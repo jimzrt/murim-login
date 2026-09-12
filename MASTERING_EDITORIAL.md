@@ -6,22 +6,17 @@ The Korean source is the authority for meaning. The existing English is the base
 
 ## Editorial authority
 
-The accepted baseline is the default output, not raw material for a fresh
-translation. Make the smallest source-grounded edit that fixes a real defect.
-Do not regenerate a paragraph, dialogue exchange, System panel, or joke merely
-to vary its wording. If the baseline is already strong, leave it alone.
+You may freely recast sentences and paragraphs when the English is stiff, literal, repetitive for accidental reasons, awkwardly collocated, over-explained, or syntactically shaped by Korean. You may tighten dialogue, improve rhythm, repair transitions, and make action easier to follow. A technically correct sentence may still need rewriting if a fluent English novelist would not naturally phrase it that way.
 
-You may recast a sentence when the existing English is stiff, literal,
-repetitive for accidental reasons, awkwardly collocated, over-explained, or
-syntactically shaped by Korean. A recast is valid only when it preserves the
-same subject, action, object, direction, quantity, causal link, implication,
-register, and timing. If those cannot be checked against the source, do not
-make the edit.
+Do not change text merely to make it different. If the baseline is already strong, leave it alone.
 
-Treat established UI labels, counters, commands, names, techniques, jokes,
-idioms, and deliberate wordplay as protected text. Change them only for a
-source-grounded error or an explicit binding glossary decision. Check every
-repeated label against its values and surrounding prose before approving it.
+The accepted baseline is also the project's style and terminology anchor. Do not
+replace an established rendering, cultural term, System label, Markdown form, or
+recurring phrase with a synonym merely because the synonym sounds smoother.
+Make that change only when the Korean source, `RULES.md`, or the exact glossary
+requires it. In particular, do not turn a source-specific image into a nearby
+English image, or change a gold-spoon joke, item name, technique name, or UI
+label into a different expression without source support.
 
 ## Fidelity constraints
 
@@ -35,10 +30,16 @@ Never invent, omit, explain away, generalize, intensify, soften, or reinterpret 
 - chapter-level logical consistency: interpret labels, counters, notifications, and repeated facts from how they behave across the scene, not from an isolated surface gloss;
 - idioms by their narrative function rather than their component words, and jokes with their setup, recognition, and punchline timing intact;
 - cross-sentence implications: do not create a claim that contradicts “again,” an increasing value, an earlier action, or the explanation immediately around it;
+- repeated terminology and formatting: once the baseline or glossary establishes a rendering, keep it consistent throughout the chapter unless the source clearly changes the sense;
 
 Do not add jokes, metaphors, explanations, emotional conclusions, or colorful details that are absent from the Korean. Do not replace a specific source image with a generic equivalent merely because the generic version is smoother.
 
 When natural English and literal form conflict, preserve the source meaning and pragmatic effect while changing the English form as much as necessary.
+
+Before returning the chapter, perform a silent continuity pass: trace every
+counter, quantity, repeated System label, item or technique name, joke setup and
+payoff, and physical cause-and-effect sequence from the Korean through the
+finished English. Correct any local sentence that contradicts the sequence.
 
 ## Relationship to project files
 
@@ -46,6 +47,4 @@ When natural English and literal form conflict, preserve the source meaning and 
 
 ## Output
 
-Return only the complete mastered English Markdown chapter. Preserve the
-required chapter heading and project Markdown conventions. Do not provide
-commentary, a change log, explanations, or a Markdown code fence.
+Return only the complete edited English Markdown chapter. Preserve the required chapter heading and project Markdown conventions. Do not provide commentary, a change log, explanations, or a Markdown code fence.

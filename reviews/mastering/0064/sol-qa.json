@@ -1,0 +1,31 @@
+{
+  "chapter": 64,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.088,
+    "source_characters": 5572,
+    "source_paragraphs": 222,
+    "translation_characters": 11632,
+    "translation_paragraphs": 223
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "천무학관",
+        "preferred": "Heaven's Gate Temple"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "일격",
+        "preferred": "One Strike"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}

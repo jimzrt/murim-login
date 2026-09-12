@@ -108,7 +108,7 @@ def build_review_packet(chapter_block: list[int]) -> str:
     sections: list[str] = []
     combined_source = "\n".join(extract_chapter(number) for number in chapter_block)
     glossary = exact_glossary_entries(combined_source)
-    profiles = profile_entries(combined_source, max(chapter_block) + 1)
+    profiles = profile_entries(combined_source)
     for number in chapter_block:
         qa = qa_for(number)
         sections.append(f"""## Chapter {number}

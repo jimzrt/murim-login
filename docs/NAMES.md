@@ -22,3 +22,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 아문 | **Amun** | Acupoint |
 | 봉안 | **Bongan** | Acupoint |
 | 입동 | **Ip-dong** | Acupoint |
+| 갱생권 | **Reformation Fist** | Jin Mukyung's named fist technique |
+| 금나수 | **grappling technique** | Close-combat wrist-lock technique; rendered descriptively |

@@ -5,7 +5,6 @@ from tools.model_io import (
     blocking_dispositions,
     extract_reading_copy,
     parse_json_object,
-    parse_revision_response,
     validate_patchset,
     validate_range_review,
     validate_review,
@@ -59,25 +58,6 @@ class ModelIoTest(unittest.TestCase):
         })
         with self.assertRaisesRegex(ValueError, "overlap"):
             apply_review_replacements("Current.", review)
-
-    def test_full_revision_envelope_keeps_copy_and_dispositions_together(self):
-        parsed = parse_revision_response(
-            "<<<TRANSLATION>>>\n# Chapter 1\n\nCorrected.\n"
-            "<<<DISPOSITIONS>>>\n"
-            '{"dispositions":[{"finding_id":"F01","status":"applied","reason":"Fixed."}]}\n'
-            "<<<END>>>",
-            self.review(),
-        )
-        self.assertEqual(parsed["translation"], "# Chapter 1\n\nCorrected.\n")
-        self.assertEqual(parsed["dispositions"][0]["status"], "applied")
-
-    def test_full_revision_requires_one_disposition_per_finding(self):
-        with self.assertRaisesRegex(ValueError, "missing dispositions"):
-            parse_revision_response(
-                "<<<TRANSLATION>>>\n# Chapter 1\n\nUnchanged.\n"
-                "<<<DISPOSITIONS>>>\n{\"dispositions\":[]}\n<<<END>>>",
-                self.review(),
-            )
 
     def test_durable_update_rejects_multiline_profile_patch(self):
         value = {

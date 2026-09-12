@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "At Wipeng's look of *Surely you don’t mean…*, Jin Wikyung nodded.",
+      "defect": "The draft reverses both the look and the nod: Jin Wikyung gives the questioning look, and Wipeng confirms it by nodding.",
+      "id": "F01",
+      "rationale": "The explicit subject of 고개를 끄덕였다 is Wipeng, while the questioning look belongs contextually to Jin Wikyung.",
+      "replacement": "At the disbelief in Jin Wikyung’s eyes, Wipeng nodded.",
+      "severity": "critical",
+      "source": "설마, 하는 눈빛에 위팽이 고개를 끄덕였다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "If it had landed cleanly, that blow would have been the last attack I ever faced.",
+      "defect": "“Ever faced” implies that the punch would have killed Taekyung, while the source only says it would have ended the exchange.",
+      "id": "F02",
+      "rationale": "마지막 공격 describes the final attack in context and does not establish Taekyung’s death.",
+      "replacement": "If it had landed cleanly, that would have been the last blow.",
+      "severity": "critical",
+      "source": "정확하게 타격했다면 지금의 한 방이 마지막 공격이 됐을 거다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Hold out for a quarter of an hour. Then you can be my hyung.",
+      "defect": "“Can be” weakens the categorical hierarchy-reversal taunt into permission, and retaining “hyung” is less natural than expressing the relationship directly.",
+      "id": "F03",
+      "rationale": "그럼 네가 내 형이다 literally makes Taekyung the older brother if he lasts that long; the certainty is the punchline.",
+      "replacement": "Hold out for a quarter of an hour. Then you’re my big brother.",
+      "severity": "major",
+      "source": "일각이라도 버텨 봐라. 그럼 네가 내 형이다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Private collection or not, you need to go outside right now.”",
+      "defect": "The draft omits the blunt, contemptuous force of 나발이고, flattening Wipeng’s exasperated register.",
+      "id": "F04",
+      "rationale": "이고 나발이고 dismissively rejects the preceding concern rather than neutrally setting it aside.",
+      "replacement": "“To hell with your private collection—you need to get outside right now.”",
+      "severity": "major",
+      "source": "“개인 소장이고 나발이고 지금 당장 나가 보셔야 합니다.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "*Jesus Christ, what kind of name is that for a fist technique?*",
+      "defect": "“Jesus Christ” substitutes a milder religious exclamation for the source’s strong profanity.",
+      "id": "F05",
+      "rationale": "시발 is a strong expletive equivalent to “fuck”; Taekyung’s profanity should not be sanitized.",
+      "replacement": "*Fuck, what kind of name is that for a fist technique?*",
+      "severity": "major",
+      "source": "시발, 권법 이름이 뭐 그따위냐."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“You remember the Reformation Fist, don’t you?”",
+      "defect": "The draft changes “it has been a while” into a question about remembering the technique, losing the implication that Mukyung used to administer this beating to Taekyung.",
+      "id": "F06",
+      "rationale": "오랜만이지 marks the renewed experience after a long interval, which supplies characterization and the joke.",
+      "replacement": "“Been a while since you had a taste of the Reformation Fist, hasn’t it?”",
+      "severity": "major",
+      "source": "“갱생권(更生拳)은 오랜만이지?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Wasn't he the type of person who practically died for his younger brothers?",
+      "defect": "The literal wording is unnatural and can imply self-sacrifice rather than extreme affection.",
+      "id": "F07",
+      "rationale": "동생이라면 껌뻑 죽다 idiomatically means being exceptionally fond of or indulgent toward one’s younger siblings.",
+      "replacement": "Wasn’t he the type who absolutely doted on his younger brothers?",
+      "severity": "minor",
+      "source": "애초에 동생이라면 껌뻑 죽는 인간 아닌가."
+    },
+    {
+      "confidence": 0.96,
+      "current": "The wind tore apart at his fist.",
+      "defect": "“Tore apart at his fist” is an unnatural English collocation and obscures that the punch tears through the air.",
+      "id": "F08",
+      "rationale": "The source depicts the air splitting at the leading edge of the punch.",
+      "replacement": "The air tore apart before his fist.",
+      "severity": "minor",
+      "source": "그 끝에서 바람이 찢어졌다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "—The Third Young Master's residence is collapsing!",
+      "defect": "The draft omits the prolonged, panicked scream that carries the source’s comic timing.",
+      "id": "F09",
+      "rationale": "The extended 다아아악 deliberately stretches the alarm into a scream.",
+      "replacement": "—The Third Young Master’s residence is collapsiiiing!",
+      "severity": "minor",
+      "source": "- 삼공차 처소가 무너진다아아악!"
+    }
+  ],
+  "summary": "One critical subject reversal, one added lethal implication, and several losses of hierarchy, profanity, characterization, and comic register.",
+  "version": 1
+}

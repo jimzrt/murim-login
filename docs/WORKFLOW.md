@@ -8,9 +8,10 @@ manual substitute for controller state.
 Run `python tools/workflow.py status N`. `.work/NNNN/workflow.json` is the
 transaction record. Conversation history is not. Do not edit transaction JSON
 or rebase hashes manually. Source changes, stale hashes, invalid model JSON,
-packet-budget failures, QA failures, and unresolved major findings are stop
-conditions. `python tools/run_next.py` resumes an in-flight transaction even
-if `docs/STATE.md` already names the next chapter; do not start that later
+packet-budget failures, and QA failures are stop conditions. Checkpoint findings
+are recorded for deferred retrofit and do not block publication of the current
+chapter. `python tools/run_next.py` resumes an in-flight transaction even if
+`docs/STATE.md` already names the next chapter; do not start that later
 chapter until the current one is committed. Invalid model JSON saves the raw
 output under `.work/NNNN/` as `*-raw.txt`. Every model call also writes its OMP
 JSON event stream under `.work/NNNN/omp/<phase>.jsonl`, with parsed text beside
@@ -95,10 +96,9 @@ it reports through `MASTERED`. No coordinator model or tool-driving agent is
 involved. It then prints chapter and project cost reports, commits the accepted
 change set, registers the commit, and stops.
 
-If status reports a human action instead of one exact `workflow.py` command
-(currently checkpoint dispositions), the wrapper stops without guessing.
-Complete that action and rerun `python tools/run_next.py`; it resumes the same
-transaction.
+Checkpoint reports are automatically recorded with unresolved dispositions for
+later retrofit. They are advisory and never prevent the current chapter from
+being accepted.
 
 Inspect exact usage with:
 
@@ -134,7 +134,9 @@ python tools/cost_report.py
 If checkpoint reviews repeatedly find nothing new, increase
 `checkpoint_review_interval` to 10 or 20 while retaining five-chapter summaries.
 If they catch meaningful drift, keep the shorter interval. A checkpoint uses
-structured exact replacements plus independent structured dispositions.
+structured exact replacements plus independent structured dispositions. When no
+disposition file exists, the controller records every finding as unresolved for
+deferred retrofit and continues after deterministic QA passes.
 
 ## Retrospective Range Audit
 
