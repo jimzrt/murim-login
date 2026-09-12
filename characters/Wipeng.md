@@ -1,6 +1,6 @@
 # Wipeng (위팽)
 
-- **Safe through:** Chapter 62
+- **Safe through:** Chapter 64
 - **Aliases:** None revealed
 - **Role:** Jin Wikyung’s personal guard
 - **Personality:** Loyal, observant, teasing, and resigned to his master’s impulsive departures

@@ -4,8 +4,6 @@ Translation roles live in `models` in [`docs/workflow.json`](workflow.json):
 
 - `draft`
 - `review` (chapter review and retrofit review)
-- `revision` (source-aware full-copy revision with dispositions)
-- `polish` (source-aware prose polish)
 - `summary`
 - `checkpoint` (optional; five-chapter checkpoint review; defaults to `review`)
 
@@ -18,8 +16,7 @@ Mastering roles live in `models` in [`docs/mastering.json`](mastering.json):
 Do not copy those IDs into docs or defaults elsewhere. Call sites read the
 resolved `draft_model`, `review_model`, `summary_model`, and `checkpoint_model`
 keys from `project_config()`, and mastering selectors from
-`docs/mastering.json`. The default production path is draft → review →
-revision → polish → update/checkpoint → mastering.
+`docs/mastering.json`.
 
 Ordered provider fallbacks for the translation and mastering selectors are in
 [`.omp/config.yml`](../.omp/config.yml). OpenAI models prefer the Codex
@@ -31,6 +28,10 @@ All calls are isolated, non-interactive, tool-free, session-free, and bounded by
 phase-specific packets and token ceilings. Do not silently substitute models in
 the workflow. Reviewer replacements and checkpoint dispositions are
 schema-validated before workflow state advances.
+
+`docs/mastering.json` also defines `quality_gate_min_auto_confidence`, the
+confidence threshold for automatically applying source-grounded minor fidelity
+repairs.
 
 Every model subprocess uses OMP JSON mode. Each assistant `message_end` must
 contain provider-reported usage; a missing or malformed usage record is a hard
