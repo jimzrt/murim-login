@@ -357,7 +357,10 @@ def master_packet(number: int, source: str, baseline: str, glossary: list[dict])
 
 ## Final instruction
 
-Edit the complete baseline against the Korean source. Return only the complete mastered English Markdown chapter beginning exactly with `# Chapter {number}`.
+Edit the complete baseline against the Korean source. Preserve strong existing
+English, but make every source-grounded correction and final native-English
+improvement still needed after revision and polish. Return only the complete
+mastered English Markdown chapter beginning exactly with `# Chapter {number}`.
 """
 
 
@@ -461,8 +464,7 @@ def command_master(number: int, force: bool = False) -> None:
     mastered = normalize_chapter(output)
     validate_chapter(mastered, number, "master")
     atomic_text(p["sol"], mastered)
-    qa = run_qa(number, source, mastered, glossary)
-    atomic_json(p["sol_qa"], qa)
+    atomic_json(p["sol_qa"], run_qa(number, source, mastered, glossary))
     save_metric(p, "master", metrics)
     update_state(p, state, "MASTERED", sol_sha256=sha256_text(mastered))
     print(f"{number:04d}: master edit complete")
@@ -1042,44 +1044,53 @@ def command_qa(number: int) -> None:
     final = normalize_chapter(read_text(p["final"]))
     qa = run_qa(number, source, final, glossary)
     atomic_json(p["qa"], qa)
+    cfg = load_config()
     fidelity = {"findings": []}
     repairs = 0
-    for attempt in range(2):
-        if not qa["passed"]:
-            break
-        fidelity = run_fidelity_gate(number, source, final, qa, p)
-        major_or_critical = sum(
-            item["severity"] in {"major", "critical"}
-            for item in fidelity["findings"]
-        )
-        if not major_or_critical or attempt == 1:
-            break
-        final, applied = apply_fidelity_repairs(final, fidelity)
-        if not applied:
-            break
-        repairs += applied
-        validate_chapter(final, number, "fidelity repair")
-        atomic_text(p["final"], final)
-        update_state(p, state, "ASSEMBLED", final_sha256=sha256_text(final))
-        qa = run_qa(number, source, final, glossary)
-        atomic_json(p["qa"], qa)
+    if cfg.get("run_quality_gate", True):
+        for attempt in range(2):
+            if not qa["passed"]:
+                break
+            fidelity = run_fidelity_gate(number, source, final, qa, p)
+            major_or_critical = sum(
+                item["severity"] in {"major", "critical"}
+                for item in fidelity["findings"]
+            )
+            if not major_or_critical or attempt == 1:
+                break
+            final, applied = apply_fidelity_repairs(final, fidelity)
+            if not applied:
+                break
+            repairs += applied
+            validate_chapter(final, number, "fidelity repair")
+            atomic_text(p["final"], final)
+            update_state(p, state, "ASSEMBLED", final_sha256=sha256_text(final))
+            qa = run_qa(number, source, final, glossary)
+            atomic_json(p["qa"], qa)
     semantic_failures = sum(
         item["severity"] in {"major", "critical"}
         for item in fidelity["findings"]
     )
     passed = bool(qa["passed"]) and semantic_failures == 0
+    artifacts: dict[str, object] = {
+        "qa_passed": passed,
+        "qa_sha256": sha256_text(read_text(p["qa"])),
+        "fidelity_repairs": repairs,
+    }
+    if cfg.get("run_quality_gate", True):
+        artifacts["fidelity_review_sha256"] = sha256_text(read_text(p["fidelity_review"]))
     update_state(
         p,
         state,
         "VERIFIED" if passed else "QA_FAILED",
-        qa_passed=passed,
-        fidelity_repairs=repairs,
+        **artifacts,
     )
     status = "PASS" if passed else "FAIL"
+    gate = "model fidelity gate" if cfg.get("run_quality_gate", True) else "adjudicator fidelity gate"
     print(
         f"{number:04d}: QA {status} — {len(qa['errors'])} errors, "
         f"{len(qa['warnings'])} warnings, {semantic_failures} major/critical "
-        f"fidelity findings, {repairs} repairs"
+        f"fidelity findings, {repairs} repairs ({gate})"
     )
 
 
@@ -1177,13 +1188,19 @@ def command_report(chapters: Iterable[int]) -> None:
         atomic_json(report_path, payload)
     print(json.dumps(payload, ensure_ascii=False, indent=2))
 
-
 def command_promote(number: int, confirm: str) -> None:
     if confirm != "REPLACE_TRANSLATIONS":
         raise ValueError("promotion requires --confirm REPLACE_TRANSLATIONS")
     state, p = create_or_verify_state(number)
     if state.get("stage") != "VERIFIED" or not state.get("qa_passed"):
         raise ValueError(f"chapter {number}: only VERIFIED chapters can be promoted")
+    required_hashes = [("qa", "qa_sha256")]
+    if load_config().get("run_quality_gate", True):
+        required_hashes.append(("fidelity_review", "fidelity_review_sha256"))
+    for key, state_key in required_hashes:
+        expected = state.get(state_key)
+        if not expected or not p[key].exists() or sha256_text(read_text(p[key])) != expected:
+            raise ValueError(f"chapter {number}: {key} artifact is stale or missing")
     final = normalize_chapter(read_text(p["final"]))
     validate_chapter(final, number, "final")
     # create_or_verify_state already proved translations/<chapter>.md still matches snapshot.

@@ -21,15 +21,17 @@ except ModuleNotFoundError:
     from run_lock import hold_run_lock
 
 STAGES = (
-    "READY", "CONTEXT_READY", "DRAFTED", "REVIEWED", "REVISED",
+    "READY", "CONTEXT_READY", "DRAFTED", "REVIEWED", "REVISED", "POLISHED",
     "CHECKPOINT_REVIEWED", "CHECKPOINT_APPLIED", "ACCEPTED", "MASTERED", "COMMITTED",
 )
 HANGUL = re.compile(r"[가-힣]")
-MODEL_ROLES = ("draft", "review", "summary")
+MODEL_ROLES = ("draft", "review", "revision", "polish", "summary")
 DEFAULT_CONFIG = {
     "models": {
-        "draft": "openai-codex/gpt-5.6-luna:high",
+        "draft": "openai-codex/gpt-5.6-sol:high",
         "review": "cursor/cursor-grok-4.6:medium",
+        "revision": "cursor/cursor-grok-4.6:medium",
+        "polish": "cursor/cursor-grok-4.6:medium",
         "summary": "openai-codex/gpt-5.6-luna:high",
     },
     "context_max_bytes": 16384,
@@ -37,8 +39,9 @@ DEFAULT_CONFIG = {
     "profile_max_bytes": 4096,
     "profile_total_max_bytes": 12288,
     "packet_token_limits": {
-        "draft": 60000, "review": 60000, "update": 30000,
-        "checkpoint": 120000, "summary": 20000,
+        "draft": 60000, "review": 60000, "revision": 60000,
+        "polish": 60000, "update": 30000, "checkpoint": 120000,
+        "summary": 20000,
     },
     "summary_interval": 5,
     "beat_max_bytes": 4096,
@@ -71,6 +74,38 @@ def resolve_role_models(value: dict) -> dict:
     return value
 
 
+def editorial_model_call_count(workflow: dict, mastering: dict) -> int:
+    """Count per-chapter editorial model calls, excluding state/summary work."""
+    workflow_roles = ("draft", "review", "revision", "polish")
+    count = sum(bool(workflow.get("models", {}).get(role)) for role in workflow_roles)
+    checkpoint = (
+        workflow.get("models", {}).get("checkpoint")
+        or workflow.get("checkpoint_model")
+        or workflow.get("models", {}).get("review")
+    )
+    count += bool(checkpoint)
+    count += sum(
+        bool(mastering.get("models", {}).get(role))
+        for role in ("master", "adjudicator")
+    )
+    if mastering.get("run_quality_gate", True):
+        count += 1
+    return count
+
+
+def enforce_editorial_call_ceiling(workflow: dict) -> None:
+    path = ROOT / "docs" / "mastering.json"
+    if not path.exists():
+        return
+    mastering = json.loads(path.read_text(encoding="utf-8"))
+    ceiling = int(mastering.get("editorial_call_ceiling", 7))
+    count = editorial_model_call_count(workflow, mastering)
+    if count > ceiling:
+        raise SystemExit(
+            f"editorial workflow requires {count} model calls; configured ceiling is {ceiling}"
+        )
+
+
 def project_config() -> dict:
     path = ROOT / "docs" / "workflow.json"
     value = json.loads(path.read_text(encoding="utf-8")) if path.exists() else DEFAULT_CONFIG
@@ -87,6 +122,7 @@ def project_config() -> dict:
         raise SystemExit("profile byte limits must be positive and total must cover one profile")
     value["profile_max_bytes"] = profile_max
     value["profile_total_max_bytes"] = profile_total
+    enforce_editorial_call_ceiling(value)
     return value
 
 
@@ -142,7 +178,12 @@ def paths(number: int) -> dict[str, Path]:
         "context": work / "context.md",
         "draft": work / "draft.md",
         "draft_qa": ROOT / "reviews" / "qa" / f"{number:04d}-draft.json",
+        "revision_context": work / "revision-context.md",
         "revised": work / "revised.md",
+        "dispositions": ROOT / "reviews" / "sol" / f"{number:04d}.dispositions.json",
+        "polish_context": work / "polish-context.md",
+        "polished": work / "polished.md",
+        "polish_qa": ROOT / "reviews" / "qa" / f"{number:04d}-polish.json",
         "final_qa": ROOT / "reviews" / "qa" / f"{number:04d}-final.json",
         "metrics": ROOT / "reviews" / "metrics" / f"{number:04d}.json",
         "translation": ROOT / "translations" / f"{number:04d}.md",
@@ -228,7 +269,7 @@ def save(state: dict, p: dict[str, Path], stage: str, **artifacts: str) -> None:
 
 
 IN_FLIGHT_STAGES = {
-    "CONTEXT_READY", "DRAFTED", "REVIEWED", "REVISED",
+    "CONTEXT_READY", "DRAFTED", "REVIEWED", "REVISED", "POLISHED",
     "CHECKPOINT_REVIEWED", "CHECKPOINT_APPLIED", "ACCEPTED", "MASTERED",
 }
 
@@ -283,7 +324,7 @@ def validate_reading_copy(path: Path, number: int) -> None:
 
 
 def reading_copy_path(p: dict[str, Path]) -> Path:
-    return p["revised"]
+    return p["polished"]
 
 
 def durable_update_valid(state: dict, p: dict[str, Path]) -> bool:
@@ -322,18 +363,24 @@ def durable_next_action(number: int, state: dict, p: dict[str, Path]) -> str:
 
 def mastering_required_files(number: int) -> set[str]:
     folder = Path("reviews") / "mastering" / f"{number:04d}"
-    return {
-        str(folder / name)
-        for name in (
-            "baseline.md", "sol.md", "final.md", "adjudication.json",
-            "qa.json", "state.json", "metrics.json",
-        )
+    names = {
+        "baseline.md", "master-packet.md", "sol.md", "sol-qa.json",
+        "diff.json", "diff.md", "adjudicator-packet.md", "adjudication.json",
+        "final.md", "qa.json", "state.json", "metrics.json",
     }
+    config_path = ROOT / "docs" / "mastering.json"
+    if config_path.exists():
+        config = json.loads(config_path.read_text(encoding="utf-8"))
+        if config.get("run_quality_gate", True):
+            names.update({"fidelity-packet.md", "fidelity-review.json"})
+    return {str(folder / name) for name in names}
 
 
 def next_action(state: dict, p: dict[str, Path]) -> str:
     number = state["chapter"]
     if state["stage"] == "REVISED":
+        return f"python tools/workflow.py polish {number}"
+    if state["stage"] == "POLISHED":
         return durable_next_action(number, state, p)
     return {
         "READY": f"python tools/workflow.py prepare {number}",
@@ -491,35 +538,89 @@ def command_revise(number: int) -> None:
     if digest(p["review_json"]) != state["artifacts"]["report_sha256"]:
         raise SystemExit("saved review changed after REVIEWED")
     try:
-        from tools.context import chapter_text, exact_glossary_entries
-        from tools.model_io import apply_review_replacements
+        from tools.context import build_revision_packet, chapter_text, exact_glossary_entries
+        from tools.model_io import blocking_dispositions, parse_revision_response
         from tools.qa import run_qa
     except ModuleNotFoundError:
-        from context import chapter_text, exact_glossary_entries
-        from model_io import apply_review_replacements
+        from context import build_revision_packet, chapter_text, exact_glossary_entries
+        from model_io import blocking_dispositions, parse_revision_response
         from qa import run_qa
     review = json.loads(p["review_json"].read_text(encoding="utf-8"))
-    draft = p["draft"].read_text(encoding="utf-8")
+    packet = build_revision_packet(number, p["draft"].read_text(encoding="utf-8"), review)
+    enforce_packet_budget("revision", packet)
+    atomic_text(p["revision_context"], packet)
+    raw, metrics = run_omp(
+        p["revision_context"], project_config()["revision_model"], 960,
+        log_path=omp_log_path(number, "revision"),
+    )
+    atomic_text(p["work"] / "revision-raw.txt", raw)
     try:
-        revised = apply_review_replacements(draft, review)
+        revision = parse_revision_response(raw, review)
     except ValueError as error:
-        raise SystemExit(str(error)) from None
-    atomic_text(p["revised"], revised)
+        record_failed_model_output(p["work"] / "revision-raw.txt", raw, error)
+    canonical_dispositions = {"version": 1, "dispositions": revision["dispositions"]}
+    if blocking_dispositions(review, canonical_dispositions):
+        raise SystemExit("critical or major revision findings remain unresolved")
+    atomic_text(p["revised"], revision["translation"])
+    atomic_json(p["dispositions"], canonical_dispositions)
     validate_reading_copy(p["revised"], number)
     source = chapter_text(number)
     glossary = [(item["korean"], item["english"]) for item in exact_glossary_entries(source)]
-    qa = run_qa(number, source, revised, glossary)
+    qa = run_qa(number, source, revision["translation"], glossary)
     atomic_json(p["final_qa"], qa)
     if not qa["passed"]:
         raise SystemExit(f"revision failed deterministic QA; inspect {p['final_qa']}")
+    record_metric(p, "revision_model", **metrics)
     save(
-        state,
-        p,
-        "REVISED",
+        state, p, "REVISED",
         revised_sha256=digest(p["revised"]),
+        dispositions_sha256=digest(p["dispositions"]),
         final_qa_sha256=digest(p["final_qa"]),
     )
 
+
+def command_polish(number: int) -> None:
+    state, p = load(number)
+    require(state, "REVISED")
+    if digest(p["revised"]) != state["artifacts"]["revised_sha256"]:
+        raise SystemExit("revised.md changed after REVISED")
+    if digest(p["dispositions"]) != state["artifacts"]["dispositions_sha256"]:
+        raise SystemExit("structured dispositions changed after REVISED")
+    try:
+        from tools.context import build_polish_packet, chapter_text, exact_glossary_entries
+        from tools.model_io import extract_reading_copy
+        from tools.qa import run_qa
+    except ModuleNotFoundError:
+        from context import build_polish_packet, chapter_text, exact_glossary_entries
+        from model_io import extract_reading_copy
+        from qa import run_qa
+    packet = build_polish_packet(number, p["revised"].read_text(encoding="utf-8"))
+    enforce_packet_budget("polish", packet)
+    atomic_text(p["polish_context"], packet)
+    raw, metrics = run_omp(
+        p["polish_context"], project_config()["polish_model"], 960,
+        log_path=omp_log_path(number, "polish"),
+    )
+    atomic_text(p["work"] / "polish-raw.txt", raw)
+    try:
+        polished = extract_reading_copy(raw, number)
+    except ValueError as error:
+        record_failed_model_output(p["work"] / "polish-raw.txt", raw, error)
+    atomic_text(p["polished"], polished)
+    validate_reading_copy(p["polished"], number)
+    source = chapter_text(number)
+    glossary = [(item["korean"], item["english"]) for item in exact_glossary_entries(source)]
+    qa = run_qa(number, source, polished, glossary)
+    atomic_json(p["polish_qa"], qa)
+    atomic_json(p["final_qa"], qa)
+    if not qa["passed"]:
+        raise SystemExit(f"polish failed deterministic QA; inspect {p['polish_qa']}")
+    record_metric(p, "polish_model", **metrics)
+    save(
+        state, p, "POLISHED",
+        polished_sha256=digest(p["polished"]),
+        final_qa_sha256=digest(p["final_qa"]),
+    )
 
 
 
@@ -609,7 +710,7 @@ def durable_files(number: int, update: dict) -> dict[Path, str]:
         seen_names.add(korean)
         names_text += f"\n| {korean} | **{row['english']}** | {row['notes']} |"
 
-    matched = {str(path.relative_to(ROOT)): path for path, _ in profile_entries(source)}
+    matched = {str(path.relative_to(ROOT)): path for path, _ in profile_entries(source, number)}
     profile_texts = {path: path.read_text(encoding="utf-8") for path in matched.values()}
     for item in update["profile_updates"]:
         relative = item["path"]
@@ -671,9 +772,9 @@ def durable_files(number: int, update: dict) -> dict[Path, str]:
 
 def command_update(number: int, dry_run: bool) -> None:
     state, p = load(number)
-    require(state, "REVISED")
+    require(state, "POLISHED")
     copy = reading_copy_path(p)
-    copy_key = "revised_sha256"
+    copy_key = "polished_sha256"
     if digest(copy) != state["artifacts"][copy_key]:
         raise SystemExit("reading copy changed after the last recorded stage")
     try:
@@ -723,7 +824,7 @@ def command_update(number: int, dry_run: bool) -> None:
 
 def command_summarize(number: int) -> None:
     state, p = load(number)
-    require(state, "REVISED")
+    require(state, "POLISHED")
     if not durable_update_valid(state, p):
         raise SystemExit(f"run: python tools/workflow.py update {number}")
     if not interval_due(number, "summary_interval"):
@@ -755,7 +856,7 @@ def command_summarize(number: int) -> None:
         raise SystemExit(str(error)) from None
     atomic_text(p["checkpoint_summary"], summary)
     record_metric(p, "summary_model", **metrics)
-    save(state, p, "REVISED", summary_sha256=digest(p["checkpoint_summary"]))
+    save(state, p, "POLISHED", summary_sha256=digest(p["checkpoint_summary"]))
 
 
 def state_claims_completion(number: int) -> bool:
@@ -949,7 +1050,7 @@ def command_checkpointed(number: int) -> None:
     if not qa["passed"]:
         raise SystemExit(f"checkpoint revision failed deterministic QA; inspect {p['final_qa']}")
     artifacts = {
-        "revised_sha256": digest(copy),
+        "polished_sha256": digest(copy),
         "checkpoint_disposition_sha256": digest(p["checkpoint_disposition"]),
         "final_qa_sha256": digest(p["final_qa"]),
     }
@@ -991,13 +1092,13 @@ def command_master(number: int) -> None:
 
 def command_accept(number: int) -> None:
     state, p = load(number)
-    expected = "CHECKPOINT_APPLIED" if interval_due(number, "checkpoint_review_interval") else "REVISED"
+    expected = "CHECKPOINT_APPLIED" if interval_due(number, "checkpoint_review_interval") else "POLISHED"
     require(state, expected)
     if not durable_update_valid(state, p):
         raise SystemExit(f"run: python tools/workflow.py update {number}")
     copy = reading_copy_path(p)
     validate_reading_copy(copy, number)
-    copy_key = "revised_sha256"
+    copy_key = "polished_sha256"
     if digest(copy) != state["artifacts"][copy_key]:
         raise SystemExit("reading copy changed after the last recorded stage; record it again before acceptance")
     if digest(p["final_qa"]) != state["artifacts"]["final_qa_sha256"]:
@@ -1067,7 +1168,9 @@ def command_committed(number: int, commit: str) -> None:
         {
             str(p["review_json"].relative_to(ROOT)),
             str(p["review_meta"].relative_to(ROOT)),
+            str(p["dispositions"].relative_to(ROOT)),
             str(p["draft_qa"].relative_to(ROOT)),
+            str(p["polish_qa"].relative_to(ROOT)),
             str(p["final_qa"].relative_to(ROOT)),
             str(p["metrics"].relative_to(ROOT)),
         }
@@ -1092,8 +1195,8 @@ def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     sub = parser.add_subparsers(dest="command", required=True)
     for name in (
-        "status", "prepare", "draft", "drafted", "review", "revise", "update",
-        "summarize", "checkpoint", "checkpointed", "accept", "master",
+        "status", "prepare", "draft", "drafted", "review", "revise", "polish",
+        "update", "summarize", "checkpoint", "checkpointed", "accept", "master",
     ):
         item = sub.add_parser(name)
         item.add_argument("chapter", type=int)
@@ -1127,6 +1230,8 @@ def main() -> int:
             command_review(args.chapter, args.dry_run)
         elif args.command == "revise":
             command_revise(args.chapter)
+        elif args.command == "polish":
+            command_polish(args.chapter)
         elif args.command == "update":
             command_update(args.chapter, args.dry_run)
         elif args.command == "summarize":

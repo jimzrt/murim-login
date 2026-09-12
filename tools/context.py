@@ -11,6 +11,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 SUMMARY_NAME = re.compile(r"^(\d{4})-(\d{4})\.md$")
+SAFE_THROUGH = re.compile(r"^- \*\*Safe through:\*\* Chapter (\d+)\s*$", re.MULTILINE)
 
 PROFILE_FIELDS = ("Safe through", "Aliases", "Role", "Personality", "Voice", "Relationships")
 
@@ -146,7 +147,7 @@ def glossary_text(entries: list[dict]) -> str:
     return "\n".join(item["row"] for item in entries) or "(No exact compendium rows matched.)"
 
 
-def profile_entries(source: str) -> list[tuple[Path, str]]:
+def profile_entries(source: str, number: int | None = None) -> list[tuple[Path, str]]:
     try:
         from tools.names import profile_koreans
     except ModuleNotFoundError:
@@ -154,9 +155,14 @@ def profile_entries(source: str) -> list[tuple[Path, str]]:
     profiles: list[tuple[Path, str]] = []
     for path in sorted((ROOT / "characters").glob("*.md")):
         body = path.read_text(encoding="utf-8")
+        if number is not None:
+            safe = SAFE_THROUGH.search(body)
+            if not safe or int(safe.group(1)) >= number:
+                continue
         if any(name in source for name in profile_koreans(body)):
             profiles.append((path, body))
     return bounded_profiles(profiles)
+
 
 
 def profiles_text(profiles: list[tuple[Path, str]]) -> str:
@@ -300,7 +306,7 @@ def build_draft_packet(number: int) -> str:
     compendium_path = ROOT / "compendium.md"
     rules = rules_path.read_text(encoding="utf-8").strip()
     glossary = exact_glossary_entries(source)
-    profiles = profile_entries(source)
+    profiles = profile_entries(source, number)
     summary_path, summary = latest_summary_entry(number)
     continuity_paths, continuity = continuity_text(context)
     body = f"""# Draft Task — Chapter {number}
@@ -308,6 +314,12 @@ def build_draft_packet(number: int) -> str:
 Translate only Chapter {number}. Return only the complete English Markdown
 reading copy beginning with `# Chapter {number}`. Preserve every source beat and
 ambiguity. Do not review, explain, update files, or continue to another chapter.
+
+Before finalizing, silently self-check every action, subject, object, quantity,
+causal link, idiom, joke, euphemism, System command, and repeated counter
+against the Korean source. Naturalize English only after meaning is secure; do
+not turn an explanation into self-criticism or a spoken command into a status
+notification.
 
 ## Binding rules
 
@@ -354,7 +366,7 @@ def build_review_packet(number: int, draft: str, qa: dict) -> str:
     rules_path = ROOT / "RULES.md"
     rules = rules_path.read_text(encoding="utf-8").strip()
     glossary = exact_glossary_entries(source)
-    profiles = profile_entries(source)
+    profiles = profile_entries(source, number)
     active = {key: context[key] for key in ("active_continuity", "open_questions", "temporary_decisions")}
     return f"""# Structured Review Task — Chapter {number}
 
@@ -432,12 +444,138 @@ not overlap.
 """
 
 
+def build_revision_packet(number: int, draft: str, review: dict) -> str:
+    source = chapter_text(number)
+    rules = (ROOT / "RULES.md").read_text(encoding="utf-8").strip()
+    glossary = exact_glossary_entries(source)
+    profiles = profile_entries(source, number)
+    return f"""# Source-Aware Revision Task — Chapter {number}
+
+Produce the complete second English draft. Start from the reviewed draft; do
+not translate from scratch. Resolve every source-supported finding, then perform
+a chapter-wide natural-English revision for syntax, collocation, paragraph
+flow, dialogue rhythm, and voice. Fidelity outranks stylistic novelty.
+
+You may restructure sentences and paragraphs where Korean and English require
+different boundaries. Preserve every action, subject, object, direction,
+quantity, causal link, implication, joke, euphemism, System mechanic, and
+established term. Do not make an already-good span different merely for variety.
+
+## Korean source
+
+```text
+{source.rstrip()}
+```
+
+## Reviewed draft
+
+```markdown
+{draft.rstrip()}
+```
+
+## Structured findings
+
+```json
+{json.dumps(review, ensure_ascii=False, indent=2)}
+```
+
+## Binding rules
+
+{rules}
+
+## Exact glossary matches
+
+{glossary_text(glossary)}
+
+## Chapter-safe profiles
+
+{profiles_text(profiles)}
+
+## Output
+
+Return only this envelope, without a Markdown fence:
+
+<<<TRANSLATION>>>
+# Chapter {number}
+<complete revised reading copy>
+<<<DISPOSITIONS>>>
+{{"dispositions":[{{"finding_id":"F01","status":"applied|rejected|unresolved","reason":"specific source-grounded reason"}}]}}
+<<<END>>>
+
+Include exactly one disposition for every finding. After `<<<END>>>`, stop.
+"""
+
+
+def build_polish_packet(number: int, revised: str) -> str:
+    source = chapter_text(number)
+    rules_path = ROOT / "RULES.md"
+    polish_path = ROOT / "POLISH.md"
+    rules = rules_path.read_text(encoding="utf-8").strip()
+    polish = polish_path.read_text(encoding="utf-8").strip()
+    glossary = exact_glossary_entries(source)
+    profiles = profile_entries(source, number)
+    body = f"""# Source-Aware Prose Polish — Chapter {number}
+
+Polish this complete revised reading copy into native commercial-fiction
+English. Return only the complete English Markdown chapter beginning exactly
+with `# Chapter {number}`. Start from the revised copy; do not retranslate or
+summarize it.
+
+Improve translation-shaped syntax, collocations, cadence, paragraph flow,
+dialogue rhythm, and consistency. Check the Korean before changing any action,
+subject, object, quantity, causal link, implication, idiom, joke, euphemism,
+System label, or established term. When the revised English is already strong,
+leave it unchanged.
+
+## Polish guidance
+
+{polish}
+
+## Binding rules
+
+{rules}
+
+## Korean source
+
+```text
+{source.rstrip()}
+```
+
+## Revised reading copy
+
+```markdown
+{revised.rstrip()}
+```
+
+## Exact glossary matches
+
+{glossary_text(glossary)}
+
+## Chapter-safe profiles
+
+{profiles_text(profiles)}
+"""
+    used = [
+        rules_path,
+        polish_path,
+        chapter_source_path(number),
+        ROOT / "compendium.md",
+        ROOT / "docs" / "NAMES.md",
+        *(path for path, _ in profiles),
+    ]
+    return body.replace(
+        "# Source-Aware Prose Polish",
+        f"<!-- packet-manifest\n{manifest(used, body)}\n-->\n\n# Source-Aware Prose Polish",
+        1,
+    )
+
+
 def build_update_packet(number: int, reading_copy: str) -> str:
     source = chapter_text(number)
     source_path = chapter_source_path(number)
     context_path = ROOT / "docs" / "CONTEXT.json"
     names_path = ROOT / "docs" / "NAMES.md"
-    profiles = profile_entries(source)
+    profiles = profile_entries(source, number)
     prior = read_json(context_path)
     body = f"""# Durable State Update — Chapter {number}
 
