@@ -1,10 +1,8 @@
 {
   "version": 1,
   "models": {
-    "draft": "openai-codex/gpt-5.6-sol:high",
-    "review": "cursor/cursor-grok-4.6:medium",
-    "revision": "cursor/cursor-grok-4.6:medium",
-    "polish": "cursor/cursor-grok-4.6:medium",
+    "draft": "openai-codex/gpt-5.6-luna:high",
+    "review": "openai-codex/gpt-5.6-sol:medium",
     "summary": "openai-codex/gpt-5.6-luna:high",
     "checkpoint": "openai-codex/gpt-5.6-sol:medium"
   },
@@ -15,8 +13,6 @@
   "packet_token_limits": {
     "draft": 60000,
     "review": 60000,
-    "revision": 60000,
-    "polish": 60000,
     "checkpoint": 120000,
     "summary": 20000,
     "update": 30000

@@ -225,46 +225,6 @@ def validate_dispositions(dispositions: object, review: dict) -> list[dict]:
     return normalized
 
 
-def validate_revision(value: dict, review: dict) -> dict:
-    translation = value.get("translation")
-    if not isinstance(translation, str) or not translation.strip():
-        raise ValueError("revision response requires a nonempty translation")
-    normalized = validate_dispositions(value.get("dispositions"), review)
-    return {
-        "version": 1,
-        "translation": translation.strip() + "\n",
-        "dispositions": normalized,
-    }
-
-
-def parse_revision_response(raw: str, review: dict) -> dict:
-    """Parse the complete reading copy plus its structured finding dispositions."""
-    text = raw.strip()
-    if text.startswith("{") or text.startswith("```json"):
-        return validate_revision(parse_json_object(text), review)
-    translation_marker = "<<<TRANSLATION>>>"
-    disposition_marker = "<<<DISPOSITIONS>>>"
-    end_marker = "<<<END>>>"
-    marker_at = text.find(translation_marker)
-    if marker_at < 0 or disposition_marker not in text[marker_at:]:
-        raise ValueError("revision response is missing required envelope markers")
-    text = text[marker_at:]
-    translation, separator, disposition_text = text[len(translation_marker):].partition(
-        disposition_marker
-    )
-    if not separator or not translation.strip():
-        raise ValueError("revision response has an empty translation or disposition section")
-    if end_marker in disposition_text:
-        disposition_text = disposition_text.split(end_marker, 1)[0]
-    disposition_object = parse_json_object(disposition_text)
-    normalized = validate_dispositions(disposition_object.get("dispositions"), review)
-    return {
-        "version": 1,
-        "translation": translation.strip() + "\n",
-        "dispositions": normalized,
-    }
-
-
 def blocking_dispositions(review: dict, revision: dict) -> list[str]:
     severities = {finding["id"]: finding["severity"] for finding in review["findings"]}
     return [

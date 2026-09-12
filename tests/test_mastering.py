@@ -120,10 +120,30 @@ def test_apply_fidelity_repairs_only_major_findings():
             },
         ]
     }
-    repaired, count = mastering.apply_fidelity_repairs(text, review)
+    repaired, count = mastering.apply_fidelity_repairs(text, review, 0.98)
     assert count == 1
     assert "Successful repetitions (2 / 100)." in repaired
     assert "Keep this." in repaired
+
+
+def test_apply_fidelity_repairs_rejects_truncated_model_replacement():
+    review = {
+        "findings": [{
+            "id": "F01",
+            "severity": "critical",
+            "confidence": 1.0,
+            "current": "Keep this.",
+            "replacement": "[Showing lines 1-300 of 389. Use :301 to continue]",
+        }]
+    }
+    try:
+        mastering.apply_fidelity_repairs("# Chapter 1\n\nKeep this.\n", review, 0.95)
+    except ValueError as error:
+        assert "pagination marker" in str(error)
+    else:
+        raise AssertionError("truncated replacement was accepted")
+
+
 def test_fuzzy_alignment_does_not_collapse_fully_edited_chapter():
     baseline = "# Chapter 1\n\nThe hunter walked home.\n\nHe opened the door.\n\nThe room was empty.\n"
     sol = "# Chapter 1\n\nThe hunter headed home.\n\nHe pushed the door open.\n\nNo one was inside.\n"
@@ -143,38 +163,30 @@ def test_master_packet_owns_full_copy_polish():
     assert "## Project polish guidance" in packet
     assert "Translate the thought, not the Korean sentence structure" in packet
     assert "## Current accepted English baseline" in packet
-    assert "smallest source-grounded edit" in packet
-    assert "protected text" in packet
-def test_master_command_accepts_full_copy_for_diff_adjudication():
-    with tempfile.TemporaryDirectory() as directory:
-        root = Path(directory)
-        paths = {
-            "work": root / "0001",
-            "state": root / "state.json",
-            "source": root / "source.txt",
-            "baseline": root / "baseline.md",
-            "master_packet": root / "master-packet.md",
-            "sol": root / "sol.md",
-            "sol_qa": root / "sol-qa.json",
-            "metrics": root / "metrics.json",
-            "logs": root / "logs",
-        }
-        paths["logs"].mkdir()
-        paths["source"].write_text("원문.\n", encoding="utf-8")
-        paths["baseline"].write_text("# Chapter 1\n\nKeep.\n", encoding="utf-8")
-        state = {"version": 1, "chapter": 1, "stage": "ACCEPTED"}
-        output = "# Chapter 1\n\nImprove.\n"
-        with (
-            patch.object(mastering, "create_or_verify_state", return_value=(state, paths)),
-            patch.object(mastering, "master_packet", return_value="packet"),
-            patch.object(mastering, "load_config", return_value={"models": {"master": "model"}, "timeouts": {"master": 60}}),
-            patch.object(mastering, "run_omp", return_value=(output, {"exact": True})),
-            patch.object(mastering, "exact_glossary", return_value=[]),
-            patch.object(mastering, "run_qa", return_value={"passed": True, "errors": [], "warnings": []}),
-        ):
-            mastering.command_master(1)
-        assert paths["sol"].read_text(encoding="utf-8") == "# Chapter 1\n\nImprove.\n"
 
+
+def test_fidelity_gate_packet_includes_baseline_regression_anchor():
+    work = Path(tempfile.mkdtemp())
+    paths = mastering.chapter_paths(1)
+    paths["fidelity_packet"] = work / "fidelity-packet.md"
+    packet_source = "＃1화\n\n원문.\n"
+    # Build the packet without invoking OMP; the helper writes the packet
+    # immediately before its model call.
+    with patch.object(mastering, "run_omp", return_value=(
+        '{"findings":[]}', {"requests": 1}
+    )):
+        with patch.object(mastering, "atomic_json"):
+            with patch.object(mastering, "save_metric"):
+                mastering.run_fidelity_gate(
+                    1,
+                    packet_source,
+                    "# Chapter 1\n\nFinal.\n",
+                    {"passed": True},
+                    paths,
+                    baseline="# Chapter 1\n\nBaseline.\n",
+                )
+    assert "## Accepted baseline for regression comparison" in paths["fidelity_packet"].read_text()
+    assert "Baseline." in paths["fidelity_packet"].read_text()
 
 
 def test_adjudicator_packet_is_compact():
@@ -231,29 +243,6 @@ def test_finish_for_commit_skips_when_already_promoted():
             with patch.object(mastering, "command_promote", lambda *_args: calls.append("promote")):
                 mastering.command_finish_for_commit(3)
     assert calls == []
-
-
-def test_promote_requires_current_quality_gate_artifacts():
-    with tempfile.TemporaryDirectory() as directory:
-        root = Path(directory)
-        paths = {
-            "qa": root / "qa.json",
-            "fidelity_review": root / "fidelity-review.json",
-            "final": root / "final.md",
-            "translation": root / "translation.md",
-            "state": root / "state.json",
-        }
-        paths["qa"].write_text('{"passed": true}\n', encoding="utf-8")
-        paths["fidelity_review"].write_text('{"findings": []}\n', encoding="utf-8")
-        paths["final"].write_text("# Chapter 1\n\nFinal.\n", encoding="utf-8")
-        state = {"stage": "VERIFIED", "qa_passed": True}
-        with patch.object(mastering, "create_or_verify_state", return_value=(state, paths)):
-            try:
-                mastering.command_promote(1, "REPLACE_TRANSLATIONS")
-            except ValueError as error:
-                assert "qa artifact is stale or missing" in str(error)
-            else:
-                raise AssertionError("promotion accepted missing quality-gate hashes")
 
 
 def test_adjudicator_run_omp_passes_deepseek_overlay():

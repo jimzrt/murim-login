@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "As I cursed inwardly, a move from the Reformation Fist slammed into my abdomen.",
+      "defect": "The translation generalizes 일초, which specifically identifies the technique’s first form, to an unspecified move.",
+      "id": "F01",
+      "rationale": "The source specifies that the first form of the Reformation Fist strikes his abdomen; the accepted baseline preserved that sequence detail.",
+      "replacement": "As I cursed inwardly, the first form of the Reformation Fist slammed into my abdomen.",
+      "severity": "minor",
+      "source": "Korean lines 311–315; English [P145]"
+    },
+    {
+      "confidence": 0.96,
+      "current": "With a sharp sound of air being split, his hand shot toward my wrist.",
+      "defect": "The translation omits that Jin Mukyung’s hand is attempting to snatch or seize Taekyung’s wrist, reducing a grappling action to mere movement toward the wrist.",
+      "id": "F02",
+      "rationale": "낚아채 왔다 describes a hand coming in to snatch or seize its target, which establishes the grappling mechanism developed in the following exchange.",
+      "replacement": "With a sharp sound of air being split, his hand darted in to seize my wrist.",
+      "severity": "minor",
+      "source": "Korean lines 359–361; English [P169]"
+    }
+  ],
+  "summary": "Faithful overall, with two minor action-detail losses.",
+  "version": 1
+}

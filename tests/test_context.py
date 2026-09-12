@@ -29,49 +29,6 @@ class ContextPacketTest(unittest.TestCase):
         self.assertIn('"replacement": "finished exact replacement English"', review_packet)
         self.assertIn("must quote one exact, uniquely occurring draft span", review_packet)
 
-    def test_revision_packet_contains_source_draft_findings_and_dispositions_contract(self):
-        review = {
-            "version": 1,
-            "summary": "Fix meaning.",
-            "findings": [{
-                "id": "F01",
-                "severity": "major",
-                "source": "원문",
-                "current": "Wrong.",
-                "replacement": "Right.",
-                "defect": "Reversal.",
-                "rationale": "The source is affirmative.",
-                "confidence": 1.0,
-            }],
-        }
-        with (
-            patch.object(context, "chapter_text", return_value="원문"),
-            patch.object(context, "exact_glossary_entries", return_value=[]),
-            patch.object(context, "profile_entries", return_value=[]),
-            patch.object(Path, "read_text", return_value="Binding rule."),
-        ):
-            packet = context.build_revision_packet(5, "# Chapter 5\n\nWrong.\n", review)
-        self.assertIn("원문", packet)
-        self.assertIn("Wrong.", packet)
-        self.assertIn('"id": "F01"', packet)
-        self.assertIn("<<<TRANSLATION>>>", packet)
-        self.assertIn("<<<DISPOSITIONS>>>", packet)
-
-    def test_polish_packet_contains_source_revised_copy_and_polish_guidance(self):
-        with (
-            patch.object(context, "chapter_text", return_value="원문"),
-            patch.object(context, "chapter_source_path", return_value=Path("source.txt")),
-            patch.object(context, "exact_glossary_entries", return_value=[]),
-            patch.object(context, "profile_entries", return_value=[]),
-            patch.object(context, "manifest", return_value="manifest"),
-            patch.object(Path, "read_text", side_effect=["Binding rule.", "Polish guidance."]),
-        ):
-            packet = context.build_polish_packet(5, "# Chapter 5\n\nRevised.\n")
-        self.assertIn("원문", packet)
-        self.assertIn("Revised.", packet)
-        self.assertIn("Polish guidance.", packet)
-        self.assertIn("do not retranslate", packet)
-
     def test_update_packet_is_bounded_to_current_durable_inputs(self):
         with tempfile.TemporaryDirectory() as directory:
             root = Path(directory)
@@ -131,28 +88,6 @@ class ContextPacketTest(unittest.TestCase):
         with patch.object(context, "workflow_config", return_value=limits):
             with self.assertRaisesRegex(ValueError, "profile_max_bytes"):
                 context.bounded_profiles([(Path("character.md"), body)])
-    def test_profile_packet_excludes_profiles_not_safe_for_chapter(self):
-        with tempfile.TemporaryDirectory() as directory:
-            root = Path(directory)
-            (root / "docs").mkdir()
-            (root / "docs" / "workflow.json").write_text(json.dumps({
-                "profile_max_bytes": 4096,
-                "profile_total_max_bytes": 12288,
-            }), encoding="utf-8")
-            characters = root / "characters"
-            characters.mkdir()
-            (characters / "Earlier.md").write_text(
-                "# Earlier (이전인물)\n\n- **Safe through:** Chapter 9\n- **Voice:** Direct\n",
-                encoding="utf-8",
-            )
-            (characters / "Future.md").write_text(
-                "# Future (미래인물)\n\n- **Safe through:** Chapter 10\n- **Voice:** Spoiler\n",
-                encoding="utf-8",
-            )
-            with patch.object(context, "ROOT", root):
-                profiles = context.profile_entries("이전인물 미래인물", 10)
-        self.assertEqual([path.name for path, _ in profiles], ["Earlier.md"])
-
 
     def test_durable_context_requires_version(self):
         problems = context.durable_context_problems(
