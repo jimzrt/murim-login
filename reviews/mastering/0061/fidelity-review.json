@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Had the old man swallowed a train whistle?",
+      "defect": "The source joke specifically imagines the old man boiling and eating a locomotive boiler or firebox, an idiom for his thunderously loud voice. Replacing that image with swallowing a whistle changes the joke’s object and mechanism.",
+      "id": "F01",
+      "rationale": "기차 화통을 삶아 먹었나 literally invokes boiling and eating a locomotive boiler/firebox; the following realization that trains do not exist depends on retaining that specific anachronistic image.",
+      "replacement": "Had the old man boiled and eaten a locomotive boiler?",
+      "severity": "minor",
+      "source": "lines 251–252"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“My people are dying. Does a sneak attack really matter?”",
+      "defect": "“My people” generalizes 식솔들, which specifically denotes one’s family or household members. That relationship directly supports Jin Wikyung’s next assertion that he is the Lesser Family Head before he is a martial artist.",
+      "id": "F02",
+      "rationale": "식솔들 identifies the members of his family household rather than followers or troops in general, preserving the familial duty behind his rejection of martial honor.",
+      "replacement": "“My family members are dying. Does a sneak attack really matter?”",
+      "severity": "minor",
+      "source": "lines 353–359"
+    }
+  ],
+  "summary": "The chapter is faithful overall, with two minor losses of source-specific detail.",
+  "version": 1
+}
