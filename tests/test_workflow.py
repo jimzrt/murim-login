@@ -11,6 +11,12 @@ from tools import mastering
 
 
 class WorkflowTest(unittest.TestCase):
+    def test_mastering_manifest_matches_configured_quality_gate(self):
+        required = workflow.mastering_required_files(10)
+        self.assertIn("reviews/mastering/0010/qa.json", required)
+        self.assertIn("reviews/mastering/0010/state.json", required)
+        self.assertNotIn("reviews/mastering/0010/fidelity-packet.md", required)
+        self.assertNotIn("reviews/mastering/0010/fidelity-review.json", required)
     def setUp(self):
         self.temporary = tempfile.TemporaryDirectory()
         self.root = Path(self.temporary.name)
@@ -47,14 +53,14 @@ class WorkflowTest(unittest.TestCase):
         workflow.atomic_json(paths["state"], state)
 
 
-    def test_accept_promotes_revised_copy_only_after_state_update(self):
+    def test_accept_promotes_polished_copy_only_after_state_update(self):
         state, paths = workflow.load(1)
-        paths["revised"].parent.mkdir(parents=True, exist_ok=True)
-        paths["revised"].write_text("# Chapter 1\n\nFinished.\n", encoding="utf-8")
+        paths["polished"].parent.mkdir(parents=True, exist_ok=True)
+        paths["polished"].write_text("# Chapter 1\n\nFinished.\n", encoding="utf-8")
         paths["final_qa"].parent.mkdir(parents=True, exist_ok=True)
         paths["final_qa"].write_text('{"passed":true}\n', encoding="utf-8")
-        state["stage"] = "REVISED"
-        state["artifacts"]["revised_sha256"] = workflow.digest(paths["revised"])
+        state["stage"] = "POLISHED"
+        state["artifacts"]["polished_sha256"] = workflow.digest(paths["polished"])
         state["artifacts"]["final_qa_sha256"] = workflow.digest(paths["final_qa"])
         workflow.atomic_json(paths["state"], state)
 
@@ -83,8 +89,8 @@ class WorkflowTest(unittest.TestCase):
 
     def test_accept_rejects_context_without_version(self):
         state, paths = workflow.load(1)
-        paths["revised"].parent.mkdir(parents=True, exist_ok=True)
-        paths["revised"].write_text("# Chapter 1\n\nFinished.\n", encoding="utf-8")
+        paths["polished"].parent.mkdir(parents=True, exist_ok=True)
+        paths["polished"].write_text("# Chapter 1\n\nFinished.\n", encoding="utf-8")
         paths["final_qa"].parent.mkdir(parents=True, exist_ok=True)
         paths["final_qa"].write_text('{"passed":true}\n', encoding="utf-8")
         paths["beat"].parent.mkdir(parents=True, exist_ok=True)
@@ -92,8 +98,8 @@ class WorkflowTest(unittest.TestCase):
             "# Chapter 1\n\n## Plot\n\nFinished.\n\n## Continuity\n\n- Hook.\n\n## Translation Decisions\n\n- None.\n",
             encoding="utf-8",
         )
-        state["stage"] = "REVISED"
-        state["artifacts"]["revised_sha256"] = workflow.digest(paths["revised"])
+        state["stage"] = "POLISHED"
+        state["artifacts"]["polished_sha256"] = workflow.digest(paths["polished"])
         state["artifacts"]["final_qa_sha256"] = workflow.digest(paths["final_qa"])
         workflow.atomic_json(paths["state"], state)
         (self.root / "docs" / "STATE.md").write_text(
@@ -153,7 +159,7 @@ class WorkflowTest(unittest.TestCase):
         self.assertEqual(metrics["input_bytes"], len("bounded packet"))
         self.assertEqual(metrics["packet_token_estimate"], 4)
 
-    def test_revise_applies_exact_review_replacements_without_model_call(self):
+    def test_revise_runs_full_source_aware_model_and_records_dispositions(self):
         state, paths = workflow.load(1)
         paths["draft"].parent.mkdir(parents=True, exist_ok=True)
         paths["draft"].write_text("# Chapter 1\n\nCurrent. Keep.\n", encoding="utf-8")
@@ -178,18 +184,26 @@ class WorkflowTest(unittest.TestCase):
         state["artifacts"]["report_sha256"] = workflow.digest(paths["review_json"])
         workflow.atomic_json(paths["state"], state)
         passed = {"passed": True, "errors": [], "warnings": []}
+        response = """<<<TRANSLATION>>>
+# Chapter 1
+
+Corrected. Keep.
+<<<DISPOSITIONS>>>
+{"dispositions":[{"finding_id":"F01","status":"applied","reason":"Corrected the subject."}]}
+<<<END>>>"""
         with (
+            patch.object(context, "build_revision_packet", return_value="packet"),
             patch.object(context, "chapter_text", return_value="source"),
             patch.object(context, "exact_glossary_entries", return_value=[]),
             patch("tools.qa.run_qa", return_value=passed),
-            patch.object(workflow, "run_omp") as model,
+            patch.object(workflow, "run_omp", return_value=(response, {"exact": True})) as model,
         ):
             workflow.command_revise(1)
-        model.assert_not_called()
+        model.assert_called_once()
         self.assertEqual(paths["revised"].read_text(encoding="utf-8"), "# Chapter 1\n\nCorrected. Keep.\n")
         recorded = json.loads(paths["state"].read_text(encoding="utf-8"))
         self.assertEqual(recorded["stage"], "REVISED")
-        self.assertNotIn("dispositions_sha256", recorded["artifacts"])
+        self.assertIn("dispositions_sha256", recorded["artifacts"])
 
     def test_update_generates_and_records_all_durable_state(self):
         (self.root / "docs" / "workflow.json").write_text(
@@ -218,10 +232,10 @@ class WorkflowTest(unittest.TestCase):
 - **Continuity:** Archived.
 """, encoding="utf-8")
         state, paths = workflow.load(1)
-        paths["revised"].parent.mkdir(parents=True, exist_ok=True)
-        paths["revised"].write_text("# Chapter 1\n\nHero met New Name.\n", encoding="utf-8")
-        state["stage"] = "REVISED"
-        state["artifacts"]["revised_sha256"] = workflow.digest(paths["revised"])
+        paths["polished"].parent.mkdir(parents=True, exist_ok=True)
+        paths["polished"].write_text("# Chapter 1\n\nHero met New Name.\n", encoding="utf-8")
+        state["stage"] = "POLISHED"
+        state["artifacts"]["polished_sha256"] = workflow.digest(paths["polished"])
         workflow.atomic_json(paths["state"], state)
         response = json.dumps({
             "chapter": 1,
@@ -281,12 +295,12 @@ class WorkflowTest(unittest.TestCase):
             json.loads(paths["state"].read_text(encoding="utf-8")), paths
         ))
 
-    def test_revised_block_runs_update_then_summarize_then_checkpoint(self):
+    def test_polished_block_runs_update_then_summarize_then_checkpoint(self):
         (self.root / "docs" / "STATE.md").write_text(
             "# Translation State\n\n- Last completed: 8\n- Next chapter: 9\n", encoding="utf-8"
         )
         state, paths = workflow.load(9)
-        state["stage"] = "REVISED"
+        state["stage"] = "POLISHED"
         self.assertEqual(workflow.next_action(state, paths), "python tools/workflow.py update 9")
         paths["beat"].parent.mkdir(parents=True, exist_ok=True)
         paths["beat"].write_text("# Chapter 9\n", encoding="utf-8")
@@ -311,8 +325,8 @@ class WorkflowTest(unittest.TestCase):
                 encoding="utf-8",
             )
         state, paths = workflow.load(4)
-        paths["revised"].parent.mkdir(parents=True, exist_ok=True)
-        state["stage"] = "REVISED"
+        paths["polished"].parent.mkdir(parents=True, exist_ok=True)
+        state["stage"] = "POLISHED"
         workflow.atomic_json(paths["state"], state)
         (self.root / "docs" / "STATE.md").write_text(
             "# Translation State\n\n- Last completed: 4\n- Next chapter: 5\n", encoding="utf-8"
@@ -346,20 +360,25 @@ class WorkflowTest(unittest.TestCase):
             "models": {
                 "draft": "provider/draft:high",
                 "review": "provider/review:medium",
+                "revision": "provider/revision:medium",
+                "polish": "provider/polish:medium",
                 "summary": "provider/summary:high",
             }
         })
         self.assertEqual(resolved["draft_model"], "provider/draft:high")
         self.assertEqual(resolved["review_model"], "provider/review:medium")
+        self.assertEqual(resolved["revision_model"], "provider/revision:medium")
+        self.assertEqual(resolved["polish_model"], "provider/polish:medium")
         self.assertEqual(resolved["summary_model"], "provider/summary:high")
         self.assertEqual(resolved["checkpoint_model"], "provider/review:medium")
-        self.assertEqual(resolved["models"]["draft"], "provider/draft:high")
 
     def test_checkpoint_model_can_override_review(self):
         resolved = workflow.resolve_role_models({
             "models": {
                 "draft": "provider/draft:high",
                 "review": "provider/review:medium",
+                "revision": "provider/revision:medium",
+                "polish": "provider/polish:medium",
                 "summary": "provider/summary:high",
                 "checkpoint": "provider/checkpoint:medium",
             }
@@ -376,6 +395,74 @@ class WorkflowTest(unittest.TestCase):
                 }
             })
 
+    def test_editorial_model_calls_do_not_exceed_historical_seven_call_ceiling(self):
+        workflow_config = {
+            "models": {
+                "draft": "draft",
+                "review": "review",
+                "revision": "revision",
+                "polish": "polish",
+                "checkpoint": "checkpoint",
+            }
+        }
+        mastering_config = {
+            "models": {"master": "master", "adjudicator": "adjudicator"},
+            "run_quality_gate": False,
+        }
+        self.assertEqual(
+            workflow.editorial_model_call_count(workflow_config, mastering_config),
+            7,
+        )
+        mastering_config["run_quality_gate"] = True
+        self.assertEqual(
+            workflow.editorial_model_call_count(workflow_config, mastering_config),
+            8,
+        )
+
+    def test_editorial_call_ceiling_rejects_an_extra_quality_gate(self):
+        (self.root / "docs" / "mastering.json").write_text(json.dumps({
+            "models": {"master": "master", "adjudicator": "adjudicator"},
+            "run_quality_gate": True,
+            "editorial_call_ceiling": 7,
+        }), encoding="utf-8")
+        with self.assertRaisesRegex(SystemExit, "requires 8 model calls"):
+            workflow.enforce_editorial_call_ceiling({
+                "models": {
+                    "draft": "draft",
+                    "review": "review",
+                    "revision": "revision",
+                    "polish": "polish",
+                    "checkpoint": "checkpoint",
+                }
+            })
+
+    def test_polish_is_a_source_aware_full_copy_stage(self):
+        state, paths = workflow.load(1)
+        paths["revised"].parent.mkdir(parents=True, exist_ok=True)
+        paths["revised"].write_text("# Chapter 1\n\nRevised.\n", encoding="utf-8")
+        paths["dispositions"].parent.mkdir(parents=True, exist_ok=True)
+        paths["dispositions"].write_text('{"version":1,"dispositions":[]}\n', encoding="utf-8")
+        state["stage"] = "REVISED"
+        state["artifacts"]["revised_sha256"] = workflow.digest(paths["revised"])
+        state["artifacts"]["dispositions_sha256"] = workflow.digest(paths["dispositions"])
+        workflow.atomic_json(paths["state"], state)
+        passed = {"passed": True, "errors": [], "warnings": []}
+        with (
+            patch.object(context, "build_polish_packet", return_value="packet"),
+            patch.object(context, "chapter_text", return_value="source"),
+            patch.object(context, "exact_glossary_entries", return_value=[]),
+            patch("tools.qa.run_qa", return_value=passed),
+            patch.object(
+                workflow,
+                "run_omp",
+                return_value=("# Chapter 1\n\nPolished.\n", {"exact": True}),
+            ),
+        ):
+            workflow.command_polish(1)
+        self.assertEqual(paths["polished"].read_text(encoding="utf-8"), "# Chapter 1\n\nPolished.\n")
+        recorded = json.loads(paths["state"].read_text(encoding="utf-8"))
+        self.assertEqual(recorded["stage"], "POLISHED")
+
     def test_incomplete_chapter_resumes_in_flight_transaction(self):
         work = self.root / ".work"
         for number, stage in ((13, "COMMITTED"), (14, "CHECKPOINT_REVIEWED"), (15, "READY")):
@@ -388,19 +475,21 @@ class WorkflowTest(unittest.TestCase):
         self.assertEqual(workflow.incomplete_chapter(), 14)
 
 
-    def test_every_revised_chapter_asks_for_generated_update(self):
+    def test_revised_chapter_requires_polish_before_update(self):
         state, paths = workflow.load(1)
         state["stage"] = "REVISED"
+        self.assertEqual(workflow.next_action(state, paths), "python tools/workflow.py polish 1")
+        state["stage"] = "POLISHED"
         self.assertEqual(workflow.next_action(state, paths), "python tools/workflow.py update 1")
 
-    def test_accept_promotes_revised_copy_without_standalone_polish(self):
+    def test_accept_promotes_polished_copy(self):
         (self.root / "docs" / "workflow.json").write_text(
             json.dumps({**workflow.DEFAULT_CONFIG, "version": 1, "summary_interval": 100, "checkpoint_review_interval": 100}),
             encoding="utf-8",
         )
         state, paths = workflow.load(1)
-        paths["revised"].parent.mkdir(parents=True, exist_ok=True)
-        paths["revised"].write_text("# Chapter 1\n\nRevised.\n", encoding="utf-8")
+        paths["polished"].parent.mkdir(parents=True, exist_ok=True)
+        paths["polished"].write_text("# Chapter 1\n\nPolished.\n", encoding="utf-8")
         paths["final_qa"].parent.mkdir(parents=True, exist_ok=True)
         paths["final_qa"].write_text('{"passed":true}\n', encoding="utf-8")
         paths["beat"].parent.mkdir(parents=True, exist_ok=True)
@@ -408,8 +497,8 @@ class WorkflowTest(unittest.TestCase):
             "# Chapter 1\n\n## Plot\n\nFinished.\n\n## Continuity\n\n- Hook.\n\n## Translation Decisions\n\n- None.\n",
             encoding="utf-8",
         )
-        state["stage"] = "REVISED"
-        state["artifacts"]["revised_sha256"] = workflow.digest(paths["revised"])
+        state["stage"] = "POLISHED"
+        state["artifacts"]["polished_sha256"] = workflow.digest(paths["polished"])
         state["artifacts"]["final_qa_sha256"] = workflow.digest(paths["final_qa"])
         workflow.atomic_json(paths["state"], state)
         (self.root / "docs" / "STATE.md").write_text(
@@ -421,7 +510,7 @@ class WorkflowTest(unittest.TestCase):
         )
         self.record_update(state, paths)
         workflow.command_accept(1)
-        self.assertEqual(paths["translation"].read_text(encoding="utf-8"), "# Chapter 1\n\nRevised.\n")
+        self.assertEqual(paths["translation"].read_text(encoding="utf-8"), "# Chapter 1\n\nPolished.\n")
 
     def test_mastering_is_a_primary_transaction_stage(self):
         state, paths = workflow.load(1)
