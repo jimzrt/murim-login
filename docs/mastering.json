@@ -1,10 +1,12 @@
 {
   "version": 1,
   "models": {
-    "master": "openai-codex/gpt-5.6-sol:medium",
-    "adjudicator": "cursor/cursor-grok-4.6:high",
+    "master": "openai-codex/gpt-5.6-sol:low",
+    "adjudicator": "cursor/cursor-grok-4.6:low",
     "quality_gate": "openai-codex/gpt-5.6-sol:high"
   },
+  "run_quality_gate": false,
+  "editorial_call_ceiling": 7,
   "omp_config": ".omp/review-overlay.yml",
   "adjudicator_omp_config": ".omp/adjudicator-overlay.yml",
   "timeouts": {

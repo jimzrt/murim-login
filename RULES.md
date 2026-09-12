@@ -15,8 +15,11 @@
 - `compendium.md` and `docs/NAMES.md` are binding for established names, titles, ranks, techniques, organizations, system terms, items, and locations. Profile headings and aliases join that ledger.
 - Search only exact Korean terms already present in the current chapter; the compendium contains future-sensitive entries.
 - Never re-romanize established names or invent grand names for uncertain terms. First use of an unlisted name or title almost always needs a footnote or a mapped ledger term.
-- Use `qi` for Murim energy and `mana` for the modern Hunter system when the source distinguishes them.
-- In System panels, render `등급` as `**Grade:**` for quest, item, skill, and martial-art classifications. Reserve `rank` for Hunter classifications or ordinary prose; never replace a System `Grade` field with `Rank`.
+- Use the exact glossary term for Murim energy. In this project, `공력` is
+  **internal energy**; do not replace it with `qi` unless the source and glossary
+  explicitly require that term.
+- Interpret UI labels and counters from their behavior across the scene. An
+  increasing success count must not be translated as a remaining count.
 
 ## English and Markdown
 
