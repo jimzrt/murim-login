@@ -35,7 +35,13 @@ const home = import.meta.env.BASE_URL;
     </svg>
     <span class="sr-only nav-home-sr">Home</span>
   </a>
-  <button class="nav-btn" id="jump-open" type="button">Chapter</button>
+  <button class="nav-btn nav-icon-btn" id="jump-open" type="button" aria-label="Jump to chapter" title="Jump to chapter">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <path d="M4 6h16"></path>
+      <path d="M4 12h16"></path>
+      <path d="M4 18h10"></path>
+    </svg>
+  </button>
   {import.meta.env.PROD && <pagefind-modal-trigger class="nav-search"></pagefind-modal-trigger>}
   <button class="nav-btn nav-icon-btn" id="settings-open" type="button" aria-label="Settings" title="Settings">
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
