@@ -3,7 +3,7 @@ from __future__ import annotations
 import importlib.util
 import tempfile
 from pathlib import Path
-from unittest.mock import patch
+from tools.progress import NullCall
 
 MODULE_PATH = Path(__file__).resolve().parents[1] / "tools" / "mastering.py"
 spec = importlib.util.spec_from_file_location("mastering", MODULE_PATH)
@@ -175,7 +175,7 @@ def test_fidelity_gate_packet_includes_baseline_regression_anchor():
     # Build the packet without invoking OMP; the helper writes the packet
     # immediately before its model call.
     with patch.object(mastering, "run_omp", return_value=(
-        '{"findings":[]}', {"requests": 1}
+        '{"findings":[]}', {"requests": 1}, NullCall()
     )):
         with patch.object(mastering, "atomic_json"):
             with patch.object(mastering, "save_metric"):
