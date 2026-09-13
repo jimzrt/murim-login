@@ -393,6 +393,7 @@ def run_omp(
     label: str | None = None,
     hint: str = "",
     hold: bool = False,
+    facts=None,
 ):
     try:
         from tools.omp_json import OmpJsonError, run_json_command
@@ -404,7 +405,7 @@ def run_omp(
     packet_bytes = packet_path.stat().st_size
     packet_tokens = estimated_tokens(read_text(packet_path))
     role = label or log_path.stem
-    call = ModelCall(role, model, timeout, packet_tokens, hint=hint)
+    call = ModelCall(role, model, timeout, packet_tokens, hint=hint, facts=facts)
     command = [
         "omp", "--mode", "json", "--no-session", "--no-tools", "--no-rules", "--no-extensions",
     ]
@@ -505,7 +506,15 @@ def command_master(number: int, force: bool = False) -> None:
     atomic_json(p["sol_qa"], qa)
     save_metric(p, "master", metrics)
     update_state(p, state, "MASTERED", sol_sha256=sha256_text(mastered))
-    call.done(metrics, qa_brief(qa))
+    try:
+        from tools.progress import copy_facts
+    except ModuleNotFoundError:
+        from progress import copy_facts
+    call.done(
+        metrics,
+        qa_brief(qa),
+        facts=copy_facts(source, mastered, glossary=len(glossary)),
+    )
 
 
 def blocks(text: str) -> list[str]:
@@ -929,7 +938,15 @@ def command_adjudicate(number: int, force: bool = False) -> None:
     save_metric(p, "adjudicator", metrics)
     counts = {k: sum(1 for d in value["decisions"] if d["decision"] == k) for k in ("SOL", "BASE", "REPAIR")}
     update_state(p, state, "ADJUDICATED", hunk_count=diff["hunk_count"], decisions=counts)
-    call.done(metrics, f"SOL {counts['SOL']}  BASE {counts['BASE']}  REPAIR {counts['REPAIR']}")
+    call.done(
+        metrics,
+        facts=[
+            f"{diff['hunk_count']} hunks",
+            f"SOL {counts['SOL']}",
+            f"BASE {counts['BASE']}",
+            f"REPAIR {counts['REPAIR']}",
+        ],
+    )
 
 
 def assemble_from_decisions(baseline: str, sol: str, adjudication: dict) -> str:
@@ -982,7 +999,17 @@ def command_assemble(number: int) -> None:
     validate_chapter(final, number, "final")
     atomic_text(p["final"], final)
     update_state(p, state, "ASSEMBLED", final_sha256=sha256_text(final))
-    step("assemble")
+    decisions = adjudication.get("decisions") or []
+    counts = {k: sum(1 for d in decisions if d.get("decision") == k) for k in ("SOL", "BASE", "REPAIR")}
+    step(
+        "assemble",
+        facts=[
+            f"{len(blocks(final))} paras",
+            f"SOL {counts['SOL']}",
+            f"BASE {counts['BASE']}",
+            f"REPAIR {counts['REPAIR']}",
+        ],
+    )
 
 
 def run_fidelity_gate(
@@ -1082,10 +1109,11 @@ finding blocks promotion; minor findings are recorded for human inspection.
         from model_io import validate_review
     value = validate_review(parse_json_object(output))
     atomic_json(paths["fidelity_review"], value)
-    findings = len(value["findings"])
-    major = sum(item["severity"] in {"major", "critical"} for item in value["findings"])
-    extra = f"{findings} findings" + (f"  {major} major" if major else "")
-    call.done(metrics, extra)
+    try:
+        from tools.progress import findings_facts
+    except ModuleNotFoundError:
+        from progress import findings_facts
+    call.done(metrics, facts=findings_facts(value))
     save_metric(
         paths,
         "fidelity_gate",
@@ -1191,9 +1219,11 @@ def command_qa(number: int) -> None:
         bits.append(f"{len(qa['warnings'])}w")
     if qa["errors"]:
         bits.append(f"{len(qa['errors'])}e")
+    if semantic_failures:
+        bits.append(f"{semantic_failures} fidelity blocks")
     if repairs:
         bits.append(f"{repairs} repairs")
-    step("verify", "  ".join(bits))
+    step("verify", facts=bits)
 
 
 def command_run(number: int) -> None:
