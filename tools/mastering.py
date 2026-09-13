@@ -136,6 +136,26 @@ def glossary_text(entries: list[dict]) -> str:
     return "\n".join(item.get("row", "") for item in entries if item.get("row")) or "(No exact glossary rows matched.)"
 
 
+def address_and_risk_sections(source: str, number: int) -> str:
+    try:
+        from tools.context import (
+            address_pairs_text, matched_address_pairs, matched_risk_notes, risk_notes_text,
+        )
+    except ModuleNotFoundError:
+        from context import (
+            address_pairs_text, matched_address_pairs, matched_risk_notes, risk_notes_text,
+        )
+    profiles = safe_profiles(source, number)
+    return f"""## Matched address pairs
+
+{address_pairs_text(matched_address_pairs(source, profiles))}
+
+## Matched risk notes
+
+{risk_notes_text(matched_risk_notes(source))}
+"""
+
+
 def _preferred_english():
     try:
         from tools.names import preferred_english_present, preferred_english_terms
@@ -335,6 +355,7 @@ def master_packet(number: int, source: str, baseline: str, glossary: list[dict])
 
 {glossary_text(glossary)}
 
+{address_and_risk_sections(source, number)}
 ## Chapter-safe character profiles
 
 {profiles_bundle(source, number)}
