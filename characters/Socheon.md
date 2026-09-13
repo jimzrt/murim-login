@@ -1,6 +1,6 @@
 # Socheon (소천)
 
-- **Safe through:** Chapter 35
+- **Safe through:** Chapter 65
 - **Aliases:** None revealed
 - **Role:** Fourteen-year-old survivor of the Sakju Branch; older brother and protector of Soyul
 - **Personality:** Watchful, frightened, and determined to survive and protect his sister after witnessing the massacre of his home

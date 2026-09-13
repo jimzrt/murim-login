@@ -1,8 +1,8 @@
 # Soyul (소율)
 
-- **Safe through:** Chapter 35
+- **Safe through:** Chapter 65
 - **Aliases:** None revealed
-- **Role:** Young survivor of the Sakju Branch; Socheon’s younger sister
+- **Role:** Young survivor of the Sakju Branch; Socheon's younger sister
 - **Personality:** Exhausted, frightened, and dependent on her brother during the flight from the massacre
 - **Voice:** A young child’s voice
 - **Relationships:** Younger sister of Socheon; daughter of the Sakju Branch Leader; protected by Gong Yacheong
