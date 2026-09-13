@@ -1,32 +1,27 @@
 # Translation State
 
-- Last completed: 369
-- Next chapter: 370
+- Last completed: 370
+- Next chapter: 371
 - Current block: 370–374 (1/5)
-- Latest translation: `translations/0065.md`
-- Latest summary: `summaries/beats/0065.md`
-- Safe profiles through: chapter 65
+- Latest translation: `translations/0370.md`
+- Latest summary: `summaries/beats/0370.md`
+- Safe profiles through: chapter 370
 
 ## Current Block
 
-- Accepted local English remains reliable through Chapter 65. Chapters 66–369 are skipped in this expedition and have no accepted translations here.
-- Chapter 370 is the next chapter to translate. Its Korean source opens at the Sichuan Tang Clan about seven days after the Three-Sect Bloodbath, with reconstruction underway and orthodox guests present.
-- Parked accepted translations already exist for Chapters 374–375. Do not re-translate them; after Chapter 373 is committed, run `python tools/expedition.py resume-parked`.
+- Seven days after the Three-Sect Bloodbath, the Sichuan Tang Clan has opened its gates. Orthodox allies and commoners are rebuilding the devastated compound, while Emei nuns oversee the cremation of the many dead. The Tang Clan suffered especially severe casualties.
+- Hyuk Mujin and Gung Gibang are recovering from their battle with Samgoe, while Cheongpung has been entrusted with Mimi and has damaged a pavilion while trying to help. Most of Dark Heaven's black-clad attackers have been killed or captured, and Samgoe was seized by a mysterious figure, ending the brief conflict but leaving everyone convinced that a larger crisis is approaching.
+- Jin Taekyung awakens from unconsciousness with the power of the Supreme Peak realm. After learning that his companions acted on an alleged order from him to rescue the Emei Sect, he confirms that they survived and is acclaimed by the gathered people as the Blazing Fire Divine Dragon. The System announces that his achievements and Fame will resound throughout the Central Plains and that he has acquired a new epithet; Jeok Cheongang silently approves from a distance.
 
 ## Open Questions
 
-- The identity of the assassin who attacked Taekyung and Hyuk Mujin remains unconfirmed.
-- It remains unresolved whether Hyuk Mujin will actually become the next Master of the Gatekeeper Pavilion.
-- Facts from Chapters 66–369 are unknown in this expedition until the current Korean source establishes them.
+- The identity of the mysterious figure who captured Samgoe remains unknown.
+- It remains unresolved why Mungyeong told Hyuk Mujin and Gung Gibang that Jin Taekyung ordered them to rescue the Emei Sect.
 
 ## Exceptional Decision
 
-- This expedition currently backfills Chapters 370–373. Skip only accepted translation of Chapters 66–369.
-- Accepted English through Chapter 65, plus the current Korean source, is the continuity authority. Do not use parked 374–375 prose, old bridge summaries, or web-fan material to fill the skipped range.
-- When later source conflicts with Chapter 65 continuity, preserve the current source and record the uncertainty.
-- Use gongcheong seokyu for 공청석유 with a footnote explaining the elixir and petroleum pun.
-- Use junzi for 군자 with a cultural footnote.
-- Retain Hyung-nim for 형님 in Taekyung's deferential speech.
+- Use Satae as the rendering for 사태 and Daoist as the rendering for 도장 in names and forms of address.
+- Use Cham Isul for 참이슬 and preserve the Korean brand reference with a footnote.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

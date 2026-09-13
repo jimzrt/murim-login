@@ -49,3 +49,16 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 백염 | **White Flame** | Previously bound item listed by the System. |
 | 사죄와 용서 | **Atonement and Forgiveness** | Hidden Quest completed by Taekyung. |
 | 당문의 은인 | **Benefactor of the Tang Clan** | Title acquired by Taekyung. |
+| 아미파 | **Emei Sect** | Orthodox sect whose nuns conduct the funeral rites. |
+| 청성파 | **Qingcheng Sect** | Orthodox sect represented among the assisting martial artists. |
+| 개방 | **Beggars' Sect** | Organization represented by the attending beggars. |
+| 묘령사태 | **Satae Myo Ryeong** | Middle-aged Emei nun overseeing the funeral prayers. |
+| 명진 | **Myeongjin** | Daoist assisting with the funeral rites. |
+| 궁기방 | **Gung Gibang** | Young beggar and Future Beggar Chief. |
+| 후개 | **Future Beggar Chief** | Title used for Gung Gibang. |
+| 기련삼괴 | **Qilian Samgoe** | The trio of monsters that includes Samgoe and Ilgoe. |
+| 일괴 | **Ilgoe** | The strongest of the Qilian Samgoe, defeated single-handedly by Jin Taekyung. |
+| 칠선자 | **Chilseonja** | Mysterious martial artist who blocked Samgoe's attack and saved Hyuk Mujin. |
+| 문경 | **Mungyeong** | Young Disciple of the Divine Physician overseeing Jin Taekyung's care. |
+| 화산신룡 | **Huashan Divine Dragon** | Epithet used for Jin Taekyung. |
+| 열화신룡 | **Blazing Fire Divine Dragon** | New epithet acquired by Jin Taekyung. |

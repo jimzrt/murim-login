@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Fearing that women who married out might leak the family’s martial arts and secrets, the clan took in male in-laws and had them carry on the Tang surname.",
+      "defect": "“Male in-laws” omits the specific live-in son-in-law arrangement by which the clan retained its daughters and continued the Tang surname.",
+      "id": "F01",
+      "rationale": "데릴사위 specifically means a son-in-law brought into the wife’s household, not merely any male relative by marriage.",
+      "replacement": "Fearing that daughters who married out might leak the clan’s martial arts and secrets, the clan instead took in live-in sons-in-law and had them carry on the Tang surname.",
+      "severity": "major",
+      "source": "출가외인(出嫁外人)이 가문의 무공과 기밀을 누출할까 염려한 탓에 데릴사위를 들여 당씨 성을 잇게 했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Hurry! Spread out and bring a Divine Physician!",
+      "defect": "The indefinite article turns the established, specific Divine Physician into any physician bearing that description.",
+      "id": "F02",
+      "rationale": "신의 is the specific honorific used for the physician already treating the major patients.",
+      "replacement": "Hurry! Spread out and bring the Divine Physician!",
+      "severity": "critical",
+      "source": "빨리 흩어져서 신의를 모셔와라!"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Even though nine-tenths of the building had been damaged, the pavilion had somehow remained standing. It was currently being used as a temporary treatment room for important patients.",
+      "defect": "The draft says nine-tenths of this particular building was damaged, whereas the source says nearly nine-tenths of the clan’s buildings were damaged and this pavilion retained its form.",
+      "id": "F03",
+      "rationale": "건물이 is plural in context, while 형태를 유지한 전각 identifies the surviving pavilion separately.",
+      "replacement": "Although nearly nine-tenths of the buildings had been damaged, this pavilion had somehow remained intact. It was currently being used as a temporary treatment room for important patients.",
+      "severity": "critical",
+      "source": "구 할에 달하는 건물이 파손되는 와중에도 용케 형태를 유지한 전각은, 중요한 환자들을 모아 둔 임시 의방(醫方)으로 쓰이는 중이었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Since we’re on the subject, Mungyeong may be skilled for his age, but isn’t he a little too young to take charge of the squad?",
+      "defect": "Mungyeong is being entrusted with the squad leader as a patient, not placed in command of the squad.",
+      "id": "F04",
+      "rationale": "조장을 맡기다 means to leave the squad leader in Mungyeong’s care; the following discussion of the Divine Physician and critical patients confirms the medical context.",
+      "replacement": "Since we’re on the subject, Mungyeong may be skilled for his age, but isn’t he a little too young for us to entrust our squad leader to him?",
+      "severity": "critical",
+      "source": "말이 나왔으니 말인데, 문경이가 나이에 비해서 실력이 좋긴 하지만 조장을 맡기기에는 좀 그렇지 않습니까?"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Thank God they had survived. What would they have done if they had died?",
+      "defect": "The second sentence assigns the consequence to the dead men themselves instead of expressing Jin Taekyung’s alarm over what he would have done if they had died.",
+      "id": "F05",
+      "rationale": "The omitted subject is resolved by Jin Taekyung’s first-person concern; asking what dead people would have done reverses that perspective.",
+      "replacement": "Thank God they had survived. What would I have done if they had died?",
+      "severity": "critical",
+      "source": "목숨을 건졌기에 망정이지, 죽었으면 어쩔 뻔했나."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Some clasped their hands before their chests. Some bowed their heads slightly. Others prostrated themselves deeply.",
+      "defect": "The first gesture is rendered as generic clasped hands rather than the specific martial fist-and-palm salute.",
+      "id": "F06",
+      "rationale": "포권 is a distinct martial greeting and mark of respect, contrasting with the bows and prostrations that follow.",
+      "replacement": "Some gave a fist-and-palm salute. Some bowed their heads slightly. Others prostrated themselves deeply.",
+      "severity": "major",
+      "source": "누군가는 포권을 취하고, 누군가는 작게 고개를 숙였으며, 누군가는 깊이 엎드려 절했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "> **System**\n>\n> - Well done.\n\nI smiled along with Jeok Cheongang.",
+      "defect": "The draft falsely presents “Well done” as a System notification, changing its speaker and severing it from Jeok Cheongang, whom Jin has just spotted.",
+      "id": "F07",
+      "rationale": "The actual System panel ends before Jin spots Jeok Cheongang; 잘했다 is Jeok Cheongang’s acknowledgment, followed by Jin returning his smile.",
+      "replacement": "“Well done.”\n\nI smiled back at Jeok Cheongang.",
+      "severity": "critical",
+      "source": "- 잘했다.\n\n나는 적천강을 따라 웃었다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "Do not say what you just said in front of Doctor Mun—no, Mungyeong. Especially not in front of Mungyeong.",
+      "defect": "“Doctor Mun” invents a professional title and erases Cheongpung’s revealing false start on 문 할, which points toward an elder-style form of address before he corrects himself.",
+      "id": "F08",
+      "rationale": "문 할 is deliberately cut off before completion; preserving the interrupted “Grandfa—” retains the pragmatic cue without completing information the source withholds.",
+      "replacement": "What you just said—don’t say it in front of Grandfa—no, especially not in front of Mungyeong.",
+      "severity": "major",
+      "source": "방금 하셨던 말, 문 할. 아니 문경이 앞에서는 특히 하지 마세요."
+    },
+    {
+      "confidence": 1.0,
+      "current": "The martial world of Sichuan had united and cast an inescapable net across the region.",
+      "defect": "The established term 무림 is translated descriptively instead of using the binding term “Murim.”",
+      "id": "F09",
+      "rationale": "The glossary explicitly binds 무림 to “Murim.”",
+      "replacement": "The Sichuan Murim had united and cast an inescapable net across the region.",
+      "severity": "minor",
+      "source": "사천 무림이 결집하여 펼친 천라지망에"
+    },
+    {
+      "confidence": 0.94,
+      "current": "had been caught by some unknown weirdo.",
+      "defect": "“Weirdo” adds flippant ridicule to a serious summary that identifies the captor only as a mysterious, unidentified figure.",
+      "id": "F10",
+      "rationale": "정체 모를 emphasizes unknown identity, while 괴인 here denotes an enigmatic or extraordinary person rather than supplying the draft’s mocking register.",
+      "replacement": "had been caught by a mysterious figure.",
+      "severity": "minor",
+      "source": "정체 모를 괴인에 의해 붙잡혔다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "> - You have acquired a new nickname!",
+      "defect": "“Nickname” is too casual for 별호, the martial epithet publicly attached to Jin Taekyung.",
+      "id": "F11",
+      "rationale": "별호 denotes a sobriquet or martial epithet, especially in the context of the newly proclaimed “Blazing Fire Divine Dragon.”",
+      "replacement": "> - You have acquired a new epithet!",
+      "severity": "minor",
+      "source": "- 새로운 별호를 획득했습니다!"
+    }
+  ],
+  "summary": "Several factual and attribution errors alter quantities, responsibility, subjects, and speaker identity; additional issues weaken a revealing register shift and established terminology.",
+  "version": 1
+}

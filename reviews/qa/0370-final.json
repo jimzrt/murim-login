@@ -1,0 +1,47 @@
+{
+  "chapter": 370,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.29,
+    "source_characters": 6321,
+    "source_paragraphs": 195,
+    "translation_characters": 14475,
+    "translation_paragraphs": 206
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "대협",
+        "preferred": "Great Hero or Sir depending tone"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "명진",
+        "romanization": "myeongjin"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "문경",
+        "romanization": "mungyeong"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "칠선자",
+        "romanization": "chilseonja"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}

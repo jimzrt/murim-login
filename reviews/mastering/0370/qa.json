@@ -1,0 +1,31 @@
+{
+  "chapter": 370,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.261,
+    "source_characters": 6321,
+    "source_paragraphs": 195,
+    "translation_characters": 14294,
+    "translation_paragraphs": 201
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "대협",
+        "preferred": "Great Hero or Sir depending tone"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "개방",
+        "preferred": "Beggars' Sect"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
