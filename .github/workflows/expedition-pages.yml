@@ -45,5 +45,5 @@ jobs:
           gh api repos/jimzrt/murim-login-expedition-pages/dispatches \
             --method POST \
             -f event_type=expedition-publish \
-            -f 'client_payload[ref]=${GITHUB_REF_NAME}' \
-            -f 'client_payload[sha]=${GITHUB_SHA}'
+            -f "client_payload[ref]=${GITHUB_REF_NAME}" \
+            -f "client_payload[sha]=${GITHUB_SHA}"
