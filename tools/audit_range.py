@@ -236,7 +236,7 @@ def verify_initial_hashes(state: dict) -> None:
 
 def run_block_review(directory: Path, block: dict) -> tuple[dict, dict]:
     packet_path = directory / block["packet"]
-    raw, metrics = run_omp(packet_path, project_config()["review_model"], 960)
+    raw, metrics, _call = run_omp(packet_path, project_config()["review_model"], 960)
     review = validate_range_review(parse_json_object(raw), set(block["chapters"]))
     return review, metrics
 
@@ -365,7 +365,7 @@ def refine(start: int, end: int) -> dict:
         raise SystemExit(f"refinement packet estimate {tokens} exceeds {limit}")
     packet_path = directory / "refine-packet.md"
     atomic_text(packet_path, packet)
-    raw, metrics = run_omp(packet_path, project_config()["review_model"], 960)
+    raw, metrics, _call = run_omp(packet_path, project_config()["review_model"], 960)
     try:
         patchset = validate_patchset(parse_json_object(raw), review_data)
     except ValueError as error:

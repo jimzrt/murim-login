@@ -137,5 +137,50 @@ class OmpJsonTest(unittest.TestCase):
         self.assertIn("openrouter/deepseek/deepseek-v4.1-flash:low", overlay)
 
 
+    def test_run_json_command_streams_without_dumping_events(self):
+        import sys
+        import tempfile
+        from pathlib import Path
+        from tools.omp_json import run_json_command
+        from tools.progress import ModelCall
+
+        script = r"""
+import json, sys
+print(json.dumps({"type": "agent_start"}), flush=True)
+print(json.dumps({"type": "message_update", "assistantMessageEvent": {"type": "thinking_start"}}), flush=True)
+print(json.dumps({
+    "type": "message_end",
+    "message": {
+        "role": "assistant",
+        "provider": "openai-codex",
+        "model": "gpt-test",
+        "content": [{"type": "text", "text": "done"}],
+        "usage": {"input": 10, "output": 4, "cacheRead": 0, "cacheWrite": 0, "totalTokens": 14},
+        "stopReason": "stop",
+    },
+}), flush=True)
+"""
+        painted: list[tuple[str, bool]] = []
+        listener = ModelCall(
+            "draft", "openai-codex/gpt-5.6-luna:high", 30,
+            writer=lambda line, live: painted.append((line, live)),
+            tty=True,
+        )
+        with tempfile.TemporaryDirectory() as directory:
+            output, metrics = run_json_command(
+                [sys.executable, "-c", script],
+                cwd=Path(directory),
+                requested_model="openai-codex/gpt-5.6-luna:high",
+                timeout=10,
+                listener=listener,
+            )
+        listener.done(metrics)
+        self.assertEqual(output.strip(), "done")
+        self.assertEqual(metrics["output_tokens"], 4)
+        self.assertTrue(any(live for _line, live in painted))
+        self.assertIn("luna", painted[-1][0])
+        self.assertFalse(painted[-1][1])
+
+
 if __name__ == "__main__":
     unittest.main()

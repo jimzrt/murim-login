@@ -5,7 +5,9 @@ from __future__ import annotations
 
 import json
 import numbers
+import selectors
 import subprocess
+import threading
 import time
 from pathlib import Path
 from typing import Callable, Iterable
@@ -241,6 +243,38 @@ def write_model_logs(log_path: Path | None, stdout: str, stderr: str = "", parse
         log_path.with_name(log_path.stem + ".txt").write_text(parsed, encoding="utf-8")
 
 
+def _stream_stdout_lines(proc: subprocess.Popen, timeout_end: float, on_idle: Callable[[], None]) -> Iterable[str]:
+    assert proc.stdout is not None
+    selector = selectors.DefaultSelector()
+    selector.register(proc.stdout, selectors.EVENT_READ)
+    buf = ""
+    try:
+        while True:
+            remaining = timeout_end - time.monotonic()
+            if remaining <= 0:
+                raise subprocess.TimeoutExpired(proc.args, timeout=None)
+            events = selector.select(timeout=min(1.0, remaining))
+            if not events:
+                on_idle()
+                if proc.poll() is not None:
+                    rest = proc.stdout.read()
+                    if rest:
+                        buf += rest
+                    break
+                continue
+            chunk = proc.stdout.read(65536)
+            if chunk == "":
+                break
+            buf += chunk
+            while "\n" in buf:
+                line, buf = buf.split("\n", 1)
+                yield line
+        if buf:
+            yield buf
+    finally:
+        selector.close()
+
+
 def run_json_command(
     command: list[str],
     *,
@@ -248,25 +282,112 @@ def run_json_command(
     requested_model: str,
     timeout: int,
     log_path: Path | None = None,
+    listener: object | None = None,
 ) -> tuple[str, dict]:
     started = time.monotonic()
+    stdout_lines: list[str] = []
+    stderr_chunks: list[str] = []
+    capture = EventCapture(requested_model)
+
+    def on_idle() -> None:
+        idle = getattr(listener, "idle", None)
+        if callable(idle):
+            idle()
+
+    proc = subprocess.Popen(
+        command,
+        cwd=cwd,
+        stdout=subprocess.PIPE,
+        stderr=subprocess.PIPE,
+        text=True,
+        bufsize=0,
+    )
+    assert proc.stdout is not None
+    assert proc.stderr is not None
+    if hasattr(proc.stdout, "reconfigure"):
+        proc.stdout.reconfigure(line_buffering=True)
+    stderr_thread = threading.Thread(
+        target=lambda: stderr_chunks.append(proc.stderr.read() if proc.stderr else ""),
+        daemon=True,
+    )
+    stderr_thread.start()
+    log_handle = None
+    parse_error: OmpJsonError | None = None
+    returncode = 1
     try:
-        result = subprocess.run(command, cwd=cwd, text=True, capture_output=True, timeout=timeout)
+        if log_path is not None:
+            log_path.parent.mkdir(parents=True, exist_ok=True)
+            log_handle = log_path.open("w", encoding="utf-8")
+        start = getattr(listener, "start", None)
+        if callable(start):
+            start()
+        on_event = getattr(listener, "on_event", None)
+        for line in _stream_stdout_lines(proc, started + timeout, on_idle):
+            stdout_lines.append(line)
+            if log_handle is not None:
+                log_handle.write(line)
+                log_handle.write("\n")
+                log_handle.flush()
+            if not line.strip():
+                continue
+            try:
+                event = json.loads(line)
+            except json.JSONDecodeError as error:
+                parse_error = OmpJsonError(f"invalid OMP JSON event on line {len(stdout_lines)}: {error}")
+                proc.kill()
+                break
+            if not isinstance(event, dict):
+                parse_error = OmpJsonError(f"OMP JSON event on line {len(stdout_lines)} is not an object")
+                proc.kill()
+                break
+            capture.consume(event)
+            if callable(on_event):
+                on_event(event)
+        returncode = proc.wait(timeout=max(1, timeout - (time.monotonic() - started)))
     except subprocess.TimeoutExpired as error:
-        stdout = _decode_captured(error.stdout)
-        stderr = _decode_captured(error.stderr)
+        proc.kill()
+        proc.wait()
+        stdout = "\n".join(stdout_lines)
+        stderr_thread.join(timeout=2)
+        stderr = "".join(stderr_chunks) or _decode_captured(proc.stderr.read() if proc.stderr else "")
         write_model_logs(log_path, stdout, stderr)
+        fail = getattr(listener, "fail", None)
+        if callable(fail):
+            fail("timed out")
         extra = f"\nevents saved: {log_path}" if log_path else ""
         raise OmpJsonError(f"model call timed out: {error}{extra}") from None
-    stdout = result.stdout or ""
-    stderr = result.stderr or ""
-    write_model_logs(log_path, stdout, stderr)
-    if result.returncode:
+    finally:
+        if log_handle is not None:
+            log_handle.close()
+        stderr_thread.join(timeout=2)
+        if proc.stdout is not None:
+            proc.stdout.close()
+        if proc.stderr is not None:
+            proc.stderr.close()
+
+    stdout = "\n".join(stdout_lines)
+    if stdout_lines:
+        stdout += "\n"
+    stderr = "".join(stderr_chunks)
+    if parse_error is not None:
+        write_model_logs(log_path, stdout, stderr)
+        fail = getattr(listener, "fail", None)
+        if callable(fail):
+            fail("invalid model stream")
+        extra = f"\nevents saved: {log_path}" if log_path else ""
+        raise OmpJsonError(str(parse_error) + extra) from None
+    if returncode:
+        fail = getattr(listener, "fail", None)
+        if callable(fail):
+            fail("model call failed")
         extra = f"\nevents saved: {log_path}" if log_path else ""
         raise OmpJsonError((stderr.strip() or stdout.strip() or "model call failed") + extra)
     try:
-        output, metrics = parse_json_lines(stdout.splitlines(), requested_model)
+        output, metrics = capture.finish()
     except OmpJsonError as error:
+        fail = getattr(listener, "fail", None)
+        if callable(fail):
+            fail("no model output")
         extra = f"\nevents saved: {log_path}" if log_path else ""
         raise OmpJsonError(str(error) + extra) from None
     write_model_logs(log_path, stdout, stderr, parsed=output)

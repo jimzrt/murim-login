@@ -388,12 +388,21 @@ def run_omp(
     timeout: int,
     log_path: Path,
     extra_configs: list[str] | None = None,
-) -> tuple[str, dict]:
+    label: str | None = None,
+    hint: str = "",
+    hold: bool = False,
+):
     try:
         from tools.omp_json import OmpJsonError, run_json_command
+        from tools.progress import ModelCall
     except ModuleNotFoundError:
         from omp_json import OmpJsonError, run_json_command
+        from progress import ModelCall
     cfg = load_config()
+    packet_bytes = packet_path.stat().st_size
+    packet_tokens = estimated_tokens(read_text(packet_path))
+    role = label or log_path.stem
+    call = ModelCall(role, model, timeout, packet_tokens, hint=hint)
     command = [
         "omp", "--mode", "json", "--no-session", "--no-tools", "--no-rules", "--no-extensions",
     ]
@@ -407,13 +416,15 @@ def run_omp(
     command += ["--model", model, "--max-time", str(max(60, timeout - 60)), f"@{packet_path}"]
     try:
         output, metrics = run_json_command(
-            command, cwd=ROOT, requested_model=model, timeout=timeout, log_path=log_path,
+            command, cwd=ROOT, requested_model=model, timeout=timeout, log_path=log_path, listener=call,
         )
     except OmpJsonError as exc:
         raise RuntimeError(str(exc)) from None
-    metrics["packet_bytes"] = packet_path.stat().st_size
-    metrics["packet_token_estimate"] = estimated_tokens(read_text(packet_path))
-    return output, metrics
+    metrics["packet_bytes"] = packet_bytes
+    metrics["packet_token_estimate"] = packet_tokens
+    if not hold:
+        call.done(metrics)
+    return output, metrics, call
 
 
 def load_metrics(p: dict[str, Path]) -> dict:
@@ -462,9 +473,13 @@ def invalidate_downstream(p: dict[str, Path], from_stage: str) -> None:
 
 
 def command_master(number: int, force: bool = False) -> None:
+    try:
+        from tools.progress import qa_brief, step
+    except ModuleNotFoundError:
+        from progress import qa_brief, step
     state, p = create_or_verify_state(number)
     if p["sol"].exists() and not force:
-        print(f"{number:04d}: master already exists; skipping")
+        step("master", "already exists")
         return
     if force:
         invalidate_downstream(p, "master")
@@ -476,8 +491,10 @@ def command_master(number: int, force: bool = False) -> None:
     atomic_text(p["master_packet"], packet)
     cfg = load_config()
     model = cfg["models"]["master"]
-    output, metrics = run_omp(
-        p["master_packet"], model, int(cfg["timeouts"]["master"]), p["logs"] / "master.jsonl"
+    output, metrics, call = run_omp(
+        p["master_packet"], model, int(cfg["timeouts"]["master"]), p["logs"] / "master.jsonl",
+        label="master",
+        hold=True,
     )
     mastered = normalize_chapter(output)
     validate_chapter(mastered, number, "master")
@@ -486,7 +503,7 @@ def command_master(number: int, force: bool = False) -> None:
     atomic_json(p["sol_qa"], qa)
     save_metric(p, "master", metrics)
     update_state(p, state, "MASTERED", sol_sha256=sha256_text(mastered))
-    print(f"{number:04d}: master edit complete")
+    call.done(metrics, qa_brief(qa))
 
 
 def blocks(text: str) -> list[str]:
@@ -863,11 +880,15 @@ def validate_adjudication(value: dict, number: int, diff: dict) -> dict:
 
 
 def command_adjudicate(number: int, force: bool = False) -> None:
+    try:
+        from tools.progress import step
+    except ModuleNotFoundError:
+        from progress import step
     state, p = create_or_verify_state(number)
     if not p["sol"].exists():
         raise ValueError(f"chapter {number}: run master first")
     if p["adjudication"].exists() and not force:
-        print(f"{number:04d}: adjudication already exists; skipping")
+        step("adjudicate", "already exists")
         return
     if force:
         invalidate_downstream(p, "adjudicator")
@@ -882,19 +903,22 @@ def command_adjudicate(number: int, force: bool = False) -> None:
         adjudication = {"version": 1, "chapter": number, "decisions": []}
         atomic_json(p["adjudication"], adjudication)
         update_state(p, state, "ADJUDICATED", hunk_count=0)
-        print(f"{number:04d}: no changes; adjudication skipped")
+        step("adjudicate", "0 hunks")
         return
     packet = adjudicator_packet(number, source, baseline, sol, glossary, diff)
     enforce_budget(packet, "adjudicator")
     atomic_text(p["adjudicator_packet"], packet)
     cfg = load_config()
     model = cfg["models"]["adjudicator"]
-    output, metrics = run_omp(
+    output, metrics, call = run_omp(
         p["adjudicator_packet"],
         model,
         int(cfg["timeouts"]["adjudicator"]),
         p["logs"] / "adjudicator.jsonl",
         extra_configs=[str(cfg["adjudicator_omp_config"])] if cfg.get("adjudicator_omp_config") else None,
+        label="adjudicate",
+        hint=f"{diff['hunk_count']} hunks",
+        hold=True,
     )
     raw_path = p["logs"] / "adjudicator-output.txt"
     atomic_text(raw_path, output)
@@ -903,7 +927,7 @@ def command_adjudicate(number: int, force: bool = False) -> None:
     save_metric(p, "adjudicator", metrics)
     counts = {k: sum(1 for d in value["decisions"] if d["decision"] == k) for k in ("SOL", "BASE", "REPAIR")}
     update_state(p, state, "ADJUDICATED", hunk_count=diff["hunk_count"], decisions=counts)
-    print(f"{number:04d}: adjudicated {diff['hunk_count']} hunks — {counts}")
+    call.done(metrics, f"SOL {counts['SOL']}  BASE {counts['BASE']}  REPAIR {counts['REPAIR']}")
 
 
 def assemble_from_decisions(baseline: str, sol: str, adjudication: dict) -> str:
@@ -945,7 +969,11 @@ def command_assemble(number: int) -> None:
     validate_chapter(final, number, "final")
     atomic_text(p["final"], final)
     update_state(p, state, "ASSEMBLED", final_sha256=sha256_text(final))
-    print(f"{number:04d}: final chapter assembled")
+    try:
+        from tools.progress import step
+    except ModuleNotFoundError:
+        from progress import step
+    step("assemble")
 
 
 def run_fidelity_gate(
@@ -1031,11 +1059,13 @@ finding blocks promotion; minor findings are recorded for human inspection.
     enforce_budget(packet, "fidelity gate")
     atomic_text(paths["fidelity_packet"], packet)
     cfg = load_config()
-    output, metrics = run_omp(
+    output, metrics, call = run_omp(
         paths["fidelity_packet"],
         cfg["models"]["quality_gate"],
         int(cfg["timeouts"]["quality_gate"]),
         paths["logs"] / "fidelity-gate.jsonl",
+        label="fidelity",
+        hold=True,
     )
     try:
         from tools.model_io import validate_review
@@ -1043,6 +1073,10 @@ finding blocks promotion; minor findings are recorded for human inspection.
         from model_io import validate_review
     value = validate_review(parse_json_object(output))
     atomic_json(paths["fidelity_review"], value)
+    findings = len(value["findings"])
+    major = sum(item["severity"] in {"major", "critical"} for item in value["findings"])
+    extra = f"{findings} findings" + (f"  {major} major" if major else "")
+    call.done(metrics, extra)
     save_metric(
         paths,
         "fidelity_gate",
@@ -1132,11 +1166,18 @@ def command_qa(number: int) -> None:
         fidelity_repairs=repairs,
     )
     status = "PASS" if passed else "FAIL"
-    print(
-        f"{number:04d}: QA {status} — {len(qa['errors'])} errors, "
-        f"{len(qa['warnings'])} warnings, {semantic_failures} major/critical "
-        f"fidelity findings, {repairs} repairs"
-    )
+    try:
+        from tools.progress import step
+    except ModuleNotFoundError:
+        from progress import step
+    bits = [f"QA {status}"]
+    if qa["warnings"]:
+        bits.append(f"{len(qa['warnings'])}w")
+    if qa["errors"]:
+        bits.append(f"{len(qa['errors'])}e")
+    if repairs:
+        bits.append(f"{repairs} repairs")
+    step("verify", "  ".join(bits))
 
 
 def command_run(number: int) -> None:
@@ -1150,7 +1191,11 @@ def command_finish_for_commit(number: int) -> None:
     """Run the overlay through VERIFIED and promote the mastered copy into translations/."""
     state = state_for(number)
     if state.get("stage") == "PROMOTED" and state.get("qa_passed"):
-        print(f"{number:04d}: already promoted; skipping mastering")
+        try:
+            from tools.progress import step
+        except ModuleNotFoundError:
+            from progress import step
+        step("master", "already promoted")
         return
     command_run(number)
     p = chapter_paths(number)
@@ -1245,7 +1290,11 @@ def command_promote(number: int, confirm: str) -> None:
     # create_or_verify_state already proved translations/<chapter>.md still matches snapshot.
     atomic_text(p["translation"], final)
     update_state(p, state, "PROMOTED", promoted_sha256=sha256_text(final))
-    print(f"{number:04d}: promoted final -> translations/{number:04d}.md")
+    try:
+        from tools.progress import step
+    except ModuleNotFoundError:
+        from progress import step
+    step("promote", f"translations/{number:04d}.md")
 
 
 def command_doctor() -> None:

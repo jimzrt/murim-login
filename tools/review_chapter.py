@@ -58,7 +58,9 @@ def main() -> int:
     work = ROOT / ".work" / f"{args.chapter:04d}"
     log_path = work / "omp" / "review.jsonl"
     try:
-        raw, usage = run_omp(packet_path, project_config()["review_model"], 660, log_path=log_path)
+        raw, usage, call = run_omp(
+            packet_path, project_config()["review_model"], 660, log_path=log_path, label="review", hold=True,
+        )
     except SystemExit as error:
         print(error, file=sys.stderr)
         return 1
@@ -83,7 +85,10 @@ def main() -> int:
         "usage": usage,
     }
     atomic_write(metadata_path, json.dumps(metadata, indent=2, sort_keys=True) + "\n")
-    print(report_markdown)
+    extra = f"{metadata['finding_count']} findings"
+    if metadata["major_or_critical_count"]:
+        extra += f"  {metadata['major_or_critical_count']} major"
+    call.done(usage, extra)
     return 0
 
 
