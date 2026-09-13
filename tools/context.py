@@ -146,6 +146,45 @@ def glossary_text(entries: list[dict]) -> str:
     return "\n".join(item["row"] for item in entries) or "(No exact compendium rows matched.)"
 
 
+def matched_address_pairs(source: str, profiles: list[tuple[Path, str]]) -> list[dict]:
+    try:
+        from tools.ledgers import load_address_pairs, matching_address_pairs
+        from tools.names import profile_koreans
+    except ModuleNotFoundError:
+        from ledgers import load_address_pairs, matching_address_pairs
+        from names import profile_koreans
+    known: set[str] = set()
+    for _path, body in profiles:
+        known.update(profile_koreans(body))
+    return matching_address_pairs(
+        source, known, load_address_pairs(ROOT / "docs" / "ADDRESS.md"),
+    )
+
+
+def address_pairs_text(pairs: list[dict]) -> str:
+    try:
+        from tools.ledgers import address_pairs_text as render
+    except ModuleNotFoundError:
+        from ledgers import address_pairs_text as render
+    return render(pairs)
+
+
+def matched_risk_notes(source: str) -> list[dict]:
+    try:
+        from tools.ledgers import load_risks, matching_risks
+    except ModuleNotFoundError:
+        from ledgers import load_risks, matching_risks
+    return matching_risks(source, load_risks(ROOT / "docs" / "RISKS.md"))
+
+
+def risk_notes_text(entries: list[dict]) -> str:
+    try:
+        from tools.ledgers import risks_text
+    except ModuleNotFoundError:
+        from ledgers import risks_text
+    return risks_text(entries)
+
+
 def profile_entries(source: str) -> list[tuple[Path, str]]:
     try:
         from tools.names import profile_koreans
@@ -309,6 +348,8 @@ def build_draft_packet(number: int) -> str:
     rules = rules_path.read_text(encoding="utf-8").strip()
     glossary = exact_glossary_entries(source)
     profiles = profile_entries(source)
+    address_pairs = matched_address_pairs(source, profiles)
+    risk_notes = matched_risk_notes(source)
     summary_path, summary = latest_summary_entry(number)
     seed_path, seed = expedition_seed()
     continuity_paths, continuity = continuity_text(context)
@@ -342,6 +383,14 @@ ambiguity. Do not review, explain, update files, or continue to another chapter.
 
 {glossary_text(glossary)}
 
+## Matched address pairs
+
+{address_pairs_text(address_pairs)}
+
+## Matched risk notes
+
+{risk_notes_text(risk_notes)}
+
 ## Latest completed summary
 
 {summary}
@@ -355,9 +404,14 @@ ambiguity. Do not review, explain, update files, or continue to another chapter.
 {profiles_text(profiles)}
 """
     names_path = ROOT / "docs" / "NAMES.md"
+    address_path = ROOT / "docs" / "ADDRESS.md"
+    risks_path = ROOT / "docs" / "RISKS.md"
     used = [rules_path, context_path, source_path, compendium_path, names_path, *continuity_paths, *(path for path, _ in profiles)]
     if seed_path:
         used.append(seed_path)
+    for extra in (address_path, risks_path):
+        if extra.is_file():
+            used.append(extra)
     if summary_path:
         used.append(summary_path)
     return body.replace("# Draft Task", f"<!-- packet-manifest\n{manifest(used, body)}\n-->\n\n# Draft Task", 1)
@@ -371,6 +425,8 @@ def build_review_packet(number: int, draft: str, qa: dict) -> str:
     glossary = exact_glossary_entries(source)
     profiles = profile_entries(source)
     _, seed = expedition_seed()
+    address_pairs = matched_address_pairs(source, profiles)
+    risk_notes = matched_risk_notes(source)
     active = {key: context[key] for key in ("active_continuity", "open_questions", "temporary_decisions")}
     return f"""# Structured Review Task — Chapter {number}
 
@@ -434,6 +490,14 @@ not overlap.
 
 {glossary_text(glossary)}
 
+## Matched address pairs
+
+{address_pairs_text(address_pairs)}
+
+## Matched risk notes
+
+{risk_notes_text(risk_notes)}
+
 ## Present-character profiles
 
 {profiles_text(profiles)}
@@ -457,9 +521,11 @@ def build_update_packet(number: int, reading_copy: str) -> str:
     source_path = chapter_source_path(number)
     context_path = ROOT / "docs" / "CONTEXT.json"
     names_path = ROOT / "docs" / "NAMES.md"
+    address_path = ROOT / "docs" / "ADDRESS.md"
     profiles = profile_entries(source)
     prior = read_json(context_path)
     _, seed = expedition_seed()
+    address_ledger = address_path.read_text(encoding="utf-8").strip() if address_path.is_file() else "(None.)"
     body = f"""# Durable State Update — Chapter {number}
 
 Return exactly one JSON object and no Markdown fence. Record only facts established
@@ -474,8 +540,10 @@ complete line in a listed profile, and only an Aliases, Role, Personality, Voice
 Relationships line. Use `profile_creations` only for a newly introduced named
 character without a listed profile. Filenames must be plain `.md` basenames.
 `names` contains only newly required Korean-to-English rows; Korean keys must occur
-in the source. Beat plot paragraphs are plain strings; continuity and translation
-decisions are concise list items.
+in the source. `address_pairs` contains only newly required speaker→addressee rows;
+both Korean keys must occur in the source. Do not invent risk-register rows. Beat
+plot paragraphs are plain strings; continuity and translation decisions are concise
+list items.
 
 Return this exact shape:
 
@@ -496,6 +564,16 @@ Return this exact shape:
   }},
   "names": [
     {{"korean": "source spelling", "english": "English rendering", "notes": "brief note"}}
+  ],
+  "address_pairs": [
+    {{
+      "speaker": "speaker Korean",
+      "addressee": "addressee Korean",
+      "kinship": "kinship or role relation",
+      "normal_address": "established English address",
+      "speech_level": "speech level",
+      "notes": "brief note"
+    }}
   ],
   "profile_updates": [
     {{
@@ -518,7 +596,7 @@ Return this exact shape:
   ]
 }}
 
-Use empty arrays when no name or profile change is required.
+Use empty arrays when no name, address-pair, or profile change is required.
 
 ## Prior durable context
 
@@ -533,6 +611,10 @@ Use empty arrays when no name or profile change is required.
 ## Existing names ledger
 
 {names_path.read_text(encoding="utf-8").strip()}
+
+## Existing address-pair ledger
+
+{address_ledger}
 
 ## Exact glossary matches
 
@@ -555,6 +637,11 @@ Use empty arrays when no name or profile change is required.
 ```
 """
     used = [source_path, context_path, names_path, *(path for path, _ in profiles)]
+    if address_path.is_file():
+        used.append(address_path)
+    seed_path, _ = expedition_seed()
+    if seed_path:
+        used.append(seed_path)
     return body.replace(
         "# Durable State Update",
         f"<!-- packet-manifest\n{manifest(used, body)}\n-->\n\n# Durable State Update",

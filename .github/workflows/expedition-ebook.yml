@@ -67,7 +67,7 @@ jobs:
           tag="${INPUT_TAG:-expedition-ebook}"
           sha="${GITHUB_SHA:0:7}"
           chapters="$(find translations -maxdepth 1 -name '[0-9][0-9][0-9][0-9].md' | wc -l)"
-          notes="$(printf 'Chapter 374 expedition from `%s` (%s local English chapters). Chapters 65–373 are skipped or source-only bridge material. Rolling builds overwrite `expedition-ebook`; custom tags are immutable.' "$sha" "$chapters")"
+          notes="$(printf 'Chapter 374 expedition from `%s` (%s local English chapters). Catch-up from 370; chapters 66–369 are skipped. Rolling builds overwrite `expedition-ebook`; custom tags are immutable.' "$sha" "$chapters")"
           if [ "$tag" = "expedition-ebook" ] && gh release view "$tag" >/dev/null 2>&1; then
             gh release upload "$tag" build/murim-login.pdf build/murim-login.epub --clobber
             gh release edit "$tag" --title "Murim Login — Chapter 374 Expedition" --notes "$notes"

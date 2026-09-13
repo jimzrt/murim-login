@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "*You picked a fine day to die.*",
+      "defect": "The draft adds an explicit threat to kill Taekyung. The source only conveys that Mukyung has caught him at an opportune moment to punish him.",
+      "id": "F01",
+      "rationale": "The replacement preserves Mukyung’s punitive intent without inventing a death threat.",
+      "replacement": "*I’ve got you now.*",
+      "severity": "major",
+      "source": "너 오늘 잘 걸렸다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“What happened to you? Did you drink some kind of stone oil?”\n\n“Why would I drink oil? You’re completely insane.”",
+      "defect": "The draft turns 공청석유, a named elixir, into generic “stone oil” and therefore obscures the homophone joke behind Taekyung’s response.",
+      "id": "F02",
+      "rationale": "Transliteration retains the named item, while the footnote makes the source’s petroleum misunderstanding intelligible without inserting an explanation into the dialogue.",
+      "replacement": "“What happened to you? Did you drink *gongcheong seokyu*[^2] or something?”\n\n“Why would I drink oil? You’re completely insane.”\n\n[^2]: *Gongcheong seokyu* is a rare martial-arts elixir; *seokyu* is also the Korean word for petroleum.",
+      "severity": "major",
+      "source": "“어떻게 된 거지? 공청석유라도 마셨나?”\n\n“석유를 왜 마셔. 이거 완전히 미친놈이네.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Hyung. I don’t think that’s quite fair.”",
+      "defect": "형님 is markedly more deferential than 형. Taekyung abruptly raises his register once Mukyung releases his full power, but the draft repeats the casual address and loses that comic submission.",
+      "id": "F03",
+      "rationale": "The deferential form preserves the deliberate register shift and the brothers’ hierarchy.",
+      "replacement": "“Hyung-nim. I don’t think that’s quite fair.”",
+      "severity": "major",
+      "source": "“형님. 그건 좀 아닌 것 같습니다.”"
+    },
+    {
+      "confidence": 0.9,
+      "current": "“Fuck.”",
+      "defect": "시벌 is a deliberately distorted or minced form of the stronger 씨발. The draft makes the euphemistic profanity fully explicit.",
+      "id": "F04",
+      "rationale": "The replacement remains profane and exasperated without erasing the source’s softened comic form.",
+      "replacement": "“Goddammit.”",
+      "severity": "major",
+      "source": "“시벌.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I’m sorry! I didn’t mean to!”",
+      "defect": "The action is reversed. Soyul is not apologizing; she sternly demands that Taekyung acknowledge that he did wrong by covering her with the blanket.",
+      "id": "F05",
+      "rationale": "The replacement restores Soyul as the accuser and preserves her childish speech.",
+      "replacement": "“You did bad, didn’t you!”",
+      "severity": "critical",
+      "source": "“잘못했서, 안 했서!”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Soyul giggled.",
+      "defect": "The source describes a smile, not audible laughter.",
+      "id": "F06",
+      "rationale": "배시시 웃다 denotes a small, pleased smile; changing it to a giggle alters the physical action.",
+      "replacement": "Soyul smiled sweetly.",
+      "severity": "minor",
+      "source": "소율이 배시시 웃었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Only then did the door open cautiously. Socheon spoke with an apologetic expression.",
+      "defect": "황송하다 conveys deferential gratitude and humility toward someone greatly honored, not an apology. The draft loses Socheon’s hierarchical reverence for his Benefactor.",
+      "id": "F07",
+      "rationale": "The replacement preserves Socheon’s deferential register and emotional posture.",
+      "replacement": "Only then did the door cautiously open. Looking deeply humbled, Socheon said,",
+      "severity": "major",
+      "source": "그제야 방문이 조심스럽게 열렸다. 소천이 황송하다는 얼굴로 말했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Big brother’s part of it too!”\n\n“He must be in on it.”",
+      "defect": "The draft removes Soyul’s childish malapropism: she says 한 무더기, “a whole heap,” instead of 한패, “one of the same gang.” It also turns Taekyung’s correction into an ordinary interpretation.",
+      "id": "F08",
+      "rationale": "The replacement restores both the mistaken word and Taekyung’s deadpan correction.",
+      "replacement": "“Big brother’s a whole heap too!”\n\n“You mean he’s in on it.”",
+      "severity": "major",
+      "source": "“오라버니도 한 무더기야!”\n\n“한패겠지.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "If she had been some black-haired male, I could have beaten her senseless without worrying about social criticism or pangs of conscience.",
+      "defect": "시커먼 사내놈 does not describe black hair. It disparagingly evokes a full-grown, rough male; the draft invents a hair-color detail and retains a feminine pronoun after the imagined sex change.",
+      "id": "F09",
+      "rationale": "The replacement restores the contemptuous physical characterization and keeps the counterfactual pronouns coherent.",
+      "replacement": "If she were some hulking bastard of a man, I could beat him senseless without worrying about social criticism or pangs of conscience.",
+      "severity": "minor",
+      "source": "시커먼 사내놈이라면 사회적 비판이나 양심의 가책 없이 뒤지게 팰 수 있을 테니까."
+    },
+    {
+      "confidence": 0.94,
+      "current": "They say you’re a shoo-in to become the next head of the Gatekeepers.”\n\n“T-The next head of the Gatekeepers!”",
+      "defect": "수문각주 is the formal title for the master of the Gatekeeper Pavilion, not merely a generic head of the gatekeepers. The draft obscures the institutional post and Hyuk Mujin’s prospective promotion from Captain.",
+      "id": "F10",
+      "rationale": "The replacement preserves the distinct office, organization, and hierarchical promotion.",
+      "replacement": "They say you’re a shoo-in to become the next Master of the Gatekeeper Pavilion.”\n\n“T-The next Master of the Gatekeeper Pavilion!”",
+      "severity": "major",
+      "source": "차기 수문각주는 따 놓은 당상이라던데.\n\n“수, 수문각주!”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "“He was strong. I, the next head of the Gatekeepers, fought him for more than a hundred exchanges without either of us managing to win…”",
+      "defect": "The later repetition again substitutes a generic leadership description for the formal office 수문각주, making Hyuk Mujin’s boast terminologically inconsistent with his actual promotion.",
+      "id": "F11",
+      "rationale": "The replacement keeps the formal title consistent and preserves the boast that even someone of Hyuk Mujin’s newly claimed stature could not decide the contest.",
+      "replacement": "“He was strong. Even I, the next Master of the Gatekeeper Pavilion, fought him for more than a hundred exchanges without settling the match…”",
+      "severity": "major",
+      "source": "“강한 놈이었지. 차기 수문각주인 내가 백여 합을 겨뤘지만 승부를 보지 못할 정도로…….”"
+    }
+  ],
+  "summary": "One reversed action, several lost register and wordplay cues, an added death threat, and localized terminology errors require correction.",
+  "version": 1
+}

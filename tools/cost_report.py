@@ -256,6 +256,58 @@ def quota_summaries(live: dict | None, provider: str) -> list[str]:
     return lines
 
 
+def blank_adjudication() -> dict:
+    return {"SOL": 0, "BASE": 0, "REPAIR": 0, "other": 0, "hunks": 0}
+
+
+def add_adjudication(target: dict, source: dict) -> None:
+    for key in blank_adjudication():
+        target[key] += source[key]
+
+
+def count_adjudication(value: dict) -> dict:
+    counts = blank_adjudication()
+    decisions = value.get("decisions")
+    if not isinstance(decisions, list):
+        return counts
+    for item in decisions:
+        if not isinstance(item, dict):
+            continue
+        decision = item.get("decision")
+        counts["hunks"] += 1
+        if decision in {"SOL", "BASE", "REPAIR"}:
+            counts[decision] += 1
+        else:
+            counts["other"] += 1
+    return counts
+
+
+def load_mastering_adjudication(root: Path) -> tuple[dict, dict[str, dict]]:
+    totals = blank_adjudication()
+    per_chapter: dict[str, dict] = {}
+    directory = root / "reviews" / "mastering"
+    if not directory.is_dir():
+        return totals, per_chapter
+    for path in sorted(directory.glob("[0-9][0-9][0-9][0-9]/adjudication.json")):
+        try:
+            value = json.loads(path.read_text(encoding="utf-8"))
+        except json.JSONDecodeError:
+            continue
+        counts = count_adjudication(value)
+        chapter = str(int(path.parent.name))
+        per_chapter[chapter] = counts
+        add_adjudication(totals, counts)
+    return totals, per_chapter
+
+
+def format_adjudication(counts: dict) -> str:
+    extra = f", other {counts['other']}" if counts.get("other") else ""
+    return (
+        f"Mastering hunks: {counts['hunks']} "
+        f"(SOL {counts['SOL']}, BASE {counts['BASE']}, REPAIR {counts['REPAIR']}{extra})"
+    )
+
+
 def build_report(*, live_usage: bool = False) -> dict:
     totals = blank_usage()
     total_workload = blank_workload()
@@ -317,6 +369,10 @@ def build_report(*, live_usage: bool = False) -> dict:
             "models": finished_chapter_models,
             "stages": chapter_stages,
         }
+    totals_adjudication, chapter_adjudication = load_mastering_adjudication(ROOT)
+    for chapter, counts in chapter_adjudication.items():
+        if chapter in chapters:
+            chapters[chapter]["mastering_adjudication"] = counts
     checkpoint_reviews = []
     for path in sorted((ROOT / "reviews" / "checkpoints").glob("*.meta.json")):
         value = json.loads(path.read_text(encoding="utf-8"))
@@ -367,6 +423,7 @@ def build_report(*, live_usage: bool = False) -> dict:
             "Live subscription and on-demand allowance usage is account-wide and cannot be assigned to a chapter."
         ),
         "unavailable_stages": unavailable,
+        "mastering_adjudication": totals_adjudication,
         "checkpoint_reviews": checkpoint_reviews,
         "checkpoint_unique_finding_total": sum(item["findings"] for item in checkpoint_reviews),
         "retrofit_audits": retrofit_audits,
@@ -511,6 +568,8 @@ def format_report(report: dict, chapter: int | None = None) -> str:
             lines.append(usage_line(name, usage))
         lines.append(usage_line("Total", {**selected["totals"], "workload": selected["workload"]}))
         lines.append(cost_line(selected["costs"]))
+        if selected.get("mastering_adjudication"):
+            lines.append(format_adjudication(selected["mastering_adjudication"]))
         return "\n".join(lines)
     lines = [format_resource_report(report), ""]
     lines.append(f"Chapters with metric files: {len(report['chapters'])}")
@@ -527,6 +586,8 @@ def format_report(report: dict, chapter: int | None = None) -> str:
     lines.append(
         f"Checkpoint findings: {report['checkpoint_unique_finding_total']} across {len(report['checkpoint_reviews'])} reviews"
     )
+    if report.get("mastering_adjudication", {}).get("hunks"):
+        lines.append(format_adjudication(report["mastering_adjudication"]))
     return "\n".join(lines)
 
 

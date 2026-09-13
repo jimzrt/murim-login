@@ -1,26 +1,26 @@
 {
   "version": 1,
   "mode": "expedition",
-  "start_chapter": 374,
-  "seed_safe_through": 373,
+  "start_chapter": 370,
+  "seed_safe_through": 369,
   "skipped_ranges": [
     {
-      "start": 65,
-      "end": 370,
+      "start": 66,
+      "end": 369,
       "status": "not_translated_locally",
-      "reason": "The expedition deliberately begins at Chapter 374; do not treat source-only chapters as accepted English continuity."
-    },
-    {
-      "start": 371,
-      "end": 373,
-      "status": "source_bridge_only",
-      "reason": "Bounded source summaries are supplied for orientation, but these chapters are not accepted English translations in this branch."
+      "reason": "The expedition backfills from Chapter 370; do not treat source-only chapters 66–369 as accepted English continuity."
     }
   ],
+  "parked_progress": {
+    "from_chapter": 374,
+    "through_chapter": 375,
+    "context": "docs/expedition-parked/CONTEXT-0375.json",
+    "state": "docs/expedition-parked/STATE-0375.md"
+  },
   "canonical_anchor": {
     "branch": "master",
-    "chapter": 64,
-    "commit": "a27ddb19f3c0ba3b1d0f8449bc75dd679b9d7a04"
+    "chapter": 65,
+    "commit": "82dcae3b995520a057be0196de2d6fadfe6fb937"
   },
   "pages_repository": "jimzrt/murim-login-expedition-pages",
   "pages_event": "expedition-publish",
