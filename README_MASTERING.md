@@ -23,7 +23,7 @@ assembled final chapter
       ↓
 existing deterministic QA
       ↓
-promote into translations/ (automatic on run_next; manual promote still requires --confirm)
+promote into translations/ (automatic after verify on `run`)
 ```
 
 There are exactly **two LLM calls per chapter**. DeepSeek writes a replacement only for a `REPAIR` decision; there is no third model or second Sol call.
@@ -58,7 +58,7 @@ reviews/mastering/0001/
     omp/
 ```
 
-The accepted `translations/0001.md` is untouched unless you explicitly run `promote`.
+The accepted `translations/0001.md` is replaced when `run` reaches a verified final (or when you call `promote` on an already-verified chapter).
 
 ## Install
 
@@ -193,9 +193,9 @@ established terminology, formatting, and source-specific texture.
 
 At the start of mastering a chapter, the script snapshots and hashes the Korean source and accepted English. Later stages abort if either live file changes during the transaction. After promotion, the live translation must keep matching the promoted copy.
 
-`python tools/workflow.py master N` and `run_next.py` promote automatically once mastering QA passes. Manual overlay commands other than `promote` never modify `translations/`.
+`python tools/mastering.py run N`, `python tools/workflow.py master N`, and `run_next.py` all promote automatically once mastering QA passes. Individual stage commands (`master`, `adjudicate`, `assemble`, `qa`) do not touch `translations/` until you run `run` or `promote`.
 
-Manual promotion of an already-verified chapter still requires:
+Manual promotion of an already-verified chapter still works:
 
 ```bash
 python tools/mastering.py promote 1-10 --confirm REPLACE_TRANSLATIONS
