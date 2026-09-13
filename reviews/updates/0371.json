@@ -1,0 +1,154 @@
+{
+  "chapter": 371,
+  "files": {
+    "characters/Gung Gibang.md": "58a4b57338e116f2b1bfc884f3802cfd13c1e0c77e475f3701047d0e26f494ac",
+    "characters/Hyuk Mujin.md": "841cdb2cecfd823d69afaf961829a601d6c896e307d537986212c869aba893ae",
+    "characters/Jin Taekyung.md": "bc3d7a9ddfb5153904fc171c73b3e0003a0e1509efc97a55e1dd9c4c1aaf6379",
+    "characters/Mungyeong.md": "a46956759200960eb652ff822583ddb3da698389abced0e2e6f05fd85c69c3b8",
+    "docs/ADDRESS.md": "d91479ac259c5b4a45f4107ab429a7897a8efa7c3c0c7bf1ab9b0942043981f4",
+    "docs/CONTEXT.json": "1fb298fe79dd43d08bd77b0f6f00e9f80a03165ffe4035cdfaf264319cc4df28",
+    "docs/NAMES.md": "555a8e90504fbbf7fae8708b05289615b30c1e083db0bd562dade2aea4fe96db",
+    "docs/STATE.md": "2e9942fb0765e5c8957f850062c9023dbfa8bb90fda31855d7f9af96c2b46c01",
+    "summaries/beats/0371.md": "e03a23ad3a8fdad9929b07adf71034e250ee21a0aeec865e6a766d363a09fced"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "청풍고검",
+        "kinship": "junior_to_elder_sect_leader",
+        "normal_address": "Perfected One",
+        "notes": "Uses 진인 when greeting the Qingcheng Sect Leader.",
+        "speaker": "진태경",
+        "speech_level": "respectful-formal"
+      },
+      {
+        "addressee": "진태경",
+        "kinship": "elder_sect_leader_to_junior_ally",
+        "normal_address": "Fellow Daoist Jin",
+        "notes": "Uses 진 도우 when greeting Taekyung.",
+        "speaker": "청풍고검",
+        "speech_level": "respectful-but-familiar"
+      },
+      {
+        "addressee": "진태경",
+        "kinship": "elder_sect_leader_to_benefactor",
+        "normal_address": "Benefactor Jin",
+        "notes": "Uses 진 시주 when greeting Taekyung.",
+        "speaker": "멸절신니",
+        "speech_level": "respectful-formal"
+      },
+      {
+        "addressee": "적천강",
+        "kinship": "orthodox_elder_to_orthodox_elder",
+        "normal_address": "Benefactor Jeok",
+        "notes": "Uses 시주 when responding to Jeok Cheongang.",
+        "speaker": "멸절신니",
+        "speech_level": "respectful-but-familiar"
+      },
+      {
+        "addressee": "적천강",
+        "kinship": "disciple_to_elder_master",
+        "normal_address": "Old Man",
+        "notes": "Uses 노야 while thanking Jeok Cheongang.",
+        "speaker": "진태경",
+        "speech_level": "casual-but-affectionate"
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "Jin Taekyung is now publicly recognized by the epithet Blazing Fire Divine Dragon, and Jeok Cheongang is proud of his rise.",
+        "The Qingcheng Sect Leader Clear Wind Ancient Sword and the Emei Sect Leader Extinction Divine Nun ask Jin Taekyung and Jeok Cheongang to investigate a strange formation associated with information obtained from Samgoe.",
+        "Mungyeong is revealed to be the martial artist known as the Slaughter Saint.",
+        "A message hawk has been sent to Henan for further information, and the formation's nature and purpose remain unresolved."
+      ],
+      "plot": [
+        "Jin Taekyung is publicly hailed as the Blazing Fire Divine Dragon, and Jeok Cheongang takes pride in seeing his disciple recognized as a true hero. Their celebration turns into a chaotic spectacle before Jeok privately admits that Taekyung did well.",
+        "The Sect Leaders of Qingcheng and Emei ask Jin Taekyung and Jeok Cheongang to accompany them to investigate a strange formation connected to Samgoe. Outside the Sichuan Tang Clan, Taekyung reunites with Mungyeong and makes embarrassing jokes before discovering that Mungyeong is actually the Slaughter Saint. The group travels toward a cliff-lined area while awaiting a reply from Henan."
+      ],
+      "translation_decisions": [
+        "Render 청풍고검 as Clear Wind Ancient Sword and 멸절신니 as Extinction Divine Nun.",
+        "Render 천주 as Heavenly Lord, 혈주 as Blood Lord, 열화동 as Blazing Fire Cave, and 삼도천 계곡 as Valley of the Sanzu River.",
+        "Retain Perfected One, Fellow Daoist Jin, and Benefactor Jin for the established forms of address 진인, 진 도우, and 진 시주."
+      ]
+    },
+    "chapter": 371,
+    "context": {
+      "active_continuity": [
+        "Seven days after the Three-Sect Bloodbath, the Sichuan Tang Clan is open for reconstruction, funerals, medical treatment, and assistance from orthodox allies and commoners.",
+        "Most of Dark Heaven's attackers in Sichuan are dead or captured, and Samgoe has been captured by an unidentified figure; the immediate conflict has ended but a broader age of chaos is beginning.",
+        "Jin Taekyung has awakened as a Supreme Peak martial artist and is publicly recognized by the epithet Blazing Fire Divine Dragon.",
+        "Mungyeong is the martial artist known as the Slaughter Saint.",
+        "The Qingcheng and Emei Sect Leaders have asked Jin Taekyung and Jeok Cheongang to investigate a strange formation connected to Samgoe's interrogation.",
+        "A message hawk has been sent to Henan for a reply concerning the situation."
+      ],
+      "continuity_sources": [
+        370,
+        371
+      ],
+      "open_questions": [
+        "The identity of the mysterious figure who captured Samgoe remains unknown.",
+        "It remains unresolved why Mungyeong told Hyuk Mujin and Gung Gibang that Jin Taekyung ordered them to rescue the Emei Sect.",
+        "The nature, purpose, and location-specific significance of the strange formation remain unresolved.",
+        "The identity of the person waiting downstairs and avoiding attention remains unclear."
+      ],
+      "safe_through": 371,
+      "temporary_decisions": [
+        "Use Satae as the rendering for 사태 and Daoist as the rendering for 도장 in names and forms of address.",
+        "Use Cham Isul for 참이슬 and preserve the Korean brand reference with a footnote."
+      ],
+      "version": 1
+    },
+    "names": [
+      {
+        "english": "Clear Wind Ancient Sword",
+        "korean": "청풍고검",
+        "notes": "Sect Leader of the Qingcheng Sect; epithet of the old Daoist."
+      },
+      {
+        "english": "Extinction Divine Nun",
+        "korean": "멸절신니",
+        "notes": "New Sect Leader of the Emei Sect after the death of the Heaven-Shaking Divine Nun."
+      },
+      {
+        "english": "Heavenly Lord",
+        "korean": "천주",
+        "notes": "Being worshiped as a god by Dark Heaven's fanatics."
+      },
+      {
+        "english": "Blood Lord",
+        "korean": "혈주",
+        "notes": "Dark Heaven figure whose power and abilities are recalled by Jin Taekyung."
+      },
+      {
+        "english": "Blazing Fire Cave",
+        "korean": "열화동",
+        "notes": "Cave at Mount Jiuhua containing an advanced arcane formation."
+      },
+      {
+        "english": "Jin Seong-ae",
+        "korean": "진성애",
+        "notes": "Jin Taekyung's joking title for himself as a sex-education teacher."
+      },
+      {
+        "english": "Gu Seong-ae",
+        "korean": "구성애",
+        "notes": "Real-world sex-education teacher referenced in Jin Taekyung's joke."
+      },
+      {
+        "english": "Valley of the Sanzu River",
+        "korean": "삼도천 계곡",
+        "notes": "Valley named after the Buddhist river separating the living world from the afterlife."
+      }
+    ],
+    "profile_creations": [],
+    "profile_updates": [
+      {
+        "current": "- **Aliases:** None",
+        "path": "characters/Mungyeong.md",
+        "replacement": "- **Aliases:** Slaughter Saint"
+      }
+    ],
+    "version": 1
+  },
+  "version": 1
+}

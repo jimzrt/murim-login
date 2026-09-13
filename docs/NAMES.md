@@ -62,3 +62,11 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 문경 | **Mungyeong** | Young Disciple of the Divine Physician overseeing Jin Taekyung's care. |
 | 화산신룡 | **Huashan Divine Dragon** | Epithet used for Jin Taekyung. |
 | 열화신룡 | **Blazing Fire Divine Dragon** | New epithet acquired by Jin Taekyung. |
+| 청풍고검 | **Clear Wind Ancient Sword** | Sect Leader of the Qingcheng Sect; epithet of the old Daoist. |
+| 멸절신니 | **Extinction Divine Nun** | New Sect Leader of the Emei Sect after the death of the Heaven-Shaking Divine Nun. |
+| 천주 | **Heavenly Lord** | Being worshiped as a god by Dark Heaven's fanatics. |
+| 혈주 | **Blood Lord** | Dark Heaven figure whose power and abilities are recalled by Jin Taekyung. |
+| 열화동 | **Blazing Fire Cave** | Cave at Mount Jiuhua containing an advanced arcane formation. |
+| 진성애 | **Jin Seong-ae** | Jin Taekyung's joking title for himself as a sex-education teacher. |
+| 구성애 | **Gu Seong-ae** | Real-world sex-education teacher referenced in Jin Taekyung's joke. |
+| 삼도천 계곡 | **Valley of the Sanzu River** | Valley named after the Buddhist river separating the living world from the afterlife. |

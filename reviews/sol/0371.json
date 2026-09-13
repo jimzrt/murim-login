@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "“…I did.”\n\n“Pardon?”\n\n“Ah, I said I did well!”",
+      "defect": "Jeok Cheongang is reluctantly telling Jin Taekyung that Jin did well, not praising his own actions.",
+      "id": "F01",
+      "rationale": "The omitted subject of 잘했다고 is the addressee, Jin Taekyung. Making Jeok Cheongang say “I did well” reverses the subject and removes the intended praise.",
+      "replacement": "“…You did well.”\n\n“Pardon?”\n\n“Ah, I said you did well!”",
+      "severity": "critical",
+      "source": "“……했다.”\n\n“예?”\n\n“아, 잘했다고!”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "*One of them regenerated like a human troll, another detached and reattached his arm as if it had double-sided tape on it, and the last one even possessed someone.*",
+      "defect": "The draft invents three separate actors and distributes the abilities among them, although the source merely lists bizarre abilities without assigning them to “one,” “another,” and “the last.”",
+      "id": "F02",
+      "rationale": "The source contains no three-part subject structure and does not specify that three different people performed these actions. The replacement preserves the deliberately compressed, subject-omitting list.",
+      "replacement": "*Regenerating like a human troll, detaching and reattaching an arm as if it had double-sided tape on it—and to top it all off, even possession.*",
+      "severity": "critical",
+      "source": "‘인간 트롤마냥 재생하지를 않나, 팔에 양면테이프라도 붙였는지 뗐다 붙이고. 마지막에는 빙의까지 했지.’"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Unlike Cheongpung and Hyuk Mujin, who had no sense even after dying and coming back to life, Gung Gibang was a beggar through and through. He moved at once.",
+      "defect": "“Had no sense” loses the specific inability to read the room, while “beggar through and through” omits the ironic 성골 image of elite or royal pedigree.",
+      "id": "F03",
+      "rationale": "눈치 refers specifically to social awareness here, and 성골 humorously casts Gung Gibang as belonging to the highest pedigree of beggars. Both cues explain why he immediately understands Jeok Cheongang’s intent.",
+      "replacement": "Unlike Cheongpung and Hyuk Mujin, who wouldn’t know how to read the room even if they died and came back to life, Gung Gibang—a blue-blooded beggar to the bone—moved at once.",
+      "severity": "major",
+      "source": "눈치라고는 죽었다가 깨어나도 없는 청풍이나 혁무진과는 달리, 뼛속까지 성골 거지인 궁기방은 즉각 움직였다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "I bent deeply at the waist to Grandma Wang, who looked like the chairwoman of a bossam restaurant.[^1]",
+      "defect": "The draft misreads 왕 as the surname Wang and invents a named “Grandma Wang.” It is an intensifier describing an extremely old grandmotherly woman.",
+      "id": "F04",
+      "rationale": "Nothing in the source names her Wang. The phrase 왕 할머니 humorously emphasizes her extreme age and grandmotherly appearance.",
+      "replacement": "I bowed deeply to the ancient granny who looked like the chairwoman of a bossam restaurant.[^1]",
+      "severity": "major",
+      "source": "나는 보쌈집 회장님 같아 보이는 왕 할머니에게 넙죽 허리를 숙였다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“You little thunderstruck fool. You really caused quite a scene.”",
+      "defect": "“Thunderstruck fool” is a literal but incorrect rendering of 천둥벌거숭이, which means a reckless, unruly brat rather than someone struck by thunder.",
+      "id": "F05",
+      "rationale": "The idiom characterizes Jin Taekyung as wild and heedless; the current wording is unnatural and conveys the wrong image.",
+      "replacement": "“You reckless brat. You really caused quite a scene.”",
+      "severity": "minor",
+      "source": "“천둥벌거숭이 같으니. 아주 한바탕 난리를 치더구나.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“So the rumors were true. No—more than true.”",
+      "defect": "“More than true” is unnatural and obscures that Jin Taekyung exceeds what the rumors said about him.",
+      "id": "F06",
+      "rationale": "그 이상이야 evaluates Jin Taekyung as surpassing his reputation, not the rumors themselves as possessing a greater degree of truth.",
+      "replacement": "“Just as the rumors say. No—you’re even more impressive.”",
+      "severity": "minor",
+      "source": "“소문대로군. 아니, 그 이상이야.”"
+    }
+  ],
+  "summary": "Two critical subject and quantity errors, two meaningful characterization losses, and two localized wording issues.",
+  "version": 1
+}

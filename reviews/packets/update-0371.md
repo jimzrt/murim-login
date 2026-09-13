@@ -1,0 +1,1164 @@
+<!-- packet-manifest
+{
+  "included": [
+    {
+      "path": "source/0371.txt",
+      "sha256": "4a8c6a23a2db3a5b655b166bfbfb87467d00d0f82f499a76c629ea422434faa0",
+      "bytes": 13871
+    },
+    {
+      "path": "docs/CONTEXT.json",
+      "sha256": "ef189da2ff03776963892cceddd2d1689f47ebd75748ccee08afda2a791d875c",
+      "bytes": 1092
+    },
+    {
+      "path": "docs/NAMES.md",
+      "sha256": "eb1b7eb38167f7a6f16d47bd199ebc56fec0580f93112a1ccd0bfe8c4406d7b2",
+      "bytes": 4687
+    },
+    {
+      "path": "characters/Gung Gibang.md",
+      "sha256": "35bbbb3b0de20a5c5e6ec5a2f7b866aea07bb5352c76776ce87cebd34338c243",
+      "bytes": 502
+    },
+    {
+      "path": "characters/Hyuk Mujin.md",
+      "sha256": "854e5e0989c88ad924d2b18eb8fa39804515bcd37760301a767461fd42ba543e",
+      "bytes": 5011
+    },
+    {
+      "path": "characters/Jin Taekyung.md",
+      "sha256": "c6f84dedfd5bb1459e2a8f33e78ac99336d8a5797505689ef3c27975755d6e96",
+      "bytes": 23777
+    },
+    {
+      "path": "characters/Mungyeong.md",
+      "sha256": "18659ff5fac970c5eb9e4f276639a8f6bd7e8bedc89b8f967d289baef854d19e",
+      "bytes": 483
+    },
+    {
+      "path": "docs/ADDRESS.md",
+      "sha256": "d01d85ce8487589242a617cc1c377cccb3f51965f07100e6018f5cc869fae960",
+      "bytes": 2567
+    },
+    {
+      "path": "docs/EXPEDITION_SEED.md",
+      "sha256": "e5a01d50d796fba043e2eff7ee06ea15a89df4e1c84e4ef61e52603f1ccb41b3",
+      "bytes": 1897
+    }
+  ],
+  "estimated_tokens": 11641
+}
+-->
+
+# Durable State Update — Chapter 371
+
+Return exactly one JSON object and no Markdown fence. Record only facts established
+by this chapter. Do not use tools, edit prose, infer future events, or copy archived
+profile continuity.
+
+`context` must contain exactly the durable context schema shown below, with version
+1 and safe_through 371. Keep at most
+2 continuity_sources. Use only chapter
+numbers through 371. `profile_updates` may replace one exact, uniquely occurring
+complete line in a listed profile, and only an Aliases, Role, Personality, Voice, or
+Relationships line. Use `profile_creations` only for a newly introduced named
+character without a listed profile. Filenames must be plain `.md` basenames.
+`names` contains only newly required Korean-to-English rows; Korean keys must occur
+in the source. `address_pairs` contains only newly required speaker→addressee rows;
+both Korean keys must occur in the source. Do not invent risk-register rows. Beat
+plot paragraphs are plain strings; continuity and translation decisions are concise
+list items.
+
+Return this exact shape:
+
+{
+  "chapter": 371,
+  "beat": {
+    "plot": ["chapter plot paragraph"],
+    "continuity": ["binding continuity item"],
+    "translation_decisions": ["binding terminology or voice decision"]
+  },
+  "context": {
+    "version": 1,
+    "safe_through": 371,
+    "continuity_sources": [371],
+    "active_continuity": ["active fact"],
+    "open_questions": ["unresolved question"],
+    "temporary_decisions": ["temporary translation decision"]
+  },
+  "names": [
+    {"korean": "source spelling", "english": "English rendering", "notes": "brief note"}
+  ],
+  "address_pairs": [
+    {
+      "speaker": "speaker Korean",
+      "addressee": "addressee Korean",
+      "kinship": "kinship or role relation",
+      "normal_address": "established English address",
+      "speech_level": "speech level",
+      "notes": "brief note"
+    }
+  ],
+  "profile_updates": [
+    {
+      "path": "characters/Listed Profile.md",
+      "current": "- **Role:** exact current full line",
+      "replacement": "- **Role:** finished replacement full line"
+    }
+  ],
+  "profile_creations": [
+    {
+      "filename": "English Name.md",
+      "korean": "source name",
+      "english": "English Name",
+      "aliases": [],
+      "role": "stable role",
+      "personality": "stable traits",
+      "voice": "stable voice",
+      "relationships": "stable relationships"
+    }
+  ]
+}
+
+Use empty arrays when no name, address-pair, or profile change is required.
+
+## Prior durable context
+
+```json
+{
+  "active_continuity": [
+    "Seven days after the Three-Sect Bloodbath, the Sichuan Tang Clan is open for reconstruction, funerals, medical treatment, and assistance from orthodox allies and commoners.",
+    "Most of Dark Heaven's attackers in Sichuan are dead or captured, and Samgoe has been captured by an unidentified figure; the immediate conflict has ended but a broader age of chaos is beginning.",
+    "Jin Taekyung has awakened as a Supreme Peak martial artist and has acquired the epithet Blazing Fire Divine Dragon."
+  ],
+  "continuity_sources": [
+    370
+  ],
+  "open_questions": [
+    "The identity of the mysterious figure who captured Samgoe remains unknown.",
+    "It remains unresolved why Mungyeong told Hyuk Mujin and Gung Gibang that Jin Taekyung ordered them to rescue the Emei Sect."
+  ],
+  "safe_through": 370,
+  "temporary_decisions": [
+    "Use Satae as the rendering for 사태 and Daoist as the rendering for 도장 in names and forms of address.",
+    "Use Cham Isul for 참이슬 and preserve the Korean brand reference with a footnote."
+  ],
+  "version": 1
+}
+```
+
+## Expedition bridge dossier
+
+# Expedition Seed Dossier
+
+This dossier is intentionally conservative. It orients the Chapter 370 catch-up.
+It is not a substitute for translating Chapters 66–369, and it must not leak
+plot from parked Chapters 371–375.
+
+## Hard boundary
+
+- Accepted English continuity is reliable through Chapter 65.
+- Chapters 66–369 are skipped and have no accepted local English in this
+  expedition.
+- Chapter 370 is the next chapter to translate. Its Korean source is the
+  authority for every beat in that chapter.
+- Parked accepted translations of Chapters 374–375 exist in this branch. Do not
+  read them, their reviews, or old 371–373 bridge summaries while drafting
+  370–373.
+- When the Korean source of the current chapter conflicts with this dossier or
+  with Chapter 65 continuity, the current source wins. Do not invent missing
+  backstory; preserve ambiguity and flag an unresolved continuity issue.
+
+## Opening position for Chapter 370
+
+Chapter 370's source opens at the Sichuan Tang Clan. About seven days have
+passed since the Three-Sect Bloodbath. The clan's gates, long closed, are open
+to reconstruction and to orthodox guests. Do not assert later names, ranks,
+quests, or outcomes that the current chapter has not yet shown.
+
+## Translation guardrails
+
+- Treat the Korean source as authoritative for every line of the chapter being
+  translated.
+- Do not back-project titles, names, ranks, or skills from parked later
+  chapters or web searches into the skipped range without current-source
+  evidence.
+- Use established local terminology where it exists from Chapters 0–65.
+- For terms first evidenced in the current source, follow the ledger and
+  first-use rules. Record new bindings through the normal update stage.
+- The light, self-mocking first-person voice and the source's jokes remain
+  important, but missing continuity must never be filled by invented exposition.
+
+## Existing names ledger
+
+# Established Names
+
+Binding Korean → English for names, titles, aliases, and forms established in
+accepted chapters. Injected only when the exact Korean appears in the current
+chapter. Overrides `compendium.md` on the same Korean key. Add a row at first
+use. First use of an unlisted name or title almost always needs a footnote.
+
+| Korean | Preferred English | Notes |
+| ------ | ----------------- | ----- |
+| 장삼 | **Jang Sam** | Bandit; personal name |
+| 천력부 | **Heavenly Axe** | Epithet of Jang Sam; never romanize |
+| 천관일 | **Sky-Piercing Strike** | Final form of the Jin Family's Spear Technique; 天貫軼 |
+| 녹림십팔채 | **Eighteen Strongholds of Green Forest** | |
+| 홍화루 | **Honghwaru** | Lower District Sect Shanxi branch; pleasure house in Taiyuan |
+| 하연 | **Hayeon** | Jin Taekyung’s younger sister |
+| 응현 | **Eung-hyeon** | Jin Family branch location |
+| 산음 | **Saneum** | Jin Family branch location |
+| 삭주 | **Sakju** | Jin Family branch location |
+| 정양 | **Jeongyang** | Shanxi location |
+| 혼주 | **Honju** | Shanxi location |
+| 견정 | **Gyeonjeong** | Acupoint |
+| 아문 | **Amun** | Acupoint |
+| 봉안 | **Bongan** | Acupoint |
+| 입동 | **Ip-dong** | Acupoint |
+| 갱생권 | **Reformation Fist** | Jin Mukyung's named fist technique |
+| 금나수 | **grappling technique** | Close-combat wrist-lock technique; rendered descriptively |
+| 삼재검법 | **Three Calamities Sword Technique** | Sword technique Mukyung assumes Taekyung is pretending to use. |
+| 약왕당 | **Medicine King Hall** | The Jin Family's medical hall. |
+| 이공자 | **Second Young Master** | Title used for Jin Mukyung. |
+| 수문각주 | **Master of the Gatekeeper Pavilion** | Office Hyuk Mujin is rumored to receive. |
+| 공청석유 | **gongcheong seokyu** | Rare martial-arts elixir; the term also creates a petroleum pun. |
+| 군자 | **junzi** | Confucian ideal of a morally upright gentleman. |
+| 사천당문 | **Sichuan Tang Clan** | The Tang family and clan of Sichuan |
+| 독룡각 | **Poison Dragon Pavilion** | Pavilion led by Tang Horyong |
+| 당호룡 | **Tang Horyong** | Acting Family Head of the Sichuan Tang Clan |
+| 만독수라 | **Myriad-Poison Asura** | Epithet of Tang Sadok |
+| 당사독 | **Tang Sadok** | Poison King and Family Head of the Sichuan Tang Clan |
+| 경천신니 | **Heaven-Shaking Divine Nun** | Murder victim named alongside Tang Sadok |
+| 삼문혈사 | **Three-Sect Bloodbath** | Recent attack on three major orthodox sects |
+| 삼괴 | **Samgoe** | Principal culprit being escorted to Henan |
+| 구파일방 | **Nine Sects and One Gang** | Major orthodox organizations |
+| 오대세가 | **Five Great Families** | Major orthodox families |
+| 소림혈사 | **Shaolin Bloodbath** | Earlier attack that galvanized orthodox Murim |
+| 서천마군 | **Western Heaven Demon Lord** | Major obstacle recently overcome by Taekyung |
+| 만독지환 | **Myriad Poison Ring** | Item Taekyung considers taking before departure |
+| 미미 | **Mimi** | Tang Sadok's snake and longtime companion; temporarily entrusted to Cheongpung. |
+| 동봉 | **Dongbong** | Name or designation associated with the Divine Physician. |
+| 신의 | **Divine Physician** | Honorific for the physician treating Tang Sadok. |
+| 백염 | **White Flame** | Previously bound item listed by the System. |
+| 사죄와 용서 | **Atonement and Forgiveness** | Hidden Quest completed by Taekyung. |
+| 당문의 은인 | **Benefactor of the Tang Clan** | Title acquired by Taekyung. |
+| 아미파 | **Emei Sect** | Orthodox sect whose nuns conduct the funeral rites. |
+| 청성파 | **Qingcheng Sect** | Orthodox sect represented among the assisting martial artists. |
+| 개방 | **Beggars' Sect** | Organization represented by the attending beggars. |
+| 묘령사태 | **Satae Myo Ryeong** | Middle-aged Emei nun overseeing the funeral prayers. |
+| 명진 | **Myeongjin** | Daoist assisting with the funeral rites. |
+| 궁기방 | **Gung Gibang** | Young beggar and Future Beggar Chief. |
+| 후개 | **Future Beggar Chief** | Title used for Gung Gibang. |
+| 기련삼괴 | **Qilian Samgoe** | The trio of monsters that includes Samgoe and Ilgoe. |
+| 일괴 | **Ilgoe** | The strongest of the Qilian Samgoe, defeated single-handedly by Jin Taekyung. |
+| 칠선자 | **Chilseonja** | Mysterious martial artist who blocked Samgoe's attack and saved Hyuk Mujin. |
+| 문경 | **Mungyeong** | Young Disciple of the Divine Physician overseeing Jin Taekyung's care. |
+| 화산신룡 | **Huashan Divine Dragon** | Epithet used for Jin Taekyung. |
+| 열화신룡 | **Blazing Fire Divine Dragon** | New epithet acquired by Jin Taekyung. |
+
+## Existing address-pair ledger
+
+# Established Address Pairs
+
+Exceptional speaker → addressee forms established in accepted chapters.
+Injected only when both endpoints are present in the current chapter: the
+Korean appears in the source, or belongs to a matched compact profile.
+Overrides generic relationship prose in character profiles for this pair.
+
+| Speaker | Addressee | Kinship | Normal address | Speech level | Notes |
+| ------- | --------- | ------- | -------------- | ------------ | ----- |
+| 진태경 | 진무경 | younger_to_older_brother | hyung | casual-but-junior | Retain hyung for 형 in Taekyung's greeting; Mukyung then punishes the casual speech. |
+| 진무경 | 진태경 | older_to_younger_brother | youngest | blunt-senior | 막내 / youngest; may taunt that lasting a quarter-hour would make Taekyung the older brother. |
+| 진태경 | 진위경 | younger_to_eldest_brother | brother | familiar-but-respectful | Self-corrects from the personal name to kinship: “Jin Wikyung—I mean, my brother?”; 큰형 is eldest brother. |
+| 진위경 | 진태경 | eldest_to_youngest_brother | youngest | affectionate-protective | Uses youngest-brother address; openly affectionate beneath a public mask. |
+| 진태경 | 성진호 | junior_to_older_friend | Jinho hyung | casual-but-junior | Retain hyung for 형; Jinho is three years older. |
+| 성진호 | 진태경 | older_friend | informal / younger-brother | teasing-senior | Speaks informally while demanding respect as the older friend. |
+| 진태경 | 임꺽정 | junior_friend | Kkeokjeong hyung | casual-but-junior | After Im asks to be called hyung. |
+| 임꺽정 | 진태경 | older_friend | hyung | hearty-casual | “Call me hyung. We’re not even that far apart in age.” |
+| 위팽 | 진위경 | retainer_to_lord | my lord | deferential | 주공; Wipeng is Jin Wikyung’s personal guard. |
+| 소천 | 진태경 | rescued_survivor_to_benefactor | Benefactor | deferential | Socheon repeatedly addresses Taekyung as 은인. |
+| 혁무진 | 궁기방 | orthodox_ally_to_orthodox_ally | Young Hero Gung | blunt-but-formal | Uses 궁 소협 while teasing Gung Gibang about his injuries. |
+| 혁무진 | 청풍 | junior_ally_to_younger_ally | Young Hero Cheong | formal-but-bewildered | Uses 청 소협 when reacting to Cheongpung's warning. |
+| 혁무진 | 진태경 | subordinate_to_squad_leader | Squad Leader | deferential | Calls Taekyung 조장님 when announcing his awakening. |
+| 궁기방 | 진태경 | squadmate_to_squad_leader | Jin Taekyung | familiar-but-direct | Calls Taekyung by name when he wakes. |
+
+## Exact glossary matches
+
+| 무림     | **Murim**          |
+| 진태경    | **Jin Taekyung**   |
+| 혁무진    | **Hyuk Mujin**     |
+| 적천강    | **Jeok Cheongang** |
+| 청풍     | **Cheongpung**     |
+| 검성     | **Sword Saint**               | Mae Jonghak    |
+| 살성     | **Slaughter Saint**           | —              |
+| 암천     | **Dark Heaven**                  |
+| 제갈세가   | **Zhuge Clan**                   |
+| 절정     | **Peak**          |
+| 초절정    | **Supreme Peak**  |
+| 고수     | **master**                                       | Strong/skilled martial artist                         |
+| 신법     | **movement technique**                           |                                                       |
+| 전음     | **Sound Transmission**                           | Fixed skill terminology; preserve the internal-energy mechanism when the source explains it, but do not add an explanation where it does not |
+| 가주     | **Family Head**                              |
+| 장문인    | **Sect Leader**                              |
+| 전각     | **pavilion**                                 | Use “hall” only when established for a specific named building |
+| 스킬               | **Skill**                      |
+| 명성               | **Fame**                       |
+| 산서     | **Shanxi**             |
+| 하남     | **Henan**              |
+| 사천     | **Sichuan**            |
+| 화산     | **Huashan**            |
+| 구화산    | **Mount Jiuhua**       |
+| 노부      | **this old man / I**                                            |
+| 본문      | **our sect / this sect**                                        |
+| 대협      | **Great Hero** or **Sir** depending tone                        |
+| 소협      | **Young Hero**                                                  |
+| 공자      | **Young Master**                                                |
+| 도사      | **Daoist**                                                      |
+| 궁기방 | **Gung Gibang** | Young beggar and Future Beggar Chief. |
+| 문경 | **Mungyeong** | Young Disciple of the Divine Physician overseeing Jin Taekyung's care. |
+| 사천당문 | **Sichuan Tang Clan** | The Tang family and clan of Sichuan |
+| 당사독 | **Tang Sadok** | Poison King and Family Head of the Sichuan Tang Clan |
+| 경천신니 | **Heaven-Shaking Divine Nun** | Murder victim named alongside Tang Sadok |
+| 삼괴 | **Samgoe** | Principal culprit being escorted to Henan |
+| 구파일방 | **Nine Sects and One Gang** | Major orthodox organizations |
+| 서천마군 | **Western Heaven Demon Lord** | Major obstacle recently overcome by Taekyung |
+| 미미 | **Mimi** | Tang Sadok's snake and longtime companion; temporarily entrusted to Cheongpung. |
+| 신의 | **Divine Physician** | Honorific for the physician treating Tang Sadok. |
+| 아미파 | **Emei Sect** | Orthodox sect whose nuns conduct the funeral rites. |
+| 청성파 | **Qingcheng Sect** | Orthodox sect represented among the assisting martial artists. |
+| 열화신룡 | **Blazing Fire Divine Dragon** | New epithet acquired by Jin Taekyung. |
+
+## Listed compact profiles
+
+### Gung Gibang.md
+
+# Gung Gibang (궁기방)
+
+- **Safe through:** Chapter 370
+- **Aliases:** Future Beggar Chief
+- **Role:** Young beggar and Future Beggar Chief; ally and squadmate of Jin Taekyung
+- **Personality:** Sardonic, competitive, pragmatic, and willing to trade vicious banter with Hyuk Mujin
+- **Voice:** Weary, blunt, informal, and sarcastic
+- **Relationships:** Ally and squadmate of Jin Taekyung; frequent bickering companion of Hyuk Mujin
+
+### Hyuk Mujin.md
+
+# Hyuk Mujin (혁무진)
+
+- **Safe through:** Chapter 370
+- **Aliases:** None revealed
+- **Role:** Captain of the Gatekeepers at the Jin Family of Taiyuan; deputy squad leader of White Tiger Hall’s reconnaissance squad
+- **Personality:** Young, disciplined, suspicious of Jin Taekyung, and openly contemptuous of the family’s disgraced third son; believes loyalty and respectable conduct matter, but is also proud and hungry for glory
+- **Voice:** Formal and clipped when performing his duties; blunt and moralizing when addressing Taekyung
+- **Relationships:** Gatekeeper under the Jin Family; deputy subordinate to Jin Taekyung in the reconnaissance squad
+
+### Jin Taekyung.md
+
+# Jin Taekyung (진태경)
+
+- **Safe through:** Chapter 370
+- **Aliases:** Sleeping Dragon of Shanxi; Huashan Divine Dragon; Blazing Fire Divine Dragon
+- **Role:** Modern-world protagonist; recently fired after seven years at his job; F-rank Hunter; Supreme Peak martial artist; youngest son of the Jin Family of Taiyuan
+- **Personality:** Hungry, self-aware, dryly observant, and willing to take a questionable opportunity when desperate; treats the impossible as a game until the danger becomes undeniable
+- **Voice:** First-person, conversational, dryly self-mocking; uses vivid trap-and-prey imagery, game jargon, and occasional profanity
+- **Relationships:** Son of a deceased father; supports his mother and younger sibling
+
+### Mungyeong.md
+
+# Mungyeong (문경)
+
+- **Safe through:** Chapter 370
+- **Aliases:** None
+- **Role:** Young Disciple of the Divine Physician overseeing Jin Taekyung's care
+- **Personality:** Regarded as unusually skilled for his age; other traits are not established in this chapter
+- **Voice:** Not established in this chapter
+- **Relationships:** Disciple of the Divine Physician and physician responsible for Taekyung's recovery
+
+## Korean source
+
+```text
+＃371화
+
+
+
+“열화신룡(烈火神龍) 진태경 대협을 뵙습니다!”
+
+경외를 담은 외침이 사천당문의 경내에 울려 퍼진 그 순간, 전율을 느낀 것은 진태경 한 사람뿐만이 아니었다.
+
+멀리서 모든 광경을 지켜보던 늙은 스승은 벅차오르는 감정을 숨기기 위해 안간힘을 써야 했다.
+
+‘녀석…….’
+
+적천강은 진태경을 처음 만난 날을 또렷이 기억하고 있었다.
+
+변방 무가의 삼공자. 이제 갓 산서 땅에서 이름을 알리기 시작했던 어린 청년은 잠룡이 되었고, 마침내 날개를 활짝 펴고 푸른 하늘로 비상하고 있었다.
+
+‘그래, 네 녀석이야말로 신룡(神龍)이요, 대협(大俠)이다.’
+
+눈이 마주치자 씩 웃는 진태경의 얼굴이 보인다. 창밖으로 상반신을 내민 그가 두 손을 미친 듯이 휘저었다.
+
+“내 이름이 뭐라고?”
+
+“진태경!”
+
+“별호는 뭐라고!”
+
+“열화신룡!”
+
+“더 크게 소리 질러-!”
+
+“와아아아아!”
+
+엄숙하던 장내가 한 번에 뒤집어지며 광란의 도가니로 변하는 광경에, 적천강은 참았던 웃음을 터트렸다.
+
+“으하, 으하하하!”
+
+시원한 웃음소리와 함성이 뒤섞인다. 바람은 시원했고 하늘은 맑았다.
+
+바야흐로 난세(亂世)의 시작이었으나, 새로운 영웅이 태동하던 그 날은 따스한 봄이었다.
+
+
+
+* * *
+
+
+
+적천강이 나타난 것은 광란의 도가니가 가라앉은 직후였다.
+
+“좁쌀만 한 방에 많이도 모여 있구나.”
+
+“어? 하나도 안 좁은데요?”
+
+“적 대협, 저쪽에 빈자리가 있습니다.”
+
+눈치라고는 죽었다가 깨어나도 없는 청풍이나 혁무진과는 달리, 뼛속까지 성골 거지인 궁기방은 즉각 움직였다.
+
+“어이구, 그러고 보니까 좁아서 미어터질 것 같네요. 저는 나가 있겠습니다.”
+
+청풍과 혁무진이 손을 흔들어 주었다.
+
+“잘 가요, 궁 소협.”
+
+“저 양반 드디어 가네. 조장, 아까부터 어디서 똥개 궁둥이 냄새 나지 않았습니까?”
+
+나는 조심스럽게 고개를 끄덕였다.
+
+“어, 조금 심하게 나긴 하더라…….”
+
+“개소리 그만하고 둘 다 나와!”
+
+“아니, 진짜 났다니까…….”
+
+“알겠어요. 그렇게 화내지 마세요, 궁 소협.”
+
+벌컥 성을 내는 궁기방의 모습에 청풍이 시무룩한 얼굴로 고개를 숙였다.
+
+“미미. 회오리 치기 하면서 인사.”
+
+취릭. 취리리릭!
+
+“……뭐여, 시벌.”
+
+그사이 스킬이 늘었네. 화려한 퍼포먼스를 보여 준 청풍이 마지막으로 방을 나서자 적천강이 입을 열었다.
+
+“천둥벌거숭이 같으니. 아주 한바탕 난리를 치더구나.”
+
+굳은 얼굴과 착 가라앉은 목소리. 참 여전하다. 평소의 적천강 같아서 왠지 웃음이 나왔다.
+
+“웃어?”
+
+“그럼 웃지, 웁니까?”
+
+“허, 이놈 보게나. 사람들 앞에서 추태를 부려 본문의 명성에 먹칠을 해 놓고도 그런 말이 나오느냐?”
+
+“그렇게 생각하신 것치고는 엄청 크게 웃으시던데.”
+
+“……!”
+
+“다 봤어요.”
+
+애써 유지하던 굳은 표정이 와르르 무너졌다. 적천강의 고개가 슬그머니 창밖을 향해 돌아갔다.
+
+“크흠. 보긴 뭘 봤단 말이더냐.”
+
+“저 말고도 오십 명쯤은 봤을걸요. 입꼬리에서 피 나시는 줄.”
+
+거의 차이나 조커 수준이었지.
+
+도무지 빠져나올 틈을 주지 않는 내 확인 사살에, 한참이나 머뭇거리며 말을 잇지 못하던 적천강이 한마디를 툭 내뱉었다.
+
+“……했다.”
+
+“예?”
+
+“아, 잘했다고!”
+
+벌겋게 달아오른 얼굴로 외친 적천강이 작게 툴툴거린다.
+
+그 모습에 내 입가에 맺힌 웃음이 더욱 짙어졌다. 그래, 그 한마디면 충분하다.
+
+“감사합니다. 전부 노야 덕분이에요.”
+
+“…….”
+
+뭐지? 어째 표정이 심상치 않다.
+
+섭섭함마저 느껴지는 눈빛에 황당해진 내가 물었다.
+
+“이번엔 또 왜요?”
+
+“아니다. 아무것도.”
+
+“그런 것치곤 표정이 어째 좀…….”
+
+“아니라니까!”
+
+“아니, 왜 소리를 지르고 그러세요? 오랜만에 분위기 훈훈하고 좋았는데.”
+
+“거, 아니라면 아닌 줄 알 것이지. 네 녀석이 자꾸 꼬치꼬치 캐물으니까 이러는 것 아니냐!”
+
+“어어, 점점?”
+
+이 양반 갑자기 왜 이래. 내가 무슨 실수라도 했나?
+
+어리둥절해서 고개를 갸웃거리던 그때였다.
+
+스슥.
+
+계단을 올라오는 두 개의 인기척.
+
+벽을 넘어서며 한층 더 예민해진 감각이 아니었다면 쉽게 알아차리지 못했을 만큼, 그들의 걸음은 가볍고 표횰했다.
+
+‘둘 다 엄청난 고수들이다.’
+
+갑자기 초절정의 고수가 둘씩이나?
+
+최근 들어 많은 위기를 겪은 탓에 이제는 몸이 저절로 움직였다.
+
+그런데 적천강이 주먹을 말아쥐는 나를 눈짓으로 만류하더니 손을 내저었다. 한 줄기의 열풍이 닫혀 있던 문을 부드럽게 열어젖혔다.
+
+“다들 성질도 급하군. 일각도 못 기다리고 우르르 몰려와?”
+
+적천강의 불퉁한 목소리에 늙은 여승과 도사가 차례대로 대답했다.
+
+“성질이 급하다니. 시주에게 들으니 기분이 참 묘해지는구려.”
+
+“후배가 결례를 저질렀습니다. 다만 사안이 사안인지라.”
+
+쪼글쪼글한 주름이 가득한 늙은 여승은 초면이었지만, 도사가 누군지는 금방 알아볼 수 있었다.
+
+나는 노고사를 향해 포권을 취했다.
+
+“안녕하십니까. 진인(眞人).”
+
+“다시 보니 반갑네. 진 도우.”
+
+노도사의 정체는 일전에 신의를 찾기 위해 도움을 청하러 간 청성파의 장문인인 청풍고검(淸風高劍)이었다.
+
+‘그럼 이 여승이 아미파의 장문인일 텐데…… 누구지?’
+
+나도 이제 무림 짬밥이 좀 되다 보니 유명한 고수에 관한 것들은 어느 정도 알고 있는데, 남의 문파 사정까지 속속들이 꿰고 있을 정도는 아니었다.
+
+경천신니의 죽음 이후 새로 취임한 장문인의 경우에는 더더욱.
+
+내 생각을 읽은 듯, 적천강이 넌지시 전음을 보냈다.
+
+- 그 할망구는 아미파의 멸절신니(滅絶神尼)다. 보기에는 인자해 보여도 한 번 눈이 뒤집히면 나찰이 따로 없으니 언행에 특별히 신경 써라. 특히 나이에 관해서는 입도 벙긋하지 말고.
+
+나도 조심스럽게 전음으로 응수했다.
+
+- 춘추가 어떻게 되시길래.
+
+- 노부보다 많다. 경천신니의 사고이기도 하지.
+
+- 아.
+
+적천강의 정확한 나이는 모르지만, 백 세를 넘겼다는 것만은 안다. 거기에 더해 별호에서 느껴지는 포스까지.
+
+나는 보쌈집 회장님 같아 보이는 왕 할머니에게 넙죽 허리를 숙였다.
+
+“안녕하십니까! 진태경이라고 합니다!”
+
+“반갑네, 진 시주.”
+
+묘한 눈빛으로 나를 응시하던 멸절신니가 고개를 끄덕였다.
+
+“소문대로군. 아니, 그 이상이야.”
+
+청풍고검이 희미하게 웃으며 말을 받았다.
+
+“실로 놀랍지 않습니까.”
+
+“장강후랑추전랑(長江後浪推前浪). 장강의 뒷물결이 이 늙은이들까지 밀어내려 하는구려. 이토록 어린 나이에 벽을 넘어서다니…….”
+
+“그뿐만이 아닙니다, 신니. 청풍이라는 젊은이도 있지요.”
+
+“아, 그 검성의 후인이라는?”
+
+“예. 빈도가 부족한 탓에 우열을 가릴 수는 없겠으나, 두 젊은이 모두 하늘이 내린 인물들이 확실합니다. 무림의 큰 흥복이지요.”
+
+“호오…….”
+
+피곤함이 묻어나던 두 사람의 얼굴 위로 흥미와 놀라움이 스친다.
+
+어쩐지 민망해져서 눈동자만 굴리고 있던 그때, 적천강이 내 앞을 슥 가로막았다.
+
+그래 봤자 키 차이가 워낙 나서 달라질 것도 없었지만.
+
+“애 얼굴 닳겠소. 할 말이나 후딱 하고 가.”
+
+퉁명스러운 말에 머쓱해진 두 장문인이 본론을 꺼내 들었다.
+
+“문제가 생겼네. 두 사람 모두 잠시 동행해 줄 수 있겠나?”
+
+“오래 걸리지 않을 겁니다. 약속드리지요.”
+
+“동행? 지금 당장?”
+
+탐탁지 않은 목소리로 되물은 적천강이 돌아서며 내게 물었다.
+
+“어찌하겠느냐?”
+
+“…….”
+
+구파일방의 두 장문인이 부탁하는데 나보고 뭘 어쩌라고.
+
+“가겠습니다.”
+
+어차피 몸도 가뿐하겠다, 동행하면서 지금까지의 전후 사정을 들을 수 있을 테니 딱히 거절할 이유가 없었다.
+
+내 흔쾌한 대답에 두 장문인이 앞장서서 걸음을 떼는데, 적천강이 불쑥 입을 열었다.
+
+“그런데, 한 놈은 왜 안 보여?”
+
+“아래에서 기다리고 있다네.”
+
+“다른 사람들 눈에 띄기 싫다 하시더군요.”
+
+한 놈? 이 멤버에 낄 정도면 당문의 가주인 당사독인가?
+
+‘뭐, 누구건 곧 보게 되겠지.’
+
+하지만 내 궁금증은 전각을 나서자마자 마주친 한 사람에 의해 씻은 듯이 사라졌다.
+
+낯익은 얼굴을 보자 절로 반가움이 담긴 외침이 터져 나왔다.
+
+“야, 인마! 문경!”
+
+문경은 사천당문을 떠나기 전의 모습 그대로였다.
+
+안 그래도 녀석이 떠난 지 얼마 되지 않아 암천이 쳐들어온 탓에 걱정이 들었는데, 길이 엇갈렸는지 용케도 다치지 않았다.
+
+“언제부터 와 있었어? 이 자식 이거, 못 본 사이에 키가 더 커진 것 같네. 요즘 성장기냐?”
+
+“…….”
+
+“왜 이렇게 말이 없어. 기분 안 좋아? 혹시…….”
+
+문경의 머리를 쓱쓱 헤집던 나는 숨죽여 속삭였다.
+
+“아침에 몽정했냐?”
+
+“……!”
+
+“했네. 했어.”
+
+짜식, 부끄러워서 아무 말도 안 하는 것 봐라.
+
+나는 흐뭇하게 웃었다.
+
+원래 저 나이대에는 종종 있는 일이다. 이참에 이 케케묵은 무림에 올바른 성 지식을 전파하는 것도 좋겠지.
+
+“이 형님이 신세계를 알려 주마. 앞으로 진성애 선생님이라고 불러라.”
+
+구성애 선생님. 보고 계십니까. 당신의 지식이 시공을 넘어 전해지고 있습니다.
+
+뿌듯한 감정을 느끼며 문경의 어깨를 탁탁 두드리던 그 순간이었다.
+
+“어…….”
+
+“그…….”
+
+“허어…… 저걸 말 안 해 줬네.”
+
+말 안 해 주다니. 뭘?
+
+등 뒤에서 들려오는 세 사람의 장탄식. 동시에 문경의 입술 사이로 무미건조한 음성이 흘러나왔다.
+
+“손. 치워라.”
+
+“……어?”
+
+“그리고 몽정은 오래전에 끝났다.”
+
+“그건 좀 문제가 있는데, 왜냐하면 네가 아직 이차 성징이 완전히 안 끝났……이 아니라.”
+
+나는 침을 꼴깍 삼켰다.
+
+문득, 어떤 무서운 상상이 뇌리를 스쳤기 때문이었다.
+
+“누구……세요?”
+
+엄마, 나 무서워.
+
+
+
+* * *
+
+
+
+“……해서, 이렇게 된 걸세.”
+
+“참으로 해괴한 일이지.”
+
+엄청난 속도로 신법을 발휘하는 와중에도 두 장문인의 목소리는 흔들리지 않았다.
+
+대답을 요구하는 눈빛에, 나는 힘겹게 입술을 뗐다.
+
+“아, 예. 그래서 지금 가는 곳에 그 뭐냐. 요상한 진법이 있다는 거죠?”
+
+“삼괴(三怪)를 붙잡아 심문한 바에 의하면 그렇다네. 한데 그 진법이라는 것이 워낙 기이해서 말이지.”
+
+적천강이 퉁명스러운 목소리로 대꾸했다.
+
+“노부나 이놈이나, 진법에는 영 젬병이라 봐 봤자 몰라.”
+
+동감이다. 구화산의 열화동은 대단한 기문진식이 설치되어 있지만, 그렇다고 해서 우리가 능통한 것은 아니니까.
+
+‘차라리 제갈세가 같은 곳을 불러야지.’
+
+하지만 제갈세가가 오려면 상당한 시일이 소요될 것이다.
+
+왜인진 몰라도 두 장문인은 우리에게 상당한 기대를 하고 있는 모양이었다. 그중에서도 특히 내게.
+
+“진 도우. 그자에게서 더 이상한 점을 느끼지 못했나? 어떤 언행이라든지.”
+
+“말씀드린 게 전붑니다. 그리고 제가 느끼기에…… 거기서 더 이상해질 것도 없어요.”
+
+암천은 존재 자체가 이상한 놈들이다. 천주라는 존재를 거의, 아니 그냥 신으로 떠받드는 광신도들.
+
+혈주나 서천마군이 보여 준 힘과 기이한 능력들 역시 마찬가지다.
+
+‘인간 트롤마냥 재생하지를 않나, 팔에 양면테이프라도 붙였는지 뗐다 붙이고. 마지막에는 빙의까지 했지.’
+
+생각할수록 기적이다. 그런 놈들을 상대로 싸워서 이겼다는 게.
+
+“으음. 우선 자네가 깨어나기 전 적 시주에게 대략적인 상황은 모두 들었네. 하남으로 보낸 전서응이 답신을 갖고 돌아오면 방향이 잡히겠지.”
+
+“혹시 모르니 진법을 보고 이상한 점이 있다면 알려 주게.”
+
+“예.”
+
+나는 대답하면서 힐끔 저 멀리 앞서나가는 신형을 바라보았다.
+
+문경, 아니 살성(殺聖)이라는 별호를 가진 그를.
+
+‘시벌, 살성이 여기서 왜 나와.’
+
+솔직히 말해서 오줌 쌀 뻔했다.
+
+삼도천 계곡에서 반나절쯤 물놀이 하다가 고기까지 구워 먹고 와도 이 정도는 아닐 거다.
+
+‘문경이 살성이었다니. 내가 살성한테 몽정했냐고 물어봤다니!’
+
+구성애 선생님. 선생님 때문에 뒤질 뻔했습니다.
+
+남몰래 안도의 한숨을 내쉬던 바로 그때, 울창하던 주위의 풀숲이 사라지고 높이 솟은 절벽이 보이기 시작했다.
+```
+
+## Final English reading copy
+
+```markdown
+# Chapter 371
+
+“We pay our respects to Great Hero Jin Taekyung, the Blazing Fire Divine Dragon!”
+
+At the moment that cry, filled with awe, rang throughout the grounds of the Sichuan Tang Clan, Jin Taekyung was not the only one who felt a shiver.
+
+The old master watching everything from far away had to struggle with all his might to hide the emotions welling up inside him.
+
+*You rascal…*
+
+Jeok Cheongang remembered the day he had first met Jin Taekyung as clearly as yesterday.
+
+The Third Young Master of a frontier martial family. The young man who had only just begun making a name for himself in Shanxi had become a hidden dragon, and at last he was spreading his wings wide and soaring into the blue sky.
+
+*Yes. You are the Divine Dragon and the Great Hero.*
+
+Their eyes met, and Jeok Cheongang saw Jin Taekyung grinning at him. Leaning his upper body out through the window, he waved both hands like a madman.
+
+“What’s my name?”
+
+“Jin Taekyung!”
+
+“What’s my epithet?”
+
+“Blazing Fire Divine Dragon!”
+
+“Shout it louder—!”
+
+“Waaaaaaah!”
+
+The solemn courtyard was overturned in an instant, transforming into a cauldron of madness. Jeok Cheongang finally let out the laughter he had been holding back.
+
+“Ha! Hahaha!”
+
+His hearty laughter mingled with the cheers. The breeze was cool, and the sky was clear.
+
+It was the beginning of an age of chaos, but the day a new hero began to emerge was warm with spring.
+
+
+
+* * *
+
+
+
+Jeok Cheongang appeared just after the cauldron of madness had settled down.
+
+“So many millet grains gathered in a room this small.”
+
+“Huh? It isn’t cramped at all.”
+
+“Great Hero Jeok, there’s an empty seat over there.”
+
+Unlike Cheongpung and Hyuk Mujin, who wouldn’t know how to read the room even if they died and came back to life, Gung Gibang—a blue-blooded beggar to the bone—moved at once.
+
+“Oh, now that you mention it, it is so cramped that we’re about to burst. I’ll step outside.”
+
+Cheongpung and Hyuk Mujin waved him off.
+
+“Goodbye, Young Hero Gung.”
+
+“That guy’s finally leaving. Squad Leader, haven’t you smelled a stray dog’s ass around here since earlier?”
+
+I cautiously nodded.
+
+“Yeah, it did smell pretty bad…”
+
+“Stop talking shit and both of you get out!”
+
+“No, I’m telling you, it really did smell…”
+
+“All right. Don’t get so angry, Young Hero Gung.”
+
+At Gung Gibang’s sudden outburst, Cheongpung lowered his head with a sullen expression.
+
+“Mimi. Say hello while doing a whirlwind spin.”
+
+Sssrik. Sssrrrikkk!
+
+“…What the fuck?”
+
+His Skill repertoire had grown while I wasn’t looking.
+
+After Cheongpung finally left the room following that flashy performance, Jeok Cheongang spoke.
+
+“You reckless brat. You really caused quite a scene.”
+
+His face was stern, and his voice had sunk low. Just like always. He seemed so much like his usual self that I felt like laughing.
+
+“You’re laughing?”
+
+“Why wouldn’t I laugh? Should I cry?”
+
+“Look at this rascal. You made a spectacle of yourself in front of all those people and tarnished our sect’s reputation, yet you still have the nerve to say that?”
+
+“You were laughing awfully loudly for someone who thought that.”
+
+“……!”
+
+“I saw everything.”
+
+The stern expression he had desperately maintained collapsed all at once. Jeok Cheongang’s head slowly turned toward the window.
+
+“Ahem. What do you mean, you saw something?”
+
+“About fifty people besides me probably saw it too. I thought your mouth was bleeding from how far the corners of it had risen.”
+
+You looked practically like the China Joker.
+
+My confirmation kill left him no room to escape. Jeok Cheongang hesitated for a long while before finally tossing out a single word.
+
+“…You did well.”
+
+“Pardon?”
+
+“Ah, I said you did well!”
+
+Jeok Cheongang shouted with a face flushed bright red, then grumbled under his breath.
+
+The smile around my lips deepened. Yes, those few words were enough.
+
+“Thank you. It was all thanks to you, Old Man.”
+
+“……”
+
+What was this? His expression seemed rather strange.
+
+His eyes even looked hurt. Dumbfounded, I asked,
+
+“What is it this time?”
+
+“It’s nothing. Nothing at all.”
+
+“For something that’s nothing, your expression looks a little…”
+
+“I said it’s nothing!”
+
+“Why are you shouting? It was nice having such a warm, friendly atmosphere for once.”
+
+“If I say it’s nothing, then take it as nothing. You’re the one making me act this way by interrogating me over every little thing!”
+
+“Whoa. It’s getting worse.”
+
+What was wrong with him all of a sudden? Had I made some kind of mistake?
+
+It was just then, while I was tilting my head in confusion, that I sensed it.
+
+Swish.
+
+Two presences were coming up the stairs.
+
+Their footsteps were so light and elusive that I would never have noticed them if my senses had not become even keener after crossing the wall.
+
+*They’re both incredible masters.*
+
+Two Supreme Peak masters all of a sudden?
+
+After enduring so many dangers recently, my body now moved on its own.
+
+But just as I clenched my fists, Jeok Cheongang restrained me with a glance and waved his hand. A strand of scorching wind gently pushed open the closed door.
+
+“You’re all so impatient. Couldn’t you wait even a quarter of an hour before swarming over here?”
+
+In response to Jeok Cheongang’s gruff voice, an old nun and a Daoist answered in turn.
+
+“Impatient, you say? Hearing that from a benefactor gives me a rather strange feeling.”
+
+“This junior has been discourteous. However, given the matter at hand…”
+
+The old nun, whose face was covered in countless wrinkles, was a stranger to me. The identity of the Daoist, however, was easy enough to recognize.
+
+I raised my hands in a fist-and-palm salute toward the old Daoist.
+
+“Greetings, Perfected One.”
+
+“Good to see you again, Fellow Daoist Jin.”
+
+The old Daoist was the Sect Leader of the Qingcheng Sect, the Clear Wind Ancient Sword, whom I had once visited to ask for help finding the Divine Physician.
+
+*Then this nun must be the Sect Leader of the Emei Sect… but who is she?*
+
+I had been in the Murim long enough to know a fair amount about famous masters, but I was nowhere near familiar enough with every detail of other sects’ affairs.
+
+Especially not the identity of the Sect Leader who had taken office after the death of the Heaven-Shaking Divine Nun.
+
+As if he had read my thoughts, Jeok Cheongang sent me a quiet Sound Transmission.
+
+—That old hag is the Emei Sect’s Extinction Divine Nun. She looks kind enough, but once she sees red, there’s no difference between her and a rakshasa, so watch your words and actions carefully. And especially don’t say a word about her age.
+
+I cautiously replied through Sound Transmission.
+
+—How old is she, exactly?
+
+—Older than this old man. She was also the Heaven-Shaking Divine Nun’s martial aunt.
+
+—Ah.
+
+I did not know Jeok Cheongang’s exact age, but I knew he was over a hundred. And then there was the force suggested by her epithet.
+
+I bowed deeply to the ancient granny who looked like the chairwoman of a bossam restaurant.[^1]
+
+“Greetings! My name is Jin Taekyung!”
+
+“Good to meet you, Benefactor Jin.”
+
+The Extinction Divine Nun studied me with an odd look, then nodded.
+
+“Just as the rumors say. No—you’re even more impressive.”
+
+The Clear Wind Ancient Sword answered with a faint smile.
+
+“Isn’t it truly astonishing?”
+
+“The waves behind the Yangtze push the waves ahead. It seems the younger generation means to push even us old people aside. To cross the wall at such a young age…”
+
+“That is not all, Divine Nun. There is also a young man named Cheongpung.”
+
+“Ah, the one said to be the Sword Saint’s heir?”
+
+“Yes. This poor Daoist is too inadequate to judge which of them is superior, but both young men are unquestionably people blessed by Heaven. They are a great blessing to the Murim.”
+
+“Oh…”
+
+Interest and astonishment passed over the two leaders’ weary faces.
+
+I was rolling only my eyes, growing increasingly embarrassed, when Jeok Cheongang stepped in front of me.
+
+It did not make much difference, considering the enormous difference in our heights.
+
+“You’ll wear the boy’s face out. Say what you came to say and be off.”
+
+Embarrassed by his brusque words, the two Sect Leaders brought up the matter at hand.
+
+“A problem has arisen. Could you both accompany us for a while?”
+
+“It will not take long. I promise you.”
+
+“Accompany you? Right now?”
+
+Jeok Cheongang turned away with an unhappy expression and asked me,
+
+“What will you do?”
+
+“……”
+
+Two Sect Leaders of the Nine Sects and One Gang were asking me for a favor. What exactly did they expect me to do?
+
+“I’ll go.”
+
+I felt perfectly fine, and accompanying them would let me hear what had happened, so I had no particular reason to refuse.
+
+The two Sect Leaders readily turned and began walking ahead. Then Jeok Cheongang suddenly spoke.
+
+“But why can’t I see one of them?”
+
+“He is waiting downstairs.”
+
+“He said he did not want to attract the attention of the others.”
+
+*One of them? If someone important enough to join this group is here, could it be Tang Sadok, the Family Head of the Tang Clan?*
+
+*Well, whoever it is, I’ll be seeing him soon enough.*
+
+But my curiosity vanished without a trace the moment I stepped out of the pavilion and encountered one person.
+
+The familiar face drew a delighted shout from me.
+
+“Hey, you bastard! Mungyeong!”
+
+Mungyeong looked exactly as he had before leaving the Sichuan Tang Clan.
+
+Dark Heaven had invaded soon after he left, so I had been worried. By some stroke of luck, our paths must have missed each other, and he had not been hurt.
+
+“When did you get here? Damn, you look even taller than before. Are you going through a growth spurt?”
+
+“……”
+
+“Why are you so quiet? In a bad mood? Or maybe…”
+
+I mussed Mungyeong’s hair, then whispered,
+
+“Did you have a wet dream this morning?”
+
+“……!”
+
+“You did. You definitely did.”
+
+Look at the brat, staying silent because he was embarrassed.
+
+I smiled in satisfaction.
+
+It was something that happened from time to time at that age. Maybe I should use this opportunity to spread proper sex education through this stale old Murim.
+
+“This hyung of yours will show you a whole new world. From now on, call me Teacher Jin Seong-ae.”
+
+Teacher Gu Seong-ae, are you watching? Your knowledge is crossing space and time.
+
+I was patting Mungyeong’s shoulder with a swell of pride when it happened.
+
+“Uh…”
+
+“The…”
+
+“Good grief… We forgot to tell him that.”
+
+Forgot to tell me what?
+
+Three long sighs came from behind me. At the same time, a dry voice slipped between Mungyeong’s lips.
+
+“Take your hand off.”
+
+“…Huh?”
+
+“And the wet dreams ended a long time ago.”
+
+“That’s a little concerning, because you still haven’t completely finished your secondary sexual development—no, that’s not what I mean.”
+
+I swallowed hard.
+
+A horrifying thought suddenly flashed through my mind.
+
+“Who… are you?”
+
+*Mom, I’m scared.*
+
+
+
+* * *
+
+
+
+“…and that is how things came to be.”
+
+“A truly bizarre affair.”
+
+Even while using their movement techniques at tremendous speed, the voices of the two Sect Leaders did not waver.
+
+When they looked at me as though demanding an answer, I managed to part my lips.
+
+“Ah, yes. So the place we’re heading to has some kind of strange formation, right?”
+
+“According to what we learned by capturing and interrogating Samgoe, that is the case. But the formation itself is so strange…”
+
+Jeok Cheongang answered in a gruff voice.
+
+“This old man and this brat are both hopeless with formations. Even if we look at it, we won’t know anything.”
+
+I agreed. Mount Jiuhua’s Blazing Fire Cave had an impressive arcane formation installed, but that did not mean we were experts in such things.
+
+*We should call in someone like the Zhuge Clan instead.*
+
+But it would take a considerable amount of time for the Zhuge Clan to arrive.
+
+For some reason, the two Sect Leaders seemed to be placing considerable expectations on us. Especially on me.
+
+“Fellow Daoist Jin. Did you notice anything stranger about that man? Something in his words or actions?”
+
+“That’s everything I told you. And from what I could tell… there wasn’t much room for him to get any stranger.”
+
+Dark Heaven’s people were weird by their very existence. They were fanatics who practically—or rather, simply—worshiped a being called the Heavenly Lord as a god.
+
+The powers and bizarre abilities displayed by the Blood Lord and the Western Heaven Demon Lord had been just as strange.
+
+*Regenerating like a human troll, detaching and reattaching an arm as if it had double-sided tape on it—and to top it all off, even possession.*
+
+The more I thought about it, the more miraculous it seemed. That we had fought those bastards and won.
+
+“Hm. Before you awoke, I heard a rough account of the situation from Benefactor Jeok. Once the message hawk we sent to Henan returns with a reply, we should know how to proceed.”
+
+“Just in case, if you notice anything strange when you examine the formation, let us know.”
+
+“Yes.”
+
+As I answered, I glanced at the figure far ahead of us.
+
+Mungyeong. No, the man known by the epithet Slaughter Saint.
+
+*Fuck. Why is the Slaughter Saint here?*
+
+Honestly, I nearly pissed myself.
+
+Even if I had spent half a day splashing around and grilling meat in the Valley of the Sanzu River,[^2] it would not have been this bad.
+
+*Mungyeong had been the Slaughter Saint. And I’d asked the Slaughter Saint if he’d had a wet dream!*
+
+Teacher Gu Seong-ae. I nearly fucking died because of you.
+
+Just as I secretly breathed a sigh of relief, the dense brush around us vanished, and towering cliffs began to come into view.
+
+[^1]: *Bossam* is boiled pork commonly served with napa cabbage or other greens for wrapping.
+
+[^2]: The Sanzu River is a Buddhist river said to separate the living world from the afterlife.
+```

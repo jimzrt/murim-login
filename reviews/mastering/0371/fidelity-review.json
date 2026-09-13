@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“…Did.”",
+      "defect": "The bare auxiliary does not communicate Jeok Cheongang’s grudging praise, whose meaning is made explicit immediately afterward by 잘했다고.",
+      "id": "F01",
+      "rationale": "The exchange hinges on Jeok Cheongang muttering that Jin did well, then repeating the same praise loudly when Jin does not catch it. English cannot preserve the Korean omitted subject as a standalone “Did” without obscuring that meaning.",
+      "replacement": "“…You did well.”",
+      "severity": "minor",
+      "source": "lines 109–115"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“The waves behind the Yangtze push the waves ahead. It seems the younger generation means to push even us old people aside. To cross the wall at such a young age…”",
+      "defect": "The second sentence replaces the source’s continued Yangtze-wave image with an abstract reference to the younger generation, losing the deliberate repetition and extension of the metaphor.",
+      "id": "F02",
+      "rationale": "After stating 長江後浪推前浪, the source explicitly repeats 장강의 뒷물결 and extends the same physical image to the old masters. The English should retain that repeated river-wave metaphor.",
+      "replacement": "“The waves behind the Yangtze push the waves ahead. Now the Yangtze’s new waves seem intent on pushing even us old people aside. To cross the wall at such a young age…”",
+      "severity": "minor",
+      "source": "line 213"
+    }
+  ],
+  "summary": "Faithful overall, with two minor defects: one obscured line of praise and one lost continuation of the Yangtze-wave metaphor.",
+  "version": 1
+}
