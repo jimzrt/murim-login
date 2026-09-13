@@ -1,0 +1,35 @@
+{
+  "summary": "Faithful overall, with three minor losses of source-specific detail.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean lines 103–105",
+      "current": "First, you can go around blabbing that the young physician named Mungyeong is actually the Slaughter Saint, then be found dead without anyone knowing.",
+      "defect": "The threat loses 변사체, which specifically presents him turning up as a corpse after an unnatural or mysterious death. The dangling “without anyone knowing” does not clearly preserve that no one would know how he died.",
+      "replacement": "First, you can go around blabbing that the young physician named Mungyeong is actually the Slaughter Saint, then turn up mysteriously dead.",
+      "rationale": "쥐도 새도 모르게 변사체로 발견되는 것 means being found mysteriously dead, with the circumstances of the death unknown.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Korean line 113",
+      "current": "I swallowed hard.",
+      "defect": "The explicit follow-up action of opening his mouth to answer is omitted.",
+      "replacement": "I swallowed hard and opened my mouth.",
+      "rationale": "입을 열었다 directly states that Jin Taekyung opened his mouth after swallowing.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Korean lines 251–253",
+      "current": "as if he had finally scrubbed off some grime.",
+      "defect": "“Finally” adds an overdue-completion implication absent from the source, while omitting the explicit recent timing.",
+      "replacement": "as if he had scrubbed off some grime recently.",
+      "rationale": "요새 means recently or lately; it does not mean finally.",
+      "confidence": 0.99
+    }
+  ]
+}

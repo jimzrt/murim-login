@@ -70,3 +70,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 진성애 | **Jin Seong-ae** | Jin Taekyung's joking title for himself as a sex-education teacher. |
 | 구성애 | **Gu Seong-ae** | Real-world sex-education teacher referenced in Jin Taekyung's joke. |
 | 삼도천 계곡 | **Valley of the Sanzu River** | Valley named after the Buddhist river separating the living world from the afterlife. |
+| 노군백 | **No Gunbaek** | Level 170 opponent named in a System defeat message. |
+| 귀염미 | **Gwiyeommi** | Pen name of a romance novelist. |

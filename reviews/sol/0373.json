@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“The kid looked depressed, so I took him out for some fresh air. Why are you such an idiot?”",
+      "defect": "The draft makes the beggar claim that he took Mungyeong out, reversing the omitted but contextually clear subject: Jin Taekyung was the one who went with Mungyeong.",
+      "id": "F01",
+      "rationale": "The speaker is answering Hyuk Mujin’s question about where the Captain went with Mungyeong, not describing his own actions.",
+      "replacement": "“The kid looked depressed, so Captain must’ve taken him out for some fresh air. Why are you such an idiot?”",
+      "severity": "critical",
+      "source": "“애가 울적해 보이니까 바람 좀 쐬게 해 준 거 아냐. 넌 왜 그렇게 멍청하냐?”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Or you borrowed my name and told the Future Beggar Chief to save the Emei Sect, while you went to the Qingcheng Sect and…",
+      "defect": "The Future Beggar Chief’s explicit affiliation with the Beggars’ Sect is omitted.",
+      "id": "F02",
+      "rationale": "개방의 identifies him specifically as the Future Beggar Chief of the Beggars’ Sect and is part of the source’s account of Mungyeong’s intervention.",
+      "replacement": "Or you borrowed my name and told the Future Beggar Chief of the Beggars’ Sect to save the Emei Sect, while you went to the Qingcheng Sect and…",
+      "severity": "major",
+      "source": "그것도 아니면 제 이름을 빌려 개방의 후개에게 아미파를 구원하라 시키고 본인은 청성파로 가서……."
+    },
+    {
+      "confidence": 1.0,
+      "current": "*Check unread messages.*",
+      "defect": "The draft omits the repeated notification sounds, the System windows filling the air, Taekyung recognizing this as a new record, and his decision to check the important messages first.",
+      "id": "F03",
+      "rationale": "These lines establish the exceptional quantity of notifications and the action that leads directly into the displayed System panel.",
+      "replacement": "*Check unread messages.*\n\n*Ding. Ding. Ding, ding!*\n\nChimes rang out without end as System windows filled the air. This had happened a few times before, but this was a new record.\n\nMomentarily speechless, I began checking the important messages one by one.",
+      "severity": "major",
+      "source": "띠링. 띠링. 띠링, 띠링!\n\n끊임없이 울려 퍼지는 종소리와 함께 허공을 가득 메우는 시스템 창. 예전에도 몇 번 있었던 일이긴 하지만 이 정도면 최고 기록 경신이다.\n\n순간 할 말을 잃은 나는 주요 메시지부터 하나씩 확인해 나갔다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "It was a feast of messages—no, countless requests for handshakes.",
+      "defect": "The self-correction is reversed. The source begins with the mistaken phrase about handshake requests, then corrects it to a feast of messages.",
+      "id": "F04",
+      "rationale": "Preserving the direction of the correction is necessary for the wordplay and leaves the sentence’s final description as 메시지의 향연.",
+      "replacement": "Countless requests for handshakes—no, a feast of messages.",
+      "severity": "major",
+      "source": "무수한 악수의 요청, 이 아니라 메시지의 향연."
+    },
+    {
+      "confidence": 0.97,
+      "current": "*The masked Slaughter Saint. Once he took off his mask, the panelists and the audience alike all ended up dead.*",
+      "defect": "The draft sanitizes the deliberately coarse 뒈지는 거다 and changes the general joke into a past-tense event.",
+      "id": "F05",
+      "rationale": "The source uses a blunt vulgar verb and frames the line as the lethal rule of a masked-show parody, not merely a summary of what previously happened.",
+      "replacement": "*The masked Slaughter Saint. Once the mask comes off, every last panelist and audience member fucking dies.*",
+      "severity": "major",
+      "source": "복면 살성. 가면을 벗으면 패널이고 방청객이고 싹 다 뒈지는 거다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Two leeches attached themselves to me after I returned to the hall.",
+      "defect": "The sequence is altered from the two men following Taekyung back, and 전각 should use the established term “pavilion,” not “hall.”",
+      "id": "F06",
+      "rationale": "따라붙었다 describes them latching onto his trail as he returned, while the terminology ledger binds 전각 to “pavilion” unless a specific hall name is established.",
+      "replacement": "Two leeches followed me back to the pavilion.",
+      "severity": "minor",
+      "source": "전각으로 돌아온 내 뒤로 거머리 두 마리가 따라붙었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“…”\n\n*Damn.*",
+      "defect": "The spoken reaction is split into dialogue and direct thought, and the initial exclamation 와 is omitted.",
+      "id": "F07",
+      "rationale": "Both 와 and the clipped curse 씨 are spoken aloud as one startled, profane reaction.",
+      "replacement": "“…Whoa, shit.”",
+      "severity": "minor",
+      "source": "“……와, 씨.”"
+    }
+  ],
+  "summary": "One critical subject reversal, two meaningful omissions, and several localized voice and terminology issues.",
+  "version": 1
+}
