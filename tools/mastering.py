@@ -4,8 +4,10 @@
 Pipeline per chapter:
   accepted baseline -> GPT-5.6 Sol full master edit -> paragraph diff
   -> DeepSeek adjudication -> assembled final -> deterministic QA
+  -> promote verified final into translations/
 
-The script never modifies translations/ unless `promote` is explicitly invoked.
+`run` always promotes after a successful verify. The standalone `promote`
+command remains for already-verified chapters that were not promoted yet.
 """
 from __future__ import annotations
 
@@ -959,9 +961,20 @@ def assemble_from_decisions(baseline: str, sol: str, adjudication: dict) -> str:
 
 
 def command_assemble(number: int) -> None:
+    try:
+        from tools.progress import step
+    except ModuleNotFoundError:
+        from progress import step
     state, p = create_or_verify_state(number)
     if not p["sol"].exists() or not p["adjudication"].exists():
         raise ValueError(f"chapter {number}: master and adjudication are required")
+    # Keep an existing final when later stages already recorded it. Force-reruns of
+    # master/adjudicate delete final via invalidate_downstream before this runs.
+    if p["final"].exists() and state.get("stage") in {
+        "ASSEMBLED", "VERIFIED", "PROMOTED", "QA_FAILED",
+    }:
+        step("assemble", "already exists")
+        return
     baseline = normalize_chapter(read_text(p["baseline"]))
     sol = normalize_chapter(read_text(p["sol"]))
     adjudication = json.loads(read_text(p["adjudication"]))
@@ -969,10 +982,6 @@ def command_assemble(number: int) -> None:
     validate_chapter(final, number, "final")
     atomic_text(p["final"], final)
     update_state(p, state, "ASSEMBLED", final_sha256=sha256_text(final))
-    try:
-        from tools.progress import step
-    except ModuleNotFoundError:
-        from progress import step
     step("assemble")
 
 
@@ -1120,12 +1129,23 @@ def apply_fidelity_repairs(
 
 
 def command_qa(number: int) -> None:
+    try:
+        from tools.progress import step
+    except ModuleNotFoundError:
+        from progress import step
     state, p = create_or_verify_state(number)
     if not p["final"].exists():
         raise ValueError(f"chapter {number}: assemble final first")
+    final = normalize_chapter(read_text(p["final"]))
+    if (
+        state.get("stage") in {"VERIFIED", "PROMOTED"}
+        and state.get("qa_passed")
+        and state.get("final_sha256") == sha256_text(final)
+    ):
+        step("verify", "already verified")
+        return
     source = read_text(p["source"])
     glossary = exact_glossary(source)
-    final = normalize_chapter(read_text(p["final"]))
     fidelity = {"findings": []}
     repairs = 0
     qa = run_qa(number, source, final, glossary)
@@ -1166,10 +1186,6 @@ def command_qa(number: int) -> None:
         fidelity_repairs=repairs,
     )
     status = "PASS" if passed else "FAIL"
-    try:
-        from tools.progress import step
-    except ModuleNotFoundError:
-        from progress import step
     bits = [f"QA {status}"]
     if qa["warnings"]:
         bits.append(f"{len(qa['warnings'])}w")
@@ -1181,14 +1197,6 @@ def command_qa(number: int) -> None:
 
 
 def command_run(number: int) -> None:
-    command_master(number)
-    command_adjudicate(number)
-    command_assemble(number)
-    command_qa(number)
-
-
-def command_finish_for_commit(number: int) -> None:
-    """Run the overlay through VERIFIED and promote the mastered copy into translations/."""
     state = state_for(number)
     if state.get("stage") == "PROMOTED" and state.get("qa_passed"):
         try:
@@ -1197,12 +1205,21 @@ def command_finish_for_commit(number: int) -> None:
             from progress import step
         step("master", "already promoted")
         return
-    command_run(number)
+    if not (state.get("stage") == "VERIFIED" and state.get("qa_passed")):
+        command_master(number)
+        command_adjudicate(number)
+        command_assemble(number)
+        command_qa(number)
     p = chapter_paths(number)
     state = state_for(number)
     if not state.get("qa_passed") or state.get("stage") != "VERIFIED":
         raise ValueError(f"chapter {number}: mastering QA failed; inspect {p['qa'].relative_to(ROOT)}")
     command_promote(number, "REPLACE_TRANSLATIONS")
+
+
+def command_finish_for_commit(number: int) -> None:
+    """Run the overlay through promotion into translations/."""
+    command_run(number)
 
 
 def state_for(number: int) -> dict:
