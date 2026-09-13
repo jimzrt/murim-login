@@ -2,19 +2,19 @@
 
 Whoosh. Fwoom—
 
-The spearhead pierced dozens of sparkling points in the air one after another.
+The spearhead pierced dozens of glittering points in the air one after another.
 
 Each time I completed a movement, the red tassel hanging beneath the spearhead whipped around. It wasn’t there just for show. It was meant to distract the enemy.
 
 Bang!
 
-Again, the sound of wind being torn apart rang out. It was the seventh and final form of the Jin Family’s Spear Technique: the Sky-Piercing Strike.
+Once again, the sound of air being torn apart rang out. This was the seventh and final form of the Jin Family’s Spear Technique: the Sky-Piercing Strike.
 
 And this Sky-Piercing Strike was more precise and powerful than the ninety-nine I had successfully performed before it.
 
 *This is it.*
 
-My fingertips tingled. Each of the seven forms in the Jin Family’s Spear Technique was destructive enough when performed separately, but its true effect emerged when they flowed together.
+My fingertips tingled. Each of the seven forms in the Jin Family’s Spear Technique was destructive enough on its own, but their true power emerged when they flowed together.
 
 If I compared it to a car race, the first form was starting the engine. The final Sky-Piercing Strike was crossing the finish line.
 
@@ -69,11 +69,11 @@ Ding.
 >
 > **Remaining Points:** 0
 
-At this level…
+At this point…
 
 “What a fine second-rate nobody.”
 
-Still, it was better than reality. I could keep climbing higher. I no longer felt the limitations I’d sensed every day since awakening as an F-rank, or the glass ceiling society had placed over me.
+Still, it was better than reality. Here, I could keep climbing. I couldn’t feel the limits that had weighed on me every day since I awakened as an F-rank, or the glass ceiling society had placed over my head.
 
 “So what? I can’t even log out whenever I want.”
 
@@ -97,7 +97,7 @@ If only I had some kind of recovery item…
 
 “Oh, right. Grain-repelling pills.”
 
-I took one of the grain-repelling pills from my inventory. It gave off a strange smell, but a professional Hunter couldn’t afford to be picky about whether his rice was hot or cold.
+I took one of the grain-repelling pills from my inventory. It gave off a strange smell, but a professional Hunter couldn’t afford to be picky.
 
 I opened my mouth wide and took a huge bite.
 
@@ -147,7 +147,7 @@ Just one had increased my stats by a total of 10 points. What if I ate two? Thre
 
 Goblin shit might actually taste better… but it was definitely worth a try.
 
-*I can do this. I can do this. Jin Taekyung.*
+*I can do this. I can do this, Jin Taekyung.*
 
 With trembling hands, I picked up a second grain-repelling pill.
 
@@ -169,7 +169,7 @@ I dropped to my knees as the System notification sounded.
 
 * * *
 
-I could only resume training after my bloated stomach finally went down. I had three days to stay in the training hall. I needed to grow as strong as possible before leaving.
+I could only resume training after my bloated stomach finally went down. I had three days in the training hall. I needed to grow as strong as possible before I left.
 
 “Hah!”
 
@@ -177,17 +177,17 @@ With a short shout, the spearhead traced a heavy arc.
 
 *Keep my stance low, my feet heavy, and my spear fast.*
 
-The Jin Family’s Spear Technique was aggressive. It advanced relentlessly, constantly pressuring the enemy. Its spear movements were simple but lethal.
+The Jin Family’s Spear Technique was aggressive. It advanced relentlessly, constantly pressuring the enemy. Its movements were simple but lethal.
 
 *Was it derived from the military?*
 
-I didn’t know what the game’s setting was, but it didn’t seem like a martial art an ordinary foot soldier could learn.
+I didn’t know how the game’s setting worked, but it didn’t seem like a martial art an ordinary foot soldier could learn.
 
 After all, it was a first-rate martial art and required considerable physical ability to perform. Perhaps it had been practiced by elite soldiers or commanders.
 
 *Compared with what I learned at the Hunter training camp, it’s like heaven and earth.*
 
-That was when my foot tangled—whether from exhaustion or distraction, I wasn’t sure. Once my foot got tangled, my hands lost their rhythm too. The spearhead, loaded with strength, lost its momentum and sliced through the air.
+That was when my feet got tangled—whether from exhaustion or distraction, I wasn’t sure. Once my footwork fell apart, my hands lost their rhythm too. The spearhead, brimming with power, lost its momentum and sliced through the air.
 
 Whoosh—
 
@@ -205,7 +205,7 @@ My Mastery increased each time I performed the martial art from beginning to end
 
 My Jin Family’s Spear Technique had gotten worse with each of the three attempts since I acquired it. The first time, I gained 3 Mastery. The second time, 2. This third time, 1.
 
-“Three, two, one. It’s not even a countdown. What is this?”
+“Three, two, one. What is this, a countdown?”
 
 At this rate, the fourth attempt wouldn’t give me any Mastery at all. I sighed and gripped the spear again. My breathing was growing ragged, but I performed the Jin Family’s Spear Technique once more.
 
@@ -233,7 +233,7 @@ I popped back up like a roly-poly toy and performed the Jin Family’s Spear Tec
 >
 > - You did not gain Mastery for Jin Family’s Spear Technique. (6 / 100)
 
-When I focused on my feet instead of the spear, the problem faintly began to reveal itself.
+When I focused on my feet instead of the spear, the problem slowly began to reveal itself.
 
 Good. One more time.
 
@@ -247,7 +247,7 @@ Now I understood. But…
 
 I had struggled when I first learned it. I’d spent half a day practicing nothing but footwork. But if you asked whether that was enough to make me unconsciously mix it into my spear technique, the answer was no.
 
-*By that logic, I’d have mixed in every movement I’ve learned over the past seven years.*
+*By that logic, I’d be mixing in every movement I’ve learned over the past seven years.*
 
 I had learned spear fighting before, too. It was one of the basics taught at the Hunter training camp. Since it was issued to F-ranks who couldn’t use mana, we called it shitty spear fighting among ourselves.
 
@@ -255,19 +255,19 @@ Compared with that, the Jin Family’s Spear Technique was good enough for inter
 
 “Should I give it a try?”
 
-No matter how hard I racked my brain, all I’d get was a bald spot. The only way to understand a technique was to physically try it.
+No matter how hard I racked my brain, all I’d get was a bald spot. The only way to understand a technique was to put my body through it.
 
-I began performing the Jin Family’s Spear Technique slowly. At the same time, I performed the Jin Family’s Manoeuvre Technique with my lower body.
+I began performing the Jin Family’s Spear Technique slowly. At the same time, I worked through the Jin Family’s Manoeuvre Technique with my feet.
 
 *The movements don’t flow naturally.*
 
-They kept falling out of sync. But it was different. Until now, it had felt like threads tangled in a jumble. This time, it felt like gears slipping past each other by a hair.
+They kept falling out of sync. But this was different. Until now, it had felt like threads tangled into a hopeless knot. This time, it felt like two gears just barely failing to mesh.
 
-How many times had I tried?
+How many times did I try?
 
 Whoosh—Bang!
 
-It was a simple thrust. For a moment, I wondered if I had performed all the way through the seventh and final form without realizing it, but it was only one movement from the fifth form.
+It was a simple thrust. For a moment, I wondered if I had somehow reached the seventh and final form without realizing it, but it was only one movement from the fifth form.
 
 “What was that?”
 
@@ -289,7 +289,7 @@ I felt it the instant I thrust the spear.
 
 The footwork and the spear technique. The two gears meshed perfectly.
 
-Overwhelmed by indescribable exhilaration, I turned those two gears again and again. My steps, and the spearhead that thrust, slashed, and swung, were fast, precise, and powerful.
+Overwhelmed by indescribable exhilaration, I turned those two gears again and again. Every step was fast and precise. Every thrust, slash, and sweep of the spearhead was fast, precise, and powerful.
 
 My dantian grew hot. My internal energy became a ball of fire and seeped into the spear.
 
@@ -301,7 +301,7 @@ I had to release it.
 
 The Sky-Piercing Strike—the final blow of the Jin Family’s Spear Technique, said to pierce the heavens—shot forward.
 
-A deep, muffled boom erupted through the cavern.
+A heavy boom erupted through the cavern.
 
 Bang!
 
@@ -327,11 +327,11 @@ I staggered.
 
 *Huh?*
 
-I needed to shout my head off and take a proof photo. I needed to put Big Brother Jinho in his place—he used to call me a freeloader.
+I needed to shout my head off and take a photo as proof. I needed to rub it in Jinho hyung’s face after he’d called me a rice weevil.
 
 *Oh, right. This was a game.*
 
-My vision blurred. The strength drained from my body. An unbearable wave of sleepiness washed over me.
+My vision blurred. The strength drained from my body. An irresistible wave of drowsiness washed over me.
 
 *I’m sleepy.*
 
@@ -379,7 +379,7 @@ How long had I been unconscious? Half a day? Or a full day?
 
 I didn’t know. What mattered was that I was still in the game and had gotten plenty of rest.
 
-*I feel great, too.*
+*And I feel great.*
 
 My body felt strangely good. Come to think of it, I seemed to have heard System notifications just before I passed out.
 
@@ -387,7 +387,7 @@ My body felt strangely good. Come to think of it, I seemed to have heard System 
 
 The next moment, unread messages covered my vision. By the time I finished reading them all and sorting through my thoughts, more than ten minutes had passed.
 
-I muttered a brief reaction.
+I summed it up in a few words.
 
 “I really hit the jackpot.”
 
@@ -401,7 +401,7 @@ I was happy, but also bewildered. I’d barely expected to Level up at all in th
 
 “Don’t you usually Level up by completing Quests or killing monsters?”
 
-Apparently, learning martial arts and gaining insight like I had could also lead to a Level Up. Was it because this was a martial-arts game? I really couldn’t make sense of it.
+Apparently, learning martial arts and gaining insight like I had could also lead to a Level Up. Was it because this was a martial-arts game? I really couldn’t predict how this game worked.
 
 “No wonder my body felt so light.”
 
@@ -415,9 +415,9 @@ The Status Window had changed too. Reaching Level 13 had given me twenty remaini
 
 The Quest completion requirements were reaching the first-rate realm, Level 30, and 500 Fame.
 
-I wasn’t progressing quickly, but I was steadily leveling up through training alone. That meant I was cruising along.
+I wasn’t progressing quickly, but I was steadily leveling up through training alone. That meant I was on course.
 
-*Once I leave the training hall, I can spread my sails and surge forward.*
+*Once I leave the training hall, I can set sail and race ahead.*
 
 I smiled contentedly and distributed my points.
 

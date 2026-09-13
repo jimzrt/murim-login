@@ -3,6 +3,8 @@ from __future__ import annotations
 import importlib.util
 import tempfile
 from pathlib import Path
+from unittest.mock import patch
+
 from tools.progress import NullCall
 
 MODULE_PATH = Path(__file__).resolve().parents[1] / "tools" / "mastering.py"
@@ -78,7 +80,7 @@ def test_finish_for_commit_skips_when_already_promoted(monkeypatch):
         return {"stage": "PROMOTED", "qa_passed": True}
 
     monkeypatch.setattr(mastering, "state_for", fake_state)
-    monkeypatch.setattr(mastering, "command_run", lambda _number: calls.append("run"))
+    monkeypatch.setattr(mastering, "command_master", lambda *_a, **_k: calls.append("master"))
     monkeypatch.setattr(mastering, "command_promote", lambda *_args: calls.append("promote"))
     mastering.command_finish_for_commit(3)
     assert calls == []
@@ -238,13 +240,76 @@ def test_expected_live_hash_uses_promoted_copy():
     assert promoted == "bbb"
 
 
-def test_finish_for_commit_skips_when_already_promoted():
+def test_run_skips_when_already_promoted():
     calls: list[str] = []
     with patch.object(mastering, "state_for", return_value={"stage": "PROMOTED", "qa_passed": True}):
-        with patch.object(mastering, "command_run", lambda _number: calls.append("run")):
-            with patch.object(mastering, "command_promote", lambda *_args: calls.append("promote")):
-                mastering.command_finish_for_commit(3)
+        with patch.object(mastering, "command_master", lambda *_a, **_k: calls.append("master")):
+            with patch.object(mastering, "command_adjudicate", lambda *_a, **_k: calls.append("adjudicate")):
+                with patch.object(mastering, "command_assemble", lambda *_a, **_k: calls.append("assemble")):
+                    with patch.object(mastering, "command_qa", lambda *_a, **_k: calls.append("qa")):
+                        with patch.object(mastering, "command_promote", lambda *_a, **_k: calls.append("promote")):
+                            mastering.command_run(11)
     assert calls == []
+
+
+def test_run_promotes_when_already_verified():
+    calls: list[str] = []
+
+    def fake_state(_number):
+        if "promote" in calls:
+            return {"stage": "PROMOTED", "qa_passed": True}
+        return {"stage": "VERIFIED", "qa_passed": True}
+
+    with patch.object(mastering, "state_for", side_effect=fake_state):
+        with patch.object(mastering, "chapter_paths", return_value={"qa": Path("reviews/mastering/0011/qa.json")}):
+            with patch.object(mastering, "command_master", lambda *_a, **_k: calls.append("master")):
+                with patch.object(mastering, "command_qa", lambda *_a, **_k: calls.append("qa")):
+                    with patch.object(
+                        mastering,
+                        "command_promote",
+                        lambda number, confirm: calls.append(f"promote:{confirm}"),
+                    ):
+                        mastering.command_run(11)
+    assert calls == ["promote:REPLACE_TRANSLATIONS"]
+
+
+def test_assemble_skips_existing_final_after_verified():
+    work = Path(tempfile.mkdtemp())
+    number = 11
+    final = work / "final.md"
+    final.write_text("# Chapter 11\n\nDone.\n", encoding="utf-8")
+    sol = work / "sol.md"
+    sol.write_text("# Chapter 11\n\nDone.\n", encoding="utf-8")
+    adjudication = work / "adjudication.json"
+    adjudication.write_text('{"decisions":[]}\n', encoding="utf-8")
+    paths = {
+        "final": final,
+        "sol": sol,
+        "adjudication": adjudication,
+        "baseline": work / "baseline.md",
+        "state": work / "state.json",
+    }
+    state = {"stage": "VERIFIED", "qa_passed": True, "final_sha256": "x"}
+    with patch.object(mastering, "create_or_verify_state", return_value=(state, paths)):
+        with patch.object(mastering, "assemble_from_decisions", side_effect=AssertionError("should skip")):
+            mastering.command_assemble(number)
+    assert final.read_text(encoding="utf-8") == "# Chapter 11\n\nDone.\n"
+
+
+def test_qa_skips_when_already_verified():
+    work = Path(tempfile.mkdtemp())
+    final_text = "# Chapter 11\n\nDone.\n"
+    final = work / "final.md"
+    final.write_text(final_text, encoding="utf-8")
+    paths = {"final": final, "source": work / "source.txt", "qa": work / "qa.json"}
+    state = {
+        "stage": "VERIFIED",
+        "qa_passed": True,
+        "final_sha256": mastering.sha256_text(mastering.normalize_chapter(final_text)),
+    }
+    with patch.object(mastering, "create_or_verify_state", return_value=(state, paths)):
+        with patch.object(mastering, "run_fidelity_gate", side_effect=AssertionError("should skip")):
+            mastering.command_qa(11)
 
 
 def test_adjudicator_run_omp_passes_deepseek_overlay():

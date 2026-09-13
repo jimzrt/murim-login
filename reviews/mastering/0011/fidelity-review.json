@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "I could only resume training after my bloated stomach finally went down.",
+      "defect": "The translation omits that his stomach was bloated specifically by the previously named Overeating status effect, losing a repeated System term and its explicit causal link.",
+      "id": "F01",
+      "rationale": "The Korean explicitly says his stomach was swollen because of [과식], repeating the status effect introduced in the preceding System notification.",
+      "replacement": "I could only resume training once my stomach, bloated from Overeating, finally went back down.",
+      "severity": "minor",
+      "source": "line 185 / P60"
+    }
+  ],
+  "summary": "Faithful overall; one minor repeated status-effect term was omitted.",
+  "version": 1
+}
