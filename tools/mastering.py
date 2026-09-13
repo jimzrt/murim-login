@@ -827,6 +827,13 @@ def _escape_interior_json_quotes(text: str) -> str:
 
 
 def parse_json_object(raw: str) -> dict:
+    """Parse one JSON object from model output.
+
+    Tolerates prose preambles, markdown fences, unescaped interior quotes, and
+    a common adjudicator failure mode where the model restarts mid-stream and
+    concatenates a truncated object with a later complete one. In that case the
+    last successfully decoded object wins.
+    """
     text = raw.strip()
     if text.startswith("```"):
         lines = text.splitlines()
@@ -843,14 +850,34 @@ def parse_json_object(raw: str) -> dict:
     for candidate in candidates:
         try:
             value = json.loads(candidate)
-            break
+            if isinstance(value, dict):
+                return value
+            raise ValueError("adjudicator output must be one JSON object")
         except json.JSONDecodeError as exc:
             last_exc = exc
-    else:
-        raise ValueError(f"adjudicator output has invalid JSON: {last_exc}") from None
-    if not isinstance(value, dict):
-        raise ValueError("adjudicator output must be one JSON object")
-    return value
+
+    # Restart recovery: decode from every '{' and keep the dict that reaches
+    # farthest into the text (a complete restarted object outranks a truncated
+    # prefix or an interior hunk object).
+    decoder = json.JSONDecoder()
+    recovered: dict | None = None
+    best_end = -1
+    for index, char in enumerate(text):
+        if char != "{":
+            continue
+        for candidate in (text, _escape_interior_json_quotes(text)):
+            try:
+                value, end = decoder.raw_decode(candidate, index)
+            except json.JSONDecodeError as exc:
+                last_exc = exc
+                continue
+            if isinstance(value, dict) and end >= best_end:
+                recovered = value
+                best_end = end
+                break
+    if recovered is not None:
+        return recovered
+    raise ValueError(f"adjudicator output has invalid JSON: {last_exc}") from None
 
 
 def validate_adjudication(value: dict, number: int, diff: dict) -> dict:

@@ -34,6 +34,23 @@ def test_parse_json_object_escapes_interior_quotes():
     assert "Warning" in value["decisions"][0]["reason"]
 
 
+def test_parse_json_object_recovers_restarted_concatenated_payload():
+    # Truncated first object spliced into a restarted complete object — the
+    # outer brace span is invalid JSON, but the second object is complete.
+    raw = (
+        'preamble {"chapter": 13, "decisions": ['
+        '{"hunk_id": "H001", "decision": "SOL", "reason": "partial"},'
+        '{"chapter": 13, "decisions": ['
+        '{"hunk_id": "H001", "decision": "BASE", "reason": "complete first"},'
+        '{"hunk_id": "H002", "decision": "SOL", "reason": "complete second"}]}'
+    )
+    value = mastering.parse_json_object(raw)
+    assert value["chapter"] == 13
+    assert len(value["decisions"]) == 2
+    assert value["decisions"][0]["decision"] == "BASE"
+    assert value["decisions"][1]["reason"] == "complete second"
+
+
 def test_diff_and_assemble_sol_base_repair():
     baseline = "# Chapter 1\n\nAlpha.\n\nBeta.\n\nGamma.\n"
     sol = "# Chapter 1\n\nAlpha improved.\n\nBeta improved.\n\nGamma.\n"
