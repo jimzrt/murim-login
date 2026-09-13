@@ -28,6 +28,10 @@ class ContextPacketTest(unittest.TestCase):
         self.assertNotIn("Latest completed summary", review_packet)
         self.assertIn('"replacement": "finished exact replacement English"', review_packet)
         self.assertIn("must quote one exact, uniquely occurring draft span", review_packet)
+        self.assertIn("## Matched address pairs", draft_packet)
+        self.assertIn("## Matched risk notes", draft_packet)
+        self.assertIn("## Matched address pairs", review_packet)
+        self.assertIn("## Matched risk notes", review_packet)
 
     def test_update_packet_is_bounded_to_current_durable_inputs(self):
         with tempfile.TemporaryDirectory() as directory:
@@ -44,6 +48,10 @@ class ContextPacketTest(unittest.TestCase):
             )
             (root / "docs" / "NAMES.md").write_text(
                 "# Names\n\n| Korean | English | Notes |\n|---|---|---|\n", encoding="utf-8")
+            (root / "docs" / "ADDRESS.md").write_text(
+                "# Address\n\n| Speaker | Addressee | Kinship | Normal address | Speech level | Notes |\n|---|---|---|---|---|---|\n",
+                encoding="utf-8",
+            )
             source_path = root / "chapter.txt"
             source_path.write_text("주인공", encoding="utf-8")
             profile_path = root / "characters" / "Hero.md"
@@ -60,6 +68,8 @@ class ContextPacketTest(unittest.TestCase):
         self.assertIn("# Durable State Update — Chapter 5", packet)
         self.assertIn("# Chapter 5\n\nFinal.", packet)
         self.assertIn('"profile_updates"', packet)
+        self.assertIn('"address_pairs"', packet)
+        self.assertIn("Existing address-pair ledger", packet)
         self.assertNotIn("Latest completed summary", packet)
         self.assertNotIn("compendium.md", packet)
 

@@ -21,6 +21,12 @@ class WorkflowTest(unittest.TestCase):
         (self.root / "docs" / "NAMES.md").write_text(
             "# Names\n\n| Korean | English | Notes |\n|---|---|---|\n", encoding="utf-8"
         )
+        (self.root / "docs" / "ADDRESS.md").write_text(
+            "# Established Address Pairs\n\n"
+            "| Speaker | Addressee | Kinship | Normal address | Speech level | Notes |\n"
+            "| ------- | --------- | ------- | -------------- | ------------ | ----- |\n",
+            encoding="utf-8",
+        )
         self.root_patch = patch.object(workflow, "ROOT", self.root)
         self.hash_patch = patch.object(workflow, "source_hash", return_value="source-hash")
         self.root_patch.start()
@@ -239,6 +245,14 @@ class WorkflowTest(unittest.TestCase):
                 "temporary_decisions": ["Keep New Name."],
             },
             "names": [{"korean": "새이름", "english": "New Name", "notes": "New ally"}],
+            "address_pairs": [{
+                "speaker": "주인공",
+                "addressee": "신규",
+                "kinship": "allies",
+                "normal_address": "name",
+                "speech_level": "casual",
+                "notes": "Met in this chapter.",
+            }],
             "profile_updates": [{
                 "path": "characters/Hero.md",
                 "current": "- **Role:** Wanderer",
@@ -274,6 +288,7 @@ class WorkflowTest(unittest.TestCase):
             workflow.command_update(1, False)
         self.assertIn("- Last completed: 1", (self.root / "docs" / "STATE.md").read_text(encoding="utf-8"))
         self.assertIn("| 새이름 | **New Name** | New ally |", (self.root / "docs" / "NAMES.md").read_text(encoding="utf-8"))
+        self.assertIn("| 주인공 | 신규 | allies | name | casual | Met in this chapter. |", (self.root / "docs" / "ADDRESS.md").read_text(encoding="utf-8"))
         self.assertIn("- **Role:** Group leader", profile.read_text(encoding="utf-8"))
         self.assertIn("- **Safe through:** Chapter 1", profile.read_text(encoding="utf-8"))
         self.assertTrue((self.root / "characters" / "Recruit.md").exists())

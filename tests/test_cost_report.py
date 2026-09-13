@@ -41,6 +41,16 @@ class CostReportTest(unittest.TestCase):
                 }}
             }), encoding="utf-8")
             (checkpoints / "0005-0009.meta.json").write_text(json.dumps({"finding_count": 2, "major_or_critical_count": 1}), encoding="utf-8")
+            mastering = root / "reviews" / "mastering" / "0008"
+            mastering.mkdir(parents=True)
+            (mastering / "adjudication.json").write_text(json.dumps({
+                "chapter": 8,
+                "decisions": [
+                    {"hunk_id": "H001", "decision": "SOL", "reason": "Fluent."},
+                    {"hunk_id": "H002", "decision": "BASE", "reason": "Fidelity."},
+                    {"hunk_id": "H003", "decision": "REPAIR", "reason": "Both drift.", "replacement": "Fixed."},
+                ],
+            }), encoding="utf-8")
             with patch.object(cost_report, "ROOT", root):
                 report = cost_report.build_report()
         self.assertEqual(report["totals"]["input_tokens"], 10)
@@ -51,14 +61,20 @@ class CostReportTest(unittest.TestCase):
         self.assertEqual(report["chapters"]["8"]["workload"]["elapsed_seconds"], 1.25)
         self.assertEqual(report["chapters"]["8"]["costs"]["subscription_api_equivalent_usd"], 0)
         self.assertEqual(report["chapters"]["8"]["costs"]["actual_api_cash_usd"], 0)
+        self.assertEqual(report["mastering_adjudication"]["hunks"], 3)
+        self.assertEqual(report["mastering_adjudication"]["SOL"], 1)
+        self.assertEqual(report["chapters"]["8"]["mastering_adjudication"]["BASE"], 1)
         text = cost_report.format_report(report, 8)
         self.assertIn("Chapter 8", text)
+        self.assertIn("Mastering hunks: 3 (SOL 1, BASE 1, REPAIR 1)", text)
         self.assertIn("draft_model:", text.split("openai-codex/luna:")[0])
         self.assertIn("openai-codex/luna:", text)
         self.assertIn("Total:", text)
         full = cost_report.format_report(report)
         self.assertIn("Chapters with metric files: 1", full)
         self.assertIn("Checkpoint findings: 2 across 1 reviews", full)
+        self.assertIn("Mastering hunks: 3 (SOL 1, BASE 1, REPAIR 1)", full)
+        self.assertIn("Mastering hunks: 3 (SOL 1, BASE 1, REPAIR 1)", full)
         self.assertIn("MURIM LOGIN RESOURCE USAGE", full)
         self.assertIn("OpenAI subscription", full)
         self.assertIn("Luna calls", full)

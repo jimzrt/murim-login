@@ -154,6 +154,31 @@ def validate_durable_update(value: dict, number: int) -> dict:
                 raise ValueError(f"name {position} {key} cannot contain a newline or pipe")
             row[key] = field.strip()
         normalized_names.append(row)
+    address_pairs = value.get("address_pairs", [])
+    if not isinstance(address_pairs, list):
+        raise ValueError("durable update address_pairs must be an array")
+    normalized_address = []
+    seen_pairs: set[tuple[str, str]] = set()
+    for position, item in enumerate(address_pairs, 1):
+        if not isinstance(item, dict):
+            raise ValueError(f"address pair {position} must be an object")
+        row = {}
+        for key in ("speaker", "addressee", "kinship", "normal_address", "speech_level", "notes"):
+            field = item.get(key, "")
+            if not isinstance(field, str):
+                raise ValueError(f"address pair {position} requires {key}")
+            if key != "notes" and not field.strip():
+                raise ValueError(f"address pair {position} requires {key}")
+            if "\n" in field or "|" in field:
+                raise ValueError(f"address pair {position} {key} cannot contain a newline or pipe")
+            row[key] = field.strip()
+        if not re.fullmatch(r"[가-힣]{2,}", row["speaker"]) or not re.fullmatch(r"[가-힣]{2,}", row["addressee"]):
+            raise ValueError(f"address pair {position} speaker and addressee must be Korean")
+        key = (row["speaker"], row["addressee"])
+        if key in seen_pairs:
+            raise ValueError(f"duplicate address pair: {row['speaker']} -> {row['addressee']}")
+        seen_pairs.add(key)
+        normalized_address.append(row)
     profile_updates = value.get("profile_updates")
     if not isinstance(profile_updates, list):
         raise ValueError("durable update profile_updates must be an array")
@@ -194,6 +219,7 @@ def validate_durable_update(value: dict, number: int) -> dict:
         "beat": normalized_beat,
         "context": context,
         "names": normalized_names,
+        "address_pairs": normalized_address,
         "profile_updates": normalized_updates,
         "profile_creations": normalized_creations,
     }
