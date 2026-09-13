@@ -804,6 +804,23 @@ def checkpoint_summary_paths(number: int) -> list[Path]:
     ]
 
 
+def expedition_gap(number: int) -> bool:
+    config_path = ROOT / "docs" / "expedition.json"
+    if not config_path.exists():
+        return False
+    try:
+        config = json.loads(config_path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return False
+    for item in config.get("skipped_ranges", []):
+        if not isinstance(item, dict):
+            continue
+        if item.get("status") in {"not_translated_locally", "source_bridge_only"}:
+            if int(item.get("start", -1)) <= number <= int(item.get("end", -1)):
+                return True
+    return False
+
+
 def command_checkpoint(number: int) -> None:
     state, p = load(number)
     require(state, "REVISED")
@@ -821,8 +838,19 @@ def command_checkpoint(number: int) -> None:
     review_interval = int(project_config()["checkpoint_review_interval"])
     for chapter in range(number - review_interval + 1, number + 1):
         chapter_path = reading_copy_path(p) if chapter == number else ROOT / "translations" / f"{chapter:04d}.md"
-        validate_reading_copy(chapter_path, chapter)
-        chapters.append(f"## Chapter artifact {chapter}\n\n{chapter_path.read_text(encoding='utf-8').strip()}")
+        if chapter_path.exists():
+            validate_reading_copy(chapter_path, chapter)
+            chapters.append(f"## Chapter artifact {chapter}\n\n{chapter_path.read_text(encoding='utf-8').strip()}")
+        elif expedition_gap(chapter):
+            bridge_path = ROOT / "summaries" / "beats" / f"{chapter:04d}.md"
+            try:
+                from tools.context import validate_beat
+            except ModuleNotFoundError:
+                from context import validate_beat
+            bridge = validate_beat(bridge_path, chapter, int(project_config()["beat_max_bytes"]))
+            chapters.append(f"## Source-only bridge artifact {chapter}\n\n{bridge}")
+        else:
+            validate_reading_copy(chapter_path, chapter)
     rules = (ROOT / "RULES.md").read_text(encoding="utf-8").strip()
     durable_state = (ROOT / "docs" / "CONTEXT.json").read_text(encoding="utf-8").strip()
     summaries = "\n\n".join(path.read_text(encoding="utf-8").strip() for path in summary_paths)

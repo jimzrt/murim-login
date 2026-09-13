@@ -175,6 +175,14 @@ def latest_summary_entry(number: int) -> tuple[Path | None, str]:
     return path, path.read_text(encoding="utf-8").strip()
 
 
+def expedition_seed() -> tuple[Path | None, str]:
+    config_path = ROOT / "docs" / "expedition.json"
+    seed_path = ROOT / "docs" / "EXPEDITION_SEED.md"
+    if not config_path.exists() or not seed_path.exists():
+        return None, "(No expedition bridge dossier.)"
+    return seed_path, seed_path.read_text(encoding="utf-8").strip()
+
+
 def beat_path(number: int) -> Path:
     return ROOT / "summaries" / "beats" / f"{number:04d}.md"
 
@@ -302,6 +310,7 @@ def build_draft_packet(number: int) -> str:
     glossary = exact_glossary_entries(source)
     profiles = profile_entries(source)
     summary_path, summary = latest_summary_entry(number)
+    seed_path, seed = expedition_seed()
     continuity_paths, continuity = continuity_text(context)
     body = f"""# Draft Task — Chapter {number}
 
@@ -312,6 +321,10 @@ ambiguity. Do not review, explain, update files, or continue to another chapter.
 ## Binding rules
 
 {rules}
+
+## Expedition bridge dossier
+
+{seed}
 
 ## Bounded active continuity
 
@@ -343,6 +356,8 @@ ambiguity. Do not review, explain, update files, or continue to another chapter.
 """
     names_path = ROOT / "docs" / "NAMES.md"
     used = [rules_path, context_path, source_path, compendium_path, names_path, *continuity_paths, *(path for path, _ in profiles)]
+    if seed_path:
+        used.append(seed_path)
     if summary_path:
         used.append(summary_path)
     return body.replace("# Draft Task", f"<!-- packet-manifest\n{manifest(used, body)}\n-->\n\n# Draft Task", 1)
@@ -355,6 +370,7 @@ def build_review_packet(number: int, draft: str, qa: dict) -> str:
     rules = rules_path.read_text(encoding="utf-8").strip()
     glossary = exact_glossary_entries(source)
     profiles = profile_entries(source)
+    _, seed = expedition_seed()
     active = {key: context[key] for key in ("active_continuity", "open_questions", "temporary_decisions")}
     return f"""# Structured Review Task — Chapter {number}
 
@@ -410,6 +426,10 @@ not overlap.
 
 {rules}
 
+## Expedition bridge dossier
+
+{seed}
+
 ## Exact glossary matches
 
 {glossary_text(glossary)}
@@ -439,6 +459,7 @@ def build_update_packet(number: int, reading_copy: str) -> str:
     names_path = ROOT / "docs" / "NAMES.md"
     profiles = profile_entries(source)
     prior = read_json(context_path)
+    _, seed = expedition_seed()
     body = f"""# Durable State Update — Chapter {number}
 
 Return exactly one JSON object and no Markdown fence. Record only facts established
@@ -504,6 +525,10 @@ Use empty arrays when no name or profile change is required.
 ```json
 {json.dumps(prior, ensure_ascii=False, indent=2)}
 ```
+
+## Expedition bridge dossier
+
+{seed}
 
 ## Existing names ledger
 
