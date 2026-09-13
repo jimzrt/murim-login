@@ -364,10 +364,32 @@ def command_prepare(number: int) -> None:
     p["context"].parent.mkdir(parents=True, exist_ok=True)
     atomic_text(p["context"], packet)
     try:
+        from tools.context import (
+            chapter_text, exact_glossary_entries, matched_address_pairs,
+            matched_risk_notes, profile_entries,
+        )
         from tools.progress import compact_n, step
     except ModuleNotFoundError:
+        from context import (
+            chapter_text, exact_glossary_entries, matched_address_pairs,
+            matched_risk_notes, profile_entries,
+        )
         from progress import compact_n, step
-    step("prepare", f"{compact_n(packet_tokens)} tok")
+    source = chapter_text(number)
+    glossary = exact_glossary_entries(source)
+    profiles = profile_entries(source)
+    pairs = matched_address_pairs(source, profiles)
+    risks = matched_risk_notes(source)
+    step(
+        "prepare",
+        facts=[
+            f"{compact_n(packet_tokens)} tok",
+            f"{len(glossary)} glossary",
+            f"{len(profiles)} profiles",
+            f"{len(pairs)} address",
+            f"{len(risks)} risks",
+        ],
+    )
     record_metric(p, "draft_packet", packet_token_estimate=packet_tokens, input_bytes=len(packet.encode("utf-8")))
     save(state, p, "CONTEXT_READY", context_sha256=digest(p["context"]))
 
@@ -396,7 +418,7 @@ def omp_log_path(number: int, phase: str) -> Path:
     return ROOT / ".work" / f"{number:04d}" / "omp" / f"{phase}.jsonl"
 
 
-def run_omp(packet: Path, model: str, timeout: int, log_path: Path | None = None, label: str | None = None, hint: str = "", hold: bool = False):
+def run_omp(packet: Path, model: str, timeout: int, log_path: Path | None = None, label: str | None = None, hint: str = "", hold: bool = False, facts=None):
     try:
         from tools.omp_json import OmpJsonError, run_json_command
         from tools.progress import ModelCall
@@ -406,7 +428,7 @@ def run_omp(packet: Path, model: str, timeout: int, log_path: Path | None = None
     packet_bytes = packet.stat().st_size
     packet_tokens = estimated_tokens(packet.read_text(encoding="utf-8"))
     role = label or (log_path.stem if log_path is not None else "model")
-    call = ModelCall(role, model, timeout, packet_tokens, hint=hint)
+    call = ModelCall(role, model, timeout, packet_tokens, hint=hint, facts=facts)
     command = [
         "omp",
         "--mode",
@@ -447,10 +469,12 @@ def command_draft(number: int) -> None:
     atomic_text(p["work"] / "draft-raw.txt", output)
     try:
         from tools.model_io import extract_reading_copy
-        from tools.progress import qa_brief
+        from tools.progress import copy_facts, qa_brief
+        from tools.context import chapter_text, exact_glossary_entries
     except ModuleNotFoundError:
         from model_io import extract_reading_copy
-        from progress import qa_brief
+        from progress import copy_facts, qa_brief
+        from context import chapter_text, exact_glossary_entries
     try:
         copy = extract_reading_copy(output, number)
     except ValueError as error:
@@ -459,7 +483,13 @@ def command_draft(number: int) -> None:
     record_metric(p, "draft_model", **metrics)
     try:
         qa = command_drafted(number)
-        call.done(metrics, qa_brief(qa))
+        source = chapter_text(number)
+        glossary = exact_glossary_entries(source)
+        call.done(
+            metrics,
+            qa_brief(qa),
+            facts=copy_facts(source, copy, glossary=len(glossary)),
+        )
     finally:
         if not call.completed:
             call.done(metrics, "failed")
@@ -522,9 +552,9 @@ def command_revise(number: int) -> None:
     review = json.loads(p["review_json"].read_text(encoding="utf-8"))
     draft = p["draft"].read_text(encoding="utf-8")
     try:
-        from tools.progress import qa_brief, step
+        from tools.progress import findings_facts, qa_brief, step
     except ModuleNotFoundError:
-        from progress import qa_brief, step
+        from progress import findings_facts, qa_brief, step
     try:
         revised = apply_review_replacements(draft, review)
     except ValueError as error:
@@ -535,8 +565,7 @@ def command_revise(number: int) -> None:
     glossary = [(item["korean"], item["english"]) for item in exact_glossary_entries(source)]
     qa = run_qa(number, source, revised, glossary)
     atomic_json(p["final_qa"], qa)
-    findings = len(review.get("findings") or [])
-    step("revise", f"{findings} spans  {qa_brief(qa)}")
+    step("revise", facts=[*findings_facts(review), "spans applied", qa_brief(qa)])
     if not qa["passed"]:
         raise SystemExit(f"revision failed deterministic QA; inspect {p['final_qa']}")
     save(
@@ -762,7 +791,11 @@ def command_update(number: int, dry_run: bool) -> None:
     }
     for path, text in changed.items():
         atomic_text(path, text)
-    call.done(metrics, f"{len(changed)} files")
+    try:
+        from tools.progress import changed_file_facts
+    except ModuleNotFoundError:
+        from progress import changed_file_facts
+    call.done(metrics, facts=changed_file_facts(changed, ROOT))
     try:
         validate_beat(p["beat"], number, project_config()["beat_max_bytes"])
     except ValueError as error:
