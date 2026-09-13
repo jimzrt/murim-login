@@ -47,14 +47,17 @@ def check() -> dict:
     if not isinstance(start, int) or not isinstance(seed, int) or start != seed + 1:
         raise SystemExit("start_chapter must be exactly seed_safe_through + 1")
     completed, next_chapter = state_numbers()
-    if completed != seed or next_chapter != start:
+    initial_state = completed == seed and next_chapter == start
+    ongoing_state = completed >= start and next_chapter == completed + 1
+    if not (initial_state or ongoing_state):
         raise SystemExit(
-            f"expedition state must be {seed} completed and {start} next; "
-            f"found {completed} and {next_chapter}"
+            f"expedition state must start at {seed}/{start} or advance sequentially "
+            f"from Chapter {start}; found {completed}/{next_chapter}"
         )
     context = read_json(ROOT / "docs" / "CONTEXT.json")
-    if context.get("safe_through") != seed:
-        raise SystemExit("CONTEXT.json safe_through does not match expedition seed")
+    safe_through = context.get("safe_through")
+    if not isinstance(safe_through, int) or safe_through < seed:
+        raise SystemExit("CONTEXT.json safe_through must be at least the expedition seed")
     if start <= 0 or not (ROOT / "source" / f"{start:04d}.txt").is_file():
         raise SystemExit(f"missing source for expedition start chapter {start}")
     if not (ROOT / "docs" / "EXPEDITION.md").is_file() or not (ROOT / "docs" / "EXPEDITION_SEED.md").is_file():
