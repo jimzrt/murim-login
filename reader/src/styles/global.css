@@ -86,8 +86,14 @@ html[data-width="wide"] {
 
 html {
   background: var(--paper);
+  scroll-padding-top: calc(var(--header-h) + 1rem);
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
+}
+
+[data-footnote-ref],
+[id^="user-content-fnref-"] {
+  scroll-margin-top: calc(var(--header-h) + 1rem);
 }
 
 body {
@@ -295,6 +301,10 @@ pagefind-modal-trigger button,
   pagefind-modal-trigger button {
     width: 100%;
     padding-inline: 0.2rem;
+  }
+
+  .settings-width {
+    display: none;
   }
 }
 
