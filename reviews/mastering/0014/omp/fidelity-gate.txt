@@ -1,0 +1,15 @@
+{
+  "summary": "Faithful overall, with one minor duplicated System sound effect.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "lines 229–233",
+      "current": "A gap of sixteen Levels. It was overwhelming. As if to drive that fact home, the System chimed.\n\nDing.",
+      "defect": "The English renders the System alert twice: once through “chimed” and again through the standalone “Ding.” The source contains only the narrated alert here, without a separate 띠링 sound-effect line.",
+      "replacement": "A gap of sixteen Levels. It was overwhelming. As if to drive that fact home, the System chimed.",
+      "rationale": "Unlike the earlier alerts at lines 9 and 69, this passage has no standalone 띠링. Adding “Ding.” after already translating 시스템창이 울렸다 duplicates the auditory beat.",
+      "confidence": 0.98
+    }
+  ]
+}
