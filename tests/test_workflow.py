@@ -297,6 +297,80 @@ class WorkflowTest(unittest.TestCase):
             json.loads(paths["state"].read_text(encoding="utf-8")), paths
         ))
 
+    def test_durable_files_allows_ledger_only_first_person_speaker(self):
+        (self.root / "docs" / "workflow.json").write_text(
+            json.dumps({**workflow.DEFAULT_CONFIG, "version": 1}), encoding="utf-8"
+        )
+        (self.root / "docs" / "CONTEXT.json").write_text(json.dumps({
+            "version": 1,
+            "safe_through": 0,
+            "continuity_sources": [],
+            "active_continuity": [],
+            "open_questions": [],
+            "temporary_decisions": [],
+        }), encoding="utf-8")
+        (self.root / "docs" / "ADDRESS.md").write_text(
+            "# Established Address Pairs\n\n"
+            "| Speaker | Addressee | Kinship | Normal address | Speech level | Notes |\n"
+            "| ------- | --------- | ------- | -------------- | ------------ | ----- |\n"
+            "| 진태경 | 진무경 | brothers | hyung | casual | Prior pair. |\n",
+            encoding="utf-8",
+        )
+        source_path = self.root / "source.txt"
+        # First-person chapter: narrator name absent; addressee present.
+        source_path.write_text("나는 문경아, 하고 불렀다.", encoding="utf-8")
+        profile = self.root / "characters" / "Mungyeong.md"
+        profile.parent.mkdir()
+        profile.write_text("""# Mungyeong (문경)
+
+- **Safe through:** Chapter 0
+- **Aliases:** None
+- **Role:** Physician
+- **Personality:** Calm
+- **Voice:** Soft
+- **Relationships:** None
+- **Continuity:** Archived.
+""", encoding="utf-8")
+        with patch.object(context, "ROOT", self.root), patch.object(
+            context, "chapter_text", return_value=source_path.read_text(encoding="utf-8")
+        ), patch.object(
+            context, "exact_glossary_entries", return_value=[]
+        ), patch.object(
+            context, "profile_entries", return_value=[(profile, profile.read_text(encoding="utf-8"))]
+        ), patch.object(
+            context, "bounded_profiles", side_effect=lambda items: items
+        ):
+            update = {
+                "chapter": 1,
+                "beat": {
+                    "plot": ["He called Mungyeong."],
+                    "continuity": ["The name sticks."],
+                    "translation_decisions": ["Use Mungyeong."],
+                },
+                "context": {
+                    "version": 1,
+                    "safe_through": 1,
+                    "continuity_sources": [1],
+                    "active_continuity": ["He addresses Mungyeong."],
+                    "open_questions": ["What next?"],
+                    "temporary_decisions": ["Use Mungyeong."],
+                },
+                "names": [],
+                "address_pairs": [{
+                    "speaker": "진태경",
+                    "addressee": "문경",
+                    "kinship": "allies",
+                    "normal_address": "Mungyeong",
+                    "speech_level": "casual",
+                    "notes": "Familiar vocative.",
+                }],
+                "profile_updates": [],
+                "profile_creations": [],
+            }
+            files = workflow.durable_files(1, update)
+        address = files[self.root / "docs" / "ADDRESS.md"]
+        self.assertIn("| 진태경 | 문경 | allies | Mungyeong | casual | Familiar vocative. |", address)
+
     def test_revised_block_runs_update_then_summarize_then_checkpoint(self):
         (self.root / "docs" / "STATE.md").write_text(
             "# Translation State\n\n- Last completed: 8\n- Next chapter: 9\n", encoding="utf-8"

@@ -520,7 +520,9 @@ Relationships line. Use `profile_creations` only for a newly introduced named
 character without a listed profile. Filenames must be plain `.md` basenames.
 `names` contains only newly required Korean-to-English rows; Korean keys must occur
 in the source. `address_pairs` contains only newly required speaker→addressee rows;
-both Korean keys must occur in the source. Do not invent risk-register rows. Beat
+each Korean key must occur in the source or already appear in the address ledger,
+and at least one endpoint must occur in the source (first-person narrators may be
+ledger-only). Do not invent risk-register rows. Beat
 plot paragraphs are plain strings; continuity and translation decisions are concise
 list items.
 
