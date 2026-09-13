@@ -45,13 +45,15 @@ not exist until `accept`.
   `temporary_decisions`. Keep only active continuity, unresolved questions,
   temporary decisions, and zero to two explicit `continuity_sources`. Move
   stable facts to profiles/compendium and resolved plot to summaries.
-- Draft receives the source, complete rules, exact glossary matches, compact
-  identity/voice/relationship fields from matching profiles, bounded active
-  state, latest summary, and only the explicitly named continuity reading
-  copies. Archived per-chapter profile continuity is not injected.
+- Draft receives the source, complete rules, exact glossary matches, matching
+  address pairs, matching risk notes, compact identity/voice/relationship
+  fields from matching profiles, bounded active state, latest summary, and
+  only the explicitly named continuity reading copies. Archived per-chapter
+  profile continuity is not injected.
 - Review receives the source, draft, rules, exact glossary matches, the same
-  compact matching profiles, active continuity, and deterministic QA. It does
-  not receive prior translations or the summary archive.
+  matching address pairs and risk notes, the same compact matching profiles,
+  active continuity, and deterministic QA. It does not receive prior
+  translations or the summary archive.
 - Revision is deterministic: it applies each review finding's exact, unique
   `current` → `replacement` span to the reviewed draft. It makes no model call
   and receives no additional context.
@@ -71,7 +73,7 @@ not exist until `accept`.
 - At `REVISED`, run
   `python tools/workflow.py update N`. Its bounded no-tools model call returns
   structured chapter facts; the controller validates and deterministically
-  writes `docs/NAMES.md`, affected safe profiles, `docs/CONTEXT.json`,
+  writes `docs/NAMES.md`, `docs/ADDRESS.md`, affected safe profiles, `docs/CONTEXT.json`,
   `docs/STATE.md`, and `summaries/beats/NNNN.md`. It records the packet and
   exact output under `reviews/`. Do not edit those generated updates manually.
   When status asks for it, run `python tools/workflow.py summarize N`.

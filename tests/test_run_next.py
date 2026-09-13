@@ -22,6 +22,8 @@ class RunNextTest(unittest.TestCase):
 
     def test_checkpoint_allowlist_includes_generated_state_and_block_translations(self):
         self.assertTrue(run_next.allowed_change("docs/NAMES.md", 9))
+        self.assertTrue(run_next.allowed_change("docs/ADDRESS.md", 9))
+        self.assertTrue(run_next.allowed_change("docs/RISKS.md", 9))
         self.assertTrue(run_next.allowed_change("translations/0009.md", 9))
         self.assertTrue(run_next.allowed_change("translations/0005.md", 9))
         self.assertTrue(run_next.allowed_change("translations/0008.md", 9))

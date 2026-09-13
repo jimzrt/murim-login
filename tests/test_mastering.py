@@ -163,6 +163,8 @@ def test_master_packet_owns_full_copy_polish():
     assert "## Project polish guidance" in packet
     assert "Translate the thought, not the Korean sentence structure" in packet
     assert "## Current accepted English baseline" in packet
+    assert "## Matched address pairs" in packet
+    assert "## Matched risk notes" in packet
 
 
 def test_fidelity_gate_packet_includes_baseline_regression_anchor():

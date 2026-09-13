@@ -609,6 +609,27 @@ def durable_files(number: int, update: dict) -> dict[Path, str]:
         seen_names.add(korean)
         names_text += f"\n| {korean} | **{row['english']}** | {row['notes']} |"
 
+    address_path = ROOT / "docs" / "ADDRESS.md"
+    try:
+        from tools.ledgers import ADDRESS_HEADER, format_address_row, load_address_pairs
+    except ModuleNotFoundError:
+        from ledgers import ADDRESS_HEADER, format_address_row, load_address_pairs
+    address_text = address_path.read_text(encoding="utf-8").rstrip() if address_path.is_file() else ADDRESS_HEADER.rstrip()
+    known_pairs = {
+        (item["speaker"], item["addressee"])
+        for item in load_address_pairs(address_path)
+    }
+    seen_pairs: set[tuple[str, str]] = set()
+    for row in update.get("address_pairs", []):
+        speaker, addressee = row["speaker"], row["addressee"]
+        if speaker not in source or addressee not in source:
+            raise ValueError(f"new address pair is absent from source: {speaker} -> {addressee}")
+        key = (speaker, addressee)
+        if key in seen_pairs or key in known_pairs:
+            raise ValueError(f"duplicate address pair: {speaker} -> {addressee}")
+        seen_pairs.add(key)
+        address_text += "\n" + format_address_row(row)
+
     matched = {str(path.relative_to(ROOT)): path for path, _ in profile_entries(source)}
     profile_texts = {path: path.read_text(encoding="utf-8") for path in matched.values()}
     for item in update["profile_updates"]:
@@ -663,6 +684,7 @@ def durable_files(number: int, update: dict) -> dict[Path, str]:
         ROOT / "docs" / "CONTEXT.json": context_text,
         ROOT / "docs" / "STATE.md": render_state(number, context, update["beat"]),
         names_path: names_text + "\n",
+        address_path: address_text + "\n",
         paths(number)["beat"]: beat_text,
         **profile_texts,
         **creations,

@@ -44,7 +44,7 @@ def changed_paths() -> list[str]:
 
 
 def allowed_change(path: str, chapter: int) -> bool:
-    if path in {"docs/STATE.md", "docs/CONTEXT.json", "docs/NAMES.md", "compendium.md"}:
+    if path in {"docs/STATE.md", "docs/CONTEXT.json", "docs/NAMES.md", "docs/ADDRESS.md", "docs/RISKS.md", "compendium.md"}:
         return True
     match = TRANSLATION_RE.fullmatch(path)
     if match:

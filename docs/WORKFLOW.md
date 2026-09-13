@@ -41,11 +41,16 @@ compendium, or safe profiles and remove them from active context.
 
 `docs/NAMES.md`, compendium table rows, and character profile headings/aliases
 form the names ledger. Packets inject a row only when that Korean appears in
-the current chapter. Matching profiles inject only bounded identity, role,
-personality, voice, and relationship fields; their archived per-chapter
-continuity remains in the profile files and summaries instead of consuming
-model context. Deterministic QA warns if the draft romanizes a source term
-without a ledger entry and blocks `Rank:` as a System/UI classification field.
+the current chapter. `docs/ADDRESS.md` is the exceptional speaker→addressee
+overlay; inject a pair only when both endpoints are present in the source or
+belong to a matched compact profile. `docs/RISKS.md` is a danger-term register
+of constraints, not preferred English; inject a row only when that Korean
+appears, and deterministic QA warns when a matched row's forbidden English
+is used. Matching profiles inject only bounded identity, role, personality,
+voice, and relationship fields; their archived per-chapter continuity remains
+in the profile files and summaries instead of consuming model context.
+Deterministic QA warns if the draft romanizes a source term without a ledger
+entry and blocks `Rank:` as a System/UI classification field.
 
 `docs/STATE.md` is a short human operational view, not a historical review log.
 Review history belongs to the structured files under `reviews/`.
@@ -61,23 +66,25 @@ Missing, repeated, or overlapping spans stop the transaction.
 
 There is no standalone full-copy polish pass. The mastering editor is the one
 final full-copy edit; its packet already includes `POLISH.md`, the source,
-rules, glossary, compact profiles, and bounded continuity. Its independent
-adjudication and final QA gate promotion.
+rules, glossary, matching address pairs, matching risk notes, compact profiles,
+and bounded continuity. Its independent adjudication and final QA gate promotion.
 
 `python tools/workflow.py update N` replaces the former manual durable-state
 step. One bounded no-tools call receives only the current source and final copy,
-current `CONTEXT.json` and names ledger, exact glossary matches, and compact
-matching profiles. The controller validates exact profile-line replacements,
-new names and profiles, context bounds, and chapter-local facts before generating
-`docs/STATE.md`, `docs/CONTEXT.json`, `docs/NAMES.md`, affected profiles, and the
-chapter beat. The packet and normalized result are
-`reviews/packets/update-NNNN.md` and `reviews/updates/NNNN.json`; their hashes
-gate summary, checkpoint, acceptance, and commit.
+current `CONTEXT.json`, names ledger, address-pair ledger, exact glossary matches,
+and compact matching profiles. The controller validates exact profile-line
+replacements, new names, new address pairs, new profiles, context bounds, and
+chapter-local facts before generating `docs/STATE.md`, `docs/CONTEXT.json`,
+`docs/NAMES.md`, `docs/ADDRESS.md`, affected profiles, and the chapter beat.
+Do not invent `docs/RISKS.md` rows from that call. The packet and normalized
+result are `reviews/packets/update-NNNN.md` and `reviews/updates/NNNN.json`;
+their hashes gate summary, checkpoint, acceptance, and commit.
 
 Deterministic reports live in `reviews/qa/`; provider-reported phase usage,
 packet bytes and token estimates, output bytes, and elapsed time live in
 `reviews/metrics/`. Run `python tools/cost_report.py` to inspect aggregate
-usage and checkpoint yield. Subscription API-equivalent value, live account
+usage and checkpoint yield. Chapter and project reports also tally mastering
+`SOL` / `BASE` / `REPAIR` hunk counts from `reviews/mastering/NNNN/adjudication.json`. Subscription API-equivalent value, live account
 quota, and actual OpenRouter cash spend are reported separately. Cursor
 on-demand usage is account-wide and cannot be attributed to a chapter.
 
@@ -162,6 +169,12 @@ and commit one range checkpoint after `VERIFIED`. This workflow never changes
 `docs/STATE.md`, `docs/CONTEXT.json`, summaries, profiles, or the ordinary
 chapter transaction unless a human separately accepts a genuinely durable
 terminology decision.
+
+## Frozen Translation Benchmark
+
+`python tools/benchmark.py` scores accepted copies against
+`benchmark/items.jsonl`. It is a maintenance regression suite, not a chapter
+transaction: it does not draft, review, master, or advance `docs/STATE.md`.
 
 ## New Major Character
 

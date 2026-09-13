@@ -82,6 +82,52 @@ class ModelIoTest(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, "one complete line"):
             validate_durable_update(value, 4)
 
+    def test_durable_update_accepts_address_pairs(self):
+        value = {
+            "chapter": 4,
+            "beat": {"plot": ["Plot."], "continuity": [], "translation_decisions": []},
+            "context": {
+                "version": 1,
+                "safe_through": 4,
+                "continuity_sources": [4],
+                "active_continuity": ["Fact."],
+                "open_questions": ["Question?"],
+                "temporary_decisions": [],
+            },
+            "names": [],
+            "address_pairs": [{
+                "speaker": "진태경",
+                "addressee": "진무경",
+                "kinship": "younger_to_older_brother",
+                "normal_address": "hyung",
+                "speech_level": "casual-but-junior",
+                "notes": "Greeting.",
+            }],
+            "profile_updates": [],
+            "profile_creations": [],
+        }
+        update = validate_durable_update(value, 4)
+        self.assertEqual(update["address_pairs"][0]["normal_address"], "hyung")
+
+    def test_durable_update_defaults_missing_address_pairs(self):
+        value = {
+            "chapter": 4,
+            "beat": {"plot": ["Plot."], "continuity": [], "translation_decisions": []},
+            "context": {
+                "version": 1,
+                "safe_through": 4,
+                "continuity_sources": [4],
+                "active_continuity": ["Fact."],
+                "open_questions": ["Question?"],
+                "temporary_decisions": [],
+            },
+            "names": [],
+            "profile_updates": [],
+            "profile_creations": [],
+        }
+        update = validate_durable_update(value, 4)
+        self.assertEqual(update["address_pairs"], [])
+
     def test_unresolved_major_checkpoint_finding_blocks_acceptance(self):
         review = self.review()
         dispositions = {

@@ -69,3 +69,12 @@ class QaTest(unittest.TestCase):
         warning = next(item for item in result["warnings"] if item["code"] == "terminology")
         self.assertEqual(warning["details"]["korean"], "기세")
         self.assertEqual(warning["details"]["preferred"], "aura / momentum")
+
+    def test_risk_forbidden_english_is_a_warning(self):
+        source = "＃1화\n\n" + ("그는 말했다. " * 9) + "진무경이 피식 웃었다.\n\n* * *\n\n100"
+        target = '# Chapter 1\n\nHe said, “This is deliberately long enough to pass the translation ratio check.” Jin Mukyung smirked.\n\n* * *\n\n100 remained.\n'
+        result = run_qa(1, source, target, [])
+        self.assertTrue(result["passed"], result)
+        warning = next(item for item in result["warnings"] if item["code"] == "risk_forbidden")
+        self.assertEqual(warning["details"]["korean"], "피식")
+        self.assertIn("smirk", warning["details"]["forbidden"])

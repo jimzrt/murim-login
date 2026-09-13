@@ -117,6 +117,20 @@ def run_qa(number: int, source: str, translation: str, glossary: list[tuple[str,
             korean=item["korean"],
             romanization=item["romanization"],
         ))
+    try:
+        from tools.ledgers import load_risks, matching_risks
+    except ModuleNotFoundError:
+        from ledgers import load_risks, matching_risks
+    for item in matching_risks(source, load_risks()):
+        folded = translation.casefold()
+        hits = [term for term in item["forbidden"] if term.casefold() in folded]
+        if hits:
+            warnings.append(finding(
+                "risk_forbidden",
+                "matched risk term used a forbidden English rendering",
+                korean=item["korean"],
+                forbidden=" / ".join(hits),
+            ))
     source_paragraphs = len([part for part in re.split(r"\n\s*\n", source) if part.strip()])
     target_paragraphs = len([part for part in re.split(r"\n\s*\n", translation) if part.strip()])
     paragraph_ratio = target_paragraphs / max(1, source_paragraphs)
