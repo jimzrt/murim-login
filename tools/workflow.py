@@ -671,15 +671,28 @@ def durable_files(number: int, update: dict) -> dict[Path, str]:
     except ModuleNotFoundError:
         from ledgers import ADDRESS_HEADER, format_address_row, load_address_pairs
     address_text = address_path.read_text(encoding="utf-8").rstrip() if address_path.is_file() else ADDRESS_HEADER.rstrip()
-    known_pairs = {
-        (item["speaker"], item["addressee"])
-        for item in load_address_pairs(address_path)
+    existing_pairs = load_address_pairs(address_path)
+    known_pairs = {(item["speaker"], item["addressee"]) for item in existing_pairs}
+    # First-person chapters often omit the narrator's Korean name; allow either
+    # endpoint from the existing address ledger, but require one hit in source.
+    ledger_names = {
+        name
+        for item in existing_pairs
+        for name in (item["speaker"], item["addressee"])
     }
+
+    def address_endpoint_present(korean: str) -> bool:
+        return korean in source or korean in ledger_names
+
     seen_pairs: set[tuple[str, str]] = set()
     for row in update.get("address_pairs", []):
         speaker, addressee = row["speaker"], row["addressee"]
-        if speaker not in source or addressee not in source:
+        if not address_endpoint_present(speaker) or not address_endpoint_present(addressee):
             raise ValueError(f"new address pair is absent from source: {speaker} -> {addressee}")
+        if speaker not in source and addressee not in source:
+            raise ValueError(
+                f"new address pair has no source endpoint: {speaker} -> {addressee}"
+            )
         key = (speaker, addressee)
         if key in seen_pairs or key in known_pairs:
             raise ValueError(f"duplicate address pair: {speaker} -> {addressee}")
@@ -747,7 +760,7 @@ def durable_files(number: int, update: dict) -> dict[Path, str]:
     }
 
 
-def command_update(number: int, dry_run: bool) -> None:
+def command_update(number: int, dry_run: bool, reuse_raw: bool = False) -> None:
     state, p = load(number)
     require(state, "REVISED")
     copy = reading_copy_path(p)
@@ -768,22 +781,36 @@ def command_update(number: int, dry_run: bool) -> None:
     atomic_text(p["update_packet"], packet)
     if dry_run:
         return
-    raw, metrics, call = run_omp(
-        p["update_packet"],
-        project_config()["summary_model"],
-        960,
-        log_path=omp_log_path(number, "update"),
-        label="update",
-        hold=True,
-    )
-    atomic_text(p["work"] / "update-raw.txt", raw)
+    raw_path = p["work"] / "update-raw.txt"
+    call = None
+    metrics: dict = {"exact": True, "requests": 0, "models": {}, "reused_raw": True}
+    if reuse_raw:
+        if not raw_path.is_file() or not raw_path.read_text(encoding="utf-8").strip():
+            raise SystemExit(f"missing update raw output: {raw_path.relative_to(ROOT)}")
+        raw = raw_path.read_text(encoding="utf-8")
+        try:
+            from tools.progress import NullCall, step
+        except ModuleNotFoundError:
+            from progress import NullCall, step
+        call = NullCall()
+        step("update", facts=["reuse saved raw"])
+    else:
+        raw, metrics, call = run_omp(
+            p["update_packet"],
+            project_config()["summary_model"],
+            960,
+            log_path=omp_log_path(number, "update"),
+            label="update",
+            hold=True,
+        )
+        atomic_text(raw_path, raw)
     try:
         update = validate_durable_update(parse_json_object(raw), number)
         files = durable_files(number, update)
     except (ValueError, FileNotFoundError) as error:
-        if not call.completed:
+        if call is not None and not call.completed:
             call.done(metrics, "failed")
-        record_failed_model_output(p["work"] / "update-raw.txt", raw, error)
+        record_failed_model_output(raw_path, raw, error)
     changed = {
         path: text
         for path, text in files.items()
@@ -795,7 +822,8 @@ def command_update(number: int, dry_run: bool) -> None:
         from tools.progress import changed_file_facts
     except ModuleNotFoundError:
         from progress import changed_file_facts
-    call.done(metrics, facts=changed_file_facts(changed, ROOT))
+    if call is not None and not call.completed:
+        call.done(metrics, facts=changed_file_facts(changed, ROOT))
     try:
         validate_beat(p["beat"], number, project_config()["beat_max_bytes"])
     except ValueError as error:
@@ -804,7 +832,8 @@ def command_update(number: int, dry_run: bool) -> None:
     atomic_json(p["update_result"], {
         "version": 1, "chapter": number, "files": file_hashes, "update": update,
     })
-    record_metric(p, "update_model", **metrics)
+    if not reuse_raw:
+        record_metric(p, "update_model", **metrics)
     save(state, p, state["stage"], update_result_sha256=digest(p["update_result"]))
 
 
@@ -1227,6 +1256,12 @@ def main() -> int:
             item.add_argument("--json", action="store_true")
         if name in {"review", "update"}:
             item.add_argument("--dry-run", action="store_true")
+        if name == "update":
+            item.add_argument(
+                "--reuse-raw",
+                action="store_true",
+                help="apply .work/NNNN/update-raw.txt without a new model call",
+            )
     committed = sub.add_parser("committed")
     committed.add_argument("chapter", type=int)
     committed.add_argument("--commit", required=True)
@@ -1240,7 +1275,7 @@ def main() -> int:
         command_review(args.chapter, True)
         return 0
     if args.command == "update" and getattr(args, "dry_run", False):
-        command_update(args.chapter, True)
+        command_update(args.chapter, True, getattr(args, "reuse_raw", False))
         return 0
     with hold_run_lock(ROOT, holder="workflow", chapter=args.chapter, stage=args.command):
         if args.command == "prepare":
@@ -1254,7 +1289,7 @@ def main() -> int:
         elif args.command == "revise":
             command_revise(args.chapter)
         elif args.command == "update":
-            command_update(args.chapter, args.dry_run)
+            command_update(args.chapter, args.dry_run, getattr(args, "reuse_raw", False))
         elif args.command == "summarize":
             command_summarize(args.chapter)
         elif args.command == "checkpoint":
