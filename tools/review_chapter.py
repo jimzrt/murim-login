@@ -85,10 +85,8 @@ def main() -> int:
         "usage": usage,
     }
     atomic_write(metadata_path, json.dumps(metadata, indent=2, sort_keys=True) + "\n")
-    extra = f"{metadata['finding_count']} findings"
-    if metadata["major_or_critical_count"]:
-        extra += f"  {metadata['major_or_critical_count']} major"
-    call.done(usage, extra)
+    from progress import findings_facts
+    call.done(usage, facts=findings_facts(review))
     return 0
 
 

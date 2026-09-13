@@ -140,7 +140,8 @@ def commit_mastered(chapter: int) -> None:
         raise SystemExit("refusing to commit unexpected paths: " + ", ".join(unexpected))
     if not changes:
         raise SystemExit("workflow reached MASTERED without checkpointable changes")
-    print(f"  commit      {len(changes)} files", flush=True)
+    print(f"  ✓ commit     {len(changes)} files", flush=True)
+    print("             Checkpoint accepted chapter artifacts in Git", flush=True)
     git("add", "-A")
     git("commit", "-m", f"Accept Chapter {chapter}", capture=False)
     command_committed(chapter, "HEAD")
@@ -157,8 +158,8 @@ def main() -> int:
     label = "resume" if in_progress is not None else "starting"
     with hold_run_lock(ROOT, holder="run_next", chapter=chapter, stage=stage or label) as lock:
         require_repository(chapter, resume=in_progress is not None)
-        print(f"Chapter {chapter}  {label}", flush=True)
-        print(flush=True)
+        from progress import chapter_banner
+        chapter_banner(chapter, label)
         if stage != "MASTERED":
             run_to_mastered(chapter, lock)
         print_cost_report(chapter)
