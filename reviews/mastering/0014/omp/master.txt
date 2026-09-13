@@ -38,7 +38,7 @@ Ding.
 
 Seriously? I hadn’t even dated anyone since high school, and now I had to be called a sex fiend?
 
-I spent half my day running raids and collapsed asleep in my goshiwon every night. Now I had to clean up a mess I hadn’t even made in a game.
+I spent half my day running raids and the other half passed out in my goshiwon. Now I had to clean up a mess I hadn’t even made inside a game.
 
 *At least give me a decent Quest.*
 
@@ -50,7 +50,7 @@ This was a fight I absolutely couldn’t take.
 
 I declined the Quest. Or tried to. But Lee Seogeun beat me to it.
 
-“If you run away from this place… the Jin Family of Taiyuan will pay the appropriate price.”
+“If you flee from this place… the Jin Family of Taiyuan will pay the appropriate price.”
 
 Ding.
 
@@ -62,9 +62,9 @@ Ding.
 
 *…I knew it.*
 
-I had wondered why the System was giving me a choice for once.
+I’d wondered why the System was giving me a choice for once.
 
-As I let out a deep sigh, the assembly hall was boiling like a cauldron over charcoal.
+As I let out a deep sigh, the assembly hall began boiling like a cauldron over hot coals.
 
 “How dare you!”
 
@@ -80,7 +80,7 @@ As the atmosphere turned hostile, Jin Wikyung, the Lesser Family Head, stepped i
 
 “Everyone, calm yourselves. And you, Young Hero, that is enough. Let us consider this a slip of the tongue and overlook it this once.”
 
-Seated in the place of honor, he issued the warning in a low voice. His presence was no joke. He really did have the bearing of the next Family Head of a prestigious house with deep roots.
+Seated in the place of honor, he issued the warning in a low voice. His presence was no joke. He truly had the bearing of the next Family Head of a prestigious house with deep roots.
 
 Perhaps cowed by his aura, Lee Seogeun answered in a noticeably quieter voice.
 
@@ -104,7 +104,7 @@ Right. Lee Seogeun was an envoy officially sent by the Mount Heng Sword Sect.
 
 Judging by how things were unfolding, those bastards from the Mount Heng Sword Sect had come here looking for a fight.
 
-They intended to get as much as possible out of this incident, and even if that failed, they were going to wreck me, at least. Being targeted so blatantly sent a chill down my spine.
+They intended to squeeze as much as possible out of this incident, and even if that failed, they were going to wreck me, at least. Being targeted so blatantly sent a chill down my spine.
 
 “There must be another way. Tell me what you truly want.”
 
@@ -112,7 +112,7 @@ They intended to get as much as possible out of this incident, and even if that 
 
 The instant he finished speaking, shouts erupted throughout the assembly hall.
 
-From the bits and pieces I could make out, he was basically saying they intended to strip us of everything but our underwear. Jin Wikyung’s answer was obvious.
+From the bits and pieces I could make out, he was basically demanding that we hand over everything but our underwear. Jin Wikyung’s answer was obvious.
 
 “Impossible.”
 
@@ -130,7 +130,7 @@ War.
 
 I wasn’t the only one who thought of that word. The assembly hall fell silent beneath its weight.
 
-Amid that silence, I looked up at the empty air.
+Amid that silence, I stared into empty air.
 
 > **System**
 >
@@ -166,21 +166,21 @@ The winter wind was cold. I took a deep breath as I looked up at the cloudy sky.
 
 I stood facing Lee Seogeun on the Jin Family of Taiyuan’s main training ground. About fifty people sat some distance away, watching us.
 
-The Jin Family people looked like they were wondering what the hell had gotten into me, while the Mount Heng Sword Sect’s goons looked like they’d come out for a day of entertainment. All they were missing was popcorn.
+The Jin Family people looked like they were wondering what the hell I’d eaten, while the Mount Heng Sword Sect’s goons looked like they’d come out for a day of entertainment. All they were missing was popcorn.
 
 Ah. Someone was sending me a Sound Transmission, too.
 
-- Little brother. Deep breaths. Deep breaths. In. Out. In. Out…
+- Youngest. Take deep breaths. Deep breaths. In. Out. In. Out…
 
-*I’m doing it, man.*
+*I’m already doing it, damn it.*
 
-Jin Wikyung had a solemn expression, but he kept shifting his hips like a puppy that needed to poop. If Wipeng hadn’t been holding him down by the shoulder, he looked ready to charge into the training ground at any moment.
+Jin Wikyung wore a solemn expression, but he kept shifting in his seat like a puppy that needed to poop. If Wipeng hadn’t been holding him down by the shoulder, he looked ready to charge onto the training ground at any moment.
 
 - Don’t worry. If it looks dangerous, this eldest brother of yours will… You know? If that bastard so much as lays a hand on our youngest, I’ll—fuck! Got it? Don’t get worked up. Take it slow and stay safe. You can do it, Jin Taekyung!
 
 *……I get it, so calm down.*
 
-He had radiated such overwhelming force in the assembly hall, yet Jin Wikyung was once again living up to my expectations.
+He had radiated such overwhelming authority in the assembly hall, yet Jin Wikyung was once again living up to my expectations.
 
 *Still, he’s a hundred times better than having no one.*
 
@@ -188,13 +188,13 @@ At least someone would save me before I ended up half crippled.
 
 With Jin Wikyung and Wipeng, I had two life insurance policies. Excellent.
 
-But the moment I looked at Lee Seogeun with a much lighter heart, I took that thought back.
+But the moment I looked at Lee Seogeun with my heart slightly lighter, I took that thought back.
 
 *What’s so excellent about this? Fuck.*
 
 Now I understood why the Mount Heng Sword Sect’s people had been so confident.
 
-Lee Seogeun suddenly stripped off his upper garments, and my breath caught at the muscles writhing like some kind of mollusk.
+Lee Seogeun suddenly stripped off his upper garments, and my breath caught at the muscles writhing like mollusks beneath his skin.
 
 > **System**
 >
@@ -214,7 +214,7 @@ Ding.
 
 Perhaps he noticed my reaction, because Lee Seogeun gave me a cruel smile.
 
-“Do you understand the situation now? Your breath is caught, and your hands and feet are tingling, aren’t they?”
+“Do you understand the situation now? Your breath catches, and your hands and feet start tingling, don’t they?”
 
 He could read minds now, too?
 
@@ -232,7 +232,7 @@ I deliberately composed my expression before answering.
 
 “Oh? Putting on airs because you’re the son of a martial family, are you?”
 
-Lee Seogeun laughed as if I were ridiculous.
+Lee Seogeun laughed as though I were ridiculous.
 
 “Let me ask you one thing. What gave you the confidence to accept this duel? Your martial arts are pathetic, and you’re known as a coward. I want to hear your reason.”
 
@@ -242,23 +242,23 @@ No matter how much I thought about it, this was the only way.
 
 If war broke out, I would become a public enemy of the Mount Heng Sword Sect.
 
-Hunting? Leveling up? I could forget about it. The moment I stepped outside the fence of the Jin Family of Taiyuan, assassins who caught my scent would come running.
+Hunting? Leveling up? I could forget about it. The moment I stepped outside the protection of the Jin Family of Taiyuan, assassins who caught my scent would come running.
 
 *As long as I stay alive, there’ll be another chance.*
 
-I had magic. The recovery magic called leveling up.
+I had magic. The healing magic called leveling up.
 
 My mind eased slightly.
 
 “I thought someone like you might be manageable.”
 
-“Pfft! You’re just a wet-behind-the-ears pup.”
+“Pfft! You ignorant little pup.”
 
 It was a mild provocation, but it didn’t work. He was confident in his abilities, and it showed in his relaxed manner.
 
 “Is it my turn to ask a question now?”
 
-“I never said I’d answer them… but I’ll indulge you as if they were your last words.”
+“I never said I’d answer… but I’ll indulge you as if it were your last request.”
 
 “This incident. You fabricated it, didn’t you?”
 
@@ -268,7 +268,7 @@ That expression was answer enough.
 
 *So I was right.*
 
-I had wondered if that was the case, but sure enough. No wonder the whole thing had smelled rotten from beginning to end.
+I’d suspected as much. No wonder the whole thing had stunk from beginning to end.
 
 “You petty bastards. You should’ve just declared war.”
 
@@ -276,13 +276,13 @@ I had wondered if that was the case, but sure enough. No wonder the whole thing 
 
 Lee Seogeun lifted his massive greatsword and muttered ominously.
 
-I raised the Sharp Spear I had taken out beforehand.
+I leveled the Sharp Spear I had taken out beforehand.
 
 *All right. Let’s do this.*
 
 I had learned martial arts. I also had instincts honed through seven years of real combat.
 
-An F-rank Hunter and a Second Rate Murim martial artist. Don’t underestimate the skills I’d honed working two jobs!
+An F-rank Hunter and a second-rate Murim martial artist. Don’t underestimate the skills I’d honed working two jobs!
 
 “Graaah!”
 
@@ -292,7 +292,7 @@ Kra-kra-kraang.
 
 “Urgh.”
 
-I’d worried the Sharp Spear might be cut clean in half, but it was sturdy, as befitted a solid piece of steel. Even so, the force behind the greatsword began driving both my feet into the ground.
+I’d wondered if it would split me in two, but the Sharp Spear was sturdy, being forged from solid steel. Even so, the force behind the greatsword began driving both my feet into the ground.
 
 “Die, you insect!”
 
@@ -302,9 +302,9 @@ Up close, his aura was even more suffocating. Was this what a monster’s Fear f
 
 “Kneel and beg for forgiveness now! Then I’ll let you off with one arm!”
 
-- Little brother!
+- Youngest!
 
-Over Lee Seogeun’s shoulder, I saw Jin Wikyung spring to his feet. The Mount Heng Sword Sect’s people watched while snickering, and the Jin Family people turned their heads away as if they couldn’t bear to watch.
+Over Lee Seogeun’s shoulder, I saw Jin Wikyung spring to his feet. The Mount Heng Sword Sect’s people watched with snickers, while the Jin Family people turned their heads away as if they couldn’t bear to look.
 
 *I have to hold out.*
 
@@ -312,21 +312,27 @@ At least until Jin Wikyung gets here!
 
 “Graaah!”
 
-Lee Seogeun’s greatsword struck from every direction in a relentless barrage. The weapons were clearly clashing, iron against iron, but all I could hear was cannon fire.
+Lee Seogeun’s greatsword came at me from every direction in a relentless barrage. The weapons were clearly clashing, iron against iron, but all I could hear was cannon fire.
 
-Boom! Boom! Boom! I blocked them.
+Boom! Boom! Boom!
+
+I blocked them.
 
 “Graaah!”
 
 “Hup!”
 
-Boom! Boom! I blocked them again.
+Boom! Boom!
+
+I blocked them again.
 
 “Graaah!”
 
 “Haaah!”
 
-Boom! I blocked another.
+Boom!
+
+I blocked another.
 
 “Graaah…”
 
@@ -344,17 +350,17 @@ The instant I saw the bewilderment and confusion in his gaze, I knew he was thin
 
 Lee Seogeun was strong. He had the brute strength of a giant monster, moved with surprising agility for someone so muscular, and swung his massive greatsword like a matchstick.
 
-And that wasn’t all. He was a Young Master of the Mount Heng Sword Sect—a sect that could actually throw its weight around. The martial arts he used had to be quite advanced.
+And that wasn’t all. He was a son of the Mount Heng Sword Sect, a sect with real influence. The martial arts he used had to be fairly advanced.
 
 And yet…
 
 *This is… doable?*
 
-Even now, I was blocking each and every strike of the continuously swinging greatsword. More than twenty attacks. And more than twenty blocks.
+Even now, I was blocking every strike of his greatsword. More than twenty attacks—and more than twenty blocks.
 
 I could see them. That was why I could block them.
 
-I slowly lifted one of my legs, which had been buried in the ground up to the ankle.
+I cautiously lifted one of my legs, which had sunk into the ground up to the ankle.
 
 It came right out.
 
@@ -364,7 +370,7 @@ No way. Surely not.
 
 Ssshwip!
 
-At that moment, I deflected the greatsword flying toward my waist along the shaft of my spear. Then, without thinking, I kicked Lee Seogeun in his unguarded chest.
+At that moment, I deflected the greatsword hurtling toward my waist along the shaft of my spear. Then, without even thinking, I kicked Lee Seogeun square in his exposed chest.
 
 Whack!
 
@@ -372,7 +378,7 @@ Whack!
 
 ……Huh?
 
-Clutching his stomach, Lee Seogeun skidded back five or six steps. Then he casually rubbed the bridge of his nose as if nothing had happened.
+Clutching his chest, Lee Seogeun skidded back five or six steps. Then he casually rubbed the bridge of his nose as if nothing had happened.
 
 “Not bad. You’ve got a trick or two despite being trash.”
 
@@ -384,11 +390,11 @@ Clutching his stomach, Lee Seogeun skidded back five or six steps. Then he casua
 
 “With my next strike, I’ll smash your head—what?”
 
-I raised a hand, looking awkward, and pointed at his mouth.
+I raised a hand and pointed at his mouth, looking thoroughly unimpressed.
 
 “You’re bleeding.”
 
-A beat later, a thin line of blood ran down from the corner of Lee Seogeun’s mouth. He had probably bitten his tongue. That had to hurt.
+A beat later, a thin line of blood ran from the corner of Lee Seogeun’s mouth. He must have bitten his tongue. That had to hurt.
 
 “Ah! Eeng! Eek! Hup!”
 
