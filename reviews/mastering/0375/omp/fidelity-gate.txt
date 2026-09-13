@@ -1,0 +1,35 @@
+{
+  "summary": "Faithful overall, with three minor defects involving an emotional description, a register shift, and the performer of a trick.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "lines 123–124 / [P61]",
+      "current": "Unconcealed anger clung heavily to Jin Wikyung’s deeply sunken eyes.",
+      "defect": "“Deeply sunken eyes” creates a physical description of hollow eye sockets. The Korean describes the subdued depth of Jin Wikyung’s gaze while anger shows through it.",
+      "replacement": "Unconcealed anger lay heavy in the depths of Jin Wikyung’s eyes.",
+      "rationale": "깊게 가라앉은 눈동자 describes the emotional quality or depth of his gaze, not physically sunken eyes.",
+      "confidence": 0.96
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "lines 125–127 / [P63]",
+      "current": "“I know. No—I understand. That is why I ask to be punished.”",
+      "defect": "The self-correction changes the verb from “know” to “understand,” but the Korean repeats 알고 있다 and instead shifts from familiar to respectful speech toward Jin Wikyung.",
+      "replacement": "“I know. No—I am well aware. That is why I ask to be punished.”",
+      "rationale": "알고 있네. 아니, 알고 있소 preserves the same proposition while raising the register; a more formal repetition best approximates that shift in English.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "lines 353–359 / [P166]",
+      "current": "He busted out a new trick right here.",
+      "defect": "The English explicitly assigns the new trick to Cheongpung, although Mimi is the one who performs the commanded maneuver immediately before this reaction.",
+      "replacement": "She busted out a new trick right here.",
+      "rationale": "After Cheongpung gives the command, Mimi performs it with 취리리릭; the omitted Korean subject of 신기술을 써 버리네 is therefore the performing snake.",
+      "confidence": 0.94
+    }
+  ]
+}

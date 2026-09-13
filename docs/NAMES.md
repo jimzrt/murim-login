@@ -37,3 +37,9 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 소림혈사 | **Shaolin Bloodbath** | Earlier attack that galvanized orthodox Murim |
 | 서천마군 | **Western Heaven Demon Lord** | Major obstacle recently overcome by Taekyung |
 | 만독지환 | **Myriad Poison Ring** | Item Taekyung considers taking before departure |
+| 미미 | **Mimi** | Tang Sadok's snake and longtime companion; temporarily entrusted to Cheongpung. |
+| 동봉 | **Dongbong** | Name or designation associated with the Divine Physician. |
+| 신의 | **Divine Physician** | Honorific for the physician treating Tang Sadok. |
+| 백염 | **White Flame** | Previously bound item listed by the System. |
+| 사죄와 용서 | **Atonement and Forgiveness** | Hidden Quest completed by Taekyung. |
+| 당문의 은인 | **Benefactor of the Tang Clan** | Title acquired by Taekyung. |

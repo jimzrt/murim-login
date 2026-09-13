@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "“Because I wanted to see Mimi.”",
+      "defect": "The subject and action are reversed. Mimi expressed a desire to see someone; Cheongpung did not say that he wanted to see Mimi.",
+      "id": "F01",
+      "rationale": "미미가 is the subject of 보고 싶다고 해서요, and the following joke about Cheongpung communicating with Mimi depends on Mimi having conveyed that desire.",
+      "replacement": "“Because Mimi said she wanted to visit.”",
+      "severity": "critical",
+      "source": "“미미가 보고 싶다고 해서요.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "I don’t know how long we walked while breathing in the smell of medicinal decoctions vibrating through the corridors. When we entered the treatment room where a physician wearing a white cloth over his nose and mouth directed us, we were finally able to meet several familiar faces.",
+      "defect": "“Smell … vibrating” is an unnatural literal collocation, and the relative clause incorrectly suggests that the physician directed them while inside the room rather than leading them to it.",
+      "id": "F02",
+      "rationale": "진동하는 describes the medicinal odor permeating the surroundings, while 의원이 안내해 준 의실 means the physician guided them to the treatment room.",
+      "replacement": "Who knew how long we walked through the pervasive smell of medicinal decoctions? At last, the physician whose nose and mouth were covered with white cloth led us into a treatment room, where we came face-to-face with several familiar faces.",
+      "severity": "minor",
+      "source": "사방에서 진동하는 탕약 냄새를 맡으며 얼마나 걸었을까. 하얀 천으로 코와 입을 가린 의원이 안내해 준 의실로 들어서자, 마침내 낯익은 얼굴들과 마주할 수 있었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Tang Sadok shook his pale face and continued, staring straight at me.",
+      "defect": "The physical action is misrendered: Tang Sadok shakes his head, not his face.",
+      "id": "F03",
+      "rationale": "고개를 저은 explicitly means that he shook his head; 창백한 얼굴로 separately describes his pallor.",
+      "replacement": "Pale-faced, Tang Sadok shook his head, stared straight at me, and continued.",
+      "severity": "minor",
+      "source": "창백한 얼굴로 고개를 저은 당사독이 나를 똑바로 응시하며 말을 이었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I know. No—I know that now. That is why I am asking for my crime to be punished.”",
+      "defect": "The draft invents a temporal realization with “now” and loses Tang Sadok’s deliberate shift from familiar speech to a more respectful formal register.",
+      "id": "F04",
+      "rationale": "알고 있네 and 알고 있소 have the same temporal meaning; the correction marks a change in speech level toward Jin Wikyung, not newly acquired knowledge.",
+      "replacement": "“I know. No—I understand. That is why I ask to be punished.”",
+      "severity": "major",
+      "source": "“알고 있네. 아니, 알고 있소. 그렇기에 죄를 청하는 것이오.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“……Do what? Take his life?”",
+      "defect": "The draft changes Tang Sadok’s proposed suicide into Taekyung personally killing him.",
+      "id": "F05",
+      "rationale": "자결 means taking one’s own life. Jin Wikyung has asked whether Tang Sadok would commit suicide if ordered, and Taekyung is repeating that option in disbelief.",
+      "replacement": "“……About what? His suicide?”",
+      "severity": "critical",
+      "source": "“……뭘요. 자결?”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "If I placed a blood relative he had to protect with his life on one side of the scales and an outsider whose face he had seen only a few times on the other, I probably would have made the same choice.",
+      "defect": "The hypothetical begins in Taekyung’s first-person viewpoint but assigns the relationships and duty to Tang Sadok with “he,” weakening Taekyung’s admission that he would make the same choice if personally placed in that role.",
+      "id": "F06",
+      "rationale": "나 역시 establishes Taekyung’s self-comparison: he imagines himself as a Family Head choosing between his own kin and near-strangers.",
+      "replacement": "If, as the head of a family, I had to weigh blood relatives I was duty-bound to protect with my life against outsiders I’d met only a few times, I probably would’ve made the same choice.",
+      "severity": "major",
+      "source": "얼굴 몇 번 본 것이 고작인 외부인과 일가의 가주로서 목숨 걸고 지켜야 할 혈육을 저울에 올려 둔다면 나 역시 그와 같은 선택을 했을 것 같았다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "I was so uneasy that I began to wonder what kind of hellish events were about to happen if the System was handing things out like this.",
+      "defect": "“Hellish events” sanitizes the narrator’s coarse 개 같은 phrasing, while “the System” is an added explicit subject absent from the source.",
+      "id": "F07",
+      "rationale": "개 같은 is deliberately vulgar and calls for ordinary strong profanity; 퍼 주나 leaves the giver implicit.",
+      "replacement": "I was getting downright nervous, wondering what kind of shitty things were about to happen for them to be giving so much away like this.",
+      "severity": "minor",
+      "source": "도대체 앞으로 어떤 개 같은 일들이 벌어지려고 이렇게 퍼 주나 싶어 불안하기까지 할 지경이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Grandpa Tang doesn’t have any other friends.”",
+      "defect": "Cheongpung is speaking directly to Tang Sadok, but the draft abruptly refers to him in the third person.",
+      "id": "F08",
+      "rationale": "당 할아버지께서는 is an honorific topic used while addressing Grandpa Tang directly; the joke depends on Cheongpung bluntly telling him this to his face.",
+      "replacement": "“So you don’t have any other friends, Grandpa Tang.”",
+      "severity": "minor",
+      "source": "“당 할아버지께서는 다른 친구가 없으시군요.”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "**Currently bound items:** **Baekyeom**, **Myriad Poison Ring**, **???**",
+      "defect": "백염 is merely romanized despite having no supplied ledger entry or explanatory first-use footnote.",
+      "id": "F09",
+      "rationale": "백염 literally means “White Flame.” Translating it avoids introducing an unsupported romanized item name and satisfies the terminology rule without an unnecessary footnote.",
+      "replacement": "**Currently bound items:** **White Flame**, **Myriad Poison Ring**, **???**",
+      "severity": "minor",
+      "source": "현재 보유 중인 종속 아이템 : [백염], [만독지환], [???]."
+    }
+  ],
+  "summary": "Two critical subject/action reversals, plus meaningful register, viewpoint, profanity, and terminology issues.",
+  "version": 1
+}
