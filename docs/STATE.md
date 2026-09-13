@@ -1,17 +1,18 @@
 # Translation State
 
-- Last completed: 375
-- Next chapter: 376
-- Current block: 375–379 (1/5)
-- Latest translation: `translations/0375.md`
-- Latest summary: `summaries/beats/0375.md`
-- Safe profiles through: chapter 375
+- Last completed: 376
+- Next chapter: 377
+- Current block: 375–379 (2/5)
+- Latest translation: `translations/0376.md`
+- Latest summary: `summaries/beats/0376.md`
+- Safe profiles through: chapter 376
 
 ## Current Block
 
-- Tang Sadok awakens, and Taekyung, Jin Wikyung, and Cheongpung visit him. Tang Sadok confesses that he revealed the Myriad Poison Ring's location to the Western Heaven Demon Lord in an attempt to preserve the Sichuan Tang Clan. Jin Wikyung asks Taekyung to decide Tang Sadok's punishment, but Taekyung forgives him, acknowledging Tang Sadok's prior help and declaring that the Tang Clan now owes them a great debt.
-- Tang Sadok's sincere apology completes the Hidden Quest Atonement and Forgiveness. Taekyung receives the Benefactor of the Tang Clan Title, tremendous EXP and Fame, and a level up. Tang Sadok then transfers the Myriad Poison Ring to Taekyung, making it a bound item alongside White Flame and the still-unnamed bound item.
-- Tang Sadok offers to grant requests within the Tang Clan's ability. The Divine Physician asks only for the patients to recover, while Cheongpung is temporarily entrusted with Mimi because the clan's future is uncertain. Tang Sadok asks Jin Wikyung to remain for a private conversation, and the Divine Physician asks Taekyung to spare him some time before departing.
+- Jin Taekyung and Cheongpung depart from the Sichuan Tang Clan amid an enormous crowd of martial artists and commoners. Taekyung is now celebrated nationwide as the Blazing Fire Divine Dragon rather than merely as the Sleeping Dragon of Shanxi.
+- Mungyeong and his elderly disciple Dongbong reflect on their first meeting during the Hongwu era. Dongbong lost his wife and two children to an epidemic, was cured and taken in by Mungyeong, and became his disciple. Dongbong accepts Mungyeong's hidden identity as the Slaughter Saint because he knows Mungyeong is also the Divine Physician and never kills without reason.
+- Dongbong warns that a great war will soon bring death, injury, and bereavement on the scale of the catastrophe they once endured. He asks Mungyeong to prevent the war as the Divine Physician, but Mungyeong insists that fighting belongs to others, that his place is not in the Murim, and that he must care for patients. Dongbong announces that their departure is scheduled for the Hour of the Dog from Chengdu's western port.
+- At the port, Taekyung waits with Hyuk Mujin, Gung Gibang, Jeok Cheongang, Jin Wikyung, Cheongpung, and Mimi while Mu Song and the water bandits finish preparing the fast ship. A boy pushes through the farewell crowd just as the ship is leaving, and Taekyung agrees to take one more passenger.
 
 ## Open Questions
 
@@ -21,6 +22,8 @@
 - The outcome and timing of the planned Samgoe escort to Henan remain unresolved.
 - The identity and name of the third bound item remain unresolved.
 - The matter the Divine Physician wants to discuss with Taekyung before his departure remains unresolved.
+- The identity of the boy who arrives at the port and whether he will accompany Taekyung's group remain unresolved.
+- Whether Mungyeong will ultimately intervene in the coming war or leave the Murim remains unresolved.
 
 ## Exceptional Decision
 
@@ -31,6 +34,11 @@
 - Render 반 시진 and 한 시진 as half a shichen and one shichen, with a footnote explaining that a shichen is a traditional two-hour period.
 - Render 종형 as older cousin in this chapter's family context.
 - Render 사죄와 용서 as Atonement and Forgiveness, 당문의 은인 as Benefactor of the Tang Clan, 백염 as White Flame, 동봉 as Dongbong, and 신의 as Divine Physician.
+- Render 인산인해 as “a sea of people.”
+- Render 홍무 as Hongwu and 성도 as Chengdu.
+- Render 술시 as the Hour of the Dog, with a footnote identifying it as a traditional period roughly corresponding to 7–9 p.m.
+- Render 선화아 as boatman and 무송 as Mu Song.
+- Retain Master for 스승님 and render 살귀 as slaughter demon in Mungyeong's self-description.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

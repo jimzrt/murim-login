@@ -1,6 +1,6 @@
 # Gung Gibang (궁기방)
 
-- **Safe through:** Chapter 371
+- **Safe through:** Chapter 376
 - **Aliases:** Future Beggar Chief
 - **Role:** Young beggar and Future Beggar Chief; ally and squadmate of Jin Taekyung
 - **Personality:** Sardonic, competitive, pragmatic, and willing to trade vicious banter with Hyuk Mujin

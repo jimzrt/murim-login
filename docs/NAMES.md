@@ -72,3 +72,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 삼도천 계곡 | **Valley of the Sanzu River** | Valley named after the Buddhist river separating the living world from the afterlife. |
 | 노군백 | **No Gunbaek** | Level 170 opponent named in a System defeat message. |
 | 귀염미 | **Gwiyeommi** | Pen name of a romance novelist. |
+| 홍무 | **Hongwu** | Era name beginning when the civil war ends and a new emperor ascends. |
+| 성도 | **Chengdu** | City whose western port is the departure point. |
+| 선화아 | **boatman** | Nautical title used for Mu Song. |
+| 무송 | **Mu Song** | Bronze-skinned boatman associated with the water bandits. |

@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.91,
+      "current": "Mu Song, whose attention had been stolen for a moment by the rare spectacle, finally spoke with a sour expression.",
+      "defect": "The source describes Mu Song speaking uneasily or awkwardly after witnessing the spectacle; “a sour expression” instead makes him appear displeased and adds a specific facial expression.",
+      "id": "F01",
+      "rationale": "The adverb 떨떠름하게 conveys discomfort, awkwardness, or reluctance in this context, not a sour or resentful facial expression.",
+      "replacement": "Mu Song, whose attention had been stolen for a moment by the rare spectacle, spoke uneasily.",
+      "severity": "minor",
+      "source": "line 311 / P155"
+    }
+  ],
+  "summary": "Faithful overall, with one minor shift in Mu Song’s reaction.",
+  "version": 1
+}
