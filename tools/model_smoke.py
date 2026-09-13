@@ -190,7 +190,7 @@ def run_models(task: str, models: list[str]) -> dict:
         if task == "draft":
             packet_path = out_dir / f"draft-{safe}.packet.md"
             atomic_text(packet_path, draft_packet(source))
-            text, metrics = run_omp(packet_path, model, 720)
+            text, metrics, _call = run_omp(packet_path, model, 720)
             atomic_text(out_dir / f"draft-{safe}.md", text)
             row = {"model": model, "task": "draft", **score_draft(text, reference), "usage": {
                 "input_tokens": metrics.get("input_tokens"),
@@ -202,7 +202,7 @@ def run_models(task: str, models: list[str]) -> dict:
             planted_draft, planted = plant_defects(reference)
             packet_path = out_dir / f"review-{safe}.packet.md"
             atomic_text(packet_path, review_packet(source, planted_draft))
-            text, metrics = run_omp(packet_path, model, 720)
+            text, metrics, _call = run_omp(packet_path, model, 720)
             atomic_text(out_dir / f"review-{safe}.raw.txt", text)
             findings: list[dict] = []
             error = None

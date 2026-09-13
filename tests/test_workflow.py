@@ -8,6 +8,7 @@ from tools import workflow
 from tools import omp_json
 from tools import context
 from tools import mastering
+from tools import progress
 
 
 class WorkflowTest(unittest.TestCase):
@@ -148,7 +149,7 @@ class WorkflowTest(unittest.TestCase):
             "models": {},
         }
         with patch.object(omp_json, "run_json_command", return_value=("answer\n", exact)) as runner:
-            output, metrics = workflow.run_omp(packet, "provider/model:high", 120)
+            output, metrics, _call = workflow.run_omp(packet, "provider/model:high", 120)
         command = runner.call_args.args[0]
         self.assertIn("--mode", command)
         self.assertIn("json", command)
@@ -279,7 +280,7 @@ class WorkflowTest(unittest.TestCase):
             patch.object(context, "profile_entries", return_value=[(profile, compact)]),
         )
         with patches[0], patches[1], patches[2], patches[3], patches[4], patch.object(
-            workflow, "run_omp", return_value=(response, metrics)
+            workflow, "run_omp", return_value=(response, metrics, progress.NullCall())
         ) as model:
             before = (self.root / "docs" / "STATE.md").read_text(encoding="utf-8")
             workflow.command_update(1, True)
@@ -348,7 +349,7 @@ class WorkflowTest(unittest.TestCase):
             "models": {},
         }
         summary = "# Chapters 0–4\n\n## Plot\n\nBlock plot.\n\n## Continuity\n\n- Hook.\n\n## Translation Decisions\n\n- Term.\n"
-        with patch.object(context, "ROOT", self.root), patch.object(workflow, "run_omp", return_value=(summary, exact)):
+        with patch.object(context, "ROOT", self.root), patch.object(workflow, "run_omp", return_value=(summary, exact, progress.NullCall())):
             workflow.command_summarize(4)
         written = paths["checkpoint_summary"].read_text(encoding="utf-8")
         self.assertIn("# Chapters 0–4", written)

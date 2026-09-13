@@ -8,7 +8,6 @@ import json
 import re
 import subprocess
 import sys
-import time
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -99,16 +98,12 @@ def run_workflow_command(chapter: int, action: str) -> None:
     command = match.group(1)
     if command in {"status", "committed"}:
         raise SystemExit(f"workflow returned forbidden automatic action: {action}")
-    print(f"→ workflow {command} {chapter}", flush=True)
-    started = time.monotonic()
     result = subprocess.run(
         [sys.executable, str(ROOT / "tools" / "workflow.py"), command, str(chapter)],
         cwd=ROOT,
     )
-    elapsed = round(time.monotonic() - started)
     if result.returncode:
         raise SystemExit(f"workflow {command} failed with exit code {result.returncode}")
-    print(f"✓ workflow {command} {chapter}  {elapsed}s", flush=True)
 
 
 def run_to_mastered(chapter: int, lock) -> None:
@@ -145,13 +140,11 @@ def commit_mastered(chapter: int) -> None:
         raise SystemExit("refusing to commit unexpected paths: " + ", ".join(unexpected))
     if not changes:
         raise SystemExit("workflow reached MASTERED without checkpointable changes")
-    print(f"Committing {len(changes)} files:", flush=True)
-    for path in changes:
-        print(f"  {path}", flush=True)
+    print(f"  commit      {len(changes)} files", flush=True)
     git("add", "-A")
     git("commit", "-m", f"Accept Chapter {chapter}", capture=False)
     command_committed(chapter, "HEAD")
-    print(f"Chapter {chapter}: COMMITTED", flush=True)
+    print(f"Chapter {chapter}  committed", flush=True)
 
 
 def main() -> int:
@@ -164,7 +157,8 @@ def main() -> int:
     label = "resume" if in_progress is not None else "starting"
     with hold_run_lock(ROOT, holder="run_next", chapter=chapter, stage=stage or label) as lock:
         require_repository(chapter, resume=in_progress is not None)
-        print(f"Chapter {chapter}: {label}", flush=True)
+        print(f"Chapter {chapter}  {label}", flush=True)
+        print(flush=True)
         if stage != "MASTERED":
             run_to_mastered(chapter, lock)
         print_cost_report(chapter)
