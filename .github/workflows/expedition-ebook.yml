@@ -25,10 +25,18 @@ concurrency:
 
 jobs:
   release:
-    if: ${{ hashFiles('translations/0374.md') != '' }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - id: gate
+        name: Wait for Chapter 374
+        run: |
+          if [ -f translations/0374.md ]; then
+            echo "publish=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "Chapter 374 is not committed yet; leaving a successful no-op."
+            echo "publish=false" >> "$GITHUB_OUTPUT"
+          fi
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -44,10 +52,13 @@ jobs:
           sudo apt-get install -y fonts-noto-core fonts-noto-extra fonts-noto-mono
           sudo fc-cache -f
       - name: Validate expedition
+        if: steps.gate.outputs.publish == 'true'
         run: python tools/expedition.py check
       - name: Build PDF and EPUB
+        if: steps.gate.outputs.publish == 'true'
         run: python tools/build.py --format pdf && python tools/build.py --format epub
       - name: Publish expedition release
+        if: steps.gate.outputs.publish == 'true'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           INPUT_TAG: ${{ inputs.release_tag }}

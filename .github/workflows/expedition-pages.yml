@@ -20,13 +20,23 @@ concurrency:
 
 jobs:
   dispatch:
-    if: ${{ hashFiles('translations/0374.md') != '' }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - id: gate
+        name: Wait for Chapter 374
+        run: |
+          if [ -f translations/0374.md ]; then
+            echo "publish=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "Chapter 374 is not committed yet; leaving a successful no-op."
+            echo "publish=false" >> "$GITHUB_OUTPUT"
+          fi
       - name: Validate expedition
+        if: steps.gate.outputs.publish == 'true'
         run: python tools/expedition.py check
       - name: Request Pages build
+        if: steps.gate.outputs.publish == 'true'
         env:
           GH_TOKEN: ${{ secrets.EXPEDITION_PAGES_TOKEN }}
         run: |
