@@ -10,19 +10,19 @@ On the day of the expedition ceremony when this insane stunt took place, their i
 
 The Chinese Martial Arts Alliance.
 
-In other words, they were modern-day Murim martial artists. Made up entirely of non-awakened people, they solemnly declared to hundreds of cameras, their robes fluttering:
+In other words, they were modern-day Murim martial artists. Made up entirely of non-awakened people, they solemnly declared their intentions toward hundreds of cameras, their robes fluttering in the wind.
 
-*Today, China’s thousand-year martial lineage will be reborn in all its glory.*
+*Today, the thousand-year martial lineage of China will be reborn in all its glory.*
 
 It certainly was glorious. Their faces had been plastered across the front pages of all kinds of news outlets in less than half a day.
 
 > **Chinese Martial Arts Alliance: Twenty-Five Members Massacred in an F-Rank Gate. More Than Half Confirmed Dead from Goblin Poison Needles…**
 
-I didn’t know how impressive a thousand-year martial lineage was supposed to be, but the incident humiliated China, and the Chinese Martial Arts Alliance was left with nothing but its signboard.
+I didn’t know how impressive a thousand-year martial lineage was supposed to be, but the incident brought immense disgrace upon China, and the Chinese Martial Arts Alliance was left with nothing but its signboard.
 
 *It got completely wrecked.*
 
-Some of the most renowned martial artists on the continent were killed by goblin poison needles, and a tai chi master gets beaten senseless by a mixed martial arts fighter.
+Some of the most renowned martial artists on the continent were killed by goblin poison needles, and a tai chi master was beaten senseless by a mixed martial arts fighter.
 
 That was reality. I had thought the scenes from novels and movies were fiction dressed up in media spectacle and mystery.
 
@@ -32,7 +32,7 @@ Now, I wasn’t so sure. The movements Hyuk Mujin had shown me were *real*.
 
 As I learned martial arts myself, my doubts gradually turned into certainty. There was nothing weak or floppy about the martial arts here, unlike in reality.
 
-The martial arts of this world were systematic and incorporated countless movements. Real-world martial arts and boxing couldn’t even compare.
+The martial arts of this world were systematic and involved countless movements. They couldn’t even be compared with real-world martial arts or boxing.
 
 *How is this possible? Is it simply because this is a game?*
 
@@ -40,23 +40,23 @@ Ssshh. Hooouu.
 
 As I breathed, I sensed the energy outside my body and drew it in.
 
-Compared to the ten years of internal energy rotating through my acupoints, it was nothing but a speck of dust—small and weak. But I was in no position to be picky about even that.
+Compared to the ten years of internal energy rotating through my acupoints, it was nothing but a speck of dust—small and weak. But I was in no position to complain about even that.
 
 *One circuit. Two…*
 
-I continued circulating my qi according to the formula of the Jin Family’s Cultivation Technique. It came naturally, as if I had been practicing it since childhood.
+I continued circulating my qi according to the formula of the Jin Family’s Cultivation Technique. It was a natural action, as if I had been practicing it since childhood.
 
 *Gyeonjeong, Amun, Bongan, Ip-dong…*
 
-Names of acupoints I had never heard or seen in all my twenty-seven years surfaced and vanished in my mind. Hundreds of them had been engraved into my memory like that. Just how far did the System’s functions go?
+Names of acupoints I had never heard or seen in my twenty-seven years surfaced and vanished in my mind. Hundreds of acupoints had been engraved into my memory like that. Just how far did the System’s functions go?
 
 *Now that I think about it, it’s downright bizarre.*
 
-The human brain wasn’t a computer. But the System had entered the information into my mind as if it had copied and pasted a file. The same was true of the other martial arts.
+The human brain wasn’t a computer. But the System had entered the information into my mind as if it had copied and pasted a file. The other martial arts were the same.
 
 Was a phenomenon like this possible? Simply because this was a game?
 
-*No. For now, focus only on circulating qi.*
+*No. For now, focus on circulating qi.*
 
 I steadied my breathing again and guided my internal energy. Only after circulating the ten years of internal energy through twelve complete circuits according to the formula of the Jin Family’s Cultivation Technique did I open my eyes.
 
@@ -72,7 +72,7 @@ Ding.
 
 “Whew.”
 
-The Third Stage of the Jin Family’s Cultivation Technique was within reach. Maybe it was because I had started from the very bottom, but the pace felt fairly fast.
+The Third Stage of the Jin Family’s Cultivation Technique was within reach. I didn’t know whether it was because I had started from the very bottom, but it felt like a fairly fast pace.
 
 *Or it could be thanks to the Item.*
 
@@ -94,7 +94,7 @@ It was the Item I had received as a Reward for completing the **Unity of Self an
 >
 > **Description:** A very hard ring made of a material that cannot be identified. It calms the wearer’s mind and helps with concentration.
 
-The Clear-Heart Pill. It looked different from the one I knew, but its effect was similar. Ever since I put it on, it had taken me less time to settle into circulating qi, and the Mastery I gained had increased.
+The Clear-Heart Pill. Its form was different from the one I knew, but its effects were similar. After I put it on, the time it took me to settle into circulating qi had definitely shortened, and the Mastery I gained had increased.
 
 *It’s good, but…*
 
@@ -102,9 +102,9 @@ I still felt uneasy. I could chalk Logout up to the technical territory of engin
 
 *Was I supposed to call it the feeling of something being forcibly injected into me?*
 
-All of it helped me survive, but it certainly wasn’t pleasant. This game was a piece of shit in so many ways.
+Even if it helped me survive, it clearly wasn’t a pleasant experience. This game was a piece of shit in so many ways.
 
-“What the hell is this Seong Jinho guy doing? Some goshiwon manager[^1] he is.”
+“What the hell was this Seong Jinho guy doing? That so-called goshiwon manager.[^1]”
 
 If he’d gotten up, he should have woken me so we could at least have a bowl of hangover soup. And yet, the fact that nothing had changed even now meant…
 
@@ -112,7 +112,7 @@ If he’d gotten up, he should have woken me so we could at least have a bowl of
 
 At the very least, I was still alive in the real world. That was why I could still exist in this game as a player.
 
-I was alive in reality and in the game. And I would get out alive, no matter what. I had too much to live for, and my burden was too heavy, to die a pointless death like this.
+I was alive in reality and in the game. And I would get out alive, no matter what. My life was too precious, and my burdens were too heavy, to die a pointless death like this.
 
 *I can’t die here.*
 
@@ -122,9 +122,9 @@ As the internal energy in my dantian began to move, I started yet another sessio
 
 * * *
 
-It was my second day in the training hall.
+It was the second day since I entered the training hall.
 
-I devoted myself to training without rest. I threw myself into the Spear Technique and Manoeuvre Technique like a madman, and whenever I completely depleted my internal energy, I immediately began circulating qi.
+I devoted myself to training without stopping. I trained in the Spear Technique and Manoeuvre Technique like a madman, and whenever my internal energy was completely depleted, I immediately began circulating qi.
 
 Ding.
 
@@ -132,27 +132,27 @@ Ding.
 >
 > - The realm of **Jin Family’s Cultivation Technique** has risen to the Third Stage.
 >
-> - Your internal energy has become purer, allowing you to circulate your qi more efficiently.
+> - Your internal energy has become purer, allowing for more efficient circulation of qi.
 
 The Third Stage of the Jin Family’s Cultivation Technique. It had progressed more slowly than the other two, but it wasn’t bad. No, I was trying to think of it that way.
 
 *I had to think of it that way if I was going to hold on.*
 
-At least while I was training in martial arts, I could shake off my dark thoughts. For that, I was grateful.
+At least martial arts training allowed me to shake off my dark thoughts. For that, I was grateful.
 
 Swish. Ssshk.
 
-I performed the forms of the Jin Family’s Spear Technique in order. Ever since I realized how it connected with the Jin Family’s Manoeuvre Technique, my attacks had grown more precise and sharper, sweeping through the empty space before me.
+I performed the forms of the Jin Family’s Spear Technique in order. Ever since realizing its connection with the Jin Family’s Manoeuvre Technique, my attacks had grown more precise and sharper, sweeping through the empty space ahead of me.
 
-I was picturing someone in that empty space.
+I was projecting someone into that empty space.
 
 *Hyuk Mujin.*
 
 The first genuine martial artist I had met in this game. A Level 20 powerhouse who had toyed with me like a child.
 
-*Could I beat that bastard as I am now?*
+*Could I beat that bastard in my current condition?*
 
-The question had just crossed my mind when—
+That was the moment the question crossed my mind.
 
 Ding.
 
@@ -160,7 +160,7 @@ Ding.
 >
 > - A new function, **Training Mode**, has been activated.
 >
-> - You can summon illusions of opponents you have fought so far. However, opponents whose Level differs from yours by ten or more cannot be summoned.
+> - You can summon illusions of opponents you have fought so far. However, opponents whose Level differs from the user’s by ten or more cannot be summoned.
 >
 > - Currently summonable opponents: **Lv. 20 Hyuk Mujin**, **Lv. 10 Heavenly Axe**
 
@@ -174,11 +174,11 @@ Training Mode? I could summon illusions of opponents I had fought so far? After 
 >
 > - Summoning **Lv. 20 Hyuk Mujin**.
 
-The instant the System notification appeared, a transparent figure abruptly sprang into existence. He wore the navy martial uniform of the Jin Family of Taiyuan and had Hyuk Mujin’s distinctive caterpillar eyebrows. Standing there with his eyes closed, he looked exactly like Hyuk Mujin.
+The moment the System notification appeared, a transparent figure abruptly sprang into existence. He wore the navy martial uniform of the Jin Family of Taiyuan and had Hyuk Mujin’s distinctive caterpillar eyebrows. The figure stood with his eyes closed, looking exactly like Hyuk Mujin.
 
 “Holy shit, it’s real.”
 
-I approached cautiously and reached out to touch him. Maybe it was because he was an illusion, but my hand passed straight through his body.
+I carefully approached and touched Hyuk Mujin’s body. But perhaps because it was an illusion, my hand passed straight through him.
 
 *Good. That passes the safety test.*
 
@@ -190,9 +190,9 @@ I approached cautiously and reached out to touch him. Maybe it was because he wa
 
 > **System**
 >
-> - Entering data for **Lv. 20 Hyuk Mujin**. The illusion can use 50% of the original’s abilities.
+> - Entering the data for **Lv. 20 Hyuk Mujin**. The illusion can use 50% of the original’s abilities.
 
-At the same moment, Hyuk Mujin’s illusion opened his eyes. Maybe his personality had been copied along with his abilities, because he gave me the same insolent look.
+At the same time, Hyuk Mujin’s illusion opened his eyes. Perhaps his personality had been copied along with his abilities, because he looked at me with the same insolent gaze.
 
 > **System**
 >
@@ -202,15 +202,15 @@ At the same moment, Hyuk Mujin’s illusion opened his eyes. Maybe his personali
 
 Ding.
 
-The System notification was the starting signal. I charged in like lightning and thrust my spear. Even though I was fighting an illusion, I poured out my internal energy without holding anything back.
+The System notification was the starting signal. I charged forward like lightning and thrust my spear. Even though I was fighting an illusion, I poured out my internal energy without holding anything back.
 
 *First form.*
 
-It began with a thrust as I advanced, followed by a twist of the spear shaft. If the enemy failed to evade the first attack, the fight ended there.
+It began with a thrust as I advanced, followed by a twist of the spear shaft. If the enemy couldn’t evade the first attack, the fight was already over.
 
 Ssshwip—
 
-But Hyuk Mujin slipped away like a loach. In that instant, the next movement became pointless.
+But Hyuk Mujin slipped away with the movement of a loach. That made the next movement pointless.
 
 *Let’s see if you can dodge this, too.*
 
@@ -220,29 +220,29 @@ For an instant, it seemed a sneer crossed his opaque face.
 
 *How can you fight so stupidly? A martial artist ought to use martial arts.*
 
-Those were the words he had thrown at me while toying with me last time. He was nothing more than an illusion I had created, but…
+Those were the words he had used when he toyed with me last time. He was nothing more than an illusion I had created, but…
 
 *God, that’s pissing me off.*
 
 *If you’re so confident, stop dodging and come at me.*
 
-Hyuk Mujin picked up on my thought and rushed at me in a smooth glide. But this was a fight between a spear and a fist. If I let him land that attack, it would mean I’d wasted the last seven years.
+Hyuk Mujin picked up on my thought and rushed at me in a smooth glide. But this was a fight between a spear and a fist. If I let him land that attack, it would mean I had spent the last seven years digging holes for nothing.
 
-“Not so fast!”
+“Where do you think you’re going!”
 
 Whoom—
 
-I swung the spear shaft. If he had been real instead of an illusion, it would have made a solid *thwack*. Even if he had dodged it, he would have failed to close the distance.
+I swung the spear shaft. If the illusion had been real, it would have made a solid *thwack*. Even if he had dodged it, he would have failed to close the distance.
 
 *Let’s see how far you can dodge.*
 
-The second form began. Faced with the torrent of attacks, Hyuk Mujin didn’t even dare approach. He retreated step by step.
+I launched into the form. Faced with the torrent of attacks, Hyuk Mujin didn’t even dare to approach. He retreated step after step.
 
 Combat had a flow. I had caught that flow, and Hyuk Mujin had been swept along by it. Looking at Hyuk Mujin rolling across the ground with an exhausted expression, I thought,
 
 *He’s weak.*
 
-I could see his movements. The Hyuk Mujin projected here was a fist fighter. By watching his feet, I could tell how he would move and predict what he would do next. His fists couldn’t reach me.
+I could see his movements. The Hyuk Mujin projected here was a fist fighter. I could tell how he would move by watching his feet, and I could predict his next action. His fists couldn’t reach me.
 
 Ssshk-swish-swish!
 
@@ -262,7 +262,7 @@ I had even held the upper hand throughout the entire battle, only for it to end 
 
 *Was half just too weak?*
 
-I sank into thought as I circulated my qi to recover the internal energy I had depleted.
+I fell into thought while recovering the internal energy I had depleted by circulating qi.
 
 Hyuk Mujin was Level 20 and a martial artist who had trained in martial arts for at least several years. There was no way he could be this weak.
 
@@ -270,9 +270,9 @@ Hyuk Mujin was Level 20 and a martial artist who had trained in martial arts for
 
 I stood up with the spear in my hand and closed my eyes, imagining a new Hyuk Mujin.
 
-A height of 180 centimeters. Lean muscles and insolent eyes. I fed in the movements I had seen back then. When I opened my eyes, an illusion exactly as I had imagined stood before me.
+A height of 180 centimeters. Lean muscles and insolent eyes. I infused him with the movements I had seen back then. When I opened my eyes, an illusion exactly as I had imagined stood before me.
 
-But I wasn’t finished. Hyuk Mujin needed to be stronger.
+But it still wasn’t over. Hyuk Mujin had to be stronger.
 
 *Your physical abilities are superior to mine.*
 
@@ -280,7 +280,7 @@ After I fed in a few more conditions, Hyuk Mujin’s illusion smiled pleasantly.
 
 “Yeah. Now this is worth fighting.”
 
-Those words were the starting signal. As Hyuk Mujin charged at me like a streak of light, I thrust my spear.
+Those words were the starting signal. I thrust my spear at Hyuk Mujin as he charged toward me like a ray of light.
 
 Ssshk-swish!
 
@@ -288,11 +288,11 @@ Ssshk-swish!
 
 Vroooom. Boom!
 
-The spearhead tore through the air. The air burst with the drone of a swarm of bees, stirring up a gust of wind. It was the final form of the Jin Family’s Spear Technique: Sky-Piercing Strike.
+The spearhead tore through the air. The air burst with the sound of a swarm of bees, bringing a gust of wind with it. It was the final form of the Jin Family’s Spear Technique: Sky-Piercing Strike.
 
 “Kheugh…”
 
-Hyuk Mujin’s illusion looked down at the gaping hole in his chest, disbelief filling his eyes. Then his knees buckled, and the illusion scattered.
+Hyuk Mujin’s illusion looked down at his gaping chest. His eyes held pure disbelief. Then his knees buckled, and the illusion scattered.
 
 “This isn’t right.”
 
@@ -302,13 +302,13 @@ I scratched my head roughly as I heard the message that my Mastery of the Jin Fa
 
 Had the System made a mistake, or…
 
-*Did I just get stronger?*
+*Did I simply become stronger?*
 
 I brushed the thought away as soon as it came to me. That couldn’t be it. I wasn’t some peerless genius. I had only learned a couple of martial arts.
 
-*At this rate, it isn’t much use.*
+*At this rate, this isn’t very useful.*
 
-This was supposed to be a simulation to test what would happen if I faced a powerful opponent. What was the point if I kept winning?
+This was supposed to be a simulation for testing what happened when I fought a powerful opponent. If I kept winning, what was the point?
 
 If I at least knew which martial arts Hyuk Mujin had learned, I could draw out their power. But wait.
 
@@ -322,17 +322,17 @@ Yeah. That would be better.
 
 “You think so too, right?”
 
-At some point, Hyuk Mujin’s illusion had reappeared. He grinned and nodded.
+Hyuk Mujin’s illusion had reappeared at some point. It grinned and nodded.
 
 “Then let’s fight again.”
 
-I raised the spear diagonally and took one step forward with my left foot. Like a mirror, the illusion assumed the same stance.
+I raised the spear diagonally and took one step forward with my left foot. The illusion assumed the same stance as if it were looking in a mirror.
 
 “You’ll regret this.”
 
 “Regret, my ass.”
 
-Now I was even talking to an illusion. If anyone saw me, there would be no convincing them I wasn’t completely insane.
+I was even talking to an illusion now. Anyone who saw me would have no choice but to call me a certifiable lunatic.
 
 “Crazy bastard.”
 
@@ -340,9 +340,9 @@ Now I was even talking to an illusion. If anyone saw me, there would be no convi
 
 “You’re dead.”
 
-Without hesitation, I pointed my spear at him.
+Without hesitation, I pointed the spear at him.
 
-The same weapon. The same martial arts. This looked like it would be an interesting fight.
+Same weapon. Same martial arts. It looked like it would be an interesting fight.
 
 “Interesting? You really are a lunatic.”
 
@@ -350,4 +350,4 @@ Yeah. I suppose so.
 
 Finding this fun in a situation like this meant I was pretty damn crazy, too.
 
-[^1]: A goshiwon is inexpensive lodging made up of tiny private rooms, often rented by students preparing for major exams.
+[^1]: A goshiwon is cheap boarding made up of tiny private rooms, often rented by exam students.
