@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Nearly seven days and nights had passed since the horrific day of the Three-Sect Bloodbath.",
+      "defect": "“Nearly seven” changes the stated elapsed time to less than seven days; the source says seven days and nights had already passed.",
+      "id": "F01",
+      "rationale": "어언 marks the realization that the full period has already elapsed, while 칠 주야 specifies exactly seven days and nights.",
+      "replacement": "Seven days and nights had already passed since the horrific day of the Three-Sect Bloodbath.",
+      "severity": "critical",
+      "source": "참혹했던 삼문혈사의 그날로부터 어언 칠 주야."
+    },
+    {
+      "confidence": 0.97,
+      "current": "His older cousin, on the other hand, was an extraordinary figure not only in age but also in his standing within Murim.",
+      "defect": "“Extraordinary in age” is unnatural and misstates the comparison; the source says his cousin was considerably older as well as eminent in Murim.",
+      "id": "F02",
+      "rationale": "연배 refers to age or seniority, not to the cousin’s age being extraordinary.",
+      "replacement": "His older cousin, on the other hand, was considerably older and held an eminent position in Murim.",
+      "severity": "major",
+      "source": "반면 그의 종형은 연배는 물론이거니와 무림에서의 입지도 대단한 인물이었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "It was because it was the Tang Clan. Even if you took away the ‘Sichuan’ from its name, that fact would not change.",
+      "defect": "The translation omits 오직, weakening the exclusive causal claim that forms the core of Jin Wikyung’s argument for relocation.",
+      "id": "F03",
+      "rationale": "오직 means “solely” or “only”; Jin Wikyung is asserting that the clan endured because of its identity as the Tang Clan, not because of its location.",
+      "replacement": "It was solely because it was the Tang Clan. Even if you took away the ‘Sichuan’ from its name, that fact would not change.",
+      "severity": "major",
+      "source": "오직 당문(唐門)이었기 때문입니다. 앞의 두 글자를 떼어 낸다 한들 그 사실은 변하지 않습니다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“…”",
+      "defect": "The spoken reaction 저런 is omitted and replaced with silence, removing Jin Wikyung’s mild expression of dismay.",
+      "id": "F04",
+      "rationale": "저런 is an audible, restrained reaction to Samgoe’s condition, not an unspoken pause.",
+      "replacement": "“Oh dear.”",
+      "severity": "minor",
+      "source": "“……저런.”"
+    }
+  ],
+  "summary": "Four actionable findings: one altered time quantity, one distorted age comparison, one weakened causal emphasis, and one omitted reaction.",
+  "version": 1
+}

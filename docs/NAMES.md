@@ -24,3 +24,16 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 입동 | **Ip-dong** | Acupoint |
 | 갱생권 | **Reformation Fist** | Jin Mukyung's named fist technique |
 | 금나수 | **grappling technique** | Close-combat wrist-lock technique; rendered descriptively |
+| 사천당문 | **Sichuan Tang Clan** | The Tang family and clan of Sichuan |
+| 독룡각 | **Poison Dragon Pavilion** | Pavilion led by Tang Horyong |
+| 당호룡 | **Tang Horyong** | Acting Family Head of the Sichuan Tang Clan |
+| 만독수라 | **Myriad-Poison Asura** | Epithet of Tang Sadok |
+| 당사독 | **Tang Sadok** | Poison King and Family Head of the Sichuan Tang Clan |
+| 경천신니 | **Heaven-Shaking Divine Nun** | Murder victim named alongside Tang Sadok |
+| 삼문혈사 | **Three-Sect Bloodbath** | Recent attack on three major orthodox sects |
+| 삼괴 | **Samgoe** | Principal culprit being escorted to Henan |
+| 구파일방 | **Nine Sects and One Gang** | Major orthodox organizations |
+| 오대세가 | **Five Great Families** | Major orthodox families |
+| 소림혈사 | **Shaolin Bloodbath** | Earlier attack that galvanized orthodox Murim |
+| 서천마군 | **Western Heaven Demon Lord** | Major obstacle recently overcome by Taekyung |
+| 만독지환 | **Myriad Poison Ring** | Item Taekyung considers taking before departure |

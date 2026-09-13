@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "“Hold on, hyung. Let’s talk after you let go. Let go.”",
+      "defect": "Taekyung already calls Jin Wikyung “hyung,” so Wikyung’s immediate complaint that he said “hyungnim” and should use “hyung” has no logical trigger.",
+      "id": "C01",
+      "rationale": "The replacement restores the intended contrast between the stiff “hyungnim” and the familiar “hyung,” preserving Wikyung’s complaint and the brothers’ established comic dynamic.",
+      "replacement": "“Hold on, hyungnim. Let’s talk after you let go. Let go.”",
+      "severity": "major",
+      "source": "Chapter 374, Jin brothers’ reunion"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“To be precise, when I first left Henan, my purpose was to find the murderers who killed the late Poison King Tang Sadok and the Heaven-Shaking Divine Nun. But the situation changed considerably along the way.”",
+      "defect": "Calling Tang Sadok “the late Poison King” directly contradicts the surrounding chapter, which establishes that he is unconscious and ends with his awakening.",
+      "id": "C02",
+      "rationale": "This preserves Jin Wikyung’s original understanding when he departed Henan while making clear that Tang Sadok’s reported death was mistaken, consistent with both the earlier coma reference and the chapter-ending awakening.",
+      "replacement": "“To be precise, when I first left Henan, my purpose was to find the murderers believed to have killed Poison King Tang Sadok and the Heaven-Shaking Divine Nun. But the situation changed considerably along the way.”",
+      "severity": "major",
+      "source": "Chapter 374, Tang Horyong and Jin Wikyung’s meeting"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“As you just said, Sir Tang, you are the acting Family Head. Naturally, you cannot leave the members of the Tang Clan behind and go.”\n\n“...!”",
+      "defect": "The reaction uses three periods instead of the required single ellipsis character.",
+      "id": "C03",
+      "rationale": "The binding Markdown rules require the ellipsis character throughout the English reading copy.",
+      "replacement": "“As you just said, Sir Tang, you are the acting Family Head. Naturally, you cannot leave the members of the Tang Clan behind and go.”\n\n“…!”",
+      "severity": "minor",
+      "source": "Chapter 374, Tang Horyong realizes the relocation proposal"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“It was solely because it was the Tang Clan. Even if you took away the ‘Sichuan’ from its name, that fact would not change.”\n\n“...!”",
+      "defect": "The reaction uses three periods instead of the required single ellipsis character.",
+      "id": "C04",
+      "rationale": "The binding Markdown rules require the ellipsis character throughout the English reading copy.",
+      "replacement": "“It was solely because it was the Tang Clan. Even if you took away the ‘Sichuan’ from its name, that fact would not change.”\n\n“…!”",
+      "severity": "minor",
+      "source": "Chapter 374, Jin Wikyung reassures Tang Horyong about the clan’s identity"
+    }
+  ],
+  "summary": "Two major internal contradictions disrupt otherwise consistent voice and continuity: the reunion dialogue names the wrong form of address, and Tang Sadok is called dead despite being established as comatose. Two System-wide ellipsis-style violations are also actionable.",
+  "version": 1
+}
