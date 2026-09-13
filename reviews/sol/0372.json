@@ -1,0 +1,126 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "I had been walking with that question in mind for some time when the broad passage finally came to an end.\n\nA new space opened before us, wide enough for ten sturdy men to walk side by side.",
+      "defect": "The draft transfers the ten-man width from the passage to the newly revealed space, changing the cavern's physical layout.",
+      "id": "F01",
+      "rationale": "The source explicitly describes the road that ends as wide enough for ten men abreast; the dimensions of the new chamber are given separately afterward.",
+      "replacement": "I had been walking with that question in mind for some time when the broad passage—wide enough for ten sturdy men to walk side by side—finally came to an end, and a new space opened before us.",
+      "severity": "critical",
+      "source": "한 줄기 의문을 품은 채 얼마나 걸었을까.\n\n장정 열 명이 나란히 걸어도 될 만한 넓은 길이 끝나고 마침내 새로운 공간이 모습을 드러냈다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“No. I think this is the first time I’ve heard either of you mention that formation.”",
+      "defect": "The draft implies that the formation itself has not previously been mentioned, even though the preceding conversation discussed it extensively. The source refers specifically to what the two Sect Leaders just said about it.",
+      "id": "F02",
+      "rationale": "방금 두 분께서 진법에 관해 나누신 이야기 means the conversation the two of them just had about the formation, namely its ability to transport people.",
+      "replacement": "“No. I think this is the first time I’ve heard what you two just said about the formation.”",
+      "severity": "major",
+      "source": "“아니. 방금 두 분께서 진법에 관해 나누신 이야기를 저는 처음 듣는 것 같아서요.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "It is an absurd claim, and we have no way of knowing how much of it to believe, but he said Dark Heaven used it to travel hundreds of li in an instant.",
+      "defect": "The draft adds that the transportation was instantaneous, introducing an unsupported operational detail about the formation.",
+      "id": "F03",
+      "rationale": "The source says the formation allowed Dark Heaven to cross a distance of hundreds of li; it does not state how long the movement took.",
+      "replacement": "It is an absurd claim, and we have no way of knowing how much of it to believe, but he said Dark Heaven used it to cross hundreds of li.",
+      "severity": "critical",
+      "source": "어디까지 믿어야 할지 알 수 없는 허무맹랑한 소리지만…… 암천은 저 진법을 통해 수백 리 거리를 뛰어넘어 이동했다고 하네."
+    },
+    {
+      "confidence": 0.96,
+      "current": "*They got away with it just fine in Muk-hyeong.[^2] Damn it. I shouldn’t have read a series that never even got an ending.*",
+      "defect": "The draft invents a plural subject committing or evading some wrongdoing, and turns a sigh into profanity.",
+      "id": "F04",
+      "rationale": "잘만 넘어가던데 refers to the comparable device or transition working in the novel, not to unidentified people getting away with something. 후 is an exhaled sigh, not a curse.",
+      "replacement": "*It worked just fine in Muk-hyeong.[^2] Sigh. I shouldn’t have bothered reading something that never even got an ending.*",
+      "severity": "major",
+      "source": "‘묵형에서는 잘만 넘어가던데. 후, 완결도 안 나는 걸 괜히 봐 가지고.’"
+    },
+    {
+      "confidence": 0.93,
+      "current": "“You’re not entirely blind, at least.”",
+      "defect": "The draft removes the deliberately insulting image and makes the backhanded compliment comparatively neutral, weakening the ensuing uncertainty over whether it was praise or abuse.",
+      "id": "F05",
+      "rationale": "개눈깔 is a coarse, contemptuous reference to someone's eyes. The replacement preserves the insult while retaining the grudging acknowledgment that Jin detected the formation.",
+      "replacement": "“So your eyes aren’t completely useless after all.”",
+      "severity": "major",
+      "source": "“아주 개눈깔은 아니로군.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Nothing. I was just thinking that the Slaughter Saint is a remarkably dishonest fellow.”",
+      "defect": "“Dishonest” characterizes the Slaughter Saint as deceitful rather than unable to express his honest feelings, obscuring Jeok Cheongang's recognition that the insult was indirect praise.",
+      "id": "F06",
+      "rationale": "솔직하지 못하다 here means that he cannot be frank or straightforward, not that he habitually lies.",
+      "replacement": "“Nothing. I was just thinking that the Slaughter Saint is remarkably bad at being honest about his feelings.”",
+      "severity": "major",
+      "source": "“그냥. 살성 저놈도 어지간히 솔직하지 못한 놈이구나, 하는 생각이 들어서.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "*I nearly turned the Slaughter Saint into the Rice Saint. Compared to that, this is downright civilized.*",
+      "defect": "The literal “Rice Saint” preserves only the surface homophone and loses the sexual meaning of 쌀성, which depends on the preceding wet-dream incident.",
+      "id": "F07",
+      "rationale": "쌀성 puns on 살성 and the slang verb 싸다, referring euphemistically to ejaculation. “Spurt Saint” preserves both the altered epithet and the sexual joke without making it more explicit than the source.",
+      "replacement": "*I nearly turned the Slaughter Saint into the Spurt Saint. Compared to that, this is downright civilized.*",
+      "severity": "major",
+      "source": "‘살성을 쌀성으로 만들어 버릴 뻔했는데, 이 정도면 양반이지.’"
+    },
+    {
+      "confidence": 0.97,
+      "current": "But it was already too late. As the Slaughter Saint’s eyes grew deeper and more intense, I stammered,\n\n“B-b…”\n\n“Boobs?”\n\n“No, no, not boobs.”",
+      "defect": "The draft omits the Slaughter Saint's twitching eyebrow, Jin's observation that this is his first visible emotion, and the inference that he remembered the wet-dream incident. Its stammer also has no phonetic connection to Jin's eventual explanation that he “just guessed.”",
+      "id": "F08",
+      "rationale": "The source makes the mishearing trigger the Slaughter Saint's first overt emotional response and explicitly connects it to the earlier incident. “J-j…” can plausibly begin both the misheard “jugs” and Jin's intended “just guessed.”",
+      "replacement": "But it was already too late. As the Slaughter Saint’s gaze grew more intense, I stammered,\n\n“J-j…”\n\n“Jugs?”\n\nThe Spurt Saint’s eyebrow twitched. It was the first emotion I had seen from him. He had clearly remembered the wet-dream incident.\n\n“N-no, not jugs.”",
+      "severity": "major",
+      "source": "하지만 이미 너무 늦어 버렸다. 점점 깊어지는 살성의 눈빛에, 나는 더듬더듬 입을 열었다.\n\n“찌, 찌.”\n\n“찌찌?”\n\n쌀성의 눈썹이 꿈틀거렸다. 처음으로 보이는 감정 표현. 몽정 사건을 떠올렸음이 분명하다.\n\n“아, 아니, 찌찌가 아니고요.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "At my question, Cheongpung Ancient Sword, the Sect Leader of the Qingcheng Sect, nodded gravely.",
+      "defect": "The established epithet 청풍고검 is rendered with an unapproved mixed transliteration instead of the binding ledger term.",
+      "id": "F09",
+      "rationale": "The binding glossary establishes 청풍고검 as “Clear Wind Ancient Sword.”",
+      "replacement": "At my question, Clear Wind Ancient Sword, the Sect Leader of the Qingcheng Sect, nodded gravely.",
+      "severity": "minor",
+      "source": "내 물음에 청성파의 장문인인 청풍고검이 무거운 얼굴로 고개를 끄덕였다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "After Cheongpung Ancient Sword, Extinction Divine Nun added,",
+      "defect": "The line repeats the unapproved rendering of 청풍고검 and is awkwardly structured in English.",
+      "id": "F10",
+      "rationale": "The source merely marks Extinction Divine Nun as speaking after Clear Wind Ancient Sword; “Then” preserves that transition without repeating the incorrectly rendered epithet.",
+      "replacement": "Then Extinction Divine Nun added,",
+      "severity": "minor",
+      "source": "청풍고검에 이어 멸절신니가 말을 보탰다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Extinction Divine Nun and Cheongpung Ancient Sword, who had just witnessed the trust between master and disciple being utterly destroyed, awkwardly changed the subject.",
+      "defect": "The established epithet 청풍고검 is again rendered with an unapproved mixed transliteration.",
+      "id": "F11",
+      "rationale": "The binding glossary establishes 청풍고검 as “Clear Wind Ancient Sword.”",
+      "replacement": "Extinction Divine Nun and Clear Wind Ancient Sword, who had just witnessed the trust between master and disciple being utterly destroyed, awkwardly changed the subject.",
+      "severity": "minor",
+      "source": "스승과 제자 간의 신뢰가 박살 나는 현장을 눈앞에서 목격한 멸절신니와 청풍고검이 떨떠름한 얼굴로 화제를 돌렸다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Even a stray dog in a back alley would not have believed that, but Cheongpung Ancient Sword used it to bring the situation to an end before speaking to Extinction Divine Nun with a troubled expression.",
+      "defect": "The established epithet 청풍고검 is again rendered with an unapproved mixed transliteration.",
+      "id": "F12",
+      "rationale": "The binding glossary establishes 청풍고검 as “Clear Wind Ancient Sword.”",
+      "replacement": "Even a stray dog in a back alley would not have believed that, but Clear Wind Ancient Sword used it to bring the situation to an end before speaking to Extinction Divine Nun with a troubled expression.",
+      "severity": "minor",
+      "source": "뒷골목 똥개도 안 믿을 소리로 상황을 일단락한 청풍고검이 그늘진 얼굴로 멸절신니에게 말했다."
+    }
+  ],
+  "summary": "Several scene facts, mechanical details, pragmatic cues, and established terms require correction.",
+  "version": 1
+}

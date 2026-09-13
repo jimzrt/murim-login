@@ -1,0 +1,499 @@
+{
+  "chapter": 372,
+  "decisions": [
+    {
+      "decision": "SOL",
+      "hunk_id": "H001",
+      "reason": "Places accompaniment before location; same meaning, cleaner English word order."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H002",
+      "reason": "SOL’s tighter syntax helps, but 백여 is about/over a hundred, not nearly; ‘nearly’ understates the height.",
+      "replacement": "There was nothing particularly remarkable about it. The cliff rose more than a hundred *jang*[^1], its entire face formed of solid rock."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H003",
+      "reason": "Keep 하지만’s contrast and Jin’s contracted voice; SOL drops the connective, BASE is stiff.",
+      "replacement": "But it didn’t take long for my question to be answered."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H004",
+      "reason": "‘Stopped before’ is natural literary English for 앞에서 without changing the beat."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H005",
+      "reason": "‘Is no exception’ naturalizes 범주를 벗어날 수 없다 better than ‘cannot escape that principle.’"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H006",
+      "reason": "진일보한 is further-honed senses, not newly ‘gained’; ‘sharp’ is extra."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H007",
+      "reason": "눈빛 is gaze, not physical eyes."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H008",
+      "reason": "SOL adds ‘rippled through the air,’ which the Korean does not show."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H009",
+      "reason": "개눈깔 insults his eyes; SOL’s ‘not completely blind’ drops that image after he spots the wall."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H010",
+      "reason": "향해 is toward the cavern, not already into it."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H011",
+      "reason": "Drops dummy ‘feeling’ without changing the irritation."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H012",
+      "reason": "Pronoun is clear in sequence; fronting ‘getting angry’ is more natural."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H013",
+      "reason": "‘Hard to get mad’ matches 화가 나기보다; BASE’s ‘impossible’ overstates it."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H014",
+      "reason": "States the 상대가 상대인지라 motive more directly."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H015",
+      "reason": "‘Acted’ and ‘put up with it’ are more spoken and still match 참아야지."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H016",
+      "reason": "Compresses 감지덕지다 into natural first-person voice without losing the wet-dream beat."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H017",
+      "reason": "이 정도면 양반이지 is comparative civility, not merely ‘getting off easy.’"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H018",
+      "reason": "‘Turned and saw’ drops mechanical 고개 without losing the look."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H019",
+      "reason": "BASE adds ‘about his feelings’; 솔직하지 못한 is simply not honest."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H020",
+      "reason": "Fragment matches terse 뭐지. 최신 유행어인가."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H021",
+      "reason": "They step toward the black cavern; SOL makes them follow him inside."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H022",
+      "reason": "그나저나 is a topic shift, not concessive ‘Still.’"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H023",
+      "reason": "Em-dash folds the commoner’s-pace qualifier in more cleanly."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H024",
+      "reason": "Subject is 나는; ‘seemingly’ is not in 끝없이 이어지는."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H025",
+      "reason": "‘Even the entrance’ captures 입구부터 better than ‘The entrance alone.’"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H026",
+      "reason": "머물렀다 is staying; ‘hiding’ is the next sentence’s 숨어서."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H027",
+      "reason": "‘Lying low…waiting’ is the natural collocation for 숨어서 때를 기다리고."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H028",
+      "reason": "SOL drops 만/‘alone’ for the Tang Clan count."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H029",
+      "reason": "‘Add in those’ is brisker Jin voice for 합친다면 without changing the sum."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H030",
+      "reason": "개방과 하오문 is and, not or; 개판 is worse than ‘bad.’"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H031",
+      "reason": "‘Walk abreast’ and ‘ended and opened into’ tighten the same reveal."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H032",
+      "reason": "‘Slipped out before I knew it’ matches 나도 모르게…흘러나왔다; the mutter is in the next line."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H033",
+      "reason": "‘Could easily hold’ naturalizes 수용하고도 남을; ‘soft glow’ is the same 은은한 빛."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H034",
+      "reason": "‘Entire cavern floor’ is the same coverage in tighter English."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H035",
+      "reason": "Keeps 새겨진/engraved and 일정한 배치; SOL replaces both with ‘precision.’"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H036",
+      "reason": "‘What you mentioned’ is more spoken for the trailing 그……"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H037",
+      "reason": "Apposition reads cleaner without the extra ‘the.’"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H038",
+      "reason": "‘Spoke of’ fits the old Daoist’s 말했던 slightly better than ‘mentioned.’"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H039",
+      "reason": "The shock is seeing it; ‘learn’ turns a visual beat into hearsay."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H040",
+      "reason": "이상한 should stay ‘strange’ so the next line can step up to 기형적."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H041",
+      "reason": "Keep SOL’s punchy split but retain 기형적 as malformed, not weaker ‘unnatural.’",
+      "replacement": "*This goes beyond strange. It’s downright malformed.*"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H042",
+      "reason": "Splits the 신비로우면서도 위험해 보이는 cause into cleaner sentences."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H043",
+      "reason": "생각했는지 is a prior thought, not present ‘thinking.’"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H044",
+      "reason": "‘Have yet to’ is cleaner formal speech for 아직 알아낸 바가 없습니다."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H045",
+      "reason": "Speaker tag belongs with the speech; the name is kept in the merged paragraph."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H046",
+      "reason": "Merged attribution plus dialogue is natural; meaning of the copied-formation speech is intact."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H047",
+      "reason": "튀어나왔다 is blurted, not the softer ‘slipped out.’"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H048",
+      "reason": "이거 is these/this, not those."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H049",
+      "reason": "모두의 시선 is everyone’s eyes; ‘every eye’ is mannered in Jin’s voice."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H050",
+      "reason": "‘Since we entered’ makes the shared entry explicit without adding a fact."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H051",
+      "reason": "‘Don’t ask. Answer.’ pays off 되묻지 말고 as the catchphrase, which BASE spells out."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H052",
+      "reason": "SOL drops 수많은 경험을 한 from the martial-world authority."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H053",
+      "reason": "Fronting System power matches 시스템의 힘으로 and reads more naturally."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H054",
+      "reason": "‘As well as read and write’ is tighter for 물론이고…까지."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H055",
+      "reason": "Merge the proof sentence, but keep 처음 모습 그대로; SOL’s ‘unchanged’ is weaker.",
+      "replacement": "Yet even though its translation function was always active like a passive Skill, the patterns making up the formation remained exactly as they were. That was conclusive proof they weren’t writing."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H056",
+      "reason": "Proof sentence now lives in H055; keeping BASE here would duplicate it."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H057",
+      "reason": "그냥 is the ‘just’ in ‘just kept my mouth shut.’"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H058",
+      "reason": "‘Completely devoid of emotion’ is cleaner for 한 톨도 느껴지지 않는 얼굴."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H059",
+      "reason": "내젓던 is progressive and 불쑥 is sudden; SOL adds ‘began’ and drops 불쑥.",
+      "replacement": "Just as I was frantically waving my hands, Jeok Cheongang suddenly cut in."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H060",
+      "reason": "‘Fire King’s heir’ is the same title in cleaner English."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H061",
+      "reason": "‘Nothing stopping me’ is closer to 못 할 것도 없지 than ability-only ‘not beyond my ability.’"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H062",
+      "reason": "Restores 우연찮게 (‘happened to owe’) that BASE omits."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H063",
+      "reason": "‘I just guessed’ is the natural panicked excuse for 찍었는데요."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H064",
+      "reason": "‘Might’ve seen’ keeps the hedge in 본 것 같기도 하고."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H065",
+      "reason": "‘Deep’ and ‘heavy’ are equal stock silence; default BASE."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H066",
+      "reason": "‘Come to think of it’ is the spoken 생각해 보니."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H067",
+      "reason": "Source trails off with …… as he ducks Jin’s eyes, not a hard dash."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H068",
+      "reason": "‘Leave it at that’ is the natural 여기까지 하겠네, and H069 can echo it."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H069",
+      "reason": "Echoes the chosen line; 뭘 여기까지 해 is that already-said complaint."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H070",
+      "reason": "박살 나는 is smashed/destroyed, weaker than SOL’s ‘collapse.’"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H071",
+      "reason": "할 것 같소 is ‘it seems we will have to,’ not ‘must.’"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H072",
+      "reason": "Present perfect is natural polite English for the just-offered ‘help.’"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H073",
+      "reason": "Keeps the 하늘도 땅도 모두 rhetorical order instead of flattening it."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H074",
+      "reason": "‘Mangy stray’ captures 똥개 better than a plain stray dog."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H075",
+      "reason": "그나저나 is not ‘Still,’ and 그 많은 is that many, not so many."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H076",
+      "reason": "‘Reeling’ plus ‘snapped up’ hits 후유증 and 번쩍 쳐들었다 more vividly."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H077",
+      "reason": "왜 그러시는가 is ‘what’s the matter,’ not a flatter ‘what is it.’"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H078",
+      "reason": "Discourse 아니 is hedging ‘it’s just,’ not a hard no."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H079",
+      "reason": "Need 그렇다네/Yes and 뛰어넘어 as cross; SOL’s ‘travel’ weakens the leap, BASE drops Yes.",
+      "replacement": "“Yes. According to Samgoe, that is what this strange formation is called. It is an absurd claim, and we have no way of knowing how much of it to believe, but he said Dark Heaven used it to cross hundreds of *li*.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H080",
+      "reason": "Isolates 이동진. as its own stunned beat, matching the Korean lineation."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H081",
+      "reason": "이라니 is incredulous echo, not ‘he said it was’; keep the repeat without the extra copula.",
+      "replacement": "He said a Transportation Formation."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H082",
+      "reason": "The joke is comparative (critic < now); SOL flattens it to generic max bewilderment."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H083",
+      "reason": "‘I’ve heard of this somewhere before’ is closer to 어디서 많이 듣던 than ‘sounds familiar.’"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H084",
+      "reason": "‘Transporting’ fits the named formation; *li* matches the unit styling."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H085",
+      "reason": "Thought stays present, matching 생각하고 있는 ‘그것.’"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H086",
+      "reason": "Present ‘can’t’ matches the thought voice of 그럴 리가."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H087",
+      "reason": "Keeps 애써 부정하는 as attempts and 크게 in ‘bobbed heavily.’"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H088",
+      "reason": "‘Merely his intention’ is tighter for 생각일 뿐이었다."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H089",
+      "reason": "그 말씀은…… is a trailing prompt, not a finished ‘What do you mean?’"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H090",
+      "reason": "One sentence with ‘but’ is more natural for 가동하려 했지만."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H091",
+      "reason": "흐름도 느껴지지 않는다 is flow coming from the formation, not merely ‘in’ it."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H092",
+      "reason": "Drops dummy ‘that’ after the explanation already given."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H093",
+      "reason": "정황 is circumstances; 괴공절학 is one art-class, present 보유한, and 어떤 술법 is general, not ‘like this.’"
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H094",
+      "reason": "천하 무림 supports ‘entire,’ but keep 괴공절학 as one ‘bizarre and supreme arts,’ not a split.",
+      "replacement": "Although it had ultimately lost the Great Faction War, the Demonic Cult had been able to overwhelm the entire Murim for a considerable period thanks to its bizarre and supreme arts."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H095",
+      "reason": "‘If anything, more confusing’ naturalizes 괜히 더 헷갈리는 in Jin’s voice."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H096",
+      "reason": "‘Engraving’ matches progressive 새겨 나가던 better than completed ‘carved.’"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H097",
+      "reason": "태도 is attitude/bearing, not 반응/reaction."
+    }
+  ],
+  "version": 1
+}

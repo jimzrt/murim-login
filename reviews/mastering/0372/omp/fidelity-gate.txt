@@ -1,0 +1,15 @@
+{
+  "summary": "The chapter is faithful overall, with one minor shift in the Slaughter Saint’s implied threat.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean lines 199–200; [P98]",
+      "current": "“Threaten him? There is no need. But there is nothing stopping me, either.”",
+      "defect": "The current wording says no obstacle prevents the Slaughter Saint from threatening Jin, while the source says that although he has no need to do so, he is fully capable of it. This shifts the threat from an assertion of ability to an assertion of willingness or freedom to act.",
+      "replacement": "“Threaten him? There is no need. But it’s not as though I couldn’t.”",
+      "rationale": "못 할 것도 없지 explicitly negates inability: there is no reason he could not do it. It does not refer to the absence of an external restraint.",
+      "confidence": 0.99
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "chapter": 372,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.292,
+    "source_characters": 5512,
+    "source_paragraphs": 160,
+    "translation_characters": 12633,
+    "translation_paragraphs": 165
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "무공",
+        "preferred": "martial arts"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "개방",
+        "preferred": "Beggars' Sect"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "청풍고검",
+        "preferred": "Clear Wind Ancient Sword"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
