@@ -1,27 +1,23 @@
 # Translation State
 
-- Last completed: 64
-- Next chapter: 65
-- Current block: 60–64 (5/5)
-- Latest translation: `translations/0064.md`
-- Latest summary: `summaries/beats/0064.md`
+- Expedition mode: Chapter 374 start; Chapters 65–373 are skipped or source-only bridge material
+- Last completed: 373
+- Next chapter: 374
+- Current block: expedition seed → 374
+- Latest translation: `translations/0064.md` (canonical anchor)
+- Latest summary: `summaries/0369-0373.md` (source-only bridge)
 - Safe profiles through: chapter 64
 
-## Current Block
+## Expedition Boundary
 
-- Jin Wikyung spends two hours painting the recent battle and Taekyung as a heroic figure, but Wipeng interrupts and tears up the unfinished painting. Wipeng then reveals that Jin Mukyung, Wikyung's second younger brother, has returned after three years and gone to Taekyung's residence; a crash soon announces that the residence has collapsed.
-- Jin Mukyung is twenty-three, bears the epithet Heaven Shaking Sword, and reached the Peak realm at a young age. He greets Taekyung warmly but immediately punishes his casual speech by throwing him into a wall and attacking him with the Reformation Fist. Taekyung gradually reads Mukyung's movements, partially evades a strike aimed at his temple, and accepts a second round motivated by martial pride.
-- Mukyung remains far stronger than Taekyung while fighting without internal energy. Taekyung uses ten of the one hundred points accumulated through his ten level-ups to raise Agility, becomes confident that Mukyung's punch is slow enough to evade, and is struck anyway.
+- Accepted English is available through Chapter 64.
+- Chapters 65–370 are not translated locally in this branch.
+- Chapters 371–373 have bounded Korean-source summaries only; they are not accepted translations.
+- The normal workflow becomes authoritative after Chapter 374 is committed.
 
-## Open Questions
+## Pre-374 Bridge
 
-- The outcome of Taekyung's spar with Jin Mukyung remains unresolved.
-
-## Exceptional Decision
-
-- Use Reformation Fist for 갱생권.
-- Render 금나수 as grappling technique.
-- Retain hyung for 형 in Taekyung's greeting.
+See `docs/EXPEDITION_SEED.md` for the explicit source-grounded bridge dossier.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

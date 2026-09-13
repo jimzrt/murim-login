@@ -1,0 +1,39 @@
+name: Publish Chapter 374 Expedition Pages
+
+on:
+  push:
+    branches: [expedition/chapter-374]
+    paths:
+      - "translations/**"
+      - "docs/**"
+      - "reader/**"
+      - "tools/**"
+      - ".github/workflows/expedition-pages.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: expedition-pages-dispatch
+  cancel-in-progress: true
+
+jobs:
+  dispatch:
+    if: ${{ hashFiles('translations/0374.md') != '' }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate expedition
+        run: python tools/expedition.py check
+      - name: Request Pages build
+        env:
+          GH_TOKEN: ${{ secrets.EXPEDITION_PAGES_TOKEN }}
+        run: |
+          set -euo pipefail
+          test -n "${GH_TOKEN}"
+          gh api repos/jimzrt/murim-login-expedition-pages/dispatches \
+            --method POST \
+            -f event_type=expedition-publish \
+            -f 'client_payload[ref]=${GITHUB_REF_NAME}' \
+            -f 'client_payload[sha]=${GITHUB_SHA}'

@@ -1,6 +1,7 @@
 ---
 import Base from "../layouts/Base.astro";
 import { allChapters, chapterHref, groupedChapters, toIndex, withBase } from "../lib/chapters";
+import ExpeditionNotice from "../components/ExpeditionNotice.astro";
 
 const entries = await allChapters();
 const chapters = toIndex(entries);
@@ -11,6 +12,7 @@ const firstHref = first ? chapterHref(first.data.chapter) : withBase("");
 
 <Base title="Murim Login">
   <main class="wrap" data-page="index" data-count={chapters.length}>
+    <ExpeditionNotice />
     <section class="hero">
       <img class="cover-image" src={withBase("cover.jpg")} alt="Murim Login cover" />
       <h1>Murim Login</h1>

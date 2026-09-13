@@ -56,3 +56,10 @@ For example, render `고시원` as “goshiwon” when the setting or connotatio
 - Never read `characters/spoilers/` during drafting. Reviewers may consult one relevant sealed profile only for a specific unresolved continuity issue after the draft is complete.
 - Future knowledge may prevent contradiction but may not add early names, pronouns, certainty, motives, or foreshadowing.
 - Translate exactly one requested chapter unless the user explicitly requests a batch. Never modify Korean source files under `source/`.
+
+## Chapter 374 Expedition
+
+- This branch intentionally starts at Chapter 374. Chapters 65–370 have no accepted local English translation here; Chapters 371–373 are source-only bridge summaries.
+- Treat `docs/EXPEDITION_SEED.md` and `summaries/0369-0373.md` as bounded orientation, not as a substitute for missing translations.
+- When the current Korean source conflicts with bridge context, the current source wins. Preserve uncertainty instead of inventing skipped-range backstory.
+- From Chapter 374 onward, the ordinary workflow update, names ledger, profiles, summaries, QA, hashes, and mastering artifacts are authoritative for this branch.
