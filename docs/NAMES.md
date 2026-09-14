@@ -54,3 +54,14 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 장칠득 | **Jang Childeuk** | Personal-name form of Childeuk; he is newly appointed as a martial artist directly under Jin Wikyung. |
 | 최 팀장 | **Team Leader Choi** | Team Leader who owns the café where Taekyung signs a contract. |
 | 명품충 | **Designer-Brand Junkie** | Display name used by Team Leader Choi in a text message. |
+| 평화 | **Peace Guild** | Guild name. |
+| 김 집사 | **Butler Kim** | Choi's butler and limousine driver. |
+| 히말라야 | **Himalayas** | Mountain region referenced as the source of the bottled water. |
+| 히말라야의 정수 | **Essence of the Himalayas** | System-named consumable that temporarily raises Intelligence. |
+| 부천 | **Bucheon** | City with a dense concentration of Gates and Guild headquarters. |
+| 강남 | **Gangnam** | Formerly valuable Seoul-area real estate. |
+| 분당 | **Bundang** | Formerly valuable Korean real estate area. |
+| 대한민국 | **Korea** | Country reference. |
+| 순이 | **Sooni** | Former owner of Sooni's Super. |
+| 순이네 수퍼 | **Sooni's Super** | The Peace Guild's Guild house. |
+| 송 양 | **Miss Song** | The Peace Guild's final member; full identity not yet given. |
