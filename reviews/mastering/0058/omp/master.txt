@@ -1,14 +1,14 @@
 # Chapter 58
 
-The battlefield descended into chaos. At the signal, two hundred martial artists abruptly turned hostile and swarmed in every direction like a pack of wolves.
+The battlefield descended into chaos. At the signal, two hundred martial artists suddenly turned on everyone around them and swarmed in from all sides like a pack of wolves.
 
 “Kill them all!”
 
 “Aaaaargh!”
 
-They weren’t quite on the level of Gwak Jun and the assassins we’d fought earlier, but an aura like well-honed blades still poured off them.
+They weren’t quite on the level of Gwak Jun and the assassins we’d fought earlier, but they still gave off an aura like well-honed blades.
 
-The Jin Family of Taiyuan and the Mount Heng Sword Sect. If both factions’ martial artists joined forces, we’d have a real shot—but right now, that looked difficult.
+The Jin Family of Taiyuan and the Mount Heng Sword Sect. If the martial artists of both factions joined forces, they’d have a real chance—but right now, that looked difficult.
 
 *This is bad.*
 
@@ -24,7 +24,7 @@ The moment they saw what was happening in front of them, their eyes nearly poppe
 
 “…So that was it.”
 
-It must have been rough. After a fast, heavy burst of vomiting, Hyuk looked half-dead as he spoke.
+It must have been rough. After a quick, forceful bout of vomiting, Hyuk looked half-dead as he spoke.
 
 “I think this is as far as I go.”
 
@@ -46,7 +46,7 @@ I gripped his shoulder hard.
 
 Ignoring Hyuk’s suspicious muttering, I hauled him to his feet. Right now, even a meat shield—no, a single extra hand—was precious.
 
-Besides, apart from me, Hyuk was the strongest meat shield in the reconnaissance squad. Ah, it kept slipping out.
+Besides, apart from me, Hyuk was the strongest meat shield in the reconnaissance squad. Damn it, that kept slipping out.
 
 I deliberately lowered my voice.
 
@@ -66,11 +66,11 @@ A twenty-first-century office worker would have spat in your face and walked awa
 
 “You don’t trust me?”
 
-“Yes.”
+“No.”
 
-Hyuk’s cutting answer sent a light laugh spreading through the reconnaissance squad. They’d been frozen stiff by the first large-scale battle of their lives, but they seemed to loosen up a little.
+Hyuk’s cutting answer sent a ripple of quiet laughter through the reconnaissance squad. They’d been frozen stiff by the first large-scale battle of their lives, but they seemed to loosen up a little.
 
-I grinned and gripped my spear.
+I grinned and tightened my grip on my spear.
 
 “Eyes wide, ears open. Follow my orders, and you’ll make it back alive.”
 
@@ -84,21 +84,21 @@ All I could do was give it everything I had.
 
 “Let’s go.”
 
-At that, we charged forward like a gale. We were an arrow with me at the tip, and the target we had to hit was already set.
+At that, we charged forward like a gale. We were an arrow with me at the tip, and our target had already been chosen.
 
 *The Head Elder.*
 
-Clear in the distance, I could see a white-haired old man. At his feet lay a fallen man, and a pool of blood.
+Clear in the distance, I could see a white-haired old man. At his feet lay a fallen man in a spreading pool of blood.
 
-A hot ball of fire surged up from my gut.
+A ball of fire surged up from my gut.
 
-“That’s my brother…”
+“My brother…”
 
 I pulled a spear from where it had been driven into someone’s corpse like a gravestone. Then, in the next instant—
 
 “Get your hands off him, you bastard!”
 
-The spear shot in a straight line, compressing dozens of yards of distance.
+The spear shot in a straight line, devouring dozens of yards in an instant.
 
 Someone in the reconnaissance squad let out a muffled cry.
 
@@ -108,9 +108,9 @@ That was when the Head Elder’s sword moved.
 
 Shuk.
 
-A streak of light. The spear split in half and bounced away to either side.
+A streak of light. The spear split in half and flew away to either side.
 
-Same result as before. But this time we’d closed the distance considerably, so I could see it clearly.
+The same result as before. But this time we’d closed the distance considerably, so I could see it clearly.
 
 The blue flash that had surged along the blade for an instant.
 
@@ -122,13 +122,13 @@ No. Why was that showing up here?
 
 Aura.
 
-A crystallization of mana that only an A-rank Hunter or higher could draw out.
+A crystallization of mana that only an A-rank Hunter or higher could produce.
 
-Mana and internal energy were different only in name. In terms of qi, they were the same. And this was Murim, so put another way, it was Sword Energy.
+Mana and internal energy had different names, but both were qi. And this was Murim, so put another way, it was Sword Energy.
 
 Sword Energy.
 
-Heh heh heh.
+*Ha. Ha. Ha.*
 
 *Fuck. Are you kidding me?*
 
@@ -162,7 +162,7 @@ As if we’d agreed on it, we slowed down. The event had switched from a hundred
 
 “Uh, Squad Leader.”
 
-Hyuk opened his mouth with a face drained of all color. As far as skin tone went, he could have passed for a white man.
+Hyuk spoke with his face drained of all color. As far as skin tone went, he could have passed for a white man.
 
 “Are you sure the Head Elder betrayed us?”
 
@@ -184,9 +184,9 @@ I cut down every last black-clad man charging us, then looked at Hyuk.
 
 “…Nothing.”
 
-Having failed to win the argument in his head, Hyuk hung his head, looking grim.
+Unable to delude himself any longer, Hyuk hung his head, looking grim.
 
-But only for a moment. Step by step. The closer we got to the Head Elder, the more desperately he started hunting for a way out.
+But only for a moment. Step by step. The closer we got to the Head Elder, the more desperately he searched for a way out.
 
 “Why do people have to fight?”
 
@@ -196,7 +196,7 @@ But only for a moment. Step by step. The closer we got to the Head Elder, the mo
 
 “That was the worst-case scenario. Wouldn’t it be better to settle this by talking?”
 
-“Talk’s good. But they sent assassins after us first.”
+“Talking’s good. But they sent assassins after us first.”
 
 “Oh.”
 
@@ -214,13 +214,13 @@ Of course, I wasn’t much different. Just thinking about Sword Energy made my h
 
 *I’m well and truly screwed.*
 
-But I had no intention of running. If I had, I never would have come back in the first place. I would have been content with reality and just lived that way.
+But I had no intention of running. If I had, I never would have come back in the first place. I would have been content with reality and simply gone on living there.
 
 I’d already come too far. There was only one path left.
 
 “Stop.”
 
-Everyone halted as if they’d been waiting for it. Hyuk’s face said he was hoping for a dramatic peace treaty, but I gripped my spear and stepped forward.
+Everyone halted as if they’d been waiting for the order. Hyuk looked as though he was hoping for a dramatic peace treaty, but I gripped my spear and stepped forward.
 
 “W-Where are you going?”
 
@@ -240,25 +240,25 @@ Hyuk stared at me as if the sky had fallen, then let out a deep sigh.
 
 “What?”
 
-“Even a meat shield like me should bump our odds up by a hair, shouldn’t it?”
+“Even a meat shield like me should improve our odds by a hair, shouldn’t it?”
 
-This guy actually came up with some admirable thoughts.
+This guy was actually capable of such admirable thoughts.
 
-I snorted a laugh and turned away.
+I let out a short laugh and turned away.
 
-“You going there to die? I’m just going to test the waters and come back. Wait here.”
+“You planning to die? I’m just going to test the waters and come back. Wait here.”
 
 The distance to the Head Elder was now barely thirty feet.
 
 A distance either of us could close in an instant.
 
-A heavy silence crushed the space between us. In that brief interval, my palms grew damp.
+A heavy silence pressed down on the space between us. In that brief interval, my palms grew damp.
 
-*Phew.*
+*Whew.*
 
 But I wasn’t a pushover either. At Level 30, when I was only Second Rate, I’d already beaten Jopil, a Peak master. And I’d continued to improve after returning to reality.
 
-At Level 40, I could proudly call myself a master who held his own in both reality and Murim.
+Now that I was Level 40, I was confident I could hold my own in either reality or Murim.
 
 No. I was a master.
 
@@ -266,7 +266,7 @@ No. I was a master.
 
 In a fight where a few centimeters could decide life or death, a spear’s reach was a tremendous advantage.
 
-I looked at the Head Elder’s face and steadied my breathing.
+I studied the Head Elder’s face and steadied my breathing.
 
 *This is doable.*
 
@@ -287,29 +287,29 @@ Ding.
 > - **Agility** temporarily increases.
 > - **Stamina** temporarily…
 
-The effect of the Gambler Title, which raised combat-related stats by ten percent in a one-on-one duel, seeped through my whole body.
+The Gambler Title raised combat-related stats by ten percent in a one-on-one duel. Its effect spread throughout my body.
 
 And on top of that—
 
 Whoosh!
 
-The boost to my stats accelerated the attack as well. In an instant, the spearhead dropped like a bolt of light, aimed at the crown of the Head Elder’s head.
+The increase in my stats accelerated the attack as well. In an instant, the spearhead dropped like a bolt of light toward the crown of the Head Elder’s head.
 
-*This is going in.*
+*This will land.*
 
-That was a certainty.
+I was certain of it.
 
-The certainty that even a monster like Jopil wouldn’t have been able to dodge it. But the man I was facing wasn’t Jopil.
+Even a monster like Jopil wouldn’t have been able to dodge. But the man I was facing wasn’t Jopil.
 
 He was the Head Elder.
 
 Boom!
 
-The spear shaft shuddered with a thunderous crash. The Head Elder, having blocked the spear at a speed too fast to see properly, smiled faintly.
+The spear shaft shuddered with a thunderous crash. The Head Elder had blocked the spear at a speed too fast to follow, and now he smiled faintly.
 
 “Not bad. Better than I expected.”
 
-Without even time to answer, I wrung out every last ounce of strength. The spear, loaded with tremendous force that even a decent master would have struggled to endure, crushed down on his sword.
+With no time to answer, I wrung out every last ounce of strength. The spear bore down on his sword with enough force to overwhelm most masters.
 
 Grrrkk.
 
@@ -319,11 +319,11 @@ No. Wait.
 
 *It should be going down. Why is it coming up?*
 
-I’d put that much force into it, yet I was the one being pushed back. At my dumbfounded expression, the Head Elder’s smile deepened.
+I’d put everything I had into it, yet I was the one being pushed back. At my dumbfounded expression, the Head Elder’s smile deepened.
 
 “You tried, but did you think that would be enough?”
 
-The next instant, every hair on my body stood on end.
+The next instant, my hair stood on end.
 
 Tsssss.
 
@@ -331,13 +331,13 @@ A blue haze bloomed along the blade.
 
 Sword Energy.
 
-Before I could even react, the spearhead that had been slowly getting pushed back was sliced off like tofu.
+Before I could react, the spearhead that had been slowly forced back was sliced off like tofu.
 
 Shing.
 
 Now it wasn’t a spear but a staff. A long staff.
 
-Sword Energy flashed again toward me as I backed away.
+Sword Energy flashed again as I backed away.
 
 Shing.
 
@@ -355,7 +355,7 @@ Shing.
 
 “Do you intend to run?”
 
-Run? That’s a hurtful thing to say.
+Run? What a hurtful thing to say.
 
 I’d already thrown myself sideways the instant I hurled the rod. I grabbed the collar of the man lying facedown as if he were dead.
 
@@ -363,33 +363,33 @@ I’d already thrown myself sideways the instant I hurled the rod. I grabbed the
 
 My only goal from the beginning had been to rescue Jin Wikyung.
 
-Now that I’d done it, there was no reason to fight that monstrous old man. I scooped Jin Wikyung into my arms and hurled myself away with all my strength.
+Now that I’d done it, there was no reason to fight that monstrous old man. I hauled Jin Wikyung into my arms and hurled myself away with all my strength.
 
 Whoosh—boom!
 
 The Sword Energy that arrived a beat later split the ground.
 
-Hyuk Mujin and the reconnaissance squad surrounded us as we slipped out of the Head Elder’s range by a hair.
+Hyuk Mujin and the reconnaissance squad surrounded us as we escaped the Head Elder’s range by a hair.
 
 “Protect the Squad Leader!”
 
 “Are you all right?”
 
-I said nothing. I forgot we had to run from the Head Elder right now. I even forgot this was a battlefield.
+I said nothing. I forgot that we had to get away from the Head Elder immediately. I even forgot that we were on a battlefield.
 
-My head was full of a single question.
+My head was filled with a single question.
 
 *Who is this man?*
 
 I had definitely rescued Jin Wikyung. I was supposed to have rescued him…
 
-Then who was this macho middle-aged man in my arms?
+Then who was this macho-looking middle-aged man in my arms?
 
-His face was covered in sword scars, and his eyes were bloodshot. In a trembling voice, I asked,
+His face was crisscrossed with blade scars, and his eyes were bloodshot. In a trembling voice, I asked,
 
 “Excuse me, but who are you…?”
 
-At that moment, a single cry burst from Hyuk Mujin’s mouth.
+At that moment, a cry burst from Hyuk Mujin’s mouth.
 
 “Gah! Lee Cheonbaek!”
 
@@ -419,7 +419,7 @@ I scrambled backward.
 
 This man was Lee Cheonbaek?
 
-Cold sweat rolled down my body.
+Cold sweat poured down my back.
 
 *He’s Lee Seogeun’s father.*
 
@@ -427,7 +427,7 @@ He was the man who’d started a war because he thought I’d poisoned his son. 
 
 *Rescuing the wrong guy was unfair enough, and I nearly got stabbed too.*
 
-But Lee Cheonbaek no longer seemed to have the strength left for that.
+But Lee Cheonbaek no longer seemed to have the strength for that.
 
 His entire body was covered in blood, and he couldn’t so much as twitch a finger. It looked as though he’d suffered severe internal injuries, or had his acupoints sealed.
 
@@ -439,7 +439,7 @@ As if he’d read my mind, Hyuk asked,
 
 “I don’t know. And…”
 
-I yanked him back by the nape of his neck. A sword came flying in and buried itself where Hyuk’s foot had been a moment before.
+I yanked him back by the nape of his neck. A sword flew in and buried itself where Hyuk’s foot had been a moment before.
 
 *I’m really well and truly screwed.*
 
@@ -447,9 +447,9 @@ I let out a deep sigh, then continued.
 
 “You think that old man is going to let us go?”
 
-The Head Elder burst into a hearty laugh.
+The Head Elder burst into hearty laughter.
 
-“Ha ha ha! Have you ever seen such an insolent brat!”
+“Ha ha ha! What an insolent brat!”
 
 “If I behave politely, will you let us go?”
 
@@ -461,7 +461,7 @@ Sword Energy surged up.
 
 No more words were needed.
 
-I pulled a spear from where it was stuck among the corpses. Then, with everyone’s eyes on me, I spoke.
+I pulled a spear free from among the corpses. Then, with everyone’s eyes on me, I spoke.
 
 “Encirclement formation. Spread out.”
 
