@@ -50,3 +50,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 군자검 | **Junzi Sword** | Epithet Jin Wikyung begins receiving after the war. |
 | 칠득이 | **Childeuk** | Jin Family servant. |
 | 천자문 | **Thousand Character Classic** | Classical text Childeuk cannot complete. |
+| 천무지체 | **Heavenly Martial Physique** | Named physique or constitution mentioned hypothetically by Jin Mukyung. |
+| 장칠득 | **Jang Childeuk** | Personal-name form of Childeuk; he is newly appointed as a martial artist directly under Jin Wikyung. |
