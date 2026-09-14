@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "“Your money is my money. My money isn’t my money, is it?”",
+      "defect": "The second sentence reverses the source negation and changes Jinho’s joke from claiming ownership of both men’s money to denying ownership of his own.",
+      "id": "F01",
+      "rationale": "내 돈이 내 돈 아니냐 is a rhetorical affirmation meaning that his own money is, naturally, also his.",
+      "replacement": "“Your money is my money. And my money is my money, isn’t it?”",
+      "severity": "critical",
+      "source": "“네 돈이 내 돈. 내 돈이 내 돈 아니냐.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“What are you talking about? Why did you suddenly cook ramen?”",
+      "defect": "The draft prematurely identifies ramen and turns Taekyung’s question into a request for a reason, making Jinho’s ensuing answer, “Obviously, ramen,” logically incoherent and weakening the misunderstanding that drives the joke.",
+      "id": "F02",
+      "rationale": "Taekyung is asking what Jinho suddenly means by talking about having cooked something; Jinho identifies that something as ramen in the next line.",
+      "replacement": "“What are you talking about? What’s this about cooking something all of a sudden?”",
+      "severity": "major",
+      "source": "“무슨 얘기야 그게. 갑자기 뭘 끓여.”"
+    },
+    {
+      "confidence": 0.95,
+      "current": "He was someone I had lived with like a friend, like a brother, for several years.",
+      "defect": "“Lived with” implies that they shared a household or room, while the source says they had spent years relating to each other like friends and brothers.",
+      "id": "F03",
+      "rationale": "지냈던 describes the relationship and time they spent together, not literal cohabitation.",
+      "replacement": "He was someone I’d spent years with, like a friend and a brother.",
+      "severity": "major",
+      "source": "몇 년간 친구처럼, 형제처럼 지냈던 사람이다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Damn it. How did you know? Even though you’re an F-rank Hunter…… Oh, right. You became C-rank a while ago.”",
+      "defect": "“Even though” is grammatically incomplete here and loses the contemptuous, teasing force of 주제에.",
+      "id": "F04",
+      "rationale": "F급 헌터 주제에 dismissively frames Taekyung as a mere F-rank Hunter before Jinho remembers his promotion.",
+      "replacement": "“Damn it. How did you know? You’re just an F-rank Hunter…… Oh, right. You became C-rank a while ago.”",
+      "severity": "minor",
+      "source": "“젠장. 어떻게 알았지? F급 헌터 주제에…… 아, 너 얼마 전에 C급 됐지. 참.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "I was an idiot for thinking about living with someone like him.",
+      "defect": "The draft softens the strong self-directed profanity 병신 and loses the force of Taekyung’s disgust with himself.",
+      "id": "F05",
+      "rationale": "병신 is substantially stronger than the unmodified “idiot,” and the translation rules prohibit sanitizing strong profanity.",
+      "replacement": "I was a fucking idiot for thinking I could live with someone like him.",
+      "severity": "minor",
+      "source": "저런 인간하고 같이 살 생각을 한 내가 병신이지."
+    },
+    {
+      "confidence": 0.94,
+      "current": "“Samgyeopsal. Griddle barbecue. Fried chicken and beer.”",
+      "defect": "“Samgyeopsal” is left as an unestablished, unexplained romanization, while “griddle barbecue” is not idiomatic English.",
+      "id": "F06",
+      "rationale": "삼겹살 is naturally conveyed as grilled pork belly, and 철판구이 denotes food cooked on an iron griddle, for which “teppanyaki” is the established English menu term.",
+      "replacement": "“Grilled pork belly. Teppanyaki. Fried chicken and beer.”",
+      "severity": "minor",
+      "source": "“삼겹살. 철판구이. 치맥.”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "“I’ve had enough of samgyeopsal and griddle barbecue. Let’s eat something pricier today.”",
+      "defect": "The repeated food terms retain the unexplained romanization and unnatural “griddle barbecue” wording.",
+      "id": "F07",
+      "rationale": "The food terminology should remain consistent with its first occurrence and read naturally in spontaneous dialogue.",
+      "replacement": "“I’m tired of grilled pork belly and teppanyaki. Let’s go for something pricier today.”",
+      "severity": "minor",
+      "source": "“삼겹살이나 철판구이는 질렸다. 오늘은 좀 더 비싸게 먹어 보자꾸나.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "His control of the burner flame for making a soft-boiled egg was good enough to call him a Peak master.",
+      "defect": "The egg was cracked directly into the ramen, so calling it “soft-boiled” inaccurately suggests an egg boiled in its shell.",
+      "id": "F08",
+      "rationale": "반숙 here describes the desired soft-set, runny result of the raw egg cooking in the ramen.",
+      "replacement": "His control of the burner flame to leave the egg perfectly runny was worthy of a Peak master.",
+      "severity": "minor",
+      "source": "반숙을 만들기 위한 버너 화력 컨트롤은 절정 고수라고 해도 좋을 정도다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Look at that change of posture. Even Udyr would cry.",
+      "defect": "“Change of posture” is a literal calque that does not naturally express Jinho’s instant reversal from brazen demands to exaggerated submission.",
+      "id": "F09",
+      "rationale": "태세 전환 figuratively means abruptly changing one’s attitude or position; “changing his tune” preserves the comic reversal in natural English.",
+      "replacement": "Talk about changing his tune. Even Udyr would weep.",
+      "severity": "minor",
+      "source": "태세 전환 봐라. 우디르도 울고 가겠다."
+    }
+  ],
+  "summary": "Three substantive fidelity issues alter a negation, the ramen misunderstanding, and Taekyung’s relationship with Jinho. Additional findings concern lost contempt and profanity, food terminology, and localized wording.",
+  "version": 1
+}
