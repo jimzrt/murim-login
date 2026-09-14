@@ -2,7 +2,7 @@
 
 A consistent English translation of **Murim Login**, built from the Korean source and maintained as Markdown.
 
-**Read online:** https://jimzrt.github.io/murim-login/
+**Read online:** https://murim-login.com/
 **PDF / EPUB:** https://github.com/jimzrt/murim-login/releases/tag/ebook
 
 ## Why this exists
