@@ -95,6 +95,33 @@ class ModelIoTest(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, "one complete line"):
             validate_durable_update(value, 4)
 
+    def test_durable_update_accepts_spaced_korean_address_endpoints(self):
+        value = {
+            "chapter": 4,
+            "beat": {"plot": ["Plot."], "continuity": [], "translation_decisions": []},
+            "context": {
+                "version": 1,
+                "safe_through": 4,
+                "continuity_sources": [4],
+                "active_continuity": ["Fact."],
+                "open_questions": ["Question?"],
+                "temporary_decisions": [],
+            },
+            "names": [],
+            "address_pairs": [{
+                "speaker": "최 팀장",
+                "addressee": "진태경",
+                "kinship": "team_leader_to_hunter",
+                "normal_address": "Mr. Jin Taekyung",
+                "speech_level": "formal-but-urgent",
+                "notes": "Emergency.",
+            }],
+            "profile_updates": [],
+            "profile_creations": [],
+        }
+        update = validate_durable_update(value, 4)
+        self.assertEqual(update["address_pairs"][0]["speaker"], "최 팀장")
+
     def test_durable_update_accepts_address_pairs(self):
         value = {
             "chapter": 4,
