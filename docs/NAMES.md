@@ -43,3 +43,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 낙류검 | **Falling Flow Sword** | Named sword technique discovered by Mukyung in the archives of Heaven's Gate Temple; its name evokes a waterfall. |
 | 질풍십이권 | **Twelve Gale Fists** | Named fist technique Mukyung threatens to use against Taekyung. |
 | 화염신장 | **Flame Divine Palm** | Jopil's deadly palm technique, noted when Taekyung compares Jopil with Mukyung. |
+| 마혈 | **Paralysis Acupoint** | System condition label for temporary paralysis. |
+| 아혈 | **Mute Acupoint** | System condition label preventing speech. |
+| 분근착골 | **Tendon-Splitting and Bone-Twisting** | Cruel immobilization technique described by Mukyung. |
