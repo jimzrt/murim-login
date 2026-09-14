@@ -888,8 +888,17 @@ html[data-theme="light"] .system-window {
   padding-top: 1rem;
 }
 
+.comments-divider {
+  display: block;
+  width: min(12rem, 40%);
+  height: 0;
+  margin: 3rem auto 0.25rem;
+  border: 0;
+  border-top: 1px solid var(--rule);
+}
+
 .comments {
-  margin-top: 2.5rem;
+  margin-top: 2.25rem;
   padding-top: 0;
   border-top: 0;
 }
@@ -914,7 +923,7 @@ html[data-theme="light"] .system-window {
   --system-gold: #e6c86a;
   --frame: 2.5rem;
   position: relative;
-  margin: 2.8em 0 1.5em;
+  margin: 2.4em 0 1.5em;
   padding: 1.35em 0.95em 1em;
   overflow: visible;
   color: #fff;
