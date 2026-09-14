@@ -1,20 +1,25 @@
 # Translation State
 
-- Last completed: 88
-- Next chapter: 89
-- Current block: 85–89 (4/5)
-- Latest translation: `translations/0088.md`
-- Latest summary: `summaries/beats/0088.md`
-- Safe profiles through: chapter 88
+- Last completed: 89
+- Next chapter: 90
+- Current block: 85–89 (5/5)
+- Latest translation: `translations/0089.md`
+- Latest summary: `summaries/beats/0089.md`
+- Safe profiles through: chapter 89
 
 ## Current Block
 
-- Jin Taekyung visits the restaurant where his mother, Kim Jeonghee, works and announces that she is quitting immediately. When the owner attacks him and threatens him through her D-rank Hunter son Kim Minsu of Sangdong Guild, Taekyung reveals his C-rank license and has Im Changsoo confirm over speakerphone that he does not know Minsu. Changsoo also confirms Taekyung received the promised four billion won, exposing the owner's assumptions and establishing that Changsoo is Minsu's superior and Im Chunsoo's son. The customers leave after witnessing the owner's behavior, and Jeonghee departs with Taekyung after defending him and telling the owner to behave like a proper parent.
+- After returning home, Jin Taekyung eats an enormous meal with his mother and Hayeon. Hayeon still has a fever, headache, and poor appetite despite visiting a hospital and taking prescribed medicine.
+- Taekyung uses his internal energy and the Jin Family's Cultivation Technique to perform Circulate Qi for Healing on Hayeon, cleansing the waste from her acupoints and dantian. The System confirms the skill's successful completion and slightly increases his internal energy.
+- Hayeon recovers from her fever and headache after expelling the cleansed waste from her body. Taekyung then performs the same treatment on his mother, who feels ten years younger and experiences a dramatic improvement in her condition.
+- Taekyung retrieves two Lesser Potions from his reality Inventory. They were issued as raid supplies the previous day, and he gives one to Hayeon and one to his mother despite their high cost.
+- Hayeon learns that Taekyung earned four billion won from the previous day's raid and, impressed by his wealth, asks whether she can drop out of school.
 
 ## Open Questions
 
 - Whether Im Chunsoo or Sangdong Guild will retaliate against Peace Guild remains unresolved.
 - What will happen to Kim Jeonghee after leaving the restaurant remains unresolved.
+- Whether Hayeon will actually drop out of school remains unresolved.
 
 ## Exceptional Decision
 
@@ -22,6 +27,8 @@
 - Use ajumma for 아줌마 with an explanatory footnote.
 - Retain goshiwon with an explanatory footnote.
 - Use Minsu for 민수 as the short form of Kim Minsu.
+- Render 운기요상 as Circulate Qi for Healing.
+- Render 하급 포션 as Lesser Potion.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

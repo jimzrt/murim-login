@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "He used that Fame to build Sangdong Guild into what it is today.",
+      "defect": "The common noun “fame” is unnecessarily capitalized, creating terminology drift within the same chapter.",
+      "id": "C01",
+      "rationale": "The chapter otherwise treats fame as an ordinary quality rather than a named System term, including the later phrase “wealth and fame.”",
+      "replacement": "He used that fame to build Sangdong Guild into what it is today.",
+      "severity": "minor",
+      "source": "Chapter 86, explanation of Im Chunsoo's reputation"
+    },
+    {
+      "confidence": 0.99,
+      "current": "They might have had slightly less Fame than Im Chunsoo, but every one of them had been a war hero.",
+      "defect": "The common noun “fame” is unnecessarily capitalized, repeating the chapter's terminology drift.",
+      "id": "C02",
+      "rationale": "Nothing in the packet establishes Fame as a formal statistic or System term, and the same concept appears elsewhere in lowercase.",
+      "replacement": "They might have had slightly less fame than Im Chunsoo, but every one of them had been a war hero.",
+      "severity": "minor",
+      "source": "Chapter 86, Im Kkeokjeong's comparison of rival Guild Masters"
+    },
+    {
+      "confidence": 0.98,
+      "current": "### Item Window\n\n**Lesser Potion**\n\n- **Type:** Medicine\n- **Grade:** Third Rate\n- **Description:** A liquid infused with weak healing magic. It is readily available on the market.\n- **Effect:** Restores the body when consumed. The effect is minimal.",
+      "defect": "A game-generated item-information window is formatted as a normal Markdown section instead of the required System blockquote panel.",
+      "id": "C03",
+      "rationale": "The binding format requires actual game System panels to be presented as a single blockquote window headed “System”; the surrounding chapter already follows that convention for the healing notification.",
+      "replacement": "> **System**\n>\n> **Lesser Potion**\n>\n> - **Type:** Medicine\n> - **Grade:** Third Rate\n> - **Description:** A liquid infused with weak healing magic. It is readily available on the market.\n> - **Effect:** Restores the body when consumed. The effect is minimal.",
+      "severity": "minor",
+      "source": "Chapter 89, Lesser Potion item display"
+    }
+  ],
+  "summary": "The reading copies, checkpoint summary, and durable state are internally consistent and preserve the major hooks without spoilers. Three minor presentation issues are actionable: inconsistent capitalization of the ordinary noun “fame” in Chapter 86 and a System-generated item window in Chapter 89 that is not formatted as a System panel.",
+  "version": 1
+}
