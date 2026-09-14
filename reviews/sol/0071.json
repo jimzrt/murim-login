@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "I grinned as arrogantly as I could and kicked Jin Mukyung in the shin.",
+      "defect": "The draft assigns the triumphant grin to Taekyung, but Jin Mukyung is the one grinning while Taekyung kicks him.",
+      "id": "F01",
+      "rationale": "The participial phrase 의기양양하게 웃고 있는 directly modifies 진무경, while 있는 힘껏 describes the force of Taekyung’s kick.",
+      "replacement": "With all my strength, I kicked Jin Mukyung in the shin as he grinned triumphantly.",
+      "severity": "critical",
+      "source": "있는 힘껏 의기양양하게 웃고 있는 진무경의 정강이를 발로 깠다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "I turned and swung my spear at the same time, but I was already too late. Jin Mukyung’s raised mouth was right in front of me.",
+      "defect": "“Raised mouth” is an unnatural and anatomically inaccurate rendering of his slightly upturned mouth corner.",
+      "id": "F02",
+      "rationale": "입꼬리 specifically means the corner of the mouth, and 슬쩍 indicates that it is raised only slightly.",
+      "replacement": "I turned and swung my spear at the same time, but I was already too late. The faintly upturned corner of Jin Mukyung’s mouth was right in front of me.",
+      "severity": "minor",
+      "source": "그러나 이미 늦었다. 슬쩍 올라간 진무경의 입꼬리가 눈앞에 있었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "I might regret this later, but that was a problem for later.",
+      "defect": "The draft turns Taekyung’s fear of future retaliation or consequences into personal regret.",
+      "id": "F03",
+      "rationale": "후환 refers to trouble or repercussions that will follow, which here means Jin Mukyung’s likely retaliation.",
+      "replacement": "I was afraid of what he’d do to me later, but that was a problem for later.",
+      "severity": "minor",
+      "source": "후환이 두렵지만 그거야 나중 일이다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "I felt hot blood trickling down my throat.",
+      "defect": "“Down my throat” suggests blood flowing internally, whereas the blood from the apparent cut is running externally down his neck.",
+      "id": "F04",
+      "rationale": "목을 타고 흘러내리다 describes the blood running along the outside of his neck in this physical context.",
+      "replacement": "I felt hot blood trickling down my neck.",
+      "severity": "minor",
+      "source": "뜨거운 선혈이 목을 타고 흘러내리는 게 느껴졌다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "My clear five senses proved that I was alive.",
+      "defect": "“Clear five senses” is an unnatural English collocation.",
+      "id": "F05",
+      "rationale": "또렷한 describes his senses as vivid and fully functioning, confirming that he remains alive.",
+      "replacement": "All five of my senses were sharp and clear, proof that I was alive.",
+      "severity": "minor",
+      "source": "또렷한 오감이 내가 살아 있다는 사실을 증명한다."
+    }
+  ],
+  "summary": "One critical subject reversal changes who is grinning; several localized issues alter a pragmatic cue, anatomical location, or natural phrasing.",
+  "version": 1
+}
