@@ -108,3 +108,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 재각성 | **reawakening** | Established Hunter awakening category described as having no further stage. |
 | 피의 일주일 | **Bloody Week** | The hellish first week after Gates opened, during which casualties reached the tens of millions. |
 | 전세 | **jeonse lease** | Korean lump-sum deposit lease used in the family's redevelopment-era housing history. |
+| 박지훈 | **Park Jihoon** | Current name of Taekyung's former middle-school classmate; Hunter in Myeongdong Guild Team 1. |
+| 박지황 | **Park Jihwang** | Jihoon's former name, revealed when Taekyung recognizes him. |
+| 가람중 | **Garam Middle School** | Middle school attended by Taekyung and Jihoon. |
+| 명동 길드 | **Myeongdong Guild** | Large Guild in which Jihoon belongs to Team 1. |
