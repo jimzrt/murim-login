@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "At this rate, I was going to be the only one getting attacked—",
+      "defect": "The translation preserves that Taekyung alone will be targeted but omits 줄창, which says the attacks will continue relentlessly.",
+      "id": "F01",
+      "rationale": "The source conveys both exclusive targeting and continuous attacks; the accepted baseline also preserved the latter detail.",
+      "replacement": "At this rate, they were going to keep attacking me and me alone—",
+      "severity": "minor",
+      "source": "lines 185–187"
+    },
+    {
+      "confidence": 0.96,
+      "current": "The green wetlands were soaked with the corpses and blood of the ones already dead.",
+      "defect": "잠겨 있었고 describes the wetlands as awash or inundated with bodies and blood. “Soaked with the corpses” is physically inaccurate and weakens the extent of the aftermath.",
+      "id": "F02",
+      "rationale": "The source presents the corpses and blood as engulfing the wetlands, not as something the wetlands have absorbed.",
+      "replacement": "The green wetlands were awash with the bodies and blood of the Lizardmen that had already fallen.",
+      "severity": "minor",
+      "source": "lines 271–273"
+    },
+    {
+      "confidence": 0.98,
+      "current": "So you just slipped out alone while it was crawling with monsters?",
+      "defect": "혼자 빠져요 means Choi opted out of the fight, not that he slipped away from the location. He remained nearby and watched.",
+      "id": "F03",
+      "rationale": "The complaint concerns Choi deliberately withholding his participation, consistent with his continuing physical presence in the scene.",
+      "replacement": "So you just sat out the fight while the place was crawling with monsters?",
+      "severity": "minor",
+      "source": "lines 309–313"
+    },
+    {
+      "confidence": 0.97,
+      "current": "But rude as the Sangdong Guild Master is, he isn’t the type to make up a story.",
+      "defect": "“Rude” softens 싸가지 없는 새끼, which is a direct, profane insult equivalent to calling him an ill-mannered bastard.",
+      "id": "F04",
+      "rationale": "The Guild Master repeatedly uses coarse insults in this exchange; the source does not reduce this second insult to ordinary criticism.",
+      "replacement": "The Sangdong Guild Master may be an ill-mannered bastard, but he isn’t the type to make up a story.",
+      "severity": "minor",
+      "source": "lines 413–415"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Shut your mouth, leave quietly, and I won’t block your path.",
+      "defect": "“Leave” softens 꺼지면, an openly hostile command to get out, during the Guild Master’s profane dismissal of Kim Sangshik.",
+      "id": "F05",
+      "rationale": "The source combines 입 닥치고 with 꺼지면 to express tightly controlled but unmistakably abusive fury.",
+      "replacement": "Shut your mouth and get the hell out quietly, and I won’t stand in your way.",
+      "severity": "minor",
+      "source": "lines 459–461"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Along with that, the hottest topic in the Guild became the recent whereabouts of the bottom-tier Hunter who had left not long before.",
+      "defect": "근황 means Taekyung’s latest news or current circumstances, not specifically his whereabouts. The latter remains unknown and becomes the final question of the chapter.",
+      "id": "F06",
+      "rationale": "The ensuing gossip concerns his reawakening and career situation, then ends by asking where he currently is; rendering 근황 as “whereabouts” blurs that progression.",
+      "replacement": "Along with that, the hottest topic in the Guild became the latest news about the bottom-tier Hunter who had left not long before.",
+      "severity": "minor",
+      "source": "lines 477–479"
+    }
+  ],
+  "summary": "The chapter is faithful overall, with six minor defects involving omitted continuity detail, physical description, action, register, and one mistranslated topic.",
+  "version": 1
+}
