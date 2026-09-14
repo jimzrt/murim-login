@@ -1,0 +1,55 @@
+{
+  "summary": "Broadly faithful, with five minor defects involving a source-specific image, an attempted action, joke logic, profanity escalation, and thought formatting.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean line 27 / [P13]",
+      "current": "This wasn’t just a broken nose. This was a broken nose and a cracked skull.",
+      "defect": "The translation generalizes the specifically injured back of the head into the entire skull, weakening the physical extension of the preceding proverb’s joke.",
+      "replacement": "This wasn’t just a broken nose. The back of my head was cracked too.",
+      "rationale": "뒤통수 means the back of the head. The joke contrasts falling backward yet breaking one’s nose with Taekyung figuratively breaking both his nose and the back of his head.",
+      "confidence": 0.94
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Korean line 197 / [P98]",
+      "current": "Im Kkeokjeong charged the Great Warrior chasing me.",
+      "defect": "The English presents the charge without the source’s explicit attempt framing.",
+      "replacement": "Im Kkeokjeong attempted a charge at the Great Warrior chasing me.",
+      "rationale": "차징(Charging)을 시도했다 explicitly says he attempted a charge, anticipating the attack’s immediate failure when he is hurled backward.",
+      "confidence": 0.91
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Korean line 241 / [P120]",
+      "current": "The last member had charged in with a dagger, taken a knuckle to the skull, and gone flying.",
+      "defect": "The phrasing makes the blow sound like an ordinary brutal strike and loses the comic diminishment of 꿀밤, a knuckle rap or bonk.",
+      "replacement": "The last member had charged in with a dagger, taken a knuckle rap to the head, and gone flying.",
+      "rationale": "The source humor contrasts the team member’s dagger charge with being dispatched by a childishly described 꿀밤 rather than a conventional punch.",
+      "confidence": 0.9
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Korean line 289 / [P145]",
+      "current": "“Hey! Hey, you bastard!”",
+      "defect": "“Bastard” overstates 인마 and collapses the deliberate profanity escalation before the later 개새끼야, which is correctly rendered as “son of a bitch.”",
+      "replacement": "“Hey! Hey, you!”",
+      "rationale": "인마 is a rough attention-getting vocative here, while the substantially stronger insult is reserved for line 327.",
+      "confidence": 0.97
+    },
+    {
+      "id": "F05",
+      "severity": "minor",
+      "source": "Korean line 395 / [P199]",
+      "current": "This can’t be. This seriously makes no sense.",
+      "defect": "The assembled copy removes the established italic formatting that identifies these sentences as direct thought.",
+      "replacement": "*This can’t be. This seriously makes no sense.*",
+      "rationale": "The Korean marks this as Taekyung’s internal thought, and both the project convention and accepted baseline distinguish direct thoughts with italics.",
+      "confidence": 0.99
+    }
+  ]
+}
