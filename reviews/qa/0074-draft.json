@@ -1,0 +1,47 @@
+{
+  "chapter": 74,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.271,
+    "source_characters": 6459,
+    "source_paragraphs": 236,
+    "translation_characters": 14670,
+    "translation_paragraphs": 230
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "내공",
+        "preferred": "internal energy"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "운기조식",
+        "preferred": "circulate one's qi"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "로그인",
+        "preferred": "Login"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "사천",
+        "preferred": "Sichuan"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
