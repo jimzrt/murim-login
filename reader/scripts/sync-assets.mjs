@@ -5,6 +5,10 @@ import { fileURLToPath } from "node:url";
 const readerDir = join(dirname(fileURLToPath(import.meta.url)), "..");
 const repoRoot = join(readerDir, "..");
 const publicDir = join(readerDir, "public");
+const assetsDir = join(readerDir, "src", "assets");
+const coverSrc = join(repoRoot, "cover.jpg");
 
 mkdirSync(publicDir, { recursive: true });
-copyFileSync(join(repoRoot, "cover.jpg"), join(publicDir, "cover.jpg"));
+mkdirSync(assetsDir, { recursive: true });
+copyFileSync(coverSrc, join(publicDir, "cover.jpg"));
+copyFileSync(coverSrc, join(assetsDir, "cover.jpg"));
