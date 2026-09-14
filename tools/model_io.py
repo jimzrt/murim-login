@@ -180,8 +180,15 @@ def validate_durable_update(value: dict, number: int) -> dict:
             if "\n" in field or "|" in field:
                 raise ValueError(f"address pair {position} {key} cannot contain a newline or pipe")
             row[key] = field.strip()
-        if not re.fullmatch(r"[가-힣](?:[가-힣]| [가-힣])+", row["speaker"]) or not re.fullmatch(r"[가-힣](?:[가-힣]| [가-힣])+", row["addressee"]):
-            raise ValueError(f"address pair {position} speaker and addressee must be Korean")
+        # Hangul titles may include Arabic digits from source spelling (e.g. 1팀장).
+        korean_name = re.compile(
+            r"(?=.*[가-힣])[가-힣0-9](?:[가-힣0-9]| [가-힣0-9])+"
+        )
+        if not korean_name.fullmatch(row["speaker"]) or not korean_name.fullmatch(row["addressee"]):
+            raise ValueError(
+                f"address pair {position} speaker and addressee must be Korean "
+                "(Hangul required; Arabic digits allowed in titles like 1팀장)"
+            )
         key = (row["speaker"], row["addressee"])
         if key in seen_pairs:
             raise ValueError(f"duplicate address pair: {row['speaker']} -> {row['addressee']}")
