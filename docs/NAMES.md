@@ -112,3 +112,10 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 박지황 | **Park Jihwang** | Jihoon's former name, revealed when Taekyung recognizes him. |
 | 가람중 | **Garam Middle School** | Middle school attended by Taekyung and Jihoon. |
 | 명동 길드 | **Myeongdong Guild** | Large Guild in which Jihoon belongs to Team 1. |
+| 1팀장 | **Team 1 Leader** | Sangdong Guild's Team 1 leader and its only A-rank Hunter besides Im Chunsoo. |
+| 희망 고시원 | **Hope Goshiwon** | The goshiwon listed as Taekyung's residence in the target report. |
+| 기감 | **Qi Sense** | Taekyung's sensory technique; its range reaches seventy meters in this chapter. |
+| 집파리 | **Housefly** | System label for a Level 1 fly familiar. |
+| 검정파리 | **Black Blow Fly** | System label for a Level 1 fly familiar. |
+| 금파리 | **Green Bottle Fly** | System label for a Level 1 fly familiar. |
+| 패밀리어 | **Familiar** | System classification for the flies detected in Taekyung's home. |
