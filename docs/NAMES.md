@@ -109,3 +109,10 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 아크 리치 | **Arch Lich** | Superior undead being referenced by the three incomplete Liches. |
 | 스켈레톤 메이지 | **Skeleton Mage** | Undead unit the three beings consider deploying. |
 | 데스나이트 | **Death Knight** | Powerful undead being the three beings plan but fail to create. |
+| 웨이펑후 | **Wei Penghu** | Senior General and Minister of Defense at the Central Military Commission. |
+| 언데드 헌터 | **Undead Hunter** | Title acquired by Jin Taekyung as the Unexpected Assault Quest Reward. |
+| 죽음의 강 | **River of Death** | River upon which the undead swear binding oaths. |
+| 검은 숲 | **Black Forest** | Domain the Skeleton Warlord claims to rule. |
+| 국방부장 | **Minister of Defense** | Wei Penghu's office at the Central Military Commission. |
+| 상장 | **Senior General** | Wei Penghu's military rank, explained as four-star. |
+| 오르페우스 폰 막시무스 발렌시아 바이엘른 | **Orpheus von Maximus Valencia Bayern** | Self-styled name used by one of the three undead beings; retains the source's humorous wordplay. |

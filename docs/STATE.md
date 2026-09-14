@@ -1,18 +1,17 @@
 # Translation State
 
-- Last completed: 381
-- Next chapter: 382
-- Current block: 380–384 (2/5)
-- Latest translation: `translations/0381.md`
-- Latest summary: `summaries/beats/0381.md`
-- Safe profiles through: chapter 381
+- Last completed: 382
+- Next chapter: 383
+- Current block: 380–384 (3/5)
+- Latest translation: `translations/0382.md`
+- Latest summary: `summaries/beats/0382.md`
+- Safe profiles through: chapter 382
 
 ## Current Block
 
-- The Skeleton Warlord successfully seizes control of nearby undead monsters, causing them to stop fighting and then attack their former allies. The controlled force expands to roughly two hundred undead, while Shao Shen orders the Chinese Hunters to launch an all-out attack against the remaining monsters.
-- Team Leader Choi kills a griffin with his auction-bought transparent longsword. The Skeleton Warlord continues resurrecting fallen monsters, and Taekyung advances through the battlefield using Flamefire Path while planning to create an even larger undead legion by killing the remaining monsters.
-- Three beings in dead mage bodies reveal that they were once great necromancers and are still undergoing transformation into Liches. Their superior, the Arch Lich, ordered them to kill humans and create more undead. They combine their power, kill People's Liberation Army soldiers to strengthen the monster army, and attempt to deploy increasingly powerful undead units, including Dullahans and a planned Death Knight.
-- Taekyung's rapid advance destroys the undead units sent against him and reaches the three beings before they can complete their preparations. He greets them mockingly while they hurriedly chant their pseudo-incantations.
+- Jin Taekyung captures the three beings commanding the undead, causing the undead to stop moving and the monster army to collapse or flee. The three identify themselves as Arch Liches and reveal what happened since the Arch Lich's first appearance a week earlier, swearing upon the River of Death that they are telling the truth.
+- The Skeleton Warlord absorbs a large amount of death energy from one of the beings, greatly weakening it. Taekyung destroys that being with Scorching Yang Qi and orders the Skeleton Warlord to devour the remaining two, destroying all three.
+- The Unexpected Assault Quest is completed. Taekyung receives the Undead Hunter Title, considerable EXP and Fame, and one level up. The Skeleton Warlord is substantially more powerful after absorbing the death energy. Taekyung then meets Team Leader Choi, Shao Shen, and Wei Penghu, who identifies himself as the Minister of Defense at the Central Military Commission and says that a jet is waiting at the operations headquarters, where everyone is waiting for Taekyung.
 
 ## Open Questions
 
@@ -28,10 +27,9 @@
 - The Lich's exact role in the Chengdu attack and the extent of its reach remain unresolved; the Skeleton Warlord believes the Lich did not personally lead this attack.
 - Whether Taekyung's private jet explodes or can be recovered remains unresolved.
 - Whether the Arch Lich is the same entity as the previously referenced Lich remains unresolved.
-- The individual identities of the three former necromancers controlling the undead remain unresolved.
-- The outcome of the confrontation between Taekyung and the three beings remains unresolved.
-- Whether the Skeleton Warlord's expanded control over the undead persists and what effect it will have on the battle remains unresolved.
-- The outcome of the Unexpected Assault Quest and the ongoing battle at Chengdu International Airport remain unresolved.
+- The individual identities and origins of the three former necromancers controlling the undead remain unresolved.
+- Whether the Skeleton Warlord's increased power persists, and the full extent of that increase, remain unresolved.
+- The identity of everyone waiting at the operations headquarters and the purpose of the meeting remain unresolved.
 
 ## Exceptional Decision
 
@@ -58,6 +56,9 @@
 - Render 염화일로 as Flamefire Path, 아크 리치 as Arch Lich, 데스나이트 as Death Knight, and 스켈레톤 메이지 as Skeleton Mage.
 - Render 의념 as exchanged thoughts and 사기 as death energy in the three beings' viewpoint scene.
 - Preserve the pseudo-incantation wordplay for the names of Valencia, Madrid, Bayern Munich, and Stoke City, and for annyeonghaseyo and Yeonye-ga Junggye.
+- Render 골골이 as Boney as the Skeleton Warlord's teasing pet nickname.
+- Render 죽음의 강 as River of Death, 검은 숲 as Black Forest, 언데드 헌터 as Undead Hunter, 국방부장 as Minister of Defense, and 상장 as Senior General.
+- Render 오르페우스 폰 막시무스 발렌시아 바이엘른 as Orpheus von Maximus Valencia Bayern.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.91,
+      "current": "“Yes. Yes. It is indeed the Arch Lich.”",
+      "defect": "The answer introduces a singular external referent instead of identifying the three captives as Arch Liches.",
+      "id": "F01",
+      "rationale": "All three captives nod in response to the label and answer for themselves. Korean does not inflect 아크 리치 for number, but the plural scene supplies the omitted subject and quantity.",
+      "replacement": "“Yes. Yes. We are indeed Arch Liches.”",
+      "severity": "minor",
+      "source": "lines 9–21"
+    },
+    {
+      "confidence": 0.98,
+      "current": "A bad liar deserved punishment.",
+      "defect": "“Bad liar” can mean someone who is inept at lying, changing the moral contrast from a bad creature who tells lies.",
+      "id": "F02",
+      "rationale": "거짓말이나 치는 나쁜 놈 means a bad one who lies, directly contrasting with the preceding honest child; it does not characterize the creature's skill at deception.",
+      "replacement": "A bad little thing that lied deserved punishment.",
+      "severity": "minor",
+      "source": "line 65"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Too many snacks would be overdoing it.",
+      "defect": "The translation changes excessive frequency into excessive quantity.",
+      "id": "F03",
+      "rationale": "너무 자주 주면 explicitly means giving them too often, not giving too many snacks at once.",
+      "replacement": "Giving snacks too often would be overdoing it.",
+      "severity": "minor",
+      "source": "line 75"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Too late to undo what you’ve done.”",
+      "defect": "The translation repeats “Too late,” turning the second half of a deliberately interrupted sentence into a reiteration absent from the source.",
+      "id": "F04",
+      "rationale": "The Korean dialogue is split around the narration as one construction: “Too late”—narration—“to undo what you’ve done.” Preserving the fragment retains the intended pause and cold dramatic completion.",
+      "replacement": "“To undo what you’ve done.”",
+      "severity": "minor",
+      "source": "lines 191–195"
+    }
+  ],
+  "summary": "No blocking defects; four minor fidelity issues affect quantity, moral logic, frequency, and dramatic phrasing.",
+  "version": 1
+}

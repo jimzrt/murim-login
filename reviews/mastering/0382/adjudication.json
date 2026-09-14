@@ -1,0 +1,642 @@
+{
+  "chapter": 382,
+  "decisions": [
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H001",
+      "reason": "SOL turns 지휘력 into commanders and weakens 우두머리 to in charge; BASE's got hold of is too weak for 붙잡자.",
+      "replacement": "Once I captured the three who looked like leaders, the undead they had been controlling stopped moving like clockwork dolls. Deprived of its command, the monster army scattered and collapsed, with some dying and others fleeing."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H002",
+      "reason": "SOL drops 내 물음에; BASE's sitting on their knees is calqued from 무릎을 꿇고 앉아.",
+      "replacement": "At my question, the three kneeling creatures nodded."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H003",
+      "reason": "Drops BASE's unsupported still while keeping 이미 죽어서 뼈만 남은."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H004",
+      "reason": "SOL omits 말을 이었다, which carries the narration into the next line of dialogue."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H005",
+      "reason": "사람이 말을 하면 is when someone speaks, not asks a question."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H006",
+      "reason": "튀어나왔다 is a burst of an answer; SOL flattens it to they answered."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H007",
+      "reason": "아크 리치가 맞습니다 confirms identity in the present, not a past-tense was."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H008",
+      "reason": "정확합니다 as correct is more spoken than accurate in this groveling line."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H009",
+      "reason": "Indeed is too elevated for the 반말 그렇다 that gets the speaker called out."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H010",
+      "reason": "BASE pluralizes Arch Liches; SOL's spoke to me informally misses 대답한.",
+      "replacement": "“Hmm. An Arch Lich. Never heard of that monster before… But which one of you just answered me informally?”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H011",
+      "reason": "Address matches the groveling register of 감히 위대하신 인간님께 better than speak to."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H012",
+      "reason": "휙 of pointing fingers is a flicking swish, not a whoosh of air."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H013",
+      "reason": "SOL adds an unsupported count of two fingers and third creature; Korean is 손가락들이 한 놈을."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H014",
+      "reason": "Tighter causation for 전광석화와도 같은 동료들의 배신에 without BASE's extra began to."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H015",
+      "reason": "Slander as a mass noun is more natural than a vile slander."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H016",
+      "reason": "Doesn't sound like slander to me is more spoken Taekyung for 내 생각에는 모함이 아닌 것 같은데."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H017",
+      "reason": "Keeps the direct you of 할 거면 and the 반말 punch of 말투라도 좀 고치든가; SOL's third person is more distant and vaguer."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H018",
+      "reason": "슬쩍 is a casual/furtive check, not merely a quick look."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H019",
+      "reason": "Snack time is punchier spoken English for 간식 먹자."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H020",
+      "reason": "Preserves the two-beat fragment plus 불꽃이 일렁인다; SOL merges them and adds It was."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H021",
+      "reason": "Go back to calling me is more natural for 전처럼 … 불러라."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H022",
+      "reason": "해골이니까 is because you're a skeleton, not all bones."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H023",
+      "reason": "모욕하다니 is scandalized to think that, not How dare you."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H024",
+      "reason": "SOL drops the dismissive 뭐."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H025",
+      "reason": "In versus into is a distinction without a prose or fidelity gain."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H026",
+      "reason": "What an honest little thing matches the exclamatory 아이로구나."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H027",
+      "reason": "A bad liar is cleaner English for 거짓말이나 치는 나쁜 놈 than a bad one that lied."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H028",
+      "reason": "Have a taste is closer to 시식해 than generic Try it."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H029",
+      "reason": "SOL's vocative matches 인간이여, but may I eat changes 먹어야 from should to permission.",
+      "replacement": "- Thank you, slightly less wicked human. But how much should I eat…?"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H030",
+      "reason": "알겠다 is I understand, not very well."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H031",
+      "reason": "Toward is the right preposition for 향해; BASE's opened his mouth wide at is off."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H032",
+      "reason": "E-Eek preserves the stuttered 히, 히이익."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H033",
+      "reason": "단호한 외침 is a firm shout, not a reply."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H034",
+      "reason": "Fascinating is closer to 신기하네 than amazing."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H035",
+      "reason": "SOL adds unsupported dust; BASE's like something being sucked up is translationese.",
+      "replacement": "Like it was being sucked up by a vacuum cleaner, black mist began flowing out of the kneeling creature’s body and being absorbed by the Skeleton Warlord."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H036",
+      "reason": "변화는 거기에서 끝나지 않았다 is the change didn’t end there, not another change."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H037",
+      "reason": "BASE drops the 수록 correlative; SOL loses 점점 새하얗게's whiter and whiter.",
+      "replacement": "As more of the black mist—the substance the Skeleton Warlord called death energy—flowed out, the creature’s complexion, or rather its bones, gradually turned whiter and whiter."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H038",
+      "reason": "Enough with is punchier scolding for 사기잇 같은 소리 하네."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H039",
+      "reason": "Are you really one to talk is the English idiom for 네가 할 소린가."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H040",
+      "reason": "SOL drops 이제 from 이제 그만 먹어라."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H041",
+      "reason": "할 말을 잃은 is speechless, not merely silent; 바라봤다 is looked, not examined.",
+      "replacement": "The Skeleton Warlord was struck speechless. I tucked him against my chest and looked at the creature."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H042",
+      "reason": "SOL's halfway bleached white matches 반쯤 백골, but 녹색 불빛 is light, not flames.",
+      "replacement": "Its bones had been dark and grimy when I first saw it. Now they were halfway bleached white. Perhaps because so much death energy had been drained from it, the green light in its eye sockets wavered dangerously."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H043",
+      "reason": "Sucked dry to the bone preserves 쪽쪽 빨린; BASE's drained to the bone dulls the sucking image."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H044",
+      "reason": "Ask us anything is the natural English order for 무엇이든 하문하십시오."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H045",
+      "reason": "나야 고맙긴 하지만 is gratitude, not cooperation being convenient."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H046",
+      "reason": "The Korean line ends with !; BASE's period underplays it."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H047",
+      "reason": "BASE makes a singular 말하겠습니다 into we; SOL's I'll talk is too casual for the formal verb.",
+      "replacement": "- I-I will tell you."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H048",
+      "reason": "Threw themselves into the interrogation with enthusiasm is livelier, still faithful to 열정적으로 질의응답에 참여했다."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H049",
+      "reason": "After hearing … I furrowed matches 들은 나는 as one beat; SOL splits it with an extra Then."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H050",
+      "reason": "You’re sure is the clipped spoken form of 확실해."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H051",
+      "reason": "SOL adds in our words, which is not in 한 치의 거짓도 없습니다."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H052",
+      "reason": "SOL drops 불쑥 from 불쑥 끼어들었다."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H053",
+      "reason": "뒷돈 받았냐 is pay you off; under the table elaborates without source support."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H054",
+      "reason": "절대적인 약속이다 is promise; oath steps up to 맹세, already used in the same line."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H055",
+      "reason": "Gravity of a speck of dust naturalizes 먼지처럼 가볍던 versus 무게를 잡고 without losing the contrast."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H056",
+      "reason": "수작을 부릴 is scheme; try anything is vaguer."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H057",
+      "reason": "Serve you with all my heart is more natural for 충심을 다하겠나이다 than devote my entire heart to your service."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H058",
+      "reason": "SOL adds great to 인간님께 and drops 오늘과 같은."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H059",
+      "reason": "The split matches the Korean paragraph break after 머뭇거렸다."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H060",
+      "reason": "SOL turns 안광 into flames and reverses 주먹과 나를.",
+      "replacement": "The trembling green light in its eyes shifted between the fist buried in its chest and me."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H061",
+      "reason": "The chopped syntax matches the gasping 나, 나는, 충성을, 맹세, 죽음의 강."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H062",
+      "reason": "Too late to undo completes 늦었어 plus 되돌리기에는; BASE makes it a separate You can’t."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H063",
+      "reason": "SOL's countless over-reads 수많은 and steals the next line's 헤아릴 수조차 없을; BASE's comma before today is awkward.",
+      "replacement": "A great many people had died here today."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H064",
+      "reason": "Armed with firearms and no telling how many are more idiomatic for 화기를 갖춘 and 헤아릴 수조차 없을."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H065",
+      "reason": "Keeps 순간 and the suspense dash into 화륵; SOL flattens it to a closed sentence."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H066",
+      "reason": "SOL's lodged between misplaces 박혀 있던 주먹 and reduces 강기 to generic qi."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H067",
+      "reason": "Isolated 보였다 is a visual beat; SOL deletes it."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H068",
+      "reason": "휘청이던 is wavering, 안광 is light, 촛불 is singular; SOL changes all three and repeats I saw."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H069",
+      "reason": "주문을 영창하는 is chanting spells; SOL drops 주문."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H070",
+      "reason": "마력 is mana, but SOL pluralizes the 주문, softens 사악한 to sinister, and turns 한마디 into a command.",
+      "replacement": "A wind of mana swirled around them. Just as the evil spell was about to be completed, I casually spoke one word."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H071",
+      "reason": "Those exact words captures 그 말만을; from inside my clothes is clearer than from among, and he matches the Warlord."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H072",
+      "reason": "SOL adds desperate and upgrades 단말마 to screams without source support."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H073",
+      "reason": "염원과는 달리 is contrary to their wishes, not their wishes meant nothing."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H074",
+      "reason": "두개골을 부르르 떤 is the skull trembling, not a generic shudder."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H075",
+      "reason": "Collapsed into piles of bone captures 와르르 허물어졌다 better than crumbled to the ground."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H076",
+      "reason": "SOL captures 거뜬 but turns 모양이다 into must have gotten much higher; BASE misses easily.",
+      "replacement": "In the past, I would easily have leveled up several times. But now that I had reached Level 120, it seemed the EXP requirement had increased."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H077",
+      "reason": "The battles ahead is more natural for 앞으로의 전투 than future battles."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H078",
+      "reason": "The same goes for him is the idiomatic rendering of 저놈도 마찬가지고."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H079",
+      "reason": "덕분인지 is speculative perhaps because; SOL's Thanks to drops 인지, and incomparable is closer than a different level."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H080",
+      "reason": "The holes are his nose, ears, and eyes; BASE's where features should have been adds a counterfactual."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H081",
+      "reason": "묵광 is inky luster and 쩌렁쩌렁 is rang, but 보랏빛 안광 is light, not flames.",
+      "replacement": "Purple light blazed in his eyes like torches, and the surface of his skull gleamed with a smooth, inky luster. Then his booming laughter rang through my head."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H082",
+      "reason": "큰 감사를 표하마 is shall express great gratitude; SOL's must and profound add obligation and intensity."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H083",
+      "reason": "Who fed you is tighter for 누가 먹이를 줬는데 without losing the jab."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H084",
+      "reason": "발끈했다 is a flare of anger, not a bristling."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H085",
+      "reason": "먹이라니 reacts to the noun food/feed, which sets up the pet line; Fed me shifts the cue."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H086",
+      "reason": "비슷하지 is something like that / it's similar, not close enough."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H087",
+      "reason": "돌아와 is come back; SOL drops back."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H088",
+      "reason": "SOL drops 튕기듯, the springing image on 폴짝 뛰어올라."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H089",
+      "reason": "잘했어 is good job, not good boy."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H090",
+      "reason": "SOL fills the trailing 인간 따위에게 with unsupported respond so; BASE keeps the aposiopesis."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H091",
+      "reason": "The first clause ends in 이다, not an exclamation."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H092",
+      "reason": "Who’s only a head is the tighter deadpan for 머리통만 남은 사령관."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H093",
+      "reason": "얼마든지 복구 is as many times as I wish, not whenever I wish."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H094",
+      "reason": "Keeps 어차피 as anyway and 미친 as crazy; lunatic plus dropped anyway shifts force."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H095",
+      "reason": "Isolated 까드득 is an SFX beat; SOL deletes it."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H096",
+      "reason": "뼈마디 is bone joints; SOL's flames in his eye sockets over-specifies 안광.",
+      "replacement": "The Skeleton Warlord had no teeth, so he ground his bone joints instead. His eye sockets narrowed."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H097",
+      "reason": "Why, vile human matches the vocative 간악한 인간 without an extra you."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H098",
+      "reason": "이토록 큰 힘 is great power; tremendous intensifies it."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H099",
+      "reason": "어? is Huh, not What."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H100",
+      "reason": "SOL drops the second 좆밥, losing the callback after 네가 좆밥이라서."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H101",
+      "reason": "자리에서 일어났다 is stood up; SOL's stood is weaker."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H102",
+      "reason": "States 텅 비고 어두컴컴한 as its own clause instead of burying it in the walking line."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H103",
+      "reason": "낯익은 얼굴 is familiar faces; SOL drops 얼굴."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H104",
+      "reason": "Presentable matches 멀끔한 상태 as appearance, not injury condition."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H105",
+      "reason": "The subject is 샤오 쉔의 얼굴 covered in blood and dust, not Shao Shen the person."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H106",
+      "reason": "Made an excuse is the standard rendering of 둘러댔다; offered is a distinction without gain."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H107",
+      "reason": "Speak casually to me makes the addressee of 말씀 낮춰 주십시오 explicit."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H108",
+      "reason": "아는지 모르는지 is whether he knew or not; SOL defaults to oblivious and swaps 공손한 태도 for respect."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H109",
+      "reason": "이 자리를 빌려 is take this opportunity; SOL drops it."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H110",
+      "reason": "아, 예 is yes, not sure, and the line is 마땅히 해야 할 일이었는데요 as it was what needed doing."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H111",
+      "reason": "손사래를 치며 is the physical modest hand-wave; waved it off loses the gesture."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H112",
+      "reason": "도 falls on 내가 하는 말 (even my words), not even to Team Leader Choi."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H113",
+      "reason": "낯선 사람 is an unfamiliar person, and 반백 is half-gray, not merely graying."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H114",
+      "reason": "악수를 청했다 is offering a handshake; SOL's held out his hand drops 악수."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H115",
+      "reason": "Bare Minister of Defense is the natural title self-introduction; the extra the is unnecessary."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H116",
+      "reason": "The Minister of Defense is the natural English reaction to the office 국방부장이라면."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H117",
+      "reason": "I could tell is more spoken for 알겠는데 than I understood."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H118",
+      "reason": "SOL adds leaned over, which is not in 옆에서 … 속삭였다."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H119",
+      "reason": "So you’re captures 대장님이셨구나; SOL's period after Oh breaks 아아, 아아아."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H120",
+      "reason": "쪽박도 그런 쪽박이 없었지만 is a flop in a league of its own; spectacular flop underplays the superlative."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H121",
+      "reason": "Smiled faintly at my reaction is cleaner English for 희미한 미소를 띠며."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H122",
+      "reason": "SOL inserts but/certainly against 그런지 and drops third-person 진 선생께; BASE's youthful vigor is redundant and make our way there is wordy.",
+      "replacement": "“Perhaps because you are young, you are full of vigor. I have much to ask Teacher Jin, but… shall we talk on the way?”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H123",
+      "reason": "따라 발걸음을 옮기려던 is started following, not the vaguer started after."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H124",
+      "reason": "진 선생을 기다리고 keeps his third-person honorific; SOL's you flattens it."
+    }
+  ],
+  "version": 1
+}

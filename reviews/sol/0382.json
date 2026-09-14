@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "- Yes. Yes. We are indeed Arch Liches.",
+      "defect": "The draft changes the singular Arch Lich being discussed into the three speakers themselves and pluralizes the identity.",
+      "id": "F01",
+      "rationale": "The Korean retains 아크 리치 as singular and does not supply a first-person plural subject. The subsequent reference to the Arch Lich’s first appearance also treats it as a distinct singular entity.",
+      "replacement": "- Yes. Yes. It is indeed the Arch Lich.",
+      "severity": "critical",
+      "source": "- 예. 예. 아크 리치가 맞습니다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The last creature couldn’t finish speaking. It hesitated, staring back and forth between me and the fist buried in its chest.",
+      "defect": "The draft omits the trembling green light in the creature’s eyes and folds its gaze into a generic description of the creature.",
+      "id": "F02",
+      "rationale": "The source explicitly makes the quivering green eye-light track between the embedded fist and Taekyung.",
+      "replacement": "The last creature couldn’t finish speaking and faltered. The trembling green light in its eyes shifted between the fist buried in its chest and me.",
+      "severity": "minor",
+      "source": "마지막 놈은 말을 잇지 못하고 머뭇거렸다.\n\n파르르 떨리는 녹색 안광이 자신의 가슴팍에 틀어박힌 주먹과 나를 번갈아 바라본다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "- As you command.",
+      "defect": "The draft adds deferential obedience absent from the Skeleton Warlord’s response, weakening his proud, combative characterization.",
+      "id": "F03",
+      "rationale": "얼마든지 expresses eager willingness to consume everything, not submission to Taekyung’s authority.",
+      "replacement": "- Gladly.",
+      "severity": "major",
+      "source": "- 얼마든지."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“To the operations headquarters. I have had a jet prepared.”",
+      "defect": "The draft changes the jet’s concrete state from waiting on standby to merely having been prepared.",
+      "id": "F04",
+      "rationale": "대기시켜 두었소 specifically means that the jet has been placed on standby.",
+      "replacement": "“To the operations headquarters. I have a jet standing by.”",
+      "severity": "minor",
+      "source": "「작전 본부요. 제트기를 대기시켜 두었소.」"
+    },
+    {
+      "confidence": 0.97,
+      "current": "A snack could become excessive if you gave it out too often. The Skeleton Warlord expressed his disappointment, then opened his mouth wide toward the trembling creature.",
+      "defect": "The draft drops the cue that the Skeleton Warlord shows only slight disappointment.",
+      "id": "F05",
+      "rationale": "살짝 limits the reaction to a small show of disappointment, preserving the comic restraint of the beat.",
+      "replacement": "Too many snacks would be overdoing it. Showing a hint of disappointment, the Skeleton Warlord opened his mouth wide at the trembling creature.",
+      "severity": "minor",
+      "source": "간식도 너무 자주 주면 과한 법. 살짝 아쉬움을 표한 스켈레톤 워로드가 벌벌 떨고 있는 놈을 향해 입을 쩍 벌렸다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "A voice as cold as someone else’s slipped through my lips.",
+      "defect": "The comparison is misconstrued as someone else’s voice being cold rather than Taekyung’s voice sounding alien to him.",
+      "id": "F06",
+      "rationale": "남의 것처럼 describes the voice as seeming not to belong to Taekyung, emphasizing his abrupt tonal shift.",
+      "replacement": "A voice so cold it seemed to belong to someone else slipped through my lips.",
+      "severity": "minor",
+      "source": "남의 것처럼 차가운 목소리가 입술을 비집고 흘러나왔다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "His purple eye sockets burned like torches, and his surface gleamed with a smooth, dark luster.",
+      "defect": "The draft makes the physical eye sockets burn rather than the purple light within them.",
+      "id": "F07",
+      "rationale": "안광 denotes the light or glow in the eyes, not the eye sockets themselves.",
+      "replacement": "Purple light blazed in his eyes like torches, and the surface of his skull gleamed with a smooth, dark luster.",
+      "severity": "minor",
+      "source": "횃불처럼 타오르는 보랏빛 안광과 매끈한 묵광을 자랑하는 표면."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“You can’t beat me anyway. If I’m going to drag you around, it’s easier to use a stronger, more useful weakling, isn’t it?”",
+      "defect": "The second occurrence of the vulgar insult 좆밥 is softened to the neutral “weakling,” losing the deliberate repetition.",
+      "id": "F08",
+      "rationale": "Taekyung repeats the same crude insult from the preceding line; preserving that repetition maintains both his profanity level and the punchline.",
+      "replacement": "“You can’t beat me anyway. If I’m going to drag you around, it’s easier to make use of a stronger, more useful fucking weakling, isn’t it?”",
+      "severity": "minor",
+      "source": "“어차피 넌 나 못 이겨. 그럴 거면 좀 더 강하고 쓸모있는 좆밥을 데리고 다니는 게 써먹기도 편하잖아. 안 그래?”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "I exchanged a glance with Team Leader Choi and made an excuse.",
+      "defect": "The draft replaces Taekyung’s deliberate greeting with a reciprocal glance unsupported by the source.",
+      "id": "F09",
+      "rationale": "눈인사를 건네다 means to offer a greeting through eye contact; it does not state that Choi returns it.",
+      "replacement": "I greeted Team Leader Choi with a glance and made an excuse.",
+      "severity": "minor",
+      "source": "나는 최 팀장을 향해 눈인사를 건네며 둘러댔다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Oh, oh! So you’re a general! Nice to meet you!”",
+      "defect": "The generic “general” loses Taekyung’s realization that the rank just explained to him is specifically four-star general.",
+      "id": "F10",
+      "rationale": "In this exchange, 대장 is the four-star rank clarified by Team Leader Choi’s immediately preceding explanation, and it sets up Taekyung’s four-star game joke.",
+      "replacement": "“Oh, ohhh! So you’re a four-star general! Nice to meet you!”",
+      "severity": "minor",
+      "source": "“아아, 아아아! 대장님이셨구나! 만나서 반갑습니다!”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "- You have broken apart the monster army! This is truly an outstanding achievement!",
+      "defect": "“Broken apart the monster army” is an unnatural English collocation for the army’s defeat and dispersal.",
+      "id": "F11",
+      "rationale": "와해시켰습니다 means that Taekyung caused the organized force to collapse or disperse; “routed” expresses that result naturally.",
+      "replacement": "- You have routed the monster army! This is truly an outstanding achievement!",
+      "severity": "minor",
+      "source": "- 당신은 몬스터 군단을 와해시켰습니다! 이는 실로 뛰어난 업적입니다!"
+    }
+  ],
+  "summary": "One critical identity error: the draft turns the singular Arch Lich into the three captives. Additional localized findings affect physical detail, characterization, register, hierarchy, and natural English.",
+  "version": 1
+}
