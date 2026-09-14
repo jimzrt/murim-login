@@ -1,0 +1,196 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Yeah. She was born in summer, so I named her Midsummer. Pretty, right?”\n\n“What do you mean, Midsummer? Judging by her size, she looks about three months old. She was born in late spring, so call her Late Spring or something.”\n\n“…Is that supposed to be a joke or what? Anyway, her name is Yeoreum from today onward. Right, Yeoreum?”",
+      "defect": "The translation repeatedly identifies the kitten as female before either sibling has checked its sex, undermining the uncertainty that drives the following scene.",
+      "id": "F01",
+      "rationale": "Korean permits the passage to remain gender-neutral, and the characters immediately establish that they do not yet know the kitten’s sex.",
+      "replacement": "“Yeah. Born in summer, so Midsummer. Pretty, right?”\n\n“What do you mean, Midsummer? Judging by the size, the kitten looks about three months old. That would mean it was born in late spring, so call it Late Spring or something.”\n\n“…Is that supposed to be a joke or what? Anyway, this kitten’s name is Yeoreum from today onward. Right, Yeoreum?”",
+      "severity": "major",
+      "source": "“응. 여름에 태어났으니까 한여름. 이름 예쁘지?”\n\n“한여름은 무슨. 덩치 보니까 3개월은 되어 보이는데 늦봄에 태어났으니까 늦봄이라고 하든가.”\n\n“……그게 말이야, 방구야? 아무튼 얘 이름은 오늘부터 여름이야. 그치, 여름아?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Ahh! She answered! Yeoreum just answered me, right? She did, didn’t she?”",
+      "defect": "The draft again assigns an unconfirmed female sex and omits Hayeon’s cutesy use of 언니, in which she calls herself the kitten’s big sister.",
+      "id": "F02",
+      "rationale": "The source preserves the kitten’s unknown sex while characterizing Hayeon through playful fictive kinship.",
+      "replacement": "“Ahh! Yeoreum answered! You just answered your big sister, didn’t you? Didn’t you?”",
+      "severity": "major",
+      "source": "“꺄악! 대답했어! 여름이 방금 언니한테 대답한 거 맞죠? 그렇죠?”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Come to think of it, we haven’t checked.”",
+      "defect": "The draft changes Hayeon’s singular admission that she did not check into a shared failure by both siblings.",
+      "id": "F03",
+      "rationale": "The omitted Korean subject is resolved by Hayeon’s role as the person who brought in and named the kitten; the following exchange also treats the check as something she neglected.",
+      "replacement": "“Come to think of it, I haven’t checked.”",
+      "severity": "critical",
+      "source": "“그러고 보니 확인을 안 했어.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Oh my, I think she doesn’t like that.”",
+      "defect": "The female pronoun prematurely resolves the kitten’s sex during the very exchange about determining it.",
+      "id": "F04",
+      "rationale": "얘 is gender-neutral here, and preserving that ambiguity is necessary for the scene’s action and joke.",
+      "replacement": "“Oh my, I don’t think the kitten likes that.”",
+      "severity": "major",
+      "source": "“어머, 얘가 싫어하는 거 같은데?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“What do I do? She’s so cute I could die.”\n\n“Yeah, she’s cute, so let’s take a look.”\n\n“Do it next time. You’re scaring her.”",
+      "defect": "The draft repeatedly uses female pronouns although the kitten’s sex remains unknown.",
+      "id": "F05",
+      "rationale": "The source avoids gendered reference, and the uncertainty must remain intact because Taekyung has not completed the examination.",
+      "replacement": "“What am I going to do? Yeoreum’s so cute I could die.”\n\n“Yeah, very cute. So let’s take a look.”\n\n“Do it next time. You’re scaring the kitten.”",
+      "severity": "major",
+      "source": "“어떡해. 귀여워서 미칠 것 같아.”\n\n“그래, 귀여우니까 한번 까 보자.”\n\n“다음에 해. 애가 무서워하잖아.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Don’t go around forcing yourself on her again. Kittens are sensitive, so you have to be careful with them.”",
+      "defect": "“Forcing yourself on her” introduces a much more explicit sexual-assault implication than the source’s warning not to handle the kitten against its will, and it again assigns a female sex.",
+      "id": "F06",
+      "rationale": "억지로 만지다 means to touch or handle forcibly; it does not carry the explicit sexual meaning of the current English phrase.",
+      "replacement": "“Don’t you dare force the kitten to let you handle it. Kittens are sensitive, so you have to be careful with them.”",
+      "severity": "major",
+      "source": "“괜히 애 억지로 만지고 그랬단 봐라. 새끼 고양이들은 예민해서 신경 써 줘야 한단 말이야.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“…Are you trying to bribe me with money so you can molest our Yeoreum?”",
+      "defect": "“Molest” makes Hayeon’s deliberately evasive accusation explicitly sexual.",
+      "id": "F07",
+      "rationale": "농락하다 here is a comic, euphemistic accusation of toying with or having one’s way with the kitten; the source does not state sexual molestation explicitly.",
+      "replacement": "“…Are you trying to bribe me so you can mess with our Yeoreum?”",
+      "severity": "major",
+      "source": "“……지금 나를 돈으로 매수해서 우리 여름이를 막, 농락하겠다 이거야?”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Your wallet’s on the desk in my room. Go get it.”",
+      "defect": "The draft reverses ownership of the wallet, saying it belongs to Hayeon instead of Taekyung.",
+      "id": "F08",
+      "rationale": "Taekyung is paying Hayeon from his own wallet, which she subsequently searches and takes money from.",
+      "replacement": "“My wallet’s on the desk in my room. Go get it.”",
+      "severity": "critical",
+      "source": "“내 방 책상에 지갑 있으니까 가져가.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "She had acted as if she would give him the liver and gallbladder from her own body, and now she was selling their Yeoreum for a mere hundred thousand won?",
+      "defect": "The Korean idiom is rendered as a grotesque literal anatomical action rather than its natural meaning of being willing to give someone everything.",
+      "id": "F09",
+      "rationale": "간이고 쓸개고 다 빼 주다 is an idiom for unstinting devotion or giving someone everything, not literal organ removal.",
+      "replacement": "One minute she had acted ready to give Yeoreum anything, and now she was abandoning “our Yeoreum” for a mere hundred thousand won?",
+      "severity": "minor",
+      "source": "언제는 간이고 쓸개고 다 빼 줄 것처럼 굴더니 고작 10만 원에 우리 여름이를 버려?"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The loud hissing of fur standing on end caught the attention of Hong Woojin’s only hope, who was rummaging through Jin Taekyung’s wallet.",
+      "defect": "The syntax incorrectly makes the fur itself hiss.",
+      "id": "F10",
+      "rationale": "Hong Woojin, through the kitten, hisses with its fur bristling; 털을 바짝 세운 modifies the hissing creature rather than the sound.",
+      "replacement": "The kitten’s fur stood on end as Hong Woojin hissed, catching the attention of his only hope as she rummaged through Jin Taekyung’s wallet.",
+      "severity": "minor",
+      "source": "털을 바짝 세운 하악질 소리에 진태경의 지갑을 뒤지던 유일한 희망이 반응했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Our Yeoreum, should we take a look at your little dick?”",
+      "defect": "“Dick” is substantially more explicit than the childish euphemism 고추.",
+      "id": "F11",
+      "rationale": "고추 is a common childish euphemism in this context, and the source’s comic register depends on retaining that indirectness.",
+      "replacement": "“Our Yeoreum, shall we take a look at your little peepee?”",
+      "severity": "major",
+      "source": "“우리 여름이, 고추 좀 볼까?”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "**Lv. 2 Cat—Familiar**",
+      "defect": "The System label adds “Familiar,” which is absent from the displayed source text.",
+      "id": "F12",
+      "rationale": "The surrounding narration identifies the creature as a Familiar, but the actual System panel displays only its level and “Cat.”",
+      "replacement": "**Lv. 2 Cat**",
+      "severity": "major",
+      "source": "[Lv.2 고양이]"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“What are you talking about? Look how cute she is.”",
+      "defect": "The draft continues to assert that the kitten is female even though the attempted sex check failed.",
+      "id": "F13",
+      "rationale": "얘 is gender-neutral, and neither sibling has established the kitten’s sex.",
+      "replacement": "“What are you talking about? Look how cute Yeoreum is.”",
+      "severity": "major",
+      "source": "“뭐래, 얘가 얼마나 귀여운데.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "I didn’t know whose client they were, but even if I kicked them out right away, they would keep trying.",
+      "defect": "The draft reverses the commissioning relationship, describing the surveillants as someone’s clients rather than people hired by an unknown client.",
+      "id": "F14",
+      "rationale": "누구의 의뢰인지 means Taekyung does not know whose commission or request is behind the surveillance.",
+      "replacement": "I didn’t know who had hired them, but even if I drove them off now, they would keep trying.",
+      "severity": "critical",
+      "source": "누구의 의뢰인지는 몰라도 놈들은 당장 쫓아낸다 해도 계속해서 시도할 것이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "*First, I’ll put a fist in his mouth and ask him some questions.*",
+      "defect": "“Put a fist in his mouth” sounds like literal insertion and obscures the intended action of punching him in the mouth.",
+      "id": "F15",
+      "rationale": "아구창에 주먹 한 대 꽂다 is a vivid colloquial expression for landing a punch on someone’s mouth or jaw.",
+      "replacement": "*First, I’ll punch him in the mouth, then ask some questions.*",
+      "severity": "minor",
+      "source": "‘일단 아구창에 주먹 한 대 꽂고 물어봐야지.’"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“The target’s younger sister is a cat fanatic. I took advantage of the opening perfectly.”",
+      "defect": "The draft changes the subject from Hong Woojin to the speaking Familiar mage, contradicting the Team Leader’s immediate accusation that he is praising Woojin.",
+      "id": "F16",
+      "rationale": "The next line explicitly identifies the preceding statement as praise of 그 새끼, Hong Woojin, so the speaker cannot be claiming the successful tactic as his own.",
+      "replacement": "“The target’s younger sister is a cat fanatic. Hong Woojin took advantage of that opening perfectly.”",
+      "severity": "critical",
+      "source": "“표적의 여동생이 고양이 덕후랍니다. 빈틈을 잘 노렸어요.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "His Hunter Grade was only C, but he was also a core member of the Security Team because mental mages were rare.",
+      "defect": "The draft uses the System-field term “Grade” for an ordinary Hunter classification.",
+      "id": "F17",
+      "rationale": "The terminology rules reserve “rank” for Hunter classifications and “Grade” for specified System fields.",
+      "replacement": "He was only a C-rank Hunter, but he was also a core member of the Security Team because mental mages were rare.",
+      "severity": "minor",
+      "source": "헌터 등급은 C급에 불과하지만 희귀한 정신계 마법사라 보안팀의 핵심 멤버이기도 했다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Let’s do this properly. This came straight from the Guild Master. Are you going to end your careers here? We need bonuses and promotions.”",
+      "defect": "The final sentence changes the Team Leader’s admonition about his subordinates receiving bonuses and promotions into an inclusive statement about what “we” need, weakening the hierarchy and changing the subject.",
+      "id": "F18",
+      "rationale": "너희 and the implied subject of 받아야지 address the team members, even though the narration subsequently reveals that the Team Leader personally wants those rewards most.",
+      "replacement": "“Let’s do this properly. This came straight from the Guild Master. Are you going to let your careers end here? You want bonuses and promotions, don’t you?”",
+      "severity": "major",
+      "source": "“잘하자. 이거 길드장님 직통이야. 너희 여기서 끝날 거야? 보너스도 받고 승진도 해야지.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“It was an accidental incident.”\n\n“…Wouldn’t that be an accidental crime?”",
+      "defect": "“Accidental incident” is unnatural English and leaves the punchline sounding like a dictionary gloss rather than spontaneous sibling banter.",
+      "id": "F19",
+      "rationale": "The exchange jokes that taking the extra money was not an innocent accident but an opportunistic crime; the replacement preserves that contrast in natural English.",
+      "replacement": "“It was an accident.”\n\n“…Don’t you mean a crime of opportunity?”",
+      "severity": "minor",
+      "source": "“우발적 사고였어.”\n\n“……우발적 범죄 아니냐?"
+    }
+  ],
+  "summary": "The draft contains several substantive subject and ownership errors, prematurely assigns the kitten a sex the characters have not established, adds content to the System label, and makes multiple euphemisms more sexually explicit than the source.",
+  "version": 1
+}

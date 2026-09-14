@@ -1,16 +1,17 @@
 # Translation State
 
-- Last completed: 94
-- Next chapter: 95
-- Current block: 90–94 (5/5)
-- Latest translation: `translations/0094.md`
-- Latest summary: `summaries/beats/0094.md`
-- Safe profiles through: chapter 94
+- Last completed: 95
+- Next chapter: 96
+- Current block: 95–99 (1/5)
+- Latest translation: `translations/0095.md`
+- Latest summary: `summaries/beats/0095.md`
+- Safe profiles through: chapter 95
 
 ## Current Block
 
-- Taekyung spends 350 million won at the Ilsan Store, stores the purchases in his Inventory, and researches Familiar magic while riding to his family’s apartment. He learns that a B-rank mage’s Familiar connection reaches up to 500 meters, with 300 meters considered a safe working distance; forced Link severance causes physical distress and may cause mana backflow, while tiny Familiars evade most detection magic.
-- Taekyung concludes that the people who controlled the Familiars around his home yesterday must have been nearby and decides he has another reason to catch them himself. At the apartment entrance, Hayeon reveals that she found and received permission to temporarily foster an abandoned kitten, but Taekyung identifies it through the System as a level-two Cat—Familiar.
+- Hong Woojin infiltrates the Level 2 kitten living with Jin Taekyung's family through his Familiar magic and uses Jin Hayeon's love of cats to observe the household. When Taekyung tries to inspect the kitten's sex, Woojin is forced to sever the Link, suffering nausea, a headache, and severe distress before recovering with a prepared potion.
+- Taekyung already knows the kitten is a Familiar and deliberately allowed it into the house so he could identify the people behind the surveillance. He believes the controlling mage is within 500 meters, intends to find and interrogate him, and treats the surveillance as a personal intrusion. Hayeon names the kitten Yeoreum, bargains with Taekyung for spending money, and takes food money as well.
+- Sangdong Guild's Security Team is conducting a Guild Master-ordered operation involving six people: a B-rank Security Team Leader, the Guild's only Familiar mage, and four close-combat Hunters specializing in tracking and stealth. After learning that Woojin nearly exposed the operation, the Security Team Leader orders the Familiar mage to use a cat as well; the mage begins searching for cat adoption listings in Ilsan.
 
 ## Open Questions
 
@@ -19,8 +20,7 @@
 - Whether Hayeon will actually drop out of school remains unresolved.
 - Whether third-awakening Hunters exist and whether Taekyung is one remains unresolved.
 - Why Hong Woojin is investigating Taekyung and what information he seeks remains unresolved.
-- Whether Sangdong Guild sent the Familiars observing Taekyung remains unresolved.
-- Who controls the Cat Familiar and whether it is connected to the surveillance remains unresolved.
+- Whether Woojin's assignment and Sangdong Guild's Security Team operation share the same commissioning chain remains unresolved.
 
 ## Exceptional Decision
 
@@ -31,7 +31,7 @@
 - Render 사장님 as Boss in the real-estate context, including young Boss.
 - Render 박지황/박지훈 as Park Jihwang/Park Jihoon, and 삼계탕 as samgyetang with an explanatory footnote.
 - Render 1팀장 as Team 1 Leader, 기감 as Qi Sense, and 락 as Lock when referring to security restrictions.
-- Render 집파리, 검정파리, 금파리, and 패밀리어 as Housefly, Black Blow Fly, Green Bottle Fly, and Familiar; use Rice Weevil for 쌀벌레, Link for 링크, Store for 스토어, Assistant Manager for 대리, Kim Seonhee for 김선희 and the source variant 김희선, Ilsan for 일산, and Lafesta for 라페스타.
+- Render the fly and Familiar terminology as Housefly, Black Blow Fly, Green Bottle Fly, Familiar, Rice Weevil, Link, Store, Assistant Manager, Kim Seonhee, Ilsan, and Lafesta; use Yeoreum for 여름이 and Midsummer for 한여름.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
