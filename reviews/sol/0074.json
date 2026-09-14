@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The Head Elder might have had a reason for putting puppets in those positions, but even the elders who had sided with Jin Wikyung were far from capable administrators.",
+      "defect": "The draft reverses the causal relationship: the source suggests that some incompetence may have resulted from the Head Elder installing puppets, not that the Head Elder may have had a reason to install them. It also turns the broader 중진, senior family figures, into Elders.",
+      "id": "F01",
+      "rationale": "이유도 있겠지만 links the poor administrative talent to the Head Elder's placement of puppets, while 중진 denotes senior or influential members rather than necessarily titled Elders.",
+      "replacement": "Some of that might have been because the Head Elder had installed puppets, but even the senior members who sided with Jin Wikyung were far from capable administrators.",
+      "severity": "major",
+      "source": "대장로가 허수아비들을 앉혀 놓은 이유도 있겠지만, 진위경 편에 선 중진들도 유능한 행정가와는 거리가 멀었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Even just taking care of my family in the real world was exhausting. The martial artists here were, to put it kindly, physical types. To put it less kindly, they were idiots. I was not trying to insult them. That was simply the truth.",
+      "defect": "The draft imports an unrelated thought about supporting his real-world family from a later paragraph and omits Taekyung's self-deprecating admission that he himself exemplifies the tendency he is describing.",
+      "id": "F02",
+      "rationale": "나만 봐도 그렇지만 explicitly includes Taekyung among the martial artists he calls 돌대가리, which is part of the self-mocking characterization and prevents the observation from sounding purely contemptuous.",
+      "replacement": "This applied to me too, but martial artists were, to put it kindly, men of action and, to put it unkindly, blockheads. I wasn’t trying to disparage them. That was simply the truth.",
+      "severity": "major",
+      "source": "나만 봐도 그렇지만 무인들이란 좋게 말하면 육체파, 나쁘게 말하면 돌대가리다. 딱히 비하하려는 의도가 아니라 사실이 그렇다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The only advantage was that, as the homeowner, I would not have to worry about rising rent.",
+      "defect": "전세금 is a lump-sum jeonse housing deposit, not monthly rent, so the draft changes the culturally specific basis of the joke.",
+      "id": "F03",
+      "rationale": "The source specifically jokes about avoiding increases to a 전세 deposit; the brief footnote preserves that living-arrangement reference without mislabeling it as rent.",
+      "replacement": "The only advantage was that, as the homeowner, I wouldn’t have to worry about my jeonse deposit going up.[^1]\n\n[^1]: Jeonse is a Korean rental system in which a tenant pays a large lump-sum deposit instead of monthly rent.",
+      "severity": "minor",
+      "source": "유일한 장점이라고는 집주인이니 전세금 올라갈 걱정은 안 해도 된다는 것 정도다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "and the Young Sect Leader whom I had never even met had reportedly been killed absurdly while mounted bandits robbed an empty house.",
+      "defect": "The literal rendering of 빈집 털이 incorrectly suggests that the bandits were robbing a literally empty house while the Young Sect Leader happened to be killed. Here it means raiding the sect while it was left undefended.",
+      "id": "F04",
+      "rationale": "빈집 털이 is figurative in this context: the mounted bandits struck the inadequately defended home base, which explains how the Young Sect Leader died there.",
+      "replacement": "and the Young Sect Leader whom I had never even met had reportedly died an absurd death during a mounted-bandit raid on the undefended sect.",
+      "severity": "major",
+      "source": "얼굴 한 번 못 본 소문주라는 놈은 마적 떼의 빈집 털이에 어이없이 죽었다고 했다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "A former girlfriend whose face I don’t even know? Or a gold digger?",
+      "defect": "Gold digger weakens and changes 꽃뱀, which implies a woman using seduction or a fabricated romantic or sexual situation to entrap and exploit someone, not merely pursuing a wealthy partner.",
+      "id": "F05",
+      "rationale": "In the context of the alleged assault, 꽃뱀 conveys Taekyung's suspicion that he may have been deliberately entrapped; “gold digger” does not preserve that implication.",
+      "replacement": "A former girlfriend whose face I don’t even know? Or a honey-trap scammer?",
+      "severity": "major",
+      "source": "얼굴도 모르는 전 여자 친구? 아니면 꽃뱀?"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Everything proceeded smoothly.",
+      "defect": "The draft preserves ease but omits the defining sense of rapid, uninterrupted progress in 일사천리.",
+      "id": "F06",
+      "rationale": "The following sentence emphasizes that they departed immediately and have already been traveling for two hours; 일사천리 primarily marks that speed and momentum.",
+      "replacement": "Everything moved at lightning speed.",
+      "severity": "minor",
+      "source": "모든 것이 일사천리로 진행되었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "It was not as if Hyuk Mujin had only started acting up yesterday. As far as I was concerned, this had already been going on for a full sixty-year cycle.",
+      "defect": "The draft turns the sixty-year reference into the duration of Hyuk Mujin's behavior and loses the martial-arts metaphor that Taekyung himself has accumulated a full cycle's worth of internal energy in dealing with it.",
+      "id": "F07",
+      "rationale": "이쪽 내공으로는 makes the narrator's experience into figurative internal energy, while 일 갑자 quantifies that mock cultivation attainment rather than how long Mujin has been misbehaving.",
+      "replacement": "Hyuk Mujin clowning around was nothing new; when it came to dealing with that, I already had a full sixty-year cycle of internal energy.",
+      "severity": "major",
+      "source": "혁무진이 까부는 거 원데이 투데이 보나, 이쪽 내공으로는 이미 일 갑자다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The moment Jin Mukyung raised his fist, I hurriedly closed my eyes.",
+      "defect": "Jin Mukyung's unfinished, irritated outburst is omitted, removing both the escalation into the raised fist and his coarse register toward Taekyung.",
+      "id": "F08",
+      "rationale": "그런데 아까부터 이 자식이 진짜 is a trailing threat or complaint immediately preceding the physical reaction; retaining its incompleteness preserves the comic timing and sibling dynamic.",
+      "replacement": "“Seriously, this bastard’s been getting on my nerves for a while now…”\n\nThe moment Jin Mukyung raised his fist, I hurriedly closed my eyes.",
+      "severity": "major",
+      "source": "“그런데 아까부터 이 자식이 진짜.”\n\n진무경이 주먹을 치켜들자마자 재빨리 눈을 감았다."
+    }
+  ],
+  "summary": "The draft contains several meaningful fidelity issues involving causal logic, characterization, an attack’s circumstances, a culture-specific housing reference, and omitted or weakened jokes and register.",
+  "version": 1
+}

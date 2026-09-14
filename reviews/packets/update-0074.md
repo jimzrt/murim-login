@@ -1,0 +1,1373 @@
+<!-- packet-manifest
+{
+  "included": [
+    {
+      "path": "source/0074.txt",
+      "sha256": "b2b40249e869111ece997eccfe9caa331922f98c678aa93da236e2d5d7c95c41",
+      "bytes": 15153
+    },
+    {
+      "path": "docs/CONTEXT.json",
+      "sha256": "689ce78c6ac5d29ae243db6c58aa0447a48fe1b2ffc99d59847402485cb346c7",
+      "bytes": 4790
+    },
+    {
+      "path": "docs/NAMES.md",
+      "sha256": "de36ca558b7f84d2a543a7703bc703a14537c028a639dfe71d1722750c174d39",
+      "bytes": 4009
+    },
+    {
+      "path": "characters/Hyuk Mujin.md",
+      "sha256": "f15b3abaf5e8c1487afb51ad73d0593d0fa2296a589b95d09fe73d3df265be00",
+      "bytes": 5010
+    },
+    {
+      "path": "characters/Jin Mukyung.md",
+      "sha256": "9d9f600b519832c04232056d6a1d35809b38a4ec8a08ff1974b75df1fdbe3acc",
+      "bytes": 1220
+    },
+    {
+      "path": "characters/Jin Taekyung.md",
+      "sha256": "1641f5a8e1e6673c0ef3bc5b1d16b76c0c36a878efd45b0cbbef81170c759ce1",
+      "bytes": 23807
+    },
+    {
+      "path": "characters/Jin Wikyung.md",
+      "sha256": "0f203b9b16bbc411a74b559740d86ec19e824808f853e8f97454ab989f7e55f0",
+      "bytes": 8153
+    },
+    {
+      "path": "characters/Lee Cheonbaek.md",
+      "sha256": "55551fd250701d75ec3630f305c121e6861b4dc82970667efaf98178083891d1",
+      "bytes": 3040
+    },
+    {
+      "path": "docs/ADDRESS.md",
+      "sha256": "f31e4681bd3b9d42ddadd9ee5f95bd2b7533d0cc9f3c09e6f705259324743eca",
+      "bytes": 3489
+    }
+  ],
+  "estimated_tokens": 13000
+}
+-->
+
+# Durable State Update — Chapter 74
+
+Return exactly one JSON object and no Markdown fence. Record only facts established
+by this chapter. Do not use tools, edit prose, infer future events, or copy archived
+profile continuity.
+
+`context` must contain exactly the durable context schema shown below, with version
+1 and safe_through 74. Keep at most
+2 continuity_sources. Keep
+`active_continuity` to at most 20 concise items, `open_questions` to at most 8
+items, and `temporary_decisions` to at most 8 items. Keep the serialized context
+under 16384 UTF-8 bytes. Use only chapter
+numbers through 74. `profile_updates` may replace one exact, uniquely occurring
+complete line in a listed profile, and only an Aliases, Role, Personality, Voice, or
+Relationships line. Use `profile_creations` only for a newly introduced named
+character without a listed profile. Filenames must be plain `.md` basenames.
+`names` contains only newly required Korean-to-English rows; Korean keys must occur
+in the source. `address_pairs` contains only newly required speaker→addressee rows;
+each Korean key must occur in the source or already appear in the address ledger,
+and at least one endpoint must occur in the source (first-person narrators may be
+ledger-only). Do not invent risk-register rows. Beat
+plot paragraphs are plain strings; continuity and translation decisions are concise
+list items.
+Return this exact shape:
+
+{
+  "chapter": 74,
+  "beat": {
+    "plot": ["chapter plot paragraph"],
+    "continuity": ["binding continuity item"],
+    "translation_decisions": ["binding terminology or voice decision"]
+  },
+  "context": {
+    "version": 1,
+    "safe_through": 74,
+    "continuity_sources": [74],
+    "active_continuity": ["active fact"],
+    "open_questions": ["unresolved question"],
+    "temporary_decisions": ["temporary translation decision"]
+  },
+  "names": [
+    {"korean": "source spelling", "english": "English rendering", "notes": "brief note"}
+  ],
+  "address_pairs": [
+    {
+      "speaker": "speaker Korean",
+      "addressee": "addressee Korean",
+      "kinship": "kinship or role relation",
+      "normal_address": "established English address",
+      "speech_level": "speech level",
+      "notes": "brief note"
+    }
+  ],
+  "profile_updates": [
+    {
+      "path": "characters/Listed Profile.md",
+      "current": "- **Role:** exact current full line",
+      "replacement": "- **Role:** finished replacement full line"
+    }
+  ],
+  "profile_creations": [
+    {
+      "filename": "English Name.md",
+      "korean": "source name",
+      "english": "English Name",
+      "aliases": [],
+      "role": "stable role",
+      "personality": "stable traits",
+      "voice": "stable voice",
+      "relationships": "stable relationships"
+    }
+  ]
+}
+
+Use empty arrays when no name, address-pair, or profile change is required.
+
+## Prior durable context
+
+```json
+{
+  "active_continuity": [
+    "After ten days of Mukyung’s training, Taekyung has mastered the Jin Family’s Spear Technique and Jin Family’s Manoeuvre Technique; Mukyung is astonished by his growth and feels jealousy and fighting spirit.",
+    "Mukyung’s final spar with Taekyung ends when Mukyung uses Sword Energy to cut Taekyung’s uniform without injuring him, then declares training complete.",
+    "The Training? Trial! Quest succeeds according to Mukyung’s evaluation; Taekyung receives a Level Up, a Quest completion Reward in his Inventory, and notice of an additional Reward.",
+    "Taekyung has the First Stage Skill Martial Arts Manual Creation, which can create manuals for mastered martial arts; the available manuals are the Jin Family’s Spear Technique and Jin Family’s Manoeuvre Technique.",
+    "Hyuk Mujin remains badly injured and under treatment after the attack.",
+    "The Jin Family is pursuing an unidentified assassin believed possibly to be the Head Elder’s hidden disciple.",
+    "Jin Mukyung reunited with Jin Wikyung after three years but remains detached and prioritizes sword training.",
+    "Jin Wikyung plans to summon every sect in Shanxi Province on New Year’s Day and may seek to become Alliance Leader.",
+    "Wipeng leads thirty elites south under the pretext of pursuing the nonexistent assassin, visits Song Sword Sect, and delivers Wikyung’s summons as both summons and warning.",
+    "Jin Wikyung searched the family records for Dark Heaven but found no information.",
+    "Gong Yacheong is recovering and will take charge of the rebuilt Sakju Branch; Socheon and Soyul will accompany him in six months.",
+    "Soyul is five years old and does not know that her parents are dead.",
+    "Jin Wikyung arranged fifteen days of temporary cohabitation between Taekyung and Mukyung while Taekyung’s residence is rebuilt.",
+    "Jin Wikyung publicly maintains a formal image but is openly recognized within the family as excessively devoted to Taekyung.",
+    "Mukyung imposes rules of polite speech, silence, and obedience over the training hall during the cohabitation and has spent three years attempting to open the Ren and Du meridians.",
+    "The Returnee title grants Taekyung All Stats +10 and activates the Login and Logout functions.",
+    "Taekyung accepted that he was half-finished, asked Mukyung for help, and received a System time limit of 9 days 20 hours 23 minutes.",
+    "Childeuk is an injured former meal-delivery servant who recently became a Level 12 martial artist directly under Jin Wikyung; Wikyung publicly embraces and praises him after acknowledging a minor misunderstanding."
+  ],
+  "continuity_sources": [
+    73,
+    72
+  ],
+  "open_questions": [
+    "The identity and sponsor of the assassin who attacked Taekyung and Hyuk Mujin remain unconfirmed.",
+    "It remains unresolved whether Hyuk Mujin will actually become the next Master of the Gatekeeper Pavilion.",
+    "It remains unresolved whether the Shanxi sects will answer Jin Wikyung’s summons.",
+    "It remains unresolved whether Jin Wikyung will become Alliance Leader.",
+    "It remains unresolved whether Song Sword Sect has any connection to the attack.",
+    "The reason the System displayed the same 2-hour-22-minute Time Limit twice remains unexplained.",
+    "The nature of the minor misunderstanding that injured Childeuk remains undisclosed."
+  ],
+  "safe_through": 73,
+  "temporary_decisions": [
+    "Use gongcheong seokyu for 공청석유 with a footnote explaining the elixir and petroleum pun; use junzi for 군자 and Junzi Sword for 군자검 with a cultural footnote.",
+    "Retain Hyung-nim for 형 and 형님 in Taekyung’s deferential speech; use Three Questions Gorge for 삼문협.",
+    "Use Alliance Leader for 맹주 and summon for 소집 to preserve the distinction from an invitation.",
+    "Retain Great Hero for 대협 and Ghost Sword for 귀검.",
+    "Use Sleep Mode for 수면 모드 and Medicine King Hall Master for 약왕당주.",
+    "Use Return for 귀환, Returnee for 귀환자, Ren and Du meridians for 임독양맥, and Heart Demon for 심마; use Paralysis Acupoint for 마혈 and Mute Acupoint for 아혈.",
+    "Use fist-and-kicking technique for 권각술 and recognition for 인정; render 낙류검 as Falling Flow Sword, 질풍십이권 as Twelve Gale Fists, 화염신장 as Flame Divine Palm, and 분근착골 as Tendon-Splitting and Bone-Twisting.",
+    "Render 비급 제작 as Martial Arts Manual Creation, 맷집 as Toughness, 천무지체 as heavenly martial physique, 장칠득 as Jang Childeuk, 장 무인 as Martial Artist Jang, 인의예지 as benevolence, righteousness, propriety, and wisdom, 호환 as killed by a tiger, and 일각 as fifteen minutes."
+  ],
+  "version": 1
+}
+```
+
+## Existing names ledger
+
+# Established Names
+
+Binding Korean → English for names, titles, aliases, and forms established in
+accepted chapters. Injected only when the exact Korean appears in the current
+chapter. Overrides `compendium.md` on the same Korean key. Add a row at first
+use. First use of an unlisted name or title almost always needs a footnote.
+
+| Korean | Preferred English | Notes |
+| ------ | ----------------- | ----- |
+| 장삼 | **Jang Sam** | Bandit; personal name |
+| 천력부 | **Heavenly Axe** | Epithet of Jang Sam; never romanize |
+| 천관일 | **Sky-Piercing Strike** | Final form of the Jin Family's Spear Technique; 天貫軼 |
+| 녹림십팔채 | **Eighteen Strongholds of Green Forest** | |
+| 홍화루 | **Honghwaru** | Lower District Sect Shanxi branch; pleasure house in Taiyuan |
+| 하연 | **Hayeon** | Jin Taekyung’s younger sister |
+| 응현 | **Eung-hyeon** | Jin Family branch location |
+| 산음 | **Saneum** | Jin Family branch location |
+| 삭주 | **Sakju** | Jin Family branch location |
+| 정양 | **Jeongyang** | Shanxi location |
+| 혼주 | **Honju** | Shanxi location |
+| 견정 | **Gyeonjeong** | Acupoint |
+| 아문 | **Amun** | Acupoint |
+| 봉안 | **Bongan** | Acupoint |
+| 입동 | **Ip-dong** | Acupoint |
+| 갱생권 | **Reformation Fist** | Jin Mukyung's named fist technique |
+| 금나수 | **grappling technique** | Close-combat wrist-lock technique; rendered descriptively |
+| 삼재검법 | **Three Calamities Sword Technique** | Sword technique Mukyung assumes Taekyung is pretending to use. |
+| 약왕당 | **Medicine King Hall** | The Jin Family's medical hall. |
+| 이공자 | **Second Young Master** | Title used for Jin Mukyung. |
+| 수문각주 | **Master of the Gatekeeper Pavilion** | Office Hyuk Mujin is rumored to receive. |
+| 공청석유 | **gongcheong seokyu** | Rare martial-arts elixir; the term also creates a petroleum pun. |
+| 군자 | **junzi** | Confucian ideal of a morally upright gentleman. |
+| 삼문협 | **Three Questions Gorge** | A distant gorge and route connecting Shanxi with Shaanxi and Henan. |
+| 섬서 | **Shaanxi** | Province bordering Shanxi. |
+| 삼공자 | **Third Young Master** | Title used for Jin Taekyung. |
+| 맹주 | **Alliance Leader** | Leader of the regional Murim alliance. |
+| 약왕당주 | **Medicine King Hall Master** | The unnamed physician who runs the Medicine King Hall. |
+| 송검문 | **Song Sword Sect** | Small-to-medium sect in central Shanxi. |
+| 송검문주 | **Sect Leader of Song Sword Sect** | Title held by Huang. |
+| 귀검 | **Ghost Sword** | Wipeng's epithet. |
+| 황 모 | **Huang** | Surname-style self-reference by the Sect Leader of Song Sword Sect. |
+| 아스모데우스 | **Asmodeus** | Demon King referenced in Taekyung's sarcastic comparison; does not appear directly. |
+| 낙류검 | **Falling Flow Sword** | Named sword technique discovered by Mukyung in the archives of Heaven's Gate Temple; its name evokes a waterfall. |
+| 질풍십이권 | **Twelve Gale Fists** | Named fist technique Mukyung threatens to use against Taekyung. |
+| 화염신장 | **Flame Divine Palm** | Jopil's deadly palm technique, noted when Taekyung compares Jopil with Mukyung. |
+| 마혈 | **Paralysis Acupoint** | System condition label for temporary paralysis. |
+| 아혈 | **Mute Acupoint** | System condition label preventing speech. |
+| 분근착골 | **Tendon-Splitting and Bone-Twisting** | Cruel immobilization technique described by Mukyung. |
+| 일문일살 | **One Question, One Kill** | Jopil's alias. |
+| 군자검 | **Junzi Sword** | Epithet Jin Wikyung begins receiving after the war. |
+| 칠득이 | **Childeuk** | Jin Family servant. |
+| 천자문 | **Thousand Character Classic** | Classical text Childeuk cannot complete. |
+| 천무지체 | **Heavenly Martial Physique** | Named physique or constitution mentioned hypothetically by Jin Mukyung. |
+| 장칠득 | **Jang Childeuk** | Personal-name form of Childeuk; he is newly appointed as a martial artist directly under Jin Wikyung. |
+
+## Existing address-pair ledger
+
+# Established Address Pairs
+
+Exceptional speaker → addressee forms established in accepted chapters.
+Injected only when both endpoints are present in the current chapter: the
+Korean appears in the source, or belongs to a matched compact profile.
+Overrides generic relationship prose in character profiles for this pair.
+
+| Speaker | Addressee | Kinship | Normal address | Speech level | Notes |
+| ------- | --------- | ------- | -------------- | ------------ | ----- |
+| 진태경 | 진무경 | younger_to_older_brother | hyung | casual-but-junior | Retain hyung for 형 in Taekyung's greeting; Mukyung then punishes the casual speech. |
+| 진무경 | 진태경 | older_to_younger_brother | youngest | blunt-senior | 막내 / youngest; may taunt that lasting a quarter-hour would make Taekyung the older brother. |
+| 진태경 | 진위경 | younger_to_eldest_brother | brother | familiar-but-respectful | Self-corrects from the personal name to kinship: “Jin Wikyung—I mean, my brother?”; 큰형 is eldest brother. |
+| 진위경 | 진태경 | eldest_to_youngest_brother | youngest | affectionate-protective | Uses youngest-brother address; openly affectionate beneath a public mask. |
+| 진태경 | 성진호 | junior_to_older_friend | Jinho hyung | casual-but-junior | Retain hyung for 형; Jinho is three years older. |
+| 성진호 | 진태경 | older_friend | informal / younger-brother | teasing-senior | Speaks informally while demanding respect as the older friend. |
+| 진태경 | 임꺽정 | junior_friend | Kkeokjeong hyung | casual-but-junior | After Im asks to be called hyung. |
+| 임꺽정 | 진태경 | older_friend | hyung | hearty-casual | “Call me hyung. We’re not even that far apart in age.” |
+| 위팽 | 진위경 | retainer_to_lord | my lord | deferential | 주공; Wipeng is Jin Wikyung’s personal guard. |
+| 소천 | 진태경 | rescued_survivor_to_benefactor | Benefactor | deferential | Socheon repeatedly addresses Taekyung as 은인. |
+| 진무경 | 진위경 | younger_to_older_brother | older brother | formal-but-blunt | Mukyung refers to Wikyung as 형 while remaining emotionally restrained. |
+| 진위경 | 진무경 | older_to_younger_brother | little brother | affectionate-casual | Wikyung uses 아우야 and 무경아 with openly affectionate familiarity. |
+| 진태경 | 공야청 | junior_to_respected_hero | Great Hero Gong | deferential | Taekyung consistently attaches 대협 when addressing Gong Yacheong. |
+| 위팽 | 송검문주 | visitor_to_sect_leader | Sect Leader | formal-polite | Wipeng addresses the Song Sword Sect Leader respectfully while delivering the summons. |
+| 송검문주 | 위팽 | sect_leader_to_visiting_master | Great Hero Wipeng | deferential | The Sect Leader addresses Wipeng as 위 대협 while fearing the Ghost Sword's power. |
+| 진태경 | 월화 | junior_to_older_female_acquaintance | Wolhwa noona | casual-but-junior | Taekyung uses this address while speaking in his sleep or delirium. |
+| 칠득이 | 진위경 | servant_to_lesser_family_head | Lesser Family Head | deferential | Childeuk repeatedly addresses Wikyung as 소가주님. |
+| 진위경 | 칠득이 | lesser_family_head_to_servant | you | formal-but-familiar | Wikyung addresses Childeuk with 자네. |
+| 진위경 | 장칠득 | lesser_family_head_to_direct_martial_artist | Martial Artist Jang | affectionate and ceremonious | Wikyung embraces and exuberantly praises Childeuk after acknowledging their minor misunderstanding. |
+
+## Exact glossary matches
+
+| 무림     | **Murim**          |
+| 진태경    | **Jin Taekyung**   |
+| 진위경    | **Jin Wikyung**    |
+| 진무경    | **Jin Mukyung**    |
+| 혁무진    | **Hyuk Mujin**     |
+| 이천백    | **Lee Cheonbaek**  |
+| 이소군    | **Lee Seogeun**    |
+| 이소월    | **Lee Seowol**     |
+| 혈랑검    | **Blood Wolf Sword**          | Lee Cheonbaek  |
+| 태원진가   | **Jin Family of Taiyuan**        |
+| 항산검문   | **Mount Heng Sword Sect**        |
+| 일류     | **First Rate**    |
+| 절정     | **Peak**          |
+| 무인     | **martial artist**                               | Default term                                          |
+| 무공     | **martial arts**                                 | Can mean a specific martial art in context            |
+| 고수     | **master**                                       | Strong/skilled martial artist                         |
+| 내공     | **internal energy**                              |                                                       |
+| 비급     | **martial arts manual**                          | “martial scroll” where object/context warrants        |
+| 주화입마   | **qi deviation**                                 |                                                       |
+| 운기조식   | **circulate one's qi**                           | Usually better as a verb than a proper-name technique |
+| 마적     | **mounted bandits**                              |                                                       |
+| 문주     | **Sect Leader**                              |
+| 소문주    | **Young Sect Leader**                        |
+| 장로     | **Elder**                                    |
+| 대장로    | **Head Elder**                               |
+| 퀘스트              | **Quest**                      |
+| 보상               | **Reward**                     |
+| 등급               | **Grade**                      | System/UI field for quest, item, and martial-art classifications; do not use “Rank” here |
+| 로그인              | **Login**                      |
+| 로그아웃             | **Logout**                     |
+| 게이트     | **Gate**              |
+| 팀장      | **Team Leader**       |
+| 산서     | **Shanxi**             |
+| 태원     | **Taiyuan**            |
+| 사천     | **Sichuan**            |
+| 항산     | **Mount Heng**         |
+| 팔천협    | **Eight Spring Gorge** |
+| 공자      | **Young Master**                                                |
+| 응현 | **Eung-hyeon** | Jin Family branch location |
+| 이공자 | **Second Young Master** | Title used for Jin Mukyung. |
+| 삼공자 | **Third Young Master** | Title used for Jin Taekyung. |
+
+## Listed compact profiles
+
+### Hyuk Mujin.md
+
+# Hyuk Mujin (혁무진)
+
+- **Safe through:** Chapter 67
+- **Aliases:** None revealed
+- **Role:** Captain of the Gatekeepers at the Jin Family of Taiyuan; deputy squad leader of White Tiger Hall’s reconnaissance squad
+- **Personality:** Young, disciplined, suspicious of Jin Taekyung, and openly contemptuous of the family’s disgraced third son; believes loyalty and respectable conduct matter, but is also proud and hungry for glory
+- **Voice:** Formal and clipped when performing his duties; blunt and moralizing when addressing Taekyung
+- **Relationships:** Gatekeeper under the Jin Family; deputy subordinate to Jin Taekyung in the reconnaissance squad
+
+### Jin Mukyung.md
+
+# Jin Mukyung (진무경)
+
+- **Safe through:** Chapter 73
+- **Aliases:** Heaven Shaking Sword; Jin Family Second Young Master
+- **Role:** Second son of the Jin Family of Taiyuan; twenty-three-year-old cadet at Heaven’s Gate Temple; a young Peak-level genius swordsman
+- **Personality:** Reserved, terse, and easily irritated by exaggerated praise; glares coldly when Taekyung identifies him
+- **Voice:** Quiet and resonant; clipped and blunt in direct speech
+- **Relationships:** Taekyung’s older brother and current martial arts instructor; returned to the Jin Family after several years away
+
+### Jin Taekyung.md
+
+# Jin Taekyung (진태경)
+
+- **Safe through:** Chapter 73
+- **Aliases:** Sleeping Dragon of Shanxi
+- **Role:** Modern-world protagonist; recently fired after seven years at his job; F-rank Hunter; First Rate martial artist standing before the Peak realm; youngest son of the Jin Family of Taiyuan
+- **Personality:** Hungry, self-aware, dryly observant, and willing to take a questionable opportunity when desperate; treats the impossible as a game until the danger becomes undeniable
+- **Voice:** First-person, conversational, dryly self-mocking; uses vivid trap-and-prey imagery, game jargon, and occasional profanity
+- **Relationships:** Jin Mukyung’s younger brother and current student; son of a deceased father; supports his mother and younger sibling
+
+### Jin Wikyung.md
+
+# Jin Wikyung (진위경)
+
+- **Safe through:** Chapter 73
+- **Aliases:** Junzi Sword
+- **Role:** Thirty-five-year-old Lesser Family Head and future Family Head of the Jin Family of Taiyuan; preparing to consolidate Shanxi Murim under the family's leadership
+- **Personality:** Calm and authoritative in public; affectionate and protective toward Taekyung beneath a stern mask; accepts responsibility from his subordinates and shows immediate concern for family
+- **Voice:** Restrained, formal, and commanding with subordinates; openly affectionate with Taekyung
+- **Relationships:** Taekyung’s eldest brother and future Family Head; head of Wipeng; member of the Jin Family
+
+### Lee Cheonbaek.md
+
+# Lee Cheonbaek (이천백)
+
+- **Safe through:** Chapter 70
+- **Aliases:** Blood Wolf Sword
+- **Role:** Sect Leader of the Mount Heng Sword Sect; Lee Seogeun’s father
+- **Personality:** Grief-stricken, resolute, and fiercely vengeful
+- **Voice:** Quietly mournful when addressing his son; firm and uncompromising when declaring revenge
+- **Relationships:** Father of Lee Seogeun; leader of the Mount Heng Sword Sect
+
+## Korean source
+
+```text
+＃74화
+
+
+
+“달라졌구나.”
+
+집무실에 들어온 뒤 진위경이 처음으로 꺼낸 말이다. 나를 찬찬히 살핀 그가 진무경의 어깨를 두드렸다.
+
+“고생했다.”
+
+하지만 다정한 말에도 진무경은 뚱한 얼굴로 대답했다.
+
+“장의사 부르려다가 말았습니다.”
+
+“말 진짜 예쁘게 한다.”
+
+“너는, 후. 형님 앞이라 참는다.”
+
+“그것도 고맙고.”
+
+피식 웃은 진위경이 자리를 권했다. 나는 의자에 앉아 따끈한 찻물을 한 모금 마시며 주위를 둘러봤다.
+
+“여기도 많이 변했네요. 전에 왔을 때만 해도 지저분했는데.”
+
+집무실은 깔끔하게 정돈되어 있었다. 보름 전 마지막으로 들렀을 때는 온갖 물건들로 난장판이었는데.
+
+지금은 서류 더미가 쌓여 있어야 할 탁자 위도 말끔하다.
+
+“……힘든 시간이었지.”
+
+진위경이 먹구름 낀 얼굴로 중얼거렸다.
+
+“하지만 거의 다 끝났어. 조금만, 조금만 더 버티면 돼.”
+
+“…….”
+
+이 양반도 반쯤 정신이 나갔군. 하긴 그 어마어마한 업무량을 홀로 감당했으니 멀쩡한 게 이상하지.
+
+‘나였으면 진작 야반도주했다.’
+
+나만 봐도 그렇지만 무인들이란 좋게 말하면 육체파, 나쁘게 말하면 돌대가리다. 딱히 비하하려는 의도가 아니라 사실이 그렇다.
+
+‘가문 중진이라는 놈들도 비슷했고.’
+
+대장로가 허수아비들을 앉혀 놓은 이유도 있겠지만, 진위경 편에 선 중진들도 유능한 행정가와는 거리가 멀었다.
+
+유서 깊은 무가에서 태어났으면서 행정 처리에 능숙하고 무공도 뛰어난 진위경이 별종인 셈이다.
+
+“하루만, 딱 하루만 쉬고 싶다. 쉬고 싶다. 쉬고 싶다.”
+
+강박증 환자처럼 같은 말만 중얼거리는 그의 모습에 진무경이 혀를 찼다.
+
+“둘째로 태어난 게 얼마나 다행인지.”
+
+나도 고개를 끄덕였다.
+
+“동감.”
+
+현실에서 내 식구 챙기는 것도 뼈가 빠지는데, 처음 로그인할 때 진태경이 아니라 진위경 몸에 들어갔다면…… 암울 그 자체다.
+
+심지어 태원진가는 거느린 가솔들만 수백이다. 유일한 장점이라고는 집주인이니 전세금 올라갈 걱정은 안 해도 된다는 것 정도다.
+
+“장남은 어깨가 무거운 법이지.”
+
+내 말에 진무경이 콧방귀를 뀌었다.
+
+“넌 그런 말 할 자격 안 되니까 입 닥치고 있어라. 안 그렇습니까, 형님?”
+
+진위경이 물기 어린 눈동자로 나를 응시했다.
+
+“어찌 저리 기특한 말만 골라서 하는지.”
+
+“아니, 형님.”
+
+“다 컸구나, 다 컸어.”
+
+“……저 욕해도 됩니까?”
+
+싸늘한 말이 이어졌지만 아무것도 들리지 않는지 진위경은 여전히 감격한 표정으로 양팔을 활짝 벌렸다.
+
+“우리 막내, 한 번만 안아 보자.”
+
+“네, 형.”
+
+“막내야!”
+
+와락!
+
+진무경이 똥 씹은 얼굴로 중얼거렸다.
+
+“이놈의 집구석. 내가 다시 오나 봐라.”
+
+“무경아, 너도 이리 오거라.”
+
+“싫습니다. 때려죽여도 안 갑니다.”
+
+“모처럼 한자리에 모였는데 하나뿐인 형의 부탁도 못 들어준단 말이냐?”
+
+서운함이 가득 담긴 목소리에 진무경이 움찔했다.
+
+“……이번 한 번만입니다.”
+
+말이 끝나기 무섭게 솥뚜껑만 한 손이 진무경을 끌어당겼다.
+
+나와 함께 진위경의 가슴께에 파묻힌 그가 입을 벙긋거렸다.
+
+넌. 죽. 었. 어.
+
+음. 당분간은 눈에 띄지 말아야겠군. 어차피 곧 떠나야 한다고 하니 며칠만 피해 다니면 될 거다.
+
+‘정 안 되면 로그아웃하지 뭐.’
+
+퀘스트도 완료했겠다, 안 그래도 슬슬 돌아갈까 생각하고 있던 차였다. 최 팀장과의 계약 문제도 있고, 무엇보다 새로 다듬어진 무공을 게이트에서 확인해 보고 싶어서 몸이 근질거린다.
+
+“고맙다. 너희 덕분에 힘이 나는구나.”
+
+감격의 포옹을 끝낸 진위경이 소맷자락으로 눈물을 찍었다.
+
+“일이, 일이 너무 많아.”
+
+“…….”
+
+진짜 힘든가 보네.
+
+인간 병기의 눈물에 마음 한구석이 숙연해진다. 나는 진위경의 등을 두드려 주었다.
+
+“힘내세요.”
+
+방금까지만 해도 죽상을 쓰고 있던 진무경도 안쓰럽다는 듯한 눈빛을 보냈다.
+
+“형님. 정 힘드시면 이 녀석이라도 데려다가 쓰십시오.”
+
+“……?”
+
+이게 무슨 개소리야. 어이가 없어진 내가 물었다.
+
+“보통 이럴 때는 빈말이라도 제가 돕겠습니다. 뭐 이런 말이 나와야 하는 거 아닌가?”
+
+진무경이 당당하게 대답했다.
+
+“무인은 빈말 따위 하지 않는다.”
+
+“그럼 가만히 있는 나는 왜 끌어들여?”
+
+“너 시간 많잖아.”
+
+“없어!”
+
+“나는 더 없다. 수련해야 해서. 그리고 서류 들여다보는 건 영 젬병이야.”
+
+“난 내신 칠 등급이야!”
+
+“그게 무슨 헛소리냐?”
+
+“공부 못한다고.”
+
+잠시 생각에 잠겨 있던 진무경이 얼굴을 찌푸렸다.
+
+“하등 쓸모없는 놈이군. 형님, 그래도 이놈이 힘은 좋으니 일꾼으로는 제격입니다. 그럼 전 이만.”
+
+“잠깐.”
+
+재빨리 돌아서는 녀석의 목덜미를 거대한 앞발, 아니 손이 잡아챘다. 손의 주인은 당연하게도 진위경이었다.
+
+“어딜 가느냐?”
+
+“예?”
+
+“내가 너희를 부른 이유는 듣고 가야지.”
+
+“……뭡니까?”
+
+물어보는 진무경의 얼굴에 불안함이 서렸다. 거울이 없어서 모르겠지만 아마 나도 비슷한 표정일 거다.
+
+‘냄새 솔솔 난다.’
+
+내가 이런 냄새는 또 기가 막히게 잘 맡지.
+
+불운의 냄새. 귀찮은 일이 생길 것만 같은 예감. 이어지는 진위경의 말은 짐작을 확신으로 바꿔 주었다.
+
+“항산검문에 가 줘야겠다.”
+
+띠링.
+
+
+
+- 퀘스트가 강제 생성 되었습니다.
+
+
+
+“…….”
+
+염병. 이제는 물어보지도 않네.
+
+
+
+* * *
+
+
+
+나는 반투명한 퀘스트창을 바라보았다.
+
+
+
+퀘스트
+
+
+
+[어제의 적, 오늘의 동지]
+
+모든 진실이 밝혀진 지금, 항산검문은 적이 아니라 손을 잡아야 할 동지입니다. 곧 다가오는 원단에 그들을 태원진가로 초대하십시오.
+
+
+
+등급 : 일류
+
+제한 : 진태경
+
+임무 : 초대장 전달 (미완료)
+
+보상 : ???
+
+실패 : 없음
+
+
+
+
+
+두 번, 세 번 다시 읽었더니 황당했던 마음도 많이 가라앉아 있었다.
+
+‘나쁘지 않네.’
+
+퀘스트 난이도도 높지 않고 실패 패널티도 없다. 초대장만 전달하면 끝나는, 간단한 임무다.
+
+무엇보다 중요한 건…….
+
+‘로그아웃.’
+
+띠링.
+
+
+
+- 로그아웃하시겠습니까?
+
+
+
+로그아웃에 문제가 없다는 거지. 강제로 부여된 퀘스트라 영 찝찝하긴 하지만 이 정도라면 수락할 만하다.
+
+‘뭐, 내가 거절할 수 있는 상황도 아니고.’
+
+이미 현실을 받아들인 나와는 달리 진무경은 온 힘을 다해 저항하는 중이었다.
+
+“그러니까…….”
+
+진무경이 힘겹게 말문을 이었다.
+
+“돌아오는 원단에 항산검문을 초대해라, 이 말씀이십니까?”
+
+진위경이 대답했다.
+
+“그래. 빠져서는 안 될 손님이다.”
+
+“그런데 왜 우리가, 아니 제가 가야 합니까?”
+
+“…….”
+
+지 혼자만 빠지겠다고 발버둥 치는 것 보소.
+
+하지만 진무경의 질문에는 나도 일부분 동의한다.
+
+‘왜 굳이 우리를?’
+
+다음 순간 들려온 진위경의 대답은 의문을 더욱 크게 부풀렸다.
+
+“항산검문주가 직접 요청했다.”
+
+나도 모르게 불쑥 반문했다.
+
+“문주요?”
+
+혈랑검 이천백의 죽음을 코앞에서 지켜봤다. 이공자인 이소군은 독살당했고, 얼굴 한 번 못 본 소문주라는 놈은 마적 떼의 빈집 털이에 어이없이 죽었다고 했다.
+
+‘항산검문의 주력 고수들도 팔천협에서 전멸한 걸로 아는데.’
+
+그런데 문주라니?
+
+진무경의 반응도 크게 다르지 않았다.
+
+“피해가 심각했을 텐데요. 저야 소문으로만 들었지만 봉문(封門)을 해도 이상하지 않은 상황 아닙니까?”
+
+진위경이 고개를 저었다.
+
+“명색이 산서 무림의 한 축을 차지했던 문파다. 그 저력을 우습게 생각해선 안 돼. 구심점이 있다면 재기를 노릴 수 있다.”
+
+구심점.
+
+나와 진무경을 보내 달라 요구한 항산검문의 신임 문주가 바로 새로운 구심점인 모양이다. 내가 물었다.
+
+“그게 누굽니까?”
+
+“이소월.”
+
+“이소월? 이소월이라…….”
+
+처음 듣는 이름이다. 성이 이씨인 걸로 봐서 이천백과 무슨 연관이 있는 것 같긴 한데.
+
+“처음 듣는 이름이더냐?”
+
+“숨겨 둔 아들? 먼 친척? 저는 잘 모르겠는데요.”
+
+“역시 기억 못 하는구나.”
+
+“예?”
+
+기억을 못 한다니 이건 또 뭔 소리래.
+
+‘내가 아는 사람인가?’
+
+고개를 갸웃거리는 나를 진위경이 묘한 눈빛으로 바라봤다.
+
+“항산검문의 신임 문주는 여인이다. 이천백의 세 번째 자식이고 죽은 소문주와 이소군의 하나뿐인 누이지.”
+
+그 순간, 머릿속을 스치는 기억의 파편 하나가 있었다.
+
+기억 속 무대는 대회의장. 배우는 이소군. 얼굴이 잔뜩 붉게 달아오른 녀석이 나에게 호통친다.
+
+
+
+‘내 누이의 옷을 찢고 범하려 한 놈이 뻔뻔하기 그지없구나!’
+
+
+
+아!
+
+“설마 그?”
+
+“맞다.”
+
+“……젠장.”
+
+영문을 모르는 진무경만 두 눈을 깜빡거렸다.
+
+“그게 무슨 말입니까? 야, 아는 사람이냐?”
+
+“어, 그게. 안다고도 할 수 있고 모른다고도 할 수 있는 사이라고나 할까.”
+
+“무슨 개소리야? 그래서 너랑 무슨 사이인데?”
+
+“음.”
+
+얼굴도 모르는 전 여자 친구? 아니면 꽃뱀?
+
+‘하나는 확실하네.’
+
+피차 썩 반가운 만남은 아니라는 것.
+
+나는 깊은 한숨을 내쉬었다.
+
+
+
+* * *
+
+
+
+결과만 말하자면 진무경도 항산검문행을 수락했다. 진위경이 준비한 회심의 한 수 때문이었다.
+
+
+
+‘항산검문에 비급이 그렇게 많다던데…….’
+
+‘많아 봤자 무슨 상관입니까? 제가 볼 수 있는 것도 아니고.’
+
+‘상관이 있지.’
+
+‘예?’
+
+‘신임 문주가 널 잘 파악했어. 네가 와 주면 일부 절정 무공들을 공개할 의사가 있다고 하더구나.’
+
+‘……언제 출발합니까?’
+
+‘지금 당장.’
+
+
+
+모든 것이 일사천리로 진행되었다. 진위경의 환송을 받으며 사두마차에 탑승한 것이 불과 한 시진 전이다.
+
+건너편 자리에 앉은 진무경이 불만 섞인 어조로 툴툴댔다.
+
+“마차라니. 가는 데에만 한 세월 걸리겠군.”
+
+워낙 땅덩어리가 넓다보니 항산검문이 위치한 응현(應懸)까지는 얼추 잡아도 사흘은 걸린다.
+
+그건 한시라도 빨리 항산검문의 절정 무공을 보고 싶은 진무경에게는 억겁에 가까운 시간이었다.
+
+“거기 마부, 더 빨리 안 되나?”
+
+칸막이 너머 마부석에서 대답이 들려왔다.
+
+“일단 전 마부가 아니고요. 더 빨리 안 되고요. 안에 계시느라 모르시겠지만 밖은 엄청 추워서 동사 직전이고요. 뭐 아무튼 그렇습니다.”
+
+“채찍질에 박차를 가하란 말이다! 마부라면 그 정도는 해야지.”
+
+“다시 한번 말씀드리지만 저는 마부가 아니고요. 지금 채찍이 얼어붙어서 고드름이라고 부르는 게 맞을 것 같고요. 이 고드름으로 엉덩이를 찌르면 말들이 화가 많이 날 것 같은데…….”
+
+“뭣이? 마부도 아닌 놈이 왜 거기 앉아 있어!”
+
+“아까 출발 전에 수행원들 거추장스럽다고, 다 꺼지라고 일갈하셔서 마부도 같이 꺼졌는데요.”
+
+곰곰이 생각에 잠겨 있던 진무경이 이마를 탁 쳤다.
+
+“아, 그러네.”
+
+“…….”
+
+역시 이놈도 정상은 아니야.
+
+“그럼 넌 누구지?”
+
+나는 병신 보존의 법칙을 떠올리며 대답했다.
+
+“혁무진.”
+
+“혁무진이 누군데.”
+
+“얼굴 보면 알걸. 야, 무진아!”
+
+칸막이가 쑥 내려가더니 얼굴에 성에가 잔뜩 낀 혁무진의 얼굴이 드러났다. 쉬지 않고 이빨을 딱딱 부딪치는 녀석의 얼굴을 유심히 관찰하던 진무경이 손가락을 튕겼다.
+
+“아, 그놈이네.”
+
+혁무진이 퉁명스럽게 대꾸했다.
+
+“예. 제가 그놈입니다.”
+
+“근데 넌 왜 안 꺼졌어? 마부나 데려오지.”
+
+그 질문을 기다린 사람처럼 혁무진이 의기양양하게 가슴을 쭉 폈다.
+
+“저는 조장님 명령만 듣습니다.”
+
+“조장?”
+
+“삼공자님이요.”
+
+진무경의 고개가 내 쪽으로 휙 돌아왔다.
+
+“네가 불렀냐?”
+
+“아니, 부르지도 않았는데 와 있더라.”
+
+“그렇다는데?”
+
+혁무진이 마음 상한 얼굴로 나와 진무경을 번갈아 쳐다봤다.
+
+“두 분, 진짜 형제긴 한가 보네요.”
+
+“형무진이라고 했나? 그게 무슨 뜻인지 제대로 설명해 봐.”
+
+진무경은 발끈해서 날카로운 목소리로 말했지만 나는 늘어져라 하품했다.
+
+혁무진이 까부는 거 원데이 투데이 보나, 이쪽 내공으로는 이미 일 갑자다.
+
+“형무진이 아니라 혁무진이고요. 채찍인지 고드름인지 하는 걸로 말들 엉덩이나 찔러 보겠습니다.”
+
+탁.
+
+후다닥 닫힌 칸막이를 노려보던 진무경이 이내 한숨을 내쉬며 다시 자리에 고쳐 앉았다.
+
+“내가 기대를 말아야지. 윗물이 더러운데 아랫물이 깨끗할 리가…… 너 지금 뭐 하냐?”
+
+나는 털가죽을 몸에 둘둘 말며 대꾸했다.
+
+“운기조식 하려고.”
+
+“그래?”
+
+“어. 운기조식.”
+
+“그런데 왜 내 눈에는 네가 잘 준비를 하는 것처럼 보일까.”
+
+“착각이지.”
+
+“그러면서 털가죽은 왜 덮는 걸까?”
+
+“나 추위 많이 타.”
+
+나는 보란 듯이 가부좌를 틀었다. 마차 벽면에 몸을 바짝 붙여 쓰러지지 않도록 자세를 잡는 것도 잊지 않았다.
+
+‘내 귀한 몸을 저놈한테 맡길 수는 없지.’
+
+다시 돌아왔을 때 팔다리가 부러져 있다거나 하는 일은 절대 사양이다. 차라리 건드리지도 못하게 하는 편이 훨씬 낫다.
+
+“건드리면 알지? 어? 주화입마 알아, 몰라.”
+
+“그런데 아까부터 이 자식이 진짜.”
+
+진무경이 주먹을 치켜들자마자 재빨리 눈을 감았다. 겉보기에는 운기조식을 시작한 모습일 거다. 예상대로 주먹이 날아오는 일은 없었다.
+
+자, 그럼 이제…….
+
+‘로그아웃.’
+
+띠링.
+
+
+
+- 로그아웃하시겠습니까?
+
+
+
+대답은 정해져 있었다.
+```
+
+## Final English reading copy
+
+```markdown
+# Chapter 74
+
+“You’ve changed.”
+
+Those were the first words Jin Wikyung spoke after we entered his office. After giving me a careful once-over, he patted Jin Mukyung on the shoulder.
+
+“You’ve worked hard.”
+
+But despite the warm words, Jin Mukyung answered with a sullen expression.
+
+“I almost called a mortician.”
+
+“You really know how to say beautiful things.”
+
+“You—hngh. I’ll let it slide because we’re in front of Hyung-nim.”
+
+“I’m grateful for that too.”
+
+Jin Wikyung gave a short laugh and gestured for us to sit. I took a seat, sipped some warm tea, and looked around.
+
+“This place has changed a lot too. It was a mess the last time I came.”
+
+The office was neat and orderly. When I had visited fifteen days ago, it had been a disaster area covered in all sorts of objects.
+
+Now, even the table that should have been buried beneath stacks of documents was spotless.
+
+“……It was a difficult time.”
+
+Jin Wikyung muttered with a clouded expression.
+
+“But it’s almost over. Just a little longer. If I hold out just a little longer, I can do it.”
+
+“……”
+
+This guy had lost half his mind too. Then again, he had handled that enormous workload alone. It would have been stranger if he were still perfectly sane.
+
+*If it were me, I would have made a midnight escape long ago.*
+
+This applied to me too, but martial artists were, to put it kindly, men of action and, to put it unkindly, blockheads. I wasn’t trying to disparage them. That was simply the truth.
+
+*The family elders were much the same.*
+
+Some of that might have been because the Head Elder had installed puppets, but even the senior members who sided with Jin Wikyung were far from capable administrators.
+
+Despite being born into a prestigious martial family, Jin Wikyung was skilled at administration and outstanding in martial arts. In other words, he was an oddity.
+
+“I want to rest for just one day. Just one day. I want to rest. I want to rest.”
+
+As Jin Wikyung muttered the same words like a man with obsessive-compulsive disorder, Jin Mukyung clicked his tongue.
+
+“It’s a good thing I was born second.”
+
+I nodded.
+
+“Agreed.”
+
+If taking care of my family was already enough to break my back, then if I had entered Jin Wikyung’s body instead of Jin Taekyung’s when I first logged in…
+
+It would have been nothing short of bleak.
+
+The Jin Family of Taiyuan even had hundreds of retainers under its command. The only advantage was that, as the homeowner, I wouldn’t have to worry about my jeonse deposit going up.[^1]
+
+[^1]: Jeonse is a Korean rental system in which a tenant pays a large lump-sum deposit instead of monthly rent.
+
+“The eldest son is supposed to carry a heavy burden.”
+
+Jin Mukyung snorted at my words.
+
+“You’re not qualified to say something like that, so shut up. Isn’t that right, Hyung-nim?”
+
+Jin Wikyung stared at me with moist eyes.
+
+“How does he always manage to pick such touching things to say?”
+
+“No, Hyung-nim.”
+
+“You’ve grown up. You really have.”
+
+“……Am I allowed to curse at him?”
+
+The cold exchange continued, but Jin Wikyung seemed not to hear a thing. He still looked deeply moved as he spread both arms wide.
+
+“Let me hug our youngest just once.”
+
+“Yes, hyung.”
+
+“My youngest!”
+
+Whump!
+
+Jin Mukyung muttered with a face like he had bitten into something foul.
+
+“This damned household. Don’t expect me to come back.”
+
+“Mukyung, you come here too.”
+
+“No. Even if you beat me to death, I’m not going.”
+
+“We’ve all gathered in one place for once, and you can’t grant your only older brother’s request?”
+
+At the wounded tone in his voice, Jin Mukyung flinched.
+
+“……Just this once.”
+
+The moment the words left his mouth, a hand as large as a pot lid pulled Jin Mukyung closer.
+
+Buried against Jin Wikyung’s chest alongside me, he mouthed the words:
+
+*You. Are. Dead.*
+
+*Hmm. I should stay out of sight for the time being.*
+
+Apparently he would be leaving soon anyway. I only had to avoid him for a few days.
+
+*If things get too bad, I can always log out.*
+
+I had completed the Quest, and I had already been thinking about returning soon. There was also the matter of my contract with Team Leader Choi. More than anything, my body was itching to test the newly refined martial arts in a Gate.
+
+“Thank you. I feel invigorated thanks to you two.”
+
+After ending the emotional embrace, Jin Wikyung dabbed at his eyes with his sleeve.
+
+“There’s just so much work. So much work.”
+
+“……”
+
+He really must have been suffering.
+
+The tears of a human weapon made me solemn in spite of myself. I patted Jin Wikyung on the back.
+
+“Keep your spirits up.”
+
+Jin Mukyung, who had been wearing a death mask until moments ago, also gave Jin Wikyung a sympathetic look.
+
+“Hyung-nim. If it’s really that difficult, take this guy and put him to work.”
+
+“……?”
+
+What the hell was he talking about? I asked, dumbfounded.
+
+“Usually, at a time like this, shouldn’t you at least say, ‘I’ll help,’ even if you don’t mean it?”
+
+Jin Mukyung answered confidently.
+
+“A martial artist does not make empty promises.”
+
+“Then why drag me into it while I’m sitting here?”
+
+“You have plenty of time.”
+
+“I don’t!”
+
+“I have even less. I need to train. Besides, I’m hopeless at looking over documents.”
+
+“I was a seventh-tier student!”
+
+“What nonsense are you talking about?”
+
+“I mean I was terrible at studying.”
+
+Jin Mukyung thought for a moment, then frowned.
+
+“A completely useless bastard. Hyung-nim, he does have good strength, so he would make an excellent laborer. I’ll be going now.”
+
+“Wait.”
+
+The nape of the man who had turned around so quickly was caught by a giant forepaw—no, hand. Its owner was, naturally, Jin Wikyung.
+
+“Where do you think you’re going?”
+
+“Pardon?”
+
+“You have to hear why I called you two before you leave.”
+
+“……What is it?”
+
+An uneasy expression spread across Jin Mukyung’s face. I had no mirror, but I was probably making a similar face.
+
+*I smell trouble.*
+
+I was uncannily good at recognizing this kind of smell.
+
+The smell of bad luck. The feeling that something bothersome was about to happen. Jin Wikyung’s next words turned that premonition into certainty.
+
+“You’ll have to go to the Mount Heng Sword Sect.”
+
+Ding.
+
+> **System**
+>
+> - A Quest has been forcibly created.
+
+“……”
+
+Goddammit. Now it doesn’t even ask.
+
+* * *
+
+I stared at the translucent Quest window.
+
+> **Quest**
+>
+> **[Yesterday’s Enemy, Today’s Ally]**
+>
+> Now that all the truth has been revealed, the Mount Heng Sword Sect is not an enemy but an ally with whom you must join hands. Invite them to the Jin Family of Taiyuan for the upcoming New Year’s Day.
+>
+> **Grade:** First Rate
+>
+> **Restriction:** Jin Taekyung
+>
+> **Mission:** Deliver the invitation (Incomplete)
+>
+> **Reward:** ???
+>
+> **Failure:** None
+
+After reading it two or three times, my initial bewilderment had mostly subsided.
+
+*Not bad.*
+
+The Quest difficulty was not high, and there was no failure penalty. It was a simple mission that would end once I delivered the invitation.
+
+More importantly…
+
+*Logout.*
+
+Ding.
+
+> **System**
+>
+> - Would you like to log out?
+
+That meant there was no problem with logging out. The Quest had been forced on me, so it still felt unpleasant, but this much was acceptable.
+
+*Not that I’m in a position to refuse anyway.*
+
+Unlike me, who had already accepted reality, Jin Mukyung was resisting with all his might.
+
+“So……”
+
+Jin Mukyung struggled to continue.
+
+“You’re saying we should invite the Mount Heng Sword Sect for the coming New Year’s Day?”
+
+Jin Wikyung answered.
+
+“Yes. They are guests we cannot afford to miss.”
+
+“Then why do we—or rather, why do I—have to go?”
+
+“……”
+
+Look at him, struggling to exclude himself.
+
+Still, I agreed with part of his question.
+
+*Why us?*
+
+Jin Wikyung’s answer only made the question larger.
+
+“The Sect Leader of Mount Heng Sword Sect requested it personally.”
+
+I blurted out a question before I could stop myself.
+
+“The Sect Leader?”
+
+I had watched the Blood Wolf Sword Lee Cheonbaek die right before my eyes. Lee Seogeun, the Second Young Master, had been poisoned, and the Young Sect Leader whom I had never even met had reportedly died an absurd death during a mounted-bandit raid on the undefended sect.
+
+*I thought the Mount Heng Sword Sect’s main force had also been wiped out at Eight Spring Gorge.*
+
+But the Sect Leader?
+
+Jin Mukyung’s reaction was not much different.
+
+“The damage must have been severe. I only heard about it through rumors, but wouldn’t it be understandable if they closed the sect’s gates?”
+
+Jin Wikyung shook his head.
+
+“They were once one of the pillars of Shanxi Murim. Don’t underestimate their strength. If they have a rallying point, they can aim for a revival.”
+
+A rallying point.
+
+The new Sect Leader of the Mount Heng Sword Sect—the person who had requested that Jin Wikyung send Mukyung and me—seemed to be that new rallying point. I asked:
+
+“Who is it?”
+
+“Lee Seowol.”
+
+“Lee Seowol? Lee Seowol……”
+
+It was the first time I had heard the name. Judging by her surname, she seemed to have some connection to Lee Cheonbaek.
+
+“You don’t remember the name?”
+
+“A hidden son? A distant relative? I’m not sure.”
+
+“As expected, you don’t remember.”
+
+“Pardon?”
+
+What did he mean, I did not remember?
+
+*Is she someone I know?*
+
+As I tilted my head, Jin Wikyung looked at me strangely.
+
+“The new Sect Leader of the Mount Heng Sword Sect is a woman. She is Lee Cheonbaek’s third child, the one and only younger sister of the deceased Young Sect Leader and Lee Seogeun.”
+
+At that moment, a fragment of memory flashed through my mind.
+
+The scene in my memory was the main arena. The actor was Lee Seogeun. His face was flushed bright red as he shouted at me.
+
+*You shameless bastard! You tore my sister’s clothes and tried to violate her!*
+
+Ah!
+
+“Could it be her?”
+
+“That’s right.”
+
+“……Damn it.”
+
+Only Jin Mukyung, who had no idea what we were talking about, blinked both eyes.
+
+“What does that mean? Hey, do you know her?”
+
+“Uh, well. You could say I know her, and you could also say I don’t.”
+
+“What the hell does that mean? So what exactly is your relationship with her?”
+
+“Hmm.”
+
+*A former girlfriend whose face I don’t even know? Or a honey-trap scammer?*
+
+*One thing is certain.*
+
+Neither of us was particularly happy about meeting the other.
+
+I let out a deep sigh.
+
+* * *
+
+To cut to the end of the story, Jin Mukyung agreed to go to the Mount Heng Sword Sect as well. Jin Wikyung had used the masterstroke he had been saving.
+
+*I heard the Mount Heng Sword Sect has a lot of martial arts manuals…*
+
+*Even if they do, what good is that? It’s not like I can read them.*
+
+*It does matter.*
+
+*Pardon?*
+
+*The new Sect Leader has you figured out. She said she would be willing to show you some of their Peak martial arts if you came.*
+
+*……When are we leaving?*
+
+*Right now.*
+
+Everything moved at lightning speed. It had been only two hours since we boarded the four-horse carriage after receiving Jin Wikyung’s farewell.
+
+Jin Mukyung sat across from me and grumbled.
+
+“A carriage? It’ll take an age just to get there.”
+
+The land was so vast that even making a rough estimate, it would take three days to reach Eung-hyeon (應懸), where the Mount Heng Sword Sect was located.
+
+For Jin Mukyung, who wanted to see the Mount Heng Sword Sect’s Peak martial arts as soon as possible, three days was an eternity.
+
+“Hey, coachman, can’t you go any faster?”
+
+A reply came from the driver’s box beyond the partition.
+
+“First of all, I’m not the coachman. And no, I can’t go any faster. You may not know this from inside, but it’s freezing outside and I’m about to die of hypothermia. Anyway, that’s how things are.”
+
+“Use the whip and spur the horses on! A coachman should be able to do at least that much.”
+
+“I’ll say this one more time: I’m not the coachman. And the whip is frozen solid, so it would be more accurate to call it an icicle. If I jab the horses in the rear with this icicle, I think they’ll get very angry……”
+
+“What? Why is someone who isn’t a coachman sitting there?”
+
+“Before we left, you shouted that the attendants were getting in your way and ordered all of us to get lost. The coachman got lost too.”
+
+Jin Mukyung thought about it carefully, then smacked his forehead.
+
+“Oh, right.”
+
+“……”
+
+As expected, this guy was not normal either.
+
+“Then who are you?”
+
+Recalling the law of conservation of idiots, I answered.
+
+“Hyuk Mujin.”
+
+“Who’s Hyuk Mujin?”
+
+“You’ll know when you see his face. Hey, Mujin!”
+
+The partition dropped, revealing Hyuk Mujin’s face, which was covered in frost. His teeth chattered constantly as Jin Mukyung studied him carefully. Then Mukyung snapped his fingers.
+
+“Oh, that guy.”
+
+Hyuk Mujin answered curtly.
+
+“Yes. I’m that guy.”
+
+“Why didn’t you leave too? Why not bring the coachman instead?”
+
+As if he had been waiting for that question, Hyuk Mujin proudly puffed out his chest.
+
+“I only obey my squad leader’s orders.”
+
+“Squad leader?”
+
+“The Third Young Master.”
+
+Jin Mukyung’s head snapped toward me.
+
+“Did you call him?”
+
+“No. He was already there without me calling him.”
+
+“That’s what he says?”
+
+Hyuk Mujin looked back and forth between us with a wounded expression.
+
+“You two really are brothers, I suppose.”
+
+“Did you say your name was Hyung Mujin? Explain exactly what that means.”
+
+Jin Mukyung spoke in a sharp, offended voice, but I yawned hugely.
+
+Hyuk Mujin clowning around was nothing new; when it came to dealing with that, I already had a full sixty-year cycle of internal energy.
+
+“It’s not Hyung Mujin. It’s Hyuk Mujin. I’ll try jabbing the horses’ backsides with this thing, whether it’s a whip or an icicle.”
+
+Tap.
+
+Jin Mukyung glared at the partition, which had quickly slammed shut, then sighed and settled back into his seat.
+
+“I shouldn’t have expected anything. If the water upstream is filthy, the water downstream can’t be clean either…… What are you doing?”
+
+I wrapped a fur hide around my body as I answered.
+
+“I’m going to circulate my qi.”
+
+“Really?”
+
+“Yeah. Circulate my qi.”
+
+“Then why does it look to me like you’re getting ready to sleep?”
+
+“That’s your imagination.”
+
+“Then why are you covering yourself with a fur hide?”
+
+“I get cold easily.”
+
+I deliberately sat cross-legged. I also pressed my body tightly against the carriage wall so I would not fall over.
+
+*I can’t entrust my precious body to that guy.*
+
+I absolutely refused to return and find that my arms or legs had been broken. It would be much better to make sure he could not touch me at all.
+
+“You know what happens if you touch me, right? Huh? Do you know what qi deviation is or not?”
+
+“Seriously, this bastard’s been getting on my nerves for a while now…”
+
+The moment Jin Mukyung raised his fist, I hurriedly closed my eyes. To anyone watching, it would look as though I had begun circulating my qi. As expected, no fist came flying at me.
+
+All right, then. Now……
+
+*Logout.*
+
+Ding.
+
+> **System**
+>
+> - Would you like to log out?
+
+There was only one possible answer.
+```
