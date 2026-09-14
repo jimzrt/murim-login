@@ -1,0 +1,23 @@
+{
+  "chapter": 56,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.33,
+    "source_characters": 6333,
+    "source_paragraphs": 213,
+    "translation_characters": 14755,
+    "translation_paragraphs": 248
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "일격",
+        "preferred": "One Strike"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
