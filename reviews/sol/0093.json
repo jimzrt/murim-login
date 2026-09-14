@@ -1,0 +1,126 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Woojin did not know which one it was, but the flies were being fairly careful about it, sneaking in one at a time. If anything, that only heightened Jin Taekyung’s vigilance.",
+      "defect": "The draft makes the flies the agents exercising caution, while the source refers to the unidentified person controlling and sending them in one at a time.",
+      "id": "F01",
+      "rationale": "어느 놈 refers to the unknown controller, whose attempt at caution paradoxically heightens Taekyung’s vigilance.",
+      "replacement": "Woojin did not know who was behind them, but whoever it was seemed to think they were being careful by sneaking the flies in one at a time. Instead, they were only putting Jin Taekyung further on guard.",
+      "severity": "major",
+      "source": "어느 놈인지는 몰라도 나름 조심한다고 한 마리씩만 슬금슬금 들어오긴 하는데, 오히려 진태경의 경계심만 돋우는 꼴이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "All he could do to express his anger was wriggle around beneath the refrigerator.",
+      "defect": "The draft omits that Woojin is hiding in the gap beneath the refrigerator.",
+      "id": "F02",
+      "rationale": "숨어 is a distinct physical action and reinforces that the tiny Familiar is concealed while venting its anger.",
+      "replacement": "The most he could do to express his anger was hide in the gap beneath the refrigerator and wriggle.",
+      "severity": "minor",
+      "source": "냉장고 밑 틈새에 숨어 꿈틀거리는 게 할 수 있는 최대의 분노 표출이었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“As a C-rank Hunter, you may use the third floor.”",
+      "defect": "The draft says Taekyung may use the third floor specifically, rather than all floors through the third floor, obscuring the Store’s rank-based access hierarchy.",
+      "id": "F03",
+      "rationale": "3층까지 establishes the third floor as his upper access limit, which the following comparison with his former second-floor limit depends on.",
+      "replacement": "“As a C-rank Hunter, you may access up to the third floor.”",
+      "severity": "major",
+      "source": "“C급 헌터님이시니 3층까지 이용 가능하십니다.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“The ones next to it.”",
+      "defect": "The plural prematurely indicates multiple daggers, changing the quantity and weakening the deliberate ambiguity that sets up the storage-box reveal.",
+      "id": "F04",
+      "rationale": "거요 is singular here; the clerk only realizes afterward that Taekyung is treating the entire adjacent storage box as one purchase unit.",
+      "replacement": "“The one next to it.”",
+      "severity": "critical",
+      "source": "“옆에 있는 거요.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "*These kinds of people have no professional courtesy, and they’re stupid on top of that.*",
+      "defect": "“These kinds of people” softens Woojin’s contemptuous 놈들이 and weakens his irritated internal voice.",
+      "id": "F05",
+      "rationale": "놈들이 is openly derogatory in this profane internal complaint and should not be neutralized to “people.”",
+      "replacement": "*Bastards like that have no professional courtesy, and they’re stupid on top of it.*",
+      "severity": "minor",
+      "source": "‘꼭 저런 놈들이 상도덕도 없는 주제에 머리까지 나빠요.’"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“This brooch was made by overseas M Company. With its beautiful, tasteful design and built-in shield spell, it’s perfect for a lady’s self-defense…”",
+      "defect": "“A lady” loses the salesperson’s deferential reference to the customer’s wife and sounds unnatural in this sales pitch.",
+      "id": "F06",
+      "rationale": "사모님 is a respectful way of referring to the male customer’s wife, not an unspecified lady.",
+      "replacement": "“This brooch was made by overseas M Company. With its beautiful, tasteful design and built-in shield spell, it’s perfect for your wife’s personal protection…”",
+      "severity": "minor",
+      "source": "“해외 M사에서 제작한 브로치입니다. 아름답고 감각적인 디자인과 실드 마법이 내장되어 있어 사모님 호신용으로…….”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "His expression, as if he were about to die from the wasted money, was thoroughly irritating.",
+      "defect": "“Wasted money” adds the judgment that the purchase itself is wasteful, while the source describes his extreme reluctance to part with the money; “thoroughly irritating” also understates 밉상 그 자체.",
+      "id": "F07",
+      "rationale": "돈 아까워 죽겠다는 describes visible pain at spending money, and 밉상 그 자체 characterizes him as the very picture of obnoxiousness.",
+      "replacement": "The look on his face, as if parting with the money were killing him, was utterly obnoxious.",
+      "severity": "minor",
+      "source": "돈 아까워 죽겠다는 얼굴이 밉상 그 자체다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "But one of their own recognized one of their own.",
+      "defect": "The sentence is an awkward literal calque with unclear referents.",
+      "id": "F08",
+      "rationale": "동류는 동류를 알아보는 법 means that those of the same kind recognize one another; the surrounding sentences identify that kind as mages.",
+      "replacement": "But mages recognized their own kind.",
+      "severity": "minor",
+      "source": "하지만 동류는 동류를 알아보는 법."
+    },
+    {
+      "confidence": 0.98,
+      "current": "*I can’t just keep taking it from this side, either.*",
+      "defect": "“From this side” is an unnatural Korean-syntax calque that obscures Taekyung’s resolve to stop passively enduring the attacks.",
+      "id": "F09",
+      "rationale": "이쪽에서도 당하고 있을 수만은 없지 expresses that Taekyung cannot remain passive and continue being victimized.",
+      "replacement": "*I can’t just sit back and take it.*",
+      "severity": "minor",
+      "source": "‘이쪽에서도 당하고 있을 수만은 없지.’"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Even if a whole crowd of martial artists came instead of five or six minors, they would not be able to force their way in.",
+      "defect": "“Martial artists” inaccurately suggests Murim-style practitioners rather than modern combat-sports fighters.",
+      "id": "F10",
+      "rationale": "격투기 선수 refers to combat-sports fighters; distinguishing them from martial artists is especially important in this series.",
+      "replacement": "Even if a whole crowd of professional fighters came instead of five or six minors, they would not be able to force their way in.",
+      "severity": "minor",
+      "source": "미성년자 대여섯이 아니라 격투기 선수가 떼거지로 와도 뚫을 수 없다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“It’s fine. I’m looking for weapons for lower-grade Hunters.”\n\nI pretended not to notice her expression darkening and stepped onto the escalator first.",
+      "defect": "“Lower-grade Hunters” conflicts with the required terminology reserving rank for Hunter classifications.",
+      "id": "F11",
+      "rationale": "하급 modifies the Hunters’ classification, which should be expressed as rank rather than Grade.",
+      "replacement": "“It’s fine. I’m looking for weapons for low-rank Hunters.”\n\nI pretended not to notice her expression darkening and stepped onto the escalator first.",
+      "severity": "minor",
+      "source": "“괜찮아요. 제가 사려는 건 하급 헌터용 무기니까.”\n\n살짝 어두워지는 직원의 얼굴을 모른 척하고 먼저 에스컬레이터에 올랐다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“It’s fine. I’m looking for weapons for lower-grade Hunters.”\n\nAssistant Manager Kim Seonhee secretly sighed at the customer’s words.",
+      "defect": "The repeated line again uses “grade” for a Hunter classification instead of the required “rank.”",
+      "id": "F12",
+      "rationale": "The intentionally repeated dialogue must retain identical wording while using the established Hunter-rank terminology.",
+      "replacement": "“It’s fine. I’m looking for weapons for low-rank Hunters.”\n\nAssistant Manager Kim Seonhee secretly sighed at the customer’s words.",
+      "severity": "minor",
+      "source": "“괜찮아요. 제가 사려는 건 하급 헌터용 무기니까.”\n\n고객의 말에 김선희 대리는 몰래 한숨을 내쉬었다."
+    }
+  ],
+  "summary": "One critical quantity error disrupts the final joke’s setup; additional findings concern the unidentified mage’s agency, access hierarchy, omitted concealment, register, terminology, and localized English.",
+  "version": 1
+}

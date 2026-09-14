@@ -1,0 +1,1175 @@
+<!-- packet-manifest
+{
+  "included": [
+    {
+      "path": "source/0093.txt",
+      "sha256": "e5a00b7a20b2509e5bc466a52873a968b2ce1d46766b99d90f75f3abe8333f46",
+      "bytes": 14631
+    },
+    {
+      "path": "docs/CONTEXT.json",
+      "sha256": "85d8eba6ebef3c80b690b1207ffdcc329f7ac8d2897d4a68f4f896535a896190",
+      "bytes": 4523
+    },
+    {
+      "path": "docs/NAMES.md",
+      "sha256": "26a5ce9d68498567868773b9e3abcdf29436a39bad9b40c06ff2efa5be4d1953",
+      "bytes": 10669
+    },
+    {
+      "path": "characters/Im Chunsoo.md",
+      "sha256": "e6a4e44d39d9365e56b04263e221c11779f29bca69effa5f6b8905b2cfb4f1d9",
+      "bytes": 666
+    },
+    {
+      "path": "characters/Jin Taekyung.md",
+      "sha256": "667261e9c6f03a5e7ed6d8f81e5545447877b6dac830340983db471554fc404b",
+      "bytes": 23942
+    },
+    {
+      "path": "docs/ADDRESS.md",
+      "sha256": "22ed1b9292d24a17dcfad62a32ce41a3a3c6285e68992e1774874c5ca2c2d109",
+      "bytes": 9609
+    }
+  ],
+  "estimated_tokens": 14970
+}
+-->
+
+# Durable State Update — Chapter 93
+
+Return exactly one JSON object and no Markdown fence. Record only facts established
+by this chapter. Do not use tools, edit prose, infer future events, or copy archived
+profile continuity.
+
+`context` must contain exactly the durable context schema shown below, with version
+1 and safe_through 93. Keep at most
+2 continuity_sources. Keep
+`active_continuity` to at most 20 concise items, `open_questions` to at most 8
+items, and `temporary_decisions` to at most 8 items. Keep the serialized context
+under 16384 UTF-8 bytes. Use only chapter
+numbers through 93. `profile_updates` may replace one exact, uniquely occurring
+complete line in a listed profile, and only an Aliases, Role, Personality, Voice, or
+Relationships line. Use `profile_creations` only for a newly introduced named
+character without a listed profile. Filenames must be plain `.md` basenames.
+`names` contains only newly required Korean-to-English rows; Korean keys must occur
+in the source. `address_pairs` contains only newly required speaker→addressee rows;
+each Korean key must occur in the source or already appear in the address ledger,
+and at least one endpoint must occur in the source (first-person narrators may be
+ledger-only). Speaker and addressee must be Hangul source spellings (Arabic digits
+allowed in titles such as 1팀장; do not romanize). Do not invent risk-register rows. Beat
+plot paragraphs are plain strings; continuity and translation decisions are concise
+list items.
+Return this exact shape:
+
+{
+  "chapter": 93,
+  "beat": {
+    "plot": ["chapter plot paragraph"],
+    "continuity": ["binding continuity item"],
+    "translation_decisions": ["binding terminology or voice decision"]
+  },
+  "context": {
+    "version": 1,
+    "safe_through": 93,
+    "continuity_sources": [93],
+    "active_continuity": ["active fact"],
+    "open_questions": ["unresolved question"],
+    "temporary_decisions": ["temporary translation decision"]
+  },
+  "names": [
+    {"korean": "source spelling", "english": "English rendering", "notes": "brief note"}
+  ],
+  "address_pairs": [
+    {
+      "speaker": "speaker Korean",
+      "addressee": "addressee Korean",
+      "kinship": "kinship or role relation",
+      "normal_address": "established English address",
+      "speech_level": "speech level",
+      "notes": "brief note"
+    }
+  ],
+  "profile_updates": [
+    {
+      "path": "characters/Listed Profile.md",
+      "current": "- **Role:** exact current full line",
+      "replacement": "- **Role:** finished replacement full line"
+    }
+  ],
+  "profile_creations": [
+    {
+      "filename": "English Name.md",
+      "korean": "source name",
+      "english": "English Name",
+      "aliases": [],
+      "role": "stable role",
+      "personality": "stable traits",
+      "voice": "stable voice",
+      "relationships": "stable relationships"
+    }
+  ]
+}
+
+Use empty arrays when no name, address-pair, or profile change is required.
+
+## Prior durable context
+
+```json
+{
+  "active_continuity": [
+    "The party sells The Minotaur's Labyrinth byproducts and Magic Gems to the Administration.",
+    "Im Kkeokjeong warns that Sangdong Guild is a powerful local Guild capable of threatening Peace Guild.",
+    "Im Chunsoo is Sangdong Guild's A-rank Guild Master and founder, known as Frozen; he has now ordered expanded surveillance of Taekyung through Sangdong's Audit Team.",
+    "Im Changsoo transferred the promised four billion won to Jin Taekyung after Im Chunsoo learned about his transfers and beat him.",
+    "Kim Jeonghee is Taekyung and Hayeon's mother; Hayeon knows that she secretly worked in a restaurant kitchen for over a year, and Jeonghee quit after the owner insulted and attacked Taekyung.",
+    "Taekyung's father died when a Gate opened downtown during the Great Cataclysm.",
+    "Kim Minsu is the restaurant owner's son, a D-rank Hunter in Sangdong Guild, and is not known personally by Im Changsoo.",
+    "Taekyung is a C-rank Hunter who reawakened from F-rank, defeated B-rank Minotaurs, and can use the Jin Family's Cultivation Technique to perform Circulate Qi for Healing on others.",
+    "Hayeon and Kim Jeonghee recovered substantially after receiving Circulate Qi for Healing from Taekyung; Hayeon also asked whether she could drop out of school after learning about his raid earnings.",
+    "Taekyung's reality and Murim Inventories are separate.",
+    "Peace Guild's Guild house remodeling is scheduled to finish in one week, and Taekyung is on paid vacation until then.",
+    "Choi Minwoo and Butler Kim suspect that Taekyung may be a third-awakening Hunter; the possibility remains unconfirmed.",
+    "Sangdong Guild is monitoring Peace Guild and has marked Taekyung as a major target; Choi has not warned him because he wants Sangdong's investigation to reveal more.",
+    "Taekyung agreed to buy a meaningful former family home for 3.38 billion won, paid a ten-percent deposit, and plans to remodel it and move after Hayeon's college entrance examination.",
+    "Park Jihwang changed his name to Park Jihoon and is now a Hunter in Team 1 of Myeongdong Guild.",
+    "Taekyung judged Jihoon's strength to be comparable to Im Changsoo's, possibly greater.",
+    "Hong Woojin is a B-rank mage and information broker who specializes in tracking and surveillance magic; he is investigating Taekyung through a cat's Link, which Taekyung's Qi Sense did not detect.",
+    "Sangdong Guild's Team 1 Leader is the Guild's only A-rank Hunter besides Im Chunsoo and doubts the report of Taekyung's feats, while withholding Woojin's warning from Chunsoo.",
+    "Peace Guild's Guild Master and Team Leader have personal and account information protected by a security Lock reportedly imposed by an upper agency.",
+    "Taekyung's Qi Sense reaches seventy meters and identified three Level 1 fly familiars inside his home."
+  ],
+  "continuity_sources": [
+    92
+  ],
+  "open_questions": [
+    "Whether Im Chunsoo or Sangdong Guild will retaliate against Peace Guild remains unresolved.",
+    "What will happen to Kim Jeonghee after leaving the restaurant remains unresolved.",
+    "Whether Hayeon will actually drop out of school remains unresolved.",
+    "Whether third-awakening Hunters exist and whether Taekyung is one remains unresolved.",
+    "Why Hong Woojin is investigating Taekyung and what information he seeks remains unresolved.",
+    "What the three fly familiars are and why they are present in Taekyung's home remains unresolved."
+  ],
+  "safe_through": 92,
+  "temporary_decisions": [
+    "Use Frozen for 프로즌, preserve the tiger-father/dog-son wordplay in 호부견자, and use ajumma for 아줌마.",
+    "Use goshiwon for 고시원 with an explanatory footnote; use Hope Goshiwon for 희망 고시원.",
+    "Use Minsu for 민수; render 운기요상 as Circulate Qi for Healing and 하급 포션 as Lesser Potion.",
+    "Render 3차 각성자 as third-awakening Hunter, 3차 각성 as third awakening, 피의 일주일 as Bloody Week, and 전세 as jeonse lease.",
+    "Render 사장님 as Boss in the real-estate context, including young Boss.",
+    "Render 박지황/박지훈 as Park Jihwang/Park Jihoon, and 삼계탕 as samgyetang with an explanatory footnote.",
+    "Render 1팀장 as Team 1 Leader, 기감 as Qi Sense, and 락 as Lock when referring to security restrictions.",
+    "Render 집파리, 검정파리, 금파리, and 패밀리어 as Housefly, Black Blow Fly, Green Bottle Fly, and Familiar in System labels."
+  ],
+  "version": 1
+}
+```
+
+## Existing names ledger
+
+# Established Names
+
+Binding Korean → English for names, titles, aliases, and forms established in
+accepted chapters. Injected only when the exact Korean appears in the current
+chapter. Overrides `compendium.md` on the same Korean key. Add a row at first
+use. First use of an unlisted name or title almost always needs a footnote.
+
+| Korean | Preferred English | Notes |
+| ------ | ----------------- | ----- |
+| 장삼 | **Jang Sam** | Bandit; personal name |
+| 천력부 | **Heavenly Axe** | Epithet of Jang Sam; never romanize |
+| 천관일 | **Sky-Piercing Strike** | Final form of the Jin Family's Spear Technique; 天貫軼 |
+| 녹림십팔채 | **Eighteen Strongholds of Green Forest** | |
+| 홍화루 | **Honghwaru** | Lower District Sect Shanxi branch; pleasure house in Taiyuan |
+| 하연 | **Hayeon** | Jin Taekyung’s younger sister |
+| 응현 | **Eung-hyeon** | Jin Family branch location |
+| 산음 | **Saneum** | Jin Family branch location |
+| 삭주 | **Sakju** | Jin Family branch location |
+| 정양 | **Jeongyang** | Shanxi location |
+| 혼주 | **Honju** | Shanxi location |
+| 견정 | **Gyeonjeong** | Acupoint |
+| 아문 | **Amun** | Acupoint |
+| 봉안 | **Bongan** | Acupoint |
+| 입동 | **Ip-dong** | Acupoint |
+| 갱생권 | **Reformation Fist** | Jin Mukyung's named fist technique |
+| 금나수 | **grappling technique** | Close-combat wrist-lock technique; rendered descriptively |
+| 삼재검법 | **Three Calamities Sword Technique** | Sword technique Mukyung assumes Taekyung is pretending to use. |
+| 약왕당 | **Medicine King Hall** | The Jin Family's medical hall. |
+| 이공자 | **Second Young Master** | Title used for Jin Mukyung. |
+| 수문각주 | **Master of the Gatekeeper Pavilion** | Office Hyuk Mujin is rumored to receive. |
+| 공청석유 | **gongcheong seokyu** | Rare martial-arts elixir; the term also creates a petroleum pun. |
+| 군자 | **junzi** | Confucian ideal of a morally upright gentleman. |
+| 삼문협 | **Three Questions Gorge** | A distant gorge and route connecting Shanxi with Shaanxi and Henan. |
+| 섬서 | **Shaanxi** | Province bordering Shanxi. |
+| 삼공자 | **Third Young Master** | Title used for Jin Taekyung. |
+| 맹주 | **Alliance Leader** | Leader of the regional Murim alliance. |
+| 약왕당주 | **Medicine King Hall Master** | The unnamed physician who runs the Medicine King Hall. |
+| 송검문 | **Song Sword Sect** | Small-to-medium sect in central Shanxi. |
+| 송검문주 | **Sect Leader of Song Sword Sect** | Title held by Huang. |
+| 귀검 | **Ghost Sword** | Wipeng's epithet. |
+| 황 모 | **Huang** | Surname-style self-reference by the Sect Leader of Song Sword Sect. |
+| 아스모데우스 | **Asmodeus** | Demon King referenced in Taekyung's sarcastic comparison; does not appear directly. |
+| 낙류검 | **Falling Flow Sword** | Named sword technique discovered by Mukyung in the archives of Heaven's Gate Temple; its name evokes a waterfall. |
+| 질풍십이권 | **Twelve Gale Fists** | Named fist technique Mukyung threatens to use against Taekyung. |
+| 화염신장 | **Flame Divine Palm** | Jopil's deadly palm technique, noted when Taekyung compares Jopil with Mukyung. |
+| 마혈 | **Paralysis Acupoint** | System condition label for temporary paralysis. |
+| 아혈 | **Mute Acupoint** | System condition label preventing speech. |
+| 분근착골 | **Tendon-Splitting and Bone-Twisting** | Cruel immobilization technique described by Mukyung. |
+| 일문일살 | **One Question, One Kill** | Jopil's alias. |
+| 군자검 | **Junzi Sword** | Epithet Jin Wikyung begins receiving after the war. |
+| 칠득이 | **Childeuk** | Jin Family servant. |
+| 천자문 | **Thousand Character Classic** | Classical text Childeuk cannot complete. |
+| 천무지체 | **Heavenly Martial Physique** | Named physique or constitution mentioned hypothetically by Jin Mukyung. |
+| 장칠득 | **Jang Childeuk** | Personal-name form of Childeuk; he is newly appointed as a martial artist directly under Jin Wikyung. |
+| 최 팀장 | **Team Leader Choi** | Team Leader who owns the café where Taekyung signs a contract. |
+| 명품충 | **Designer-Brand Junkie** | Display name used by Team Leader Choi in a text message. |
+| 평화 | **Peace Guild** | Guild name. |
+| 김 집사 | **Butler Kim** | Choi's butler and limousine driver. |
+| 히말라야 | **Himalayas** | Mountain region referenced as the source of the bottled water. |
+| 히말라야의 정수 | **Essence of the Himalayas** | System-named consumable that temporarily raises Intelligence. |
+| 부천 | **Bucheon** | City with a dense concentration of Gates and Guild headquarters. |
+| 강남 | **Gangnam** | Formerly valuable Seoul-area real estate. |
+| 분당 | **Bundang** | Formerly valuable Korean real estate area. |
+| 대한민국 | **Korea** | Country reference. |
+| 순이 | **Sooni** | Former owner of Sooni's Super. |
+| 순이네 수퍼 | **Sooni's Super** | The Peace Guild's Guild house. |
+| 송 양 | **Miss Song** | The Peace Guild's final member; full identity not yet given. |
+| 아레스 | **Ares Guild** | The leading Guild in Korea; formerly employed Team Leader Choi and Song Song. |
+| 논산 | **Nonsan** | Location of Korea's Hunter training center. |
+| 임혁준 | **Im Hyeokjun** | Im Kkeokjeong's personal name, shown in the System Level window. |
+| 미노타우로스 | **Minotaur** | B-rank monster species. |
+| 부천터미널 길드 | **Bucheon Terminal Guild** | Guild whose raid footage is shown. |
+| 미노타우로스의 미로 | **The Minotaur's Labyrinth** | B-rank Gate. |
+| 상동 길드 | **Sangdong Guild** | Mid-sized Guild near Bucheon that joins Peace Guild's first official raid. |
+| 헌터 협회 | **Hunter Association** | Organization investigating the Bucheon Terminal Guild fatality. |
+| 흑색 드레이크 | **Black Drake** | B-rank monster whose leather and spine are used for Taekyung's loaned equipment. |
+| 장인의 흑색 드레이크 가죽 세트 | **Masterwork Black Drake Leather Set** | Peak-grade armor set loaned to Taekyung. |
+| 장인의 검은 가시 창 | **Masterwork Black Thorn Spear** | Peak-grade spear loaned to Taekyung. |
+| 출혈 | **Bleeding** | Effect with a 90% activation chance on a successful spear hit. |
+| 니콜라스 | **Nicholas** | North American craftsman associated with the space-expansion suitcase. |
+| K사 | **K Company** | Manufacturer of the space-expansion suitcase. |
+| 혜린 | **Hye-rin** | C-rank female mage and member of Im Changsoo's Sangdong Guild team. |
+| 청담동 | **Cheongdam-dong** | District mentioned as a luxury shopping location. |
+| 투우사의 전신 갑옷 | **Matador’s Full-Body Armor** | Peak-grade armor equipped by Im Kkeokjeong; grants bonuses against bovine-type monsters. |
+| 투우사의 방패 | **Matador’s Shield** | Peak-grade shield equipped by Im Kkeokjeong; can activate Taunt and Hallucination against bovine-type monsters. |
+| 도발 | **Taunt** | System effect that the Matador’s Shield can activate against bovine-type monsters. |
+| 환각 | **Hallucination** | System effect that the Matador’s Shield can activate against bovine-type monsters. |
+| 미노타우로스 전사 | **Minotaur Warrior** | Level-window designation for the first Minotaur encountered in the labyrinth. |
+| 발설지옥 | **tongue-pulling hell** | Buddhist hell associated with punishment for liars and slanderers; explained in a footnote. |
+| 껄떡쇠 | **Horndog** | Im Changsoo’s nickname for his womanizing. |
+| 강원도 | **Gangwon Province** | Province named in Taekyung’s joke about the Minotaur’s next life. |
+| 횡성 | **Hoengseong** | Place in Gangwon Province named in Taekyung’s joke. |
+| 자일리톤 | **Xyliton** | Finnish equipment manufacturer whose custom helmet records video. |
+| 유네스코 | **UNESCO** | Organization referenced in Taekyung’s cultural-heritage joke. |
+| 일섬 | **One Annihilation** | Named spear technique Taekyung uses to kill the Boss Zone monster in one blow. |
+| 미노타우로스 대전사 | **Minotaur Warrior** | Level 70 B-rank boss monster of The Minotaur's Labyrinth. |
+| 임 팀장님 | **Team Leader Im** | Formal address for Im Changsoo used by a Sangdong Guild teammate. |
+| 프로즌 | **Frozen** | Im Chunsoo's epithet as an A-rank ice mage. |
+| K은행 | **K Bank** | Bank where Im Changsoo's transfer is reported. |
+| 김정희 | **Kim Jeonghee** | Jin Taekyung and Hayeon's mother; restaurant kitchen worker |
+| 아줌마 | **ajumma** | Familiar term for a middle-aged or married woman, used for Kim Jeonghee |
+| 사장님 | **Boss** | Address for the restaurant owner; contextually rendered as ma'am in one reply |
+| 김민수 | **Kim Minsu** | The restaurant owner's son; D-rank Hunter in Sangdong Guild. |
+| 민수 | **Minsu** | Short form used for Kim Minsu. |
+| 운기요상 | **Circulate Qi for Healing** | System-named skill that channels internal energy through another person's body to cleanse accumulated waste and restore health. |
+| 하급 포션 | **Lesser Potion** | Low-grade healing potion issued as raid supplies; its System Grade is Third Rate. |
+| 3차 각성자 | **third-awakening Hunter** | Hypothetical Hunter classification that would come after reawakening. |
+| 재각성 | **reawakening** | Established Hunter awakening category described as having no further stage. |
+| 피의 일주일 | **Bloody Week** | The hellish first week after Gates opened, during which casualties reached the tens of millions. |
+| 전세 | **jeonse lease** | Korean lump-sum deposit lease used in the family's redevelopment-era housing history. |
+| 박지훈 | **Park Jihoon** | Current name of Taekyung's former middle-school classmate; Hunter in Myeongdong Guild Team 1. |
+| 박지황 | **Park Jihwang** | Jihoon's former name, revealed when Taekyung recognizes him. |
+| 가람중 | **Garam Middle School** | Middle school attended by Taekyung and Jihoon. |
+| 명동 길드 | **Myeongdong Guild** | Large Guild in which Jihoon belongs to Team 1. |
+| 1팀장 | **Team 1 Leader** | Sangdong Guild's Team 1 leader and its only A-rank Hunter besides Im Chunsoo. |
+| 희망 고시원 | **Hope Goshiwon** | The goshiwon listed as Taekyung's residence in the target report. |
+| 기감 | **Qi Sense** | Taekyung's sensory technique; its range reaches seventy meters in this chapter. |
+| 집파리 | **Housefly** | System label for a Level 1 fly familiar. |
+| 검정파리 | **Black Blow Fly** | System label for a Level 1 fly familiar. |
+| 금파리 | **Green Bottle Fly** | System label for a Level 1 fly familiar. |
+| 패밀리어 | **Familiar** | System classification for the flies detected in Taekyung's home. |
+
+## Existing address-pair ledger
+
+# Established Address Pairs
+
+Exceptional speaker → addressee forms established in accepted chapters.
+Injected only when both endpoints are present in the current chapter: the
+Korean appears in the source, or belongs to a matched compact profile.
+Overrides generic relationship prose in character profiles for this pair.
+
+| Speaker | Addressee | Kinship | Normal address | Speech level | Notes |
+| ------- | --------- | ------- | -------------- | ------------ | ----- |
+| 진태경 | 진무경 | younger_to_older_brother | hyung | casual-but-junior | Retain hyung for 형 in Taekyung's greeting; Mukyung then punishes the casual speech. |
+| 진무경 | 진태경 | older_to_younger_brother | youngest | blunt-senior | 막내 / youngest; may taunt that lasting a quarter-hour would make Taekyung the older brother. |
+| 진태경 | 진위경 | younger_to_eldest_brother | brother | familiar-but-respectful | Self-corrects from the personal name to kinship: “Jin Wikyung—I mean, my brother?”; 큰형 is eldest brother. |
+| 진위경 | 진태경 | eldest_to_youngest_brother | youngest | affectionate-protective | Uses youngest-brother address; openly affectionate beneath a public mask. |
+| 진태경 | 성진호 | junior_to_older_friend | Jinho hyung | casual-but-junior | Retain hyung for 형; Jinho is three years older. |
+| 성진호 | 진태경 | older_friend | informal / younger-brother | teasing-senior | Speaks informally while demanding respect as the older friend. |
+| 진태경 | 임꺽정 | junior_friend | Kkeokjeong hyung | casual-but-junior | After Im asks to be called hyung. |
+| 임꺽정 | 진태경 | older_friend | hyung | hearty-casual | “Call me hyung. We’re not even that far apart in age.” |
+| 위팽 | 진위경 | retainer_to_lord | my lord | deferential | 주공; Wipeng is Jin Wikyung’s personal guard. |
+| 소천 | 진태경 | rescued_survivor_to_benefactor | Benefactor | deferential | Socheon repeatedly addresses Taekyung as 은인. |
+| 진무경 | 진위경 | younger_to_older_brother | older brother | formal-but-blunt | Mukyung refers to Wikyung as 형 while remaining emotionally restrained. |
+| 진위경 | 진무경 | older_to_younger_brother | little brother | affectionate-casual | Wikyung uses 아우야 and 무경아 with openly affectionate familiarity. |
+| 진태경 | 공야청 | junior_to_respected_hero | Great Hero Gong | deferential | Taekyung consistently attaches 대협 when addressing Gong Yacheong. |
+| 위팽 | 송검문주 | visitor_to_sect_leader | Sect Leader | formal-polite | Wipeng addresses the Song Sword Sect Leader respectfully while delivering the summons. |
+| 송검문주 | 위팽 | sect_leader_to_visiting_master | Great Hero Wipeng | deferential | The Sect Leader addresses Wipeng as 위 대협 while fearing the Ghost Sword's power. |
+| 진태경 | 월화 | junior_to_older_female_acquaintance | Wolhwa noona | casual-but-junior | Taekyung uses this address while speaking in his sleep or delirium. |
+| 칠득이 | 진위경 | servant_to_lesser_family_head | Lesser Family Head | deferential | Childeuk repeatedly addresses Wikyung as 소가주님. |
+| 진위경 | 칠득이 | lesser_family_head_to_servant | you | formal-but-familiar | Wikyung addresses Childeuk with 자네. |
+| 진위경 | 장칠득 | lesser_family_head_to_direct_martial_artist | Martial Artist Jang | affectionate and ceremonious | Wikyung embraces and exuberantly praises Childeuk after acknowledging their minor misunderstanding. |
+| 혁무진 | 진태경 | squad_subordinate_to_squad_leader | Squad Leader | deferential | Hyuk Mujin says he obeys only his squad leader's orders and identifies Taekyung as the Third Young Master. |
+| 진태경 | 혁무진 | squad_leader_to_squad_subordinate | Mujin | familiar-and-commanding | Taekyung calls him 무진아 while summoning him from the driver's box. |
+| 진태경 | 최 팀장 | guild_member_to_team_leader | Team Leader | deferential | Taekyung addresses Choi as 팀장님. |
+| 최 팀장 | 진태경 | team_leader_to_guild_member | Taekyung | formal-but-familiar | Choi addresses him as 태경 씨. |
+| 진태경 | 김 집사 | client_to_butler | Butler Kim | formal-deferential | Taekyung addresses him as 김 집사님. |
+| 최 팀장 | 김 집사 | employer_to_butler | Butler Kim | formal-polite | Choi addresses him as 김 집사님. |
+| 김 집사 | 진태경 | butler_to_hunter_client | Hunter | deferential | Butler Kim refers to Taekyung as 헌터님. |
+| 임꺽정 | 송 양 | older_guild_member_to_younger_female_guild_member | Miss Song | hearty-casual | Im Kkeokjeong calls her 송 양. |
+| 진태경 | 송송이 | guild_member_to_guild_member | Miss Song | formal-polite | Taekyung repeatedly uses 송이 씨 while introducing himself and attempting to court Song Song. |
+| 송송이 | 진태경 | guild_member_to_guild_member | Taurus | casual-teasing | Song Song refers to Taekyung by his zodiac sign when calling him to the meal. |
+| 진태경 | 김 집사 | junior_to_senior_Hunter | Senior | deferential | After learning that Butler Kim trained at the same Nonsan regiment and battalion, Taekyung addresses him as 선배님. |
+| 김 집사 | 최 팀장 | butler_to_employer | Young Master | deferential | Butler Kim addresses Choi as 도련님 when agreeing to follow his decision about Guild titles. |
+| 임창수 | 혜린 | sponsor_to_sponsored_lover | Hye-rin | condescending-casual | Changsoo refers to himself as this oppa while claiming he will protect her. |
+| 최 팀장 | 임꺽정 | guild_team_leader_to_guild_member | Hunter Im | formal-polite | Choi addresses Kkeokjeong as 임 헌터님 while telling him to put on the equipment. |
+| 임창수 | 진태경 | rival_guild_team_leader_to_guild_member | Mr. Jang Taekyung | mock-formal and condescending | Changsoo deliberately uses the wrong surname, then dismisses whether Taekyung is Jin or Jang. |
+| 진태경 | 임창수 | guild_member_to_rival_guild_team_leader | Shit Changsoo | insulting-casual | Taekyung’s retaliatory surname pun after Changsoo misnames him. |
+| 임창수 | 송송이 | rival_guild_team_leader_to_guild_member | Miss Song | mock-polite | Uses 송송이 씨 while proposing that Song Song join Sangdong Guild. |
+| 송송이 | 임창수 | guild_member_to_rival_guild_team_leader | Shit Changsoo—no, Im Changsoo | blunt but polite | Insults Changsoo with 씹창 and then corrects herself to his proper name while rejecting him. |
+| 송송이 | 김 집사 | guild_member_to_guild_master | Guild Master | formal-polite | Requests the Guild Master’s permission before changing Guilds under the wager. |
+| 송송이 | 최 팀장 | guild_member_to_team_leader | Team Leader | formal-polite | Asks Choi whether he accepts her possible Guild transfer if the bet is lost. |
+| 송송이 | 임꺽정 | younger_guild_member_to_older_guild_member | Uncle | casual-polite | Song Song uses 아저씨 while asking Im Kkeokjeong to agree that Changsoo is nasty. |
+| 김 집사 | 임창수 | guild_master_to_rival_guild_member | Changsoo | mock-polite | Butler Kim uses 창수 씨 while accusing Changsoo of refusing to pay. |
+| 지점장 | 임춘수 | bank_branch_manager_to_guild_master | Guild Master | formal-deferential | The K Bank branch manager addresses Im Chunsoo as 길드장님 while reporting Changsoo's transfer. |
+| 임춘수 | 임창수 | father_to_son | Changsoo | furious-parental | Im Chunsoo uses Changsoo's name alongside hostile forms such as that bastard and you little shit. |
+| 하연 | 진태경 | younger_sister_to_older_brother | oppa | casual-familiar; pleading for important requests | Hayeon habitually puts 오빠 first when making an important request. |
+| 김정희 | 사장님 | employee_to_restaurant_owner | Boss | formal-polite, becoming firm | Uses the owner's title while demanding an apology and defending Taekyung. |
+| 사장님 | 김정희 | restaurant_owner_to_employee | Ajumma | condescending-casual | Repeatedly uses 아줌마 while berating Kim Jeonghee. |
+| 진태경 | 김정희 | son_to_mother | Mom | casual-familiar and affectionate | Taekyung's first words after entering the restaurant and seeing his mother. |
+| 김정희 | 진태경 | mother_to_son | Son | affectionate-familiar | Calls Taekyung 아들 when surprised by his visit and later asks whether he has eaten. |
+| 진태경 | 사장님 | visitor_to_restaurant_owner | Boss | polite but sarcastic | Maintains a superficially respectful address while baiting the owner during the confrontation. |
+| 사장님 | 진태경 | restaurant_owner_to_employee_son | you / you little punk | condescending-aggressive | Uses hostile informal forms while trying to intimidate Taekyung. |
+| 부동산 아저씨 | 진태경 | real_estate_agent_to_customer | Boss | polite and sales-friendly | The unnamed real estate agent repeatedly addresses Taekyung as 사장님 while arranging a house viewing. |
+| 여자 친구 | 박지훈 | girlfriend_to_boyfriend | Oppa | casual-familiar | Jihoon's girlfriend addresses him as 오빠 while asking him to return to the car. |
+| 임춘수 | 1팀장 | guild_master_to_team_leader | Team 1 Leader | blunt-commanding | Chunsoo addresses him with a rough 야 while issuing orders and demanding his candid assessment. |
+| 1팀장 | 임춘수 | guild_team_leader_to_guild_master | Guild Master | formal-deferential | The Team 1 Leader consistently addresses Chunsoo as 길드장님 while reporting and accepting orders. |
+| 진태경 | 하연 | older_brother_to_younger_sister | Sis | casual-familiar | Taekyung addresses Hayeon as 동생아 during their fly investigation. |
+
+## Exact glossary matches
+
+| 진태경    | **Jin Taekyung**   |
+| 임춘수    | **Im Chunsoo**    |
+| 임창수    | **Im Changsoo**   |
+| 홍우진    | **Hong Woojin**   |
+| 운기조식   | **circulate one's qi**                           | Usually better as a verb than a proper-name technique |
+| 레벨               | **Level**                      |
+| 등급               | **Grade**                      | System/UI field for quest, item, and martial-art classifications; do not use “Rank” here |
+| 장비               | **Equipment**                  |
+| 매력               | **Charm**                      |
+| 헌터      | **Hunter**            |
+| 레이드     | **raid**              |
+| 길드      | **Guild**             |
+| 팀장      | **Team Leader**       |
+| 마법사     | **mage**              |
+| 마정석     | **Magic Gem**         |
+| 하연 | **Hayeon** | Jin Taekyung’s younger sister |
+| 대한민국 | **Korea** | Country reference. |
+| 기감 | **Qi Sense** | Taekyung's sensory technique; its range reaches seventy meters in this chapter. |
+| 패밀리어 | **Familiar** | System classification for the flies detected in Taekyung's home. |
+
+## Listed compact profiles
+
+### Im Chunsoo.md
+
+# Im Chunsoo (임춘수)
+
+- **Safe through:** Chapter 92
+- **Aliases:** Frozen
+- **Role:** A-rank Hunter; founder and Guild Master of Sangdong Guild; renowned ice mage
+- **Personality:** Intimidating, severe, and extremely short-tempered, though he has tried to moderate his temper with age
+- **Voice:** Sharp and commanding, with a comparatively gentle tone when deliberately controlling his temper; becomes violently profane when enraged
+- **Relationships:** Father of Im Changsoo, whom he considers a pathetic disappointment and immediately fires and punishes after learning of Changsoo's actions
+
+### Jin Taekyung.md
+
+# Jin Taekyung (진태경)
+
+- **Safe through:** Chapter 92
+- **Aliases:** Sleeping Dragon of Shanxi
+- **Role:** Modern-world protagonist; recently fired after seven years at his job; C-rank Hunter who defeated eight B-rank Minotaurs and killed a Level 70 B-rank Minotaur Warrior in one blow; First Rate martial artist standing before the Peak realm; youngest son of the Jin Family of Taiyuan; Qi Sense reaches a seventy-meter radius
+- **Personality:** Hungry, self-aware, dryly observant, and willing to take a questionable opportunity when desperate; treats the impossible as a game until the danger becomes undeniable
+- **Voice:** First-person, conversational, dryly self-mocking; uses vivid trap-and-prey imagery, game jargon, and occasional profanity
+- **Relationships:** Jin Mukyung’s younger brother and current student; son of a deceased father; supports his mother and younger sibling
+
+## Korean source
+
+```text
+＃93화
+
+
+
+‘이런 아마추어 자식들.’
+
+홍우진은 분통이 터질 지경이었다. 지난번처럼 고양이의 몸에 들어갔다면 털을 바짝 세우고 하악질을 했을 것이다.
+
+하지만 지금 그는 손톱보다도 작은 쌀벌레. 냉장고 밑 틈새에 숨어 꿈틀거리는 게 할 수 있는 최대의 분노 표출이었다.
+
+왜애애앵.
+
+‘저 새끼 저거, 또 들어오네.’
+
+분노의 대상은 끊임없이 집 안으로 들어오는 파리였다.
+
+어느 놈인지는 몰라도 나름 조심한다고 한 마리씩만 슬금슬금 들어오긴 하는데, 오히려 진태경의 경계심만 돋우는 꼴이다.
+
+“아오, 이놈의 파리.”
+
+후웅. 찍!
+
+뻔한 최후. 홍우진은 혹시라도 진태경이 알아챌까 봐 몸이 달았다.
+
+‘꼭 저런 놈들이 상도덕도 없는 주제에 머리까지 나빠요.’
+
+어지간한 헌터들은 알아차리지 못하겠지만 그는 바로 알아봤다.
+
+저 파리는 마법사가 조종하는 패밀리어(Familiar)라는 사실을. 같은 마법사만이 느낄 수 있는 매우 미약한 마나가 그 증거다.
+
+‘누구한테 고용된 놈이지? 역시 상동 길드인가?’
+
+만약 그렇다면 이 의뢰는 당장 때려치워야 한다. 그는 자신의 실력에 엄청난 자부심을 갖고 있는 프로니까.
+
+신성한 업무 공간에 훼방꾼이 끼어드는 일은 참을 수 없었다.
+
+‘그렇게 신신당부했는데도…….’
+
+아무리 일을 잘 처리하더라도 결국 성질 급한 의뢰인이 풀어 놓은 미꾸라지 한 마리가 물을 흐릴 때가 있다. 바로 지금처럼.
+
+“요즘 파리들은 다 저러냐?”
+
+“그, 그럴 수도 있지 않을까? 아무튼 10만 원 줘.”
+
+“줘야지. 주긴 주는데…… 저 파리 좀 이상하지 않아?”
+
+젠장, 이렇게 될 줄 알았지.
+
+홍우진은 욕을 삼키며 열심히 몸을 움직였다. 꿈틀꿈틀, 사람의 시선이 닿지 않는 더 깊은 곳으로 기어가던 그때였다.
+
+찌릿.
+
+‘……어?’
+
+그는 몸이 붕 뜨는 듯한 낯선 감각에 사로잡혔다. 패밀리어 마법을 사용하기 시작한 이래 단 한 번도 없었던 일이다.
+
+‘뭐지? 이번 패밀리어가 너무 작아서 그런가?’
+
+찰나에 불과했지만 홍우진은 찝찝함을 감출 수 없었다. 순간 탐지 마법은 아닌지 하는 의심이 들었지만 이내 고개를 저었다.
+
+‘마법은 절대 아니야.’
+
+진태경이 비(非)마법 헌터이기 때문만은 아니다. 어차피 돈만 있으면 마법 장비를 구할 수 있는 세상 아닌가?
+
+하지만 동류는 동류를 알아보는 법. B급 마법사인 그가 탐지 마법을 구분하지 못할 리 없다.
+
+‘순간적으로 연결이 약해진 거겠지. 맞아. 분명히 그럴 거야.’
+
+단순한 착각이라고 생각하게 된 결정적인 계기는 진태경의 반응이었다.
+
+“날개를 다쳐서 그런가, 파리가 어째 비실비실하네.”
+
+짝!
+
+경쾌한 소리와 함께 다시 거실로 나온 진태경이 소파에 드러누웠다. 예능 프로그램을 보며 낄낄거리기를 잠시, 웃음소리 대신 요란한 코골이가 집 안을 가득 채웠다.
+
+드르렁. 드르렁.
+
+그제야 홍우진의 마음이 느슨하게 풀어졌다.
+
+‘그럼 그렇지. C급 헌터, 그것도 얼마 전까지 F급이었던 놈이 뭘 알겠어. 이틀 전에 있었던 일도 전부 우연이 분명해.’
+
+이틀 전, 고양이를 패밀리어 삼아 진태경을 관찰하다 놀랐던 일이 아직 마음 한편에 남아 있었다. 왠지 모르게 그 후로도 자꾸만 신경 쓰였는데 이제야 한시름 놓을 수 있을 것 같았다.
+
+‘저런 허접한 패밀리어도 못 알아챌 정도면, 뭐. 말 다 한 거지.’
+
+한 가지 문제가 있다면 저 게으른 놈이 도무지 움직일 생각이 없다는 건데…….
+
+‘이제는 조금 더 과감하게 감시해야겠어.’
+
+홍우진이 하고 많은 생명체 중 쌀벌레를 패밀리어로 골랐던 건 진태경에 대한 일말의 경계심 때문이었다.
+
+그러나 이제는 이 작고 느려 터진 벌레의 몸에서 빠져나가도 될 듯싶었다.
+
+‘내일은 다른 모습으로 만나자고, 진태경.’
+
+팟.
+
+홍우진은 링크를 해제했다. 냉장고 틈새에 숨어 있던 그것은 더 이상 패밀리어가 아니다. 그저 작고 연약한 쌀벌레에 불과했다.
+
+그리고 다음 순간.
+
+드르렁…….
+
+진태경의 코골이가 서서히 잦아들더니 이내 뚝 끊겼다.
+
+
+
+* * *
+
+
+
+미약한 기운 하나가 사라진다. 감각을 총동원하고 있기에 느낄 수 있었던 변화였다.
+
+‘갔나?’
+
+기지개를 켜는 척 눈을 떴다. 가장 먼저 눈길이 향한 곳은 냉장고 바닥 틈새였다.
+
+
+
+[Lv.1 쌀벌레]
+
+
+
+불과 10분 전만 하더라도 ‘패밀리어’라는 꼬리표가 붙어 있던 레벨창이다. 링크가 끊긴 지금은 아니지만.
+
+“흐아암. 뭐 먹을 거 없나…….”
+
+나는 소파에서 일어나 자연스럽게 집 안을 돌아다녔다. 그러고 나서야 확신할 수 있었다.
+
+‘더 이상 패밀리어는 없어.’
+
+[기감]에 걸려드는 건 평범한 날벌레 몇 마리뿐. 그중 패밀리어는 어디에도 없다.
+
+쉬지 않고 들려오던 파리 날갯짓 소리도 뚝 끊긴 후였다.
+
+방금 일로 놈들도 아마 뜨끔했을 테니 최소한 오늘 하루만큼은 얼씬도 못 하겠지.
+
+‘젠장, 패밀리어라니.’
+
+패밀리어(Familiar) 마법.
+
+마법사들이 사용하는 일종의 정신계 마법이다. 시전자는 패밀리어로 삼은 생물체와 정신이 연결되며 수준에 따라서는 자신의 뜻대로 조종할 수도 있다고 했다.
+
+‘실제로 경험해 본 건 처음인데.’
+
+근접 헌터라고 모든 무기의 달인이 아니듯 마법사도 마찬가지다. 그중에서도 정신계 마법은 꽤 어려운 축에 들어간다고 들었다.
+
+‘그런 놈들이 왜 나를?’
+
+놈, 이 아니라 놈들인 이유는 패밀리어가 두 마리였기 때문이다. 두 놈이 한패일 수도 있고, 아닐 수도 있다.
+
+그러나 누가 보냈는지는 대강 짐작 가는 구석이 있었다.
+
+‘상동 길드밖에 더 있나.’
+
+현실에서 모종의 원한 관계를 맺은 곳이라고는 상동 길드 한 군데뿐이다. 정확히는 임창수지만.
+
+‘자식을 건드리면 아버지가 뛰어나오는 법이지.’
+
+냉혹하고 성질 더럽다는 A급 헌터, 임춘수.
+
+오늘 벌어진 일이 그의 지시라면 쉽게 끝나진 않을 것이다.
+
+하지만…….
+
+‘이쪽에서도 당하고 있을 수만은 없지.’
+
+이틀 전 나를 미행한 것까지는 괜찮다. 참을 수 있다.
+
+그러나 오늘 일은 참을 수 없다. 이곳은 집이고, 사랑하는 가족이 사는 곳이니까. 놈들은 내 역린을 건드린 거다.
+
+‘이 새끼들을 어떻게 엿 먹여야 하나…….’
+
+고민하던 그때, 하연이의 방문이 벌컥 열렸다.
+
+딱딱하게 굳은 얼굴. 혹시 놈들이 나 모르게 패밀리어로 무슨 수작질을 벌였나? 마음이 다급해진다.
+
+“오빠.”
+
+“왜, 무슨 일이야? 방에 뭐 이상한 거라도 있어?”
+
+“아니, 그런 거 아냐.”
+
+“그럼 뭔데?”
+
+“10만 원 왜 안 줘?”
+
+“…….”
+
+그래. 내가 너를 너무 과소평가했구나.
+
+
+
+* * *
+
+
+
+다음 날 아침. 나는 날이 밝기가 무섭게 집을 나섰다.
+
+지난밤 내내 [기감]으로 패밀리어의 침입을 대비하느라 눈이 뻑뻑했지만 운기조식으로 피로를 풀었다.
+
+“어디로 모실까요?”
+
+“일산 라페스타요.”
+
+택시는 뻥 뚫린 도로를 막힘없이 달렸고, 생각했던 것보다 훨씬 빨리 목적지에 도착했다.
+
+‘스토어는 몇 년 전에 한 번 와 봤던 거 이후로 처음인가?’
+
+일산 중심가에 위치한 스토어(Store)는 멀리서 봐도 확연히 눈에 띄었다. 일단 근처의 다른 가게에 비해 압도적으로 컸고 화려했다.
+
+거기에 다른 가게들과 다른 점이 또 있다. 입구에서 정장을 입은 경비가 손님들을 걸러 내고 있었다.
+
+“아저씨, 우리 성인이라니까요?”
+
+“안 됩니다.”
+
+“성인인데 왜 출입 금지냐고요.”
+
+“지문 인식기가 성인이 아니라고 하니까요.”
+
+“그거 불량 아니에요?”
+
+“아닙니다.”
+
+“아 씨, 좀 들여보내 달라고요.”
+
+“뭔 씨?”
+
+경비의 말에 척 봐도 앳되어 보이는 10대 대여섯 명이 움찔하며 뒷걸음질 쳤다.
+
+“……뭐요.”
+
+“손님한테 이렇게 해도 되는 거예요?”
+
+“손님? 하, 이 어린노무 새끼들이 진짜.”
+
+경비가 피곤한 듯한 얼굴로 눈가를 문질렀다. 그는 평범한 성인 남성이 아니라 고용된 경비 헌터였다. 미성년자 대여섯이 아니라 격투기 선수가 떼거지로 와도 뚫을 수 없다.
+
+“나한테 손님은 헌터 아니면 회원증 발급받은 민간인 성인들이야. 너네 같은 고삐리가 아니라.”
+
+“…….”
+
+“좋게 말할 때 갈래, 아니면 경찰 부를까?”
+
+어딜 가나 저런 놈들이 꼭 있다. 일반인들은 접할 수 없는 온갖 물건들로 가득한 스토어에는 더더욱.
+
+“……야, 야. 가자.”
+
+앞에서 얼쩡거리던 놈들이 물러가고 나서야 나를 발견한 경비가 친절한 말씨로 물었다.
+
+“무슨 일로 오셨습니까?”
+
+“물건을 구입하려고요.”
+
+“회원권 혹은 헌터 자격증을 제시해 주시면 됩니다.”
+
+“여기요.”
+
+“확인 절차 좀 걸치겠습니다.”
+
+자격증 확인과 지문 인식을 거친 후에야 출입증이 주어졌다.
+
+“C급 헌터님이시니 3층까지 이용 가능하십니다.”
+
+스토어는 층마다 구비되어 있는 물품이 다르다. F급 헌터 시절에 딱 한 번 와 봤었는데, 당시 내 등급으로는 2층이 한계라 그 위로는 구경도 못 해 봤다.
+
+“즐거운 시간 되십시오.”
+
+“네, 고생하세요.”
+
+문을 통과하자 끝도 없이 늘어선 유리 진열대가 보인다.
+
+일반적인 가게와는 비교도 안 될 정도로 넓은 공간. 그러나 보이는 손님은 몇 되지 않는다.
+
+‘하긴, 붐비는 게 이상하지.’
+
+이곳을 이용할 수 있는 사람들은 극소수다. 대한민국 전체 인구의 0.1%에 불과한 헌터들, 그리고 회원권을 발급받을 수 있을 정도로 사회적 영향력이 있는 일반인들.
+
+그들이 스토어의 주 고객이다.
+
+“해당 상품은 국내 S사에서 제작하였으며 경보 마법이 내장되어 있어 보안에 유용…….”
+
+“해외 M사에서 제작한 브로치입니다. 아름답고 감각적인 디자인과 실드 마법이 내장되어 있어 사모님 호신용으로…….”
+
+열심히 고객들에게 제품을 설명 중인 직원들.
+
+맞다. 스토어는 민간에서 구하기 힘든 고가의 마법 물품을 구매할 수 있는 일종의 명품 백화점이다.
+
+“그럼 그거랑 이거랑. 저것도 줘 봐요.”
+
+“더 성능 좋은 거 없나? 가격은 신경 쓰지 말고 가져와 봐.”
+
+고객 숫자는 적을지 몰라도 구매력 하나는 최강이다.
+
+기본 수백만 원 대의 물건을 사들이는 사람들을 멍하니 바라보고 있는데 예쁘장하게 생긴 여직원이 다가와 고개를 숙였다.
+
+“안녕하십니까. 고객님의 안내를 도와드릴 일산 스토어 김선희 대리입니다.”
+
+“아, 예.”
+
+지난번에 왔을 때도 정중하게 대해 줬지만 이 정도는 아니었는데.
+
+C급 정도 되니까 손님 접대가 제법 극진하다.
+
+“혹시 찾으시는 제품이 있으십니까?”
+
+“레이드 장비를 좀 사려고요.”
+
+직원의 표정이 밝아졌다. 스토어에는 수많은 마법 물품이 있지만 그중에서도 가장 고가에 속하는 것이 헌터 장비다.
+
+더군다나 나는 C급 헌터. 중급 헌터 정도면 장비 하나만 골라도 억 소리가 나온다.
+
+그러니 판매 직원 입장에서는 실적 쌓을 생각에 기분이 좋을 수밖에.
+
+“3층으로 안내해 드리겠습니다.”
+
+에스컬레이터 쪽으로 몸을 튼 그녀에게 말했다.
+
+“아뇨, 2층으로 가 주세요.”
+
+“네? 하지만 C급 헌터 장비를 구매하시려면 3층으로…….”
+
+“괜찮아요. 제가 사려는 건 하급 헌터용 무기니까.”
+
+살짝 어두워지는 직원의 얼굴을 모른 척하고 먼저 에스컬레이터에 올랐다.
+
+‘쥐새끼 잡을 때 쓸 만한 게 있으려나.’
+
+인벤토리를 채워야 할 때가 왔다.
+
+
+
+* * *
+
+
+
+“괜찮아요. 제가 사려는 건 하급 헌터용 무기니까.”
+
+고객의 말에 김선희 대리는 몰래 한숨을 내쉬었다. 판매 실적에 유난히 신경 쓰고 있는 그녀로서는 영 달갑지 않은 소식이다.
+
+‘이번 달에 좋은 실적을 올려야 승진할 텐데.’
+
+서울 지점에 있는 입사 동기는 벌써 팀장을 달았다. 운이 좋은 건지, 수완이 좋은 건지 걸리는 손님마다 큰손이란다.
+
+그에 비하면 자신은…….
+
+“이거 괜찮네요.”
+
+“아, 네. 해당 제품은 F급 마정석으로 제작된…….”
+
+김선희는 퍼뜩 정신을 차리고 설명을 시작했다. 고객이 집어 든 것은 날이 검게 칠해진 단검이었다.
+
+다른 무기들에 비하면 특별한 것도, 그렇다고 마법이 내장된 것도 아닌 평범한 소모품.
+
+“가격은요?”
+
+“현재 여름 특가 할인 중이라 52만 원의 저렴한 가격으로 모시고 있습니다.”
+
+“음. 비싼데.”
+
+“…….”
+
+C급 헌터 연봉이 어떻게 되더라? 기본 수당만 몇억 아니었나? 김선희는 어이가 없었지만 묵묵히 고객의 선택을 기다렸다.
+
+“에이, 어쩔 수 없지. 살게요. 하나 주세요.”
+
+“……네.”
+
+돈 아까워 죽겠다는 얼굴이 밉상 그 자체다. 김선희가 내심 욕을 삼키며 단검을 집어 든 그때였다.
+
+“아뇨. 그거 말고요.”
+
+“네?”
+
+“옆에 있는 거요.”
+
+그녀의 시선이 옆을 향했다. 보관 박스에 가지런히 정렬된 100개의 단검이 보인다.
+
+“같은 제품입니다, 고객님.”
+
+“알아요. 저걸로 하나 주세요.”
+
+“……설마 저 보관 박스를 말씀하신 건가요?”
+
+“네. 저거 한 박스 주세요. 그리고 저것도 한 박스 주시고, 저것도…….”
+
+김선희 대리의 실적 걱정이 사라지는 순간이었다.
+```
+
+## Final English reading copy
+
+```markdown
+# Chapter 93
+
+*What a bunch of amateurs.*
+
+Hong Woojin was furious enough to burst. If he had entered the cat’s body like last time, he would have puffed up its fur and hissed.
+
+But right now, he was a rice weevil smaller than a fingernail. The most he could do to express his anger was hide in the gap beneath the refrigerator and wriggle.
+
+Bzzzzzz.
+
+*That bastard’s coming in again.*
+
+The target of his anger was the fly that kept entering the house.
+
+Woojin did not know who was behind them, but whoever it was seemed to think they were being careful by sneaking the flies in one at a time. Instead, they were only putting Jin Taekyung further on guard.
+
+“Ugh, these damn flies.”
+
+Whoosh. Smack!
+
+A predictable end. Hong Woojin grew anxious, worried that Jin Taekyung might notice him.
+
+*Bastards like that have no professional courtesy, and they’re stupid on top of it.*
+
+Most Hunters would never have noticed, but he recognized it immediately.
+
+That fly was a Familiar being controlled by a mage. The proof was the incredibly faint mana that only another mage could sense.
+
+*Who hired the bastard? Sangdong Guild, after all?*
+
+If that was the case, he would have to quit this assignment right away. He was a professional with immense pride in his abilities.
+
+He could not tolerate an intruder interfering with his sacred workspace.
+
+*I told them over and over…*
+
+No matter how well you handled a job, there were times when a single loach released by an impatient client muddied the water. Just like now.
+
+“Are all flies like that these days?”
+
+“Th-They could be, couldn’t they? Anyway, give me the hundred thousand won.”
+
+“I will. I’ll give it to you, but… don’t you think that fly’s a little strange?”
+
+Damn it. He knew this would happen.
+
+Swallowing his curses, Hong Woojin hurriedly moved his body. He was wriggling deeper into a place no human eyes could reach when—
+
+A jolt.
+
+*…Huh?*
+
+He was seized by a strange sensation, as if his body had suddenly floated into the air. It had never happened once since he began using Familiar magic.
+
+*Is it because this Familiar is too small?*
+
+The sensation lasted only an instant, but Hong Woojin could not shake off his unease. For a moment, he wondered whether it had been some kind of detection spell, but he soon shook his head.
+
+*It definitely wasn’t magic.*
+
+That was not merely because Jin Taekyung was a non-mage Hunter. After all, this was a world where anyone could obtain magical equipment if they had enough money.
+
+But mages recognized their own kind. As a B-rank mage, there was no way he could fail to distinguish a detection spell.
+
+*The connection must have weakened for a moment. Yes. That has to be it.*
+
+The decisive reason he convinced himself it had been a simple illusion was Jin Taekyung’s reaction.
+
+“Maybe its wing’s injured. This fly’s looking pretty weak.”
+
+Smack!
+
+With a crisp sound, Jin Taekyung returned to the living room and sprawled out on the sofa. He chuckled at a variety show for a while, but soon the house was filled with loud snoring instead of laughter.
+
+Grrrrr. Grrrrr.
+
+Only then did Hong Woojin relax.
+
+*Of course. What could a C-rank Hunter who was an F-rank until recently possibly know? What happened two days ago must have been a complete coincidence, too.*
+
+The incident from two days ago still lingered in the back of his mind. He had been watching Jin Taekyung through a cat Familiar and had been startled by what happened. For some reason, it had continued to bother him ever since. Now, at last, he felt he could breathe a little easier.
+
+*If he can’t even recognize a shoddy Familiar like this, then that says it all.*
+
+There was only one problem: the lazy bastard had no intention of moving at all…
+
+*I’ll have to monitor him a little more boldly from now on.*
+
+Hong Woojin had chosen a rice weevil from among all the living creatures in the world because he had retained a sliver of caution toward Jin Taekyung.
+
+But now, it seemed safe to leave the body of this tiny, painfully slow insect.
+
+*Let’s meet in a different form tomorrow, Jin Taekyung.*
+
+Pop.
+
+Hong Woojin severed the Link. The creature hiding beneath the refrigerator was no longer a Familiar. It was nothing more than a small, fragile rice weevil.
+
+And then—
+
+Grrrrr…
+
+Jin Taekyung’s snoring gradually faded before stopping altogether.
+
+* * *
+
+A faint presence disappeared. I could sense the change only because I was using every one of my senses.
+
+*Did he leave?*
+
+I opened my eyes while pretending to stretch. The first place I looked was the gap beneath the refrigerator.
+
+> **System**
+>
+> Lv. 1 Rice Weevil
+
+Only ten minutes ago, its Level window had carried the tag “Familiar.” Not anymore—not with the Link severed.
+
+“Yaaawn. Is there anything to eat…?”
+
+I got up from the sofa and casually walked around the house. Only then could I be certain.
+
+*There aren’t any Familiars left.*
+
+The only things caught by my Qi Sense were a few ordinary flying insects. There was no Familiar anywhere.
+
+The buzzing of wings that had continued without pause had stopped, too.
+
+They had probably gotten spooked by what just happened, so at least they would not show their faces for the rest of the day.
+
+*Damn it. A Familiar?*
+
+Familiar magic.
+
+It was a kind of mental magic used by mages. The caster formed a mental connection with the creature chosen as a Familiar and, depending on the caster’s skill, could even control it at will.
+
+*That was my first time experiencing it firsthand.*
+
+A melee Hunter was not automatically a master of every weapon, and mages were the same. Mental magic, in particular, was said to be among the more difficult branches.
+
+*Why would people like that come after me?*
+
+The reason I thought of them as “people” rather than “someone” was that there had been two Familiars. The two could have been working together, or they might not have been.
+
+Still, I had a rough idea of who had sent them.
+
+*Who else could it be but Sangdong Guild?*
+
+The only place I had formed some kind of grudge against in the real world was Sangdong Guild. More precisely, Im Changsoo.
+
+*When you mess with someone’s child, the father comes running.*
+
+Im Chunsoo, the A-rank Hunter known for being cold-blooded and foul-tempered.
+
+If what happened today was his order, this would not end easily.
+
+But…
+
+*I can’t just sit back and take it.*
+
+I could let the fact that they had followed me two days ago go. I could tolerate that.
+
+But I could not tolerate what happened today. This was my home, the place where my beloved family lived. They had touched my one inviolable boundary.
+
+*How should I screw these bastards over…?*
+
+I was thinking about it when Hayeon’s bedroom door flew open.
+
+Her face was stiff. Had they used a Familiar to pull something behind my back? My thoughts grew frantic.
+
+“Oppa.”
+
+“What is it? What happened? Is there something strange in your room?”
+
+“No, it’s not that.”
+
+“Then what is it?”
+
+“Why haven’t you given me the hundred thousand won?”
+
+“…”
+
+Right. I had been underestimating you far too much.
+
+* * *
+
+The next morning, I left the house as soon as dawn broke.
+
+My eyes felt gritty from staying alert all night in preparation for another Familiar’s intrusion with Qi Sense, but I shook off the fatigue by circulating my qi.
+
+“Where should I take you?”
+
+“Ilsan Lafesta, please.”
+
+The taxi sped along the wide-open roads without a hitch, reaching the destination much faster than I had expected.
+
+*Is this my first time coming to the Store since I visited once a few years ago?*
+
+The Store, located in the center of Ilsan, stood out clearly even from a distance. For one thing, it was overwhelmingly larger and more splendid than the shops around it.
+
+There was another thing that set it apart from ordinary stores. At the entrance, guards in suits were screening the customers.
+
+“Sir, we’re adults, I’m telling you!”
+
+“No.”
+
+“We’re adults, so why aren’t we allowed inside?”
+
+“Because the fingerprint scanner says you’re not adults.”
+
+“Isn’t it defective?”
+
+“No.”
+
+“Ah, shit, just let us in!”
+
+“‘Shit’?”
+
+Five or six teenagers who looked obviously young flinched and took a step back.
+
+“…What?”
+
+“Is that any way to treat customers?”
+
+“Customers? Ha. You little shits, seriously.”
+
+The guard rubbed the corners of his eyes with a weary expression. He was not an ordinary adult man but a hired guard Hunter. Even if a whole crowd of professional fighters came instead of five or six minors, they would not be able to force their way in.
+
+“Customers to me are Hunters or civilian adults who’ve been issued membership cards. Not high school punks like you.”
+
+“…”
+
+“Are you leaving while I’m asking nicely, or should I call the police?”
+
+People like that existed everywhere. Especially in a Store filled with all kinds of goods ordinary people could never access.
+
+“…Hey, hey. Let’s go.”
+
+Only after the kids loitering in front had left did the guard notice me. He addressed me politely.
+
+“What brings you here?”
+
+“I’d like to purchase something.”
+
+“Please present your membership card or Hunter certification.”
+
+“Here.”
+
+“I’ll need to complete the verification process.”
+
+Only after my certification had been checked and my fingerprints scanned was I given an admission pass.
+
+“As a C-rank Hunter, you may access up to the third floor.”
+
+The items stocked on each floor of the Store were different. I had visited once when I was an F-rank Hunter, but the second floor had been the highest I could access at the time. I had never even gotten to look around above it.
+
+“Have a pleasant time.”
+
+“Thank you. Have a good one.”
+
+Once I passed through the doors, I saw endless rows of glass display cases.
+
+The space was incomparably larger than an ordinary shop. Yet there were only a handful of customers in sight.
+
+*Well, it would be strange if this place were crowded.*
+
+The people who could use this place were an extremely small minority: Hunters, who made up only 0.1 percent of Korea’s total population, and civilians with enough social influence to be issued membership cards.
+
+They were the Store’s main customers.
+
+“This item was manufactured by domestic S Company and has a built-in alarm spell, making it useful for security…”
+
+“This brooch was made by overseas M Company. With its beautiful, tasteful design and built-in shield spell, it’s perfect for your wife’s personal protection…”
+
+The employees were busy explaining their products to customers.
+
+That was right. The Store was a kind of luxury department store where people could buy expensive magical goods that were difficult to obtain through ordinary channels.
+
+“Then I’ll take that one and this one. Bring me that, too.”
+
+“Don’t you have anything with better performance? Don’t worry about the price. Bring me some options.”
+
+There might not have been many customers, but their purchasing power was unmatched.
+
+I was staring blankly at people buying goods that cost at least several million won when a pretty female employee approached and bowed.
+
+“Hello. I’m Assistant Manager Kim Seonhee from the Ilsan Store. I’ll be assisting you today.”
+
+“Ah, yes.”
+
+She had treated me politely the last time I visited, too, but not to this extent.
+
+Now that I was a C-rank Hunter, the customer service was considerably more lavish.
+
+“Is there a particular product you’re looking for?”
+
+“I’d like to buy some raid equipment.”
+
+The employee’s expression brightened. The Store carried countless magical goods, but Hunter equipment was among the most expensive of them all.
+
+And I was a C-rank Hunter. Even a mid-level Hunter could spend hundreds of millions of won on a single piece of equipment.
+
+Naturally, a sales employee would be delighted at the thought of adding that kind of sale to her record.
+
+“I’ll show you to the third floor.”
+
+As she turned toward the escalators, I spoke.
+
+“No, please take me to the second floor.”
+
+“Pardon? But to purchase C-rank Hunter equipment, you’ll need to go to the third floor…”
+
+“It’s fine. I’m looking for weapons for low-rank Hunters.”
+
+I pretended not to notice her expression darkening and stepped onto the escalator first.
+
+*I wonder if they have anything useful for killing rats.*
+
+The time had come to fill my Inventory.
+
+* * *
+
+“It’s fine. I’m looking for weapons for low-rank Hunters.”
+
+Assistant Manager Kim Seonhee secretly sighed at the customer’s words. As someone who was unusually concerned with her sales numbers, this was far from welcome news.
+
+*I need a good sales record this month if I want to get promoted.*
+
+The colleague who had joined the company at the same time as her, but worked at the Seoul branch, was already a Team Leader. Whether it was because of luck or business savvy, every customer she encountered was apparently a big spender.
+
+Compared to her…
+
+“This one looks good.”
+
+“Ah, yes. This product was manufactured using an F-rank Magic Gem…”
+
+Kim Seonhee quickly pulled herself together and began her explanation. The customer had picked up a dagger with a black-painted blade.
+
+Compared to the other weapons, it was nothing special. It did not even have magic embedded in it. It was just an ordinary consumable.
+
+“How much is it?”
+
+“It’s currently on sale as part of our summer promotion, so we’re offering it at the reasonable price of 520,000 won.”
+
+“Hmm. That’s expensive.”
+
+“…”
+
+What was the annual salary of a C-rank Hunter again? Didn’t their basic allowances alone amount to several hundred million won? Kim Seonhee found it ridiculous, but silently waited for the customer to make his choice.
+
+“Ah, well, I guess it can’t be helped. I’ll buy it. Give me one.”
+
+“…Yes.”
+
+The look on his face, as if parting with the money were killing him, was utterly obnoxious. Kim Seonhee was silently cursing him to herself as she picked up the dagger when—
+
+“No. Not that one.”
+
+“Excuse me?”
+
+“The one next to it.”
+
+Her gaze shifted to the side. One hundred daggers were neatly arranged inside a storage box.
+
+“They’re the same product, sir.”
+
+“I know. Give me one of those.”
+
+“…Are you referring to that storage box?”
+
+“Yes. Give me one box of those. And one box of that, too. And that one…”
+
+That was the moment Assistant Manager Kim Seonhee’s worries about her sales numbers disappeared.
+```
