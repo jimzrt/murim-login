@@ -90,6 +90,7 @@ const manifestHref = withBase("manifest.webmanifest");
               --pf-outline-focus: var(--accent);
               --pf-font: var(--ui);
               --pf-modal-backdrop: color-mix(in srgb, #0b1220 58%, transparent);
+              z-index: 80;
             }
             html[data-theme="dark"] pagefind-modal,
             html[data-theme="dark"] pagefind-searchbox {
@@ -113,9 +114,11 @@ const manifestHref = withBase("manifest.webmanifest");
     {
       import.meta.env.PROD && (
         <>
-          <pagefind-config bundle-path={withBase("pagefind/")} base-url={base} />
-          <pagefind-modal />
-          <script is:inline src={withBase("pagefind/pagefind-component-ui.js")} type="module" />
+          <div transition:persist="pagefind">
+            <pagefind-config bundle-path={withBase("pagefind/")} base-url={base} />
+            <pagefind-modal />
+            <script is:inline src={withBase("pagefind/pagefind-component-ui.js")} type="module" />
+          </div>
         </>
       )
     }
