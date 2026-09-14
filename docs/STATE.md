@@ -1,17 +1,17 @@
 # Translation State
 
-- Last completed: 80
-- Next chapter: 81
-- Current block: 80–84 (1/5)
-- Latest translation: `translations/0080.md`
-- Latest summary: `summaries/beats/0080.md`
-- Safe profiles through: chapter 80
+- Last completed: 81
+- Next chapter: 82
+- Current block: 80–84 (2/5)
+- Latest translation: `translations/0081.md`
+- Latest summary: `summaries/beats/0081.md`
+- Safe profiles through: chapter 81
 
 ## Current Block
 
-- During a safety-inspection period imposed after a fatal Gate accident, a young armored party leader bribes the Gate Management Office official to admit his ten-person team and five additional Peace Guild members into the B-rank Gate The Minotaur's Labyrinth. The Peace Guild therefore joins Sangdong Guild's waiting party for its first official raid.
-- Sangdong Guild's team leader, Level 65 Im Changsoo, introduces himself and recognizes Peace Guild. Team Leader Choi notices that Im Changsoo is wearing difficult-to-obtain limited-edition equipment. Choi then lends the Peace Guild high-end gear, including Taekyung's Peak-grade Masterwork Black Drake Leather Set, which grants Strength, Stamina, Agility, and Toughness +10 with its full-set effect active, and the Peak-grade Masterwork Black Thorn Spear, which has a 90% chance to inflict Bleeding on a hit.
-- Im Kkeokjeong is equipped with gear that feels light and improves his speed. Butler Kim reveals a Magic Gem necklace and patterned bracelets as his artifact equipment instead of carrying a staff. Song Song appears in light leather armor, and Taekyung becomes uneasy when Im Changsoo seems interested in her; Taekyung also feels that Im Changsoo's face or name is strangely familiar despite believing they have never met.
+- Sangdong Guild and Peace Guild assembled a fifteen-person cooperative raid team for The Minotaur's Labyrinth, including seven B-rank Hunters. The Gate official initially objected to Im Kkeokjeong's participation as an E-rank tank because two C-rank tanks had died there the previous week, but Im Changsoo persuaded him to allow the raid.
+- After entering The Minotaur's Labyrinth, Jin Taekyung received the B-rank Gate Clear Quest. It was restricted to him, classified as First Rate, and promised an unknown corresponding Reward for the first successful completion; the failure condition and Reward remained undisclosed.
+- Im Changsoo approached Taekyung to inspect the loaned Black Drake equipment, then concluded that Peace Guild was insignificant. He is interested in Song Song and believes his money and ability will let him take her for himself.
 
 ## Open Questions
 
@@ -22,7 +22,7 @@
 - The nature of the minor misunderstanding that injured Childeuk remains undisclosed.
 - Taekyung's prior relationship with Lee Seowol and the missing details of his memories about her remain unclear.
 - Butler Kim's former Hunter rank and background remain unclear, and it is unclear whether Song Song heard Taekyung's interrupted confession.
-- The reason Im Changsoo seems familiar to Taekyung, whether he is interested in Song Song, and what will happen in the first Peace Guild raid remain unresolved.
+- The reason Im Changsoo seems familiar to Taekyung, whether he can act on his interest in Song Song, and what will happen in The Minotaur's Labyrinth remain unresolved.
 
 ## Exceptional Decision
 
@@ -33,7 +33,7 @@
 - Use Return for 귀환, Returnee for 귀환자, Ren and Du meridians for 임독양맥, Heart Demon for 심마, Paralysis Acupoint for 마혈, and Mute Acupoint for 아혈.
 - Render fist-and-kicking technique as 권각술, recognition as 인정, Falling Flow Sword as 낙류검, Twelve Gale Fists as 질풍십이권, Flame Divine Palm as 화염신장, and Tendon-Splitting and Bone-Twisting as 분근착골.
 - Use Reformation Fist, Toughness, Heavenly Martial Physique, Jang Childeuk, Martial Artist Jang, benevolence/righteousness/propriety/wisdom, killed by a tiger, fifteen minutes, lifelong single, Let's eat noodles, Squad Leader, Third Young Master, Designer-Brand Junkie, Qi Sense, Peace Guild, Essence of the Himalayas, Sooni's Super, Song Song, Miss Song, Taurus, Ares Guild, Senior, Young Master, Guild Master, Minotaur, Bucheon Terminal Guild, and The Minotaur's Labyrinth as established.
-- Use Sangdong Guild, Hunter Association, Black Drake, Masterwork Black Drake Leather Set, Masterwork Black Thorn Spear, Bleeding, artifact, and gear advantage for the new chapter terminology.
+- Use Sangdong Guild, Hunter Association, Black Drake, Masterwork Black Drake Leather Set, Masterwork Black Thorn Spear, Bleeding, artifact, gear advantage, Hye-rin, and Cheongdam-dong as established terminology.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
