@@ -1,16 +1,18 @@
 # Translation State
 
-- Last completed: 380
-- Next chapter: 381
-- Current block: 380–384 (1/5)
-- Latest translation: `translations/0380.md`
-- Latest summary: `summaries/beats/0380.md`
-- Safe profiles through: chapter 380
+- Last completed: 381
+- Next chapter: 382
+- Current block: 380–384 (2/5)
+- Latest translation: `translations/0381.md`
+- Latest summary: `summaries/beats/0381.md`
+- Safe profiles through: chapter 381
 
 ## Current Block
 
-- Shao Shen and the Public Security Armed Forces are nearly crushed when a burning airplane tears through the rear half of the monster army. The plane stops just short of Shao Shen, revealing Jin Taekyung and Team Leader Choi; Choi's barrier magic saves the occupants, who are unconscious. Shao recognizes Taekyung as the Korean Hunter known as Sibeol-jwa.
-- Taekyung receives the Unexpected Assault Quest and joins the defense of Chengdu International Airport. He kills large numbers of monsters with Scorching Yang Qi, White Flame, Flame Divine Palm, and Flame-Annihilating Divine Fist, confirming that roughly half of the nearly two-thousand-strong monster army consists of undead. The Skeleton Warlord judges that the undead are being controlled by someone other than the Lich, whose control is probably weaker than the Skeleton Warlord's. When the Skeleton Warlord chants, “Grow, grow, skeletons, skeletons…,” the undead abruptly stop moving.
+- The Skeleton Warlord successfully seizes control of nearby undead monsters, causing them to stop fighting and then attack their former allies. The controlled force expands to roughly two hundred undead, while Shao Shen orders the Chinese Hunters to launch an all-out attack against the remaining monsters.
+- Team Leader Choi kills a griffin with his auction-bought transparent longsword. The Skeleton Warlord continues resurrecting fallen monsters, and Taekyung advances through the battlefield using Flamefire Path while planning to create an even larger undead legion by killing the remaining monsters.
+- Three beings in dead mage bodies reveal that they were once great necromancers and are still undergoing transformation into Liches. Their superior, the Arch Lich, ordered them to kill humans and create more undead. They combine their power, kill People's Liberation Army soldiers to strengthen the monster army, and attempt to deploy increasingly powerful undead units, including Dullahans and a planned Death Knight.
+- Taekyung's rapid advance destroys the undead units sent against him and reaches the three beings before they can complete their preparations. He greets them mockingly while they hurriedly chant their pseudo-incantations.
 
 ## Open Questions
 
@@ -25,8 +27,10 @@
 - Whether the Sichuan Governor submits the false memorial and what consequences follow remain unresolved.
 - The Lich's exact role in the Chengdu attack and the extent of its reach remain unresolved; the Skeleton Warlord believes the Lich did not personally lead this attack.
 - Whether Taekyung's private jet explodes or can be recovered remains unresolved.
-- The identity of the beings controlling the undead army remains unresolved.
-- Whether the Skeleton Warlord's control over the undead persists and what effect it will have on the battle remains unresolved.
+- Whether the Arch Lich is the same entity as the previously referenced Lich remains unresolved.
+- The individual identities of the three former necromancers controlling the undead remain unresolved.
+- The outcome of the confrontation between Taekyung and the three beings remains unresolved.
+- Whether the Skeleton Warlord's expanded control over the undead persists and what effect it will have on the battle remains unresolved.
 - The outcome of the Unexpected Assault Quest and the ongoing battle at Chengdu International Airport remain unresolved.
 
 ## Exceptional Decision
@@ -51,6 +55,9 @@
 - Render 샤오 쉔 as Shao Shen, 야오위 as Yao Wei, and 류인친 as Ryu Inchin.
 - Render 공안 무력부 as Public Security Armed Forces, 인민 해방군 as People's Liberation Army, 중화인민공화국 as People's Republic of China, 중화 as Zhonghua, 오성홍기 as Five-Star Red Flag, and 듀라한 as Dullahan.
 - Render 시벌좌 as Sibeol-jwa, 중앙 군사 위원회 as Central Military Commission, 화염신장 as Flame Divine Palm, and 멸염신권 as Flame-Annihilating Divine Fist.
+- Render 염화일로 as Flamefire Path, 아크 리치 as Arch Lich, 데스나이트 as Death Knight, and 스켈레톤 메이지 as Skeleton Mage.
+- Render 의념 as exchanged thoughts and 사기 as death energy in the three beings' viewpoint scene.
+- Preserve the pseudo-incantation wordplay for the names of Valencia, Madrid, Bayern Munich, and Stoke City, and for annyeonghaseyo and Yeonye-ga Junggye.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

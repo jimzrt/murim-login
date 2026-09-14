@@ -1,0 +1,619 @@
+{
+  "chapter": 381,
+  "decisions": [
+    {
+      "decision": "BASE",
+      "hunk_id": "H001",
+      "reason": "SOL drops the 아니 self-correction and 인벤토리라는 아공간 (“subspace called inventory”), flattening source and narrator voice."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H002",
+      "reason": "“Was instantaneous” is a tighter natural recast of 순식간에 일어났다."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H003",
+      "reason": "SOL drops 흉포하기 그지없던 (“utterly savage”) and weakens the intensity."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H004",
+      "reason": "“Just one” preserves 단 하나; SOL’s “all had one” is generic."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H005",
+      "reason": "Attaches the muttered line to the speech tag; “It actually worked” is the natural English for 이게 되네."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H006",
+      "reason": "Standalone quote is absorbed into the H005 speech tag."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H007",
+      "reason": "Warlord echo matches Jin’s “worked”; still faithful to 이게 진짜 되네."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H008",
+      "reason": "Narration moves onto the whispered line rather than hanging on a colon."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H009",
+      "reason": "Keeps 뇌정지/속삭였다 and attaches the quote in one beat."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H010",
+      "reason": "“Even this commander” captures 도, which BASE omits."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H011",
+      "reason": "홧김에 is a fit of anger, not merely “because I was angry.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H012",
+      "reason": "Pride as the blocking agent matches 자존심이 상해서 better than “too proud.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H013",
+      "reason": "The when-clause preserves the 멈추자 cause of the lull."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H014",
+      "reason": "SOL deletes the 모, stammer."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H015",
+      "reason": "Battlefield panic suits 도대체 무슨 상황 better than “what on earth.”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H016",
+      "reason": "외침대로 is “as the shout said,” not temporal “just as.”"
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H017",
+      "reason": "예외 is “the exception”; BASE is stiff, SOL’s “unaffected” changes the framing.",
+      "replacement": "The Skeleton Warlord had only taken control of some of the nearby undead monsters. Those farther away, as well as the ordinary monsters that were not undead, were the exception."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H018",
+      "reason": "Clang-clang-clang / thunk thunk matches 카가가강 and 푸푹; BASE under-counts the SFX."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H019",
+      "reason": "Keeps bewilderment, rampage, and 다시금 전투가 시작되었다 in one causal flow."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H020",
+      "reason": "Separate “The battle resumed.” is already in the H019 sentence."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H021",
+      "reason": "Cleaner English for incomparable numbers and 달라질 것이다 without the calque."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H022",
+      "reason": "Need both 발끈한 and 외쳤다; BASE lacks flare, SOL drops the shout.",
+      "replacement": "Warlordmon—no, the Skeleton Warlord—flared up and shouted."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H023",
+      "reason": "Mocking title-name matches the rename joke; 소멸 is annihilation, not “disappear.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H024",
+      "reason": "“Before chanting” trims redundant “beginning to” without losing 외운다."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H025",
+      "reason": "별 우습지도 않은 is “wasn’t even funny,” not “absurdly stupid.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H026",
+      "reason": "Natural subject-verb order for 눈동자에 흉포함이 서린다."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H027",
+      "reason": "다음 순간 as “moment” equals “instant”; no gain."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H028",
+      "reason": "“Charged at” is the idiomatic verb for 달려들었다."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H029",
+      "reason": "Both drop 아군의 기습; the ambush is by former allies.",
+      "replacement": "It was an unexpected ambush from behind by their own allies."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H030",
+      "reason": "Contraction fits Jin’s narration; meaning unchanged."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H031",
+      "reason": "선두에서 and 종횡무진 modify Shao Shen at the front, not Jin’s shout location."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H032",
+      "reason": "진 선생님 is Teacher Jin; stammer is on 진, not “Mr.”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H033",
+      "reason": "동그래진 is already-widened eyes; SOL makes the widening simultaneous."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H034",
+      "reason": "Narrator contraction; no meaning change."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H035",
+      "reason": "적극 공세로 전환 is switching to an all-out attack; SOL weakens it to “taking the offensive.”"
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H036",
+      "reason": "아 is a flustered “Ah,” not a stammer on “No.”",
+      "replacement": "“Ah, no, sir!”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H037",
+      "reason": "Keeps 이제 and the open 해야 될까; SOL drops “now” and forces “you.”"
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H038",
+      "reason": "정신이 번쩍 든 is “snapped back”; 치켜들었다 is raise, not thrust.",
+      "replacement": "Shao Shen snapped back to his senses and raised his spear high."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H039",
+      "reason": "SOL’s military diction is better, but 지금부터 must stay.",
+      "replacement": "“Attack formation! All Public Security Armed Forces personnel, attack everything except the undead monsters from this moment on!”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H040",
+      "reason": "훌륭한 판단의 표본 is a specimen of excellent judgment; SOL flattens 표본."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H041",
+      "reason": "하나가 된 and 바뀌었다 are “one unified shout” and “changed,” not “transformed.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H042",
+      "reason": "목을 잘라낸 is severed; “charged at” matches 달려드는."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H043",
+      "reason": "Source is 놈/아가리, not 몬스터; “maw” is the right register."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H044",
+      "reason": "날카로운 괴성 as “shrieked” is tighter without adding “just.”"
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H045",
+      "reason": "Both omit 감전된.",
+      "replacement": "The electrocuted griffin convulsed in midair after being struck by the spells of the ranged Hunters waiting nearby."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H046",
+      "reason": "밟고 솟구친 is stepping on the troll as a launch; SOL’s “stepped off” is the wrong action."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H047",
+      "reason": "Indefinite “a strike” fits this ordinary 일격."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H048",
+      "reason": "SOL’s tighter blade clause, but 흡족하게 is “with satisfaction,” not “in.”",
+      "replacement": "Team Leader Choi landed gracefully and gazed at the transparent blade, not a single drop of blood staining it. He smiled with satisfaction."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H049",
+      "reason": "Natural English order for 경매가 52억에 낙찰받은."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H050",
+      "reason": "“Asked dubiously” is cleaner than the which-clause voice tag."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H051",
+      "reason": "“Did you say” is the natural confirmatory 했나."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H052",
+      "reason": "길드 내부 직책상으로 is internal Guild positions; SOL adds “our” and dilutes 내부."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H053",
+      "reason": "Need the 는데 contrast; 상관답다 is befitting, not “deserves.”",
+      "replacement": "- He looked fairly intelligent for a human, yet what a bizarre human he is. He truly suits you as a superior."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H054",
+      "reason": "Narrative past for the proverb; 알아서 잘한다 is doing it well, not merely knowing.",
+      "replacement": "After three years at a village school, even a dog could recite poetry. By now, he did it well without being told."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H055",
+      "reason": "얻으며 is gained, not granted; 죽은 육신을 일으켜 세운다 is hauling dead bodies up."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H056",
+      "reason": "Need both 도 (“also”) and 더욱 (“even wider”).",
+      "replacement": "The range also seemed to have grown even wider compared to his first attempt. Even the undead monsters far away had come under the Skeleton Warlord’s control and begun attacking their former allies."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H057",
+      "reason": "Echo of Jin’s casual 였나 is “really,” not “truly.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H058",
+      "reason": "이곳에 오니 is mana surging in him now that he is here, not “through this place.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H059",
+      "reason": "“Gave up trying” drops needless “on.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H060",
+      "reason": "결과만 좋으면 됐지 is that only the result mattered."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H061",
+      "reason": "많은, 더 많은 is the stacked “More! More!” greed, not a second “larger.”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H062",
+      "reason": "Keeps the 터라 because-clause and the redundant 뼈 밖에 안 남은 두개골 joke."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H063",
+      "reason": "죽이면 돼 is “you just have to kill,” not a “we kill” declaration."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H064",
+      "reason": "크하하하 keeps the 크; generic Haha loses the texture."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H065",
+      "reason": "건방진 녀석 is the two-word jab; BASE adds “What an.”"
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H066",
+      "reason": "발걸음을 따라 is along the footsteps, not beneath feet.",
+      "replacement": "A path of flame opened along my footsteps."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H067",
+      "reason": "주렁주렁 is dangling clusters; plural staffs fits the three beings."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H068",
+      "reason": "그곳 is places; 아직 썩지 않은 needs “not yet,” not “unrotted.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H069",
+      "reason": "문제가 생겼군 is spoken “We have a problem,” not “has arisen.”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H070",
+      "reason": "벗어나고 as “breaking free” equals “escaping”; no improvement."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H071",
+      "reason": "우열 is hierarchy; 철저한 힘의 지배 is absolute rule by strength."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H072",
+      "reason": "Keeps 지금처럼 and 필시; SOL drops the “as now” frame."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H073",
+      "reason": "어찌 is how it could steal control to help humans, not why it would."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H074",
+      "reason": "Tighter join of recalling the order and 작은 혼란."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H075",
+      "reason": "“Then who” unsnarls the Him—who garden path."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H076",
+      "reason": "그럴 리 없어 is “it cannot be”; 혐오 as despise is apt."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H077",
+      "reason": "Preserves 까닭은…때문 and 한 몸에 받았던 as borne weight; SOL’s “suffused” is extra."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H078",
+      "reason": "아득한 과거 is the distant past; BASE over-intensifies."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H079",
+      "reason": "힘을 얻어 is they gained power; SOL makes Him the grantor and weakens 발돋움하려 하고 있었다."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H080",
+      "reason": "끝났더라면 is a completed-past counterfactual."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H081",
+      "reason": "역시/없었겠지 is “would not…either,” not “never.”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H082",
+      "reason": "몸을 빌려 is borrowing bodies; SOL drops 빌려."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H083",
+      "reason": "우리 셋을 is the three of us, not “all three.”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H084",
+      "reason": "이 일이 실패 is if this fails, not if we fail."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H085",
+      "reason": "어떻게든 is somehow; “at any cost” overstates and duplicates the power-cost clause."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H086",
+      "reason": "Dropping “that” is cleaner spoken English."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H087",
+      "reason": "“Wrest” is the sharper verb for 빼앗을."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H088",
+      "reason": "Relative clause plus “finally” reads cleaner than “had been…but at last.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H089",
+      "reason": "Finite “flowed…and spread” is cleaner than the participial pile."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H090",
+      "reason": "Split beats match grass blackening then soldiers falling."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H091",
+      "reason": "숨이 끊긴 is already dead with the death cry, not “as they died.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H092",
+      "reason": "실린 is carried; “that of ordinary monsters” is grammatical."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H093",
+      "reason": "“Their strengthened control” names whose 강화된 통제력."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H094",
+      "reason": "Both drop 웃던; 강력해진 is strengthened, not “empowered.”",
+      "replacement": "The three beings were smiling with satisfaction at their strengthened legion when—"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H095",
+      "reason": "“Went flying” is the idiomatic 사지가 날아올랐다."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H096",
+      "reason": "대거 투입 is a large number, not necessarily all Skeleton Mages."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H097",
+      "reason": "다시금 is “once again.”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H098",
+      "reason": "방금. 뭐였지? is two clipped beats, not one ellipsis line."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H099",
+      "reason": "끊겼다 as “severed” and “our control” are precise."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H100",
+      "reason": "소멸시켰다고? is an echo, not a “Did it…?” question."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H101",
+      "reason": "움직임이 너무 빠른 is “movements too fast”; SOL’s “moving too quickly” is stiffer."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H102",
+      "reason": "투입 시키자 is “Let’s,” not formal “Let us.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H103",
+      "reason": "듀라한까지 is “Dullahans as well,” not “More Dullahans.”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H104",
+      "reason": "과해 is “are excessive,” not hypothetical “would be.”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H105",
+      "reason": "심각한 공기 is a grim atmosphere; “grim air” is weaker English."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H106",
+      "reason": "Same 끊겼다 as H099; keep “severed.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H107",
+      "reason": "그러게 보내자니까 is “I told you we should.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H108",
+      "reason": "저거 is “that thing.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H109",
+      "reason": "“The Dullahans” points at their known escort."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H110",
+      "reason": "Need 우르르 rush, 호위부대로 삼은, 슬그머니, and 합의점을 찾기; SOL’s “edging toward” is interpretive.",
+      "replacement": "Watching the twenty or so Dullahans they had selected as an escort troop rush off as a group, the three beings furtively began searching for another point of agreement."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H111",
+      "reason": "데스나이트까지 is “a Death Knight too?”; SOL invents “you want to create” and hardens 텐데 to “will.”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H112",
+      "reason": "가장 쓸 만한 놈 is the most useful one; SOL’s “best available candidate” and “rush the process” over-specify."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H113",
+      "reason": "Need 산산조각 and 채 십 분도 (“even”).",
+      "replacement": "But the three beings’ plan to create a Death Knight was shattered into pieces before even ten minutes had passed."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H114",
+      "reason": "뼈밖에 남지 않은 is nothing but bones; 초고온의 열기 is scorching heat, not added flames.",
+      "replacement": "Even their bodies made of nothing but bones could feel the scorching heat."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H115",
+      "reason": "시벌 놈들 is a vocative; SOL’s “Fucking hell” changes the target.",
+      "replacement": "“Fucking bastards. There are a shitload of them.”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H116",
+      "reason": "목격한 존재 is the definite figure they see, not “a figure.”"
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H117",
+      "reason": "랩처럼 빨라져 is speed; BASE adds “lyrics,” SOL makes it sound-like.",
+      "replacement": "Their slow voices had become as fast as rap."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H118",
+      "reason": "주문이 완성되기도 전에 and 분간이 되지 않는 are about the spell completing and indistinguishable identity."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H119",
+      "reason": "“The incantations” is enough; “two” is redundant in the note."
+    }
+  ],
+  "version": 1
+}

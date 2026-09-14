@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The Chinese Hunters had only just begun to stare in confusion at the sudden change among the monsters when the uncontrolled monsters started rampaging again.",
+      "defect": "The draft makes the Chinese Hunters the ones initially bewildered, but the source says the uncontrolled monsters are briefly confused by the change in their own kind.",
+      "id": "F01",
+      "rationale": "The omitted subject of 어리둥절하던 is resolved by the explicit subject 통제가 되지 않는 몬스터들이 later in the same sentence.",
+      "replacement": "The uncontrolled monsters were bewildered for only a moment by the sudden change in their own kind before they began rampaging again.",
+      "severity": "critical",
+      "source": "갑작스러운 동족의 변화에 어리둥절하던 것도 잠시, 통제가 되지 않는 몬스터들이 재차 날뛰기 시작하자 다시금 전투가 시작되었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Teacher Jin?”",
+      "defect": "The draft omits Shao Shen's startled stammer.",
+      "id": "F02",
+      "rationale": "The repeated initial syllable 지, 진 conveys his surprise and hesitation.",
+      "replacement": "“T-Teacher Jin?”",
+      "severity": "minor",
+      "source": "「지, 진 선생님?」"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Skeleton Warlord, do you want to disappear because you ran your mouth?”",
+      "defect": "The direct question preserves the threat but drops the mock show-of-hands construction that supplies the joke.",
+      "id": "F03",
+      "rationale": "손? elliptically asks for a raised hand, making Taekyung's threat deliberately absurd.",
+      "replacement": "“Raise your hand if you’re a Skeleton Warlord who wants to be annihilated for running his mouth.”",
+      "severity": "minor",
+      "source": "“혓바닥 잘못 놀려서 소멸하고 싶은 스켈레톤 워로드 손?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "- Grow, grow, skeletons, skeletons!",
+      "defect": "The draft doubles both words and pluralizes the noun, altering the chant's deliberate pattern.",
+      "id": "F04",
+      "rationale": "Only 해골 is repeated in the source; 자라나라 appears once and parallels the earlier 해골해골 joke.",
+      "replacement": "- Grow, skeleton skeleton!",
+      "severity": "minor",
+      "source": "- 자라나라, 해골해골!"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The griffin killed by Team Leader Choi, along with the monsters brought down by the combined attacks of the Hunters and the undead, gained new life and rose from their dead bodies.",
+      "defect": "“Rose from their dead bodies” suggests the revived beings emerged from or separated from their corpses. The source says their dead bodies themselves stood back up.",
+      "id": "F05",
+      "rationale": "죽은 육신을 일으켜 세운다 explicitly describes reanimating and raising the corpses, not rising out of them.",
+      "replacement": "The griffin killed by Team Leader Choi, along with the monsters brought down by the combined attacks of the Hunters and the undead, gained new life and hauled their dead bodies back to their feet.",
+      "severity": "critical",
+      "source": "최 팀장에게 죽은 그리폰이, 헌터와 언데드의 합공에 의해 쓰러진 몬스터들이 새로운 생명을 얻으며 죽은 육신을 일으켜 세운다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "- Barensia. Madrit.\n\n- Baielrn. Munich.\n\n- Stoh. Siri.",
+      "defect": "The transliteration preserves the distorted sounds but leaves English readers without the intended sequence of mangled European soccer names, losing the incantation joke.",
+      "id": "F06",
+      "rationale": "The three pairs conspicuously approximate Valencia and Madrid, Bayern Munich, and Stoke City; a concise footnote preserves both their incantatory distortion and the joke.",
+      "replacement": "- Barensia. Madrit.[^1]\n\n- Baielrn. Munich.\n\n- Stoh. Siri.\n\n[^1]: The pseudo-incantation mangles the names Valencia, Madrid, Bayern Munich, and Stoke City.",
+      "severity": "major",
+      "source": "- 바렌시아. 마드릿.\n\n- 바이엘른. 뮌헨.\n\n- 스토흐. 시리."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The death energy flowing from the bodies of the humans whose lives had ended in death rattles seeped into the monsters’ entire bodies.",
+      "defect": "“Whose lives had ended in death rattles” is an unnatural and mechanically misleading construction; the cries accompany their deaths rather than end their lives.",
+      "id": "F07",
+      "rationale": "단말마와 함께 describes the victims dying amid their final cries, while the death energy subsequently flows from their bodies.",
+      "replacement": "The death energy flowing from the bodies of the humans who had died with those final cries seeped into every inch of the monsters.",
+      "severity": "minor",
+      "source": "단말마와 함께 숨이 끊긴 인간들의 몸에서 흘러나온 사기는 몬스터들의 전신에 스며들었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "- The ogres—and more Dullahans.",
+      "defect": "The literal fragment loses the line's betting-style escalation joke.",
+      "id": "F08",
+      "rationale": "받고 … 더 uses the cadence of seeing and raising a wager while proposing an escalating deployment.",
+      "replacement": "- I’ll see your ogres and raise you Dullahans.",
+      "severity": "minor",
+      "source": "- 오우거 받고, 듀라한 더."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Hello. Entertainment Relay? Are you idiots?”",
+      "defect": "The draft neither uses the program's natural English title nor explains that Taekyung is mocking the preceding incantations for sounding like garbled Korean phrases.",
+      "id": "F09",
+      "rationale": "안녕하세요 and 연예가중계 decode the preceding sounds 옴느하소유 and 옌위가지케; the phonetic misunderstanding is the punchline.",
+      "replacement": "“Hello. *Entertainment Weekly*?[^2] Are you idiots?”\n\n[^2]: The two incantations sound like mangled versions of *annyeonghaseyo* (“hello”) and *Yeonye-ga Junggye*, the Korean title of the TV program *Entertainment Weekly*.",
+      "severity": "major",
+      "source": "“안녕하세요. 연예가중계? 병신들인가.”"
+    }
+  ],
+  "summary": "Two scene-mechanics errors alter the acting subject and the undead resurrection; several localized omissions weaken stammering, chant repetition, and wordplay.",
+  "version": 1
+}

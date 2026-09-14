@@ -105,3 +105,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 중앙 군사 위원회 | **Central Military Commission** | Chinese military body Shao Shen assumes dispatched the unknown S-rank Hunter. |
 | 화염신장 | **Flame Divine Palm** | Named fire-based palm technique used by Taekyung. |
 | 멸염신권 | **Flame-Annihilating Divine Fist** | Named fire-based fist technique used by Taekyung. |
+| 염화일로 | **Flamefire Path** | Named fire-based movement technique used by Jin Taekyung. |
+| 아크 리치 | **Arch Lich** | Superior undead being referenced by the three incomplete Liches. |
+| 스켈레톤 메이지 | **Skeleton Mage** | Undead unit the three beings consider deploying. |
+| 데스나이트 | **Death Knight** | Powerful undead being the three beings plan but fail to create. |

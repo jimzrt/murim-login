@@ -1,0 +1,55 @@
+{
+  "chapter": 381,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.169,
+    "source_characters": 6786,
+    "source_paragraphs": 238,
+    "translation_characters": 14718,
+    "translation_paragraphs": 250
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "일격",
+        "preferred": "One Strike"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "상태",
+        "preferred": "Status"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "바렌시아",
+        "romanization": "barensia"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "키키키키킥",
+        "romanization": "kikikikikik"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "옌위가지케",
+        "romanization": "yenwigajike"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
