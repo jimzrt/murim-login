@@ -59,10 +59,40 @@ class RunUntilTest(unittest.TestCase):
             return 0
 
         with patch.object(run_until, "run_next_chapter", side_effect=fake_run):
-            with patch("sys.argv", ["run_until.py", "16"]):
+            with patch("sys.argv", ["run_until.py", "16", "--retries", "0"]):
                 self.assertEqual(run_until.main(), 7)
         self.assertEqual(calls, [13, 14])
         self.assertEqual(run_until.next_chapter(), 14)
+
+    def test_retries_failed_chapter_before_stopping(self):
+        calls: list[int] = []
+
+        def fake_run():
+            current = run_until.next_chapter()
+            calls.append(current)
+            if current == 13 and calls.count(13) < 3:
+                return 7
+            write_state(self.root, current + 1)
+            return 0
+
+        with patch.object(run_until, "run_next_chapter", side_effect=fake_run):
+            with patch("sys.argv", ["run_until.py", "13", "--retries", "2"]):
+                self.assertEqual(run_until.main(), 0)
+        self.assertEqual(calls, [13, 13, 13])
+        self.assertEqual(run_until.next_chapter(), 14)
+
+    def test_stops_after_exhausted_chapter_retries(self):
+        calls: list[int] = []
+
+        def fake_run():
+            calls.append(run_until.next_chapter())
+            return 7
+
+        with patch.object(run_until, "run_next_chapter", side_effect=fake_run):
+            with patch("sys.argv", ["run_until.py", "13", "--retries", "2"]):
+                self.assertEqual(run_until.main(), 7)
+        self.assertEqual(calls, [13, 13, 13])
+        self.assertEqual(run_until.next_chapter(), 13)
 
     def test_stops_if_run_next_succeeds_without_advancing_state(self):
         with patch.object(run_until, "run_next_chapter", return_value=0):
