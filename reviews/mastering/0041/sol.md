@@ -2,7 +2,7 @@
 
 The Hunter Manpower Office.
 
-They called it an office, but it was a building. This six-story building sat on prime real estate right by the station, and hundreds of Hunters came through it every day.
+It was an office in name only. The place was a six-story building on a prime piece of land right by the station, with hundreds of Hunters passing through every day.
 
 *It’s been a while.*
 
@@ -20,13 +20,13 @@ After making my way through the long line, I reached the counter. The woman ther
 
 Back when I was a rookie, I’d graduated from the Hunter Training Center with excellent scores. But almost nowhere needed an F-rank Hunter like me, and the contracts a few small and midsize Guilds offered as if they were doing me a favor amounted to highway robbery.
 
-So I’d found this place. The region had been different, though.
+So I’d come to one of these offices instead. A different branch, though.
 
 “There’s a record at the Ilsan branch. I’ve put you on the list, so please wait in the hall on the first floor.”
 
 “Yes.”
 
-This six-story building was a pyramid all by itself. The first floor took E- and F-ranks. You needed at least D-rank to set foot on the second.
+This six-story building was a pyramid unto itself. The first floor took E- and F-ranks. You needed to be at least D-rank to set foot on the second.
 
 Some people got angry and asked if that wasn’t blatant discrimination.
 
@@ -36,7 +36,7 @@ It was.
 
 I’d lasted seven years in this business and endured every kind of shitty treatment there was. I’d long since passed the point of being picky.
 
-I had just started walking with that thought when—
+I had just started walking when—
 
 “Hey, look who it is!”
 
@@ -64,7 +64,7 @@ Im Kkeokjeong gave me an easy smile.
 
 “Call me hyung. We’re not even that far apart in age.”
 
-How many years apart were we again? It was hazy.
+How many years apart were we again? I couldn’t remember.
 
 “Hyung, how old are you?”
 
@@ -72,7 +72,7 @@ How many years apart were we again? It was hazy.
 
 “…”
 
-*What’s with that confidence?*
+*Where’s that confidence coming from?*
 
 But the people skills I’d honed over the years paid off. I somehow managed to force a smile.
 
@@ -80,15 +80,15 @@ But the people skills I’d honed over the years paid off. I somehow managed to 
 
 “That’s it, little brother. Hahahaha!”
 
-His hearty laugh rang through the hall. Nearly a hundred people looked over, then looked away.
+His hearty laugh rang through the hall. Nearly a hundred people looked over, then quickly looked away.
 
 *I should’ve just pretended I didn’t hear him and kept walking.*
 
-In a way, it was a shallow connection. We’d run into each other every day for about half a year at the Ilsan office, and sometimes worked together. That was about it.
+In a way, ours was a pretty shallow connection. We’d seen each other almost every day for about half a year at the Ilsan office and occasionally worked together. That was about it.
 
 *He’s a good guy, but…*
 
-Sometimes having him next to me was embarrassing.
+Sometimes having him around was embarrassing.
 
 Like now.
 
@@ -96,27 +96,27 @@ Like now.
 
 Im Kkeokjeong knocked back his yulmu tea[^2] in one gulp and tipped his chair as far as it would go.
 
-From the way he did it, this clearly wasn’t his first or second visit.
+From the ease with which he did it, this clearly wasn’t his first visit.
 
 “You come here often?”
 
-“Not every day. I drop by now and then. Once I got married and had kids, I started being more careful. Heh heh.”
+“Not every day. I drop by now and then. Once I got married and had a kid, I started being more careful. Heh heh.”
 
 It seemed he’d started a family while we were out of touch. When I congratulated him, Im Kkeokjeong scratched his head.
 
-“What’s so great about that.”
+“What’s so great about that?”
 
-He was being modest, but a big deal was a big deal. He’d worked as a Hunter—an F-rank Hunter—for more than twenty years and still managed to build a family.
+He was being modest, but it was a big deal. He’d worked as a Hunter—an F-rank Hunter—for more than twenty years and still managed to build a family.
 
 I wondered if the Im Kkeokjeong in front of me might be my future self.
 
-*Assuming I lived to that age first.*
+*Assuming I live to that age.*
 
 Being a Hunter wasn’t a career you could keep up for long. Plenty of people retired the moment they completed the ten years needed to qualify for a pension.
 
 “Anyway, you’re starting to look the part. When I first saw you, you were completely frozen. You could barely even talk.”
 
-“Of course. I’ve got seven years in.”
+“Of course. I’ve got seven years under my belt now.”
 
 “So you’ve just been bouncing around manpower offices ever since? Didn’t you sign with a small or midsize Guild on fairly decent terms? So, So… what was the name again?”
 
@@ -124,13 +124,13 @@ Being a Hunter wasn’t a career you could keep up for long. Plenty of people re
 
 Im Kkeokjeong forced a laugh.
 
-“Hahaha! Good for you. The Guild’s name was lousy, too. What the hell is Sopung? It’s not like you’re going on a picnic to a Gate.”
+“Hahaha! Good for you. The Guild’s name was lousy too. What the hell is Sopung? It’s not like you’re going on a picnic to a Gate.”
 
-“No, not that sopung. It’s a place name. They’re near Bucheon Sopung Terminal, so Sopung Guild.”
+“No, not that sopung. It’s a place name. They’re near Bucheon Sopung Terminal, so they’re the Sopung Guild.”
 
 “Oh…”
 
-The conversation that followed was pretty useful. Im Kkeokjeong was a regular at the manpower office, after all, and a veteran Hunter with decent information and his own hard-earned know-how.
+The conversation that followed was pretty useful. Im Kkeokjeong was a regular at the manpower office, after all, and a veteran Hunter with solid information and plenty of hard-earned know-how.
 
 “The office takes a ten percent commission. That’s standard. But the batting average here is pretty good.”
 
@@ -154,9 +154,9 @@ At last, the first batter was up. And my turn would only come after all the E-ra
 
 “I’ll go on ahead.”
 
-Im Kkeokjeong—or rather, Im Hyeokjun—slung a large bag of armor and weapons over his shoulder and gave a sheepish laugh.
+Im Kkeokjeong—or rather, Im Hyeokjun—slung a large bag of armor and weapons over his shoulder and chuckled.
 
-*No wonder his expression looked off.*
+*No wonder he looked so awkward.*
 
 The man had clearly worked himself to the bone while we were out of touch.
 
@@ -164,9 +164,9 @@ It was only one step up, but rising even that far with an F-rank’s potential w
 
 “See you around.”
 
-“Yes. See you.”
+“Yeah. See you.”
 
-Him walking out of the hall was the start. The speakers began pouring out names like they meant it.
+His departure from the hall was only the beginning. The speakers started rattling off names as if they’d been waiting for him to leave.
 
 E-rank this person, E-rank that person, E-rank…
 
@@ -182,13 +182,13 @@ Just as I was starting to get anxious—
 
 “Mr. Jin Taekyung?”
 
-A man in a white linen shirt was waiting in the lobby. Without preamble, he held out a contract with a blank face.
+A man in a white linen shirt was waiting in the lobby. Without preamble, he held out a contract with a blank expression.
 
 “I’m from the Peace Guild. Read it and sign.”
 
 *This guy’s way of talking is seriously irritating.*
 
-I glared from the contract to the man’s face and back.
+I looked back and forth between the contract and the man’s face.
 
 “The settlement split is eight to two.”
 
@@ -202,7 +202,7 @@ I glared from the contract to the man’s face and back.
 
 *Did this guy’s tongue get cut in half?*
 
-“Gate rank.”
+“Gate rank?”
 
 “E-rank.”
 
@@ -252,11 +252,11 @@ I’d been itching to sign so badly my fingers had almost cramped.
 
 “Huh? Taekyung!”
 
-Im Kkeokjeong was waiting to load his bags into the bus’s trunk. He grinned wide.
+Im Kkeokjeong was waiting to load his bag into the bus’s luggage compartment. He broke into a broad grin.
 
 “You’re coming too. Great!”
 
-“Right? I guess I really do have a connection with you, hyung.”
+“Right? I guess you and I really do have a connection, hyung.”
 
 “Hahahaha!”
 
@@ -264,7 +264,7 @@ Im Kkeokjeong was waiting to load his bags into the bus’s trunk. He grinned wi
 
 “…Let’s get going.”
 
-Maybe it was the heat, but the shirt guy’s face looked years older.
+Maybe it was the heat, but the shirt guy suddenly looked years older.
 
 * * *
 
@@ -274,7 +274,7 @@ Im Kkeokjeong introduced me to the others who’d been hired with us.
 
 “All right, everyone, say hello. This is a younger brother I know.”
 
-Now that I looked, they all knew each other. I dipped my head.
+Now that I looked, they all seemed to know each other. I dipped my head.
 
 “Hello. I’m Jin Taekyung.”
 
@@ -282,19 +282,19 @@ Now that I looked, they all knew each other. I dipped my head.
 
 “Tall young fellow. Looks like he can fight.”
 
-There were three new people in all, men in their late thirties or early forties. In that warm atmosphere, Im Kkeokjeong explained.
+There were three of them, all men in their late thirties or early forties. Amid the warm atmosphere, Im Kkeokjeong explained.
 
 “These guys are all E-rank. I’ve known them a long time. Over ten years now.”
 
 “Yeah, about that long. Time sure flies.”
 
-Meaning they all had at least ten years in. I had enough experience that nobody was going to call me a rookie wherever I went, but these guys were on another level entirely.
+Meaning they all had at least ten years of experience. I’d been around long enough that no one would call me a rookie, but these guys were on another level entirely.
 
-*Old-timer party.*
+*A party of old hands.*
 
-People like them pulled their weight wherever they went. In a pinch, they were much better than a middling D-rank.
+People like them pulled their weight wherever they went. In a pinch, they were much more reliable than a middling D-rank.
 
-“So what’s the young guy’s rank?”
+“So what rank are you, young man?”
 
 Here it came. The rank check.
 
@@ -308,25 +308,25 @@ I answered carefully.
 
 “Hmm. That so?”
 
-The mood went lukewarm. If my first raid started like this, that would be a problem.
+The mood went lukewarm. I didn’t need things getting awkward before the raid had even started.
 
-I ran my mouth before it could settle.
+I hurried to explain.
 
 “I won’t be taking part in combat at all. I’m joining as a porter, so you don’t have to worry…”
 
-The three men stared at me blankly.
+The three men stared blankly at me.
 
-“Why the extra explanation? We gonna eat you?”
+“Why the whole explanation? We gonna eat you?”
 
-“Drop it. If he’s been knocking around for seven years, he knows enough.”
+“Leave him alone. If he’s been knocking around for seven years, he knows enough.”
 
-“If Kkeokjeong hyung recommended him, that’s enough. Team Leader Choi must’ve thought he was all right too, or he wouldn’t have said yes.”
+“If Kkeokjeong hyung recommended him, that’s good enough. Team Leader Choi must’ve thought he was all right too, or he wouldn’t have approved it.”
 
 *Recommended? Team Leader Choi?*
 
-I didn’t know the exact details, but I could more or less see how this had gone.
+I didn’t know the exact details, but I could more or less see what had happened.
 
-Im Kkeokjeong had recommended me. To the shirt guy—Team Leader Choi.
+Im Kkeokjeong had recommended me to the shirt guy—Team Leader Choi.
 
 “W-what are you talking about?”
 
@@ -334,11 +334,11 @@ Im Kkeokjeong waved his hands, his face bright red.
 
 The three men snickered.
 
-“It’s written all over him. How did that hyung ever get married?”
+“It’s written all over your face. How did this hyung ever manage to get married?”
 
 “Good deeds are supposed to come to light. Why go through life hiding them?”
 
-“Right. You think so too, don’t you?”
+“Exactly. You think so too, don’t you?”
 
 I nodded at once.
 
@@ -348,11 +348,11 @@ I nodded at once.
 
 Well, then…
 
-I’d thought of Im Kkeokjeong as one of the many people I’d crossed paths with for a moment and moved on from. Meeting him again, he was more guileless and warmhearted than I’d expected.
+I’d thought of Im Kkeokjeong as just one of the countless people I’d briefly crossed paths with and moved on from. But meeting him again, I realized he was more guileless and warmhearted than I’d expected.
 
 *So that’s why the terms were so generous.*
 
-The way they kept saying Team Leader Choi, Team Leader Choi, I figured their friendship had played a part in my contract too.
+From the way they kept mentioning Team Leader Choi, I figured his friendship with them had played a part in my contract too.
 
 “I’ll work hard.”
 
@@ -362,9 +362,9 @@ The man in question answered Im Kkeokjeong’s awkward excuse.
 
 “Then let’s say I made the decision.”
 
-The shirt guy had opened his eyes at some point. No—Team Leader Choi. He spoke to us.
+The shirt guy had opened his eyes at some point. No—Team Leader Choi. He looked back at us.
 
-“We’re almost there.”
+“We’ve arrived.”
 
 I turned my head. A four-meter-high Gate was drawing closer. At its center, a vortex of mana churned, ready to suck us in.
 
