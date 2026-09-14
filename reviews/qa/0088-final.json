@@ -1,0 +1,31 @@
+{
+  "chapter": 88,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.275,
+    "source_characters": 6205,
+    "source_paragraphs": 197,
+    "translation_characters": 14117,
+    "translation_paragraphs": 220
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "등급",
+        "preferred": "Grade"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "상동",
+        "romanization": "sangdong"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}

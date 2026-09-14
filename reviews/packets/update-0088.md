@@ -1,0 +1,1218 @@
+<!-- packet-manifest
+{
+  "included": [
+    {
+      "path": "source/0088.txt",
+      "sha256": "73c6522a1e78d5c064a7d3fc7636a1d6063fb28b39e34daa8e4957b89060272e",
+      "bytes": 14459
+    },
+    {
+      "path": "docs/CONTEXT.json",
+      "sha256": "2a7020154740d1f6f45125439414a8712dc154a81dabcf5a2e7543adc2c29003",
+      "bytes": 1940
+    },
+    {
+      "path": "docs/NAMES.md",
+      "sha256": "346a06a4f0857fddb83f96886adf2175742c72dbd9fabbc2c33866a5bdfa57e6",
+      "bytes": 8670
+    },
+    {
+      "path": "characters/Jin Taekyung.md",
+      "sha256": "63718ce429373ce1cd64703e5a262e76e6f2195b3db9aa54998703ba9fe8171d",
+      "bytes": 23901
+    },
+    {
+      "path": "characters/Kim Jeonghee.md",
+      "sha256": "7b44212f204217e4d7ef782a4bf3f630d088072d935b3f5fcaf9edcbc795f06c",
+      "bytes": 722
+    },
+    {
+      "path": "characters/Seong Jinho.md",
+      "sha256": "3857092ca32f6c0f61c0f017a0f80a1b1fff5d04cbedc7edd606123dfffa4625",
+      "bytes": 2027
+    },
+    {
+      "path": "docs/ADDRESS.md",
+      "sha256": "a16c93404a854018180cf903c5f4ae3af37b3520d6aaf8e18843baf6f44254d9",
+      "bytes": 8166
+    }
+  ],
+  "estimated_tokens": 13628
+}
+-->
+
+# Durable State Update — Chapter 88
+
+Return exactly one JSON object and no Markdown fence. Record only facts established
+by this chapter. Do not use tools, edit prose, infer future events, or copy archived
+profile continuity.
+
+`context` must contain exactly the durable context schema shown below, with version
+1 and safe_through 88. Keep at most
+2 continuity_sources. Keep
+`active_continuity` to at most 20 concise items, `open_questions` to at most 8
+items, and `temporary_decisions` to at most 8 items. Keep the serialized context
+under 16384 UTF-8 bytes. Use only chapter
+numbers through 88. `profile_updates` may replace one exact, uniquely occurring
+complete line in a listed profile, and only an Aliases, Role, Personality, Voice, or
+Relationships line. Use `profile_creations` only for a newly introduced named
+character without a listed profile. Filenames must be plain `.md` basenames.
+`names` contains only newly required Korean-to-English rows; Korean keys must occur
+in the source. `address_pairs` contains only newly required speaker→addressee rows;
+each Korean key must occur in the source or already appear in the address ledger,
+and at least one endpoint must occur in the source (first-person narrators may be
+ledger-only). Do not invent risk-register rows. Beat
+plot paragraphs are plain strings; continuity and translation decisions are concise
+list items.
+Return this exact shape:
+
+{
+  "chapter": 88,
+  "beat": {
+    "plot": ["chapter plot paragraph"],
+    "continuity": ["binding continuity item"],
+    "translation_decisions": ["binding terminology or voice decision"]
+  },
+  "context": {
+    "version": 1,
+    "safe_through": 88,
+    "continuity_sources": [88],
+    "active_continuity": ["active fact"],
+    "open_questions": ["unresolved question"],
+    "temporary_decisions": ["temporary translation decision"]
+  },
+  "names": [
+    {"korean": "source spelling", "english": "English rendering", "notes": "brief note"}
+  ],
+  "address_pairs": [
+    {
+      "speaker": "speaker Korean",
+      "addressee": "addressee Korean",
+      "kinship": "kinship or role relation",
+      "normal_address": "established English address",
+      "speech_level": "speech level",
+      "notes": "brief note"
+    }
+  ],
+  "profile_updates": [
+    {
+      "path": "characters/Listed Profile.md",
+      "current": "- **Role:** exact current full line",
+      "replacement": "- **Role:** finished replacement full line"
+    }
+  ],
+  "profile_creations": [
+    {
+      "filename": "English Name.md",
+      "korean": "source name",
+      "english": "English Name",
+      "aliases": [],
+      "role": "stable role",
+      "personality": "stable traits",
+      "voice": "stable voice",
+      "relationships": "stable relationships"
+    }
+  ]
+}
+
+Use empty arrays when no name, address-pair, or profile change is required.
+
+## Prior durable context
+
+```json
+{
+  "active_continuity": [
+    "The party sells The Minotaur's Labyrinth byproducts and Magic Gems to the Administration.",
+    "Im Kkeokjeong warns that Sangdong Guild is a powerful local Guild capable of threatening Peace Guild.",
+    "Im Chunsoo is Sangdong Guild's A-rank Guild Master and founder, known as Frozen for his exceptional ice magic.",
+    "Im Chunsoo learns that Changsoo transferred 8 billion won to two accounts, fires him, and begins beating him with an ice club.",
+    "Sangdong Guild's Team One Leader brings Changsoo to Im Chunsoo's office, which is closed to visitors for half a day.",
+    "Im Changsoo transfers the promised four billion won to Jin Taekyung.",
+    "Hayeon has a 39-degree fever, leaves school early, and studies at home before summer vacation.",
+    "Hayeon knows that Kim Jeonghee is secretly working at a restaurant and asks Taekyung not to find her.",
+    "Kim Jeonghee is Taekyung and Hayeon's fifty-year-old mother and has worked in a restaurant kitchen for over a year.",
+    "Taekyung's father died when a Gate opened in downtown during the Great Cataclysm.",
+    "Kim Jeonghee defends Taekyung against the restaurant owner's insults and curses the owner.",
+    "Taekyung arrives at the restaurant and calls Kim Jeonghee Mom."
+  ],
+  "continuity_sources": [
+    86,
+    87
+  ],
+  "open_questions": [
+    "Whether Im Chunsoo or Sangdong Guild will retaliate against Peace Guild remains unresolved.",
+    "What will happen to Kim Jeonghee after her confrontation with the restaurant owner remains unresolved.",
+    "How Taekyung's arrival at the restaurant will affect the confrontation remains unresolved."
+  ],
+  "safe_through": 87,
+  "temporary_decisions": [
+    "Use Frozen for 프로즌 and preserve the tiger-father/dog-son wordplay in 호부견자.",
+    "Use ajumma for 아줌마 with an explanatory footnote.",
+    "Retain goshiwon with an explanatory footnote."
+  ],
+  "version": 1
+}
+```
+
+## Existing names ledger
+
+# Established Names
+
+Binding Korean → English for names, titles, aliases, and forms established in
+accepted chapters. Injected only when the exact Korean appears in the current
+chapter. Overrides `compendium.md` on the same Korean key. Add a row at first
+use. First use of an unlisted name or title almost always needs a footnote.
+
+| Korean | Preferred English | Notes |
+| ------ | ----------------- | ----- |
+| 장삼 | **Jang Sam** | Bandit; personal name |
+| 천력부 | **Heavenly Axe** | Epithet of Jang Sam; never romanize |
+| 천관일 | **Sky-Piercing Strike** | Final form of the Jin Family's Spear Technique; 天貫軼 |
+| 녹림십팔채 | **Eighteen Strongholds of Green Forest** | |
+| 홍화루 | **Honghwaru** | Lower District Sect Shanxi branch; pleasure house in Taiyuan |
+| 하연 | **Hayeon** | Jin Taekyung’s younger sister |
+| 응현 | **Eung-hyeon** | Jin Family branch location |
+| 산음 | **Saneum** | Jin Family branch location |
+| 삭주 | **Sakju** | Jin Family branch location |
+| 정양 | **Jeongyang** | Shanxi location |
+| 혼주 | **Honju** | Shanxi location |
+| 견정 | **Gyeonjeong** | Acupoint |
+| 아문 | **Amun** | Acupoint |
+| 봉안 | **Bongan** | Acupoint |
+| 입동 | **Ip-dong** | Acupoint |
+| 갱생권 | **Reformation Fist** | Jin Mukyung's named fist technique |
+| 금나수 | **grappling technique** | Close-combat wrist-lock technique; rendered descriptively |
+| 삼재검법 | **Three Calamities Sword Technique** | Sword technique Mukyung assumes Taekyung is pretending to use. |
+| 약왕당 | **Medicine King Hall** | The Jin Family's medical hall. |
+| 이공자 | **Second Young Master** | Title used for Jin Mukyung. |
+| 수문각주 | **Master of the Gatekeeper Pavilion** | Office Hyuk Mujin is rumored to receive. |
+| 공청석유 | **gongcheong seokyu** | Rare martial-arts elixir; the term also creates a petroleum pun. |
+| 군자 | **junzi** | Confucian ideal of a morally upright gentleman. |
+| 삼문협 | **Three Questions Gorge** | A distant gorge and route connecting Shanxi with Shaanxi and Henan. |
+| 섬서 | **Shaanxi** | Province bordering Shanxi. |
+| 삼공자 | **Third Young Master** | Title used for Jin Taekyung. |
+| 맹주 | **Alliance Leader** | Leader of the regional Murim alliance. |
+| 약왕당주 | **Medicine King Hall Master** | The unnamed physician who runs the Medicine King Hall. |
+| 송검문 | **Song Sword Sect** | Small-to-medium sect in central Shanxi. |
+| 송검문주 | **Sect Leader of Song Sword Sect** | Title held by Huang. |
+| 귀검 | **Ghost Sword** | Wipeng's epithet. |
+| 황 모 | **Huang** | Surname-style self-reference by the Sect Leader of Song Sword Sect. |
+| 아스모데우스 | **Asmodeus** | Demon King referenced in Taekyung's sarcastic comparison; does not appear directly. |
+| 낙류검 | **Falling Flow Sword** | Named sword technique discovered by Mukyung in the archives of Heaven's Gate Temple; its name evokes a waterfall. |
+| 질풍십이권 | **Twelve Gale Fists** | Named fist technique Mukyung threatens to use against Taekyung. |
+| 화염신장 | **Flame Divine Palm** | Jopil's deadly palm technique, noted when Taekyung compares Jopil with Mukyung. |
+| 마혈 | **Paralysis Acupoint** | System condition label for temporary paralysis. |
+| 아혈 | **Mute Acupoint** | System condition label preventing speech. |
+| 분근착골 | **Tendon-Splitting and Bone-Twisting** | Cruel immobilization technique described by Mukyung. |
+| 일문일살 | **One Question, One Kill** | Jopil's alias. |
+| 군자검 | **Junzi Sword** | Epithet Jin Wikyung begins receiving after the war. |
+| 칠득이 | **Childeuk** | Jin Family servant. |
+| 천자문 | **Thousand Character Classic** | Classical text Childeuk cannot complete. |
+| 천무지체 | **Heavenly Martial Physique** | Named physique or constitution mentioned hypothetically by Jin Mukyung. |
+| 장칠득 | **Jang Childeuk** | Personal-name form of Childeuk; he is newly appointed as a martial artist directly under Jin Wikyung. |
+| 최 팀장 | **Team Leader Choi** | Team Leader who owns the café where Taekyung signs a contract. |
+| 명품충 | **Designer-Brand Junkie** | Display name used by Team Leader Choi in a text message. |
+| 평화 | **Peace Guild** | Guild name. |
+| 김 집사 | **Butler Kim** | Choi's butler and limousine driver. |
+| 히말라야 | **Himalayas** | Mountain region referenced as the source of the bottled water. |
+| 히말라야의 정수 | **Essence of the Himalayas** | System-named consumable that temporarily raises Intelligence. |
+| 부천 | **Bucheon** | City with a dense concentration of Gates and Guild headquarters. |
+| 강남 | **Gangnam** | Formerly valuable Seoul-area real estate. |
+| 분당 | **Bundang** | Formerly valuable Korean real estate area. |
+| 대한민국 | **Korea** | Country reference. |
+| 순이 | **Sooni** | Former owner of Sooni's Super. |
+| 순이네 수퍼 | **Sooni's Super** | The Peace Guild's Guild house. |
+| 송 양 | **Miss Song** | The Peace Guild's final member; full identity not yet given. |
+| 아레스 | **Ares Guild** | The leading Guild in Korea; formerly employed Team Leader Choi and Song Song. |
+| 논산 | **Nonsan** | Location of Korea's Hunter training center. |
+| 임혁준 | **Im Hyeokjun** | Im Kkeokjeong's personal name, shown in the System Level window. |
+| 미노타우로스 | **Minotaur** | B-rank monster species. |
+| 부천터미널 길드 | **Bucheon Terminal Guild** | Guild whose raid footage is shown. |
+| 미노타우로스의 미로 | **The Minotaur's Labyrinth** | B-rank Gate. |
+| 상동 길드 | **Sangdong Guild** | Mid-sized Guild near Bucheon that joins Peace Guild's first official raid. |
+| 헌터 협회 | **Hunter Association** | Organization investigating the Bucheon Terminal Guild fatality. |
+| 흑색 드레이크 | **Black Drake** | B-rank monster whose leather and spine are used for Taekyung's loaned equipment. |
+| 장인의 흑색 드레이크 가죽 세트 | **Masterwork Black Drake Leather Set** | Peak-grade armor set loaned to Taekyung. |
+| 장인의 검은 가시 창 | **Masterwork Black Thorn Spear** | Peak-grade spear loaned to Taekyung. |
+| 출혈 | **Bleeding** | Effect with a 90% activation chance on a successful spear hit. |
+| 니콜라스 | **Nicholas** | North American craftsman associated with the space-expansion suitcase. |
+| K사 | **K Company** | Manufacturer of the space-expansion suitcase. |
+| 혜린 | **Hye-rin** | C-rank female mage and member of Im Changsoo's Sangdong Guild team. |
+| 청담동 | **Cheongdam-dong** | District mentioned as a luxury shopping location. |
+| 투우사의 전신 갑옷 | **Matador’s Full-Body Armor** | Peak-grade armor equipped by Im Kkeokjeong; grants bonuses against bovine-type monsters. |
+| 투우사의 방패 | **Matador’s Shield** | Peak-grade shield equipped by Im Kkeokjeong; can activate Taunt and Hallucination against bovine-type monsters. |
+| 도발 | **Taunt** | System effect that the Matador’s Shield can activate against bovine-type monsters. |
+| 환각 | **Hallucination** | System effect that the Matador’s Shield can activate against bovine-type monsters. |
+| 미노타우로스 전사 | **Minotaur Warrior** | Level-window designation for the first Minotaur encountered in the labyrinth. |
+| 발설지옥 | **tongue-pulling hell** | Buddhist hell associated with punishment for liars and slanderers; explained in a footnote. |
+| 껄떡쇠 | **Horndog** | Im Changsoo’s nickname for his womanizing. |
+| 강원도 | **Gangwon Province** | Province named in Taekyung’s joke about the Minotaur’s next life. |
+| 횡성 | **Hoengseong** | Place in Gangwon Province named in Taekyung’s joke. |
+| 자일리톤 | **Xyliton** | Finnish equipment manufacturer whose custom helmet records video. |
+| 유네스코 | **UNESCO** | Organization referenced in Taekyung’s cultural-heritage joke. |
+| 일섬 | **One Annihilation** | Named spear technique Taekyung uses to kill the Boss Zone monster in one blow. |
+| 미노타우로스 대전사 | **Minotaur Warrior** | Level 70 B-rank boss monster of The Minotaur's Labyrinth. |
+| 임 팀장님 | **Team Leader Im** | Formal address for Im Changsoo used by a Sangdong Guild teammate. |
+| 프로즌 | **Frozen** | Im Chunsoo's epithet as an A-rank ice mage. |
+| K은행 | **K Bank** | Bank where Im Changsoo's transfer is reported. |
+| 김정희 | **Kim Jeonghee** | Jin Taekyung and Hayeon's mother; restaurant kitchen worker |
+| 아줌마 | **ajumma** | Familiar term for a middle-aged or married woman, used for Kim Jeonghee |
+| 사장님 | **Boss** | Address for the restaurant owner; contextually rendered as ma'am in one reply |
+
+## Existing address-pair ledger
+
+# Established Address Pairs
+
+Exceptional speaker → addressee forms established in accepted chapters.
+Injected only when both endpoints are present in the current chapter: the
+Korean appears in the source, or belongs to a matched compact profile.
+Overrides generic relationship prose in character profiles for this pair.
+
+| Speaker | Addressee | Kinship | Normal address | Speech level | Notes |
+| ------- | --------- | ------- | -------------- | ------------ | ----- |
+| 진태경 | 진무경 | younger_to_older_brother | hyung | casual-but-junior | Retain hyung for 형 in Taekyung's greeting; Mukyung then punishes the casual speech. |
+| 진무경 | 진태경 | older_to_younger_brother | youngest | blunt-senior | 막내 / youngest; may taunt that lasting a quarter-hour would make Taekyung the older brother. |
+| 진태경 | 진위경 | younger_to_eldest_brother | brother | familiar-but-respectful | Self-corrects from the personal name to kinship: “Jin Wikyung—I mean, my brother?”; 큰형 is eldest brother. |
+| 진위경 | 진태경 | eldest_to_youngest_brother | youngest | affectionate-protective | Uses youngest-brother address; openly affectionate beneath a public mask. |
+| 진태경 | 성진호 | junior_to_older_friend | Jinho hyung | casual-but-junior | Retain hyung for 형; Jinho is three years older. |
+| 성진호 | 진태경 | older_friend | informal / younger-brother | teasing-senior | Speaks informally while demanding respect as the older friend. |
+| 진태경 | 임꺽정 | junior_friend | Kkeokjeong hyung | casual-but-junior | After Im asks to be called hyung. |
+| 임꺽정 | 진태경 | older_friend | hyung | hearty-casual | “Call me hyung. We’re not even that far apart in age.” |
+| 위팽 | 진위경 | retainer_to_lord | my lord | deferential | 주공; Wipeng is Jin Wikyung’s personal guard. |
+| 소천 | 진태경 | rescued_survivor_to_benefactor | Benefactor | deferential | Socheon repeatedly addresses Taekyung as 은인. |
+| 진무경 | 진위경 | younger_to_older_brother | older brother | formal-but-blunt | Mukyung refers to Wikyung as 형 while remaining emotionally restrained. |
+| 진위경 | 진무경 | older_to_younger_brother | little brother | affectionate-casual | Wikyung uses 아우야 and 무경아 with openly affectionate familiarity. |
+| 진태경 | 공야청 | junior_to_respected_hero | Great Hero Gong | deferential | Taekyung consistently attaches 대협 when addressing Gong Yacheong. |
+| 위팽 | 송검문주 | visitor_to_sect_leader | Sect Leader | formal-polite | Wipeng addresses the Song Sword Sect Leader respectfully while delivering the summons. |
+| 송검문주 | 위팽 | sect_leader_to_visiting_master | Great Hero Wipeng | deferential | The Sect Leader addresses Wipeng as 위 대협 while fearing the Ghost Sword's power. |
+| 진태경 | 월화 | junior_to_older_female_acquaintance | Wolhwa noona | casual-but-junior | Taekyung uses this address while speaking in his sleep or delirium. |
+| 칠득이 | 진위경 | servant_to_lesser_family_head | Lesser Family Head | deferential | Childeuk repeatedly addresses Wikyung as 소가주님. |
+| 진위경 | 칠득이 | lesser_family_head_to_servant | you | formal-but-familiar | Wikyung addresses Childeuk with 자네. |
+| 진위경 | 장칠득 | lesser_family_head_to_direct_martial_artist | Martial Artist Jang | affectionate and ceremonious | Wikyung embraces and exuberantly praises Childeuk after acknowledging their minor misunderstanding. |
+| 혁무진 | 진태경 | squad_subordinate_to_squad_leader | Squad Leader | deferential | Hyuk Mujin says he obeys only his squad leader's orders and identifies Taekyung as the Third Young Master. |
+| 진태경 | 혁무진 | squad_leader_to_squad_subordinate | Mujin | familiar-and-commanding | Taekyung calls him 무진아 while summoning him from the driver's box. |
+| 진태경 | 최 팀장 | guild_member_to_team_leader | Team Leader | deferential | Taekyung addresses Choi as 팀장님. |
+| 최 팀장 | 진태경 | team_leader_to_guild_member | Taekyung | formal-but-familiar | Choi addresses him as 태경 씨. |
+| 진태경 | 김 집사 | client_to_butler | Butler Kim | formal-deferential | Taekyung addresses him as 김 집사님. |
+| 최 팀장 | 김 집사 | employer_to_butler | Butler Kim | formal-polite | Choi addresses him as 김 집사님. |
+| 김 집사 | 진태경 | butler_to_hunter_client | Hunter | deferential | Butler Kim refers to Taekyung as 헌터님. |
+| 임꺽정 | 송 양 | older_guild_member_to_younger_female_guild_member | Miss Song | hearty-casual | Im Kkeokjeong calls her 송 양. |
+| 진태경 | 송송이 | guild_member_to_guild_member | Miss Song | formal-polite | Taekyung repeatedly uses 송이 씨 while introducing himself and attempting to court Song Song. |
+| 송송이 | 진태경 | guild_member_to_guild_member | Taurus | casual-teasing | Song Song refers to Taekyung by his zodiac sign when calling him to the meal. |
+| 진태경 | 김 집사 | junior_to_senior_Hunter | Senior | deferential | After learning that Butler Kim trained at the same Nonsan regiment and battalion, Taekyung addresses him as 선배님. |
+| 김 집사 | 최 팀장 | butler_to_employer | Young Master | deferential | Butler Kim addresses Choi as 도련님 when agreeing to follow his decision about Guild titles. |
+| 임창수 | 혜린 | sponsor_to_sponsored_lover | Hye-rin | condescending-casual | Changsoo refers to himself as this oppa while claiming he will protect her. |
+| 최 팀장 | 임꺽정 | guild_team_leader_to_guild_member | Hunter Im | formal-polite | Choi addresses Kkeokjeong as 임 헌터님 while telling him to put on the equipment. |
+| 임창수 | 진태경 | rival_guild_team_leader_to_guild_member | Mr. Jang Taekyung | mock-formal and condescending | Changsoo deliberately uses the wrong surname, then dismisses whether Taekyung is Jin or Jang. |
+| 진태경 | 임창수 | guild_member_to_rival_guild_team_leader | Shit Changsoo | insulting-casual | Taekyung’s retaliatory surname pun after Changsoo misnames him. |
+| 임창수 | 송송이 | rival_guild_team_leader_to_guild_member | Miss Song | mock-polite | Uses 송송이 씨 while proposing that Song Song join Sangdong Guild. |
+| 송송이 | 임창수 | guild_member_to_rival_guild_team_leader | Shit Changsoo—no, Im Changsoo | blunt but polite | Insults Changsoo with 씹창 and then corrects herself to his proper name while rejecting him. |
+| 송송이 | 김 집사 | guild_member_to_guild_master | Guild Master | formal-polite | Requests the Guild Master’s permission before changing Guilds under the wager. |
+| 송송이 | 최 팀장 | guild_member_to_team_leader | Team Leader | formal-polite | Asks Choi whether he accepts her possible Guild transfer if the bet is lost. |
+| 송송이 | 임꺽정 | younger_guild_member_to_older_guild_member | Uncle | casual-polite | Song Song uses 아저씨 while asking Im Kkeokjeong to agree that Changsoo is nasty. |
+| 김 집사 | 임창수 | guild_master_to_rival_guild_member | Changsoo | mock-polite | Butler Kim uses 창수 씨 while accusing Changsoo of refusing to pay. |
+| 지점장 | 임춘수 | bank_branch_manager_to_guild_master | Guild Master | formal-deferential | The K Bank branch manager addresses Im Chunsoo as 길드장님 while reporting Changsoo's transfer. |
+| 임춘수 | 임창수 | father_to_son | Changsoo | furious-parental | Im Chunsoo uses Changsoo's name alongside hostile forms such as that bastard and you little shit. |
+| 하연 | 진태경 | younger_sister_to_older_brother | oppa | casual-familiar; pleading for important requests | Hayeon habitually puts 오빠 first when making an important request. |
+| 김정희 | 사장님 | employee_to_restaurant_owner | Boss | formal-polite, becoming firm | Uses the owner's title while demanding an apology and defending Taekyung. |
+| 사장님 | 김정희 | restaurant_owner_to_employee | Ajumma | condescending-casual | Repeatedly uses 아줌마 while berating Kim Jeonghee. |
+| 진태경 | 김정희 | son_to_mother | Mom | casual-familiar and affectionate | Taekyung's first words after entering the restaurant and seeing his mother. |
+
+## Exact glossary matches
+
+| 무림     | **Murim**          |
+| 진태경    | **Jin Taekyung**   |
+| 임창수    | **Im Changsoo**   |
+| 일류     | **First Rate**    |
+| 고수     | **master**                                       | Strong/skilled martial artist                         |
+| 기세     | **aura** / **momentum**                          | Depends on scene                                      |
+| 등급               | **Grade**                      | System/UI field for quest, item, and martial-art classifications; do not use “Rank” here |
+| 헌터      | **Hunter**            |
+| 게이트     | **Gate**              |
+| 길드      | **Guild**             |
+| 길드장     | **Guild Master**      |
+| 팀장      | **Team Leader**       |
+| 김정희 | **Kim Jeonghee** | Jin Taekyung and Hayeon's mother; restaurant kitchen worker |
+| 성진호 | **Seong Jinho** |
+| 부천 | **Bucheon** | City with a dense concentration of Gates and Guild headquarters. |
+| 아줌마 | **ajumma** | Familiar term for a middle-aged or married woman, used for Kim Jeonghee |
+| 사장님 | **Boss** | Address for the restaurant owner; contextually rendered as ma'am in one reply |
+
+## Listed compact profiles
+
+### Jin Taekyung.md
+
+# Jin Taekyung (진태경)
+
+- **Safe through:** Chapter 87
+- **Aliases:** Sleeping Dragon of Shanxi
+- **Role:** Modern-world protagonist; recently fired after seven years at his job; C-rank Hunter who defeated eight B-rank Minotaurs and killed a Level 70 B-rank Minotaur Warrior in one blow; First Rate martial artist standing before the Peak realm; youngest son of the Jin Family of Taiyuan
+- **Personality:** Hungry, self-aware, dryly observant, and willing to take a questionable opportunity when desperate; treats the impossible as a game until the danger becomes undeniable
+- **Voice:** First-person, conversational, dryly self-mocking; uses vivid trap-and-prey imagery, game jargon, and occasional profanity
+- **Relationships:** Jin Mukyung’s younger brother and current student; son of a deceased father; supports his mother and younger sibling
+
+### Kim Jeonghee.md
+
+# Kim Jeonghee (김정희)
+
+- **Safe through:** Chapter 87
+- **Aliases:** Hayeon's mom, Taekyung's mom, Ajumma
+- **Role:** Fifty-year-old mother of Jin Taekyung and Hayeon; a restaurant kitchen worker who has worked at the current restaurant for over a year.
+- **Personality:** Usually quiet, gentle, patient, and family-protective; becomes fierce when Taekyung or her family is insulted.
+- **Voice:** Normally deferential and apologetic at work; calm and direct when defending her family, with sudden profanity under extreme provocation.
+- **Relationships:** Widow and mother of Jin Taekyung and Hayeon; her deceased husband lovingly called her Jeonghee.
+
+### Seong Jinho.md
+
+# Seong Jinho (성진호)
+
+- **Safe through:** Chapter 75
+- **Aliases:** Jinho; Mr. Seong Jinho
+- **Role:** Manager of Hope Goshiwon; thirty-year-old exam candidate; civilian and Taekyung’s older friend
+- **Personality:** Knowledgeable about IT, shamelessly blunt, melodramatic when threatened, and a heavy drinker
+- **Voice:** Casual and teasing; invokes laws and hierarchy for comic effect; speaks informally to Taekyung while demanding respect as his older brother
+- **Relationships:** Three years older than Jin Taekyung; treats him as a younger brother and drinking companion
+
+## Korean source
+
+```text
+＃88화
+
+
+
+“아들?”
+
+나를 발견한 그녀의 눈이 크게 뜨인다. 음식점 상호명이 적힌 앞치마와 기름때 묻은 고무장갑을 낀 엄마. 우리 엄마.
+
+놀란 얼굴은 곧 당혹감으로 바뀌었다.
+
+“태, 태경이 네가 여긴 어떻게?”
+
+당황하는 엄마를 향해 씩 웃어 준 그때, 앙칼진 목소리가 귓가를 파고들었다.
+
+“그쪽이 김씨 아줌마 아들이야?”
+
+경계 어린 눈빛으로 나를 훑어보는 중년 여자.
+
+누군지, 뭐 하는 사람인지 물어볼 필요도 없다. 이미 이 여자의 정체를 알고 있으니까.
+
+“안녕하세요, 진태경이라고 합니다.”
+
+“어? 흠흠. 그래.”
+
+예의 바르게 허리까지 숙이는 내 모습에 괜한 헛기침을 내뱉은 사장이 물었다.
+
+“그런데 여기는 갑자기 어쩐 일로 왔어?”
+
+빙긋 웃으며 대답했다.
+
+“아들이 엄마 보러 오는데 이유가 필요한가요.”
+
+“이유?”
+
+사장의 눈매가 가늘어졌다.
+
+“젊은 사람이라 그런가 생각이 짧네. 이렇게 불쑥 찾아오면 사장인 내 기분은 어떻겠어?”
+
+“음. 기분 나쁘시겠죠.”
+
+“그래!”
+
+“점심시간이라 가게는 미어터지고, 주방이든 홀이든 눈코 뜰 새 없이 바쁘고.”
+
+“……그렇지.”
+
+“그런데 갑자기 직원 아들이 말도 없이 찾아왔다? 사장님 입장에서는 기분 나쁘실 수 있죠. 충분히 이해합니다.”
+
+“자, 잘 아네.”
+
+이 자식 뭐지? 지금 사장이 딱 그런 생각일 거다.
+
+혼란스러워하는 사장의 반응을 뒤로하고 엄마의 팔을 잡아당겼다.
+
+“그런 의미에서 저희는 이만 가 보겠습니다. 엄마, 옷 갈아입고 나가자.”
+
+“뭐?”
+
+“아, 아들?”
+
+당황하는 두 사람.
+
+나는 천연덕스러운 표정으로 물었다.
+
+“왜요?”
+
+“왜요라니, 왜요라니!”
+
+“혹시 무슨 문제라도?”
+
+“어린노무 자식이 어른을 갖고 놀아? 방금 했던 말은 다 까먹었어?”
+
+“아, 바쁜데 찾아오면 기분 나쁘실 거라고 한 거요?”
+
+“그래! 내 입장에서는 기분 나쁠 수도 있다고 네 입으로 말해 놓고 그걸 잊어? 너, 지금 사람 놀리는 거야?!”
+
+“어휴, 놀리긴요.”
+
+“그럼 뭐야?”
+
+“아까 했던 말은 진심입니다. 사장님 입장에서는 충분히 그럴 수 있죠. 그런데…….”
+
+나는 활짝 웃으며 말을 이었다.
+
+“우리 엄마, 이제 그쪽 직원 아니거든요.”
+
+“뭐?”
+
+“이해가 안 되세요? 때려치운다고요. 지금 이 순간부터.”
+
+무거운 침묵이 내려앉았다. 엄마는 멍하니 나만 바라봤고, 얼굴이 검붉은 색으로 변한 사장은 빽 소리쳤다.
+
+“누구 맘대로!”
+
+“우리 맘대로요.”
+
+“내가 이대로 보내 줄 줄 알아!”
+
+“안 보내 주면요?”
+
+“이, 이!”
+
+“삼, 삼! 사, 사!”
+
+딱 거기까지가 한계였다. 사장의 인내심은.
+
+“야, 이 개새끼야!”
+
+쌍욕과 함께 치켜올라 간 손은 목적을 달성하지 못했다.
+
+덥석.
+
+단번에 사장의 손목을 낚아챈 한 사람이 눈을 부릅떴다.
+
+엄마가 일류 고수도 찔끔할 정도로 살벌한 기세를 내뿜으며 씹어뱉었다.
+
+“누구 새끼 몸에 손을 대려고 해, 이 썅년이.”
+
+세상에, 아까 홀에 있을 때 한 번 듣긴 했지만 엄마가 욕하는 모습은 난생처음 본다. 자식 앞에서는 다른 사람 뒷담화도 안 하시는 분인데…….
+
+“그리고 뭔 새끼? 개새끼는 네 아들이 개새끼고. 이 돼지 같은 여자야!”
+
+“저게 아까부터 진짜! 야!”
+
+엄마에게로 달려드는 사장을 내가 가로막았다.
+
+나도 어딜 가도 눈에 띌 만큼 한 체격 한다. 두 중년 여성 사이에 가만히 서 있기만 해도 충분했다.
+
+“어허. 진정하세요, 진정.”
+
+“비켜, 안 비켜? 너희가 이러고도 무사할 것 같아!”
+
+“네, 등 따시고 배부르게 살 것 같은데요?”
+
+“으이이익!”
+
+눈이 뒤집힌 사장이 괴성과 함께 마구잡이로 팔을 휘두르기 시작했다. 물론 내게는 하나도 위협이 되지 않는 공격이었다.
+
+‘공격이라고 부르기도 민망하네.’
+
+게이트나 무림에서 상대한 적들을 생각하면 파리 날갯짓이나 다름없다. 근골, 근맥에 맷집까지 엄청나게 상승한 지금은 어지간한 성인 남성이 때린다 해도 간지러운 정도다.
+
+“그만하세요. 지금 엄청 힘들어 보이시는데.”
+
+예상대로 사장의 발악은 금방 끝났다.
+
+50대에 접어든 나이와 고도 비만에 이른 몸뚱어리에는 한계가 분명했으니까.
+
+“헉, 허억, 헌터라는 놈이 민간인을 핍박해?”
+
+이런 멘트를 칠 줄이야. 나는 사장의 뇌구조에 감탄했다.
+
+“제가요? 그쪽을?”
+
+“나 다친 거 안 보여? 손톱 부러져서 피 나잖아!”
+
+“그거야 아줌마가 나 때리다가 혼자 다친 거고. 전 여기 가만히 서 있기만 했는데 왜 혼자 부들부들 하세요.”
+
+“어쨌든!”
+
+이 정도면 지랄이 풍작이다. 슬쩍 주위를 둘러보니 주방 직원들은 물론이고 홀의 손님들도 질린 얼굴로 사장의 스탠딩 코미디를 바라보고 있었다.
+
+“뭐 납득 못 하겠으면 경찰 부르시든가요. 여기 증인 한 50명은 되니까 딱 좋네.”
+
+“…….”
+
+“안 불러요? 헌터 때문에 다쳐서 피 났으니까 경찰서 가서 조서 쓰고 고소도 하고, 변호사도 고용하셔야지. 내일부터 바빠지시겠네.”
+
+좀 더 놀려 주려고 했는데, 얘기를 하면 할수록 시간이 아까워진다. 나는 혀를 쯧쯧 찼다.
+
+“사장이 무슨 시장이라도 됩니까? 주변 사람들 피곤하게 하지 말고 심보 좀 곱게 써요. 그럼 이만 갑니다.”
+
+돌아서려던 그때였다. 분한 얼굴을 하고 있던 사장의 입꼬리가 비틀렸다.
+
+“너, 부천 산다며?”
+
+“그런데요.”
+
+“부천 어디 길드야?”
+
+“말하면 압니까?”
+
+“내 아들이 알지. 우리 민수도 부천에서 헌터 하거든.”
+
+“아, 그래요?”
+
+“듣자 하니 헌터들끼리는 한두 다리 건너면 다 아는 사이라며? 그 바닥에서 소문 안 좋게 나면 얼마나 버틸지 모르겠네.”
+
+“저 성실하고 실력 좋다고 소문났으니까 오래 버틸 겁니다. 됐어요?”
+
+“김민수 알아? 우리 아들 부천에서 유명할 텐데.”
+
+김민수? 알지. 지난 7년 동안 스쳐 지나간 민수만 서른 명이 넘을 거다. 나는 심드렁하게 대꾸했다.
+
+“성진호 아세요? 우리 고시원에서 제일 유명한데.”
+
+“풋, 고시원? F급 헌터라 그런가, 수준 알 만하네. 벌이가 그 정도로 시원찮아?”
+
+“걱정해 주셔서 참 감사하긴 한데…… 나름 시원시원하게 법니다. 어제도 40억 벌었고요.”
+
+“얼마?”
+
+“40억이요.”
+
+유치하게 돈 자랑까지 하고 싶진 않았는데, 기어이 잠자는 사자의 코털을 건드리는구나.
+
+그러나 한 가지 깜빡한 사실이 있었다. 사람들은 항상 자신이 가진 상식에서 모든 판단을 내린다는 것.
+
+“40억? F급 헌터가 저렇게 많이 벌어?”
+
+“당연히 허세지. 아는 헌터가 그러는데, F급이면 진짜 빡세게 해야 1억 정도 번다더라. 그리고 방금 못 들었어? 연봉이 아니라 어제 하루 만에 40억 벌었다고 한 거. 로또도 아니고 그게 말이 되냐?”
+
+“에이, 난 또 진짜인 줄 알았네.”
+
+홀의 손님들은 물론이고 은근히 나를 응원하는 기색이던 주방 직원들도 떨떠름한 눈빛으로 변했다.
+
+하긴, 내가 생각해도 허무맹랑한 이야기긴 하다.
+
+“아들, 사실이야?”
+
+눈을 동그랗게 뜬 엄마의 물음에 사장이 코웃음 쳤다.
+
+“퍽이나 사실이겠다. 우리 민수도 그렇게는 못 벌어.”
+
+“아까부터 궁금했는데, 그 유명하다는 민수 씨 등급이 어떻게 되세요? A급?”
+
+“D급 헌터야.”
+
+“…….”
+
+“왜, 너무 높아서 당황스러워?”
+
+“아니, 뭐…… 솔직히 당황스럽긴 하네요.”
+
+워낙 당당하게 말해서 몽키.D.민수 정도는 되는 줄 알았네.
+
+‘부천에 유명한 D급 헌터가 어디 있어.’
+
+순간 말문이 막힌 내 모습을 오해했는지 사장이 피식피식 비웃음을 흘린다.
+
+“우리 아들처럼 D급 헌터는 돼야 어디 가서 대접받고 살지. F급은 부끄러워서 말이나 할 수 있겠어?”
+
+“그렇게 부끄럽지는 않았는데요. 말도 잘했고.”
+
+“그래도 무시는 받겠지. 헌터들 사이에서는 등급이 깡패잖아.”
+
+“아, 예. 등급이 깡패죠.”
+
+“내 전화 한 통이면 민수가…….”
+
+“예, 예.”
+
+내가 건성으로 대답하며 주머니를 뒤적거리자 사장이 눈썹을 치켜뜬다.
+
+“이게 어른이 말하고 있는데. 우리 민수한테 혼나고 싶어?”
+
+“잠깐 찾을 게 있어서요. 아, 여기 있다.”
+
+“이게 뭔데?”
+
+“궁금하면 직접 보세요.”
+
+지갑에 포인트 카드며 할인 쿠폰이 너무 많아서 찾는 것도 일이다. 내가 건넨 얇은 은색 카드를 확인한 사장이 입을 벌렸다.
+
+“……C급 헌터?”
+
+“개인적으로는 헌터는 등급이 깡패라고 생각하는데, 사장님 생각은 어떠세요?”
+
+“마, 말도 안 돼. 분명히 F급이라고 들었는데…….”
+
+“F급이었죠. 지금은 C급이고. 정보 업데이트가 많이 느리시네.”
+
+“이, 이거 가짜 아니야? 우리 민수 자격증이랑 색깔이 완전히 다르잖아!”
+
+“그 자격증, 황동색이죠?”
+
+“…….”
+
+“저도 예전에 그거 썼어요. 하급 헌터들은 황동색, 중급 헌터들은 은색. 이건 모르셨나 보네.”
+
+곳곳에서 숨죽인 웃음이 터져 나왔다.
+
+한순간에 반전된 분위기. 엄마는 뿌듯한 미소를 지으며 내 팔짱을 꼈고, 사장은 벌겋게 달아오른 얼굴로 변명을 시작했다.
+
+“허, 헌터 등급이 중요해? C급이나 D급이나 겨우 한 단계 차이인데 거기서 거기지.”
+
+이게 말이야, 방구야. 말도 안 되는 발악을 보고 있자니 헛웃음밖에 안 나온다.
+
+“헌터 등급 가지고 사람 무시하던 사람이 할 말은 아닌 것 같은데.”
+
+“사람이 직급만 중요해? 회사가 어디인지가 더 중요하지. 중소기업 과장보다는 대기업 대리를 더 쳐주잖아. 내 말이 틀려?”
+
+“그건 모르겠고…… 일단 여기 계신 손님들은 동의 못 하시는 것 같은데요?”
+
+나는 홀을 꽉 채운 손님들을 가리켰다. 중소기업의 직장인 수십 명이 기분 나쁘다는 표정을 숨기지 않은 채로 사장을 노려보고 있었다.
+
+“저 아줌마 뭐야?”
+
+“아, 입맛 확 떨어지네.”
+
+“아직 음식도 안 나왔는데 그냥 갈까?”
+
+“그래, 가자. 가.”
+
+“다들 자리 옮기지. 요 앞에 백반집 괜찮은 곳 있어. 내가 대기업 대리는 못 돼도 중소기업 과장이니까 한 턱 쏜다.”
+
+드르륵.
+
+중년 아저씨의 한마디에 대여섯 명의 부하 직원들이 뒤따라 일어났다. 그런 광경이 홀 곳곳에서 벌어지고 있었다.
+
+“손님, 그게 아니고요. 손님!”
+
+“아니긴 뭐가 아닙니까. 내가 여기 다신 오나 봐라.”
+
+“지금 주문 들어갔는데 이렇게 가시면…….”
+
+“주방 꼴 보니까 한 시간은 걸릴 텐데, 뭘. 됐고, 저희도 이만 갑니다.”
+
+홀 직원들의 만류에도 사람들이 썰물처럼 빠져나갔다. 1분 남짓한 시간이 흐르자 홀에 남아 있는 손님은 열 명도 채 되지 않았다.
+
+‘크, 가게 망하는 소리가 벌써부터 들리는구나.’
+
+사장은 이미 분노와 당황으로 몸을 부들부들 떨고 있었다.
+
+“너, 너희들…….”
+
+“그래서 아드님이 어느 길드시라고요?”
+
+“우리 민수가 상동 길드에서도 아주 잘나가는 헌터야! 너 하나쯤은…….”
+
+“네? 어디요?”
+
+“상동 길드! 거기서 집도 주고 차도 주고.”
+
+“아, 상동 길드. 잠시만 기다려 보시겠어요?”
+
+이런 기막힌 우연이 있나. 웃음을 꾹꾹 참으며 스마트폰을 꺼내어 전화를 걸었다.
+
+뚜, 뚜, 뚜. 달칵.
+
+- 어, 어쩐 일로?
+
+“어쩐 일이긴, 우리가 일 있어야 연락하는 사이였어?”
+
+- ……약속한 40억은 보내 드렸는데요.
+
+“아, 그거 확인했지. 잘 받았어.”
+
+스피커 모드를 통해 이어지는 대화를 모든 사람이 들었다.
+
+40억. 앞서 했던 말이 사실임이 밝혀지자 하나같이 눈이 툭 튀어나온다. 나는 쏟아지는 시선을 무시하고 용건을 꺼냈다.
+
+“너 혹시 김민수라고 아냐?”
+
+- 김민수요? 처음 듣는 이름인데.
+
+“상동 길드 팀장이라는 놈이 그것도 몰라? 너희 길드 소속 D급 헌터래.”
+
+- ……널리고 널린 게 D급 헌턴데 제가 어떻게 압니까. 이것 때문에 전화하신 거예요?
+
+“응, 끊어.”
+
+돈 떼일까 봐 임창수의 명함을 받아 놓은 게 신의 한 수다.
+
+뚝, 전화를 끊자 사장이 더듬거리는 목소리로 묻는다.
+
+“누, 누구라고?”
+
+“못 들으셨어요? 상동 길드 팀장이에요. 쉽게 말하면 민수 씨 직장 상사.”
+
+“……팀장? 상사?”
+
+“아, 하나 더 추가하자면 민수 씨가 잘 보여야 할 미래의 고용주기도 하죠. 이 친구 아버지가 상동 길드 길드장이거든요.”
+
+“…….”
+
+백지장처럼 새하얘진 얼굴. 더 이상 말 섞을 이유도, 필요도 없다. 나는 엄마를 향해 고개를 돌렸다.
+
+“이제 가요.”
+
+“그럴까? 아들.”
+
+우리 엄마, 김정희 여사는 활짝 웃으며 작업복을 싱크대에 처박았다. 아, 물론 사장을 향한 한마디도 잊지 않았다.
+
+“부모면 부모답게 똑바로 살아. 이 아줌마야. 어디서 남의 귀한 자식을 함부로 입에 담아?”
+
+마지막 한 방.
+
+사장은 대답 대신 고개를 푹 숙였고, 우리는 가벼운 발걸음으로 가게를 빠져나왔다.
+
+“아들, 밥 먹었어? 집에 청국장이랑 김치전 있는데.”
+
+“이야, 진수성찬이네.”
+
+날씨 참 좋다.
+```
+
+## Final English reading copy
+
+```markdown
+# Chapter 88
+
+“Son?”
+
+Her eyes widened when she saw me.
+
+My mother was wearing an apron with the restaurant’s name printed on it and a pair of rubber gloves smeared with grease.
+
+My mother.
+
+Her surprised expression soon turned to bewilderment.
+
+“Ta-Taekyung, what are you doing here?”
+
+I gave my flustered mother a broad grin. That was when a shrill voice pierced my ear.
+
+“So you’re the son of Kim ajumma[^2]?”
+
+A middle-aged woman was looking me over warily.
+
+There was no need to ask who she was or what she did. I already knew.
+
+“Hello. My name is Jin Taekyung.”
+
+“Huh? Ahem. Yes.”
+
+The owner gave an unnecessary cough after seeing me bow politely from the waist.
+
+“But what brings you here all of a sudden?”
+
+I answered with a pleasant smile.
+
+“Does a son need a reason to visit his mother?”
+
+“A reason?”
+
+The owner narrowed her eyes.
+
+“Maybe it’s because you’re young, but you’re awfully thoughtless. If someone showed up out of the blue like this, how would you feel if you were the owner?”
+
+“Hmm. I suppose I’d be upset.”
+
+“Exactly!”
+
+“It’s lunchtime, the restaurant is packed, and everyone in the kitchen and dining area is so busy they can barely see straight.”
+
+“…That’s right.”
+
+“And then an employee’s son suddenly shows up without saying a word? From your perspective, Boss, I can understand why you’d be upset. Completely.”
+
+“Y-you do understand.”
+
+*What the hell is this kid?*
+
+That was probably exactly what the owner was thinking.
+
+Ignoring her confused reaction, I grabbed my mother by the arm.
+
+“In that case, we’ll be going now. Mom, go change so we can leave.”
+
+“What?”
+
+“S-son?”
+
+The two of them stared at me in bewilderment.
+
+I asked with an innocent expression,
+
+“Why?”
+
+“What do you mean, why? Why?!”
+
+“Is there some kind of problem?”
+
+“You little punk, are you making fun of an adult? Did you already forget everything you just said?”
+
+“Oh, you mean when I said you might be upset if someone came by while you were busy?”
+
+“Yes! You said yourself that I might be upset, and now you’ve forgotten already? Are you making fun of me right now?!”
+
+“Oh, come on. I’m not making fun of you.”
+
+“Then what is this?”
+
+“What I said before was sincere. From your perspective, Boss, you had every right to feel that way. But…”
+
+I continued with a bright smile.
+
+“My mother isn’t your employee anymore.”
+
+“What?”
+
+“Is that hard to understand? She’s quitting. Starting right now.”
+
+A heavy silence settled over the restaurant.
+
+My mother stared at me blankly, while the owner’s face turned dark red before she shrieked,
+
+“Who said you could do that?!”
+
+“We did.”
+
+“You think I’ll just let you take her away?”
+
+“What happens if you don’t?”
+
+“Y-you!”
+
+“T-three, three! F-four, four!”
+
+That was as far as the owner’s patience went.
+
+“Hey, you fucking son of a bitch!”
+
+The hand she raised along with her vicious curse never reached its target.
+
+Grab!
+
+Someone caught the owner’s wrist in a single motion and glared at her.
+
+My mother spat the words out with an aura fierce enough to make even a First Rate master flinch.
+
+“Whose son do you think you’re laying a hand on, you fucking bitch?”
+
+Good Lord.
+
+I had heard her swear once earlier in the dining area, but this was the first time in my life I had seen my mother curse like this. She never even spoke ill of other people in front of her children, and yet…
+
+“And who are you calling a son of a bitch? Your son is the son of a bitch, you pig!”
+
+“You’ve been getting on my nerves from the start! Hey!”
+
+The owner charged at my mother, but I stepped in front of her.
+
+I was big enough to stand out wherever I went. Simply standing between the two middle-aged women was more than enough.
+
+“Now, now. Calm down. Please calm down.”
+
+“Move! Are you going to move or not? Do you think you’ll get away with this?”
+
+“Yes. I think we’ll live quite comfortably.”
+
+“Gaaaah!”
+
+The owner’s eyes rolled back as she began wildly swinging her arms with a scream.
+
+Of course, none of her attacks posed the slightest threat to me.
+
+*Calling that an attack is embarrassing.*
+
+Compared to the enemies I had faced in Gates and the Murim, her attacks were no more dangerous than the fluttering of a fly’s wings. With my bones, muscles, tendons, and ability to take a hit all dramatically enhanced, even a punch from an ordinary adult man would only tickle.
+
+“Please stop. You look like you’re having a really hard time.”
+
+As expected, the owner’s struggle ended quickly.
+
+She was now in her fifties and morbidly obese; her body clearly had its limits.
+
+“Huff, huff! You Hunter bastard, are you bullying a civilian?”
+
+That she could come out with a line like that—I had to marvel at how the owner’s brain worked.
+
+“Me? Bullying you?”
+
+“Can’t you see that I’m hurt? My fingernail broke and it’s bleeding!”
+
+“You hurt yourself hitting me. I’ve just been standing here, so why are you shaking all by yourself?”
+
+“Whatever!”
+
+This was a bumper crop of bullshit.
+
+I glanced around. The kitchen employees, along with the customers in the dining area, were watching the owner’s stand-up routine with exhausted expressions.
+
+“If you can’t accept what happened, call the police. There must be about fifty witnesses here, so that should work out nicely.”
+
+“…”
+
+“Not going to call? Since you were injured and bled because of a Hunter, you should go to the police station, give a statement, file a complaint, and hire a lawyer. You’ll be busy starting tomorrow.”
+
+I had intended to tease her a little longer, but the more we talked, the more I felt my time slipping away. I clicked my tongue.
+
+“What are you, the mayor? You’re only the owner. Don’t make everyone around you miserable, and try to have a better attitude. We’re leaving.”
+
+I was about to turn around when the owner, her face twisted with resentment, crooked her lips.
+
+“You live in Bucheon, don’t you?”
+
+“So?”
+
+“Which Guild in Bucheon are you with?”
+
+“Would it mean anything if I told you?”
+
+“My son would know. Our Minsu is a Hunter in Bucheon, too.”
+
+“Oh, really?”
+
+“I hear Hunters all know one another after only a degree or two. I wonder how long you’ll last if you get a bad reputation in that line of work.”
+
+“I have a reputation for being hardworking and skilled, so I’ll be around for a long time. Happy?”
+
+“Do you know Kim Minsu? My son must be famous in Bucheon.”
+
+Kim Minsu?
+
+Of course I knew him. Over the past seven years, I had probably crossed paths with more than thirty people named Minsu.
+
+I answered indifferently,
+
+“Do you know Seong Jinho? He’s the most famous person in our goshiwon.[^1]”
+
+“Pfft, a goshiwon? I suppose that’s the level you’d expect from an F-rank Hunter. Is business really that bad?”
+
+“It’s kind of you to worry, but I make a decent living. I made four billion won just yesterday.”
+
+“How much?”
+
+“Four billion won.”
+
+I hadn’t wanted to boast about money like a child, but she just had to tug on a sleeping lion’s nose hairs.
+
+There was one thing I had forgotten, though.
+
+People always made their judgments based on the common sense they possessed.
+
+“Four billion won? An F-rank Hunter made that much?”
+
+“Obviously, he’s bluffing. A Hunter I know said an F-rank Hunter has to work like hell to make even a hundred million won. And did you hear him? He said he made four billion won in a single day, not in a year. It’s not like he won the lottery. Does that make any sense?”
+
+“Geez, I almost thought he was telling the truth.”
+
+The customers in the dining area, along with the kitchen employees who had quietly seemed to be rooting for me, began looking at me doubtfully.
+
+Well, even I had to admit it sounded absurd.
+
+“Son, is that true?”
+
+My mother’s eyes went round.
+
+The owner snorted.
+
+“As if it’s true. Even my Minsu can’t make that much.”
+
+“I’ve been wondering. What rank is this famous Minsu of yours? A-rank?”
+
+“He’s a D-rank Hunter.”
+
+“…”
+
+“What? Is that too high for you to believe?”
+
+“No, well… I’ll admit I’m a little surprised.”
+
+She had sounded so confident that I had thought her son was at least Monkey D. Minsu.
+
+*Where is there a famous D-rank Hunter in Bucheon?*
+
+Perhaps she mistook my momentary silence for shock. The owner let out a series of derisive chuckles.
+
+“A D-rank Hunter like my son is the kind of person who gets respect wherever he goes. An F-rank Hunter must be too embarrassed to even admit what he does for a living.”
+
+“I wasn’t that embarrassed. I spoke just fine.”
+
+“You still get looked down on. Among Hunters, rank is everything.”
+
+“Ah, yes. Rank is everything.”
+
+“If I make one phone call, Minsu will…”
+
+“Yes, yes.”
+
+As I answered halfheartedly and rummaged through my pocket, the owner raised her eyebrows.
+
+“An adult is talking to you. Do you want my Minsu to teach you a lesson?”
+
+“I’m just looking for something. Ah, here it is.”
+
+“What is that?”
+
+“If you’re curious, take a look.”
+
+I had so many point cards and discount coupons in my wallet that finding anything was a chore. When the owner examined the thin silver card I handed her, her mouth fell open.
+
+“…C-rank Hunter?”
+
+“Personally, I think rank is everything for Hunters. What do you think, Boss?”
+
+“N-no way. I heard you were F-rank…”
+
+“I was F-rank. I’m C-rank now. You’re pretty slow when it comes to getting updated information.”
+
+“I-isn’t this fake? The color is completely different from my Minsu’s license!”
+
+“His license is brass-colored, right?”
+
+“…”
+
+“I used one of those myself in the past. Lower-rank Hunters have brass-colored licenses, while mid-rank Hunters have silver ones. You didn’t know that?”
+
+Suppressed laughter erupted from all around us.
+
+The atmosphere had flipped in an instant.
+
+My mother slipped her arm through mine with a proud smile, while the owner’s face turned bright red and she began making excuses.
+
+“D-does a Hunter’s rank really matter? C-rank and D-rank are only one step apart. They’re practically the same.”
+
+*What kind of logic was that supposed to be?*
+
+All I could do was give a hollow laugh at her absurd struggle.
+
+“That’s not something a person who looked down on someone for their Hunter rank should be saying.”
+
+“Are titles all that matter? The company you work for matters more. People respect an assistant manager at a major corporation more than a section manager at a small company. Am I wrong?”
+
+“I don’t know about that, but the customers here don’t seem to agree with you.”
+
+I gestured toward the customers filling the dining area.
+
+Dozens of office workers from small and midsize companies were glaring at the owner without bothering to hide their displeasure.
+
+“What’s with that ajumma?”
+
+“My appetite’s completely gone.”
+
+“The food hasn’t even come out yet. Should we just leave?”
+
+“Yeah. Let’s go.”
+
+“Everyone, move tables. There’s a decent set-meal place right up ahead. I may not be an assistant manager at a major corporation, but I’m a section manager at a small business, so lunch is on me.”
+
+Scrape.
+
+At the middle-aged man’s words, five or six of his subordinates stood and followed him.
+
+Similar scenes began unfolding throughout the dining area.
+
+“Customers, that’s not what happened. Customers!”
+
+“What do you mean, it’s not? Just watch me never come back here.”
+
+“But your orders have already gone in. If you leave like this…”
+
+“Looking at that kitchen, it’ll take an hour anyway. Enough. We’re leaving.”
+
+Despite the dining staff’s attempts to stop them, the customers streamed out like the tide going out.
+
+After barely a minute had passed, fewer than ten customers remained in the dining area.
+
+*Damn. I can already hear the sound of this place going under.*
+
+The owner was trembling with anger and bewilderment.
+
+“You… You people…”
+
+“So which Guild did your son say he was with?”
+
+“Our Minsu is one of the top Hunters in Sangdong Guild! Someone like you…”
+
+“What? Which Guild?”
+
+“Sangdong Guild! They even gave him a house and a car.”
+
+“Oh, Sangdong Guild. Could you wait just a moment?”
+
+What an incredible coincidence.
+
+Holding back my laughter, I pulled out my smartphone and made a call.
+
+Beep. Beep. Beep. Click.
+
+“Uh, what is it?”
+
+“Were we only supposed to call each other when we had business?”
+
+“…I sent you the promised four billion won, though.”
+
+“Ah, I checked that. It came through fine.”
+
+The entire conversation continued over speakerphone, loud enough for everyone to hear.
+
+Four billion won.
+
+The moment it became clear that what I had said earlier was true, everyone’s eyes seemed ready to pop out of their heads. I ignored all the attention and got to the point.
+
+“Do you happen to know a Kim Minsu?”
+
+“Kim Minsu? That’s the first I’ve heard of him.”
+
+“You’re a Team Leader in Sangdong Guild and you don’t even know that? They say he’s a D-rank Hunter in your Guild.”
+
+“D-rank Hunters are a dime a dozen. How would I know all of them? Is that why you called?”
+
+“Yeah. Bye.”
+
+Taking Im Changsoo’s business card in case he tried to stiff me had been a stroke of genius.
+
+Click.
+
+As soon as I hung up, the owner asked in a faltering voice,
+
+“W-who was that?”
+
+“Didn’t you hear? He’s the Team Leader of Sangdong Guild. In simple terms, he’s Mr. Minsu’s boss.”
+
+“…Team Leader? His boss?”
+
+“Oh, and one more thing. He’s also a future employer Mr. Minsu will want to impress. His father is the Guild Master of Sangdong Guild.”
+
+“…”
+
+Her face went white as a sheet.
+
+There was no longer any reason or need to exchange another word with her. I turned toward my mother.
+
+“Let’s go now.”
+
+“Should we, son?”
+
+My mother, Kim Jeonghee, flashed a broad smile and shoved her work clothes into the sink.
+
+Of course, she didn’t forget to leave the owner with one final remark.
+
+“Live like a parent should, you ajumma. Where do you get off casually running your mouth about someone else’s precious child?”
+
+That was the final blow.
+
+The owner lowered her head without answering, and we left the restaurant with light steps.
+
+“Son, have you eaten? There’s cheonggukjang and kimchi pancakes at home.”
+
+“Wow. What a feast.”
+
+The weather was beautiful.
+
+[^1]: A *goshiwon* is a tiny, inexpensive room-for-rent housing arrangement, often with shared facilities.
+
+[^2]: *Ajumma* is a familiar Korean term for a married or middle-aged woman, commonly used by customers or employers to address service workers.
+```

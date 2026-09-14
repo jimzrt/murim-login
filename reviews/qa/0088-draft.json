@@ -1,0 +1,40 @@
+{
+  "chapter": 88,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.265,
+    "source_characters": 6205,
+    "source_paragraphs": 197,
+    "translation_characters": 14054,
+    "translation_paragraphs": 221
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "unused_footnotes",
+      "details": {
+        "unused_definitions": [
+          "2"
+        ]
+      },
+      "message": "translation contains unused footnote definitions"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "등급",
+        "preferred": "Grade"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "상동",
+        "romanization": "sangdong"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
