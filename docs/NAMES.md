@@ -76,3 +76,10 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 성도 | **Chengdu** | City whose western port is the departure point. |
 | 선화아 | **boatman** | Nautical title used for Mu Song. |
 | 무송 | **Mu Song** | Bronze-skinned boatman associated with the water bandits. |
+| 애향 | **Ae-hyang** | The Sichuan Governor's favorite concubine; covertly manipulative. |
+| 상산왕 | **King of Shangshan** | Noble whose token was carried by Taekyung's group. |
+| 수룡채 | **Water Dragon Stronghold** | Stronghold whose flag flies from the ships carrying Taekyung's group. |
+| 흑룡갑 | **Black Dragon Armor** | The armor's former name; only a fragment survives. |
+| 화룡갑 | **Flame Dragon Armor** | New name Taekyung gives the bound armor fragment. |
+| 열화신공 | **Blazing Flame Divine Art** | Art whose formula Taekyung uses to infuse the armor. |
+| 삼공 | **Grand Councilor** | High office referenced in the Sichuan Governor's ambitions. |

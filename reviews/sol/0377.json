@@ -1,0 +1,126 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "one shichen ago.[^1]",
+      "defect": "The draft changes 식경 to shichen. A sikgyeong is roughly thirty minutes, while a shichen is roughly two hours.",
+      "id": "F01",
+      "rationale": "The source specifies 식경, so the current rendering substantially changes the elapsed time.",
+      "replacement": "one sikgyeong ago.[^1]",
+      "severity": "critical",
+      "source": "한 식경 전에 그들이 탄 장강수로맹의 쾌조선이 출항했습니다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "[^1]: A shichen was a traditional two-hour period.",
+      "defect": "The footnote defines the wrong traditional time unit and therefore reinforces the draft’s incorrect timing.",
+      "id": "F02",
+      "rationale": "The source uses 식경, not 시진.",
+      "replacement": "[^1]: A sikgyeong was the time required to eat a meal, conventionally treated as roughly thirty minutes.",
+      "severity": "major",
+      "source": "한 식경"
+    },
+    {
+      "confidence": 0.97,
+      "current": "The Sichuan Governor had been born into a powerful family that had produced three Grand Councilors and had walked a smooth road throughout his life.",
+      "defect": "The draft reads 삼공 as a quantity of three officials. Here 삼공 is the collective title for the highest ministerial offices, so the source does not state that the family produced exactly three Grand Councilors.",
+      "id": "F03",
+      "rationale": "Removing the invented numerical claim preserves both the family’s political stature and the institutional reference.",
+      "replacement": "The Sichuan Governor had been born into a powerful family that had produced Grand Councilors, and his path through life had always been smooth.",
+      "severity": "critical",
+      "source": "삼공(三公)을 배출한 세도가의 핏줄로 태어나 탄탄대로를 걸어온 사천성주다."
+    },
+    {
+      "confidence": 0.93,
+      "current": "Everything was proceeding exactly as she—or rather, that person—desired.",
+      "defect": "“That person” loses the reverential hierarchy encoded by 그분, weakening the reveal that the concubine is acting under a superior power while the superior’s identity remains unstated.",
+      "id": "F04",
+      "rationale": "The self-correction from 그녀 to honorific 그분 signals a revered superior without identifying or gendering that figure.",
+      "replacement": "Everything was proceeding exactly as she—or rather, the one above her—desired.",
+      "severity": "major",
+      "source": "모든 것은 그녀가, 아니 그분이 원하는 방향으로 흘러가고 있었다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "“Dipping is the correct culture… No, forget that. Just keep dunking their heads in and pulling them out until I tell you to stop.”",
+      "defect": "“The correct culture” is an unnatural literal calque that obscures the deadpan reference to the Korean dip-versus-pour food debate.",
+      "id": "F05",
+      "rationale": "“The civilized way” conveys 올바른 문화 as a mock-cultural judgment while retaining the interrupted joke and instructions.",
+      "replacement": "“Dipping is the civilized way… No, forget that. Just keep dunking their heads in and pulling them out until I tell you to stop.”",
+      "severity": "minor",
+      "source": "찍먹은 올바른 문화……가 아니라, 그냥 제가 멈추라고 할 때까지 계속 머리통만 담갔다가 빼 주시면 됩니다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“…To me?”",
+      "defect": "The draft misreads the anticlimactic vocalization 에게? as a grammatical question about a recipient.",
+      "id": "F06",
+      "rationale": "The narration explicitly describes a deflated sound prompted by the tiny fragment, not a question meaning “to me.”",
+      "replacement": "“…Huh?”",
+      "severity": "minor",
+      "source": "그리고 저절로 흘러나오는 김빠진 소리.\n\n“……에게?”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "The terrifying aura of a slaughter demon transformed into the appearance of the Divine Physician’s Disciple and a cheerful young physician-in-training in an instant.",
+      "defect": "The draft changes the subject from Mungyeong, the Slaughter Saint, into an aura and replaces his established title with the generic “slaughter demon.”",
+      "id": "F07",
+      "rationale": "살성 is Mungyeong’s established title and the person himself performs the rapid change of persona.",
+      "replacement": "The terrifying Slaughter Saint transformed into the Divine Physician’s Disciple—a cheerful young physician-in-training—in an instant.",
+      "severity": "critical",
+      "source": "무시무시한 살성이 신의의 제자이자 밝은 소년 의생의 모습으로 변하는 것은 순식간이었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Black Dragon Armor?”\n\n“I read about it in an old secret history.",
+      "defect": "Taekyung’s response asking whether Mungyeong knew the armor by a different name is omitted.",
+      "id": "F08",
+      "rationale": "The omitted question motivates Mungyeong’s explanation that the armor has no fixed name.",
+      "replacement": "“Black Dragon Armor?”\n\n“Why? Is that different from the name you knew?”\n\n“I read about it in an old secret history.",
+      "severity": "major",
+      "source": "“흑룡갑?”\n\n“왜, 알고 있던 이름이랑 달라?”\n\n“오래된 비사(祕史)에서 읽은 적이 있습니다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“You’re speaking casually to me right now too, you bastard.”\n\n“…”\n\n“Oh. Sorry.”",
+      "defect": "The draft turns Mungyeong’s startled, outraged reaction into a neutral silence.",
+      "id": "F09",
+      "rationale": "The exclamation mark is a pragmatic cue showing that Taekyung’s blunt retort catches Mungyeong off guard.",
+      "replacement": "“You’re speaking casually to me right now too, you bastard.”\n\n“…!”\n\n“Oh. Sorry.”",
+      "severity": "minor",
+      "source": "“너도 지금 반말하고 있잖아, 새꺄.”\n\n“……!”\n\n“아, 죄송.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“What business is it of yours?”\n\n“…”\n\n*This is surprisingly fun. But I don’t think I can do it three times.*",
+      "defect": "The draft again removes Mungyeong’s exclamatory reaction, weakening the joke about Taekyung abusing their temporary public hierarchy.",
+      "id": "F10",
+      "rationale": "The source marks Mungyeong as sharply taken aback rather than merely silent.",
+      "replacement": "“What business is it of yours?”\n\n“…!”\n\n*This is surprisingly fun. But I don’t think I can do it three times.*",
+      "severity": "minor",
+      "source": "“네가 알아서 뭐 하게.”\n\n“……!”\n\n이거 은근히 재밌네."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“What business is it of yours?”\n\n“…”\n\nThis was strangely addictive.",
+      "defect": "The repeated punchline once more loses Mungyeong’s startled exclamation.",
+      "id": "F11",
+      "rationale": "The repeated punctuation is part of the escalating hierarchy gag.",
+      "replacement": "“What business is it of yours?”\n\n“…!”\n\nThis was strangely addictive.",
+      "severity": "minor",
+      "source": "“네가 알아서 뭐 하게.”\n\n“……!”\n\n아, 이거 어쩐지 중독 될 것 같아."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“I’m going to get some sleep. Don’t wake me.”\n\n“…”\n\nYes. It was time to wake from a long sleep.",
+      "defect": "The draft changes Mungyeong’s puzzled reaction into undifferentiated silence.",
+      "id": "F12",
+      "rationale": "The question mark preserves his confusion at Taekyung’s apparently contradictory statement before the logout reveal.",
+      "replacement": "“I’m going to get some sleep. Don’t wake me.”\n\n“…?”\n\nYes. It was time to wake from a long sleep.",
+      "severity": "minor",
+      "source": "“한숨 자러 간다. 깨우지마라.”\n\n“……?”\n\n그래, 이제는 오랜 잠에서 깨어날 때다."
+    }
+  ],
+  "summary": "Several factual and characterization issues remain, including a wrong time unit, an altered institutional quantity, an omitted line, and a subject/title substitution.",
+  "version": 1
+}

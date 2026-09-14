@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Though the government and the Murim treated each other as they would a cow and a chicken, maintaining mutually inviolable spheres, well over a thousand people had died throughout Sichuan over the past seven days and nights.",
+      "defect": "The literal cow-and-chicken construction does not convey the Korean idiom’s function and instead suggests that the government and the Murim treated each other like livestock.",
+      "id": "F01",
+      "rationale": "서로를 소 닭 보듯 하다 means to regard one another with indifference or as having nothing to do with each other; the surrounding 상호 불가침 confirms mutual noninterference.",
+      "replacement": "Though the government and the Murim generally ignored each other and kept to separate, mutually inviolable spheres, well over a thousand people had died throughout Sichuan over the past seven days and nights.",
+      "severity": "minor",
+      "source": "Korean lines 135–139; English P69"
+    }
+  ],
+  "summary": "Faithful overall; one minor idiom-calque defect.",
+  "version": 1
+}

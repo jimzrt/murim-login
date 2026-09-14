@@ -1,6 +1,6 @@
 # Mungyeong (문경)
 
-- **Safe through:** Chapter 376
+- **Safe through:** Chapter 377
 - **Aliases:** Slaughter Saint
 - **Role:** Divine Physician and Slaughter Saint; master of Dongbong and physician caring for patients outside the Murim
 - **Personality:** Regarded as unusually skilled for his age; dry, rigid, emotionally restrained, and blunt in his interactions

@@ -1,18 +1,17 @@
 # Translation State
 
-- Last completed: 376
-- Next chapter: 377
-- Current block: 375–379 (2/5)
-- Latest translation: `translations/0376.md`
-- Latest summary: `summaries/beats/0376.md`
-- Safe profiles through: chapter 376
+- Last completed: 377
+- Next chapter: 378
+- Current block: 375–379 (3/5)
+- Latest translation: `translations/0377.md`
+- Latest summary: `summaries/beats/0377.md`
+- Safe profiles through: chapter 377
 
 ## Current Block
 
-- Jin Taekyung and Cheongpung depart from the Sichuan Tang Clan amid an enormous crowd of martial artists and commoners. Taekyung is now celebrated nationwide as the Blazing Fire Divine Dragon rather than merely as the Sleeping Dragon of Shanxi.
-- Mungyeong and his elderly disciple Dongbong reflect on their first meeting during the Hongwu era. Dongbong lost his wife and two children to an epidemic, was cured and taken in by Mungyeong, and became his disciple. Dongbong accepts Mungyeong's hidden identity as the Slaughter Saint because he knows Mungyeong is also the Divine Physician and never kills without reason.
-- Dongbong warns that a great war will soon bring death, injury, and bereavement on the scale of the catastrophe they once endured. He asks Mungyeong to prevent the war as the Divine Physician, but Mungyeong insists that fighting belongs to others, that his place is not in the Murim, and that he must care for patients. Dongbong announces that their departure is scheduled for the Hour of the Dog from Chengdu's western port.
-- At the port, Taekyung waits with Hyuk Mujin, Gung Gibang, Jeok Cheongang, Jin Wikyung, Cheongpung, and Mimi while Mu Song and the water bandits finish preparing the fast ship. A boy pushes through the farewell crowd just as the ship is leaving, and Taekyung agrees to take one more passenger.
+- The Sichuan Governor learns that Jin Taekyung's group has departed and leaves the handling of the troops stationed near Chengdu to his subordinates. His favorite concubine, Ae-hyang, persuades him to conceal the government uniforms and weapons involved in the recent conflict and submit a memorial exaggerating his role in restoring order. A sinister red light enters her eyes, and the narration suggests that she is acting for an unidentified superior.
+- Aboard the Water Dragon Stronghold's ships, Jin Taekyung jokes with Hyuk Mujin and Gung Gibang before ordering river bandits to dunk their heads in the Yangtze. He identifies the surviving fragment of the bound Black Dragon Armor, learns that the armor changes according to its owner's power, and renames it Flame Dragon Armor after infusing it with Scorching Yang Qi. The System states that the armor can repair its damaged sections by consuming its owner's internal energy.
+- Mungyeong catches Taekyung with his hand inside his loosened waistband, leading to banter about addressing him as Mungyeong in front of others. Taekyung stores the newly named armor in his inventory, lies down in the ship's cabin, and initiates Logout. As the countdown ends, he faintly hears Hyuk Mujin and Gung Gibang calling for help while being dunked.
 
 ## Open Questions
 
@@ -20,10 +19,12 @@
 - Dark Heaven's agents, purpose, and connection to the transport formation remain unresolved.
 - The Sichuan Tang Clan's relocation decision and destination remain unresolved.
 - The outcome and timing of the planned Samgoe escort to Henan remain unresolved.
-- The identity and name of the third bound item remain unresolved.
 - The matter the Divine Physician wants to discuss with Taekyung before his departure remains unresolved.
 - The identity of the boy who arrives at the port and whether he will accompany Taekyung's group remain unresolved.
 - Whether Mungyeong will ultimately intervene in the coming war or leave the Murim remains unresolved.
+- The identity of Ae-hyang's superior and the nature of her sinister red-eyed influence remain unresolved.
+- Whether the Sichuan Governor submits the false memorial and what consequences follow remain unresolved.
+- What follows Taekyung's Logout countdown remains unresolved.
 
 ## Exceptional Decision
 
@@ -39,6 +40,8 @@
 - Render 술시 as the Hour of the Dog, with a footnote identifying it as a traditional period roughly corresponding to 7–9 p.m.
 - Render 선화아 as boatman and 무송 as Mu Song.
 - Retain Master for 스승님 and render 살귀 as slaughter demon in Mungyeong's self-description.
+- Render 식경 as sikgyeong, approximately thirty minutes, with a footnote.
+- Render 흑룡갑 as Black Dragon Armor, 화룡갑 as Flame Dragon Armor, 수룡채 as Water Dragon Stronghold, 열화신공 as Blazing Flame Divine Art, 상산왕 as King of Shangshan, and 삼공 as Grand Councilor.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
