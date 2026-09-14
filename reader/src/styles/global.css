@@ -344,7 +344,9 @@ pagefind-modal-trigger.nav-search {
   min-width: 2.1rem;
   max-width: 2.1rem;
   height: 2.1rem;
-  overflow: hidden;
+  overflow: visible;
+  position: relative;
+  z-index: 2;
 }
 
 /* Beat Pagefind Component UI specificity; keep trigger as a plain icon button. */
@@ -388,7 +390,7 @@ pagefind-modal-trigger.nav-search {
     flex-wrap: nowrap;
     gap: 0.1rem;
     padding: 0.2rem 0.35rem;
-    overflow: hidden;
+    overflow: visible;
   }
 
   .nav-home {
@@ -989,17 +991,44 @@ html[data-theme="light"] .system-comments {
   transform: translateY(-52%) scaleX(-1);
 }
 
-/* Remark42 widget sits inside the system plaque; nudge its chrome toward navy/gold. */
+/* Remark42 sits on the navy plaque — keep copy light; avoid * so widget chrome still works. */
 .system-comments #remark42 {
   color: #f3f7fc;
 }
 
-.system-comments #remark42 a {
-  color: var(--system-gold);
+.system-comments #remark42 :is(
+  .comment-content,
+  .comment__body,
+  .comment-text,
+  .text,
+  .raw,
+  .name,
+  .time,
+  .score,
+  .info,
+  .empty,
+  .auth-message,
+  p,
+  li,
+  span:not([class*="icon"]),
+  textarea,
+  input
+) {
+  color: #f3f7fc !important;
 }
 
-.system-comments :is(.comment, .comment-form, .comments-list, .root) {
-  color: inherit;
+.system-comments #remark42 a {
+  color: var(--system-gold) !important;
+}
+
+.system-comments #remark42 :is(textarea, input[type="text"], input:not([type])) {
+  background: color-mix(in srgb, var(--system-blue-deep) 72%, #000) !important;
+  border-color: color-mix(in srgb, var(--system-gold) 40%, #2a5f96) !important;
+  color: #f3f7fc !important;
+}
+
+.system-comments #remark42 :is(.comment, .comments-list, .root, .comment-form) {
+  color: #f3f7fc;
 }
 
 .chapter-ol__title {

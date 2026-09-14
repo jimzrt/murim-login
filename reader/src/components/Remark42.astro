@@ -26,10 +26,6 @@ const pageTitle = title ?? `Chapter ${chapter}`;
 </section>
 
 <script>
-  function themeName() {
-    return document.documentElement.getAttribute("data-theme") === "dark" ? "dark" : "light";
-  }
-
   function mountRemark42() {
     const section = document.querySelector<HTMLElement>("[data-remark42]");
     if (!section) {
@@ -69,7 +65,8 @@ const pageTitle = title ?? `Chapter ${chapter}`;
       site_id: siteId,
       url: pageUrl,
       page_title: pageTitle,
-      theme: themeName(),
+      // System plaque is always navy; force Remark42's dark theme for contrast.
+      theme: "dark",
       show_rss_subscription: false,
       show_email_subscription: false,
       no_footer: true,
@@ -95,9 +92,10 @@ const pageTitle = title ?? `Chapter ${chapter}`;
   document.addEventListener("astro:page-load", mountRemark42);
   mountRemark42();
 
+  // Theme follows the navy plaque, not the site theme.
   const observer = new MutationObserver(() => {
     const win = window as Window & { REMARK42?: { changeTheme?: (theme: string) => void } };
-    win.REMARK42?.changeTheme?.(themeName());
+    win.REMARK42?.changeTheme?.("dark");
   });
   observer.observe(document.documentElement, { attributes: true, attributeFilter: ["data-theme"] });
 </script>

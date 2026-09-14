@@ -6,37 +6,48 @@ const siteId = "murim-login";
 <div hidden data-remark42-counters data-remark42-host={host} data-remark42-site={siteId}></div>
 
 <script>
-  function mountCounters() {
+  async function mountCounters() {
     const boot = document.querySelector<HTMLElement>("[data-remark42-counters]");
-    if (!boot || !document.querySelector(".remark42__counter")) {
+    const nodes = [...document.querySelectorAll<HTMLElement>(".remark42__counter[data-url]")];
+    if (!boot || !nodes.length || !navigator.onLine) {
       return;
     }
     const host = boot.dataset.remark42Host;
     const siteId = boot.dataset.remark42Site;
-    if (!host || !siteId || !navigator.onLine) {
+    if (!host || !siteId) {
       return;
     }
 
-    const win = window as Window & {
-      remark_config?: Record<string, unknown>;
-    };
-    win.remark_config = {
-      host,
-      site_id: siteId,
-      components: ["counter"],
-      theme: document.documentElement.getAttribute("data-theme") === "dark" ? "dark" : "light",
-    };
+    const urls = [...new Set(nodes.map((node) => node.dataset.url).filter((url): url is string => Boolean(url)))];
+    if (!urls.length) {
+      return;
+    }
 
-    document.querySelector<HTMLScriptElement>("script[data-remark42-counter]")?.remove();
-    const script = document.createElement("script");
-    script.type = "module";
-    script.async = true;
-    script.defer = true;
-    script.src = `${host}/web/counter.mjs`;
-    script.dataset.remark42Counter = "1";
-    document.body.appendChild(script);
+    try {
+      const response = await fetch(`${host}/api/v1/counts?site=${encodeURIComponent(siteId)}`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(urls),
+      });
+      if (!response.ok) {
+        return;
+      }
+      const rows = (await response.json()) as Array<{ url: string; count: number }>;
+      const counts = new Map(rows.map((row) => [row.url, row.count]));
+      for (const node of nodes) {
+        const url = node.dataset.url;
+        if (!url) {
+          continue;
+        }
+        node.textContent = String(counts.get(url) ?? 0);
+      }
+    } catch {
+      /* leave placeholders */
+    }
   }
 
-  document.addEventListener("astro:page-load", mountCounters);
-  mountCounters();
+  document.addEventListener("astro:page-load", () => {
+    void mountCounters();
+  });
+  void mountCounters();
 </script>
