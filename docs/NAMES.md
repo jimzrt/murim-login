@@ -116,3 +116,9 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 국방부장 | **Minister of Defense** | Wei Penghu's office at the Central Military Commission. |
 | 상장 | **Senior General** | Wei Penghu's military rank, explained as four-star. |
 | 오르페우스 폰 막시무스 발렌시아 바이엘른 | **Orpheus von Maximus Valencia Bayern** | Self-styled name used by one of the three undead beings; retains the source's humorous wordplay. |
+| 레이페이 | **Lei Fei** | Previously undisclosed Chinese S-rank Hunter and commander of the Sichuan Public Security Armed Forces; missing with his Hunters. |
+| 난충시 | **Nanchong City** | City containing Gaoping District, where the monster wave began. |
+| 가오핑구 | **Gaoping District** | District in Nanchong City where the first monster-wave signs appeared. |
+| 청성산 | **Mount Qingcheng** | Mountain containing the temporary operations headquarters. |
+| 핑핑이 | **Pingping** | Taekyung's joking guess at the name of the deceased former chairman; not established as the actual name. |
+| 팽팽이 | **Pengpeng** | Taekyung's joking alternative guess at the name of the deceased former chairman; not established as the actual name. |

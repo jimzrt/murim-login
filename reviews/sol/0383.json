@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "“Never thought I’d see an aircraft used for state guests here.”",
+      "defect": "The translation omits the restrictive nuance that this class of aircraft is normally reserved for state guests, weakening the jet’s exceptional prestige.",
+      "id": "F01",
+      "rationale": "The particle sequence 국빈용으로나 쓰이는 emphasizes that the aircraft is the sort used only or chiefly for state guests.",
+      "replacement": "“I never thought I’d see an aircraft normally reserved for state guests here.”",
+      "severity": "minor",
+      "source": "「국빈용으로나 쓰이는 기체를 여기서 볼 줄은 몰랐군요.」"
+    },
+    {
+      "confidence": 0.99,
+      "current": "We had been attacked by wyverns on their way to assault Chengdu International Airport, so to speak, but if this was happening throughout Sichuan Province, that was an entirely different story.",
+      "defect": "“So to speak” does not convey that attacking the protagonists was incidental to the wyverns’ main assault, and “on their way” introduces a travel-stage implication absent from the source.",
+      "id": "F02",
+      "rationale": "겸사겸사 느낌으로 explicitly frames the attack on Jin’s group as a secondary, incidental action during the airport assault; that contrast explains why province-wide attacks change his assessment.",
+      "replacement": "The wyverns had come to attack Chengdu International Airport and only attacked us while they were at it, but if the same thing was happening throughout Sichuan Province, that was an entirely different story.",
+      "severity": "major",
+      "source": "우리야 청두 국제공항을 습격하러 온 와이번에게 겸사겸사 느낌으로 습격을 당한 거지만, 이게 쓰촨성 전역에서 벌어지는 일이라면 이야기가 달라진다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "- Team Leader. If the Minister of Defense at the Central Military Commission is equivalent to what rank, exactly? I’m not familiar with the organization here.",
+      "defect": "The English question is ungrammatical and incorrectly frames a political office as a military rank.",
+      "id": "F03",
+      "rationale": "어느 정도 asks how high or important the position is, while 편제 refers to the organizational structure; Choi consequently answers with both the Korean equivalent office and Wei Penghu’s actual political power.",
+      "replacement": "- Team Leader, where exactly does the Minister of Defense at the Central Military Commission sit in the hierarchy? I’m not familiar with how things are structured here.",
+      "severity": "minor",
+      "source": "- 팀장님. 중앙군사위원회 국방부장이면 정확히 어느 정도예요? 제가 이쪽 편제를 잘 몰라서."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“As you know, the number of Gates in our country is more than ten times that of other nations. Because of that, we were one of the countries that suffered the greatest damage during the Great Cataclysm, and we managed them accordingly.”",
+      "defect": "“Accordingly” omits the explicit claim that China managed its Gates with commensurate thoroughness.",
+      "id": "F04",
+      "rationale": "그만큼 철저하게 describes the degree and strictness of Gate management, an important part of Wei Penghu’s explanation that the disaster occurred despite extensive precautions.",
+      "replacement": "“As you know, our country has more than ten times as many Gates as other nations. Because of that, we were one of the countries hit hardest during the Great Cataclysm, and we have managed them with corresponding rigor ever since.”",
+      "severity": "minor",
+      "source": "「알다시피 본국에 존재하는 게이트의 숫자는 타국과 비교하면 열 배 이상 많소. 때문에 대격변 당시 가장 큰 피해를 입었던 국가 중 하나였고, 그만큼 철저하게 관리하고 있었지.」"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Exactly thirteen minutes after the first sign appeared, we received word that the mana levels in Gaoping District had skyrocketed. And by the time Lei Fei, commander of the Public Security Armed Forces stationed in Sichuan Province, arrived at the scene with the Hunters under his command…”\n\nWei Penghu’s voice grew heavier.\n\n“Everything was already too late.”",
+      "defect": "The draft adds an unmentioned change in Wei Penghu’s voice and interrupts a single continuous line of dialogue.",
+      "id": "F05",
+      "rationale": "The source contains only Wei Penghu’s dialogue, with the ellipsis marking his pause; it does not describe his voice or insert narration.",
+      "replacement": "“Exactly thirteen minutes after the first sign appeared, we received word that the mana levels in Gaoping District had skyrocketed. And by the time Lei Fei, commander of the Public Security Armed Forces stationed in Sichuan Province, arrived at the scene with the Hunters under his command… everything was already too late.”",
+      "severity": "minor",
+      "source": "「가오핑구에서 마력 수치가 급등했다는 연락을 받은 건, 첫 징후가 나타난 지 정확히 13분이 지난 후였소. 그리고 쓰촨성에 주둔 중이던 공안무력부장 레이페이가 휘하 헌터들을 이끌고 현장에 도착했을 때는…… 모든 것이 늦은 후였지.」"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“It is a UNESCO-designated World Heritage site, so that would certainly be possible.”",
+      "defect": "The translation drops the source’s classification of the location as cultural heritage.",
+      "id": "F06",
+      "rationale": "세계문화유산 specifically identifies a cultural World Heritage Site rather than leaving the heritage category unspecified.",
+      "replacement": "“It is a UNESCO-designated World Cultural Heritage Site, so that would certainly be possible.”",
+      "severity": "minor",
+      "source": "「유네스코에서 지정한 세계문화유산이니 충분히 가능한 일이지.」"
+    },
+    {
+      "confidence": 0.93,
+      "current": "“Welcome to the temporary operations headquarters. Welcome to Mount Qingcheng.”",
+      "defect": "The draft turns the initial identifying fragment into an additional welcome, creating repetition absent from the source.",
+      "id": "F07",
+      "rationale": "임시 작전 본부 identifies the site in continuation of the preceding exchange; only 청성산에 온 것을 환영하오 expresses a welcome.",
+      "replacement": "“This is where we established our temporary operations headquarters. Welcome to Mount Qingcheng.”",
+      "severity": "minor",
+      "source": "「임시 작전 본부. 청성산(靑城山)에 온 것을 환영하오.」"
+    }
+  ],
+  "summary": "One meaningful causal nuance is lost in the airport comparison; several localized fidelity and natural-English issues remain.",
+  "version": 1
+}

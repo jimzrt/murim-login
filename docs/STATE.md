@@ -1,17 +1,18 @@
 # Translation State
 
-- Last completed: 382
-- Next chapter: 383
-- Current block: 380–384 (3/5)
-- Latest translation: `translations/0382.md`
-- Latest summary: `summaries/beats/0382.md`
-- Safe profiles through: chapter 382
+- Last completed: 383
+- Next chapter: 384
+- Current block: 380–384 (4/5)
+- Latest translation: `translations/0383.md`
+- Latest summary: `summaries/beats/0383.md`
+- Safe profiles through: chapter 383
 
 ## Current Block
 
-- Jin Taekyung captures the three beings commanding the undead, causing the undead to stop moving and the monster army to collapse or flee. The three identify themselves as Arch Liches and reveal what happened since the Arch Lich's first appearance a week earlier, swearing upon the River of Death that they are telling the truth.
-- The Skeleton Warlord absorbs a large amount of death energy from one of the beings, greatly weakening it. Taekyung destroys that being with Scorching Yang Qi and orders the Skeleton Warlord to devour the remaining two, destroying all three.
-- The Unexpected Assault Quest is completed. Taekyung receives the Undead Hunter Title, considerable EXP and Fame, and one level up. The Skeleton Warlord is substantially more powerful after absorbing the death energy. Taekyung then meets Team Leader Choi, Shao Shen, and Wei Penghu, who identifies himself as the Minister of Defense at the Central Military Commission and says that a jet is waiting at the operations headquarters, where everyone is waiting for Taekyung.
+- Wei Penghu provides Jin Taekyung and Team Leader Choi with a state-guest business jet escorted by five fighter aircraft. He explains that Sichuan Province is in a wartime state because magical interference disrupts communications and flying monsters attack frequently.
+- Wei Penghu briefs Taekyung and Choi on the monster wave's origin in Gaoping District, Nanchong City. Mana levels spiked thirteen minutes before authorities reported the incident, and Lei Fei, a previously undisclosed Chinese S-rank Hunter commanding the Sichuan Public Security Armed Forces, disappeared with his Hunters after arriving too late.
+- Wei Penghu reveals that Lei Fei is his only nephew, whom he raised as his own son after Lei Fei's mother died in childbirth. Taekyung agrees to bring Lei Fei back if he encounters him, though he cannot guarantee that Lei Fei is alive.
+- The jet lands at a temporary operations headquarters on Mount Qingcheng, which Taekyung finds strangely familiar.
 
 ## Open Questions
 
@@ -25,11 +26,11 @@
 - The identity of Ae-hyang's superior and the nature of her sinister red-eyed influence remain unresolved.
 - Whether the Sichuan Governor submits the false memorial and what consequences follow remain unresolved.
 - The Lich's exact role in the Chengdu attack and the extent of its reach remain unresolved; the Skeleton Warlord believes the Lich did not personally lead this attack.
-- Whether Taekyung's private jet explodes or can be recovered remains unresolved.
 - Whether the Arch Lich is the same entity as the previously referenced Lich remains unresolved.
 - The individual identities and origins of the three former necromancers controlling the undead remain unresolved.
 - Whether the Skeleton Warlord's increased power persists, and the full extent of that increase, remain unresolved.
-- The identity of everyone waiting at the operations headquarters and the purpose of the meeting remain unresolved.
+- Lei Fei's fate and the fate of the Public Security Armed Forces Hunters who disappeared with him remain unresolved.
+- The identities of the people waiting at the Mount Qingcheng operations headquarters and the purpose of the meeting remain unresolved.
 
 ## Exceptional Decision
 
@@ -59,6 +60,10 @@
 - Render 골골이 as Boney as the Skeleton Warlord's teasing pet nickname.
 - Render 죽음의 강 as River of Death, 검은 숲 as Black Forest, 언데드 헌터 as Undead Hunter, 국방부장 as Minister of Defense, and 상장 as Senior General.
 - Render 오르페우스 폰 막시무스 발렌시아 바이엘른 as Orpheus von Maximus Valencia Bayern.
+- Render 레이페이 as Lei Fei, 난충시 as Nanchong City, 가오핑구 as Gaoping District, and 청성산 as Mount Qingcheng.
+- Render 대교 as Senior Colonel.
+- Render 국방부장 동지 as Comrade Minister of Defense, 견마지로 as humble strength, 옥체 as august person, and 추웅! 성! as “Loya-alty!” to preserve the comic split-salute wordplay.
+- Preserve the Pingping/Pengpeng chairman-name joke without identifying the deceased chairman beyond the source.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

@@ -1,0 +1,15 @@
+{
+  "summary": "Faithful overall; one minor defect alters how the hologram presents the city.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "lines 197–201 / P98",
+      "current": "It was still vivid: the city plunged into pandemonium beneath the hologram’s light, and a man at the head of the Hunters cutting down monsters one after another.",
+      "defect": "The English makes the city appear to be physically beneath the hologram’s light and describes it as being plunged into pandemonium. The source instead says the hologram showed a city already in utter chaos.",
+      "replacement": "It was still vivid: the city in utter chaos shown in the hologram, and a man at the head of the Hunters cutting down monsters one after another.",
+      "rationale": "홀로그램이 비춘 modifies the scene as something displayed by the hologram; it does not describe holographic light falling over the city or causing its condition.",
+      "confidence": 0.98
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "chapter": 383,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.182,
+    "source_characters": 6491,
+    "source_paragraphs": 183,
+    "translation_characters": 14162,
+    "translation_paragraphs": 193
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "중화",
+        "preferred": "Zhonghua"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "순대국",
+        "romanization": "sundaeguk"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "핑핑",
+        "romanization": "pingping"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
