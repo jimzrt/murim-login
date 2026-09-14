@@ -18,7 +18,7 @@ Chomp. Chomp-chomp.
 
 The best thing about beef was how quickly you could eat it. The moment it looked more or less done, it went straight into my mouth.
 
-Every chew felt like walking on clouds. This piece, that piece, the one over there—every last one tasted like heaven.
+Every chew felt like walking on clouds. This piece, that piece, that one too—every last one tasted like heaven.
 
 “Hnnngh.”
 
@@ -48,7 +48,7 @@ And so that storm of a meal came to an end. At last, Team Leader Choi opened his
 
 “Oh. Thank you.”
 
-“Don’t mention it. Let’s call it a fair deal. If anything, I have something to thank you for as well.”
+“Don’t mention it. Let’s call it a fair deal. If anything, there’s something I should thank you for, too.”
 
 A fair deal.
 
@@ -70,11 +70,11 @@ I smiled awkwardly.
 
 “Good for both of us. Both of us…”
 
-Team Leader Choi muttered to himself, then abruptly asked,
+Team Leader Choi muttered to himself, then asked out of nowhere,
 
 “Would you like to join the Guild?”
 
-“Pffft!”
+“Pffft.”
 
 Team Leader Choi lifted the tablecloth and blocked the water, then smoothly produced a business card with practiced elegance.
 
@@ -82,7 +82,7 @@ Team Leader Choi lifted the tablecloth and blocked the water, then smoothly prod
 
 What the hell was this? For a second I was completely thrown.
 
-“Y-you’re trying to recruit me? Right now?”
+“Y-you’re making me a recruitment offer? Right now?”
 
 “That’s right. We always need talent.”
 
@@ -92,9 +92,9 @@ It seemed like only yesterday that I’d been going to interviews with my back b
 
 *Live long enough and you really do see everything.*
 
-An actual recruitment offer—and he was treating me like talent. F-rank Hunter Jin Taekyung, you’d come a long way.
+An actual recruitment offer, treating me like talent. F-rank Hunter Jin Taekyung, you’d come a long way.
 
-“Our Guild is still new, and we don’t have many members yet, but we’re excellent where it counts. For example…”
+“Our Guild is still new, and we don’t have many people, but we’re excellent where it counts. For example…”
 
 Team Leader Choi elegantly swirled his wineglass. When had he even ordered that?
 
@@ -104,7 +104,7 @@ Team Leader Choi elegantly swirled his wineglass. When had he even ordered that?
 
 “And because of that, our employee benefits are excellent.”
 
-“Oh, benefits backed by solid finances!”
+“Oh, benefits based on solid finances!”
 
 “Our Guild Master is a B-rank Hunter.”
 
@@ -116,7 +116,7 @@ Team Leader Choi elegantly swirled his wineglass. When had he even ordered that?
 
 Team Leader Choi asked with an affluent smile,
 
-“Will you join us?”
+“Will you come?”
 
 I scratched my head.
 
@@ -134,23 +134,23 @@ I’d be dead broke.
 
 Overnight, I’d go from being called talent to being called a human disaster.[^3]
 
-“Is it about money?”
+“Is it a money problem?”
 
-Money was always a problem.
+There was always a money problem.
 
-But this was more important than that. I couldn’t let the wad of cash right in front of me dazzle me into making a snap decision.
+But this was more important than that. I couldn’t get dazzled by the wad of cash right in front of me and snatch at it.
 
 “It’s difficult to explain. I’m sorry, but this isn’t something I can decide right now…”
 
-“One hundred million won.”
+“100 million won.”
 
-“One hundred million?”
+“100 million?”
 
-“That’s just the signing bonus. We’ll match the rest to the minimum terms for a C-rank Hunter.”
+“Just the signing bonus. The rest will match the minimum terms for a C-rank Hunter.”
 
 That was dangerous. This time it was really dangerous.
 
-But I held out with superhuman patience. Hadn’t I learned long ago that life wasn’t that easy?
+But I held out with superhuman patience. Hadn’t I already learned that life wasn’t that easy?
 
 It could be money I’d end up choking on.
 
@@ -170,13 +170,13 @@ Beep. Beep. Click.
 
 “—You bastard, you’re a ghost. I was just about to call you.”
 
-“What happened with that thing I asked about?”
+“How did that thing I asked about turn out?”
 
 “—I looked into it because you asked, but… is there something about this Jin Taekyung guy?”
 
 “That’s why I called you. So? What did you find?”
 
-—It’s a dime-a-dozen case. Seven years ago he Awakened at twenty and was assessed as F-rank. There’s a record of him graduating at the top of his class from the Hunter training center…
+“—It’s a dime-a-dozen case. Seven years ago he Awakened at twenty and was assessed as F-rank. There’s a record he finished first at the Hunter training center…”
 
 Jin Taekyung’s past seven years spilled from the other end of the phone. Then, at one point, Choi Minwoo’s eyebrows twitched.
 
@@ -224,9 +224,9 @@ That was the absolute minimum. The image of Taekyung driving a C-rank Rare Monst
 
 *And yet he’s F-rank.*
 
-There were only two possibilities. Either he had been hiding his strength, or he had recently reawakened.
+There were only two possibilities. He had been hiding his strength, or he had recently reawakened.
 
-Choi Minwoo suspected the latter, but even that defied common sense.
+Choi Minwoo suspected the latter, but that was still far beyond common sense.
 
 It wasn’t as if only one or two Hunters retired without ever ranking up even once.
 
@@ -240,7 +240,7 @@ Choi Minwoo shook his head. He felt as if a ghost had possessed him.
 
 As he rose from his seat, the restaurant owner approached and held out the bill.
 
-“That’ll be 1,937,000 won.”
+“1,937,000 won.”
 
 “…”
 
@@ -254,17 +254,17 @@ I dropped heavily onto the ground. The recycling area was a mess. The thing that
 
 “It’s gone. It’s gone. My capsule is gone.”
 
-I’d been anxious ever since parting with Team Leader Choi. But I hadn’t expected someone to take it in less than half a day. I shouted into the empty air.
+I’d been anxious ever since leaving Team Leader Choi. But I hadn’t expected someone to take it in less than half a day. I shouted into the empty air.
 
 “Who the fuck was it?!”
 
-And an answer came.
+And I got an answer.
 
 “Me, you son of a bitch.”
 
-Jinho hyung was smoking on the roof of the goshiwon building,[^4] in the same spot where I’d seen him that morning. He exhaled a plume of smoke with a wistful look, then continued.
+On the roof of the goshiwon building,[^4] Jinho hyung was smoking in the same spot where I’d seen him that morning. He exhaled a plume of smoke with a wistful look, then went on.
 
-“I spent ten years crying, regretting, and vowing…”
+“I spent ten years crying, regretting it, and making vows…”
 
 “You want me to make you really cry and regret it?”
 
@@ -306,15 +306,15 @@ Where was I even supposed to start looking? I sighed heavily.
 
 Jinho hyung scratched his head.
 
-“If I saw them, I saw them. If I didn’t, I didn’t.”
+“If I saw it, then I saw it. If I didn’t, then I didn’t.”
 
 Was that even an answer, or just crap?
 
 When I glared at him, he smiled sheepishly.
 
-“Look, it’s not like I’m asking for a finder’s fee or anything…”
+“Look, it’s not that I want a finder’s fee or anything…”
 
-He was definitely asking for a finder’s fee.
+It definitely sounded like he wanted a finder’s fee.
 
 Anyway, that wasn’t the point. I shot to my feet and asked,
 
@@ -356,7 +356,7 @@ I was so dumbfounded I couldn’t even breathe. He’d hit me in the back of the
 
 How was I supposed to hit this guy so cleanly that people would say I’d really done it right?
 
-My fists trembled.
+I clenched my fists until they shook.
 
 * * *
 
@@ -366,9 +366,9 @@ Seeing the capsule taking up half the studio as if nothing had happened, all I c
 
 *Should I call this lucky?*
 
-Of all the people who could have taken it, it had been Jinho hyung.
+Of all the people in the world, Jinho hyung had taken the capsule.
 
-I opened the capsule lid, picked up the user manual tossed onto the worn seat, and flipped to the last page.
+I opened the capsule lid. Then I picked up the user manual, which had been tossed onto the worn seat, and flipped to the last page.
 
 > **Main Features**
 >
@@ -378,13 +378,13 @@ I opened the capsule lid, picked up the user manual tossed onto the worn seat, a
 
 *It has to be a simple coincidence.*
 
-But I couldn’t shake the unease. I glared at the capsule, the source of everything that had happened.
+But I couldn’t shake the unease. I stared at the capsule, the source of all these events.
 
 *What even is this thing?*
 
 The reason I’d thrown the capsule into the recycling area that morning was so I could forget everything. My life was already dry enough; I wanted to write it off as one nightmare and keep living my life as I was.
 
-But now the situation had changed.
+But the situation had changed now.
 
 *Because the System is here.*
 
@@ -416,7 +416,7 @@ The capsule couldn’t be read.
 
 “Wow. This is driving me nuts.”
 
-Just in case, I picked up the user manual. The result was the same.
+Just in case, I picked up the user manual. Same result.
 
 Ding.
 
@@ -428,7 +428,7 @@ I flopped onto the bed. I stared blankly at the old, yellow-stained ceiling and 
 
 *What’s going on?*
 
-For now, none of it made sense. But one thing was certain.
+For now, these were things I couldn’t understand. But one thing was certain.
 
 *I’ve become stronger. Incomparably stronger.*
 
@@ -444,7 +444,7 @@ It was the first recruitment offer I’d ever received. But I refused. When some
 
 I’d endured seven years under the name of F-rank Hunter. A caterpillar that had only ever crawled through the dirt had, one day, grown wings called the System.
 
-Fear was only natural.
+Fear was a natural feeling.
 
 *But what if I can keep using this power—keep using the System?*
 
