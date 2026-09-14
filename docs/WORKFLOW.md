@@ -111,10 +111,12 @@ python tools/run_until_mastering.py 58
 ```
 
 `run_next_mastering.py` promotes one chapter. `run_until_mastering.py`
-repeats that until the target chapter is mastered, stopping on the first error.
-Translation and mastering may run at the same time. They use separate work
-locks; Git commits wait on `.work/commit.lock`. Do not run `audit_range`
-beside either queue.
+repeats that until the target chapter is mastered. On failure it retries the
+same chapter up to `run_until_mastering_retries` times with
+`run_until_mastering_retry_delay_seconds` between attempts (`--retries` /
+`--retry-delay` override), then stops. Translation and mastering may run at
+the same time. They use separate work locks; Git commits wait on
+`.work/commit.lock`. Do not run `audit_range` beside either queue.
 
 Checkpoint reports are automatically recorded with unresolved dispositions for
 later retrofit. They are advisory and never prevent the current chapter from
