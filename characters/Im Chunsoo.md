@@ -1,6 +1,6 @@
 # Im Chunsoo (임춘수)
 
-- **Safe through:** Chapter 86
+- **Safe through:** Chapter 92
 - **Aliases:** Frozen
 - **Role:** A-rank Hunter; founder and Guild Master of Sangdong Guild; renowned ice mage
 - **Personality:** Intimidating, severe, and extremely short-tempered, though he has tried to moderate his temper with age
