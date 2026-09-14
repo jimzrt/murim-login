@@ -1,6 +1,6 @@
 # Song Song (송송이)
 
-- **Safe through:** Chapter 77
+- **Safe through:** Chapter 79
 - **Aliases:** Miss Song
 - **Role:** Founding member of the Peace Guild
 - **Personality:** Calm, practical, capable, and attentive; speaks briefly and handles domestic work with practiced skill

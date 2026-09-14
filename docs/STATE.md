@@ -1,16 +1,16 @@
 # Translation State
 
-- Last completed: 78
-- Next chapter: 79
-- Current block: 75–79 (4/5)
-- Latest translation: `translations/0078.md`
-- Latest summary: `summaries/beats/0078.md`
-- Safe profiles through: chapter 78
+- Last completed: 79
+- Next chapter: 80
+- Current block: 75–79 (5/5)
+- Latest translation: `translations/0079.md`
+- Latest summary: `summaries/beats/0079.md`
+- Safe profiles through: chapter 79
 
 ## Current Block
 
-- At the Peace Guild drinking gathering, Miss Song becomes heavily intoxicated. Team Leader Choi reveals that he formerly worked as a Team Leader for the Ares Guild and that Song Song was a member of his team.
-- Butler Kim reveals that he is a retired mage and former Hunter, then uses magic to cook the meat. He and Taekyung discover that they trained at Nonsan's 28th Regiment, 1st Battalion. Team Leader Choi establishes Butler Kim as the Peace Guild's Guild Master and himself as Team Leader, while Im Kkeokjeong and Miss Song largely ignore the explanation.
+- The Peace Guild members recover from their champagne-party hangover over breakfast, then Team Leader Choi announces that they must begin working: this will be the Guild's first raid.
+- Choi shows Taekyung and Im Kkeokjeong footage of the Bucheon Terminal Guild's raid against seven B-rank Minotaurs in the Minotaur's Labyrinth. The Minotaurs were defeated, but two C-rank Hunters died. Taekyung uses Qi Sense to view the Guild members' Levels—Choi 75, Butler Kim 80, Song Song 64, and Im Kkeokjeong 24—and concludes that their upcoming raid is dangerous.
 
 ## Open Questions
 
@@ -32,7 +32,7 @@
 - Use Return for 귀환, Returnee for 귀환자, Ren and Du meridians for 임독양맥, Heart Demon for 심마, Paralysis Acupoint for 마혈, and Mute Acupoint for 아혈.
 - Use fist-and-kicking technique for 권각술 and recognition for 인정; render 낙류검 as Falling Flow Sword, 질풍십이권 as Twelve Gale Fists, 화염신장 as Flame Divine Palm, and 분근착골 as Tendon-Splitting and Bone-Twisting.
 - Render 비급 제작 as Martial Arts Manual Creation, 맷집 as Toughness, 천무지체 as Heavenly Martial Physique, 장칠득 as Jang Childeuk, Martial Artist Jang for 장 무인, 인의예지 as benevolence, righteousness, propriety, and wisdom, 호환 as killed by a tiger, 일각 as fifteen minutes, and 모태 솔로 as lifelong single; use “Let's eat noodles” for 국수 먹자 with a cultural footnote.
-- Use Squad Leader for 조장님, Third Young Master for 삼공자님, Mujin for 무진아, seventh-tier student for 내신 칠 등급, Team Leader Choi for 최 팀장, Designer-Brand Junkie for 명품충, Qi Sense for 기감, Peace Guild for 평화, Essence of the Himalayas for 히말라야의 정수, Sooni's Super for 순이네 수퍼, Song Song for 송송이, Miss Song for 송이 씨, Taurus for 황소자리, Ares Guild for 아레스 길드, Senior for 선배님, Young Master for 도련님, and Guild Master for 길드장님.
+- Use Squad Leader for 조장님, Third Young Master for 삼공자님, Mujin for 무진아, seventh-tier student for 내신 칠 등급, Team Leader Choi for 최 팀장, Designer-Brand Junkie for 명품충, Qi Sense for 기감, Peace Guild for 평화, Essence of the Himalayas for 히말라야의 정수, Sooni's Super for 순이네 수퍼, Song Song for 송송이, Miss Song for 송이 씨, Taurus for 황소자리, Ares Guild for 아레스 길드, Senior for 선배님, Young Master for 도련님, Guild Master for 길드장님, Minotaur for 미노타우로스, Bucheon Terminal Guild for 부천터미널 길드, The Minotaur's Labyrinth for 미노타우로스의 미로, haejangguk for 해장국, and makgeolli for 막걸리.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
