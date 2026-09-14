@@ -1,6 +1,6 @@
 # Chapter 50
 
-My mouth fell open at the sight before me.
+My mouth fell open at the sight in front of me.
 
 In the hot, humid heat, wetlands stretched on without end along a dense forest.
 
@@ -8,11 +8,11 @@ In the hot, humid heat, wetlands stretched on without end along a dense forest.
 
 I knew higher-ranked Gates had more space. I just hadn’t thought the difference would be this big.
 
-“Big, isn’t it?”
+“Pretty big, right?”
 
 I forgot to be angry and answered.
 
-“Yeah. Big enough to be daunting.”
+“Yeah. Big enough to feel lost.”
 
 “This is fairly average. From B-rank Gates on, you even have to hire a separate guide.”
 
@@ -36,7 +36,7 @@ A map. Then we wouldn’t get lost—
 
 “You mean the transfer of rights?”
 
-Yeah, that, you bastard.
+Yeah, you. That.
 
 “What does that mean?”
 
@@ -58,7 +58,7 @@ I swallowed a dry gulp.
 
 In South Korea, Gates were national property.
 
-Since the Great Cataclysm, Magic Gems had become a core energy source, and Gates were essentially diamond mines that never ran dry. Yet this guy held the exclusive rights to one.
+Since the Great Cataclysm, Magic Gems had become a core energy source, and Gates were no different from diamond mines that never ran dry. And this guy had exclusive rights to one of those Gates.
 
 *What the hell is he?*
 
@@ -68,7 +68,7 @@ I knew he was a rich family’s young master, but I hadn’t thought it went thi
 
 Team Leader Choi strode ahead. The sight of his back was dazzling.
 
-Ah, that golden radiance. That untouchable scent of wealth.
+Ah, that golden radiance. The scent of wealth I could never touch.
 
 *I’ll bury my bones in your Guild.*
 
@@ -94,17 +94,17 @@ They lived in several colonies under a single tribe, and this seemed to be one o
 
 “This is the small colony closest to the entrance. About twenty of them, so let’s take them out fast and move on.”
 
-Team Leader Choi hacked through the vines as he advanced. He was usually a pretty-faced young master, but once actual combat began he was no joke. His back, plowing forward like an eight-ton truck with a broken steering wheel, reeked of machismo.
+Team Leader Choi hacked through the vines as he advanced. He was usually a pretty-faced young master, but once real combat started, he was no joke. The back driving forward like an eight-ton truck with a broken steering wheel reeked of machismo.
 
 *He’s fucking cool.*
 
-I felt like Team Leader Choi and I could sweep aside not just thirty Lizardmen, but a hundred.
+Even if it weren’t thirty Lizardmen but a hundred, I felt like we could sweep them all as long as Team Leader Choi was with me.
 
 Now I understood why people let high-level players carry them in online games.
 
 “Keiik!”
 
-Maybe that was why my first face-to-face encounter with Lizardmen didn’t make me particularly nervous.
+Maybe that was why my first face-to-face with Lizardmen didn’t come with much tension.
 
 All I had was the novelty of seeing monsters I’d only ever seen in photos and videos.
 
@@ -114,7 +114,7 @@ Even the smallest of the twenty was a head taller than me.
 
 They were at least two meters tall, with sleek muscle and thick tails that made them look even bigger.
 
-*Still not as big as the Hobgoblin Great Warrior I fought yesterday, though.*
+*Of course, still not as big as the Hobgoblin Great Warrior I fought yesterday.*
 
 These hideous basketball prospects didn’t seem too happy to see us.
 
@@ -134,7 +134,7 @@ As expected of a lizard expert. He even had his arms folded, nice and easy.
 
 “Keiik!”
 
-They were barely twenty meters away now. I grinned at Team Leader Choi.
+They’d come within twenty meters. I grinned at Team Leader Choi.
 
 “These guys have no fear.”
 
@@ -156,7 +156,7 @@ Then three or four harpoons tore through the air. If I’d still been an F-rank 
 
 Clang, clang, clang!
 
-Only then did I notice something strange.
+It was only after that that I sensed something off.
 
 - Kieeeik!
 
@@ -164,7 +164,7 @@ Only then did I notice something strange.
 
 *What’s wrong with them?*
 
-Their eyes rolled back until only the whites showed, and they shrieked wildly. This went beyond hostility. It was practically hatred.
+Their eyes rolled back white as they shrieked. This had gone past hostility. It was practically hatred.
 
 As I stood there bewildered, Team Leader Choi tossed out a line.
 
@@ -178,13 +178,13 @@ Ah.
 
 *Shit. Look at those names.*
 
-If I were a Lizardman, I’d throw a harpoon at me too.
+If I were a Lizardman, I’d throw harpoons too.
 
 *Come to think of it, they only threw them at me.*
 
 With the enemy of their kind standing right in front of them, Team Leader Choi might as well have been invisible.
 
-At this rate, I was going to be the only one getting attacked—
+At this rate I was going to get attacked nonstop—
 
 No, wait.
 
@@ -198,7 +198,7 @@ No, wait.
 
 Team Leader Choi’s face turned serious as he added,
 
-“Because I’m not going to do anything.”
+“Because I’m going to stay put.”
 
 “What?”
 
@@ -222,7 +222,7 @@ Whoosh!
 
 As the spears were thrown, green scales flashed from every direction and they charged.
 
-Team Leader Choi sprang back and shouted gravely,
+Team Leader Choi sprang back and shouted with heroic gravity,
 
 “You got this!”
 
@@ -236,7 +236,7 @@ Clang!
 
 “You bastards.”
 
-Grinding my teeth, I drew up my Qi Sense. Twenty windows popped into view above their heads.
+Grinding my teeth, I drew up my Qi Sense. Soon, twenty spears sprang up over their heads.
 
 > **System**
 >
@@ -330,7 +330,7 @@ Team Leader Choi studied me with that peculiar look of his. At last he opened hi
 
 “What?”
 
-“Which is why…”
+“Which is why.”
 
 Team Leader Choi pulled something out and tossed it to me.
 
@@ -374,9 +374,7 @@ As I stared blankly at the sight, Team Leader Choi’s voice dug into my ear.
 
 The instant he finished speaking, I felt a tremor from somewhere.
 
-It was the ground.
-
-The ground was rumbling.
+The ground. The ground was rumbling.
 
 Team Leader Choi kindly added,
 
@@ -392,7 +390,7 @@ That was the first thing the middle-aged man with half-gray hair had said in an 
 
 “Yes, Guild Master.”
 
-“You’re curious, aren’t you? Wondering what kind of shit this guy plans to pull this time, calling you in first thing in the morning?”
+“Curious, aren’t you? Figured I called you in first thing this morning to raise hell?”
 
 “Ah, no, sir.”
 
@@ -418,11 +416,11 @@ Small and midsize Guilds were corporations too. In each region, Guild Masters he
 
 “…Guild Master, that…”
 
-The Guild Master raised a hand, cutting Kim Sangshik off.
+The Guild Master raised a hand and stopped Kim Sangshik from continuing.
 
 “I wondered what kind of bullshit that was. But rude as the Sangdong Guild Master is, he isn’t the type to make up a story. Not at an alliance meeting, either.”
 
-“I-I’ll look into it again myself!”
+“I’ll look into it again myself!”
 
 “Team Leader Three? No. No need.”
 
@@ -464,7 +462,7 @@ Kim Sangshik answered in an uneasy voice.
 
 “What?”
 
-“You’ve helped me keep this Guild going for twenty-one years. You’ve done more than enough. I’ll talk to the Team Three kids separately, so as of today, you’re out.”
+“Twenty-one years of dragging you along is enough. You’ve done your part. I’ll talk to the Team Three kids separately, so as of today, you’re out.”
 
 “H-hyung!”
 
@@ -478,17 +476,17 @@ Kim Sangshik realized he had no choices left.
 
 This was the workplace he’d spent more than twenty years in. And now he was being told to leave over something like this. Thrown out without a second thought.
 
-*Fucking hell…*
+*Fuck…*
 
 He clenched his teeth and walked out of the office.
 
 One last blow came after him.
 
-“Hey, HR Team Leader. Process two terminations today. Kim Sangshik and Kim Sangho.”
+“Hey, HR. Process two resignations today. Kim Sangshik and Kim Sangho.”
 
-For the next few days, Sopung Guild was in an uproar over the rare event of a father and son being fired at the same time.
+For the next few days, Sopung Guild was in an uproar over the rare event of a father and son resigning at the same time.
 
-Along with that, the hottest topic in the Guild became the recent whereabouts of the bottom-tier Hunter who had left not long before.
+Along with that, the hottest topic in the Guild became the recent whereabouts of the bottom-tier Hunter who had quit not long before.
 
 “They say he’s C-rank. A reawakening.”
 
