@@ -1,0 +1,136 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“ hic. One more glass.”",
+      "defect": "The hiccup begins with an erroneous space and lowercase letter.",
+      "id": "F01",
+      "rationale": "The source presents the hiccup as the beginning of the utterance, so standard dialogue capitalization and spacing are required.",
+      "replacement": "“Hic. One more glass.”",
+      "severity": "minor",
+      "source": "“히끅. 한 잔 더.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Miss Song’s eyes had gone half-lidded as she furiously shook her empty glass.",
+      "defect": "The draft changes unfocused, drunken eyes into partially closed eyelids.",
+      "id": "F02",
+      "rationale": "눈이 풀리다 describes eyes becoming unfocused or glazed, not the eyelids lowering.",
+      "replacement": "Miss Song’s eyes had already gone half-glazed as she furiously shook her empty glass.",
+      "severity": "minor",
+      "source": "어느새 반쯤 눈이 풀린 송이 씨가 맹렬하게 빈 잔을 흔들었다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "Every now and then, she mumbled incomprehensible things in a slurred voice about how someone had no sense of tact or how rotten luck had latched on.",
+      "defect": "The draft sanitizes the contemptuous force of 더럽게 and weakens Song’s drunken, aggrieved register.",
+      "id": "F03",
+      "rationale": "더럽게 intensifies the complaint with coarse irritation, while 재수 옴 붙었다 evokes bad luck sticking like a malign affliction.",
+      "replacement": "Every now and then, she slurred incomprehensible things about someone having no damn tact and rotten luck clinging like a curse.",
+      "severity": "major",
+      "source": "가끔은 혀 꼬인 발음으로 눈치도 더럽게 없다느니, 재수 옴 붙었다느니 하는 뜻 모를 소리를 중얼거리기도 했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Miss Song’s misfortune was soon to become my misfortune.",
+      "defect": "The draft turns an immediate equation into a future consequence.",
+      "id": "F04",
+      "rationale": "Here 곧 means “namely” or “in turn”: Taekyung treats her present unhappiness as his own rather than predicting that it will affect him later.",
+      "replacement": "Miss Song’s misfortune was my misfortune.",
+      "severity": "major",
+      "source": "송이 씨의 불행은 곧 나의 불행."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Im Kkeokjeong was egging her on from the side like a bandit who had just found booze.",
+      "defect": "The draft omits the initial “fish in water” comparison and Taekyung’s comic self-correction.",
+      "id": "F05",
+      "rationale": "The abandoned idiom and immediate revision to a liquor-loving bandit are an explicit humor beat in the source.",
+      "replacement": "Like a fish in water—no, like a bandit who’d found booze—Im Kkeokjeong egged her on from beside her.",
+      "severity": "major",
+      "source": "물 만난 고기. 아니, 술 만난 산적처럼 옆에서 거드는 임꺽정은 덤이다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Miss Song was the only person who treated me comfortably.",
+      "defect": "“Treated me comfortably” is an unnatural calque and obscures that she interacted with him without awkwardness or reserve.",
+      "id": "F06",
+      "rationale": "편하게 대해 주다 refers to treating someone in an easy, unguarded manner rather than providing them physical comfort.",
+      "replacement": "Miss Song was the only person who treated me normally.",
+      "severity": "minor",
+      "source": "절 편하게 대해 주는 사람은 송이 씨밖에 없었으니까."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“ hic. That was the last one.”",
+      "defect": "The hiccup again has erroneous leading whitespace and lowercase capitalization.",
+      "id": "F07",
+      "rationale": "The hiccup begins Song’s utterance and should be formatted as such.",
+      "replacement": "“Hic. That was the last one.”",
+      "severity": "minor",
+      "source": "“히끅. 그게 마지막이었는데요.”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "*That’s enough, old man.*",
+      "defect": "The draft makes Taekyung sound as though he is telling Im Kkeokjeong to stop, rather than dismissing the invitation to eat.",
+      "id": "F08",
+      "rationale": "됐네 here is a curt refusal or dismissal in response to being told to eat, not a command to cease an ongoing action.",
+      "replacement": "*Forget it, old man.*",
+      "severity": "minor",
+      "source": "“왜? 태경이 너도 빨리 먹어.”\n\n됐네, 이 양반아."
+    },
+    {
+      "confidence": 0.91,
+      "current": "If Butler Kim was a has-been, half the mages still active would have to bury their heads in the ground.",
+      "defect": "“Bury their heads in the ground” is an unnatural English rendering that suggests hiding or denial rather than abjectly lowering their heads.",
+      "id": "F09",
+      "rationale": "대가리 박다 is a coarse image of putting one’s head down in submission or humiliation; “damn heads” preserves its rough register.",
+      "replacement": "If Butler Kim was a has-been, half the mages still active today ought to bow their damn heads.",
+      "severity": "minor",
+      "source": "김 집사가 퇴물이면 지금 현역으로 활동하는 마법사 중에 절반은 대가리 박아야 한다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Nonsan. What about you, Mr. Taekyung?”",
+      "defect": "The Nonsan explanatory footnote is defined but never referenced, leaving an unused Markdown footnote.",
+      "id": "F10",
+      "rationale": "Attaching the existing note at the institution’s first mention fixes the Markdown defect and gives the intended cultural context.",
+      "replacement": "“Nonsan.[^1] What about you, Mr. Taekyung?”",
+      "severity": "minor",
+      "source": "“논산 나왔습니다. 태경 씨는요?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“What are you doing? Please, sit down.”",
+      "defect": "The first sentence is changed into a question about Taekyung’s action and loses Butler Kim’s modest protest that such deference is unnecessary.",
+      "id": "F11",
+      "rationale": "뭘 또 이렇게까지 gently protests that Taekyung is being excessively formal; it does not ask what he is doing.",
+      "replacement": "“You don’t have to go that far. Please, sit down.”",
+      "severity": "minor",
+      "source": "“뭘 또 이렇게까지. 앉으세요.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Team Leader Choi Minwoo, Team 1, Peace Guild.”",
+      "defect": "The business-card title is ordered awkwardly and can be read as listing “Team Leader” and “Team 1” separately.",
+      "id": "F12",
+      "rationale": "1팀장 identifies Choi Minwoo as the leader of Team 1; the replacement expresses that title unambiguously in natural English.",
+      "replacement": "“Choi Minwoo, Team Leader of Team 1, Peace Guild.”",
+      "severity": "minor",
+      "source": "“평화 길드 1팀장 최민우요.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "I didn’t know whether Butler Kim was a straw owner or merely a figurehead, but I nodded anyway.",
+      "defect": "“Straw owner” is nonidiomatic in contemporary US English.",
+      "id": "F13",
+      "rationale": "바지 사장 denotes a nominal boss with no real authority; “boss in name only” conveys that naturally while preserving the contrast with 얼굴마담.",
+      "replacement": "I didn’t know whether Butler Kim was a boss in name only or merely a figurehead, but I nodded anyway.",
+      "severity": "minor",
+      "source": "김 집사가 바지 사장인지, 얼굴마담인지는 모르겠지만 일단 고개를 끄덕였다."
+    }
+  ],
+  "summary": "The draft is broadly faithful but contains one altered physical description, one temporal meaning error, an omitted joke beat, several register and pragmatic-cue losses, and an unused footnote reference.",
+  "version": 1
+}
