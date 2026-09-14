@@ -883,6 +883,24 @@ html[data-theme="light"] .system-window {
   padding-top: 1rem;
 }
 
+.comments {
+  margin-top: 2.5rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--rule);
+}
+
+.comments-title {
+  margin: 0 0 0.85rem;
+  font-size: 1rem;
+  font-weight: 650;
+}
+
+.comments-offline {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
 .reader-dialog {
   box-sizing: border-box;
   /* border-box + side gutter for the 4px outer gold ring; margin:auto keeps centering. */
