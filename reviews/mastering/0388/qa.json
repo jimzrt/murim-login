@@ -1,0 +1,39 @@
+{
+  "chapter": 388,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.189,
+    "source_characters": 6855,
+    "source_paragraphs": 212,
+    "translation_characters": 15004,
+    "translation_paragraphs": 218
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "기세",
+        "preferred": "aura / momentum"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "운기조식",
+        "preferred": "circulate one's qi"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "상태",
+        "preferred": "Status"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}

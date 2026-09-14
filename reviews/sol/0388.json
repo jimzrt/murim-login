@@ -1,0 +1,126 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "It was more than ten minutes later when Wu Heixing, who had been sprawled out flat, finally forced out a boiling voice.",
+      "defect": "“Sprawled out flat” omits the spread-eagled posture conveyed by 대 자로, while “forced out a boiling voice” is an unnatural English collocation.",
+      "id": "F01",
+      "rationale": "The source explicitly describes his limbs forming the character 大 and his voice seething with anger.",
+      "replacement": "It was a little over ten minutes later that Wu Heixing, still sprawled spread-eagled, finally growled in a seething voice.",
+      "severity": "minor",
+      "source": "대 자로 뻗어 있던 우헤이싱이 끓어오르는 음성을 내뱉은 것은 그로부터 십여 분이 흐른 뒤였다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The fact that Jin Taekyung had seen through his martial arts was shocking enough, but Wu Heixing took even greater offense at the defeat itself. He was immensely proud of the power he possessed.",
+      "defect": "The draft changes the greater shock of defeat into offense, weakening the psychological impact and altering Wu Heixing’s reaction.",
+      "id": "F02",
+      "rationale": "패배에 대한 충격이 더 컸다 explicitly says the defeat was the greater shock, causally tied to his pride in his strength.",
+      "replacement": "The fact that Jin Taekyung had seen through his martial arts was shocking enough, but for someone who took such immense pride in his own power, the shock of defeat struck even harder.",
+      "severity": "major",
+      "source": "진태경에게 무공을 간파당했다는 것도 충격이지만, 스스로가 지니고 있는 힘에 대단한 자부심을 가진 그로서는 패배에 대한 충격이 더 컸다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "The public and the media cursed him as an irredeemable playboy while praising him as a genius born of Zhonghua, but a tiny handful of people, Wu Heixing among them, knew the truth.",
+      "defect": "“Playboy” narrows and softens 구제 불능 탕아 into a specifically romantic or sexual label, losing the source’s broader condemnation of him as a hopelessly dissolute person.",
+      "id": "F03",
+      "rationale": "구제 불능 탕아 is a sweeping moral judgment about a dissolute wastrel, not merely a description of someone who pursues women.",
+      "replacement": "The public and the media cursed him as an incorrigible degenerate while praising him as a genius born of Zhonghua, but a tiny handful of people, Wu Heixing among them, knew the truth.",
+      "severity": "major",
+      "source": "대중과 미디어는 그를 구제 불능 탕아라 욕하는 동시에 중화가 낳은 천재라며 칭송했지만, 우헤이싱을 포함한 극소수의 사람들은 알고 있었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "> - You have completed [circulating your qi]!\n>\n> - The realm of [Blazing Flame Divine Art] has risen slightly!",
+      "defect": "The System terms remain inside square brackets, contrary to the required panel format, and “completed circulating” is less natural than the established verbal rendering.",
+      "id": "F04",
+      "rationale": "The notices report completed qi circulation and a slight rise in the martial art’s realm; the System blockquote already identifies them as UI text.",
+      "replacement": "> - You have finished circulating your qi!\n>\n> - Your realm in the Blazing Flame Divine Art has risen slightly!",
+      "severity": "minor",
+      "source": "- [운기조식]을 완료했습니다!\n\n- [열화신공]의 경지가 미약하게 상승합니다!"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Drinking too much caused the poisonous aftereffects of alcohol to build up, but any decent martial artist could easily drive them out.",
+      "defect": "The draft broadens 내가 고수, an internal-arts master, to any martial artist and thereby weakens the stated mechanism for purging alcohol toxins.",
+      "id": "F05",
+      "rationale": "The source attributes this ability specifically to masters of internal arts, which leads directly into Taekyung citing his powerful Scorching Yang Qi.",
+      "replacement": "Drinking too much caused alcohol toxins to build up, but any halfway decent internal arts master could easily purge them.",
+      "severity": "major",
+      "source": "술을 많이 마시면 주독(酒毒)이 쌓이는데, 어지간한 내가 고수라면 손쉽게 주독을 몰아낼 수 있다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“If you were Jin Taekyung, would you be able to sleep?”",
+      "defect": "The draft nonsensically asks Taekyung to imagine being himself. Team Leader Choi is asking whether Taekyung could sleep if he were in Choi’s position.",
+      "id": "F06",
+      "rationale": "진태경 씨 is direct address, while 같으면 means ‘if you were in my shoes’ in this context.",
+      "replacement": "“If you were in my position, Mr. Jin, would you be able to sleep?”",
+      "severity": "critical",
+      "source": "“진태경 씨 같으면 잠이 오겠습니까?”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "*“Choi. Don’t interfere. I don’t want to use an attack spell on you.”*",
+      "defect": "The addressee is reversed from Jin to Choi, changing who Magic Johnson threatens with an attack spell.",
+      "id": "F07",
+      "rationale": "진 directly addresses Jin Taekyung; Magic Johnson is warning Jin not to interfere with what he is doing to Choi.",
+      "replacement": "*“Jin. Don’t interfere. I don’t want to use an attack spell on you.”*",
+      "severity": "critical",
+      "source": "‘진. 방해하지마. 난 네게 공격 마법을 쓰고 싶지 않아.’"
+    },
+    {
+      "confidence": 0.95,
+      "current": "“Haha. Anyway, I had my reasons yesterday.”\n\n“...What kind of reasons?”\n\n“Huh? No, not *those* kinds of reasons.”\n\n“Watch what you say. You really startled me.”",
+      "defect": "The generic wording gestures at innuendo but loses the actual 사정 wordplay, where an ordinary explanation is misheard in a sexual sense.",
+      "id": "F08",
+      "rationale": "The replacement recreates the source’s euphemistic double meaning without making it more graphic.",
+      "replacement": "“Haha. Anyway, something came up yesterday.”\n\n“...What came?”\n\n“Huh? No, not that kind of coming.”\n\n“Watch what you say. You really startled me.”",
+      "severity": "major",
+      "source": "「하하. 어쨌든 어제는 좀 사정이 있었어.」\n\n“……뭐가 있었다고요?”\n\n「어? 아니, 사정이 그 사정이 아니라.」\n\n“말조심 좀 해 주세요. 진짜 깜짝 놀랐네.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "*That sounded sincere.*",
+      "defect": "The draft says only that the corrected farewell sounded sincere, omitting Taekyung’s suspicion that the preceding remark about Choi’s ass was Magic Johnson’s true feeling slipping out.",
+      "id": "F09",
+      "rationale": "진심이 나온 것 indicates an unintended revelation of what Magic Johnson genuinely meant, which is the punchline to his correction.",
+      "replacement": "*I had a feeling his true feelings had just slipped out.*",
+      "severity": "minor",
+      "source": "저거 아무래도 진심이 나온 것 같은데."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Take care of yourselves. We can’t die young in a place like this.”",
+      "defect": "The draft changes Lee Jungryong’s warning about the two younger men into an inclusive statement about himself, erasing the pointed age hierarchy and implied threat.",
+      "id": "F10",
+      "rationale": "둘 다 addresses Taekyung and Choi, and 젊은 나이에 specifically emphasizes their youth in contrast with Lee Jungryong’s age.",
+      "replacement": "“Both of you, take care. You can’t go dying young in a place like this—not at your age.”",
+      "severity": "critical",
+      "source": "“둘 다 몸조심하게. 이런 곳에서 요절할 수야 없지 않나. 젊은 나이에.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Don’t count on it.”",
+      "defect": "The reply’s meaning is reversed. Lee Jungryong says he will look forward to Taekyung’s promised condolence contribution, rather than rejecting the prospect.",
+      "id": "F11",
+      "rationale": "기대하지 is an affirmative ‘I’ll look forward to it,’ delivered as a terse, ominous response.",
+      "replacement": "“I’ll look forward to it.”",
+      "severity": "major",
+      "source": "“기대하지.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "> - An Unexpected Quest, [The Battle Situation Has Become Critical], has been generated.\n>\n> - You cannot refuse the Quest. Arrive as quickly as possible and defeat the enemies!",
+      "defect": "The Quest title remains enclosed in square brackets, which are prohibited inside actual System-message panels.",
+      "id": "F12",
+      "rationale": "The blockquote and System heading already mark the text as UI; removing the brackets preserves the notice while satisfying the required format.",
+      "replacement": "> - Unexpected Quest generated: The Battle Situation Has Become Critical.\n>\n> - You cannot refuse the Quest. Arrive as quickly as possible and defeat the enemies!",
+      "severity": "minor",
+      "source": "- 돌발 퀘스트, [다급해진 전황]이 생성되었습니다.\n\n- 당신은 퀘스트를 거절할 수 없습니다. 한시라도 빠르게 도착하여 적들을 물리치십시오!"
+    }
+  ],
+  "summary": "Several subject reversals and meaning changes require correction, along with lost wordplay, an internal-arts distinction, and System-panel formatting.",
+  "version": 1
+}

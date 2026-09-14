@@ -62,3 +62,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 파이 첸 | 매직 존슨 | peer_s_rank_hunter_to_peer_s_rank_hunter | Johnson | casual-but-familiar | Uses his surname while inviting him to drink. |
 | 매직 존슨 | 파이 첸 | peer_s_rank_hunter_to_peer_s_rank_hunter | Miss Chen | casual-polite | Uses a polite English honorific while inviting her to join the group. |
 | 파이 첸 | 최 팀장 | senior_s_rank_hunter_to_trusted_ally | handsome bachelor | playful-familiar | Playful address while recruiting Team Leader Choi for the drinking party. |
+| 매직 존슨 | 최 팀장 | peer_ally_to_team_leader | Choi | casual-teasing | Magic Johnson repeatedly addresses Team Leader Choi by surname while joking with him. |
+| 파이 첸 | 진태경 | senior_s_rank_hunter_to_younger_ally | young man | familiar-but-caring | Pai Chen uses a familiar senior-to-junior address while advising Taekyung before deployment. |
+| 진태경 | 아저씨 | passenger_to_pilot | Sir | casual-urgent | Taekyung addresses the pilot informally while demanding full throttle. |

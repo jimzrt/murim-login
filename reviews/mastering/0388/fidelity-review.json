@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "At this rate, two jokes would be enough to kill a man.",
+      "defect": "The English makes the jokes themselves sound lethal, while the source describes Team Leader Choi as looking ready to kill someone over the repeated jokes.",
+      "id": "F01",
+      "rationale": "The construction 사람 죽일 기세다 describes Choi’s threatening demeanor and makes him the implied agent of the killing; it is not a claim that the jokes themselves could kill.",
+      "replacement": "He looked ready to kill a man over two jokes.",
+      "severity": "minor",
+      "source": "Korean lines 347–349; English P171"
+    },
+    {
+      "confidence": 0.97,
+      "current": "After ending his brief communication with Minister of Defense Wei Penghu, state chairman Xiao Yang sat alone in the vast conference room, lost in thought.",
+      "defect": "The word “alone” adds an unsupported physical detail and potentially excludes the secretary who speaks immediately afterward.",
+      "id": "F02",
+      "rationale": "The source says only that Xiao Yang sat in the vast conference room; it does not say he was alone, and the secretary addresses him in the following exchange.",
+      "replacement": "After ending his brief communication with Minister of Defense Wei Penghu, state chairman Xiao Yang sat in the vast conference room, lost in thought.",
+      "severity": "minor",
+      "source": "Korean lines 421–435; English P202"
+    }
+  ],
+  "summary": "Faithful overall, with two localized minor fidelity defects involving joke agency and an unsupported physical detail.",
+  "version": 1
+}

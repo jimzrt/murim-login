@@ -145,3 +145,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 상하이방 | **Shanghai clique** | Faction associated with Xiao Yang and Wei Penghu. |
 | 천안문 광장 | **Tiananmen Square** | Place referenced in Taekyung's hypothetical beheading joke. |
 | 북경 | **Beijing** | Possible destination for teleported nuclear warheads. |
+| 다급해진 전황 | **The Battle Situation Has Become Critical** | Name of the unrefusable Unexpected Quest generated aboard the departing jet. |
+| 유엔 안전보장이사회 | **United Nations Security Council** | International body whose fifteen national leaders join Xiao Yang's emergency meeting. |
