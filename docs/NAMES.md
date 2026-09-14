@@ -30,3 +30,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 수문각주 | **Master of the Gatekeeper Pavilion** | Office Hyuk Mujin is rumored to receive. |
 | 공청석유 | **gongcheong seokyu** | Rare martial-arts elixir; the term also creates a petroleum pun. |
 | 군자 | **junzi** | Confucian ideal of a morally upright gentleman. |
+| 삼문협 | **Three Questions Gorge** | A distant gorge and route connecting Shanxi with Shaanxi and Henan. |
+| 섬서 | **Shaanxi** | Province bordering Shanxi. |
+| 삼공자 | **Third Young Master** | Title used for Jin Taekyung. |
+| 맹주 | **Alliance Leader** | Leader of the regional Murim alliance. |
