@@ -1,0 +1,33 @@
+{
+  "chapter": 66,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.32,
+    "source_characters": 5585,
+    "source_paragraphs": 191,
+    "translation_characters": 12957,
+    "translation_paragraphs": 189
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "numbers",
+      "details": {
+        "values": [
+          "1180",
+          "2"
+        ]
+      },
+      "message": "Arabic numerals from the source are absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "대협",
+        "preferred": "Great Hero or Sir depending tone"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
