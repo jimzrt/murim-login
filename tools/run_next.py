@@ -22,6 +22,7 @@ try:
         command_committed,
         incomplete_chapter,
         incomplete_mastering_chapter,
+        is_harness_artifact,
         master_owns_path,
         paths,
     )
@@ -31,6 +32,7 @@ except ModuleNotFoundError:
         command_committed,
         incomplete_chapter,
         incomplete_mastering_chapter,
+        is_harness_artifact,
         master_owns_path,
         paths,
     )
@@ -77,11 +79,11 @@ def require_repository(chapter: int, *, resume: bool) -> None:
     except subprocess.CalledProcessError as error:
         raise SystemExit(error.stderr.strip() or "project must be an initialized Git repository") from None
     foreign = foreign_master_paths(dirty)
-    ours = [path for path in dirty if path not in foreign]
-    unexpected = [path for path in ours if not allowed_change(path, chapter)]
+    harness = [path for path in dirty if path not in foreign and is_harness_artifact(path)]
+    unexpected = [path for path in harness if not allowed_change(path, chapter)]
     if unexpected:
         raise SystemExit("working tree has unexpected changes: " + ", ".join(unexpected))
-    if not resume and ours:
+    if not resume and harness:
         raise SystemExit("working tree must be clean before run_next; commit or stash existing changes")
 
 
@@ -157,7 +159,10 @@ def commit_accepted(chapter: int) -> None:
     dirty = changed_paths()
     allowed = accept_allowed_paths(chapter)
     foreign = foreign_master_paths(dirty)
-    unexpected = [path for path in dirty if path not in allowed and path not in foreign]
+    unexpected = [
+        path for path in dirty
+        if path not in allowed and path not in foreign and is_harness_artifact(path)
+    ]
     if unexpected:
         raise SystemExit("refusing to commit unexpected paths: " + ", ".join(unexpected))
     ours = [path for path in dirty if path in allowed]
