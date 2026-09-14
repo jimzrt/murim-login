@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "〈Designer-Brand Junkie\n\n**Designer-Brand Junkie**\n\nSee you tomorrow at the same time, same place.",
+      "defect": "The message block has an unmatched angle bracket and repeats the sender name in two incompatible formats.",
+      "id": "C01",
+      "rationale": "A single ordinary blockquote cleanly distinguishes the phone message from prose without resembling a System panel.",
+      "replacement": "> **Designer-Brand Junkie**\n>\n> See you tomorrow at the same time, same place.",
+      "severity": "minor",
+      "source": "Chapter 75, text message from Team Leader Choi"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Of all those topics, the one Jinho hyung preferred was women.",
+      "defect": "The established address “Jinho-hyung” loses its hyphen.",
+      "id": "C02",
+      "rationale": "Chapter 75 consistently establishes the name-plus-kinship form as “Jinho-hyung.”",
+      "replacement": "Of all those topics, the one Jinho-hyung preferred was women.",
+      "severity": "minor",
+      "source": "Chapter 77, opening recollection"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Jinho hyung, a self-proclaimed master of romance, had always stressed that I should use a deep, resonant voice with a woman I liked.",
+      "defect": "The established address “Jinho-hyung” loses its hyphen.",
+      "id": "C03",
+      "rationale": "This should match the form used consistently in Chapter 75.",
+      "replacement": "Jinho-hyung, a self-proclaimed master of romance, had always stressed that I should use a deep, resonant voice with a woman I liked.",
+      "severity": "minor",
+      "source": "Chapter 77, Taekyung introducing himself to Song Song"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Hunter Im is unmarried, right?”\n\n“Unfortunately, yes. He even has two children.”",
+      "defect": "The exchange states that Im Kkeokjeong is unmarried, directly contradicting the active continuity that he is married with two children; it also drops the established “lifelong single” terminology that motivates the joke.",
+      "id": "C04",
+      "rationale": "The replacement restores the running lifelong-single joke and agrees with the established fact that Im Kkeokjeong has a wife and two children.",
+      "replacement": "“Hunter Im is a lifelong single too?”\n\n“Unfortunately, no. He even has two children.”",
+      "severity": "major",
+      "source": "Chapter 77, Team Leader Choi and Butler Kim discussing Im Kkeokjeong"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Thank you, Jinho hyung. If this works out, drinks are on me.",
+      "defect": "The established address “Jinho-hyung” loses its hyphen.",
+      "id": "C05",
+      "rationale": "This should match the form used consistently in Chapter 75.",
+      "replacement": "Thank you, Jinho-hyung. If this works out, drinks are on me.",
+      "severity": "minor",
+      "source": "Chapter 77, Taekyung reacting to Song Song’s introduction"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Jinho hyung had said that you had to start by finding common ground if you wanted someone to like you.",
+      "defect": "The established address “Jinho-hyung” loses its hyphen.",
+      "id": "C06",
+      "rationale": "This should match the form used consistently in Chapter 75.",
+      "replacement": "Jinho-hyung had said that you had to start by finding common ground if you wanted someone to like you.",
+      "severity": "minor",
+      "source": "Chapter 77, Taekyung seeking common ground with Song Song"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Jinho hyung's voice reached me from somewhere, like a hallucination.",
+      "defect": "The established address “Jinho-hyung” loses its hyphen.",
+      "id": "C07",
+      "rationale": "This should match the form used consistently in Chapter 75.",
+      "replacement": "Jinho-hyung's voice reached me from somewhere, like a hallucination.",
+      "severity": "minor",
+      "source": "Chapter 77, Taekyung preparing to confess"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Hyung Jinho snored pretty loudly too, but next to this guy, it was practically on mute.",
+      "defect": "The kinship address and name are accidentally reversed, departing from the established “Jinho-hyung.”",
+      "id": "C08",
+      "rationale": "Taekyung consistently addresses Seong Jinho as “Jinho-hyung,” not “Hyung Jinho.”",
+      "replacement": "Jinho-hyung snored pretty loudly too, but next to this guy, it was practically on mute.",
+      "severity": "minor",
+      "source": "Chapter 79, hotel-room opening"
+    }
+  ],
+  "summary": "The packet preserves its major hooks and contains no apparent accidental spoilers. One dialogue exchange contradicts the established fact that Im Kkeokjeong is married, Chapter 75 contains a malformed text-message block, and Taekyung’s address for Seong Jinho drifts across Chapters 77 and 79.",
+  "version": 1
+}
