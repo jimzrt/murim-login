@@ -6,13 +6,13 @@
 
 We ran like mad. Hyuk Mujin was panting like he was about to drop dead, but he didn’t. Whenever his steps started to slow, I put the spearhead to his back, and he might as well have been Red Hare.[^1]
 
-Then, at some point, the sounds started to reach us.
+Then, after a while, the sounds began to reach us.
 
 Someone screaming. Steel ringing against steel…
 
 Good. The battle wasn’t over yet.
 
-Relief hit me, and my heart hammered at the same time. The fighting was still going on, but I still hadn’t confirmed whether Jin Wikyung was alive or dead.
+Relief washed over me, but my heart pounded all the harder. The fighting was still going on, but I had yet to confirm whether Jin Wikyung was alive or dead.
 
 What if he died because we were a minute—or even a second—too late?
 
@@ -20,17 +20,17 @@ What if he died because we were a minute—or even a second—too late?
 
 Crack.
 
-I tightened my grip on the spear without realizing it. I drew internal energy up from my dantian and sent it flowing through both legs.
+My grip tightened around the spear. I drew internal energy up from my dantian and sent it flowing into both legs.
 
 “S-Squad Leader!”
 
-I kept running, leaving the reconnaissance squad’s voices fading behind me. The countless tracks the main force had left, and the growing noise of the battlefield, were my landmarks.
+I kept running, leaving the reconnaissance squad’s voices fading behind me. The countless tracks left by the main force and the growing din of the battlefield guided my way.
 
 *Stay alive. Stay alive. Please, stay—*
 
 Ah. I could finally see it.
 
-Below a low hill, not even two hundred meters away, countless martial artists were locked in a bloodbath, killing and being killed.
+Below a low hill, less than two hundred meters away, countless martial artists were locked in a bloody struggle, killing and being killed.
 
 “Die!”
 
@@ -38,23 +38,23 @@ Below a low hill, not even two hundred meters away, countless martial artists we
 
 Corpses and blood—and more corpses, more blood!
 
-The sight in front of me was so brutal I was momentarily speechless.
+The scene before me was brutal enough to leave me speechless.
 
-If I hadn’t built up a tolerance from my life as a Hunter, I probably wouldn’t have been able to pull myself out of the shock for a long time.
+If my life as a Hunter hadn’t hardened me to sights like this, I probably would have stood there reeling from the shock.
 
 *Jin Wikyung! Where is Jin Wikyung?*
 
 But someone else caught my eye first.
 
-White hair you could pick out at a glance even from far away.
+White hair I could pick out at a glance even from this distance.
 
 *The Head Elder!*
 
-He stood in front of someone, sword in hand.
+He stood before someone with a sword in his hand.
 
-Hidden behind the Head Elder’s back, the kneeling man was hard to see, but he was huge, and he had a sword in his hand.
+The kneeling man was mostly hidden behind the Head Elder’s back, but he was huge and held a sword of his own.
 
-*A big guy with a sword?*
+*A big man with a sword?*
 
 Only one person came to mind.
 
@@ -68,9 +68,9 @@ This spear was one of them, with a wooden shaft and a steel head.
 
 *Equip Weapon.*
 
-I took out the spear and stepped back a few paces.
+I took out the spear and backed up several paces.
 
-Two hundred meters. Impossibly far. Even more so if I was trying to hit someone with a thrown spear.
+Two hundred meters. An impossibly long distance, especially if I was trying to hit someone with a thrown spear.
 
 But I had to do it.
 
@@ -78,9 +78,9 @@ But I had to do it.
 
 Strength, Stamina, Agility.
 
-I pushed the stats I’d built up going back and forth between Murim and reality as far as they would go.
+I pushed the stats I’d built up traveling between Murim and reality as far as they would go.
 
-With internal energy in my arm, I could send the spear farther and harder.
+With internal energy infused into my arm, I could throw the spear farther and harder.
 
 “Hup.”
 
@@ -98,7 +98,7 @@ Shhk.
 
 Blue light flashed, and the spear split cleanly in two from the tip of the spearhead all the way down the shaft.
 
-For a moment I couldn’t tell whether I’d thrown a spear or a birthday cake.
+For a moment, I couldn’t tell whether I’d thrown a spear or a birthday cake.
 
 “Who the hell are you?”
 
@@ -122,7 +122,7 @@ I stared at his cold, frozen face in the distance and shouted with everything I 
 
 * * *
 
-Jin Wikyung heard the voice right after bringing down all three Peak masters of the Mount Heng Sword Sect.
+Jin Wikyung heard the voice just after bringing down all three Peak masters of the Mount Heng Sword Sect.
 
 No—not just Jin Wikyung. Everyone on the battlefield heard the shout.
 
@@ -132,23 +132,23 @@ No—not just Jin Wikyung. Everyone on the battlefield heard the shout.
 
 Cursing?
 
-That was common enough on a battlefield. But if the target of the abuse was the Head Elder, and the young man who had appeared out of nowhere to hurl vicious abuse at him was Jin Taekyung, then it was a completely different matter.
+That was common enough on a battlefield. But when the target was the Head Elder, and the young man who had appeared out of nowhere to curse him out was Jin Taekyung, it became an entirely different matter.
 
-“Isn’t that… isn’t that the Third Young Master?”
+“Isn’t that… the Third Young Master?”
 
 “What? That’s Jin Taekyung? But why?”
 
 “What’s going on?”
 
-Jin Wikyung was thinking the same thing.
+Jin Wikyung was wondering the same thing.
 
 *What in the world is happening?*
 
-His youngest brother, who was supposed to be in the rear, had appeared on the battlefield. That alone was shocking enough, and on top of it he had hurled language unfit to repeat at one of the family’s elders.
+His youngest brother, who should have been in the rear, had appeared on the battlefield. That alone was shocking enough, but he had also hurled unspeakable abuse at one of the family’s most respected elders.
 
 Wipeng, standing beside him, muttered, “He’s completely lost it.”
 
-Jin Wikyung was just about to nod without realizing it when—
+Jin Wikyung was about to nod without realizing it when—
 
 “The Head Elder is—!”
 
@@ -174,37 +174,41 @@ Even the senior members who had recently begun to look favorably on Jin Taekyung
 
 “Does he even know who the old master is?”
 
-If they had to name the person who had contributed most to this war, it was, without question, the Head Elder.
+If they had to name the person who had contributed most to this war, it was without question the Head Elder.
 
-He had helped Jin Wikyung gather the family’s strength, and in today’s battle he had defeated Lee Cheonbaek.
+He had helped Jin Wikyung unite the family’s strength, and in today’s battle, he had defeated Lee Cheonbaek.
 
-Even setting aside his merits in this war, Jin Taekyung’s words could only sound like nonsense.
+Even apart from his accomplishments in this war, Jin Taekyung’s words could only sound like nonsense.
 
 Who was the Head Elder?
 
-He was a master of the previous generation, famous even in the Central Plains as the Blade of Flowers, a symbol of righteousness who had struck down countless demonic masters during the Great Faction War.
+He was a master of the previous generation, famous even throughout the Central Plains as the Blade of Flowers, and a paragon of righteousness who had struck down countless demonic masters during the Great Faction War.
 
 Every martial artist in Shanxi held him in some degree of respect.
 
 “That man? A son of a bitch? A traitor?”
 
-“Good heavens. That boy is smearing shit on three hundred years of the Jin Family of Taiyuan’s history.”
+“Good heavens. That boy is smearing shit over three hundred years of the Jin Family of Taiyuan’s history.”
 
-The Jin Family of Taiyuan, the Mount Heng Sword Sect—everyone here seemed to share the same thought. But there was at least one exception.
+The Jin Family of Taiyuan and the Mount Heng Sword Sect—everyone there seemed to share the same thought.
+
+But there was at least one exception.
 
 *The Head Elder. Betrayal.*
 
-The instant he heard his youngest brother’s words, Jin Wikyung felt the blood in his entire body run cold. It was a sense of wrongness, finally showing its true shape.
+The instant he heard his youngest brother’s words, Jin Wikyung felt all the blood in his body run cold.
+
+The vague sense of wrongness had finally taken shape.
 
 *Lee Seogeun’s death was where it began.*
 
-He had died from a lethal toxin. The Mount Heng Sword Sect had named the Jin Family of Taiyuan as the culprit, and that had been the spark that started the war.
+He had died after being poisoned with a lethal toxin. The Mount Heng Sword Sect had named the Jin Family of Taiyuan as the culprit, and that had been the spark that started the war.
 
 But the most important question had gone unanswered.
 
 *Who was the murderer?*
 
-Even now, with the war nearing its end, the murderer hiding behind it all had never been identified.
+Even now, with the war nearing its end, the murderer lurking behind it all had never been identified.
 
 No—because the war was nearing its end, no one cared about the murderer’s identity anymore.
 
@@ -220,29 +224,29 @@ The Mount Heng Sword Sect had declared war, and the Jin Family of Taiyuan had re
 
 *And the Head Elder had been there.*
 
-The Head Elder, who had been living in seclusion, had appeared immediately after news of Lee Seogeun’s poisoning reached the family. His role within the family had been enormous.
+The Head Elder, who had lived in seclusion for years, had emerged immediately after news of Lee Seogeun’s poisoning reached the family. His role within the family had been enormous.
 
-A respected martial artist. One of the family’s senior elders.
+A respected martial artist. One of the family’s most senior elders.
 
 Without the Head Elder’s active cooperation, the Jin Family of Taiyuan might have split in two.
 
 *We were able to come this far because of his help.*
 
-Jin Wikyung thought the opposite.
+Then Jin Wikyung reversed the thought.
 
 *We were able to come this far because this was what the Head Elder wanted.*
 
-A span too short even to call an instant. When Jin Wikyung finished the thought, he opened his mouth.
+In a moment too brief to call an instant, Jin Wikyung followed the thought to its conclusion and opened his mouth.
 
 “Wipeng.”
 
-“Your orders.”
+“At your command.”
 
 “Cut down the First Elder.”
 
 “What?”
 
-The stooped, emaciated old man—the First Elder—opened his eyes wide.
+The First Elder, a stooped and emaciated old man, stared wide-eyed.
 
 The senior members around him were just as shocked.
 
@@ -250,13 +254,13 @@ The senior members around him were just as shocked.
 
 “What in the world…!”
 
-But Wipeng did not hesitate. Before anyone knew it, his sword was flying toward the First Elder’s chest.
+But Wipeng did not hesitate. Before anyone could react, his sword was already flying toward the First Elder’s chest.
 
 Clang-clang-clang!
 
 Two swords suddenly cut in and knocked Wipeng’s blade aside.
 
-Two fat, exceptionally tall old men.
+Their wielders were two old men, both fat and exceptionally tall.
 
 They were the Second and Third Elders, who, together with the First Elder, styled themselves the Head Elder’s hands and feet.
 
@@ -264,25 +268,25 @@ Wipeng’s brow twitched when he saw the faint Sword Energy gathered on their bl
 
 “You’ve been hiding your martial arts.”
 
-Instead of answering, the First Elder threw a single punch.
+Instead of answering, the First Elder threw a punch.
 
 Boom!
 
-With internal energy as deep as the years he had lived, he sent Wipeng flying, then straightened his back.
+The tremendous internal energy he had accumulated over his long life sent Wipeng flying. The First Elder straightened his hunched back.
 
-The field froze at the appearance of yet another Peak master who had spent his entire life hidden in the Head Elder’s shadow.
+The battlefield froze at the emergence of yet another Peak master, one who had spent his entire life hidden in the Head Elder’s shadow.
 
 “First Elder, what… what is this?”
 
-“Then could it be…!”
+“Then could it be…?”
 
 *Betrayal.*
 
-The word stamped itself clearly into everyone’s minds.
+The word burned itself into everyone’s minds.
 
 “That’s impossible!”
 
-The one who shouted was the White Tiger Hall Leader. If the Elders were the Head Elder’s hands and feet, he had thoroughly served as the First Elder’s.
+The White Tiger Hall Leader was the one who shrieked. If the Elders were the Head Elder’s hands and feet, then he had served the First Elder just as faithfully.
 
 “Elder, Lesser Family Head. There seems to be some misunderstanding…”
 
@@ -292,7 +296,7 @@ Shhk. Thud.
 
 Jin Wikyung and the First Elder locked eyes across the space between them.
 
-“You recruited the White Tiger Hall Leader too?”
+“You didn’t recruit the White Tiger Hall Leader?”
 
 “He was a noisy man. That was all. The others were the same.”
 
@@ -302,11 +306,11 @@ The Elders had betrayed the family, but the senior members of their faction had 
 
 “Then why… Ah!”
 
-“Sharp. I’ll give you that.”
+“Perceptive. I’ll give you that.”
 
-The First Elder pulled a dark, grimy bamboo tube from inside his robes. Only a little of the fuse was left, and it was already burning down.
+The First Elder pulled a dark bamboo tube from inside his robes. Its fuse was already burning, with only a short length left.
 
-“Could we tell important secrets to men like that? Even just throwing the inside into chaos had already served its purpose. Things were easier if they didn’t know what was happening outside.”
+“How could we entrust important secrets to men like them? Once they’d thrown the family into confusion, they had served their purpose. It was easier to proceed as long as they remained ignorant of what was happening outside.”
 
 Jin Wikyung’s shout came out as a scream.
 
@@ -316,19 +320,19 @@ Jin Wikyung’s shout came out as a scream.
 
 The First Elder was right.
 
-The instant the fuse burned to its end, something burst, and a red flame shot high into the sky.
+The instant the fuse burned to its end, something burst inside the tube, and a red flare shot high into the sky.
 
 Fwish—boom!
 
-It was a signal.
+It was the signal.
 
-The martial artists of the small and mid-sized sects known as the Five Gates of Shanxi—the Three Paths Sect, a union of three sects; the Byeokdo Sect, which trained chiefly with sabers; and Gunggwimun, which had been pouring arrows from the cliffs without pause—turned in an instant.
+The martial artists of the small and mid-sized sects collectively known as the Five Gates of Shanxi all turned at once—the Three Paths Sect, an alliance of three sects; the saber-focused Byeokdo Sect; and Gunggwimun, which had been pouring arrows down from the cliffs without pause.
 
 “Kill everyone in your path!”
 
 “No exceptions! Sweep them all away!”
 
-They were no longer the clumsy third-rate martial artists they had seemed to be. Killing intent flowed from their eyes, and their sword paths were sharp.
+They were no longer the clumsy third-rate martial artists they had pretended to be. Killing intent flowed from their eyes, and the paths traced by their swords were razor-sharp.
 
 *This wasn’t something they prepared overnight.*
 
@@ -338,13 +342,13 @@ Jin Wikyung’s face hardened.
 
 Boom!
 
-The Head Elder looked up at the sky. Before the red flame had even faded, enormous roars erupted from every direction.
+The Head Elder looked up at the sky. Before the red flare had even faded, enormous roars erupted from every direction.
 
 *Too fast. Far too fast.*
 
-The signal was supposed to go up only after the Mount Heng Sword Sect had been annihilated. The Five Gates of Shanxi were a blade prepared over decades. It had to be swung only once and finish everything like a bolt of lightning.
+The signal was supposed to go up only after the Mount Heng Sword Sect had been annihilated. The Five Gates of Shanxi were a blade honed over decades. It had to be swung only once and end everything with the speed of a lightning bolt.
 
-*Everything has its flow.*
+*Everything has its proper flow.*
 
 The plan that had proceeded without a hitch was beginning to veer off course. As the Head Elder smiled bitterly, a voice slipped into his ear.
 
@@ -356,13 +360,13 @@ His voice was faint, but his eyes burned more fiercely than ever.
 
 “You still have the strength to talk?”
 
-“I’ll tear you to pieces while you’re still alive.”
+“I’ll tear you apart while you’re still alive.”
 
-But no sooner had he finished speaking than blood poured from his mouth. The Head Elder pressed one of his acupoints and murmured, “That would be inconvenient just yet. You still have something to do.”
+No sooner had he finished speaking than blood poured from his mouth. The Head Elder pressed one of his acupoints and murmured, “That would be inconvenient just yet. You still have something to do.”
 
 Lee Cheonbaek despaired.
 
-They had taken heavy losses, but hundreds of Mount Heng Sword Sect martial artists still remained. At this point, with even the leadership annihilated, if their Sect Leader were taken prisoner…
+They had taken heavy losses, but hundreds of Mount Heng Sword Sect martial artists still remained. With their leadership already annihilated, if their Sect Leader were taken prisoner…
 
 *Kill me instead!*
 
@@ -372,7 +376,7 @@ He had become a living corpse with his eyes still open.
 
 “You bastard! Get your hands off him!”
 
-At the same time, the air split with a shriek.
+At the same moment, the air split with a shriek.
 
 Fwoooosh!
 
