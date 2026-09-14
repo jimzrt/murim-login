@@ -1,0 +1,146 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "If so, using informal speech while getting beaten was better for my mental health.",
+      "defect": "The draft replaces Taekyung’s joking idea of claiming a psychological or moral victory with a general claim about mental health, weakening both the joke and his characterization.",
+      "id": "F01",
+      "rationale": "정신 승리 means consoling oneself by claiming a victory despite actually losing, not improving one’s mental health.",
+      "replacement": "If so, using informal speech while getting beaten at least let me claim a moral victory.",
+      "severity": "major",
+      "source": "기왕이면 반말 쓰고 맞는 게 정신 승리에 도움이 된다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The more the skin on his palms split and healed, the faster and stronger his spear became.",
+      "defect": "The draft omits the explicit quantity that his palms split and healed dozens of times.",
+      "id": "F02",
+      "rationale": "수십 번 explicitly establishes the repeated physical toll of Taekyung’s seven years of training.",
+      "replacement": "His palms split open and healed dozens of times, and with each cycle, his spear became faster and stronger.",
+      "severity": "major",
+      "source": "손바닥 가죽이 수십 번 찢어지고 아물수록 그의 창도 빠르고 강해졌다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "*He really did it.*",
+      "defect": "The thought shifts from astonishment that such a feat is actually possible to a straightforward acknowledgment that Taekyung accomplished it.",
+      "id": "F03",
+      "rationale": "이게 되네 expresses Jin Mukyung’s disbelief that the result could happen at all.",
+      "replacement": "*So it really is possible.*",
+      "severity": "minor",
+      "source": "‘이게 되네.’"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Jin Mukyung answered with an unconvinced expression and sheathed his sword.",
+      "defect": "“Unconvinced” implies that Jin Mukyung doubts someone else’s claim, whereas the source describes him as visibly uneasy or not entirely comfortable with his own excuse.",
+      "id": "F04",
+      "rationale": "석연치 않은 describes lingering unease or dissatisfaction, fitting his awareness that he broke his promise not to use Sword Energy.",
+      "replacement": "Jin Mukyung answered with a distinctly uneasy expression and sheathed his sword.",
+      "severity": "minor",
+      "source": "“……그걸 곧이곧대로 믿은 놈이 멍청한 거지.”\n\n영 석연치 않은 얼굴로 대답한 진무경이 검을 집어넣었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "> - The remaining **Time Limit** has expired.",
+      "defect": "“Expired” implies that the countdown naturally reached zero, but the System removes the still-remaining time because Jin Mukyung ended the training.",
+      "id": "F05",
+      "rationale": "소멸합니다 means the remaining time disappears; the preceding panel explicitly showed that two hours and twenty-two minutes were still left.",
+      "replacement": "> - The remaining **Time Limit** has vanished.",
+      "severity": "major",
+      "source": "- 남아 있는 [제한 시간]이 소멸합니다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“After ten days, this is all you can do? What a waste of my ti—”",
+      "defect": "The draft drops the relational action of Taekyung keeping up with Jin Mukyung, turning the line into a generic criticism of Taekyung’s ability.",
+      "id": "F06",
+      "rationale": "못 따라오다 specifically means failing to follow or keep pace with someone, which supports Jin Mukyung’s deliberately dismissive evaluation.",
+      "replacement": "“To think this is all you managed to keep up with me after ten days. What a waste of my ti—”",
+      "severity": "major",
+      "source": "“열흘 동안 고작 이 정도밖에 못 따라오다니. 내 시간이 아깝…….”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Jin Mukyung’s eyes rolled back as he lunged toward me.",
+      "defect": "The draft makes Jin Mukyung actually lunge, but the source says he was only about to charge when the interruption occurred.",
+      "id": "F07",
+      "rationale": "달려들려던 marks an intended action interrupted before completion; preserving that interruption is necessary for the scene’s physical sequence.",
+      "replacement": "Jin Mukyung’s eyes went wild, and he was just about to charge at me.",
+      "severity": "critical",
+      "source": "눈깔이 뒤집힌 진무경이 내게 달려들려던 그 순간이었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Something had clearly happened while we had not seen him. His face was covered in bruises, and four or five of his teeth were missing.",
+      "defect": "The draft changes Childeuk’s teeth from broken to missing.",
+      "id": "F08",
+      "rationale": "부러졌다 explicitly means the teeth were broken; the later narration also refers to them as 부러진 이빨.",
+      "replacement": "Something had clearly happened while we had not seen him. His face was covered in bruises, and four or five of his teeth were broken.",
+      "severity": "major",
+      "source": "못 본 사이에 무슨 일이 있었는지 얼굴은 멍투성이고 이빨이 네댓 개 부러졌다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "In the modern world, there were potions, so there was hardly an illness that could not be cured. Murim was different.",
+      "defect": "“Hardly” weakens the source’s absolute statement and introduces possible incurable illnesses that the Korean explicitly excludes.",
+      "id": "F09",
+      "rationale": "못 고칠 병이 없다 is an unqualified negative construction meaning there is no illness that cannot be cured.",
+      "replacement": "In the modern world, there were potions, so there was no ailment they couldn’t cure. Murim was different.",
+      "severity": "major",
+      "source": "현실에서야 포션이 있으니 못 고칠 병이 없다지만 무림은 다르다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "No matter how famous I had become lately, I was nowhere near Jin Mukyung’s level. Childeuk answered with a humbled expression.",
+      "defect": "“Jin Mukyung’s level” can mean martial strength or System Level rather than fame, and “humbled” does not convey Childeuk’s awed sense of being honored.",
+      "id": "F10",
+      "rationale": "유명세 explicitly compares their fame, while 황송하다 conveys feeling overwhelmed and honored before a superior.",
+      "replacement": "I might have made a name for myself lately, but I was still nowhere near as famous as Jin Mukyung. Childeuk answered with an awestruck expression.",
+      "severity": "major",
+      "source": "내가 근래 들어서 아무리 유명세를 떨치고 있다지만 진무경만큼은 아니다. 칠득이가 황송하다는 얼굴로 대답했다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Only specially selected martial artists within our family can serve directly under the Lesser Family Head.”",
+      "defect": "The draft replaces Jin Mukyung’s kinship-specific reference to his eldest brother with an institutional title.",
+      "id": "F11",
+      "rationale": "큰형님 explicitly identifies Jin Wikyung as Jin Mukyung’s eldest brother and preserves the family hierarchy emphasized in this exchange.",
+      "replacement": "“Only specially selected martial artists within our family can serve directly under our eldest brother.”",
+      "severity": "major",
+      "source": "“큰형님 직속은 본가 내에서도 선별된 무인들만 들어갈 수 있는 곳인데.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "**Level 12: Childeuk**",
+      "defect": "The System panel omits Childeuk’s newly revealed surname, Jang.",
+      "id": "F12",
+      "rationale": "장칠득 gives his full name, which is subsequently used in Jin Wikyung’s greeting and in the title 장 무인.",
+      "replacement": "**Level 12: Jang Childeuk**",
+      "severity": "major",
+      "source": "[Lv.12 장칠득]"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Childeuk, man of benevolence, righteousness, propriety, and wisdom! Our martial artist Childeuk, you’ve arrived!”",
+      "defect": "The draft omits the surname in both forms of address and converts “Martial Artist Jang,” a surname-based title, into the unnatural possessive phrase “our martial artist Childeuk.”",
+      "id": "F13",
+      "rationale": "장칠득 is the full name, while 장 무인 addresses him by surname and his new status as a martial artist.",
+      "replacement": "“Jang Childeuk, a man of benevolence, righteousness, propriety, and wisdom! Is that you, Martial Artist Jang?”",
+      "severity": "major",
+      "source": "“인의예지를 갖춘 장칠득! 우리 장 무인 왔는가!”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "“Yes, Lesser Family Head!”",
+      "defect": "The draft loses the emphatic, deferential cadence of Childeuk’s response.",
+      "id": "F14",
+      "rationale": "옛 is a forceful deferential acknowledgment, and retaining that register supports Childeuk’s overeager voice toward Jin Wikyung.",
+      "replacement": "“Yes, sir, Lesser Family Head!”",
+      "severity": "minor",
+      "source": "“옛! 소가주님.”"
+    }
+  ],
+  "summary": "The draft contains one reversed action and several meaningful losses involving System mechanics, characterization, quantity, kinship, identity, and register.",
+  "version": 1
+}
