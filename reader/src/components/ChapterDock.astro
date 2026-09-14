@@ -1,0 +1,62 @@
+---
+import type { ChapterRef } from "../lib/chapters";
+import { chapterHref } from "../lib/chapters";
+
+interface Props {
+  previous?: ChapterRef | null;
+  next?: ChapterRef | null;
+}
+
+const { previous, next } = Astro.props;
+---
+
+<nav class="chapter-dock" id="chapter-dock" aria-label="Chapter controls">
+  {
+    previous ? (
+      <a class="dock-btn" data-nav="prev" rel="prev" href={chapterHref(previous.chapter)} aria-label={`Previous: ${previous.title}`} title={`Previous: ${previous.title}`}>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <path d="M15 6 9 12l6 6"></path>
+        </svg>
+        <span class="dock-label">{previous.chapter}</span>
+      </a>
+    ) : (
+      <span class="dock-btn is-disabled" aria-disabled="true" aria-label="Previous chapter unavailable" title="Previous chapter unavailable">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <path d="M15 6 9 12l6 6"></path>
+        </svg>
+        <span class="dock-label" aria-hidden="true">—</span>
+      </span>
+    )
+  }
+  <button class="dock-btn" id="dock-top" type="button" aria-label="Scroll to top" title="Scroll to top">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <path d="M12 19V5"></path>
+      <path d="m5 12 7-7 7 7"></path>
+    </svg>
+    <span class="dock-label">Top</span>
+  </button>
+  <button class="dock-btn" id="dock-bottom" type="button" aria-label="Scroll to bottom" title="Scroll to bottom">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <path d="M12 5v14"></path>
+      <path d="m19 12-7 7-7-7"></path>
+    </svg>
+    <span class="dock-label">Bottom</span>
+  </button>
+  {
+    next ? (
+      <a class="dock-btn dock-btn-next" data-nav="next" rel="next" href={chapterHref(next.chapter)} aria-label={`Next: ${next.title}`} title={`Next: ${next.title}`}>
+        <span class="dock-label">{next.chapter}</span>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <path d="m9 6 6 6-6 6"></path>
+        </svg>
+      </a>
+    ) : (
+      <span class="dock-btn dock-btn-next is-disabled" aria-disabled="true" aria-label="Next chapter unavailable" title="Next chapter unavailable">
+        <span class="dock-label" aria-hidden="true">—</span>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <path d="m9 6 6 6-6 6"></path>
+        </svg>
+      </span>
+    )
+  }
+</nav>
