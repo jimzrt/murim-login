@@ -104,6 +104,29 @@ class RunNextTest(unittest.TestCase):
         self.assertEqual(command[-2:], ["draft", "14"])
         self.assertNotIn("omp", command)
 
+    def test_retryable_model_step_is_retried_then_succeeds(self):
+        results = [
+            SimpleNamespace(returncode=1),
+            SimpleNamespace(returncode=0),
+        ]
+        with (
+            patch.object(run_next, "model_step_retries", return_value=2),
+            patch.object(run_next.subprocess, "run", side_effect=results) as runner,
+        ):
+            run_next.run_workflow_command(14, "python tools/workflow.py update 14")
+        self.assertEqual(runner.call_count, 2)
+
+    def test_non_retryable_step_fails_immediately(self):
+        with (
+            patch.object(run_next, "model_step_retries", return_value=2),
+            patch.object(
+                run_next.subprocess, "run", return_value=SimpleNamespace(returncode=1)
+            ) as runner,
+        ):
+            with self.assertRaisesRegex(SystemExit, "workflow revise failed"):
+                run_next.run_workflow_command(14, "python tools/workflow.py revise 14")
+        self.assertEqual(runner.call_count, 1)
+
 
 if __name__ == "__main__":
     unittest.main()

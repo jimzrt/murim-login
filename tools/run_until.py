@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Run run_next.py sequentially until a target chapter, stopping on the first error."""
+"""Run run_next.py sequentially until a target chapter, with bounded chapter retries."""
 
 from __future__ import annotations
 
@@ -13,7 +13,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "tools"))
 
 from run_lock import hold_run_lock
-from workflow import incomplete_chapter
+from workflow import incomplete_chapter, project_config
 
 
 def next_chapter() -> int:
@@ -37,16 +37,48 @@ def planned_chapters(until: int) -> list[int]:
     return list(range(start, until + 1))
 
 
+def default_chapter_retries() -> int:
+    return max(0, int(project_config().get("run_until_chapter_retries", 2)))
+
+
 def run_next_chapter() -> int:
     command = [sys.executable, str(ROOT / "tools" / "run_next.py")]
     return subprocess.run(command, cwd=ROOT).returncode
+
+
+def run_chapter_with_retries(chapter: int, retries: int, lock) -> int:
+    attempts = 1 + max(0, retries)
+    for attempt in range(1, attempts + 1):
+        lock.update(chapter=chapter, stage=f"run_next:{attempt}/{attempts}")
+        code = run_next_chapter()
+        if code == 0:
+            return 0
+        if attempt == attempts:
+            return code
+        print(
+            f"Chapter {chapter} failed with exit code {code}; "
+            f"retry {attempt}/{retries} (resume same chapter)",
+            flush=True,
+        )
+    return 1
 
 
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("until", type=int, help="stop after this chapter is committed")
     parser.add_argument("--dry-run", action="store_true", help="print the plan and exit")
+    parser.add_argument(
+        "--retries",
+        type=int,
+        default=None,
+        help=(
+            "extra run_next attempts per chapter after the first failure "
+            f"(default: docs/workflow.json run_until_chapter_retries, currently "
+            f"{default_chapter_retries()})"
+        ),
+    )
     args = parser.parse_args()
+    retries = default_chapter_retries() if args.retries is None else max(0, args.retries)
     chapters = planned_chapters(args.until)
     start = start_chapter()
     if not chapters:
@@ -54,7 +86,8 @@ def main() -> int:
         return 0
     print(
         f"Until {args.until}: {len(chapters)} chapter{'s' if len(chapters) != 1 else ''} remaining "
-        f"({chapters[0]}–{chapters[-1]})",
+        f"({chapters[0]}–{chapters[-1]}); {retries} chapter retr{'ies' if retries != 1 else 'y'} "
+        f"after failure",
         flush=True,
     )
     if args.dry_run:
@@ -70,13 +103,13 @@ def main() -> int:
                 raise SystemExit(
                     f"next chapter is {current}, expected {chapter}; stopping before run_next"
                 )
-            lock.update(chapter=chapter, stage="run_next")
             print(f"\n=== Chapter {chapter} ({index}/{len(chapters)}) ===", flush=True)
-            code = run_next_chapter()
+            code = run_chapter_with_retries(chapter, retries, lock)
             if code:
                 lock.update(stage="failed")
                 print(
-                    f"Chapter {chapter} failed with exit code {code}; stopping. "
+                    f"Chapter {chapter} failed with exit code {code} after {1 + retries} attempt"
+                    f"{'' if retries == 0 else 's'}; stopping. "
                     f"Resume chapter {chapter}; do not start a later chapter until it is committed.",
                     flush=True,
                 )
