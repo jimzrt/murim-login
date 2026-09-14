@@ -1,0 +1,136 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“You’ll be like this, too, when you see her.”",
+      "defect": "The source uses a gender-neutral reference to the kitten, but the draft prematurely identifies it as female.",
+      "id": "F01",
+      "rationale": "Nothing in the source establishes the kitten’s sex, so the translation must preserve that uncertainty.",
+      "replacement": "“You’ll be like this, too, when you see this little one.”",
+      "severity": "critical",
+      "source": "오빠도 얘 보면 그렇게 될걸."
+    },
+    {
+      "confidence": 0.99,
+      "current": "I went out to sort the recycling earlier, and someone had abandoned her in a box. They’d left her there for anyone who wanted to raise her.",
+      "defect": "The draft twice assigns the kitten a female pronoun that is absent from the source.",
+      "id": "F02",
+      "rationale": "The Korean refers to the kitten without specifying its sex.",
+      "replacement": "I went out to sort the recycling earlier, and someone had abandoned it in a box. It had been left there for anyone who wanted to raise it.",
+      "severity": "critical",
+      "source": "아까 분리수거 하러 갔는데 누가 박스에 버려 놨더라고. 기르고 싶은 사람 기르라고."
+    },
+    {
+      "confidence": 0.99,
+      "current": "What did she ever do to deserve that? Right, Oppa?",
+      "defect": "The female pronoun adds an identity detail not supplied by the source.",
+      "id": "F03",
+      "rationale": "얘 remains gender-neutral here.",
+      "replacement": "What did it ever do to deserve that? Right, Oppa?",
+      "severity": "critical",
+      "source": "얘는 뭔 죄야? 안 그래, 오빠?"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I got Mom’s permission to foster her, even if it’s only for a little while. You’re okay with it, too, right?”",
+      "defect": "The draft again assigns the kitten an unsupported female sex.",
+      "id": "F04",
+      "rationale": "The source does not use a gendered pronoun or otherwise identify the kitten’s sex.",
+      "replacement": "“I got Mom’s permission to foster it, even if it’s only for a little while. You’re okay with it, too, right?”",
+      "severity": "critical",
+      "source": "엄마한테 허락받아서 잠깐이라도 임시 보호 하기로 했어. 오빠도 괜찮지?"
+    },
+    {
+      "confidence": 0.99,
+      "current": "More than ninety percent of mental-magic mages suffer from hair loss, and among those, every single person who uses the more difficult Familiar magic is bald.",
+      "defect": "The draft changes a one-hundred-percent incidence of hair loss into complete baldness.",
+      "id": "F05",
+      "rationale": "탈모 denotes hair loss, not necessarily total baldness; the later distinction between thinning hair and complete baldness depends on that difference.",
+      "replacement": "More than ninety percent of mental-magic mages suffer from hair loss, and the rate is one hundred percent among those who use the more difficult Familiar magic.",
+      "severity": "major",
+      "source": "정신계 법사 중 90퍼 이상이 탈모고, 특히 그중에서도 난이도가 있는 패밀리어 마법 쓰는 놈들은 100퍼센트래."
+    },
+    {
+      "confidence": 0.99,
+      "current": "I hurriedly joined a mental-magic mage café and searched for people like me, but out of every hundred members, ninety-eight were bald.",
+      "defect": "The source says this particular café has one hundred members, ninety-eight of whom have hair loss; the draft turns that concrete membership count into a generalized rate and makes them fully bald.",
+      "id": "F06",
+      "rationale": "The replacement preserves both the actual quantity and the source’s less explicit description of their condition.",
+      "replacement": "I hurriedly joined a mental-magic mage café and searched for people like me, only to find that ninety-eight of its one hundred members suffered from hair loss.",
+      "severity": "major",
+      "source": "부랴부랴 정신계 법사 카페 가입해서 나 같은 놈 있는지 찾아봤는데 뭔 카페 회원 100명 중에 98명이 탈모야."
+    },
+    {
+      "confidence": 0.94,
+      "current": "After hearing about my situation, they told me it was already too late. Potions only restore cells temporarily, so if you use them too often, they kill only your hair cells.",
+      "defect": "The placement of “only” makes the potion selectively kill hair cells, rather than saying repeated use merely ends up killing those cells; “hair cells” is also mechanically imprecise.",
+      "id": "F07",
+      "rationale": "The source explains that temporary restoration followed by repeated use ultimately damages the cells responsible for hair.",
+      "replacement": "After hearing about my situation, they told me it was already too late. Potions only restore cells temporarily, so using them too often just ends up killing your hair-follicle cells.",
+      "severity": "major",
+      "source": "내 상황 듣더니 이미 늦었다고, 포션 그거 일시적으로 세포 회복시켜 주는 거라 자주 쓰면 모발 세포만 죽는대."
+    },
+    {
+      "confidence": 0.98,
+      "current": "I tried every damn thing imaginable, but even that only worked for a little while.\n\nAfter trying everything and getting nowhere, I went to a regular doctor. The guy let out a long sigh and said:",
+      "defect": "The draft substantially softens 별 지랄 and 이 새끼, muting the poster’s deliberately coarse internet register.",
+      "id": "F08",
+      "rationale": "The source uses strong vulgarity in both clauses, consistent with the poster’s angry, profane voice.",
+      "replacement": "I tried every kind of crazy shit imaginable, but even that only worked for a little while.\n\nWhen none of it worked, I went to a regular doctor, and the bastard let out a long sigh and said:",
+      "severity": "major",
+      "source": "그 정도로 별 지랄을 다 해 봤는데 그것도 잠깐이야.\n\n하다 하다 안 돼서 민간 의사 찾아갔더니 이 새끼가 한숨 푹 내쉬면서 그러더라."
+    },
+    {
+      "confidence": 0.98,
+      "current": "I don’t know about the rest, but the second commenter seems to be bald, too.",
+      "defect": "The draft makes the commenter completely bald, while the source only identifies them as someone suffering from hair loss.",
+      "id": "F09",
+      "rationale": "탈모인 does not require total baldness.",
+      "replacement": "I don’t know about the rest, but the second commenter seems to be suffering from hair loss, too.",
+      "severity": "minor",
+      "source": "다른 건 모르겠고 두 번째 댓글도 탈모인인 듯."
+    },
+    {
+      "confidence": 0.93,
+      "current": "*A person obsessed with sales figures. Her name: sales associate.*",
+      "defect": "The draft changes a mock-universal definition of salespeople into a remark specifically naming Kim Seonhee.",
+      "id": "F10",
+      "rationale": "The source delivers the line as a general archetypal punchline rather than assigning the description only to the woman present.",
+      "replacement": "*One obsessed with sales figures. Their name: salesperson.*",
+      "severity": "minor",
+      "source": "실적에 미친 자, 그의 이름은 판매 사원."
+    },
+    {
+      "confidence": 0.98,
+      "current": "One title in particular caught my eye.\n\n\n\nHumor X Don’t Use Familiar Magic. I Got Hit by Hair Loss.",
+      "defect": "“Humor X” is an untranslated Korean forum label, and “I Got Hit by Hair Loss” is unnatural English.",
+      "id": "F11",
+      "rationale": "유머X marks the post as not humorous or not a joke, while 탈모 왔다 colloquially means that the poster developed hair loss.",
+      "replacement": "One title in particular caught my eye.\n\n\n\nNo Joke: Don’t Use Familiar Magic. It Made My Hair Fall Out.",
+      "severity": "minor",
+      "source": "그중 제법 시선을 끄는 제목이 하나 있었다.\n\n유머X 패밀리어 마법 쓰지 마라. 탈모 왔다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Click!\n\n\n\nHumor X Don’t Use Familiar Magic. I Got Hit by Hair Loss.",
+      "defect": "The repeated post heading retains the same opaque label and unnatural description as its first appearance.",
+      "id": "F12",
+      "rationale": "The heading must remain consistent when repeated, with 유머X rendered by its forum function and 탈모 왔다 expressed naturally.",
+      "replacement": "Click!\n\n\n\nNo Joke: Don’t Use Familiar Magic. It Made My Hair Fall Out.",
+      "severity": "minor",
+      "source": "클릭!\n\n유머X 패밀리어 마법 쓰지 마라. 탈모 왔다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "A familiar green tracksuit, round glasses, and a swan with her greasy hair tied tightly behind her head waved at me.",
+      "defect": "The English treats “swan” as an unexplained literal description and produces a malformed list, losing the Korean slang joke identifying Hayeon as an unemployed woman.",
+      "id": "F13",
+      "rationale": "백조 literally means “swan” but is also a gendered slang counterpart to the term for an unemployed person; the source activates both senses for the joke.",
+      "replacement": "A familiar “swan”[^1] in a green tracksuit and round glasses, her greasy hair tied tightly back, waved at me.\n\n[^1]: In Korean slang, a “swan” is an unemployed woman.",
+      "severity": "major",
+      "source": "낯익은 초록색 추리닝에 동그란 안경. 떡 진 머리를 뒤로 질끈 묶은 백조 한 마리가 날 보며 손을 흔든다."
+    }
+  ],
+  "summary": "The draft adds an unsupported sex for the kitten, alters several hair-loss facts and quantities, weakens the forum poster’s register, and leaves two Korean jokes opaque or narrowed.",
+  "version": 1
+}
