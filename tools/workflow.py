@@ -16,13 +16,14 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 try:
-    from tools.run_lock import hold_run_lock
+    from tools.run_lock import hold_commit_lock, hold_master_lock, hold_run_lock
 except ModuleNotFoundError:
-    from run_lock import hold_run_lock
+    from run_lock import hold_commit_lock, hold_master_lock, hold_run_lock
 
 STAGES = (
     "READY", "CONTEXT_READY", "DRAFTED", "REVIEWED", "REVISED",
-    "CHECKPOINT_REVIEWED", "CHECKPOINT_APPLIED", "ACCEPTED", "MASTERED", "COMMITTED",
+    "CHECKPOINT_REVIEWED", "CHECKPOINT_APPLIED", "ACCEPTED", "COMMITTED",
+    "MASTERED", "MASTERED_COMMITTED",
 )
 HANGUL = re.compile(r"[가-힣]")
 MODEL_ROLES = ("draft", "review", "summary")
@@ -231,8 +232,14 @@ IN_FLIGHT_STAGES = {
     "CONTEXT_READY", "DRAFTED", "REVIEWED", "REVISED",
     "CHECKPOINT_REVIEWED", "CHECKPOINT_APPLIED", "ACCEPTED", "MASTERED",
 }
+MASTERING_IN_FLIGHT_STAGES = {"MASTERED"}
 
 
+def _unique_incomplete(found: list[int], label: str) -> int | None:
+    unique = sorted(set(found))
+    if len(unique) > 1:
+        raise SystemExit(f"multiple incomplete {label} transactions: " + ", ".join(map(str, unique)))
+    return unique[0] if unique else None
 
 
 def incomplete_chapter() -> int | None:
@@ -251,10 +258,22 @@ def incomplete_chapter() -> int | None:
             continue
         if stage in IN_FLIGHT_STAGES:
             found.append(number)
-    unique = sorted(set(found))
-    if len(unique) > 1:
-        raise SystemExit("multiple incomplete chapter transactions: " + ", ".join(map(str, unique)))
-    return unique[0] if unique else None
+    return _unique_incomplete(found, "chapter")
+
+
+def incomplete_mastering_chapter() -> int | None:
+    found: list[int] = []
+    work = ROOT / ".work"
+    if work.is_dir():
+        for path in sorted(work.glob("[0-9][0-9][0-9][0-9]/workflow.json")):
+            try:
+                state = json.loads(path.read_text(encoding="utf-8"))
+            except (OSError, json.JSONDecodeError):
+                continue
+            number = state.get("chapter")
+            if isinstance(number, int) and state.get("stage") in MASTERING_IN_FLIGHT_STAGES:
+                found.append(number)
+    return _unique_incomplete(found, "mastering")
 
 
 def record_failed_model_output(path: Path, raw: str, error: Exception) -> None:
@@ -320,6 +339,22 @@ def durable_next_action(number: int, state: dict, p: dict[str, Path]) -> str:
 
 
 
+def relative(path: Path) -> str:
+    return str(path.relative_to(ROOT))
+
+
+def checkpoint_translation_window(number: int) -> list[int]:
+    if not interval_due(number, "checkpoint_review_interval"):
+        return [number]
+    interval = int(project_config()["checkpoint_review_interval"])
+    start = max(1, number - interval + 1)
+    return list(range(start, number + 1))
+
+
+def translation_write_paths(number: int) -> set[str]:
+    return {f"translations/{chapter:04d}.md" for chapter in checkpoint_translation_window(number)}
+
+
 def mastering_required_files(number: int) -> set[str]:
     folder = Path("reviews") / "mastering" / f"{number:04d}"
     return {
@@ -329,6 +364,117 @@ def mastering_required_files(number: int) -> set[str]:
             "qa.json", "state.json", "metrics.json",
         )
     }
+
+
+def accept_required_paths(number: int, p: dict[str, Path] | None = None) -> set[str]:
+    p = p or paths(number)
+    required = {
+        relative(p["translation"]),
+        relative(p["report"]),
+        relative(p["review_meta"]),
+        relative(p["beat"]),
+        relative(p["update_packet"]),
+        relative(p["update_result"]),
+        relative(p["review_json"]),
+        relative(p["draft_qa"]),
+        relative(p["final_qa"]),
+        relative(p["metrics"]),
+    }
+    update = json.loads(p["update_result"].read_text(encoding="utf-8"))
+    required.update(update["files"])
+    if interval_due(number, "summary_interval"):
+        required.update(
+            {
+                relative(p["checkpoint_summary"]),
+                relative(p["summary_packet"]),
+            }
+        )
+    if interval_due(number, "checkpoint_review_interval"):
+        required.update(
+            {
+                relative(p["checkpoint_packet"]),
+                relative(p["checkpoint_report"]),
+                relative(p["checkpoint_json"]),
+                relative(p["checkpoint_meta"]),
+                relative(p["checkpoint_disposition"]),
+            }
+        )
+    return required
+
+
+def accept_allowed_paths(number: int, p: dict[str, Path] | None = None) -> set[str]:
+    p = p or paths(number)
+    allowed = {
+        "docs/STATE.md",
+        "docs/CONTEXT.json",
+        "docs/NAMES.md",
+        "docs/ADDRESS.md",
+        "docs/RISKS.md",
+        "compendium.md",
+        relative(p["translation"]),
+        relative(p["draft_qa"]),
+        relative(p["final_qa"]),
+        relative(p["metrics"]),
+        relative(p["packet"]),
+        relative(p["report"]),
+        relative(p["review_json"]),
+        relative(p["review_meta"]),
+        relative(p["update_packet"]),
+        relative(p["update_result"]),
+        relative(p["beat"]),
+    }
+    allowed.update(translation_write_paths(number))
+    if interval_due(number, "summary_interval"):
+        allowed.update({relative(p["checkpoint_summary"]), relative(p["summary_packet"])})
+    if interval_due(number, "checkpoint_review_interval"):
+        allowed.update(
+            {
+                relative(p["checkpoint_packet"]),
+                relative(p["checkpoint_report"]),
+                relative(p["checkpoint_json"]),
+                relative(p["checkpoint_meta"]),
+                relative(p["checkpoint_disposition"]),
+            }
+        )
+    if p["update_result"].exists():
+        try:
+            files = json.loads(p["update_result"].read_text(encoding="utf-8")).get("files")
+        except (OSError, json.JSONDecodeError):
+            files = None
+        if isinstance(files, dict):
+            allowed.update(str(path) for path in files)
+    return allowed
+
+
+def master_owns_path(path: str, number: int) -> bool:
+    return (
+        path == f"translations/{number:04d}.md"
+        or path == f"reviews/metrics/{number:04d}.json"
+        or path.startswith(f"reviews/mastering/{number:04d}/")
+    )
+
+
+def master_required_paths(number: int, p: dict[str, Path] | None = None) -> set[str]:
+    p = p or paths(number)
+    return {
+        relative(p["translation"]),
+        relative(p["metrics"]),
+        *mastering_required_files(number),
+    }
+
+
+def master_allowed_paths(number: int, dirty: list[str] | None = None) -> set[str]:
+    allowed = master_required_paths(number)
+    prefix = f"reviews/mastering/{number:04d}/"
+    if dirty is not None:
+        allowed.update(path for path in dirty if path.startswith(prefix))
+        return allowed
+    folder = ROOT / "reviews" / "mastering" / f"{number:04d}"
+    if folder.is_dir():
+        for path in folder.rglob("*"):
+            if path.is_file():
+                allowed.add(relative(path))
+    return allowed
 
 
 def next_action(state: dict, p: dict[str, Path]) -> str:
@@ -342,9 +488,10 @@ def next_action(state: dict, p: dict[str, Path]) -> str:
         "REVIEWED": f"python tools/workflow.py revise {number}",
         "CHECKPOINT_REVIEWED": f"python tools/workflow.py checkpointed {number}",
         "CHECKPOINT_APPLIED": f"python tools/workflow.py accept {number}",
-        "ACCEPTED": f"python tools/workflow.py master {number}",
-        "MASTERED": f"commit accepted files, then: python tools/workflow.py committed {number} --commit HEAD",
-        "COMMITTED": "stop; do not begin another chapter",
+        "ACCEPTED": f"commit accepted files, then: python tools/workflow.py committed {number} --commit HEAD",
+        "COMMITTED": "stop; translation committed; mastering is a separate queue",
+        "MASTERED": f"commit mastered files, then: python tools/workflow.py committed {number} --commit HEAD",
+        "MASTERED_COMMITTED": "stop; mastering committed",
     }[state["stage"]]
 
 
@@ -1080,7 +1227,7 @@ def command_checkpointed(number: int) -> None:
 
 def command_master(number: int) -> None:
     state, p = load(number)
-    require(state, "ACCEPTED")
+    require(state, "COMMITTED")
     try:
         from tools.mastering import (
             chapter_paths as mastering_paths, command_finish_for_commit,
@@ -1149,61 +1296,51 @@ def command_accept(number: int) -> None:
     save(state, p, "ACCEPTED", translation_sha256=digest(p["translation"]))
 
 
+def _commit_names(commit: str) -> tuple[str, set[str]]:
+    resolved = subprocess.run(
+        ["git", "rev-parse", "--verify", commit], cwd=ROOT, text=True, capture_output=True, check=True
+    ).stdout.strip()
+    names = {
+        name
+        for name in subprocess.run(
+            ["git", "show", "--format=", "--name-only", resolved],
+            cwd=ROOT, text=True, capture_output=True, check=True
+        ).stdout.splitlines()
+        if name
+    }
+    return resolved, names
+
+
+def _register_commit(names: set[str], required: set[str], allowed: set[str]) -> None:
+    missing = required.difference(names)
+    if missing:
+        raise SystemExit("commit is missing: " + ", ".join(sorted(missing)))
+    unexpected = names.difference(allowed)
+    if unexpected:
+        raise SystemExit("commit has unexpected paths: " + ", ".join(sorted(unexpected)))
+
+
 def command_committed(number: int, commit: str) -> None:
     state, p = load(number)
-    require(state, "MASTERED")
+    require(state, "ACCEPTED", "MASTERED")
+    resolved, names = _commit_names(commit)
+    if state["stage"] == "ACCEPTED":
+        if digest(p["translation"]) != state["artifacts"].get("translation_sha256"):
+            raise SystemExit("accepted translation changed before commit registration")
+        _register_commit(names, accept_required_paths(number, p), accept_allowed_paths(number, p))
+        save(state, p, "COMMITTED", commit=resolved)
+        return
     if digest(p["translation"]) != state["artifacts"].get("mastered_translation_sha256"):
         raise SystemExit("mastered translation changed before commit registration")
     mastering_state_path = ROOT / "reviews" / "mastering" / f"{number:04d}" / "state.json"
     if digest(mastering_state_path) != state["artifacts"].get("mastering_state_sha256"):
         raise SystemExit("mastering state changed before commit registration")
-    resolved = subprocess.run(
-        ["git", "rev-parse", "--verify", commit], cwd=ROOT, text=True, capture_output=True, check=True
-    ).stdout.strip()
-    names = subprocess.run(
-        ["git", "show", "--format=", "--name-only", resolved], cwd=ROOT, text=True, capture_output=True, check=True
-    ).stdout.splitlines()
-    required = {
-        str(p["translation"].relative_to(ROOT)),
-        str(p["report"].relative_to(ROOT)),
-        str(p["review_meta"].relative_to(ROOT)),
-        str(p["beat"].relative_to(ROOT)),
-        str(p["update_packet"].relative_to(ROOT)),
-        str(p["update_result"].relative_to(ROOT)),
-    }
-    update = json.loads(p["update_result"].read_text(encoding="utf-8"))
-    required.update(update["files"])
-    if interval_due(number, "summary_interval"):
-        required.update(
-            {
-                str(p["checkpoint_summary"].relative_to(ROOT)),
-                str(p["summary_packet"].relative_to(ROOT)),
-            }
-        )
-    if interval_due(number, "checkpoint_review_interval"):
-        required.update(
-            {
-                str(p["checkpoint_packet"].relative_to(ROOT)),
-                str(p["checkpoint_report"].relative_to(ROOT)),
-                str(p["checkpoint_json"].relative_to(ROOT)),
-                str(p["checkpoint_meta"].relative_to(ROOT)),
-                str(p["checkpoint_disposition"].relative_to(ROOT)),
-            }
-        )
-    required.update(
-        {
-            str(p["review_json"].relative_to(ROOT)),
-            str(p["review_meta"].relative_to(ROOT)),
-            str(p["draft_qa"].relative_to(ROOT)),
-            str(p["final_qa"].relative_to(ROOT)),
-            str(p["metrics"].relative_to(ROOT)),
-        }
+    _register_commit(
+        names,
+        master_required_paths(number, p),
+        master_allowed_paths(number, sorted(names)) | accept_allowed_paths(number, p),
     )
-    required.update(mastering_required_files(number))
-    missing = required.difference(names)
-    if missing:
-        raise SystemExit("commit is missing: " + ", ".join(sorted(missing)))
-    save(state, p, "COMMITTED", commit=resolved)
+    save(state, p, "MASTERED_COMMITTED", master_commit=resolved)
 
 
 def command_status(number: int, as_json: bool) -> None:
@@ -1249,7 +1386,13 @@ def main() -> int:
     if args.command == "update" and getattr(args, "dry_run", False):
         command_update(args.chapter, True, getattr(args, "reuse_raw", False))
         return 0
-    with hold_run_lock(ROOT, holder="workflow", chapter=args.chapter, stage=args.command):
+    if args.command == "master":
+        lock = hold_master_lock(ROOT, holder="workflow", chapter=args.chapter, stage=args.command)
+    elif args.command == "committed":
+        lock = hold_commit_lock(ROOT, holder="workflow", chapter=args.chapter, stage=args.command)
+    else:
+        lock = hold_run_lock(ROOT, holder="workflow", chapter=args.chapter, stage=args.command)
+    with lock:
         if args.command == "prepare":
             command_prepare(args.chapter)
         elif args.command == "drafted":

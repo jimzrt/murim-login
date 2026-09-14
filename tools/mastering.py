@@ -1418,9 +1418,15 @@ def main() -> int:
         chapters = parse_chapters(args.chapters)
         if args.command == "status":
             command_status(chapters)
-        elif args.command == "report":
+            return 0
+        if args.command == "report":
             command_report(chapters)
-        else:
+            return 0
+        try:
+            from tools.run_lock import hold_master_lock
+        except ModuleNotFoundError:
+            from run_lock import hold_master_lock
+        with hold_master_lock(ROOT, holder="mastering", chapter=chapters[0], stage=args.command):
             for number in chapters:
                 if args.command == "run":
                     command_run(number)

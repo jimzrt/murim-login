@@ -1,10 +1,13 @@
 #!/usr/bin/env python3
-"""Exclusive lock for one in-flight translation or audit run.
+"""Exclusive locks for translation, mastering, and Git commits.
 
-The kernel flock on `.work/run.lock` is the mutex. The file's JSON is only a
-status record (pid, holder, chapter, stage). Nested `run_until` → `run_next` →
-`workflow.py` processes join the holder instead of taking a second lock.
-A dead process releases the flock even if the JSON file remains.
+Kernel flocks on `.work/run.lock`, `.work/master.lock`, and `.work/commit.lock`
+are the mutexes. Each file's JSON is only a status record (pid, holder, chapter,
+stage). Nested `run_until` → `run_next` → `workflow.py` processes join the
+matching holder instead of taking a second lock. A dead process releases the
+flock even if the JSON file remains.
+
+Translation and mastering may overlap. Git commits take `commit.lock` and wait.
 """
 
 from __future__ import annotations
@@ -18,12 +21,31 @@ from pathlib import Path
 from typing import Iterator
 
 LOCK_ENV = "MURIM_RUN_LOCK"
+MASTER_LOCK_ENV = "MURIM_MASTER_LOCK"
+COMMIT_LOCK_ENV = "MURIM_COMMIT_LOCK"
 LOCK_NAME = "run.lock"
+MASTER_LOCK_NAME = "master.lock"
+COMMIT_LOCK_NAME = "commit.lock"
 IDENTITY_KEYS = ("pid", "holder", "started")
+LOCK_LABELS = {
+    LOCK_NAME: "translation",
+    MASTER_LOCK_NAME: "mastering",
+    COMMIT_LOCK_NAME: "git commit",
+}
 
 
-def lock_path(root: Path) -> Path:
-    return root / ".work" / LOCK_NAME
+def lock_env_name(name: str) -> str:
+    if name == LOCK_NAME:
+        return LOCK_ENV
+    if name == MASTER_LOCK_NAME:
+        return MASTER_LOCK_ENV
+    if name == COMMIT_LOCK_NAME:
+        return COMMIT_LOCK_ENV
+    return f"MURIM_LOCK_{name.replace('.', '_').upper()}"
+
+
+def lock_path(root: Path, name: str = LOCK_NAME) -> Path:
+    return root / ".work" / name
 
 
 def utcnow() -> str:
@@ -71,12 +93,12 @@ def ancestor_pids() -> set[int]:
     return pids
 
 
-def in_lock_family(holder_pid: int) -> bool:
+def in_lock_family(holder_pid: int, env_key: str = LOCK_ENV) -> bool:
     if holder_pid == os.getpid():
         return True
     if holder_pid in ancestor_pids():
         return True
-    token = os.environ.get(LOCK_ENV)
+    token = os.environ.get(env_key)
     return token == str(holder_pid) and pid_is_alive(holder_pid)
 
 
@@ -119,22 +141,33 @@ def format_payload(payload: dict) -> str:
     return "\n".join(lines)
 
 
-def conflict_message(path: Path, payload: dict) -> str:
+def conflict_message(path: Path, payload: dict, name: str = LOCK_NAME) -> str:
     pid = payload.get("pid")
     live = isinstance(pid, int) and pid_is_alive(pid)
     details = format_payload(payload) or f"  path: {path}"
     liveness = "active" if live else "lock held, recorded pid is not running"
+    kind = LOCK_LABELS.get(name, name)
     return (
-        f"Another translation run is already in progress ({liveness}):\n"
+        f"Another {kind} run is already in progress ({liveness}):\n"
         f"{details}\n"
         f"Stop that process before starting another run. Lock: {path}"
     )
 
 
 class RunLock:
-    def __init__(self, root: Path, *, owned: bool, fd: int | None, payload: dict) -> None:
+    def __init__(
+        self,
+        root: Path,
+        *,
+        owned: bool,
+        fd: int | None,
+        payload: dict,
+        name: str = LOCK_NAME,
+    ) -> None:
         self.root = root
-        self.path = lock_path(root)
+        self.name = name
+        self.env_key = lock_env_name(name)
+        self.path = lock_path(root, name)
         self.owned = owned
         self._fd = fd
         self.payload = payload
@@ -179,8 +212,8 @@ class RunLock:
             fcntl.flock(fd, fcntl.LOCK_UN)
         finally:
             os.close(fd)
-        if os.environ.get(LOCK_ENV) == str(os.getpid()):
-            del os.environ[LOCK_ENV]
+        if os.environ.get(self.env_key) == str(os.getpid()):
+            del os.environ[self.env_key]
 
 
 def acquire_or_join(
@@ -190,8 +223,11 @@ def acquire_or_join(
     chapter: int | None = None,
     stage: str | None = None,
     until: int | None = None,
+    name: str = LOCK_NAME,
+    blocking: bool = False,
 ) -> RunLock:
-    path = lock_path(root)
+    env_key = lock_env_name(name)
+    path = lock_path(root, name)
     path.parent.mkdir(parents=True, exist_ok=True)
     fd = os.open(str(path), os.O_RDWR | os.O_CREAT | os.O_CLOEXEC, 0o644)
     try:
@@ -200,12 +236,15 @@ def acquire_or_join(
         os.close(fd)
         existing = read_payload(path)
         holder_pid = existing.get("pid")
-        if isinstance(holder_pid, int) and in_lock_family(holder_pid):
-            os.environ[LOCK_ENV] = str(holder_pid)
-            lock = RunLock(root, owned=False, fd=None, payload=existing)
+        if isinstance(holder_pid, int) and in_lock_family(holder_pid, env_key):
+            os.environ[env_key] = str(holder_pid)
+            lock = RunLock(root, owned=False, fd=None, payload=existing, name=name)
             lock.update(chapter=chapter, stage=stage, until=until)
             return lock
-        raise SystemExit(conflict_message(path, existing)) from None
+        if not blocking:
+            raise SystemExit(conflict_message(path, existing, name)) from None
+        fd = os.open(str(path), os.O_RDWR | os.O_CREAT | os.O_CLOEXEC, 0o644)
+        fcntl.flock(fd, fcntl.LOCK_EX)
 
     started = utcnow()
     payload = {
@@ -218,8 +257,34 @@ def acquire_or_join(
         "updated": started,
     }
     _write_fd(fd, payload)
-    os.environ[LOCK_ENV] = str(os.getpid())
-    return RunLock(root, owned=True, fd=fd, payload=payload)
+    os.environ[env_key] = str(os.getpid())
+    return RunLock(root, owned=True, fd=fd, payload=payload, name=name)
+
+
+@contextmanager
+def hold_named_lock(
+    root: Path,
+    *,
+    holder: str,
+    name: str,
+    chapter: int | None = None,
+    stage: str | None = None,
+    until: int | None = None,
+    blocking: bool = False,
+) -> Iterator[RunLock]:
+    lock = acquire_or_join(
+        root,
+        holder=holder,
+        chapter=chapter,
+        stage=stage,
+        until=until,
+        name=name,
+        blocking=blocking,
+    )
+    try:
+        yield lock
+    finally:
+        lock.release()
 
 
 @contextmanager
@@ -231,24 +296,78 @@ def hold_run_lock(
     stage: str | None = None,
     until: int | None = None,
 ) -> Iterator[RunLock]:
-    lock = acquire_or_join(root, holder=holder, chapter=chapter, stage=stage, until=until)
-    try:
+    with hold_named_lock(
+        root, holder=holder, name=LOCK_NAME, chapter=chapter, stage=stage, until=until
+    ) as lock:
         yield lock
-    finally:
-        lock.release()
+
+
+@contextmanager
+def hold_master_lock(
+    root: Path,
+    *,
+    holder: str,
+    chapter: int | None = None,
+    stage: str | None = None,
+    until: int | None = None,
+) -> Iterator[RunLock]:
+    with hold_named_lock(
+        root, holder=holder, name=MASTER_LOCK_NAME, chapter=chapter, stage=stage, until=until
+    ) as lock:
+        yield lock
+
+
+@contextmanager
+def hold_commit_lock(
+    root: Path,
+    *,
+    holder: str,
+    chapter: int | None = None,
+    stage: str | None = None,
+) -> Iterator[RunLock]:
+    with hold_named_lock(
+        root,
+        holder=holder,
+        name=COMMIT_LOCK_NAME,
+        chapter=chapter,
+        stage=stage,
+        blocking=True,
+    ) as lock:
+        yield lock
+
+
+@contextmanager
+def hold_audit_locks(
+    root: Path,
+    *,
+    holder: str,
+    chapter: int | None = None,
+    stage: str | None = None,
+) -> Iterator[tuple[RunLock, RunLock]]:
+    with hold_run_lock(root, holder=holder, chapter=chapter, stage=stage) as run:
+        with hold_master_lock(root, holder=holder, chapter=chapter, stage=stage) as master:
+            yield run, master
 
 
 def main() -> int:
     root = Path(__file__).resolve().parents[1]
-    path = lock_path(root)
-    payload = read_payload(path)
-    if not payload:
+    any_lock = False
+    for name, label in (
+        (LOCK_NAME, "Run lock"),
+        (MASTER_LOCK_NAME, "Master lock"),
+        (COMMIT_LOCK_NAME, "Commit lock"),
+    ):
+        path = lock_path(root, name)
+        payload = read_payload(path)
+        if not payload and not path.exists():
+            continue
+        any_lock = True
+        pid = payload.get("pid")
+        live = isinstance(pid, int) and pid_is_alive(pid)
+        print(f"{label} ({'live pid' if live else 'stale pid'}): {path}")
+        print(format_payload(payload) or "  (empty)")
+    if not any_lock:
         print("No run lock.")
-        return 0
-    pid = payload.get("pid")
-    live = isinstance(pid, int) and pid_is_alive(pid)
-    print(f"Run lock ({'live pid' if live else 'stale pid'}): {path}")
-    print(format_payload(payload) or "  (empty)")
     return 0
 
 

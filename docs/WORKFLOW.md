@@ -99,9 +99,20 @@ python tools/run_next.py
 
 The wrapper reads `- Next chapter: N` from `docs/STATE.md`, asks
 `workflow.py status N` for every transition, and executes only the exact command
-it reports through `MASTERED`. No coordinator model or tool-driving agent is
+it reports through `ACCEPTED`. No coordinator model or tool-driving agent is
 involved. It then prints chapter and project cost reports, commits the accepted
 change set, registers the commit, and stops.
+
+Mastering is a lagging FIFO queue. From a second terminal, run:
+
+```bash
+python tools/run_next_mastering.py
+```
+
+That wrapper promotes the oldest unmastered accepted translation, commits
+`Master Chapter N`, and registers `MASTERED_COMMITTED`. Translation and
+mastering may run at the same time. They use separate work locks; Git commits
+wait on `.work/commit.lock`. Do not run `audit_range` beside either queue.
 
 Checkpoint reports are automatically recorded with unresolved dispositions for
 later retrofit. They are advisory and never prevent the current chapter from
@@ -186,12 +197,11 @@ chapters. Safe profiles contain revealed facts only.
 ## Git Checkpoint
 
 `accept` creates the baseline translation and advances the primary transaction
-to `ACCEPTED`. The reported `master` action resumes the mastering overlay,
-promotes its verified copy, records mastering and translation hashes, and
-advances that same transaction to `MASTERED`. Only then does `run_next.py`
-commit the translation, mastering artifacts, packets, structured review, QA,
-metrics, relevant context files, and checkpoint patches using
-`Accept Chapter N`, then register the exact commit through the controller.
+to `ACCEPTED`. `run_next.py` then commits that path set as `Accept Chapter N`
+and registers `COMMITTED`. `run_next_mastering.py` later runs the overlay,
+promotes the verified copy, records mastering hashes, advances the transaction
+to `MASTERED`, commits `Master Chapter N`, and registers `MASTERED_COMMITTED`.
+The pre-master snapshot remains at `reviews/mastering/NNNN/baseline.md`.
 
 ## Exports
 
