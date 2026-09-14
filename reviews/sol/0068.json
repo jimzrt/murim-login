@@ -1,0 +1,176 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "“You said I had to use polite speech.”",
+      "defect": "The reply does not visibly switch to deferential speech, so the immediate compliance that completes the joke is lost in English.",
+      "id": "F01",
+      "rationale": "The formal ending 하셨습니다 demonstrates that Taekyung has already obeyed Mukyung's demand for 존댓말 despite his defiant narration.",
+      "replacement": "“You said I was to use polite speech, sir.”",
+      "severity": "major",
+      "source": "“존댓말을 쓰라고 하셨습니다.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Was this what it meant to be Jin Mukyung?",
+      "defect": "The English misrenders the idiom and unnaturally asks what it means to be the person rather than whether the room is characteristic of him.",
+      "id": "F02",
+      "rationale": "진무경답다 means that the austere room is typical or characteristic of Jin Mukyung.",
+      "replacement": "Or should I say this was just like Jin Mukyung?",
+      "severity": "minor",
+      "source": "진무경답다고 해야 하나?"
+    },
+    {
+      "confidence": 0.97,
+      "current": "*If I had a little brother like this, I would’ve beaten him half to death too.*",
+      "defect": "“Half to death” makes the contemplated violence more explicit and severe than the source.",
+      "id": "F03",
+      "rationale": "두들겨 패고도 남았지 means he would readily have beaten such a brother, but it does not specify beating him nearly to death.",
+      "replacement": "*If I had a little brother like this, I would’ve beaten him too—and then some.*",
+      "severity": "minor",
+      "source": "‘나 같아도 이런 놈이 동생이면 두들겨 패고도 남았지.’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Jin Wikyung was only able to put up with him because he was a saint. Someone like Jin Mukyung, whose fists moved as quickly as his thoughts, was normal.",
+      "defect": "The second sentence invents a comparison between the speed of Mukyung's fists and thoughts and obscures Taekyung's claim that responding with violence is the normal reaction.",
+      "id": "F04",
+      "rationale": "The source contrasts Wikyung's saintly tolerance with Mukyung's supposedly normal tendency to lash out physically; it says nothing about his fists matching the speed of his thoughts.",
+      "replacement": "Jin Wikyung only let it slide because he was a saint. Reacting with his fists like Jin Mukyung did was perfectly normal.",
+      "severity": "major",
+      "source": "진위경이 보살이라 그렇지, 진무경처럼 주먹이 나가는 게 정상이다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "the three letters of *Returnee* were sparkling brightly.",
+      "defect": "“Returnee” does not contain three English letters, making a source-language character count factually wrong in the translation.",
+      "id": "F05",
+      "rationale": "세 글자 refers to the three Korean syllabic characters in 귀환자; the localized English should avoid retaining an inapplicable character count.",
+      "replacement": "the word *Returnee* was sparkling brightly.",
+      "severity": "minor",
+      "source": "귀환자라는 세 글자가 반짝반짝 빛나고 있다."
+    },
+    {
+      "confidence": 0.92,
+      "current": "Leaving is easy, but returning is difficult. I commend the sacrifice and courage you have shown.",
+      "defect": "The translation introduces a singular first-person System speaker absent from the Korean.",
+      "id": "F06",
+      "rationale": "찬사를 보냅니다 conveys praise without identifying the System as a singular “I.”",
+      "replacement": "Leaving is easy, but returning is difficult. Your sacrifice and courage deserve praise.",
+      "severity": "minor",
+      "source": "떠나는 것은 쉬워도 돌아오는 것은 어렵습니다. 당신이 보여 준 희생과 용기에 찬사를 보냅니다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "He breathed through his nose and mouth, using every part of his body opened wide.",
+      "defect": "“Every part of his body opened wide” is an unnatural and physically incoherent English construction.",
+      "id": "F07",
+      "rationale": "The source describes whole-body breathing in addition to breathing through the nose and mouth, not individual body parts being opened.",
+      "replacement": "He breathed through his nose and mouth—and with his entire body opened wide.",
+      "severity": "minor",
+      "source": "코와 입, 활짝 열린 전신을 이용한 호흡이었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The internal energy in his dantian mingled with the energy of heaven and earth.",
+      "defect": "The translation omits the inward flow expressed by 들어간다 and uses generic “energy” instead of Murim qi for 기운.",
+      "id": "F08",
+      "rationale": "The sentence mechanically describes external heavenly and earthly qi flowing in and mixing with the internal energy in Mukyung's dantian.",
+      "replacement": "The internal energy in his dantian mingled with the qi of heaven and earth flowing into him.",
+      "severity": "major",
+      "source": "단전의 공력과 천지의 기운이 섞여 들어간다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Jin Mukyung resolutely drew up his internal energy with all his might.",
+      "defect": "The translation omits the “at that very moment” construction that makes Taekyung's howl interrupt Mukyung at the worst possible instant.",
+      "id": "F09",
+      "rationale": "그 순간이었다 directly links Mukyung's committed circulation attempt to the immediate interruption and is essential to the comic timing and resulting disruption.",
+      "replacement": "Just as Jin Mukyung resolutely drew up his internal energy with all his might—",
+      "severity": "major",
+      "source": "결의에 찬 진무경이 공력을 힘껏 끌어 올린 그 순간이었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Take off your voice and scream in your underwear! Hoooooowuuuuuuuu!”",
+      "defect": "“Scream in your underwear” turns half of the deliberate word transposition into an ordinary grammatical phrase, weakening the source joke.",
+      "id": "F10",
+      "rationale": "The Korean deliberately swaps the objects in the expected command 소리 지르고 속옷 벗어, producing the nonsensical instructions to take off one's voice and shout one's underwear.",
+      "replacement": "“Take off your voice and shout your underwear! Hoooooowuuuuuuuu!”",
+      "severity": "major",
+      "source": "“소리 벗고 속옷 질러! 호오오오우우우!”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "There was only one person who could spout such bullshit from a pavilion forbidden to outsiders.",
+      "defect": "“To outsiders” invents a restricted class of people; the source only says entry to the pavilion was forbidden.",
+      "id": "F11",
+      "rationale": "출입을 금지한 marks the pavilion as off-limits without limiting the prohibition specifically to outsiders.",
+      "replacement": "There was only one person who could spout such bullshit from an off-limits pavilion.",
+      "severity": "major",
+      "source": "출입을 금지한 전각에서 저런 개소리를 지껄일 수 있는 놈은 한 명밖에 없다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "“Jin Taekyung, you damned—khk!”",
+      "defect": "The incomplete “you damned” is unnatural English and sanitizes Mukyung's strong, violently angry curse.",
+      "id": "F12",
+      "rationale": "이 쳐 죽일 is a strong interrupted imprecation, roughly invoking killing the target; the English should retain that intensity even though the backlash cuts Mukyung off.",
+      "replacement": "“Jin Taekyung, you fucking—urk!”",
+      "severity": "major",
+      "source": "“진태경 이 쳐 죽일…… 커헉!”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "I had just lain down when it happened.",
+      "defect": "The translation abruptly changes the new scene from third-person narration focused on the Sect Leader to an unidentified first-person narrator.",
+      "id": "F13",
+      "rationale": "The surrounding narration identifies the viewpoint character as 송검문주 and consistently refers to him in the third person.",
+      "replacement": "The Sect Leader of Song Sword Sect had just been about to lie down.",
+      "severity": "critical",
+      "source": "이제 막 자리에 누우려던 참이었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "At the general steward’s response, the former scholar from the provinces, the Sect Leader of Song Sword Sect, grabbed the back of his neck.",
+      "defect": "The apposition identifies the Sect Leader as the former provincial scholar, but the source assigns that background to the general steward.",
+      "id": "F14",
+      "rationale": "낙향 문사 출신 modifies 총관, not 송검문주.",
+      "replacement": "The general steward was a former scholar who had retired to the provinces, and his response made the Sect Leader of Song Sword Sect clutch the back of his neck.",
+      "severity": "critical",
+      "source": "낙향 문사 출신인 총관의 말에 송검문주가 뒷목을 잡았다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“The gate guards came running and said there were people from the Jin Family of Taiyuan outside. And then they asked whether that, what was his name again? That Wi, Wi-whatever fellow could meet the Sect Leader.”",
+      "defect": "The draft makes the gate guards ask whether Wi-whatever could meet the Sect Leader; in the source, the guards report that the Wi-whatever fellow himself asked to meet him.",
+      "id": "F15",
+      "rationale": "위 뭐시긴가 하는 작자 is the subject of 물어봤답니다, while the gate guards are merely relaying his request.",
+      "replacement": "“The gate guards came running and said there were people from the Jin Family of Taiyuan outside. And, uh, what was his name? They said some fellow called Wi… Wi-something asked if he could meet you.”",
+      "severity": "critical",
+      "source": "“문 지키는 놈들이 헐레벌떡 달려와서 말하던데요. 지금 밖에 태원진가 사람들이 와 있다고. 그리고 그 누구냐. 위, 위 뭐시긴가 하는 작자가 문주를 만날 수 있겠냐고 물어봤답니다.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "The Jin Family of Taiyuan was famous for its fairness and integrity. They would never do something like this without reason, but if their goal was to wipe out Song Sword Sect, there was nothing he could do to stop them.",
+      "defect": "“Without reason” is added and implies that the famously honorable family might annihilate the sect if it considered the act justified; the source says such conduct itself is unlikely.",
+      "id": "F16",
+      "rationale": "그럴 리는 없겠지만 expresses doubt that the family would commit the feared annihilation at all, not merely doubt that it would do so without cause.",
+      "replacement": "Though the Jin Family of Taiyuan was famous for its fairness and integrity and unlikely to do such a thing, if they had come to annihilate his sect, he had no power to stop them.",
+      "severity": "major",
+      "source": "공명정대하기로 소문난 태원진가가 그럴 리는 없겠지만, 멸문지화가 목적이라면 막을 힘이 없다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“We ended up here while pursuing him.”",
+      "defect": "The translation weakens both the causal accusation and the pointed, faux-casual pragmatic cue in 왔지 뭡니까.",
+      "id": "F17",
+      "rationale": "Wipeng insinuates that the assassin's trail specifically led to Song Sword Sect while presenting the threatening implication with feigned casualness.",
+      "replacement": "“Wouldn’t you know it, our pursuit led us all the way to Song Sword Sect.”",
+      "severity": "major",
+      "source": "“쫓다 보니 송검문까지 왔지 뭡니까.”"
+    }
+  ],
+  "summary": "The draft contains two viewpoint or identity errors, one misassigned action, and several meaningful losses or additions involving register, cultivation mechanics, humor, and implied threats.",
+  "version": 1
+}
