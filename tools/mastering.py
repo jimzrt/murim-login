@@ -1174,13 +1174,26 @@ def apply_fidelity_repairs(
             raise ValueError(
                 f"finding {finding['id']} replacement contains an ASCII truncation marker"
             )
+        if finding["current"] not in text:
+            raise ValueError(
+                f"finding {finding['id']} current text not found in assembled chapter"
+            )
     try:
         from tools.model_io import apply_review_replacements
     except ModuleNotFoundError:
         from model_io import apply_review_replacements
-    repaired = apply_review_replacements(text, {"findings": findings})
-    return normalize_chapter(repaired), len(findings)
-
+    repaired = normalize_chapter(apply_review_replacements(text, {"findings": findings}))
+    missing = [
+        str(finding["id"])
+        for finding in findings
+        if finding["current"] != finding["replacement"] and finding["current"] in repaired
+    ]
+    if missing:
+        raise ValueError("fidelity repairs did not apply: " + ", ".join(missing))
+    applied = sum(
+        1 for finding in findings if finding["current"] != finding["replacement"]
+    )
+    return repaired, applied
 
 
 def command_qa(number: int) -> None:
@@ -1205,19 +1218,27 @@ def command_qa(number: int) -> None:
     repairs = 0
     qa = run_qa(number, source, final, glossary)
     atomic_json(p["qa"], qa)
-    auto_repair_confidence = float(load_config().get("quality_gate_min_auto_confidence", 0.98))
-    for attempt in range(2):
+    cfg = load_config()
+    auto_repair_confidence = float(cfg.get("quality_gate_min_auto_confidence", 0.98))
+    max_rounds = max(1, int(cfg.get("quality_gate_max_rounds", 3)))
+    for round_index in range(max_rounds):
         if not qa["passed"]:
             break
         fidelity = run_fidelity_gate(
             number, source, final, qa, p, baseline=read_text(p["baseline"])
         )
-        repairable = sum(
-            item["severity"] in {"major", "critical"}
+        blocking = [
+            item for item in fidelity["findings"]
+            if item["severity"] in {"major", "critical"}
+        ]
+        repairable = [
+            item for item in fidelity["findings"]
+            if item["severity"] in {"major", "critical"}
             or float(item.get("confidence", 0)) >= auto_repair_confidence
-            for item in fidelity["findings"]
-        )
-        if not repairable or attempt == 1:
+        ]
+        if not blocking:
+            break
+        if not repairable or round_index == max_rounds - 1:
             break
         final, applied = apply_fidelity_repairs(final, fidelity, auto_repair_confidence)
         if not applied:
