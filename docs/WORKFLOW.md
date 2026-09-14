@@ -107,12 +107,14 @@ Mastering is a lagging FIFO queue. From a second terminal, run:
 
 ```bash
 python tools/run_next_mastering.py
+python tools/run_until_mastering.py 58
 ```
 
-That wrapper promotes the oldest unmastered accepted translation, commits
-`Master Chapter N`, and registers `MASTERED_COMMITTED`. Translation and
-mastering may run at the same time. They use separate work locks; Git commits
-wait on `.work/commit.lock`. Do not run `audit_range` beside either queue.
+`run_next_mastering.py` promotes one chapter. `run_until_mastering.py`
+repeats that until the target chapter is mastered, stopping on the first error.
+Translation and mastering may run at the same time. They use separate work
+locks; Git commits wait on `.work/commit.lock`. Do not run `audit_range`
+beside either queue.
 
 Checkpoint reports are automatically recorded with unresolved dispositions for
 later retrofit. They are advisory and never prevent the current chapter from
