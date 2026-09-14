@@ -1,15 +1,18 @@
 # Translation State
 
-- Last completed: 92
-- Next chapter: 93
-- Current block: 90–94 (3/5)
-- Latest translation: `translations/0092.md`
-- Latest summary: `summaries/beats/0092.md`
-- Safe profiles through: chapter 92
+- Last completed: 93
+- Next chapter: 94
+- Current block: 90–94 (4/5)
+- Latest translation: `translations/0093.md`
+- Latest summary: `summaries/beats/0093.md`
+- Safe profiles through: chapter 93
 
 ## Current Block
 
-- Im Chunsoo receives a report on Jin Taekyung and orders the Sangdong Guild's Team 1 Leader to verify it, suspecting either inaccurate information, coordinated lies, an unconfirmed A-rank Hunter, or a third-awakening Hunter. He orders the Guild Audit Team to expand Taekyung's surveillance while leaving Peace Guild's protected Guild Master and Team Leader alone. At home, Taekyung and Hayeon discover that several unusually inactive flies are Level 1 familiars when Taekyung extends his Qi Sense through the house.
+- Hong Woojin controls a rice weevil Familiar while monitoring Jin Taekyung, but Taekyung's Qi Sense briefly disrupts the connection. Woojin dismisses the sensation as coincidence, severs the Link, and decides to monitor Taekyung more boldly in another form.
+- After sensing the Link disappear, Taekyung confirms that no Familiars remain in his home. He suspects Sangdong Guild is behind the surveillance and regards the intrusion into his family's home as an unforgivable provocation.
+- Taekyung visits the Ilsan Lafesta Store, where his C-rank Hunter certification grants him access through the third floor. He chooses the second floor to look for low-rank weapons useful for filling his Inventory, ultimately ordering boxes of daggers instead of a single dagger.
+- Assistant Manager Kim Seonhee's disappointment over the small sale vanishes when Taekyung begins ordering multiple storage boxes of weapons.
 
 ## Open Questions
 
@@ -18,7 +21,8 @@
 - Whether Hayeon will actually drop out of school remains unresolved.
 - Whether third-awakening Hunters exist and whether Taekyung is one remains unresolved.
 - Why Hong Woojin is investigating Taekyung and what information he seeks remains unresolved.
-- What the three fly familiars are and why they are present in Taekyung's home remains unresolved.
+- Whether Sangdong Guild sent the Familiars observing Taekyung remains unresolved.
+- What Familiar form Hong Woojin will use for his next surveillance attempt remains unresolved.
 
 ## Exceptional Decision
 
@@ -29,7 +33,7 @@
 - Render 사장님 as Boss in the real-estate context, including young Boss.
 - Render 박지황/박지훈 as Park Jihwang/Park Jihoon, and 삼계탕 as samgyetang with an explanatory footnote.
 - Render 1팀장 as Team 1 Leader, 기감 as Qi Sense, and 락 as Lock when referring to security restrictions.
-- Render 집파리, 검정파리, 금파리, and 패밀리어 as Housefly, Black Blow Fly, Green Bottle Fly, and Familiar in System labels.
+- Render 집파리, 검정파리, 금파리, and 패밀리어 as Housefly, Black Blow Fly, Green Bottle Fly, and Familiar; use Rice Weevil for 쌀벌레, Link for 링크, Store for 스토어, Assistant Manager for 대리, Kim Seonhee for 김선희, Ilsan for 일산, and Lafesta for 라페스타.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
