@@ -1,8 +1,8 @@
 # Jin Wikyung (진위경)
 
-- **Safe through:** Chapter 65
+- **Safe through:** Chapter 66
 - **Aliases:** None revealed
-- **Role:** Thirty-five-year-old Lesser Family Head of the Jin Family of Taiyuan
+- **Role:** Thirty-five-year-old Lesser Family Head and future Family Head of the Jin Family of Taiyuan; preparing to consolidate Shanxi Murim under the family's leadership
 - **Personality:** Calm and authoritative in public; affectionate and protective toward Taekyung beneath a stern mask; accepts responsibility from his subordinates and shows immediate concern for family
 - **Voice:** Restrained, formal, and commanding with subordinates; openly affectionate with Taekyung
 - **Relationships:** Taekyung’s eldest brother and future Family Head; head of Wipeng; member of the Jin Family

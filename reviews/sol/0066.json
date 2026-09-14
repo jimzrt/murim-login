@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "There were plenty of people who saw him in that mess.",
+      "defect": "The subject is reversed. The maid says she saw too many people amid the chaos to single him out, not that many people saw him.",
+      "id": "F01",
+      "rationale": "본 사람이 한둘인가 refers to the many people the maid saw during the commotion, explaining why she failed to recognize Jin Mukyung.",
+      "replacement": "With all that chaos, do you think I only saw one or two people?",
+      "severity": "critical",
+      "source": "그 난리 통에 본 사람이 한둘인가."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Jin Mukyung had sent a carrier hawk immediately after the Mount Heng Sword Sect declared war, so there had been no way for him to learn the details.",
+      "defect": "The draft makes Jin Mukyung the sender of the carrier hawk, although he was the recipient being informed and the Korean leaves the sender implicit.",
+      "id": "F02",
+      "rationale": "The sentence explains why Mukyung's letter lacked details; assigning the sending action to him reverses his role in that communication.",
+      "replacement": "A carrier hawk had been sent immediately after the Mount Heng Sword Sect declared war, so there had been no way for him to learn the details.",
+      "severity": "critical",
+      "source": "항산검문이 선전포고를 한 직후 전서응을 날렸으니 그로서는 자세한 내막을 알 방법이 없었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Then that’s enough.”\n\n“What?”\n\n“I said, ‘At that time, the Head Elder—’”",
+      "defect": "The dialogue order and speakers are altered. Jin Wikyung begins his historical account, then interrupts himself to react to Mukyung's dismissal; the draft instead has Mukyung say “What?” and Wikyung repeat himself.",
+      "id": "F03",
+      "rationale": "뭐라고? is Jin Wikyung's incredulous reaction to 그럼 됐습니다, while 당시 대장로가…… is the beginning of the explanation he was about to give.",
+      "replacement": "“Then never mind.”\n\n“Back then, the Head Elder… Wait, what did you say?”",
+      "severity": "critical",
+      "source": "“그럼 됐습니다.”\n\n“당시 대장로가…… 뭐라고?”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "The wall separating a master from the Peak realm was high.",
+      "defect": "The draft turns Jin Mukyung's formidable strength as a Peak master into a cultivation barrier separating an unspecified master from the Peak realm.",
+      "id": "F04",
+      "rationale": "절정 고수 describes the Peak master Taekyung just fought; the line explains why overcoming Mukyung required so many Agility points.",
+      "replacement": "The wall posed by a Peak master was high.",
+      "severity": "major",
+      "source": "절정 고수의 벽은 높았다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "“Stop talking nonsense in front of the kids unless you want to die.”\n\nBut Socheon was waiting for the rest of the story with shining eyes.\n\n“I’m fine.”\n\n“What does ‘die’ mean? Soyul wants to die too!”\n\n“……You still have a long way to go.”",
+      "defect": "The draft changes talking nonsense to the children into merely speaking in their presence, and neutralizes the coarse, unfamiliar verb 뒤지다 into ordinary “die,” weakening Soyul's repetition and the resulting dark joke.",
+      "id": "F05",
+      "rationale": "애들한테 marks the children as the recipients of Hyuk Mujin's lies, while 뒤지다 is a coarse colloquial term whose repetition by Soyul drives the joke. The final line means she has a long life remaining before death.",
+      "replacement": "“Stop filling the kids’ heads with nonsense. Unless you want to croak.”\n\nBut Socheon was waiting for the rest of the story with shining eyes.\n\n“I’m fine.”\n\n“What does ‘croak’ mean? Soyul wants to croak too!”\n\n“……You’ve still got a long time before that.”",
+      "severity": "major",
+      "source": "“애들한테 헛소리 좀 그만해. 뒤지기 싫으면.”\n\n하지만 소천은 반짝거리는 눈으로 뒷이야기를 기다리는 중이었다.\n\n“전 괜찮습니다.”\n\n“뒤지는 게 모야? 소율이도 뒤질래!”\n\n“……넌 아직 한참 남았어.”"
+    },
+    {
+      "confidence": 0.92,
+      "current": "“Thank you, Benefactor.”",
+      "defect": "The simple present thanks loses the retrospective, farewell-like force of 감사했습니다.",
+      "id": "F06",
+      "rationale": "The past-form thanks sums up Socheon's gratitude for what Taekyung has done as Socheon announces their eventual departure.",
+      "replacement": "“Thank you for everything, Benefactor.”",
+      "severity": "minor",
+      "source": "“감사했습니다, 은인.”"
+    },
+    {
+      "confidence": 0.93,
+      "current": "When he reached the old-fashioned pavilion, the martial artists guarding the entrance opened the doors for him.",
+      "defect": "“Old-fashioned” suggests something outdated or unfashionable, whereas 고풍스러운 conveys an elegant, traditional appearance.",
+      "id": "F07",
+      "rationale": "The source describes the pavilion's dignified classical style rather than disparaging it as obsolete.",
+      "replacement": "When he reached the stately, traditional pavilion, the martial artists guarding the entrance opened the doors for him.",
+      "severity": "minor",
+      "source": "고풍스러운 전각에 도착하자 입구를 지키던 무인들이 문을 열어 주었다."
+    }
+  ],
+  "summary": "The draft contains three subject or dialogue reversals, one altered mechanical explanation, and several localized register or wording issues.",
+  "version": 1
+}
