@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "As the person in charge, Team Leader Choi was called away by the dispatched officials, and the other four were moved to an ambulance for treatment.",
+      "defect": "The translation assigns responsibility to Team Leader Choi, but 책임자 자격으로 파견된 modifies the government officials: they were dispatched to take charge.",
+      "id": "F01",
+      "rationale": "The current modifier changes which party was acting in an official leadership capacity.",
+      "replacement": "Team Leader Choi was called away by the officials dispatched to take charge, and the other four were moved to an ambulance for treatment.",
+      "severity": "minor",
+      "source": "lines 231–233 / P108"
+    },
+    {
+      "confidence": 1.0,
+      "current": "\"Could you keep anything about me a secret?\"",
+      "defect": "This uniquely uses straight quotation marks, losing the established direct-speech formatting preserved throughout the chapter and in the accepted baseline.",
+      "id": "F02",
+      "rationale": "Project convention requires curly double quotation marks for speech.",
+      "replacement": "“Could you keep anything about me a secret?”",
+      "severity": "minor",
+      "source": "line 373 / P150"
+    }
+  ],
+  "summary": "The chapter is faithful overall, with one misassigned role detail and one dialogue-formatting regression.",
+  "version": 1
+}
