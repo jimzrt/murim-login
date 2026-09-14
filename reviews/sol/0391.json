@@ -1,0 +1,126 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "The black knight’s red eyes reflected in Zhang Wei’s wide-open gaze as the ten Death Knights charged in from every direction.",
+      "defect": "The reflected subject is reversed. Zhang Wei’s eyes reflect the ten charging Death Knights, not the black knight’s red eyes.",
+      "id": "F01",
+      "rationale": "The source explicitly makes 열 기의 데스나이트 the figures reflected in 장 웨이의 눈동자.",
+      "replacement": "The ten Death Knights charging from every direction were reflected in Zhang Wei’s wide-open eyes.",
+      "severity": "critical",
+      "source": "부릅떠진 장 웨이의 눈동자에, 사방에서 쇄도해 오는 열 기의 데스나이트가 비쳤다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "*“Advance ahead with the army and seize the city? That’s different from the order Colonel Shao gave me.”*",
+      "defect": "The draft replaces Shao’s functional title, regimental commander, with a rank and subsequently creates a rank inconsistency.",
+      "id": "F02",
+      "rationale": "연대장 means regimental commander, while the later dialogue separately establishes Shao’s military rank.",
+      "replacement": "*Advance ahead with the army and seize the city? That’s different from the order Regimental Commander Shao gave me.*",
+      "severity": "major",
+      "source": "‘군대와 함께 먼저 가서 도시를 점령하라니? 샤오 연대장이 내린 명령과는 다른데.’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Colonel Shao Shen holds the same rank as you, Senior Colonel Wang. And he’s about to be promoted to major general.”",
+      "defect": "Calling Shao a Colonel while calling Wang a Senior Colonel contradicts the sentence’s explicit statement that they hold the same rank.",
+      "id": "F03",
+      "rationale": "The source identifies Shao by his post as 연대장 and then states that his rank equals Wang’s.",
+      "replacement": "“Regimental Commander Shao Shen holds the same rank as you, Senior Colonel Wang. And he’s about to be promoted to major general.”",
+      "severity": "major",
+      "source": "「샤오 쉔 연대장은 왕 상교님과 같은 계급입니다. 그것도 곧 소장 진급을 앞두고 계신.」"
+    },
+    {
+      "confidence": 0.97,
+      "current": "The senior officer ran the baton in his hand through his fingers.",
+      "defect": "The draft invents a finger-manipulation action; the officer simply strokes the baton.",
+      "id": "F04",
+      "rationale": "쓸어내렸다 describes stroking or running a hand along an object, not passing the object through one’s fingers.",
+      "replacement": "The senior officer stroked the baton in his hand.",
+      "severity": "minor",
+      "source": "고위 장교가 손에 든 지휘봉을 쓸어내렸다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "*Please, let there be no serious casualties.*",
+      "defect": "Adding “serious” weakens Zhang Wei’s wish by allowing lesser casualties, which the source does not do.",
+      "id": "F05",
+      "rationale": "별다른 피해가 없기를 expresses a hope that they suffer no casualties or notable harm, without setting a seriousness threshold.",
+      "replacement": "*Please, let there be no casualties.*",
+      "severity": "major",
+      "source": "‘부디 별다른 피해가 없기를.’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "In addition to the hundred Hunters, including himself, there were more than twenty tanks and five hundred infantrymen.",
+      "defect": "The approximate quantity “around twenty” is changed to the lower-bounded quantity “more than twenty.”",
+      "id": "F06",
+      "rationale": "이십여 대 means approximately twenty vehicles, not necessarily more than twenty.",
+      "replacement": "In addition to the hundred Hunters, including himself, there were around twenty tanks and five hundred infantrymen.",
+      "severity": "major",
+      "source": "그를 포함한 백 명의 헌터 외에도 이십여 대의 전차와 오백의 보병."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The more than twenty armored vehicles and tanks were disabled in the blink of an eye.",
+      "defect": "The draft again converts an approximate total into a definite quantity greater than twenty.",
+      "id": "F07",
+      "rationale": "이십여 대 gives a collective approximate count of the armored vehicles and tanks.",
+      "replacement": "The roughly twenty armored vehicles and tanks were disabled in the blink of an eye.",
+      "severity": "major",
+      "source": "이십여 대의 장갑차와 전차가 무력화되기까지 걸린 시간은 그야말로 찰나."
+    },
+    {
+      "confidence": 0.91,
+      "current": "Where had it heard that word before?\n\nThe black knight pushed the question aside and extended its hand. The humans within sight had to be annihilated. That was the order it had received.\n\nBut—\n\n—……?\n\nFor some reason, its hand would not move forward.",
+      "defect": "The draft repeatedly calls the black knight “it,” although the source uses the personal subject 그 and the draft itself later switches to “he.”",
+      "id": "F08",
+      "rationale": "그가 받은 명령 explicitly uses the personal subject for the sentient black knight; consistent personal pronouns also avoid an unsupported mid-scene identity shift.",
+      "replacement": "Where had he heard that word before?\n\nThe black knight pushed the question aside and extended his hand. The humans within sight had to be annihilated. That was the order he had received.\n\nBut—\n\n—……?\n\nFor some reason, his hand would not move forward.",
+      "severity": "minor",
+      "source": "이 단어를 어디서 들어 봤던가.\n\n검은 기사는 문득 드는 의문을 뒤로하고 손을 뻗었다. 눈에 보이는 인간은 말살시켜야 한다. 그것이 그가 받은 명령이었다.\n\n하지만.\n\n- ……?\n\n어째서인지 손이 나아가지 않았다."
+    },
+    {
+      "confidence": 0.9,
+      "current": "“Daddada?”",
+      "defect": "The invented form “Daddada” does not read as natural infant speech for the source’s babyish attempt at “Daddy.”",
+      "id": "F09",
+      "rationale": "압빠빠 is infantile speech modeled on 아빠, meaning “Daddy”; “Dada” preserves both the referent and the childish pronunciation.",
+      "replacement": "“Dada?”",
+      "severity": "minor",
+      "source": "「압빠빠?」"
+    },
+    {
+      "confidence": 0.97,
+      "current": "At the black knight’s eerie voice, the child wriggling in its parents’ arms suddenly began to cry.\n\n“Waaah!”",
+      "defect": "The draft turns a narrated crying sound into a separate line of spoken dialogue.",
+      "id": "F10",
+      "rationale": "으앙, 하고 소리 내어 울음을 터트린 narrates how the child bursts into tears; it is not a distinct spoken utterance.",
+      "replacement": "At the black knight’s eerie voice, the child wriggling in its parents’ arms suddenly burst into a wailing cry.",
+      "severity": "minor",
+      "source": "검은 기사의 음산한 목소리에 부모의 품 안에서 꼬물거리던 아이가 으앙, 하고 소리 내어 울음을 터트린 그때였다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The Death Knights questioned their leader’s sudden movement.\n\n—Lord?\n\n“We’re leaving. Now. At once.”\n\n—Then we’ll take care of the humans—\n\n“We’re leaving. Now. At once.”",
+      "defect": "The black knight’s two replies are formatted as ordinary quoted speech while every other line in the same supernatural exchange uses the established unquoted em-dash format.",
+      "id": "F11",
+      "rationale": "The source formats all four lines identically, and the surrounding draft consistently uses unquoted em-dash dialogue for these undead speakers.",
+      "replacement": "The Death Knights questioned their leader’s sudden movement.\n\n—Lord?\n\n—We’re leaving. Now. At once.\n\n—Then we’ll take care of the humans—\n\n—We’re leaving. Now. At once.",
+      "severity": "minor",
+      "source": "- 로드?\n\n- 돌아간다. 지금. 당장.\n\n- 그럼 인간들은 저희가.\n\n- 돌아간다. 지금. 당장."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The ten Death Knights bowed on one knee and followed their leader as he galloped away.",
+      "defect": "“Bowed on one knee” is an awkward and inaccurate physical action; they kneel to pay their respects, then ride after their leader.",
+      "id": "F12",
+      "rationale": "무릎을 꿇어 예를 표한 means they knelt as a gesture of respect, while 말을 달렸다 explicitly says they rode their horses.",
+      "replacement": "The ten Death Knights knelt in salute, then spurred their horses after their leader.",
+      "severity": "minor",
+      "source": "무릎을 꿇어 예를 표한 열 기의 데스나이트는 우두머리의 뒤를 따라 말을 달렸다."
+    }
+  ],
+  "summary": "One critical subject reversal, several hierarchy and quantity errors, and localized action, voice, and formatting issues.",
+  "version": 1
+}

@@ -1,0 +1,47 @@
+{
+  "chapter": 391,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.168,
+    "source_characters": 6028,
+    "source_paragraphs": 169,
+    "translation_characters": 13066,
+    "translation_paragraphs": 176
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "상태",
+        "preferred": "Status"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "체력",
+        "preferred": "Stamina"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "신의",
+        "preferred": "Divine Physician"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "진진",
+        "romanization": "jinjin"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}

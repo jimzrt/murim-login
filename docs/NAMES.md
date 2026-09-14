@@ -155,3 +155,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 주모 | **Jumo** | Traditional tavern keeper in the Korean victory-day joke. |
 | 청두군구 | **Chengdu Military Region** | Chinese military region commanded by Senior General Liao. |
 | 제 13집단군 | **Thirteenth Group Army** | Army commanded by Senior General Liao. |
+| 장 웨이 | **Zhang Wei** | Commander of the 2nd Company of the Sichuan Province Public Security Armed Forces. |
+| 왕 상교 | **Senior Colonel Wang** | Middle-aged senior officer who leads the diverted operation. |
+| 쑤이닝시 | **Suining City** | City near the devastated town attacked by the Death Knights. |
+| 사르 | **Sar** | First component of the black knight's demon-realm command. |
+| 가로쉬 | **Garosh** | Second component of the black knight's demon-realm command. |

@@ -67,3 +67,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 아저씨 | passenger_to_pilot | Sir | casual-urgent | Taekyung addresses the pilot informally while demanding full throttle. |
 | 샤오 쉔 | 진태경 | subordinate_hunter_to_foreign_hero | hyung-nim | deferential-but-familiar | After Jin permits the familiar title, Shao Shen stammers out hyung-nim while addressing him before his troops. |
 | 진태경 | 랴오 상장 | foreign_hero_to_allied_senior_general | General | hostile-but-formal | Taekyung uses 장군님 while confronting Liao over the reckless deployment. |
+| 장 웨이 | 왕 상교 | subordinate_to_senior_colonel | Senior Colonel Wang | respectful-but-questioning | Questions whether Wang's operation was approved by Shao Shen. |
+| 소대장 | 장 웨이 | platoon_commander_to_company_commander | Company Commander | blunt-but-loyal | Answers Zhang's concern and insists the Hunters chose to follow him. |
+| 데스나이트 | 검은 기사 | undead_subordinate_to_undead_leader | Lord | deferential | The Death Knights kneel and request their leader's next command. |
