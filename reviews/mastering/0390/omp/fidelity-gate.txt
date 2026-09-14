@@ -1,0 +1,45 @@
+{
+  "summary": "Faithful overall, with four localized minor defects involving physical placement, register, joke mechanics, and timing.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "lines 15–17 ([P7])",
+      "current": "With the sun at my back, my shadow fell across the thousand or so monsters gathered below, the spearhead within it slashing downward as I dove.",
+      "defect": "The shadow falls in the middle of the assembled monsters, not across the entire group.",
+      "replacement": "With the sun at my back, my shadow fell amid the thousand or so monsters gathered below, the spearhead within it slashing downward as I dove.",
+      "rationale": "한가운데에 locates the shadow at the center of the gathered monsters; “across” changes its physical extent.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "lines 289–293 ([P143])",
+      "current": "“Well, that is… We also have to show them something. We have to prove that we can do something too…”",
+      "defect": "Liao's hesitant attempt to minimize the motive is replaced by two firm assertions, and an unidentified audience is added.",
+      "replacement": "“Well, it’s just… we thought we ought to show what we could do too. That was part of it…”",
+      "rationale": "뭐 그런 게 조금은 trails off while conceding that this motive played some part; it does not repeat the necessity as a second emphatic claim.",
+      "confidence": 0.94
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "lines 299–303 ([P148])",
+      "current": "“How about I give your skull the serving-bowl treatment and crack it wide open?”",
+      "defect": "The wording does not clearly preserve the physical mechanism of Jin threatening to smash Liao's head with a serving bowl.",
+      "replacement": "“How about I treat you to a serving bowl upside the head and crack your skull open?”",
+      "rationale": "대접 first means “treatment” in Liao's complaint, then “serving bowl” in Jin's threat; the bowl is explicitly the instrument used to crack his head.",
+      "confidence": 0.9
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "lines 331–335 ([P164])",
+      "current": "I didn’t need to hear any more. Before I could press him further, a roar rang out from the city that had suddenly drawn close.",
+      "defect": "The city did not suddenly become close; the vehicle had approached it without Jin noticing how near it had become.",
+      "replacement": "I didn’t need to hear any more. Before I could press him further, a roar rang out from the city that had drawn close before I knew it.",
+      "rationale": "어느새 denotes an unnoticed progression or change recognized after the fact, not sudden movement.",
+      "confidence": 0.96
+    }
+  ]
+}

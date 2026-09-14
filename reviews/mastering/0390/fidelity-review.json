@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "With the sun at my back, my shadow fell across the thousand or so monsters gathered below, the spearhead within it slashing downward as I dove.",
+      "defect": "The shadow falls in the middle of the assembled monsters, not across the entire group.",
+      "id": "F01",
+      "rationale": "한가운데에 locates the shadow at the center of the gathered monsters; “across” changes its physical extent.",
+      "replacement": "With the sun at my back, my shadow fell amid the thousand or so monsters gathered below, the spearhead within it slashing downward as I dove.",
+      "severity": "minor",
+      "source": "lines 15–17 ([P7])"
+    },
+    {
+      "confidence": 0.94,
+      "current": "“Well, that is… We also have to show them something. We have to prove that we can do something too…”",
+      "defect": "Liao's hesitant attempt to minimize the motive is replaced by two firm assertions, and an unidentified audience is added.",
+      "id": "F02",
+      "rationale": "뭐 그런 게 조금은 trails off while conceding that this motive played some part; it does not repeat the necessity as a second emphatic claim.",
+      "replacement": "“Well, it’s just… we thought we ought to show what we could do too. That was part of it…”",
+      "severity": "minor",
+      "source": "lines 289–293 ([P143])"
+    },
+    {
+      "confidence": 0.9,
+      "current": "“How about I give your skull the serving-bowl treatment and crack it wide open?”",
+      "defect": "The wording does not clearly preserve the physical mechanism of Jin threatening to smash Liao's head with a serving bowl.",
+      "id": "F03",
+      "rationale": "대접 first means “treatment” in Liao's complaint, then “serving bowl” in Jin's threat; the bowl is explicitly the instrument used to crack his head.",
+      "replacement": "“How about I treat you to a serving bowl upside the head and crack your skull open?”",
+      "severity": "minor",
+      "source": "lines 299–303 ([P148])"
+    },
+    {
+      "confidence": 0.96,
+      "current": "I didn’t need to hear any more. Before I could press him further, a roar rang out from the city that had suddenly drawn close.",
+      "defect": "The city did not suddenly become close; the vehicle had approached it without Jin noticing how near it had become.",
+      "id": "F04",
+      "rationale": "어느새 denotes an unnoticed progression or change recognized after the fact, not sudden movement.",
+      "replacement": "I didn’t need to hear any more. Before I could press him further, a roar rang out from the city that had drawn close before I knew it.",
+      "severity": "minor",
+      "source": "lines 331–335 ([P164])"
+    }
+  ],
+  "summary": "Faithful overall, with four localized minor defects involving physical placement, register, joke mechanics, and timing.",
+  "version": 1
+}

@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "When Hunters from the Public Security Armed Forces, myself included, broke through the monsters at the front, the military forces that followed would “clean up” the area and the monster corpses.",
+      "defect": "The Hunters defeat the monsters; they do not merely break through them. The draft alters the division of labor being explained.",
+      "id": "F01",
+      "rationale": "무찌르면 explicitly means defeating them, which causally produces the corpses that the military then processes.",
+      "replacement": "When Hunters from the Public Security Armed Forces, myself included, defeated the monsters at the front, the military forces following behind would “clean up” the area and the monster corpses.",
+      "severity": "critical",
+      "source": "나를 포함한 공안 무력부 소속 헌터들이 선봉에서 몬스터를 무찌르면, 뒤따라온 군 병력이 해당 지역과 몬스터 사체들을 ‘청소’하는 방식이었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "In the middle of more than a thousand monsters gathered together, my shadow fell with the sun at my back.\n\nThe spearhead came down in a slash as I plunged toward the ground.",
+      "defect": "The draft detaches the spearhead's movement from the shadow. The source specifically depicts the shadow reproducing even the spearhead's downward slash.",
+      "id": "F02",
+      "rationale": "까지도 links the second fragment to the shadow and emphasizes that even the descending spearhead is visible within it.",
+      "replacement": "With the sun at my back, my shadow fell across the midst of the thousand or so monsters gathered below—even the spearhead in it slashing downward as I dove.",
+      "severity": "major",
+      "source": "운집해 있는 천여 마리의 몬스터들 한가운데에 태양을 등진 내 그림자가 비친다.\n\n급강하와 동시에 내리그어지는 창날의 움직임까지도."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Should I smash your head in as a token of respect?”",
+      "defect": "The draft invents “as a token of respect” and omits the concrete threat of cracking his skull with a 대접, a large bowl. This also removes the source's pun on 대접, which can mean both treatment and a bowl.",
+      "id": "F03",
+      "rationale": "The previous speaker demands proper 대접, and Taekyung deliberately switches to the homonymous noun meaning a large bowl.",
+      "replacement": "“How about I crack your skull open with a serving bowl?”",
+      "severity": "major",
+      "source": "“아주 그냥, 대접으로 대가리를 깨 버릴까.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“I was going to do that anyway. Grow, skeletons, grow… Huh?”",
+      "defect": "The draft changes 해골해, a “sea of skeletons,” into an ordinary plural command and loses the exaggerated name of the undead mass.",
+      "id": "F04",
+      "rationale": "해골해 literally identifies the intended result as a skeleton sea, not merely multiple skeletons.",
+      "replacement": "“I was going to do that anyway. Grow, my sea of skeletons… Huh?”",
+      "severity": "major",
+      "source": "- 안 그래도 그러려고 했다. 자라나라 해골해…… 어?"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Through the dust-cloud-blurred view, green blood dripped down in quick splatters as System notifications announced the monsters’ deaths.",
+      "defect": "“Dripped” understates 쏟아진다, which describes blood pouring down in successive splatters.",
+      "id": "F05",
+      "rationale": "쏟아진다 indicates a substantial outpouring, while 투두둑 supplies the repeated splattering rhythm.",
+      "replacement": "Through my dust-clouded vision, green blood poured down in rapid splatters as System notifications announced the monsters’ deaths.",
+      "severity": "minor",
+      "source": "흙먼지로 인해 뿌옇게 물든 시야 속, 몬스터 처치를 알리는 시스템 알림과 함께 녹색 핏물이 투두둑 쏟아진다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "I had suspected he wasn’t an ordinary madman when he had started talking about whether to launch a nuclear weapon from an underground bunker.",
+      "defect": "The draft omits 염병을 할 때부터, sanitizing Taekyung's contemptuous description of Liao making a goddamn fuss.",
+      "id": "F06",
+      "rationale": "염병을 하다 is a strongly dismissive, profane way to describe someone carrying on, not neutral “talking.”",
+      "replacement": "I’d suspected he was no ordinary madman ever since he’d kicked up that whole goddamn fuss in an underground bunker over whether or not to launch a nuke.",
+      "severity": "minor",
+      "source": "지하 벙커에서 핵을 쏘니 마니, 염병을 할 때부터 보통 미친놈은 아니구나 싶었는데."
+    },
+    {
+      "confidence": 0.94,
+      "current": "I don’t know what they mean, but apparently people in Korea are calling today the tavern lady’s death anniversary…",
+      "defect": "Rendering 주모 only as “the tavern lady” leaves the culturally specific celebration joke opaque and omits a materially useful footnote.",
+      "id": "F07",
+      "rationale": "The line invokes the Korean internet convention of calling for a jumo during exuberant national celebration; retaining the term and briefly defining it preserves the joke without adding plot information.",
+      "replacement": "I don’t know what they mean, but apparently people in Korea are calling today Jumo’s death anniversary…[^1]\n\n[^1]: *Jumo* is a traditional tavern keeper. Koreans jokingly call for her to serve drinks online when celebrating a national triumph.",
+      "severity": "minor",
+      "source": "내 무슨 소리인지는 모르겠지만, 한국에서는 오늘을 주모 기일이라 부른다던데……."
+    }
+  ],
+  "summary": "One critical action error, several lost mechanical or comedic details, and localized fidelity issues.",
+  "version": 1
+}

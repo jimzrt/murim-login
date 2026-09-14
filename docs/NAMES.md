@@ -150,3 +150,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 정 드래곤 | **Jung Dragon** | Public nickname for Lee Jungryong. |
 | 김철수 | **Kim Cheol Soo** | Generic Korean name used in a forum joke. |
 | 제임스 | **James** | Generic English name used in a forum joke. |
+| 천격 | **Heavenly Strike** | Named spear technique used by Taekyung. |
+| 화룡의 발톱 | **Flame Dragon's Claw** | Named technique invoked through Taekyung's spear attack. |
+| 주모 | **Jumo** | Traditional tavern keeper in the Korean victory-day joke. |
+| 청두군구 | **Chengdu Military Region** | Chinese military region commanded by Senior General Liao. |
+| 제 13집단군 | **Thirteenth Group Army** | Army commanded by Senior General Liao. |
