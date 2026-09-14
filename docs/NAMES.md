@@ -128,3 +128,9 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 링크 | **Link** | Mental connection between a mage and Familiar |
 | 김희선 | **Kim Seonhee** | Source spelling variant for the established Assistant Manager Kim Seonhee at the Ilsan Store. |
 | 여름이 | **Yeoreum** | Name Hayeon gives to the Level 2 kitten. |
+| 김준수 | **Kim Junsu** | C-rank mental mage and Sangdong Guild Security Team’s sole Familiar mage. |
+| 김권동 | **Kim Gwondong** | C-rank Sangdong Guild Security Team Hunter assigned to surveillance and disguise work. |
+| 나비 | **Nabi** | Name used for the black kitten Familiar. |
+| 고양시 | **Goyang** | City where the target previously visited a real-estate office. |
+| 보안팀 | **Security Team** | Sangdong Guild’s surveillance and protection unit. |
+| 보안팀장 | **Security Team Leader** | Unnamed leader coordinating the operation. |
