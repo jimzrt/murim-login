@@ -100,3 +100,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 김정희 | **Kim Jeonghee** | Jin Taekyung and Hayeon's mother; restaurant kitchen worker |
 | 아줌마 | **ajumma** | Familiar term for a middle-aged or married woman, used for Kim Jeonghee |
 | 사장님 | **Boss** | Address for the restaurant owner; contextually rendered as ma'am in one reply |
+| 김민수 | **Kim Minsu** | The restaurant owner's son; D-rank Hunter in Sangdong Guild. |
+| 민수 | **Minsu** | Short form used for Kim Minsu. |
