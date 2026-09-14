@@ -99,10 +99,18 @@ def apply_review_replacements(text: str, review: dict) -> str:
     spans: list[tuple[int, int, str, str]] = []
     for finding in review["findings"]:
         old = finding["current"]
-        count = text.count(old)
-        if count != 1:
-            raise ValueError(f"finding {finding['id']} current text occurs {count} times")
-        start = text.index(old)
+        starts = [match.start() for match in re.finditer(re.escape(old), text)]
+        if len(starts) != 1:
+            paragraph_starts = [
+                start for start in starts
+                if (start == 0 or text[start - 2:start] == "\n\n")
+                and (start + len(old) == len(text) or text[start + len(old):start + len(old) + 2] == "\n\n")
+            ]
+            if len(paragraph_starts) != 1:
+                raise ValueError(f"finding {finding['id']} current text occurs {len(starts)} times")
+            start = paragraph_starts[0]
+        else:
+            start = starts[0]
         spans.append((start, start + len(old), finding["replacement"], finding["id"]))
     spans.sort()
     for previous, current in zip(spans, spans[1:]):
