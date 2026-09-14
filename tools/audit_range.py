@@ -20,7 +20,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 
 try:
-    from tools.run_lock import hold_run_lock
+    from tools.run_lock import hold_audit_locks
     from tools.context import exact_glossary_entries, glossary_text, profile_entries, profiles_text
     from tools.model_io import (
         blocking_dispositions,
@@ -33,7 +33,7 @@ try:
     from tools.workflow import estimated_tokens, project_config, run_omp
     from tools.chapter import extract_chapter, source_chapters
 except ModuleNotFoundError:
-    from run_lock import hold_run_lock
+    from run_lock import hold_audit_locks
     from context import exact_glossary_entries, glossary_text, profile_entries, profiles_text
     from model_io import blocking_dispositions, parse_json_object, review_markdown, validate_patchset, validate_range_review
     from qa import run_qa
@@ -481,7 +481,7 @@ def main() -> int:
         else:
             run_all(args.start, args.end, args.block_size, args.jobs, True)
         return 0
-    with hold_run_lock(ROOT, holder="audit_range", chapter=args.start, stage=args.command):
+    with hold_audit_locks(ROOT, holder="audit_range", chapter=args.start, stage=args.command):
         if args.command == "prepare":
             prepare(args.start, args.end, args.block_size)
             status(args.start, args.end)

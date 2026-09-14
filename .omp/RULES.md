@@ -13,9 +13,10 @@
 - Run chapter review only through `python tools/workflow.py review N`.
 - Never start nested agents, hub, task, or reviewer sessions.
 - Wait for each `workflow.py` bash command to finish; do not background it.
-- Under `tools/run_next.py`, follow reported actions through `MASTERED`; the wrapper owns commit.
+- Under `tools/run_next.py`, follow reported actions through `ACCEPTED`; the wrapper owns the accept commit.
+- Mastering is `python tools/run_next_mastering.py`; do not master from `run_next.py`.
 - Stop on command failure, stale hashes, ambiguity, or `COMMITTED`.
 - For accepted-range re-audits, use `tools/audit_range.py`; never reopen normal chapter transactions.
 - docs/CONTEXT.json must keep version, safe_through, continuity_sources, active_continuity, open_questions, and temporary_decisions.
 - Always pass timeout=3600 on bash calls to workflow.py.
-- Only one translation run at a time; `.work/run.lock` is the exclusive lock. Do not start run_next, run_until, or a mutating workflow command while another run holds it.
+- Only one translation run at a time; `.work/run.lock` is the exclusive translation lock. Only one mastering run at a time; `.work/master.lock` is the exclusive mastering lock. Git commits wait on `.work/commit.lock`.

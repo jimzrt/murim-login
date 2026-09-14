@@ -1,10 +1,10 @@
 # Two-Model Mastering Overlay
 
-This overlay is the last automatic stage of a normal chapter run. After
-`accept`, `run_next.py` runs the two-model mastering overlay, promotes the
-verified copy into `translations/`, and includes those artifacts in
-`Accept Chapter N`. The pre-master English remains at
-`reviews/mastering/<chapter>/baseline.md`.
+This overlay is a lagging queue after a chapter is accepted and committed.
+`python tools/run_next.py` stops at the accept commit. `python tools/run_next_mastering.py`
+runs the two-model overlay on the oldest unpromoted accepted chapter, promotes
+the verified copy into `translations/`, and commits `Master Chapter N`. The
+pre-master English remains at `reviews/mastering/<chapter>/baseline.md`.
 
 Manual overlay commands still work for reruns and retrospective chapters:
 
@@ -193,7 +193,10 @@ established terminology, formatting, and source-specific texture.
 
 At the start of mastering a chapter, the script snapshots and hashes the Korean source and accepted English. Later stages abort if either live file changes during the transaction. After promotion, the live translation must keep matching the promoted copy.
 
-`python tools/mastering.py run N`, `python tools/workflow.py master N`, and `run_next.py` all promote automatically once mastering QA passes. Individual stage commands (`master`, `adjudicate`, `assemble`, `qa`) do not touch `translations/` until you run `run` or `promote`.
+`python tools/mastering.py run N`, `python tools/workflow.py master N`, and
+`run_next_mastering.py` all promote automatically once mastering QA passes.
+Individual stage commands (`master`, `adjudicate`, `assemble`, `qa`) do not
+touch `translations/` until you run `run` or `promote`.
 
 Manual promotion of an already-verified chapter still works:
 

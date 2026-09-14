@@ -11,12 +11,20 @@ python tools/run_next.py
 ```
 
 It reads the exact next chapter from `docs/STATE.md`, executes each controller
-action reported by `status` through `MASTERED`, creates `Accept Chapter N`,
-registers that commit, and stops at `COMMITTED`. `master` runs the two-model
-overlay, promotes the verified copy, and records its hashes in the same primary
-transaction. The wrapper requires a clean Git worktree. An exclusive lock at
-`.work/run.lock` prevents a second `run_next`/`run_until` from overlapping;
-inspect it with `python tools/run_lock.py`.
+action reported by `status` through `ACCEPTED`, creates `Accept Chapter N`,
+registers that commit, and stops at `COMMITTED`. Mastering is a separate queue:
+
+```bash
+python tools/run_next_mastering.py
+```
+
+It picks the oldest accepted chapter that is not yet promoted, runs the
+two-model overlay, promotes the verified copy, creates `Master Chapter N`, and
+registers that commit. The two runners may overlap: translation holds
+`.work/run.lock`, mastering holds `.work/master.lock`, and Git commits wait on
+`.work/commit.lock`. Inspect locks with `python tools/run_lock.py`. An audit
+takes both work locks. The wrappers require a clean Git worktree for their own
+path set; dirt owned by the other runner is ignored.
 
 ## Controller Loop
 
@@ -24,7 +32,8 @@ For chapter `N`, run `python tools/workflow.py status N`. Perform only the
 reported next action, then run `status` again. Never infer a stage from chat
 history or skip, combine, or reorder stages. Stop at `COMMITTED`, or immediately
 on ambiguity, stale hashes, failed QA, an over-budget packet, invalid model JSON,
-or any failed command.
+or any failed command. After `COMMITTED`, stop the translation runner; do not
+begin another chapter from the same `run_next` invocation.
 
 The controller owns retrieval, phase-specific packets, model calls, QA, review
 completion, hashes, promotion, recovery, and the next action. Routine work must
@@ -84,13 +93,21 @@ not exist until `accept`.
 ## Acceptance
 
 `accept` creates the baseline `translations/NNNN.md` and advances the primary
-transaction to `ACCEPTED`. The next reported action, `master`, runs and resumes
-the overlay, promotes the verified mastered copy over that file, and advances
-the same transaction to `MASTERED`; the pre-master snapshot remains at
-`reviews/mastering/NNNN/baseline.md`. Commit the chapter, structured review, QA,
-mastering artifacts, metrics, and relevant durable-context changes only from
-`MASTERED`, then register the exact commit. Never commit `.work/`, caches, or an
+transaction to `ACCEPTED`. Commit the chapter, structured review, QA, metrics,
+and relevant durable-context changes from `ACCEPTED`, then register the exact
+commit. That registration advances the transaction to `COMMITTED`.
+
+Mastering is not part of that commit. `python tools/run_next_mastering.py`
+runs `master` on the oldest `COMMITTED` chapter that is not yet promoted,
+promotes the verified copy over `translations/NNNN.md`, advances the same
+transaction to `MASTERED`, commits `Master Chapter N`, and registers
+`MASTERED_COMMITTED`. The pre-master snapshot remains at
+`reviews/mastering/NNNN/baseline.md`. Never commit `.work/`, caches, or an
 unaccepted draft.
+
+Accept commits may only contain the deterministic accept path set for that
+chapter. Mastering commits may only contain that chapter's translation, its
+`reviews/mastering/NNNN/` tree, and `reviews/metrics/NNNN.json`.
 
 Binding language policy is in `RULES.md`. Configuration is in
 `docs/workflow.json`. Read `docs/WORKFLOW.md` only for recovery, profiles,
