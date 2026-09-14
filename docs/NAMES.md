@@ -119,3 +119,10 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 검정파리 | **Black Blow Fly** | System label for a Level 1 fly familiar. |
 | 금파리 | **Green Bottle Fly** | System label for a Level 1 fly familiar. |
 | 패밀리어 | **Familiar** | System classification for the flies detected in Taekyung's home. |
+| 김선희 | **Kim Seonhee** | Assistant Manager at the Ilsan Store |
+| 대리 | **Assistant Manager** | Corporate title used by Kim Seonhee |
+| 일산 | **Ilsan** | Location of the Store and Lafesta |
+| 라페스타 | **Lafesta** | Shopping and entertainment district in Ilsan |
+| 스토어 | **Store** | Restricted luxury retailer for magical goods and Hunter equipment |
+| 쌀벌레 | **Rice Weevil** | Creature used by Hong Woojin as a Familiar |
+| 링크 | **Link** | Mental connection between a mage and Familiar |
