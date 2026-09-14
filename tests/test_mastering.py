@@ -221,6 +221,63 @@ def test_command_qa_applies_blocking_repairs_before_final_gate():
     assert recorded["fidelity_repairs"] == 1
 
 
+def test_command_qa_applies_repairs_on_final_round():
+    work = Path(tempfile.mkdtemp())
+    source = work / "source.txt"
+    baseline = work / "baseline.md"
+    final = work / "final.md"
+    source.write_text("원문\n", encoding="utf-8")
+    baseline.write_text("# Chapter 9\n\nWe hold it down.\n", encoding="utf-8")
+    final.write_text("# Chapter 9\n\nWe hold it down.\n", encoding="utf-8")
+    paths = {
+        "final": final,
+        "source": source,
+        "baseline": baseline,
+        "qa": work / "qa.json",
+        "fidelity_packet": work / "fidelity-packet.md",
+        "fidelity_review": work / "fidelity-review.json",
+        "state": work / "state.json",
+        "metrics": work / "metrics.json",
+        "logs": work / "omp",
+    }
+    paths["logs"].mkdir()
+    state = {"stage": "ASSEMBLED", "version": 1, "chapter": 9}
+    gate_calls = {"n": 0}
+
+    def fake_gate(_number, _source, current_final, *_args, **_kwargs):
+        gate_calls["n"] += 1
+        if "We hold it down." in current_final:
+            return {
+                "summary": "blocked",
+                "findings": [{
+                    "id": "F01",
+                    "severity": "major",
+                    "current": "We hold it down.",
+                    "replacement": "That thing must be held off.",
+                    "confidence": 0.99,
+                }],
+            }
+        return {"summary": "clean", "findings": []}
+
+    with (
+        patch.object(mastering, "create_or_verify_state", return_value=(state, paths)),
+        patch.object(mastering, "run_qa", return_value={"passed": True, "errors": [], "warnings": []}),
+        patch.object(mastering, "run_fidelity_gate", side_effect=fake_gate),
+        patch.object(mastering, "load_config", return_value={
+            "quality_gate_min_auto_confidence": 0.9,
+            "quality_gate_max_rounds": 1,
+        }),
+        patch.object(mastering, "exact_glossary", return_value=[]),
+        patch.object(mastering, "validate_chapter", lambda *_a, **_k: None),
+    ):
+        mastering.command_qa(9)
+    assert gate_calls["n"] == 2
+    assert "That thing must be held off." in final.read_text(encoding="utf-8")
+    recorded = json.loads(paths["state"].read_text(encoding="utf-8"))
+    assert recorded["stage"] == "VERIFIED"
+    assert recorded["qa_passed"] is True
+
+
 def test_apply_fidelity_repairs_rejects_truncated_model_replacement():
     review = {
         "findings": [{
@@ -364,6 +421,98 @@ def test_run_promotes_when_already_verified():
                     ):
                         mastering.command_run(11)
     assert calls == ["promote:REPLACE_TRANSLATIONS"]
+
+
+def test_run_escalates_from_readjudicate_to_remaster():
+    calls: list[str] = []
+    qa_results = iter([
+        {"stage": "QA_FAILED", "qa_passed": False},
+        {"stage": "QA_FAILED", "qa_passed": False},
+        {"stage": "QA_FAILED", "qa_passed": False},
+        {"stage": "VERIFIED", "qa_passed": True},
+        {"stage": "VERIFIED", "qa_passed": True},
+    ])
+
+    def fake_state(_number):
+        return next(qa_results)
+
+    def track(name):
+        def _inner(*_args, **kwargs):
+            force = kwargs.get("force")
+            calls.append(f"{name}:force" if force else name)
+        return _inner
+
+    with (
+        patch.object(mastering, "state_for", side_effect=fake_state),
+        patch.object(mastering, "chapter_paths", return_value={
+            "qa": Path("reviews/mastering/0011/qa.json"),
+            "fidelity_review": Path("reviews/mastering/0011/fidelity-review.json"),
+            "state": Path("reviews/mastering/0011/state.json"),
+        }),
+        patch.object(mastering, "load_config", return_value={
+            "qa_retry_readjudicate": 1,
+            "qa_retry_remaster": 1,
+        }),
+        patch.object(mastering, "command_master", side_effect=track("master")),
+        patch.object(mastering, "command_adjudicate", side_effect=track("adjudicate")),
+        patch.object(mastering, "command_assemble", side_effect=track("assemble")),
+        patch.object(mastering, "command_qa", side_effect=track("qa")),
+        patch.object(mastering, "command_promote", side_effect=track("promote")),
+        patch.object(mastering, "update_state", lambda *_a, **_k: None),
+    ):
+        mastering.command_run(11)
+    assert calls == [
+        "master",
+        "adjudicate",
+        "assemble",
+        "qa",
+        "adjudicate:force",
+        "assemble",
+        "qa",
+        "master:force",
+        "adjudicate:force",
+        "assemble",
+        "qa",
+        "promote",
+    ]
+
+
+def test_run_stops_after_bounded_retries():
+    calls: list[str] = []
+
+    def fake_state(_number):
+        return {"stage": "QA_FAILED", "qa_passed": False}
+
+    def track(name):
+        def _inner(*_args, **kwargs):
+            force = kwargs.get("force")
+            calls.append(f"{name}:force" if force else name)
+        return _inner
+
+    with (
+        patch.object(mastering, "state_for", side_effect=fake_state),
+        patch.object(mastering, "chapter_paths", return_value={
+            "qa": mastering.ROOT / "reviews/mastering/0011/qa.json",
+            "fidelity_review": mastering.ROOT / "reviews/mastering/0011/fidelity-review.json",
+        }),
+        patch.object(mastering, "load_config", return_value={
+            "qa_retry_readjudicate": 1,
+            "qa_retry_remaster": 1,
+        }),
+        patch.object(mastering, "command_master", side_effect=track("master")),
+        patch.object(mastering, "command_adjudicate", side_effect=track("adjudicate")),
+        patch.object(mastering, "command_assemble", side_effect=track("assemble")),
+        patch.object(mastering, "command_qa", side_effect=track("qa")),
+        patch.object(mastering, "command_promote", side_effect=track("promote")),
+    ):
+        try:
+            mastering.command_run(11)
+            assert False, "expected exhaustion error"
+        except ValueError as error:
+            assert "after 1 re-adjudicate and 1 remaster" in str(error)
+    assert "promote" not in calls
+    assert calls.count("master:force") == 1
+    assert calls.count("adjudicate:force") == 2
 
 
 def test_assemble_skips_existing_final_after_verified():
