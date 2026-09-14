@@ -34,3 +34,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 섬서 | **Shaanxi** | Province bordering Shanxi. |
 | 삼공자 | **Third Young Master** | Title used for Jin Taekyung. |
 | 맹주 | **Alliance Leader** | Leader of the regional Murim alliance. |
+| 약왕당주 | **Medicine King Hall Master** | The unnamed physician who runs the Medicine King Hall. |

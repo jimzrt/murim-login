@@ -1,17 +1,15 @@
 # Translation State
 
-- Last completed: 66
-- Next chapter: 67
-- Current block: 65–69 (2/5)
-- Latest translation: `translations/0066.md`
-- Latest summary: `summaries/beats/0066.md`
-- Safe profiles through: chapter 66
+- Last completed: 67
+- Next chapter: 68
+- Current block: 65–69 (3/5)
+- Latest translation: `translations/0067.md`
+- Latest summary: `summaries/beats/0067.md`
+- Safe profiles through: chapter 67
 
 ## Current Block
 
-- Jin Mukyung reunites with his older brother, Jin Wikyung, after three years but remains emotionally detached and quickly leaves to train. He acknowledges that Jin Taekyung is no longer the youngest brother he remembered after their recent fifty-exchange duel.
-- Wipeng leads thirty elites south under the official mission of finding the nonexistent assassin. Jin Wikyung has secretly ordered him to prepare for a larger political move: summoning every sect in Shanxi Province on New Year's Day and, if necessary, pursuing the position of Alliance Leader. Jin Wikyung's search through five days of family records finds no information about Dark Heaven.
-- Taekyung's Status Window shows him at Level 50 with fifty remaining points after investing heavily in Agility during the duel. Gong Yacheong is recovering and will take charge of the rebuilt Sakju Branch; Socheon and Soyul will leave with him in six months. Taekyung promises Socheon that he will visit them, though Soyul still does not know that their parents are dead.
+- Hyuk Mujin remains badly bruised and undergoes painful acupuncture from the Medicine King Hall Master, while Taekyung's bruises nearly vanish overnight after circulating his qi and sleeping. Taekyung is discharged, but Mujin must remain for treatment. With his pavilion destroyed, Taekyung is temporarily taken by Jin Wikyung to a large three-story residence containing two training halls. Wikyung arranges for Jin Mukyung to share the residence with Taekyung for fifteen days while Taekyung's residence is rebuilt. Mukyung accepts but requests a physician instead of servants or a cook, openly threatening to beat Taekyung again. Wikyung stops their quarrel, reprimands both brothers, and compels them to agree to the temporary cohabitation despite their mutual reluctance.
 
 ## Open Questions
 
@@ -28,6 +26,8 @@
 - Use Three Questions Gorge for 삼문협.
 - Use Alliance Leader for 맹주 and summon for 소집 to preserve the distinction from an invitation.
 - Retain Great Hero for 대협 when Taekyung addresses Gong Yacheong.
+- Use Sleep Mode for 수면 모드.
+- Use Medicine King Hall Master for 약왕당주.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
