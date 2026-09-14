@@ -1,6 +1,6 @@
 # Wu Heixing (우헤이싱)
 
-- **Safe through:** Chapter 386
+- **Safe through:** Chapter 387
 - **Aliases:** None
 - **Role:** S-rank Hunter and highly media-exposed Chinese Hunter
 - **Personality:** Arrogant, volatile, status-conscious, and attention-seeking

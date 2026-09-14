@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "You picked a fight first with your usual one-dimensional behavior, but then neither the reaction nor that bangzi bastard turned out to be as easy as you expected, huh?",
+      "defect": "The draft treats both “the reaction” and Taekyung as things that were not easy. The source instead says Wu's provocation was poorly received and Taekyung proved unexpectedly difficult.",
+      "id": "F01",
+      "rationale": "반응도 안 좋고 describes the bad response to Wu's behavior, while 만만치가 않네 applies specifically to Taekyung.",
+      "replacement": "You picked a fight with your usual one-dimensional behavior, but it didn’t go over well, and that *bangzi* bastard turned out to be tougher than you expected, huh?",
+      "severity": "major",
+      "source": "특유의 일차원적인 행동으로 시비부터 걸고 봤는데, 이게 영 반응도 안 좋고 저 빵즈 놈도 생각 외로 만만치가 않네?"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“He’s not exactly harmless either.”",
+      "defect": "“Not harmless” implies danger or malicious intent, while Pai Chen is reacting to Choi's unexpectedly eccentric fixation on her Equipment.",
+      "id": "F02",
+      "rationale": "만만치 않네 here characterizes Choi as unexpectedly formidable or difficult in a comic sense, not as physically dangerous.",
+      "replacement": "“This one’s quite a handful too.”",
+      "severity": "minor",
+      "source": "「얘도 만만치 않네.」"
+    },
+    {
+      "confidence": 0.98,
+      "current": "They had discovered the golden calf his family had secretly smuggled away. Naturally, he wasn’t reacting well.",
+      "defect": "The draft invents an unspecified plural discoverer and explicitly assigns the secret appropriation to Wu's family. The source only says that the secretly appropriated treasure has now been exposed.",
+      "id": "F03",
+      "rationale": "들켰으니 means the secret has been found out in the present confrontation; neither “they” nor “his family” is stated.",
+      "replacement": "Now that he’d been caught with the golden calf that had been secretly spirited away, it was only natural that he’d react badly.",
+      "severity": "major",
+      "source": "그렇게 몰래 빼돌린 금송아지를 들켰으니, 놈의 반응이 좋지 않은 것은 당연했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Jin Taekyung, please come quickly.",
+      "defect": "The draft silently corrects the visibly garbled typing, removing the pragmatic cue that Choi is panicked or typing under severe pressure.",
+      "id": "F04",
+      "rationale": "The displaced consonants in 지ㄴ and 빠ㄹ리 are intentional comic evidence of Choi's distress immediately before Taekyung’s deadpan reaction.",
+      "replacement": "Ji[n] Taekyung, please come qui[c]kly.",
+      "severity": "major",
+      "source": "지ㄴ태경시제발빠ㄹ리 와주세요"
+    }
+  ],
+  "summary": "Four actionable findings: two altered meanings, one characterization error, and one lost pragmatic cue.",
+  "version": 1
+}

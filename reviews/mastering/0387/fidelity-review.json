@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "This was her own eve-of-battle ritual after losing countless companions during the Great Cataclysm.",
+      "defect": "Calling the drink a “ritual” implies an established or recurring observance, while 전야제 identifies it as her personal eve-of-battle celebration.",
+      "id": "F01",
+      "rationale": "The source explicitly uses 전야제(前夜祭), meaning an eve celebration or festivities, and does not establish that Pai Chen habitually performs this as a ritual.",
+      "replacement": "This was her own eve-of-battle celebration after losing countless companions during the Great Cataclysm.",
+      "severity": "minor",
+      "source": "line 99 / P50"
+    }
+  ],
+  "summary": "Faithful overall, with one minor change that turns a one-time eve-of-battle celebration into an implied recurring ritual.",
+  "version": 1
+}

@@ -1,0 +1,31 @@
+{
+  "chapter": 387,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.096,
+    "source_characters": 5988,
+    "source_paragraphs": 196,
+    "translation_characters": 12552,
+    "translation_paragraphs": 198
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "레이드",
+        "preferred": "raid"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "공자",
+        "preferred": "Young Master"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}

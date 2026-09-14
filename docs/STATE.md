@@ -1,15 +1,17 @@
 # Translation State
 
-- Last completed: 386
-- Next chapter: 387
-- Current block: 385–389 (2/5)
-- Latest translation: `translations/0386.md`
-- Latest summary: `summaries/beats/0386.md`
-- Safe profiles through: chapter 386
+- Last completed: 387
+- Next chapter: 388
+- Current block: 385–389 (3/5)
+- Latest translation: `translations/0387.md`
+- Latest summary: `summaries/beats/0387.md`
+- Safe profiles through: chapter 387
 
 ## Current Block
 
-- Lee Jungryong arrives at the underground bunker and is greeted by the assembled S-rank Hunters. He recognizes that Choi Minwoo has become much stronger and that Jin Taekyung has crossed the wall, which leaves him anxious and impatient. A long strategy meeting follows: Senior General Liao proposes launching dozens of nuclear weapons across Sichuan, but the proposal is rejected because of the danger to survivors, the land, and possible teleportation of the warheads. The six S-rank Hunters are ultimately assigned to six fronts, each supported by three Army and Air Force divisions and Hunters from the Public Security Armed Forces. As the meeting ends, an unidentified person uses Sound Transmission to summon Taekyung.
+- After leaving the bunker, Pai Chen invites Jin Taekyung to drink. Prince Felix declines when forty-five-year-old Romanée-Conti is unavailable, while Magic Johnson initially refuses to prepare Memorize for possible deployment. Team Leader Choi accepts the invitation, and Magic Johnson joins after learning that Choi will accompany them.
+- Taekyung follows Wu Heixing into a forest after recognizing him as the sender of the Sound Transmission received near the meeting's end. Wu knows martial arts, attacks Taekyung with a drawn sword and fist-and-foot techniques, and is decisively defeated.
+- Taekyung takes Wu's Supreme Potion as a settlement and treats him with an Advanced Potion. Team Leader Choi then sends an urgent text asking Taekyung to return, ending the chapter.
 
 ## Open Questions
 
@@ -20,7 +22,7 @@
 - Ae-hyang's superior and the consequences of the Sichuan Governor's false memorial remain unresolved.
 - The relationship between the Lich and the Arch Lich, the full extent of the Skeleton Warlord's increased power, and the monster wave's larger plan remain unresolved.
 - Lei Fei's fate and the fate of the missing Sichuan Hunters remain unresolved.
-- Lee Jungryong's purpose beyond attending the bunker meeting, the outcome of Wu Heixing's interrupted attempt to draw his sword, and the identity and request of the person who used Sound Transmission remain unresolved.
+- Lee Jungryong's purpose beyond attending the bunker meeting, Wu Heixing's reason for sending the Sound Transmission, and the cause of Team Leader Choi's urgent message remain unresolved.
 
 ## Exceptional Decision
 
@@ -30,8 +32,8 @@
 - Render 대마법사 as Archmage and 워 메이지 as War Mage.
 - Retain Teacher Jin for 진 선생 and Comrade Chairman for 주석 동지.
 - Render 반도의 빵즈 as peninsula bangzi and retain the derogatory-slur footnote.
-- Preserve Taekyung's conversational, self-mocking first-person voice and the source's offensive insult exchange.
-- Render Pai Chen, Wu Heixing, Prince Felix Alexander Louis, William, Senior General Liao, the Princelings, and the Shanghai clique consistently.
+- Preserve Taekyung's conversational, self-mocking first-person voice and the source's jokes.
+- Render established names and titles consistently, including Pai Chen, Wu Heixing, Prince Felix Alexander Louis, William, Senior General Liao, the Princelings, and the Shanghai clique; use Sound Transmission, Sword Force, Advanced Potion, and Supreme Potion here.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
