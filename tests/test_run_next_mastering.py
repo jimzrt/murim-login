@@ -5,6 +5,7 @@ from pathlib import Path
 from unittest.mock import patch
 
 from tools import run_next_mastering
+from tools import workflow
 
 
 class RunNextMasteringTest(unittest.TestCase):
@@ -63,6 +64,12 @@ class RunNextMasteringTest(unittest.TestCase):
         (self.root / "translations" / "0005.md").write_text("# Chapter 5\n", encoding="utf-8")
         self.write_primary(5, "MASTERED")
         self.assertEqual(run_next_mastering.next_mastering_chapter(), 5)
+
+    def test_mastered_is_not_a_translation_in_flight_blocker(self):
+        self.write_primary(0, "MASTERED")
+        self.write_primary(66, "ACCEPTED")
+        self.assertEqual(workflow.incomplete_chapter(), 66)
+        self.assertEqual(workflow.incomplete_mastering_chapter(), 0)
 
     def test_blocks_when_translation_checkpoint_window_owns_the_file(self):
         (self.root / "translations" / "0005.md").write_text("# Chapter 5\n", encoding="utf-8")

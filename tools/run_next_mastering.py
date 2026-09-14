@@ -22,6 +22,7 @@ try:
         command_committed,
         incomplete_chapter,
         incomplete_mastering_chapter,
+        is_harness_artifact,
         master_allowed_paths,
         master_owns_path,
         paths,
@@ -34,6 +35,7 @@ except ModuleNotFoundError:
         command_committed,
         incomplete_chapter,
         incomplete_mastering_chapter,
+        is_harness_artifact,
         master_allowed_paths,
         master_owns_path,
         paths,
@@ -120,13 +122,14 @@ def require_repository(chapter: int, *, resume: bool) -> None:
         raise SystemExit(error.stderr.strip() or "project must be an initialized Git repository") from None
     foreign = foreign_translate_paths(dirty, chapter)
     allowed_accept = accept_allowed_paths(chapter) if resume else set()
-    ours = [path for path in dirty if path not in foreign]
+    harness = [path for path in dirty if path not in foreign and is_harness_artifact(path)]
     unexpected = [
-        path for path in ours
+        path for path in harness
         if not master_owns_path(path, chapter) and path not in allowed_accept
     ]
     if unexpected:
         raise SystemExit("working tree has unexpected changes: " + ", ".join(unexpected))
+    ours = [path for path in harness if master_owns_path(path, chapter) or path in allowed_accept]
     if not resume and ours:
         raise SystemExit(
             "working tree must be clean of mastering files before run_next_mastering; "
@@ -158,7 +161,10 @@ def commit_mastered(chapter: int) -> None:
     dirty = changed_paths()
     allowed = master_allowed_paths(chapter, dirty) | accept_allowed_paths(chapter)
     foreign = foreign_translate_paths(dirty, chapter)
-    unexpected = [path for path in dirty if path not in allowed and path not in foreign]
+    unexpected = [
+        path for path in dirty
+        if path not in allowed and path not in foreign and is_harness_artifact(path)
+    ]
     if unexpected:
         raise SystemExit("refusing to commit unexpected paths: " + ", ".join(unexpected))
     ours = [path for path in dirty if path in allowed]
@@ -185,7 +191,11 @@ def main() -> int:
     with hold_master_lock(ROOT, holder="run_next_mastering", chapter=chapter, stage=stage or "starting") as lock:
         require_repository(chapter, resume=resume)
         from progress import chapter_banner
-        chapter_banner(chapter, "master" if not resume else "resume")
+        chapter_banner(
+            chapter,
+            "master" if not resume else "resume",
+            pipeline="Deterministic master → adjudicate → promote → commit",
+        )
         if stage != "MASTERED":
             lock.update(stage="master")
             run_master(chapter)

@@ -230,7 +230,7 @@ def save(state: dict, p: dict[str, Path], stage: str, **artifacts: str) -> None:
 
 IN_FLIGHT_STAGES = {
     "CONTEXT_READY", "DRAFTED", "REVIEWED", "REVISED",
-    "CHECKPOINT_REVIEWED", "CHECKPOINT_APPLIED", "ACCEPTED", "MASTERED",
+    "CHECKPOINT_REVIEWED", "CHECKPOINT_APPLIED", "ACCEPTED",
 }
 MASTERING_IN_FLIGHT_STAGES = {"MASTERED"}
 
@@ -451,6 +451,21 @@ def master_owns_path(path: str, number: int) -> bool:
         path == f"translations/{number:04d}.md"
         or path == f"reviews/metrics/{number:04d}.json"
         or path.startswith(f"reviews/mastering/{number:04d}/")
+    )
+
+
+def is_harness_artifact(path: str) -> bool:
+    if path in {
+        "docs/STATE.md",
+        "docs/CONTEXT.json",
+        "docs/NAMES.md",
+        "docs/ADDRESS.md",
+        "docs/RISKS.md",
+        "compendium.md",
+    }:
+        return True
+    return path.startswith(
+        ("translations/", "reviews/", "summaries/", "characters/")
     )
 
 

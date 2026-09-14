@@ -206,9 +206,9 @@ def banner(text: str) -> None:
     print(text, flush=True)
 
 
-def chapter_banner(chapter: int, label: str) -> None:
+def chapter_banner(chapter: int, label: str, *, pipeline: str | None = None) -> None:
     banner(f"Chapter {chapter}  {label}")
-    note = "Deterministic draft → review → revise → update → accept → commit"
+    note = pipeline or "Deterministic draft → review → revise → update → accept → commit"
     console = _console()
     if console is not None and Text is not None:
         console.print(Text(f"  {note}", style="dim"))
