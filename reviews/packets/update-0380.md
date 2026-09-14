@@ -1,0 +1,1305 @@
+<!-- packet-manifest
+{
+  "included": [
+    {
+      "path": "source/0380.txt",
+      "sha256": "77da415e27450ded443c430202a192f958531844d76c60353282e71a7901a05a",
+      "bytes": 14411
+    },
+    {
+      "path": "docs/CONTEXT.json",
+      "sha256": "1d840dcb12d24f0c663b5a640bff80f3a8139849a1fe791398d9c99f513ec35e",
+      "bytes": 8826
+    },
+    {
+      "path": "docs/NAMES.md",
+      "sha256": "1f8cb7d29c868933495e28aad5c787dc9f4c46a86ee64eda9ae2410ef6dc5941",
+      "bytes": 8465
+    },
+    {
+      "path": "characters/Jin Taekyung.md",
+      "sha256": "586dc8095daf9bd90d26df34ccf1d9a74bfc5534239659a2f0a562e0d9b0ed15",
+      "bytes": 23777
+    },
+    {
+      "path": "docs/ADDRESS.md",
+      "sha256": "62fd3f513133c642d4eabe3cd127fc9f80ffea7a50501f8ecd0a0e6593a0f900",
+      "bytes": 4950
+    },
+    {
+      "path": "docs/EXPEDITION_SEED.md",
+      "sha256": "e5a01d50d796fba043e2eff7ee06ea15a89df4e1c84e4ef61e52603f1ccb41b3",
+      "bytes": 1897
+    }
+  ],
+  "estimated_tokens": 14311
+}
+-->
+
+# Durable State Update — Chapter 380
+
+Return exactly one JSON object and no Markdown fence. Record only facts established
+by this chapter. Do not use tools, edit prose, infer future events, or copy archived
+profile continuity.
+
+`context` must contain exactly the durable context schema shown below, with version
+1 and safe_through 380. Keep at most
+2 continuity_sources. Use only chapter
+numbers through 380. `profile_updates` may replace one exact, uniquely occurring
+complete line in a listed profile, and only an Aliases, Role, Personality, Voice, or
+Relationships line. Use `profile_creations` only for a newly introduced named
+character without a listed profile. Filenames must be plain `.md` basenames.
+`names` contains only newly required Korean-to-English rows; Korean keys must occur
+in the source. `address_pairs` contains only newly required speaker→addressee rows;
+each Korean key must occur in the source or already appear in the address ledger,
+and at least one endpoint must occur in the source (first-person narrators may be
+ledger-only). Do not invent risk-register rows. Beat
+plot paragraphs are plain strings; continuity and translation decisions are concise
+list items.
+
+Return this exact shape:
+
+{
+  "chapter": 380,
+  "beat": {
+    "plot": ["chapter plot paragraph"],
+    "continuity": ["binding continuity item"],
+    "translation_decisions": ["binding terminology or voice decision"]
+  },
+  "context": {
+    "version": 1,
+    "safe_through": 380,
+    "continuity_sources": [380],
+    "active_continuity": ["active fact"],
+    "open_questions": ["unresolved question"],
+    "temporary_decisions": ["temporary translation decision"]
+  },
+  "names": [
+    {"korean": "source spelling", "english": "English rendering", "notes": "brief note"}
+  ],
+  "address_pairs": [
+    {
+      "speaker": "speaker Korean",
+      "addressee": "addressee Korean",
+      "kinship": "kinship or role relation",
+      "normal_address": "established English address",
+      "speech_level": "speech level",
+      "notes": "brief note"
+    }
+  ],
+  "profile_updates": [
+    {
+      "path": "characters/Listed Profile.md",
+      "current": "- **Role:** exact current full line",
+      "replacement": "- **Role:** finished replacement full line"
+    }
+  ],
+  "profile_creations": [
+    {
+      "filename": "English Name.md",
+      "korean": "source name",
+      "english": "English Name",
+      "aliases": [],
+      "role": "stable role",
+      "personality": "stable traits",
+      "voice": "stable voice",
+      "relationships": "stable relationships"
+    }
+  ]
+}
+
+Use empty arrays when no name, address-pair, or profile change is required.
+
+## Prior durable context
+
+```json
+{
+  "active_continuity": [
+    "By the end of the source-only bridge, Jin Taekyung had reached the Supreme Peak realm and Level 120; this chapter grants him another level up, but the resulting level, exact current Fame, Titles, martial-art stages, and unassigned points are not stated.",
+    "Jin Mukyung is Taekyung's second older brother, twenty-three, the Heaven Shaking Sword, a Peak-level martial genius, and substantially stronger than Taekyung.",
+    "Dark Heaven rescued the former conspirators from the Demonic Cult, implanted gu in them, and its larger purpose and reason for sparing Taekyung remain unresolved.",
+    "The Sichuan Tang Clan, Qingcheng Sect, and Emei Sect were devastated by the recent Dark Heaven attacks; Tang Sadok has awakened and is again serving as Family Head of the Sichuan Tang Clan.",
+    "Tang Sadok confessed that he revealed the Myriad Poison Ring's location to the Western Heaven Demon Lord to preserve the Tang Clan; Taekyung forgave him, and the Tang Clan owes Taekyung's group a great debt.",
+    "Taekyung completed the Hidden Quest Atonement and Forgiveness and acquired the Benefactor of the Tang Clan Title, along with EXP, Fame, and a level up.",
+    "The Myriad Poison Ring was transferred to Taekyung by Tang Sadok and is now bound to him; White Flame, Myriad Poison Ring, and Flame Dragon Armor are currently bound.",
+    "Mungyeong is the Divine Physician and the Slaughter Saint. He has left the Murim's affairs behind, intends to live as a physician, and is the master of Dongbong.",
+    "Dongbong is Mungyeong's longtime disciple and a physician who lost his wife and two children to an epidemic before Mungyeong cured him and accepted him as a disciple.",
+    "A hidden, currently inactive transport formation associated with Dark Heaven was found near Sichuan; its origin and function remain unresolved.",
+    "Jin Wikyung has proposed relocating the Sichuan Tang Clan and has been assigned to escort Samgoe toward Henan.",
+    "Taekyung has successfully completed Logout and returned to the modern world aboard a private jet sent by China's Central Committee toward Chengdu International Airport.",
+    "Cheongpung is Mimi's temporary guardian while the Tang Clan's future is uncertain.",
+    "The Divine Physician, referred to in Taekyung's joke as Dongbong, has asked Taekyung for time before his departure; the request remains undisclosed.",
+    "Dongbong predicts that a great war will soon occur and asks Mungyeong to prevent it as the Divine Physician; Mungyeong verbally refuses and says the Murim is not where he belongs, while the announced departure from Chengdu's western port remains unresolved.",
+    "Taekyung and Cheongpung were preparing to leave Sichuan by fast ship from Chengdu's western port after the Hour of the Dog.",
+    "Mu Song is the boatman associated with the water bandits preparing the ship.",
+    "An unidentified boy reaches the port immediately before departure and is accepted as one more passenger.",
+    "The Sichuan Governor's favorite concubine Ae-hyang manipulated him into concealing the government uniforms and weapons involved in the recent martial-artist conflict and preparing a false memorial that exaggerates his role in restoring order. A sinister red light entered her eyes, and she appears to serve an unidentified superior.",
+    "Chengdu International Airport is under attack by monsters, with humans and monsters fighting on the ground while around a dozen A-rank wyverns pursue Taekyung's private jet.",
+    "Taekyung concludes that the Lich, the supreme undead monster associated with the recent monster wave, has extended its reach to Chengdu.",
+    "Team Leader Choi accompanies Taekyung, trusts him to resolve the attack, and can create a pressure-blocking barrier with a ring.",
+    "Taekyung cuts an opening in the aircraft with sword qi, called an Aura Blade in the modern world, and kills the lead wyvern and multiple others with a spear.",
+    "Shao Shen is a twenty-year-old spear-wielding Hunter of the Public Security Armed Forces who rallies Chinese forces at Chengdu International Airport.",
+    "Yao Wei was an A-rank Hunter, Shao Shen's friend and comrade, and a playful sparring partner before being killed and reanimated as a Dullahan.",
+    "A monster army unexpectedly attacks Chengdu International Airport, including low- and high-level monsters, A-rank flying monsters, and a green wyvern capable of using Poison Breath.",
+    "Dark magic spreads through battlefield blood and corpses, restores the dead with strength and souls, and binds the resulting undead to invisible chains.",
+    "The identity of the beings controlling the undead army is not established.",
+    "A burning airplane enters the battlefield and begins sweeping through the monster army; its passengers, identity, and final outcome remain unresolved."
+  ],
+  "continuity_sources": [
+    379
+  ],
+  "open_questions": [
+    "The outcome of Taekyung's spar with Jin Mukyung remains unresolved in the accepted local anchor.",
+    "Dark Heaven's agents, purpose, and connection to the transport formation remain unresolved.",
+    "The Sichuan Tang Clan's relocation decision and destination remain unresolved.",
+    "The outcome and timing of the planned Samgoe escort to Henan remain unresolved.",
+    "The matter the Divine Physician wants to discuss with Taekyung before his departure remains unresolved.",
+    "The identity of the boy who arrives at the port and whether he will accompany Taekyung's group remain unresolved.",
+    "Whether Mungyeong will ultimately intervene in the coming war or leave the Murim remains unresolved.",
+    "The identity of Ae-hyang's superior and the nature of her sinister red-eyed influence remain unresolved.",
+    "Whether the Sichuan Governor submits the false memorial and what consequences follow remain unresolved.",
+    "The Lich's exact role in the Chengdu attack and the extent of its reach remain unresolved.",
+    "Whether Taekyung's private jet survives the ongoing wyvern attack remains unresolved.",
+    "The identity of the beings controlling the undead army is unresolved.",
+    "The identity of the burning airplane's passengers and the outcome of its attack on the monster army are unresolved."
+  ],
+  "safe_through": 379,
+  "temporary_decisions": [
+    "This expedition deliberately skips accepted translation of Chapters 65–370.",
+    "Chapters 371–373 are source-only bridge summaries and must not be treated as complete English continuity.",
+    "When bridge context conflicts with the current Korean source, preserve the current source and record the uncertainty.",
+    "Use Reformation Fist for 갱생권, grappling technique for 금나수, and retain hyung for 형 where the accepted anchor requires them.",
+    "Render 반 시진 and 한 시진 as half a shichen and one shichen, with a footnote explaining that a shichen is a traditional two-hour period.",
+    "Render 종형 as older cousin in this chapter's family context.",
+    "Render 사죄와 용서 as Atonement and Forgiveness, 당문의 은인 as Benefactor of the Tang Clan, 백염 as White Flame, 동봉 as Dongbong, and 신의 as Divine Physician.",
+    "Render 인산인해 as “a sea of people.”",
+    "Render 홍무 as Hongwu and 성도 as Chengdu.",
+    "Render 술시 as the Hour of the Dog, with a footnote identifying it as a traditional period roughly corresponding to 7–9 p.m.",
+    "Render 선화아 as boatman and 무송 as Mu Song.",
+    "Retain Master for 스승님 and render 살귀 as slaughter demon in Mungyeong's self-description.",
+    "Render 식경 as sikgyeong, approximately thirty minutes, with a footnote.",
+    "Render 흑룡갑 as Black Dragon Armor, 화룡갑 as Flame Dragon Armor, 수룡채 as Water Dragon Stronghold, 열화신공 as Blazing Flame Divine Art, 상산왕 as King of Shangshan, and 삼공 as Grand Councilor.",
+    "Render 최 팀장 as Team Leader Choi, 리치 as Lich, 스켈레톤 워로드 as Skeleton Warlord, 샤오 양 as Xiao Yang, 중국 중앙위원회 as Central Committee of China, 쓰촨성 as Sichuan Province, 청두 국제공항 as Chengdu International Airport, 헌터 마켓 as Hunter Market, and 검은 별 as Black Star.",
+    "Render 와이번 as wyvern, 드레이크 as drake, 용족 as dragonkin, 브레스 as Breath, 강기 as sword qi, and 오라 블레이드 as Aura Blade.",
+    "Retain a footnote explaining 빵즈 as a derogatory Chinese slur for Koreans.",
+    "Render 샤오 쉔 as Shao Shen, 야오위 as Yao Wei, and 류인친 as Ryu Inchin.",
+    "Render 공안 무력부 as Public Security Armed Forces, 인민 해방군 as People's Liberation Army, 중화인민공화국 as People's Republic of China, 중화 as Zhonghua, 오성홍기 as Five-Star Red Flag, and 듀라한 as Dullahan."
+  ],
+  "version": 1
+}
+```
+
+## Expedition bridge dossier
+
+# Expedition Seed Dossier
+
+This dossier is intentionally conservative. It orients the Chapter 370 catch-up.
+It is not a substitute for translating Chapters 66–369, and it must not leak
+plot from parked Chapters 371–375.
+
+## Hard boundary
+
+- Accepted English continuity is reliable through Chapter 65.
+- Chapters 66–369 are skipped and have no accepted local English in this
+  expedition.
+- Chapter 370 is the next chapter to translate. Its Korean source is the
+  authority for every beat in that chapter.
+- Parked accepted translations of Chapters 374–375 exist in this branch. Do not
+  read them, their reviews, or old 371–373 bridge summaries while drafting
+  370–373.
+- When the Korean source of the current chapter conflicts with this dossier or
+  with Chapter 65 continuity, the current source wins. Do not invent missing
+  backstory; preserve ambiguity and flag an unresolved continuity issue.
+
+## Opening position for Chapter 370
+
+Chapter 370's source opens at the Sichuan Tang Clan. About seven days have
+passed since the Three-Sect Bloodbath. The clan's gates, long closed, are open
+to reconstruction and to orthodox guests. Do not assert later names, ranks,
+quests, or outcomes that the current chapter has not yet shown.
+
+## Translation guardrails
+
+- Treat the Korean source as authoritative for every line of the chapter being
+  translated.
+- Do not back-project titles, names, ranks, or skills from parked later
+  chapters or web searches into the skipped range without current-source
+  evidence.
+- Use established local terminology where it exists from Chapters 0–65.
+- For terms first evidenced in the current source, follow the ledger and
+  first-use rules. Record new bindings through the normal update stage.
+- The light, self-mocking first-person voice and the source's jokes remain
+  important, but missing continuity must never be filled by invented exposition.
+
+## Existing names ledger
+
+# Established Names
+
+Binding Korean → English for names, titles, aliases, and forms established in
+accepted chapters. Injected only when the exact Korean appears in the current
+chapter. Overrides `compendium.md` on the same Korean key. Add a row at first
+use. First use of an unlisted name or title almost always needs a footnote.
+
+| Korean | Preferred English | Notes |
+| ------ | ----------------- | ----- |
+| 장삼 | **Jang Sam** | Bandit; personal name |
+| 천력부 | **Heavenly Axe** | Epithet of Jang Sam; never romanize |
+| 천관일 | **Sky-Piercing Strike** | Final form of the Jin Family's Spear Technique; 天貫軼 |
+| 녹림십팔채 | **Eighteen Strongholds of Green Forest** | |
+| 홍화루 | **Honghwaru** | Lower District Sect Shanxi branch; pleasure house in Taiyuan |
+| 하연 | **Hayeon** | Jin Taekyung’s younger sister |
+| 응현 | **Eung-hyeon** | Jin Family branch location |
+| 산음 | **Saneum** | Jin Family branch location |
+| 삭주 | **Sakju** | Jin Family branch location |
+| 정양 | **Jeongyang** | Shanxi location |
+| 혼주 | **Honju** | Shanxi location |
+| 견정 | **Gyeonjeong** | Acupoint |
+| 아문 | **Amun** | Acupoint |
+| 봉안 | **Bongan** | Acupoint |
+| 입동 | **Ip-dong** | Acupoint |
+| 갱생권 | **Reformation Fist** | Jin Mukyung's named fist technique |
+| 금나수 | **grappling technique** | Close-combat wrist-lock technique; rendered descriptively |
+| 삼재검법 | **Three Calamities Sword Technique** | Sword technique Mukyung assumes Taekyung is pretending to use. |
+| 약왕당 | **Medicine King Hall** | The Jin Family's medical hall. |
+| 이공자 | **Second Young Master** | Title used for Jin Mukyung. |
+| 수문각주 | **Master of the Gatekeeper Pavilion** | Office Hyuk Mujin is rumored to receive. |
+| 공청석유 | **gongcheong seokyu** | Rare martial-arts elixir; the term also creates a petroleum pun. |
+| 군자 | **junzi** | Confucian ideal of a morally upright gentleman. |
+| 사천당문 | **Sichuan Tang Clan** | The Tang family and clan of Sichuan |
+| 독룡각 | **Poison Dragon Pavilion** | Pavilion led by Tang Horyong |
+| 당호룡 | **Tang Horyong** | Acting Family Head of the Sichuan Tang Clan |
+| 만독수라 | **Myriad-Poison Asura** | Epithet of Tang Sadok |
+| 당사독 | **Tang Sadok** | Poison King and Family Head of the Sichuan Tang Clan |
+| 경천신니 | **Heaven-Shaking Divine Nun** | Murder victim named alongside Tang Sadok |
+| 삼문혈사 | **Three-Sect Bloodbath** | Recent attack on three major orthodox sects |
+| 삼괴 | **Samgoe** | Principal culprit being escorted to Henan |
+| 구파일방 | **Nine Sects and One Gang** | Major orthodox organizations |
+| 오대세가 | **Five Great Families** | Major orthodox families |
+| 소림혈사 | **Shaolin Bloodbath** | Earlier attack that galvanized orthodox Murim |
+| 서천마군 | **Western Heaven Demon Lord** | Major obstacle recently overcome by Taekyung |
+| 만독지환 | **Myriad Poison Ring** | Item Taekyung considers taking before departure |
+| 미미 | **Mimi** | Tang Sadok's snake and longtime companion; temporarily entrusted to Cheongpung. |
+| 동봉 | **Dongbong** | Name or designation associated with the Divine Physician. |
+| 신의 | **Divine Physician** | Honorific for the physician treating Tang Sadok. |
+| 백염 | **White Flame** | Previously bound item listed by the System. |
+| 사죄와 용서 | **Atonement and Forgiveness** | Hidden Quest completed by Taekyung. |
+| 당문의 은인 | **Benefactor of the Tang Clan** | Title acquired by Taekyung. |
+| 아미파 | **Emei Sect** | Orthodox sect whose nuns conduct the funeral rites. |
+| 청성파 | **Qingcheng Sect** | Orthodox sect represented among the assisting martial artists. |
+| 개방 | **Beggars' Sect** | Organization represented by the attending beggars. |
+| 묘령사태 | **Satae Myo Ryeong** | Middle-aged Emei nun overseeing the funeral prayers. |
+| 명진 | **Myeongjin** | Daoist assisting with the funeral rites. |
+| 궁기방 | **Gung Gibang** | Young beggar and Future Beggar Chief. |
+| 후개 | **Future Beggar Chief** | Title used for Gung Gibang. |
+| 기련삼괴 | **Qilian Samgoe** | The trio of monsters that includes Samgoe and Ilgoe. |
+| 일괴 | **Ilgoe** | The strongest of the Qilian Samgoe, defeated single-handedly by Jin Taekyung. |
+| 칠선자 | **Chilseonja** | Mysterious martial artist who blocked Samgoe's attack and saved Hyuk Mujin. |
+| 문경 | **Mungyeong** | Young Disciple of the Divine Physician overseeing Jin Taekyung's care. |
+| 화산신룡 | **Huashan Divine Dragon** | Epithet used for Jin Taekyung. |
+| 열화신룡 | **Blazing Fire Divine Dragon** | New epithet acquired by Jin Taekyung. |
+| 청풍고검 | **Clear Wind Ancient Sword** | Sect Leader of the Qingcheng Sect; epithet of the old Daoist. |
+| 멸절신니 | **Extinction Divine Nun** | New Sect Leader of the Emei Sect after the death of the Heaven-Shaking Divine Nun. |
+| 천주 | **Heavenly Lord** | Being worshiped as a god by Dark Heaven's fanatics. |
+| 혈주 | **Blood Lord** | Dark Heaven figure whose power and abilities are recalled by Jin Taekyung. |
+| 열화동 | **Blazing Fire Cave** | Cave at Mount Jiuhua containing an advanced arcane formation. |
+| 진성애 | **Jin Seong-ae** | Jin Taekyung's joking title for himself as a sex-education teacher. |
+| 구성애 | **Gu Seong-ae** | Real-world sex-education teacher referenced in Jin Taekyung's joke. |
+| 삼도천 계곡 | **Valley of the Sanzu River** | Valley named after the Buddhist river separating the living world from the afterlife. |
+| 노군백 | **No Gunbaek** | Level 170 opponent named in a System defeat message. |
+| 귀염미 | **Gwiyeommi** | Pen name of a romance novelist. |
+| 홍무 | **Hongwu** | Era name beginning when the civil war ends and a new emperor ascends. |
+| 성도 | **Chengdu** | City whose western port is the departure point. |
+| 선화아 | **boatman** | Nautical title used for Mu Song. |
+| 무송 | **Mu Song** | Bronze-skinned boatman associated with the water bandits. |
+| 애향 | **Ae-hyang** | The Sichuan Governor's favorite concubine; covertly manipulative. |
+| 상산왕 | **King of Shangshan** | Noble whose token was carried by Taekyung's group. |
+| 수룡채 | **Water Dragon Stronghold** | Stronghold whose flag flies from the ships carrying Taekyung's group. |
+| 흑룡갑 | **Black Dragon Armor** | The armor's former name; only a fragment survives. |
+| 화룡갑 | **Flame Dragon Armor** | New name Taekyung gives the bound armor fragment. |
+| 열화신공 | **Blazing Flame Divine Art** | Art whose formula Taekyung uses to infuse the armor. |
+| 삼공 | **Grand Councilor** | High office referenced in the Sichuan Governor's ambitions. |
+| 최 팀장 | **Team Leader Choi** | Taekyung's modern-world team leader aboard the private jet. |
+| 리치 | **Lich** | Supreme undead monster associated with the recent monster wave. |
+| 스켈레톤 워로드 | **Skeleton Warlord** | Undead commander accompanying Taekyung's group. |
+| 샤오 양 | **Xiao Yang** | Chairman credited by passengers with making a special request for Taekyung. |
+| 중국 중앙위원회 | **Central Committee of China** | Organization that sent the private jet. |
+| 쓰촨성 | **Sichuan Province** | Province containing Chengdu International Airport. |
+| 청두 국제공항 | **Chengdu International Airport** | Destination airport under attack. |
+| 헌터 마켓 | **Hunter Market** | Market where Taekyung bought the spear at a discount. |
+| 검은 별 | **Black Star** | Epithet of the exceptionally powerful lead wyvern. |
+| 샤오 쉔 | **Shao Shen** | Twenty-year-old spear-wielding Hunter of the Public Security Armed Forces. |
+| 야오위 | **Yao Wei** | A-rank Hunter, Shao Shen's friend and comrade. |
+| 류인친 | **Ryu Inchin** | Named combatant of the Public Security Armed Forces; exact relationship to the person calling him hyung is unresolved. |
+| 공안 무력부 | **Public Security Armed Forces** | Chinese Hunter organization. |
+| 인민 해방군 | **People's Liberation Army** | Chinese military force stationed at the airport. |
+| 중화인민공화국 | **People's Republic of China** | Country whose flag appears on Shao Shen's armor. |
+| 중화 | **Zhonghua** | Term used in Shao Shen's rallying cry for China. |
+| 오성홍기 | **Five-Star Red Flag** | National flag of the People's Republic of China. |
+| 듀라한 | **Dullahan** | Higher undead monster form taken by Yao Wei. |
+
+## Existing address-pair ledger
+
+# Established Address Pairs
+
+Exceptional speaker → addressee forms established in accepted chapters.
+Injected only when both endpoints are present in the current chapter: the
+Korean appears in the source, or belongs to a matched compact profile.
+Overrides generic relationship prose in character profiles for this pair.
+
+| Speaker | Addressee | Kinship | Normal address | Speech level | Notes |
+| ------- | --------- | ------- | -------------- | ------------ | ----- |
+| 진태경 | 진무경 | younger_to_older_brother | hyung | casual-but-junior | Retain hyung for 형 in Taekyung's greeting; Mukyung then punishes the casual speech. |
+| 진무경 | 진태경 | older_to_younger_brother | youngest | blunt-senior | 막내 / youngest; may taunt that lasting a quarter-hour would make Taekyung the older brother. |
+| 진태경 | 진위경 | younger_to_eldest_brother | brother | familiar-but-respectful | Self-corrects from the personal name to kinship: “Jin Wikyung—I mean, my brother?”; 큰형 is eldest brother. |
+| 진위경 | 진태경 | eldest_to_youngest_brother | youngest | affectionate-protective | Uses youngest-brother address; openly affectionate beneath a public mask. |
+| 진태경 | 성진호 | junior_to_older_friend | Jinho hyung | casual-but-junior | Retain hyung for 형; Jinho is three years older. |
+| 성진호 | 진태경 | older_friend | informal / younger-brother | teasing-senior | Speaks informally while demanding respect as the older friend. |
+| 진태경 | 임꺽정 | junior_friend | Kkeokjeong hyung | casual-but-junior | After Im asks to be called hyung. |
+| 임꺽정 | 진태경 | older_friend | hyung | hearty-casual | “Call me hyung. We’re not even that far apart in age.” |
+| 위팽 | 진위경 | retainer_to_lord | my lord | deferential | 주공; Wipeng is Jin Wikyung’s personal guard. |
+| 소천 | 진태경 | rescued_survivor_to_benefactor | Benefactor | deferential | Socheon repeatedly addresses Taekyung as 은인. |
+| 혁무진 | 궁기방 | orthodox_ally_to_orthodox_ally | Young Hero Gung | blunt-but-formal | Uses 궁 소협 while teasing Gung Gibang about his injuries. |
+| 혁무진 | 청풍 | junior_ally_to_younger_ally | Young Hero Cheong | formal-but-bewildered | Uses 청 소협 when reacting to Cheongpung's warning. |
+| 혁무진 | 진태경 | subordinate_to_squad_leader | Squad Leader | deferential | Calls Taekyung 조장님 when announcing his awakening. |
+| 궁기방 | 진태경 | squadmate_to_squad_leader | Jin Taekyung | familiar-but-direct | Calls Taekyung by name when he wakes. |
+| 진태경 | 청풍고검 | junior_to_elder_sect_leader | Perfected One | respectful-formal | Uses 진인 when greeting the Qingcheng Sect Leader. |
+| 청풍고검 | 진태경 | elder_sect_leader_to_junior_ally | Fellow Daoist Jin | respectful-but-familiar | Uses 진 도우 when greeting Taekyung. |
+| 멸절신니 | 진태경 | elder_sect_leader_to_benefactor | Benefactor Jin | respectful-formal | Uses 진 시주 when greeting Taekyung. |
+| 멸절신니 | 적천강 | orthodox_elder_to_orthodox_elder | Benefactor Jeok | respectful-but-familiar | Uses 시주 when responding to Jeok Cheongang. |
+| 진태경 | 적천강 | disciple_to_elder_master | Old Man | casual-but-affectionate | Uses 노야 while thanking Jeok Cheongang. |
+| 적천강 | 문경 | orthodox_elder_to_younger_orthodox_elder | Wen | hostile-but-blunt | Jeok Cheongang addresses Mungyeong as 문가 while intervening on Taekyung's behalf. |
+| 진태경 | 문경 | ally_to_secret_identity_holder | Mungyeong | casual-but-teasing | Taekyung accepts the requested name and deliberately uses it in a familiar vocative. |
+| 동봉 | 문경 | disciple_to_master | Master | deferential | Dongbong repeatedly addresses Mungyeong as 스승님 after affirming his identity as the Divine Physician. |
+| 무송 | 진태경 | older_ally_to_junior_ally | junior | deferential-but-uncertain | Mu Song switches from junior to Young Hero Jin and Great Hero before Taekyung tells him to use junior. |
+| 사천성주 | 애향 | lover_to_favorite_concubine | Ae-hyang | intimate-affectionate | The Sichuan Governor repeatedly calls his favorite concubine by name and speaks to her in an indulgent intimate manner. |
+| 애향 | 사천성주 | favorite_concubine_to_lover | my dear | intimate-coquettish | Ae-hyang addresses the Sichuan Governor as 가가 while flattering and manipulating him. |
+| 진태경 | 최 팀장 | subordinate_to_team_leader | Team Leader | polite-but-direct | Taekyung uses 팀장님 while asking Choi for help and addressing him during the crisis. |
+| 최 팀장 | 진태경 | team_leader_to_trusted_hunter | Mr. Jin Taekyung | professional-deferential | Choi repeatedly uses 진태경 씨 while relying on Taekyung to resolve the attack. |
+| 진태경 | 기장 | passenger_to_captain | Captain | casual-urgent | Taekyung directly asks the captain for permission before cutting open the aircraft door. |
+
+## Exact glossary matches
+
+| 진태경    | **Jin Taekyung**   |
+| 열양지기   | **Scorching Yang Qi**                            | Fire-aligned qi                                       |
+| 심법     | **cultivation technique**                        | Especially internal cultivation                       |
+| 살기     | **killing intent**                               |                                                       |
+| 대주     | **Squad Leader** / **Commander**             |
+| 진가심법   | **Jin Family's Cultivation Technique** |
+| 시스템              | **System**                     |
+| 상태               | **Status**                     |
+| 레벨               | **Level**                      |
+| 경험치              | **EXP**                        |
+| 퀘스트              | **Quest**                      |
+| 헌터      | **Hunter**            |
+| 몬스터     | **monster**           |
+| 팀장      | **Team Leader**       |
+| 귀가      | **your family**                                                 |
+| 공자      | **Young Master**                                                |
+| 신의 | **Divine Physician** | Honorific for the physician treating Tang Sadok. |
+| 백염 | **White Flame** | Previously bound item listed by the System. |
+| 리치 | **Lich** | Supreme undead monster associated with the recent monster wave. |
+| 중화 | **Zhonghua** | Term used in Shao Shen's rallying cry for China. |
+| 듀라한 | **Dullahan** | Higher undead monster form taken by Yao Wei. |
+
+## Listed compact profiles
+
+### Jin Taekyung.md
+
+# Jin Taekyung (진태경)
+
+- **Safe through:** Chapter 378
+- **Aliases:** Sleeping Dragon of Shanxi; Huashan Divine Dragon; Blazing Fire Divine Dragon
+- **Role:** Modern-world protagonist; recently fired after seven years at his job; F-rank Hunter; Supreme Peak martial artist; youngest son of the Jin Family of Taiyuan
+- **Personality:** Hungry, self-aware, dryly observant, and willing to take a questionable opportunity when desperate; treats the impossible as a game until the danger becomes undeniable
+- **Voice:** First-person, conversational, dryly self-mocking; uses vivid trap-and-prey imagery, game jargon, and occasional profanity
+- **Relationships:** Son of a deceased father; supports his mother and younger sibling
+
+## Korean source
+
+```text
+＃380화
+
+
+
+샤오 쉔은 처음으로 깨달았다.
+
+콰아아아아!
+
+두 날개가 불에 휩싸인 채 지상으로 돌진하는 비행기를 목격한다면, 종(種)을 넘어선 공포에 사로잡힌다는 것을.
+
+- 으어어어어!
+
+그토록 흉포하다는 오우거가, 트롤이 비명을 내질렀고.
+
+- 구워어어어!
+
+언데드 몬스터 중에서도 가장 느려터졌다는 구울(Ghoul)도 발바닥에 땀이 나도록 뛰었다.
+
+- 취이이익!
+
+「어, 어어, 어어어…….」
+
+비명이라도 지를 수 있는 몬스터들은 양반이었다.
+
+샤오 쉔을 비롯한 대부분은 석상처럼 굳은 채 지상을 향해 돌진하는 비행기를 바라볼 수밖에 없었다.
+
+‘도망쳐야 하는데…….’
+
+발이, 손이 움직이지 않는다.
+
+무엇보다 전장의 한가운데에 포위되어 있던 샤오 쉔과 공안 무력부의 헌터들에게는 도망칠 기회조차 주어지지 않았다.
+
+‘이대로 끝장인가?’
+
+모두의 머릿속에 같은 생각이 떠오른 그 순간.
+
+쿠구구구구궁!
+
+귀가 먹먹해지는 굉음과 함께, 비행기의 거대한 동체가 전장을 휩쓸었다.
+
+그리고 그 경천동지할 충돌은 개미 떼처럼 흩어지던 몬스터 군단의 최후방으로부터 시작되었다.
+
+콰지지지직! 우두둑!
+
+수십 톤의 무게를 지닌 거대한 강철의 덩어리는 앞을 막아서는 모든 것을 부수고 터트렸다.
+
+몬스터들의 녹색 핏물이 분수처럼 뿜어졌고 크고 작은 사지가 사방으로 솟구친다.
+
+‘이, 이게 도대체…….’
+
+몬스터들의 물리 방어력이 아무리 뛰어나다지만, 그것도 정도가 있는 법. 몬스터 믹서기로 변모한 비행기를 멈출 수 있는 것은 아무것도 없었다.
+
+- 구워……!
+
+- 키이이익!
+
+콰드드드득!
+
+섬뜩한 파육음에 몬스터들의 비명이 파묻힌다. 지금껏 본 적도, 들은 적도 없는 아비규환(阿鼻叫喚).
+
+상상치도 못한 광경을 넋 놓고 바라보던 샤오 쉔과 헌터들의 귓가에, 광기에 찬 누군가의 외침이 파고들었다.
+
+“몬스터! 박는다! 죽인다!”
+
+“……!”
+
+이런 와중에도 똑똑히 들리는 모국의 언어에 공안 무력부의 헌터들은 지원군이라는 세 글자를 떠올렸고, 샤오 쉔은 경악했다.
+
+‘엄청난 강자!’
+
+목소리에 실린 강대한 마나(Mana). 필시 S급 헌터가 틀림없었다.
+
+“가 버렷! 비행기이이잇!”
+
+“…….”
+
+그것도 살짝 미친 S급 헌터가 확실하다.
+
+섬나라 놈들이 세계 2차 대전 때나 쓰던 방법을 가져오다니. 아군이 죽을 것까지는 생각 못 했단 말인가.
+
+‘중앙 군사 위원회에서 파견된 것 같은데…… 우리나라에 저런 S급 헌터가 있었나?’
+
+문득 든 의문. 그러나 이제 샤오 쉔과는 그다지 상관없는 일이 될 것이다.
+
+몬스터들을 갈아 버리며 전장의 절반을 가로지른 거대한 강철 덩어리가 그와 헌터들을 향해 돌진하고 있었으니까.
+
+- 취, 취익!
+
+「도망쳐!」
+
+살기 위한 몸부림에 적아(敵我)의 구분은 없었다.
+
+샤오 쉔은 코앞에 인간이 있는 것도 잊은 채 몸을 부딪혀 오는 몬스터를 향해 단검을 내질렀다.
+
+푸푹!
+
+- 크르륵.
+
+숨이 끊긴 몬스터의 육체가 샤오 쉔을 향해 허물어진다.
+
+사방에서 밀려드는 몬스터들로 인해 한 걸음도 움직일 수 없는 상황. 샤오 쉔은 자신을 덮쳐 오는 육중한 무게를 느끼며 외쳤다.
+
+「전투는 끝나지 않았다! 마지막까지 싸워라!」
+
+맞다. 아직 전투는 끝나지 않았다. 헌터는 숨이 끊기는 마지막 순간까지 몬스터를 죽여야 하는 존재다.
+
+샤오 쉔의 외침을 들은 헌터들이 이를 악물고 무기를 휘둘렀다.
+
+‘이걸로 됐어.’
+
+번개 같은 솜씨로 도망치는 오우거의 뒤통수에 단검을 박아 넣은 샤오 쉔은 크게 심호흡했다.
+
+어느새 이십여 미터 앞까지 들이닥친 비행기의 거체가 보였다.
+
+처음보다 속도가 훨씬 줄긴 했지만, 옴짝달싹하지 못하는 상황에서 저것을 피하기란 요원해 보였다.
+
+‘미련은 없다.’
+
+자랑스러운 중화의 헌터로 인민을 위해 싸우다가 죽는다면, 그것으로 족했다.
+
+샤오 쉔이 사방에서 빗발치는 비명을 들으며 눈을 감은 그 순간이었다.
+
+“읏차.”
+
+콰드드드득! 촤아악!
+
+핏물로 짐작되는 끈적한 액체를 뒤집어쓴 샤오 쉔은 생각했다.
+
+‘……읏차?’
+
+보통은 으악, 아닌가?
+
+단말마치고는 기묘한 소리에 샤오 쉔은 슬그머니 눈꺼풀을 들어 올렸다.
+
+그리고 마침내 볼 수 있었다. 몇 걸음 앞에서 우뚝 멈춘 비행기와 두런두런 이야기를 나누고 있는 두 사내를.
+
+“자, 도착했습니다. 혹시 폭발할지도 모르니까 사람들 데리고 얼른 내리세요.”
+
+“……진태경 씨. 전부 다 기절했습니다.”
+
+“그래요? 나약하네.”
+
+“……배리어 마법이 아니었으면 죽었을 겁니다.”
+
+“그럼 최 팀장님이 옮겨 주세요. 아, 맞다. 아까 우리한테 빵즈라고 했던 그 새끼도 살았어요?”
+
+“예. 그, 살아는 있긴 한데.”
+
+“그럼 그 새끼 잘 지켜 주세요. 나중에 돌아갈 때 두고두고 갈굴 거니까.”
+
+“……노력해 보죠.”
+
+샤오 쉔은 도무지 이 상황을 이해할 수 없었다.
+
+누가, 언제, 어디서, 무엇을, 어떻게. 왜. 이건 육하원칙으로도 정리할 수 없을 만큼 괴상한 광경이었다.
+
+‘비행기는 갑자기 어떻게 멈춘 거고, 저 사람들은 뭐지? 중앙 군사 위원회에서 보낸 헌터가 아니었단 말인가?’
+
+심지어 두 사람은 다른 언어로 이야기를 나누고 있었다.
+
+둘 중 귀공자처럼 멀끔하게 생긴 사내의 말은 알아들을 수 없었지만, 어느 나라의 언어인지는 안다.
+
+오랜 시간 동안 이웃한 옆 나라, 바로 한국이다.
+
+‘잠깐. 한국인이라면……!’
+
+샤오 쉔은 핏물로 끈적이는 눈가를 황급히 비볐다. 그제야 한 사람을 알아볼 수 있었다.
+
+남들보다 머리 하나는 큰 근육질의 청년.
+
+TV에서나 보던 그가, 자신의 우상이 눈앞에 있었다.
+
+「호, 혹시 한국에서 오신 진 선생님 되십니까?」
+
+“엥?”
+
+청년, 진태경이 샤오 쉔을 보며 고개를 갸웃거렸다.
+
+“저 선생님 아닌데요.”
+
+「그럼 시벌좌…….」
+
+“……시벌. 뭐여.”
+
+맞구나!
+
+샤오 쉔은 전신을 감싸는 안도감과 희망에 몸을 부르르 떨었다.
+
+
+
+* * *
+
+
+
+‘도대체 중국인이 시벌좌를 어떻게 아는 거지.’
+
+나에 관한 기사가 잠깐 외신에서 떠들썩하긴 했는데, 시벌좌라는 별명까지 알려져 있을 줄은 몰랐다.
+
+오대양 육대주를 떨어 울리는 시벌좌라니.
+
+미국에 가게 되면 떡대 끝내주는 양키 형님들이 맥주병을 들고 다가와 알은척을 할지도 모르겠다.
+
+‘헤이, 유. 씨뻘쫘?’
+
+아임 파인 땡큐다. 시벌. 도대체 어느 정신 나간 놈들이 이따위 별명을 지은 거야.
+
+그나저나…….
+
+“개판이네.”
+
+주위를 둘러본 내 짤막한 감상평이다.
+
+기절한 승무원들을 굴비처럼 엮은 최 팀장과 인벤토리 안에 처박아 둔 스켈레톤 워로드가 대답했다.
+
+“끔찍한 광경입니다.”
+
+- 간악한 인간이여, 본 사령관은 이곳이 마음에 드는구나. 익숙하고도 정겨운 기분이다.
+
+“…….”
+
+죽음, 그 자체라고 할 수 있는 네임드 언데드 몬스터가 흡족해할 정도니 두말해 봐야 입 아픈 수준이다.
+
+“오자마자 실전 투입이라니.”
+
+내 푸념에 응답하는 것처럼, 시스템 알림이 울렸다.
+
+띠링.
+
+
+
+- 돌발 퀘스트, [예상치 못한 습격]이 생성되었습니다.
+
+
+
+이래서 돈을 많이 준다고 했던 건가. 나는 내심 혀를 차며 입을 열었다.
+
+“최 팀장님, 우선 민간인들부터 보호하고 그 후에는 알아서 싸우세요. 너무 무리하지는 마시고.”
+
+“예. 안 그래도 그럴 생각입니다.”
+
+최 팀장은 똑똑한 사람이다. 진가심법을 익히면서 예전과는 비교할 수 없을 만큼 강해졌지만, 결코 과시하려 하지 않을 것이다.
+
+“그리고 거기 계신 젊은 분.”
+
+「예, 옛. 진 선생님.」
+
+선생님은 무슨. 나는 빠릿빠릿하게 대답하는 젊은 청년을 위아래로 훑었다.
+
+얼굴은 어리지만 척 봐도 헌터다. 그것도 A급 정도로 보이는 강자. 마치 공장에서 찍어 낸 것처럼 똑같은 갑옷을 입은 주위의 헌터들과는 달리, 어깨에는 붉은 휘장도 달려 있었다.
+
+“보니까 직급깨나 있어 보이시는데, 부하들 잘 간수해요. 한 사람이라도 더 살리자고.”
+
+「예, 예?」
+
+“이제부터 시작이니까.”
+
+나는 대답과 동시에 주먹을 뻗었다.
+
+콰아아앙!
+
+줄기줄기 쏟아진 열양지기(熱陽之氣)가 멍하니 서 있던 몬스터들을 향해 쏘아진다.
+
+후끈한 열기가 한바탕 휩쓴 곳에는 수십여 구의 몬스터 사체만이 남았다.
+
+“뭘 그렇게 쳐다보고 있냐. 누가 정지 버튼이라도 눌렀어?”
+
+“……!”
+
+- ……!
+
+내 한 마디를 신호로.
+
+전장을 짓누르고 있던 침묵이 산산 조각나며 깨어졌다.
+
+- 쿠워어어어!
+
+「주, 죽여라! 몬스터 놈들을 막아!」
+
+인간과 몬스터, 몬스터와 인간.
+
+죽고 죽이는 전투가 시작된다. 나는 지면 깊숙이 박혀 있는 백염을 뽑아 휘둘렀다.
+
+스걱!
+
+물 반, 고기 반이 아니라 사방이 몬스터로 득실거리는 상황.
+
+창날에서 뻗어 나간 반월의 강기가 한데 뭉친 몬스터 무리를 스쳤다.
+
+띠링.
+
+
+
+- [Lv.15 언데드 고블린]를 처치했습니다!
+
+- [Lv.78 언데드 라이칸스로프]를 처치했습니다!
+
+- [Lv.93 듀라한]을 처치했습니다!
+
+- [Lv.30 스켈레톤]을 처치했습니다!
+
+.
+
+.
+
+.
+
+- 레벨의 격차가 큽니다. 미비한 경험치를 획득했습니다!
+
+
+
+몬스터 처치와 경험치 획득을 알리는 시스템 알림이 끊임없이 울려 퍼진다.
+
+평소였다면 한 귀로 흘려듣거나 무시했을 알림.
+
+그러나 이번만큼은 중요한 힌트가 되어 주었다.
+
+“이놈들 이거 설마…….”
+
+- 아아, 맞다. 간악한 인간이여! 이토록 강한 언데드 군단이라니!
+
+환희에 가득 찬 스켈레톤 워로드의 외침은 내 짐작을 확신으로 바꿔 주기에 충분했다.
+
+‘어쩐지, 뭔가 이상하더라니.’
+
+안 그래도 놈들에게서 생기(生氣)가 느껴지지 않아 의아하던 차였다.
+
+아직 살아 있는 몬스터의 숫자도 상당했지만, 거의 절반 이상의 몬스터가 언데드 상태였다. 모두 합하면 이천 마리에 달하는 대군이다.
+
+“그리고 언데드 몬스터는…….”
+
+스켈레톤 워로드가 잔뜩 신이 나서 외쳤다.
+
+- 아름답고! 멋있고! 용맹하다!
+
+퍼걱!
+
+다섯 마리의 몬스터를 베어 버린 내가 중얼거렸다.
+
+“방금 저놈처럼 소멸하고 싶냐? 아름답고, 멋있고, 용맹하게?”
+
+- ……실언을 했군. 사과한다. 간악한 인간이여.
+
+잠시 자신의 처지를 망각했던 스켈레톤 워로드가 황급히 덧붙였다.
+
+- 잠깐. 그렇다면 누군가의 조종을 받는 것이 틀림없다!
+
+내 생각도 마찬가지다.
+
+다만 한 가지 확신이 서지 않는 것은…….
+
+“리치(Lich). 그놈이 직접 나선 걸까?”
+
+- 으음. 지난번에 네가 보여 준 그 홀로그램 영상이라는 것에 나오는 그 리치를 말하는 것이라면, 아마 아닐 거다.
+
+스켈레톤 워로드의 대답을 들으며 반걸음을 내디뎠다.
+
+쾅!
+
+거대한 쇠몽둥이가 어깨를 아슬아슬하게 지나쳐 지면을 부순다. 아직 생기가 느껴지는, 평범한 오우거다.
+
+- 구워어어!
+
+“어, 구워 줄게.”
+
+퍼벙!
+
+화염신장을 가슴에 얻어맞은 오우거의 칠공에서 검녹색의 핏물이 터져 나왔다.
+
+허물어지는 거체를 지나치며 백염을 비스듬히 내리그었다.
+
+쉬이이이익! 서걱!
+
+공간이 잘려 나가고 그 사이에 있던 몬스터들의 몸뚱어리가 조각 난다.
+
+핏물과 체액을 뒤집어쓴 채로 날 멍하니 바라보는 중국인 헌터를 뒤로하며, 주먹을 말아쥐었다.
+
+고오오옹.
+
+초고온의 열기가 주먹을 향해 내달리고, 이내 전방을 향해 쏘아졌다.
+
+꽈앙!
+
+멸염신권(滅炎神拳).
+
+거대한 불의 기둥이 몬스터들을 집어삼켰다.
+
+살이 타들어 가는 고약한 냄새와 함께 용케 살아남은 놈들이 고통에 찬 괴성을 내지른다.
+
+몬스터도, 헌터도 순간 싸우는 것을 잊을 정도의 파괴력.
+
+스켈레톤 워로드가 더듬거리는 목소리로 말했다.
+
+- 가, 간악한 인간이여. 더욱 더 괴물이 되었구나.
+
+“괴물한테 괴물 소리 들으니까 기분 묘한데. 그나저나 리치가 아니면 도대체 어떤 놈이 이 난리를 피우는 건데?”
+
+- 그야 본 사령관도 모르지. 하지만 한 가지는 장담할 수 있다.
+
+“장담? 뭘?”
+
+- 놈의 언데드 통제는 이 몸에 비해 한 수 아래라는 것. 으하하! 군단이여! 본 사령관은 너희가 그립구나!
+
+“…….”
+
+이 자식을 죽여, 살려.
+
+고민하던 나는 문득 뇌리를 스치는 어떤 생각에 우뚝 멈췄다.
+
+“야, 방금 뭐라고?”
+
+- 으하하핫! 본 사령관의 위엄을 느꼈는가. 간악한 인간이여!
+
+“소멸할래, 말할래.”
+
+- ……말하겠다. 그런데 뭘 묻는 거지?
+
+“언데드 통제 어쩌구 했던 거.”
+
+- 그거야 당연하지 않나. 본 사령관은 스켈레톤 워로드다. 놈들에 비교하면 당연히…… 어?
+
+짧은 침묵.
+
+나와 같은 생각을 했음이 틀림없다. 마른침을 꿀꺽 삼킨 나는 넌지시 말을 꺼냈다.
+
+“해 봐. 그거.”
+
+- …….
+
+“할래, 소멸할래.”
+
+스켈레톤 워로드가 입을 열었다.
+
+- 자, 자라나라 해골해골…….
+
+그 순간, 치열한 전투를 벌이던 언데드 몬스터들의 신형이 우뚝 멈췄다.
+
+‘……이게 되네.’
+```
+
+## Final English reading copy
+
+```markdown
+# Chapter 380
+
+Shao Shen realized something for the first time.
+
+Krrrrrrrummble!
+
+If you ever witnessed an airplane with both wings engulfed in flames hurtling toward the ground, you would be seized by a terror that transcended species.
+
+- Gaaaaaaaah!
+
+The ogres reputed to be so fearsome screamed. The trolls screamed, too.
+
+- Roooooar!
+
+Even the notoriously sluggish ghouls ran until the soles of their feet sweated.
+
+- Sssssss!
+
+“U-Urgh, uhhh, uhhhhh…”
+
+The monsters that could scream were the lucky ones.
+
+Most of them—including Shao Shen—could only stare at the airplane charging toward the ground, frozen like statues.
+
+*I need to run…*
+
+But his feet and hands would not move.
+
+More importantly, Shao Shen and the Hunters of the Public Security Armed Forces had been surrounded in the middle of the battlefield. They had not even been given a chance to escape.
+
+*Is this really the end?*
+
+The same thought appeared in everyone’s mind at that very moment.
+
+Rrrrrrrumble!
+
+Along with an earsplitting roar, the airplane’s enormous fuselage swept across the battlefield.
+
+That earth-shaking collision began at the very rear of the monster army, which was scattering like a swarm of ants.
+
+Krrrrrunch! Crack!
+
+The massive steel object, weighing dozens of tons, smashed and burst through everything in its path.
+
+The monsters’ green blood spurted like fountains, and limbs of every size flew in all directions.
+
+*W-What the hell is this…?*
+
+No matter how powerful a monster’s physical defenses were, there was a limit. Nothing could stop the airplane now transformed into a monster blender.
+
+- Roooo…
+
+- Kiiiiiiik!
+
+Krrrrrunch!
+
+The eerie sounds of flesh being torn apart swallowed the monsters’ screams. It was a scene of carnage such as Shao Shen had never seen or heard before.
+
+As Shao Shen and the other Hunters stared blankly at the unimaginable sight, someone’s crazed shout pierced their ears.
+
+“Monsters! Ram! Kill!”
+
+“……!”
+
+The Hunters of the Public Security Armed Forces heard their native language loud and clear despite everything happening around them. The word *reinforcements* flashed through their minds, and Shao Shen was stunned.
+
+*An incredible powerhouse!*
+
+The powerful mana carried in that voice. It had to be an S-rank Hunter.
+
+“Go! Go, airplane!”
+
+“……”
+
+And definitely a slightly insane S-rank Hunter.
+
+*To think they’d use a method those island bastards employed back in World War II. Had they not considered that their own allies might die too?*
+
+*He looks like someone dispatched by the Central Military Commission… But did our country even have an S-rank Hunter like that?*
+
+The question suddenly occurred to Shao Shen. But it would soon have nothing to do with him.
+
+The massive steel object that had ground its way through half the battlefield was charging straight toward him and the Hunters.
+
+- S-Sssss!
+
+“Run!”
+
+When it came to struggling for survival, there was no distinction between friend and foe.
+
+Forgetting that there was a human right in front of him, Shao Shen thrust his dagger at the monster crashing into him.
+
+Thud!
+
+- Grrrk.
+
+The dead monster’s body collapsed toward Shao Shen.
+
+Monsters were surging in from every direction, leaving him unable to move even one step. Feeling the immense weight bearing down on him, Shao Shen shouted.
+
+“The battle isn’t over! Fight until the very end!”
+
+He was right. The battle was not over yet. A Hunter was someone who had to kill monsters until the last moment before his own breath ran out.
+
+The Hunters who heard Shao Shen’s shout gritted their teeth and swung their weapons.
+
+*This is enough.*
+
+With lightning-fast skill, Shao Shen drove his dagger into the back of a fleeing ogre’s head, then drew a deep breath.
+
+The enormous airplane was already less than twenty meters away.
+
+Its speed had decreased considerably since the beginning, but with everyone trapped in place, evading it seemed impossible.
+
+*I have no regrets.*
+
+If he died fighting for the people as a proud Hunter of Zhonghua, that was enough.
+
+Shao Shen closed his eyes as screams rained down from every direction.
+
+“Hup.”
+
+Krrrrrunch! Ssssh!
+
+Covered in a sticky liquid that he assumed was blood, Shao Shen thought:
+
+*…Hup?*
+
+*Wouldn’t it normally be “Aagh”?*
+
+The strange sound was hardly an appropriate death cry. Shao Shen cautiously lifted his eyelids.
+
+At last, he saw it.
+
+The airplane had stopped a few steps away, and two men were chatting beside it.
+
+“All right, we’ve arrived. It might explode, so get everyone off quickly.”
+
+“…Mr. Jin Taekyung. Everyone has passed out.”
+
+“Really? How pathetic.”
+
+“…They would have died if not for the barrier magic.”
+
+“Then carry them out, Team Leader Choi. Oh, right. Is that bastard who called us Bangzi[^2] earlier alive, too?”
+
+“Yes. He’s, uh, alive, at least.”
+
+“Then keep a close eye on him. I’m going to give him hell for a long time when we get back.”
+
+“…I’ll do my best.”
+
+Shao Shen could not make sense of the situation at all.
+
+Who, when, where, what, how, and why. Even the five Ws and one H could not organize a scene this bizarre.
+
+*How did the airplane suddenly stop, and who are those people? Were they not Hunters sent by the Central Military Commission?*
+
+The two men were even speaking to each other in a different language.
+
+Shao Shen could not understand the words of the refined-looking man who resembled a young master, but he knew what country the language belonged to.
+
+Their longtime neighbor.
+
+Korea.
+
+*Wait. If he’s Korean…!*
+
+Shao Shen hurriedly wiped the sticky blood from around his eyes. Only then did he recognize one of the men.
+
+A muscular young man a full head taller than everyone else.
+
+The man he had only seen on television—his idol—was standing right in front of him.
+
+“E-Excuse me. Are you Teacher Jin from Korea?”
+
+“Huh?”
+
+The young man, Jin Taekyung, tilted his head as he looked at Shao Shen.
+
+“I’m not a teacher.”
+
+“Then… Sibeol-jwa…”
+
+“…Sibeol. What?”
+
+That was him!
+
+A wave of relief and hope ran through Shao Shen’s entire body, making him tremble.
+
+[^1]: *Sibeol* is a Korean profanity, while *-jwa* is a playful suffix used in a nickname.
+
+[^2]: *Bangzi* is a derogatory Chinese slur for Koreans.
+
+* * *
+
+*How does a Chinese person even know about Sibeol-jwa?*
+
+Articles about me had briefly made a splash in the foreign press, but I had never expected my nickname to spread along with them.
+
+*Sibeol-jwa, whose name makes the five oceans and six continents tremble.*
+
+If I ever went to the United States, maybe some huge Yankee bros would approach me with beer bottles in hand and pretend they knew me.
+
+*Hey, you. Sibeol-jwa?*
+
+*I’m fine, thank you. Sibeol. What kind of deranged bastards came up with a nickname like this?*
+
+Anyway…
+
+“It’s a complete mess.”
+
+That was my brief assessment as I looked around.
+
+Team Leader Choi, who had strung the unconscious flight attendants together like dried fish, and the Skeleton Warlord I had shoved into my inventory both answered.
+
+“It is a horrifying sight.”
+
+- Vile human, I like this place. It feels familiar and strangely pleasant.
+
+“……”
+
+There was no need to say more. A named undead monster who could be called death itself found the scene satisfying.
+
+“We just got here, and we’re already being thrown into actual combat.”
+
+As if responding to my complaint, a System notification rang out.
+
+Ding.
+
+
+
+> **System**
+>
+> - An unexpected Quest, **Unexpected Assault**, has been generated.
+
+
+
+*So this is why they said they were paying me so much.*
+
+I clicked my tongue inwardly and spoke.
+
+“Team Leader Choi, protect the civilians first. After that, fight as you see fit. Don’t overdo it.”
+
+“Yes. That was already my intention.”
+
+Team Leader Choi was a smart man. Learning the Jin Family’s Cultivation Technique had made him incomparably stronger than before, but he was not the sort of person who would ever show off.
+
+“And you, young man over there.”
+
+“Y-Yes, Teacher Jin.”
+
+*Teacher, my ass.*
+
+I looked the young man up and down as he answered so promptly.
+
+His face was young, but he was obviously a Hunter. And a powerful one, at that—around A-rank, judging by appearances. Unlike the Hunters around him, who wore identical armor as if they had been stamped out in a factory, he also had a red insignia on his shoulder.
+
+“You look like you hold a decent rank, so keep your men in line. Let’s save as many people as we can.”
+
+“Y-Yes?”
+
+“This is only the beginning.”
+
+As I answered, I thrust out my fist.
+
+KABOOM!
+
+Streams of Scorching Yang Qi shot toward the monsters standing there in a daze.
+
+When the wave of searing heat had passed, dozens of monster corpses were all that remained.
+
+“What are you all staring at? Did someone press the pause button?”
+
+“……!”
+
+- ……!
+
+My words served as the signal.
+
+The silence pressing down on the battlefield shattered.
+
+- Grrrrrrrr!
+
+“K-Kill them! Hold back those monsters!”
+
+Humans and monsters. Monsters and humans.
+
+A battle of killing and being killed began. I pulled White Flame from where it was buried deep in the ground and swung it.
+
+Swish!
+
+This was not a situation of half water and half meat—monsters swarmed in every direction.
+
+A crescent of sword qi extended from the spearhead and grazed a tightly packed mob of monsters.
+
+Ding.
+
+
+
+> **System**
+>
+> - Defeated **Lv. 15 Undead Goblin**!
+>
+> - Defeated **Lv. 78 Undead Lycanthrope**!
+>
+> - Defeated **Lv. 93 Dullahan**!
+>
+> - Defeated **Lv. 30 Skeleton**!
+>
+> - …
+>
+> - The Level gap is significant. Gained negligible EXP!
+
+
+
+System notifications announcing monster kills and EXP gains rang out without end.
+
+Normally, I would have let such notifications go in one ear and out the other, or simply ignored them.
+
+But this time, they gave me an important clue.
+
+“These guys couldn’t possibly be…”
+
+- Ah, that’s right, vile human! What a powerful undead army!
+
+The Skeleton Warlord’s delighted shout was enough to turn my suspicion into certainty.
+
+*No wonder something felt off.*
+
+I had already been puzzled because I could not sense any life force from them.
+
+A sizeable number of monsters were still alive, but roughly half or more of them were undead. All told, it was an army of close to two thousand monsters.
+
+“And undead monsters are…”
+
+The Skeleton Warlord shouted excitedly.
+
+- Beautiful! Magnificent! Valiant!
+
+Crash!
+
+I cut down five monsters and muttered.
+
+“Do you want to disappear like that guy just now? Beautiful, magnificent, and valiant?”
+
+- ……I misspoke. My apologies, vile human.
+
+The Skeleton Warlord had briefly forgotten his own situation, then hurriedly added:
+
+- Wait. Then they must be under someone’s control!
+
+I thought so, too.
+
+But there was one thing I still could not be certain about…
+
+“The Lich. Did that bastard come out personally?”
+
+- Hmm. If you mean the Lich from that holographic video you showed me last time, then probably not.
+
+As I listened to the Skeleton Warlord’s answer, I took half a step forward.
+
+Boom!
+
+A massive iron club passed dangerously close to my shoulder and smashed into the ground. This was an ordinary ogre, and I could still sense its life force.
+
+- Grrrrrr!
+
+“Sure. I’ll cook you.”
+
+Boom!
+
+The ogre was struck in the chest by a Flame Divine Palm, and black-green blood burst from its seven orifices.
+
+As I passed its collapsing bulk, I slashed White Flame diagonally downward.
+
+Whoooosh! Slash!
+
+Space itself seemed to split apart, and the bodies of the monsters caught between the two halves were sliced to pieces.
+
+Leaving behind a Chinese Hunter staring blankly at me, drenched in blood and bodily fluids, I clenched my fist.
+
+Whoooooom.
+
+A surge of extreme heat raced toward my fist, then shot forward.
+
+KABOOM!
+
+Flame-Annihilating Divine Fist.
+
+A massive pillar of fire swallowed the monsters.
+
+Along with the foul smell of burning flesh, the few monsters that had somehow survived shrieked in agony.
+
+The attack had enough destructive power to make both monsters and Hunters forget to fight for a moment.
+
+The Skeleton Warlord spoke in a stammering voice.
+
+- V-Vile human. You have become even more of a monster.
+
+“It feels weird being called a monster by a monster. But if it’s not the Lich, then what bastard is causing all this chaos?”
+
+- This commander does not know, either. But I can guarantee one thing.
+
+“A guarantee? What?”
+
+- That bastard’s control of the undead is a notch below this commander’s. Hahaha! My army! This commander misses you!
+
+“……”
+
+*Should I kill this bastard or let him live?*
+
+As I was wondering, a thought suddenly flashed through my mind, and I stopped dead.
+
+“Hey. What did you just say?”
+
+- Hahahaha! Did you feel this commander’s majesty, vile human?
+
+“Disappear or talk.”
+
+- ……I will talk. But what are you asking?
+
+“The thing you said about controlling the undead.”
+
+- Isn’t it obvious? This commander is a Skeleton Warlord. Compared to them, naturally… Huh?
+
+A brief silence followed.
+
+He must have had the same thought I did. After swallowing hard, I casually broached the subject.
+
+“Try it. That thing.”
+
+- ……
+
+“Are you going to do it, or do you want to disappear?”
+
+The Skeleton Warlord opened his mouth.
+
+- Grow, grow, skeletons, skeletons…
+
+At that moment, the undead monsters locked in fierce combat abruptly stopped moving.
+
+*…So it works.*
+```

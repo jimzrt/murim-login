@@ -101,3 +101,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 중화 | **Zhonghua** | Term used in Shao Shen's rallying cry for China. |
 | 오성홍기 | **Five-Star Red Flag** | National flag of the People's Republic of China. |
 | 듀라한 | **Dullahan** | Higher undead monster form taken by Yao Wei. |
+| 시벌좌 | **Sibeol-jwa** | Taekyung's profane nickname, recognized by Shao Shen. |
+| 중앙 군사 위원회 | **Central Military Commission** | Chinese military body Shao Shen assumes dispatched the unknown S-rank Hunter. |
+| 화염신장 | **Flame Divine Palm** | Named fire-based palm technique used by Taekyung. |
+| 멸염신권 | **Flame-Annihilating Divine Fist** | Named fire-based fist technique used by Taekyung. |

@@ -1,17 +1,16 @@
 # Translation State
 
-- Last completed: 379
-- Next chapter: 380
-- Current block: 375–379 (5/5)
-- Latest translation: `translations/0379.md`
-- Latest summary: `summaries/beats/0379.md`
-- Safe profiles through: chapter 379
+- Last completed: 380
+- Next chapter: 381
+- Current block: 380–384 (1/5)
+- Latest translation: `translations/0380.md`
+- Latest summary: `summaries/beats/0380.md`
+- Safe profiles through: chapter 380
 
 ## Current Block
 
-- At Chengdu International Airport, twenty-year-old Shao Shen and more than a thousand Hunters of the Public Security Armed Forces join five thousand soldiers of the Chinese People's Liberation Army in resisting an unexpected monster army. The monsters overwhelm ordinary firearms, while wyverns, griffons, and gargoyles attack the airport's fighter jets and troops.
-- Shao Shen rallies the retreating soldiers and leads the Hunters into battle. Concentrated modern fire can damage the flying monsters' eyes, but a green wyvern's Poison Breath kills the division commander and command staff. Black fog and dark magic then spread through the blood and corpses, raising the dead as an enslaved skeleton army.
-- Shao Shen recognizes the resurrected Yao Wei, an A-rank Hunter and his friend, after Yao Wei has become a headless Dullahan. Shao Shen kills him while mourning their former friendship. As the battle becomes hopeless, a burning airplane approaches the battlefield and an unseen passenger announces an intent to ram the monsters; the aircraft then sweeps across the battlefield.
+- Shao Shen and the Public Security Armed Forces are nearly crushed when a burning airplane tears through the rear half of the monster army. The plane stops just short of Shao Shen, revealing Jin Taekyung and Team Leader Choi; Choi's barrier magic saves the occupants, who are unconscious. Shao recognizes Taekyung as the Korean Hunter known as Sibeol-jwa.
+- Taekyung receives the Unexpected Assault Quest and joins the defense of Chengdu International Airport. He kills large numbers of monsters with Scorching Yang Qi, White Flame, Flame Divine Palm, and Flame-Annihilating Divine Fist, confirming that roughly half of the nearly two-thousand-strong monster army consists of undead. The Skeleton Warlord judges that the undead are being controlled by someone other than the Lich, whose control is probably weaker than the Skeleton Warlord's. When the Skeleton Warlord chants, “Grow, grow, skeletons, skeletons…,” the undead abruptly stop moving.
 
 ## Open Questions
 
@@ -24,10 +23,11 @@
 - Whether Mungyeong will ultimately intervene in the coming war or leave the Murim remains unresolved.
 - The identity of Ae-hyang's superior and the nature of her sinister red-eyed influence remain unresolved.
 - Whether the Sichuan Governor submits the false memorial and what consequences follow remain unresolved.
-- The Lich's exact role in the Chengdu attack and the extent of its reach remain unresolved.
-- Whether Taekyung's private jet survives the ongoing wyvern attack remains unresolved.
-- The identity of the beings controlling the undead army is unresolved.
-- The identity of the burning airplane's passengers and the outcome of its attack on the monster army are unresolved.
+- The Lich's exact role in the Chengdu attack and the extent of its reach remain unresolved; the Skeleton Warlord believes the Lich did not personally lead this attack.
+- Whether Taekyung's private jet explodes or can be recovered remains unresolved.
+- The identity of the beings controlling the undead army remains unresolved.
+- Whether the Skeleton Warlord's control over the undead persists and what effect it will have on the battle remains unresolved.
+- The outcome of the Unexpected Assault Quest and the ongoing battle at Chengdu International Airport remain unresolved.
 
 ## Exceptional Decision
 
@@ -50,6 +50,7 @@
 - Retain a footnote explaining 빵즈 as a derogatory Chinese slur for Koreans.
 - Render 샤오 쉔 as Shao Shen, 야오위 as Yao Wei, and 류인친 as Ryu Inchin.
 - Render 공안 무력부 as Public Security Armed Forces, 인민 해방군 as People's Liberation Army, 중화인민공화국 as People's Republic of China, 중화 as Zhonghua, 오성홍기 as Five-Star Red Flag, and 듀라한 as Dullahan.
+- Render 시벌좌 as Sibeol-jwa, 중앙 군사 위원회 as Central Military Commission, 화염신장 as Flame Divine Palm, and 멸염신권 as Flame-Annihilating Divine Fist.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

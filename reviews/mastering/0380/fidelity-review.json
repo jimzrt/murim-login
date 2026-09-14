@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "The massive hunk of steel, weighing dozens of tons, smashed and burst through everything in its path.",
+      "defect": "“Burst through” makes the airplane the thing bursting through obstacles, while the source says it crushed and burst apart everything blocking its path.",
+      "id": "F01",
+      "rationale": "The transitive verbs 부수고 터트렸다 describe what the airplane did to the monsters and other obstacles, directly causing the blood and severed limbs in the next sentence.",
+      "replacement": "The massive hunk of steel, weighing dozens of tons, crushed and burst apart everything in its path.",
+      "severity": "minor",
+      "source": "lines 45–47"
+    },
+    {
+      "confidence": 0.95,
+      "current": "If I ever went to the United States, maybe some huge Yankee bros would come up to me with beer bottles in hand and greet me like an old friend.",
+      "defect": "“Like an old friend” adds longstanding personal familiarity absent from the source, which only imagines strangers approaching and acting as though they recognize or know him.",
+      "id": "F02",
+      "rationale": "알은척을 하다 means to acknowledge someone or act as though one knows them; it does not imply the intimacy or shared history of old friends.",
+      "replacement": "If I ever went to the United States, maybe some huge Yankee bros would come up to me with beer bottles in hand and act like they knew me.",
+      "severity": "minor",
+      "source": "lines 201–203"
+    }
+  ],
+  "summary": "Faithful overall, with two localized minor defects affecting the crash mechanism and the degree of imagined familiarity.",
+  "version": 1
+}
