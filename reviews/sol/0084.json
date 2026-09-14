@@ -1,0 +1,176 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "Im Kkeokjeong, an E-rank Hunter, began sprinting at a speed beyond his ability to reach—or even properly see.",
+      "defect": "The sentence makes Im Kkeokjeong the person who begins sprinting, but the omitted Korean subject is Jin Taekyung; Im Kkeokjeong is the E-rank observer who cannot catch or properly see him.",
+      "id": "F01",
+      "rationale": "The preceding sentence states that Jin Taekyung vanished, and the following lines track his charge across the cavern.",
+      "replacement": "Jin Taekyung began sprinting at a speed that Im Kkeokjeong, an E-rank Hunter, could neither match nor properly see.",
+      "severity": "critical",
+      "source": "E급 헌터인 임꺽정은 닿을 수도, 제대로 볼 수도 없는 속도로 질주를 시작했다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Not bad.”",
+      "defect": "The translation changes Taekyung’s assessment from saying the fight is manageable to merely evaluating it favorably.",
+      "id": "F02",
+      "rationale": "할 만하다 means that something is manageable or worth attempting, which is why the remark devastates the observers after his effortless kill.",
+      "replacement": "“This is doable.”",
+      "severity": "minor",
+      "source": "“할 만한데?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "But fights weren’t won with strength alone. I slipped inside one of them and stabbed it in the lower abdomen.",
+      "defect": "“Slipped inside one of them” sounds as though Taekyung entered the monster’s body and fails to convey that he penetrates its close guard or reach.",
+      "id": "F03",
+      "rationale": "품 안으로 파고들다 describes closing into the space within an opponent’s arms or guard, not entering the opponent itself.",
+      "replacement": "But fights weren’t won with strength alone. I slipped inside one monster’s guard and stabbed it in the lower abdomen.",
+      "severity": "major",
+      "source": "나는 한 놈의 품 안으로 파고들며 아랫배를 찔렀다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "That attack just now had probably been a blow that squeezed out the last of its strength.",
+      "defect": "The unqualified “that attack” can refer to Taekyung’s immediately preceding stab, obscuring that the Minotaur’s own failed attack used up its remaining strength.",
+      "id": "F04",
+      "rationale": "The surrounding passage explains why the Minotaur can no longer charge: it has bled heavily and expended its remaining strength on its preceding attack.",
+      "replacement": "The attack it had launched moments ago had probably squeezed out the last of its strength.",
+      "severity": "major",
+      "source": "아마 조금 전의 그 공격이 마지막 힘을 쥐어짠 일격이었을 것이다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“One, two, three, four… Eight of them. Forty billion in total. Wow, a few of them even dropped Magic Gems. You said all the byproducts were mine, too, right?”",
+      "defect": "The wager total is inflated tenfold: 40억 won is four billion won, not forty billion.",
+      "id": "F05",
+      "rationale": "Eight monsters at 500 million won each total four billion won.",
+      "replacement": "“One, two, three, four… Eight of them. Four billion in total. Wow, a few of them even dropped Magic Gems. You said all the byproducts were mine, too, right?”",
+      "severity": "critical",
+      "source": "“하나, 둘, 셋, 넷. 여덟 마리. 도합 40억. 와, 몇 마리는 마정석도 떨궜네? 부산물도 다 내 거랬지?”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“That’s a little short.”",
+      "defect": "The literal wording is opaque in English and loses Taekyung’s rebuke that Changsoo is using disrespectfully casual speech.",
+      "id": "F06",
+      "rationale": "말이 짧다 is an idiomatic criticism of someone speaking informally when hierarchy calls for polite speech.",
+      "replacement": "“Watch your tone.”",
+      "severity": "major",
+      "source": "“말이 짧다.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Don’t ‘pardon’ me. You have to pay me. Forty billion.”",
+      "defect": "The amount owed is inflated tenfold.",
+      "id": "F07",
+      "rationale": "40억 won equals four billion won and is the established total of the wager.",
+      "replacement": "“Don’t ‘pardon’ me. You have to pay me. Four billion.”",
+      "severity": "critical",
+      "source": "“예는 무슨. 돈 줘야지. 40억.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Yet Im Changsoo talked about tens of billions of won as casually as if it were a thousand-won bill in his pocket.",
+      "defect": "“Tens of billions” overstates the amount under discussion and contradicts the four-billion-won wager.",
+      "id": "F08",
+      "rationale": "수십억 denotes a sum in the billions here, specifically the four billion won being discussed, rather than tens of billions in English.",
+      "replacement": "Yet Im Changsoo talked about billions of won as casually as if it were a thousand-won bill in his pocket.",
+      "severity": "critical",
+      "source": "임창수는 수십억을 주머니 속 천 원처럼 말한다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“That guy?”",
+      "defect": "The response removes Changsoo’s comic mishearing of 걔 as 개, meaning “dog.”",
+      "id": "F09",
+      "rationale": "Changsoo mistakes Taekyung’s 걔야, “that guy,” for 개야, “a dog,” producing an explicit wordplay beat.",
+      "replacement": "“A dog?”",
+      "severity": "major",
+      "source": "“개요?”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“The Womanizer. Right?”",
+      "defect": "The generic label loses the crude, mocking force of Changsoo’s embarrassing nickname.",
+      "id": "F10",
+      "rationale": "껄떡쇠 is a derisive comic nickname for a man who persistently lusts after or hits on women, not a neutral description.",
+      "replacement": "“Horndog. Right?”",
+      "severity": "minor",
+      "source": "“껄떡쇠. 맞지?”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "But since I had to collect forty billion won, I comforted him in a warm voice.",
+      "defect": "The amount Taekyung intends to collect is inflated tenfold.",
+      "id": "F11",
+      "rationale": "The wager totals 40억 won, or four billion won.",
+      "replacement": "But since I had to collect four billion won, I comforted him in a warm voice.",
+      "severity": "critical",
+      "source": "하지만 40억을 수금해야 하는 나는 따뜻한 목소리로 녀석을 위로했다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "“You little bastard. Where do you think you’re pulling out a weapon?”",
+      "defect": "The translation makes the slang euphemism 연장 explicit as “weapon” and produces an unnatural English question.",
+      "id": "F12",
+      "rationale": "연장 literally means “tool” and is used here as slang for a weapon; “that thing” preserves the deliberately indirect, contemptuous register.",
+      "replacement": "“You little bastard. Where do you get off pulling that thing on me?”",
+      "severity": "minor",
+      "source": "“이 새끼가. 어디서 연장을 꺼내?”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "It absolutely wasn’t because I hadn’t received the forty billion yet.",
+      "defect": "The unpaid wager is inflated tenfold.",
+      "id": "F13",
+      "rationale": "40억 won equals four billion won.",
+      "replacement": "It absolutely wasn’t because I hadn’t received the four billion yet.",
+      "severity": "critical",
+      "source": "40억을 못 받아서 그런 게 절대 아니다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "That was Song Song and Im Kkeokjeong’s lowlife-and-nasty-man combo.",
+      "defect": "The narration drops Taekyung’s established respectful address “Miss Song” even though the source explicitly uses 송이 씨.",
+      "id": "F14",
+      "rationale": "The source retains 씨 in Taekyung’s reference to her, and the established English address is “Miss Song.”",
+      "replacement": "That was Miss Song and Im Kkeokjeong’s lowlife-and-nasty-man combo.",
+      "severity": "minor",
+      "source": "송이 씨와 임꺽정의 저질, 악질 콤보에 이어서."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“You don’t want the forty billion?”",
+      "defect": "Changsoo’s reminder of the wager inflates the amount tenfold.",
+      "id": "F15",
+      "rationale": "40억 won equals four billion won.",
+      "replacement": "“You don’t want the four billion?”",
+      "severity": "critical",
+      "source": "“40억 받기 싫으세요?”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Oh, is that so?”",
+      "defect": "The translation loses Taekyung’s irritated, challenging reaction to Changsoo talking back.",
+      "id": "F16",
+      "rationale": "어쭈 here is a confrontational interjection expressing surprise at the other person’s audacity, not a neutral request for confirmation.",
+      "replacement": "“You’ve got some nerve.”",
+      "severity": "minor",
+      "source": "“어쭈.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“One billion per question.”",
+      "defect": "The joking fee is inflated tenfold.",
+      "id": "F17",
+      "rationale": "1억 won equals one hundred million won.",
+      "replacement": "“One hundred million per question.”",
+      "severity": "critical",
+      "source": "“하나당 1억.”"
+    }
+  ],
+  "summary": "The draft reverses the subject of Taekyung’s charge and repeatedly inflates four billion won to forty billion. It also obscures a combat mechanism, hierarchy cues, and two character jokes.",
+  "version": 1
+}
