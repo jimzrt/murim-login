@@ -67,3 +67,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 송 양 | **Miss Song** | The Peace Guild's final member; full identity not yet given. |
 | 아레스 | **Ares Guild** | The leading Guild in Korea; formerly employed Team Leader Choi and Song Song. |
 | 논산 | **Nonsan** | Location of Korea's Hunter training center. |
+| 임혁준 | **Im Hyeokjun** | Im Kkeokjeong's personal name, shown in the System Level window. |
+| 미노타우로스 | **Minotaur** | B-rank monster species. |
+| 부천터미널 길드 | **Bucheon Terminal Guild** | Guild whose raid footage is shown. |
+| 미노타우로스의 미로 | **The Minotaur's Labyrinth** | B-rank Gate. |
