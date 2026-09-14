@@ -122,6 +122,60 @@ class ModelIoTest(unittest.TestCase):
         update = validate_durable_update(value, 4)
         self.assertEqual(update["address_pairs"][0]["speaker"], "최 팀장")
 
+    def test_durable_update_accepts_digit_titles_in_address_pairs(self):
+        value = {
+            "chapter": 92,
+            "beat": {"plot": ["Plot."], "continuity": [], "translation_decisions": []},
+            "context": {
+                "version": 1,
+                "safe_through": 92,
+                "continuity_sources": [92],
+                "active_continuity": ["Fact."],
+                "open_questions": ["Question?"],
+                "temporary_decisions": [],
+            },
+            "names": [],
+            "address_pairs": [{
+                "speaker": "1팀장",
+                "addressee": "임춘수",
+                "kinship": "team_leader_to_guild_master",
+                "normal_address": "Guild Master",
+                "speech_level": "formal-deferential",
+                "notes": "Uses 길드장님.",
+            }],
+            "profile_updates": [],
+            "profile_creations": [],
+        }
+        update = validate_durable_update(value, 92)
+        self.assertEqual(update["address_pairs"][0]["speaker"], "1팀장")
+
+    def test_durable_update_rejects_romanized_address_endpoints(self):
+        value = {
+            "chapter": 92,
+            "beat": {"plot": ["Plot."], "continuity": [], "translation_decisions": []},
+            "context": {
+                "version": 1,
+                "safe_through": 92,
+                "continuity_sources": [92],
+                "active_continuity": ["Fact."],
+                "open_questions": ["Question?"],
+                "temporary_decisions": [],
+            },
+            "names": [],
+            "address_pairs": [{
+                "speaker": "Team 1 Leader",
+                "addressee": "임춘수",
+                "kinship": "team_leader_to_guild_master",
+                "normal_address": "Guild Master",
+                "speech_level": "formal-deferential",
+                "notes": "Bad romanization.",
+            }],
+            "profile_updates": [],
+            "profile_creations": [],
+        }
+        with self.assertRaisesRegex(ValueError, "must be Korean"):
+            validate_durable_update(value, 92)
+
     def test_durable_update_accepts_address_pairs(self):
         value = {
             "chapter": 4,

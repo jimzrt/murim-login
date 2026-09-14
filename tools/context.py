@@ -525,7 +525,8 @@ character without a listed profile. Filenames must be plain `.md` basenames.
 in the source. `address_pairs` contains only newly required speaker→addressee rows;
 each Korean key must occur in the source or already appear in the address ledger,
 and at least one endpoint must occur in the source (first-person narrators may be
-ledger-only). Do not invent risk-register rows. Beat
+ledger-only). Speaker and addressee must be Hangul source spellings (Arabic digits
+allowed in titles such as 1팀장; do not romanize). Do not invent risk-register rows. Beat
 plot paragraphs are plain strings; continuity and translation decisions are concise
 list items.
 Return this exact shape:
