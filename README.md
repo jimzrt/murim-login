@@ -17,35 +17,38 @@ This is still a work in progress. The pipeline deliberately spends significantly
 
 ## Translation workflow
 
-The translation is controlled by a Python workflow rather than a single large prompt.
-
 ```mermaid
 flowchart TD
     A[Korean source] --> B[Context builder]
 
-    B --> B1[Translation rules]
-    B --> B2[Terminology / names]
-    B --> B3[Character profiles]
-    B --> B4[Bounded continuity]
-    B --> B5[Previous summaries]
+    subgraph Ctx[Context]
+        C1[Translation rules]
+        C2[Terminology / names]
+        C3[Character profiles]
+        C4[Bounded continuity]
+        C5[Previous summaries]
+    end
 
-    B --> C[Draft model]
-    C --> D[Deterministic QA]
+    C1 --> B
+    C2 --> B
+    C3 --> B
+    C4 --> B
+    C5 --> B
 
-    D --> E[Independent review model]
-    E --> F[Structured findings]
-    F --> G[Deterministic exact-span revision]
-    G --> H[Final QA]
-
-    H --> I[Update names / continuity / summaries]
-    I --> J[Mastering editor]
-
-    J --> K[Paragraph-aware diff]
-    K --> L[Independent adjudicator]
-    L --> M[Assemble final chapter]
-    M --> N[Final fidelity + deterministic QA]
-
-    N --> O["translations/NNNN.md"]
+    B --> D[Draft model]
+    D --> E[Deterministic QA]
+    E --> F[Independent review model]
+    F --> G[Structured findings]
+    G --> H[Deterministic exact-span revision]
+    H --> I[Final QA]
+    I --> J[Update names / continuity / summaries]
+    J --> Ctx
+    J --> K[Mastering editor]
+    K --> L[Paragraph-aware diff]
+    L --> M[Independent adjudicator]
+    M --> N[Assemble final chapter]
+    N --> O[Final fidelity + deterministic QA]
+    O --> P["translations/NNNN.md"]
 ```
 
 The important part is that model output is **not accepted directly**.
