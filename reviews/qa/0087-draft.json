@@ -1,0 +1,40 @@
+{
+  "chapter": 87,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.292,
+    "source_characters": 5629,
+    "source_paragraphs": 177,
+    "translation_characters": 12900,
+    "translation_paragraphs": 183
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "numbers",
+      "details": {
+        "values": [
+          "4,000,000"
+        ]
+      },
+      "message": "Arabic numerals from the source are absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "등급",
+        "preferred": "Grade"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "아줌마",
+        "romanization": "ajumma"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
