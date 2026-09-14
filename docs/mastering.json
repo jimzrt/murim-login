@@ -2,7 +2,7 @@
   "version": 1,
   "models": {
     "master": "openai-codex/gpt-5.6-sol:medium",
-    "adjudicator": "cursor/cursor-grok-4.6-fast:high",
+    "adjudicator": "cursor/cursor-grok-4.6:high",
     "quality_gate": "openai-codex/gpt-5.6-sol:high"
   },
   "omp_config": ".omp/review-overlay.yml",
