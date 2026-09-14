@@ -10,11 +10,11 @@ Scenes and voices stuttered across a faded screen, cutting in and out. Even so, 
 
 The people packed into the narrow gorge charged forward with a roar. Behind them, a flag marked *Mount Heng* whipped in the air.
 
-At the tips of those steel-blue weapons was another flag.
+Beyond the gleaming points of their weapons stood another flag.
 
 Jin (振).
 
-And hundreds of martial artists sealing off the gorge.
+And beneath it, hundreds of martial artists blocking the gorge.
 
 “They’re bastards with neither martial honor nor chivalry. The Mount Heng Sword Sect disappears today!”
 
@@ -38,9 +38,9 @@ The old man smiled broadly.
 
 And then—
 
-People crashed into people, swords into spears. Countless martial artists collided, and a thick blood-mist settled over the gorge.
+People crashed into people, swords into spears. Countless martial artists collided, and a thick mist of blood settled over the gorge.
 
-Somewhere, a drumbeat announcing the start of battle rang out.
+Somewhere, drums thundered to announce the start of battle.
 
 Boom. Boom. Boom.
 
@@ -48,31 +48,31 @@ Boom. Boom. Boom.
 
 “Hah.”
 
-I sat up, soaked in sweat. Another Murim dream.
+I sat up, soaked in sweat. Another dream about Murim.
 
-Unlike at first, I could now remember it clearly even after waking.
+Unlike at first, I could now remember everything clearly even after waking.
 
 *The battle has begun.*
 
-Even after I came back to reality, time kept moving in Murim.
+Even after I returned to reality, time kept moving in Murim.
 
-The scenes I had seen might be happening there right now. A great battle with the fate of two massive forces on the line.
+The scenes I’d seen might be happening there right now. A great battle with the fate of two mighty powers on the line.
 
 *No. There’s one more.*
 
 A third force led by the Head Elder.
 
-Once the battle hit its climax and both sides had taken heavy losses, that was when they would finally make their move.
+Once the battle reached its climax and both sides had taken heavy losses, that was when they would finally make their move.
 
 *What about Hyuk Mujin? What happened to the reconnaissance squad?*
 
-If they arrived in time and exposed the betrayal, the worst could still be avoided. Or maybe the opposite had already happened, and everything was already over.
+If they arrived in time and exposed the betrayal, the worst could still be avoided. Or maybe the opposite was true, and everything was already over.
 
 *The Head Elder…*
 
 That old man had given me the creeps from the moment I met him. Who would have thought someone who was supposed to be an elder of the Jin Family of Taiyuan would plot something like this?
 
-If the Head Elder became the final victor, it would all be over.
+If the Head Elder emerged as the final victor, it would all be over.
 
 A bloody purge always followed a rebellion.
 
@@ -94,27 +94,27 @@ To them, I had been a Benefactor, a trusted superior, and a comrade they could t
 
 “Survive, youngest.”
 
-I had been a blood brother, too.
+I had also been a brother bound by blood.
 
 But what had they been to me? NPCs loaded with advanced AI? Or people?
 
 *What were they?*
 
-Another dimension only I could come and go from, and the people left behind there. What was I supposed to do about that?
+Another dimension only I could travel to and from, and the people left behind there. What was I supposed to do about them?
 
-My eyes drifted to the capsule on their own.
+My eyes drifted toward the capsule.
 
-*If I went back…*
+*What if I went back…*
 
-The sudden thought startled me. I’d lost my mind.
+The sudden thought made me flinch. I had lost my mind.
 
-Go back and do what? It was a great battle with some two thousand martial artists mixed together. Among them were monsters as strong as Jopil, One Question, One Kill—or even stronger.
+Go back and do what? It was a massive battle involving some two thousand martial artists. Among them would be monsters as strong as Jopil, One Question, One Kill—or even stronger.
 
 And I was thinking of going back there?
 
 “You lunatic. You crazy bastard. You’ve completely lost it.”
 
-I was muttering it like a sigh when my phone rang.
+I was muttering the words like a sigh when my phone buzzed.
 
 Bzzz.
 
@@ -124,11 +124,11 @@ It was Team Leader Choi.
 
 * * *
 
-A large café in the heart of a downtown forest of high-rises.
+A large café stood amid a forest of high-rises downtown.
 
 “Here are the materials you requested.”
 
-Butler Kim held out a thick binder. Even at a glance, it looked like a massive file of more than a hundred pages.
+Butler Kim held out a thick binder. Even at a glance, it looked to be well over a hundred pages.
 
 “That’s a lot.”
 
@@ -138,29 +138,29 @@ Choi Minwoo nodded and began rapidly flipping through the pages. What he was rea
 
 Jin Taekyung’s twenty-seven years were contained within those hundred-odd pages.
 
-Birthplace, background, how he had grown up—even account inquiry records provided by the bank. Nothing was missing.
+His birthplace, family background, upbringing—even bank-provided records of his accounts. Nothing was missing.
 
-Unusual or suspicious parts had been highlighted in bold, so Choi Minwoo finished the entire file in under thirty minutes.
+Anything unusual or suspicious had been marked in bold, allowing Choi Minwoo to finish the entire file in less than thirty minutes.
 
 “What do you think, Butler Kim?”
 
 “He’s clean.”
 
-Butler Kim answered in a definitive tone.
+Butler Kim’s answer was unequivocal.
 
 “He isn’t an illegal Awakener, nor did he approach you as part of any deliberate plan.”
 
-Choi Minwoo nodded. If Butler Kim said so, that was how it was.
+Choi Minwoo nodded. If Butler Kim said so, then that was how it was.
 
-He was the one who had spent the past two weeks using every means available to look into everything about Jin Taekyung. Likewise, every page of the hundred-odd-page file on the table would have passed through his hands.
+He had spent the past two weeks using every means available to investigate every detail of Jin Taekyung’s life. Every one of the hundred-odd pages on the table would have passed through his hands.
 
-“So this was all a coincidence?”
+“So all of this was a coincidence?”
 
-“For now, yes.”
+“For now, that appears to be the case.”
 
 “Butler Kim.”
 
-“Yes. Please go ahead.”
+“Yes, young master.”
 
 “Do you know the odds of reawakening?”
 
@@ -168,11 +168,11 @@ He was the one who had spent the past two weeks using every means available to l
 
 One in a hundred.
 
-From an ordinary person’s perspective, that might not seem impossibly rare. But those hundred people were not ordinary people. They were Hunters who had already been born through similar odds.
+To an ordinary person, that might not sound impossibly rare. But those hundred people weren’t ordinary. They were Hunters, people who had already beaten similarly long odds once before.
 
-And among them, only the chosen enjoyed the luck of reawakening.
+Of those, only a chosen few were lucky enough to reawaken.
 
-“Then what are the odds that an F-rank Hunter reawakens in one jump as a C-rank Hunter?”
+“Then what are the odds of an F-rank Hunter reawakening and jumping straight to C-rank?”
 
 Choi Minwoo didn’t wait for an answer.
 
@@ -184,13 +184,13 @@ Choi Minwoo didn’t wait for an answer.
 
 “Could it be…?”
 
-“Ten C-rank Gates. Ten D-rank Gates. Across twenty raids in total, all I did was sit with my arms crossed and watch. I never even needed to step in.”
+“Ten C-rank Gates. Ten D-rank Gates. Over twenty raids in total, all I did was stand there with my arms crossed and watch. I never even needed to step in.”
 
 His long fingers tapped the thick binder.
 
 Everything about Jin Taekyung was written inside it, yet in another sense, nothing was.
 
-After a moment of silence, Butler Kim spoke.
+After a brief silence, Butler Kim spoke.
 
 “I’ll investigate him again.”
 
@@ -198,21 +198,21 @@ After a moment of silence, Butler Kim spoke.
 
 Choi Minwoo shook his head.
 
-“Keep digging and you’ll only stir up trouble. I intend to keep him close and watch him.”
+“Keep scratching and you’ll only raise a sore. I intend to keep him close and watch him.”
 
-“Do you intend to recruit him into the Guild after all?”
+“Do you mean to recruit him into the Guild after all?”
 
-“I should. If something smells fishy, I’ll dig into his background. If it doesn’t…”
+“I have to. If something smells fishy, I’ll dig deeper. If not…”
 
 Choi Minwoo’s eyes gleamed.
 
 “I’ll make him one of my people, even if I have to pay him three personal visits.[^1]”
 
-And in the next moment—
+Then, a moment later—
 
 Jingle.
 
-As someone entered the café to the sound of the bell, Choi Minwoo gave a quiet laugh.
+Someone entered the café, and Choi Minwoo let out a quiet laugh.
 
 Zhuge Liang—or rather, Jin Taekyung.
 
@@ -230,7 +230,7 @@ What kind of outrageous terms were these?
 
 They were giving me a home, a car, and more money than I knew what to do with.
 
-The average annual salary of a C-rank Hunter was 200 million won, including fixed pay and raid pay.
+The average annual income of a C-rank Hunter was 200 million won, including both fixed salary and raid pay.
 
 And me?
 
@@ -238,11 +238,11 @@ And me?
 
 This was the kind of contract only a B-rank Hunter or higher could expect.
 
-It also meant my skill was valued that highly. And it was proof I had found an employer with the insight not to judge a Hunter by rank alone.
+It meant my abilities were valued that highly. It was also proof that I had found an employer with the good sense not to judge a Hunter by rank alone.
 
-*And he has the money, too.*
+*And he has the money to back it up.*
 
-I stared across the table at Team Leader Choi. As always, his expression gave nothing away, and his eyes were deep.
+I stared across the table at Team Leader Choi. As always, his expression gave nothing away, and his gaze was unfathomably deep.
 
 Team Leader Choi spoke without warning.
 
@@ -260,25 +260,25 @@ He had already offered me a contract twice before. I had turned him down both ti
 
 “…Of course.”
 
-Even as I answered, I still had doubts. Was there really no problem now? Was it okay to leave it like this?
+Even as I answered, doubts lingered. Was there really no problem now? Was it okay to leave things like this?
 
 *What the hell am I thinking?*
 
-I had to knock this out before my mind wandered.
+I had to get it over with before my mind wandered again.
 
 “I’ll sign.”
 
-I started signing with the fountain pen Team Leader Choi had handed me.
+I began signing with the fountain pen Team Leader Choi had handed me.
 
 One page, two pages, three…
 
 The contract was five pages long. All I had to do was write the three characters of my name on the last page, and it would be done.
 
-At that moment, the question came back.
+At that moment, the question returned.
 
 *Is this really okay?*
 
-The fountain pen that had been moving without hesitation slowed. One thought caught on the next.
+The fountain pen that had moved without hesitation began to slow. One thought led to another.
 
 *What if it isn’t? Isn’t this what I wanted?*
 
@@ -286,13 +286,13 @@ It was. This was exactly what I had dreamed of so desperately for seven years.
 
 A massive salary and high social standing.
 
-Becoming a son and older brother my family could be proud of, and treating them to an easy life.
+Becoming a son and older brother my family could be proud of, and giving them an easy life.
 
 Becoming someone others envied and admired instead of ignored and scorned.
 
 *I can have it all now.*
 
-I could live enjoying every bit of it. Goodbye to my grimy life. Goodbye to that shitty Murim.
+I could enjoy every bit of it. Goodbye to my miserable life. Goodbye to that shitty Murim.
 
 Crack.
 
@@ -304,7 +304,7 @@ I relaxed my grip. Ink spilled from the shattered pen and soaked into the contra
 
 Team Leader Choi pulled out a white handkerchief and wiped the ink that had splattered onto his chin.
 
-For all the sudden mess, he looked calm.
+Despite the sudden mess, he looked perfectly calm.
 
 “That problem from last time. Have you really resolved it?”
 
@@ -314,11 +314,11 @@ The moment I answered, a weight lifted from my chest.
 
 “If it’s something I can help you with…”
 
-“I appreciate it, but I have to handle this myself.”
+“I appreciate the offer, but I have to handle this myself.”
 
-Team Leader Choi studied me with an odd look, then gave a small laugh.
+Team Leader Choi studied me with an odd look, then gave a quiet laugh.
 
-“I didn’t know a contract could be this hard. I didn’t expect to get turned down three times, either.”
+“I didn’t know signing a contract could be this difficult. I didn’t expect to be turned down three times, either.”
 
 He sounded more amused by the situation than angry.
 
@@ -336,15 +336,15 @@ Just one day.
 
 But for me, it would be a month. Maybe several.
 
-Team Leader Choi had no way of knowing that, and he furrowed his brow.
+Team Leader Choi had no way of knowing that, and he frowned.
 
 “I don’t much care for jokes like that.”
 
-“Neither do I. Not jokes like this.”
+“Neither do I.”
 
-He didn’t know what my words meant.
+He had no idea what my words meant.
 
-“I’ll be sure to see you.”
+“I’ll see you tomorrow.”
 
 It was a vow to myself.
 
@@ -354,7 +354,7 @@ And…
 
 “Tomorrow, you’ll have to raise the terms even higher.”
 
-I walked out of the café, leaving a wide-eyed Team Leader Choi behind.
+I walked out of the café, leaving Team Leader Choi staring after me with wide eyes.
 
 * * *
 
@@ -362,33 +362,33 @@ I walked out of the café, leaving a wide-eyed Team Leader Choi behind.
 
 I drew a deep breath and opened the capsule.
 
-The sight of the sunken seat and VR headset made my heart hammer. Even after coming this far, temptation kept raising its head and whispering.
+The sight of the sunken seat and VR headset set my heart pounding. Even after coming this far, temptation kept raising its head and whispering to me.
 
 *Don’t go back.*
 
-*Just forget everything and live content with your reality.*
+*Just forget everything and live your life here, content with what you have.*
 
 *Everyone you met in Murim is an NPC, and Murim is nothing more than a game.*
 
 Right. There had been a time when I thought that way.
 
-But after wrestling with it, I realized I was going back, one way or another.
+But after wrestling with it, I realized that I would find some way to go back.
 
 *I’d already reached my conclusion a long time ago.*
 
 On the night of the blizzard, I had gone back for Gong Yacheong.
 
-I had brought along two young siblings who were nothing but baggage, and instead of using the reconnaissance squad as human shields, I had fought Jopil and barely made it through.
+I had taken in two young siblings who were nothing but dead weight, and instead of using the reconnaissance squad as human shields, I had fought Jopil and nearly died.
 
 *It probably started then.*
 
 That was when the three letters *NPC*, lodged in my mind, began to fade.
 
-That was when the two-character word *family* came to mind at the sight of Jin Wikyung’s back as he told me to survive and turned away.[^3]
+That was when the two-character word *family* came to mind as I watched Jin Wikyung turn away after telling me to survive.[^3]
 
 “Fuck, my life really is a variety show.”
 
-With a hollow, complaining laugh, I climbed into the capsule. The moment I put on the VR headset, a single line of text appeared in front of me.
+With a hollow, bitter laugh, I climbed into the capsule. The instant I put on the VR headset, a single message appeared before my eyes.
 
 Ding.
 

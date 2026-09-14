@@ -1,0 +1,55 @@
+{
+  "summary": "The chapter is faithful overall, with five localized minor defects involving physical detail, ambiguity, relationship wording, characterization, and directionality.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean line 15; [P7]",
+      "current": "At the tips of those steel-blue weapons was another flag.",
+      "defect": "The English can imply that the flag is attached to the weapons' tips, and it omits that the weapons are keen-edged. The source places the opposing flag beyond the line of visibly sharpened weapons.",
+      "replacement": "Beyond those keen, steel-blue weapons stood another flag.",
+      "rationale": "시퍼렇게 날 선 explicitly describes the weapons as keen-edged, while 병장기의 끝에 situates the next flag beyond their points in the battlefield tableau rather than mounting it on them.",
+      "confidence": 0.91
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Korean line 75; [P35]",
+      "current": "If they arrived in time and exposed the betrayal, the worst could still be avoided. Or maybe the opposite had already happened, and everything was already over.",
+      "defect": "The phrase “the opposite had already happened” invents a specific contrary event that the source leaves unstated.",
+      "replacement": "If they arrived in time and exposed the betrayal, the worst could still be avoided. Or everything might already be over.",
+      "rationale": "그 반대로 introduces the contrasting possibility that events may already have concluded; it does not specify that a discrete opposite action occurred.",
+      "confidence": 0.96
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Korean line 107; [P49]",
+      "current": "I had been a blood brother, too.",
+      "defect": "“Blood brother” commonly denotes a sworn brother in English, creating ambiguity about a relationship the source identifies as biological kinship.",
+      "replacement": "I had also been a brother by blood.",
+      "rationale": "피를 나눈 형제 refers here to an actual brother who shares his blood, reinforcing the surrounding realization that these people are family rather than NPCs.",
+      "confidence": 0.9
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Korean line 263; [P121]",
+      "current": "It also meant my skill was valued that highly. And it was proof I had found an employer with the insight not to judge a Hunter by rank alone.",
+      "defect": "The first sentence changes Taekyung's conclusion about his actual level of ability into a statement only about how highly the employer values him.",
+      "replacement": "It also meant my skills were at least at that level. And it was proof I had found an employer with the insight not to judge a Hunter by rank alone.",
+      "rationale": "내 실력이 그만큼은 된다는 뜻 states that his skills themselves measure up to the offered terms; the employer's discernment is a separate conclusion in the following clause.",
+      "confidence": 0.97
+    },
+    {
+      "id": "F05",
+      "severity": "minor",
+      "source": "Korean line 405; [P190]",
+      "current": "On the night of the blizzard, I had gone back for Gong Yacheong.",
+      "defect": "“Gone back for” turns Gong Yacheong into the purpose of the return, whereas the source explicitly describes returning to her.",
+      "replacement": "On the night of the blizzard, I had gone back to Gong Yacheong.",
+      "rationale": "공야청에게 돌아갔다 preserves the direction and relational endpoint of the action: he returned to Gong Yacheong.",
+      "confidence": 0.98
+    }
+  ]
+}
