@@ -16,17 +16,17 @@ Boom, boom, boom!
 
 “Defensive formation—!”
 
-The team snapped into formation. I gripped my spear and moved as ordered. Between the tank and the ranged dealers. Dead center—that was my position.
+The team snapped into formation. I gripped my spear and moved as ordered. Between the tanks and the ranged dealers. Dead center—that was my position.
 
 *No, for fuck’s sake. I’m a porter…*
 
 Even if my life was going to go sideways, did it have to go this sideways?
 
-They say an unlucky bastard can fall over backward and still break his nose. For 300,000 won, I’d run into two mid-grade Rare Monsters. This wasn’t just a broken nose. This was a broken nose and a cracked skull.
+They say an unlucky bastard can fall over backward and still break his nose. For 300,000 won, I’d run into two mid-rank Rare Monsters. This wasn’t just a broken nose. I’d cracked my skull too.
 
 —Kuwaaaaah!
 
-The Hobgoblin Great Warrior charged with a roar. Nearly three meters of muscle and green hide—overwhelming all by itself.
+The Hobgoblin Great Warrior charged with a roar. Nearly three meters of muscle and green hide—the sight of it alone was overwhelming.
 
 *Why is that greatsword so damn huge?*
 
@@ -36,7 +36,7 @@ The thought of that thing swinging at me made me swallow hard.
 
 “We’ll have to try.”
 
-Im Kkeokjeong planted his tower shield in the ground and shouted,
+Im Kkeokjeong planted his tower shield against the ground and shouted,
 
 “Archers! Don’t hold back on mana! Pour it on!”
 
@@ -44,13 +44,13 @@ Swish, swish, swish!
 
 Mana-charged arrows shot straight toward it. They carried enough force to punch through most shields, but…
 
-Thunk, thunk.
+Crack, crack.
 
 The Hobgoblin Great Warrior gave its greatsword a casual swing and chopped every one of them in half. Even if they’d hit, I doubted they could have pierced that thick hide.
 
 “Aim for the vitals! Keep shooting and slow it down!”
 
-Then the Great Warrior’s eyes burned red. Once it drew up its mana, its strength and speed were on a whole different level.
+Then the Great Warrior’s eyes burned red. Once it drew up its mana, its strength and speed were nothing like before.
 
 “Kuwooooooh!”
 
@@ -64,7 +64,7 @@ Everyone threw themselves aside without a moment to think.
 
 Boom!
 
-The greatsword smashed the ground to pieces. A blast of air sent dust whipping around us like a tornado.
+The greatsword smashed the ground apart. Dust whipped around us like a tornado in the blast of displaced air.
 
 “Ghh.”
 
@@ -78,7 +78,7 @@ It couldn’t compare to *that guy* from two years ago, but a chill still ran do
 
 *I have to get as far away as I can while I have the chance.*
 
-Everything was a wash of haze. Nobody could tell friend from foe. This was my opening.
+Everything was lost in a pale haze. Nobody could tell friend from foe. This was my chance.
 
 I stayed low and moved slowly, my spear in one hand while the other felt through empty air.
 
@@ -102,9 +102,9 @@ Squish.
 
 What was this now? I carefully felt around the unpleasantly squishy object.
 
-*There’s fur, too. A person?*
+*There’s fur, too. Is it a person?*
 
-Maybe it was the head of someone who’d passed out. I held my breath and whispered,
+Maybe it was the head of someone who’d been knocked unconscious. I held my breath and whispered,
 
 “Kkeokjeong hyung?”
 
@@ -118,19 +118,19 @@ From directly above me.
 
 “Grrr.”
 
-Just then, a gust of wind swept through from somewhere and cleared the dust. I slowly looked up and saw a pair of gleaming red eyes.
+Just then, a gust of wind swept through and cleared the dust. I slowly looked up and saw a pair of gleaming red eyes.
 
 “Grrk.”
 
 “…”
 
-I looked back down. Between thighs as thick as pillars and hard as stone, my dainty little hand was clamped around something.
+I looked back down. Between thighs as thick as pillars and hard as stone, my dainty little hand was wrapped around something.
 
 I groaned under my breath.
 
 “Ah, fuck…”
 
-That was a male’s instinct. Unbearable nausea. Disgust with myself. The next moment, my grip went slack on its own.
+It was male instinct. Unbearable nausea. Disgust with myself. The next moment, my grip went slack on its own.
 
 Slide.
 
@@ -192,7 +192,7 @@ I veered toward the voice. The team was waiting there, back in defensive formati
 
 “Fall back!”
 
-Im Kkeokjeong charged the Great Warrior chasing me. Blue mana sheathed his tower shield, packed with enough destructive force to smash most low-grade monsters to pieces.
+Im Kkeokjeong charged the Great Warrior pursuing me. Blue mana sheathed his tower shield, carrying enough destructive force to smash most low-rank monsters to pieces.
 
 “Hah!”
 
@@ -200,7 +200,7 @@ With a short shout, Im Kkeokjeong brushed past me. And then—
 
 Crunch. Thud.
 
-Something broke, and he shot backward at a vicious speed.
+Something broke, and he went hurtling backward.
 
 He flew a good ten meters, slammed into the wall, and vomited a gush of blood.
 
@@ -210,13 +210,13 @@ He flew a good ten meters, slammed into the wall, and vomited a gush of blood.
 
 Was this for real?
 
-I was stunned. The rest of the team, on the other hand, looked grimly determined.
+While I stared in disbelief, the rest of the team looked grimly determined.
 
 “No! Kkeokjeong hyung!”
 
 “We’ll buy time! Take hyung and get out!”
 
-Then the greatsword sent another tank flying, tower shield and all.
+Then the greatsword sent the other tank flying, tower shield and all.
 
 Boom!
 
@@ -236,41 +236,41 @@ Thud!
 
 Smack!
 
-That was the sound of the team being wiped out. The last member had charged in with a dagger, taken a knuckle to the skull, and gone flying. He twitched, then passed out.
+That was the sound of the team being wiped out. The last member had charged in with a dagger, gotten bonked on the head, and gone flying. He twitched for a moment, then passed out.
 
 At least they were all still breathing. Thank goodness for that.
 
 —Grrr…
 
-Scratch that.
+I took it back.
 
 Keeping my eyes fixed on the monster, I shouted,
 
 “Team Leader!”
 
-A fierce fight was still going on at the altar in the distance.
+A fierce battle was still raging at the distant altar.
 
-A tired voice came through the explosions.
+A weary voice reached me through the explosions.
 
 “What?!”
 
-“Are you still not done? It feels like it’s been more than five minutes!”
+“Are you still not done? I think it’s been more than five minutes!”
 
 Boom! Boom! Fwoosh!
 
-Lightning struck, and flames surged. Team Leader Choi screamed,
+Lightning crashed and flames surged. Team Leader Choi screamed,
 
 “Three more minutes!”
 
-Anyone who didn’t know better would think he was a soccer referee. His bold call for extra time left me speechless.
+Anyone who didn’t know better would think he was a soccer referee. His bold declaration of extra time left me speechless.
 
 —Karruk, karruk.
 
-The Hobgoblin Great Warrior came on slowly. A cruel smile hung on its wide-slit mouth. I edged backward in time with its steps.
+The Hobgoblin Great Warrior advanced slowly. A cruel smile hung on its wide-slit mouth. I edged backward in time with its steps.
 
 “That’s right. Come on. Come on.”
 
-No choice. Same as before: run like hell and stall.
+I had no choice. Just like before, I’d have to run like hell and stall for time.
 
 —Grrk.
 
@@ -282,9 +282,9 @@ Its bulging eyes rolled toward my teammates sprawled unconscious on the ground. 
 
 “Don’t tell me…”
 
-That was exactly it.
+That was exactly what it was doing.
 
-My heart sank as I watched its back heading for Im Kkeokjeong.
+My heart sank as I watched it head toward Im Kkeokjeong.
 
 “Hey! Hey, you bastard!”
 
@@ -292,7 +292,7 @@ It ignored me completely.
 
 Now I was the one panicking.
 
-*If I leave it like this, they’re all dead.*
+*If I leave it alone, they’re all dead.*
 
 I had to draw its attention somehow. I grabbed one of the rocks scattered around me and hurled it at the monster’s head.
 
@@ -318,11 +318,11 @@ At this rate, not only Im Kkeokjeong but the rest of the team would be wiped out
 
 A one-on-one fight against a C-rank Rare Monster.
 
-A fight I could never win. But…
+There was no way I could win. But…
 
 *Ah, fuck.*
 
-I was already charging at it. Sometimes you have to fight even when there’s no chance.
+I was already charging toward it. Sometimes, you had to fight even when there was no chance of winning.
 
 This was one of those times.
 
@@ -334,33 +334,41 @@ The instant I thrust my spear at its broad back—
 
 —Kururuk.
 
-The green giant turned like it had been waiting. A smug smile sat on its mouth. The greatsword swept in horizontally, a streak of light shooting for my side.
+The green giant spun around as if it had been waiting for me. A triumphant smile curled its lips. Its greatsword swept sideways, becoming a streak of light as it shot toward my waist.
 
-*That’s what you were after.*
+*This was what it wanted.*
 
-My mind went blank. Could I even block that? Had I made the wrong call out of some cheap guilt and heroics?
+My mind went blank. Could I even block that? Had I made the wrong choice out of some pathetic sense of guilt and heroism?
 
-But the die was already cast.
+But the die had already been cast.
 
 *I have to hold.*
 
-There are times you fight with your life on the line. This was one of them.
+Sometimes, you had to fight with your life on the line.
+
+This was one of those times.
 
 *Please!*
 
-I clenched my teeth and turned the iron spear into the greatsword’s path. At the same time, the greatsword smashed into it.
+I clenched my teeth and swung the iron spear into the greatsword’s path. At the same instant, the greatsword slammed into it.
 
 Rrrrrumble—
 
-A roar of impact. Then enormous pressure. The greatsword, iron spear and all, split straight through my waist—
+A deafening crash. Then immense pressure. The greatsword was going to cleave straight through the iron spear and my waist—
 
 “…Huh?”
 
-The iron spear was fine. So was my waist. All that had happened was my feet had been pushed back a little. A very, very little.
+The iron spear was fine.
+
+So was my waist.
+
+All that force had only pushed my feet back a little.
+
+A very, very little.
 
 “…?”
 
-What was this?
+What was going on?
 
 —G-Grrk?
 
@@ -368,21 +376,21 @@ The Hobgoblin Great Warrior’s face flushed bright red. It pulled the greatswor
 
 Boom!
 
-My body slid back.
+My body slid backward.
 
 Maybe thirty centimeters?
 
-“…Uhh.”
+“…Huh.”
 
 —…Grrk.
 
-The Hobgoblin Great Warrior’s eyes met mine in the air between us. I’d been through this somewhere before.
+The Hobgoblin Great Warrior and I locked eyes. I’d been through this somewhere before.
 
-*That’s right. The duel with Lee Seogeun. It was exactly like this.*
+*That’s right. My duel with Lee Seogeun. It was exactly like this.*
 
 I’d freaked out after seeing his Level and thought I was dead, only to discover that he was a complete pushover. How could I forget a moment that absurd?
 
-*But I had the System backing me there.*
+*But I had the System backing me then.*
 
 This was reality. I was an F-rank Hunter with nothing. No System, no nothing.
 
@@ -394,7 +402,7 @@ Ding.
 
 I froze. For that instant, I couldn’t see or hear anything.
 
-This can’t be. This seriously makes no sense.
+*This can’t be happening. This seriously makes no sense.*
 
 Ding.
 
@@ -402,13 +410,13 @@ Ding.
 >
 > Synchronization complete.
 >
-> All systems are inherited.
+> All systems have been inherited.
 
 And yet, it actually happened.
 
 “Ha… hahaha.”
 
-A laugh slipped out of me like I’d lost my mind. The Hobgoblin Great Warrior stared at me like I was the crazy one.
+A laugh escaped me like I’d lost my mind. The Hobgoblin Great Warrior stared at me as though *I* were the lunatic.
 
 > **System**
 >
@@ -426,15 +434,15 @@ I grinned at the monster.
 
 Gurgle.
 
-A wrinkled hand clutched at its throat. But the old goblin had neither the strength to stop the blood pouring out like a waterfall nor the time to spit out the spell still hovering on the tip of its tongue.
+A wrinkled hand clutched at its throat. But the old goblin had neither the strength to stop the blood pouring out like a waterfall nor the time to utter the spell still hovering on the tip of its tongue.
 
 “What a nuisance.”
 
-With that from Team Leader Choi, the light went out of the Hobgoblin Priest’s eyes.
+At Team Leader Choi’s words, the light faded from the Hobgoblin Priest’s eyes.
 
-*I’m tired.*
+*I’m exhausted.*
 
-But he turned around at once. He still had work to do. There was no telling how brutal the fight against a C-rank Rare Monster would be—
+But he turned around at once. He still had work to do. There was no telling how brutal the fight against the other C-rank Rare Monster would be—
 
 Slash—
 
@@ -442,11 +450,11 @@ Slash—
 
 Team Leader Choi thought he was seeing things.
 
-That same Hobgoblin Great Warrior was screaming. One arm severed, it was staggering back.
+The Hobgoblin Great Warrior was screaming. One arm severed, it staggered backward.
 
 *Who did that?*
 
-He watched the fight, even forgetting he was supposed to help. Ghostlike movement. A spear-point pouring like water, carving the green giant to pieces.
+He forgot that he was supposed to help and simply stared at the battle. Ghostlike footwork. A spearhead flowing like water, carving the green giant to pieces.
 
 Wait.
 
@@ -460,7 +468,7 @@ It was him.
 
 The F-rank Hunter who’d been carrying a backpack and skinning hides!
 
-“What on earth…”
+“What in the world…”
 
 Team Leader Choi’s mouth slowly fell open.
 
