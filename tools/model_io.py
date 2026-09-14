@@ -172,7 +172,7 @@ def validate_durable_update(value: dict, number: int) -> dict:
             if "\n" in field or "|" in field:
                 raise ValueError(f"address pair {position} {key} cannot contain a newline or pipe")
             row[key] = field.strip()
-        if not re.fullmatch(r"[가-힣]{2,}", row["speaker"]) or not re.fullmatch(r"[가-힣]{2,}", row["addressee"]):
+        if not re.fullmatch(r"[가-힣](?:[가-힣]| [가-힣])+", row["speaker"]) or not re.fullmatch(r"[가-힣](?:[가-힣]| [가-힣])+", row["addressee"]):
             raise ValueError(f"address pair {position} speaker and addressee must be Korean")
         key = (row["speaker"], row["addressee"])
         if key in seen_pairs:
