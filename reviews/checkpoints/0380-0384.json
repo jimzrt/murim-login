@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "I felt even more nervous than I had when facing Chairman Shao Yang.",
+      "defect": "Xiao Yang is incorrectly called Shao Yang, conflating his name with Shao Shen's.",
+      "id": "C01",
+      "rationale": "The chapter and binding terminology establish the state chairman's name as Xiao Yang.",
+      "replacement": "I felt even more nervous than I had when facing Chairman Xiao Yang.",
+      "severity": "major",
+      "source": "Chapter 384, Magic Johnson introduction"
+    },
+    {
+      "confidence": 1.0,
+      "current": "The Chengdu International Airport’s monster army was controlled by three incomplete Arch Liches, all destroyed by Taekyung and the Skeleton Warlord.",
+      "defect": "The three controllers are incorrectly identified as incomplete Arch Liches. They were incomplete Liches serving a separate Arch Lich.",
+      "id": "C02",
+      "rationale": "Chapter 381 explicitly states that they had not yet completed their transformation into Liches and served the Arch Lich; calling them Arch Liches collapses the established hierarchy.",
+      "replacement": "The Chengdu International Airport’s monster army was controlled by three incomplete Liches serving an Arch Lich, all destroyed by Taekyung and the Skeleton Warlord.",
+      "severity": "major",
+      "source": "Checkpoint summary, Continuity"
+    },
+    {
+      "confidence": 1.0,
+      "current": "The Chengdu International Airport attack involved an undead army controlled by three incomplete Arch Liches, all of whom Taekyung destroyed.",
+      "defect": "The active state incorrectly records the three controllers as incomplete Arch Liches rather than incomplete Liches serving an Arch Lich.",
+      "id": "C03",
+      "rationale": "This terminology error would propagate a false equivalence between the three subordinate necromancers and their Arch Lich master into later continuity.",
+      "replacement": "The Chengdu International Airport attack involved an undead army controlled by three incomplete Liches serving an Arch Lich, all of whom Taekyung destroyed.",
+      "severity": "major",
+      "source": "Durable state, active_continuity"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Taekyung discovers that nearly half the army consists of undead controlled by an unidentified force.",
+      "defect": "“Nearly half” means slightly less than half, while Chapter 380 states that roughly half or more of the army is undead.",
+      "id": "C04",
+      "rationale": "The replacement preserves the chapter's stated estimate without narrowing it in the opposite direction.",
+      "replacement": "Taekyung discovers that roughly half or more of the army consists of undead controlled by an unidentified force.",
+      "severity": "minor",
+      "source": "Checkpoint summary, Plot"
+    }
+  ],
+  "summary": "The reading copies and state are broadly consistent in voice, formatting, and continuity. Four actionable issues remain: one character-name typo, two instances that incorrectly elevate the incomplete Liches to Arch Liches, and one summary quantity that conflicts with the chapter.",
+  "version": 1
+}

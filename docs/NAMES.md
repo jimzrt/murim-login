@@ -122,3 +122,11 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 청성산 | **Mount Qingcheng** | Mountain containing the temporary operations headquarters. |
 | 핑핑이 | **Pingping** | Taekyung's joking guess at the name of the deceased former chairman; not established as the actual name. |
 | 팽팽이 | **Pengpeng** | Taekyung's joking alternative guess at the name of the deceased former chairman; not established as the actual name. |
+| 매직 존슨 | **Magic Johnson** | S-rank Hunter, one of the three Archmages, and a combat-specialized War Mage. |
+| 대마법사 | **Archmage** | Title held by only three people worldwide. |
+| 워 메이지 | **War Mage** | Magic Johnson's combat-specialized Archmage title. |
+| 총서기 | **General Secretary** | One of Xiao Yang's offices. |
+| 국가 주석 | **state chairman** | Xiao Yang's office as leader of the People's Republic of China. |
+| 중앙군사위원회 | **Central Military Commission** | Commission chaired by Xiao Yang. |
+| 중국 공산당 | **Chinese Communist Party** | Party whose Central Military Commission Xiao Yang chairs. |
+| 종석이 | **Jongseok** | Taekyung's mistaken personal-name joke for the General Secretary; not the chairman's actual name. |

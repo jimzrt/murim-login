@@ -1,0 +1,35 @@
+{
+  "summary": "Faithful overall, with three minor defects involving visual mechanism, a battle-specific farewell, and an inarticulate cry.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "lines 53–55 / P27",
+      "current": "That wasn’t entirely wrong, but now that I had reached the Supreme Peak realm, I could see through most things with my eyesight alone, without even using internal energy.",
+      "defect": "“See through most things” implies seeing through physical objects. In context, the source says his exceptional eyesight lets him see clearly despite ordinarily difficult conditions such as the darkness.",
+      "replacement": "That wasn’t entirely wrong, but now that I had reached the Supreme Peak realm, I could see clearly in all but the most extreme conditions with my eyesight alone, without even using internal energy.",
+      "rationale": "어지간하면 안력으로 꿰뚫어 볼 수 있다 describes the reach of his unaided visual acuity in the surrounding darkness, not an ability to see through objects.",
+      "confidence": 0.93
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "lines 239–243 / P127",
+      "current": "“I wish you all good fortune.”",
+      "defect": "The generic “good fortune” loses the explicitly martial sense of the Chairman’s farewell to those heading into combat.",
+      "replacement": "“I wish you all luck in battle.”",
+      "rationale": "무운 specifically means fortune or success in war or battle, rather than good fortune in general.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "lines 275–277 / P148",
+      "current": "*No! Nooooooo!*",
+      "defect": "The translation turns an inarticulate scream of mortification into a verbal expression of denial.",
+      "replacement": "*Aagh! Aaaaaagh!*",
+      "rationale": "으아, 으아아아아 is a wordless anguished cry; it does not mean “no.”",
+      "confidence": 0.99
+    }
+  ]
+}
