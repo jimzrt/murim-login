@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.92,
+      "current": "The reason I thought of them as “people” rather than “someone” was that there had been two Familiars. The two could have been working together, or they might not have been.",
+      "defect": "The stated count contradicts the three fly Familiars identified in Chapter 92 plus the rice-weevil Familiar identified in Chapter 93. It also leaves the following reference to two possible parties logically unsupported.",
+      "id": "C01",
+      "rationale": "Distinguishing the fly surveillance from the rice-weevil surveillance preserves Taekyung's suspicion that more than one controller may be involved without contradicting the number of individual Familiars shown.",
+      "replacement": "The reason I thought of them as “people” rather than “someone” was that there had been two separate sets of Familiars. The two controllers could have been working together, or they might not have been.",
+      "severity": "major",
+      "source": "Chapter 93, Taekyung's assessment after confirming the Familiars are gone"
+    },
+    {
+      "confidence": 1.0,
+      "current": "I had paid three hundred million won only an hour or two ago, but I was still wearing nothing but jeans and a T-shirt.",
+      "defect": "The amount contradicts the 350 million won total established at the beginning of the chapter and retained in both the checkpoint summary and active continuity.",
+      "id": "C02",
+      "rationale": "The purchase total is a durable continuity fact and must remain 350 million won throughout the chapter.",
+      "replacement": "I had paid three hundred fifty million won only an hour or two ago, but I was still wearing nothing but jeans and a T-shirt.",
+      "severity": "major",
+      "source": "Chapter 94, Taekyung and Hayeon outside the apartment complex"
+    }
+  ],
+  "summary": "The packet is generally consistent in voice, terminology, formatting, and spoiler control. Two continuity errors are actionable: Chapter 93 miscounts the Familiars involved in the surveillance, obscuring why Taekyung suspects multiple controllers, and Chapter 94 changes the established purchase total from 350 million won to 300 million won.",
+  "version": 1
+}

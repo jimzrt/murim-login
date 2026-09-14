@@ -126,3 +126,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 스토어 | **Store** | Restricted luxury retailer for magical goods and Hunter equipment |
 | 쌀벌레 | **Rice Weevil** | Creature used by Hong Woojin as a Familiar |
 | 링크 | **Link** | Mental connection between a mage and Familiar |
+| 김희선 | **Kim Seonhee** | Source spelling variant for the established Assistant Manager Kim Seonhee at the Ilsan Store. |
