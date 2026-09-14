@@ -102,3 +102,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 사장님 | **Boss** | Address for the restaurant owner; contextually rendered as ma'am in one reply |
 | 김민수 | **Kim Minsu** | The restaurant owner's son; D-rank Hunter in Sangdong Guild. |
 | 민수 | **Minsu** | Short form used for Kim Minsu. |
+| 운기요상 | **Circulate Qi for Healing** | System-named skill that channels internal energy through another person's body to cleanse accumulated waste and restore health. |
+| 하급 포션 | **Lesser Potion** | Low-grade healing potion issued as raid supplies; its System Grade is Third Rate. |
