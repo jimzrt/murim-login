@@ -2,6 +2,7 @@
 import { render } from "astro:content";
 import Base from "../../layouts/Base.astro";
 import ChapterNav from "../../components/ChapterNav.astro";
+import ChapterDock from "../../components/ChapterDock.astro";
 import { allChapters, neighbors, readingMinutes, toRef, type ChapterEntry } from "../../lib/chapters";
 
 export async function getStaticPaths() {
@@ -28,10 +29,11 @@ interface Props {
 const { entry, previous, next } = Astro.props;
 const { Content } = await render(entry);
 const minutes = readingMinutes(entry.data.wordCount);
+const description = `${entry.data.title} — about ${minutes} min read. A translation of Murim Login.`;
 ---
 
-<Base title={`${entry.data.title} — Murim Login`} chapter={entry.data.chapter}>
-  <main class="wrap" data-page="chapter" data-chapter={entry.data.chapter}>
+<Base title={`${entry.data.title} — Murim Login`} chapter={entry.data.chapter} description={description}>
+  <main class="wrap chapter-page" data-page="chapter" data-chapter={entry.data.chapter}>
     <header class="chapter-header">
       <p class="eyebrow">Murim Login</p>
       <h1 data-pagefind-body data-pagefind-meta="title">{entry.data.title}</h1>
@@ -43,4 +45,5 @@ const minutes = readingMinutes(entry.data.wordCount);
     </article>
     <ChapterNav previous={previous} next={next} />
   </main>
+  <ChapterDock previous={previous} next={next} />
 </Base>

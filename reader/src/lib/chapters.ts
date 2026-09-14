@@ -25,6 +25,7 @@ export interface CompactChapter {
   n: number;
   t: string;
   h: string;
+  w: number;
 }
 
 export function withBase(path: string): string {
@@ -49,8 +50,13 @@ export function toIndex(entries: ChapterEntry[]): ChapterIndexItem[] {
   }));
 }
 
-export function toCompact(items: ChapterIndexItem[]): CompactChapter[] {
-  return items.map((item) => ({ n: item.chapter, t: item.title, h: item.href }));
+export function toCompact(entries: ChapterEntry[]): CompactChapter[] {
+  return entries.map((entry) => ({
+    n: entry.data.chapter,
+    t: entry.data.title,
+    h: chapterHref(entry.data.chapter),
+    w: entry.data.wordCount,
+  }));
 }
 
 export function neighbors(entries: ChapterEntry[], chapter: number) {

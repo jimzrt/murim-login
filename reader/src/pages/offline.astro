@@ -1,0 +1,13 @@
+---
+import Base from "../layouts/Base.astro";
+
+const home = import.meta.env.BASE_URL;
+---
+
+<Base title="Offline — Murim Login" description="You are offline. Open a previously cached chapter or reconnect.">
+  <main class="wrap hero">
+    <h1>Offline</h1>
+    <p class="lede">This page is available without a network. Cached chapters stay readable after you have opened them online.</p>
+    <p><a class="button" href={home}>Back to the index</a></p>
+  </main>
+</Base>

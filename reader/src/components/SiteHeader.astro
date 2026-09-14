@@ -7,24 +7,22 @@ interface Props {
 
 const { chapter } = Astro.props;
 const home = import.meta.env.BASE_URL;
+const onChapter = chapter != null;
 ---
 
-{
-  chapter != null && (
-    <div
-      class="read-progress"
-      id="read-progress"
-      role="progressbar"
-      aria-label="Chapter reading progress"
-      aria-valuemin="0"
-      aria-valuemax="100"
-      aria-valuenow="0"
-    >
-      <span class="read-progress__bar" id="read-progress-bar"></span>
-    </div>
-  )
-}
-<header class="site-header" id="site-header">
+<div
+  class="read-progress"
+  id="read-progress"
+  role="progressbar"
+  aria-label="Chapter reading progress"
+  aria-valuemin="0"
+  aria-valuemax="100"
+  aria-valuenow="0"
+  hidden={!onChapter}
+>
+  <span class="read-progress__bar" id="read-progress-bar"></span>
+</div>
+<header class="site-header" id="site-header" transition:persist="site-header">
   <a class="nav-home" href={home} title="Home">
     <img class="nav-logo" src={withBase("favicon.svg")} width="28" height="28" alt="" />
     <span class="nav-home-full">Murim Login</span>
@@ -35,6 +33,8 @@ const home = import.meta.env.BASE_URL;
     </svg>
     <span class="sr-only nav-home-sr">Home</span>
   </a>
+  <span class="nav-spacer" aria-hidden="true"></span>
+  <span class="read-progress-label" id="read-progress-label" hidden={!onChapter} aria-hidden="true">0%</span>
   <button class="nav-btn nav-icon-btn" id="jump-open" type="button" aria-label="Jump to chapter" title="Jump to chapter">
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
       <path d="M4 6h16"></path>
@@ -42,7 +42,11 @@ const home = import.meta.env.BASE_URL;
       <path d="M4 18h10"></path>
     </svg>
   </button>
-  {import.meta.env.PROD && <pagefind-modal-trigger class="nav-search"></pagefind-modal-trigger>}
+  {
+    import.meta.env.PROD && (
+      <pagefind-modal-trigger class="nav-search" compact hide-shortcut title="Search" aria-label="Search"></pagefind-modal-trigger>
+    )
+  }
   <button class="nav-btn nav-icon-btn" id="settings-open" type="button" aria-label="Settings" title="Settings">
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
       <circle cx="12" cy="12" r="3"></circle>

@@ -1,5 +1,6 @@
 import { defineConfig } from "astro/config";
 import { satteri } from "@astrojs/markdown-satteri";
+import sitemap from "@astrojs/sitemap";
 import { systemWindows } from "./src/plugins/system-windows";
 
 function siteUrl(): string {
@@ -27,6 +28,7 @@ export default defineConfig({
   build: {
     format: "directory",
   },
+  integrations: [sitemap()],
   markdown: {
     processor: satteri({
       hastPlugins: [systemWindows],

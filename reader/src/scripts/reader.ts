@@ -15,6 +15,7 @@ interface CatalogItem {
   n: number;
   t: string;
   h: string;
+  w?: number;
 }
 
 const STORAGE_KEY = "murim-reader";
@@ -24,6 +25,7 @@ const SIZES: FontSize[] = ["s", "m", "l", "xl"];
 const WIDTHS: Width[] = ["narrow", "medium", "wide"];
 const JUMP_LIMIT = 10;
 const JUMP_NEAR = 9;
+const READ_THRESHOLD = 0.95;
 
 const root = document.documentElement;
 const base = root.getAttribute("data-base") || "/";
@@ -33,13 +35,29 @@ let catalog: CatalogItem[] | null = null;
 let catalogPromise: Promise<CatalogItem[]> | null = null;
 let jumpItems: CatalogItem[] = [];
 let jumpIndex = -1;
+let chromeReady = false;
+let pageAbort: AbortController | null = null;
+let wordWeights: Map<number, number> | null = null;
 
-applyPrefs(state);
-initSettings();
-initJump();
-initIndex();
-initChapter();
-initKeys();
+document.addEventListener("astro:page-load", boot);
+boot();
+
+function boot() {
+  state = loadState();
+  applyPrefs(state);
+  if (!chromeReady) {
+    initSettings();
+    initJump();
+    initKeys();
+    chromeReady = true;
+  }
+  pageAbort?.abort();
+  pageAbort = new AbortController();
+  const { signal } = pageAbort;
+  syncProgressChrome();
+  initIndex(signal);
+  initChapter(signal);
+}
 
 function defaultState(): ReaderState {
   return {
@@ -136,6 +154,7 @@ function loadCatalog() {
     })
     .then((items) => {
       catalog = items;
+      ingestWordWeights(items);
       return items;
     })
     .catch(() => {
@@ -143,6 +162,107 @@ function loadCatalog() {
       return [] as CatalogItem[];
     });
   return catalogPromise;
+}
+
+function ingestWordWeights(items: CatalogItem[]) {
+  if (!items.some((item) => typeof item.w === "number")) {
+    return;
+  }
+  const map = new Map<number, number>();
+  for (const item of items) {
+    map.set(item.n, typeof item.w === "number" && item.w > 0 ? item.w : 1);
+  }
+  wordWeights = map;
+}
+
+function ensureWordWeightsFromPage() {
+  if (wordWeights) {
+    return;
+  }
+  const page = document.querySelector<HTMLElement>("[data-page='index']");
+  const raw = page?.dataset.words;
+  if (!raw) {
+    return;
+  }
+  try {
+    const parsed = JSON.parse(raw) as Record<string, number>;
+    const map = new Map<number, number>();
+    for (const [key, value] of Object.entries(parsed)) {
+      const chapter = Number.parseInt(key, 10);
+      if (Number.isInteger(chapter) && typeof value === "number" && value > 0) {
+        map.set(chapter, value);
+      }
+    }
+    if (map.size) {
+      wordWeights = map;
+    }
+  } catch {
+    /* ignore bad embed */
+  }
+}
+
+function syncProgressChrome() {
+  const onChapter = Boolean(document.querySelector("[data-page='chapter']"));
+  const progress = document.getElementById("read-progress");
+  const label = document.getElementById("read-progress-label");
+  if (progress) {
+    progress.hidden = !onChapter;
+  }
+  if (label) {
+    label.hidden = !onChapter;
+    if (!onChapter) {
+      label.textContent = "0%";
+    }
+  }
+  document.getElementById("site-header")?.classList.remove("is-hidden");
+  document.getElementById("chapter-dock")?.classList.remove("is-hidden");
+}
+
+function lockBodyScroll() {
+  if (document.documentElement.dataset.scrollLocked === "1") {
+    return;
+  }
+  const y = window.scrollY;
+  document.documentElement.dataset.scrollLocked = "1";
+  document.documentElement.style.overflow = "hidden";
+  document.body.style.position = "fixed";
+  document.body.style.top = `-${y}px`;
+  document.body.style.left = "0";
+  document.body.style.right = "0";
+  document.body.style.width = "100%";
+  document.body.dataset.scrollY = String(y);
+}
+
+function unlockBodyScroll() {
+  if (document.documentElement.dataset.scrollLocked !== "1") {
+    return;
+  }
+  if (document.querySelector("dialog[open]")) {
+    return;
+  }
+  const y = Number.parseInt(document.body.dataset.scrollY ?? "0", 10) || 0;
+  delete document.documentElement.dataset.scrollLocked;
+  document.documentElement.style.overflow = "";
+  document.body.style.position = "";
+  document.body.style.top = "";
+  document.body.style.left = "";
+  document.body.style.right = "";
+  document.body.style.width = "";
+  delete document.body.dataset.scrollY;
+  window.scrollTo(0, y);
+}
+
+function bindDialogScrollLock(dialog: HTMLDialogElement) {
+  dialog.addEventListener("close", () => unlockBodyScroll());
+  dialog.addEventListener("cancel", () => {
+    // unlock runs on close; keep for Safari cancel path
+    queueMicrotask(() => unlockBodyScroll());
+  });
+}
+
+function openDialog(dialog: HTMLDialogElement) {
+  lockBodyScroll();
+  dialog.showModal();
 }
 
 function initSettings() {
@@ -160,9 +280,10 @@ function initSettings() {
     checkRadio(dialog, "width", state.width);
   };
 
+  bindDialogScrollLock(dialog);
   openBtn.addEventListener("click", () => {
     syncInputs();
-    dialog.showModal();
+    openDialog(dialog);
   });
   closeBtn?.addEventListener("click", () => dialog.close());
   dialog.addEventListener("click", (event) => {
@@ -210,11 +331,12 @@ function initJump() {
 
   const open = () => {
     input.value = "";
-    dialog.showModal();
+    openDialog(dialog);
     input.focus();
     void renderJump("", results);
   };
 
+  bindDialogScrollLock(dialog);
   openBtn.addEventListener("click", open);
   closeBtn?.addEventListener("click", () => dialog.close());
   dialog.addEventListener("click", (event) => {
@@ -333,11 +455,12 @@ function matchChapters(items: CatalogItem[], query: string): CatalogItem[] {
   return [...exact, ...rest].slice(0, JUMP_LIMIT);
 }
 
-function initIndex() {
+function initIndex(signal: AbortSignal) {
   const page = document.querySelector<HTMLElement>("[data-page='index']");
   if (!page) {
     return;
   }
+  ensureWordWeightsFromPage();
   const total = Number(page.dataset.count || 0);
   const continueBtn = document.getElementById("continue") as HTMLAnchorElement | null;
   const startBtn = document.getElementById("start");
@@ -357,34 +480,38 @@ function initIndex() {
     const fraction = overallFraction(total);
     const percent = Math.round(fraction * 100);
     progress.hidden = false;
-    label.textContent = `Chapter ${state.current} of ${total}`;
+    label.textContent = `Chapter ${state.current} of ${total} · ${percent}% by words`;
     fill.style.transform = `scaleX(${fraction})`;
     if (bar) {
       bar.setAttribute("aria-valuenow", String(percent));
-      bar.setAttribute("aria-label", `${percent}% of the book`);
+      bar.setAttribute("aria-label", `${percent}% of the book by words`);
     }
   }
 
   paintIndexList("");
-  filter?.addEventListener("input", () => paintIndexList(filter.value));
+  filter?.addEventListener("input", () => paintIndexList(filter.value), { signal });
+  void loadCatalog();
 }
 
 function overallFraction(total: number) {
+  ensureWordWeightsFromPage();
+  if (wordWeights && wordWeights.size) {
+    let read = 0;
+    let words = 0;
+    for (const [chapter, weight] of wordWeights) {
+      words += weight;
+      read += clamp(state.scroll[String(chapter)] ?? 0, 0, 1) * weight;
+    }
+    return words ? clamp(read / words, 0, 1) : 0;
+  }
   if (!total) {
     return 0;
   }
-  const opened = new Set(state.opened);
-  let sum = 0;
-  for (const chapter of opened) {
-    if (chapter === state.current) {
-      continue;
-    }
-    sum += 1;
+  let read = 0;
+  for (const value of Object.values(state.scroll)) {
+    read += clamp(value, 0, 1);
   }
-  if (state.current != null) {
-    sum += clamp(state.scroll[String(state.current)] ?? 0, 0, 1);
-  }
-  return clamp(sum / total, 0, 1);
+  return clamp(read / total, 0, 1);
 }
 
 function paintIndexList(query: string) {
@@ -404,7 +531,7 @@ function paintIndexList(query: string) {
         visible += 1;
       }
       const isCurrent = chapter === state.current;
-      const isRead = state.opened.includes(chapter);
+      const isRead = (state.scroll[String(chapter)] ?? 0) >= READ_THRESHOLD;
       link.classList.toggle("is-current", isCurrent);
       link.classList.toggle("is-read", isRead && !isCurrent);
       if (isCurrent) {
@@ -421,7 +548,7 @@ function paintIndexList(query: string) {
   });
 }
 
-function initChapter() {
+function initChapter(signal: AbortSignal) {
   const page = document.querySelector<HTMLElement>("[data-page='chapter']");
   if (!page) {
     return;
@@ -439,7 +566,11 @@ function initChapter() {
 
   const bar = document.getElementById("read-progress-bar");
   const progress = document.getElementById("read-progress");
+  const label = document.getElementById("read-progress-label");
   const header = document.getElementById("site-header");
+  const dock = document.getElementById("chapter-dock");
+  const topBtn = document.getElementById("dock-top");
+  const bottomBtn = document.getElementById("dock-bottom");
 
   const maxScroll = () => Math.max(0, document.documentElement.scrollHeight - window.innerHeight);
   const fraction = () => {
@@ -448,10 +579,19 @@ function initChapter() {
   };
   const paint = () => {
     const value = fraction();
+    const percent = Math.round(value * 100);
     if (bar) {
       bar.style.transform = `scaleX(${value})`;
     }
-    progress?.setAttribute("aria-valuenow", String(Math.round(value * 100)));
+    if (label) {
+      label.hidden = false;
+      label.textContent = `${percent}%`;
+    }
+    if (progress) {
+      progress.hidden = false;
+      progress.setAttribute("aria-valuenow", String(percent));
+      progress.setAttribute("aria-valuetext", `${percent}% of chapter`);
+    }
   };
   const persist = () => {
     state.scroll[String(chapter)] = fraction();
@@ -477,6 +617,25 @@ function initChapter() {
   }
   persist();
   paint();
+  header?.classList.remove("is-hidden");
+  dock?.classList.remove("is-hidden");
+
+  topBtn?.addEventListener(
+    "click",
+    () => {
+      const behavior = window.matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth";
+      window.scrollTo({ top: 0, behavior });
+    },
+    { signal },
+  );
+  bottomBtn?.addEventListener(
+    "click",
+    () => {
+      const behavior = window.matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth";
+      window.scrollTo({ top: maxScroll(), behavior });
+    },
+    { signal },
+  );
 
   let lastY = window.scrollY;
   let ticking = false;
@@ -491,18 +650,31 @@ function initChapter() {
         const y = window.scrollY;
         paint();
         persistSoon();
-        header?.classList.toggle("is-hidden", y > lastY && y > 72);
+        const hide = y > lastY && y > 72;
+        header?.classList.toggle("is-hidden", hide);
+        dock?.classList.toggle("is-hidden", hide);
         lastY = y;
         ticking = false;
       });
     },
-    { passive: true },
+    { passive: true, signal },
   );
-  window.addEventListener("resize", () => {
-    paint();
-    persistSoon();
+  window.addEventListener(
+    "resize",
+    () => {
+      paint();
+      persistSoon();
+    },
+    { signal },
+  );
+  window.addEventListener("pagehide", persist, { signal });
+  signal.addEventListener("abort", () => {
+    if (persistTimer) {
+      window.clearTimeout(persistTimer);
+      persistTimer = 0;
+    }
+    persist();
   });
-  window.addEventListener("pagehide", persist);
 }
 
 function initKeys() {

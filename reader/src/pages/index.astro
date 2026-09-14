@@ -1,5 +1,7 @@
 ---
+import { Picture } from "astro:assets";
 import Base from "../layouts/Base.astro";
+import cover from "../assets/cover.jpg";
 import { allChapters, chapterHref, groupedChapters, toIndex, withBase } from "../lib/chapters";
 
 const entries = await allChapters();
@@ -7,12 +9,22 @@ const chapters = toIndex(entries);
 const groups = groupedChapters(chapters);
 const first = entries[0];
 const firstHref = first ? chapterHref(first.data.chapter) : withBase("");
+const wordMap = Object.fromEntries(entries.map((entry) => [String(entry.data.chapter), entry.data.wordCount]));
 ---
 
-<Base title="Murim Login">
-  <main class="wrap" data-page="index" data-count={chapters.length}>
+<Base title="Murim Login" description="Read Murim Login — a martial-world web novel translation.">
+  <main class="wrap" data-page="index" data-count={chapters.length} data-words={JSON.stringify(wordMap)}>
     <section class="hero">
-      <img class="cover-image" src={withBase("cover.jpg")} alt="Murim Login cover" />
+      <Picture
+        class="cover-image"
+        src={cover}
+        formats={["avif", "webp"]}
+        widths={[320, 480, 720]}
+        sizes="(max-width: 40rem) min(70vw, 16rem), 16rem"
+        alt="Murim Login cover"
+        loading="eager"
+        fetchpriority="high"
+      />
       <h1>Murim Login</h1>
       <div class="cta-row">
         <a id="continue" class="button" hidden href={firstHref}>Continue reading</a>
