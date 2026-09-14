@@ -18,9 +18,9 @@ const { previous, next } = Astro.props;
         <span class="nav-title">{previous.title}</span>
       </a>
     ) : (
-      <a data-nav="prev" href="#" aria-disabled="true">
+      <span class="nav-disabled" aria-disabled="true">
         <span class="nav-dir">Previous</span>
-      </a>
+      </span>
     )
   }
   {
@@ -30,9 +30,9 @@ const { previous, next } = Astro.props;
         <span class="nav-title">{next.title}</span>
       </a>
     ) : (
-      <a data-nav="next" href="#" aria-disabled="true">
+      <span class="nav-disabled" aria-disabled="true">
         <span class="nav-dir">Next</span>
-      </a>
+      </span>
     )
   }
 </nav>
