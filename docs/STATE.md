@@ -1,18 +1,15 @@
 # Translation State
 
-- Last completed: 69
-- Next chapter: 70
-- Current block: 65–69 (5/5)
-- Latest translation: `translations/0069.md`
-- Latest summary: `summaries/beats/0069.md`
-- Safe profiles through: chapter 69
+- Last completed: 70
+- Next chapter: 71
+- Current block: 70–74 (1/5)
+- Latest translation: `translations/0070.md`
+- Latest summary: `summaries/beats/0070.md`
+- Safe profiles through: chapter 70
 
 ## Current Block
 
-- Jin Wikyung wakes from a nightmare and hears steel clashing near Jin Mukyung's residence, where Taekyung has been staying. He discovers Mukyung relentlessly striking Taekyung with his scabbard and realizes that the beating is a harsh form of training.
-- After Taekyung is knocked unconscious, Wikyung observes that Mukyung is impressed by Taekyung's stamina and grit despite denying that he praised him. Wikyung decides that the difficult cohabitation will benefit both brothers, while Mukyung agrees to continue it.
-- Taekyung wakes the next morning and adopts formal speech to avoid further punishment. Mukyung begins formally training him, offering to rebuild his inadequate martial arts from the basics after Taekyung sincerely declares that he wants to become stronger.
-- The System creates the Peak-Grade Quest '[Trial? Training?],' requiring Taekyung to train under Mukyung until he earns Mukyung's recognition within the remaining ten-day period. Mukyung orders Taekyung to bring his spear for real-combat training, and the System restricts Logout for the duration of the Quest.
+- Jin Taekyung endures five spars with Jin Mukyung over two hours and is knocked unconscious five times, yet lasts two hundred exchanges in the final spar. Mukyung is astonished by Taekyung's spear instincts, which resemble those of a seasoned wandering martial artist, and is unable to reconcile them with Taekyung's short training period. After recovering, Taekyung compares Mukyung favorably against Jopil, recommits to the harsh training required to earn Mukyung's recognition, and watches Mukyung practice the Falling Flow Sword. Taekyung correctly identifies its waterfall-like quality, after which Mukyung declares that he will teach and Taekyung will obey.
 
 ## Open Questions
 
@@ -30,7 +27,7 @@
 - Retain Great Hero for 대협 and Ghost Sword for 귀검.
 - Use Sleep Mode for 수면 모드 and Medicine King Hall Master for 약왕당주.
 - Use Return for 귀환, Returnee for 귀환자, Ren and Du meridians for 임독양맥, and Heart Demon for 심마.
-- Use fist-and-kicking technique for 권각술 and recognition for 인정 in the Quest mission.
+- Use fist-and-kicking technique for 권각술 and recognition for 인정; render 낙류검 as Falling Flow Sword, 질풍십이권 as Twelve Gale Fists, and 화염신장 as Flame Divine Palm.
 - Render 두 시진 as two hours and 아스모데우스 as Asmodeus.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
