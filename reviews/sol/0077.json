@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "You know Miss Song too, right?",
+      "defect": "This reverses the subject and object. Im Kkeokjeong is asking Miss Song whether she has heard about Taekyung, not asking Taekyung whether he knows Miss Song.",
+      "id": "F01",
+      "rationale": "송 양 is the person being addressed, while the contextually omitted object is Jin Taekyung.",
+      "replacement": "You’ve heard about him too, right, Miss Song?",
+      "severity": "critical",
+      "source": "송 양도 알지?"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Hunter Im is married, right?”",
+      "defect": "The question reverses Im Kkeokjeong’s marital status: 미혼 means unmarried, which sets up the surprised response that he is actually married with two children.",
+      "id": "F02",
+      "rationale": "The source explicitly asks whether he is unmarried; the following 기혼입니다 provides the correction.",
+      "replacement": "“Hunter Im is unmarried, right?”",
+      "severity": "critical",
+      "source": "임 헌터님, 미혼 맞죠?"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Miss Song?”",
+      "defect": "The translation makes Taekyung appear merely to repeat the surname-based address already used throughout the scene, obscuring that he has just realized her given name is Song and prompting her full-name introduction.",
+      "id": "F03",
+      "rationale": "송이 씨 addresses her by her given name, Songi; because the established English name renders both parts as Song, the distinction must be made explicit for the reveal and reaction to remain intelligible.",
+      "replacement": "“Song is your first name?”",
+      "severity": "major",
+      "source": "“송이 씨요?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Jinho hyung, who called himself a dating expert, had always stressed that I should use a deep, resonant voice with a woman I liked.",
+      "defect": "“Dating expert” does not follow the binding rendering of 고수 as “master.”",
+      "id": "F04",
+      "rationale": "The replacement uses the required terminology while preserving the comic boast and natural English.",
+      "replacement": "Jinho hyung, a self-proclaimed master of romance, had always stressed that I should use a deep, resonant voice with a woman I liked.",
+      "severity": "minor",
+      "source": "자칭 연애 고수라는 진호 형은 마음에 드는 여성에게는 중저음을 사용하라고 누누이 강조해 왔다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "And when you bite into it, the juices run all over your mouth.",
+      "defect": "“All over your mouth” can suggest juices running over the outside of the face, whereas 입 안에서 explicitly locates them inside the mouth.",
+      "id": "F05",
+      "rationale": "The replacement preserves the exaggerated gush of juices without altering its physical location.",
+      "replacement": "And when you bite into it, the juices flood your mouth.",
+      "severity": "minor",
+      "source": "고기를 씹으면 육즙이 아주 그냥 입 안에서 주르륵."
+    },
+    {
+      "confidence": 0.96,
+      "current": "*Oh, Miss Song. You're a paragon of virtue.*",
+      "defect": "The paraphrase removes the deliberate “ethics textbook” wordplay and turns the absurd punchline into ordinary praise.",
+      "id": "F06",
+      "rationale": "도덕책 literally means “ethics textbook” and is used here as a pun on 도대체; a brief footnote preserves the joke without inventing an unrelated English one.",
+      "replacement": "*Oh, Miss Song. You’re an ethics textbook.*[^2]\n\n[^2]: In Korean, “ethics textbook” is a pun on a phrase meaning “what on earth are you?”",
+      "severity": "minor",
+      "source": "‘아, 송이 씨. 당신은 도덕책.’"
+    },
+    {
+      "confidence": 0.97,
+      "current": "*This is perfect. Someone with strong survival skills is exactly my type.*",
+      "defect": "“Survival skills” suggests wilderness or emergency competence rather than the practical resourcefulness and ability to support oneself conveyed by 생활력.",
+      "id": "F07",
+      "rationale": "The replacement restores Taekyung’s giddy rhetorical reaction and the ordinary-life competence described by 생활력.",
+      "replacement": "*What am I going to do? Even her resourcefulness is exactly my type.*",
+      "severity": "minor",
+      "source": "어쩜 좋아. 생활력 강한 것도 딱 내 스타일이야."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Miss Song. Don't worry about them. Listen to me.”",
+      "defect": "“Don’t worry about them” changes the pragmatic cue from disregarding the interruption to feeling no concern about the other people.",
+      "id": "F08",
+      "rationale": "신경 쓰지 말고 here means to pay the interrupters no attention.",
+      "replacement": "“Miss Song. Ignore them and listen to me.”",
+      "severity": "minor",
+      "source": "“송이 씨. 저쪽은 신경 쓰지 말고 내 말 들어요.”"
+    }
+  ],
+  "summary": "Two critical subject and marital-status errors, plus several localized terminology, humor, and wording issues.",
+  "version": 1
+}

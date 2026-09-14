@@ -1,0 +1,31 @@
+{
+  "chapter": 77,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.195,
+    "source_characters": 6056,
+    "source_paragraphs": 221,
+    "translation_characters": 13293,
+    "translation_paragraphs": 220
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "운기조식",
+        "preferred": "circulate one's qi"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "상태",
+        "preferred": "Status"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
