@@ -1,0 +1,106 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "“Do I know you?”",
+      "defect": "The subject and object are reversed: the approaching man asks whether Taekyung knows him, not whether he knows Taekyung.",
+      "id": "F01",
+      "rationale": "저 is the speaker and the omitted object is the addressee, so the question is whether Taekyung recognizes the man.",
+      "replacement": "“Do you know me?”",
+      "severity": "critical",
+      "source": "“혹시 저 아세요?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Anyway, it’s really good to see you. You were pretty upset when I transferred schools and stopped contacting you, weren’t you?”",
+      "defect": "The translation reverses both who transferred and who felt hurt. Taekyung was the one who transferred, while Jihoon says that he was upset when they lost contact.",
+      "id": "F02",
+      "rationale": "너 전학 가자마자 identifies the addressee, Taekyung, as the person who transferred; Jihoon’s following apology and Taekyung’s explanation confirm the exchange.",
+      "replacement": "“Anyway, it’s really good to see you. You know I was really upset when we lost touch right after you transferred, right?”",
+      "severity": "critical",
+      "source": "“아무튼 진짜 반갑다. 너 전학 가자마자 연락 끊겨서 엄청 섭섭했던 거 아냐?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“What are you apologizing for? It was my fault for not contacting you first. But do you still live around here?”",
+      "defect": "“First” changes the chronology and assigns responsibility for initiating contact; 진작 means sooner or long ago.",
+      "id": "F03",
+      "rationale": "The source has Taekyung blame himself for failing to reconnect earlier, not specifically for failing to make the first attempt.",
+      "replacement": "“What are you apologizing for? It was my fault for not getting in touch sooner. But do you still live around here?”",
+      "severity": "major",
+      "source": "“미안하긴 무슨. 진작 연락 안 한 내 잘못이지. 근데 너 아직도 여기 사냐?”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Now that my sense of qi had reached a higher realm, I could assess people even without using the System.",
+      "defect": "The named ability later rendered as Qi Sense is translated here as a generic faculty, creating inconsistent terminology.",
+      "id": "F04",
+      "rationale": "기감 is the same ability subsequently shown as [기감] in the System notice and should retain one established English rendering.",
+      "replacement": "Now that my Qi Sense had reached a higher realm, I could assess people even without using the System.",
+      "severity": "minor",
+      "source": "기감이 경지에 이르자 굳이 시스템을 이용하지 않더라도 상대방을 파악할 수 있게 되었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "I could even use my sense of qi to read his Level, but I didn’t feel like going that far.",
+      "defect": "The named ability is again rendered descriptively rather than consistently as Qi Sense.",
+      "id": "F05",
+      "rationale": "This explicitly describes using 기감 as an ability to read a Level, matching the later System term Qi Sense.",
+      "replacement": "I could even use Qi Sense to read his Level, but I didn’t feel like going that far.",
+      "severity": "minor",
+      "source": "기감을 사용해서 레벨을 읽어 낼 수도 있지만 굳이 그렇게까지 하고픈 마음은 들지 않았다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "I had nothing to say to that. As I clicked my tongue, Jihoon held out a business card.",
+      "defect": "Clicking one’s tongue is a different physical action and commonly conveys disapproval; the source says Taekyung smacks his lips while at a loss for words.",
+      "id": "F06",
+      "rationale": "입맛을 다시다 describes moving or smacking the lips, not clicking the tongue.",
+      "replacement": "I had nothing to say to that. As I stood there smacking my lips, Jihoon held out a business card.",
+      "severity": "minor",
+      "source": "그렇게 말하니까 할 말이 없다. 입맛을 다시는 내게 지훈이가 명함을 내밀었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "No, that didn’t matter now. Song Song was in my life.",
+      "defect": "The personal name 송이 is incorrectly split and duplicated as “Song Song,” while the respectful 씨 is lost.",
+      "id": "F07",
+      "rationale": "송이 is the person’s name, Songi, and 씨 is a polite form of address.",
+      "replacement": "No, that didn’t matter now that I had Ms. Songi.",
+      "severity": "major",
+      "source": "젠장. 일찍 좀 얘기해 주지……가 아니라, 지금은 송이 씨가 있으니 상관없다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The current owner has several buildings, but he’s putting this one up as a quick sale because he’s planning to build a skyscraper in Incheon.",
+      "defect": "“Skyscraper” adds a scale not present in the source.",
+      "id": "F08",
+      "rationale": "빌딩 means a building here; nothing specifies that it will be a skyscraper.",
+      "replacement": "The current owner has several buildings, but he’s putting this one up as a quick sale because he’s planning to put up another building in Incheon.",
+      "severity": "minor",
+      "source": "지금 집주인이 건물 몇 개 가지고 있는 양반인데, 이번에 인천에 빌딩 올린다고 급매로 내놨어요."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Exactly what you saw online. Three billion eight hundred million won.”",
+      "defect": "The price is overstated by 420 million won.",
+      "id": "F09",
+      "rationale": "33억 8천 denotes 3.38 billion won, not 3.8 billion won.",
+      "replacement": "“Exactly what you saw online. 3.38 billion won.”",
+      "severity": "critical",
+      "source": "“인터넷에서 보신 그대로. 33억 8천.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "No target can be explored with **Qi Sense**.",
+      "defect": "“Explored” is an unnatural and misleading verb for a detection ability scanning for targets.",
+      "id": "F10",
+      "rationale": "탐색 in this System notice means searching for or detecting a target, not exploring one.",
+      "replacement": "There are no targets for **Qi Sense** to detect.",
+      "severity": "minor",
+      "source": "- [기감]으로 탐색할 수 있는 대상이 없습니다."
+    }
+  ],
+  "summary": "Two subject reversals alter the reunion, and the house price is overstated by 420 million won. Additional issues affect contact chronology, a character name, an added building scale, action fidelity, and Qi Sense terminology.",
+  "version": 1
+}

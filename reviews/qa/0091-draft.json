@@ -1,0 +1,48 @@
+{
+  "chapter": 91,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.308,
+    "source_characters": 5959,
+    "source_paragraphs": 183,
+    "translation_characters": 13752,
+    "translation_paragraphs": 188
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "numbers",
+      "details": {
+        "values": [
+          "10"
+        ]
+      },
+      "message": "Arabic numerals from the source are absent"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "지황",
+        "romanization": "jihwang"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "명동",
+        "romanization": "myeongdong"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "삼계탕",
+        "romanization": "samgyetang"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
