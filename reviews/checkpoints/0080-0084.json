@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Taekyung openly identifies himself as both a Hunter and a Murim martial artist.",
+      "defect": "This overstates what Taekyung reveals aloud. He calls himself only “someone with two jobs”; the identification of those jobs appears in narration, so the summary prematurely discloses knowledge to the other characters.",
+      "id": "C01",
+      "rationale": "The replacement preserves the distinction between Taekyung’s spoken answer and information available only through his narration.",
+      "replacement": "Taekyung calls himself “someone with two jobs”; only the narration identifies those jobs as Hunter and Murim martial artist.",
+      "severity": "major",
+      "source": "checkpoint summary, Plot, final sentence"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Taekyung’s identity as both a Hunter and Murim martial artist is now known to Changsoo and the surrounding raid members.",
+      "defect": "The chapter does not show Changsoo or the raid members learning the nature of Taekyung’s two jobs.",
+      "id": "C02",
+      "rationale": "Keeping the jobs undisclosed prevents the continuity record from converting narrator-only information into character knowledge.",
+      "replacement": "Taekyung told Changsoo and the surrounding raid members only that he has two jobs; they do not yet know that those jobs are Hunter and Murim martial artist.",
+      "severity": "major",
+      "source": "checkpoint summary, Continuity, final bullet"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Taekyung defeated all eight Minotaurs, received a Level Up, and established that Changsoo owes him 4 billion won and all byproducts. Changsoo is the Sangdong Guild Master’s son, is nicknamed Horndog, agreed to pay and apologize after drawing his sword, and learned that Taekyung works as both a Hunter and a Murim martial artist.",
+      "defect": "The active state incorrectly records narrator-only information as something Changsoo learned.",
+      "id": "C03",
+      "rationale": "The corrected state retains every established development without propagating a premature reveal into future chapters.",
+      "replacement": "Taekyung defeated all eight Minotaurs, received a Level Up, and established that Changsoo owes him 4 billion won and all byproducts. Changsoo is the Sangdong Guild Master’s son, is nicknamed Horndog, agreed to pay and apologize after drawing his sword, and heard Taekyung describe himself only as someone with two jobs.",
+      "severity": "major",
+      "source": "Durable state, final active_continuity entry"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Team Leader Choi had prepared this equipment specifically for Im Kkeokjeong, a D-rank Hunter.",
+      "defect": "This identifies Im Kkeokjeong as D-rank, contradicting Chapter 81 and the checkpoint state, which identify him as the party’s E-rank Hunter.",
+      "id": "C04",
+      "rationale": "The replacement makes Kkeokjeong’s rank consistent across the reading copies, summary, and active continuity.",
+      "replacement": "Team Leader Choi had prepared this equipment specifically for Im Kkeokjeong, an E-rank Hunter.",
+      "severity": "major",
+      "source": "Chapter 80, equipment discussion after the Black Drake item windows"
+    },
+    {
+      "confidence": 1.0,
+      "current": "> Against bovine-type monsters, All Stats +20.\n\n\n\n> **System**\n>\n> **Item Window**\n>\n> **Matador’s Shield**",
+      "defect": "The consecutive armor and shield notices are split into separate System panels even though no prose intervenes.",
+      "id": "C05",
+      "rationale": "Consecutive System notices must remain in one blockquote window; removing the second heading and continuing the existing blockquote restores the required format.",
+      "replacement": "> Against bovine-type monsters, All Stats +20.\n>\n> **Item Window**\n>\n> **Matador’s Shield**",
+      "severity": "minor",
+      "source": "Chapter 82, consecutive Matador item windows"
+    },
+    {
+      "confidence": 0.98,
+      "current": "He had guessed it exactly.",
+      "defect": "The third-person pronoun conflicts with the immediately following first-person statement that the narrator made the prediction.",
+      "id": "C06",
+      "rationale": "The replacement restores Jin Taekyung’s first-person viewpoint and gives the sentence the intended subject.",
+      "replacement": "I had guessed it exactly.",
+      "severity": "minor",
+      "source": "Chapter 80, space-expansion suitcase reveal"
+    },
+    {
+      "confidence": 1.0,
+      "current": "For one moment, it seemed as if the half-human, half-beast creature with a human body and a bull’s head were nothing more than an ordinary person.",
+      "defect": "The singular subject “creature” incorrectly takes the plural verb “were.”",
+      "id": "C07",
+      "rationale": "The replacement corrects subject-verb agreement without changing the image or meaning.",
+      "replacement": "For one moment, it seemed as if the half-human, half-beast creature with a human body and a bull’s head was nothing more than an ordinary person.",
+      "severity": "minor",
+      "source": "Chapter 84, first Minotaur’s beheading"
+    }
+  ],
+  "summary": "The reading copies are largely consistent and preserve the packet’s voice and terminology. Actionable issues are a premature identity reveal repeated across the summary and active state, one Hunter-rank contradiction, one split System panel, and two localized prose errors.",
+  "version": 1
+}
