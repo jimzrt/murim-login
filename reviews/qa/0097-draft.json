@@ -1,0 +1,72 @@
+{
+  "chapter": 97,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.359,
+    "source_characters": 5791,
+    "source_paragraphs": 170,
+    "translation_characters": 13661,
+    "translation_paragraphs": 179
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "unused_footnotes",
+      "details": {
+        "unused_definitions": [
+          "1"
+        ]
+      },
+      "message": "translation contains unused footnote definitions"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "상태",
+        "preferred": "Status"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "등급",
+        "preferred": "Grade"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "재각성",
+        "preferred": "reawakening"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "호호호",
+        "romanization": "hohoho"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "상동",
+        "romanization": "sangdong"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "고양",
+        "romanization": "goyang"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}

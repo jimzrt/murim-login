@@ -1,0 +1,106 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "“About 3.7 billion won. Thirty billion of that will be spent on buying the new house.”",
+      "defect": "The second amount is inflated tenfold: 30억 won is three billion won, not thirty billion.",
+      "id": "F01",
+      "rationale": "The source gives a balance of approximately 3.7 billion won and says three billion won of it will be spent on the house.",
+      "replacement": "“About 3.7 billion won. Three billion of that will go toward buying the new house.”",
+      "severity": "critical",
+      "source": "“약 37억 정도 됩니다. 이 중에 30억 원은 새로운 집 매입 비용으로 나갈 거고요.”"
+    },
+    {
+      "confidence": 0.95,
+      "current": "“Wouldn’t you? He lived as an F-rank Hunter, then reawakened and suddenly started getting huge sums of money handed to him. Of course he’d be feeling pretty damn good about himself.”",
+      "defect": "The draft weakens the established reawakening terminology and renders 가오가 확 살다 as merely feeling good rather than his swagger or ego swelling.",
+      "id": "F02",
+      "rationale": "The source explicitly names reawakening and characterizes the sudden money as boosting his swagger, which motivates the observers’ dismissive interpretation of his behavior.",
+      "replacement": "“Can you blame him? He lived as an F-rank Hunter, then after his reawakening, big chunks of money started rolling in. Of course his ego would swell.”",
+      "severity": "major",
+      "source": "“오죽하겠습니까. F급으로 살다가 재각성 후 목돈 턱턱 들어오니까 가오가 확 살겠죠.”"
+    },
+    {
+      "confidence": 0.88,
+      "current": "—I have a few places, but… as you know, this neighborhood overlaps with a safety zone, so it’s a little expensive.",
+      "defect": "Although “overlaps” is close, it is awkward and leaves the geographic relationship unclear; the source says the neighborhood straddles the safety-zone boundary.",
+      "id": "F03",
+      "rationale": "걸쳐져 있다 describes extending across or straddling an area, not simply being wholly inside it.",
+      "replacement": "—I do have a few, but… as you know, this neighborhood straddles a safety zone, so it’s a little expensive.",
+      "severity": "major",
+      "source": "- 몇 개 있긴 한데…… 알다시피 이 동네가 안전 구역에 걸쳐져 있어서 좀 비싸."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Oh my, you’re a Hunter? I knew you looked fit. What rank are you? Ah, is it rude of me to ask something like that?”\n\n—Somewhere around there. It’s not very high. C-rank.\n\n“Oh my, oh my. You must make good money. Can I feel that arm? Oh-ho-ho!”",
+      "defect": "Two lines in the intercepted conversation incorrectly switch from the established em-dash presentation to ordinary quotation marks.",
+      "id": "F04",
+      "rationale": "All three source lines belong to the same transmitted conversation and should retain the same dialogue formatting as the surrounding intercepted speech.",
+      "replacement": "—Oh my, you’re a Hunter? I knew you looked fit. What rank are you? Ah, is it rude of me to ask something like that?\n\n—Somewhere around there. It’s not very high. C-rank.\n\n—Oh my, oh my. You must make good money. Can I feel that arm? Oh-ho-ho!",
+      "severity": "minor",
+      "source": "- 어머, 헌터였어? 어쩐지 몸 좋더라니. 등급이 어떻게 돼? 아, 이런 거 물어보면 좀 주책인가?\n\n- 뭐 그럭저럭? 별로 안 높아요. C급.\n\n- 어머, 어머. 돈 잘 벌겠네. 팔뚝 한 번 만져 봐도 돼? 오호호!"
+    },
+    {
+      "confidence": 0.97,
+      "current": "—I thought he might be a gangster, so I couldn’t say a word.",
+      "defect": "The draft omits the comic and emphatic force of 찍소리 못 했다, which means she could not so much as squeak.",
+      "id": "F05",
+      "rationale": "찍소리 preserves both her intimidation and the deliberately vivid, colloquial register.",
+      "replacement": "—I thought he might be a gangster, so I couldn’t so much as squeak.",
+      "severity": "minor",
+      "source": "- 조폭인가 싶어서 찍소리 못 했지."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Didn’t you hear me? Repeat my order, then get it done!”\n\n“…Yes.”\n\n“…We’ll do it.”",
+      "defect": "The draft turns the second subordinate’s reluctant verbatim repetition into a normal promise, losing the military command-and-response register and the joke built on 실시.",
+      "id": "F06",
+      "rationale": "복명복창 orders the subordinates to repeat the command back, and the second subordinate specifically echoes 실시 rather than paraphrasing compliance.",
+      "replacement": "“Didn’t you hear me? Repeat the order back. Execute!”\n\n“…Yes.”\n\n“…Execute.”",
+      "severity": "major",
+      "source": "“내 말 못 들었어? 복명복창한다, 실시!”\n\n“……네.”\n\n“……실시.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Kids these days. They treat the Team Leader like a piece of shit.”",
+      "defect": "The draft changes the direct second-person rebuke aimed at the two subordinates into a third-person complaint about unspecified people and adds an absent generational reference.",
+      "id": "F07",
+      "rationale": "자식들이 addresses the men in front of him, and 팀장 알기를 아주 개똥으로 알아요 directly accuses them of treating their Team Leader like dog shit.",
+      "replacement": "“You bastards have gotten way too lax. You treat your Team Leader like dog shit.”",
+      "severity": "critical",
+      "source": "“자식들이 빠져 가지고 말이야. 팀장 알기를 아주 개똥으로 알아요.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "*Whether it’s an ajumma or an ajusshi, people who grow old without growing up are all alike when it comes to pestering young people.*",
+      "defect": "“Pestering” loses the flirtatious or sexually importunate sense of 치근덕거리다 and weakens Taekyung’s comparison between older men and women hitting on younger people.",
+      "id": "F08",
+      "rationale": "In the immediate context of touching his arm and giving him a sticky look, 치근덕거리다 means making unwanted flirtatious advances, not generic annoyance.",
+      "replacement": "*Whether it’s an ajumma or an ajusshi, people who grow old without growing up are all alike when it comes to hitting on younger people.*",
+      "severity": "major",
+      "source": "‘아줌마나 아저씨나, 철없이 나이 먹으면 젊은 애한테 치근덕거리는 건 비슷하다니까.’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "I greeted Kim Gwondong, who was pretending to recognize me.",
+      "defect": "The draft adds that Kim Gwondong only pretends to recognize Taekyung; the source says he initiates a familiar acknowledgment or greeting.",
+      "id": "F09",
+      "rationale": "알은체를 해 오다 means approaching or addressing someone as an acquaintance. It does not state that the recognition itself is feigned.",
+      "replacement": "I returned Kim Gwondong’s familiar greeting.",
+      "severity": "critical",
+      "source": "나는 알은체를 해 오는 김권동에게 인사를 건넸다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Young man, what would you like to drink? Coffee? Yulmu tea? Cola?”",
+      "defect": "The existing yulmu-tea footnote is never referenced, leaving an unused Markdown footnote definition.",
+      "id": "F10",
+      "rationale": "Adding the marker at the term’s occurrence correctly connects the useful cultural explanation already present at the end of the draft.",
+      "replacement": "“Young man, what would you like to drink? Coffee? Yulmu tea?[^1] Cola?”",
+      "severity": "minor",
+      "source": "“젊은 분이 오셨네. 뭐 마실래요? 커피? 율무차? 콜라?”"
+    }
+  ],
+  "summary": "The draft contains one consequential monetary error, several altered subjects or actions, and localized losses of register, pragmatic meaning, and Markdown consistency.",
+  "version": 1
+}
