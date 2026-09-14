@@ -1,17 +1,16 @@
 # Translation State
 
-- Last completed: 77
-- Next chapter: 78
-- Current block: 75–79 (3/5)
-- Latest translation: `translations/0077.md`
-- Latest summary: `summaries/beats/0077.md`
-- Safe profiles through: chapter 77
+- Last completed: 78
+- Next chapter: 79
+- Current block: 75–79 (4/5)
+- Latest translation: `translations/0078.md`
+- Latest summary: `summaries/beats/0078.md`
+- Safe profiles through: chapter 78
 
 ## Current Block
 
-- Jin Taekyung meets Song Song at Sooni's Super and immediately becomes infatuated with her. He gives an awkwardly detailed self-introduction while Im Kkeokjeong encourages him and Team Leader Choi and Butler Kim silently judge the exchange.
-- Song Song prepares the Guild's meal and reveals that she worked for two years at a barbecue restaurant while in high school. Taekyung tries to court her, misreads her concern about the hot grill as romantic interest, and attempts to confess.
-- Team Leader Choi repeatedly interrupts Taekyung's confession by turning the occasion into a celebration of Taekyung's first day as a Guild member. Song Song joins the toast, while Choi and Butler Kim privately conclude that Taekyung and Im Kkeokjeong are disastrous at romance.
+- At the Peace Guild drinking gathering, Miss Song becomes heavily intoxicated. Team Leader Choi reveals that he formerly worked as a Team Leader for the Ares Guild and that Song Song was a member of his team.
+- Butler Kim reveals that he is a retired mage and former Hunter, then uses magic to cook the meat. He and Taekyung discover that they trained at Nonsan's 28th Regiment, 1st Battalion. Team Leader Choi establishes Butler Kim as the Peace Guild's Guild Master and himself as Team Leader, while Im Kkeokjeong and Miss Song largely ignore the explanation.
 
 ## Open Questions
 
@@ -22,7 +21,7 @@
 - The reason the System displayed the same 2-hour-22-minute Time Limit twice remains unexplained.
 - The nature of the minor misunderstanding that injured Childeuk remains undisclosed.
 - Taekyung's prior relationship with Lee Seowol and the missing details of his memories about her remain unclear.
-- Song Song's full background and capabilities remain mostly unrevealed, and it is unclear whether she heard Taekyung's interrupted confession.
+- Butler Kim's former Hunter rank and background remain unclear, and it is unclear whether Song Song heard Taekyung's interrupted confession.
 
 ## Exceptional Decision
 
@@ -33,7 +32,7 @@
 - Use Return for 귀환, Returnee for 귀환자, Ren and Du meridians for 임독양맥, Heart Demon for 심마, Paralysis Acupoint for 마혈, and Mute Acupoint for 아혈.
 - Use fist-and-kicking technique for 권각술 and recognition for 인정; render 낙류검 as Falling Flow Sword, 질풍십이권 as Twelve Gale Fists, 화염신장 as Flame Divine Palm, and 분근착골 as Tendon-Splitting and Bone-Twisting.
 - Render 비급 제작 as Martial Arts Manual Creation, 맷집 as Toughness, 천무지체 as Heavenly Martial Physique, 장칠득 as Jang Childeuk, Martial Artist Jang for 장 무인, 인의예지 as benevolence, righteousness, propriety, and wisdom, 호환 as killed by a tiger, 일각 as fifteen minutes, and 모태 솔로 as lifelong single; use “Let's eat noodles” for 국수 먹자 with a cultural footnote.
-- Use Squad Leader for 조장님, Third Young Master for 삼공자님, Mujin for 무진아, seventh-tier student for 내신 칠 등급, Team Leader Choi for 최 팀장, Designer-Brand Junkie for 명품충, Qi Sense for 기감, Peace Guild for 평화, Essence of the Himalayas for 히말라야의 정수, Sooni's Super for 순이네 수퍼, pyeong for 평당, Song Song for 송송이, Miss Song for 송이 씨, and Taurus for 황소자리.
+- Use Squad Leader for 조장님, Third Young Master for 삼공자님, Mujin for 무진아, seventh-tier student for 내신 칠 등급, Team Leader Choi for 최 팀장, Designer-Brand Junkie for 명품충, Qi Sense for 기감, Peace Guild for 평화, Essence of the Himalayas for 히말라야의 정수, Sooni's Super for 순이네 수퍼, Song Song for 송송이, Miss Song for 송이 씨, Taurus for 황소자리, Ares Guild for 아레스 길드, Senior for 선배님, Young Master for 도련님, and Guild Master for 길드장님.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

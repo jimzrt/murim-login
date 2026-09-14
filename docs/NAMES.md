@@ -65,3 +65,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 순이 | **Sooni** | Former owner of Sooni's Super. |
 | 순이네 수퍼 | **Sooni's Super** | The Peace Guild's Guild house. |
 | 송 양 | **Miss Song** | The Peace Guild's final member; full identity not yet given. |
+| 아레스 | **Ares Guild** | The leading Guild in Korea; formerly employed Team Leader Choi and Song Song. |
+| 논산 | **Nonsan** | Location of Korea's Hunter training center. |
