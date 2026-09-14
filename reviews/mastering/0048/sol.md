@@ -1,6 +1,6 @@
 # Chapter 48
 
-“Y-you? What are you doing there?”
+“Y-you? What are you doing here?”
 
 “Good question. What am I doing here?”
 
@@ -14,13 +14,13 @@ Seeing him like that felt like ten years of constipation finally letting go. Ah,
 
 “Anyway, back up a little. You’re not the only one here, you know.”
 
-I took a step forward, and Kim Sangshik backed away weakly.
+I took a step forward, and Kim Sangshik retreated weakly.
 
 The other scouts surrounded me with business cards in hand.
 
 “Sangdong Guild. We promise you the best possible treatment.”
 
-“Instead of doing this here, why don’t we move somewhere private and talk…”
+“Why don’t we move somewhere private and discuss this…?”
 
 Recruitment offers poured in from every direction. In no time at all, I had dozens of business cards in my hands.
 
@@ -44,7 +44,7 @@ This was only the beginning.
 
 With the System’s power, I could keep growing.
 
-That was how I would step onto a new path faster than any other Hunter.
+I would set out down a new path faster than any other Hunter.
 
 “Sir, name your terms and we’ll meet them, no matter what.”
 
@@ -56,9 +56,9 @@ No. Don’t wait. I’m not going to call.
 
 “All right, everyone, calm down.”
 
-Association security guards stepped in and blocked the scouts who kept clinging to me.
+Association security guards stepped in and held back the scouts who kept crowding around me.
 
-They didn’t usually go that far for a C-rank Hunter, but I was such a rare case that I seemed to be drawing a lot of attention.
+They didn’t usually go this far over a C-rank Hunter, but I was such a rare case that I seemed to be drawing a lot of attention.
 
 *Well, I did make quite a jump with a single reawakening.*
 
@@ -68,9 +68,9 @@ I fought down the smile that kept tugging at my lips and left the Association. E
 
 “Jin Taekyung! No, Mr. Taekyung!”
 
-“Heh.”
+“Hah.”
 
-I looked at Kim Sangshik and swallowed a hollow laugh.
+I looked at Kim Sangshik and swallowed a disbelieving laugh.
 
 Only thirty minutes ago, he’d been calling me a bastard. Now I was suddenly *Mr. Taekyung*.
 
@@ -78,15 +78,15 @@ Only thirty minutes ago, he’d been calling me a bastard. Now I was suddenly *M
 
 “I’m sorry about earlier. Really. And I’m sorry about everything from before, too.”
 
-Kim Sangshik rambled on, spilling out every wrong he’d done to me in the past. Once his untimely confession was over, he finally got to the point.
+Kim Sangshik rambled on, spilling out every wrong he’d done me in the past. Once his untimely confession was over, he finally got to the point.
 
-“So let’s forget all of it and treat this as business.”
+“So let’s forget all that and treat this as business.”
 
 “Business.”
 
 I rolled the word around on my tongue.
 
-It had a nice ring to it. The feeling was terrible. Even more so because the business partner was Kim Sangshik and Sopung Guild.
+It had a nice ring to it. The feeling it gave me was terrible. Even more so when the business partner was Kim Sangshik and Sopung Guild.
 
 “You already know this, Mr. Taekyung. Unless it’s a major Guild, they’re all more or less the same.”
 
@@ -100,15 +100,15 @@ Kim Sangshik kept going, spraying spit as he talked.
 
 Sopung Guild had been in steady decline for several years.
 
-Given the situation, the Guild Master seemed scared shitless.
+Given the situation, the Guild Master must have been scared shitless.
 
 *And this guy’s no different.*
 
 His standing in the Guild was already at rock bottom, and now the F-rank Hunter he’d fired on a whim a few days ago had reawakened as a C-rank.
 
-The corners of my mouth rose in anticipation of what would happen when the Guild Master, notorious for his temper, found out.
+The corners of my mouth rose at the thought of what would happen when the Guild Master, notorious for his temper, found out.
 
-“Just think about it positively. Actually, forget standing around here. Why don’t we go somewhere decent and talk openly? The Guild Master is on his way here right—”
+“Just think about it favorably. Actually, forget standing around here. Why don’t we go somewhere decent and talk openly? The Guild Master is already on his way—”
 
 “Mr. Kim Sangshik.”
 
@@ -128,7 +128,7 @@ Leaving Kim Sangshik behind with his face twisted, I got into a taxi.
 
 I sank back into the soft seat.
 
-The rank reassessment. Running into old bad blood. An indescribable rush, and at the same time a sense of relief.
+The rank reassessment. Running into an old enemy. I felt an indescribable rush and, at the same time, a deep sense of relief.
 
 “Where would you like to go?”
 
@@ -148,7 +148,7 @@ The taxi driver looked at me and chuckled.
 
 We spread out a mat and set up a grill on the goshiwon roof. Jinho hyung gazed happily at the meat as it cooked.
 
-“All right. Seeing your sincerity, I’ll forget about the finder’s fee.”
+“All right. In recognition of this heartfelt gesture, I’ll forget about the finder’s fee.”
 
 “I wasn’t planning to give you one.”
 
@@ -156,7 +156,7 @@ We spread out a mat and set up a grill on the goshiwon roof. Jinho hyung gazed h
 
 “Right back at you.”
 
-We sat across from each other and tilted our soju glasses.
+We sat across from each other and knocked back our soju.
 
 “But where did you get the money? You were whining that even this month was going to be tough.”
 
@@ -178,9 +178,9 @@ Jinho hyung froze.
 
 “Ten million won.”
 
-“You made ten million won in one day’s pay?”
+“You made ten million won in a single day?”
 
-“A little more came in, but that’s for now.”
+“A little more, actually, but call it ten million for now.”
 
 “You didn’t…”
 
@@ -196,19 +196,19 @@ I let out a long sigh, then downed my drink.
 
 “Tell me the truth. As the goshiwon manager, I have a duty to know.”
 
-If you only heard that, you’d think he was the prime minister, not a goshiwon manager.[^2]
+The way he said it, you’d think he was the prime minister, not the manager of a goshiwon.
 
 “I made it at a Gate.”
 
-“Bring me proof. I only believe what I see with my own eyes.”
+“Show me proof. I only believe what I see with my own eyes.”
 
 “Suit yourself. Here.”
 
-I handed him my phone. It was the message I’d gotten on the way back from the Association after the reassessment.
+I handed him my phone. It showed the message I’d received on my way back from the Association after the reassessment.
 
 The sender was…
 
-“Designer-Brand Junkie? Who’s this?”
+“Designer-Brand Freak? Who’s this?”
 
 “The Team Leader I ran the raid with today.”
 
@@ -248,31 +248,31 @@ Where was I even supposed to start?
 
 I had decided not to say anything more about the capsule.
 
-I figured it was better if, for Jinho hyung, it just stayed an absurd lie.
+I figured it was better if, to Jinho hyung, it remained nothing more than an absurd lie.
 
 “Two Rare Monsters showed up at the Gate today, and…”
 
-At a life-or-death moment, the luck of a reawakening had come, and I’d been able to take them down. Then I told him about the Association.
+I told him that I’d reawakened at the moment my life was in danger, giving me the power to take them down. Then I told him what had happened at the Association.
 
 It was a story hastily stitched together, but Jinho hyung bought it.
 
 “So now you’re a C-rank Hunter?”
 
-“The reassessment procedure will take a few days, so technically, not yet.”
+“The reassessment process will take a few days, so technically, not yet.”
 
 “Same thing, you idiot.”
 
 His face was dazed, his voice hoarse.
 
-Jinho hyung stared at me for a long moment. Moisture gathered in his eyes.
+Jinho hyung stared at me for a long moment. Tears welled in his eyes.
 
 *What’s gotten into this guy?*
 
-“…Don’t tell me you’re crying?”
+“…Don’t tell me you’re crying.”
 
 “The fuck I am. What kind of bullshit is that?”
 
-He turned away with an unnecessary curse, but he couldn’t hide the single tear that fell. I watched him out of the corner of my eye as he roughly rubbed his face with his sleeve.
+He turned away with an unnecessary curse, but he couldn’t hide the single tear that fell. I watched him out of the corner of my eye as he roughly scrubbed his face with his sleeve.
 
 “Hyung?”
 
@@ -286,13 +286,13 @@ He turned away with an unnecessary curse, but he couldn’t hide the single tear
 
 Sizzle.
 
-As I turned the meat, I felt flustered, and yet a corner of my chest tickled.
+As I turned the meat, I felt flustered, yet there was a strange tickle in my chest.
 
 *Come to think of it, I’ve known Jinho hyung for a long time.*
 
 Six years? Seven? I didn’t know. I’d never counted. Whenever I came back to the goshiwon after a hard day, he had always been there.
 
-Sometimes I wondered if this was what it would have felt like to have a real older brother. We had lived like brothers, like friends.
+Sometimes I wondered if this was what it would have felt like to have a real older brother. We’d lived like brothers, like friends.
 
 “Hey.”
 
@@ -300,7 +300,7 @@ Jinho hyung broke the awkward silence. I turned the meat over one more time for 
 
 “Yeah? What?”
 
-“Good for you.”
+“I’m glad things worked out.”
 
 “…Yeah.”
 
@@ -310,7 +310,7 @@ His quiet voice followed.
 
 “You worked hard.”
 
-At just those words, something surged up from deep inside me. The emotions and memories that had stacked up over the past seven years all came rushing in at once.
+At those few words, something surged up from deep inside me. All the emotions and memories that had piled up over the past seven years came rushing in at once.
 
 “Congratulations on becoming a C-rank Hunter. I guess I can’t tease you anymore.”
 
@@ -322,7 +322,7 @@ At just those words, something surged up from deep inside me. The emotions and m
 
 “Taekyung!”
 
-We hugged each other tightly across the grill. Jinho hyung whispered in my ear, his voice shaking.
+We embraced tightly across the grill. Jinho hyung whispered in my ear, his voice shaking.
 
 “Do you remember what I said earlier?”
 
@@ -348,7 +348,7 @@ A short laugh escaped me as I thought of the one person who was probably cleanin
 
 *You really can’t let your guard down around him.*
 
-That was Jinho hyung. The way he congratulated me, and that last prank.
+That was Jinho hyung. The way he congratulated me, and the joke at the end.
 
 I knew it was all just his way of expressing himself.
 
@@ -358,9 +358,9 @@ Those words kept circling in my head. It was embarrassing to admit, but at that 
 
 *Yeah. I really did work hard.*
 
-After my father died, I had run nonstop. I graduated high school while working part-time jobs, and I had to hold on and keep holding on for my sick mother and little sister.
+After my father died, I’d run nonstop. I graduated high school while working part-time jobs, and I had to keep going, no matter what, for my sick mother and little sister.
 
-At some point, all of it had become a given.
+At some point, all of it had simply become a given.
 
 And then—
 
@@ -373,7 +373,7 @@ Ding.
 
 *Something that wasn’t a given had entered my life.*
 
-It had all started with that unidentified piece-of-junk game capsule.
+It had all started with that mysterious piece-of-junk game capsule.
 
 “A game capsule, huh?”
 
@@ -387,35 +387,35 @@ The reason I was thinking this even after the best day of my life was simple.
 
 *Nothing comes for free.*
 
-That was the world I knew. Everything had a price tag. Visible or not, sooner or later you had to pay.
+That was the world I knew. Everything had a price tag. Whether you could see it or not, sooner or later, you had to pay.
 
 *How expensive is the System?*
 
 A hundred billion? A quadrillion? Maybe even more?
 
-I laughed weakly and felt my eyelids growing heavy.
+I laughed weakly as my eyelids grew heavy.
 
 *Oh, right. I was dead drunk.*
 
 Chirp. Chirp-chirp.
 
-Outside the window, the grass insects chirped loudly. My vision darkened, and sleep poured over me.
+Insects chirped loudly outside the window. My vision darkened, and sleep poured over me.
 
 That night, I dreamed.
 
 I dreamed that somewhere deep in the mountains, someone was shaking me awake.
 
-“Squad Leader, Squad Leader!”
+“Squad Leader! Squad Leader!”
 
-Weirdly, just hearing it made me want to punch whoever it belonged to. Part of me wanted to see who that familiar voice belonged to, but I was too sleepy to open my eyes.
+Strangely, hearing that voice alone made me want to punch its owner. Part of me wanted to see who the familiar voice belonged to, but I was too sleepy to open my eyes.
 
 “What do we do?”
 
 “We have to tell the main force right away…”
 
-“Why is the Squad Leader suddenly like this now of all times…”
+“Why did the Squad Leader have to become like this now, of all times…?”
 
-It felt like listening to a broken radio. The voices had static in them, and they kept cutting out.
+It felt like listening to a broken radio. The voices were full of static and kept cutting out.
 
 *I’m sleepy…*
 
@@ -424,5 +424,3 @@ As my consciousness drifted farther away, I heard a small but clear voice.
 “Youngest, survive.”
 
 But when I woke the next day, I couldn’t remember any of it.
-
-[^2]: A pun: the Korean word for a goshiwon manager sounds like “prime minister.”
