@@ -39,3 +39,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 송검문주 | **Sect Leader of Song Sword Sect** | Title held by Huang. |
 | 귀검 | **Ghost Sword** | Wipeng's epithet. |
 | 황 모 | **Huang** | Surname-style self-reference by the Sect Leader of Song Sword Sect. |
+| 아스모데우스 | **Asmodeus** | Demon King referenced in Taekyung's sarcastic comparison; does not appear directly. |
