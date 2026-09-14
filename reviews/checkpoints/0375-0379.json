@@ -1,0 +1,126 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "**Hidden Quest:** **Apology and Forgiveness** successfully completed!",
+      "defect": "The Hidden Quest name conflicts with the binding rendering used by the checkpoint summary and durable terminology decisions.",
+      "id": "C01",
+      "rationale": "The established quest name is Atonement and Forgiveness; retaining Apology creates a visible System-term inconsistency.",
+      "replacement": "**Hidden Quest:** **Atonement and Forgiveness** successfully completed!",
+      "severity": "major",
+      "source": "Chapter 375, Hidden Quest completion System panel"
+    },
+    {
+      "confidence": 1.0,
+      "current": "The Yangtze River Channel League fast ship carrying them departed one sikgyeong ago.[^1]",
+      "defect": "The ship is assigned to the Yangtze River Channel League instead of the established Water Dragon Stronghold.",
+      "id": "C02",
+      "rationale": "Chapter 376, the checkpoint summary, and the binding terminology all identify the vessel and its crew with the Water Dragon Stronghold.",
+      "replacement": "The Water Dragon Stronghold fast ship carrying them departed one sikgyeong ago.[^1]",
+      "severity": "major",
+      "source": "Chapter 377, guard captain’s report"
+    },
+    {
+      "confidence": 1.0,
+      "current": "What kind of bullshit was that? We were flying at twenty-five thousand feet in a private jet sent by the Chinese Central Committee.",
+      "defect": "The organization name drifts from the binding form Central Committee of China.",
+      "id": "C03",
+      "rationale": "Using the ledger form keeps the modern-world institution consistent with the checkpoint terminology decisions.",
+      "replacement": "What kind of bullshit was that? We were flying at twenty-five thousand feet in a private jet sent by the Central Committee of China.",
+      "severity": "minor",
+      "source": "Chapter 378, Taekyung assessing the aerial attack"
+    },
+    {
+      "confidence": 0.99,
+      "current": "More than a thousand Hunters from the Public Security Armed Forces, along with five thousand soldiers of the Chinese People’s Liberation Army dispatched to maintain public order—all of them stationed at Chengdu International Airport—were asking themselves the same thing as they stared in horror at the reality bearing down on them.",
+      "defect": "The first occurrence expands the binding organization name to Chinese People’s Liberation Army.",
+      "id": "C04",
+      "rationale": "The binding rendering is People’s Liberation Army, which the rest of the chapter already uses.",
+      "replacement": "More than a thousand Hunters from the Public Security Armed Forces, along with five thousand soldiers of the People’s Liberation Army dispatched to maintain public order—all of them stationed at Chengdu International Airport—were asking themselves the same thing as they stared in horror at the reality bearing down on them.",
+      "severity": "minor",
+      "source": "Chapter 379, opening description of the airport defenders"
+    },
+    {
+      "confidence": 0.99,
+      "current": "At Chengdu’s western port, Taekyung accepts an unidentified boy as a last-minute passenger aboard the Water Dragon Stronghold’s ship.",
+      "defect": "The passenger is no longer unidentified within this packet: Chapter 376 directs Mungyeong toward the departure, and Chapter 377 shows Mungyeong aboard the ship.",
+      "id": "C05",
+      "rationale": "Naming Mungyeong records information revealed by Chapter 377 rather than preserving an already resolved Chapter 376 hook.",
+      "replacement": "At Chengdu’s western port, Taekyung accepts Mungyeong as a last-minute passenger aboard one of the Water Dragon Stronghold’s fast ships.",
+      "severity": "major",
+      "source": "Checkpoint summary, Plot, second paragraph"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Dongbong predicts that a great war will soon occur and asks Mungyeong to prevent it as the Divine Physician; Mungyeong verbally refuses and says the Murim is not where he belongs, while the announced departure from Chengdu's western port remains unresolved.",
+      "defect": "The departure is marked unresolved even though Chapters 376–377 show that Mungyeong reached the port and boarded the departing ship.",
+      "id": "C06",
+      "rationale": "This preserves the unresolved question of Mungyeong’s ultimate intervention while recording the completed physical departure.",
+      "replacement": "Dongbong predicts that a great war will soon occur and asks Mungyeong to prevent it as the Divine Physician; Mungyeong verbally refuses and says the Murim is not where he belongs, but then boards Taekyung's departing ship at Chengdu's western port.",
+      "severity": "major",
+      "source": "Durable state, active_continuity, Mungyeong and Dongbong entry"
+    },
+    {
+      "confidence": 0.99,
+      "current": "An unidentified boy reaches the port immediately before departure and is accepted as one more passenger.",
+      "defect": "The active state retains the passenger as unidentified after Chapter 377 identifies him as Mungyeong.",
+      "id": "C07",
+      "rationale": "The adjacent chapters establish a direct sequence from Dongbong giving Mungyeong the departure details to Mungyeong appearing aboard the ship.",
+      "replacement": "Mungyeong reaches the port immediately before departure and is accepted as one more passenger.",
+      "severity": "major",
+      "source": "Durable state, active_continuity, passenger entry"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Taekyung and Cheongpung were preparing to leave Sichuan by fast ship from Chengdu's western port after the Hour of the Dog.",
+      "defect": "This entry records preparation as the current state even though the ships have departed and the voyage is underway in Chapter 377.",
+      "id": "C08",
+      "rationale": "Active continuity should reflect the latest completed event in the packet rather than the earlier pre-departure state.",
+      "replacement": "Taekyung and Cheongpung departed Chengdu's western port aboard the Water Dragon Stronghold's fast ships after the Hour of the Dog.",
+      "severity": "major",
+      "source": "Durable state, active_continuity, departure entry"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The identity of the boy who arrives at the port and whether he will accompany Taekyung's group remain unresolved.",
+      "defect": "Both parts of the question are resolved: the boy is Mungyeong, and Chapter 377 shows him aboard the ship.",
+      "id": "C09",
+      "rationale": "The remaining hook concerns Mungyeong’s eventual choice, not his identity or whether he joined the voyage.",
+      "replacement": "Whether Mungyeong will act on Dongbong's plea to prevent the coming war remains unresolved.",
+      "severity": "major",
+      "source": "Durable state, open_questions, boy’s identity entry"
+    },
+    {
+      "confidence": 1.0,
+      "current": "The burning aircraft’s passengers, its impact on the monster army, and Taekyung’s immediate fate remain unresolved.",
+      "defect": "The bullet incorrectly treats the passengers as unidentified even though Chapters 378–379 and the Plot section establish that this is Taekyung’s private jet.",
+      "id": "C10",
+      "rationale": "The aircraft’s identity is established; only the maneuver’s outcome and the occupants’ survival remain open.",
+      "replacement": "The burning aircraft is Taekyung’s private jet; the outcome of its sweep through the monster army and the immediate fate of everyone aboard remain unresolved.",
+      "severity": "major",
+      "source": "Checkpoint summary, Continuity, final bullet"
+    },
+    {
+      "confidence": 1.0,
+      "current": "A burning airplane enters the battlefield and begins sweeping through the monster army; its passengers, identity, and final outcome remain unresolved.",
+      "defect": "The active state contradicts its own earlier private-jet entry by treating the aircraft and its passengers as unidentified.",
+      "id": "C11",
+      "rationale": "Chapter 379 directly continues the private-jet sequence from Chapter 378, and Taekyung’s shouted attack line confirms the connection.",
+      "replacement": "Taekyung's burning private jet enters the battlefield and begins sweeping through the monster army; the maneuver's final outcome and the fate of everyone aboard remain unresolved.",
+      "severity": "major",
+      "source": "Durable state, active_continuity, final entry"
+    },
+    {
+      "confidence": 1.0,
+      "current": "The identity of the burning airplane's passengers and the outcome of its attack on the monster army are unresolved.",
+      "defect": "The passengers are not an unresolved mystery; the aircraft is the private jet carrying Taekyung and his traveling party.",
+      "id": "C12",
+      "rationale": "This removes a false mystery while retaining the actual Chapter 379 cliffhanger.",
+      "replacement": "The outcome of the burning private jet's attack on the monster army and the immediate fate of its passengers remain unresolved.",
+      "severity": "major",
+      "source": "Durable state, open_questions, burning-airplane entry"
+    }
+  ],
+  "summary": "The reading copies are generally coherent and retain the established voice, but three binding terms drift. The checkpoint summary and durable state also misidentify Mungyeong as an unknown passenger and preserve stale uncertainty about the group’s departure and the burning aircraft.",
+  "version": 1
+}

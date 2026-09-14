@@ -92,3 +92,12 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 청두 국제공항 | **Chengdu International Airport** | Destination airport under attack. |
 | 헌터 마켓 | **Hunter Market** | Market where Taekyung bought the spear at a discount. |
 | 검은 별 | **Black Star** | Epithet of the exceptionally powerful lead wyvern. |
+| 샤오 쉔 | **Shao Shen** | Twenty-year-old spear-wielding Hunter of the Public Security Armed Forces. |
+| 야오위 | **Yao Wei** | A-rank Hunter, Shao Shen's friend and comrade. |
+| 류인친 | **Ryu Inchin** | Named combatant of the Public Security Armed Forces; exact relationship to the person calling him hyung is unresolved. |
+| 공안 무력부 | **Public Security Armed Forces** | Chinese Hunter organization. |
+| 인민 해방군 | **People's Liberation Army** | Chinese military force stationed at the airport. |
+| 중화인민공화국 | **People's Republic of China** | Country whose flag appears on Shao Shen's armor. |
+| 중화 | **Zhonghua** | Term used in Shao Shen's rallying cry for China. |
+| 오성홍기 | **Five-Star Red Flag** | National flag of the People's Republic of China. |
+| 듀라한 | **Dullahan** | Higher undead monster form taken by Yao Wei. |

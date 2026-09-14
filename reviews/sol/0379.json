@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "“Form ranks by platoon! Assemble! Assemble—!”",
+      "defect": "The draft narrows 제대, a general military unit or echelon, to the specific hierarchy level “platoon” without source support.",
+      "id": "F01",
+      "rationale": "The source orders each unit to form ranks and elongates the final 집합 for force; it does not specify platoons.",
+      "replacement": "“Form ranks by unit! Assemble! Assembllllle—!”",
+      "severity": "major",
+      "source": "“각 제대 별로 대열 갖춰! 집합! 집하압-!”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Fire! Fire, damn it! I said fire!”",
+      "defect": "The draft adds profanity absent from the source, intensifying the commander's register.",
+      "id": "F02",
+      "rationale": "The Korean conveys panic and emphatic repetition but contains no curse.",
+      "replacement": "“Fire! Fire! I said fire!”",
+      "severity": "major",
+      "source": "“쏴, 쏴라! 쏘란 말이다!”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Arrows saturated with various kinds of magic and mana pierced the griffon.",
+      "defect": "The draft collapses two separate attacks—various spells and mana-laden arrows—into arrows alone, omitting the magic attacks.",
+      "id": "F03",
+      "rationale": "The coordination of 가지각색의 마법과 and 마나를 한껏 머금은 화살 identifies spells and arrows as separate parts of the ranged barrage.",
+      "replacement": "Spells of every kind and arrows saturated with mana tore into the griffon.",
+      "severity": "critical",
+      "source": "가지각색의 마법과 마나를 한껏 머금은 화살이 그리폰을 꿰뚫었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The power of mana, which was practically the antithesis of the monsters’ magic, was beyond comparison. But with all their firepower concentrated in one place, even the flying monsters had no choice but to falter.",
+      "defect": "The draft leaves the comparison without its subject and changes simultaneous concentrated fire into fire concentrated spatially “in one place,” obscuring the combat mechanism.",
+      "id": "F04",
+      "rationale": "The source contrasts modern weaponry with mana, then explains that concentrating the weapons' fire all at once nevertheless checks the flying monsters.",
+      "replacement": "Though modern weapons were no match for mana—the natural counter to monsters’ magic—concentrating all that firepower at once still forced even the flying monsters to falter.",
+      "severity": "major",
+      "source": "비록 몬스터들의 마력과 상극이라 할 수 있는 마나(Mana)의 힘에 비할 바는 아니지만, 일거에 화력을 집중시키니 비행 몬스터들도 주춤할 수밖에 없었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "*That kid has no manners. No manners at all. Would it kill you to let me win once?*",
+      "defect": "Yao Wei is complaining directly to Shao Shen, but “that kid” makes him sound as though he is talking about an absent third person.",
+      "id": "F05",
+      "rationale": "어린놈이 is a familiar, mildly insulting way of addressing the younger Shao Shen here, consistent with their competitive friendship.",
+      "replacement": "*You little brat have no manners, I tell you. Would it kill you to let me win once?*",
+      "severity": "major",
+      "source": "‘어린놈이 예의가 없어요, 예의가. 한 번 져 주면 덧나냐?’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "But that would never happen again—not in the past, and not in the future.\n\nShao Shen had always been the winner.",
+      "defect": "“Would never happen again—not in the past” is temporally incoherent and does not cleanly preserve the joke that Yao Wei had never won before and now never would.",
+      "id": "F06",
+      "rationale": "The source contrasts the nonexistent past occurrence with its now-impossible future occurrence, then delivers the reason as a deadpan punchline.",
+      "replacement": "But that had never happened before, and now it never would. Shao Shen had always been the winner.",
+      "severity": "minor",
+      "source": "하지만 그런 일은 과거에도, 앞으로도 없을 것이다. 승자는 늘 샤오 쉔이었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "A line was drawn from the waist upward.\n\nThe headless knight’s body slowly crumpled.",
+      "defect": "The draft invents an upward direction for the cut that the source does not state, altering the physical action.",
+      "id": "F07",
+      "rationale": "The source locates the beginning of the line at the waist but leaves its direction unstated.",
+      "replacement": "A cut line appeared, starting at his waist. The headless knight’s body slowly crumpled.",
+      "severity": "critical",
+      "source": "허리춤으로부터 그어진 선. 목 없는 기사의 신형이 천천히 허물어진다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "An army of white bones slowly rose from pools of death, given new life.",
+      "defect": "“An army of white bones” is an unnatural literal rendering of 백골 and obscures that complete skeletons are rising as undead.",
+      "id": "F08",
+      "rationale": "백골의 군단 conventionally denotes an army of skeletons in this undead scene, not a collection of disarticulated white bones.",
+      "replacement": "Given new life, an army of skeletons slowly rose from the pools of death.",
+      "severity": "minor",
+      "source": "새로운 생명을 얻고 죽음의 웅덩이에서 서서히 몸을 일으키는 백골(白骨)의 군단."
+    }
+  ],
+  "summary": "Several action and mechanism errors, plus localized hierarchy, register, and terminology issues.",
+  "version": 1
+}

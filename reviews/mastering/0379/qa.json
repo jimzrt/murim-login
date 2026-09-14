@@ -1,0 +1,47 @@
+{
+  "chapter": 379,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.132,
+    "source_characters": 5982,
+    "source_paragraphs": 185,
+    "translation_characters": 12752,
+    "translation_paragraphs": 204
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "상태",
+        "preferred": "Status"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "신의",
+        "preferred": "Divine Physician"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "중화인민공화국",
+        "preferred": "People's Republic of China"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "키키키킷",
+        "romanization": "kikikikit"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}

@@ -1,17 +1,17 @@
 # Translation State
 
-- Last completed: 378
-- Next chapter: 379
-- Current block: 375–379 (4/5)
-- Latest translation: `translations/0378.md`
-- Latest summary: `summaries/beats/0378.md`
-- Safe profiles through: chapter 378
+- Last completed: 379
+- Next chapter: 380
+- Current block: 375–379 (5/5)
+- Latest translation: `translations/0379.md`
+- Latest summary: `summaries/beats/0379.md`
+- Safe profiles through: chapter 379
 
 ## Current Block
 
-- Jin Taekyung successfully completes Logout and awakens aboard the private jet returning him to the modern world, only to learn that the plane is under attack by monsters.
-- Chengdu International Airport is engulfed in a battle between humans and monsters, while around a dozen A-rank wyverns pursue the jet. Team Leader Choi trusts Taekyung to resolve the crisis and uses barrier magic to seal the opening against the pressure.
-- Taekyung cuts a door into the aircraft with an Aura Blade, withstands the high-altitude wind, and kills the lead wyvern and multiple companions by throwing a spear. The remaining wyverns panic and postpone their revenge.
+- At Chengdu International Airport, twenty-year-old Shao Shen and more than a thousand Hunters of the Public Security Armed Forces join five thousand soldiers of the Chinese People's Liberation Army in resisting an unexpected monster army. The monsters overwhelm ordinary firearms, while wyverns, griffons, and gargoyles attack the airport's fighter jets and troops.
+- Shao Shen rallies the retreating soldiers and leads the Hunters into battle. Concentrated modern fire can damage the flying monsters' eyes, but a green wyvern's Poison Breath kills the division commander and command staff. Black fog and dark magic then spread through the blood and corpses, raising the dead as an enslaved skeleton army.
+- Shao Shen recognizes the resurrected Yao Wei, an A-rank Hunter and his friend, after Yao Wei has become a headless Dullahan. Shao Shen kills him while mourning their former friendship. As the battle becomes hopeless, a burning airplane approaches the battlefield and an unseen passenger announces an intent to ram the monsters; the aircraft then sweeps across the battlefield.
 
 ## Open Questions
 
@@ -26,6 +26,8 @@
 - Whether the Sichuan Governor submits the false memorial and what consequences follow remain unresolved.
 - The Lich's exact role in the Chengdu attack and the extent of its reach remain unresolved.
 - Whether Taekyung's private jet survives the ongoing wyvern attack remains unresolved.
+- The identity of the beings controlling the undead army is unresolved.
+- The identity of the burning airplane's passengers and the outcome of its attack on the monster army are unresolved.
 
 ## Exceptional Decision
 
@@ -46,6 +48,8 @@
 - Render 최 팀장 as Team Leader Choi, 리치 as Lich, 스켈레톤 워로드 as Skeleton Warlord, 샤오 양 as Xiao Yang, 중국 중앙위원회 as Central Committee of China, 쓰촨성 as Sichuan Province, 청두 국제공항 as Chengdu International Airport, 헌터 마켓 as Hunter Market, and 검은 별 as Black Star.
 - Render 와이번 as wyvern, 드레이크 as drake, 용족 as dragonkin, 브레스 as Breath, 강기 as sword qi, and 오라 블레이드 as Aura Blade.
 - Retain a footnote explaining 빵즈 as a derogatory Chinese slur for Koreans.
+- Render 샤오 쉔 as Shao Shen, 야오위 as Yao Wei, and 류인친 as Ryu Inchin.
+- Render 공안 무력부 as Public Security Armed Forces, 인민 해방군 as People's Liberation Army, 중화인민공화국 as People's Republic of China, 중화 as Zhonghua, 오성홍기 as Five-Star Red Flag, and 듀라한 as Dullahan.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

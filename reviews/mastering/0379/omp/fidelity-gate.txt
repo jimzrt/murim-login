@@ -1,0 +1,35 @@
+{
+  "summary": "Faithful overall; three localized minor defects remain in idiom, military terminology, and panicked register.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean line 81 / [P40]",
+      "current": "I don’t want to die like a dog in a place like this!",
+      "defect": "The component-level rendering of 개죽음 changes the soldier’s fear of a pointless, worthless death into the different English image of dying miserably or disgracefully like a dog.",
+      "replacement": "I don’t want to die for nothing in a place like this!",
+      "rationale": "개죽음 means a futile or meaningless death here; the idiom’s function is not a comparison to how a dog dies.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Korean line 171 / [P89]",
+      "current": "Commence mass fire!",
+      "defect": "The command obscures the coordinated firing mechanism and uses nonstandard military phrasing.",
+      "replacement": "Commence volley fire!",
+      "rationale": "일제 사격 is simultaneous or volley fire, confirmed by the following sentence stating that the rifles, heavy weapons, and tanks fire at once.",
+      "confidence": 0.97
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Korean line 209 / [P109]",
+      "current": "This isn’t my mission!",
+      "defect": "The literal wording turns a terrified soldier’s idiomatic protest into an unnaturally administrative statement, weakening the source register.",
+      "replacement": "This isn’t what I signed up for!",
+      "rationale": "이런 건 내 임무가 아니라고 functions here as a panicked declaration that this ordeal is beyond what the speaker expected or agreed to face, not as a formal clarification of his assigned mission.",
+      "confidence": 0.94
+    }
+  ]
+}
