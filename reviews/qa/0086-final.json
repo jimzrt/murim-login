@@ -1,0 +1,31 @@
+{
+  "chapter": 86,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.247,
+    "source_characters": 5645,
+    "source_paragraphs": 171,
+    "translation_characters": 12684,
+    "translation_paragraphs": 175
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "상동",
+        "romanization": "sangdong"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "꺽정",
+        "romanization": "kkeokjeong"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}

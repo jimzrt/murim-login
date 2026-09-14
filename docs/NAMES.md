@@ -95,3 +95,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 일섬 | **One Annihilation** | Named spear technique Taekyung uses to kill the Boss Zone monster in one blow. |
 | 미노타우로스 대전사 | **Minotaur Warrior** | Level 70 B-rank boss monster of The Minotaur's Labyrinth. |
 | 임 팀장님 | **Team Leader Im** | Formal address for Im Changsoo used by a Sangdong Guild teammate. |
+| 프로즌 | **Frozen** | Im Chunsoo's epithet as an A-rank ice mage. |
+| K은행 | **K Bank** | Bank where Im Changsoo's transfer is reported. |
