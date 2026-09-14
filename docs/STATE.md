@@ -1,15 +1,18 @@
 # Translation State
 
-- Last completed: 82
-- Next chapter: 83
-- Current block: 80–84 (3/5)
-- Latest translation: `translations/0082.md`
-- Latest summary: `summaries/beats/0082.md`
-- Safe profiles through: chapter 82
+- Last completed: 83
+- Next chapter: 84
+- Current block: 80–84 (4/5)
+- Latest translation: `translations/0083.md`
+- Latest summary: `summaries/beats/0083.md`
+- Safe profiles through: chapter 83
 
 ## Current Block
 
-- The fifteen-person raid team enters The Minotaur’s Labyrinth. Im Kkeokjeong takes the front as tank after equipping Peak-grade Matador’s Full-Body Armor and Matador’s Shield, whose bonuses are especially effective against bovine-type monsters. Five holes in the cavern produce eight Minotaur Warriors, overwhelming the four B-rank Sangdong Guild Hunters who initially advance. Team Leader Choi notices that Taekyung takes the threat seriously despite posing as a C-rank Hunter. Im Changsoo mocks the B-rank Hunters and deliberately calls Taekyung Jang Taekyung; Taekyung corrects him and retaliates by calling him Shit Changsoo, making Changsoo’s smile disappear.
+- Im Changsoo’s attempts to court Song Song fail because she remains indifferent, while he grows irritated by Jin Taekyung and Team Leader Choi. He interrupts their conversation and is stunned when Taekyung insults him as Shit Changsoo, turning their hostility openly profane.
+- As eight Minotaurs approach, Sangdong Guild’s members retreat. Im Changsoo challenges Taekyung to defeat the herd alone, offering 500 million won per Minotaur and all byproduct rights, for a total of 4 billion won, while voiding the previous rewards if Taekyung dies or runs away.
+- Im Changsoo adds Song Song’s transfer to Sangdong Guild as the other stake in the bet. Song Song bluntly rejects Changsoo as a womanizing, money-flaunting man but agrees to the wager, and the Guild Master and Team Leader Choi accept the arrangement.
+- Taekyung accepts the challenge after recognizing that he is stronger than the Minotaurs. Choi bets 4 billion won on Taekyung defeating all eight and confidently tells him that he will win. With the cavern cleared for the fight, Taekyung grips his spear and charges the Minotaur herd like a matador.
 
 ## Open Questions
 
@@ -20,7 +23,7 @@
 - The nature of the minor misunderstanding that injured Childeuk remains undisclosed.
 - Taekyung’s prior relationship with Lee Seowol and the missing details of his memories about her remain unclear.
 - Butler Kim’s former Hunter rank and background remain unclear, and it is unclear whether Song Song heard Taekyung’s interrupted confession.
-- The reason Im Changsoo seems familiar to Taekyung, whether he can act on his interest in Song Song, and what will happen in The Minotaur’s Labyrinth remain unresolved.
+- Whether Taekyung defeats all eight Minotaurs and what consequences follow from the wager, including Song Song’s possible Guild transfer, remains unresolved.
 
 ## Exceptional Decision
 
@@ -30,8 +33,8 @@
 - Use Sleep Mode for 수면 모드, Medicine King Hall Master for 약왕당주, four-horse carriage for 사두마차, and goshiwon for 고시원 with a footnote.
 - Use Return for 귀환, Returnee for 귀환자, Ren and Du meridians for 임독양맥, Heart Demon for 심마, Paralysis Acupoint for 마혈, and Mute Acupoint for 아혈.
 - Render fist-and-kicking technique as 권각술, recognition as 인정, Falling Flow Sword as 낙류검, Twelve Gale Fists as 질풍십이권, Flame Divine Palm as 화염신장, and Tendon-Splitting and Bone-Twisting as 분근착골.
-- Use Reformation Fist, Toughness, Heavenly Martial Physique, Jang Childeuk, Martial Artist Jang, benevolence/righteousness/propriety/wisdom, killed by a tiger, fifteen minutes, lifelong single, Let’s eat noodles, Squad Leader, Third Young Master, Designer-Brand Junkie, Qi Sense, Peace Guild, Essence of the Himalayas, Sooni’s Super, Song Song, Miss Song, Taurus, Ares Guild, Senior, Young Master, Guild Master, Minotaur, Bucheon Terminal Guild, and The Minotaur’s Labyrinth as established.
-- Use Sangdong Guild, Hunter Association, Black Drake, Masterwork Black Drake Leather Set, Masterwork Black Thorn Spear, Bleeding, artifact, gear advantage, Hye-rin, Cheongdam-dong, Matador’s Full-Body Armor, Matador’s Shield, Taunt, Hallucination, Minotaur Warrior, Top-tier, and tongue-pulling hell as established terminology.
+- Use Reformation Fist, Toughness, Heavenly Martial Physique, Jang Childeuk, Martial Artist Jang, benevolence/righteousness/propriety/wisdom, killed by a tiger, fifteen minutes, lifelong single, Let’s eat noodles, Squad Leader, Third Young Master, Designer-Brand Junkie, Qi Sense, Peace Guild, Essence of the Himalayas, Sooni’s Super, Song Song, Miss Song, Taurus, Ares Guild, Senior, Young Master, Guild Master, Minotaur, Bucheon Terminal Guild, The Minotaur’s Labyrinth, and Shit Changsoo as established.
+- Use Sangdong Guild, Hunter Association, Black Drake, Masterwork Black Drake Leather Set, Masterwork Black Thorn Spear, Bleeding, artifact, gear advantage, Hye-rin, Cheongdam-dong, Matador’s Full-Body Armor, Matador’s Shield, Taunt, Hallucination, Minotaur Warrior, Top-tier, tongue-pulling hell, big bills, and the baram wind/infidelity pun as established terminology or translation choices.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
