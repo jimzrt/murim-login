@@ -52,3 +52,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 천자문 | **Thousand Character Classic** | Classical text Childeuk cannot complete. |
 | 천무지체 | **Heavenly Martial Physique** | Named physique or constitution mentioned hypothetically by Jin Mukyung. |
 | 장칠득 | **Jang Childeuk** | Personal-name form of Childeuk; he is newly appointed as a martial artist directly under Jin Wikyung. |
+| 최 팀장 | **Team Leader Choi** | Team Leader who owns the café where Taekyung signs a contract. |
+| 명품충 | **Designer-Brand Junkie** | Display name used by Team Leader Choi in a text message. |
