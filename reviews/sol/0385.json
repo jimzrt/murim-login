@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Five years ago, you drugged someone at a club called Burning Moon or something and got caught trying to sexually assault her.",
+      "defect": "The draft changes a sexual assault being committed into merely an attempted assault and adds a specifically female victim absent from the source.",
+      "id": "F01",
+      "rationale": "저지르다가 걸렸던 states that he was caught while committing the sexual assault, not before completing it; the victim's gender is unstated.",
+      "replacement": "Five years ago, you got caught sexually assaulting someone after drugging them at some club called Burning Moon.",
+      "severity": "critical",
+      "source": "5년 전에 버닝문인가 뭔가 하는 클럽에서 약 타서 성폭행 저지르다가 걸렸던 거."
+    },
+    {
+      "confidence": 0.99,
+      "current": "With his frequent media exposure, he was one of the most prominent S-rank Hunters in the world. There was no way I wouldn’t know him.",
+      "defect": "The draft replaces the specific claim that he ranks first or second among S-rank Hunters in frequency of media exposure with the broader and unsupported claim that he is globally prominent.",
+      "id": "F02",
+      "rationale": "1, 2위를 다투는 explicitly supplies the first-or-second quantity, and 잦은 미디어 노출 is the criterion being ranked.",
+      "replacement": "He ranked first or second even among S-rank Hunters when it came to media exposure, so there was no way I wouldn’t know him.",
+      "severity": "major",
+      "source": "잦은 미디어 노출로는 S급 헌터 중에서도 1, 2위를 다투는 놈이니 모를 수가 없다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“You’re an A-rank Hunter, but you’re getting carried away because the Chairman expects something from you and thinks highly of you—!”",
+      "defect": "The draft omits the politically marked address “Comrade Chairman,” adds the unsupported claim that the Chairman thinks highly of Taekyung, and weakens the accusation that Taekyung has forgotten his place.",
+      "id": "F03",
+      "rationale": "주석 동지 is “Comrade Chairman,” while 하늘 높은 줄 모르고 나대 describes presumptuous behavior without knowing one’s place; it does not separately state that the Chairman thinks highly of him.",
+      "replacement": "“You’re just an A-rank Hunter, but because Comrade Chairman expects great things from you, you’ve forgotten your place and started running wild—!”",
+      "severity": "major",
+      "source": "「A급 헌터 주제에 주석 동지의 기대를 받는다고 하늘 높은 줄 모르고 나대……!」"
+    },
+    {
+      "confidence": 0.97,
+      "current": "No matter how reckless I might seem, I still observed the bare minimum of propriety.",
+      "defect": "The draft turns Taekyung’s calculation of circumstances or consequences into observance of etiquette, obscuring why he waits for Wu Heixing to provide justification by drawing his weapon.",
+      "id": "F04",
+      "rationale": "경우를 따지다 means to consider the circumstances or consequences, not to observe propriety; the following lines explain that Taekyung is calculating whether he has grounds to attack.",
+      "replacement": "No matter how reckless I might seem, I still weighed the circumstances at least a little.",
+      "severity": "major",
+      "source": "내가 아무리 막 나가는 것 같아도 최소한의 경우는 따진다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "There were even occasional rumors that she had washed her identity clean and was living a new life somewhere beneath the surface.",
+      "defect": "“Somewhere beneath the surface” incorrectly reads the idiom as the physical location of her new life, and “washed her identity clean” is unnatural English.",
+      "id": "F05",
+      "rationale": "수면 아래에서는 refers to information circulating out of public view, while 신분을 세탁하다 means to erase or replace one’s prior identity.",
+      "replacement": "Behind the scenes, it wasn’t uncommon to hear that she had assumed a new identity and begun a new life.",
+      "severity": "minor",
+      "source": "수면 아래에서는 신분을 세탁한 뒤 새로운 삶을 살고 있다는 소식도 심심찮게 들려올 정도였다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "“I’m asking you both to stop now.”",
+      "defect": "The draft makes Pai Chen demand a complete and immediate stop, losing the measured request that both men moderate their behavior.",
+      "id": "F06",
+      "rationale": "부탁이니 and 해 줬으면 좋겠는데 make the line a restrained request, while 적당히 means to keep the behavior within reasonable bounds rather than necessarily stop altogether.",
+      "replacement": "“I’d appreciate it if you both toned it down.”",
+      "severity": "minor",
+      "source": "「부탁이니 적당히 해 줬으면 좋겠는데. 두 사람 모두.」"
+    }
+  ],
+  "summary": "One critical action reversal and five additional fidelity or register issues.",
+  "version": 1
+}

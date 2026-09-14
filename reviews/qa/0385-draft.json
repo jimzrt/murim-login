@@ -1,0 +1,31 @@
+{
+  "chapter": 385,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.202,
+    "source_characters": 6898,
+    "source_paragraphs": 199,
+    "translation_characters": 15187,
+    "translation_paragraphs": 205
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "사형",
+        "preferred": "Senior Brother"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "대사",
+        "preferred": "Master for a senior Buddhist monk"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}

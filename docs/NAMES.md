@@ -130,3 +130,12 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 중앙군사위원회 | **Central Military Commission** | Commission chaired by Xiao Yang. |
 | 중국 공산당 | **Chinese Communist Party** | Party whose Central Military Commission Xiao Yang chairs. |
 | 종석이 | **Jongseok** | Taekyung's mistaken personal-name joke for the General Secretary; not the chairman's actual name. |
+| 파이 첸 | **Pai Chen** | S-rank Hunter, Great Cataclysm hero, and former romance-film actress. |
+| 우헤이싱 | **Wu Heixing** | S-rank Hunter antagonistic toward Taekyung. |
+| 윌리엄 | **William** | Prince Felix's formal attendant. |
+| 필릭스 알렉산더 루이 | **Prince Felix Alexander Louis** | British prince and third in line to the throne. |
+| 케임브리지 공작 | **Duke of Cambridge** | Title held by Prince Felix. |
+| 스트래선 백작 | **Earl of Strathearn** | Title held by Prince Felix. |
+| 캐릭퍼거스 남작 | **Baron Carrickfergus** | Title held by Prince Felix. |
+| 가터 훈장의 기사 | **Knight of the Garter** | Honor held by Prince Felix. |
+| 시슬 훈장의 기사 | **Knight of the Thistle** | Honor held by Prince Felix. |

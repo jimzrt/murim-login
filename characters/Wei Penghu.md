@@ -1,6 +1,6 @@
 # Wei Penghu (웨이펑후)
 
-- **Safe through:** Chapter 384
+- **Safe through:** Chapter 385
 - **Aliases:** None
 - **Role:** Senior General and Minister of Defense at the Central Military Commission
 - **Personality:** Courteous, composed, and direct in his first meeting with Jin Taekyung
