@@ -92,3 +92,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 횡성 | **Hoengseong** | Place in Gangwon Province named in Taekyung’s joke. |
 | 자일리톤 | **Xyliton** | Finnish equipment manufacturer whose custom helmet records video. |
 | 유네스코 | **UNESCO** | Organization referenced in Taekyung’s cultural-heritage joke. |
+| 일섬 | **One Annihilation** | Named spear technique Taekyung uses to kill the Boss Zone monster in one blow. |
+| 미노타우로스 대전사 | **Minotaur Warrior** | Level 70 B-rank boss monster of The Minotaur's Labyrinth. |
+| 임 팀장님 | **Team Leader Im** | Formal address for Im Changsoo used by a Sangdong Guild teammate. |
