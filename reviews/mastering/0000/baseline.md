@@ -1,0 +1,19 @@
+# Chapter 0
+
+There is a Russian proverb:
+
+> “Free cheese is only found in a mousetrap.”
+
+Looking back, I can’t help thinking that everything about that day was someone’s mousetrap. I’d been fired from my seven-year job, the weather was brutally hot, and I lived in a hillside neighborhood you had to cross two hills to reach…
+
+By the time I finally made it up, I was catching my breath. That was when I saw it.
+
+An old game capsule beneath a streetlamp.
+
+What happened next? You can guess.
+
+I was a hungry rat, suddenly unemployed and unable to turn down the free cheese right in front of me.
+
+Wouldn’t someone have clapped and laughed as they watched me struggle along with the capsule on my back?
+
+*The fool got caught in the trap!*

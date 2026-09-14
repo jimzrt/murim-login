@@ -1,0 +1,34 @@
+{
+  "chapter": 0,
+  "decisions": [
+    {
+      "decision": "SOL",
+      "hunk_id": "H001",
+      "reason": "There’s matches the narrator’s spoken register; There is is a slightly stiffer setup for the same 있다."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H002",
+      "reason": "SOL’s job I’d held for seven years is closer to 7년간 일했던 than seven-year job, but two hills away drops 넘어야 하는, the labor of crossing two hills.",
+      "replacement": "Looking back, I can’t help thinking that everything about that day was someone’s mousetrap. I’d been fired from the job I’d held for seven years, the weather was brutally hot, and I lived in a hillside neighborhood you had to cross two hills to reach…"
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H003",
+      "reason": "SOL correctly uses barely for 가까스로 instead of finally, but made it home adds a destination and loses 올라와’s climb; keep barely plus up.",
+      "replacement": "I’d barely made it up and was still catching my breath when I spotted it."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H004",
+      "reason": "Overnight restores 하루아침에, which suddenly weakens, and ignore is closer to 외면하다 than turn down an offer."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H005",
+      "reason": "SOL’s grunt and strain recovers 낑낑거리며, but Maybe flattens 않았을까? from a rhetorical question into a statement.",
+      "replacement": "Wouldn’t someone have clapped and laughed as they watched me grunt and strain with the capsule on my back?"
+    }
+  ],
+  "version": 1
+}
