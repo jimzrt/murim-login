@@ -1,25 +1,28 @@
 # Translation State
 
-- Last completed: 86
-- Next chapter: 87
-- Current block: 85–89 (2/5)
-- Latest translation: `translations/0086.md`
-- Latest summary: `summaries/beats/0086.md`
-- Safe profiles through: chapter 86
+- Last completed: 87
+- Next chapter: 88
+- Current block: 85–89 (3/5)
+- Latest translation: `translations/0087.md`
+- Latest summary: `summaries/beats/0087.md`
+- Safe profiles through: chapter 87
 
 ## Current Block
 
-- After clearing The Minotaur's Labyrinth, the party sells the collected Minotaur byproducts and Magic Gems to the Administration. Im Changsoo promises to send Taekyung the agreed-upon 4 billion won by the following day and receives Taekyung's account information.
-- Im Kkeokjeong warns Taekyung that Sangdong Guild is powerful because its Guild Master, Im Chunsoo, is an A-rank Hunter known as Frozen, a renowned ice mage who built the Guild by crushing its competitors. Im Chunsoo learns that Changsoo transferred 8 billion won to two accounts, summons him, fires him, and prepares to beat him with an ice club after having him dragged into the office.
+- Im Changsoo keeps his promise and deposits four billion won into Jin Taekyung's account. Taekyung is dazed by the sudden fortune and visits his family home, where Hayeon is studying despite a 39-degree fever. Hayeon reveals that their mother is secretly working at a restaurant and asks Taekyung not to look for her, but he already knows where she is.
+- Kim Jeonghee, Taekyung and Hayeon's fifty-year-old mother, is mistreated by the restaurant owner and insulted over Taekyung's F-rank status. She finally breaks from her usual submission, defends her son, and curses the owner. Taekyung arrives at the restaurant, pushes aside an employee who tries to stop him, and calls Jeonghee Mom.
 
 ## Open Questions
 
-- Whether Im Changsoo actually transfers the promised 4 billion won by tomorrow remains unresolved.
 - Whether Im Chunsoo or Sangdong Guild will retaliate against Peace Guild remains unresolved.
+- What will happen to Kim Jeonghee after her confrontation with the restaurant owner remains unresolved.
+- How Taekyung's arrival at the restaurant will affect the confrontation remains unresolved.
 
 ## Exceptional Decision
 
 - Use Frozen for 프로즌 and preserve the tiger-father/dog-son wordplay in 호부견자.
+- Use ajumma for 아줌마 with an explanatory footnote.
+- Retain goshiwon with an explanatory footnote.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

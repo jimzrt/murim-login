@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“What’s it to you? It’s my money.”",
+      "defect": "The reply changes Taekyung’s assertion that eating ramen is his choice into an assertion of ownership over the money.",
+      "id": "F01",
+      "rationale": "내 맘이지 means that it is up to him or that he can do as he pleases; it does not mean “It’s my money.”",
+      "replacement": "“What’s it to you? I’ll do what I want.”",
+      "severity": "minor",
+      "source": "“뭔 상관이야. 내 맘이지.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "She was so natural in her performance that if I hadn’t known the truth, I would have been completely fooled.",
+      "defect": "The draft omits Taekyung’s wry aside wondering whom Hayeon inherited her acting ability from.",
+      "id": "F02",
+      "rationale": "누굴 닮았는지 is a distinct humorous and characterizing thought, not merely part of the description of her acting.",
+      "replacement": "I wondered who she took after. Her acting was so natural that if I hadn’t known the truth, I would have been completely fooled.",
+      "severity": "minor",
+      "source": "누굴 닮았는지 연기가 천연덕스럽다. 만약 그 사실을 모르고 있었다면 깜빡 속아 넘어갔을 것이다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "As the elevator carried me down, I quietly thought about the warmth still lingering in her hand—and why she was studying even while her forehead was burning up.",
+      "defect": "The draft reverses where Hayeon’s warmth remains: it is lingering on Taekyung’s hand, not in hers.",
+      "id": "F03",
+      "rationale": "손에 남아 있는 녀석의 온기 is Hayeon’s warmth left on the narrator’s hand after he ruffles her hair.",
+      "replacement": "As the elevator carried me down, I quietly thought about her warmth still lingering in my hand—and why she was studying even while her forehead was burning up.",
+      "severity": "critical",
+      "source": "내려가는 엘리베이터 안에서 가만히 손에 남아 있는 녀석의 온기를 생각했다. 이마가 펄펄 끓는 와중에도 녀석이 공부를 하고 있는 이유도."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I heard your son is a Hunter. He should be making decent money, so why are you coming all the way here to cook in someone else’s shop and cause trouble for their business? Ah, is his income not very good because he’s an F-rank Hunter?”",
+      "defect": "The draft omits the owner’s contemptuous suggestion that Jeonghee should stay home and do nothing more than cook there, weakening the class-based humiliation and register.",
+      "id": "F04",
+      "rationale": "집구석에서 음식이나 하지 explicitly tells Jeonghee to stay home and merely cook there before asking why she came to burden someone else’s business.",
+      "replacement": "“I heard your son is a Hunter. He should be making decent money, so why don’t you just stay home and cook? Why come all the way here and be a nuisance to someone else’s business? Ah, is his income not very good because he’s an F-rank Hunter?”",
+      "severity": "major",
+      "source": "“아줌마 아들 헌터라며. 벌이 괜찮을 텐데 집구석에서 음식이나 하지 왜 여기까지 와서 남의 장사에 민폐를…… 아, F급 헌터라 벌이는 별론가?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Our Taekyung grew up right. He never once caused his parents any trouble, even when he was little. He’s still working hard for his family. Money? He earns enough for us to live comfortably.”\n\n“That’s all an excuse.”\n\n“An excuse? This is money my child earned by risking his life. How could I, as his parent, spend it?”",
+      "defect": "The draft adds that Taekyung’s earnings support a comfortable life for the family, then omits Jeonghee’s explicit refusal to accept that money as well as spend it.",
+      "id": "F05",
+      "rationale": "부족하지 않게 벌어요 only says that Taekyung earns enough, without claiming that Jeonghee lives on it; 받아 쓸 수 있겠어요 specifically encompasses both accepting and spending his money.",
+      "replacement": "“Our Taekyung grew up right. He never once caused his parents any trouble, even when he was little. He’s still working hard for his family. Money? He earns more than enough.”\n\n“That’s all an excuse.”\n\n“An excuse? This is money my child earned by risking his life. How could I, as his parent, accept it and spend it?”",
+      "severity": "major",
+      "source": "“우리 태경이, 어릴 때부터 부모 속 한 번 안 썩히고 바르게 컸어요. 가족 위해서 지금도 열심히 일하고 있고요. 돈? 부족하지 않게 벌어요.”\n\n“그런 거 다 핑계지.”\n\n“핑계요? 제 자식이 목숨 걸고 벌어 온 돈인데 부모가 되어서 어떻게 그걸 받아 쓸 수 있겠어요?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Where does a woman with such a pathetic son get off—”",
+      "defect": "The draft sanitizes 년 into the neutral “woman,” weakening the abuse that immediately provokes Jeonghee’s unprecedented profanity.",
+      "id": "F06",
+      "rationale": "년 is a gendered insult here, and the employees’ expectation of a machine-gun burst of abuse confirms that the owner has already shifted into openly profane speech.",
+      "replacement": "“Where does a bitch with such a pathetic son get off—”",
+      "severity": "major",
+      "source": "“자식도 변변찮은 년이 어디서…….”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Even when the owner picked fights with her every other day, she had always bowed her head without saying a word.",
+      "defect": "“Every other day” incorrectly gives the harassment an alternating-day frequency, whereas the Korean idiom means that it happened constantly or day after day.",
+      "id": "F07",
+      "rationale": "하루가 멀다 하고 means nearly every day or incessantly, not once every two days.",
+      "replacement": "Even though the owner picked fights with her day after day, she had always bowed her head without a single word of complaint.",
+      "severity": "minor",
+      "source": "하루가 멀다 하고 시비를 걸어오는 사장한테도 싫은 소리 한 번 없이 고개를 숙이던 그녀가, 얼음처럼 차가운 눈빛으로 사장을 노려보고 있다."
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it contains one reversed physical detail and several localized changes to motivation, humiliation, characterization, and register.",
+  "version": 1
+}
