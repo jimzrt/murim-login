@@ -1,8 +1,8 @@
 # Im Kkeokjeong (임꺽정)
 
-- **Safe through:** Chapter 79
+- **Safe through:** Chapter 80
 - **Aliases:** Im Hyeokjun; Kkeokjeong hyung; Uncle Kkeokjeong
-- **Role:** E-rank Hunter; veteran member of the Peace Guild’s Gate party and current member of the Peace Guild
+- **Role:** D-rank Hunter; veteran member of the Peace Guild’s Gate party and current member of the Peace Guild
 - **Personality:** Good-natured, sociable, modest about his family, and shamelessly confident about their age difference
 - **Voice:** Hearty, casual, teasing, and quick to laugh
 - **Relationships:** An old acquaintance of Jin Taekyung from the Ilsan manpower office; calls Taekyung his little brother, recommends him to Team Leader Choi, and is married with two children
