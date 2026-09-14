@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Yes, well, we’ll go change into our equipment.”\n\n“I’ll see you in front of the Gate.”",
+      "defect": "The first line omits that they will return after changing, while the second changes both the subject and action: Im Changsoo’s group will wait at the Gate, not merely meet them there.",
+      "id": "F01",
+      "rationale": "오겠습니다 explicitly includes returning, and 기다리죠 means “we’ll wait,” preserving the implied group subject and physical action.",
+      "replacement": "“All right, then. We’ll go change into our gear and be right back.”\n\n“We’ll wait for you in front of the Gate.”",
+      "severity": "critical",
+      "source": "“네, 그럼 저희는 장비로 갈아입고 오겠습니다.”\n\n“게이트 앞에서 기다리죠.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Even I, when I was the lowest-level Hunter, made more than 100 million won a year by living frugally, so there was no need to explain how much the higher-level Hunters earned.",
+      "defect": "The draft changes Taekyung’s strenuous work and lifestyle into financial frugality, altering the reason he earned that amount, and adds an explicit comparison with higher-level Hunters.",
+      "id": "F02",
+      "rationale": "빡세게 생활해서 means living or working intensely, not economizing, while 두말할 것도 없다 simply says no further explanation is needed.",
+      "replacement": "Even I made over 100 million won a year as a lowest-rank Hunter by working my ass off, so that said it all.",
+      "severity": "major",
+      "source": "최하급 헌터였던 나도 빡세게 생활해서 연봉 1억 이상은 벌었으니 두말할 것도 없다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "*Should I test it a little?*",
+      "defect": "The draft makes Taekyung intend to test the armor physically rather than inspect its item information, obscuring the Item Check mechanism established moments earlier.",
+      "id": "F03",
+      "rationale": "확인하다 means to check or inspect; his reaching toward the armor parallels his prior use of Item Check rather than a physical performance test.",
+      "replacement": "*Should I take a quick look?*",
+      "severity": "major",
+      "source": "‘살짝 확인해 볼까?’"
+    },
+    {
+      "confidence": 0.96,
+      "current": "When someone came from Ares Guild, everyone gave them a measure of respect.",
+      "defect": "“A measure of respect” weakens the source’s hierarchy: people begin by conceding superiority to anyone from Ares Guild.",
+      "id": "F04",
+      "rationale": "한 수 접고 들어가다 means to concede that the other party has the upper hand from the outset, not merely to show ordinary respect.",
+      "replacement": "Everyone deferred to anyone who came out of Ares Guild.",
+      "severity": "major",
+      "source": "아레스 길드 출신이라고 하면 다들 한 수 접고 들어간다."
+    },
+    {
+      "confidence": 0.91,
+      "current": "“Sir, wait a second.”",
+      "defect": "“Sir” makes the young man sound more deferential than his casual, presumptuous address in the source.",
+      "id": "F05",
+      "rationale": "아저씨 here is an informal address to the older official, consistent with the young man’s disrespectful familiarity.",
+      "replacement": "“Hey, mister. Hold on.”",
+      "severity": "minor",
+      "source": "“아저씨, 잠깐만.”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "*Then it was our lucky day.*",
+      "defect": "The draft turns Taekyung’s casual statement that the arrangement suits them into a claim about luck.",
+      "id": "F06",
+      "rationale": "우리야 땡큐지 colloquially means that they welcome or benefit from the proposal; it does not itself say that the day is lucky.",
+      "replacement": "*That worked great for us.*",
+      "severity": "minor",
+      "source": "“그럼 우리야 땡큐지.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "— Full Set Effect is active.\n\n> **System**\n>\n> **Item Window**",
+      "defect": "The two consecutive item notices are formatted as separate System windows even though no prose intervenes.",
+      "id": "F07",
+      "rationale": "The required System formatting keeps consecutive notices inside a single blockquote window and opens a new window only when prose intervenes.",
+      "replacement": "— Full Set Effect is active.\n>\n> **Item Window**",
+      "severity": "minor",
+      "source": "- 풀 세트 효과가 적용 중입니다.\n\n\n\n\n\n아이템창"
+    }
+  ],
+  "summary": "The draft contains one altered action and subject, several meaningful losses of mechanism, hierarchy, and register, plus a System-panel formatting error.",
+  "version": 1
+}

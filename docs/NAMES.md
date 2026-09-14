@@ -71,3 +71,11 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 미노타우로스 | **Minotaur** | B-rank monster species. |
 | 부천터미널 길드 | **Bucheon Terminal Guild** | Guild whose raid footage is shown. |
 | 미노타우로스의 미로 | **The Minotaur's Labyrinth** | B-rank Gate. |
+| 상동 길드 | **Sangdong Guild** | Mid-sized Guild near Bucheon that joins Peace Guild's first official raid. |
+| 헌터 협회 | **Hunter Association** | Organization investigating the Bucheon Terminal Guild fatality. |
+| 흑색 드레이크 | **Black Drake** | B-rank monster whose leather and spine are used for Taekyung's loaned equipment. |
+| 장인의 흑색 드레이크 가죽 세트 | **Masterwork Black Drake Leather Set** | Peak-grade armor set loaned to Taekyung. |
+| 장인의 검은 가시 창 | **Masterwork Black Thorn Spear** | Peak-grade spear loaned to Taekyung. |
+| 출혈 | **Bleeding** | Effect with a 90% activation chance on a successful spear hit. |
+| 니콜라스 | **Nicholas** | North American craftsman associated with the space-expansion suitcase. |
+| K사 | **K Company** | Manufacturer of the space-expansion suitcase. |
