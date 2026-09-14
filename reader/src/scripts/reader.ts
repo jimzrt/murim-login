@@ -50,6 +50,12 @@ function boot() {
     initJump();
     initKeys();
     chromeReady = true;
+  } else {
+    // Persisted jump dialog can survive soft navigations; never leave it open stale.
+    const jump = document.getElementById("jump-dialog") as HTMLDialogElement | null;
+    if (jump?.open) {
+      jump.close();
+    }
   }
   pageAbort?.abort();
   pageAbort = new AbortController();
@@ -336,6 +342,13 @@ function initJump() {
     void renderJump("", results);
   };
 
+  const goToChapter = (href: string) => {
+    dialog.close();
+    if (location.pathname !== new URL(href, location.href).pathname) {
+      location.href = href;
+    }
+  };
+
   bindDialogScrollLock(dialog);
   openBtn.addEventListener("click", open);
   closeBtn?.addEventListener("click", () => dialog.close());
@@ -343,6 +356,17 @@ function initJump() {
     if (event.target === dialog) {
       dialog.close();
     }
+  });
+  results.addEventListener("click", (event) => {
+    const link = event.target instanceof Element ? event.target.closest<HTMLAnchorElement>("a.jump-option") : null;
+    if (!link?.href) {
+      return;
+    }
+    if (event.defaultPrevented || event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) {
+      return;
+    }
+    event.preventDefault();
+    goToChapter(link.href);
   });
   input.addEventListener("input", () => {
     void renderJump(input.value, results);
@@ -358,7 +382,7 @@ function initJump() {
       event.preventDefault();
       const target = jumpItems[jumpIndex] ?? jumpItems[0];
       if (target) {
-        location.href = target.h;
+        goToChapter(target.h);
       }
     }
   });

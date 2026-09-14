@@ -884,7 +884,14 @@ html[data-theme="light"] .system-window {
 }
 
 .reader-dialog {
-  width: min(24rem, calc(100vw - 2rem));
+  box-sizing: border-box;
+  /* border-box + side gutter for the 4px outer gold ring; margin:auto keeps centering. */
+  width: min(
+    24rem,
+    calc(100vw - 2.5rem - env(safe-area-inset-left, 0px) - env(safe-area-inset-right, 0px))
+  );
+  max-width: calc(100% - 2.5rem - env(safe-area-inset-left, 0px) - env(safe-area-inset-right, 0px));
+  margin: auto;
   padding: 1.05rem 1.15rem 1.2rem;
   border: 2px solid var(--gold);
   border-radius: 0.35rem;
