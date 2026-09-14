@@ -1,0 +1,106 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“He lasted four hours while being beaten like that. With stamina and grit like his, he’ll recover in no time… Why are you laughing?”",
+      "defect": "The draft invents recovery as the result of Taekyung’s stamina and grit, while the source leaves Mukyung’s thought unfinished and therefore ambiguous.",
+      "id": "F01",
+      "rationale": "The Korean breaks off after 금방 without specifying whether Taekyung will recover, improve, or accomplish something else.",
+      "replacement": "“He lasted four hours while taking a beating like that. With that kind of stamina and grit, he’ll soon… Why are you laughing?”",
+      "severity": "major",
+      "source": "“그렇게 두들겨 맞으면서도 두 시진이나 버티더군요. 이 정도 체력과 독기면 금방…… 왜 웃으십니까?”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Jin Mukyung silently looked down at him sprawled out on the floor, then slowly opened his mouth.",
+      "defect": "The draft omits that Taekyung is lying spread-eagled in the shape of the character 大.",
+      "id": "F02",
+      "rationale": "대자로 뻗은 explicitly describes the position of Taekyung’s body, and the visual detail contributes to the aftermath of the blow.",
+      "replacement": "Jin Mukyung silently looked down at him lying spread-eagled on the floor, then slowly spoke.",
+      "severity": "minor",
+      "source": "대자로 뻗은 그를 말없이 내려다보던 진무경이 천천히 입을 열었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "I casually turned my head and saw Jin Mukyung staring at me with round eyes.",
+      "defect": "“Round eyes” suggests surprise or innocence, whereas 고리눈을 뜬 describes a fierce, glaring expression.",
+      "id": "F03",
+      "rationale": "The source presents Mukyung as visibly hostile, which motivates Taekyung’s immediate recollection of the previous beating.",
+      "replacement": "I casually turned my head and found Jin Mukyung glaring at me.",
+      "severity": "major",
+      "source": "슬쩍 고개를 돌리니 고리눈을 뜬 진무경이 보였다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Oh? Hyung. When did you get here?”",
+      "defect": "The draft uses the casual “Hyung” even though 형님 and the surrounding polite speech mark Taekyung’s deliberate shift to deference.",
+      "id": "F04",
+      "rationale": "The next paragraph explicitly identifies Taekyung’s use of 존댓말 as a calculated attempt to avoid another beating, and the established rendering for his deferential 형님 is “Hyung-nim.”",
+      "replacement": "“Oh? Hyung-nim. When did you get here?”",
+      "severity": "major",
+      "source": "“어? 형님. 언제 오셨어요?”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Yes, Hyung.”",
+      "defect": "The casual address again removes the formal deference Taekyung is intentionally maintaining.",
+      "id": "F05",
+      "rationale": "형님 is deferential here, and Taekyung’s exaggerated politeness is the scene’s central comic strategy.",
+      "replacement": "“Yes, Hyung-nim.”",
+      "severity": "major",
+      "source": "“네, 형님.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "*Logout is impossible during combat? What kind of bullshit is that?*",
+      "defect": "“Bullshit” adds explicit profanity absent from this thought and unnecessarily intensifies Taekyung’s register.",
+      "id": "F06",
+      "rationale": "그딴 게 어디 있어 is dismissive and indignant, but it is not itself a profanity.",
+      "replacement": "*You can’t Logout during combat? What kind of ridiculous rule is that?*",
+      "severity": "minor",
+      "source": "‘전투 시에는 로그아웃이 불가능하다니. 그딴 게 어디 있어.’"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Why are your eyes like that?”\n\n“My eyes?”\n\nAt his icy voice, I opened my eyes as brightly as possible.\n\nNow even my eyes had to look well-behaved if I wanted to take one less beating.",
+      "defect": "The exchange is rendered in unnatural English: Mukyung is objecting to how Taekyung is looking at him, and “eyes had to look well-behaved” does not naturally convey Taekyung’s attempt to look bright and innocent.",
+      "id": "F07",
+      "rationale": "눈을 그렇게 뜨다 concerns Taekyung’s expression or gaze, while 초롱초롱 and 착하게 describe his calculated attempt to make that gaze appear harmless.",
+      "replacement": "“Why are you looking at me like that?”\n\n“Me?”\n\nAt his icy tone, I made my eyes look as bright and innocent as possible.\n\nNow I even had to watch how I looked at him if I wanted one less beating.",
+      "severity": "minor",
+      "source": "“너 왜 눈을 그렇게 떠?”\n\n“제가요?”\n\n싸늘한 목소리에 최대한 눈을 초롱초롱하게 떴다. 이제는 눈도 착하게 떠야 한 대라도 덜 맞는다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Wasn’t this a younger brother without even a speck of virtue?",
+      "defect": "“Virtue” narrowly implies moral righteousness and sounds stilted; 장점 means any merit, good point, or redeeming quality.",
+      "id": "F08",
+      "rationale": "Mukyung is denying that Taekyung has anything praiseworthy, not making a formal judgment about his virtue.",
+      "replacement": "Wasn’t he a younger brother without a single redeeming quality?",
+      "severity": "minor",
+      "source": "장점이라고는 눈곱만큼도 없는 동생 아닌가."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Surely he wasn’t going to die.”",
+      "defect": "The past-tense phrasing is unnatural and weakens Mukyung’s dismissive reassurance about the present possibility of death.",
+      "id": "F09",
+      "rationale": "The Korean rhetorically dismisses the possibility that Taekyung will die from the beating.",
+      "replacement": "“It’s not like he’s going to die.”",
+      "severity": "minor",
+      "source": "“설마 죽기야 하겠습니까?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Jin Wikyung had no doubt that the two geniuses would become a powerful stimulus for each other.",
+      "defect": "“Become a powerful stimulus for each other” is an unnatural Korean-syntax calque.",
+      "id": "F10",
+      "rationale": "큰 자극이 되다 naturally means that each will motivate or push the other, which “spur each other on” conveys without changing the relationship.",
+      "replacement": "Jin Wikyung had no doubt that the two geniuses would greatly spur each other on.",
+      "severity": "minor",
+      "source": "두 천재가 서로에게 큰 자극이 될 것임을, 그는 믿어 의심치 않았다."
+    }
+  ],
+  "summary": "The draft alters one facial expression, resolves an intentionally unfinished statement, drops a visual action detail, weakens deferential address, adds profanity, and contains several localized wording issues.",
+  "version": 1
+}
