@@ -1,23 +1,26 @@
 ---
 interface Props {
   chapter: number;
+  title?: string;
 }
 
-const { chapter } = Astro.props;
+const { chapter, title } = Astro.props;
 const host = "https://murimlogin.duckdns.org";
 const siteId = "murim-login";
 const pageUrl = `chapter-${chapter}`;
+const pageTitle = title ?? `Chapter ${chapter}`;
 ---
 
 <section
-  class="comments"
+  class="comments system-comments"
   aria-label="Comments"
   data-remark42
   data-remark42-host={host}
   data-remark42-site={siteId}
   data-remark42-url={pageUrl}
+  data-remark42-title={pageTitle}
 >
-  <h2 class="comments-title">Comments</h2>
+  <p class="system-comments__badge" aria-hidden="true">Comments</p>
   <div id="remark42"></div>
   <p class="comments-offline" hidden>Comments need a network connection.</p>
 </section>
@@ -37,6 +40,7 @@ const pageUrl = `chapter-${chapter}`;
     const host = section.dataset.remark42Host;
     const siteId = section.dataset.remark42Site;
     const pageUrl = section.dataset.remark42Url;
+    const pageTitle = section.dataset.remark42Title;
     if (!host || !siteId || !pageUrl || !mount) {
       return;
     }
@@ -50,7 +54,7 @@ const pageUrl = `chapter-${chapter}`;
     }
 
     const win = window as Window & {
-      remark_config?: Record<string, string>;
+      remark_config?: Record<string, unknown>;
       REMARK42?: { destroy?: () => void; changeTheme?: (theme: string) => void };
     };
     win.REMARK42?.destroy?.();
@@ -64,7 +68,12 @@ const pageUrl = `chapter-${chapter}`;
       host,
       site_id: siteId,
       url: pageUrl,
+      page_title: pageTitle,
       theme: themeName(),
+      show_rss_subscription: false,
+      show_email_subscription: false,
+      no_footer: true,
+      max_shown_comments: 20,
     };
 
     const existing = document.querySelector<HTMLScriptElement>("script[data-remark42-embed]");

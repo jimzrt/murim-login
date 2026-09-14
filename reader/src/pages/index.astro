@@ -2,6 +2,7 @@
 import { Picture } from "astro:assets";
 import Base from "../layouts/Base.astro";
 import cover from "../assets/cover.jpg";
+import Remark42Counters from "../components/Remark42Counters.astro";
 import { allChapters, chapterHref, groupedChapters, toIndex, withBase } from "../lib/chapters";
 
 const entries = await allChapters();
@@ -67,7 +68,10 @@ const wordMap = Object.fromEntries(entries.map((entry) => [String(entry.data.cha
               {group.items.map((item) => (
                 <li>
                   <a href={item.href} data-chapter={item.chapter}>
-                    {item.title}
+                    <span class="chapter-ol__title">{item.title}</span>
+                    <span class="chapter-ol__meta">
+                      <span class="remark42__counter" data-url={`chapter-${item.chapter}`}>0</span>
+                    </span>
                   </a>
                 </li>
               ))}
@@ -77,4 +81,5 @@ const wordMap = Object.fromEntries(entries.map((entry) => [String(entry.data.cha
       }
     </section>
   </main>
+  <Remark42Counters />
 </Base>
