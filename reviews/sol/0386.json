@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "But with that, Felix Alexander Louis—third in line to the British throne—made the difference between himself and everyone else perfectly clear.",
+      "defect": "The comparison is reversed. Felix distinguishes Lee Jungryong from everyone else by granting Lee a privilege; he does not distinguish himself from everyone else.",
+      "id": "F01",
+      "rationale": "The source explicitly contrasts 다른 이들, “the others,” with 이정룡, Lee Jungryong.",
+      "replacement": "But with that, Felix Alexander Louis—third in line to the British throne—made the difference between Lee Jungryong and everyone else perfectly clear.",
+      "severity": "critical",
+      "source": "하지만 이것으로 영국 왕위 계승 서열 3위, 필릭스 알렉산더 루이는 다른 이들과 이정룡의 차이를 분명히 했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Why? Are you ignoring us because you’re not part of the Shanghai clique?”",
+      "defect": "The factional subject is reversed. Liao accuses Wei of ignoring him because Liao is not in the Shanghai clique, not because Wei is outside it.",
+      "id": "F02",
+      "rationale": "Liao belongs to the rival Princelings, while the preceding explanation establishes that Wei Penghu belongs to the Shanghai clique.",
+      "replacement": "“Why? Are you ignoring me because I’m not part of the Shanghai clique?”",
+      "severity": "critical",
+      "source": "「어째서! 지금 상하이방이 아니라고 무시하는 거요!」"
+    },
+    {
+      "confidence": 0.96,
+      "current": "He could feel it through his skin and sixth sense. The tremendous energy gathered throughout Jin Taekyung’s body. His deeply sunken eyes.",
+      "defect": "“Sunken eyes” describes a gaunt physical appearance. Here 깊게 가라앉은 describes the profound, settled quality of Taekyung’s gaze, which contributes to Lee Jungryong recognizing his advancement.",
+      "id": "F03",
+      "rationale": "The source presents Taekyung’s contained power and deeply settled gaze as parallel signs of his changed state, not signs of physical emaciation.",
+      "replacement": "He could feel it through his skin and sixth sense. The tremendous energy gathered throughout Jin Taekyung’s body. The deep, still look in his eyes.",
+      "severity": "major",
+      "source": "피부와 육감을 통해 느껴졌다. 진태경의 전신에 갈무리된 강대한 기운이. 깊게 가라앉은 놈의 눈동자가."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Wu Heixing bowed his head with an overwhelmed expression.",
+      "defect": "“Overwhelmed” omits 황송하다, the deferential sense of feeling deeply honored and almost unworthy, weakening Wu Heixing’s conspicuous submission to Lee Jungryong.",
+      "id": "F04",
+      "rationale": "The source specifically characterizes his expression as deferential gratitude or honor, reinforcing the hierarchy established in the surrounding exchange.",
+      "replacement": "Wu Heixing bowed his head, looking deeply honored.",
+      "severity": "major",
+      "source": "우헤이싱이 황송하다는 듯한 얼굴로 고개를 숙였다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "“Felix. You may call me Felix.”",
+      "defect": "The final 됩니다 is omitted, smoothing away the conspicuous repetition and register correction that motivate the next sentence’s description of awkward translated Korean and ambiguous speech level.",
+      "id": "F05",
+      "rationale": "The source deliberately repeats 되다 with two different endings, 되오 and 됩니다; the English should retain an audible machine-translated awkwardness rather than silently normalizing it.",
+      "replacement": "“Felix. You may call me Felix. You may.”",
+      "severity": "major",
+      "source": "“필릭스. 필릭스라고 부르면 되오. 됩니다.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "I didn’t know about the rest, but he seemed like a complete dumbass.",
+      "defect": "The generic insult omits the wordplay linking 소 in Liao’s maxim about sacrificing the few to 소, “ox,” in Taekyung’s retort.",
+      "id": "F06",
+      "rationale": "The source punchline directly twists the general’s preceding 대를 위한 소의 희생 into 소 대가리; preserving only the insulting sense loses the joke.",
+      "replacement": "Forget the rest—he just sounded like an ox head to me.[^1]\n\n[^1]: The Korean word *so* can mean both “the few” in the general’s maxim and “ox,” turning his solemn justification into an insult.",
+      "severity": "major",
+      "source": "다른 건 모르겠고 그냥 소 대가리 같은데."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Under Wei Penghu’s leadership—the Chinese man who had just subdued the Chinese bastard—the meeting moved forward quickly.",
+      "defect": "“Chinese bastard” sanitizes 짱깨, an explicit anti-Chinese ethnic slur, weakening both Taekyung’s offensive register and the joke that a Chinese official has subdued another Chinese man described with that slur.",
+      "id": "F07",
+      "rationale": "The binding rules prohibit softening profanity or slurs, and the source deliberately uses 짱깨 rather than an ordinary insult such as 새끼.",
+      "replacement": "Under Wei Penghu’s leadership—a Chinese man who had just subdued the chink—the meeting moved forward quickly.",
+      "severity": "major",
+      "source": "짱깨를 진압한 중국인, 웨이펑후의 주도하에 이후 회의는 빠르게 진행되었다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "The disaster was already enormous in itself, and the situation was unquestionably one of war. Naturally, they had to proceed with the utmost caution.",
+      "defect": "The tautological “disaster was enormous” omits the source’s classification of the monster wave as a 천재지변, a natural catastrophe.",
+      "id": "F08",
+      "rationale": "The source emphasizes that the wave independently qualifies as a tremendous natural catastrophe before adding that it is also a wartime situation.",
+      "replacement": "It was already a massive natural catastrophe in its own right, and the situation was unquestionably one of war. Naturally, they had to proceed with the utmost caution.",
+      "severity": "minor",
+      "source": "그 자체만으로도 이미 엄청난 천재지변이었고, 확실한 전시 상황이었으니 신중에 신중을 기하는 것은 당연했다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The voice pierced my ear.\n\nIt was not a Message Spell.\n\nIt was unmistakably Sound Transmission.",
+      "defect": "The first sentence duplicates the already translated action immediately before the quoted voice; the source identifies the communication method after the quote without repeating that the voice entered his ear.",
+      "id": "F09",
+      "rationale": "귓가를 파고드는 누군가의 목소리 is already represented before the quoted line by “a voice suddenly reached my ear.” Repeating it afterward adds an action absent from the source.",
+      "replacement": "It was not a Message Spell, but unmistakably Sound Transmission.",
+      "severity": "minor",
+      "source": "귓가를 파고드는 누군가의 목소리. 그건 메시지 마법이 아닌, 틀림없는 전음(傳音)이었다."
+    }
+  ],
+  "summary": "Two subject reversals alter hierarchy and factional meaning; additional findings restore omitted machine-translation awkwardness, deference, wordplay, offensive register, and source-specific description.",
+  "version": 1
+}

@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "Anxiety. Impatience.",
+      "defect": "“Impatience” suggests frustration with delay, while 초조 here denotes nervous agitation or restlessness caused by Jin Taekyung’s unexpected growth.",
+      "id": "F01",
+      "rationale": "The paired emotions 불안 and 초조 describe Lee Jungryong becoming anxious and unsettled, not impatient.",
+      "replacement": "Anxiety. Restlessness.",
+      "severity": "minor",
+      "source": "lines 135–139 / P74"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Yet that man had awakened feelings of anxiety and impatience within him.",
+      "defect": "The repeated rendering of 초조 as “impatience” again changes nervous agitation into frustration with delay.",
+      "id": "F02",
+      "rationale": "This sentence explicitly reprises 불안. 초조. from the preceding passage and should preserve the same emotional meaning.",
+      "replacement": "Yet that man had awakened feelings of anxiety and restlessness within him.",
+      "severity": "minor",
+      "source": "lines 141–143 / P77"
+    },
+    {
+      "confidence": 0.91,
+      "current": "they felt awkward about continuing to hold power",
+      "defect": "“Felt awkward” reduces 눈치가 보이다 to personal embarrassment; here it means that political optics and pressure made it difficult for the faction to continue monopolizing power.",
+      "id": "F03",
+      "rationale": "The line explains why the Princelings agreed to relinquish control after their chairman’s failures during the Great Cataclysm.",
+      "replacement": "it would have looked bad for them to keep holding on to power",
+      "severity": "minor",
+      "source": "lines 209–210 / P110"
+    }
+  ],
+  "summary": "Faithful overall, with minor mistranslations of Lee Jungryong’s emotional state and the political pressure on the Princelings.",
+  "version": 1
+}

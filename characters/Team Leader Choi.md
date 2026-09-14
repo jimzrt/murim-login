@@ -1,6 +1,6 @@
 # Team Leader Choi
 
-- **Safe through:** Chapter 54
+- **Safe through:** Chapter 386
 - **Aliases:** Choi Minwoo (최민우)
 - **Role:** Reawakened Hunter publicly classified as C-rank; leader and employer of the Peace Guild’s E-rank Gate party
 - **Personality:** Calm, observant, practical, and decisive under pressure

@@ -1,0 +1,39 @@
+{
+  "chapter": 386,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.206,
+    "source_characters": 5564,
+    "source_paragraphs": 151,
+    "translation_characters": 12276,
+    "translation_paragraphs": 161
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "무인",
+        "preferred": "martial artist"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "매력",
+        "preferred": "Charm"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "청해",
+        "preferred": "Qinghai"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}

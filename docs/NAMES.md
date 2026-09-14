@@ -139,3 +139,9 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 캐릭퍼거스 남작 | **Baron Carrickfergus** | Title held by Prince Felix. |
 | 가터 훈장의 기사 | **Knight of the Garter** | Honor held by Prince Felix. |
 | 시슬 훈장의 기사 | **Knight of the Thistle** | Honor held by Prince Felix. |
+| 아레스 길드 | **Ares Guild** | Powerful Guild whose practical leader is Lee Jungryong. |
+| 랴오 상장 | **Senior General Liao** | Chinese Senior General and member of the Princelings faction. |
+| 태자당 | **Princelings** | The Communist Party's largest faction; Liao belongs to it. |
+| 상하이방 | **Shanghai clique** | Faction associated with Xiao Yang and Wei Penghu. |
+| 천안문 광장 | **Tiananmen Square** | Place referenced in Taekyung's hypothetical beheading joke. |
+| 북경 | **Beijing** | Possible destination for teleported nuclear warheads. |
