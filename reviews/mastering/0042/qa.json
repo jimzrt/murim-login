@@ -1,0 +1,23 @@
+{
+  "chapter": 42,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.191,
+    "source_characters": 5797,
+    "source_paragraphs": 200,
+    "translation_characters": 12703,
+    "translation_paragraphs": 207
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "동대문",
+        "romanization": "dongdaemun"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
