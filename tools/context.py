@@ -513,7 +513,10 @@ profile continuity.
 
 `context` must contain exactly the durable context schema shown below, with version
 1 and safe_through {number}. Keep at most
-{workflow_config()["continuity_source_limit"]} continuity_sources. Use only chapter
+{workflow_config()["continuity_source_limit"]} continuity_sources. Keep
+`active_continuity` to at most 20 concise items, `open_questions` to at most 8
+items, and `temporary_decisions` to at most 8 items. Keep the serialized context
+under {workflow_config()["context_max_bytes"]} UTF-8 bytes. Use only chapter
 numbers through {number}. `profile_updates` may replace one exact, uniquely occurring
 complete line in a listed profile, and only an Aliases, Role, Personality, Voice, or
 Relationships line. Use `profile_creations` only for a newly introduced named
@@ -525,7 +528,6 @@ and at least one endpoint must occur in the source (first-person narrators may b
 ledger-only). Do not invent risk-register rows. Beat
 plot paragraphs are plain strings; continuity and translation decisions are concise
 list items.
-
 Return this exact shape:
 
 {{
