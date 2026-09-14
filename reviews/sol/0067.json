@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "His exposed upper body was stained dark red and black from head to toe.",
+      "defect": "“From head to toe” changes the affected area from his exposed upper body to his entire body and contradicts “upper body” within the same sentence.",
+      "id": "F01",
+      "rationale": "The source limits the discoloration to Hyuk Mujin’s exposed upper body.",
+      "replacement": "His exposed upper body was stained dark reddish-black all over.",
+      "severity": "critical",
+      "source": "훤히 드러난 상반신은 온통 검붉은색으로 물들어 있었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Third Young Master, get out. Unless you want more needles.”",
+      "defect": "“More needles” incorrectly implies that Taekyung has already received acupuncture.",
+      "id": "F02",
+      "rationale": "The source threatens to give Taekyung acupuncture if he stays; it does not say he would receive additional needles.",
+      "replacement": "“Third Young Master, get out. Unless you want to be needled.”",
+      "severity": "minor",
+      "source": "“삼공자는 나가. 침 맞기 싫으면.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“With the family’s circumstances until now, even maintaining the place in this condition was difficult.",
+      "defect": "The draft says it was difficult to preserve the estate in its dilapidated condition, rather than that the family lacked the means to maintain even this much of its vast property.",
+      "id": "F03",
+      "rationale": "이 정도 유지하는 것만으로도 벅차 describes the burden of maintaining the existing extent of the estate and explains its deterioration; “in this condition” reverses that causal relationship.",
+      "replacement": "“Given how things have been for our family, even maintaining this much has been more than we could manage.",
+      "severity": "major",
+      "source": "“지금까지의 본가 사정으로는 이 정도 유지하는 것만으로도 벅차서 말이다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Young people are such babies.",
+      "defect": "The direct, disparaging rebuke of Hyuk Mujin is generalized into a comment about young people as a group.",
+      "id": "F04",
+      "rationale": "젊은 놈 addresses Hyuk Mujin directly and preserves the Hall Master’s cantankerous, dismissive register.",
+      "replacement": "“A young punk like you, making such a fuss.",
+      "severity": "minor",
+      "source": "“젊은 놈이 엄살은."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Maybe he can’t stand being apart from him for even an instant. He’d drop dead for the Third Young Master.”\n\nEveryone who mattered already knew.\n\nThey all knew that Jin Wikyung was hopelessly obsessed with his little brother.",
+      "defect": "The idiom 껌뻑 죽다 means to dote on someone, not literally to die for them, while 동생 바보 characterizes Wikyung as an unabashed fool for his brother rather than as obsessively fixated on him. “Everyone who mattered” also incorrectly turns people likely to have noticed into socially important people.",
+      "id": "F05",
+      "rationale": "The source conveys conspicuous, excessive brotherly affection and says that everyone in a position to notice already knows about it; the draft distorts both the idiom and the characterization.",
+      "replacement": "“Maybe he can’t stand being apart from him for even an instant. He absolutely dotes on the Third Young Master.”\n\nAnyone who paid attention already knew: Jin Wikyung was a complete fool for his little brother.",
+      "severity": "major",
+      "source": "“한시라도 떨어져 있기 싫으신가 보지. 삼공자라면 껌뻑 죽으시잖아.”\n\n이미 알 만한 사람들은 다 알고 있다는 거다. 진위경이 엄청난 동생 바보라는 사실을."
+    }
+  ],
+  "summary": "One critical physical-fact error, two meaningful semantic errors, and two register or characterization issues require correction.",
+  "version": 1
+}
