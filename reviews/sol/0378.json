@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Can we open the door for a second?”\n\n“What?”\n\n“I said, can we open the plane door?”",
+      "defect": "The draft changes Taekyung’s request to open the door himself into a collective action.",
+      "id": "F01",
+      "rationale": "The omitted Korean subject is resolved by the surrounding exchange and Taekyung’s later statement that he is opening it.",
+      "replacement": "“Can I open the door for a second?”\n\n“What?”\n\n“I said, can I open the plane door?”",
+      "severity": "critical",
+      "source": "“잠깐만 문 열어도 돼요?”\n\n“예?”\n\n“비행기 문 좀 열어도 되냐고요.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "And there were more than a dozen of them!",
+      "defect": "The draft changes an approximate count of around ten into a definite count exceeding twelve.",
+      "id": "F02",
+      "rationale": "십여 마리 means roughly ten or a dozen, not more than twelve.",
+      "replacement": "And there were around a dozen of them!",
+      "severity": "critical",
+      "source": "그것도 무려 십여 마리나!"
+    },
+    {
+      "confidence": 0.99,
+      "current": "More than a dozen pairs of bright yellow eyes stared at one another.",
+      "defect": "The draft again turns an approximate count into a definite count exceeding twelve.",
+      "id": "F03",
+      "rationale": "십여 쌍 indicates an approximate count around ten.",
+      "replacement": "Around a dozen pairs of bright yellow eyes stared at one another.",
+      "severity": "critical",
+      "source": "십여 쌍의 샛노란 눈동자들이 서로를 바라본다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "More than a dozen pairs of wings began flapping desperately.",
+      "defect": "The draft again overstates the approximate number of wyverns.",
+      "id": "F04",
+      "rationale": "십여 쌍 means approximately ten pairs, not necessarily more than twelve.",
+      "replacement": "Around a dozen pairs of wings began flapping desperately.",
+      "severity": "critical",
+      "source": "십여 쌍의 날개가 필사적으로 퍼덕이기 시작했다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Come to think of it, I’ve heard about that Hunter. They say he’s such an incredible fighter that Chairman Xiao Yang personally requested him.”",
+      "defect": "The draft omits 동지, erasing the speaker’s conspicuously Communist political register and form of address.",
+      "id": "F05",
+      "rationale": "주석 동지 explicitly combines the title Chairman with Comrade; even also preserves the force of 도.",
+      "replacement": "“Come to think of it, I’ve heard about that Hunter. They say he’s so formidable that even Comrade Chairman Xiao Yang made a special request for him.”",
+      "severity": "major",
+      "source": "“그, 그러고 보니 저 헌터님에 관해서 들은 적이 있어. 샤오 양 주석 동지께서도 특별히 요청할 만큼 대단한 실력자라던데.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "How could a mere human dare to—",
+      "defect": "The draft omits the wyverns’ self-identification as descendants of the great dragons, losing the basis of their pride and disbelief.",
+      "id": "F06",
+      "rationale": "위대한 드래곤의 후예 is an explicit characterization and hierarchy cue, not merely an unfinished generic objection.",
+      "replacement": "How could a mere human dare lay a hand on a descendant of the great dragons…",
+      "severity": "major",
+      "source": "어떻게 인간 따위가 감히 위대한 드래곤의 후예를……."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The nerve of him, insulting Koreans right in front of a proud son of Daehan—this kimchi man!",
+      "defect": "Daehan is left as an unestablished romanization, while “son of” is added and the sentence is awkwardly fragmented.",
+      "id": "F07",
+      "rationale": "대한 refers to Korea here; the replacement preserves Taekyung’s mock-patriotic self-description without inventing a filial metaphor.",
+      "replacement": "The nerve of him, insulting Koreans right in front of a proud Korean kimchi man like me!",
+      "severity": "minor",
+      "source": "감히 자랑스러운 대한의 김치맨 앞에서 한국인을 비하하는 말을 하다니."
+    },
+    {
+      "confidence": 0.94,
+      "current": "Compared to the aura emitted by the Western Heaven Demon Lord, this was no more than a gentle spring breeze.",
+      "defect": "Aura obscures that 기파 denotes emitted waves of Murim qi rather than a passive surrounding presence.",
+      "id": "F08",
+      "rationale": "The source describes the physical qi waves he gave off, which are the direct mechanical comparison for the wind pressure.",
+      "replacement": "Compared to the waves of qi the Western Heaven Demon Lord had emitted, this was no more than a gentle spring breeze.",
+      "severity": "minor",
+      "source": "서천마군이 내뿜던 기파에 비교하면, 이 정도는 살랑거리는 봄바람이나 다름없었으니까."
+    },
+    {
+      "confidence": 0.95,
+      "current": "The flame-infused sword qi surrounding the spearhead burned through the air and cleaved the wind.",
+      "defect": "The draft calls the energy on a spearhead “sword qi,” although this occurrence is simply 강기 and does not specify a sword.",
+      "id": "F09",
+      "rationale": "The replacement preserves the concentrated Murim energy and its coating action without introducing the wrong weapon category.",
+      "replacement": "Fiery concentrated qi sheathed the spearhead, burning the air and cleaving the wind.",
+      "severity": "minor",
+      "source": "창날에 서린 화염의 강기가 공기를 태우고 바람을 가른다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Don’t! You bingzi bastards![^1] Are you trying to kill us all?”",
+      "defect": "The Chinese slur 棒子 is incorrectly romanized as bingzi.",
+      "id": "F10",
+      "rationale": "The standard Mandarin romanization of 棒子 is bangzi; Korean 빵즈 reflects that pronunciation.",
+      "replacement": "“Don’t! You *bangzi* bastards![^1] Are you trying to kill us all?”",
+      "severity": "minor",
+      "source": "“하지 말라고! 이 빵즈(棒子) 놈들아! 우릴 다 죽일 셈이냐!”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "[^1]: *Bingzi* (棒子) is a derogatory Chinese slur for Koreans.",
+      "defect": "The footnote repeats the incorrect romanization.",
+      "id": "F11",
+      "rationale": "The footnote must use the same corrected standard romanization as the dialogue.",
+      "replacement": "[^1]: *Bangzi* (棒子) is a derogatory Chinese slur for Koreans.",
+      "severity": "minor",
+      "source": "빵즈(棒子)"
+    }
+  ],
+  "summary": "The draft changes who proposes opening the door, overstates all three approximate wyvern counts, omits political and dragon-lineage register, and contains several terminology errors.",
+  "version": 1
+}

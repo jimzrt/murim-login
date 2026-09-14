@@ -1,17 +1,17 @@
 # Translation State
 
-- Last completed: 377
-- Next chapter: 378
-- Current block: 375–379 (3/5)
-- Latest translation: `translations/0377.md`
-- Latest summary: `summaries/beats/0377.md`
-- Safe profiles through: chapter 377
+- Last completed: 378
+- Next chapter: 379
+- Current block: 375–379 (4/5)
+- Latest translation: `translations/0378.md`
+- Latest summary: `summaries/beats/0378.md`
+- Safe profiles through: chapter 378
 
 ## Current Block
 
-- The Sichuan Governor learns that Jin Taekyung's group has departed and leaves the handling of the troops stationed near Chengdu to his subordinates. His favorite concubine, Ae-hyang, persuades him to conceal the government uniforms and weapons involved in the recent conflict and submit a memorial exaggerating his role in restoring order. A sinister red light enters her eyes, and the narration suggests that she is acting for an unidentified superior.
-- Aboard the Water Dragon Stronghold's ships, Jin Taekyung jokes with Hyuk Mujin and Gung Gibang before ordering river bandits to dunk their heads in the Yangtze. He identifies the surviving fragment of the bound Black Dragon Armor, learns that the armor changes according to its owner's power, and renames it Flame Dragon Armor after infusing it with Scorching Yang Qi. The System states that the armor can repair its damaged sections by consuming its owner's internal energy.
-- Mungyeong catches Taekyung with his hand inside his loosened waistband, leading to banter about addressing him as Mungyeong in front of others. Taekyung stores the newly named armor in his inventory, lies down in the ship's cabin, and initiates Logout. As the countdown ends, he faintly hears Hyuk Mujin and Gung Gibang calling for help while being dunked.
+- Jin Taekyung successfully completes Logout and awakens aboard the private jet returning him to the modern world, only to learn that the plane is under attack by monsters.
+- Chengdu International Airport is engulfed in a battle between humans and monsters, while around a dozen A-rank wyverns pursue the jet. Team Leader Choi trusts Taekyung to resolve the crisis and uses barrier magic to seal the opening against the pressure.
+- Taekyung cuts a door into the aircraft with an Aura Blade, withstands the high-altitude wind, and kills the lead wyvern and multiple companions by throwing a spear. The remaining wyverns panic and postpone their revenge.
 
 ## Open Questions
 
@@ -24,7 +24,8 @@
 - Whether Mungyeong will ultimately intervene in the coming war or leave the Murim remains unresolved.
 - The identity of Ae-hyang's superior and the nature of her sinister red-eyed influence remain unresolved.
 - Whether the Sichuan Governor submits the false memorial and what consequences follow remain unresolved.
-- What follows Taekyung's Logout countdown remains unresolved.
+- The Lich's exact role in the Chengdu attack and the extent of its reach remain unresolved.
+- Whether Taekyung's private jet survives the ongoing wyvern attack remains unresolved.
 
 ## Exceptional Decision
 
@@ -42,6 +43,9 @@
 - Retain Master for 스승님 and render 살귀 as slaughter demon in Mungyeong's self-description.
 - Render 식경 as sikgyeong, approximately thirty minutes, with a footnote.
 - Render 흑룡갑 as Black Dragon Armor, 화룡갑 as Flame Dragon Armor, 수룡채 as Water Dragon Stronghold, 열화신공 as Blazing Flame Divine Art, 상산왕 as King of Shangshan, and 삼공 as Grand Councilor.
+- Render 최 팀장 as Team Leader Choi, 리치 as Lich, 스켈레톤 워로드 as Skeleton Warlord, 샤오 양 as Xiao Yang, 중국 중앙위원회 as Central Committee of China, 쓰촨성 as Sichuan Province, 청두 국제공항 as Chengdu International Airport, 헌터 마켓 as Hunter Market, and 검은 별 as Black Star.
+- Render 와이번 as wyvern, 드레이크 as drake, 용족 as dragonkin, 브레스 as Breath, 강기 as sword qi, and 오라 블레이드 as Aura Blade.
+- Retain a footnote explaining 빵즈 as a derogatory Chinese slur for Koreans.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

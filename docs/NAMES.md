@@ -83,3 +83,12 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 화룡갑 | **Flame Dragon Armor** | New name Taekyung gives the bound armor fragment. |
 | 열화신공 | **Blazing Flame Divine Art** | Art whose formula Taekyung uses to infuse the armor. |
 | 삼공 | **Grand Councilor** | High office referenced in the Sichuan Governor's ambitions. |
+| 최 팀장 | **Team Leader Choi** | Taekyung's modern-world team leader aboard the private jet. |
+| 리치 | **Lich** | Supreme undead monster associated with the recent monster wave. |
+| 스켈레톤 워로드 | **Skeleton Warlord** | Undead commander accompanying Taekyung's group. |
+| 샤오 양 | **Xiao Yang** | Chairman credited by passengers with making a special request for Taekyung. |
+| 중국 중앙위원회 | **Central Committee of China** | Organization that sent the private jet. |
+| 쓰촨성 | **Sichuan Province** | Province containing Chengdu International Airport. |
+| 청두 국제공항 | **Chengdu International Airport** | Destination airport under attack. |
+| 헌터 마켓 | **Hunter Market** | Market where Taekyung bought the spear at a discount. |
+| 검은 별 | **Black Star** | Epithet of the exceptionally powerful lead wyvern. |
