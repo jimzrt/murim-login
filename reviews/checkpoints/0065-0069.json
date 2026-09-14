@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Taekyung and the badly injured Hyuk Mujin are taken to the Medicine King Hall, while the Jin Family mistakes the incident for an assassin’s attack and begins a pursuit for the Head Elder’s possible hidden disciple.",
+      "defect": "This attributes the misunderstanding and pursuit to the Jin Family as a whole, obscuring that Jin Wikyung knowingly turns the household's misunderstanding into a fabricated cover story.",
+      "id": "C01",
+      "rationale": "Chapter 66 explicitly establishes that Jin Wikyung and Wipeng know there was no assassin and deliberately exploit the story for Wipeng’s real mission.",
+      "replacement": "Taekyung and the badly injured Hyuk Mujin are taken to the Medicine King Hall. While the wider household mistakes the incident for an assassin’s attack, Jin Wikyung deliberately uses that misunderstanding to create a pursuit for the Head Elder’s supposed hidden disciple.",
+      "severity": "major",
+      "source": "Checkpoint summary — Plot, first paragraph"
+    },
+    {
+      "confidence": 1.0,
+      "current": "The Jin Family is pursuing an unidentified assassin believed possibly to be the Head Elder’s hidden disciple. The assassin’s identity, sponsor, and possible connection to Song Sword Sect remain unknown.",
+      "defect": "The continuity note converts a fabricated cover story and Wipeng's deliberate intimidation of Song Sword Sect into genuine unresolved mysteries.",
+      "id": "C02",
+      "rationale": "Readers are shown both the invention of the pursuit and Wipeng's strategic use of the alleged trail; neither the assassin nor a connection to Song Sword Sect is an unresolved factual hook.",
+      "replacement": "The Jin Family is publicly pursuing a nonexistent assassin alleged to be the Head Elder’s hidden disciple. Jin Wikyung created the cover story for Wipeng’s real mission, and Wipeng’s insinuation at Song Sword Sect was a warning rather than evidence of its involvement.",
+      "severity": "major",
+      "source": "Checkpoint summary — Continuity, second bullet"
+    },
+    {
+      "confidence": 1.0,
+      "current": "The Jin Family is pursuing an unidentified assassin believed possibly to be the Head Elder's hidden disciple.",
+      "defect": "The active state records the knowingly nonexistent assassin as an actual unidentified person.",
+      "id": "C03",
+      "rationale": "Durable continuity must distinguish the public explanation from the truth already revealed to the reader.",
+      "replacement": "The Jin Family is publicly pursuing a nonexistent assassin alleged to be the Head Elder's hidden disciple, using a cover story created by Jin Wikyung.",
+      "severity": "major",
+      "source": "Durable state — active_continuity, fourth entry"
+    },
+    {
+      "confidence": 1.0,
+      "current": "The identity and sponsor of the assassin who attacked Taekyung and Hyuk Mujin remain unconfirmed.",
+      "defect": "This creates a false unresolved attacker and sponsor even though the reading copies establish that Mukyung caused the incident and the assassin story was fabricated afterward.",
+      "id": "C04",
+      "rationale": "The corrected hook preserves the genuinely unresolved consequence without contradicting the revealed events.",
+      "replacement": "Whether the fabricated assassin story will be exposed remains unresolved.",
+      "severity": "major",
+      "source": "Durable state — open_questions, first entry"
+    },
+    {
+      "confidence": 0.99,
+      "current": "It remains unresolved whether Song Sword Sect has any connection to the attack.",
+      "defect": "Wipeng invents the alleged trail to Song Sword Sect as leverage; the chapter supplies no evidence of a real attack or connection.",
+      "id": "C05",
+      "rationale": "This records the actual open question created by Wipeng's visit rather than treating his calculated warning as evidence.",
+      "replacement": "It remains unresolved whether Song Sword Sect will answer Jin Wikyung's summons.",
+      "severity": "major",
+      "source": "Durable state — open_questions, fifth entry"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Jin Wikyung arranges fifteen days of temporary cohabitation between Taekyung and Jin Mukyung while Taekyung's residence is rebuilt.",
+      "defect": "The state retains Wikyung's initial proposal after Chapter 68 reduces the final arrangement to ten days, which Chapter 69's Quest timer confirms.",
+      "id": "C06",
+      "rationale": "The brothers surrender after Wikyung bargains down from half a month to ten days, and the Quest begins with just under ten days remaining.",
+      "replacement": "Jin Wikyung arranges ten days of temporary cohabitation between Taekyung and Jin Mukyung while Taekyung's residence is rebuilt.",
+      "severity": "major",
+      "source": "Durable state — active_continuity, thirteenth entry"
+    },
+    {
+      "confidence": 1.0,
+      "current": "He lasted four hours while taking a beating like that.",
+      "defect": "The duration contradicts the packet's binding decision that 두 시진 is rendered as two hours.",
+      "id": "C07",
+      "rationale": "This restores the established quantity and prevents the chapter from doubling the intended training duration.",
+      "replacement": "He lasted two hours while taking a beating like that.",
+      "severity": "major",
+      "source": "Chapter 69 — Jin Mukyung reporting Taekyung's endurance to Jin Wikyung"
+    },
+    {
+      "confidence": 0.98,
+      "current": "While that bastard had been learning systematic fist and kicking techniques, I had been watching UFC matches.",
+      "defect": "The phrase drifts from the established rendering \"fist-and-kicking technique\" and reads as two separate categories rather than the designated combined discipline.",
+      "id": "C08",
+      "rationale": "Hyphenating the established compound preserves terminology while retaining the sentence's natural plural construction.",
+      "replacement": "While that bastard had been learning systematic fist-and-kicking techniques, I had been watching UFC matches.",
+      "severity": "minor",
+      "source": "Chapter 69 — Taekyung comparing his unarmed experience with Mukyung's"
+    }
+  ],
+  "summary": "The reading copies are broadly consistent in voice and formatting, but Chapter 69 contains one quantity error and one established-term drift. The checkpoint summary and durable state repeatedly treat the deliberately fabricated assassin story as a genuine unresolved attack, and the durable state retains the superseded fifteen-day cohabitation period instead of the final ten days.",
+  "version": 1
+}
