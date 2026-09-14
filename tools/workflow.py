@@ -45,6 +45,8 @@ DEFAULT_CONFIG = {
     "beat_max_bytes": 4096,
     "checkpoint_review_interval": 5,
     "checkpoint_evaluation_window": 20,
+    "model_step_retries": 2,
+    "run_until_chapter_retries": 2,
 }
 
 

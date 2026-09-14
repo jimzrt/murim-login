@@ -120,6 +120,12 @@ Checkpoint reports are automatically recorded with unresolved dispositions for
 later retrofit. They are advisory and never prevent the current chapter from
 being accepted.
 
+`python tools/run_until.py N` runs `run_next` through chapter N. Model steps
+(`draft`, `review`, `update`, `summarize`, `checkpoint`) retry up to
+`model_step_retries` times inside `run_next`. If a whole chapter still fails,
+`run_until` resumes that same chapter up to `run_until_chapter_retries` times
+(`--retries` overrides). It does not skip ahead.
+
 Inspect exact usage with:
 
 ```bash

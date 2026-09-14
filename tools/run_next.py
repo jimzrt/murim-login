@@ -38,6 +38,15 @@ except ModuleNotFoundError:
     )
 
 WORKFLOW_ACTION_RE = re.compile(r"^python tools/workflow\.py ([a-z]+) (\d+)$")
+RETRYABLE_COMMANDS = frozenset({"draft", "review", "update", "summarize", "checkpoint"})
+
+
+def model_step_retries() -> int:
+    try:
+        from tools.workflow import project_config
+    except ModuleNotFoundError:
+        from workflow import project_config
+    return max(0, int(project_config().get("model_step_retries", 2)))
 
 
 def next_chapter() -> int:
@@ -113,12 +122,24 @@ def run_workflow_command(chapter: int, action: str) -> None:
     command = match.group(1)
     if command in {"status", "committed", "master"}:
         raise SystemExit(f"workflow returned forbidden automatic action: {action}")
-    result = subprocess.run(
-        [sys.executable, str(ROOT / "tools" / "workflow.py"), command, str(chapter)],
-        cwd=ROOT,
-    )
-    if result.returncode:
-        raise SystemExit(f"workflow {command} failed with exit code {result.returncode}")
+    attempts = 1 + (model_step_retries() if command in RETRYABLE_COMMANDS else 0)
+    for attempt in range(1, attempts + 1):
+        result = subprocess.run(
+            [sys.executable, str(ROOT / "tools" / "workflow.py"), command, str(chapter)],
+            cwd=ROOT,
+        )
+        if result.returncode == 0:
+            return
+        if attempt == attempts:
+            raise SystemExit(f"workflow {command} failed with exit code {result.returncode}")
+        print(
+            f"  ↻ retry     {command} failed; retry {attempt}/{attempts - 1}",
+            flush=True,
+        )
+        print(
+            f"             Re-run model step without advancing past chapter {chapter}",
+            flush=True,
+        )
 
 
 def run_to_accepted(chapter: int, lock) -> None:
