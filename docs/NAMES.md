@@ -104,3 +104,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 민수 | **Minsu** | Short form used for Kim Minsu. |
 | 운기요상 | **Circulate Qi for Healing** | System-named skill that channels internal energy through another person's body to cleanse accumulated waste and restore health. |
 | 하급 포션 | **Lesser Potion** | Low-grade healing potion issued as raid supplies; its System Grade is Third Rate. |
+| 3차 각성자 | **third-awakening Hunter** | Hypothetical Hunter classification that would come after reawakening. |
+| 재각성 | **reawakening** | Established Hunter awakening category described as having no further stage. |
+| 피의 일주일 | **Bloody Week** | The hellish first week after Gates opened, during which casualties reached the tens of millions. |
+| 전세 | **jeonse lease** | Korean lump-sum deposit lease used in the family's redevelopment-era housing history. |
