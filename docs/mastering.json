@@ -20,5 +20,7 @@
   "quality_gate_min_auto_confidence": 0.9,
   "quality_gate_max_rounds": 3,
   "qa_retry_readjudicate": 1,
-  "qa_retry_remaster": 1
+  "qa_retry_remaster": 1,
+  "run_until_mastering_retries": 2,
+  "run_until_mastering_retry_delay_seconds": 30
 }

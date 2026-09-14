@@ -209,12 +209,18 @@ Promotion only accepts chapters whose final deterministic QA passed. The origina
 If verify still fails after the fidelity repair loop, `run` / `run_next_mastering.py`
 escalate in order and stay on that chapter:
 
-1. fidelity auto-repairs (`quality_gate_max_rounds`)
+1. fidelity auto-repairs (`quality_gate_max_rounds`); invalid gate JSON is treated as
+   a failed round and retried, then as `QA_FAILED`
 2. re-adjudicate once (`qa_retry_readjudicate`, default 1)
 3. remaster once (`qa_retry_remaster`, default 1)
 
 It does not skip ahead to another chapter. Exhausted retries raise and leave the
 chapter at `QA_FAILED` for inspection.
+
+`python tools/run_until_mastering.py N` resumes failed chapters up to
+`run_until_mastering_retries` times with `run_until_mastering_retry_delay_seconds`
+between attempts (`--retries` / `--retry-delay` override). Only after those are
+exhausted does it stop the until-run.
 
 ## Recommended evaluation after chapters 1–10
 

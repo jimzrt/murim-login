@@ -1224,9 +1224,29 @@ def command_qa(number: int) -> None:
     for round_index in range(max_rounds):
         if not qa["passed"]:
             break
-        fidelity = run_fidelity_gate(
-            number, source, final, qa, p, baseline=read_text(p["baseline"])
-        )
+        try:
+            fidelity = run_fidelity_gate(
+                number, source, final, qa, p, baseline=read_text(p["baseline"])
+            )
+        except ValueError as error:
+            step(
+                "fidelity",
+                "invalid gate output",
+                note=str(error),
+                facts=[f"round {round_index + 1}/{max_rounds}"],
+            )
+            if round_index < max_rounds - 1:
+                continue
+            update_state(
+                p,
+                state,
+                "QA_FAILED",
+                qa_passed=False,
+                fidelity_repairs=repairs,
+                fidelity_error=str(error),
+            )
+            step("verify", facts=["QA FAIL", "invalid fidelity output"])
+            return
         blocking = [
             item for item in fidelity["findings"]
             if item["severity"] in {"major", "critical"}
@@ -1240,7 +1260,27 @@ def command_qa(number: int) -> None:
         ]
         if not repairable:
             break
-        final, applied = apply_fidelity_repairs(final, fidelity, auto_repair_confidence)
+        try:
+            final, applied = apply_fidelity_repairs(final, fidelity, auto_repair_confidence)
+        except ValueError as error:
+            step(
+                "fidelity",
+                "repair rejected",
+                note=str(error),
+                facts=[f"round {round_index + 1}/{max_rounds}"],
+            )
+            if round_index < max_rounds - 1:
+                continue
+            update_state(
+                p,
+                state,
+                "QA_FAILED",
+                qa_passed=False,
+                fidelity_repairs=repairs,
+                fidelity_error=str(error),
+            )
+            step("verify", facts=["QA FAIL", "invalid fidelity repair"])
+            return
         if not applied:
             break
         repairs += applied
@@ -1250,9 +1290,21 @@ def command_qa(number: int) -> None:
         qa = run_qa(number, source, final, glossary)
         atomic_json(p["qa"], qa)
         if round_index == max_rounds - 1 and qa["passed"]:
-            fidelity = run_fidelity_gate(
-                number, source, final, qa, p, baseline=read_text(p["baseline"])
-            )
+            try:
+                fidelity = run_fidelity_gate(
+                    number, source, final, qa, p, baseline=read_text(p["baseline"])
+                )
+            except ValueError as error:
+                update_state(
+                    p,
+                    state,
+                    "QA_FAILED",
+                    qa_passed=False,
+                    fidelity_repairs=repairs,
+                    fidelity_error=str(error),
+                )
+                step("verify", facts=["QA FAIL", "invalid fidelity output"])
+                return
             break
     semantic_failures = sum(
         item["severity"] in {"major", "critical"}
@@ -1302,7 +1354,15 @@ def command_run(number: int) -> None:
         command_master(number)
         command_adjudicate(number)
         command_assemble(number)
-        command_qa(number)
+        try:
+            command_qa(number)
+        except ValueError as error:
+            p = chapter_paths(number)
+            current = state_for(number)
+            update_state(
+                p, current, "QA_FAILED", qa_passed=False, fidelity_error=str(error),
+            )
+            step("verify", facts=["QA FAIL", "pipeline error"], note=str(error))
         state = state_for(number)
 
     while not verified_ok(state):
@@ -1315,7 +1375,15 @@ def command_run(number: int) -> None:
             )
             command_adjudicate(number, force=True)
             command_assemble(number)
-            command_qa(number)
+            try:
+                command_qa(number)
+            except ValueError as error:
+                p = chapter_paths(number)
+                current = state_for(number)
+                update_state(
+                    p, current, "QA_FAILED", qa_passed=False, fidelity_error=str(error),
+                )
+                step("verify", facts=["QA FAIL", "pipeline error"], note=str(error))
             state = state_for(number)
             continue
         if used_remaster < remaster_budget:
@@ -1328,7 +1396,15 @@ def command_run(number: int) -> None:
             command_master(number, force=True)
             command_adjudicate(number, force=True)
             command_assemble(number)
-            command_qa(number)
+            try:
+                command_qa(number)
+            except ValueError as error:
+                p = chapter_paths(number)
+                current = state_for(number)
+                update_state(
+                    p, current, "QA_FAILED", qa_passed=False, fidelity_error=str(error),
+                )
+                step("verify", facts=["QA FAIL", "pipeline error"], note=str(error))
             state = state_for(number)
             continue
         p = chapter_paths(number)
