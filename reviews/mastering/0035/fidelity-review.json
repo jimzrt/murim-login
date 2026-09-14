@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Coming from Han Yeop, who was barely second- or third-rate, the declaration was almost laughable.",
+      "defect": "The established martial-tier terms Second Rate and Third Rate have been replaced with generic lowercase adjectives.",
+      "id": "F01",
+      "rationale": "The source explicitly classifies Han Yeop as 이, 삼류, and the binding preferred terms are Second Rate and Third Rate.",
+      "replacement": "The Peak realm was a domain granted to only a rare few. Han Yeop was barely Second or Third Rate, making his declaration almost laughable.",
+      "severity": "minor",
+      "source": "Korean line 75 / P37"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Even the timid second-rate martial artist had, before anyone noticed, joined that current.",
+      "defect": "The translation presents Han Yeop as currently timid, while 소심하던 marks timidity as his former state; it also loses the established Second Rate tier term.",
+      "id": "F02",
+      "rationale": "This sentence completes the surrounding realization that Han Yeop has changed, so the source's past-state modifier is meaningful characterization.",
+      "replacement": "Even the once-timid Second Rate martial artist had, before anyone noticed, joined that current.",
+      "severity": "minor",
+      "source": "Korean line 83 / P41"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Learn Flame Divine Palm",
+      "defect": "The System effect replaces the established rendering of 습득 with a different UI term.",
+      "id": "F03",
+      "rationale": "The accepted System terminology renders 습득 as Acquired; changing it to Learn creates an unnecessary UI-terminology regression.",
+      "replacement": "Acquired Flame Divine Palm",
+      "severity": "minor",
+      "source": "Korean line 305 / P138"
+    }
+  ],
+  "summary": "Faithful overall, with three localized rank, characterization, and System-terminology defects.",
+  "version": 1
+}

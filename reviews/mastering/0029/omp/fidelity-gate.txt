@@ -1,0 +1,25 @@
+{
+  "summary": "Faithful overall, with two minor semantic defects affecting Taekyung’s agency and Jopil’s final conditional taunt.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean line 43; English P21",
+      "current": "*Fuck. I picked the wrong opponent.*",
+      "defect": "“Picked” incorrectly implies that Taekyung deliberately selected Jopil as his opponent.",
+      "replacement": "*Fuck. I ran into the wrong guy.*",
+      "rationale": "잘못 걸렸네 means he has had the misfortune to get tangled up with the wrong person; Jopil initiated this confrontation.",
+      "confidence": 0.97
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Korean lines 379–383; English P210–P212",
+      "current": "“You didn’t drop your weapon. I’ll give you that.”\n\nJopil added,\n\n“If you can take this, too.”",
+      "defect": "“I’ll give you that” grants immediate credit for retaining the weapon, weakening the retroactive condition that Jopil will offer praise only if Taekyung also withstands the next blow.",
+      "replacement": "“You didn’t drop your weapon. I’ll commend you.”\n\nJopil added,\n\n“If you can take this, too.”",
+      "rationale": "칭찬해 주지 is a future promise to commend him, while 이것도 버티면 supplies its delayed condition; that conditional reversal is the final taunt’s logic.",
+      "confidence": 0.94
+    }
+  ]
+}

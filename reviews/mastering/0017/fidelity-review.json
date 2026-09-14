@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "*Exactly. So why did you call me into this madhouse?*",
+      "defect": "The mildly disrespectful vocative 이 양반아 is omitted, weakening Taekyung’s irritated familiarity with Jin Wikyung.",
+      "id": "F01",
+      "rationale": "The source ends the complaint by directly addressing Jin Wikyung with a familiar, exasperated expression.",
+      "replacement": "*You said it. So why did you call me into this madhouse, man?*",
+      "severity": "minor",
+      "source": "line 183"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Fuming, I glared at the White Tiger Hall Leader as he sat down, then noticed something strange.",
+      "defect": "The source describes Taekyung audibly huffing with anger; “Fuming” replaces that physical action with an abstract emotional state.",
+      "id": "F02",
+      "rationale": "씨근덕거리며 denotes angry, heavy breathing and is a concrete action in the scene.",
+      "replacement": "Huffing, I glared at the White Tiger Hall Leader as he sat down, then noticed something strange.",
+      "severity": "minor",
+      "source": "line 307"
+    },
+    {
+      "confidence": 0.94,
+      "current": "The White Tiger Hall Leader kept stealing glances at the old men of the Elder Council.",
+      "defect": "“Kept stealing glances” makes the action explicitly repeated, while the source describes a single sidelong glance.",
+      "id": "F03",
+      "rationale": "흘끗 시선을 보내는 identifies one quick glance and contains no habitual or iterative marker.",
+      "replacement": "The White Tiger Hall Leader darted a glance at the old men of the Elder Council.",
+      "severity": "minor",
+      "source": "line 311"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Nearly half the people in attendance were acting this way. It was getting difficult to pretend I hadn’t noticed.",
+      "defect": "The translation preserves how obvious the faction was but drops Taekyung’s sarcastic claim that he would feel bad pretending not to notice.",
+      "id": "F04",
+      "rationale": "모른 척하기가 미안할 지경이었다 frames the recognition as a mock concern for the conspirators, supplying the source’s deadpan joke.",
+      "replacement": "They made up nearly half the people in attendance. I’d have felt bad pretending not to notice.",
+      "severity": "minor",
+      "source": "lines 313–315"
+    }
+  ],
+  "summary": "Faithful overall, with four minor losses involving register, physical action, action frequency, and sarcastic joke logic.",
+  "version": 1
+}

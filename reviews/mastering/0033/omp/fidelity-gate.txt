@@ -1,0 +1,15 @@
+{
+  "summary": "Faithful overall, with one minor omission of an explicit source quantity.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean line 351 / [P140]",
+      "current": "The moment I saw that glittering word, my breath caught.",
+      "defect": "The translation omits the source’s explicit description of Logout as four glittering characters.",
+      "replacement": "The moment I saw those four glittering characters, my breath caught.",
+      "rationale": "The Korean explicitly says 반짝거리는 네 글자, and the accepted baseline preserved that four-character detail.",
+      "confidence": 0.99
+    }
+  ]
+}

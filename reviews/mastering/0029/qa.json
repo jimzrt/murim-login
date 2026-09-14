@@ -1,0 +1,39 @@
+{
+  "chapter": 29,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.309,
+    "source_characters": 5663,
+    "source_paragraphs": 186,
+    "translation_characters": 13074,
+    "translation_paragraphs": 218
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진가창법",
+        "preferred": "Jin Family's Spear Technique"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "일격",
+        "preferred": "One Strike"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "상태",
+        "preferred": "Status"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
