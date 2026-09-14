@@ -18,5 +18,7 @@
   "include_safe_profiles": true,
   "continuity_prefer_verified_mastered": true,
   "quality_gate_min_auto_confidence": 0.9,
-  "quality_gate_max_rounds": 3
+  "quality_gate_max_rounds": 3,
+  "qa_retry_readjudicate": 1,
+  "qa_retry_remaster": 1
 }
