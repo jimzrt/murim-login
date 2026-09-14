@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import importlib.util
+import json
 import tempfile
 from pathlib import Path
 from unittest.mock import patch
@@ -143,6 +144,81 @@ def test_apply_fidelity_repairs_only_major_findings():
     assert count == 1
     assert "Successful repetitions (2 / 100)." in repaired
     assert "Keep this." in repaired
+
+
+def test_apply_fidelity_repairs_requires_span_to_disappear():
+    text = "# Chapter 1\n\nAlpha phrase.\n"
+    review = {
+        "findings": [{
+            "id": "F01",
+            "severity": "major",
+            "current": "Missing span.",
+            "replacement": "Replacement.",
+        }]
+    }
+    try:
+        mastering.apply_fidelity_repairs(text, review, 0.9)
+        assert False, "expected missing current span to fail"
+    except ValueError as error:
+        assert "not found" in str(error)
+
+
+def test_command_qa_applies_blocking_repairs_before_final_gate():
+    work = Path(tempfile.mkdtemp())
+    source = work / "source.txt"
+    baseline = work / "baseline.md"
+    final = work / "final.md"
+    source.write_text("원문\n", encoding="utf-8")
+    baseline.write_text("# Chapter 9\n\nWe hold it down.\n", encoding="utf-8")
+    final.write_text("# Chapter 9\n\nWe hold it down.\n", encoding="utf-8")
+    paths = {
+        "final": final,
+        "source": source,
+        "baseline": baseline,
+        "qa": work / "qa.json",
+        "fidelity_packet": work / "fidelity-packet.md",
+        "fidelity_review": work / "fidelity-review.json",
+        "state": work / "state.json",
+        "metrics": work / "metrics.json",
+        "logs": work / "omp",
+    }
+    paths["logs"].mkdir()
+    state = {"stage": "ASSEMBLED", "version": 1, "chapter": 9}
+    gate_calls = {"n": 0}
+
+    def fake_gate(_number, _source, current_final, *_args, **_kwargs):
+        gate_calls["n"] += 1
+        if "We hold it down." in current_final:
+            return {
+                "summary": "blocked",
+                "findings": [{
+                    "id": "F01",
+                    "severity": "major",
+                    "current": "We hold it down.",
+                    "replacement": "That thing must be held off.",
+                    "confidence": 0.99,
+                }],
+            }
+        return {"summary": "clean", "findings": []}
+
+    with (
+        patch.object(mastering, "create_or_verify_state", return_value=(state, paths)),
+        patch.object(mastering, "run_qa", return_value={"passed": True, "errors": [], "warnings": []}),
+        patch.object(mastering, "run_fidelity_gate", side_effect=fake_gate),
+        patch.object(mastering, "load_config", return_value={
+            "quality_gate_min_auto_confidence": 0.9,
+            "quality_gate_max_rounds": 3,
+        }),
+        patch.object(mastering, "exact_glossary", return_value=[]),
+        patch.object(mastering, "validate_chapter", lambda *_a, **_k: None),
+    ):
+        mastering.command_qa(9)
+    assert gate_calls["n"] == 2
+    assert "That thing must be held off." in final.read_text(encoding="utf-8")
+    recorded = json.loads(paths["state"].read_text(encoding="utf-8"))
+    assert recorded["stage"] == "VERIFIED"
+    assert recorded["qa_passed"] is True
+    assert recorded["fidelity_repairs"] == 1
 
 
 def test_apply_fidelity_repairs_rejects_truncated_model_replacement():

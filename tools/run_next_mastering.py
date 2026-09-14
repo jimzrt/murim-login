@@ -87,6 +87,16 @@ def translation_window_paths() -> set[str]:
     return translation_write_paths(in_flight) | accept_allowed_paths(in_flight)
 
 
+def overlay_resumable(number: int) -> bool:
+    state = state_for(number)
+    stage = state.get("stage")
+    if stage in {None, "NOT_STARTED"}:
+        return False
+    if stage == "PROMOTED" and state.get("qa_passed"):
+        return False
+    return True
+
+
 def next_mastering_chapter() -> int | None:
     in_progress = incomplete_mastering_chapter()
     if in_progress is not None:
@@ -187,7 +197,11 @@ def main() -> int:
         return 0
     state_path = paths(chapter)["state"]
     stage = json.loads(state_path.read_text(encoding="utf-8")).get("stage") if state_path.exists() else None
-    resume = stage == "MASTERED" or incomplete_mastering_chapter() == chapter
+    resume = (
+        stage == "MASTERED"
+        or incomplete_mastering_chapter() == chapter
+        or overlay_resumable(chapter)
+    )
     with hold_master_lock(ROOT, holder="run_next_mastering", chapter=chapter, stage=stage or "starting") as lock:
         require_repository(chapter, resume=resume)
         from progress import chapter_banner
