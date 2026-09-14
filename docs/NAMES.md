@@ -147,3 +147,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 북경 | **Beijing** | Possible destination for teleported nuclear warheads. |
 | 다급해진 전황 | **The Battle Situation Has Become Critical** | Name of the unrefusable Unexpected Quest generated aboard the departing jet. |
 | 유엔 안전보장이사회 | **United Nations Security Council** | International body whose fifteen national leaders join Xiao Yang's emergency meeting. |
+| 정 드래곤 | **Jung Dragon** | Public nickname for Lee Jungryong. |
+| 김철수 | **Kim Cheol Soo** | Generic Korean name used in a forum joke. |
+| 제임스 | **James** | Generic English name used in a forum joke. |

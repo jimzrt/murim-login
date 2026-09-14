@@ -65,3 +65,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 매직 존슨 | 최 팀장 | peer_ally_to_team_leader | Choi | casual-teasing | Magic Johnson repeatedly addresses Team Leader Choi by surname while joking with him. |
 | 파이 첸 | 진태경 | senior_s_rank_hunter_to_younger_ally | young man | familiar-but-caring | Pai Chen uses a familiar senior-to-junior address while advising Taekyung before deployment. |
 | 진태경 | 아저씨 | passenger_to_pilot | Sir | casual-urgent | Taekyung addresses the pilot informally while demanding full throttle. |
+| 샤오 쉔 | 진태경 | subordinate_hunter_to_foreign_hero | hyung-nim | deferential-but-familiar | After Jin permits the familiar title, Shao Shen stammers out hyung-nim while addressing him before his troops. |

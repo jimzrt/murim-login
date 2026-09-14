@@ -1,0 +1,521 @@
+{
+  "chapter": 389,
+  "decisions": [
+    {
+      "decision": "SOL",
+      "hunk_id": "H001",
+      "reason": "\"Let up\" is the more idiomatic English collocation for a cold snap easing."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H002",
+      "reason": "Keeps 놀기 and 드리운 while using \"at last\" and \"packed onto\" for 비로소 and 몸을 실었다.",
+      "replacement": "Students at last freed from the college entrance exam were busy either preparing to retake it or having fun, while office workers packed onto public transportation with dark circles hanging beneath their eyes."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H003",
+      "reason": "\"Amid\" is tighter than \"And in the midst of\" without dropping the bombshell beat."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H004",
+      "reason": "Korean news-banner brackets are source formatting, not System chrome to strip."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H005",
+      "reason": "\"Address\" fits a chairman’s formal speech; \"erupted\" matches this chapter’s wave wording."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H006",
+      "reason": "\"Shook\" renders 뒤흔들 directly instead of the looser \"sent into upheaval.\""
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H007",
+      "reason": "The split after 사흘 matches the Korean sentence break."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H008",
+      "reason": "Needed remainder of that split; \"settled down\" is faithful for 진정되지 않았다."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H009",
+      "reason": "사건 사고 is the set phrase \"incidents and accidents\"; \"disasters\" overstates 사고."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H010",
+      "reason": "\"Officially declared martial law\" is natural English for 공식 계엄령을 선포했다."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H011",
+      "reason": "\"Once again\" captures 오늘도; \"online forum\" is cleaner than \"forum site.\""
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H012",
+      "reason": "Keeps SOL’s \"If you haven’t\" and \"up north\" but drops unsupported \"crawl\" and restores 도 as \"too.\"",
+      "replacement": "Nobody here hasn’t watched the Security Council’s major announcement video, right? If you haven’t, go outside and die. This is a real emergency. Even that supreme leader bastard up north has probably watched the whole thing on iTube and is lurking on this forum too."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H013",
+      "reason": "\"Lives depend on\" matches 목숨 걸린 일; \"lost patience\" fits 참다 참다."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H014",
+      "reason": "\"Of unknown origin\" is the precise reading of 원인 불명."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H015",
+      "reason": "SOL drops the poster’s hedge 다고 봄 (\"I think\")."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H016",
+      "reason": "Preserves 생각했던 것보다, which BASE omits."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H017",
+      "reason": "\"Got absolutely wrecked\" matches 개 털리고; the interference line is tighter forum prose."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H018",
+      "reason": "\"Also\" carries 까지, which BASE leaves out."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H019",
+      "reason": "\"Posting updates\" is the natural website wording for 업데이트하고 있다."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H020",
+      "reason": "\"Already knows\" and \"isn’t just serious\" are more spoken and still match 알겠지만 / 보통 심각한 상황이 아니다."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H021",
+      "reason": "Keeps ongoing 끌어다가 while taking SOL’s syntax and 모든 방면 as \"every sector.\"",
+      "replacement": "They’re dragging every usable Hunter to the front, leaving other Gates neglected and their mana levels unstable. Hyperinflation is hitting every sector."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H022",
+      "reason": "무서운 is \"frightening\"; \"terrifying\" steps up the intensity."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H023",
+      "reason": "\"Stock up\" matches 사 놔라; \"profiteer\" is the natural rendering of 부당이익."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H024",
+      "reason": "\"It’d be a shame\" / \"throwing in\" is more natural forum voice for 아쉬워서 추가함."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H025",
+      "reason": "\"Tearing it up\" fits the 국뽕 hype around 활약 중."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H026",
+      "reason": "\"The enb\" reads as a typo, not as slangy 끗."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H027",
+      "reason": "몇 시간 만에 is \"a few hours\"; SOL drops 몇."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H028",
+      "reason": "\"S-rank Hunters fighting\" is tighter for 참전했다."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H029",
+      "reason": "놀고 있음 / 정비대 is \"fooling around in the maintenance units,\" not hanging out in depots."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H030",
+      "reason": "Uses the required ellipsis character instead of a string of periods."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H031",
+      "reason": "Keeps 이번에 and 한두 개; SOL’s \"more than a few\" is vaguer."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H032",
+      "reason": "\"Awfully familiar\" is the more idiomatic take on 어디서 많이 들어 본 얘기."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H033",
+      "reason": "Keeps the Normandy-water joke and uses \"One sip\" for 한 모금, not BASE’s extra \"every time.\"",
+      "replacement": "└ Please replace the canteens already, you fucking assholes. I got discharged last year, so why does mine still taste like Normandy water? One sip and I can’t tell whether my name is Kim Cheol Soo or James."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H034",
+      "reason": "걔들 is the army, not \"China\"; \"bigger problem\" matches 더 큰 문제."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H035",
+      "reason": "\"The monster count just broke 100,000\" is natural forum English for 개체 수 10만 뚫음."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H036",
+      "reason": "Places ㅅㅂ as \"what the fuck\" and 개소리 as \"bullshit\" instead of turning ㅅㅂ into \"fuck off.\""
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H037",
+      "reason": "Matches the 개소리 = bullshit thread and renders 떴다 as \"went up.\""
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H038",
+      "reason": "윗 댓글 is the reaction above; \"that reaction\" loses 윗."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H039",
+      "reason": "큰일 is \"a disaster,\" and 안 넘었던 is \"didn’t even exceed,\" not merely \"didn’t reach.\""
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H040",
+      "reason": "Keeps 도, 저쪽에, 사실상, and 라고 해야 맞다; SOL drops the location and replaces 사실상 with \"at this point.\"",
+      "replacement": "└ Obviously, this wave wasn’t this big at first either. The problem is that there’s an Arch Lich over there. Even an ordinary Lich appearing would be a major incident, but that thing is a top-tier named monster unknown even to academia. Realistically, it’d be more accurate to say that most of the monsters currently fighting are undead revived by the Arch Lich."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H041",
+      "reason": "Naturalizes 키보드로 오러 블레이드 / 입만 살아 without losing the insult."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H042",
+      "reason": "The thread is already underway; \"raged on\" fits 치열한 갑론을박 better than \"broke out.\""
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H043",
+      "reason": "Keeps 강 건너 불구경 without BASE’s added \"from a safe distance.\""
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H044",
+      "reason": "판을 치는 is \"ran rampant\"; SOL’s \"blind optimism\" is unsupported.",
+      "replacement": "And even as doomsday theories and optimism ran rampant, new updates continued to pour in."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H045",
+      "reason": "\"Official update\" clarifies 오피셜; 지원군으로 is \"as reinforcement,\" not \"with reinforcements.\"",
+      "replacement": "**(Best Comment)** Official Security Council update: The east-west sector of the front was breached an hour ago. Fortunately, Pai Chen arrived as reinforcement and prevented the damage from spreading."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H046",
+      "reason": "The commenter’s reasoning is 동서부 전선이면; SOL deletes it."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H047",
+      "reason": "약쟁이 걔 is \"junkie guy\"; \"druggie\" softens it."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H048",
+      "reason": "근데 is \"But\"; \"breached\" matches the later front-line punchline without the glossary’s realm-breakthrough sense.",
+      "replacement": "└ But how did it get breached? He’s an S-rank Hunter."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H049",
+      "reason": "More natural forum gloss of 웰메이드 헌터라 그런가."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H050",
+      "reason": "\"Are Hong Kong citizens\" is the natural reading of 홍콩 국적."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H051",
+      "reason": "명쾌하네 is \"fucking clear,\" not the rewritten joke \"airtight logic.\""
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H052",
+      "reason": "그런 김에 is inclusive \"while we’re at it.\""
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H053",
+      "reason": "맡아서 is \"in charge of,\" not \"holding\"; 두세 번 승리 is \"won two or three times.\""
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H054",
+      "reason": "다 아니까 걱정은 안 하는데 is \"everyone knows… I’m not worried,\" not \"nobody needs to worry.\""
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H055",
+      "reason": "Keeps 취급 and 쟤 while using 현직 as \"active…myself.\"",
+      "replacement": "└ There’s still an innocent idiot who treats Sibeol-jwa like an A-rank Hunter? As an active A-rank Hunter myself, all I can do is laugh. That Jin Taekyung guy is just a monster lol"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H056",
+      "reason": "S—Security Council reproduces the 안ㄴ보리 panicked typo better than \"U—N.\""
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H057",
+      "reason": "\"Sibeol-jwa news\" is equally faithful comment-speak; no gain."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H058",
+      "reason": "다급 is urgent, not desperate; SOL collapses 서부 전선? 뭐라는데?"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H059",
+      "reason": "\"Was breached\" sets up the unchanged punchline that the monsters’ line was breached."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H060",
+      "reason": "다시 보고 온다 includes \"again\"; SOL drops it."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H061",
+      "reason": "아 is \"Ah\"; SOL’s \"Shit\" doubles profanity already in 개후달리네."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H062",
+      "reason": "신나게 작성 is excitedly writing, not \"hammering out\"; 황급히 접속 is \"rushed to,\" not \"hurriedly accessed.\"",
+      "replacement": "The netizens who had been excitedly writing comments rushed to the United Nations Security Council website."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H063",
+      "reason": "Keeps SOL’s tighter syntax but restores 한참, which SOL omitted.",
+      "replacement": "So many users flooded the site at once that it exceeded its traffic limit, forcing them to wait for quite some time. When they finally saw the announcement on the main page, they could only doubt their own eyes and ears."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H064",
+      "reason": "Preserves 송곳 and 움푹 파고든; SOL replaces the awl-gouge with a generic wedge."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H065",
+      "reason": "\"Was breached\" stays consistent with the punchline that the monster line was breached."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H066",
+      "reason": "\"The breakthrough was so fast\" is tighter for 돌파 속도가 너무 빨라서."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H067",
+      "reason": "The footnote should sit at chapter end, not in the middle of the text."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H068",
+      "reason": "혼잡했다 is \"chaotic\"; 시야에 들어온다 is field of vision, not \"horizon.\""
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H069",
+      "reason": "Keeps 어디선가 불어온 and 뿜어내는; SOL drops both."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H070",
+      "reason": "시부럴 거 is closer to \"Fucking hell\"; 많이도 is the \"sure\" emphasis."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H071",
+      "reason": "\"There’s no end to them\" is the natural match for 끝이 없군요."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H072",
+      "reason": "\"In earnest\" and \"no trace left\" are cleaner for 본격적인 전투 / 모습은 더 이상 찾아볼 수 없다."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H073",
+      "reason": "\"Looked…gaze\" fits Taekyung’s voice; \"regarded me with…eyes\" is stiffer."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H074",
+      "reason": "의견을 들어 봐야지 is \"hear what he thinks,\" already natural English."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H075",
+      "reason": "The contraction matches the narrator’s spoken register."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H076",
+      "reason": "줄곧 떨어지지 않고 is \"had not left,\" not \"barely\"; \"our\" is unsupported; 샤오 쉔이 대답했다 names him here."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H077",
+      "reason": "녀석의 is \"his\"; repeating \"Shao Shen\" here is only needed if H076 dropped the name."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H078",
+      "reason": "Keeps 차라리 and the direction of 말 놓으라고 (speak casually to Shao Shen)."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H079",
+      "reason": "저, 정말 그래도 됩니까 is a full hesitant question, not a clipped \"C-can.\""
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H080",
+      "reason": "\"Act like this\" is the right reading of 이래도 되는 거냐."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H081",
+      "reason": "혀, 혀, 형님 is a double stammer, not a single H-."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H082",
+      "reason": "\"In battle\" / \"the rest of the time\" is more natural for 싸울 때 / 평소에는."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H083",
+      "reason": "자그마치 천여 명 is \"as many as a thousand\"; BASE’s \"more than\" and SOL’s \"roughly\" each miss one half.",
+      "replacement": "I looked at the Hunters from the Public Security Armed Forces lined up behind him. There were as many as a thousand of them."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H084",
+      "reason": "깃들어 있었다 is \"held,\" not the added \"shone with.\""
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H085",
+      "reason": "독보적인 건 샤오 쉔 is that he stood out; SOL’s \"burned brighter\" is unsupported and awkward."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H086",
+      "reason": "The Korean is two sentences: order, then 혀, 형님."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H087",
+      "reason": "이라 is a musing echo; \"Orders, huh?\" carries that beat."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H088",
+      "reason": "Split the Korean’s two sentences but keep 머리 위; SOL’s \"overhead\" trim is fine only if the feeling line stays separate and faithful.",
+      "replacement": "A huge eagle with its wings spread wide circled above our heads."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H089",
+      "reason": "오늘도 느낌이 좋다 is Taekyung’s omen, not the weather-like \"Today felt good.\"",
+      "replacement": "I had a good feeling about today, too."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H090",
+      "reason": "해 왔던 것처럼 is \"you’ve done,\" not the elliptical \"you have.\""
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H091",
+      "reason": "Uses the required ellipsis character for 「……!」."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H092",
+      "reason": "대답과 함께 is \"with that answer,\" not merely \"as I answered.\""
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H093",
+      "reason": "발끝 is the foot-tip, not specifically a toe; the causative cave-in is cleaner."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H094",
+      "reason": "Keeps 그리고 and 순간 as \"moment,\" not the sharper \"instant.\""
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H095",
+      "reason": "\"With\" unscrews \"Accompanied by\"; 빛줄기가 되어 is \"as a streak,\" not \"in a streak.\"",
+      "replacement": "With a deafening roar that left my ears ringing, I shot forward as a streak of light."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H096",
+      "reason": "추위를 머금은 바람 is wind carrying cold; SOL adds unsupported \"around me.\""
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H097",
+      "reason": "Keeps 바람 in 땅, 바람, 풍경; \"streaked\" matches 스쳐, not \"blurred.\""
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H098",
+      "reason": "지축을 떨어 울린다 needs the emphatic \"very ground.\""
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H099",
+      "reason": "막아서는 모든 것 is everything standing in its way, not generic \"in its path.\""
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H100",
+      "reason": "Places the tavern-lady footnote at the end of the chapter, where Markdown notes belong."
+    }
+  ],
+  "version": 1
+}

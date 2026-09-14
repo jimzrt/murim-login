@@ -1,17 +1,18 @@
 # Translation State
 
-- Last completed: 388
-- Next chapter: 389
-- Current block: 385–389 (4/5)
-- Latest translation: `translations/0388.md`
-- Latest summary: `summaries/beats/0388.md`
-- Safe profiles through: chapter 388
+- Last completed: 389
+- Next chapter: 390
+- Current block: 385–389 (5/5)
+- Latest translation: `translations/0389.md`
+- Latest summary: `summaries/beats/0389.md`
+- Safe profiles through: chapter 389
 
 ## Current Block
 
-- After Jin Taekyung defeats Wu Heixing, Wu recovers from his injuries but remains consumed by humiliation, jealousy, and fear. He remembers Lei Fei as a true genius with overwhelming skill and noble character, and Lee Jungryong approaches him in the darkness to propose an important private discussion.
-- Taekyung, Team Leader Choi, Magic Johnson, Pai Chen, Wu Heixing, and Lee Jungryong prepare to deploy by jet to their assigned fronts. Choi agrees to a nine-to-one settlement split after Taekyung rescued him from the previous night's drinking-game predicament. Felix left before dawn after receiving a battle signal, and an unrefusable Unexpected Quest orders Taekyung to reach the battlefield quickly and defeat the enemies.
-- After the Hunters depart, Xiao Yang convenes an emergency meeting of the fifteen leaders of the United Nations Security Council. Magic-induced communications interference and barriers obscure the monster army's movements, while Xiao Yang and Wei Penghu acknowledge that the S-rank Hunters may be able to reverse the battle but must not be relied upon prematurely.
+- Chairman Xiao Yang publicly announces the Sichuan monster wave through a United Nations Security Council broadcast. Four days later, China remains in crisis under martial law, with UN-approved peacekeeping forces deployed to the front.
+- A Korean Hunter forum summarizes the disaster: casualties were already estimated at least 300,000 a week earlier, the monster army has exceeded 100,000, more than 2,000 Public Security Armed Forces Hunters are missing, and the army is centered around an Arch Lich. Forum users also report that the east-west front was breached before Pai Chen arrived and stopped the damage from spreading.
+- The western front is breached so quickly that public updates cannot keep pace, but the breach is on the monster side rather than Jin Taekyung's position. Jin, Team Leader Choi, and Shao Shen are still deployed there on the fourth day of full-scale fighting.
+- Shao Shen commands more than a thousand Public Security Armed Forces Hunters and follows Jin's orders, addressing him as hyung-nim after Jin permits the familiar title. Jin orders the force to follow him, launches forward with Flamefire Path, and leads the charge while wielding White Flame and releasing Extreme Yang force.
 
 ## Open Questions
 
@@ -22,7 +23,7 @@
 - Ae-hyang's superior and the consequences of the Sichuan Governor's false memorial remain unresolved.
 - The relationship between the Lich and the Arch Lich, the full extent of the Skeleton Warlord's increased power, and the monster wave's larger plan remain unresolved.
 - Lei Fei's fate and the fate of the missing Sichuan Hunters remain unresolved.
-- The subject and consequences of Lee Jungryong's discussion with Wu Heixing, Wu Heixing's reason for sending the Sound Transmission, and the outcome of the battlefield emergency remain unresolved.
+- The subject and consequences of Lee Jungryong's discussion with Wu Heixing, Wu Heixing's reason for sending the Sound Transmission, and the outcome of the western-front battle remain unresolved.
 
 ## Exceptional Decision
 
@@ -31,9 +32,9 @@
 - Render 대마법사 as Archmage and 워 메이지 as War Mage.
 - Retain Teacher Jin for 진 선생 and Comrade Chairman for 주석 동지.
 - Render 반도의 빵즈 as peninsula bangzi and retain the derogatory-slur footnote.
-- Preserve Taekyung's conversational, self-mocking first-person voice and the source's jokes.
-- Render established names and titles consistently, including Pai Chen, Wu Heixing, Prince Felix Alexander Louis, William, Senior General Liao, the Princelings, and the Shanghai clique; use Sound Transmission, Sword Force, Advanced Potion, and Supreme Potion here.
-- Render 다급해진 전황 as The Battle Situation Has Become Critical and 유엔 안전보장이사회 as United Nations Security Council.
+- Preserve Taekyung's conversational, self-mocking first-person voice and the source's jokes, including the forum's exaggerated online register.
+- Render established names and titles consistently, including Pai Chen, Wu Heixing, Prince Felix Alexander Louis, William, Senior General Liao, the Princelings, the Shanghai clique, Sound Transmission, Sword Force, Advanced Potion, and Supreme Potion.
+- Render 다급해진 전황 as The Battle Situation Has Become Critical, 유엔 안전보장이사회 as United Nations Security Council, 형님 as hyung-nim for Shao Shen's address to Jin, and 정 드래곤 as Jung Dragon.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

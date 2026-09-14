@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Four days into the full-scale battle, the monster army has exceeded 100,000, communications and satellite surveillance remain disrupted, and the western front is breached by a rapid monster advance.",
+      "defect": "The sentence reverses the breakthrough: it implies that the monsters breached Taekyung’s western front, whereas Chapter 389 reveals that Taekyung’s rapid advance breached the monsters’ line.",
+      "id": "C01",
+      "rationale": "This distinction is the chapter’s central reveal and is explicitly preserved elsewhere in the checkpoint continuity.",
+      "replacement": "Four days into the full-scale battle, the monster army has exceeded 100,000, communications and satellite surveillance remain disrupted, and Taekyung’s rapid advance breaches the monsters’ line on the western front.",
+      "severity": "major",
+      "source": "Checkpoint summary, Plot, final paragraph"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The monster army has exceeded 100,000, and the western front has been breached by a rapid monster advance while Jin Taekyung's force remains engaged.",
+      "defect": "The active-state wording repeats the same subject reversal, recording the western front as breached by advancing monsters rather than recording Taekyung’s breach of the monsters’ line.",
+      "id": "C02",
+      "rationale": "Active continuity must preserve which side was breached so later chapters do not treat Taekyung’s position as having collapsed.",
+      "replacement": "The monster army has exceeded 100,000, and Jin Taekyung's force has rapidly breached the monsters' line on the western front while remaining engaged.",
+      "severity": "major",
+      "source": "Durable state, active_continuity, final entry"
+    },
+    {
+      "confidence": 0.98,
+      "current": "He was also the real leader of that Ares Guild.\n\nA powerful Guild counted among the strongest in the world. And a man ranked among the top three strongest S-rank Hunters.",
+      "defect": "The description breaks into two ungrammatical sentence fragments and inconsistently capitalizes the generic noun “guild.”",
+      "id": "C03",
+      "rationale": "The replacement preserves all three facts while restoring natural commercial prose and established capitalization.",
+      "replacement": "He was also the true leader of Ares Guild, one of the strongest guilds in the world, and one of the world’s three strongest S-rank Hunters.",
+      "severity": "minor",
+      "source": "Chapter 386, Lee Jungryong introduction"
+    },
+    {
+      "confidence": 0.96,
+      "current": "- No.\n\nI replied through Sound Transmission.\n\n- What do you mean, no?\n\n- In any case, no. Just smile and let it pass. Prince Felix is famous for being a bit of an oddball.\n\n- If I break the back of his hand right now, wouldn’t that make him even more famous?\n\n- No. Absolutely not!\n\n- Just a little damage to the back of his hand. Or even just one finger.\n\n- I said no!",
+      "defect": "The transmitted dialogue uses hyphen-and-space prefixes, which Markdown renders as list items and which differs from the em-dash formatting used for the same kind of exchange in Chapter 387.",
+      "id": "C04",
+      "rationale": "Em dashes prevent accidental list rendering and align the exchange with the packet’s later telepathic-dialogue convention.",
+      "replacement": "—No.\n\nI replied through Sound Transmission.\n\n—What do you mean, no?\n\n—In any case, no. Just smile and let it pass. Prince Felix is famous for being a bit of an oddball.\n\n—If I break the back of his hand right now, wouldn’t that make him even more famous?\n\n—No. Absolutely not!\n\n—Just a little damage to the back of his hand. Or even just one finger.\n\n—I said no!",
+      "severity": "minor",
+      "source": "Chapter 385, Message Magic and Sound Transmission exchange with Team Leader Choi"
+    },
+    {
+      "confidence": 0.96,
+      "current": "- The Communist Party has factions too. Senior General Liao is a pure-blooded member of the Princelings, the Communist Party’s largest faction, going back to his grandfather’s generation. They’re rivals of the Shanghai clique, which Chairman Xiao and Minister of Defense Wei Penghu belong to.\n\n- The Princelings and Shang… what?\n\n- …If we’re being precise, it means the Princelings are number one and the Shanghai clique is number two.\n\n- Ah.\n\nUntil now, I had assumed that the Communist Party operated under a strict one-party system. Apparently, they fought each other tooth and nail too.\n\n- But is that allowed? If Chairman Xiao simply points at someone and says, “That man is dangerous,” wouldn’t that person be beheaded in Tiananmen Square?\n\n- They do it because they’re allowed to.\n\n- …Right. When you put it that way, I’ve got nothing to say.\n\n- The factions reached an agreement. During the Great Cataclysm, the Chairman from the Princelings made so many mistakes that they felt awkward about continuing to hold power.\n\n- Ah. Pingping?\n\n- Yes. Pingping.",
+      "defect": "The Message Spell dialogue is formatted as a sequence of Markdown list items rather than with the em-dash convention used for transmitted speech later in the packet.",
+      "id": "C05",
+      "rationale": "Using em dashes avoids unintended list formatting and keeps psychic communication visually consistent across Chapters 385–387.",
+      "replacement": "—The Communist Party has factions too. Senior General Liao is a pure-blooded member of the Princelings, the Communist Party’s largest faction, going back to his grandfather’s generation. They’re rivals of the Shanghai clique, which Chairman Xiao and Minister of Defense Wei Penghu belong to.\n\n—The Princelings and Shang… what?\n\n—…If we’re being precise, it means the Princelings are number one and the Shanghai clique is number two.\n\n—Ah.\n\nUntil now, I had assumed that the Communist Party operated under a strict one-party system. Apparently, they fought each other tooth and nail too.\n\n—But is that allowed? If Chairman Xiao simply points at someone and says, “That man is dangerous,” wouldn’t that person be beheaded in Tiananmen Square?\n\n—They do it because they’re allowed to.\n\n—…Right. When you put it that way, I’ve got nothing to say.\n\n—The factions reached an agreement. During the Great Cataclysm, the Chairman from the Princelings made so many mistakes that they felt awkward about continuing to hold power.\n\n—Ah. Pingping?\n\n—Yes. Pingping.",
+      "severity": "minor",
+      "source": "Chapter 386, Message Spell exchange during the strategy meeting"
+    }
+  ],
+  "summary": "The packet preserves voice, terminology, hooks, and spoiler boundaries overall. Actionable issues are a duplicated continuity reversal about the western-front breakthrough, one grammatical fragment in Chapter 386, and inconsistent telepathic-dialogue formatting in Chapters 385–386.",
+  "version": 1
+}

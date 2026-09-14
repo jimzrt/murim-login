@@ -1,0 +1,63 @@
+{
+  "chapter": 389,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.336,
+    "source_characters": 5548,
+    "source_paragraphs": 149,
+    "translation_characters": 12958,
+    "translation_paragraphs": 153
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "가주",
+        "preferred": "Family Head"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "레이드",
+        "preferred": "raid"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "귀가",
+        "preferred": "your family"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "신의",
+        "preferred": "Divine Physician"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "중화인민공화국",
+        "preferred": "People's Republic of China"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "홍콩",
+        "romanization": "hongkong"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
