@@ -1,0 +1,94 @@
+---
+interface Props {
+  chapter: number;
+}
+
+const { chapter } = Astro.props;
+const host = "https://murimlogin.duckdns.org";
+const siteId = "murim-login";
+const pageUrl = `chapter-${chapter}`;
+---
+
+<section
+  class="comments"
+  aria-label="Comments"
+  data-remark42
+  data-remark42-host={host}
+  data-remark42-site={siteId}
+  data-remark42-url={pageUrl}
+>
+  <h2 class="comments-title">Comments</h2>
+  <div id="remark42"></div>
+  <p class="comments-offline" hidden>Comments need a network connection.</p>
+</section>
+
+<script>
+  function themeName() {
+    return document.documentElement.getAttribute("data-theme") === "dark" ? "dark" : "light";
+  }
+
+  function mountRemark42() {
+    const section = document.querySelector<HTMLElement>("[data-remark42]");
+    if (!section) {
+      return;
+    }
+    const offline = section.querySelector<HTMLElement>(".comments-offline");
+    const mount = section.querySelector<HTMLElement>("#remark42");
+    const host = section.dataset.remark42Host;
+    const siteId = section.dataset.remark42Site;
+    const pageUrl = section.dataset.remark42Url;
+    if (!host || !siteId || !pageUrl || !mount) {
+      return;
+    }
+
+    if (!navigator.onLine) {
+      if (offline) {
+        offline.hidden = false;
+      }
+      mount.hidden = true;
+      return;
+    }
+
+    const win = window as Window & {
+      remark_config?: Record<string, string>;
+      REMARK42?: { destroy?: () => void; changeTheme?: (theme: string) => void };
+    };
+    win.REMARK42?.destroy?.();
+    mount.replaceChildren();
+    mount.hidden = false;
+    if (offline) {
+      offline.hidden = true;
+    }
+
+    win.remark_config = {
+      host,
+      site_id: siteId,
+      url: pageUrl,
+      theme: themeName(),
+    };
+
+    const existing = document.querySelector<HTMLScriptElement>("script[data-remark42-embed]");
+    existing?.remove();
+    const script = document.createElement("script");
+    script.src = `${host}/web/embed.js`;
+    script.defer = true;
+    script.dataset.remark42Embed = "1";
+    script.onerror = () => {
+      if (offline) {
+        offline.hidden = false;
+        offline.textContent = "Comments are temporarily unavailable.";
+      }
+      mount.hidden = true;
+    };
+    document.body.appendChild(script);
+  }
+
+  document.addEventListener("astro:page-load", mountRemark42);
+  mountRemark42();
+
+  const observer = new MutationObserver(() => {
+    const win = window as Window & { REMARK42?: { changeTheme?: (theme: string) => void } };
+    win.REMARK42?.changeTheme?.(themeName());
+  });
+  observer.observe(document.documentElement, { attributes: true, attributeFilter: ["data-theme"] });
+</script>
