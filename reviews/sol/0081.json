@@ -1,0 +1,186 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“If you’re nervous, go home. Don’t ruin the mood.”",
+      "defect": "The second sentence sanitizes the strong profanity in 좆같이 and weakens Changsoo’s openly abusive register.",
+      "id": "F01",
+      "rationale": "The source uses explicit profanity to show Changsoo viciously blaming the woman for spoiling the atmosphere.",
+      "replacement": "“If you’re nervous, go home. Don’t make the mood fucking miserable.”",
+      "severity": "major",
+      "source": "“불안하면 집에 가라. 분위기 좆같이 만들지 말고.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Shut up. What do you want?”",
+      "defect": "어쩔래 is a confrontational challenge asking what she intends to do, not a question about what she wants.",
+      "id": "F02",
+      "rationale": "The replacement preserves Changsoo’s threatening ultimatum and the hierarchy that forces her to apologize.",
+      "replacement": "“Shut up. What are you going to do?”",
+      "severity": "major",
+      "source": "“닥치고. 어쩔래.”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "“Then go sulk in the corner. I’ve got more than enough bitches to bring along even without you.”",
+      "defect": "“Sulk” adds an emotional reaction absent from 찌그러져 있어, which contemptuously orders her to make herself scarce.",
+      "id": "F03",
+      "rationale": "The source describes enforced withdrawal, not voluntary sulking.",
+      "replacement": "“Then go make yourself scarce in a corner. I’ve got more than enough bitches to bring along even without you.”",
+      "severity": "minor",
+      "source": "“그럼 구석에 찌그러져 있어. 너 아니어도 데려올 년들 차고 넘치니까.”"
+    },
+    {
+      "confidence": 0.93,
+      "current": "“Sir, your eyes aren’t very sharp. Do you think I’d be carrying around this crude shield if I were a mage? Heh heh.”",
+      "defect": "“Crude shield” suggests poor workmanship, whereas 무식한 describes its conspicuously massive, brutish size.",
+      "id": "F04",
+      "rationale": "Kkeokjeong is joking that the shield’s obvious size should make his tank role self-evident.",
+      "replacement": "“Sir, you’re not very observant. Would I carry around a huge brute of a shield like this if I were a mage? Heh heh.”",
+      "severity": "minor",
+      "source": "“담당자님께서 눈썰미가 없으시네. 이런 무식한 방패 들고 다니면서 마법 쓰겠소? 흐흐.”"
+    },
+    {
+      "confidence": 0.95,
+      "current": "*Well, what’s done is done.*",
+      "defect": "The draft changes a pragmatic decision to let the slight go for the sake of a satisfactory outcome into resignation about an irreversible past event.",
+      "id": "F05",
+      "rationale": "좋은 게 좋은 거겠지 expresses a preference not to make trouble when matters have worked out acceptably.",
+      "replacement": "*Well, better to let it go.*",
+      "severity": "minor",
+      "source": "‘뭐, 좋은 게 좋은 거겠지.’"
+    },
+    {
+      "confidence": 0.94,
+      "current": "“What an asshole.”",
+      "defect": "The translation intensifies the line into explicit profanity; 재수 없어 here means that he is obnoxious or unpleasant.",
+      "id": "F06",
+      "rationale": "The replacement preserves Song Song’s terse disgust without adding profanity absent from the source.",
+      "replacement": "“What a creep.”",
+      "severity": "minor",
+      "source": "“재수 없어.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Quest **[B-rank Gate Clear]** has been created.",
+      "defect": "The Quest name retains square brackets inside a System panel, contrary to the required System formatting.",
+      "id": "F07",
+      "rationale": "The blockquote System window already identifies the text as UI, so the binding rules require removal of the source brackets.",
+      "replacement": "Quest **B-rank Gate Clear** has been created.",
+      "severity": "minor",
+      "source": "- 퀘스트, [B급 게이트 클리어]가 생성되었습니다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "> **Quest**\n>\n> **[B-rank Gate Clear]**",
+      "defect": "The Quest heading in the second System window also retains prohibited square brackets.",
+      "id": "F08",
+      "rationale": "System-panel UI terms must appear without enclosing square brackets.",
+      "replacement": "> **Quest**\n>\n> **B-rank Gate Clear**",
+      "severity": "minor",
+      "source": "퀘스트\n\n[B급 게이트 클리어]"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Are you doing something by yourself?”",
+      "defect": "The line is an unnatural literal construction that does not sound like spontaneous contemporary dialogue.",
+      "id": "F09",
+      "rationale": "The replacement conveys the ordinary question in 혼자서 뭐 해요 while retaining the fact that Taekyung has moved away from the group.",
+      "replacement": "“What are you doing over here by yourself?”",
+      "severity": "minor",
+      "source": "“혼자서 뭐 해요?”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "It was a little awkward, but I took the hand Im Changsoo offered with a smile covering my own face.",
+      "defect": "The draft assigns the broad smile to Taekyung, but the source says Im Changsoo is smiling as he offers the handshake.",
+      "id": "F10",
+      "rationale": "The smile is part of Changsoo’s calculatedly approachable behavior; changing its subject alters both men’s characterization.",
+      "replacement": "It was a little awkward, but I clasped the hand Im Changsoo offered with a broad smile on his face.",
+      "severity": "critical",
+      "source": "조금 껄끄럽긴 했지만 얼굴 가득 미소를 머금고 악수를 청하는 임창수의 손을 맞잡았다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Explaining it would only make my mouth tired.",
+      "defect": "“Make my mouth tired” is an unnatural Korean calque.",
+      "id": "F11",
+      "rationale": "내 입만 아프지 idiomatically means that explaining would be pointless and burdensome.",
+      "replacement": "Explaining it would just be a waste of breath.",
+      "severity": "minor",
+      "source": "설명해 봤자 내 입만 아프지."
+    },
+    {
+      "confidence": 0.96,
+      "current": "I would have been overjoyed if Miss Song had asked me that, but hearing it from a man in heavy armor left me feeling less than pleased.",
+      "defect": "Rendering 수컷 as the neutral “man” removes Taekyung’s deliberately animalistic, comic contrast.",
+      "id": "F12",
+      "rationale": "수컷 literally frames Changsoo as a male specimen, which supplies the sentence’s deadpan humor.",
+      "replacement": "I would have been overjoyed if Miss Song had asked me that, but hearing it from a male in heavy armor left me feeling less than pleased.",
+      "severity": "minor",
+      "source": "송이 씨한테 들었다면 날아갈 듯 기뻤겠지만 중갑옷을 걸친 수컷한테 들으니 기분이 별로다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“You bought it in Cheongdam-dong.”",
+      "defect": "The draft reverses the buyer: Team Leader Choi says that he bought the equipment in Cheongdam-dong, not that Taekyung bought it.",
+      "id": "F13",
+      "rationale": "Choi supplied the loaned equipment, and his unprompted first-person correction sets up Taekyung’s deadpan response.",
+      "replacement": "“I bought it in Cheongdam-dong.”",
+      "severity": "critical",
+      "source": "“청담동에서 샀습니다.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Changsoo hyung, why did that bastard suddenly talk to him?”",
+      "defect": "The action and subject are reversed. The team member asks Changsoo why he suddenly approached or spoke to Taekyung; Taekyung did not initiate the conversation.",
+      "id": "F14",
+      "rationale": "The following answer—Changsoo saying he sounded Taekyung out—confirms that Changsoo initiated the exchange.",
+      "replacement": "“Changsoo hyung, why did you suddenly go talk to that bastard?”",
+      "severity": "critical",
+      "source": "“창수 형, 저 새끼는 갑자기 왜요?”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Leave him alone. It’s cute, watching him overextend himself trying to live like he belongs.”",
+      "defect": "“Live like he belongs” adds a social-belonging motive absent from the source. Changsoo is mocking Taekyung for overextending himself in an attempt to get ahead or make something of himself.",
+      "id": "F15",
+      "rationale": "살아 보겠다고 describes struggling to prosper or improve one’s circumstances, not trying to gain acceptance in a social group.",
+      "replacement": "“Leave him alone. It’s cute, watching him overextend himself trying to make something of himself.”",
+      "severity": "major",
+      "source": "“놔둬라. 귀엽잖아. 지도 나름 살아 보겠다고 무리하는 게.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "*As expected, he was nothing special.*",
+      "defect": "The draft changes the plural 놈들이었어 into a singular judgment about Taekyung alone.",
+      "id": "F16",
+      "rationale": "Changsoo concludes that the Peace Guild members collectively are nobodies, which informs his confidence about targeting Song Song.",
+      "replacement": "*As expected, they were nothing special.*",
+      "severity": "critical",
+      "source": "‘역시 별것 아닌 놈들이었어.’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "It was true that he had felt a little uneasy when Taekyung showed up decked out in expensive equipment. If he had messed with the wrong person, things could have become troublesome.\n\nBut now that he had figured him out, he felt at ease.",
+      "defect": "The draft repeatedly narrows Changsoo’s concern and investigation from the expensively equipped Peace Guild group to Taekyung alone.",
+      "id": "F17",
+      "rationale": "The omitted subjects follow the preceding plural 놈들이었어: Changsoo had been assessing whether the Peace Guild members as a group were dangerous to cross.",
+      "replacement": "It was true that he had felt a little uneasy when they showed up out of nowhere decked out in expensive equipment. If he messed with the wrong people, things could get out of hand.\n\nBut now that he had them figured out, he felt at ease.",
+      "severity": "critical",
+      "source": "난데없이 고가의 장비를 쫙 빼입고 오기에 혹시나 하는 마음이 든 건 사실이다. 괜히 잘못 건드렸다가 일이 커질 수도 있을 테니까.\n\n하지만 파악이 끝난 지금은 마음이 편해졌다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Winning over one woman would be no trouble at all.",
+      "defect": "“Winning over” recasts Changsoo’s objectifying assumption as consensual courtship and softens his characterization.",
+      "id": "F18",
+      "rationale": "얻는 건 treats the woman as something money and power can obtain; the replacement preserves that possessive, predatory attitude.",
+      "replacement": "Getting his hands on one woman would be no trouble at all.",
+      "severity": "major",
+      "source": "여자 하나 얻는 건 일도 아니다."
+    }
+  ],
+  "summary": "The draft contains several subject reversals and shifts in characterization, along with softened profanity, altered pragmatic cues, awkward calques, and two System-format violations.",
+  "version": 1
+}

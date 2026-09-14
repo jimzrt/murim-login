@@ -79,3 +79,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 출혈 | **Bleeding** | Effect with a 90% activation chance on a successful spear hit. |
 | 니콜라스 | **Nicholas** | North American craftsman associated with the space-expansion suitcase. |
 | K사 | **K Company** | Manufacturer of the space-expansion suitcase. |
+| 혜린 | **Hye-rin** | C-rank female mage and member of Im Changsoo's Sangdong Guild team. |
+| 청담동 | **Cheongdam-dong** | District mentioned as a luxury shopping location. |
