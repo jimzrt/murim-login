@@ -35,3 +35,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 삼공자 | **Third Young Master** | Title used for Jin Taekyung. |
 | 맹주 | **Alliance Leader** | Leader of the regional Murim alliance. |
 | 약왕당주 | **Medicine King Hall Master** | The unnamed physician who runs the Medicine King Hall. |
+| 송검문 | **Song Sword Sect** | Small-to-medium sect in central Shanxi. |
+| 송검문주 | **Sect Leader of Song Sword Sect** | Title held by Huang. |
+| 귀검 | **Ghost Sword** | Wipeng's epithet. |
+| 황 모 | **Huang** | Surname-style self-reference by the Sect Leader of Song Sword Sect. |

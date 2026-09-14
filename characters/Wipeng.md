@@ -1,7 +1,7 @@
 # Wipeng (위팽)
 
-- **Safe through:** Chapter 66
-- **Aliases:** None revealed
+- **Safe through:** Chapter 68
+- **Aliases:** Ghost Sword
 - **Role:** Jin Wikyung’s personal guard and commander of the thirty-elite pursuit team sent south under an assassin-hunt pretext
 - **Personality:** Loyal, observant, teasing, and resigned to his master’s impulsive departures
 - **Voice:** Weary and knowing; jokes with Jin Wikyung and uses Sound Transmission
