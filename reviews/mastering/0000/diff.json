@@ -1,0 +1,101 @@
+{
+  "baseline_blocks": 10,
+  "baseline_sha256": "762fcfe689f77628e1c56d86ec92bf8800de86b8b13320dde298044ef74ff96b",
+  "global_terminology_alerts": [],
+  "hunk_count": 5,
+  "hunks": [
+    {
+      "baseline": "There is a Russian proverb:",
+      "baseline_paragraphs": "P2",
+      "baseline_range": [
+        1,
+        2
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "5",
+      "sol": "There’s a Russian proverb:",
+      "sol_paragraphs": "P2",
+      "sol_range": [
+        1,
+        2
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Looking back, I can’t help thinking that everything about that day was someone’s mousetrap. I’d been fired from my seven-year job, the weather was brutally hot, and I lived in a hillside neighborhood you had to cross two hills to reach…",
+      "baseline_paragraphs": "P4",
+      "baseline_range": [
+        3,
+        4
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "9",
+      "sol": "Looking back, I can’t help thinking that everything about that day was someone’s mousetrap. I’d been fired from the job I’d held for seven years, the weather was brutally hot, and I lived in a hillside neighborhood two hills away…",
+      "sol_paragraphs": "P4",
+      "sol_range": [
+        3,
+        4
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "By the time I finally made it up, I was catching my breath. That was when I saw it.",
+      "baseline_paragraphs": "P5",
+      "baseline_range": [
+        4,
+        5
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "11",
+      "sol": "I’d barely made it home and was still catching my breath when I spotted it.",
+      "sol_paragraphs": "P5",
+      "sol_range": [
+        4,
+        5
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I was a hungry rat, suddenly unemployed and unable to turn down the free cheese right in front of me.",
+      "baseline_paragraphs": "P8",
+      "baseline_range": [
+        7,
+        8
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "17",
+      "sol": "I’d become unemployed overnight. I was a hungry rat who couldn’t possibly ignore the free cheese right in front of me.",
+      "sol_paragraphs": "P8",
+      "sol_range": [
+        7,
+        8
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Wouldn’t someone have clapped and laughed as they watched me struggle along with the capsule on my back?",
+      "baseline_paragraphs": "P9",
+      "baseline_range": [
+        8,
+        9
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "19",
+      "sol": "Maybe someone watched me grunt and strain with the capsule on my back, clapping and laughing.",
+      "sol_paragraphs": "P9",
+      "sol_range": [
+        8,
+        9
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 10,
+  "sol_sha256": "8d3dd502ca1247d2b79d7145fb36973d00d43b9882de52604c575ac7369a68cb",
+  "version": 1
+}
