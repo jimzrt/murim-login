@@ -1,0 +1,55 @@
+{
+  "chapter": 76,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.24,
+    "source_characters": 5737,
+    "source_paragraphs": 199,
+    "translation_characters": 12853,
+    "translation_paragraphs": 192
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "상태",
+        "preferred": "Status"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "부천",
+        "romanization": "bucheon"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "강남",
+        "romanization": "gangnam"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "분당",
+        "romanization": "bundang"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "꺽정",
+        "romanization": "kkeokjeong"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}

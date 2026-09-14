@@ -1,0 +1,126 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "There were more than a hundred Gates in Bucheon.",
+      "defect": "The draft changes an approximate quantity of around one hundred into a definite quantity exceeding one hundred.",
+      "id": "F01",
+      "rationale": "백여 개 means approximately one hundred, not necessarily more than one hundred.",
+      "replacement": "There were around a hundred Gates in Bucheon.",
+      "severity": "minor",
+      "source": "부천에 존재하는 게이트만 백여 개다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "This was a neighborhood where all but the most powerful mid-sized Guilds couldn’t even set foot.",
+      "defect": "The draft omits small Guilds and invents a distinction involving unusually powerful mid-sized Guilds, altering the economic hierarchy.",
+      "id": "F02",
+      "rationale": "어지간한 중소 길드 refers to ordinary small and mid-sized Guilds collectively.",
+      "replacement": "This was a neighborhood where your average small or mid-sized Guild couldn’t even set foot.",
+      "severity": "major",
+      "source": "어지간한 중소 길드는 발도 들일 수 없는 동네라는 사실을."
+    },
+    {
+      "confidence": 1.0,
+      "current": "She had been incredibly stubborn. During the redevelopment of the Gate-dense area, she had refused every enormous offer they made. By the time other Guilds had established themselves, there was no other choice……\n\n“In the end, we purchased the property through her surviving family.”",
+      "defect": "Most of Butler Kim’s dialogue is incorrectly converted into narration, and the draft adds the unsupported causal claim that there was no other choice.",
+      "id": "F03",
+      "rationale": "The entire passage is spoken by Butler Kim. The source says the other Guilds had already settled in, but does not explicitly claim that this left no alternative.",
+      "replacement": "“She was incredibly stubborn, so during the redevelopment of the Gate-dense area, she refused no matter how much money they offered. By then, the other Guilds had already established themselves… In the end, we purchased the property from her surviving family.”",
+      "severity": "major",
+      "source": "“엄청난 쇠고집이셔서 밀집 지역 재개발 당시에 어떤 거액을 제시해도 응하지 않으셨죠. 나중에는 다른 길드들도 이미 자리를 잡은 뒤였고…… 결국 유족분들 통해서 저희가 매입했습니다.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“I’ll really work hard. I don’t care whether our Guild house is Sooni’s Super or Sooni’s skyscraper.”",
+      "defect": "The draft turns a generic building into a skyscraper, exaggerating the contrast beyond the source.",
+      "id": "F04",
+      "rationale": "빌딩 means a building here; the joke contrasts the humble store name with a more prestigious building name, not necessarily a skyscraper.",
+      "replacement": "“I’ll really work hard. I don’t care whether our Guild house is Sooni’s Super or Sooni’s Building.”",
+      "severity": "minor",
+      "source": "“저, 진짜 열심히 해 보겠습니다. 길드 하우스가 순이네 수퍼건 순이네 빌딩이건 상관없어요.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Just as they stared at me with expressions that seemed to ask what kind of person I was, a sound rang out.",
+      "defect": "The draft sanitizes the explicitly insulting 새끼 into the neutral “person,” losing the contemptuous comic reaction.",
+      "id": "F05",
+      "rationale": "뭐 이런 새끼가 있나 is a profane, disparaging reaction, not a neutral question about what kind of person he is.",
+      "replacement": "Just as they stared at me with expressions that seemed to ask, *What kind of asshole is this?* a sound rang out.",
+      "severity": "major",
+      "source": "두 사람이 뭐 이런 새끼가 있나 하는 표정으로 나를 응시하던 그 순간이었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Young people these days have loyalty. Kim over there is quiet, but he’s a good man, too. And Miss Song goes without saying.”",
+      "defect": "The draft changes the singular subject—the young Team Leader Choi—into a generalization about young people and adds “these days.” It also flattens 김 씨 into the bare surname “Kim.”",
+      "id": "F06",
+      "rationale": "젊은 사람 refers specifically to Team Leader Choi, while 김 씨 is a respectful reference to Mr. Kim.",
+      "replacement": "“That young man knows what loyalty means. Mr. Kim over there doesn’t say much, but he’s a really good man. And Miss Song goes without saying.”",
+      "severity": "major",
+      "source": "“젊은 사람이 의리가 있어. 저기 김 씨도 과묵해서 그렇지 사람이 참 괜찮더라고. 송 양이야 말할 것도 없고.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Young people these days have loyalty. Kim over there is quiet, but—”",
+      "defect": "The repeated line again changes the singular subject into a generalization and drops the respectful form of address, weakening the deliberate repetition.",
+      "id": "F07",
+      "rationale": "This intentionally repeats Im Kkeokjeong’s preceding assessment of Team Leader Choi and Mr. Kim.",
+      "replacement": "“That young man knows what loyalty means. Mr. Kim over there doesn’t say much, but…”",
+      "severity": "major",
+      "source": "“젊은 사람이 의리가 있어. 저기 김 씨도 과묵해서 그렇지…….”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "*Why do you think? Are you asking because you don’t know?*",
+      "defect": "The draft omits the minced profanity 시바, softening Taekyung’s irritated internal voice.",
+      "id": "F08",
+      "rationale": "시바 is a euphemistically altered curse; “Damn it” preserves the profanity without making the euphemism more explicit than the source.",
+      "replacement": "*Damn it, why do you think? Are you asking because you don’t know?*",
+      "severity": "minor",
+      "source": "시바, 왜 그러긴. 몰라서 물어?"
+    },
+    {
+      "confidence": 0.97,
+      "current": "This was money-burning at its finest.",
+      "defect": "The awkward euphemism removes the source’s vulgar contempt for extravagant spending.",
+      "id": "F09",
+      "rationale": "돈지랄 is a deliberately vulgar expression for ostentatiously wasting money.",
+      "replacement": "What a fucking waste of money.",
+      "severity": "minor",
+      "source": "돈지랄도 이런 돈지랄이 없다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "……So this was why people blew money like that.",
+      "defect": "The second use of 돈지랄 is again softened, weakening the punchline in which Taekyung abruptly revises his opinion of the expensive water.",
+      "id": "F10",
+      "rationale": "The source intentionally repeats the same vulgar characterization of extravagant spending after revealing the water’s effect.",
+      "replacement": "……So this was what all that fucking money was for.",
+      "severity": "minor",
+      "source": "……이래서 돈지랄하는구나."
+    },
+    {
+      "confidence": 0.92,
+      "current": "*Thwack?* Not *smack*?",
+      "defect": "“Thwack” and “smack” overlap too closely in English to clearly preserve the joke that Taekyung expected a slap but received a solid punch.",
+      "id": "F11",
+      "rationale": "퍽 represents the heavier impact of the fist, while 짝 evokes the sharp sound of a slap.",
+      "replacement": "*Wham?* Not *smack*?",
+      "severity": "minor",
+      "source": "‘짝!’이 아니라 퍽?"
+    },
+    {
+      "confidence": 0.95,
+      "current": "“Back then, if you owned even one house in Gangnam, people called you a silver spoon.”",
+      "defect": "“Called you a silver spoon” is not idiomatic English and treats the English idiom as a label for a person.",
+      "id": "F12",
+      "rationale": "금수저 denotes someone born into wealth; the replacement conveys that class implication in natural English.",
+      "replacement": "“Back then, if you owned even one house in Gangnam, people said you were born with a silver spoon in your mouth.”",
+      "severity": "minor",
+      "source": "‘옛날에는 강남에 집 한 채 있으면 금수저 소리 들었지.’"
+    }
+  ],
+  "summary": "Several localized fidelity issues alter quantities, hierarchy, speaker attribution, causal explanation, subjects, and register; additional wording weakens two jokes.",
+  "version": 1
+}
