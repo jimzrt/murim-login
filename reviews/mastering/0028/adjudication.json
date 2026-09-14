@@ -1,0 +1,703 @@
+{
+  "chapter": 28,
+  "decisions": [
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H001",
+      "reason": "Steadied is more natural for 골랐다; contain loses 갈무리’s gather-back sense.",
+      "replacement": "I sat cross-legged and steadied my breathing. The breath I exhaled still carried qi I hadn’t managed to draw back in."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H002",
+      "reason": "Source uses 기 throughout; BASE maps it to glossary 공력 (internal energy)."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H003",
+      "reason": "Shoot up matches colloquial 쭉쭉 오르다; SOL over-specifies cultivation."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H004",
+      "reason": "Singular 무공 is natural here; 천고 is of the ages, not merely legendary.",
+      "replacement": "The greatest martial art under heaven? An elixir of the ages?"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H005",
+      "reason": "Laid eyes on is more idiomatic for 구경도 못 해 보고."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H006",
+      "reason": "Refused to budge fits stubborn 요지부동 better than wouldn’t."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H007",
+      "reason": "SOL turns 공력을 끌어 올려 into a tool; BASE misses 버티고 and 묵묵부답.",
+      "replacement": "As if the thing that had held out like a boulder this whole time was going to start moving. I tried drawing up my internal energy, but it gave me no response."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H008",
+      "reason": "Leaving is more natural spoken English for 출발입니까 than departing."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H009",
+      "reason": "Keeping watch matches 경계; watching is too passive."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H010",
+      "reason": "Briskly keeps 잽싸게; I could only stare better fits 어안이 벙벙.",
+      "replacement": "Then he briskly got the reconnaissance squad ready and scooped Soyul into his arms. I could only stare."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H011",
+      "reason": "On the ball matches 빠릿빠릿; sharp implies cleverness."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H012",
+      "reason": "Shoved keeps 치워 버리고; 검푸르게 is bluish-black, not merely dark blue.",
+      "replacement": "I shoved the stray thoughts aside and slung Gong Yacheong onto my back. As the poisoning worsened, his face had turned a dark bluish-black."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H013",
+      "reason": "Asked worriedly is cleaner English than the appositive asked, worried."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H014",
+      "reason": "All I could do matches 바랄 뿐이다; murmured softens 중얼거렸다."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H015",
+      "reason": "Squeezed through preserves 비집고 들어왔다; pierced changes the action."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H016",
+      "reason": "Started to is the interrupted stride; tried to implies inability."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H017",
+      "reason": "Comma-only change; no meaningful gain."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H018",
+      "reason": "To find wild animals is more natural than for there to be."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H019",
+      "reason": "Restores 어디서 튀어나와도 and 여러 번 as several times."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H020",
+      "reason": "Off matches 이상해; wrong over-specifies the feeling."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H021",
+      "reason": "The ones keeps 그것; tighten is the right verb for 답답해지고.",
+      "replacement": "This wasn’t like the ones before. Just hearing those howls made my chest tighten and my fingertips tingle."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H022",
+      "reason": "Lurking adds unsupported threat; 뭔가가 있다고 is only that something is there."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H023",
+      "reason": "Snapped out of it and thin-iron-plated are punchier; SOL is stiffer."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H024",
+      "reason": "Staccato notes match the Korean fragments; with fuses two observations."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H025",
+      "reason": "All the more ominous and cautiously are cleaner for 그래서 불길하다 and 조심스럽게."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H026",
+      "reason": "It sounds like fits a still-unseen pack judged from howls."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H027",
+      "reason": "Because of this pause (때문에), not a threshold of enough."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H028",
+      "reason": "We’ll wait is natural English for the 기다린다 command."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H029",
+      "reason": "알아들은 is understand, 일 다경 is ~15 minutes; SOL drops snow-covered 요란했다.",
+      "replacement": "The beasts seemed to understand me. For nearly fifteen minutes, the howls never stopped, and they kept getting closer. In the snow-covered mountains at dawn, snapping branches and paws racing over snow made a racket."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H030",
+      "reason": "Only is extra; 한두 마리가 아닌 is already one or two."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H031",
+      "reason": "Source is 내 얼굴을; SOL drops face."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H032",
+      "reason": "From the sound matches 들리는 소리로는; noise is a coarser swap."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H033",
+      "reason": "Showed itself and nothing but ribs are tighter for 모습을 드러냈다 and 앙상하다."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H034",
+      "reason": "굶주린 is starving, stronger than hungry."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H035",
+      "reason": "Need 생각과는 반대로; SOL adds washed over and weakens 널리고 널린 to might.",
+      "replacement": "Yet contrary to my thoughts, I felt oddly relieved. The place was crawling with martial artists, but it wasn’t as if the beasts had learned martial arts too."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H036",
+      "reason": "인 것이다 is present certainty; would be hedges it."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H037",
+      "reason": "Completely gone matches 감 다 죽었네; already is extra."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H038",
+      "reason": "At vs toward is synonym churn."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H039",
+      "reason": "Wrap this up is better MC voice for 끝내자; SOL is stiffer."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H040",
+      "reason": "Leading the charge is clear for 선두; running point is awkward jargon."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H041",
+      "reason": "그런 건가? is a question; SOL turns it into a statement."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H042",
+      "reason": "기 싸움 is a clash of qi, not a battle of wills."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H043",
+      "reason": "우르르 is poured; 사라졌다 is vanished. Each candidate keeps only one.",
+      "replacement": "The charging wolf suddenly veered off and plunged into the forest. Its dozens of subordinate wolves poured after it and vanished."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H044",
+      "reason": "도망친 거다 is fled, not a tactical retreat."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H045",
+      "reason": "Clipped What the hell matches 뭐야, 이거; was that is extra."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H046",
+      "reason": "Why run? keeps the clipped 왜 도망쳐?; charging is a needless swap."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H047",
+      "reason": "기운 is qi in this series; aura replaces the in-world term."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H048",
+      "reason": "For that to be points the possibility at the Haki-like ability more clearly."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H049",
+      "reason": "Fronted participle stops buzzing from dangling off System voice."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H050",
+      "reason": "해괴한 is bizarre, not bewildered."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H051",
+      "reason": "It appeared sets up the Quest Window beat; Something blunts 떴다."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H052",
+      "reason": "May fortune favor you in battle completes 무운을 빕니다."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H053",
+      "reason": "무슨 일인가 is what’s going on, not What was this."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H054",
+      "reason": "Flashed through my mind naturalizes 떠올랐고 사라졌다."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H055",
+      "reason": "Gaunt preserves 앙상한; bare genericizes the winter tree."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H056",
+      "reason": "Picked up is ambiguous for 감지; SOL’s rose is clunky in the correlative.",
+      "replacement": "The higher my Level and martial realm, the sharper my five senses got. And I still hadn’t sensed that man. I hadn’t even heard footsteps."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H057",
+      "reason": "아무것도 is knowing a thing; SOL over-specifies he was there."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H058",
+      "reason": "Fled matches 도망친; the split sentences keep the Korean punch.",
+      "replacement": "Those beasts had fled. Not from me. From that man."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H059",
+      "reason": "Keeps 아까부터; SOL’s finally and to use are unsupported swaps."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H060",
+      "reason": "Wide vs broadly is indistinguishable for 활짝."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H061",
+      "reason": "Assembled split is grammatical for 적당한 키에 평범한 인상."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H062",
+      "reason": "Split last clause still carries 그래서 더 위험해 보였다."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H063",
+      "reason": "Without a second thought integrates 고민할 것도 없이 more naturally."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H064",
+      "reason": "Slipped out preserves 새어 나왔다; came out hoarse loses the leak."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H065",
+      "reason": "My apologies is too formal for 미안하게 됐네; need 그만 as got carried away.",
+      "replacement": "“Sorry about that. I was so happy to see you I got carried away.”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H066",
+      "reason": "Happy echoes 반갑다; Well and pleased are extras."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H067",
+      "reason": "Source is 잃었으니까; SOL adds I’d killed and drops 조필 입장에서는."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H068",
+      "reason": "Chasing/pursuing and turn/churn are synonym churn."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H069",
+      "reason": "다 안다 is knew everything; SOL over-specifies what I was doing.",
+      "replacement": "When I shouted, I felt the air behind me freeze. Jopil smiled as if he already knew everything."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H070",
+      "reason": "Fragment All idiots and trash matches contemptuous 전부 머저리에; SOL’s first sentence is stiffer."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H071",
+      "reason": "Level for 수준 sets up the System suspicion; could use is not 사용하는."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H072",
+      "reason": "Instead captures 그러지 말고."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H073",
+      "reason": "What do you mean matches 그게 무슨 말이지 without extra supposed to."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H074",
+      "reason": "You know what I mean is the idiomatic 무슨 말이긴."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H075",
+      "reason": "Bridge of the nose is 콧잔등; SOL drops it and weakens 충분히 to maybe."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H076",
+      "reason": "Staccato Hopeless lives. No effort, no talent matches the Korean rhythm."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H077",
+      "reason": "사람 is people, not talent; 찢어 is tore, not tore out."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H078",
+      "reason": "아니라 is not merely look dangerous; BASE’s negation contradicts the prior beat."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H079",
+      "reason": "Seen matches 봤다; unbothered and the fragment A psychopath keep 천연덕스러운 punch."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H080",
+      "reason": "Need both 느려 터진 and 놈들; each candidate keeps only one.",
+      "replacement": "“Anyway, what you’re worried about won’t happen. Those bastards are painfully slow. It’ll take them half a shichen to catch up.[^2] By then, everything will be over.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H081",
+      "reason": "Had no place is cleaner for 들어가 있지 않다."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H082",
+      "reason": "Softly vs gently is indistinguishable for 부드럽게."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H083",
+      "reason": "Would happen is the right tense for hypothetical 벌어질지."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H084",
+      "reason": "If anything matches 오히려; things matches 몇 가지, not questions."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H085",
+      "reason": "Any harm matches 어떤 위해도; lay a finger narrows to touch."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H086",
+      "reason": "Is that enough matches spoken 됐나; suffice is too Latinate."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H087",
+      "reason": "SOL’s might have been weakens the psychopath assertion."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H088",
+      "reason": "Rhetorical what else matches 밖에 더 하겠나; 약점 is weakness, not openings."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H089",
+      "reason": "말이 통하는 is listens to reason, not can talk; laugh is 하하, not Hahaha.",
+      "replacement": "“Good. A friend who listens to reason, haha.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H090",
+      "reason": "Scabbard is the natural hip-worn 검갑; sword case sounds like a box."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H091",
+      "reason": "Inputting keeps the gamer 입력 metaphor; filed away genericizes it."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H092",
+      "reason": "Went round preserves 동그랗게; widened is generic."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H093",
+      "reason": "To have reached completes 그 정도 경지라니 without adding facts."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H094",
+      "reason": "Assembled split is smoother English for the F-rank vs genius contrast."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H095",
+      "reason": "Separate It was a strange feeling still carries 묘한 기분이다."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H096",
+      "reason": "From is more spoken for 인물인 것 같은데; belong to is a stiff synonym."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H097",
+      "reason": "Wouldn’t be keeps conjectural 아닐 테고; clipped your name? matches 이름이?"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H098",
+      "reason": "Before is extra on 어디서 들어 본."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H099",
+      "reason": "Two sentences keep the pause of 생각에 잠겨 then 탄성을 내뱉었다."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H100",
+      "reason": "Third Young Master is a title and should be capitalized."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H101",
+      "reason": "I’m not a wastrel is more natural spoken denial."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H102",
+      "reason": "Please keeps 독살은 무슨; board preserves 판. SOL genericizes both."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H103",
+      "reason": "Looked at me, satisfied is plainer for 흡족한 얼굴로 than regarded."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H104",
+      "reason": "Was all of that matches 그건 전부; already is not a real gain."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H105",
+      "reason": "Start vs begin is indistinguishable."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H106",
+      "reason": "칠 년 is duration, not seven years ago."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H107",
+      "reason": "Are a kind of martial art too matches 이니까; could be considered hedges it."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H108",
+      "reason": "Then said vs before saying is conjunction churn."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H109",
+      "reason": "The statement doesn’t seem a lie; SOL shifts the subject to you lying."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H110",
+      "reason": "Yet and reaching restore 하면서 and 경지에 올랐다."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H111",
+      "reason": "허점투성이 is riddled; SOL’s seemed drops 믿을 수 없을 정도로.",
+      "replacement": "My mouth was bone-dry. I gripped the spear and scanned Jopil’s body. He was unbelievably riddled with openings."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H112",
+      "reason": "보이는 게 is what I was seeing, not what I saw.",
+      "replacement": "But was what I was seeing really all there was?"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H113",
+      "reason": "Could vs might is indistinguishable for 일 수도 있다."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H114",
+      "reason": "Went no further is tighter for 이어지지 못했다."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H115",
+      "reason": "He’d is more natural thought-voice for 지킨다고?"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H116",
+      "reason": "In a daze matches 멍한 얼굴로 better than blank."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H117",
+      "reason": "Really wanted matches 꼭; very badly and find myself are padding."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H118",
+      "reason": "Brimming matches 듬뿍 담긴 better than full of."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H119",
+      "reason": "Need 걸출한; situation like this must set up the next echo.",
+      "replacement": "“It’d be a waste to kill outstanding talent like this. Especially in a situation like this.”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H120",
+      "reason": "Echoes 이런 상황; What do you mean? drops the callback."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H121",
+      "reason": "Might not know matches 모를 수도; 좀 더 is a little more, and yet is extra.",
+      "replacement": "“Ah. You might not know. You’ll find out when you return. Go on, then. I hope you’ll have grown a little more by the next time we meet.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H122",
+      "reason": "Leave is clearer for permitted 가도 된다고."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H123",
+      "reason": "Slowly is unsupported; 바라볼 뿐 is watching, not just smiled.",
+      "replacement": "I backed away without dropping my guard. Jopil merely watched me with a smile."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H124",
+      "reason": "Letting a minnow go is more spoken for 놓아주는 than releasing."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H125",
+      "reason": "Walk into and keep your head keep 들어가도 and the proverb’s force."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H126",
+      "reason": "Wild-card personality preserves 어디로 튈지 모르는 성격; unpredictability is generic."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H127",
+      "reason": "토해졌다 is burst out; 1초라도 빨리 is a second sooner, not as quickly as possible.",
+      "replacement": "Once I had a safe distance, the breath I’d been holding burst out. But there was no time to catch it. I had to leave this place a second sooner, if I could."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H128",
+      "reason": "바라봤다 is looked; stared intensifies it."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H129",
+      "reason": "Going back matches 돌아가는; leaving changes the verb."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H130",
+      "reason": "To leave makes 허락한 건 자네 혼자야 intelligible without adding facts."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H131",
+      "reason": "Took on matches 맡은; SOL adds still and was given."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H132",
+      "reason": "Leave them behind matches 두고 가게."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H133",
+      "reason": "맑던 is clear, not innocent; predator’s keeps the transformation tight."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H134",
+      "reason": "Say this now matches 미리 말해 두지; warn over-specifies the speech act."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H135",
+      "reason": "튀어나왔다 is burst out; BASE loops and SOL the choice are extras on 고민과 갈등.",
+      "replacement": "I stared blankly at Jopil, the reconnaissance squad, the young siblings, and the dying Gong Yacheong. Time was short, but after dozens of rounds of doubt and conflict, one line burst out."
+    }
+  ],
+  "version": 1
+}

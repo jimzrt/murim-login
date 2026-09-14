@@ -1,0 +1,39 @@
+{
+  "chapter": 24,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.153,
+    "source_characters": 5671,
+    "source_paragraphs": 214,
+    "translation_characters": 12212,
+    "translation_paragraphs": 219
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진가보법",
+        "preferred": "Jin Family's Manoeuvre Technique"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진가창법",
+        "preferred": "Jin Family's Spear Technique"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "상태",
+        "preferred": "Status"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}

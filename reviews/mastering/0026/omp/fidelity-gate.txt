@@ -1,0 +1,15 @@
+{
+  "summary": "Faithful overall, with one minor loss of source ambiguity.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "line 349",
+      "current": "“Soyul wants to see Dad. But I guess Dad doesn’t want to see us. Oppa says he went out to play with Mom, leaving me and Oppa behind.”",
+      "defect": "The source leaves the reciprocal clause’s object implicit, meaning that Soyul wants to see her father but believes he does not feel the same. “Doesn’t want to see us” explicitly broadens that feeling to both siblings.",
+      "replacement": "“Soyul wants to see Dad. But I guess Dad doesn’t feel the same. Oppa says he went out to play with Mom, leaving me and Oppa behind.”",
+      "rationale": "아빠는 아닌가 봐요 elliptically contrasts the father’s feelings with Soyul’s preceding wish without explicitly naming an object; the following clause separately mentions both siblings.",
+      "confidence": 0.96
+    }
+  ]
+}

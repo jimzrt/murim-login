@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "What were you thinking, charging in like that?",
+      "defect": "Jopil speaks this line aloud, as confirmed by the following statement that his words did not reach the dead man, but the English presents it as unquoted narration.",
+      "id": "F01",
+      "rationale": "The source explicitly treats this as speech continuing after Jopil addresses the dead martial artist.",
+      "replacement": "“What were you thinking, charging in like that?”",
+      "severity": "minor",
+      "source": "lines 311–313"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“I never imagined the day would come when we’d hunt the Jin Family of Taiyuan.”",
+      "defect": "The translation drops the contemptuous 놈들, softening Jopil’s hostile register toward the Jin Family members.",
+      "id": "F02",
+      "rationale": "놈들 is a deliberately derogatory reference to the people he is hunting, not a neutral organization label.",
+      "replacement": "“I never imagined the day would come when we’d hunt down those Jin Family of Taiyuan bastards.”",
+      "severity": "minor",
+      "source": "line 363"
+    }
+  ],
+  "summary": "Faithful overall, with two minor losses in dialogue presentation and register.",
+  "version": 1
+}

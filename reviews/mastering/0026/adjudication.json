@@ -1,0 +1,519 @@
+{
+  "chapter": 26,
+  "decisions": [
+    {
+      "decision": "SOL",
+      "hunk_id": "H001",
+      "reason": "묘한 눈빛 is a look/gaze, not an 'expression'."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H002",
+      "reason": "Contraction is more natural in spoken recognition."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H003",
+      "reason": "쫑긋 is the pricking-up-of-ears idiom; 'perked up' is weaker."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H004",
+      "reason": "'Only now' already covers 이제야; 'finally' is redundant."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H005",
+      "reason": "질질 끌려가는 is being dragged along, not 'dragged away'."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H006",
+      "reason": "말했다 is 'spoke,' not the unsupported 'continued'."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H007",
+      "reason": "SOL drops 실로, turns 익히지 않는다 into 'no interest,' and misrenders 역시."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H008",
+      "reason": "Keep 뭐 이런 게 as 'something like' a titled paper; 'sounded' is unsupported, and 제법 신빙성 is 'surprisingly credible.'",
+      "replacement": "If there were something like a *Martial World Daily* that collected every rumor in the martial world, I’d subscribe immediately. It was surprisingly credible."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H009",
+      "reason": "희생 is sacrifice, not merely dying."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H010",
+      "reason": "괜한 is unnecessary trouble, not merely 'extra.'"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H011",
+      "reason": "정신이 돌아왔다 is coming back to one's senses."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H012",
+      "reason": "한탄 is 'lamented,' not 'sighed'; BASE's 'still dumping snow' attaches ambiguously.",
+      "replacement": "Gong Yacheong lamented. He glared resentfully at the sky as it continued dumping snow."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H013",
+      "reason": "발이 묶이긴 is being stuck, not merely slowed down."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H014",
+      "reason": "Captures 수준 and 떨어질; 따로 is 'elsewhere.'"
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H015",
+      "reason": "SOL adds unsupported 'merely a group'; 같 is 'the same,' and 존재 should stay as 'creatures.'",
+      "replacement": "“Exactly. The experience gained from fighting a hundred battles. What’s chasing us isn’t martial artists. It’s wandering martial artists. The same, yet entirely different creatures.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H016",
+      "reason": "Echoes 같지만 다른 with 'the same, yet different.'"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H017",
+      "reason": "'Isn't simply that' is the cleaner reason-clause in English."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H018",
+      "reason": "너머 is 'beyond,' not 'ahead.'"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H019",
+      "reason": "휘이잉 belongs with the wind sentence, not a split paragraph."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H020",
+      "reason": "눈바람 is snow-laden and 녹아들었다 is vanishing/dissolving, kept with the SFX in one beat.",
+      "replacement": "Whoosh. The snow-laden wind vanished into the darkness."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H021",
+      "reason": "토굴 is dugouts, not holes; 입구 is entrances, not calqued 'mouths.'",
+      "replacement": "We finished making camp. We had dug several small dugouts and blocked their entrances with branches, fallen leaves, and whatever else we could find. It was crude, but this was no time to be choosy."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H022",
+      "reason": "'Restful night' is the natural English goodnight for 편안한 밤."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H023",
+      "reason": "SOL invents 'into one of them' and loses 입가/어느새."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H024",
+      "reason": "살고자 했으면 is 'wanted to live'; 고수 is glossary 'master,' not 'skilled martial artist.'"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H025",
+      "reason": "그래서 is 'that was why,' not 'what made.'"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H026",
+      "reason": "'Shook off the question' is the more idiomatic phrasal order."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H027",
+      "reason": "Joins the two reward fragments into one natural sentence."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H028",
+      "reason": "슬슬 is 'starting to,' not 'at last.'"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H029",
+      "reason": "깜깜무소식 is radio silence; SOL's 'nothing' flattens it."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H030",
+      "reason": "Keep 존재 and 무림에서; SOL's 'by Murim standards' and System-as-agent drift.",
+      "replacement": "I was an absurd existence in Murim. I could learn martial arts and raise my stats faster than anyone else. I had grown stronger with the System’s help in all kinds of ways."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H031",
+      "reason": "어지간한 is ordinary, not 'most.'"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H032",
+      "reason": "생각이 든다 is a feeling, not the stronger 'suspect.'"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H033",
+      "reason": "'Complete the puzzle' is the natural collocation."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H034",
+      "reason": "'I'll have to' is the more natural self-directed 찾아야지."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H035",
+      "reason": "'Just like' fits his voice; SOL's 'Just as' is stiffer."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H036",
+      "reason": "Combining the mutter and the eye-sweep reads as one simultaneous beat."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H037",
+      "reason": "Omitted subject is the hunting party; SOL narrows it to 'He' and drops 'fugitives.'"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H038",
+      "reason": "SOL omits 자리를 ('this place')."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H039",
+      "reason": "Keep glossary Peak without 'level'; 'like him' is more natural than 'like that.'",
+      "replacement": "Jopil nodded at his subordinate’s report. The man’s martial arts were only Third Rate, but his tracking skills were Peak. Jopil had countless hunting dogs like him under his command."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H040",
+      "reason": "좁혀졌다 is 'narrowed.'"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H041",
+      "reason": "'Thrown off' is the more physical 떼고 and fits Jopil's diction."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H042",
+      "reason": "They thought they were stuck in the blizzard; SOL makes it stop Jopil and turns 차이 into 'mistake.'"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H043",
+      "reason": "그 차이가 지금의 상황을 만들었다 must remain; SOL deleted it into a mistranslation."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H044",
+      "reason": "'Some had fallen behind' is more natural than 'there had been stragglers.'"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H045",
+      "reason": "동의어 is 'the same as,' not 'as good as.'"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H046",
+      "reason": "Completes the proverb's parallel 'when a person died.'"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H047",
+      "reason": "'Possibly' captures rhetorical 있겠나; 'kind of' is extra."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H048",
+      "reason": "Singular 'He' matches 삼류 인생."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H049",
+      "reason": "Keep 'stripped' and 'traces'; 동틀 무렵 is around daybreak, not just before dawn.",
+      "replacement": "Leaving twenty stripped corpses behind, they continued onward. After the long night ended, they found the fugitives’ traces around daybreak."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H050",
+      "reason": "Keep 고수 as 'master'; 'pique his interest' is the better idiom.",
+      "replacement": "The corners of Jopil’s mouth lifted. This mysterious master was the first in a long while to pique his interest."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H051",
+      "reason": "굳어 is stiff/hardened, not 'stilled.'"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H052",
+      "reason": "Captures 순간 as a sudden chill."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H053",
+      "reason": "'Gone on his way' is the natural dismissive idiom."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H054",
+      "reason": "심증 is a firm suspicion, not a hunch."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H055",
+      "reason": "'Along' is churn with no fidelity gain."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H056",
+      "reason": "Countdown idiom is 'hit three'; 잽싸게 is 'rushed.'",
+      "replacement": "The instant I hit three, Hyuk Mujin rushed over and pressed himself against my side."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H057",
+      "reason": "너잖아 is 'You were the one,' not 'You know what I mean.'"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H058",
+      "reason": "저 아닙니다 is 'It wasn't me,' not 'I didn't do anything.'"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H059",
+      "reason": "SOL drops 가만히 ('silently')."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H060",
+      "reason": "헛 is a caught-out 'Hah,' distinct from later 헉/'Gasp.'"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H061",
+      "reason": "Repeats 욕한; SOL's tag question drops the accusation."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H062",
+      "reason": "역시 is 'I knew it.'"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H063",
+      "reason": "Keeps 정도, 전의 as fighting spirit, and 거기에 더해."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H064",
+      "reason": "He actively jerks his head up; SOL makes the head the subject."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H065",
+      "reason": "앞으로도 is 'from now on,' not 'again'; 'mind-reading' is this chapter's 관심법 rendering."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H066",
+      "reason": "마구니 is murderous intent; 머리 is head, not skull; 넉넉 is enough, not more.",
+      "replacement": "Hyuk Mujin glared at me with a look full of murderous intent, then bolted back to his place. If I’d had enough time, I would have crushed his head with a mace."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H067",
+      "reason": "Keeps the established 'mind-reading' rendering of 관심법."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H068",
+      "reason": "재잘거리는 is chatter; SOL's 'Had he said' invents a speaker."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H069",
+      "reason": "쏙 is 'right' inside."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H070",
+      "reason": "엄청 세지 is 'Really strong,' not clipped 'Very.'"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H071",
+      "reason": "Comma-before-too is indistinguishable."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H072",
+      "reason": "화들짝 놀란 is startled, not shock; the huge eyes are what's cute."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H073",
+      "reason": "Comma-before-too is indistinguishable."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H074",
+      "reason": "징그러운 is creepy, not obnoxious."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H075",
+      "reason": "The simile is piggybacking Hayeon; SOL invents carrying Soyul."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H076",
+      "reason": "배울래 is casual 'Want me to.'"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H077",
+      "reason": "될래요 is 'I want to become,' not 'I'm going to be.'"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H078",
+      "reason": "Comma-before-too is indistinguishable."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H079",
+      "reason": "으응 is an affirmative 'Mm-hmm.'"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H080",
+      "reason": "Comma-before-too is indistinguishable."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H081",
+      "reason": "'Then' marks the turn from chatter to pouting more clearly."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H082",
+      "reason": "놀러 갔대요 is childlike 'went out to play,' not adult 'have fun.'"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H083",
+      "reason": "쿵 is the thud SOL drops."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H084",
+      "reason": "'Draped in' adds unsupported funeral imagery."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H085",
+      "reason": "Omitted subject is the narrator's lie ('I'), not Socheon."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H086",
+      "reason": "거친 숨을 몰아쉬는 is panting hard."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H087",
+      "reason": "Cleaner English for 단 한 번도 without 'never…even once' redundancy."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H088",
+      "reason": "'Somewhere else' fits his conversational thought better than 'lies elsewhere.'"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H089",
+      "reason": "벗어나지 is 'shaken off'; 운기조식 should stay a verb, not 'qi circulation.'"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H090",
+      "reason": "따라잡힌다 is passive 'we'll be caught.'"
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H091",
+      "reason": "쌓인 is accumulated; 쉽사리 녹아내리지 않았다 is wouldn't easily melt, not 'no sign'; 뚫고 is forcing a path.",
+      "replacement": "Even after the sun rose, the accumulated snow wouldn’t easily melt. I was out front, forcing a path through it, but everyone was exhausted, and our pace had slowed."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H092",
+      "reason": "아이 does not specify 'two.'"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H093",
+      "reason": "'Came to me' is more natural English."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H094",
+      "reason": "'Created AI' matches 창조된 인공지능; SOL adds 'for the game' and flattens his voice."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H095",
+      "reason": "하지만 나는? is the punchy 'But me?'"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H096",
+      "reason": "실체 is physical substance/'real body,' not 'truly existed.'"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H097",
+      "reason": "왜 이래 is 'Why am I like this?'"
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H098",
+      "reason": "'Surged through me' is the natural collocation; 당황 is being thrown off, not shaken.",
+      "replacement": "An inexplicable aversion surged through me. It was strong enough to startle me—strong enough to throw me off."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H099",
+      "reason": "Korean is failing to find the answer, not spending hours searching."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H100",
+      "reason": "밤이 찾아왔다 is 'night came' in the same sentence; don't split or change to 'fell.'"
+    }
+  ],
+  "version": 1
+}
