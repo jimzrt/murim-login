@@ -35,8 +35,8 @@ jobs:
 
       - name: Build HTML reader
         env:
-          ASTRO_SITE: ${{ steps.pages.outputs.origin }}
-          ASTRO_BASE: ${{ steps.pages.outputs.base_path }}
+          ASTRO_SITE: https://murim-login.com
+          ASTRO_BASE: /
         run: python tools/build.py --format html
 
       - uses: actions/upload-pages-artifact@v3
