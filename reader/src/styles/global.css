@@ -633,7 +633,10 @@ pagefind-modal-trigger.nav-search {
 }
 
 .chapter-ol a {
-  display: block;
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.75rem;
   padding: 0.42rem 0.15rem 0.42rem 0.65rem;
   color: var(--ink);
   text-decoration: none;
@@ -885,8 +888,8 @@ html[data-theme="light"] .system-window {
 
 .comments {
   margin-top: 2.5rem;
-  padding-top: 1.25rem;
-  border-top: 1px solid var(--rule);
+  padding-top: 0;
+  border-top: 0;
 }
 
 .comments-title {
@@ -896,9 +899,148 @@ html[data-theme="light"] .system-window {
 }
 
 .comments-offline {
-  margin: 0;
-  color: var(--muted);
+  margin: 0.75rem 0 0;
+  color: #d7e6f7;
   font-size: 0.9rem;
+  font-weight: 600;
+}
+
+.system-comments {
+  --system-blue: #1c4a82;
+  --system-blue-mid: #2d6aad;
+  --system-blue-deep: #163968;
+  --system-gold: #e6c86a;
+  --frame: 2.5rem;
+  position: relative;
+  margin: 2.8em 0 1.5em;
+  padding: 1.35em 0.95em 1em;
+  overflow: visible;
+  color: #fff;
+  text-align: left;
+  font-family: "Segoe UI", system-ui, sans-serif;
+  font-size: 0.92em;
+  font-weight: 650;
+  line-height: 1.45;
+  border: var(--frame) solid transparent;
+  border-image: url("../ornaments/frame.svg") 56 / var(--frame) / 0 stretch;
+  border-radius: 0;
+  background-color: var(--system-blue);
+  background-image: radial-gradient(120% 90% at 50% 0%, #3a78b8 0%, var(--system-blue-mid) 42%, var(--system-blue) 100%);
+  background-origin: border-box;
+  background-clip: border-box;
+  box-shadow: 0 0 22px color-mix(in srgb, var(--system-blue-mid) 26%, transparent);
+}
+
+html[data-theme="light"] .system-comments {
+  box-shadow: 0 8px 22px color-mix(in srgb, var(--system-blue-deep) 20%, transparent);
+}
+
+.system-comments__badge {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.15rem;
+  position: absolute;
+  z-index: 1;
+  left: 50%;
+  top: calc(-0.82 * var(--frame));
+  width: max-content;
+  max-width: calc(100% - 2 * var(--frame) - 3.2rem);
+  margin: 0;
+  transform: translate(-50%, -50%);
+  padding: 0.28em 2.45em 0.24em;
+  background: linear-gradient(180deg, #3a78b8 0%, var(--system-blue) 100%);
+  border: 2px solid var(--system-gold);
+  border-radius: 0.2rem;
+  color: #fff;
+  font-size: 0.68rem;
+  font-weight: 800;
+  letter-spacing: 0.22em;
+  text-indent: 0.22em;
+  text-transform: uppercase;
+  text-shadow:
+    -1.1px -1.1px 0 var(--system-blue-deep),
+    1.1px -1.1px 0 var(--system-blue-deep),
+    -1.1px 1.1px 0 var(--system-blue-deep),
+    1.1px 1.1px 0 var(--system-blue-deep);
+  box-shadow:
+    0 0 0 1px var(--system-blue-deep),
+    0 1px 0 #8a6a1a;
+}
+
+.system-comments__badge::before,
+.system-comments__badge::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  width: 2.45rem;
+  height: 1.95rem;
+  background: url("../ornaments/dragon.svg") center / contain no-repeat;
+  filter: drop-shadow(0 1px 0 #8a6a1a);
+  transform: translateY(-52%);
+}
+
+.system-comments__badge::before {
+  left: -2.15rem;
+}
+
+.system-comments__badge::after {
+  right: -2.15rem;
+  transform: translateY(-52%) scaleX(-1);
+}
+
+/* Remark42 widget sits inside the system plaque; nudge its chrome toward navy/gold. */
+.system-comments #remark42 {
+  color: #f3f7fc;
+}
+
+.system-comments #remark42 a {
+  color: var(--system-gold);
+}
+
+.system-comments :is(.comment, .comment-form, .comments-list, .root) {
+  color: inherit;
+}
+
+.chapter-ol__title {
+  min-width: 0;
+}
+
+.chapter-ol__meta {
+  flex: 0 0 auto;
+  color: var(--muted);
+  font-size: 0.78rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.chapter-ol__meta .remark42__counter {
+  opacity: 0.75;
+}
+
+@media (max-width: 40rem) {
+  .system-comments {
+    --frame: 2.05rem;
+    padding: 1.35em 0.7em 0.9em;
+    font-size: 0.86em;
+  }
+
+  .system-comments__badge {
+    padding-inline: 2.1em;
+  }
+
+  .system-comments__badge::before,
+  .system-comments__badge::after {
+    width: 2.05rem;
+    height: 1.65rem;
+  }
+
+  .system-comments__badge::before {
+    left: -1.5rem;
+  }
+
+  .system-comments__badge::after {
+    right: -1.5rem;
+  }
 }
 
 .reader-dialog {

@@ -44,7 +44,7 @@ const description = `${entry.data.title} — about ${minutes} min read. A transl
     <article class="prose" data-pagefind-body>
       <Content />
     </article>
-    <Remark42 chapter={entry.data.chapter} />
+    <Remark42 chapter={entry.data.chapter} title={entry.data.title} />
     <ChapterNav previous={previous} next={next} />
   </main>
   <ChapterDock previous={previous} next={next} />
