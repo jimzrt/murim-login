@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "It was the dim light of dawn outside. The winter air was cold as ice, and frost crumbled beneath my feet every time I walked across the training hall.",
+      "defect": "The opening is unnatural English, and “training hall” suggests an enclosed building despite the explicit outdoor setting and frost-covered training ground.",
+      "id": "F01",
+      "rationale": "밖 explicitly establishes an outdoor setting, while 연무장 here is the frost-covered training ground.",
+      "replacement": "Outside, dawn was dim. The winter air was cold as ice, and frost crumbled underfoot with every step across the training ground.",
+      "severity": "minor",
+      "source": "밖은 어스름한 새벽이었다. 겨울철 공기는 얼음장처럼 차가웠고 걸을 때마다 연무장 바닥에 낀 서리가 바스러졌다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "My experience was on a completely different level from my fist-and-kicking technique.",
+      "defect": "The sentence compares “experience” to a “technique,” obscuring that his accumulated experience with the spear far exceeds his experience fighting unarmed.",
+      "id": "F02",
+      "rationale": "쌓인 깜냥 refers to the depth of ability or experience he has accumulated, contrasted with 권각술.",
+      "replacement": "The experience I’d built up with the spear was on a completely different level from my fists and kicks.",
+      "severity": "minor",
+      "source": "권각술과는 쌓인 깜냥부터 다르다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "He kept getting back up like a tumbler, growing stronger each time.",
+      "defect": "In contemporary US English, “tumbler” does not clearly convey the self-righting toy represented by 오뚝이.",
+      "id": "F03",
+      "rationale": "오뚝이 is a weighted toy that rights itself whenever it is knocked down, which supplies the source image.",
+      "replacement": "He kept getting back up like a roly-poly toy, growing stronger each time.",
+      "severity": "minor",
+      "source": "오뚝이처럼 일어났고 점점 강해졌다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The tendon-cleansing and marrow-washing techniques of a Supreme Peak master. Improving one’s constitution with elixirs.",
+      "defect": "The draft describes techniques belonging to a Supreme Peak master rather than the recipient undergoing tendon cleansing and marrow washing performed by such a master, altering the advancement mechanism.",
+      "id": "F04",
+      "rationale": "초절정 고수의 벌모세수 means receiving 벌모세수 from a Supreme Peak master; the master is the agent of the treatment.",
+      "replacement": "Having a Supreme Peak master cleanse his tendons and marrow. Improving his constitution with elixirs.",
+      "severity": "major",
+      "source": "초절정 고수의 벌모세수, 영약을 이용한 체질 개선."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Then swinging a spear until one literally shit blood while gaining practical experience.",
+      "defect": "“Literally” turns a crude hyperbolic expression into an asserted physical outcome, and “practical experience” weakens 실전 경험, which specifically means real combat experience.",
+      "id": "F05",
+      "rationale": "피똥 쌀 만큼 is emphatic crude hyperbole, while 실전 distinguishes actual combat from practice.",
+      "replacement": "Then swinging a spear until he shit blood while building real combat experience.",
+      "severity": "minor",
+      "source": "그다음 피똥 쌀 만큼 창을 휘두르며 실전 경험을 쌓으면 된다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Even a three-year-old can say that. Be more specific.",
+      "defect": "삼척동자 means a very small or mere child, not specifically a three-year-old; the draft invents an age.",
+      "id": "F06",
+      "rationale": "The idiom describes an obviously inexperienced child and does not provide a numerical age.",
+      "replacement": "Even a little kid could say that. Be more specific.",
+      "severity": "minor",
+      "source": "그따위 말은 삼척동자도 할 수 있어. 더 자세히."
+    },
+    {
+      "confidence": 0.99,
+      "current": "I shook my head so fiercely that it nearly came off, but Jin Mukyung’s anger showed no sign of fading.",
+      "defect": "“That it nearly came off” adds a joke and physical exaggeration absent from the source.",
+      "id": "F07",
+      "rationale": "맹렬히 describes the vigor of the head-shaking but does not say or imply that his head nearly came off.",
+      "replacement": "I shook my head fiercely, but Jin Mukyung’s anger showed no sign of fading.",
+      "severity": "minor",
+      "source": "맹렬히 고개를 흔들었지만 진무경의 화는 좀처럼 가라앉지 않았다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Three years and! Two months!”",
+      "defect": "The placement of “and” is not natural spoken English and blunts the hurried comic correction.",
+      "id": "F08",
+      "rationale": "Taekyung hastily revises his answer to three years and two months while emphatically inserting the longer period.",
+      "replacement": "“Three years! Plus two months!”",
+      "severity": "minor",
+      "source": "“삼 년 하고도! 두 달이요.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "If I asked Jin Wikyung, the truth would come out immediately. But at least I would not have the misfortune of experiencing the Twelve Gale Fists right now.",
+      "defect": "The draft makes Taekyung the person who would ask Jin Wikyung, but context indicates that Jin Mukyung could ask him and thereby expose Taekyung’s lie.",
+      "id": "F09",
+      "rationale": "Taekyung has just lied to Jin Mukyung about how long he has trained; asking Jin Wikyung is the means by which Mukyung could discover that lie.",
+      "replacement": "If Jin Mukyung asked Jin Wikyung, my lie would be exposed immediately. But at least I would not have the misfortune of experiencing the Twelve Gale Fists right now.",
+      "severity": "major",
+      "source": "진위경에게 물어보면 금방 들통나겠지만, 적어도 지금 당장 질풍십이권을 체험하는 불상사는 일어나지 않을 것이다."
+    }
+  ],
+  "summary": "Two meaningful fidelity errors alter the mechanism of Jin Taekyung’s hypothetical advancement and the subject of the question that could expose his lie. Several localized wording issues obscure source images, register, or natural meaning.",
+  "version": 1
+}
