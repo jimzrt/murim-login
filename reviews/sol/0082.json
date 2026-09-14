@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "I had only ever dealt with D-rank Gates myself, so this was my first time seeing anything higher.",
+      "defect": "The draft says Taekyung has dealt only with D-rank Gates, while the source says D-rank is the highest Grade he has experienced.",
+      "id": "F01",
+      "rationale": "고작 marks D-rank as the upper limit of his prior Gate experience, not the only Grade he has encountered.",
+      "replacement": "D-rank was as high as I’d ever gone myself, so this was my first time seeing anything higher.",
+      "severity": "critical",
+      "source": "물론 나야 D급 게이트가 고작이라 더 높은 등급은 처음이지만 사람들이 그렇다더라."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Whether I offended you or not, it’s a fact. What’s there to be offended about?",
+      "defect": "The draft reverses who might have been offended. Team Leader Choi apologized for potentially offending Im Changsoo, and Changsoo replies that he himself has no reason to be offended.",
+      "id": "F02",
+      "rationale": "The omitted subject of 상하고 is Im Changsoo, the recipient of Choi’s preceding apology; it does not mean that Changsoo may have offended Choi.",
+      "replacement": "Why would I be offended? It’s the truth.",
+      "severity": "critical",
+      "source": "“상하고 말고 할 게 있나 사실인데, 뭘."
+    },
+    {
+      "confidence": 0.99,
+      "current": "For a martial artist, that would be close to First Rate. But if I fought them, I would have to account for all sorts of variables.",
+      "defect": "The draft lowers the Minotaurs’ equivalent martial-arts classification from near 초일류 to near First Rate, despite rendering 초일류 as Top-tier earlier in the same chapter.",
+      "id": "F03",
+      "rationale": "The source distinguishes 초일류 from 일류, so collapsing both into First Rate changes the stated power hierarchy.",
+      "replacement": "For a martial artist, that would be close to Top-tier. But if I fought them, I would have to account for all sorts of variables.",
+      "severity": "major",
+      "source": "무인이라면 초일류에 가까운 레벨이지만 놈들과 싸운다면 여러 가지 변수를 고려해야 한다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“For a C-rank with fuck-all to his name, you sure were going on about what you could do with a Minotaur and whatnot. You were practically writing a novel.”",
+      "defect": "The draft makes Im Changsoo explicitly accuse Taekyung of claiming what he could do against a Minotaur. The source derisively leaves the subject vague, saying only that he was going on about Minotaurs.",
+      "id": "F04",
+      "rationale": "미노타우로스를 어쩌고저쩌고 deliberately summarizes the conversation without specifying a boast or claim of capability.",
+      "replacement": "“For a C-rank with fuck-all to his name, you sure had a lot to say about Minotaurs and whatnot. You were practically writing a novel.”",
+      "severity": "major",
+      "source": "“쥐뿔도 없는 C급 주제에 미노타우로스를 어쩌고저쩌고. 아주 소설을 쓰시던데.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Martial artists learned cultivation techniques that allowed them to use the energy inside their bodies efficiently, then maximized it through martial arts.",
+      "defect": "The generic word “energy” fails to preserve the chapter’s distinction between a martial artist’s qi and a Hunter’s mana.",
+      "id": "F05",
+      "rationale": "Here 기운 is explicitly the internal power used by martial artists through cultivation techniques and martial arts, so the required term is “qi.”",
+      "replacement": "Martial artists learned cultivation techniques that allowed them to use the qi inside their bodies efficiently, then maximized it through martial arts.",
+      "severity": "minor",
+      "source": "무인들은 신체 내부의 기운을 효율적으로 사용할 수 있는 내공심법을 익혔고 그걸 무공을 통해 극대화시켰다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Of course, it was on a completely different scale from an F-rank Gate.",
+      "defect": "The draft generalizes a specific comparison of ceiling height into an unspecified difference in scale.",
+      "id": "F06",
+      "rationale": "높이 specifically describes the cavern ceiling’s height, continuing the immediately preceding observation about looking upward.",
+      "replacement": "Of course, the ceiling was incomparably higher than in an F-rank Gate.",
+      "severity": "minor",
+      "source": "물론 F급 게이트와는 차원이 다른 높이였다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "A simple illusion? No.",
+      "defect": "“Illusion” suggests a visual or supernatural phenomenon, whereas 착각 here means that Taekyung wonders whether he imagined or misperceived the vibration.",
+      "id": "F07",
+      "rationale": "The uncertainty concerns whether the faint physical sensation was real, not whether he saw an illusion.",
+      "replacement": "Was I imagining things? No.",
+      "severity": "minor",
+      "source": "단순한 착각? 아니다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Ugh.”",
+      "defect": "“Ugh” expresses disgust or discomfort, while 에게 is a dismissive reaction to how underwhelmingly little appeared.",
+      "id": "F08",
+      "rationale": "The reaction sets up the observation that only one Minotaur emerged and conveys disappointment rather than revulsion.",
+      "replacement": "“That’s all?”",
+      "severity": "minor",
+      "source": "“에게.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "*Boom. Boom.*\n\n“Ah, shit. What is this?”",
+      "defect": "The fourth Minotaur’s bellow is omitted between its footsteps and the Hunters’ reaction.",
+      "id": "F09",
+      "rationale": "The repeated bellow confirms another Minotaur emerging from the fourth hole and maintains the escalating entrance pattern.",
+      "replacement": "*Boom. Boom.*\n\n“—Moo.”\n\n“Ah, shit. What is this?”",
+      "severity": "minor",
+      "source": "쿵. 쿵.\n\n- 음모오.\n\n“아니, 시바. 뭐야, 이거.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“No way. It’s not like this is an Olympic athlete roll call.”",
+      "defect": "“Roll call” does not naturally evoke athletes being introduced by numbered lanes, weakening the setup for the following “lane five” joke.",
+      "id": "F10",
+      "rationale": "선수 소개 means an athlete introduction, which directly motivates Taekyung’s subsequent reference to lane five.",
+      "replacement": "“No way. It’s not like they’re introducing Olympic athletes.”",
+      "severity": "minor",
+      "source": "“설마요. 무슨 올림픽 선수 소개도 아니고.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Something pricked at the corner of my chest.",
+      "defect": "The draft is an unnatural anatomical calque and obscures Taekyung’s sudden unease at having his concealed ability noticed.",
+      "id": "F11",
+      "rationale": "가슴 한구석이 뜨끔했다 idiomatically describes an inward pang from feeling exposed or called out, not a literal prick in one corner of the chest.",
+      "replacement": "I felt a sudden twinge of unease.",
+      "severity": "minor",
+      "source": "나도 모르게 가슴 한구석이 뜨끔 했다."
+    }
+  ],
+  "summary": "The draft contains two scene-fact or subject errors, one altered power classification, one over-explicit accusation, and several localized omissions or wording problems.",
+  "version": 1
+}

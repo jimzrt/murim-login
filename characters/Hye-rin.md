@@ -1,6 +1,6 @@
 # Hye-rin (혜린)
 
-- **Safe through:** Chapter 81
+- **Safe through:** Chapter 82
 - **Aliases:** None
 - **Role:** C-rank mage and member of Sangdong Guild's raid team
 - **Personality:** Not established in this chapter beyond seeking Im Changsoo's approval

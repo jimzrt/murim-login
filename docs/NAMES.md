@@ -81,3 +81,9 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | K사 | **K Company** | Manufacturer of the space-expansion suitcase. |
 | 혜린 | **Hye-rin** | C-rank female mage and member of Im Changsoo's Sangdong Guild team. |
 | 청담동 | **Cheongdam-dong** | District mentioned as a luxury shopping location. |
+| 투우사의 전신 갑옷 | **Matador’s Full-Body Armor** | Peak-grade armor equipped by Im Kkeokjeong; grants bonuses against bovine-type monsters. |
+| 투우사의 방패 | **Matador’s Shield** | Peak-grade shield equipped by Im Kkeokjeong; can activate Taunt and Hallucination against bovine-type monsters. |
+| 도발 | **Taunt** | System effect that the Matador’s Shield can activate against bovine-type monsters. |
+| 환각 | **Hallucination** | System effect that the Matador’s Shield can activate against bovine-type monsters. |
+| 미노타우로스 전사 | **Minotaur Warrior** | Level-window designation for the first Minotaur encountered in the labyrinth. |
+| 발설지옥 | **tongue-pulling hell** | Buddhist hell associated with punishment for liars and slanderers; explained in a footnote. |
