@@ -79,10 +79,49 @@ class RunUntilMasteringTest(unittest.TestCase):
                 return_value=[41, 42, 43],
             ),
             patch.object(run_until_mastering, "run_next_mastering_chapter", side_effect=fake_run),
-            patch("sys.argv", ["run_until_mastering.py", "43"]),
+            patch.object(run_until_mastering, "default_chapter_retries", return_value=0),
+            patch.object(run_until_mastering, "default_retry_delay_seconds", return_value=0),
+            patch("sys.argv", ["run_until_mastering.py", "43", "--retries", "0"]),
         ):
             self.assertEqual(run_until_mastering.main(), 7)
         self.assertEqual(remaining, {42, 43})
+
+    def test_retries_failed_chapter_with_delay_then_continues(self):
+        remaining = {41, 42}
+        attempts = {"41": 0}
+        sleeps: list[float] = []
+
+        def fake_next():
+            return min(remaining) if remaining else None
+
+        def fake_needs(number: int) -> bool:
+            return number in remaining
+
+        def fake_run():
+            current = fake_next()
+            if current == 41:
+                attempts["41"] += 1
+                if attempts["41"] < 3:
+                    return 7
+            remaining.remove(current)
+            return 0
+
+        with (
+            patch.object(run_until_mastering, "next_mastering_chapter", side_effect=fake_next),
+            patch.object(run_until_mastering, "needs_mastering", side_effect=fake_needs),
+            patch.object(
+                run_until_mastering,
+                "accepted_translation_numbers",
+                return_value=[41, 42],
+            ),
+            patch.object(run_until_mastering, "run_next_mastering_chapter", side_effect=fake_run),
+            patch.object(run_until_mastering.time, "sleep", side_effect=lambda s: sleeps.append(s)),
+            patch("sys.argv", ["run_until_mastering.py", "42", "--retries", "2", "--retry-delay", "5"]),
+        ):
+            self.assertEqual(run_until_mastering.main(), 0)
+        self.assertEqual(attempts["41"], 3)
+        self.assertEqual(sleeps, [5.0, 5.0])
+        self.assertEqual(remaining, set())
 
     def test_existing_master_lock_blocks_run_until_mastering(self):
         import subprocess
