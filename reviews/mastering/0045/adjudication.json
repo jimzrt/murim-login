@@ -1,0 +1,544 @@
+{
+  "chapter": 45,
+  "decisions": [
+    {
+      "decision": "SOL",
+      "hunk_id": "H001",
+      "reason": "온순하게 is meekly; BASE adds unsupported almost."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H002",
+      "reason": "Same realization, more natural interior monologue than the calqued why-until-now."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H003",
+      "reason": "Flicked the blood from the spearhead is the more idiomatic rendering of 털었다."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H004",
+      "reason": "저도 모르게 is involuntary, not instinctively."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H005",
+      "reason": "싹둑 is a clean snip; severed drops that cut-sound."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H006",
+      "reason": "SOL drops 그래/바로 그 and turns 품속으로 into inside its reach."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H007",
+      "reason": "SOL drops 동시에 and turns 쳐올렸다 into a sweep."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H008",
+      "reason": "BASE’s smeared sound is awkward; SOL drops 뒤범벅된.",
+      "replacement": "Both arms gone in an instant, the Hobgoblin Great Warrior bellowed, the sound a jumble of rage and pain."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H009",
+      "reason": "맨몸 is the body itself; bare-handed is wrong once both arms are gone."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H010",
+      "reason": "들어와 is an invitation to come in, not a generic come on."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H011",
+      "reason": "말이 끝나기도 전에 needs finished speaking."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H012",
+      "reason": "Keep 자체; naturalize 괴물답게 without SOL’s entire/possessed.",
+      "replacement": "As expected, this thing’s body was a weapon all by itself. Like the monster it was, it had primitive senses and strength beyond any human."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H013",
+      "reason": "한 움큼 is a handful; 내리 찍히는 is stomping down, not merely coming down."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H014",
+      "reason": "under/started and beneath/began are indistinguishable."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H015",
+      "reason": "사지백해 is the whole body, not only every limb."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H016",
+      "reason": "Trailing 모를까 should stay maybe, not be spelled out."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H017",
+      "reason": "승부는 갈린 is decided, not merely over."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H018",
+      "reason": "멈추지 않고 is not stopping, not pressed forward."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H019",
+      "reason": "머릿속 is mind here; unfolded is the natural verb for 펼쳐졌다."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H020",
+      "reason": "위치 is position, not angles."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H021",
+      "reason": "Identifies those combinations as 무공, not merely as a definition of it."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H022",
+      "reason": "물러날 때마다 is retreating; BASE’s every step it gave is awkward."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H023",
+      "reason": "어느 순간 is then/at some point, not before long; 닿았다 is not struck."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H024",
+      "reason": "상대할 is face, not defeat; eyes remain the subject of 전의를 상실."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H025",
+      "reason": "가라, 이제 is the imperative Go. Now."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H026",
+      "reason": "단말마 is already a death rattle; final is padding."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H027",
+      "reason": "울렸다 is rang, not rang out; it matches the known notification."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H028",
+      "reason": "The returning System, not an unspecified one."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H029",
+      "reason": "Restores 하지만."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H030",
+      "reason": "번갈아 바라봤다 is looking back and forth, not a darting gaze."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H031",
+      "reason": "그러게 is yeah, not good question."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H032",
+      "reason": "Dropped from his mouth is the natural English for 담배가 떨어졌다."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H033",
+      "reason": "Keep SOL’s 그로서는 so; keep 불안하기 짝이 없다 without naked.",
+      "replacement": "He looked like a born civil servant, so this was anything but good news for him. Sure enough, the way he looked us over was nothing but unease."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H034",
+      "reason": "Wearily shook is cleaner than gave a weary shake."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H035",
+      "reason": "Fix BASE’s cramped clause; SOL’s clang overspecifies 둔탁한 소리.",
+      "replacement": "I kicked the Hobgoblin Great Warrior’s greatsword, which I’d been using like a walking stick. At the dull sound, the official turned."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H036",
+      "reason": "하나 받고 하나 더 lands as the English BOGO pitch."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H037",
+      "reason": "BASE’s got the reaction is vague; SOL adds damn and flips 말이 되는 수준이어야지.",
+      "replacement": "I understood his reaction. This had to at least make some kind of sense."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H038",
+      "reason": "SOL intensifies to stared/miserable and stretches 한동안."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H039",
+      "reason": "최소 is at least, not including; come to fits 정신을 차린."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H040",
+      "reason": "SOL drops 언니."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H041",
+      "reason": "털썩 주저앉았다 is dropping down to sit, not collapsing."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H042",
+      "reason": "좋은 걸로다가 does not add bring out."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H043",
+      "reason": "Keeps even and the exasperated ?! of 어떻게 한 거야."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H044",
+      "reason": "이거 is this, not that."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H045",
+      "reason": "Echoes 어떡할 거야; SOL’s what did they think loses it."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H046",
+      "reason": "소비된 is consumed; 지급해 주는 is actually paid."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H047",
+      "reason": "Keeps 쇼 as a show and the clipped two-beat punch."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H048",
+      "reason": "Restores doubled 쯧쯧."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H049",
+      "reason": "따가운 is stinging, not piercing."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H050",
+      "reason": "Clipped 최 팀장이다 identification."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H051",
+      "reason": "바라보고 있었다 is looking, not staring."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H052",
+      "reason": "그그극 is a scrape; Grrrk collides with the monster SFX."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H053",
+      "reason": "Keep 죽죽 그어진 as raked lines; seven-year-old is the natural English.",
+      "replacement": "Charged with internal energy, the dagger raked long lines through my seven-year-old leather armor, ruining it beyond repair."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H054",
+      "reason": "Uses the required ellipsis character."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H055",
+      "reason": "Uses the required ellipsis character."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H056",
+      "reason": "땅이 꺼져라 is cave in, not sink; heavily enough is clumsy."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H057",
+      "reason": "정말 is really, not incredibly; keeps the staged short beats."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H058",
+      "reason": "Uses the required ellipsis character."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H059",
+      "reason": "Em dash joins the Korean comma list more cleanly."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H060",
+      "reason": "지그시 눌렀다 is one steady press; planted adds an action."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H061",
+      "reason": "Under the majesty, and 엿가락 is a stick of taffy."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H062",
+      "reason": "Echoes looks perfectly; SOL’s this does loses it."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H063",
+      "reason": "Uses the required ellipsis character."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H064",
+      "reason": "입을 다물었다 is the comic shut his mouth."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H065",
+      "reason": "옮겨졌다 is moved, not loaded."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H066",
+      "reason": "넓고 is spacious; 막상 is actually, not finally.",
+      "replacement": "Instead of the musty break room, I was left alone in a spacious, comfortable office. Now that the moment had actually come, my heart started pounding."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H067",
+      "reason": "반신반의 is half-doubtful, not merely doubtful."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H068",
+      "reason": "완료된 상태입니다 is natural UI copy as is complete."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H069",
+      "reason": "뜨네 of a window is came up, not showed up."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H070",
+      "reason": "Keeps 잠시 and turns 넋 놓고 into stared blankly."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H071",
+      "reason": "대충 짐작 is a rough idea, not a pretty good one."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H072",
+      "reason": "쌓은 as stacked, and 사라진 as vanished, without extra points of."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H073",
+      "reason": "더더욱 is not sure as hell; SOL does not add profanity."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H074",
+      "reason": "뻔하다 is obviously, not probably."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H075",
+      "reason": "얼마나 is how much, not what."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H076",
+      "reason": "켰다 끄며 is on and off; 한 번씩 is one by one; SOL’s next is extra.",
+      "replacement": "For about ten minutes I turned every System function on and off one by one and tested them. The only thing that had changed was the Status Window."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H077",
+      "reason": "With H078, the 바로 퀘스트창이다 reveal gets its own beat."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H078",
+      "reason": "Keeps Quest Window as the delayed reveal paragraph."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H079",
+      "reason": "받은 is received; completes the fragment without changing the kill."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H080",
+      "reason": "라는 건가 is supposed to, not BASE’s bare fragment or SOL’s want.",
+      "replacement": "*Am I supposed to go back? To Murim?*"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H081",
+      "reason": "비현실적인 이야기 stays an unrealistic story; SOL turns it into impossible."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H082",
+      "reason": "서 있었다 is was standing."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H083",
+      "reason": "생각을 접고 is folding the thought away, not putting it aside."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H084",
+      "reason": "일주일 입원 is stay about a week; week of admission is hospitalese."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H085",
+      "reason": "Restores 튼튼한 and 자리를 털고 일어날."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H086",
+      "reason": "갈 거고요 as visit fits Choi’s polite register."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H087",
+      "reason": "마주치고 싶지 않은 부류 is a type to run into, not deal with."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H088",
+      "reason": "다른 건요 is the other thing, not the rest."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H089",
+      "reason": "신기한 is fascinating, not strange; regarded is too formal.",
+      "replacement": "Team Leader Choi looked at me with an odd expression. Like he was studying some fascinating animal."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H090",
+      "reason": "잘 모르는 is barely knew, not no idea; 보이는 is see, not showing up.",
+      "replacement": "I didn’t want my strength out in the open. Even less now, when I still barely knew why I could see the System in reality, or what it had to do with Murim."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H091",
+      "reason": "SOL adds hidden/always and blurs 반대되는 인생 as nothing sticking out."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H092",
+      "reason": "Past perfect frames the set-off request as already made."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H093",
+      "reason": "저에 관해서는 is about me; BASE is calqued, SOL narrows to what happened.",
+      "replacement": "\"Could you keep anything about me a secret?\""
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H094",
+      "reason": "Drops the 입장에서는 calque; 허위 진술 is a false statement."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H095",
+      "reason": "Keep 무거운/무거워지던 echo and 덩달아; 마음 is heart, not chest.",
+      "replacement": "His heavy voice made my heart grow heavy with it—and then:"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H096",
+      "reason": "Then— duplicates the —and then: retained in H095."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H097",
+      "reason": "밥이나 먹읍시다 is the clipped let’s get some food."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H098",
+      "reason": "전자시계 is electronic; 가리키고 is pointed to, not digital/showed."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H099",
+      "reason": "제품 as model and 강화 마법이 걸려 as enchanted fit the product pitch."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H100",
+      "reason": "Clipped 종잡을 수 없는 인간이다 judgment."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H101",
+      "reason": "좋아해요? is the full polite do you like."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H102",
+      "reason": "Clipped 돈도 많은 인간이다, parallel with H100."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H103",
+      "reason": "없어서 못 먹습니다 answering 좋아해요 is I can never get enough, not never get to eat it."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H104",
+      "reason": "Keeps the punchy 다른 것도 아니고 한우다 beats."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H105",
+      "reason": "나발이고 is already or whatever; 허기진 is hungry, not empty."
+    }
+  ],
+  "version": 1
+}
