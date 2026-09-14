@@ -43,6 +43,19 @@ class ModelIoTest(unittest.TestCase):
     def test_review_replacement_requires_a_unique_current_span(self):
         with self.assertRaisesRegex(ValueError, "occurs 2 times"):
             apply_review_replacements("Current. Current.", self.review())
+    def test_review_replacement_prefers_unique_full_paragraph(self):
+        review = {"findings": [{
+            "id": "F01",
+            "current": "Shao Yang.",
+            "replacement": "Xiao Yang.",
+        }]}
+        revised = apply_review_replacements(
+            "# Chapter 1\n\nShao Yang.\n\nChairman Shao Yang.\n", review
+        )
+        self.assertEqual(
+            revised, "# Chapter 1\n\nXiao Yang.\n\nChairman Shao Yang.\n"
+        )
+
 
     def test_overlapping_review_replacements_are_rejected(self):
         review = self.review()
