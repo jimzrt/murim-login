@@ -1,0 +1,23 @@
+{
+  "chapter": 90,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.262,
+    "source_characters": 5796,
+    "source_paragraphs": 179,
+    "translation_characters": 13111,
+    "translation_paragraphs": 178
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "상동",
+        "romanization": "sangdong"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}

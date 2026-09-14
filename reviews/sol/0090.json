@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "“Everyone says my bean sprout soup is good. Mom praised me.”",
+      "defect": "The draft invents praise from “everyone.” The hearsay ending refers contextually to their mother, whose praise Hayeon immediately emphasizes.",
+      "id": "F01",
+      "rationale": "The source attributes the favorable judgment and praise to Mom, not to an unspecified group.",
+      "replacement": "“Mom says my bean sprout soup is good. She praised me.”",
+      "severity": "major",
+      "source": "“콩나물국 맛있대. 엄마한테 칭찬받았어.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“We’ve set our watchers loose. We’ll probably have most of the information within a few days.”\n\nIt had not even been half a day since they learned that Im Changsoo had been summoned to the Guild Master’s office and beaten like a dog, yet the watchers had already begun moving. They were acting faster than expected.",
+      "defect": "The draft assigns the surveillance agents to Choi Minwoo’s side, but Butler Kim is reporting Sangdong Guild’s activity. It also weakens 달라붙기 시작했다 from actively attaching themselves to targets into merely “moving.”",
+      "id": "F02",
+      "rationale": "The ensuing discussion identifies Jin Taekyung and the Peace Guild as the subjects being investigated, so the watchers belong to Sangdong Guild rather than Choi Minwoo.",
+      "replacement": "“They’ve deployed surveillance agents. They’ll probably obtain most of the information within a few days.”\n\nIt had not even been half a day since word came that Im Changsoo had been summoned to the Guild Master’s office and beaten like a dog, yet Sangdong Guild’s watchers had already latched on. They were moving faster than expected.",
+      "severity": "critical",
+      "source": "“감시원들을 풀었습니다. 아마 며칠 안에 대부분의 정보를 입수할 겁니다.”\n\n임창수가 길드장실로 불려 가 개처럼 맞았다는 정보를 입수한 지 반나절도 되지 않았는데, 벌써 감시원들이 달라붙기 시작했다. 예상보다 빠른 움직임이다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“I’d prefer to look at listings around this area, if possible.”",
+      "defect": "The draft changes Taekyung’s request from viewing the particular property associated with the written address to browsing multiple listings in the surrounding area.",
+      "id": "F03",
+      "rationale": "The agent later takes him to the exact address Taekyung supplied, and Taekyung states that he must buy that specific house.",
+      "replacement": "“I’d prefer to see the property at this address, if possible.”",
+      "severity": "critical",
+      "source": "“가급적이면 이쪽 매물로 보고 싶은데요.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The real estate agent clicked his tongue as he watched me look around, lost in nostalgia.",
+      "defect": "입맛을 다셨다 means he smacked his lips, suggesting anticipation at seeing Taekyung’s emotional investment. “Clicked his tongue” instead conveys annoyance or disapproval.",
+      "id": "F04",
+      "rationale": "The physical action and its characterization are altered in the draft.",
+      "replacement": "The real estate agent smacked his lips as he watched me look around, lost in nostalgia.",
+      "severity": "major",
+      "source": "감회에 젖어 주위를 둘러보는 내 모습에 아저씨가 입맛을 다셨다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Oppa, this used to be your hideout when you were young. Back when you first started smoking in middle school, the old lady here was so old that…”",
+      "defect": "The draft makes the woman address the man and tell him about his own childhood. In context, the man is talking about his own former hangout and smoking as a middle schooler.",
+      "id": "F05",
+      "rationale": "The man recognizes Taekyung immediately afterward because he himself frequented this neighborhood as a child; the omitted Korean subjects refer to the speaker.",
+      "replacement": "“When I was a kid, this place was my hangout. Back when I smoked like crazy in middle school, the old lady here was so old that…”",
+      "severity": "critical",
+      "source": "“오빠 어릴 때 여기가 아지트였거든. 중학교 때 담배 막 피울 때 여기 할머니가 나이가 많아서…….”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Do I know you?”",
+      "defect": "The subject and object are reversed.",
+      "id": "F06",
+      "rationale": "저 아세요 asks whether Taekyung knows the speaker, not whether the speaker knows Taekyung.",
+      "replacement": "“Do you know me?”",
+      "severity": "critical",
+      "source": "“혹시 저 아세요?”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "“You really said you wanted to buy, right? Did I hear wrong because I was in such a hurry to take a shit?”",
+      "defect": "“Take a shit” intensifies the source’s blunt but childishly comic 똥 into stronger profanity.",
+      "id": "F07",
+      "rationale": "The replacement retains the crude bathroom humor without increasing the profanity level.",
+      "replacement": "“You really said you wanted to buy, right? Did I hear you wrong because I had to take a dump so badly?”",
+      "severity": "minor",
+      "source": "“매매 맞죠? 아까 똥이 급해서 잘못 들었나?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Butler Kim was a living witness who had experienced the Great Cataclysm with his entire body.",
+      "defect": "“Experienced … with his entire body” is an unnatural literal calque of 온몸으로 겪은.",
+      "id": "F08",
+      "rationale": "온몸으로 겪다 means to undergo something directly and fully; “firsthand” conveys that naturally without changing the claim.",
+      "replacement": "Butler Kim was a living witness who had experienced the Great Cataclysm firsthand.",
+      "severity": "minor",
+      "source": "김 집사는 대격변을 온몸으로 겪은 산증인이다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“You’re going to sign the contract, aren’t you? Aren’t you?”\n\n“No. I am.”",
+      "defect": "The duplicated tag question is not present in the source, and “No. I am.” is stilted rather than conveying Taekyung’s quick self-correction.",
+      "id": "F09",
+      "rationale": "The replacement preserves the agent’s presumptuous question and Taekyung’s comic reversal in natural spoken English.",
+      "replacement": "“You’re going to sign the contract, right?”\n\n“No. I mean, yes.”",
+      "severity": "minor",
+      "source": "“계약하실 거잖아. 아니에요?”\n\n“아뇨. 맞습니다.”"
+    }
+  ],
+  "summary": "Nine actionable findings: four subject or action reversals, two factual or intent changes, one register mismatch, and two localized English issues.",
+  "version": 1
+}
