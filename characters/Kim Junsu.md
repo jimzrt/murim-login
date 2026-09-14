@@ -1,6 +1,6 @@
 # Kim Junsu (김준수)
 
-- **Safe through:** Chapter 96
+- **Safe through:** Chapter 97
 - **Aliases:** None
 - **Role:** C-rank Hunter in Sangdong Guild’s Security Team; the Guild’s sole Familiar mage and a rare mental mage.
 - **Personality:** Exhausted, anxious about his worsening hair loss, dutiful, and privately profane about his workload.
