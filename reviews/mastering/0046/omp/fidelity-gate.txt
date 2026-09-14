@@ -1,0 +1,25 @@
+{
+  "summary": "The chapter is broadly faithful, with two minor idiomatic mistranslations that alter the intended physical or pragmatic meaning.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "lines 201–202 / P96",
+      "current": "Thinking he’d grabbed a lead on how an F-rank Hunter had killed a mid-grade Rare Monster alone made his throat burn.",
+      "defect": "The idiom 목이 탔다 means that his throat went dry or that he became thirsty from his intense curiosity, not that his throat physically burned.",
+      "replacement": "Thinking he’d grabbed a lead on how an F-rank Hunter had killed a mid-grade Rare Monster alone made his throat go dry.",
+      "rationale": "The preceding action with the water glass reinforces thirst and a dry throat; “burn” introduces a different physical sensation.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "lines 361–364 / P175",
+      "current": "He’d hit me in the back of the head like this?",
+      "defect": "The idiom 뒤통수를 치다 means to deceive, betray, or pull a fast one on someone. Rendering its component words literally suggests a physical blow that never occurred.",
+      "replacement": "He’d pull a fast one on me like this?",
+      "rationale": "Jinho tricked Taekyung into offering a finder’s fee for a capsule Jinho had already returned; the line describes that deception, not an act of violence.",
+      "confidence": 0.99
+    }
+  ]
+}

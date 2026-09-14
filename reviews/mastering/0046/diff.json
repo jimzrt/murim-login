@@ -1,0 +1,2135 @@
+{
+  "baseline_blocks": 240,
+  "baseline_sha256": "109c9df1202f816e33c68ca9e5b48a7236e973bbc10185257ca31ac5fd92cf7b",
+  "global_terminology_alerts": [],
+  "hunk_count": 118,
+  "hunks": [
+    {
+      "baseline": "The meat hit the grill. Thick, red, and marbled with white streaks like snowflakes—it was the finest Hanwoo beef.",
+      "baseline_paragraphs": "P3",
+      "baseline_range": [
+        2,
+        3
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "7",
+      "sol": "The meat hit the grill. Thick and red, with white veins of marbling running through it like snowflakes—it was the finest Hanwoo beef.",
+      "sol_paragraphs": "P3",
+      "sol_range": [
+        2,
+        3
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The shape, the sound, the smell. All of it was intoxicating. The only thing I didn’t like was the price…",
+      "baseline_paragraphs": "P4",
+      "baseline_range": [
+        3,
+        4
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "9",
+      "sol": "The sight, the sound, the smell. All of it was intoxicating. The only thing I didn’t like was the price…",
+      "sol_paragraphs": "P4",
+      "sol_range": [
+        3,
+        4
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Will this be enough? Let’s order more after we eat. Some special cuts, too.”",
+      "baseline_paragraphs": "P5",
+      "baseline_range": [
+        4,
+        5
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "11",
+      "sol": "“Will this be enough? We can order more after we finish. Some special cuts, too.”",
+      "sol_paragraphs": "P5",
+      "sol_range": [
+        4,
+        5
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Food in Murim was spicy, salty, and bland. And even then, more days than not, I couldn’t eat properly. For thirty days, my stomach had been abused with beef jerky, bigu pills,[^1] and rice balls.",
+      "baseline_paragraphs": "P8",
+      "baseline_range": [
+        7,
+        8
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "17",
+      "sol": "Food in Murim was either too spicy, too salty, or completely bland. And more often than not, I hadn’t even gotten to eat properly. For thirty days, I’d abused my stomach with beef jerky, bigu pills,[^1] and rice balls.",
+      "sol_paragraphs": "P8",
+      "sol_range": [
+        7,
+        8
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Every chew felt like walking on clouds. This piece, that piece, that one too—every last one tasted like heaven.",
+      "baseline_paragraphs": "P11",
+      "baseline_range": [
+        10,
+        11
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "23",
+      "sol": "Every bite felt like walking on clouds. This piece, that piece, the one over there—every last one tasted like heaven.",
+      "sol_paragraphs": "P11",
+      "sol_range": [
+        10,
+        11
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“No. I should hold back on overeating.”",
+      "baseline_paragraphs": "P15",
+      "baseline_range": [
+        14,
+        15
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "31",
+      "sol": "“No. I should avoid overeating.”",
+      "sol_paragraphs": "P15",
+      "sol_range": [
+        14,
+        15
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“We’re at twenty-five servings…”",
+      "baseline_paragraphs": "P16",
+      "baseline_range": [
+        15,
+        16
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "33",
+      "sol": "“We’re on our twenty-fifth serving…”",
+      "sol_paragraphs": "P16",
+      "sol_range": [
+        15,
+        16
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Twelve servings each isn’t all that much.”",
+      "baseline_paragraphs": "P17",
+      "baseline_range": [
+        16,
+        17
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "35",
+      "sol": "“Twelve servings each isn’t that much.”",
+      "sol_paragraphs": "P17",
+      "sol_range": [
+        16,
+        17
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I’ve only eaten three servings.”",
+      "baseline_paragraphs": "P18",
+      "baseline_range": [
+        17,
+        18
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "37",
+      "sol": "“I’ve only eaten three.”",
+      "sol_paragraphs": "P18",
+      "sol_range": [
+        17,
+        18
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And so that storm of a meal came to an end. At last, Team Leader Choi opened his mouth.",
+      "baseline_paragraphs": "P23",
+      "baseline_range": [
+        22,
+        23
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "47",
+      "sol": "And so the whirlwind of a meal came to an end. At last, Team Leader Choi spoke.",
+      "sol_paragraphs": "P23",
+      "sol_range": [
+        22,
+        23
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I said I was the one who killed them. The Priest and the Great Warrior, both.”",
+      "baseline_paragraphs": "P24",
+      "baseline_range": [
+        23,
+        24
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "49",
+      "sol": "“I told them I killed both of them. The Priest and the Great Warrior.”",
+      "sol_paragraphs": "P24",
+      "sol_range": [
+        23,
+        24
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Don’t mention it. Let’s call it a fair deal. If anything, there’s something I should thank you for, too.”",
+      "baseline_paragraphs": "P26",
+      "baseline_range": [
+        25,
+        26
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "53",
+      "sol": "“Don’t mention it. Let’s call it a fair deal. If anything, I have something to thank you for as well.”",
+      "sol_paragraphs": "P26",
+      "sol_range": [
+        25,
+        26
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The fact that nobody had died in the process would be a huge help for Guild publicity, too.",
+      "baseline_paragraphs": "P29",
+      "baseline_range": [
+        28,
+        29
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "59",
+      "sol": "The fact that no one had died in the process would be a huge boost to the Guild’s publicity, too.",
+      "sol_paragraphs": "P29",
+      "sol_range": [
+        28,
+        29
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*What if I hadn’t found my strength through Synchronization?*",
+      "baseline_paragraphs": "P30",
+      "baseline_range": [
+        29,
+        30
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "61",
+      "sol": "*What if Synchronization hadn’t restored my strength?*",
+      "sol_paragraphs": "P30",
+      "sol_range": [
+        29,
+        30
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Who knew? Someone probably would have died. Maybe nobody would have made it out alive.",
+      "baseline_paragraphs": "P31",
+      "baseline_range": [
+        30,
+        31
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "63",
+      "sol": "Who knew? Someone probably would have died. Maybe none of us would have made it out alive.",
+      "sol_paragraphs": "P31",
+      "sol_range": [
+        30,
+        31
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You were already thinking along those lines.”",
+      "baseline_paragraphs": "P32",
+      "baseline_range": [
+        31,
+        32
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "65",
+      "sol": "“You’d already thought of that.”",
+      "sol_paragraphs": "P32",
+      "sol_range": [
+        31,
+        32
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“It’s good for both of us.”",
+      "baseline_paragraphs": "P35",
+      "baseline_range": [
+        34,
+        35
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "71",
+      "sol": "“It works out well for both of us.”",
+      "sol_paragraphs": "P35",
+      "sol_range": [
+        34,
+        35
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Good for both of us. Both of us…”",
+      "baseline_paragraphs": "P36",
+      "baseline_range": [
+        35,
+        36
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "73",
+      "sol": "“Both of us. Both…”",
+      "sol_paragraphs": "P36",
+      "sol_range": [
+        35,
+        36
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Team Leader Choi muttered to himself, then asked out of nowhere,",
+      "baseline_paragraphs": "P37",
+      "baseline_range": [
+        36,
+        37
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "75",
+      "sol": "Team Leader Choi muttered to himself, then abruptly asked,",
+      "sol_paragraphs": "P37",
+      "sol_range": [
+        36,
+        37
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Pffft.”",
+      "baseline_paragraphs": "P39",
+      "baseline_range": [
+        38,
+        39
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "79",
+      "sol": "“Pffft!”",
+      "sol_paragraphs": "P39",
+      "sol_range": [
+        38,
+        39
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Team Leader Choi lifted the tablecloth and blocked the water, then smoothly produced a business card with practiced elegance.",
+      "baseline_paragraphs": "P40",
+      "baseline_range": [
+        39,
+        40
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "81",
+      "sol": "Team Leader Choi lifted the tablecloth to block the spray of water, then smoothly produced a business card.",
+      "sol_paragraphs": "P40",
+      "sol_range": [
+        39,
+        40
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "What the hell was this? For a second I was completely thrown.",
+      "baseline_paragraphs": "P42",
+      "baseline_range": [
+        41,
+        42
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "89",
+      "sol": "What the hell was this? For a moment, I was completely thrown.",
+      "sol_paragraphs": "P42",
+      "sol_range": [
+        41,
+        42
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Y-you’re making me a recruitment offer? Right now?”",
+      "baseline_paragraphs": "P43",
+      "baseline_range": [
+        42,
+        43
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "91",
+      "sol": "“Y-you’re trying to recruit me? Right now?”",
+      "sol_paragraphs": "P43",
+      "sol_range": [
+        42,
+        43
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I took the card, and for some reason I felt deeply moved.",
+      "baseline_paragraphs": "P45",
+      "baseline_range": [
+        44,
+        45
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "95",
+      "sol": "I accepted the card and, for some reason, felt strangely moved.",
+      "sol_paragraphs": "P45",
+      "sol_range": [
+        44,
+        45
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "An actual recruitment offer, treating me like talent. F-rank Hunter Jin Taekyung, you’d come a long way.",
+      "baseline_paragraphs": "P48",
+      "baseline_range": [
+        47,
+        48
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "101",
+      "sol": "An actual recruitment offer—and he was treating me like talent. F-rank Hunter Jin Taekyung, you’d come a long way.",
+      "sol_paragraphs": "P48",
+      "sol_range": [
+        47,
+        48
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Our Guild is still new, and we don’t have many people, but we’re excellent where it counts. For example…”",
+      "baseline_paragraphs": "P49",
+      "baseline_range": [
+        48,
+        49
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "103",
+      "sol": "“Our Guild is still new, and we don’t have many members yet, but we’re excellent where it counts. For example…”",
+      "sol_paragraphs": "P49",
+      "sol_range": [
+        48,
+        49
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“And because of that, our employee benefits are excellent.”",
+      "baseline_paragraphs": "P53",
+      "baseline_range": [
+        52,
+        53
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "111",
+      "sol": "“Which means our employee benefits are excellent.”",
+      "sol_paragraphs": "P53",
+      "sol_range": [
+        52,
+        53
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Oh, benefits based on solid finances!”",
+      "baseline_paragraphs": "P54",
+      "baseline_range": [
+        53,
+        54
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "113",
+      "sol": "“Oh, benefits backed by solid finances!”",
+      "sol_paragraphs": "P54",
+      "sol_range": [
+        53,
+        54
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“There’s no need to worry about restructuring.”",
+      "baseline_paragraphs": "P57",
+      "baseline_range": [
+        56,
+        57
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "119",
+      "sol": "“And there’s no need to worry about restructuring.”",
+      "sol_paragraphs": "P57",
+      "sol_range": [
+        56,
+        57
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Will you come?”",
+      "baseline_paragraphs": "P60",
+      "baseline_range": [
+        59,
+        60
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "125",
+      "sol": "“Will you join us?”",
+      "sol_paragraphs": "P60",
+      "sol_range": [
+        59,
+        60
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I have some circumstances that make it difficult right now. I need time.”",
+      "baseline_paragraphs": "P64",
+      "baseline_range": [
+        63,
+        64
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "133",
+      "sol": "“I have circumstances that make it difficult right now. I need some time.”",
+      "sol_paragraphs": "P64",
+      "sol_range": [
+        63,
+        64
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If I followed my heart, I wanted to sign the contract right away—signature, stamp, thumbprint, even a kiss mark.",
+      "baseline_paragraphs": "P65",
+      "baseline_range": [
+        64,
+        65
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "135",
+      "sol": "If I followed my heart, I’d sign the contract right away. Signature, stamp, thumbprint, even a lip print.",
+      "sol_paragraphs": "P65",
+      "sol_range": [
+        64,
+        65
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*But what if the System vanished tomorrow?*",
+      "baseline_paragraphs": "P66",
+      "baseline_range": [
+        65,
+        66
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "137",
+      "sol": "*But what if the System disappears tomorrow?*",
+      "sol_paragraphs": "P66",
+      "sol_range": [
+        65,
+        66
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I’d be dead broke.",
+      "baseline_paragraphs": "P67",
+      "baseline_range": [
+        66,
+        67
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "139",
+      "sol": "I’d be completely screwed.",
+      "sol_paragraphs": "P67",
+      "sol_range": [
+        66,
+        67
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Is it a money problem?”",
+      "baseline_paragraphs": "P69",
+      "baseline_range": [
+        68,
+        69
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "143",
+      "sol": "“Is it about money?”",
+      "sol_paragraphs": "P69",
+      "sol_range": [
+        68,
+        69
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "There was always a money problem.",
+      "baseline_paragraphs": "P70",
+      "baseline_range": [
+        69,
+        70
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "145",
+      "sol": "Money was always a problem.",
+      "sol_paragraphs": "P70",
+      "sol_range": [
+        69,
+        70
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But this was more important than that. I couldn’t get dazzled by the wad of cash right in front of me and snatch at it.",
+      "baseline_paragraphs": "P71",
+      "baseline_range": [
+        70,
+        71
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "147",
+      "sol": "But this was more important. I couldn’t let the wad of cash in front of me blind me into making a snap decision.",
+      "sol_paragraphs": "P71",
+      "sol_range": [
+        70,
+        71
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“100 million won.”",
+      "baseline_paragraphs": "P73",
+      "baseline_range": [
+        72,
+        73
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "151",
+      "sol": "“One hundred million won.”",
+      "sol_paragraphs": "P73",
+      "sol_range": [
+        72,
+        73
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“100 million?”",
+      "baseline_paragraphs": "P74",
+      "baseline_range": [
+        73,
+        74
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "153",
+      "sol": "“One hundred million?”",
+      "sol_paragraphs": "P74",
+      "sol_range": [
+        73,
+        74
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Just the signing bonus. The rest will match the minimum terms for a C-rank Hunter.”",
+      "baseline_paragraphs": "P75",
+      "baseline_range": [
+        74,
+        75
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "155",
+      "sol": "“That’s just the signing bonus. We’ll match the rest to the minimum terms for a C-rank Hunter.”",
+      "sol_paragraphs": "P75",
+      "sol_range": [
+        74,
+        75
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That was dangerous. This time it was really dangerous.",
+      "baseline_paragraphs": "P76",
+      "baseline_range": [
+        75,
+        76
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "157",
+      "sol": "That was dangerous. This time, it was seriously dangerous.",
+      "sol_paragraphs": "P76",
+      "sol_range": [
+        75,
+        76
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But I held out with superhuman patience. Hadn’t I already learned that life wasn’t that easy?",
+      "baseline_paragraphs": "P77",
+      "baseline_range": [
+        76,
+        77
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "159",
+      "sol": "But I resisted with superhuman patience. Hadn’t I learned long ago that life was never that easy?",
+      "sol_paragraphs": "P77",
+      "sol_range": [
+        76,
+        77
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It could be money I’d end up choking on.",
+      "baseline_paragraphs": "P78",
+      "baseline_range": [
+        77,
+        78
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "161",
+      "sol": "I might end up choking on that money later.",
+      "sol_paragraphs": "P78",
+      "sol_range": [
+        77,
+        78
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Team Leader Choi looked at me quietly, then nodded.",
+      "baseline_paragraphs": "P80",
+      "baseline_range": [
+        79,
+        80
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "165",
+      "sol": "Team Leader Choi studied me for a moment, then nodded.",
+      "sol_paragraphs": "P80",
+      "sol_range": [
+        79,
+        80
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Team Leader Choi—no, Choi Minwoo—looked in silence at the seat Jin Taekyung had left, then took out his phone.",
+      "baseline_paragraphs": "P84",
+      "baseline_range": [
+        83,
+        84
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "177",
+      "sol": "Team Leader Choi—no, Choi Minwoo—silently stared at the seat Jin Taekyung had vacated, then took out his phone.",
+      "sol_paragraphs": "P84",
+      "sol_range": [
+        83,
+        84
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“—You bastard, you’re a ghost. I was just about to call you.”",
+      "baseline_paragraphs": "P86",
+      "baseline_range": [
+        85,
+        86
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "181",
+      "sol": "“You bastard—are you psychic? I was just about to call you.”",
+      "sol_paragraphs": "P86",
+      "sol_range": [
+        85,
+        86
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“How did that thing I asked about turn out?”",
+      "baseline_paragraphs": "P87",
+      "baseline_range": [
+        86,
+        87
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "183",
+      "sol": "“What happened with that thing I asked about?”",
+      "sol_paragraphs": "P87",
+      "sol_range": [
+        86,
+        87
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“—I looked into it because you asked, but… is there something about this Jin Taekyung guy?”",
+      "baseline_paragraphs": "P88",
+      "baseline_range": [
+        87,
+        88
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "185",
+      "sol": "“I looked into it because you asked, but… is there something about this Jin Taekyung guy?”",
+      "sol_paragraphs": "P88",
+      "sol_range": [
+        87,
+        88
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That’s why I called you. So? What did you find?”",
+      "baseline_paragraphs": "P89",
+      "baseline_range": [
+        88,
+        89
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "187",
+      "sol": "“That’s what I called you to find out. So? What did you learn?”",
+      "sol_paragraphs": "P89",
+      "sol_range": [
+        88,
+        89
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“—It’s a dime-a-dozen case. Seven years ago he Awakened at twenty and was assessed as F-rank. There’s a record he finished first at the Hunter training center…”",
+      "baseline_paragraphs": "P90",
+      "baseline_range": [
+        89,
+        90
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "189",
+      "sol": "“Dime-a-dozen case. He awakened at twenty, seven years ago, and was assessed as F-rank. There’s a record of him graduating at the top of his class from the Hunter training center…”",
+      "sol_paragraphs": "P90",
+      "sol_range": [
+        89,
+        90
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jin Taekyung’s past seven years spilled from the other end of the phone. Then, at one point, Choi Minwoo’s eyebrows twitched.",
+      "baseline_paragraphs": "P91",
+      "baseline_range": [
+        90,
+        91
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "191",
+      "sol": "The story of Jin Taekyung’s past seven years came through the phone. Then, at one point, Choi Minwoo’s eyebrows twitched.",
+      "sol_paragraphs": "P91",
+      "sol_range": [
+        90,
+        91
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“—Yeah. You know about that incident, right?”",
+      "baseline_paragraphs": "P93",
+      "baseline_range": [
+        92,
+        93
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "195",
+      "sol": "“Yeah. You know about that incident, right?”",
+      "sol_paragraphs": "P93",
+      "sol_range": [
+        92,
+        93
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "How could he not? It had happened only two years ago, so Choi Minwoo remembered it clearly.",
+      "baseline_paragraphs": "P94",
+      "baseline_range": [
+        93,
+        94
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "197",
+      "sol": "How could he not? It had happened only two years ago, and Choi Minwoo remembered it clearly.",
+      "sol_paragraphs": "P94",
+      "sol_range": [
+        93,
+        94
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“—He was the only survivor. I checked that part myself, and it surprised me, too.”",
+      "baseline_paragraphs": "P95",
+      "baseline_range": [
+        94,
+        95
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "199",
+      "sol": "“He was the only survivor. That part surprised me when I checked it, too.”",
+      "sol_paragraphs": "P95",
+      "sol_range": [
+        94,
+        95
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Choi Minwoo tipped his glass of water. Thinking he’d grabbed a lead on how an F-rank Hunter had killed a mid-grade Rare Monster alone made his throat burn.",
+      "baseline_paragraphs": "P96",
+      "baseline_range": [
+        95,
+        96
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "201",
+      "sol": "Choi Minwoo raised his glass of water. His mouth had gone dry at the thought that he might have found a clue to how an F-rank Hunter had killed a mid-grade Rare Monster alone.",
+      "sol_paragraphs": "P96",
+      "sol_range": [
+        95,
+        96
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“—He took six months off. The Hunter Administration kept sending investigators, and I guess he spent the time trying to get himself back together. You know how serious the incident was.”",
+      "baseline_paragraphs": "P98",
+      "baseline_range": [
+        97,
+        98
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "205",
+      "sol": "“He took six months off. The Hunter Administration kept sending investigators, and I guess he spent the time trying to get himself back together. You know how serious the incident was.”",
+      "sol_paragraphs": "P98",
+      "sol_range": [
+        97,
+        98
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“—That’s it. He went back to his Guild, ran Gates his ass off for a year and a half, then got fired. That was exactly three days ago.”",
+      "baseline_paragraphs": "P100",
+      "baseline_range": [
+        99,
+        100
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "209",
+      "sol": "“That’s it. He went back to his Guild, ran Gates until his ass fell off for a year and a half, then got fired. That was exactly three days ago.”",
+      "sol_paragraphs": "P100",
+      "sol_range": [
+        99,
+        100
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“—It was technically restructuring, but a booger-sized little Guild, restructuring? Please. The incident probably had a lot to do with it. They kept glancing nervously at the Administration, then pushed him out. From their perspective, he’d have been awkward to keep around.”",
+      "baseline_paragraphs": "P102",
+      "baseline_range": [
+        101,
+        102
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "213",
+      "sol": "“Technically, restructuring, but come on. What kind of restructuring does a booger-sized Guild like that need? The incident probably had a lot to do with it. They kept looking over their shoulders at the Administration, then finally pushed him out. From their perspective, he must’ve been awkward to keep around.”",
+      "sol_paragraphs": "P102",
+      "sol_range": [
+        101,
+        102
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“—As far as I can tell. Want me to send you the file separately?”",
+      "baseline_paragraphs": "P104",
+      "baseline_range": [
+        103,
+        104
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "217",
+      "sol": "“As far as I can tell. Want me to send you the file separately?”",
+      "sol_paragraphs": "P104",
+      "sol_range": [
+        103,
+        104
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“—Hey, hey!”",
+      "baseline_paragraphs": "P106",
+      "baseline_range": [
+        105,
+        106
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "221",
+      "sol": "“Hey, hey!”",
+      "sol_paragraphs": "P106",
+      "sol_range": [
+        105,
+        106
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That was the absolute minimum. The image of Taekyung driving a C-rank Rare Monster into a corner alone, with overwhelming strength and skill, kept flickering before his eyes.",
+      "baseline_paragraphs": "P112",
+      "baseline_range": [
+        111,
+        112
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "233",
+      "sol": "That was the absolute minimum. The image of Taekyung overwhelming a C-rank Rare Monster alone with tremendous strength and skill lingered before his eyes.",
+      "sol_paragraphs": "P112",
+      "sol_range": [
+        111,
+        112
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "There were only two possibilities. He had been hiding his strength, or he had recently reawakened.",
+      "baseline_paragraphs": "P114",
+      "baseline_range": [
+        113,
+        114
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "237",
+      "sol": "There were only two possibilities. Either he had been hiding his strength, or he had recently reawakened.",
+      "sol_paragraphs": "P114",
+      "sol_range": [
+        113,
+        114
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Choi Minwoo suspected the latter, but that was still far beyond common sense.",
+      "baseline_paragraphs": "P115",
+      "baseline_range": [
+        114,
+        115
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "239",
+      "sol": "Choi Minwoo suspected the latter, but even that defied common sense.",
+      "sol_paragraphs": "P115",
+      "sol_range": [
+        114,
+        115
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It wasn’t as if only one or two Hunters retired without ever ranking up even once.",
+      "baseline_paragraphs": "P116",
+      "baseline_range": [
+        115,
+        116
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "241",
+      "sol": "Countless Hunters retired without ever moving up a single rank.",
+      "sol_paragraphs": "P116",
+      "sol_range": [
+        115,
+        116
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Choi Minwoo shook his head. He felt as if a ghost had possessed him.",
+      "baseline_paragraphs": "P119",
+      "baseline_range": [
+        118,
+        119
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "247",
+      "sol": "Choi Minwoo shook his head. He felt as though he’d been bewitched.",
+      "sol_paragraphs": "P119",
+      "sol_range": [
+        118,
+        119
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“1,937,000 won.”",
+      "baseline_paragraphs": "P122",
+      "baseline_range": [
+        121,
+        122
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "253",
+      "sol": "“That’ll be 1,937,000 won.”",
+      "sol_paragraphs": "P122",
+      "sol_range": [
+        121,
+        122
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He really did feel as if a ghost had possessed him.",
+      "baseline_paragraphs": "P124",
+      "baseline_range": [
+        123,
+        124
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "257",
+      "sol": "Now he really felt as though he’d been bewitched.",
+      "sol_paragraphs": "P124",
+      "sol_range": [
+        123,
+        124
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Shit. I’m fucked.”",
+      "baseline_paragraphs": "P126",
+      "baseline_range": [
+        125,
+        126
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "265",
+      "sol": "“Fuck. I’m screwed.”",
+      "sol_paragraphs": "P126",
+      "sol_range": [
+        125,
+        126
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I dropped heavily onto the ground. The recycling area was a mess. The thing that should have been there was nowhere to be seen.",
+      "baseline_paragraphs": "P127",
+      "baseline_range": [
+        126,
+        127
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "267",
+      "sol": "I sank to the ground in the filthy recycling area. The one thing that should have been there was nowhere to be seen.",
+      "sol_paragraphs": "P127",
+      "sol_range": [
+        126,
+        127
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I’d been anxious ever since leaving Team Leader Choi. But I hadn’t expected someone to take it in less than half a day. I shouted into the empty air.",
+      "baseline_paragraphs": "P129",
+      "baseline_range": [
+        128,
+        129
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "271",
+      "sol": "I’d been anxious ever since parting with Team Leader Choi. But I hadn’t expected someone to take it in less than half a day. I shouted into the empty air.",
+      "sol_paragraphs": "P129",
+      "sol_range": [
+        128,
+        129
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And I got an answer.",
+      "baseline_paragraphs": "P131",
+      "baseline_range": [
+        130,
+        131
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "275",
+      "sol": "And an answer came.",
+      "sol_paragraphs": "P131",
+      "sol_range": [
+        130,
+        131
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "On the roof of the goshiwon building,[^4] Jinho hyung was smoking in the same spot where I’d seen him that morning. He exhaled a plume of smoke with a wistful look, then went on.",
+      "baseline_paragraphs": "P133",
+      "baseline_range": [
+        132,
+        133
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "279",
+      "sol": "Jinho hyung was smoking on the roof of the goshiwon building,[^4] in the same spot where I’d seen him that morning. He exhaled a plume of smoke with a wistful look, then continued.",
+      "sol_paragraphs": "P133",
+      "sol_range": [
+        132,
+        133
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I spent ten years crying, regretting it, and making vows…”",
+      "baseline_paragraphs": "P134",
+      "baseline_range": [
+        133,
+        134
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "281",
+      "sol": "“I spent ten years crying, regretting, and vowing…”",
+      "sol_paragraphs": "P134",
+      "sol_range": [
+        133,
+        134
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What, you come up empty today?”",
+      "baseline_paragraphs": "P138",
+      "baseline_range": [
+        137,
+        138
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "289",
+      "sol": "“What, did today’s job come up empty?”",
+      "sol_paragraphs": "P138",
+      "sol_range": [
+        137,
+        138
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "My voice drained of strength as I went on.",
+      "baseline_paragraphs": "P140",
+      "baseline_range": [
+        139,
+        140
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "293",
+      "sol": "My voice went limp.",
+      "sol_paragraphs": "P140",
+      "sol_range": [
+        139,
+        140
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Cough, cough-cough!”",
+      "baseline_paragraphs": "P144",
+      "baseline_range": [
+        143,
+        144
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "301",
+      "sol": "“Cough! Cough-cough!”",
+      "sol_paragraphs": "P144",
+      "sol_range": [
+        143,
+        144
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Maybe he’d inhaled the cigarette smoke wrong. Jinho hyung coughed like a maniac before he finally managed to speak.",
+      "baseline_paragraphs": "P145",
+      "baseline_range": [
+        144,
+        145
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "303",
+      "sol": "Maybe he’d inhaled the smoke wrong. Jinho hyung coughed like a maniac before finally managing to speak.",
+      "sol_paragraphs": "P145",
+      "sol_range": [
+        144,
+        145
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I hadn’t expected the situation to change this much in just a few hours.",
+      "baseline_paragraphs": "P149",
+      "baseline_range": [
+        148,
+        149
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "311",
+      "sol": "I hadn’t expected everything to change this much in just a few hours.",
+      "sol_paragraphs": "P149",
+      "sol_range": [
+        148,
+        149
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Where was I even supposed to start looking? I sighed heavily.",
+      "baseline_paragraphs": "P151",
+      "baseline_range": [
+        150,
+        151
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "315",
+      "sol": "Where was I even supposed to start looking? I let out a heavy sigh.",
+      "sol_paragraphs": "P151",
+      "sol_range": [
+        150,
+        151
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“If I saw it, then I saw it. If I didn’t, then I didn’t.”",
+      "baseline_paragraphs": "P155",
+      "baseline_range": [
+        154,
+        155
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "323",
+      "sol": "“If I saw them, I saw them. If I didn’t, I didn’t.”",
+      "sol_paragraphs": "P155",
+      "sol_range": [
+        154,
+        155
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Was that even an answer, or just crap?",
+      "baseline_paragraphs": "P156",
+      "baseline_range": [
+        155,
+        156
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "325",
+      "sol": "Was that supposed to be an answer, or was he just talking shit?",
+      "sol_paragraphs": "P156",
+      "sol_range": [
+        155,
+        156
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Look, it’s not that I want a finder’s fee or anything…”",
+      "baseline_paragraphs": "P158",
+      "baseline_range": [
+        157,
+        158
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "329",
+      "sol": "“Look, it’s not like I’m asking for a finder’s fee or anything…”",
+      "sol_paragraphs": "P158",
+      "sol_range": [
+        157,
+        158
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It definitely sounded like he wanted a finder’s fee.",
+      "baseline_paragraphs": "P159",
+      "baseline_range": [
+        158,
+        159
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "331",
+      "sol": "He was definitely asking for a finder’s fee.",
+      "sol_paragraphs": "P159",
+      "sol_range": [
+        158,
+        159
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Anyway, that wasn’t the point. I shot to my feet and asked,",
+      "baseline_paragraphs": "P160",
+      "baseline_range": [
+        159,
+        160
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "333",
+      "sol": "Anyway, that wasn’t the point. I shot to my feet.",
+      "sol_paragraphs": "P160",
+      "sol_range": [
+        159,
+        160
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“If I have to pick, I saw them.”",
+      "baseline_paragraphs": "P162",
+      "baseline_range": [
+        161,
+        162
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "337",
+      "sol": "“If I had to choose, I’d say I saw them.”",
+      "sol_paragraphs": "P162",
+      "sol_range": [
+        161,
+        162
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I’m not asking for a finder’s fee, but what’s the expected amount, roughly?”",
+      "baseline_paragraphs": "P164",
+      "baseline_range": [
+        163,
+        164
+      ],
+      "hunk_id": "H086",
+      "korean_lines": "341",
+      "sol": "“I’m not asking for a finder’s fee, but roughly how much would it be?”",
+      "sol_paragraphs": "P164",
+      "sol_range": [
+        163,
+        164
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“…100,000 won?”",
+      "baseline_paragraphs": "P165",
+      "baseline_range": [
+        164,
+        165
+      ],
+      "hunk_id": "H087",
+      "korean_lines": "343",
+      "sol": "“…One hundred thousand won?”",
+      "sol_paragraphs": "P165",
+      "sol_range": [
+        164,
+        165
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Right. It’s hot out, so good luck with that.”",
+      "baseline_paragraphs": "P168",
+      "baseline_range": [
+        167,
+        168
+      ],
+      "hunk_id": "H088",
+      "korean_lines": "349",
+      "sol": "“Right. Well, it’s hot out. Good luck.”",
+      "sol_paragraphs": "P168",
+      "sol_range": [
+        167,
+        168
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The finder’s fee is 180,000 won.”[^5]",
+      "baseline_paragraphs": "P169",
+      "baseline_range": [
+        168,
+        169
+      ],
+      "hunk_id": "H089",
+      "korean_lines": "351",
+      "sol": "“The finder’s fee will be one hundred and eighty thousand won.”[^5]",
+      "sol_paragraphs": "P169",
+      "sol_range": [
+        168,
+        169
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Have you ever seen a daylight robber like this?*",
+      "baseline_paragraphs": "P174",
+      "baseline_range": [
+        173,
+        174
+      ],
+      "hunk_id": "H090",
+      "korean_lines": "361",
+      "sol": "*What a goddamn highway robber.*",
+      "sol_paragraphs": "P174",
+      "sol_range": [
+        173,
+        174
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I was so dumbfounded I couldn’t even breathe. He’d hit me in the back of the head like this?",
+      "baseline_paragraphs": "P175",
+      "baseline_range": [
+        174,
+        175
+      ],
+      "hunk_id": "H091",
+      "korean_lines": "363",
+      "sol": "The sheer audacity left me speechless. How could he pull something like this on me?",
+      "sol_paragraphs": "P175",
+      "sol_range": [
+        174,
+        175
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“But there wasn’t anywhere suitable to put it. My room’s too small, you know.”",
+      "baseline_paragraphs": "P176",
+      "baseline_range": [
+        175,
+        176
+      ],
+      "hunk_id": "H092",
+      "korean_lines": "365",
+      "sol": "“But I couldn’t find anywhere to put it. My room’s too small, you know.”",
+      "sol_paragraphs": "P176",
+      "sol_range": [
+        175,
+        176
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "How was I supposed to hit this guy so cleanly that people would say I’d really done it right?",
+      "baseline_paragraphs": "P179",
+      "baseline_range": [
+        178,
+        179
+      ],
+      "hunk_id": "H093",
+      "korean_lines": "371",
+      "sol": "How was I supposed to hit this guy so thoroughly that word of it spread?",
+      "sol_paragraphs": "P179",
+      "sol_range": [
+        178,
+        179
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I clenched my fists until they shook.",
+      "baseline_paragraphs": "P180",
+      "baseline_range": [
+        179,
+        180
+      ],
+      "hunk_id": "H094",
+      "korean_lines": "373",
+      "sol": "My fists trembled.",
+      "sol_paragraphs": "P180",
+      "sol_range": [
+        179,
+        180
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Seeing the capsule taking up half the studio as if nothing had happened, all I could do was let out a hollow laugh.",
+      "baseline_paragraphs": "P183",
+      "baseline_range": [
+        182,
+        183
+      ],
+      "hunk_id": "H095",
+      "korean_lines": "383",
+      "sol": "The capsule sat there taking up half the studio as if nothing had happened. All I could do was let out a hollow laugh.",
+      "sol_paragraphs": "P183",
+      "sol_range": [
+        182,
+        183
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Of all the people in the world, Jinho hyung had taken the capsule.",
+      "baseline_paragraphs": "P185",
+      "baseline_range": [
+        184,
+        185
+      ],
+      "hunk_id": "H096",
+      "korean_lines": "387",
+      "sol": "Of all the people who could have taken it, it had been Jinho hyung.",
+      "sol_paragraphs": "P185",
+      "sol_range": [
+        184,
+        185
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I opened the capsule lid. Then I picked up the user manual, which had been tossed onto the worn seat, and flipped to the last page.",
+      "baseline_paragraphs": "P186",
+      "baseline_range": [
+        185,
+        186
+      ],
+      "hunk_id": "H097",
+      "korean_lines": "389",
+      "sol": "I opened the capsule lid, picked up the user manual tossed onto the worn seat, and flipped to the last page.",
+      "sol_paragraphs": "P186",
+      "sol_range": [
+        185,
+        186
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*It has to be a simple coincidence.*",
+      "baseline_paragraphs": "P189",
+      "baseline_range": [
+        188,
+        189
+      ],
+      "hunk_id": "H098",
+      "korean_lines": "399",
+      "sol": "*It has to be a coincidence.*",
+      "sol_paragraphs": "P189",
+      "sol_range": [
+        188,
+        189
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But I couldn’t shake the unease. I stared at the capsule, the source of all these events.",
+      "baseline_paragraphs": "P190",
+      "baseline_range": [
+        189,
+        190
+      ],
+      "hunk_id": "H099",
+      "korean_lines": "401",
+      "sol": "But I couldn’t shake the unease. I glared at the capsule, the source of everything that had happened.",
+      "sol_paragraphs": "P190",
+      "sol_range": [
+        189,
+        190
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The reason I’d thrown the capsule into the recycling area that morning was so I could forget everything. My life was already dry enough; I wanted to write it off as one nightmare and keep living my life as I was.",
+      "baseline_paragraphs": "P192",
+      "baseline_range": [
+        191,
+        192
+      ],
+      "hunk_id": "H100",
+      "korean_lines": "405",
+      "sol": "I’d thrown the capsule into the recycling area that morning because I wanted to forget. Life was already hard enough. I wanted to write the whole thing off as a nightmare and go back to living my life.",
+      "sol_paragraphs": "P192",
+      "sol_range": [
+        191,
+        192
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But the situation had changed now.",
+      "baseline_paragraphs": "P193",
+      "baseline_range": [
+        192,
+        193
+      ],
+      "hunk_id": "H101",
+      "korean_lines": "407",
+      "sol": "But now the situation had changed.",
+      "sol_paragraphs": "P193",
+      "sol_range": [
+        192,
+        193
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Then something occurred to me. I placed my hand on the surface of the capsule and murmured,",
+      "baseline_paragraphs": "P196",
+      "baseline_range": [
+        195,
+        196
+      ],
+      "hunk_id": "H102",
+      "korean_lines": "413",
+      "sol": "Then something occurred to me. I placed my hand on the capsule and murmured,",
+      "sol_paragraphs": "P196",
+      "sol_range": [
+        195,
+        196
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Just as I thought. The corners of my mouth had just begun to rise when—",
+      "baseline_paragraphs": "P199",
+      "baseline_range": [
+        198,
+        199
+      ],
+      "hunk_id": "H103",
+      "korean_lines": "419",
+      "sol": "Just as I thought. The corners of my mouth had begun to rise when—",
+      "sol_paragraphs": "P199",
+      "sol_range": [
+        198,
+        199
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Flustered, I checked every object in the room at random. The television, a ballpoint pen, even the pillow. Every time, the System displayed accurate information.",
+      "baseline_paragraphs": "P204",
+      "baseline_range": [
+        203,
+        204
+      ],
+      "hunk_id": "H104",
+      "korean_lines": "433",
+      "sol": "Flustered, I checked everything in the room I could get my hands on. The television, a ballpoint pen, even my pillow. Every time, the System displayed accurate information.",
+      "sol_paragraphs": "P204",
+      "sol_range": [
+        203,
+        204
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But there was one exception.",
+      "baseline_paragraphs": "P205",
+      "baseline_range": [
+        204,
+        205
+      ],
+      "hunk_id": "H105",
+      "korean_lines": "435",
+      "sol": "There was only one exception.",
+      "sol_paragraphs": "P205",
+      "sol_range": [
+        204,
+        205
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The capsule couldn’t be read.",
+      "baseline_paragraphs": "P206",
+      "baseline_range": [
+        205,
+        206
+      ],
+      "hunk_id": "H106",
+      "korean_lines": "437",
+      "sol": "It couldn’t read the capsule.",
+      "sol_paragraphs": "P206",
+      "sol_range": [
+        205,
+        206
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Just in case, I picked up the user manual. Same result.",
+      "baseline_paragraphs": "P208",
+      "baseline_range": [
+        207,
+        208
+      ],
+      "hunk_id": "H107",
+      "korean_lines": "441",
+      "sol": "Just in case, I picked up the user manual. The result was the same.",
+      "sol_paragraphs": "P208",
+      "sol_range": [
+        207,
+        208
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I flopped onto the bed. I stared blankly at the old, yellow-stained ceiling and thought.",
+      "baseline_paragraphs": "P211",
+      "baseline_range": [
+        210,
+        211
+      ],
+      "hunk_id": "H108",
+      "korean_lines": "451",
+      "sol": "I flopped onto the bed and stared blankly at the old, yellow-stained ceiling.",
+      "sol_paragraphs": "P211",
+      "sol_range": [
+        210,
+        211
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "For now, these were things I couldn’t understand. But one thing was certain.",
+      "baseline_paragraphs": "P213",
+      "baseline_range": [
+        212,
+        213
+      ],
+      "hunk_id": "H109",
+      "korean_lines": "455",
+      "sol": "For now, none of it made sense. But one thing was certain.",
+      "sol_paragraphs": "P213",
+      "sol_range": [
+        212,
+        213
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Power had soaked into every fiber of my body. Internal energy writhed in my dantian.",
+      "baseline_paragraphs": "P215",
+      "baseline_range": [
+        214,
+        215
+      ],
+      "hunk_id": "H110",
+      "korean_lines": "459",
+      "sol": "Power permeated every fiber of my body. Internal energy stirred in my dantian.",
+      "sol_paragraphs": "P215",
+      "sol_range": [
+        214,
+        215
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Synchronization had given me strength. Strength far beyond that of an F-rank Hunter. Strength enough to defeat a C-rank Rare Monster alone.",
+      "baseline_paragraphs": "P216",
+      "baseline_range": [
+        215,
+        216
+      ],
+      "hunk_id": "H111",
+      "korean_lines": "461",
+      "sol": "Synchronization had given me strength. Strength far beyond that of an F-rank Hunter. Enough strength to defeat a C-rank Rare Monster alone.",
+      "sol_paragraphs": "P216",
+      "sol_range": [
+        215,
+        216
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was the first recruitment offer I’d ever received. But I refused. When someone recognized me, fear had come before joy.",
+      "baseline_paragraphs": "P218",
+      "baseline_range": [
+        217,
+        218
+      ],
+      "hunk_id": "H112",
+      "korean_lines": "469",
+      "sol": "It was the first recruitment offer I’d ever received. But I had turned it down. The fact that someone had finally recognized me brought fear before joy.",
+      "sol_paragraphs": "P218",
+      "sol_range": [
+        217,
+        218
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I’d endured seven years under the name of F-rank Hunter. A caterpillar that had only ever crawled through the dirt had, one day, grown wings called the System.",
+      "baseline_paragraphs": "P220",
+      "baseline_range": [
+        219,
+        220
+      ],
+      "hunk_id": "H113",
+      "korean_lines": "473",
+      "sol": "I’d endured seven years with the label of F-rank Hunter. A caterpillar that had spent its life crawling through the dirt had suddenly sprouted wings called the System.",
+      "sol_paragraphs": "P220",
+      "sol_range": [
+        219,
+        220
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Fear was a natural feeling.",
+      "baseline_paragraphs": "P221",
+      "baseline_range": [
+        220,
+        221
+      ],
+      "hunk_id": "H114",
+      "korean_lines": "475",
+      "sol": "Fear was only natural.",
+      "sol_paragraphs": "P221",
+      "sol_range": [
+        220,
+        221
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the same time, the past seven years flashed through my mind. The name F-rank, stamped on me like a brand despite all the insane effort I’d put in. Even the memories from two years ago, when I’d trembled at other people’s contempt, at the guilt and the helplessness.",
+      "baseline_paragraphs": "P224",
+      "baseline_range": [
+        223,
+        224
+      ],
+      "hunk_id": "H115",
+      "korean_lines": "481",
+      "sol": "At the same time, the past seven years flashed through my mind. The name F-rank, stamped on me like a brand despite all the insane effort I’d put in. The memories from two years ago, when I’d trembled beneath other people’s contempt, my own guilt, and utter helplessness.",
+      "sol_paragraphs": "P224",
+      "sol_range": [
+        223,
+        224
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I already knew the destination.",
+      "baseline_paragraphs": "P228",
+      "baseline_range": [
+        227,
+        228
+      ],
+      "hunk_id": "H116",
+      "korean_lines": "489",
+      "sol": "I already knew my destination.",
+      "sol_paragraphs": "P228",
+      "sol_range": [
+        227,
+        228
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "An F-rank Hunter. I’d start by breaking this loathsome shackle that had tormented me for so long.",
+      "baseline_paragraphs": "P231",
+      "baseline_range": [
+        230,
+        231
+      ],
+      "hunk_id": "H117",
+      "korean_lines": "495",
+      "sol": "I’d start by breaking the loathsome shackle of F-rank Hunter that had tormented me for so long.",
+      "sol_paragraphs": "P231",
+      "sol_range": [
+        230,
+        231
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Let’s give it a shot.*",
+      "baseline_paragraphs": "P232",
+      "baseline_range": [
+        231,
+        232
+      ],
+      "hunk_id": "H118",
+      "korean_lines": "497",
+      "sol": "*Let’s do this.*",
+      "sol_paragraphs": "P232",
+      "sol_range": [
+        231,
+        232
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 240,
+  "sol_sha256": "82c7e2974e8fb32fbd84835d3046350b32fdd0aa60c1710af399b599cc154af7",
+  "version": 1
+}
