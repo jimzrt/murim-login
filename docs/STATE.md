@@ -1,37 +1,30 @@
 # Translation State
 
-- Last completed: 95
-- Next chapter: 96
-- Current block: 95–99 (1/5)
-- Latest translation: `translations/0095.md`
-- Latest summary: `summaries/beats/0095.md`
-- Safe profiles through: chapter 95
+- Last completed: 96
+- Next chapter: 97
+- Current block: 95–99 (2/5)
+- Latest translation: `translations/0096.md`
+- Latest summary: `summaries/beats/0096.md`
+- Safe profiles through: chapter 96
 
 ## Current Block
 
-- Hong Woojin infiltrates the Level 2 kitten living with Jin Taekyung's family through his Familiar magic and uses Jin Hayeon's love of cats to observe the household. When Taekyung tries to inspect the kitten's sex, Woojin is forced to sever the Link, suffering nausea, a headache, and severe distress before recovering with a prepared potion.
-- Taekyung already knows the kitten is a Familiar and deliberately allowed it into the house so he could identify the people behind the surveillance. He believes the controlling mage is within 500 meters, intends to find and interrogate him, and treats the surveillance as a personal intrusion. Hayeon names the kitten Yeoreum, bargains with Taekyung for spending money, and takes food money as well.
-- Sangdong Guild's Security Team is conducting a Guild Master-ordered operation involving six people: a B-rank Security Team Leader, the Guild's only Familiar mage, and four close-combat Hunters specializing in tracking and stealth. After learning that Woojin nearly exposed the operation, the Security Team Leader orders the Familiar mage to use a cat as well; the mage begins searching for cat adoption listings in Ilsan.
+- Kim Junsu, Sangdong Guild Security Team’s sole Familiar mage, and several C-rank surveillance Hunters continue monitoring Jin Taekyung. The exhausted Junsu links a black kitten as a Familiar when Taekyung leaves home, while the Security Team Leader coordinates surveillance and tries to prove his team’s superiority to Hong Woojin and impress the Guild Master.
+- Taekyung encounters the black Lv. 2 Cat Familiar and a disguised surveillance Hunter posing as a friendly neighbor. After the System identifies the neighbor as Lv. 42 Kim Gwondong and Taekyung confirms that no Hunter lives in the adjacent building, he concludes that the two actors are not working together and heads toward the nearby real-estate office.
+- The Security Team has installed eavesdropping-magic Equipment in two nearby commercial buildings and maintains multiple veteran C-rank Hunters specializing in stealth and tracking. The Security Team Leader dismisses the claim that Taekyung cleared a B-rank Gate alone as an exaggeration from Im Changsoo, but the team goes on full alert when Taekyung enters the real-estate office.
 
 ## Open Questions
 
-- Whether Im Chunsoo or Sangdong Guild will retaliate against Peace Guild remains unresolved.
-- What will happen to Kim Jeonghee after leaving the restaurant remains unresolved.
-- Whether Hayeon will actually drop out of school remains unresolved.
-- Whether third-awakening Hunters exist and whether Taekyung is one remains unresolved.
-- Why Hong Woojin is investigating Taekyung and what information he seeks remains unresolved.
-- Whether Woojin's assignment and Sangdong Guild's Security Team operation share the same commissioning chain remains unresolved.
+- Why did Sangdong Guild’s Guild Master issue a special warning about Taekyung?
+- Whether Taekyung’s conclusion that the black Familiar and Kim Gwondong are unrelated is correct remains unresolved.
+- Whether the Security Team’s operation and Hong Woojin’s investigation share the same commissioning chain remains unresolved.
 
 ## Exceptional Decision
 
-- Use Frozen for 프로즌, preserve the tiger-father/dog-son wordplay in 호부견자, and use ajumma for 아줌마.
-- Use goshiwon for 고시원 with an explanatory footnote; use Hope Goshiwon for 희망 고시원.
-- Use Minsu for 민수; render 운기요상 as Circulate Qi for Healing, 하급 포션 as Lesser Potion, and 상급 포션 as Superior Potion.
-- Render 3차 각성자 as third-awakening Hunter, 3차 각성 as third awakening, 피의 일주일 as Bloody Week, and 전세 as jeonse lease.
-- Render 사장님 as Boss in the real-estate context, including young Boss.
-- Render 박지황/박지훈 as Park Jihwang/Park Jihoon, and 삼계탕 as samgyetang with an explanatory footnote.
-- Render 1팀장 as Team 1 Leader, 기감 as Qi Sense, and 락 as Lock when referring to security restrictions.
-- Render the fly and Familiar terminology as Housefly, Black Blow Fly, Green Bottle Fly, Familiar, Rice Weevil, Link, Store, Assistant Manager, Kim Seonhee, Ilsan, and Lafesta; use Yeoreum for 여름이 and Midsummer for 한여름.
+- Render 정신계 마법사 as mental mage and 보안팀 as Security Team.
+- Use Kim Junsu, Kim Gwondong, Nabi, and Goyang for 김준수, 김권동, 나비, and 고양시.
+- Render 개냥이 as dog-cat with an explanatory footnote.
+- Use target, Familiar, Link, and eavesdropping-magic Equipment for 표적, 패밀리어, 링크, and 도청 마법 장비.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
