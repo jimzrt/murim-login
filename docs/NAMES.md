@@ -87,3 +87,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 환각 | **Hallucination** | System effect that the Matador’s Shield can activate against bovine-type monsters. |
 | 미노타우로스 전사 | **Minotaur Warrior** | Level-window designation for the first Minotaur encountered in the labyrinth. |
 | 발설지옥 | **tongue-pulling hell** | Buddhist hell associated with punishment for liars and slanderers; explained in a footnote. |
+| 껄떡쇠 | **Horndog** | Im Changsoo’s nickname for his womanizing. |
+| 강원도 | **Gangwon Province** | Province named in Taekyung’s joke about the Minotaur’s next life. |
+| 횡성 | **Hoengseong** | Place in Gangwon Province named in Taekyung’s joke. |
+| 자일리톤 | **Xyliton** | Finnish equipment manufacturer whose custom helmet records video. |
+| 유네스코 | **UNESCO** | Organization referenced in Taekyung’s cultural-heritage joke. |

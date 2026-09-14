@@ -1,18 +1,17 @@
 # Translation State
 
-- Last completed: 83
-- Next chapter: 84
-- Current block: 80–84 (4/5)
-- Latest translation: `translations/0083.md`
-- Latest summary: `summaries/beats/0083.md`
-- Safe profiles through: chapter 83
+- Last completed: 84
+- Next chapter: 85
+- Current block: 80–84 (5/5)
+- Latest translation: `translations/0084.md`
+- Latest summary: `summaries/beats/0084.md`
+- Safe profiles through: chapter 84
 
 ## Current Block
 
-- Im Changsoo’s attempts to court Song Song fail because she remains indifferent, while he grows irritated by Jin Taekyung and Team Leader Choi. He interrupts their conversation and is stunned when Taekyung insults him as Shit Changsoo, turning their hostility openly profane.
-- As eight Minotaurs approach, Sangdong Guild’s members retreat. Im Changsoo challenges Taekyung to defeat the herd alone, offering 500 million won per Minotaur and all byproduct rights, for a total of 4 billion won, while voiding the previous rewards if Taekyung dies or runs away.
-- Im Changsoo adds Song Song’s transfer to Sangdong Guild as the other stake in the bet. Song Song bluntly rejects Changsoo as a womanizing, money-flaunting man but agrees to the wager, and the Guild Master and Team Leader Choi accept the arrangement.
-- Taekyung accepts the challenge after recognizing that he is stronger than the Minotaurs. Choi bets 4 billion won on Taekyung defeating all eight and confidently tells him that he will win. With the cavern cleared for the fight, Taekyung grips his spear and charges the Minotaur herd like a matador.
+- Jin Taekyung crossed the cavern in an instant and beheaded a Minotaur before Im Kkeokjeong or the others could react. He then killed all eight B-rank Minotaurs, triggering Bleeding on one attack and receiving a Level Up.
+- Taekyung demanded Im Changsoo’s promised 4 billion won and all byproducts. Changsoo agreed to pay, and Taekyung discovered that he was the son of Im Chunsu, the Sangdong Guild Master, and a notorious womanizer nicknamed Horndog.
+- When Changsoo drew his sword after Taekyung remembered his earlier advances toward Song Song, Taekyung disarmed and subdued him. Changsoo agreed to apologize to Taekyung and the Peace Guild, and Taekyung identified his two occupations as Hunter and Murim martial artist.
 
 ## Open Questions
 
@@ -23,7 +22,7 @@
 - The nature of the minor misunderstanding that injured Childeuk remains undisclosed.
 - Taekyung’s prior relationship with Lee Seowol and the missing details of his memories about her remain unclear.
 - Butler Kim’s former Hunter rank and background remain unclear, and it is unclear whether Song Song heard Taekyung’s interrupted confession.
-- Whether Taekyung defeats all eight Minotaurs and what consequences follow from the wager, including Song Song’s possible Guild transfer, remains unresolved.
+- Whether Im Changsoo fulfills his promised payment, surrenders the byproducts, and gives the demanded apology and damages remains unresolved.
 
 ## Exceptional Decision
 
@@ -34,7 +33,7 @@
 - Use Return for 귀환, Returnee for 귀환자, Ren and Du meridians for 임독양맥, Heart Demon for 심마, Paralysis Acupoint for 마혈, and Mute Acupoint for 아혈.
 - Render fist-and-kicking technique as 권각술, recognition as 인정, Falling Flow Sword as 낙류검, Twelve Gale Fists as 질풍십이권, Flame Divine Palm as 화염신장, and Tendon-Splitting and Bone-Twisting as 분근착골.
 - Use Reformation Fist, Toughness, Heavenly Martial Physique, Jang Childeuk, Martial Artist Jang, benevolence/righteousness/propriety/wisdom, killed by a tiger, fifteen minutes, lifelong single, Let’s eat noodles, Squad Leader, Third Young Master, Designer-Brand Junkie, Qi Sense, Peace Guild, Essence of the Himalayas, Sooni’s Super, Song Song, Miss Song, Taurus, Ares Guild, Senior, Young Master, Guild Master, Minotaur, Bucheon Terminal Guild, The Minotaur’s Labyrinth, and Shit Changsoo as established.
-- Use Sangdong Guild, Hunter Association, Black Drake, Masterwork Black Drake Leather Set, Masterwork Black Thorn Spear, Bleeding, artifact, gear advantage, Hye-rin, Cheongdam-dong, Matador’s Full-Body Armor, Matador’s Shield, Taunt, Hallucination, Minotaur Warrior, Top-tier, tongue-pulling hell, big bills, and the baram wind/infidelity pun as established terminology or translation choices.
+- Use Sangdong Guild, Hunter Association, Black Drake, Masterwork Black Drake Leather Set, Masterwork Black Thorn Spear, Bleeding, artifact, gear advantage, Hye-rin, Cheongdam-dong, Matador’s Full-Body Armor, Matador’s Shield, Taunt, Hallucination, Minotaur Warrior, Top-tier, tongue-pulling hell, big bills, baram wind/infidelity pun, Horndog, Hoengseong, Gangwon Province, Xyliton, and Hongik Ingan as established terminology or translation choices.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
