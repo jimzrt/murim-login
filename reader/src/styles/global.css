@@ -14,6 +14,7 @@
   --prose-size: 1.125rem;
   --width: 42rem;
   --header-h: 3rem;
+  --dock-h: 3rem;
 }
 
 html[data-theme="light"],
@@ -152,6 +153,22 @@ input {
   transform-origin: left center;
 }
 
+.nav-spacer {
+  flex: 1;
+  min-width: 0;
+}
+
+.read-progress-label {
+  margin-right: 0.15rem;
+  min-width: 2.6rem;
+  color: var(--muted);
+  font-family: var(--ui);
+  font-size: 0.78rem;
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.02em;
+  text-align: right;
+}
+
 .site-header {
   position: sticky;
   top: 0;
@@ -173,10 +190,92 @@ input {
   transform: translateY(-100%);
 }
 
+.chapter-page {
+  padding-bottom: calc(var(--dock-h) + 2.5rem);
+}
+
+.chapter-dock {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 20;
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  align-items: center;
+  gap: 0.25rem;
+  min-height: var(--dock-h);
+  padding: 0.25rem 0.6rem calc(0.25rem + env(safe-area-inset-bottom, 0px));
+  border-top: 1px solid color-mix(in srgb, var(--gold) 70%, var(--rule));
+  box-shadow: 0 -1px 0 color-mix(in srgb, var(--navy-deep) 28%, transparent);
+  background: color-mix(in srgb, var(--paper) 88%, transparent);
+  backdrop-filter: blur(12px);
+  transition: transform 0.22s ease;
+}
+
+.chapter-dock.is-hidden {
+  transform: translateY(100%);
+}
+
+.dock-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.4rem;
+  min-height: 2.3rem;
+  width: 100%;
+  margin: 0;
+  padding: 0 0.35rem;
+  color: var(--ink);
+  background: transparent;
+  border: 0;
+  border-radius: 0.55rem;
+  text-decoration: none;
+  cursor: pointer;
+  font: inherit;
+}
+
+.dock-btn svg {
+  width: 1.2rem;
+  height: 1.2rem;
+  flex: 0 0 auto;
+}
+
+.dock-label {
+  display: none;
+  font-family: var(--ui);
+  font-size: 0.84rem;
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.02em;
+  white-space: nowrap;
+}
+
+.dock-btn:hover,
+.dock-btn:focus-visible {
+  background: color-mix(in srgb, var(--gold) 14%, transparent);
+}
+
+.dock-btn.is-disabled {
+  color: var(--muted);
+  opacity: 0.45;
+  pointer-events: none;
+  cursor: default;
+}
+
+@media (min-width: 40.01rem) {
+  .dock-btn {
+    min-height: 2.45rem;
+    padding-inline: 0.55rem;
+  }
+
+  .dock-label {
+    display: inline;
+  }
+}
+
 .nav-home {
-  flex: 0 1 auto;
+  flex: 0 0 auto;
   min-width: 0;
-  margin-right: auto;
   display: inline-flex;
   align-items: center;
   gap: 0.5rem;
@@ -236,28 +335,70 @@ input {
   line-height: 1;
 }
 
-pagefind-modal-trigger {
+pagefind-modal-trigger.nav-search {
   display: inline-flex;
   flex: 0 0 auto;
   align-items: center;
+  justify-content: center;
+  width: 2.1rem;
+  min-width: 2.1rem;
+  max-width: 2.1rem;
+  height: 2.1rem;
+  overflow: hidden;
 }
 
-pagefind-modal-trigger button,
-.nav-search button {
-  font: inherit;
-  color: var(--ink);
-  background: transparent;
-  border: 0;
-  min-height: 2.1rem;
-  padding: 0 0.7rem;
-  cursor: pointer;
+/* Beat Pagefind Component UI specificity; keep trigger as a plain icon button. */
+.site-header pagefind-modal-trigger.nav-search .pf-trigger-btn {
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  gap: 0 !important;
+  width: 2.1rem !important;
+  min-width: 2.1rem !important;
+  max-width: 2.1rem !important;
+  height: 2.1rem !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  color: var(--ink) !important;
+  background: transparent !important;
+  border: 0 !important;
+  border-radius: 999px !important;
+  box-shadow: none !important;
+}
+
+.site-header pagefind-modal-trigger.nav-search .pf-trigger-btn:hover {
+  background: color-mix(in srgb, var(--gold) 14%, transparent) !important;
+  border-color: transparent !important;
+}
+
+.site-header pagefind-modal-trigger.nav-search .pf-trigger-icon {
+  width: 1.15rem !important;
+  height: 1.15rem !important;
+  background: var(--ink) !important;
+  flex: 0 0 auto !important;
+}
+
+.site-header pagefind-modal-trigger.nav-search .pf-trigger-text,
+.site-header pagefind-modal-trigger.nav-search .pf-trigger-shortcut {
+  display: none !important;
 }
 
 @media (max-width: 40rem) {
+  .site-header {
+    flex-wrap: nowrap;
+    gap: 0.1rem;
+    padding: 0.2rem 0.35rem;
+    overflow: hidden;
+  }
+
   .nav-home {
-    margin-right: 0;
-    overflow: visible;
+    width: 2.1rem;
+    min-width: 2.1rem;
+    min-height: 2.1rem;
     justify-content: center;
+    gap: 0;
+    overflow: visible;
+    border-radius: 999px;
   }
 
   .nav-logo,
@@ -279,28 +420,26 @@ pagefind-modal-trigger button,
     clip: rect(0 0 0 0);
   }
 
-  .site-header {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    gap: 0;
-    padding-inline: 0.2rem;
+  .nav-spacer {
+    flex: 1 1 auto;
+    min-width: 0.25rem;
   }
 
-  .site-header:has(pagefind-modal-trigger) {
-    grid-template-columns: repeat(4, 1fr);
+  .read-progress-label {
+    min-width: 2.15rem;
+    margin-right: 0;
+    font-size: 0.72rem;
   }
 
-  .nav-home,
-  .nav-btn,
-  pagefind-modal-trigger {
-    width: 100%;
-    justify-content: center;
+  .nav-btn.nav-icon-btn,
+  pagefind-modal-trigger.nav-search {
+    flex: 0 0 2.1rem;
+    width: 2.1rem;
+    min-width: 2.1rem;
   }
 
-  .nav-btn,
-  pagefind-modal-trigger button {
-    width: 100%;
-    padding-inline: 0.2rem;
+  .settings-width {
+    display: none;
   }
 
   .settings-width {
@@ -321,8 +460,17 @@ pagefind-modal-trigger button,
   gap: 1rem;
 }
 
-.cover-image {
+.hero picture {
+  display: block;
   width: min(16rem, 62vw);
+  line-height: 0;
+}
+
+.cover-image {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 720 / 970;
   border-radius: 2px;
   border: 3px solid var(--gold);
   box-shadow: 0 0 0 1px var(--navy-deep);
@@ -519,7 +667,8 @@ pagefind-modal-trigger button,
   margin: 0.4rem 0 1.6rem;
 }
 
-.chapter-nav a {
+.chapter-nav a,
+.chapter-nav .nav-disabled {
   display: grid;
   gap: 0.1rem;
   max-width: 48%;
@@ -527,7 +676,8 @@ pagefind-modal-trigger button,
   color: var(--ink);
 }
 
-.chapter-nav a[data-nav="next"] {
+.chapter-nav a[data-nav="next"],
+.chapter-nav .nav-disabled:last-child {
   margin-left: auto;
   text-align: right;
 }
@@ -539,9 +689,10 @@ pagefind-modal-trigger button,
   text-transform: uppercase;
 }
 
-.chapter-nav a[aria-disabled="true"] {
+.chapter-nav .nav-disabled {
   color: var(--muted);
   pointer-events: none;
+  user-select: none;
 }
 
 .prose {
@@ -750,6 +901,13 @@ html[data-theme="light"] .system-window {
 
 .reader-dialog::backdrop {
   background: color-mix(in srgb, var(--navy-deep) 48%, transparent);
+  pointer-events: auto;
+}
+
+html[data-scroll-locked="1"],
+html[data-scroll-locked="1"] body {
+  overscroll-behavior: none;
+  touch-action: none;
 }
 
 .dialog-head {
@@ -868,7 +1026,10 @@ html[data-theme="light"] .system-window {
 
 @media (prefers-reduced-motion: reduce) {
   .site-header,
-  .chapter-range summary::after {
+  .chapter-dock,
+  .chapter-range summary::after,
+  .read-progress__bar,
+  .overall-fill {
     transition: none;
   }
 }
