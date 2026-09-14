@@ -1,0 +1,126 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Hayeon stuck out her tongue and put down her spoon.",
+      "defect": "The idiom expresses speechless disbelief or exasperation; it does not describe Hayeon playfully sticking out her tongue.",
+      "id": "F01",
+      "rationale": "혀를 내두르다 conveys being astonished or appalled enough to shake one’s head, so the current version changes her physical reaction and characterization.",
+      "replacement": "Hayeon could only shake her head in disbelief as she put down her spoon.",
+      "severity": "critical",
+      "source": "혀를 내두른 하연이가 수저를 내려놨다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Don’t you know Koreans rely on rice power even when they’re about to die? You have to eat if you want your cold to go away faster.”",
+      "defect": "“Rely on rice power” is an unnatural calque that obscures the familiar claim that Koreans draw their strength from eating rice.",
+      "id": "F02",
+      "rationale": "The replacement preserves both 밥심 and the comic 곧 죽어도 exaggeration in natural spoken English.",
+      "replacement": "“Don’t you know Koreans run on rice even at death’s door? You have to eat if you want your cold to go away faster.”",
+      "severity": "minor",
+      "source": "“한국인은 곧 죽어도 밥심인 거 몰라? 먹어야 감기도 빨리 낫는 거야.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "*At the very least, one round of circulating qi and breathing would make her feel much better… Huh?*",
+      "defect": "The established term 운기조식 should be rendered as circulating qi; appending “and breathing” creates an unnecessary literal gloss.",
+      "id": "F03",
+      "rationale": "This follows the binding terminology while preserving the thought that prompts his realization.",
+      "replacement": "*At the very least, circulating qi once would make her feel much better… Huh?*",
+      "severity": "minor",
+      "source": "‘하다못해 운기조식 한 번이면 훨씬 괜찮아질…… 어라?’"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“You never listen to me unless you’re willing to die for it.”",
+      "defect": "The condition is reversed and produces the nonsensical claim that she listens when willing to die.",
+      "id": "F04",
+      "rationale": "죽어도 안 듣지 means she absolutely refuses to listen, literally that she would not listen even if it killed her.",
+      "replacement": "“You’d rather die than listen to a word I say.”",
+      "severity": "critical",
+      "source": "“하여간 내 말이라면 죽어도 안 듣지.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "*What the hell, you brat?*",
+      "defect": "“Brat” noticeably sanitizes the narrator’s stronger, profane 이 새끼 reaction.",
+      "id": "F05",
+      "rationale": "The stronger wording preserves Taekyung’s momentary anger and the source’s explicit profanity without intensifying it.",
+      "replacement": "*What the hell, you little shit?*",
+      "severity": "minor",
+      "source": "아니, 이 새끼가?"
+    },
+    {
+      "confidence": 1.0,
+      "current": "> - [Circulate Qi for Healing] has been completed successfully.\n> - [Internal Energy] increases slightly.",
+      "defect": "The System notices retain square brackets around UI terms, contrary to the required System-panel format.",
+      "id": "F06",
+      "rationale": "The blockquote and System heading already identify the panel; meaningful labels may be bolded but must not remain in square brackets.",
+      "replacement": "> - **Circulate Qi for Healing** has been completed successfully.\n> - **Internal Energy** increases slightly.",
+      "severity": "minor",
+      "source": "- [운기요상]을 성공적으로 완료했습니다.\n\n- [공력]이 소량 증가합니다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Like I was reborn? Like all the bad energy inside me was washed away. Ugh, I don’t know.”",
+      "defect": "“Ugh” removes the mild frustrated profanity in 아씨.",
+      "id": "F07",
+      "rationale": "아씨 is a mild expletive here, not merely a nonverbal groan, and it contributes to Hayeon’s casual sibling register.",
+      "replacement": "“Like I was reborn? Like all the bad energy inside me was washed away. Ah, damn it, I don’t know.”",
+      "severity": "minor",
+      "source": "“다시 태어난 느낌? 내 안에 있던 안 좋은 기운들이 싹 씻겨 내려간다고 해야 하나. 아씨, 모르겠네.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "I pushed away the Hayeon who kept asking questions and put my hand into my pocket.",
+      "defect": "“The Hayeon” is unidiomatic English, and “kept asking questions” loses the importunate quality of 꼬치꼬치 캐묻는.",
+      "id": "F08",
+      "rationale": "The replacement preserves both actions and naturally conveys her persistent, probing questions.",
+      "replacement": "I pushed Hayeon away as she kept peppering me with questions and slipped a hand into my pocket.",
+      "severity": "minor",
+      "source": "나는 꼬치꼬치 캐묻는 하연이를 밀어 내며 주머니에 손을 넣었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "**[Lesser Potion]**",
+      "defect": "The item name is unnecessarily enclosed in square brackets despite the binding prohibition on bracketed UI terms.",
+      "id": "F09",
+      "rationale": "Bold formatting already distinguishes the item name within the item window.",
+      "replacement": "**Lesser Potion**",
+      "severity": "minor",
+      "source": "[하급 포션]"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I’m just recommending it in case there are any side effects. If you don’t drink it now, you’ll end up spending more money later.”",
+      "defect": "The current wording presents a tentative recommendation rather than Taekyung’s stated concern, weakening the deliberate lie exposed by the following narration.",
+      "id": "F10",
+      "rationale": "있을까 봐 그래요 directly gives fear of side effects as his reason, creating the intended contrast with his private admission that there are none.",
+      "replacement": "“I’m worried there might be side effects. If you don’t drink it now, it’ll cost you more later.”",
+      "severity": "major",
+      "source": "“부작용이 있을까 봐 그래요. 지금 안 마시면 나중에 돈 더 나갈걸요.”"
+    },
+    {
+      "confidence": 0.95,
+      "current": "Mom hesitated, then took hers first. Hayeon watched her for a moment before following suit.",
+      "defect": "“Watched her for a moment” omits the pragmatic cue that Hayeon was gauging Mom’s reaction before deciding to follow.",
+      "id": "F11",
+      "rationale": "눈치를 보던 describes warily reading another person or the situation, not merely looking at her for a duration.",
+      "replacement": "Mom hesitated, then took hers first. Hayeon cautiously took her cue from Mom and followed suit.",
+      "severity": "minor",
+      "source": "주저하던 엄마가 먼저 포션을 섭취했고, 눈치를 보던 하연이가 뒤를 이었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“If you have four billion won, then you can spend it like this… Wait, how much did you say?”",
+      "defect": "The inserted “can” reverses Hayeon’s ongoing criticism into permission to spend recklessly.",
+      "id": "F12",
+      "rationale": "She is still admonishing him for 흥청망청 spending when the amount suddenly registers; the line must retain that negative judgment.",
+      "replacement": "“Even if you had four billion won, you shouldn’t throw money around like—wait, how much did you say?”",
+      "severity": "critical",
+      "source": "“40억 있으면 이렇게 흥청망청…… 잠깐, 얼마라고?”"
+    }
+  ],
+  "summary": "Several action, negation, register, terminology, and formatting errors require correction.",
+  "version": 1
+}
