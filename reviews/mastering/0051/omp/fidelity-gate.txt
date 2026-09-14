@@ -1,0 +1,55 @@
+{
+  "summary": "Faithful overall, with minor defects in a physical mechanism, an exact quantity, and three occurrences of an established location term.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean line 45 / P15",
+      "current": "Its roar exploded through the air.",
+      "defect": "The explosive motion is transferred from the air to the roar, weakening the source's blast-like physical effect.",
+      "replacement": "Its roar made the air burst outward.",
+      "rationale": "In 외침에 공기가 터져 나간다, the chieftain's shout is the cause and the air is what bursts outward.",
+      "confidence": 0.97
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Korean line 135 / P59",
+      "current": "a Rare Monster that normally took a couple of C-rank Hunters to bring down",
+      "defect": "“A couple” ordinarily specifies two, while the source gives an approximate quantity of two or three.",
+      "replacement": "a Rare Monster that normally took two or three C-rank Hunters to bring down",
+      "rationale": "두엇 explicitly means two or three, and the Hunter count should remain exact.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Korean line 273 / P130",
+      "current": "I go to the day-labor agency on weekends.",
+      "defect": "The assembled copy replaces the baseline-established term “Manpower Office” with a new rendering.",
+      "replacement": "I go to the Manpower Office on weekends.",
+      "rationale": "인력 사무소 is consistently rendered as “Manpower Office” in the accepted baseline, and the source does not change the referent.",
+      "confidence": 0.96
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Korean line 283 / P135",
+      "current": "Looks like I’ll have to go to the day-labor agency this weekend.",
+      "defect": "The assembled copy replaces the baseline-established term “Manpower Office” with a new rendering.",
+      "replacement": "Looks like I’ll have to go to the Manpower Office this weekend.",
+      "rationale": "This is the same 인력 사무소 mentioned earlier and should retain its established English rendering.",
+      "confidence": 0.96
+    },
+    {
+      "id": "F05",
+      "severity": "minor",
+      "source": "Korean line 321 / P154",
+      "current": "Don’t even think about going to the day-labor agency.",
+      "defect": "The assembled copy replaces the baseline-established term “Manpower Office” with a new rendering.",
+      "replacement": "Don’t even think about going to the Manpower Office.",
+      "rationale": "This repeated reference is to the same 인력 사무소 and should remain terminologically consistent with the accepted baseline.",
+      "confidence": 0.96
+    }
+  ]
+}

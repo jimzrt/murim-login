@@ -22,13 +22,13 @@ Ding. Ding. Ding.
 >
 > - You defeated **Lv. 40 Swamp Lizardman**…
 
-“Keeee…”
+- Keeee…
 
-The survivors faltered and backed away. The same creatures that had been pouring out killing intent at the enemy of their kin were now trembling with fear.
+The survivors hesitated and backed away. The same creatures that had been pouring out killing intent at the enemy of their kin were now trembling with fear.
 
 But that lasted only a moment.
 
-“Gwoooaar!”
+- Gwoooaar!
 
 > **System**
 >
@@ -36,7 +36,7 @@ But that lasted only a moment.
 >
 > - Uses Skill **Battle Cry**!
 
-The Lizardman Chieftain was at least twice the size of the others, with a gigantic mace in hand. Its roar exploded through the air. At the appearance of their leader, the retreating Lizardmen came to their senses and formed ranks.
+A frame at least twice as large as the others. The roar of the Lizardman Chieftain, gigantic mace in hand, exploded through the air. The Lizardmen that had been backing away came to their senses at their leader’s appearance and formed ranks.
 
 *I was wondering why this was wrapping up so easily.*
 
@@ -54,9 +54,9 @@ Team Leader Choi thought it over before answering.
 
 “I don’t think I can. I wore a limited edition today. It’d break my heart if blood splattered on it.”
 
-“…Would you like me to make it hurt for real?”
+“……Should I make it hurt for real?”
 
-The longer we talked, the more my gut burned and the back of my head throbbed, as if I’d suffered internal injuries. I’d rather fight the monsters.
+The longer we talked, the more my gut burned and the back of my head throbbed, like I’d taken internal injuries. Fighting monsters would have been better.
 
 As I took a long stride forward, Team Leader Choi tossed out a single line.
 
@@ -68,7 +68,7 @@ A punchable kind of sensible.
 
 And then…
 
-“Why bother when there’s a better way?”
+“Why bother, when there’s a better way?”
 
 Ahead of us, the monsters were surging forward like a wave, led by the Lizardman Great Chieftain. C- and D-rank monsters mixed together—a force an ordinary C-rank Hunter wouldn’t even dream of facing.
 
@@ -80,7 +80,7 @@ Ding.
 
 The System answered at once.
 
-A week had passed since I’d started working as a Hunter again. On the Status Window, the number 40 and the line at the very bottom were shining brightly.
+A week had passed since I’d started Hunter work again. On the Status Window, the number 40 and the line written at the very bottom were shining bright.
 
 > **System**
 >
@@ -102,13 +102,13 @@ In exchange, new power surged up from deep inside me. A different me from the Ji
 
 My body was still shivering with exhilaration when—
 
-“Gwaaaar!”
+- Gwaaaar!
 
-The Lizardman Great Chieftain charged with a roar. I thrust my spear toward the gigantic mace casting a shadow over me.
+The Lizardman Great Chieftain charged with a roar. I thrust my spear toward the gigantic mace that cast a shadow over me.
 
 “One Flash.”
 
-At the tip of my spear, a path opened through the wind.
+At the spearhead, a path through the wind opened.
 
 * * *
 
@@ -120,7 +120,7 @@ A dense fog of blood wrapped the wetlands, and beneath it the monsters’ corpse
 
 *What the hell…*
 
-Dozens of monsters, including the boss, had been slaughtered in an instant. All of it had come from the spear-tip of a C-rank Hunter who had reawakened only a few days ago.
+Dozens of monsters, the boss included, had been slaughtered in an instant. All of it had come from the spear-tip of a C-rank Hunter who had reawakened only a few days ago.
 
 *Is something like this even possible?*
 
@@ -134,9 +134,9 @@ And on top of that, the strength he had shown over the past few days was…
 
 The reason Choi had started raiding with Taekyung alone was simple.
 
-To see the limits of this intriguing man.
+To see this fascinating man’s limits.
 
-And to keep anyone else from finding out about him.
+And to keep anyone else from finding out.
 
 But another thought suddenly occurred to him.
 
@@ -150,9 +150,9 @@ Choi Minwoo forced the thought aside. That was when Jin Taekyung entered his vis
 
 He was clutching the boss monster’s corpse—its upper body gone—and wailing in grief.
 
-“No! My hide! This stuff’s expensive!”
+“No! My hide! This was expensive!”
 
-…There was no way a guy like that could be.
+……There was no way a guy like that could be.
 
 No. He *mustn’t* be.
 
@@ -168,7 +168,7 @@ Once in the morning. Twice in the afternoon.
 
 By the time we finished three C-rank Gates and came back out, it was already dark.
 
-“Thank you for your hard work, young master.”
+“Good work, young master.”
 
 That face was familiar now. Team Leader Choi called this broad-featured man in his forties that.
 
@@ -176,15 +176,15 @@ That face was familiar now. Team Leader Choi called this broad-featured man in h
 
 Kim the Butler. Not secretary—*butler*.[^2]
 
-The word was so divorced from reality that I thought I’d misheard it at first.
+The word was so absurdly unrealistic I thought I’d misheard it at first.
 
 *I’ve only ever met church deacons.*
 
-Back when I was a snot-nosed kid getting a thousand won a week in allowance, one of them had been the bastard who forced me to pay a hundred won as a tithe.
+Back when I was a snot-nosed kid getting a thousand won a week in allowance, he had been the bastard who forced me to put in a hundred won as a tithe.
 
 Of course, he hadn’t called me young master. When I dug in and refused to pay, he’d even muttered that I was the child of Satan.
 
-And at seven years old, I’d been the kind of kid who always asked whenever he was curious.
+And I had been seven—the kind of kid who always asked when he was curious.
 
 *Mom. Are you Satan?*
 
@@ -192,11 +192,11 @@ And at seven years old, I’d been the kind of kid who always asked whenever he 
 
 *Yeah. The church deacon said I was Satan’s child. I’m your kid, so that makes you Satan, right? Right?*
 
-Those words turned my mother into Satan.
+That turned my mother into Satan.
 
 I never got to eat the church tteokbokki again,[^3] and the church deacon nearly went to be with the Lord.
 
-Thinking back on it, my life really was one hell of a variety show.
+Thinking about it again, my life really was one hell of a variety show.
 
 “Did you have something to say…?”
 
@@ -206,7 +206,7 @@ Butler Kim’s voice pulled me back.
 
 “Let’s call it a day.”
 
-Team Leader Choi had already changed into street clothes. In a lightweight tailored suit, he looked just like a celebrity.
+Team Leader Choi had already changed into street clothes. In a thin tailored suit, he looked just like a celebrity.
 
 *Life is so damn unfair.*
 
@@ -214,11 +214,13 @@ I grumbled inwardly as I started taking off my Equipment. Carefully, of course. 
 
 Never mind. Let’s not go there.
 
-While Butler Kim took the Equipment and loaded it into the car, I asked Team Leader Choi, “What time should I come in tomorrow?”
+While Butler Kim took the Equipment and loaded it into the car, I asked Team Leader Choi,
+
+“What time should I come in tomorrow?”
 
 “Tomorrow?”
 
-Team Leader Choi sounded puzzled.
+Team Leader Choi asked back, sounding puzzled.
 
 “Today is Friday.”
 
@@ -234,13 +236,13 @@ Team Leader Choi sounded puzzled.
 
 Team Leader Choi furrowed his brow.
 
-“Don’t tell me you’re planning to work this weekend too?”
+“Don’t tell me you’re planning to work on the weekend too?”
 
-“…Isn’t that obvious?”
+“……Isn’t that obvious?”
 
-“…”
+“……”
 
-“…”
+“……”
 
 Team Leader Choi asked with a shocked look,
 
@@ -264,35 +266,35 @@ How the world actually worked.
 
 I chuckled.
 
-“What small or midsize Guild follows that to the letter? They all throw in extra pay and send you out on raids. Worked out for me, anyway.”
+“What small or midsize Guild follows that to the letter? They all throw on extra pay and send you out on raids. Worked out for me, anyway.”
 
 “Excuse me? You *liked* it?”
 
-“I go to the day-labor agency on weekends. Getting extra pay from the Guild beats going there. They paid us cash on the spot so there wouldn’t be a record.”
+“I go to the Manpower Office on weekends. Getting extra pay from the Guild beats going there. They paid cash on the spot so there wouldn’t be a record.”
 
-“…”
+“……”
 
 “That’s just how it is.”
 
 Team Leader Choi shook his head in disbelief.
 
-“Our Guild follows the Labor Law. Provisional contracts are no exception.”
+“Our Guild follows the Labor Law. Provisional contracts are no different.”
 
-*That’s a shame. Looks like I’ll have to go to the day-labor agency this weekend.*
+*That’s a shame. Looks like I’ll have to go to the Manpower Office this weekend.*
 
-As I smacked my lips in disappointment, Team Leader Choi gave me that peculiar look of his.
+Team Leader Choi looked at me with that peculiar expression of his as I smacked my lips over the missed chance.
 
 “Why do you go that far?”
 
 “Why?”
 
-“You’re a C-rank Hunter now. You could afford to take it a little easier.”
+“You’re a C-rank Hunter now. You could take it a little easier.”
 
 “That’s…”
 
 *Because I don’t know when the System might disappear.*
 
-I caught the words before they could jump out of my throat. That was my secret—something I couldn’t tell anyone.
+I caught the words before they jumped out of my throat. That was my secret—something I couldn’t tell anyone.
 
 “No particular reason. You have to row when the tide comes in.”
 
@@ -308,17 +310,17 @@ Team Leader Choi paused, then went on.
 
 Family.
 
-It was only one word, but warmth seeped into every corner of my body. We talked on the phone now and then, but I hadn’t seen them in more than two months. Counting the time I’d spent in Murim, it had been three.
+It was only one word, but warmth seeped into every corner of my body. We talked on the phone now and then, but I hadn’t seen them in more than two months. Counting the time in Murim, it had been three.
 
 *Has it already been that long?*
 
-Ever since my father died, my life had been like a car running uphill.
+Ever since my father died, my life had been a car running uphill.
 
 So I’d had no choice but to keep my foot on the gas. Take it off, and it felt like I’d roll backward. Like the engine might die at any second.
 
-“Anyway, weekends are off. Don’t even think about going to the day-labor agency. Rest. Going there would be a contract violation.”
+“Anyway, weekends are off. Don’t even think about going to the Manpower Office. Rest. That would be a contract violation.”
 
-“Ah. Okay.”
+“Ah. Right.”
 
 *Forcing me to rest this hard… Maybe this guy Choi isn’t such a bad person after all…*
 
@@ -332,7 +334,7 @@ It was obvious he only wanted me resting on the weekend so he could work me to t
 
 What a vicious man.
 
-“Preparations are complete, young master.”
+“Preparations are finished, young master.”
 
 Butler Kim was back from loading the Equipment.
 
@@ -352,7 +354,9 @@ To me.
 
 “Huh? Me?”
 
-It looked like a box of tonic drinks. I just blinked at it, then a thought flashed through my head and I asked carefully, “Don’t tell me this is money?”
+It looked like a box of tonic drinks. I just blinked at it, then a thought flashed through my head and I asked carefully,
+
+“Don’t tell me this is money?”
 
 “We contracted for weekly pay. Did you forget?”
 
@@ -368,11 +372,11 @@ I took the box with a dazed look. It was heavy.
 
 “You said you liked cash, Mr. Jin Taekyung. Especially crisp new bills.”
 
-I’d mentioned it in passing yesterday—or maybe the day before. I hadn’t expected it to come back like this.
+I’d mentioned it in passing yesterday—or the day before. I hadn’t expected it to come back like this.
 
 My opinion of the exploitative employer rose a little.
 
-*Of course, the most important part is still left.*
+*Of course, the important part’s still left.*
 
 Four days of pay, Tuesday through Friday. My first weekly paycheck as a C-rank Hunter.
 
@@ -380,9 +384,9 @@ Of course I couldn’t help looking forward to the amount.
 
 I swallowed and opened my mouth.
 
-“Then how much is all of this…?”
+“Then how much is all of this…”
 
-“We put in a little more than the contract says. The settlement details are inside, so check them. We’ll be going.”
+“We put in a little more than the contract. The settlement details are inside, so check them. We’ll be going.”
 
 “Until next time, Hunter.”
 
@@ -404,7 +408,7 @@ In other words, six million won.
 
 *Scam.*
 
-The word flashed through my mind just as my legs were about to give out—
+The word flashed through my mind, and just as my legs were about to give out—
 
 “Huh?”
 
@@ -412,7 +416,7 @@ Had I seen it wrong? Why were the bills yellowish?
 
 “Wait. Wait a second!”
 
-I focused internal energy into my eyes, and my vision brightened.
+I focused internal energy into my eyes, and the world in front of me brightened.
 
 Then I saw her.
 
@@ -420,25 +424,25 @@ A kindly smiling woman in a hanbok, right there on the bill.
 
 “Shin Saimdang! Wise mother and virtuous wife! Her son is Yulgok Yi I! Her husband is Yi Wonsu!”
 
-I started speaking in tongues before I even realized it.
+Dialect burst out of me before I knew it.
 
 This was insane. Completely insane.
 
-One bundle contained a hundred Shin Saimdang bills. Six of those meant…
+One bundle was a hundred Shin Saimdang bills. Six of those, so…
 
 “Th-three hundred million!”
 
-This time I couldn’t catch myself as my legs gave out. I dropped to my knees hard enough to make a thud and stared blankly into the drink box.
+This time I couldn’t catch my legs as they gave out. I dropped to my knees hard enough to thud and stared blankly into the drink box.
 
-A white sheet of paper lay beneath the bundles, lining the bottom.
+Under the bundles, a white sheet of paper lined the bottom.
 
 *Right. The settlement sheet!*
 
 I unfolded the paper in a panic.
 
-It contained a complete record of the past four days’ earnings.
+It had a complete record of the past four days’ earnings.
 
-Right down to the final amount being paid to me.
+Down to the final amount being paid to me.
 
 *The settlement says thirty million won?*
 
@@ -452,11 +456,11 @@ My shaking gaze froze on the last line.
 
 And then Team Leader Choi’s last words as he left.
 
-*We put in a little more than the contract says.*
+*We put in a little more than the contract.*
 
 Thunder and lightning tore through my head.
 
-I rose on trembling legs. Far off, the car’s lights were already fading.
+I stood on trembling legs. Far off, the car’s lights were already fading.
 
 They looked like a single ray of light.
 
@@ -467,5 +471,5 @@ Team Leader Choi.
 No—he was the Light.
 
 [^1]: Korean slang for Friday night, from “burning Friday.”
-[^2]: In Korean, the same word, *jipsa*, can mean either butler or church deacon.
+[^2]: In Korean, the same word, *jipsa*, means both butler and church deacon.
 [^3]: Tteokbokki is a Korean dish of chewy rice cakes in a spicy sauce. Korean churches often sell it as a snack.

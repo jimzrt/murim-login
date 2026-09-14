@@ -4,13 +4,13 @@ Swish, swish, swish!
 
 Swords, axes, maces.
 
-Dozens of weapons poured down like rain. But I could see every one of them clearly—where each attack was headed, and how.
+Dozens of weapons poured down like rain. But I could see every one of them clearly—where each attack was headed and how.
 
 I slipped through the gaps.
 
 Slice—
 
-It started with me taking the head off a C-rank monster, a Lizardman Warrior. The instant the spearhead drew a semicircle, blood spurted in every direction.
+It started with me taking the head off a C-rank monster, a Lizardman Warrior. The instant the spearhead swept through a semicircle, blood spurted in every direction.
 
 Ding. Ding. Ding.
 
@@ -32,9 +32,9 @@ But that lasted only a moment.
 
 > **System**
 >
-> - Boss Monster, **Lv. 52 Lizardman Great Chieftain**, has appeared!
+> - Boss Monster **Lv. 52 Lizardman Great Chieftain** has appeared!
 >
-> - Uses Skill **Battle Cry**!
+> - It uses Skill **Battle Cry**!
 
 The Lizardman Chieftain was at least twice the size of the others, with a gigantic mace in hand. Its roar exploded through the air. At the appearance of their leader, the retreating Lizardmen came to their senses and formed ranks.
 
@@ -46,9 +46,9 @@ Team Leader Choi’s unhurried voice came from behind me.
 
 “Is that something someone who hasn’t lifted a finger for days should be asking?”
 
-“This is a different story. It’s a C-rank Gate.”
+“This is different. It’s a C-rank Gate.”
 
-“Then help, why don’t you.”
+“Then help, why don’t you?”
 
 Team Leader Choi thought it over before answering.
 
@@ -58,19 +58,19 @@ Team Leader Choi thought it over before answering.
 
 The longer we talked, the more my gut burned and the back of my head throbbed, as if I’d suffered internal injuries. I’d rather fight the monsters.
 
-As I took a long stride forward, Team Leader Choi tossed out a single line.
+As I took a long stride forward, Team Leader Choi tossed out one last remark.
 
 “Retreat is another option.”
 
 The man standing behind me with his arms folded so blood wouldn’t splatter on his limited-edition Equipment had said something pretty sensible.
 
-A punchable kind of sensible.
+The kind of sensible that made me want to hit him.
 
-And then…
+And…
 
 “Why bother when there’s a better way?”
 
-Ahead of us, the monsters were surging forward like a wave, led by the Lizardman Great Chieftain. C- and D-rank monsters mixed together—a force an ordinary C-rank Hunter wouldn’t even dream of facing.
+Ahead of us, the monsters surged forward like a wave, led by the Lizardman Great Chieftain. C- and D-rank monsters were mixed together—a force an ordinary C-rank Hunter wouldn’t even dream of facing.
 
 An ordinary C-rank Hunter, that is.
 
@@ -90,13 +90,13 @@ Since returning to reality, I hadn’t spent a single Remaining Point. Purely ou
 
 *How far can I go as I am now?*
 
-But hoarding them any further would be reckless.
+But hoarding them any longer would be reckless.
 
 *Assign 30 each to Strength and Stamina. Assign 40 to Agility.*
 
 The next moment, my Remaining Points hit zero.
 
-In exchange, new power surged up from deep inside me. A different me from the Jin Taekyung of only a few seconds ago was standing here now.
+In exchange, new power surged from deep inside me. I was no longer the same Jin Taekyung I’d been only a few seconds ago.
 
 *Yeah. This is it.*
 
@@ -116,7 +116,7 @@ At the tip of my spear, a path opened through the wind.
 
 Team Leader Choi—Choi Minwoo—let out a hollow laugh.
 
-A dense fog of blood wrapped the wetlands, and beneath it the monsters’ corpses lay sprawled.
+A dense fog of blood hung over the wetlands, and beneath it lay the sprawled corpses of monsters.
 
 *What the hell…*
 
@@ -126,9 +126,9 @@ Dozens of monsters, including the boss, had been slaughtered in an instant. All 
 
 It was a question he had carried since the day he first met Jin Taekyung.
 
-That day, they had gone to an E-rank Gate without much thought. There, Taekyung had overwhelmingly overpowered a Rare Monster that normally took a couple of C-rank Hunters to bring down.
+That day, Choi had gone to an E-rank Gate without giving it much thought. There, he had seen Taekyung overwhelmingly overpower a Rare Monster that normally required two or three C-rank Hunters to bring down.
 
-And on top of that, the strength he had shown over the past few days was…
+And then there was the strength Taekyung had displayed over the past few days…
 
 *Calling him a C-rank Hunter is a joke.*
 
@@ -138,7 +138,7 @@ To see the limits of this intriguing man.
 
 And to keep anyone else from finding out about him.
 
-But another thought suddenly occurred to him.
+But then another thought occurred to him.
 
 *Could he be stronger than me…?*
 
@@ -146,13 +146,13 @@ No. No.
 
 That was impossible.
 
-Choi Minwoo forced the thought aside. That was when Jin Taekyung entered his vision.
+Choi Minwoo forced the thought aside. Then Jin Taekyung entered his field of vision.
 
-He was clutching the boss monster’s corpse—its upper body gone—and wailing in grief.
+He was clutching the boss monster’s corpse—its upper body completely gone—and wailing in grief.
 
 “No! My hide! This stuff’s expensive!”
 
-…There was no way a guy like that could be.
+…There was no way a man like that could be.
 
 No. He *mustn’t* be.
 
@@ -170,9 +170,9 @@ By the time we finished three C-rank Gates and came back out, it was already dar
 
 “Thank you for your hard work, young master.”
 
-That face was familiar now. Team Leader Choi called this broad-featured man in his forties that.
+That face was familiar now. Team Leader Choi called the broad-featured man in his forties that.
 
-“You worked hard too, Mr. Kim.”
+“Thank you too, Mr. Kim.”
 
 Kim the Butler. Not secretary—*butler*.[^2]
 
@@ -206,7 +206,7 @@ Butler Kim’s voice pulled me back.
 
 “Let’s call it a day.”
 
-Team Leader Choi had already changed into street clothes. In a lightweight tailored suit, he looked just like a celebrity.
+Team Leader Choi had already changed into street clothes. In a lightweight tailored suit, he looked like a celebrity.
 
 *Life is so damn unfair.*
 
@@ -242,7 +242,7 @@ Team Leader Choi furrowed his brow.
 
 “…”
 
-Team Leader Choi asked with a shocked look,
+Team Leader Choi stared at me in shock.
 
 “If you don’t take weekends off, when do you rest?”
 
@@ -296,7 +296,7 @@ I caught the words before they could jump out of my throat. That was my secret�
 
 “No particular reason. You have to row when the tide comes in.”
 
-“If you keep working like that, you’ll snap the oars. Think about the people in the boat with you.”
+“If you keep working like that, you’ll snap the oar. Think about the people in the boat with you.”
 
 “The people in the boat with me? You, Team Leader?”
 
@@ -312,29 +312,29 @@ It was only one word, but warmth seeped into every corner of my body. We talked 
 
 *Has it already been that long?*
 
-Ever since my father died, my life had been like a car running uphill.
+Ever since my father died, my life had been like a car struggling uphill.
 
-So I’d had no choice but to keep my foot on the gas. Take it off, and it felt like I’d roll backward. Like the engine might die at any second.
+So I’d had no choice but to keep my foot on the gas. If I let up, it felt as though I’d roll backward. As though the engine might die at any second.
 
 “Anyway, weekends are off. Don’t even think about going to the day-labor agency. Rest. Going there would be a contract violation.”
 
 “Ah. Okay.”
 
-*Forcing me to rest this hard… Maybe this guy Choi isn’t such a bad person after all…*
+*Forcing me to rest like this… Maybe Team Leader Choi isn’t such a bad person after all…*
 
 No.
 
-I couldn’t let myself get taken in by a little emotional appeal. Not after all the hell I’d gone through on my own.
+I couldn’t let myself be taken in by a little sentimental appeal. Not after all the hell I’d gone through on my own.
 
 *Team Leader Choi is an exploitative employer. An exploitative employer.*
 
-It was obvious he only wanted me resting on the weekend so he could work me to the bone starting next week. The mindset of a slave plantation owner who didn’t want stamina wasted in the wrong places.
+It was obvious he only wanted me resting over the weekend so he could work me to the bone starting next week. It was the mindset of a slave plantation owner who didn’t want his slaves wasting stamina in the wrong places.
 
 What a vicious man.
 
 “Preparations are complete, young master.”
 
-Butler Kim was back from loading the Equipment.
+Butler Kim had returned after loading the Equipment.
 
 *That man’s suffering under an exploitative employer too. It’s almost ten at night, and he still hasn’t gotten off work.*
 
@@ -344,7 +344,7 @@ Butler Kim was back from loading the Equipment.
 
 “Give it to him.”
 
-At the exploitative employer’s word, Butler Kim held out the small box in his hands.
+At the exploitative employer’s command, Butler Kim held out the small box in his hands.
 
 “Please take this, Hunter.”
 
@@ -352,13 +352,13 @@ To me.
 
 “Huh? Me?”
 
-It looked like a box of tonic drinks. I just blinked at it, then a thought flashed through my head and I asked carefully, “Don’t tell me this is money?”
+It looked like a box of tonic drinks. I blinked at it until a thought suddenly flashed through my mind, then asked carefully, “Don’t tell me this is money?”
 
 “We contracted for weekly pay. Did you forget?”
 
-I had. I’d naturally assumed I’d get it on Sunday.
+I had. I’d naturally assumed I would get it on Sunday.
 
-I took the box with a dazed look. It was heavy.
+I accepted the box with a dazed look. It was heavy.
 
 “Is it usually paid in cash?”
 
@@ -366,7 +366,7 @@ I took the box with a dazed look. It was heavy.
 
 “Then…”
 
-“You said you liked cash, Mr. Jin Taekyung. Especially crisp new bills.”
+“You said you preferred cash, Mr. Jin Taekyung. Especially crisp new bills.”
 
 I’d mentioned it in passing yesterday—or maybe the day before. I hadn’t expected it to come back like this.
 
@@ -386,11 +386,11 @@ I swallowed and opened my mouth.
 
 “Until next time, Hunter.”
 
-Team Leader Choi and Butler Kim took off in a flash.
+Team Leader Choi and Butler Kim sped off.
 
-It really did happen in an instant.
+It all happened in an instant.
 
-I stared after the receding car lights, bewildered, then opened the drink box. In the faint moonlight, thick bundles of bills caught my eye.
+I stared after the receding car lights in bewilderment, then opened the drink box. Thick bundles of bills came into view beneath the faint moonlight.
 
 *One, two, three…*
 
@@ -446,17 +446,17 @@ What? Had I imagined it?
 
 I was confused. Completely confused.
 
-My shaking gaze froze on the last line.
+My shaking gaze froze on the final line.
 
 **Bonus: 270,000,000**
 
-And then Team Leader Choi’s last words as he left.
+Then Team Leader Choi’s last words echoed in my mind.
 
 *We put in a little more than the contract says.*
 
 Thunder and lightning tore through my head.
 
-I rose on trembling legs. Far off, the car’s lights were already fading.
+I rose on trembling legs. Far off in the distance, the car’s lights were already fading.
 
 They looked like a single ray of light.
 
