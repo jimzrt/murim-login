@@ -35,6 +35,7 @@ STAGE_NOTES = {
     "assemble": "Rebuild the chapter from adjudication decisions",
     "fidelity": "Semantic fidelity gate against source and baseline",
     "verify": "Final deterministic QA after mastery",
+    "retry": "Bounded mastering retry after QA failure",
     "promote": "Overwrite translations/ with the verified mastered copy",
     "commit": "Checkpoint chapter artifacts in Git",
 }

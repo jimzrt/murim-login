@@ -1231,14 +1231,14 @@ def command_qa(number: int) -> None:
             item for item in fidelity["findings"]
             if item["severity"] in {"major", "critical"}
         ]
+        if not blocking:
+            break
         repairable = [
             item for item in fidelity["findings"]
             if item["severity"] in {"major", "critical"}
             or float(item.get("confidence", 0)) >= auto_repair_confidence
         ]
-        if not blocking:
-            break
-        if not repairable or round_index == max_rounds - 1:
+        if not repairable:
             break
         final, applied = apply_fidelity_repairs(final, fidelity, auto_repair_confidence)
         if not applied:
@@ -1249,6 +1249,11 @@ def command_qa(number: int) -> None:
         update_state(p, state, "ASSEMBLED", final_sha256=sha256_text(final))
         qa = run_qa(number, source, final, glossary)
         atomic_json(p["qa"], qa)
+        if round_index == max_rounds - 1 and qa["passed"]:
+            fidelity = run_fidelity_gate(
+                number, source, final, qa, p, baseline=read_text(p["baseline"])
+            )
+            break
     semantic_failures = sum(
         item["severity"] in {"major", "critical"}
         for item in fidelity["findings"]
@@ -1274,24 +1279,76 @@ def command_qa(number: int) -> None:
     step("verify", facts=bits)
 
 
+def verified_ok(state: dict) -> bool:
+    return state.get("stage") == "VERIFIED" and bool(state.get("qa_passed"))
+
+
 def command_run(number: int) -> None:
+    try:
+        from tools.progress import step
+    except ModuleNotFoundError:
+        from progress import step
     state = state_for(number)
     if state.get("stage") == "PROMOTED" and state.get("qa_passed"):
-        try:
-            from tools.progress import step
-        except ModuleNotFoundError:
-            from progress import step
         step("master", "already promoted")
         return
-    if not (state.get("stage") == "VERIFIED" and state.get("qa_passed")):
+    cfg = load_config()
+    readjudicate_budget = max(0, int(cfg.get("qa_retry_readjudicate", 1)))
+    remaster_budget = max(0, int(cfg.get("qa_retry_remaster", 1)))
+    used_readjudicate = 0
+    used_remaster = 0
+
+    if not verified_ok(state):
         command_master(number)
         command_adjudicate(number)
         command_assemble(number)
         command_qa(number)
-    p = chapter_paths(number)
-    state = state_for(number)
-    if not state.get("qa_passed") or state.get("stage") != "VERIFIED":
-        raise ValueError(f"chapter {number}: mastering QA failed; inspect {p['qa'].relative_to(ROOT)}")
+        state = state_for(number)
+
+    while not verified_ok(state):
+        if used_readjudicate < readjudicate_budget:
+            used_readjudicate += 1
+            step(
+                "retry",
+                f"re-adjudicate {used_readjudicate}/{readjudicate_budget}",
+                note="Cheap retry: keep Sol master, re-decide hunks, re-assemble, re-verify",
+            )
+            command_adjudicate(number, force=True)
+            command_assemble(number)
+            command_qa(number)
+            state = state_for(number)
+            continue
+        if used_remaster < remaster_budget:
+            used_remaster += 1
+            step(
+                "retry",
+                f"remaster {used_remaster}/{remaster_budget}",
+                note="Expensive retry: new Sol master edit, then full overlay again",
+            )
+            command_master(number, force=True)
+            command_adjudicate(number, force=True)
+            command_assemble(number)
+            command_qa(number)
+            state = state_for(number)
+            continue
+        p = chapter_paths(number)
+        raise ValueError(
+            f"chapter {number}: mastering QA failed after "
+            f"{used_readjudicate} re-adjudicate and {used_remaster} remaster "
+            f"retries; inspect {p['qa'].relative_to(ROOT)} and "
+            f"{p['fidelity_review'].relative_to(ROOT)}"
+        )
+
+    if used_readjudicate or used_remaster:
+        p = chapter_paths(number)
+        current = state_for(number)
+        update_state(
+            p,
+            current,
+            current.get("stage", "VERIFIED"),
+            qa_retry_readjudicate=used_readjudicate,
+            qa_retry_remaster=used_remaster,
+        )
     command_promote(number, "REPLACE_TRANSLATIONS")
 
 
