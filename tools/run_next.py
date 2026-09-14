@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Run the next chapter deterministically, master it, and checkpoint it."""
+"""Run the next chapter through accept and checkpoint it. Mastering is separate."""
 
 from __future__ import annotations
 
@@ -14,10 +14,27 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "tools"))
 
 from cost_report import build_report, format_report, format_resource_report
-from run_lock import hold_run_lock
-from workflow import command_committed, incomplete_chapter, interval_due, paths, project_config
+from run_lock import hold_commit_lock, hold_run_lock
 
-TRANSLATION_RE = re.compile(r"^translations/(\d{4})\.md$")
+try:
+    from tools.workflow import (
+        accept_allowed_paths,
+        command_committed,
+        incomplete_chapter,
+        incomplete_mastering_chapter,
+        master_owns_path,
+        paths,
+    )
+except ModuleNotFoundError:
+    from workflow import (
+        accept_allowed_paths,
+        command_committed,
+        incomplete_chapter,
+        incomplete_mastering_chapter,
+        master_owns_path,
+        paths,
+    )
+
 WORKFLOW_ACTION_RE = re.compile(r"^python tools/workflow\.py ([a-z]+) (\d+)$")
 
 
@@ -43,20 +60,14 @@ def changed_paths() -> list[str]:
 
 
 def allowed_change(path: str, chapter: int) -> bool:
-    if path in {"docs/STATE.md", "docs/CONTEXT.json", "docs/NAMES.md", "docs/ADDRESS.md", "docs/RISKS.md", "compendium.md"}:
-        return True
-    match = TRANSLATION_RE.fullmatch(path)
-    if match:
-        other = int(match.group(1))
-        if other == chapter:
-            return True
-        if not interval_due(chapter, "checkpoint_review_interval"):
-            return False
-        start = chapter - int(project_config()["checkpoint_review_interval"]) + 1
-        return start <= other <= chapter
-    if path.startswith("reviews/") or path.startswith("summaries/"):
-        return True
-    return path.startswith("characters/") and not path.startswith("characters/spoilers/")
+    return path in accept_allowed_paths(chapter)
+
+
+def foreign_master_paths(dirty: list[str]) -> set[str]:
+    mastering = incomplete_mastering_chapter()
+    if mastering is None:
+        return {path for path in dirty if path.startswith("reviews/mastering/")}
+    return {path for path in dirty if master_owns_path(path, mastering)}
 
 
 def require_repository(chapter: int, *, resume: bool) -> None:
@@ -65,11 +76,13 @@ def require_repository(chapter: int, *, resume: bool) -> None:
         dirty = changed_paths()
     except subprocess.CalledProcessError as error:
         raise SystemExit(error.stderr.strip() or "project must be an initialized Git repository") from None
-    if not resume and dirty:
-        raise SystemExit("working tree must be clean before run_next; commit or stash existing changes")
-    unexpected = [path for path in dirty if not allowed_change(path, chapter)]
+    foreign = foreign_master_paths(dirty)
+    ours = [path for path in dirty if path not in foreign]
+    unexpected = [path for path in ours if not allowed_change(path, chapter)]
     if unexpected:
         raise SystemExit("working tree has unexpected changes: " + ", ".join(unexpected))
+    if not resume and ours:
+        raise SystemExit("working tree must be clean before run_next; commit or stash existing changes")
 
 
 def workflow_status(chapter: int) -> dict:
@@ -96,7 +109,7 @@ def run_workflow_command(chapter: int, action: str) -> None:
             f"Complete it, then rerun python tools/run_next.py."
         )
     command = match.group(1)
-    if command in {"status", "committed"}:
+    if command in {"status", "committed", "master"}:
         raise SystemExit(f"workflow returned forbidden automatic action: {action}")
     result = subprocess.run(
         [sys.executable, str(ROOT / "tools" / "workflow.py"), command, str(chapter)],
@@ -106,13 +119,13 @@ def run_workflow_command(chapter: int, action: str) -> None:
         raise SystemExit(f"workflow {command} failed with exit code {result.returncode}")
 
 
-def run_to_mastered(chapter: int, lock) -> None:
+def run_to_accepted(chapter: int, lock) -> None:
     for _ in range(32):
         status = workflow_status(chapter)
         stage = status.get("stage")
-        if stage == "MASTERED":
+        if stage == "ACCEPTED":
             return
-        if stage == "COMMITTED":
+        if stage in {"COMMITTED", "MASTERED", "MASTERED_COMMITTED"}:
             raise SystemExit(f"chapter {chapter} is already committed")
         action = status.get("next_action")
         if not isinstance(action, str) or not action:
@@ -130,21 +143,31 @@ def print_cost_report(chapter: int) -> None:
     print(format_resource_report(report), flush=True)
 
 
-def commit_mastered(chapter: int) -> None:
+def commit_paths(paths_to_add: list[str], message: str) -> None:
+    if not paths_to_add:
+        raise SystemExit("no allowed paths to commit")
+    git("add", "--", *paths_to_add)
+    git("commit", "-m", message, capture=False)
+
+
+def commit_accepted(chapter: int) -> None:
     transaction = json.loads(paths(chapter)["state"].read_text(encoding="utf-8"))
-    if transaction.get("stage") != "MASTERED":
-        raise SystemExit(f"workflow stopped at {transaction.get('stage')}; expected MASTERED")
-    changes = changed_paths()
-    unexpected = [path for path in changes if not allowed_change(path, chapter)]
+    if transaction.get("stage") != "ACCEPTED":
+        raise SystemExit(f"workflow stopped at {transaction.get('stage')}; expected ACCEPTED")
+    dirty = changed_paths()
+    allowed = accept_allowed_paths(chapter)
+    foreign = foreign_master_paths(dirty)
+    unexpected = [path for path in dirty if path not in allowed and path not in foreign]
     if unexpected:
         raise SystemExit("refusing to commit unexpected paths: " + ", ".join(unexpected))
-    if not changes:
-        raise SystemExit("workflow reached MASTERED without checkpointable changes")
-    print(f"  ✓ commit     {len(changes)} files", flush=True)
+    ours = [path for path in dirty if path in allowed]
+    if not ours:
+        raise SystemExit("workflow reached ACCEPTED without checkpointable changes")
+    print(f"  ✓ commit     {len(ours)} files", flush=True)
     print("             Checkpoint accepted chapter artifacts in Git", flush=True)
-    git("add", "-A")
-    git("commit", "-m", f"Accept Chapter {chapter}", capture=False)
-    command_committed(chapter, "HEAD")
+    with hold_commit_lock(ROOT, holder="run_next", chapter=chapter, stage="committing"):
+        commit_paths(ours, f"Accept Chapter {chapter}")
+        command_committed(chapter, "HEAD")
     print(f"Chapter {chapter}  committed", flush=True)
 
 
@@ -156,15 +179,20 @@ def main() -> int:
     state_path = paths(chapter)["state"]
     stage = json.loads(state_path.read_text(encoding="utf-8")).get("stage") if state_path.exists() else None
     label = "resume" if in_progress is not None else "starting"
+    if stage == "MASTERED":
+        raise SystemExit(
+            f"chapter {chapter} is waiting for a mastering commit; "
+            "run python tools/run_next_mastering.py"
+        )
     with hold_run_lock(ROOT, holder="run_next", chapter=chapter, stage=stage or label) as lock:
         require_repository(chapter, resume=in_progress is not None)
         from progress import chapter_banner
         chapter_banner(chapter, label)
-        if stage != "MASTERED":
-            run_to_mastered(chapter, lock)
+        if stage != "ACCEPTED":
+            run_to_accepted(chapter, lock)
         print_cost_report(chapter)
         lock.update(stage="committing")
-        commit_mastered(chapter)
+        commit_accepted(chapter)
         lock.update(stage="COMMITTED")
     return 0
 

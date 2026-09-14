@@ -36,7 +36,7 @@ STAGE_NOTES = {
     "fidelity": "Semantic fidelity gate against source and baseline",
     "verify": "Final deterministic QA after mastery",
     "promote": "Overwrite translations/ with the verified mastered copy",
-    "commit": "Checkpoint accepted chapter artifacts in Git",
+    "commit": "Checkpoint chapter artifacts in Git",
 }
 
 WORD_RE = re.compile(r"[A-Za-z0-9]+(?:'[A-Za-z]+)?")
@@ -208,7 +208,7 @@ def banner(text: str) -> None:
 
 def chapter_banner(chapter: int, label: str) -> None:
     banner(f"Chapter {chapter}  {label}")
-    note = "Deterministic draft → review → revise → update → master → commit"
+    note = "Deterministic draft → review → revise → update → accept → commit"
     console = _console()
     if console is not None and Text is not None:
         console.print(Text(f"  {note}", style="dim"))

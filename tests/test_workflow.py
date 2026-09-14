@@ -513,13 +513,13 @@ class WorkflowTest(unittest.TestCase):
         workflow.command_accept(1)
         self.assertEqual(paths["translation"].read_text(encoding="utf-8"), "# Chapter 1\n\nRevised.\n")
 
-    def test_mastering_is_a_primary_transaction_stage(self):
+    def test_mastering_follows_committed_translation(self):
         state, paths = workflow.load(1)
         paths["translation"].parent.mkdir(parents=True, exist_ok=True)
         paths["translation"].write_text("# Chapter 1\n\nAccepted.\n", encoding="utf-8")
-        state["stage"] = "ACCEPTED"
+        state["stage"] = "COMMITTED"
         workflow.atomic_json(paths["state"], state)
-        self.assertEqual(workflow.next_action(state, paths), "python tools/workflow.py master 1")
+        self.assertIn("separate queue", workflow.next_action(state, paths))
         master_state = self.root / "reviews" / "mastering" / "0001" / "state.json"
         master_metrics = master_state.with_name("metrics.json")
 
@@ -539,12 +539,25 @@ class WorkflowTest(unittest.TestCase):
         self.assertEqual(recorded["artifacts"]["mastered_translation_sha256"], workflow.digest(paths["translation"]))
         self.assertIn("workflow.py committed 1", workflow.next_action(recorded, paths))
 
-    def test_master_requires_accepted_stage(self):
+    def test_accept_asks_for_commit_not_master(self):
         state, paths = workflow.load(1)
-        state["stage"] = "REVISED"
+        state["stage"] = "ACCEPTED"
+        self.assertIn("commit accepted files", workflow.next_action(state, paths))
+
+    def test_master_requires_committed_stage(self):
+        state, paths = workflow.load(1)
+        state["stage"] = "ACCEPTED"
         workflow.atomic_json(paths["state"], state)
         with self.assertRaises(SystemExit):
             workflow.command_master(1)
+
+    def test_accept_path_set_excludes_mastering(self):
+        allowed = workflow.accept_allowed_paths(1)
+        self.assertIn("translations/0001.md", allowed)
+        self.assertIn("docs/STATE.md", allowed)
+        self.assertNotIn("reviews/mastering/0001/state.json", allowed)
+        self.assertTrue(workflow.master_owns_path("reviews/mastering/0001/sol.md", 1))
+        self.assertFalse(workflow.master_owns_path("reviews/sol/0001.json", 1))
 
 
 
