@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Don’t let him go anywhere near my brothers. Understood?”",
+      "defect": "The translation omits that Jin Mukyung and Jin Taekyung are Wikyung’s younger brothers, losing the stated kinship hierarchy.",
+      "id": "F01",
+      "rationale": "아우들 specifically means younger brothers, not brothers generally.",
+      "replacement": "“Don’t let him go anywhere near my younger brothers. Understood?”",
+      "severity": "major",
+      "source": "“내 아우들 근처에 얼씬거리지 못하게 해. 알았나!”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Personal preferences were one thing, but he had no desire to become the object of someone else’s.",
+      "defect": "The translation removes the explicit sexual qualifier from 성적 취향 and leaves the second clause with an awkward, incomplete possessive.",
+      "id": "F02",
+      "rationale": "성적 취향 explicitly means sexual preference, while 그 대상 refers to becoming the target or object of that preference.",
+      "replacement": "Personal sexual preferences were one thing, but he had no desire to be the object of them.",
+      "severity": "major",
+      "source": "개인적인 성적 취향이야 그렇다 쳐도, 그 대상이 되는 건 사양이었다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "He felt as though he might cry from the anger and humiliation he was experiencing for the first time in his life.",
+      "defect": "Humiliation replaces 서러움, which conveys sorrow and wounded resentment rather than embarrassment or loss of dignity.",
+      "id": "F03",
+      "rationale": "서러움 is the aggrieved sadness of feeling hurt or unfairly treated; preserving it maintains the comic emotional beat.",
+      "replacement": "For the first time in his life, anger and wounded sorrow brought him close to tears.",
+      "severity": "major",
+      "source": "그는 난생처음 느껴 보는 분노와 서러움에 눈물이 날 것 같았다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“No. Don’t! Stop! Don’t offer it!”",
+      "defect": "The draft turns one command into two and adds an unsupported “Stop!”",
+      "id": "F04",
+      "rationale": "하지 마 is one command meaning “don’t do it,” followed separately by 바치지 마, “don’t offer it.”",
+      "replacement": "“No. Don’t do it! Don’t offer it!”",
+      "severity": "minor",
+      "source": "“안 돼. 하지 마! 바치지 마!”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Jin Mukyung stared at me with lowered eyes.",
+      "defect": "Lowered eyes suggests that Mukyung is looking downward, whereas 가라앉은 describes his gaze as subdued, grave, or somber.",
+      "id": "F05",
+      "rationale": "The source describes the emotional quality of his gaze, not a downward eye movement.",
+      "replacement": "Jin Mukyung fixed me with a somber gaze.",
+      "severity": "minor",
+      "source": "진무경이 가라앉은 눈으로 나를 응시했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "A chill voice followed.",
+      "defect": "“A chill voice followed” is an unnatural English collocation and obscures that the same speaker continues.",
+      "id": "F06",
+      "rationale": "이어졌다 indicates continuation, while 서늘한 characterizes the voice as cold or chilling.",
+      "replacement": "The cold voice continued.",
+      "severity": "minor",
+      "source": "서늘한 목소리가 이어졌다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The martial arts I’ve performed more than a thousand, ten thousand times feel unfamiliar.",
+      "defect": "The quantity construction is ungrammatical and fails to convey the escalating sense of thousands and even tens of thousands of repetitions.",
+      "id": "F07",
+      "rationale": "천 번, 만 번도 넘게 is an escalating expression emphasizing that he has performed them thousands, even tens of thousands, of times.",
+      "replacement": "The martial arts I’ve performed thousands—even tens of thousands—of times feel unfamiliar.",
+      "severity": "minor",
+      "source": "천 번, 만 번도 넘게 펼친 무공이 낯설다."
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it loses one kinship distinction, softens an explicit reference to sexual preference, changes an emotional beat, adds dialogue, and contains several localized wording issues.",
+  "version": 1
+}

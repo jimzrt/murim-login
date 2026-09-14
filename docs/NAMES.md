@@ -46,3 +46,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 마혈 | **Paralysis Acupoint** | System condition label for temporary paralysis. |
 | 아혈 | **Mute Acupoint** | System condition label preventing speech. |
 | 분근착골 | **Tendon-Splitting and Bone-Twisting** | Cruel immobilization technique described by Mukyung. |
+| 일문일살 | **One Question, One Kill** | Jopil's alias. |
+| 군자검 | **Junzi Sword** | Epithet Jin Wikyung begins receiving after the war. |
+| 칠득이 | **Childeuk** | Jin Family servant. |
+| 천자문 | **Thousand Character Classic** | Classical text Childeuk cannot complete. |
