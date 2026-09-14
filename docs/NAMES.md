@@ -97,3 +97,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 임 팀장님 | **Team Leader Im** | Formal address for Im Changsoo used by a Sangdong Guild teammate. |
 | 프로즌 | **Frozen** | Im Chunsoo's epithet as an A-rank ice mage. |
 | K은행 | **K Bank** | Bank where Im Changsoo's transfer is reported. |
+| 김정희 | **Kim Jeonghee** | Jin Taekyung and Hayeon's mother; restaurant kitchen worker |
+| 아줌마 | **ajumma** | Familiar term for a middle-aged or married woman, used for Kim Jeonghee |
+| 사장님 | **Boss** | Address for the restaurant owner; contextually rendered as ma'am in one reply |
