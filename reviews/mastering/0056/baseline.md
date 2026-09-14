@@ -4,7 +4,7 @@ The Head Elder was the first to notice Lee Cheonbaek’s arrival.
 
 *The head himself has entered the fray.*
 
-The fierce wave of qi blasting across the gorge and the killing intent rolling with it made that obvious even without seeing him.
+The fierce wave of qi blasting across the gorge, and the killing intent rolling with it, made that obvious even without seeing him.
 
 Sure enough—
 
@@ -12,7 +12,7 @@ Sure enough—
 
 Lee Cheonbaek appeared with a thunderous roar. His half-gray hair whipped around like a mane, and his eyes burned red.
 
-The Mount Heng Sword Sect’s core forces arrived on his heels—First Rate martial artists and three Peak masters!
+The Mount Heng Sword Sect’s core forces arrived on his heels. First Rate martial artists, and three Peak masters!
 
 “Wipe out those Jin Family of Taiyuan bastards!”
 
@@ -20,11 +20,11 @@ The Mount Heng Sword Sect’s core forces arrived on his heels—First Rate mart
 
 “Waaaah!”
 
-The cheers rekindled their fading will to fight. Lee Cheonbaek surged down the path that had opened in an instant.
+The cheers rekindled the fighting spirit that had begun to fade. Lee Cheonbaek surged forward along the path that had opened in an instant.
 
 “Kill those treacherous Jin Family of Taiyuan bastards!”
 
-Jin Wikyung was not about to stand by and watch.
+Jin Wikyung was not the kind of man to stand by and watch.
 
 “The time has come.”
 
@@ -40,7 +40,7 @@ But the losses on both sides—the Jin Family of Taiyuan and the Mount Heng Swor
 
 The two great powers claimed to be the rulers of Shanxi, but compared to *them*, they were insignificant.
 
-Even in its heyday, the Jin Family of Taiyuan had been treated as nothing more than a martial family from the frontier. How could it possibly stand against them?
+Even in its former heyday, the Jin Family of Taiyuan had been treated as nothing more than a martial family from the frontier. How could it possibly stand against them?
 
 *A mere martial family…*
 
@@ -48,7 +48,7 @@ The Head Elder swallowed a bitter smile and drew his sword.
 
 Shing.
 
-For many years, he had carried two swords—one in his heart, the other at his waist.
+For many years he had carried two swords. One at his chest, the other at his waist.
 
 There was no need for more words.
 
@@ -56,13 +56,13 @@ There was no need for more words.
 
 “Please do.”
 
-Who was Blood Wolf Sword Lee Cheonbaek? A man who had founded the Mount Heng Sword Sect with nothing but a single sword and now sought to become the ruler of an entire city. Enemy or not, there was no denying he was a Peak martial artist.
+Who was Blood Wolf Sword Lee Cheonbaek? The man who had founded the Mount Heng Sword Sect with nothing but a single sword, and who now meant to become the ruler of an entire city. Enemy or not, there was no denying he was a Peak martial artist of the highest caliber.
 
 *I want to fight him.*
 
 But Jin Wikyung forced down the heat in his blood.
 
-This battle would decide the fate of his family. He had to set aside his competitive pride.
+This was a battle with the family’s fate at stake. Competitive spirit had no place here.
 
 “Wipeng.”
 
@@ -74,9 +74,9 @@ Wipeng had already drawn his sharp, narrow blade and taken his place at Jin Wiky
 
 “As you command.”
 
-There was not a trace of hesitation in his answer. Jin Wikyung smiled faintly and drew his own sword—the treasured blade passed down through generations of the Jin Family of Taiyuan.
+There was not a trace of hesitation in the answer. Jin Wikyung smiled faintly and drew his own sword—the family’s treasured blade, passed down through generations of the Jin Family of Taiyuan.
 
-It was the only thing his father had left behind when he vanished one day without a trace.
+It was the only thing left behind by the father who had vanished one day without a trace.
 
 *I’m going to travel around the Central Plains for a while.*
 
@@ -86,27 +86,27 @@ Remembering the letter that had been stuffed carelessly into the scabbard, Jin W
 
 *Travel around the Central Plains, my ass. You spent your whole life having fun.*
 
-He had no idea where that so-called Family Head was or what he was doing. And his second brother, thousands of li away, had probably only just received the letter.
+He didn’t even know where that so-called Family Head was, or what he was doing. And his second brother, thousands of li away, had probably only just received the letter.
 
 *I have to protect them.*
 
 Martial artists, maids, servants, children.
 
-Jin Wikyung was now the Family Head of the Jin Family of Taiyuan. No one else.
+Jin Wikyung was the Family Head of the Jin Family of Taiyuan now. No one else.
 
 Their deaths and their survival were his to carry, and his alone.
 
 *We will win.*
 
-Jin Wikyung’s eyes flared wide. He raised his sword, and an Azure Dragon’s Roar burst from his mouth.
+Jin Wikyung’s eyes flared wide. Sword raised, an Azure Dragon’s Roar burst from his mouth.
 
 “Don’t let a single one of them live!”
 
 Whoosh, whoosh, whoosh!
 
-The Jin Family’s masters kicked off the ground and soared into the air. At the signal, a single fire arrow shot high into the sky behind them.
+The Jin Family’s masters kicked off the ground and leaped into the air. Taking that as the signal, a single fire arrow rose high behind them.
 
-At the same moment, dozens of figures rose along the cliffs.
+That was when dozens of figures stood up along the cliffs.
 
 “Fire!”
 
@@ -116,15 +116,15 @@ Beneath arrows pouring down like a sudden rain, the fight between the masters wh
 
 Blood Wolf Sword Lee Cheonbaek was a born martial artist.
 
-With his innate talent for martial arts and beastlike instincts, he had cut down his enemies and realized one ambition after another.
+With innate talent for martial arts and beastlike instincts, he had cut down his enemies and realized his ambitions one after another.
 
-He founded the Mount Heng Sword Sect, then strengthened it by absorbing the surrounding factions one by one. He meant to lay the foundation for a prestigious house that would one day be recognized even in the Central Plains.
+He had founded the Mount Heng Sword Sect and grown its strength by absorbing the surrounding factions one by one. His aim was to lay the foundation for a prestigious house that would one day be recognized even in the Central Plains.
 
 *Sect Leader! The Young Master…*
 
 Then, one day, his second son came home a corpse.
 
-He had not died in a fair duel. Deadly poison had taken him, leaving him to die with blood pouring from all seven orifices.
+It had not been a fair duel. Deadly poison had taken him, and he had died with blood pouring from all seven orifices.
 
 Lee Cheonbaek swore an oath.
 
@@ -132,13 +132,13 @@ He would kill and burn everything connected to the Jin Family of Taiyuan.
 
 And then Jin Wikyung appeared before his eyes.
 
-Flames blazed in Lee Cheonbaek’s eyes.
+Lee Cheonbaek’s eyes blazed.
 
 “You bastard—!”
 
-He charged like a beast. His blade, filled with sixty years of internal energy, shone milky white.
+He charged like a beast. The blade, holding sixty years of internal energy, shone milky white.
 
-With this much power, it could cut through any armor or divine weapon.
+With this much power, it could cut through any armor, any divine weapon.
 
 *That bastard dies here!*
 
@@ -146,13 +146,13 @@ Just as Lee Cheonbaek, sure of it, was about to swing—
 
 “Oho. Sword Energy?”
 
-A low voice came from behind him.
+A low voice, from behind him.
 
-Lee Cheonbaek’s heart dropped.
+Lee Cheonbaek’s heart sank.
 
 *How?*
 
-He had given up his back far too easily. His reaction was lightning-fast. Gripping his sword in reverse, he thrust it behind him.
+To give up his back so cheaply. His reaction was lightning-fast. He drove the sword backward in a reverse grip.
 
 Whoosh.
 
@@ -162,7 +162,7 @@ A beard hanging down to his chest. A relaxed smile at the corners of his mouth.
 
 A white-haired old man.
 
-Lee Cheonbaek recognized him at once.
+Lee Cheonbaek knew him at once.
 
 “Blade of Flowers?”
 
@@ -172,13 +172,13 @@ The Head Elder nodded.
 
 “That’s right.”
 
-Even as he answered, Lee Cheonbaek felt a chill run down his spine.
+Even as he answered, a chill ran down Lee Cheonbaek’s spine.
 
-He did not dare look for Jin Wikyung or check how the battle was going. If he took his eyes off the old man, he felt as though his head would come off on the spot.
+He didn’t dare look for Jin Wikyung, or check how the battle was going. Take his eyes off the old man, and he felt his head would come off on the spot.
 
 *Coincidence? No.*
 
-It was true that seeing Jin Wikyung had agitated him beyond reason. It was true that impatience had gotten the better of him.
+It was true that seeing Jin Wikyung had agitated him past reason. It was true that he had been impatient.
 
 But Lee Cheonbaek was a Peak master.
 
@@ -188,7 +188,7 @@ The answer was already clear.
 
 *A master!*
 
-Whether the difference was a full form or half of one, the old man before him was a master a league above Lee Cheonbaek.
+Whether in one form or half a form, the old man in front of him was a master a league above Lee Cheonbaek.
 
 Lee Cheonbaek tightened his grip on his beloved sword.
 
@@ -196,7 +196,7 @@ Lee Cheonbaek tightened his grip on his beloved sword.
 
 “Reputation? I’m nothing more than an old man in the back room.”
 
-“Then why not stay in the back room? What did you come out for?”
+“Then why leave the back room?”
 
 “You’re still a young fellow, so there’s a lot you don’t know. The older you get, the more you have to get moving now and then.”
 
@@ -208,7 +208,7 @@ He had been watching the Jin Family of Taiyuan for a long time.
 
 He knew there was a faction centered on the Head Elder that opposed the Family Head. He had even privately hoped the family would split from within.
 
-Instead, events had taken the exact opposite turn.
+But things had gone the opposite of what he had expected.
 
 *So when an outside enemy invades, they unite as one?*
 
@@ -220,7 +220,7 @@ Lee Cheonbaek stared at the Head Elder with heavy eyes, then opened his mouth.
 
 “Word games.”
 
-“I was thirty when they called me Blade of Flowers.”
+“When I was called Blade of Flowers, I was thirty.”
 
 At thirty, the Head Elder had already been a Peak martial artist.
 
@@ -228,7 +228,7 @@ Now he was a man of seventy. How had his martial arts changed since then?
 
 After a moment’s thought, Lee Cheonbaek let out a wry laugh.
 
-*I’ve grown old too.*
+*I’m getting old, too.*
 
 Blood Wolf Sword.
 
@@ -244,15 +244,15 @@ Blood relatives, subordinates, wealth.
 
 The things he had to protect had piled up like a mountain.
 
-He spent less time training and more time managing the sect. When the moment came to act, he stopped to think instead.
+Time spent training shrank; time spent on affairs grew. When it was time to act, he started thinking instead.
 
-Just as he was doing now.
+Just as he was now.
 
 “Why are you laughing?”
 
 Lee Cheonbaek answered the Head Elder’s question.
 
-“Because I find myself pathetic.”
+“I’m laughing because I find myself pathetic.”
 
 “You’re afraid of me.”
 
@@ -270,7 +270,7 @@ Lee Cheonbaek nodded in silence.
 
 “You have to measure them to know which is longer, don’t you?”
 
-“That’s what the short ones always say. They don’t realize the result stays the same after you measure.”
+“That’s what the short ones always say. They never realize that even after you measure, the result doesn’t change.”
 
 “Your tongue is sharp.”
 
@@ -284,15 +284,15 @@ It looked like an ordinary blue-steel sword, but the moment it entered his hand,
 
 Lee Cheonbaek did not refuse.
 
-The blade drew in sixty years of internal energy, raising a shimmering haze of light.
+The blade, having drawn in sixty years of internal energy, raised a shimmering haze of light.
 
 The realm of Sword Energy Frost Blade—a realm countless martial artists dreamed of reaching.
 
 Tssss.
 
-The moment the Sword Energy rose three inches—about ten centimeters—Lee Cheonbaek shot forward.
+The moment the Sword Energy rose three inches—about ten centimeters—Lee Cheonbaek’s body shot forward.
 
-The unique martial art he had perfected through countless real battles unfolded from his fingertips.
+A unique martial art, perfected through countless real battles, unfolded from his fingertips.
 
 Whoosh! Whoosh-whoosh-whoosh!
 
@@ -308,7 +308,7 @@ Every voice was a young man’s.
 
 A red warning light went on in Lee Cheonbaek’s mind.
 
-*Behind me!*
+*Behind!*
 
 He spun and swung at the same time.
 
@@ -320,7 +320,7 @@ Boom!
 
 *Kh.*
 
-The thunderous impact sent Lee Cheonbaek reeling backward. He was not even given time to register the pain in his wrist.
+Lee Cheonbaek fell back in a daze amid the thunderous crash. He was not even given time to feel the pain in his wrist.
 
 Boom! Boom! Boom!
 
@@ -356,17 +356,17 @@ Whoosh—slice!
 
 “Ghk.”
 
-Lee Cheonbaek bit his lip.
+Lee Cheonbaek bit down on his lip.
 
 Blood streamed from the forearm the Head Elder’s sword had raked.
 
-The strength drained from his sword hand.
+The strength drained from the hand on his sword.
 
 *Of all things.*
 
-He quickly shifted the sword to his other hand, but he was a right-handed swordsman by nature.
+He shifted the sword to his other hand at once, but he was a right-handed swordsman by nature.
 
-Even at full power he would have been hard-pressed. Now that his sword arm was injured, the outcome was all but decided.
+Even at full power he would have been hard-pressed. Now that the arm he used to wield a sword was injured, the outcome was all but decided.
 
 Boom!
 
@@ -380,9 +380,9 @@ But Lee Cheonbaek did not give up.
 
 *Not yet. It isn’t over yet.*
 
-He had suffered worse injuries than this countless times.
+He had taken worse injuries than this, plenty of times.
 
-Drawing on the strength in his arm, waist, and legs, Lee Cheonbaek swung his sword.
+Using the strength in his arm, his waist, his legs, Lee Cheonbaek swung his sword.
 
 No—he tried to.
 
@@ -390,7 +390,7 @@ Slash!
 
 This time, it was the knee.
 
-With its tendons severed, the knee buckled slowly, with no regard for Lee Cheonbaek’s will.
+The tendons had been cut, and the knee buckled slowly, with no regard for Lee Cheonbaek’s will.
 
 His sword carved uselessly through empty air.
 
@@ -398,15 +398,15 @@ Shhk. Shhk-shhk-shhk.
 
 His side. His shoulder. His chest.
 
-Lightning stabbed and sliced through his entire body. The fierce Sword Energy did more than cut through flesh and bone—it churned his insides.
+Lightning stabbed and sliced through his whole body. The fierce Sword Energy did more than cut flesh and bone—it churned his insides.
 
 “Bleeegh!”
 
-Lee Cheonbaek vomited blood mixed with pieces of his organs and looked up at the Head Elder through clouded eyes.
+Lee Cheonbaek vomited blood mixed with pieces of organ and looked up at the Head Elder through clouded eyes.
 
 The old man’s face was impassive.
 
-There was no thrill at having defeated his opponent. No joy that the war was ending.
+No joy at having put his opponent down. No delight that the war was ending.
 
 To him, all of this was simply the natural result.
 
@@ -420,31 +420,31 @@ To him, all of this was simply the natural result.
 
 “Why…!”
 
-“Don’t ask me that. If you had won, our family would have been the one facing annihilation.”
+“Don’t ask me that. If you had won, it would have been this family facing annihilation.”
 
 Lee Cheonbaek glared at the Head Elder with bloodshot eyes.
 
 He wanted to snap that wrinkled neck then and there.
 
-But with wounds this severe, all he could do was wring out a voice.
+But in his condition, all a man with wounds like his could do was wring out a voice.
 
-“The Jin Family of Taiyuan… You bastards started this, didn’t you? You killed that young boy—my son!”
+“Jin Family of Taiyuan. You started this, didn’t you? You killed that boy—my son!”
 
 “Ah, Lee Seogeun. That’s right. That child was where it began.”
 
 The Head Elder wore a sardonic smile.
 
-Even the master of the Mount Heng Sword Sect, one of the two powers that divided Shanxi between them, had failed to notice *their* intervention.
+Even the master of the Mount Heng Sword Sect, one of the two powers splitting Shanxi between them, had failed to notice *their* intervention.
 
-Not even now, with death at his doorstep.
+Not even with death at his doorstep.
 
 —When you meet King Yama, ask him. Ask who killed Lee Seogeun.
 
-The Sound Transmission burrowed into Lee Cheonbaek’s ear, and his eyes flew wide.
+The Sound Transmission burrowing into his ear made Lee Cheonbaek’s eyes flare wide.
 
 “What does that mean…?”
 
-It was a thoroughly impulsive act.
+It had been a thoroughly impulsive act.
 
 Perhaps pity for Lee Cheonbaek, who was about to die knowing nothing.
 
@@ -458,13 +458,13 @@ The sunset beyond the winter ridge shattered into fragments along the blade.
 
 *With this…*
 
-With the death of the giant known as Lee Cheonbaek, the Mount Heng Sword Sect would collapse.
+With the death of the giant called Lee Cheonbaek, the Mount Heng Sword Sect would collapse.
 
-Those who resisted would die. Those who surrendered would be taken prisoner.
+Those who resisted would die. Those who surrendered would be taken.
 
 One war would end like that…
 
-And a new war would begin at the very moment everyone was drunk on victory.
+And a new war would begin, at the very moment everyone was drunk on victory.
 
 *It’s over.*
 
@@ -472,15 +472,15 @@ At last, the Head Elder’s sword moved.
 
 Screeeech—!
 
-A sharp sound tore through the air.
+A sharp sound tore the air.
 
-Sensing his end, Lee Cheonbaek closed his eyes.
+Sensing the end, Lee Cheonbaek closed his eyes.
 
-The blade wrapped in blue Sword Energy traced a beautiful line.
+The blade, wrapped in blue Sword Energy, traced a beautiful line.
 
 Slice.
 
-But both the tearing sound that had come first and the direction of the sword defied Lee Cheonbaek’s expectations.
+But the tearing sound that had come first, and the direction of the sword, were both beyond Lee Cheonbaek’s expectations.
 
 The Head Elder split a spear that came flying at his back out of nowhere, cutting it apart with Sword Energy.
 
