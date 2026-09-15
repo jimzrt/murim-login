@@ -1,6 +1,6 @@
 # Im Kkeokjeong (임꺽정)
 
-- **Safe through:** Chapter 209
+- **Safe through:** Chapter 213
 - **Aliases:** Im Hyeokjun; Kkeokjeong hyung; Uncle Kkeokjeong
 - **Role:** D-rank Hunter; veteran tank in the Peace Guild’s Gate party and current member of the Peace Guild
 - **Personality:** Good-natured, sociable, modest about his family, and shamelessly confident about their age difference

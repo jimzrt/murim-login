@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "It stood two meters tall. A massive, gray-furred, bipedal wolf stood with nothing above its shoulders. I had blown its head off through sheer strength alone.",
+      "defect": "The repeated claim that the wolf “stood” contradicts the immediately preceding action, in which its body was driven into the ground. The source gives its height and appearance without saying it remained standing.",
+      "id": "F01",
+      "rationale": "The source describes the fallen creature’s two-meter stature and headless body; it does not reverse its fall by placing it on its feet.",
+      "replacement": "It was two meters tall—a massive, gray-furred, bipedal wolf with nothing left above its shoulders. I had blown its head off through sheer strength alone.",
+      "severity": "critical",
+      "source": "2m에 달하는 신장. 회색 털로 뒤덮인 거대한 이족 보행 늑대의 어깨 위에는 아무것도 없었다. 단순히 힘만으로 놈의 목을 날려 버린 것이다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "> **Myeongdong Station Mutated Gate Catastrophe, More Than 30 Dead Including A-Rank Hunter Do Minsu… Surviving Won Myunghoon: “Minsu, I’m Sorry.”**",
+      "defect": "“More than 30” changes the reported death toll. The source says approximately thirty people, not a number exceeding thirty.",
+      "id": "F02",
+      "rationale": "The quantity marker 여 means “around” or “approximately” in 30여 명.",
+      "replacement": "> **Myeongdong Station Mutated Gate Catastrophe, Around 30 Dead Including A-Rank Hunter Do Minsu… Surviving Won Myunghoon: “Minsu, I’m Sorry.”**",
+      "severity": "critical",
+      "source": "[명동역 변이 게이트 대참사, A급 헌터 도민수 포함 30여 명 사망…… 살아남은 원명훈 “민수야, 미안하다.”]"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Someone must have seen us meeting and spread a speculative article, but I’ve already lodged a complaint with the media outlet and had them issue an immediate statement clarifying our position.",
+      "defect": "The draft makes the media outlet issue the clarification. The source says Won protested to the outlet and took steps for an immediate position statement to be released, without assigning that statement to the outlet.",
+      "id": "F03",
+      "rationale": "The object of 항의하고 is the media outlet, while the omitted subject of 입장 발표하도록 조치했습니다 is not established as that outlet.",
+      "replacement": "Someone must have seen us meeting and spread a speculative article, but I’ve already lodged a complaint with the media outlet and arranged for an immediate statement to be released.",
+      "severity": "critical",
+      "source": "아마 우리가 만나는 걸 누가 보고 추측성 기사를 뿌린 것 같은데…… 해당 언론사에 항의하고 즉각 입장 발표하도록 조치했습니다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Maybe I had simply gotten used to thinking of him as Team Leader Choi.\n\nThere was something subtly uneasy about his expression.",
+      "defect": "The draft says Taekyung has become accustomed to thinking of Choi by his title. The source says Taekyung has become familiar enough with Choi as a person to notice his subtle discomfort.",
+      "id": "F04",
+      "rationale": "최 팀장이라는 사람이 익숙해진 refers to familiarity with the person, providing the causal basis for Taekyung reading his mood.",
+      "replacement": "Maybe it was because I’d gotten used to Team Leader Choi by now.\n\nThere was something subtly uneasy about his expression.",
+      "severity": "major",
+      "source": "이제는 최 팀장이라는 사람이 익숙해진 탓일까?\n\n그의 모습에서 묘하게 껄끄러운 기색이 보인다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "> **System**\n> - You have defeated **[Lv. 73 Lycanthrope]**!\n> - You have gained EXP!",
+      "defect": "The System term is incorrectly enclosed in square brackets, contrary to the required System-panel format.",
+      "id": "F05",
+      "rationale": "The blockquote and System heading already identify the UI window, so System notices and terms must not retain outer square brackets.",
+      "replacement": "> **System**\n> - You have defeated **Lv. 73 Lycanthrope**!\n> - You have gained EXP!",
+      "severity": "minor",
+      "source": "- [Lv.73 라이칸스로프]를 처치하셨습니다!\n\n- 경험치를 획득했습니다!"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Come on, you motherfuckers.”",
+      "defect": "“Motherfuckers” intensifies the profanity and loses the canine wordplay of 개새끼들 when Taekyung is addressing wolf monsters.",
+      "id": "F06",
+      "rationale": "“Sons of bitches” preserves both the source’s strong insult and its literal dog-related joke without increasing the explicitness.",
+      "replacement": "“Come on, you sons of bitches.”",
+      "severity": "minor",
+      "source": "“들어와, 이 개새끼들아.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "> **System**\n> - You have defeated **[Lv. 83 Silver-Mane Lycanthrope]**!\n> - You have perfectly cleared the **B-Rank Gate, [The Lycanthrope’s Black Forest]**!\n> - You have gained a substantial amount of EXP!\n> - The exit has opened because you defeated the boss monster.",
+      "defect": "Two System terms are incorrectly enclosed in square brackets, contrary to the required System-panel format.",
+      "id": "F07",
+      "rationale": "The System window’s framing replaces the source UI brackets; the level designation and Gate name should remain unbracketed.",
+      "replacement": "> **System**\n> - You have defeated **Lv. 83 Silver-Mane Lycanthrope**!\n> - You have perfectly cleared the **B-Rank Gate, The Lycanthrope’s Black Forest**!\n> - You have gained a substantial amount of EXP!\n> - The exit has opened because you defeated the boss monster.",
+      "severity": "minor",
+      "source": "- [Lv.83 은빛 갈기 라이칸스로프]를 처치하셨습니다!\n\n- B급 게이트, [라이칸스로프의 검은 숲]을 완벽하게 클리어하셨습니다!\n\n- 상당량의 경험치를 획득했습니다!\n\n- 보스 몬스터를 처치했으므로 출구가 열립니다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "“Look it up. Everything comes up if you search Sonamu Wiki.”\n\n“People say you should stay off Sonamu Wiki.”",
+      "defect": "The unlisted Korean name 소나무 is romanized without explaining its meaningful literal sense.",
+      "id": "F08",
+      "rationale": "A concise first-use footnote preserves the name while conveying the Korean meaning that an English reader cannot recover from the romanization alone.",
+      "replacement": "“Look it up. Everything comes up if you search Sonamu Wiki.[^1]”\n\n“People say you should stay off Sonamu Wiki.”\n\n[^1]: *Sonamu* means “pine tree” in Korean.",
+      "severity": "minor",
+      "source": "“검색해 보세요. 소나무 위키에 검색하면 다 뜨는데.”\n\n“사람들이 소나무 위키는 끄라고 하던데요.”"
+    }
+  ],
+  "summary": "The draft contains three scene-fact or subject errors, one characterization-related causal mistranslation, two System-format violations, and two localized register or terminology issues.",
+  "version": 1
+}
