@@ -22,11 +22,11 @@ flowchart TD
     A[Korean source] --> B[Context builder]
 
     subgraph Ctx[Context]
-        C1[Translation rules]
-        C2[Terminology / names]
+        C1[Rules]
+        C2[Terminology]
         C3[Character profiles]
-        C4[Bounded continuity]
-        C5[Previous summaries]
+        C4[Continuity]
+        C5[Summaries]
     end
 
     C1 --> B
