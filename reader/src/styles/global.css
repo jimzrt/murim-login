@@ -1269,17 +1269,45 @@ html[data-scroll-locked="1"] body {
   appearance: none;
 }
 
+.jump-to-current {
+  display: inline-flex;
+  align-items: center;
+  margin-top: 0.55rem;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: var(--accent);
+  font: inherit;
+  font-size: 0.88rem;
+  font-weight: 650;
+  cursor: pointer;
+}
+
+.jump-to-current:hover {
+  text-decoration: underline;
+}
+
 .jump-results {
-  list-style: none;
   margin: 0.55rem 0 0;
   padding: 0;
   max-height: 22rem;
   overflow: auto;
 }
 
+.jump-results__space {
+  position: relative;
+  width: 100%;
+}
+
 .jump-option {
-  display: block;
-  padding: 0.45rem 0.2rem;
+  box-sizing: border-box;
+  position: absolute;
+  left: 0;
+  right: 0;
+  display: flex;
+  align-items: center;
+  height: 40px;
+  padding: 0 0.2rem;
   color: var(--ink);
   text-decoration: none;
 }
