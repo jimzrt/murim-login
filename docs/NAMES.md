@@ -214,3 +214,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 혼주지부장 | **Honju Branch Leader** | Leader of the Lower District Sect's Honju Branch. |
 | 총지부장 | **Chief Branch Leader** | Title Wolhwa holds within the Lower District Sect. |
 | 송이 | **Song-i** | Short form used for Song Song; Taekyung's love interest. |
+| 진무보법 | **Jin Family's Manoeuvre Technique** | Named Jin Family footwork technique mastered by Taekyung. |

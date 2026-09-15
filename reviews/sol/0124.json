@@ -1,0 +1,106 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Some very grateful person gave it to me before he left.”",
+      "defect": "“Very grateful person” makes the giver feel gratitude, whereas the Korean describes him ironically as someone worthy of the narrator’s gratitude.",
+      "id": "F01",
+      "rationale": "고마우신 분 characterizes the giver as someone the speaker is grateful to, not as someone who is himself grateful.",
+      "replacement": "“Some generous soul gave it to me before he left.”",
+      "severity": "major",
+      "source": "“어떤 고마우신 분이 주고 가셨지.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "**Effect:** Acquire Flame Divine Palm.",
+      "defect": "The imperative “Acquire” does not match the source’s nominal description of the item’s effect.",
+      "id": "F02",
+      "rationale": "습득 is presented as the resulting acquisition of the technique, not as a command to the reader.",
+      "replacement": "**Effect:** Acquisition of Flame Divine Palm.",
+      "severity": "minor",
+      "source": "효과 : [화염신장]의 습득"
+    },
+    {
+      "confidence": 0.99,
+      "current": "It was suspicious enough that Jopil had been living as a wandering martial artist despite having mastered a Supreme Peak martial art.",
+      "defect": "“Mastered” overstates Jopil’s proficiency; the source says only that he learned the martial art.",
+      "id": "F03",
+      "rationale": "익힌 establishes acquisition or training, not full mastery, which matters because Jopil’s unexpectedly poor ability is the mystery under discussion.",
+      "replacement": "It was suspicious enough that Jopil had been living as a wandering martial artist despite having learned a Supreme Peak martial art.",
+      "severity": "major",
+      "source": "초절정 무공을 익힌 조필이 낭인 짓을 하고 있다는 것부터가 수상하긴 하다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Count the fingers on your hands and feet. How many are there altogether?”",
+      "defect": "The draft incorrectly calls toes “fingers.”",
+      "id": "F04",
+      "rationale": "손, 발가락 refers to the fingers and toes whose combined total is twenty.",
+      "replacement": "“Count your fingers and toes. How many are there altogether?”",
+      "severity": "minor",
+      "source": "“네 손, 발가락을 합해 봐라. 모두 몇 개냐?”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“…Holy shit.”",
+      "defect": "The draft adds strong profanity absent from the mild, astonished exclamation in the source.",
+      "id": "F05",
+      "rationale": "오우야 expresses surprised awe here without the vulgar force of “Holy shit.”",
+      "replacement": "“…Whoa.”",
+      "severity": "major",
+      "source": "“……오우야.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "It wasn’t those Three Saints, but whatever.",
+      "defect": "The translation loses the explicit Korean pun between 삼성, the title just mentioned, and Samsung, the company familiar to the modern narrator.",
+      "id": "F06",
+      "rationale": "The repeated 삼성이 그 삼성 contrasts two meanings of the same pronunciation; the existing line conveys only a vague distinction and omits the joke.",
+      "replacement": "I meant Samsung,[^1] not the Three Saints, but whatever.\n\n[^1]: The Korean name “Samsung” is pronounced *Samseong*, the same as the Korean term rendered here as “Three Saints.”",
+      "severity": "minor",
+      "source": "이 삼성이 그 삼성이 아니지만 어쨌든."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Perhaps the Fire King still wasn’t satisfied.",
+      "defect": "The draft weakens the specific motive from unappeased anger to generic dissatisfaction.",
+      "id": "F07",
+      "rationale": "분이 안 풀리다 specifically means that one’s anger has not subsided or been vented, explaining his subsequent year-long assault on the Demonic Cult.",
+      "replacement": "Perhaps that still hadn’t been enough to quell the Fire King’s anger.",
+      "severity": "major",
+      "source": "화왕은 그것으로 분이 안 풀렸는지 일 년 동안 눈에 보이는 마교도들을 전부 박살 내고 다시 은거했으니까."
+    },
+    {
+      "confidence": 0.97,
+      "current": "he had more than enough strength to return to the Jin Family of Taiyuan.",
+      "defect": "“More than enough” increases the stated degree of recovery; the source says his energy was sufficient.",
+      "id": "F08",
+      "rationale": "충분했다 establishes sufficiency, not a surplus, while the preceding clause emphasizes that he remained incompletely recovered.",
+      "replacement": "he had enough strength to return to the Jin Family of Taiyuan.",
+      "severity": "minor",
+      "source": "태원진가로 복귀할 수 있을 만한 기력은 충분했다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "She had come out ahead of time to see us off.",
+      "defect": "The pronoun’s immediate antecedent in English is the female Lower District Sect coachman, incorrectly assigning Wolhwa’s action and ensuing dialogue to her.",
+      "id": "F09",
+      "rationale": "그녀 refers to Wolhwa, who is present to see the group off and speaks in the following paragraph; naming her removes the erroneous English antecedent.",
+      "replacement": "Wolhwa had come out ahead of time to see us off.",
+      "severity": "critical",
+      "source": "그녀는 우리를 배웅하기 위해 먼저 나와 있었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "*What the hell was that attitude?*",
+      "defect": "The draft replaces Taekyung’s direct, vulgar insult with an explanatory complaint about Mujin’s attitude, softening both the profanity and the comic reaction.",
+      "id": "F10",
+      "rationale": "이 새끼가 is a blunt insult directed at Mujin; it does not explicitly mention his attitude.",
+      "replacement": "*Why, this little shit…*",
+      "severity": "major",
+      "source": "아니, 이 새끼가?"
+    }
+  ],
+  "summary": "Several actionable fidelity and register issues, including a misassigned subject, altered proficiency, reversed gratitude, lost wordplay, and changed profanity.",
+  "version": 1
+}
