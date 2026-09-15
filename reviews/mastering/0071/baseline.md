@@ -1,20 +1,20 @@
 # Chapter 71
 
-The Jin Family’s Spear Technique consisted of seven forms. The last of them, Sky-Piercing Strike, smashed into the steel dummy.
+The Jin Family’s Spear Technique consisted of seven forms in total. The final form, Sky-Piercing Strike, smashed into the steel dummy.
 
 Boom!
 
-With a deafening crash, the dummy’s chest caved in and it slammed into the wall. As I drew back my spear, Jin Mukyung’s voice reached my ears.
+With a deafening crash, the steel dummy’s chest caved in and it slammed into the wall. As I withdrew my spear, Jin Mukyung’s voice reached my ears.
 
 “The Jin Family’s Spear Technique is passable.”
 
 “Uh, yes.”
 
-“The Jin Family’s Manoeuvre Technique is about the same.”
+“The Jin Family’s Manoeuvre Technique is similar.”
 
 Wait. Had I ever told him what martial arts I had learned?
 
-As I searched my memory, Jin Mukyung let out a quiet laugh.
+As I searched my memory, Jin Mukyung gave a quiet laugh.
 
 “Do you know why I entered Heaven’s Gate Temple?”
 
@@ -22,13 +22,13 @@ As I searched my memory, Jin Mukyung let out a quiet laugh.
 
 “…That’s not entirely wrong.”
 
-He muttered under his breath and nodded, then suddenly caught himself.
+He muttered under his breath and nodded, then suddenly came to his senses.
 
 “Ahem. There was a more important reason than that.”
 
 “What was it?”
 
-“There were no martial arts left for me to learn in our family.”
+“There was nothing left for me to learn in our family.”
 
 “What?”
 
@@ -52,7 +52,7 @@ He muttered under his breath and nodded, then suddenly caught himself.
 
 *It’s different to me.*
 
-*I’ve learned to use several different weapons, too, but…*
+*I’ve learned several different weapons, too, but…*
 
 My situation was completely different from Jin Mukyung’s. That had not been martial arts. It had been a desperate struggle to survive my battles with monsters.
 
@@ -66,9 +66,11 @@ Shing.
 
 Jin Mukyung drew his sword and stood before the steel dummy.
 
-He flexed his hands for a moment to warm up, then murmured, “Let’s try it like this.”
+After casually warming up with a few movements of his hands, he spoke in a quiet voice.
 
-His legs crossed in a blur. A flash followed, slamming into the steel dummy’s chest.
+“Let’s try this.”
+
+His legs crossed rapidly. A flash shot out right after and slammed into the steel dummy’s chest.
 
 Swoooosh! Boom!
 
@@ -78,29 +80,29 @@ I was speechless. The form was slightly different, but the movements were famili
 
 “Sky-Piercing Strike. The final form of the Jin Family’s Spear Technique. Though in this case, I suppose I should call it the Jin Sword Technique.”
 
-For a moment, I could not speak. Then I remembered something I had briefly forgotten.
+For a moment, I could not speak. Then I remembered something I had temporarily forgotten.
 
 Jin Mukyung was a genius. An ordinary person might struggle just to finish a bowl of plain rice, but Jin Mukyung could digest an eight-dish spread without trouble.
 
 *Genius. Genius. I’d only ever heard the word before.*
 
-By adding and removing just a few simple movements, he had transformed the Jin Family’s Spear Technique into a sword technique.
+With just a few simple changes to the movements, he had transformed the Jin Family’s Spear Technique into a sword technique.
 
-A genius of martial arts. The rumors had not been exaggerated in the slightest.
+He truly was a genius of martial arts. The rumors had not been exaggerated.
 
 *This bastard… He’s the real deal.*
 
 The System helped its user grow quickly. It did not turn them into a genius. But Jin Mukyung had been born one.
 
-The move he had just shown me was probably no more than the tip of the iceberg. The thought sent a chill down my spine.
+The move he had just shown me had probably been no more than the tip of the iceberg. A chill ran down my spine.
 
 “Are you listening to me?”
 
-His cold voice snapped me back to my senses.
+I only came to my senses when I heard his cold voice.
 
 “Ah, yes.”
 
-“Your hyung went to the trouble of giving you a demonstration, and you dare let your mind wander?”
+“Your hyung went to the trouble of giving you a demonstration, and you dare look away?”
 
 Flick!
 
@@ -120,7 +122,7 @@ My vision flashed. Jin Mukyung watched me suffer with satisfaction before speaki
 
 Jin Mukyung’s face flushed red as he shouted.
 
-“You made me forget!”
+“I forgot because of you!”
 
 Whack!
 
@@ -132,29 +134,29 @@ In the end, Jin Mukyung chose conversation as his method.
 
 A physical conversation.
 
-“You don’t understand when things are explained in words. It’ll be faster for you to experience them with your body.”
+“You don’t understand very well when things are explained verbally. It’s faster for you to experience them with your body.”
 
 “W-Wait a moment.”
 
-“There’s no ‘wait a moment’ in real combat. Would you say that to someone who came to kill you? ‘I’m nervous, so I need to take a piss first.’ Do you think he’d tell you to go take a shit while you’re at it?”
+“There’s no such thing as ‘wait a moment’ in real combat. Would you say that to someone who came to kill you? ‘I’m nervous, so I’ll go take a piss first.’ Would you expect him to say, ‘Then go take a shit, too’?”
 
 “We’re sparring right now!”
 
-“Huh? Informal speech again. You’re dead.”
+“Huh? You’re using informal speech again. You’re dead.”
 
-Jin Mukyung tightened his grip on his wooden sword and charged at me like a leopard.
+Jin Mukyung gripped his wooden sword tightly and charged at me like a leopard.
 
-I threw myself aside without waiting to see what happened.
+I launched myself away without waiting to see what happened.
 
 Boom!
 
-Leaving the bone-rattling crash behind me, I snatched a wooden practice spear from the rack. An ominous voice followed close behind.
+Leaving the bone-rattling crash behind me, I snatched a wooden practice spear from the rack. An ominous voice followed me.
 
 “From now on, I’ll teach you a lesson.”
 
 Swoooosh!
 
-The sound of air tearing was anything but ordinary. I turned and swung my spear at the same time, but I was already too late. The faintly upturned corner of Jin Mukyung’s mouth was right in front of me.
+The sound of the air being torn apart was anything but ordinary. I turned and swung my spear at the same time, but I was already too late. The faintly upturned corner of Jin Mukyung’s mouth was right in front of me.
 
 “First.”
 
@@ -162,23 +164,23 @@ Thud!
 
 His fist shot up from below and struck my lower jaw. My feet left the ground against my will.
 
-Through my wavering vision, Jin Mukyung’s voice continued.
+Through my shaking vision, Jin Mukyung’s voice continued.
 
 “When fighting someone more skilled than yourself, be cautious.”
 
-The next moment, Jin Mukyung’s palm struck my chest. With a bang like a bursting balloon, I flew backward and slid all the way to the wall.
+The next moment, Jin Mukyung’s palm struck my chest. With a bang like a bursting balloon, I flew backward and slid all the way into the wall.
 
 “Cough.”
 
-My organs did not spill out along with a mouthful of blood. When I lifted my head, I saw Jin Mukyung slowly walking toward me.
+My organs did not spill out with a mouthful of blood. When I lifted my head, I saw Jin Mukyung slowly walking toward me.
 
-“You scared little brat. Did you really think your hyung would use internal energy against his younger brother?”
+“You’re such a coward. Did you really think your hyung would use internal energy against his younger brother?”
 
 I answered gruffly.
 
 “Then throw away the wooden sword.”
 
-“I can’t. It feels better with this.”
+“I can’t. The feel of hitting things is better with this.”
 
 That was the confidence of the strong. Even so, he was not careless enough to discard his weapon.
 
@@ -192,23 +194,23 @@ Especially when it came to me.
 
 “What?”
 
-The smile vanished from Jin Mukyung’s face. I was afraid of what he might do to me later, but that was a problem for later. Right now, I wanted to beat the bastard in front of me somehow.
+The smile disappeared from Jin Mukyung’s face. I was afraid of what he’d do to me later, but that was a problem for later. Right now, I wanted to beat the bastard in front of me somehow.
 
 “I asked if you chickened out.”
 
 “I don’t really know what that means… but it’s really pissing me off.”
 
-The instant I finished speaking, Jin Mukyung rushed at me. His movements were noticeably rougher than before. I knocked aside the wooden sword descending toward my shoulder with the shaft of my spear.
+The moment I finished speaking, Jin Mukyung rushed toward me. His movements were noticeably rougher than before. I knocked aside the wooden sword descending toward my shoulder with the shaft of my spear.
 
 Krrrk.
 
 *Did they coat this wooden sword with glue?*
 
-I needed to open up some distance, but the sword would not come away. It coiled around my spear shaft like a snake and thrust toward me.
+I needed to widen the distance, but the sword would not come away. It wrapped around my spear shaft like a snake and stabbed inward.
 
 “What the hell is this?”
 
-“What else? The Jin Family’s Spear Technique. No, the Jin Sword Technique.”
+“What else would it be? The Jin Family’s Spear Technique. No, the Jin Sword Technique.”
 
 *The Jin Sword Technique? This?*
 
@@ -218,27 +220,27 @@ I needed to open up some distance, but the sword would not come away. It coiled 
 
 “That’s cheating!”
 
-“Second. Never forget that while you were drinking yourself stupid with women, I was training in blood and sweat.”
+“Second. Never forget that while you were drinking your ass off with women, I was training until I was covered in blood and sweat.”
 
 At the same time, the wooden sword slammed into my side.
 
 Thud!
 
-Never mind the pain; a deep fury surged through me.
+The pain was secondary to the wave of fury that surged through me.
 
 *What? Drinking with women?*
 
-*While everyone else was holding hands with their girlfriends and going on Christmas dates, I was having a group date with monsters in a Gate, you fucking bastard!*
+*While everyone else was holding their girlfriends’ hands and going on dates for Christmas, I was having a group date with monsters in a Gate, you fucking bastard!*
 
 Whack-whack-whack!
 
-The wooden sword pounded my thigh and forearm in quick succession, but I felt nothing. My anger had overwhelmed the pain.
+The wooden sword pounded my thigh and forearm in succession, but I felt nothing. My anger had overwhelmed the pain.
 
 I gritted my teeth and sent my spear flying in every direction.
 
 Sshh-shh-shhk! Clang!
 
-Under the sharp assault, Jin Mukyung began to give ground little by little. Combat was all about momentum. My instincts, honed through countless real battles, whispered to me.
+Under my sharp offensive, Jin Mukyung began to retreat little by little. Combat was all about momentum. My instincts, honed through countless real battles, whispered to me.
 
 *Now!*
 
@@ -254,13 +256,13 @@ Jin Mukyung raised his sword and blocked the spear with ease. He snorted.
 
 “Yeah. If it’s too obvious, it’s no fun.”
 
-With a triumphant grin, I drove my fist toward his abdomen.
+With a triumphant grin, I thrust one fist toward his abdomen.
 
 *It’s a feint, you bastard!*
 
 The provocation and the attack before it had all been for this moment.
 
-At this distance, martial arts did not matter. One punch to the solar plexus, and not even a Peak master’s grandfather would stand a chance.
+When you were standing this close, martial arts did not matter. One punch to the solar plexus, and not even a Peak master’s grandfather would stand a chance.
 
 *It’s over.*
 
@@ -272,7 +274,7 @@ Clang!
 
 *What the hell was that?*
 
-My confusion lasted only a moment before a scream burst out.
+I was confused for only a moment before a scream burst out.
 
 From my mouth.
 
@@ -280,15 +282,15 @@ From my mouth.
 
 It hurt! And it hurt like hell!
 
-Through my pain-blurred vision, I saw Jin Mukyung bashfully lift his shirt. A bulging leather vest appeared beneath his martial arts uniform.
+Through my pain-filled vision, I saw Jin Mukyung shyly lifting his shirt. A bulging leather vest beneath his martial arts uniform came into view.
 
 *What is that?*
 
-A bulletproof vest? No. But it looked like it could stop bullets. Every pocket in the leather vest had been crammed full of iron ingots.
+A bulletproof vest? No, it was not one. But it looked like it could stop bullets. Every pocket in the leather vest had been packed full of iron ingots.
 
 “Third…”
 
-Jin Mukyung pulled a dented iron ingot from a pocket near his solar plexus. My fistprint was clearly visible.
+Jin Mukyung pulled a dented iron ingot from one of the pockets near his solar plexus. My fistprint was clearly visible.
 
 “Fight only after discerning your opponent’s intentions.”
 
@@ -298,7 +300,7 @@ Jin Mukyung pulled a dented iron ingot from a pocket near his solar plexus. My f
 
 “Damn it!”
 
-Martial arts? Forms? To hell with all that. I cast off the awkward guise of a martial artist and returned to being a Hunter with seven years of experience.
+Martial arts? Forms? There was no more of that nonsense. I threw off the awkward appearance of a martial artist and returned to being a Hunter with seven years of experience.
 
 My hand was already injured, so properly using the Jin Family’s Spear Technique would be difficult. Besides, Jin Mukyung knew every martial art I had learned.
 
@@ -318,15 +320,15 @@ Add one more to the list.
 
 Jin Mukyung looked down at me as I collapsed, clutching my foot. His expression seemed to say that I was the most pathetic person alive.
 
-“Fifth… Never mind. I’m getting tired of talking.”
+“Fifth… Never mind. Talking is exhausting.”
 
-He pulled a flat metal plate from beneath his pant leg and strode toward me. I tried to limp to my feet, but he kicked my ankle out from under me and sent me back down.
+He pulled a flat metal plate from beneath his pant leg and strode toward me. I tried to stand, limping, but he kicked my ankle and made me sit back down.
 
 *Damn it.*
 
 It was over.
 
-If I used Inventory, I might have a chance to turn things around, but I did not want to do something so blatantly suspicious right in front of him. I lowered my head with a sigh.
+If I used Inventory, I might have a chance to turn things around, but I did not want to blatantly do something that would obviously make him suspicious. I lowered my head with a sigh.
 
 “Let’s stop.”
 
@@ -336,19 +338,19 @@ I lifted my head at his hard voice. Jin Mukyung’s face had gone cold.
 
 “After only this much?”
 
-The man who had been grinning as he gleefully beat me only moments ago was nowhere to be seen.
+The man who had been grinning and enthusiastically beating me only moments ago was nowhere to be seen.
 
-His emotionless gaze made my skin prickle. My Adam’s apple bobbed.
+His emotionless gaze made my skin prickle, and my Adam’s apple bobbed.
 
 Gulp.
 
 Almost simultaneously with the sound of me swallowing, the wooden sword slammed into my right shoulder.
 
-My arm buckled with a thud, throwing me off balance.
+With a thud, my arm bent uselessly and I lost my balance.
 
 “Guh. What the hell are you doing…?”
 
-Jin Mukyung ignored me and swung the wooden sword again. The Jin Mukyung standing before me now seemed unable to hear the voice of the defeated.
+Jin Mukyung did not care. He swung the wooden sword again. The Jin Mukyung standing before me now seemed unable to hear the voice of the defeated.
 
 Thud. Thud. Thud.
 
@@ -358,11 +360,11 @@ He struck my left arm, then both legs. Only then did his hand stop.
 
 “…”
 
-“If he were even nastier, he’d have other methods.”
+“If he were even nastier, there would be other methods, too.”
 
 Tap-tap-tap.
 
-The instant Jin Mukyung’s hand blurred, my entire body went rigid and my tongue curled back. The System immediately alerted me to the abnormal conditions.
+The moment Jin Mukyung’s hand blurred, my entire body stiffened and my tongue curled up. The System immediately announced the abnormal condition.
 
 Beep!
 
@@ -372,15 +374,15 @@ Beep!
 >
 > - The **Mute Acupoint** has been subdued. You will be unable to make a sound for two hours!
 
-I could not move so much as a hair or make a single sound.
+I could not move even a hair, and I could not speak.
 
 A breathing corpse. In my current state, even a child could kill me.
 
 *Jin Mukyung. You insane bastard!*
 
-The curses could only circle inside my head, unable to escape my lips. All I could do was glare at him. Jin Mukyung calmly met my furious gaze.
+The curses circled only inside my head and could not escape my lips. All I could do was glare at him. Jin Mukyung calmly met my furious gaze.
 
-“Tendon-Splitting and Bone-Twisting is a cruel technique. Within an hour at most, your qi and blood will twist and every bone in your body will be crushed. Even if you miraculously survive, you’ll either go insane or spend the rest of your life crippled.”
+“Tendon-Splitting and Bone-Twisting is a cruel technique. Within an hour at most, your qi and blood will twist and all the bones in your body will be crushed. Even if you miraculously survive, you’ll either become a madman or live the rest of your life crippled.”
 
 “…”
 
@@ -398,19 +400,19 @@ But what he did next went far beyond anything I had expected.
 
 “Don’t worry. I’ll send you off without pain.”
 
-Something cold touched my throat as he spoke in a low voice. It was the metal plate Jin Mukyung had pulled out earlier. Its thin, sharp edge slowly dug into my flesh.
+A quiet voice accompanied something cold touching my throat. It was the metal plate Jin Mukyung had pulled out earlier. Its thin, sharp edge slowly pressed into my flesh.
 
-*I’m going to die? Like this?*
+*Die? Like this?*
 
 I had survived dozens of brushes with death. In Gates, and in Murim. I had struggled all this time to survive somehow…
 
 And now I was about to die without even being able to blink.
 
-To that bastard who was supposed to be my biological older brother, even though we did not share a single drop of blood!
+To a so-called biological older brother who did not share a single drop of blood with me!
 
 *What the fuck kind of situation is this?*
 
-My body rigid, I could only stare at the ceiling as the voice of the Reaper reached my ears.
+My body rigid, I stared only at the ceiling. Then the voice of the Reaper reached my ears.
 
 “Die.”
 
@@ -426,7 +428,7 @@ I slowly closed my eyes.
 
 No, wait. Something was wrong.
 
-*My acupoints were sealed, but I just closed my eyes?*
+*I was hit at an acupoint, but I closed my eyes?*
 
 At that moment—
 
@@ -442,11 +444,11 @@ Ding.
 
 “…”
 
-At Jin Mukyung’s voice, I slowly opened my eyes. All five of my senses were sharp and clear, proving that I was alive.
+At Jin Mukyung’s voice, I slowly opened my eyes. All five of my senses were sharp and clear, proof that I was alive.
 
 *How?*
 
-I hurriedly felt the back of my neck. The cut stung, and blood came away on my fingers, but there were only a few drops of it. Everything else had been an illusion brought on by the fear and tension of death.
+I hurriedly felt the back of my neck. The cut stung, and blood came away on my fingers, but there were only a few drops of it. Everything had been an illusion brought on by the fear and tension of death.
 
 “Remember.”
 
