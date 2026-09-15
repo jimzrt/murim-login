@@ -1,0 +1,136 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Unresolved: why Im Chunsoo issued the special warning about Taekyung; who Taekyung called; which apartment is the surveillance base; whether the black Familiar and Kim Gwondong share immediate instructions; and whether Woojin’s investigation and Sangdong’s operation have the same commissioning chain.",
+      "defect": "The question about the black Familiar and Kim Gwondong is already resolved: Chapters 96–97 place both within the same Security Team surveillance operation under the Team Leader’s instructions. Meanwhile, the unexplained change in Taekyung’s mother’s behavior and her frequent appointments is a newly introduced hook that the summary drops.",
+      "id": "C01",
+      "rationale": "This removes a false open question and preserves the household subplot introduced in Chapter 98 for future continuity.",
+      "replacement": "Unresolved: why Im Chunsoo issued the special warning about Taekyung; who Taekyung called; which apartment is the surveillance base; why Taekyung’s mother has been leaving the house frequently for important appointments; and whether Woojin’s investigation and Sangdong’s operation have the same commissioning chain.",
+      "severity": "major",
+      "source": "Checkpoint summary, Continuity—Unresolved"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Whether the black Familiar and Kim Gwondong are operating under the same immediate instructions remains unresolved.",
+      "defect": "This is no longer unresolved. Kim Junsu controls the black Familiar while Kim Gwondong works alongside him in the Security Team’s coordinated operation. The active state instead needs to retain the new mystery surrounding Taekyung’s mother.",
+      "id": "C02",
+      "rationale": "Active state must not propagate a resolved uncertainty while omitting an explicit new hook.",
+      "replacement": "Why has Taekyung’s mother been leaving the house frequently, and what important appointments is she attending?",
+      "severity": "major",
+      "source": "Durable state, open_questions"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“The target. This guy reeks to high heaven.”",
+      "defect": "“Reeks to high heaven” normally describes a literal foul smell or obvious corruption, not a person behaving suspiciously. Here it is especially distracting because the preceding scene centers on a cat covered in feces.",
+      "id": "C03",
+      "rationale": "The replacement states the intended suspicion naturally and avoids an unintended callback to the feces joke.",
+      "replacement": "“The target. Something about this guy is suspicious as hell.”",
+      "severity": "minor",
+      "source": "Chapter 98, Kim Junsu’s report after Taekyung’s phone call"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“He’s a C-rank who reeks to high heaven. If we make the wrong move, we could be the ones getting taken down.”",
+      "defect": "The repeated smell idiom remains unnatural for suspicious behavior and weakens Kim Gwondong’s warning about the target’s concealed danger.",
+      "id": "C04",
+      "rationale": "This preserves the callback to Junsu’s assessment while making the warning immediately intelligible.",
+      "replacement": "“He’s a C-rank who’s suspicious as hell. If we make the wrong move, we could be the ones getting taken down.”",
+      "severity": "minor",
+      "source": "Chapter 99, Kim Gwondong warning Choi Byungil"
+    },
+    {
+      "confidence": 0.95,
+      "current": "“Prepare a full-page A4 statement of your individual opinions, too. He’s an important target, so we should gather the team’s input.”",
+      "defect": "“A full-page A4 statement” is an awkward Korean-influenced collocation in US English.",
+      "id": "C05",
+      "rationale": "The replacement sounds natural while preserving the required length, individual submission, and petty bureaucratic burden.",
+      "replacement": "“Prepare a one-page statement with your individual assessment, too. He’s an important target, so we should gather the team’s input.”",
+      "severity": "minor",
+      "source": "Chapter 97, Security Team Leader assigning written work"
+    },
+    {
+      "confidence": 0.99,
+      "current": "> **System**\n>\n> **Lv. 2 Cat**",
+      "defect": "The complete status line is wrapped in bold, contrary to the packet’s System-panel formatting rule and the unbolded status lines used in Chapter 99.",
+      "id": "C06",
+      "rationale": "Only meaningful labels or emphasis should be bold inside a System panel.",
+      "replacement": "> **System**\n>\n> Lv. 2 Cat",
+      "severity": "minor",
+      "source": "Chapter 95, System identification of the kitten"
+    },
+    {
+      "confidence": 0.99,
+      "current": "> **System**\n>\n> **Lv. 2 Cat—Familiar**",
+      "defect": "The entire status line is unnecessarily bolded, producing formatting drift within the packet.",
+      "id": "C07",
+      "rationale": "This follows the binding System-panel rule without changing the identification.",
+      "replacement": "> **System**\n>\n> Lv. 2 Cat—Familiar",
+      "severity": "minor",
+      "source": "Chapter 96, System identification of the black kitten"
+    },
+    {
+      "confidence": 0.99,
+      "current": "> **System**\n>\n> **Lv. 42 Kim Gwondong**\n\nThere wasn’t a Hunter living in the building next to ours.",
+      "defect": "The complete status line is bolded despite the rule reserving bold for meaningful labels or emphasis.",
+      "id": "C08",
+      "rationale": "The replacement normalizes the status window while leaving the surrounding prose unchanged.",
+      "replacement": "> **System**\n>\n> Lv. 42 Kim Gwondong\n\nThere wasn’t a Hunter living in the building next to ours.",
+      "severity": "minor",
+      "source": "Chapter 96, System identification of Kim Gwondong"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Game over.\n\n> **System**\n>\n> **Lv. 42 Kim Gwondong**",
+      "defect": "The full status line is bolded, repeating the System formatting inconsistency from the preceding chapters.",
+      "id": "C09",
+      "rationale": "This makes the panel conform to the stated formatting standard.",
+      "replacement": "Game over.\n\n> **System**\n>\n> Lv. 42 Kim Gwondong",
+      "severity": "minor",
+      "source": "Chapter 97, System identification of Kim Gwondong"
+    },
+    {
+      "confidence": 0.98,
+      "current": "> **System**\n>\n> Level 2 Cat\n>\n> Level 2 Cat",
+      "defect": "These status lines switch from the established abbreviated “Lv.” form to “Level,” creating terminology and UI-format drift.",
+      "id": "C10",
+      "rationale": "The replacement preserves the meaningful omission of “Familiar” after the Links are severed while restoring the established level notation.",
+      "replacement": "> **System**\n>\n> Lv. 2 Cat\n>\n> Lv. 2 Cat",
+      "severity": "minor",
+      "source": "Chapter 99, System display after both Familiar Links are severed"
+    },
+    {
+      "confidence": 0.98,
+      "current": "> **System**\n>\n> Level 41 Kim Junsu",
+      "defect": "The status window uses “Level” instead of the established System abbreviation “Lv.”",
+      "id": "C11",
+      "rationale": "This keeps System status notation consistent across Chapters 95–99.",
+      "replacement": "> **System**\n>\n> Lv. 41 Kim Junsu",
+      "severity": "minor",
+      "source": "Chapter 99, System identification of Kim Junsu"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Sangdong Guild’s six-person Security Team, operating under Guild Master Im Chunsoo’s special order, identifies the three recently traded apartments near Taekyung’s home as possible surveillance bases.",
+      "defect": "“Traded apartments” is unnatural US English and inaccurately suggests that all three properties were sold, although the underlying transactions include rentals or leases.",
+      "id": "C12",
+      "rationale": "The replacement accurately covers purchases, monthly rentals, and jeonse leases without implying that every property was sold.",
+      "replacement": "Sangdong Guild’s six-person Security Team, operating under Guild Master Im Chunsoo’s special order, identifies three apartments recently sold or leased near Taekyung’s home as possible surveillance bases.",
+      "severity": "minor",
+      "source": "Checkpoint summary, Plot"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Taekyung learned of three properties traded within five days and five hundred meters of his home: Building 5, Unit 901; Building 4, Unit 302; and Building 3, Unit 202.",
+      "defect": "“Properties traded” is an unnatural and imprecise description of the mix of recent sales and rental or lease transactions.",
+      "id": "C13",
+      "rationale": "The replacement records the timing, radius, and possible transaction types clearly for later continuity work.",
+      "replacement": "Taekyung learned of three properties sold or leased within the previous five days and within five hundred meters of his home: Building 5, Unit 901; Building 4, Unit 302; and Building 3, Unit 202.",
+      "severity": "minor",
+      "source": "Durable state, active_continuity"
+    }
+  ],
+  "summary": "The packet is coherent overall, but the active state preserves one already-resolved question while dropping the new hook about Taekyung’s mother. There are also repeated System-panel formatting inconsistencies, two awkward uses of “reeks to high heaven,” and minor wording drift around real-estate transactions.",
+  "version": 1
+}

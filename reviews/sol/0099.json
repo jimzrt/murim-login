@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Yes. We don’t know who he was talking to, but the other person said he was keeping the item safe and had even taken it out to check it himself. Junsu saw it directly, so it’s certain.",
+      "defect": "The draft reverses the subject of both actions, attributing possession and inspection of the USB to the person on the other end of the call rather than to Jin Taekyung.",
+      "id": "F01",
+      "rationale": "본인도 identifies the target himself as the person who took out and checked the USB; Junsu directly witnessed that action.",
+      "replacement": "Yes. We don’t know who he was talking to, but he said he was keeping the item safe, and he even slipped it out to check it himself. Junsu saw it directly, so it’s certain.",
+      "severity": "critical",
+      "source": "통화 상대가 누군지는 모르지만 물건 잘 갖고 있다면서, 본인도 슬쩍 꺼내서 확인했다고 합니다. 준수가 직접 봤다니까 확실합니다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Then it’s truly top-secret information.",
+      "defect": "“Top-secret” introduces an official secrecy classification absent from 특급, which describes the information as exceptionally valuable or first-rate.",
+      "id": "F02",
+      "rationale": "The speakers are excited about the information’s value as leverage for bonuses and promotions, not assigning it a formal security classification.",
+      "replacement": "Then that’s seriously high-value intel.",
+      "severity": "minor",
+      "source": "그런 거면 진짜 특급 정보죠."
+    },
+    {
+      "confidence": 0.99,
+      "current": "There was an old saying: strike while the iron is hot. To him, a C-rank Hunter was a horn soft enough to pull out with one hand.",
+      "defect": "Replacing the Korean ox-horn proverb with an English iron proverb severs the deliberate horn callback in the following sentence.",
+      "id": "F03",
+      "rationale": "Both sentences use 뿔 so that the Team Leader’s confidence becomes a literal extension of the proverb; retaining the horn is necessary to preserve the joke.",
+      "replacement": "As the old saying went, you had to pull the ox’s horn while it was hot. To him, a C-rank Hunter was a soft horn he could yank out one-handed.",
+      "severity": "major",
+      "source": "옛말에 이르기를 쇠뿔도 단김에 빼라고 했다. 그에게 있어 C급 헌터는 한 손으로도 뽑을 수 있을 만큼 물렁한 뿔이다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "They had misunderstood the existence of someone like me.",
+      "defect": "The draft adds “someone like” and uses an unnatural abstraction, weakening the direct revelation that the watchers misjudged Taekyung himself.",
+      "id": "F04",
+      "rationale": "나라는 존재 points emphatically and specifically to the narrator, not to a broader class of people like him.",
+      "replacement": "What they had misjudged was me.",
+      "severity": "minor",
+      "source": "바로 나라는 존재다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“They’re Sangdong Guild.”",
+      "defect": "The English incorrectly treats the organization’s name as a predicate identifying the people themselves.",
+      "id": "F05",
+      "rationale": "놈들이군 identifies the six as people belonging to Sangdong Guild.",
+      "replacement": "“They’re from Sangdong Guild.”",
+      "severity": "minor",
+      "source": "“상동 길드 놈들이군.”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "*I wanted to crack Jin Taekyung myself.*",
+      "defect": "“Crack” suggests physically or psychologically breaking Taekyung, contradicting Hong Woojin’s stated refusal to use force; 털다 here refers to personally investigating and exposing the target.",
+      "id": "F06",
+      "rationale": "Hong Woojin is abandoning an investigative assignment because the Security Team has escalated to violence, while regretting that he will not personally get to the bottom of Taekyung.",
+      "replacement": "*I wanted to uncover Jin Taekyung’s secrets myself.*",
+      "severity": "major",
+      "source": "‘진태경, 저놈은 내 손으로 털고 싶었는데.’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I’ve got a wandering spirit.”[^2]",
+      "defect": "The translated answer removes the word 살, so the pun answering 몇 살이냐 with 역마살 disappears.",
+      "id": "F07",
+      "rationale": "The joke depends on replying to a question containing 살, meaning age or years old, with the unrelated expression 역마살.",
+      "replacement": "“*Yeokmasal*.”[^2]",
+      "severity": "major",
+      "source": "“역마살이요.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "[^2]: *Yeokmasal* is a traditional Korean notion of a fate or tendency that compels someone to wander from place to place.",
+      "defect": "The footnote explains the cultural term but omits the linguistic information required to understand the joke.",
+      "id": "F08",
+      "rationale": "Readers need both the cultural meaning of 역마살 and its shared 살 with 몇 살이냐 to recover the source humor.",
+      "replacement": "[^2]: *Yeokmasal* is a traditional Korean notion of a fate that compels someone to wander. Here it also puns on *sal*, the Korean word used when asking someone’s age.",
+      "severity": "minor",
+      "source": "“역마살이요.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "But are you and Mr. Kim Gwondong really friends? The two-shot is a terrible pairing visually.",
+      "defect": "“The two-shot is a terrible pairing visually” is an unnatural calque that does not read as contemporary spoken English.",
+      "id": "F09",
+      "rationale": "투샷이 영 아니다 jokingly says the two men look incongruous together; the replacement preserves that teasing implication without importing Korean entertainment jargon.",
+      "replacement": "But are you and Mr. Kim Gwondong really friends? Judging by appearances, you two don’t exactly look like a matching pair.",
+      "severity": "minor",
+      "source": "그런데 김권동 씨랑 친구 맞아요? 외관상으로 봤을 때는 투샷이 영 아닌데."
+    },
+    {
+      "confidence": 1.0,
+      "current": "> **System**\n>\n> **Level 2 Cat**\n>\n> **Level 2 Cat**",
+      "defect": "The complete System notices are wrapped in bold, contrary to the required System-panel format.",
+      "id": "F10",
+      "rationale": "Only meaningful labels or emphasis inside a System panel should be bold; these are complete notices rather than labels.",
+      "replacement": "> **System**\n>\n> Level 2 Cat\n>\n> Level 2 Cat",
+      "severity": "minor",
+      "source": "[Lv.2 고양이]\n\n[Lv.2 고양이]"
+    },
+    {
+      "confidence": 1.0,
+      "current": "> **System**\n>\n> **Level 41 Kim Junsu**",
+      "defect": "The complete System notice is wrapped in bold, contrary to the required System-panel format.",
+      "id": "F11",
+      "rationale": "The System heading supplies the framing, so the notice itself should not receive outer bold formatting.",
+      "replacement": "> **System**\n>\n> Level 41 Kim Junsu",
+      "severity": "minor",
+      "source": "[Lv.41 김준수]"
+    }
+  ],
+  "summary": "The draft contains one reversed subject, several losses of source-specific meaning and humor, and two System-panel formatting violations.",
+  "version": 1
+}

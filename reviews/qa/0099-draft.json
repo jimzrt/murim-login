@@ -1,0 +1,40 @@
+{
+  "chapter": 99,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.311,
+    "source_characters": 6528,
+    "source_paragraphs": 192,
+    "translation_characters": 15083,
+    "translation_paragraphs": 193
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "numbers",
+      "details": {
+        "values": [
+          "3"
+        ]
+      },
+      "message": "Arabic numerals from the source are absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "나비",
+        "preferred": "Nabi"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "상동",
+        "romanization": "sangdong"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
