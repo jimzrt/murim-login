@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "Three *sijin*—six hours—had already passed.",
+      "defect": "The time unit drifts from the packet’s established rendering, “shichen,” which is used in the other chapters and required by the translation decisions.",
+      "id": "C01",
+      "rationale": "Using the established form prevents terminology and formatting drift within the checkpoint.",
+      "replacement": "Three shichen—six hours—had already passed.",
+      "severity": "minor",
+      "source": "Chapter 111, opening journey sequence"
+    },
+    {
+      "confidence": 0.99,
+      "current": "A year later, his boss was beheaded and killed by a First Rate master, and Pung Yang found a new nest in another mounted-bandit group.",
+      "defect": "“Beheaded and killed” is redundant and makes the otherwise brisk narration sound unpolished.",
+      "id": "C02",
+      "rationale": "The replacement preserves the event and causal sequence while removing unnecessary repetition.",
+      "replacement": "A year later, a First Rate master beheaded his boss, and Pung Yang found a new nest in another mounted-bandit group.",
+      "severity": "minor",
+      "source": "Chapter 112, Pung Yang’s backstory"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Pung Yang had only just entered the Peak realm, barely capable of creating blade qi, while Cheol Mubaek was a Peak master who had reached a mature realm stage.",
+      "defect": "“Reached a mature realm stage” is an awkward, redundant cultivation-style construction that departs from the reading copies’ otherwise natural English.",
+      "id": "C03",
+      "rationale": "The replacement states the same established disparity in cleaner contemporary prose and matches the checkpoint summary’s terminology.",
+      "replacement": "Pung Yang had only just entered the Peak realm, barely capable of creating blade qi, while Cheol Mubaek was already a mature Peak master.",
+      "severity": "minor",
+      "source": "Chapter 114, Cheol Mubaek reflecting on the duel"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Pung Yang possesses an unidentified hard wooden case containing the red pill and possibly a weapon or other anti-tiger object.",
+      "defect": "The possibility of a separate weapon or anti-tiger object is obsolete speculation: Chapter 114 resolves the case’s teased contents as the red pill, while only the pill’s nature and origin remain unknown.",
+      "id": "C04",
+      "rationale": "Removing the superseded possibility prevents a false open hook from entering later continuity while preserving the genuine unresolved question.",
+      "replacement": "Pung Yang carried the unidentified red pill in a hard wooden case; the pill’s nature and origin remain unknown.",
+      "severity": "major",
+      "source": "Checkpoint summary, Continuity"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Jin Taekyung and his companions arrived at the fortress, and Cheol recognized Taekyung's Taiyuan Jin Family affiliation.",
+      "defect": "The durable active state records the party’s arrival but drops the Peak Quest’s still-incomplete invitation objective, even though the checkpoint continuity explicitly identifies it as the governing objective.",
+      "id": "C05",
+      "rationale": "Retaining the unresolved Quest objective prevents the central System hook from disappearing when subsequent chapters resume from the durable state.",
+      "replacement": "Jin Taekyung and his companions arrived at the fortress, and Cheol recognized Taekyung's Taiyuan Jin Family affiliation. Taekyung's Peak Quest still requires him to invite the Mount Heng Sword Sect to the Jin Family for the coming Lunar New Year.",
+      "severity": "major",
+      "source": "Durable state, active_continuity final entry"
+    }
+  ],
+  "summary": "The reading copies are coherent and preserve the major hooks, but one established time term drifts, two sentences need minor prose cleanup, the checkpoint continuity retains obsolete speculation about the wooden case, and the durable state drops the still-active Peak Quest objective.",
+  "version": 1
+}
