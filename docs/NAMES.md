@@ -142,3 +142,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 헌터 훈련소 | **Hunter Training Center** | Training institution where Kim Hwajong served as an instructor. |
 | 1번 훈련생 | **Trainee Number One** | Im Chunsoo's training call sign during his forced military identification. |
 | 28연대 1대대 2중대 | **28th Regiment, First Battalion, Second Company** | Military unit designation shouted during Im Chunsoo's identification. |
+| 사도세자 | **Crown Prince Sado** | Joseon crown prince used in the comparison for Jinho's haggard appearance; footnoted. |
+| 박혁거세 | **Park Hyeokgeose** | Legendary founder of Silla, used in the comparison to Jinho emerging from the capsule; footnoted. |
