@@ -13,10 +13,5 @@ const { summary } = Astro.props;
     <span class="previously__title">Previously</span>
     <span class="previously__range">{summary.label}</span>
   </summary>
-  <div
-    class="previously__body prose"
-    data-pagefind-body
-    data-pagefind-meta={`title:Previously · ${summary.label}`}
-    set:html={summary.html}
-  />
+  <div class="previously__body prose" data-pagefind-ignore="all" set:html={summary.html} />
 </details>
