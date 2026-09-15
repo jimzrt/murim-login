@@ -1,0 +1,166 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "The Security Team Leader contacted him personally.",
+      "defect": "The added object “him” implies that the Security Team Leader contacted Jin Taekyung, contradicting the reporting chain and the following explanation.",
+      "id": "F01",
+      "rationale": "Team Leader 1 is recounting the Security Team Leader’s direct report to him; the source does not say that the target was contacted.",
+      "replacement": "The Security Team Leader contacted me directly.",
+      "severity": "critical",
+      "source": "보안팀장이 개인적으로 연락을 취했습니다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Im Chunsoo raised a hand to stop him.",
+      "defect": "The draft changes the explicitly named subject from Im Changsoo to Im Chunsoo.",
+      "id": "F02",
+      "rationale": "The source names 임창수, whose binding rendering is Im Changsoo.",
+      "replacement": "Im Changsoo raised a hand to stop him.",
+      "severity": "critical",
+      "source": "임창수가 손을 들어 그를 제지했기 때문이었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Im Chunsoo went ahead, and I followed behind him.",
+      "defect": "The draft again substitutes Im Chunsoo for the source’s explicitly named Im Changsoo.",
+      "id": "F03",
+      "rationale": "The source names 임창수, and the glossary requires Im Changsoo.",
+      "replacement": "Im Changsoo went ahead, and I followed behind him.",
+      "severity": "critical",
+      "source": "임창수가 앞장섰고 내가 그 뒤를 따랐다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "With my clear voice, the mana suffused throughout the air began to churn.",
+      "defect": "The draft identifies Taekyung as the speaker even though the source deliberately leaves the voice’s owner unstated before Kim Hwajong’s reveal.",
+      "id": "F04",
+      "rationale": "The Korean says only that a clear voice is heard; adding “my” reverses the intended concealed intervention.",
+      "replacement": "At the sound of a clear voice, the mana permeating the air began to churn.",
+      "severity": "critical",
+      "source": "또렷한 음성과 함께 대기에 스며든 마나가 요동친다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "The frost-covered ground melted beneath Im Chunsoo’s magic, and flames surged upward.",
+      "defect": "The draft makes Im Chunsoo’s magic cause the melting and flames instead of identifying his magic as the cause of the preexisting frost.",
+      "id": "F05",
+      "rationale": "The source modifies the frosted ground with “by Im Chunsoo’s magic”; the Fire Wall, cast by the still-unrevealed intervening mage, melts that frost.",
+      "replacement": "The ground, which had been frosted over by Im Chunsoo’s magic, melted as flames surged upward.",
+      "severity": "critical",
+      "source": "임춘수의 마법으로 서리가 끼어 있던 바닥이 녹고 불꽃이 솟구쳤다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "More than a dozen ice spikes formed in the empty air above my head.",
+      "defect": "The draft changes the stated quantity from roughly ten or a dozen to more than twelve.",
+      "id": "F06",
+      "rationale": "십여 개 means approximately ten, naturally rendered here as “around a dozen,” not “more than a dozen.”",
+      "replacement": "Around a dozen ice spikes formed in the empty air above my head.",
+      "severity": "critical",
+      "source": "아무것도 없던 머리 위 허공에서 십여 개의 얼음송곳이 생겨났다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "My people made a mistake because they were impatient. Will you understand?",
+      "defect": "The literal question is unnatural and misses the pragmatic request that Taekyung overlook or forgive the incident.",
+      "id": "F07",
+      "rationale": "이해해 줄 텐가 asks for leniency in context rather than merely checking whether Taekyung comprehends the explanation.",
+      "replacement": "My people got impatient and made a mistake. Can you let it slide?",
+      "severity": "major",
+      "source": "우리 애들이 조급함에 실수를 저질렀네. 이해해 줄 텐가?"
+    },
+    {
+      "confidence": 0.96,
+      "current": "From the Guild Master’s perspective—and from the Guild’s perspective as a whole—there could hardly be a greater humiliation.",
+      "defect": "The draft sanitizes the narrator’s vulgar intensifier and shifts his conversational voice into formal prose.",
+      "id": "F08",
+      "rationale": "개망신 is strongly vulgar and emphatic here; Taekyung’s narration should retain that register.",
+      "replacement": "For the Guild Master—and the Guild as a whole—this was about as fucking humiliating as it got.",
+      "severity": "major",
+      "source": "길드장은 물론이고 길드 전체 입장에서 봐도 이런 개망신이 또 없다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "You look so miserable that even an idiot could tell.",
+      "defect": "The draft adds an insult to the observer that is absent from the rhetorical Korean.",
+      "id": "F09",
+      "rationale": "누가 모르나 means that the expression makes the problem obvious to anyone; it does not call anyone an idiot.",
+      "replacement": "With a long face like that, anyone could tell.",
+      "severity": "minor",
+      "source": "앞으로는 들어오기 전에 거울 보고 와. 그렇게 죽상을 하고 있는데 누가 모르나."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“What the hell!”",
+      "defect": "The draft adds profanity to a shocked exclamation that contains none.",
+      "id": "F10",
+      "rationale": "이게 무슨 expresses startled disbelief without the stronger register introduced by “the hell.”",
+      "replacement": "“What is this?!”",
+      "severity": "minor",
+      "source": "“이게 무슨!”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Damn. We really got played. How does a Guild with only five people have so much to hide?”",
+      "defect": "The grunt 끙 is replaced with explicit profanity.",
+      "id": "F11",
+      "rationale": "끙 is a frustrated groan rather than a curse.",
+      "replacement": "“Ugh, we really got played. How does a Guild with only five people have so much to hide?”",
+      "severity": "minor",
+      "source": "“끙, 이거 아주 제대로 당했네. 달랑 다섯 명 있는 길드가 뭐 이리 숨기는 게 많아?”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "There was no misunderstanding that needed clearing up, but I had no idea what would happen if I said, *No, thank you.*",
+      "defect": "“No, thank you” makes Taekyung’s imagined refusal more gracious and indirect than the blunt source.",
+      "id": "F12",
+      "rationale": "싫어요 is a direct refusal—literally that he does not want to—not an expression of thanks.",
+      "replacement": "There was no misunderstanding that needed clearing up, but I had no idea what would happen if I said, *No.*",
+      "severity": "minor",
+      "source": "굳이 오해를 풀 만한 일은 없지만 ‘싫어요.’라고 했을 경우 무슨 일이 벌어질지 모르겠다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "The ball had gone well past the hole and only stopped after striking Team Leader 1’s shoe.",
+      "defect": "“Past the hole” specifies that the ball overshot it, while the source only says that it went far wide of the hole.",
+      "id": "F13",
+      "rationale": "벗어난 describes deviation from the hole without establishing that the ball traveled beyond it.",
+      "replacement": "The ball had rolled far wide of the hole and only stopped after striking Team Leader 1’s shoe.",
+      "severity": "minor",
+      "source": "홀(Hole)을 한참이나 벗어난 공은 1팀장의 신발에 부딪힌 후에야 멈췄다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Team Leader 3. He’s been bragging that he’ll bring back some famous tea after his business trip to China.”",
+      "defect": "The draft says he will obtain the tea after the trip rather than while in China on the trip.",
+      "id": "F14",
+      "rationale": "중국 출장 가서 means that he intends to obtain the tea during the business trip and bring it back.",
+      "replacement": "“Team Leader 3. He’s been bragging that he’ll bring back some famous tea from his upcoming business trip to China.”",
+      "severity": "minor",
+      "source": "“3팀장이죠. 이번에 중국 출장 가서 명차를 구해 오겠다고 호언장담을 하고 다닙니다.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Once I form a relationship of enmity with someone, I have to see it through to the end.",
+      "defect": "“Form a relationship of enmity” is an unnatural Korean-syntax calque in otherwise direct dialogue.",
+      "id": "F15",
+      "rationale": "원한 관계 refers naturally to having a grudge or feud with someone.",
+      "replacement": "Once I have a grudge against someone, I have to see it through to the end.",
+      "severity": "minor",
+      "source": "난 일단 원한 관계가 맺어지면 무조건 끝을 봐야 해."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Frozen. The seasoned A-rank mage who had fought his way through the Great Cataclysm with his entire body.",
+      "defect": "“With his entire body” is an awkward literal calque that does not convey firsthand endurance naturally in English.",
+      "id": "F16",
+      "rationale": "온몸으로 emphasizes that he personally endured and fought through the catastrophe, not that he used his whole body as a distinct mechanism.",
+      "replacement": "Frozen. The seasoned A-rank mage who had fought his way through the Great Cataclysm himself.",
+      "severity": "minor",
+      "source": "프로즌. 대격변을 온몸으로 헤쳐 나간 노련한 A급 마법사가 나를 향해 손을 펼친 순간."
+    }
+  ],
+  "summary": "The draft contains critical subject, identity, magical-mechanism, and quantity errors, along with several register shifts and localized natural-English issues.",
+  "version": 1
+}
