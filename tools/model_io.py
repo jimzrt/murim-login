@@ -101,6 +101,7 @@ def apply_review_replacements(text: str, review: dict) -> str:
         old = finding["current"]
         replacement = re.sub(r"\s*\([^()\n]*[가-힣][^()\n]*\)", "", finding["replacement"])
         starts = [match.start() for match in re.finditer(re.escape(old), text)]
+        matched_old = old
         if not starts:
             candidates = []
             if "…." in old:
