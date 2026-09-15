@@ -8,11 +8,12 @@ body:
       value: |
         Prefer the in-reader **Report line** control when you can; it fills these fields for you.
         Quote the English as it appears on the page (exact text).
+        Only **mastered** chapters are accepted — reports for unfinished chapters are rejected.
   - type: input
     id: chapter
     attributes:
       label: Chapter
-      description: Accepted chapter number, for example 62.
+      description: Mastered chapter number, for example 62.
       placeholder: "62"
     validations:
       required: true

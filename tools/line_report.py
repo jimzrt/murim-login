@@ -164,12 +164,28 @@ def parse_issue_body(body: str) -> dict:
     }
 
 
+def chapter_is_mastered(chapter: int, root: Path = ROOT) -> bool:
+    state_path = root / "reviews" / "mastering" / f"{chapter:04d}" / "state.json"
+    if not state_path.is_file():
+        return False
+    try:
+        state = json.loads(state_path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return False
+    return state.get("stage") == "PROMOTED" and bool(state.get("qa_passed"))
+
+
 def cheap_gates(chapter: int, quote: str, root: Path = ROOT) -> str | None:
     if not quote:
         return "Quote is empty."
     path = root / "translations" / f"{chapter:04d}.md"
     if not path.is_file():
         return f"Chapter {chapter} is not an accepted translation."
+    if not chapter_is_mastered(chapter, root):
+        return (
+            f"Chapter {chapter} has not been mastered yet. "
+            "Line reports are only accepted for mastered chapters."
+        )
     count = path.read_text(encoding="utf-8").count(quote)
     if count == 0:
         return "Quoted text was not found exactly in that chapter."

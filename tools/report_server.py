@@ -118,7 +118,10 @@ class LineReportService:
         if not self.github:
             return 503, {"error": "Line reports are not configured yet."}
         gate = cheap_gates(chapter, quote, self.settings.root)
-        if gate and "not found exactly" in gate.lower():
+        if gate and (
+            "not found exactly" in gate.lower()
+            or "not been mastered" in gate.lower()
+        ):
             self._sync_repo()
             gate = cheap_gates(chapter, quote, self.settings.root)
         if gate:

@@ -41,7 +41,7 @@ const previously = await loadPreviousSummary(entry.data.chapter);
 ---
 
 <Base title={`${entry.data.title} — Murim Login`} chapter={entry.data.chapter} description={description}>
-  <main class="wrap chapter-page" data-page="chapter" data-chapter={entry.data.chapter}>
+  <main class="wrap chapter-page" data-page="chapter" data-chapter={entry.data.chapter} data-mastered={mastered ? "1" : "0"}>
     <header class="chapter-header">
       <p class="eyebrow">Murim Login</p>
       <h1 data-pagefind-body data-pagefind-meta="title">{entry.data.title}</h1>
