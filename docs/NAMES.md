@@ -284,3 +284,11 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 왕가장 | **Wang Family Estate** | Family estate whose heir is one of the Five Gates scions; he uses sabers rather than sword arts. |
 | 왕 공자 | **Young Master Wang** | Heir of the Wang Family Estate. |
 | 신 소저 | **Young Lady Shin** | Young woman described as the only daughter of a martial sect. |
+| 정 소협 | **Young Hero Jeong** | Address for one injured Five Gates heir; his given name is not stated. |
+| 갈 소협 | **Young Hero Gal** | Address for one injured Five Gates heir; his given name is not stated. |
+| 석 모 | **Seok** | Self-identification by Honghwa Inn's chief steward; his given name is not stated. |
+| 석 총관 | **Chief Steward Seok** | Title and surname form used for Honghwa Inn's chief steward. |
+| 칠매검 | **Seven Plum Sword** | Sword art practiced by the unnamed martial official at eight-tenths mastery. |
+| 상산왕 | **Prince Shangshan** | The City Lord and a member of the imperial family who orders the luncheon. |
+| 정삼품 | **Third-Rank** | Official rank of the unnamed Assistant Military Commissioner. |
+| 도지휘첨사 | **Assistant Military Commissioner** | Military office held by the unnamed official responsible for training soldiers. |
