@@ -167,3 +167,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 철검대주 | **Iron Sword Squad Leader** | Title of the Mount Heng Sword Sect's Iron Sword Squad leader. |
 | 대항산검문 | **great Mount Heng Sword Sect** | Expanded organizational form used for the Mount Heng Sword Sect. |
 | 대동지부 | **Datong Branch** | Mount Heng Sword Sect branch in Datong. |
+| 소월 | **Seowol** | Short form of Lee Seowol used by Cheol Mubaek. |
+| 철 숙부 | **Uncle Cheol** | Lee Seowol's familial address for Cheol Mubaek. |
+| 철 대협 | **Great Hero Cheol** | Respectful address for Cheol Mubaek. |
+| 아가씨 | **Young Lady** | Former address used for Lee Seowol before she demands the title Sect Leader. |
+| 문주님 | **Sect Leader** | Honorific title Lee Seowol orders the senior figures to use. |
