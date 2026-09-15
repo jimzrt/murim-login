@@ -1,8 +1,8 @@
 # Jin Wikyung (진위경)
 
-- **Safe through:** Chapter 151
+- **Safe through:** Chapter 155
 - **Aliases:** Junzi Sword
-- **Role:** Thirty-five-year-old Lesser Family Head and future Family Head of the Jin Family of Taiyuan; preparing to consolidate Shanxi Murim under the family's leadership
+- **Role:** Thirty-five-year-old Lesser Family Head and future Family Head of the Jin Family of Taiyuan; directing the family's expansion across Shanxi and seeking to establish it as a great family
 - **Personality:** Calm and authoritative in public; affectionate and protective toward Taekyung beneath a stern mask; accepts responsibility from his subordinates and shows immediate concern for family
 - **Voice:** Restrained, formal, and commanding with subordinates; openly affectionate with Taekyung
 - **Relationships:** Taekyung’s eldest brother and future Family Head; head of Wipeng; member of the Jin Family

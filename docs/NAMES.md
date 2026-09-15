@@ -373,3 +373,9 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 검성 수련 간접 체험기-2 | **Sword Saint Training: A Secondhand Experience—2** | Linked Quest generated after the first training Quest succeeds. |
 | 초보 수련자 | **Beginner Trainee** | System Title upgraded after the tenth cliff climb. |
 | 중급 수련자 | **Intermediate Trainee** | System Title received after Beginner Trainee is upgraded. |
+| 황하방 | **Yellow River Gang** | Organization involved in a dispute with the Sogong Sect. |
+| 소공문 | **Sogong Sect** | Sect involved in a dispute with the Yellow River Gang. |
+| 남부상회 | **Southern Merchant Guild** | Merchant organization whose matter is reported to Jin Wikyung. |
+| 내당주 | **Inner Hall Master** | Title for the head of the Jin Family's Inner Hall. |
+| 내외당 | **Inner and Outer Halls** | The Jin Family's two internal administrative divisions. |
+| 세가 | **great family** | Murim category Jin Wikyung hopes the Jin Family will attain. |
