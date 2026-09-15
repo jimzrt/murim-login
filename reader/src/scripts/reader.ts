@@ -800,7 +800,7 @@ function paintReportChip() {
   const dialog = document.getElementById("report-line-dialog") as HTMLDialogElement | null;
   const chip = document.getElementById("report-line-chip") as HTMLButtonElement | null;
   const page = document.querySelector<HTMLElement>("[data-page='chapter']");
-  if (dialog?.open || page?.dataset.mastered !== "1") {
+  if (dialog?.open || page?.dataset.polished !== "1") {
     hideReportChip();
     return;
   }
@@ -862,7 +862,7 @@ function initReportLine() {
     const selected = chapterProseSelection();
     const page = document.querySelector<HTMLElement>("[data-page='chapter']");
     const chapter = Number(page?.dataset.chapter);
-    if (!selected || !Number.isInteger(chapter) || page?.dataset.mastered !== "1") {
+    if (!selected || !Number.isInteger(chapter) || page?.dataset.polished !== "1") {
       return;
     }
     reportQuote = selected.text;
