@@ -1362,7 +1362,12 @@ def command_committed(number: int, commit: str) -> None:
     if state["stage"] == "ACCEPTED":
         if digest(p["translation"]) != state["artifacts"].get("translation_sha256"):
             raise SystemExit("accepted translation changed before commit registration")
-        _register_commit(names, accept_required_paths(number, p), accept_allowed_paths(number, p))
+        _register_commit(
+            names,
+            accept_required_paths(number, p),
+            accept_allowed_paths(number, p),
+            tree_names=_commit_tree_names(resolved),
+        )
         save(state, p, "COMMITTED", commit=resolved)
         return
     if digest(p["translation"]) != state["artifacts"].get("mastered_translation_sha256"):
