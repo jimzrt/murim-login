@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "He was someone Wolhwa from the Lower District Sect’s Shanxi Branch had brought with her.",
+      "defect": "Wolhwa’s position as Shanxi Branch Leader is omitted, flattening the hierarchy that explains why the coachman she supplied cannot be ordinary.",
+      "id": "F01",
+      "rationale": "산서지부장 explicitly identifies Wolhwa as the Shanxi Branch Leader, not merely someone affiliated with that branch.",
+      "replacement": "He was someone Wolhwa, the Lower District Sect’s Shanxi Branch Leader, had brought with her.",
+      "severity": "major",
+      "source": "하오문 산서지부장인 월화가 데려온 사람이다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "The inside was about the size of an ordinary room, with plenty of space between the seats.",
+      "defect": "The draft changes the physical detail from the seats themselves being spacious to there being ample space between them.",
+      "id": "F02",
+      "rationale": "좌석도 넓었다 describes the seats as roomy; it does not specifically describe the gaps between them.",
+      "replacement": "The inside was about the size of an ordinary room, and the seats were spacious too.",
+      "severity": "minor",
+      "source": "어지간한 방 하나 크기라 좌석도 넓었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "The carriage stopped two hours after that, around midnight.",
+      "defect": "The elapsed time is halved: two 시진 equal four modern hours, not two.",
+      "id": "F03",
+      "rationale": "A 시진 is a traditional double hour, so 두 시진 denotes approximately four hours.",
+      "replacement": "The carriage stopped four hours later, around midnight.",
+      "severity": "critical",
+      "source": "마차가 멈춘 것은 그로부터 두 시진이 지난 후, 자정 무렵이었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "He kept a close eye on Eight Spring Gorge from a distance of only two hours, and when he heard the result of the battle, he turned his horses around.",
+      "defect": "The distance is halved from four hours to two, and the leader’s singular horse is changed to multiple horses.",
+      "id": "F04",
+      "rationale": "두 시진 is approximately four hours, while 말 머리를 돌렸죠 literally describes him turning his horse around.",
+      "replacement": "He kept a close eye on Eight Spring Gorge from only four hours away, then turned his horse around when he heard the outcome of the battle.",
+      "severity": "critical",
+      "source": "불과 두 시진 떨어진 거리에서 팔천협을 예의 주시하다가 전투 결과를 듣고 말 머리를 돌렸죠."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“It’s a shrine that was abandoned after a famine several years ago, though it seems people from the nearby villages still come here from time to time.”",
+      "defect": "The draft replaces nearby commoners with people from nearby villages, adding a settlement detail and losing the social category later contrasted with hunters.",
+      "id": "F05",
+      "rationale": "인근 양민들 means local or nearby commoners; it does not state that they come from villages.",
+      "replacement": "“It’s a shrine that was abandoned after a famine several years ago, though it seems local commoners still come here from time to time.”",
+      "severity": "minor",
+      "source": "수년 전 기근 이후로 버려진 사당인데, 지금도 간혹 인근 양민들이 오는 모양이에요."
+    },
+    {
+      "confidence": 0.96,
+      "current": "I had beaten them badly enough that they certainly needed treatment.",
+      "defect": "The draft sanitizes the narrator’s coarse, emphatic description of how thoroughly he demolished the bandits.",
+      "id": "F06",
+      "rationale": "개박살을 내다 is strongly colloquial and vulgar, closer to beating someone to pieces or beating the shit out of them than merely beating them badly.",
+      "replacement": "I’d beaten the shit out of them, so of course they’d needed treatment.",
+      "severity": "major",
+      "source": "그 정도로 개박살을 내 줬으니 치료가 필요하긴 했을 거다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“My goodness, look at me. I haven’t even properly introduced myself yet. I’m Wolhwa, Branch Leader of the Lower District Sect’s Shanxi Branch.”",
+      "defect": "“Look at me” is a literal calque that loses Wolhwa’s self-correcting social cue, and the established title is not rendered as Shanxi Branch Leader.",
+      "id": "F07",
+      "rationale": "내 정신 좀 봐 is an idiomatic acknowledgment of her lapse in manners, while 산서지부장 has the established rendering “Shanxi Branch Leader.”",
+      "replacement": "“Where are my manners? I haven’t even properly introduced myself yet. I’m Wolhwa, Shanxi Branch Leader of the Lower District Sect.”",
+      "severity": "minor",
+      "source": "내 정신 좀 봐, 아직 정식으로 인사드린 적이 없네요. 하오문 산서지부장 월화라고 합니다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“A promising young master and a peerless beauty…… Ah, just looking at them makes my heart race. Don’t you agree?”",
+      "defect": "“Young master” can denote a noble heir and therefore obscures that 고수 praises Jin Mukyung as a highly skilled martial artist.",
+      "id": "F08",
+      "rationale": "고수 is the established martial designation “master,” not the social title “Young Master.”",
+      "replacement": "“A promising young martial arts master and a peerless beauty… Whew, just looking at them makes my heart race. Don’t you agree?”",
+      "severity": "major",
+      "source": "촉망받는 젊은 고수와 절세의 미녀라…… 크으, 보기만 해도 가슴이 뛰는군요. 안 그렇습니까?"
+    },
+    {
+      "confidence": 0.99,
+      "current": "If there are thick-faced people like me, then there can be timid people too.",
+      "defect": "“Thick-faced” is an unnatural literal calque in contemporary English.",
+      "id": "F09",
+      "rationale": "낯짝 두꺼운 describes someone unabashed or thick-skinned; “thick-skinned” preserves the comic contrast with 소심한 naturally.",
+      "replacement": "If there are thick-skinned guys like me, then there can be timid people too.",
+      "severity": "minor",
+      "source": "나처럼 낯짝 두꺼운 놈이 있으면 소심한 사람도 있는 거야."
+    }
+  ],
+  "summary": "Two time quantities are halved, Wolhwa’s hierarchy is initially omitted, and several localized choices alter physical detail, social category, register, or martial terminology.",
+  "version": 1
+}
