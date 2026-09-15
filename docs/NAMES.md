@@ -366,3 +366,10 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 강시 | **jiangshi** | Reanimated corpse from folklore; Childeuk and Hong mistakenly identify Taekyung as one. |
 | 태초 마을 | **Taecho Village** | Place named by Taekyung immediately after surviving the fall. |
 | 벽호공 | **Wall Lizard Technique** | Climbing martial art used to scale walls and cliffs. |
+| 낙안봉 | **Falling Goose Peak** | Huashan peak exceeding five hundred jang; Cheongpung climbed it as a child. |
+| 인피면구 | **human-skin mask** | Disguise made from peeled human facial skin. |
+| 무재 | **martial talent** | Innate aptitude for learning martial arts. |
+| 검성 수련 간접 체험기 | **Sword Saint Training: A Secondhand Experience** | Cheongpung's Peak-grade cliff-training Quest. |
+| 검성 수련 간접 체험기-2 | **Sword Saint Training: A Secondhand Experience—2** | Linked Quest generated after the first training Quest succeeds. |
+| 초보 수련자 | **Beginner Trainee** | System Title upgraded after the tenth cliff climb. |
+| 중급 수련자 | **Intermediate Trainee** | System Title received after Beginner Trainee is upgraded. |
