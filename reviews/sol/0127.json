@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“You didn’t drink by yourself yesterday, did you? Or fall asleep halfway through?”",
+      "defect": "The first question is reversed. Hyuk Mujin asks whether Taekyung alone refrained from drinking, not whether Taekyung drank without companions.",
+      "id": "F01",
+      "rationale": "혼자 modifies the implied subject of 안 드신, meaning that Taekyung might have been the sole abstainer. This distinction motivates Taekyung’s reply that all four of them kept drinking.",
+      "replacement": "“Don’t tell me you were the only one who didn’t drink yesterday. Or did you fall asleep halfway through?”",
+      "severity": "critical",
+      "source": "“혹시 어제 혼자 술 안 드신 건 아니죠? 아니면 중간에 주무셨다거나.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“I don’t remember that, but I do remember him starting to chase women exactly ten years later. When someone asked what he wanted to become when he grew up, he said he wanted to be the greatest romantic in the world.”",
+      "defect": "The draft replaces Wipeng as the person who asked Taekyung with an unspecified “someone” and softens the explicitly disparaging 계집질 and sexually charged 풍류남아 into comparatively neutral romantic language.",
+      "id": "F02",
+      "rationale": "The omitted subject of 물었더니 is Wipeng, who is recounting his own memory. 계집질 is derogatory womanizing, while the ensuing references to the night and courtesans establish 풍류남아 as a ladies’ man rather than a romantic.",
+      "replacement": "“I don’t remember that, but I do remember him starting to womanize exactly ten years later. When I asked what he wanted to be when he grew up, he said he’d become the greatest ladies’ man under heaven.”",
+      "severity": "major",
+      "source": "“그건 모르겠고, 그러고서 딱 십 년 후부터 계집질 시작한 건 기억납니다. 커서 뭐가 될 거냐고 물었더니 그때는 천하제일의 풍류남아라고 하던데요.”"
+    },
+    {
+      "confidence": 0.93,
+      "current": "As Mukyung, unable even to get the satisfaction of one punch, controlled his breathing to calm down, deep furrows formed between the other two men’s brows.",
+      "defect": "The draft ties Mukyung’s frustration to not landing a punch, but the source says his interjection got him nowhere. This changes the immediate causal beat and introduces a physical-action reference absent from the sentence.",
+      "id": "F03",
+      "rationale": "본전도 못 찾다 means that he failed to gain anything from the exchange or came away empty-handed; here it refers to his failed attempt to challenge Taekyung’s account.",
+      "replacement": "As Jin Mukyung, who had gotten nowhere with his interruption, steadied his breathing to calm himself, the furrows between the other two men’s brows only deepened.",
+      "severity": "major",
+      "source": "본전도 못 찾은 진무경이 화를 가라앉히려 호흡을 가다듬을 때, 다른 두 사람은 미간의 골만 깊어지고 있었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Wipeng had already demolished two bottles by himself, and Mukyung was injured, but could I be the only one to sit out?",
+      "defect": "The draft omits that both Wipeng and the injured Mukyung are filling their glasses. Mukyung’s injury is incorrectly presented as a standalone circumstance rather than something he drinks despite.",
+      "id": "F04",
+      "rationale": "The repeated construction 위팽도… 진무경도 잔을 채우는데 assigns the glass-filling action to both men, emphasizing that even the injured Mukyung continues drinking.",
+      "replacement": "Wipeng, who had already demolished two bottles by himself, was filling his glass, and so was the injured Mukyung. How could I be the only one to sit out?",
+      "severity": "major",
+      "source": "이미 혼자서 두 병을 아작 낸 위팽도, 부상당한 진무경도 잔을 채우는데 나라고 뺄 수 있나."
+    },
+    {
+      "confidence": 0.99,
+      "current": "At this level, soju and beer couldn’t even introduce themselves.",
+      "defect": "“Couldn’t even introduce themselves” is an unnatural literal rendering of the idiom 명함도 못 내밀다.",
+      "id": "F05",
+      "rationale": "명함도 못 내밀다 means being so thoroughly outclassed that one cannot even claim comparison; “couldn’t hold a candle to it” preserves that meaning naturally.",
+      "replacement": "At this strength, soju and beer couldn’t even hold a candle to it.",
+      "severity": "minor",
+      "source": "이 정도면 소주, 맥주는 명함도 못 내밀 것 같다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Ah, as expected! The level of a Captain who used to drink with courtesans every day!”",
+      "defect": "“The level of a Captain” is a Korean-syntax calque and does not read as spontaneous English praise.",
+      "id": "F06",
+      "rationale": "역시 and 수준 express Hyuk Mujin’s impressed recognition of Taekyung’s established caliber, while 허구한 날 is colloquial and exasperated rather than the neutral “every day.”",
+      "replacement": "“Ah, I knew it! That’s our Captain—the man who used to drink with courtesans every damn day!”",
+      "severity": "minor",
+      "source": "“아아, 역시! 허구한 날 기녀들 끼고 술 마시던 조장님 수준!”"
+    }
+  ],
+  "summary": "One critical reversal changes Hyuk Mujin’s question about who abstained from drinking. Additional findings concern an omitted subject and softened womanizing register, an altered causal beat, an omitted drinking action, and two localized English calques.",
+  "version": 1
+}
