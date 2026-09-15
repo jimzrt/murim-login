@@ -1,0 +1,106 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Here! It’s delicious! Try some!”\n\n“…You eat plenty.”\n\n“I’m eating!”",
+      "defect": "Cheongpung's words are clearly distorted because his mouth is full, but the draft renders them as ordinary speech. The final line also changes his response from the mouth-full equivalent of “Thanks, I will” to the ongoing action “I’m eating.”",
+      "id": "F01",
+      "rationale": "The phonetic distortions are the physical mechanism of the joke, and 먹겠습니다 expresses an eager acceptance rather than a statement that he is already eating.",
+      "replacement": "“Hewe! It’s delishush! Try shome!”\n\n“…You eat plenty.”\n\n“Thanksh, I will!”",
+      "severity": "major",
+      "source": "“으이! 마이어으! 드스 브스으!”\n\n“……너나 많이 드세요.”\n\n“즈 므그스느드!”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "I may not be a martial artist, but I’ve seen and heard enough in my time, so you should look forward to it.",
+      "defect": "“Look forward to it” implies positive anticipation. Jang Taebo is instead invoking his worldly experience to tell Taekyung to trust his prediction that a large, disorderly crowd will appear.",
+      "id": "F02",
+      "rationale": "기대해 보게 functions here as confidence in Jang Taebo's forecast, not an invitation to anticipate the event with pleasure.",
+      "replacement": "I may not be a martial artist, but I have enough worldly experience to know. Just wait and see.",
+      "severity": "major",
+      "source": "내 비록 무림인은 아니지만 보고 들은 경륜은 제법 되니 기대해 보게."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Ten thousand silver nyang? We’ll have to pull up every last pillar of the Jin Family of Taiyuan.”",
+      "defect": "The inclusive “we” makes Jang Taebo share responsibility for paying his own fee. He is telling Taekyung that such a payment would strip the Jin Family of Taiyuan bare.",
+      "id": "F03",
+      "rationale": "The implied subject is Taekyung and his family, whose money Taekyung has just offered to spend; Jang Taebo is the proposed recipient.",
+      "replacement": "“Ten thousand silver nyang? You’d have to pull up every last pillar of the Jin Family of Taiyuan.”",
+      "severity": "critical",
+      "source": "“은자 만 냥을? 태원 진가 기둥뿌리를 죄다 뽑아야겠구먼.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "That man could probably write an autobiography. He could call it *A Hundred Ways to Get Yourself Beaten to Death*.",
+      "defect": "“That man” sanitizes the strongly contemptuous 저 새끼 and weakens Taekyung's profane narrative voice.",
+      "id": "F04",
+      "rationale": "새끼 is a direct insult here, prompted by Hyuk Mujin's shameless request, and should not be neutralized.",
+      "replacement": "That bastard could probably write an autobiography. He could call it *A Hundred Ways to Get Yourself Beaten to Death*.",
+      "severity": "major",
+      "source": "저 새끼는 자서전 써도 될 것 같다. 제목은 [맞아 뒤지는 방법 100선]."
+    },
+    {
+      "confidence": 0.99,
+      "current": "*Damn it. Flame Divine Palm.*",
+      "defect": "“Damn it” softens the explicitly strong profanity 시발 to the same level as the chapter's separate uses of 젠장.",
+      "id": "F05",
+      "rationale": "The source deliberately escalates to stronger profanity when Taekyung realizes Jeok Cheongang is heating the space beneath the table with the Flame Divine Palm.",
+      "replacement": "*Fuck. Flame Divine Palm.*",
+      "severity": "major",
+      "source": "‘시발, 화염신장.’"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“You ate it.”",
+      "defect": "The neutral verb “ate” removes the contemptuous vulgarity of 처먹었지 and flattens Jeok Cheongang's insulting delivery.",
+      "id": "F06",
+      "rationale": "처먹다 is a deliberately coarse form of “eat”; the replacement preserves that register while remaining natural for a pill.",
+      "replacement": "“You swallowed the damn thing.”",
+      "severity": "major",
+      "source": "“네놈이 처먹었지.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“I could learn them!”",
+      "defect": "The plural pronoun treats all the possessions as learnable, even though Taekyung is referring to learning the martial art recorded in the manual.",
+      "id": "F07",
+      "rationale": "익히다 in this context means mastering or practicing the Flame Divine Palm, not learning the physical items collectively.",
+      "replacement": "“What if I learn the martial art?”",
+      "severity": "minor",
+      "source": "“제가 익힐 수도 있습니다!”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "*No, damn it.*",
+      "defect": "The draft again softens 시발 and produces an unnatural English reaction.",
+      "id": "F08",
+      "rationale": "The source is Taekyung's profane disbelief at being forced to retain property he is trying to return.",
+      "replacement": "*What the fuck?*",
+      "severity": "major",
+      "source": "‘아니, 시발.’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“G-Grandpa, are we g-going?”",
+      "defect": "The draft changes the subject from Jeok Cheongang to a collective “we” and represents mouth-obstructed speech as nervous stuttering.",
+      "id": "F09",
+      "rationale": "가시게요 asks whether the addressed elder is leaving, while the distorted syllables show that Cheongpung is speaking with his mouth full.",
+      "replacement": "“Gwandpa, awe you leaving?”",
+      "severity": "critical",
+      "source": "“하하버히, 가히게호?”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "After exchanging a nod with Jang Taebo, Jeok Cheongang turned away and tossed out one meaningful remark.",
+      "defect": "The draft changes an exchanged greeting made with the eyes into a nod, introducing a different physical action.",
+      "id": "F10",
+      "rationale": "눈인사 specifically denotes acknowledging or greeting someone with the eyes; the source does not describe either man nodding.",
+      "replacement": "After exchanging a silent glance of farewell with Jang Taebo, Jeok Cheongang turned away and tossed out one meaningful remark.",
+      "severity": "critical",
+      "source": "장태보와도 눈인사를 주고받은 그는 의미심장한 한마디를 던지고 돌아섰다."
+    }
+  ],
+  "summary": "The draft contains two consequential subject changes, several losses of mouth-full speech and profanity, and localized action and pragmatic inaccuracies.",
+  "version": 1
+}

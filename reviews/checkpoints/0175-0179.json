@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Jeok reveals that the Fire Gate Clan’s Treasured Jade is missing, warns that all Fire Gate Clan items will eventually be reclaimed, and leaves with Cheongpung after threatening Taekyung if the items are stolen or exposed.",
+      "defect": "The summary says Jeok leaves with Cheongpung, which is not depicted in the bounded reading copies, and describes the second threat as exposure rather than Taekyung learning the martial art.",
+      "id": "C01",
+      "rationale": "This removes an unsupported event that functions as an accidental spoiler and accurately reflects Jeok’s two explicit threats in Chapter 179.",
+      "replacement": "Jeok reveals that the Fire Gate Clan’s Treasured Jade is missing, warns that all Fire Gate Clan items will eventually be reclaimed, and threatens to kill Taekyung if the items are stolen or if he learns the Flame Divine Palm.",
+      "severity": "major",
+      "source": "checkpoint summary, Plot, final sentence"
+    },
+    {
+      "confidence": 1.0,
+      "current": "I gave him the name Jangcheon, meaning “Vast Sky.””",
+      "defect": "The sentence has a duplicated closing quotation mark.",
+      "id": "C02",
+      "rationale": "Removing the extra quotation mark restores correct punctuation without changing the meaning.",
+      "replacement": "I gave him the name Jangcheon, meaning “Vast Sky.”",
+      "severity": "minor",
+      "source": "Chapter 176, Jeok Cheongang recounting Jangcheon’s naming"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Where is the treasured jade?”\n\n“Pardon?”\n\n“The treasured jade. The jade.”",
+      "defect": "The established item name Treasured Jade is incorrectly lowercased in both direct references.",
+      "id": "C03",
+      "rationale": "The binding terminology decision and the checkpoint state consistently establish Treasured Jade as the formal name.",
+      "replacement": "“Where is the Treasured Jade?”\n\n“Pardon?”\n\n“The Treasured Jade. The jade.”",
+      "severity": "minor",
+      "source": "Chapter 179, Jeok Cheongang asking about the missing clan treasure"
+    },
+    {
+      "confidence": 1.0,
+      "current": "\"...!\"",
+      "defect": "This reaction uses straight quotation marks and three periods instead of the packet’s required curly quotation marks and ellipsis character.",
+      "id": "C04",
+      "rationale": "The replacement conforms to the stipulated dialogue and ellipsis formatting used throughout the reading copies.",
+      "replacement": "“…!”",
+      "severity": "minor",
+      "source": "Chapter 179, Taekyung reacting to Jeok Cheongang’s claim that three items must be reclaimed"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Hyuk Mujin swallowed a hollow breath and spoke.",
+      "defect": "“Swallowed a hollow breath” is an unnatural English collocation and reads like a literal translation rather than spontaneous narration.",
+      "id": "C05",
+      "rationale": "The replacement preserves his nervous physical reaction while using natural contemporary English.",
+      "replacement": "Hyuk Mujin swallowed hard and spoke.",
+      "severity": "minor",
+      "source": "Chapter 179, opening exchange after Taekyung remembers Wipeng’s instructions"
+    }
+  ],
+  "summary": "The packet is broadly coherent in voice and continuity, but the checkpoint summary adds an unsupported departure detail, Chapter 179 drifts from the established Treasured Jade capitalization, and several localized prose or formatting errors remain.",
+  "version": 1
+}
