@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "A hulking man reminiscent of a Minotaur glared with eyes as big as brass bowls.",
+      "defect": "“Brass bowls” invents a material image absent from 퉁방울만 한, which describes extremely large, bulging eyes.",
+      "id": "F01",
+      "rationale": "The source emphasizes the man’s huge, glaring eyes without comparing them specifically to brass objects.",
+      "replacement": "A hulking man reminiscent of a Minotaur glared at me with eyes as big as saucers.",
+      "severity": "minor",
+      "source": "미노타우로스를 연상시키는 덩치가 퉁방울만 한 눈을 부라렸다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "If someone like that were a thug, even the people’s sledgehammer wouldn’t be enough to deal with him.",
+      "defect": "The translation omits the contrast with 민중의 지팡이, the Korean epithet for the police, leaving the “people’s sledgehammer” punchline without its setup.",
+      "id": "F02",
+      "rationale": "The joke escalates from the police as the “people’s cane” to an imagined “people’s sledgehammer”; both halves are required.",
+      "replacement": "If a guy like that were a thug, the police—the people’s cane—wouldn’t stand a chance. Even the people’s sledgehammer wouldn’t be enough.",
+      "severity": "major",
+      "source": "만약 저런 놈이 건달이라면 민중의 지팡이가 아니라 민중의 오함마가 와도 안 된다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "He clearly intended to have a conversation with his body.",
+      "defect": "The English suggests that Chulwoo intends to converse with his own body rather than preserving the euphemistic joke about settling matters physically.",
+      "id": "F03",
+      "rationale": "몸의 대화 is a euphemistic joke for communicating through physical violence, not a conversation directed at one’s own body.",
+      "replacement": "He clearly meant to have a physical conversation.",
+      "severity": "minor",
+      "source": "몸의 대화를 나눌 생각인 게 분명하다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "I clicked my tongue and stepped forward.",
+      "defect": "The physical action is changed: 입맛을 다시다 means smacking one’s lips, not clicking one’s tongue.",
+      "id": "F04",
+      "rationale": "The source explicitly describes Taekyung smacking his lips as he reluctantly intervenes.",
+      "replacement": "I smacked my lips and stepped forward.",
+      "severity": "critical",
+      "source": "나는 입맛을 다시며 앞으로 나섰다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "I continued toward the hesitant Chulwoo.",
+      "defect": "The draft turns 말을 이었다, “continued speaking,” into continued physical movement toward Chulwoo.",
+      "id": "F05",
+      "rationale": "The source says Taekyung continues his statement while Chulwoo momentarily pauses; it does not describe another advance.",
+      "replacement": "I continued, addressing Chulwoo, who had paused.",
+      "severity": "critical",
+      "source": "멈칫한 철우를 향해 말을 이었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Watch your language. Before you can mourn me for three years.",
+      "defect": "The draft reverses the threat by making Chulwoo mourn Taekyung. Taekyung is warning Chulwoo that his own death could leave others observing the traditional three-year mourning period.",
+      "id": "F06",
+      "rationale": "삼년상 치르기 전에 threatens Chulwoo with death and the resulting three-year mourning observance; Taekyung is not presenting himself as the prospective deceased.",
+      "replacement": "Watch your mouth—unless you want your family mourning you for three years.",
+      "severity": "critical",
+      "source": "말 예쁘게 해라. 삼년상 치르기 전에."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“My Senior Brother warned me over and over… but you’re beyond saving. Let’s see you take a few hits.”",
+      "defect": "“You’re beyond saving” changes 네놈은 안 되겠다 from Chulwoo deciding he cannot let Taekyung’s conduct pass despite his Senior Brother’s warning.",
+      "id": "F07",
+      "rationale": "The source contrasts the Senior Brother’s repeated warning with Chulwoo’s decision to disregard it specifically for Taekyung.",
+      "replacement": "“My Senior Brother warned me over and over… but I can’t let you off. Time for you to take a few hits.”",
+      "severity": "major",
+      "source": "사형께서 신신당부했는데…… 네놈은 안 되겠다. 몇 대 맞자."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Meanwhile, I had completely regained my composure. Hyuk Mujin and Cheongpung were watching the spectacle from across the river, while Woo Hwangtae stood there with his mouth hanging open, staring at our exchange.",
+      "defect": "The idiom 강 건너 불구경 is translated literally, falsely relocating Hyuk Mujin and Cheongpung across a river.",
+      "id": "F08",
+      "rationale": "강 건너 불구경 describes detached spectatorship—watching a fire safely from across a river—not the characters’ physical location.",
+      "replacement": "Meanwhile, I had completely regained my composure. Hyuk Mujin and Cheongpung were watching from the sidelines as if none of this concerned them, while Woo Hwangtae stared at our exchange with his mouth hanging open.",
+      "severity": "critical",
+      "source": "혁무진과 청풍은 강 건너 불구경 중이고, 우황태는 입을 떡 벌린 채 우리의 공방을 지켜보고 있었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Dunno. Feels like it’s been more than one shichen.”",
+      "defect": "The elapsed time is substantially increased: 한 식경 is roughly the time needed for a meal, about thirty minutes, whereas one shichen is about two hours.",
+      "id": "F09",
+      "rationale": "The source specifies one 식경, not one 시진; the draft changes the quantity by approximately a factor of four.",
+      "replacement": "“Dunno. Feels like it’s been more than half an hour.”",
+      "severity": "critical",
+      "source": "몰러, 한 식경은 넘은 것 같은데."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The real recognize the real.",
+      "defect": "The line is ungrammatical and reads like a literal calque rather than natural spoken English.",
+      "id": "F10",
+      "rationale": "The source is a casual claim that genuinely exceptional people naturally recognize one another.",
+      "replacement": "Real talent recognizes real talent.",
+      "severity": "minor",
+      "source": "원래 진짜는 진짜를 알아보는 법."
+    },
+    {
+      "confidence": 1.0,
+      "current": "While everyone looked on with warm smiles, the broadly grinning Jin Taekyung and Chulwoo exchanged words in voices so quiet that no one else could hear.",
+      "defect": "“No one else could hear” is an unsupported absolute and contradicts the subsequent statement that Peak masters could hear the exchange.",
+      "id": "F11",
+      "rationale": "The source only says their voices were very quiet; it does not say that nobody else could hear them, and the closing sentence explicitly identifies who could.",
+      "replacement": "While everyone looked on with warm smiles, the broadly grinning Jin Taekyung and Chulwoo exchanged words in very low voices.",
+      "severity": "critical",
+      "source": "모두가 흐뭇하게 웃으며 그들을 바라보고 있을 때, 벙긋벙긋 웃던 진태경과 철우는 매우 작은 목소리로 대화를 주고받았다."
+    }
+  ],
+  "summary": "Several actionable fidelity issues alter physical actions, a threat’s target, elapsed time, and who can hear the final exchange; there are also localized losses in humor and natural phrasing.",
+  "version": 1
+}
