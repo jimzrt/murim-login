@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "“Of course. If you possess more than a jiazi’s worth of internal energy[^1] and master our sect’s martial arts.”",
+      "defect": "The threshold is changed from at least two jiazi to more than one jiazi, and the requirement to cultivate the sect’s martial arts to their utmost limit is omitted.",
+      "id": "F01",
+      "rationale": "이 갑자 means two jiazi, 이상의 means at least that amount, and 극성으로 explicitly requires mastery to the highest degree.",
+      "replacement": "“Of course. If you possess at least two jiazi’s worth of internal energy[^1] and master our sect’s martial arts to the utmost.”",
+      "severity": "critical",
+      "source": "물론이다. 이 갑자 이상의 공력과 본문의 무공을 극성으로 익힌다면."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Crack.\n\nThe spear shaft I gripped tightly bent under the force.",
+      "defect": "The draft weakens the physical action: the shaft is crushed or buckles because it cannot withstand Taekyung’s grip, rather than merely bending under unspecified force.",
+      "id": "F02",
+      "rationale": "꽉 움켜잡은 and 우그러진다 describe deformation caused specifically by his powerful grip.",
+      "replacement": "Crack.\n\nThe spear shaft buckled under the force of my crushing grip.",
+      "severity": "major",
+      "source": "우드득.\n\n꽉 움켜잡은 창대가 힘을 견디지 못하고 우그러진다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Are you seriously saying that as though it explains anything?”\n\n“If it isn’t an explanation, is it a colt?”",
+      "defect": "The first line replaces 말 with “explanation,” leaving the reply about a colt nonsensical and erasing the deliberate Korean word/horse pun.",
+      "id": "F03",
+      "rationale": "말 means “words” here but is also a homonym for “horse”; 망아지, “foal,” is Jeok Cheongang’s intentional pun and needs preservation with a brief linguistic footnote.",
+      "replacement": "“Do you seriously call that *mal*?”\n\n“If it isn’t *mal*—words—then is it a foal?”[^2]\n\n[^2]: *Mal* means “words,” but can also mean “horse,” setting up Jeok’s reply about a foal.",
+      "severity": "major",
+      "source": "“아니, 그걸 말이라고 하십니까?”\n\n“말이 아니면 망아지냐?”"
+    },
+    {
+      "confidence": 0.93,
+      "current": "He could state with certainty that even the Sword Saint of old had never produced anything like this.",
+      "defect": "The draft turns a comparison of degree into an absolute claim that the Sword Saint never produced a similar result at any point.",
+      "id": "F04",
+      "rationale": "이 정도는 아니었으리라 means the Sword Saint likely was not at this level, not that he categorically never created anything similar.",
+      "replacement": "He was certain that even the Sword Saint of years past had not been capable of this much.",
+      "severity": "major",
+      "source": "단언컨대 석년의 검성도 이 정도는 아니었으리라."
+    },
+    {
+      "confidence": 0.94,
+      "current": "I charged at Jeok Cheongang, whose expression was both exasperated and pleased.",
+      "defect": "“Exasperated” adds irritation absent from 허탈, which conveys stunned disbelief or speechlessness.",
+      "id": "F05",
+      "rationale": "허탈하면서도 기쁜 describes an incongruous mixture of stunned disbelief and pleasure.",
+      "replacement": "I charged at Jeok Cheongang, who looked both dumbfounded and pleased.",
+      "severity": "minor",
+      "source": "나는 허탈하면서도 기쁜 표정의 적천강을 향해 달려들었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "It was surely the internal energy Jeok Cheongang was breathing into me.",
+      "defect": "“Breathing into me” is an overly literal and mechanically misleading rendering of energy being infused or channeled into Taekyung.",
+      "id": "F06",
+      "rationale": "불어넣어 준 is idiomatic here for transferring or infusing internal energy, which the preceding sentence says is entering through Taekyung’s back.",
+      "replacement": "It had to be internal energy Jeok Cheongang was channeling into me.",
+      "severity": "minor",
+      "source": "필시 적천강이 나를 위해 불어넣어 준 공력일 것이다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "In response to the snoring, Jeok Cheongang threw back his head and burst into thunderous laughter.",
+      "defect": "The draft omits the comic cue that the snoring comes instead of an answer and adds an unsupported head movement.",
+      "id": "F07",
+      "rationale": "대답 대신 is the punchline’s explicit contrast, while the source says only that Jeok Cheongang breaks into hearty laughter.",
+      "replacement": "At the snore that came instead of an answer, Jeok Cheongang burst into hearty laughter.",
+      "severity": "minor",
+      "source": "대답 대신 들려온 코골이에 적천강은 박장대소를 터트렸다."
+    }
+  ],
+  "summary": "One critical quantity error, three major fidelity or humor losses, and three localized wording issues.",
+  "version": 1
+}
