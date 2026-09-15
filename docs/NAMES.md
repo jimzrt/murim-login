@@ -297,3 +297,9 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 아파야 무인이다 | **You Must Hurt to Become a Martial Artist** | Wuxia novel title read by Hyuk Mujin. |
 | 무림의 아들 걸어서 구주팔황 세 바퀴 반 | **The Son of Murim Walks Three and a Half Rounds Around the Nine Provinces and Eight Wastes** | Wuxia novel title read by Hyuk Mujin. |
 | 구주팔황 | **Nine Provinces and Eight Wastes** | Literary geographic phrase appearing in a wuxia novel title. |
+| 이풍 | **Li Feng** | Shanxi Province's Assistant Military Commissioner; former Huashan lay disciple |
+| 이 첨사 | **Assistant Commissioner Li** | Address form for Li Feng |
+| 홍 내관 | **Eunuch Hong** | Eunuch and Deputy Military Commissioner of Shanxi Province |
+| 도지휘동지 | **Deputy Military Commissioner** | Second-rank military office held by Eunuch Hong |
+| 도지휘사 | **Military Commissioner** | Provincial military commander's office |
+| 종남삼수 | **Three Hands of Zhongnan** | Three renowned Zhongnan Sect martial artists invited to the gathering |
