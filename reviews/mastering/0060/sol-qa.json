@@ -1,0 +1,39 @@
+{
+  "chapter": 60,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.201,
+    "source_characters": 5715,
+    "source_paragraphs": 214,
+    "translation_characters": 12580,
+    "translation_paragraphs": 235
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "일격",
+        "preferred": "One Strike"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "귀가",
+        "preferred": "your family"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "평화",
+        "preferred": "Peace Guild"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
