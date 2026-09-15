@@ -1,0 +1,55 @@
+{
+  "chapter": 145,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.308,
+    "source_characters": 5874,
+    "source_paragraphs": 206,
+    "translation_characters": 13556,
+    "translation_paragraphs": 211
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "기세",
+        "preferred": "aura / momentum"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "정파",
+        "preferred": "orthodox faction"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "본가",
+        "preferred": "our family / this family"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "대협",
+        "preferred": "Great Hero or Sir depending tone"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "구파일방",
+        "preferred": "Nine Sects and One Gang"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
