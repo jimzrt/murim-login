@@ -149,3 +149,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 원시천존 | **Primordial Heavenly Venerable** | Daoist deity invoked alongside the Jade Emperor. |
 | 항산검문주 | **Sect Leader of the Mount Heng Sword Sect** | Title for Lee Seowol, the sect's current leader. |
 | 산서제일미 | **Shanxi's foremost beauty** | Former reputation of Taekyung's mother. |
+| 봉황객잔 | **Phoenix Inn** | Famous Shanxi inn with luxurious lodging, imperial-court cuisine, and a beautiful proprietress. |
+| 계용옥미갱 | **chicken-and-corn soup** | Egg-thickened corn soup. |
+| 계용옥미앵 | **chicken-and-corn soup** | Source spelling variant of 계용옥미갱 for the same dish. |
