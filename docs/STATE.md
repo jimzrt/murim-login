@@ -1,16 +1,17 @@
 # Translation State
 
-- Last completed: 174
-- Next chapter: 175
-- Current block: 170–174 (5/5)
-- Latest translation: `translations/0174.md`
-- Latest summary: `summaries/beats/0174.md`
-- Safe profiles through: chapter 174
+- Last completed: 175
+- Next chapter: 176
+- Current block: 175–179 (1/5)
+- Latest translation: `translations/0175.md`
+- Latest summary: `summaries/beats/0175.md`
+- Safe profiles through: chapter 175
 
 ## Current Block
 
-- Cheongpung reveals that Jin Taekyung killed Blade of Flowers Jin Baekyang, prompting Jeok Cheongang to attack Taekyung with the Flame Divine Palm. Cheongpung's Sword Energy briefly slows the attack, but Taekyung's desperate bare-handed defense fails, leaving him unconscious with an Internal Injury.
-- The clash destroys Jang Taebo's home, leaving only its foundation stones. Jeok Cheongang says he has many questions for Taekyung, orders Jang not to seek help, and goes ahead to the inn. Cheongpung carries the unconscious Taekyung and Hyuk Mujin away, while Jang realizes his retirement has ended.
+- Jeok Cheongang watches the unconscious Jin Taekyung and deduces that Taekyung’s Scorching Yang Qi came from the Blazing Flame Divine Pill, since the Fire Gate Clan’s Fire Gate Divine Technique has been passed down through a strict one-person succession with no leakage. He wonders what to do with Taekyung and briefly suspects dark arts after hearing Taekyung mutter unfamiliar words in his sleep.
+- Taekyung awakens after roughly half a day unconscious with only a minor Internal Injury from Jeok Cheongang’s Flame Divine Palm. He learns that Jeok and Cheongpung have been drinking downstairs for more than three shichen and that Jeok ordered Hyuk Mujin to report as soon as he woke.
+- Taekyung reveals that he possesses Jopil’s Flame Divine Palm manual and the Ten-Thousand-Year Cold Iron sword, while the Blazing Flame Divine Pill is inside his body after he consumed it during the battle with Pung Yang. Fearing that Jeok may be Jopil’s master and demand the items back, Taekyung and Mujin attempt to flee through the window. Jeok knocks Mujin down with a bone, then confronts Taekyung, whose excuse that he was going to the privy fails.
 
 ## Open Questions
 
@@ -21,7 +22,7 @@
 - Who are the tall, handsome martial artists who came looking for Jeok Cheongang?
 - Why does Qi Sense display Jeok Cheongang as Level 3 despite his Supreme Peak martial ability?
 - Was Jopil a disciple of Jeok Cheongang?
-- How severe is Taekyung's Internal Injury, and when will he regain consciousness?
+- How will Jeok Cheongang respond to Taekyung’s possession of the Flame Divine Palm manual and consumption of the Blazing Flame Divine Pill?
 
 ## Exceptional Decision
 
@@ -32,7 +33,7 @@
 - Render 항아 as “Hanga,” 장팔 as “Jang-pal,” 장가촌 as “Jang Family Village,” and 신령님 as “Mountain Spirit.”
 - Render 반박귀진 as “Returning to Simplicity,” 이형환위 as “Shifting Form and Position,” 허공섭물 as “Seizing an Object Through Empty Space,” and 백련정강 as “Baekryeon Jeonggang.”
 - Render 꼰대 as “boomer,” 꼰머 as “boomer-brain,” and 국밥 as “gukbap” with a footnote.
-- Render 작은 조부님 as “great-uncle” and 전사하셨습니다 as “He fell in battle.”
+- Render 작은 조부님 as “great-uncle,” 전사하셨습니다 as “He fell in battle,” and 열화신공 as “Fire Gate Divine Technique.”
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
