@@ -516,3 +516,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 적통 | **orthodox lineage** | The legitimate succession of the Fire Gate Clan's tradition. |
 | 구음절맥 | **Nine Yin Severed Meridians** | Rare severed-meridian condition caused by powerful innate yin energy and associated with an early death. |
 | 닥터 최태 | **Doctor Choi Tae** | Taekyung’s joking doctor label for Jeok Cheongang. |
+| 하 총관 | **Chief Ha** | Surname-and-office form; one of Seok Family Manor's five Outer Stewards. |
+| 외총관 | **Outer Steward** | Senior administrative office at Seok Family Manor. |
+| 일보 후퇴 | **One Step Back** | Peak-Grade Quest requiring Jin Taekyung to make Jeok Cheongang retreat one step. |
