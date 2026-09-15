@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Baek Museong’s clean-cut appearance, which had barged into the situation out of nowhere, seemed harmless enough. But the polite voice that carried the ease of a strong person sounded nothing but arrogant to Woo Hwangtae.",
+      "defect": "The draft grammatically makes Baek Museong’s appearance, rather than Baek Museong himself, barge into the situation. It also weakens 만만해 보였다 from looking like an easy opponent to seeming harmless.",
+      "id": "F01",
+      "rationale": "The source identifies Baek Museong as the person who intervened and says his neat appearance made him look easy to deal with.",
+      "replacement": "Baek Museong had stepped in out of nowhere, and his clean-cut appearance made him seem like an easy mark. His polite voice carried a strong man’s composure, but to Woo Hwangtae, it sounded merely insolent.",
+      "severity": "major",
+      "source": "난데없이 끼어든 백무성의 멀끔한 인상은 만만해 보였고 공손하면서도 강자의 여유가 묻어 나오는 목소리는 건방지게만 들렸다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“You weren’t satisfied with going after me, so you went after Senior Brother too.”",
+      "defect": "Chulwoo is speaking to Baek Museong about Woo Hwangtae, but the draft addresses Woo Hwangtae directly and refers to Baek Museong in the third person, reversing the dialogue’s subject and addressee.",
+      "id": "F02",
+      "rationale": "놈입니다 refers to Woo Hwangtae as a third party, while 대사형 is the person receiving Chulwoo’s Sound Transmission.",
+      "replacement": "“He wasn’t satisfied with going after me—he even went after you, Senior Brother.”",
+      "severity": "critical",
+      "source": "저로 모자라서 대사형까지 건드린 놈입니다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“I was on my way back after emptying myself. No, Senior Brother, do you not trust me? I haven’t even wiped yet. Want to smell?”",
+      "defect": "The draft changes 아직 손 안 닦았는데 from not having washed his hands to not having wiped himself, altering the physical action and making the crude joke more explicit than the source.",
+      "id": "F03",
+      "rationale": "손 안 닦았다 explicitly concerns Chulwoo’s unwashed hands, and 소피보러 간다는 remains euphemistic rather than graphically describing bodily functions.",
+      "replacement": "“I was on my way back after relieving myself. Seriously, Senior Brother, you don’t believe me? I haven’t washed my hands yet. Want to smell them?”",
+      "severity": "critical",
+      "source": "“시원하게 비우고 오는 길에 그만. 아니 사형, 지금 저 못 믿으시는 겁니까? 아직 손 안 닦았는데 냄새 맡아 보실래요?”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“He’s a man. If not for him, there wouldn’t be a Jin Family of Taiyuan today.”",
+      "defect": "The draft claims the Jin Family would not exist without Jin Wikyung. The source says the Jin Family would not be what it is today, crediting him with its present stature rather than its existence.",
+      "id": "F04",
+      "rationale": "오늘의 태원진가 refers to the family in its present form or standing, consistent with Jin Wikyung having established its current prominence.",
+      "replacement": "“He’s a man. If not for him, the Jin Family of Taiyuan wouldn’t be what it is today.”",
+      "severity": "critical",
+      "source": "“사람이다. 그가 아니었다면 오늘의 태원진가도 없었겠지.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Isn’t he trying to take his Benefactor as his Disciple?”\n\n“…”\n\n“…”\n\n“Me?” I asked.\n\n“Captain?” Hyuk Mujin asked.",
+      "defect": "The draft omits Cheongpung’s explanation that he thinks Jeok Cheongang is considering Taekyung because Jeok had been watching him closely.",
+      "id": "F05",
+      "rationale": "The omitted sentence supplies Cheongpung’s observation and the basis for his otherwise seemingly random suggestion.",
+      "replacement": "“Isn’t he trying to take you as his Disciple, Benefactor?”\n\n“…”\n\n“…”\n\n“Maybe not? I think he is. Grandpa Jeok seemed to be watching you closely, Benefactor.”\n\n“Me?” I asked.\n\n“Captain?” Hyuk Mujin asked.",
+      "severity": "major",
+      "source": "“은인을 제자로 삼으려는 것 아니에요?”\n\n“……?”\n\n“……?”\n\n“아닌가? 전 그런 것 같은데. 적 할아버지가 은인을 유심히 보는 것 같더라고요.”\n\n“저를요?”\n\n“조장님을요?”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Do you want to cross blades with him?”",
+      "defect": "The draft introduces blades even though the source only asks whether Chulwoo wants to compete or spar, and Chulwoo is specifically associated with fist fighting.",
+      "id": "F06",
+      "rationale": "겨뤄 보다 means to try matching one’s skills against someone and does not specify weapons.",
+      "replacement": "“Do you want to spar with him?”",
+      "severity": "minor",
+      "source": "“겨뤄 보고 싶으냐?”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Those who know about it, know. The current leader, the Shanxi Extraordinary Hero, is fairly well known. And so is the Heaven Shaking Sword.”",
+      "defect": "The draft reduces the established title 문주 from Sect Leader to the generic leader and turns the final rhetorical question into two flat statements.",
+      "id": "F07",
+      "rationale": "문주 is the binding Sect Leader terminology, and 않느냐 gives the line a rhetorical, conversational ending.",
+      "replacement": "“Those in the know do. The current Sect Leader, the Shanxi Extraordinary Hero, is fairly well known, and so is the Heaven Shaking Sword, isn’t he?”",
+      "severity": "minor",
+      "source": "“아는 사람은 알지. 현 문주인 산서기협(山西奇俠)도 그렇고, 진천검(振天劍)도 제법 알려져 있지 않느냐?”"
+    }
+  ],
+  "summary": "Several actionable fidelity issues alter subjects, actions, and a causal claim; one meaningful line is omitted.",
+  "version": 1
+}
