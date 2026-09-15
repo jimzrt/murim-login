@@ -1,27 +1,27 @@
 # Translation State
 
-- Last completed: 197
-- Next chapter: 198
-- Current block: 195–199 (3/5)
-- Latest translation: `translations/0197.md`
-- Latest summary: `summaries/beats/0197.md`
-- Safe profiles through: chapter 197
+- Last completed: 198
+- Next chapter: 199
+- Current block: 195–199 (4/5)
+- Latest translation: `translations/0198.md`
+- Latest summary: `summaries/beats/0198.md`
+- Safe profiles through: chapter 198
 
 ## Current Block
 
-- Jeok Cheongang explains that cleansing the sinews and washing the marrow requires a master with at least two jiazi of internal energy, substantial financial resources for elixirs, and enough patience to endure potentially fatal pain. Lacking the necessary elixirs, he performs only an abbreviated internal-energy treatment on Jin Taekyung, knocks him unconscious after Taekyung jokes about his naked body, and leaves after the System reports the treatment's success.
-- After examining Taekyung's unconscious body, Jeok Cheongang is stunned by his perfectly balanced bones, muscles, and meridians. He suspects Taekyung may possess the legendary Heavenly Martial Physique and, despite having planned to ask Mae Jonghak to continue the Fire Gate Clan's succession, briefly considers teaching Taekyung himself. Jin Wikyung finds him lingering outside the office and invites him in for a drink.
+- Jeok Cheongang tells Jin Wikyung that cleansing the sinews and washing the marrow was unnecessary for Jin Taekyung and suggests that Taekyung may possess the Heavenly Martial Physique. Wikyung reveals that Taekyung advanced from a Third Rate wastrel to the beginning of the Peak realm in only three months, leading Jeok to reconsider the scale of Taekyung's talent and wonder why Heaven brought them together.
+- The next day, Hyuk Mujin forces Taekyung to attend the extended Jin Family banquet, where Jeok Cheongang makes him drink heavily. Ak Bulgun of the Shandong Yue Family introduces himself as a spear Instructor from Heaven's Gate Temple, explains that he came to retrieve Jin Mukyung, and offers Taekyung special permission to enroll as a cadet. Jeok interrupts when Ak Bulgun places a hand on Taekyung's shoulder, claiming Taekyung as his own.
 
 ## Open Questions
 
-- What is Dark Heaven ultimately seeking, and why was Shanxi Province targeted?
-- Who are the three surviving Dark Heaven remnants, and what can be learned from them?
+- What is Dark Heaven ultimately seeking, why was Shanxi Province targeted, and what can be learned from the three surviving remnants?
 - Will Jeok Cheongang take Jin Taekyung as his Disciple?
 - When will Jang Taebo complete Taekyung's commissioned weapon?
 - Who has the Treasured Jade, or was it lost by Jopil?
 - What consequences will follow Woo Hwangtae's conflict with Chulwoo and the Jin Family?
 - Will Song Il honor his pledge after returning to Zhongnan, and what consequences will follow his confrontation with the Jin Family?
 - Can Taekyung inherit the Fire Gate Clan's legacy and draw out Fire Heaven Sword's true power?
+- Will Taekyung accept Ak Bulgun's special admission offer to Heaven's Gate Temple? 
 
 ## Exceptional Decision
 
