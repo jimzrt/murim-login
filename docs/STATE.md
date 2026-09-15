@@ -1,16 +1,17 @@
 # Translation State
 
-- Last completed: 142
-- Next chapter: 143
-- Current block: 140–144 (3/5)
-- Latest translation: `translations/0142.md`
-- Latest summary: `summaries/beats/0142.md`
-- Safe profiles through: chapter 142
+- Last completed: 143
+- Next chapter: 144
+- Current block: 140–144 (4/5)
+- Latest translation: `translations/0143.md`
+- Latest summary: `summaries/beats/0143.md`
+- Safe profiles through: chapter 143
 
 ## Current Block
 
-- Li Feng recognizes Cheongpung as his Martial Uncle, confirming Cheongpung as the inheritor of Mae Jonghak's legacy and humiliating Gong Ilhyuk. Hong Jin then dismisses the Zhongnan delegation, abandons their expected partnership, and chooses to pursue the Shaanxi–Shanxi trade project through Huashan instead.
-- Gong Ilhyuk's veiled threat fails to change Hong Jin's decision. Li Feng agrees to act as an intermediary with Huashan and inform his Master and Mae Jonghak about Cheongpung. Taekyung and Cheongpung mock the departing Zhongnan disciples, with Cheongpung swearing for the first time, and Gong Ilhyuk leaves vowing revenge.
+- After the Three Hands of Zhongnan leave in disgrace, Hong Jin has the grand hall cleaned and the meal replaced. He and Li Feng escort Jin Taekyung and Cheongpung through the Shanxi Provincial Office, where Li Feng commands the soldiers' respect while Hong Jin inspires fear among officials and servants.
+- At the heavily guarded tenth gate, Cheongpung decides he wants to join the royal guard because he admires their black armor. Li Feng reminds him that he is Huashan's direct Disciple and bargains with him: if Cheongpung calls Li Feng Martial Nephew, he will receive royal-guard armor and weapons. Cheongpung immediately agrees, creating another awkward spectacle.
+- The group finally finds ten-year-old Prince Shangshan, Zhu Bao, practicing swordsmanship. Zhu Bao has trained daily for three years and is far more skilled than Taekyung expected. After learning that Taekyung is the Sleeping Dragon of Shanxi, Zhu Bao gives him a wooden tablet and dagger and asks him for an autograph.
 
 ## Open Questions
 
@@ -28,7 +29,7 @@
 - Render 후배님 and 선배님 as “Junior” and “Senior” in the Gong Ilhyuk exchange.
 - Render 태사부 as “Grandmaster” and 사숙 as “Martial Uncle” in the Huashan context.
 - Render 자하신공 as “Zaha Divine Technique.”
-- Render 군림…… as “The Reign…” and 꼰대 as “boomer” in the chapter 142 exchange.
+- Render 근위대 as “royal guard,” 근위대 갑옷 세트 as “Royal Guard Armor Set,” and 주표 as “Zhu Bao.”
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
