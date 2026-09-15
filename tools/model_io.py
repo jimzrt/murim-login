@@ -102,18 +102,21 @@ def apply_review_replacements(text: str, review: dict) -> str:
         replacement = re.sub(r"\s*\([^()\n]*[가-힣][^()\n]*\)", "", finding["replacement"])
         starts = [match.start() for match in re.finditer(re.escape(old), text)]
         matched_old = old
+        matched_replacement = replacement
         if not starts:
             candidates = []
             if "…." in old:
-                candidates.append(old.replace("….", "…"))
-            candidates.append(f"*{old}*")
+                candidates.append((old.replace("….", "…"), replacement))
+            candidates.append((f"*{old}*", replacement))
             if len(old) >= 2 and old[0] == "“" and old[-1] == "”":
-                candidates.append(f"*{old[1:-1]}*")
-            for candidate in candidates:
+                candidates.append((f"*{old[1:-1]}*", replacement))
+                candidates.append((old[1:-1], replacement[1:-1] if replacement.startswith("“") and replacement.endswith("”") else replacement))
+            for candidate, candidate_replacement in candidates:
                 candidate_starts = [match.start() for match in re.finditer(re.escape(candidate), text)]
                 if len(candidate_starts) == 1:
                     starts = candidate_starts
                     matched_old = candidate
+                    matched_replacement = candidate_replacement
                     break
         if len(starts) != 1:
             thought_formatting = (
@@ -133,7 +136,7 @@ def apply_review_replacements(text: str, review: dict) -> str:
             start = paragraph_starts[0]
         else:
             start = starts[0]
-        spans.append((start, start + len(matched_old), replacement, finding["id"]))
+        spans.append((start, start + len(matched_old), matched_replacement, finding["id"]))
     spans.sort()
     for previous, current in zip(spans, spans[1:]):
         if current[0] < previous[1]:
