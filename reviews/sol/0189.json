@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "He seeks to win your love by knocking you down.",
+      "defect": "The translation makes Jin Taekyung the source of the love Chulwoo wants, rather than the person Chulwoo intends to defeat in order to win the woman's love.",
+      "id": "F01",
+      "rationale": "당신 is the person being knocked down, while 사랑 refers contextually to the woman's love described in the preceding sentence.",
+      "replacement": "He seeks to win her love by knocking you down.",
+      "severity": "critical",
+      "source": "그는 당신을 쓰러트림으로써 사랑을 쟁취하고자 합니다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "My brother has already accepted the Defeated Flower Fist's challenge.",
+      "defect": "The translation drops 아우, which specifically identifies Taekyung as Jin Wikyung's younger brother and carries meaningful kinship hierarchy.",
+      "id": "F02",
+      "rationale": "아우 means a younger brother, not merely a brother.",
+      "replacement": "My younger brother has already accepted the Defeated Flower Fist's challenge.",
+      "severity": "major",
+      "source": "내 아우는 이미 패화권의 제의를 수락했소."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Who says he will be?”",
+      "defect": "The question is changed from asking which combatant might be injured to challenging who made the prediction, erasing the deliberate subject ambiguity that reveals Jin Wikyung expects Chulwoo to be in danger.",
+      "id": "F03",
+      "rationale": "The source is the bare question 누가, referring back to the unspecified person who could be seriously injured.",
+      "replacement": "“Who?”",
+      "severity": "critical",
+      "source": "“누가 말이오?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "If he withdrew now, the reputations of both sects would surely hit the ground.",
+      "defect": "The translation inserts a singular male subject, making one particular man's withdrawal the issue even though the Korean leaves the party backing out unstated. It also weakens institutional 위신 to ordinary reputations.",
+      "id": "F04",
+      "rationale": "The subject of 물러나면 is deliberately omitted, while 위신 denotes institutional prestige or standing.",
+      "replacement": "Backing out now would surely drag the prestige of both sects through the dirt.",
+      "severity": "critical",
+      "source": "지금 물러나면 두 문파의 위신(威信)이 땅에 떨어질 것이 분명하다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Let's start with the important question. Why the hell are you acting like this toward me?”",
+      "defect": "The draft adds that the question is important and softens the coarse, confrontational 지랄이야 into the vague phrase “acting like this.”",
+      "id": "F05",
+      "rationale": "이유나 묻자 bluntly introduces a request for the reason, and 지랄이야 is strong, hostile profanity directed at Chulwoo's behavior.",
+      "replacement": "“Let me ask you one thing. Why the fuck are you giving me shit?”",
+      "severity": "major",
+      "source": "“이유나 묻자. 왜 나한테 지랄이야?”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“…”\n\n“Isn't that a little too fast?”",
+      "defect": "A single hesitant utterance has been split into two separate pieces of dialogue.",
+      "id": "F06",
+      "rationale": "The leading ellipsis is part of the same spoken sentence in the source.",
+      "replacement": "“…Isn't that a little too fast?”",
+      "severity": "minor",
+      "source": "“……그건 빨라도 너무 빠른 거 아니냐.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "At some point, dark, grimy-looking gauntlets had appeared on his hands.",
+      "defect": "거무튀튀한 describes a dull or blackish color, not grime, and “appeared on his hands” sounds as though the gauntlets materialized.",
+      "id": "F07",
+      "rationale": "The source says he was wearing blackish gauntlets by the time Taekyung noticed them.",
+      "replacement": "By then, a pair of dull-black gauntlets covered his hands.",
+      "severity": "minor",
+      "source": "어느새 놈의 손에는 거무튀튀한 권갑(拳鉀)이 끼워져 있었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "His hands, unable to overcome their own momentum, were still gripping the spear as they rose into the air in a victory salute.",
+      "defect": "The draft changes the stated cause from Chulwoo being overpowered by his own tremendous strength to generic momentum, weakening the fight's mechanical explanation.",
+      "id": "F08",
+      "rationale": "자신의 힘을 이기지 못한 explicitly makes Chulwoo's own strength the force that throws his hands upward once Taekyung releases the spear.",
+      "replacement": "His own strength had sent both hands flying overhead, the spear still clutched in them as though he were cheering.",
+      "severity": "major",
+      "source": "자신의 힘을 이기지 못한 양손이 창을 쥔 채로 허공에서 만세를 부르는 중이었다."
+    }
+  ],
+  "summary": "Several subject, kinship, causal-mechanism, and register errors require correction, alongside localized wording and dialogue-formatting issues.",
+  "version": 1
+}
