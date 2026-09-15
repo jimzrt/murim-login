@@ -401,22 +401,24 @@ pagefind-modal dialog.pf-modal {
   box-shadow: var(--pf-shadow-lg, 0 20px 56px rgba(0, 0, 0, 0.45)) !important;
 }
 
-pagefind-modal .pf-modal-header .pf-input-wrapper,
-pagefind-modal pagefind-modal-header .pf-input-wrapper {
+/* Style the input itself — Pagefind's focus ring is on .pf-input, not the wrapper. */
+pagefind-modal .pf-modal-header .pf-input,
+pagefind-modal pagefind-modal-header .pf-input {
   border: 1px solid var(--pf-border) !important;
   border-radius: 0.45rem !important;
   background: color-mix(in srgb, var(--pf-background) 55%, #0b1220) !important;
-  padding-inline: 0.35rem !important;
+  color: var(--pf-text) !important;
 }
 
-html[data-theme="light"] pagefind-modal .pf-modal-header .pf-input-wrapper,
-html[data-theme="light"] pagefind-modal pagefind-modal-header .pf-input-wrapper {
+html[data-theme="light"] pagefind-modal .pf-modal-header .pf-input,
+html[data-theme="light"] pagefind-modal pagefind-modal-header .pf-input {
   background: color-mix(in srgb, var(--pf-background) 88%, var(--ink)) !important;
 }
 
-pagefind-modal .pf-modal-header .pf-input,
-pagefind-modal pagefind-modal-header .pf-input {
-  color: var(--pf-text) !important;
+pagefind-modal .pf-modal-header .pf-input:focus-visible,
+pagefind-modal pagefind-modal-header .pf-input:focus-visible {
+  border-color: var(--pf-outline-focus) !important;
+  box-shadow: 0 0 0 2px var(--pf-outline-focus) !important;
 }
 
 @media (max-width: 40rem) {
