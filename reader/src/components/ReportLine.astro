@@ -1,0 +1,23 @@
+<dialog class="reader-dialog" id="report-line-dialog" aria-labelledby="report-line-title">
+  <div class="dialog-head">
+    <h2 id="report-line-title">Report a line</h2>
+    <button type="button" class="icon-btn" id="report-line-close" aria-label="Close">
+      <span aria-hidden="true">×</span>
+    </button>
+  </div>
+  <p class="report-line-quote" id="report-line-quote"></p>
+  <label class="dialog-label report-line-label">
+    <span>What is wrong with this?</span>
+    <textarea
+      id="report-line-note"
+      rows="4"
+      maxlength="2000"
+      placeholder="Awkward, inconsistent, mistranslated, typo…"
+    ></textarea>
+  </label>
+  <p class="report-line-status" id="report-line-status" role="status"></p>
+  <div class="report-line-actions">
+    <button type="button" class="button" id="report-line-submit">Submit report</button>
+  </div>
+</dialog>
+<button type="button" class="report-line-chip" id="report-line-chip" hidden>Report line</button>

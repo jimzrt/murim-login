@@ -123,6 +123,11 @@ translations/*.md
 
 The final chapters are deliberately stored as Markdown rather than generated binaries.
 
-If a translation is awkward, inconsistent, or wrong, open a pull request against the relevant file in [`translations/`](translations/). Improvements can then be reviewed as normal source changes and automatically propagate to the web, EPUB, and PDF editions.
+If a translation is awkward, inconsistent, or wrong, use **Report line** on
+https://murim-login.com/ (select the English, say what is wrong, submit). That
+opens a GitHub issue. You can also use the
+[line-report issue form](https://github.com/jimzrt/murim-login/issues/new?template=line-report.yml)
+or open a pull request against [`translations/`](translations/). Operator setup
+is in [`docs/LINE_REPORT.md`](docs/LINE_REPORT.md).
 
 The objective is not to claim that an automated pipeline produces a perfect translation. It is to maintain a **consistent, inspectable, and continuously improvable edition** of the novel.
