@@ -497,3 +497,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 사자후 | **lion's roar** | Taekyung's term for Song Il's crowd-shattering roar. |
 | 육합전성 | **Six-Harmonies Voice Transmission** | Supreme Peak martial art that transmits the user's voice from every direction. |
 | 천하삼십육검 | **Heavenly River Thirty-Six Swords** | Zhongnan Sect sword technique used by Song Il. |
+| 열화문의 신물 | **Fire Gate Clan’s sacred treasure** | The Unnamed Sword entrusted by Jeok Cheongang to Jin Taekyung. |
+| 종남산 | **Mount Zhongnan** | Mountain where the Zhongnan Sect’s main sect is located. |
+| 혀왕 | **Tongue King** | Taekyung’s joking nickname for Jeok Cheongang after his verbal intimidation. |
