@@ -419,3 +419,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 명장 | **Master Artisan** | Master craftsman capable of handling Ten-Thousand-Year Cold Iron |
 | 가공되지 않은 만년한철 | **Unprocessed Ten-Thousand-Year Cold Iron** | System Item |
 | 장인을 찾아라 | **Find the Master Artisan** | System Quest |
+| 장태보 | **Jang Taebo** | Former Guild Leader of the Ironcraft Guild; now lives near Jeongyang and is sought as a Master Artisan. |
+| 철기방 | **Ironcraft Guild** | Hubei guild composed mainly of skilled craftsmen and closely associated with the Nine Sects and One Gang. |
+| 철기방주 | **Guild Leader of the Ironcraft Guild** | Title of the Ironcraft Guild’s leader; the current leader is Jang Taebo’s disciple. |
+| 오향장육 | **five-spice pork** | Dish Cheongpung packed for the journey. |
