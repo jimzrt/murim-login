@@ -1,0 +1,31 @@
+{
+  "chapter": 105,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.323,
+    "source_characters": 5420,
+    "source_paragraphs": 195,
+    "translation_characters": 12590,
+    "translation_paragraphs": 218
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "본가",
+        "preferred": "our family / this family"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "광수",
+        "romanization": "gwangsu"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
