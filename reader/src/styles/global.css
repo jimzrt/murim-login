@@ -46,11 +46,15 @@ html[data-theme="dark"] {
   --gold-bright: #f5e08a;
   --navy: #2d6aad;
   --navy-deep: #1c4a82;
-  --pf-hover: color-mix(in srgb, var(--navy) 24%, var(--paper));
+  /* Modal must sit above the dimmed page; plain --paper matches the shell and vanishes. */
+  --pf-background: #243552;
+  --pf-border: color-mix(in srgb, var(--gold) 45%, #4a5a70);
+  --pf-modal-backdrop: color-mix(in srgb, #02060e 78%, transparent);
+  --pf-hover: color-mix(in srgb, var(--navy) 28%, #243552);
   --pf-mark: var(--gold-bright);
   --pf-shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.32);
   --pf-shadow-md: 0 4px 12px rgba(0, 0, 0, 0.4);
-  --pf-shadow-lg: 0 16px 48px rgba(0, 0, 0, 0.5);
+  --pf-shadow-lg: 0 20px 56px rgba(0, 0, 0, 0.65);
   --pf-error-bg: #2a1a1a;
   --pf-error-border: #5c2828;
   --pf-error-text: #f87171;
@@ -383,6 +387,36 @@ pagefind-modal-trigger.nav-search {
 .site-header pagefind-modal-trigger.nav-search .pf-trigger-text,
 .site-header pagefind-modal-trigger.nav-search .pf-trigger-shortcut {
   display: none !important;
+}
+
+/* Pagefind modal: keep the panel readable over the dimmed page (esp. dark theme). */
+pagefind-modal {
+  z-index: 80;
+}
+
+pagefind-modal dialog.pf-modal {
+  border: 1px solid var(--pf-border) !important;
+  background: var(--pf-background) !important;
+  color: var(--pf-text) !important;
+  box-shadow: var(--pf-shadow-lg, 0 20px 56px rgba(0, 0, 0, 0.45)) !important;
+}
+
+pagefind-modal .pf-modal-header .pf-input-wrapper,
+pagefind-modal pagefind-modal-header .pf-input-wrapper {
+  border: 1px solid var(--pf-border) !important;
+  border-radius: 0.45rem !important;
+  background: color-mix(in srgb, var(--pf-background) 55%, #0b1220) !important;
+  padding-inline: 0.35rem !important;
+}
+
+html[data-theme="light"] pagefind-modal .pf-modal-header .pf-input-wrapper,
+html[data-theme="light"] pagefind-modal pagefind-modal-header .pf-input-wrapper {
+  background: color-mix(in srgb, var(--pf-background) 88%, var(--ink)) !important;
+}
+
+pagefind-modal .pf-modal-header .pf-input,
+pagefind-modal pagefind-modal-header .pf-input {
+  color: var(--pf-text) !important;
 }
 
 @media (max-width: 40rem) {
