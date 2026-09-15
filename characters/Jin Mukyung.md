@@ -1,8 +1,8 @@
 # Jin Mukyung (진무경)
 
-- **Safe through:** Chapter 116
+- **Safe through:** Chapter 117
 - **Aliases:** Heaven Shaking Sword; Jin Family Second Young Master
-- **Role:** Second son of the Jin Family of Taiyuan; twenty-three-year-old cadet at Heaven’s Gate Temple; a young Peak-level genius swordsman
+- **Role:** Second son of the Jin Family of Taiyuan; twenty-three-year-old cadet at Heaven’s Gate Temple; a young Peak-level genius swordsman who won the visible exchange with Pung Yang but was then incapacitated by five concealed throwing knives
 - **Personality:** Reserved, terse, and easily irritated by exaggerated praise; glares coldly when Taekyung identifies him
 - **Voice:** Quiet and resonant; clipped and blunt in direct speech
 - **Relationships:** Taekyung’s older brother and current martial arts instructor; returned to the Jin Family after several years away
