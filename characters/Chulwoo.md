@@ -1,6 +1,6 @@
 # Chulwoo (철우)
 
-- **Safe through:** Chapter 181
+- **Safe through:** Chapter 182
 - **Aliases:** None
 - **Role:** Enormous Huashan martial artist, second junior disciple of Baek Museong, second of the Three Plum Blossom Elites, and wielder of the Defeated Flower Fist.
 - **Personality:** Blunt, defensive, physically intimidating, short-sighted, and unconcerned with personal cleanliness.
