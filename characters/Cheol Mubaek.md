@@ -1,6 +1,6 @@
 # Cheol Mubaek (철무백)
 
-- **Safe through:** Chapter 115
+- **Safe through:** Chapter 116
 - **Aliases:** Tiger of Mount Heng
 - **Role:** Peak master known as the Tiger of Mount Heng; longtime close friend and peer of Lee Cheonbaek; protector of Lee Seowol
 - **Personality:** Fierce, short-tempered, intimidating, and fiercely protective; becomes gentle and attentive toward Seowol
