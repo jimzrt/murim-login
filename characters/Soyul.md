@@ -1,6 +1,6 @@
 # Soyul (소율)
 
-- **Safe through:** Chapter 66
+- **Safe through:** Chapter 186
 - **Aliases:** None revealed
 - **Role:** Young survivor of the Sakju Branch; Socheon's younger sister
 - **Personality:** Exhausted, frightened, and dependent on her brother during the flight from the massacre
