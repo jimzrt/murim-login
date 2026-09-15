@@ -1,0 +1,68 @@
+{
+  "chapter": 199,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.369,
+    "source_characters": 6407,
+    "source_paragraphs": 203,
+    "translation_characters": 15175,
+    "translation_paragraphs": 215
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "semantic_probe",
+      "details": {},
+      "message": "큰형 should preserve eldest-brother specificity"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "천무학관",
+        "preferred": "Heaven's Gate Temple"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "큰형",
+        "preferred": "eldest brother"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "대협",
+        "preferred": "Great Hero or Sir depending tone"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "갑자",
+        "preferred": "jiazi"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "주신",
+        "preferred": "God of Drinking"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "“I have no relationship with Great Hero Jeok at all. We’re just—pardon?”",
+      "defect": "The draft adds an interrupted second explanation that is absent from the spoken line, delaying the reaction to Jeok Cheongang’s declaration.",
+      "id": "F01",
+      "rationale": "The source moves directly from Taekyung’s denial to his startled response.",
+      "replacement": "“Great Hero Jeok and I have no relationship at all… Pardon?”",
+      "severity": "minor",
+      "source": "“적 대협과 전 아무런 관계가……. 예?”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“This old man has committed a grave discourtesy.",
+      "defect": "The translation gives Ak Bulgun Jeok Cheongang’s characteristic self-reference and obscures the explicit subject: 악 모 means Ak Bulgun is referring to himself by surname.",
+      "id": "F02",
+      "rationale": "Ak Bulgun, not Jeok Cheongang or an unspecified old man, is apologizing for his own discourtesy.",
+      "replacement": "“I have committed a grave discourtesy.",
+      "severity": "critical",
+      "source": "“이 악 모가 큰 결례를 저질렀습니다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“You should be prostrating yourself before me, and you dare raise your voice? You green-blooded brat!”",
+      "defect": "The draft loses that even a full prostration would be insufficient, renders the youth idiom unnaturally as “green-blooded,” and drops Jeok Cheongang’s trailing threat.",
+      "id": "F03",
+      "rationale": "모자랄 판 preserves Jeok Cheongang’s overwhelming hierarchy, 대가리에 피도 안 마른 describes an inexperienced youth, and 확 그냥 trails off as a physical threat.",
+      "replacement": "“Even a full prostration wouldn’t be enough, and you dare raise your voice? You wet-behind-the-ears little bastard, I ought to…”",
+      "severity": "major",
+      "source": "“큰절부터 올려도 모자랄 판에 목소리를 높여? 이 대가리에 피도 안 마른 놈을 확 그냥.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“W-Wait a moment! Please calm down! Calm down!”\n\n“Calm down? You want to be fixed in a grave until your bones turn to dust?”",
+      "defect": "The first line corrects Taekyung’s panicked malapropism to “calm down,” so Jeok Cheongang’s literal repetition of “fixed” no longer follows from what Taekyung said and the exchange’s wordplay is lost.",
+      "id": "F04",
+      "rationale": "Taekyung mistakenly says 고정, “fix,” instead of the expected 진정, “calm down”; Jeok Cheongang seizes on that exact word to threaten to fix him permanently in a grave.",
+      "replacement": "“W-Wait! F-Fix yourself! Fix yourself!”\n\n“Fix myself? Do you want to be fixed in a grave until your bones turn to dust?”",
+      "severity": "major",
+      "source": "“자, 잠시만요! 고정하세요! 고정!”\n\n“고정? 백골이 진토 될 때까지 무덤에 고정당하고 싶으냐?”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "The old man standing before me, who looked like some tough old big brother at a nursing home, was actually a notorious thug in the Murim.",
+      "defect": "“Some tough old big brother” is awkward and weakens 큰형님’s sense of the highest-ranking or dominant man in the group.",
+      "id": "F05",
+      "rationale": "큰형님 is a hierarchical gang-style comparison here, supporting the joke that Jeok Cheongang resembles the top dog among nursing-home residents while actually being a feared Murim delinquent.",
+      "replacement": "The old man before me looked like the big boss of a nursing home, but he was actually a notorious thug in the Murim.",
+      "severity": "minor",
+      "source": "양로원 큰형님 같은 눈앞의 노인네가 무림에서 악명 높은 일진이라는 사실을."
+    }
+  ],
+  "summary": "One critical speaker-identity error, two major losses of hierarchy and wordplay, and two minor fidelity or wording issues.",
+  "version": 1
+}
