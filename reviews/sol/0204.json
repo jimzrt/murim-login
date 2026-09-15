@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "They were forcing it open!",
+      "defect": "The draft invents an unspecified plural actor and presents the line as external narration rather than Taekyung’s shocked realization that this is a forced opening.",
+      "id": "F01",
+      "rationale": "The Korean is a subjectless internal exclamation about the procedure itself; it does not identify multiple people as performing the action.",
+      "replacement": "*A forced opening?!*",
+      "severity": "critical",
+      "source": "강제 개통이라니!"
+    },
+    {
+      "confidence": 0.97,
+      "current": "I had never expected him to help me this much.",
+      "defect": "The translation preserves the extent of the help but omits 힘껏, which emphasizes how much effort and strength Jeok Cheongang expended.",
+      "id": "F02",
+      "rationale": "Jeok Cheongang’s exertion is meaningful characterization and directly supports the later revelation that the procedure consumed considerable internal energy and mental strength.",
+      "replacement": "To think he had gone all out to help me like this.",
+      "severity": "major",
+      "source": "이렇게까지 힘껏 도와줄 줄이야."
+    },
+    {
+      "confidence": 0.98,
+      "current": "*Jeok Cheongang, what are you, anyway…*",
+      "defect": "The draft turns an intentionally unfinished, emotional thought into a question about Jeok Cheongang’s identity or nature, creating a skeptical note absent from the source.",
+      "id": "F03",
+      "rationale": "The Korean trails off after addressing him, leaving Taekyung’s gratitude and emotion unspoken as his eyes grow moist.",
+      "replacement": "*Jeok Cheongang, you really…*",
+      "severity": "major",
+      "source": "‘적천강, 당신은 도대체.’"
+    },
+    {
+      "confidence": 0.94,
+      "current": "According to Childeuk, one of the martial artists at the training hall, Mukyung hadn’t come outside even once since entering.",
+      "defect": "The phrase “one of the martial artists” invents a group affiliation and blurs Childeuk’s specific role as the martial artist stationed at the training hall.",
+      "id": "F04",
+      "rationale": "The Korean identifies Childeuk by his particular post rather than as one member of an unspecified group.",
+      "replacement": "According to Childeuk, the martial artist stationed at the training hall, Mukyung hadn’t come outside even once since entering.",
+      "severity": "minor",
+      "source": "수련동 무인인 칠득이에 의하면 들어간 이래 단 한 번도 밖으로 나오지 않았다고 했다."
+    },
+    {
+      "confidence": 0.93,
+      "current": "“The Temple Master will feel just as sorry as you do, Lesser Family Head.”",
+      "defect": "“Feel sorry” suggests pity or apology, whereas 안타까워하다 here conveys regret or distress over Jin Mukyung’s decision.",
+      "id": "F05",
+      "rationale": "Ak Bulgun is saying that the Temple Master will share Jin Wikyung’s regret at Mukyung’s refusal to return, not that either man pities someone.",
+      "replacement": "“The Temple Master will regret it just as much as you do, Lesser Family Head.”",
+      "severity": "minor",
+      "source": "“소가주만큼이나 관주께서도 안타까워하실 겁니다.”"
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it introduces a false plural subject during the forced opening, weakens Jeok Cheongang’s exertion, completes an intentionally unfinished thought, and contains two localized characterization issues.",
+  "version": 1
+}
