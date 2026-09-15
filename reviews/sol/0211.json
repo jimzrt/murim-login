@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "*He’s definitely a Hunter.*",
+      "defect": "The translation drops the trailing contrast conveyed by 는데, making the thought sound conclusive instead of hesitant in light of the man’s incongruous appearance.",
+      "id": "F01",
+      "rationale": "The following narration explains why Taekyung finds himself questioning the otherwise obvious conclusion that the man is a Hunter.",
+      "replacement": "*He’s definitely a Hunter, but…*",
+      "severity": "minor",
+      "source": "‘분명히 헌터가 맞는데.’"
+    },
+    {
+      "confidence": 0.97,
+      "current": "A student preparing to enter a physical education college, he had awakened as an A-rank Hunter on his twentieth birthday. With his exceptional ability and good looks, he had earned the title of a winner at life.",
+      "defect": "“A winner at life” is an unnatural literal calque that does not read as contemporary English.",
+      "id": "F02",
+      "rationale": "인생의 승리자 describes someone enviably successful or fortunate in every respect; “a man who had it all” preserves that sense naturally.",
+      "replacement": "While preparing for college entrance exams in physical education, he awakened as an A-rank Hunter on his twentieth birthday. With his exceptional ability and good looks, he earned a reputation as a man who had it all.",
+      "severity": "minor",
+      "source": "체대 입시생이던 그는 스무 살 생일에 A급 헌터로 각성, 뛰어난 실력과 외모로 인생의 승리자라는 타이틀을 거머쥐었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "The person I respected most was my parents. My favorite Hunter was Won Myunghoon.",
+      "defect": "The singular subject “person” is incompatible with the plural “parents,” creating a grammatical and quantity mismatch.",
+      "id": "F03",
+      "rationale": "부모님 refers collectively to Taekyung’s parents, so the English subject must be plural.",
+      "replacement": "The people I respected most were my parents. My favorite Hunter was Won Myunghoon.",
+      "severity": "minor",
+      "source": "존경하는 사람은 부모님. 가장 좋아하는 헌터는 원명훈."
+    },
+    {
+      "confidence": 0.98,
+      "current": "I hummed a few lines as a demonstration, and Team Leader Choi pretended to recognize the song.",
+      "defect": "“Pretended” asserts that Team Leader Choi was faking recognition, whereas the context shows that the song genuinely sounded familiar to him.",
+      "id": "F04",
+      "rationale": "Here 아는 척을 했다 means that Choi indicated recognition, as confirmed by his immediate statement that he thinks he has heard the song.",
+      "replacement": "I hummed a few lines as a demonstration, and Team Leader Choi showed a flicker of recognition.",
+      "severity": "major",
+      "source": "내가 시범 삼아 몇 소절을 흥얼거리자 최 팀장도 아는 척을 했다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The man watched me stammer like an idiot. No—the A-rank Hunter Won Myunghoon reached his hand through the half-open window and offered it for a handshake.",
+      "defect": "The draft replaces the specific Mute Samryong allusion with a generic insult and splits the sentence into an awkward self-correction whose “No” no longer revises its subject coherently.",
+      "id": "F05",
+      "rationale": "The source explicitly compares Taekyung’s incoherent stammering to 벙어리 삼룡이 and then comically corrects “the man” to the celebrity Hunter’s full identity.",
+      "replacement": "Seeing me splutter like Mute Samryong,[^1] the man—no, the A-rank Hunter Won Myunghoon—reached through the half-open window and offered me his hand.\n\n[^1]: Mute Samryong is the title character of a well-known Korean short story.",
+      "severity": "minor",
+      "source": "벙어리 삼룡이처럼 어버버 거리는 나를 본 남자, 아니 A급 헌터 원명훈이 반쯤 열린 창문 안으로 손을 내밀어 악수를 청했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“He went to take care of something. More importantly, hyung, please speak comfortably with me.”",
+      "defect": "“Speak comfortably with me” is an unnatural calque and obscures that Taekyung is inviting Won Myunghoon to drop formal speech.",
+      "id": "F06",
+      "rationale": "말씀 편하게 하세요 is a request to use a less formal speech level, reflecting the newly proposed hyung-dongsaeng relationship.",
+      "replacement": "“He went to take care of something. More importantly, hyung, you can speak casually with me.”",
+      "severity": "minor",
+      "source": "“그보다 형, 말씀 편하게 하세요.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Holy shit. That’s fucking awesome.”",
+      "defect": "The draft turns one vulgar intensifier into two separate strong expletives, intensifying the employee’s profanity beyond the source.",
+      "id": "F07",
+      "rationale": "개 intensifies 쩐다 vulgarly, but 와 remains an ordinary exclamation equivalent to “wow.”",
+      "replacement": "“Wow. That’s fucking awesome.”",
+      "severity": "minor",
+      "source": "“와. 개쩐다.”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "“Please write, ‘Hye-gyeong, have a beautiful love with Jinwoo.’”",
+      "defect": "“Have a beautiful love with” is an unnatural English collocation that makes the punchline sound translated rather than spontaneous.",
+      "id": "F08",
+      "rationale": "예쁜 사랑 하세요 is a conventional wish for a happy romantic relationship; the replacement conveys that naturally while retaining the absurd autograph request.",
+      "replacement": "“Please write, ‘Hye-gyeong, wishing you and Jinwoo a beautiful life together.’”",
+      "severity": "minor",
+      "source": "“혜경 씨, 진우 씨와 예쁜 사랑 하세요. 라고 써 주세요.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Grab.”",
+      "defect": "The source is an abrupt action beat or sound effect, but quotation marks make “Grab” look like spoken dialogue, and the bare imperative is not natural English narration.",
+      "id": "F09",
+      "rationale": "덥석 conveys Won Myunghoon suddenly and firmly taking Taekyung’s hand immediately before making his offer.",
+      "replacement": "A hand clamped around mine.",
+      "severity": "minor",
+      "source": "덥석."
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it drops several pragmatic and comedic cues, introduces one false implication about Team Leader Choi, intensifies profanity, and contains a few unnatural or malformed renderings.",
+  "version": 1
+}

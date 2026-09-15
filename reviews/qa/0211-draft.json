@@ -1,0 +1,55 @@
+{
+  "chapter": 211,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.214,
+    "source_characters": 6539,
+    "source_paragraphs": 203,
+    "translation_characters": 14480,
+    "translation_paragraphs": 210
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "기루",
+        "preferred": "pleasure house"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "도사",
+        "preferred": "Daoist"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "인천",
+        "romanization": "incheon"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "혜경",
+        "romanization": "hyegyeong"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}

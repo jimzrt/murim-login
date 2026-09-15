@@ -579,3 +579,13 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 제갈량 | **Zhuge Liang** | Historical strategist invoked in Taekyung’s comparison of Choi’s cleverness. |
 | 스위스 | **Switzerland** | Country associated with the watchmaker. |
 | 청와대 | **Blue House** | Presidential office mentioned in an online comment about proposed legislation. |
+| 스타 길드 | **Star Guild** | Guild in Incheon acquired and renamed by Won Myunghoon. |
+| 주간 헌터즈 | **Weekly Hunters** | Hunter magazine carrying Taekyung's interview. |
+| 벙어리 삼룡이 | **Mute Samryong** | Title character of a well-known Korean short story. |
+| 가지 | **Go** | Song associated with Won Myunghoon. |
+| 쫄보 | **Coward** | Song associated with Won Myunghoon. |
+| 헌터를 몰라 | **I Don't Know Hunters** | Song associated with Won Myunghoon. |
+| 탈주 | **Escape** | Song associated with Won Myunghoon. |
+| 유니콘 차트 | **Unicorn chart** | Japanese music chart mentioned in relation to Won Myunghoon. |
+| 원명훈 신드롬 | **Won Myunghoon Syndrome** | Taekyung's joking name for Won's former cultural influence. |
+| 도원결의 | **Peach Garden Oath** | Oath Taekyung jokes that Jinho would want the three men to swear together. |
