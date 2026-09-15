@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "And…\n\n*I was part of it, too.*",
+      "defect": "The draft makes Taekyung sound as though he was part of the banquet’s success or the surrounding events. The source says he was among the people shocked by Jeok Cheongang’s appearance.",
+      "id": "F01",
+      "rationale": "그중 refers back to 모두를 충격에 빠트렸다, explicitly including Taekyung among those who were shocked.",
+      "replacement": "And…\n\n*I was one of the people left stunned, too.*",
+      "severity": "critical",
+      "source": "그리고…….\n\n‘그중에는 나도 있지.’"
+    },
+    {
+      "confidence": 0.94,
+      "current": "What was this, a conversation with a horse?",
+      "defect": "The current line invents a conversation with a horse and loses the source’s deadpan pun contrasting 말, meaning words or a horse, with 망아지, a foal.",
+      "id": "F02",
+      "rationale": "The replacement recreates the answer-versus-horse joke in concise, natural English without adding explanatory prose.",
+      "replacement": "Was that an answer or a whinny?",
+      "severity": "minor",
+      "source": "이게 말이여, 망아지여."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Figures. The Volcano Sect. No mercy.",
+      "defect": "“Volcano Sect” sounds like the proper name of a separate organization and drops the deliberate comic renaming of the Fire Gate Clan with the English loanword “Volcano.”",
+      "id": "F03",
+      "rationale": "볼케이노문 is a joking variation on 열화문, so retaining “Gate Clan” preserves the organizational reference and the humor.",
+      "replacement": "That’s the Volcano Gate Clan for you. Ruthless.",
+      "severity": "minor",
+      "source": "역시 볼케이노문이야. 가차 없지."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Do you really think this old man would entrust the sacred treasure of our sect to a young brat like you? It’s a one-person transmission, so no one else even knows about it. If I call it a sacred treasure, then it’s a sacred treasure.",
+      "defect": "“One-person transmission” is an opaque literalism that obscures the causal explanation: the Fire Gate Clan’s teachings pass to only one successor per generation, leaving no informed outsider able to contradict Jeok Cheongang’s lie.",
+      "id": "F04",
+      "rationale": "일인전승 describes a lineage restricted to a single successor, and that secrecy is precisely why Jeok Cheongang can publicly redefine the sword without being challenged.",
+      "replacement": "Do you really think this old man would entrust our sect’s sacred treasure to a young brat like you? Our arts are passed down to only one successor per generation, so there’s no one else who would know. If I say it’s a sacred treasure, then it’s a sacred treasure.",
+      "severity": "major",
+      "source": "설마 노부가 네 녀석 같은 애송이한테 본문의 신물을 맡기겠느냐? 어차피 일인전승이라 아는 사람도 없는데 내가 신물이라고 하면 그게 신물인 거지."
+    },
+    {
+      "confidence": 0.99,
+      "current": "A palm glowing red with heat. An overwhelming wave of warmth.",
+      "defect": "“Warmth” softens the dangerous, overpowering heat of Jeok Cheongang’s attack.",
+      "id": "F05",
+      "rationale": "압도적인 열기 denotes overwhelming heat, not comforting or merely ambient warmth.",
+      "replacement": "A palm glowing red-hot. An overwhelming wave of heat.",
+      "severity": "minor",
+      "source": "붉게 달아오른 손바닥과 압도적인 열기."
+    },
+    {
+      "confidence": 0.98,
+      "current": "As people grow older, they become lonelier day by day. Not because they have no one with whom to share their bodies, but because they have no one on whom they can rest their hearts.",
+      "defect": "“Share their bodies” makes the physical-closeness expression explicitly sexual, while the source euphemistically contrasts having someone physically nearby with having someone to rely on emotionally.",
+      "id": "F06",
+      "rationale": "살을 맞대다 conveys bodily closeness or shared warmth here; the emotional contrast lies in 마음을 기대다, meaning to depend on someone for support.",
+      "replacement": "As people grow older, they become lonelier day by day. Not because they have no one with whom to share their warmth, but because they have no one to lean on.",
+      "severity": "major",
+      "source": "하루하루 늙어 갈수록 사람은 외로워진다. 살을 맞댈 존재가 없어서가 아니라, 마음을 기댈 존재가 없기 때문이다."
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it misstates Taekyung’s reaction to Jeok Cheongang’s appearance, makes one euphemistic reflection unnecessarily sexual, obscures the one-successor inheritance mechanism, and weakens or loses several localized jokes and action details.",
+  "version": 1
+}
