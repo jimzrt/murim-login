@@ -474,3 +474,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 장세팔 | **Jang Se-pal** | Leader of the small Hequ Sect. |
 | 양천 | **Yangcheon** | Shanxi-area location near which a small martial arts academy operates. |
 | 노호검객 | **Roaring Fury Swordsman** | Fiery-tempered elder and top-five master of the Zhongnan Sect. |
+| 청성파 | **Qingcheng Sect** | Sect named in Baek Museong's comparison about disciplinary rules. |
+| 집법원 | **Disciplinary Hall** | Huashan body that handles violations of sect rules. |

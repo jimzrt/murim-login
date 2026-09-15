@@ -1,16 +1,15 @@
 # Translation State
 
-- Last completed: 184
-- Next chapter: 185
-- Current block: 180–184 (5/5)
-- Latest translation: `translations/0184.md`
-- Latest summary: `summaries/beats/0184.md`
-- Safe profiles through: chapter 184
+- Last completed: 185
+- Next chapter: 186
+- Current block: 185–189 (1/5)
+- Latest translation: `translations/0185.md`
+- Latest summary: `summaries/beats/0185.md`
+- Safe profiles through: chapter 185
 
 ## Current Block
 
-- Jin Taekyung, Wipeng, Hyuk Mujin, Chulwoo, and Cheongpung enter the Jin Family of Taiyuan through a huge crowd. Taekyung receives intense admiration, salutes, and marriage proposals before Baek Museong formally identifies himself to Cheongpung as his Martial Nephew; Cheongpung does not recognize him.
-- At the Zhongnan Sect, Gong Ilhyuk reports that Cheongpung is the Sword Saint's Disciple to the Roaring Fury Swordsman and steers the angry elder toward the Jin Family's gathering. The elder orders the Three Hands of Zhongnan to lead him there.
+- Baek Museong formally recognizes Cheongpung as his Martial Uncle, while Chulwoo realizes his mistake and apologizes. Cheongpung's status is clarified: Sword Saint Mae Jonghak raised him as a grandson without Huashan initiation, making him technically an outsider; the Heavenly Sword True Person is his eldest Senior Brother and orders him to return. Cheongpung refuses and chooses to stay with Jin Taekyung, so Baek plans to win Taekyung's cooperation. In the Jin Family's main hall, Taekyung reveals that the Fire King entrusted him with a sword and a martial arts manual, shocking Jin Wikyung and Wipeng.
 
 ## Open Questions
 
@@ -20,18 +19,18 @@
 - Who has the Treasured Jade, or was it lost by Jopil?
 - Does Jeok Cheongang actually intend to take Taekyung as his Disciple?
 - What consequences will follow Woo Hwangtae's conflict with Chulwoo and the Jin Family?
-- How will Baek Museong and Cheongpung respond after Cheongpung failed to recognize their relationship?
+- Will Taekyung help Baek Museong return Cheongpung to Huashan?
 - What will the Roaring Fury Swordsman do when he reaches the Jin Family's gathering?
 
 ## Exceptional Decision
 
-- Render 원단 as “New Year's Day,” 천풍단 as “Heavenly Wind Band,” 천검진인 as “Heavenly Sword True Person,” and 매화삼절 as “Three Plum Blossom Elites.”
-- Render 수문각 as “Gate Guard Pavilion.”
-- Render 장주 as “Lord.”
-- Render 패화권 as “Defeated Flower Fist.”
-- Render 산서기협 as “Shanxi Extraordinary Hero,” distinct from 산서괴협.
+- Render 원단 as “New Year's Day” and 천풍단 as “Heavenly Wind Band.”
+- Render 천검진인 as “Heavenly Sword True Person,” 매화삼절 as “Three Plum Blossom Elites,” 화산파 일대 제자 as “First-generation Disciple of Huashan,” and 사숙 as “Martial Uncle.”
+- Render 수문각 as “Gate Guard Pavilion” and 장주 as “Lord.”
+- Render 패화권 as “Defeated Flower Fist” and 산서기협 as “Shanxi Extraordinary Hero.”
 - Render 절정 초입 as “early Peak” and 권기 as “fist qi.”
-- Render 화산파 일대제자 as “First-generation Disciple of Huashan,” 사숙 as “Martial Uncle,” 노호검객 as “Roaring Fury Swordsman,” 하곡문 as “Hequ Sect,” and 양천 as “Yangcheon.”
+- Render 노호검객 as “Roaring Fury Swordsman,” 하곡문 as “Hequ Sect,” and 양천 as “Yangcheon.”
+- Render 청성파 as “Qingcheng Sect” and 집법원 as “Disciplinary Hall.”
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
