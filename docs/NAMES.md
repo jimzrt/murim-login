@@ -305,3 +305,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 종남삼수 | **Three Hands of Zhongnan** | Three renowned Zhongnan Sect martial artists invited to the gathering |
 | 홍진 | **Hong Jin** | Level 22 man at the City Lord's luncheon; delicate in appearance and voice. |
 | 전하 | **His Highness** | Formal royal address for the resident prince; the official insists on this form instead of king. |
+| 풍운검군 | **Wind-and-Cloud Sword Lord** | Epithet of Gong Iljung, the Zhongnan Sect's Sect Leader. |
+| 철혈문 | **Iron Blood Sect** | Henan sect mentioned by Gong Ilhyuk. |
+| 오호검문 | **Five Tigers Sword Sect** | Henan sect mentioned by Gong Ilhyuk. |
+| 태을미리장 | **Taeeul Miri Palm** | Palm technique taught to Cheongpung by Mae Jonghak. |
