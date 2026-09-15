@@ -172,3 +172,9 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 철 대협 | **Great Hero Cheol** | Respectful address for Cheol Mubaek. |
 | 아가씨 | **Young Lady** | Former address used for Lee Seowol before she demands the title Sect Leader. |
 | 문주님 | **Sect Leader** | Honorific title Lee Seowol orders the senior figures to use. |
+| 산서괴협 | **Strange Hero of Shanxi** | Epithet referenced for the absent martial artist. |
+| 녹림맹주 | **Green Forest Alliance Leader** | Leader title for the Green Forest Alliance. |
+| 장강수로맹주 | **Alliance Leader of the Yangtze River Channel League** | Leader title for the Yangtze River Channel League. |
+| 사마외도 | **demonic, heterodox arts** | Suspected martial-arts origin of Pung Yang's insidious forms. |
+| 전서구 | **messenger pigeon** | Pigeon delivering the Lower District Sect's Jeongyang Branch report. |
+| 절정 초입 | **early Peak** | Pung Yang's specific stage within the Peak realm. |
