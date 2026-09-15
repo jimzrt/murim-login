@@ -1,3 +1,4 @@
+import json
 import tempfile
 import unittest
 from pathlib import Path
@@ -6,6 +7,7 @@ from unittest.mock import MagicMock
 from tools.line_report import (
     apply_patches,
     build_evaluate_prompt,
+    chapter_is_mastered,
     cheap_gates,
     format_evaluation_comment,
     format_issue_body,
@@ -17,6 +19,15 @@ from tools.line_report import (
     validate_evaluation,
 )
 from tools.report_server import LineReportService, Settings, verify_signature, _issue_from_pull
+
+
+def mark_mastered(root: Path, chapter: int) -> None:
+    folder = root / "reviews" / "mastering" / f"{chapter:04d}"
+    folder.mkdir(parents=True)
+    (folder / "state.json").write_text(
+        json.dumps({"chapter": chapter, "stage": "PROMOTED", "qa_passed": True}),
+        encoding="utf-8",
+    )
 
 
 class LineReportTest(unittest.TestCase):
@@ -42,6 +53,9 @@ class LineReportTest(unittest.TestCase):
             translations = root / "translations"
             translations.mkdir()
             (translations / "0003.md").write_text("# Chapter 3\n\nKnown line.\n", encoding="utf-8")
+            self.assertIn("not been mastered", cheap_gates(3, "Known line.", root).lower())
+            mark_mastered(root, 3)
+            self.assertTrue(chapter_is_mastered(3, root))
             self.assertIsNone(cheap_gates(3, "Known line.", root))
             self.assertIn("not found", cheap_gates(3, "Missing.", root).lower())
             self.assertIn("not an accepted", cheap_gates(9, "Known line.", root).lower())
@@ -165,6 +179,7 @@ class ReportServerTest(unittest.TestCase):
         translations = self.root / "translations"
         translations.mkdir()
         (translations / "0004.md").write_text("# Chapter 4\n\nThe awkward line.\n", encoding="utf-8")
+        mark_mastered(self.root, 4)
         self.github = MagicMock()
         self.github.create_issue.return_value = {"number": 12, "html_url": "https://github.com/x/y/issues/12"}
         self.settings = Settings({
@@ -228,6 +243,18 @@ class ReportServerTest(unittest.TestCase):
         self.assertEqual(status, 400)
         self.github.create_issue.assert_not_called()
         self.assertIn("not found", body["error"].lower())
+
+    def test_unmastered_chapter_is_rejected_before_github(self):
+        (self.root / "translations" / "0005.md").write_text(
+            "# Chapter 5\n\nUnmastered line.\n", encoding="utf-8"
+        )
+        status, body = self.service.create_report(
+            {"chapter": 5, "quote": "Unmastered line.", "note": "odd", "url": ""},
+            "1.2.3.4",
+        )
+        self.assertEqual(status, 400)
+        self.github.create_issue.assert_not_called()
+        self.assertIn("not been mastered", body["error"].lower())
 
     def test_evaluate_issue_comments_strategies(self):
         issue = {
