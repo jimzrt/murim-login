@@ -12,6 +12,7 @@ from tools.line_report import (
     parse_apply_command,
     parse_evaluation_comment,
     parse_issue_body,
+    parse_reopen_command,
     parse_revise_command,
     validate_evaluation,
 )
@@ -101,6 +102,9 @@ class LineReportTest(unittest.TestCase):
         )
         self.assertEqual(parse_revise_command("/revise"), "")
         self.assertIsNone(parse_revise_command("/apply A"))
+        self.assertEqual(parse_reopen_command("/reopen"), "")
+        self.assertEqual(parse_reopen_command("/reopen still want alternatives"), "still want alternatives")
+        self.assertIsNone(parse_reopen_command("/revise x"))
 
     def test_revise_prompt_includes_rejected_strategies(self):
         previous = validate_evaluation({
@@ -131,6 +135,18 @@ class LineReportTest(unittest.TestCase):
         self.assertIn("Maintainer revision request", prompt)
         self.assertIn("a warm breath", prompt)
         self.assertIn("not a synonym of hot", prompt)
+        forced = build_evaluate_prompt(
+            11,
+            Path("/repo/translations/0011.md"),
+            "# Chapter 11\n",
+            "a hot breath",
+            "sounds weird",
+            "Korean",
+            root=Path("/repo"),
+            force=True,
+        )
+        self.assertIn("overrode plausibility", forced)
+        self.assertNotIn("set plausible to false", forced.lower())
 
     def test_implausible_evaluation_has_no_strategies(self):
         value = validate_evaluation({"plausible": False, "verdict": "already correct", "strategies": []})
@@ -162,13 +178,14 @@ class ReportServerTest(unittest.TestCase):
     def tearDown(self):
         self.temp.cleanup()
 
-    def _evaluate(self, chapter, quote, note, root, previous=None, revise_note=""):
+    def _evaluate(self, chapter, quote, note, root, previous=None, revise_note="", force=False):
         self.last_evaluate = {
             "chapter": chapter,
             "quote": quote,
             "note": note,
             "previous": previous,
             "revise_note": revise_note,
+            "force": force,
         }
         replacement = "The requested line." if revise_note else "The smoother line."
         return {
@@ -278,7 +295,37 @@ class ReportServerTest(unittest.TestCase):
         issue = {"number": 12, "body": "", "labels": [{"name": "line-report"}]}
         self.service._revise_issue(issue, "/revise")
         self.assertIn("/revise", self.github.comment.call_args[0][1])
-        self.assertNotIn("last_evaluate", self.__dict__)
+
+    def test_implausible_evaluation_closes_issue(self):
+        self.service.evaluate = lambda *args, **kwargs: {
+            "plausible": False,
+            "verdict": "already correct",
+            "strategies": [],
+        }
+        issue = {
+            "number": 12,
+            "body": format_issue_body(4, "The awkward line.", "sounds weird", ""),
+            "labels": [{"name": "line-report"}],
+        }
+        self.service._evaluate_issue(issue)
+        self.github.add_labels.assert_called_with(12, ["implausible"])
+        self.github.close_issue.assert_called_once_with(12)
+        self.assertIn("/reopen", self.github.comment.call_args[0][1])
+
+    def test_reopen_overrides_implausible_and_forces_strategies(self):
+        issue = {
+            "number": 12,
+            "body": format_issue_body(4, "The awkward line.", "sounds weird", ""),
+            "labels": [{"name": "line-report"}],
+        }
+        self.github.list_comments.return_value = []
+        self.service._reopen_issue(issue, "/reopen still want other phrasings")
+        self.github.reopen_issue.assert_called_once_with(12)
+        self.github.remove_label.assert_called()
+        self.assertTrue(self.last_evaluate["force"])
+        self.assertEqual(self.last_evaluate["revise_note"], "still want other phrasings")
+        self.github.close_issue.assert_not_called()
+        self.assertIn("/apply", self.github.comment.call_args[0][1])
 
     def test_merged_pull_closes_issue(self):
         self.github.get_issue.return_value = {"state": "open"}

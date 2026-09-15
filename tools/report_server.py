@@ -29,6 +29,7 @@ from tools.line_report import (
     parse_apply_command,
     parse_evaluation_comment,
     parse_issue_body,
+    parse_reopen_command,
     parse_revise_command,
     run_evaluation,
 )
@@ -168,8 +169,7 @@ class LineReportService:
                 comment = format_evaluation_comment(evaluation)
                 if self.github:
                     self.github.comment(number, comment)
-                    if not evaluation["plausible"]:
-                        self.github.add_labels(number, ["implausible"])
+                    self._after_evaluation(number, evaluation)
             except Exception as error:
                 if self.github:
                     self.github.comment(
@@ -196,6 +196,13 @@ class LineReportService:
                 daemon=True,
             ).start()
             return
+        if parse_reopen_command(body) is not None:
+            threading.Thread(
+                target=self._reopen_issue,
+                args=(issue, body),
+                daemon=True,
+            ).start()
+            return
         if parse_revise_command(body) is None:
             return
         threading.Thread(
@@ -213,6 +220,57 @@ class LineReportService:
             except ValueError:
                 continue
         return None
+
+    def _after_evaluation(self, number: int, evaluation: dict) -> None:
+        if not self.github:
+            return
+        if evaluation["plausible"]:
+            self.github.remove_label(number, "implausible")
+            return
+        self.github.add_labels(number, ["implausible"])
+        self.github.close_issue(number)
+
+    def _run_evaluate(self, chapter: int, quote: str, note: str, **kwargs):
+        try:
+            return self.evaluate(chapter, quote, note, self.settings.root, **kwargs)
+        except TypeError:
+            extra = kwargs.get("revise_note") or ""
+            combined = note
+            if extra:
+                combined = f"{note}\nMaintainer revision: {extra}".strip() if note else extra
+            return self.evaluate(chapter, quote, combined, self.settings.root)
+
+    def _reopen_issue(self, issue: dict, body: str) -> None:
+        with self._jobs:
+            number = int(issue["number"])
+            if not self.github:
+                return
+            feedback = parse_reopen_command(body) or ""
+            try:
+                self.github.reopen_issue(number)
+                self.github.remove_label(number, "implausible")
+                parsed = parse_issue_body(issue.get("body") or "")
+                previous = self._latest_evaluation(number)
+                self._sync_repo()
+                evaluation = self._run_evaluate(
+                    parsed["chapter"],
+                    parsed["quote"],
+                    parsed["note"],
+                    previous=previous,
+                    revise_note=feedback,
+                    force=True,
+                )
+                self.github.comment(number, format_evaluation_comment(evaluation))
+                if not evaluation["plausible"]:
+                    self.github.comment(
+                        number,
+                        "Forced evaluation still returned no strategies. Try `/reopen` with a more specific note.",
+                    )
+            except Exception as error:
+                self.github.comment(
+                    number,
+                    f"Could not reopen:\n\n```\n{error}\n```",
+                )
 
     def _revise_issue(self, issue: dict, body: str) -> None:
         with self._jobs:
@@ -251,8 +309,7 @@ class LineReportService:
                         self.settings.root,
                     )
                 self.github.comment(number, format_evaluation_comment(evaluation))
-                if not evaluation["plausible"]:
-                    self.github.add_labels(number, ["implausible"])
+                self._after_evaluation(number, evaluation)
             except Exception as error:
                 self.github.comment(
                     number,

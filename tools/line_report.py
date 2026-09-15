@@ -16,6 +16,7 @@ NOTE_MAX = 2000
 STRATEGY_IDS = tuple("ABCDE")
 APPLY_RE = re.compile(r"^/apply\s+([A-Ea-e])\b", re.IGNORECASE | re.MULTILINE)
 REVISE_RE = re.compile(r"^/revise(?:\s+|$)(.*)\Z", re.IGNORECASE | re.DOTALL)
+REOPEN_RE = re.compile(r"^/reopen(?:\s+|$)(.*)\Z", re.IGNORECASE | re.DOTALL)
 META_RE = re.compile(
     r"<!--\s*line-report\s*\n(?P<body>.*?)\n\s*-->",
     re.DOTALL,
@@ -175,6 +176,23 @@ def cheap_gates(chapter: int, quote: str, root: Path = ROOT) -> str | None:
     return None
 
 
+def _plausibility_instruction(force: bool) -> str:
+    if force:
+        return """The maintainer overrode plausibility. Set plausible to true.
+Return 2 to 5 materially distinct alternative renderings of the anchor even if
+you consider the current English adequate. Do not return an empty strategies
+array. Do not offer the status quo unchanged.
+"""
+    return """Determine whether the concern is plausible against the Korean source and
+chapter-safe context. If it is a taste preference, already correct, or not
+supported by the source, set plausible to false and return an empty strategies
+array.
+
+If it is plausible, return 2 to 5 materially distinct correction strategies.
+Do not offer the status quo unchanged.
+"""
+
+
 def _rejected_block(previous: dict | None, revise_note: str) -> str:
     if not previous and not revise_note:
         return ""
@@ -214,6 +232,7 @@ def build_evaluate_prompt(
     root: Path = ROOT,
     previous: dict | None = None,
     revise_note: str = "",
+    force: bool = False,
 ) -> str:
     relative = path.relative_to(root)
     return f"""# Line Report Evaluation — Chapter {number}
@@ -227,14 +246,8 @@ Anchor file: `{relative}`
 Anchor text: {json.dumps(quote, ensure_ascii=False)}
 Proofreader note: {json.dumps(note, ensure_ascii=False)}
 {_rejected_block(previous, revise_note)}
-Determine whether the concern is plausible against the Korean source and
-chapter-safe context. If it is a taste preference, already correct, or not
-supported by the source, set plausible to false and return an empty strategies
-array.
-
-If it is plausible, return 2 to 5 materially distinct correction strategies.
-Do not offer the status quo unchanged. Each strategy must include exact
-current → replacement patches. Allowed paths only:
+{_plausibility_instruction(force)}
+Each strategy must include exact current → replacement patches. Allowed paths only:
 `translations/NNNN.md`, `docs/NAMES.md`, `docs/ADDRESS.md`, `docs/CONTEXT.json`,
 `compendium.md`. Never edit Korean source files. Each `current` span must appear
 exactly once in that file as it exists in this packet (the English chapter is
@@ -391,6 +404,13 @@ def parse_revise_command(body: str) -> str | None:
     return match.group(1).strip()
 
 
+def parse_reopen_command(body: str) -> str | None:
+    match = REOPEN_RE.match((body or "").strip())
+    if not match:
+        return None
+    return match.group(1).strip()
+
+
 def format_evaluation_comment(evaluation: dict) -> str:
     payload = base64.b64encode(json.dumps(evaluation, ensure_ascii=False).encode("utf-8")).decode("ascii")
     if evaluation["plausible"]:
@@ -421,6 +441,8 @@ def format_evaluation_comment(evaluation: dict) -> str:
             f"**Verdict:** {evaluation['verdict']}",
             "",
             "No pull request will be opened from this report.",
+            "This issue will be closed. Comment `/reopen` (optionally with a note)",
+            "to override and get translation choices anyway.",
         ]
     lines.extend(["", "<!-- line-report-eval", payload, "-->", ""])
     return "\n".join(lines)
@@ -433,6 +455,7 @@ def evaluate_from_root(
     root: Path = ROOT,
     previous: dict | None = None,
     revise_note: str = "",
+    force: bool = False,
 ) -> dict:
     gate = cheap_gates(chapter, quote, root)
     if gate:
@@ -442,7 +465,7 @@ def evaluate_from_root(
     reference = reference_context(chapter, root)
     prompt = build_evaluate_prompt(
         chapter, path, translation, quote, note, reference, root,
-        previous=previous, revise_note=revise_note,
+        previous=previous, revise_note=revise_note, force=force,
     )
     return {"prompt": prompt, "path": path, "translation": translation, "reference": reference}
 
@@ -454,9 +477,10 @@ def run_evaluation(
     root: Path = ROOT,
     previous: dict | None = None,
     revise_note: str = "",
+    force: bool = False,
 ) -> dict:
     prepared = evaluate_from_root(
-        chapter, quote, note, root, previous=previous, revise_note=revise_note,
+        chapter, quote, note, root, previous=previous, revise_note=revise_note, force=force,
     )
     if "prompt" not in prepared:
         return prepared

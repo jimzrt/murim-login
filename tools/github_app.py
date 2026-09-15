@@ -146,8 +146,21 @@ class GitHubApp:
     def add_labels(self, issue: int, labels: list[str]) -> None:
         self._request("POST", f"/repos/{self.repo}/issues/{issue}/labels", {"labels": labels})
 
+    def remove_label(self, issue: int, name: str) -> None:
+        try:
+            self._request(
+                "DELETE",
+                f"/repos/{self.repo}/issues/{issue}/labels/{urllib.parse.quote(name)}",
+            )
+        except GitHubError as error:
+            if error.status != 404:
+                raise
+
     def close_issue(self, issue: int) -> None:
         self._request("PATCH", f"/repos/{self.repo}/issues/{issue}", {"state": "closed"})
+
+    def reopen_issue(self, issue: int) -> None:
+        self._request("PATCH", f"/repos/{self.repo}/issues/{issue}", {"state": "open"})
 
     def get_issue(self, issue: int) -> dict:
         return self._request("GET", f"/repos/{self.repo}/issues/{issue}")
