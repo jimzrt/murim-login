@@ -1,6 +1,6 @@
 # Ak Bulgun (악불군)
 
-- **Safe through:** Chapter 198
+- **Safe through:** Chapter 199
 - **Aliases:** None
 - **Role:** Middle-aged martial artist of the Shandong Yue Family and spear Instructor at Heaven's Gate Temple; came to the Jin Family to retrieve Jin Mukyung after the academy lost contact with him; offered Jin Taekyung special permission to enroll as a cadet.
 - **Personality:** Stern, restrained, observant, and straightforward; treats martial-world rumors skeptically.
