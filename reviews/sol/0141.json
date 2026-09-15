@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "*Now even the Sword Saint is showing up.*\n\nI was dumbfounded, but then I looked at Cheongpung and found myself nodding.",
+      "defect": "The draft omits the Fire King’s feat, the quantity and duration involved, the comparison establishing that the Sword Saint ranks above him, and Taekyung’s reaction to increasingly powerful monsters.",
+      "id": "F01",
+      "rationale": "These omitted lines provide the concrete feat behind the ranking comparison and the causal bridge from the Sword Saint’s status to Taekyung viewing Cheongpung as a monster raised by another monster.",
+      "replacement": "*Now even the Sword Saint is showing up.*\n\nJin Mukyung had told me that the Fire King earned his place among the Ten Kings by hunting down and killing a thousand members of the Demonic Cult over four days and nights.\n\nIf that was what it took to earn a place among the Ten Kings, just how formidable was the Sword Saint, whose name ranked ahead of his?\n\n*Why do nothing but monsters keep popping up?*\n\nI was dumbfounded, but then I looked at Cheongpung and found myself nodding.",
+      "severity": "major",
+      "source": "진무경이 말하길, 화왕(火王)은 나흘 밤낮 동안 천 명의 마교도를 잡아 죽이고 십왕에 올랐다고 했다.\n\n그렇다면 그보다 앞줄에 이름에 올린 검성은 어느 정도일까?\n\n‘어떻게 된 게 갈수록 괴물만 튀어나오냐.’"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“There are three stages involved in having a child: ovulation, fertilization, and implantation. Try saying them once.”",
+      "defect": "“Try saying them once” prematurely disambiguates 한 번 해 보세요 and makes Cheongpung’s ensuing “With Benefactor?” response illogical, removing the source’s sexual misunderstanding.",
+      "id": "F02",
+      "rationale": "The source deliberately leaves “try it” ambiguous until Taekyung clarifies that he meant repeating the words aloud.",
+      "replacement": "“There are three stages involved in having a child: ovulation, fertilization, and implantation. Try it.”",
+      "severity": "major",
+      "source": "“아이가 나오려면 총 세 단계가 있어요. 배란, 수정, 착상. 한 번 해 보세요.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "*What the hell was that supposed to mean?*",
+      "defect": "The draft softens 시벌, a strong profanity, and omits 또, which conveys Taekyung’s exasperated sense that yet another absurd statement has appeared.",
+      "id": "F03",
+      "rationale": "The stronger profanity and “now” preserve both the source’s vulgarity and its weary comic escalation.",
+      "replacement": "*What the fuck was that supposed to mean now?*",
+      "severity": "minor",
+      "source": "시벌, 이건 또 무슨 소리여."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“That fellow was quite prominent among the lay disciples. At least, he was until he lost to me in a friendly duel with the main sect. Isn’t that right?”",
+      "defect": "본문 is Gong Ilhyuk’s own Zhongnan Sect, not an unspecified “main sect.” The current wording obscures which organization conducted the friendly duel.",
+      "id": "F04",
+      "rationale": "Gong Ilhyuk is contrasting Li Feng’s former standing among Huashan’s lay disciples with his defeat during a friendly duel against Gong’s Zhongnan Sect.",
+      "replacement": "“That fellow was quite prominent among the lay disciples. At least, until he lost to me during a friendly duel with our sect. Isn’t that right?”",
+      "severity": "major",
+      "source": "“저 친구가 속가 중에서는 제법 잘나갔거든. 본문과의 친선 비무에서 나한테 패배하기 전까지는 말이야, 안 그런가?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“It’s true. However, he was still living at Huashan. He had simply secluded himself so deeply that no one could find him.”",
+      "defect": "The draft changes the implied subject from Huashan’s people having failed to locate Mae Jonghak to the absolute claim that no one could find him, which conflicts with Li Feng’s immediate account of their successfully reaching him.",
+      "id": "F05",
+      "rationale": "찾지 못했을 뿐 refers contextually to Huashan’s prior inability to locate him, not to an intrinsic impossibility of anyone finding him.",
+      "replacement": "“It’s true. However, he was still living at Huashan. He had simply gone into such deep seclusion that we hadn’t been able to find him.”",
+      "severity": "major",
+      "source": "“사실이야. 다만 그분은 여전히 화산에 남아 계셨네. 워낙 깊이 은거하시는 바람에 찾지 못했을 뿐.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The Sword Saint who had threatened to set fire to a sect wasn’t exactly ordinary, either.",
+      "defect": "“A sect” omits that 사문 refers to the Sword Saint’s own sect, weakening the specific absurdity and characterization.",
+      "id": "F06",
+      "rationale": "사문 denotes the martial sect to which the person belongs; the joke is specifically that Mae Jonghak threatened Huashan itself.",
+      "replacement": "The Sword Saint who had threatened to set fire to his own sect wasn’t exactly ordinary, either.",
+      "severity": "minor",
+      "source": "사문에 불을 지르겠다고 협박한 검성도 보통이 아니다."
+    }
+  ],
+  "summary": "The draft omits the Fire King comparison that explains the Sword Saint’s ranking, weakens a key sexual misunderstanding, and alters several institutional, subject, and register details.",
+  "version": 1
+}

@@ -1,6 +1,6 @@
 # Gong Ilhyuk (공일혁)
 
-- **Safe through:** Chapter 140
+- **Safe through:** Chapter 141
 - **Aliases:** None
 - **Role:** The third member of the Three Hands of Zhongnan and a Zhongnan Sect martial artist from Shaanxi
 - **Personality:** Sharp-tongued, mocking, and openly antagonistic toward Li Feng
