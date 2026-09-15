@@ -1,0 +1,106 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "The name referred to a procedure in which one’s hair fell out and one’s bones were washed. It was a treatment performed only by prestigious, long-established major sects.",
+      "defect": "The explanation of the name omits the muscles from 근골 and presents the phrase as a description of the procedure rather than its meaning.",
+      "id": "F01",
+      "rationale": "근골 encompasses the bones and muscles here, and 의미를 지닌 explicitly describes what the term means.",
+      "replacement": "The term meant shedding one’s hair and cleansing one’s bones and muscles. It was a treatment performed only by prestigious, long-established major sects.",
+      "severity": "minor",
+      "source": "털이 빠지고 근골을 씻는다는 의미를 지닌 이 수법은 유서 깊은 명문 대파에서나 실행되는 시술이다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“First. An internal-energy master with more than one jiazi of internal energy.”\n\n“...Yikes.”\n\nThe difficulty level was brutal right from the start.\n\nOne jiazi was no less than one hundred and twenty years.",
+      "defect": "The draft changes the requirement from at least two jiazi to more than one and then incorrectly defines one jiazi as 120 years. One jiazi is sixty years; two jiazi are 120.",
+      "id": "F02",
+      "rationale": "이 갑자 이상의 means at least two jiazi, and 이 갑자면 자그마치 백이십 년 explicitly equates those two cycles with 120 years.",
+      "replacement": "“First. An internal-energy master with at least two jiazi of internal energy.”\n\n“…Yikes.”\n\nThe difficulty level was brutal right from the start.\n\nTwo jiazi amounted to a full one hundred and twenty years.",
+      "severity": "critical",
+      "source": "“첫째. 이 갑자 이상의 공력을 지닌 내가고수.”\n\n“……어우.”\n\n시작부터 난이도 빡센 것 보소.\n\n이 갑자면 자그마치 백이십 년이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Not merely difficult. Extremely difficult. Was it Baek Museong? That fellow who kept going on about Huashan? It seems he underwent it.”",
+      "defect": "The draft invents an action in which Baek Museong repeatedly talked about Huashan. Jeok Cheongang is instead referring dismissively to the vaguely remembered ‘Huashan-something’ fellow.",
+      "id": "F03",
+      "rationale": "화산 어쩌구 하는 그놈 marks Jeok Cheongang’s vague, dismissive recollection of Baek Museong’s Huashan association; it does not say Baek Museong talked about Huashan.",
+      "replacement": "“Not merely difficult. Extremely difficult. Was it Baek Museong? That Huashan-something fellow seems to have undergone it.”",
+      "severity": "major",
+      "source": "“힘든 정도가 아니라 매우 어렵다. 백무성이라고 했던가? 화산 어쩌구 하는 그놈은 벌모세수를 받은 것 같더군.”"
+    },
+    {
+      "confidence": 0.93,
+      "current": "This was the sort of improvement that normally required leveling up once and training consistently afterward.",
+      "defect": "The draft adds a sequence in which the training occurs after the level-up, while the source simply combines one level-up with sustained training as the effort normally required.",
+      "id": "F04",
+      "rationale": "레벨 업 한 번에 꾸준한 수련 denotes the combined gains from one level-up and steady training, not training specifically performed afterward.",
+      "replacement": "This was the sort of improvement that normally took one level-up plus steady training to achieve.",
+      "severity": "minor",
+      "source": "이 정도면 레벨 업 한 번에 꾸준한 수련을 해야 얻을 수 있는 효과다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Even some weakling who had been constantly sick would undergo one of those two procedures, suddenly turn into a thug, and run rampant through the Murim.",
+      "defect": "The draft changes ‘with those two’ into ‘one of those two,’ altering the quantity in Taekyung’s genre observation.",
+      "id": "F05",
+      "rationale": "저 두 개면 refers collectively to both Bone Transformation and cleansing the sinews and washing the marrow.",
+      "replacement": "Even a sickly weakling could undergo both of those procedures, suddenly turn into a thug, and run rampant through the Murim.",
+      "severity": "major",
+      "source": "약해 빠져서 골골거리던 놈도 저 두 개면 깡패로 돌변해서 무림을 휘젓고 다녔었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Jeok Cheongang had massaged and examined his unconscious body from head to toe.",
+      "defect": "The draft replaces the explicit action of touching with the more clinical ‘examined,’ weakening both the physical action and the payoff to the preceding joke about Jeok Cheongang touching him.",
+      "id": "F06",
+      "rationale": "주무르고 만졌다 explicitly means that he kneaded and touched the body; the repeated tactile verbs are intentional in this comic context.",
+      "replacement": "Jeok Cheongang had kneaded and touched his unconscious body from head to toe.",
+      "severity": "major",
+      "source": "적천강은 의식을 잃은 그의 몸을 머리부터 발끝까지 주무르고 만졌다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "*Even if I don’t do it, Mae Jonghak—if that friend of mine took responsibility, he could find a fine talent and carry on our sect’s legacy.*",
+      "defect": "The draft adds a condition about Mae Jonghak ‘taking responsibility’ that is absent from the source and makes the thought syntactically awkward.",
+      "id": "F07",
+      "rationale": "The source says that Mae Jonghak would be capable of finding a suitable talent and continuing the sect’s lineage; it does not condition this on his accepting responsibility.",
+      "replacement": "*Even if I don’t do it, Mae Jonghak could find a worthy talent and carry on our sect’s legacy.*",
+      "severity": "minor",
+      "source": "‘내가 아니더라도 매종학, 그 친구라면 좋은 인재를 찾아 본문의 맥을 이어 줄 수 있을 것이다.’"
+    },
+    {
+      "confidence": 0.88,
+      "current": "“Fuck, you could’ve just said you wouldn’t touch it. Why hit someone?”",
+      "defect": "The fully explicit ‘Fuck’ intensifies the clipped euphemistic profanity 시바, and ‘Why hit someone?’ is unnaturally impersonal when Taekyung means himself.",
+      "id": "F08",
+      "rationale": "시바 is a softened or clipped form of stronger profanity, while 사람 in this complaint naturally refers to the speaker as the person who was hit.",
+      "replacement": "“Damn, you could’ve just said you wouldn’t touch it. Why hit me?”",
+      "severity": "minor",
+      "source": "“시바, 그냥 안 만진다고 하면 되지 왜 사람을 때려.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“How in the world do you think of our sect?”",
+      "defect": "The English construction is unidiomatic and obscures Jeok Cheongang’s blunt challenge to Taekyung’s conception of the sect.",
+      "id": "F09",
+      "rationale": "본문을 어떻게 생각하는 거냐 asks what Taekyung takes the sect to be; the replacement preserves Jeok Cheongang’s exasperated, confrontational register.",
+      "replacement": "“What the hell do you think our sect is?”",
+      "severity": "minor",
+      "source": "“네놈은 도대체 본문을 어떻게 생각하는 거냐?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Status abnormality: **Unconsciousness** has been removed.",
+      "defect": "‘Status abnormality’ is not natural game-system terminology for 상태 이상.",
+      "id": "F10",
+      "rationale": "상태 이상 is conventionally and naturally rendered as ‘status effect’ in a game interface.",
+      "replacement": "Status effect: **Unconsciousness** has been removed.",
+      "severity": "minor",
+      "source": "- 상태 이상, [기절]이 해제되었습니다."
+    }
+  ],
+  "summary": "One critical quantity error changes the required internal energy from two jiazi to one; additional findings address altered actions, an invented subject action, mechanical and register shifts, and localized terminology or English issues.",
+  "version": 1
+}

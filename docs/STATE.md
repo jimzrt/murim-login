@@ -1,22 +1,22 @@
 # Translation State
 
-- Last completed: 196
-- Next chapter: 197
-- Current block: 195–199 (2/5)
-- Latest translation: `translations/0196.md`
-- Latest summary: `summaries/beats/0196.md`
-- Safe profiles through: chapter 196
+- Last completed: 197
+- Next chapter: 198
+- Current block: 195–199 (3/5)
+- Latest translation: `translations/0197.md`
+- Latest summary: `summaries/beats/0197.md`
+- Safe profiles through: chapter 197
 
 ## Current Block
 
-- Taiyuan's merchants experience an unprecedented boom as officials, merchants, martial artists, outsiders, Seok Family Manor, and Prince Shangshan converge on the Jin Family of Taiyuan. A returning textile merchant learns that public rumor now treats Jin Taekyung as the Fire King's Disciple and bearer of the Fire Gate Clan's sacred treasure, making Taekyung and the Jin Family major targets for attention.
-- Two days after the Zhongnan confrontation, Jin Taekyung remains bedridden with severe bruising after Jeok Cheongang suddenly chased him down and beat him with his bare fists over the partly burned Flame Divine Palm manual. The Jin Family publicly explains his absence as closed-door cultivation. Jeok then sends Hyuk Mujin away and prepares to perform cleansing the sinews and washing the marrow on Taekyung.
+- Jeok Cheongang explains that cleansing the sinews and washing the marrow requires a master with at least two jiazi of internal energy, substantial financial resources for elixirs, and enough patience to endure potentially fatal pain. Lacking the necessary elixirs, he performs only an abbreviated internal-energy treatment on Jin Taekyung, knocks him unconscious after Taekyung jokes about his naked body, and leaves after the System reports the treatment's success.
+- After examining Taekyung's unconscious body, Jeok Cheongang is stunned by his perfectly balanced bones, muscles, and meridians. He suspects Taekyung may possess the legendary Heavenly Martial Physique and, despite having planned to ask Mae Jonghak to continue the Fire Gate Clan's succession, briefly considers teaching Taekyung himself. Jin Wikyung finds him lingering outside the office and invites him in for a drink.
 
 ## Open Questions
 
 - What is Dark Heaven ultimately seeking, and why was Shanxi Province targeted?
 - Who are the three surviving Dark Heaven remnants, and what can be learned from them?
-- Does Jeok Cheongang intend to take Jin Taekyung as his Disciple?
+- Will Jeok Cheongang take Jin Taekyung as his Disciple?
 - When will Jang Taebo complete Taekyung's commissioned weapon?
 - Who has the Treasured Jade, or was it lost by Jopil?
 - What consequences will follow Woo Hwangtae's conflict with Chulwoo and the Jin Family?
