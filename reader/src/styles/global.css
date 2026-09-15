@@ -751,10 +751,16 @@ pagefind-modal-trigger.nav-search {
   border-image: url("../ornaments/frame.svg") 56 / var(--frame) / 0 stretch;
   border-radius: 0;
   background-color: var(--system-blue);
-  background-image: radial-gradient(120% 90% at 50% 0%, #3a78b8 0%, var(--system-blue-mid) 42%, var(--system-blue) 100%);
+  background-image: radial-gradient(
+    120% 90% at 50% 0%,
+    #3a78b8 0%,
+    var(--system-blue-mid) 42%,
+    var(--system-blue) 100%
+  );
   background-origin: border-box;
   background-clip: border-box;
-  box-shadow: 0 0 22px color-mix(in srgb, var(--system-blue-mid) 26%, transparent);
+  box-shadow: 0 0 22px
+    color-mix(in srgb, var(--system-blue-mid) 26%, transparent);
   text-shadow:
     -1.1px -1.1px 0 var(--system-blue-deep),
     1.1px -1.1px 0 var(--system-blue-deep),
@@ -763,7 +769,8 @@ pagefind-modal-trigger.nav-search {
 }
 
 html[data-theme="light"] .system-window {
-  box-shadow: 0 8px 22px color-mix(in srgb, var(--system-blue-deep) 20%, transparent);
+  box-shadow: 0 8px 22px
+    color-mix(in srgb, var(--system-blue-deep) 20%, transparent);
 }
 
 .system-window > p:first-child {
@@ -936,14 +943,21 @@ html[data-theme="light"] .system-window {
   border-image: url("../ornaments/frame.svg") 56 / var(--frame) / 0 stretch;
   border-radius: 0;
   background-color: var(--system-blue);
-  background-image: radial-gradient(120% 90% at 50% 0%, #3a78b8 0%, var(--system-blue-mid) 42%, var(--system-blue) 100%);
+  background-image: radial-gradient(
+    120% 90% at 50% 0%,
+    #3a78b8 0%,
+    var(--system-blue-mid) 42%,
+    var(--system-blue) 100%
+  );
   background-origin: border-box;
   background-clip: border-box;
-  box-shadow: 0 0 22px color-mix(in srgb, var(--system-blue-mid) 26%, transparent);
+  box-shadow: 0 0 22px
+    color-mix(in srgb, var(--system-blue-mid) 26%, transparent);
 }
 
 html[data-theme="light"] .system-comments {
-  box-shadow: 0 8px 22px color-mix(in srgb, var(--system-blue-deep) 20%, transparent);
+  box-shadow: 0 8px 22px
+    color-mix(in srgb, var(--system-blue-deep) 20%, transparent);
 }
 
 .system-comments__badge {
@@ -1005,24 +1019,26 @@ html[data-theme="light"] .system-comments {
   color: #f3f7fc;
 }
 
-.system-comments #remark42 :is(
-  .comment-content,
-  .comment__body,
-  .comment-text,
-  .text,
-  .raw,
-  .name,
-  .time,
-  .score,
-  .info,
-  .empty,
-  .auth-message,
-  p,
-  li,
-  span:not([class*="icon"]),
-  textarea,
-  input
-) {
+.system-comments
+  #remark42
+  :is(
+    .comment-content,
+    .comment__body,
+    .comment-text,
+    .text,
+    .raw,
+    .name,
+    .time,
+    .score,
+    .info,
+    .empty,
+    .auth-message,
+    p,
+    li,
+    span:not([class*="icon"]),
+    textarea,
+    input
+  ) {
   color: #f3f7fc !important;
 }
 
@@ -1083,9 +1099,15 @@ html[data-theme="light"] .system-comments {
   /* border-box + side gutter for the 4px outer gold ring; margin:auto keeps centering. */
   width: min(
     24rem,
-    calc(100vw - 2.5rem - env(safe-area-inset-left, 0px) - env(safe-area-inset-right, 0px))
+    calc(
+      100vw - 2.5rem - env(safe-area-inset-left, 0px) -
+        env(safe-area-inset-right, 0px)
+    )
   );
-  max-width: calc(100% - 2.5rem - env(safe-area-inset-left, 0px) - env(safe-area-inset-right, 0px));
+  max-width: calc(
+    100% - 2.5rem - env(safe-area-inset-left, 0px) -
+      env(safe-area-inset-right, 0px)
+  );
   margin: auto;
   padding: 1.05rem 1.15rem 1.2rem;
   border: 2px solid var(--gold);
