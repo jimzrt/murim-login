@@ -1,7 +1,9 @@
 # Line reports (reader → GitHub → PR)
 
 Readers can select a passage in the web reader, describe the problem, and submit
-without leaving the site. A GitHub App opens a `line-report` issue, evaluates it
+without leaving the site. Only **mastered** chapters are accepted
+(`reviews/mastering/NNNN/state.json` with `stage: PROMOTED` and `qa_passed`).
+A GitHub App opens a `line-report` issue, evaluates it
 with the same chapter-safe packet as `tools/refine_translation.py`, comments
 strategies, and opens a pull request when you reply `/apply A`. Merging that PR
 closes the issue.
