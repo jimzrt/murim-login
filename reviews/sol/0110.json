@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "We had ridden without stopping since leaving the temple. By dawn, the sun was already high overhead.",
+      "defect": "The draft incorrectly makes the sun high overhead by dawn, collapsing the progression from daybreak to midday and contradicting the later deadline calculation. It also renders 사당 as a temple rather than a shrine.",
+      "id": "F01",
+      "rationale": "The source says dawn broke during the uninterrupted ride and the sun subsequently reached its midday position.",
+      "replacement": "We had ridden without stopping since leaving the shrine; dawn had broken, and now the sun was high overhead.",
+      "severity": "critical",
+      "source": "사당에서부터 쉬지 않고 달리다 보니 동이 트고 해가 중천에 걸렸다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "We had been leading horses then, too.",
+      "defect": "The draft specifies that they were walking while leading the horses, although the source only says they had taken horses along.",
+      "id": "F02",
+      "rationale": "말을 끌고 가다 in this context establishes that horses accompanied the scouting party, not necessarily that the characters led them on foot.",
+      "replacement": "We’d taken horses with us then, too.",
+      "severity": "major",
+      "source": "그때도 분명 말을 끌고 가긴 했었지."
+    },
+    {
+      "confidence": 0.94,
+      "current": "*Of course, taking the wrong one could send me straight to the grave.*",
+      "defect": "The draft changes the danger from taking or ingesting an item incorrectly to selecting the wrong item.",
+      "id": "F03",
+      "rationale": "잘못 먹으면 concerns mishandling the act of taking the pill, while the draft invents a choice among intrinsically safe and unsafe items.",
+      "replacement": "*Of course, if I screw up taking it, I could wind up dead.*",
+      "severity": "major",
+      "source": "‘물론 잘못 먹으면 골로 가겠지만.’"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Ahh, barkeep.”",
+      "defect": "A private thought is incorrectly presented as dialogue spoken aloud.",
+      "id": "F04",
+      "rationale": "The source marks this as Jin Taekyung’s internal thought, and the translation rules require direct thoughts to be italicized without quotation marks.",
+      "replacement": "*Ahh, barkeep.*",
+      "severity": "major",
+      "source": "‘크으, 주모.’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Wolhwa opened her eyes wide and asked me,",
+      "defect": "The draft omits Taekyung’s deep sigh, the action that prompts Wolhwa’s concerned question.",
+      "id": "F05",
+      "rationale": "한숨을 푹 내쉬는 explicitly describes Taekyung sighing deeply before Wolhwa speaks.",
+      "replacement": "As I let out a deep sigh, Wolhwa’s eyes widened and she asked,",
+      "severity": "minor",
+      "source": "한숨을 푹 내쉬는 내게 눈을 동그랗게 뜬 월화가 물었다."
+    },
+    {
+      "confidence": 0.9,
+      "current": "“Don’t say such things. Protecting you is my duty.”",
+      "defect": "The draft omits Cheol Mubaek’s affectionate use of Seowol’s name.",
+      "id": "F06",
+      "rationale": "소월이 identifies Seowol within the reassurance and reinforces the sudden intimate shift in Cheol Mubaek’s register.",
+      "replacement": "“Don’t say such things. Protecting you, Seowol, is my duty.”",
+      "severity": "minor",
+      "source": "“그런 말은 하지 말거라. 소월이 너를 지키는 게 내 할 일인 것을.”"
+    },
+    {
+      "confidence": 0.93,
+      "current": "*The Title effects are stacked, too. This is more than enough.*",
+      "defect": "“Stacked” suggests a specific cumulative System mechanic, while the source only says the Title bonuses are substantial; “more than enough” also slightly intensifies 충분해.",
+      "id": "F07",
+      "rationale": "빵빵하고 colloquially describes the bonuses as generous or powerful without asserting a stacking mechanism.",
+      "replacement": "*The Title bonuses are hefty, too. This should be enough.*",
+      "severity": "minor",
+      "source": "‘칭호 옵션 효과도 빵빵하고. 이 정도면 충분해.’"
+    },
+    {
+      "confidence": 0.98,
+      "current": "The Blood Wolf Sword and the Tiger of Mount Heng. Close friends, and walls each had to overcome.",
+      "defect": "The English fragment leaves the reciprocal relationship grammatically unclear.",
+      "id": "F08",
+      "rationale": "서로가 specifies that each man was the obstacle the other needed to surpass.",
+      "replacement": "The Blood Wolf Sword and the Tiger of Mount Heng. They were close friends, but each was also the wall the other had to overcome.",
+      "severity": "minor",
+      "source": "혈랑검과 항산호. 절친한 벗이자 서로가 넘어야 할 벽."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Lee Seowol was the child who carried his blood most strongly.",
+      "defect": "“Carried his blood most strongly” is an unnatural English calque.",
+      "id": "F09",
+      "rationale": "The replacement naturally preserves the source’s bloodline image and its emphasis that Seowol inherited Lee Cheonbaek’s qualities most strongly.",
+      "replacement": "Lee Seowol was the child in whom his blood ran strongest.",
+      "severity": "minor",
+      "source": "이소월은 그의 피를 가장 진하게 이어받은 자식이다."
+    }
+  ],
+  "summary": "The draft contains one critical timeline error, several altered or omitted actions and cues, and a few localized fidelity and natural-English issues.",
+  "version": 1
+}

@@ -1,18 +1,16 @@
 # Translation State
 
-- Last completed: 109
-- Next chapter: 110
-- Current block: 105–109 (5/5)
-- Latest translation: `translations/0109.md`
-- Latest summary: `summaries/beats/0109.md`
-- Safe profiles through: chapter 109
+- Last completed: 110
+- Next chapter: 111
+- Current block: 110–114 (1/5)
+- Latest translation: `translations/0110.md`
+- Latest summary: `summaries/beats/0110.md`
+- Safe profiles through: chapter 110
 
 ## Current Block
 
-- A messenger hawk from the Lower District Sect's Sakju Branch reports that approximately two hundred Red Wind Band members are moving south across the plateau. Wolhwa uses lethal interrogation to extract all available information from the captured mounted bandits.
-- Taekyung, Jin Mukyung, Hyuk Mujin, and Wolhwa abandon the carriage and ride toward the Mount Heng Sword Sect without resting, while a Lower District Sect member takes the Five-Colored Ghosts and surviving mounted bandits to a nearby branch.
-- The Red Wind Band Leader, Pung Yang, has already led the band through Datong and destroyed the Mount Heng Sword Sect's Datong Branch. He orders that no prisoners be taken and that the manor be burned, rejecting plateau traditions whenever they conflict with his commands.
-- The Mount Heng Sword Sect learns that the Red Wind Band may attack within one or two days. Having already lost nearly eighty percent of its strength in the war with the Jin Family of Taiyuan, the sect's senior figures despair until the main hall doors suddenly explode.
+- Cheol Mubaek, the Peak-level Tiger of Mount Heng and close friend and peer of Lee Cheonbaek, storms into the Mount Heng Sword Sect's main hall. He rebukes the senior figures for considering rebellion against Cheonbaek's final wishes and nearly suffocates them with his terrifying Scorching Yang Qi. Lee Seowol calms him, then orders the Iron Sword Squad Leader and Master of the Gatekeeper Pavilion to address her as Sect Leader rather than Young Lady, asserting the authority she inherited from her father.
+- While riding toward Mount Heng, Taekyung reviews the Quest requiring him to invite the Mount Heng Sword Sect to the Jin Family during the upcoming Lunar New Year. He confirms that he is now Level 55 and discovers that Mujin has reached Level 38, nearly double his Level from their first meeting. When Taekyung verbally attempts to open Mujin's Status Window, the Quest instead gains a 22-hour time limit: they must reach Mount Heng before it expires or face an irreversible consequence. The exhausted horses force the party to stop at a stream for a one-hour rest, despite their projected arrival being after the deadline.
 
 ## Open Questions
 
@@ -23,7 +21,7 @@
 - What final disciplinary action will be taken against the Security Team remains unknown.
 - How and why Seong Jinho entered the capsule and emerged inside Taekyung's new house remains unknown.
 - How Lee Seowol and Mount Heng will respond to the merger proposal, and what compensation or territorial concession Wolhwa will receive, remain unresolved.
-- What will happen inside the Mount Heng Sword Sect's main hall after its doors are destroyed remains unknown.
+- What final outcome will follow Cheol Mubaek and Lee Seowol's assertion of authority inside the damaged main hall remains unresolved.
 
 ## Exceptional Decision
 
@@ -31,10 +29,10 @@
 - Render Im Chunsoo's 자네 as you; 김화종's 춘수 and 교관님 as Chunsoo and Instructor; 1번 훈련생 as Trainee Number One; and 열양공 as heat-yang technique.
 - Render 원단 as Lunar New Year; 봉황객잔 as Phoenix Inn; 계용옥미갱 and 계용옥미앵 as chicken-and-corn soup; and 곡도 as curved saber.
 - Render 마적 and 마적단 as mounted bandits and mounted-bandit groups; 적풍단 as Red Wind Band; 적풍단주 as Red Wind Band Leader; and 토호단 as Earth Tiger Band.
-- Render 초일류 as master beyond First Rate; preserve Wolhwa's Young Master forms for Taekyung and Young Hero Jin for Mukyung; render 관제묘 as Guandi Temple and 흑도 as dark-path figures.
+- Render 초일류 as master beyond First Rate; preserve Wolhwa's Young Master forms for Taekyung and Young Hero Jin for Mukyung; render 관제묘 as Guandi Temple and 흑도 as dark-path figures; render 소월 as Seowol and 철 숙부 as Uncle Cheol.
 - Render 오색귀 as Five-Colored Ghosts, 이삼 as Lee Sam, 전서응 as messenger hawk, and 대형 as Boss.
 - Render 추종향 as tracking scent, 대동 as Datong, 풍양 as Pung Yang, 춘삼 as Chunsam, 철검대주 as Iron Sword Squad Leader, 대항산검문 as great Mount Heng Sword Sect, and 대동지부 as Datong Branch.
-- Render 절정 as Peak, 일류 as First Rate, 일격 as One Strike, and 단주 as Leader.
+- Render 절정 as Peak, 일류 as First Rate, 일격 as One Strike, 단주 as Leader, 아가씨 as Young Lady, 문주님 as Sect Leader, and 반 시진 as one hour.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
