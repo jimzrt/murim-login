@@ -1,0 +1,15 @@
+{
+  "summary": "The chapter is faithful overall, with one minor loss of a source-specific physical detail.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean lines 181–183; [P89]",
+      "current": "but his bearing was stiff and his manner was high-handed.",
+      "defect": "The translation generalizes Changsoo’s physically stiff neck into an abstractly stiff bearing, losing the source’s specific contrast between his polite words and arrogant posture.",
+      "replacement": "but his neck was stiff and his manner was high-handed.",
+      "rationale": "The source explicitly says 목은 뻣뻣하고, meaning his neck was stiff or held rigidly; the accepted baseline also preserved that physical image.",
+      "confidence": 0.98
+    }
+  ]
+}

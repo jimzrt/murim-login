@@ -1,6 +1,6 @@
 # Chapter 81
 
-In front of the Gate, ten men and women dressed as Hunters were chatting in a friendly atmosphere.
+In front of the Gate, ten men and women dressed as Hunters chatted among themselves in high spirits.
 
 “Oppas, we’re going to be okay, right?”
 
@@ -14,9 +14,9 @@ At the female Hunter’s question, a B-rank Hunter from Sangdong Guild thumped h
 
 Im Changsoo, who had been listening quietly, blew a cloud of cigarette smoke into the air.
 
-“If you’re nervous, go home. Don’t ruin the fucking mood.”
+“If you’re scared, go home. Don’t ruin the fucking mood.”
 
-The atmosphere instantly turned cold. The female Hunter who had spoken first forced the corners of her mouth upward.
+The atmosphere instantly turned cold. The female Hunter who had spoken forced the corners of her mouth upward.
 
 “No, oppa, I was just—”
 
@@ -26,13 +26,13 @@ The atmosphere instantly turned cold. The female Hunter who had spoken first for
 
 “Then go curl up in a corner. I’ve got more than enough bitches to bring along without you.”
 
-Despite his rough words and behavior, not one of them dared to object. They merely tried to lighten the mood with awkward smiles.
+Despite his vicious words, no one dared to object. They merely tried to lighten the mood with awkward smiles.
 
 This sort of scene was both familiar and perfectly natural to Im Changsoo.
 
 *Idiots.*
 
-Gates were geese that laid golden eggs called Magic Gems, and Hunters were the laborers who harvested them. Born into a family of estate managers, he had started out on a completely different footing.
+Gates were geese that laid golden eggs called Magic Gems, and Hunters were the laborers who harvested them. Born into the overseer’s family, he had started from an entirely different position.
 
 “If you’re not going to a hotel right now, quit hanging all over each other. It’ll be a pain in the ass if another shitty rumor starts spreading.”
 
@@ -50,23 +50,23 @@ Sangdong Guild might have been a respectable mid-sized Guild that threw its weig
 
 “Tsk. At least you’re good at answering.”
 
-Im Changsoo flicked away his half-burned cigarette. As if she had been waiting for it, someone beside him called out a spell.
+Im Changsoo flicked away his half-smoked cigarette. As if she had been waiting for it, someone beside him cast a spell.
 
 “Wind.”
 
-A magically generated breeze sent the cigarette butt and its smell flying far away. The female mage who had cast the spell gave him a charming smile.
+A magically conjured breeze carried the cigarette butt and its smell far away. The female mage who had cast the spell gave him a seductive smile.
 
 “I did good, right?”
 
-Im Changsoo looked her up and down. She had a sleek figure and was an alluring beauty, and the two of them had a sort of sponsorship arrangement.
+Im Changsoo looked her up and down. She had a sleek figure and a sultry beauty, and the two of them had a sort of sponsorship arrangement.
 
 Despite her outstanding looks, she was a C-rank Hunter with pathetic skills. But being the Guild Master’s son’s lover had been enough to get her into Sangdong Guild.
 
-Her house, her car, and countless designer goods—all of them had come out of Im Changsoo’s pocket. But he had never once thought it was a waste.
+Her house, her car, her countless designer goods… Im Changsoo had paid for all of them, but he had never considered the money wasted.
 
-*Well, that was true until now.*
+*Well, not until now.*
 
-But today, his mind had changed. Her figure, her looks, her entire air—all of it seemed tacky and cheap compared to the woman he had met about thirty minutes earlier.
+Today, he had changed his mind. Her figure, her looks, her entire air seemed tacky and cheap compared to the woman he had met about thirty minutes earlier.
 
 *Was her name Song Song?*
 
@@ -86,11 +86,11 @@ Of course, he didn’t forget to add a quiet remark to his ex-girlfriend.
 
 * * *
 
-Horndog—or rather, Im Changsoo—spoke with a bright smile.
+Horndog—or rather, Im Changsoo—greeted us with a bright smile.
 
 “You’re here. Ah, these are my team members.”
 
-The people who appeared to belong to Sangdong Guild bowed their heads.
+The members of Sangdong Guild bowed to us.
 
 Including Im Changsoo, there were exactly five men and five women. Every one of them wore expensive, gleaming equipment that clearly prioritized design over practicality.
 
@@ -98,15 +98,15 @@ Especially…
 
 *Oh, wow.*
 
-When it came to the female Hunters, I had no idea where to look. Im Kkeokjeong, a married man with two children, whispered with a stiff expression.
+When it came to the female Hunters, I had no idea where to look. Im Kkeokjeong, a married man with two children, whispered with a rigid expression.
 
-“They’re incredible.”
+“They’re smoking hot.”
 
 “……”
 
-I almost nodded before managing to stop myself.
+I nearly nodded before managing to stop myself.
 
-Miss Song was looking at us with a displeased expression.
+Miss Song was staring at us with a displeased expression.
 
 *That aside…*
 
@@ -142,7 +142,7 @@ Im Kkeokjeong thrust his hairy arm into the air.
 
 The official furrowed his brow.
 
-A tank was exactly what the name suggested: a human shield who stood on the front line and blocked monster attacks. Because of the danger, tanks were among the best-paid Hunters, along with healers. They also had a high fatality rate.
+A tank was exactly what the name suggested: a human shield who stood on the front line and blocked monster attacks. Because of the danger involved, tanks were among the best-paid Hunters, along with healers. Their fatality rate was also high.
 
 “Why would an E-rank come here? As a tank, no less. Good grief.”
 
@@ -152,39 +152,39 @@ A tank was exactly what the name suggested: a human shield who stood on the fron
 
 “Don’t worry, Hye-rin. This oppa will protect you.”
 
-Murmurs spread among Im Changsoo’s team members. The official who had to let us enter was no exception.
+Whispers spread among Im Changsoo’s team members. The official responsible for letting us enter was no exception.
 
 “An E-rank tank…”
 
 Butler Kim stepped forward at the concern in his voice.
 
-“He is a veteran with twenty years of experience. He is also wearing sufficient equipment to prepare for any danger, so I don’t believe there will be a problem.”
+“He is a veteran with twenty years of experience. He is also wearing more than enough equipment to prepare for any danger, so I don’t believe there will be a problem.”
 
-“Veteran is good, of course. But you know what happened last week. Two C-rank tanks died. In a situation like this, letting him…”
+“Experience is good, of course. But you know what happened last week. Two C-rank tanks died. Under the circumstances, this is…”
 
-That was when an unexpected ally appeared.
+That was when an unexpected ally stepped forward.
 
 “Sir, is there any way you could allow it?”
 
-It was Im Changsoo. He continued in a soft voice.
+It was Im Changsoo. He continued in a measured voice.
 
-“We’ve already signed the cooperative raid contract, and after meeting such fine people, it would be a shame to render it invalid.”
+“We’ve already signed the cooperative raid contract, and after meeting such fine people, it would be a shame to call the whole thing off.”
 
-“Well, I mean…”
+“Well, the thing is…”
 
 “We’d be very grateful if you could show us a little flexibility… Please.”
 
-What a strange guy. The words coming out of his mouth were all gratitude and requests, but his bearing was stiff and his manner was high-handed.
+What a strange guy. His words were full of gratitude and polite requests, but his head was held high and his manner was overbearing.
 
-The official flinched for a moment, then sighed.
+The official flinched, then sighed.
 
 “All right. But Team Leader, you’ll have to keep them under control.”
 
 “Of course.”
 
-*Keep them under control.* What an unpleasant way to put it.
+*Keep them under control.* I didn’t like the sound of that.
 
-With Im Changsoo’s help, permission was granted, but an ant seemed to be crawling around in one corner of my chest.
+Im Changsoo’s intervention got us permission, but irritation prickled somewhere in my chest.
 
 *Well, better to let it go.*
 
@@ -192,17 +192,17 @@ Even Im Kkeokjeong, the person involved, looked completely unfazed. It would be 
 
 “You may enter, then.”
 
-At the official’s words, everyone stepped in front of the Gate. Ten Hunters from Sangdong Guild and five from Peace Guild. Fifteen people in total, including no fewer than seven B-rank Hunters—a highly elite raid team.
+At the official’s words, everyone gathered in front of the Gate. Ten Hunters from Sangdong Guild and five from Peace Guild. Fifteen people in total, including no fewer than seven B-rank Hunters—a highly elite raid team.
 
 “Well, then…”
 
-Im Changsoo, who had naturally taken the lead, winked.
+Im Changsoo naturally took the lead and winked.
 
-“See you inside the Gate.”
+“See you on the other side.”
 
 Whoosh!
 
-As Im Changsoo disappeared beyond the field of magic, Miss Song muttered,
+As Im Changsoo vanished beyond the field of magic, Miss Song muttered,
 
 “What a creep.”
 
@@ -212,7 +212,7 @@ As Im Changsoo disappeared beyond the field of magic, Miss Song muttered,
 
 Whoosh.
 
-The damp, sticky energy unique to magic wrapped around my body for a moment. When I opened my eyes, a new space unfolded before me.
+The clammy, clinging energy unique to magic wrapped around me for a moment. When I opened my eyes, I found myself in an entirely new place.
 
 The cavern was so vast that it couldn’t even be compared to an F-rank Gate. Three entrances gaped open like enormous maws. It was the same place we had seen in the video on the way here.
 
@@ -226,9 +226,9 @@ Ding.
 >
 > Quest **B-rank Gate Clear** has been created.
 
-There was a System notification that only I could hear. And, on top of that, a Quest.
+I had a System notification only I could hear. And on top of that, a Quest.
 
-“All right, let’s check our numbers and equipment one more time before we go in.”
+“All right, let’s check our numbers and equipment one more time before we head in.”
 
 While everyone checked their belongings, I quietly moved to a corner of the cavern and muttered inwardly.
 
@@ -256,9 +256,9 @@ Ding.
 >
 > **Failure:** ???
 
-What a refreshing start.
+What a pleasant start.
 
-I had just closed the Quest window with a warm smile when—
+I had just closed the Quest window with a satisfied smile when—
 
 “What are you doing over here by yourself?”
 
@@ -276,25 +276,25 @@ I thought he had mistaken me for someone else, but apparently not.
 
 I wasn’t sure whether he was deaf or there was something wrong with my tongue, but I nodded anyway.
 
-*We’ll probably only see each other once, anyway.*
+*We’ll probably only see each other this once.*
 
 He had helped us with the issue concerning Im Kkeokjeong, so I still felt a little grateful to him.
 
 “Did you need something?”
 
-“Haha, it’s nothing I’d call business. This is fate, so I thought we could at least exchange names. You heard my introduction earlier, so you already know who I am. I look forward to working with you.”
+“Haha, I wouldn’t call it business. Since fate brought us together, I thought we might as well introduce ourselves. You heard my introduction earlier, so you already know who I am. I look forward to working with you.”
 
-Someone once said you couldn’t spit in a smiling face. It was a little awkward, but I clasped the hand Im Changsoo offered with a broad smile on his face.
+As the saying went, you couldn’t spit in a smiling face. I was a little put off, but I clasped the hand Im Changsoo offered with a broad smile.
 
 “Ah, yes. I look forward to working with you too.”
 
-A Team Leader from another Guild—someone I had never even met before—had offered me a handshake first.
+A Team Leader from another Guild whom I had never met before had approached me and offered a handshake first.
 
-I had participated in cooperative raids several times over the past seven years and had plenty of experience as a day-labor Hunter, but this was the first time something like this had happened.
+I had participated in several cooperative raids over the past seven years and had plenty of experience as a day-labor Hunter, but this was the first time anything like this had happened.
 
 *Then again, I was an F-rank back then.*
 
-In those days, people had treated me like air. Maybe being a C-rank Hunter meant I was finally being treated like a person. It left me with a strange feeling.
+In those days, people had treated me like air. Maybe now that I was a C-rank Hunter, they finally saw me as a human being. It felt strange.
 
 *But why me?*
 
@@ -316,17 +316,17 @@ Im Changsoo looked my equipment up and down, exclaiming in admiration.
 
 *Of course I’m offended, you moron.*
 
-But I wasn’t stupid enough to let my true feelings show so openly.
+But I wasn’t stupid enough to let my true feelings show.
 
-What Im Changsoo had said was also a cold reality.
+What Im Changsoo had said was also the harsh reality.
 
 *Still, this guy really has no tact.*
 
 I waved a hand with deliberate composure, mixing in a little self-deprecating humor.
 
-“It’s already breaking my back. Every penny I earn goes toward maintenance. The people around me call me crazy.”
+“It’s already breaking my back. Every penny I earn goes toward maintenance. Everyone around me calls me crazy.”
 
-“Haha, but is there anything more important than your life? Right?”
+“Haha, but is anything more important than your life?”
 
 “That’s true.”
 
@@ -334,15 +334,15 @@ I waved a hand with deliberate composure, mixing in a little self-deprecating hu
 
 “Sorry?”
 
-“The others. The Peace Guild members. Their equipment looked pretty good too.”
+“The other Peace Guild members. Their equipment looked pretty good too.”
 
 “Did it? I don’t know much about that sort of thing.”
 
-Im Changsoo laughed as if he had heard an amusing joke.
+Im Changsoo laughed as though he had heard an amusing joke.
 
-“Come on. That’s not something a person who spends a fortune leasing equipment gets to say.”
+“Come on. That’s not something a man who spends a fortune leasing equipment gets to say.”
 
-The equipment was leased, but it hadn’t cost me a fortune. Team Leader Choi had loaned it to me free of charge. I briefly considered explaining that, but soon abandoned the thought.
+The equipment was leased, but it hadn’t cost me a fortune. Team Leader Choi had loaned it to me free of charge. I briefly considered explaining, then abandoned the idea.
 
 *What would be the point?*
 
@@ -350,27 +350,27 @@ Explaining it would only waste my breath.
 
 I was already tired of talking about equipment, so I gave him a vague answer.
 
-“They’re all about the same as me.”
+“They’re all in about the same situation as me.”
 
 “I see.”
 
 At that moment, one of Im Changsoo’s team members ran over and told him that preparations were complete.
 
-“Oh, dear. We’ve been chatting for too long. I’d better go. I need to check on my team members one last time, and then we should all move together.”
+“Oh, dear. We’ve been chatting for too long. I’d better go. I need to check on my team members one last time before we all move out.”
 
-“Take care.”
+“Go ahead.”
 
 “Yes.”
 
 Im Changsoo bowed politely and was about to leave when he suddenly asked,
 
-“Oh, right. There’s something I’ve been meaning to ask you.”
+“Oh, right. There’s something I’ve been wanting to ask you.”
 
 “……?”
 
 “Have we met somewhere before?”
 
-I would have been overjoyed if Miss Song had asked me that, but hearing it from a male in heavy armor left me feeling less than pleased.
+I would have been overjoyed if Miss Song had asked me that, but hearing it from a male wrapped in heavy armor did nothing for me.
 
 “This is our first meeting.”
 
@@ -388,7 +388,7 @@ As I watched him walk away, Team Leader Choi approached without my noticing and 
 
 “Do you know him?”
 
-“No. He just said he wanted to be friends.”
+“No. He just said he wanted to get acquainted.”
 
 “He didn’t make a recruitment offer?”
 
@@ -406,9 +406,9 @@ As I watched him walk away, Team Leader Choi approached without my noticing and 
 
 “No reason. His equipment looked decent, so I sounded him out.”
 
-“Holy crap, it really does. Is that stuff really his?”
+“Holy shit, it really does. Is he saying all that belongs to him?”
 
-“Use your brain, asshole. How could a C-rank wear something like that?”
+“Use your brain, asshole. How could a C-rank afford to walk around in gear like that?”
 
 “Then he leased it? Crazy bastard. The maintenance costs must be insane.”
 
@@ -416,7 +416,7 @@ As I watched him walk away, Team Leader Choi approached without my noticing and 
 
 Im Changsoo let out a quiet laugh.
 
-*As expected, they were nothing special.*
+*Just as I thought, they’re no one special.*
 
 Admittedly, he had felt a little uneasy when they showed up out of nowhere decked out in expensive equipment. If he messed with the wrong people, things could get out of hand.
 
@@ -424,7 +424,7 @@ But now that he had them figured out, he felt at ease.
 
 *Song Song.*
 
-Money and ability. With only those two things, he believed he could do anything. Getting his hands on one woman would be no trouble at all.
+Money and ability. With those two things, he could do anything. Getting his hands on one woman would be no trouble at all.
 
 “Let’s get moving. Pass it on.”
 
