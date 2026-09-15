@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Mae Jonghak remained in deep seclusion at a hidden Huashan residence and had been there at least ten years before the luncheon; Cheongpung came to Huashan at about age three or four rather than being born there.",
+      "defect": "The present-tense claim that Mae Jonghak remains in seclusion contradicts the subsequent active-continuity entry stating that he left Huashan and disappeared.",
+      "id": "C01",
+      "rationale": "The replacement preserves the established duration and Cheongpung hook while making Mae Jonghak's former seclusion consistent with his current disappearance.",
+      "replacement": "Before disappearing, Mae Jonghak had remained in deep seclusion at a hidden Huashan residence for at least ten years; Cheongpung came to Huashan at about age three or four rather than being born there.",
+      "severity": "major",
+      "source": "Durable state, active_continuity"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Having obtained the royal guard gear set he had longed for so desperately, he decided to stay at the Jin Family of Taiyuan for the time being.",
+      "defect": "The established System item name drifts from “Royal Guard Armor Set” to the generic and differently capitalized “royal guard gear set.”",
+      "id": "C02",
+      "rationale": "Using the binding item name maintains terminology continuity with the checkpoint decisions and System reward.",
+      "replacement": "Having obtained the Royal Guard Armor Set he had longed for so desperately, he decided to stay at the Jin Family of Taiyuan for the time being.",
+      "severity": "minor",
+      "source": "Chapter 146, departure from Prince Shangshan's residence"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Putting aside the fact that he was a Peak master, he was the Disciple of the Sword Saint and Huashan’s direct Disciple.",
+      "defect": "Common-noun uses of “disciple” are unnecessarily capitalized, and the missing article before “Huashan’s direct disciple” makes the sentence sound translated rather than natural.",
+      "id": "C03",
+      "rationale": "The revision retains both affiliations while restoring natural contemporary English and consistent capitalization.",
+      "replacement": "Putting aside the fact that he was a Peak master, he was a disciple of the Sword Saint and a direct disciple of Huashan.",
+      "severity": "minor",
+      "source": "Chapter 145, Li Feng confronts the Five Gates' heirs"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Ehem. It feels strange to say this myself, but Taekyung really is an extraordinary talent.",
+      "defect": "“Ehem” is a nonstandard rendering of the English throat-clearing interjection and clashes with the otherwise contemporary prose.",
+      "id": "C04",
+      "rationale": "“Ahem” is the standard English interjection and preserves Jin Wikyung's self-conscious throat-clearing.",
+      "replacement": "“Ahem. It feels strange to say this myself, but Taekyung really is an extraordinary talent.",
+      "severity": "minor",
+      "source": "Chapter 148, Jin Wikyung praises Taekyung"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“...Yes, Senior Brother.”",
+      "defect": "This line uses three periods instead of the required ellipsis character.",
+      "id": "C05",
+      "rationale": "The replacement conforms to the packet's binding punctuation rule without changing Chulwoo's hesitation.",
+      "replacement": "“…Yes, Senior Brother.”",
+      "severity": "minor",
+      "source": "Chapter 149, Chulwoo releases Eunhyang"
+    }
+  ],
+  "summary": "The packet is coherent and preserves its major hooks, but the active state contains one temporal contradiction and the reading copies have several minor terminology, capitalization, and punctuation inconsistencies.",
+  "version": 1
+}

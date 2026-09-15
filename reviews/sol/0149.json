@@ -1,0 +1,146 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "“I’m really fine. I have companions waiting for me, too.”",
+      "defect": "The subject of the waiting is reversed. The young man is waiting for his companions; they are not waiting for him.",
+      "id": "F01",
+      "rationale": "His subsequent statement that he has no choice but to wait confirms that he is the one waiting.",
+      "replacement": "“I’m really fine. I’m waiting for my companions.”",
+      "severity": "critical",
+      "source": "“전 정말 괜찮습니다. 기다리는 일행도 있고요.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Still, the scholar couldn’t force himself into someone else’s party when the young man said he had companions.",
+      "defect": "The proposed action is reversed. The scholar had invited the young man to join his table; he was not trying to insert himself into the young man’s party.",
+      "id": "F02",
+      "rationale": "합석하자고 continues the scholar’s offer for the young man to sit with the two scholars.",
+      "replacement": "Still, with the young man saying he had companions, the scholar could hardly insist that he join them.",
+      "severity": "critical",
+      "source": "그렇다고 일행이 있다는데 막무가내로 합석하자고 할 수도 없는 일."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Since when was running a gambling den an evil deed? Or have you ever witnessed one with your own eyes?”",
+      "defect": "“Witnessed one” makes the question ask whether Chulwoo has seen a gambling den, rather than whether he has personally witnessed the Black Serpent Sect committing evil.",
+      "id": "F03",
+      "rationale": "The second question challenges Chulwoo’s unsupported assumption that the faction’s wealth must come from wrongdoing.",
+      "replacement": "“Since when was running a gambling den an evil deed? Or have you seen them commit any evil with your own eyes?”",
+      "severity": "major",
+      "source": "“언제부터 투전판 관리가 악행이 되었느냐? 아니면 직접 네 눈으로 목도한 적이 있느냐?”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "The scholar stood up as though he had finally been defeated, but suddenly lost his balance and staggered.",
+      "defect": "The translation loses the pragmatic cue that the scholar deliberately makes a show of giving in, rather than appearing literally defeated.",
+      "id": "F04",
+      "rationale": "못 이긴 척 characterizes his reluctant agreement as performative and sets up the comedy of his immediate stumble.",
+      "replacement": "The scholar made a show of giving in as he rose, but suddenly lost his balance and staggered.",
+      "severity": "major",
+      "source": "못 이긴 척 자리에서 일어나려던 유생이 순간 중심을 잃고 비틀거렸다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Just as he was about to fall with a short scream, a rough, solid palm caught him by the back.",
+      "defect": "“Caught him by the back” suggests grasping him and is unnatural English; the palm braces and supports his back.",
+      "id": "F05",
+      "rationale": "등을 받쳤다 describes supporting him from behind, not catching or gripping him by a body part.",
+      "replacement": "Just as he was about to fall with a short scream, a rough, sturdy hand braced the scholar’s back.",
+      "severity": "minor",
+      "source": "외마디 비명과 함께 쓰러지려는 찰나, 거칠고 단단한 손바닥이 유생의 등을 받쳤다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Ah, I’m going now, so why don’t you shut that strange mouth of yours?”",
+      "defect": "“Strange mouth” is an unnatural literalism that loses the speaker’s irritated, insulting humor.",
+      "id": "F06",
+      "rationale": "유별난 주둥이 is a disparaging reference to the friend’s persistently noisy mouth, not a description of physical strangeness.",
+      "replacement": "“I’m going, so shut that obnoxious trap of yours.”",
+      "severity": "minor",
+      "source": "“아, 지금 갈 테니까 거 유별난 주둥이 좀 닫아 보게.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "*Is his head made of muscle too? His thinking is painfully short-sighted.*",
+      "defect": "The phrasing is stiff and sanitizes the coarse intensifier 더럽게, weakening the innkeeper’s exasperated internal voice.",
+      "id": "F07",
+      "rationale": "더럽게 is a colloquial, mildly profane intensifier, while 생각이 짧다 naturally means being short-sighted rather than possessing “short-sighted thinking.”",
+      "replacement": "*Is his brain made of muscle too? He’s damn short-sighted.*",
+      "severity": "major",
+      "source": "머리까지 근육으로 뭉친 놈인지 생각이 더럽게 짧다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "“Good grief. I came to sightsee in Xi’an, and now it looks like I’m going to end up sightseeing Mount Beimang. Leave me alone.”",
+      "defect": "The English preserves the place name but gives readers no way to understand the death joke based on Mount Beimang’s association with burial grounds.",
+      "id": "F08",
+      "rationale": "The source humor depends on contrasting ordinary sightseeing with the euphemistic prospect of dying and being buried at Mount Beimang.",
+      "replacement": "“Good grief. I came to sightsee in Xi’an, and now it looks like I’m going to end up sightseeing Mount Beimang.[^1] Leave me alone.”\n\n[^1]: Mount Beimang is traditionally associated with burial grounds and death.",
+      "severity": "minor",
+      "source": "“어이고, 서안 구경하다가 북망산 구경하게 생겼네. 나 좀 내버려 둬.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“If you mean the Daoists of the Huashan Sect, there’s nothing to worry about. An acquaintance of mine went there years ago and said nothing happened to him.”",
+      "defect": "“Huashan Sect” does not follow the binding rendering of 화산파 as “Huashan.”",
+      "id": "F09",
+      "rationale": "The supplied terminology ledger establishes 화산파 as “Huashan.”",
+      "replacement": "“If you mean Huashan’s Daoists, there’s nothing to worry about. An acquaintance of mine went there years ago and said nothing happened to him.”",
+      "severity": "minor",
+      "source": "“화산파 도사들을 말하는 거라면 괜찮네. 석년에 내 지인이 한 번 다녀온 적이 있는데 아무 문제도 없었다더군.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Tell them that Baek Museong, a First-Generation Disciple of the Huashan Sect, apologizes for his junior disciples’ mistake.”",
+      "defect": "The organization name conflicts with the binding rendering, and the common descriptive rank is unnecessarily capitalized.",
+      "id": "F10",
+      "rationale": "화산파 is established as “Huashan,” while 일대제자 is a rank description rather than a proper name here.",
+      "replacement": "“Tell them that Baek Museong, a first-generation disciple of Huashan, apologizes for his junior disciples’ mistake.”",
+      "severity": "minor",
+      "source": "“화산파의 일대제자 백무성이 사제들의 실수를 대신 사과한다고요.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The three words *Huashan Sect* were intimidating enough, but the young man’s name also sounded familiar, as though they had heard it somewhere before.",
+      "defect": "“Three words” mechanically transfers the Korean syllable count and is false in English; “Huashan Sect” also conflicts with the binding name.",
+      "id": "F11",
+      "rationale": "세 글자 refers rhetorically to the three Korean syllables of 화산파, which should be naturalized rather than miscounted in English.",
+      "replacement": "The name *Huashan* was intimidating enough, but the young man’s name also sounded familiar, as though they had heard it somewhere before.",
+      "severity": "minor",
+      "source": "화산파, 세 글자가 주는 위압감도 위압감이었지만 어디선가 한 번쯤 들어 본 듯한 청년의 이름 때문이었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "He had been known as an outstanding prodigy since the day he entered the Huashan Sect, and he possessed another title as well.",
+      "defect": "“Huashan Sect” is inconsistent with the binding rendering of the organization’s name.",
+      "id": "F12",
+      "rationale": "The supplied terminology ledger establishes 화산파 as “Huashan.”",
+      "replacement": "He had been known as an outstanding prodigy since the day he entered Huashan, and he possessed another title as well.",
+      "severity": "minor",
+      "source": "이미 화산파 입문 당시부터 뛰어난 기재로 알려진 그에게는 또 다른 별호가 있었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "It was only natural that they had been appointed Plum Blossom Swordsmen, the pride of the Huashan Sect, and they soon began to distinguish themselves.",
+      "defect": "“Huashan Sect” is inconsistent with the binding rendering of the organization’s name.",
+      "id": "F13",
+      "rationale": "The supplied terminology ledger establishes 화산파 as “Huashan.”",
+      "replacement": "It was only natural that they had been appointed Plum Blossom Swordsmen, the pride of Huashan, and they soon began to distinguish themselves.",
+      "severity": "minor",
+      "source": "그런 그들이 화산파의 자부심이라 할 수 있는 매화검수(梅花劍手)에 임명된 것은 당연했고, 이내 두각을 드러냈다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "They recalled the incident that had thrown the entire Huashan Sect into an uproar several days earlier.",
+      "defect": "“Huashan Sect” is inconsistent with the binding rendering of the organization’s name.",
+      "id": "F14",
+      "rationale": "The supplied terminology ledger establishes 화산파 as “Huashan,” and “all of Huashan” naturally conveys 화산파 전체.",
+      "replacement": "They recalled the incident that had thrown all of Huashan into an uproar several days earlier.",
+      "severity": "minor",
+      "source": "그들은 며칠 전 화산파 전체를 발칵 뒤집어 놓은 사건을 떠올렸다."
+    }
+  ],
+  "summary": "The draft contains two reversed subjects/actions, one broken causal question, several lost pragmatic or register cues, and inconsistent use of the binding name “Huashan.”",
+  "version": 1
+}
