@@ -1,0 +1,459 @@
+{
+  "chapter": 71,
+  "decisions": [
+    {
+      "decision": "SOL",
+      "hunk_id": "H001",
+      "reason": "Drops redundant “in total” and uses “the last of them,” which captures 그중 마지막 more cleanly."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H002",
+      "reason": "“Drew back” is a more physical match for 거둬들이는; “steel” is already established."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H003",
+      "reason": "“About the same” carries the casual shrug of 뭐, 비슷하고 better than flat “similar.”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H004",
+      "reason": "무슨 무공 is “what martial arts”; “which” slightly narrows the question."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H005",
+      "reason": "“Let out a quiet laugh” fits involuntary 피식 웃었다 better than “gave.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H006",
+      "reason": "“Caught himself” matches the social recovery of 퍼뜩 정신을 차렸다 after agreeing too readily."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H007",
+      "reason": "SOL drops 그런 것보다, losing the contrast with the previous reason."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H008",
+      "reason": "Specifies 무공 as “martial arts,” which BASE generalizes away."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H009",
+      "reason": "“Learned to use … weapons” is natural English for 무기를 익히다; BASE is calqued."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H010",
+      "reason": "그건 무공도 아니었고 is a flat negation; SOL’s “could hardly be called” softens it."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H011",
+      "reason": "한 우물만 파는 is specializing in one thing, not “mastering even one weapon.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H012",
+      "reason": "Warm-up and quiet speech are merged into the next line without losing content."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H013",
+      "reason": "Merges the hand warm-up with murmured “try it like this,” matching 이렇게 한번 해 볼까."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H014",
+      "reason": "SOL’s tighter follow-on is good, but 두 다리 is legs, not feet.",
+      "replacement": "His legs crossed in a blur. A flash followed, slamming into the steel dummy’s chest."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H015",
+      "reason": "“Briefly forgotten” is the natural rendering of 잠시 잊고."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H016",
+      "reason": "“Just to finish” preserves 먹기도; SOL’s “single” does not add enough to justify the swap."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H017",
+      "reason": "“Adding and removing” matches 집어넣고 쳐내는; BASE’s “changes” is vaguer."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H018",
+      "reason": "Keeps the 무공의 천재 fragment and renders 결코 as “in the slightest.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H019",
+      "reason": "“The thought sent a chill” preserves 생각이 들어 소름 돋았을, which BASE splits off."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H020",
+      "reason": "“Snapped me back” is a sharper match for 그제야 정신이 들었다 after zoning out."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H021",
+      "reason": "한눈을 팔아 is inattention, not looking away; SOL’s “big brother” breaks the chapter’s 형님/hyung rendering.",
+      "replacement": "“Your hyung went to the trouble of giving you a demonstration, and you dare let your mind wander?”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H022",
+      "reason": "“Watched me suffer” is the natural English for 고통스러워하는 모습; SOL is noun-heavy."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H023",
+      "reason": "“You made me forget!” is the spoken accusation 너 때문에 까먹었잖아 wants."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H024",
+      "reason": "SOL smooths 말로 but drops 몸으로, which pays off “physical conversation.”",
+      "replacement": "“You don’t understand when things are explained in words. It’ll be faster for you to experience them with your body.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H025",
+      "reason": "The piss/shit exchange is more idiomatic and closer to 똥도 누고 오세요, 할 것 같아."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H026",
+      "reason": "지금은 비무잖아 is “we’re sparring now”; SOL’s “only” is an added hedge."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H027",
+      "reason": "Clipped “Informal speech again” matches Mukyung’s irritated 또 반말 쓰네."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H028",
+      "reason": "“Tightened his grip and charged” is more dynamic for 말아 쥔 … 달려들었다."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H029",
+      "reason": "“Threw myself aside” is more natural action prose for 몸을 날렸다 than “launched myself away.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H030",
+      "reason": "“Followed close behind” captures 따라붙었다; BASE’s “followed me” is weaker."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H031",
+      "reason": "Keeps 지금부터 and the “teach you a lesson” threat; SOL’s “Allow me to begin” drops from-now and turns polite."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H032",
+      "reason": "SOL tightens 파공성 well but replaces 입꼬리 with generic “lips.”",
+      "replacement": "The sound of air tearing was anything but ordinary. I turned and swung my spear at the same time, but I was already too late. The faintly upturned corner of Jin Mukyung’s mouth was right in front of me."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H033",
+      "reason": "“Wavering vision” is the natural collocation for 흔들린 시야 after the punch."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H034",
+      "reason": "고수 is a more skilled fighter, not merely “stronger”; later lines use 강하다 separately."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H035",
+      "reason": "“To the wall” matches 벽면까지; “into the wall” overstates impact."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H036",
+      "reason": "“Along with” is the cleaner rendering of 핏물과 함께."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H037",
+      "reason": "“Scared little brat” matches 자식, 겁먹기는; “coward” over-translates getting spooked."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H038",
+      "reason": "BASE’s “hitting things” is stiff; SOL adds an unsupported “you” to 손맛은 이게 더 좋거든.",
+      "replacement": "“I can’t. It feels better with this.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H039",
+      "reason": "“Vanished” and “might do” are slightly cleaner without changing 후환이 두렵지만."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H040",
+      "reason": "잘 모르겠는데 is “don’t really know,” not “don’t know exactly.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H041",
+      "reason": "“The instant … rushed at me” matches 말이 끝나기가 무섭게 … 쇄도했다 more tightly."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H042",
+      "reason": "Subjectless 칠해 놨나 is generic; SOL pins it on Mukyung and swaps “this” for “that.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H043",
+      "reason": "“Open up some distance,” “coiled,” and “thrust” are more idiomatic for 거리를 벌려야 / 칭칭 휘감으며 찔러 들어온다."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H044",
+      "reason": "Clipped “What else?” matches 뭐긴 better than the expanded BASE line."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H045",
+      "reason": "“Training in blood and sweat” is closer to 피땀 흘려 가며 수련; BASE adds “covered in.”"
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H046",
+      "reason": "BASE adds “wave” and drops 깊은; SOL turns 둘째치고 into “nothing compared.”",
+      "replacement": "Never mind the pain; a deep fury surged through me."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H047",
+      "reason": "“Christmas dates” is the natural collocation for 크리스마스에 … 데이트."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H048",
+      "reason": "“In quick succession” is the natural English for 연이어 pounding blows."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H049",
+      "reason": "창을 흩뿌렸다 is scattering strikes every which way; SOL’s “flurry” loses that image."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H050",
+      "reason": "“Give ground” is more exact for 밀리기 than “retreat,” and “assault” fits 공세."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H051",
+      "reason": "제대로 들어간 건 아니다 means it had not landed properly; SOL omits 제대로."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H052",
+      "reason": "“Drove my fist” is the right verb for 일권을 내질렀다; “thrust” sounds like a spear."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H053",
+      "reason": "페이크다 is present-tense in the moment of the punch; SOL’s past tense dulls it."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H054",
+      "reason": "“At this distance” is cleaner than generic-you “when you were standing this close.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H055",
+      "reason": "“My confusion lasted only a moment” is smoother for 어리둥절한 것도 잠시."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H056",
+      "reason": "“Pain-blurred” and “bashfully lift” are stronger collocations for the 수줍게 reveal through pain."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H057",
+      "reason": "Punchier “No.” and “crammed” match 아니다 and 꽉꽉 채워 넣었으니까."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H058",
+      "reason": "“A pocket near” is tighter than “one of the pockets” for 주머니에서."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H059",
+      "reason": "“To hell with all that” carries 그딴 거 없다 in Taekyung’s voice."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H060",
+      "reason": "회심의 기술 is a prized/decisive move, not a “deadly” one."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H061",
+      "reason": "멀쩡한 is remaining fine/unscathed, not specifically remaining standing."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H062",
+      "reason": "여기 한 명 추가요 is the add-one-to-the-list joke; SOL flattens it."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H063",
+      "reason": "말하는 듯했다 is “seemed to say”; SOL makes it definite and adds “never seen anyone.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H064",
+      "reason": "“I’m getting tired of talking” is spoken Mukyung for 말하는 것도 지치는군."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H065",
+      "reason": "“Limp to my feet” and “kicked my ankle out from under me” are clearer action for 절뚝거리며 … 발목을 걷어차이고."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H066",
+      "reason": "Removes BASE’s blatantly/obviously redundancy while keeping 대놓고 의심받을."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H067",
+      "reason": "고개를 들었다 is lifting his head; SOL’s “looked up at the hardness” is awkward and less exact."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H068",
+      "reason": "“Gleefully” matches 신이 나서 better than “enthusiastically.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H069",
+      "reason": "Splitting off the Adam’s apple beat sets up Gulp more cleanly."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H070",
+      "reason": "“Buckled … throwing me off balance” is stronger physical prose for 꺾인 팔이 중심을 잃는다."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H071",
+      "reason": "“Ignored me and swung” is a tighter rendering of 아랑곳하지 않고 목검을 휘둘렀다."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H072",
+      "reason": "Keeps the Korean’s two-beat pause after 사지가 잘린 거다 before naming the Peak master."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H073",
+      "reason": "“He’d have other methods” is tighter spoken English for 다른 방법도 있지."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H074",
+      "reason": "“Curled back,” “went rigid,” and plural “conditions” match 말려들어 갔다 / 굳고 and the two notices."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H075",
+      "reason": "제압당했습니다 is subdued, and it must pair with later 제압이 풀립니다; SOL’s “struck” changes the System verb."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H076",
+      "reason": "“So much as a hair or make a single sound” covers 털끝 하나 and 목소리조차 more fully than “could not speak.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H077",
+      "reason": "“Could only circle … unable to escape” is smoother for 머릿속에서만 맴돌 뿐."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H078",
+      "reason": "“Every bone” and “go insane” are more natural for 전신의 뼈 and 미치광이가 되거나."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H079",
+      "reason": "네가 누군지도 잊을 is “who you are”; SOL’s “were” shifts the identity to the past."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H080",
+      "reason": "Fronts the cold touch and uses “dug into” for 살을 파고들었다 rather than “pressed.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H081",
+      "reason": "“I’m going to die? Like this?” makes the incredulous 죽는다고 thought unambiguous."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H082",
+      "reason": "Keeps the 게이트에서, 무림에서 pause and “survive” for 살아남겠다고."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H083",
+      "reason": "Need the fragment continuing “die … to him,” plus 놈 and 친형이라는; BASE loses 놈, SOL adds “Killed by.”",
+      "replacement": "To that bastard who was supposed to be my biological older brother, even though we did not share a single drop of blood!"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H084",
+      "reason": "“Could only stare … as” captures paralyzed 천장만 바라보는 and folds in the Reaper voice."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H085",
+      "reason": "흘러내리는 is ongoing trickling; SOL’s simple “trickle” makes it a completed drop."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H086",
+      "reason": "무림에서 잠들다 is the sleep euphemism that sets up closing his eyes; “laid to rest” is a different image."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H087",
+      "reason": "Plural “acupoints were sealed” matches two 점혈 hits better than singular “hit at an acupoint.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H088",
+      "reason": "Participial “proving” is more immediate for 오감이 … 증명한다."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H089",
+      "reason": "BASE’s “everything” erases the real cut; SOL loses 목덜미 and adds “terror”/“unbearable.”",
+      "replacement": "I hurriedly felt the back of my neck. The cut stung, and blood came away on my fingers, but there were only a few drops of it. Everything else had been an illusion brought on by the fear and tension of death."
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "My organs did not spill out along with a mouthful of blood.",
+      "defect": "The translation states the negation immediately, removing the source’s deliberate fake-out: the Korean first appears to say that blood and pieces of his organs poured out, then reverses that claim after the ellipsis.",
+      "id": "F01",
+      "rationale": "The delayed negation is the mechanism of the dark joke, and 내장 조각 specifically means pieces or bits of his organs rather than his organs as undivided objects.",
+      "replacement": "Blood and bits of my organs came spilling out… Or not.",
+      "severity": "minor",
+      "source": "lines 179–181"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“You just had all four limbs cut off. By a vicious Peak master of the dark path who is several times stronger than you.”",
+      "defect": "The binding rendering of 흑도 as the category “dark-path figures” has been replaced with the nonstandard term “the dark path.”",
+      "id": "F02",
+      "rationale": "흑도 identifies the underworld martial category represented by the glossary term “dark-path figures,” while 절정 고수 identifies the assailant as a Peak master.",
+      "replacement": "“You just had all four limbs cut off. By a cruel dark-path figure several times stronger than you—a Peak master.”",
+      "severity": "minor",
+      "source": "line 363"
+    },
+    {
+      "confidence": 1.0,
+      "current": "- The **Paralysis Acupoint** has been subdued. You will be paralyzed for two hours!\n>\n> - The **Mute Acupoint** has been subdued. You will be unable to make a sound for two hours!",
+      "defect": "Both System notices replace the binding traditional duration “one shichen” with an exact two-hour duration.",
+      "id": "F03",
+      "rationale": "Each notice says 한 시진. The glossary binds 시진 to “shichen,” a traditional unit of approximately two hours, so converting it to an exact modern duration loses the required term and introduces false precision.",
+      "replacement": "- The **Paralysis Acupoint** has been subdued. You will be paralyzed for one shichen!\n>\n> - The **Mute Acupoint** has been subdued. You will be unable to make a sound for one shichen!",
+      "severity": "minor",
+      "source": "lines 377–379"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Tendon-Splitting and Bone-Twisting is a cruel technique. Within an hour at most, your qi and blood will twist and every bone in your body will be crushed. Even if you miraculously survive, you’ll either go insane or spend the rest of your life crippled.”",
+      "defect": "The binding duration 반 시진 has been converted to the exact modern duration “an hour.”",
+      "id": "F04",
+      "rationale": "The source says half a shichen, preserving a direct relationship with the one-shichen System durations. Since a shichen is only approximately two hours, “an hour” is not an exact equivalent and violates the binding glossary.",
+      "replacement": "“Tendon-Splitting and Bone-Twisting is a cruel technique. Within half a shichen at most, your qi and blood will twist and every bone in your body will be crushed. Even if you miraculously survive, you’ll either go insane or spend the rest of your life crippled.”",
+      "severity": "minor",
+      "source": "line 391"
+    },
+    {
+      "confidence": 0.94,
+      "current": "*Could Jin Mukyung really be about to kill me?*",
+      "defect": "The translation explicitly supplies “kill me,” while the Korean deliberately leaves the contemplated action unfinished at this point.",
+      "id": "F05",
+      "rationale": "설마 진무경이 나를? withholds the predicate, sustaining uncertainty until Mukyung’s subsequent words and actions. Naming the act as killing resolves that omission prematurely.",
+      "replacement": "*Could Jin Mukyung really do that to me?*",
+      "severity": "minor",
+      "source": "line 401"
+    },
+    {
+      "confidence": 0.97,
+      "current": "His cold voice continued—the same voice that had pronounced my death only seconds earlier.",
+      "defect": "The translation generalizes the stated elapsed time and drops the source’s quantity of several tens of seconds.",
+      "id": "F06",
+      "rationale": "불과 수십 초 전 specifies that several tens of seconds have passed, not merely an unspecified number of seconds.",
+      "replacement": "His cold voice continued—the same voice that had pronounced my death only a few dozen seconds earlier.",
+      "severity": "minor",
+      "source": "line 461"
+    }
+  ],
+  "summary": "The chapter is broadly faithful, but it contains several localized defects involving a deliberate joke reversal, binding terminology, traditional time units, an intentionally withheld thought, and one precise elapsed-time detail.",
+  "version": 1
+}
