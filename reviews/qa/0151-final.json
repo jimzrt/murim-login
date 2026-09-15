@@ -1,0 +1,31 @@
+{
+  "chapter": 151,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.31,
+    "source_characters": 6440,
+    "source_paragraphs": 218,
+    "translation_characters": 14876,
+    "translation_paragraphs": 223
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "본가",
+        "preferred": "our family / this family"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "갑자",
+        "preferred": "jiazi"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
