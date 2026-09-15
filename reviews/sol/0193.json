@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "I had been an F-rank Hunter for ten years and had still made it this far.",
+      "defect": "만년 means perpetually or forever here, not a literal period of ten years. The draft invents a specific duration.",
+      "id": "F01",
+      "rationale": "The source characterizes Taekyung as someone long stuck at F-rank without stating how many years he held that rank.",
+      "replacement": "I had been a perpetual F-rank Hunter, yet I had still made it this far.",
+      "severity": "critical",
+      "source": "만년 F급 헌터였던 내가 여기까지 왔다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "For a moment, I had forgotten.\n\nI had forgotten what kind of monster the Fire King, Jeok Cheongang, truly was.\n\nHe had spent only a single year active in Murim throughout his entire life. Yet he became a legend after a single battle and carved his mark into the history of Murim.\n\nAn opponent no one could ever resist.",
+      "defect": "The draft introduces Taekyung’s first-person viewpoint into a scene he is not present for. It also broadens Song Il’s realization that Jeok Cheongang is an opponent he cannot resist into the universal claim that no one can resist him.",
+      "id": "F02",
+      "rationale": "The surrounding scene follows the Roaring Fury Swordsman after Taekyung has remained behind at the Jin estate, so the omitted subject is Song Il rather than the absent narrator.",
+      "replacement": "The Roaring Fury Swordsman had briefly forgotten just what kind of monster the Fire King, Jeok Cheongang, truly was.\n\nJeok Cheongang had been active in Murim for only a single year in his entire life. Yet with a single battle, he had become a legend and carved his mark into Murim history.\n\nHe was an opponent the Roaring Fury Swordsman could never stand against.",
+      "severity": "critical",
+      "source": "잠시 잊고 있었다. 화왕 적천강이 어느 정도의 괴물인지.\n\n일평생 무림에서 활동한 기간은 단 일 년. 그러나 그는 단 한 번의 전투로 전설이 되었고 무림사에 자신의 족적을 새겼다.\n\n결코 대항할 수 없는 상대."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Please forgive the slip of the tongue from a distant junior. Great. Hero.",
+      "defect": "“Distant junior” sounds socially remote rather than vastly lower in Murim seniority, weakening Taekyung’s pointed display of deference.",
+      "id": "F03",
+      "rationale": "까마득한 후배 emphasizes the enormous hierarchical distance between them, which is central to the sarcastic apology.",
+      "replacement": "Please forgive a slip of the tongue from a junior far beneath you. Great. Hero.",
+      "severity": "major",
+      "source": "까마득한 후배의 말실수라고 생각하고 봐주십쇼. 대. 협."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Also, I will let today’s events pass without bringing them before the sect. Do not speak of this again. Do you understand?",
+      "defect": "The draft adds “before the sect,” narrowing an unqualified command to bury the matter into a specific reporting mechanism absent from the source.",
+      "id": "F04",
+      "rationale": "불문에 부치다 means to let a matter drop or leave it unaddressed; the source does not explicitly say that Jeok Cheongang is withholding it from a sect tribunal.",
+      "replacement": "Also, I will let today’s events pass, so never speak of this matter again. Do you understand?",
+      "severity": "major",
+      "source": "또한 내 오늘 일은 불문에 부칠 터이니 다시는 이에 관해 논하지 말거라. 무슨 말인지 알아들었느냐?"
+    },
+    {
+      "confidence": 0.99,
+      "current": "At my age, do I need to report every time I go take a piss?",
+      "defect": "The bluntly vulgar “take a piss” makes the source’s euphemistic 소피 more explicit and coarse.",
+      "id": "F05",
+      "rationale": "소피 is a polite euphemism for urination; the humor comes from Jeok Cheongang disguising his departure as an ordinary bathroom trip, not from added profanity.",
+      "replacement": "At my age, do I need to report every time I go relieve myself?",
+      "severity": "major",
+      "source": "이 나이에 소피보러 가는 것도 일일이 보고하리?"
+    },
+    {
+      "confidence": 0.98,
+      "current": "I let things slide several times because you had the Sect Leader as an in-law, and now you think you can’t see anything but your own importance.",
+      "defect": "The second clause mistranslates the idiom 뵈는 게 없다 into unnatural and unclear English. It means Gong Ilhyuk has become arrogant or forgotten his place after receiving leniency.",
+      "id": "F06",
+      "rationale": "The source ties Song Il’s previous indulgence to Gong Ilhyuk’s relationship with the Sect Leader, then condemns the resulting presumption.",
+      "replacement": "I let things slide a few times because you’re related to my Junior Brother, the Sect Leader, and now it seems you’ve forgotten your place.",
+      "severity": "major",
+      "source": "장문 사제를 인척으로 뒀다고 몇 번 눈감아 줬더니 뵈는 게 없는 모양이구나."
+    },
+    {
+      "confidence": 0.94,
+      "current": "The only things I had received from Jeok Cheongang were the Flame Divine Palm manual and a sword…",
+      "defect": "The established rendering of 비급 is “martial arts manual”; shortening it to “manual” loses the item category.",
+      "id": "F07",
+      "rationale": "비급 specifically denotes a secret martial arts manual, and the replacement follows the binding terminology while remaining natural.",
+      "replacement": "The only things I had received from Jeok Cheongang were the martial arts manual for the Flame Divine Palm and a sword…",
+      "severity": "minor",
+      "source": "내가 적천강에게 받은 물건이라고는 화염신장의 비급과 검 한 자루뿐인……데."
+    },
+    {
+      "confidence": 0.98,
+      "current": "It was like a rural district mayor challenging the president in an election.",
+      "defect": "The source says the low-level local official is running in a presidential election, not specifically challenging an incumbent president. 면장 is also a township chief rather than a district mayor.",
+      "id": "F08",
+      "rationale": "The analogy contrasts the official’s extremely minor local position with the presidency without introducing an incumbent opponent.",
+      "replacement": "It was like a rural township chief running for president.",
+      "severity": "minor",
+      "source": "시골 면장이 대통령 선거에 도전하는 거나 마찬가지다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "His body went limp, his head lolling to one side. The other two members of the Three Hands, who had been frozen with terror, also collapsed helplessly where they stood.\n\n“W-why are you suddenly…”",
+      "defect": "The dialogue drops the explicit plural subject and insult 이놈들이, making it sound as though Song Il may be addressing one person rather than reacting to all three men collapsing.",
+      "id": "F09",
+      "rationale": "Song Il is confused by the sudden incapacitation of Gong Ilhyuk and the other two men; the source explicitly refers to them collectively.",
+      "replacement": "His body went limp, his head lolling to one side. The other two members of the Three Hands, who had been frozen with terror, also collapsed helplessly where they stood.\n\n“W-why did these bastards suddenly…”",
+      "severity": "minor",
+      "source": "그의 몸이 축 늘어지고 고개가 꺾였다. 겁에 질려 있던 종남삼수의 다른 두 사람도 그 자리에서 힘없이 무너져 내렸다.\n\n“이, 이놈들이 갑자기 왜.”"
+    }
+  ],
+  "summary": "Two critical factual/viewpoint errors and several meaningful hierarchy, register, and idiom issues require correction.",
+  "version": 1
+}
