@@ -75,9 +75,11 @@ def needs_mastering(number: int) -> bool:
         return True
     if stage == "MASTERED_COMMITTED":
         return False
-    if stage not in {None, "COMMITTED"}:
+    if stage != "COMMITTED":
         return False
-    return not overlay_promoted(number)
+    # Overlay may already be PROMOTED while the primary transaction still needs
+    # workflow master → MASTERED → commit registration.
+    return True
 
 
 def translation_window_paths() -> set[str]:
