@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Unless someone had an exceptionally thick liver, no one would think of crossing the plateau alone.",
+      "defect": "“Thick liver” is an untranslated Korean idiom and is not intelligible natural English.",
+      "id": "F01",
+      "rationale": "간덩이가 붓다 describes extreme audacity or recklessness, not a physical condition of the liver.",
+      "replacement": "Unless someone was exceptionally daring, they would never even consider crossing the plateau alone.",
+      "severity": "minor",
+      "source": "어지간히 간덩이가 붓지 않고서야 혈혈단신의 몸으로 고원을 가로지를 생각은 하지 못한다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Why have you stopped us?”",
+      "defect": "The draft invents a plural object and says Black Sand stopped the speaker and others, although he only stopped the Human Butcher’s subordinate.",
+      "id": "F02",
+      "rationale": "The source asks generally why Black Sand is reacting that way; it does not say that he stopped “us.”",
+      "replacement": "“What is it?”",
+      "severity": "critical",
+      "source": "“왜 그러시오?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Where does a little bastard like you get off talking so formally? Are you from the Lower District Sect?”",
+      "defect": "The draft mischaracterizes 하오체 as simply formal speech, obscures why the elder considers it disrespectful, and loses the 하오체/하오문 wordplay.",
+      "id": "F03",
+      "rationale": "The old man rebukes a younger man for addressing him with the insufficiently respectful 하오체, then jokes that its name makes him sound like a member of 하오문.",
+      "replacement": "“Who told a little bastard like you that he could use *hao*-style speech with me? Are you from the Lower District Sect or something?”[^1]\n\n[^1]: *Hao*-style speech is a semi-formal Korean speech level; its name sets up the pun on the Lower District Sect’s Korean name, *Haomun*.",
+      "severity": "major",
+      "source": "“어린노무 새끼가 어디서 하오체야? 하오문 출신이냐?”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Goodness, you’ve prepared quite a feast.",
+      "defect": "“Goodness” sanitizes the coarse, emphatic regional register of 아따 and 우라지게.",
+      "id": "F04",
+      "rationale": "The source uses rough, colorful speech rather than a mild exclamation, which is part of the old man’s abrupt voice shift.",
+      "replacement": "“Well, damn, you’ve laid out one hell of a feast.",
+      "severity": "minor",
+      "source": "“아따, 한 상 우라지게 차려 놨네."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The next moment, the Human Butcher’s eyes rolled back, and his body shot upward like lightning.",
+      "defect": "The draft physicalizes the rage idiom 눈이 뒤집히다 as his eyes literally rolling back.",
+      "id": "F05",
+      "rationale": "Here 눈이 뒤집히다 means that rage has overwhelmed his reason, not that his eyes perform a distinct physical action.",
+      "replacement": "The next moment, the Human Butcher, beside himself with rage, shot upward like lightning.",
+      "severity": "major",
+      "source": "다음 순간, 눈이 뒤집힌 인도의 신형이 번개처럼 솟구쳤다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The resulting sword pressure scattered the dust cloud, revealing a ruin that had been reduced to half rubble.",
+      "defect": "“Reduced to half rubble” is both unnatural and materially different from the ruin being half pulverized into powder.",
+      "id": "F06",
+      "rationale": "반쯤 가루가 된 describes roughly half of the wreckage having been reduced to powder.",
+      "replacement": "The resulting sword pressure scattered the dust cloud, revealing a half-pulverized ruin.",
+      "severity": "minor",
+      "source": "그러자 검압에 의해 먼지구름이 흩어지며 반쯤 가루가 된 폐허가 모습을 드러냈다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The Human Butcher’s eyes were still rolled back. He had nothing left to restrain him.",
+      "defect": "The draft again turns an idiom for being beyond reason into a literal eye position.",
+      "id": "F07",
+      "rationale": "눈이 뒤집힌 describes his maddened state, while 거리낄 것이 없었다 means he no longer had any hesitation or compunction.",
+      "replacement": "The Human Butcher was already beyond reason and had no reservations left.",
+      "severity": "major",
+      "source": "이미 눈이 뒤집힌 인도는 거리낄 것이 없었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Mount Tai Presses Down on the Crown.”",
+      "defect": "Quotation marks turn the narrative technique name into dialogue, inventing a spoken declaration by the Human Butcher.",
+      "id": "F08",
+      "rationale": "The source presents the move name as a narration fragment and does not indicate that anyone says it aloud.",
+      "replacement": "*Mount Tai Presses Down on the Crown.*",
+      "severity": "critical",
+      "source": "태산압정."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“There’s no part of a chicken to waste. It tastes good, you can boil the bones down and eat them, and sometimes I even use them for Sword Energy.”",
+      "defect": "The draft says the boiled bones themselves are eaten, changing the culinary explanation.",
+      "id": "F09",
+      "rationale": "뼈는 푹 고아 먹고 refers to simmering the bones thoroughly to make and consume broth, not eating the bones themselves.",
+      "replacement": "“There’s no part of a chicken that goes to waste. The meat is delicious, the bones make a fine broth when simmered down, and sometimes they’re even good for wielding Sword Energy.”",
+      "severity": "major",
+      "source": "“닭은 버릴 곳이 없지. 맛도 좋고, 뼈는 푹 고아 먹고. 가끔은 검기도 쓰고.”"
+    }
+  ],
+  "summary": "Several actionable fidelity and register issues, including an altered subject, a lost speech-level pun, physicalized rage idioms, invented dialogue, and an incorrect culinary explanation.",
+  "version": 1
+}
