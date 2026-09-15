@@ -1,17 +1,16 @@
 # Translation State
 
-- Last completed: 173
-- Next chapter: 174
-- Current block: 170–174 (4/5)
-- Latest translation: `translations/0173.md`
-- Latest summary: `summaries/beats/0173.md`
-- Safe profiles through: chapter 173
+- Last completed: 174
+- Next chapter: 175
+- Current block: 170–174 (5/5)
+- Latest translation: `translations/0174.md`
+- Latest summary: `summaries/beats/0174.md`
+- Safe profiles through: chapter 174
 
 ## Current Block
 
-- Jeok Cheongang confirms that he is the Fire King and reacts with amusement when Cheongpung relays Mae Jonghak's mixed praise of him. Jeok recognizes Cheongpung as Mae's grandson and regards him as a dependable grandson-like successor, while Cheongpung innocently labels him a hidebound old man using modern slang.
-- Jin Taekyung recognizes Jeok Cheongang as the Fire King from his history with Mae Jonghak and the destruction of Mount Jiuhua. Jeok's internal energy resonates with Taekyung's Scorching Yang Qi, assimilating into it and slightly increasing Taekyung's internal energy. Taekyung then conceals the fact that he possesses the Flame Divine Palm manual, consumed the Blazing Flame Divine Pill, and killed Jopil.
-- Jeok identifies Taekyung as a member of the Jin Family of Taiyuan and learns that the Blade of Flowers, Jin Baekyang, was Taekyung's great-uncle. Taekyung tells him that Baekyang died in battle about two months earlier and that he was buried in the Jin Family cemetery. Jeok asks whether Taekyung avenged him, but Cheongpung then accidentally reveals that Taekyung was the person who killed Baekyang.
+- Cheongpung reveals that Jin Taekyung killed Blade of Flowers Jin Baekyang, prompting Jeok Cheongang to attack Taekyung with the Flame Divine Palm. Cheongpung's Sword Energy briefly slows the attack, but Taekyung's desperate bare-handed defense fails, leaving him unconscious with an Internal Injury.
+- The clash destroys Jang Taebo's home, leaving only its foundation stones. Jeok Cheongang says he has many questions for Taekyung, orders Jang not to seek help, and goes ahead to the inn. Cheongpung carries the unconscious Taekyung and Hyuk Mujin away, while Jang realizes his retirement has ended.
 
 ## Open Questions
 
@@ -20,8 +19,9 @@
 - Who is the unnamed giant leading the Heavenly Wind Band?
 - What is the linked Quest generated after Find the Master Artisan?
 - Who are the tall, handsome martial artists who came looking for Jeok Cheongang?
-- What is the true nature of Jeok Cheongang's martial ability and why does Qi Sense display him as Level 3?
+- Why does Qi Sense display Jeok Cheongang as Level 3 despite his Supreme Peak martial ability?
 - Was Jopil a disciple of Jeok Cheongang?
+- How severe is Taekyung's Internal Injury, and when will he regain consciousness?
 
 ## Exceptional Decision
 
