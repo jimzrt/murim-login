@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Jang Taebo has lived anonymously near Jeongyang for more than ten years, refuses commissions, and now agrees to personally forge Taekyung's weapon after seeing his enormous supply of Ten-Thousand-Year Cold Iron.",
+      "defect": "The active state drops Taekyung’s unresolved promise to protect Jang Taebo’s location and explain the situation to Jin Wikyung.",
+      "id": "C01",
+      "rationale": "This remains an active obligation after Chapter 168 and is explicitly preserved in the checkpoint continuity summary.",
+      "replacement": "Jang Taebo has lived anonymously near Jeongyang for more than ten years, refuses commissions, and now agrees to personally forge Taekyung's weapon after seeing his enormous supply of Ten-Thousand-Year Cold Iron; Taekyung promised to keep Jang Taebo's residence secret and must explain the matter to Jin Wikyung.",
+      "severity": "major",
+      "source": "Durable state, active_continuity entry for Jang Taebo’s residence"
+    },
+    {
+      "confidence": 0.98,
+      "current": "**Quest**\n\n> **System**",
+      "defect": "The Quest UI label sits outside the System blockquote even though it is part of the same uninterrupted game panel.",
+      "id": "C02",
+      "rationale": "Binding formatting requires all consecutive System notices, labels, and fields to remain inside one blockquote window headed by System.",
+      "replacement": "> **System**\n>\n> **Quest**",
+      "severity": "minor",
+      "source": "Chapter 168, opening Quest panel"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“...?”\n\n“...?”\n\n“...?”",
+      "defect": "The three reactions use periods instead of the required ellipsis character.",
+      "id": "C03",
+      "rationale": "The packet otherwise follows the specified typographic convention of using the single ellipsis character.",
+      "replacement": "“…?”\n\n“…?”\n\n“…?”",
+      "severity": "minor",
+      "source": "Chapter 167, immediately after Jang Taebo spits out the He Shou Wu"
+    },
+    {
+      "confidence": 0.96,
+      "current": "<br>\n\n**HEAVENLY WIND**\n\n<br>",
+      "defect": "Raw HTML break tags introduce an unnecessary formatting difference into the English reading copy.",
+      "id": "C04",
+      "rationale": "A standalone bold line already isolates the flag text cleanly in Markdown; the HTML tags are extraneous and inconsistent with the surrounding chapters.",
+      "replacement": "**HEAVENLY WIND**",
+      "severity": "minor",
+      "source": "Chapter 169, Heavenly Wind Band flag"
+    },
+    {
+      "confidence": 0.99,
+      "current": "its current Guild Leader is Jang Taebo’s Disciple.",
+      "defect": "The ordinary relationship noun “Disciple” is incorrectly capitalized.",
+      "id": "C05",
+      "rationale": "“Disciple” is neither an established title nor a mapped proper term in this context.",
+      "replacement": "its current Guild Leader is Jang Taebo’s disciple.",
+      "severity": "minor",
+      "source": "Chapter 165, Wipeng’s warning about the Ironcraft Guild"
+    },
+    {
+      "confidence": 0.99,
+      "current": "In other words, it was a blacksmiths’ Guild.",
+      "defect": "The generic noun “guild” is incorrectly capitalized.",
+      "id": "C06",
+      "rationale": "Only the formal organization name “Ironcraft Guild” requires capitalization.",
+      "replacement": "In other words, it was a blacksmiths’ guild.",
+      "severity": "minor",
+      "source": "Chapter 165, explanation of the Ironcraft Guild"
+    }
+  ],
+  "summary": "The reading copies are broadly consistent in voice, terminology, and continuity. One unresolved secrecy hook is missing from active state, and there are several minor capitalization and System/Markdown formatting inconsistencies.",
+  "version": 1
+}

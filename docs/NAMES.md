@@ -432,3 +432,9 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 천검진인 | **Heavenly Sword True Person** | Taoist-style title of the current Sect Leader of Huashan, who once commissioned a sword from Jang Taebo. |
 | 여의주 | **dragon pearl** | Legendary treasure requested by Jang Taebo. |
 | 공청석유, 용의 발톱, 여의주 구하기 | **Get Gongcheong Seokyu, a Dragon’s Claw, and a Dragon Pearl** | Quest generated after Jang Taebo makes additional demands; Taekyung rejects it. |
+| 천풍 | **Heavenly Wind** | Short form displayed on the Heavenly Wind Band's flag. |
+| 장팔 | **Jang-pal** | Woodcutter who meets and helps the unnamed old man. |
+| 장 씨 | **Jang** | Surname form used for the woodcutter Jang-pal. |
+| 장가촌 | **Jang Family Village** | Clan village where Jang-pal lives. |
+| 홍가촌 | **Hong Family Village** | Clan village said to be three hundred li from Jang Family Village. |
+| 신령님 | **Mountain Spirit** | Jang-pal's mistaken address for the unnamed old man. |
