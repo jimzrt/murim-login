@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Unlike me, who merely nodded without much interest, Hyuk Mujin was so shocked that he nearly fell off his horse.",
+      "defect": "The draft changes an actual fall into a near fall. The later statement that Hyuk Mujin climbs back into the saddle confirms that he fell off.",
+      "id": "F01",
+      "rationale": "말에서 떨어질 정도로, together with the subsequent 다시 안장에 오르며, establishes that Hyuk Mujin falls and then remounts.",
+      "replacement": "Unlike me, who merely nodded without much interest, Hyuk Mujin was so shocked that he fell off his horse.",
+      "severity": "critical",
+      "source": "혁무진은 말에서 떨어질 정도로 놀랐다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Listen to this old bastard calling me Young Hero Chul. Didn’t you call me a cow’s head earlier?”\n\n“N-No, Great Hero Chul! I committed a grave discourtesy earlier!”\n\n“Committed? You committed? ‘So’? You just called me a cow again, didn’t you?”",
+      "defect": "“Old bastard” intensifies 중늙은이, while the central joke is left opaque because the draft neither reproduces the repeated -소 sound nor explains that 소 also means “cow.”",
+      "id": "F02",
+      "rationale": "Chulwoo strips 저질렀소 down sound by sound until only 소 remains, then deliberately interprets it as “cow.” A brief footnote is warranted because that bilingual pun cannot be conveyed fully through natural English alone.",
+      "replacement": "“Hah, listen to this old coot calling me Young Hero Chul. Didn’t you call me a cow’s head earlier?”\n\n“N-No, Great Hero Chul! I committed a grave discourtesy, *so*!”\n\n“Committed-*so*? *-so*? Cow? You just called me a cow again, didn’t you?”[^1]\n\n[^1]: The formal Korean sentence ending *-so* (소) is pronounced the same as the Korean word for “cow.”",
+      "severity": "major",
+      "source": "“허, 이 중늙은이가 철 소협 같은 소리 하네. 아까는 소대가리라면서?”\n\n“아, 아니 철 대협! 아까는 내가 큰 결례를 저질렀소!”\n\n“저질렀소? 질렀소? 렀소? 소? 지금 나보고 또 소라고 했지?”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“You’re welcome. Grandpa said that people who lack a firm will, like weak martial artists, need to be looked after constantly.”\n\n“…”\n\nFor fuck’s sake. He was just doing mental-health care.",
+      "defect": "The draft turns 하수들 into an illustrative comparison rather than directly classifying Taekyung as one of the weak martial artists, weakening the accidental insult. “Doing mental-health care” is also unnatural English and blunts the punchline.",
+      "id": "F03",
+      "rationale": "The source directly describes low-level martial artists whose resolve is weak, revealing that Cheongpung’s apparent compliment was merely encouragement prescribed for someone he considers inferior.",
+      "replacement": "“You’re welcome. Grandpa said weak martial artists without firm resolve need constant attention.”\n\n“…”\n\nFuck me. It had just been a pep talk.",
+      "severity": "major",
+      "source": "“아니에요. 할아버지께서 말씀하시길, 의지가 굳건하지 못한 하수들은 꾸준히 신경 써 주셔야 한다고 말씀하셨는걸요.”\n\n“…….”\n\n이런 시발, 멘탈 케어였네."
+    },
+    {
+      "confidence": 0.9,
+      "current": "“What’s the name of the person who would be your grandfather?”\n\n“Mae Jonghak.”",
+      "defect": "The question is awkwardly calqued, and Cheongpung’s deliberate explanation of the name’s component characters is omitted.",
+      "id": "F04",
+      "rationale": "Cheongpung does not merely state the name; he explicitly identifies its constituent name characters before repeating Mae Jonghak.",
+      "replacement": "“May I ask your grandfather’s full name?”\n\n“His surname is Mae, and his given name uses the characters Jong and Hak. Mae Jonghak.”",
+      "severity": "minor",
+      "source": "“혹시 조부님 되시는 분 성함이?”\n\n“매 종 자에 학 자 쓰세요. 매종학.”"
+    }
+  ],
+  "summary": "One scene-action reversal and several meaningful omissions or register problems require correction.",
+  "version": 1
+}
