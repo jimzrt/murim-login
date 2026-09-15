@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "What the hell was he talking about? At first glance, it sounded like something straight out of a romance drama.",
+      "defect": "The draft omits the comparison that Jeok Cheongang's line could put a romance-drama male lead to shame, weakening the joke that prompts Taekyung to protect his vital areas.",
+      "id": "F01",
+      "rationale": "남주 저리 가라 means the remark rivals or surpasses something a male lead would say, not merely that it resembles dialogue from a romance drama.",
+      "replacement": "What the hell was he talking about? Taken out of context, that line could put a romance-drama male lead to shame.",
+      "severity": "minor",
+      "source": "아니, 이게 뭔 소리야. 얼핏 들으면 로맨스 드라마 남주 저리 가라다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "“You have the gist of it. It is a type of severed-meridian illness in which an innate abundance of yin energy blocks the blood vessels and eventually leads to death.”",
+      "defect": "The draft renders the Murim-specific 혈맥 as ordinary blood vessels and weakens 이내, which indicates that death follows before long rather than merely eventually.",
+      "id": "F02",
+      "rationale": "The explanation concerns a meridian disorder and its lethal progression; preserving both the affected channels and the relatively prompt consequence is necessary for the mechanism.",
+      "replacement": "“You have the gist of it. It is a type of severed-meridian condition in which powerful innate yin energy blocks the meridians and leads to death before long.”",
+      "severity": "major",
+      "source": "“……핵심은 맞다. 선천적으로 타고난 강한 음기가 혈맥을 틀어막고 이내 죽음에 이르게 되는 절맥증의 일종이지.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "At first, I thought I might have been mistaken. But at this point, failing to understand would take a special kind of stupidity.",
+      "defect": "The draft sanitizes the blunt profanity in 병신 and replaces Taekyung's direct, coarse judgment with an abstract formulation.",
+      "id": "F03",
+      "rationale": "The source deliberately shifts into Taekyung's profane, conversational internal voice; that register should not be softened.",
+      "replacement": "At first, I wondered if I was imagining it, but by this point, anyone who still didn’t get it would have to be a fucking idiot.",
+      "severity": "major",
+      "source": "처음엔 착각인가 싶었는데, 이쯤 되면 모르는 게 병신인 수준이다."
+    },
+    {
+      "confidence": 0.91,
+      "current": "“Th-That… We can take on a new Disciple.”",
+      "defect": "The plural subject makes the sect collectively responsible for the decision, whereas Jeok Cheongang is defending his own ability to accept another disciple.",
+      "id": "F04",
+      "rationale": "In context, Jeok Cheongang is the prospective master and is claiming that he personally can resolve the contradiction by taking another disciple.",
+      "replacement": "“Th-That… I can simply take another Disciple.”",
+      "severity": "minor",
+      "source": "“그, 그건. 새로운 제자를 들이면 된다.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Y-You bastard. Do you think that’s easy? Is Supreme Peak the name of some dog owned by a random household?”",
+      "defect": "The idiom is translated word for word into unnatural English, obscuring Jeok Cheongang's point that Supreme Peak is not something trivial or commonplace.",
+      "id": "F05",
+      "rationale": "The shorter phrasing preserves the source's dog-name image and incredulous humor while making the idiom intelligible in spoken English.",
+      "replacement": "“Y-You bastard. Do you think it’s that easy? Do you think Supreme Peak is some mutt’s name?”",
+      "severity": "minor",
+      "source": "“이, 이놈이. 그게 그리 쉬운 줄 아느냐? 초절정이 뉘 집 개 이름이야?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“It seemed easy to me.”",
+      "defect": "The addition of “seemed” hedges Taekyung's deliberately brazen claim.",
+      "id": "F06",
+      "rationale": "The source states the boast directly, which is what leaves Jeok Cheongang speechless and advances Taekyung's manipulation.",
+      "replacement": "“It was easy for me.”",
+      "severity": "minor",
+      "source": "“전 쉽던데.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“If you are considering it, this old man could watch over your martial arts from the side.”",
+      "defect": "“Watch over your martial arts from the side” is a literal calque and does not naturally convey personally supervising or guiding someone's training.",
+      "id": "F07",
+      "rationale": "옆에서 봐주다 here means to remain with Taekyung and supervise or guide his practice, not merely observe it from the sidelines.",
+      "replacement": "“If you’re interested, this old man could personally oversee your martial arts training.”",
+      "severity": "minor",
+      "source": "“혹시 생각이 있다면 옆에서 무공을 봐줄 수도 있다.”"
+    },
+    {
+      "confidence": 0.95,
+      "current": "“When a martial artist draws his sword, he must be able to cut even a mountain in two.”",
+      "defect": "The draft changes a maxim about seeing a chosen undertaking through into a claim about the martial artist's required physical ability.",
+      "id": "F08",
+      "rationale": "Jeok Cheongang is reaffirming that he finishes whatever he begins, which Taekyung is exploiting to secure a potentially years-long commitment.",
+      "replacement": "“Once a martial artist draws his sword, he should see it through—even if he has to cut down a mountain.”",
+      "severity": "major",
+      "source": "“무인이 한 번 검을 뽑았으면 산이라도 썰어야지.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Y-Yes?”",
+      "defect": "The draft turns Jeok Cheongang's startled response into premature agreement, even though he only assents in the following line.",
+      "id": "F09",
+      "rationale": "응? in this context marks him snapping out of his daze after hearing “Master,” not answering the request affirmatively.",
+      "replacement": "“H-Huh?”",
+      "severity": "minor",
+      "source": "“으, 응?”"
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it omits one joke, mistranslates part of the Nine Yin Severed Meridians mechanism, softens a profane register beat, and contains several localized dialogue and idiom errors.",
+  "version": 1
+}

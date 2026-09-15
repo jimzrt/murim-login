@@ -1,0 +1,55 @@
+{
+  "chapter": 200,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.354,
+    "source_characters": 6094,
+    "source_paragraphs": 217,
+    "translation_characters": 14347,
+    "translation_paragraphs": 218
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "사제",
+        "preferred": "Junior Brother"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "대협",
+        "preferred": "Great Hero or Sir depending tone"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "갑자",
+        "preferred": "jiazi"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "주신",
+        "preferred": "God of Drinking"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
