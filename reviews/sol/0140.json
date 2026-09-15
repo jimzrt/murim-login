@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Can’t he at least be grateful that I recognized it? Why is he sighing?",
+      "defect": "The object of Gong Ilhyuk’s recognition is reversed. He thinks Jin Taekyung should be grateful that Gong acknowledged him, not that Gong recognized the Zhongnan Sect.",
+      "id": "F01",
+      "rationale": "The following comparison disparaging the Jin Family establishes that Gong believes someone of Jin Taekyung’s lesser standing should appreciate being acknowledged by him.",
+      "replacement": "Can’t he at least be grateful that I acknowledged him? Why is he sighing?",
+      "severity": "critical",
+      "source": "‘알아봐 주는 것에 감사하지는 못할망정 한숨을 내쉬어?’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Unlike his enthusiastic reaction when he first heard the name of the Zhongnan Sect, he was now staring blankly into space and letting out one deep sigh after another.",
+      "defect": "The draft replaces Jin Taekyung’s visibly deflated expression with an unsupported action of staring into space.",
+      "id": "F02",
+      "rationale": "김이 팍 샌 얼굴 describes a thoroughly deflated or disappointed expression, not where he is looking.",
+      "replacement": "Unlike his enthusiastic reaction when he first heard the name of the Zhongnan Sect, he now looked completely deflated and let out one deep sigh after another.",
+      "severity": "minor",
+      "source": "처음 종남파의 이름을 들었을 때 보여 줬던 열광적인 반응과 달리, 놈은 지금 김이 팍 샌 얼굴로 한숨만 푹푹 내쉬고 있었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "His answer was so indifferent that it sounded as though he had asked who that was.",
+      "defect": "The pronouns leave the speaker and subject ambiguous immediately after Gong Ilhyuk supplies the name. The indifferent response belongs to Jin Taekyung.",
+      "id": "F03",
+      "rationale": "The sentence characterizes Jin Taekyung’s dismissive “Ah. Yes,” which provokes all three Zhongnan disciples.",
+      "replacement": "Jin Taekyung’s response was so indifferent that it was as though he had no idea who that was.",
+      "severity": "major",
+      "source": "마치 그게 누구냐는 듯 심드렁한 대답이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "*I’ve heard of a committee chairman, but this is my first time hearing of a Deputy Military Commissioner.*",
+      "defect": "The translation drops the 동지 wordplay: the bureaucratic title sounds to Taekyung as though it contains the political address “Comrade.”",
+      "id": "F04",
+      "rationale": "The joke explicitly contrasts 위원장 동지, “Comrade Chairman,” with the homophonically interpreted 도지휘동지.",
+      "replacement": "*I’d heard of “Comrade Chairman,” but “Comrade Deputy Military Commissioner” was a new one.*",
+      "severity": "major",
+      "source": "위원장 동지는 들어 봤어도 도지휘동지는 처음 들어 보네."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Happy? Ho ho ho, you’re adorable. Aren’t they, Assistant Commissioner Li?”",
+      "defect": "The tag question shifts from asking Li Feng to agree with Hong Jin’s assessment to an ungrammatical third-person reference.",
+      "id": "F05",
+      "rationale": "안 그래요 directly solicits Li Feng’s agreement that Jin Taekyung is adorable.",
+      "replacement": "“Happy? Ho ho ho, you’re adorable. Don’t you agree, Assistant Commissioner Li?”",
+      "severity": "minor",
+      "source": "“행복? 호호호, 너무 귀여우시다. 안 그래요, 이 첨사?”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Pardon you… Should I take this to mean the Jin Family of Taiyuan intends to oppose our sect at our own event?”",
+      "defect": "The draft treats 행사 as an event belonging to the Zhongnan Sect, falsely implying that the sect is hosting the luncheon. Here it means the sect’s actions or exercise of authority.",
+      "id": "F06",
+      "rationale": "The gathering belongs to the royal and provincial setting; Gong Ilhyuk is threatening to construe Jin Taekyung’s intervention as opposition to the Zhongnan Sect’s conduct.",
+      "replacement": "“Pardon you… Should I take this to mean the Jin Family of Taiyuan intends to oppose the actions of our sect?”",
+      "severity": "critical",
+      "source": "“실례라…… 본문의 행사에 태원진가가 반하겠다는 뜻으로 받아들이면 되겠나?”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“You little—!”",
+      "defect": "The draft sanitizes Gong Ilhyuk’s strong, violent curse into a mild unfinished insult.",
+      "id": "F07",
+      "rationale": "쳐 죽일 is an openly vicious curse expressing an urge to beat or kill the target, so the strong register must be preserved.",
+      "replacement": "“You goddamn bastard…!”",
+      "severity": "major",
+      "source": "“이런 쳐 죽일……!”"
+    }
+  ],
+  "summary": "Six actionable findings involving a reversed object, ambiguous subject attribution, lost wordplay, altered sect authority, and softened profanity.",
+  "version": 1
+}

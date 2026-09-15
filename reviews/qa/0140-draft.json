@@ -1,0 +1,55 @@
+{
+  "chapter": 140,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.271,
+    "source_characters": 7189,
+    "source_paragraphs": 233,
+    "translation_characters": 16327,
+    "translation_paragraphs": 254
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "후기지수",
+        "preferred": "young prodigy / rising martial artist"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "대협",
+        "preferred": "Great Hero or Sir depending tone"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "송이",
+        "preferred": "Song-i"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "호호호",
+        "romanization": "hohoho"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
