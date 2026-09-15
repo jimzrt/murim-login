@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "“Nothing special, my ass.”",
+      "defect": "The quotation marks turn Taekyung’s internal reaction into dialogue spoken aloud, adding an action absent from the source.",
+      "id": "F01",
+      "rationale": "The Korean is unquoted internal narration, continuing Taekyung’s private reaction to the Sword Saint’s claim.",
+      "replacement": "*Nothing special, my ass.*",
+      "severity": "critical",
+      "source": "별거 없기는 개뿔이."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Even with advanced First Rate martial arts and internal energy, anyone without the enlightenment to match them would spend their entire life taking one step forward and one step back.",
+      "defect": "The draft replaces remaining stuck in place with a repeated forward-and-back action and omits that this is another fact Taekyung knows.",
+      "id": "F02",
+      "rationale": "제자리걸음 means making no progress or remaining at the same level, while 것도 continues the preceding statement about what Taekyung knows.",
+      "replacement": "I also knew that even with advanced First Rate martial arts and internal energy, anyone without the enlightenment to match would spend their entire life stuck in place.",
+      "severity": "minor",
+      "source": "초일류의 무공과 공력을 갖춰도 그에 걸맞은 깨달음이 없다면 평생을 제자리걸음만 반복해야 한다는 것도."
+    },
+    {
+      "confidence": 0.94,
+      "current": "That was an impressive interpretation.",
+      "defect": "“Impressive” adds praise or sarcasm not present in the source and weakens the short, deadpan reaction to Cheongpung’s misunderstanding.",
+      "id": "F03",
+      "rationale": "The Korean simply remarks in disbelief that Cheongpung has interpreted Hyuk Mujin’s flight as evidence of successful training.",
+      "replacement": "So that was how he interpreted it.",
+      "severity": "minor",
+      "source": "이걸 이렇게 해석하네."
+    },
+    {
+      "confidence": 0.89,
+      "current": "Cheongpung continued with a mischievous grin.",
+      "defect": "The draft assigns Cheongpung a mischievous intent instead of preserving his audible, childlike giggle.",
+      "id": "F04",
+      "rationale": "히히 웃으며 explicitly describes giggling; it does not characterize the expression as calculating or mischievous.",
+      "replacement": "Cheongpung giggled as he continued.",
+      "severity": "minor",
+      "source": "청풍이 히히 웃으며 말을 이었다."
+    }
+  ],
+  "summary": "One line is incorrectly presented as spoken dialogue, and several localized choices alter the source’s meaning or comic tone.",
+  "version": 1
+}
