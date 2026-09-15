@@ -4,11 +4,11 @@ Outside, dawn was dim. The winter air was cold as ice, and frost crumbled underf
 
 Jin Mukyung, who had already been warming up, grinned at me.
 
-“Well? Are you mentally prepared?”
+“Well, have you finished preparing yourself mentally?”
 
 Of course not. But I hid my churning stomach and nodded.
 
-Someone once said that if you couldn’t avoid something, you should enjoy it. Thinking of this as just another step toward becoming stronger made me feel a little more at ease…
+Someone once said that if you couldn’t avoid something, you should enjoy it. When I thought of this as just another part of becoming stronger, I felt a little more at ease…
 
 Shing.
 
@@ -20,7 +20,7 @@ I had no time to avoid him. Jin Mukyung rushed toward me in an instant, and I hu
 
 Clang! Kaga-gang!
 
-Jin Mukyung’s breath drifted between us over our locked weapons.
+Jin Mukyung’s breath drifted between us through the weapons we had crossed.
 
 “Your stance isn’t bad.”
 
@@ -34,7 +34,7 @@ One word at a time. Clearly and distinctly.
 
 “You…”
 
-Had he sensed my unusual aura? Jin Mukyung’s eyes trembled.
+Perhaps he sensed that something about my momentum was different. Jin Mukyung’s pupils trembled.
 
 “Can’t you keep your damn eyes open?”
 
@@ -44,31 +44,29 @@ Had he sensed my unusual aura? Jin Mukyung’s eyes trembled.
 
 Swoosh. Thud!
 
-Jin Taekyung collapsed.
+Jin Taekyung collapsed. It was not particularly surprising. This was already his fifth knockout.
 
-It was hardly surprising. This was already his fifth knockout.
-
-The real surprise lay elsewhere.
+The truly surprising thing was something else.
 
 *I can’t believe he lasted two hundred exchanges against me.*
 
-Five spars over two shichen—roughly four hours.
+Five spars over two hours.
 
-Anyone would have been exhausted. But Jin Taekyung was different. He kept springing back up like a roly-poly toy, growing stronger each time. By the final spar, even Jin Mukyung had been forced to take him seriously.
+Anyone would naturally become exhausted. But Jin Taekyung was different. He kept getting back up like a roly-poly toy, growing stronger each time. By the end, even Jin Mukyung had been forced to face him seriously.
 
 *What the hell is this guy?*
 
-Unarmed, his movements had been as clumsy as those of an eighty-year-old man. But the moment he picked up a spear, everything changed.
+When he fought unarmed, his movements had been awkward enough to resemble those of an eighty-year-old man. But the moment he picked up a spear, everything changed.
 
 The coward who had fawned over Jin Mukyung to avoid getting hit had vanished. In his place stood a seasoned spearman.
 
 *He was like a wandering martial artist. Someone who had survived countless brushes with death.*
 
-His movements were so simple they seemed crude, while his irregular attacks and evasions relied entirely on instinct. A wandering martial artist’s fighting style followed no fixed pattern.
+His movements were simple to the point of seeming crude. His attacks and evasions were irregular, relying on his own instincts. There was nothing fixed about the way a wandering martial artist fought.
 
 That was exactly what Jin Taekyung looked like to Jin Mukyung.
 
-Which only made the question more baffling.
+And that was why the question only grew larger.
 
 *How?*
 
@@ -78,17 +76,17 @@ And he did it while giving off not the scent of a courtesan’s powder, but the 
 
 *Was something like this even possible?*
 
-Technically, yes.
+It was possible.
 
 Having a Supreme Peak master cleanse his tendons and marrow. Improving his constitution with elixirs. Then swinging a spear until he shit blood while building real combat experience.
 
-Every single day for three years!
+For three years without missing a single day!
 
 “…That’s ridiculous.”
 
 Jin Mukyung muttered hollowly and scratched his head.
 
-Then only one answer remained.
+If that was the case, only one answer remained.
 
 *A genius.*
 
@@ -106,9 +104,9 @@ Geniuses were ahead in every way. They started from a completely different place
 
 But of all people, this guy was a genius?
 
-That was impossible. It couldn’t be allowed!
+That was impossible. It couldn’t be true!
 
-Anger suddenly surged within Jin Mukyung, and he kicked his younger brother in the rear.
+A sudden surge of anger rose within Jin Mukyung, and he kicked his younger brother in the rear.
 
 “Prrrblblbl.”
 
@@ -116,7 +114,7 @@ Jin Taekyung rolled away several times before shuddering all over.
 
 “W-Wolhwa noona. Not there.”
 
-“…!”
+“…”
 
 “If you suddenly do this… Ah. Aah!”
 
@@ -138,11 +136,11 @@ My joy at discovering a new function lasted only a moment. Why had Sleep Mode be
 
 Because someone had woken me up, obviously.
 
-“On the sacred training ground, you say what? ‘Not there’? ‘Not there’?”
+“In the sacred training hall, you say what? ‘Not there’? ‘Not there’?”
 
 Whack! Whack! Whack!
 
-Curled up like a shrimp, I pleaded in a dying voice.
+I curled up like a shrimp and spoke in a dying voice.
 
 “Please, spare me…”
 
@@ -150,15 +148,19 @@ Curled up like a shrimp, I pleaded in a dying voice.
 
 Thwack-thwack-thwack!
 
-I had no idea how many times he hit me. I lost consciousness twice in the middle of it.
+I had no idea how many times I was hit. My consciousness had cut out twice in the middle of it.
 
-My last memory was of collapsing while using the last of my strength to leave a dying message on the training ground. When I opened my eyes, it was already night.
+My last memory was of squeezing out my remaining strength to leave a dying message on the training hall floor before collapsing.
 
-*What did I even do for it to be night already?*
+When I opened my eyes, it was already night.
+
+*What did I do for it to be night already?*
 
 I felt like a time traveler. Ever since I had met Jin Mukyung, entire days had been flying by.
 
-Pain swept through my body as I muttered, “Jin Mukyung really is strong.”
+I muttered as pain swept through my entire body.
+
+“Jin Mukyung is really strong.”
 
 Excluding Jin Mukyung, I had faced two Peak masters so far.
 
@@ -166,13 +168,13 @@ The Head Elder and Jopil.
 
 *The Head Elder doesn’t count.*
 
-In his case, I had to admit that luck had been on my side. If not for the sacrifices of the Jin Family of Taiyuan’s martial artists and Lee Cheonbaek’s surprise attack, he was a master I could never have defeated in a million years.
+In his case, I had to admit that heaven itself had helped me. If not for the sacrifices of the Jin Family of Taiyuan’s martial artists and Lee Cheonbaek’s surprise attack, he was a master I could never have defeated, even if I had died and come back to life.
 
-*Then how does Jopil compare to Jin Mukyung?*
+*Then what if I compare Jopil and Jin Mukyung?*
 
 I did not have to think for long.
 
-I had fought both of them, so the choice was easy.
+I had experienced fighting both of them, so the choice was easy.
 
 *Jin Mukyung is stronger.*
 
@@ -182,25 +184,25 @@ But how should I put it? He was strong like a Peak master, and he used the deadl
 
 *More precisely, it was a difference in how they used their martial arts.*
 
-Jin Mukyung was different from Jopil. Even during our spar, he had used more than ten different martial arts to completely shut down my attacks.
+Jin Mukyung was different from Jopil. Even during our spar, he had used at least ten different martial arts to completely shut down my attacks.
 
 To a martial artist, martial arts were another weapon. Jin Mukyung knew how to draw out the right weapon at exactly the right moment.
 
 *Compared to him, what did I have?*
 
-Setting aside the Jin Family’s Cultivation Technique, which I had possessed from the beginning, the only martial arts I had learned in Murim were the Jin Family’s Spear Technique and the Jin Family’s Manoeuvre Technique.
+I could exclude the Jin Family’s Cultivation Technique, which I had possessed from the beginning. As for martial arts I had learned in Murim, I had only the Jin Family’s Spear Technique and the Jin Family’s Manoeuvre Technique.
 
 Of course, both were unquestionably First Rate martial arts.
 
-But put another way, they were only useful at the First Rate level.
+But put another way, they were only useful up to the First Rate level.
 
-The limitations of my martial arts. There was no way Jin Wikyung had failed to notice what I had felt.
+The limits of martial arts. Jin Wikyung could not possibly have failed to notice what I had felt.
 
-*That must be why he put me with Jin Mukyung. Ugh.*
+*That was why he had sent me to Jin Mukyung. Ugh.*
 
-The pain made my brow furrow on its own. I had barely raised my upper body, yet every joint throbbed and my skin stung.
+My brow furrowed automatically from the pain. I had only raised my upper body a little, but every joint in my body throbbed, and my skin ached.
 
-Apparently, even the rest provided by Sleep Mode had its limits.
+It seemed even Sleep Mode had its limits when it came to rest.
 
 *Well, I did get beaten half to death.*
 
@@ -216,17 +218,17 @@ As an F-rank Hunter, I had not even been given the right to climb a mountain. Bu
 
 There was a mountain I had to climb, and I had been given the right to climb it.
 
-Faster than anyone else!
+And I could do it faster than anyone else!
 
 *This isn’t the time for this.*
 
-Forgetting the pain, I rose. I could not bear to waste another minute or second.
+I rose from my place, forgetting the pain. Every minute and second I wasted felt unbearable.
 
 * * *
 
-Jin Mukyung was in the underground training ground.
+Jin Mukyung was in the underground training hall.
 
-I descended the stairs as quietly as possible and spotted him below.
+I descended the stairs leading underground, keeping my footsteps as quiet as possible, and saw him.
 
 “Hah!”
 
@@ -236,13 +238,15 @@ Whoosh! Shh-shh-shhk!
 
 The wind split along the blade.
 
-Jin Mukyung moved without hesitation, thrusting and slashing through empty space at the speed of a ray of light.
+Jin Mukyung’s movements were as unrestrained as he thrust and slashed through the empty air at the speed of a ray of light.
 
-About fifteen minutes passed before he lowered his sword and released a long breath.
+About fifteen minutes passed.
+
+Jin Mukyung lowered his sword and let out a long breath.
 
 “Hoo.”
 
-He wiped away his sweat with his sleeve, then turned toward me.
+He wiped the sweat from his brow with his sleeve, then turned his head toward me.
 
 It seemed he had noticed my presence some time ago.
 
@@ -250,15 +254,17 @@ It seemed he had noticed my presence some time ago.
 
 The words came out of nowhere.
 
-Caught off guard, I asked, “Tell you what?”
+Confused, I reflexively asked:
+
+“Tell you what?”
 
 “About the martial art I just performed.”
 
 “Uh, well, first of all, it was really fast…”
 
-“For the record, if you spout pointless bullshit like ‘It was fast’ or ‘It was strong,’ I’ll kill you.”
+“For the record, if you say some pointless bullshit like ‘It was fast’ or ‘It was strong,’ I’ll kill you.”
 
-*He’s a mind reader.*
+*What a ghost.*
 
 I racked my brain for an answer that would keep me alive.
 
@@ -280,7 +286,7 @@ Jin Mukyung’s eyebrow twitched.
 
 The image in my head gradually became clearer.
 
-I remembered the blade pouring down upon an imaginary enemy and the movements that accompanied it. Fast and unrestrained. And the aura pressing down from every direction.
+I remembered the sword blades pouring toward an imaginary enemy and the movements that accompanied them. Fast, unrestrained motions. And an aura that seemed to press down from every direction.
 
 It was like…
 
@@ -292,7 +298,7 @@ It was like…
 
 *What? Was that the right answer?*
 
-After a long silence, Jin Mukyung abruptly swung his scabbard.
+After remaining silent for a while, Jin Mukyung suddenly swung his scabbard.
 
 Smack!
 
@@ -306,7 +312,7 @@ He stared at me with a strange look in his eyes.
 
 Was that an insult or a compliment?
 
-I had no idea what he truly meant, but I had to hear the answer to his question if only because I felt wronged. Rubbing my throbbing forehead, I asked:
+I had no idea what he truly meant, but I had to hear the answer to his question if only to soothe my wounded pride. Rubbing my throbbing forehead, I asked:
 
 “So, was that the correct answer?”
 
@@ -316,11 +322,11 @@ I had no idea what he truly meant, but I had to hear the answer to his question 
 
 “The Falling Flow Sword you just saw is one of them. I found it buried deep in the archives.”
 
-Falling flow. In other words, falling water.
+Falling flow. In other words, water falling down.
 
 A waterfall.
 
-I had simply blurted out the first thing that came to mind, but it had actually been the right answer.
+I had only said the first thing that came to mind, but it had actually been the right answer.
 
 “Oh, ooh.”
 
@@ -332,11 +338,13 @@ If I could recognize martial arts like this after only two months of learning th
 
 “…”
 
-*He really is a mind reader.*
+*He really is a ghost.*
 
 Still, I seemed to have at least a little talent.
 
-Unable to let go of the thought, I cautiously asked, “Can everyone normally do this much?”
+Unable to let go of the thought, I cautiously asked:
+
+“Can everyone normally do this much?”
 
 Jin Mukyung flinched.
 
@@ -344,17 +352,17 @@ Jin Mukyung flinched.
 
 “Come on.”
 
-“‘Come on’? Want me to pluck out one of your eyes?”
+“‘Come on’? Do you want me to pluck out one of your eyes?”
 
 “…That might be a bit much.”
 
 *Why is this bastard being especially stone-faced today? Did something unpleasant happen?*
 
-Even after I backed down, Jin Mukyung could not contain his anger. He kept huffing angrily.
+Even after I backed down, Jin Mukyung could not contain his anger. He snorted irritably.
 
 “It’s basic. Basic. Everyone can do it.”
 
-“I said I get it. Why do you keep getting angry? You’re scaring me.”
+“I get it. Why do you keep getting angry? You’re scaring me.”
 
 “Are you rebelling against me? Is it because you’re going through the storm-and-stress stage of adolescence? Do you want to get beaten with the Twelve Gale Fists?”
 
@@ -392,7 +400,7 @@ Jin Mukyung’s fist had been trembling as though he had suffered a stroke, but 
 
 *Does he have anger-management issues?*
 
-If he asked Jin Wikyung, my lie would be exposed immediately. But at least I would avoid the misfortune of experiencing the Twelve Gale Fists right now.
+If Jin Mukyung asked Jin Wikyung, my lie would be exposed immediately. But at least I would not have the misfortune of experiencing the Twelve Gale Fists right now.
 
 In any case, Jin Mukyung’s anger subsided in the meantime.
 
@@ -400,7 +408,9 @@ In any case, Jin Mukyung’s anger subsided in the meantime.
 
 “I’ll engrave it on my heart.”
 
-I bowed deeply, and he declared in a domineering tone, “I teach. You obey.”
+I bowed deeply, and he declared in a domineering tone:
+
+“I teach, and you obey.”
 
 “…”
 
