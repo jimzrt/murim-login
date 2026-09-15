@@ -222,3 +222,14 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 갑자 | **jiazi** | Traditional sixty-year cycle. |
 | 시진 | **shichen** | Traditional time unit of approximately two hours. |
 | 아이템창 | **Item Window** | System window displaying an item's details. |
+| 전서응 | **messenger eagle** | Emergency courier used by the Lower District Sect. |
+| 폭혈단 | **Blood-Exploding Pill** | Demonic Cult pill said to kill the user after its time limit. |
+| 구주 | **Nine Provinces** | Traditional geographic expression used in a threat. |
+| 고원 | **Gaoyuan** | Plateau region in northern Shanxi. |
+| 산서제일인 | **Shanxi's Number One** | Jin Wikyung's reputation for physical strength. |
+| 금잔디 | **Geum Jandi** | Heroine of Boys Over Flowers, referenced in a sarcastic comparison. |
+| 사술 | **dark arts** | Unorthodox means of obtaining power. |
+| 마기 | **demonic qi** | Demonic energy discussed as a possible effect of the pill. |
+| 선천지기 | **innate qi** | Vital energy said to be damaged by the pill's aftereffects. |
+| 소음인 | **Soeumin** | One of the constitutional types in Sasang medicine. |
+| 태양인 | **Taeyangin** | One of the constitutional types in Sasang medicine. |
