@@ -450,3 +450,9 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 부마도위 | **Imperial Son-in-Law** | Imperial title mentioned by Jang Taebo. |
 | 천하오대세가 | **Five Great Families** | Expanded source form of 오대세가. |
 | 열화신공 | **Fire Gate Divine Technique** | Secret internal cultivation technique of the Fire Gate Clan, preserved through one-person succession without leakage. |
+| 장천 | **Jangcheon** | Name Jeok Cheongang gave to the orphan who later became Jopil; means “Vast Sky.” |
+| 벌모세수 | **cleansing the sinews and washing the marrow** | Jeok Cheongang’s constitution-improving technique. |
+| 상단전 | **upper dantian** | Advanced dantian whose opening signifies entry into the Martial Extremity realm. |
+| 무극 | **Martial Extremity realm** | Realm associated with opening the upper dantian. |
+| 창천검왕 | **Azure Sky Sword King** | One of the Ten Kings and the Grand Family Head of the Nangong Family. |
+| 태상가주 | **Grand Family Head** | Title held by the Azure Sky Sword King as head of the Nangong Family. |
