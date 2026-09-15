@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "Had he sensed my unusual aura? Jin Mukyung’s eyes trembled.\n\n“Can’t you keep your damn eyes open?”",
+      "defect": "The source specifically has Jin Mukyung’s pupils quiver, then tells Taekyung to open his eyes properly. “Keep your eyes open” instead suggests drowsiness or repeatedly closing them, weakening the physical setup for the punchline.",
+      "id": "F01",
+      "rationale": "눈동자가 파르르 떨렸다 identifies his pupils, while 눈깔 똑바로 안 떠 asks why Taekyung is not opening his eyes properly.",
+      "replacement": "Had he sensed my unusual aura? Jin Mukyung’s pupils quivered.\n\n“Can’t you open your damn eyes properly?”",
+      "severity": "minor",
+      "source": "lines 39–43"
+    },
+    {
+      "confidence": 0.91,
+      "current": "“On the sacred training ground, you say what? ‘Not there’? ‘Not there’?”",
+      "defect": "The second quotation adds “there,” although the source drops 거긴 and repeats only 안 돼요. That repetition sets up Jin Mukyung’s identical 안 돼요 response to Taekyung’s plea, a lexical callback the current wording loses.",
+      "id": "F02",
+      "rationale": "The source sequence is 거긴 안 돼요, then 거긴 안 돼요? 안 돼요?, followed shortly by 안 돼요! Preserving “No?” allows the existing “No!” to deliver the repeated punchline.",
+      "replacement": "“On the sacred training ground, what did you say? ‘Not there’? ‘No’?”",
+      "severity": "minor",
+      "source": "lines 135–145"
+    },
+    {
+      "confidence": 0.9,
+      "current": "“Are you rebelling against me? Is it because you’re going through the storm-and-stress stage of adolescence? Do you want to get beaten with the Twelve Gale Fists?”",
+      "defect": "The idiomatic meaning of 질풍노도의 시기 is conveyed, but the wording drops the repeated 질풍 that creates the joke leading directly into 질풍십이권.",
+      "id": "F04",
+      "rationale": "The source deliberately pivots from 질풍 in the expression for turbulent adolescence to the same word in the technique name. Repeating “gale” preserves that wordplay while retaining the idiom’s adolescent-rebellion function.",
+      "replacement": "“Are you rebelling against me? Is this your gale-and-stress phase of adolescence? Do you want to get beaten with the Twelve Gale Fists?”",
+      "severity": "minor",
+      "source": "line 335"
+    }
+  ],
+  "summary": "The chapter is faithful overall, with four minor defects involving physical detail, a repeated joke, binding terminology, and wordplay.",
+  "version": 1
+}
