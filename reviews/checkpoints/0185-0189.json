@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "The identities of the figures behind the split human curtain at the Grand Training Ground remain unknown.",
+      "defect": "This hook was resolved at the beginning of Chapter 187, where Jin Wikyung is explicitly identified as the person entering through the divided ranks.",
+      "id": "C01",
+      "rationale": "Keeping the entrance unidentified contradicts Chapter 187 and falsely presents a completed reveal as unresolved.",
+      "replacement": "Jin Wikyung entered along the path opened when the martial artists surrounding the Grand Training Ground split their human curtain.",
+      "severity": "major",
+      "source": "Checkpoint summary, Continuity"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Open hooks include Dark Heaven’s objective, the three remnants’ identities, Jeok Cheongang’s intentions toward Taekyung, completion of Taekyung’s commissioned weapon, the Treasured Jade’s whereabouts, consequences of Woo Hwangtae’s conflict, and the final result of the Taekyung–Chulwoo duel.",
+      "defect": "The list drops Lee Seowol’s interrupted promise to explain what favor she wants from Taekyung.",
+      "id": "C02",
+      "rationale": "Lee Seowol begins to name a favor in Chapter 188 but is interrupted by Chulwoo’s challenge before revealing it, making the request an active unresolved hook.",
+      "replacement": "Open hooks include Dark Heaven’s objective, the three remnants’ identities, Jeok Cheongang’s intentions toward Taekyung, completion of Taekyung’s commissioned weapon, the Treasured Jade’s whereabouts, consequences of Woo Hwangtae’s conflict, the favor Lee Seowol wants from Taekyung, and the final result of the Taekyung–Chulwoo duel.",
+      "severity": "major",
+      "source": "Checkpoint summary, Continuity open-hooks paragraph"
+    },
+    {
+      "confidence": 1.0,
+      "current": "More than three hundred Jin martial artists surrounded the Grand Training Ground and split a human curtain with a coordinated weapon display; the people behind it remain unidentified.",
+      "defect": "The active state remains frozen at the Chapter 186 cliffhanger even though Chapter 187 identifies Jin Wikyung and describes his entrance.",
+      "id": "C03",
+      "rationale": "Durable continuity must reflect the latest completed chapter rather than preserve a reveal that has already occurred.",
+      "replacement": "More than three hundred Jin martial artists surrounded the Grand Training Ground and split their human curtain with a coordinated weapon display, opening a path for Jin Wikyung’s entrance.",
+      "severity": "major",
+      "source": "Durable state, active_continuity"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Who or what is revealed when the human curtain at the Grand Training Ground splits apart?",
+      "defect": "This is no longer an open question because Chapter 187 immediately reveals Jin Wikyung entering through the divided ranks.",
+      "id": "C04",
+      "rationale": "Replacing the stale question with the interrupted request from Chapter 188 preserves a genuine unresolved hook without introducing future information.",
+      "replacement": "What favor does Lee Seowol intend to ask of Jin Taekyung?",
+      "severity": "major",
+      "source": "Durable state, open_questions"
+    },
+    {
+      "confidence": 0.96,
+      "current": "> **System**\n>\n> - **Level 65 Choo Dohwan**",
+      "defect": "This simple Level identification uses a bullet-style notice instead of the field-and-name format used for Eunhyang’s equivalent identification in Chapter 186.",
+      "id": "C05",
+      "rationale": "Equivalent System displays should use the same established formatting so the interface does not appear to change without cause.",
+      "replacement": "> **System**\n> **Level:** 65  \n> Choo Dohwan",
+      "severity": "minor",
+      "source": "Chapter 188, Choo Dohwan’s identification panel"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Fist qi?”\n\nIt was still incomplete, but it was unmistakably fist qi. A vicious smile spread across his lips.",
+      "defect": "The established technique term is capitalized as “Fist Qi,” but both occurrences here drift to lowercase.",
+      "id": "C06",
+      "rationale": "The checkpoint’s binding terminology and continuity summary consistently establish “Fist Qi” as the named phenomenon.",
+      "replacement": "“Fist Qi?”\n\nIt was still incomplete, but it was unmistakably Fist Qi. A vicious smile spread across his lips.",
+      "severity": "minor",
+      "source": "Chapter 189, Chulwoo manifests qi around his gauntlets"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Cheers erupted at his generous gesture, rowing while the tide was coming in.",
+      "defect": "The sentence contains a dangling modifier that grammatically makes the cheers perform the rowing, and the literal idiom sounds unnatural in contemporary English.",
+      "id": "C07",
+      "rationale": "The replacement preserves Taekyung’s observation that Jin Wikyung is exploiting the crowd’s excitement while removing the awkward collocation and grammatical ambiguity.",
+      "replacement": "Cheers erupted at his generous gesture. Jin Wikyung was striking while the iron was hot.",
+      "severity": "minor",
+      "source": "Chapter 188, Jin Wikyung announces the duel prizes"
+    }
+  ],
+  "summary": "The reading copies largely maintain the established voice and continuity, but the checkpoint summary and durable state incorrectly preserve the already resolved human-curtain reveal and omit Lee Seowol’s interrupted request as an open hook. There are also minor System-panel, terminology, and prose consistency issues.",
+  "version": 1
+}
