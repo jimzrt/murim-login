@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Hyuk Mujin crumpled smoothly to the floor with a peaceful expression, and Cheongpung caught him.",
+      "defect": "The draft adds that Hyuk Mujin reaches the floor even though Cheongpung catches him as he collapses.",
+      "id": "F01",
+      "rationale": "The source says Cheongpung catches the collapsing Hyuk Mujin; it does not say that Hyuk Mujin falls to the floor.",
+      "replacement": "Hyuk Mujin crumpled with a peaceful expression, and Cheongpung caught him.",
+      "severity": "critical",
+      "source": "편안한 표정으로 스르륵 무너지는 혁무진을 청풍이 받아 들었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I want to stand on equal footing with him.”",
+      "defect": "Internal narration has been turned into dialogue that Taekyung audibly speaks.",
+      "id": "F02",
+      "rationale": "The source continues Taekyung’s unspoken explanation of his competitive pride; there are no quotation marks or speech attribution.",
+      "replacement": "I wanted to stand on equal footing with him.",
+      "severity": "critical",
+      "source": "동등한 위치에 서고 싶다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Grandson and disciple of the Sword Saint Mae Jonghak.",
+      "defect": "The draft replaces the source’s title “Sword God” with the distinct established title “Sword Saint.”",
+      "id": "F03",
+      "rationale": "This occurrence explicitly says 검신, whereas the source later uses 검성 when calling Mae Jonghak the Sword Saint; the distinction must be preserved.",
+      "replacement": "Grandson and disciple of the Sword God Mae Jonghak.",
+      "severity": "major",
+      "source": "검신 매종학의 손자, 제자."
+    },
+    {
+      "confidence": 0.94,
+      "current": "He remembered that crude blue-steel sword and those footsteps.",
+      "defect": "The draft applies the crudeness only to the sword and renders martial footwork as generic footsteps.",
+      "id": "F04",
+      "rationale": "The coordinated phrase characterizes both Cheongpung’s sword and his 발걸음 as unrefined; in this duel context, 발걸음 denotes his footwork.",
+      "replacement": "He remembered Cheongpung’s crude blue-steel sword and clumsy footwork.",
+      "severity": "major",
+      "source": "그의 조잡한 청강검과 발걸음."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Heaven’s Gate Temple was certainly the greatest educational institution in the orthodox Murim, but not every genius under heaven became a disciple of Heaven’s Gate Temple.",
+      "defect": "The institutional status 관도 is rendered as “disciple,” obscuring the contrast with the lineage disciples mentioned immediately afterward.",
+      "id": "F05",
+      "rationale": "관도 means a student or cadet of the educational institution, while the next sentence separately refers to 적전 제자, direct lineage disciples.",
+      "replacement": "Heaven’s Gate Temple was certainly the greatest educational institution in the orthodox Murim, but not every genius under heaven became a student at Heaven’s Gate Temple.",
+      "severity": "major",
+      "source": "천무학관(天武學館)은 분명 정파 무림 최고의 교육 기관이지만 천하의 모든 기재가 천무학관의 관도가 되는 것은 아니다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "**Meridians** decreased by 1.",
+      "defect": "The System attribute 근맥 is reduced to “Meridians,” omitting its sinew or muscular component and changing the affected stat.",
+      "id": "F06",
+      "rationale": "근맥 denotes the body’s sinews or muscles together with its meridians; it is not synonymous with meridians alone.",
+      "replacement": "**Sinews and Meridians** decreased by 1.",
+      "severity": "major",
+      "source": "- [근맥]이 1 하락합니다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "But why did you suddenly try to open the Conception and Governor Vessels? You’re not a Peak internal-energy master, and you’re not reckless enough to risk something like that.",
+      "defect": "Calling Taekyung insufficiently reckless reverses Hyuk Mujin’s jab that he lacks the nerve to take such a risk.",
+      "id": "F07",
+      "rationale": "간 큰 means bold or gutsy; Hyuk Mujin is teasing Taekyung for lacking courage, not crediting him with prudent restraint.",
+      "replacement": "But why did you suddenly try to open the Conception and Governor Vessels? You’re not a Peak internal-energy master, and you don’t have the guts to risk something like that.",
+      "severity": "major",
+      "source": "그런데 갑자기 임독양맥은 왜 건드리신 겁니까? 조장님이 절정 내가고수도 아니고, 그렇다고 위험을 감수할 만큼 간 큰 분도 아니시잖아요."
+    }
+  ],
+  "summary": "Two critical changes introduce an unperformed fall and convert internal narration into spoken dialogue. Additional findings concern a changed title, omitted martial footwork characterization, institutional hierarchy, a mistranslated System attribute, and a softened jab.",
+  "version": 1
+}
