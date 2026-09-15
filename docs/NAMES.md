@@ -237,3 +237,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 야왕 | **Night King** | Rumored epithet for Jin Taekyung in Taiyuan's red-light district. |
 | 화북 | **North China** | Regional designation used when discussing Shanxi drinking culture. |
 | 산서제일가 | **foremost family in Shanxi** | Description of the Jin Family of Taiyuan's standing. |
+| 장 노인 | **Old Man Jang** | Elderly villager who witnesses the Jin Family's arrival. |
+| 현령 | **county magistrate** | County official who greets Jin Taekyung and delivers the City Lord's invitation. |
+| 성주 | **City Lord** | Official who sends the invitation for a gathering with young prodigies. |
+| 적토마 | **Red Hare** | Famous horse used in Hyuk Mujin's exaggerated comparison. |
+| 여포 | **Lü Bu** | Historical warrior used in Hyuk Mujin's exaggerated comparison. |
