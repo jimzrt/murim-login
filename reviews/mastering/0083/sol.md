@@ -22,13 +22,13 @@ There had been women who grew disgusted with his casual approach to relationship
 
 But he had never encountered indifference like this.
 
-*She sure knows she’s hot shit.*
+*She knows exactly how hot she is.*
 
 Even when irritation began to rise, it melted away whenever he looked at Song Song’s sleek figure and dreamlike face. Her fragrant natural scent, worlds apart from the smell of other women’s cosmetics, helped too.
 
 *Don’t get impatient. She’ll fall for me eventually.*
 
-There was still plenty of time. The Minotaur’s Labyrinth was a labyrinth in the truest sense of the word. Raid times could stretch to twice as long as those of other Gates.
+There was still plenty of time. The Minotaur’s Labyrinth was a labyrinth in the truest sense of the word. Raids there could take twice as long as they did in other Gates.
 
 That was more than enough time to pick up one woman.
 
@@ -70,7 +70,7 @@ Im Changsoo had just been about to call his men back, but he closed his mouth an
 
 “Me?”
 
-That alone was absurd enough, but the answer that came a moment later was even more ridiculous.
+That alone was absurd enough, but the answer that followed was even more ridiculous.
 
 “I’m not sure.”
 
@@ -128,17 +128,17 @@ I gave him an equally breezy answer.
 
 *Smack.*
 
-Im Kkeokjeong’s enormous, cauldron-lid-sized hand had approached so quietly that no one noticed it until it clamped over Team Leader Choi’s mouth.
+Im Kkeokjeong’s cauldron-lid-sized hand slipped in from the side and clamped over Team Leader Choi’s mouth.
 
 “Mmph. What are you doing? Mmph, mmph.”
 
-…
+*…*
 
 I wished he would just drop dead right there.
 
 There was a limit to how oblivious one person could be. I was beginning to wonder whether the Sangdong Guild had paid him off.
 
-“I can’t believe I’m talking to people like you.”
+“I can’t believe I’m wasting my breath on people like you.”
 
 Im Changsoo stared at Team Leader Choi and me in baffled disbelief.
 
@@ -156,7 +156,7 @@ Im Changsoo ground his teeth, sparks flying from his eyes.
 
 “I know, asshole. I also know there are eight Minotaurs coming toward us from over there.”
 
-Speak of the devil.
+They say even a tiger comes when you talk about it.
 
 Right on cue, a bull’s bellow echoed through the cavern.
 
@@ -172,17 +172,17 @@ Right on cue, a bull’s bellow echoed through the cavern.
 
 The cavern floor shook with every step the Minotaur herd took.
 
-Watching his team members come racing back at full speed, Im Changsoo spat out a wad of phlegm.
+As his team members came running back with their tails between their legs, Im Changsoo spat out a wad of phlegm.
 
 “Consider yourself lucky.”
 
 “I tend to be pretty lucky.”
 
-Thanks to the System, it wouldn't be an exaggeration to say I was living a second life. I'd been through hardships that could have killed me, but when it came to luck, mine was incredible.
+Thanks to the System, it wouldn’t be an exaggeration to say I was living a second life. I’d been through hell, but when it came to sheer luck, mine was incredible.
 
 “We’ll settle this after I deal with those bastards.”
 
-“That works, too.”
+“That works too.”
 
 “I hope you’re prepared to take responsibility for what you said.”
 
@@ -202,7 +202,7 @@ Of course, he still wasn’t as good as me.
 
 *Well, character and ability aren’t proportional.*
 
-Hunters weren’t selected based on TOEIC scores, school grades, or personality-and-aptitude tests.
+Hunters weren’t selected based on TOEIC scores, school grades, or personality tests.
 
 I shook my head and turned away.
 
@@ -220,9 +220,9 @@ His intentions were obvious from his tone and expression, and a short laugh esca
 
 “You should take responsibility for what you said.”
 
-“You’re too childish. I can’t indulge you. If you have a problem, settle it one-on-one after the raid.”
+“This is too childish for me. If you have a problem, we can settle it one-on-one after the raid.”
 
-Butler Kim and Miss Song-i, who had been watching the situation with calm expressions, spoke up as well.
+Butler Kim and Miss Song, who had been calmly watching the situation, spoke up as well.
 
 “It would be best if both of you calmed down.”
 
@@ -242,7 +242,7 @@ It was fortunate they were approaching cautiously. If they had wanted to, the ba
 
 Im Changsoo spread all five fingers wide.
 
-*That wasn’t five stars… it was five bills.*
+*Those weren’t five stars… He said five bills.*
 
 Was he talking about what I thought he was?
 
@@ -262,9 +262,9 @@ I couldn’t let everyone see how weak I was to money, especially Miss Song.
 
 This was a matter of pride!
 
-*Miss Song-i. Can you hear my heart?*
+*Miss Song. Can you hear my heart?*
 
-I gave her a soulful look and answered.
+I turned a soulful gaze on her and answered.
 
 “I refuse.”
 
@@ -286,7 +286,7 @@ My answer was as firm as a juvenile court judge’s. Im Changsoo bit his lip.
 
 Had I heard him wrong?
 
-For several seconds, all kinds of thoughts raced through my mind. Only after sorting them out did I finally manage to part my lips.
+A thousand thoughts raced through my mind. Only after sorting them out did I finally manage to speak.
 
 “How much? Four billion won?”
 
@@ -302,19 +302,19 @@ Four billion won.
 
 The mind-boggling sum left not only me, but Miss Song and Im Kkeokjeong gaping.
 
-*Why’s this bastard such a big spender?*
+*What the hell? Is this guy made of money?*
 
-He was the team leader of a mid-sized Guild and a B-rank Hunter, so he probably earned a lot.
+He was a B-rank Hunter and the team leader of a mid-sized Guild, so he probably earned a lot.
 
 But casually offering billions of won like this was absurd.
 
-“You’re giving me four billion just like that?”
+“You’re just giving me four billion?”
 
 “Just? That won’t do. This is a bet.”
 
 “What kind of bet?”
 
-“I need something to gain, too.”
+“I need something to gain too.”
 
 The corners of Im Changsoo’s lips twisted upward.
 
@@ -326,11 +326,11 @@ His gaze stopped on one person.
 
 “Me?”
 
-“Yes. I’d like to invite Miss Song Song to join our Guild.”
+“Yes. I’d like to invite Miss Song to join our Guild.”
 
 Im Changsoo bowed politely.
 
-The sudden change in attitude was so different from how he had acted until now that it was downright creepy.
+The sudden change in attitude was so unlike everything he had shown us until now that it was downright creepy.
 
 “Ugh, that’s giving me goose bumps. Just act the way you were before. It looks much better than putting on a fake act.”
 
@@ -338,21 +338,21 @@ The sudden change in attitude was so different from how he had acted until now t
 
 “…”
 
-Miss Song-i certainly had an honest personality.
+Miss Song certainly had an honest personality.
 
 She shuddered as if she really had gotten goose bumps, then folded her arms.
 
-“Shit Chang—no, Im Changsoo, right?”
+“Shit Changsoo—no, Im Changsoo, right?”
 
 “…Yes.”
 
 “Okay. I’ll be blunt. You’re not my type.”
 
-Her blunt declaration came in like a 160-kilometer-per-hour fastball, tight and inside. Im Changsoo’s gaze wavered.
+Her declaration came in like a 160-kilometer-per-hour fastball, tight and inside. Im Changsoo’s gaze wavered.
 
 “You’re tall and handsome, but you look exactly like the cheating type. And I hate wind, you see.[^1] I finally got my hair looking nice, and if the wind musses it up… Ah, no, that’s not what I meant, was it?”
 
-“Y-yes? Yes?”
+“Y-yes? What?”
 
 “Anyway, you’re not my type. I absolutely can’t stand womanizers who flaunt their money.”
 
@@ -362,7 +362,7 @@ To anyone else, I probably had the same expression right now.
 
 “Oh, that look you just had was kind of okay. But I’ve been watching you for a while, and your personality is kind of… You can tell that yourself, can’t you?”
 
-Im Changsoo barely managed to compose his expression before answering.
+Im Changsoo barely managed to compose himself before answering.
 
 “We can work those things out one by one.”
 
@@ -378,7 +378,7 @@ She toyed with her hair as if bashful while delivering one line after another, e
 
 “It’s not like I particularly dislike the Sangdong Guild.”
 
-Im Changsoo, who had been taking hit after hit without a break, brightened and asked:
+After taking hit after hit without a break, Im Changsoo brightened.
 
 “Really?”
 
@@ -390,11 +390,11 @@ Im Changsoo, who had been taking hit after hit without a break, brightened and a
 
 After delivering a massive fuck-you with an innocent expression, Miss Song continued.
 
-“But I’d need to ask permission before switching Guilds. Right, Guild Master?”
+“But I’d need to clear it with my Guild first. Right, Guild Master?”
 
 “Ah, of course.”
 
-Butler Kim had been watching with an interested look in his eyes. Miss Song turned toward Team Leader Choi.
+Butler Kim had been watching with interest. Miss Song turned toward Team Leader Choi.
 
 “Team Leader, what do you think?”
 
@@ -422,9 +422,9 @@ Returning to her frank, easygoing self, Miss Song turned to Im Changsoo.
 
 “I…”
 
-I thought it over for a while.
+I didn’t answer right away.
 
-From the moment I first heard Team Leader Choi’s question, a strange certainty had already taken root deep in my heart.
+From the moment Team Leader Choi had first asked me that question, a strange certainty had already taken root deep inside me.
 
 The certainty that I was stronger than those bastards.
 
@@ -432,7 +432,7 @@ The certainty that I was stronger than those bastards.
 
 A smile spread across Team Leader Choi’s lips.
 
-“I’ll join in, too. A bet is more fun when the stakes are high, isn’t it?”
+“I’ll join in too. A bet is more fun when the stakes are high, isn’t it?”
 
 “Wow, look at you. A real gambler. How much?”
 
@@ -468,7 +468,7 @@ Faith in himself? Or faith in what he’d seen of me so far?
 
 It didn’t matter.
 
-I would simply do my best to achieve my goal.
+All I had to do was give it everything I had and win.
 
 *Boom-boom-boom-boom-boom!*
 
@@ -476,7 +476,7 @@ I would simply do my best to achieve my goal.
 
 Twenty meters ahead, I could see every one of them clearly.
 
-Hot breath steaming from their nostrils. Heat. Muscles. Weapons held high.
+Hot breath streaming from their nostrils. Heat. Muscles. Weapons held high.
 
 *This is my first time fighting a cow.*
 
