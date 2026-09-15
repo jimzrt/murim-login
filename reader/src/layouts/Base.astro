@@ -94,7 +94,10 @@ const manifestHref = withBase("manifest.webmanifest");
             }
             html[data-theme="dark"] pagefind-modal,
             html[data-theme="dark"] pagefind-searchbox {
-              --pf-hover: color-mix(in srgb, var(--navy) 24%, var(--paper));
+              --pf-background: #243552;
+              --pf-border: color-mix(in srgb, var(--gold) 45%, #4a5a70);
+              --pf-modal-backdrop: color-mix(in srgb, #02060e 78%, transparent);
+              --pf-hover: color-mix(in srgb, var(--navy) 28%, #243552);
               --pf-mark: var(--gold-bright);
             }
           </style>
