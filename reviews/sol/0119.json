@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "I could barely suppress it with my existing internal energy. After engaging Pung Yang in a fierce battle while letting the reins go completely, my condition was gradually worsening.",
+      "defect": "The draft first states that Taekyung was successfully suppressing the qi, then says he had completely released it. The source instead says suppression would have been uncertain even if attempted, while he actually fought with the qi entirely unrestrained.",
+      "id": "F01",
+      "rationale": "The source contrasts a hypothetical attempt at suppression with Taekyung’s actual decision to let the Scorching Yang Qi run completely free.",
+      "replacement": "It would have been touch and go even if I’d tried to suppress it with my existing internal energy, but I’d fought Pung Yang at close quarters with the reins completely off, and my condition was steadily worsening.",
+      "severity": "major",
+      "source": "기존의 공력으로 억눌러도 될까 말까인데, 아예 고삐를 놓은 상태로 풍양과 접전을 벌였더니 점차 악화되어 가고 있었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "*At this rate, the Temporary Strength Pill’s effect will last one quarter of an hour at most…*\n\nHe had to decide the battle within that time.\n\nHe must not use the last Temporary Strength Pill. Taking three in succession could put his life at risk.\n\n“One quarter of an hour…”",
+      "defect": "The draft converts the approximate traditional duration 한 식경 into an exact quarter hour and omits that this is the remaining duration from the present moment.",
+      "id": "F02",
+      "rationale": "한 식경 is an approximate span measured by the time needed to eat a meal, not an exact fifteen-minute quantity; the context also concerns how much longer the effect will persist.",
+      "replacement": "*At this rate, the Temporary Strength Pill’s effect will last only one meal’s time longer at most…*\n\nHe had to settle the battle within that time.\n\nHe must not use the last Temporary Strength Pill. Taking three in succession could put his life at risk.\n\n“One meal’s time…”",
+      "severity": "major",
+      "source": "‘지금 상태대로라면 잠력단의 효능은 길어 봤자 한 식경…….’\n\n한 식경, 그 안에 승부를 봐야 한다.\n\n마지막 남은 잠력단은 결코 쓰여선 안 된다. 연이어 세 개를 복용한다면 목숨이 위험할 수도 있다.\n\n“한 식경이라…….”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Even if they had been manipulated by the Head Elder’s schemes, they had tried to kill one another and shed countless drops of blood.",
+      "defect": "The draft changes actual reciprocal killing into attempted killing, materially softening the established bloodshed between the two factions.",
+      "id": "F03",
+      "rationale": "서로가 서로를 죽이고 states that members of the two sides killed one another, not merely that they tried to do so.",
+      "replacement": "Even if they had been manipulated by the Head Elder’s schemes, they had killed one another, and both sides had shed a great deal of blood.",
+      "severity": "critical",
+      "source": "비록 대장로의 술수에 놀아났다고 해도 서로가 서로를 죽이고, 각자 수많은 피를 흘렸다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "I felt his rough fingers grasp my tongue, drenched in blood.",
+      "defect": "The draft omits Pung Yang’s physical action of pulling Taekyung’s tongue and also leaves the modifier placement momentarily ambiguous about what is drenched in blood.",
+      "id": "F04",
+      "rationale": "잡아당기는 specifically describes the fingers pulling or tugging the tongue, while 핏물로 흠뻑 젖은 modifies the tongue.",
+      "replacement": "I felt his rough fingers tugging on my blood-soaked tongue.",
+      "severity": "critical",
+      "source": "핏물로 흠뻑 젖은 혀를 잡아당기는 거친 손가락이 느껴진다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "It would be nice if he died of a stroke from anger, but there was no chance of that happening.",
+      "defect": "The draft replaces the anger-induced illness 화병 with the medically specific and unsupported mechanism of a stroke.",
+      "id": "F05",
+      "rationale": "화병 evokes being consumed or made ill by pent-up anger; it does not specifically mean a stroke.",
+      "replacement": "It would be nice if he died of rage, but there was no chance of that happening.",
+      "severity": "minor",
+      "source": "저놈이 화병으로 죽어 주면 참 고맙겠는데 그럴 일은 없겠지."
+    },
+    {
+      "confidence": 0.99,
+      "current": "To put it simply, the difference was like that between a traditional herbal medicine and an amphetamine.",
+      "defect": "The draft makes the generic 각성제 more explicit by naming amphetamine, adding a specific drug absent from the source.",
+      "id": "F06",
+      "rationale": "각성제 means a stimulant in general; the source does not identify a particular chemical or drug class.",
+      "replacement": "To put it simply, the difference was like that between traditional herbal medicine and a stimulant.",
+      "severity": "minor",
+      "source": "비유하자면 한약과 각성제의 차이라고 할 수 있겠다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“There are plenty of people who want to die. Or is it a woman this time?”",
+      "defect": "Rendering 년 as the neutral “woman” sanitizes Pung Yang’s deliberately contemptuous, gendered insult.",
+      "id": "F07",
+      "rationale": "놈 and especially 년 are derogatory here; preserving that hostility is necessary to retain Pung Yang’s register.",
+      "replacement": "“There are plenty of bastards who want to die. Or is it a bitch this time?”",
+      "severity": "major",
+      "source": "“죽고 싶은 놈들이 널렸군. 아니, 이번에는 년인가?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "But may I ask you for one thing?",
+      "defect": "The draft renders 대신 as a generic contrast and loses Lee Seowol’s explicit framing of the request as the price or condition attached to their sacrifice.",
+      "id": "F08",
+      "rationale": "대신 means “in return” or “in exchange” here, establishing the pragmatic link between buying time for Taekyung and asking him to avenge them.",
+      "replacement": "In return, may I ask you for one thing?",
+      "severity": "major",
+      "source": "대신 부탁 하나만 해도 될까요?"
+    },
+    {
+      "confidence": 0.97,
+      "current": "*Damn it. What a waste.*",
+      "defect": "“What a waste” suggests squandered resources rather than Taekyung’s realization that he missed winning by an extremely narrow margin.",
+      "id": "F09",
+      "rationale": "In context, 아깝네 reacts to Pung Yang’s fading enhancement and his admission that a moment’s delay could have cost him the fight.",
+      "replacement": "*Damn it. I was so damn close.*",
+      "severity": "minor",
+      "source": "젠장, 더럽게 아깝네."
+    }
+  ],
+  "summary": "The draft is broadly faithful but contains one critical factual softening, several altered mechanical or quantitative details, and localized register shifts.",
+  "version": 1
+}
