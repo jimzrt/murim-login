@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "“I-I turned twenty this year.”",
+      "defect": "The draft changes the young man’s age. He says he passed the age of twenty this year, not that he turned twenty.",
+      "id": "F01",
+      "rationale": "약관 denotes the age of twenty, while 넘겼습니다 means he has passed it; the following response also treats him as already beyond that threshold.",
+      "replacement": "“I-I passed twenty this year.”",
+      "severity": "critical",
+      "source": "“오, 올해 약관을 넘겼습니다.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The Iron Sword Squad Leader was one of the Mount Heng Sword Sect’s commanders—a Hall Leader, or perhaps a Pavilion Leader.",
+      "defect": "The draft incorrectly treats Hall Leader and Pavilion Leader as uncertain alternative titles for the Iron Sword Squad Leader. The source is enumerating the senior offices held by the assembled people.",
+      "id": "F02",
+      "rationale": "대주, 당주, and 각주 are separate leadership positions represented among the gathered senior figures, not competing descriptions of one man’s position.",
+      "replacement": "They were squad leaders, hall leaders, and pavilion leaders of the great Mount Heng Sword Sect.",
+      "severity": "major",
+      "source": "대항산검문의 대주. 당주, 혹은 각주."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Any male taller than a cartwheel—even a child—was killed without mercy, while the women were taken for pleasure or sold as slaves.",
+      "defect": "“For pleasure” makes the source’s euphemistic 취하다 more sexually explicit.",
+      "id": "F03",
+      "rationale": "취하다 literally leaves what is done to the women implicit; “were taken” preserves that deliberate euphemism without censoring its implication.",
+      "replacement": "Any male taller than a cartwheel—even a child—was killed without mercy, while the women were taken or sold as slaves.",
+      "severity": "major",
+      "source": "마차 바퀴보다 큰 사내는 아이라도 가차 없이 죽이고, 여인은 취하거나 노예로 팔아 버린다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "“Until recently, I was the deputy leader of the Earth Tiger Band.”\n\n“The Earth Tiger Band? Ah, I remember. You were their deputy leader.”",
+      "defect": "“Earth Tiger Band” assigns an unsupported literal meaning to the unlisted proper name 토호단.",
+      "id": "F04",
+      "rationale": "The source supplies no characters establishing “Earth Tiger,” and the terminology rules prohibit inventing a grand translated name for an uncertain term.",
+      "replacement": "“Until recently, I was the deputy leader of the Toho Band.”\n\n“The Toho Band? Ah, I remember. You were their deputy leader.”",
+      "severity": "major",
+      "source": "“얼마 전까지 토호단에 부단주로 있었습니다.”\n\n“토호단? 아, 기억나. 거기 부단주가 자네였군.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "The fast, precise strike of a First Rate martial artist split the young man’s heart.",
+      "defect": "The draft omits the single-blow force encoded by 일격 and does not use the established “One Strike” rendering.",
+      "id": "F05",
+      "rationale": "일격 specifies one decisive strike rather than merely an unspecified attack.",
+      "replacement": "A First Rate martial artist’s fast, precise One Strike split the young man’s heart.",
+      "severity": "minor",
+      "source": "일류 무인의 빠르고 정확한 일격이 심장을 갈랐다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“To think we have to put a girl who hasn’t even turned twenty in the Sect Leader’s seat at a time like this.”",
+      "defect": "“Put ... in the Sect Leader’s seat” loses both the resentful obligation to serve her as their superior and the contemptuous force of 어린 계집.",
+      "id": "F06",
+      "rationale": "모셔야 하다 means they must acknowledge and serve her in the superior role, while 어린 계집 is deliberately belittling rather than neutral.",
+      "replacement": "“To think we have to serve some little girl who isn’t even twenty as Sect Leader at a time like this.”",
+      "severity": "major",
+      "source": "“이런 상황에 약관도 안 된 어린 계집을 문주라고 모셔야 하다니.”"
+    }
+  ],
+  "summary": "The draft contains one altered age quantity, a misrepresented hierarchy, an unsupported translated group name, one over-explicit euphemism, and two localized terminology/register losses.",
+  "version": 1
+}
