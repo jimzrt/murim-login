@@ -1483,6 +1483,72 @@ html[data-scroll-locked="1"] body {
   clip: rect(0 0 0 0);
 }
 
+.report-line-chip {
+  position: absolute;
+  z-index: 40;
+  padding: 0.35rem 0.7rem;
+  border: 1px solid var(--gold);
+  border-radius: 999px;
+  background: var(--paper);
+  color: var(--ink);
+  font: 650 0.82rem var(--ui);
+  box-shadow: 0 0 0 1px var(--navy-deep);
+  cursor: pointer;
+}
+
+.report-line-chip:hover {
+  background: color-mix(in srgb, var(--gold) 16%, var(--paper));
+}
+
+.report-line-quote {
+  margin: 0 0 0.85rem;
+  padding-left: 0.75rem;
+  border-left: 0.2rem solid var(--gold);
+  color: var(--muted);
+  font-family: var(--serif);
+  font-size: 0.95rem;
+  line-height: 1.5;
+  max-height: 6.5rem;
+  overflow: auto;
+  white-space: pre-wrap;
+}
+
+.report-line-label {
+  display: grid;
+  gap: 0.4rem;
+  margin-bottom: 0.75rem;
+  font-size: 0.88rem;
+}
+
+.report-line-label textarea {
+  width: 100%;
+  box-sizing: border-box;
+  resize: vertical;
+  min-height: 5.5rem;
+  padding: 0.55rem 0.65rem;
+  color: var(--ink);
+  background: color-mix(in srgb, var(--paper) 88%, var(--rule));
+  border: 1px solid var(--rule);
+  border-radius: 0.3rem;
+  font: 1rem/1.45 var(--ui);
+}
+
+.report-line-status {
+  min-height: 1.2rem;
+  margin: 0 0 0.75rem;
+  color: var(--muted);
+  font-size: 0.88rem;
+}
+
+.report-line-status.is-error {
+  color: #8b2e2e;
+}
+
+.report-line-actions {
+  display: flex;
+  justify-content: flex-end;
+}
+
 @media (prefers-reduced-motion: reduce) {
   .site-header,
   .chapter-dock,

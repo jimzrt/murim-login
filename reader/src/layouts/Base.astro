@@ -3,6 +3,7 @@ import { ClientRouter } from "astro:transitions";
 import SiteHeader from "../components/SiteHeader.astro";
 import JumpDialog from "../components/JumpDialog.astro";
 import SettingsDialog from "../components/SettingsDialog.astro";
+import ReportLine from "../components/ReportLine.astro";
 import { withBase } from "../lib/chapters";
 import "../styles/global.css";
 
@@ -16,6 +17,7 @@ interface Props {
 const { title, chapter, description, ogType = chapter != null ? "article" : "website" } = Astro.props;
 const base = import.meta.env.BASE_URL;
 const site = Astro.site;
+const reportLineUrl = import.meta.env.PUBLIC_REPORT_LINE_URL ?? "";
 const canonical = new URL(Astro.url.pathname, site);
 const desc = description ?? "A translation of the web novel Murim Login.";
 const ogImage = new URL(withBase("cover.jpg"), site).href;
@@ -23,7 +25,7 @@ const manifestHref = withBase("manifest.webmanifest");
 ---
 
 <!doctype html>
-<html lang="en" data-base={base}>
+<html lang="en" data-base={base} data-report-line-url={reportLineUrl || undefined}>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
@@ -113,6 +115,9 @@ const manifestHref = withBase("manifest.webmanifest");
     </div>
     <div transition:persist="settings-dialog">
       <SettingsDialog />
+    </div>
+    <div transition:persist="report-line">
+      <ReportLine />
     </div>
     {
       import.meta.env.PROD && (
