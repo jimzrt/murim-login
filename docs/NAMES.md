@@ -250,3 +250,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 천자 | **Son of Heaven** | Honorific title for the Emperor. |
 | 황상 | **Emperor** | Address or reference to the reigning Emperor. |
 | 태자 | **Crown Prince** | Title of the Emperor's older brother who was reportedly assassinated. |
+| 석칠 | **Seokchil** | Middle-aged porter with nearly twenty years of experience. |
+| 성운표국 | **Seongun Escort Bureau** | Escort Bureau in southern Shanxi Province. |
+| 송 표두 | **Escort Chief Song** | Unnamed person responsible for the escort run. |
+| 연화봉 | **Lotus Peak** | Peak on Huashan from which Cheongpung recently fled. |
