@@ -6,11 +6,11 @@ Those were the first words Jin Wikyung spoke after we entered his office. He stu
 
 “You’ve worked hard.”
 
-But despite the warm words, Jin Mukyung answered with a sullen expression.
+Despite the warmth in his voice, Jin Mukyung answered with a sullen look.
 
-“I almost called a mortician.”
+“I nearly had to call an undertaker.”
 
-“You really know how to say beautiful things.”
+“You really have a way with words.”
 
 “You—whew. I’m letting that slide because Hyung-nim is here.”
 
@@ -22,7 +22,7 @@ Jin Wikyung gave a short laugh and gestured for us to sit. I took a seat, sipped
 
 The office was neat and orderly. When I had last visited fifteen days ago, the place had been a disaster, with all kinds of things strewn everywhere.
 
-Now, even the table that should have been buried beneath stacks of documents was spotless.
+Now even the table that should have been buried beneath stacks of documents was spotless.
 
 “…It was a difficult time.”
 
@@ -44,7 +44,7 @@ Some of that might have been because the Head Elder had installed puppets, but e
 
 Jin Wikyung had been born into a prestigious martial family, yet he was both a skilled administrator and an outstanding martial artist. In other words, he was the oddity.
 
-“I want to rest for just one day. Just one day. I want to rest. I want to rest.”
+“I want one day off. Just one day. I want to rest. I want to rest.”
 
 As Jin Wikyung muttered the same words over and over like a man with obsessive-compulsive disorder, Jin Mukyung clicked his tongue.
 
@@ -56,19 +56,19 @@ I nodded.
 
 Taking care of my family in the real world was already backbreaking. If I had entered Jin Wikyung’s body instead of Jin Taekyung’s when I first logged in…
 
-It would have been nothing short of bleak.
+The thought alone was bleak.
 
-The Jin Family of Taiyuan even had hundreds of retainers under its command. The only advantage was that, as the homeowner, I wouldn’t have to worry about my jeonse deposit going up.[^1]
+The Jin Family of Taiyuan had hundreds of retainers under its command. The only advantage was that, as the property owner, I wouldn’t have to worry about my jeonse deposit going up.[^1]
 
-“The eldest son is supposed to carry a heavy burden.”
+“The eldest son has a heavy burden to bear.”
 
 Jin Mukyung snorted at my words.
 
 “You have no right to say that, so shut up. Isn’t that right, Hyung-nim?”
 
-Jin Wikyung stared at me with moist eyes.
+Jin Wikyung stared at me with tears in his eyes.
 
-“How does he always manage to pick such touching things to say?”
+“How does he always know exactly what to say?”
 
 “No, Hyung-nim.”
 
@@ -88,13 +88,13 @@ Whump!
 
 Jin Mukyung muttered with a face like he had bitten into something foul.
 
-“This damned household. See if I ever come back.”
+“This damned family. See if I ever come back.”
 
 “Mukyung, you come here too.”
 
 “No. I won’t, even if you beat me to death.”
 
-“We’ve all gathered in one place for once, and you can’t grant your only older brother’s request?”
+“We’ve finally gathered in one place, and you can’t grant a request from your only older brother?”
 
 Jin Mukyung flinched at the hurt in his voice.
 
@@ -108,7 +108,7 @@ Buried against Jin Wikyung’s chest alongside me, Jin Mukyung silently mouthed:
 
 *Hmm. I’d better stay out of sight for a while.*
 
-Apparently he would be leaving soon anyway. I only had to avoid him for a few days.
+Apparently he would be leaving again soon anyway. I only had to avoid him for a few days.
 
 *If things get too bad, I can always log out.*
 
@@ -128,21 +128,21 @@ The tears of a human weapon made me solemn in spite of myself. I patted Jin Wiky
 
 “Hang in there.”
 
-Jin Mukyung, who had looked like death until moments ago, also gave Jin Wikyung a sympathetic look.
+Even Jin Mukyung, who had looked ready to kill someone only moments ago, gave him a sympathetic look.
 
-“Hyung-nim. If it’s really that difficult, take this guy and put him to work.”
+“Hyung-nim, if it’s truly that difficult, take this guy and put him to work.”
 
 “…?”
 
 What the hell was he talking about? Dumbfounded, I asked,
 
-“Usually, at a time like this, shouldn’t you at least say, ‘I’ll help,’ even if you don’t mean it?”
+“Usually, at a time like this, aren’t you supposed to say, ‘I’ll help,’ even if you don’t mean it?”
 
-Jin Mukyung answered confidently.
+Jin Mukyung answered proudly.
 
 “A martial artist does not make empty promises.”
 
-“Then why drag me into it while I’m sitting here?”
+“Then why drag me into this when I was just sitting here?”
 
 “You have plenty of time.”
 
@@ -158,7 +158,7 @@ Jin Mukyung answered confidently.
 
 Jin Mukyung thought for a moment, then frowned.
 
-“A completely useless bastard. Hyung-nim, he does have good strength, so he would make an excellent laborer. I’ll be going now.”
+“You’re utterly useless. Hyung-nim, he’s strong, at least, so he’d make an excellent laborer. I’ll be going now.”
 
 “Wait.”
 
@@ -168,7 +168,7 @@ As Jin Mukyung swiftly turned to leave, a giant forepaw—no, hand—caught him 
 
 “Pardon?”
 
-“You have to hear why I called you two before you leave.”
+“You should at least hear why I called you two before you leave.”
 
 “…What is it?”
 
@@ -190,7 +190,7 @@ Ding.
 
 “…”
 
-Goddammit. Now it doesn’t even ask.
+Goddammit. Now it didn’t even bother asking.
 
 * * *
 
@@ -232,7 +232,7 @@ Ding.
 
 That meant I could log out without any problems. Having a Quest forced on me still left a bad taste in my mouth, but this much was acceptable.
 
-*Not that I’m in a position to refuse anyway.*
+*Not that I’m in any position to refuse.*
 
 Unlike me, who had already accepted reality, Jin Mukyung was resisting with all his might.
 
@@ -244,19 +244,19 @@ Jin Mukyung struggled to continue.
 
 Jin Wikyung answered,
 
-“Yes. They are guests we cannot afford to miss.”
+“Yes. They are guests who must be there.”
 
 “Then why do we—or rather, why do I—have to go?”
 
 “…”
 
-Look at him, struggling to exclude himself.
+Look at him struggling to leave me out of it.
 
 Still, I agreed with part of his question.
 
 *Why us, specifically?*
 
-Jin Wikyung’s answer only made the question even bigger.
+Jin Wikyung’s answer only deepened the mystery.
 
 “The Sect Leader of the Mount Heng Sword Sect requested it personally.”
 
@@ -264,23 +264,23 @@ I blurted out a question before I could stop myself.
 
 “The Sect Leader?”
 
-I had watched the Blood Wolf Sword Lee Cheonbaek die right before my eyes. Lee Seogeun, the Second Young Master, had been poisoned, and the Young Sect Leader whom I had never even met had reportedly died an absurd death during a mounted-bandit raid on the undefended sect.
+I had watched the Blood Wolf Sword Lee Cheonbaek die right before my eyes. Lee Seogeun, the Second Young Master, had been poisoned, and the Young Sect Leader, whom I had never even met, had apparently died an absurd death when mounted bandits raided the undefended sect.
 
 *I thought the Mount Heng Sword Sect’s main force had been wiped out at Eight Spring Gorge too.*
 
-But the Sect Leader?
+And yet they had a Sect Leader?
 
 Jin Mukyung’s reaction was much the same.
 
-“The damage must have been severe. I only heard about it through rumors, but wouldn’t it be understandable if they closed the sect’s gates?”
+“Their losses must have been severe. I only heard the rumors, but it wouldn’t be strange for them to close their gates under the circumstances.”
 
 Jin Wikyung shook his head.
 
-“They were once one of the pillars of Shanxi Murim. Don’t underestimate their foundations. If they have a rallying point, they can aim for a revival.”
+“They were once one of the pillars of Shanxi Murim. We must not underestimate their foundations. If they have someone to rally around, they can rise again.”
 
-A rallying point.
+Someone to rally around.
 
-The new Sect Leader of the Mount Heng Sword Sect—the person who had requested that Jin Wikyung send Mukyung and me—seemed to be that new rallying point. I asked:
+The new Sect Leader of the Mount Heng Sword Sect—the person who had asked for Jin Mukyung and me—must have been that new center. I asked,
 
 “Who is it?”
 
@@ -292,7 +292,7 @@ I had never heard the name before. Judging by her surname, she seemed to have so
 
 “You don’t remember the name?”
 
-“A hidden son? A distant relative? I’m not sure.”
+“A hidden son? A distant relative? I have no idea.”
 
 “As expected, you don’t remember.”
 
@@ -304,11 +304,11 @@ What did he mean, I didn’t remember?
 
 As I tilted my head, Jin Wikyung gave me an odd look.
 
-“The new Sect Leader of the Mount Heng Sword Sect is a woman. She is Lee Cheonbaek’s third child, the one and only younger sister of the deceased Young Sect Leader and Lee Seogeun.”
+“The new Sect Leader of the Mount Heng Sword Sect is a woman. She is Lee Cheonbaek’s third child and the only sister of the deceased Young Sect Leader and Lee Seogeun.”
 
 At that moment, a fragment of memory flashed through my mind.
 
-The stage in my memory was the main arena. The actor was Lee Seogeun. His face was flushed bright red as he shouted at me:
+The stage was the main arena. The actor was Lee Seogeun. Red-faced, he had shouted at me:
 
 *You shameless bastard! You tore my sister’s clothes and tried to violate her!*
 
@@ -326,7 +326,7 @@ Only Jin Mukyung, who had no idea what we were talking about, blinked in confusi
 
 “Uh, well. You could say I do, and you could also say I don’t.”
 
-“What the hell does that mean? So what exactly is your relationship with her?”
+“What the hell does that mean? What exactly is your relationship with her?”
 
 “Hmm.”
 
@@ -340,13 +340,13 @@ I let out a deep sigh.
 
 * * *
 
-Long story short, Jin Mukyung agreed to go to the Mount Heng Sword Sect too. Jin Wikyung had used the masterstroke he had been saving.
+Long story short, Jin Mukyung agreed to go to the Mount Heng Sword Sect too. Jin Wikyung had saved one decisive card for last.
 
-*I heard the Mount Heng Sword Sect has a lot of martial arts manuals…*
+*I hear the Mount Heng Sword Sect has a great many martial arts manuals…*
 
-*Even if they do, what good is that? It’s not like I can read them.*
+*What does it matter how many they have? It isn’t as though they’ll let me read them.*
 
-*It does matter.*
+*It matters.*
 
 *Pardon?*
 
@@ -356,7 +356,7 @@ Long story short, Jin Mukyung agreed to go to the Mount Heng Sword Sect too. Jin
 
 *Right now.*
 
-Everything moved at lightning speed. It had been only two hours since Jin Wikyung saw us off and we climbed into the four-horse carriage.
+Everything moved with astonishing speed. It had been only two hours since Jin Wikyung saw us off and we climbed into the four-horse carriage.
 
 Jin Mukyung sat across from me, grumbling.
 
@@ -366,13 +366,13 @@ The land was so vast that, even by a rough estimate, it would take three days to
 
 For Jin Mukyung, who wanted to see the Mount Heng Sword Sect’s Peak martial arts as soon as possible, three days was an eternity.
 
-“Hey, coachman, can’t you go any faster?”
+“Hey, coachman. Can’t you go any faster?”
 
 A reply came from the driver’s box beyond the partition.
 
-“First of all, I’m not the coachman. And no, I can’t go any faster. You may not know this from inside, but it’s freezing out here, and I’m about to freeze to death. Anyway, that’s how things are.”
+“First of all, I’m not the coachman. Second, no, I can’t go any faster. You may not know this from inside, but it’s freezing out here, and I’m about to freeze to death. Anyway, that’s the situation.”
 
-“Use the whip and spur the horses on! A coachman should be able to do at least that much.”
+“Put your back into whipping the horses! A coachman should be able to manage that much.”
 
 “I’ll say it again: I’m not the coachman. Also, the whip is frozen solid, so it would be more accurate to call it an icicle. If I jab the horses in the rear with this icicle, I think they’ll get very angry…”
 
@@ -380,7 +380,7 @@ A reply came from the driver’s box beyond the partition.
 
 “Before we left, you shouted that the attendants were getting in your way and ordered everyone to get lost. The coachman got lost too.”
 
-Jin Mukyung thought about it carefully, then smacked his forehead.
+Jin Mukyung thought it over, then slapped his forehead.
 
 “Oh, right.”
 
@@ -390,13 +390,13 @@ As expected, this guy wasn’t normal either.
 
 “Then who are you?”
 
-Recalling the law of conservation of idiots, I answered,
+Thinking of the law of conservation of idiots, I answered,
 
 “Hyuk Mujin.”
 
 “Who’s Hyuk Mujin?”
 
-“You’ll know when you see his face. Hey, Mujin!”
+“You’ll know when you see him. Hey, Mujin!”
 
 The partition slid down, revealing Hyuk Mujin’s frost-covered face. His teeth chattered nonstop as Jin Mukyung studied him closely, then snapped his fingers.
 
@@ -406,7 +406,7 @@ Hyuk Mujin answered curtly,
 
 “Yes. I’m that guy.”
 
-“Then why didn’t you get lost too? You should’ve brought the coachman instead.”
+“Then why didn’t you get lost too? You should’ve brought the coachman back.”
 
 As if he had been waiting for that question, Hyuk Mujin proudly puffed out his chest.
 
@@ -420,25 +420,25 @@ Jin Mukyung’s head snapped toward me.
 
 “Did you call him?”
 
-“No. He was already there without me calling him.”
+“No. He was already there even though I didn’t.”
 
-“That’s what he says?”
+“You heard him.”
 
 Hyuk Mujin looked back and forth between us with a wounded expression.
 
-“You two really are brothers, I suppose.”
+“You two really are brothers.”
 
 “Did you say your name was Hyung Mujin? Explain exactly what you mean by that.”
 
 Jin Mukyung bristled and spoke in a sharp voice, but I merely let out a long yawn.
 
-Hyuk Mujin clowning around was nothing new; when it came to dealing with that, I already had a full sixty-year cycle of internal energy.
+This was hardly my first time dealing with Hyuk Mujin’s nonsense. By now, I had a full sixty-year cycle’s worth of experience.
 
 “It’s not Hyung Mujin. It’s Hyuk Mujin. I’ll try jabbing the horses in the rear with this thing, whether it’s a whip or an icicle.”
 
 Clack.
 
-Jin Mukyung glared at the partition, which had quickly slammed shut, then sighed and settled back into his seat.
+Jin Mukyung glared at the partition as it snapped shut, then sighed and settled back into his seat.
 
 “I shouldn’t have expected anything. If the water upstream is filthy, how could the water downstream be clean… What are you doing?”
 
@@ -450,7 +450,7 @@ I wrapped a fur hide around myself as I answered,
 
 “Yeah. Circulate my qi.”
 
-“Then why does it look to me like you’re getting ready to sleep?”
+“Then why does it look like you’re getting ready to sleep?”
 
 “You’re imagining things.”
 
@@ -466,9 +466,9 @@ I absolutely refused to come back and find my arms or legs broken. Better to mak
 
 “You know what happens if you touch me, right? Huh? Do you know what qi deviation is or not?”
 
-“Seriously, this bastard’s been getting on my nerves for a while now…”
+“Seriously, this bastard’s been getting on my nerves…”
 
-The moment Jin Mukyung raised his fist, I hurriedly closed my eyes. From the outside, it would look as though I had begun circulating my qi. As expected, no fist came flying at me.
+The moment Jin Mukyung raised his fist, I hurriedly closed my eyes. From the outside, it would look as though I had begun circulating my qi. Just as I expected, his fist never came.
 
 All right, then. Now…
 

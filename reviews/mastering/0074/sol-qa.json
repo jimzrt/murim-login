@@ -1,0 +1,94 @@
+{
+  "chapter": 74,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.252,
+    "source_characters": 6459,
+    "source_paragraphs": 236,
+    "translation_characters": 14543,
+    "translation_paragraphs": 232
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "system_brackets",
+      "details": {
+        "line": 203
+      },
+      "message": "System window contains square brackets"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "내공",
+        "preferred": "internal energy"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "운기조식",
+        "preferred": "circulate one's qi"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "로그인",
+        "preferred": "Login"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "사천",
+        "preferred": "Sichuan"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "전세",
+        "preferred": "jeonse lease"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "원단",
+        "preferred": "New Year's Day"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "갑자",
+        "preferred": "jiazi"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "시진",
+        "preferred": "shichen"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
