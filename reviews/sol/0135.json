@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "What a shame. I could have kept chewing him out for at least another shichen.",
+      "defect": "The untranslated traditional time unit is not explained for English readers.",
+      "id": "F01",
+      "rationale": "시진 is a culturally specific time unit whose duration is not apparent from the English term alone.",
+      "replacement": "What a shame. I could have kept chewing him out for at least another shichen.[^1]\n\n[^1]: A shichen is a traditional time unit equal to approximately two hours.",
+      "severity": "minor",
+      "source": "안타깝다. 최소한 한 시진은 더 갈굴 수 있었는데."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“I remember it clearly. That guy—no, that gentleman—fell down the stairs and pulled the thing below my waist straight down… Whew. Just thinking about it still makes me dizzy.”",
+      "defect": "The draft invents a downward direction and obscures the source action of grabbing and giving the euphemistically named body part a sustained yank.",
+      "id": "F02",
+      "rationale": "잡아당겼 means grabbed and pulled or yanked; 쭉 conveys the sustained extent of the pull, not a downward direction.",
+      "replacement": "“I remember it clearly. That guy—no, that gentleman—fell down the stairs, grabbed the thing between my legs, and gave it a long yank… Whew. Just thinking about it still makes me dizzy.”",
+      "severity": "critical",
+      "source": "“똑똑히 기억하오. 저놈, 아니 저분이 계단에서 넘어지면서 내 아래 물건을 쭉 잡아당겼…… 후우, 그때만 생각하면 지금도 아찔하구려.”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "What came into view was the four young prodigies with their heads lined up against the floor—and Hyuk Mujin, whose neck was strangely held stiff.",
+      "defect": "The literal description of Mujin's stiff neck is unnatural and fails to convey that he is standing with his head held conspicuously high.",
+      "id": "F03",
+      "rationale": "목이 빳빳하게 선 describes Mujin's conspicuously stiff, upright posture, contrasting with the four prostrated figures.",
+      "replacement": "What came into view were four young prodigies with their heads planted on the floor in a row—and Hyuk Mujin standing there with his head held oddly high.",
+      "severity": "minor",
+      "source": "내 시선에 들어온 것은 나란히 대가리를 박고 있는 네 명의 후기지수와 어쩐지 목이 빳빳하게 선 혁무진이었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Did you tell him to do this?”",
+      "defect": "The singular object changes the action: Taekyung is asking whether Mujin ordered the four prostrated scions to assume this position, not whether he instructed one unidentified man.",
+      "id": "F04",
+      "rationale": "이러라고 시킨 대상 is supplied by the immediately preceding four 후기지수, so the implied object is plural.",
+      "replacement": "“Did you order them to do this?”",
+      "severity": "critical",
+      "source": "“네가 이러라고 시킨 거냐?”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“…”\n\n“No, don’t deny it. You never had to worry about money, and you had powerful backing. You relied on that and lived large all this time, didn’t you? Picking fights wherever you went.”",
+      "defect": "The scion's spoken denial is omitted, and its negation is reassigned to Taekyung, changing the speakers and the call-and-response structure.",
+      "id": "F05",
+      "rationale": "아닙니다 is the scion's denial; 아니긴 뭐가 아니야 is Taekyung directly challenging that denial.",
+      "replacement": "“…No.”\n\n“What do you mean, no? You never had to worry about money, and you had powerful backing. You relied on that and lived large all this time, didn’t you? Picking fights wherever you went.”",
+      "severity": "critical",
+      "source": "“……아닙니다.”\n\n“아니긴 뭐가 아니야. 돈 걱정 없고, 뒷배 든든하고. 그거 믿고 지금까지 짱짱하게 잘나갔을 거 아냐. 응? 여기저기 시비도 걸고 다니고.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Give me a number. I beat that Woo Jintae so badly because he was acting too high and mighty. Since you voluntarily paid your taxes by apologizing, I’ll take that into consideration.”",
+      "defect": "The draft explicitly identifies apologizing as the reason for leniency, but the source does not; it uses a joking voluntary-payment metaphor for their submission.",
+      "id": "F06",
+      "rationale": "자진 납세 literally invokes voluntary tax payment as a comic metaphor; adding ‘by apologizing’ supplies a causal action absent from this line.",
+      "replacement": "“Give me a number. I beat that Woo Jintae so badly because he was acting too high and mighty. Since you paid up voluntarily, I’ll take that into consideration.”",
+      "severity": "major",
+      "source": "“말해 보라고. 우진태 저놈은 너무 나대서 저렇게 팬 거지, 너희는 자진 납세 했으니까 정상참작 해 준다.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“…”\n\n“What the hell? Jang Childeuk? The Jang Childeuk I know?”",
+      "defect": "The draft moves Taekyung's internal questions into spoken dialogue and weakens the profanity in his preceding spoken reaction.",
+      "id": "F07",
+      "rationale": "Only 뭐여, 시벌 is enclosed in quotation marks in the source; the following questions are narration-level direct thought. 시벌 is a profane variant of 씨발 and is stronger than ‘hell.’",
+      "replacement": "“…What the fuck?”\n\n*Jang Childeuk? The Jang Childeuk I know?*",
+      "severity": "major",
+      "source": "“……뭐여, 시벌.”\n\n장칠득? 내가 아는 그 장칠득?"
+    },
+    {
+      "confidence": 0.98,
+      "current": "*Damn. That’s creepy.*",
+      "defect": "The draft replaces the narrator's explicit physical reaction of goose bumps with a generalized judgment that the situation is creepy.",
+      "id": "F08",
+      "rationale": "소름 denotes goose bumps, while 와 씨 supplies the startled profanity; preserving both maintains the clipped internal reaction.",
+      "replacement": "*Holy shit. Goose bumps.*",
+      "severity": "major",
+      "source": "‘와 씨, 소름.’"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“We’re out of candied hawthorn skewers now.”",
+      "defect": "The established culturally specific food term is used without the required explanatory footnote.",
+      "id": "F09",
+      "rationale": "빙당호로 is correctly rendered as ‘candied hawthorn skewers,’ but the binding terminology decision requires a concise explanation.",
+      "replacement": "“We’re out of candied hawthorn skewers[^2] now.”\n\n[^2]: Candied hawthorn skewers are a traditional snack of fruit skewers coated in hardened sugar.",
+      "severity": "minor",
+      "source": "“빙당호로 이제 없어요.”"
+    }
+  ],
+  "summary": "Nine actionable findings: three altered actions or speakers, two losses of register or characterization, two terminology/clarity issues, and two missing cultural footnotes.",
+  "version": 1
+}
