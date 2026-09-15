@@ -153,3 +153,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 계용옥미갱 | **chicken-and-corn soup** | Egg-thickened corn soup. |
 | 계용옥미앵 | **chicken-and-corn soup** | Source spelling variant of 계용옥미갱 for the same dish. |
 | 광수 | **Gwangsu** | First attacker at the Phoenix Inn; identified by the others after Taekyung punches him. |
+| 적풍단 | **Red Wind Band** | Rising mounted-bandit power from the northern plateau. |
+| 적풍단주 | **Red Wind Band Leader** | Unnamed leader of the Red Wind Band; commands two hundred followers. |
+| 관제묘 | **Guandi Temple** | Shrine type mentioned in martial-arts novels. |
+| 흑도 | **dark-path figures** | Generic category of underworld martial forces. |
