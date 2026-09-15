@@ -1,0 +1,31 @@
+{
+  "chapter": 121,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.39,
+    "source_characters": 5501,
+    "source_paragraphs": 166,
+    "translation_characters": 13145,
+    "translation_paragraphs": 187
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "대협",
+        "preferred": "Great Hero or Sir depending tone"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "내상",
+        "preferred": "Internal Injury"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
