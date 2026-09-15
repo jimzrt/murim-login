@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“I don’t mind being left out. Are you sure you’ll be all right?”",
+      "defect": "The draft makes Taekyung volunteer to be excluded, but he is saying he does not mind leaving Cheongpung out. The following narration explicitly considers taking the other five without Cheongpung.",
+      "id": "F01",
+      "rationale": "The omitted object is Cheongpung, the person the official has just asked whether they must bring; changing it to Taekyung reverses who would be excluded.",
+      "replacement": "“I don’t mind leaving him out. But are you sure you’ll be all right?”",
+      "severity": "critical",
+      "source": "“전 빼도 상관없긴 한데. 괜찮으시겠어요?”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "That might not matter in a battle of dozens against dozens. But if hundreds fought hundreds, or thousands fought thousands, even an ordinary Peak master couldn’t turn the tide by himself.",
+      "defect": "The first sentence reverses the tactical qualification. The source says a small battle might be another matter, whereas the draft says inferior individual skill might not matter in a small battle.",
+      "id": "F02",
+      "rationale": "The contrast explains that exceptional individual strength can matter at smaller scales but cannot readily overturn a mass battle.",
+      "replacement": "A battle of dozens against dozens might be another story, but if hundreds fought hundreds, or thousands fought thousands, even an ordinary Peak master couldn’t turn the tide by himself.",
+      "severity": "major",
+      "source": "수십 대 수십의 싸움이라면 몰라도 수백 대 수백, 수천 대 수천의 전투가 벌어진다면 어지간한 절정 고수로는 전세를 뒤엎을 수 없다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“A provincial office is generally built large and sturdy to prepare for wartime, but this place wasn’t originally supposed to be this large.”",
+      "defect": "The draft introduces an abandoned construction plan. The source states that provincial offices are not normally this large, setting up the resident prince as the reason this one is exceptional.",
+      "id": "F03",
+      "rationale": "본래 describes the normal scale of this type of complex here, not an original plan for this particular building.",
+      "replacement": "“Provincial offices are generally built large and sturdy in preparation for wartime, but they aren’t normally this large.”",
+      "severity": "major",
+      "source": "“성부라는 곳은 전시를 대비하여 크고 단단하게 짓기 마련이지만, 본래 이 정도 크기는 아니라오.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "*Well, there’s no reason people can’t learn martial arts just because they already have a profession.*",
+      "defect": "The draft invents a conflict between martial arts and having a profession. Taekyung’s point is simply that there is no reason soldiers should refrain from learning martial arts when such arts are readily available.",
+      "id": "F04",
+      "rationale": "버젓이 있는 emphasizes the ready existence or availability of martial arts; the source says nothing about civilian professions.",
+      "replacement": "*Well, it’s not as if there’s any reason they shouldn’t learn martial arts when they’re readily available.*",
+      "severity": "major",
+      "source": "‘하긴, 버젓이 있는 무공을 굳이 익히지 말라는 법은 없으니까.’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“You could just say you’re worried he’ll cause an accident. Why do you have to put it like that…?”",
+      "defect": "“Cause an accident” is an unnatural literalization of 사고 치다 and suggests a physical mishap rather than Taekyung causing trouble.",
+      "id": "F05",
+      "rationale": "사고 치다 is the ordinary expression for making trouble, while 뭘 또 그렇게 mocks Wikyung for euphemistically dressing up that concern.",
+      "replacement": "“You could just say you’re worried he’ll cause trouble. Why do you have to dress it up like that…?”",
+      "severity": "minor",
+      "source": "“그냥 사고 칠 것 같아서 걱정된다고 말씀하시면 되지, 뭘 또 그렇게…….”"
+    },
+    {
+      "confidence": 0.95,
+      "current": "“…What a load of bullshit.”",
+      "defect": "The stacked profanity is substantially softened, reducing Taekyung’s bitterly vulgar reaction to the flirting.",
+      "id": "F06",
+      "rationale": "지랄 염병 is deliberately strong, cumulative profanity; retaining only “bullshit” loses its intensity and comic register.",
+      "replacement": "“…What a fucking load of bullshit.”",
+      "severity": "major",
+      "source": "“……지랄 염병하네.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Seeing the true face of incompetent public authority suddenly gave me a bout of post-nut clarity.",
+      "defect": "The draft makes the sexual implication explicit. 현자 타임 is being used as a comic euphemism for sudden hollow clarity or disillusionment, and the binding rules prohibit replacing such euphemism with more graphic English.",
+      "id": "F07",
+      "rationale": "This preserves the slang’s mock-philosophical “sage time” flavor and Taekyung’s abrupt disillusionment without explicitly naming ejaculation.",
+      "replacement": "Seeing the true face of incompetent public authority suddenly plunged me into a spell of hollow enlightenment.",
+      "severity": "major",
+      "source": "무능한 공권력의 실체를 보자 갑자기 현자 타임이 찾아온다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "When it came to reading the room, I was second to none. After spending so long eating the dust of others as an F-rank Hunter, I could understand the atmosphere in 0.1 seconds.",
+      "defect": "“Eating the dust of others” means falling behind and does not convey 눈칫밥, which characterizes Taekyung as having survived by constantly monitoring other people’s moods.",
+      "id": "F08",
+      "rationale": "눈칫밥을 먹다 describes living at others’ mercy and learning to gauge their reactions, directly explaining his rapid social perception.",
+      "replacement": "When it came to reading the room, I was second to none. After spending so long scraping by as an F-rank Hunter, always watching everyone’s mood, I could read the room in 0.1 seconds.",
+      "severity": "major",
+      "source": "눈치 빠르기로는 둘째가라면 서러운 나다. F급 헌터로 눈칫밥을 하도 처먹다 보니 0.1초면 분위기 파악이 끝난다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I do! I know it very well! I had so much fun watching it!”\n\n“We’re glad to hear you know us… Wait. What do you mean, ‘watching it’?”",
+      "defect": "“Watching” incorrectly turns the referenced novel into screen media and weakens the final realization that Taekyung has mistaken the real Zhongnan Sect for one he knows from a novel.",
+      "id": "F09",
+      "rationale": "In context, 보다 refers to Taekyung reading the novel whose title he begins to say; the English must support the concluding line, “This wasn’t a novel.”",
+      "replacement": "“I do! I know it very well! I had so much fun reading about it!”\n\n“We’re glad to hear you know us… Wait. What do you mean, ‘reading about it’?”",
+      "severity": "major",
+      "source": "“알죠! 잘 알죠! 얼마나 재밌게 봤는데!”\n\n“잘 안다니 기쁘…… 잠깐, 재밌게 보다니?”"
+    }
+  ],
+  "summary": "The draft contains one critical subject reversal, several altered causal or tactical explanations, and meaningful losses or distortions of the source’s register and wordplay.",
+  "version": 1
+}
