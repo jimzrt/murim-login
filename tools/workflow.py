@@ -820,11 +820,9 @@ def durable_files(number: int, update: dict) -> dict[Path, str]:
         korean = row["korean"]
         if korean not in source:
             raise ValueError(f"new name is absent from source: {korean}")
-        if (
-            korean in seen_names
-            or korean in known_names
-            or re.search(rf"^\|\s*{re.escape(korean)}\s*\|", names_text, re.MULTILINE)
-        ):
+        if korean in known_names or re.search(rf"^\|\s*{re.escape(korean)}\s*\|", names_text, re.MULTILINE):
+            continue
+        if korean in seen_names:
             raise ValueError(f"duplicate names ledger key: {korean}")
         seen_names.add(korean)
         names_text += f"\n| {korean} | **{row['english']}** | {row['notes']} |"
