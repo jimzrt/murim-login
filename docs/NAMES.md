@@ -439,3 +439,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 홍가촌 | **Hong Family Village** | Clan village said to be three hundred li from Jang Family Village. |
 | 신령님 | **Mountain Spirit** | Jang-pal's mistaken address for the unnamed old man. |
 | 장씨 | **Jang** | Unspaced source variant of 장 씨; surname form for Jang-pal. |
+| 반박귀진 | **Returning to Simplicity** | Supreme Peak technique or phenomenon used by Jeok Cheongang. |
+| 이형환위 | **Shifting Form and Position** | Supreme Peak movement or evasion technique used by Jeok Cheongang. |
+| 허공섭물 | **Seizing an Object Through Empty Space** | Technique Jeok Cheongang uses to lift Jang Taebo remotely. |
+| 백련정강 | **Baekryeon Jeonggang** | Extremely hard steel used to forge Hyuk Mujin's sword. |
+| 강자지존 | **Might Makes Right** | Murim principle invoked as the basis for Mae Jonghak's challenge. |
