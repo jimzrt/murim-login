@@ -101,6 +101,13 @@ def apply_review_replacements(text: str, review: dict) -> str:
         old = finding["current"]
         replacement = finding["replacement"]
         starts = [match.start() for match in re.finditer(re.escape(old), text)]
+        matched_old = old
+        if not starts and "…." in old:
+            candidate = old.replace("….", "…")
+            candidate_starts = [match.start() for match in re.finditer(re.escape(candidate), text)]
+            if len(candidate_starts) == 1:
+                starts = candidate_starts
+                matched_old = candidate
         if len(starts) != 1:
             thought_formatting = (
                 old.startswith("“") and old.endswith("”")
@@ -119,7 +126,7 @@ def apply_review_replacements(text: str, review: dict) -> str:
             start = paragraph_starts[0]
         else:
             start = starts[0]
-        spans.append((start, start + len(old), replacement, finding["id"]))
+        spans.append((start, start + len(matched_old), replacement, finding["id"]))
     spans.sort()
     for previous, current in zip(spans, spans[1:]):
         if current[0] < previous[1]:
