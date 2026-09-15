@@ -200,3 +200,10 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 중상 | **Severe Injury** | System condition label causing a major drop in all stats. |
 | 이름 없는 검 | **Unnamed Sword** | Oldest inventory item summoned when no item named 아무거나 can be found. |
 | 만년한철 | **Ten-Thousand-Year Cold Iron** | Material that destroys Pung Yang's Body-Protecting Qi when the Unnamed Sword satisfies a specific condition. |
+| 완전 회복 | **Full Recovery** | Immediate Quest success reward that heals Taekyung's injuries. |
+| 뛰어난 금창약 | **Superior Wound Medicine** | Quest reward used to treat external injuries. |
+| 십년하수오 | **Ten-Year He Shouwu** | Quest reward used to treat internal injuries. |
+| 어제의 적, 오늘의 동지 | **Yesterday's Enemy, Today's Ally** | Quest completed when Taekyung delivers Wikyung's invitation. |
+| 회광반조 | **final rally** | Terminal burst of apparent vitality before death. |
+| 운칠기삼 | **seven parts luck and three parts skill** | Established Korean saying used in Taekyung's reflection. |
+| 운구기일 | **nine parts luck and one part qi** | Taekyung's playful variation on 운칠기삼. |
