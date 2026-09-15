@@ -1,6 +1,6 @@
 # Cheol Mubaek (철무백)
 
-- **Safe through:** Chapter 125
+- **Safe through:** Chapter 175
 - **Aliases:** Tiger of Mount Heng
 - **Role:** Ninth-generation successor of the Shura Annihilating Fist and Peak master known as the Tiger of Mount Heng; longtime close friend and peer of Lee Cheonbaek; severely injured in battle; entrusted the manual to Lee Seowol and remains her protector
 - **Personality:** Fierce, short-tempered, intimidating, and fiercely protective; becomes gentle and attentive toward Seowol

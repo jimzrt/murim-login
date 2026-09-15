@@ -449,3 +449,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 국밥 | **gukbap** | Korean dish of rice served in hot soup; footnoted in the reading copy. |
 | 부마도위 | **Imperial Son-in-Law** | Imperial title mentioned by Jang Taebo. |
 | 천하오대세가 | **Five Great Families** | Expanded source form of 오대세가. |
+| 열화신공 | **Fire Gate Divine Technique** | Secret internal cultivation technique of the Fire Gate Clan, preserved through one-person succession without leakage. |
