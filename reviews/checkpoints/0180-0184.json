@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "The Heavenly Wind Band was annihilated near Datong by an unknown Supreme Peak master; Jin Taekyung privately suspects Mae Jonghak.",
+      "defect": "The suspicion is attributed to Jin Taekyung, but Chapter 180 establishes that Jin Wikyung is the person who privately suspects Mae Jonghak.",
+      "id": "C01",
+      "rationale": "The incorrect subject creates a material continuity error in the active state and conflicts with both Chapter 180 and the checkpoint summary.",
+      "replacement": "The Heavenly Wind Band was annihilated near Datong by an unknown Supreme Peak master; Jin Wikyung privately suspects Mae Jonghak.",
+      "severity": "major",
+      "source": "Durable state, active_continuity"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Jin Taekyung is absent while having a weapon forged and has stopped sending news; Jin Mukyung is undergoing seclusion training after enlightenment.",
+      "defect": "This entry preserves Taekyung’s Chapter 180 status even though a later active-continuity entry records his return, leaving the state internally contradictory through Chapter 184.",
+      "id": "C02",
+      "rationale": "Taekyung’s return is already recorded separately in the active state, so the obsolete absence clause should be removed while Mukyung’s still-current status remains.",
+      "replacement": "Jin Mukyung remains in seclusion training after receiving enlightenment.",
+      "severity": "major",
+      "source": "Durable state, active_continuity"
+    },
+    {
+      "confidence": 0.99,
+      "current": "What consequences will follow Taekyung's absence from the Jin Family's grand banquet?",
+      "defect": "Taekyung is no longer absent; he returned after the banquet began. The unresolved hook concerns his lateness, not a continuing absence.",
+      "id": "C03",
+      "rationale": "This retains Wipeng’s threatened reprimand and any fallout from Taekyung missing the opening without contradicting his Chapter 181–184 return.",
+      "replacement": "What consequences will follow Taekyung's late return to the Jin Family's grand banquet?",
+      "severity": "minor",
+      "source": "Durable state, open_questions"
+    },
+    {
+      "confidence": 0.97,
+      "current": "The current Sect Leader, the Shanxi Extraordinary Hero, is fairly well known, and so is the Heaven Shaking Sword, isn’t he?",
+      "defect": "The head of the Jin Family is called the Family Head elsewhere in the packet; “Sect Leader” incorrectly applies sect terminology to the family and creates title drift.",
+      "id": "C04",
+      "rationale": "Using “Family Head” maintains the organization-specific terminology established throughout the reading copies and active state.",
+      "replacement": "The current Family Head, the Shanxi Extraordinary Hero, is fairly well known, and so is the Heaven Shaking Sword, isn’t he?",
+      "severity": "major",
+      "source": "Chapter 181, Baek Museong discussing the Jin Family"
+    },
+    {
+      "confidence": 1.0,
+      "current": "...!",
+      "defect": "The span uses three periods instead of the required ellipsis character.",
+      "id": "C05",
+      "rationale": "The packet’s binding Markdown rules require the single ellipsis character, and the surrounding chapters otherwise follow that convention.",
+      "replacement": "…!",
+      "severity": "minor",
+      "source": "Chapter 180, Woo Hwangtae recalling the gate guard’s response"
+    },
+    {
+      "confidence": 0.96,
+      "current": "At the same time, his speech, which had previously been close to polite, was cut in half.",
+      "defect": "“His speech was cut in half” is an opaque literal calque and does not naturally communicate that Chulwoo has discarded what little politeness he was using.",
+      "id": "C06",
+      "rationale": "The replacement makes the hierarchy and tonal shift immediately clear in contemporary English without changing the action or attitude.",
+      "replacement": "At the same time, what little politeness there had been vanished from his speech.",
+      "severity": "minor",
+      "source": "Chapter 183, Taekyung observing Chulwoo’s change in address"
+    },
+    {
+      "confidence": 0.94,
+      "current": "Do you even know what it means to interfere in someone else’s personal gratitude and grudges in Murim?",
+      "defect": "“Personal gratitude and grudges” is stiff, dictionary-like cultivation phrasing rather than natural English dialogue.",
+      "id": "C07",
+      "rationale": "“Debts and grudges” naturally preserves both sides of the relationship concept while matching Chulwoo’s blunt, confrontational voice.",
+      "replacement": "Do you even know what it means to interfere in someone else’s personal debts and grudges in Murim?",
+      "severity": "minor",
+      "source": "Chapter 183, Chulwoo challenging Taekyung’s interference"
+    }
+  ],
+  "summary": "The reading copies remain coherent and preserve the packet’s hooks, but the durable state contains a wrong character attribution and an obsolete contradiction about Taekyung’s absence. There is also one family-title drift, one stale open-question formulation, a punctuation-formatting error, and two conspicuous literal calques.",
+  "version": 1
+}
