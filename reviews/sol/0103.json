@@ -1,0 +1,156 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "The other young man, Jin Taekyung, had also claimed he would circulate his qi before promptly falling into a dead sleep.",
+      "defect": "The draft makes Taekyung similar in having claimed he would circulate his qi, but the source says the same combination of exceptional looks and talent also applies to him.",
+      "id": "F01",
+      "rationale": "The topic marked by 도 마찬가지다 refers back to the qualities Hyuk Mujin envies, while the intervening clause identifies Taekyung by his current behavior.",
+      "replacement": "The same went for the other young man, Jin Taekyung, who had said he would circulate his qi only to fall into a deathlike sleep.",
+      "severity": "major",
+      "source": "운기조식을 할 거라더니 죽은 듯이 자고 있는 또 다른 청년, 진태경도 마찬가지다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "*How can brothers look this much alike?*",
+      "defect": "“Look alike” narrows the resemblance to physical appearance, although the following lines extend it to talent and personality.",
+      "id": "F02",
+      "rationale": "닮다 is broader here than visual resemblance and introduces the full list of shared traits.",
+      "replacement": "*How can two brothers be this alike?*",
+      "severity": "minor",
+      "source": "‘아무리 형제라지만 이렇게까지 닮을 수가 있나.’"
+    },
+    {
+      "confidence": 0.92,
+      "current": "*What the hell is this?*",
+      "defect": "The draft weakens the coarse disgust in 개 같은 경우 and makes the complaint vague.",
+      "id": "F03",
+      "rationale": "The source uses a distinctly vulgar description of the situation, consistent with Hyuk Mujin's mounting resentment.",
+      "replacement": "*What kind of bullshit is this?*",
+      "severity": "minor",
+      "source": "‘이런 개 같은 경우를 봤나.’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "for a full hour",
+      "defect": "The duration is halved.",
+      "id": "F04",
+      "rationale": "One 시진 is a traditional two-hour period, and 장장 emphasizes how long the scolding lasted.",
+      "replacement": "for a full two hours",
+      "severity": "critical",
+      "source": "다른 한 놈은 마차도 제대로 못 몬다며 장장 한 시진을 구박하더니 이젠 속 편하게 운기조식 중이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Really? I suppose it was immature. I only learned it superficially.”",
+      "defect": "The draft makes the technique itself “immature” instead of Mukyung admitting that his superficial study left him unskilled in using it.",
+      "id": "F05",
+      "rationale": "미숙했나 보군 describes the speaker's lack of proficiency, causally attributed to 겉핥기식으로 익힌 것.",
+      "replacement": "“Really? I suppose I’m still unskilled at it, since I only learned it superficially.”",
+      "severity": "major",
+      "source": "“그래? 역시, 겉핥기식으로 익힌 거라 미숙했나 보군.”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "Yet Jin Taekyung himself did not stir.\n\nHaaah. Haaah.",
+      "defect": "“Haaah” reads as conscious sighing or panting rather than the quiet sleeping breaths that continue despite Mukyung's shout.",
+      "id": "F06",
+      "rationale": "쌔액 represents steady sleeping or snoring sounds, which establish the repeated deadpan gag.",
+      "replacement": "Yet Jin Taekyung himself did not stir.\n\nSnnn. Snnn.",
+      "severity": "minor",
+      "source": "쌔액. 쌔액."
+    },
+    {
+      "confidence": 0.95,
+      "current": "Smack, smack, smack.\n\nHaaah. Haaah.",
+      "defect": "The repeated sound again suggests panting rather than Taekyung continuing to sleep through the blows.",
+      "id": "F07",
+      "rationale": "The unchanged sleeping sound after three smacks is the source's comic contrast.",
+      "replacement": "Smack, smack, smack.\n\nSnnn. Snnn.",
+      "severity": "minor",
+      "source": "쫙, 쫙, 쫙.\n\n쌔액. 쌔액."
+    },
+    {
+      "confidence": 0.97,
+      "current": "supposedly a First Rate martial artist",
+      "defect": "The draft drops 초, lowering Taekyung from the upper echelon of First Rate martial artists to an ordinary First Rate martial artist.",
+      "id": "F08",
+      "rationale": "초일류 denotes a level above ordinary 일류 and matters to Mukyung's disbelief that such an accomplished martial artist remains unresponsive.",
+      "replacement": "supposedly a top-tier First Rate martial artist",
+      "severity": "major",
+      "source": "이 정도면 내공 한 톨 없는 양민도 비명을 지르며 일어나야 하는데, 명색이 초일류의 무인에 산서잠룡이라는 놈이 꿈쩍도 안 한다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "*In all my life, I’ve never seen anyone so defenseless.*\n\nAnd to think he was his younger brother.",
+      "defect": "The draft reverses the presentation of narration and direct thought: the narrated observation becomes an italicized first-person thought, while Mukyung's explicit thought becomes third-person narration.",
+      "id": "F09",
+      "rationale": "Only the second Korean sentence is marked as direct thought, and its first-person kinship reference must remain Mukyung's internal voice.",
+      "replacement": "Jin Mukyung had never seen anyone so defenseless in all his life.\n\n*And that guy is my younger brother.*",
+      "severity": "major",
+      "source": "살다 살다 이렇게 무방비한 놈은 처음 봤다.\n\n‘그리고 그놈이 내 동생이라니.’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Mujin.”",
+      "defect": "Dropping Hyuk removes the immediate contrast with Mukyung's mistaken “Hyung Mujin” and Hyuk Mujin's correction.",
+      "id": "F10",
+      "rationale": "Taekyung deliberately uses the correct full name directly after Mukyung mangles it, which sustains the name-based joke.",
+      "replacement": "“Hyuk Mujin.”",
+      "severity": "major",
+      "source": "“혁무진.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "*Right. Fighting the moment I got back would be a little much, on a human level.*",
+      "defect": "“On a human level” is an unnatural literal calque that does not sound like Taekyung's conversational narration.",
+      "id": "F11",
+      "rationale": "인간적으로 is a colloquial appeal to basic reasonableness here, not a reference to a literal human level.",
+      "replacement": "*Right. Come on, fighting him the moment I got back would be a bit much.*",
+      "severity": "minor",
+      "source": "그래, 인간적으로 오자마자 싸우는 건 좀 아니지."
+    },
+    {
+      "confidence": 0.96,
+      "current": "for the upcoming New Year’s Day.",
+      "defect": "“New Year’s Day” can imply January 1 and does not identify the traditional lunisolar holiday meant by 원단.",
+      "id": "F12",
+      "rationale": "원단 denotes the first day of the traditional lunar year in this setting.",
+      "replacement": "for the upcoming Lunar New Year.",
+      "severity": "minor",
+      "source": "곧 다가오는 원단에 그들을 태원진가로 초대하십시오."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The Mount Heng Sword Sect needed a new center of gravity, and one person emerged.",
+      "defect": "“Center of gravity” is a stiff literal calque for the person around whom the depleted sect could regroup.",
+      "id": "F13",
+      "rationale": "구심점 is figurative here and naturally refers to a unifying leader or rallying point.",
+      "replacement": "The Mount Heng Sword Sect needed a new rallying point, and one person emerged.",
+      "severity": "minor",
+      "source": "항산검문은 새로운 구심점이 필요했고, 그렇게 한 사람이 등장했다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "The last surviving blood relative of Lee Cheonbaek, and the current Sect Leader of the Mount Heng Sword Sect.",
+      "defect": "“Blood relative” broadens the kinship to any relative, while 핏줄 identifies Seowol as Lee Cheonbaek's last surviving descendant.",
+      "id": "F14",
+      "rationale": "The source describes continuation of Lee Cheonbaek's direct bloodline, not merely a surviving member of his extended family.",
+      "replacement": "Lee Cheonbaek’s last surviving descendant, and the current Sect Leader of the Mount Heng Sword Sect.",
+      "severity": "major",
+      "source": "이천백의 마지막 남은 핏줄이자 현(現) 항산검문주."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Hyuk Mujin looked at me with a thoroughly excited expression.",
+      "defect": "The draft replaces the visible cue of his flushed face with a generic emotional expression.",
+      "id": "F15",
+      "rationale": "상기된 얼굴 specifically describes his face as flushed, while the context supports excitement as its cause.",
+      "replacement": "Hyuk Mujin looked at me, his face flushed with excitement.",
+      "severity": "minor",
+      "source": "혁무진이 잔뜩 상기된 얼굴로 나를 바라봤다."
+    }
+  ],
+  "summary": "The draft contains one altered duration, several meaningful losses of characterization or hierarchy, misplaced narrative viewpoint, and localized register and terminology issues.",
+  "version": 1
+}

@@ -1,0 +1,1292 @@
+<!-- packet-manifest
+{
+  "included": [
+    {
+      "path": "source/0103.txt",
+      "sha256": "ae06fbca5ceff14562a6d8614e6638fffabe87541afa550f827df5c0f154728d",
+      "bytes": 12732
+    },
+    {
+      "path": "docs/CONTEXT.json",
+      "sha256": "f63acdfe9360554d6ac479305f4683677366193d81f851d60146781001bffbfc",
+      "bytes": 3483
+    },
+    {
+      "path": "docs/NAMES.md",
+      "sha256": "edca992f4b4006a53d7972e8fb4ba8ae8a29b5fbe3f9f14606f8defb668ad3d9",
+      "bytes": 13037
+    },
+    {
+      "path": "characters/Hyuk Mujin.md",
+      "sha256": "d6d8e071f9c9c412c7dca71b75d1d80c0a86a393c3ea78902e3cae0373916fbf",
+      "bytes": 5010
+    },
+    {
+      "path": "characters/Jin Mukyung.md",
+      "sha256": "10daee4ec131e2cab6b00d00b6707ce6a7e3ac9f35733f6a0e58d443c236c9d9",
+      "bytes": 1220
+    },
+    {
+      "path": "characters/Jin Taekyung.md",
+      "sha256": "8edf1578c0e4a8d84a0b52cf025246ba678425f7b09b9d44cc73c0871c153473",
+      "bytes": 24018
+    },
+    {
+      "path": "characters/Lee Cheonbaek.md",
+      "sha256": "016251f3d28442626cee42fcebe18a3d94984239e2ed362cc6e677586ff6f793",
+      "bytes": 3100
+    },
+    {
+      "path": "characters/Lee Seowol.md",
+      "sha256": "8553adf9d0ebccbb9cf3c350031a075ded2443827e127b889a4fe1b989e1ff75",
+      "bytes": 434
+    },
+    {
+      "path": "characters/Wipeng.md",
+      "sha256": "ddd5ac8087bfd997baca9223d630da1784ecb007e6f12afb382a30893ec223c1",
+      "bytes": 4603
+    },
+    {
+      "path": "docs/ADDRESS.md",
+      "sha256": "42b74a820011433db0d9aa9ca761de9d7cd2533325cfe69e83cc21ae432c1dd0",
+      "bytes": 13031
+    }
+  ],
+  "estimated_tokens": 16196
+}
+-->
+
+# Durable State Update — Chapter 103
+
+Return exactly one JSON object and no Markdown fence. Record only facts established
+by this chapter. Do not use tools, edit prose, infer future events, or copy archived
+profile continuity.
+
+`context` must contain exactly the durable context schema shown below, with version
+1 and safe_through 103. Keep at most
+2 continuity_sources. Keep
+`active_continuity` to at most 20 concise items, `open_questions` to at most 8
+items, and `temporary_decisions` to at most 8 items. Keep the serialized context
+under 16384 UTF-8 bytes. Use only chapter
+numbers through 103. `profile_updates` may replace one exact, uniquely occurring
+complete line in a listed profile, and only an Aliases, Role, Personality, Voice, or
+Relationships line. Use `profile_creations` only for a newly introduced named
+character without a listed profile. Filenames must be plain `.md` basenames.
+`names` contains only newly required Korean-to-English rows; Korean keys must occur
+in the source. `address_pairs` contains only newly required speaker→addressee rows;
+each Korean key must occur in the source or already appear in the address ledger,
+and at least one endpoint must occur in the source (first-person narrators may be
+ledger-only). Speaker and addressee must be Hangul source spellings (Arabic digits
+allowed in titles such as 1팀장; do not romanize). Do not invent risk-register rows. Beat
+plot paragraphs are plain strings; continuity and translation decisions are concise
+list items.
+Return this exact shape:
+
+{
+  "chapter": 103,
+  "beat": {
+    "plot": ["chapter plot paragraph"],
+    "continuity": ["binding continuity item"],
+    "translation_decisions": ["binding terminology or voice decision"]
+  },
+  "context": {
+    "version": 1,
+    "safe_through": 103,
+    "continuity_sources": [103],
+    "active_continuity": ["active fact"],
+    "open_questions": ["unresolved question"],
+    "temporary_decisions": ["temporary translation decision"]
+  },
+  "names": [
+    {"korean": "source spelling", "english": "English rendering", "notes": "brief note"}
+  ],
+  "address_pairs": [
+    {
+      "speaker": "speaker Korean",
+      "addressee": "addressee Korean",
+      "kinship": "kinship or role relation",
+      "normal_address": "established English address",
+      "speech_level": "speech level",
+      "notes": "brief note"
+    }
+  ],
+  "profile_updates": [
+    {
+      "path": "characters/Listed Profile.md",
+      "current": "- **Role:** exact current full line",
+      "replacement": "- **Role:** finished replacement full line"
+    }
+  ],
+  "profile_creations": [
+    {
+      "filename": "English Name.md",
+      "korean": "source name",
+      "english": "English Name",
+      "aliases": [],
+      "role": "stable role",
+      "personality": "stable traits",
+      "voice": "stable voice",
+      "relationships": "stable relationships"
+    }
+  ]
+}
+
+Use empty arrays when no name, address-pair, or profile change is required.
+
+## Prior durable context
+
+```json
+{
+  "active_continuity": [
+    "Sangdong Guild's Security Team was assigned to surveil Jin Taekyung under Im Chunsoo's direction.",
+    "Choi Byungil led the failed operation against Taekyung and was defeated alongside the other five field Hunters.",
+    "Kim Junsu is the Security Team's sole Familiar mage and revealed the operation's information when Taekyung threatened his remaining hair.",
+    "Hong Woojin was a B-rank Familiar mage hired from outside by Team Leader 1.",
+    "Taekyung seized the Security Team's supplies, treated the wounded Hunters, and held them until Team Leader 1 released them.",
+    "Im Chunsoo initiated the investigation after Im Changsoo was extorted for a hundred million won.",
+    "Seong Jinho is Taekyung's thirty-year-old civilian goshiwon manager and sworn-brother-like friend in Bucheon.",
+    "Im Chunsoo is a Level 75 A-rank ice mage and Guild Master of Sangdong Guild.",
+    "Im Chunsoo attacked Taekyung with roughly a dozen ice spikes after inviting him to walk, and Taekyung stopped them with Fire Wall.",
+    "Kim Hwajong is a Level 80 mage and former Class 3 Hunter Training Center instructor known as Butler Kim.",
+    "Kim Hwajong trained Im Chunsoo, who was a Class 25 trainee assigned to the 28th Regiment, First Battalion, Second Company.",
+    "The property being used as the surveillance base remains unidentified.",
+    "The reason Kim Hwajong arrived at the confrontation remains unknown.",
+    "Team Leader 1 assesses Taekyung as a top-tier B-rank or A-rank Hunter.",
+    "The Security Team faces written disciplinary action, a pay cut, and possible dismissal for the failed assault.",
+    "Taekyung returned home with Kim Hwajong and deferred their proposed exchange of stories.",
+    "Taekyung now owns a two-story detached house in Goyang intended as his family's home, acquired after eleven years without one.",
+    "Taekyung will live alone in the Goyang house until Hayeon finishes her college entrance exam, while planning renovations and arranging transportation.",
+    "Logout is active, so Taekyung no longer needs the capsule to travel between the modern world and Murim; he moved it to the new house because of its importance to his life.",
+    "Seong Jinho said he was moving out of Hope Goshiwon to stay at an acquaintance's home near Goyang, then unexpectedly emerged from Taekyung's capsule after Taekyung logged into Murim."
+  ],
+  "continuity_sources": [
+    102
+  ],
+  "open_questions": [
+    "Which of the three recently traded properties is being used by the surveillance personnel?",
+    "Whether the black Familiar and Kim Gwondong are operating under the same immediate instructions remains unresolved.",
+    "Why Kim Hwajong arrived at the confrontation remains unknown.",
+    "Why Kim Hwajong, despite his former instructor status and exceptional ability, now works as a butler remains unexplained.",
+    "What final disciplinary action will be taken against the Security Team remains unknown.",
+    "How and why Seong Jinho entered the capsule and emerged inside Taekyung's new house remains unknown."
+  ],
+  "safe_through": 102,
+  "temporary_decisions": [
+    "Use mouth-sealing technique for 아가리 봉인술.",
+    "Keep Fire Wall as the spell name.",
+    "Render Im Chunsoo's 자네 as you while preserving his blunt senior voice.",
+    "Render 김화종's 춘수 as Chunsoo.",
+    "Render 교관님 as Instructor.",
+    "Render 1번 훈련생 as Trainee Number One."
+  ],
+  "version": 1
+}
+```
+
+## Existing names ledger
+
+# Established Names
+
+Binding Korean → English for names, titles, aliases, and forms established in
+accepted chapters. Injected only when the exact Korean appears in the current
+chapter. Overrides `compendium.md` on the same Korean key. Add a row at first
+use. First use of an unlisted name or title almost always needs a footnote.
+
+| Korean | Preferred English | Notes |
+| ------ | ----------------- | ----- |
+| 장삼 | **Jang Sam** | Bandit; personal name |
+| 천력부 | **Heavenly Axe** | Epithet of Jang Sam; never romanize |
+| 천관일 | **Sky-Piercing Strike** | Final form of the Jin Family's Spear Technique; 天貫軼 |
+| 녹림십팔채 | **Eighteen Strongholds of Green Forest** | |
+| 홍화루 | **Honghwaru** | Lower District Sect Shanxi branch; pleasure house in Taiyuan |
+| 하연 | **Hayeon** | Jin Taekyung’s younger sister |
+| 응현 | **Eung-hyeon** | Jin Family branch location |
+| 산음 | **Saneum** | Jin Family branch location |
+| 삭주 | **Sakju** | Jin Family branch location |
+| 정양 | **Jeongyang** | Shanxi location |
+| 혼주 | **Honju** | Shanxi location |
+| 견정 | **Gyeonjeong** | Acupoint |
+| 아문 | **Amun** | Acupoint |
+| 봉안 | **Bongan** | Acupoint |
+| 입동 | **Ip-dong** | Acupoint |
+| 갱생권 | **Reformation Fist** | Jin Mukyung's named fist technique |
+| 금나수 | **grappling technique** | Close-combat wrist-lock technique; rendered descriptively |
+| 삼재검법 | **Three Calamities Sword Technique** | Sword technique Mukyung assumes Taekyung is pretending to use. |
+| 약왕당 | **Medicine King Hall** | The Jin Family's medical hall. |
+| 이공자 | **Second Young Master** | Title used for Jin Mukyung. |
+| 수문각주 | **Master of the Gatekeeper Pavilion** | Office Hyuk Mujin is rumored to receive. |
+| 공청석유 | **gongcheong seokyu** | Rare martial-arts elixir; the term also creates a petroleum pun. |
+| 군자 | **junzi** | Confucian ideal of a morally upright gentleman. |
+| 삼문협 | **Three Questions Gorge** | A distant gorge and route connecting Shanxi with Shaanxi and Henan. |
+| 섬서 | **Shaanxi** | Province bordering Shanxi. |
+| 삼공자 | **Third Young Master** | Title used for Jin Taekyung. |
+| 맹주 | **Alliance Leader** | Leader of the regional Murim alliance. |
+| 약왕당주 | **Medicine King Hall Master** | The unnamed physician who runs the Medicine King Hall. |
+| 송검문 | **Song Sword Sect** | Small-to-medium sect in central Shanxi. |
+| 송검문주 | **Sect Leader of Song Sword Sect** | Title held by Huang. |
+| 귀검 | **Ghost Sword** | Wipeng's epithet. |
+| 황 모 | **Huang** | Surname-style self-reference by the Sect Leader of Song Sword Sect. |
+| 아스모데우스 | **Asmodeus** | Demon King referenced in Taekyung's sarcastic comparison; does not appear directly. |
+| 낙류검 | **Falling Flow Sword** | Named sword technique discovered by Mukyung in the archives of Heaven's Gate Temple; its name evokes a waterfall. |
+| 질풍십이권 | **Twelve Gale Fists** | Named fist technique Mukyung threatens to use against Taekyung. |
+| 화염신장 | **Flame Divine Palm** | Jopil's deadly palm technique, noted when Taekyung compares Jopil with Mukyung. |
+| 마혈 | **Paralysis Acupoint** | System condition label for temporary paralysis. |
+| 아혈 | **Mute Acupoint** | System condition label preventing speech. |
+| 분근착골 | **Tendon-Splitting and Bone-Twisting** | Cruel immobilization technique described by Mukyung. |
+| 일문일살 | **One Question, One Kill** | Jopil's alias. |
+| 군자검 | **Junzi Sword** | Epithet Jin Wikyung begins receiving after the war. |
+| 칠득이 | **Childeuk** | Jin Family servant. |
+| 천자문 | **Thousand Character Classic** | Classical text Childeuk cannot complete. |
+| 천무지체 | **Heavenly Martial Physique** | Named physique or constitution mentioned hypothetically by Jin Mukyung. |
+| 장칠득 | **Jang Childeuk** | Personal-name form of Childeuk; he is newly appointed as a martial artist directly under Jin Wikyung. |
+| 최 팀장 | **Team Leader Choi** | Team Leader who owns the café where Taekyung signs a contract. |
+| 명품충 | **Designer-Brand Junkie** | Display name used by Team Leader Choi in a text message. |
+| 평화 | **Peace Guild** | Guild name. |
+| 김 집사 | **Butler Kim** | Choi's butler and limousine driver. |
+| 히말라야 | **Himalayas** | Mountain region referenced as the source of the bottled water. |
+| 히말라야의 정수 | **Essence of the Himalayas** | System-named consumable that temporarily raises Intelligence. |
+| 부천 | **Bucheon** | City with a dense concentration of Gates and Guild headquarters. |
+| 강남 | **Gangnam** | Formerly valuable Seoul-area real estate. |
+| 분당 | **Bundang** | Formerly valuable Korean real estate area. |
+| 대한민국 | **Korea** | Country reference. |
+| 순이 | **Sooni** | Former owner of Sooni's Super. |
+| 순이네 수퍼 | **Sooni's Super** | The Peace Guild's Guild house. |
+| 송 양 | **Miss Song** | The Peace Guild's final member; full identity not yet given. |
+| 아레스 | **Ares Guild** | The leading Guild in Korea; formerly employed Team Leader Choi and Song Song. |
+| 논산 | **Nonsan** | Location of Korea's Hunter training center. |
+| 임혁준 | **Im Hyeokjun** | Im Kkeokjeong's personal name, shown in the System Level window. |
+| 미노타우로스 | **Minotaur** | B-rank monster species. |
+| 부천터미널 길드 | **Bucheon Terminal Guild** | Guild whose raid footage is shown. |
+| 미노타우로스의 미로 | **The Minotaur's Labyrinth** | B-rank Gate. |
+| 상동 길드 | **Sangdong Guild** | Mid-sized Guild near Bucheon that joins Peace Guild's first official raid. |
+| 헌터 협회 | **Hunter Association** | Organization investigating the Bucheon Terminal Guild fatality. |
+| 흑색 드레이크 | **Black Drake** | B-rank monster whose leather and spine are used for Taekyung's loaned equipment. |
+| 장인의 흑색 드레이크 가죽 세트 | **Masterwork Black Drake Leather Set** | Peak-grade armor set loaned to Taekyung. |
+| 장인의 검은 가시 창 | **Masterwork Black Thorn Spear** | Peak-grade spear loaned to Taekyung. |
+| 출혈 | **Bleeding** | Effect with a 90% activation chance on a successful spear hit. |
+| 니콜라스 | **Nicholas** | North American craftsman associated with the space-expansion suitcase. |
+| K사 | **K Company** | Manufacturer of the space-expansion suitcase. |
+| 혜린 | **Hye-rin** | C-rank female mage and member of Im Changsoo's Sangdong Guild team. |
+| 청담동 | **Cheongdam-dong** | District mentioned as a luxury shopping location. |
+| 투우사의 전신 갑옷 | **Matador’s Full-Body Armor** | Peak-grade armor equipped by Im Kkeokjeong; grants bonuses against bovine-type monsters. |
+| 투우사의 방패 | **Matador’s Shield** | Peak-grade shield equipped by Im Kkeokjeong; can activate Taunt and Hallucination against bovine-type monsters. |
+| 도발 | **Taunt** | System effect that the Matador’s Shield can activate against bovine-type monsters. |
+| 환각 | **Hallucination** | System effect that the Matador’s Shield can activate against bovine-type monsters. |
+| 미노타우로스 전사 | **Minotaur Warrior** | Level-window designation for the first Minotaur encountered in the labyrinth. |
+| 발설지옥 | **tongue-pulling hell** | Buddhist hell associated with punishment for liars and slanderers; explained in a footnote. |
+| 껄떡쇠 | **Horndog** | Im Changsoo’s nickname for his womanizing. |
+| 강원도 | **Gangwon Province** | Province named in Taekyung’s joke about the Minotaur’s next life. |
+| 횡성 | **Hoengseong** | Place in Gangwon Province named in Taekyung’s joke. |
+| 자일리톤 | **Xyliton** | Finnish equipment manufacturer whose custom helmet records video. |
+| 유네스코 | **UNESCO** | Organization referenced in Taekyung’s cultural-heritage joke. |
+| 일섬 | **One Annihilation** | Named spear technique Taekyung uses to kill the Boss Zone monster in one blow. |
+| 미노타우로스 대전사 | **Minotaur Warrior** | Level 70 B-rank boss monster of The Minotaur's Labyrinth. |
+| 임 팀장님 | **Team Leader Im** | Formal address for Im Changsoo used by a Sangdong Guild teammate. |
+| 프로즌 | **Frozen** | Im Chunsoo's epithet as an A-rank ice mage. |
+| K은행 | **K Bank** | Bank where Im Changsoo's transfer is reported. |
+| 김정희 | **Kim Jeonghee** | Jin Taekyung and Hayeon's mother; restaurant kitchen worker |
+| 아줌마 | **ajumma** | Familiar term for a middle-aged or married woman, used for Kim Jeonghee |
+| 사장님 | **Boss** | Address for the restaurant owner; contextually rendered as ma'am in one reply |
+| 김민수 | **Kim Minsu** | The restaurant owner's son; D-rank Hunter in Sangdong Guild. |
+| 민수 | **Minsu** | Short form used for Kim Minsu. |
+| 운기요상 | **Circulate Qi for Healing** | System-named skill that channels internal energy through another person's body to cleanse accumulated waste and restore health. |
+| 하급 포션 | **Lesser Potion** | Low-grade healing potion issued as raid supplies; its System Grade is Third Rate. |
+| 3차 각성자 | **third-awakening Hunter** | Hypothetical Hunter classification that would come after reawakening. |
+| 재각성 | **reawakening** | Established Hunter awakening category described as having no further stage. |
+| 피의 일주일 | **Bloody Week** | The hellish first week after Gates opened, during which casualties reached the tens of millions. |
+| 전세 | **jeonse lease** | Korean lump-sum deposit lease used in the family's redevelopment-era housing history. |
+| 박지훈 | **Park Jihoon** | Current name of Taekyung's former middle-school classmate; Hunter in Myeongdong Guild Team 1. |
+| 박지황 | **Park Jihwang** | Jihoon's former name, revealed when Taekyung recognizes him. |
+| 가람중 | **Garam Middle School** | Middle school attended by Taekyung and Jihoon. |
+| 명동 길드 | **Myeongdong Guild** | Large Guild in which Jihoon belongs to Team 1. |
+| 1팀장 | **Team 1 Leader** | Sangdong Guild's Team 1 leader and its only A-rank Hunter besides Im Chunsoo. |
+| 희망 고시원 | **Hope Goshiwon** | The goshiwon listed as Taekyung's residence in the target report. |
+| 기감 | **Qi Sense** | Taekyung's sensory technique; its range reaches seventy meters in this chapter. |
+| 집파리 | **Housefly** | System label for a Level 1 fly familiar. |
+| 검정파리 | **Black Blow Fly** | System label for a Level 1 fly familiar. |
+| 금파리 | **Green Bottle Fly** | System label for a Level 1 fly familiar. |
+| 패밀리어 | **Familiar** | System classification for the flies detected in Taekyung's home. |
+| 김선희 | **Kim Seonhee** | Assistant Manager at the Ilsan Store |
+| 대리 | **Assistant Manager** | Corporate title used by Kim Seonhee |
+| 일산 | **Ilsan** | Location of the Store and Lafesta |
+| 라페스타 | **Lafesta** | Shopping and entertainment district in Ilsan |
+| 스토어 | **Store** | Restricted luxury retailer for magical goods and Hunter equipment |
+| 쌀벌레 | **Rice Weevil** | Creature used by Hong Woojin as a Familiar |
+| 링크 | **Link** | Mental connection between a mage and Familiar |
+| 김희선 | **Kim Seonhee** | Source spelling variant for the established Assistant Manager Kim Seonhee at the Ilsan Store. |
+| 여름이 | **Yeoreum** | Name Hayeon gives to the Level 2 kitten. |
+| 김준수 | **Kim Junsu** | C-rank mental mage and Sangdong Guild Security Team’s sole Familiar mage. |
+| 김권동 | **Kim Gwondong** | C-rank Sangdong Guild Security Team Hunter assigned to surveillance and disguise work. |
+| 나비 | **Nabi** | Name used for the black kitten Familiar. |
+| 고양시 | **Goyang** | City where the target previously visited a real-estate office. |
+| 보안팀 | **Security Team** | Sangdong Guild’s surveillance and protection unit. |
+| 보안팀장 | **Security Team Leader** | Unnamed leader coordinating the operation. |
+| 최병일 | **Choi Byungil** | B-rank Security Team leader; his Level is in the mid-sixties. |
+| 박형진 | **Park Hyungjin** | One of the C-rank Sangdong Guild watchers. |
+| 오규현 | **Oh Gyuhyeon** | One of the C-rank Sangdong Guild watchers. |
+| 이민철 | **Lee Mincheol** | One of the C-rank Sangdong Guild watchers. |
+| 교관 | **Instructor** | Kim Hwajong's former Hunter Training Center role and address. |
+| 헌터 훈련소 | **Hunter Training Center** | Training institution where Kim Hwajong served as an instructor. |
+| 1번 훈련생 | **Trainee Number One** | Im Chunsoo's training call sign during his forced military identification. |
+| 28연대 1대대 2중대 | **28th Regiment, First Battalion, Second Company** | Military unit designation shouted during Im Chunsoo's identification. |
+| 사도세자 | **Crown Prince Sado** | Joseon crown prince used in the comparison for Jinho's haggard appearance; footnoted. |
+| 박혁거세 | **Park Hyeokgeose** | Legendary founder of Silla, used in the comparison to Jinho emerging from the capsule; footnoted. |
+
+## Existing address-pair ledger
+
+# Established Address Pairs
+
+Exceptional speaker → addressee forms established in accepted chapters.
+Injected only when both endpoints are present in the current chapter: the
+Korean appears in the source, or belongs to a matched compact profile.
+Overrides generic relationship prose in character profiles for this pair.
+
+| Speaker | Addressee | Kinship | Normal address | Speech level | Notes |
+| ------- | --------- | ------- | -------------- | ------------ | ----- |
+| 진태경 | 진무경 | younger_to_older_brother | hyung | casual-but-junior | Retain hyung for 형 in Taekyung's greeting; Mukyung then punishes the casual speech. |
+| 진무경 | 진태경 | older_to_younger_brother | youngest | blunt-senior | 막내 / youngest; may taunt that lasting a quarter-hour would make Taekyung the older brother. |
+| 진태경 | 진위경 | younger_to_eldest_brother | brother | familiar-but-respectful | Self-corrects from the personal name to kinship: “Jin Wikyung—I mean, my brother?”; 큰형 is eldest brother. |
+| 진위경 | 진태경 | eldest_to_youngest_brother | youngest | affectionate-protective | Uses youngest-brother address; openly affectionate beneath a public mask. |
+| 진태경 | 성진호 | junior_to_older_friend | Jinho hyung | casual-but-junior | Retain hyung for 형; Jinho is three years older. |
+| 성진호 | 진태경 | older_friend | informal / younger-brother | teasing-senior | Speaks informally while demanding respect as the older friend. |
+| 진태경 | 임꺽정 | junior_friend | Kkeokjeong hyung | casual-but-junior | After Im asks to be called hyung. |
+| 임꺽정 | 진태경 | older_friend | hyung | hearty-casual | “Call me hyung. We’re not even that far apart in age.” |
+| 위팽 | 진위경 | retainer_to_lord | my lord | deferential | 주공; Wipeng is Jin Wikyung’s personal guard. |
+| 소천 | 진태경 | rescued_survivor_to_benefactor | Benefactor | deferential | Socheon repeatedly addresses Taekyung as 은인. |
+| 진무경 | 진위경 | younger_to_older_brother | older brother | formal-but-blunt | Mukyung refers to Wikyung as 형 while remaining emotionally restrained. |
+| 진위경 | 진무경 | older_to_younger_brother | little brother | affectionate-casual | Wikyung uses 아우야 and 무경아 with openly affectionate familiarity. |
+| 진태경 | 공야청 | junior_to_respected_hero | Great Hero Gong | deferential | Taekyung consistently attaches 대협 when addressing Gong Yacheong. |
+| 위팽 | 송검문주 | visitor_to_sect_leader | Sect Leader | formal-polite | Wipeng addresses the Song Sword Sect Leader respectfully while delivering the summons. |
+| 송검문주 | 위팽 | sect_leader_to_visiting_master | Great Hero Wipeng | deferential | The Sect Leader addresses Wipeng as 위 대협 while fearing the Ghost Sword's power. |
+| 진태경 | 월화 | junior_to_older_female_acquaintance | Wolhwa noona | casual-but-junior | Taekyung uses this address while speaking in his sleep or delirium. |
+| 칠득이 | 진위경 | servant_to_lesser_family_head | Lesser Family Head | deferential | Childeuk repeatedly addresses Wikyung as 소가주님. |
+| 진위경 | 칠득이 | lesser_family_head_to_servant | you | formal-but-familiar | Wikyung addresses Childeuk with 자네. |
+| 진위경 | 장칠득 | lesser_family_head_to_direct_martial_artist | Martial Artist Jang | affectionate and ceremonious | Wikyung embraces and exuberantly praises Childeuk after acknowledging their minor misunderstanding. |
+| 혁무진 | 진태경 | squad_subordinate_to_squad_leader | Squad Leader | deferential | Hyuk Mujin says he obeys only his squad leader's orders and identifies Taekyung as the Third Young Master. |
+| 진태경 | 혁무진 | squad_leader_to_squad_subordinate | Mujin | familiar-and-commanding | Taekyung calls him 무진아 while summoning him from the driver's box. |
+| 진태경 | 최 팀장 | guild_member_to_team_leader | Team Leader | deferential | Taekyung addresses Choi as 팀장님. |
+| 최 팀장 | 진태경 | team_leader_to_guild_member | Taekyung | formal-but-familiar | Choi addresses him as 태경 씨. |
+| 진태경 | 김 집사 | client_to_butler | Butler Kim | formal-deferential | Taekyung addresses him as 김 집사님. |
+| 최 팀장 | 김 집사 | employer_to_butler | Butler Kim | formal-polite | Choi addresses him as 김 집사님. |
+| 김 집사 | 진태경 | butler_to_hunter_client | Hunter | deferential | Butler Kim refers to Taekyung as 헌터님. |
+| 임꺽정 | 송 양 | older_guild_member_to_younger_female_guild_member | Miss Song | hearty-casual | Im Kkeokjeong calls her 송 양. |
+| 진태경 | 송송이 | guild_member_to_guild_member | Miss Song | formal-polite | Taekyung repeatedly uses 송이 씨 while introducing himself and attempting to court Song Song. |
+| 송송이 | 진태경 | guild_member_to_guild_member | Taurus | casual-teasing | Song Song refers to Taekyung by his zodiac sign when calling him to the meal. |
+| 진태경 | 김 집사 | junior_to_senior_Hunter | Senior | deferential | After learning that Butler Kim trained at the same Nonsan regiment and battalion, Taekyung addresses him as 선배님. |
+| 김 집사 | 최 팀장 | butler_to_employer | Young Master | deferential | Butler Kim addresses Choi as 도련님 when agreeing to follow his decision about Guild titles. |
+| 임창수 | 혜린 | sponsor_to_sponsored_lover | Hye-rin | condescending-casual | Changsoo refers to himself as this oppa while claiming he will protect her. |
+| 최 팀장 | 임꺽정 | guild_team_leader_to_guild_member | Hunter Im | formal-polite | Choi addresses Kkeokjeong as 임 헌터님 while telling him to put on the equipment. |
+| 임창수 | 진태경 | rival_guild_team_leader_to_guild_member | Mr. Jang Taekyung | mock-formal and condescending | Changsoo deliberately uses the wrong surname, then dismisses whether Taekyung is Jin or Jang. |
+| 진태경 | 임창수 | guild_member_to_rival_guild_team_leader | Shit Changsoo | insulting-casual | Taekyung’s retaliatory surname pun after Changsoo misnames him. |
+| 임창수 | 송송이 | rival_guild_team_leader_to_guild_member | Miss Song | mock-polite | Uses 송송이 씨 while proposing that Song Song join Sangdong Guild. |
+| 송송이 | 임창수 | guild_member_to_rival_guild_team_leader | Shit Changsoo—no, Im Changsoo | blunt but polite | Insults Changsoo with 씹창 and then corrects herself to his proper name while rejecting him. |
+| 송송이 | 김 집사 | guild_member_to_guild_master | Guild Master | formal-polite | Requests the Guild Master’s permission before changing Guilds under the wager. |
+| 송송이 | 최 팀장 | guild_member_to_team_leader | Team Leader | formal-polite | Asks Choi whether he accepts her possible Guild transfer if the bet is lost. |
+| 송송이 | 임꺽정 | younger_guild_member_to_older_guild_member | Uncle | casual-polite | Song Song uses 아저씨 while asking Im Kkeokjeong to agree that Changsoo is nasty. |
+| 김 집사 | 임창수 | guild_master_to_rival_guild_member | Changsoo | mock-polite | Butler Kim uses 창수 씨 while accusing Changsoo of refusing to pay. |
+| 지점장 | 임춘수 | bank_branch_manager_to_guild_master | Guild Master | formal-deferential | The K Bank branch manager addresses Im Chunsoo as 길드장님 while reporting Changsoo's transfer. |
+| 임춘수 | 임창수 | father_to_son | Changsoo | furious-parental | Im Chunsoo uses Changsoo's name alongside hostile forms such as that bastard and you little shit. |
+| 하연 | 진태경 | younger_sister_to_older_brother | oppa | casual-familiar; pleading for important requests | Hayeon habitually puts 오빠 first when making an important request. |
+| 김정희 | 사장님 | employee_to_restaurant_owner | Boss | formal-polite, becoming firm | Uses the owner's title while demanding an apology and defending Taekyung. |
+| 사장님 | 김정희 | restaurant_owner_to_employee | Ajumma | condescending-casual | Repeatedly uses 아줌마 while berating Kim Jeonghee. |
+| 진태경 | 김정희 | son_to_mother | Mom | casual-familiar and affectionate | Taekyung's first words after entering the restaurant and seeing his mother. |
+| 김정희 | 진태경 | mother_to_son | Son | affectionate-familiar | Calls Taekyung 아들 when surprised by his visit and later asks whether he has eaten. |
+| 진태경 | 사장님 | visitor_to_restaurant_owner | Boss | polite but sarcastic | Maintains a superficially respectful address while baiting the owner during the confrontation. |
+| 사장님 | 진태경 | restaurant_owner_to_employee_son | you / you little punk | condescending-aggressive | Uses hostile informal forms while trying to intimidate Taekyung. |
+| 부동산 아저씨 | 진태경 | real_estate_agent_to_customer | Boss | polite and sales-friendly | The unnamed real estate agent repeatedly addresses Taekyung as 사장님 while arranging a house viewing. |
+| 여자 친구 | 박지훈 | girlfriend_to_boyfriend | Oppa | casual-familiar | Jihoon's girlfriend addresses him as 오빠 while asking him to return to the car. |
+| 임춘수 | 1팀장 | guild_master_to_team_leader | Team 1 Leader | blunt-commanding | Chunsoo addresses him with a rough 야 while issuing orders and demanding his candid assessment. |
+| 1팀장 | 임춘수 | guild_team_leader_to_guild_master | Guild Master | formal-deferential | The Team 1 Leader consistently addresses Chunsoo as 길드장님 while reporting and accepting orders. |
+| 진태경 | 하연 | older_brother_to_younger_sister | Sis | casual-familiar | Taekyung addresses Hayeon as 동생아 during their fly investigation. |
+| 동료 | 김준수 | Security Team colleague | Junsu | casual-collegial | Uses 준수야 while checking whether Junsu pulled an all-nighter. |
+| 보안팀장 | 김준수 | team_leader_to_subordinate | Kim Junsu | blunt-commanding | Shouts 김준수 when the target begins moving. |
+| 김권동 | 보안팀장 | subordinate_to_team_leader | Team Leader | deferential | Uses 팀장님 over the radio while reporting on the disguised approach. |
+| 보안팀장 | 1번 | supervisor_to_surveillance_agent | Number One | command-radio | Uses the operative’s radio call sign while directing the real-estate-office surveillance. |
+| 보안팀장 | 2번 | supervisor_to_surveillance_agent | Number Two | command-radio | Uses the operative’s radio call sign while ordering continued observation. |
+| 부동산 아줌마 | 진태경 | real_estate_agent_to_customer | Boss; young bachelor | chatty-polite and flirtatious | The agent calls Taekyung 사장님 and 총각 while offering listings and commenting on his appearance. |
+| 김권동 | 진태경 | surveillance_hunter_to_target | young man | friendly and polite | Gwondong maintains his ordinary-neighbor disguise and addresses Taekyung as a younger local acquaintance. |
+| 진하연 | 여름이 | caretaker_to_kitten | Yeoreum | affectionate-casual | Hayeon repeatedly calls the kitten by name and refers to herself as Sis. |
+| 김권동 | 김준수 | Security Team colleagues | Junsu | casual-collegial | Gwondong uses 진수야 while questioning Junsu’s interpretation of the item. |
+| 보안팀장 | 김권동 | team_leader_to_subordinate | Gwondong | blunt-commanding | Uses 권동아 while directing the operation. |
+| 진태경 | 최병일 | target_to_attacking_team_leader | Mr. Choi Byungil | mock-polite and taunting | Uses 최병일 씨 while baiting and confronting him. |
+| 진태경 | 김준수 | target_to_surveillance mage | Junsu | casual and taunting | Uses 준수야 while questioning him. |
+| 임춘수 | 진태경 | guild_master_to_younger_rival | you | blunt-but-familiar | Repeatedly uses 자네 while challenging and testing Taekyung. |
+| 김화종 | 임춘수 | familiar_mage_to_guild_master | Chunsoo | gentle-and-familiar | Addresses Im Chunsoo as 춘수 on arriving at the hiking-trail entrance. |
+| 임춘수 | 김화종 | former_trainee_to_former_instructor | Instructor | deferential and fearful | Im Chunsoo addresses Hwajong as 교관님 after recognizing his former instructor. |
+| 김화종 | 진태경 | senior_Hunter_to_younger_Hunter | Mr. Jin | formal-polite | Hwajong addresses Taekyung as 진태경 씨 while proposing an exchange of stories. |
+| 1팀장 | 보안팀장 | guild_team_leader_to_security_team_leader | Security Team Leader | formal-commanding | Team Leader 1 directly addresses the Security Team Leader while warning him about discipline. |
+| 보안팀장 | 1팀장 | security_team_leader_to_guild_team_leader | Team Leader 1 | formal-deferential | The Security Team Leader addresses Team Leader 1 as 팀장님 while reporting what he heard. |
+| 진태경 | 기사님 | customer_to_moving_driver | Driver | polite | Taekyung addresses the private moving-truck driver by his occupational title on the phone. |
+| 이삿짐 아저씨 | 진태경 | moving_driver_to_customer | Mr. Jin Taekyung; Boss | friendly-polite | The driver uses 진태경 씨 on the phone and 사장님 while insisting on moving the capsule. |
+
+## Exact glossary matches
+
+| 무림     | **Murim**          |
+| 진태경    | **Jin Taekyung**   |
+| 진무경    | **Jin Mukyung**    |
+| 위팽     | **Wipeng**         |
+| 혁무진    | **Hyuk Mujin**     |
+| 이천백    | **Lee Cheonbaek**  |
+| 이소광    | **Lee Seogwang**   |
+| 이소군    | **Lee Seogeun**    |
+| 이소월    | **Lee Seowol**     |
+| 산서잠룡   | **Sleeping Dragon of Shanxi** | Jin Taekyung   |
+| 태원진가   | **Jin Family of Taiyuan**        |
+| 항산검문   | **Mount Heng Sword Sect**        |
+| 삼류     | **Third Rate**    |
+| 일류     | **First Rate**    |
+| 절정     | **Peak**          |
+| 절정고수                | **Peak master** / **Peak martial artist** |
+| 무인     | **martial artist**                               | Default term                                          |
+| 무공     | **martial arts**                                 | Can mean a specific martial art in context            |
+| 고수     | **master**                                       | Strong/skilled martial artist                         |
+| 내공     | **internal energy**                              |                                                       |
+| 운기조식   | **circulate one's qi**                           | Usually better as a verb than a proper-name technique |
+| 낭인     | **wandering martial artist**                     |                                                       |
+| 마적     | **mounted bandits**                              |                                                       |
+| 기루     | **pleasure house**                               |                                                       |
+| 문주     | **Sect Leader**                              |
+| 레벨               | **Level**                      |
+| 퀘스트              | **Quest**                      |
+| 보상               | **Reward**                     |
+| 등급               | **Grade**                      | System/UI field for quest, item, and martial-art classifications; do not use “Rank” here |
+| 산서     | **Shanxi**             |
+| 태원     | **Taiyuan**            |
+| 항산     | **Mount Heng**         |
+| 팔천협    | **Eight Spring Gorge** |
+| 귀가      | **your family**                                                 |
+| 공자      | **Young Master**                                                |
+| 혼주 | **Honju** | Shanxi location |
+| 이공자 | **Second Young Master** | Title used for Jin Mukyung. |
+
+## Listed compact profiles
+
+### Hyuk Mujin.md
+
+# Hyuk Mujin (혁무진)
+
+- **Safe through:** Chapter 85
+- **Aliases:** None revealed
+- **Role:** Captain of the Gatekeepers at the Jin Family of Taiyuan; deputy squad leader of White Tiger Hall’s reconnaissance squad
+- **Personality:** Young, disciplined, suspicious of Jin Taekyung, and openly contemptuous of the family’s disgraced third son; believes loyalty and respectable conduct matter, but is also proud and hungry for glory
+- **Voice:** Formal and clipped when performing his duties; blunt and moralizing when addressing Taekyung
+- **Relationships:** Gatekeeper under the Jin Family; deputy subordinate to Jin Taekyung in the reconnaissance squad
+
+### Jin Mukyung.md
+
+# Jin Mukyung (진무경)
+
+- **Safe through:** Chapter 84
+- **Aliases:** Heaven Shaking Sword; Jin Family Second Young Master
+- **Role:** Second son of the Jin Family of Taiyuan; twenty-three-year-old cadet at Heaven’s Gate Temple; a young Peak-level genius swordsman
+- **Personality:** Reserved, terse, and easily irritated by exaggerated praise; glares coldly when Taekyung identifies him
+- **Voice:** Quiet and resonant; clipped and blunt in direct speech
+- **Relationships:** Taekyung’s older brother and current martial arts instructor; returned to the Jin Family after several years away
+
+### Jin Taekyung.md
+
+# Jin Taekyung (진태경)
+
+- **Safe through:** Chapter 102
+- **Aliases:** Sleeping Dragon of Shanxi
+- **Role:** Modern-world protagonist; recently fired after seven years at his job; C-rank Hunter who defeated eight B-rank Minotaurs and killed a Level 70 B-rank Minotaur Warrior in one blow; First Rate martial artist standing before the Peak realm; youngest son of the Jin Family of Taiyuan; new owner of a two-story detached house in Goyang intended for his family; Qi Sense reaches a seventy-meter radius
+- **Personality:** Hungry, self-aware, dryly observant, and willing to take a questionable opportunity when desperate; treats the impossible as a game until the danger becomes undeniable
+- **Voice:** First-person, conversational, dryly self-mocking; uses vivid trap-and-prey imagery, game jargon, and occasional profanity
+- **Relationships:** Jin Mukyung’s younger brother and current student; son of a deceased father; supports his mother and younger sibling
+
+### Lee Cheonbaek.md
+
+# Lee Cheonbaek (이천백)
+
+- **Safe through:** Chapter 74
+- **Aliases:** Blood Wolf Sword
+- **Role:** Sect Leader of the Mount Heng Sword Sect; Lee Seogeun’s father
+- **Personality:** Grief-stricken, resolute, and fiercely vengeful
+- **Voice:** Quietly mournful when addressing his son; firm and uncompromising when declaring revenge
+- **Relationships:** Father of Lee Seogeun and Lee Seowol; also father of a deceased Young Sect Leader; leader of the Mount Heng Sword Sect
+
+### Lee Seowol.md
+
+# Lee Seowol (이소월)
+
+- **Safe through:** Chapter 74
+- **Aliases:** None
+- **Role:** New Sect Leader of the Mount Heng Sword Sect; third child of Lee Cheonbaek
+- **Personality:** Not established in Chapter 74
+- **Voice:** Not established in Chapter 74
+- **Relationships:** Lee Cheonbaek's daughter; younger sister of the deceased Young Sect Leader and Lee Seogeun
+
+### Wipeng.md
+
+# Wipeng (위팽)
+
+- **Safe through:** Chapter 68
+- **Aliases:** Ghost Sword
+- **Role:** Jin Wikyung’s personal guard and commander of the thirty-elite pursuit team sent south under an assassin-hunt pretext
+- **Personality:** Loyal, observant, teasing, and resigned to his master’s impulsive departures
+- **Voice:** Weary and knowing; jokes with Jin Wikyung and uses Sound Transmission
+- **Relationships:** Trusted guard and retainer of Jin Wikyung
+
+## Korean source
+
+```text
+＃103화
+
+
+
+덜컹덜컹.
+
+미숙한 마부가 모는 마차는 위태로웠다.
+
+나름대로 정비가 잘된 가도(假道)라고는 하나 며칠째 계속되는 폭설에 채찍은 고드름이 되었고 말들의 엉덩이를 찌르기 일쑤였다.
+
+그리고 드디어 사달이 났다.
+
+푹!
+
+히히잉!
+
+미끄러운 눈길에도 제법 빠르게 발을 놀리던 준마 네 마리가 갑자기 걸음을 멈춘 것이다.
+
+“으헉!”
+
+앞으로 고꾸라질 뻔한 마부가 가까스로 중심을 잡았다. 그러나 낙마를 면했다는 안도감보다 앞으로 닥쳐올 일에 대한 두려움이 앞섰다.
+
+‘제발, 옥황상제님, 원시천존님.’
+
+간절한 바람이 통한 걸까? 슬쩍 마차 안을 들여다보았지만 두 청년은 아무 일도 없었다는 듯이 앉아 있었다.
+
+‘뭐, 정확히 말하면 한 명은 자고 있는 거지만.’
+
+털가죽에 파묻혀 이마만 빠끔히 보이는 한 청년은 수혈이라도 짚였는지 도무지 깰 생각을 안 하고, 다른 한 청년은 가부좌를 튼 채 운기조식에 여념이 없다.
+
+스으으읍. 후우우우.
+
+만약 누군가가 그 광경을 봤다면 두 번 놀랐을 것이다.
+
+청년의 수려한 용모에 한 번, 그의 몸에서 뿜어져 나오는 절정고수의 무형지기(無形地氣)에 또 한 번.
+
+어느 정도 그에게 익숙해졌다고 생각한 마부, 혁무진도 크게 다르지 않았다.
+
+‘이런 개 같은 경우를 봤나.’
+
+이제는 부러운 걸 넘어서 화가 날 지경이다.
+
+뛰어난 외모와 천재적인 무재(武才). 둘 중 하나만 가져도 소원이 없겠는데 저 청년, 진무경은 둘 다 가졌다.
+
+‘심지어 한 명 더 있지.’
+
+운기조식을 할 거라더니 죽은 듯이 자고 있는 또 다른 청년, 진태경도 마찬가지다.
+
+아니, 어쩌면 형인 진무경보다 더한 괴물일지도 모르겠다.
+
+불과 몇 달 전까지만 하더라도 기루나 돌아다니던 삼류 망나니가 산서 제일의 잠룡이 됐으니까.
+
+‘아무리 형제라지만 이렇게까지 닮을 수가 있나.’
+
+과거 산서제일미였다는 모친의 핏줄을 고스란히 물려받은 용모. 질투심이 날 정도로 천재적인 재능.
+
+그리고 마지막으로…….
+
+‘둘 다 성격이 더럽지.’
+
+혁무진은 두 형제를 번갈아 가며 노려봤다.
+
+한 놈은 수하가 마부석에서 얼어 죽든 말든 제 한 몸 덥히겠다고 털가죽을 죄다 가져갔고, 다른 한 놈은 마차도 제대로 못 몬다며 장장 한 시진을 구박하더니 이젠 속 편하게 운기조식 중이다.
+
+‘난형난제가 따로 없군.’
+
+좋은 쪽으로 우열을 가리기 힘들어야 하는데 이 형제는 그 반대다.
+
+혁무진이 둘 중 누구의 인성이 더 개차반인가 곰곰이 생각하던 그때였다.
+
+“야.”
+
+서늘한 목소리. 막 운기를 끝마친 눈동자에서 항거할 수 없는 무형의 기운이 뿜어져 나와 혁무진을 옭아맸다.
+
+“뭐 해, 마차 안 몰고.”
+
+“자, 잠깐 문제가 생겨서 말입니다.”
+
+“무슨 문제.”
+
+“그게……”
+
+얼어붙은 채찍에 엉덩이를 찔린 말들이 화났습니다, 라고 하면 무슨 일이 벌어질까? 혁무진은 현명한 선택을 했다.
+
+“몸이 얼어서 마차를 못 몰겠습니다.”
+
+이참에 좀 쉬고 싶기도 했다. 아까부터 마부석에서 고생한 엉덩이에게도 휴식을 줘야 하지 않겠는가.
+
+하지만 진무경의 대응은 간단했다.
+
+“손.”
+
+“예?”
+
+“손 내밀어 보라고.”
+
+혁무진은 엉겁결에 똥개처럼 손을 내밀었다. 그러자 그걸 붙잡은 진무경이 한마디를 툭 내뱉었다.
+
+“뜨거워도 참아라.”
+
+말뜻을 파악하기도 전에 손끝을 타고 어마어마한 기운이 솟구쳤다. 순간 숨이 턱 막힐 정도의 화기(火氣)에 온몸이 불타는 듯했다.
+
+‘허억!’
+
+충격이 너무 크면 비명도 안 나오는 법이다. 찰나에 지나지 않는 짧은 순간이었지만 혁무진은 입을 딱 벌리고 몸을 부르르 떨었다. 어느새 진무경이 자신의 손을 놓았다는 사실조차 알지 못했다.
+
+“어때, 좀 낫나?”
+
+그제야 정신을 차린 혁무진이 간신히 입을 열었다.
+
+“바, 방금 그게 뭡니까?”
+
+“간단한 열양공의 일종이다.”
+
+“……그렇게 간단해 보이진 않던데요. 타 죽는 줄 알았습니다.”
+
+“그래? 역시, 겉핥기식으로 익힌 거라 미숙했나 보군.”
+
+진무경의 대수롭지 않은 말투에 혁무진은 어이가 없었다.
+
+‘겉핥기식으로 배운 걸 왜 나한테 써…….’
+
+난형난제? 인성 싸움은 형의 압승이다.
+
+진태경은 쥐어팬 적은 있어도 열양공으로 태워 죽이려고 하진 않았으니까.
+
+“몸도 녹았으니 이제 가서 마차를 몰아라. 갈 길이 구만리다.”
+
+“…….”
+
+녹은 게 아니라 불태운 수준이지만 효과는 확실했다.
+
+“그럼 다시 출발하겠습니다.”
+
+혁무진이 후끈후끈해진 몸으로 마부석으로 돌아가자 진무경의 시선이 정면을 향했다.
+
+털가죽에 파묻혀서 이게 곰인지, 사람인지 헷갈리는 진태경이 보였다.
+
+‘운기를 한다더니 퍼질러 자고 있군.’
+
+헛소리일 거라고 생각했지만 이렇게 당당하게 숙면을 할 줄은 몰랐다. 무인이라면 항상 무공에 대해 고민하고, 수련을 거듭해야 하는 법이거늘.
+
+진무경이 굳은 얼굴로 호통쳤다.
+
+“이놈, 당장 일어나지 못하겠느냐!”
+
+“으헉!”
+
+마부석의 혁무진은 물론이고 말들까지 움찔할 정도로 쩌렁쩌렁한 외침이다. 그러나 정작 진태경은 요지부동이었다.
+
+쌔액. 쌔액.
+
+“이노옴!”
+
+자리에서 벌떡 일어난 진무경이 손바닥으로 아우의 이마를 후려갈겼다. 쫙, 하는 소리와 함께 피부가 벌겋게 달아오른다.
+
+‘이래도 안 일어나는지 보자.’
+
+쫙, 쫙, 쫙.
+
+쌔액. 쌔액.
+
+“……!”
+
+이마가 붉어지다 못해 혹까지 생겨 터질 듯한데도 미동 하나 없다.
+
+진무경은 크나큰 충격에 휩싸였다. 이 정도면 내공 한 톨 없는 양민도 비명을 지르며 일어나야 하는데, 명색이 초일류의 무인에 산서잠룡이라는 놈이 꿈쩍도 안 한다.
+
+살다 살다 이렇게 무방비한 놈은 처음 봤다.
+
+‘그리고 그놈이 내 동생이라니.’
+
+지난 며칠간 단련시켰던 것이 마치 헛수고처럼 느껴지던 그때.
+
+“으음.”
+
+영원히 감겨 있을 것만 같던 진태경의 눈이 스르륵 뜨였다.
+
+
+
+* * *
+
+
+
+눈을 뜨기도 전에 무림으로 돌아왔다는 사실을 깨달았다.
+
+볼에 닿는 서늘한 공기. 덜컹거리는 마차 내부.
+
+그리고 통증.
+
+“……?”
+
+잠깐. 웬 통증?
+
+눈을 떠 보니 제법 익숙한 얼굴이 나를 내려다보고 있었다.
+
+‘진무경.’
+
+뭐 이런 놈이 있나, 하는 표정의 그를 무시하고 기울어져 있던 몸을 바로 했다. 그리고 그 후에야 통증의 원인을 알 수 있었다.
+
+“아야.”
+
+이마다. 조심스럽게 만져 보니 혹과 함께 주위 피부가 화끈거리는 것이 느껴졌다.
+
+‘뭐여, 이건.’
+
+도대체 여기서 뭘 했다고 이마에 혹이 나 있어?
+
+순간 벽에 머리라도 박았나 싶었지만, 근골과 맷집을 꾸준히 올려놓은 터라 그 정도로는 생채기도 안 난다.
+
+‘이건 딱 작정하고 때린 건데.’
+
+마침 용의자 두 명이 보인다.
+
+진무경과 혁무진. 누가 범인인지는 세 살배기 어린애도 알겠다.
+
+“나 자는 사이에 뭔 짓 했지.”
+
+“자는 사이? 그전에는 운기조식이라고 하지 않았나?”
+
+“……내가?”
+
+한참 된 일이라 기억도 안 나는데. 어쨌든 지금 그게 중요한 게 아니다.
+
+“자는 사람을 때려?”
+
+“네 꼴이 하도 한심해 보여 그런 것이다. 무인이라는 놈이 수련할 생각은 안 하고 잘도 퍼질러 자더군.”
+
+“넌 무인이라는 놈이 비열하게 무방비인 상대를 공격하냐?”
+
+“그럼 당장 내려서 한 판 붙을까? 무인답게.”
+
+우리는 누가 먼저랄 것도 없이 벌떡 일어나 서로를 노려봤다. 진무경이 스산한 어조로 말했다.
+
+“형무진.”
+
+“혁무진입니다. 이공자님, 제발.”
+
+“당장 마차 세워.”
+
+“……옙.”
+
+마차의 속도가 천천히 줄어들기 시작했다. 이번에는 내 차례다. 나는 놈의 시선을 맞받아치며 입을 열었다.
+
+“혁무진.”
+
+“아, 조장님은 또 왜요.”
+
+“계속 가.”
+
+“하, 미치겠네.”
+
+마차의 속도가 다시 빨라지기 시작했다. 천천히 자리에 앉는 나를 보며 진무경이 기가 차다는 표정으로 물었다.
+
+“무인답게 한 판 붙자고 하지 않았나?”
+
+“한심하긴. 임무가 먼저고 붙는 건 그다음이야. 그리고…….”
+
+“그리고?”
+
+“난 붙자고 한 적 없다. 비열하다고 했을 뿐.”
+
+“…….”
+
+최대한 당당하게 말했지만 모양이 빠지는 건 어쩔 수 없다.
+
+나는 흘끗 진무경의 레벨창을 확인했다.
+
+
+
+[Lv.??? 진무경]
+
+
+
+그래, 인간적으로 오자마자 싸우는 건 좀 아니지.
+
+
+
+* * *
+
+
+
+‘퀘스트창 확인.’
+
+띠링.
+
+
+
+퀘스트
+
+
+
+[어제의 적, 오늘의 동지]
+
+모든 진실이 밝혀진 지금, 항산검문은 적이 아니라 손을 잡아야 할 동지입니다. 곧 다가오는 원단에 그들을 태원진가로 초대하십시오.
+
+
+
+등급 : 일류
+
+제한 : 진태경
+
+임무 : 초대장 전달 (미완료)
+
+보상 : ???
+
+실패 : 없음
+
+
+
+
+
+마지막으로 받았던 퀘스트를 다시 한번 확인했다.
+
+쉬운 임무다. 퀘스트 등급도 그리 높지 않고, 실패 시 패널티도 없다. 그저 항산검문 측에 초대장만 전달하면 그만이다.
+
+‘항산검문이라…….’
+
+지금의 항산검문은 뼈대만 남았다. 이소군이 독살당하고 이천백이라는 기둥이 무너지자 붕괴는 순식간이었다.
+
+‘팔천협 전투가 치명타였지.’
+
+발 없는 말이 천 리를 간다고 했다.
+
+수많은 눈과 귀가 집중됐던 그 날의 전투는 전서구와 사람들의 입을 통해 빠르게 퍼져 나갔고, 거의 모든 주력이 빠져나간 항산검문은 누군가에겐 좋은 먹잇감이었다.
+
+‘낭인, 그리고 마적 떼.’
+
+물경 이백에 달하는 습격자들이 항산검문을 급습했다고 했다. 이틀 밤낮의 전투 끝에 습격자들은 패퇴, 일찍이 근신 처분을 받고 문파에 남아 있던 이소광은 끝내 전사했다.
+
+항산검문은 새로운 구심점이 필요했고, 그렇게 한 사람이 등장했다.
+
+‘이소월.’
+
+이천백의 마지막 남은 핏줄이자 현(現) 항산검문주.
+
+우리는 그녀에게 이 초대장을 전달해야 한다.
+
+문제는…….
+
+‘나랑 영 껄끄러운 관계라는 거지.’
+
+사실 껄끄럽다는 표현도 내 입장에서 순화한 거다.
+
+어떻게 보면 이 모든 일의 시작점에 나와 이소월이 있었으니까.
+
+‘그때가 수련동에서 막 나왔을 때였지, 아마.’
+
+당시 위팽이 했던 말은 토씨 한 글자 안 틀리고 기억한다.
+
+
+
+‘항산검문의 여식을 범하려 한 것이 사실입니까?’
+
+
+
+지금이야 내가 결백하다는 걸 모르는 사람이 없지만, 그때만 해도 천하의 죽일 놈 취급받았었다.
+
+조작한 증거로 태원진가를 압박하러 왔던 이소군은 돌아가던 길에 독살당했고, 그게 모든 일의 시작이었다.
+
+‘겨우 한두 달이 흘렀을 뿐인데.’
+
+가문에서도 멸시받던 삼류 망나니는 산서잠룡이 되고, 이름도 몰랐던 그녀는 이제 항산검문의 새로운 주인이다.
+
+우리 둘 다 그사이 참 많은 변화를 겪었으니 어떤 의미로는 공통점이 있다고 할 수도 있겠다.
+
+‘처지는 많이 달라졌지만.’
+
+태원진가는 이제 자타가 공인하는 산서제일가(山西第一家).
+
+반면 항산검문은 속 빈 강정에 불과하다. 이 초대장은 사실 이제 태원진가의 밑으로 들어오라는 항복 권유에 가깝다.
+
+과연 이소월이 어떤 반응을 보일지는 직접 겪어 봐야 알 수 있을 것 같다.
+
+‘다짜고짜 칼침만 안 놨으면 좋겠네.’
+
+그런 생각과 함께 퀘스트창을 닫은 그때, 햇빛이 쏟아지고 왁자지껄한 소리가 가까워졌다. 혁무진이 잔뜩 상기된 얼굴로 나를 바라봤다.
+
+“혼주(昏住)입니다.”
+
+그녀와의 거리가 이틀까지 좁혀진 순간이었다.
+```
+
+## Final English reading copy
+
+```markdown
+# Chapter 103
+
+Clatter, clatter.
+
+The carriage lurched dangerously under the hands of an inexperienced coachman.
+
+Though it was a fairly well-maintained makeshift road, the blizzard that had continued for several days had frozen the whip into an icicle, and it kept jabbing the horses in the rump.
+
+And then, at last, trouble struck.
+
+Thud!
+
+Neigh!
+
+The four fine horses, which had been moving their hooves surprisingly quickly despite the slippery snow, suddenly stopped.
+
+“Gah!”
+
+The coachman nearly pitched forward but somehow managed to regain his balance. Yet more than the relief of avoiding a fall, he was consumed by fear of what was about to happen.
+
+*Please, Jade Emperor, Primordial Heavenly Venerable.*[^1]
+
+Had his desperate prayer been answered? He cautiously peeked into the carriage, but the two young men were sitting there as though nothing had happened.
+
+*Well, technically, one of them is sleeping.*
+
+One young man was buried in fur until only his forehead showed. Perhaps someone had pressed a sleep-inducing pressure point, because he showed no sign of waking. The other sat cross-legged, utterly absorbed in circulating his qi.
+
+Sssssip. Hooooo.
+
+If anyone had witnessed the scene, they would have been surprised twice.
+
+Once by the young man’s handsome features, and once again by the formless qi of a Peak master pouring from his body.
+
+Hyuk Mujin, the coachman, thought he had grown somewhat accustomed to him by now. But he was no different.
+
+*What kind of bullshit is this?*
+
+His envy had gone beyond envy and reached the point of anger.
+
+A handsome face and genius-level martial talent. If he possessed even one of those things, he would have no other wish in the world. But that young man, Jin Mukyung, had both.
+
+*And there’s even another one.*
+
+The same went for the other young man, Jin Taekyung, who had said he would circulate his qi only to fall into a deathlike sleep.
+
+No, he might even be a greater monster than his older brother, Jin Mukyung.
+
+After all, only a few months ago, he had been a Third Rate wastrel who did nothing but visit pleasure houses. Now, he was the Sleeping Dragon of Shanxi.
+
+*How can two brothers be this alike?*
+
+Their handsome features had been inherited in full from their mother, who had once been known as Shanxi’s foremost beauty. Their talent was so extraordinary it inspired jealousy.
+
+And lastly…
+
+*They were both assholes.*
+
+Hyuk Mujin glared at the two brothers in turn.
+
+One had taken all the fur for himself to keep warm, whether his subordinate froze to death on the driver’s bench or not. The other had given him hell for a full two hours because he couldn’t even drive a carriage properly, and now he was comfortably circulating his qi.
+
+*They’re perfectly matched.*
+
+They should have been difficult to rank because of their excellence, but these brothers were the opposite.
+
+Hyuk Mujin was carefully considering which brother had the worse personality when it happened.
+
+“Hey.”
+
+A chilly voice. Formless qi poured from the eyes of the man who had just finished circulating his qi, binding Hyuk Mujin in place.
+
+“What are you doing? Why aren’t you driving?”
+
+“A problem, ahem, came up for a moment.”
+
+“What problem?”
+
+“Well…”
+
+What would happen if he told him that the horses had gotten angry because the frozen whip kept stabbing them in the rump? Hyuk Mujin made the wise choice.
+
+“My body is frozen, so I can’t drive.”
+
+He also wanted to take a break. Didn’t the backside that had been suffering on the driver’s bench deserve some rest?
+
+But Jin Mukyung’s response was simple.
+
+“Hand.”
+
+“Pardon?”
+
+“Give me your hand.”
+
+Hyuk Mujin reflexively held out his hand like a mutt. Jin Mukyung grabbed it and casually said,
+
+“Bear with the heat.”
+
+Before Hyuk Mujin could understand what he meant, an enormous surge of qi traveled through his fingertips. The fire qi was so intense that his entire body seemed to catch fire, and his breath caught in his throat.
+
+*Gah!*
+
+The shock was too great for a scream to come out. It lasted no more than an instant, but Hyuk Mujin stood there with his mouth hanging open, his body trembling violently. He did not even realize that Jin Mukyung had already let go of his hand.
+
+“How is it? Better?”
+
+Only then did Hyuk Mujin come to his senses. He barely managed to open his mouth.
+
+“What, what was that just now?”
+
+“A simple type of heat-yang technique.”
+
+“That didn’t look simple… I thought I was going to burn to death.”
+
+“Really? I suppose I’m still unskilled at it, since I only learned it superficially.”
+
+Jin Mukyung’s offhand tone left Hyuk Mujin dumbfounded.
+
+*Why would you use something you only learned superficially on me…?*
+
+Hard to tell the brothers apart? The older brother won the contest by a mile.
+
+Jin Taekyung had beaten him up before, but he had never tried to burn him to death with heat-yang qi.
+
+“Now go drive the carriage. We still have a long way to go.”
+
+“…”
+
+He hadn’t merely warmed up. He had been roasted. But the effect was undeniable.
+
+“Then I’ll get us moving again.”
+
+When Hyuk Mujin returned to the driver’s bench with his body blazing hot, Jin Mukyung turned his gaze forward.
+
+Jin Taekyung was buried in fur so thoroughly that it was difficult to tell whether he was a bear or a person.
+
+*He said he was going to circulate his qi, but he’s sleeping like a log.*
+
+Mukyung had thought he was talking nonsense, but he hadn’t expected him to sleep so openly. A martial artist was supposed to constantly ponder martial arts and train without rest.
+
+Jin Mukyung shouted with a stern expression.
+
+“You rascal! Will you not get up this instant?”
+
+His voice reverberated so loudly that Hyuk Mujin on the driver’s bench and even the horses flinched. Yet Jin Taekyung himself did not stir.
+
+Snnn. Snnn.
+
+“You rascal!”
+
+Jin Mukyung sprang to his feet and struck his younger brother’s forehead with his palm. With a sharp smack, the skin turned bright red.
+
+*Let’s see if this wakes you up.*
+
+Smack, smack, smack.
+
+Snnn. Snnn.
+
+“…”
+
+His forehead had turned red enough for a lump to rise and look ready to burst, yet he did not twitch.
+
+Jin Mukyung was overwhelmed by shock. Even a commoner without a shred of internal energy should have screamed awake from this. Yet this guy, supposedly a top-tier First Rate martial artist and the Sleeping Dragon of Shanxi, did not move an inch.
+
+Jin Mukyung had never seen anyone so defenseless in all his life.
+
+*And that guy is my younger brother.*
+
+Just as the training he had put Taekyung through over the past several days was beginning to feel like a complete waste of time—
+
+“Hmm.”
+
+The eyes that had seemed destined to remain closed forever slowly opened.
+
+
+
+* * *
+
+
+
+Before I even opened my eyes, I realized that I had returned to Murim.
+
+The cool air against my cheek. The rattling interior of the carriage.
+
+And pain.
+
+“…”
+
+Wait. Why was I in pain?
+
+When I opened my eyes, a fairly familiar face was looking down at me.
+
+*Jin Mukyung.*
+
+I ignored his expression, which seemed to say *What kind of person is this?*, and straightened my slumped body. Only then did I identify the source of the pain.
+
+“Ow.”
+
+My forehead. When I carefully touched it, I felt a lump and the heat radiating from the surrounding skin.
+
+*What the hell?*
+
+How had I gotten a lump on my forehead?
+
+For a moment, I wondered if I had slammed my head against the wall. But with the bones, muscles, and toughness I had steadily built up, that wouldn’t even leave a scratch.
+
+*This was a deliberate hit, plain and simple.*
+
+Fortunately, there were two suspects right in front of me.
+
+Jin Mukyung and Hyuk Mujin. Even a three-year-old could tell who the culprit was.
+
+“What did you do while I was asleep?”
+
+“While you were sleeping? Didn’t you say you were circulating your qi before that?”
+
+“…”
+
+*I did?*
+
+It had happened long enough ago that I couldn’t even remember it. But that wasn’t important right now.
+
+“You hit someone while they were sleeping?”
+
+“You looked so pathetic that I did. A martial artist like you was sleeping away instead of training.”
+
+“You call yourself a martial artist and attack someone who’s defenseless?”
+
+“Then shall we get off right now and have a bout? Like true martial artists?”
+
+We both sprang to our feet and glared at each other without waiting for the other to move first. Jin Mukyung spoke in an ominous tone.
+
+“Hyung Mujin.”
+
+“It’s Hyuk Mujin. Second Young Master, please.”
+
+“Stop the carriage.”
+
+“…”
+
+“Yes, sir.”
+
+The carriage slowly began to decelerate. Now it was my turn. I met his gaze and opened my mouth.
+
+“Hyuk Mujin.”
+
+“Ah, why me this time, Squad Leader?”
+
+“Keep going.”
+
+“Haah, this is driving me crazy.”
+
+The carriage began to speed up again. As I slowly sat back down, Jin Mukyung asked with an incredulous expression,
+
+“Didn’t you just suggest that we have a bout like martial artists?”
+
+“What a joke. The mission comes first, and fighting comes after. And…”
+
+“And?”
+
+“I never said we should fight. I only said you were underhanded.”
+
+“…”
+
+I had said it as confidently as possible, but there was no hiding how lame it looked.
+
+I snuck a look at Jin Mukyung’s Level window.
+
+
+
+> **System**
+>
+> **Lv. ??? Jin Mukyung**
+
+*Right. Come on, fighting him the moment I got back would be a bit much.*
+
+
+
+* * *
+
+
+
+*Check the Quest window.*
+
+Ding.
+
+
+
+> **System**
+>
+> **Quest**
+>
+> **Yesterday’s Enemy, Today’s Ally**
+>
+> Now that all the truth has been revealed, the Mount Heng Sword Sect is no longer an enemy but an ally you must join forces with. Invite them to the Jin Family of Taiyuan for the upcoming Lunar New Year.
+>
+> **Grade:** First Rate
+>
+> **Restriction:** Jin Taekyung
+>
+> **Mission:** Deliver the invitation (Incomplete)
+>
+> **Reward:** ???
+>
+> **Failure:** None
+
+I took one more look at the last Quest I had received.
+
+It was an easy mission. The Quest’s Grade wasn’t particularly high, and there was no penalty for failure. I simply had to deliver the invitation to the Mount Heng Sword Sect.
+
+*The Mount Heng Sword Sect…*
+
+The current Mount Heng Sword Sect had been reduced to its bare bones. Once Lee Seogeun was poisoned and the pillar known as Lee Cheonbaek fell, its collapse had been swift.
+
+*The battle at Eight Spring Gorge had been the fatal blow.*
+
+They say words without feet can travel a thousand li.
+
+That day’s battle, watched by countless eyes and ears, spread rapidly through messenger pigeons and word of mouth. With nearly all its main forces gone, the Mount Heng Sword Sect became easy prey for someone.
+
+*Wandering martial artists. And mounted bandits.*
+
+They said as many as two hundred attackers had suddenly raided the Mount Heng Sword Sect. After two days and nights of fighting, the attackers were driven off. Lee Seogwang, who had remained at the sect after being placed under disciplinary confinement, ultimately fell in battle.
+
+The Mount Heng Sword Sect needed a new rallying point, and one person emerged.
+
+*Lee Seowol.*
+
+Lee Cheonbaek’s last surviving descendant, and the current Sect Leader of the Mount Heng Sword Sect.
+
+We had to deliver this invitation to her.
+
+The problem was…
+
+*We had a thoroughly uncomfortable relationship.*
+
+Actually, “uncomfortable” was a softened description from my perspective.
+
+In a way, the two of us had been at the very starting point of all this.
+
+*I think it was right after I came out of the training cave.*
+
+I remembered Wipeng’s words exactly, down to the last syllable.
+
+“Is it true that you tried to force yourself on the daughter of the Mount Heng Sword Sect?”
+
+These days, no one was unaware of my innocence. But back then, I had been treated like the worst bastard under heaven.
+
+Lee Seogeun, who had come to pressure the Jin Family of Taiyuan with fabricated evidence, was poisoned on his way home, and that was the beginning of everything.
+
+*Only a month or two has passed.*
+
+The Third Rate wastrel despised by his own family had become the Sleeping Dragon of Shanxi, while the woman whose name I hadn’t even known was now the new Sect Leader of the Mount Heng Sword Sect.
+
+We had both gone through so many changes in the meantime that, in a sense, we had something in common.
+
+*Our positions, however, were very different.*
+
+The Jin Family of Taiyuan was now, by everyone’s admission, the foremost family in Shanxi.
+
+The Mount Heng Sword Sect, on the other hand, was nothing more than an empty shell. This invitation was, in truth, almost a proposal that they surrender and come under the Jin Family of Taiyuan.
+
+I would have to experience it firsthand to know how Lee Seowol would react.
+
+*I just hope she doesn’t suddenly stab me.*
+
+Just as I closed the Quest window, sunlight streamed in and the sound of a boisterous crowd drew closer. Hyuk Mujin looked at me, his face flushed with excitement.
+
+“We’re at Honju.”
+
+We were now only two days away from her.
+
+[^1]: The Jade Emperor and Primordial Heavenly Venerable are major figures in Daoist cosmology.
+```
