@@ -365,3 +365,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 혈교 | **Blood Cult** | Demonic organization named as a possible source of the intruder. |
 | 강시 | **jiangshi** | Reanimated corpse from folklore; Childeuk and Hong mistakenly identify Taekyung as one. |
 | 태초 마을 | **Taecho Village** | Place named by Taekyung immediately after surviving the fall. |
+| 벽호공 | **Wall Lizard Technique** | Climbing martial art used to scale walls and cliffs. |

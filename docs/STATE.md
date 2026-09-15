@@ -1,16 +1,15 @@
 # Translation State
 
-- Last completed: 152
-- Next chapter: 153
-- Current block: 150–154 (3/5)
-- Latest translation: `translations/0152.md`
-- Latest summary: `summaries/beats/0152.md`
-- Safe profiles through: chapter 152
+- Last completed: 153
+- Next chapter: 154
+- Current block: 150–154 (4/5)
+- Latest translation: `translations/0153.md`
+- Latest summary: `summaries/beats/0153.md`
+- Safe profiles through: chapter 153
 
 ## Current Block
 
-- Jang Childeuk begins his new assignment as a martial artist guarding the Jin Family's largely unused training hall. The older martial artist Hong explains that the post is maintained as a symbol because Founder Jin Muryang once trained beneath the cliff and allegedly blasted open its base with One Strike.
-- While Childeuk and Hong are on duty, Taekyung falls from the cliff after slowing his descent with a dagger. He survives with help from his physique and toughness stats, but is badly battered. Childeuk and Hong mistake him for a jiangshi until Childeuk recognizes him as the Jin Family's Third Young Master; Taekyung's first words after waking mention Taecho Village again.
+- Jin Taekyung and Hyuk Mujin train by repeatedly climbing a steep unnamed cliff with the Wall Lizard Technique, without using internal energy or weapons. Cheongpung repeatedly drops rocks on them, rescues Mujin from a fall with the Zaha Divine Technique, and insists that their first successful climb means they must do it nine more times. Taekyung's Strength, Agility, and Stamina each increase by one during the climb; after Cheongpung cuts through the ledge beneath them with Sword Energy, the Quest [Sword Saint Training: A Secondhand Experience] is generated.
 
 ## Open Questions
 
@@ -32,7 +31,7 @@
 - Render 태사부 as “Grandmaster,” 사숙 as “Martial Uncle,” 자하신공 as “Zaha Divine Technique,” 근위대 as “royal guard,” and 근위대 갑옷 세트 as “Royal Guard Armor Set.”
 - Render 비무행 as “dueling tour,” 청강검 as “blue-steel sword,” and 광염 as “light-flames.”
 - Render 검신 as “Sword God,” 검성 as “Sword Saint,” 임독양맥 as “Conception and Governor Vessels,” 기해 as “qi sea,” 근맥 as “Sinews and Meridians,” 사해오호 as “Four Seas and Five Lakes,” and 환골탈태 as “Bone Transformation.”
-- Render 연무장 as “training ground,” 수련동 as “training hall,” 청석 as “bluestone,” 십팔반병기 as “eighteen traditional weapons,” 찍고 땡 as “touch-and-go method,” 진무량 조사 as “Founder Jin Muryang,” 천응 as “Heavenly Eagle,” 강시 as “jiangshi,” 혈교 as “Blood Cult,” and 태초 마을 as “Taecho Village.”
+- Render 연무장 as “training ground,” 수련동 as “training hall,” 청석 as “bluestone,” 십팔반병기 as “eighteen traditional weapons,” 찍고 땡 as “touch-and-go method,” 진무량 조사 as “Founder Jin Muryang,” 천응 as “Heavenly Eagle,” 강시 as “jiangshi,” and 태초 마을 as “Taecho Village.”
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

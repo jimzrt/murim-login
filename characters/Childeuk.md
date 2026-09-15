@@ -1,6 +1,6 @@
 # Childeuk (칠득이)
 
-- **Safe through:** Chapter 152
+- **Safe through:** Chapter 153
 - **Aliases:** None
 - **Role:** Illiterate Level 15 martial artist and servant of the Jin Family of Taiyuan, directly under Jin Wikyung; newly appointed to guard the training hall and intensely loyal to the family
 - **Personality:** Physically strong, diligent, gullible, and intensely excitable; readily interprets praise as recognition of exceptional talent
