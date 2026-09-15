@@ -1,0 +1,62 @@
+{
+  "chapter": 207,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.214,
+    "source_characters": 5676,
+    "source_paragraphs": 202,
+    "translation_characters": 12567,
+    "translation_paragraphs": 208
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "system_brackets",
+      "details": {
+        "line": 103
+      },
+      "message": "System window contains square brackets"
+    },
+    {
+      "code": "system_brackets",
+      "details": {
+        "line": 433
+      },
+      "message": "System window contains square brackets"
+    },
+    {
+      "code": "system_brackets",
+      "details": {
+        "line": 437
+      },
+      "message": "System window contains square brackets"
+    },
+    {
+      "code": "numbers",
+      "details": {
+        "values": [
+          "0",
+          "1"
+        ]
+      },
+      "message": "Arabic numerals from the source are absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "평화",
+        "preferred": "Peace Guild"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}

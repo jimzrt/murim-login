@@ -1,0 +1,41 @@
+{
+  "chapter": 207,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.215,
+    "source_characters": 5676,
+    "source_paragraphs": 202,
+    "translation_characters": 12571,
+    "translation_paragraphs": 208
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "numbers",
+      "details": {
+        "values": [
+          "0",
+          "1"
+        ]
+      },
+      "message": "Arabic numerals from the source are absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "평화",
+        "preferred": "Peace Guild"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
