@@ -1,0 +1,15 @@
+{
+  "summary": "The chapter is otherwise faithful, but a repeated name-and-address inconsistency after Song-i introduces herself is promotion-blocking.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "major",
+      "source": "lines 199, 255–257, 289, 299, 337, 399, 409, 433, 449, 455, and 457",
+      "current": "Song Song stopped just as she picked up the tongs and scissors.",
+      "defect": "After her given name is revealed and the narration explicitly switches from Miss Song to Song-i, the English repeatedly renders 송이 씨 as either Song Song or Miss Song. This loses the source’s consistent post-reveal use of her given name and violates the binding Song-i glossary entry.",
+      "replacement": "Song-i stopped just as she picked up the tongs and scissors.",
+      "rationale": "The source distinguishes 송 양 (Miss Song), 송송이 (Song Song), and 송이 씨 (Song-i). The assembled copy initially preserves that distinction, then repeatedly collapses 송이 씨 into the surname-based or full-name forms.",
+      "confidence": 0.99
+    }
+  ]
+}
