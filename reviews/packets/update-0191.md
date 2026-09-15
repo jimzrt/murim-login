@@ -1,0 +1,2072 @@
+<!-- packet-manifest
+{
+  "included": [
+    {
+      "path": "source/0191.txt",
+      "sha256": "7504e17ac7b9f6828524f3be41598919f9b24453c9492adf229e89f0e951053f",
+      "bytes": 15993
+    },
+    {
+      "path": "docs/CONTEXT.json",
+      "sha256": "dfd9310ae221158d015a9c387d9a0e5dc7b26fde6aa03cd90aff756df67512df",
+      "bytes": 3415
+    },
+    {
+      "path": "docs/NAMES.md",
+      "sha256": "7a446827951ba7108f381c28a211ef58f36e24ed9dea1e7bc30314ad2b7734bf",
+      "bytes": 48062
+    },
+    {
+      "path": "characters/Baek Museong.md",
+      "sha256": "6ea9c6538ebde955b4116e376a27bfd330f520eccd552de04581dd9b96e28095",
+      "bytes": 781
+    },
+    {
+      "path": "characters/Cheongpung.md",
+      "sha256": "505d2adf3972e59d78ac9974a7fb1f9bd1770481fb19b1f45ed2be28af0edc63",
+      "bytes": 2091
+    },
+    {
+      "path": "characters/Chulwoo.md",
+      "sha256": "0c91c091071161a7113b69e7d93fd7e9962e9c545ff2272a4da2dc5c722d2463",
+      "bytes": 1092
+    },
+    {
+      "path": "characters/Gong Ilhyuk.md",
+      "sha256": "cf0ab79d3ba41d8a10f27e459c12dc47f40cb0bfb22dd9bbed2b5e9c37a781a3",
+      "bytes": 614
+    },
+    {
+      "path": "characters/Gong Iljung.md",
+      "sha256": "313e0007644b307b7bd9ff6b5aae5eff14ed063ce718b1951c52c7ba13ab4b70",
+      "bytes": 420
+    },
+    {
+      "path": "characters/Hyuk Mujin.md",
+      "sha256": "e184b0d6cea2359e018d9de0e895b318b20507f34c4986d61af7f3c02e6883d6",
+      "bytes": 5558
+    },
+    {
+      "path": "characters/Jin Taekyung.md",
+      "sha256": "9471de3eae698fa2a77edaa0cafbb25d58c08165c88f63eb4df4b08a7206eb2d",
+      "bytes": 25156
+    },
+    {
+      "path": "characters/Jin Wikyung.md",
+      "sha256": "7f3d6214809bf0ba4cc650ab7248d39085c615300ba4bcfcf9ba90e5339f84c8",
+      "bytes": 8320
+    },
+    {
+      "path": "characters/Jintae.md",
+      "sha256": "40e8407383c3a28405c6b58ef754a97b57a994bf223d70b002f510f09d47f9f7",
+      "bytes": 622
+    },
+    {
+      "path": "characters/Prince Shangshan.md",
+      "sha256": "4568314f36fce777e3d8f194c81b381ec7adc1991dd66e947da990d986990af8",
+      "bytes": 1019
+    },
+    {
+      "path": "docs/ADDRESS.md",
+      "sha256": "69fd624e57371fb59eeb507710a624d9cdf451b8bd54427acc6a92c05b1f9268",
+      "bytes": 41190
+    }
+  ],
+  "estimated_tokens": 35858
+}
+-->
+
+# Durable State Update — Chapter 191
+
+Return exactly one JSON object and no Markdown fence. Record only facts established
+by this chapter. Do not use tools, edit prose, infer future events, or copy archived
+profile continuity.
+
+`context` must contain exactly the durable context schema shown below, with version
+1 and safe_through 191. Keep at most
+2 continuity_sources. Keep
+`active_continuity` to at most 20 concise items, `open_questions` to at most 8
+items, and `temporary_decisions` to at most 8 items. Keep the serialized context
+under 16384 UTF-8 bytes. Use only chapter
+numbers through 191. `profile_updates` may replace one exact, uniquely occurring
+complete line in a listed profile, and only an Aliases, Role, Personality, Voice, or
+Relationships line. Use `profile_creations` only for a newly introduced named
+character without a listed profile. Filenames must be plain `.md` basenames.
+`names` contains only newly required Korean-to-English rows; Korean keys must occur
+in the source. `address_pairs` contains only newly required speaker→addressee rows;
+each Korean key must occur in the source or already appear in the address ledger,
+and at least one endpoint must occur in the source (first-person narrators may be
+ledger-only). Speaker and addressee must be Hangul source spellings (Arabic digits
+allowed in titles such as 1팀장; do not romanize). Do not invent risk-register rows. Beat
+plot paragraphs are plain strings; continuity and translation decisions are concise
+list items.
+Return this exact shape:
+
+{
+  "chapter": 191,
+  "beat": {
+    "plot": ["chapter plot paragraph"],
+    "continuity": ["binding continuity item"],
+    "translation_decisions": ["binding terminology or voice decision"]
+  },
+  "context": {
+    "version": 1,
+    "safe_through": 191,
+    "continuity_sources": [191],
+    "active_continuity": ["active fact"],
+    "open_questions": ["unresolved question"],
+    "temporary_decisions": ["temporary translation decision"]
+  },
+  "names": [
+    {"korean": "source spelling", "english": "English rendering", "notes": "brief note"}
+  ],
+  "address_pairs": [
+    {
+      "speaker": "speaker Korean",
+      "addressee": "addressee Korean",
+      "kinship": "kinship or role relation",
+      "normal_address": "established English address",
+      "speech_level": "speech level",
+      "notes": "brief note"
+    }
+  ],
+  "profile_updates": [
+    {
+      "path": "characters/Listed Profile.md",
+      "current": "- **Role:** exact current full line",
+      "replacement": "- **Role:** finished replacement full line"
+    }
+  ],
+  "profile_creations": [
+    {
+      "filename": "English Name.md",
+      "korean": "source name",
+      "english": "English Name",
+      "aliases": [],
+      "role": "stable role",
+      "personality": "stable traits",
+      "voice": "stable voice",
+      "relationships": "stable relationships"
+    }
+  ]
+}
+
+Use empty arrays when no name, address-pair, or profile change is required.
+
+## Prior durable context
+
+```json
+{
+  "active_continuity": [
+    "Jeok Cheongang entrusted Jin Taekyung with the Flame Divine Palm manual and the Unnamed Sword forged from Ten-Thousand-Year Cold Iron.",
+    "Jin Wikyung ordered Taekyung, Hyuk Mujin, and Cheongpung to keep the Fire King's entrusted items and all related information secret because they can awaken Greed and drive people mad.",
+    "Three Dark Heaven remnants survived interrogation under powerful restrictions; Wipeng was ordered to keep them alive as the Jin Family's only physical evidence.",
+    "Jin Wikyung suspects Dark Heaven's attack on Shanxi Province was only the beginning and considers the Jin Family's victory suspiciously easy.",
+    "Jin Wikyung is using the grand banquet to draw loyalty and gifts from former neutrals.",
+    "Lee Seowol and the Mount Heng Sword Sect swore loyalty to the Jin Family of Taiyuan on New Year's Day, and the Jin Family accepted the sect as its vassal.",
+    "Chulwoo is twenty-five, has fallen intensely in love with Lee Seowol, and challenged Taekyung after seeing him interact with Seowol.",
+    "Taekyung has unlocked access to Sound Transmission through reaching the Peak realm but has not yet learned to use it without practice.",
+    "Taekyung's current Strength exceeds 300, and he has allocated twenty stat points to Strength and fifty to Agility.",
+    "Jin Taekyung defeated Chulwoo in the banquet duel after evading Crouching Tiger Fist, resisting Chulwoo's strength, and knocking him unconscious.",
+    "The Quest There Is a Man Who Loved You So Much was completed, granting large EXP and Fame rewards and two level-ups; Taekyung is now Level 73.",
+    "Cheongpung says Taekyung's victory relied on extraordinary speed and that Taekyung read and countered Crouching Tiger Fist after two days.",
+    "Baek Museong apologized to Jin Wikyung for his earlier rudeness and acknowledged learning from Taekyung and Chulwoo's duel.",
+    "Four Zhongnan Sect visitors arrived at the Jin Family gate, led by the Roaring Fury Swordsman, seeking Jin Taekyung and Cheongpung."
+  ],
+  "continuity_sources": [
+    190
+  ],
+  "open_questions": [
+    "What is Dark Heaven ultimately seeking, and why was Shanxi Province targeted?",
+    "Who are the three surviving Dark Heaven remnants, and what can be learned from them?",
+    "Who or what is revealed when the human curtain at the Grand Training Ground splits apart?",
+    "Does Jeok Cheongang intend to take Jin Taekyung as his Disciple?",
+    "When will Jang Taebo complete Taekyung's commissioned weapon?",
+    "Who has the Treasured Jade, or was it lost by Jopil?",
+    "What consequences will follow Woo Hwangtae's conflict with Chulwoo and the Jin Family?",
+    "What do the four Zhongnan Sect visitors want from Jin Taekyung and Cheongpung?"
+  ],
+  "safe_through": 190,
+  "temporary_decisions": [
+    "Render 화왕 as “Fire King” and 화염신장 as “Flame Divine Palm.”",
+    "Render 만년한철 as “Ten-Thousand-Year Cold Iron” and 이름 없는 검 as “Unnamed Sword.”",
+    "Render 암천 as “Dark Heaven.”",
+    "Render 전음 as “Sound Transmission.”",
+    "Render 대연무장 as “Grand Training Ground.”",
+    "Render 주모 as “Lady of the House.”",
+    "Render 권기 as “Fist Qi.”",
+    "Render 화산제일의 기재 as “Huashan’s greatest prodigy,” and 철하다. 추우야 as “Chulthetic, Pawoo.”"
+  ],
+  "version": 1
+}
+```
+
+## Existing names ledger
+
+# Established Names
+
+Binding Korean → English for names, titles, aliases, and forms established in
+accepted chapters. Injected only when the exact Korean appears in the current
+chapter. Overrides `compendium.md` on the same Korean key. Add a row at first
+use. First use of an unlisted name or title almost always needs a footnote.
+
+| Korean | Preferred English | Notes |
+| ------ | ----------------- | ----- |
+| 장삼 | **Jang Sam** | Bandit; personal name |
+| 천력부 | **Heavenly Axe** | Epithet of Jang Sam; never romanize |
+| 천관일 | **Sky-Piercing Strike** | Final form of the Jin Family's Spear Technique; 天貫軼 |
+| 녹림십팔채 | **Eighteen Strongholds of Green Forest** | |
+| 홍화루 | **Honghwaru** | Lower District Sect Shanxi branch; pleasure house in Taiyuan |
+| 하연 | **Hayeon** | Jin Taekyung’s younger sister |
+| 응현 | **Eung-hyeon** | Jin Family branch location |
+| 산음 | **Saneum** | Jin Family branch location |
+| 삭주 | **Sakju** | Jin Family branch location |
+| 정양 | **Jeongyang** | Shanxi location |
+| 혼주 | **Honju** | Shanxi location |
+| 견정 | **Gyeonjeong** | Acupoint |
+| 아문 | **Amun** | Acupoint |
+| 봉안 | **Bongan** | Acupoint |
+| 입동 | **Ip-dong** | Acupoint |
+| 갱생권 | **Reformation Fist** | Jin Mukyung's named fist technique |
+| 금나수 | **grappling technique** | Close-combat wrist-lock technique; rendered descriptively |
+| 삼재검법 | **Three Calamities Sword Technique** | Sword technique Mukyung assumes Taekyung is pretending to use. |
+| 약왕당 | **Medicine King Hall** | The Jin Family's medical hall. |
+| 이공자 | **Second Young Master** | Title used for Jin Mukyung. |
+| 수문각주 | **Master of the Gatekeeper Pavilion** | Office Hyuk Mujin is rumored to receive. |
+| 공청석유 | **gongcheong seokyu** | Rare martial-arts elixir; the term also creates a petroleum pun. |
+| 군자 | **junzi** | Confucian ideal of a morally upright gentleman. |
+| 삼문협 | **Three Questions Gorge** | A distant gorge and route connecting Shanxi with Shaanxi and Henan. |
+| 섬서 | **Shaanxi** | Province bordering Shanxi. |
+| 삼공자 | **Third Young Master** | Title used for Jin Taekyung. |
+| 맹주 | **Alliance Leader** | Leader of the regional Murim alliance. |
+| 약왕당주 | **Medicine King Hall Master** | The unnamed physician who runs the Medicine King Hall. |
+| 송검문 | **Song Sword Sect** | Small-to-medium sect in central Shanxi. |
+| 송검문주 | **Sect Leader of Song Sword Sect** | Title held by Huang. |
+| 귀검 | **Ghost Sword** | Wipeng's epithet. |
+| 황 모 | **Huang** | Surname-style self-reference by the Sect Leader of Song Sword Sect. |
+| 아스모데우스 | **Asmodeus** | Demon King referenced in Taekyung's sarcastic comparison; does not appear directly. |
+| 낙류검 | **Falling Flow Sword** | Named sword technique discovered by Mukyung in the archives of Heaven's Gate Temple; its name evokes a waterfall. |
+| 질풍십이권 | **Twelve Gale Fists** | Named fist technique Mukyung threatens to use against Taekyung. |
+| 화염신장 | **Flame Divine Palm** | Jopil's deadly palm technique, noted when Taekyung compares Jopil with Mukyung. |
+| 마혈 | **Paralysis Acupoint** | System condition label for temporary paralysis. |
+| 아혈 | **Mute Acupoint** | System condition label preventing speech. |
+| 분근착골 | **Tendon-Splitting and Bone-Twisting** | Cruel immobilization technique described by Mukyung. |
+| 일문일살 | **One Question, One Kill** | Jopil's alias. |
+| 군자검 | **Junzi Sword** | Epithet Jin Wikyung begins receiving after the war. |
+| 칠득이 | **Childeuk** | Jin Family servant. |
+| 천자문 | **Thousand Character Classic** | Classical text Childeuk cannot complete. |
+| 천무지체 | **Heavenly Martial Physique** | Named physique or constitution mentioned hypothetically by Jin Mukyung. |
+| 장칠득 | **Jang Childeuk** | Personal-name form of Childeuk; he is newly appointed as a martial artist directly under Jin Wikyung. |
+| 최 팀장 | **Team Leader Choi** | Team Leader who owns the café where Taekyung signs a contract. |
+| 명품충 | **Designer-Brand Junkie** | Display name used by Team Leader Choi in a text message. |
+| 평화 | **Peace Guild** | Guild name. |
+| 김 집사 | **Butler Kim** | Choi's butler and limousine driver. |
+| 히말라야 | **Himalayas** | Mountain region referenced as the source of the bottled water. |
+| 히말라야의 정수 | **Essence of the Himalayas** | System-named consumable that temporarily raises Intelligence. |
+| 부천 | **Bucheon** | City with a dense concentration of Gates and Guild headquarters. |
+| 강남 | **Gangnam** | Formerly valuable Seoul-area real estate. |
+| 분당 | **Bundang** | Formerly valuable Korean real estate area. |
+| 대한민국 | **Korea** | Country reference. |
+| 순이 | **Sooni** | Former owner of Sooni's Super. |
+| 순이네 수퍼 | **Sooni's Super** | The Peace Guild's Guild house. |
+| 송 양 | **Miss Song** | The Peace Guild's final member; full identity not yet given. |
+| 아레스 | **Ares Guild** | The leading Guild in Korea; formerly employed Team Leader Choi and Song Song. |
+| 논산 | **Nonsan** | Location of Korea's Hunter training center. |
+| 임혁준 | **Im Hyeokjun** | Im Kkeokjeong's personal name, shown in the System Level window. |
+| 미노타우로스 | **Minotaur** | B-rank monster species. |
+| 부천터미널 길드 | **Bucheon Terminal Guild** | Guild whose raid footage is shown. |
+| 미노타우로스의 미로 | **The Minotaur's Labyrinth** | B-rank Gate. |
+| 상동 길드 | **Sangdong Guild** | Mid-sized Guild near Bucheon that joins Peace Guild's first official raid. |
+| 헌터 협회 | **Hunter Association** | Organization investigating the Bucheon Terminal Guild fatality. |
+| 흑색 드레이크 | **Black Drake** | B-rank monster whose leather and spine are used for Taekyung's loaned equipment. |
+| 장인의 흑색 드레이크 가죽 세트 | **Masterwork Black Drake Leather Set** | Peak-grade armor set loaned to Taekyung. |
+| 장인의 검은 가시 창 | **Masterwork Black Thorn Spear** | Peak-grade spear loaned to Taekyung. |
+| 출혈 | **Bleeding** | Effect with a 90% activation chance on a successful spear hit. |
+| 니콜라스 | **Nicholas** | North American craftsman associated with the space-expansion suitcase. |
+| K사 | **K Company** | Manufacturer of the space-expansion suitcase. |
+| 혜린 | **Hye-rin** | C-rank female mage and member of Im Changsoo's Sangdong Guild team. |
+| 청담동 | **Cheongdam-dong** | District mentioned as a luxury shopping location. |
+| 투우사의 전신 갑옷 | **Matador’s Full-Body Armor** | Peak-grade armor equipped by Im Kkeokjeong; grants bonuses against bovine-type monsters. |
+| 투우사의 방패 | **Matador’s Shield** | Peak-grade shield equipped by Im Kkeokjeong; can activate Taunt and Hallucination against bovine-type monsters. |
+| 도발 | **Taunt** | System effect that the Matador’s Shield can activate against bovine-type monsters. |
+| 환각 | **Hallucination** | System effect that the Matador’s Shield can activate against bovine-type monsters. |
+| 미노타우로스 전사 | **Minotaur Warrior** | Level-window designation for the first Minotaur encountered in the labyrinth. |
+| 발설지옥 | **tongue-pulling hell** | Buddhist hell associated with punishment for liars and slanderers; explained in a footnote. |
+| 껄떡쇠 | **Horndog** | Im Changsoo’s nickname for his womanizing. |
+| 강원도 | **Gangwon Province** | Province named in Taekyung’s joke about the Minotaur’s next life. |
+| 횡성 | **Hoengseong** | Place in Gangwon Province named in Taekyung’s joke. |
+| 자일리톤 | **Xyliton** | Finnish equipment manufacturer whose custom helmet records video. |
+| 유네스코 | **UNESCO** | Organization referenced in Taekyung’s cultural-heritage joke. |
+| 일섬 | **One Annihilation** | Named spear technique Taekyung uses to kill the Boss Zone monster in one blow. |
+| 미노타우로스 대전사 | **Minotaur Warrior** | Level 70 B-rank boss monster of The Minotaur's Labyrinth. |
+| 임 팀장님 | **Team Leader Im** | Formal address for Im Changsoo used by a Sangdong Guild teammate. |
+| 프로즌 | **Frozen** | Im Chunsoo's epithet as an A-rank ice mage. |
+| K은행 | **K Bank** | Bank where Im Changsoo's transfer is reported. |
+| 김정희 | **Kim Jeonghee** | Jin Taekyung and Hayeon's mother; restaurant kitchen worker |
+| 아줌마 | **ajumma** | Familiar term for a middle-aged or married woman, used for Kim Jeonghee |
+| 사장님 | **Boss** | Address for the restaurant owner; contextually rendered as ma'am in one reply |
+| 김민수 | **Kim Minsu** | The restaurant owner's son; D-rank Hunter in Sangdong Guild. |
+| 민수 | **Minsu** | Short form used for Kim Minsu. |
+| 운기요상 | **Circulate Qi for Healing** | System-named skill that channels internal energy through another person's body to cleanse accumulated waste and restore health. |
+| 하급 포션 | **Lesser Potion** | Low-grade healing potion issued as raid supplies; its System Grade is Third Rate. |
+| 3차 각성자 | **third-awakening Hunter** | Hypothetical Hunter classification that would come after reawakening. |
+| 재각성 | **reawakening** | Established Hunter awakening category described as having no further stage. |
+| 피의 일주일 | **Bloody Week** | The hellish first week after Gates opened, during which casualties reached the tens of millions. |
+| 전세 | **jeonse lease** | Korean lump-sum deposit lease used in the family's redevelopment-era housing history. |
+| 박지훈 | **Park Jihoon** | Current name of Taekyung's former middle-school classmate; Hunter in Myeongdong Guild Team 1. |
+| 박지황 | **Park Jihwang** | Jihoon's former name, revealed when Taekyung recognizes him. |
+| 가람중 | **Garam Middle School** | Middle school attended by Taekyung and Jihoon. |
+| 명동 길드 | **Myeongdong Guild** | Large Guild in which Jihoon belongs to Team 1. |
+| 1팀장 | **Team 1 Leader** | Sangdong Guild's Team 1 leader and its only A-rank Hunter besides Im Chunsoo. |
+| 희망 고시원 | **Hope Goshiwon** | The goshiwon listed as Taekyung's residence in the target report. |
+| 기감 | **Qi Sense** | Taekyung's sensory technique; its range reaches seventy meters in this chapter. |
+| 집파리 | **Housefly** | System label for a Level 1 fly familiar. |
+| 검정파리 | **Black Blow Fly** | System label for a Level 1 fly familiar. |
+| 금파리 | **Green Bottle Fly** | System label for a Level 1 fly familiar. |
+| 패밀리어 | **Familiar** | System classification for the flies detected in Taekyung's home. |
+| 김선희 | **Kim Seonhee** | Assistant Manager at the Ilsan Store |
+| 대리 | **Assistant Manager** | Corporate title used by Kim Seonhee |
+| 일산 | **Ilsan** | Location of the Store and Lafesta |
+| 라페스타 | **Lafesta** | Shopping and entertainment district in Ilsan |
+| 스토어 | **Store** | Restricted luxury retailer for magical goods and Hunter equipment |
+| 쌀벌레 | **Rice Weevil** | Creature used by Hong Woojin as a Familiar |
+| 링크 | **Link** | Mental connection between a mage and Familiar |
+| 김희선 | **Kim Seonhee** | Source spelling variant for the established Assistant Manager Kim Seonhee at the Ilsan Store. |
+| 여름이 | **Yeoreum** | Name Hayeon gives to the Level 2 kitten. |
+| 김준수 | **Kim Junsu** | C-rank mental mage and Sangdong Guild Security Team’s sole Familiar mage. |
+| 김권동 | **Kim Gwondong** | C-rank Sangdong Guild Security Team Hunter assigned to surveillance and disguise work. |
+| 나비 | **Nabi** | Name used for the black kitten Familiar. |
+| 고양시 | **Goyang** | City where the target previously visited a real-estate office. |
+| 보안팀 | **Security Team** | Sangdong Guild’s surveillance and protection unit. |
+| 보안팀장 | **Security Team Leader** | Unnamed leader coordinating the operation. |
+| 최병일 | **Choi Byungil** | B-rank Security Team leader; his Level is in the mid-sixties. |
+| 박형진 | **Park Hyungjin** | One of the C-rank Sangdong Guild watchers. |
+| 오규현 | **Oh Gyuhyeon** | One of the C-rank Sangdong Guild watchers. |
+| 이민철 | **Lee Mincheol** | One of the C-rank Sangdong Guild watchers. |
+| 교관 | **Instructor** | Kim Hwajong's former Hunter Training Center role and address. |
+| 헌터 훈련소 | **Hunter Training Center** | Training institution where Kim Hwajong served as an instructor. |
+| 1번 훈련생 | **Trainee Number One** | Im Chunsoo's training call sign during his forced military identification. |
+| 28연대 1대대 2중대 | **28th Regiment, First Battalion, Second Company** | Military unit designation shouted during Im Chunsoo's identification. |
+| 사도세자 | **Crown Prince Sado** | Joseon crown prince used in the comparison for Jinho's haggard appearance; footnoted. |
+| 박혁거세 | **Park Hyeokgeose** | Legendary founder of Silla, used in the comparison to Jinho emerging from the capsule; footnoted. |
+| 열양공 | **heat-yang technique** | Mukyung's heat-based internal-energy technique. |
+| 옥황상제 | **Jade Emperor** | Daoist deity invoked in Hyuk Mujin's prayer. |
+| 원시천존 | **Primordial Heavenly Venerable** | Daoist deity invoked alongside the Jade Emperor. |
+| 항산검문주 | **Sect Leader of the Mount Heng Sword Sect** | Title for Lee Seowol, the sect's current leader. |
+| 산서제일미 | **Shanxi's foremost beauty** | Former reputation of Taekyung's mother. |
+| 봉황객잔 | **Phoenix Inn** | Famous Shanxi inn with luxurious lodging, imperial-court cuisine, and a beautiful proprietress. |
+| 계용옥미갱 | **chicken-and-corn soup** | Egg-thickened corn soup. |
+| 계용옥미앵 | **chicken-and-corn soup** | Source spelling variant of 계용옥미갱 for the same dish. |
+| 광수 | **Gwangsu** | First attacker at the Phoenix Inn; identified by the others after Taekyung punches him. |
+| 적풍단 | **Red Wind Band** | Rising mounted-bandit power from the northern plateau. |
+| 적풍단주 | **Red Wind Band Leader** | Unnamed leader of the Red Wind Band; commands two hundred followers. |
+| 관제묘 | **Guandi Temple** | Shrine type mentioned in martial-arts novels. |
+| 흑도 | **dark-path figures** | Generic category of underworld martial forces. |
+| 오색귀 | **Five-Colored Ghosts** | Nickname for the five former subordinates of Jang Sam. |
+| 이삼 | **Lee Sam** | Leader of the ten-man human-trafficking group; his Level window identifies him by this name. |
+| 추종향 | **tracking scent** | Scent used to guide the messenger hawk. |
+| 대동 | **Datong** | Shanxi location containing the Mount Heng Sword Sect branch destroyed by the Red Wind Band. |
+| 토호단 | **Earth Tiger Band** | Mounted-bandit group formerly led by Pung Yang's subordinate. |
+| 풍양 | **Pung Yang** | Personal name of the Red Wind Band Leader. |
+| 춘삼 | **Chunsam** | Lower District Sect martial artist serving as the carriage driver. |
+| 철검대주 | **Iron Sword Squad Leader** | Title of the Mount Heng Sword Sect's Iron Sword Squad leader. |
+| 대항산검문 | **great Mount Heng Sword Sect** | Expanded organizational form used for the Mount Heng Sword Sect. |
+| 대동지부 | **Datong Branch** | Mount Heng Sword Sect branch in Datong. |
+| 소월 | **Seowol** | Short form of Lee Seowol used by Cheol Mubaek. |
+| 철 숙부 | **Uncle Cheol** | Lee Seowol's familial address for Cheol Mubaek. |
+| 철 대협 | **Great Hero Cheol** | Respectful address for Cheol Mubaek. |
+| 아가씨 | **Young Lady** | Former address used for Lee Seowol before she demands the title Sect Leader. |
+| 문주님 | **Sect Leader** | Honorific title Lee Seowol orders the senior figures to use. |
+| 산서괴협 | **Strange Hero of Shanxi** | Epithet referenced for the absent martial artist. |
+| 녹림맹주 | **Green Forest Alliance Leader** | Leader title for the Green Forest Alliance. |
+| 장강수로맹주 | **Alliance Leader of the Yangtze River Channel League** | Leader title for the Yangtze River Channel League. |
+| 사마외도 | **demonic, heterodox arts** | Suspected martial-arts origin of Pung Yang's insidious forms. |
+| 전서구 | **messenger pigeon** | Pigeon delivering the Lower District Sect's Jeongyang Branch report. |
+| 절정 초입 | **early Peak** | Pung Yang's specific stage within the Peak realm. |
+| 광칠이 | **Gwangchil** | Former mounted-bandit boss who took in Pung Yang and was later killed by a First Rate master. |
+| 일류 초입 | **early First Rate** | Early stage of the First Rate realm. |
+| 수라멸권 | **Shura Annihilating Fist** | Cheol Mubaek's single-successor martial art. |
+| 항산권문 | **Mount Heng Fist Sect** | Alternate fist-sect designation used by Pung Yang for the Mount Heng defenders. |
+| 화시 | **fire arrow** | Flaming arrow Lee Seowol fires to signal Cheol Mubaek. |
+| 벽곡단 | **fasting pills** | Food-substitute pills found in the hidden cave where Cheol trained. |
+| 잠력단 | **Temporary Strength Pill** | Rare pill that temporarily enhances strength; Pung Yang has only three and uses one against Cheol Mubaek and another during the battle. |
+| 적혈십이검 | **Crimson Blood Twelve Swords** | Peak-level martial arts manual discovered by Pung Yang. |
+| 적혈심법 | **Crimson Blood Cultivation Technique** | Cultivation technique discovered by Pung Yang. |
+| 검강 | **Sword Force** | Higher manifestation than Sword Energy; Pung Yang's is explicitly imperfect because of insufficient enlightenment. |
+| 태산압정 | **Mount Tai Presses Down on the Crown** | First move of the Three Calamities Sword Technique. |
+| 나려타곤 | **Narye tagon** | Humiliating idiom comparing a fighter's evasive roll to a lazy donkey rolling on the ground. |
+| 호신강기 | **Body-Protecting Qi** | Powerful defensive qi barrier that shields Pung Yang. |
+| 격산타우 | **Striking the Ox Across the Mountain** | Palm technique that transmits force through an intervening defense. |
+| 북망산 | **Mount Beimang** | Mountain associated with burial grounds; used as a threat to send someone to their death. |
+| 열화신단 | **Blazing Flame Divine Pill** | Dangerous elixir that grants half a jiazi of internal energy while risking death from its fire qi. |
+| 적혈십이도 | **Crimson Blood Twelve Sabers** | Pung Yang's domineering saber art; he has reached approximately seventy percent mastery. |
+| 영단 흡수 | **Divine Pill Absorption** | System Quest created after Jin Taekyung takes the Blazing Flame Divine Pill. |
+| 내상 | **Internal Injury** | System condition label for internal injury. |
+| 중상 | **Severe Injury** | System condition label causing a major drop in all stats. |
+| 이름 없는 검 | **Unnamed Sword** | Oldest inventory item summoned when no item named 아무거나 can be found. |
+| 만년한철 | **Ten-Thousand-Year Cold Iron** | Material that destroys Pung Yang's Body-Protecting Qi when the Unnamed Sword satisfies a specific condition. |
+| 완전 회복 | **Full Recovery** | Immediate Quest success reward that heals Taekyung's injuries. |
+| 뛰어난 금창약 | **Superior Wound Medicine** | Quest reward used to treat external injuries. |
+| 십년하수오 | **Ten-Year He Shouwu** | Quest reward used to treat internal injuries. |
+| 어제의 적, 오늘의 동지 | **Yesterday's Enemy, Today's Ally** | Quest completed when Taekyung delivers Wikyung's invitation. |
+| 회광반조 | **final rally** | Terminal burst of apparent vitality before death. |
+| 운칠기삼 | **seven parts luck and three parts skill** | Established Korean saying used in Taekyung's reflection. |
+| 운구기일 | **nine parts luck and one part qi** | Taekyung's playful variation on 운칠기삼. |
+| 혈랑검법 | **Blood Wolf Sword Technique** | Peak sword technique personally created by Lee Cheonbaek. |
+| 혈랑보법 | **Blood Wolf Footwork** | Peak footwork technique personally created by Lee Cheonbaek. |
+| 산서성 | **Shanxi Province** | Province containing the Lower District Sect branches. |
+| 정양지부장 | **Jeongyang Branch Leader** | Leader of the Lower District Sect's Jeongyang Branch. |
+| 혼주지부장 | **Honju Branch Leader** | Leader of the Lower District Sect's Honju Branch. |
+| 총지부장 | **Chief Branch Leader** | Title Wolhwa holds within the Lower District Sect. |
+| 송이 | **Song-i** | Short form used for Song Song; Taekyung's love interest. |
+| 진무보법 | **Jin Family's Manoeuvre Technique** | Named Jin Family footwork technique mastered by Taekyung. |
+| 조장 | **Captain** | Hyuk Mujin's address for Taekyung as squad leader. |
+| 숙부 | **Uncle** | Lee Seowol's shortened address for Cheol Mubaek. |
+| 은원 | **gratitude and grudges** | Moral debts that must be repaid. |
+| 원단 | **New Year's Day** | The day the Mount Heng Sword Sect will visit Taiyuan. |
+| 갑자 | **jiazi** | Traditional sixty-year cycle. |
+| 시진 | **shichen** | Traditional time unit of approximately two hours. |
+| 아이템창 | **Item Window** | System window displaying an item's details. |
+| 전서응 | **messenger eagle** | Emergency courier used by the Lower District Sect. |
+| 폭혈단 | **Blood-Exploding Pill** | Demonic Cult pill said to kill the user after its time limit. |
+| 구주 | **Nine Provinces** | Traditional geographic expression used in a threat. |
+| 고원 | **Gaoyuan** | Plateau region in northern Shanxi. |
+| 산서제일인 | **Shanxi's Number One** | Jin Wikyung's reputation for physical strength. |
+| 금잔디 | **Geum Jandi** | Heroine of Boys Over Flowers, referenced in a sarcastic comparison. |
+| 사술 | **dark arts** | Unorthodox means of obtaining power. |
+| 마기 | **demonic qi** | Demonic energy discussed as a possible effect of the pill. |
+| 선천지기 | **innate qi** | Vital energy said to be damaged by the pill's aftereffects. |
+| 소음인 | **Soeumin** | One of the constitutional types in Sasang medicine. |
+| 태양인 | **Taeyangin** | One of the constitutional types in Sasang medicine. |
+| 주신 | **God of Drinking** | Wipeng's drinking epithet. |
+| 야왕 | **Night King** | Rumored epithet for Jin Taekyung in Taiyuan's red-light district. |
+| 화북 | **North China** | Regional designation used when discussing Shanxi drinking culture. |
+| 산서제일가 | **foremost family in Shanxi** | Description of the Jin Family of Taiyuan's standing. |
+| 장 노인 | **Old Man Jang** | Elderly villager who witnesses the Jin Family's arrival. |
+| 현령 | **county magistrate** | County official who greets Jin Taekyung and delivers the City Lord's invitation. |
+| 성주 | **City Lord** | Official who sends the invitation for a gathering with young prodigies. |
+| 적토마 | **Red Hare** | Famous horse used in Hyuk Mujin's exaggerated comparison. |
+| 여포 | **Lü Bu** | Historical warrior used in Hyuk Mujin's exaggerated comparison. |
+| 성주의 초청 | **The City Lord's Invitation** | System Quest title. |
+| 구파일방 | **Nine Sects and One Gang** | Major Murim grouping. |
+| 오대세가 | **Five Great Families** | Major Murim grouping. |
+| 주씨 | **Zhu** | Surname of the imperial ruling house. |
+| 친왕 | **Prince** | Imperial title held by the Shanxi City Lord. |
+| 천자 | **Son of Heaven** | Honorific title for the Emperor. |
+| 황상 | **Emperor** | Address or reference to the reigning Emperor. |
+| 태자 | **Crown Prince** | Title of the Emperor's older brother who was reportedly assassinated. |
+| 석칠 | **Seokchil** | Middle-aged porter with nearly twenty years of experience. |
+| 성운표국 | **Seongun Escort Bureau** | Escort Bureau in southern Shanxi Province. |
+| 송 표두 | **Escort Chief Song** | Unnamed person responsible for the escort run. |
+| 연화봉 | **Lotus Peak** | Peak on Huashan from which Cheongpung recently fled. |
+| 빙당호로 | **candied hawthorn skewers** | Traditional fruit skewers coated in hardened sugar; explained in a footnote. |
+| 하북 | **Hebei** | Province where Hyuk Family Textile Shop has a branch. |
+| 혁가 포목점 | **Hyuk Family Textile Shop** | Taiyuan textile shop owned by Hyuk Mujin's parents; the largest in Taiyuan, with branches in Henan and Hebei. |
+| 홍화객잔 | **Honghwa Inn** | Inn where Taekyung, Mujin, and Cheongpung dine. |
+| 메구미 | **Megumi** | Japanese name used in Taekyung's joke about the abbreviated dish name. |
+| 산니백육 | **Garlic Pork** | Boiled pork sliced thin and served with garlic sauce. |
+| 어향육사 | **Fish-Fragrant Shredded Pork** | Shredded pork dish. |
+| 경장육사 | **Beijing Sauce Shredded Pork** | Shredded pork dish. |
+| 규화계 | **Beggar's Chicken** | Named inn dish. |
+| 매구 | **Maegu** | Waiter's shortened name for Maechae Guyuk. |
+| 매채구육 | **Maechae Guyuk** | Pork belly with preserved mustard greens; the abbreviation is explained in a footnote. |
+| 개방 | **Beggars' Sect** | Murim organization counted among the Nine Sects and One Gang. |
+| 우진태 | **Woo Jintae** | Heir of the Seongun Escort Bureau and host of the Five Gates scions. |
+| 우 소협 | **Young Hero Woo** | Honorific address for Woo Jintae. |
+| 황 소저 | **Young Lady Hwang** | Honorific address for an unidentified young woman who is the only daughter of a martial sect. |
+| 혁 아우 | **Little Brother Hyuk** | Familiar address for an otherwise unnamed male scion who calls Woo Jintae hyung. |
+| 국주님 | **Chief** | Honorific title for the head of an Escort Bureau. |
+| 촉금 | **Shu brocade** | Fine brocade brought from Sichuan. |
+| 삼도문 | **Samdo Sect** | One of the five former Five Gates sects annihilated at Eight Spring Gorge. |
+| 궁귀문 | **Gunggui Sect** | One of the five former Five Gates sects annihilated at Eight Spring Gorge. |
+| 성룡이 | **Seongryong** | Name shown in a Level Window; one of the five current Five Gates scions. |
+| 천우 | **Cheonwoo** | Name shown in a Level Window; one of the five current Five Gates scions. |
+| 명화 | **Myeonghwa** | Name shown in a Level Window; one of the five current Five Gates scions. |
+| 소혜 | **Sohye** | Name shown in a Level Window; one of the five current Five Gates scions. |
+| 진태 | **Jintae** | Level 45 spokesman for the five current Five Gates scions. |
+| 도동파 | **Dodong Sect** | Fabricated sect claimed by Taekyung when Woo Jintae demands his affiliation. |
+| 천진반 | **Tien Shinhan** | Fabricated personal identity claimed by Taekyung. |
+| 왕가장 | **Wang Family Estate** | Family estate whose heir is one of the Five Gates scions; he uses sabers rather than sword arts. |
+| 왕 공자 | **Young Master Wang** | Heir of the Wang Family Estate. |
+| 신 소저 | **Young Lady Shin** | Young woman described as the only daughter of a martial sect. |
+| 정 소협 | **Young Hero Jeong** | Address for one injured Five Gates heir; his given name is not stated. |
+| 갈 소협 | **Young Hero Gal** | Address for one injured Five Gates heir; his given name is not stated. |
+| 석 모 | **Seok** | Self-identification by Honghwa Inn's chief steward; his given name is not stated. |
+| 석 총관 | **Chief Steward Seok** | Title and surname form used for Honghwa Inn's chief steward. |
+| 칠매검 | **Seven Plum Sword** | Sword art practiced by the unnamed martial official at eight-tenths mastery. |
+| 상산왕 | **Prince Shangshan** | The City Lord and a member of the imperial family who orders the luncheon. |
+| 정삼품 | **Third-Rank** | Official rank of the unnamed Assistant Military Commissioner. |
+| 도지휘첨사 | **Assistant Military Commissioner** | Military office held by the unnamed official responsible for training soldiers. |
+| 산서성부 | **Shanxi Provincial Office** | Government office where the City Lord resides west of Taiyuan. |
+| 점소이 검신 되다 | **The Shop Assistant Becomes a Sword God** | Wuxia novel title read by Hyuk Mujin. |
+| 아파야 무인이다 | **You Must Hurt to Become a Martial Artist** | Wuxia novel title read by Hyuk Mujin. |
+| 무림의 아들 걸어서 구주팔황 세 바퀴 반 | **The Son of Murim Walks Three and a Half Rounds Around the Nine Provinces and Eight Wastes** | Wuxia novel title read by Hyuk Mujin. |
+| 구주팔황 | **Nine Provinces and Eight Wastes** | Literary geographic phrase appearing in a wuxia novel title. |
+| 이풍 | **Li Feng** | Shanxi Province's Assistant Military Commissioner; former Huashan lay disciple |
+| 이 첨사 | **Assistant Commissioner Li** | Address form for Li Feng |
+| 홍 내관 | **Eunuch Hong** | Eunuch and Deputy Military Commissioner of Shanxi Province |
+| 도지휘동지 | **Deputy Military Commissioner** | Second-rank military office held by Eunuch Hong |
+| 도지휘사 | **Military Commissioner** | Provincial military commander's office |
+| 종남삼수 | **Three Hands of Zhongnan** | Three renowned Zhongnan Sect martial artists invited to the gathering |
+| 홍진 | **Hong Jin** | Level 22 man at the City Lord's luncheon; delicate in appearance and voice. |
+| 전하 | **His Highness** | Formal royal address for the resident prince; the official insists on this form instead of king. |
+| 풍운검군 | **Wind-and-Cloud Sword Lord** | Epithet of Gong Iljung, the Zhongnan Sect's Sect Leader. |
+| 철혈문 | **Iron Blood Sect** | Henan sect mentioned by Gong Ilhyuk. |
+| 오호검문 | **Five Tigers Sword Sect** | Henan sect mentioned by Gong Ilhyuk. |
+| 태을미리장 | **Taeeul Miri Palm** | Palm technique taught to Cheongpung by Mae Jonghak. |
+| 육합검 | **Six Harmonies Sword** | Huashan sword technique known by Cheongpung. |
+| 매화검법 | **Plum Blossom Sword Technique** | Huashan sword technique Cheongpung performed at age ten. |
+| 상청검 | **Supreme Clarity Sword** | Huashan sword technique listed among Cheongpung's knowledge. |
+| 낙화추영장 | **Falling Flower Chasing Shadow Palm** | Huashan palm technique listed among Cheongpung's knowledge. |
+| 산화무영수 | **Scattering Flowers Shadowless Hand** | Huashan hand technique listed among Cheongpung's knowledge. |
+| 자하신공 | **Zaha Divine Technique** | Huashan internal-energy technique used by Cheongpung. |
+| 태사부 | **Grandmaster** | Huashan title referring to Mae Jonghak. |
+| 군림 | **The Reign** | Opening fragment of an incomplete wuxia novel title that Taekyung read through volume thirty-four. |
+| 주표 | **Zhu Bao** | Personal name of Prince Shangshan. |
+| 근위대 | **royal guard** | Guard unit protecting Prince Shangshan. |
+| 근위대 갑옷 세트 | **Royal Guard Armor Set** | Armor set Li Feng offers Cheongpung. |
+| 황태자 | **Crown Prince** | The Emperor's older brother in Taekyung's recollection. |
+| 고평문 | **Gopyeong Sect** | Minor sect whose young sect leader is pressured by Taekyung. |
+| 고평지부 | **Gopyeong Branch** | Proposed branch designation under the Jin Family of Taiyuan. |
+| 상산왕의 증표 | **Prince Shangshan's Token** | Golden medallion awarded by Zhu Bao as the Quest Reward. |
+| 선황 | **the late Emperor** | The former Emperor whom Hong Jin served. |
+| 내관 | **palace attendant** | Hong Jin's former palace role; context identifies him as a eunuch. |
+| 고자 | **eunuch** | Castrated man; Hong Jin openly identifies himself by this term. |
+| 사서삼경 | **Four Books and Three Classics** | Confucian texts used to describe conventional scholarly learning. |
+| 금성전장 | **Golden Star Exchange** | Financial institution that issued the thousand-nyang bank draft. |
+| 전표 | **bank draft** | Negotiable draft used for the thousand-silver-nyang payment. |
+| 은자 | **silver nyang** | Silver currency unit. |
+| 철전 | **iron coins** | Lower-value coin currency used to compare the payment's value. |
+| 은원보 | **silver yuanbao** | Small silver ingot given to Taekyung as pocket money. |
+| 대국 | **Great Nation** | Political wording on the Jin Family's welcome banner. |
+| 성군 | **sage king** | Desired form of rulership proclaimed for Prince Shangshan. |
+| 대태원진가 | **great Jin Family of Taiyuan** | Formal exalted reference to the Jin Family of Taiyuan. |
+| 평양 | **Pyongyang** | City invoked in Taekyung's communist-atmosphere joke. |
+| 천하제일인 | **greatest under heaven** | Superlative martial distinction used in Hong Jin and Jin Wikyung's banter. |
+| 고금제일인 | **greatest of all time** | Superlative martial distinction used in Hong Jin's exaggerated praise. |
+| 비무행 | **dueling tour** | Cheongpung's planned journey to challenge the Ten Dragons and Phoenixes. |
+| 청강검 | **blue-steel sword** | Cheongpung's sword. |
+| 광염 | **light-flames** | Violet manifestation surrounding Cheongpung when he uses the Zaha Divine Technique. |
+| 서안 | **Xi’an** | Historic city near Huashan. |
+| 서악 | **Western Peak** | Name for Huashan among the Five Great Mountains. |
+| 흑사파 | **Black Serpent Sect** | Dark-path gambling-den gang in Xi’an. |
+| 화산일학 | **Huashan’s Lone Crane** | Epithet of Baek Museong. |
+| 매화삼절 | **Three Plum Blossom Elites** | Collective title for the current Sect Leader’s three exceptional disciples. |
+| 매화검수 | **Plum Blossom Swordsmen** | Huashan appointment held by its three elite disciples. |
+| 검신 | **Sword God** | Alternate title used for Mae Jonghak; kept distinct from 검성, rendered Sword Saint. |
+| 기해 | **qi sea** | Name for the dantian, the place where internal energy begins and gathers. |
+| 임독양맥 | **Conception and Governor Vessels** | The paired vessels Taekyung attempts to open. |
+| 근맥 | **Sinews and Meridians** | System attribute reduced by one after Taekyung's failed qi circulation. |
+| 사해오호 | **Four Seas and Five Lakes** | Traditional geographic phrase used with the Nine Provinces and Eight Wastes. |
+| 환골탈태 | **Bone Transformation** | Advanced transformation described as optional in martial-arts novels. |
+| 연무장 | **training ground** | Private martial-arts practice area at Taekyung's newly rebuilt pavilion. |
+| 청석 | **bluestone** | Extremely hard stone used for the training-ground floor. |
+| 십팔반병기 | **eighteen traditional weapons** | Training weapons displayed on a rack. |
+| 수련동 | **training hall** | Building located roughly two hundred jang from the training ground. |
+| 찍고 땡 | **touch-and-go method** | Repeatedly reaching a destination and returning as an endurance exercise. |
+| 홍가 | **Hong** | Unnamed middle-aged Jin Family martial artist who identifies himself by surname. |
+| 진무량 | **Jin Muryang** | Founder of the Jin Family; legendary martial artist from roughly three hundred years earlier. |
+| 천응 | **Heavenly Eagle** | Huge bird regarded as a spirit creature, said to have a wingspan exceeding one jang. |
+| 혈교 | **Blood Cult** | Demonic organization named as a possible source of the intruder. |
+| 강시 | **jiangshi** | Reanimated corpse from folklore; Childeuk and Hong mistakenly identify Taekyung as one. |
+| 태초 마을 | **Taecho Village** | Place named by Taekyung immediately after surviving the fall. |
+| 벽호공 | **Wall Lizard Technique** | Climbing martial art used to scale walls and cliffs. |
+| 낙안봉 | **Falling Goose Peak** | Huashan peak exceeding five hundred jang; Cheongpung climbed it as a child. |
+| 인피면구 | **human-skin mask** | Disguise made from peeled human facial skin. |
+| 무재 | **martial talent** | Innate aptitude for learning martial arts. |
+| 검성 수련 간접 체험기 | **Sword Saint Training: A Secondhand Experience** | Cheongpung's Peak-grade cliff-training Quest. |
+| 검성 수련 간접 체험기-2 | **Sword Saint Training: A Secondhand Experience—2** | Linked Quest generated after the first training Quest succeeds. |
+| 초보 수련자 | **Beginner Trainee** | System Title upgraded after the tenth cliff climb. |
+| 중급 수련자 | **Intermediate Trainee** | System Title received after Beginner Trainee is upgraded. |
+| 황하방 | **Yellow River Gang** | Organization involved in a dispute with the Sogong Sect. |
+| 소공문 | **Sogong Sect** | Sect involved in a dispute with the Yellow River Gang. |
+| 남부상회 | **Southern Merchant Guild** | Merchant organization whose matter is reported to Jin Wikyung. |
+| 내당주 | **Inner Hall Master** | Title for the head of the Jin Family's Inner Hall. |
+| 내외당 | **Inner and Outer Halls** | The Jin Family's two internal administrative divisions. |
+| 세가 | **great family** | Murim category Jin Wikyung hopes the Jin Family will attain. |
+| 복호권 | **Crouching Tiger Fist** | Huashan martial art Cheongpung uses during the spar. |
+| 암향표 | **Dark Fragrance Drift** | Movement technique Cheongpung uses to evade Taekyung's attacks. |
+| 천근추 | **Thousand-Catty Drop** | Technique Cheongpung identifies when Taekyung lifts the spear shaft beneath his foot. |
+| 일권복호 | **One Fist Subdues the Tiger** | Named form of the Crouching Tiger Fist. |
+| 매화권 | **Plum Blossom Fist** | Huashan fist technique Cheongpung uses in sparring. |
+| 천응조 | **Heavenly Eagle Claw** | Huashan claw technique used by Cheongpung. |
+| 봉미혈 | **Fengwei acupoint** | Acupoint around the ribs targeted by Cheongpung. |
+| 태권도 | **Taekwondo** | Martial art Taekyung practiced as a child. |
+| 태극 1장부터 8장까지 | **Taegeuk Forms 1 through 8** | Standard taekwondo pattern sequence Taekyung copied as a child. |
+| 공수납백인 | **Empty-Hand Seizes the Blade** | Technique for catching an opponent's weapon between bare fingers. |
+| 오행매화보 | **Five-Element Plum Blossom Steps** | Footwork technique Cheongpung combines with Dark Fragrance Drift. |
+| 백전백패 | **Hundred Battles, Hundred Losses** | Taekyung's proposed teasing nickname for Mujin. |
+| 너구리 | **Neoguri** | Instant-noodle brand used in Taekyung's flavor joke. |
+| 진라면 | **Jin Ramen** | Instant-noodle brand used in Taekyung's flavor joke. |
+| 푸라면 | **Puramyeon** | Instant-noodle brand used in Taekyung's flavor joke. |
+| 매화오품지 | **Plum Blossom Five-Point Finger** | Five-finger technique Cheongpung uses during the duel. |
+| 벽을 넘어서 | **Beyond the Wall** | System Quest generated during Taekyung's breakthrough. |
+| 절정 고수 | **Peak Master** | System class awarded after Taekyung completes Beyond the Wall. |
+| 테무르 | **Temur** | Northern Gaoyuan chieftain commanding one hundred tribespeople; claims descent from the khans. |
+| 칭겐 | **Chinggen** | Northern Gaoyuan chieftain commanding one hundred tribespeople; restrains Temur. |
+| 인도 | **Human Butcher** | Epithet of a mysterious Han Chinese mounted-bandit power commanding fifty subordinates. |
+| 텡게르 | **Tengger** | Sky deity invoked by Temur. |
+| 대칸 | **Great Khan** | Title of the former ruler whose descendants Temur and Chinggen claim to be. |
+| 대초원 | **Great Steppe** | The steppe region from which Temur and Chinggen come. |
+| 마유주 | **mare's-milk wine** | Fermented alcoholic drink offered at the gathering. |
+| 게르 | **ger** | Traditional nomadic dwelling contrasted with Central Plains wooden buildings. |
+| 한족 | **Han Chinese** | Ethnic designation used by the steppe chieftains. |
+| 흑사 | **Black Sand** | Eyepatched middle-aged leader of the Black Sand Band; a newly introduced identity. |
+| 흑사대 | **Black Sand Band** | Han-Chinese mounted-bandit force of one hundred. |
+| 천풍단 | **Heavenly Wind Band** | Five-hundred-member northern plateau mounted-bandit force subordinate to Black Sand. |
+| 천풍단주 | **Heavenly Wind Band Leader** | Leader operating under Black Sand's orders near Datong. |
+| 하곡 | **Hequ** | Route and Jin Family branch targeted as the alliance's entry point into Shanxi. |
+| 참마검 | **horse-chopping sword** | Heavy saber used by the Human Butcher; rendered descriptively. |
+| 삼매진화 | **Samadhi True Fire** | Internal-energy flame demonstrated by the unnamed old man. |
+| 귀환자 | **Returnee** | System Title |
+| 명가의 자제 | **Scion of a Prestigious Family** | System Title |
+| 승부사 | **Gambler** | System Title |
+| 명장 | **Master Artisan** | Master craftsman capable of handling Ten-Thousand-Year Cold Iron |
+| 가공되지 않은 만년한철 | **Unprocessed Ten-Thousand-Year Cold Iron** | System Item |
+| 장인을 찾아라 | **Find the Master Artisan** | System Quest |
+| 장태보 | **Jang Taebo** | Former Guild Leader of the Ironcraft Guild; now lives near Jeongyang and is sought as a Master Artisan. |
+| 철기방 | **Ironcraft Guild** | Hubei guild composed mainly of skilled craftsmen and closely associated with the Nine Sects and One Gang. |
+| 철기방주 | **Guild Leader of the Ironcraft Guild** | Title of the Ironcraft Guild’s leader; the current leader is Jang Taebo’s disciple. |
+| 오향장육 | **five-spice pork** | Dish Cheongpung packed for the journey. |
+| 항아 | **Hanga** | Local village boy who lives near Jang Taebo. |
+| 구방표국 | **Nine-Room Escort Bureau** | Escort Bureau that supplies Jang Taebo with a fifty-year-old He Shou Wu every four months. |
+| 하수오 | **He Shou Wu** | Traditional medicinal herb; a thirty-year-old specimen is offered to Jang Taebo. |
+| 오십 년 묵은 하수오 | **Fifty-Year-Old He Shou Wu** | First Rate Spirit Herb shown in the System Item Window; can provide up to about two years of internal energy. |
+| 불로초 | **Herb of Eternal Youth** | Spirit herb said to grant eternal youth and immortality. |
+| 불로초를 찾아서 | **In Search of the Herb of Eternal Youth** | System Quest generated after Jang Taebo names the Herb of Eternal Youth. |
+| 천검진인 | **Heavenly Sword True Person** | Taoist-style title of the current Sect Leader of Huashan, who once commissioned a sword from Jang Taebo. |
+| 여의주 | **dragon pearl** | Legendary treasure requested by Jang Taebo. |
+| 공청석유, 용의 발톱, 여의주 구하기 | **Get Gongcheong Seokyu, a Dragon’s Claw, and a Dragon Pearl** | Quest generated after Jang Taebo makes additional demands; Taekyung rejects it. |
+| 천풍 | **Heavenly Wind** | Short form displayed on the Heavenly Wind Band's flag. |
+| 장팔 | **Jang-pal** | Woodcutter who meets and helps the unnamed old man. |
+| 장 씨 | **Jang** | Surname form used for the woodcutter Jang-pal. |
+| 장가촌 | **Jang Family Village** | Clan village where Jang-pal lives. |
+| 홍가촌 | **Hong Family Village** | Clan village said to be three hundred li from Jang Family Village. |
+| 신령님 | **Mountain Spirit** | Jang-pal's mistaken address for the unnamed old man. |
+| 장씨 | **Jang** | Unspaced source variant of 장 씨; surname form for Jang-pal. |
+| 반박귀진 | **Returning to Simplicity** | Supreme Peak technique or phenomenon used by Jeok Cheongang. |
+| 이형환위 | **Shifting Form and Position** | Supreme Peak movement or evasion technique used by Jeok Cheongang. |
+| 허공섭물 | **Seizing an Object Through Empty Space** | Technique Jeok Cheongang uses to lift Jang Taebo remotely. |
+| 백련정강 | **Baekryeon Jeonggang** | Extremely hard steel used to forge Hyuk Mujin's sword. |
+| 강자지존 | **Might Makes Right** | Murim principle invoked as the basis for Mae Jonghak's challenge. |
+| 꼰대 | **boomer** | Modern slang for a hidebound older person; used by Cheongpung. |
+| 꼰머 | **boomer-brain** | Related slang term Cheongpung says has a similar meaning. |
+| 국밥 | **gukbap** | Korean dish of rice served in hot soup; footnoted in the reading copy. |
+| 부마도위 | **Imperial Son-in-Law** | Imperial title mentioned by Jang Taebo. |
+| 천하오대세가 | **Five Great Families** | Expanded source form of 오대세가. |
+| 열화신공 | **Fire Gate Divine Technique** | Secret internal cultivation technique of the Fire Gate Clan, preserved through one-person succession without leakage. |
+| 장천 | **Jangcheon** | Name Jeok Cheongang gave to the orphan who later became Jopil; means “Vast Sky.” |
+| 벌모세수 | **cleansing the sinews and washing the marrow** | Jeok Cheongang’s constitution-improving technique. |
+| 상단전 | **upper dantian** | Advanced dantian whose opening signifies entry into the Martial Extremity realm. |
+| 무극 | **Martial Extremity realm** | Realm associated with opening the upper dantian. |
+| 창천검왕 | **Azure Sky Sword King** | One of the Ten Kings and the Grand Family Head of the Nangong Family. |
+| 태상가주 | **Grand Family Head** | Title held by the Azure Sky Sword King as head of the Nangong Family. |
+| 왕팔 | **Wangpal** | One of the youths who tried to take Jangcheon's dumpling. |
+| 홍소칠 | **Hong Sochil** | One of the youths who tried to take Jangcheon's dumpling. |
+| 소우평 | **So U-pyeong** | One of the youths who tried to take Jangcheon's dumpling. |
+| 보옥 | **Treasured Jade** | Missing Fire Gate Clan treasure sought by Jeok Cheongang. |
+| 우황태 | **Woo Hwangtae** | Chief of the Seongun Escort Bureau and Woo Jintae's father. |
+| 수문각 | **Gate Guard Pavilion** | Jin Family gate complex at the main entrance. |
+| 수문위사 | **gate guard** | Jin Family guard stationed at the gate. |
+| 장주 | **Lord** | Title used for one of the Five Gates heads, as in 태 장주. |
+| 패화권 | **Defeated Flower Fist** | Chulwoo’s epithet. |
+| 산서기협 | **Shanxi Extraordinary Hero** | Epithet mentioned among the Jin Family’s known figures; distinct source spelling from 산서괴협. |
+| 소림사 | **Shaolin Temple** | Temple invoked in Chulwoo’s comparison of Baek Museong’s conduct. |
+| 화검봉 | **Flower Sword Phoenix** | Eunhyang’s epithet and one of the Three Plum Blossom Elites. |
+| 화산말학 | **Huashan’s Last Crane** | Taekyung’s mistaken hearing of 화산일학; not a genuine epithet. |
+| 매화손절 | **Plum Blossom Cutoff** | Taekyung’s mistaken hearing of 매화삼절; not a genuine title. |
+| 하곡문 | **Hequ Sect** | Small sect led by Jang Se-pal. |
+| 장세팔 | **Jang Se-pal** | Leader of the small Hequ Sect. |
+| 양천 | **Yangcheon** | Shanxi-area location near which a small martial arts academy operates. |
+| 노호검객 | **Roaring Fury Swordsman** | Fiery-tempered elder and top-five master of the Zhongnan Sect. |
+| 청성파 | **Qingcheng Sect** | Sect named in Baek Museong's comparison about disciplinary rules. |
+| 집법원 | **Disciplinary Hall** | Huashan body that handles violations of sect rules. |
+| 대연무장 | **Grand Training Ground** | The Jin Family's largest training ground and the site of the grand banquet. |
+| 주모 | **Lady of the House** | Title used in Wipeng's remark that Jin Wikyung lacks a wife or household mistress. |
+| 일장로 | **First Elder** | Title Cheol Mubaek claims within the Mount Heng Sword Sect. |
+| 이대 문주 | **second Sect Leader** | Lee Seowol's succession title as the Mount Heng Sword Sect's second Sect Leader. |
+| 디그다 | **Diglett** | Pokémon species used in Taekyung's analogy. |
+| 닥트리오 | **Dugtrio** | Pokémon species used in Taekyung's analogy. |
+| 언더아머 | **Under Armour** | Modern sportswear brand mentioned in Taekyung's joke. |
+| 추도환 | **Choo Dohwan** | Level 65 Iron Blood Sect martial artist known as the Iron Fist. |
+| 철권 | **Iron Fist** | Choo Dohwan's epithet. |
+| 상도문 | **Sangdo Sect** | Sect pledging itself to the Jin Family at the banquet. |
+| 황진수 | **Hwang Jinsu** | Level 25 challenger from Hwang Family Manor. |
+| 황가장 | **Hwang Family Manor** | Family estate represented by Hwang Jinsu. |
+| 갈 모 | **Gal Mo** | Nameless wandering martial artist who challenges Chulwoo. |
+| 한 남자가 있어, 널 너무 사랑한 | **There Is a Man Who Loved You So Much** | System Quest title generated by Chulwoo's jealous challenge. |
+| 나약한 수컷 | **Weak Male** | System Title granted if Jin Taekyung refuses the Quest. |
+| 화산제일의 기재 | **Huashan’s greatest prodigy** | Reputation attributed to Baek Museong; Taekyung privately mocks the title. |
+
+## Existing address-pair ledger
+
+# Established Address Pairs
+
+Exceptional speaker → addressee forms established in accepted chapters.
+Injected only when both endpoints are present in the current chapter: the
+Korean appears in the source, or belongs to a matched compact profile.
+Overrides generic relationship prose in character profiles for this pair.
+
+| Speaker | Addressee | Kinship | Normal address | Speech level | Notes |
+| ------- | --------- | ------- | -------------- | ------------ | ----- |
+| 진태경 | 진무경 | younger_to_older_brother | hyung | casual-but-junior | Retain hyung for 형 in Taekyung's greeting; Mukyung then punishes the casual speech. |
+| 진무경 | 진태경 | older_to_younger_brother | youngest | blunt-senior | 막내 / youngest; may taunt that lasting a quarter-hour would make Taekyung the older brother. |
+| 진태경 | 진위경 | younger_to_eldest_brother | brother | familiar-but-respectful | Self-corrects from the personal name to kinship: “Jin Wikyung—I mean, my brother?”; 큰형 is eldest brother. |
+| 진위경 | 진태경 | eldest_to_youngest_brother | youngest | affectionate-protective | Uses youngest-brother address; openly affectionate beneath a public mask. |
+| 진태경 | 성진호 | junior_to_older_friend | Jinho hyung | casual-but-junior | Retain hyung for 형; Jinho is three years older. |
+| 성진호 | 진태경 | older_friend | informal / younger-brother | teasing-senior | Speaks informally while demanding respect as the older friend. |
+| 진태경 | 임꺽정 | junior_friend | Kkeokjeong hyung | casual-but-junior | After Im asks to be called hyung. |
+| 임꺽정 | 진태경 | older_friend | hyung | hearty-casual | “Call me hyung. We’re not even that far apart in age.” |
+| 위팽 | 진위경 | retainer_to_lord | my lord | deferential | 주공; Wipeng is Jin Wikyung’s personal guard. |
+| 소천 | 진태경 | rescued_survivor_to_benefactor | Benefactor | deferential | Socheon repeatedly addresses Taekyung as 은인. |
+| 진무경 | 진위경 | younger_to_older_brother | older brother | formal-but-blunt | Mukyung refers to Wikyung as 형 while remaining emotionally restrained. |
+| 진위경 | 진무경 | older_to_younger_brother | little brother | affectionate-casual | Wikyung uses 아우야 and 무경아 with openly affectionate familiarity. |
+| 진태경 | 공야청 | junior_to_respected_hero | Great Hero Gong | deferential | Taekyung consistently attaches 대협 when addressing Gong Yacheong. |
+| 위팽 | 송검문주 | visitor_to_sect_leader | Sect Leader | formal-polite | Wipeng addresses the Song Sword Sect Leader respectfully while delivering the summons. |
+| 송검문주 | 위팽 | sect_leader_to_visiting_master | Great Hero Wipeng | deferential | The Sect Leader addresses Wipeng as 위 대협 while fearing the Ghost Sword's power. |
+| 진태경 | 월화 | junior_to_older_female_acquaintance | Wolhwa noona | casual-but-junior | Taekyung uses this address while speaking in his sleep or delirium. |
+| 칠득이 | 진위경 | servant_to_lesser_family_head | Lesser Family Head | deferential | Childeuk repeatedly addresses Wikyung as 소가주님. |
+| 진위경 | 칠득이 | lesser_family_head_to_servant | you | formal-but-familiar | Wikyung addresses Childeuk with 자네. |
+| 진위경 | 장칠득 | lesser_family_head_to_direct_martial_artist | Martial Artist Jang | affectionate and ceremonious | Wikyung embraces and exuberantly praises Childeuk after acknowledging their minor misunderstanding. |
+| 혁무진 | 진태경 | squad_subordinate_to_squad_leader | Squad Leader | deferential | Hyuk Mujin says he obeys only his squad leader's orders and identifies Taekyung as the Third Young Master. |
+| 진태경 | 혁무진 | squad_leader_to_squad_subordinate | Mujin | familiar-and-commanding | Taekyung calls him 무진아 while summoning him from the driver's box. |
+| 진태경 | 최 팀장 | guild_member_to_team_leader | Team Leader | deferential | Taekyung addresses Choi as 팀장님. |
+| 최 팀장 | 진태경 | team_leader_to_guild_member | Taekyung | formal-but-familiar | Choi addresses him as 태경 씨. |
+| 진태경 | 김 집사 | client_to_butler | Butler Kim | formal-deferential | Taekyung addresses him as 김 집사님. |
+| 최 팀장 | 김 집사 | employer_to_butler | Butler Kim | formal-polite | Choi addresses him as 김 집사님. |
+| 김 집사 | 진태경 | butler_to_hunter_client | Hunter | deferential | Butler Kim refers to Taekyung as 헌터님. |
+| 임꺽정 | 송 양 | older_guild_member_to_younger_female_guild_member | Miss Song | hearty-casual | Im Kkeokjeong calls her 송 양. |
+| 진태경 | 송송이 | guild_member_to_guild_member | Miss Song | formal-polite | Taekyung repeatedly uses 송이 씨 while introducing himself and attempting to court Song Song. |
+| 송송이 | 진태경 | guild_member_to_guild_member | Taurus | casual-teasing | Song Song refers to Taekyung by his zodiac sign when calling him to the meal. |
+| 진태경 | 김 집사 | junior_to_senior_Hunter | Senior | deferential | After learning that Butler Kim trained at the same Nonsan regiment and battalion, Taekyung addresses him as 선배님. |
+| 김 집사 | 최 팀장 | butler_to_employer | Young Master | deferential | Butler Kim addresses Choi as 도련님 when agreeing to follow his decision about Guild titles. |
+| 임창수 | 혜린 | sponsor_to_sponsored_lover | Hye-rin | condescending-casual | Changsoo refers to himself as this oppa while claiming he will protect her. |
+| 최 팀장 | 임꺽정 | guild_team_leader_to_guild_member | Hunter Im | formal-polite | Choi addresses Kkeokjeong as 임 헌터님 while telling him to put on the equipment. |
+| 임창수 | 진태경 | rival_guild_team_leader_to_guild_member | Mr. Jang Taekyung | mock-formal and condescending | Changsoo deliberately uses the wrong surname, then dismisses whether Taekyung is Jin or Jang. |
+| 진태경 | 임창수 | guild_member_to_rival_guild_team_leader | Shit Changsoo | insulting-casual | Taekyung’s retaliatory surname pun after Changsoo misnames him. |
+| 임창수 | 송송이 | rival_guild_team_leader_to_guild_member | Miss Song | mock-polite | Uses 송송이 씨 while proposing that Song Song join Sangdong Guild. |
+| 송송이 | 임창수 | guild_member_to_rival_guild_team_leader | Shit Changsoo—no, Im Changsoo | blunt but polite | Insults Changsoo with 씹창 and then corrects herself to his proper name while rejecting him. |
+| 송송이 | 김 집사 | guild_member_to_guild_master | Guild Master | formal-polite | Requests the Guild Master’s permission before changing Guilds under the wager. |
+| 송송이 | 최 팀장 | guild_member_to_team_leader | Team Leader | formal-polite | Asks Choi whether he accepts her possible Guild transfer if the bet is lost. |
+| 송송이 | 임꺽정 | younger_guild_member_to_older_guild_member | Uncle | casual-polite | Song Song uses 아저씨 while asking Im Kkeokjeong to agree that Changsoo is nasty. |
+| 김 집사 | 임창수 | guild_master_to_rival_guild_member | Changsoo | mock-polite | Butler Kim uses 창수 씨 while accusing Changsoo of refusing to pay. |
+| 지점장 | 임춘수 | bank_branch_manager_to_guild_master | Guild Master | formal-deferential | The K Bank branch manager addresses Im Chunsoo as 길드장님 while reporting Changsoo's transfer. |
+| 임춘수 | 임창수 | father_to_son | Changsoo | furious-parental | Im Chunsoo uses Changsoo's name alongside hostile forms such as that bastard and you little shit. |
+| 하연 | 진태경 | younger_sister_to_older_brother | oppa | casual-familiar; pleading for important requests | Hayeon habitually puts 오빠 first when making an important request. |
+| 김정희 | 사장님 | employee_to_restaurant_owner | Boss | formal-polite, becoming firm | Uses the owner's title while demanding an apology and defending Taekyung. |
+| 사장님 | 김정희 | restaurant_owner_to_employee | Ajumma | condescending-casual | Repeatedly uses 아줌마 while berating Kim Jeonghee. |
+| 진태경 | 김정희 | son_to_mother | Mom | casual-familiar and affectionate | Taekyung's first words after entering the restaurant and seeing his mother. |
+| 김정희 | 진태경 | mother_to_son | Son | affectionate-familiar | Calls Taekyung 아들 when surprised by his visit and later asks whether he has eaten. |
+| 진태경 | 사장님 | visitor_to_restaurant_owner | Boss | polite but sarcastic | Maintains a superficially respectful address while baiting the owner during the confrontation. |
+| 사장님 | 진태경 | restaurant_owner_to_employee_son | you / you little punk | condescending-aggressive | Uses hostile informal forms while trying to intimidate Taekyung. |
+| 부동산 아저씨 | 진태경 | real_estate_agent_to_customer | Boss | polite and sales-friendly | The unnamed real estate agent repeatedly addresses Taekyung as 사장님 while arranging a house viewing. |
+| 여자 친구 | 박지훈 | girlfriend_to_boyfriend | Oppa | casual-familiar | Jihoon's girlfriend addresses him as 오빠 while asking him to return to the car. |
+| 임춘수 | 1팀장 | guild_master_to_team_leader | Team 1 Leader | blunt-commanding | Chunsoo addresses him with a rough 야 while issuing orders and demanding his candid assessment. |
+| 1팀장 | 임춘수 | guild_team_leader_to_guild_master | Guild Master | formal-deferential | The Team 1 Leader consistently addresses Chunsoo as 길드장님 while reporting and accepting orders. |
+| 진태경 | 하연 | older_brother_to_younger_sister | Sis | casual-familiar | Taekyung addresses Hayeon as 동생아 during their fly investigation. |
+| 동료 | 김준수 | Security Team colleague | Junsu | casual-collegial | Uses 준수야 while checking whether Junsu pulled an all-nighter. |
+| 보안팀장 | 김준수 | team_leader_to_subordinate | Kim Junsu | blunt-commanding | Shouts 김준수 when the target begins moving. |
+| 김권동 | 보안팀장 | subordinate_to_team_leader | Team Leader | deferential | Uses 팀장님 over the radio while reporting on the disguised approach. |
+| 보안팀장 | 1번 | supervisor_to_surveillance_agent | Number One | command-radio | Uses the operative’s radio call sign while directing the real-estate-office surveillance. |
+| 보안팀장 | 2번 | supervisor_to_surveillance_agent | Number Two | command-radio | Uses the operative’s radio call sign while ordering continued observation. |
+| 부동산 아줌마 | 진태경 | real_estate_agent_to_customer | Boss; young bachelor | chatty-polite and flirtatious | The agent calls Taekyung 사장님 and 총각 while offering listings and commenting on his appearance. |
+| 김권동 | 진태경 | surveillance_hunter_to_target | young man | friendly and polite | Gwondong maintains his ordinary-neighbor disguise and addresses Taekyung as a younger local acquaintance. |
+| 진하연 | 여름이 | caretaker_to_kitten | Yeoreum | affectionate-casual | Hayeon repeatedly calls the kitten by name and refers to herself as Sis. |
+| 김권동 | 김준수 | Security Team colleagues | Junsu | casual-collegial | Gwondong uses 진수야 while questioning Junsu’s interpretation of the item. |
+| 보안팀장 | 김권동 | team_leader_to_subordinate | Gwondong | blunt-commanding | Uses 권동아 while directing the operation. |
+| 진태경 | 최병일 | target_to_attacking_team_leader | Mr. Choi Byungil | mock-polite and taunting | Uses 최병일 씨 while baiting and confronting him. |
+| 진태경 | 김준수 | target_to_surveillance mage | Junsu | casual and taunting | Uses 준수야 while questioning him. |
+| 임춘수 | 진태경 | guild_master_to_younger_rival | you | blunt-but-familiar | Repeatedly uses 자네 while challenging and testing Taekyung. |
+| 김화종 | 임춘수 | familiar_mage_to_guild_master | Chunsoo | gentle-and-familiar | Addresses Im Chunsoo as 춘수 on arriving at the hiking-trail entrance. |
+| 임춘수 | 김화종 | former_trainee_to_former_instructor | Instructor | deferential and fearful | Im Chunsoo addresses Hwajong as 교관님 after recognizing his former instructor. |
+| 김화종 | 진태경 | senior_Hunter_to_younger_Hunter | Mr. Jin | formal-polite | Hwajong addresses Taekyung as 진태경 씨 while proposing an exchange of stories. |
+| 1팀장 | 보안팀장 | guild_team_leader_to_security_team_leader | Security Team Leader | formal-commanding | Team Leader 1 directly addresses the Security Team Leader while warning him about discipline. |
+| 보안팀장 | 1팀장 | security_team_leader_to_guild_team_leader | Team Leader 1 | formal-deferential | The Security Team Leader addresses Team Leader 1 as 팀장님 while reporting what he heard. |
+| 진태경 | 기사님 | customer_to_moving_driver | Driver | polite | Taekyung addresses the private moving-truck driver by his occupational title on the phone. |
+| 이삿짐 아저씨 | 진태경 | moving_driver_to_customer | Mr. Jin Taekyung; Boss | friendly-polite | The driver uses 진태경 씨 on the phone and 사장님 while insisting on moving the capsule. |
+| 진무경 | 혁무진 | senior martial artist to subordinate | Hyung Mujin | blunt-senior | Mukyung deliberately misnames Hyuk Mujin as 형무진 before ordering him to stop the carriage. |
+| 혁무진 | 진무경 | subordinate to Second Young Master | Second Young Master | deferential | Uses 이공자님 while correcting Mukyung's deliberate misnaming and accepting his orders. |
+| 월화 | 진태경 | Lower District Sect branch leader to Jin Family young master | Young Master Jin; our Young Master | polite and lightly playful | Uses 우리 공자님, 진 공자, and the teasing 잠룡 공자 while greeting and teasing Taekyung. |
+| 월화 | 혁무진 | inn proprietress and branch leader to visiting martial artist | Young Martial Artist; Martial Artist | polite and teasing | Uses 젊은 무사님 and 무사님 while discussing her profession and correcting Mujin's conduct. |
+| 혁무진 | 월화 | Jin Family retainer to Lower District Sect Branch Leader | Young Lady; Branch Leader | formal-polite, then deferential | Initially addresses Wolhwa as 소저, then corrects himself to 지부장님 after learning her identity. |
+| 월화 | 진무경 | Lower District Sect Branch Leader and inn proprietress to Jin Family Second Young Master | Young Hero Jin | polite and lightly playful | At departure, Wolhwa addresses Mukyung as 진 소협 after agreeing to accompany the group. |
+| 오색귀 | 진태경 | former_bandit_associates_to_prior_benefactor | Boss | pleading and deferential | The Five-Colored Ghosts repeatedly call Taekyung 대형 while begging him to rescue them. |
+| 월화 | 춘삼 | Lower District Sect branch leader to subordinate | Chunsam | commanding-familiar | Uses 춘삼아 while directing him to execute the interrogation order. |
+| 마적 | 풍양 | mounted-bandit subordinate to bandit leader | Leader | deferential | Uses 단주 when reporting to Pung Yang. |
+| 소월 | 철무백 | niece_to_paternal_uncle | Uncle Cheol | familiar-polite | Lee Seowol asks Cheol Mubaek to suppress his heat because she cannot breathe. |
+| 철무백 | 소월 | paternal_uncle_to_niece | Seowol | affectionate-familiar | Cheol Mubaek speaks gently to Seowol and says protecting her is his duty. |
+| 소월 | 철검대주 | sect_leader_to_subordinate | Iron Sword Squad Leader | formal-commanding | Lee Seowol addresses him while issuing her final instruction about her title. |
+| 소월 | 수문각주 | sect_leader_to_subordinate | Master of the Gatekeeper Pavilion | formal-commanding | Lee Seowol addresses him while asserting her authority as Sect Leader. |
+| 사자 | 이소월 | enemy_envoy_to_sect_leader | Sect Leader | mock-formal | The Red Wind Band envoy addresses Lee Seowol as 문주님 while delivering the coercive marriage-or-destruction ultimatum. |
+| 풍양 | 철무백 | junior_to_older_martial_peer | Senior Cheol | polite and taunting | Pung Yang repeatedly addresses Cheol as 철 선배 while provoking him. |
+| 진태경 | 철무백 | junior_to_respected_Peak_master | Sir | apologetic-polite | Taekyung first calls Cheol Grandpa, then corrects himself to the respectful 대협. |
+| 월화 | 철무백 | ally_to_injured_master | Sir Cheol | polite and reassuring | Wolhwa addresses the critically wounded Cheol while administering temporary medicine and asking about his attacker. |
+| 진무경 | 풍양 | challenger_to_bandit_leader | Pung Yang | challenge-shout | Mukyung calls out Pung Yang by name to begin the confrontation. |
+| 풍양 | 이소월 | captor_to_coerced_bride | Young Lady | polite and coercive | Pung Yang addresses Seowol as 소저 while threatening her subordinates and demanding marriage. |
+| 풍양 | 진무경 | enemy_to_enemy | you / little brat | condescending and taunting | Uses 네놈 and 어린놈 while threatening to sever Mukyung's limbs. |
+| 진태경 | 풍양 | enemy_to_enemy | you pill-popping bastard | insulting-casual | Taekyung openly insults Pung Yang while announcing that he will use a pill too. |
+| 풍양 | 진태경 | enemy_to_enemy | little brat; wet-behind-the-ears fledgling | condescending and taunting | Pung Yang dismisses Taekyung as an inexperienced child while challenging his ability to intervene. |
+| 무인 | 이소월 | sect_subordinate_to_sect_leader | Sect Leader | formal-deferential | Surviving Mount Heng martial artists address Seowol by her title during the casualty search. |
+| 이소월 | 진태경 | rescued_sect_leader_to_benefactor | Benefactor | deferential | Lee Seowol repeatedly addresses Taekyung as 은공 after acknowledging that he and Jin Mukyung saved the Mount Heng Sword Sect. |
+| 월화 | 혼주지부장 | chief_branch_leader_to_subordinate_branch_leader | Honju Branch Leader | formal-commanding | Wolhwa addresses him by branch title while directing rumor operations. |
+| 진무경 | 이소월 | junior_to_sect_leader | Sect Leader | formal-polite | Uses 문주 while greeting Lee Seowol. |
+| 혁무진 | 이소월 | subordinate_to_sect_leader | Sect Leader | deferential and exuberant | Formally praises the Sect Leader while greeting her. |
+| 혁무진 | 철무백 | junior_to_respected_Peak_master | Great Hero Cheol | deferential | Begins a formal greeting with 철무백 대협 before being stopped. |
+| 철무백 | 진무경 | senior_martial_peer_to_younger_martial_artist | Heaven Shaking Sword | affectionate-teasing | Uses 우리 진천검 while warmly inviting Mukyung to return. |
+| 철무백 | 진태경 | senior_martial_peer_to_benefactor | you | casual-teasing | Uses 자네 while teasing Taekyung about his greeting and injuries. |
+| 진위경 | 위팽 | lord_to_personal_guard | you | formal-but-familiar | Uses 자네 while assigning Wipeng the banner-preparation task. |
+| 하오문도 | 진위경 | informant_to_lesser_family_head | Lesser Family Head | deferential | Uses 소가주님 while correcting Wikyung's misunderstanding about Mukyung's condition. |
+| 현령 | 진태경 | county_official_to_celebrated_martial_artist | Great Hero Jin | formal-polite and admiring | Uses 진 대협 while praising Taekyung's alleged exploits. |
+| 진태경 | 현령 | martial_artist_to_county_official | County Magistrate | polite and lightly sarcastic | Uses 현령님 while explaining that the Lesser Family Head cannot receive visitors. |
+| 혁무진 | 진위경 | Jin Family subordinate to Lesser Family Head | Lesser Family Head | deferential | Uses 소가주님 while confessing that he accepted Taekyung's invitation. |
+| 진위경 | 혁무진 | Lesser Family Head to direct family subordinate | you | formal-but-familiar | Uses 자네 while recognizing Mujin and instructing him to keep helping Taekyung. |
+| 현령 | 진위경 | county_official_to_lesser_family_head | Lesser Family Head | formal-polite and deferential | Uses 진 소가주님 when asking Taekyung to convey his regards. |
+| 현령 | 진무경 | county_official_to_renowned_martial_artist | Heaven Shaking Sword | formal-polite and respectful | Uses 진천검 when asking Taekyung to convey his regards. |
+| 동료 쟁자수 | 석칠 | junior_colleague_to_senior_colleague | Hyung | casual-but-respectful | Calls Seokchil 형님 while inviting him to the fire and restraining him. |
+| 석칠 | 동료 쟁자수 | senior_colleague_to_junior_colleague | Brat | gruff-casual | Uses 이놈아 while bantering with his fellow porter. |
+| 동료 쟁자수 | 청풍 | senior_colleague_to_newcomer | Rookie | casual | Calls Cheongpung 신참. |
+| 혁무진 | 아주머니 | childhood_benefactor_to_former_child | Auntie | deferential-polite | Mujin respectfully addresses the local snack-stall vendor who secretly gave him candied hawthorn when he was a child. |
+| 청풍 | 진태경 | newly met beneficiary to benefactor | Benefactor | deferential | Cheongpung repeatedly addresses Taekyung as 은인 after receiving food. |
+| 청풍 | 혁무진 | newly met beneficiary to benefactor | Benefactor | deferential | Cheongpung includes Mujin among his 은인들 after receiving the skewers. |
+| 혁무진 | 청풍 | martial artist to young master | Young Master | formal-deferential | Mujin uses 공자께서는 when asking why Cheongpung descended from the mountain. |
+| 우진태 | 황 소저 | host_to_five_gates_scion | Young Lady Hwang | polite and flirtatious | Woo Jintae presents Shu brocade as a gift while implying personal feelings, then retreats behind a joke. |
+| 우진태 | 혁 아우 | older_friendly_sc ion_to_younger_sc ion | Little Brother Hyuk | familiar and patronizing | Woo Jintae promises the male scion an especially impressive gift. |
+| 혁 아우 | 우진태 | younger_sc ion_to_older_friendly_sc ion | hyung | familiar and deferential | The scion calls Woo Jintae hyung after they have become close enough to use fraternal terms. |
+| 진태경 | 진태 | stranger_to_mocked_First_Rate_sc ion | Jintae | insulting-casual | Taekyung identifies Jintae as the last name in the group and addresses him while challenging the group's spokesman. |
+| 진태경 | 우진태 | enemy_to_enemy | you / you bastard | insulting-casual | Taekyung repeatedly addresses Woo Jintae with hostile informal forms while demanding an apology and slapping him. |
+| 우진태 | 진태경 | enemy_to_enemy | you / little bastard | condescending and enraged | Woo Jintae uses hostile forms such as 네놈, 애새끼, and 어린놈 while trying to intimidate Taekyung. |
+| 갈 소협 | 정 소협 | fellow_Five_Gates_heir | Young Hero Jeong | formal-polite | The unnamed heir addresses the other injured heir by surname and honorific. |
+| 정 소협 | 갈 소협 | fellow_Five_Gates_heir | Young Hero Gal | formal-polite | The unnamed heir responds using the other injured heir's surname and honorific. |
+| 관리 | 진태경 | official_to_young_martial_artist | Young Master | formal-polite | The official addresses Taekyung as 공자 while explaining the consequences of Prince Shangshan's displeasure. |
+| 홍 내관 | 이풍 | political_rivals | Assistant Commissioner Li | mock-friendly and probing | Uses 우리 이 첨사 and a superficially familiar tone while testing and provoking Li Feng. |
+| 이풍 | 홍 내관 | political_rivals | Eunuch Hong / Deputy Military Commissioner | formal but sarcastic | Alternates between the official title and Eunuch Hong to mock his demand for familiarity. |
+| 공일혁 | 이풍 | martial_rivals | Li Feng of Huashan | casual and taunting | Mocks Li Feng's office and recalls his defeat at Huashan ten years earlier. |
+| 이풍 | 공일혁 | martial_rivals | you bastard | hostile and furious | Responds to Gong Ilhyuk's insult toward Huashan with an openly aggressive form. |
+| 진태경 | 청풍 | companion_to_young_martial_artist | Young Master Cheongpung | formal-polite | Taekyung uses 청 공자 while correcting Cheongpung's royal-etiquette mistake. |
+| 공일혁 | 진태경 | senior_martial_artist_to_junior_martial_artist | Junior | condescending and dismissive | Uses 후배님 while ordering Taekyung to move aside. |
+| 진태경 | 공일혁 | junior_martial_artist_to_senior_martial_artist | Senior | polite but firm | Uses 선배님 while intervening on Cheongpung's behalf. |
+| 공일혁 | 청풍 | senior_martial_artist_to_junior_martial_artist | Junior | impatient and condescending | Treats Cheongpung as a junior while demanding his introduction. |
+| 청풍 | 공일혁 | junior_martial_artist_to_senior_martial_artist | Senior | deferential and apologetic | Uses 선배님 while apologizing for catching Ilhyuk's wrist. |
+| 이풍 | 진태경 | senior_official_to_respected_young_martial_artist | Young Hero Jin | formal and respectful | Addresses Taekyung as 진 소협 after praising his reputation. |
+| 공일혁 | 홍진 | junior_official_guest_to_senior_official | Deputy Military Commissioner | formal and deferential | Appeals to Hong Jin for his view on the impending disturbance. |
+| 이풍 | 청풍 | Huashan lay disciple to martial uncle | Young Hero; Martial Uncle Cheongpung | formal and reverent | Li Feng initially addresses Cheongpung as 소협 while testing his knowledge, then recognizes him as 사숙 after witnessing his Huashan sword technique. |
+| 홍진 | 공일혁 | political_host_to_guest | Great Hero Gong | polite but cutting | Hong Jin uses the respectful title while dismissing Gong Ilhyuk and exposing his poor judgment. |
+| 청풍 | 이풍 | Martial Uncle to Martial Nephew | Martial Nephew Li Feng | exuberant and deferential | Cheongpung adopts the address to obtain royal-guard armor and weapons. |
+| 홍진 | 주표 | servant and political aide to prince | His Highness | formal-deferential | Uses the elongated royal call 전하 while summoning Zhu Bao. |
+| 진태경 | 주표 | visitor to prince | His Highness, Prince Shangshan | formal-deferential | Addresses Zhu Bao as 상산왕 전하 after kneeling to meet his gaze. |
+| 주표 | 진태경 | prince to visiting young hero | Jin Taekyung | formal and inquisitive | Uses the formal second-person address before asking Taekyung's name and requesting an autograph. |
+| 홍진 | 진태경 | political_host_to_young_martial_artist | Young Hero Jin; Young Master Jin; Sleeping Dragon of Shanxi | polite, coaxing, and probing | Uses respectful forms while steering Taekyung toward relaying the Escort Bureau proposal and teasing him with the Seongun Escort Bureau. |
+| 진태경 | 홍진 | young_martial_artist_to_political_official | Comrade Chairman—no, Deputy Military Commissioner | casual and teasing, then formally corrective | Deliberately jokes with an inappropriate title before correcting himself to Hong Jin's official office. |
+| 진태경 | 이풍 | junior_to_respected_official_and_martial_ally | Great Hero Li | polite and respectful | Agrees with Li Feng's proposal that Zhu Bao visit the Jin Family's banquet. |
+| 이풍 | 주표 | official_to_prince | Your Highness | formal-deferential | Suggests that Zhu Bao visit the Jin Family's grand banquet in fifteen days. |
+| 주표 | 청풍 | prince_to_young_martial_artist | you | formal and gatekeeping | Refuses Cheongpung's autograph until he acquires a martial title. |
+| 홍진 | 청풍 | political_official_to_young_martial_artist | Young Master | formal and curious | Uses 공자께서는 while asking whether Cheongpung has always lived on Huashan. |
+| 전령 | 진위경 | military messenger to Lesser Family Head | Lesser Family Head | formal-polite and deferential | Uses 소가주님 when confirming Wikyung's identity. |
+| 위팽 | 진무경 | Jin Family retainer to Second Young Master | Second Young Master | deferential and blunt | Uses 이공자 while directing Mukyung to wash before the guest's arrival. |
+| 진위경 | 홍진 | political_host_to_deputy_military_commissioner | Comrade Hong | formal-polite and playful | Jin Wikyung adopts Hong Jin's requested casual address, 홍 동지. |
+| 홍진 | 진위경 | deputy_military_commissioner_to_lesser_family_head | Lesser Family Head Jin | formal and teasing | Hong Jin addresses Jin Wikyung as 진 소가주님 while flattering and joking with him. |
+| 청풍 | 진무경 | young_martial_artist_to_renowned_senior_martial_artist | Young Hero Jin Mukyung | deferential and excited | Cheongpung calls him 진천검 진무경 소협 and later 진 소협 while seeking his duel. |
+| 진무경 | 청풍 | senior_martial_artist_to_newly_met_young_martial_artist | Young Hero | deferential and expectant | Mukyung addresses Cheongpung as 소협 while asking whether Great Hero Mae descended from Huashan. |
+| 철우 | 백무성 | junior_disciple_to_senior_brother | Senior Brother | deferential | Uses 대사형 while answering Baek Museong. |
+| 은향 | 백무성 | junior_disciple_to_senior_brother | Big Brother; Senior Brother | familiar and casual-polite | Repeatedly calls him 큰 오라버니 even after he insists on 대사형. |
+| 홍가 | 장칠득 | older_martial_artist_to_junior_martial_artist | Little Brother Jang | familiar and casual | Hong calls Childeuk 장 아우 after inviting him to address Hong as hyung. |
+| 장칠득 | 홍가 | junior_martial_artist_to_older_martial_artist | hyung | deferential, then familiar | Childeuk initially uses Senior and then adopts Hong's requested 형님 address. |
+| 장칠득 | 진태경 | servant_to_third_young_master | Third Young Master | formal-deferential | Jang Childeuk addresses Taekyung as 삼공자님 while asking permission to report the dangerous training. |
+| 유생 | 진위경 | scholar_to_lesser_family_head | Lesser Family Head | formal-deferential | The scholar reports matters to Jin Wikyung and apologizes for his inadequate proposal. |
+| 진위경 | 유생 | lesser_family_head_to_scholar | you | formal-but-familiar | Jin Wikyung uses 자네 while correcting and instructing the inexperienced scholar. |
+| 위팽 | 유생 | senior_retainer_to_scholar | you | familiar and probing | Wipeng uses 자네 while asking the scholar for his assessment. |
+| 매종학 | 청풍 | grandfather_to_grandson | Pung | affectionate-instructional | Mae Jonghak calls young Cheongpung 풍아 while teaching him the Crouching Tiger Fist. |
+| 테무르 | 칭겐 | fellow_chieftain | Chinggen | familiar and argumentative | Temur addresses his fellow chieftain by name while defending their khan lineage. |
+| 칭겐 | 테무르 | fellow_chieftain | Temur | familiar and cautioning | Chinggen uses Temur's name while warning him not to act rashly. |
+| 테무르 | 인도 | hostile_strangers | you Han Chinese bastard | hostile and contemptuous | Temur insults the seated Han Chinese man before attempting to draw his curved saber. |
+| 인도 | 테무르 | intimidating_rival_to_chieftain | friend | cold and taunting | The Human Butcher calls Temur a slow friend after forcing him to sit. |
+| 인도 | 흑사 | rival_power_to_rival_power | Black Sand | blunt and familiar | Uses 흑사 while cutting off Black Sand's joking introduction. |
+| 흑사 | 인도 | rival_power_to_rival_power | you | playful and taunting | Teases the Human Butcher about being called a butcher without showing fear. |
+| 흑사 | 칭겐 | alliance_recruiter_to_recruited_chieftain | Chinggen | lightly teasing and probing | Identifies Chinggen by name while commenting on his composure and perceptiveness. |
+| 흑사 | 노인 | subordinate_to_overwhelming_unknown_master | Elder, then big brother; both rejected | deferential and fearful | Black Sand first uses 어르신 and then 형님 while trying to placate the old man; the old man rejects both forms. |
+| 위팽 | 진태경 | retainer_to_third_young_master | Third Young Master | formal-polite and admonishing | Uses 삼공자 while warning Taekyung to return by noon and behave respectfully toward Jang Taebo. |
+| 장태보 | 항아 | elder_neighbor_to_child | Hanga | familiar and instructive | Calls the neighboring boy by name while correcting his speech and sending him home after dark. |
+| 항아 | 장태보 | child_to_elder_neighbor | Grandpa | childlike-familiar | Repeatedly calls Jang Taebo 할부지. |
+| 진태경 | 항아 | visiting_adult_to_local_child | little one | friendly and coaxing | Questions Hanga and offers food in exchange for information. |
+| 혁무진 | 항아 | visiting_adult_to_local_child | little one | coaxing and encouraging | Questions Hanga with an artificially kind smile and offers two food bundles. |
+| 진태경 | 장태보 | younger_visitor_to_elder_master | Elder | polite and persistent | Taekyung repeatedly addresses Jang Taebo as 어르신 while requesting his assistance. |
+| 장태보 | 진태경 | elder_master_to_younger_visitor | you | gruff and familiar | Jang Taebo uses 자네 while questioning and dismissing Taekyung. |
+| 장태보 | 혁무진 | elder_smith_to_young_martial_artist | you / wet-behind-the-ears brat | gruff and insulting | Insults Mujin after Mujin whispers that Jang is senile. |
+| 장태보 | 청풍 | elder_smith_to_young_martial_artist | you / lunatic | gruff and incredulous | Initially treats Cheongpung as a lunatic despite recognizing him as Mae Jonghak's disciple. |
+| 장팔 | 노인 | stranger_to_elder | Mountain Spirit, then Elder | deferential and apologetic | Jang-pal initially mistakes the old man for a mountain spirit, then shifts to a respectful elder address. |
+| 노인 | 장팔 | strangers | you | gruff and familiar | The old man uses 자네 while questioning Jang-pal and accepting his help. |
+| 항아 | 노인 | child_to_elder_stranger | Grandpa | childlike-familiar | Hanga calls the unnamed old man 할부지 after he arrives at her family’s home; this is distinct from her address to Jang Taebo. |
+| 적천강 | 장태보 | strangers; visiting elder to local smith | Old Man Jang | blunt and familiar | Uses 장 노인 while confirming Jang Taebo’s identity. |
+| 적천강 | 진태경 | overwhelming stranger to interrogated young martial artist | you; you bastard | blunt, threatening, and taunting | Uses 너, 네놈, and 이놈 while demanding Taekyung explain Qi Sense and the System. |
+| 진태경 | 적천강 | frightened young martial artist to overwhelming elder | elder | polite and fearful | Uses the honorific 어르신 while explaining that the System may have felt like a cheat. |
+| 적천강 | 청풍 | overwhelming_elder_to_young_martial_artist | you / little punk | blunt, amused, and threatening | Jeok Cheongang uses 네, 이놈, and related blunt forms while testing Cheongpung. |
+| 청풍 | 적천강 | young_martial_artist_to_overwhelming_elder | Grandpa Jeok | casual-familiar despite deference | Cheongpung uses 적 할아버지 while asking Jeok Cheongang to confirm Taekyung's condition; this is a familial form of address, not literal kinship. |
+| 혁무진 | 적천강 | subordinate_to_overwhelming_elder | Great Hero Jeok | deferential and fearful | Mujin uses 적 대협 while reporting Jeok’s orders and Taekyung’s awakening. |
+| 적천강 | 혁무진 | overwhelming_elder_to_junior_martial_artist | you stupid fool | blunt and mocking | Jeok calls Mujin a 멍청한 놈 after knocking him down during the attempted escape. |
+| 장천 | 적천강 | disciple_to_master | Master | deferential and pleading | Jangcheon repeatedly begs Jeok Cheongang to accept him as his Disciple. |
+| 적천강 | 장천 | master_to_disciple | you / fool | blunt and gruff | Jeok rejects Jangcheon’s pleas, questions his choices, and threatens to send him down the mountain. |
+| 우황태 | 송 문주 | fellow_Five_Gates_head | Sect Leader Song | sharp and defensive | Uses 송 문주 while defending his need to apologize for Woo Jintae. |
+| 우황태 | 태 장주 | fellow_Five_Gates_head | Lord Tae | sharp and defensive | Uses 태 장주 while arguing that retreating would damage the Seongun Escort Bureau's standing. |
+| 우황태 | 거한 | insulted_stranger_to_accidental_bystander | you ox-headed bastard | aggressive and insulting | Escalates from demanding an apology to insulting the huge Huashan junior after the dropped pill. |
+| 백무성 | 철우 | senior_disciple_to_second_junior_disciple | Second | calm and admonishing | Baek Museong uses 둘째 while ordering Chulwoo to stop and later directs him to find Eunhyang. |
+| 진위경 | 백무성 | host_to_visiting_martial_artist | Young Hero Baek | formal-polite | Uses 백 소협 when asking whether anything is wrong. |
+| 은향 | 철우 | younger_female_disciple_to_older_fellow_disciple | Senior Brother Chul | familiar and casual-polite | Uses 철 오라버니 while teasing and speaking familiarly to Chulwoo. |
+| 우황태 | 철우 | insulted_stranger_to_accidental_bystander | Young Hero Chul; Great Hero Chul | apologetic and pleading | Switches from 철 소협 to 철 대협 while apologizing after Chulwoo mocks him. |
+| 철우 | 우황태 | stranger_to_stranger | Brother over there | casual-polite and teasing | Uses 형장 while selecting Woo Hwangtae to guide him to a supposed scenic privy. |
+| 철우 | 진태경 | stranger_to_stranger | Brother over there | casual-polite | Uses 형장 when stopping after seeing Taekyung near the mountainside. |
+| 위팽 | 철우 | Jin Family retainer to visiting martial artist | Defeated Flower Fist | formal-commanding | Uses Chulwoo's epithet while stopping the fight and rebuking both men for disgracing their schools. |
+| 진태경 | 철우 | rival_companions | next mountain man | casual-teasing | Taekyung responds to Chulwoo's insult with a mocking counter-insult. |
+| 백무성 | 진태경 | senior_martial_artist_to_younger_martial_artist | Young Hero Jin | formal-polite | Baek Museong agrees with Taekyung while correcting Chulwoo. |
+| 백무성 | 청풍 | Martial_Nephew_to_Martial_Uncle | Martial Uncle | formal-deferential | Baek formally identifies himself as Cheongpung's Martial Nephew. |
+| 공일혁 | 노호검객 | junior_disciple_to_sect_elder | Elder | deferential | Gong Ilhyuk repeatedly addresses the Roaring Fury Swordsman as 장로님 while steering him toward the Jin Family. |
+| 철우 | 청풍 | junior_disciple_to_Martial_Uncle | Martial Uncle | apologetic and deferential | Initially calls Cheongpung Young Hero, then recognizes him and apologizes for failing to recognize the senior sect relation. |
+| 위팽 | 청풍 | Jin Family retainer to visiting Huashan martial artist | Young Hero Cheongpung | formal-polite and worried | Uses 청 소협 while warning that Cheongpung's refusal of the Sect Leader's order could strain relations between the Jin Family and Huashan. |
+| 공야청 | 진태경 | survivor_guardian_to_benefactor | Young Hero Jin | formal-polite | Gong Yacheong greets Taekyung as 진 소협 after returning to the Jin Family. |
+| 소율 | 진태경 | child_survivor_to_benefactor | Uncle | childlike-familiar | Soyul repeatedly calls Taekyung 아저씨 while asking to see him. |
+| 청풍 | 백무성 | Martial_Uncle_to_Martial_Nephew | Martial Nephew | affectionate-casual | Cheongpung accepts Baek Museong's apology by calling him 사질. |
+| 진태경 | 백무성 | junior_martial_artist_to_Huashan_elite | Young Hero Baek | formal-polite | Taekyung addresses Baek Museong as 백 소협 while asking to change seats. |
+| 진위경 | 이소월 | host_to_new_sect_leader | Young Lady | formal-polite | Jin Wikyung addresses Lee Seowol as 소저 before accepting her oath. |
+| 이소월 | 진위경 | new_sect_leader_to_lesser_family_head | Lesser Family Head | formal-deferential | Lee Seowol refers to Jin Wikyung as 소가주님 when describing his summons. |
+| 철무백 | 진위경 | sect_elder_to_lesser_family_head | Lesser Family Head | formal-deferential | Cheol Mubaek formally greets Jin Wikyung as the Lesser Family Head of the Jin Family of Taiyuan. |
+| 무인 | 진위경 | vassal_martial_artist_to_lesser_family_head | Lesser Family Head | formal-deferential | The Mount Heng martial artists greet Jin Wikyung as 소가주님 while pledging loyalty. |
+| 진태경 | 이소월 | young_martial_artist_to_allied_sect_leader | Young Lady Lee | formal-polite | Taekyung uses 이 소저 while greeting Seowol at the banquet. |
+| 진위경 | 철우 | Jin_Family_host_to_visiting_martial_artist | Defeated Flower Fist | formal-familiar | Wikyung uses Chulwoo's epithet while asking Taekyung why he is acting strangely. |
+| 진위경 | 추도환 | banquet_host_to_visiting_challenger | Young Hero Choo | formal-polite | Wikyung uses 추 소협 while accepting Choo Dohwan's request for a duel. |
+| 백무성 | 진위경 | visiting_martial_artist_to_lesser_family_head | Great Hero Jin | formal-polite | Baek Museong uses 진 대협 while urging Jin Wikyung to stop the duel. |
+| 청풍 | 철우 | martial_uncle_to_martial_nephew | Martial Nephew Chulwoo | affectionate-casual | Cheongpung addresses Chulwoo as his Martial Nephew while assessing Taekyung's speed. |
+| 하급 무인 | 진태경 | junior_martial_artist_to_Third_Young_Master | Third Young Master | formal-deferential | The low-ranking gate martial artist uses the family title while reporting Taekyung's victory. |
+| 하급 무인 | 혁무진 | subordinate_to_captain | Captain | deferential | The low-ranking gate martial artist addresses Hyuk Mujin while discussing the celebration and visitors. |
+
+## Exact glossary matches
+
+| 무림     | **Murim**          |
+| 진태경    | **Jin Taekyung**   |
+| 진위경    | **Jin Wikyung**    |
+| 혁무진    | **Hyuk Mujin**     |
+| 백무성    | **Baek Museong**   |
+| 철우     | **Chulwoo**        |
+| 청풍     | **Cheongpung**     |
+| 공일중    | **Gong Iljung**    |
+| 공일혁    | **Gong Ilhyuk**    |
+| 송일     | **Song Il**        |
+| 산서잠룡   | **Sleeping Dragon of Shanxi** | Jin Taekyung   |
+| 검성     | **Sword Saint**               | Mae Jonghak    |
+| 일신     | **One God**         |
+| 태원진가   | **Jin Family of Taiyuan**        |
+| 화산파    | **Huashan**                      |
+| 종남파    | **Zhongnan Sect**                |
+| 무공     | **martial arts**                                 | Can mean a specific martial art in context            |
+| 고수     | **master**                                       | Strong/skilled martial artist                         |
+| 공력     | **internal energy**                              | Years of 공력 → years of internal energy                |
+| 기세     | **aura** / **momentum**                          | Depends on scene                                      |
+| 검기     | **Sword Energy**                                 | When functioning as projected weapon qi               |
+| 비무     | **duel** / **spar**                              | Formal non-lethal martial contest                     |
+| 가주     | **Family Head**                              |
+| 소가주    | **Lesser Family Head**                       |
+| 문주     | **Sect Leader**                              |
+| 장문인    | **Sect Leader**                              |
+| 장로     | **Elder**                                    |
+| 제자     | **Disciple**                                 |
+| 사형     | **Senior Brother**                           |
+| 선배     | **Senior**                                   |
+| 레벨               | **Level**                      |
+| 경험치              | **EXP**                        |
+| 명성               | **Fame**                       |
+| 보상               | **Reward**                     |
+| 산서     | **Shanxi**             |
+| 태원     | **Taiyuan**            |
+| 화산     | **Huashan**            |
+| 노부      | **this old man / I**                                            |
+| 본가      | **our family / this family**                                    |
+| 본문      | **our sect / this sect**                                        |
+| 대협      | **Great Hero** or **Sir** depending tone                        |
+| 진태 | **Jintae** | Level 45 spokesman for the five current Five Gates scions. |
+| 상산왕 | **Prince Shangshan** | The City Lord and a member of the imperial family who orders the luncheon. |
+| 섬서 | **Shaanxi** | Province bordering Shanxi. |
+| 조장 | **Captain** | Hyuk Mujin's address for Taekyung as squad leader. |
+| 구파일방 | **Nine Sects and One Gang** | Major Murim grouping. |
+| 오대세가 | **Five Great Families** | Major Murim grouping. |
+| 종남삼수 | **Three Hands of Zhongnan** | Three renowned Zhongnan Sect martial artists invited to the gathering |
+| 전하 | **His Highness** | Formal royal address for the resident prince; the official insists on this form instead of king. |
+| 풍운검군 | **Wind-and-Cloud Sword Lord** | Epithet of Gong Iljung, the Zhongnan Sect's Sect Leader. |
+| 화산일학 | **Huashan’s Lone Crane** | Epithet of Baek Museong. |
+| 검신 | **Sword God** | Alternate title used for Mae Jonghak; kept distinct from 검성, rendered Sword Saint. |
+| 연무장 | **training ground** | Private martial-arts practice area at Taekyung's newly rebuilt pavilion. |
+| 세가 | **great family** | Murim category Jin Wikyung hopes the Jin Family will attain. |
+| 천검진인 | **Heavenly Sword True Person** | Taoist-style title of the current Sect Leader of Huashan, who once commissioned a sword from Jang Taebo. |
+| 패화권 | **Defeated Flower Fist** | Chulwoo’s epithet. |
+| 노호검객 | **Roaring Fury Swordsman** | Fiery-tempered elder and top-five master of the Zhongnan Sect. |
+| 대연무장 | **Grand Training Ground** | The Jin Family's largest training ground and the site of the grand banquet. |
+| 주모 | **Lady of the House** | Title used in Wipeng's remark that Jin Wikyung lacks a wife or household mistress. |
+
+## Listed compact profiles
+
+### Baek Museong.md
+
+# Baek Museong (백무성)
+
+- **Safe through:** Chapter 190
+- **Aliases:** Huashan’s Lone Crane
+- **Role:** First-generation disciple of Huashan, first of the Three Plum Blossom Elites, and leader of the effort to return Cheongpung, his Martial Uncle, to Huashan.
+- **Personality:** Calm, responsible, principled, and patient, though visibly weary of his junior disciples’ antics.
+- **Voice:** Gentle and polite with strangers; measured and stern when correcting junior disciples.
+- **Relationships:** The current Huashan Sect Leader is his Master; Chulwoo and Eunhyang are his junior disciples; Cheongpung is his Martial Uncle through Mae Jonghak and the current Sect Leader; he met Cheongpung ten years ago.
+
+### Cheongpung.md
+
+# Cheongpung (청풍)
+
+- **Safe through:** Chapter 190
+- **Aliases:** None
+- **Role:** Mysterious young man encountered at Honghwa Inn; an exceptionally young Peak master whose Level Jin Taekyung cannot determine through Qi Sense; the grandson and disciple of Sword Saint Mae Jonghak, who secretly descended from Huashan to seek out and defeat the Ten Dragons and Phoenixes, beginning with Jin Mukyung; he has no martial title yet, naturally opened his Governor Vessel through enlightenment two years ago, has begun teaching Jin Taekyung and Hyuk Mujin using Mae Jonghak's training method, has now used Sword Energy and the Zaha Divine Technique during his spar with Taekyung, defended Taekyung from Jeok Cheongang with Huashan martial arts, and Prince Shangshan will only accept his autograph after he gains one
+- **Personality:** Affable, dreamy, hazy, and childlike in manner, with innocent curiosity, delight in novel public attention, a deep love of martial arts, and a martial artist's competitive pride; he becomes unsettled when someone copies his martial arts
+- **Voice:** Dreamy and hazy, with innocent, polite phrasing
+- **Relationships:** Mae Jonghak, the Sword Saint, is his grandfather and martial instructor; Cheongpung came to Huashan at about age three or four rather than being born there, lived with Mae Jonghak at a hidden residence, and secretly left Huashan without his grandfather's knowledge to challenge the Ten Dragons and Phoenixes; Baek Museong is his Martial Nephew through the current Huashan Sect Leader, met him ten years ago, and is now leading the effort to return him to Huashan; the current Huashan Sect Leader, the Heavenly Sword True Person, is his eldest Senior Brother by generation and has ordered him to return; Cheongpung never underwent Huashan's initiation ceremony and is technically an outsider; Li Feng is his Martial Nephew within Huashan's hierarchy; calls Jin Taekyung and Hyuk Mujin Benefactors after they feed him and has chosen to remain with Taekyung despite the order
+
+### Chulwoo.md
+
+# Chulwoo (철우)
+
+- **Safe through:** Chapter 190
+- **Aliases:** None
+- **Role:** Level 95 early-Peak Huashan martial artist, second junior disciple of Baek Museong, second of the Three Plum Blossom Elites, and wielder of the Defeated Flower Fist.
+- **Personality:** Blunt, defensive, physically intimidating, short-sighted, quick-tempered, coarse, and unconcerned with personal cleanliness.
+- **Voice:** Hearty, casual, and blunt, with crude insults, indignant protests, and a competitive streak when provoked.
+- **Relationships:** Baek Museong is his Senior Brother; Eunhyang is his fellow junior disciple and frequent bickering partner; Cheongpung is his Martial Uncle, whom he initially failed to recognize and then apologized to; he serves under Huashan’s Sect Leader; he has fallen intensely in love with the eighteen-year-old Lee Seowol after meeting her and immediately imagines marriage and children; after seeing Taekyung interact with Seowol, he publicly challenged Taekyung to a duel and was defeated by him.
+
+### Gong Ilhyuk.md
+
+# Gong Ilhyuk (공일혁)
+
+- **Safe through:** Chapter 184
+- **Aliases:** None
+- **Role:** The third member of the Three Hands of Zhongnan and a Zhongnan Sect martial artist from Shaanxi
+- **Personality:** Sharp-tongued, mocking, and openly antagonistic toward Li Feng
+- **Voice:** Casual, taunting, and deliberately provocative
+- **Relationships:** Member of the Zhongnan Sect's Three Hands; Gong Iljung, the Sect Leader and Wind-and-Cloud Sword Lord, is his father's cousin; involved in a ten-year-old humiliating martial grievance with Li Feng
+
+### Gong Iljung.md
+
+# Gong Iljung (공일중)
+
+- **Safe through:** Chapter 140
+- **Aliases:** Wind-and-Cloud Sword Lord
+- **Role:** Current Sect Leader of the Zhongnan Sect and bearer of the Wind-and-Cloud Sword Lord title
+- **Personality:** Not established in this chapter.
+- **Voice:** Not established in this chapter.
+- **Relationships:** Gong Ilhyuk's father's cousin.
+
+### Hyuk Mujin.md
+
+# Hyuk Mujin (혁무진)
+
+- **Safe through:** Chapter 190
+- **Aliases:** None revealed
+- **Role:** Level 50 First Rate martial artist from a wealthy Taiyuan textile-merchant family; Captain of the Gatekeepers at the Jin Family of Taiyuan; deputy squad leader of White Tiger Hall’s reconnaissance squad; candidate to become the next Master of the Gatekeeper Pavilion; has accepted Jin Taekyung’s invitation to train alongside Taekyung and Cheongpung in Taekyung’s private training ground
+- **Personality:** Young, disciplined, persistent, and possessed of clear martial talent; suspicious of Jin Taekyung, and openly contemptuous of the family’s disgraced third son; believes loyalty and respectable conduct matter, but is also proud, hungry for glory, and an avid wuxia-novel reader who sometimes mistakes fictional Murim conventions for reality
+- **Voice:** Formal and clipped when performing his duties; blunt and moralizing when addressing Taekyung
+- **Relationships:** Gatekeeper under the Jin Family; deputy subordinate to Jin Taekyung in the reconnaissance squad; son of the Hyuk Family Textile Shop’s owners, with a younger sibling who removed the need for him to inherit the family business
+
+### Jin Taekyung.md
+
+# Jin Taekyung (진태경)
+
+- **Safe through:** Chapter 190
+- **Aliases:** Sleeping Dragon of Shanxi
+- **Role:** Modern-world protagonist; recently fired after seven years at his job; C-rank Hunter who defeated eight B-rank Minotaurs and killed a Level 70 B-rank Minotaur Warrior in one blow; Peak Master with forty-five years of internal energy and the Scorching Yang Qi attribute after fully absorbing the Blazing Flame Divine Pill; possesses Jopil’s Flame Divine Palm manual and Ten-Thousand-Year Cold Iron sword entrusted to him by Jeok Cheongang, which he has been ordered to keep secret; youngest son of the Jin Family of Taiyuan; new owner of a two-story detached house in Goyang intended for his family; Qi Sense reaches a seventy-meter radius; possesses one Temporary Strength Pill in his Inventory and has reserved it for a worst-case, life-threatening contingency; Level 73 after completing the There Is a Man Who Loved You So Much Quest and receiving large EXP and Fame rewards, and has allocated all seventy remaining stat points, twenty to Strength and fifty to Agility; completed the Find the Master Artisan Quest after securing Jang Taebo’s agreement to forge his Ten-Thousand-Year Cold Iron into a spear; can roughly copy observed martial forms and copied the Plum Blossom Fist after three days of sparring with Cheongpung; killed Jin Baekyang, the Blade of Flowers, and was rendered unconscious with an Internal Injury by Jeok Cheongang’s Flame Divine Palm
+- **Personality:** Hungry, self-aware, dryly observant, and willing to take a questionable opportunity when desperate; treats the impossible as a game until the danger becomes undeniable
+- **Voice:** First-person, conversational, dryly self-mocking; uses vivid trap-and-prey imagery, game jargon, and occasional profanity
+- **Relationships:** Jin Mukyung’s younger brother and current student; son of a deceased father; supports his mother and younger sibling; loves Song Song; has a strained relationship with Lee Seowol, the current Sect Leader of the Mount Heng Sword Sect, whose marriage proposal he has decided to reject
+
+### Jin Wikyung.md
+
+# Jin Wikyung (진위경)
+
+- **Safe through:** Chapter 190
+- **Aliases:** Junzi Sword
+- **Role:** Thirty-five-year-old Lesser Family Head and future Family Head of the Jin Family of Taiyuan; has led the family in place of the absent Family Head for two years and established it as Shanxi Murim's hegemon; is investigating Dark Heaven's apparent attack on Shanxi and has ordered three surviving remnants preserved as evidence
+- **Personality:** Calm and authoritative in public; affectionate and protective toward Taekyung beneath a stern mask; accepts responsibility from his subordinates and shows immediate concern for family
+- **Voice:** Restrained, formal, and commanding with subordinates; openly affectionate with Taekyung
+- **Relationships:** Taekyung’s eldest brother and future Family Head; head of Wipeng; member of the Jin Family
+
+### Jintae.md
+
+# Jintae (진태)
+
+- **Safe through:** Chapter 190
+- **Aliases:** None
+- **Role:** Level 45 First Rate martial artist among the current Five Gates of Shanxi scions; acts as the group's spokesman at Honghwa Inn.
+- **Personality:** Pampered, mocking, and confrontational; responds to Taekyung's challenge with condescension rather than apology.
+- **Voice:** Guarded and condescending, beginning with a warning about the group's status.
+- **Relationships:** One of the five current Five Gates scions, accompanying Seongryong, Cheonwoo, Myeonghwa, and Sohye.
+
+### Prince Shangshan.md
+
+# Prince Shangshan (상산왕)
+
+- **Safe through:** Chapter 180
+- **Aliases:** None
+- **Role:** The City Lord and a member of the imperial family; ten-year-old Prince Shangshan, whose personal name is Zhu Bao, is an exceptionally skilled young swordsman who has trained daily for three years.
+- **Personality:** Earnest, admiring, and eager to emulate Jin Taekyung; despite his royal dignity, he shows openly childlike enthusiasm for martial arts and Taekyung's reputation.
+- **Voice:** Archaic and formal in the manner of a historical drama, with openly eager and childlike reactions beneath his royal diction.
+- **Relationships:** Commands the unnamed Third-Rank Assistant Military Commissioner to attend the luncheon and hosts the gathering of young Murim prodigies; admires Jin Taekyung and seeks to emulate him; has been invited to the Jin Family's grand banquet in fifteen days, where Taekyung promises to obtain Jin Mukyung's autograph for him.
+
+## Korean source
+
+```text
+＃191화
+
+
+
+혼절한 철우가 실려 나가자 진위경이 나섰다.
+
+“도전하려는 자, 더 이상 없는가!”
+
+그토록 강하던 철우를 말 그대로 발라 버린 나다. 도전자가 있을 리 없다.
+
+아무도 나서지 않자 진위경이 좋아 죽겠다는 표정으로 외쳤다.
+
+“하면 이번 비무의 최종 승자는 산서잠룡 진태경이다!”
+
+띠링.
+
+
+
+- 돌발 이벤트, [태원진가 배 비무 대회]의 최종 승자가 되었습니다!
+
+- 명성이 상승합니다!
+
+- 경험치를 얻었습니다!
+
+- 레벨 업!
+
+- 이벤트 보상으로 보너스 포인트 10을 획득했습니다!
+
+
+
+뜻밖의 알림음과 동시에 대연무장은 말 그대로 광란의 도가니로 변했다.
+
+“이야아아아!”
+
+“태원진가 천세! 산서잠룡 만세!”
+
+“산서잠룡이 패화권을 이겼다!”
+
+“끼얏호우!”
+
+끼얏호우는 누구야. 놀 줄 아는 놈인가.
+
+어쨌건 장내의 분위기는 록 페스티벌 저리 가라 할 정도로 후끈 달아올랐다.
+
+어린애는 들고 있던 당과를 허공으로 내던졌고, 백발의 노인이 괴성과 함께 지팡이를 무릎으로 박살 냈다.
+
+“응애애애!”
+
+“하이얍!”
+
+무림인들의 반응도 더했으면 더했지, 덜하진 않았다.
+
+오랜 세월 동안 변방으로 취급받던 산서 무림이다. 나는 연쇄고백마 하나를 쓰러트렸을 뿐이지만 그들에게는 섬서 무림과의 자존심 싸움에서 승리한 것이나 마찬가지였다.
+
+“주모! 여기 화주 한 병!”
+
+“이십 년 전 얹힌 만두가 쑥 내려간다. 여기 오늘 내가 다 살 테니까 먹고 싶은 거 시켜!”
+
+주모 부르지 마. 다 시키지도 마.
+
+어차피 전부 태원진가 주머니에서 나가는데 산서뽕을 제대로 맞은 사람들은 눈이 뒤집혔다.
+
+‘미쳐 날뛰는구나.’
+
+상당수가 무림인이다 보니 병장기 소지는 기본. 이러다가 뽕에 취해 문제가 생기진 않을지 걱정이다.
+
+아니나 다를까, 그때 어떤 정신 나간 놈이 외쳤다.
+
+“다들 검 뽑아!”
+
+차차차창!
+
+번쩍거리는 빛과 함께 수백 개의 병장기가 뽑혀 나왔다.
+
+“앞에서부터 차례대로 흔들어!”
+
+“우와아아아!”
+
+차차차창! 차차차창!
+
+아니, 여기서 파도타기가 나온다고?
+
+시대를 앞서간 신진 응원 문화를 지켜보던 나는 기가 차서 중얼거렸다.
+
+“이거 완전히…….”
+
+“개판이군.”
+
+시작은 내가 했지만 이어진 말은 내가 한 게 아니다.
+
+또렷하게 귓가를 파고든 늙수그레한 목소리. 주위를 살폈지만 시선에 닿는 것은 온통 신난 사람들뿐이다.
+
+‘누구지?’
+
+온갖 소음이 뒤섞인 난장판 속에서도 마치 바로 옆에서 말하듯 들렸다. 고수, 그것도 심후한 공력의 소유자다.
+
+나를 비롯한 몇몇이 목소리의 주인을 찾기 위해 고개를 돌린 그 순간이었다.
+
+“갈(喝)!”
+
+고오옹.
+
+무협 소설에서 읽었던 사자후(獅子吼)가 이런 걸까?
+
+지면이 울리고 공기가 파르르 떨린다. 양민 중 심약한 이들은 기절하거나 비명과 함께 주저앉았다.
+
+“꺄아아악!”
+
+“으헉!”
+
+축제 분위기였던 대연무장은 순식간에 아수라장으로 변했다.
+
+벌벌 떠는 양민들과 얼어붙은 무림인들. 폭탄을 맞은 것처럼 뿔뿔이 흩어진 인파 사이로 느긋하게 걸음을 옮기는 한 노인이 보인다.
+
+“이제 좀 낫군.”
+
+장신에 비쩍 마른 몸. 날카로운 눈빛으로 좌중을 쓸어 보던 노인의 시선이 나와 부딪쳤다.
+
+비무대의 중심인 데다 젊은 놈이 멀쩡히 서서 바라보고 있으니 눈에 띌 수밖에 없었을 거다.
+
+나를 위아래로 훑어보던 노인이 입을 열었다.
+
+“네놈이냐?”
+
+“예?”
+
+“청풍, 진태경. 둘 중 어느 쪽이냐?”
+
+뭐지, 이 상황은.
+
+오만 가지 생각이 머리를 스쳤다. 짧은 순간, 마음의 결정을 내린 내가 대답했다.
+
+“둘 다 아닌데요.”
+
+“아니라고?”
+
+“예. 사람 잘못 보신 것 같습니다.”
+
+뭔지는 몰라도 잡아떼고 보자.
+
+척 봐도 사이즈가 나온다. 어디서 온 누구인지는 몰라도 나한테 썩 좋은 감정을 품고 있는 건 아닌 듯 보였다.
+
+“그래?”
+
+“태어나서 처음 들어 봅니다.”
+
+노인이 뒤를 향해 손짓했다.
+
+“이리 와라.”
+
+“예, 장로님.”
+
+사람들 사이에 가려져 있던 네 사람이 모습을 드러냈다. 공교롭게도 모두 나와 일면식이 있는 이들이었다.
+
+특히 한 사람은 모를 수가 없는 얼굴이다.
+
+‘혁무진?’
+
+아니, 근무 선다던 놈이 왜 저기 있어.
+
+하얗게 질린 혁무진은 곁에 선 세 명의 중년인들에게 끌려오듯 걸음을 옮겼다. 그들 역시 기억에 남아 있는 얼굴들이다.
+
+그런데 저놈들 별호가 뭐였더라?
+
+‘아, 그래. 종남삼수.’
+
+가까스로 엑스트라들의 별호를 떠올린 그때, 정체불명의 노인이 네 사람에게 말했다.
+
+“놈들을 찾아내라.”
+
+혁무진과 팔에 부목을 댄 중년인, 공일혁이 동시에 나를 가리켰다.
+
+“조장님! 저 좀 살려 주십쇼!”
+
+“저놈입니다! 저놈이 진태경입니다!”
+
+“…….”
+
+“…….”
+
+어, 들켰네.
+
+잠깐 침묵하던 노인이 내게 물었다.
+
+“정말 네가 진태경이냐?”
+
+나는 최대한 공손하게 고개를 꾸벅 숙였다.
+
+“처음 뵙겠습니다. 진태경이라고 합니다.”
+
+“……이런 정신 나간 놈을 봤나.”
+
+노인이 기막혀하던 그때. 휙 하는 바람 소리와 함께 세 사람이 사뿐히 착지했다.
+
+진위경과 백무성, 그리고 청풍이었다.
+
+“태원진가의 소가주, 진위경이라 합니다. 노선배의 존함을 여쭈어도 되겠습니까?”
+
+“어흠. 태원진가의 소가주시라고?”
+
+질문은 노인에게 했는데, 정작 나선 것은 공일혁이다.
+
+그의 난입에 진위경이 미간을 좁혔다.
+
+“그렇소만. 귀하는 누구요?”
+
+“난 종남삼수 공일혁이오. 대종남파의 이대 제자이자 문주이신 풍운검군 공일중 대협께서 내 오촌 당숙 되시지.”
+
+저놈의 오촌 당숙 어필은 아직도 꾸준하네. 백숙 뒷다리로 주둥이를 후려치고 싶을 정도다.
+
+공일혁의 정체를 알게 된 진위경이 신음처럼 중얼거렸다.
+
+“종남파?”
+
+공일혁은 인맥만 믿고 까부는 낙하산이지만 종남파의 이름은 다르다.
+
+구파일방과 오대세가는 당금 천하 무림을 움직이는 거목들이니까.
+
+기세를 탄 공일혁이 득의양양하게 말을 이었다.
+
+“그리고 여기 계신 이분은 본문의 장로님이신 송일 대협이시오.”
+
+저 노인이 종남파의 장로라고?
+
+고수일 거라고는 예상했지만 내 생각 이상으로 대단한 신분인 모양이다. 진위경과 백무성의 얼굴이 딱딱하게 굳었다.
+
+“노호검객……!”
+
+“무림말학 백무성이 송 노선배를 뵙습니다.”
+
+황급히 예를 갖추는 두 사람을 노인, 노호검객이 가만히 내려다본다.
+
+강자의 여유와 오만함이 묻어나오는 목소리가 흘러나왔다.
+
+“백무성? 네가 화산일학이더냐?”
+
+“예, 과분한 별호입니다.”
+
+“그런 것 같군. 네 스승의 소싯적보다 못해.”
+
+노인네 말하는 싸가지 보소.
+
+하지만 끗발이 대단하다는 것 하나만큼은 인정해야겠다.
+
+노호검객은 선망의 대상이나 다름없던 백무성을 만인의 앞에서 거침없이 깔아뭉갠 것으로도 모자라 화산파 장문인인 천검진인을 동네 친구 대하듯 불렀으니까.
+
+무공만큼이나 무림에서의 배분도 대단히 높은 모양이었다.
+
+“정진하겠습니다.”
+
+“흠, 말은 제법 번지르르하게 하는구나. 한데 천검진인이 널 보냈다면…….”
+
+별말 없이 고개를 숙이는 백무성의 모습을 바라보던 노호검객의 눈이 번쩍 빛났다.
+
+그의 시선은 멀뚱멀뚱 선 청풍을 향하고 있었다.
+
+“저놈이로군. 검성의 후인이.”
+
+청풍이 어리둥절한 표정으로 물었다.
+
+“저희 할아버지 아세요?”
+
+“알지. 알다마다. 내 어찌 그를 모를 수 있겠느냐?”
+
+표정을 보아하니 썩 좋은 인연은 아닐 것 같다.
+
+상황이 심상치 않게 돌아가자 진위경이 굳은 얼굴로 물었다.
+
+“어쩐 일로 방문하셨는지 여쭈어도 되겠습니까?”
+
+“빚을 받으러 왔다.”
+
+“빚이라 하셨습니까.”
+
+“그래, 감히 대종남파를 조롱하고 본문의 제자를 상하게 한 빚 말이다.”
+
+칼날 같은 시선이 나와 청풍을 향해 쏘아졌다.
+
+공일혁이 부목을 댄 팔을 흔들며 앞으로 나섰다.
+
+“이거 보이시오? 얼마 전 초청을 받고 방문한 상산왕부에서 당한 상처요. 의원에게 보여 줬더니 족히 반년은 요양해야 한다더군.”
+
+청풍이 미안한 얼굴로 입을 열었다.
+
+“살살 쳤는데…… 많이 아프셨어요?”
+
+잔인한 놈. 아주 두 번 죽이는구나. 공개 망신을 당한 공일혁의 낯빛이 벌겋게 달아오른다.
+
+“이놈! 기습한 주제에 못 하는 말이 없구나!”
+
+나는 어이가 없어져서 중얼거렸다.
+
+“기습 같은 소리 하네. 먼저 멱살 잡았다가 역관광 당한 주제에.”
+
+“닥치지 못할까! 너희 두 놈이 본문을 조롱하고 내게 한 짓을 생각하면 씹어 먹어도 시원치 않다!”
+
+원래 애들 싸움이 어른들 싸움으로까지 번지는 법이지.
+
+진위경과 백무성의 얼굴이 와락 일그러졌다.
+
+“씹어 먹어? 지금 그거 우리 막내한테 한 소린가?”
+
+“놈이라니! 공 대협, 언행에 주의하시오! 비록 문파는 달라도 엄연히 무림에서의 배분이라는 것이 있는데 어찌…….”
+
+“클클클.”
+
+노호검객의 거슬리는 웃음소리에 진위경과 백무성이 입을 다물었다.
+
+“배분이라. 말 한번 잘했다.”
+
+“…….”
+
+“…….”
+
+“노부는 본문의 장문인인 풍운검군의 사형이요, 화산파의 천검진인과는 같은 배분이니 아무 문제 없겠구나.”
+
+배분 이야기를 꺼낸 것은 실수였다.
+
+일신의 무공도 대단한데 짬으로 밀어붙이니 진위경과 백무성은 물론이고, 검성의 제자인 청풍도 당해 낼 수 없었다.
+
+“노부의 말이 틀렸느냐?”
+
+아무도 입을 열지 않자 노호검객이 청풍을 향해 말했다.
+
+“너는 종남파의 제자를 상하게 했다. 각오는 되었느냐?”
+
+이래서 말이 무서운 거다.
+
+어떻게 그렇게 되었는지에 대한 과정은 없고 오직 결과만 있다. 백무성이 황급히 끼어들었다.
+
+“노선배님, 이에 관해서는 시시비비를 명백하게 가려야 합니다.”
+
+청풍도 잔뜩 위축된 자세로 중얼거렸다.
+
+“저는 그냥 살살 툭 친 건데요.”
+
+“하면, 네가 한 짓이 아니라는 말이냐?”
+
+“그게 아니라요. 치긴 쳤는데 그렇게 다치실 줄은 몰랐어요.”
+
+틈을 본 공일혁이 득달같이 달려들었다.
+
+“명백한 살수였습니다!”
+
+“들었느냐?”
+
+“진짜 아닌데.”
+
+청풍이 뭐라 말도 못하고 우물쭈물하는 사이 노호검객의 날 선 목소리가 이어졌다.
+
+“내 이번 일은 정식으로 화산파에 항의할 것인즉, 감히 발뺌할 생각은 말거라.”
+
+“장로님, 관과 무림은 서로에게 관여하지 않는 법. 더군다나 그 자리에 있던 관가의 인물들은 저들에게 우호적이니 혹여 거짓을 고할까 걱정됩니다.”
+
+“네 말이 옳다. 조치를 취할 것이다.”
+
+이미 짜고 치는 고스톱이나 다름없다.
+
+부당한 처사에 백무성이 입술을 질끈 깨물자 남은 화살이 향할 곳은 정해져 있었다.
+
+“태원진가는 본문에서 사람을 보낼 때까지 봉문(封門)해라.”
+
+“……지금 뭐라 하셨습니까?”
+
+내가 하고 싶은 말을 진위경이 대신했다. 아니, 주위에서 노호검객의 말을 들은 모두가 같은 생각을 했을 것이다.
+
+‘봉문이라니.’
+
+그게 무슨 개소리지?
+
+내가 공일혁에게 약간의 망신을 준 것은 사실이다.
+
+하지만 그건 공일혁에게 한정된 것이었을 뿐, 종남파를 조롱하거나 모욕하는 말은 없었다고 장담할 수 있다.
+
+그런데 겨우 그걸로 봉문을 시킨다고?
+
+비록 종남파에서 사람을 보낼 때까지라는 단서가 붙긴 했지만 그 자체로도 이미 치욕적이다.
+
+“부당합니다!”
+
+진위경의 외침에 노호검객이 눈을 치켜떴다.
+
+“뭐라?”
+
+“어떻게 된 일인지 시시비비를 따져 보기도 전에 봉문이라니. 이것이 구파일방의, 아니 종남파의 방식입니까?”
+
+“네놈이 감히!”
+
+“본가는 받아들이지 않겠습니다!”
+
+“받아들이지 않으면?”
+
+스으으으.
+
+노호검객의 전신에서 강대한 기세가 들불처럼 일어났다.
+
+한 자루의 검이 미간을 노리는 느낌. 살갗이 따끔거렸다.
+
+“받아들이지 않으면, 어쩔 테냐?”
+
+“……!”
+
+“이곳은 무림이다. 잊었느냐?”
+
+순간 불쑥 짜증이 솟구쳤다. 세상이 어떻게 돌아가는지는 이미 지긋지긋하게 겪어서 알고 있다.
+
+돈이 없어서 무시받고, 든든한 뒷배가 없어서 괄시받으며, 재능이 하찮아서 멸시받는다.
+
+‘여기도 똑같구나.’
+
+무림과 현대는 다르면서 참 닮았다.
+
+힘 있는 자들은 거짓을 진실로 만들고 진실도 거짓으로 둔갑시킨다.
+
+약자를 압박하고 찍어 누르는 것. 모든 상황이 그들에게는 자연스럽고 당연하다. 눈앞의 노호검객처럼.
+
+뚝, 투둑.
+
+어느새 꽉 움켜쥔 주먹에서는 핏물이 흘러나온다.
+
+바닥에 점점이 떨어진 핏방울을 노려보던 나는 뜨거운 숨을 토해 냈다.
+
+“아, 시발. 개좆 같네, 진짜.”
+
+감히 아무도 입을 열지 못하는 상황. 내 입에서 튀어나온 욕설을 모두가 들었다.
+
+보이지 않은 뭔가가 쨍그랑, 깨져 나가는 듯했다.
+
+노호검객이 믿기지 않는다는 얼굴로 물었다.
+
+“……방금 뭐라고 했느냐?”
+
+욕을 한 건 실수였다. 나로 인해 벌어진 일이니 무슨 일이 있어도 꾹 눌러 참아야 했다.
+
+그게 사태를 좀 더 원활하게 수습할 수 있는 길이니까.
+
+하지만…….
+
+“좆 같아요. 좆 같다고. 이 시발새끼들아. 갑질도 적당히 해야지.”
+
+더 이상은 못 참겠다. 생각 없는 놈, 세상 물정 모르는 어린놈이라고 욕먹어도 어쩔 수 없다.
+
+이미 현실에서 지긋지긋하게 겪은 일들을 무림에서까지 리플레이 하고 싶은 악취미는 없으니까.
+
+나는 진위경에게 사과했다.
+
+“죄송해요. 좆 같아도 참아야 하는 일인 거 아는데, 너무 좆같이 구니까 두 배로 좆 같아서 그냥 넘어갈 수가 없었어요.”
+
+반쯤 넋이 나가 있던 진위경이 표정이 참 변화무쌍하다.
+
+일그러졌다가, 펴졌다가. 짧은 순간 여러 가지 표정을 보여 준 그가 마침내 피식 웃었다.
+
+“사실 나도 좆 같았다.”
+
+그 말이 방아쇠를 당겼다.
+
+노호검객의 눈동자에서 용암보다 뜨거운 불길이 쏟아졌다.
+
+“네놈들이…… 죽고 싶어 환장을 했구나.”
+
+스르릉.
+
+씹어 뱉어 내는 한마디와 함께 뽑혀 나오는 검. 새하얀 검신 위로 검기가 겹겹이 씌워졌다.
+
+지금껏 봐 온 어느 누구의 검기보다 강하게 타오르는 그것이 나를 겨눈 그 순간이었다.
+
+“그놈 죽이면 너도 죽어.”
+
+어디선가 들려온 카랑카랑한 목소리에 노호검객의 몸이 우뚝 굳었다.
+```
+
+## Final English reading copy
+
+```markdown
+# Chapter 191
+
+As the unconscious Chulwoo was carried away, Jin Wikyung stepped forward.
+
+“Is there anyone else who wishes to challenge him?”
+
+I had literally wiped the floor with Chulwoo, who had been so overwhelmingly strong. There was no chance anyone else would step up.
+
+When no one came forward, Jin Wikyung shouted with an expression of pure delight,
+
+“Then the final winner of this duel tournament is the Sleeping Dragon of Shanxi, Jin Taekyung!”
+
+Ding.
+
+> **System**
+>
+> - You became the final winner of the **Jin Family of Taiyuan Duel Tournament** Sudden Event!
+>
+> - **Fame** increased!
+>
+> - You gained **EXP**!
+>
+> - **Level Up!**
+>
+> - You acquired 10 bonus points as an event **Reward**!
+
+At the same time as the unexpected alert, the Grand Training Ground turned into a literal cauldron of madness.
+
+“Waaaaah!”
+
+“Ten thousand years for the Jin Family of Taiyuan! Long live the Sleeping Dragon of Shanxi!”
+
+“The Sleeping Dragon of Shanxi defeated the Defeated Flower Fist!”
+
+“Kiyah-hoo!”
+
+Who was that? Did he know how to have fun?
+
+In any case, the atmosphere in the Grand Training Ground grew hotter than anything a rock festival could offer.
+
+A child threw the candied fruit he had been holding into the air, while a white-haired old man let out a wild cry and broke his cane over his knee.
+
+“Waaaah!”
+
+“Hiyah!”
+
+The martial artists’ reactions were no less intense. If anything, they were even more enthusiastic.
+
+Shanxi Murim had been treated as a backwater for a long time. I had only defeated one Serial Confession Man, but to them, it was practically the same as winning a battle of pride against Shaanxi Murim.
+
+“Lady of the House! Bring me a bottle of huangjiu!”
+
+“The dumplings that got stuck twenty years ago are sliding right down! Order whatever you want—I’m paying for everything today!”
+
+Don’t call the Lady of the House. And don’t order everything.
+
+It was all coming out of the Jin Family of Taiyuan’s pockets anyway, but the people high on Shanxi pride had completely lost their minds.
+
+*They’re going wild.*
+
+Since a large portion of them were martial artists, carrying weapons was standard. I was worried that someone might get drunk on the excitement and cause trouble.
+
+Sure enough, a lunatic suddenly shouted,
+
+“Everyone, draw your swords!”
+
+Clang-clang-clang!
+
+Hundreds of weapons were drawn in a flash of reflected light.
+
+“Wave them from the front, one row at a time!”
+
+“Waaaaah!”
+
+Clang-clang-clang! Clang-clang-clang!
+
+Wait, were they doing the wave here?
+
+As I watched this cutting-edge new cheering culture unfold, I muttered in disbelief,
+
+“This is completely…”
+
+“A total shitshow.”
+
+I had started the sentence, but I hadn’t said the second half.
+
+An elderly voice pierced my ears with perfect clarity. I looked around, but all I could see were excited people.
+
+*Who was that?*
+
+Even amid the cacophony, the voice had sounded as though the speaker were standing right beside me. Whoever it was, he was a master—one with profound internal energy at that.
+
+Just as several of us turned our heads in search of the voice’s owner—
+
+“Ha!”
+
+Gooooong.
+
+Was this what the lion’s roar I had read about in martial arts novels sounded like?
+
+The ground trembled, and the air shuddered. The more timid commoners fainted or collapsed with screams.
+
+“Eeeeeek!”
+
+“Gah!”
+
+The Grand Training Ground, which had been filled with a festival atmosphere, instantly became an utter madhouse.
+
+The commoners were trembling, and the martial artists had frozen in place. Through the scattered crowd, which had fled as though a bomb had gone off, an old man strolled leisurely into view.
+
+“Much better.”
+
+He was tall and emaciated. His sharp gaze swept across everyone before meeting mine.
+
+I was standing at the center of the duel platform, and as a young man still standing there unharmed and staring back, I was bound to catch his attention.
+
+After looking me up and down, the old man opened his mouth.
+
+“Are you the one?”
+
+“Excuse me?”
+
+“Cheongpung or Jin Taekyung. Which one are you?”
+
+What the hell was going on?
+
+All sorts of thoughts flashed through my mind. After making a decision in that brief moment, I answered,
+
+“Neither.”
+
+“You’re not?”
+
+“No. You must have mistaken me for someone else.”
+
+Whatever was going on, I might as well deny everything and see what happened.
+
+I could tell at a glance what kind of situation this was. I didn’t know who he was or where he had come from, but he certainly didn’t seem to have any warm feelings toward me.
+
+“Really?”
+
+“I’ve never heard that name in my life.”
+
+The old man gestured behind him.
+
+“Come here.”
+
+“Yes, Elder.”
+
+Four people hidden among the crowd emerged. As it happened, I was acquainted with every one of them.
+
+One face in particular was impossible to mistake.
+
+*Hyuk Mujin?*
+
+Why was the guy who was supposed to be standing guard over there?
+
+Hyuk Mujin, pale as a sheet, walked forward as though the three middle-aged men beside him were dragging him along. Their faces were familiar too.
+
+But what were their epithets again?
+
+*Oh, right. The Three Hands of Zhongnan.*
+
+Just as I finally remembered the extras’ epithets, the unidentified old man spoke to the four of them.
+
+“Find them.”
+
+Hyuk Mujin and the middle-aged man with a splint on his arm, Gong Ilhyuk, pointed at me at the same time.
+
+“Captain! Please save me!”
+
+“It’s him! That guy is Jin Taekyung!”
+
+“…”
+
+“…”
+
+Well, so much for that.
+
+After a brief silence, the old man asked me,
+
+“Are you really Jin Taekyung?”
+
+I bowed as politely as I could.
+
+“Nice to meet you. My name is Jin Taekyung.”
+
+“…What kind of lunatic is this?”
+
+Just as the old man stared at me in disbelief, three people landed lightly with a rush of wind.
+
+Jin Wikyung, Baek Museong, and Cheongpung.
+
+“I am Jin Wikyung, Lesser Family Head of the Jin Family of Taiyuan. May I ask this Senior’s name?”
+
+“Ahem. You’re the Lesser Family Head of the Jin Family of Taiyuan?”
+
+The question had been directed at the old man, but Gong Ilhyuk was the one who stepped forward.
+
+Jin Wikyung’s brows drew together at the interruption.
+
+“That is correct. And who might you be?”
+
+“I am Gong Ilhyuk, one of the Three Hands of Zhongnan. I am a second-generation Disciple of the Great Zhongnan Sect, and Great Hero Gong Iljung, the Wind-and-Cloud Sword Lord and Sect Leader, is my father’s cousin.”
+
+That guy was still constantly playing up his father’s cousin.
+
+I wanted to smack him in the mouth with the drumstick of a boiled chicken.
+
+Jin Wikyung learned Gong Ilhyuk’s identity and muttered as though groaning,
+
+“The Zhongnan Sect?”
+
+Gong Ilhyuk was a well-connected hack who threw his weight around, but the name of the Zhongnan Sect was another matter.
+
+The Nine Sects and One Gang and the Five Great Families were the great trees that moved the Murim of the present age.
+
+Emboldened by the momentum, Gong Ilhyuk continued smugly,
+
+“And this gentleman here is Elder Song Il of our sect.”
+
+*That old man is an Elder of the Zhongnan Sect?*
+
+I had expected him to be a master, but it seemed his status was even more impressive than I had imagined. Jin Wikyung and Baek Museong’s expressions hardened.
+
+“The Roaring Fury Swordsman…”
+
+“This junior of Murim, Baek Museong, pays his respects to Senior Song.”
+
+The old man—the Roaring Fury Swordsman—silently looked down at the two of them as they hurriedly paid their respects.
+
+His voice carried the composure and arrogance of a powerful man.
+
+“Baek Museong? Are you Huashan’s Lone Crane?”
+
+“Yes. It’s an epithet far too generous for me.”
+
+“So it seems. You’re inferior to your Master in his youth.”
+
+What an insufferable old bastard.
+
+Still, I had to acknowledge that his clout was extraordinary.
+
+It wasn’t enough for the Roaring Fury Swordsman to casually trample Baek Museong, who was practically an object of admiration, in front of everyone. He had also spoken of the Sect Leader of Huashan, the Heavenly Sword True Person, as though he were an old neighborhood friend.
+
+His seniority in Murim seemed to be just as impressive as his martial arts.
+
+“I will continue striving.”
+
+“Hm. You certainly know how to dress up your words. But if the Heavenly Sword True Person sent you…”
+
+As he watched Baek Museong bow his head without another word, the Roaring Fury Swordsman’s eyes flashed.
+
+His gaze had shifted to Cheongpung, who stood there blankly.
+
+“So it’s you. The Sword Saint’s heir.”
+
+Cheongpung asked with a puzzled expression,
+
+“You know my grandfather?”
+
+“Of course I do. How could I not know him?”
+
+Judging by his expression, they probably hadn’t shared a particularly pleasant relationship.
+
+As the situation grew more serious, Jin Wikyung asked with a stiff face,
+
+“May I ask why you have come to visit?”
+
+“I came to collect a debt.”
+
+“A debt?”
+
+“Yes. The debt for daring to mock the Great Zhongnan Sect and injure one of our Disciples.”
+
+A blade-sharp gaze shot toward Cheongpung and me.
+
+Gong Ilhyuk stepped forward, shaking his splinted arm.
+
+“Do you see this? I suffered this injury at Prince Shangshan’s residence when I visited after receiving an invitation. I showed it to a physician, and he said I would need at least six months of recuperation.”
+
+Cheongpung opened his mouth with an apologetic expression.
+
+“I hit you gently… Did it hurt a lot?”
+
+Cruel bastard. He was killing Gong Ilhyuk twice over.
+
+Gong Ilhyuk’s face flushed red from the public humiliation.
+
+“You bastard! After ambushing me, you still have the nerve to say that!”
+
+I muttered in disbelief,
+
+“Don’t make me laugh. You grabbed him by the collar first and got your ass handed to you.”
+
+“Can’t you shut up? When I think about how you two mocked our sect and what you did to me, it wouldn’t satisfy me even if I chewed you up and swallowed you!”
+
+That was how childish fights turned into fights between adults.
+
+Jin Wikyung and Baek Museong’s faces twisted sharply.
+
+“Chew him up and swallow him? Are you talking about our youngest brother?”
+
+“How dare you call him a bastard! Great Hero Gong, watch your words! Though our sects may differ, seniority still matters in Murim. How could you…”
+
+“Heh heh heh.”
+
+At the Roaring Fury Swordsman’s irritating laugh, Jin Wikyung and Baek Museong fell silent.
+
+“Seniority. You chose your words well.”
+
+“…”
+
+“…”
+
+“This old man is the Senior Brother of our sect’s Sect Leader, the Wind-and-Cloud Sword Lord. I am of the same seniority as the Heavenly Sword True Person of Huashan, so there should be no problem.”
+
+Bringing up seniority had been a mistake.
+
+The Roaring Fury Swordsman’s martial arts were already formidable, and he was using his years of seniority to overwhelm them. Neither Jin Wikyung nor Baek Museong could stand against him—not even Cheongpung, the Sword Saint’s Disciple.
+
+“Is this old man wrong?”
+
+When no one answered, the Roaring Fury Swordsman spoke to Cheongpung.
+
+“You injured a Disciple of the Zhongnan Sect. Are you prepared to face the consequences?”
+
+This was why words were frightening.
+
+There was no explanation of how it had happened. Only the result remained.
+
+Baek Museong hurriedly cut in.
+
+“Senior, we must clearly determine right and wrong in this matter.”
+
+Cheongpung also muttered with his body drawn inward,
+
+“I only gave him a light tap.”
+
+“Are you saying you didn’t do it?”
+
+“That’s not what I mean. I did hit him, but I didn’t know he would get hurt that badly.”
+
+Gong Ilhyuk seized the opening and lunged in.
+
+“It was an obvious attempt to kill!”
+
+“Did you hear that?”
+
+“I really didn’t mean to.”
+
+While Cheongpung fumbled for words, the Roaring Fury Swordsman’s sharp voice continued.
+
+“I will formally lodge a complaint with Huashan over this matter, so don’t you dare think you can wriggle out of it.”
+
+“Elder, the government and Murim do not interfere with each other. Besides, the government officials who were present were friendly toward them, so I fear they may give false testimony.”
+
+“You’re right. I will take measures.”
+
+It was practically a fixed game from the start.
+
+Baek Museong bit down hard on his lip at the unfair treatment, and the next target of their arrows was obvious.
+
+“The Jin Family of Taiyuan will seal its gates until our sect sends someone.”
+
+“…”
+
+“What did you just say?”
+
+Jin Wikyung said what I wanted to say for me. No—everyone nearby who had heard the Roaring Fury Swordsman must have been thinking the same thing.
+
+*Seal its gates?*
+
+What kind of bullshit was that?
+
+It was true that I had humiliated Gong Ilhyuk somewhat.
+
+But that had been limited to Gong Ilhyuk himself. I could swear that I had never mocked or insulted the Zhongnan Sect.
+
+And yet they wanted to seal the Jin Family’s gates over something like this?
+
+Even with the condition that it would last only until the Zhongnan Sect sent someone, the order itself was already humiliating.
+
+“That is unjust!”
+
+At Jin Wikyung’s shout, the Roaring Fury Swordsman raised his eyes.
+
+“What did you say?”
+
+“How can you order us to seal our gates before even investigating what happened and determining right and wrong? Is this the way of the Nine Sects and One Gang—or rather, the way of the Zhongnan Sect?”
+
+“How dare you!”
+
+“Our family will not accept this!”
+
+“If you refuse to accept it?”
+
+Ssssss.
+
+A powerful aura rose from the Roaring Fury Swordsman’s entire body like a wildfire.
+
+It felt as though a sword were aimed directly between my brows. My skin prickled.
+
+“If you refuse to accept it, what are you going to do?”
+
+“…”
+
+“This is Murim. Have you forgotten?”
+
+A sudden surge of irritation welled up inside me.
+
+I knew how the world worked. I had already experienced it more times than I cared to remember.
+
+People ignored you because you had no money, looked down on you because you lacked powerful backing, and scorned you because your talent was insignificant.
+
+*It’s exactly the same here.*
+
+Murim and the modern world were different, yet so much alike.
+
+Those with power turned lies into truth and truth into lies.
+
+Pressuring and crushing the weak—it all came naturally to them. It was simply the way things were, just as it was to the Roaring Fury Swordsman standing before me.
+
+Drip. Drip.
+
+Blood began to flow from my tightly clenched fist.
+
+I stared down at the drops landing one by one on the ground and exhaled a hot breath.
+
+“Ah, fuck. This is fucking bullshit.”
+
+No one dared to speak.
+
+Everyone heard the profanity that had burst from my mouth.
+
+It felt as though something invisible had shattered with a sharp crack.
+
+The Roaring Fury Swordsman asked with an expression of disbelief,
+
+“…What did you just say?”
+
+Swearing had been a mistake. Since I was the reason this had happened, I should have swallowed it no matter what.
+
+That was the best way to resolve the situation smoothly.
+
+But…
+
+“It’s fucking bullshit. I said it’s fucking bullshit. You fucking assholes. There’s a limit to how much you can throw your weight around.”
+
+I couldn’t take it anymore.
+
+They could call me thoughtless or a young fool who knew nothing about the world. I didn’t care.
+
+I had no desire to replay all the things I had been sick of experiencing in reality here in Murim.
+
+I apologized to Jin Wikyung.
+
+“I’m sorry. I know this is something I’m supposed to put up with even if it’s fucking bullshit, but they were being so fucking shitty about it that it became twice as fucking shitty, and I couldn’t let it slide.”
+
+Jin Wikyung, who had been half out of his senses, displayed an astonishing variety of expressions.
+
+His face twisted, then relaxed. After showing several different expressions in a short span of time, he finally let out a quiet laugh.
+
+“To be honest, I thought it was fucking bullshit too.”
+
+Those words pulled the trigger.
+
+Flames hotter than lava poured from the Roaring Fury Swordsman’s eyes.
+
+“You bastards… must be desperate to die.”
+
+Shing.
+
+Along with the words he spat through clenched teeth, he drew his sword. Layer upon layer of Sword Energy coated the snow-white blade.
+
+It burned more fiercely than any Sword Energy I had ever seen.
+
+And the moment it aimed at me—
+
+“If you kill that guy, you die too.”
+
+At the clear, ringing voice that came from somewhere, the Roaring Fury Swordsman’s body abruptly froze.
+```
