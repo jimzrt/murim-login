@@ -16,7 +16,7 @@ At his team members’ questions, Im Changsoo clenched his teeth.
 
 They weren’t bound together by loyalty, but Im Changsoo had always thought he gave them what they were due and received what he was owed in return. Who had forced those training-camp washouts into the Guild, bought them cars, and given them spending money?
 
-He had received their loyalty in exchange…but being abandoned at the most important moment felt like a stinging blow to the back of the head.
+In return, they had given him their loyalty…only to turn their backs on him when it mattered most. The betrayal stung.
 
 *Fuck, what kind of bullshit is this?*
 
@@ -26,17 +26,17 @@ But he could never tolerate having his pride trampled.
 
 *That bastard deserves to be beaten to death.*
 
-Im Changsoo glared at one person’s back, his eyes wide.
+Im Changsoo glared at one man’s back.
 
-That bastard in the black leather armor—Jin Taekyung—was the root cause of everything.
+That bastard in black leather armor—Jin Taekyung—was the cause of everything.
 
 *I don’t know where he came from or what he was doing before this…but I’ll make him pay for this humiliation.*
 
 He still didn’t know exactly who Taekyung was. The one thing he knew for certain was that Taekyung was no ordinary C-rank Hunter.
 
-There wasn’t a single C-rank Hunter in the world who could crush eight B-rank monsters in a head-on fight.
+There wasn’t a C-rank Hunter in the world who could crush eight B-rank monsters in a head-on fight.
 
-*Why is he hiding his identity? Is he a fugitive? Or someone with a fraudulent registration? The moment we get out of this Gate, I’ll dig up every last thing about him.*
+*Why is he hiding his identity? Is he a fugitive? Or did he falsify his registration? The moment we get out of this Gate, I’ll dig up every last thing about him.*
 
 Just as Im Changsoo was quietly stoking his thirst for revenge—
 
@@ -54,7 +54,7 @@ Jin Taekyung suddenly turned toward him and narrowed his eyes. The gaze of a pre
 
 “Don’t give me that. The stammering says it all. No wonder the back of my head has been prickling this whole time.”
 
-Im Changsoo recalled the words of his father, a Hunter and war hero from the Great Cataclysm era.
+Im Changsoo recalled the words of his father, a Hunter and war hero from the Great Cataclysm.
 
 *The more dangerous the situation, the more calmly you must respond.*
 
@@ -70,7 +70,7 @@ Im Changsoo recalled the words of his father, a Hunter and war hero from the Gre
 
 “No, I swear you were. And you’ve got one coming too.”
 
-Bonk!
+Thwack!
 
 Tears sprang to Im Changsoo’s eyes.
 
@@ -94,7 +94,7 @@ Im Changsoo had no idea who Hyuk Mujin was, but he lowered his head anyway.
 
 Im Changsoo and his team hadn’t even needed to step in. Those five were more than enough. No, Jin Taekyung alone was enough.
 
-*What a monster. Is he really an A-rank Hunter?*
+*What a monster. Is he actually an A-rank Hunter?*
 
 Taekyung alone seemed to have brought down more than thirty monsters. Just when he appeared to be tiring, he would suddenly start tearing through them again.
 
@@ -102,17 +102,17 @@ Taekyung alone seemed to have brought down more than thirty monsters. Just when 
 
 Normally, a raid slowed toward the end as fatigue accumulated.
 
-But the raid was getting faster even though they were fighting the same monsters…
+Yet despite fighting the same monsters, they were moving faster and faster…
 
-*Is he getting stronger the whole time?*
+*Is he still getting stronger?*
 
 Im Changsoo desperately rejected the thought that had flashed through his mind.
 
-*What is he, a game character leveling up? How could that make any sense?*
+What was Taekyung, some game character leveling up? How could that possibly make sense?
 
-Getting hit on the forehead must have broken his brain.
+That blow to the forehead must have broken his brain.
 
-“Hoo.”
+“Hoo…”
 
 As Im Changsoo let out a deep sigh, his team members approached him hesitantly.
 
@@ -120,9 +120,9 @@ As Im Changsoo let out a deep sigh, his team members approached him hesitantly.
 
 “Oppa, are you okay? Oh no, you’ve got a bump on your forehead.”
 
-“I’m in a bad mood, so get lost. The moment you leave, you’re all fired. Got it?”
+“I’m in a bad mood, so get lost. The moment we get out, you’re all fired. Got it?”
 
-No matter how badly his dignity had been crushed, even a tiger with its teeth pulled was still a tiger.
+No matter how thoroughly he had been humiliated, even a tiger with its teeth pulled was still a tiger.
 
 His team members swallowed nervously at Im Changsoo’s threat.
 
@@ -134,7 +134,7 @@ His team members swallowed nervously at Im Changsoo’s threat.
 
 They had been able to live so comfortably thanks to Im Changsoo’s support. They were all Hunters, so they wouldn’t starve, but they couldn’t expect the same treatment anywhere else.
 
-“You think it ends with getting fired? Just wait. Wherever you go, I’ll make sure to place a call in Sangdong Guild’s name. You know this field is small, right?”
+“You think it ends with getting fired? Just wait. Wherever you go, I’ll make sure they get a call from Sangdong Guild. You know how small this industry is, right?”
 
 Their expressions changed completely at the threat that he would not only drive them out but ruin their futures as well.
 
@@ -144,13 +144,13 @@ Their expressions changed completely at the threat that he would not only drive 
 
 “Oppa, do you really have to take it that far?”
 
-“That’s why you bastards should’ve picked the right person to hitch your wagon to.”
+“That’s why you bastards should’ve chosen the right person to side with.”
 
 He wanted to slap every last one of them across the face, but he forced himself to hold back.
 
-If he raised his voice, there was no telling when Jin Taekyung might turn around again.
+If he raised his voice, Jin Taekyung might turn around again.
 
-*Fuck, how did I end up…*
+*Fuck, how did I end up like this…?*
 
 Too afraid of another rap on the forehead to even lose his temper properly. How pathetic could he get?
 
@@ -172,17 +172,17 @@ Im Changsoo stopped just as he was about to shake off his colleague’s hand.
 
 He glanced back. While he had been arguing with his Guild members, Jin Taekyung’s group had pulled far ahead.
 
-Even from that distance, Song Song’s stunning figure from behind was impossible to miss.
+Even at that distance, Song Song’s stunning figure was impossible to miss.
 
 *Wait. Maybe there is a way.*
 
-To Im Changsoo, Jin Taekyung looked like a monster—but he seemed to have one weakness.
+Jin Taekyung was a monster, but he seemed to have one weakness.
 
-A woman named Song Song.
+Song Song.
 
 *He was completely smitten earlier.*
 
-There was no need to be perceptive about it. Anyone could tell from a single glance that Jin Taekyung had feelings for Song Song.
+It wasn’t exactly difficult to notice. Anyone who saw him once could tell that he had feelings for Song Song.
 
 *She said she was a C-rank healer, right?*
 
@@ -194,7 +194,7 @@ Apart from Taekyung, the other three weren’t much of a concern.
 
 The old man who was supposedly their Guild Master was a B-rank Hunter, but he was a mage, so close combat would be his weakness. The middle-aged E-rank tank wasn’t even worth discussing.
 
-The only person who bothered Im Changsoo a little was Choi Minwoo. That guy…
+The only one who bothered Im Changsoo was Choi Minwoo. That guy…
 
 “Can I trust what you just said?”
 
@@ -202,17 +202,17 @@ The only person who bothered Im Changsoo a little was Choi Minwoo. That guy…
 
 “Just trust us.”
 
-“Oppa, why don’t you trust people at all? Are we really only this close?”
+“Oppa, why don’t you trust us? Is that all our relationship amounts to?”
 
 Im Changsoo had a raid team made up of four B-rank Hunters and five C-rank Hunters who would obey his commands. He had trained every one of them to eat only from his hand.
 
 “Fine. Then listen carefully to what I’m about to say…”
 
-After a short and simple explanation, the team members couldn’t hide their nervousness.
+After his short, simple explanation, the team members couldn’t hide their unease.
 
 “Will it work?”
 
-“It does seem possible.”
+“It does sound possible.”
 
 “Oppa, you’re not suggesting what I think you are, right? If you mean killing someone, I don’t know if I can do that.”
 
@@ -224,7 +224,7 @@ After a short and simple explanation, the team members couldn’t hide their ner
 
 “Whew. That’s a relief. Then I’m definitely on your side, oppa.”
 
-“Do it right. You know what happens if anyone hesitates this time or holds back even a little, right?”
+“Do it right. You know what happens if any of you hesitate or hold back this time, don’t you?”
 
 “Of course.”
 
@@ -260,7 +260,7 @@ Im Changsoo smiled broadly.
 
 “Yes! Coming!”
 
-His steps toward the Boss Zone were remarkably light.
+His steps toward the Boss Zone were lighter than ever.
 
 * * *
 
@@ -294,7 +294,7 @@ Ding.
 
 “Whew.”
 
-The last one should always end with one big hit.
+Nothing beats finishing with one big hit.
 
 My body was incredibly tired, though.
 
@@ -306,7 +306,7 @@ Im Kkeokjeong spoke for everyone.
 
 “You really have to ask?”
 
-He looked back and forth between the boss monster’s corpse and me.
+He looked back and forth between the dead boss monster and me.
 
 His eyes demanded some kind of explanation for how I had finished off a B-rank boss monster with a single blow.
 
@@ -318,7 +318,7 @@ His eyes demanded some kind of explanation for how I had finished off a B-rank b
 
 It really was because I had been lucky.
 
-Lucky that I had lived in a goshiwon.[^1] Lucky that a capsule had been discarded in front of it.
+Lucky that I had lived in a goshiwon.[^1] Lucky that someone had discarded a capsule in front of it.
 
 All of it.
 
@@ -328,17 +328,17 @@ The others reacted much the same way as Im Kkeokjeong. Even Team Leader Choi, wh
 
 “I didn’t realize you were this capable.”
 
-“If you know now, that’s enough.”
+“Well, now you know.”
 
 “Could we discuss this?”
 
 “Of course.”
 
-Not now. Later.
+Just not now. Later.
 
 I still had something more important to take care of.
 
-With my most charming smile, I approached one person.
+Putting on my most charming smile, I approached one person.
 
 “Miss Song, could I ask you for a heal—what are you guys doing over there?”
 
@@ -348,21 +348,21 @@ With my most charming smile, I approached one person.
 
 “We’re just…just standing here.”
 
-“I-I just think she’s so beautiful.”
+“I-I just thought she was so beautiful.”
 
 The Sangdong Guild members clustered around Song Song jumped in surprise and began blurting out whatever came to mind.
 
 *What’s with these guys?*
 
-I only meant that they should get lost because they were getting in the way between me and Miss Song.
+I only meant that they should get lost because they were standing between me and Miss Song.
 
 *Do I really look that scary?*
 
 “Where’s Im Changsoo?”
 
-At a single word from me, the Sangdong Guild members split apart like the Red Sea.
+At those words, the Sangdong Guild members parted like the Red Sea.
 
-Im Changsoo answered from behind them, his face white as a sheet.
+Im Changsoo stood behind them, his face white as a sheet.
 
 “I’m here.”
 
@@ -374,7 +374,7 @@ Im Changsoo answered from behind them, his face white as a sheet.
 
 “…”
 
-“Anyway, hurry up and collect the byproducts. Let’s go. I’m tired.”
+“Anyway, hurry up and collect the byproducts so we can leave. I’m tired.”
 
 “Yes, yessir.”
 
@@ -394,6 +394,6 @@ Song Song smiled back at me.
 
 “…”
 
-*I got rejected, right?*
+*I just got rejected, didn’t I?*
 
 [^1]: A goshiwon is a very small, inexpensive room-for-rent housing arrangement, often used by students and people on tight budgets.

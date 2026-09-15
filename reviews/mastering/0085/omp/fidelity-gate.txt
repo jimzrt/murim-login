@@ -1,0 +1,35 @@
+{
+  "summary": "The chapter is faithful overall, but three occurrences replace the source’s established short-form name Song-i with either the surname-like “Miss Song” or the full name.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "lines 329–331",
+      "current": "“Miss Song, could I ask you for a heal—what are you guys doing over there?”",
+      "defect": "The address 송이 씨 uses Song-i, the established short form of Song Song’s name, not “Song.”",
+      "replacement": "“Miss Song-i, could I ask you for a heal—what are you guys doing over there?”",
+      "rationale": "The exact glossary binds 송이 to “Song-i.” Rendering it as “Song” makes the given-name short form sound like a surname and loses the source’s familiar but polite mode of address.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "lines 343–345",
+      "current": "I only meant that they should get lost because they were getting in the way between me and Miss Song.",
+      "defect": "The repeated address 송이 씨 is again rendered as “Miss Song” instead of the established short form Song-i.",
+      "replacement": "I only meant that they should get lost because they were getting in the way between me and Miss Song-i.",
+      "rationale": "The source repeats the same familiar, polite address, and the exact glossary requires 송이 to be rendered as “Song-i.”",
+      "confidence": 0.99
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "lines 365–369",
+      "current": "I flashed Song Song a bright smile.",
+      "defect": "The narration expands 송이 씨 to the character’s full name, losing the repeated short-form address and its polite relational nuance.",
+      "replacement": "I flashed Miss Song-i a bright smile.",
+      "rationale": "The Korean again uses 송이 씨, and the exact glossary binds 송이 to “Song-i.” The full name “Song Song” is not used at this point in the source.",
+      "confidence": 0.99
+    }
+  ]
+}
