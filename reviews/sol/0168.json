@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "He grabbed the door to his room and began to go inside to pack his belongings. I quickly seized his wrist.",
+      "defect": "The draft invents an action in which Jang Taebo grabs the door. The source's abrupt grab is Taekyung seizing Jang Taebo's wrist as the latter turns toward his room.",
+      "id": "F01",
+      "rationale": "This preserves the acting subject and the abrupt physical intervention without adding an unsupported door-grabbing action.",
+      "replacement": "As he turned to go into his room to pack, I grabbed his wrist.",
+      "severity": "critical",
+      "source": "덥석. 짐을 싸기 위해 방으로 들어가려는 그의 손목을 붙잡았다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "You’ll be going there on your Master’s recommendation, so he’ll probably do it a little sooner.",
+      "defect": "Capitalized “your Master” incorrectly makes Jang Taebo sound like Taekyung's Master. Jang Taebo means that his disciple will prioritize someone bearing an introduction from the disciple's own master—Jang Taebo.",
+      "id": "F02",
+      "rationale": "The replacement preserves the established master-disciple hierarchy between Jang Taebo and the current Guild Leader.",
+      "replacement": "You’ll be going there with a recommendation from his master, so he’ll probably do it a little sooner.",
+      "severity": "critical",
+      "source": "명색이 사부 소개로 온 놈인데, 조금이라도 빨리 해 주겠지."
+    },
+    {
+      "confidence": 0.98,
+      "current": "If he said only a few words about me in front of them, my reputation would take a hit at the very least. He might even exert real pressure on us.",
+      "defect": "The draft weakens 씹어 대다 from disparaging or bad-mouthing to merely saying something, narrows the threatened reputational harm to Taekyung alone, and makes Jang Taebo personally exert the pressure. The source leaves the pressure passive, with the sect leaders as the contextual threat to Taekyung and his family.",
+      "id": "F03",
+      "rationale": "This restores the hostile speech, the threat to both Taekyung and the Jin Family, and the implied mechanism by which the Nine Sects and One Gang could pressure them.",
+      "replacement": "If he bad-mouthed us with even a few words in front of them, a hit to our reputation would be the least of it. We might even face real pressure from them.",
+      "severity": "critical",
+      "source": "그들 앞에서 몇 마디만 씹어 대도 평판 하락은 기본이요, 어쩌면 실질적인 압박이 가해질지도 모른다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Welcome, Cheongpung. First time meeting him?",
+      "defect": "The punctuation makes Cheongpung the person being welcomed, even though the joke addresses Jang Taebo as the newcomer to the experience of dealing with Cheongpung.",
+      "id": "F04",
+      "rationale": "The replacement restores the joke's implied addressee and keeps the narrator's deadpan delivery.",
+      "replacement": "Welcome. First time dealing with Cheongpung?",
+      "severity": "major",
+      "source": "어서 와, 청풍은 처음이지?"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Was this a joke?",
+      "defect": "The draft sanitizes the deliberately crude rhetorical line, losing Taekyung's irritated register and the words-versus-fart joke.",
+      "id": "F05",
+      "rationale": "This natural English rendering preserves the vulgar dismissal and Taekyung's exasperated narrative voice without mechanically translating the idiom.",
+      "replacement": "What kind of bullshit was that?",
+      "severity": "major",
+      "source": "이게 말이야, 방구야."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Go on, bluster.”",
+      "defect": "“Bluster” characterizes Taekyung's speech as boastful rather than telling him, in coarse language, to say what he has in mind.",
+      "id": "F06",
+      "rationale": "The replacement preserves both the directive meaning and Jang Taebo's gruff, contemptuous register.",
+      "replacement": "“Go on, spit it out.”",
+      "severity": "major",
+      "source": "씨부려 보게."
+    },
+    {
+      "confidence": 0.92,
+      "current": "Then you ought to use a good sword case, too.",
+      "defect": "“Sword case” is an unnatural rendering of 검갑 in this weapon-making context.",
+      "id": "F07",
+      "rationale": "“Scabbard” is the natural English weapon term and preserves Jang Taebo's ostensible concern for the finished weapon's fittings.",
+      "replacement": "Then you’ll need a fine scabbard, too.",
+      "severity": "minor",
+      "source": "그럼 검갑도 좋은 걸 써야겠구먼."
+    },
+    {
+      "confidence": 0.96,
+      "current": "His eyes sparkled like morning stars, and his body moved with burning enthusiasm.",
+      "defect": "“His body moved with burning enthusiasm” is an awkward literal collocation; the source describes his animated gestures, not generic bodily movement.",
+      "id": "F08",
+      "rationale": "This preserves both parallel images while producing natural action-comedy prose.",
+      "replacement": "His eyes sparkled like morning stars, and his every gesture burned with enthusiasm.",
+      "severity": "minor",
+      "source": "샛별처럼 반짝이는 눈빛과 열정으로 타오르는 몸짓."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Does that position look like he has nothing to do?",
+      "defect": "The sentence is grammatically malformed because “that position” cannot coherently be the subject of “look like he has nothing to do.”",
+      "id": "F09",
+      "rationale": "The replacement naturally conveys Jang Taebo's rhetorical point that the office keeps his disciple busy.",
+      "replacement": "Do you think the Guild Leader has that much time on his hands?",
+      "severity": "minor",
+      "source": "그 자리가 그렇게 한가해 보이나?"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Yes. You haven’t seen it for the first time, have you?",
+      "defect": "The second sentence is unidiomatic and does not clearly express Taekyung's question about whether this is Jang Taebo's first time seeing the material.",
+      "id": "F10",
+      "rationale": "This states the same question naturally while preserving Taekyung's surprised assumption.",
+      "replacement": "Yes. This isn’t your first time seeing it, is it?",
+      "severity": "minor",
+      "source": "네. 혹시 처음 보시는 건 아니죠?"
+    },
+    {
+      "confidence": 1.0,
+      "current": "current Sect Leader of Huashan, Heavenly Sword True Person, about thirty years ago.",
+      "defect": "The explanatory footnote for “Heavenly Sword True Person” is defined but never referenced, leaving invalid Markdown and an orphaned note.",
+      "id": "F11",
+      "rationale": "Adding the existing footnote marker makes the supplied spoiler-free title explanation accessible and resolves the deterministic unused-footnote warning.",
+      "replacement": "current Sect Leader of Huashan, Heavenly Sword True Person[^2], about thirty years ago.",
+      "severity": "minor",
+      "source": "현 화산파 장문인인 천검진인(天劍眞人)의 부탁으로 검을 만들어 준 적이 있긴 하군."
+    }
+  ],
+  "summary": "The draft contains three altered actions or relationships, several lost register and humor cues, and localized terminology, prose, and footnote issues.",
+  "version": 1
+}
