@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "If they were truly sorry, they should have sent their heads instead of their hands and feet.",
+      "defect": "The action is reversed: Jin Wikyung says the leaders—the metaphorical heads—should have come personally rather than sending subordinates, not that severed heads should have been sent.",
+      "id": "F01",
+      "rationale": "머리가 직접 왔어야지 explicitly requires the head to come personally, while 손발을 보낼 게 아니라 rejects sending the hands and feet.",
+      "replacement": "If they were truly sorry, the heads themselves should have come in person instead of sending their hands and feet.",
+      "severity": "critical",
+      "source": "정말 아쉬웠다면 손발을 보낼 게 아니라 머리가 직접 왔어야지."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Even if we send several hundred, several hundred will die.",
+      "defect": "충원 means recruiting or adding personnel, not dispatching them. The source explains that inexperienced newcomers would die as quickly as the family replenished its ranks.",
+      "id": "F02",
+      "rationale": "The distinction is part of Jin Wikyung's reason for refusing to mobilize the family's newly joined martial artists.",
+      "replacement": "Even if we recruit several hundred, several hundred will die.",
+      "severity": "major",
+      "source": "수백을 충원해도 수백이 죽어 나가겠지."
+    },
+    {
+      "confidence": 0.94,
+      "current": "We need to separate the jade from the stone, and let those who intend to leave go.",
+      "defect": "The draft makes departure voluntary by adding an intention to leave. In context, Jin Wikyung is evaluating the recruits and will dismiss those judged unsuitable.",
+      "id": "F03",
+      "rationale": "옥석을 가려내고 describes screening the recruits, and the causative 떠나보내다 makes Jin Wikyung the one who sends the rejected candidates away.",
+      "replacement": "We need to separate the jade from the stones and send away those who need to go.",
+      "severity": "major",
+      "source": "옥석을 가려내고 떠날 자는 떠나보내야지."
+    },
+    {
+      "confidence": 0.97,
+      "current": "He was the very picture of a pale-faced scholar who had spent his life staring at books in a corner of a room.",
+      "defect": "The draft adds the unsupported claim that he had spent his entire life this way.",
+      "id": "F04",
+      "rationale": "The source derides him as a sheltered bookworm but does not specify a lifelong history.",
+      "replacement": "He was the very picture of a pale-faced scholar who did nothing but pore over books in his room.",
+      "severity": "minor",
+      "source": "방구석에서 서책이나 들여다보던 백면서생의 표본이다."
+    },
+    {
+      "confidence": 0.93,
+      "current": "There’s been a dispute between the Yellow River Sect and the Lesser Empty Sect.",
+      "defect": "방 is an organization suffix corresponding to a gang, not a sect, while “Lesser Empty” assigns an unsupported literal meaning to the unglossed proper name 소공.",
+      "id": "F05",
+      "rationale": "The replacement preserves the distinct organization types and avoids inventing a semantic expansion for a proper name whose underlying characters are not supplied.",
+      "replacement": "There’s been a dispute between the Yellow River Gang and the Sogong Sect.",
+      "severity": "minor",
+      "source": "황하방과 소공문 사이에 분쟁이 일어났습니다."
+    }
+  ],
+  "summary": "One critical action reversal, two meaningful changes to recruitment and personnel decisions, one unsupported biographical addition, and one organization-name error.",
+  "version": 1
+}
