@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The instant my fist sank into that foul-smelling snout, I knew.",
+      "defect": "The opening impact sound is omitted, weakening the physical action that begins the chapter.",
+      "id": "F01",
+      "rationale": "콰직 explicitly precedes and punctuates the punch.",
+      "replacement": "Crack!\n\nThe instant my fist sank into that foul-smelling snout, I knew.",
+      "severity": "minor",
+      "source": "콰직!\n\n악취 나는 주둥이에 주먹을 꽂는 순간 직감했다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "*Throwing daggers. Is that what they call it in Murim—hidden-weapon arts?*",
+      "defect": "The draft broadens 비도술 from the specific art of throwing daggers to hidden-weapon arts generally.",
+      "id": "F02",
+      "rationale": "비도술 specifically denotes a dagger-throwing or flying-dagger art, not the broader category of all hidden weapons.",
+      "replacement": "*Throwing daggers. Is that what they call it in Murim—flying-dagger arts?*",
+      "severity": "minor",
+      "source": "단검 투척. 무림에서는 비도술이라고 하나?"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“T-The captain fell in a single exchange… Who are you?”",
+      "defect": "The organizational title 조장 is rendered as “captain,” conflicting with the chapter’s established use of “Squad Leader” and obscuring the men’s hierarchy.",
+      "id": "F03",
+      "rationale": "조장 means squad or team leader here, as confirmed when Hyuk Mujin addresses Taekyung by the same title later in the scene.",
+      "replacement": "“T-The squad leader fell in a single exchange… Who are you?”",
+      "severity": "major",
+      "source": "“조, 조장이 고작 일 합 만에…… 넌 누구냐?”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Why? Sleeping Dragon of Shanxi sounds wonderful. If you’ve earned that much martial fame before you’re twenty, you could stand to be a little prouder.”",
+      "defect": "“Before you’re twenty” introduces a stricter age claim than 약관, which refers to being around twenty or simply exceptionally young.",
+      "id": "F04",
+      "rationale": "약관 does not establish that Taekyung is younger than twenty; the point is that he attained substantial martial fame while still very young.",
+      "replacement": "“Why? Sleeping Dragon of Shanxi sounds wonderful. If you’ve earned that much martial fame at such a young age, you could stand to be a little prouder.”",
+      "severity": "major",
+      "source": "“어머, 왜? 산서잠룡, 멋있잖아요. 약관에 그 정도 무명(武名)을 얻었으면 좀 더 자랑스러워해도 될 텐데.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "He understood nothing.",
+      "defect": "The subject is reversed. The narration sarcastically retracts the claim that Wolhwa understood Taekyung’s signal; it is not saying that Hyuk Mujin understood nothing.",
+      "id": "F05",
+      "rationale": "The preceding sentence says Wolhwa understood and nodded, and this line immediately undercuts that statement after she gives the opposite of the discreet answer Taekyung wanted.",
+      "replacement": "Like hell she did.",
+      "severity": "critical",
+      "source": "알아듣긴 개뿔이."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Squad Leader—no, Young Master—is a direct descendant of the Jin Family of Taiyuan. Even if you were the most beautiful woman under heaven, you have no right to treat Young Master so casually. As a member of the family, I could not stand by and let it happen.”",
+      "defect": "“A member of the family” elevates Hyuk Mujin into the Jin blood family and loses his explicit subordinate-household status.",
+      "id": "F06",
+      "rationale": "본가의 식솔 identifies Hyuk Mujin as one of the Jin Family household’s dependents or retainers, not as a member of its direct family line.",
+      "replacement": "“Squad Leader—no, Young Master—is a direct descendant of the Jin Family of Taiyuan. Even the most beautiful woman under heaven cannot treat the Young Master so casually. As a retainer of our family, I could not stand by and let it happen.”",
+      "severity": "major",
+      "source": "“조장, 아니 공자님은 태원진가의 직계이십니다. 설령 천하제일미(天下第一美)라 해도 공자님께 이리 소홀히 대할 수는 없는 법. 본가의 식솔로서 좌시할 수 없어 나선 것입니다.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Come with me. To the Mount Heng Sword Sect.”",
+      "defect": "The draft turns Wolhwa’s inclusive proposal to travel together into a directive for Taekyung to accompany her.",
+      "id": "F07",
+      "rationale": "같이 가요 proposes that they go together without making Wolhwa the principal traveler whom Taekyung must follow.",
+      "replacement": "“Let’s go together. To the Mount Heng Sword Sect.”",
+      "severity": "major",
+      "source": "“같이 가요. 항산검문.”"
+    }
+  ],
+  "summary": "The draft contains one subject reversal, several altered hierarchy or action details, and two localized omissions or terminology issues.",
+  "version": 1
+}

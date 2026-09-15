@@ -1,0 +1,23 @@
+{
+  "chapter": 105,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.321,
+    "source_characters": 5420,
+    "source_paragraphs": 195,
+    "translation_characters": 12582,
+    "translation_paragraphs": 219
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "광수",
+        "romanization": "gwangsu"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
