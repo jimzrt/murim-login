@@ -1,3 +1,5 @@
+export {};
+
 const base = document.documentElement.getAttribute("data-base") || "/";
 const swUrl = `${base.replace(/\/?$/, "/")}sw.js`;
 const expectedScope = new URL(base, window.location.origin).href;

@@ -2,6 +2,8 @@ type FontSize = "s" | "m" | "l" | "xl";
 type Width = "narrow" | "medium" | "wide";
 type ThemePref = "light" | "dark" | "system";
 
+export {};
+
 interface ReaderState {
   theme: ThemePref;
   fontSize: FontSize;
@@ -23,8 +25,8 @@ const LEGACY_THEME = "murim-theme";
 const LEGACY_CHAPTER = "murim-chapter";
 const SIZES: FontSize[] = ["s", "m", "l", "xl"];
 const WIDTHS: Width[] = ["narrow", "medium", "wide"];
-const JUMP_LIMIT = 10;
-const JUMP_NEAR = 9;
+const JUMP_ROW = 40;
+const JUMP_OVERSCAN = 6;
 const READ_THRESHOLD = 0.95;
 
 const root = document.documentElement;
@@ -35,6 +37,7 @@ let catalog: CatalogItem[] | null = null;
 let catalogPromise: Promise<CatalogItem[]> | null = null;
 let jumpItems: CatalogItem[] = [];
 let jumpIndex = -1;
+let jumpScrollHandler: (() => void) | null = null;
 let chromeReady = false;
 let pageAbort: AbortController | null = null;
 let wordWeights: Map<number, number> | null = null;
@@ -331,6 +334,7 @@ function initJump() {
   const closeBtn = document.getElementById("jump-close");
   const input = document.getElementById("jump-input") as HTMLInputElement | null;
   const results = document.getElementById("jump-results");
+  const toCurrent = document.getElementById("jump-to-current") as HTMLButtonElement | null;
   if (!dialog || !openBtn || !input || !results) {
     return;
   }
@@ -339,7 +343,7 @@ function initJump() {
     input.value = "";
     openDialog(dialog);
     input.focus();
-    void renderJump("", results);
+    void renderJump("", results, toCurrent);
   };
 
   const goToChapter = (href: string) => {
@@ -357,6 +361,15 @@ function initJump() {
       dialog.close();
     }
   });
+  toCurrent?.addEventListener("click", () => {
+    const at = jumpItems.findIndex((item) => item.n === state.current);
+    if (at < 0) {
+      return;
+    }
+    jumpIndex = at;
+    scrollJumpTo(results, at);
+    paintJumpVirtual(results);
+  });
   results.addEventListener("click", (event) => {
     const link = event.target instanceof Element ? event.target.closest<HTMLAnchorElement>("a.jump-option") : null;
     if (!link?.href) {
@@ -369,7 +382,7 @@ function initJump() {
     goToChapter(link.href);
   });
   input.addEventListener("input", () => {
-    void renderJump(input.value, results);
+    void renderJump(input.value, results, toCurrent);
   });
   input.addEventListener("keydown", (event) => {
     if (event.key === "ArrowDown") {
@@ -388,10 +401,9 @@ function initJump() {
   });
 }
 
-async function renderJump(query: string, list: HTMLElement) {
-  const items = digitsOf(query)
-    ? matchChapters(await loadCatalog(), query)
-    : nearbyChapters(await loadCatalog(), state.current);
+async function renderJump(query: string, list: HTMLElement, toCurrent: HTMLButtonElement | null) {
+  const catalogItems = await loadCatalog();
+  const items = digitsOf(query) ? matchChapters(catalogItems, query) : catalogItems;
   jumpItems = items;
   if (digitsOf(query)) {
     jumpIndex = items.length ? 0 : -1;
@@ -399,35 +411,75 @@ async function renderJump(query: string, list: HTMLElement) {
     const currentAt = items.findIndex((item) => item.n === state.current);
     jumpIndex = currentAt >= 0 ? currentAt : items.length ? 0 : -1;
   }
+
+  if (toCurrent) {
+    const at = items.findIndex((item) => item.n === state.current);
+    toCurrent.hidden = at < 0;
+  }
+
+  if (jumpScrollHandler) {
+    list.removeEventListener("scroll", jumpScrollHandler);
+    jumpScrollHandler = null;
+  }
   list.replaceChildren();
+
   if (!items.length) {
     if (!digitsOf(query)) {
       list.hidden = true;
       return;
     }
     list.hidden = false;
-    const empty = document.createElement("li");
+    const empty = document.createElement("div");
     empty.className = "jump-empty";
     empty.textContent = "No matching chapter";
     list.append(empty);
     return;
   }
+
   list.hidden = false;
-  for (const item of items) {
-    const li = document.createElement("li");
-    const button = document.createElement("a");
-    button.href = item.h;
-    button.id = `jump-opt-${item.n}`;
-    button.className = "jump-option";
-    button.setAttribute("role", "option");
-    button.textContent = item.t;
-    if (item.n === state.current) {
-      button.classList.add("is-current");
-    }
-    li.append(button);
-    list.append(li);
+  const space = document.createElement("div");
+  space.className = "jump-results__space";
+  space.style.height = `${items.length * JUMP_ROW}px`;
+  list.append(space);
+
+  jumpScrollHandler = () => paintJumpVirtual(list);
+  list.addEventListener("scroll", jumpScrollHandler, { passive: true });
+  scrollJumpTo(list, jumpIndex);
+  paintJumpVirtual(list);
+}
+
+function paintJumpVirtual(list: HTMLElement) {
+  const space = list.querySelector<HTMLElement>(".jump-results__space");
+  if (!space || !jumpItems.length) {
+    return;
   }
-  paintJump(list);
+  const top = list.scrollTop;
+  const view = list.clientHeight || JUMP_ROW * 10;
+  const start = Math.max(0, Math.floor(top / JUMP_ROW) - JUMP_OVERSCAN);
+  const end = Math.min(jumpItems.length, Math.ceil((top + view) / JUMP_ROW) + JUMP_OVERSCAN);
+  space.replaceChildren();
+  for (let index = start; index < end; index += 1) {
+    const item = jumpItems[index];
+    const option = document.createElement("a");
+    option.href = item.h;
+    option.id = `jump-opt-${item.n}`;
+    option.className = "jump-option";
+    option.setAttribute("role", "option");
+    option.setAttribute("aria-selected", index === jumpIndex ? "true" : "false");
+    option.classList.toggle("is-active", index === jumpIndex);
+    option.classList.toggle("is-current", item.n === state.current);
+    option.textContent = item.t;
+    option.style.top = `${index * JUMP_ROW}px`;
+    space.append(option);
+  }
+}
+
+function scrollJumpTo(list: HTMLElement, index: number) {
+  if (index < 0) {
+    return;
+  }
+  const view = list.clientHeight || JUMP_ROW * 10;
+  list.scrollTop = Math.max(0, index * JUMP_ROW - view / 2 + JUMP_ROW / 2);
 }
 
 function moveJump(delta: number, list: HTMLElement) {
@@ -435,36 +487,12 @@ function moveJump(delta: number, list: HTMLElement) {
     return;
   }
   jumpIndex = (jumpIndex + delta + jumpItems.length) % jumpItems.length;
-  paintJump(list);
-}
-
-function paintJump(list: HTMLElement) {
-  const options = list.querySelectorAll<HTMLElement>(".jump-option");
-  options.forEach((option, index) => {
-    const selected = index === jumpIndex;
-    option.setAttribute("aria-selected", selected ? "true" : "false");
-    option.classList.toggle("is-active", selected);
-    if (selected) {
-      option.scrollIntoView({ block: "nearest" });
-    }
-  });
+  scrollJumpTo(list, jumpIndex);
+  paintJumpVirtual(list);
 }
 
 function digitsOf(query: string) {
   return query.replace(/\D/g, "");
-}
-
-function nearbyChapters(items: CatalogItem[], current: number | null): CatalogItem[] {
-  if (!items.length) {
-    return [];
-  }
-  const found = current != null ? items.findIndex((item) => item.n === current) : 0;
-  const center = found >= 0 ? found : 0;
-  const before = Math.floor((JUMP_NEAR - 1) / 2);
-  let start = Math.max(0, center - before);
-  let end = Math.min(items.length, start + JUMP_NEAR);
-  start = Math.max(0, end - JUMP_NEAR);
-  return items.slice(start, end);
 }
 
 function matchChapters(items: CatalogItem[], query: string): CatalogItem[] {
@@ -476,7 +504,7 @@ function matchChapters(items: CatalogItem[], query: string): CatalogItem[] {
   const rest = items
     .filter((item) => String(item.n).startsWith(q) && String(item.n) !== q)
     .sort((left, right) => left.n - right.n);
-  return [...exact, ...rest].slice(0, JUMP_LIMIT);
+  return [...exact, ...rest];
 }
 
 function initIndex(signal: AbortSignal) {
