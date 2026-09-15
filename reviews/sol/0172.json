@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Jeok Cheongang could not finish his sentence. Two swords had flown toward him like lightning, slicing at his waist and arm.",
+      "defect": "The draft turns completed slashes into attempted attacks directed at his waist and arm.",
+      "id": "F01",
+      "rationale": "The source explicitly says the swords cut his waist and arm; the following reveal establishes that the body they cut was an afterimage.",
+      "replacement": "Jeok Cheongang could not finish his sentence. Two swords had flashed in like lightning and slashed through his waist and arm.",
+      "severity": "critical",
+      "source": "적천강의 말은 이어지지 못했다. 번개처럼 날아든 두 개의 검이 그의 허리와 팔을 베었기 때문이었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I owe that gentleman a little. How could I stand by while my grandfather harasses my Benefactor?”",
+      "defect": "The draft misidentifies Cheongpung’s grandfather as the person harassing Jin Taekyung. Cheongpung is politely addressing the elderly Jeok Cheongang.",
+      "id": "F02",
+      "rationale": "Here 할아버지께서 functions as a respectful address to Jeok Cheongang, who is currently tormenting Cheongpung’s Benefactor; Mae Jonghak is not present.",
+      "replacement": "“I owe that gentleman a little. How could I just stand by while you bully my Benefactor, sir?”",
+      "severity": "critical",
+      "source": "저분한테 신세 진 게 조금 있어서요. 할아버지께서 제 은인을 핍박하는데 가만히 있을 수야 있나요."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Mae Jonghak. What is your relationship with that man?”\n\nThe twenty-four plum blossoms wavered dangerously at the word *man*.",
+      "defect": "Rendering 친구 as “man” removes Jeok Cheongang’s claim of familiarity with Mae Jonghak and makes Cheongpung’s destabilized reaction causally incoherent.",
+      "id": "F03",
+      "rationale": "The narration explicitly isolates 친구, “friend,” as the word that startles Cheongpung.",
+      "replacement": "“Mae Jonghak—what is your relationship with that friend of mine?”\n\nThe twenty-four plum blossoms wavered dangerously at the word *friend*.",
+      "severity": "critical",
+      "source": "“매종학, 그 친구와는 어떤 관계냐?”\n\n친구. 그 단어에 스물네 송이의 매화가 위태롭게 흔들렸다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The Demonic Cult’s hundred thousand followers had devoured half the world. When the war turned against them, the orthodox Murim began searching even for eccentric masters who had withdrawn into remote mountain valleys.",
+      "defect": "The pronoun “them” makes the war appear to have turned against the Demonic Cult, reversing why the orthodox Murim became desperate enough to seek reclusive masters.",
+      "id": "F04",
+      "rationale": "The orthodox Murim sought hidden masters because its own military situation had become unfavorable.",
+      "replacement": "The Demonic Cult’s hundred thousand followers had devoured half the world. As the tide of war turned against the orthodox faction, the orthodox Murim began searching even for eccentric masters who had withdrawn into remote mountain valleys.",
+      "severity": "critical",
+      "source": "마교의 십만마도(十萬魔徒)는 천하의 절반을 집어삼켰고, 전황이 불리해지자 정파 무림은 심산유곡에 은거하던 기인들까지 찾아 나섰다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Ever since earlier, the boy had been spouting incomprehensible nonsense about “the system” and whatever else. It had been hard to listen to.",
+      "defect": "The draft silently corrects Jeok Cheongang’s garbled 시수댐 to “the system,” losing the joke and the characterization that he neither understands nor can accurately repeat the unfamiliar term.",
+      "id": "F05",
+      "rationale": "시수댐 is an intentional mispronunciation rather than the normal Korean word 시스템.",
+      "replacement": "All this time, the boy had been spouting incomprehensible nonsense about some “shisudaem” or whatever. It was hard to listen to.",
+      "severity": "major",
+      "source": "아까부터 시수댐이니 뭐니, 당최 알아듣기 힘든 헛소리만 늘어놓는 통에 듣고 있기 힘들었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "That was when the Sword Saint Mae Jonghak went looking for Mount Jiuhua.",
+      "defect": "“Went looking for” implies that Mae Jonghak was trying to locate the mountain rather than visiting it to find Jeok Cheongang.",
+      "id": "F06",
+      "rationale": "찾다 here means to visit or seek someone out at a known place, as confirmed by Mae Jonghak immediately arriving before Jeok Cheongang.",
+      "replacement": "That was when the Sword Saint Mae Jonghak visited Mount Jiuhua.",
+      "severity": "minor",
+      "source": "검성 매종학이 구화산(九華山)을 찾은 것도 그때의 일이다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "It’s a shame, but let’s stop here for today.",
+      "defect": "“For today” contradicts the scale of a fight that has already lasted seven days and narrows 이번에는, which means “this time.”",
+      "id": "F07",
+      "rationale": "Mae Jonghak is ending this particular contest, not merely pausing until the next day.",
+      "replacement": "It’s a shame, but let’s leave it here this time.",
+      "severity": "minor",
+      "source": "아쉽지만 이번에는 여기까지 합시다."
+    }
+  ],
+  "summary": "Four factual or relational errors, one lost comedic register cue, and two localized wording errors.",
+  "version": 1
+}
