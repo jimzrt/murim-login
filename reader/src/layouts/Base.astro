@@ -126,6 +126,14 @@ const manifestHref = withBase("manifest.webmanifest");
             <pagefind-config bundle-path={withBase("pagefind/")} base-url={base} />
             <pagefind-modal />
             <script is:inline src={withBase("pagefind/pagefind-component-ui.js")} type="module" />
+            <script is:inline type="module">
+              const instance = window.PagefindComponents.getInstanceManager().getInstance("default");
+              instance.pagefindOptions.ranking = {
+                termFrequency: 0.1,
+                pageLength: 0,
+                termSimilarity: 8,
+              };
+            </script>
           </div>
         </>
       )

@@ -42,9 +42,9 @@ const previously = await loadPreviousSummary(entry.data.chapter);
 
 <Base title={`${entry.data.title} — Murim Login`} chapter={entry.data.chapter} description={description}>
   <main class="wrap chapter-page" data-page="chapter" data-chapter={entry.data.chapter} data-polished={polished ? "1" : "0"}>
-    <header class="chapter-header">
+    <header class="chapter-header" data-pagefind-body>
       <p class="eyebrow">Murim Login</p>
-      <h1 data-pagefind-body data-pagefind-meta="title">{entry.data.title}</h1>
+      <h1 data-pagefind-meta="title">{entry.data.title}</h1>
       <p class="reading-meta">
         {entry.data.chapter} · {minutes} min read
         {polished && (
