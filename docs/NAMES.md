@@ -394,3 +394,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 너구리 | **Neoguri** | Instant-noodle brand used in Taekyung's flavor joke. |
 | 진라면 | **Jin Ramen** | Instant-noodle brand used in Taekyung's flavor joke. |
 | 푸라면 | **Puramyeon** | Instant-noodle brand used in Taekyung's flavor joke. |
+| 매화오품지 | **Plum Blossom Five-Point Finger** | Five-finger technique Cheongpung uses during the duel. |
+| 벽을 넘어서 | **Beyond the Wall** | System Quest generated during Taekyung's breakthrough. |
+| 절정 고수 | **Peak Master** | System class awarded after Taekyung completes Beyond the Wall. |
