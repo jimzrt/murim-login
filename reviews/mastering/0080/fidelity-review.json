@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "Im Kkeokjeong and Miss Song, who were standing nearby, whispered to each other.",
+      "defect": "The source addresses her as 송이 씨, using the established short name Song-i, but the translation reduces it to the surname-only “Miss Song.” This also erases the deliberate distinction from 송 양, correctly rendered as “Miss Song” in the following dialogue.",
+      "id": "F01",
+      "rationale": "The exact glossary binds 송이 to “Song-i”; only 송 양 in the next line is the surname-based address “Miss Song.”",
+      "replacement": "Im Kkeokjeong and Miss Song-i, who were standing nearby, whispered to each other.",
+      "severity": "minor",
+      "source": "lines 141–143"
+    },
+    {
+      "confidence": 1.0,
+      "current": "His gaze passed over them—briefly over Im Kkeokjeong, then lingering a little longer on Miss Song.",
+      "defect": "송이 씨 is again rendered with the surname-only “Miss Song” instead of the binding short name Song-i.",
+      "id": "F02",
+      "rationale": "The source uses 송이 씨, and the exact glossary requires “Song-i.”",
+      "replacement": "His gaze passed over them—briefly over Im Kkeokjeong, then lingering a little longer on Miss Song-i.",
+      "severity": "minor",
+      "source": "lines 159–160"
+    },
+    {
+      "confidence": 1.0,
+      "current": "It was Miss Song’s voice from outside the changing room. As soon as Team Leader Choi answered, the door eased open.",
+      "defect": "The source identifies the voice with 송이 씨, but the translation substitutes the surname-only form.",
+      "id": "F03",
+      "rationale": "The exact glossary binds 송이 to “Song-i.”",
+      "replacement": "It was Miss Song-i’s voice from outside the changing room. As soon as Team Leader Choi answered, the door eased open.",
+      "severity": "minor",
+      "source": "lines 367–369"
+    },
+    {
+      "confidence": 1.0,
+      "current": "And yet… why was he bothering me so much? Was it because that punk seemed interested in Miss Song?",
+      "defect": "송이 씨 is once more reduced to the surname-only “Miss Song,” losing the established short-name form.",
+      "id": "F04",
+      "rationale": "The exact glossary requires “Song-i” for 송이.",
+      "replacement": "And yet… why was he bothering me so much? Was it because that punk seemed interested in Miss Song-i?",
+      "severity": "minor",
+      "source": "lines 393–396"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Team Leader Choi had completely lost the will to fight by then and changed into his equipment without another word. Meanwhile, I checked each piece of equipment I was wearing.",
+      "defect": "The translation invents his silence and omits 힘없이, which specifies that he changes equipment listlessly or without energy.",
+      "id": "F05",
+      "rationale": "힘없이 describes the physical manner of his changing clothes; the source does not state that he does so without speaking.",
+      "replacement": "Team Leader Choi had completely lost the will to fight by then and listlessly changed into his equipment. Meanwhile, I checked each piece of equipment I was wearing.",
+      "severity": "minor",
+      "source": "lines 261–263"
+    },
+    {
+      "confidence": 0.99,
+      "current": "It wasn’t just love making me see her through rose-colored glasses. That was simply the truth.",
+      "defect": "The source explicitly denies that romantic bias is responsible, whereas “wasn’t just love” concedes that love is at least partly affecting his perception.",
+      "id": "F06",
+      "rationale": "콩깍지가 아니라 rejects the rose-colored-glasses explanation outright; it does not qualify it as merely one contributing cause.",
+      "replacement": "I wasn’t blinded by infatuation. She really was that beautiful.",
+      "severity": "minor",
+      "source": "lines 375–377"
+    }
+  ],
+  "summary": "The chapter is largely faithful, but it repeatedly replaces the binding given-name form “Song-i” with the surname-only “Song,” omits one physical manner detail, and weakens an explicit denial of romantic bias.",
+  "version": 1
+}

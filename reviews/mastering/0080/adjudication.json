@@ -1,0 +1,425 @@
+{
+  "chapter": 80,
+  "decisions": [
+    {
+      "decision": "SOL",
+      "hunk_id": "H001",
+      "reason": "Normalizes double ellipsis to the single house-style ellipsis character; no meaning change."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H002",
+      "reason": "\"I'm asking why...\" is more direct colloquial speech matching 물어 and the speaker's bluntness."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H003",
+      "reason": "\"곤란해요\" carries the official's apologetic hedging; SOL's flat \"can't approve\" removes that reluctance."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H004",
+      "reason": "\"refused to listen\" renders 막무가내 (stubborn refusal) more accurately than \"being completely unreasonable\"."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H005",
+      "reason": "Korean \"이게 무슨!\" is a shocked exclamation; BASE keeps the outcry, SOL turns it into a neutral question."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H006",
+      "reason": "Keep SOL's economical \"recent hire\" but restore 동그랗게 \"round,\" which SOL drops.",
+      "replacement": "The official jumped at the white envelope the young man thrust toward him and glanced around in alarm. A recent hire was staring at him with wide, round eyes."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H007",
+      "reason": "Ellipsis normalization to house style."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H008",
+      "reason": "BASE keeps 개망신 as the official's own disgrace; SOL recasts it as accusing the young man of humiliation, shifting the thought's subject."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H009",
+      "reason": "Natural idiomatic phrasing of the 팀 구성 question."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H010",
+      "reason": "\"going in with ten people\" makes the entry context clear without distortion."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H011",
+      "reason": "Restores 방금까지만 해도 (moments earlier) and the nagging, then the settling smile, more vividly."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H012",
+      "reason": "맞춰야 means make the numbers match; SOL's \"look roughly right\" pre-empts the appearance idea that lands later at 모양새."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H013",
+      "reason": "\"That would be good\" is closer to 그럼 좋죠 than \"That works.\""
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H014",
+      "reason": "BASE keeps the dismissive 쟤들 (\"those guys\"); \"Keep up appearances\" is too formal for this brash young man."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H015",
+      "reason": "Tighter sentence; the gender detail is immediately supplied by the following enumeration."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H016",
+      "reason": "Ellipsis normalization."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H017",
+      "reason": "\"doing the math\" is idiomatic for 셈을 끝마치다."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H018",
+      "reason": "Korean continues the list of facts without a new \"he explained\" verb; SOL avoids the redundant addition."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H019",
+      "reason": "«happen to be» inserts a coincidence not present in the Korean statement of headcount."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H020",
+      "reason": "Both faithful and equal; BASE keeps the 진입까지 \"until we can enter\" framing."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H021",
+      "reason": "SOL drops 들어오시면 (\"once you join\"); BASE preserves the conditional."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H022",
+      "reason": "BASE retains 불쑥 (\"unexpected\"); SOL drops the abruptness cue entirely."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H023",
+      "reason": "Both faithful and equal; no clear gain in the article change."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H024",
+      "reason": "\"had every reason to be confident\" naturalizes 그럴 만하지 cleanly."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H025",
+      "reason": "\"the Bucheon area\" is tighter and equally faithful to 부천 인근."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H026",
+      "reason": "\"win in a game of cards\" is unidiomatic and shifts 올라가다 (rise to the post) into merely winning; BASE's \"luck into\" is cleaner."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H027",
+      "reason": "\"turned my guess into certainty\" is the more idiomatic collocation."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H028",
+      "reason": "\"While I tilted my head\" is tighter with no loss."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H029",
+      "reason": "Concise and natural rendering of 외부인 시선에서는 딱 봐도."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H030",
+      "reason": "\"heard quite a lot about you\" is the natural English for the set phrase 이름은 많이 들었습니다."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H031",
+      "reason": "Korean 옆에 is vague; \"nearby\" avoids BASE's \"beside him\" wrongly attaching to Im Changsoo."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H032",
+      "reason": "BASE matches the terse elliptical 레이드는? without adding words."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H033",
+      "reason": "\"yet\" is the natural completion of 시작 안 했는데."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H034",
+      "reason": "Ellipsis normalization."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H035",
+      "reason": "Removes the body-part calque 고개가 향했다."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H036",
+      "reason": "Elliptical \"And these people are?\" matches the terse 이분들은?"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H037",
+      "reason": "Restores 우리 \"our,\" which BASE drops."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H038",
+      "reason": "Tighter \"them\" with antecedent already clear."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H039",
+      "reason": "BASE keeps 괜한 말 as a general \"unnecessary\" remark; SOL's idiom adds embarrassment and switches to a \"Ha-ha\" variant."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H040",
+      "reason": "\"this must be fate\" is concise and idiomatic for 이것도 인연인데."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H041",
+      "reason": "BASE preserves 뒷모습 (watching his back as he leaves), a source-specific image SOL flattens to \"walk away.\""
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H042",
+      "reason": "Ellipsis normalization."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H043",
+      "reason": "Ellipsis normalization."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H044",
+      "reason": "\"the envy of society\" is livelier commercial prose for 선망받는 직업."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H045",
+      "reason": "BASE keeps the established 최하급 rendering \"lowest-rank\"; \"bottom-tier\" is an unsupported synonym swap."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H046",
+      "reason": "\"we\" fits the narrator's inclusion of himself as a Hunter, flowing from \"Even I.\""
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H047",
+      "reason": "\"weighed cost against performance\" smoothly renders 가성비."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H048",
+      "reason": "\"too\" reflects the 둘째치고 parallel between the two losses."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H049",
+      "reason": "Both faithful and equal; no meaningful gain in \"imaginable.\""
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H050",
+      "reason": "Cleaner clause structure and punctuation for the same content."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H051",
+      "reason": "\"some ... \" is closer to 괜찮은 것들."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H052",
+      "reason": "Ellipsis normalization."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H053",
+      "reason": "Ellipsis normalization."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H054",
+      "reason": "\"Nailed it\" is the natural punchy equivalent of 딱 맞군."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H055",
+      "reason": "Ellipsis normalization."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H056",
+      "reason": "Ellipsis normalization."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H057",
+      "reason": "BASE keeps both 항상 (\"at all times\") and 적절한 (\"proper\"); SOL folds them into \"constant\" and drops \"proper.\""
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H058",
+      "reason": "\"I mean\" is the natural self-correction for 아니."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H059",
+      "reason": "Ellipsis normalization."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H060",
+      "reason": "\"Meanwhile\" captures the simultaneity of 사이; BASE loses it."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H061",
+      "reason": "Natural System description while keeping Grade/Bleeding fields and terms intact."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H062",
+      "reason": "\"bleed to death\" is vivid and faithful to 과다 출혈로 사망시키다."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H063",
+      "reason": "BASE keeps 명품 as brand-name \"designer gear\"; SOL's \"high-end\" is a generic downgrade."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H064",
+      "reason": "Both faithful and equal; no meaningful gain."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H065",
+      "reason": "Removes the body-part calque 몸도 while preserving the meaning."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H066",
+      "reason": "Ellipsis normalization and spacing per house style."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H067",
+      "reason": "\"no ordinary accessories\" is the more idiomatic English."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H068",
+      "reason": "\"engraved\" matches 음각 more closely than \"etched.\""
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H069",
+      "reason": "Both faithful and equal; the Korean number is unmarked."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H070",
+      "reason": "\"I find these\" captures 더군요's discovered opinion and the plural 이게."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H071",
+      "reason": "Fixes the logic: light armor is worn, a staff carried, matching 경갑옷/지팡이."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H072",
+      "reason": "SOL's \"Then again\" adds a contrast the Korean filler 뭐 does not carry; keep the filler as \"Well.\"",
+      "replacement": "*Well, he's probably no ordinary mage.*"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H073",
+      "reason": "Naturalizes 한 수 접고 들어간다 as \"commanded respect\" without loss."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H074",
+      "reason": "BASE preserves the 깨끗이 \"wiped clean\" image; SOL's \"vanished\" flattens it."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H075",
+      "reason": "SOL renders 살며시 (\"softly,\" \"eased open\"); BASE wrongly adds \"a crack.\""
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H076",
+      "reason": "올려 묶은 means tied up, not tied \"back\"; fix BASE's awkward word order while keeping its faithful details.",
+      "replacement": "Her long, straight hair was tied up tightly, and she was wearing light leather armor. I swallowed a startled breath at the sight of her."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H077",
+      "reason": "BASE keeps 지금까지 (\"until now\") and omits the interpretive \"even\" SOL adds."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H078",
+      "reason": "Ellipsis normalization."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H079",
+      "reason": "Both faithful and equal; \"keep an eye on\" is no worse than \"watch.\""
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H080",
+      "reason": "Keep the crude 들 (\"guys\") BASE preserves and SOL softens to \"men,\" while adopting SOL's cleaner \"come by the truckload\" for 몰려와.",
+      "replacement": "If even Im Kkeokjeong was reacting like this, the other guys would be no exception. Any young guy who seemed even moderately capable would come by the truckload to hit on her."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H081",
+      "reason": "Ellipsis normalization."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H082",
+      "reason": "BASE keeps 아까부터 (\"since earlier\"); SOL over-specifies with \"ever since we met.\""
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H083",
+      "reason": "Ellipsis normalization and consistent spacing."
+    }
+  ],
+  "version": 1
+}
