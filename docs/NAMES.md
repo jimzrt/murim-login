@@ -529,3 +529,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 혈도 타통 | **Acupoint Opening** | System Quest created when Taekyung consumes the three elixirs. |
 | 회음혈 | **Huiyin Acupoint** | Starting acupoint of the Conception Vessel; its location causes Taekyung particular danger during forced opening. |
 | 임맥 타통 | **Conception Vessel Opening** | System Achievement earned after Taekyung opens the Conception Vessel. |
+| 성라대연 | **Star-Array Grand Banquet** | Major martial gathering held in Henan every two or three years. |
