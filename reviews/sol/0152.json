@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "According to the story, he suddenly attained enlightenment while training on this cliff and unleashed a martial art. The force of that One Strike blasted a hole through the bottom of the cliff.",
+      "defect": "The draft turns the cave opening at the base of the cliff into a hole blasted through the cliff’s bottom, altering the described geometry and mechanism.",
+      "id": "F01",
+      "rationale": "절벽 밑이 뻥 뚫렸다 means the base or area beneath the cliff was blown open, creating the training cave entrance; it does not describe a hole passing through the cliff’s bottom.",
+      "replacement": "According to the story, he suddenly attained enlightenment while training on this cliff and unleashed his martial arts, blasting open the base of the cliff with One Strike.",
+      "severity": "major",
+      "source": "전해지기로는 이 절벽에서 수련하시던 도중 문득 깨달음을 얻어 무공을 펼쳤는데, 일격에 절벽 밑이 뻥 뚫렸다는군."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The dirt-covered monster who had suddenly become a dead man staggered to his feet.",
+      "defect": "The draft calls the figure a literal monster and says he became a dead man, whereas the source calls him a strange figure who was abruptly taken for dead.",
+      "id": "F02",
+      "rationale": "괴인 denotes a strange or mysterious person here, while 죽은 놈이 되어 버린 refers humorously to the guards having treated him as dead, not to an actual transformation.",
+      "replacement": "The dirt-covered stranger who had suddenly been written off as dead staggered to his feet.",
+      "severity": "major",
+      "source": "졸지에 죽은 놈이 되어 버린 흙투성이의 괴인이 비틀거리며 일어났다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Brother, Third Young Master? What in the world are you talking about?”",
+      "defect": "The generic address obscures the established senior-to-junior hierarchy: Hong is addressing Childeuk as his younger brother, not addressing an elder or equal.",
+      "id": "F03",
+      "rationale": "아우 is specifically the older man’s address for a younger male after telling Childeuk to call him hyung; preserving that direction maintains their comic, newly established hierarchy.",
+      "replacement": "“Little brother, the Third Young Master? What in the world are you talking about?”",
+      "severity": "major",
+      "source": "“아우, 삼공자님이라니. 그게 대체 무슨 소린가?”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Its limbs hung limp, and blood streamed from the back of its head, which lay facedown on the ground.",
+      "defect": "The relative clause grammatically says the back of the head itself was lying facedown rather than the body.",
+      "id": "F04",
+      "rationale": "The source describes the apparent corpse lying facedown with blood flowing from the back of its head.",
+      "replacement": "Its limbs lay limp, and blood streamed from the back of its head as it lay facedown on the ground.",
+      "severity": "minor",
+      "source": "축 늘어진 사지, 엎어진 뒤통수에서는 핏물이 줄줄 흘러내렸다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Oh, right. These two uncles were here, too.",
+      "defect": "“Uncles” is an unnatural kinship calque for the narrator’s casual reference to two unrelated older men.",
+      "id": "F05",
+      "rationale": "아저씨들 is colloquial here and marks the men as older without asserting a family relationship.",
+      "replacement": "Oh, right. Those two older guys were here, too.",
+      "severity": "minor",
+      "source": "아, 이 아저씨들도 있었지."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Ugh! It’s a jiangshi! A jiangshi has appeared!”",
+      "defect": "The explanatory jiangshi footnote is never referenced, leaving an unused Markdown footnote definition.",
+      "id": "F06",
+      "rationale": "강시 is a culturally specific creature for which the existing concise footnote is useful; adding the marker at its first meaningful occurrence makes the note functional.",
+      "replacement": "“Ugh! It’s a jiangshi! A jiangshi[^1] has appeared!”",
+      "severity": "minor",
+      "source": "“으어어, 강시다! 강시가 나타났다!”"
+    },
+    {
+      "confidence": 0.91,
+      "current": "“Fuck, Taecho Village again?”",
+      "defect": "The unlisted proper name 태초 is romanized without translating or explaining its meaningful Korean name.",
+      "id": "F07",
+      "rationale": "Because Taecho is not an established ledger rendering, its first occurrence needs a concise linguistic note rather than unexplained romanization.",
+      "replacement": "“Fuck, Taecho Village[^2] again?”",
+      "severity": "minor",
+      "source": "“씨벌, 또 태초 마을이야?”"
+    },
+    {
+      "confidence": 0.91,
+      "current": "[^1]: A jiangshi is a reanimated corpse from Chinese folklore, often depicted as a hopping vampire.",
+      "defect": "The draft lacks the footnote definition required by the newly introduced, unlisted name Taecho Village.",
+      "id": "F08",
+      "rationale": "A brief, spoiler-free definition preserves the Korean name while conveying the meaning that would otherwise be lost in romanization.",
+      "replacement": "[^1]: A jiangshi is a reanimated corpse from Chinese folklore, often depicted as a hopping vampire.\n\n[^2]: *Taecho* means “primordial” or “the beginning.”",
+      "severity": "minor",
+      "source": "태초 마을"
+    }
+  ],
+  "summary": "Several fidelity, hierarchy, terminology, and Markdown issues are actionable.",
+  "version": 1
+}

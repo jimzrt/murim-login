@@ -359,3 +359,9 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 십팔반병기 | **eighteen traditional weapons** | Training weapons displayed on a rack. |
 | 수련동 | **training hall** | Building located roughly two hundred jang from the training ground. |
 | 찍고 땡 | **touch-and-go method** | Repeatedly reaching a destination and returning as an endurance exercise. |
+| 홍가 | **Hong** | Unnamed middle-aged Jin Family martial artist who identifies himself by surname. |
+| 진무량 | **Jin Muryang** | Founder of the Jin Family; legendary martial artist from roughly three hundred years earlier. |
+| 천응 | **Heavenly Eagle** | Huge bird regarded as a spirit creature, said to have a wingspan exceeding one jang. |
+| 혈교 | **Blood Cult** | Demonic organization named as a possible source of the intruder. |
+| 강시 | **jiangshi** | Reanimated corpse from folklore; Childeuk and Hong mistakenly identify Taekyung as one. |
+| 태초 마을 | **Taecho Village** | Place named by Taekyung immediately after surviving the fall. |

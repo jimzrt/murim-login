@@ -1,0 +1,39 @@
+{
+  "chapter": 152,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.32,
+    "source_characters": 5583,
+    "source_paragraphs": 185,
+    "translation_characters": 12953,
+    "translation_paragraphs": 192
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "갑자",
+        "preferred": "jiazi"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "칠득",
+        "romanization": "childeuk"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "태초",
+        "romanization": "taecho"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
