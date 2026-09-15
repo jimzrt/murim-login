@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "People whispered that the old man lived alone because he was too proud, but that was the truth.",
+      "defect": "The draft changes what the villagers attribute to his pride and then incorrectly affirms their interpretation as true. They think his proud nature makes him answer that way, while the narrator clarifies that he genuinely enjoys his solitary life.",
+      "id": "F01",
+      "rationale": "저런다고 refers to his dismissive response, not the reason he lives alone, and 그건 진심이었다 confirms the sincerity of that response.",
+      "replacement": "People whispered that the solitary old man was only answering that way out of pride, but he meant every word.",
+      "severity": "critical",
+      "source": "사람들은 혼자 사는 노인네가 자존심이 강해서 저런다고 수군거렸지만, 그건 진심이었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“What are you thinking?”\n\n“…What a sly little brat. Here.”",
+      "defect": "The child’s immediate switch from casual speech to polite speech is erased, obscuring why Old Man Jang calls him sly and rewards him.",
+      "id": "F02",
+      "rationale": "The change from 해 to 하세요 is the pragmatic action driving the exchange; adding the respectful address makes that shift legible in natural English.",
+      "replacement": "“What are you thinking about, Grandpa?”\n\n“…What a sly little brat. Here.”",
+      "severity": "major",
+      "source": "“무슨 생각 하세요?”\n\n“……약삭빠른 녀석 같으니. 옜다.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“You need to eat slowly so you don’t damage your teeth. Understand?”\n\n“Yes!”\n\n“…That polite speech lasted all of two seconds.”",
+      "defect": "The child answers casually with 응, but the draft uses the same polite-sounding “Yes” as before, contradicting the punchline that his polite speech has already lapsed.",
+      "id": "F03",
+      "rationale": "Rendering 응 as “Yeah” restores the deliberate return to casual speech and preserves the joke’s cause.",
+      "replacement": "“You need to eat slowly so you don’t damage your teeth. Understand?”\n\n“Yeah!”\n\n“…That polite speech lasted all of two seconds.”",
+      "severity": "major",
+      "source": "“이가 상하지 않게 조금씩 먹어야 한다. 알겠느냐?”\n\n“응!”\n\n“……이건 뭐, 존댓말도 잠깐이구먼.”"
+    },
+    {
+      "confidence": 0.95,
+      "current": "He put firewood into the furnace and lit the brazier.",
+      "defect": "“Furnace” suggests smithing equipment, particularly given Jang Taebo’s profession, whereas 아궁이 is the domestic firebox used here to heat his room.",
+      "id": "F04",
+      "rationale": "The preceding line establishes that he is heating his room; “firebox” preserves that domestic heating mechanism without implying that he has begun forging.",
+      "replacement": "He fed firewood into the room’s firebox and lit the brazier.",
+      "severity": "minor",
+      "source": "아궁이에 장작도 집어넣고, 화로에 불도 붙였다."
+    },
+    {
+      "confidence": 0.93,
+      "current": "His weathered gaze was fixed on the three enormous figures standing behind the child.",
+      "defect": "“Weathered” describes an aged physical appearance, while 노회한 characterizes his gaze as seasoned and experienced.",
+      "id": "F05",
+      "rationale": "The wording emphasizes the veteran smith’s experienced appraisal of the armed strangers, while 장대한 체구 indicates imposing builds rather than necessarily enormous size.",
+      "replacement": "His seasoned gaze was fixed on the three imposing figures standing behind the child.",
+      "severity": "minor",
+      "source": "그의 노회한 시선은 꼬마의 뒤에 있는 장대한 체구의 세 사람에게 고정되어 있었다."
+    }
+  ],
+  "summary": "One critical causal reversal, two meaningful losses of the child’s register shifts, and two localized wording issues.",
+  "version": 1
+}

@@ -423,3 +423,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 철기방 | **Ironcraft Guild** | Hubei guild composed mainly of skilled craftsmen and closely associated with the Nine Sects and One Gang. |
 | 철기방주 | **Guild Leader of the Ironcraft Guild** | Title of the Ironcraft Guild’s leader; the current leader is Jang Taebo’s disciple. |
 | 오향장육 | **five-spice pork** | Dish Cheongpung packed for the journey. |
+| 항아 | **Hanga** | Local village boy who lives near Jang Taebo. |
