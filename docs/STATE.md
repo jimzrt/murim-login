@@ -1,15 +1,16 @@
 # Translation State
 
-- Last completed: 195
-- Next chapter: 196
-- Current block: 195–199 (1/5)
-- Latest translation: `translations/0195.md`
-- Latest summary: `summaries/beats/0195.md`
-- Safe profiles through: chapter 195
+- Last completed: 196
+- Next chapter: 197
+- Current block: 195–199 (2/5)
+- Latest translation: `translations/0196.md`
+- Latest summary: `summaries/beats/0196.md`
+- Safe profiles through: chapter 196
 
 ## Current Block
 
-- After the New Year's Day banquet, public rumors begin treating Jin Taekyung as the Fire King's Disciple and the Fire Gate Clan's heir. Taekyung visits Jeok Cheongang, who reveals that he went to Jeongyang to find Jopil's remains but found nothing and finally let go of his lingering grief over Jangcheon. Jeok also reveals that the Unnamed Sword's true name is Fire Heaven Sword and that his public claim that it was the Fire Gate Clan's sacred treasure was a deliberate lie meant to deter the Zhongnan Sect; the System updates the sword's information accordingly. Taekyung insults Jeok, throws him the Flame Divine Palm manual, and flees, while Jeok reflects on Jangcheon, accepts his own loneliness and regret, and accidentally burns half the manual before shouting after Taekyung.
+- Taiyuan's merchants experience an unprecedented boom as officials, merchants, martial artists, outsiders, Seok Family Manor, and Prince Shangshan converge on the Jin Family of Taiyuan. A returning textile merchant learns that public rumor now treats Jin Taekyung as the Fire King's Disciple and bearer of the Fire Gate Clan's sacred treasure, making Taekyung and the Jin Family major targets for attention.
+- Two days after the Zhongnan confrontation, Jin Taekyung remains bedridden with severe bruising after Jeok Cheongang suddenly chased him down and beat him with his bare fists over the partly burned Flame Divine Palm manual. The Jin Family publicly explains his absence as closed-door cultivation. Jeok then sends Hyuk Mujin away and prepares to perform cleansing the sinews and washing the marrow on Taekyung.
 
 ## Open Questions
 
@@ -31,7 +32,7 @@
 - Render 대연무장 as “Grand Training Ground” and 종남산 as “Mount Zhongnan.”
 - Render 주모 as “Lady of the House,” 권기 as “Fist Qi,” and 화산제일의 기재 as “Huashan’s greatest prodigy.”
 - Render 사자후 as “lion’s roar,” 봉문 as “seal its gates,” 피독지환 as “Poison-Averting Ring,” 철혈도 as “Iron Blood Saber,” 양천상회 as “Yangcheon Merchant Association,” and 마이클 천강 as “Michael Cheongang.”
-- Render 볼케이노문 as “Volcano Gate Clan” only as Taekyung’s joking pun, while consistently rendering 열화문 as “Fire Gate Clan.”
+- Render 석가장 as “Seok Family Manor,” and preserve the Fire King's alleged discipleship of Taekyung as public rumor rather than confirmed fact.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
