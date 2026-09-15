@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Of course we can—”",
+      "defect": "The draft makes Taekyung begin affirming that they can manage, but the narration explicitly says he was about to answer that it was impossible.",
+      "id": "F01",
+      "rationale": "The interrupted wording must remain incomplete so that it can lead into Taekyung’s stated intention to say 불가능하다고.",
+      "replacement": "“Obviously, that’s—”",
+      "severity": "critical",
+      "source": "“그거야 당연히…….”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“…I apologize for that.”",
+      "defect": "Wolhwa’s response accepting the apology and conceding that Jin Mukyung is correct is omitted, weakening both her characterization and the humor of the exchange.",
+      "id": "F02",
+      "rationale": "The source preserves Wolhwa’s lightly amused composure while confirming that Mukyung’s blunt assessment is accurate.",
+      "replacement": "“…I apologize for that.”\n\n“Well, that’s all right. You’re not wrong.”",
+      "severity": "major",
+      "source": "“뭐, 괜찮아요. 틀린 말은 아니니까.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "It was one of only three rare treasures Pung Yang possessed. Using one had allowed him to defeat Cheol Mubaek, but the aftereffects were considerable.",
+      "defect": "The draft says the pill was one item among three rare treasures, rather than saying Pung Yang possessed only three of these pills.",
+      "id": "F03",
+      "rationale": "세 개밖에 없는 refers to the quantity of Temporary Strength Pills, which matters because he later consumes another one.",
+      "replacement": "Even Pung Yang possessed only three of these precious pills. Using one had allowed him to defeat Cheol Mubaek, but the aftereffects were considerable.",
+      "severity": "major",
+      "source": "풍양에게도 고작 세 개밖에 없는 귀물이다. 그중 하나를 쓴 덕분에 철무백을 쓰러트릴 수 있었지만 후유증이 제법 컸다."
+    },
+    {
+      "confidence": 0.93,
+      "current": "Even though the sect had suffered heavy losses, it didn’t matter.",
+      "defect": "The draft explicitly assigns the losses to the Mount Heng Sword Sect even though the Korean leaves the affected party unstated.",
+      "id": "F04",
+      "rationale": "Both the sect and Pung Yang’s forces have sustained losses, so the source’s omitted subject should remain ambiguous.",
+      "replacement": "Though there had been heavy losses, it didn’t matter.",
+      "severity": "major",
+      "source": "비록 큰 피해를 입었지만 상관없다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Jin Mukyung, the Heaven Shaking Sword. A genius who had reached the Peak realm at barely twenty years of age.",
+      "defect": "“Barely twenty” presents Jin Mukyung as approximately twenty, conflicting with his established age of twenty-three; 약관 is being used broadly for his early twenties here.",
+      "id": "F05",
+      "rationale": "The replacement preserves the source’s emphasis on his exceptional youth without introducing an incorrect specific age.",
+      "replacement": "Jin Mukyung, the Heaven Shaking Sword. A genius who had reached the Peak realm while still in his early twenties.",
+      "severity": "major",
+      "source": "진천검 진무경. 불과 약관의 나이에 절정의 경지에 오른 천재."
+    },
+    {
+      "confidence": 0.99,
+      "current": "His limbs were twisted at unnatural angles, and the black blood soaking his upper body was proof of severe internal injuries.",
+      "defect": "The blood is soaking Cheol Mubaek’s upper garment, not his upper body directly.",
+      "id": "F06",
+      "rationale": "상의 denotes the clothing worn on the upper body.",
+      "replacement": "His limbs were twisted at unnatural angles, and the black blood soaking his shirt was proof of severe internal injuries.",
+      "severity": "minor",
+      "source": "기이한 방향으로 꺾여 있는 사지, 상의를 흠뻑 적신 검은 핏물은 심각한 내상의 증거다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“What a funny man.”",
+      "defect": "The wording is unnatural and misreads 웃기는 as genuinely humorous rather than dismissively calling Taekyung ridiculous.",
+      "id": "F07",
+      "rationale": "In this exchange, 웃기는 놈 is a curt expression of incredulity or contempt, not praise for being amusing.",
+      "replacement": "“You’re ridiculous.”",
+      "severity": "minor",
+      "source": "“웃기는 놈이군.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Your tongue flows like a river.”",
+      "defect": "This is an unnatural literal rendering of an idiom describing someone who speaks glibly or fluently.",
+      "id": "F08",
+      "rationale": "The replacement naturally conveys Mukyung’s dry observation that Taekyung always has a smooth answer ready.",
+      "replacement": "“You certainly have a way with words.”",
+      "severity": "minor",
+      "source": "“말은 청산유수로구나.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "He hid his trembling hands beneath his sleeves and said,",
+      "defect": "The draft omits the source’s comparison of Pung Yang’s shaking hands to an aspen.",
+      "id": "F09",
+      "rationale": "The simile emphasizes the severity of the pill’s aftereffects and is concrete source imagery.",
+      "replacement": "He hid his hands, trembling like aspen leaves, beneath his sleeves and said,",
+      "severity": "minor",
+      "source": "그는 사시나무처럼 떨리는 손을 소매 아래로 감추며 말했다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "*If the Blood Wolf Sword could do the same thing thirty years ago, why couldn’t I?*",
+      "defect": "The draft turns the approximate quantity 삼십여 년 into an exact thirty years.",
+      "id": "F10",
+      "rationale": "삼십여 년 means thirty-some or over thirty years, not exactly thirty.",
+      "replacement": "*If the Blood Wolf Sword could do the same thing over thirty years ago, why couldn’t I?*",
+      "severity": "minor",
+      "source": "‘삼십여 년 전 혈랑검도 했던 일을 내가 못 하랴.’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "A young man dressed in black as dark as night was walking toward them from more than fifty jang away.[^2]",
+      "defect": "The draft renders the approximate distance 오십여 장 as strictly more than fifty jang.",
+      "id": "F11",
+      "rationale": "오십여 장 indicates roughly fifty jang rather than a lower bound exceeding fifty.",
+      "replacement": "A young man dressed in black as dark as night was walking toward them from some fifty jang away.[^2]",
+      "severity": "minor",
+      "source": "밤처럼 새카만 흑의(黑衣)를 걸친 청년이 오십여 장 밖에서 걸어오고 있었다."
+    }
+  ],
+  "summary": "The draft contains one reversed line of dialogue, one omitted response, several altered quantities or subjects, and localized fidelity and natural-English issues.",
+  "version": 1
+}
