@@ -379,3 +379,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 내당주 | **Inner Hall Master** | Title for the head of the Jin Family's Inner Hall. |
 | 내외당 | **Inner and Outer Halls** | The Jin Family's two internal administrative divisions. |
 | 세가 | **great family** | Murim category Jin Wikyung hopes the Jin Family will attain. |
+| 복호권 | **Crouching Tiger Fist** | Huashan martial art Cheongpung uses during the spar. |
+| 암향표 | **Dark Fragrance Drift** | Movement technique Cheongpung uses to evade Taekyung's attacks. |
+| 천근추 | **Thousand-Catty Drop** | Technique Cheongpung identifies when Taekyung lifts the spear shaft beneath his foot. |
