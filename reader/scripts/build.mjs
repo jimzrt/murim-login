@@ -27,7 +27,11 @@ mkdirSync(assetsDir, { recursive: true });
 copyFileSync(coverSrc, resolve(publicDir, "cover.jpg"));
 copyFileSync(coverSrc, resolve(assetsDir, "cover.jpg"));
 
-const env = { ...process.env, ASTRO_OUT_DIR: outDir };
+const env = {
+  ...process.env,
+  ASTRO_OUT_DIR: outDir,
+  MURIM_ROOT: process.env.MURIM_ROOT || repoRoot,
+};
 const bin = (name) => resolve(readerDir, "node_modules", ".bin", name);
 
 function run(command, args) {

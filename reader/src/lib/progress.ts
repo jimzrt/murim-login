@@ -1,8 +1,6 @@
 import fs from "node:fs";
 import path from "node:path";
-import { fileURLToPath } from "node:url";
 
-const root = fileURLToPath(new URL("../../..", import.meta.url));
 const CHAPTER = /^\d{4}$/;
 
 export interface TranslationProgress {
@@ -12,6 +10,20 @@ export interface TranslationProgress {
   translatedCount: number;
   masteredCount: number;
   sourceMax: number;
+}
+
+/**
+ * Repo root is the parent of `reader/`. Astro inlines it from `astro.config.ts`
+ * (`import.meta.env.MURIM_ROOT`). Build scripts may set `process.env.MURIM_ROOT`.
+ */
+export function repoRoot(): string {
+  const fromAstro =
+    typeof import.meta.env === "object" && import.meta.env && import.meta.env.MURIM_ROOT;
+  const configured = (typeof fromAstro === "string" && fromAstro) || process.env.MURIM_ROOT;
+  if (!configured) {
+    throw new Error("MURIM_ROOT is not set");
+  }
+  return path.resolve(configured);
 }
 
 function chapterNumbers(dir: string, ext: string): number[] {
@@ -26,8 +38,14 @@ function chapterNumbers(dir: string, ext: string): number[] {
     .sort((a, b) => a - b);
 }
 
-function isPromoted(chapter: number): boolean {
-  const statePath = path.join(root, "reviews", "mastering", String(chapter).padStart(4, "0"), "state.json");
+function isPromoted(root: string, chapter: number): boolean {
+  const statePath = path.join(
+    root,
+    "reviews",
+    "mastering",
+    String(chapter).padStart(4, "0"),
+    "state.json",
+  );
   if (!fs.existsSync(statePath)) {
     return false;
   }
@@ -43,9 +61,10 @@ function isPromoted(chapter: number): boolean {
 }
 
 export function loadTranslationProgress(): TranslationProgress {
+  const root = repoRoot();
   const source = chapterNumbers(path.join(root, "source"), ".txt");
   const translated = chapterNumbers(path.join(root, "translations"), ".md");
-  const mastered = translated.filter(isPromoted);
+  const mastered = translated.filter((chapter) => isPromoted(root, chapter));
   return {
     sourceTotal: source.length,
     translated,
