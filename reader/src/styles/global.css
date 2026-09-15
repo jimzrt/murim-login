@@ -412,7 +412,11 @@ pagefind-modal pagefind-modal-header .pf-input {
 
 html[data-theme="light"] pagefind-modal .pf-modal-header .pf-input,
 html[data-theme="light"] pagefind-modal pagefind-modal-header .pf-input {
-  background: color-mix(in srgb, var(--pf-background) 88%, var(--ink)) !important;
+  background: color-mix(
+    in srgb,
+    var(--pf-background) 88%,
+    var(--ink)
+  ) !important;
 }
 
 pagefind-modal .pf-modal-header .pf-input:focus-visible,
@@ -1076,7 +1080,6 @@ html[data-theme="light"] .system-window {
   --frame: 2.5rem;
   position: relative;
   margin: 2.4em 0 1.5em;
-  padding: 1.35em 0.95em 1em;
   overflow: visible;
   color: #fff;
   text-align: left;
