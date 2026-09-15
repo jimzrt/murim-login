@@ -495,3 +495,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 연쇄고백마 | **Serial Confession Man** | Taekyung's mocking description of Chulwoo after the duel. |
 | 대종남파 | **Great Zhongnan Sect** | Expanded and formal reference to the Zhongnan Sect. |
 | 사자후 | **lion's roar** | Taekyung's term for Song Il's crowd-shattering roar. |
+| 육합전성 | **Six-Harmonies Voice Transmission** | Supreme Peak martial art that transmits the user's voice from every direction. |
+| 천하삼십육검 | **Heavenly River Thirty-Six Swords** | Zhongnan Sect sword technique used by Song Il. |

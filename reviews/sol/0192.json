@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“An old man who’s lived long enough is grabbing hold of a child and acting like this. Tsk, tsk.”",
+      "defect": "The idiomatic 어린애 잡고 means picking on or persecuting a child, not physically grabbing one; the draft adds an action that does not occur.",
+      "id": "F01",
+      "rationale": "The speaker is condemning Song Il for threatening Jin Taekyung, not describing a physical hold.",
+      "replacement": "“A man your age, picking on a child like this. Tsk, tsk.”",
+      "severity": "critical",
+      "source": "“나이도 먹을 만큼 먹은 놈이 어린애 잡고 뭐 하는 짓인지, 쯧쯧.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "The distant, unfathomable internal energy behind it was beyond imagination.",
+      "defect": "아득한 describes the internal energy as immensely profound or vast, not physically distant. Calling it distant risks falsely locating the speaker far away.",
+      "id": "F02",
+      "rationale": "The source emphasizes the unfathomable extent of the speaker’s internal energy.",
+      "replacement": "The internal energy behind it was so vast that no one dared guess at its limits.",
+      "severity": "major",
+      "source": "감히 그 끝을 짐작할 수 없는 아득한 공력."
+    },
+    {
+      "confidence": 0.94,
+      "current": "“Heh. Look at you. You’ve become even more of a demon than you were when I last saw you.”",
+      "defect": "사갈 같은 evokes something vicious or venomous like a snake or scorpion; “demon” substitutes a different image.",
+      "id": "F03",
+      "rationale": "“Venomous” naturally preserves the source’s characterization without inventing a demonic comparison.",
+      "replacement": "“Heh, look at you. You’ve grown even more venomous since I last saw you.”",
+      "severity": "minor",
+      "source": "“허, 이놈 보게. 못 본 사이에 더 사갈 같은 놈이 됐구먼.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "*When he last saw me?*",
+      "defect": "The draft inserts “me,” making Song Il think the speaker was talking about having met him. In context, Song Il infers that the unseen speaker and Jin Taekyung know each other.",
+      "id": "F04",
+      "rationale": "The Korean omits an object, and the following sentence explicitly says Song Il concludes that the two of them are acquainted.",
+      "replacement": "*Since they last met?*",
+      "severity": "critical",
+      "source": "‘못 본 사이에?’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Stay at least fifty zhang away. If you come any closer, this guy is as good as dead—”",
+      "defect": "The draft drops Song Il’s emphatic repetition of “fifty jang” and inconsistently romanizes the unit as “zhang” despite using “jang” immediately afterward.",
+      "id": "F05",
+      "rationale": "The repetition conveys his nervous insistence while consistent romanization avoids an apparent change of unit.",
+      "replacement": "“Fifty jang. Don’t come within fifty jang. If you come any closer, this bastard is as good as dead—”",
+      "severity": "minor",
+      "source": "“오십 장, 오십 장 안으로 접근하지 마라. 그 이상 다가오면 이놈은 죽은 목숨…….”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“He’s coming.”\n\nThe moment he heard those words, a chill ran down Song Il’s spine.",
+      "defect": "The narration deliberately repeats the warning for ominous emphasis, but the draft removes that repetition.",
+      "id": "F06",
+      "rationale": "Repeating the phrase preserves the source’s dramatic cadence and Song Il’s fixation on the warning.",
+      "replacement": "“He’s coming.”\n\nHe was coming. Those two words sent a chill down Song Il’s spine.",
+      "severity": "minor",
+      "source": "“그가 온다.”\n\n그가 온다. 그 한 마디에 등골이 오싹했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The Heavenly River Thirty-Six Swords, which he had trained to the ninth level, erupted. Sword Energy split into twenty-four streams and shot forward.",
+      "defect": "구성 means nine-tenths mastery, not a discrete ninth level. The draft invents a level-based progression system.",
+      "id": "F07",
+      "rationale": "The source quantifies Song Il’s degree of mastery rather than naming a numbered realm or technique level.",
+      "replacement": "The Heavenly River Thirty-Six Swords, which he had brought to nine-tenths mastery, erupted. Sword Energy split into twenty-four streams and shot forward.",
+      "severity": "critical",
+      "source": "구성에 이른 천하삼십육검. 스물네 줄기로 갈라진 검기가 쏘아졌다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Crack!",
+      "defect": "콱 marks the sudden, forceful grip on Song Il’s wrist; “Crack!” implies that the wrist or a bone breaks, which the source does not state.",
+      "id": "F08",
+      "rationale": "The replacement preserves the forceful seizure without adding an injury.",
+      "replacement": "His hand clamped down.",
+      "severity": "critical",
+      "source": "콱!"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“You pathetic idiot. Did you eat all those years through your asshole?”",
+      "defect": "The first insult is sanitized, while the second sentence is an unnatural literal calque that obscures the joke about growing older without growing wiser.",
+      "id": "F09",
+      "rationale": "This retains the source’s strong profanity, crude image, and accusation that Song Il has gained age but no maturity.",
+      "replacement": "“You fucking moron. Did all those years go straight up your ass?”",
+      "severity": "major",
+      "source": "“병신 같은 놈. 나이는 똥구멍으로 처먹었느냐?”"
+    }
+  ],
+  "summary": "The draft contains several action, subject, quantity, and mechanism errors, plus localized losses of repetition, imagery, and profanity.",
+  "version": 1
+}
