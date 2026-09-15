@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "“Oh, right. That family of yours…”",
+      "defect": "The English sounds dismissive or disparaging toward Taekyung’s family. Jinho is cautiously referring to what the reporters did to them, then trails off after seeing Taekyung’s expression.",
+      "id": "F01",
+      "rationale": "The source’s hesitation concerns the incident involving Taekyung’s family, not “that family of yours” as a characterization of them.",
+      "replacement": "“Ah, right. What happened with your family…”",
+      "severity": "major",
+      "source": "“아아, 그 너희 가족…….”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "reporters hungry for a fresh scoop dug through everything connected to me as if they were searching through a field with tweezers.",
+      "defect": "The draft misreads 이 잡듯, an image of meticulously combing through something as though searching for lice, as searching a field with tweezers.",
+      "id": "F02",
+      "rationale": "The replacement preserves the source’s image of an exhaustive, meticulous search in natural English.",
+      "replacement": "reporters hungry for a fresh scoop combed through everything connected to me with a fine-tooth comb.",
+      "severity": "minor",
+      "source": "신선한 특종을 원하는 기자들은 내 주위에 있는 모든 것을 이 잡듯 뒤졌다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "“Ah, that guy really was a hack reporter. I’d only heard about it from you, but I never imagined they’d go that far.”",
+      "defect": "The draft adds that Jinho heard about the incident specifically from Taekyung. The source only says he had previously heard stories about such behavior.",
+      "id": "F03",
+      "rationale": "나도 말로만 들었는데 does not identify Taekyung as the source of Jinho’s information.",
+      "replacement": "“Ah, that guy really was a hack reporter. I’d only ever heard stories about people like that, but I never imagined they’d really go that far.”",
+      "severity": "minor",
+      "source": "“아, 그놈 진짜 기레기였지. 나도 말로만 들었는데 진짜 저 정도일 줄은 상상도 못 했다.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "The news kept calling me a hero who had prevented a major disaster, but every now and then, I found myself wondering if I could have saved even one more person if I had been a little faster.",
+      "defect": "“Saved even one more person” narrows 사상자, which includes both deaths and injuries, to people saved from death.",
+      "id": "F04",
+      "rationale": "The source explicitly frames Taekyung’s guilt in terms of reducing the casualty count, not only preventing another death.",
+      "replacement": "The news kept calling me a hero who had prevented a major disaster, but every now and then, I found myself wondering whether, if I had been just a little faster, there might have been even one fewer casualty.",
+      "severity": "major",
+      "source": "뉴스에서는 대참사를 막은 영웅이라고 떠들어 댔지만 내가 조금 더 빨랐더라면, 그랬더라면 한 명이라도 사상자를 더 줄일 수 있지 않았을까 하는 생각이 문득문득 들고는 했다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "I did not deny the existence or power of gods, but neither did I truly accept them.",
+      "defect": "The plural pronoun “them” makes Taekyung say he does not accept the existence or power of gods, contradicting the first clause. His point is that acknowledging divine existence and power does not make the suffering that follows comprehensible or acceptable.",
+      "id": "F05",
+      "rationale": "The following references to the Great Cataclysm, his father’s death, and his family’s hardship explain what Taekyung cannot reconcile with divine power.",
+      "replacement": "I wasn’t denying the existence or power of a god, but that didn’t mean I could reconcile myself to it, either.",
+      "severity": "major",
+      "source": "신의 존재와 능력을 부정하는 것은 아니지만 그렇다고 납득하는 것도 아니다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Just enjoy it. Wouldn’t it be easier on your mind if you thought of it as a reward for all the hardship and good deeds you’ve gone through?”",
+      "defect": "“Good deeds you’ve gone through” is an unnatural collocation and incorrectly treats his good deed as an experience inflicted upon him.",
+      "id": "F06",
+      "rationale": "The source distinguishes hardship Taekyung underwent from the good deed he performed.",
+      "replacement": "“Just enjoy it. Wouldn’t you feel more at ease if you thought of it as a reward for all the hardship you endured and the good you did?”",
+      "severity": "minor",
+      "source": "“그냥 즐겨. 네가 했던 고생과 선행에 대한 보상이라고 생각하면 마음 편하지 않겠냐?”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Mr. Jin Taekyung is my team member, and I am currently the Guild’s spokesperson, so I have every right to answer. The website is functioning normally, I have not acted precious, and I did not ignore you. You failed to follow the proper procedure.”",
+      "defect": "The draft reverses the final clause’s meaning. Team Leader Choi explicitly admits that he ignored them and states that their failure to follow procedure was the reason.",
+      "id": "F07",
+      "rationale": "그쪽을 무시한 건 절차를 거치지 않아서입니다 means “The reason I ignored you is that you did not follow the procedure,” not “I did not ignore you.”",
+      "replacement": "“Mr. Jin Taekyung is my team member, and I am currently the Guild’s spokesperson, so I have every right to intervene. The website is functioning normally, I have never played hard to get, and the reason I ignored you is that you failed to follow the proper procedure.”",
+      "severity": "critical",
+      "source": "“진태경 씨는 제 팀원이고 저는 현재 길드 대변인이니 그럴 자격이 있습니다. 홈페이지는 정상적으로 잘 작동되고 있고, 비싸게 군 적이 없으며 그쪽을 무시한 건 절차를 거치지 않아섭니다.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "*For fuck’s sake…*",
+      "defect": "The draft replaces Taekyung’s sarcastic imperative—mocking the reporters for putting on an outrageous performance—with a generic exclamation of frustration.",
+      "id": "F08",
+      "rationale": "지랄을 해라 is directed sarcastically at their behavior; preserving that target and imperative maintains Taekyung’s voice and the joke.",
+      "replacement": "*Go on, make a whole fucking scene…*",
+      "severity": "major",
+      "source": "아주 지랄을 해라……."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Team Leader Choi had conducted dozens of interviews as the Guild’s spokesperson over the past week. The fact that he was filtering these people out told me everything I needed to know.",
+      "defect": "The draft makes Choi sound like the interview subject or interviewer rather than the spokesperson who arranged the interviews, and it deletes the profane 똥인지 된장인지 joke.",
+      "id": "F09",
+      "rationale": "진행시킨 indicates that Choi managed or arranged the interviews, while 똥인지 된장인지 알다 is a deliberately crude distinction between something worthless and something legitimate.",
+      "replacement": "Team Leader Choi had arranged dozens of interviews over the past week as the Guild’s spokesperson. The fact that he was filtering these people out was enough to tell me they were shit, not soybean paste.",
+      "severity": "major",
+      "source": "지난 일주일 동안 길드 대변인 신분으로 수십 번의 인터뷰를 진행시킨 최 팀장이 거르는 것만 봐도 똥인지 된장인지 알 수 있다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Team Leader Choi performed a Moses miracle, and the crowd parted in two.",
+      "defect": "The draft turns the narrator’s comic nickname 최 모세, “Choi Moses,” into a generic description and changes the causal construction.",
+      "id": "F10",
+      "rationale": "The source directly renames Choi as “Choi Moses” after his legal threat causes the crowd to part like the Red Sea.",
+      "replacement": "At Choi Moses’s miracle, the crowd parted in two.",
+      "severity": "major",
+      "source": "최 모세의 기적에 사람들이 반으로 갈라졌다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Team Leader Choi hit the brakes half a beat before my shout even ended.",
+      "defect": "The draft changes the action sequence: Choi brakes before Taekyung’s shout, not merely before the shout finishes.",
+      "id": "F11",
+      "rationale": "내 외침보다 반 박자 빨리 establishes that Choi reacts first, which demonstrates his reflexes and awareness.",
+      "replacement": "Team Leader Choi hit the brakes half a beat ahead of my shout.",
+      "severity": "critical",
+      "source": "내 외침보다 반 박자 빨리 브레이크를 밟은 최 팀장이 창유리 너머로 보이는 한 사람을 보며 중얼거렸다."
+    }
+  ],
+  "summary": "Two critical action/negation errors and several meaningful losses of characterization, register, imagery, and humor require correction.",
+  "version": 1
+}
