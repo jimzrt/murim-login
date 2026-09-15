@@ -12,17 +12,17 @@ Ding.
 
 *This counts as an achievement too?*
 
-Whenever a System message like this appeared, I felt like I had become some kind of hero. An achievement, huh? That was quite an impressive way to package joining a Guild just to make money.
+Whenever a System message like this appeared, I felt like some kind of hero. An achievement, huh? That was a pretty grand way to describe joining a Guild for the money.
 
 *Well, I’m not complaining.*
 
-Ten points was a pretty sweet reward on its own, but after hearing what Team Leader Choi said next, I had to keep fighting the grin that threatened to spread across my face.
+Ten points was already a nice reward, but after hearing what Team Leader Choi said next, I had to keep fighting the grin that threatened to spread across my face.
 
 “The signing bonus will be processed by the end of today. As for your housing and other matters…”
 
 A 500 million won signing bonus, a fixed monthly salary of 50 million won, and a seventy-percent settlement share.
 
-A house and a car provided by the Guild, along with dozens of other benefits.
+A house and car provided by the Guild, along with dozens of other benefits.
 
 I had already gone over everything in the contract several times, but hearing it laid out like this made it all feel new again.
 
@@ -36,7 +36,7 @@ The Sleeping Dragon of Shanxi in Murim, and a Hunter in the real world who casua
 
 “As for equipment rentals, you can use anything you want apart from my collection… Yes?”
 
-“Could you slap me once? If this is a dream, I’d like to wake up quickly.”
+“Could you slap me? If this is a dream, I’d like to wake up.”
 
 The moment I finished speaking, my vision flashed.
 
@@ -44,7 +44,7 @@ Wham!
 
 *Wham?* Not *smack*?
 
-I rubbed my stinging jaw and muttered, “You really don’t hold back.”
+I rubbed my stinging jaw and muttered, “You really didn’t hold back.”
 
 “I have trouble refusing a request.”
 
@@ -60,13 +60,13 @@ Without my newly acquired **Toughness** stat, I might have gone sprawling in a m
 
 The punch he had thrown without even taking a stance had landed squarely on my jaw. The power, the point of impact—both perfect.
 
-“Still, don’t people usually slap you?”
+“Still, don’t people usually slap you in this situation?”
 
 “There are exceptions. So, are you feeling more awake now?”
 
 “……Wide awake.”
 
-“Good. It’s better for making a first impression if you meet them while you’re in your right mind.”
+“Good. It’s better to be in your right mind when making a first impression.”
 
 His out-of-nowhere remark made me look at him in confusion.
 
@@ -74,7 +74,7 @@ His out-of-nowhere remark made me look at him in confusion.
 
 “Who do you think?”
 
-Team Leader Choi continued with a smile.
+Team Leader Choi smiled.
 
 “The other Guild members.”
 
@@ -104,13 +104,13 @@ After giving it some thought, I decided it was Butler Kim’s distinctive air. T
 
 *A limousine.*
 
-The interior was spacious and stocked with all sorts of things. For example, the small refrigerator Team Leader Choi had just opened.
+The interior was spacious and stocked with all sorts of things, including the small refrigerator Team Leader Choi had just opened.
 
 “Would you like something to drink?”
 
 “Sure.”
 
-I happened to be thirsty.
+I was thirsty anyway.
 
 “Water? Alcohol?”
 
@@ -124,13 +124,13 @@ Team Leader Choi nodded.
 
 “……I’ll give you water.”
 
-The bottle of water Team Leader Choi handed me didn’t have even the most ordinary brand name on it.
+The bottle he handed me didn’t have so much as a brand name on it.
 
-He told me it had been brought in from somewhere in the Himalayas, and I clicked my tongue inwardly.
+When Team Leader Choi told me it had been brought in from somewhere in the Himalayas, I clicked my tongue inwardly.
 
-*That must cost a ridiculous amount.*
+*That must’ve cost a ridiculous amount.*
 
-What a fucking waste of money. Still, when I took a sip, it was refreshingly cold.
+Talk about blowing money. Still, when I took a sip, it was refreshingly cold.
 
 Gulp.
 
@@ -142,9 +142,9 @@ Ding.
 >
 > - Your Intelligence increases by 1 for one hour.
 
-……So this was why they blew all that fucking money. Well, this was how wealth got redistributed and the economy stayed active. Right.
+……So this was why rich people blew their money. Well, this was how wealth got redistributed and the economy stayed active. Right.
 
-The limousine came to a stop while I was wondering whether I should take a few bottles with me.
+While I was wondering whether I should pocket a few bottles, the limousine came to a stop.
 
 Butler Kim spoke in his characteristic deep voice.
 
@@ -152,13 +152,13 @@ Butler Kim spoke in his characteristic deep voice.
 
 The moment I stepped out, my jaw dropped at the sight before me.
 
-A skyscraper towered into the sky. Its exterior gleamed even without direct sunlight, as if it had undergone some kind of magical treatment, and guards in formal uniforms stood waiting at the entrance.
+A skyscraper towered overhead. Its exterior gleamed even without direct sunlight, as if it had been treated with magic, and guards in formal uniforms stood at the entrance.
 
 “Wow. Woooow.”
 
-As I continued to marvel at the sight, Team Leader Choi approached me.
+As I continued gawking, Team Leader Choi came up beside me.
 
-“Impressive, isn’t it? It wouldn’t be an exaggeration to say that all the branches of Korea’s top one hundred Guilds are gathered here. There are even branches of foreign mega-Guilds whose names you know just from hearing them.”
+“Impressive, isn’t it? It wouldn’t be an exaggeration to say that all of Korea’s top one hundred Guilds have branches here. There are even branches of major foreign Guilds whose names you’d recognize.”
 
 I answered without taking my eyes off the building.
 
@@ -172,9 +172,9 @@ I answered without taking my eyes off the building.
 
 The value of land had been turned on its head long ago.
 
-Though it had happened before I was born, middle-aged Hunters who had lived through the pre-Great Cataclysm era sometimes became nostalgic and went on about what things had been like back then.
+Though it had happened before I was born, middle-aged Hunters who had lived before the Great Cataclysm sometimes grew nostalgic and reminisced about those days.
 
-“Back then, if you owned even one house in Gangnam, people said you were born with a gold spoon in your mouth.”
+“Back then, if you owned even one house in Gangnam, people said you were born with a silver spoon in your mouth.”
 
 “People used to joke that Bundang was above heaven. That’s how valuable the land there was.”
 
@@ -182,7 +182,7 @@ Though it had happened before I was born, middle-aged Hunters who had lived thro
 
 “Expensive enough to make you puke. At least until the monsters invaded.”
 
-I knew what happened after that. In the early days of the Great Cataclysm, well-developed metropolitan areas and densely populated regions were the first targets of the monster armies, and humanity had been helpless against them.
+I knew what had happened after that. In the early days of the Great Cataclysm, developed cities and densely populated areas became the monster armies’ first targets, and humanity was helpless against them.
 
 Present-day Gangnam and Bundang had both been destroyed once and rebuilt. After the Great Cataclysm, true prime real estate fell into two categories.
 
@@ -196,15 +196,15 @@ There were around a hundred Gates in Bucheon. Many were low-level, but by sheer 
 
 *And this was the center of it.*
 
-I could tell just by looking at the skyscrapers packed around us. This was a neighborhood where your average small or mid-sized Guild couldn’t even set foot.
+One look at the skyscrapers surrounding us made it obvious. This was a neighborhood where your average small or mid-sized Guild couldn’t even set foot.
 
 *Just how rich is this guy?*
 
 I was staring at Team Leader Choi in awe when he spoke.
 
-“Let’s work hard and move somewhere like that, too.”
+“Let’s work hard and move somewhere like that too.”
 
-“I’ll devote my loyalty to you…… Huh?”
+“I pledge you my loyal— Huh?”
 
 “Pardon?”
 
@@ -212,11 +212,11 @@ I was staring at Team Leader Choi in awe when he spoke.
 
 “What’s wrong?”
 
-*Damn it, why do you think? Are you asking because you don’t know?*
+*Damn it, why do you think? Do you really have to ask?*
 
 I barely swallowed the words that had risen to my throat before managing to speak.
 
-“You said we’d arrived?”
+“You said we’d arrived.”
 
 “Yes, we have.”
 
@@ -230,7 +230,7 @@ Butler Kim nodded without hesitation, then added, “However, I believe you’re
 
 “The wrong direction?”
 
-“Yes. If you turn your head a little to the right from where you’re standing, you should see it.”
+“Yes. If you turn your head a little to the right, you should see it.”
 
 I turned as instructed. After a brief silence, I asked, “What is that run-down building?”
 
@@ -242,15 +242,15 @@ Butler Kim kindly explained.
 
 “More precisely, it looks like a corner store.”
 
-I narrowed my eyes and glared at the collapsing store. The yellowed sign read:
+I narrowed my eyes at the crumbling store. Its yellowed sign read:
 
 **Sooni’s Super**
 
 “Who’s Sooni? What a tacky name.”
 
-“She’s an old woman who’s lived here for seventy years.”
+“She was an old woman who lived here for seventy years.”
 
-“Now that I think about it, it’s quite elegant. Sounds like a name that promises a long life.”
+“Now that I think about it, it’s quite elegant. She sounds like someone who’d live to a ripe old age.”
 
 “She passed away two months ago.”
 
@@ -258,7 +258,7 @@ I narrowed my eyes and glared at the collapsing store. The yellowed sign read:
 
 *Why is this happening to me?*
 
-“She was incredibly stubborn, so during the redevelopment of the Gate-dense area, she refused no matter how much money they offered. By then, the other Guilds had already established themselves… In the end, we purchased the property from her surviving family.”
+“She was incredibly stubborn. During the redevelopment of the Gate-dense area, she refused to sell no matter how much money they offered. By the time she passed, the other Guilds had already established themselves… In the end, we purchased the property from her surviving family.”
 
 “So that Sooni’s Super is our Guild house?”
 
@@ -266,11 +266,11 @@ I narrowed my eyes and glared at the collapsing store. The yellowed sign read:
 
 I stared at the half-collapsed Sooni’s Super with mixed feelings.
 
-A Guild house was the face of a Guild. Its signboard. No matter how expensive the land in this neighborhood was, they had really chosen a place like that……
+A Guild house was the face of the Guild. Its signboard. No matter how expensive the land around here was, they had really chosen a place like that……
 
 *No, wait. For a newly established Guild, this is incredible.*
 
-It was only that my expectations had been too high. In an industry crawling with scams, Team Leader Choi had shown me enough sincerity that I could trust him and follow his lead.
+My expectations had simply been too high. In an industry crawling with scams, Team Leader Choi had already shown me enough sincerity to earn my trust.
 
 “Team Leader Choi.”
 
@@ -284,7 +284,7 @@ Team Leader Choi answered with an awkward expression.
 
 “I’m glad you understand.”
 
-“You know what they say. Though the beginning is humble, its end will be magnificent!”
+“You know what they say. Though the beginning may be humble, the end will be magnificent!”
 
 “It’s already fairly magnificent. Butler Kim, how much did it cost to purchase that lot?”
 
@@ -296,19 +296,19 @@ Butler Kim answered, “A little over two billion won per pyeong.[^1]”
 
 After a brief silence, I spoke.
 
-“I believe the beginning is magnificent, but the end will be even more magnificent.”
+“I believe the beginning is magnificent, and the end will be even more magnificent.”
 
 “……”
 
 “……”
 
-Team Leader Choi and Butler Kim’s gazes pierced me like arrows. Just as they stared at me with expressions that seemed to ask, *What kind of asshole is this?* a sound rang out.
+Team Leader Choi and Butler Kim’s gazes pierced me like arrows. Just as they stared at me as if wondering, *What kind of asshole is this?* a sound rang out.
 
 Screeeech. Crash!
 
 **Sooni’s Super**
 
-The sign, whose decades-old lettering had been neatly written in Hancom Batang, slammed into the ground.
+The decades-old sign, its lettering neatly printed in Hancom Batang, slammed into the ground.
 
 “……It’ll look fine once we remodel.”
 
@@ -326,7 +326,7 @@ The good-natured, middle-aged E-rank Hunter Im Kkeokjeong spotted us and waved w
 
 *What the hell? How did this happen?*
 
-While I stood there dumbfounded, Im Kkeokjeong approached and patted me on the shoulder.
+As I stood there dumbfounded, Im Kkeokjeong approached and patted me on the shoulder.
 
 “You little punk. Been doing well? I heard you made C-rank.”
 
@@ -336,17 +336,17 @@ While I stood there dumbfounded, Im Kkeokjeong approached and patted me on the s
 
 After letting out a hearty laugh, he continued.
 
-“I was stuck lying in the hospital when Team Leader Choi suddenly came to see me and asked if I wanted to join the Guild. I said yes without a second thought.”
+“I was stuck in the hospital when Team Leader Choi suddenly came to see me and asked if I wanted to join the Guild. I said yes without a second thought.”
 
 Team Leader Choi, who had been looking sadly at the fallen sign, added, “He seemed like someone I could trust.”
 
-“That young man knows what loyalty means. Mr. Kim over there doesn’t say much, but he’s a really good man. And Miss Song goes without saying.”
+“That young man knows what loyalty means. Mr. Kim over there doesn’t say much, but he’s a good man too. And Miss Song goes without saying.”
 
 “No, wait. Hold on.”
 
-What was going on here?
+What the hell was going on?
 
-I asked as calmly as I could, “You joined recently?”
+I asked as calmly as I could, “So you only joined recently?”
 
 “Yeah.”
 
@@ -376,13 +376,13 @@ I couldn’t hear anything after that.
 
 *Is this a dream?*
 
-Im Kkeokjeong’s booming voice snapped me out of my daze as I stared blankly at the collapsing Sooni’s Super.
+I stared blankly at the crumbling Sooni’s Super until Im Kkeokjeong’s booming voice snapped me out of my daze.
 
-“Oh, there she is. Miss Song! Over here, over here! The newbie’s here!”
+“Oh, there she is. Miss Song! Over here! The new member’s here!”
 
 I followed his gaze and turned my head.
 
-The final Guild member of the ultra-tiny Guild, and one of its founding members.
+The final member of the tiny Guild—and one of its founding members.
 
 *She* was there.
 
