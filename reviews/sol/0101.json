@@ -1,0 +1,126 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "“I’m glad I’m not late. Chunsoo, you’re here too.”",
+      "defect": "The draft resolves the deliberately incomplete “자네도” by adding that Chunsoo is present.",
+      "id": "F01",
+      "rationale": "The source leaves Kim Hwajong’s second thought elliptical and does not say “you’re here.”",
+      "replacement": "“I’m glad I’m not too late. You too, Chunsoo.”",
+      "severity": "major",
+      "source": "“늦지 않아서 다행입니다. 춘수, 자네도.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The mountain shook with the name he had shouted for the first time in thirty years.",
+      "defect": "The draft reduces 관등성명, a formal military identification consisting of rank or position and name, to merely “the name,” weakening the military-conditioning joke and its later callback.",
+      "id": "F02",
+      "rationale": "Im Chunsoo shouts both “Trainee Number One” and his name, and the source explicitly calls the formula 관등성명.",
+      "replacement": "The mountain shook as he bellowed out his military identification for the first time in thirty years.",
+      "severity": "major",
+      "source": "30년 만에 외치는 관등성명에 산이 들썩였다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "For some people, the walk back down the mountain was a hellish experience.",
+      "defect": "The plural “some people” changes the source’s singular 누군가, which points to one particular person.",
+      "id": "F03",
+      "rationale": "누군가에게는 is singular and sets up the Security Team Leader’s interrogation.",
+      "replacement": "For one person, the walk back down the mountain was a hellish experience.",
+      "severity": "minor",
+      "source": "그 후 산에서 내려오는 길은 누군가에게는 지옥 같은 시간이었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Let me tell you in advance: don’t bother making any pointless requests on my behalf.",
+      "defect": "“On my behalf” reverses the direction of the request, making it sound as though the Security Team Leader might petition someone else for Team Leader 1’s benefit.",
+      "id": "F04",
+      "rationale": "Team Leader 1 is warning the Security Team Leader not to solicit his intervention or support.",
+      "replacement": "Let me tell you up front: don’t ask me for any favors.",
+      "severity": "critical",
+      "source": "미리 말해 두는데, 괜한 청탁 같은 건 하지 않길 바랍니다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Team Leader, I’m sorry to bring this up in this kind of atmosphere, but I think I just heard the Guild Master’s voice.”",
+      "defect": "Dropping the numeral makes the address ambiguous because both Team Leader 1 and the Security Team Leader are present in the exchange.",
+      "id": "F05",
+      "rationale": "The source explicitly addresses 1팀장님, distinguishing him from the speaking Security Team Leader.",
+      "replacement": "“Team Leader 1, I’m sorry to bring this up in this kind of atmosphere, but I think I just heard the Guild Master’s voice.”",
+      "severity": "minor",
+      "source": "“저기, 1팀장님. 이런 분위기에서 죄송합니다만, 방금 길드장님 목소리를 들은 것 같은데요.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Who did you just say that was? What do you mean, giving their name and rank?”",
+      "defect": "The draft has Team Leader 1 ask for the distant shouter’s identity, but the source asks which person in the group just made the comment about military identification.",
+      "id": "F06",
+      "rationale": "방금 말한 사람 refers to the subordinate who has just spoken, not to the person whose shout they heard.",
+      "replacement": "“Who just said that? What was that about giving a name and rank?”",
+      "severity": "critical",
+      "source": "“방금 말한 사람 누굽니까? 뭐, 관등성명?”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Do you want to dance with swords today?",
+      "defect": "The draft turns Im Chunsoo’s threat to unleash violence on them into an invitation for the Security Team to participate in a sword fight.",
+      "id": "F07",
+      "rationale": "칼춤 한번 춰 is a threatening idiom in which Im Chunsoo is the implied agent of the violence.",
+      "replacement": "Do I need to make my sword dance today?",
+      "severity": "major",
+      "source": "오늘 칼춤 한번 춰?"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“When did we get here?”",
+      "defect": "The draft formats Jin Taekyung’s internal reaction as spoken dialogue.",
+      "id": "F08",
+      "rationale": "The source has no quotation marks and presents this as narration-internal thought, consistent with the surrounding first-person passage.",
+      "replacement": "*When did we get here?*",
+      "severity": "critical",
+      "source": "언제 여기까지 왔지?"
+    },
+    {
+      "confidence": 0.99,
+      "current": "He had made a former war hero do a hundred sets of PT Exercise No. 8, then later kicked him in the ribs with his hard-soled shoe.",
+      "defect": "The draft changes the location of the kick from the shin to the ribs and adds the unsupported detail that the shoe had a hard sole.",
+      "id": "F09",
+      "rationale": "쪼인트를 까다 specifically describes kicking someone in the shin, while 구둣발 indicates a dress-shoe-clad foot rather than emphasizing the sole.",
+      "replacement": "He had made a former war hero do a hundred sets of PT Exercise No. 8, then later kicked him in the shin with his dress shoe.",
+      "severity": "critical",
+      "source": "옛 전쟁 영웅한테 PT 8번 100세트를 시키더니, 나중에는 구둣발로 쪼인트를 깠다."
+    },
+    {
+      "confidence": 0.91,
+      "current": "*Smack-smack-smack-smack!*",
+      "defect": "“Smack” invents a rapid series of blows during the attention–at-ease drill, although the source onomatopoeia conveys Im Chunsoo’s rapid movements.",
+      "id": "F10",
+      "rationale": "The sound immediately follows alternating posture commands; the source does not state that Butler Kim strikes him at this point.",
+      "replacement": "*Snap-snap-snap-snap!*",
+      "severity": "critical",
+      "source": "파바바바박!"
+    },
+    {
+      "confidence": 0.98,
+      "current": "If someone was Class 3 at the Hunter Training Center, they could gather every Guild Master in the country on a parade ground and beat them into line.",
+      "defect": "The idiomatic “beat them into line” obscures the source’s literal comic image of lining up the Guild Masters and beating them with a bat.",
+      "id": "F11",
+      "rationale": "줄 빠따를 치다 refers to administering a group punishment by lining people up and beating them, not figuratively bringing them into compliance.",
+      "replacement": "If someone was Class 3 at the Hunter Training Center, they could line up every Guild Master in the country on a parade ground and beat every last one of them with a bat.",
+      "severity": "major",
+      "source": "헌터 훈련소 3기면 전국 길드장들을 연병장에 모아 놓고 줄 빠따를 쳐도 된다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "But Butler Kim had taught Im Chunsoo and helped him rise to his current position, too.",
+      "defect": "“Helped him rise” weakens Butler Kim’s formative agency and the hierarchy being inferred from his former role as Im Chunsoo’s instructor.",
+      "id": "F12",
+      "rationale": "The source attributes Im Chunsoo’s instruction and rise to his present position directly to Butler Kim, while retaining Jin Taekyung’s inferential 볼 수 있다.",
+      "replacement": "You could say Butler Kim was the one who taught Im Chunsoo and raised him to his current position.",
+      "severity": "major",
+      "source": "임춘수를 가르쳐서 지금의 위치까지 오르게 한 것도 김 집사라고 볼 수 있다."
+    }
+  ],
+  "summary": "Several actionable fidelity issues alter subjects, implied actions, military register, quantities, and physical details; the most serious make an internal thought spoken dialogue, reverse the direction of a favor request, misidentify who is being questioned, and change a kick from the shin to the ribs.",
+  "version": 1
+}
