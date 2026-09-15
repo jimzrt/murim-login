@@ -1,6 +1,6 @@
 # Seong Jinho (성진호)
 
-- **Safe through:** Chapter 88
+- **Safe through:** Chapter 100
 - **Aliases:** Jinho; Mr. Seong Jinho
 - **Role:** Manager of Hope Goshiwon; thirty-year-old exam candidate; civilian and Taekyung’s older friend
 - **Personality:** Knowledgeable about IT, shamelessly blunt, melodramatic when threatened, and a heavy drinker

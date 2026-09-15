@@ -1,8 +1,8 @@
 # Im Chunsoo (임춘수)
 
-- **Safe through:** Chapter 99
+- **Safe through:** Chapter 100
 - **Aliases:** Frozen
-- **Role:** A-rank Hunter; founder and Guild Master of Sangdong Guild; renowned ice mage
+- **Role:** Level 75 A-rank Hunter; founder and Guild Master of Sangdong Guild; renowned ice mage who personally confronted Jin Taekyung
 - **Personality:** Intimidating, severe, and extremely short-tempered, though he has tried to moderate his temper with age
 - **Voice:** Sharp and commanding, with a comparatively gentle tone when deliberately controlling his temper; becomes violently profane when enraged
 - **Relationships:** Father of Im Changsoo, whom he considers a pathetic disappointment and immediately fires and punishes after learning of Changsoo's actions
