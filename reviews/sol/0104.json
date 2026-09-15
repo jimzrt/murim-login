@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "*I should have been that guy’s brother.*",
+      "defect": "The translation omits that Taekyung wishes he were Mukyung’s older brother, the specific family position whose authority Mukyung obeys.",
+      "id": "F01",
+      "rationale": "The preceding and following lines establish that Mukyung is powerless specifically before his one older brother; 형 therefore carries meaningful kinship hierarchy here.",
+      "replacement": "*I should’ve been that bastard’s older brother.*",
+      "severity": "major",
+      "source": "내가 저놈 형이었어야 했는데."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Just half an hour ago, Hyuk Mujin’s mood had reached its peak.",
+      "defect": "The elapsed time is halved: half a traditional shichen is approximately one modern hour, not half an hour.",
+      "id": "F02",
+      "rationale": "반 시진 denotes half of the traditional two-hour unit, so the source specifies roughly one hour.",
+      "replacement": "Just an hour ago, Hyuk Mujin’s mood had reached its peak.",
+      "severity": "critical",
+      "source": "반 시진 전만 하더라도 혁무진의 기분은 최고조에 다다라 있었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "*The fifty nyang I received for expenses is everything I have.*",
+      "defect": "The draft says fifty nyang is all the money Hyuk Mujin possesses, contradicting the later revelation that he has five additional nyang in personal savings.",
+      "id": "F03",
+      "rationale": "The limiting phrase modifies the money received as travel expenses, not Hyuk Mujin’s total assets.",
+      "replacement": "*All I was given for expenses was fifty nyang.*",
+      "severity": "major",
+      "source": "‘경비로 받은 건 딱 오십 냥이 전부인데.’"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Osmanthus chicken, fish-fragrant shredded pork, pork with preserved mustard greens, scallion tofu, Kung Pao chicken… Every time one of the dozen or so dishes was brought to the table, Jin Taekyung’s hand moved like lightning.",
+      "defect": "The draft reduces the quantity to roughly twelve dishes in total, while the source lists five dishes and then says more than ten additional dishes arrived.",
+      "id": "F04",
+      "rationale": "그 외 십여 개 means more than ten other dishes beyond the five already named, an important escalation of the appetite joke and Hyuk Mujin’s expense.",
+      "replacement": "Osmanthus chicken, fish-fragrant shredded pork, pork with preserved mustard greens, scallion tofu, Kung Pao chicken… Each time one of those dishes—or one of the more than ten others—arrived at the table, Jin Taekyung’s hand moved like lightning.",
+      "severity": "major",
+      "source": "규화계, 어향육사, 매채구육, 소총반두부, 궁보계정……. 그 외 십여 개의 요리가 줄줄이 탁자 위로 올라올 때마다 진태경의 손이 섬전처럼 움직였다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Five men were looking this way and snickering.\n\nI crooked a finger at them.\n\nThe man who had apologized to me first. He was the one who had ruined my soup.",
+      "defect": "Three lines of mocking dialogue are omitted, including the culprit’s sarcastic apology and the men’s joke about Taekyung’s appetite. The remaining reference to his apology consequently points to dialogue that no longer exists.",
+      "id": "F05",
+      "rationale": "The omitted exchange establishes that the bottle was thrown deliberately, preserves the antagonists’ mockery, and supplies the apology referenced immediately afterward.",
+      "replacement": "Five men were looking this way and snickering.\n\n“Oh, Brother. Sorry about that.”\n\n“Who can you blame when a hand slips? We can just order you another one.”\n\n“Hey, don’t talk crazy. Didn’t you see how much that guy’s been eating?”\n\nI watched them chuckle among themselves, then crooked a finger.\n\nThe one who had apologized first—he was the bastard who had ruined my soup.",
+      "severity": "major",
+      "source": "“어이고, 형장. 미안합니다.”\n\n“손이 미끄러진 걸 누굴 탓해. 다시 시켜 주면 되지.”\n\n“어허, 큰일 날 소리. 저놈 방금까지 먹는 거 못 봤어?”\n\n자기들끼리 킥킥거리는 모습을 가만히 지켜보다가 손을 까딱였다.\n\n처음 내게 사과한 놈. 저놈이 바로 계용옥미앵을 망친 장본인이다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“The ancient sages said that even a dog shouldn’t be disturbed while it’s eating. Apologize properly and order the food again. Starting with the chicken-and-corn soup.”\n\n“Goodness, look at the little brat’s childish tongue.”\n\n“What about the apology?”\n\n“Come on, stick out your tongue. I’ll pull it out for you.”\n\nWhen he grinned, I saw teeth that had rotted black.\n\nThe horrific stench of his breath wiped away my appetite. I supposed I would have to eat the soup later.",
+      "defect": "The draft corrects Taekyung’s deliberate mispronunciation of the dish, making the man’s comment about his tongue obscure and deleting the repeated pronunciation joke from the narration.",
+      "id": "F06",
+      "rationale": "The source changes 계용옥미갱 to 계용옥미앵 in Taekyung’s speech and repeats the malformed name afterward; the other man explicitly mocks this as 혀 짧은 speech.",
+      "replacement": "“The ancient sages said that even a dog shouldn’t be disturbed while it’s eating. Apologize properly and order the food again. Starting with the chicken-and-corn thoup.”\n\n“Well, listen to the little brat lisp.”\n\n“What about the apology?”\n\n“Come on, stick out your tongue. I’ll pull it out for you.”\n\nWhen he grinned, I saw teeth that had rotted black.\n\nThe horrific stench of his breath wiped away my appetite. I supposed I would have to eat the thoup later.",
+      "severity": "major",
+      "source": "“옛 성인들께서 말씀하시길, 밥 먹을 땐 개도 안 건드린다고 했다. 정중하게 사과하고 음식 다시 시켜. 계용옥미앵부터.”\n\n“어허, 어린놈이 혀 짧은 것 좀 보게.”\n\n“사과는?”\n\n“얘야, 혀 내밀어라. 뽑아 줄라니까.”\n\n놈이 씩 웃자 시커멓게 썩어들어 간 이빨이 보였다.\n\n끔찍한 구취에 식욕이 씻은 듯이 사라졌다. 아마도 계용옥미앵은 나중에 먹어야 할 듯싶다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Regret was always too late.",
+      "defect": "The sentence is an awkward tense-shifted calque rather than a natural English aphorism.",
+      "id": "F07",
+      "rationale": "The Korean is a general observation about regret, for which English naturally uses the simple present.",
+      "replacement": "Regret always comes too late.",
+      "severity": "minor",
+      "source": "후회는 항상 늦는 법."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Hyuk Mujin, sitting across from me, dropped his jaw.",
+      "defect": "“Dropped his jaw” is not idiomatic for opening one’s mouth in shock.",
+      "id": "F08",
+      "rationale": "입을 딱 벌렸다 describes his mouth falling or hanging open in astonishment.",
+      "replacement": "Sitting across from me, Hyuk Mujin stared with his mouth hanging open.",
+      "severity": "minor",
+      "source": "맞은편에 앉아 있던 혁무진은 입을 딱 벌렸다."
+    }
+  ],
+  "summary": "The draft contains one incorrect time conversion, several meaningful fidelity losses involving kinship, finances, quantity, omitted taunts, and a deliberate mispronunciation joke, plus two localized English issues.",
+  "version": 1
+}
