@@ -50,7 +50,7 @@ I turned around, clutching the back of my stinging head. Jin Mukyung stood there
 
 “You bastard. You’re slipping back into casual speech again.”
 
-Jin Mukyung narrowed his eyes, but he was not very frightening anymore.
+Jin Mukyung narrowed his eyes, but he was not particularly frightening anymore.
 
 *It’s not like I’ve only been hit once or twice.*
 
@@ -60,7 +60,7 @@ I had realized one important fact right from the start.
 
 *I get hit even when I use polite speech!*
 
-I had been beaten black and blue. I had even gained the **Toughness** Stat on only the second day, which said everything that needed saying. No matter what I did, I was going to get beaten anyway. I might as well speak casually and claim the moral victory.
+I had been beaten black and blue. I had even gained the **Toughness** Stat on the second day, which said everything that needed saying. No matter what I did, I was going to get beaten anyway. I might as well speak casually and claim the moral victory.
 
 Smack!
 
@@ -78,7 +78,7 @@ Whack!
 
 Thud-thud-thud!
 
-While taking hits from the wooden sword as it struck my vital points with practiced precision, I swung my spear as well.
+The wooden sword struck my vital points with practiced precision, but I endured the blows and swung my spear in return.
 
 Sshh-shh-shhk! Crack!
 
@@ -114,15 +114,15 @@ As he blocked the spear bearing down on him, Jin Mukyung swallowed the laugh thr
 
 Ten days. Short in some ways, long in others. But when that was all the time it had taken to master a First Rate martial art, it became another matter entirely.
 
-*What kind of bastard is this?*
+*What kind of monster is he?*
 
 He had thought the same thing dozens of times over the past ten days. Jin Taekyung’s rate of growth went beyond even the saying “hear one, know ten.”
 
 *Knowing something and making it your own are different.*
 
-Mastering a martial art meant understanding it perfectly and being able to execute it. Jin Taekyung had made two First Rate martial arts completely his own in only ten days.
+Mastering a martial art meant understanding it perfectly and being able to execute it to perfection. Jin Taekyung had made two First Rate martial arts completely his own in only ten days.
 
-Even taking into account the fact that he had already reached a certain level, this was an astonishing achievement.
+Even accounting for the progress he had already made, it was an astonishing achievement.
 
 *So this really is possible.*
 
@@ -132,7 +132,7 @@ One thing was certain: Taekyung had far surpassed his original goal.
 
 *All I meant to do was cure him of that habit of throwing out his hands and feet whenever he felt like it, then make sure his fundamentals were solid…*
 
-But once training began, things had changed.
+But once the training began, things had changed.
 
 Fundamentals? Jin Mukyung had no way of knowing, but Jin Taekyung had trained relentlessly for seven years. Training to grow stronger. Struggling desperately to survive.
 
@@ -154,23 +154,23 @@ Jin Mukyung was once again struck by the sheer absurdity of it all when—
 
 Swoooosh!
 
-A spear thrust forward with powerful momentum.
+The spear thrust forward with tremendous force.
 
 Jin Mukyung used his footwork to retreat, but Jin Taekyung pursued him relentlessly, pressing the attack.
 
 Sshk! Sshh-shh-shhk!
 
-Even the same martial art changed depending on who wielded it and how. Every move carried the wielder’s temperament and disposition.
+Even the same martial art changed depending on who wielded it and how. Every move reflected the wielder’s temperament and disposition.
 
-The Jin Family’s Spear Technique Jin Mukyung was using now was no different.
+The Jin Family’s Spear Technique unfolding before Jin Mukyung was no different.
 
-*Was this what the Jin Family’s Spear Technique was supposed to be?*
+*Was the Jin Family’s Spear Technique always like this?*
 
-Martial artist and wandering martial artist. Movements that had been awkward and uneasy in some indefinable way were gradually beginning to harmonize.
+Martial artist and wandering martial artist. Movements that had once seemed vaguely awkward and unstable were gradually coming into harmony.
 
 *He’s already made it his own.*
 
-Ten days ago, Jin Taekyung had been half-finished, but the change had already begun. Jin Mukyung was proud of his younger brother’s achievement. At the same time, heat began to build in his stomach.
+Ten days ago, Jin Taekyung had been half-finished, but the transformation was already underway. Jin Mukyung was proud of his younger brother’s achievement. At the same time, heat began to build in his stomach.
 
 *This is…*
 
@@ -186,7 +186,7 @@ Toward that momentary opening, the final form of the Jin Family’s Spear Techni
 
 Whoooosh!
 
-The wind spiraling around the spear swallowed Jin Taekyung’s shout. Just as the spear seemed about to pierce Jin Mukyung’s chest, his hand closed around his sword hilt.
+The wind spiraling around the spear swallowed Jin Taekyung’s shout. Just as it seemed the spear would pierce straight through his chest, Jin Mukyung’s hand closed around his sword hilt.
 
 Fwoosh!
 
@@ -198,7 +198,7 @@ At its end stood Jin Taekyung.
 
 Sshk!
 
-A short rush of wind swept past, and my upper body suddenly felt breezy. My martial arts uniform had been sliced cleanly open from my right waist to my left shoulder, letting the chilly air of the underground training ground seep through the gap.
+A short rush of wind swept past, and my upper body suddenly felt breezy. My martial arts uniform had been sliced cleanly open from my right hip to my left shoulder, letting the chilly air of the underground training ground seep through the gap.
 
 Only after confirming that I was unhurt did I let out a sigh of relief.
 
@@ -206,11 +206,11 @@ Only after confirming that I was unhurt did I let out a sigh of relief.
 
 Sword Energy out of nowhere? My heart had nearly jumped out of my throat.
 
-“Crazy. You said you weren’t going to use Sword Energy.”
+“Are you crazy? You said you weren’t going to use Sword Energy.”
 
 “…Only an idiot would take that at face value.”
 
-Jin Mukyung answered with a distinctly uneasy expression and sheathed his sword.
+Jin Mukyung answered with an oddly uneasy expression and sheathed his sword.
 
 “Training ends here.”
 
@@ -232,13 +232,13 @@ Under my expectant gaze, he opened his mouth.
 
 “Ah.”
 
-“To think this is all you managed to keep up with after ten days. What a waste of my ti—”
+“After ten days, this is all you managed? What a waste of my ti—”
 
 Jin Mukyung broke off with a sour expression.
 
 “What’s with that look?”
 
-“Huh? What?”
+“Huh? What look?”
 
 “That bizarre expression you’re making right now!”
 
@@ -296,7 +296,7 @@ Jin Mukyung looked back and forth between Childeuk and me, then reluctantly lowe
 
 * * *
 
-We followed Childeuk. Jin Mukyung walked along with a sour expression, staring only at the ground as if everything offended him. Childeuk kept groaning whenever pain shot through him with each step.
+We followed Childeuk. Jin Mukyung trudged along with a sour expression, staring at the ground as if everything offended him. Childeuk kept groaning whenever each step sent pain shooting through him.
 
 “Ow. Good grief. Urgh.”
 
@@ -310,7 +310,7 @@ That was seriously getting on my nerves.
 
 Those looked like fairly serious injuries for a minor misunderstanding.
 
-In the modern world, potions meant there was nothing that could not be healed. Murim was different. I clicked my tongue as I looked at Childeuk’s broken teeth.
+In the modern world, potions meant there was almost nothing that could not be healed. Murim was different. I clicked my tongue as I looked at Childeuk’s broken teeth.
 
 “That must hurt.”
 
@@ -322,13 +322,13 @@ Childeuk puffed out his chest with stoic resolve.
 
 “…”
 
-He had been acting like he was about to die from the pain just moments ago.
+He had been acting like he was about to die from the pain moments ago.
 
 But wasn’t this man a servant?
 
 *Come to think of it, his clothes have changed.*
 
-He was wearing the dark navy martial arts uniform worn by martial artists of the Jin Family of Taiyuan. I thought he had been wearing a servant’s clothes before.
+He was wearing the dark navy uniform of the Jin Family’s martial artists. I could have sworn he had worn servant’s clothes before.
 
 Noticing my gaze, he smiled shyly.
 
@@ -354,7 +354,7 @@ Jin Mukyung looked Childeuk up and down. His gaze was not contemptuous so much a
 
 According to my **Qi Sense**, Childeuk was Level 12. That was high for a servant who had done nothing but carry food, but by martial-artist standards, he was Third Rate.
 
-*The First Rate masters directly under Jin Wikyung are all above Level 40.*
+*The First Rate masters serving directly under Jin Wikyung are all at least Level 40.*
 
 What was going on? Did he have powerful backing?
 
@@ -370,15 +370,15 @@ Childeuk blinked his large, calf-like eyes.
 
 “…”
 
-“He was a famous herb gatherer, but he was killed by a tiger.”
+“He was a famous herbalist, but he was killed by a tiger.”
 
 For a moment, my vision went hazy. Befitting a Peak master, Jin Mukyung was the first to regain his composure and hurriedly tried to smooth things over.
 
-“H-He must have been an excellent man.”
+“H-He sounds like he was a fine man.”
 
 “Even now, I remember him as a very innocent man. He and my mother were very loving, too.”
 
-“Then your mother… perhaps? No—she isn’t, right?”
+“Then your mother… perhaps? No, never mind.”
 
 “She’s doing well.”
 
@@ -390,7 +390,7 @@ Just as we breathed sighs of relief, Childeuk gazed wistfully at a distant mount
 
 “…”
 
-What followed was a march of death. I wanted to run away at full speed, but I gave up after hearing Childeuk muttering to himself.
+What followed was a march of death. I wanted to flee at full speed, but I gave up after hearing Childeuk mutter to himself.
 
 “Oh, I haven’t seen those flowers in a long time. I used to see them everywhere when I went into the mountains with my father.”
 
@@ -416,13 +416,13 @@ Jin Wikyung had been hurrying toward Jin Mukyung and me, but he suddenly stopped
 
 “Jang Childeuk, a man of benevolence, righteousness, propriety, and wisdom! Martial Artist Jang, you’ve returned!”
 
-“Yes, sir, Lesser Family Head!”
+“Yes, Lesser Family Head!”
 
 “You’ve completed a very important mission! Go and rest now.”
 
 What on earth was happening? Jin Mukyung and I stared blankly at the scene.
 
-Then a voice reached my ear through Sound Transmission.
+Then Jin Wikyung’s voice reached my ear through Sound Transmission.
 
 *There was, uh, a minor misunderstanding between me and this fellow…*
 
