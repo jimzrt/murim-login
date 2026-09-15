@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "What’s the difference between saying “tie someone up” and “secure someone”?",
+      "defect": "The draft replaces the source’s crude euphemism joke with a literal restatement of the preceding exchange, losing both the shit-versus-feces comparison and Taekyung’s irreverent register.",
+      "id": "F01",
+      "rationale": "Taekyung specifically compares Jeok Cheongang’s substitution of “secure” for “tie up” to using the more polite word 대변 instead of 똥.",
+      "replacement": "How was that any different from calling shit “feces”?",
+      "severity": "major",
+      "source": "똥이 아니라 대변이라고 하는 거랑 뭐가 다른 거야."
+    },
+    {
+      "confidence": 0.94,
+      "current": "“Your energy recovers quickly because you’re young. We can move on to the next step right away.”",
+      "defect": "“Energy” is ambiguous in this Murim context and can be mistaken for internal energy, while 기력 here means physical strength or vitality.",
+      "id": "F02",
+      "rationale": "Jeok Cheongang is commenting on Taekyung’s general physical recovery after collapsing, not specifically the restoration of his internal energy.",
+      "replacement": "“I suppose being young means you recover your strength quickly. We can move on to the next step right away.”",
+      "severity": "minor",
+      "source": "젊은 놈이라 그런지 기력도 금방 회복되는군."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Unlike Jin Taekyung’s bloodshot eyes, sharpened by unbearable pain, Jeok Cheongang’s eyes gleamed with heat.",
+      "defect": "“Sharpened by unbearable pain” incorrectly modifies the eyes and introduces an image absent from the source; the pain has made Taekyung’s eyes bloodshot.",
+      "id": "F03",
+      "rationale": "The source directly attributes the bloodshot condition of Taekyung’s eyes to the unbearable pain and contrasts them with the heat gleaming in Jeok Cheongang’s eyes.",
+      "replacement": "Unlike Jin Taekyung’s eyes, bloodshot from unbearable pain, Jeok Cheongang’s gleamed with heat.",
+      "severity": "minor",
+      "source": "참을 수 없는 고통에 핏발 선 진태경의 눈동자와는 달리 적천강의 그것은 열기로 번뜩이고 있었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "A trained fighting bull sometimes forgot how to charge.",
+      "defect": "“Trained” reverses the metaphor’s relevant quality: 길든 means tamed or domesticated, not trained for combat.",
+      "id": "F04",
+      "rationale": "Jeok Cheongang’s point is that restraining and taming the newly introduced energy too soon could rob it of its force, just as a tamed bull may forget how to charge.",
+      "replacement": "A tamed fighting bull sometimes forgot how to charge.",
+      "severity": "minor",
+      "source": "길든 투우(鬪牛)는 돌격하는 방법을 종종 까먹는 법."
+    }
+  ],
+  "summary": "One major humor/register mistranslation and three localized terminology or wording issues.",
+  "version": 1
+}
