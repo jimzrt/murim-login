@@ -1,22 +1,24 @@
 # Translation State
 
-- Last completed: 113
-- Next chapter: 114
-- Current block: 110–114 (4/5)
-- Latest translation: `translations/0113.md`
-- Latest summary: `summaries/beats/0113.md`
-- Safe profiles through: chapter 113
+- Last completed: 114
+- Next chapter: 115
+- Current block: 110–114 (5/5)
+- Latest translation: `translations/0114.md`
+- Latest summary: `summaries/beats/0114.md`
+- Safe profiles through: chapter 114
 
 ## Current Block
 
-- Half a shichen after sending the ultimatum, Pung Yang orders the Red Wind Band to attack the Mount Heng Sword Sect. The mounted bandits charge through the snow while Taekyung's group, still three shichen from the sect, prepares to ride without rest after Taekyung believes he hears distant battle signals.
-- The Mount Heng Sword Sect's fortress defenses repel the first assault, but the Red Wind Band breaches the gate and begins climbing the walls. Lee Seowol, shaken by the brutality of her first battlefield, refuses to retreat and orders a concealed fire attack that burns many mounted bandits and destroys their ladders and grappling hooks.
-- Cheol Mubaek leaps down to hold the breached gate alone while Lee Seowol directs the remaining defense. After learning that the Red Wind Band has lost at least a hundred men but still retains more than one hundred fifty, Pung Yang decides to enter the battle personally. He carries a hard wooden case containing an unknown object capable of bringing down a tiger in one blow.
+- Cheol Mubaek held the breached gate alone until Pung Yang withdrew the Red Wind Band's mounted bandits and confronted him directly. Though Pung Yang had only recently reached the early Peak stage, he swallowed a red pill from an unidentified hard wooden case and gained overwhelming strength, defeating Cheol, breaking all four of his limbs, and inflicting severe internal injuries.
+- The Mount Heng Sword Sect's defenders fought desperately against a four-to-one numerical disadvantage, but exhaustion and the Red Wind Band's recovery from the earlier fire attack allowed the enemy to overrun the fortress wall. More than a hundred mounted bandits surrounded Lee Seowol and the surviving defenders in the watchtower.
+- Lee Seowol continued firing despite reaching the limits of her stamina and used a fire arrow to signal Cheol Mubaek. Pung Yang appeared beneath its light and demanded that she marry him. Afterward, Jin Taekyung and his companions arrived, and Cheol recognized the Jin Family character embroidered on Taekyung's robe.
+- The chapter recounts Cheol Mubaek's rise from hunter to the Tiger of Mount Heng: he survived three years in a hidden cave while learning martial arts, returned to find his wife and child dead, avenged them by killing the village landowner and his servants, and resumed training until he became a Peak master.
 
 ## Open Questions
 
-- What is inside the hard wooden case Pung Yang carries?
-- Whether Pung Yang can defeat Cheol Mubaek and break through the gate remains unresolved.
+- What is the nature or origin of the red pill that empowered Pung Yang?
+- How will Lee Seowol respond to Pung Yang's marriage demand?
+- Can Jin Taekyung and his companions reach or rescue Lee Seowol and Cheol Mubaek?
 - Whether the Mount Heng Sword Sect will survive the continuing assault remains unresolved.
 
 ## Exceptional Decision
@@ -24,6 +26,9 @@
 - Render 일류 초입 as early First Rate.
 - Retain shichen and explain three shichen as six hours in context.
 - Render 화시 as fire arrow, 쇠뇌 as crossbow, and 충차 as battering ram.
+- Render 수라멸권 as Shura Annihilating Fist.
+- Render 항산권문 as Mount Heng Fist Sect.
+- Render 벽곡단 as fasting pills.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

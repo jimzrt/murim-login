@@ -180,3 +180,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 절정 초입 | **early Peak** | Pung Yang's specific stage within the Peak realm. |
 | 광칠이 | **Gwangchil** | Former mounted-bandit boss who took in Pung Yang and was later killed by a First Rate master. |
 | 일류 초입 | **early First Rate** | Early stage of the First Rate realm. |
+| 수라멸권 | **Shura Annihilating Fist** | Cheol Mubaek's single-successor martial art. |
+| 항산권문 | **Mount Heng Fist Sect** | Alternate fist-sect designation used by Pung Yang for the Mount Heng defenders. |
+| 화시 | **fire arrow** | Flaming arrow Lee Seowol fires to signal Cheol Mubaek. |
+| 벽곡단 | **fasting pills** | Food-substitute pills found in the hidden cave where Cheol trained. |

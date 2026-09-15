@@ -1,6 +1,6 @@
 # Lee Seowol (이소월)
 
-- **Safe through:** Chapter 113
+- **Safe through:** Chapter 114
 - **Aliases:** None
 - **Role:** Current Sect Leader of the Mount Heng Sword Sect; third child of Lee Cheonbaek and his last surviving descendant; publicly insists on being addressed as Sect Leader rather than Young Lady
 - **Personality:** Cold, commanding, and composed; capable of stopping a fierce confrontation with a calm request
