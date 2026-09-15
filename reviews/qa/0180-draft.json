@@ -1,0 +1,39 @@
+{
+  "chapter": 180,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.309,
+    "source_characters": 6635,
+    "source_paragraphs": 190,
+    "translation_characters": 15318,
+    "translation_paragraphs": 191
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "정파",
+        "preferred": "orthodox faction"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "사마외도",
+        "preferred": "demonic, heterodox arts"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "세가",
+        "preferred": "great family"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
