@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "It was the first time—or at least the first time in a long while—that I had seen him look so serious.",
+      "defect": "The self-correction is reversed: the narrator first calls it a rare sight, then intensifies that to almost the first time ever.",
+      "id": "F01",
+      "rationale": "오랜만에 아니, 거의 처음 explicitly corrects “the first time in a long while” to “almost the first time.”",
+      "replacement": "It was the first time in a long while—no, almost the first time ever—that I had seen him look so serious.",
+      "severity": "minor",
+      "source": "오랜만에 아니, 거의 처음 보는 진지한 모습이다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "The words *Let’s continue to get along* hovered at the tip of my tongue.",
+      "defect": "The replacement loses the humble, relational force of 잘 부탁한다, which asks Mujin to keep looking after or supporting him rather than merely suggesting that they remain amicable.",
+      "id": "F02",
+      "rationale": "앞으로도 잘 부탁한다 expresses continued reliance and appreciation, making Taekyung’s inability to say it a meaningful register shift.",
+      "replacement": "The words *I’m counting on you from here on out* hovered at the tip of my tongue.",
+      "severity": "major",
+      "source": "앞으로도 잘 부탁한다는 말이 혀끝에서 맴돈다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "That was when my eyes began to sting slightly.",
+      "defect": "The draft changes the visible action of the rims of his eyes reddening into a sensation of stinging.",
+      "id": "F03",
+      "rationale": "눈시울이 붉어지다 means that the rims of one’s eyes become red with emotion; it does not mean that the eyes sting.",
+      "replacement": "That was when the rims of my eyes reddened slightly despite myself.",
+      "severity": "minor",
+      "source": "나도 모르게 눈시울이 살짝 붉어진 그 순간이었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The merchants here knew how strict my parents were, so they deliberately refused to sell it to me. That lady was the only one who secretly saved one for me now and then.",
+      "defect": "The draft omits that the merchants singled Mujin out, weakens his parents’ overbearing behavior to mere strictness, and changes the woman’s action from secretly giving him one to saving one for him occasionally.",
+      "id": "F04",
+      "rationale": "저한테만 establishes that only Mujin was refused service, while 몰래 하나씩 챙겨 주셨고 describes the woman secretly handing him one at a time.",
+      "replacement": "All the merchants around here knew how overbearing my parents were, so they made a point of refusing to sell any to me specifically. That lady was the only one who would secretly slip me one.",
+      "severity": "major",
+      "source": "여기 상인분들이야 저희 부모님 성격 극성인 거 다 아니까 일부러 저한테만 안 팔았는데, 저분만 몰래 하나씩 챙겨 주셨고."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The Master of the Gatekeeper Pavilion at the main family is my father’s oldest friend, so he probably knew everything about how I was doing.",
+      "defect": "“At the main family” conflicts with the established rendering of 본가, while “oldest friend” loses the specifically childhood-based and coarse familiarity of 불알친구.",
+      "id": "F05",
+      "rationale": "본가 refers to their own family organization here, and 불알친구 is a colloquial expression for an extremely close friend from childhood.",
+      "replacement": "The Master of the Gatekeeper Pavilion in our family is my father’s childhood best friend, so he probably knew everything about how I was doing.",
+      "severity": "major",
+      "source": "본가 수문각주님이 저희 아버지 불알친구라 제 근황은 다 알고 계셨을 겁니다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "For about two years, they complained constantly. Then the youngest child was born, so I no longer needed to inherit the family business. After that, they stopped saying much.",
+      "defect": "The draft softens his parents severely scolding him into general complaining and leaves “the youngest child” needlessly ambiguous instead of identifying Mujin’s youngest sibling.",
+      "id": "F06",
+      "rationale": "엄청 뭐라 하셨다 describes his parents strongly berating him, and 막둥이 is the newly born youngest child of Mujin’s family—his youngest sibling.",
+      "replacement": "For about two years, they gave me hell over it. Then my youngest sibling was suddenly born, so I no longer needed to inherit the family business. After that, they stopped saying much.",
+      "severity": "major",
+      "source": "한 이 년 동안은 엄청 뭐라 하셨는데, 갑자기 막둥이가 태어나서 제가 가업을 이을 필요가 없어지니까 그 후부터는 별말씀 안 하시던데요?"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“You candied-hawthorn bastard…”",
+      "defect": "The draft completes the insult and invents an unnatural compound, whereas the source cuts Taekyung off partway through the rising curse.",
+      "id": "F07",
+      "rationale": "호로색…… is an interrupted start to a strong insult; the following sentence explicitly says he swallows the curse before finishing it.",
+      "replacement": "“You son of a…”",
+      "severity": "major",
+      "source": "“이런 호로색…….”"
+    },
+    {
+      "confidence": 0.95,
+      "current": "If you have a restless night and arrive late to tomorrow’s luncheon, are you going to take responsibility?",
+      "defect": "The draft assigns both the poor sleep and late arrival to Mujin, although Taekyung is threatening to hold Mujin responsible if their lodging disrupts the night and causes them to be late.",
+      "id": "F08",
+      "rationale": "The Korean leaves the experiencer unstated and frames Mujin as the person being held responsible, not necessarily the person who alone sleeps badly and arrives late.",
+      "replacement": "If we get a bad night’s sleep and end up late to tomorrow’s luncheon, are you going to take responsibility?",
+      "severity": "major",
+      "source": "오늘 잠자리가 뒤숭숭해서 내일 오찬에 늦으면 네가 책임질래?"
+    },
+    {
+      "confidence": 0.94,
+      "current": "“If it wouldn’t be too much trouble, may I have just one candied hawthorn skewer?”",
+      "defect": "The draft changes Cheongpung’s oddly direct request for permission to eat one into the more conventional request to be given one, weakening his eccentric characterization.",
+      "id": "F09",
+      "rationale": "먹어도 되겠습니까 literally asks whether he may eat one; preserving that formulation supports the narrator’s baffled reaction.",
+      "replacement": "“If you don’t mind, may I eat just one candied hawthorn skewer?”",
+      "severity": "minor",
+      "source": "“실례가 안 된다면 빙당호로 하나만 먹어도 되겠습니까?”"
+    }
+  ],
+  "summary": "Several localized fidelity issues alter pragmatic cues, actions, causal details, or register.",
+  "version": 1
+}
