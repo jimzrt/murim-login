@@ -382,3 +382,9 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 복호권 | **Crouching Tiger Fist** | Huashan martial art Cheongpung uses during the spar. |
 | 암향표 | **Dark Fragrance Drift** | Movement technique Cheongpung uses to evade Taekyung's attacks. |
 | 천근추 | **Thousand-Catty Drop** | Technique Cheongpung identifies when Taekyung lifts the spear shaft beneath his foot. |
+| 일권복호 | **One Fist Subdues the Tiger** | Named form of the Crouching Tiger Fist. |
+| 매화권 | **Plum Blossom Fist** | Huashan fist technique Cheongpung uses in sparring. |
+| 천응조 | **Heavenly Eagle Claw** | Huashan claw technique used by Cheongpung. |
+| 봉미혈 | **Fengwei acupoint** | Acupoint around the ribs targeted by Cheongpung. |
+| 태권도 | **Taekwondo** | Martial art Taekyung practiced as a child. |
+| 태극 1장부터 8장까지 | **Taegeuk Forms 1 through 8** | Standard taekwondo pattern sequence Taekyung copied as a child. |
