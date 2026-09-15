@@ -146,7 +146,7 @@ def test_apply_fidelity_repairs_only_major_findings():
     assert "Keep this." in repaired
 
 
-def test_apply_fidelity_repairs_requires_span_to_disappear():
+def test_apply_fidelity_repairs_skips_missing_current_span():
     text = "# Chapter 1\n\nAlpha phrase.\n"
     review = {
         "findings": [{
@@ -156,11 +156,41 @@ def test_apply_fidelity_repairs_requires_span_to_disappear():
             "replacement": "Replacement.",
         }]
     }
-    try:
-        mastering.apply_fidelity_repairs(text, review, 0.9)
-        assert False, "expected missing current span to fail"
-    except ValueError as error:
-        assert "not found" in str(error)
+    repaired, count = mastering.apply_fidelity_repairs(text, review, 0.9)
+    assert count == 0
+    assert repaired == mastering.normalize_chapter(text)
+
+
+def test_filter_fidelity_findings_drops_absent_and_glossary_regressions():
+    text = "# Chapter 62\n\n*One Annihilation.*\n\nGunggwimun waited.\n"
+    glossary = [
+        {"korean": "일섬", "english": "**One Annihilation**"},
+        {"korean": "궁귀문", "english": "**Gunggui Sect**"},
+    ]
+    findings = [
+        {
+            "id": "F01",
+            "severity": "major",
+            "current": "One Annihilation.",
+            "replacement": "One Flash.",
+        },
+        {
+            "id": "F02",
+            "severity": "major",
+            "current": "the Gunggui Sect",
+            "replacement": "Gunggwimun",
+        },
+        {
+            "id": "F03",
+            "severity": "major",
+            "current": "Gunggwimun waited.",
+            "replacement": "Gunggui Sect waited.",
+        },
+    ]
+    kept, dropped = mastering.filter_fidelity_findings(text, findings, glossary)
+    assert [item["id"] for item in kept] == ["F03"]
+    assert any("glossary regression" in note for note in dropped)
+    assert any("current span absent" in note for note in dropped)
 
 
 def test_command_qa_applies_blocking_repairs_before_final_gate():

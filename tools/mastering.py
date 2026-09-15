@@ -1039,6 +1039,51 @@ def command_assemble(number: int) -> None:
     )
 
 
+def glossary_preferred_english(glossary: list[dict]) -> list[str]:
+    """Strip markdown emphasis from glossary English spellings."""
+    preferred: list[str] = []
+    seen: set[str] = set()
+    for item in glossary:
+        english = item.get("english", "")
+        if not isinstance(english, str):
+            continue
+        term = re.sub(r"\*+", "", english).strip()
+        if len(term) < 3 or term in seen:
+            continue
+        seen.add(term)
+        preferred.append(term)
+    preferred.sort(key=len, reverse=True)
+    return preferred
+
+
+def filter_fidelity_findings(
+    text: str,
+    findings: list[dict],
+    glossary: list[dict] | None = None,
+) -> tuple[list[dict], list[str]]:
+    """Drop hallucinated spans and glossary regressions from fidelity findings.
+
+    The gate sometimes invents a `current` span that is not in the assembled
+    chapter, or asks to revert a glossary-correct term back to an older baseline
+    synonym. Those must not block promotion or poison auto-repair.
+    """
+    preferred = glossary_preferred_english(glossary or [])
+    kept: list[dict] = []
+    dropped: list[str] = []
+    for finding in findings:
+        identifier = str(finding.get("id", "?"))
+        current = finding.get("current", "")
+        replacement = finding.get("replacement", "")
+        if not isinstance(current, str) or current not in text:
+            dropped.append(f"{identifier}: current span absent")
+            continue
+        if any(term in current and term not in replacement for term in preferred):
+            dropped.append(f"{identifier}: glossary regression")
+            continue
+        kept.append(finding)
+    return kept, dropped
+
+
 def run_fidelity_gate(
     number: int,
     source: str,
@@ -1046,8 +1091,10 @@ def run_fidelity_gate(
     deterministic_qa: dict,
     paths: dict[str, Path],
     baseline: str | None = None,
+    glossary: list[dict] | None = None,
 ) -> dict:
     """Run one bounded semantic review after BASE/SOL assembly."""
+    glossary = glossary if glossary is not None else exact_glossary(source)
     baseline_section = ""
     if baseline is not None:
         baseline_section = f"""
@@ -1057,8 +1104,9 @@ def run_fidelity_gate(
 This is the accepted English copy before mastering. Use it as a regression
 anchor: report a finding when the assembled copy loses an established term,
 source-specific image, formatting convention, continuity fact, or other detail
-that the baseline preserved, unless the Korean source clearly requires the
-change.
+that the baseline preserved, unless the Korean source, RULES.md, or the exact
+glossary requires the change. Exact glossary English wins over an older baseline
+synonym for the same Korean key.
 
 ```markdown
 {format_numbered_baseline(baseline)}
@@ -1072,6 +1120,9 @@ causality, quantity, mechanism, terminology, ambiguity, joke logic, register,
 or physical detail. Check repeated UI labels and counters against how they
 behave across the whole scene. Interpret idioms by their function, not by
 translating their component words. Do not report optional stylistic rewrites.
+Do not invent `current` spans that are absent from the assembled English.
+Do not report a glossary-correct rendering as a defect merely because the
+baseline used an older synonym.
 
 Return exactly one JSON object and no Markdown fence:
 
@@ -1106,6 +1157,12 @@ finding blocks promotion; minor findings are recorded for human inspection.
 {format_numbered_baseline(final)}
 ```
 {baseline_section}
+
+## Exact glossary matches
+
+These English spellings are binding for the matched Korean keys.
+
+{glossary_text(glossary)}
 
 ## Deterministic QA
 
@@ -1154,6 +1211,7 @@ finding blocks promotion; minor findings are recorded for human inspection.
     )
     return value
 
+
 def apply_fidelity_repairs(
     text: str, review: dict, min_confidence: float
 ) -> tuple[str, int]:
@@ -1164,6 +1222,7 @@ def apply_fidelity_repairs(
     ]
     if not findings:
         return text, 0
+    applicable: list[dict] = []
     for finding in findings:
         replacement = finding["replacement"]
         if re.search(r"\[Showing lines\b.*\bUse :\d+ to continue\]", replacement, re.I):
@@ -1175,23 +1234,25 @@ def apply_fidelity_repairs(
                 f"finding {finding['id']} replacement contains an ASCII truncation marker"
             )
         if finding["current"] not in text:
-            raise ValueError(
-                f"finding {finding['id']} current text not found in assembled chapter"
-            )
+            # Caller should already filter these; skip rather than hard-fail the round.
+            continue
+        applicable.append(finding)
+    if not applicable:
+        return text, 0
     try:
         from tools.model_io import apply_review_replacements
     except ModuleNotFoundError:
         from model_io import apply_review_replacements
-    repaired = normalize_chapter(apply_review_replacements(text, {"findings": findings}))
+    repaired = normalize_chapter(apply_review_replacements(text, {"findings": applicable}))
     missing = [
         str(finding["id"])
-        for finding in findings
+        for finding in applicable
         if finding["current"] != finding["replacement"] and finding["current"] in repaired
     ]
     if missing:
         raise ValueError("fidelity repairs did not apply: " + ", ".join(missing))
     applied = sum(
-        1 for finding in findings if finding["current"] != finding["replacement"]
+        1 for finding in applicable if finding["current"] != finding["replacement"]
     )
     return repaired, applied
 
@@ -1226,7 +1287,13 @@ def command_qa(number: int) -> None:
             break
         try:
             fidelity = run_fidelity_gate(
-                number, source, final, qa, p, baseline=read_text(p["baseline"])
+                number,
+                source,
+                final,
+                qa,
+                p,
+                baseline=read_text(p["baseline"]),
+                glossary=glossary,
             )
         except ValueError as error:
             step(
@@ -1247,6 +1314,16 @@ def command_qa(number: int) -> None:
             )
             step("verify", facts=["QA FAIL", "invalid fidelity output"])
             return
+        kept, dropped = filter_fidelity_findings(final, fidelity.get("findings", []), glossary)
+        if dropped:
+            step(
+                "fidelity",
+                f"ignored {len(dropped)} invalid",
+                note="; ".join(dropped[:6]),
+                facts=[f"round {round_index + 1}/{max_rounds}"],
+            )
+        fidelity = {**fidelity, "findings": kept}
+        atomic_json(p["fidelity_review"], fidelity)
         blocking = [
             item for item in fidelity["findings"]
             if item["severity"] in {"major", "critical"}
@@ -1292,8 +1369,25 @@ def command_qa(number: int) -> None:
         if round_index == max_rounds - 1 and qa["passed"]:
             try:
                 fidelity = run_fidelity_gate(
-                    number, source, final, qa, p, baseline=read_text(p["baseline"])
+                    number,
+                    source,
+                    final,
+                    qa,
+                    p,
+                    baseline=read_text(p["baseline"]),
+                    glossary=glossary,
                 )
+                kept, dropped = filter_fidelity_findings(
+                    final, fidelity.get("findings", []), glossary
+                )
+                if dropped:
+                    step(
+                        "fidelity",
+                        f"ignored {len(dropped)} invalid",
+                        note="; ".join(dropped[:6]),
+                    )
+                fidelity = {**fidelity, "findings": kept}
+                atomic_json(p["fidelity_review"], fidelity)
             except ValueError as error:
                 update_state(
                     p,
