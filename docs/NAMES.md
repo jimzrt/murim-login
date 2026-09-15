@@ -538,3 +538,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 울대리 | **Uldae-ri** | Village where the reported F-rank Gate appeared. |
 | 노스트라다무스 | **Nostradamus** | Referenced as someone who could not predict Gate formation. |
 | 고블린 | **goblin** | Monster species reported at the F-rank Gate. |
+| 황철수 | **Hwang Cheol Soo** | B-rank public-service Hunter and tollgate team leader. |
+| 박 씨 | **Mr. Park** | Taxi driver rescued by Taekyung; surname address form. |
+| 오우거 | **ogre** | B-rank monster species emerging from the Gate. |

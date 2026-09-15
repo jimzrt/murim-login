@@ -1,16 +1,16 @@
 # Translation State
 
-- Last completed: 206
-- Next chapter: 207
-- Current block: 205–209 (2/5)
-- Latest translation: `translations/0206.md`
-- Latest summary: `summaries/beats/0206.md`
-- Safe profiles through: chapter 206
+- Last completed: 207
+- Next chapter: 208
+- Current block: 205–209 (3/5)
+- Latest translation: `translations/0207.md`
+- Latest summary: `summaries/beats/0207.md`
+- Safe profiles through: chapter 207
 
 ## Current Block
 
-- After logging out of the Murim, Taekyung awakens in his new home to a feast of ramen prepared by Seong Jinho. Jinho reveals that he secretly hid inside Taekyung's capsule after his college friend Kim Jong-su absconded with his five-million-won housing deposit. Taekyung refuses to let Jinho stay in the family house while it is being remodeled, instead arranging for them to live together in the Guild-provided officetel.
-- During Taekyung's mid-September taxi commute, a radio reports an F-rank Gate in Yangju City that has caused six casualties and released goblins. Taekyung then hears a crash, uses his enhanced senses, and realizes that a crumpled car is flying toward his taxi.
+- An unidentified black sphere crashes toward a taxi on a congested morning commute, but Jin Taekyung rescues the driver, Mr. Park, and orders him to flee and warn others that a Gate has opened. The Gate appears on the roadway and releases B-rank ogres while civilians abandon their cars and run. The System forcibly accepts Taekyung's Peak-Grade Gate Suppression Quest, requiring him to minimize casualties and eliminate the monsters.
+- At the tollgate, B-rank Hunter Hwang Cheol Soo's team of two B-rank and fifteen C-rank Hunters is quickly overwhelmed by the ogres. The Gate widens and increases the ogre force to ten, causing Hwang to consider a strategic retreat. Taekyung arrives, kills an ogre with a ranged spear attack, warns the Hunters not to steal his EXP, and kills another ogre at close range with a dagger while receiving System notifications for defeating Lv.84 and Lv.83 ogres.
 
 ## Open Questions
 
@@ -19,18 +19,18 @@
 - What event does Jeok Cheongang believe may occur sooner than expected, and why must he endure for several more years?
 - What is the true condition of the absent Martial God?
 - Will Taekyung attend the Star-Array Grand Banquet, and what exactly was the answer that changed the three men's expressions?
-- How will Taekyung respond to the car flying toward his taxi?
+- What are the Reward and Failure conditions of the Gate Suppression Quest?
+- How will the Gate near Hwang Cheol Soo's tollgate ultimately be contained, and what further monsters may emerge?
 
 ## Exceptional Decision
 
 - Render 혈도 타통 as “Acupoint Opening.”
 - Render 회음혈 as “Huiyin Acupoint.”
 - Render 임맥 타통 as “Conception Vessel Opening.”
-- Render 화령초 as “Fire Spirit Grass,” 홍화초 as “Red Flower Grass,” and 염적초 as “Flame Red Grass.”
-- Render 탁기 as “turbid qi.”
 - Render 성라대연 as “Star-Array Grand Banquet.”
 - Render 노야 as “Old Master” when Taekyung addresses Jeok Cheongang privately.
 - Render 고시원 as “goshiwon” and 오피스텔 as “officetel.”
+- Render 오우거 as “ogre” and 게이트 진압 as “Gate Suppression.”
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
