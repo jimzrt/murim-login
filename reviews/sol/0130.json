@@ -1,0 +1,106 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“……He’s got good ears. Fine, just come sit down.”",
+      "defect": "The draft changes the implied subject from Cheongpung, whom the porter is addressing, to a third-person remark about him.",
+      "id": "F01",
+      "rationale": "귀가 밝구먼 directly comments on Cheongpung’s sharp hearing before telling him to come sit down.",
+      "replacement": "“……You’ve got sharp ears. Fine, just come sit down.”",
+      "severity": "critical",
+      "source": "“……귀가 밝구먼. 알았으니까 와서 앉기나 하게.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“How have you lasted nearly a month with someone like him beside you?”",
+      "defect": "The draft reverses the duration: 달포 is a little over a month, not less than one month.",
+      "id": "F02",
+      "rationale": "달포 denotes a period slightly longer than a month, while “nearly a month” denotes less than a month.",
+      "replacement": "“How have you lasted over a month with someone like him beside you?”",
+      "severity": "critical",
+      "source": "“어떻게 이런 놈을 옆에 끼고 달포씩이나 버티셨소?”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“What the hell is he doing?”",
+      "defect": "The porter is asking what kind of person Cheongpung is, not what activity he is currently performing.",
+      "id": "F03",
+      "rationale": "뭐 하는 놈 in this context questions Cheongpung’s character or background after his bizarre reply.",
+      "replacement": "“What kind of guy is he?”",
+      "severity": "major",
+      "source": "“저거 뭐 하는 놈입니까?”"
+    },
+    {
+      "confidence": 0.95,
+      "current": "“I thought it was fun.”",
+      "defect": "The declarative English loses the contrasting, mildly puzzled response conveyed by -는데요.",
+      "id": "F04",
+      "rationale": "Cheongpung is casually contradicting their assumption that his life must have been difficult, and that pragmatic contrast is part of the humor.",
+      "replacement": "“But I had fun.”",
+      "severity": "major",
+      "source": "“전 재밌었는데요?”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Yes. I ended up making a wasted trip somehow, but I don’t mind it even now. This escort work is pretty interesting, too.”",
+      "defect": "The draft makes 지금도 나쁘지 않아요 mean that Cheongpung still does not mind the wasted trip; the source says his present circumstances are not bad despite that wasted trip.",
+      "id": "F05",
+      "rationale": "지금도 refers to his current situation, which he immediately illustrates by saying that escort work is interesting.",
+      "replacement": "“Yes. It turned out to be a wasted trip, but… things aren’t bad now, either. This escort work is pretty interesting, too.”",
+      "severity": "major",
+      "source": "“네. 어쩌다 보니 헛걸음을 하게 됐는데…… 지금도 나쁘지 않아요. 표행이란 것도 상당히 재밌어요.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Besides, he had lived in the mountains his entire life as the son of a slash-and-burn farmer. It made sense that he would feel this way.",
+      "defect": "The draft invents a parent-child identity. The source says Seokchil believes Cheongpung himself comes from a slash-and-burn farming background, not specifically that his parent was such a farmer.",
+      "id": "F06",
+      "rationale": "화전민 출신 identifies Cheongpung’s presumed background; it does not identify his father or mother.",
+      "replacement": "Besides, he had lived in the mountains his entire life and came from a slash-and-burn farming community. It made sense that he would feel this way.",
+      "severity": "critical",
+      "source": "더군다나 평생 산에서 살아온 화전민 출신이니 그럴 법도 하다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Cheongpung pulled a yellowish bamboo slip from inside his clothes and handed it over.",
+      "defect": "The draft changes the physical action from showing the contract to handing it over.",
+      "id": "F07",
+      "rationale": "보여 줬다 means he displayed or showed the slip; the source reserves an explicit handing-over action for the silver ingots later.",
+      "replacement": "Cheongpung pulled a yellowish bamboo slip from inside his clothes and showed it to them.",
+      "severity": "critical",
+      "source": "청풍이 품에서 누리끼리한 죽간 하나를 꺼내어 보여 줬다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Does it mean I have to pay with my body?”",
+      "defect": "The literal wording introduces a strong sexual implication absent from the Korean euphemism.",
+      "id": "F08",
+      "rationale": "몸으로 때우다 here means discharging the debt through labor or bodily service rather than paying money; it is not a sexual proposition.",
+      "replacement": "“Does it mean I’d have to work it off?”",
+      "severity": "major",
+      "source": "“혹시 몸으로 때우라는?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "It was then that Seokchil’s eyes nearly rolled back in his head.",
+      "defect": "The draft renders the Korean anger idiom as a literal physical symptom suggestive of fainting or seizure.",
+      "id": "F09",
+      "rationale": "눈이 뒤집히다 in this context means becoming enraged or losing control, not literally rolling one’s eyes backward.",
+      "replacement": "It was just then, as Seokchil was about to snap.",
+      "severity": "major",
+      "source": "석칠의 눈이 뒤집힌 그때였다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“When I left home, my family gave me some traveling money.”",
+      "defect": "The draft supplies Cheongpung’s family as the giver even though the source deliberately omits who gave him the money.",
+      "id": "F10",
+      "rationale": "받았거든요 states only that Cheongpung received the money. The following narration speculates about his household, so the dialogue should not prematurely resolve the giver.",
+      "replacement": "“I was given some traveling money when I left home.”",
+      "severity": "critical",
+      "source": "“집 나오면서 노잣돈을 좀 받았거든요.”"
+    }
+  ],
+  "summary": "The draft contains several altered subjects, quantities, actions, and implied identities, along with a euphemism made misleadingly explicit.",
+  "version": 1
+}
