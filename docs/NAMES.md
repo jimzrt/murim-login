@@ -266,3 +266,16 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 매구 | **Maegu** | Waiter's shortened name for Maechae Guyuk. |
 | 매채구육 | **Maechae Guyuk** | Pork belly with preserved mustard greens; the abbreviation is explained in a footnote. |
 | 개방 | **Beggars' Sect** | Murim organization counted among the Nine Sects and One Gang. |
+| 우진태 | **Woo Jintae** | Heir of the Seongun Escort Bureau and host of the Five Gates scions. |
+| 우 소협 | **Young Hero Woo** | Honorific address for Woo Jintae. |
+| 황 소저 | **Young Lady Hwang** | Honorific address for an unidentified young woman who is the only daughter of a martial sect. |
+| 혁 아우 | **Little Brother Hyuk** | Familiar address for an otherwise unnamed male scion who calls Woo Jintae hyung. |
+| 국주님 | **Chief** | Honorific title for the head of an Escort Bureau. |
+| 촉금 | **Shu brocade** | Fine brocade brought from Sichuan. |
+| 삼도문 | **Samdo Sect** | One of the five former Five Gates sects annihilated at Eight Spring Gorge. |
+| 궁귀문 | **Gunggui Sect** | One of the five former Five Gates sects annihilated at Eight Spring Gorge. |
+| 성룡이 | **Seongryong** | Name shown in a Level Window; one of the five current Five Gates scions. |
+| 천우 | **Cheonwoo** | Name shown in a Level Window; one of the five current Five Gates scions. |
+| 명화 | **Myeonghwa** | Name shown in a Level Window; one of the five current Five Gates scions. |
+| 소혜 | **Sohye** | Name shown in a Level Window; one of the five current Five Gates scions. |
+| 진태 | **Jintae** | Level 45 spokesman for the five current Five Gates scions. |
