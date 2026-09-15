@@ -1,0 +1,106 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "At Jangcheon’s faint smile, Jeok Cheongang found himself unable to speak. He felt neither anger nor betrayal. Something merely welled up from deep within his heart and left him numb.",
+      "defect": "The draft renders 먹먹해졌다 as emotional numbness, but it describes Jeok Cheongang becoming choked up or overwhelmed as something rises within him.",
+      "id": "F01",
+      "rationale": "The source emphasizes an emotion rising until he is too choked up to speak, not an absence or deadening of feeling.",
+      "replacement": "At Jangcheon’s faint smile, Jeok Cheongang found himself unable to speak. He felt neither anger nor betrayal. Something simply welled up from deep within him and left him choked up.",
+      "severity": "major",
+      "source": "빙긋 웃는 장천의 모습에 적천강은 말문이 막혔다. 분노도, 배신감도 들지 않았다. 그저 마음 깊숙한 곳에서 뭔가가 치밀어 올라 먹먹해졌다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "The fact that the Azure Sky Sword King had come in person meant that every suspicion and piece of evidence had already been assembled. But that alone was not enough.",
+      "defect": "“Every suspicion and piece of evidence” obscures the explicit evidentiary distinction between 심증 and 물증.",
+      "id": "F02",
+      "rationale": "심증과 물증 distinguishes the circumstantial case from material or physical evidence rather than referring to suspicions generically.",
+      "replacement": "The fact that the Azure Sky Sword King had come in person meant that all the circumstantial and physical evidence was already in hand. But that alone was not enough.",
+      "severity": "minor",
+      "source": "창천검왕이 직접 찾아왔다는 것은 이미 모든 심증과 물증이 갖춰져 있다는 뜻이었지만, 그것으로는 부족했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Maybe the Nangong Family and the Azure Sky Sword King had simply identified the wrong person.",
+      "defect": "The draft turns a mistaken judgment of Jangcheon’s character into a mistaken identification of the culprit.",
+      "id": "F03",
+      "rationale": "사람을 잘못 보다 here means to judge someone incorrectly; the following exchange confirms that Jeok Cheongang, not the Nangong Family, was the one who had misjudged Jangcheon.",
+      "replacement": "Maybe the Nangong Family and the Azure Sky Sword King had simply misjudged him.",
+      "severity": "major",
+      "source": "문득 그런 생각이 들더군. 뭔가 착오가 있었던 것이 아닐까, 어쩌면 남궁세가와 창천검왕이 사람을 잘못 본 것이 아닐까 하는."
+    },
+    {
+      "confidence": 0.99,
+      "current": "I think you may have mistaken the person, Sir Jeok.",
+      "defect": "The wording repeats the mistaken-identity error and loses Taekyung’s pointed reversal of Jeok Cheongang’s claim.",
+      "id": "F04",
+      "rationale": "Taekyung is saying that Jeok Cheongang misjudged Jangcheon’s nature, creating a direct ironic echo of the preceding line.",
+      "replacement": "I think you’re the one who misjudged him, Sir Jeok.",
+      "severity": "major",
+      "source": "제 생각엔 적 대협께서 사람을 잘못 보신 것 같은데요."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Jeok Cheongang silently lifted the bottle of liquor to his lips.",
+      "defect": "The draft omits the completed action of drinking directly and heavily from the bottle.",
+      "id": "F05",
+      "rationale": "병째로 들이켰다 means he gulped the liquor directly from the bottle, not merely that he raised it to his lips.",
+      "replacement": "Jeok Cheongang silently tipped back the bottle and drank straight from it.",
+      "severity": "minor",
+      "source": "적천강은 말없이 화주를 병째로 들이켰다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "The timing was perfect. You were busy training, so you left me alone, and thanks to that, I could run wild.",
+      "defect": "“Left me alone” softens 방관하셨고, losing Jangcheon’s accusation that his Master neglected him or stood by without paying attention.",
+      "id": "F06",
+      "rationale": "방관 carries blame for neglect or passive disregard, while 마음껏 explicitly emphasizes that Jangcheon acted as freely as he pleased.",
+      "replacement": "The timing was perfect. You happened to be so absorbed in your training that you neglected me, and thanks to that, I could run wild to my heart’s content.",
+      "severity": "major",
+      "source": "시기가 좋았습니다. 때마침 사부님께서는 수련에 힘쓰시느라 저를 방관하셨고, 덕분에 마음껏 활개 칠 수 있었으니까요."
+    },
+    {
+      "confidence": 0.98,
+      "current": "No matter how much liquor I drank at the pleasure house or how many women I embraced, I couldn’t get rid of that feeling.",
+      "defect": "The draft adds an unspecified multiplicity of women that is absent from the source.",
+      "id": "F07",
+      "rationale": "여인을 안아도 refers generically to embracing a woman, while 술을 진탕 마시고 supplies the excess associated with drinking.",
+      "replacement": "Even after drinking myself senseless at a pleasure house and embracing a woman, I couldn’t get rid of that feeling.",
+      "severity": "minor",
+      "source": "기루에서 술을 진탕 마시고 여인을 안아도 그 느낌을 지울 수 없었습니다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Your Sinews and Meridians. And then?”",
+      "defect": "Jangcheon incorrectly refers to his Master’s Sinews and Meridians rather than his own, reversing the target of the threatened punishment.",
+      "id": "F08",
+      "rationale": "Jeok Cheongang has just threatened to sever Jangcheon’s 근맥, and Jangcheon repeats the threatened punishment before asking what comes next.",
+      "replacement": "“My Sinews and Meridians. And then?”",
+      "severity": "critical",
+      "source": "‘네 근맥을 자를 것이다.’\n\n‘근맥이라. 그리고요?’"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Then why haven’t you killed me yet?",
+      "defect": "The draft loses both the immediacy of 당장 and the forceful physical register of 쳐 죽이다.",
+      "id": "F09",
+      "rationale": "Jangcheon is provocatively demanding to know why Jeok Cheongang does not kill him on the spot, using deliberately forceful language.",
+      "replacement": "“Then why don’t you strike me dead right now?",
+      "severity": "minor",
+      "source": "‘한데 왜 저를 당장 쳐 죽이지 않으십니까?"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“That bow I just gave you… was my final farewell. I’ll leave by this road. I’ll go far away and never return.”",
+      "defect": "“Leave by this road” is a literal Korean-syntax calque; 이 길로 here means that he will leave immediately or directly from there.",
+      "id": "F10",
+      "rationale": "The source announces Jangcheon’s immediate departure rather than identifying a literal road or route.",
+      "replacement": "“That bow I just gave you… was my final farewell. I’m leaving now. I’ll go far away and never return.”",
+      "severity": "minor",
+      "source": "‘방금 드린 절은…… 제 마지막 인사입니다. 저는 이 길로 떠나겠습니다. 멀리 떠나서 다시 돌아오지 않겠습니다.’"
+    }
+  ],
+  "summary": "One critical subject reversal and several meaningful losses of mechanism, characterization, intimacy, and register.",
+  "version": 1
+}
