@@ -2,6 +2,7 @@
 
 interface ImportMetaEnv {
   readonly PUBLIC_REPORT_LINE_URL?: string;
+  readonly MURIM_ROOT: string;
 }
 
 declare namespace astroHTML.JSX {

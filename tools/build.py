@@ -108,6 +108,7 @@ def build_html(output: Path, selected: list[int] | None) -> list[Path]:
     html_root = output / "html"
     env = os.environ.copy()
     env["ASTRO_OUT_DIR"] = str(html_root.resolve())
+    env["MURIM_ROOT"] = str(ROOT.resolve())
     if selected:
         env["MURIM_CHAPTERS"] = ",".join(str(number) for number in selected)
     else:
