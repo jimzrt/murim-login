@@ -2,7 +2,7 @@
 
 The way to tell the modern world apart from Murim is, oddly enough, by smell and temperature.
 
-The smell of sweat inside a VR helmet. The heat inside a capsule warmed just right by sunlight streaming through the window.
+The smell of sweat inside a VR helmet. The heat of a capsule warmed by sunlight streaming through the window.
 
 “Phew.”
 
@@ -22,7 +22,7 @@ I had spent around twenty days in Murim, so the timing roughly matched what had 
 
 *Now that I’m back in the modern world, the time ratio must have reversed.*
 
-With Logout complete, ten days in the modern world amounted to one hour in Murim. I washed up in the goshiwon’s[^1] communal shower and returned to my room.
+While I was logged out, ten days in the modern world amounted to one hour in Murim. I washed up in the goshiwon’s[^1] communal shower and returned to my room.
 
 Just as I was about to close the door, a black shadow sprang up.
 
@@ -34,11 +34,11 @@ Knew it. Of course it was Seong Jinho.
 
 “…What’s with that reaction? You knew I was here?”
 
-“Your inhales and exhales were extremely intense. Mr. Jinho, were you excited?”
+“Your breathing was pretty heavy. Were you getting excited, Jinho?”
 
 My five senses had grown sharper with each passing day. I could pick up the sounds and movements around me without even using Qi Sense.
 
-He seemed to have been keeping his breathing quiet as he waited, but to my ears, every tiny movement and breath he made sounded like thunder.
+He seemed to have been holding his breath while he waited, but to my ears, every tiny movement and breath he made sounded like thunder.
 
 “Try breathing a little more quietly. You’re supposed to be the goshiwon manager. It’d be a problem if people started filing noise complaints about you.”
 
@@ -46,25 +46,25 @@ He seemed to have been keeping his breathing quiet as he waited, but to my ears,
 
 “Listen to you. Making fun of me for being F-rank has really become a habit.”
 
-“Hey, wait until you’re my age. I can’t even remember what side dishes I ate yesterday. You think something that happened barely a week ago is going to pop right into my head?”
+“Hey, wait until you’re my age. I can’t even remember what side dishes I ate yesterday. You think something that happened a whole week ago is going to pop right into my head?”
 
 “A week?”
 
 Was that really all the time that had passed?
 
-To me, it had been well over a month. To Jinho-hyung, it had happened just last week. I felt a subtle sense of disconnect.
+To me, it had been well over a month. To Jinho-hyung, it had happened just last week. The disconnect felt strange.
 
 “Hey. What’s with that look? Is something wrong?”
 
 “Nothing’s wrong. Anyway, what brings you here?”
 
-“Listen to the way you talk. Are we in some kind of business relationship where we only see each other when there’s business involved?”
+“Listen to the way you talk. Are we in some kind of business relationship where we only see each other when one of us needs something?”
 
-“Just get to the point. Keep it short.”
+“Get to the point. Keep it short.”
 
 Jinho-hyung’s face hardened. Had I taken the teasing too far?
 
-Come to think of it, I had been too indifferent lately. Even before returning to Murim, I hadn’t been able to see him often because of all sorts of problems…
+Come to think of it, I had been pretty distant lately. Even before returning to Murim, I hadn’t seen him much because of one problem after another…
 
 “Buy me dinner.”
 
@@ -76,15 +76,15 @@ Shit. Of course.
 
 And he even had the nerve to choose the menu himself.
 
-“Did you leave money with me?”
+“Did I leave money with you?”
 
-“Your money is my money. And my money is my money, isn’t it?”
+“Your money is my money. And my money is mine, isn’t it?”
 
-“Pronounce that properly. Unless you want a taste of a C-rank Hunter’s fist.”
+“Say that again clearly. Unless you want a taste of a C-rank Hunter’s fist.”
 
 Jinho-hyung flinched and rubbed his palms together.
 
-“Please, sir. Use your money to grease my parched stomach.”
+“Please, sir. Use your money to grease my poor, parched stomach.”
 
 “…”
 
@@ -94,7 +94,7 @@ It was ridiculous, but a quiet laugh escaped me. My stomach had also been scream
 
 *Let’s eat something decent for once.*
 
-I spoke in a solemn voice.
+I spoke solemnly.
 
 “I approve of your attitude. Lead the way.”
 
@@ -114,8 +114,6 @@ Jinho-hyung’s eyes widened.
 
 “If you don’t like it, starve.”
 
-Thump.
-
 Jinho-hyung grabbed my shoulder and declared with a solemn expression, “I’ve always wanted to try it.”
 
 Our early dinner began at five that afternoon and ended at a makgeolli bar on our third round. By then, Jinho-hyung was completely plastered.
@@ -124,7 +122,7 @@ Our early dinner began at five that afternoon and ended at a makgeolli bar on ou
 
 “…”
 
-I had seen this scene somewhere before.
+I had seen this somewhere before.
 
 As a strange sense of déjà vu came over me and I hoisted Jinho-hyung onto my back, my phone rang.
 
@@ -144,7 +142,7 @@ The downside—and upside—of Sleep Mode was that it reduced how much sleep I n
 
 Three in the morning.
 
-I woke up in peak condition and sat cross-legged. At some point, circulating my qi had become how I began and ended every day.
+I woke in peak condition and sat cross-legged. At some point, circulating my qi had become how I began and ended every day.
 
 Whoosh.
 
@@ -180,7 +178,7 @@ Jinho-hyung watched me with an appalled expression.
 
 “I’ve never seen anyone do one-arm push-ups as easily as you. How many have you done?”
 
-“I don’t know. I counted to three hundred, then got too lazy to keep counting.”
+“I don’t know. I counted to three hundred, then got too lazy to keep track.”
 
 “You’re a monster. Is that normal for a C-rank Hunter?”
 
@@ -190,13 +188,13 @@ Jinho-hyung watched me with an appalled expression.
 
 “Why are you here?”
 
-Jinho-hyung had shown up about ten minutes earlier looking haggard, and he still hadn’t left my room.
+Jinho-hyung had shown up ten minutes earlier looking haggard, and he still hadn’t left my room.
 
 “Can’t you tell? I came to eat ramen.”
 
-Tap tap. Ssshhk.
+Tap, tap. Ssshhk.
 
-The way he dropped a raw egg onto the almost-cooked noodles looked completely natural.
+With practiced ease, he cracked a raw egg over the noodles just as they finished cooking.
 
 His control of the burner flame to leave the egg perfectly runny was worthy of a Peak master.
 
@@ -204,13 +202,13 @@ His control of the burner flame to leave the egg perfectly runny was worthy of a
 
 “First, there’s no TV in my room. Second, there’s a TV in your room. Third, ramen tastes best when you eat it while watching TV.”
 
-He rattled it all off without hesitation, and my blood started boiling.
+The answers rolled off his tongue without a moment’s hesitation, making my blood boil.
 
-“Just buy one! If you don’t have the money, just take mine!”
+“Then buy one! If you don’t have the money, just take mine!”
 
-“Ah, I’d rather not. I’m leaving soon anyway. Why bother adding to my luggage?”
+“Eh, I’d rather not. I’m leaving soon anyway. Why bother adding to my luggage?”
 
-“Then stop coming in and out of here and bothering me… Huh? What did you just say?”
+“Then stop barging in here and bothering me… Huh? What did you just say?”
 
 “What?”
 
@@ -220,35 +218,33 @@ He rattled it all off without hesitation, and my blood started boiling.
 
 Jinho-hyung scratched his matted hair.
 
-“It just worked out that way. The date isn’t set yet, but I’m planning to move out soon. I can’t stay holed up here forever.”
+“It just worked out that way. I haven’t set an exact date, but I’m planning to move out soon. I can’t stay holed up here forever.”
 
 “…”
 
 “Why are you looking at me like that?”
 
-“No, it’s nothing.”
+“No reason.”
 
 I awkwardly looked away.
 
 Who lived in a goshiwon without a story of their own? I had mine, and Jinho-hyung had his. It would be rude to pry.
 
-*Still, it’s a shame.*
+*Still, I’m going to miss him.*
 
 He was someone I’d spent years with, like a friend and a brother. And now he was leaving so suddenly.
 
-Caught up in complicated feelings, I cautiously opened my mouth.
-
-“Hyung, by any chance…”
+Caught up in a tangle of emotions, I cautiously began, “Hyung, if…”
 
 “I know how you feel, but I respectfully decline.”
 
-Had he realized what I was going to say? Jinho-hyung cut me off decisively and continued.
+Had he realized what I was about to say? Jinho-hyung cut me off without hesitation.
 
 “Kid, I’m thirty years old. I can take care of my own bowl.”
 
 “Then there’s nothing I can do.”
 
-I’d thought I could probably live with Jinho-hyung, but sticking my nose in too soon seemed to have pricked his pride.
+I’d thought I could live with Jinho-hyung, but sticking my nose in where it didn’t belong must have wounded his pride.
 
 His face scrunched up as he lifted the lid off the pot.
 
@@ -256,23 +252,23 @@ His face scrunched up as he lifted the lid off the pot.
 
 “What are you talking about? You never had any intention of it.”
 
-“What nonsense. I only cooked one because you said you weren’t eating.”
+“What kind of nonsense is that? I only cooked one because you said you weren’t eating.”
 
 “…?”
 
-Wait a second. How had the conversation ended up here?
+Wait. How had the conversation ended up here?
 
-After several seconds of silence, I finally asked, “What are you talking about? What’s this about cooking something all of a sudden?”
+After several seconds of silence, I finally asked, “What are you talking about? What’s this about cooking all of a sudden?”
 
-“Obviously, ramen.”
+“The ramen, obviously.”
 
 Jinho-hyung glared at me menacingly.
 
-“There’s always someone who says he isn’t eating, then asks for a chopstickful when you cook it well. How many times have I fallen for that one with you?”
+“There’s always someone who says he isn’t hungry, then asks for a bite as soon as the ramen turns out well. How many times do you think I’ve fallen for that with you?”
 
 “…”
 
-“So a C-rank Hunter reaches into his poor hyung’s bowl? Are you even human?”
+“You’re a C-rank Hunter, and you still reach into your poor hyung’s bowl? Are you even human?”
 
 “…”
 
@@ -288,7 +284,7 @@ Ashamed of myself, I threw on some clothes. It was almost time to meet Team Lead
 
 Bang!
 
-I slammed the door hard enough to break it and left. One last shout rang out behind me.
+I slammed the door behind me as hard as I could. One final shout rang out from inside.
 
 “If you’re going to the supermarket, get some kimchi!”
 
@@ -298,15 +294,15 @@ Ah, I wanted to kill him.
 
 *Where was the place again?*
 
-I dredged up my memories from about twenty days ago and arrived at the meeting place.
+I dredged up my memories from about twenty days ago and found the meeting place.
 
-It was a large café in the heart of a forest of skyscrapers. A handsome man sitting by the window spotted me and waved.
+It was a large café surrounded by downtown high-rises. A handsome man sitting by the window spotted me and waved.
 
 “Over here.”
 
-I didn’t need him to say anything. There were dozens of tables in the café, yet Team Leader Choi was the only customer sitting inside.
+I didn’t need him to say anything. There were dozens of tables in the café, yet Team Leader Choi was the only customer inside.
 
-*He’s still handsome.*
+*Still handsome, I see.*
 
 Dressed in a lightweight casual suit, Team Leader Choi looked as though he had just stepped out of a fashion shoot. A successful man in his twenties who had everything: looks, money, personality…
 
@@ -320,13 +316,13 @@ After exchanging a brief handshake, we sat down.
 
 Team Leader Choi tilted his head.
 
-“Really? You seem to have eaten ramen.”
+“Really? It smells like you ate ramen.”
 
 “…”
 
 Damn it. This bastard had a bloodhound’s nose.
 
-It was too embarrassing to explain the whole story about what had happened at the goshiwon, so I hurriedly changed the subject.
+It was too embarrassing to explain the whole story of what had happened at the goshiwon, so I hurriedly changed the subject.
 
 “It’s lunchtime, but no one’s here.”
 
@@ -334,15 +330,15 @@ It was too embarrassing to explain the whole story about what had happened at th
 
 “What?”
 
-“The windows are covered with curtains, and there’s a ‘Closed’ sign on the door. Of course no one’s coming in.”
+“The windows are covered with curtains, and there’s a Closed sign on the door. Of course no one’s coming in.”
 
 I looked around. Sure enough, everything was exactly as Team Leader Choi had described.
 
-I had assumed the café would be open since it was the meeting place, so I hadn’t noticed. The whole situation was so strange that I blinked.
+I had assumed the café would be open since it was our meeting place, so I hadn’t noticed. The situation was so strange that I could only blink.
 
 “But you’re open right now.”
 
-The lights inside were bright, and the air-conditioning kept the place cool. I could glimpse at least ten employees, so why had they closed the door?
+The lights were on, the air-conditioning kept the place cool, and I could see at least ten employees. Why had they closed the doors?
 
 Team Leader Choi answered calmly.
 
@@ -360,9 +356,11 @@ Right. I’d figured as much.
 
 Thinking back, the café had also been empty except for the two of us the last time we met.
 
-*I keep digging, and the hole never ends.*
+*The deeper I dig, the more there is.*
 
-I said in amazement, “Team Leader, you have a lot of money.”
+I clicked my tongue.
+
+“Team Leader, you have a lot of money.”
 
 “I have enough that I don’t need to worry about running short. That’s why I can put a contract like this in front of you.”
 
@@ -374,7 +372,7 @@ There was no reason to hesitate any longer. I nodded firmly.
 
 “Let’s.”
 
-An hour later, just as I finished adding my final signature, the System alert rang out.
+An hour later, just as I finished signing the final page, the System alert rang out.
 
 Ding.
 

@@ -1,0 +1,391 @@
+# Chapter 75
+
+The way to tell the modern world apart from Murim is, oddly enough, by smell and temperature.
+
+The smell of sweat inside a VR helmet. The heat inside a capsule warmed just right by sunlight streaming through the window.
+
+“Phew.”
+
+Once I took off the helmet and climbed out of the capsule, I finally felt like I could breathe. It was still only the difference between a scalding bath and a hot bath, though.
+
+*How much time has passed?*
+
+I checked the watch on my wrist. The cheap twelve-thousand-won digital watch I had bought from a street stall in front of the Hunter training center about seven years ago had the advantage of coming with an alarm and stopwatch function.
+
+Beep.
+
+[02:05:35]
+
+Two hours, five minutes, and thirty-five seconds.
+
+I had spent around twenty days in Murim, so the timing roughly matched what had happened last time.
+
+*Since I came to the modern world, the time ratio must have been reversed.*
+
+Now that I had logged out, ten days in the modern world amounted to one hour in Murim. I washed myself in the communal shower of the goshiwon[^1] and returned to my room.
+
+Just as I was about to close the door, a black shadow shot upward.
+
+“Wah!”
+
+Of course. It was Seong Jinho.
+
+“Oh. My. God. What a surprise.”
+
+“……What’s with that reaction? You knew I was here?”
+
+“Your inhaling and exhaling were extremely intense. Mr. Jinho, were you excited?”
+
+My five senses had grown sharper with each passing day. I could pick up every sound and movement around me without even using Qi Sense.
+
+He seemed to have been waiting in silence, but to my ears, every tiny movement and breath he made sounded like thunder.
+
+“Breathe a little more quietly. You’re supposedly the goshiwon manager, so it would be a problem if people filed complaints because your breathing was too loud.”
+
+“Damn it. How did you know? You’re just an F-rank Hunter…… Oh, right. You became C-rank a while ago.”
+
+“Look at the way you talk. Making fun of me for being F-rank has really become a habit.”
+
+“Hey, if you were my age, would you remember something that happened barely a week ago? I can’t even remember what side dishes I ate yesterday.”
+
+“A week?”
+
+Was that really all the time that had passed?
+
+To me, it had been well over a month. To Jinho-hyung, it had been barely a week. I felt a subtle sense of disconnect.
+
+“Hey. Why do you look like that? Is something wrong?”
+
+“What do you mean, something’s wrong? Anyway, what brings you here?”
+
+“Listen to the way you talk. Are we some kind of business relationship that we can only see each other when there’s business involved?”
+
+“Just get to the point. Keep it short.”
+
+Jinho-hyung’s face hardened. Had I gone too far with the teasing?
+
+Come to think of it, I had been too indifferent lately. Even before returning to Murim, I hadn’t been able to see him often because of all sorts of problems……
+
+“Buy me dinner.”
+
+“…….”
+
+“Grilled pork belly. Teppanyaki. Fried chicken and beer.”
+
+Shit. Of course.
+
+And he even had the nerve to choose the menu himself.
+
+“Did I leave money with you?”
+
+“Your money is my money. And my money is my money, isn’t it?”
+
+“Pronounce that properly. Unless you want to feel the fist of a C-rank Hunter.”
+
+Jinho-hyung flinched and rubbed his palms together.
+
+“Please, sir. Use your money to put some grease on my parched stomach.”
+
+“…….”
+
+Talk about changing his tune. Even Udyr would weep.
+
+It was absurd, but I let out a quiet laugh. My stomach had also been screaming after going nearly a month without a proper meal.
+
+*Let’s eat something decent for once.*
+
+I spoke in a solemn voice.
+
+“I approve of your attitude. Lead the way.”
+
+“Where would you like to go, sir?”
+
+“I’m tired of grilled pork belly and teppanyaki. Let’s go for something pricier today.”
+
+“Th-then, sir!”
+
+Jinho-hyung’s eyes widened.
+
+“Hanwoo![^2] The pasture-raised beef famous for its incredible marbling?”
+
+“What the hell are you talking about? We’re going out for gopchang.[^3]”
+
+“…….”
+
+“If you don’t like it, starve.”
+
+Thump.
+
+Jinho-hyung grabbed my shoulder and spoke with a solemn expression.
+
+“I’ve always wanted to eat that.”
+
+The early dinner that began at five that afternoon ended at a third-round makgeolli bar, and Jinho-hyung was completely plastered.
+
+“Krroooorr.”
+
+“…….”
+
+I had seen this scene somewhere before.
+
+As I felt a strange sense of déjà vu and hoisted Jinho-hyung onto my back, my phone rang.
+
+〈Designer-Brand Junkie
+
+**Designer-Brand Junkie**
+
+See you tomorrow at the same time, same place.
+
+It was a short text message. The sender was Team Leader Choi.
+
+* * *
+
+The downside—and upside—of Sleep Mode was that it reduced the amount of time I needed to sleep. Other than when I had suffered serious injuries fighting Jopil, I had never slept for more than three hours.
+
+*It’s useful for training.*
+
+Three in the morning.
+
+I woke up in peak condition and sat cross-legged. At some point, circulating my qi had become how I began and ended every day.
+
+Fwoosh.
+
+A wave of internal energy began to flow.
+
+The fifteen years of internal energy surging from my dantian cleansed the waste products accumulated inside my body and breathed vitality into dormant acupoints.
+
+Ding.
+
+> **System**
+>
+> - You have finished circulating your qi.
+>
+> - Your internal energy has increased very slightly.
+
+By the time I opened my eyes at the System notification, more than two hours had passed. If I were in Murim, I would have gone straight to the training yard to warm up, but the real world came with all sorts of restrictions.
+
+Especially in a goshiwon, where the rooms were packed together like a chicken farm.
+
+*Damn goshiwon. I need to get out of here soon.*
+
+This was an age when training was done with money, too. People who made good money had several spacious private training rooms, while people like me had no choice but to adapt to poor conditions.
+
+“Huff. Inhale.”
+
+I spent the entire morning running around the neighborhood, then continued with basic bodyweight exercises without taking a break after I returned. Maybe it was because my Stats had increased, but instead of getting tired, I felt more and more energized.
+
+Watching me, Jinho-hyung asked with a horrified look:
+
+“Don’t you get tired?”
+
+“Not really.”
+
+“I’ve never seen anyone do one-arm push-ups as easily as you. How many have you done?”
+
+“I don’t know. I counted to three hundred, then got too lazy to keep counting.”
+
+“You’re a monster. Is that normal for a C-rank Hunter?”
+
+“By the way, Seong Jinho.”
+
+“Huh?”
+
+“Why are you here?”
+
+Jinho-hyung had appeared ten minutes earlier with a haggard face, and he still hadn’t left my room.
+
+“Can’t you tell? I came to eat ramen.”
+
+Tap tap. Ssshhk.
+
+He naturally dropped a raw egg onto the noodles, which were almost cooked.
+
+His control of the burner flame to leave the egg perfectly runny was worthy of a Peak master.
+
+“Give me three reasons you have to stuff your face with that here.”
+
+“First, there’s no TV in my room. Second, there’s a TV in your room. Third, ramen tastes best when you eat it while watching TV.”
+
+The words poured out of him like a flowing stream, and my blood started boiling.
+
+“Just buy one! If you don’t have money, take mine!”
+
+“Ah, maybe not. I’m leaving soon anyway. Why bother adding to my luggage?”
+
+“Then stop coming in and out of here and bothering me…… Huh? What did you just say?”
+
+“What?”
+
+“No, wait. You’re leaving?”
+
+“Ah, that.”
+
+Jinho-hyung scratched his matted hair.
+
+“It just worked out that way. The date isn’t set yet, but I’m planning to move out soon. I can’t stay holed up here forever.”
+
+“…….”
+
+“Why are you looking at me like that?”
+
+“No, it’s nothing.”
+
+I awkwardly looked away.
+
+Who living in a goshiwon didn’t have a story of their own? I had mine, and Jinho-hyung had his. It would be rude to ask for the reason.
+
+*Still, it’s a shame.*
+
+He was someone I’d spent years with, like a friend and a brother. And now he was leaving so suddenly.
+
+Caught up in complicated feelings, I cautiously opened my mouth.
+
+“Hyung, by any chance……”
+
+“I know what you’re about to say, but I respectfully decline.”
+
+Had he realized what I was going to say? Jinho-hyung cut me off decisively and continued.
+
+“Kid, I’m thirty years old. I’ll fill my own bowl.”
+
+“Then there’s nothing I can do.”
+
+I had thought I could probably live with Jinho-hyung, but my premature meddling seemed to have pricked his pride.
+
+With a crumpled expression, he opened the lid of the pot.
+
+“You should’ve just said so from the start.”
+
+“What are you talking about? You weren’t even planning to.”
+
+“What nonsense. I only cooked one because you said you weren’t eating.”
+
+“……?”
+
+Wait a second. How had the conversation suddenly ended up here?
+
+After several seconds of silence, I finally spoke.
+
+“What are you talking about? What’s this about cooking something all of a sudden?”
+
+“Obviously, ramen.”
+
+Jinho-hyung glared at me with a threatening look.
+
+“There’s always someone who says he isn’t eating, then asks for a bite when you cook it well. How many times have I fallen for that one with you?”
+
+“…….”
+
+“So a C-rank Hunter reaches into his poor hyung’s bowl? Are you even human?”
+
+“…….”
+
+So when he had been talking about his bowl earlier, he had meant an actual bowl.
+
+I wanted to throw his own words right back at him.
+
+*Is that thing even human?*
+
+I was a fucking idiot for thinking I could live with someone like him.
+
+Feeling deeply ashamed of myself, I threw on some clothes. It was almost time to meet Team Leader Choi.
+
+Bang!
+
+I slammed the door hard enough to break it and left. One last shout rang out behind me.
+
+“If you’re going to the market, get some kimchi!”
+
+Ah, I wanted to kill him.
+
+* * *
+
+*Where was the place again?*
+
+I dredged up my memories from about twenty days ago and arrived at the meeting place.
+
+It was a large café in the heart of a forest of skyscrapers. A handsome man sitting by the window spotted me and waved.
+
+“Over here.”
+
+I didn’t need him to say anything. There were dozens of tables in the café, yet Team Leader Choi was the only customer sitting inside.
+
+*He’s still handsome.*
+
+Wearing a thin casual suit, Team Leader Choi looked as though he had just stepped out of a fashion shoot. A successful man in his twenties who had everything: looks, money, personality……
+
+No. Leave personality out of it.
+
+After exchanging a brief handshake, we sat down.
+
+“Have you eaten?”
+
+“No.”
+
+Team Leader Choi tilted his head.
+
+“Really? You look like you’ve eaten ramen.”
+
+“…….”
+
+Damn it. This guy’s nose was incredible.
+
+It was too embarrassing to explain the whole story about what had happened at the goshiwon, so I hurriedly changed the subject.
+
+“It’s lunchtime, but there’s no one here.”
+
+“We’re closed.”
+
+“What?”
+
+“The windows are covered with curtains, and there’s a ‘Closed’ sign on the door. Of course no one’s coming in.”
+
+I looked around. Just as Team Leader Choi had said, everything was covered up.
+
+I had assumed the café would naturally be open since it was the meeting place, so I hadn’t noticed. The whole situation was so strange that I blinked.
+
+“But you’re open right now.”
+
+The lights inside were bright, and the air-conditioning kept the place cool. I could glimpse at least ten employees, so why had they closed the door?
+
+Team Leader Choi answered calmly.
+
+“We have to. There’s a customer.”
+
+“You said you weren’t open.”
+
+“That’s up to the owner, isn’t it?”
+
+“Uh…… Team Leader, I’m asking just to be sure.”
+
+“You don’t need to ask. This café is mine.”
+
+Right. I had figured as much.
+
+Thinking back, the café had also been empty except for the two of us the last time we met.
+
+*I keep digging, and the hole never ends.*
+
+I clicked my tongue and said:
+
+“Team Leader, you have a lot of money.”
+
+“I have enough that I don’t need to worry about running short. That’s why I can put a contract like this in front of you.”
+
+Team Leader Choi smiled gently and handed me a folder.
+
+“Now, shall we talk business?”
+
+There was no reason to hesitate any longer. I nodded firmly.
+
+“Let’s.”
+
+An hour later, the System alert rang out just as I finished signing the last page.
+
+Ding.
+
+[^1]: A goshiwon is a very small, inexpensive room-for-rent housing arrangement, often with shared facilities.
+
+[^2]: Hanwoo is a Korean breed of native cattle whose beef is prized for its marbling.
+
+[^3]: Gopchang is a Korean dish made from grilled intestines, usually beef intestines.
