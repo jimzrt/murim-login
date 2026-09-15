@@ -1,26 +1,27 @@
 # Translation State
 
-- Last completed: 117
-- Next chapter: 118
-- Current block: 115–119 (3/5)
-- Latest translation: `translations/0117.md`
-- Latest summary: `summaries/beats/0117.md`
-- Safe profiles through: chapter 117
+- Last completed: 118
+- Next chapter: 119
+- Current block: 115–119 (4/5)
+- Latest translation: `translations/0118.md`
+- Latest summary: `summaries/beats/0118.md`
+- Safe profiles through: chapter 118
 
 ## Current Block
 
-- Jin Mukyung realizes that Pung Yang's use of the Temporary Strength Pill has made even the ordinary Three Calamities Sword Technique overwhelmingly powerful, though he evades the attack. Jin Taekyung then strikes Pung Yang with One Annihilation, but Pung Yang's newly revealed Body-Protecting Qi blocks it. Mukyung and Pung Yang clash directly; Mukyung appears to win after breaking the protective qi and injuring Pung Yang, but Pung Yang had already embedded five throwing knives in Mukyung, leaving him unconscious. Pung Yang resumes killing Mount Heng Sword Sect martial artists and declares that he will take the Jin brothers and obtain their family's martial arts formulas. Taekyung remembers the dangerous Blazing Flame Divine Pill left by Jopil and decides to use it against Pung Yang.
+- Jin Taekyung takes the Blazing Flame Divine Pill as a final gamble. The pill grants him thirty years of internal energy, temporarily raises his total to forty-five years, and gives him the Scorching Yang Qi attribute, but he risks death if he cannot control the rampaging energy. The boost lets him read and evade Pung Yang's attacks while unleashing the Jin Family's Spear Technique.
+- Pung Yang realizes Taekyung did not take a Temporary Strength Pill and suspects a Scorching Yang-type divine elixir. Pung Yang uses the Crimson Blood Twelve Sabers, but Taekyung forces him back until their weapons clash repeatedly. Pung Yang cuts Taekyung's iron spear to less than half its length, after which Taekyung claims to have learned his attack pattern and continues provoking him. Pung Yang finally charges in fury without using a form; as his Body-Protecting Qi rises, a dagger appears in Taekyung's empty hand. The outcome is unresolved.
 
 ## Open Questions
 
-- Can Jin Taekyung survive the Blazing Flame Divine Pill's fire qi and use its power?
-- Can Taekyung defeat Pung Yang after the pill's effects are added to the fight?
+- Can Jin Taekyung survive and control the Blazing Flame Divine Pill's fire qi?
+- Can Taekyung defeat Pung Yang before the pill's energy overwhelms him?
+- Can Taekyung's dagger penetrate Pung Yang's Body-Protecting Qi?
 - Will Jin Mukyung recover from the five concealed throwing knives?
 - Can Lee Seowol and the Mount Heng Sword Sect survive Pung Yang's resumed assault?
 - Will Pung Yang obtain the Jin Family's martial arts formulas?
-- Will Lee Seowol's coerced marriage agreement be overturned?
 - What is the origin and full long-term effect of the Temporary Strength Pill?
-- What lasting consequences will the Blazing Flame Divine Pill have if Taekyung takes it?
+- What lasting consequences will the Blazing Flame Divine Pill have if Taekyung survives?
 
 ## Exceptional Decision
 

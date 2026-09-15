@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "“Did you enjoy being the only one taking pills?”\n\n“What?”\n\n“I asked if you enjoyed taking pills all by yourself.”",
+      "defect": "The neutral verb “taking” sanitizes the deliberately vulgar 처먹다 in both iterations, weakening Taekyung’s insulting register and the provocation created by the repetition.",
+      "id": "F01",
+      "rationale": "처먹다 is a contemptuous, vulgar form of eating or taking something; the English should preserve that aggression without adding a separate insult.",
+      "replacement": "“Was it fun being the only one shoving pills down your throat?”\n\n“What?”\n\n“I asked if it was fun shoving pills down your throat all by yourself.”",
+      "severity": "major",
+      "source": "“너만 약 처먹으니까 좋았냐?”\n\n“뭐?”\n\n“혼자 약 처먹으니까 좋았냐고.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "For a blood-covered brat barely past twenty, that tongue of his is far too short. Is he so full of himself because he was born the youngest young master of the Jin Family of Taiyuan and is known as the Sleeping Dragon?",
+      "defect": "“Blood-covered” falsely describes Taekyung’s physical condition: 핏덩이 is a contemptuous metaphor for an immature youngster. The literal “tongue…too short” also obscures Pung Yang’s complaint that Taekyung is speaking far too casually and disrespectfully.",
+      "id": "F02",
+      "rationale": "The passage disparages Taekyung’s youth and lack of deferential speech; it does not state that he is covered in blood.",
+      "replacement": "For a mere brat barely twenty, his speech was far too disrespectful. Had being born the youngest young master of the Jin Family of Taiyuan and being called the Sleeping Dragon made him think he could get away with anything?",
+      "severity": "critical",
+      "source": "이제 고작 약관에 불과한 핏덩이 주제에 혀가 짧아도 너무 짧다. 태원진가의 막내 도련님으로 태어나 잠룡 소리를 듣고 있어 눈에 보이는 게 없는 건가?"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Once this fight was over, Pung Yang planned to retreat into some remote mountain valley untouched by human feet, complete his martial arts, and then return to the Murim.",
+      "defect": "“Complete his martial arts” changes 보완하다, which means to improve, supplement, or refine what he already possesses, not to finish an incomplete martial art.",
+      "id": "F03",
+      "rationale": "Pung Yang intends to strengthen and remedy his martial arts before reemerging, rather than merely complete a defined course of training.",
+      "replacement": "Once this fight was over, Pung Yang planned to retreat into some remote mountain valley untouched by human feet, refine his martial arts, and then return to the Murim.",
+      "severity": "major",
+      "source": "풍양은 이 싸움이 끝나면 사람의 발이 닿지 않는 심산유곡에서 무공을 보완한 다음 다시 무림에 나올 생각이었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“What do you think? I’m seeing how far I can take this.”",
+      "defect": "The draft makes Taekyung sound as though he is experimentally measuring the pill’s limits. 갈 데까지 가 보자 is a defiant commitment to go all the way or risk everything.",
+      "id": "F04",
+      "rationale": "Taekyung has knowingly chosen a potentially fatal last gamble; the idiom expresses that commitment rather than curiosity about how far he can take the effect.",
+      "replacement": "“What else? I’m going all in.”",
+      "severity": "major",
+      "source": "“무슨 짓이긴, 갈 데까지 가 보자는 거지.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The Crimson Blood Twelve Sabers had reached seven stages of mastery after only a few years of training. It was more than enough to kill a young brat so lacking in both age and martial arts.",
+      "defect": "칠 성 denotes roughly seventy percent mastery, not seven discrete stages. The second sentence also obscures the comparison: Taekyung is far beneath Pung Yang in both age and martial arts, rather than simply “lacking in age.”",
+      "id": "F05",
+      "rationale": "The source gives a specific degree of Pung Yang’s mastery and explicitly measures Taekyung against him.",
+      "replacement": "After only a few years of training, he had already mastered seventy percent of the Crimson Blood Twelve Sabers. That was more than enough to kill a brat hopelessly beneath him in both age and martial arts.",
+      "severity": "critical",
+      "source": "단 몇 년간의 수련으로 어느덧 칠 성의 경지에 오른 적혈십이도(赤血十二刀)다. 나이로도, 무공으로도 턱없이 부족한 저 어린놈을 죽이기에는 차고 넘친다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "In the blink of an eye, the iron spear and Pung Yang’s curved saber finally parted after more than ten fierce exchanges.",
+      "defect": "The draft omits that the iron spear belongs to Jin Mukyung, losing a specific ownership and continuity detail.",
+      "id": "F06",
+      "rationale": "진무경의 explicitly identifies the weapon as Jin Mukyung’s iron spear even though Jin Taekyung is currently wielding it.",
+      "replacement": "In the blink of an eye, Jin Mukyung’s iron spear and Pung Yang’s curved saber finally parted after more than ten fierce exchanges.",
+      "severity": "major",
+      "source": "눈 깜빡할 시간, 진무경의 철창과 풍양의 곡도가 십여 합의 치열한 격돌 끝에 떨어졌다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "Thunk!",
+      "defect": "“Thunk” suggests a blunt impact, while 푹 is a piercing or sinking-in sound attached to the dagger strike.",
+      "id": "F07",
+      "rationale": "The sound should indicate a blade penetrating rather than striking something bluntly.",
+      "replacement": "Shnk!",
+      "severity": "minor",
+      "source": "푹!"
+    }
+  ],
+  "summary": "Seven actionable findings: one mistranslated description, one lost vulgar register, two altered intentions or plans, one incorrect mastery quantity, one omitted weapon owner, and one misleading impact sound.",
+  "version": 1
+}
