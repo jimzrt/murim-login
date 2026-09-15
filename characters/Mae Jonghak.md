@@ -1,6 +1,6 @@
 # Mae Jonghak (매종학)
 
-- **Safe through:** Chapter 158
+- **Safe through:** Chapter 159
 - **Aliases:** Sword Saint
 - **Role:** Sword Saint and Cheongpung's grandfather; remained in deep seclusion at a hidden residence on Huashan
 - **Personality:** Not established in this chapter.
