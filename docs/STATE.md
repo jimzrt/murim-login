@@ -1,33 +1,29 @@
 # Translation State
 
-- Last completed: 112
-- Next chapter: 113
-- Current block: 110–114 (3/5)
-- Latest translation: `translations/0112.md`
-- Latest summary: `summaries/beats/0112.md`
-- Safe profiles through: chapter 112
+- Last completed: 113
+- Next chapter: 114
+- Current block: 110–114 (4/5)
+- Latest translation: `translations/0113.md`
+- Latest summary: `summaries/beats/0113.md`
+- Safe profiles through: chapter 113
 
 ## Current Block
 
-- The Red Wind Band, led by Pung Yang, rides openly down the main road with more than two hundred mounted bandits. Pung Yang forbids his men from harming commoners so the Jin Family of Taiyuan will have no excuse to intervene, intending instead to seize the Mount Heng Sword Sect through a choice between total destruction and marriage.
-- Pung Yang recalls becoming a mounted bandit at thirteen after killing a man for dumplings while starving. He was taken in by a bandit boss, later joined another group after that boss was killed by a First Rate master, reached First Rate by age thirty, and rose from squad leader to leader of the Red Wind Band three years earlier.
-- The Red Wind Band surrounds the Mount Heng Sword Sect, whose defenders number well under one hundred. Lee Seowol has prepared oil concealed beneath dried hay throughout the estate and plans to hold for one day until Jin Taekyung and Jin Mukyung arrive. The Red Wind Band's envoy offers destruction or marriage; after Lee Seowol identifies the coercive demand, Cheol Mubaek kills the envoy with one punch. One hour later, horns sound from every direction.
+- Half a shichen after sending the ultimatum, Pung Yang orders the Red Wind Band to attack the Mount Heng Sword Sect. The mounted bandits charge through the snow while Taekyung's group, still three shichen from the sect, prepares to ride without rest after Taekyung believes he hears distant battle signals.
+- The Mount Heng Sword Sect's fortress defenses repel the first assault, but the Red Wind Band breaches the gate and begins climbing the walls. Lee Seowol, shaken by the brutality of her first battlefield, refuses to retreat and orders a concealed fire attack that burns many mounted bandits and destroys their ladders and grappling hooks.
+- Cheol Mubaek leaps down to hold the breached gate alone while Lee Seowol directs the remaining defense. After learning that the Red Wind Band has lost at least a hundred men but still retains more than one hundred fifty, Pung Yang decides to enter the battle personally. He carries a hard wooden case containing an unknown object capable of bringing down a tiger in one blow.
 
 ## Open Questions
 
 - What is inside the hard wooden case Pung Yang carries?
-- What happened three years ago that transformed Pung Yang's position and life?
-- Whether the Jin reinforcements will arrive before the Mount Heng Sword Sect falls remains unresolved.
-- Whether Lee Seowol's oil plan will be activated and cause mutual destruction remains unresolved.
-- What final outcome will follow the battle now beginning around the Mount Heng Sword Sect remains unresolved.
+- Whether Pung Yang can defeat Cheol Mubaek and break through the gate remains unresolved.
+- Whether the Mount Heng Sword Sect will survive the continuing assault remains unresolved.
 
 ## Exceptional Decision
 
-- Use Peak, early Peak, First Rate, and Third Rate for the established martial-arts ranks.
-- Use mounted bandits and mounted-bandit groups for 마적 and 마적단; Red Wind Band for 적풍단; and Leader for 단주.
-- Use Sect Leader for 문주님 and Master of the Gatekeeper Pavilion for 수문각주.
-- Use rice wine for 탁주, total destruction for 멸문지화, wedding gift for 혼인 예물, and jang for 장.
-- Retain established renderings for Mount Heng Sword Sect, Jin Family of Taiyuan, Sleeping Dragon of Shanxi, and Heaven Shaking Sword.
+- Render 일류 초입 as early First Rate.
+- Retain shichen and explain three shichen as six hours in context.
+- Render 화시 as fire arrow, 쇠뇌 as crossbow, and 충차 as battering ram.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

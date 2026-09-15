@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "The shields, made from dried wood covered with the hide of old horses, did an excellent job of stopping the arrows.",
+      "defect": "The draft omits that the shields were specifically faced with hide from an old horse’s rump.",
+      "id": "F01",
+      "rationale": "The source explicitly identifies both the extreme dryness of the wood and the particular part of the horse used to reinforce it.",
+      "replacement": "The shields, made of bone-dry wood faced with hide from an old horse’s rump, did an excellent job of stopping the arrows.",
+      "severity": "minor",
+      "source": "바짝 마른 나무에 늙은 말의 엉덩이 가죽을 덧대어 만든 방패는 훌륭히 화살들을 막아 냈다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Those who had already climbed over the walls were stabbed and cut by weapons surging in from every direction.",
+      "defect": "“Climbed over the walls” places the attackers beyond the wall and inside the compound, whereas the source only says they had already climbed up; the surrounding scene locates the melee atop the walls.",
+      "id": "F02",
+      "rationale": "The replacement preserves the attackers’ position on the wall instead of implying that they successfully crossed it.",
+      "replacement": "Those who had already reached the top were stabbed and slashed by weapons converging from every direction.",
+      "severity": "critical",
+      "source": "이미 올라간 자들은 사방에서 짓쳐 들어오는 병장기에 찔리고 베였다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The mounted bandit dropped to his knees in front of Pung Yang and continued in a breathless voice.",
+      "defect": "The draft changes a full, immediate prostration into merely dropping to one’s knees, weakening both the physical action and the subordinate’s terrified deference.",
+      "id": "F03",
+      "rationale": "넙죽 엎드려 means prostrating oneself flat, not simply kneeling.",
+      "replacement": "The moment he reached Pung Yang, the mounted bandit threw himself flat on the ground and continued in a breathless voice.",
+      "severity": "major",
+      "source": "마적은 그의 앞에 섬과 동시에 넙죽 엎드려 헐떡거리는 목소리로 말을 이었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Inside was something that could bring down a tiger in a single stroke.",
+      "defect": "“In a single stroke” adds a striking or cutting mechanism that the source does not specify, prematurely characterizing the still-unrevealed object.",
+      "id": "F04",
+      "rationale": "단숨에 conveys doing it at once or in one go, without specifying that the object must be used for a stroke.",
+      "replacement": "Inside was something that could bring down a tiger in one go.",
+      "severity": "minor",
+      "source": "그 안에 호랑이를 단숨에 거꾸러트릴 물건이 들어 있었다."
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it alters one combat position, weakens a deferential physical action, omits a specific shield material detail, and adds an unsupported attack mechanism to the final reveal.",
+  "version": 1
+}
