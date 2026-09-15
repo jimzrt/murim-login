@@ -354,3 +354,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 근맥 | **Sinews and Meridians** | System attribute reduced by one after Taekyung's failed qi circulation. |
 | 사해오호 | **Four Seas and Five Lakes** | Traditional geographic phrase used with the Nine Provinces and Eight Wastes. |
 | 환골탈태 | **Bone Transformation** | Advanced transformation described as optional in martial-arts novels. |
+| 연무장 | **training ground** | Private martial-arts practice area at Taekyung's newly rebuilt pavilion. |
+| 청석 | **bluestone** | Extremely hard stone used for the training-ground floor. |
+| 십팔반병기 | **eighteen traditional weapons** | Training weapons displayed on a rack. |
+| 수련동 | **training hall** | Building located roughly two hundred jang from the training ground. |
+| 찍고 땡 | **touch-and-go method** | Repeatedly reaching a destination and returning as an endurance exercise. |
