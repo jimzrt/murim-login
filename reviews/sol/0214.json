@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "After telling them not to go too far, Won Myunghoon left the Peace Guild House.",
+      "defect": "The instruction concerns how far the others should accompany him while seeing him off, not how far they should go in general.",
+      "id": "F01",
+      "rationale": "멀리 나오지 말라 is a pragmatic request not to accompany someone too far outside; the current wording changes the action being discussed.",
+      "replacement": "Telling the others not to see him out too far, Won Myunghoon left the Peace Guild House.",
+      "severity": "major",
+      "source": "멀리 나오지 말라는 말과 함께 평화 길드 하우스를 빠져나온 원명훈은 느긋하게 걸어가며 핸드폰을 꺼냈다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Let’s pay attention. Why do you think I’m personally running Gates at my age? Am I wrong?”",
+      "defect": "“Let’s pay attention” is an unnatural literalism that weakens Won Myunghoon’s cold warning to remain vigilant and not underestimate the operation.",
+      "id": "F02",
+      "rationale": "신경 쓰자 here means to stay alert and take the matter seriously, especially after Jonghun casually assumes the job will be easy.",
+      "replacement": "“Let’s stay sharp. Why do you think I’m personally running Gates at my age? Am I wrong?”",
+      "severity": "major",
+      "source": "“신경 쓰자. 내가 이 나이 먹고 직접 게이트 뛰는 이유가 뭔데. 안 그래?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Worked his ass off for seven years harder than a private first class, then reawakened.",
+      "defect": "이등병 denotes a lowest-ranking, newly enlisted private, whereas “private first class” is a higher military rank and reverses the hierarchical reference.",
+      "id": "F03",
+      "rationale": "The joke compares Taekyung’s grueling treatment to that of a soldier at the very bottom of the enlisted hierarchy.",
+      "replacement": "Spent seven years getting run even harder than a brand-new private, then reawakened.",
+      "severity": "major",
+      "source": "1. 20살에 F급 각성. 7년 동안 이등병보다 빡세게 뺑이 치다가 재각성."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Lord Fuck already has a permanent get-out-of-criticism pass, and Won Myunghoon is suddenly getting grabbed by the collar and carried around.",
+      "defect": "“Carried around” misses the gaming sense of 캐리: Won is benefiting from being hard-carried back into public relevance by Taekyung.",
+      "id": "F04",
+      "rationale": "캐리 당하다 is gaming slang for being carried to success by someone else, while 멱살 잡고 supplies the comic image of being hauled there by the collar.",
+      "replacement": "Lord Fuck already has a permanent get-out-of-criticism pass, and Won Myunghoon is suddenly getting hard-carried by the collar.",
+      "severity": "minor",
+      "source": "(Best댓글) 시벌좌야 뭐 이미 영구 까방권 획득했고, 원명훈 얘는 진짜 졸지에 멱살 잡고 캐리 당하네."
+    },
+    {
+      "confidence": 0.94,
+      "current": "If mid- and low-level Gates were grains of sand, an A-Rank Gate was a general’s boulder.",
+      "defect": "“A general’s boulder” is an opaque Korean-syntax calque and does not naturally communicate the enormous contrast in scale.",
+      "id": "F05",
+      "rationale": "장군 바위 evokes a huge, imposing rock in contrast with grains of sand; no military ownership is intended.",
+      "replacement": "If mid- and low-level Gates were grains of sand, an A-Rank Gate was a massive boulder.",
+      "severity": "minor",
+      "source": "중, 하급 게이트가 모래알이라면 A급 게이트는 장군 바위다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "There was no reason for them to avoid an A-Rank Gate.",
+      "defect": "The source says Ares had no reason to be unable to undertake an A-Rank Gate, not that it merely had no reason to avoid one.",
+      "id": "F06",
+      "rationale": "못 갈 이유가 없다 expresses capability in light of the Guild’s elite membership; “avoid” recasts it as a matter of preference.",
+      "replacement": "There was no reason they couldn’t handle an A-Rank Gate.",
+      "severity": "minor",
+      "source": "길드 자체의 힘도 힘이지만 하나같이 정예들로 이루어져 있다 보니 A급 게이트라고 해도 못 갈 이유가 없다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I only mention this because I was wondering…”",
+      "defect": "The line introduces a cautious warning made just in case, not a question prompted by curiosity.",
+      "id": "F07",
+      "rationale": "혹시나 해서 preserves Taekyung’s hesitant, precautionary tone before he suggests that Im Kkeokjeong may be in danger.",
+      "replacement": "“Uh, I’m only saying this just in case…”",
+      "severity": "minor",
+      "source": "“저, 혹시나 해서 드리는 말씀인데요.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "He must have been worrying a lot lately because his Grade was so much lower than that of the other Guild members, but he had taken it far too far.",
+      "defect": "“Grade” is reserved for System classifications under the binding terminology; a Hunter’s classification is a rank.",
+      "id": "F08",
+      "rationale": "The passage compares Im Kkeokjeong’s D-rank Hunter classification with the other members’ Hunter ranks.",
+      "replacement": "He must have been worrying a lot lately because his rank was so much lower than those of the other Guild members, but he had taken it far too far.",
+      "severity": "minor",
+      "source": "아마 다른 길드원들 비해 등급이 훨씬 떨어지다 보니 요새 많은 고민을 한 모양인데, 나가도 너무 많이 나갔다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Between the two Guilds, there were four A-Rank Hunters and more than a dozen B-Rank Hunters. They could more than make up for Kkeokjeong’s absence.",
+      "defect": "십수 명 means more than ten or ten-some, not specifically more than twelve, and Im Kkeokjeong is participating rather than absent; 공백 refers to the weakness created by his low rank.",
+      "id": "F09",
+      "rationale": "The combined force can cover the capability gap caused by bringing a D-Rank Hunter into an A-Rank Gate; it is not compensating for his nonattendance.",
+      "replacement": "Between the two Guilds, there were four A-Rank Hunters and over ten B-Rank Hunters. They had more than enough strength to compensate for Kkeokjeong.",
+      "severity": "major",
+      "source": "양 길드를 모두 합치면 A급 헌터만 넷에 B급 헌터는 십수 명이다. 임꺽정의 공백은 충분히 메울 수 있다."
+    }
+  ],
+  "summary": "The draft is broadly faithful, but several passages alter actions, hierarchy, quantities, or causal meaning, with additional localized terminology and idiom issues.",
+  "version": 1
+}
