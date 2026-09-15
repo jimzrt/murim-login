@@ -274,6 +274,7 @@ class ModelCall:
         writer=None,
         tty: bool | None = None,
         refresh_seconds: float = 0.2,
+        heartbeat_seconds: float = 15.0,
     ) -> None:
         self.stage = stage
         self.model_id = model
@@ -295,6 +296,7 @@ class ModelCall:
         self._writer = writer
         self._tty = _tty() if tty is None else tty
         self._refresh_seconds = refresh_seconds
+        self._heartbeat_seconds = heartbeat_seconds
         self._live = None
         self._console = _console()
 
@@ -444,6 +446,10 @@ class ModelCall:
         if live and not force and (now - self._last_paint) < self._refresh_seconds:
             return
         if live and not self._tty and self._writer is None and self._live is None:
+            if not force and (now - self._last_paint) < self._heartbeat_seconds:
+                return
+            self._last_paint = now
+            print(f"  {self.stage:<11}{self.live_detail()}", flush=True)
             return
         self._last_paint = now
         if self._writer is not None:
