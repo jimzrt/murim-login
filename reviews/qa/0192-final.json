@@ -1,0 +1,55 @@
+{
+  "chapter": 192,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.334,
+    "source_characters": 6218,
+    "source_paragraphs": 214,
+    "translation_characters": 14510,
+    "translation_paragraphs": 219
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "대협",
+        "preferred": "Great Hero or Sir depending tone"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "송이",
+        "preferred": "Song-i"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "원단",
+        "preferred": "New Year's Day"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "갑자",
+        "preferred": "jiazi"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
