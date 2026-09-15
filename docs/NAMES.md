@@ -593,3 +593,9 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 아이튜브 | **iTube** | Live-streaming platform hosting the Hunter Association ceremony. |
 | 태경좌 | **Taekyung the Lord** | Online nickname created by viewers during Taekyung's live broadcast. |
 | 시벌좌 | **Lord Fuck** | Crude online nickname created from Taekyung's accidental broadcast profanity. |
+| 라이칸스로프 | **Lycanthrope** | B-rank Gate monster species. |
+| 은빛 갈기 라이칸스로프 | **Silver-Mane Lycanthrope** | Lv. 83 boss monster of The Lycanthrope’s Black Forest. |
+| 라이칸스로프의 검은 숲 | **The Lycanthrope’s Black Forest** | B-rank Gate cleared in this chapter. |
+| 도민수 | **Do Minsu** | A-rank star Hunter and Won Myunghoon’s close friend; died in the Myeongdong Station Mutated Gate Catastrophe. |
+| 명동역 변이 게이트 대참사 | **Myeongdong Station Mutated Gate Catastrophe** | Eight-year-old Gate disaster in which Do Minsu and around thirty others died. |
+| 소나무 위키 | **Sonamu Wiki** | Online wiki consulted about Won Myunghoon. |
