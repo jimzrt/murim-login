@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "I couldn’t let everyone see how weak I was to money, especially Miss Song.",
+      "defect": "The source uses 송이 씨, whose binding rendering is “Miss Song-i,” not “Miss Song.”",
+      "id": "F01",
+      "rationale": "송이 is the established short form “Song-i”; “Song” is her surname and does not preserve the source’s familiar given-name address.",
+      "replacement": "I couldn’t let everyone see how weak I was to money, especially Miss Song-i.",
+      "severity": "minor",
+      "source": "line 247"
+    },
+    {
+      "confidence": 1.0,
+      "current": "The mind-boggling sum left not only me, but Miss Song and Im Kkeokjeong gaping.",
+      "defect": "The source uses 송이 씨, but the translation drops the established “-i” from her short name.",
+      "id": "F02",
+      "rationale": "The exact glossary binds 송이 to “Song-i,” and this occurrence should match the chapter’s correctly rendered uses of “Miss Song-i.”",
+      "replacement": "The mind-boggling sum left not only me, but Miss Song-i and Im Kkeokjeong gaping.",
+      "severity": "minor",
+      "source": "line 285"
+    },
+    {
+      "confidence": 1.0,
+      "current": "*Miss Song, are you a genius?*",
+      "defect": "The source uses 송이 씨, whose established rendering is “Miss Song-i.”",
+      "id": "F03",
+      "rationale": "Rendering the short given name as “Song” changes it into the surname and breaks terminology consistency.",
+      "replacement": "*Miss Song-i, are you a genius?*",
+      "severity": "minor",
+      "source": "line 365"
+    },
+    {
+      "confidence": 1.0,
+      "current": "After delivering a massive fuck-you with an innocent expression, Miss Song continued.",
+      "defect": "The source names 송이 씨 here, but the translation uses “Miss Song” rather than the binding “Miss Song-i.”",
+      "id": "F04",
+      "rationale": "송이 is explicitly established as the short form “Song-i.”",
+      "replacement": "After delivering a massive fuck-you with an innocent expression, Miss Song-i continued.",
+      "severity": "minor",
+      "source": "line 367"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Butler Kim had been watching with an interested look in his eyes. Miss Song turned toward Team Leader Choi.",
+      "defect": "The source uses 송이 씨, but the translation substitutes the surname-form “Miss Song.”",
+      "id": "F05",
+      "rationale": "The binding glossary requires “Song-i” for 송이, preserving the familiar short-name address used in the narration.",
+      "replacement": "Butler Kim had been watching with an interested look in his eyes. Miss Song-i turned toward Team Leader Choi.",
+      "severity": "minor",
+      "source": "line 373"
+    },
+    {
+      "confidence": 1.0,
+      "current": "For just a moment, I thought I saw hurt in Miss Song’s eyes.",
+      "defect": "The source uses 송이 씨, whose established English form is “Miss Song-i.”",
+      "id": "F06",
+      "rationale": "Using “Song” instead of “Song-i” changes the source’s given-name short form into a surname address.",
+      "replacement": "For just a moment, I thought I saw hurt in Miss Song-i’s eyes.",
+      "severity": "minor",
+      "source": "line 389"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Returning to her frank, easygoing self, Miss Song turned to Im Changsoo.",
+      "defect": "The source uses 송이 씨, but the translation again omits the “-i” from the binding short form.",
+      "id": "F07",
+      "rationale": "This should use the established “Song-i” rendering consistently with the source and the chapter’s other correct occurrences.",
+      "replacement": "Returning to her frank, easygoing self, Miss Song-i turned to Im Changsoo.",
+      "severity": "minor",
+      "source": "line 393"
+    }
+  ],
+  "summary": "The chapter is faithful overall, but the established short form “Song-i” is incorrectly rendered as “Song” in seven places, changing the source’s form of address and creating inconsistent terminology.",
+  "version": 1
+}
