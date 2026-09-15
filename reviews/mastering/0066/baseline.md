@@ -4,7 +4,7 @@ Step. Step.
 
 Each time the young man took a step, people hurriedly moved aside.
 
-His sculpted, handsome features played a part, but it was the intense presence radiating from him that overwhelmed them.
+His sculpted, handsome features were part of it, but more than that, they were overwhelmed by the intense presence radiating from him.
 
 He stood out even from a distance.
 
@@ -12,25 +12,25 @@ He stood out even from a distance.
 
 At the thoughtless remark from a maid who had joined the household the previous year, an old servant gave a quiet laugh.
 
-“Stop dreaming.”
+“Wake up from your dream.”
 
-“Who said I was? I’ve just never seen him before.”
+“Who said anything? It’s just because I’ve never seen his face before.”
 
-“Didn’t you see him earlier, when the Third Young Master’s pavilion collapsed?”
+“Didn’t you see him earlier? When the Third Young Master’s pavilion collapsed?”
 
-“With all that chaos, do you think I only saw one or two people? Still, I don’t think I could forget that man even if I’d seen him in the middle of a war. Hehe.”
+“With all that chaos, do you think I only saw one or two people? Still, I don’t think I’d ever forget that man, even if I’d seen him in the middle of a war. Hehe.”
 
-“True. He was in quite a state back then.”
+“True enough. His appearance was a complete disaster back then.”
 
-The maid thought for a moment, then her eyes widened.
+The maid thought about it for a moment, then her eyes went round.
 
-“Oh, don’t tell me…”
+“Oh, no way?”
 
-“That’s right. He’s the Second Young Master. So stop dreaming and get back to work.”
+“That’s right. He’s the Second Young Master. So stop dreaming nonsense and go do your work.”
 
-Jin Mukyung ignored the whispers around him and continued on with an indifferent expression.
+Jin Mukyung ignored the whispers around him with an indifferent expression and continued walking.
 
-When he reached the stately, old-fashioned pavilion, the martial artists guarding the entrance opened the doors for him. The looks of awe were a bonus.
+When he reached the stately, traditional pavilion, the martial artists guarding the entrance opened the doors for him. The looks of awe came free of charge.
 
 “The Lesser Family Head is waiting for you.”
 
@@ -40,9 +40,9 @@ The moment Jin Mukyung entered the Lesser Family Head’s office, he was greeted
 
 “Little brother!”
 
-Jin Wikyung threw his arms wide and pulled Jin Mukyung into a tight embrace.
+Jin Wikyung spread his arms wide and pulled Jin Mukyung into a tight embrace.
 
-For a moment, Mukyung considered dodging. But if he did, he would have to watch that hulking man whine like a child.
+For a moment, Mukyung considered dodging, but if he did, he would have to watch that hulking body whine like a child.
 
 “I can’t breathe.”
 
@@ -50,7 +50,7 @@ His tone was as stiff as a wooden puppet’s.
 
 “Is that what you say to your brother after not seeing him for three years?”
 
-“I would say the same if it had been thirty.”
+“Even if we had not seen each other for thirty years, my answer would be the same.”
 
 “You’ve grown cold. You’ve changed so much.”
 
@@ -62,19 +62,19 @@ His tone was as stiff as a wooden puppet’s.
 
 A short while later, the two brothers sat across from each other and began to talk.
 
-“I don’t see Sir Wipeng.”
+“Sir Wipeng is nowhere to be seen.”
 
-Wipeng, who should have been at the Lesser Family Head’s side like a shadow, was nowhere to be seen.
+Wipeng, who was supposed to remain at the Lesser Family Head’s side like a shadow, was absent.
 
-Jin Wikyung took a sip of tea before answering.
+After taking a sip of tea, Jin Wikyung answered.
 
 “I put him in charge of a pursuit team and sent him out. It’ll take at least half a month to go all the way to Three Questions Gorge and back.”
 
 “That far?”
 
-If Taiyuan, where the family was based, lay at the heart of Shanxi, Three Questions Gorge was practically its gateway and outermost edge. It was also a crossroads leading to Shaanxi and Henan, so even fifteen days would be a tight schedule.
+If Taiyuan, where the family was located, was the center of Shanxi, Three Questions Gorge was practically at its entrance and far edge. It was also a crossroads leading to Shaanxi and Henan, so even fifteen days was a tight schedule.
 
-“It’s only a formality anyway. Aren’t you putting him through too much?”
+“It’s only a formality anyway. Aren’t you making him work too hard?”
 
 “Why? Feeling sorry for him?”
 
@@ -98,7 +98,7 @@ Unlike before, Jin Wikyung’s eyes held a light reproach. Jin Mukyung sighed.
 
 Jin Mukyung nodded reluctantly.
 
-He had traded blows with Jin Taekyung himself only a shichen or two earlier.[^1] He could no longer deny it.
+He had personally exchanged blows with Jin Taekyung only an hour or two earlier. By now, he could no longer refuse to acknowledge the truth.
 
 “Since we’re on the subject, what on earth happened?”
 
@@ -106,9 +106,9 @@ He had traded blows with Jin Taekyung himself only a shichen or two earlier.[^1]
 
 “Everything. The letter I received only said that the Mount Heng Sword Sect bastards were invading.”
 
-A messenger eagle had been dispatched immediately after the Mount Heng Sword Sect declared war, so there had been no way for him to learn the details.
+A carrier hawk had been sent immediately after the Mount Heng Sword Sect declared war, so there had been no way for him to learn the details.
 
-All he knew were the rumors he had heard on his way to the Jin Family of Taiyuan.
+The rumors he had heard on the way to the Jin Family of Taiyuan were all he knew.
 
 “Is it true that the Head Elder betrayed us?”
 
@@ -116,23 +116,23 @@ All he knew were the rumors he had heard on his way to the Jin Family of Taiyuan
 
 “How long?”
 
-“It goes back forty years, to the Great Faction War.”
+“It goes all the way back to the Great Faction War forty years ago.”
 
 Jin Wikyung’s expression hardened as he began to speak.
 
 “Then never mind.”
 
-“Back then, the Head Elder… What did you say?”
+“Back then, the Head Elder… Wait, what did you say?”
 
 “Never mind. It’s already over. What good would hearing about it do me?”
 
-Jin Mukyung nonchalantly drained his tea in one gulp, and Jin Wikyung’s face filled with disbelief.
+Jin Mukyung emptied his teacup in one gulp, and Jin Wikyung’s face filled with disbelief.
 
 “You little bastard!”
 
-This was the family’s hidden history, after all. Jin Mukyung had always cared about nothing but martial arts, but Jin Wikyung had never imagined he could be this bad.
+It was, after all, the hidden history of the family. Jin Mukyung had always been a man who cared about nothing but martial arts, but Jin Wikyung had never imagined he could be this bad.
 
-“You need to know! You’re a direct descendant of our family—”
+“You need to know! The direct line of our family—”
 
 “The Head Elder betrayed us. Then he died. The Mount Heng Sword Sect was destroyed in the process. The Jin Family of Taiyuan was the final victor. Did I misunderstand anything?”
 
@@ -142,7 +142,7 @@ Jin Wikyung began to wonder which of them was the abnormal one.
 
 Then he suddenly remembered something.
 
-“You were the one who asked me to tell you everything!”
+“You were the one who said you wanted to hear everything!”
 
 “Ah, I take that back. If I listen to things that happened before I was even born, I’ll grow old and die right here. I’d rather spend that time swinging my sword one more time.”
 
@@ -154,9 +154,9 @@ Then he suddenly remembered something.
 
 “To train, obviously.”
 
-“T-Training? Now?”
+“Training? Right now?”
 
-“I came hoping to spar with Sir Wipeng after so long, but he isn’t here. Shouldn’t I train alone, at least?”
+“I came to spar with Sir Wipeng after so long, but he’s gone. Shouldn’t I train by myself, at least?”
 
 Jin Wikyung was speechless.
 
@@ -168,7 +168,7 @@ His heart ached with betrayal.
 
 Jin Mukyung answered the heartfelt call coldly.
 
-“Thank you for the tea.”
+“The tea was good. Thank you.”
 
 He left the office without even looking back.
 
@@ -176,13 +176,13 @@ Jin Wikyung stared at the back of his departing younger brother, stunned.
 
 *After everything I did to raise you…*
 
-Both his second and youngest brothers had grown up so fast. He was proud of the fine men they had become, but sometimes, moments like this still left him feeling hurt.
+Both his second and youngest brothers had grown up so much. He was proud of how wonderfully they had each matured, but sometimes, moments like this still hurt.
 
-*Yes. I suppose this is the natural order of things.*
+*Yes. This is the natural order of things.*
 
-Jin Wikyung let out a sigh deep enough to sink the earth, then sat at his worktable.
+Jin Wikyung let out a sigh that seemed to drain the earth itself, then sat down in front of his worktable.
 
-He carefully began piecing together the ill-fated masterpiece that had been torn apart earlier: *The Birth of a Hero*.
+He carefully began piecing together the unfortunate masterpiece that had been torn apart earlier: *The Birth of a Hero*.
 
 * * *
 
@@ -192,11 +192,11 @@ He carefully began piecing together the ill-fated masterpiece that had been torn
 
 At his subordinate’s report, Wipeng swallowed a bitter smile.
 
-There had never been an assassin in the first place. Naturally, there were no traces to find.
+There had never been an assassin in the first place. Naturally, there would be no traces to find.
 
 *I have to put on an act I was never meant to perform.*
 
-The conversation he had shared with Jin Wikyung a shichen earlier flashed through his mind.
+A conversation he had shared with Jin Wikyung an hour earlier flashed through Wipeng’s mind.
 
 *An assassin? Haven’t you made this affair too big?*
 
@@ -222,7 +222,7 @@ That was when the smile disappeared from his lord’s face.
 
 *Dark Heaven.*
 
-*Aren’t you curious about the result?*
+*Don’t you want to know what I found?*
 
 *You didn’t find it.*
 
@@ -246,19 +246,19 @@ Wipeng was not foolish enough to misunderstand what that meant.
 
 *If necessary.*
 
-Until recently, Shanxi Murim had appeared to the outside world to be divided between two towering peaks: the Jin Family of Taiyuan and the Mount Heng Sword Sect.
+Until recently, Shanxi Murim had appeared to the outside world as two towering peaks: the Jin Family of Taiyuan and the Mount Heng Sword Sect.
 
-But the reality was different. Shanxi Murim was more like a three-legged cauldron.
+But the reality was different. Shanxi Murim was shaped like a three-legged cauldron.
 
 *The Jin Family of Taiyuan, the Mount Heng Sword Sect, and the smaller sects.*
 
-The Jin Family of Taiyuan held the central region, while the Mount Heng Sword Sect held the north. The south belonged to more than twenty small and mid-sized sects.
+The Jin Family of Taiyuan held the central region, and the Mount Heng Sword Sect held the north. The south belonged to more than twenty mid-sized and small sects.
 
 The Five Gates of Shanxi, which had vanished in the recent war, was merely the name given to the five especially powerful sects among them.
 
 *Their alliance is strong. They may refuse to comply.*
 
-*They might have, before the war.*
+*They might have, if this had been before the war.*
 
 The three-legged cauldron had begun to tip.
 
@@ -282,7 +282,7 @@ At that same moment, Jin Wikyung was piecing together *The Birth of a Hero* and 
 >
 > **Lv.50 Jin Taekyung**
 >
-> **Job:** First Rate Martial Artist
+> **Job:** First Rate martial artist
 >
 > **Fame:** 1,180 (+150)
 >
@@ -307,19 +307,19 @@ At that same moment, Jin Wikyung was piecing together *The Birth of a Hero* and 
 >
 > - Distribute your remaining points.
 
-I stared at the Status Window in regret.
+I stared at the Status Window and regretted it.
 
 *Damn it. I spent too many points.*
 
-While fighting Jin Mukyung, I had dumped a full fifty points into Agility. The balance between my stats, which I had worked so hard to maintain, was ruined. Of course I was bitter about it.
+While fighting Jin Mukyung, I had dumped no fewer than fifty points into Agility. The balance between my stats, which I had worked so hard to maintain, had collapsed. Naturally, it left a bitter taste in my mouth.
 
 *I thought twenty or thirty points at most would be enough.*
 
-A Peak master was a high wall to overcome.
+The wall posed by a Peak master was high.
 
-No—maybe Jin Mukyung was simply even stronger than I had expected. People didn’t get called geniuses for nothing.
+No—perhaps Jin Mukyung was simply stronger than I had expected. The title of genius was not something people handed out easily.
 
-“When I held out for fifty exchanges, even the assassin was visibly flustered. Until recently, I had devoted myself solely to training, so I was an unknown master whose name had yet to spread through Shanxi—”
+“When I lasted fifty exchanges, even the assassin looked visibly flustered. I had devoted myself to training until recently, so I was an unknown master in Shanxi—”
 
 Smack!
 
@@ -345,15 +345,15 @@ My connection with these little siblings had grown fairly deep. As I watched the
 
 “How is Great Hero Gong these days?”
 
-Gong Yacheong—the middle-aged man Socheon and Soyul called Uncle.
+Gong Yacheong—the middle-aged man Socheon and Soyul called their uncle.
 
-Murim terminology still felt awkward to me, but I always made sure to call Gong Yacheong Great Hero Gong. He deserved the title.
+Even now, Murim terminology felt awkward to me, but whenever I addressed Gong Yacheong, I always called him Great Hero. He was someone who deserved it.
 
 “He’s recovering smoothly. He still has trouble moving around, though.”
 
 “Really? That’s good to hear.”
 
-“He said he would like to see you before he leaves.”
+“He said he wanted to see you before he left.”
 
 I was about to nod without thinking when I stopped.
 
@@ -377,19 +377,19 @@ What was worse, Soyul did not even know that her parents were dead.
 
 *She’s five…*
 
-She was far too young to recognize and accept the present.
+She was far too young to recognize and accept the present for what it was.
 
-I tried to recall a memory from twenty-two years ago.
+I suddenly recalled a memory from twenty-two years ago.
 
 It was hazy.
 
-“……I hope it’s the same for you, too.”
+“……I hope it will be that way for you, too.”
 
-Soyul smiled shyly at the words she did not understand.
+Soyul only smiled shyly at the words she did not understand.
 
 I turned toward Socheon.
 
-“Can I come visit you from time to time?”
+“Would it be all right if I came to see you from time to time?”
 
 Socheon beamed as if he had been waiting for me to ask.
 
@@ -404,5 +404,3 @@ Hyuk Mujin, who had been listening quietly, broke through the warm atmosphere be
 “……”
 
 *There went my touching moment. I should’ve saved it.*
-
-[^1]: A *shichen* is a traditional unit of time equal to approximately two hours.
