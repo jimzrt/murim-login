@@ -1,6 +1,6 @@
 # Pung Yang (풍양)
 
-- **Safe through:** Chapter 109
+- **Safe through:** Chapter 111
 - **Aliases:** Red Wind Band Leader
 - **Role:** Leader of the Red Wind Band; commands a force of at least two hundred mounted bandits
 - **Personality:** Foxlike, ruthless, observant, controlled, and willing to kill subordinates who disobey his orders

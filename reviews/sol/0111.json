@@ -1,0 +1,176 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "The mounted bandits who had been riding ahead of us at some distance spotted me at the front. They grinned, yellow teeth exposed.",
+      "defect": "The draft makes the mounted bandits the ones riding ahead, reversing the action; Taekyung was riding well ahead of his companions when the stationary bandits spotted him.",
+      "id": "F01",
+      "rationale": "앞서 달리던 modifies 나, not 마적들.",
+      "replacement": "The mounted bandits spotted me riding well out in front and grinned, baring their yellow teeth.",
+      "severity": "critical",
+      "source": "멀찍이 선두에서 앞서 달리던 나를 발견한 마적들이 누런 이를 드러내며 웃는다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "The instant I finished speaking, twenty pairs of eyes turned toward their backs.",
+      "defect": "The draft doubles the stated quantity from ten pairs of eyes to twenty pairs.",
+      "id": "F02",
+      "rationale": "열 쌍 means exactly ten pairs.",
+      "replacement": "The instant I finished speaking, ten pairs of eyes turned to look behind them.",
+      "severity": "critical",
+      "source": "열 쌍의 눈이 내 말이 끝나자마자 등 뒤를 돌아보던 그때."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“This is your first time here, isn’t it?”\n\n“It was a special place. Whenever Father had something weighing on his mind, he would come to the garden.”",
+      "defect": "The draft reverses the implied subject: Cheol Mubaek says this is his first visit, not Lee Seowol’s. It also drops the causal force of her reply.",
+      "id": "F03",
+      "rationale": "Cheol Mubaek is the newly admitted outsider, while Seowol immediately recalls being brought to this garden by her mother.",
+      "replacement": "“This is my first time here.”\n\n“Because it was a special place. Whenever Father had something weighing on his mind, he would come to the garden.”",
+      "severity": "critical",
+      "source": "“이곳에 온 것은 이번이 처음이구나.”\n\n“특별한 공간이었으니까요. 아버지는 고민이 있으실 때마다 화원을 찾으셨죠.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Perhaps that was why, ten years ago, she had lost her mother, followed by her father and two older brothers, one after another.",
+      "defect": "The placement of “ten years ago” suggests that all four family members died then, whereas the mother died ten years ago and the father and brothers were lost afterward. The draft also weakens the source’s declarative sentence with “Perhaps.”",
+      "id": "F04",
+      "rationale": "십 년 전 attaches to the mother’s earlier death; the subsequent narrative establishes that her father and brothers died recently.",
+      "replacement": "That was why she had lost her father and two older brothers one after another, after losing her mother ten years ago.",
+      "severity": "major",
+      "source": "그것이 십 년 전 어머니에 이어 아버지와 두 오라버니를 차례로 잃어야 했던 이유다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“If I thought my friend Cheonbaek wanted this…”",
+      "defect": "The draft changes the omitted subject of 생각했다면 to Cheol Mubaek, making him describe his own belief. He is challenging Seowol’s belief that Cheonbaek would have wanted her to remain.",
+      "id": "F05",
+      "rationale": "천백이 그 친구 is the subject of 원한다고, while the context supplies Seowol as the person being challenged for thinking so.",
+      "replacement": "“If you thought Cheonbaek would have wanted this…”",
+      "severity": "critical",
+      "source": "“천백이 그 친구가 이런 걸 원한다고 생각했다면…….”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“I trust you, Uncle Cheol. But don’t underestimate the Red Wind Band Leader. He has any number of subordinates willing to die in his place.”",
+      "defect": "The draft adds willingness to the subordinates. The source says Pung Yang has subordinates whose lives he can use in place of his own, emphasizing his expendable manpower rather than their voluntary devotion.",
+      "id": "F06",
+      "rationale": "목숨을 대신할 describes the function of the subordinates as substitutes for his life; it does not say they willingly volunteer.",
+      "replacement": "“I trust you, Uncle Cheol. But don’t underestimate the Red Wind Band Leader. He has any number of subordinates he can sacrifice in his place.”",
+      "severity": "major",
+      "source": "“철 숙부를 믿어요. 그러나 적풍단주를 우습게 보진 마세요. 그에게는 목숨을 대신할 수하들이 얼마든지 있으니까.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "With the situation as it was, the morale of not only the ordinary martial artists but also the newly appointed middle-ranking leaders was low.",
+      "defect": "The draft demotes 중진 from senior or leading members to middle-ranking leaders, altering the sect hierarchy.",
+      "id": "F07",
+      "rationale": "중진 denotes prominent senior figures or core senior members, not people of middle rank.",
+      "replacement": "Given the situation, morale was low among both the ordinary martial artists and the newly appointed senior members.",
+      "severity": "major",
+      "source": "상황이 이렇다 보니 일반 무인들은 물론이고 새로 임명된 중진들의 사기도 저조했다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "After the Great Faction War, demonic, heterodox arts had become synonymous with death in the Central Plains. There were unorthodox factions that claimed to represent the orthodox factions, but no one openly declared themselves unorthodox.",
+      "defect": "The draft narrows 사마외도 to martial arts and mistranslates 표방 as representing orthodox factions rather than presenting or professing themselves as orthodox.",
+      "id": "F08",
+      "rationale": "사마외도 refers broadly to evil and heterodox paths or their adherents, while 정파를 표방하다 means to profess or present oneself as orthodox.",
+      "replacement": "After the Great Faction War, belonging to the evil and heretical paths was tantamount to death in the Central Plains. Unorthodox factions might present themselves as orthodox, but no one openly proclaimed themselves unorthodox.",
+      "severity": "major",
+      "source": "정마대전 이후 중원에서 사마외도는 곧 죽음이라는 단어와 동일시되었다. 정파를 표방하는 사파는 있을지언정, 당당히 사파라고 외치는 이들은 없다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "**Time Limit:** 16:25:32",
+      "defect": "An actual game System display is formatted as an ordinary bold line rather than a System-message panel.",
+      "id": "F09",
+      "rationale": "The isolated countdown is game UI and must use the prescribed System blockquote format.",
+      "replacement": "> **System**\n>\n> **Time Limit:** 16:25:32",
+      "severity": "minor",
+      "source": "제한 시간 : 16:25:32"
+    },
+    {
+      "confidence": 1.0,
+      "current": "**Time Limit:** 15:59:13",
+      "defect": "The second actual game System display is also formatted as an ordinary bold line rather than a System-message panel.",
+      "id": "F10",
+      "rationale": "This updated countdown is a separate System window because prose intervenes between the two displays.",
+      "replacement": "> **System**\n>\n> **Time Limit:** 15:59:13",
+      "severity": "minor",
+      "source": "제한 시간: 15:59:13"
+    },
+    {
+      "confidence": 0.91,
+      "current": "Several dozen *jang* ahead, a group of black-clad men blocked the main road.",
+      "defect": "The draft adds that the men’s clothing is black; the source describes the men as dark figures, then separately describes their clothes as filthy.",
+      "id": "F11",
+      "rationale": "시커먼 사내들 does not specify black clothing, and the following sentence supplies the actual clothing description.",
+      "replacement": "Several dozen *jang* ahead, a group of dark figures blocked the main road.",
+      "severity": "minor",
+      "source": "수십 장 앞, 관도를 막아선 시커먼 사내들."
+    },
+    {
+      "confidence": 1.0,
+      "current": "The men struck by the horses had been sent flying like bowling pins and lay sprawled out like walking corpses. The rest were easily subdued.",
+      "defect": "“Walking corpses” is both the wrong English equivalent for 산송장 and mechanically contradictory while the men are lying down.",
+      "id": "F12",
+      "rationale": "산송장 means someone reduced to a living corpse or left half-dead, not a corpse that is literally walking.",
+      "replacement": "The men struck by the horses had been sent flying like bowling pins and lay sprawled out half-dead. The rest were easily subdued.",
+      "severity": "minor",
+      "source": "말에 치여 볼링 핀처럼 나가떨어진 놈들은 산송장처럼 누워 있었고 나머지 놈들도 손쉽게 제압당했다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“When you meet the Leader of the Green Forest Alliance or the Leader of the Yangtze River Channel League, ask them yourself. Not that you ever will.”",
+      "defect": "Both instances of 맹주 omit the established title “Alliance Leader.”",
+      "id": "F13",
+      "rationale": "The binding terminology maps 맹주 to Alliance Leader.",
+      "replacement": "“When you meet the Green Forest Alliance Leader or the Alliance Leader of the Yangtze River Channel League, ask them yourself. Not that you ever will.”",
+      "severity": "minor",
+      "source": "“나중에 녹림맹주나 장강수로맹주를 만나면 물어보세요. 그럴 일은 없겠지만.”"
+    },
+    {
+      "confidence": 0.95,
+      "current": "*“The third son? Surely you’re not thinking of marrying me to that bastard?”*",
+      "defect": "“Bastard” turns 망나니 into generic stronger profanity and loses the intended characterization of Jin Taekyung as a notorious good-for-nothing.",
+      "id": "F14",
+      "rationale": "망나니 here denotes a dissolute, disgraceful wastrel rather than asserting illegitimate parentage or using generic profanity.",
+      "replacement": "*“The third son? Surely you’re not thinking of marrying me to that good-for-nothing?”*",
+      "severity": "minor",
+      "source": "‘셋째라면. 설마 그 망나니와 절 맺어 줄 생각이신가요?’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The flowers had withered, and the burial mound in the center had grown from one to four.",
+      "defect": "The singular construction makes it sound as though one mound physically grew into four rather than the number of burial mounds increasing.",
+      "id": "F15",
+      "rationale": "하나에서 넷으로 늘었다 counts separate burial mounds.",
+      "replacement": "The flowers had withered, and the number of burial mounds in the center of the garden had grown from one to four.",
+      "severity": "minor",
+      "source": "꽃은 시들었고 화원 중앙에 마련된 봉분(封墳)은 하나에서 넷으로 늘었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I’ll listen carefully.”",
+      "defect": "The draft weakens Seowol’s deferential commitment to heed and remember his words into merely listening attentively.",
+      "id": "F16",
+      "rationale": "새겨듣다 means to heed something deeply or take it to heart, which carries more weight than careful listening.",
+      "replacement": "“I’ll take your words to heart.”",
+      "severity": "minor",
+      "source": "“새겨듣겠습니다.”"
+    },
+    {
+      "confidence": 0.93,
+      "current": "Lee Seowol let out a small laugh, reminded of her ill-fated connection with him.",
+      "defect": "“Small laugh” loses the wry, involuntary quality of 실소.",
+      "id": "F17",
+      "rationale": "실소 is a rueful, incredulous, or involuntary laugh rather than merely a quiet one.",
+      "replacement": "Lee Seowol let out a wry laugh, reminded of her ill-fated connection with him.",
+      "severity": "minor",
+      "source": "이소월이 실소를 흘렸다. 그와 얽힌 악연이 생각나서다."
+    }
+  ],
+  "summary": "The draft contains several subject and quantity reversals, a blurred family-death timeline, and localized losses in hierarchy, mechanism, terminology, and System formatting.",
+  "version": 1
+}
