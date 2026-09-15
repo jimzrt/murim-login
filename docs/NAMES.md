@@ -178,3 +178,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 사마외도 | **demonic, heterodox arts** | Suspected martial-arts origin of Pung Yang's insidious forms. |
 | 전서구 | **messenger pigeon** | Pigeon delivering the Lower District Sect's Jeongyang Branch report. |
 | 절정 초입 | **early Peak** | Pung Yang's specific stage within the Peak realm. |
+| 광칠이 | **Gwangchil** | Former mounted-bandit boss who took in Pung Yang and was later killed by a First Rate master. |
