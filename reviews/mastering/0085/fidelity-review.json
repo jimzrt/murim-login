@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Miss Song, could I ask you for a heal—what are you guys doing over there?”",
+      "defect": "The address 송이 씨 uses Song-i, the established short form of Song Song’s name, not “Song.”",
+      "id": "F01",
+      "rationale": "The exact glossary binds 송이 to “Song-i.” Rendering it as “Song” makes the given-name short form sound like a surname and loses the source’s familiar but polite mode of address.",
+      "replacement": "“Miss Song-i, could I ask you for a heal—what are you guys doing over there?”",
+      "severity": "minor",
+      "source": "lines 329–331"
+    },
+    {
+      "confidence": 0.99,
+      "current": "I only meant that they should get lost because they were getting in the way between me and Miss Song.",
+      "defect": "The repeated address 송이 씨 is again rendered as “Miss Song” instead of the established short form Song-i.",
+      "id": "F02",
+      "rationale": "The source repeats the same familiar, polite address, and the exact glossary requires 송이 to be rendered as “Song-i.”",
+      "replacement": "I only meant that they should get lost because they were getting in the way between me and Miss Song-i.",
+      "severity": "minor",
+      "source": "lines 343–345"
+    }
+  ],
+  "summary": "The chapter is faithful overall, but three occurrences replace the source’s established short-form name Song-i with either the surname-like “Miss Song” or the full name.",
+  "version": 1
+}
