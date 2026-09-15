@@ -309,3 +309,10 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 철혈문 | **Iron Blood Sect** | Henan sect mentioned by Gong Ilhyuk. |
 | 오호검문 | **Five Tigers Sword Sect** | Henan sect mentioned by Gong Ilhyuk. |
 | 태을미리장 | **Taeeul Miri Palm** | Palm technique taught to Cheongpung by Mae Jonghak. |
+| 육합검 | **Six Harmonies Sword** | Huashan sword technique known by Cheongpung. |
+| 매화검법 | **Plum Blossom Sword Technique** | Huashan sword technique Cheongpung performed at age ten. |
+| 상청검 | **Supreme Clarity Sword** | Huashan sword technique listed among Cheongpung's knowledge. |
+| 낙화추영장 | **Falling Flower Chasing Shadow Palm** | Huashan palm technique listed among Cheongpung's knowledge. |
+| 산화무영수 | **Scattering Flowers Shadowless Hand** | Huashan hand technique listed among Cheongpung's knowledge. |
+| 자하신공 | **Zaha Divine Technique** | Huashan internal-energy technique used by Cheongpung. |
+| 태사부 | **Grandmaster** | Huashan title referring to Mae Jonghak. |
