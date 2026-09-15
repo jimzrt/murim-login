@@ -406,3 +406,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 마유주 | **mare's-milk wine** | Fermented alcoholic drink offered at the gathering. |
 | 게르 | **ger** | Traditional nomadic dwelling contrasted with Central Plains wooden buildings. |
 | 한족 | **Han Chinese** | Ethnic designation used by the steppe chieftains. |
+| 흑사 | **Black Sand** | Eyepatched middle-aged leader of the Black Sand Band; a newly introduced identity. |
+| 흑사대 | **Black Sand Band** | Han-Chinese mounted-bandit force of one hundred. |
+| 천풍단 | **Heavenly Wind Band** | Five-hundred-member northern plateau mounted-bandit force subordinate to Black Sand. |
+| 천풍단주 | **Heavenly Wind Band Leader** | Leader operating under Black Sand's orders near Datong. |
+| 하곡 | **Hequ** | Route and Jin Family branch targeted as the alliance's entry point into Shanxi. |
