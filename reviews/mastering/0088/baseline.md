@@ -4,19 +4,19 @@
 
 Her eyes widened when she saw me.
 
-She wore an apron printed with the restaurant’s name and rubber gloves smeared with grease.
+My mother was wearing an apron with the restaurant’s name printed on it and a pair of rubber gloves smeared with grease.
 
 My mother.
 
-Her surprise quickly turned to bewilderment.
+Her surprised expression soon turned to bewilderment.
 
 “Ta-Taekyung, what are you doing here?”
 
-I flashed my flustered mother a broad grin. Just then, a shrill voice pierced my ear.
+I gave my flustered mother a broad grin. That was when a shrill voice pierced my ear.
 
-“So you’re Kim ajumma’s[^1] son?”
+“So you’re the son of Kim ajumma[^2]?”
 
-A middle-aged woman looked me over warily.
+A middle-aged woman was looking me over warily.
 
 There was no need to ask who she was or what she did. I already knew.
 
@@ -36,9 +36,9 @@ I answered with a pleasant smile.
 
 The owner narrowed her eyes.
 
-“Maybe it’s because you’re young, but you’re awfully thoughtless. If someone showed up out of the blue like this, how do you think I’d feel as the owner?”
+“Maybe it’s because you’re young, but you’re awfully thoughtless. If someone showed up out of the blue like this, how would you feel if you were the owner?”
 
-“Hmm. I suppose you’d be upset.”
+“Hmm. I suppose I’d be upset.”
 
 “Exactly!”
 
@@ -50,11 +50,11 @@ The owner narrowed her eyes.
 
 “Y-you do understand.”
 
-*What the hell is with this kid?*
+*What the hell is this kid?*
 
 That was probably exactly what the owner was thinking.
 
-Ignoring her confused reaction, I pulled my mother by the arm.
+Ignoring her confused reaction, I grabbed my mother by the arm.
 
 “In that case, we’ll be going now. Mom, go change so we can leave.”
 
@@ -82,7 +82,7 @@ I asked with an innocent expression,
 
 “Then what is this?”
 
-“I meant every word. From your perspective, Boss, you have every right to feel that way. But…”
+“What I said before was sincere. From your perspective, Boss, you had every right to feel that way. But…”
 
 I continued with a bright smile.
 
@@ -92,9 +92,9 @@ I continued with a bright smile.
 
 “Is that hard to understand? She’s quitting. Starting right now.”
 
-A heavy silence descended.
+A heavy silence settled over the restaurant.
 
-My mother stared blankly at me, while the owner’s face turned dark red before she shrieked.
+My mother stared at me blankly, while the owner’s face turned dark red before she shrieked,
 
 “Who said you could do that?!”
 
@@ -106,7 +106,7 @@ My mother stared blankly at me, while the owner’s face turned dark red before 
 
 “Y-you!”
 
-“Th-three, three! F-four, four!”
+“T-three, three! F-four, four!”
 
 That was as far as the owner’s patience went.
 
@@ -118,7 +118,7 @@ Grab!
 
 Someone caught the owner’s wrist in a single motion and glared at her.
 
-My mother spat the words out, radiating an aura fierce enough to make even a First Rate master flinch.
+My mother spat the words out with an aura fierce enough to make even a First Rate master flinch.
 
 “Whose son do you think you’re laying a hand on, you fucking bitch?”
 
@@ -130,7 +130,7 @@ I had heard her swear once earlier in the dining area, but this was the first ti
 
 “You’ve been getting on my nerves from the start! Hey!”
 
-The owner charged at my mother, but I stepped between them.
+The owner charged at my mother, but I stepped in front of her.
 
 I was big enough to stand out wherever I went. Simply standing between the two middle-aged women was more than enough.
 
@@ -146,15 +146,15 @@ The owner’s eyes rolled back as she began wildly swinging her arms with a scre
 
 Of course, none of her attacks posed the slightest threat to me.
 
-*It’s embarrassing to even call that an attack.*
+*Calling that an attack is embarrassing.*
 
-Compared to the enemies I had faced inside Gates and in the Murim, it was no more dangerous than a fly beating its wings. Now that my bones and muscles, Sinews and Meridians, and Toughness had all improved dramatically, even a punch from an ordinary adult man would only tickle.
+Compared to the enemies I had faced in Gates and the Murim, her attacks were no more dangerous than the fluttering of a fly’s wings. With my bones, muscles, tendons, and ability to take a hit all dramatically enhanced, even a punch from an ordinary adult man would only tickle.
 
 “Please stop. You look like you’re having a really hard time.”
 
 As expected, the owner’s struggle ended quickly.
 
-She was in her fifties and morbidly obese. Her body clearly had its limits.
+She was now in her fifties and morbidly obese; her body clearly had its limits.
 
 “Huff, huff! You Hunter bastard, are you bullying a civilian?”
 
@@ -162,27 +162,27 @@ That she could come out with a line like that—I had to marvel at how the owner
 
 “Me? Bullying you?”
 
-“Can’t you see I’m hurt? My fingernail broke, and it’s bleeding!”
+“Can’t you see that I’m hurt? My fingernail broke and it’s bleeding!”
 
-“You hurt yourself hitting me. I’ve just been standing here, so why are you trembling all by yourself?”
+“You hurt yourself hitting me. I’ve just been standing here, so why are you shaking all by yourself?”
 
 “Whatever!”
 
 This was a bumper crop of bullshit.
 
-I glanced around. The kitchen staff and the customers in the dining area were all watching the owner’s stand-up routine with disgusted expressions.
+I glanced around. The kitchen employees, along with the customers in the dining area, were watching the owner’s stand-up routine with exhausted expressions.
 
-“If you can’t accept what happened, call the police. There must be about fifty witnesses here, so that works out nicely.”
+“If you can’t accept what happened, call the police. There must be about fifty witnesses here, so that should work out nicely.”
 
 “…”
 
 “Not going to call? Since you were injured and bled because of a Hunter, you should go to the police station, give a statement, file a complaint, and hire a lawyer. You’ll be busy starting tomorrow.”
 
-I had intended to tease her a little longer, but the more we talked, the more I felt I was wasting my time. I clicked my tongue.
+I had intended to tease her a little longer, but the more we talked, the more I felt my time slipping away. I clicked my tongue.
 
 “What are you, the mayor? You’re only the owner. Don’t make everyone around you miserable, and try to have a better attitude. We’re leaving.”
 
-I was about to turn away when the corners of the owner’s mouth twisted with resentment.
+I was about to turn around when the owner, her face twisted with resentment, crooked her lips.
 
 “You live in Bucheon, don’t you?”
 
@@ -190,9 +190,9 @@ I was about to turn away when the corners of the owner’s mouth twisted with re
 
 “Which Guild in Bucheon are you with?”
 
-“Would you know it if I told you?”
+“Would it mean anything if I told you?”
 
-“My son would. Our Minsu is a Hunter in Bucheon, too.”
+“My son would know. Our Minsu is a Hunter in Bucheon, too.”
 
 “Oh, really?”
 
@@ -204,13 +204,13 @@ I was about to turn away when the corners of the owner’s mouth twisted with re
 
 Kim Minsu?
 
-Sure. Over the past seven years, I had probably crossed paths with more than thirty people named Minsu.
+Of course I knew him. Over the past seven years, I had probably crossed paths with more than thirty people named Minsu.
 
-I answered indifferently.
+I answered indifferently,
 
-“Do you know Seong Jinho? He’s the most famous person in our goshiwon.[^2]”
+“Do you know Seong Jinho? He’s the most famous person in our goshiwon.[^1]”
 
-“Pfft, a goshiwon? I suppose that’s the level you’d expect from an F-rank Hunter. Is your income really that bad?”
+“Pfft, a goshiwon? I suppose that’s the level you’d expect from an F-rank Hunter. Is business really that bad?”
 
 “It’s kind of you to worry, but I make a decent living. I made four billion won just yesterday.”
 
@@ -222,15 +222,15 @@ I hadn’t wanted to boast about money like a child, but she just had to tug on 
 
 There was one thing I had forgotten, though.
 
-People always judged everything according to their own common sense.
+People always made their judgments based on the common sense they possessed.
 
 “Four billion won? An F-rank Hunter made that much?”
 
-“Obviously, he’s bluffing. A Hunter I know said an F-rank Hunter has to work like hell to make even a hundred million won. And didn’t you hear him? He said he made four billion won in a single day, not in a year. It’s not like he won the lottery. Does that make any sense?”
+“Obviously, he’s bluffing. A Hunter I know said an F-rank Hunter has to work like hell to make even a hundred million won. And did you hear him? He said he made four billion won in a single day, not in a year. It’s not like he won the lottery. Does that make any sense?”
 
 “Geez, I almost thought he was telling the truth.”
 
-The customers in the dining area and even the kitchen staff, who had quietly seemed to be rooting for me, began looking at me doubtfully.
+The customers in the dining area, along with the kitchen employees who had quietly seemed to be rooting for me, began looking at me doubtfully.
 
 Well, even I had to admit it sounded absurd.
 
@@ -248,17 +248,17 @@ The owner snorted.
 
 “…”
 
-“What? Are you stunned because it’s so high?”
+“What? Is that too high for you to believe?”
 
 “No, well… I’ll admit I’m a little surprised.”
 
-She had sounded so confident that I thought her son was at least Monkey D. Minsu.
+She had sounded so confident that I had thought her son was at least Monkey D. Minsu.
 
 *Where is there a famous D-rank Hunter in Bucheon?*
 
 Perhaps she mistook my momentary silence for shock. The owner let out a series of derisive chuckles.
 
-“You have to be a D-rank Hunter like my son to get respect wherever you go. An F-rank Hunter must be too embarrassed to even admit what he does for a living.”
+“A D-rank Hunter like my son is the kind of person who gets respect wherever he goes. An F-rank Hunter must be too embarrassed to even admit what he does for a living.”
 
 “I wasn’t that embarrassed. I spoke just fine.”
 
@@ -288,7 +288,7 @@ I had so many point cards and discount coupons in my wallet that finding anythin
 
 “N-no way. I heard you were F-rank…”
 
-“I was F-rank. I’m C-rank now. You’re pretty slow about updating your information.”
+“I was F-rank. I’m C-rank now. You’re pretty slow when it comes to getting updated information.”
 
 “I-isn’t this fake? The color is completely different from my Minsu’s license!”
 
@@ -306,13 +306,13 @@ My mother slipped her arm through mine with a proud smile, while the owner’s f
 
 “D-does a Hunter’s rank really matter? C-rank and D-rank are only one step apart. They’re practically the same.”
 
-*Was that supposed to be an argument or a fart?*
+*What kind of logic was that supposed to be?*
 
-All I could do was laugh hollowly at her absurd struggle.
+All I could do was give a hollow laugh at her absurd struggle.
 
 “That’s not something a person who looked down on someone for their Hunter rank should be saying.”
 
-“Is a person’s title all that matters? The company they work for matters more. People respect an Assistant Manager at a major corporation more than a section manager at a small company. Am I wrong?”
+“Are titles all that matter? The company you work for matters more. People respect an assistant manager at a major corporation more than a section manager at a small company. Am I wrong?”
 
 “I don’t know about that, but the customers here don’t seem to agree with you.”
 
@@ -328,7 +328,7 @@ Dozens of office workers from small and midsize companies were glaring at the ow
 
 “Yeah. Let’s go.”
 
-“Everyone, let’s eat somewhere else. There’s a decent set-meal place right up ahead. I may not be an Assistant Manager at a major corporation, but I’m a section manager at a small company, so lunch is on me.”
+“Everyone, move tables. There’s a decent set-meal place right up ahead. I may not be an assistant manager at a major corporation, but I’m a section manager at a small business, so lunch is on me.”
 
 Scrape.
 
@@ -336,17 +336,17 @@ At the middle-aged man’s words, five or six of his subordinates stood and foll
 
 Similar scenes began unfolding throughout the dining area.
 
-“Customers, that’s not what I meant. Customers!”
+“Customers, that’s not what happened. Customers!”
 
 “What do you mean, it’s not? Just watch me never come back here.”
 
 “But your orders have already gone in. If you leave like this…”
 
-“Looking at that kitchen, it’ll take an hour anyway. Forget it. We’re leaving too.”
+“Looking at that kitchen, it’ll take an hour anyway. Enough. We’re leaving.”
 
-Despite the dining staff’s attempts to stop them, the customers streamed out like the receding tide.
+Despite the dining staff’s attempts to stop them, the customers streamed out like the tide going out.
 
-Barely a minute later, fewer than ten customers remained in the dining area.
+After barely a minute had passed, fewer than ten customers remained in the dining area.
 
 *Damn. I can already hear the sound of this place going under.*
 
@@ -354,9 +354,9 @@ The owner was trembling with anger and bewilderment.
 
 “You… You people…”
 
-“So which Guild did you say your son was with?”
+“So which Guild did your son say he was with?”
 
-“Our Minsu is a real hotshot Hunter in Sangdong Guild! Someone like you…”
+“Our Minsu is one of the top Hunters in Sangdong Guild! Someone like you…”
 
 “What? Which Guild?”
 
@@ -372,37 +372,37 @@ Beep. Beep. Beep. Click.
 
 “Uh, what is it?”
 
-“What do you mean, what is it? Are we only supposed to call each other when we have business?”
+“Were we only supposed to call each other when we had business?”
 
 “…I sent you the promised four billion won, though.”
 
 “Ah, I checked that. It came through fine.”
 
-The conversation continued over speakerphone, loud enough for everyone to hear.
+The entire conversation continued over speakerphone, loud enough for everyone to hear.
 
 Four billion won.
 
-The moment it became clear that what I had said earlier was true, everyone’s eyes nearly popped out of their heads. I ignored all the stares and got to the point.
+The moment it became clear that what I had said earlier was true, everyone’s eyes seemed ready to pop out of their heads. I ignored all the attention and got to the point.
 
 “Do you happen to know a Kim Minsu?”
 
 “Kim Minsu? That’s the first I’ve heard of him.”
 
-“You’re a Team Leader in Sangdong Guild, and you don’t even know him? Apparently, he’s a D-rank Hunter in your Guild.”
+“You’re a Team Leader in Sangdong Guild and you don’t even know that? They say he’s a D-rank Hunter in your Guild.”
 
-“D-rank Hunters are a dime a dozen. How am I supposed to know all of them? Is that why you called?”
+“D-rank Hunters are a dime a dozen. How would I know all of them? Is that why you called?”
 
 “Yeah. Bye.”
 
-Getting Im Changsoo’s business card in case he tried to stiff me had been a stroke of genius.
+Taking Im Changsoo’s business card in case he tried to stiff me had been a stroke of genius.
 
 Click.
 
-As soon as I hung up, the owner asked in a faltering voice.
+As soon as I hung up, the owner asked in a faltering voice,
 
 “W-who was that?”
 
-“Didn’t you hear? He’s a Team Leader in Sangdong Guild. Put simply, he’s Mr. Minsu’s boss.”
+“Didn’t you hear? He’s the Team Leader of Sangdong Guild. In simple terms, he’s Mr. Minsu’s boss.”
 
 “…Team Leader? His boss?”
 
@@ -416,15 +416,15 @@ There was no longer any reason or need to exchange another word with her. I turn
 
 “Let’s go now.”
 
-“Shall we, son?”
+“Should we, son?”
 
 My mother, Kim Jeonghee, flashed a broad smile and shoved her work clothes into the sink.
 
 Of course, she didn’t forget to leave the owner with one final remark.
 
-“If you’re a parent, act like one and live right, you ajumma. Where do you get off casually running your mouth about someone else’s precious child?”
+“Live like a parent should, you ajumma. Where do you get off casually running your mouth about someone else’s precious child?”
 
-The final blow.
+That was the final blow.
 
 The owner lowered her head without answering, and we left the restaurant with light steps.
 
@@ -434,6 +434,6 @@ The owner lowered her head without answering, and we left the restaurant with li
 
 The weather was beautiful.
 
-[^1]: *Ajumma* is a familiar Korean term for a married or middle-aged woman, commonly used by customers or employers to address service workers.
+[^1]: A *goshiwon* is a tiny, inexpensive room-for-rent housing arrangement, often with shared facilities.
 
-[^2]: A *goshiwon* is a tiny, inexpensive room-for-rent housing arrangement, often with shared facilities.
+[^2]: *Ajumma* is a familiar Korean term for a married or middle-aged woman, commonly used by customers or employers to address service workers.
