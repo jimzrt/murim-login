@@ -81,10 +81,24 @@ const { count, size, warnings } = await generateSW({
   ],
   swDest: resolve(outDir, "sw.js"),
   navigateFallback: offlinePath,
-  navigateFallbackDenylist: [/\/pagefind\//],
+  navigateFallbackDenylist: [
+    /\/pagefind\//,
+    /\/web(?:\/|$)/,
+    /\/api(?:\/|$)/,
+    /\/auth(?:\/|$)/,
+    /\/email(?:\/|$)/,
+    /\/image(?:\/|$)/,
+    /\/avatar(?:\/|$)/,
+    /\/admin(?:\/|$)/,
+  ],
   skipWaiting: true,
   clientsClaim: true,
+  sourcemap: false,
   runtimeCaching: [
+    {
+      urlPattern: /\/(?:web|api|auth|email|image|avatar|admin)(?:\/|$)/,
+      handler: "NetworkOnly",
+    },
     {
       urlPattern: ({ request }) => request.mode === "navigate",
       handler: "NetworkFirst",
