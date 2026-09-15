@@ -412,3 +412,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 천풍단주 | **Heavenly Wind Band Leader** | Leader operating under Black Sand's orders near Datong. |
 | 하곡 | **Hequ** | Route and Jin Family branch targeted as the alliance's entry point into Shanxi. |
 | 참마검 | **horse-chopping sword** | Heavy saber used by the Human Butcher; rendered descriptively. |
+| 삼매진화 | **Samadhi True Fire** | Internal-energy flame demonstrated by the unnamed old man. |

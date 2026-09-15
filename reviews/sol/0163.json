@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The curse of time could not be held back by sixty years of internal energy, nor by the Scorching Yang Qi of a Supreme Peak master.",
+      "defect": "The draft reduces two jiazi of internal energy—one hundred and twenty years—to sixty years, and incorrectly changes a Supreme Peak master's manifested qi into the specifically fire-aligned Scorching Yang Qi.",
+      "id": "F01",
+      "rationale": "이 갑자 means two jiazi, while 강기 is manifested qi and is distinct from 열양지기, which appears later in the chapter.",
+      "replacement": "The curse of time could not be held back even by his two jiazi of internal energy, or by the manifested qi of a Supreme Peak master.",
+      "severity": "critical",
+      "source": "세월이 내리는 저주는 이 갑자의 공력으로도, 초절정 고수의 강기로도 막아 낼 수 없다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "— I’m listening. Answer me.",
+      "defect": "The subject is reversed: Black Sand is demanding that Chinggen acknowledge that he is listening, not announcing that Black Sand himself is listening.",
+      "id": "F02",
+      "rationale": "Chinggen has deliberately shown no reaction to the Sound Transmission, so Black Sand presses him to respond.",
+      "replacement": "— Are you listening? Answer me.",
+      "severity": "critical",
+      "source": "- 듣고 있소, 대답하시오."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Come back in a month.”",
+      "defect": "The draft turns the old man's declaration that he will return into an order for Chinggen to return.",
+      "id": "F03",
+      "rationale": "The omitted first-person subject is established by the old man immediately departing after assigning the search to Chinggen.",
+      "replacement": "“I’ll be back in about a month.”",
+      "severity": "critical",
+      "source": "“달포 후에 다시 오지.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“And you two with the bare foreheads.”",
+      "defect": "까진 means scraped or abraded, not bare; the draft loses the minor injury caused by their earlier prostration.",
+      "id": "F04",
+      "rationale": "The old man identifies Temur and Chinggen by their scraped foreheads rather than by exposed or hairless foreheads.",
+      "replacement": "“And you two with the scraped foreheads.”",
+      "severity": "minor",
+      "source": "“거기 이마 까진 두 놈도.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "With every step, the landscape flashed past, and the grass bent beneath the wind.",
+      "defect": "The draft invents wind as the cause of the grass bending, weakening the connection between the phenomenon and the old man's movement.",
+      "id": "F05",
+      "rationale": "The source describes the landscape and grass responding as he strides forward and does not mention wind.",
+      "replacement": "With every step, the landscape flashed past and the grasses bowed low.",
+      "severity": "minor",
+      "source": "그의 한걸음에 풍경이 휙휙 스쳐 지나가고 풀들이 허리를 굽혔다."
+    },
+    {
+      "confidence": 0.93,
+      "current": "“Huh. Damn.”",
+      "defect": "The draft adds profanity to a mild expression of disbelief and exasperation.",
+      "id": "F06",
+      "rationale": "허, 참 is an exasperated reaction, not a curse, and the translation rules prohibit intensifying ordinary lines into profanity.",
+      "replacement": "“Well, now.”",
+      "severity": "minor",
+      "source": "“허, 참.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The old man closed his mouth.",
+      "defect": "The wording is an unnatural anatomical calque for becoming silent.",
+      "id": "F07",
+      "rationale": "입을 다물었다 describes his cessation of speech here, and the replacement preserves that action in natural English.",
+      "replacement": "The old man fell silent.",
+      "severity": "minor",
+      "source": "노인은 입을 다물었다."
+    }
+  ],
+  "summary": "Two critical subject and action reversals, one critical quantity and qi-mechanism error, and several localized register, injury, and causality issues.",
+  "version": 1
+}

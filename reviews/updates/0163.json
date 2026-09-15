@@ -1,0 +1,90 @@
+{
+  "chapter": 163,
+  "files": {
+    "characters/Black Sand.md": "197ae3bb7247042558a985cb2fa4ab61d14d68d404debf6f3a319622b8a7c746",
+    "characters/Chinggen.md": "b742ae75050e1ee6c1bf186109d78c1fdc5f3adcda66dadd32a418f09f85b9d3",
+    "characters/Human Butcher.md": "992d734751c0dc8a86277dde7905b9df7b90f60e9c4a73197ee097f85237caba",
+    "characters/Temur.md": "51f2aa718d4bb398fb25879b702844e741b2d2fb6b22c6f8a0340488009b6adf",
+    "docs/ADDRESS.md": "b9d25c88967039263d2de132f453cb87d8fe5ee57815c6fd40bade55ab6533ea",
+    "docs/CONTEXT.json": "4d25c0e4864eb0b57b12477c5213ef37e32990fb0370abc52be0debac04ef74c",
+    "docs/NAMES.md": "fcd18dd40779b02a6a2cfa7517e1d4c760cef47a20918c27cd48a3b09e4495dc",
+    "docs/STATE.md": "1fcf43daa19a705529febed6c0fe0f439607217cb42cd97757c532aee5120a19",
+    "summaries/beats/0163.md": "d836ed6b06776051455564f6f97cc6692dfd59c78b67793811a558e973aacecb"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "노인",
+        "kinship": "subordinate_to_overwhelming_unknown_master",
+        "normal_address": "Elder, then big brother; both rejected",
+        "notes": "Black Sand first uses 어르신 and then 형님 while trying to placate the old man; the old man rejects both forms.",
+        "speaker": "흑사",
+        "speech_level": "deferential and fearful"
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "The unnamed old man is a Supreme Peak master nearing one hundred years old; his old age has caused increasingly long periods of unconsciousness, but he has delayed its effects for roughly twenty years with two jiazi of internal energy.",
+        "The old man is searching for an unidentified Peak master who mainly uses a sword and palm techniques, carrying a portrait and asking the Northern Gaoyuan's local powers for information.",
+        "Black Sand was killed by the unnamed old man after attempting to exploit the old man's senility and obtain his martial arts; Chinggen and Temur survived the encounter.",
+        "The old man left the Northern Gaoyuan for Datong and said he would return in about a month."
+      ],
+      "plot": [
+        "An unnamed Supreme Peak master, nearly a hundred years old and suffering from worsening bouts of senility, arrives at the Northern Gaoyuan and forces Black Sand, Temur, Chinggen, and more than two hundred followers to serve him. He demonstrates overwhelming strength, Samadhi True Fire, and Scorching Yang Qi while asking about their influence and searching for someone depicted in a portrait: a Peak master who mainly uses a sword and palm techniques.",
+        "Black Sand attempts to manipulate Chinggen through Sound Transmission, planning to find the sought-after master and extort the old man's martial arts while his mind is impaired. The old man hears the scheme, kills Black Sand with a single palm, and says he will return in about a month. He then leaves the Northern Gaoyuan and heads toward Datong on the Shanxi–Gaoyuan border to continue the search."
+      ],
+      "translation_decisions": [
+        "Render 삼매진화 as “Samadhi True Fire.”",
+        "Render 정기신 as “essence, qi, and spirit,” 백염 as “white flames,” and 입신지경 as “a transcendent realm.”",
+        "Render 노인's rejected forms of address 어르신 and 형님 as “elder” and “big brother,” respectively; preserve the old man's abrasive vulgar voice."
+      ]
+    },
+    "chapter": 163,
+    "context": {
+      "active_continuity": [
+        "The unnamed old man is a Supreme Peak master nearing one hundred years old whose old age causes increasingly long periods of unconsciousness; he delayed its effects for roughly twenty years with two jiazi of internal energy.",
+        "The old man can use Samadhi True Fire and possesses overwhelmingly potent Scorching Yang Qi, along with extraordinary physical strength.",
+        "The old man is searching for an unidentified Peak master who mainly uses a sword and palm techniques; he carries a portrait and sought information from the Northern Gaoyuan's local powers.",
+        "Black Sand attempted to manipulate the old man's senility through a plan to locate the sought-after master and obtain the old man's martial arts.",
+        "The old man killed Black Sand with a single palm after overhearing the plan; Chinggen and Temur survived.",
+        "The old man left the Northern Gaoyuan for Datong on the Shanxi–Gaoyuan border and said he would return in about a month."
+      ],
+      "continuity_sources": [
+        163
+      ],
+      "open_questions": [
+        "Who is the unnamed Supreme Peak master, and what is his relationship to the Peak master he seeks?",
+        "Who is the unidentified Peak master being sought, and where is that person?"
+      ],
+      "safe_through": 163,
+      "temporary_decisions": [
+        "Render 삼매진화 as “Samadhi True Fire.”",
+        "Render 정기신 as “essence, qi, and spirit,” 백염 as “white flames,” and 입신지경 as “a transcendent realm.”",
+        "Render 어르신 as “elder” and 형님 as “big brother” when Black Sand addresses the old man, preserving the old man's rejection of both forms."
+      ],
+      "version": 1
+    },
+    "names": [
+      {
+        "english": "Samadhi True Fire",
+        "korean": "삼매진화",
+        "notes": "Internal-energy flame demonstrated by the unnamed old man."
+      }
+    ],
+    "profile_creations": [],
+    "profile_updates": [
+      {
+        "current": "- **Role:** Leader of the Black Sand Band, a Han-Chinese mounted-bandit power of one hundred; secretly commands the five-hundred-member Heavenly Wind Band through its leader and organizes the planned attack on the Jin Family of Taiyuan",
+        "path": "characters/Black Sand.md",
+        "replacement": "- **Role:** Former leader of the Black Sand Band, a Han-Chinese mounted-bandit power of one hundred; he was killed by the unnamed Supreme Peak old man after attempting to manipulate the old man's search"
+      },
+      {
+        "current": "- **Relationships:** Commands the Black Sand Band and the subordinate Heavenly Wind Band; recruited the Human Butcher, Temur, and Chinggen into a four-way alliance against the Jin Family of Taiyuan, but the Human Butcher was killed by an unnamed old man during their gathering",
+        "path": "characters/Black Sand.md",
+        "replacement": "- **Relationships:** Formerly commanded the Black Sand Band and the subordinate Heavenly Wind Band; recruited the Human Butcher, Temur, and Chinggen into a four-way alliance against the Jin Family of Taiyuan, but was killed by the unnamed Supreme Peak old man after attempting to manipulate him"
+      }
+    ],
+    "version": 1
+  },
+  "version": 1
+}
