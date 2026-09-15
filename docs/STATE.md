@@ -1,15 +1,17 @@
 # Translation State
 
-- Last completed: 146
-- Next chapter: 147
-- Current block: 145–149 (2/5)
-- Latest translation: `translations/0146.md`
-- Latest summary: `summaries/beats/0146.md`
-- Safe profiles through: chapter 146
+- Last completed: 147
+- Next chapter: 148
+- Current block: 145–149 (3/5)
+- Latest translation: `translations/0147.md`
+- Latest summary: `summaries/beats/0147.md`
+- Safe profiles through: chapter 147
 
 ## Current Block
 
-- At the end of the luncheon, Zhu Bao gives Jin Taekyung a golden medallion called Prince Shangshan's Token, which can be presented to request a favor; Taekyung receives it as the Quest Reward. Hong Jin boards Taekyung's carriage without an appointment and arranges gifts, a messenger, soldiers, and a delegation to visit the Jin Family of Taiyuan, while Li Feng entrusts Cheongpung to Taekyung. Cheongpung decides to stay at the Jin Family after obtaining the Royal Guard Armor Set, and the Five Gates of Shanxi's young prodigies agree to remain at Honghwa Inn until New Year's Day while supporting the Seongun Escort Bureau. During the journey, Cheongpung reveals that he came to Huashan at about age three or four and was not born there. Hong Jin reveals that he is a eunuch, explains that he once served the late Emperor and was ordered to assist Prince Shangshan, and says he came to the frontier in something like exile before the carriage reaches the Jin Family of Taiyuan.
+- After returning to the Jin Family of Taiyuan following nearly ten days away, Jin Wikyung is confronted with hundreds of bamboo slips and a mountain of administrative work. Wipeng mocks his refusal to hire rigid scholars: the only two he selected worked four nights and then fled, one falsely claiming his mother was gravely ill and the other disappearing after going to the latrine.
+- A messenger announces that Hong Jin and Jin Taekyung are approaching the family together. Hong Jin has sent Jin Wikyung a bank draft for one thousand silver nyang as a gift and bribe, prompting Wikyung and Wipeng to prepare an elaborate welcome and summon Jin Mukyung from training to wash before the visit.
+- At the Jin Family's gate, Taekyung finds a huge banner celebrating the Deputy Military Commissioner's visit and learns that Hong Jin has given Wikyung a thousand silver nyang. Hong Jin gives Taekyung a small silver yuanbao as pocket money for candied hawthorn skewers; after Hong Jin makes a suggestive joke, Taekyung remembers that he is a eunuch, while Cheongpung innocently offers to become Taekyung's 'ball friend.' Wikyung, Wipeng, and the flushed Mukyung then greet the visitors while waving banners praising the Great Nation, the Emperor, and Prince Shangshan.
 
 ## Open Questions
 
@@ -30,7 +32,7 @@
 - Render 후배님 and 선배님 as “Junior” and “Senior” in the Gong Ilhyuk exchange.
 - Render 태사부 as “Grandmaster” and 사숙 as “Martial Uncle” in the Huashan context.
 - Render 자하신공 as “Zaha Divine Technique”; render 근위대 as “royal guard” and 근위대 갑옷 세트 as “Royal Guard Armor Set.”
-- Render 고평문 as “Gopyeong Sect,” 고평지부 as “Gopyeong Branch,” 별호 as “martial title,” 상산왕의 증표 as “Prince Shangshan's Token,” 선황 as “the late Emperor,” 내관 as “palace attendant,” and 고자 contextually as “eunuch” or “castrated.”
+- Render 고평문 as “Gopyeong Sect,” 고평지부 as “Gopyeong Branch,” 별호 as “martial title,” 상산왕의 증표 as “Prince Shangshan's Token,” 선황 as “the late Emperor,” 내관 as “palace attendant,” 고자 as “eunuch,” 금성전장 as “Golden Star Exchange,” 전표 as “bank draft,” 은자 as “silver nyang,” 철전 as “iron coins,” 은원보 as “silver yuanbao,” 사서삼경 as “Four Books and Three Classics,” 대국 as “Great Nation,” and 성군 as “sage king.”
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

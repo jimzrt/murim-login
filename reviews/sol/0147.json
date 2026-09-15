@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“I smell like sweat.”",
+      "defect": "The omitted subject is resolved incorrectly as the speaker; Wipeng is telling Jin Mukyung that Mukyung smells of sweat.",
+      "id": "F01",
+      "rationale": "The surrounding exchange addresses Jin Mukyung directly: he came from training, smells of sweat, and is therefore ordered to wash.",
+      "replacement": "“You smell like sweat.”",
+      "severity": "critical",
+      "source": "“땀 냄새 납니다.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "A thousand silver nyang was one hundred thousand nyang in copper coins.",
+      "defect": "The coin material is changed from iron to copper.",
+      "id": "F02",
+      "rationale": "철전 explicitly means iron coins, and the source gives the conversion in those terms.",
+      "replacement": "A thousand silver nyang was worth one hundred thousand nyang in iron coins.",
+      "severity": "critical",
+      "source": "은자 천 냥이면 철전으로는 십만 냥이다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“A thousand silver nyang. One hundred thousand nyang in copper coins.”",
+      "defect": "The repeated conversion again changes iron coins to copper coins.",
+      "id": "F03",
+      "rationale": "철전 denotes iron coins; the material must remain consistent in Hong Jin’s explanation.",
+      "replacement": "“A thousand silver nyang. That’s one hundred thousand nyang in iron coins.”",
+      "severity": "critical",
+      "source": "“은자 천 냥. 철전으로는 십만 냥.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "How many of the Four Books and Three Classics someone had memorized, or what they had learned from which great scholar, wasn’t important.",
+      "defect": "“How many” changes the source’s extent of memorization into a count of whole canonical books.",
+      "id": "F04",
+      "rationale": "얼마나 많이 asks how much material was memorized, not how many of the seven works were completed.",
+      "replacement": "How much of the Four Books and Three Classics someone had memorized, or what they had learned from which great scholar, wasn’t important.",
+      "severity": "minor",
+      "source": "사서삼경(四書三經)을 얼마나 많이 외웠느냐, 어느 석학의 문하에서 뭘 배웠느냐는 중요하지 않다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Decent scholars, my ass. Do you have no eyes?”",
+      "defect": "The translation adds explicit profanity to a dismissive but nonprofane retort, unnecessarily intensifying Jin Wikyung’s register.",
+      "id": "F05",
+      "rationale": "무슨 dismisses Wipeng’s description without the obscenity introduced by “my ass,” while 눈도 없나 questions his judgment of people.",
+      "replacement": "“Decent scholars? Please. Do you have no eye for people?”",
+      "severity": "major",
+      "source": "“괜찮은 유생은 무슨. 자넨 눈도 없나?”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Jin Wikyung had heard the rumors about the palace attendant who sat at the top of the military hierarchy and controlled the young prince with a single hand.",
+      "defect": "“With a single hand” literalizes 혼자서 and fails to convey that Hong Jin allegedly dominates and manipulates the prince single-handedly.",
+      "id": "F06",
+      "rationale": "혼자서 means by himself, while 쥐락펴락하다 means to control or manipulate someone at will.",
+      "replacement": "Jin Wikyung had heard the rumors about the palace attendant who sat at the top of the military hierarchy and single-handedly kept the young prince under his thumb.",
+      "severity": "major",
+      "source": "진위경 역시 들어 본 기억이 있다. 군부의 꼭대기에 앉아 혼자서 어린 왕을 쥐락펴락한다는 내관에 관한 소문을."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Hearing Hong Jin describe him like some vulgar man who had been bought off by a bribe didn’t sit well with me.",
+      "defect": "“Vulgar man” mistranslates 속물 and obscures that Taekyung resents Hong Jin depicting Wikyung as materialistic and easily bought.",
+      "id": "F07",
+      "rationale": "속물 refers to a shallow, materially motivated person rather than someone merely vulgar or coarse.",
+      "replacement": "I didn’t appreciate Hong Jin making him out to be some materialistic opportunist who could be bought with a bribe.",
+      "severity": "major",
+      "source": "그를 뇌물에 넘어간 속물처럼 표현하는 홍진이 곱게 보이지 않는 것이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Are there really this few people in the main family? No, wait. Are there really this few capable people in all of Shanxi Province?”",
+      "defect": "“Main family” does not follow the binding rendering of 본가, and both instances of “this few” are awkward in this question.",
+      "id": "F08",
+      "rationale": "본가 refers to the speaker’s own family here, and “so few” is the natural English degree construction.",
+      "replacement": "“Does our family really have so few people? No—are there really so few capable people in all of Shanxi Province?”",
+      "severity": "minor",
+      "source": "“본가에 이 정도로 사람이 없나? 아니지, 산서성에 기재가 이 정도로 없어?”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "At this point, he was cooked—cooked through.",
+      "defect": "The punchline changes 탔다, meaning that Wikyung has burned, into being merely cooked through, weakening the escalation from 구워삶다.",
+      "id": "F09",
+      "rationale": "The joke escalates from figuratively cooking someone into submission to having thoroughly burned him.",
+      "replacement": "At this point, he was burned—burned to a crisp.",
+      "severity": "minor",
+      "source": "이 정도면 탔다, 탔어."
+    }
+  ],
+  "summary": "Actionable subject, currency-material, register, characterization, and wording errors.",
+  "version": 1
+}

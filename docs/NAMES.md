@@ -327,3 +327,11 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 선황 | **the late Emperor** | The former Emperor whom Hong Jin served. |
 | 내관 | **palace attendant** | Hong Jin's former palace role; context identifies him as a eunuch. |
 | 고자 | **eunuch** | Castrated man; Hong Jin openly identifies himself by this term. |
+| 사서삼경 | **Four Books and Three Classics** | Confucian texts used to describe conventional scholarly learning. |
+| 금성전장 | **Golden Star Exchange** | Financial institution that issued the thousand-nyang bank draft. |
+| 전표 | **bank draft** | Negotiable draft used for the thousand-silver-nyang payment. |
+| 은자 | **silver nyang** | Silver currency unit. |
+| 철전 | **iron coins** | Lower-value coin currency used to compare the payment's value. |
+| 은원보 | **silver yuanbao** | Small silver ingot given to Taekyung as pocket money. |
+| 대국 | **Great Nation** | Political wording on the Jin Family's welcome banner. |
+| 성군 | **sage king** | Desired form of rulership proclaimed for Prince Shangshan. |
