@@ -157,3 +157,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 적풍단주 | **Red Wind Band Leader** | Unnamed leader of the Red Wind Band; commands two hundred followers. |
 | 관제묘 | **Guandi Temple** | Shrine type mentioned in martial-arts novels. |
 | 흑도 | **dark-path figures** | Generic category of underworld martial forces. |
+| 오색귀 | **Five-Colored Ghosts** | Nickname for the five former subordinates of Jang Sam. |
+| 이삼 | **Lee Sam** | Leader of the ten-man human-trafficking group; his Level window identifies him by this name. |
