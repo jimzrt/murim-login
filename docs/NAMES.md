@@ -459,3 +459,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 왕팔 | **Wangpal** | One of the youths who tried to take Jangcheon's dumpling. |
 | 홍소칠 | **Hong Sochil** | One of the youths who tried to take Jangcheon's dumpling. |
 | 소우평 | **So U-pyeong** | One of the youths who tried to take Jangcheon's dumpling. |
+| 보옥 | **Treasured Jade** | Missing Fire Gate Clan treasure sought by Jeok Cheongang. |
