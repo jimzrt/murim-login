@@ -1,0 +1,15 @@
+{
+  "summary": "Faithful overall, with one minor binding terminology inconsistency.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "line 199 / P81",
+      "current": "excellent gear",
+      "defect": "The binding glossary term 장비 is rendered as “gear” instead of “equipment,” making it inconsistent with the chapter’s earlier rendering.",
+      "replacement": "excellent equipment",
+      "rationale": "The source says 훌륭한 장비, and the exact glossary binds 장비 to “Equipment.” P22 also renders the same term as “equipment.”",
+      "confidence": 0.99
+    }
+  ]
+}

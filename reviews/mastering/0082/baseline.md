@@ -1,12 +1,12 @@
 # Chapter 82
 
-Fifteen people in total. With nearly half of them B-rank Hunters, it had turned into a lavish raid team—even taking the Gate’s rank into account.
+Fifteen people in total. With nearly half of them being B-rank Hunters, it had turned into a lavish raid team—even taking the Gate’s Grade into account.
 
 “Were B-rank Hunters always this common?”
 
 I agreed with Im Kkeokjeong.
 
-“Seriously.”
+“Exactly.”
 
 Before, even when I went looking for them, I had been lucky to catch a glimpse of their coat tails. They had always lived in a completely different world from people like Im Kkeokjeong and me.
 
@@ -14,11 +14,11 @@ Before, even when I went looking for them, I had been lucky to catch a glimpse o
 
 “Me?”
 
-“Yeah. I saw you chatting pretty comfortably with that other Team Leader earlier.”
+“Yeah. I saw you talking pretty comfortably with that other team leader earlier.”
 
-“It happens. We were just making small talk.”
+“I suppose I can do that. We were just making small talk.”
 
-“It happens, my ass. Not long ago, you would’ve broken your neck trying to look up high enough to talk to one of them.”
+“You suppose? Not long ago, you would’ve broken your neck just trying to raise your head high enough to talk to one of them.”
 
 *Was it really that bad?*
 
@@ -26,21 +26,21 @@ Come to think of it, he wasn’t wrong. I was simply the one who had changed.
 
 *They say the scenery changes when you change where you stand.*
 
-B-rank Hunters. Mountain ridges I couldn’t reach even with my hand outstretched now stood right before me.
+B-rank Hunters. Mountain ridges that I couldn’t reach even by stretching out my hand were now right in front of me.
 
 But the scenery wasn’t as beautiful as I had imagined.
 
 *They’re around Top-tier? No, maybe First Rate martial artists.*
 
-Both the Levels I’d checked with Qi Sense and the amount of mana I felt from them put them at about that level. Needless to say, I was a cut above them, armed with the System’s cheat-like advantages. Even compared to martial artists of the same Level, they would probably be a step below.
+Their Levels, which I had checked with Qi Sense, and the amount of mana I felt from them were both right around that level. Needless to say, I was a cut above them, armed with the System’s cheat-like advantages. Even compared to martial artists of the same Level, they would probably be a step below.
 
 *That’s the difference between martial artists and Hunters.*
 
 Both sides had their strengths and weaknesses, but if they fought with nothing but their bodies, the Hunter would lose every time.
 
-Martial artists learned internal energy cultivation techniques that allowed them to efficiently use the qi within their bodies, then maximized its power through martial arts.
+Martial artists learned cultivation techniques that allowed them to use the qi inside their bodies efficiently, then maximized it through martial arts.
 
-*A Hunter would need proper equipment and magic to stand a chance.*
+*A Hunter would have a chance only after equipping proper gear and using magic, too.*
 
 The conclusion was simple. Martial artists had the advantage in individual ability, while Hunters were superior in group combat and tactics.
 
@@ -48,13 +48,13 @@ And…
 
 *I’m a total cheat character.*
 
-I was both a Hunter and a martial artist—a martial artist and a Hunter. I possessed all the advantages of two classes that were alike yet fundamentally different.
+I was a Hunter and a martial artist, a martial artist and a Hunter. I possessed all the advantages of two different classes that were alike and yet completely different.
 
-Even more frightening was the fact that I was still growing rapidly through the System.
+The frightening part was that I was still growing at an incredible speed through the System.
 
-*I kind of feel like the protagonist of a novel.*
+*This feels a little like becoming the protagonist of a novel.*
 
-Maybe I should write an autobiography when I got old and retired.
+Maybe I should write an autobiography after I got old and retired.
 
 *Login Murim.*
 
@@ -62,15 +62,15 @@ Something like that for the title.
 
 To anyone else, it would sound like a fantasy novel.
 
-“Everyone, assemble! Move into the formation I call out!”
+“Everyone, assemble! Move according to the formation I call out from now on!”
 
 At the shout, Im Kkeokjeong took a deep breath.
 
 “So it’s starting.”
 
-Im Kkeokjeong’s position was tank. He had to protect the team from the front.
+Im Kkeokjeong’s position was tank. He had to protect the team from the front line.
 
-Maybe it was the pressure of a B-rank Gate, but his usually smiling face had gone stiff.
+Maybe it was the pressure of a B-rank Gate. His face, which was always smiling, had hardened.
 
 “Can I do this?”
 
@@ -78,7 +78,7 @@ I patted him on the shoulder.
 
 “You can.”
 
-I wasn’t just saying that to make him feel better. The System window floating before my eyes was proof.
+I wasn’t saying it just to make him feel better. The System window floating before my eyes was proof.
 
 > **System**
 >
@@ -91,6 +91,8 @@ I wasn’t just saying that to make him feel better. The System window floating 
 > **Description:** Armor of the matador, by the matador, for the matador.  
 > **Effect:** Strength, Stamina, Toughness +10  
 > Against bovine-type monsters, All Stats +20.
+
+> **System**
 >
 > **Item Window**
 >
@@ -113,49 +115,47 @@ The sponsor—or rather, Team Leader Choi—approached quietly and spoke with a 
 
 “Put it on carefully. It’s part of my prized collection.”
 
-“…”
+“……”
 
-“…”
+“……”
 
 *He sure knows how to say something nice.*
 
 * * *
 
-Im Kkeokjeong took the lead as the tank. Once Butler Kim, the mage, and Miss Song-i, the healer, moved to the rear, only Team Leader Choi remained beside me.
+Im Kkeokjeong took the lead as the tank. Once Butler Kim, the mage, and Miss Song, the healer, moved to the rear, only Team Leader Choi remained beside me.
 
-“…Why are you looking at me like that?”
+“……Why are you looking at me like that?”
 
-Why else? I wanted him to switch positions with Miss Song-i.
+Why else? I wanted him to switch positions with Miss Song.
 
-How nice would it be to walk side by side, enjoying a pleasant stroll through the Gate? We could even save each other if monsters showed up.
+Wouldn’t it be nice to walk side by side, enjoying a pleasant stroll through the Gate? We could even save each other if monsters showed up.
 
-*The heavens clearly aren’t on my side.*
+*The heavens clearly aren’t helping me.*
 
-Even when I raised my head in lament, all I saw was the damp cavern ceiling. Of course, it was incomparably higher than the ceiling of an F-rank Gate.
+Even when I tilted my head up in lament, all I could see was the damp ceiling of the cavern. Of course, the ceiling was incomparably higher than in an F-rank Gate.
 
 “It’s definitely huge.”
 
 “It’s a B-rank Gate.”
 
-The higher a Gate’s rank, the larger its interior and the stronger the monsters that appeared within it. Of course, D-rank was as high as I’d ever gone, so this was my first time inside anything higher. That was what people said, anyway.
+The higher the Grade of a Gate, the larger its internal space and the stronger the monsters that appeared inside. D-rank was as high as I’d ever gone myself, so this was my first time seeing anything higher. That was what people said, anyway.
 
 “In some cases, you even have to climb a snow-covered mountain. I went once two years ago. It was horrible.”
 
-“Oh, was there some kind of accident?”
+“Oh, did some kind of accident happen?”
 
-“No. My boots weren’t enchanted with waterproofing.”
+“No. The boots I wore weren’t enchanted with waterproofing.”
 
-“…”
+“……”
 
 “I have cold hands and feet.”
 
-“…”
+“……”
 
 “Ah, both of those were jokes.”
 
-Of course they were jokes. How could someone above Level 60 have cold hands and feet?
-
-I was staring at Team Leader Choi with an incredulous expression when—
+Of course they were jokes. How could someone above Level 60 have cold hands and feet? I was staring at Team Leader Choi with an incredulous expression when—
 
 *Drrrk.*
 
@@ -165,11 +165,9 @@ I was staring at Team Leader Choi with an incredulous expression when—
 
 “Wait. Just a moment.”
 
-Was I imagining things?
+Was I imagining things? No.
 
-No.
-
-A faint vibration had traveled through the cavern floor. It lasted only an instant, but I had definitely felt it.
+There had been a faint vibration beneath the cavern floor. It had lasted only a brief moment, but I had definitely felt it.
 
 *Drrrk.*
 
@@ -191,7 +189,7 @@ It was difficult to determine exactly where the monsters were coming from based 
 
 “Where are they?”
 
-“…”
+“……”
 
 *Who is Im Changsoo asking? It’s not like the Minotaurs are going to answer him.*
 
@@ -199,11 +197,11 @@ It was difficult to determine exactly where the monsters were coming from based 
 
 “There! The hole on the far left!”
 
-“…Is this for real?”
+“……Is this for real?”
 
-I could hardly believe the sight even as I watched it.
+It was a sight I could hardly believe even while watching it.
 
-I clicked my tongue and gripped my spear. The Masterwork Black Thorn Spear—a vicious weapon with a high chance of putting an enemy into the Bleeding Status.
+I clicked my tongue and gripped my spear. The Masterwork Black Thorn Spear—a vicious weapon with a high chance of inflicting Bleeding on its enemies.
 
 “Doesn’t the grip feel great? I applied the finishing coat very carefully—”
 
@@ -221,7 +219,7 @@ They burst out of the darkness.
 
 Their bodies resembled humans, but their physiques were too massive to be human, and their muscles were grotesquely swollen.
 
-A rectangular Level window floated above two horns stained with dust and someone’s blood.
+Rectangular Level windows floated above two horns stained with dust and someone’s blood.
 
 > **System**
 >
@@ -239,11 +237,11 @@ There really was just one.
 
 *Could that Minotaur have gotten lost in the labyrinth, too?*
 
-“At that level, we should be able to handle it without ranged support, shouldn’t we?”
+“At that level, we should be able to deal with it without ranged support, shouldn’t we?”
 
 “Hye-rin, I’ll be right back.”
 
-The Sangdong Guild members confidently stepped forward. Two tanks and two damage dealers, all of them B-rank Hunters.
+The Sangdong Guild members confidently stepped forward. Two tanks and two damage dealers. All of them were B-rank Hunters.
 
 Their intention to show off in front of the women was painfully obvious.
 
@@ -279,7 +277,7 @@ The third hole.
 
 “Oh, three. At this rate, this might actually be a pretty fun fight.”
 
-“Anyone who gets so much as a scratch buys drinks tonight. How about it?”
+“Anyone who takes even one wound buys drinks tonight. How about it?”
 
 “I’m in.”
 
@@ -295,11 +293,11 @@ The third hole.
 
 “We should probably form up and take them out one at a time.”
 
-“Agreed.”
+“Me too.”
 
 Team Leader Choi, who had been watching the situation, scratched his neck.
 
-“Maybe we should wait a little longer before coming up with a strategy.”
+“Maybe we should wait a little longer and come up with a strategy.”
 
 “Huh?”
 
@@ -319,9 +317,9 @@ The only unexpected part was that this time, it wasn’t alone.
 
 Maybe it had a lot of friends. Four Minotaurs came stampeding out together.
 
-Including the ones that had already appeared, there were eight in total. Four B-rank Hunters had no chance against that many.
+Including the ones that had appeared earlier, there were eight in total.
 
-Team Leader Choi spoke.
+Four B-rank Hunters had no chance against that number. Team Leader Choi spoke.
 
 “What do you think?”
 
@@ -339,7 +337,7 @@ I had toned it down for the benefit of the ears around us.
 
 “Hmm.”
 
-Minotaurs were B-rank monsters, and their Levels were in the mid-to-late fifties.
+The Minotaur, a B-rank monster, was in the mid-to-late fifties in Level.
 
 For a martial artist, that would be close to Top-tier. But if I fought them, I would have to account for all sorts of variables.
 
@@ -347,7 +345,7 @@ Simply put, I would have to fight them to know.
 
 “I’m not sure.”
 
-“You’re not sure… Do you know something?”
+“You’re not sure…… Do you know something?”
 
 Team Leader Choi stared at me with a strange look in his eyes.
 
@@ -371,7 +369,7 @@ Im Changsoo suddenly cut in, his gaze sweeping over Team Leader Choi and me.
 
 “You were having such an interesting conversation that I couldn’t help overhearing some of it. You don’t mind, do you?”
 
-*Was it my imagination, or did that sound like “If you do mind, what are you going to do about it?”*
+*If we minded, what exactly would you do about it?*
 
 “For a C-rank with fuck-all to his name, you sure had a lot to say about Minotaurs and whatnot. You were practically writing a novel.”
 
@@ -383,19 +381,19 @@ I looked at Im Changsoo with fresh eyes.
 
 Everyone had clothes that suited them. The same went for smiles and attitudes.
 
-That was how Im Changsoo looked to me now. The mockery gathered in the raised corners of his mouth suited him perfectly. It was practically made for him.
+That was Im Changsoo in front of me. The mockery gathered in the corners of his raised mouth suited him perfectly. It was practically made for him.
 
 “I didn’t mean to offend you.”
 
 At Team Leader Choi’s characteristically impassive expression and tone, Im Changsoo let out a short laugh.
 
-“Why would I be offended? It’s the truth. These guys are fucking lousy. They only look impressive because people keep calling them B-rank. Among B-ranks, they’re complete bottom-of-the-barrel trash. But…”
+“Why would I be offended? It’s the truth. These guys are fucking lousy. They only look impressive because people keep calling them B-rank, but among B-ranks, they’re complete bottom-of-the-barrel trash. But……”
 
 Im Changsoo jerked his chin toward me.
 
 “They’re still better than a C-rank. Isn’t that right, Mr. Jang Taekyung?”
 
-I finally said what I had been holding back all this time.
+I finally said what I had been holding back since earlier.
 
 “It’s Jin Taekyung.”
 
@@ -405,7 +403,7 @@ I finally said what I had been holding back all this time.
 
 “What?”
 
-“Im Changsoo or Shit Changsoo. I don’t care what your surname is either.”
+“Im Changsoo or Shit Changsoo. I don’t care what your surname is, either.”
 
 The smile disappeared from Im Changsoo’s face.
 
