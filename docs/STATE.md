@@ -1,16 +1,16 @@
 # Translation State
 
-- Last completed: 183
-- Next chapter: 184
-- Current block: 180–184 (4/5)
-- Latest translation: `translations/0183.md`
-- Latest summary: `summaries/beats/0183.md`
-- Safe profiles through: chapter 183
+- Last completed: 184
+- Next chapter: 185
+- Current block: 180–184 (5/5)
+- Latest translation: `translations/0184.md`
+- Latest summary: `summaries/beats/0184.md`
+- Safe profiles through: chapter 184
 
 ## Current Block
 
-- Jin Taekyung intervenes when Chulwoo drags Woo Hwangtae away for a beating. After trading insults, Taekyung fights Chulwoo and repeatedly evades his overwhelming punches, confirming that his own special power gives him the advantage despite Chulwoo's Level 95 early-Peak strength. Chulwoo recognizes Taekyung as the Sleeping Dragon of Shanxi, while Taekyung learns that Chulwoo is a Huashan martial artist and the Defeated Flower Fist.
-- Wipeng arrives and stops Taekyung and Chulwoo before their quarrel can disgrace their respective schools. The two later return together to the gathering, prompting the crowd to assume they have quickly become close friends, while they privately continue insisting that neither used their full strength.
+- Jin Taekyung, Wipeng, Hyuk Mujin, Chulwoo, and Cheongpung enter the Jin Family of Taiyuan through a huge crowd. Taekyung receives intense admiration, salutes, and marriage proposals before Baek Museong formally identifies himself to Cheongpung as his Martial Nephew; Cheongpung does not recognize him.
+- At the Zhongnan Sect, Gong Ilhyuk reports that Cheongpung is the Sword Saint's Disciple to the Roaring Fury Swordsman and steers the angry elder toward the Jin Family's gathering. The elder orders the Three Hands of Zhongnan to lead him there.
 
 ## Open Questions
 
@@ -20,6 +20,8 @@
 - Who has the Treasured Jade, or was it lost by Jopil?
 - Does Jeok Cheongang actually intend to take Taekyung as his Disciple?
 - What consequences will follow Woo Hwangtae's conflict with Chulwoo and the Jin Family?
+- How will Baek Museong and Cheongpung respond after Cheongpung failed to recognize their relationship?
+- What will the Roaring Fury Swordsman do when he reaches the Jin Family's gathering?
 
 ## Exceptional Decision
 
@@ -29,6 +31,7 @@
 - Render 패화권 as “Defeated Flower Fist.”
 - Render 산서기협 as “Shanxi Extraordinary Hero,” distinct from 산서괴협.
 - Render 절정 초입 as “early Peak” and 권기 as “fist qi.”
+- Render 화산파 일대제자 as “First-generation Disciple of Huashan,” 사숙 as “Martial Uncle,” 노호검객 as “Roaring Fury Swordsman,” 하곡문 as “Hequ Sect,” and 양천 as “Yangcheon.”
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

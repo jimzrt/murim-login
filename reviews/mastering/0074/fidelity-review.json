@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Despite Jin Mukyung’s icy words, Jin Wikyung seemed not to hear a thing. Still deeply moved, he spread both arms wide.",
+      "defect": "The translation omits that Jin Mukyung continued speaking coldly, treating the preceding quoted remark as the entirety of his response.",
+      "id": "F01",
+      "rationale": "싸늘한 말이 이어졌지만 explicitly says the cold remarks continued while Jin Wikyung ignored them.",
+      "replacement": "Jin Mukyung continued speaking in an icy tone, but Jin Wikyung seemed not to hear a thing. Still deeply moved, he spread both arms wide.",
+      "severity": "minor",
+      "source": "Korean line 79 / [P40]"
+    },
+    {
+      "confidence": 1.0,
+      "current": "**[Yesterday’s Enemy, Today’s Ally]**",
+      "defect": "The Quest title retains square brackets inside a System window, contrary to the binding System UI convention.",
+      "id": "F02",
+      "rationale": "The editorial rules require System notices and UI terms to appear without square brackets because the blockquote window and System heading already identify the interface.",
+      "replacement": "**Yesterday’s Enemy, Today’s Ally**",
+      "severity": "minor",
+      "source": "Korean line 209 / [P99]"
+    },
+    {
+      "confidence": 0.96,
+      "current": "*I thought the Mount Heng Sword Sect’s main force had been wiped out at Eight Spring Gorge too.*",
+      "defect": "The translation changes the specifically identified leading masters into the broader and less precise “main force.”",
+      "id": "F03",
+      "rationale": "주력 고수들 refers to the sect’s principal masters, with 고수 bindingly rendered as “master”; 전멸 also explicitly indicates that all of them were wiped out.",
+      "replacement": "*I thought the Mount Heng Sword Sect’s leading masters had all been wiped out at Eight Spring Gorge too.*",
+      "severity": "minor",
+      "source": "Korean line 283 / [P125]"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“You don’t remember the name?”",
+      "defect": "The line prematurely states that Taekyung has forgotten the name, duplicating the conclusion Jin Wikyung reaches only after Taekyung’s response.",
+      "id": "F04",
+      "rationale": "처음 듣는 이름이더냐 asks whether the name is unfamiliar. Jin Wikyung does not explicitly conclude that Taekyung has forgotten until the subsequent 역시 기억 못 하는구나.",
+      "replacement": "“Is this the first time you’ve heard the name?”",
+      "severity": "minor",
+      "source": "Korean line 307 / [P137]"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Everything moved at lightning speed. It had been only two hours since Jin Wikyung saw us off and we climbed into the four-horse carriage.",
+      "defect": "The source’s traditional time unit is converted into modern hours despite the binding glossary requiring “shichen.”",
+      "id": "F05",
+      "rationale": "한 시진 is exactly one shichen; two hours is only its approximate modern duration and loses the source-specific unit.",
+      "replacement": "Everything moved at lightning speed. It had been only one shichen since Jin Wikyung saw us off and we climbed into the four-horse carriage.",
+      "severity": "minor",
+      "source": "Korean line 385 / [P170]"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Hyuk Mujin clowning around was nothing new; when it came to dealing with that, I already had a full sixty-year cycle of internal energy.",
+      "defect": "The punchline replaces the binding cultural term “jiazi” with its explanatory duration.",
+      "id": "F06",
+      "rationale": "일 갑자 means one jiazi, and the exact glossary requires that term. Retaining it also preserves the joke’s mock–martial arts formulation rather than explaining the unit inside the punchline.",
+      "replacement": "Hyuk Mujin clowning around was nothing new; when it came to dealing with that, I already had a full jiazi of internal energy.",
+      "severity": "minor",
+      "source": "Korean line 461 / [P208]"
+    }
+  ],
+  "summary": "Faithful overall, with six minor defects involving an omitted continuing action, System-title formatting, one imprecise subject, premature disclosure of a memory issue, and two binding cultural terms.",
+  "version": 1
+}

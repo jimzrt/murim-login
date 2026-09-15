@@ -1,0 +1,65 @@
+{
+  "summary": "Faithful overall, with six minor defects involving an omitted continuing action, System-title formatting, one imprecise subject, premature disclosure of a memory issue, and two binding cultural terms.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean line 79 / [P40]",
+      "current": "Despite Jin Mukyung’s icy words, Jin Wikyung seemed not to hear a thing. Still deeply moved, he spread both arms wide.",
+      "defect": "The translation omits that Jin Mukyung continued speaking coldly, treating the preceding quoted remark as the entirety of his response.",
+      "replacement": "Jin Mukyung continued speaking in an icy tone, but Jin Wikyung seemed not to hear a thing. Still deeply moved, he spread both arms wide.",
+      "rationale": "싸늘한 말이 이어졌지만 explicitly says the cold remarks continued while Jin Wikyung ignored them.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Korean line 209 / [P99]",
+      "current": "**[Yesterday’s Enemy, Today’s Ally]**",
+      "defect": "The Quest title retains square brackets inside a System window, contrary to the binding System UI convention.",
+      "replacement": "**Yesterday’s Enemy, Today’s Ally**",
+      "rationale": "The editorial rules require System notices and UI terms to appear without square brackets because the blockquote window and System heading already identify the interface.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Korean line 283 / [P125]",
+      "current": "*I thought the Mount Heng Sword Sect’s main force had been wiped out at Eight Spring Gorge too.*",
+      "defect": "The translation changes the specifically identified leading masters into the broader and less precise “main force.”",
+      "replacement": "*I thought the Mount Heng Sword Sect’s leading masters had all been wiped out at Eight Spring Gorge too.*",
+      "rationale": "주력 고수들 refers to the sect’s principal masters, with 고수 bindingly rendered as “master”; 전멸 also explicitly indicates that all of them were wiped out.",
+      "confidence": 0.96
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Korean line 307 / [P137]",
+      "current": "“You don’t remember the name?”",
+      "defect": "The line prematurely states that Taekyung has forgotten the name, duplicating the conclusion Jin Wikyung reaches only after Taekyung’s response.",
+      "replacement": "“Is this the first time you’ve heard the name?”",
+      "rationale": "처음 듣는 이름이더냐 asks whether the name is unfamiliar. Jin Wikyung does not explicitly conclude that Taekyung has forgotten until the subsequent 역시 기억 못 하는구나.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F05",
+      "severity": "minor",
+      "source": "Korean line 385 / [P170]",
+      "current": "Everything moved at lightning speed. It had been only two hours since Jin Wikyung saw us off and we climbed into the four-horse carriage.",
+      "defect": "The source’s traditional time unit is converted into modern hours despite the binding glossary requiring “shichen.”",
+      "replacement": "Everything moved at lightning speed. It had been only one shichen since Jin Wikyung saw us off and we climbed into the four-horse carriage.",
+      "rationale": "한 시진 is exactly one shichen; two hours is only its approximate modern duration and loses the source-specific unit.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F06",
+      "severity": "minor",
+      "source": "Korean line 461 / [P208]",
+      "current": "Hyuk Mujin clowning around was nothing new; when it came to dealing with that, I already had a full sixty-year cycle of internal energy.",
+      "defect": "The punchline replaces the binding cultural term “jiazi” with its explanatory duration.",
+      "replacement": "Hyuk Mujin clowning around was nothing new; when it came to dealing with that, I already had a full jiazi of internal energy.",
+      "rationale": "일 갑자 means one jiazi, and the exact glossary requires that term. Retaining it also preserves the joke’s mock–martial arts formulation rather than explaining the unit inside the punchline.",
+      "confidence": 1.0
+    }
+  ]
+}

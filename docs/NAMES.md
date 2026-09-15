@@ -470,3 +470,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 화검봉 | **Flower Sword Phoenix** | Eunhyang’s epithet and one of the Three Plum Blossom Elites. |
 | 화산말학 | **Huashan’s Last Crane** | Taekyung’s mistaken hearing of 화산일학; not a genuine epithet. |
 | 매화손절 | **Plum Blossom Cutoff** | Taekyung’s mistaken hearing of 매화삼절; not a genuine title. |
+| 하곡문 | **Hequ Sect** | Small sect led by Jang Se-pal. |
+| 장세팔 | **Jang Se-pal** | Leader of the small Hequ Sect. |
+| 양천 | **Yangcheon** | Shanxi-area location near which a small martial arts academy operates. |
+| 노호검객 | **Roaring Fury Swordsman** | Fiery-tempered elder and top-five master of the Zhongnan Sect. |
