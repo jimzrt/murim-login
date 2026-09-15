@@ -1,8 +1,8 @@
 # Jopil (조필)
 
-- **Safe through:** Chapter 177
+- **Safe through:** Chapter 178
 - **Aliases:** One Question, One Kill
-- **Role:** Wandering martial artist and leader of a special detachment attacking the Jin Family of Taiyuan; dead by this chapter, having left behind the Supreme Peak martial art Flame Divine Palm; he was an orphan named Jangcheon whom Jeok Cheongang rescued after an epidemic in Anhui Province and eventually accepted as his Disciple
+- **Role:** Wandering martial artist and leader of a special detachment attacking the Jin Family of Taiyuan; dead after fighting Jin Taekyung and drawing on his innate qi, with half his upper body destroyed; he left behind the Supreme Peak martial art Flame Divine Palm; he was an orphan named Jangcheon whom Jeok Cheongang rescued after an epidemic in Anhui Province and eventually accepted as his Disciple
 - **Personality:** Cruel, amused by violence, motivated by both payment and the pleasure of hunting his targets; a born Slaughter Saint who rationalizes murder through Might Makes Right and feels empty when victims die
 - **Voice:** Smoothly mocking and deceptively gentle when threatening victims
 - **Relationships:** Leader of roughly fifty wandering martial artists; commands Black Mountain Blade
