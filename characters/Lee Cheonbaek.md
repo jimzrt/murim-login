@@ -1,6 +1,6 @@
 # Lee Cheonbaek (이천백)
 
-- **Safe through:** Chapter 107
+- **Safe through:** Chapter 109
 - **Aliases:** Blood Wolf Sword
 - **Role:** Sect Leader of the Mount Heng Sword Sect; Lee Seogeun’s father
 - **Personality:** Grief-stricken, resolute, and fiercely vengeful

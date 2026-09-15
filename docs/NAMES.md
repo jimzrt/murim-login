@@ -159,3 +159,11 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 흑도 | **dark-path figures** | Generic category of underworld martial forces. |
 | 오색귀 | **Five-Colored Ghosts** | Nickname for the five former subordinates of Jang Sam. |
 | 이삼 | **Lee Sam** | Leader of the ten-man human-trafficking group; his Level window identifies him by this name. |
+| 추종향 | **tracking scent** | Scent used to guide the messenger hawk. |
+| 대동 | **Datong** | Shanxi location containing the Mount Heng Sword Sect branch destroyed by the Red Wind Band. |
+| 토호단 | **Earth Tiger Band** | Mounted-bandit group formerly led by Pung Yang's subordinate. |
+| 풍양 | **Pung Yang** | Personal name of the Red Wind Band Leader. |
+| 춘삼 | **Chunsam** | Lower District Sect martial artist serving as the carriage driver. |
+| 철검대주 | **Iron Sword Squad Leader** | Title of the Mount Heng Sword Sect's Iron Sword Squad leader. |
+| 대항산검문 | **great Mount Heng Sword Sect** | Expanded organizational form used for the Mount Heng Sword Sect. |
+| 대동지부 | **Datong Branch** | Mount Heng Sword Sect branch in Datong. |
