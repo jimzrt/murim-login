@@ -348,3 +348,9 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 화산일학 | **Huashan’s Lone Crane** | Epithet of Baek Museong. |
 | 매화삼절 | **Three Plum Blossom Elites** | Collective title for the current Sect Leader’s three exceptional disciples. |
 | 매화검수 | **Plum Blossom Swordsmen** | Huashan appointment held by its three elite disciples. |
+| 검신 | **Sword God** | Alternate title used for Mae Jonghak; kept distinct from 검성, rendered Sword Saint. |
+| 기해 | **qi sea** | Name for the dantian, the place where internal energy begins and gathers. |
+| 임독양맥 | **Conception and Governor Vessels** | The paired vessels Taekyung attempts to open. |
+| 근맥 | **Sinews and Meridians** | System attribute reduced by one after Taekyung's failed qi circulation. |
+| 사해오호 | **Four Seas and Five Lakes** | Traditional geographic phrase used with the Nine Provinces and Eight Wastes. |
+| 환골탈태 | **Bone Transformation** | Advanced transformation described as optional in martial-arts novels. |
