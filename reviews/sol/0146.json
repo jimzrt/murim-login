@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“We’ll be going now, Your Highness.”",
+      "defect": "The translation changes Hong Jin’s first-person promise to return into a plural departure announcement.",
+      "id": "F01",
+      "rationale": "다녀오겠습니다 indicates that the speaker is leaving temporarily and will come back; it does not mean merely that a group is departing.",
+      "replacement": "“I’ll return, Your Highness.”",
+      "severity": "major",
+      "source": "“다녀오겠습니다, 전하.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“They are honored guests. Escort them to the Jin Family of Taiyuan.”",
+      "defect": "The singular honored guest and singular escort order are changed into plural references, extending Li Feng’s formal designation to the entire party.",
+      "id": "F02",
+      "rationale": "귀빈이시다 and 모셔다드려라 both refer honorifically to one person, Hong Jin.",
+      "replacement": "“He is an honored guest. Escort him to the Jin Family of Taiyuan.”",
+      "severity": "critical",
+      "source": "“귀빈이시다. 태원진가까지 모셔다드려라.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“We’re going the same way.”",
+      "defect": "Taekyung’s intervening response is omitted, and the heirs’ stammer is lost, flattening both the speaker exchange and their nervousness.",
+      "id": "F03",
+      "rationale": "The source contains two separate turns: Taekyung asks what is wrong, and one of the heirs hesitantly explains that they are headed the same way.",
+      "replacement": "“Why? What is it?”\n\n“W-we’re going the same way.”",
+      "severity": "major",
+      "source": "“왜, 뭐.”\n\n“저, 저희도 가는 길인데요.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "*Should I make a clean switch right now?*",
+      "defect": "The wording obscures that Taekyung is considering redeeming the token immediately, not generally switching weapons or plans.",
+      "id": "F04",
+      "rationale": "바꿔 버려 refers directly to exchanging the token for the weapon he has just considered.",
+      "replacement": "*Should I just trade it in right now?*",
+      "severity": "minor",
+      "source": "‘아예 지금 확 바꿔 버려?’"
+    },
+    {
+      "confidence": 1.0,
+      "current": "*I might just smash that lap.*",
+      "defect": "The threatened body part is changed from Hong Jin’s knee to his lap.",
+      "id": "F05",
+      "rationale": "무릎 means “knee”; “lap” changes the physical action and produces an unintended image.",
+      "replacement": "*Maybe I should just smash his knee.*",
+      "severity": "critical",
+      "source": "확 그냥 무릎을 부숴 버릴까 보다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "*He said he used to be a palace eunuch.*\n\nA eunuch meant a castrated man, didn’t it?",
+      "defect": "The draft collapses palace attendant, eunuch, and castrated man into one term, eliminating the narrator’s reasoning and creating a contradiction with his next observation that not every eunuch was necessarily castrated.",
+      "id": "F06",
+      "rationale": "The source first identifies Hong Jin as a former 내관, then has Taekyung infer that this would make him a 내시; his physical status remains uncertain until Hong Jin discloses it.",
+      "replacement": "*He said he used to be a palace attendant.*\n\nDidn’t that make him a eunuch?",
+      "severity": "major",
+      "source": "‘내관 출신이라고 했지.’\n\n내관이면 내시 아닌가?"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I’m a eunuch.”",
+      "defect": "The occupational designation “eunuch” replaces Hong Jin’s explicit confirmation that he has been castrated, undermining the distinction established in the preceding narration.",
+      "id": "F07",
+      "rationale": "고자 identifies his physical condition, while 내시 is the separate institutional term discussed immediately beforehand.",
+      "replacement": "“I’ve been castrated.”",
+      "severity": "major",
+      "source": "“고자라고.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“What’s a eunuch?”",
+      "defect": "Cheongpung asks about the meaning of Hong Jin’s statement that he is castrated, not about the already introduced occupation of eunuch.",
+      "id": "F08",
+      "rationale": "The repeated word 고자 links Cheongpung’s question directly to Hong Jin’s disclosure.",
+      "replacement": "“What does ‘castrated’ mean?”",
+      "severity": "major",
+      "source": "“고자가 뭐예요?”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "*He said he doesn’t have a dick, a dick!*",
+      "defect": "The childish euphemism 고추 is intensified into the overtly vulgar “dick.”",
+      "id": "F09",
+      "rationale": "The joke uses a euphemistic, child-accessible word because Cheongpung does not understand castration; stronger profanity changes the register.",
+      "replacement": "*He said he doesn’t have his thing—his thing!*",
+      "severity": "minor",
+      "source": "고추가 없다잖아, 고추가!"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Even if I explained it, there was a 99.99 percent chance he would say something like, *Wow, I’ve never seen someone without a dick before!*",
+      "defect": "The imagined childish outburst is made more graphically vulgar than the source.",
+      "id": "F10",
+      "rationale": "고추 remains a euphemism here, and the humor comes from Cheongpung’s tactless innocence rather than explicit profanity.",
+      "replacement": "Even if I explained it, there was a 99.99 percent chance he would say something like, *Wow, I’ve never met anyone without one before!*",
+      "severity": "minor",
+      "source": "알려 줘 봤자 ‘와, 저 고추 없는 사람 처음 봐요!’ 이딴 소리 지껄일 확률이 99.99%니까."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“A eunuch is someone without a dick.”\n\n“Wow, I’ve never seen someone without a—”\n\n“Oh, shut the fuck up!”",
+      "defect": "The exchange again substitutes the occupation “eunuch” for castration, makes the euphemism graphically vulgar, and intensifies Taekyung’s sharp command with an unsupported expletive.",
+      "id": "F11",
+      "rationale": "Hong Jin is defining 고자 through the euphemistic 고추, while 닥치라고 is forceful but contains no equivalent of “fuck.”",
+      "replacement": "“It means a man doesn’t have his thing.”\n\n“Wow, I’ve never met anyone who didn’t have—”\n\n“Oh, shut up already!”",
+      "severity": "major",
+      "source": "“고자는 고추가 없어요.”\n\n“와, 저 고추 없는 사람 처음…….”\n\n“아, 닥치라고!”"
+    }
+  ],
+  "summary": "The draft contains several action, subject, dialogue, terminology, and register errors, particularly around Hong Jin’s castration disclosure.",
+  "version": 1
+}

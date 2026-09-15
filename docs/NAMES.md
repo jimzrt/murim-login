@@ -323,3 +323,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 황태자 | **Crown Prince** | The Emperor's older brother in Taekyung's recollection. |
 | 고평문 | **Gopyeong Sect** | Minor sect whose young sect leader is pressured by Taekyung. |
 | 고평지부 | **Gopyeong Branch** | Proposed branch designation under the Jin Family of Taiyuan. |
+| 상산왕의 증표 | **Prince Shangshan's Token** | Golden medallion awarded by Zhu Bao as the Quest Reward. |
+| 선황 | **the late Emperor** | The former Emperor whom Hong Jin served. |
+| 내관 | **palace attendant** | Hong Jin's former palace role; context identifies him as a eunuch. |
+| 고자 | **eunuch** | Castrated man; Hong Jin openly identifies himself by this term. |
