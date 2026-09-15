@@ -5,12 +5,14 @@ from unittest.mock import MagicMock
 
 from tools.line_report import (
     apply_patches,
+    build_evaluate_prompt,
     cheap_gates,
     format_evaluation_comment,
     format_issue_body,
     parse_apply_command,
     parse_evaluation_comment,
     parse_issue_body,
+    parse_revise_command,
     validate_evaluation,
 )
 from tools.report_server import LineReportService, Settings, verify_signature, _issue_from_pull
@@ -89,6 +91,46 @@ class LineReportTest(unittest.TestCase):
         self.assertEqual(parse_apply_command("/apply A"), "A")
         self.assertEqual(parse_apply_command("/apply b please"), "B")
         self.assertIsNone(parse_apply_command("please apply A"))
+        self.assertEqual(
+            parse_revise_command("/revise drop hot breath; more idiomatic"),
+            "drop hot breath; more idiomatic",
+        )
+        self.assertEqual(
+            parse_revise_command("/revise\nKeep the spear, change the breath."),
+            "Keep the spear, change the breath.",
+        )
+        self.assertEqual(parse_revise_command("/revise"), "")
+        self.assertIsNone(parse_revise_command("/apply A"))
+
+    def test_revise_prompt_includes_rejected_strategies(self):
+        previous = validate_evaluation({
+            "plausible": True,
+            "verdict": "wording",
+            "strategies": [{
+                "id": "A",
+                "label": "Warm breath",
+                "tradeoff": "literal",
+                "patches": [{
+                    "path": "translations/0011.md",
+                    "current": "a hot breath",
+                    "replacement": "a warm breath",
+                }],
+            }],
+        })
+        prompt = build_evaluate_prompt(
+            11,
+            Path("/repo/translations/0011.md"),
+            "# Chapter 11\n",
+            "a hot breath",
+            "sounds weird",
+            "Korean",
+            root=Path("/repo"),
+            previous=previous,
+            revise_note="not a synonym of hot",
+        )
+        self.assertIn("Maintainer revision request", prompt)
+        self.assertIn("a warm breath", prompt)
+        self.assertIn("not a synonym of hot", prompt)
 
     def test_implausible_evaluation_has_no_strategies(self):
         value = validate_evaluation({"plausible": False, "verdict": "already correct", "strategies": []})
@@ -120,7 +162,15 @@ class ReportServerTest(unittest.TestCase):
     def tearDown(self):
         self.temp.cleanup()
 
-    def _evaluate(self, chapter, quote, note, root):
+    def _evaluate(self, chapter, quote, note, root, previous=None, revise_note=""):
+        self.last_evaluate = {
+            "chapter": chapter,
+            "quote": quote,
+            "note": note,
+            "previous": previous,
+            "revise_note": revise_note,
+        }
+        replacement = "The requested line." if revise_note else "The smoother line."
         return {
             "plausible": True,
             "verdict": "local wording",
@@ -131,7 +181,7 @@ class ReportServerTest(unittest.TestCase):
                 "patches": [{
                     "path": "translations/0004.md",
                     "current": "The awkward line.",
-                    "replacement": "The smoother line.",
+                    "replacement": replacement,
                 }],
             }],
         }
@@ -208,6 +258,27 @@ class ReportServerTest(unittest.TestCase):
         }
         self.service._on_comment(payload)
         self.github.create_pull.assert_not_called()
+
+    def test_revise_reruns_evaluation_with_feedback(self):
+        previous = self._evaluate(4, "The awkward line.", "stiff", self.root)
+        self.github.list_comments.return_value = [{"body": format_evaluation_comment(previous)}]
+        issue = {
+            "number": 12,
+            "body": format_issue_body(4, "The awkward line.", "stiff", ""),
+            "labels": [{"name": "line-report"}],
+        }
+        self.service._revise_issue(issue, "/revise not a synonym; more idiomatic")
+        self.assertEqual(self.last_evaluate["revise_note"], "not a synonym; more idiomatic")
+        self.assertEqual(self.last_evaluate["previous"]["strategies"][0]["id"], "A")
+        comment = self.github.comment.call_args[0][1]
+        self.assertIn("/revise", comment)
+        self.assertIn("The requested line.", comment)
+
+    def test_bare_revise_asks_for_feedback(self):
+        issue = {"number": 12, "body": "", "labels": [{"name": "line-report"}]}
+        self.service._revise_issue(issue, "/revise")
+        self.assertIn("/revise", self.github.comment.call_args[0][1])
+        self.assertNotIn("last_evaluate", self.__dict__)
 
     def test_merged_pull_closes_issue(self):
         self.github.get_issue.return_value = {"state": "open"}

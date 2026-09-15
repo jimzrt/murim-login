@@ -29,6 +29,7 @@ from tools.line_report import (
     parse_apply_command,
     parse_evaluation_comment,
     parse_issue_body,
+    parse_revise_command,
     run_evaluation,
 )
 
@@ -186,14 +187,77 @@ class LineReportService:
             return
         if not _has_label(issue, LABEL):
             return
-        strategy = parse_apply_command(comment.get("body") or "")
-        if not strategy:
+        body = comment.get("body") or ""
+        strategy = parse_apply_command(body)
+        if strategy:
+            threading.Thread(
+                target=self._apply_strategy,
+                args=(int(issue["number"]), strategy, issue),
+                daemon=True,
+            ).start()
+            return
+        if parse_revise_command(body) is None:
             return
         threading.Thread(
-            target=self._apply_strategy,
-            args=(int(issue["number"]), strategy, issue),
+            target=self._revise_issue,
+            args=(issue, body),
             daemon=True,
         ).start()
+
+    def _latest_evaluation(self, issue_number: int) -> dict | None:
+        if not self.github:
+            return None
+        for comment in reversed(self.github.list_comments(issue_number)):
+            try:
+                return parse_evaluation_comment(comment.get("body") or "")
+            except ValueError:
+                continue
+        return None
+
+    def _revise_issue(self, issue: dict, body: str) -> None:
+        with self._jobs:
+            number = int(issue["number"])
+            if not self.github:
+                return
+            feedback = parse_revise_command(body) or ""
+            if not feedback:
+                self.github.comment(
+                    number,
+                    "Add what you want changed after `/revise`, for example:\n\n"
+                    "`/revise keep the meaning but drop \"hot breath\"; more idiomatic English`",
+                )
+                return
+            try:
+                parsed = parse_issue_body(issue.get("body") or "")
+                previous = self._latest_evaluation(number)
+                self._sync_repo()
+                try:
+                    evaluation = self.evaluate(
+                        parsed["chapter"],
+                        parsed["quote"],
+                        parsed["note"],
+                        self.settings.root,
+                        previous=previous,
+                        revise_note=feedback,
+                    )
+                except TypeError:
+                    combined = parsed["note"]
+                    extra = f"Maintainer revision: {feedback}"
+                    combined = f"{combined}\n{extra}".strip() if combined else extra
+                    evaluation = self.evaluate(
+                        parsed["chapter"],
+                        parsed["quote"],
+                        combined,
+                        self.settings.root,
+                    )
+                self.github.comment(number, format_evaluation_comment(evaluation))
+                if not evaluation["plausible"]:
+                    self.github.add_labels(number, ["implausible"])
+            except Exception as error:
+                self.github.comment(
+                    number,
+                    f"Could not revise strategies:\n\n```\n{error}\n```",
+                )
 
     def _apply_strategy(self, issue_number: int, strategy_id: str, issue: dict) -> None:
         with self._jobs:
