@@ -185,3 +185,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 화시 | **fire arrow** | Flaming arrow Lee Seowol fires to signal Cheol Mubaek. |
 | 벽곡단 | **fasting pills** | Food-substitute pills found in the hidden cave where Cheol trained. |
 | 잠력단 | **Temporary Strength Pill** | Rare pill that temporarily enhances strength; Pung Yang has only three and uses one against Cheol Mubaek and another during the battle. |
+| 적혈십이검 | **Crimson Blood Twelve Swords** | Peak-level martial arts manual discovered by Pung Yang. |
+| 적혈심법 | **Crimson Blood Cultivation Technique** | Cultivation technique discovered by Pung Yang. |
+| 검강 | **Sword Force** | Higher manifestation than Sword Energy; Pung Yang's is explicitly imperfect because of insufficient enlightenment. |
