@@ -1,0 +1,39 @@
+{
+  "chapter": 104,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.347,
+    "source_characters": 5551,
+    "source_paragraphs": 184,
+    "translation_characters": 13029,
+    "translation_paragraphs": 185
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "기세",
+        "preferred": "aura / momentum"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "본가",
+        "preferred": "our family / this family"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "냥이",
+        "romanization": "nyangi"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
