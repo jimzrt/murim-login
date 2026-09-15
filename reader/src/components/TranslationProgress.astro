@@ -1,0 +1,73 @@
+---
+import {
+  formatRanges,
+  loadTranslationProgress,
+  percent,
+} from "../lib/progress";
+
+const progress = loadTranslationProgress();
+const translatedPct = percent(progress.translatedCount, progress.sourceTotal);
+const masteredPct = percent(progress.masteredCount, progress.sourceTotal);
+const masteredOfTranslated = percent(progress.masteredCount, progress.translatedCount);
+---
+
+<section class="translation-progress" aria-labelledby="progress-heading">
+  <h2 id="progress-heading" class="toc-heading">Translation progress</h2>
+  <p class="translation-progress__lead">
+    <strong>{progress.translatedCount}</strong> of
+    <strong>{progress.sourceTotal}</strong> source chapters translated
+    ({translatedPct}%).
+    <strong>{progress.masteredCount}</strong> mastered
+    ({masteredPct}% of source · {masteredOfTranslated}% of translated).
+  </p>
+
+  <div class="translation-progress__bars" role="group" aria-label="Progress bars">
+    <div class="translation-progress__row">
+      <span class="translation-progress__label">Translated</span>
+      <div
+        class="translation-progress__track"
+        role="progressbar"
+        aria-valuemin="0"
+        aria-valuemax="100"
+        aria-valuenow={translatedPct}
+        aria-label={`${progress.translatedCount} of ${progress.sourceTotal} translated`}
+      >
+        <span
+          class="translation-progress__fill translation-progress__fill--translated"
+          style={`width: ${translatedPct}%`}></span>
+      </div>
+      <span class="translation-progress__count"
+        >{progress.translatedCount}/{progress.sourceTotal}</span
+      >
+    </div>
+    <div class="translation-progress__row">
+      <span class="translation-progress__label">Mastered</span>
+      <div
+        class="translation-progress__track"
+        role="progressbar"
+        aria-valuemin="0"
+        aria-valuemax="100"
+        aria-valuenow={masteredPct}
+        aria-label={`${progress.masteredCount} of ${progress.sourceTotal} mastered`}
+      >
+        <span
+          class="translation-progress__fill translation-progress__fill--mastered"
+          style={`width: ${masteredPct}%`}></span>
+      </div>
+      <span class="translation-progress__count"
+        >{progress.masteredCount}/{progress.sourceTotal}</span
+      >
+    </div>
+  </div>
+
+  <dl class="translation-progress__ranges">
+    <div>
+      <dt>Translated chapters</dt>
+      <dd>{formatRanges(progress.translated)}</dd>
+    </div>
+    <div>
+      <dt>Mastered chapters</dt>
+      <dd>{progress.masteredCount ? formatRanges(progress.mastered) : "none yet"}</dd>
+    </div>
+  </dl>
+</section>

@@ -7,9 +7,11 @@ import Remark42 from "../../components/Remark42.astro";
 import Previously from "../../components/Previously.astro";
 import { allChapters, neighbors, readingMinutes, toRef, type ChapterEntry } from "../../lib/chapters";
 import { loadPreviousSummary } from "../../lib/previousSummary";
+import { loadTranslationProgress } from "../../lib/progress";
 
 export async function getStaticPaths() {
   const entries = await allChapters();
+  const mastered = new Set(loadTranslationProgress().mastered);
   return entries.map((entry) => {
     const { previous, next } = neighbors(entries, entry.data.chapter);
     return {
@@ -18,6 +20,7 @@ export async function getStaticPaths() {
         entry,
         previous: toRef(previous),
         next: toRef(next),
+        mastered: mastered.has(entry.data.chapter),
       },
     };
   });
@@ -27,9 +30,10 @@ interface Props {
   entry: ChapterEntry;
   previous: ReturnType<typeof toRef>;
   next: ReturnType<typeof toRef>;
+  mastered: boolean;
 }
 
-const { entry, previous, next } = Astro.props;
+const { entry, previous, next, mastered } = Astro.props;
 const { Content } = await render(entry);
 const minutes = readingMinutes(entry.data.wordCount);
 const description = `${entry.data.title} — about ${minutes} min read. A translation of Murim Login.`;
@@ -41,7 +45,15 @@ const previously = await loadPreviousSummary(entry.data.chapter);
     <header class="chapter-header">
       <p class="eyebrow">Murim Login</p>
       <h1 data-pagefind-body data-pagefind-meta="title">{entry.data.title}</h1>
-      <p class="reading-meta">{entry.data.chapter} · {minutes} min read</p>
+      <p class="reading-meta">
+        {entry.data.chapter} · {minutes} min read
+        {mastered && (
+          <>
+            {" · "}
+            <span class="chapter-badge chapter-badge--mastered">Mastered</span>
+          </>
+        )}
+      </p>
     </header>
     {previously && <Previously summary={previously} />}
     <ChapterNav previous={previous} next={next} />

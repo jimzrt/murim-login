@@ -5,19 +5,32 @@
       <span aria-hidden="true">×</span>
     </button>
   </div>
-  <p class="report-line-quote" id="report-line-quote"></p>
-  <label class="dialog-label report-line-label">
-    <span>What is wrong with this?</span>
-    <textarea
-      id="report-line-note"
-      rows="4"
-      maxlength="2000"
-      placeholder="Awkward, inconsistent, mistranslated, typo…"
-    ></textarea>
-  </label>
-  <p class="report-line-status" id="report-line-status" role="status"></p>
-  <div class="report-line-actions">
-    <button type="button" class="button" id="report-line-submit">Submit report</button>
+  <div id="report-line-form">
+    <p class="report-line-quote" id="report-line-quote"></p>
+    <label class="dialog-label report-line-label">
+      <span>What is wrong with this?</span>
+      <textarea
+        id="report-line-note"
+        rows="4"
+        maxlength="2000"
+        placeholder="Awkward, inconsistent, mistranslated, typo…"
+      ></textarea>
+    </label>
+    <p class="report-line-status" id="report-line-status" role="status"></p>
+    <div class="report-line-actions">
+      <button type="button" class="button" id="report-line-submit">Submit report</button>
+    </div>
+  </div>
+  <div id="report-line-done" class="report-line-done" hidden>
+    <p class="report-line-thanks">Thank you for helping improve this translation.</p>
+    <p class="report-line-done-copy">
+      Your report is open as
+      <a id="report-line-issue-link" href="#" target="_blank" rel="noopener noreferrer">issue #<span id="report-line-issue-number"></span></a>
+      on GitHub. We will look at it there.
+    </p>
+    <div class="report-line-actions">
+      <button type="button" class="button" id="report-line-done-close">Close</button>
+    </div>
   </div>
 </dialog>
 <button type="button" class="report-line-chip" id="report-line-chip" hidden>Report line</button>
