@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The Jin Family of Taiyuan was clearly a goose laying golden eggs, but it also had uncomfortable ties with powerful sects and great families—including the Zhongnan Sect—that had formed relationships with the Fire King.",
+      "defect": "The relative clause incorrectly says the powerful factions had formed relationships with the Fire King. The source says the Jin Family has uneasy relations with those factions because of or through the Fire King.",
+      "id": "F01",
+      "rationale": "화왕을 통해 modifies how the Jin Family came to have 불편한 관계 with the powerful sects and families; it does not describe those factions forming relationships with Jeok Cheongang.",
+      "replacement": "The Jin Family of Taiyuan was clearly a goose laying golden eggs, but there were also powerful sects and great families—including the Zhongnan Sect—with which it had an uneasy relationship because of the Fire King.",
+      "severity": "major",
+      "source": "지금의 태원 진가는 분명 황금 알을 품은 거위지만 종남파를 포함, 화왕을 통해 불편한 관계를 맺고 있는 거대 문파나 세가도 존재한다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "*You won’t get to keep very much of it. Our family will never be played in your hands.*",
+      "defect": "The first sentence obscures that Jin Wikyung means they will not make much profit from his family, while “played in your hands” is an unnatural and unclear rendering of being manipulated.",
+      "id": "F02",
+      "rationale": "남겨 먹다 refers to making a profit, and 손에 놀아나다 means being controlled or manipulated by someone.",
+      "replacement": "*You won’t make that much off us. Our family will never dance to your tune.*",
+      "severity": "minor",
+      "source": "‘많이 남겨 먹지는 못할 거요. 본가가 당신네들 손에 놀아날 일은 오지 않을 테니까.’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“No. I came back nearly crippled. That’s why I’m shamelessly asking you for a favor, Lesser Family Head.”",
+      "defect": "The draft makes Chief Ha the person who returned nearly crippled. The omitted subject is the subordinate he had just sent to request the meeting.",
+      "id": "F03",
+      "rationale": "The immediately preceding 수하를 시켜 establishes the subordinate as the person sent to Jeok Cheongang and therefore the person who 돌아왔습니다 in this sentence.",
+      "replacement": "“No. My subordinate came back nearly crippled. That’s why I’m shamelessly asking you for a favor, Lesser Family Head.”",
+      "severity": "critical",
+      "source": "“예. 거의 반병신이 돼서 돌아왔습니다. 해서 염치 불고하고 소가주님께 부탁을 드리는 겁니다.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“He must be instructing my second younger brother.”",
+      "defect": "The literal kinship phrase is unnatural and ambiguously suggests a brother occupying the second-child position. Jin Wikyung means the second of his younger brothers, Jin Taekyung, who is his youngest brother.",
+      "id": "F04",
+      "rationale": "둘째 아우 denotes Jin Wikyung’s second younger brother; established family hierarchy identifies that person as his youngest brother, Jin Taekyung.",
+      "replacement": "“He must be instructing my youngest brother.”",
+      "severity": "major",
+      "source": "“제 둘째 아우를 지도하고 계실 겁니다.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“What the hell?”",
+      "defect": "The draft removes Taekyung’s startled stammer and adds profanity absent from the source.",
+      "id": "F05",
+      "rationale": "뭐, 뭡니까 conveys a startled, stammering question in polite speech, not a profane outburst.",
+      "replacement": "“W-What are you doing?”",
+      "severity": "minor",
+      "source": "“뭐, 뭡니까?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“……Your Master?”",
+      "defect": "The possessive changes the referent, making Taekyung appear to ask about Jeok Cheongang’s master rather than incredulously echoing Jeok’s claim that Taekyung should treat him as Master.",
+      "id": "F06",
+      "rationale": "스승님 repeats the title Jeok Cheongang has just applied to himself in relation to Taekyung; no second master is introduced.",
+      "replacement": "“……Master?”",
+      "severity": "critical",
+      "source": "“……스승님이요?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Regardless, I won’t stand for you loafing around like this. Get out here.”",
+      "defect": "The command loses the action 따라, which tells Taekyung to follow Jeok Cheongang, not merely to go outside.",
+      "id": "F07",
+      "rationale": "따라 나오거라 is a forceful command to follow the speaker out.",
+      "replacement": "“Regardless, I won’t stand for you loafing around like this. Come with me. Now.”",
+      "severity": "minor",
+      "source": "“여하간 이리 농땡이 피우는 꼴은 못 본다. 썩 따라 나오거라.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "I planted several spears I had brought along in the ground.",
+      "defect": "The draft omits 눈치껏, the pragmatic cue that Taekyung anticipated the situation and had the good sense to bring the spears.",
+      "id": "F08",
+      "rationale": "눈치껏 characterizes Taekyung as having read the situation without being explicitly told what to bring.",
+      "replacement": "I’d had the good sense to bring several spears along, and I planted them in the ground.",
+      "severity": "minor",
+      "source": "나는 눈치껏 챙겨 온 창 몇 자루를 지면에 꽂았다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "That was why the Demonic Cult, which had grown according to the principles of Might Makes Right and the supremacy of the strong, had been able to swallow half the Central Plains.",
+      "defect": "The established rendering “Might Makes Right” belongs to 강자지존, while the draft assigns it to 패도 and then redundantly paraphrases 강자지존.",
+      "id": "F09",
+      "rationale": "패도 denotes a path of domination or conquest, while the binding glossary maps 강자지존 to “Might Makes Right.”",
+      "replacement": "That was why the Demonic Cult, which had grown through conquest and the principle of Might Makes Right, had been able to swallow half the Central Plains.",
+      "severity": "minor",
+      "source": "오직 패도(霸道)와 강자지존의 원칙으로 성장한 마교가 중원의 절반을 집어삼킨 이유도 그것에 있었다."
+    }
+  ],
+  "summary": "One critical subject error, one critical relationship-reference error, and several hierarchy, register, action, and terminology issues require correction.",
+  "version": 1
+}
