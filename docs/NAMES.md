@@ -184,3 +184,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 항산권문 | **Mount Heng Fist Sect** | Alternate fist-sect designation used by Pung Yang for the Mount Heng defenders. |
 | 화시 | **fire arrow** | Flaming arrow Lee Seowol fires to signal Cheol Mubaek. |
 | 벽곡단 | **fasting pills** | Food-substitute pills found in the hidden cave where Cheol trained. |
+| 잠력단 | **Temporary Strength Pill** | Rare pill that temporarily enhances strength; Pung Yang has only three and uses one against Cheol Mubaek and another during the battle. |

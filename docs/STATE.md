@@ -1,24 +1,22 @@
 # Translation State
 
-- Last completed: 114
-- Next chapter: 115
-- Current block: 110–114 (5/5)
-- Latest translation: `translations/0114.md`
-- Latest summary: `summaries/beats/0114.md`
-- Safe profiles through: chapter 114
+- Last completed: 115
+- Next chapter: 116
+- Current block: 115–119 (1/5)
+- Latest translation: `translations/0115.md`
+- Latest summary: `summaries/beats/0115.md`
+- Safe profiles through: chapter 115
 
 ## Current Block
 
-- Cheol Mubaek held the breached gate alone until Pung Yang withdrew the Red Wind Band's mounted bandits and confronted him directly. Though Pung Yang had only recently reached the early Peak stage, he swallowed a red pill from an unidentified hard wooden case and gained overwhelming strength, defeating Cheol, breaking all four of his limbs, and inflicting severe internal injuries.
-- The Mount Heng Sword Sect's defenders fought desperately against a four-to-one numerical disadvantage, but exhaustion and the Red Wind Band's recovery from the earlier fire attack allowed the enemy to overrun the fortress wall. More than a hundred mounted bandits surrounded Lee Seowol and the surviving defenders in the watchtower.
-- Lee Seowol continued firing despite reaching the limits of her stamina and used a fire arrow to signal Cheol Mubaek. Pung Yang appeared beneath its light and demanded that she marry him. Afterward, Jin Taekyung and his companions arrived, and Cheol recognized the Jin Family character embroidered on Taekyung's robe.
-- The chapter recounts Cheol Mubaek's rise from hunter to the Tiger of Mount Heng: he survived three years in a hidden cave while learning martial arts, returned to find his wife and child dead, avenged them by killing the village landowner and his servants, and resumed training until he became a Peak master.
+- Jin Taekyung, Jin Mukyung, Wolhwa, and Hyuk Mujin find Cheol Mubaek critically wounded after Pung Yang defeated him alone with the aid of a red pill. Wolhwa gives Cheol a temporary medicine, and Jin Mukyung orders Wolhwa and Hyuk Mujin to remain behind while he and Taekyung enter the fortress.
+- Jin Mukyung openly challenges Pung Yang, causing the System time limit to disappear, while Taekyung and Mukyung attack the Red Wind Band. Pung Yang recognizes that Mukyung is stronger than himself and that Taekyung is slaughtering his subordinates, so he consumes another Temporary Strength Pill. Before the battle's outcome is determined, Lee Seowol has already agreed to marry Pung Yang under threat that he will mutilate the Mount Heng Sword Sect's surviving martial artists and destroy their dantians.
 
 ## Open Questions
 
-- What is the nature or origin of the red pill that empowered Pung Yang?
-- How will Lee Seowol respond to Pung Yang's marriage demand?
-- Can Jin Taekyung and his companions reach or rescue Lee Seowol and Cheol Mubaek?
+- What is the origin and full effect of the Temporary Strength Pill?
+- Can Jin Taekyung and Jin Mukyung defeat Pung Yang and rescue Lee Seowol and Cheol Mubaek?
+- Will Lee Seowol's coerced agreement be carried out or overturned?
 - Whether the Mount Heng Sword Sect will survive the continuing assault remains unresolved.
 
 ## Exceptional Decision
@@ -29,6 +27,7 @@
 - Render 수라멸권 as Shura Annihilating Fist.
 - Render 항산권문 as Mount Heng Fist Sect.
 - Render 벽곡단 as fasting pills.
+- Render 잠력단 as Temporary Strength Pill and explain its literal meaning in a footnote.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
