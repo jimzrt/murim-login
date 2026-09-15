@@ -1,0 +1,567 @@
+{
+  "chapter": 81,
+  "decisions": [
+    {
+      "decision": "BASE",
+      "hunk_id": "H001",
+      "reason": "화기애애한 분위기 is a friendly/convivial atmosphere, not high spirits."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H002",
+      "reason": "Pre-raid 괜찮은 거 맞지 seeks reassurance they will be okay; BASE adds unsupported really."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H003",
+      "reason": "걱정 말라니까 is reiterative: he already told her not to worry."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H004",
+      "reason": "Generic 사람 죽었다 reports deaths, not a specifically singular someone."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H005",
+      "reason": "깝치다가 뒈진 is getting themselves killed playing tough, not merely mouthing off."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H006",
+      "reason": "담배 연기를 내뿜으며 is blowing cigarette smoke, not a generic exhale."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H007",
+      "reason": "불안 is nervous, not scared; 분위기 좆같이 만들지 말고 is ruin the mood, not make it miserable.",
+      "replacement": "“If you’re nervous, go home. Don’t ruin the fucking mood.”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H008",
+      "reason": "앞서 말을 꺼냈던 marks her as the one who spoke first."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H009",
+      "reason": "구석에 찌그러져 있어 is curl up/cower in a corner, not make yourself scarce."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H010",
+      "reason": "거친 언행 is rough words and behavior; vicious words drops 언행 and intensifies 거친."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H011",
+      "reason": "광경 is a scene, and the both-familiar-and-natural cadence matches 익숙하고도 당연했다."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H012",
+      "reason": "마름 집안 is an estate-manager family; overseer imports the wrong occupation, and footing matches 시작점."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H013",
+      "reason": "작작 붙어 있어 is hanging all over each other; 귀찮아 in this vulgar line is a pain in the ass."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H014",
+      "reason": "믿어도 돼요 is you can trust them; 얘들 in the hotel/rumor exchange are the women."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H015",
+      "reason": "Punchier continuation of 안 믿어, with 믿을 만하다며 recast as the same claim about the last ones."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H016",
+      "reason": "Several warnings after messing with tracks 몇 번 … 건드렸다가 more cleanly than BASE's word order."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H017",
+      "reason": "명심하겠습니다 is keep that in mind; bear it in mind is stiffer than the spoken register."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H018",
+      "reason": "Contrastive 대답은 supplies the at-least jab BASE drops."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H019",
+      "reason": "주문이 들려왔다 is a spell being called out/heard, not merely cast."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H020",
+      "reason": "매력적인 웃음 is a charming smile, not seductive; 날려 보낸다 is sent flying, not carried."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H021",
+      "reason": "뇌쇄적인 미녀 is an alluring beauty; sultry narrows the sense and the had-a-beauty syntax is weaker."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H022",
+      "reason": "Being his lover had been enough preserves 사실만으로 without the heavier the-fact-that clause."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H023",
+      "reason": "주머니에서 나왔 is the pocket image; paid for genericizes it."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H024",
+      "reason": "지금까지는 그랬지 means that was true until now; not until now is incomplete."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H025",
+      "reason": "Keeps 하지만 and intransitive 생각이 바뀌었다; SOL drops But and makes him the agent of the change."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H026",
+      "reason": "Glossary requires Horndog for 껄떡쇠; 말했다 is spoke, not greeted us.",
+      "replacement": "Horndog—or rather, Im Changsoo—spoke with a bright smile."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H027",
+      "reason": "오셨군요 is a spoken arrival greeting; You've arrived is stiffer."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H028",
+      "reason": "소속으로 보이는 and 고개를 꾸벅 숙였다 are apparent affiliation and a head-bow; SOL drops both."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H029",
+      "reason": "Same design-over-practicality point in tighter syntax without splitting 장비 and 차림."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H030",
+      "reason": "굳은 얼굴 is a stiff expression; rigid over-intensifies."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H031",
+      "reason": "끝내주는데 is strong general praise; smoking hot makes the sexual appraisal more explicit than the source."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H032",
+      "reason": "Almost and nearly are indistinguishable for 끄덕일 뻔했지만."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H033",
+      "reason": "바라보고 있었다 is looking, not staring."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H034",
+      "reason": "그나저나 is a topic pivot (that aside), not come to think of it."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H035",
+      "reason": "들어갔다가는 … 십상이다 is a conditional likelihood of dying; perfect recipe is an added metaphor."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H036",
+      "reason": "반드시 거쳐야 하는 is a mandatory procedure."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H037",
+      "reason": "털이 숭숭 난 is hairy, not furred; 번쩍 치켜들었다 raises the arm into the air."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H038",
+      "reason": "납니다 is that's me, not a bare me."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H039",
+      "reason": "들고 다니면서 is lug around, and the vocative sir sits more naturally after the jab."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H040",
+      "reason": "Involved is padding; the rest is indistinguishable from 사망률도 높다."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H041",
+      "reason": "Why would is the natural scoff for E급이 여길 왜 와, with 그것도 탱커 kept as no less."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H042",
+      "reason": "땡기다 is raking in money, and 로또 맞은 거지 is generic you've, not we'll."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H043",
+      "reason": "오늘 정말 괜찮은 거 맞지 is reassurance they will be okay today."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H044",
+      "reason": "Vocative Hye-rin on don't worry is more natural spoken English for 혜린이 너는."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H045",
+      "reason": "들여보내야 하는 is the official who has to let them in, not merely the one responsible."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H046",
+      "reason": "충분한 장비 is sufficient equipment, not more than enough."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H047",
+      "reason": "The official echoes 베테랑; Experience drops that callback."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H048",
+      "reason": "나타난 is appeared; stepped forward changes the physical action."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H049",
+      "reason": "어떻게 안 되겠습니까 is a roundabout plea to allow it, not specifically make an exception."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H050",
+      "reason": "조곤조곤 is a soft voice, not a measured one."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H051",
+      "reason": "무효로 돌리다 is voiding/invalidating the contract, not calling the whole thing off."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H052",
+      "reason": "저, 그러니까 이게 is a stammered Well, I mean, not the thing is."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H053",
+      "reason": "참 감사할 것 같은데 is grateful, in a more spoken request cadence."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H054",
+      "reason": "목은 뻣뻣하고 is stiff bearing, not head held high; polite is an add, and literal neck is translationese.",
+      "replacement": "What a strange guy. The words coming out of his mouth were all gratitude and requests, but his bearing was stiff and his manner was high-handed."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H055",
+      "reason": "순간 움찔한 keeps the momentary flinch SOL drops."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H056",
+      "reason": "어감이 영 별로다 judges the wording, not merely that he disliked it."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H057",
+      "reason": "Preserves 개미가 기어가는 것처럼; SOL genericizes the ant image to irritation."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H058",
+      "reason": "내가 기분 나빠하는 것도 우습다 is self-reproach: it would be ridiculous to take offense."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H059",
+      "reason": "게이트 앞에 섰다 is standing/stepping in front of the Gate, not gathering."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H060",
+      "reason": "당연하다는 듯 선두에 선 is the man who had taken the lead, then winked, not two equal sequential actions."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H061",
+      "reason": "게이트에서 뵙죠 keeps Gate; on the other side drops the glossary term."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H062",
+      "reason": "Disappeared and vanished are indistinguishable for 사라지자."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H063",
+      "reason": "음습하고 끈적끈적한 is damp and sticky, and 공간이 펼쳐져 is a space unfolding; clinging/new place loses both."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H064",
+      "reason": "Cleaner cavern sentence, with 그곳이다 as the same place from the video."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H065",
+      "reason": "있다는 거지 is existential there was, completing the only difference, not I had."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H066",
+      "reason": "Go in and head in are indistinguishable for 들어가기 전에."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H067",
+      "reason": "산뜻한 시작 is a refreshing start, not merely pleasant."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H068",
+      "reason": "훈훈한 미소 is a warm smile, not a satisfied one."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H069",
+      "reason": "I turned and saw drops the 고개를 돌리자 body-part calque without losing the action."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H070",
+      "reason": "아니었다 in this narrator beat is conversational apparently not."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H071",
+      "reason": "장태경 씨 is polite Mr., which is part of the wrong-surname slight."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H072",
+      "reason": "Repeats 장태경 씨 as Mr., matching the same polite misnaming."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H073",
+      "reason": "혀가 잘못된 is something wrong with my tongue; 일단 끄덕여 줬다 is nodding anyway."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H074",
+      "reason": "어차피 is anyway; SOL drops it."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H075",
+      "reason": "Grateful to him is the natural complement, and the syntax for 힘써 준 터라 is cleaner."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H076",
+      "reason": "통성명이나 하자 is at least exchange names, not introduce ourselves after he already did."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H077",
+      "reason": "껄끄럽 is awkward, not put off, and 미소를 머금고 modifies Changsoo, not Taekyung."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H078",
+      "reason": "일면식도 없는 is never even met; SOL adds approached me and drops even."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H079",
+      "reason": "몇 번 뛰어 보고 is several times, not several raids as a count of events."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H080",
+      "reason": "사람대접 is being treated like a person, not merely seen as a human being."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H081",
+      "reason": "위아래로 훑어본 plus 감탄사 is looking the gear up and down while exclaiming in admiration."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H082",
+      "reason": "Spoken present perfect I've only ever seen matches 사진으로나 보던 건데."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H083",
+      "reason": "유지가 되나 in this C-rank cost jab is whether he can afford to maintain it."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H084",
+      "reason": "대놓고 티 낼 정도로 requires so openly; SOL drops it."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H085",
+      "reason": "냉정한 현실 is a cold reality, not harsh."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H086",
+      "reason": "넉살도 섞어서 is mixing in the humor, not adding it after."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H087",
+      "reason": "주위 사람들은 is the people around me, not everyone."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H088",
+      "reason": "Keeps 안 그래요? as Right?; SOL drops the tag."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H089",
+      "reason": "다른 분들이요. 평화 길드원분들 is a two-beat clarification after 네?"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H090",
+      "reason": "As if and as though are indistinguishable for 것처럼."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H091",
+      "reason": "BASE's something-someone is clunky; SOL's a man genders 분 without support.",
+      "replacement": "“Come on. That’s not something a person who spends a fortune leasing equipment gets to say.”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H092",
+      "reason": "이내 마음을 접었다 is soon abandoned the thought; SOL drops soon."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H093",
+      "reason": "그런 거 말해 봐야 뭐 해 is the same dismissal in tighter inner voice."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H094",
+      "reason": "내 입만 아프지 is only wasting his breath, matching 만."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H095",
+      "reason": "다들 저랑 비슷해요 is they are like him; BASE makes it the gear, SOL adds situation.",
+      "replacement": "“They’re all about the same as me.”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H096",
+      "reason": "점검하고 다 같이 움직여야 is check, then all move together, not before we move out."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H097",
+      "reason": "수고하세요 is a send-off acknowledging the work, not permission to go ahead."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H098",
+      "reason": "Bowing politely is natural English for 예의 바르게 고개를 숙이고."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H099",
+      "reason": "아까부터 묻고 싶었던 is the delayed I've been meaning to ask; wanting is merely different."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H100",
+      "reason": "중갑옷을 걸친 is wearing heavy armor, and 기분이 별로다 is displeasure, not did nothing for me."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H101",
+      "reason": "Splits 뿐이지 into a cleaner two-beat: familiar name, but first meeting."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H102",
+      "reason": "왠지 기분 나쁜데 is that something about the last smile felt off."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H103",
+      "reason": "뒷모습을 응시하고 is watching him walk away, not the calqued watched his back."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H104",
+      "reason": "친하게 지내자는데요 is let's be friends, not get acquainted."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H105",
+      "reason": "장비 덕후 is a gear nerd, and 대뜸 오더니 is walking up out of nowhere."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H106",
+      "reason": "그냥 answering why is no reason, not a bare Nothing."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H107",
+      "reason": "진짜네 confirms the gear looks that good; 저거 자기 거래요 is is that his, not is he saying.",
+      "replacement": "“Holy crap, it really does. Is that stuff really his?”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H108",
+      "reason": "어떻게 입고 다녀 is how could he wear that; SOL adds unsupported afford."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H109",
+      "reason": "역시 별것 아닌 놈들이었어 is past as expected, they were nothing special, not present no one."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H110",
+      "reason": "든 건 사실이다 is a concessive admittedly, less stiff than it was true that."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H111",
+      "reason": "두 가지만 and 그렇게 믿었다 are only those two things and a belief, not narrator fact."
+    }
+  ],
+  "version": 1
+}
