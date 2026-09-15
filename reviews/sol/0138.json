@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "*“I have? I want to! I’ll see one! Please let me see one!”*",
+      "defect": "The draft invents “I have?”, making Cheongpung appear to question whether he has already seen an imperial family member. The source contains only three eager declarations.",
+      "id": "F01",
+      "rationale": "볼래요, 보겠습니다, and 보게 해 주세요 respectively express desire, determination, and a plea to be allowed to see one; none means “I have?”",
+      "replacement": "*“I want to! I’ll see one! Please let me see one!”*",
+      "severity": "major",
+      "source": "‘볼래요! 보겠습니다! 보게 해 주세요!’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Cheongpung was standing there with something clutched in his hands.",
+      "defect": "The draft adds that Cheongpung is standing, a physical action absent from the source and particularly consequential inside a speeding carriage.",
+      "id": "F02",
+      "rationale": "The source only says that their simultaneously turning gazes found Cheongpung holding something; it does not specify his posture.",
+      "replacement": "There was Cheongpung, clutching something in his hands.",
+      "severity": "major",
+      "source": "약속이라도 한 듯이 동시에 고개를 돌린 우리의 시선에, 뭔가를 움켜쥐고 있는 청풍이 보였다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Li Feng, Assistant Military Commissioner of Shanxi Province, requests entry!”",
+      "defect": "The draft changes the guard’s announcement that Li Feng is entering into a request attributed to Li Feng, altering both the action and the official’s posture.",
+      "id": "F03",
+      "rationale": "영감 듭시오 is an announcement of the dignitary’s entrance, not a statement that he requests admission.",
+      "replacement": "“His Excellency Li Feng, Assistant Military Commissioner of Shanxi Province, entering!”",
+      "severity": "critical",
+      "source": "“산서성 도지휘첨사(都指揮僉事), 이풍(李灃) 영감 듭시오!”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Everyone who met his firm lips and resolute gaze respectfully paid their respects.",
+      "defect": "“Met his firm lips” is unnatural English and loses the visible action of his lips being tightly pressed together.",
+      "id": "F04",
+      "rationale": "굳게 다문 describes lips held tightly shut, not lips that are inherently firm.",
+      "replacement": "Everyone who saw his tightly pressed lips and resolute gaze respectfully paid their respects.",
+      "severity": "minor",
+      "source": "굳게 다문 입술과 강건한 눈빛을 마주한 이들은 하나같이 공손히 예를 표했다."
+    },
+    {
+      "confidence": 0.93,
+      "current": "Wrapped in dazzling red silk, the man spoke in a delicate, lilting voice.",
+      "defect": "“Delicate” omits the affected, coquettishly sweet quality of 간드러진, weakening Eunuch Hong’s deliberately characterized voice.",
+      "id": "F05",
+      "rationale": "간드러진 conveys an affectedly sweet or coquettish vocal manner, not merely a delicate pitch.",
+      "replacement": "Wrapped in dazzling red silk, the man spoke in a coy, lilting voice.",
+      "severity": "major",
+      "source": "눈이 부실 만큼 화려한 붉은 비단으로 몸을 휘감은 사내의 입에서 간드러진 목소리가 흘러나왔다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "A sycophant and corrupt official who used his glib tongue and petty tricks to blind the young king’s eyes and ears while lining his own pockets. That was Li Feng’s assessment of him.",
+      "defect": "Calling Prince Shangshan a “king” changes the established ruler’s identity and rank.",
+      "id": "F06",
+      "rationale": "In this context 어린 왕 refers to the young Prince Shangshan, the established member of the imperial family and City Lord, not a king.",
+      "replacement": "A sycophant and corrupt official who used his glib tongue and petty tricks to blind the young prince’s eyes and ears while lining his own pockets. That was Li Feng’s assessment of him.",
+      "severity": "critical",
+      "source": "간사한 혓바닥과 잔재주로 어린 왕의 눈과 귀를 가리고 제 배만 채우는 간신이자 탐관오리. 그것이 사내에 대한 이풍의 평가였다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "*That bastard.*",
+      "defect": "The draft sanitizes a violently hostile internal curse into a comparatively mild insult.",
+      "id": "F07",
+      "rationale": "쳐 죽일 explicitly expresses that the target deserves to be beaten to death, conveying substantially stronger hatred than “bastard” alone.",
+      "replacement": "*That bastard deserves to be beaten to death.*",
+      "severity": "major",
+      "source": "‘쳐 죽일 놈 같으니.’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I’m not asking whether he’s a master or anything like that. I’m asking whether he’s mentally sound.”",
+      "defect": "The neutral phrase “or anything like that” suppresses the official’s dismissive slang and irritation.",
+      "id": "F08",
+      "rationale": "고수고 나발이고 contemptuously dismisses the preceding concern rather than neutrally clarifying it.",
+      "replacement": "“To hell with whether he’s a master. I’m asking whether he’s right in the head.”",
+      "severity": "major",
+      "source": "“아니, 고수고 나발이고 정신이 괜찮냐는 말이오.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Anyway, you’ve risen in the world. An Assistant Military Commissioner, despite being who you are… You must have scattered quite a bit of silver around Huashan, hmm?”",
+      "defect": "The draft assigns the spending to Li Feng and places it at Huashan, obscuring Gong Ilhyuk’s accusation that Huashan bought Li Feng’s official advancement. It also renders 자네 주제에 unnaturally.",
+      "id": "F09",
+      "rationale": "화산에서 functions institutionally here: Gong Ilhyuk insinuates that Huashan spent silver to secure Li Feng’s post, which is why Li Feng immediately accuses him of insulting Huashan.",
+      "replacement": "“Anyway, you’ve done well for yourself. Assistant Military Commissioner, someone like you… Huashan must have spread around quite a bit of silver for you. Hmm?”",
+      "severity": "critical",
+      "source": "“그나저나 출세했네. 자네 주제에 도지휘첨사라…… 화산에서 은자깨나 뿌렸겠어. 응?”"
+    }
+  ],
+  "summary": "Several fidelity issues alter actions, hierarchy, subject attribution, and character register; localized wording also weakens two physical and vocal cues.",
+  "version": 1
+}
