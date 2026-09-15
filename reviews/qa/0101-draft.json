@@ -1,0 +1,39 @@
+{
+  "chapter": 101,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.287,
+    "source_characters": 5677,
+    "source_paragraphs": 184,
+    "translation_characters": 12983,
+    "translation_paragraphs": 193
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "살기",
+        "preferred": "killing intent"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "창기",
+        "preferred": "Spear Energy"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "상동",
+        "romanization": "sangdong"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
