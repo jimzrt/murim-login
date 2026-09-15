@@ -1,6 +1,6 @@
 # Black Sand (흑사)
 
-- **Safe through:** Chapter 163
+- **Safe through:** Chapter 165
 - **Aliases:** None
 - **Role:** Former leader of the Black Sand Band, a Han-Chinese mounted-bandit power of one hundred; he was killed by the unnamed Supreme Peak old man after attempting to manipulate the old man's search
 - **Personality:** Frivolous and warm on the surface but calculating, bold, authoritative, and adept at manipulating dangerous people through humor and grand promises
