@@ -5,7 +5,9 @@ from __future__ import annotations
 
 import json
 import numbers
+import os
 import selectors
+import signal
 import subprocess
 import threading
 import time
@@ -275,6 +277,25 @@ def _stream_stdout_lines(proc: subprocess.Popen, timeout_end: float, on_idle: Ca
         selector.close()
 
 
+def _stop_process(proc: subprocess.Popen) -> None:
+    if proc.poll() is not None:
+        return
+    try:
+        os.killpg(proc.pid, signal.SIGTERM)
+    except (ProcessLookupError, PermissionError, OSError):
+        proc.kill()
+        proc.wait()
+        return
+    try:
+        proc.wait(timeout=3)
+    except subprocess.TimeoutExpired:
+        try:
+            os.killpg(proc.pid, signal.SIGKILL)
+        except (ProcessLookupError, PermissionError, OSError):
+            proc.kill()
+        proc.wait()
+
+
 def run_json_command(
     command: list[str],
     *,
@@ -297,10 +318,12 @@ def run_json_command(
     proc = subprocess.Popen(
         command,
         cwd=cwd,
+        stdin=subprocess.DEVNULL,
         stdout=subprocess.PIPE,
         stderr=subprocess.PIPE,
         text=True,
         bufsize=0,
+        start_new_session=True,
     )
     assert proc.stdout is not None
     assert proc.stderr is not None
@@ -334,18 +357,18 @@ def run_json_command(
                 event = json.loads(line)
             except json.JSONDecodeError as error:
                 parse_error = OmpJsonError(f"invalid OMP JSON event on line {len(stdout_lines)}: {error}")
-                proc.kill()
+                _stop_process(proc)
                 break
             if not isinstance(event, dict):
                 parse_error = OmpJsonError(f"OMP JSON event on line {len(stdout_lines)} is not an object")
-                proc.kill()
+                _stop_process(proc)
                 break
             capture.consume(event)
             if callable(on_event):
                 on_event(event)
         returncode = proc.wait(timeout=max(1, timeout - (time.monotonic() - started)))
     except subprocess.TimeoutExpired as error:
-        proc.kill()
+        _stop_process(proc)
         proc.wait()
         stdout = "\n".join(stdout_lines)
         stderr_thread.join(timeout=2)

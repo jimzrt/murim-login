@@ -86,6 +86,26 @@ class ProgressTest(unittest.TestCase):
         self.assertIn("glossary", text.lower())
         self.assertIn("packet", text.lower())
 
+    def test_nontty_heartbeats_print(self):
+        from io import StringIO
+        from contextlib import redirect_stdout
+        buf = StringIO()
+        call = ModelCall(
+            "fidelity",
+            "openai-codex/gpt-5.6-sol:medium",
+            600,
+            tty=False,
+            refresh_seconds=0,
+            heartbeat_seconds=0,
+        )
+        with redirect_stdout(buf):
+            call.start()
+            call.idle()
+        text = buf.getvalue()
+        self.assertIn("fidelity", text)
+        self.assertIn("waiting", text)
+        self.assertIn("sol", text)
+
 
 if __name__ == "__main__":
     unittest.main()
