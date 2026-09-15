@@ -1,8 +1,8 @@
 # Jopil (조필)
 
-- **Safe through:** Chapter 121
+- **Safe through:** Chapter 123
 - **Aliases:** One Question, One Kill
-- **Role:** Wandering martial artist and leader of a special detachment attacking the Jin Family of Taiyuan
+- **Role:** Wandering martial artist and leader of a special detachment attacking the Jin Family of Taiyuan; dead by this chapter, having left behind the Supreme Peak martial art Flame Divine Palm
 - **Personality:** Cruel, amused by violence, and motivated by both payment and the pleasure of hunting his targets
 - **Voice:** Smoothly mocking and deceptively gentle when threatening victims
 - **Relationships:** Leader of roughly fifty wandering martial artists; commands Black Mountain Blade
