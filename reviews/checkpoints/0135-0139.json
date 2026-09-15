@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "One had fainted, while the other had cried until tears and snot streamed down his face in front of everyone.",
+      "defect": "The nearest plural antecedent is the two men speaking, and the masculine pronoun reinforces that reading, but the surrounding ages and marriage-prospect discussion concern the two young women. This misassigns who fainted and cried.",
+      "id": "C01",
+      "rationale": "Naming the intended pair resolves the internal referent contradiction without changing the event.",
+      "replacement": "Of the two young women, one had fainted, while the other had cried until tears and snot streamed down her face in front of everyone.",
+      "severity": "major",
+      "source": "Chapter 136, recollection of the two female heirs’ punishment"
+    },
+    {
+      "confidence": 0.99,
+      "current": "To cut to the conclusion, I had failed completely at figuring out Cheongpung’s identity.",
+      "defect": "“To cut to the conclusion” is an unnatural English calque and drifts from Taekyung’s conversational narration.",
+      "id": "C02",
+      "rationale": "The replacement preserves the meaning while restoring natural, brisk first-person voice.",
+      "replacement": "Long story short, I had completely failed to figure out Cheongpung’s identity.",
+      "severity": "minor",
+      "source": "Chapter 137, Taekyung’s account of the previous night"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Gong Ilhyuk, the third of the Three Hands of Zhongnan, grinned at Li Feng as he ground his teeth.",
+      "defect": "The sentence grammatically makes Gong Ilhyuk both grin and grind his teeth, although the surrounding confrontation establishes Li Feng as the furious party reacting to Gong’s taunts.",
+      "id": "C03",
+      "rationale": "The replacement assigns each simultaneous physical action unambiguously to the correct character.",
+      "replacement": "As Li Feng ground his teeth, Gong Ilhyuk, the third of the Three Hands of Zhongnan, grinned at him.",
+      "severity": "major",
+      "source": "Chapter 138, Gong Ilhyuk’s confrontation with Li Feng"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Though was he really a man?",
+      "defect": "The interrogative construction is ungrammatical in contemporary English.",
+      "id": "C04",
+      "rationale": "This keeps Taekyung’s doubtful aside and its comic timing while making the sentence idiomatic.",
+      "replacement": "Then again, was he really a man?",
+      "severity": "minor",
+      "source": "Chapter 139, Hong Jin’s introduction"
+    },
+    {
+      "confidence": 0.99,
+      "current": "**Level 15: Jang Childeuk**",
+      "defect": "The entire Level Window line is bolded, unlike the equivalent Hong Jin line in Chapter 139 and contrary to the packet rule limiting bold within System panels to meaningful labels or emphasis.",
+      "id": "C05",
+      "rationale": "Removing the full-line bold restores consistent System-panel formatting across the packet.",
+      "replacement": "Level 15: Jang Childeuk",
+      "severity": "minor",
+      "source": "Chapter 135, Jang Childeuk Level Window"
+    },
+    {
+      "confidence": 0.97,
+      "current": "At the Shanxi Provincial Office, Assistant Military Commissioner Li Feng confronts Eunuch Hong, who has invited the Three Hands of Zhongnan to entertain the prince. Gong Ilhyuk taunts Li Feng over a defeat at Huashan ten years earlier. When Taekyung’s group arrives, the tense gathering includes Li Feng, Hong Jin, and three young martial artists from the Zhongnan Sect. Taekyung identifies himself as Jin Taekyung of the Jin Family, easing the hostility, then recognizes Zhongnan from a novel he once read before stopping himself from revealing too much.",
+      "defect": "The summary omits the chapter’s opening Jin Family procession and Jin Mukyung’s unresolved warning that someone at the luncheon is as disgusting as a bug. It also calls the Three Hands young martial artists even though the reading copy does not establish that characterization.",
+      "id": "C06",
+      "rationale": "The replacement restores the omitted forward hook without identifying the person Jin Mukyung means, and avoids adding an unsupported age characterization.",
+      "replacement": "While the Jin Family’s main party travels through Taiyuan, Jin Wikyung worries that Taekyung may cause trouble at Prince Shangshan’s luncheon. Jin Mukyung says there should be no problem unless Taekyung’s stomach cannot handle someone there who is “as disgusting as a bug.” At the Shanxi Provincial Office, Assistant Military Commissioner Li Feng confronts Eunuch Hong, who has invited the Three Hands of Zhongnan to entertain the prince. Gong Ilhyuk taunts Li Feng over a defeat at Huashan ten years earlier. When Taekyung’s group arrives, the tense gathering includes Li Feng, Hong Jin, and three martial artists from the Zhongnan Sect. Taekyung identifies himself as Jin Taekyung of the Jin Family, easing the hostility, then recognizes Zhongnan from a novel he once read before stopping himself from revealing too much.",
+      "severity": "major",
+      "source": "Chapter 139 opening; checkpoint summary, Plot final paragraph"
+    },
+    {
+      "confidence": 1.0,
+      "current": "The three Zhongnan martial artists’ names and individual identities remain unresolved. The earlier dispute involving Li Feng, Huashan, and an insult also remains unresolved.",
+      "defect": "This contradicts the preceding continuity entry and Chapter 138, both of which identify Gong Ilhyuk as the third of the Three Hands of Zhongnan.",
+      "id": "C07",
+      "rationale": "The replacement preserves the genuine unknowns while retaining Gong Ilhyuk’s already revealed identity.",
+      "replacement": "Gong Ilhyuk is identified as the third of the Three Hands of Zhongnan; the names and individual identities of the other two Zhongnan martial artists remain unresolved. The earlier dispute involving Li Feng, Huashan, and an insult also remains unresolved.",
+      "severity": "major",
+      "source": "Checkpoint continuity, Chapter 139 unresolved identities"
+    },
+    {
+      "confidence": 1.0,
+      "current": "What are the names and individual identities of the three Zhongnan Sect martial artists?",
+      "defect": "The open question incorrectly treats Gong Ilhyuk as unidentified despite his explicit introduction as the third of the Three Hands of Zhongnan.",
+      "id": "C08",
+      "rationale": "Only the two representatives accompanying Gong Ilhyuk remain unidentified.",
+      "replacement": "What are the names and individual identities of the other two Zhongnan Sect martial artists?",
+      "severity": "major",
+      "source": "Checkpoint durable state, open question for Chapter 139"
+    }
+  ],
+  "summary": "The reading copies preserve the packet’s action-comedy voice and established terminology overall, but contain two unclear action referents, two localized prose/grammar issues, and one inconsistent System-panel style. The checkpoint summary also drops Jin Mukyung’s closing hook and twice treats all three Zhongnan representatives as unidentified even though Gong Ilhyuk has been named.",
+  "version": 1
+}

@@ -303,3 +303,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 도지휘동지 | **Deputy Military Commissioner** | Second-rank military office held by Eunuch Hong |
 | 도지휘사 | **Military Commissioner** | Provincial military commander's office |
 | 종남삼수 | **Three Hands of Zhongnan** | Three renowned Zhongnan Sect martial artists invited to the gathering |
+| 홍진 | **Hong Jin** | Level 22 man at the City Lord's luncheon; delicate in appearance and voice. |
+| 전하 | **His Highness** | Formal royal address for the resident prince; the official insists on this form instead of king. |
