@@ -511,3 +511,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 사천당문 | **Sichuan Tang Clan** | Martial clan cited for its poison-based cleansing method. |
 | 아마존 | **Amazon** | Region referenced in Taekyung's crude joke. |
 | 블랙 아나콘다 | **Black Anaconda** | Snake referenced in Taekyung's crude joke. |
+| 악불군 | **Ak Bulgun** | Spear Instructor at Heaven's Gate Temple from the Shandong Yue Family. |
+| 산동악가 | **Shandong Yue Family** | Family to which Ak Bulgun belongs. |
