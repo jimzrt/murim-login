@@ -1,0 +1,55 @@
+{
+  "chapter": 138,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.282,
+    "source_characters": 5494,
+    "source_paragraphs": 176,
+    "translation_characters": 12537,
+    "translation_paragraphs": 180
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "후기지수",
+        "preferred": "young prodigy / rising martial artist"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "상태",
+        "preferred": "Status"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "명성",
+        "preferred": "Fame"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "중상",
+        "preferred": "Severe Injury"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "갑자",
+        "preferred": "jiazi"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
