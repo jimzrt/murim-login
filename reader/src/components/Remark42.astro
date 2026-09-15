@@ -52,7 +52,10 @@ const pageTitle = title ?? `Chapter ${chapter}`;
 
     const win = window as Window & {
       remark_config?: Record<string, unknown>;
-      REMARK42?: { destroy?: () => void; changeTheme?: (theme: string) => void };
+      REMARK42?: {
+        destroy?: () => void;
+        changeTheme?: (theme: string) => void;
+      };
     };
     win.REMARK42?.destroy?.();
     mount.replaceChildren();
@@ -72,9 +75,17 @@ const pageTitle = title ?? `Chapter ${chapter}`;
       show_email_subscription: false,
       no_footer: true,
       max_shown_comments: 20,
+      // Passed into the iframe as CSS custom properties (see iframe.html).
+      // Dark form chrome uses --color8/--color7; keep it open on the plaque.
+      __colors__: {
+        "--color8": "#0c0c0c24",
+        "--color7": "transparent",
+      },
     };
 
-    const existing = document.querySelector<HTMLScriptElement>("script[data-remark42-embed]");
+    const existing = document.querySelector<HTMLScriptElement>(
+      "script[data-remark42-embed]",
+    );
     existing?.remove();
     const script = document.createElement("script");
     script.src = `${host}/web/embed.js`;
@@ -95,8 +106,13 @@ const pageTitle = title ?? `Chapter ${chapter}`;
 
   // Theme follows the navy plaque, not the site theme.
   const observer = new MutationObserver(() => {
-    const win = window as Window & { REMARK42?: { changeTheme?: (theme: string) => void } };
+    const win = window as Window & {
+      REMARK42?: { changeTheme?: (theme: string) => void };
+    };
     win.REMARK42?.changeTheme?.("dark");
   });
-  observer.observe(document.documentElement, { attributes: true, attributeFilter: ["data-theme"] });
+  observer.observe(document.documentElement, {
+    attributes: true,
+    attributeFilter: ["data-theme"],
+  });
 </script>
