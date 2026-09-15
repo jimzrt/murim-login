@@ -1,18 +1,16 @@
 # Translation State
 
-- Last completed: 205
-- Next chapter: 206
-- Current block: 205–209 (1/5)
-- Latest translation: `translations/0205.md`
-- Latest summary: `summaries/beats/0205.md`
-- Safe profiles through: chapter 205
+- Last completed: 206
+- Next chapter: 207
+- Current block: 205–209 (2/5)
+- Latest translation: `translations/0206.md`
+- Latest summary: `summaries/beats/0206.md`
+- Safe profiles through: chapter 206
 
 ## Current Block
 
-- Jin Taekyung awakens after being unconscious for seven days and nights following Jeok Cheongang's successful opening of his Conception and Governor Vessels. His heightened senses let him perceive the qi-filled air, darkness, and sounds around him in unprecedented detail.
-- Jeok explains that he removed the turbid qi accumulated in Taekyung's body and that Taekyung needed time to adjust to his changed condition. The gathering ended three days earlier, but Ak Bulgun remains at the Jin Family.
-- Ak Bulgun and Jin Wikyung arrive and explain an invitation to the Star-Array Grand Banquet, a major event held in Henan every two or three years where martial artists from across the world gather to test their strength and build connections. Jeok reveals that the Martial God once asked him to attend the first such gathering and that the Martial God has not appeared for many years.
-- Taekyung reflects that he trains because martial arts are fun and says that he wants greater strength and a higher realm rather than merely wealth or fame. Jeok asks him to visit his quarters at dawn, and Taekyung logs out after deciding to leave the Murim for the night.
+- After logging out of the Murim, Taekyung awakens in his new home to a feast of ramen prepared by Seong Jinho. Jinho reveals that he secretly hid inside Taekyung's capsule after his college friend Kim Jong-su absconded with his five-million-won housing deposit. Taekyung refuses to let Jinho stay in the family house while it is being remodeled, instead arranging for them to live together in the Guild-provided officetel.
+- During Taekyung's mid-September taxi commute, a radio reports an F-rank Gate in Yangju City that has caused six casualties and released goblins. Taekyung then hears a crash, uses his enhanced senses, and realizes that a crumpled car is flying toward his taxi.
 
 ## Open Questions
 
@@ -21,6 +19,7 @@
 - What event does Jeok Cheongang believe may occur sooner than expected, and why must he endure for several more years?
 - What is the true condition of the absent Martial God?
 - Will Taekyung attend the Star-Array Grand Banquet, and what exactly was the answer that changed the three men's expressions?
+- How will Taekyung respond to the car flying toward his taxi?
 
 ## Exceptional Decision
 
@@ -31,6 +30,7 @@
 - Render 탁기 as “turbid qi.”
 - Render 성라대연 as “Star-Array Grand Banquet.”
 - Render 노야 as “Old Master” when Taekyung addresses Jeok Cheongang privately.
+- Render 고시원 as “goshiwon” and 오피스텔 as “officetel.”
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
