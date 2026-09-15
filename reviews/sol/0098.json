@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "Thanks to her, he had spent more than half the day trapped in Jin Hayeon’s room.",
+      "defect": "The duration is reduced from more than a day and a half to more than half a day.",
+      "id": "F01",
+      "rationale": "하루 반나절 means one full day plus half a day, not half a day.",
+      "replacement": "Thanks to her, he had spent more than a day and a half trapped in Jin Hayeon’s room.",
+      "severity": "critical",
+      "source": "덕분에 하루 반나절 이상을 진하연의 방에 갇혀 지내는 신세가 됐다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "She put her feet up on the chair and sat cross-legged, leaving the desk legs completely out of reach of his tiny body.",
+      "defect": "The draft says the desk legs became unreachable, but Hayeon is pulling her own feet out of the kitten’s reach.",
+      "id": "F02",
+      "rationale": "The preceding attempts target her feet, and 발을 올려 describes Hayeon lifting those feet onto the chair.",
+      "replacement": "She pulled her feet up onto the chair and sat cross-legged, putting them completely out of reach of his tiny body.",
+      "severity": "critical",
+      "source": "의자에 발을 올려 책상다리로 앉아 버리고 나니 이 조그마한 몸으로는 결코 닿을 수 없게 되었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "No, there were two of them now, so I supposed I should give them names.",
+      "defect": "Taekyung decides to distinguish the two cats by calling them by name, not to assign them new names.",
+      "id": "F03",
+      "rationale": "이름을 불러 주다 means to call someone by name; the next sentence immediately identifies Yeoreum by her existing name.",
+      "replacement": "No, there were two of them now, so I supposed I should call them by their names.",
+      "severity": "minor",
+      "source": "아니 이제 두 마리니까 이름을 불러 줘야겠구나."
+    },
+    {
+      "confidence": 0.96,
+      "current": "The Security Team members, who had been sitting close together and writing their statements, jumped in surprise.",
+      "defect": "“Statements” mischaracterizes 소견서, which are written opinions or assessments rather than factual or witness statements.",
+      "id": "F04",
+      "rationale": "소견서 denotes documents recording the members’ judgments or opinions about the target.",
+      "replacement": "The Security Team members, who had been sitting close together and writing their assessments, jumped in surprise.",
+      "severity": "minor",
+      "source": "옹기종기 모여 앉아 소견서를 쓰고 있던 보안팀원들이 화들짝 놀랐다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Our Yeoreum’s having a real moment of clarity.",
+      "defect": "The generic wording removes the crude slang and the joke that frames Yeoreum’s dazed shame as post-nut clarity.",
+      "id": "F05",
+      "rationale": "현자 타임 is colloquial sexual slang for the deflated, lucid state after release; that register supplies the punchline here.",
+      "replacement": "Our Yeoreum had a serious case of post-nut clarity.",
+      "severity": "major",
+      "source": "우리 여름이, 현자 타임이 제대로 왔구나."
+    },
+    {
+      "confidence": 0.96,
+      "current": "The black cat seemed torn between professional duty and a mother joke, but soon accepted reality.",
+      "defect": "“Mother joke” sounds innocuous and loses the insulting, vulgar force of 패드립.",
+      "id": "F06",
+      "rationale": "패드립 is slang for an insult targeting someone’s parents or family, not merely a joke involving a mother.",
+      "replacement": "The black cat seemed torn between professional duty and the cheap shot at his mom, but soon accepted reality.",
+      "severity": "major",
+      "source": "검은 고양이는 직업 정신과 패드립 사이에서 갈등하는 듯했지만 이내 현실을 받아들였다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Unnie’s studying right now. You can’t disturb me.”",
+      "defect": "The untranslated Korean address is inconsistent with the surrounding natural-English rendering of Hayeon’s self-reference.",
+      "id": "F07",
+      "rationale": "언니 is Hayeon’s playful third-person self-reference while speaking to the kitten and is naturally conveyed as “big sis” here.",
+      "replacement": "“Big sis is studying right now. Don’t bother me.”",
+      "severity": "minor",
+      "source": "“언니 지금 공부 중이야. 방해하면 안 돼.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Roll, roll.",
+      "defect": "The literal gloss is not natural English narration and leaves the physical action unnecessarily obscure.",
+      "id": "F08",
+      "rationale": "데굴데굴 depicts Hong Woojin repeatedly rolling his body as part of covering himself in the mess.",
+      "replacement": "He rolled over and over.",
+      "severity": "minor",
+      "source": "데굴데굴."
+    }
+  ],
+  "summary": "Two scene facts are mistranslated, and several localized issues alter document function, characterization, register, or natural terminology.",
+  "version": 1
+}
