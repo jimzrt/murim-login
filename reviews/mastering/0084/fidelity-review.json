@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "He began sprinting at a speed Im Kkeokjeong, an E-rank Hunter, could neither match nor properly see.",
+      "defect": "The source says Kkeokjeong could neither touch/reach Taekyung nor properly see him at that speed. “Match” changes the physical inability to reach him into an inability to equal his speed.",
+      "id": "F01",
+      "rationale": "닿을 수도 없다는 것은 곧 뻗으려던 손이 태경에게 닿지 못한다는 물리적 세부를 이어 간다.",
+      "replacement": "He began sprinting at a speed that left Im Kkeokjeong, an E-rank Hunter, unable even to touch him or see him clearly.",
+      "severity": "minor",
+      "source": "line 29 / P14"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I’m sorry! I’m sorry!”",
+      "defect": "The source contains one apology with an initial stutter, not two complete apologies.",
+      "id": "F02",
+      "rationale": "“죄, 죄송합니다!” marks frightened hesitation within a single utterance; converting it into repetition changes the delivery.",
+      "replacement": "“I-I’m sorry!”",
+      "severity": "minor",
+      "source": "line 329 / P171"
+    }
+  ],
+  "summary": "The chapter is highly faithful overall, with two minor defects involving a physical action and a stuttered apology.",
+  "version": 1
+}
