@@ -1,0 +1,106 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Jin Taekyung killed Jin Baekyang, the Blade of Flowers, and was rendered unconscious with an Internal Injury by Jeok Cheongang's Flame Divine Palm.",
+      "defect": "The active continuity drops three unresolved facts central to Jeok Cheongang’s interrogation: Taekyung possesses the Flame Divine Palm manual, consumed the Blazing Flame Divine Pill, and killed Jopil, while Jeok remains unaware of all three.",
+      "id": "C01",
+      "rationale": "These concealed facts drive Jeok’s current suspicions and are explicit unresolved hooks in the checkpoint summary; omitting them from active continuity risks contradiction or premature disclosure in subsequent chapters.",
+      "replacement": "Jin Taekyung killed Jin Baekyang, the Blade of Flowers, and was rendered unconscious with an Internal Injury by Jeok Cheongang's Flame Divine Palm. He also possesses the Flame Divine Palm manual, consumed the Blazing Flame Divine Pill, and killed Jopil; Jeok Cheongang does not yet know about the manual, the pill, or Jopil.",
+      "severity": "major",
+      "source": "Durable state, active_continuity, Jin Taekyung injury entry"
+    },
+    {
+      "confidence": 0.96,
+      "current": "That meant Cheongpung had grown up around someone who stood at the same realm stage as him.",
+      "defect": "“Realm stage” is redundant cultivation-style phrasing, and “him” has an avoidably unclear antecedent.",
+      "id": "C02",
+      "rationale": "The replacement preserves the inference while using natural contemporary English and identifying the comparison unambiguously.",
+      "replacement": "That meant Cheongpung had grown up around someone who had reached the same realm as Jeok Cheongang.",
+      "severity": "minor",
+      "source": "Chapter 172, after Cheongpung identifies Returning to Simplicity and Shifting Form and Position"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“...What do you mean, why?”",
+      "defect": "The pause uses three periods instead of the required ellipsis character.",
+      "id": "C03",
+      "rationale": "The packet’s Markdown rules require the single ellipsis character throughout.",
+      "replacement": "“…What do you mean, why?”",
+      "severity": "minor",
+      "source": "Chapter 173, Jeok Cheongang responding to Cheongpung’s question about bowing"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“...!”",
+      "defect": "The pause uses three periods instead of the required ellipsis character.",
+      "id": "C04",
+      "rationale": "The packet’s Markdown rules require the single ellipsis character throughout.",
+      "replacement": "“…!”",
+      "severity": "minor",
+      "source": "Chapter 173, Jeok Cheongang reacting to being called a hidebound old man"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“...I’ll come.”",
+      "defect": "The pause uses three periods instead of the required ellipsis character.",
+      "id": "C05",
+      "rationale": "The packet’s Markdown rules require the single ellipsis character throughout.",
+      "replacement": "“…I’ll come.”",
+      "severity": "minor",
+      "source": "Chapter 173, Taekyung abandoning his attempt to feign injury"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“...Yes.”",
+      "defect": "The pause uses three periods instead of the required ellipsis character.",
+      "id": "C06",
+      "rationale": "The packet’s Markdown rules require the single ellipsis character throughout.",
+      "replacement": "“…Yes.”",
+      "severity": "minor",
+      "source": "Chapter 173, Taekyung claiming Jin Baekyang taught him Scorching Yang Qi"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“...What?”",
+      "defect": "The pause uses three periods instead of the required ellipsis character.",
+      "id": "C07",
+      "rationale": "The packet’s Markdown rules require the single ellipsis character throughout.",
+      "replacement": "“…What?”",
+      "severity": "minor",
+      "source": "Chapter 173, Jeok Cheongang reacting to Jin Baekyang’s death"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Wait? Blade of Flowers Jin Baekyang—isn’t he the person you killed, Benefactor? Right?”",
+      "defect": "The repeated line does not match the Chapter 173 cliffhanger, changing Cheongpung’s opening interjection from “Huh?” to the less natural “Wait?”",
+      "id": "C08",
+      "rationale": "A directly repeated cliffhanger line should remain identical across the chapter boundary unless the change conveys new information; this one does not.",
+      "replacement": "“Huh? Blade of Flowers Jin Baekyang—isn’t he the person you killed, Benefactor? Right?”",
+      "severity": "minor",
+      "source": "Chapter 174, opening recap line"
+    },
+    {
+      "confidence": 0.94,
+      "current": "The forty-five years of internal energy coiled within my dantian stretched awake.",
+      "defect": "“Stretched awake” is an unnatural English collocation that interrupts the otherwise brisk action prose.",
+      "id": "C09",
+      "rationale": "“Stirred awake” preserves the dormant-energy image without the literal, awkward phrasing.",
+      "replacement": "The forty-five years of internal energy coiled within my dantian stirred awake.",
+      "severity": "minor",
+      "source": "Chapter 174, Taekyung preparing to block the Flame Divine Palm"
+    },
+    {
+      "confidence": 0.94,
+      "current": "Jin Taekyung is a Level 71 Peak Master with forty-five years of internal energy, Scorching Yang Qi, and seventy unassigned stat points.",
+      "defect": "The established System term “Stat Points” is lowercased here despite being capitalized in the checkpoint summary.",
+      "id": "C10",
+      "rationale": "Capitalizing the established System resource consistently prevents terminology drift in future chapters.",
+      "replacement": "Jin Taekyung is a Level 71 Peak Master with forty-five years of internal energy, Scorching Yang Qi, and seventy unassigned Stat Points.",
+      "severity": "minor",
+      "source": "Durable state, active_continuity, Jin Taekyung status entry"
+    }
+  ],
+  "summary": "The reading copies are coherent and preserve the checkpoint’s major hooks, but the durable state drops Taekyung’s concealed Fire Gate–related facts. There is also a recap mismatch between Chapters 173 and 174, several noncompliant ASCII ellipses in Chapter 173, two awkward cultivation-style collocations, and one System-term capitalization drift.",
+  "version": 1
+}

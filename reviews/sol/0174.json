@@ -1,0 +1,166 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“You defied the bonds of heaven and killed the Blade of Flowers. Are you truly human?”",
+      "defect": "“Bonds of heaven” obscures that 천륜 specifically invokes the sacred bonds and duties of blood kin, which is the basis of Jeok Cheongang’s outrage.",
+      "id": "F01",
+      "rationale": "Jin Baekyang was Taekyung’s great-uncle, and 천륜 frames the killing as an offense against their familial relationship rather than an abstract violation of heaven.",
+      "replacement": "“You violated the sacred bonds of kinship and killed the Blade of Flowers. Are you truly human?”",
+      "severity": "major",
+      "source": "“천륜(天倫)을 거스르고 화양검을 죽이다니. 네놈이 진정 사람이더냐?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Jeok Cheongang was no longer an old man with only a few days left to live.",
+      "defect": "The draft converts the source’s indefinite “not much longer to live” into the specific quantity “a few days.”",
+      "id": "F02",
+      "rationale": "얼마 남지 않은 indicates limited remaining life without specifying days.",
+      "replacement": "Jeok Cheongang was no longer an old man who did not have much longer to live.",
+      "severity": "major",
+      "source": "적천강은 더 이상 살날이 얼마 남지 않은 노인이 아니었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Ash scattered through the air.",
+      "defect": "The draft omits the physical transformation: the wall and trees crumble into ash before scattering.",
+      "id": "F03",
+      "rationale": "재가 되어 explicitly states that the objects become ash, establishing the destructive effect of the clash.",
+      "replacement": "They crumbled into ash and scattered through the air.",
+      "severity": "major",
+      "source": "파스스스.\n\n재가 되어 흩날린다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“D-did you kill him?”",
+      "defect": "The draft turns a question about Taekyung’s condition into a direct accusation that Jeok Cheongang killed him.",
+      "id": "F04",
+      "rationale": "The Korean asks only whether the young man is dead; it does not explicitly assign the killing action to Jeok Cheongang.",
+      "replacement": "“I-is he dead?”",
+      "severity": "critical",
+      "source": "“주, 죽은 거요?”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“T-this man!”",
+      "defect": "Jang Taebo is angrily addressing Jeok Cheongang, but the draft renders the line as a third-person reference to an unspecified man.",
+      "id": "F05",
+      "rationale": "이자가 is a contemptuous form directed at Jeok Cheongang in this exchange; preserving direct address keeps the confrontation clear.",
+      "replacement": "“Y-you…!”",
+      "severity": "major",
+      "source": "“이, 이자가!”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "No wonder he had been away from his seat so often.",
+      "defect": "“Away from his seat” is an overly literal rendering that suggests a specific chair rather than Cheongpung repeatedly disappearing from the group.",
+      "id": "F06",
+      "rationale": "자리를 비우다 means to leave or be absent from one’s place in context, and the next sentence explains that Cheongpung had been roaming around.",
+      "replacement": "No wonder he kept disappearing so often.",
+      "severity": "minor",
+      "source": "어쩐지 자주 자리를 비우더니만."
+    },
+    {
+      "confidence": 0.99,
+      "current": "*Is this a deathbed flashback?*",
+      "defect": "“Deathbed flashback” is unnatural and inaccurately suggests a retrospective memory rather than the phenomenon of one’s life flashing before one’s eyes at the brink of death.",
+      "id": "F07",
+      "rationale": "주마등 here invokes the familiar near-death experience, used comically while Taekyung watches the palm approach.",
+      "replacement": "*Is my life flashing before my eyes?*",
+      "severity": "minor",
+      "source": "‘주마등인가?’"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Cheongpung, you motherfucking son of a bitch!”",
+      "defect": "Adding “motherfucking” intensifies the profanity beyond 개새끼 and loses the source’s comically prolonged delivery.",
+      "id": "F08",
+      "rationale": "개새끼 supports strong profanity such as “son of a bitch,” while the extended vowels in 개애새끼야아아 should be reflected in the shouted English.",
+      "replacement": "“Cheongpung, you son of a biiiiitch!”",
+      "severity": "minor",
+      "source": "“청풍 이 개애새끼야아아!”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Jang Taebo believed that every weapon had a soul.",
+      "defect": "The draft broadens 날붙이 from bladed implements to all weapons.",
+      "id": "F09",
+      "rationale": "날붙이 specifically refers to implements with cutting edges, fitting the following discussion of forging metal.",
+      "replacement": "Jang Taebo believed that every blade had a soul.",
+      "severity": "minor",
+      "source": "장태보는 모든 날붙이에 혼(魂)이 있다고 믿었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "He had placed himself on the scales of war.",
+      "defect": "The literal wording is unclear in English and drops the force of 저울추, the weight that changes the balance.",
+      "id": "F10",
+      "rationale": "The metaphor describes an unaffiliated master deliberately adding his decisive weight to the conflict.",
+      "replacement": "He had thrown his own weight onto the scales of war.",
+      "severity": "minor",
+      "source": "정(正), 사(邪), 마(魔). 그 어디에도 속하지 않았던 그는 스스로를 전쟁의 저울추 위에 올려놨다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Damn it. This place is finished now.”",
+      "defect": "The draft softens 니미 and omits 도, which indicates that this place is finished as well.",
+      "id": "F11",
+      "rationale": "니미 is strongly vulgar, while 여기도 explicitly includes “too” or “as well.”",
+      "replacement": "“Fuck. This place is done for too.”",
+      "severity": "minor",
+      "source": "“니미, 여기도 이제 끝이구먼.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "*“So choosing a master worthy of a weapon must be part of my duty as well.”*",
+      "defect": "The draft places quotation marks inside italics around a direct thought, contrary to the required thought formatting.",
+      "id": "F12",
+      "rationale": "This is Jang Taebo’s internal reflection, so it should be italicized without quotation marks.",
+      "replacement": "*So choosing a master worthy of a weapon must be part of my duty as well.*",
+      "severity": "minor",
+      "source": "‘그러니 병장기에게 걸맞은 주인을 골라 주는 것도 내 업이겠지.’"
+    },
+    {
+      "confidence": 0.98,
+      "current": "*“Someone with a gentle nature. Someone overflowing with ambition. Someone determined to walk only his own path…”*",
+      "defect": "The draft formats Jang Taebo’s internal catalog of former clients as quoted speech.",
+      "id": "F13",
+      "rationale": "The line is direct thought rather than spoken dialogue and should therefore have italics without quotation marks.",
+      "replacement": "*Someone with a gentle nature. Someone overflowing with ambition. Someone determined to walk only his own path…*",
+      "severity": "minor",
+      "source": "‘성품이 온화한 자, 야심이 넘치는 자, 오롯이 자신만의 길을 가려는 자…….’"
+    },
+    {
+      "confidence": 1.0,
+      "current": "*“They were strong. Every last one of them.”*",
+      "defect": "The draft incorrectly encloses a direct thought in quotation marks.",
+      "id": "F14",
+      "rationale": "This is Jang Taebo’s internal conclusion and must follow the required direct-thought format.",
+      "replacement": "*They were strong. Every last one of them.*",
+      "severity": "minor",
+      "source": "‘강했다. 그들 모두가.’"
+    },
+    {
+      "confidence": 1.0,
+      "current": "*“This one… this man is different.”*",
+      "defect": "The draft incorrectly encloses a direct thought in quotation marks.",
+      "id": "F15",
+      "rationale": "Jang Taebo is thinking about Jeok Cheongang, not speaking aloud.",
+      "replacement": "*This one… this man is different.*",
+      "severity": "minor",
+      "source": "‘이건, 이자는 달라.’"
+    },
+    {
+      "confidence": 1.0,
+      "current": "*“His martial arts have reached the heavens.”*",
+      "defect": "The draft incorrectly encloses a direct thought in quotation marks.",
+      "id": "F16",
+      "rationale": "The line is Jang Taebo’s internal realization and should be italicized without quotation marks.",
+      "replacement": "*His martial arts have reached the heavens.*",
+      "severity": "minor",
+      "source": "‘저자의 무공이 하늘에 닿았구나.’"
+    }
+  ],
+  "summary": "Several fidelity issues alter kinship, quantity, physical destruction, speaker address, and register; the draft also inconsistently formats direct thoughts.",
+  "version": 1
+}
