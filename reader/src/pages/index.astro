@@ -25,8 +25,8 @@ const mastered = new Set(loadTranslationProgress().mastered);
 ---
 
 <Base
-  title="Murim Login"
-  description="Read Murim Login — a martial-world web novel translation."
+  title="Murim Login Translation Project"
+  description="Read Murim Login — a martial-world web novel translation project."
 >
   <main
     class="wrap"
@@ -45,7 +45,15 @@ const mastered = new Set(loadTranslationProgress().mastered);
         loading="eager"
         fetchpriority="high"
       />
-      <h1>Murim Login</h1>
+      <div class="hero-title">
+        <h1>Murim Login Translation Project</h1>
+        <p class="hero-byline">
+          by
+          <a href="https://github.com/jimzrt" target="_blank" rel="noopener noreferrer"
+            >jimzrt</a
+          >
+        </p>
+      </div>
       <div class="cta-row">
         <a id="continue" class="button" hidden href={firstHref}
           >Continue reading</a
