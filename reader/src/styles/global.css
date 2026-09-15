@@ -1030,11 +1030,8 @@ html[data-theme="light"] .system-comments {
   color: var(--system-gold) !important;
 }
 
-.system-comments #remark42 :is(textarea, input[type="text"], input:not([type])) {
-  background: color-mix(in srgb, var(--system-blue-deep) 72%, #000) !important;
-  border-color: color-mix(in srgb, var(--system-gold) 40%, #2a5f96) !important;
-  color: #f3f7fc !important;
-}
+/* Remark42 UI lives in an iframe — host textarea rules do not apply.
+   Form chrome is themed via remark_config.__colors__ in Remark42.astro. */
 
 .system-comments #remark42 :is(.comment, .comments-list, .root, .comment-form) {
   color: #f3f7fc;
