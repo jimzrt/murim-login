@@ -1,0 +1,25 @@
+{
+  "summary": "The chapter is broadly faithful, with two minor defects involving age and profanity strength.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean line 239; [P119]",
+      "current": "He was nearing fifty, but his skin was taut and his black hair bristled like wire.",
+      "defect": "The English places him below fifty, while 오십 줄에 접어든 indicates that he has entered his fifties.",
+      "replacement": "He was in his early fifties, but his skin was taut and his black hair bristled like wire.",
+      "rationale": "접어든 denotes entering the stated age range, not approaching it from below.",
+      "confidence": 0.93
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Korean line 255; [P127]",
+      "current": "*Damn it.*",
+      "defect": "This softens the explicit profanity 시발.",
+      "replacement": "*Ah, fuck.*",
+      "rationale": "시발 is strong profanity, and the source's register should not be sanitized to the milder “damn.”",
+      "confidence": 0.97
+    }
+  ]
+}

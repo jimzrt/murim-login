@@ -12,15 +12,15 @@ After meticulously checking all the byproducts and Magic Gems we had brought, he
 
 “…”
 
-Im Changsoo’s face was pale. He only nodded without answering, making the official glance around uneasily.
+Im Changsoo’s face was pale. When he merely nodded without answering, the official watched him warily.
 
 “Team Leader, are you feeling unwell?”
 
-Since when did government officials start worrying about Hunters’ health?
+Since when did government officials worry about Hunters’ health?
 
 Before he could say anything unnecessary, I jabbed Im Changsoo in the ribs.
 
-“You have to answer him. Chang. Soo.”
+“You should answer him. Chang. Soo.”
 
 “Um… No, I’m fine.”
 
@@ -36,15 +36,15 @@ Private sales and consignment sales. With the former, the owner handled the tran
 
 *Each method has its pros and cons.*
 
-Rare items were more profitable to sell privately. For everything else, handing them over to a government agency saved a lot of trouble. It was like the difference between a luxury auction and a market auction.
+Rare items were more profitable to sell privately. For everything else, handing them over to a government agency saved a lot of trouble. It was like the difference between a luxury auction and a wholesale-market auction.
 
 “What should we do?”
 
-At Im Changsoo’s question, Butler Kim stepped forward. He hadn’t once taken the lead during this Gate raid, but he was still a veteran Hunter. When it came to this sort of thing, he probably knew more than anyone else here.
+At Im Changsoo’s question, Butler Kim stepped forward. He hadn’t taken the lead once during this Gate raid, but he was still a veteran Hunter. When it came to this sort of thing, he probably knew more than anyone else here.
 
 “We’ll sell them to the Administration.”
 
-They said no part of a cow went to waste. The same was true of Minotaurs.
+They said no part of a cow went to waste. Apparently, the same was true of Minotaurs.
 
 Their hides were used to make Equipment, their bones were simmered into restorative food, and their horns were popular collector’s items among enthusiasts.
 
@@ -56,13 +56,13 @@ The government official began calculating the value of the byproducts with an ex
 
 Still, whatever the official skimmed off wasn’t my concern.
 
-The cut I was getting today was much bigger.
+My own windfall today was much bigger.
 
-Tap, tap.
+I tapped Im Changsoo twice.
 
 “What about the amount you promised?”
 
-Im Changsoo answered with a rigid expression.
+His face went rigid.
 
 “I-I’ll pay it.”
 
@@ -78,7 +78,7 @@ Four billion won by tomorrow? The son of a rich family certainly didn’t mess a
 
 That should be enough, right? I said goodbye by giving Im Changsoo a light pat on the back.
 
-As I watched with satisfaction as he staggered away, Im Kkeokjeong asked me,
+As I watched him stagger away with satisfaction, Im Kkeokjeong asked me,
 
 “Do you think that punk will actually pay?”
 
@@ -92,9 +92,9 @@ As I watched with satisfaction as he staggered away, Im Kkeokjeong asked me,
 
 “Like what?”
 
-Now that he had put it that way, I was starting to get a little worried.
+Now that he had put it that way, I was starting to worry.
 
-Kkeokjeong glanced around, checking everyone’s reactions, then leaned in and whispered,
+Kkeokjeong glanced around cautiously before leaning in and whispering,
 
 “You know who the Sangdong Guild Master is, right?”
 
@@ -102,7 +102,7 @@ Kkeokjeong glanced around, checking everyone’s reactions, then leaned in and w
 
 Im Chunsoo. For some reason, the name brought to mind a middle-aged man with a bulging beer belly, but the reality was the exact opposite.
 
-“He’s an A-rank Hunter who distinguished himself during the Great Cataclysm. What do people call him again? Fro… Fro… It’s suddenly slipping my mind.”
+“He’s an A-rank Hunter who distinguished himself during the Great Cataclysm. What do people call him again? Fro… Fro… Damn, I can’t remember.”
 
 “Frozen.”
 
@@ -110,9 +110,9 @@ Im Chunsoo. For some reason, the name brought to mind a middle-aged man with a b
 
 Famous Hunters were often given epithets that suited their abilities.
 
-The same was true of Im Chunsoo. An A-rank Hunter, he was a mage who had played a major role in the Great Cataclysm, and his particular skill with ice magic had earned him the epithet Frozen.
+The same was true of Im Chunsoo. He was an A-rank mage who had played a major role in the Great Cataclysm, and his particular skill with ice magic had earned him the epithet Frozen.
 
-“When it comes to ice magic, that man is one of the top five in Korea. He used that Fame to build Sangdong Guild into what it is today.”
+“When it comes to ice magic, that man ranks among the top five in Korea. He used that Fame to build Sangdong Guild into what it is today.”
 
 When the brutal Great Cataclysm finally came to an end, the first-generation Hunters faced a choice.
 
@@ -122,7 +122,7 @@ Im Chunsoo chose the latter and founded Sangdong Guild.
 
 “That’s impressive. His son doesn’t seem like much.”
 
-Even among A-rank Hunters, it was rare for someone to survive the Great Cataclysm with nothing but their bare fists and gain both wealth and fame. Im Chunsoo’s present was the future many Hunters dreamed of.
+Even among A-rank Hunters, it was rare for someone to survive the Great Cataclysm on the strength of his own two fists and gain both wealth and fame. Im Chunsoo’s present was the future many Hunters dreamed of.
 
 “Impressive? Bloodlines certainly are.”
 
@@ -136,7 +136,7 @@ Kkeokjeong jerked his chin toward Im Changsoo’s retreating back.
 
 “And?”
 
-“Bucheon was just as fiercely competitive between Guilds back then as it is now. There was no room for a new Guild to squeeze in.”
+“Bucheon was just as fiercely contested between Guilds back then as it is now. There was no room for a new Guild to squeeze in.”
 
 “But Im Chunsoo broke through anyway?”
 
@@ -148,35 +148,35 @@ Did that really follow?
 
 Competition between Guilds was nothing new, and in a meritocracy, it was only natural for the capable to survive.
 
-“A man like him would have had excellent abilities as a Hunter and plenty of Fame. He must have had powerful connections, too.”
+“A man like him would’ve been an outstanding Hunter with plenty of Fame. He must’ve had powerful connections, too.”
 
 “Do you think the other Guild Masters didn’t?”
 
 “What?”
 
-“They might have had slightly less Fame than Im Chunsoo, but every one of them had been a war hero. They had entered the market several years before Sangdong Guild and occupied a substantial number of Gates.”
+“They might have had slightly less Fame than Im Chunsoo, but every one of them was a war hero. They’d entered the market years before Sangdong Guild and already controlled a substantial number of Gates.”
 
 Kkeokjeong continued in a low voice.
 
-“It was a time when all kinds of illegal activity ran rampant because the system hadn’t been fully established yet. The only reason Sangdong Guild exists today is that Im Chunsoo crushed every one of his competitors. He’s no pushover.”
+“It was a time when the system hadn’t been fully established yet, and all kinds of illegal activity ran rampant. Sangdong Guild only exists today because Im Chunsoo crushed every one of his competitors. He’s not a man to take lightly.”
 
 A thought suddenly flashed through my mind.
 
-What would happen if Im Chunsoo found out about what had happened today? How would he react to hearing that his only son had been utterly humiliated?
+What would happen if Im Chunsoo found out about what had happened today? How would he react when he heard that his only son had been utterly humiliated?
 
 *This could get complicated.*
 
-When it came to Korea, you couldn’t leave out school ties, hometown ties, or blood ties.
+When it came to Korea, you couldn’t ignore school ties, hometown ties, or blood ties.
 
-Sangdong Guild had held its ground for twenty years. If it was a local power, our Guild was practically a newborn.
+Sangdong Guild had been firmly established as a local power for twenty years. Compared to them, our Guild was practically a newborn.
 
-If Sangdong Guild came at us in earnest, they’d tear up our birth certificate before we even got started.
+If Sangdong Guild came after us in earnest, they’d tear up our birth certificate before we even got started.
 
 “Is the Sangdong Guild Master good-natured, at least?”
 
-“I wouldn’t know. I’ve only heard rumors.”
+“How would I know? I’ve only heard rumors.”
 
-“At least tell me what you’ve heard.”
+“Tell me what you’ve heard, then.”
 
 After thinking for a moment, Kkeokjeong answered,
 
@@ -188,7 +188,7 @@ After thinking for a moment, Kkeokjeong answered,
 
 “…A tiger for a father and a dog for a son?”
 
-“If Changsoo’s personality is that of a son of a bitch, then Im Chunsoo is a tiger. I hear his temper is absolutely fucking terrible.”
+“If Changsoo is a son of a bitch, then Im Chunsoo is a tiger. I hear his temper is absolutely fucking terrible.”
 
 “…”
 
@@ -206,7 +206,7 @@ I could deal with whatever happened to me, but I absolutely refused to let the o
 
 “Taekyung, don’t worry about it too much. I only brought it up just in case.”
 
-“I didn’t just cause trouble, did I?”
+“I didn’t just cause a major incident, did I?”
 
 “It’ll be fine. Team Leader Choi thought it sounded fun and joined the bet, too.”
 
@@ -224,7 +224,7 @@ Hearing that made me feel considerably lighter. I even found myself smiling.
 
 “…Ah.”
 
-He was driving a nail straight through my heart.
+He drove a nail straight through my heart.
 
 As Im Kkeokjeong killed me with words for the second time, I swallowed my tears.
 
@@ -232,23 +232,23 @@ As Im Kkeokjeong killed me with words for the second time, I swallowed my tears.
 
 “What brings you here?”
 
-The speaker was a man with a distinctive appearance.
+The speaker was a man with a striking appearance.
 
 He was nearing fifty, but his skin was taut and his black hair bristled like wire. His large, piercing eyes alone were enough to make anyone’s knees go weak.
 
 *What the hell is with that look in his eyes…?*
 
-The manager of a K Bank branch was no exception. He had already met the man several times, but he was an ordinary person, while the other man was an A-rank Hunter—a living witness who had endured the Great Cataclysm with his entire body.
+The manager of a K Bank branch was no exception. He had met the man several times before, but he was an ordinary person, while the man before him was an A-rank Hunter—a living witness to the Great Cataclysm who had survived it firsthand.
 
 His tongue tied itself in knots, and cold sweat trickled down his back.
 
 “Well…”
 
-“If you came to waste my valuable time, go back. Otherwise, speak now.”
+“If you came to waste my valuable time, leave. Otherwise, say what you came to say.”
 
-The words were sharp, but his tone was fairly gentle.
+The words were sharp, but his tone was fairly mild.
 
-The manager had heard the rumor that Im Chunsoo was trying to mellow his temper with age. Apparently, it hadn’t been a complete waste of effort.
+The manager had heard that Im Chunsoo was trying to mellow his temper with age. Apparently, his efforts hadn’t been completely wasted.
 
 *Damn it.*
 
@@ -260,7 +260,7 @@ At the mention of his son, Sangdong Guild Master Im Chunsoo’s eyebrow twitched
 
 “Changsoo? What about him?”
 
-“Some time ago, you asked me to let you know whenever your son used any of the bank’s services…”
+“Some time ago, you asked me to inform you whenever your son conducted any banking business…”
 
 Im Chunsoo nodded as if he understood where this was going.
 
@@ -268,17 +268,17 @@ Im Chunsoo nodded as if he understood where this was going.
 
 “He transferred a considerable amount of money all at once.”
 
-“He must be fooling around with women again. Obviously. How much?”
+“He must be chasing women again. Obviously. How much?”
 
 “Four billion won to each of two accounts. Eight billion won in total.”
 
 “How much?”
 
-“Eight billion… Hup.”
+“Eight billion…!”
 
-The branch manager hurriedly swallowed his breath. He had just watched the window behind Im Chunsoo rapidly freeze over.
+The branch manager caught his breath. The window behind Im Chunsoo was rapidly freezing over.
 
-Hiss.
+Crackle.
 
 It was late summer outside, but cold and frost now ruled the office.
 
@@ -292,9 +292,9 @@ With shaking hands, the branch manager placed a stack of papers on the desk.
 
 “Good. You may leave.”
 
-“I-I’ll see you next time.”
+“U-Until next time, sir.”
 
-After the branch manager fled the room, Im Chunsoo picked up the receiver. The phone had a cold-resistance function, so it transmitted the signal quickly without any problems.
+After the branch manager fled the room, Im Chunsoo picked up the receiver. The phone was equipped with cold resistance, so it sent the signal without any trouble.
 
 Beep, beep. Click.
 
@@ -310,23 +310,23 @@ Bang!
 
 The receiver’s life ended there. It shattered into hundreds of icy fragments that covered the desk.
 
-“What a pathetic fool. Even after I warned him…”
+“What a pathetic fool. After all my warnings…”
 
-Im Chunsoo glared coldly at the wrecked office, then his gaze stopped on one spot.
+Im Chunsoo surveyed the wrecked office with an icy gaze before his eyes stopped on one spot.
 
 The stack of papers left behind by the K Bank branch manager.
 
-There was no doubt that the documents contained the whereabouts of eight billion won.
+The whereabouts of the eight billion won had to be recorded in there.
 
 *You stupid bastard. Which bitch did you get taken in by this time?*
 
-He read through the papers, turning them one page at a time, for more than ten minutes.
+He spent more than ten minutes reading through the papers one page at a time.
 
-When Im Chunsoo closed the final page, the door flew open with the sound of someone being dragged along.
+As Im Chunsoo closed the final page, the door flew open to the sound of someone being dragged along.
 
-“Team Leader Im Changsoo. I brought him here.”
+“Team Leader Im Changsoo. I brought him.”
 
-An affable-looking middle-aged man stood there.
+An affable-looking middle-aged man stood in the doorway.
 
 Clutched firmly in his grasp was a young man.
 
@@ -334,15 +334,15 @@ Clutched firmly in his grasp was a young man.
 
 “My proud son is here.”
 
-At his son’s appearance, the father extended a hand.
+At the sight of his son, the father extended a hand.
 
 Of course, it was not a gesture of forgiveness.
 
 Crackle, crackle, crackle.
 
-Cold surged from Im Chunsoo’s grasp. It changed from gas to liquid, then from liquid to solid, completing its transformation into an ice club as hard as steel.
+Cold surged from Im Chunsoo’s palm. It changed from gas to liquid, then from liquid to solid, completing its transformation into an ice club as hard as steel.
 
-“I have a lot to ask you, but first, you’re getting hit.”
+“I have a lot to ask you, but first, let’s start with a beating.”
 
 “Father!”
 
