@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Chinggen clicked his tongue.",
+      "defect": "The idiom means he marveled or was astounded, not that he clicked his tongue in disapproval.",
+      "id": "F01",
+      "rationale": "혀를 내두르다 describes an astonished reaction here, whereas “clicked his tongue” conveys a different physical action and attitude.",
+      "replacement": "Chinggen was astounded.",
+      "severity": "minor",
+      "source": "칭겐은 혀를 내둘렀다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "He stared at Black Sand with a sunken gaze.",
+      "defect": "“Sunken gaze” is an unnatural anatomical calque and does not convey Chinggen’s subdued, serious look.",
+      "id": "F02",
+      "rationale": "침잠한 describes a settled, subdued, or contemplative expression rather than physically sunken eyes.",
+      "replacement": "He regarded Black Sand with a grave, thoughtful gaze.",
+      "severity": "minor",
+      "source": "어느 정도 상황 파악을 끝낸 칭겐은 침잠한 눈빛으로 흑사를 바라봤다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“To be honest, this is rather bewildering.”\n\nTemur’s voice was blunt, but Chinggen remained composed.\n\n“What exactly are you scheming?”",
+      "defect": "The draft adds an attribution and character contrast absent from the source, assigning the first line to Temur and implicitly assigning the second to Chinggen despite the source leaving both speakers unstated.",
+      "id": "F03",
+      "rationale": "The source preserves ambiguity at this exchange; the explicit Temur-versus-Chinggen contrast appears only later, after Temur’s sarcastic remark.",
+      "replacement": "“To be honest, this is rather bewildering.”\n\n“What exactly are you scheming?”",
+      "severity": "major",
+      "source": "“솔직히 당황스러운 것은 사실이오.”\n\n“도대체 당신의 꿍꿍이가 뭐요?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Would you care to build a stronghold with me?”",
+      "defect": "The draft changes Black Sand’s proposal from conspiring to seize or attack a city into constructing a stronghold.",
+      "id": "F04",
+      "rationale": "성 is explicitly glossed with 城, and 도모하다 means to plot or undertake its seizure here. The following question identifying Shanxi confirms that this is a territorial attack, not construction.",
+      "replacement": "“Would you care to seize a city with me?”",
+      "severity": "critical",
+      "source": "“나와 함께 성(城)을 도모해 보지 않겠소?”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "“You two don’t look very happy.”",
+      "defect": "The draft narrows Black Sand’s observation to the two chieftains, while 다들 refers collectively to everyone listening.",
+      "id": "F05",
+      "rationale": "다들 is inclusive and does not specify only two people.",
+      "replacement": "“None of you look very pleased.”",
+      "severity": "minor",
+      "source": "“다들 표정이 영 아니군.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Lower your voice. I’ll carve out your throat before you know it.”",
+      "defect": "The draft replaces the specific threatened target, 목젖, with the broader and anatomically awkward “throat,” and adds “before you know it.”",
+      "id": "F06",
+      "rationale": "목젖 refers here to the protruding throat structure, and 전에 directly makes lowering his voice a condition to avoid the threatened mutilation.",
+      "replacement": "“Lower your voice before I cut out your Adam’s apple.”",
+      "severity": "minor",
+      "source": "“목소리를 낮춰라. 목젖을 도려내 버리기 전에.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Just as blades emerged from the men’s waists—",
+      "defect": "The English makes the blades sound as though they physically emerge from the men’s bodies rather than being partially drawn from weapons at their waists.",
+      "id": "F07",
+      "rationale": "도신이 모습을 드러내다 describes the exposed blades becoming visible as the two men draw their weapons.",
+      "replacement": "Just as the blades at both men’s waists slid from their sheaths—",
+      "severity": "minor",
+      "source": "두 사람의 허리춤에서 도신이 모습을 드러낸 그때였다."
+    }
+  ],
+  "summary": "One critical action error, two meaningful attribution/reaction errors, and several localized fidelity or natural-English issues.",
+  "version": 1
+}
