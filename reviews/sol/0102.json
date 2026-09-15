@@ -1,0 +1,126 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Being clueless about legal matters was simply the same principle applied in reverse.",
+      "defect": "The source says his legal ignorance follows from the same principle that everyone has a different specialty; it does not describe that principle as operating in reverse.",
+      "id": "F01",
+      "rationale": "This preserves the stated causal connection between specialized expertise and ignorance outside one's field.",
+      "replacement": "My being clueless about legal matters was simply another example of everyone having their own specialty.",
+      "severity": "major",
+      "source": "게이트에서의 포메이션과 위기 상황이 닥쳤을 때 취해야 할 행동, 몬스터들의 약점 등을 달달 꿰고 있는 내가 법 관련 사항에서는 문외한인 것도 같은 맥락이었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“You too, legal scrivener.”",
+      "defect": "The literal occupational address is unnatural in English and makes the reply sound comic or stilted when it is merely polite reciprocation.",
+      "id": "F02",
+      "rationale": "The honorific addressee is already clear from context, while the source's function is simply to return the courtesy.",
+      "replacement": "“You too.”",
+      "severity": "minor",
+      "source": "“법무사님도요.”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "“Damn, you’re fast. Has your family already moved into the new place?”",
+      "defect": "The draft replaces Jinho's teasing insult directed at Taekyung with a generic exclamation, weakening his familiar older-friend register.",
+      "id": "F03",
+      "rationale": "새끼 is a direct, rough but familiar form of address here, not an adverbial expression of surprise.",
+      "replacement": "“Bastard, that was fast. Has your family already moved into the new place?”",
+      "severity": "major",
+      "source": "“새끼, 빠르네. 가족들은 이미 새집으로 이사했고?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Somewhere I know. I’ll be staying at a friend’s place for a while.",
+      "defect": "The first sentence is an unsupported addition, and 'friend' makes 아는 사람 more intimate and specific than the source's deliberately vague 'someone I know.'",
+      "id": "F04",
+      "rationale": "The replacement preserves both Jinho's vague wording and the fact that he will be living in another person's home.",
+      "replacement": "“Well, I ended up crashing at someone I know’s place.",
+      "severity": "major",
+      "source": "“그냥 뭐 아는 사람 집에 얹혀살게 됐어."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“I probably went through the training center before you.",
+      "defect": "Although the chronology is conveyed, the established term and the explicit seniority relationship expressed by 선배 are omitted.",
+      "id": "F05",
+      "rationale": "The source specifically frames the driver as Taekyung's 선배 according to their respective training-center classes.",
+      "replacement": "“I’m probably your Senior by training-center class.",
+      "severity": "minor",
+      "source": "“아마 내가 손님보다 훈련소 기수로는 선배일걸?"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“He was a trainee who joined the Guild at the same time as me…",
+      "defect": "The draft identifies the dead man merely as an unspecified trainee, omitting that he was one of the driver's own training-center classmates.",
+      "id": "F06",
+      "rationale": "훈련소 동기 establishes their peer relationship and shared training cohort, which gives additional weight to the driver's guilt.",
+      "replacement": "“He was one of my training-center classmates, and he joined the Guild at the same time as me…",
+      "severity": "major",
+      "source": "“같이 입사한 훈련소 동기 녀석이었는데……"
+    },
+    {
+      "confidence": 1.0,
+      "current": "It had been moderately heavy even for me, with my Strength stat over three digits.",
+      "defect": "'Over three digits' means a value greater than 999, changing the stated quantity; the source means that Taekyung's Strength has crossed into triple digits.",
+      "id": "F07",
+      "rationale": "세 자리가 넘어가는 indicates that the stat has passed the threshold into three-digit territory, not that it exceeds all three-digit values.",
+      "replacement": "It had been moderately heavy even for me, with my Strength stat in the triple digits.",
+      "severity": "critical",
+      "source": "근력 스탯이 세 자리가 넘어가는 나한테도 적당히 묵직한 정도였는데 저 아저씨라면 더더욱 얘기가 다르다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Come on. You’re underestimating me. I may be an ex-Hunter, but something this small shouldn’t—nnngh!”",
+      "defect": "The draft explicitly calls the capsule small, contradicting its established large size and changing the object being described. 겨우 이 정도 means approximately 'just this much' or 'something like this,' not physically small.",
+      "id": "F08",
+      "rationale": "The driver's boast dismisses the difficulty of the task, not the capsule's physical dimensions.",
+      "replacement": "“Come on. You’re underestimating me. I may be an ex-Hunter, but something like this shouldn’t—nnngh!”",
+      "severity": "critical",
+      "source": "“에헤이. 너무 무시하신다. 내가 그래도 왕년에 헌터였는데 겨우 이 정도로…… 끄응!”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Which room?!”\n\n“The capsule is on the second floor—”\n\n“What?!”\n\n“—where I was going to put it, but just leave it in the nearest room.”",
+      "defect": "The interrupted English sentence initially states that the capsule is already upstairs, even though the driver is carrying it in the living room. Taekyung is saying that he had intended to put it upstairs.",
+      "id": "F09",
+      "rationale": "The source describes Taekyung's intended destination for the capsule, followed by an immediate change of plan after the driver's horrified reaction.",
+      "replacement": "“Which room?!”\n\n“I was going to put the capsule upstairs…”\n\n“What?!”\n\n“…but just leave it in the nearest room.”",
+      "severity": "critical",
+      "source": "“어느 방!”\n\n“캡슐은 2층…….”\n\n“뭣이?”\n\n“……에 놓으려고 했는데 그냥 가까운 방에 놔 주세요.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "This was the house I had returned to after eleven years.",
+      "defect": "The English implies that this is the same physical house Taekyung left eleven years earlier, contradicting his preceding statement that their old home no longer exists.",
+      "id": "F10",
+      "rationale": "The source refers emotionally to regaining a family home after eleven years, not returning to the former building.",
+      "replacement": "After eleven years, I finally had a home of my own again.",
+      "severity": "critical",
+      "source": "11년 만에 돌아온 집이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "[^1]: Crown Prince Sado was an eighteenth-century Joseon royal remembered for his tragic confinement and death.",
+      "defect": "The footnote omits confinement inside a wooden rice chest, the specific fact that makes the comparison to Jinho's hours trapped in the capsule intelligible.",
+      "id": "F11",
+      "rationale": "Identifying the rice chest explains the source's physical and comic analogy without introducing spoilers.",
+      "replacement": "[^1]: Crown Prince Sado was an eighteenth-century Joseon royal who died after being confined in a wooden rice chest.",
+      "severity": "major",
+      "source": "장장 몇 시간의 고통을 인내한 그는 사도세자처럼 초췌했으나 알을 깨고 태어난 박혁거세처럼 후련해 보였다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "A parched voice slipped between his tightly dried lips.",
+      "defect": "'Tightly dried lips' is not natural English and misreads 바짝 as modifying the degree of dryness rather than describing tightness.",
+      "id": "F12",
+      "rationale": "바짝 마른 means thoroughly or extremely dry, while the replacement retains the source's repeated dry-mouth imagery.",
+      "replacement": "A parched voice slipped between his bone-dry lips.",
+      "severity": "minor",
+      "source": "바짝 마른 입술 사이로 메마른 음성이 새어 나온다."
+    }
+  ],
+  "summary": "The draft contains several factual and register errors, including an altered causal explanation, an overstated relationship, a changed quantity, and dialogue that incorrectly places the capsule upstairs.",
+  "version": 1
+}

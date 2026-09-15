@@ -1,17 +1,17 @@
 # Translation State
 
-- Last completed: 101
-- Next chapter: 102
-- Current block: 100–104 (2/5)
-- Latest translation: `translations/0101.md`
-- Latest summary: `summaries/beats/0101.md`
-- Safe profiles through: chapter 101
+- Last completed: 102
+- Next chapter: 103
+- Current block: 100–104 (3/5)
+- Latest translation: `translations/0102.md`
+- Latest summary: `summaries/beats/0102.md`
+- Safe profiles through: chapter 102
 
 ## Current Block
 
-- Kim Hwajong's arrival reveals that he and Im Chunsoo knew each other. Hwajong was a Class 3 instructor at the Hunter Training Center, while Chunsoo was a Class 25 trainee assigned to the 28th Regiment, First Battalion, Second Company. Hwajong's severe training and discipline left Chunsoo deeply traumatized, and Chunsoo instinctively responds to his former instructor's command by giving his military identification after thirty years.
-- Team Leader 1 finds the Security Team bound but not seriously injured and assesses Jin Taekyung as a top-tier B-rank or A-rank Hunter. He warns the Security Team Leader that the attempted use of force may result in a written report, pay cut, or dismissal. After hearing Chunsoo's shouted training responses, Team Leader 1 runs to the trail entrance, where Chunsoo conceals the encounter by claiming he chased away college students playing army and then publicly berates the Security Team.
-- Kim Hwajong drives Taekyung home. Taekyung realizes that Butler Kim was a highly accomplished Hunter and former instructor who trained early Great Cataclysm-era mages, and asks about his past. Hwajong says the story is long and expresses interest in hearing Taekyung's story as well, but Taekyung avoids the conversation by citing dinner and his next-day real-estate contract.
+- Jin Taekyung completed the purchase of a two-story detached house in Goyang, reclaiming a home for his family after eleven years. He moved his belongings out of Hope Goshiwon, keeping only a cardboard box and the capsule.
+- Taekyung planned to live alone in the new house, secretly remodel it, and tell his family after Hayeon finished her college entrance exam. During the move, the former F-rank Hunter driving the truck recounted retiring after a Guild accident killed one of his training-center classmates.
+- On the final evening of his vacation, Taekyung settled into the new house and logged into Murim. Hours after he lost consciousness, Seong Jinho unexpectedly emerged from the capsule in the room beside the entrance, carrying a civil-service-exam book and calling the house his new nest.
 
 ## Open Questions
 
@@ -20,6 +20,7 @@
 - Why Kim Hwajong arrived at the confrontation remains unknown.
 - Why Kim Hwajong, despite his former instructor status and exceptional ability, now works as a butler remains unexplained.
 - What final disciplinary action will be taken against the Security Team remains unknown.
+- How and why Seong Jinho entered the capsule and emerged inside Taekyung's new house remains unknown.
 
 ## Exceptional Decision
 
