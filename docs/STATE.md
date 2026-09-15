@@ -1,15 +1,16 @@
 # Translation State
 
-- Last completed: 191
-- Next chapter: 192
-- Current block: 190–194 (2/5)
-- Latest translation: `translations/0191.md`
-- Latest summary: `summaries/beats/0191.md`
-- Safe profiles through: chapter 191
+- Last completed: 192
+- Next chapter: 193
+- Current block: 190–194 (3/5)
+- Latest translation: `translations/0192.md`
+- Latest summary: `summaries/beats/0192.md`
+- Safe profiles through: chapter 192
 
 ## Current Block
 
-- After Chulwoo is carried away unconscious, Jin Taekyung is declared the final winner of the Jin Family of Taiyuan Duel Tournament Sudden Event and receives Fame, EXP, a Level Up, and 10 bonus points. The celebration becomes chaotic until an elderly master disperses the crowd with a powerful lion's roar. The old man is Song Il, the Roaring Fury Swordsman and an Elder of the Zhongnan Sect, who arrived with Gong Ilhyuk, Hyuk Mujin, and two unidentified men. Song Il claims Gong Ilhyuk was badly injured by Cheongpung at Prince Shangshan's residence and demands compensation for mocking the Zhongnan Sect and injuring its Disciple. He humiliates Baek Museong, recognizes Cheongpung as the Sword Saint's heir, threatens to formally complain to Huashan, and orders the Jin Family to seal its gates until Zhongnan sends someone. Jin Wikyung rejects the order, and Taekyung openly curses the unfair treatment; Wikyung admits he feels the same. Song Il draws a sword covered in exceptionally powerful Sword Energy, but an unidentified clear voice warns that killing Taekyung will result in Song Il's death, causing him to freeze.
+- Song Il loses control after Jin Taekyung and Jin Wikyung reject his domineering conduct, attacks Taekyung with the Heavenly River Thirty-Six Swords, and is stopped when the mysterious speaker reveals himself as Jeok Cheongang, the Fire King.
+- Jeok Cheongang uses Six-Harmonies Voice Transmission to threaten Song Il, catches his wrist after Taekyung narrowly evades the attack, publicly humiliates Song with slaps and insults, and reveals that he entrusted the Fire Gate Clan's sacred treasure to Taekyung.
 
 ## Open Questions
 
@@ -19,15 +20,15 @@
 - When will Jang Taebo complete Taekyung's commissioned weapon?
 - Who has the Treasured Jade, or was it lost by Jopil?
 - What consequences will follow Woo Hwangtae's conflict with Chulwoo and the Jin Family?
-- Who is the person whose clear voice stopped Song Il, and why did they intervene?
-- What consequences will follow Song Il's confrontation with the Jin Family?
+- What consequences will follow Song Il's confrontation with the Jin Family and Jeok Cheongang?
+- How will the public revelation of Taekyung's entrusted Fire Gate Clan treasure affect the Jin Family?
 
 ## Exceptional Decision
 
 - Render 화왕 as “Fire King” and 화염신장 as “Flame Divine Palm.”
 - Render 만년한철 as “Ten-Thousand-Year Cold Iron” and 이름 없는 검 as “Unnamed Sword.”
 - Render 암천 as “Dark Heaven.”
-- Render 전음 as “Sound Transmission.”
+- Render 전음 as “Sound Transmission,” 육합전성 as “Six-Harmonies Voice Transmission,” and 천하삼십육검 as “Heavenly River Thirty-Six Swords.”
 - Render 대연무장 as “Grand Training Ground.”
 - Render 주모 as “Lady of the House.”
 - Render 권기 as “Fist Qi” and 화산제일의 기재 as “Huashan's greatest prodigy.”
