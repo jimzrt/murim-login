@@ -65,15 +65,34 @@ Installation ID is in the URL after you install:
 ## Models
 
 The worker calls `omp --mode json --no-tools` like the chapter controller.
-On the VPS, either:
+The `murim-report` image installs [omp](https://omp.sh/docs/quickstart) with the
+official installer (`curl -fsSL https://omp.sh/install | sh -s -- --binary`).
+Auth lives in a Compose volume at `./murim_report_omp` (`/root/.omp` in the
+container) so it survives rebuilds.
 
-- put `omp` on PATH in the `murim-report` image/container and mount the same
-  Codex/Cursor/`~/.config` credentials you use locally, or
-- set OpenRouter (or other `.omp` overflow) credentials so the configured
-  fallback chain can run without Codex.
+On the VPS, after rebuilding `murim-report`:
 
-Until the App ID, PEM, and webhook secret are set, `POST /report-line` returns
-503.
+```bash
+docker compose exec murim-report omp --version
+```
+
+Unattended path (recommended on a server): put an OpenRouter key in `stack.env`
+as `OPENROUTER_API_KEY=...` (and any other provider keys omp already honors),
+then recreate the container. Fallback in [`.omp/config.yml`](../.omp/config.yml)
+will use OpenRouter when Codex/Cursor are not logged in.
+
+Interactive path (Codex/Cursor subscriptions):
+
+```bash
+docker compose exec -it murim-report omp auth-broker login
+```
+
+Pick the provider, complete the browser/device flow, then recreate is not
+required; credentials are already on the volume.
+
+Until omp can actually call a model, the GitHub issue is created but evaluation
+comments fail. Redeliver the `issues` `opened` webhook for that issue after auth
+works, or file a new report.
 
 ## Maintainer loop
 
