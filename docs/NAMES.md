@@ -242,3 +242,11 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 성주 | **City Lord** | Official who sends the invitation for a gathering with young prodigies. |
 | 적토마 | **Red Hare** | Famous horse used in Hyuk Mujin's exaggerated comparison. |
 | 여포 | **Lü Bu** | Historical warrior used in Hyuk Mujin's exaggerated comparison. |
+| 성주의 초청 | **The City Lord's Invitation** | System Quest title. |
+| 구파일방 | **Nine Sects and One Gang** | Major Murim grouping. |
+| 오대세가 | **Five Great Families** | Major Murim grouping. |
+| 주씨 | **Zhu** | Surname of the imperial ruling house. |
+| 친왕 | **Prince** | Imperial title held by the Shanxi City Lord. |
+| 천자 | **Son of Heaven** | Honorific title for the Emperor. |
+| 황상 | **Emperor** | Address or reference to the reigning Emperor. |
+| 태자 | **Crown Prince** | Title of the Emperor's older brother who was reportedly assassinated. |

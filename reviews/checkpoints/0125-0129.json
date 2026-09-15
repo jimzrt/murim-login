@@ -1,0 +1,106 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "“But you’re a great senior of the Murim, renowned throughout the martial world...”",
+      "defect": "These chapters repeatedly use three periods for ellipses, unlike the required ellipsis character and the later chapters’ formatting.",
+      "id": "C01",
+      "rationale": "Normalize every three-dot ellipsis in Chapters 125–126 to the required single ellipsis character.",
+      "replacement": "“But you’re a great senior of the Murim, renowned throughout the martial world…”",
+      "severity": "minor",
+      "source": "Chapters 125–126, dialogue and thought ellipses throughout; representative instance in Chapter 125"
+    },
+    {
+      "confidence": 0.99,
+      "current": "**Description:** A pill manufactured by **Dark Heaven**. For approximately one shichen, it dramatically raises the user’s latent power, but a price follows. Do not take it except in the worst circumstances.",
+      "defect": "The update is triggered only by learning the manufacturer, but it unnecessarily rewrites the rest of the established item description from Chapter 125.",
+      "id": "C02",
+      "rationale": "Only the newly identified manufacturer should change; preserving the established wording keeps the supposedly same item record stable.",
+      "replacement": "**Description:** A pill manufactured by **Dark Heaven**. It greatly raises the user’s latent power for about one shichen, but a price must be paid in return. Do not take it except in the worst-case scenario.",
+      "severity": "minor",
+      "source": "Chapter 127, updated Temporary Strength Pill Item Window"
+    },
+    {
+      "confidence": 1.0,
+      "current": "**Effects:** Combat-related stats +100  \n> Internal energy +15 years  \n> Body-Protecting Qi available",
+      "defect": "The unchanged effects are reformatted inconsistently with the Chapter 125 Item Window: the singular label becomes plural, and two field labels lose their bold label-and-colon formatting.",
+      "id": "C03",
+      "rationale": "The System should display unchanged item fields consistently across both inspections.",
+      "replacement": "**Effect:** Combat-related stats +100  \n>\n> **Internal energy:** +15 years  \n>\n> **Body-Protecting Qi:** Available",
+      "severity": "minor",
+      "source": "Chapter 127, updated Temporary Strength Pill Item Window effects"
+    },
+    {
+      "confidence": 1.0,
+      "current": "The phrase *Someone Unknown* had disappeared, replaced by the unfamiliar term *Dark Heaven*.",
+      "defect": "The narration quotes wording that never appeared in the earlier Item Window, which said “an unknown person.”",
+      "id": "C04",
+      "rationale": "The comparison must quote the actual wording that the System replaced.",
+      "replacement": "The words *an unknown person* had disappeared, replaced by the unfamiliar term *Dark Heaven*.",
+      "severity": "minor",
+      "source": "Chapter 127, narration immediately after the updated Item Window"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Smiling contentedly, I drew the [Unnamed Sword] from my waist.",
+      "defect": "The established item name is enclosed in stray square brackets, creating UI-format drift in ordinary prose.",
+      "id": "C05",
+      "rationale": "The same item is rendered without brackets elsewhere, and the binding format rules prohibit square-bracket UI notation.",
+      "replacement": "Smiling contentedly, I drew the Unnamed Sword from my waist.",
+      "severity": "minor",
+      "source": "Chapter 128, Taekyung drawing the Unnamed Sword"
+    },
+    {
+      "confidence": 1.0,
+      "current": "As the Jin group travels onward, Taekyung’s Sleeping Dragon of Shanxi Title strengthens, raising its effects to all stats +15 and Fame +200. He reaches Level 61 with Fame 2,100 (+250) and sixty unspent stat points.",
+      "defect": "The paragraph presents Fame 2,100 (+250) as the resulting state, but Chapter 128 subsequently awards two additional Fame increases of 40 each.",
+      "id": "C06",
+      "rationale": "The checkpoint summary should distinguish the displayed snapshot from the later, arithmetically established end-of-packet total.",
+      "replacement": "As the Jin group travels onward, Taekyung’s Sleeping Dragon of Shanxi Title strengthens, raising its effects to all stats +15 and Fame +200. His displayed Status Window shows Level 61 with Fame 2,100 (+250) and sixty unspent stat points; afterward, two further System notices raise his Fame by 40 each, bringing it to 2,180 (+250).",
+      "severity": "major",
+      "source": "Checkpoint summary, Plot, Chapter 128 progression paragraph"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Taekyung is Level 61 with Fame 2,100 (+250), sixty unspent stat points, and a strengthened Sleeping Dragon of Shanxi Title granting all stats +15 and Fame +200.",
+      "defect": "This records a stale Fame value as current even though two later System notices add a total of 80 Fame.",
+      "id": "C07",
+      "rationale": "Active continuity must reflect the state after all explicitly quantified gains in Chapter 128.",
+      "replacement": "Taekyung is Level 61 with Fame 2,180 (+250), sixty unspent stat points, and a strengthened Sleeping Dragon of Shanxi Title granting all stats +15 and Fame +200.",
+      "severity": "major",
+      "source": "Checkpoint summary, Continuity, Taekyung progression bullet"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Taekyung's Sleeping Dragon of Shanxi Title effect strengthened to all stats +15 and Fame +200; his current Status Window shows Level 61, Fame 2,100 (+250), and 60 remaining points.",
+      "defect": "Calling the displayed panel current obscures the two subsequent +40 Fame notices and leaves the durable numerical state stale.",
+      "id": "C08",
+      "rationale": "Durable state should preserve both the exact displayed snapshot and the later confirmed total.",
+      "replacement": "Taekyung's Sleeping Dragon of Shanxi Title effect strengthened to all stats +15 and Fame +200; his latest displayed Status Window shows Level 61, Fame 2,100 (+250), and 60 remaining points, after which two System notices raise his Fame by 40 each, bringing it to 2,180 (+250).",
+      "severity": "major",
+      "source": "Durable state, active_continuity, Taekyung progression entry"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Taekyung, Mukyung, Wikyung, and Wipeng drank through the night for three days; Wipeng is called the God of Drinking and Taekyung is rumored to be the Night King.",
+      "defect": "The entry retains the Night King rumor but drops the System’s explicit hook that spreading the rumor may grant Taekyung a related Title.",
+      "id": "C09",
+      "rationale": "The possible Title is unresolved System progression and should remain active continuity rather than being reduced to flavor text.",
+      "replacement": "Taekyung, Mukyung, Wikyung, and Wipeng drank through the night for three days; Wipeng is called the God of Drinking, Taekyung is rumored to be the Night King, and the System indicated that further spread of the rumor may grant Taekyung a related Title.",
+      "severity": "major",
+      "source": "Durable state, active_continuity, drinking-rumor entry"
+    },
+    {
+      "confidence": 1.0,
+      "current": "You have accepted the **The City Lord’s Invitation** Quest!",
+      "defect": "The definite article is duplicated before the Quest name.",
+      "id": "C10",
+      "rationale": "This removes the grammatical duplication while preserving the established Quest title.",
+      "replacement": "You have accepted **The City Lord’s Invitation** Quest!",
+      "severity": "minor",
+      "source": "Chapter 129, System acceptance notice"
+    }
+  ],
+  "summary": "The reading copies remain coherent in voice, terminology, and plot continuity, but Chapters 125–126 contain ellipsis-format drift, Chapter 127 inconsistently restates the Temporary Strength Pill panel, Chapter 128 uses stray UI brackets, and Chapter 129 duplicates an article in a System notice. The checkpoint state also treats the Status Window’s Fame snapshot as final despite two later +40 increases and drops the possible rumor-based Title hook.",
+  "version": 1
+}
