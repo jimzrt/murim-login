@@ -1,18 +1,18 @@
 # Translation State
 
-- Last completed: 186
-- Next chapter: 187
-- Current block: 185–189 (2/5)
-- Latest translation: `translations/0186.md`
-- Latest summary: `summaries/beats/0186.md`
-- Safe profiles through: chapter 186
+- Last completed: 187
+- Next chapter: 188
+- Current block: 185–189 (3/5)
+- Latest translation: `translations/0187.md`
+- Latest summary: `summaries/beats/0187.md`
+- Safe profiles through: chapter 187
 
 ## Current Block
 
-- Jin Taekyung convinces Jin Wikyung and Wipeng that the Fire King entrusted him with the Flame Divine Palm manual and a sword forged from Ten-Thousand-Year Cold Iron. Wikyung warns that such objects awaken Greed and orders Taekyung, Hyuk Mujin, and Cheongpung to keep everything concerning them completely secret.
-- In private, Jin Wikyung and Wipeng discuss their investigation of Dark Heaven. Most surviving remnants died during interrogation because of powerful restrictions, leaving only three alive. Wikyung orders Wipeng to halt the interrogation and preserve them as the Jin Family's only physical evidence, while suspecting that Dark Heaven's attack on Shanxi was merely the beginning.
-- While training, Taekyung is visited by Gong Yacheong, Socheon, and Soyul, who are now visibly healthier. Hyuk Mujin sent them to tell Taekyung that the grand banquet is about to begin. Cheongpung and Soyul have both eaten heavily and are dismayed to learn that the banquet is imminent.
-- At the Jin Family's Grand Training Ground, Jin Wikyung has allowed even people without invitations to attend. Taekyung is escorted to an honored seat beside Baek Museong, Eunhyang, Chulwoo, and Cheongpung; Eunhyang is revealed to be Level 75, and Chulwoo immediately resumes bickering with Taekyung. More than three hundred Jin martial artists surrounding the grounds strike their weapons in unison, and the human curtain splits apart amid a thunderous crash.
+- Jin Wikyung publicly recounted the Jin Family of Taiyuan's three-hundred-year history, declared that the family had survived every hardship, and led its martial artists in pledging to remain in Shanxi and establish a new foundation.
+- Lee Seowol arrived with Cheol Mubaek and the Mount Heng Sword Sect, asked to join the Jin Family's path, and swore the sect's loyalty. Jin Wikyung accepted the Mount Heng Sword Sect as the Jin Family's vassal.
+- After the ceremony, twenty-five-year-old Chulwoo became infatuated with eighteen-year-old Lee Seowol, declared that he loved her, imagined marrying her and raising three children, and was revealed to have made similar romantic declarations before.
+- Lee Seowol approached Taekyung at the end of the chapter and addressed him as Young Master Jin.
 
 ## Open Questions
 
