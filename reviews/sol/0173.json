@@ -1,0 +1,106 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "That meant the old man belonged to the Fire Gate Clan, whose martial arts followed one-man succession.",
+      "defect": "The draft makes the martial arts themselves follow a succession system, while the source says the Fire Gate Clan transmits its legacy to a single successor.",
+      "id": "F01",
+      "rationale": "일인전승 describes the sect's one-person line of transmission, not a property of its martial arts.",
+      "replacement": "That meant the old man belonged to the Fire Gate Clan, which passed its legacy down to a single successor in each generation.",
+      "severity": "major",
+      "source": "그건 저 노인네가 열화문 소속이라는 말인데, 내가 알기로 열화문은 일인전승이며 당대 문주가 아마……."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The Blazing Flame Divine Pill was already in my stomach, safely stored in my dantian.",
+      "defect": "The draft adds that the pill is physically in his stomach, creating a contradiction with its being stored in his dantian.",
+      "id": "F02",
+      "rationale": "꿀꺽 describes swallowing the pill, while 단전에 잘 보관하고 있다 specifies where its absorbed power is now stored.",
+      "replacement": "I had already gulped down the Blazing Flame Divine Pill, and it was safely stored in my dantian.",
+      "severity": "major",
+      "source": "심지어 열화신단은 이미 꿀꺽해서 단전에 잘 보관하고 있다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Did you avenge him? From the Jin Family of Taiyuan’s perspective, he was the kind of bastard whose bones wouldn’t be ground fine enough to satisfy them.",
+      "defect": "The draft turns the idiom into a statement about how finely the bones are ground and omits the act of eating them, obscuring the intended extremity of the family's vengeance.",
+      "id": "F03",
+      "rationale": "뼈째로 갈아먹어도 시원찮다 means that even grinding up and eating the culprit, bones included, would not satisfy their anger.",
+      "replacement": "Did you avenge him? From the Jin Family of Taiyuan’s perspective, he was the kind of bastard they could grind up and eat, bones and all, and still not be satisfied.",
+      "severity": "major",
+      "source": "원수는 갚았나? 태원진가 입장에서는 뼈째로 갈아먹어도 시원찮을 놈인데."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Wait. If the Blade of Flowers Jin Baekyang is the person you killed, Benefactor, then that’s right, isn’t it?”",
+      "defect": "The conditional construction and vague “that’s right” obscure the direct revelation that Jin Baekyang is the man the Benefactor killed.",
+      "id": "F04",
+      "rationale": "Cheongpung directly identifies Jin Baekyang as Taekyung's victim and asks for confirmation; that subject relationship is the chapter's closing punchline.",
+      "replacement": "“Huh? Blade of Flowers Jin Baekyang—isn’t he the person you killed, Benefactor? Right?”",
+      "severity": "major",
+      "source": "“어? 화양검 진백양이면 은인이 죽인 사람 아니에요? 맞죠?”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "At times like this, a Peak master had to clench his asshole and continue the performance.",
+      "defect": "“Asshole” makes the line more profane than the source, which uses the anatomical 항문 for incongruous comic effect, and “continue the performance” is stiff.",
+      "id": "F05",
+      "rationale": "The replacement preserves the physical joke and emphatic 열연 without adding stronger profanity.",
+      "replacement": "At times like this, a Peak master had to clench his butt and keep acting his heart out.",
+      "severity": "minor",
+      "source": "이럴 때일수록 항문에 힘을 빡 주고 열연을 이어 가야 절정 고수다."
+    },
+    {
+      "confidence": 0.93,
+      "current": "“A couple of months ago.”",
+      "defect": "The draft omits 그만, the regretful cue that euphemistically frames the death as an unfortunate event.",
+      "id": "F06",
+      "rationale": "The added adverb preserves Taekyung's deliberately regretful delivery while he conceals his responsibility.",
+      "replacement": "“Just a couple of months ago, unfortunately.”",
+      "severity": "minor",
+      "source": "“두어 달 쯤 전에, 그만.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "*Good. Perfect. Mujin passing out was a stroke of genius.*",
+      "defect": "The established name is shortened, and “passing out” describes the event of losing consciousness rather than his continuing unconscious state.",
+      "id": "F07",
+      "rationale": "혁무진 requires the established rendering Hyuk Mujin, while 기절해 있던 refers to his state of remaining unconscious.",
+      "replacement": "*Good. Perfect. Hyuk Mujin being unconscious was a stroke of genius.*",
+      "severity": "minor",
+      "source": "좋아, 완벽했어. 혁무진이 기절해 있던 게 신의 한 수였다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "*Enough. Once I get out of here, I’m getting the hell out of here. Maybe I should just log out altogether.*",
+      "defect": "The established System term “Logout” is rendered as an ordinary lowercase verb.",
+      "id": "F08",
+      "rationale": "로그아웃 refers to the established System function Logout rather than merely describing departure.",
+      "replacement": "*Enough. Once I get out of here, I’m getting the hell out of here. Maybe I should just use Logout altogether.*",
+      "severity": "minor",
+      "source": "‘됐어. 이 자리만 벗어나면 빨리 튀자. 아예 로그아웃을 해 버리든가 해야지.’"
+    },
+    {
+      "confidence": 0.98,
+      "current": "The rear waves of the Yangtze were stronger than he had imagined.",
+      "defect": "“Rear waves” is an unnatural literal rendering that does not clearly convey the proverbial image of a newer generation following the old.",
+      "id": "F09",
+      "rationale": "뒷물결 denotes the waves coming from behind—the rising generation—rather than waves located at the rear.",
+      "replacement": "The new waves of the Yangtze were stronger than he had imagined.",
+      "severity": "minor",
+      "source": "장강의 뒷물결은 상상 이상으로 강했다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Don’t lie to this old man. You’d have better luck deceiving a ghost. Even the way you open your eyes is different.",
+      "defect": "The final sentence is an unnatural calque and fails to communicate that Taekyung gave himself away the instant he opened his eyes.",
+      "id": "F10",
+      "rationale": "눈깔 뜨는 것부터가 다른데 means that the change was already apparent from the way he opened his eyes.",
+      "replacement": "Don’t lie to this old man. You’d have better luck deceiving a ghost. I could tell the moment you opened your eyes.",
+      "severity": "minor",
+      "source": "노부를 속이느니 차라리 귀신을 속여라. 눈깔 뜨는 것부터가 다른데."
+    }
+  ],
+  "summary": "Several fidelity, register, terminology, and natural-English issues require correction.",
+  "version": 1
+}

@@ -444,3 +444,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 허공섭물 | **Seizing an Object Through Empty Space** | Technique Jeok Cheongang uses to lift Jang Taebo remotely. |
 | 백련정강 | **Baekryeon Jeonggang** | Extremely hard steel used to forge Hyuk Mujin's sword. |
 | 강자지존 | **Might Makes Right** | Murim principle invoked as the basis for Mae Jonghak's challenge. |
+| 꼰대 | **boomer** | Modern slang for a hidebound older person; used by Cheongpung. |
+| 꼰머 | **boomer-brain** | Related slang term Cheongpung says has a similar meaning. |
+| 국밥 | **gukbap** | Korean dish of rice served in hot soup; footnoted in the reading copy. |
