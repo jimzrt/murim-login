@@ -4,7 +4,7 @@ In the dead of night, while everyone else slept, Jin Wikyung awoke with a scream
 
 “Graaah!”
 
-He flailed both arms wildly, then soon realized that he had returned to reality.
+He flailed both arms with startling force, then soon realized that he had returned to reality.
 
 The flickering lamplight and the documents covering his desk. The familiar sight of his study.
 
@@ -14,17 +14,17 @@ After letting out a sigh of relief, Jin Wikyung rubbed the back of his neck. It 
 
 *I thought I was going to die.*
 
-He had dreamed that the earth split apart and the sky came crashing down. He had fled from a deafening roar that shook heaven and earth, running until he could barely breathe. The last thing he remembered was falling.
+It had been a dream in which the earth split apart and the sky collapsed. He had run from a deafening roar that shook heaven and earth until he was gasping for breath, and his last memory was of falling.
 
 *Maybe I’ve been pushing myself too hard.*
 
-There was more work than he could handle, but nowhere near enough people to do it. Each nerve-racking day bled into the next, and the fatigue kept piling up.
+There was more work than he could handle, but nowhere near enough people to do it. Each day was a nerve-racking struggle, and the fatigue kept piling up.
 
 “Ugh. I need to hire more people soon. At this rate, I’ll die before my time.”
 
 The world was vast, and there were plenty of talented people in it. And yet the Jin Family of Taiyuan still did not have a single decent strategist. That was because the family’s capabilities were lacking.
 
-Why would anyone talented choose the Jin Family of Taiyuan in Shanxi over the great sects or renowned great families of the Central Plains, all of which would welcome them with open arms?
+Why would any talented person choose to join the Jin Family of Taiyuan in Shanxi when they could go to one of the great sects or renowned clans of the Central Plains, where people would welcome them with open arms?
 
 From their perspective, it was an obvious choice.
 
@@ -36,13 +36,13 @@ Before long, talented people from across the land would come flocking beneath th
 
 *Although I’ll probably die of overwork before then.*
 
-Jin Wikyung let out a deep sigh as he stared at the murderous mountain of paperwork.
+Jin Wikyung let out a deep sigh as he stared at the terrifying mountain of paperwork.
 
 That was when it happened.
 
 Rumble.
 
-The sound was extremely faint—so faint that only a Peak master like Jin Wikyung could have noticed it.
+It was an extremely faint sound, so quiet that only a Peak master like Jin Wikyung could have noticed it.
 
 *What was that?*
 
@@ -60,13 +60,13 @@ That was not the only reason Jin Wikyung’s face hardened.
 
 *That direction is…*
 
-Jin Mukyung’s residence lay in that direction. And as of yesterday, one more person lived there.
+It was where Jin Mukyung’s residence was located. And, as of yesterday, there was one more person living there.
 
 *Surely Mukyung isn’t beating up the youngest… No, of course not.*
 
-He had repeatedly urged them to get along. Surely they would not start trading blows already.
+He had repeatedly urged them to get along. Surely they would not already be beating each other senseless.
 
-He had faith in his beloved younger brothers.
+He trusted his beloved younger brothers.
 
 Clang. Clang!
 
@@ -80,9 +80,9 @@ Once he fully unleashed his movement technique, Jin Wikyung reached Jin Mukyung�
 
 The problem was that the closer he got, the more ominous the sounds became.
 
-*…He’s probably training alone in the training ground, right?*
+*…He’s probably training alone in the training hall, right?*
 
-Jin Wikyung hesitated, unsure whether to enter the pavilion. After a moment, he cautiously poked his head over the wall.
+Jin Wikyung hesitated over whether he should enter the pavilion. In the end, he cautiously poked his head over the wall.
 
 And witnessed a shocking sight.
 
@@ -92,29 +92,29 @@ Boom! Crash!
 
 Jin Mukyung swung his scabbard without pause. One person fled desperately, trying to escape him.
 
-“Lo-Logout!”
+“Lo, Logout!”
 
-Before Jin Taekyung could even finish his desperate cry, the scabbard flew toward him. It missed him by a hair and shattered the bluestone floor of the training ground.
+Before Jin Taekyung could even finish his desperate cry, the scabbard flew toward him. It narrowly missed him and smashed into the bluestone floor of the training hall.
 
 Bang!
 
-“I told you, you bastard—qi deviation! Conception and Governor Vessels!”
+“I told you, you bastard—qi deviation! Ren and Du meridians!”
 
 “Logouuuut!”
 
 “…”
 
-What was “Loguawk,” and why were qi deviation and the Conception and Governor Vessels suddenly coming up?
+What was “Loguawk,” and why were qi deviation and the Ren and Du meridians suddenly coming up?
 
 The flow of the conversation made absolutely no sense, but one thing was certain.
 
 *Something bad is going to happen if this keeps up.*
 
-At this rate, they might really have to call either a physician or an undertaker.
+At this rate, they might really need to call either a physician or an undertaker.
 
 *I’ll protect the youngest!*
 
-Jin Wikyung was about to charge in, his face set with determination, when—
+Jin Wikyung was just about to charge in with determination on his face when—
 
 “Why is your side open again? Are you that desperate to get hit?”
 
@@ -122,13 +122,13 @@ Whack!
 
 “Guh!”
 
-Jin Taekyung staggered after taking a blow to the ribs. Jin Mukyung did not miss the opening. He closed in and swung his scabbard again.
+Jin Taekyung staggered after taking a blow to the ribs. Jin Mukyung did not miss the opportunity and followed up with another swing of his scabbard.
 
 Thwack-thwack-thwack!
 
 “Argh! Argh! Argh!”
 
-“Don’t shrink back just because you got hit. Especially your lower body!”
+“Don’t shrink back just because you got hit. Especially with your lower body!”
 
 Thwack!
 
@@ -138,7 +138,7 @@ Thwack!
 
 Jin Mukyung smiled disdainfully at the sight of his younger brother charging at him with his teeth clenched.
 
-“You don’t even have the fundamentals down. First, fix that habit of throwing out your hands and feet on instinct. People learn martial arts, not beasts.”
+“You’re an idiot who doesn’t even have the basics down. Fix that habit of throwing out your hands and feet on instinct first. Martial arts are learned by people, not beasts.”
 
 “Shut up!”
 
@@ -156,9 +156,9 @@ There was no question who he was speaking to. Jin Wikyung emerged from behind th
 
 “It would be strange if I didn’t. Every time that kid got hit, I could hear you swallowing from here like thunder.”
 
-Jin Wikyung examined the fallen Jin Taekyung with worried eyes.
+Jin Wikyung examined Jin Taekyung’s fallen body with worried eyes.
 
-“His injuries aren’t too severe. That’s a relief.”
+“The injuries aren’t too severe. That’s a relief.”
 
 “It’s not like he’s going to die.”
 
@@ -178,11 +178,11 @@ Jin Mukyung stiffened.
 
 *Praise? I praised that bastard?*
 
-Impossible. His younger brother did not have a single redeeming quality. He had spent his days drowning in alcohol and chasing women, without a care for what happened to the family. And Jin Mukyung had praised him?
+It was impossible. Wasn’t he a younger brother without a single redeeming quality? Jin Mukyung had praised the man who had spent his days drowning in alcohol and chasing women, heedless of what happened to the family?
 
-He forced himself to shake his head.
+Jin Mukyung forced himself to shake his head.
 
-“…I did no such thing.”
+“…I have never done such a thing.”
 
 “I see.”
 
@@ -196,15 +196,15 @@ He forced himself to shake his head.
 
 “Hyung!”
 
-Jin Wikyung struggled to suppress the laughter bubbling up inside him. It pained him to see his beloved youngest brother hurt, but this was something Taekyung would have to experience sooner or later.
+Jin Wikyung tried to suppress the laughter welling up inside him. It pained him to see his beloved youngest brother hurt, but this was something he would have to experience someday.
 
 *I can’t keep him under my wing forever.*
 
-The Sleeping Dragon of Shanxi.
+Sleeping Dragon of Shanxi.
 
 Another genius produced by the Jin Family of Taiyuan.
 
-As he looked at his younger brother, who had grown so much in such a short time, Jin Wikyung felt both joy and unease.
+Jin Wikyung felt both joy and unease as he looked at his younger brother, who had grown so much in such a short time.
 
 No. Perhaps it was fear.
 
@@ -216,29 +216,29 @@ It was far too fast. Even to someone who had watched the genius Jin Mukyung from
 
 As a child, Jin Wikyung had been a promising talent, but he had never been a genius. How could an ordinary man like him understand a genius, let alone teach one?
 
-Just as his worries were deepening, Jin Mukyung had returned.
+His thoughts were growing deeper when Jin Mukyung returned.
 
 Jin Wikyung had known at once that this was the moment, and put the two of them together.
 
 *I was so worried because they got along so poorly…*
 
-But now that he had seen them together, he knew those worries had been unnecessary. Jin Mukyung’s methods were rough, but this was clearly training, not a one-sided beating.
+Now that he had seen them together, those worries had been pointless. The method was rough, but this was clearly not one-sided beating. It was training.
 
-Training that would make the fast-growing but still inexperienced Jin Taekyung tougher and sharper.
+Training that would make the fast-growing but still inexperienced Jin Taekyung stronger and sharper.
 
 His body would suffer, though.
 
 *It’s all for your sake.*
 
-Jin Wikyung gazed down at the fallen youngest with boundless tenderness and spoke.
+Jin Wikyung looked down at the fallen youngest with boundless tenderness and spoke.
 
 “I’ll be going now.”
 
 But Jin Mukyung was not about to let him leave like that.
 
-“Where do you think you’re going alone? Take that kid with you. I can’t live with him.”
+“Where are you going alone? Take that kid with you. I can’t live with him.”
 
-“It’s ten days. Can’t you endure even that much?”
+“It’s ten days. Can’t you endure that much?”
 
 “I stopped at this much today out of respect for you. If you insist, call an undertaker tomorrow.”
 
@@ -260,9 +260,9 @@ After tossing out that one sentence, Jin Wikyung turned and began walking away.
 
 Imagining what expression Jin Mukyung must be wearing, he let out a quiet laugh.
 
-*This will be a good experience for you, too.*
+*This will be good experience for you, too.*
 
-This uncomfortable arrangement was not solely for the youngest’s sake.
+This uncomfortable arrangement was not only for the youngest.
 
 Geniuses were always lonely. Jin Wikyung had no doubt that the two geniuses would greatly spur each other on.
 
@@ -276,7 +276,7 @@ Jin Wikyung had to suppress the urge to look back the entire way home.
 
 * * *
 
-“You awake?”
+“Are you awake?”
 
 “…”
 
@@ -284,7 +284,7 @@ Jin Wikyung had to suppress the urge to look back the entire way home.
 
 “…”
 
-“I’ll give you one last chance. If you’re not up by the time I count to three, this training ground will be your grave.”
+“I’ll give you one last chance. If you’re not up by the time I count to three, this training hall will be your grave.”
 
 “…”
 
@@ -296,13 +296,13 @@ I quietly got up and stretched.
 
 “Whew, I slept well.”
 
-When I casually turned my head, I found Jin Mukyung glaring at me.
+I casually turned my head and found Jin Mukyung glaring at me.
 
-The sight of his face brought yesterday’s memories flooding back.
+The moment I saw that face, yesterday’s memories came flooding back.
 
 A man without blood or tears. A bastard who deserved to be beaten to death.
 
-I addressed him in an innocent voice.
+I addressed him in a nonchalant voice.
 
 “Oh? Hyung-nim. When did you get here?”
 
@@ -316,13 +316,13 @@ I had my pride, too. But in an unarmed fight, I could not beat Jin Mukyung even 
 
 While that bastard had been learning systematic fist and kicking techniques, I had been watching UFC matches. He was not someone I could overcome through sheer stubbornness.
 
-That was why I had chosen Logout as my last resort.
+That was why I had chosen Logout as a last resort.
 
 Of course, it had failed spectacularly.
 
-*You can’t Logout during combat? What kind of bullshit rule is that?*
+*You can’t Logout during combat? What kind of ridiculous rule is that?*
 
-They could have told me beforehand. I had charged in without knowing and nearly gotten logged out of life.
+They could have told me beforehand. I had charged in without knowing and nearly logged out of life.
 
 I cast a sidelong glance at Jin Mukyung.
 
@@ -334,11 +334,11 @@ I cast a sidelong glance at Jin Mukyung.
 
 “Me?”
 
-At his icy tone, I made my eyes as bright and innocent as possible.
+At his icy tone, I made my eyes look as bright and innocent as possible.
 
 Now I even had to watch how I looked at him if I wanted one less beating.
 
-“You… Hah. Watch yourself.”
+“You… Hah. Be careful.”
 
 “Yes, Hyung-nim.”
 
@@ -348,7 +348,7 @@ Jin Mukyung looked displeased by my sudden politeness. But he could hardly hit m
 
 I quickly bowed my head.
 
-“It was my fault. I made so much noise while you were training. I deserved to get hit.”
+“It was my fault. I was making so much noise while you were training. I deserved to get hit.”
 
 “No, hey.”
 
@@ -362,23 +362,23 @@ Jin Mukyung looked as though he was debating whether to hit me, but eventually g
 
 “…Where?”
 
-“The training ground.”
+“The training hall.”
 
-I took back what I had just thought. He planned to beat me in the training ground.
+Retract what I said earlier. He planned to beat me in the training hall.
 
-He could not exactly turn my room into a wasteland again.
+There was no way he could turn my room into a wasteland again, after all.
 
-Jin Mukyung clicked his tongue when he saw my expression stiffen.
+Seeing my expression stiffen, Jin Mukyung clicked his tongue.
 
 “It’s not that. Follow me. Training starts today.”
 
 “Training?”
 
-“Yes. I’m going to tear apart those horrible martial arts of yours and rebuild them from the ground up.”
+“Yes. I’ll tear apart your horrible martial arts and rebuild them from the beginning.”
 
 The man who had beaten me senseless every time he saw me was suddenly offering to help me train? And he was even carving out time from his own schedule?
 
-*I’d sooner believe the Demon King Asmodeus had repented.*
+*I’d sooner believe that the Demon King Asmodeus had repented.*
 
 Perhaps he noticed the suspicion in my eyes, because Jin Mukyung let out a deep sigh.
 
@@ -406,13 +406,11 @@ If I had given up every time things became difficult, I would never have made it
 
 Perhaps he sensed the sincerity in my voice. After staring at me for a long time, he finally opened his mouth.
 
-“Come out to the training ground.”
+“Come out to the training hall.”
 
 Ding.
 
 > **System**
->
-> A Quest has been created.
 >
 > **Quest**
 >
@@ -446,7 +444,7 @@ That was when I was steeling my resolve.
 
 “Bring that with you, too.”
 
-Jin Mukyung was a swordsman, so I had naturally assumed he would focus on teaching me fist techniques. Confused, I cautiously asked,
+Jin Mukyung was a swordsman. Naturally, I had assumed he would primarily teach me fist techniques. Puzzled, I cautiously asked:
 
 “Why the spear all of a sudden…?”
 
@@ -464,6 +462,6 @@ Beep.
 
 > **System**
 >
-> Logout is restricted during this Quest.
+> - Logout is restricted during this Quest.
 
-*What the fuck.*
+*Fuck.*
