@@ -1,0 +1,196 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "“Hey, Jang, little brother. Have you ever learned the Wall Lizard Technique?”",
+      "defect": "“Jang, little brother” is an unnatural literal rendering of the older speaker’s familiar address.",
+      "id": "F01",
+      "rationale": "장 아우 is a familiar senior-to-junior form of address, not a literal statement that Jang is the speaker’s younger sibling.",
+      "replacement": "“Say, Brother Jang. Have you ever learned the Wall Lizard Technique?”",
+      "severity": "minor",
+      "source": "“이보게, 장 아우. 혹시 벽호공 익혀 본 적 있나?”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“About three months after I started training in it, I misstepped and fell. Broke my ankle.”",
+      "defect": "The recollective uncertainty in 됐나 is omitted.",
+      "id": "F02",
+      "rationale": "The speaker pauses to estimate how long he had trained rather than stating the duration categorically.",
+      "replacement": "“Had it been about three months since I started training in it? I misstepped and fell, and broke my ankle.”",
+      "severity": "minor",
+      "source": "“벽호공 수련을 시작한 지 석 달쯤 됐나? 발을 헛디뎌서 떨어지는 바람에 발목이 부러졌었지.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“What day is it now?”",
+      "defect": "The English can mean the date or day of the week, while 며칠째 asks how many days have elapsed.",
+      "id": "F03",
+      "rationale": "The answer establishes that the training has lasted exactly three days.",
+      "replacement": "“How many days has it been now?”",
+      "severity": "minor",
+      "source": "“지금이 며칠째지?”"
+    },
+    {
+      "confidence": 0.88,
+      "current": "*Papapapapak!*",
+      "defect": "The Korean sound effect is merely romanized and does not function naturally as English impact prose.",
+      "id": "F04",
+      "rationale": "The sound accompanies stones and snowballs striking and tumbling down the cliff.",
+      "replacement": "*Thud-thud-thud-thud!*",
+      "severity": "minor",
+      "source": "파파파파팍!"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Because of this psychopath who looked like he wanted to drop a boulder straight onto my face at any moment.\n\n“Benefactor! Where are you? Show me your head!”",
+      "defect": "The draft omits the explanation that Cheongpung’s interference has intensified with every successive climb, as well as Taekyung curling tightly into the hollow before shouting.",
+      "id": "F05",
+      "rationale": "The omitted material explains the training’s escalating danger and Taekyung’s immediate defensive action.",
+      "replacement": "Because of this psychopath who looked like he wanted to drop a boulder straight onto my face at any moment.\n\nThe first climb had been hard enough, but Cheongpung’s interference had grown more intense with every round.\n\nI curled up as tightly as I could and shouted.\n\n“Benefactor! Where are you? Show me your head!”",
+      "severity": "major",
+      "source": "당장이라도 내 얼굴에 바위를 떨구고 싶어 하는 저 사이코패스 때문이지.\n\n첫 번째 절벽 등반도 충분히 힘들었는데, 청풍의 훼방은 회차를 거듭할수록 점점 강도를 더해 가는 중이다.\n\n나는 몸을 바짝 웅크리고 외쳤다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "When you were truly exhausted, you couldn’t even talk properly. My breath was burning in my throat, my head was throbbing, and even breathing made my chest ache.",
+      "defect": "The draft changes the generic description of total exhaustion into an explicit first-person description and weakens 말도 안 나온다 from being unable to speak to merely being unable to speak properly.",
+      "id": "F06",
+      "rationale": "The source describes the general physical state of utter exhaustion without explicitly assigning all the symptoms to Taekyung.",
+      "replacement": "When you were truly exhausted, you couldn’t even speak. You got so out of breath that your head rang, and even breathing made your chest ache.",
+      "severity": "minor",
+      "source": "진짜 힘들면 말도 안 나온다. 숨이 턱 끝까지 차서 머리는 띵하고 호흡하는 것만으로도 가슴이 뻐근해진다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Am I the only one cramped, Squad Leader? I’m cramped too.”",
+      "defect": "The established rendering of 조장 is “Captain,” not “Squad Leader.”",
+      "id": "F07",
+      "rationale": "The binding terminology ledger specifies “Captain” for Hyuk Mujin’s address to Taekyung.",
+      "replacement": "“Am I the only one cramped, Captain? I’m cramped too.”",
+      "severity": "minor",
+      "source": "“조장님만 좁습니까? 저도 좁습니다.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Ah, I’m too tired. You move over, Squad Leader. Isn’t that a little harsh toward your right arm, considering how hard I worked to get here?”",
+      "defect": "조장 violates the binding terminology, and 오른팔 refers to a trusted right-hand man rather than Taekyung’s literal arm.",
+      "id": "F08",
+      "rationale": "The metaphor sets up Taekyung’s joke that Mujin is not his right-hand man but his little toe.",
+      "replacement": "“Ah, I’m too tired. You move over, Captain. Aren’t you being a little too harsh on your right-hand man after he worked so hard to get up here?”",
+      "severity": "minor",
+      "source": "“아, 힘들어요. 조장님이 옆으로 가세요. 힘겹게 여기까지 올라온 오른팔한테 너무 야박한 거 아닙니까?”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Oh, wow. What’s gotten into you all of a sudden, Squad Leader…”",
+      "defect": "The established rendering of 조장 is “Captain.”",
+      "id": "F09",
+      "rationale": "The binding terminology ledger specifies “Captain” for this address.",
+      "replacement": "“Oh, wow. What’s gotten into you all of a sudden, Captain…”",
+      "severity": "minor",
+      "source": "“오, 조장님이 웬일로…….”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Fighting like your life depends on it. That’s the answer. When death really comes knocking, you’ll regret this moment.”\n\nI tied back my disheveled hair and continued.\n\n*I should have worked harder back then.*\n\nYou know, that sort of regret.",
+      "defect": "The final example is spoken dialogue in the source, but the draft turns part of it into an internal thought and the remainder into narration.",
+      "id": "F10",
+      "rationale": "Taekyung explicitly explains the kind of future regret he means to Mujin; it is not private narration.",
+      "replacement": "“Going at it like it’s do or die. That’s the answer. Later, when death really is staring you in the face, you’ll regret this moment.”\n\nI tied back my disheveled hair and continued.\n\n“Ah, I should’ve worked harder back then. You know, that kind of regret.”",
+      "severity": "major",
+      "source": "“죽자 살자 하는 거. 그게 답이라고. 나중에 정말 죽음이 코앞에 닥치면 지금 이 순간을 후회하게 될걸?”\n\n나는 흐트러진 머리를 질끈 묶으며 말을 이었다.\n\n“아, 그때 좀 더 열심히 했어야 했는데. 뭐 그런 후회 있잖아.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Your life, your wealth, or a person you care about. If you don’t want to lose something precious, give it everything you have while you’re still alive. Working yourself to death while you’re alive is better than dying, isn’t it?”",
+      "defect": "“Give it everything you have” softens the explicit 목숨 걸고, which tells Mujin to put his life on the line.",
+      "id": "F11",
+      "rationale": "The repeated life-and-death wording is central to Taekyung’s grim advice and characterization.",
+      "replacement": "“Your life, your wealth, or someone you care about. If you don’t want to lose something precious, put your life on the line now. Working yourself to death while you’re alive is still better than actually dying, isn’t it?”",
+      "severity": "major",
+      "source": "“네 목숨, 재물, 아니면 사람. 소중한 걸 잃기 싫다면 지금 목숨 걸고 해. 살아 있을 때 죽도록 노력하는 게 죽는 것보다는 낫잖아?”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Words feel different depending on whose mouth they come from. The Squad Leader I know is, um…”",
+      "defect": "The established rendering of 조장 is “Captain.”",
+      "id": "F12",
+      "rationale": "The binding terminology ledger specifies “Captain” for Hyuk Mujin’s reference to Taekyung.",
+      "replacement": "“Words feel different depending on whose mouth they come from. The Captain I know is, um…”",
+      "severity": "minor",
+      "source": "“누구 입에서 나온 말이냐에 따라 느낌이 다르잖아요. 제가 보는 조장님은, 으음…….”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Squad Leader, you’re not a fake, are you?”",
+      "defect": "The established rendering of 조장 is “Captain.”",
+      "id": "F13",
+      "rationale": "The binding terminology ledger specifies “Captain” for this address.",
+      "replacement": "“Captain, you’re not a fake, are you?”",
+      "severity": "minor",
+      "source": "“혹시 조장님, 가짜 아니죠?”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Come to think of it, I had stopped worrying so much about hiding my suspicions at some point. Everyone around me thought I was Jin Taekyung of the Jin Family of Taiyuan. I had also long since accepted the person I was in the Murim as part of myself.",
+      "defect": "The draft reverses the mental action: Taekyung stopped worrying about avoiding other people’s suspicion, not about hiding suspicions of his own.",
+      "id": "F14",
+      "rationale": "의심을 피하다 means to avoid being suspected; “hiding my suspicions” assigns the suspicion to Taekyung instead.",
+      "replacement": "Come to think of it, at some point I had stopped worrying so much about avoiding suspicion. Everyone around me thought I was Jin Taekyung of the Jin Family of Taiyuan. I had also long since accepted my Murim self as part of who I was.",
+      "severity": "critical",
+      "source": "그러고 보니 어느 순간부터 의심을 피하는 것에 많이 신경 쓰지 않았다. 주위의 모두가 나를 태원진가의 진태경으로 생각하고 있었으니까. 나도 무림에서의 모습을 내 일부로 받아들인 지 오래였다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Rumors are rumors. Unverified rumors. How many people have seen the Squad Leader carousing and wasting his time? One or two?”",
+      "defect": "The rhetorical 어디 한두 명입니까 means that many people witnessed Taekyung’s behavior, while the English question is awkward and potentially suggests only one or two; it also violates the established rendering of 조장.",
+      "id": "F15",
+      "rationale": "Mujin dismisses the rumor because Taekyung’s former behavior had numerous witnesses.",
+      "replacement": "“Rumors are just rumors—unverified ones. Plenty of people saw you carousing and wasting your time, Captain.”",
+      "severity": "minor",
+      "source": "“소문은 소문이죠. 확인 안 된 소문. 조장님이 흥청망청 노는 거 본 사람이 어디 한두 명입니까?”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "The cliff hollow was just large enough for two people to sit with their backsides pressed together.",
+      "defect": "“Pressed together” adds a physical arrangement absent from the source.",
+      "id": "F16",
+      "rationale": "엉덩이 붙이다 means to sit or plant one’s backside here; it does not say their bodies were pressed against each other.",
+      "replacement": "The hollow in the cliff was just large enough for two people to plant their backsides.",
+      "severity": "minor",
+      "source": "딱 두 사람이 엉덩이 붙일 만큼 움푹 들어간 절벽."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“S-Squad Leader. I don’t care who you are.”",
+      "defect": "The title violates the binding terminology, and the source has a three-beat stammer before the full title.",
+      "id": "F17",
+      "rationale": "조장 is established as “Captain,” and the repeated 조 conveys Mujin’s panic.",
+      "replacement": "“C-C-Captain. I don’t care who you are.”",
+      "severity": "minor",
+      "source": "“조, 조, 조장님. 전 조장님이 어떤 사람이어도 상관없습니다.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Nevel-up? Poin-two? Good grief, I should just stop talking. I don’t know what I expected from you, Squad Leader.”",
+      "defect": "The established rendering of 조장 is “Captain.”",
+      "id": "F18",
+      "rationale": "The binding terminology ledger specifies “Captain” for Mujin’s address to Taekyung.",
+      "replacement": "“Nevel-up? Poin-two? Good grief, I should just stop talking. I don’t know what I expected from you, Captain.”",
+      "severity": "minor",
+      "source": "“뇌반업? 포인두? 내참, 말을 말아야지. 제가 조장님한테 뭘 기대했는지 모르겠습니다.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Wasn’t he too young to watch even a fifteen-and-over movie?\n\nAt third grade in elementary school, he was too young even to be called a school-lunch brat.",
+      "defect": "“Fifteen-and-over movie” and “school-lunch brat” are unnatural literal renderings that obscure the contemporary joke.",
+      "id": "F19",
+      "rationale": "The source contrasts Cheongpung’s extreme childhood training with modern age restrictions and a derisive slang term for schoolchildren.",
+      "replacement": "Wasn’t he too young even to watch a movie rated fifteen-plus?\n\nAt that age, he would’ve only been in third grade—barely old enough to count as a snot-nosed schoolkid.",
+      "severity": "minor",
+      "source": "15세 관람 등급 영화도 못 보는 나이 아니냐?\n\n초등학교 3학년이면 급식충이라고 하기에도 뭣하다."
+    }
+  ],
+  "summary": "The draft contains an omitted escalation in Cheongpung’s interference, altered narration and dialogue attribution, softened life-or-death language, one reversed mental action, and repeated use of “Squad Leader” instead of the binding “Captain.”",
+  "version": 1
+}

@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The City Lord's luncheon requirement has concluded; Prince Shangshan's Token was obtained as the Quest Reward, and Zhu Bao is expected at the Jin Family's grand banquet in roughly fifteen days.",
+      "defect": "The countdown is stale and contradicts Chapter 154, which establishes that New Year’s Day—and therefore the expected banquet—is now ten days away.",
+      "id": "C01",
+      "rationale": "Active continuity must reflect the latest completed chapter rather than preserving the earlier fifteen-day countdown.",
+      "replacement": "The City Lord's luncheon requirement has concluded; Prince Shangshan's Token was obtained as the Quest Reward, and Zhu Bao is expected at the Jin Family's grand banquet around New Year's Day, now ten days away.",
+      "severity": "major",
+      "source": "Durable state, active_continuity first entry"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Taekyung now has Wall Lizard Technique, 10 additional Stat Points, 10 additional Skill Points, and the Intermediate Trainee rank.",
+      "defect": "The summary calls Intermediate Trainee a rank even though the Chapter 154 System panel explicitly classifies Beginner Trainee and Intermediate Trainee as Titles.",
+      "id": "C02",
+      "rationale": "Using Title preserves the System’s established classification and avoids confusion with Hunter ranks.",
+      "replacement": "Taekyung now has Wall Lizard Technique, 10 additional Stat Points, 10 additional Skill Points, and the Intermediate Trainee Title.",
+      "severity": "minor",
+      "source": "Checkpoint summary, Continuity bullet 5"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Of course I want to. I really do... Are you sure I’m allowed to join you?”",
+      "defect": "The dialogue uses three periods instead of the required ellipsis character.",
+      "id": "C03",
+      "rationale": "The replacement restores the checkpoint’s required and otherwise established ellipsis formatting.",
+      "replacement": "“Of course I want to. I really do… Are you sure I’m allowed to join you?”",
+      "severity": "minor",
+      "source": "Chapter 151, Hyuk Mujin accepting the training invitation"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“...Oh. Right.”",
+      "defect": "The dialogue uses three periods instead of the required ellipsis character.",
+      "id": "C04",
+      "rationale": "The replacement restores the required ellipsis style and matches the surrounding reading copies.",
+      "replacement": "“…Oh. Right.”",
+      "severity": "minor",
+      "source": "Chapter 154, Taekyung checking on Hyuk Mujin during the climb"
+    }
+  ],
+  "summary": "The reading copies preserve the checkpoint’s voice, terminology, hooks, and System formatting well overall, with no evident dropped hooks or accidental spoilers. The active state has one stale event countdown, the continuity summary misclassifies a System Title as a rank, and Chapters 151 and 154 contain isolated three-dot ellipses that conflict with the required punctuation style.",
+  "version": 1
+}
