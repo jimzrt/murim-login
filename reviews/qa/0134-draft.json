@@ -1,0 +1,39 @@
+{
+  "chapter": 134,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.272,
+    "source_characters": 5578,
+    "source_paragraphs": 178,
+    "translation_characters": 12673,
+    "translation_paragraphs": 182
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "살기",
+        "preferred": "killing intent"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "갑자",
+        "preferred": "jiazi"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "뿌꾸",
+        "romanization": "ppukku"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}

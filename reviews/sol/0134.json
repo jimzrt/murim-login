@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Woo Jintae’s head snapped to the side with a satisfyingly solid sound. He stared blankly at the floor, one hand pressed to his cheek.",
+      "defect": "The draft replaces his action of blankly stroking his cheek with staring at the floor and merely pressing a hand to it.",
+      "id": "F01",
+      "rationale": "The source explicitly describes him rubbing or stroking his cheek and says nothing about looking at the floor.",
+      "replacement": "Woo Jintae’s head snapped to the side with a satisfyingly solid sound. He blankly stroked his cheek.",
+      "severity": "critical",
+      "source": "찰진 소리와 함께 우진태의 고개가 옆으로 돌아갔다. 그는 멍하니 자신의 뺨을 쓰다듬었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "He glared at the little bastard in front of him with murderous intent.",
+      "defect": "The established term 살기 is rendered as “murderous intent” rather than the binding “killing intent.”",
+      "id": "F02",
+      "rationale": "The glossary requires “killing intent,” and the source specifically places it in his gaze.",
+      "replacement": "He glared at the little bastard in front of him with eyes full of killing intent.",
+      "severity": "minor",
+      "source": "그는 살기 어린 눈빛으로 눈앞의 애새끼를 노려봤다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Even if he hadn’t been born with extraordinary talent, it was only natural that he took pride in being a move or two ahead of other young prodigies.",
+      "defect": "The definite expression 일초반식 is changed into the indefinite quantity “a move or two.”",
+      "id": "F03",
+      "rationale": "The source specifies 일초반식, literally a move and a half, rather than a range of one or two moves.",
+      "replacement": "Even if he hadn’t been born with extraordinary talent, it was only natural that he took pride in being a move and a half ahead of the other young prodigies.",
+      "severity": "critical",
+      "source": "그러니 뛰어난 무재를 타고나진 않았어도 여타 후기지수에 비해 일초반식은 앞선다고 자부하는 것도 당연했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "That was when the young martial artist who had been standing around blankly, watching the fire across the river, suddenly asked,",
+      "defect": "The idiom 강 건너 불구경 is translated as if he were literally watching a fire across a river.",
+      "id": "F04",
+      "rationale": "The phrase means watching someone else’s trouble from a safe distance, not observing an actual fire or river.",
+      "replacement": "That was when the young martial artist who had been standing idly by as though none of this concerned him suddenly asked,",
+      "severity": "minor",
+      "source": "멀뚱멀뚱, 강 건너 불구경만 하고 있던 젊은 무인이 불쑥 물었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "What, do you want to hear where I’m from and who I am, then pick a fight if I seem easy and tuck your tail between your legs and apologize if my level is too high?",
+      "defect": "“My level is too high” recasts 급 as martial power, while Woo Jintae is trying to determine the opponent’s institutional status and backing.",
+      "id": "F05",
+      "rationale": "The surrounding reasoning centers on whether the opponent belongs to a powerful sect and therefore outranks someone Woo Jintae can safely offend.",
+      "replacement": "What, you want to hear who I am and where I’m from, then pick a fight if I seem easy and tuck your tail between your legs and apologize if I turn out to be too high-status?",
+      "severity": "major",
+      "source": "왜, 어디의 누구인지 들어 본 다음 만만하면 한판 붙고 급이 좀 높다 싶으면 꼬리 말고 사과하게?"
+    },
+    {
+      "confidence": 0.94,
+      "current": "Born as the sole son of three generations of the Seongun Escort Bureau’s main line, he had been pampered and revered his entire life.",
+      "defect": "The draft adds an unsupported “main line” and renders 삼대독자 in an awkward way that obscures his status as the family’s sole male heir across three generations.",
+      "id": "F06",
+      "rationale": "삼대독자 identifies Woo Jintae as the only male heir born to the family in three generations; the source does not mention a main line.",
+      "replacement": "Born the sole male heir the Seongun Escort Bureau’s family had produced in three generations, he had been pampered and revered his entire life.",
+      "severity": "major",
+      "source": "성운표국의 삼대독자로 태어나 평생을 떠받들어져 살아온 그다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "One slap with every step.\n\nBy the time Woo Jintae had taken five steps, he had been struck five times in total. He staggered unsteadily.",
+      "defect": "The draft states that Woo Jintae took exactly five steps, while the source only correlates slaps with steps and explicitly counts the five blows.",
+      "id": "F07",
+      "rationale": "The source leaves the subject and total number of the steps unstated but expressly says Woo Jintae was struck five times.",
+      "replacement": "One slap with every step.\n\nAfter taking five slaps in all, Woo Jintae staggered unsteadily.",
+      "severity": "critical",
+      "source": "한 걸음에 한 대씩. 도합 다섯 대를 맞은 우진태가 비틀거렸다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "At the very least, we should try to stop them… Young Master Wang, do something.",
+      "defect": "The plural object “them” changes the target of intervention from the single attacker to both men.",
+      "id": "F08",
+      "rationale": "말리기 refers to stopping Jin Taekyung from continuing the beating, not separating or stopping both participants.",
+      "replacement": "At the very least, we should try to stop him… Young Master Wang, do something.",
+      "severity": "critical",
+      "source": "최소한 말리기라도 해야…… 왕 공자가 어떻게 좀 해 봐요."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I will!”\n\n“We’ll do it! We’ll definitely do it!”",
+      "defect": "The second speaker’s singular commitment is changed to a plural commitment on behalf of the group.",
+      "id": "F09",
+      "rationale": "Both Korean lines use singular first-person verb endings from separate speakers; the second speaker does not volunteer everyone else.",
+      "replacement": "“I will!”\n\n“I’ll do it! I’ll definitely do it!”",
+      "severity": "critical",
+      "source": "“하겠소!”\n\n“할게요! 무조건 할게요!”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“All right, then. There’s one final thing left—the second-to-last.”\n\n“...Second-to-last?”",
+      "defect": "The draft changes “the second and final thing” into “the second-to-last,” incorrectly implying that another step will follow.",
+      "id": "F10",
+      "rationale": "마지막 modifies the remaining item as the final one, while 두 번째 identifies it as the second requirement; it does not mean penultimate.",
+      "replacement": "“All right, then. There’s one final thing left—the second.”\n\n“…The second?”",
+      "severity": "critical",
+      "source": "“자, 그럼 마지막 두 번째가 남았습니다.”\n\n“……두 번째라니?”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“All of you, get your heads down.”",
+      "defect": "The English is ambiguous and softens the coarse command to bend over and plant their heads down as punishment.",
+      "id": "F11",
+      "rationale": "대가리 박다 is a deliberately crude command to assume a head-down punishment posture, not merely to lower or duck one’s head.",
+      "replacement": "“All of you, bend over and plant your heads on the floor.”",
+      "severity": "major",
+      "source": "“다들 대가리 박으십쇼.”"
+    }
+  ],
+  "summary": "The draft contains several altered actions, subjects, and quantities, plus a mistranslated sequence marker and localized terminology and register issues.",
+  "version": 1
+}
