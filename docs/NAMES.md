@@ -413,3 +413,9 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 하곡 | **Hequ** | Route and Jin Family branch targeted as the alliance's entry point into Shanxi. |
 | 참마검 | **horse-chopping sword** | Heavy saber used by the Human Butcher; rendered descriptively. |
 | 삼매진화 | **Samadhi True Fire** | Internal-energy flame demonstrated by the unnamed old man. |
+| 귀환자 | **Returnee** | System Title |
+| 명가의 자제 | **Scion of a Prestigious Family** | System Title |
+| 승부사 | **Gambler** | System Title |
+| 명장 | **Master Artisan** | Master craftsman capable of handling Ten-Thousand-Year Cold Iron |
+| 가공되지 않은 만년한철 | **Unprocessed Ten-Thousand-Year Cold Iron** | System Item |
+| 장인을 찾아라 | **Find the Master Artisan** | System Quest |
