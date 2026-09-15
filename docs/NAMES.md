@@ -456,3 +456,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 무극 | **Martial Extremity realm** | Realm associated with opening the upper dantian. |
 | 창천검왕 | **Azure Sky Sword King** | One of the Ten Kings and the Grand Family Head of the Nangong Family. |
 | 태상가주 | **Grand Family Head** | Title held by the Azure Sky Sword King as head of the Nangong Family. |
+| 왕팔 | **Wangpal** | One of the youths who tried to take Jangcheon's dumpling. |
+| 홍소칠 | **Hong Sochil** | One of the youths who tried to take Jangcheon's dumpling. |
+| 소우평 | **So U-pyeong** | One of the youths who tried to take Jangcheon's dumpling. |
