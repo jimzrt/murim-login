@@ -1,0 +1,47 @@
+{
+  "chapter": 115,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.309,
+    "source_characters": 5742,
+    "source_paragraphs": 181,
+    "translation_characters": 13259,
+    "translation_paragraphs": 186
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "일격",
+        "preferred": "One Strike"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "상태",
+        "preferred": "Status"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "대협",
+        "preferred": "Great Hero or Sir depending tone"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "소저",
+        "preferred": "Young Lady"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
