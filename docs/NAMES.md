@@ -321,3 +321,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 근위대 | **royal guard** | Guard unit protecting Prince Shangshan. |
 | 근위대 갑옷 세트 | **Royal Guard Armor Set** | Armor set Li Feng offers Cheongpung. |
 | 황태자 | **Crown Prince** | The Emperor's older brother in Taekyung's recollection. |
+| 고평문 | **Gopyeong Sect** | Minor sect whose young sect leader is pressured by Taekyung. |
+| 고평지부 | **Gopyeong Branch** | Proposed branch designation under the Jin Family of Taiyuan. |
