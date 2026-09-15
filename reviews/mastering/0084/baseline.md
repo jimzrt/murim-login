@@ -6,27 +6,27 @@ Im Kkeokjeong thought.
 
 Jin Taekyung was a C-rank Hunter. A Minotaur, on the other hand, was a B-rank monster.
 
-And there wasn’t just one. There were eight. To Im Kkeokjeong, this went beyond reckless. It was hopeless.
+And there wasn’t just one of them. There were eight. To Im Kkeokjeong, the situation looked like more than recklessness. It looked hopeless.
 
 *What the hell does money matter?*
 
-Four billion won was certainly enough to change a person’s life, but it wasn’t worth dying for. Im Changsoo had blinded Jin Taekyung with money, and Taekyung had lost his ability to think clearly.
+Four billion won was certainly enough to change a person’s life, but it wasn’t worth throwing away one’s life for. Im Changsoo had blinded Jin Taekyung with money, and Taekyung had lost his ability to think clearly.
 
 *I have to stop him. I have to.*
 
-Those vicious bastards from Sangdong Guild, Butler Kim for not stopping him, even Team Leader Choi—they were all insane. He had to keep his cherished little brother from dying a pointless death.
+Those vicious bastards from Sangdong Guild, Butler Kim for not stopping him, even Team Leader Choi—they were all insane. He had to prevent his cherished little brother from throwing his life away like a stray dog.
 
 “Taekyung!”
 
-It was at that very moment, when Im Kkeokjeong was about to reach out toward Jin Taekyung, who had just gripped his spear at the ready.
+It was at that very moment, when Im Kkeokjeong reached out toward Jin Taekyung, who had just gripped his spear at the ready.
 
 Whoosh—
 
 “…Huh?”
 
-With a rush of wind, Jin Taekyung vanished. He began sprinting at a speed Im Kkeokjeong, an E-rank Hunter, could neither match nor properly see.
+Along with the sound of wind, Jin Taekyung vanished. Jin Taekyung began sprinting at a speed that Im Kkeokjeong, an E-rank Hunter, could neither match nor properly see.
 
-It all happened in the blink of an eye. Im Kkeokjeong let out a dazed sound.
+It had all happened in the blink of an eye. Im Kkeokjeong let out a dazed sound.
 
 “Uh, uh-oh.”
 
@@ -42,19 +42,19 @@ The distance of several dozen meters vanished in an instant, and the spearhead f
 
 Swoooosh! Slice!
 
-The Minotaur’s enormous, over-three-meter-tall body tilted to one side.
+The Minotaur—the over-three-meter-tall monster’s enormous body tilted to one side.
 
-The thick neck that should have risen above its shoulders was already gone.
+The thick neck that should have been above its shoulders was already gone.
 
 For one moment, it seemed as if the half-human, half-beast creature with a human body and a bull’s head were nothing more than an ordinary person.
 
 Thump.
 
-The head, severed in an instant, dropped to the cavern floor.
+The head that had been severed in an instant dropped to the cavern floor.
 
 Crash.
 
-The headless monster collapsed. Blood gushed from the cleanly severed stump of its neck.
+The headless monster collapsed. Blood burst from the cleanly severed cross-section of its neck.
 
 “What the…!”
 
@@ -74,19 +74,19 @@ Im Kkeokjeong’s legs gave out, and Im Changsoo muttered without realizing it.
 
 Minotaurs had bodies specialized for close-quarters combat.
 
-Like any medium-sized monster, they were huge, packed with incredibly dense muscle, and armed with heavy weapons such as maces and axes.
+Like any mid-sized monster, they were huge, packed with incredibly dense muscles, and armed with heavy weapons such as maces and axes.
 
 Boom!
 
-But what good was any of that if they couldn’t land a hit?
+But what good was that? If they couldn’t hit anything, it was all for nothing.
 
 No matter how hard they swung, all they could do was smash the innocent cavern floor.
 
-*I’ll give them one thing. They’re strong.*
+*I’ll give them one thing—their strength is impressive.*
 
-But strength alone didn’t win fights. I slipped inside one monster’s guard and drove my spear into its lower abdomen.
+But fights weren’t won with strength alone. I slipped inside one monster’s guard and stabbed it in the lower abdomen.
 
-Schlk.
+Squish.
 
 > **System**
 >
@@ -96,13 +96,13 @@ Schlk.
 
 —Mooooo.
 
-The Minotaur’s cry was pitiful. It had already lost too much blood to charge in as ferociously as before. That attack moments ago had probably been the One Strike it made with the last of its strength.
+The Minotaur’s cry was pitiful. It had already lost too much blood to charge in as ferociously as before. The attack it had launched moments ago had probably squeezed out the last of its strength.
 
 —Moo. Mooooo.
 
 I approached the creature as it staggered backward.
 
-Looking into those calf-like eyes almost made me feel sorry for it…
+Looking into its calf-like eyes almost made me feel sorry for it…
 
 *Like hell.*
 
@@ -114,9 +114,9 @@ All I could see was a stack of five hundred million won.
 
 Slice.
 
-The Minotaur breathed its last.
+The Minotaur’s breathing stopped.
 
-That made eight enormous pools of blood.
+A moment later, there were eight enormous pools of blood.
 
 And eight monster corpses.
 
@@ -156,21 +156,21 @@ Im Changsoo forced an awkward smile.
 
 “Just what?”
 
-“Mr. Taekyung, if you could listen to me for a moment…”
+“Mr. Taekyung. If you could just listen to me for a moment…”
 
 “Mr. Taekyung? I’ve been meaning to ask you this for a while. How old is our Changsoo?”
 
 “…I’m twenty-five.”
 
-“Oh, my. What a cheeky little shit. You’re only twenty-five, and you’ve been acting that disrespectfully toward your elders?”
+“Oh, my. What a cheeky little shit. You’re only twenty-five, and you’ve been acting so disrespectfully toward your elders?”
 
 “…”
 
-“Did someone cut your tongue in half? You kept spitting out casual speech, so I thought you were ninety-five. And why does your face look so weathered? You didn’t register your birth late, did you?”
+“What happened to your tongue? You kept spitting out casual speech, so I thought you were ninety-five. Why does your face look so weathered? You didn’t just register your birth late, did you?”
 
-As I kept going, Im Changsoo’s face flushed bright red with anger.
+As I kept going, Im Changsoo’s face grew bright red with anger.
 
-“Keep that expression under control. Turn into a Hongik Ingan one more time, and I’ll make you genuinely red.”[^1]
+“Keep that expression under control. If you turn into a Hongik Ingan one more time, I’ll make you genuinely red.”[^1]
 
 “I’m… sorry.”
 
@@ -184,19 +184,19 @@ After barely managing to compose his expression, he cautiously opened his mouth.
 
 “Yeah. I am.”
 
-Im Changsoo looked back and forth between me and the sprawled Minotaur corpses, his eyes filled with disbelief.
+Im Changsoo looked at me and the sprawled-out Minotaur corpses in turn, his eyes filled with disbelief.
 
 “What? Why?”
 
 “If you’d rather not reveal it, you don’t have to tell me.”
 
-“Think whatever you want.”
+“Just think whatever you want.”
 
 “Oh, no. That’s not what I meant.”
 
-He denied it, but there was no doubt his imagination was running wild.
+He said it wasn’t, but there was no doubt he was letting his imagination run wild.
 
-He had thought I was an ordinary C-rank Hunter, yet I had just crushed eight B-rank monsters in a head-on fight.
+He had thought I was an ordinary C-rank Hunter, yet I had just beaten eight B-rank monsters in a head-on fight.
 
 *That’s right. Imagine away.*
 
@@ -204,7 +204,7 @@ There was nothing to gain from antagonizing Sangdong Guild for no reason. Since 
 
 “So, perhaps you’re laundering your identity—no, you aren’t. You wouldn’t be. Right.”
 
-Im Changsoo had been about to spout some nonsense, but one sidelong glance at my spear made him change the subject.
+Im Changsoo had been about to spout some nonsense, but he glanced sideways at my spear and immediately changed the subject.
 
 This guy’s reactions were kind of fun.
 
@@ -216,13 +216,13 @@ This guy’s reactions were kind of fun.
 
 To be honest, I was a little worried that he might tell me to go to hell.
 
-Four billion won wasn’t pocket change. It was a huge sum of money that ordinary people could hardly hope to lay their hands on even after working their entire lives.
+Four billion won wasn’t some random dog’s name. It was a huge sum of money that ordinary people could hardly hope to lay their hands on even after working their entire lives.
 
 But Im Changsoo was different.
 
 “Ah, of course I’ll pay you.”
 
-“…You’re sure?”
+“…Are you sure?”
 
 “Yes. I keep my promises.”
 
@@ -230,7 +230,7 @@ His answer was so straightforward that it was almost suspicious.
 
 No matter how much money a B-rank Hunter made, there was such a thing as an average income. Yet Im Changsoo talked about billions of won as casually as if it were a thousand-won bill in his pocket.
 
-“You’re not going to disappear after saying that, are you? If you pretend none of this happened because we didn’t sign a contract, I’ll be very disappointed.”
+“You’re not going to disappear after saying that, are you? If you act like none of this matters because there’s no contract, I’ll be very disappointed.”
 
 I casually stroked my spear, and he flinched violently.
 
@@ -238,7 +238,7 @@ I casually stroked my spear, and he flinched violently.
 
 “Hmm. You must make pretty good money. Sangdong Guild treats you well?”
 
-“No. I’m treated the same as everyone else.”
+“No. There’s nothing particularly different about my treatment.”
 
 “Of course there isn’t. It’s not like you’re the Guild Master’s son or something. Why would they treat you especially well?”
 
@@ -250,7 +250,9 @@ I casually stroked my spear, and he flinched violently.
 
 Something about the atmosphere felt strange.
 
-After thinking it over, I asked, “What’s your father’s name?”
+I thought about it carefully before asking:
+
+“What’s your father’s name?”
 
 “Im Chunsu.”
 
@@ -260,9 +262,9 @@ After thinking it over, I asked, “What’s your father’s name?”
 
 What a strange coincidence. Im Changsoo’s father and the Sangdong Guild Master had the same name.
 
-Then again, the world was a big place, and plenty of people shared the same name.
+Then again, the world was a big place, and there were plenty of people with the same name.
 
-“Hey, I’m only asking just in case, so forgive me for prying… but what does your father do for a living?”
+“Hey, I’m only asking just in case, so forgive me for prying…but what does your father do for a living?”
 
 “He’s a Hunter.”
 
@@ -282,15 +284,15 @@ A brief silence passed, and in that short interval, I realized what had seemed s
 
 “No, I’ve heard about you before.”
 
-It was a story I’d heard around this time two years ago and let go in one ear and out the other.
+It was a story I had heard around this time the year before last and let pass in one ear and out the other.
 
-The Sangdong Guild Master’s only son, born late in his life, had awakened as a B-rank Hunter and secured a position in his father’s Guild. But he was such a womanizer that he had become a constant headache.
+The Sangdong Guild Master’s only late-born son had awakened as a B-rank Hunter and secured a position in his father’s Guild. But he was such a womanizer that he was apparently a constant headache.
 
 And the nickname he had earned was…
 
 “Horndog. Right?”
 
-Im Changsoo answered by hanging his head.
+Im Changsoo answered by lowering his head.
 
 It was an embarrassing nickname to hear in front of other people, to be sure.
 
@@ -298,9 +300,9 @@ But since I had to collect four billion won, I comforted him in a warm voice.
 
 “It’s okay, man. Guys can be like that sometimes. I used to dream of living like you, too.”
 
-But reality was cruel, and that dream had seeped into a hundred-terabyte USB drive.
+But reality was cold, and that dream seeped into a 100-terabyte USB drive.
 
-Jinho hyung, a renowned authority in the world of porn, once borrowed my USB. When he showed up again, he had a hollow-eyed expression and left me with a one-line review.
+Jinho hyung, a renowned authority in the world of adult videos, once borrowed my USB. When he returned, he had a hollow-eyed expression and left me with a one-line review.
 
 *This should be designated a UNESCO World Heritage Site.*
 
@@ -312,27 +314,27 @@ Im Changsoo lifted his head at my warm consolation.
 
 *Of course not.*
 
-Did I look like the kind of guy who hit on just any woman? I was the sunflower of this era, gazing at only one person in the entire world—Miss Song-i…
+Did I look like the kind of guy who hit on just any woman? I was the sunflower of this era, gazing at only one person in the entire world—Miss Song…
 
 *Wait a second.*
 
-This bastard had hit on Miss Song-i earlier.
+This bastard had hit on Miss Song earlier.
 
 “You little shit.”
 
-“Ack!”
+“Gasp!”
 
-Frightened before I had even done anything, Im Changsoo reflexively placed his hand on his sword hilt.
+Im Changsoo, frightened before I had even done anything, reflexively placed his hand on his sword hilt.
 
 Shing. Clack.
 
 But the blade had barely made it halfway out before it was forced back into its sheath.
 
-I had closed the distance like lightning, pressing down on his sword hilt as I kicked his legs out from under him.
+I had moved like lightning, pressing down on his sword hilt while kicking his legs out from under him.
 
 Crash!
 
-He lost his balance and fell. When I pressed down on his neck, his face went white.
+When I pressed down on the neck of the man who had lost his balance and fallen, his face went white.
 
 “Ghk! Cough!”
 
@@ -342,7 +344,7 @@ Getting beaten by Jin Mukyung had certainly paid off.
 
 In the past, I wouldn’t have been able to subdue a B-rank Hunter with such a simple, fluid movement. Im Changsoo was probably surprised, but I was even more surprised.
 
-“This is a Gate, you idiot. You said so yourself earlier. Did you already forget?”
+“This is a Gate, you idiot. You already said that yourself. Did you forget so soon?”
 
 “I’m sorry! I’m sorry!”
 
@@ -354,15 +356,15 @@ I wanted to beat him senseless, but since it had only been an attempt, I decided
 
 “Ghk. What?”
 
-“You drew your sword. Don’t you know that’s attempted murder? And you owe me and Miss Song-i—no, all our Guild members—a sincere apology.”
+“You drew your sword. Don’t you know that’s attempted murder? And you owe me and Miss Song—no, all our Guild members—a sincere apology.”
 
 “What are you talking about?”
 
 Im Changsoo looked around at the others with an aggrieved expression, but no one came to his aid.
 
-His team members merely shrank back whenever my gaze landed on them. Meanwhile, our Guild members, who had been watching the spectacle, took it one step further.
+His team members only shrank back whenever my eyes landed on them. Meanwhile, our Guild members, who had been watching the spectacle, took it one step further.
 
-“Drawing a sword on a member of a partner Guild. Well, I never.”
+“Drawing a sword on a member of an allied Guild. Well, I never.”
 
 Butler Kim clicked his tongue as if he felt sorry for him.
 
@@ -370,9 +372,9 @@ Butler Kim clicked his tongue as if he felt sorry for him.
 
 “Hmm? Uh-huh. What a nasty young man!”
 
-Miss Song and Im Kkeokjeong delivered a lowlife-and-nasty-man combo.
+That was Miss Song and Im Kkeokjeong’s lowlife-and-nasty-man combo.
 
-Then Team Leader Choi dealt the final blow.
+And then Team Leader Choi delivered the final blow.
 
 “Now, would everyone take a look at my helmet? This product is a custom-made helmet produced by Xyliton, a famous Finnish equipment manufacturer. It has all sorts of functions, but most importantly, it has been enchanted with a video-recording spell…”
 
@@ -388,9 +390,9 @@ That was the answer I had been waiting for.
 
 I happily helped him back to his feet.
 
-“Good choice, kid. We can discuss the damages at our leisure.”
+“Good choice, kid. We can discuss the damages slowly.”
 
-“…This is driving me crazy. If my boomer finds out, I’m dead.”
+“…This is driving me crazy. If my old man finds out, I’m dead.”
 
 “Would you rather die here?”
 
@@ -398,7 +400,7 @@ I happily helped him back to his feet.
 
 “You’ve got some nerve.”
 
-Im Changsoo let out another deep sigh before speaking.
+Im Changsoo let out another deep sigh before opening his mouth.
 
 “May I ask one question?”
 
@@ -420,4 +422,4 @@ A Hunter and a Murim martial artist.
 
 The only two-job combination in the world.
 
-[^1]: *Hongik Ingan*, meaning “to broadly benefit humanity,” is Korea’s national founding ideal. Taekyung twists the opening sound *hong* into a joke about Im Changsoo’s reddening face.
+[^1]: *Hongik Ingan*, meaning “to broadly benefit humanity,” is a Korean national founding ideal. Taekyung twists the phrase into a joke about Im Changsoo’s reddening face.
