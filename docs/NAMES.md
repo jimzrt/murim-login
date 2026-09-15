@@ -561,3 +561,21 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 황소자리 | **Taurus** | Zodiac sign Song Song uses as a nickname for Taekyung. |
 | 뇌이버 | **Naver** | Source-spelling variant used in Hayeon's reference to the real-time search rankings. |
 | 아홉 시 뉴스 데스크 | **Nine O'Clock News Desk** | KPS live news program where Taekyung is waiting to be interviewed. |
+| 한국일보 | **Korea Daily** | Daily newspaper carrying a feature on Taekyung. |
+| 고려일보 | **Goryeo Daily** | Daily newspaper carrying a feature on Taekyung. |
+| 행복한 생각 | **Happy Thoughts** | Publication carrying a human-interest feature on Taekyung. |
+| 시사 핫 토픽 | **Current Hot Topic** | Current-affairs publication. |
+| 국회 말말말 | **Parliament’s Words of the Day** | Publication covering remarks made in Parliament. |
+| 자유 애국당 | **Freedom Patriot Party** | Political party whose chairman makes the quoted remark. |
+| KPS | **KPS** | Broadcaster carrying the Nine O’Clock News. |
+| 아홉 시 뉴스 | **Nine O’Clock News** | KPS news program Taekyung appeared on. |
+| 헤일리 뉴스 | **Hailey News** | Media outlet identified in the online comments. |
+| ㅂㅎㅇ | **B.H.Y.** | Initials of a Hailey News reporter; no full name is given. |
+| 오마이갓 뉴스 | **Oh My God News** | News outlet approaching Taekyung in the parking garage. |
+| 주부 일간지 | **Housewives’ Daily** | Daily publication represented by Reporter Hong. |
+| 생생 시사 토크 | **Vivid Current-Affairs Talk** | Current-affairs talk program approaching Taekyung. |
+| 피터 필립 | **Peter Philip** | Swiss watchmaker credited with making the Universe-302. |
+| 유니버스-302 | **Universe-302** | Luxury automatic mechanical watch used as Choi’s deterrent. |
+| 제갈량 | **Zhuge Liang** | Historical strategist invoked in Taekyung’s comparison of Choi’s cleverness. |
+| 스위스 | **Switzerland** | Country associated with the watchmaker. |
+| 청와대 | **Blue House** | Presidential office mentioned in an online comment about proposed legislation. |

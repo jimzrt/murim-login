@@ -1,17 +1,17 @@
 # Translation State
 
-- Last completed: 209
-- Next chapter: 210
-- Current block: 205–209 (5/5)
-- Latest translation: `translations/0209.md`
-- Latest summary: `summaries/beats/0209.md`
-- Safe profiles through: chapter 209
+- Last completed: 210
+- Next chapter: 211
+- Current block: 210–214 (1/5)
+- Latest translation: `translations/0210.md`
+- Latest summary: `summaries/beats/0210.md`
+- Safe profiles through: chapter 210
 
 ## Current Block
 
-- After returning from vacation, Im Kkeokjeong finds the Peace Guild House completely remodeled and learns that the other three guild members were monitored throughout their vacation by Familiars sent by Sangdong Guild; he had also been watched but never noticed. Butler Kim and the others have since dealt with the Familiars.
-- The guild members discover Jin Taekyung appearing on live television as the “Tollgate Hero.” His identity and C-rank status become public, he reaches number one on the real-time search rankings, and numerous articles begin circulating about him.
-- Taekyung receives calls about his sudden fame, learns that Hayeon knows about the incident while their mother does not, and waits at KPS for a live Nine O'Clock News Desk interview. The chapter ends as the broadcast is about to begin.
+- In the week after the tollgate rescue, Jin Taekyung becomes a national celebrity. Newspapers, magazines, and online communities praise him as a new hero, while aggressive reporters expose his identity, history, photographs, and even his family's personal information. Hayeon is followed by a reporter disguised as a delivery worker, and media outlets hire Familiar mages to spy on the family. Netizens retaliate against the offending outlets, driving one to closure and prompting calls for legal reform.
+- Taekyung feels both pleased and burdened by the attention, wondering whether he could have prevented more casualties. Jinho advises him not to become a hero who tries to save everyone, reminding him that his dream is simply to become a strong Hunter landlord who protects his family and precious people. Taekyung accepts that he should enjoy the recognition as a reward for his hardship and good deeds.
+- Team Leader Choi, now acting as the Peace Guild's spokesperson, clears a hostile press crowd from the underground parking garage by using a fake luxury watch as a legal threat. As Choi drives Taekyung away, an unidentified man in his early thirties with the formidable energy of a high-level Hunter steps in front of the sedan and asks to talk.
 
 ## Open Questions
 
@@ -22,6 +22,7 @@
 - Will Taekyung attend the Star-Array Grand Banquet, and what exactly was the answer that changed the three men's expressions?
 - What are the Reward and Failure conditions of the Gate Suppression Quest?
 - How will the Gate near Hwang Cheol Soo's tollgate ultimately be contained, and what further monsters may emerge?
+- Who is the unidentified high-level Hunter who stopped Taekyung and Choi, and what does he want?
 
 ## Exceptional Decision
 
@@ -32,7 +33,7 @@
 - Render 노야 as “Old Master” when Taekyung addresses Jeok Cheongang privately.
 - Render 고시원 as “goshiwon” and 오피스텔 as “officetel.”
 - Render 오우거 as “ogre” and 게이트 진압 as “Gate Suppression.”
-- Render 상도의 as “professional courtesy.”
+- Render 기레기 as “hack reporter.”
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
