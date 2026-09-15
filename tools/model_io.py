@@ -99,8 +99,16 @@ def apply_review_replacements(text: str, review: dict) -> str:
     spans: list[tuple[int, int, str, str]] = []
     for finding in review["findings"]:
         old = finding["current"]
+        replacement = finding["replacement"]
         starts = [match.start() for match in re.finditer(re.escape(old), text)]
         if len(starts) != 1:
+            thought_formatting = (
+                old.startswith("“") and old.endswith("”")
+                and replacement == f"*{old[1:-1]}*"
+            )
+            if thought_formatting and starts:
+                spans.extend((start, start + len(old), replacement, finding["id"]) for start in starts)
+                continue
             paragraph_starts = [
                 start for start in starts
                 if (start == 0 or text[start - 2:start] == "\n\n")
@@ -111,7 +119,7 @@ def apply_review_replacements(text: str, review: dict) -> str:
             start = paragraph_starts[0]
         else:
             start = starts[0]
-        spans.append((start, start + len(old), finding["replacement"], finding["id"]))
+        spans.append((start, start + len(old), replacement, finding["id"]))
     spans.sort()
     for previous, current in zip(spans, spans[1:]):
         if current[0] < previous[1]:
