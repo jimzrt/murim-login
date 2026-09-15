@@ -97,9 +97,11 @@ works, or file a new report.
 ## Maintainer loop
 
 1. Reader submits a report (or someone uses the GitHub issue form).
-2. Bot comments with strategies A–E, or explains why the report is implausible.
-3. You comment `/apply A` on the issue (allowlisted GitHub login only),
-   **or** `/revise …` with what you want changed to get a new strategy set.
+2. Bot comments with strategies A–E, or explains why the report is implausible
+   and **closes the issue**.
+3. You comment `/apply A` (allowlisted GitHub login only),
+   **`/revise …`** for a new set, or **`/reopen`** (optionally with a note) to
+   override an implausible close and get choices anyway.
    `/apply` always uses the latest evaluation comment.
 4. Bot opens a PR that may edit `translations/*.md`, `docs/NAMES.md`,
    `docs/ADDRESS.md`, `docs/CONTEXT.json`, and `compendium.md`.
