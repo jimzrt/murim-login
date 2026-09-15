@@ -1,0 +1,47 @@
+{
+  "chapter": 154,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.251,
+    "source_characters": 7262,
+    "source_paragraphs": 233,
+    "translation_characters": 16350,
+    "translation_paragraphs": 221
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "조장",
+        "preferred": "Captain"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "원단",
+        "preferred": "New Year's Day"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "파파파파팍",
+        "romanization": "papapapapak"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
