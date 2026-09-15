@@ -1,34 +1,37 @@
 # Translation State
 
-- Last completed: 116
-- Next chapter: 117
-- Current block: 115–119 (2/5)
-- Latest translation: `translations/0116.md`
-- Latest summary: `summaries/beats/0116.md`
-- Safe profiles through: chapter 116
+- Last completed: 117
+- Next chapter: 118
+- Current block: 115–119 (3/5)
+- Latest translation: `translations/0117.md`
+- Latest summary: `summaries/beats/0117.md`
+- Safe profiles through: chapter 117
 
 ## Current Block
 
-- Jin Mukyung initially overwhelms Pung Yang, but Pung Yang swallows a Temporary Strength Pill and reverses the exchange, wounding Mukyung. The pill's abnormal power lets Pung Yang temporarily produce imperfect Sword Force despite lacking the enlightenment for true Sword Force. He reveals that he found the Crimson Blood martial arts and a case containing five Temporary Strength Pills in a hidden plateau tomb, killed his subordinates to keep the treasure, and reached the Peak realm in two years.
-- While Mukyung and Pung Yang's battle continues, Taekyung cuts through the surrounding mounted bandits, and surviving Mount Heng Sword Sect martial artists finish off many of the exposed survivors. Taekyung then resolves to confront Pung Yang, though he remains uncertain whether he can win.
+- Jin Mukyung realizes that Pung Yang's use of the Temporary Strength Pill has made even the ordinary Three Calamities Sword Technique overwhelmingly powerful, though he evades the attack. Jin Taekyung then strikes Pung Yang with One Annihilation, but Pung Yang's newly revealed Body-Protecting Qi blocks it. Mukyung and Pung Yang clash directly; Mukyung appears to win after breaking the protective qi and injuring Pung Yang, but Pung Yang had already embedded five throwing knives in Mukyung, leaving him unconscious. Pung Yang resumes killing Mount Heng Sword Sect martial artists and declares that he will take the Jin brothers and obtain their family's martial arts formulas. Taekyung remembers the dangerous Blazing Flame Divine Pill left by Jopil and decides to use it against Pung Yang.
 
 ## Open Questions
 
+- Can Jin Taekyung survive the Blazing Flame Divine Pill's fire qi and use its power?
+- Can Taekyung defeat Pung Yang after the pill's effects are added to the fight?
+- Will Jin Mukyung recover from the five concealed throwing knives?
+- Can Lee Seowol and the Mount Heng Sword Sect survive Pung Yang's resumed assault?
+- Will Pung Yang obtain the Jin Family's martial arts formulas?
+- Will Lee Seowol's coerced marriage agreement be overturned?
 - What is the origin and full long-term effect of the Temporary Strength Pill?
-- Can Jin Taekyung and Jin Mukyung defeat Pung Yang and rescue Lee Seowol and Cheol Mubaek?
-- Will Lee Seowol's coerced agreement be carried out or overturned?
-- Whether the Mount Heng Sword Sect will survive the continuing assault remains unresolved.
+- What lasting consequences will the Blazing Flame Divine Pill have if Taekyung takes it?
 
 ## Exceptional Decision
 
 - Render 일류 초입 as early First Rate.
-- Retain shichen and explain three shichen as six hours in context.
-- Render 화시 as fire arrow, 쇠뇌 as crossbow, and 충차 as battering ram.
-- Render 수라멸권 as Shura Annihilating Fist.
-- Render 항산권문 as Mount Heng Fist Sect.
-- Render 벽곡단 as fasting pills.
-- Render 잠력단 as Temporary Strength Pill and explain its literal meaning in a footnote.
-- Render 검강 as Sword Force, 적혈십이검 as Crimson Blood Twelve Swords, and 적혈심법 as Crimson Blood Cultivation Technique.
+- Render 잠력단 as Temporary Strength Pill.
+- Render 호신강기 as Body-Protecting Qi.
+- Render 격산타우 as Striking the Ox Across the Mountain.
+- Render 북망산 as Mount Beimang with a burial-ground footnote.
+- Render 열화신단 as Blazing Flame Divine Pill.
+- Render 반 갑자 as half a jiazi, clarified as thirty years.
+- Retain Narye tagon for 나려타곤 with a footnote explaining the idiom.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
