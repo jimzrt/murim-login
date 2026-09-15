@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Most people understood the Hunter profession through those two words.\n\nEven now, decades after the Great Cataclysm had ended, they didn’t want to think about the fact that hundreds of Hunters still died in Gates every year.",
+      "defect": "The draft backshifts two present-tense generalizations, weakening the narrator’s statement about how people currently view Hunters.",
+      "id": "F01",
+      "rationale": "The source uses present tense throughout this general observation: 이해한다, 알고 싶어 하지 않는다, and 죽어 나간다.",
+      "replacement": "Most people understand the Hunter profession through those two words.\n\nEven now, decades after the Great Cataclysm ended, they don’t want to think about the fact that hundreds of Hunters still die in Gates every year.",
+      "severity": "minor",
+      "source": "대부분의 사람들은 헌터라는 직업을 저 두 개의 단어로 이해한다.\n\n그들은 대격변이 종결된 지 수십 년이 흐른 지금에도 연간 수백 명의 헌터가 게이트에서 죽어 나간다는 사실은 알고 싶어 하지 않는다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "I saw your interview. You seemed to live pretty hard. Don’t you think it’s time to enjoy life a little? I heard your dream was to own a building.",
+      "defect": "“Live pretty hard” is an unnatural collocation and does not accurately render 바쁘게 살았던데, which says Taekyung had been living a busy life.",
+      "id": "F02",
+      "rationale": "바쁘게 means “busily,” not “hard” in the sense suggested by the current English.",
+      "replacement": "I saw your interview. You’ve been pretty busy. Isn’t it time you enjoyed life a little? I heard your dream was to own a building.",
+      "severity": "minor",
+      "source": "인터뷰 보니까 꽤 바쁘게 살았던데. 이제는 좀 누릴 때도 됐잖아. 꿈이 건물주라며?"
+    },
+    {
+      "confidence": 0.97,
+      "current": "When I checked the time, more than thirty minutes had already passed since our appointment.",
+      "defect": "The draft treats the thirty minutes as elapsed time since the appointment began, omitting that thirty minutes was the agreed-upon allotment.",
+      "id": "F03",
+      "rationale": "약속한 modifies 30분: the thirty-minute period itself had been agreed upon.",
+      "replacement": "When I checked the time, we had already gone well past the thirty minutes we’d agreed on.",
+      "severity": "minor",
+      "source": "시간을 확인하니 어느새 약속한 30분이 훌쩍 지나가 있었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Next time, let’s go to a coin karaoke room together. I’ll practice singing before then.",
+      "defect": "The draft changes Taekyung’s promise to practice Won Myunghoon’s song into a generic promise to practice singing, weakening the setup for hearing the original singer perform “Coward.”",
+      "id": "F04",
+      "rationale": "형 노래 means “your song” in this address context, not singing in general.",
+      "replacement": "Next time, let’s go to a coin karaoke room together. I’ll practice your song before then.",
+      "severity": "minor",
+      "source": "다음에는 같이 코인 노래방 가요. 형 노래 연습해 올게요."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Platinum. In other words, the card was made of pure platinum—a possession everyone dreamed of owning.",
+      "defect": "The draft adds an unsupported claim that the platinum is pure.",
+      "id": "F05",
+      "rationale": "The source states only that the card is made of 백금, platinum; it does not specify purity.",
+      "replacement": "Platinum. In other words, the card was made of platinum—a possession everyone dreamed of owning.",
+      "severity": "minor",
+      "source": "플래티넘(Platinum). 즉 백금으로 만들어진 이 카드는 모든 사람이 꿈에서라도 갖기 원하는 물건이다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Obviously, I feel fucking fantastic.",
+      "defect": "The draft adds strong profanity to an emphatic but nonprofane thought, unnecessarily vulgarizing Taekyung’s voice immediately before his accidental outburst.",
+      "id": "F06",
+      "rationale": "끝내주지 means that it feels fantastic or amazing; the source contains no profanity here. The later 시벌 is the deliberately mistimed profane outburst.",
+      "replacement": "Obviously, I feel fantastic.",
+      "severity": "major",
+      "source": "당연히 끝내주지."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Achievement, **A-Rank Hunter**, achieved.",
+      "defect": "The System notice is an ungrammatical Korean-syntax calque.",
+      "id": "F07",
+      "rationale": "The source announces that the named achievement has been attained; the replacement preserves that UI meaning in natural English.",
+      "replacement": "You have earned the **A-Rank Hunter** achievement.",
+      "severity": "minor",
+      "source": "업적, [A급 헌터]를 달성하셨습니다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Then I saw Team Leader Choi lowering his head with the expression of a man experiencing a moment of clarity.",
+      "defect": "The neutral phrase “moment of clarity” erases the crude internet-slang register and defeated comic imagery of 현자 타임.",
+      "id": "F08",
+      "rationale": "현자 타임 is slang for the empty, abruptly sober state commonly rendered as “post-nut clarity”; that register supplies the source’s joke.",
+      "replacement": "Then I saw Team Leader Choi lowering his head with the hollow look of a man experiencing post-nut clarity.",
+      "severity": "major",
+      "source": "그리고 현자 타임이 온 표정으로 고개를 떨구는 최 팀장을 보며 나는 생각했다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Taekyung, nobody cares, so just do whatever you wantㅋㅋㅋㅋ I’d probably laugh it off even if you made a parent joke about me.",
+      "defect": "“Made a parent joke” sanitizes and changes 패드립, which means insulting or abusing someone’s parents rather than merely making a joke about them.",
+      "id": "F09",
+      "rationale": "The stronger meaning is necessary for the next commenter’s mock response wishing the poster’s parents long lives.",
+      "replacement": "Taekyung, nobody cares, so just do whatever you wantㅋㅋㅋㅋ I’d probably laugh it off even if you insulted my parents.",
+      "severity": "major",
+      "source": "태경아 아무도 신경 안 쓰니까 걍 너 하고 싶은 거 해라ㅋㅋㅋ나한테 패드립 쳐도 웃고 넘어갈 듯."
+    }
+  ],
+  "summary": "Several actionable fidelity and register issues remain, including added profanity, a mistranslated insult, a lost slang joke, and localized factual imprecision.",
+  "version": 1
+}
