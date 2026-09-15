@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "At this point, she was practically old enough to be my niece.",
+      "defect": "“Old enough to be my niece” misstates the age comparison; the narrator means that their ten-year gap makes her effectively niece-aged relative to him.",
+      "id": "F01",
+      "rationale": "조카뻘 describes someone belonging to the age or relational bracket of a niece, not someone meeting a minimum age to become one.",
+      "replacement": "With an age gap like that, she might as well have been my niece.",
+      "severity": "major",
+      "source": "이 정도면 조카뻘이나 다름없다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“She’s a Benefactor to me.”",
+      "defect": "The pronoun assigns Benefactor status to Lee Seowol, but Cheol Mubaek is contradicting Taekyung’s dismissal of Hyuk Mujin and referring to Hyuk Mujin.",
+      "id": "F02",
+      "rationale": "The omitted Korean subject is established by the immediately preceding exchange about whether Hyuk Mujin counts as an 은인.",
+      "replacement": "“He’s a Benefactor to me.”",
+      "severity": "critical",
+      "source": "“은인이지, 나한테는.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "He gazed calmly at Jin Mukyung, Hyuk Mujin, and me in turn.",
+      "defect": "The sequence of Cheol Mubaek’s gaze is changed.",
+      "id": "F03",
+      "rationale": "The source explicitly orders the three as 나, 진무경, 혁무진: Taekyung, Jin Mukyung, then Hyuk Mujin.",
+      "replacement": "He gazed calmly at me, Jin Mukyung, and Hyuk Mujin in turn.",
+      "severity": "critical",
+      "source": "그가 잔잔한 눈빛으로 나와 진무경, 혁무진을 차례대로 응시했다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Hello.”",
+      "defect": "The casual greeting loses the deliberately respectful register Taekyung adopts toward Lee Seowol as a Sect Leader.",
+      "id": "F04",
+      "rationale": "안녕하십니까 is a formal-polite greeting, and the following narration explicitly characterizes both greetings as 정중한.",
+      "replacement": "“Greetings.”",
+      "severity": "major",
+      "source": "“안녕하십니까.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Lee Seowol was especially beautiful today. Her snow-white formal robe suited her perfectly, and her hair, twisted up with a jade hairpin, gleamed with a healthy sheen.",
+      "defect": "The draft adds that the robe suited her perfectly and interprets her hair’s luster as specifically healthy, neither of which appears in the source.",
+      "id": "F05",
+      "rationale": "The source describes her clothing and lustrous hair without evaluating how well the robe suits her or attributing the sheen to health.",
+      "replacement": "Lee Seowol was especially beautiful today. She wore a snow-white formal robe, and her hair, twisted up with a jade hairpin, gleamed.",
+      "severity": "minor",
+      "source": "오늘의 이소월은 특히 아름다웠다. 눈처럼 새하얀 흰색 궁장에, 옥색 비녀로 틀어 올린 머리카락은 윤기가 흘렀다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "“I’ll look forward to the answer you didn’t give me last time.”",
+      "defect": "The draft turns Seowol’s statement about an answer she did not get to hear into a direct accusation that Taekyung refused to give it.",
+      "id": "F06",
+      "rationale": "듣지 못한 keeps the line centered on what Seowol did not hear; it does not explicitly characterize Taekyung’s conduct as withholding an answer.",
+      "replacement": "“I’m looking forward to hearing the answer I didn’t get last time.”",
+      "severity": "major",
+      "source": "“지난번에 듣지 못한 대답, 기대할게요.”"
+    },
+    {
+      "confidence": 0.93,
+      "current": "Whether they understood my meaning or not, Lee Seowol and Cheol Mubaek both nodded.",
+      "defect": "The draft incorrectly presents their understanding as unresolved despite the narrator inferring it from their nods.",
+      "id": "F07",
+      "rationale": "Here, 알아들었는지 introduces the narrator’s inference—roughly “perhaps because they understood”—rather than an either-way concession.",
+      "replacement": "Apparently understanding what I meant, Lee Seowol and Cheol Mubaek both nodded.",
+      "severity": "minor",
+      "source": "내 말을 알아들었는지 이소월과 철무백이 고개를 끄덕였다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Mukyung! Taekyung!”",
+      "defect": "The translation drops the prolonged, emphatic way the distant speaker calls both names.",
+      "id": "F08",
+      "rationale": "The extended vowels in 무경아아 and 태경아아아 audibly draw out the calls and contribute to the comedic recognition beat.",
+      "replacement": "“Mukyuuung! Taekyuuung!”",
+      "severity": "minor",
+      "source": "- 무경아아! 태경아아아!!"
+    }
+  ],
+  "summary": "The draft contains two scene-fact errors involving subject identity and action order, plus several localized fidelity and register issues.",
+  "version": 1
+}
