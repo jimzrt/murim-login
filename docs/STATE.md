@@ -1,16 +1,16 @@
 # Translation State
 
-- Last completed: 201
-- Next chapter: 202
-- Current block: 200–204 (2/5)
-- Latest translation: `translations/0201.md`
-- Latest summary: `summaries/beats/0201.md`
-- Safe profiles through: chapter 201
+- Last completed: 202
+- Next chapter: 203
+- Current block: 200–204 (3/5)
+- Latest translation: `translations/0202.md`
+- Latest summary: `summaries/beats/0202.md`
+- Safe profiles through: chapter 202
 
 ## Current Block
 
-- Jin Wikyung and Wipeng report that the gathering is proceeding smoothly: smaller and mid-sized sects have pledged loyalty, the authorities and merchant world are cooperating, and the Jin Family's warehouses are overflowing with wealth. Seok Family Manor, one of the world's greatest merchant houses, offers generous cooperation in Shanxi, which Wikyung accepts pending review of the details. Chief Ha also asks to meet Jeok Cheongang, but Jeok has refused every private audience and nearly crippled a subordinate sent to request one.
-- Before dawn, Jeok Cheongang wakes Jin Taekyung with cold water and takes him to a nearby mountain to begin training. He creates the Peak-Grade Quest One Step Back, requiring Taekyung to make him retreat one step within thirty minutes. Taekyung launches a sustained spear assault that astonishes Jeok with its speed, strength, and battle-hardened technique, but Jeok ultimately catches, crushes, and melts the spearhead with his flame-covered hands; the challenge remains incomplete.
+- Taekyung's attacks fail to move Jeok Cheongang until he tricks Jeok into agreeing to defend without attacking. Taekyung then channels all forty-five years of his internal energy into One Annihilation, devastating the clearing and forcing Jeok exactly five steps backward.
+- Taekyung collapses after exhausting his strength and internal energy. Jeok catches him, channels warm internal energy into him, admits that he lost, and watches over him as he falls asleep. Jeok privately compares Taekyung's potential with the young Martial God and wishes to help the sleeping dragon obtain its dragon pearl and become a Heavenly Dragon.
 
 ## Open Questions
 
@@ -21,7 +21,7 @@
 - Will Song Il honor his pledge after returning to Zhongnan, and what consequences will follow his confrontation with the Jin Family?
 - Can Taekyung inherit the Fire Gate Clan's legacy and draw out Fire Heaven Sword's true power?
 - What level of progress will Taekyung achieve before Jeok Cheongang leaves?
-- Can Taekyung make Jeok retreat one step and complete the One Step Back Quest?
+- What reward did Taekyung receive for completing One Step Back, and what training will Jeok provide next?
 
 ## Exceptional Decision
 
@@ -32,7 +32,7 @@
 - Render 대연무장 as “Grand Training Ground” and 종남산 as “Mount Zhongnan.”
 - Render 주모 as “Lady of the House,” 권기 as “Fist Qi,” 화산제일의 기재 as “Huashan's greatest prodigy,” and 사자후 as “lion's roar.”
 - Render 피독지환 as “Poison-Averting Ring,” 철혈도 as “Iron Blood Saber,” 양천상회 as “Yangcheon Merchant Association,” and 마이클 천강 as “Michael Cheongang.”
-- Render 적통 as “orthodox lineage,” 구음절맥 as “Nine Yin Severed Meridians,” and 일보 후퇴 as “One Step Back.”
+- Render 적통 as “orthodox lineage,” 구음절맥 as “Nine Yin Severed Meridians,” 일보 후퇴 as “One Step Back,” 탄지공 as “finger-flicking technique,” 천마 as “Heavenly Demon,” and 천룡 as “Heavenly Dragon.”
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

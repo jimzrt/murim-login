@@ -519,3 +519,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 하 총관 | **Chief Ha** | Surname-and-office form; one of Seok Family Manor's five Outer Stewards. |
 | 외총관 | **Outer Steward** | Senior administrative office at Seok Family Manor. |
 | 일보 후퇴 | **One Step Back** | Peak-Grade Quest requiring Jin Taekyung to make Jeok Cheongang retreat one step. |
+| 탄지공 | **finger-flicking technique** | Head Elder's internal-energy technique, used as a comparison for the stone projectiles. |
+| 천마 | **Heavenly Demon** | Demonic title used in Jeok Cheongang's impossible comparison. |
+| 천룡 | **Heavenly Dragon** | The ideal form Jeok Cheongang wishes Taekyung to become. |
