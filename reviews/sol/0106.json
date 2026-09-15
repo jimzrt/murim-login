@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "That would only be possible if the Jin Family of Taiyuan were the Alliance Leader of Shanxi rather than its hegemon.",
+      "defect": "The political distinction is reversed: Wolhwa says seizing the reward would be possible if the family were Shanxi’s hegemon rather than its Alliance Leader.",
+      "id": "F01",
+      "rationale": "The source explicitly contrasts 패자 with 맹주 in that order, and the distinction drives Wolhwa’s explanation of why the family cannot simply seize territory.",
+      "replacement": "That would only be possible if the Jin Family of Taiyuan were Shanxi’s hegemon rather than its Alliance Leader.",
+      "severity": "critical",
+      "source": "그건 태원진가가 산서성의 맹주(盟主)가 아닌 패자(霸者)일 때나 가능한 이야기예요."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Four hundred and five nyang, along with twenty-three iron coins.”",
+      "defect": "The quantity is mistranslated: 백오 is 105, not 405.",
+      "id": "F02",
+      "rationale": "The inflated bill is specifically 105 nyang and twenty-three iron coins; changing it to 405 materially alters the scene’s financial fact.",
+      "replacement": "“One hundred and five nyang, along with twenty-three iron coins.”",
+      "severity": "critical",
+      "source": "은자 백오 냥 하고도 철전 이십삼 냥입니다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Four days ago was everything we were able to confirm. We are still gathering additional information, but…”",
+      "defect": "The first sentence is grammatically malformed and changes the honorific subject: the source says that what Wolhwa confirmed four days ago remains the entirety of their information.",
+      "id": "F03",
+      "rationale": "확인하신 addresses Wolhwa honorifically as the person who confirmed the information; it does not mean that the subordinate’s group confirmed everything four days ago.",
+      "replacement": "“What you confirmed four days ago is all we have. We’re still gathering additional information, but…”",
+      "severity": "major",
+      "source": "나흘 전에 확인하신 것이 전부입니다. 추가 정보를 수집하고는 있습니다만……."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Ever since we had entered the place, she had probably seen straight through every detail of its inner workings.",
+      "defect": "The possessive subject is changed. The source hyperbolically says Wolhwa can see through the visitors down to their internal organs, not that she understands the inn’s inner workings.",
+      "id": "F04",
+      "rationale": "내부 장기 refers to their internal organs and emphasizes how completely the information merchant has them under observation.",
+      "replacement": "Ever since we entered this place, she had probably seen right through us, down to our innards.",
+      "severity": "major",
+      "source": "이곳에 들어온 후부터 내부 장기까지 훤히 읽히고 있는 거나 마찬가지겠지."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“I got carried away while drawing my sword.”",
+      "defect": "The physical action is altered. Jin Mukyung was performing or practicing his sword technique, not merely drawing the weapon.",
+      "id": "F05",
+      "rationale": "검을 펼치다 means to unfold or display one’s sword technique in this context; reducing it to drawing the sword changes the mechanism by which he cut down five trees.",
+      "replacement": "“I got carried away while practicing my swordsmanship.”",
+      "severity": "major",
+      "source": "검을 펼치다 보니 흥에 취했다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Come with me. To the Mount Heng Sword Sect.”",
+      "defect": "The invitation is recast as a directive to accompany Wolhwa rather than a proposal that they travel together.",
+      "id": "F06",
+      "rationale": "같이 가요 is an inclusive suggestion to go together, matching Wolhwa’s later request to join Taekyung’s party.",
+      "replacement": "“Let’s go together. To the Mount Heng Sword Sect.”",
+      "severity": "minor",
+      "source": "“같이 가요. 항산검문.”"
+    },
+    {
+      "confidence": 0.95,
+      "current": "She’d thrown my own words right back at me.",
+      "defect": "The rendering loses the idiom’s disproportionate-payback joke, which says he gave a small measure and received a much larger one in return.",
+      "id": "F07",
+      "rationale": "A 말 is ten times a 되; the following sentence already explains that Wolhwa returned his own words, so this line should preserve the idiom’s comic escalation.",
+      "replacement": "Talk about getting paid back tenfold.",
+      "severity": "minor",
+      "source": "되로 주고 말로 받았군."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Then let’s do that.”",
+      "defect": "The English sounds as though Wolhwa is agreeing to travel together, creating momentary ambiguity immediately after Taekyung declines.",
+      "id": "F08",
+      "rationale": "Wolhwa is accepting his refusal and dropping the matter, as confirmed by Taekyung’s surprise that she gives up immediately.",
+      "replacement": "“All right, then.”",
+      "severity": "minor",
+      "source": "“그렇게 해요, 그럼.”"
+    },
+    {
+      "confidence": 0.91,
+      "current": "Wolhwa had trained in martial arts to a fairly advanced level among First Rate practitioners.",
+      "defect": "The wording weakens the explicit concept of a mature stage within the First Rate realm and misses the established realm terminology.",
+      "id": "F09",
+      "rationale": "완숙한 경지 describes her attained realm stage, not merely a comparative level of training among a group of practitioners.",
+      "replacement": "Wolhwa had cultivated her martial arts to a fairly mature stage of the First Rate realm.",
+      "severity": "minor",
+      "source": "월화는 일류 중에서도 제법 완숙한 경지까지 무공을 익힌 사람이다."
+    }
+  ],
+  "summary": "Two critical errors reverse the political hierarchy and inflate the final bill from 105 to 405 nyang. Several additional passages alter subjects, actions, or meaningful pragmatic cues.",
+  "version": 1
+}

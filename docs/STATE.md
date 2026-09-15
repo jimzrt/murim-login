@@ -1,17 +1,17 @@
 # Translation State
 
-- Last completed: 105
-- Next chapter: 106
-- Current block: 105–109 (1/5)
-- Latest translation: `translations/0105.md`
-- Latest summary: `summaries/beats/0105.md`
-- Safe profiles through: chapter 105
+- Last completed: 106
+- Next chapter: 107
+- Current block: 105–109 (2/5)
+- Latest translation: `translations/0106.md`
+- Latest summary: `summaries/beats/0106.md`
+- Safe profiles through: chapter 106
 
 ## Current Block
 
-- Jin Taekyung and Hyuk Mujin subdue six armed men who attacked them at the Phoenix Inn. The attackers include two First Rate martial artists, bear crude running-horse tattoos, and appear to belong to an organized wandering-martial-artist group. Taekyung suspects they are mounted bandits.
-- Wolhwa appears at the Phoenix Inn and explains that dozens of mounted-bandit groups operate on the northern plateau and that Lee Cheonbaek made a serious mistake by hiring them. In a private room, she confirms that she is both the Phoenix Inn's proprietress and a courtesan, as well as the Lower District Sect's Shanxi Branch Leader.
-- Wolhwa learns that Taekyung is traveling to the Mount Heng Sword Sect and proposes that she accompany him. Taekyung has not yet accepted the proposal.
+- Wolhwa revealed that the Lower District Sect had a secret pact with the Jin Family of Taiyuan to receive compensation for its wartime assistance against the Mount Heng Sword Sect. She wanted to collect that compensation before the Jin Family peacefully absorbed the sect and hoped to expand the Lower District Sect's influence into northern Shanxi. Taekyung initially refused to accompany her because he did not want to hinder Jin Wikyung's plans.
+- After Jin Mukyung cut down five expensive old pine trees while training, the private residence's bill rose from eighty silver nyang to one hundred and five nyang plus twenty-three iron coins when Wolhwa corrected the manager's undercharge. Unable to pay or obtain credit, Taekyung invited Wolhwa to travel with them to the Mount Heng Sword Sect, and she accepted.
+- After Taekyung left, Wolhwa's subordinate reported that the Lower District Sect had found no evidence explaining his transformation from a Third Rate wastrel into the Sleeping Dragon of Shanxi. Wolhwa canceled the investigation, ordered a gag order concerning Taekyung, and resolved to leave for Mount Heng with no other subordinate.
 
 ## Open Questions
 
@@ -21,8 +21,8 @@
 - Why Kim Hwajong, despite his former instructor status and exceptional ability, now works as a butler remains unexplained.
 - What final disciplinary action will be taken against the Security Team remains unknown.
 - How and why Seong Jinho entered the capsule and emerged inside Taekyung's new house remains unknown.
-- How Lee Seowol will react to the invitation remains unknown.
-- Whether Taekyung will accept Wolhwa's proposal to accompany him remains unknown.
+- How Lee Seowol and the Mount Heng Sword Sect will react to the invitation and merger proposal remains unknown.
+- What compensation or territorial concession Wolhwa will ultimately receive from the Jin Family of Taiyuan remains unresolved.
 
 ## Exceptional Decision
 
@@ -33,7 +33,7 @@
 - Render 봉황객잔 and 계용옥미갱/계용옥미앵 as Phoenix Inn and chicken-and-corn soup.
 - Render 곡도 as curved saber.
 - Render 마적 and 마적단 as mounted bandits and mounted-bandit groups.
-- Preserve Wolhwa's playful Young Master forms when addressing Taekyung.
+- Render 초일류 as master beyond First Rate; preserve Wolhwa's playful Young Master forms for Taekyung and use Young Hero Jin for her 진 소협 address to Mukyung.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
