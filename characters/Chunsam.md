@@ -1,6 +1,6 @@
 # Chunsam (춘삼)
 
-- **Safe through:** Chapter 109
+- **Safe through:** Chapter 120
 - **Aliases:** None
 - **Role:** First Rate Lower District Sect martial artist who posed as the carriage driver for Wolhwa's group
 - **Personality:** Silent, disciplined, and lethal; obeys Wolhwa's instructions without hesitation

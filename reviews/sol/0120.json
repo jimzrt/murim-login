@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“First, give me back my property.”",
+      "defect": "The draft changes Taekyung’s statement that he will retrieve his sword into an instruction for Pung Yang to return it.",
+      "id": "F01",
+      "rationale": "Taekyung immediately performs the action himself by pulling the sword from Pung Yang’s chest.",
+      "replacement": "“First, I’m taking my property back.”",
+      "severity": "critical",
+      "source": "“일단 내 물건부터 돌려받고.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "By the time the two-hour search was over, Lee Seowol’s body was soaked in blood.",
+      "defect": "The search duration is halved: two shichen equal approximately four hours, not two.",
+      "id": "F02",
+      "rationale": "The source explicitly gives the duration as 두 시진, preserving the quantity is required.",
+      "replacement": "By the time the four-hour search was over, Lee Seowol’s body was soaked in blood.",
+      "severity": "critical",
+      "source": "장장 두 시진에 걸친 수색 작업이 끝났을 때쯤, 이소월의 몸은 핏물로 흠뻑 젖어 있었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Her broken fingernails dug into her flesh as she drew her bowstring, and blood seeped out, but she felt no pain.",
+      "defect": "The draft makes Lee Seowol draw her bowstring in the present moment, whereas the source identifies her nails as having been broken from drawing the bowstring; she is currently clenching her fist.",
+      "id": "F03",
+      "rationale": "This preserves the causal origin of the damaged nails and the current physical action established by the preceding sentence.",
+      "replacement": "Her fingernails, broken from drawing the bowstring, dug into her flesh as she clenched her fist. Blood seeped out, but she felt no pain.",
+      "severity": "critical",
+      "source": "활시위를 당기며 깨진 손톱이 살을 파고들며 피가 배어 나왔지만 고통도 느끼지 못했다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "To be precise, if not for the Quest rewards, half of them might have been preparing funerals.",
+      "defect": "The draft makes half of the wounded prepare funerals rather than conveying that funerals might have been held for half of them because they would have died.",
+      "id": "F04",
+      "rationale": "The surrounding explanation credits the healing rewards with preventing the wounded from dying; the current subject assignment obscures that consequence.",
+      "replacement": "To be precise, if not for the Quest rewards, there might have been funerals for half of them.",
+      "severity": "major",
+      "source": "정확히 말하면 퀘스트 보상이 아니었으면 저들 중 절반은 초상을 치렀을지도 모르겠다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The surviving martial artists of the Mount Heng Sword Sect gripped their weapons with murderous eyes.",
+      "defect": "“With murderous eyes” is an unnatural attachment and does not use the established rendering of 살기.",
+      "id": "F05",
+      "rationale": "The source describes killing intent suffusing their gazes, and “killing intent” is the binding terminology.",
+      "replacement": "The surviving martial artists of the Mount Heng Sword Sect gripped their weapons, their eyes brimming with killing intent.",
+      "severity": "major",
+      "source": "살아남은 항산검문의 무인들이 살기 어린 눈빛으로 각자의 병장기를 움켜쥐었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Body-Protecting Qi was an invincible armor that could not even scratch under anything short of powerful Sword Energy.",
+      "defect": "The sentence is grammatically malformed and makes the armor sound like the agent unable to scratch something else.",
+      "id": "F06",
+      "rationale": "The source says that only powerful Sword Energy can damage the defensive barrier.",
+      "replacement": "Body-Protecting Qi was invincible armor that nothing short of powerful Sword Energy could put so much as a scratch on.",
+      "severity": "minor",
+      "source": "호신강기는 강력한 검기(劍氣)가 아닌 이상 생채기 하나 낼 수 없는 무적의 갑옷."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Pung Yang realized that his own death had taken a great stride toward him.",
+      "defect": "“Had taken a great stride toward him” is a conspicuous Korean-syntax calque rather than natural English.",
+      "id": "F07",
+      "rationale": "The replacement naturally conveys the source image of death having drawn suddenly and imminently close without changing the meaning.",
+      "replacement": "Pung Yang realized that his own death was almost upon him.",
+      "severity": "minor",
+      "source": "풍양은 자신의 죽음이 코앞으로 성큼 다가왔음을 깨달았다."
+    }
+  ],
+  "summary": "Several action, quantity, consequence, terminology, and natural-English issues are actionable.",
+  "version": 1
+}
