@@ -60,8 +60,8 @@ const previously = await loadPreviousSummary(entry.data.chapter);
     <article class="prose" data-pagefind-body>
       <Content />
     </article>
-    <Remark42 chapter={entry.data.chapter} title={entry.data.title} />
     <ChapterNav previous={previous} next={next} />
+    <Remark42 chapter={entry.data.chapter} title={entry.data.title} />
   </main>
   <ChapterDock previous={previous} next={next} />
 </Base>
