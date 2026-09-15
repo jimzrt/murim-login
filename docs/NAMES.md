@@ -460,3 +460,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 홍소칠 | **Hong Sochil** | One of the youths who tried to take Jangcheon's dumpling. |
 | 소우평 | **So U-pyeong** | One of the youths who tried to take Jangcheon's dumpling. |
 | 보옥 | **Treasured Jade** | Missing Fire Gate Clan treasure sought by Jeok Cheongang. |
+| 우황태 | **Woo Hwangtae** | Chief of the Seongun Escort Bureau and Woo Jintae's father. |
+| 수문각 | **Gate Guard Pavilion** | Jin Family gate complex at the main entrance. |
+| 수문위사 | **gate guard** | Jin Family guard stationed at the gate. |
+| 장주 | **Lord** | Title used for one of the Five Gates heads, as in 태 장주. |
