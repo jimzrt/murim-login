@@ -152,3 +152,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 봉황객잔 | **Phoenix Inn** | Famous Shanxi inn with luxurious lodging, imperial-court cuisine, and a beautiful proprietress. |
 | 계용옥미갱 | **chicken-and-corn soup** | Egg-thickened corn soup. |
 | 계용옥미앵 | **chicken-and-corn soup** | Source spelling variant of 계용옥미갱 for the same dish. |
+| 광수 | **Gwangsu** | First attacker at the Phoenix Inn; identified by the others after Taekyung punches him. |
