@@ -233,3 +233,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 선천지기 | **innate qi** | Vital energy said to be damaged by the pill's aftereffects. |
 | 소음인 | **Soeumin** | One of the constitutional types in Sasang medicine. |
 | 태양인 | **Taeyangin** | One of the constitutional types in Sasang medicine. |
+| 주신 | **God of Drinking** | Wipeng's drinking epithet. |
+| 야왕 | **Night King** | Rumored epithet for Jin Taekyung in Taiyuan's red-light district. |
+| 화북 | **North China** | Regional designation used when discussing Shanxi drinking culture. |
+| 산서제일가 | **foremost family in Shanxi** | Description of the Jin Family of Taiyuan's standing. |
