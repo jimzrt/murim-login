@@ -257,3 +257,12 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 빙당호로 | **candied hawthorn skewers** | Traditional fruit skewers coated in hardened sugar; explained in a footnote. |
 | 하북 | **Hebei** | Province where Hyuk Family Textile Shop has a branch. |
 | 혁가 포목점 | **Hyuk Family Textile Shop** | Taiyuan textile shop owned by Hyuk Mujin's parents; the largest in Taiyuan, with branches in Henan and Hebei. |
+| 홍화객잔 | **Honghwa Inn** | Inn where Taekyung, Mujin, and Cheongpung dine. |
+| 메구미 | **Megumi** | Japanese name used in Taekyung's joke about the abbreviated dish name. |
+| 산니백육 | **Garlic Pork** | Boiled pork sliced thin and served with garlic sauce. |
+| 어향육사 | **Fish-Fragrant Shredded Pork** | Shredded pork dish. |
+| 경장육사 | **Beijing Sauce Shredded Pork** | Shredded pork dish. |
+| 규화계 | **Beggar's Chicken** | Named inn dish. |
+| 매구 | **Maegu** | Waiter's shortened name for Maechae Guyuk. |
+| 매채구육 | **Maechae Guyuk** | Pork belly with preserved mustard greens; the abbreviation is explained in a footnote. |
+| 개방 | **Beggars' Sect** | Murim organization counted among the Nine Sects and One Gang. |

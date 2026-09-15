@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "“May I order some alcohol? I’ve never had any before.”\n\n“…”\n\nThis kid had a lot of things he had never tried.",
+      "defect": "Taekyung’s spoken permission to order alcohol is omitted and replaced by silence, changing his response and weakening the setup for Cheongpung choosing the cheapest bottle.",
+      "id": "F01",
+      "rationale": "The source explicitly has Taekyung pause and then grant permission; the ellipsis is not his entire response.",
+      "replacement": "“May I order some alcohol? I’ve never had any before.”\n\n“…Order as much as you like.”\n\nThis kid had a lot of things he had never tried.",
+      "severity": "major",
+      "source": "“술 좀 시켜도 될까요? 제가 아직 술을 못 먹어 봐서.”\n\n“……얼마든지 시키세요.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“You must have been… pretty hungry.”",
+      "defect": "The draft drops Taekyung’s comic self-correction from “a little” to “very,” an intentional pragmatic shift prompted by Cheongpung’s voracious eating.",
+      "id": "F02",
+      "rationale": "좀…… 많이 deliberately changes the degree mid-sentence rather than merely pausing before a single description.",
+      "replacement": "“You must’ve been a little… very hungry.”",
+      "severity": "minor",
+      "source": "“배가 좀…… 많이 고프셨나 보네.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "My grandfather lived alone in the mountains his entire life, too.",
+      "defect": "The simple past can imply that Cheongpung’s grandfather is dead or no longer lives there, although the following conversation establishes that he is alive and still moving between residences.",
+      "id": "F03",
+      "rationale": "The grandfather is subsequently described in the present tense as continuing to avoid visitors, so the English should preserve the continuing state.",
+      "replacement": "My grandfather has lived alone in the mountains his entire life, too.",
+      "severity": "minor",
+      "source": "저희 할아버지도 산에서 평생 혼자 사셨는걸요."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Plum Pork.”\n\n“Plum Pork?”\n\nI knew Megumi, who lived in the island country next door, but this was my first time hearing of Plum Pork. The waiter answered irritably, as though I had inconvenienced him.\n\n“Preserved Vegetable Pork.”\n\n“…”\n\nNow he was shortening the names, too.\n\nWhile I stood there dumbfounded, Cheongpung was rapidly emptying the plates.",
+      "defect": "Translating 매구 as “Plum Pork” destroys the sound-based Megumi joke and no longer reads as a recognizable abbreviation of the expanded dish name. The passage also adds that seated Taekyung “stood there,” an action absent from the source.",
+      "id": "F04",
+      "rationale": "The humor depends mechanically on 매구 being both an abbreviation of 매채구육 and phonetically close to 메구미; the localized dish names preserve neither relationship.",
+      "replacement": "“Maegu.”\n\n“Maegu?”\n\nI’d heard of Megumi from the island country next door, but Maegu was a new one to me. Catching my look, the waiter answered as if explaining it was a chore.\n\n“Maechae Guyuk.”[^2]\n\n“…”\n\nNow he was even abbreviating dish names.\n\nWhile I stared at him in disbelief, Cheongpung rapidly emptied the plates.\n\n[^2]: *Maechae Guyuk* is pork belly with preserved mustard greens. The waiter shortens its Korean name to *Maegu*, which sounds like the beginning of the Japanese name Megumi.",
+      "severity": "major",
+      "source": "“매구.”\n\n“매구?”\n\n옆 동네 섬나라 사는 메구미는 알아도 매구는 처음 들어 본다. 내 시선에 점소이가 귀찮다는 듯이 대답했다.\n\n“매채구육(梅采拘肉)이요.”\n\n“…….”\n\n이제는 하다 하다 줄임말까지 쓰는구나.\n\n내가 어이없어하는 사이 청풍은 빠르게 음식 접시를 비워 나가고 있었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Is it against the law not to know?”\n\n“Of course it is. The Second Young Master is one of them, after all.”",
+      "defect": "The draft invents a law-based joke absent from the source and makes Mujin affirm that knowing the term is literally required by law.",
+      "id": "F05",
+      "rationale": "The Korean exchange is a blunt argument over whether Taekyung is allowed not to know, without any reference to legality.",
+      "replacement": "“Can’t I just not know?”\n\n“Of course you can’t. The Second Young Master is one of them, after all.”",
+      "severity": "minor",
+      "source": "“모르면 안 되냐?”\n\n“당연히 안 되죠. 당장 이공자님이 십봉룡인데.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Everything was my first time eating it, so I made a spectacle of myself in front of my Benefactors. I hope I wasn’t too excessive…”",
+      "defect": "“Everything was my first time eating it” is ungrammatical and “too excessive” is an unnatural collocation.",
+      "id": "F06",
+      "rationale": "The replacement naturally conveys that every dish was new to Cheongpung and preserves his polite concern that he behaved immoderately.",
+      "replacement": "“It was my first time trying any of these dishes, so I made a spectacle of myself in front of my Benefactors. I hope I didn’t overdo it…”",
+      "severity": "minor",
+      "source": "“다 처음 먹어 보는 음식이라 은인들 앞에서 추태를 보였습니다. 제가 너무 과하진 않았는지…….”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“If it wouldn’t be too much trouble, may I have just one candied hawthorn skewer?”",
+      "defect": "The required first-use explanatory footnote for 빙당호로 is missing.",
+      "id": "F07",
+      "rationale": "The binding terminology explicitly requires candied hawthorn skewers to receive an explanatory footnote.",
+      "replacement": "“If it wouldn’t be too much trouble, may I have just one candied hawthorn skewer?[^1]”\n\n[^1]: Candied hawthorn skewers are a traditional Chinese snack made by coating skewered fruit in hardened sugar.",
+      "severity": "minor",
+      "source": "“실례가 안 된다면 빙당호로 하나만 먹어도 되겠습니까?”"
+    }
+  ],
+  "summary": "Two major fidelity issues and five localized omissions or wording problems are actionable.",
+  "version": 1
+}
