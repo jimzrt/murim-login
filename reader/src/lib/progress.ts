@@ -6,9 +6,9 @@ const CHAPTER = /^\d{4}$/;
 export interface TranslationProgress {
   sourceTotal: number;
   translated: number[];
-  mastered: number[];
+  polished: number[];
   translatedCount: number;
-  masteredCount: number;
+  polishedCount: number;
   sourceMax: number;
 }
 
@@ -64,13 +64,13 @@ export function loadTranslationProgress(): TranslationProgress {
   const root = repoRoot();
   const source = chapterNumbers(path.join(root, "source"), ".txt");
   const translated = chapterNumbers(path.join(root, "translations"), ".md");
-  const mastered = translated.filter((chapter) => isPromoted(root, chapter));
+  const polished = translated.filter((chapter) => isPromoted(root, chapter));
   return {
     sourceTotal: source.length,
     translated,
-    mastered,
+    polished,
     translatedCount: translated.length,
-    masteredCount: mastered.length,
+    polishedCount: polished.length,
     sourceMax: source.length ? source[source.length - 1]! : 0,
   };
 }

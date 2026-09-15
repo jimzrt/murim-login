@@ -7,8 +7,8 @@ import {
 
 const progress = loadTranslationProgress();
 const translatedPct = percent(progress.translatedCount, progress.sourceTotal);
-const masteredPct = percent(progress.masteredCount, progress.sourceTotal);
-const statusHint = `${progress.translatedCount} of ${progress.sourceTotal} translated (${translatedPct}%) · ${progress.masteredCount} mastered (${masteredPct}%)`;
+const polishedPct = percent(progress.polishedCount, progress.sourceTotal);
+const statusHint = `${progress.translatedCount} of ${progress.sourceTotal} translated (${translatedPct}%) · ${progress.polishedCount} polished (${polishedPct}%)`;
 ---
 
 <details class="site-intro translation-progress">
@@ -37,21 +37,21 @@ const statusHint = `${progress.translatedCount} of ${progress.sourceTotal} trans
         >
       </div>
       <div class="translation-progress__row">
-        <span class="translation-progress__label">Mastered</span>
+        <span class="translation-progress__label">Polished</span>
         <div
           class="translation-progress__track"
           role="progressbar"
           aria-valuemin="0"
           aria-valuemax="100"
-          aria-valuenow={masteredPct}
-          aria-label={`${progress.masteredCount} of ${progress.sourceTotal} mastered`}
+          aria-valuenow={polishedPct}
+          aria-label={`${progress.polishedCount} of ${progress.sourceTotal} polished`}
         >
           <span
-            class="translation-progress__fill translation-progress__fill--mastered"
-            style={`width: ${masteredPct}%`}></span>
+            class="translation-progress__fill translation-progress__fill--polished"
+            style={`width: ${polishedPct}%`}></span>
         </div>
         <span class="translation-progress__count"
-          >{progress.masteredCount}/{progress.sourceTotal}</span
+          >{progress.polishedCount}/{progress.sourceTotal}</span
         >
       </div>
     </div>
@@ -62,9 +62,9 @@ const statusHint = `${progress.translatedCount} of ${progress.sourceTotal} trans
         <dd>{formatRanges(progress.translated)}</dd>
       </div>
       <div>
-        <dt>Mastered chapters</dt>
+        <dt>Polished chapters</dt>
         <dd
-          >{progress.masteredCount ? formatRanges(progress.mastered) : "none yet"}</dd
+          >{progress.polishedCount ? formatRanges(progress.polished) : "none yet"}</dd
         >
       </div>
     </dl>

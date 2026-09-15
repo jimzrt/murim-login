@@ -11,7 +11,7 @@ import { loadTranslationProgress } from "../../lib/progress";
 
 export async function getStaticPaths() {
   const entries = await allChapters();
-  const mastered = new Set(loadTranslationProgress().mastered);
+  const polished = new Set(loadTranslationProgress().polished);
   return entries.map((entry) => {
     const { previous, next } = neighbors(entries, entry.data.chapter);
     return {
@@ -20,7 +20,7 @@ export async function getStaticPaths() {
         entry,
         previous: toRef(previous),
         next: toRef(next),
-        mastered: mastered.has(entry.data.chapter),
+        polished: polished.has(entry.data.chapter),
       },
     };
   });
@@ -30,10 +30,10 @@ interface Props {
   entry: ChapterEntry;
   previous: ReturnType<typeof toRef>;
   next: ReturnType<typeof toRef>;
-  mastered: boolean;
+  polished: boolean;
 }
 
-const { entry, previous, next, mastered } = Astro.props;
+const { entry, previous, next, polished } = Astro.props;
 const { Content } = await render(entry);
 const minutes = readingMinutes(entry.data.wordCount);
 const description = `${entry.data.title} — about ${minutes} min read. A translation of Murim Login.`;
@@ -41,16 +41,16 @@ const previously = await loadPreviousSummary(entry.data.chapter);
 ---
 
 <Base title={`${entry.data.title} — Murim Login`} chapter={entry.data.chapter} description={description}>
-  <main class="wrap chapter-page" data-page="chapter" data-chapter={entry.data.chapter} data-mastered={mastered ? "1" : "0"}>
+  <main class="wrap chapter-page" data-page="chapter" data-chapter={entry.data.chapter} data-polished={polished ? "1" : "0"}>
     <header class="chapter-header">
       <p class="eyebrow">Murim Login</p>
       <h1 data-pagefind-body data-pagefind-meta="title">{entry.data.title}</h1>
       <p class="reading-meta">
         {entry.data.chapter} · {minutes} min read
-        {mastered && (
+        {polished && (
           <>
             {" · "}
-            <span class="chapter-badge chapter-badge--mastered">Mastered</span>
+            <span class="chapter-badge chapter-badge--polished">Polished</span>
           </>
         )}
       </p>
