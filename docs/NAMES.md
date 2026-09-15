@@ -447,3 +447,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 꼰대 | **boomer** | Modern slang for a hidebound older person; used by Cheongpung. |
 | 꼰머 | **boomer-brain** | Related slang term Cheongpung says has a similar meaning. |
 | 국밥 | **gukbap** | Korean dish of rice served in hot soup; footnoted in the reading copy. |
+| 부마도위 | **Imperial Son-in-Law** | Imperial title mentioned by Jang Taebo. |
+| 천하오대세가 | **Five Great Families** | Expanded source form of 오대세가. |
