@@ -1,18 +1,18 @@
 # Translation State
 
-- Last completed: 187
-- Next chapter: 188
-- Current block: 185–189 (3/5)
-- Latest translation: `translations/0187.md`
-- Latest summary: `summaries/beats/0187.md`
-- Safe profiles through: chapter 187
+- Last completed: 188
+- Next chapter: 189
+- Current block: 185–189 (4/5)
+- Latest translation: `translations/0188.md`
+- Latest summary: `summaries/beats/0188.md`
+- Safe profiles through: chapter 188
 
 ## Current Block
 
-- Jin Wikyung publicly recounted the Jin Family of Taiyuan's three-hundred-year history, declared that the family had survived every hardship, and led its martial artists in pledging to remain in Shanxi and establish a new foundation.
-- Lee Seowol arrived with Cheol Mubaek and the Mount Heng Sword Sect, asked to join the Jin Family's path, and swore the sect's loyalty. Jin Wikyung accepted the Mount Heng Sword Sect as the Jin Family's vassal.
-- After the ceremony, twenty-five-year-old Chulwoo became infatuated with eighteen-year-old Lee Seowol, declared that he loved her, imagined marrying her and raising three children, and was revealed to have made similar romantic declarations before.
-- Lee Seowol approached Taekyung at the end of the chapter and addressed him as Young Master Jin.
+- Lee Seowol joins the banquet and shows greater maturity and resolve after the destruction of the Mount Heng Sword Sect and her oath of loyalty. Chulwoo awkwardly tries to present himself as Taekyung's longtime friend so he can approach Seowol, but Taekyung exposes his intentions, and Seowol teasingly asks whether Taekyung considers her beautiful.
+- Jin Wikyung uses the banquet to reassure former neutrals that the Jin Family will not hold their wartime choices against them, prompting new oaths of loyalty and a large accumulation of gifts. He then accepts Choo Dohwan's request for a duel and opens the event to all challengers, offering one hundred silver nyang and a fine weapon to the final victor.
+- Level 65 Choo Dohwan of the Iron Blood Sect challenges Chulwoo, but Level 95 Chulwoo defeats him in roughly fifty exchanges. Chulwoo then defeats Hwang Jinsu of Hwang Family Manor and many other challengers, before publicly selecting Taekyung as his next opponent.
+- The System creates the Quest There Is a Man Who Loved You So Much after Chulwoo names Taekyung as his duel opponent and warns that refusing will incur a massive penalty.
 
 ## Open Questions
 
@@ -23,7 +23,7 @@
 - When will Jang Taebo complete Taekyung's commissioned weapon?
 - Who has the Treasured Jade, or was it lost by Jopil?
 - What consequences will follow Woo Hwangtae's conflict with Chulwoo and the Jin Family?
-- Will Taekyung help Baek Museong return Cheongpung to Huashan?
+- Will Taekyung accept Chulwoo's duel and the associated Quest?
 
 ## Exceptional Decision
 
