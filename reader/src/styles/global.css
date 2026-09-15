@@ -523,6 +523,31 @@ pagefind-modal pagefind-modal-header .pf-input:focus-visible {
   text-wrap: pretty;
 }
 
+.hero-title {
+  display: grid;
+  gap: 0.35rem;
+  justify-items: center;
+}
+
+.hero-byline {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.88rem;
+  letter-spacing: 0.02em;
+}
+
+.hero-byline a {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px solid color-mix(in srgb, var(--muted) 45%, transparent);
+}
+
+.hero-byline a:hover,
+.hero-byline a:focus-visible {
+  color: var(--ink);
+  border-bottom-color: var(--ink);
+}
+
 .lede,
 .reading-meta,
 .eyebrow,
