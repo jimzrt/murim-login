@@ -320,3 +320,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 주표 | **Zhu Bao** | Personal name of Prince Shangshan. |
 | 근위대 | **royal guard** | Guard unit protecting Prince Shangshan. |
 | 근위대 갑옷 세트 | **Royal Guard Armor Set** | Armor set Li Feng offers Cheongpung. |
+| 황태자 | **Crown Prince** | The Emperor's older brother in Taekyung's recollection. |
