@@ -10,18 +10,9 @@ import sys
 import tempfile
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[1]
-TRANSLATIONS = ROOT / "translations"
+from tools.line_report import ROOT, find_quote, reference_context
+
 MODEL = "openai-codex/gpt-5.6-luna"
-
-
-def find_quote(quote: str, directory: Path = TRANSLATIONS) -> list[tuple[int, Path, int]]:
-    matches = []
-    for path in sorted(directory.glob("[0-9][0-9][0-9][0-9].md")):
-        count = path.read_text(encoding="utf-8").count(quote)
-        if count:
-            matches.append((int(path.stem), path, count))
-    return matches
 
 
 def choose_match(matches: list[tuple[int, Path, int]]) -> tuple[int, Path, int]:
@@ -39,37 +30,6 @@ def choose_match(matches: list[tuple[int, Path, int]]) -> tuple[int, Path, int]:
             return matches[choice - 1]
         except ValueError:
             print(f"Enter a number from 1 to {len(matches)}.", file=sys.stderr)
-
-
-def reference_context(number: int, root: Path = ROOT) -> str:
-    master = root / "reviews" / "mastering" / f"{number:04d}" / "master-packet.md"
-    if master.is_file():
-        text = master.read_text(encoding="utf-8")
-        start = text.find("## Binding project rules")
-        end = text.find("\n## Current accepted English baseline", start)
-        if start >= 0 and end >= 0:
-            return text[start:end].strip()
-
-    archived = root / ".work" / f"{number:04d}" / "context.md"
-    if archived.is_file():
-        text = archived.read_text(encoding="utf-8")
-        marker = "## Bounded active continuity"
-        start = text.find(marker)
-        if start < 0:
-            raise ValueError(f"invalid chapter-safe context packet: {archived}")
-        rules = (root / "RULES.md").read_text(encoding="utf-8").strip()
-        polish = (root / "POLISH.md").read_text(encoding="utf-8").strip()
-        return f"## Binding project rules\n\n{rules}\n\n## Project polish guidance\n\n{polish}\n\n{text[start:].strip()}"
-
-    if root != ROOT:
-        raise ValueError(f"missing chapter-safe context packet: {archived}")
-    from tools.mastering import exact_glossary, master_packet
-
-    source = (root / "source" / f"{number:04d}.txt").read_text(encoding="utf-8")
-    text = master_packet(number, source, "", exact_glossary(source))
-    start = text.index("## Binding project rules")
-    end = text.index("\n## Current accepted English baseline", start)
-    return text[start:end].strip()
 
 
 def build_prompt(number: int, path: Path, translation: str, quote: str, note: str, reference: str) -> str:

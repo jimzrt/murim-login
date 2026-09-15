@@ -1,0 +1,32 @@
+name: Report a line
+description: Flag an awkward, inconsistent, or wrong passage in the English translation.
+title: "Chapter N: report line"
+labels: ["line-report"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Prefer the in-reader **Report line** control when you can; it fills these fields for you.
+        Quote the English as it appears on the page (exact text).
+  - type: input
+    id: chapter
+    attributes:
+      label: Chapter
+      description: Accepted chapter number, for example 62.
+      placeholder: "62"
+    validations:
+      required: true
+  - type: textarea
+    id: quote
+    attributes:
+      label: Quoted line
+      description: Exact English from the chapter. Keep it under 800 characters.
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What's wrong
+      description: Awkward, inconsistent, mistranslated, typo, or something else — plus an optional suggested fix.
+    validations:
+      required: true

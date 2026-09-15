@@ -52,6 +52,7 @@ function boot() {
     initSettings();
     initJump();
     initKeys();
+    initReportLine();
     chromeReady = true;
   } else {
     // Persisted jump dialog can survive soft navigations; never leave it open stale.
@@ -59,6 +60,11 @@ function boot() {
     if (jump?.open) {
       jump.close();
     }
+    const report = document.getElementById("report-line-dialog") as HTMLDialogElement | null;
+    if (report?.open) {
+      report.close();
+    }
+    hideReportChip();
   }
   pageAbort?.abort();
   pageAbort = new AbortController();
@@ -66,6 +72,7 @@ function boot() {
   syncProgressChrome();
   initIndex(signal);
   initChapter(signal);
+  initReportSelection(signal);
 }
 
 function defaultState(): ReaderState {
@@ -731,6 +738,9 @@ function initChapter(signal: AbortSignal) {
 
 function initKeys() {
   document.addEventListener("keydown", (event) => {
+    if (event.key === "Escape") {
+      hideReportChip();
+    }
     if (event.target instanceof Element && event.target.closest("input, textarea, select, dialog")) {
       return;
     }
@@ -742,4 +752,142 @@ function initKeys() {
       document.querySelector<HTMLAnchorElement>(`[data-nav="${key}"]`)?.click();
     }
   });
+}
+
+const REPORT_QUOTE_MAX = 800;
+let reportQuote = "";
+let reportChapter = 0;
+
+function reportLineEndpoint(): string {
+  const configured = root.getAttribute("data-report-line-url");
+  if (configured) {
+    return configured;
+  }
+  return `${location.origin}/report-line`;
+}
+
+function hideReportChip() {
+  const chip = document.getElementById("report-line-chip");
+  if (chip) {
+    chip.hidden = true;
+  }
+}
+
+function chapterProseSelection(): { text: string; rect: DOMRect } | null {
+  const page = document.querySelector<HTMLElement>("[data-page='chapter']");
+  const prose = page?.querySelector("article.prose");
+  if (!page || !prose) {
+    return null;
+  }
+  const selection = document.getSelection();
+  if (!selection || selection.isCollapsed || selection.rangeCount === 0) {
+    return null;
+  }
+  const range = selection.getRangeAt(0);
+  const ancestor = range.commonAncestorContainer;
+  const node = ancestor instanceof Element ? ancestor : ancestor.parentElement;
+  if (!node || !prose.contains(node) || node.closest(".previously")) {
+    return null;
+  }
+  const text = selection.toString().replace(/\s+/g, " ").trim();
+  if (!text) {
+    return null;
+  }
+  return { text: text.slice(0, REPORT_QUOTE_MAX), rect: range.getBoundingClientRect() };
+}
+
+function paintReportChip() {
+  const dialog = document.getElementById("report-line-dialog") as HTMLDialogElement | null;
+  const chip = document.getElementById("report-line-chip") as HTMLButtonElement | null;
+  if (dialog?.open) {
+    hideReportChip();
+    return;
+  }
+  const selected = chapterProseSelection();
+  if (!chip || !selected) {
+    hideReportChip();
+    return;
+  }
+  chip.hidden = false;
+  const top = Math.min(window.innerHeight - 48, selected.rect.bottom + 8);
+  const left = Math.min(window.innerWidth - 128, Math.max(8, selected.rect.left));
+  chip.style.position = "fixed";
+  chip.style.top = `${top}px`;
+  chip.style.left = `${left}px`;
+}
+
+function initReportLine() {
+  const dialog = document.getElementById("report-line-dialog") as HTMLDialogElement | null;
+  const chip = document.getElementById("report-line-chip");
+  const close = document.getElementById("report-line-close");
+  const submit = document.getElementById("report-line-submit") as HTMLButtonElement | null;
+  const note = document.getElementById("report-line-note") as HTMLTextAreaElement | null;
+  const quoteEl = document.getElementById("report-line-quote");
+  const status = document.getElementById("report-line-status");
+  if (!dialog || !chip || !submit || !note || !quoteEl || !status) {
+    return;
+  }
+
+  const setStatus = (message: string, error = false) => {
+    status.textContent = message;
+    status.classList.toggle("is-error", error);
+  };
+
+  chip.addEventListener("click", () => {
+    const selected = chapterProseSelection();
+    const page = document.querySelector<HTMLElement>("[data-page='chapter']");
+    const chapter = Number(page?.dataset.chapter);
+    if (!selected || !Number.isInteger(chapter)) {
+      return;
+    }
+    reportQuote = selected.text;
+    reportChapter = chapter;
+    quoteEl.textContent = selected.text;
+    note.value = "";
+    submit.disabled = false;
+    setStatus("");
+    hideReportChip();
+    dialog.showModal();
+    note.focus();
+  });
+
+  close?.addEventListener("click", () => dialog.close());
+
+  submit.addEventListener("click", async () => {
+    if (!reportQuote || !reportChapter) {
+      setStatus("Select a passage in the chapter first.", true);
+      return;
+    }
+    submit.disabled = true;
+    setStatus("Sending…");
+    try {
+      const response = await fetch(reportLineEndpoint(), {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          chapter: reportChapter,
+          quote: reportQuote,
+          note: note.value.trim(),
+          url: location.href,
+        }),
+      });
+      const payload = (await response.json().catch(() => ({}))) as { number?: number; error?: string };
+      if (!response.ok) {
+        throw new Error(payload.error || `Could not send report (${response.status})`);
+      }
+      const number = payload.number ? ` as #${payload.number}` : "";
+      setStatus(`Report submitted${number}.`);
+    } catch (error) {
+      submit.disabled = false;
+      setStatus(error instanceof Error ? error.message : "Could not send report.", true);
+    }
+  });
+}
+
+function initReportSelection(signal: AbortSignal) {
+  const onChange = () => paintReportChip();
+  document.addEventListener("selectionchange", onChange, { signal });
+  window.addEventListener("scroll", hideReportChip, { signal, passive: true });
+  window.addEventListener("resize", hideReportChip, { signal });
+  signal.addEventListener("abort", hideReportChip);
 }
