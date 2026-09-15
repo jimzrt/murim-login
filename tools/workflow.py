@@ -1328,13 +1328,29 @@ def _commit_names(commit: str) -> tuple[str, set[str]]:
     return resolved, names
 
 
-def _register_commit(names: set[str], required: set[str], allowed: set[str]) -> None:
-    missing = required.difference(names)
+def _register_commit(
+    names: set[str], required: set[str], allowed: set[str], *, tree_names: set[str] | None = None
+) -> None:
+    missing = required.difference(tree_names if tree_names is not None else names)
     if missing:
         raise SystemExit("commit is missing: " + ", ".join(sorted(missing)))
     unexpected = names.difference(allowed)
     if unexpected:
         raise SystemExit("commit has unexpected paths: " + ", ".join(sorted(unexpected)))
+
+
+def _commit_tree_names(commit: str) -> set[str]:
+    return {
+        name
+        for name in subprocess.run(
+            ["git", "ls-tree", "-r", "--name-only", commit],
+            cwd=ROOT,
+            text=True,
+            capture_output=True,
+            check=True,
+        ).stdout.splitlines()
+        if name
+    }
 
 
 def command_committed(number: int, commit: str) -> None:
@@ -1356,6 +1372,7 @@ def command_committed(number: int, commit: str) -> None:
         names,
         master_required_paths(number, p),
         master_allowed_paths(number, sorted(names)) | accept_allowed_paths(number, p),
+        tree_names=_commit_tree_names(resolved),
     )
     save(state, p, "MASTERED_COMMITTED", master_commit=resolved)
 
