@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "I may be the first man ever to treat you so casually, but please don’t fall in love with me. I’m busy enough loving one Song-i.",
+      "defect": "The established name Song Song is rendered as Song-i, creating terminology drift and making the line appear to refer to a different character.",
+      "id": "C01",
+      "rationale": "The checkpoint summary and durable state consistently identify Taekyung’s beloved as Song Song. The replacement restores that established name while preserving the exclusivity expressed by “one.”",
+      "replacement": "I may be the first man ever to treat you so casually, but please don’t fall in love with me. I’m busy enough loving my one and only Song Song.",
+      "severity": "major",
+      "source": "Chapter 134, Woo Jintae’s beating"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“If it wouldn’t be too much trouble, may I have just one candied hawthorn skewer?[^1]”\n\n[^1]: Candied hawthorn skewers are a traditional Chinese snack made by coating skewered fruit in hardened sugar.",
+      "defect": "The candied hawthorn footnote is repeated immediately after the term was already defined in Chapter 131.",
+      "id": "C02",
+      "rationale": "The binding footnote rules prohibit repeating a definition unnecessarily, and consecutive reading copies require no second explanation here.",
+      "replacement": "“If it wouldn’t be too much trouble, may I have just one candied hawthorn skewer?”",
+      "severity": "minor",
+      "source": "Chapter 132, opening"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Born the sole male heir the Seongun Escort Bureau’s family had produced in three generations, he had been pampered and revered his entire life.",
+      "defect": "The possessive phrase “the Seongun Escort Bureau’s family” is awkward and suggests that the organization itself possesses a family.",
+      "id": "C03",
+      "rationale": "The replacement expresses the same lineage fact in natural English without changing Woo Jintae’s status or upbringing.",
+      "replacement": "As the only male heir born into the family behind the Seongun Escort Bureau in three generations, he had been pampered and revered his entire life.",
+      "severity": "minor",
+      "source": "Chapter 134, Woo Jintae refusing to apologize"
+    }
+  ],
+  "summary": "The packet is coherent and preserves its hooks, tone, and active continuity. One established character name drifts, Chapter 132 unnecessarily repeats a footnote from the preceding chapter, and one sentence in Chapter 134 has an awkward possessive construction.",
+  "version": 1
+}

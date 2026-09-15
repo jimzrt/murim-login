@@ -279,3 +279,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 명화 | **Myeonghwa** | Name shown in a Level Window; one of the five current Five Gates scions. |
 | 소혜 | **Sohye** | Name shown in a Level Window; one of the five current Five Gates scions. |
 | 진태 | **Jintae** | Level 45 spokesman for the five current Five Gates scions. |
+| 도동파 | **Dodong Sect** | Fabricated sect claimed by Taekyung when Woo Jintae demands his affiliation. |
+| 천진반 | **Tien Shinhan** | Fabricated personal identity claimed by Taekyung. |
+| 왕가장 | **Wang Family Estate** | Family estate whose heir is one of the Five Gates scions; he uses sabers rather than sword arts. |
+| 왕 공자 | **Young Master Wang** | Heir of the Wang Family Estate. |
+| 신 소저 | **Young Lady Shin** | Young woman described as the only daughter of a martial sect. |
