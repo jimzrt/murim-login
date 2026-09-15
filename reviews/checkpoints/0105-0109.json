@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "He definitely said captain, didn’t he?",
+      "defect": "The defeated man said “squad leader,” so changing the title to “captain” within the same scene creates an internal terminology mismatch.",
+      "id": "C01",
+      "rationale": "Using the title that was actually spoken preserves the callback and avoids implying a second rank or position.",
+      "replacement": "He definitely said squad leader, didn’t he?",
+      "severity": "minor",
+      "source": "Chapter 105, Taekyung’s reflection after defeating the mounted-bandit scouts"
+    },
+    {
+      "confidence": 0.96,
+      "current": "As his younger brother, I can’t go around splashing filth on my hyung’s path.",
+      "defect": "The untranslated Korean address “hyung” conflicts with the English-only reading-copy standard and redundantly follows the explicit phrase “his younger brother.”",
+      "id": "C02",
+      "rationale": "The replacement preserves Taekyung’s familial loyalty and refusal to interfere with Jin Wikyung’s plan while reading naturally in contemporary English.",
+      "replacement": "As his younger brother, I can’t go around undermining what he’s trying to accomplish.",
+      "severity": "minor",
+      "source": "Chapter 106, Taekyung declining Wolhwa’s proposal"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Until recently, I was the deputy leader of the Toho Band.",
+      "defect": "“Toho Band” contradicts the packet’s binding rendering “Earth Tiger Band,” which Pung Yang also uses immediately afterward.",
+      "id": "C03",
+      "rationale": "Using the established name makes both references unambiguously identify the same mounted-bandit group.",
+      "replacement": "Until recently, I was the deputy leader of the Earth Tiger Band.",
+      "severity": "minor",
+      "source": "Chapter 109, former deputy leader reporting his affiliation to Pung Yang"
+    },
+    {
+      "confidence": 0.98,
+      "current": "The Red Wind Band is moving south across the plateau. Their numbers are estimated at approximately two hundred.",
+      "defect": "The letter is presented as an isolated plain paragraph rather than as a normal Markdown quotation, unlike the packet’s required treatment of non-System written material.",
+      "id": "C04",
+      "rationale": "A normal blockquote clearly distinguishes the letter from narration without incorrectly presenting it as a System panel.",
+      "replacement": "> The Red Wind Band is moving south across the plateau. Their numbers are estimated at approximately two hundred.",
+      "severity": "minor",
+      "source": "Chapter 109, message delivered by the Lower District Sect’s hawk"
+    },
+    {
+      "confidence": 1.0,
+      "current": "As its leaders despair, the main hall doors suddenly explode, marking the attack’s beginning.",
+      "defect": "The reading copy ends before revealing who destroyed the doors or whether the explosion is the Red Wind Band’s attack, so the summary converts an unresolved cliffhanger into a confirmed event.",
+      "id": "C05",
+      "rationale": "The replacement records the visible event without resolving the packet’s final hook or introducing unsupported certainty.",
+      "replacement": "As its leaders despair, the main hall doors suddenly explode, but the chapter does not reveal who destroyed them.",
+      "severity": "major",
+      "source": "Checkpoint summary, Plot section, final sentence"
+    },
+    {
+      "confidence": 1.0,
+      "current": "The Mount Heng Sword Sect's main hall doors have exploded as the attack begins.",
+      "defect": "The active state prematurely identifies the unexplained door explosion as the beginning of the attack, although Chapter 109 withholds the cause and identity of whoever is outside.",
+      "id": "C06",
+      "rationale": "Durable continuity must preserve the cliffhanger’s uncertainty so later chapters are not constrained by an inference presented as fact.",
+      "replacement": "The Mount Heng Sword Sect's main hall doors have exploded, but who destroyed them remains unknown.",
+      "severity": "major",
+      "source": "Durable state, active_continuity entry for the Mount Heng main hall"
+    }
+  ],
+  "summary": "The reading copies are broadly consistent in voice and continuity, but there are two terminology slips, one untranslated form of address, one quotation-formatting inconsistency, and two places where the checkpoint state prematurely identifies the final door explosion as the Red Wind Band’s attack.",
+  "version": 1
+}

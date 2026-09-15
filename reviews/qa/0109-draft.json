@@ -1,0 +1,47 @@
+{
+  "chapter": 109,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.338,
+    "source_characters": 5665,
+    "source_paragraphs": 178,
+    "translation_characters": 13246,
+    "translation_paragraphs": 179
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "무림",
+        "preferred": "Murim"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "돌파",
+        "preferred": "break through / breakthrough"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "일격",
+        "preferred": "One Strike"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "풍양",
+        "romanization": "pungyang"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
