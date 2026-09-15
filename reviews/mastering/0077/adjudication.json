@@ -1,0 +1,660 @@
+{
+  "chapter": 77,
+  "decisions": [
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H001",
+      "reason": "Naturalizes 술잔을 기울이다 as drinking, but keeps 튀어나오다 as spilling out, which SOL drops.",
+      "replacement": "When two men sit around drinking, all kinds of topics are bound to come spilling out. Money, people, the future…"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H002",
+      "reason": "Favorite is the natural English for 선호하는; BASE’s “the one X preferred” is stiffer."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H003",
+      "reason": "High school sophomore and sophomore in high school are equal; keep BASE."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H004",
+      "reason": "Curly apostrophe matches the chapter’s quotation style."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H005",
+      "reason": "Spoken “and the flowers were in full bloom” fits Jinho’s reminiscence better than the compressed with-phrase."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H006",
+      "reason": "Keeps the conjectural 겠지/-고? on both clauses; SOL turns the bells into a fact.",
+      "replacement": "*You must’ve been dazzled. The bells of heaven must’ve started ringing in your ears—ding, ding, ding?*"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H007",
+      "reason": "Curly apostrophe only; no meaning change."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H008",
+      "reason": "Curly apostrophes only; no meaning change."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H009",
+      "reason": "Curly apostrophes only; no meaning change."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H010",
+      "reason": "Curly apostrophe only; no meaning change."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H011",
+      "reason": "Captures the stammer 이, that BASE drops, and uses English ellipsis."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H012",
+      "reason": "What good is telling you is tauter than what good is it to tell you."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H013",
+      "reason": "Korean keeps 들린다. 종소리가. as one line; BASE already lands the two-sentence beat."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H014",
+      "reason": "Do not split the bells off into a new paragraph; they belong with H013."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H015",
+      "reason": "Dangling is closer to 주렁주렁 매단 than hanging."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H016",
+      "reason": "Set my heart pounding is the more idiomatic rendering of 쿵쾅거렸다."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H017",
+      "reason": "Swallowed hard naturalizes 마른침; lifelong single preserves 모태 솔로, which SOL drops.",
+      "replacement": "I swallowed hard. It felt as though I had spent the past twenty-seven years as a lifelong single just for this day."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H018",
+      "reason": "We’ll live in is a more natural daydream than Our home will be for the noun-phrase fantasy."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H019",
+      "reason": "연애 세포 is the author’s cell metaphor; SOL flattens it to generic instincts."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H020",
+      "reason": "Repeatedly matches 누누이; trying to make the voice low fits the comic strain."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H021",
+      "reason": "Told you about / I said matches 얘기했었잖아 better than the weaker mentioned."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H022",
+      "reason": "지그시 is gently, not slowly; SOL’s for cutting in fixes BASE’s who-on-foot grammar.",
+      "replacement": "I gently stepped on Im Kkeokjeong’s foot for cutting in out of nowhere, then opened my mouth again."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H023",
+      "reason": "바로 그 is the very; SOL omits it."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H024",
+      "reason": "반드시 is definite intent; BASE’s I really am is weak and SOL adds an unsupported swear.",
+      "replacement": "*Team Leader Choi. I’m going to kill you with my own hands. I definitely will.*"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H025",
+      "reason": "Cause-then-effect word order reads more naturally than BASE’s delayed under-phrase."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H026",
+      "reason": "Restores 타이밍; drops SOL’s extra most and keeps 중저음 as deep voice, not a new baritone synonym.",
+      "replacement": "The timing was perfect. No one was interrupting, and Miss Song was looking right at me. I spoke in an attractive, deep voice."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H027",
+      "reason": "RH+A형 is the over-precise profile dump; A-positive erases that comic specificity."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H028",
+      "reason": "SOL deletes 고요한 침묵; the still silence is the buildup before her lips part."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H029",
+      "reason": "아, 네 is Oh, yes; Okay changes the blank, polite non-answer."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H030",
+      "reason": "Doe-like is the natural English for 사슴 같은 눈망울; she looked spellbound states his misread without hedging."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H031",
+      "reason": "Cut in with a stammer is tighter and still covers 더듬거리는 목소리로 끼어들었다."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H032",
+      "reason": "W-Why is standard English stammer; W, why is a Korean comma-calque."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H033",
+      "reason": "My name is Song Song is natural English for 송송이예요. 제 이름."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H034",
+      "reason": "Answered calmly is cleaner than answered in a calm voice."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H035",
+      "reason": "Bare Charming. Dazzling. matches 매력적이야. 눈부셔. without extra So."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H036",
+      "reason": "Destined partner is natural for 운명의 상대; curly apostrophe is correct."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H037",
+      "reason": "태경 씨 is the given name Taekyung, not Mr. Jin."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H038",
+      "reason": "예, 예? is a repeated yes, not a stammer; Y-Yes? changes the fluster."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H039",
+      "reason": "천천히 들어오세요 is take your time coming in, not come in when you’re ready."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H040",
+      "reason": "Had been following matches 따르던 better than was following."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H041",
+      "reason": "He says 형님, not Kkeokjeong hyung."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H042",
+      "reason": "A crime that can never be forgiven tracks 용서받지 못할 죄 without extra you."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H043",
+      "reason": "Curly apostrophe only; no meaning change."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H044",
+      "reason": "Curly apostrophes only; no meaning change."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H045",
+      "reason": "국수 먹자 is eat noodles; that wording is what the wedding idiom and footnote hang on."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H046",
+      "reason": "형니임-! is stretched Hyung-nim, not Kkeokjeong hyung."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H047",
+      "reason": "Couldn’t matches Taekyung’s conversational narration better than could not."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H048",
+      "reason": "Curly apostrophe only; no meaning change."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H049",
+      "reason": "Calling it a Korean expression tied to eating noodles explains the line more clearly than SOL’s shorter gloss."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H050",
+      "reason": "가게 내부 is a scene heading; SOL merges it and invents ears pressed to the door."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H051",
+      "reason": "Keeps 문 앞에 바짝 붙어 있던 and the named subjects; SOL’s They depends on the unsupported ear rewrite."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H052",
+      "reason": "Block out the sound is the English collocation; block the sound is flatter."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H053",
+      "reason": "Bustling around is the more vivid match for 부산하게."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H054",
+      "reason": "Had heard is the correct counterfactual for 들었으면."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H055",
+      "reason": "Ourselves is not in 저희가 위약금 물어 줘야; we would have to pay is enough."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H056",
+      "reason": "Used to say captures the habitual 젊었을 때 implication better than said."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H057",
+      "reason": "Expression turned stern foregrounds 정색하고, then the following line is the answer."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H058",
+      "reason": "듣기 거북하군요 is unpleasant to hear; deeply offensive over-intensifies."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H059",
+      "reason": "태경 씨 is Taekyung, and single his entire life keeps 모태 솔로."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H060",
+      "reason": "SOL’s If he hasn’t does not agree with the prior line; isn’t matches 아니면.",
+      "replacement": "“If he isn’t, then as of today I’m no longer Butler Kim. I’m Butler Park.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H061",
+      "reason": "기혼입니다 is married; BASE’s Unfortunately, yes answers unmarried and contradicts the source."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H062",
+      "reason": "Curly apostrophe only; no meaning change."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H063",
+      "reason": "Just as they shook their heads is cleaner than the cleft It was at that moment…that."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H064",
+      "reason": "Stood there in an apron is more natural than wearing an apron."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H065",
+      "reason": "I’ve been preparing fits the still-ongoing 준비하는데; curly apostrophe is correct."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H066",
+      "reason": "Curly apostrophe only; no meaning change."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H067",
+      "reason": "Curly apostrophe only; no meaning change."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H068",
+      "reason": "됐고요 is Forget it, and 임씨 아저씨 is Uncle Im, not Mr. Im."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H069",
+      "reason": "말을 이었다 is continued, not finished."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H070",
+      "reason": "SOL adds unsupported Seated, and 입을 열었다 is opened my mouth, not merely spoke."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H071",
+      "reason": "Curly apostrophe only; no meaning change."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H072",
+      "reason": "It’s fine is natural for 괜찮아요, with a curly apostrophe."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H073",
+      "reason": "English ellipsis … replaces the Korean-style ……."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H074",
+      "reason": "Direct he immediately provided backup is cleaner than the impersonal backup arrived."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H075",
+      "reason": "막, 어? is Im groping for words; SOL’s and, well… erases that beat."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H076",
+      "reason": "Keep the narration separate; SOL merges the line and adds unsupported also."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H077",
+      "reason": "별자리는 황소자리 stays its own spoken beat; do not delete it into H076."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H078",
+      "reason": "Keeps singular 황소자리 남자, 잘 굽고, and 참; SOL pluralizes and BASE drops well.",
+      "replacement": "“That’s right! A Taurus man grills meat well, and he’s pure-hearted, honest, and so steadfast…”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H079",
+      "reason": "죄송합니다 is I’m sorry, not Sorry, and the chopsticks are not marked his."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H080",
+      "reason": "Fronting as if she had been waiting makes the 기다렸다는 듯이 beat land more naturally."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H081",
+      "reason": "Looked perfect together is the more visual match for 선남선녀의 투 샷."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H082",
+      "reason": "Curly apostrophe only; no meaning change."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H083",
+      "reason": "Otherwise is the natural English for 괜히 … 아닐 테니까."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H084",
+      "reason": "Snapped is the precise verb for 부러트려서 chopsticks."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H085",
+      "reason": "방구야 is vulgar dismissal; BASE sanitizes it, and tying chopsticks into a knot is clearer."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H086",
+      "reason": "Curly apostrophe only; no meaning change."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H087",
+      "reason": "예, 예? is Yes, yes?, not a stammer."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H088",
+      "reason": "Curly apostrophe only; no meaning change."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H089",
+      "reason": "Curly apostrophe only; no meaning change."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H090",
+      "reason": "아뇨. 제가. is two clipped beats; the comma fuses them."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H091",
+      "reason": "구워서 대접하는 is grill and serve; SOL drops the hospitality of 대접."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H092",
+      "reason": "Curly apostrophe only; no meaning change."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H093",
+      "reason": "Keeps the note beside the pun and states the 뭐야 substitution more accurately than either gloss.",
+      "replacement": "[^2]: Taekyung substitutes “ethics textbook” into a Korean phrase meaning “what on earth are you?”"
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H094",
+      "reason": "Both drop 비단결 같은; restore the silk image for 마음씨.",
+      "replacement": "I fell for her nature, gentle as silk, all over again."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H095",
+      "reason": "Looks beautiful grilling meat is tighter than while grilling with the same sense."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H096",
+      "reason": "Every movement seemed to shine is cleaner English for 동작 하나하나에서 빛이 난다."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H097",
+      "reason": "SOL drops 얼마나 지났을까, his dazed how-much-time beat."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H098",
+      "reason": "Curly apostrophe only; no meaning change."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H099",
+      "reason": "다 익은 is fully cooked, and 담아낸다 is placing/plating, not transferring."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H100",
+      "reason": "Must’ve is natural spoken English for this line."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H101",
+      "reason": "애들 is kids, not people."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H102",
+      "reason": "아, 네 is Oh, yes, not Oh. Right."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H103",
+      "reason": "Kept showering captures 마음껏 퍼부어 better than a single showered."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H104",
+      "reason": "Launched into with enthusiasm matches 열정적으로 말을 내뱉었다 better than spoke passionately."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H105",
+      "reason": "두 탕, 세 탕 are work rounds/shifts; jobs can mean three separate employers."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H106",
+      "reason": "아, 네 is Oh, yes; trailing um… fits 저기, which BASE’s period cuts off.",
+      "replacement": "“Oh, yes. But, um…”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H107",
+      "reason": "Get a little burned is the better collocation for 조금 데이고; SOL only rearranges it."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H108",
+      "reason": "Curly apostrophes only; no meaning change."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H109",
+      "reason": "Separate the narration from the thought 이거 설마, matching the chapter’s thought formatting."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H110",
+      "reason": "Gives *Could it be…?* its own italic beat after the dark expression."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H111",
+      "reason": "Worried I might get hurt is tighter than worried that I might."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H112",
+      "reason": "Stunned naturalizes 충격이다; thinking about me keeps 생각해 주다, which SOL turns into cared.",
+      "replacement": "I was stunned. She was thinking about me this much even though we had only met today."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H113",
+      "reason": "그리고 확실히 알았다. 그녀도 내게 관심이 있다는 사실은 one unit; do not split it."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H114",
+      "reason": "Keep both sentences together; me, too is the same sense without the extra paragraph."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H115",
+      "reason": "환청 is specifically an auditory hallucination."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H116",
+      "reason": "덕목 is virtue, not the generic quality."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H117",
+      "reason": "용기 있는 자가 미인을 얻는다 is courage wins the beauty; SOL swaps in a different proverb."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H118",
+      "reason": "용기를 내자 is Let’s be brave, not a bare Be brave."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H119",
+      "reason": "응시했다 is stared, and all twenty-seven years matches 통틀어."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H120",
+      "reason": "우리 오늘부터 1일…… ends on day one for Choi to hijack; let’s make this adds wording the source does not have."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H121",
+      "reason": "Shot to his feet matches 벌떡 일어난 more explosively than jumped."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H122",
+      "reason": "First day as a member of our Guild family is cleaner English and still keeps 길드 가족."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H123",
+      "reason": "꼴꼴꼴이 아니라 콸콸콸이다 contrasts the sound; He was pouring makes it about the butler."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H124",
+      "reason": "때려 붓는 is forceful pouring, not sloshed; 모습에 어이가 없었지만 is the sight, which BASE ties to such force that.",
+      "replacement": "Half of it spilled, and the other half was poured in with brute force. The sight left me speechless, but there was something I absolutely had to say."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H125",
+      "reason": "다시 한번 말할게요 is say it again; that again is the wrong demonstrative."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H126",
+      "reason": "Do not split the closing cope into two paragraphs; repair it as one line in H127."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H127",
+      "reason": "그래 is Yeah in Taekyung’s voice, not Yes; keep both sentences in one closing paragraph.",
+      "replacement": "She didn’t hear me, right? Yeah. She couldn’t have heard me."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H128",
+      "reason": "Footnote 2 stays beside the pun after H093; do not duplicate it at chapter end."
+    }
+  ],
+  "version": 1
+}
