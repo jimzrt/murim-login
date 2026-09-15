@@ -476,3 +476,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 노호검객 | **Roaring Fury Swordsman** | Fiery-tempered elder and top-five master of the Zhongnan Sect. |
 | 청성파 | **Qingcheng Sect** | Sect named in Baek Museong's comparison about disciplinary rules. |
 | 집법원 | **Disciplinary Hall** | Huashan body that handles violations of sect rules. |
+| 대연무장 | **Grand Training Ground** | The Jin Family's largest training ground and the site of the grand banquet. |
+| 주모 | **Lady of the House** | Title used in Wipeng's remark that Jin Wikyung lacks a wife or household mistress. |

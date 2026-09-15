@@ -1,6 +1,6 @@
 # Eunhyang (은향)
 
-- **Safe through:** Chapter 185
+- **Safe through:** Chapter 186
 - **Aliases:** None
 - **Role:** Young female Huashan martial artist, youngest junior disciple of Baek Museong, member of the Three Plum Blossom Elites, and bearer of the Flower Sword Phoenix epithet.
 - **Personality:** Bright, mischievous, playful, sharp-tongued, and willing to justify questionable actions with confident moral reasoning.

@@ -1,6 +1,6 @@
 # Gong Yacheong (공야청)
 
-- **Safe through:** Chapter 179
+- **Safe through:** Chapter 186
 - **Aliases:** Uncle Gong
 - **Role:** Recovering guide and protector of the Sakju Branch survivors Socheon and Soyul; appointed to oversee the rebuilt Sakju Branch
 - **Personality:** Weary, responsible, and determined to keep the children alive despite the pursuit

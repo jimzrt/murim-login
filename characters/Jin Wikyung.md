@@ -1,8 +1,8 @@
 # Jin Wikyung (진위경)
 
-- **Safe through:** Chapter 185
+- **Safe through:** Chapter 186
 - **Aliases:** Junzi Sword
-- **Role:** Thirty-five-year-old Lesser Family Head and future Family Head of the Jin Family of Taiyuan; has led the family in place of the absent Family Head for two years and established it as Shanxi Murim's hegemon
+- **Role:** Thirty-five-year-old Lesser Family Head and future Family Head of the Jin Family of Taiyuan; has led the family in place of the absent Family Head for two years and established it as Shanxi Murim's hegemon; is investigating Dark Heaven's apparent attack on Shanxi and has ordered three surviving remnants preserved as evidence
 - **Personality:** Calm and authoritative in public; affectionate and protective toward Taekyung beneath a stern mask; accepts responsibility from his subordinates and shows immediate concern for family
 - **Voice:** Restrained, formal, and commanding with subordinates; openly affectionate with Taekyung
 - **Relationships:** Taekyung’s eldest brother and future Family Head; head of Wipeng; member of the Jin Family
