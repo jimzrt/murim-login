@@ -1,0 +1,15 @@
+{
+  "summary": "The chapter is faithful overall, with one minor physical-detail omission.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean line 331 / P153",
+      "current": "At the same time, the thirty uninvited guests in bamboo hats parted to either side.",
+      "defect": "The translation omits that the bamboo hats were pulled low.",
+      "replacement": "At the same time, the thirty uninvited guests, their bamboo hats pulled low, parted to either side.",
+      "rationale": "The source specifies 죽립을 눌러쓴, describing the guests as wearing their bamboo hats pulled low; merely saying they were in bamboo hats loses that physical detail.",
+      "confidence": 0.97
+    }
+  ]
+}
