@@ -21,7 +21,7 @@ const firstHref = first ? chapterHref(first.data.chapter) : withBase("");
 const wordMap = Object.fromEntries(
   entries.map((entry) => [String(entry.data.chapter), entry.data.wordCount]),
 );
-const mastered = new Set(loadTranslationProgress().mastered);
+const polished = new Set(loadTranslationProgress().polished);
 ---
 
 <Base
@@ -152,7 +152,7 @@ const mastered = new Set(loadTranslationProgress().mastered);
             chapters stay coherent.
           </li>
           <li>
-            <strong>Mastering.</strong> A later polish model edits the full chapter in its
+            <strong>Polish.</strong> A later polish model edits the full chapter in its
             own pass. An independent adjudicator model then judges the diff against the
             Korean source before the published copy is promoted.
           </li>
@@ -226,8 +226,8 @@ const mastered = new Set(loadTranslationProgress().mastered);
       </label>
       {
         groups.map((group) => {
-          const masteredInGroup = group.items.filter((row) =>
-            mastered.has(row.chapter),
+          const polishedInGroup = group.items.filter((row) =>
+            polished.has(row.chapter),
           ).length;
           return (
           <details
@@ -239,25 +239,25 @@ const mastered = new Set(loadTranslationProgress().mastered);
               <span>{group.label}</span>
               <span class="range-count">
                 {group.items.length}
-                {masteredInGroup > 0
-                  ? ` · ${masteredInGroup} mastered`
+                {polishedInGroup > 0
+                  ? ` · ${polishedInGroup} polished`
                   : ""}
               </span>
             </summary>
             <ol class="chapter-ol">
               {group.items.map((item) => {
-                const isMastered = mastered.has(item.chapter);
+                const isPolished = polished.has(item.chapter);
                 return (
                   <li>
                     <a
                       href={item.href}
                       data-chapter={item.chapter}
-                      data-mastered={isMastered ? "1" : undefined}
+                      data-polished={isPolished ? "1" : undefined}
                     >
                       <span class="chapter-ol__title">{item.title}</span>
                       <span class="chapter-ol__meta">
-                        {isMastered && (
-                          <span class="chapter-badge chapter-badge--mastered" title="Mastered">Mastered</span>
+                        {isPolished && (
+                          <span class="chapter-badge chapter-badge--polished" title="Polished">Polished</span>
                         )}
                         <span class="chapter-comments" title="Comments">
                           <svg class="chapter-comments__icon" viewBox="0 0 16 16" aria-hidden="true" focusable="false">
