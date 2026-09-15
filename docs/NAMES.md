@@ -317,3 +317,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 자하신공 | **Zaha Divine Technique** | Huashan internal-energy technique used by Cheongpung. |
 | 태사부 | **Grandmaster** | Huashan title referring to Mae Jonghak. |
 | 군림 | **The Reign** | Opening fragment of an incomplete wuxia novel title that Taekyung read through volume thirty-four. |
+| 주표 | **Zhu Bao** | Personal name of Prince Shangshan. |
+| 근위대 | **royal guard** | Guard unit protecting Prince Shangshan. |
+| 근위대 갑옷 세트 | **Royal Guard Armor Set** | Armor set Li Feng offers Cheongpung. |

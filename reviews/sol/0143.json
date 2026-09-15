@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "From what I had observed, he was stubborn and taciturn.",
+      "defect": "“Stubborn” gives Li Feng a negatively inflexible temperament, whereas 우직하다 describes him as steadfast, honest, and dependable.",
+      "id": "F01",
+      "rationale": "The following sentence explicitly says Li Feng is not inflexible, reinforcing that 우직하다 is praise for his steadfast character rather than stubbornness.",
+      "replacement": "From what I had observed, he was steadfast and taciturn.",
+      "severity": "major",
+      "source": "잠깐 지켜본 바로는 우직하고, 과묵하다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Present!”",
+      "defect": "The soldiers are voicing a loyalty salute, not announcing their presence or answering roll call.",
+      "id": "F02",
+      "rationale": "충 is a clipped military acclamation meaning loyalty or allegiance, accompanying the soldiers’ formal salute to Li Feng.",
+      "replacement": "“Loyalty!”",
+      "severity": "minor",
+      "source": "“충!”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Cheongpung grabbed it.",
+      "defect": "This invents a physical object for Cheongpung to grab even though Li Feng has only offered to obtain armor later. The beat means Cheongpung immediately seizes on the offer.",
+      "id": "F03",
+      "rationale": "No armor is present in the scene; 덥석 figuratively depicts Cheongpung snapping up Li Feng’s offer before accepting it aloud.",
+      "replacement": "Cheongpung took the bait immediately.",
+      "severity": "critical",
+      "source": "덥석."
+    },
+    {
+      "confidence": 1.0,
+      "current": "I’ll go, listen to whatever he wants to tell me, and share a few entertaining stories about my adventures.",
+      "defect": "The direction of speech is partly reversed: Taekyung expected to tell the prince stories the prince wanted to hear, not listen to something the prince wanted to tell him.",
+      "id": "F04",
+      "rationale": "듣고 싶어 하는 modifies 무용담: the prince wants to hear the heroic tales, and Taekyung plans to tell them.",
+      "replacement": "I’ll go and tell him a few of the heroic tales he wants to hear. That was about all I had expected.",
+      "severity": "critical",
+      "source": "가서 적당히 듣고 싶어 하는 무용담이나 몇 개 들려줘야지. 딱 이 정도?"
+    },
+    {
+      "confidence": 0.98,
+      "current": "That was a rumor the Jin Family of Taiyuan had spread publicly.",
+      "defect": "The translation omits 헛소문, which explicitly marks the family’s public story as false or nonsensical rather than merely a rumor.",
+      "id": "F05",
+      "rationale": "헛소문 means a false or groundless rumor, while 대외적으로 means it was presented to outsiders or the public.",
+      "replacement": "That was a bogus rumor the Jin Family of Taiyuan had spread for public consumption.",
+      "severity": "minor",
+      "source": "저건 대외적으로 태원진가에서 퍼트린 헛소문이다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "He had already learned basic etiquette. I lowered myself onto one knee so that our eyes were level.",
+      "defect": "The omitted subject is incorrectly assigned to Prince Shangshan. Taekyung is saying that he himself has learned the basic etiquette required before kneeling.",
+      "id": "F06",
+      "rationale": "The statement directly motivates Taekyung’s immediately following action, and the prince’s rude beckoning provides no basis for attributing this observation to him.",
+      "replacement": "I had at least learned the basics of etiquette by now. I lowered myself onto one knee so that our eyes were level.",
+      "severity": "critical",
+      "source": "이미 기본적인 예의는 배웠다. 나는 한쪽 무릎을 꿇어 주표와 시선을 맞췄다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Sign it.”",
+      "defect": "The blunt imperative loses the prince’s dignified, request-like phrasing and makes his voice harsher than the source.",
+      "id": "F07",
+      "rationale": "부탁하마 is a stately request, not a curt command; its ceremonious wording is part of the joke when the object turns out to be an autograph.",
+      "replacement": "“I would like your signature.”",
+      "severity": "major",
+      "source": "“서명을 부탁하마.”"
+    }
+  ],
+  "summary": "Several scene facts and character beats are altered, including two reversed or misassigned actions, an invented physical grab, and localized losses in characterization and register.",
+  "version": 1
+}
