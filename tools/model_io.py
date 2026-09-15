@@ -107,6 +107,8 @@ def apply_review_replacements(text: str, review: dict) -> str:
             if "…." in old:
                 candidates.append(old.replace("….", "…"))
             candidates.append(f"*{old}*")
+            if len(old) >= 2 and old[0] == "“" and old[-1] == "”":
+                candidates.append(f"*{old[1:-1]}*")
             for candidate in candidates:
                 candidate_starts = [match.start() for match in re.finditer(re.escape(candidate), text)]
                 if len(candidate_starts) == 1:
