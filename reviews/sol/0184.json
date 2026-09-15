@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Senior Chulwoo, you don’t know?”",
+      "defect": "The draft replaces the respectful martial address “Young Hero Chul” with “Senior Chulwoo,” incorrectly implying that the speaker recognizes Chulwoo as a hierarchical senior.",
+      "id": "F01",
+      "rationale": "소협 is the established address “Young Hero,” not “Senior”; preserving it matters because this exchange revolves around unrecognized sect hierarchy.",
+      "replacement": "“Young Hero Chul, you don’t know?”",
+      "severity": "major",
+      "source": "“철 소협, 모르시오?”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“No. You don’t.”\n\nWipeng looked me up and down as though he were looking at an insect.",
+      "defect": "Taekyung’s emphatic protest is omitted, weakening the comic beat and his aggrieved reaction before Wipeng’s contemptuous look.",
+      "id": "F02",
+      "rationale": "왜! 어째서! is explicit dialogue and must be retained.",
+      "replacement": "“No. You don’t.”\n\n“Why?! How come?!”\n\nWipeng looked me up and down as though he were looking at an insect.",
+      "severity": "major",
+      "source": "“예. 없습니다.”\n\n“왜! 어째서!”\n\n위팽이 벌레를 보는 듯한 눈빛으로 나를 훑었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "It would have been unfair if I had actually gone to pleasure houses.\n\nHell, I couldn’t even go to a pickup bar.",
+      "defect": "The first sentence reverses the source: Taekyung says he would not feel wronged if he had actually visited a pleasure house, not that visiting one would make the accusation unfair. The second sentence also turns a lack of past experience into a vague inability and softens the profanity.",
+      "id": "F03",
+      "rationale": "가 봤으면 억울하지나 않지 negates his grievance under the hypothetical, while 못 가 봤는데 means he has never even experienced going to the less explicit venue.",
+      "replacement": "If I’d actually been to one, at least I wouldn’t feel so wronged.\n\nFuck, I’d never even been to a pickup bar, let alone a pleasure house.",
+      "severity": "critical",
+      "source": "차라리 가 봤으면 억울하지나 않지.\n\n기루는 시발, 헌팅 술집도 못 가 봤는데."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Finish walking the path of a martial artist. Don’t wander off onto some pointless side road.”\n\nThat was when a voice cut in.",
+      "defect": "The narration omits that Taekyung delivers the line with overt disdain for Chulwoo, removing the reaction that completes the joke.",
+      "id": "F04",
+      "rationale": "한심한 감정을 가득 담아 explicitly describes the contemptuous emotion Taekyung puts into his reply.",
+      "replacement": "“Finish walking the path of a martial artist. Don’t go wandering down side paths for no reason.”\n\nI replied with utter disdain. That was when a voice cut in.",
+      "severity": "minor",
+      "source": "“……무인의 길이나 마저 걸어라. 괜히 샛길로 빠지지 말고.”\n\n한심한 감정을 가득 담아 대답한 그때였다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The Sword Saint had been living in seclusion for several decades already.\n\nAnd now his Disciple, whose life or death was barely known, had suddenly appeared in Murim?",
+      "defect": "The draft attaches the unknown life-or-death status to the Disciple. The source says no one knows whether the long-secluded Sword Saint is alive or dead, making his Disciple’s sudden appearance startling.",
+      "id": "F05",
+      "rationale": "The contextual subject of 살았는지, 죽었는지도 잘 알려지지 않은 is the Sword Saint, whose decades-long seclusion is stated immediately beforehand.",
+      "replacement": "The Sword Saint had already been living in seclusion for decades.\n\nNo one even knew whether he was alive or dead, and now his Disciple had suddenly appeared in Murim?",
+      "severity": "critical",
+      "source": "검성이 은거한 지 이미 수십 년이다.\n\n살았는지, 죽었는지도 잘 알려지지 않은 그의 제자가 갑자기 무림에 나오다니?"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“If this really is the Sword Saint’s Disciple…”",
+      "defect": "The draft changes an unfinished guess about the destination of the Elder’s order into a conditional statement questioning the Disciple’s identity.",
+      "id": "F06",
+      "rationale": "혹시 here tentatively asks whether the Elder means to go to the Sword Saint’s Disciple, continuing the preceding question “Where?”",
+      "replacement": "“Could you mean the Sword Saint’s Disciple…?”",
+      "severity": "minor",
+      "source": "“혹시 검성의 제자…….”"
+    }
+  ],
+  "summary": "Two critical subject/negation errors, two meaningful omissions, one hierarchy error, and one altered incomplete question.",
+  "version": 1
+}
