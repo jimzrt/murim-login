@@ -1,0 +1,39 @@
+{
+  "chapter": 181,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.262,
+    "source_characters": 6501,
+    "source_paragraphs": 206,
+    "translation_characters": 14705,
+    "translation_paragraphs": 207
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "귀가",
+        "preferred": "your family"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "대사",
+        "preferred": "Master for a senior Buddhist monk"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "갑자",
+        "preferred": "jiazi"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}

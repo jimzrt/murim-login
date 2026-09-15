@@ -1,8 +1,8 @@
 # Eunhyang (은향)
 
-- **Safe through:** Chapter 149
+- **Safe through:** Chapter 181
 - **Aliases:** None
-- **Role:** Young female Huashan martial artist, junior disciple of Baek Museong, and member of the Three Plum Blossom Elites.
+- **Role:** Young female Huashan martial artist, youngest junior disciple of Baek Museong, and member of the Three Plum Blossom Elites.
 - **Personality:** Bright, mischievous, playful, sharp-tongued, and willing to justify questionable actions with confident moral reasoning.
 - **Voice:** Lively and teasing, with familiar phrasing and a sweet laugh; she prefers calling Baek Museong Big Brother.
 - **Relationships:** Baek Museong is her Senior Brother; Chulwoo is her fellow junior disciple and bickering companion; she serves under Huashan’s Sect Leader.
