@@ -1,0 +1,35 @@
+{
+  "summary": "The chapter is faithful overall, with three minor defects involving an idiom and two lost physical images.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "lines 137–141",
+      "current": "He told me it had been brought in from somewhere in the Himalayas, and I clicked my tongue inwardly.",
+      "defect": "The Korean idiom means that he is inwardly astonished by the extravagance, not that he clicks his tongue in disapproval.",
+      "replacement": "He told me it had been brought in from somewhere in the Himalayas, and I was inwardly dumbfounded.",
+      "rationale": "혀를 내두르다 functions idiomatically as being amazed or astounded; rendering its component gesture creates a different reaction.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "lines 263–267",
+      "current": "The yellowed sign read:",
+      "defect": "The translation omits that the sign is yellowed specifically from accumulated grime.",
+      "replacement": "The sign, yellowed with grime, read:",
+      "rationale": "때가 누렇게 낀 describes the physical layer of yellow grime staining the sign, not merely age-related yellowing.",
+      "confidence": 0.97
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "lines 341–343",
+      "current": "Team Leader Choi muttered in a tiny voice.",
+      "defect": "The generic description drops the source-specific image comparing his faint voice to a mosquito.",
+      "replacement": "Team Leader Choi muttered in a voice as faint as a mosquito’s buzz.",
+      "rationale": "모기 같은 목소리 explicitly uses a mosquito comparison to emphasize how feeble and embarrassed he sounds.",
+      "confidence": 0.99
+    }
+  ]
+}
