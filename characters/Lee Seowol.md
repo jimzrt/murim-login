@@ -1,6 +1,6 @@
 # Lee Seowol (이소월)
 
-- **Safe through:** Chapter 121
+- **Safe through:** Chapter 122
 - **Aliases:** None
 - **Role:** Seventeen-year-old current Sect Leader of the Mount Heng Sword Sect; third child of Lee Cheonbaek and his last surviving descendant; publicly insists on being addressed as Sect Leader rather than Young Lady; survived Pung Yang's attack with twenty-four other identified survivors; regards the Mount Heng Sword Sect as effectively destroyed but vows to preserve it for those who died defending it; offered the sect's territorial rights to the Jin Family of Taiyuan and proposed marriage to Jin Taekyung in exchange for three Peak martial arts
 - **Personality:** Cold, commanding, and composed; capable of stopping a fierce confrontation with a calm request

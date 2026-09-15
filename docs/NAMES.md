@@ -209,3 +209,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 운구기일 | **nine parts luck and one part qi** | Taekyung's playful variation on 운칠기삼. |
 | 혈랑검법 | **Blood Wolf Sword Technique** | Peak sword technique personally created by Lee Cheonbaek. |
 | 혈랑보법 | **Blood Wolf Footwork** | Peak footwork technique personally created by Lee Cheonbaek. |
+| 산서성 | **Shanxi Province** | Province containing the Lower District Sect branches. |
+| 정양지부장 | **Jeongyang Branch Leader** | Leader of the Lower District Sect's Jeongyang Branch. |
+| 혼주지부장 | **Honju Branch Leader** | Leader of the Lower District Sect's Honju Branch. |
+| 총지부장 | **Chief Branch Leader** | Title Wolhwa holds within the Lower District Sect. |
+| 송이 | **Song-i** | Short form used for Song Song; Taekyung's love interest. |
