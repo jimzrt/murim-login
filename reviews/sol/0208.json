@@ -1,0 +1,126 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "These bastards were trying to steal monsters I had already taken down.",
+      "defect": "The draft says the monsters had already been taken down, but all four ogres are still alive. 다 잡은 means Taekyung already had them effectively beaten or claimed, not that he had killed them.",
+      "id": "F01",
+      "rationale": "The replacement preserves Taekyung’s claim that the ogres were effectively his kills without contradicting their continued presence in the scene.",
+      "replacement": "These bastards were trying to steal mobs I already had dead to rights.",
+      "severity": "critical",
+      "source": "이 새끼들이 어디서 다 잡은 몹을 스틸하려고."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“I asked him, and he said we could talk after he finished butchering.”",
+      "defect": "The explicit subject 정 팀장 shows that someone else—Captain Yoo—is reporting what Team Leader Jeong asked. Changing it to “I asked him” assigns the line to Jeong and alters the speaker.",
+      "id": "F02",
+      "rationale": "This retains the stated subject and correctly distinguishes Captain Yoo’s contribution from Team Leader Jeong’s preceding answer.",
+      "replacement": "“Team Leader Jeong asked him, but he said they could talk once he finished butchering.”",
+      "severity": "critical",
+      "source": "“정 팀장이 물어봤는데, 우선 도축 끝내고 얘기하자더군요.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Both wore Special Forces uniforms beneath armor. They were, well, the stereotypical outfits of soldiers and Hunters.",
+      "defect": "The source presents the two men in their respective characteristic outfits—one in a Special Forces uniform and the other in armor. The draft instead puts both men in uniforms beneath armor and then ungrammatically calls the men “outfits.”",
+      "id": "F03",
+      "rationale": "The respective clothing establishes their visibly different roles while preserving the narrator’s hesitant 뭐랄까 beat.",
+      "replacement": "One wore a Special Forces uniform and the other armor. They were, well, dressed like a stereotypical soldier and Hunter.",
+      "severity": "critical",
+      "source": "각기 특전사 군복에 갑옷을 입은 그들은 뭐랄까, 전형적인 군인과 헌터의 복장이었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“…C-rank? C-cup, not C-rank?”",
+      "defect": "The comparison is reversed. The reporter confirms that Taekyung said C-rank rather than C-cup; the draft instead asks whether he means C-cup rather than C-rank.",
+      "id": "F04",
+      "rationale": "This restores the direction of the clarification and supports Taekyung’s ensuing reaction to the reporter looking at his chest.",
+      "replacement": "“…C-rank? You mean C-rank, not C-cup?”",
+      "severity": "critical",
+      "source": "“……C급이요? C컵 말고 C급?”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "They were falling from a height of more than twenty meters. At that distance, even Hunters equipped with magic gear would put considerable strain on their knees when they landed.",
+      "defect": "“At that distance” changes a vertical height into generic distance, and “magic gear” departs from the established Equipment terminology.",
+      "id": "F05",
+      "rationale": "The source specifically attributes the landing strain to the height and uses the established term 장비.",
+      "replacement": "They were falling from a height of more than twenty meters. At that height, even Hunters outfitted with magical Equipment were bound to strain their knees on landing.",
+      "severity": "minor",
+      "source": "20m가 넘는 높이. 이 정도면 아무리 마법 장비를 갖춘 헌터라고 해도 무릎에 무리가 가기 마련이다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“You’re only a team member when it suits you, huh? A military reporter? Usually you’re always hungover. Did you get this excited just because you landed one scoop?”",
+      "defect": "The fragment “A military reporter?” loses the contrast in Jeong’s jab: Kim claims team membership only at useful moments while otherwise acting as a correspondent. This weakens their antagonistic familiarity and makes the dialogue incoherent.",
+      "id": "F06",
+      "rationale": "The replacement restores the contrast between opportunistic team membership and Kim’s usual reporter role while retaining Jeong’s pointed but familiar register.",
+      "replacement": "“You’re only part of the team at times like this, huh? The rest of the time, you’re a military correspondent. You’re usually drowning in a hangover—aren’t you getting a little too excited just because you landed one scoop?”",
+      "severity": "major",
+      "source": "“이럴 때만 팀원이고 군종 기잡니까? 평소에는 맨날 숙취에 찌들어 계시더니 특종 하나 잡았다고 너무 좋아하시는 거 아니에요?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Three question marks seemed to appear on their faces at the same time. I couldn’t help letting out a hollow laugh.",
+      "defect": "실소 is an involuntary chuckle rather than a hollow laugh, and the explicit amused thought 이거 재밌네 is omitted.",
+      "id": "F07",
+      "rationale": "This restores both Taekyung’s spontaneous amusement and the short internal punchline.",
+      "replacement": "Three question marks seemed to appear on their faces at the same time. I couldn’t help but chuckle. *This was fun.*",
+      "severity": "minor",
+      "source": "동시에 물음표가 떠오른 세 사람의 얼굴을 마주하자 나도 모르게 실소가 새어 나왔다. 이거 재밌네."
+    },
+    {
+      "confidence": 0.94,
+      "current": "As the mage completed the incantation, a wave of qi pulsed through the air.",
+      "defect": "Using the Murim-specific term “qi” for energy accompanying a modern Hunter spell creates an unsupported system crossover. The source also says the fluctuation accompanies the incantation, not specifically that the incantation was completed.",
+      "id": "F08",
+      "rationale": "“Energy” preserves the source’s generic 기 without misclassifying the spell effect as Murim qi, and the timing remains simultaneous.",
+      "replacement": "With the mage’s incantation, a ripple of energy passed through the air.",
+      "severity": "minor",
+      "source": "마법사의 영창과 함께 허공에서 느껴지는 기의 파동."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Tell me about it. An F-rank Gate went off near Yangju about an hour ago. I don’t know if something serious is going on.”",
+      "defect": "The unlisted place name is left as bare romanization despite the packet’s established rendering “Yangju City.”",
+      "id": "F09",
+      "rationale": "“Yangju City” matches the established location rendering and identifies the place naturally without requiring an explanatory footnote.",
+      "replacement": "“Tell me about it. An F-rank Gate erupted near Yangju City about an hour ago. I don’t know if something serious is going on.”",
+      "severity": "minor",
+      "source": "“그러게요. 한 시간 전쯤에 양주 쪽에서 F급 게이트 하나 터졌으니까. 이거 진짜 무슨 일 나는 거 아닌지 모르겠어요.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "*Somehow, that name makes me feel like the sun itself is going to regret something.*",
+      "defect": "The literal wording leaves the joke unintelligible in English. Yoo Sijin’s name prompts an allusion to the drama title “Descendants of the Sun,” with Korean wordplay between 후예 and 후회.",
+      "id": "F10",
+      "rationale": "The replacement makes the cultural allusion and wordplay legible while retaining Taekyung’s dry internal joke.",
+      "replacement": "*Somehow, his name sounded less like a descendant of the sun and more like the sun’s regret.*",
+      "severity": "minor",
+      "source": "어쩐지 태양이 후회할 것 같은 이름인데."
+    },
+    {
+      "confidence": 0.9,
+      "current": "*Is this some kind of mind game?*",
+      "defect": "“Mind game” suggests psychological manipulation. Here 기만 is Taekyung’s deliberately shabby appearance being perceived as an almost insulting display or humblebrag from someone presumed wealthy.",
+      "id": "F11",
+      "rationale": "The replacement preserves the reporter’s comic suspicion that the rich A-rank Hunter is ostentatiously pretending to be ordinary.",
+      "replacement": "*Was this some kind of humblebrag?*",
+      "severity": "minor",
+      "source": "이게 기만인가?"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Damn it. I was late.",
+      "defect": "The past tense turns Taekyung’s immediate realization into retrospective narration and weakens the final punchline.",
+      "id": "F12",
+      "rationale": "The source is a present-moment realization, and the present tense preserves its abrupt comedic timing.",
+      "replacement": "Damn it. I’m late.",
+      "severity": "minor",
+      "source": "젠장, 지각이네."
+    }
+  ],
+  "summary": "Several scene facts and speaker assignments are altered, including living ogres being described as already defeated, Captain Yoo’s line being reassigned, the newcomers’ clothing being conflated, and the C-rank/C-cup comparison being reversed. There are also localized register, terminology, and joke-rendering issues.",
+  "version": 1
+}

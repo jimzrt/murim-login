@@ -541,3 +541,15 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 황철수 | **Hwang Cheol Soo** | B-rank public-service Hunter and tollgate team leader. |
 | 박 씨 | **Mr. Park** | Taxi driver rescued by Taekyung; surname address form. |
 | 오우거 | **ogre** | B-rank monster species emerging from the Gate. |
+| 유시진 | **Yoo Sijin** | Captain and Team Leader of Support Team 25. |
+| 유 대위 | **Captain Yoo** | Rank-and-surname form used for Yoo Sijin. |
+| 김 기자 | **Reporter Kim** | Military correspondent assigned to cover the Gate incident. |
+| 정 팀장 | **Team Leader Jeong** | Hunter Team Leader serving with the military support team. |
+| 대위 | **captain** | Military rank held by Yoo Sijin. |
+| 군종 기자 | **military correspondent** | Reporter Kim's military reporting role. |
+| 수방사 | **Capital Defense Command** | Abbreviation used for 수도방위사령부. |
+| 수도방위사령부 | **Capital Defense Command** | Military command to which the support team belongs. |
+| 25 지원팀 | **Support Team 25** | Military and Hunter support unit at the tollgate. |
+| 특전사 | **Special Forces** | Military force whose uniform is worn by one of the support-team personnel. |
+| 페더 폴 | **Feather Fall** | Descent-slowing spell used by the arriving mage. |
+| 그리스 | **Grease** | Spell used to make the ogres lose their footing. |
