@@ -553,3 +553,11 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 특전사 | **Special Forces** | Military force whose uniform is worn by one of the support-team personnel. |
 | 페더 폴 | **Feather Fall** | Descent-slowing spell used by the arriving mage. |
 | 그리스 | **Grease** | Spell used to make the ogres lose their footing. |
+| 베르체니 | **Vercheni** | Venerable Italian artisan family commissioned to make the Peace Guild's magical equipment. |
+| 이탈리아 | **Italy** | Country associated with the Vercheni artisan family. |
+| 원미구 | **Wonmi-gu** | District of Bucheon shown in Taekyung's televised caption. |
+| 서울 외곽 순환도로 | **Seoul Outer Ring Expressway** | Expressway whose tollgate incident made Taekyung famous. |
+| 톨게이트 영웅 | **Tollgate Hero** | Media nickname given to Jin Taekyung after the tollgate incident. |
+| 황소자리 | **Taurus** | Zodiac sign Song Song uses as a nickname for Taekyung. |
+| 뇌이버 | **Naver** | Source-spelling variant used in Hayeon's reference to the real-time search rankings. |
+| 아홉 시 뉴스 데스크 | **Nine O'Clock News Desk** | KPS live news program where Taekyung is waiting to be interviewed. |

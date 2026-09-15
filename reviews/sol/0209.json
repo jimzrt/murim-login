@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "“Well, there were a couple of flies. She said they kept coming in no matter how many she killed, so she left them alone. They quieted down after that. They didn’t fly around much, either.”",
+      "defect": "The draft makes Im Kkeokjeong’s wife the subject of leaving the flies alone, but the Korean shifts from what she said to Im’s own action in the main clause.",
+      "id": "F01",
+      "rationale": "The construction 들어온다길래 놔뒀더니 presents her report as the reason the speaker left the flies alone; assigning both actions to her alters the subject and action.",
+      "replacement": "“Nothing much, just a fly or two. She said they kept coming in no matter how many she caught, so I left them alone, and then they quieted down. They hardly flew around, either.”",
+      "severity": "critical",
+      "source": "“그냥 뭐, 파리 한두 마리 정도였지. 잡아도 잡아도 계속 들어온다길래 놔뒀더니 잠잠해지던데? 별로 날아다니지도 않고.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The guild members naturally turned their heads in the direction she indicated. Then all three of them stood there with their mouths hanging open.",
+      "defect": "The draft adds that the three guild members stood up, although they are still seated at the table and only turn their heads and gape.",
+      "id": "F02",
+      "rationale": "The Korean describes only turning their heads and opening their mouths; the actual moment when everyone springs to their feet occurs later.",
+      "replacement": "The next moment, the guild members naturally turned in the direction she indicated, and their mouths fell open.",
+      "severity": "critical",
+      "source": "다음 순간, 그녀가 가리키는 방향을 따라 자연스럽게 고개를 돌린 길드원들이 입을 딱 벌렸다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I didn’t even get a scratch. The full story is long. What about Mom? Does she know about me?”",
+      "defect": "“Does she know about me?” asks whether their mother knows who Taekyung is rather than whether she has heard the news about him.",
+      "id": "F03",
+      "rationale": "내 소식 아셔 asks whether their mother has heard about the incident or his recent news.",
+      "replacement": "“I didn’t even get a scratch, and it’d take too long to tell you the whole story. What about Mom? Has she heard the news about me?”",
+      "severity": "major",
+      "source": "“생채기 하나 안 났고, 처음부터 끝까지 말하자면 길어. 엄마는? 내 소식 아셔?”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Time had passed while they were laughing and chatting. It had been long past the time to report for work.",
+      "defect": "The second sentence is unidiomatic English, and splitting the thought weakens the source’s direct causal timing.",
+      "id": "F04",
+      "rationale": "The Korean states that the work start time had already been past for quite a while as they talked.",
+      "replacement": "While they laughed and chatted, the appointed start time had long since passed.",
+      "severity": "minor",
+      "source": "웃고 떠드는 사이 시간은 이미 출근 시간을 넘긴 지 오래."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Kim Butler was usually calm, but he was so flustered that even he began to stammer.",
+      "defect": "The established title and name order is reversed.",
+      "id": "F05",
+      "rationale": "김 집사 is consistently rendered as “Butler Kim,” not “Kim Butler.”",
+      "replacement": "Butler Kim was usually calm, but he was so flustered that even he began to stammer.",
+      "severity": "minor",
+      "source": "오죽 당황했으면 시종일관 침착하던 김 집사마저 말을 더듬을 정도다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "“Hey, fellow family-register buddy. I just saw something I can’t believe.”\n\n“Family-register buddy? Are you trying to die?”",
+      "defect": "“Fellow family-register buddy” is an unnatural calque, and “fellow” does not convey Hayeon’s joking implication that they are siblings only on paper.",
+      "id": "F06",
+      "rationale": "호적 메이트 is a teasing euphemism for a sibling framed as merely someone listed on the same family register; the replacement preserves both the joke and its repetition.",
+      "replacement": "“Hey, sibling-on-paper. I just saw something I can’t believe.”\n\n“Sibling-on-paper? Are you trying to die?”",
+      "severity": "minor",
+      "source": "- 저기, 호적 메이트 씨. 내가 지금 믿을 수 없는 걸 봤는데 말이지.\n\n“호적 메이트? 죽고 싶냐, 너?”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“We’re going in. Stand by… cue!”",
+      "defect": "“We’re going in” is not the natural production cue for beginning a live broadcast.",
+      "id": "F07",
+      "rationale": "In the explicitly live-broadcast context, 들어갑니다 signals that they are about to go on air.",
+      "replacement": "“We’re going live. Stand by… cue!”",
+      "severity": "minor",
+      "source": "“들어갑니다. 스탠바이…… 큐!”"
+    }
+  ],
+  "summary": "Two action/subject errors and several localized terminology, register, and natural-English issues require correction.",
+  "version": 1
+}

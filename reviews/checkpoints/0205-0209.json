@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "[^2]: “Black cow” is Korean slang for a sucker; Jeju is also known for its native black cattle. At the look in my eyes, Jinho hyung lowered his head completely.",
+      "defect": "Narrative prose is attached to the footnote definition and will be rendered as part of the note rather than the chapter body.",
+      "id": "C01",
+      "rationale": "Separating the paragraph restores Jinho’s reaction to the reading copy while preserving the footnote.",
+      "replacement": "[^2]: “Black cow” is Korean slang for a sucker; Jeju is also known for its native black cattle.\n\nAt the look in my eyes, Jinho hyung lowered his head completely.",
+      "severity": "major",
+      "source": "Chapter 206, black-cow footnote"
+    },
+    {
+      "confidence": 1.0,
+      "current": "## Quest\n\n### Gate Suppression\n\nAn unexpected Gate has appeared!\n\nThe monsters that have set foot on Earth are hungry for blood, and delicious prey is spread out all around them.\n\nMinimize casualties and eliminate the monsters to suppress the Gate.\n\n\n\n**Grade:** Peak\n\n**Restriction:** None\n\n**Mission:** Eliminate monsters (Incomplete)\n\n**Reward:** ???\n\n**Failure:** ???",
+      "defect": "The Quest window is an actual game System panel but appears as unframed document headings and prose, unlike the surrounding System notices and the binding panel format.",
+      "id": "C02",
+      "rationale": "Prose intervenes after the preceding notices, so the Quest window should be a separate blockquote headed System with all fields inside it.",
+      "replacement": "> **System**\n>\n> ## Quest\n>\n> ### Gate Suppression\n>\n> An unexpected Gate has appeared!\n>\n> The monsters that have set foot on Earth are hungry for blood, and delicious prey is spread out all around them.\n>\n> Minimize casualties and eliminate the monsters to suppress the Gate.\n>\n> **Grade:** Peak\n>\n> **Restriction:** None\n>\n> **Mission:** Eliminate monsters (Incomplete)\n>\n> **Reward:** ???\n>\n> **Failure:** ???",
+      "severity": "minor",
+      "source": "Chapter 207, Gate Suppression Quest window"
+    },
+    {
+      "confidence": 0.99,
+      "current": "During Taekyung’s commute, an unidentified black sphere causes a Gate to open near a tollgate.",
+      "defect": "This asserts that the airborne object caused the Gate to open, but the reading copies only establish that a crumpled car hurtles toward the taxi while a Gate is opening farther down the road.",
+      "id": "C03",
+      "rationale": "The replacement removes unsupported causality and reconciles the summary with Chapter 206’s identification of the object as a crumpled car.",
+      "replacement": "During Taekyung’s commute, a crumpled car hurtles toward his taxi as a Gate opens near a tollgate.",
+      "severity": "major",
+      "source": "Checkpoint summary, Plot"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Will Taekyung attend the Star-Array Grand Banquet, and what exactly was the answer that changed the three men's expressions?",
+      "defect": "The second half records a resolved point as an open question: Chapter 205 explicitly reveals that Taekyung answered that he wanted to become stronger.",
+      "id": "C04",
+      "rationale": "Attendance remains unresolved, but the content of Taekyung’s answer does not.",
+      "replacement": "Will Taekyung attend the Star-Array Grand Banquet?",
+      "severity": "major",
+      "source": "Durable state, open_questions"
+    },
+    {
+      "confidence": 0.99,
+      "current": "**Live broadcast) Tollgate Hero**",
+      "defect": "The unmatched closing parenthesis makes the English broadcast caption look malformed.",
+      "id": "C05",
+      "rationale": "A colon supplies natural caption punctuation without changing the information conveyed.",
+      "replacement": "**Live Broadcast: Tollgate Hero**",
+      "severity": "minor",
+      "source": "Chapter 209, television caption"
+    }
+  ],
+  "summary": "The reading copies maintain a consistent action-comedy voice and established terminology, but one malformed footnote absorbs narrative prose, one Quest panel breaks the required System formatting, the checkpoint state contains an unsupported causal claim and a resolved question, and one broadcast caption has malformed punctuation.",
+  "version": 1
+}
