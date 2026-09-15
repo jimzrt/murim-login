@@ -1,17 +1,15 @@
 # Translation State
 
-- Last completed: 136
-- Next chapter: 137
-- Current block: 135–139 (2/5)
-- Latest translation: `translations/0136.md`
-- Latest summary: `summaries/beats/0136.md`
-- Safe profiles through: chapter 136
+- Last completed: 137
+- Next chapter: 138
+- Current block: 135–139 (3/5)
+- Latest translation: `translations/0137.md`
+- Latest summary: `summaries/beats/0137.md`
+- Safe profiles through: chapter 137
 
 ## Current Block
 
-- Two injured heirs of the Five Gates of Shanxi recover after the public beating at Honghwa Inn. They lament the collapse of the Mount Heng Sword Sect and the resulting shift in Shanxi Murim's balance toward the Jin Family of Taiyuan, while acknowledging that they must attend the City Lord's luncheon despite their injuries. After discussing the brutality of the Sleeping Dragon of Shanxi, they also resolve to investigate the beggar-looking young man who beat one of them: Cheongpung.
-- After the lesson, Jin Taekyung, Hyuk Mujin, and Cheongpung move toward a private annex under the guidance of Seok, Honghwa Inn's chief steward. Cheongpung initially plans to leave, but Taekyung invites him to stay at the Jin Family of Taiyuan and introduces the inn's hot springs. Cheongpung, who has never experienced a hot spring, abandons his plan to leave and joins them.
-- Before dawn, an unnamed martial official practices the Seven Plum Sword at his estate. A messenger arrives with an order from Prince Shangshan, the City Lord and a member of the imperial family, commanding him to attend the noon luncheon. The man is a Third-Rank Assistant Military Commissioner responsible for training soldiers; he accepts the royal command and resumes practicing the sword art he learned after leaving Huashan.
+- Hyuk Mujin warns Jin Taekyung that the Murim is full of hidden, persistent grudges and possible assassins, but his knowledge comes mostly from wuxia novels and he confuses fiction with reality, earning a punch from Taekyung. At Honghwa Inn, Prince Shangshan's royal command arrives with an official and roughly one hundred soldiers to summon the young Murim prodigies. The injured Five Gates heirs repeatedly collapse during the public proclamation, while Woo Jintae remains unconscious and absent. Taekyung explains his absence as the result of a minor disagreement, then proposes Cheongpung as a more impressive replacement for the luncheon delegation.
 
 ## Open Questions
 
@@ -22,11 +20,11 @@
 - Render 천지신명 as “Heaven and Earth and all the divine spirits.”
 - Render 엎드려뻗쳐 as lying face down.
 - Render 첫 경험 빌런 as “first-experience villain.”
-- Render 칠매검 as “Seven Plum Sword.”
-- Render 상산왕 as “Prince Shangshan.”
+- Render 칠매검 as “Seven Plum Sword,” 상산왕 as “Prince Shangshan,” and 도지휘첨사 as “Assistant Military Commissioner.”
 - Render 정 소협 and 갈 소협 as “Young Hero Jeong” and “Young Hero Gal.”
-- Render 도지휘첨사 as “Assistant Military Commissioner.”
 - Render 교권 향상 as “Improve teacher authority!”
+- Render 철전 as “iron coins” and 시진 as “shichen.”
+- Render 왕명 as “royal command” and 씹덕 as “otaku.”
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

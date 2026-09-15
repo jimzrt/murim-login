@@ -1,0 +1,136 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "A familiar face suddenly appeared as the door to the annex opened.",
+      "defect": "The draft turns Mujin’s active, abrupt entrance into a passive appearance, omitting that he opens the door and barges in.",
+      "id": "F01",
+      "rationale": "문을 열고 불쑥 들어온 explicitly describes the familiar person opening the door and entering uninvited, which motivates Taekyung’s immediate complaint.",
+      "replacement": "A familiar face abruptly opened the annex door and barged in.",
+      "severity": "major",
+      "source": "별채의 문을 열고 불쑥 들어온 낯익은 얼굴."
+    },
+    {
+      "confidence": 0.99,
+      "current": "You know I’m not some rotten bastard who goes around holding grudges against people.",
+      "defect": "The direction of the grudges is reversed: Taekyung says he does not behave badly enough to make other people resent him, not that he refrains from resenting others.",
+      "id": "F02",
+      "rationale": "원한을 품을 has an omitted external subject in context: other people would harbor grudges against Taekyung because of his conduct.",
+      "replacement": "You know I’m not such a bastard that I make people hold grudges against me everywhere I go.",
+      "severity": "critical",
+      "source": "너도 알다시피 내가 어디서 원한을 품을 만큼 막돼먹은 놈은 아니잖아."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“That…”\n\n“Exactly.”",
+      "defect": "A single hesitant concession from Taekyung is split into two utterances, introducing an unsupported second line and making its speaker ambiguous.",
+      "id": "F03",
+      "rationale": "The source contains one line in which Taekyung reluctantly concedes Mujin’s point; no one says “Exactly.”",
+      "replacement": "“That… is true.”",
+      "severity": "major",
+      "source": "“그건…… 그렇지.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "For one nyang of copper cash, you could read books for half a shichen.",
+      "defect": "The coin material is changed from iron to copper.",
+      "id": "F04",
+      "rationale": "철전 specifically means iron coins.",
+      "replacement": "For one nyang in iron coins, you could read books for half a shichen.",
+      "severity": "minor",
+      "source": "철전 한 냥에 반 시진씩 책을 읽을 수 있는 곳이었죠."
+    },
+    {
+      "confidence": 0.97,
+      "current": "It was only natural for the area in front of Honghwa Inn to be crowded with people, but today the commotion was especially bad.",
+      "defect": "The draft changes an unusually large crowd into unusually bad commotion, adding a sense of disorder absent from the source.",
+      "id": "F05",
+      "rationale": "유난히도 심했다 refers back to the degree of crowding, not to disruptive behavior.",
+      "replacement": "It was only natural for the area in front of Honghwa Inn to be crowded with people, but today the crowd was unusually large.",
+      "severity": "minor",
+      "source": "그런 홍화객잔 앞이 사람들로 붐비는 것은 당연한 광경이었지만, 오늘은 유난히도 심했다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "At the official’s fake cough, the fallen man’s face turned bright red.",
+      "defect": "“Fake cough” suggests a counterfeit or feigned illness rather than the deliberate throat-clearing used to recover decorum.",
+      "id": "F06",
+      "rationale": "헛기침 here is a pointed throat-clear directed at the embarrassing interruption.",
+      "replacement": "When the official cleared his throat, the fallen man’s face turned bright red.",
+      "severity": "minor",
+      "source": "관리의 헛기침에 쓰러진 이의 얼굴이 새빨갛게 물들었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“L-let’s do th—”",
+      "defect": "The draft renders the official as stammering and trailing off, losing the blood-induced slurring that delivers the joke.",
+      "id": "F07",
+      "rationale": "그헙시하 is a distorted attempt at 그럽시다 after the official bites his tongue; the malformed pronunciation is intentional.",
+      "replacement": "“Let’sh do that.”",
+      "severity": "major",
+      "source": "“그헙시하.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“The kids are a little hurt.”\n\n“Hurt? What does that mean?”\n\n“They’re the fresh young pillars of Murim, aren’t they? They focused so intensely on training to become stronger that their bodies gave out, and they keeled over.”",
+      "defect": "“Hurt” makes the concealed injuries explicit, while “their bodies gave out” overstates Taekyung’s fabricated explanation that overtraining merely left them unwell.",
+      "id": "F08",
+      "rationale": "아프다 and 몸이 안 좋아져 preserve Taekyung’s euphemistic cover story; he is pretending their condition is illness from excessive training rather than the result of his beating.",
+      "replacement": "“The kids aren’t feeling well.”\n\n“Not feeling well? What do you mean?”\n\n“They’re the fresh young pillars of Murim, aren’t they? They trained so hard to become stronger that they wore themselves down and keep collapsing.”",
+      "severity": "major",
+      "source": "“애들이 좀 아픕니다.”\n\n“아프다니, 그게 무슨?”\n\n“파릇파릇한 무림의 동량들 아닙니까. 강해지려 너무 수련에 몰두한 나머지 몸이 안 좋아져서 픽픽 쓰러진 겁니다.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The four men, who had no choice but to stay on the good side of the Jin Family of Taiyuan if they wanted to live in peace in Shanxi Murim, forced smiles onto their faces.",
+      "defect": "The draft identifies all four remaining prodigies as men even though the scene explicitly includes women among them.",
+      "id": "F09",
+      "rationale": "네 사람 is gender-neutral, and a woman among the four has already collapsed outside.",
+      "replacement": "The four of them, who had no choice but to stay on the good side of the Jin Family of Taiyuan if they wanted to live in peace in Shanxi Murim, forced smiles onto their faces.",
+      "severity": "critical",
+      "source": "앞으로 산서 무림에서 멀쩡히 살아가려면 태원진가 눈치를 볼 수밖에 없는 네 사람은 억지로 입꼬리를 끌어당겼다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "This was a strange feeling.\n\nWith the culprit standing right in front of him, the official lamented as though someone had committed treason.",
+      "defect": "The draft changes the official’s actual muttering about treason into a narrator-supplied comparison.",
+      "id": "F10",
+      "rationale": "역모죄라며 중얼거리던 states that the official audibly mutters about the crime of treason before lamenting.",
+      "replacement": "This felt really strange. With the culprit standing right in front of him, the official muttered something about treason, then lamented.",
+      "severity": "major",
+      "source": "이거 기분 되게 묘하네. 범인을 코앞에 두고 역모죄라며 중얼거리던 관리가 한탄했다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“I have more than ten family members to feed… Sigh. I curse the heavens.”",
+      "defect": "“Curse” intensifies the official’s sorrowful resentment into an active imprecation.",
+      "id": "F11",
+      "rationale": "하늘이 원망스럽군 expresses blaming or resenting heaven, not cursing it.",
+      "replacement": "“I have more than ten family members to feed… Sigh. I can only blame the heavens.”",
+      "severity": "minor",
+      "source": "“먹여 살려야 할 식구들이 열이 넘는데……. 휴우, 하늘이 원망스럽군.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "My eyes widened when I saw someone coming down after stretching broadly.",
+      "defect": "The physical description is awkward and changes both the simultaneous action and Taekyung’s reaction: his eyes light up with an idea rather than merely widen.",
+      "id": "F12",
+      "rationale": "기지개를 쭉 켜고 내려오는 describes the person stretching while descending, while 눈이 번쩍 뜨인다 signals Taekyung’s sudden realization.",
+      "replacement": "My eyes lit up when I saw someone coming downstairs with a long stretch.",
+      "severity": "minor",
+      "source": "기지개를 쭉 켜고 내려오는 한 사람을 보니 눈이 번쩍 뜨인다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "He was a young prodigy who happened to be a Peak master.",
+      "defect": "“Happened to be” removes the emphatic hierarchy that makes Cheongpung an exceptionally valuable substitute.",
+      "id": "F13",
+      "rationale": "무려 and 씩이나 strongly emphasize the remarkable fact that someone so young has reached the Peak realm.",
+      "replacement": "He was a young prodigy who was no less than a Peak master.",
+      "severity": "major",
+      "source": "무려 절정 고수씩이나 되는 후기지수다."
+    }
+  ],
+  "summary": "Two critical subject or identity errors, several altered actions and pragmatic cues, and localized terminology and register issues.",
+  "version": 1
+}
