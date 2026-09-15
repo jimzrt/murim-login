@@ -14,7 +14,8 @@ TRANSLATIONS = ROOT / "translations"
 QUOTE_MAX = 800
 NOTE_MAX = 2000
 STRATEGY_IDS = tuple("ABCDE")
-APPLY_RE = re.compile(r"^/apply\s+([A-Ea-e])\b", re.MULTILINE)
+APPLY_RE = re.compile(r"^/apply\s+([A-Ea-e])\b", re.IGNORECASE | re.MULTILINE)
+REVISE_RE = re.compile(r"^/revise(?:\s+|$)(.*)\Z", re.IGNORECASE | re.DOTALL)
 META_RE = re.compile(
     r"<!--\s*line-report\s*\n(?P<body>.*?)\n\s*-->",
     re.DOTALL,
@@ -174,6 +175,35 @@ def cheap_gates(chapter: int, quote: str, root: Path = ROOT) -> str | None:
     return None
 
 
+def _rejected_block(previous: dict | None, revise_note: str) -> str:
+    if not previous and not revise_note:
+        return ""
+    lines = [
+        "",
+        "## Maintainer revision request",
+        "",
+        "The previous strategies were not accepted. Propose a new set. Do not",
+        "repeat rejected renderings, labels, or the same local wording with a",
+        "trivial synonym swap. Stay grounded in the Korean source.",
+        "",
+        f"Maintainer feedback: {json.dumps(revise_note, ensure_ascii=False)}",
+        "",
+    ]
+    strategies = (previous or {}).get("strategies") or []
+    if strategies:
+        lines.append("Rejected strategies (do not reuse):")
+        lines.append("")
+        for strategy in strategies:
+            lines.append(f"- {strategy.get('id')}: {strategy.get('label')}")
+            lines.append(f"  {strategy.get('tradeoff')}")
+            for patch in strategy.get("patches") or []:
+                lines.append(
+                    f"  `{patch['path']}` {json.dumps(patch.get('replacement'), ensure_ascii=False)}"
+                )
+        lines.append("")
+    return "\n".join(lines)
+
+
 def build_evaluate_prompt(
     number: int,
     path: Path,
@@ -182,6 +212,8 @@ def build_evaluate_prompt(
     note: str,
     reference: str,
     root: Path = ROOT,
+    previous: dict | None = None,
+    revise_note: str = "",
 ) -> str:
     relative = path.relative_to(root)
     return f"""# Line Report Evaluation — Chapter {number}
@@ -194,7 +226,7 @@ this packet. Propose exact unique-span replacements; do not rewrite whole files.
 Anchor file: `{relative}`
 Anchor text: {json.dumps(quote, ensure_ascii=False)}
 Proofreader note: {json.dumps(note, ensure_ascii=False)}
-
+{_rejected_block(previous, revise_note)}
 Determine whether the concern is plausible against the Korean source and
 chapter-safe context. If it is a taste preference, already correct, or not
 supported by the source, set plausible to false and return an empty strategies
@@ -343,10 +375,20 @@ def parse_evaluation_comment(body: str) -> dict:
 
 
 def parse_apply_command(body: str) -> str | None:
-    match = APPLY_RE.search((body or "").strip())
+    text = (body or "").strip()
+    if not re.match(r"^/apply\b", text, re.IGNORECASE):
+        return None
+    match = APPLY_RE.search(text)
     if not match:
         return None
     return match.group(1).upper()
+
+
+def parse_revise_command(body: str) -> str | None:
+    match = REVISE_RE.match((body or "").strip())
+    if not match:
+        return None
+    return match.group(1).strip()
 
 
 def format_evaluation_comment(evaluation: dict) -> str:
@@ -370,6 +412,7 @@ def format_evaluation_comment(evaluation: dict) -> str:
                 lines.append(f"  - replacement: {json.dumps(patch['replacement'], ensure_ascii=False)}")
             lines.append("")
         lines.append("Reply `/apply A` (or another strategy letter) to open a pull request.")
+        lines.append("Or `/revise` plus what you want changed for a new set of strategies.")
     else:
         lines = [
             "## Line report evaluation",
@@ -383,19 +426,38 @@ def format_evaluation_comment(evaluation: dict) -> str:
     return "\n".join(lines)
 
 
-def evaluate_from_root(chapter: int, quote: str, note: str, root: Path = ROOT) -> dict:
+def evaluate_from_root(
+    chapter: int,
+    quote: str,
+    note: str,
+    root: Path = ROOT,
+    previous: dict | None = None,
+    revise_note: str = "",
+) -> dict:
     gate = cheap_gates(chapter, quote, root)
     if gate:
         return {"plausible": False, "verdict": gate, "strategies": []}
     path = root / "translations" / f"{chapter:04d}.md"
     translation = path.read_text(encoding="utf-8")
     reference = reference_context(chapter, root)
-    prompt = build_evaluate_prompt(chapter, path, translation, quote, note, reference, root)
+    prompt = build_evaluate_prompt(
+        chapter, path, translation, quote, note, reference, root,
+        previous=previous, revise_note=revise_note,
+    )
     return {"prompt": prompt, "path": path, "translation": translation, "reference": reference}
 
 
-def run_evaluation(chapter: int, quote: str, note: str, root: Path = ROOT) -> dict:
-    prepared = evaluate_from_root(chapter, quote, note, root)
+def run_evaluation(
+    chapter: int,
+    quote: str,
+    note: str,
+    root: Path = ROOT,
+    previous: dict | None = None,
+    revise_note: str = "",
+) -> dict:
+    prepared = evaluate_from_root(
+        chapter, quote, note, root, previous=previous, revise_note=revise_note,
+    )
     if "prompt" not in prepared:
         return prepared
     from tools.workflow import project_config, run_omp
