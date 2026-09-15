@@ -1,0 +1,55 @@
+{
+  "summary": "The chapter is broadly faithful, with several minor losses involving deliberate ambiguity, a binding time-unit term, characterization, and repeated System-notice formatting.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "line 61",
+      "current": "Surely Mukyung isn’t beating up the youngest… No, of course not.",
+      "defect": "The translation supplies the specific action “beating up,” while the Korean deliberately trails off after naming the youngest and leaves the feared action unstated.",
+      "replacement": "Surely Mukyung isn’t doing anything to the youngest… No, of course not.",
+      "rationale": "The ellipsis in “무경이가 막내를……” preserves Wikyung’s reluctance to finish the thought. Context implies violence, but the source does not explicitly state it here.",
+      "confidence": 0.95
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "line 169",
+      "current": "He lasted four hours while taking a beating like that.",
+      "defect": "The traditional quantity “two shichen” has been converted to modern hours, losing the binding glossary term.",
+      "replacement": "He lasted two shichen while taking a beating like that.",
+      "rationale": "The source says “두 시진,” and the exact glossary requires “shichen.” Although two shichen is approximately four hours, the source-specific unit must be preserved.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "lines 299–301",
+      "current": "I addressed him in an innocent voice.",
+      "defect": "“Innocent” loses the brazenly nonchalant, pretending-nothing-happened quality of Taekyung’s delivery.",
+      "replacement": "I addressed him in a nonchalant voice.",
+      "rationale": "“천연덕스러운” describes shamelessly natural or nonchalant behavior, which drives the joke as Taekyung pretends not to remember the beating.",
+      "confidence": 0.96
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "line 403",
+      "current": "A Quest has been created.",
+      "defect": "The System notification has lost its source-prefixed list marker.",
+      "replacement": "- A Quest has been created.",
+      "rationale": "The source presents this notice as “- 퀘스트가 생성되었습니다.” The same notification convention recurs later and should remain consistent across both System windows.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F05",
+      "severity": "minor",
+      "source": "line 465",
+      "current": "Logout is restricted during this Quest.",
+      "defect": "The System notification has lost the leading list marker preserved by the source and accepted baseline.",
+      "replacement": "- Logout is restricted during this Quest.",
+      "rationale": "The source displays “- 해당 퀘스트 중에는 로그아웃이 제한됩니다.” Retaining the marker also keeps this notice consistent with the earlier Quest-created notification.",
+      "confidence": 0.99
+    }
+  ]
+}
