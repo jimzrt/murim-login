@@ -316,3 +316,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 산화무영수 | **Scattering Flowers Shadowless Hand** | Huashan hand technique listed among Cheongpung's knowledge. |
 | 자하신공 | **Zaha Divine Technique** | Huashan internal-energy technique used by Cheongpung. |
 | 태사부 | **Grandmaster** | Huashan title referring to Mae Jonghak. |
+| 군림 | **The Reign** | Opening fragment of an incomplete wuxia novel title that Taekyung read through volume thirty-four. |

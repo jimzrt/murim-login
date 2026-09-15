@@ -1,6 +1,6 @@
 # Prince Shangshan (상산왕)
 
-- **Safe through:** Chapter 138
+- **Safe through:** Chapter 142
 - **Aliases:** None
 - **Role:** The City Lord and a member of the imperial family who summons martial officials and young Murim prodigies to a noon luncheon.
 - **Personality:** His personal temperament is not established; his authority is treated as commanding and difficult to refuse.
