@@ -1,0 +1,39 @@
+{
+  "chapter": 112,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.411,
+    "source_characters": 6113,
+    "source_paragraphs": 170,
+    "translation_characters": 14736,
+    "translation_paragraphs": 183
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "내공",
+        "preferred": "internal energy"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "사제",
+        "preferred": "Junior Brother"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "광칠",
+        "romanization": "gwangchil"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
