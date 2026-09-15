@@ -102,12 +102,17 @@ def apply_review_replacements(text: str, review: dict) -> str:
         replacement = finding["replacement"]
         starts = [match.start() for match in re.finditer(re.escape(old), text)]
         matched_old = old
-        if not starts and "…." in old:
-            candidate = old.replace("….", "…")
-            candidate_starts = [match.start() for match in re.finditer(re.escape(candidate), text)]
-            if len(candidate_starts) == 1:
-                starts = candidate_starts
-                matched_old = candidate
+        if not starts:
+            candidates = []
+            if "…." in old:
+                candidates.append(old.replace("….", "…"))
+            candidates.append(f"*{old}*")
+            for candidate in candidates:
+                candidate_starts = [match.start() for match in re.finditer(re.escape(candidate), text)]
+                if len(candidate_starts) == 1:
+                    starts = candidate_starts
+                    matched_old = candidate
+                    break
         if len(starts) != 1:
             thought_formatting = (
                 old.startswith("“") and old.endswith("”")
