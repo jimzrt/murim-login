@@ -1,0 +1,38 @@
+{
+  "chapter": 129,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.437,
+    "source_characters": 5886,
+    "source_paragraphs": 176,
+    "translation_characters": 14344,
+    "translation_paragraphs": 178
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "system_brackets",
+      "details": {
+        "line": 103
+      },
+      "message": "System window contains square brackets"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "후기지수",
+        "preferred": "young prodigy / rising martial artist"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "귀가",
+        "preferred": "your family"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}

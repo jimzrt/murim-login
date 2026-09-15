@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "He was startled once by the fifty mounted riders and the intimidating presence of the escort, then twice more when he recognized Hyuk Mujin and me.",
+      "defect": "“Twice more” makes him react three times in total. The Korean counts the first shock and then a second shock.",
+      "id": "F01",
+      "rationale": "한 번 놀라고 … 두 번 놀랐다 means he was startled once and then for the second time, not two additional times.",
+      "replacement": "He was startled once by the fifty mounted riders and the intimidating presence of the escort, then a second time when he recognized Hyuk Mujin and me.",
+      "severity": "critical",
+      "source": "녀석은 오십 기의 기마, 호위대의 위압감에 한 번 놀라고 나와 혁무진을 보고 두 번 놀랐다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“The private room is fifty nyang of silver for one night. That’s right, isn’t it?”",
+      "defect": "별채 is a separate annex or detached lodging, not merely a private room.",
+      "id": "F02",
+      "rationale": "The current wording changes the type and scale of accommodation being rented.",
+      "replacement": "“The private annex is fifty nyang of silver for one night. That’s right, isn’t it?”",
+      "severity": "critical",
+      "source": "“별채가 하룻밤에 은자 오십 냥. 맞지?”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "The City Lord is the one who governs each city under the Emperor’s command, so he possesses considerable power and authority.",
+      "defect": "The translation changes 각 성 from the provinces to cities, substantially understating the City Lord’s jurisdiction.",
+      "id": "F03",
+      "rationale": "Here 성 refers to a province, as confirmed by Shanxi Province and the explanation of the City Lord’s extensive authority.",
+      "replacement": "The City Lords govern their respective provinces under the Emperor’s command, so they possess considerable power and authority.",
+      "severity": "critical",
+      "source": "바로 그 황제의 명을 받들어 각 성을 다스리는 자가 성주이니 상당한 힘과 권한이 있지."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Second Young Master, our family has not yet become one of the Nine Sects or Ten Great Families. Please refrain from saying things that could cause trouble.”",
+      "defect": "The draft mistranslates both named Murim groupings: 구파일방 is the Nine Sects and One Gang, while 오대세가 is the Five Great Families, not Ten Great Families.",
+      "id": "F04",
+      "rationale": "The current version changes the identities and quantities of two major institutional groupings invoked to explain the Jin Family’s limited standing.",
+      "replacement": "“Second Young Master, our family does not yet stand alongside the Nine Sects and One Gang or the Five Great Families. Please refrain from saying anything that could cause trouble.”",
+      "severity": "critical",
+      "source": "“이공자, 본 가는 아직 구파일방도, 오대세가도 되지 못합니다. 자칫 문제가 생길 말은 삼가십시오.”"
+    },
+    {
+      "confidence": 0.95,
+      "current": "But the mounted bandits killed and burned people indiscriminately, didn’t they?",
+      "defect": "The draft makes people the explicit object of both killing and burning, whereas the Korean leaves the object of 불태우다 unstated and broadly describes indiscriminate killing and arson.",
+      "id": "F05",
+      "rationale": "닥치는 대로 modifies the bandits’ indiscriminate destruction without specifically stating that they burn people alive.",
+      "replacement": "But the mounted bandits killed indiscriminately and burned everything in their path, didn’t they?",
+      "severity": "major",
+      "source": "하지만 마적 놈들은 그런 거 없이 닥치는 대로 죽이고 불태우는 놈들 아닌가?"
+    },
+    {
+      "confidence": 0.99,
+      "current": "There are rumors that the current Emperor assassinated the Crown Prince, his own older brother, before ascending the throne.",
+      "defect": "The draft omits 바로 위의, which identifies the Crown Prince as the Emperor’s immediately older brother rather than merely any older brother.",
+      "id": "F06",
+      "rationale": "The source gives a specific sibling-order relationship that the current translation flattens.",
+      "replacement": "There are rumors that the current Emperor assassinated the Crown Prince, the brother immediately older than him, before ascending the throne.",
+      "severity": "major",
+      "source": "현 황제도 바로 위의 형인 태자를 암살하고 황위에 올랐다는 소문이 도니까."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Then how can someone who’s practically a king be so incompetent? If he writes his brother a single letter, he could get all the support he needs from the capital. Are they on bad terms?”",
+      "defect": "“From the capital” adds a location absent from the Korean. 위에서 refers generally to support from above or the higher authorities.",
+      "id": "F07",
+      "rationale": "The source specifies the direction of authority, not where the assistance would physically originate.",
+      "replacement": "“Then how can someone who’s practically a king be so incompetent? If he writes his brother a single letter, he could get all the support he needs from above. Are they on bad terms?”",
+      "severity": "major",
+      "source": "“그런데 왕씩이나 되는 양반이 왜 그렇게 무능해? 형한테 편지 한 통 쓰면 위에서 지원 빵빵하게 해 주겠구먼. 둘이 사이 안 좋나?”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Y-yes, sir!”",
+      "defect": "The generic acknowledgment loses the formal subordinate register of 존명, an explicit declaration that the order will be obeyed.",
+      "id": "F08",
+      "rationale": "존명 is a deferential acceptance of an order, fitting Hyuk Mujin’s response to the Lesser Family Head.",
+      "replacement": "“A-as you command!”",
+      "severity": "minor",
+      "source": "“조, 존명!”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Treason is punishable by at least the punishment of three clans. Congratulations, little brother.”",
+      "defect": "“Punishable by at least the punishment” is an unnatural and redundant English construction.",
+      "id": "F09",
+      "rationale": "The replacement naturally preserves the stated minimum scope of collective punishment and Jin Mukyung’s deadpan taunt.",
+      "replacement": "“Treason gets at least three clans punished. Congratulations, little brother.”",
+      "severity": "minor",
+      "source": "“역모죄는 최소 삼족(三族)이 처벌받지. 축하한다, 아우야.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "> **System**\n>\n> A **Quest** has been created.\n\n## Quest\n\n### [The City Lord’s Invitation]\n\nHigh renown is bound to attract attention.\n\nThe City Lord of Shanxi Province, having heard rumors about the Sleeping Dragon of Shanxi, invites you to a luncheon with several young prodigies tomorrow.\n\n**Grade:** Third Rate\n\n**Restriction:** Jin Taekyung\n\n**Objective:** Attend the luncheon hosted by the City Lord (Incomplete)\n\n**Reward:** Varies according to the City Lord’s reaction.\n\n**Failure:** The City Lord becomes extremely depressed.\n\nWould you like to accept the Quest?\n\n**Y / N**\n\n※ If you reject the Quest, the City Lord may sulk.",
+      "defect": "Most of the consecutive Quest interface is placed outside the System blockquote, and the Quest title is unnecessarily enclosed in square brackets.",
+      "id": "F10",
+      "rationale": "All consecutive lines of an actual game interface must remain within one System window, and System UI titles should not retain source-style square brackets.",
+      "replacement": "> **System**\n>\n> A **Quest** has been created.\n>\n> **Quest**\n>\n> **The City Lord’s Invitation**\n>\n> High renown is bound to attract attention.\n>\n> The City Lord of Shanxi Province, having heard rumors about the Sleeping Dragon of Shanxi, invites you to a luncheon with several young prodigies tomorrow.\n>\n> **Grade:** Third Rate\n>\n> **Restriction:** Jin Taekyung\n>\n> **Objective:** Attend the luncheon hosted by the City Lord (Incomplete)\n>\n> **Reward:** Varies according to the City Lord’s reaction.\n>\n> **Failure:** The City Lord becomes extremely depressed.\n>\n> Would you like to accept the Quest?\n>\n> **Y / N**\n>\n> ※ If you reject the Quest, the City Lord may sulk.",
+      "severity": "minor",
+      "source": "- 퀘스트가 생성되었습니다.\n\n\n\n퀘스트\n\n\n\n[성주의 초청]\n\n높은 명성을 가진 이에게는 관심이 뒤따르기 마련.\n\n산서잠룡에 관한 소문을 들은 산서성의 성주(城主)가 당신을 내일 있을 후기지수들과의 오찬에 초청합니다.\n\n\n\n등급 : 삼류\n\n제한 : 진태경\n\n임무 : 성주가 주최하는 오찬에 참석 (미완료)\n\n보상 : 성주의 반응에 따라 달라집니다.\n\n실패 : 성주가 무척 우울해합니다.\n\n\n\n퀘스트를 수락하시겠습니까?\n\nY   /   N\n\n※ 퀘스트 거절 시, 성주가 삐질 수 있습니다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "You have accepted the **[The City Lord’s Invitation]** Quest!",
+      "defect": "The System notice retains square brackets around the Quest title, contrary to the required System-panel formatting.",
+      "id": "F11",
+      "rationale": "The framed System window already identifies this as UI content, so the source brackets should not be reproduced.",
+      "replacement": "You have accepted the **The City Lord’s Invitation** Quest!",
+      "severity": "minor",
+      "source": "- [성주의 초청] 퀘스트를 수락했습니다!"
+    }
+  ],
+  "summary": "Several factual and structural errors alter quantities, lodging type, governmental jurisdiction, institutional hierarchy, and kinship; the System panels also violate the required Markdown format.",
+  "version": 1
+}
