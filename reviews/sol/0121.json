@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "And after coming and going from the threshold of death as many times as I had today, it was even worse.",
+      "defect": "The draft adds multiple trips to the brink of death; the source describes having skirted death today without specifying a count.",
+      "id": "F01",
+      "rationale": "The added phrase “as many times” introduces an unsupported quantity and changes the account of the battle.",
+      "replacement": "And after skirting the brink of death like I had today, it was even worse.",
+      "severity": "critical",
+      "source": "오늘처럼 죽음의 문턱을 오고 간 뒤라면 훨씬 더하다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Of course I do. He would’ve just dropped dead.”",
+      "defect": "The draft reverses the joke’s subject: Taekyung says Hyuk Mujin would have died, not Pung Yang.",
+      "id": "F02",
+      "rationale": "The omitted Korean subject is Hyuk Mujin, whom Taekyung is mocking for claiming he could have handled Pung Yang.",
+      "replacement": "“Of course I do. You would’ve gotten yourself killed on the spot.”",
+      "severity": "critical",
+      "source": "“그럼, 당연히 알지. 확 그냥 죽어 버렸을 거라는 거.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“What about Jin Mukyung? I mean, your second brother?”",
+      "defect": "The possessive makes Jin Mukyung Hyuk Mujin’s brother rather than Taekyung’s.",
+      "id": "F03",
+      "rationale": "둘째 형 is Taekyung’s self-correction from his brother’s name to their kinship relationship.",
+      "replacement": "“What about Jin Mukyung? I mean, my second brother?”",
+      "severity": "critical",
+      "source": "“진무경, 아니 둘째 형은?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "If not for the **Superior Wound Medicines**, which could heal most external wounds within a few days, and the **Ten-Year He Shouwu**, which had an outstanding effect on Internal Injuries, some of them would already be dead.",
+      "defect": "The draft replaces the source’s deliberately euphemistic River Jordan image with the explicit word “dead” and pluralizes the established Item name.",
+      "id": "F04",
+      "rationale": "요단강 건넜을 거다 literally invokes crossing the River Jordan as a colloquial euphemism for dying, and 뛰어난 금창약 is the established singular Item name.",
+      "replacement": "If not for the **Superior Wound Medicine**, which could heal most wounds within a few days, and the **Ten-Year He Shouwu**, which was exceptionally effective at treating Internal Injuries, some of them would already have crossed the River Jordan.",
+      "severity": "major",
+      "source": "어지간한 상처는 며칠 안에 아물게 해 준다는 [뛰어난 금창약]과 내상 치유에 탁월한 효과가 있는 [십년하수오]가 아니었다면 저들 중 몇 명은 벌써 요단강 건넜을 거다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Now that the Jin Family of Taiyuan had Shanxi Murim firmly in its grasp, it was obvious that any sect that refused the invitation would have an uninteresting future ahead of it.",
+      "defect": "“An uninteresting future” is an unnatural literal rendering that obscures the veiled threat that refusing sects will face unpleasant consequences.",
+      "id": "F05",
+      "rationale": "앞으로의 행보가 재미없을 거 uses understatement to threaten adverse consequences, not literal boredom.",
+      "replacement": "Now that the Jin Family of Taiyuan had Shanxi Murim firmly in its grasp, it was obvious that things would not go well for any sect that refused the invitation.",
+      "severity": "major",
+      "source": "태원진가가 산서 무림을 틀어쥔 지금, 초대에 응하지 않는 문파는 앞으로의 행보가 재미없을 거라는 사실은 불 보듯 뻔하다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "After all that talk about being my benefactor, perhaps she wasn’t just saying empty words.",
+      "defect": "The draft reverses who is the benefactor: Lee Seowol has repeatedly called Taekyung her benefactor, not claimed to be his.",
+      "id": "F06",
+      "rationale": "은공 is Lee Seowol’s address for Taekyung, and her territorial concession demonstrates that her expressions of gratitude were sincere.",
+      "replacement": "After calling me her benefactor over and over, it seemed she hadn’t just been paying lip service.",
+      "severity": "critical",
+      "source": "은공, 은공 하더니 아주 헛말은 아닌 모양이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Thank you. Our eldest brother will be pleased.”",
+      "defect": "The inclusive English possessive incorrectly suggests that Taekyung and Lee Seowol share an eldest brother.",
+      "id": "F07",
+      "rationale": "큰형님 refers to Taekyung’s eldest brother, Jin Wikyung; 저희 is humble reference to Taekyung’s own side rather than shared kinship with Lee Seowol.",
+      "replacement": "“Thank you. My eldest brother will be pleased.”",
+      "severity": "critical",
+      "source": "“감사합니다. 저희 큰형님이 흡족해하시겠네요.”"
+    }
+  ],
+  "summary": "Several subject, kinship, quantity, and register errors alter scene facts or weaken deliberate euphemisms.",
+  "version": 1
+}

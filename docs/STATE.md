@@ -1,25 +1,23 @@
 # Translation State
 
-- Last completed: 120
-- Next chapter: 121
-- Current block: 120–124 (1/5)
-- Latest translation: `translations/0120.md`
-- Latest summary: `summaries/beats/0120.md`
-- Safe profiles through: chapter 120
+- Last completed: 121
+- Next chapter: 122
+- Current block: 120–124 (2/5)
+- Latest translation: `translations/0121.md`
+- Latest summary: `summaries/beats/0121.md`
+- Safe profiles through: chapter 121
 
 ## Current Block
 
-- Jin Taekyung's Unnamed Sword, empowered by Ten-Thousand-Year Cold Iron, destroys Pung Yang's Body-Protecting Qi and pierces his chest. Pung Yang begs for his last Temporary Strength Pill, but Taekyung refuses, and Pung Yang dies.
-- Pung Yang's defeat completes the Temporary Strength Pill Quest, granting Taekyung five level-ups, massive EXP and Fame, and Full Recovery. Taekyung's Blazing Flame Divine Pill is fully absorbed, raising his internal energy to forty-five years and adding the Scorching Yang Qi attribute; he uses the reward medicines to treat the wounded Mount Heng martial artists.
-- The two-hour search finds twenty-five survivors including Lee Seowol, though five are unlikely to survive the day. The Mount Heng Sword Sect is effectively destroyed, but Seowol vows that it will survive. Taekyung delivers Jin Wikyung's invitation to Seowol, completing the Yesterday's Enemy, Today's Ally Quest.
+- After the battle, Jin Taekyung rests in a Mount Heng Sword Sect pavilion while Hyuk Mujin massages his shoulders and reports that Jin Mukyung and the other wounded are recovering. Wolhwa's Lower District Sect support force has arrived with physicians, cooks, and laborers to manage relief work. Lee Seowol visits to accept the Jin Family of Taiyuan's invitation and offers all rights to the territory occupied by the Mount Heng Sword Sect as an apology. She then presents her father's Blood Wolf Sword Technique and Blood Wolf Footwork, along with Cheol Mubaek's Shura Annihilating Fist, as Peak martial arts in a transaction: in exchange, she asks Taekyung to marry her. Afterward, Hyuk Mujin reveals that the seventeen-year-old Lee Seowol made the proposal, leaving Taekyung stunned.
 
 ## Open Questions
 
-- Will the five gravely injured Mount Heng survivors survive the day?
+- Will Jin Taekyung accept Lee Seowol's marriage proposal?
+- How will the Jin Family of Taiyuan respond to Lee Seowol's proposed transaction and territorial transfer?
 - Can Lee Seowol preserve or rebuild the Mount Heng Sword Sect with so few survivors?
 - What is the origin and full long-term effect of the Temporary Strength Pill?
 - What consequences will Pung Yang's death have for the Red Wind Band and the wider Murim?
-- What will result from Jin Wikyung's invitation to Lee Seowol?
 
 ## Exceptional Decision
 
@@ -30,6 +28,7 @@
 - Render 완전 회복 as Full Recovery.
 - Render 회광반조 as final rally in this death-and-recovery context.
 - Render 운칠기삼 as seven parts luck and three parts skill, and 운구기일 as nine parts luck and one part qi, with a footnote explaining the variation.
+- Render 은공 as Benefactor and 절정 무공 as Peak martial arts.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
