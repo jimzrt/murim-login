@@ -1,17 +1,16 @@
 # Translation State
 
-- Last completed: 143
-- Next chapter: 144
-- Current block: 140–144 (4/5)
-- Latest translation: `translations/0143.md`
-- Latest summary: `summaries/beats/0143.md`
-- Safe profiles through: chapter 143
+- Last completed: 144
+- Next chapter: 145
+- Current block: 140–144 (5/5)
+- Latest translation: `translations/0144.md`
+- Latest summary: `summaries/beats/0144.md`
+- Safe profiles through: chapter 144
 
 ## Current Block
 
-- After the Three Hands of Zhongnan leave in disgrace, Hong Jin has the grand hall cleaned and the meal replaced. He and Li Feng escort Jin Taekyung and Cheongpung through the Shanxi Provincial Office, where Li Feng commands the soldiers' respect while Hong Jin inspires fear among officials and servants.
-- At the heavily guarded tenth gate, Cheongpung decides he wants to join the royal guard because he admires their black armor. Li Feng reminds him that he is Huashan's direct Disciple and bargains with him: if Cheongpung calls Li Feng Martial Nephew, he will receive royal-guard armor and weapons. Cheongpung immediately agrees, creating another awkward spectacle.
-- The group finally finds ten-year-old Prince Shangshan, Zhu Bao, practicing swordsmanship. Zhu Bao has trained daily for three years and is far more skilled than Taekyung expected. After learning that Taekyung is the Sleeping Dragon of Shanxi, Zhu Bao gives him a wooden tablet and dagger and asks him for an autograph.
+- Prince Shangshan Zhu Bao asks Jin Taekyung for an autograph. Taekyung carves Sleeping Dragon of Shanxi, Jin Taekyung into a wooden tablet, adds words encouraging Zhu Bao to persevere, and gives it to him. Zhu Bao plans to enlarge the tablet and hang it on the Shanxi Provincial Office's signboard. Taekyung then tells Zhu Bao about defeating Jopil, Jin Baekyang, and Pung Yang, introduces Cheongpung as Mae Jonghak's disciple, and leaves Zhu Bao enthusiastically questioning Cheongpung.
+- The City Lord's luncheon quest condition is fulfilled, with its reward deferred until the luncheon ends. Hong Jin and Li Feng ask the Jin Family of Taiyuan to support an Escort Bureau capable of expanding from Shaanxi into the Central Plains, offering half the funding and every possible convenience. They changed their intended partner from Zhongnan Sect to Huashan after learning that Mae Jonghak had remained there and raised successors. Taekyung agrees only to pass the proposal to Jin Wikyung, then suggests taking over the Seongun Escort Bureau by changing its sign.
 
 ## Open Questions
 
@@ -19,10 +18,11 @@
 - Why did Mae Jonghak remain hidden at Huashan despite the sect eventually finding his residence?
 - What are the names and individual identities of the other two members of the Three Hands of Zhongnan?
 - What is the full title of the wuxia novel beginning with 군림…… that Taekyung read through volume thirty-four?
+- Was the Emperor's reported suspicion of his younger brother the reason Prince Shangshan was sent to Shanxi, and what danger does the imperial succession pose?
 
 ## Exceptional Decision
 
-- Render 전하 as “His Highness” as the formal royal address and 왕 as “king” when Cheongpung uses it literally.
+- Render 전하 as “His Highness” as the formal royal address and 왕 as “king” when used literally.
 - Render 초일류 as “advanced First Rate” and 군문 as “military” when describing an affiliation.
 - Render 풍운검군 as “Wind-and-Cloud Sword Lord” and 오촌 당숙 as “father's cousin.”
 - Render 태을미리장 as “Taeeul Miri Palm.”
