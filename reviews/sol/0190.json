@@ -1,0 +1,126 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Everyone's excitement drained away. Fast? That was not the simple, obvious answer they had wanted.",
+      "defect": "The second sentence misplaces the negation and implies that they wanted a simple, obvious answer, whereas the source says they did not want such a simplistic answer.",
+      "id": "F01",
+      "rationale": "그렇게 단순하고 쉬운 대답을 원한 것이 아니었다 explicitly rejects that kind of simple answer.",
+      "replacement": "Everyone's excitement drained away. Fast? They hadn't been looking for such a simple, obvious answer.",
+      "severity": "major",
+      "source": "사람들은 맥이 탁 풀렸다. 빨랐다니, 그렇게 단순하고 쉬운 대답을 원한 것이 아니었다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "“It is possible. My Benefactor can do it.”",
+      "defect": "The draft smooths away the source's emphatic inversion, which isolates Benefactor as the exception and contributes to Cheongpung's distinctive voice.",
+      "id": "F02",
+      "rationale": "The delayed 은인은 emphasizes that what is impossible for others is possible specifically for his Benefactor.",
+      "replacement": "“It's possible. For my Benefactor.”",
+      "severity": "minor",
+      "source": "“가능해요. 은인은.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "*Second was bound to lose.*",
+      "defect": "The bare noun “Second” is not natural English and obscures that Baek Museong is referring to his second junior disciple.",
+      "id": "F03",
+      "rationale": "둘째 is Baek Museong's hierarchical shorthand for Chulwoo, his second junior disciple.",
+      "replacement": "*My second junior brother was bound to lose.*",
+      "severity": "major",
+      "source": "‘둘째가 질 수밖에 없었군.’"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Whatever else he lacked, he had been born with one thing: tremendous strength. Even Cheongpung had to yield a point to him in that regard.",
+      "defect": "“Whatever else he lacked” invents deficiencies not stated in the source, “tremendous strength” weakens the exceptional innate 신력, and “yield a point” is an unnatural rendering of conceding superiority.",
+      "id": "F04",
+      "rationale": "다른 건 몰라도 does not assert that Chulwoo lacks other qualities, while 신력을 타고난 and 한 수 접어 줘야 한다 establish innate exceptional strength surpassing even Cheongpung's.",
+      "replacement": "Whatever else you could say about him, he'd been born with one extraordinary gift: superhuman strength. Even Cheongpung couldn't match him in that regard.",
+      "severity": "major",
+      "source": "다른 건 몰라도 딱 하나, 힘 하나는 신력(神力)을 타고난 놈이다. 청풍도 이놈 앞에서는 한 수 접어 줘야 한다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "I had let my guard down, sure, but this guy had terrible manners.",
+      "defect": "The draft sanitizes the deliberately crude description 아주 똥인데 and removes the rhetorical, incredulous tone.",
+      "id": "F05",
+      "rationale": "매너가 아주 똥인데 literally and comically characterizes his manners as shit, matching Taekyung's profane narration.",
+      "replacement": "Sure, I'd let my guard down, but weren't this bastard's manners absolute shit?",
+      "severity": "minor",
+      "source": "내가 방심한 것도 있지만 이놈 매너가 아주 똥인데?"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Steel yourself, Chulwoo.”\n\n“Are those your last words?”\n\n“No. A wise saying.”",
+      "defect": "The draft invents a coherent command and loses the source's deliberate syllable-swapping joke based on “Pathetic, Chulwoo.”",
+      "id": "F06",
+      "rationale": "철하다. 추우야 swaps the opening syllables of the normal insult 추하다, 철우야; the malformed line is intentional and motivates the response about last words and wisdom.",
+      "replacement": "“Chulthetic, Pawoo.”[^1]\n\n“Are those your last words?”\n\n“No. Words of wisdom.”\n\n[^1]: Taekyung mangles “Pathetic, Chulwoo” by swapping their opening sounds.",
+      "severity": "major",
+      "source": "“철하다. 추우야.”\n\n“그게 유언이냐?”\n\n“아니. 띵언.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“You spout nonsense whenever you get the chance. Give up on this Young Lady, and I'll let you off here.”\n\n“Did I ever tell you?”\n\n“What?”\n\n“I got a marriage proposal from this Young Lady.”",
+      "defect": "Both instances of 이 소저 are rendered as the generic and unnatural “this Young Lady,” losing Lee Seowol's surname-based form of address.",
+      "id": "F07",
+      "rationale": "Here 이 is Lee Seowol's surname, and the established form of address is “Young Lady Lee.”",
+      "replacement": "“You spout nonsense whenever you get the chance. Give up on Young Lady Lee, and I'll let you off here.”\n\n“Did I ever tell you?”\n\n“What?”\n\n“Young Lady Lee proposed to me.”",
+      "severity": "minor",
+      "source": "“틈만 나면 헛소리를 지껄이는군. 이 소저를 포기해라. 그럼 이쯤에서 봐주지.”\n\n“혹시 내가 말했었나?”\n\n“뭐?”\n\n“나, 이 소저한테 청혼받았다.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Between the temporary boost from the Title **Gambler** and the points I had just allocated, the strength inhabiting my body had far surpassed the limits of a human being.\n\nEven Chulwoo, with his massive frame and tremendous strength, was no exception.",
+      "defect": "“Was no exception” grammatically says Chulwoo's strength likewise surpassed human limits. The source instead presents even the exceptionally strong Chulwoo as unable to contend with Taekyung's current strength.",
+      "id": "F08",
+      "rationale": "철우마저도 is a concessive fragment continuing the fact that Taekyung does not budge: even Chulwoo cannot overcome his strength.",
+      "replacement": "With the temporary boost from the **Gambler** Title and the points I'd just allocated, the strength coursing through my body now far surpassed human limits.\n\nNot even Chulwoo, with his massive frame and innate superhuman strength, could overpower me.",
+      "severity": "critical",
+      "source": "일시적으로 상승한 [승부사]의 칭호 효과와 새롭게 부여한 포인트까지. 현재 내 몸에 깃든 힘은 인간의 한계를 아득히 뛰어넘는다.\n\n거대한 체격과 신력을 타고난 철우마저도."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“This should put your Strength stat comfortably over 200.”",
+      "defect": "“Put” implies that the present action or some boost has raised Chulwoo's stat. Taekyung is estimating Chulwoo's existing Strength from the force he displays.",
+      "id": "F09",
+      "rationale": "이 정도면 … 넘겠는데 expresses Taekyung's inference about Chulwoo's stat, not a stat increase.",
+      "replacement": "“At this level, your Strength stat must be well over 200.”",
+      "severity": "major",
+      "source": "“이 정도면 근력 스탯 200은 가뿐히 넘겠는데.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "At the main gate of the Jin Family of Taiyuan, some two hundred meters from the Grand Training Ground,",
+      "defect": "The draft treats two hundred jang as two hundred meters, reducing the stated distance by roughly two-thirds.",
+      "id": "F10",
+      "rationale": "One 장 is approximately three meters, so 이백여 장 is roughly six hundred meters.",
+      "replacement": "At the main gate of the Jin Family of Taiyuan, some six hundred meters from the Grand Training Ground,",
+      "severity": "critical",
+      "source": "대연무장에서 이백여 장 떨어진 태원진가의 대문."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Gasp! Have you already gotten in line behind him?”\n\n“What do you mean, gotten in line?”",
+      "defect": "The literal queue imagery obscures the idiom 줄 서다, which here means choosing a patron or aligning oneself with a rising power.",
+      "id": "F11",
+      "rationale": "The low-ranking martial artist is asking whether Hyuk Mujin has already attached himself politically and personally to Taekyung.",
+      "replacement": "“Gasp! You've already thrown your lot in with him?”\n\n“What do you mean, thrown my lot in?”",
+      "severity": "major",
+      "source": "“헉! 벌써 줄 서신 겁니까?”\n\n“줄을 서긴 무슨.”"
+    },
+    {
+      "confidence": 0.95,
+      "current": "“What would those bastards know? Looks like they let every Tom, Dick, and Harry in just because they were feeling good.”",
+      "defect": "“Those bastards” intensifies the dismissive 제깟 놈들이 into stronger profanity absent from the source.",
+      "id": "F12",
+      "rationale": "제깟 놈들 is contemptuous but functions as “the likes of them” here; the stronger explicit insult is supplied later by neither wording nor context.",
+      "replacement": "“What would the likes of them know? Looks like they let every Tom, Dick, and Harry in just because they were in a good mood.”",
+      "severity": "minor",
+      "source": "“제깟 놈들이 뭘 알겠습니까. 기분이 좋다고 개나 소나 다 받아들인 모양입니다.”"
+    }
+  ],
+  "summary": "Two consequential fidelity errors alter Chulwoo’s relative strength and the gate’s distance from the training ground. Several additional passages lose hierarchy, wordplay, register, or the source’s intended emphasis.",
+  "version": 1
+}
