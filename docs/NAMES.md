@@ -335,3 +335,10 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 은원보 | **silver yuanbao** | Small silver ingot given to Taekyung as pocket money. |
 | 대국 | **Great Nation** | Political wording on the Jin Family's welcome banner. |
 | 성군 | **sage king** | Desired form of rulership proclaimed for Prince Shangshan. |
+| 대태원진가 | **great Jin Family of Taiyuan** | Formal exalted reference to the Jin Family of Taiyuan. |
+| 평양 | **Pyongyang** | City invoked in Taekyung's communist-atmosphere joke. |
+| 천하제일인 | **greatest under heaven** | Superlative martial distinction used in Hong Jin and Jin Wikyung's banter. |
+| 고금제일인 | **greatest of all time** | Superlative martial distinction used in Hong Jin's exaggerated praise. |
+| 비무행 | **dueling tour** | Cheongpung's planned journey to challenge the Ten Dragons and Phoenixes. |
+| 청강검 | **blue-steel sword** | Cheongpung's sword. |
+| 광염 | **light-flames** | Violet manifestation surrounding Cheongpung when he uses the Zaha Divine Technique. |

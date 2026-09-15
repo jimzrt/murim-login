@@ -1,6 +1,6 @@
 # Wipeng (위팽)
 
-- **Safe through:** Chapter 147
+- **Safe through:** Chapter 148
 - **Aliases:** Ghost Sword; God of Drinking
 - **Role:** Jin Wikyung’s personal guard and commander of the thirty-elite pursuit team sent south under an assassin-hunt pretext
 - **Personality:** Loyal, observant, teasing, and resigned to his master’s impulsive departures

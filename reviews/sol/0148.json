@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Uhehehe. It seems our youngest—no. It seems my younger brother made quite an impression on you.”",
+      "defect": "The translation makes Hong Jin the person impressed by Taekyung, but Jin Wikyung is saying that His Highness appears to have taken a liking to his younger brother.",
+      "id": "F01",
+      "rationale": "The omitted subject of 드신 is His Highness from the preceding exchange, not Hong Jin.",
+      "replacement": "“Uhehehe. It seems our youngest—no. It seems His Highness has taken quite a liking to my younger brother.”",
+      "severity": "critical",
+      "source": "으허허, 우리 막내…… 아니. 제 아우가 마음에 쏙 드신 모양이군요."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Hong Jin’s expression hardened at Jin Wikyung’s excited chatter, which had completely forgotten to maintain its dignity.",
+      "defect": "The relative clause grammatically makes the chatter forget to maintain its dignity, whereas Jin Wikyung is the one who gets carried away and drops his dignified demeanor.",
+      "id": "F02",
+      "rationale": "The subject of 무게 잡는 것도 잊고 is Jin Wikyung.",
+      "replacement": "Hong Jin’s expression hardened as Jin Wikyung got carried away, chattering excitedly and forgetting all about maintaining his dignity.",
+      "severity": "minor",
+      "source": "무게 잡는 것도 잊고 신이 나서 떠들어 대는 진위경의 모습에 홍진이 얼굴을 굳혔다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I can’t drink if there’s nothing to drink.”",
+      "defect": "The wording does not clearly deliver the idiomatic reversal: Hong Jin is revealing that he loves alcohol and only fails to drink when none is available.",
+      "id": "F03",
+      "rationale": "없어서 못 먹다 is a joking idiom meaning that scarcity, not reluctance or low tolerance, is the only obstacle.",
+      "replacement": "“The only time I can’t drink is when there’s none to be had.”",
+      "severity": "major",
+      "source": "없어서 못 먹어요."
+    },
+    {
+      "confidence": 0.97,
+      "current": "As I stood there at a loss, merely smacking my lips, a clear, ringing voice echoed through the room.",
+      "defect": "The draft invents a room even though the source leaves the location unspecified and the ensuing scene describes exposed ground melting and scorching.",
+      "id": "F04",
+      "rationale": "울려 퍼졌다 describes the voice ringing out without identifying an enclosed setting.",
+      "replacement": "As I stood there at a loss, merely smacking my lips, a clear, ringing voice rang out.",
+      "severity": "minor",
+      "source": "말문이 막혀 입맛만 다시던 그때, 또랑또랑하고 맑은 목소리가 울려 퍼졌다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "A Peak master so young he was practically still a child.",
+      "defect": "The draft overstates an emphatic description of youth into near-childhood, despite Cheongpung being twenty.",
+      "id": "F05",
+      "rationale": "새파랗게 젊은 emphasizes that he is strikingly young, not that he is literally or nearly a child.",
+      "replacement": "An extraordinarily young Peak master.",
+      "severity": "minor",
+      "source": "새파랗게 젊은 절정 고수."
+    },
+    {
+      "confidence": 0.95,
+      "current": "They looked several times more shocked than when they had seen the Flame Divine Palm manual.",
+      "defect": "The draft changes the singular subject to both men and also misses the binding rendering of 비급.",
+      "id": "F06",
+      "rationale": "표정이다 is singular and continues the focus on Jin Mukyung, who has just stammered and exclaimed; 비급 is established as “martial arts manual.”",
+      "replacement": "He looked several times more shocked than when he had seen the Flame Divine Palm martial arts manual.",
+      "severity": "critical",
+      "source": "화염신장의 비급을 봤을 때보다 몇 배는 놀란 표정이다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "As the two men took turns staring at Cheongpung in disbelief, he smiled brightly.",
+      "defect": "The action and subject are reversed: Cheongpung looks back and forth between the two astonished men, rather than the men taking turns staring at him.",
+      "id": "F07",
+      "rationale": "The modifier 두 사람을 번갈아 보던 directly describes Cheongpung looking alternately at the two men.",
+      "replacement": "Cheongpung looked back and forth between the two astonished men, then smiled brightly.",
+      "severity": "critical",
+      "source": "놀라움을 금치 못하는 두 사람을 번갈아 보던 청풍이 해맑게 웃었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I’ve never even met him… He praised you too much.”",
+      "defect": "The object of the praise is reversed. Jin Mukyung means that Mae Jonghak praised him too highly, not that he praised Cheongpung.",
+      "id": "F08",
+      "rationale": "Cheongpung has just quoted Mae Jonghak comparing him unfavorably with the Ten Dragons and Phoenixes, so Jin Mukyung interprets that comparison as praise directed at himself.",
+      "replacement": "“I’ve never even met him… He praised me too highly.”",
+      "severity": "critical",
+      "source": "난 그분을 만나 본 적도 없는데…… 과찬을 하셨군."
+    },
+    {
+      "confidence": 0.97,
+      "current": "The internal energy boiling up from his dantian spread through his limbs and bones.",
+      "defect": "“Limbs and bones” inaccurately literalizes 사지백해, which denotes the whole body rather than bones specifically.",
+      "id": "F09",
+      "rationale": "사지백해 is a conventional whole-body expression describing energy extending throughout the body.",
+      "replacement": "The internal energy boiling up from his dantian coursed through every part of his body.",
+      "severity": "minor",
+      "source": "단전에서 끓어오른 공력이 사지백해로 뻗어 나간다."
+    }
+  ],
+  "summary": "Several subject and referent changes alter scene facts, alongside localized register, setting, and mechanical inaccuracies.",
+  "version": 1
+}
