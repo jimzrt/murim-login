@@ -1,0 +1,22 @@
+---
+import type { PreviousSummary } from "../lib/previousSummary";
+
+interface Props {
+  summary: PreviousSummary;
+}
+
+const { summary } = Astro.props;
+---
+
+<details class="previously">
+  <summary>
+    <span class="previously__title">Previously</span>
+    <span class="previously__range">{summary.label}</span>
+  </summary>
+  <div
+    class="previously__body prose"
+    data-pagefind-body
+    data-pagefind-meta={`title:Previously · ${summary.label}`}
+    set:html={summary.html}
+  />
+</details>

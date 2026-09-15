@@ -4,7 +4,9 @@ import Base from "../../layouts/Base.astro";
 import ChapterNav from "../../components/ChapterNav.astro";
 import ChapterDock from "../../components/ChapterDock.astro";
 import Remark42 from "../../components/Remark42.astro";
+import Previously from "../../components/Previously.astro";
 import { allChapters, neighbors, readingMinutes, toRef, type ChapterEntry } from "../../lib/chapters";
+import { loadPreviousSummary } from "../../lib/previousSummary";
 
 export async function getStaticPaths() {
   const entries = await allChapters();
@@ -31,6 +33,7 @@ const { entry, previous, next } = Astro.props;
 const { Content } = await render(entry);
 const minutes = readingMinutes(entry.data.wordCount);
 const description = `${entry.data.title} — about ${minutes} min read. A translation of Murim Login.`;
+const previously = await loadPreviousSummary(entry.data.chapter);
 ---
 
 <Base title={`${entry.data.title} — Murim Login`} chapter={entry.data.chapter} description={description}>
@@ -40,6 +43,7 @@ const description = `${entry.data.title} — about ${minutes} min read. A transl
       <h1 data-pagefind-body data-pagefind-meta="title">{entry.data.title}</h1>
       <p class="reading-meta">{entry.data.chapter} · {minutes} min read</p>
     </header>
+    {previously && <Previously summary={previously} />}
     <ChapterNav previous={previous} next={next} />
     <article class="prose" data-pagefind-body>
       <Content />
