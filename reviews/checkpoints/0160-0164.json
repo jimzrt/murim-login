@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "- *Ten-Thousand-Year Cold Iron* has been added to your Inventory.",
+      "defect": "The System notice drops “Unprocessed” from the established full item name later shown in the Item Window and required by the terminology ledger.",
+      "id": "C01",
+      "rationale": "System-generated item names should remain exact and consistent across acquisition notices, Inventory references, and Item Windows.",
+      "replacement": "- *Unprocessed Ten-Thousand-Year Cold Iron* has been added to your Inventory.",
+      "severity": "major",
+      "source": "Chapter 160, first post-breakthrough reward panel"
+    },
+    {
+      "confidence": 1.0,
+      "current": "- Quest *Find the Craftsman* has been created.",
+      "defect": "The Quest name conflicts with the binding established rendering “Find the Master Artisan,” which is used in Chapter 164 and the checkpoint state.",
+      "id": "C02",
+      "rationale": "This is the formal name of the same System Quest and must not vary between its creation notice and Quest Window.",
+      "replacement": "- Quest *Find the Master Artisan* has been created.",
+      "severity": "major",
+      "source": "Chapter 160, first post-breakthrough reward panel"
+    },
+    {
+      "confidence": 0.97,
+      "current": "*If you want to become a khan, come.*",
+      "defect": "The written message is formatted as italicized direct thought rather than as quoted written material.",
+      "id": "C03",
+      "rationale": "Italics are reserved for direct thoughts; a blockquote clearly distinguishes the letter’s text from narration without mislabeling it as a System panel.",
+      "replacement": "> If you want to become a khan, come.",
+      "severity": "minor",
+      "source": "Chapter 161, contents of Black Sand’s letter"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“…A chicken bone?”\n\n“There’s no part of a chicken that goes to waste. The meat is delicious, the bones make a fine broth when simmered down, and sometimes they’re even good for wielding Sword Energy.”",
+      "defect": "The bone abruptly changes from duck to chicken even though the old man has been eating the explicitly identified roasted duck throughout the scene.",
+      "id": "C04",
+      "rationale": "Keeping the animal consistent preserves the physical continuity of the prop used to cut the sword.",
+      "replacement": "“…A duck bone?”\n\n“There’s no part of a duck that goes to waste. The meat is delicious, the bones make a fine broth when simmered down, and sometimes they’re even good for wielding Sword Energy.”",
+      "severity": "minor",
+      "source": "Chapter 162, the old man blocks the Human Butcher’s sword"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Black Sand, the Squad Leader of the Black Sand Band—known across the steppe as a harbinger of death—poured the mare’s-milk wine.",
+      "defect": "Black Sand is demoted to “Squad Leader,” contradicting Chapters 160–161 and the checkpoint state, which establish him as the leader of the Black Sand Band.",
+      "id": "C05",
+      "rationale": "His established position is the organization’s leader, not a subordinate squad command.",
+      "replacement": "Black Sand, the leader of the Black Sand Band—known across the steppe as a harbinger of death—poured the mare’s-milk wine.",
+      "severity": "major",
+      "source": "Chapter 163, Black Sand serves the old man wine"
+    },
+    {
+      "confidence": 0.95,
+      "current": "*Don’t say anything. If I put one foot wrong, he’ll kill me.*",
+      "defect": "“Put one foot wrong” reads as a literal calque and is unnatural in this immediate danger context.",
+      "id": "C06",
+      "rationale": "The replacement preserves the meaning and anxious internal voice while using natural contemporary English.",
+      "replacement": "*Don’t say anything. One wrong move and he’ll kill me.*",
+      "severity": "minor",
+      "source": "Chapter 163, the leaders react to the old man’s Samadhi True Fire"
+    },
+    {
+      "confidence": 0.99,
+      "current": "How many times had my guts twisted whenever I swung an iron spear while leaving the [Unnamed Sword], made from Ten-Thousand-Year Cold Iron, at my side?",
+      "defect": "The item name is enclosed in square brackets, contrary to the packet’s System/UI formatting rule.",
+      "id": "C07",
+      "rationale": "Italics retain the item-name distinction without importing prohibited bracket notation into the reading copy.",
+      "replacement": "How many times had my guts twisted whenever I swung an iron spear while leaving the *Unnamed Sword*, made from Ten-Thousand-Year Cold Iron, at my side?",
+      "severity": "minor",
+      "source": "Chapter 164, Taekyung compares his spear with the Unnamed Sword"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Only a few hours ago, the Class field had read [First Rate Martial Artist].",
+      "defect": "The former class name is enclosed in square brackets, contrary to the packet’s System/UI formatting rule.",
+      "id": "C08",
+      "rationale": "The replacement preserves the UI-term emphasis while matching the established no-brackets convention.",
+      "replacement": "Only a few hours ago, the Class field had read *First Rate Martial Artist*.",
+      "severity": "minor",
+      "source": "Chapter 164, Taekyung reflects on his new class"
+    }
+  ],
+  "summary": "The packet is broadly coherent, but it contains two binding terminology mismatches, one leadership-title contradiction, a duck/chicken continuity error, and several formatting or prose-level consistency issues.",
+  "version": 1
+}

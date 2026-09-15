@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "*I’m already past Level 71, too.*",
+      "defect": "“Past Level 71” means Level 72 or higher, contradicting the Status Window, which shows Level 71.",
+      "id": "F01",
+      "rationale": "The displayed level fixes Taekyung’s current level at 71; the Korean phrasing expresses that he has already reached that milestone, not that he has exceeded the displayed value.",
+      "replacement": "*I’m already Level 71, too.*",
+      "severity": "critical",
+      "source": "‘레벨도 벌써 71이 넘었고.’"
+    },
+    {
+      "confidence": 0.98,
+      "current": "I had obtained the finest mineral in the world. I could make myself a weapon of my own.",
+      "defect": "The current wording makes Taekyung sound like the person who will craft the weapon, despite the following Quest establishing that a master artisan must make it. It also loses the sense of a personally cherished weapon in 애병.",
+      "id": "F02",
+      "rationale": "In context, Taekyung possesses the material and will commission an artisan; he is not claiming the ability to forge it himself.",
+      "replacement": "I had obtained the finest mineral in the world. I could have a beloved weapon of my own made.",
+      "severity": "major",
+      "source": "만년한철. 천하제일의 광물을 얻었으니 나만의 애병(愛兵)을 만들 수 있다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Don’t do anything like that. It’s embarrassing.”\n\n“Embarrassing? What does that mean?”\n\n“I mean it’s humiliating.”\n\nJin Wikyung asked with a shocked expression,\n\n“Am I embarrassing you? Me—your brother?”",
+      "defect": "The translation replaces the unfamiliar modern slang 쪽팔리다 with ordinary English, making Jin Wikyung’s request for a definition incoherent. It then mistranslates 창피하다 as the stronger “humiliating,” obscuring the register shift that drives his misunderstanding.",
+      "id": "F03",
+      "rationale": "The source joke depends on Taekyung using slang Jin Wikyung does not recognize, then defining it with an ordinary word that Jin Wikyung immediately takes personally.",
+      "replacement": "“Don’t do anything like that. It’s cringe.”\n\n“Cringe? What does that mean?”\n\n“It means embarrassing.”\n\nJin Wikyung asked with a shocked expression,\n\n“Are you saying you’re embarrassed by me? By your own brother?”",
+      "severity": "major",
+      "source": "“그런 거 하지 마세요. 쪽팔리니까.”\n\n“쪽팔리다? 그게 무슨 뜻이냐?”\n\n“창피하다고요.”\n\n진위경이 충격받은 얼굴로 물었다.\n\n“형이, 이 형이 창피한 게냐?”"
+    },
+    {
+      "confidence": 0.95,
+      "current": "Of course it wasn’t, you idiot.",
+      "defect": "“Idiot” softens the strongly insulting 병신아 and weakens Taekyung’s profane internal voice.",
+      "id": "F04",
+      "rationale": "병신아 is a blunt, harsh insult here; the translation rules require preserving rather than sanitizing strong profanity.",
+      "replacement": "Of course it wasn’t, you dumbass.",
+      "severity": "major",
+      "source": "당연히 아니지, 병신아."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Who knew those four letters—Peak Master—could make me this happy?",
+      "defect": "“Peak Master” does not contain four letters, so the literal carryover creates a false statement in English.",
+      "id": "F05",
+      "rationale": "네 글자 refers to the four written Korean characters in 절정 고수; “characters meaning” preserves that quantity without claiming the English rendering has four letters.",
+      "replacement": "Who knew the four characters meaning “Peak Master” could make me this happy?",
+      "severity": "minor",
+      "source": "절정 고수, 저 네 글자에 이렇게 행복질 수 있다니."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Along with those people from the Three Paths Sect—Gwak Jun and the others.",
+      "defect": "“Three Paths Sect” contradicts the binding established name “Samdo Sect,” and the translation drops Taekyung’s uncertainty and dismissive register in 곽준인가 하는.",
+      "id": "F06",
+      "rationale": "삼도문 must use the glossary rendering “Samdo Sect,” while 인가 하는 marks uncertain, casual recollection of Gwak Jun’s name.",
+      "replacement": "With those Samdo Sect guys—Gwak Jun or whatever his name was, and the others.",
+      "severity": "minor",
+      "source": "곽준인가 하는 삼도문 애들이랑 같이."
+    },
+    {
+      "confidence": 1.0,
+      "current": "[Lv. 71 Jin Taekyung]",
+      "defect": "The System entry is incorrectly enclosed in square brackets.",
+      "id": "F07",
+      "rationale": "The required System-panel format explicitly prohibits square brackets around System notices and UI terms.",
+      "replacement": "Lv. 71 Jin Taekyung",
+      "severity": "minor",
+      "source": "[Lv.71 진태경]"
+    },
+    {
+      "confidence": 1.0,
+      "current": "**[Unprocessed Ten-Thousand-Year Cold Iron]**",
+      "defect": "The System item name is incorrectly enclosed in square brackets.",
+      "id": "F08",
+      "rationale": "The containing System blockquote already identifies the interface window, and the binding Markdown rules prohibit these brackets.",
+      "replacement": "**Unprocessed Ten-Thousand-Year Cold Iron**",
+      "severity": "minor",
+      "source": "[가공되지 않은 만년한철]"
+    },
+    {
+      "confidence": 1.0,
+      "current": "**[Find the Master Artisan]**",
+      "defect": "The System Quest title is incorrectly enclosed in square brackets.",
+      "id": "F09",
+      "rationale": "Quest titles inside a System window must appear without square brackets under the binding Markdown rules.",
+      "replacement": "**Find the Master Artisan**",
+      "severity": "minor",
+      "source": "[장인을 찾아라]"
+    }
+  ],
+  "summary": "The draft contains one contradictory level quantity, one altered crafting subject, a lost slang-based misunderstanding, softened profanity, one terminology mismatch, and several System-panel formatting violations.",
+  "version": 1
+}

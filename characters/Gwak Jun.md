@@ -1,6 +1,6 @@
 # Gwak Jun (곽준)
 
-- **Safe through:** Chapter 38
+- **Safe through:** Chapter 164
 - **Aliases:** None revealed
 - **Role:** Level 40 martial artist of the Three Paths Sect
 - **Personality:** Friendly and cheerful as a cover for cold, fanatical violence; fearless, intensely confident, and eager for battle

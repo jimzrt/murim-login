@@ -1,0 +1,69 @@
+{
+  "chapter": 164,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.273,
+    "source_characters": 6590,
+    "source_paragraphs": 219,
+    "translation_characters": 14976,
+    "translation_paragraphs": 193
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "system_brackets",
+      "details": {
+        "line": 7
+      },
+      "message": "System window contains square brackets"
+    },
+    {
+      "code": "system_brackets",
+      "details": {
+        "line": 82
+      },
+      "message": "System window contains square brackets"
+    },
+    {
+      "code": "system_brackets",
+      "details": {
+        "line": 126
+      },
+      "message": "System window contains square brackets"
+    },
+    {
+      "code": "numbers",
+      "details": {
+        "values": [
+          "2400"
+        ]
+      },
+      "message": "Arabic numerals from the source are absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진가심법",
+        "preferred": "Jin Family's Cultivation Technique"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "삼도문",
+        "preferred": "Samdo Sect"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
