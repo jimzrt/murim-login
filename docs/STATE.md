@@ -1,30 +1,30 @@
 # Translation State
 
-- Last completed: 138
-- Next chapter: 139
-- Current block: 135–139 (4/5)
-- Latest translation: `translations/0138.md`
-- Latest summary: `summaries/beats/0138.md`
-- Safe profiles through: chapter 138
+- Last completed: 139
+- Next chapter: 140
+- Current block: 135–139 (5/5)
+- Latest translation: `translations/0139.md`
+- Latest summary: `summaries/beats/0139.md`
+- Safe profiles through: chapter 139
 
 ## Current Block
 
-- Jin Taekyung travels to Prince Shangshan's luncheon in a luxurious six-horse carriage with Cheongpung and the injured Five Gates heirs. Cheongpung's complete lack of worldly experience and intense curiosity about the imperial family alarm everyone, and he accidentally detaches an exquisitely crafted golden dragon from the carriage. Elsewhere, Assistant Military Commissioner Li Feng enters the grand hall and confronts Eunuch Hong, his political rival. Eunuch Hong reveals that he has invited famous martial artists from Shaanxi, including the Three Hands of Zhongnan, to entertain Prince Shangshan. Gong Ilhyuk, the third of the Three Hands, taunts Li Feng over a humiliating defeat at Huashan ten years earlier, just before the young prodigies of Shanxi Murim are announced.
+- Jin Wikyung, Jin Mukyung, and Wipeng travel with a Jin Family procession toward the City Lord's luncheon while Wikyung worries about Taekyung. Mukyung assures him that nothing will go wrong if Taekyung's stomach can handle the person he considers as disgusting as a bug.
+- Taekyung, Cheongpung, and the other young prodigies arrive at the Shanxi Provincial Office, a palace-like fortified complex capable of housing thousands and storing enough grain for a decade of wartime defense. Taekyung observes the highly trained soldiers, while Cheongpung nearly causes an etiquette crisis by calling the resident prince a king.
+- At the luncheon, Taekyung finds five men already engaged in a tense exchange involving the Assistant Military Commissioner, Huashan, and an insult. Level 22 Hong Jin interrupts to greet the guests; Level 68 Li Feng and three martial artists from the Zhongnan Sect of Shaanxi then react to Taekyung's identity. When the Zhongnan men mention their sect, Taekyung excitedly reveals that he knows it from reading about it before realizing this world is not a novel.
 
 ## Open Questions
 
-- None.
+- What conflict involving the Assistant Military Commissioner, Huashan, and an insult preceded Taekyung's arrival at the luncheon?
+- What are the names and individual identities of the three Zhongnan Sect martial artists?
+- What was Taekyung about to say after recognizing the Zhongnan Sect from the novel?
 
 ## Exceptional Decision
 
-- Render 천지신명 as “Heaven and Earth and all the divine spirits,” 엎드려뻗쳐 as lying face down, and 첫 경험 빌런 as “first-experience villain.”
-- Render 칠매검 as “Seven Plum Sword,” 상산왕 as “Prince Shangshan,” and 도지휘첨사 as “Assistant Military Commissioner.”
-- Render 정 소협 and 갈 소협 as “Young Hero Jeong” and “Young Hero Gal.”
-- Render 교권 향상 as “Improve teacher authority!”
-- Render 철전 as “iron coins” and 시진 as “shichen.”
-- Render 왕명 as “royal command” and 씹덕 as “otaku.”
-- Render 육두마차 as “six-horse carriage,” 이풍 as “Li Feng,” and 홍 내관 as “Eunuch Hong.”
-- Render 도지휘동지 as “Deputy Military Commissioner,” 도지휘사 as “Military Commissioner,” 종남삼수 as “Three Hands of Zhongnan,” and 속가제자 as “lay disciple.”
+- Render 전하 as “His Highness” when used as the formal royal address.
+- Render 왕 as “king” when Cheongpung uses it literally, while preserving the official correction to “His Highness.”
+- Render 초일류 as “advanced First Rate.”
+- Render 군문 as “military” when describing an affiliation.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
