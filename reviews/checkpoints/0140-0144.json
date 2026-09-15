@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "I was shocked that Cheongpung had vomited in the very place where the king was about to arrive, but Li Feng seemed unfazed.",
+      "defect": "The narration calls Prince Shangshan a king, contrary to his established title and the packet’s terminology decision reserving literal “king” for Cheongpung’s usage.",
+      "id": "C01",
+      "rationale": "Zhu Bao is consistently established as Prince Shangshan; neutral narration should identify him as the prince.",
+      "replacement": "I was shocked that Cheongpung had vomited in the very place where the prince was about to arrive, but Li Feng seemed unfazed.",
+      "severity": "minor",
+      "source": "Chapter 140, final scene after Cheongpung names Mae Jonghak"
+    },
+    {
+      "confidence": 0.9,
+      "current": "“Get lost, you boomer bastards!”\n\n“……!”\n\n“……!”\n\n*Boomer?* They didn’t know exactly what it meant, but that wasn’t important. It had been followed by the word *bastards*.",
+      "defect": "“Boomer” is dated internet slang and creates a conspicuously contemporary localization in a passage whose joke only requires an unfamiliar insult for an old person.",
+      "id": "C02",
+      "rationale": "“Old fart” preserves the age-based insult and the characters’ confusion without relying on generational internet jargon.",
+      "replacement": "“Get lost, you old-fart bastards!”\n\n“……!”\n\n“……!”\n\n*Old fart?* They didn’t know exactly what it meant, but that wasn’t important. It had been followed by the word *bastards*.",
+      "severity": "minor",
+      "source": "Chapter 142, Cheongpung insulting the Three Hands of Zhongnan"
+    },
+    {
+      "confidence": 0.99,
+      "current": "To him, Cheongpung was both Sword Saint Mae Jonghak’s Disciple and an elder of his sect.",
+      "defect": "The generic relationship noun “Disciple” is accidentally capitalized, unlike its usage elsewhere in the packet.",
+      "id": "C03",
+      "rationale": "The word is not being used as a formal title and should match the packet’s lowercase usage.",
+      "replacement": "To him, Cheongpung was both Sword Saint Mae Jonghak’s disciple and an elder of his sect.",
+      "severity": "minor",
+      "source": "Chapter 143, Li Feng explaining Cheongpung’s behavior"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Martial Uncle Cheongpung, I may be nothing more than a lowly lay disciple, but you are Huashan’s direct Disciple, someone who will bear the future of the sect on your shoulders.",
+      "defect": "The generic relationship noun “Disciple” is accidentally capitalized.",
+      "id": "C04",
+      "rationale": "Lowercase matches “lay disciple” in the same sentence and the established formatting elsewhere.",
+      "replacement": "“Martial Uncle Cheongpung, I may be nothing more than a lowly lay disciple, but you are Huashan’s direct disciple, someone who will bear the future of the sect on your shoulders.",
+      "severity": "minor",
+      "source": "Chapter 143, Li Feng warning Cheongpung about joining the royal guard"
+    },
+    {
+      "confidence": 0.99,
+      "current": "He was asking me for an autograph. A king, no less.",
+      "defect": "The narration misidentifies Prince Shangshan as a king.",
+      "id": "C05",
+      "rationale": "Zhu Bao’s established title is Prince Shangshan, and this is neutral narration rather than Cheongpung’s literal usage.",
+      "replacement": "He was asking me for an autograph. A prince, no less.",
+      "severity": "minor",
+      "source": "Chapter 144, opening reaction to Zhu Bao’s autograph request"
+    },
+    {
+      "confidence": 0.99,
+      "current": "No matter how much of a king he was, he couldn’t hide his age.",
+      "defect": "The narration misidentifies Zhu Bao as a king.",
+      "id": "C06",
+      "rationale": "Using “prince” preserves Zhu Bao’s established rank and avoids terminology drift within the same scene.",
+      "replacement": "No matter how much of a prince he was, he couldn’t hide his age.",
+      "severity": "minor",
+      "source": "Chapter 144, Zhu Bao waiting for the autograph"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The young king’s lips twitched.",
+      "defect": "The narration calls Zhu Bao a king instead of a prince.",
+      "id": "C07",
+      "rationale": "The replacement matches his established title and the chapter’s own later reference to his fandom.",
+      "replacement": "The young prince’s lips twitched.",
+      "severity": "minor",
+      "source": "Chapter 144, Zhu Bao requesting Taekyung’s alias"
+    },
+    {
+      "confidence": 0.99,
+      "current": "I shamelessly placed a hand on the young king’s shoulder and whispered,",
+      "defect": "The narration calls Zhu Bao a king instead of a prince.",
+      "id": "C08",
+      "rationale": "Neutral narration should retain Zhu Bao’s established princely title.",
+      "replacement": "I shamelessly placed a hand on the young prince’s shoulder and whispered,",
+      "severity": "minor",
+      "source": "Chapter 144, Taekyung encouraging Zhu Bao"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The young king examined the tablet and broke into a radiant smile.",
+      "defect": "The narration calls Zhu Bao a king instead of a prince.",
+      "id": "C09",
+      "rationale": "This corrects the rank terminology without changing the scene’s tone or action.",
+      "replacement": "The young prince examined the tablet and broke into a radiant smile.",
+      "severity": "minor",
+      "source": "Chapter 144, Zhu Bao reading the completed tablet"
+    },
+    {
+      "confidence": 0.99,
+      "current": "With the young king, the host and master of the gathering, grinning from ear to ear, it could hardly have been otherwise.",
+      "defect": "The narration calls Zhu Bao a king instead of a prince.",
+      "id": "C10",
+      "rationale": "Zhu Bao remains Prince Shangshan; hosting the luncheon does not change his rank.",
+      "replacement": "With the young prince, the host and master of the gathering, grinning from ear to ear, it could hardly have been otherwise.",
+      "severity": "minor",
+      "source": "Chapter 144, luncheon atmosphere after the System notice"
+    },
+    {
+      "confidence": 1.0,
+      "current": "The City Lord's luncheon has concluded its attendance requirement; the associated Quest Reward is pending until the luncheon ends.",
+      "defect": "The wording says the luncheon has concluded while also stating that it has not yet ended, creating an internal contradiction in active state.",
+      "id": "C11",
+      "rationale": "The System confirmed only that the attendance condition was fulfilled; the luncheon was still underway and the reward had not yet been issued.",
+      "replacement": "The attendance requirement for the City Lord's luncheon has been fulfilled; the associated Quest Reward remains pending until the luncheon ends.",
+      "severity": "major",
+      "source": "Durable state, first active_continuity entry"
+    }
+  ],
+  "summary": "The packet is coherent and preserves its active hooks, but it contains repeated title drift from “prince” to “king,” two capitalization inconsistencies, one dated slang choice, and an active-state sentence that incorrectly implies the luncheon itself has ended.",
+  "version": 1
+}

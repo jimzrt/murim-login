@@ -1,0 +1,106 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "He wanted my autograph. And he was a king, no less.",
+      "defect": "The draft recasts an explicit request as a private desire and makes the follow-up unnecessarily clunky.",
+      "id": "F01",
+      "rationale": "해 달란다 reports that the king is asking Taekyung to do something, not merely that he wants it.",
+      "replacement": "He was asking me for an autograph. A king, no less.",
+      "severity": "minor",
+      "source": "나한테 사인을 해 달란다. 그것도 왕이."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Hidden beneath his archaic, historical-drama way of speaking was an unmistakable eagerness.",
+      "defect": "“Eagerness” weakens 간절함, which conveys an urgent, almost desperate desire that the child is trying to conceal.",
+      "id": "F02",
+      "rationale": "The following fidgeting is offered as evidence of Zhu Bao’s concealed 간절함, making the intensity and attempted concealment meaningful characterization.",
+      "replacement": "Hidden beneath his archaic, historical-drama way of speaking was a desperate eagerness he was trying to conceal.",
+      "severity": "major",
+      "source": "사극에서나 나올 법한 고풍스러운 말투 속에는 보이지 않는 간절함이 숨겨져 있다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "*When things seem impossible, try rummaging through your Inventory. You might find an elixir that’ll shave half a jiazi off your training time, or a weapon made of Ten-Thousand-Year Cold Iron.*",
+      "defect": "The draft invents a training-time reduction mechanism. The source describes the elixir itself as being worth half a jiazi.",
+      "id": "F03",
+      "rationale": "반 갑자짜리 영약 does not say that the elixir shortens training by half a jiazi; converting its stated value into a different mechanical effect is unsupported.",
+      "replacement": "*When things seem impossible, try rummaging through your Inventory. You might find an elixir worth half a jiazi or a weapon made of Ten-Thousand-Year Cold Iron.*",
+      "severity": "major",
+      "source": "도저히 안 되겠다 싶을 때는 인벤토리를 뒤져 보세요. 반 갑자짜리 영약과 만년한철 무기가 나올 수도 있으니까요."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Every time I fought, I nearly forgot whether human lives were worth more than the lives of flies.",
+      "defect": "The draft changes Taekyung’s complaint about his own life feeling as disposable as a fly’s into an abstract comparison of the relative value of human and fly lives.",
+      "id": "F04",
+      "rationale": "이게 refers to Taekyung’s precarious life in each battle; the joke is that he can no longer tell whether his own life is a human life or a fly’s life.",
+      "replacement": "Every fight left me wondering whether I had a human life or a fly’s.",
+      "severity": "major",
+      "source": "한 번씩 싸울 때마다 이게 사람 목숨인지 파리 목숨인지 헷갈릴 정도다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "His reactions were so generous that talking to him was a pleasure.",
+      "defect": "“Reactions were so generous” is an unnatural English collocation and obscures the sense that Zhu Bao’s gratifying responses make Taekyung want to keep talking.",
+      "id": "F05",
+      "rationale": "리액션이 혜자다 colloquially describes reactions that are exceptionally rewarding or satisfying, while 말할 맛이 난다 means they make speaking enjoyable.",
+      "replacement": "He gave such great reactions that it made me want to keep talking.",
+      "severity": "minor",
+      "source": "리액션이 혜자다 보니 말할 맛이 난다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Neither group was exactly someone I wanted to join.",
+      "defect": "The sentence is grammatically mismatched: a group cannot be “someone,” and Taekyung is deciding whether to join their company or conversation.",
+      "id": "F06",
+      "rationale": "The source dismisses both available groups as unappealing company, without changing either group into a singular person.",
+      "replacement": "Neither the former nor the latter made for company I particularly wanted to join.",
+      "severity": "minor",
+      "source": "전자와 후자, 둘 다 딱히 끼어들고 싶은 대화 상대는 아니다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Hong Jin had been pouting his lips as though he were offended, but then he spoke.",
+      "defect": "The draft loses 척, which explicitly says Hong Jin is pretending to sulk rather than genuinely appearing offended.",
+      "id": "F07",
+      "rationale": "The deliberate pretense reinforces Hong Jin’s socially manipulative, teasing manner.",
+      "replacement": "Hong Jin, who had been pretending to sulk with his lips stuck out, spoke.",
+      "severity": "minor",
+      "source": "섭섭한 척 입술을 삐죽 내밀고 있던 홍진이 입을 열었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "When he finished speaking, Hong Jin shot Li Feng a sideways glance.",
+      "defect": "A neutral “sideways glance” omits the reproach or irritation conveyed by 눈을 흘겼다.",
+      "id": "F08",
+      "rationale": "Hong Jin is pointedly blaming Li Feng for having concealed the Sword Saint and Cheongpung, so the look is accusatory rather than merely lateral.",
+      "replacement": "When he finished speaking, Hong Jin shot Li Feng a reproachful look.",
+      "severity": "minor",
+      "source": "말을 끝낸 홍진이 이풍을 향해 눈을 흘겼다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "I drained my cup of liquor with an embarrassed expression, and my eyes met those of the Four Gates scions sitting at the far end of a table some distance away. They looked as though they were about to suffer indigestion.",
+      "defect": "사인방 means a group of four people, but “the Four Gates scions” turns it into an organizational label and falsely implies that they represent four Gates.",
+      "id": "F09",
+      "rationale": "The source identifies the people by their quantity, not as scions belonging to an entity called the Four Gates.",
+      "replacement": "I drained my cup of liquor with an embarrassed expression, and my eyes met the four of them sitting at the far end of a table some distance away, all looking as though they were about to get indigestion.",
+      "severity": "critical",
+      "source": "무안한 얼굴로 술잔을 쭉 들이켜는데, 한참 떨어진 탁자 끝자리에서 체할 것 같은 얼굴로 앉아 있는 사인방과 시선이 딱 마주쳤다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Hey. Chairman—no, Deputy Military Commissioner.”",
+      "defect": "Omitting “Comrade” erases the joke created by Taekyung first addressing Hong Jin as 위원장 동지, a Communist-style “Comrade Chairman,” before correcting himself to the similar-sounding official title.",
+      "id": "F10",
+      "rationale": "The humor and self-correction depend on preserving 동지 in the mistaken form of address.",
+      "replacement": "“Hey. Comrade Chairman—no, Deputy Military Commissioner.”",
+      "severity": "major",
+      "source": "“저기요. 위원장 동지. 아니 도지휘동지.”"
+    }
+  ],
+  "summary": "One critical group-identity error and several meaningful losses involving mechanism, characterization, hierarchy, and humor.",
+  "version": 1
+}

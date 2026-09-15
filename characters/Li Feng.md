@@ -1,6 +1,6 @@
 # Li Feng (이풍)
 
-- **Safe through:** Chapter 143
+- **Safe through:** Chapter 144
 - **Aliases:** None
 - **Role:** Assistant Military Commissioner of Shanxi Province; former Huashan lay disciple who left the sect nearly ten years ago
 - **Personality:** Resolute, proud, blunt, and hostile toward political and martial rivals
