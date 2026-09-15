@@ -194,3 +194,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 격산타우 | **Striking the Ox Across the Mountain** | Palm technique that transmits force through an intervening defense. |
 | 북망산 | **Mount Beimang** | Mountain associated with burial grounds; used as a threat to send someone to their death. |
 | 열화신단 | **Blazing Flame Divine Pill** | Dangerous elixir that grants half a jiazi of internal energy while risking death from its fire qi. |
+| 적혈십이도 | **Crimson Blood Twelve Sabers** | Pung Yang's domineering saber art; he has reached approximately seventy percent mastery. |
+| 영단 흡수 | **Divine Pill Absorption** | System Quest created after Jin Taekyung takes the Blazing Flame Divine Pill. |
