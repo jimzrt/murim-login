@@ -1,0 +1,47 @@
+{
+  "chapter": 187,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.259,
+    "source_characters": 5447,
+    "source_paragraphs": 182,
+    "translation_characters": 12307,
+    "translation_paragraphs": 185
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "인도",
+        "preferred": "Human Butcher"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "원단",
+        "preferred": "New Year's Day"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "고자",
+        "preferred": "eunuch"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "꺽정",
+        "romanization": "kkeokjeong"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}

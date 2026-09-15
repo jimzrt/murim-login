@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "He was the one who had sent me the New Year’s Day invitation.",
+      "defect": "This changes the action from Jin Wikyung sending Taekyung out carrying the invitation to merely sending the invitation to Taekyung.",
+      "id": "F01",
+      "rationale": "The construction 내게 … 들려 보낸 means that Jin Wikyung sent the narrator with the invitation in hand, which also explains why his prior contact with Lee Seowol did not surprise him.",
+      "replacement": "He was the one who had sent me to deliver the New Year’s Day invitation.",
+      "severity": "critical",
+      "source": "바로 그가 내게 원단 초대장을 들려 보낸 장본인이니까."
+    },
+    {
+      "confidence": 0.97,
+      "current": "A tremendous roar erupted from the martial artists of the Jin Family of Taiyuan.",
+      "defect": "The draft limits the roar to the Jin martial artists, while the source says the roar erupted with them at its center, indicating participation spreading beyond them.",
+      "id": "F02",
+      "rationale": "중심으로 identifies the Jin martial artists as the center of the response, not its sole participants.",
+      "replacement": "A tremendous roar erupted from the crowd, centered on the martial artists of the Jin Family of Taiyuan.",
+      "severity": "major",
+      "source": "태원진가의 무인들을 중심으로 거대한 함성이 터져 나왔다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Even when the branches and leaves broke and fell, the roots remained whole.",
+      "defect": "The draft applies both actions indiscriminately to the branches and leaves, blurring the source’s paired image of branches breaking and leaves falling.",
+      "id": "F03",
+      "rationale": "The coordinated Korean verbs preserve distinct physical actions for the branches and leaves.",
+      "replacement": "Even when the branches broke and the leaves fell, the roots remained whole.",
+      "severity": "minor",
+      "source": "가지와 잎이 꺾이고 떨어져도 뿌리는 온전했다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The two eyes pouring out flames swept across the crowd.",
+      "defect": "“The two eyes pouring out flames” is an unnatural anatomical calque that distracts from the intended image.",
+      "id": "F04",
+      "rationale": "The source depicts Jin Wikyung’s fiercely burning gaze; “blazing eyes” conveys that image naturally without changing the action.",
+      "replacement": "His blazing eyes swept across the crowd.",
+      "severity": "minor",
+      "source": "화염을 쏟아 내는 두 개의 눈동자가 좌중을 쓸어 보았다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The moment the Jin Family of Taiyuan accepted the Mount Heng Sword Sect as family retainers.",
+      "defect": "The plural “family retainers” treats the sect as a collection of household personnel rather than preserving its collective political subordination as a vassal organization.",
+      "id": "F05",
+      "rationale": "가신 here defines the entire Mount Heng Sword Sect’s new subordinate relationship to the Jin Family, a meaningful change in hierarchy.",
+      "replacement": "The moment the Jin Family of Taiyuan accepted the Mount Heng Sword Sect as its vassal.",
+      "severity": "major",
+      "source": "원단 첫날. 태원진가가 항산검문을 가신(家臣)으로 받아들이는 순간이었다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "For some reason, something seemed to be poking at me.",
+      "defect": "The literal wording is unnatural and obscures the figurative pang prompted by Chulwoo’s plans resembling Taekyung’s own past behavior.",
+      "id": "F06",
+      "rationale": "쿡쿡 찔리다 figuratively conveys a recurring inward prick or pang here, not an unidentified object physically poking him.",
+      "replacement": "For some reason, I felt a strange pang.",
+      "severity": "minor",
+      "source": "왠지 모르게 어디가 쿡쿡 찔리는 것 같기도 하고."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Chulwoo raised his fist, then stopped short.",
+      "defect": "The draft states that Chulwoo raised his fist, while the source says he was about to do so before stopping.",
+      "id": "F07",
+      "rationale": "추어올리려던 marks an intended, imminent action interrupted by his awareness of Baek Museong, not a completed raising of the fist.",
+      "replacement": "Chulwoo was about to raise his fist when he stopped short.",
+      "severity": "critical",
+      "source": "당장 주먹을 추어올리려던 철우가 멈칫했다."
+    }
+  ],
+  "summary": "The draft contains one critical action error, two meaningful hierarchy or participation errors, and several localized fidelity and prose issues.",
+  "version": 1
+}
