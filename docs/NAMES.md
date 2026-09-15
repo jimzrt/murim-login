@@ -411,3 +411,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 천풍단 | **Heavenly Wind Band** | Five-hundred-member northern plateau mounted-bandit force subordinate to Black Sand. |
 | 천풍단주 | **Heavenly Wind Band Leader** | Leader operating under Black Sand's orders near Datong. |
 | 하곡 | **Hequ** | Route and Jin Family branch targeted as the alliance's entry point into Shanxi. |
+| 참마검 | **horse-chopping sword** | Heavy saber used by the Human Butcher; rendered descriptively. |

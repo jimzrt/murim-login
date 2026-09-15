@@ -1,17 +1,15 @@
 # Translation State
 
-- Last completed: 161
-- Next chapter: 162
-- Current block: 160–164 (2/5)
-- Latest translation: `translations/0161.md`
-- Latest summary: `summaries/beats/0161.md`
-- Safe profiles through: chapter 161
+- Last completed: 162
+- Next chapter: 163
+- Current block: 160–164 (3/5)
+- Latest translation: `translations/0162.md`
+- Latest summary: `summaries/beats/0162.md`
+- Safe profiles through: chapter 162
 
 ## Current Block
 
-- The eyepatched middle-aged man reveals himself as Black Sand, leader of the one-hundred-member Black Sand Band. The Heavenly Wind Band Leader, who sent Temur and Chinggen the letter promising support for their ambition to become khans, is Black Sand's subordinate, and the five-hundred-member Heavenly Wind Band is merely a subsidiary force.
-- Black Sand proposes that Human Butcher, Temur, and Chinggen join him in exploiting the power vacuum left by the Mount Heng Sword Sect's collapse. On New Year's Day, while Shanxi's sect leaders gather at the Jin Family of Taiyuan, the Heavenly Wind Band will draw the northern branches toward Datong; Black Sand's main force and the chieftains will destroy the Hequ Branch and charge south toward Taiyuan.
-- Temur, Chinggen, and the Human Butcher accept the alliance. Black Sand promises to divide all gains into four equal shares, while the Human Butcher claims Ghost Sword Wipeng as his personal target. Black Sand becomes the alliance's de facto presiding leader, and the gathering erupts into celebration before an unknown person enters the inn.
+- An apparently senile old man enters the Northern Gaoyuan inn where Black Sand, the Human Butcher, Temur, and Chinggen are gathered. After provoking the Human Butcher by insulting him and eating from the leaders' feast, the old man survives the Human Butcher's furious Sword Energy attack, effortlessly defeats him with a chicken bone, reveals himself as a Supreme Peak master, and kills the Human Butcher with a single strike before asking where he is.
 
 ## Open Questions
 
@@ -22,6 +20,7 @@
 - What martial title will Cheongpung eventually acquire?
 - What circumstances led Hong Jin to become a eunuch and come to the frontier in something like exile?
 - What is Taecho Village, and why does Taekyung say “again” after landing?
+- Who is the unnamed old man who entered the Northern Gaoyuan gathering and demonstrated Supreme Peak mastery?
 
 ## Exceptional Decision
 
@@ -33,7 +32,7 @@
 - Render 황하방 as “Yellow River Gang,” 소공문 as “Sogong Sect,” 남부상회 as “Southern Merchant Guild,” 내당주 as “Inner Hall Master,” 내외당 as “Inner and Outer Halls,” 세가 as “great family,” and 한족 as “Han Chinese.”
 - Render 암향표 as “Dark Fragrance Drift,” 복호권 as “Crouching Tiger Fist,” 천근추 as “Thousand-Catty Drop,” 야성 as “Wildness,” 오행매화보 as “Five-Element Plum Blossom Steps,” 공수납백인 as “Empty-Hand Seizes the Blade,” 매화오품지 as “Plum Blossom Five-Point Finger,” 벽을 넘어서 as “Beyond the Wall,” and 절정 고수 as “Peak Master.”
 - Retain Taekyung's instant-noodle flavor joke with “mild Neoguri,” “Jin Ramen spicy flavor,” and “Puramyeon spicy flavor”; render 천근거력 as “the force to move a thousand catties,” 인도 as “Human Butcher,” 대칸 as “Great Khan,” 텡게르 as “Tengger,” and preserve the 무공/무공 wordplay as “martial arts” and “empty space.”
-- Render 흑사 as “Black Sand,” 흑사대 as “Black Sand Band,” 천풍단 as “Heavenly Wind Band,” 천풍단주 as “Heavenly Wind Band Leader,” and 하곡 as “Hequ.”
+- Render 흑사 as “Black Sand,” 흑사대 as “Black Sand Band,” 천풍단 as “Heavenly Wind Band,” 천풍단주 as “Heavenly Wind Band Leader,” and 하곡 as “Hequ”; render 참마검 as “horse-chopping sword,” 칠공 as “seven orifices,” and preserve the old man's abrasive vulgar voice.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
