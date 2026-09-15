@@ -1,0 +1,31 @@
+{
+  "chapter": 106,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.458,
+    "source_characters": 6234,
+    "source_paragraphs": 194,
+    "translation_characters": 15322,
+    "translation_paragraphs": 195
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "경지",
+        "preferred": "realm / realm stage"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "청해",
+        "preferred": "Qinghai"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
