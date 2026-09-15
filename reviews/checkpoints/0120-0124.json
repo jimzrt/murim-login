@@ -1,0 +1,126 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "They were Supreme Peak martial arts, no less.",
+      "defect": "The three manuals offered by Lee Seowol are established as Peak martial arts, not Supreme Peak martial arts. Only the Flame Divine Palm is classified as Supreme Peak.",
+      "id": "C01",
+      "rationale": "This contradicts Chapters 121 and 123, the checkpoint terminology decisions, and the later contrast between the three Peak arts and the Supreme Peak Flame Divine Palm.",
+      "replacement": "They were Peak martial arts, no less.",
+      "severity": "major",
+      "source": "Chapter 124, opening narration"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Wolhwa is Eun Sowol, the Lower District Sect’s Shanxi Branch Leader, and plans to tour northern Shanxi while preserving the alliance with the Jin Family.",
+      "defect": "Wolhwa’s established title is Chief Branch Leader, while Shanxi Province identifies her jurisdiction rather than replacing the title.",
+      "id": "C02",
+      "rationale": "Chapters 122 and 124 consistently identify her as Chief Branch Leader, and the checkpoint translation decisions explicitly bind 총지부장 to that rendering.",
+      "replacement": "Wolhwa is Eun Sowol, the Lower District Sect’s Chief Branch Leader in Shanxi Province, and plans to tour northern Shanxi while preserving the alliance with the Jin Family.",
+      "severity": "minor",
+      "source": "Checkpoint Plot summary, final paragraph"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Wolhwa's real name is Eun Sowol, and she is the Lower District Sect's Shanxi Branch Leader with authority over more than thirty Shanxi branches.",
+      "defect": "The active state substitutes a geographic descriptor for Wolhwa’s established title.",
+      "id": "C03",
+      "rationale": "Preserving the exact title in durable state prevents downstream terminology drift.",
+      "replacement": "Wolhwa's real name is Eun Sowol, and she is the Lower District Sect's Chief Branch Leader in Shanxi Province, with authority over more than thirty Shanxi branches.",
+      "severity": "minor",
+      "source": "Durable state, active_continuity entry for Wolhwa"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“……Huh?”",
+      "defect": "The dialogue uses repeated periods instead of the required ellipsis character.",
+      "id": "C04",
+      "rationale": "The packet’s binding Markdown rules require the single ellipsis character.",
+      "replacement": "“…Huh?”",
+      "severity": "minor",
+      "source": "Chapter 120, Pung Yang reacting to the sword thrust"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Ten-Thousand-Year Cold Iron……?”",
+      "defect": "The dialogue uses repeated periods instead of the required ellipsis character.",
+      "id": "C05",
+      "rationale": "This restores the required punctuation and matches the formatting used elsewhere in the packet.",
+      "replacement": "“Ten-Thousand-Year Cold Iron…?”",
+      "severity": "minor",
+      "source": "Chapter 120, Pung Yang identifying the blade"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“You fucking bastard……!”",
+      "defect": "The dialogue uses repeated periods instead of the required ellipsis character.",
+      "id": "C06",
+      "rationale": "The binding rules require the single ellipsis character.",
+      "replacement": "“You fucking bastard…!”",
+      "severity": "minor",
+      "source": "Chapter 120, Pung Yang cursing Taekyung"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Yes. If he just took the Temporary Strength Pill……",
+      "defect": "The direct thought ends with repeated periods rather than the required ellipsis character.",
+      "id": "C07",
+      "rationale": "This corrects the formatting without changing the thought’s trailing, desperate cadence.",
+      "replacement": "Yes. If he just took the Temporary Strength Pill…",
+      "severity": "minor",
+      "source": "Chapter 120, Pung Yang reaching for the remaining pill"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Now, now, please give me the Temporary Strength Pill……”",
+      "defect": "The dialogue uses repeated periods instead of the required ellipsis character.",
+      "id": "C08",
+      "rationale": "The single ellipsis preserves the faltering delivery while complying with the packet format.",
+      "replacement": "“Now, now, please give me the Temporary Strength Pill…”",
+      "severity": "minor",
+      "source": "Chapter 120, Pung Yang begging for the pill"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Let’s lay off the finishing blow for now…… No, he’s too vicious to let him die comfortably. It’s better to leave him there and let him die slowly.”",
+      "defect": "The dialogue uses repeated periods instead of the required ellipsis character.",
+      "id": "C09",
+      "rationale": "This retains Taekyung’s mid-thought correction while normalizing the punctuation.",
+      "replacement": "“Let’s lay off the finishing blow for now… No, he’s too vicious to let him die comfortably. It’s better to leave him there and let him die slowly.”",
+      "severity": "minor",
+      "source": "Chapter 120, Taekyung stopping Lee Seowol"
+    },
+    {
+      "confidence": 1.0,
+      "current": "It felt like I had forgotten something important……",
+      "defect": "The narration uses repeated periods instead of the required ellipsis character.",
+      "id": "C10",
+      "rationale": "The replacement preserves the suspended thought and follows the binding ellipsis rule.",
+      "replacement": "It felt like I had forgotten something important…",
+      "severity": "minor",
+      "source": "Chapter 120, Taekyung noticing something is missing"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“A final rally……”",
+      "defect": "The dialogue uses repeated periods instead of the required ellipsis character.",
+      "id": "C11",
+      "rationale": "The single ellipsis keeps her dawning realization intact while correcting the formatting.",
+      "replacement": "“A final rally…”",
+      "severity": "minor",
+      "source": "Chapter 120, Lee Seowol misreading the wounded"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“...Urgh.”",
+      "defect": "The dialogue uses three periods instead of the required ellipsis character.",
+      "id": "C12",
+      "rationale": "This matches the packet’s mandated punctuation and surrounding typographic style.",
+      "replacement": "“…Urgh.”",
+      "severity": "minor",
+      "source": "Chapter 123, Cheol Mubaek falling silent"
+    }
+  ],
+  "summary": "The packet is coherent overall, but Chapter 124 incorrectly upgrades three Peak martial arts to Supreme Peak, the checkpoint metadata drifts from the established Chief Branch Leader title, and Chapters 120 and 123 contain several ellipses that violate the required punctuation format.",
+  "version": 1
+}
