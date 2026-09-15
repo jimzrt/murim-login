@@ -1,0 +1,55 @@
+{
+  "chapter": 185,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.293,
+    "source_characters": 6299,
+    "source_paragraphs": 210,
+    "translation_characters": 14441,
+    "translation_paragraphs": 217
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "후기지수",
+        "preferred": "young prodigy / rising martial artist"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "상태",
+        "preferred": "Status"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "대사",
+        "preferred": "Master for a senior Buddhist monk"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "인도",
+        "preferred": "Human Butcher"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
