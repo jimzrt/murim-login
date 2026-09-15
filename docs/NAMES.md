@@ -483,3 +483,9 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 디그다 | **Diglett** | Pokémon species used in Taekyung's analogy. |
 | 닥트리오 | **Dugtrio** | Pokémon species used in Taekyung's analogy. |
 | 언더아머 | **Under Armour** | Modern sportswear brand mentioned in Taekyung's joke. |
+| 추도환 | **Choo Dohwan** | Level 65 Iron Blood Sect martial artist known as the Iron Fist. |
+| 철권 | **Iron Fist** | Choo Dohwan's epithet. |
+| 상도문 | **Sangdo Sect** | Sect pledging itself to the Jin Family at the banquet. |
+| 황진수 | **Hwang Jinsu** | Level 25 challenger from Hwang Family Manor. |
+| 황가장 | **Hwang Family Manor** | Family estate represented by Hwang Jinsu. |
+| 갈 모 | **Gal Mo** | Nameless wandering martial artist who challenges Chulwoo. |
