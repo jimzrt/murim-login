@@ -254,3 +254,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 성운표국 | **Seongun Escort Bureau** | Escort Bureau in southern Shanxi Province. |
 | 송 표두 | **Escort Chief Song** | Unnamed person responsible for the escort run. |
 | 연화봉 | **Lotus Peak** | Peak on Huashan from which Cheongpung recently fled. |
+| 빙당호로 | **candied hawthorn skewers** | Traditional fruit skewers coated in hardened sugar; explained in a footnote. |
+| 하북 | **Hebei** | Province where Hyuk Family Textile Shop has a branch. |
+| 혁가 포목점 | **Hyuk Family Textile Shop** | Taiyuan textile shop owned by Hyuk Mujin's parents; the largest in Taiyuan, with branches in Henan and Hebei. |
