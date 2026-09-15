@@ -478,3 +478,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 집법원 | **Disciplinary Hall** | Huashan body that handles violations of sect rules. |
 | 대연무장 | **Grand Training Ground** | The Jin Family's largest training ground and the site of the grand banquet. |
 | 주모 | **Lady of the House** | Title used in Wipeng's remark that Jin Wikyung lacks a wife or household mistress. |
+| 일장로 | **First Elder** | Title Cheol Mubaek claims within the Mount Heng Sword Sect. |
+| 이대 문주 | **second Sect Leader** | Lee Seowol's succession title as the Mount Heng Sword Sect's second Sect Leader. |
+| 디그다 | **Diglett** | Pokémon species used in Taekyung's analogy. |
+| 닥트리오 | **Dugtrio** | Pokémon species used in Taekyung's analogy. |
+| 언더아머 | **Under Armour** | Modern sportswear brand mentioned in Taekyung's joke. |
