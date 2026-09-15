@@ -429,3 +429,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 오십 년 묵은 하수오 | **Fifty-Year-Old He Shou Wu** | First Rate Spirit Herb shown in the System Item Window; can provide up to about two years of internal energy. |
 | 불로초 | **Herb of Eternal Youth** | Spirit herb said to grant eternal youth and immortality. |
 | 불로초를 찾아서 | **In Search of the Herb of Eternal Youth** | System Quest generated after Jang Taebo names the Herb of Eternal Youth. |
+| 천검진인 | **Heavenly Sword True Person** | Taoist-style title of the current Sect Leader of Huashan, who once commissioned a sword from Jang Taebo. |
+| 여의주 | **dragon pearl** | Legendary treasure requested by Jang Taebo. |
+| 공청석유, 용의 발톱, 여의주 구하기 | **Get Gongcheong Seokyu, a Dragon’s Claw, and a Dragon Pearl** | Quest generated after Jang Taebo makes additional demands; Taekyung rejects it. |
