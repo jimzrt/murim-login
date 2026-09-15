@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "A quarter of an hour? A shichen? Or half a shichen?",
+      "defect": "한 식경 is the time it takes to eat a meal, roughly half an hour, not a full shichen of approximately two hours. The translation substantially changes the sequence of possible durations.",
+      "id": "F01",
+      "rationale": "The source escalates through three distinct durations: 일각, 한 식경, and 반 시진. Rendering the middle duration as a full shichen makes it longer than the final duration and reverses that progression.",
+      "replacement": "A quarter of an hour? The time it took to eat a meal? Or half a shichen?",
+      "severity": "critical",
+      "source": "일각? 한 식경? 아니면 반 시진?"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Jopil met me one step before he could meet his former Master, and lost his life.",
+      "defect": "The English makes Jopil the subject of both sides of the timing comparison, implying that he met Taekyung before he himself could meet Jeok Cheongang. The source compares Jopil with his former Master: Jopil reached Taekyung before Jeok Cheongang reached Jopil.",
+      "id": "F02",
+      "rationale": "옛 스승보다 marks the former Master as the person Jopil was one step ahead of, so the competing subject must remain clear.",
+      "replacement": "Jopil encountered me before his former Master could reach him, and lost his life.",
+      "severity": "major",
+      "source": "조필은 옛 스승보다 한발 빨리 나를 만났고, 목숨을 잃었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Jangcheon.”",
+      "defect": "The full name omits Jeok Cheongang’s intimate shortened address and the affectionate vocative force of 아.",
+      "id": "F03",
+      "rationale": "천아 is a familiar, emotionally charged shortening of 장천 used as Jeok Cheongang looks back on the child he raised, not a neutral utterance of the full name.",
+      "replacement": "“Cheon.”",
+      "severity": "major",
+      "source": "“천아.”"
+    },
+    {
+      "confidence": 0.95,
+      "current": "But all of it had been an illusion. If it had truly been so, the path Jangcheon chose would have been very different from the one he was on now.",
+      "defect": "“The one he was on now” treats the dead Jangcheon as though he still occupies a present path and introduces an awkward temporal contradiction. The source instead contrasts the path he chose with how that path ultimately turned out.",
+      "id": "F04",
+      "rationale": "장천이 택한 길 focuses on the path Jangcheon chose and how Jeok Cheongang believes his own fatherly influence should have changed that choice.",
+      "replacement": "But all of it had been an illusion. If it had truly been so, Jangcheon would have chosen a very different path.",
+      "severity": "major",
+      "source": "하지만 그 모든 것이 전부 착각이었다. 진정 그랬다면 장천이 택한 길은 지금과는 많이 달라졌을 것이다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“How could a sheet of paper be black from the beginning?”\n\nEntering the world was like being handed a single sheet of paper.",
+      "defect": "Generic “paper” omits 화선지, the drawing paper that sustains the following extended metaphor of a life becoming a completed painting. “Entering the world” is also ambiguous wuxia phrasing where the source means coming into life.",
+      "id": "F05",
+      "rationale": "The repeated 화선지 directly establishes the medium on which the accumulated moments of a person’s life form 한 폭의 그림, a completed painting.",
+      "replacement": "“How could drawing paper be black from the beginning?”\n\nComing into this world was like being handed a sheet of drawing paper.",
+      "severity": "minor",
+      "source": "“처음부터 검은 화선지가 어디 있으랴.”\n\n세상에 나온다는 것은 한 장의 화선지를 받는 것과 같다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "*Oh, right. I have to return the Flame Divine Palm manual and the sword.*",
+      "defect": "The established rendering of 비급 is “martial arts manual”; shortening it to “manual” weakens the item terminology.",
+      "id": "F06",
+      "rationale": "비급 specifically denotes a secret martial arts manual, and the binding glossary requires “martial arts manual” in this context.",
+      "replacement": "*Oh, right. I have to return the Flame Divine Palm martial arts manual and the sword.*",
+      "severity": "minor",
+      "source": "‘아, 맞다. 화염신장의 비급이랑 검은 돌려줘야 하는데.’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "There is no such thing as a peaceful death in a martial artists’ battle.",
+      "defect": "“A martial artists’ battle” is grammatically malformed because the plural possessive does not naturally modify a singular battle.",
+      "id": "F07",
+      "rationale": "The replacement preserves the rhetorical question and naturally expresses 무인들의 싸움 as a battle between martial artists.",
+      "replacement": "Where is there a peaceful death in a battle between martial artists?",
+      "severity": "minor",
+      "source": "무인들의 싸움에 편안한 죽음이 어디 있을까."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The Nangong Family, a regular guest in martial arts novels.",
+      "defect": "“A regular guest” is a literal calque of 단골손님 and is unnatural in English; here it means a recurring staple.",
+      "id": "F08",
+      "rationale": "단골손님 figuratively identifies the Nangong Family as something that appears routinely in the genre, not as a literal guest.",
+      "replacement": "The Nangong Family—a staple of martial arts novels.",
+      "severity": "minor",
+      "source": "남궁세가, 무협 소설의 단골손님."
+    }
+  ],
+  "summary": "One critical quantity error and several actionable subject, register, metaphor, terminology, and English issues.",
+  "version": 1
+}
