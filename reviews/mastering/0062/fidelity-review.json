@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "I muttered, appalled.",
+      "defect": "The narration changes Taekyung’s incredulous, dumbfounded reaction into moral horror or dismay.",
+      "id": "F01",
+      "rationale": "기가 차서 expresses speechless disbelief at the absurdity of what the Head Elder is saying, not being appalled.",
+      "replacement": "I muttered in disbelief.",
+      "severity": "minor",
+      "source": "lines 133–135"
+    },
+    {
+      "confidence": 0.96,
+      "current": "*If I followed them, the Jin Family of Taiyuan would hunt them relentlessly.*",
+      "defect": "The translation supplies “them” as the object of the pursuit, excluding Jin Chung and weakening the causal reason he must remain behind. The Korean leaves the object unstated.",
+      "id": "F02",
+      "rationale": "The conditional hinges on Jin Chung accompanying his disciples and thereby drawing relentless pursuit. The source does not specify a grammatical object, so the English should not narrow the pursuit to the disciples alone.",
+      "replacement": "*If I went with them, the Jin Family of Taiyuan would give relentless chase.*",
+      "severity": "minor",
+      "source": "lines 341–343"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Even if we die, we will die with you, Sect Leader.”",
+      "defect": "The disciple vows to remain with the Sect Leader even if doing so means death; he does not specifically vow that they will die together.",
+      "id": "F03",
+      "rationale": "죽더라도 is concessive (“even if we die” or “even if it means death”), while 함께하겠습니다 means to remain or stand together. Repeating “die” turns the risk into the substance of the vow.",
+      "replacement": "“Even if it means death, we will stay with you, Sect Leader.”",
+      "severity": "minor",
+      "source": "lines 357–360"
+    },
+    {
+      "confidence": 0.95,
+      "current": "Some fifty corpses lay spread like a carpet in his wake.",
+      "defect": "The corpses are described as carpeting the martial artist’s path beneath each step, not as lying behind him.",
+      "id": "F04",
+      "rationale": "그의 걸음마다 … 융단처럼 깔려 있었다 places the corpse-carpet at every step he takes. “In his wake” changes that physical relationship to a trail left behind him.",
+      "replacement": "Some fifty corpses lay underfoot like a carpet wherever he stepped.",
+      "severity": "minor",
+      "source": "lines 473–475"
+    }
+  ],
+  "summary": "The chapter is broadly faithful; four localized minor shifts affect emotion, an intentionally omitted object, a disciple’s vow, and a physical image.",
+  "version": 1
+}
