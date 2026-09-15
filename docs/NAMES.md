@@ -292,3 +292,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 상산왕 | **Prince Shangshan** | The City Lord and a member of the imperial family who orders the luncheon. |
 | 정삼품 | **Third-Rank** | Official rank of the unnamed Assistant Military Commissioner. |
 | 도지휘첨사 | **Assistant Military Commissioner** | Military office held by the unnamed official responsible for training soldiers. |
+| 산서성부 | **Shanxi Provincial Office** | Government office where the City Lord resides west of Taiyuan. |
+| 점소이 검신 되다 | **The Shop Assistant Becomes a Sword God** | Wuxia novel title read by Hyuk Mujin. |
+| 아파야 무인이다 | **You Must Hurt to Become a Martial Artist** | Wuxia novel title read by Hyuk Mujin. |
+| 무림의 아들 걸어서 구주팔황 세 바퀴 반 | **The Son of Murim Walks Three and a Half Rounds Around the Nine Provinces and Eight Wastes** | Wuxia novel title read by Hyuk Mujin. |
+| 구주팔황 | **Nine Provinces and Eight Wastes** | Literary geographic phrase appearing in a wuxia novel title. |
