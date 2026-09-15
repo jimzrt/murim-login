@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "They were the Branch Leaders of the Jin Family of Taiyuan and the Lower District Sect’s Datong Branch, both of which had been established only a month ago.",
+      "defect": "The syntax makes one man the leader of the Jin Family itself and attaches the Datong Branch only to the Lower District Sect. Both men lead their respective organizations’ newly established Datong Branches.",
+      "id": "F01",
+      "rationale": "The shared title 대동지부장 applies to both 태원진가 and 하오문.",
+      "replacement": "They led the Datong Branches of the Jin Family of Taiyuan and the Lower District Sect, both of which had been established only a month earlier.",
+      "severity": "major",
+      "source": "그들은 불과 한 달 전 신설된 태원진가와 하오문의 대동지부장이었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "They all died from a single move.",
+      "defect": "The current wording can mean one collective attack killed everyone, rather than that each victim was killed in one move.",
+      "id": "F02",
+      "rationale": "The later contrast with the Peak master requiring two moves establishes that each ordinary victim was dispatched in one move.",
+      "replacement": "Every one of them died in a single move.",
+      "severity": "critical",
+      "source": "모두 일수(一手)에 죽었소."
+    },
+    {
+      "confidence": 0.97,
+      "current": "In particular, the Heavenly Wind Band Leader was a face he had seen more often lately than the faces of his own sons.",
+      "defect": "The draft narrows 자식 놈들 to sons, adding a gendered kinship fact absent from the source.",
+      "id": "F03",
+      "rationale": "자식 놈들 refers colloquially to his children or kids, not specifically sons.",
+      "replacement": "In particular, lately he had seen the Heavenly Wind Band Leader’s face more often than his own children’s.",
+      "severity": "critical",
+      "source": "특히 천풍단주는 근래 자식 놈들보다 자주 보는 얼굴이었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“At least he got two attacks in, since he was a Peak master. He tore off his arm and landed a punch.”",
+      "defect": "The first sentence reverses the attacker: the Heavenly Wind Band Leader did not get two attacks in. His attacker needed two moves to defeat him.",
+      "id": "F04",
+      "rationale": "The severed arm and punched-through side are the two attacks inflicted on the Heavenly Wind Band Leader.",
+      "replacement": "“Being a Peak master at least made his attacker use two moves: one to tear off his arm and another to land a punch.”",
+      "severity": "critical",
+      "source": "그나마 절정 고수라고 손을 두 번 썼군. 팔을 뜯어내고 일 권을 먹였어."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“He had no choice. It’s a miracle he was still alive.",
+      "defect": "“He had no choice” assigns agency to the dying man and does not express the speaker’s meaning that his delirium was inevitable or unsurprising.",
+      "id": "F05",
+      "rationale": "그럴 수밖에 responds to his deranged state with “that was only natural” or “no wonder,” not a statement about choosing.",
+      "replacement": "“No wonder. It’s a miracle he was still alive.",
+      "severity": "minor",
+      "source": "“그럴 수밖에. 지금까지 살아 있는 게 용할 정도지."
+    },
+    {
+      "confidence": 0.99,
+      "current": "As the old man spoke to the woodcutter, Jang-pal, who was awkwardly crouched before him, he asked,",
+      "defect": "The draft changes the woodcutter’s awkward prostration into a crouch, introduces his name before he gives it, and produces a malformed subject construction.",
+      "id": "F06",
+      "rationale": "엎드린 describes the woodcutter bowing or prostrating himself before the man he believes is a mountain spirit.",
+      "replacement": "Looking at the woodcutter awkwardly prostrating himself, the old man asked,",
+      "severity": "critical",
+      "source": "엉거주춤 엎드린 나무꾼을 보며 노인이 물었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“My name is Jang-pal.”\n\n“…”\n\n“And I have come to pay my respects to the mountain spirit.”",
+      "defect": "The old man’s skeptical “…So?” is omitted and its connective force is reassigned to Jang-pal, weakening the comic pause and characterization.",
+      "id": "F07",
+      "rationale": "그런데 is spoken by the old man as a curt prompt after Jang-pal introduces himself.",
+      "replacement": "“My name is Jang-pal.”\n\n“…So?”\n\n“I’ve come to pay my respects to you, Mountain Spirit.”",
+      "severity": "major",
+      "source": "“저는 장팔이라고 합니다.”\n\n“……그런데?”\n\n“신령님께 인사 올리겠습니다.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I brought it along just in case… But I’m not hungry.”",
+      "defect": "The draft changes Jang’s specific claim that he is full into the broader statement that he is not hungry.",
+      "id": "F08",
+      "rationale": "배가 불러서요 explicitly means that his stomach is full; this is also the polite lie concealing his own hunger.",
+      "replacement": "“I brought it along just in case… but I’m full.”",
+      "severity": "minor",
+      "source": "“혹시나 싶어 챙겨 온 것인데…… 저는 배가 불러서요.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Slowly? I should be running as if I were flying. Ah, and about that father of yours who passed away…”",
+      "defect": "The draft reverses the subject: the old man is riding on Jang’s carrying frame and tells Jang to run, rather than saying that he himself should run.",
+      "id": "F09",
+      "rationale": "The implied subject of 뛰어가야지 is the woodcutter carrying the old man.",
+      "replacement": "“Slowly? You should be running as if you were flying. Ah, and about that father of yours who passed away…”",
+      "severity": "critical",
+      "source": "“천천히는 무슨. 날듯이 뛰어가야지. 아, 그리고 돌아가셨다는 자네 아버지 말인데…….”"
+    }
+  ],
+  "summary": "Nine actionable findings, including altered subjects, attack mechanics, kinship, physical action, and dialogue cues.",
+  "version": 1
+}
