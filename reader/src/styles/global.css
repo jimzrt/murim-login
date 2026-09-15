@@ -527,6 +527,115 @@ pagefind-modal-trigger.nav-search {
   box-shadow: 0 1px 0 color-mix(in srgb, var(--gold) 55%, #8a6a1a);
 }
 
+.button--ghost {
+  background: transparent;
+  color: var(--ink);
+  box-shadow: none;
+}
+
+html[data-theme="dark"] .button--ghost {
+  color: var(--ink);
+}
+
+.site-intro {
+  margin-top: 2.4rem;
+  border-top: 1px solid var(--rule);
+  border-bottom: 1px solid var(--rule);
+}
+
+.site-intro > summary {
+  display: grid;
+  gap: 0.2rem;
+  padding: 0.95rem 1.6rem 0.95rem 0;
+  cursor: pointer;
+  list-style: none;
+  position: relative;
+}
+
+.site-intro > summary::-webkit-details-marker {
+  display: none;
+}
+
+.site-intro > summary::after {
+  content: "";
+  position: absolute;
+  right: 0.15rem;
+  top: 50%;
+  width: 0.45rem;
+  height: 0.45rem;
+  border-right: 1.5px solid var(--muted);
+  border-bottom: 1.5px solid var(--muted);
+  transform: translateY(-70%) rotate(45deg);
+  transition: transform 0.16s ease;
+}
+
+.site-intro[open] > summary::after {
+  transform: translateY(-20%) rotate(225deg);
+}
+
+.site-intro__title {
+  font-family: var(--serif);
+  font-size: 1.15rem;
+  font-weight: 650;
+  color: var(--ink);
+}
+
+.site-intro__hint {
+  color: var(--muted);
+  font-size: 0.88rem;
+}
+
+.site-intro__body {
+  padding: 0 0 1.25rem;
+  color: var(--ink);
+  font-size: 0.95rem;
+  line-height: 1.55;
+}
+
+.site-intro__body p {
+  margin: 0 0 0.85rem;
+  text-wrap: pretty;
+}
+
+.site-intro__subhead {
+  margin: 1.35rem 0 0.65rem;
+  font-family: var(--serif);
+  font-size: 1.05rem;
+  font-weight: 650;
+  color: var(--ink);
+}
+
+.site-intro__steps {
+  margin: 0 0 0.95rem;
+  padding-left: 1.2rem;
+  display: grid;
+  gap: 0.65rem;
+}
+
+.site-intro__steps li {
+  padding-left: 0.15rem;
+  text-wrap: pretty;
+}
+
+.site-intro__steps code,
+.site-intro__note code {
+  font-size: 0.86em;
+  color: var(--accent);
+}
+
+.site-intro__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  margin: 1rem 0 0.85rem;
+}
+
+.site-intro__note {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.88rem;
+}
+
 [hidden] {
   display: none !important;
 }
@@ -1248,6 +1357,7 @@ html[data-scroll-locked="1"] body {
   .site-header,
   .chapter-dock,
   .chapter-range summary::after,
+  .site-intro > summary::after,
   .read-progress__bar,
   .overall-fill {
     transition: none;

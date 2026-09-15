@@ -3,18 +3,34 @@ import { Picture } from "astro:assets";
 import Base from "../layouts/Base.astro";
 import cover from "../assets/cover.jpg";
 import Remark42Counters from "../components/Remark42Counters.astro";
-import { allChapters, chapterHref, groupedChapters, toIndex, withBase } from "../lib/chapters";
+import {
+  allChapters,
+  chapterHref,
+  groupedChapters,
+  toIndex,
+  withBase,
+} from "../lib/chapters";
 
 const entries = await allChapters();
 const chapters = toIndex(entries);
 const groups = groupedChapters(chapters);
 const first = entries[0];
 const firstHref = first ? chapterHref(first.data.chapter) : withBase("");
-const wordMap = Object.fromEntries(entries.map((entry) => [String(entry.data.chapter), entry.data.wordCount]));
+const wordMap = Object.fromEntries(
+  entries.map((entry) => [String(entry.data.chapter), entry.data.wordCount]),
+);
 ---
 
-<Base title="Murim Login" description="Read Murim Login — a martial-world web novel translation.">
-  <main class="wrap" data-page="index" data-count={chapters.length} data-words={JSON.stringify(wordMap)}>
+<Base
+  title="Murim Login"
+  description="Read Murim Login — a martial-world web novel translation."
+>
+  <main
+    class="wrap"
+    data-page="index"
+    data-count={chapters.length}
+    data-words={JSON.stringify(wordMap)}
+  >
     <section class="hero">
       <Picture
         class="cover-image"
@@ -28,7 +44,9 @@ const wordMap = Object.fromEntries(entries.map((entry) => [String(entry.data.cha
       />
       <h1>Murim Login</h1>
       <div class="cta-row">
-        <a id="continue" class="button" hidden href={firstHref}>Continue reading</a>
+        <a id="continue" class="button" hidden href={firstHref}
+          >Continue reading</a
+        >
         {
           first && (
             <a id="start" class="button" href={firstHref}>
@@ -51,15 +69,155 @@ const wordMap = Object.fromEntries(entries.map((entry) => [String(entry.data.cha
         </div>
       </div>
     </section>
+
+    <details class="site-intro">
+      <summary>
+        <span class="site-intro__title">About this translation</span>
+        <span class="site-intro__hint"
+          >Why it exists · pipeline · how to contribute</span
+        >
+      </summary>
+      <div class="site-intro__body">
+        <p>
+          Existing chapters of <em>Murim Login</em> are scattered across the web.
+          Quality ranges from good to barely readable, and terminology, names, character
+          voices, and formatting often change between sources.
+        </p>
+        <p>
+          The goal here is not simply to machine-translate the novel again. It
+          is to produce one reasonably high-quality, and most importantly <strong
+            >consistent</strong
+          >, English edition. Finished chapters live as ordinary Markdown in the
+          repository, so wording can be reviewed, diffed, corrected, and
+          improved through pull requests instead of sitting as opaque generated
+          output.
+        </p>
+        <p>
+          This is still a <strong>work in progress</strong>. The plan is to
+          translate all
+          <strong>1,104 chapters</strong> that currently exist. The pipeline uses
+          a substantial token budget and currently takes on the order of
+          <strong>30 minutes</strong> per chapter.
+        </p>
+
+        <h3 class="site-intro__subhead">How the pipeline works</h3>
+        <p>
+          This is not one model doing everything in a single chat. Each generative stage
+          uses a carefully chosen, <strong>isolated LLM</strong> with a narrow job and only
+          the context that stage is allowed to see. Model output is never accepted raw: a
+          Python controller owns the order of stages, runs deterministic checks between
+          them, and stops on failure. The models translate, review, polish, and judge —
+          they do not decide what runs next.
+        </p>
+        <ol class="site-intro__steps">
+          <li>
+            <strong>Context.</strong> Each chapter gets a bounded packet: translation
+            rules, glossary hits, address forms, risk notes, compact character profiles,
+            active continuity, and recent summaries — not the whole novel dumped into
+            one prompt.
+          </li>
+          <li>
+            <strong>Draft.</strong> A dedicated draft model — chosen for that role and run
+            in isolation — produces the chapter English from the Korean source plus that
+            packet.
+          </li>
+          <li>
+            <strong>Deterministic QA.</strong> Automated checks must pass before any review
+            model is called.
+          </li>
+          <li>
+            <strong>Independent review.</strong> A separate review model, isolated from the
+            drafter, returns structured findings with exact
+            <code>current → replacement</code> spans — not another free-form rewrite of the
+            chapter.
+          </li>
+          <li>
+            <strong>Exact revision.</strong> Those replacements are applied atomically with
+            no further model call. Missing, repeated, or overlapping spans block the chapter.
+          </li>
+          <li>
+            <strong>Continuity update.</strong> A bounded update model extracts chapter facts;
+            the controller then writes names, address forms, profiles, and summaries so later
+            chapters stay coherent.
+          </li>
+          <li>
+            <strong>Mastering.</strong> A later polish model edits the full chapter in its
+            own pass. An independent adjudicator model then judges the diff against the
+            Korean source before the published copy is promoted.
+          </li>
+        </ol>
+        <p>
+          Persistent ledgers keep terminology and names stable. Character profiles stay
+          spoiler-safe. Hashes and transaction state stop stale or failed runs from silently
+          continuing. That does not make this human translation — it is still LLM-assisted —
+          but consistency, terminology, continuity, review, and publication are treated as an
+          engineering pipeline rather than one prompt followed by “save output.”
+        </p>
+        <p>
+          The same Markdown feeds this web reader, plus PDF and EPUB builds from
+          GitHub Actions.
+        </p>
+
+        <div class="site-intro__actions">
+          <a
+            class="button"
+            href="https://github.com/jimzrt/murim-login"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            GitHub project
+          </a>
+          <a
+            class="button button--ghost"
+            href="https://github.com/jimzrt/murim-login/pulls"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Pull requests
+          </a>
+          <a
+            class="button button--ghost"
+            href="https://github.com/jimzrt/murim-login/issues"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Issues
+          </a>
+          <a
+            class="button button--ghost"
+            href="https://github.com/jimzrt/murim-login/releases/tag/ebook"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            PDF / EPUB
+          </a>
+        </div>
+        <p class="site-intro__note">
+          Found awkward, inconsistent, or wrong wording? Open a pull request
+          against the relevant file in <code>translations/</code>. Improvements
+          are reviewed as normal source changes and then propagate to the web
+          reader and the ebook release.
+        </p>
+      </div>
+    </details>
+
     <section class="toc" aria-labelledby="toc-heading">
       <h2 id="toc-heading" class="toc-heading">Chapters</h2>
       <label class="filter-label">
         <span class="sr-only">Filter chapters</span>
-        <input id="chapter-filter" type="search" placeholder="Filter chapters" />
+        <input
+          id="chapter-filter"
+          type="search"
+          placeholder="Filter chapters"
+        />
       </label>
       {
         groups.map((group) => (
-          <details class="chapter-range" data-start={group.start} data-end={group.end}>
+          <details
+            class="chapter-range"
+            data-start={group.start}
+            data-end={group.end}
+          >
             <summary>
               <span>{group.label}</span>
               <span class="range-count">{group.items.length}</span>
@@ -70,7 +228,12 @@ const wordMap = Object.fromEntries(entries.map((entry) => [String(entry.data.cha
                   <a href={item.href} data-chapter={item.chapter}>
                     <span class="chapter-ol__title">{item.title}</span>
                     <span class="chapter-ol__meta">
-                      <span class="remark42__counter" data-url={`chapter-${item.chapter}`}>0</span>
+                      <span
+                        class="remark42__counter"
+                        data-url={`chapter-${item.chapter}`}
+                      >
+                        0
+                      </span>
                     </span>
                   </a>
                 </li>
