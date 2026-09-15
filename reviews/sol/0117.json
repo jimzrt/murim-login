@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "A sword reduced to its hilt. Tightly pressed lips.",
+      "defect": "The source states that both the sword and the saber were reduced to their hilts, but the draft mentions only a sword.",
+      "id": "F01",
+      "rationale": "도검 collectively identifies the two combatants’ sword and saber; omitting the saber changes the physical result of their clash.",
+      "replacement": "A sword and saber reduced to nothing but their hilts. Tightly pressed lips.",
+      "severity": "critical",
+      "source": "손잡이만 남은 도검과 굳게 다문 입술."
+    },
+    {
+      "confidence": 0.98,
+      "current": "I had lost the first subordinate I’d gained in the Murim, and I’d nearly died.",
+      "defect": "The draft says the casualty was the first subordinate Taekyung had recruited, whereas the source says this was the first time he had lost one of his Murim subordinates.",
+      "id": "F02",
+      "rationale": "처음으로 modifies 잃었고, describing Taekyung’s first experience of losing a subordinate rather than identifying that subordinate as the first one recruited.",
+      "replacement": "For the first time, I’d lost one of the subordinates I’d gained in the Murim, and I’d nearly died.",
+      "severity": "critical",
+      "source": "무림에서 얻은 수하를 처음으로 잃었고, 죽기 직전까지 갔으니까."
+    },
+    {
+      "confidence": 0.94,
+      "current": "The sight of the earth splitting wide open without a single boom or tremor was pure terror.",
+      "defect": "“Pure terror” narrows 전율 to fear and adds an emotional judgment not specified by the source, which presents the silent destruction as shudder-inducing.",
+      "id": "F03",
+      "rationale": "전율 conveys an involuntary thrill or shudder and does not necessarily mean terror.",
+      "replacement": "The sight of the earth splitting wide open without a single boom or tremor sent a shiver through him.",
+      "severity": "major",
+      "source": "어떤 굉음도, 진동도 없이 지면이 쩍 갈라지는 광경은 전율 그 자체였다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Are you insane?”",
+      "defect": "The draft loses the deliberately polite, tentative phrasing that makes Taekyung’s insult deadpan and comic.",
+      "id": "F04",
+      "rationale": "혹시 and the polite ending -세요 turn the blunt insult 미친놈 into a mock-courteous question; that register contrast is intentional characterization and humor.",
+      "replacement": "“Are you, by any chance, a lunatic?”",
+      "severity": "major",
+      "source": "혹시 미친놈이세요?"
+    },
+    {
+      "confidence": 0.97,
+      "current": "He had been the most powerful and hopeless opponent I had ever faced.",
+      "defect": "“Hopeless opponent” naturally suggests that the Head Elder himself was ineffectual or beyond saving, rather than that facing him made Taekyung feel hopeless.",
+      "id": "F05",
+      "rationale": "절망적이었던 describes how overwhelmingly hopeless the opponent made the confrontation feel, not a lack of ability on the opponent’s part.",
+      "replacement": "He had been the most powerful and despair-inducing opponent I had ever faced.",
+      "severity": "major",
+      "source": "지금까지 만난 무인 중 가장 고강하고 절망적이었던 상대."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“You should have seen who you were attacking before you charged in.”",
+      "defect": "The draft is an unnatural literal rendering and obscures the idiomatic warning that Taekyung should have judged his opponent before attacking.",
+      "id": "F06",
+      "rationale": "사람을 보고 덤비다 means to size up or choose one’s opponent before starting a fight, not literally to see who is being attacked.",
+      "replacement": "“You should’ve picked your opponent more carefully before charging in.”",
+      "severity": "minor",
+      "source": "사람을 보고 덤볐어야지."
+    }
+  ],
+  "summary": "The draft contains two factual distortions and several meaningful losses of emotional or comedic register.",
+  "version": 1
+}
