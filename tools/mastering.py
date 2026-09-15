@@ -331,10 +331,9 @@ def create_or_verify_state(number: int) -> tuple[dict, dict[str, Path]]:
 
 
 def update_state(p: dict[str, Path], state: dict, stage: str, **extra: object) -> None:
-    state = dict(state)
     state["stage"] = stage
     state.update(extra)
-    atomic_json(p["state"], state)
+    atomic_json(p["state"], dict(state))
 
 
 def master_packet(number: int, source: str, baseline: str, glossary: list[dict]) -> str:
@@ -1411,6 +1410,7 @@ def command_qa(number: int) -> None:
         "VERIFIED" if passed else "QA_FAILED",
         qa_passed=passed,
         fidelity_repairs=repairs,
+        final_sha256=sha256_text(final),
     )
     status = "PASS" if passed else "FAIL"
     bits = [f"QA {status}"]
