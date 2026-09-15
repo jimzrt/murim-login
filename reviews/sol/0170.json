@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“We need to go. The elder might have suffered some kind of misfortune.”",
+      "defect": "The plural subject incorrectly says the family should go together, while Jang-pal states that he alone must go.",
+      "id": "F01",
+      "rationale": "The first-person singular 가 봐야겠소 and Jang-pal’s immediately following instruction that his wife remain with Hanga establish that only he intends to leave.",
+      "replacement": "“I need to go. The elder might have suffered some kind of misfortune.”",
+      "severity": "critical",
+      "source": "“가 봐야겠소. 어르신께서 무슨 봉변이라도 당했을지 몰라.”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "“You stay here with Hanga. I’ll just take a quick look. Don’t worry.”",
+      "defect": "The translation renders 살짝 as speed and omits the cue that Jang-pal intends to check the situation discreetly.",
+      "id": "F02",
+      "rationale": "살짝 보고만 올 describes a cautious, unobtrusive look rather than merely a quick one, which matters because Jang-pal fears the martial artists.",
+      "replacement": "“You stay here with Hanga. I’ll just sneak over and take a look, so don’t worry.”",
+      "severity": "major",
+      "source": "“당신은 여기서 항아랑 있으시오. 살짝 보고만 올 테니까 걱정 말고.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“If they’re even a little—just a little—bad, you won’t be able to return. Are you planning to raise your child without a father?”",
+      "defect": "The final question illogically makes Jang-pal the person who would raise his own child without a father, rather than warning that his death would leave Hanga fatherless.",
+      "id": "F03",
+      "rationale": "아이를 아비 없이 키우다 means causing or allowing the child to be raised fatherless; the warning is about the consequence of Jang-pal failing to return.",
+      "replacement": "“If they’re even a little—just a little—bad, you won’t be able to return. Do you mean to leave your child to grow up without a father?”",
+      "severity": "major",
+      "source": "“만약 놈들이 조금, 아주 조금이라도 질이 나쁜 놈이라면 자네는 돌아올 수 없을 걸세. 아이를 아비 없이 키울 생각인가?”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "*Fuck. If I’d known this would happen, I would’ve shown him the iron sooner.*",
+      "defect": "The draft turns the deliberately softened minced oath 시바 into fully explicit profanity and unnecessarily supplies “the iron,” which the source leaves implicit.",
+      "id": "F04",
+      "rationale": "시바 is an evasive deformation of stronger profanity, so “Fuck” intensifies the register; the omitted object in 보여 줄걸 should remain naturally implicit in English.",
+      "replacement": "*Shit. If I’d known this would happen, I would’ve shown him sooner.*",
+      "severity": "major",
+      "source": "시바, 이럴 줄 알았으면 진작 보여 줄걸."
+    },
+    {
+      "confidence": 0.99,
+      "current": "They called it the greatest mineral under heaven, so if there was enough of it to peel off pieces and attach them to a blade, it must truly be incredibly rare.",
+      "defect": "The translation reverses the mechanical implication by saying there is enough metal to remove pieces, whereas Taekyung infers its rarity from smiths using only tiny pieces on a blade.",
+      "id": "F05",
+      "rationale": "조금씩 떼서 날에 붙일 정도 indicates sparing use in small attached portions, not an abundance sufficient for pieces to be removed.",
+      "replacement": "They called it the greatest mineral under heaven, and judging by how people only shaved off tiny pieces to attach to a blade, it really must be incredibly rare.",
+      "severity": "major",
+      "source": "천하제일의 광물이라더니, 조금씩 떼서 날에 붙일 정도라면 엄청나게 귀하긴 한 모양이다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Is this the house of Grandpa Jang, who lives three houses over…? Damn it. I’ve already caught it. Anyway, is this Old Man Jang’s place?”",
+      "defect": "“I’ve already caught it” has no clear English antecedent and obscures the joke that Hanga’s repetitive way of identifying the house has rubbed off on the speaker.",
+      "id": "F06",
+      "rationale": "그새 옮았네 figuratively says the child’s speech habit has already spread to or rubbed off on him.",
+      "replacement": "“Is this the house of Grandpa Jang, who lives three houses over…? Damn it. It’s rubbed off on me already. Anyway, is this Old Man Jang’s place?”",
+      "severity": "minor",
+      "source": "“여기가 옆옆옆 집에 사는 장씨 할부지…… 니미럴. 그새 옮았네. 아무튼 장 노인 댁이오?”"
+    }
+  ],
+  "summary": "Several actionable fidelity and register issues, including a changed subject, a distorted fatherless-child warning, and a reversed explanation of the metal’s rarity.",
+  "version": 1
+}

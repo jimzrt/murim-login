@@ -1,16 +1,16 @@
 # Translation State
 
-- Last completed: 169
-- Next chapter: 170
-- Current block: 165–169 (5/5)
-- Latest translation: `translations/0169.md`
-- Latest summary: `summaries/beats/0169.md`
-- Safe profiles through: chapter 169
+- Last completed: 170
+- Next chapter: 171
+- Current block: 170–174 (1/5)
+- Latest translation: `translations/0170.md`
+- Latest summary: `summaries/beats/0170.md`
+- Safe profiles through: chapter 170
 
 ## Current Block
 
-- The newly established Datong Branches of the Jin Family of Taiyuan and the Lower District Sect discover that more than four hundred Heavenly Wind Band mounted bandits have been annihilated. The surviving Heavenly Wind Band Leader identifies the attacker as an old man who seemed like a demon from a pit of fire before dying. The Branch Leaders infer that the old man is a merciless Supreme Peak master who primarily uses Scorching Yang Qi and send warnings to their organizations.
-- On an unnamed mountain, the old man meets a woodcutter named Jang-pal, who mistakes him for a mountain spirit. The old man displays signs of senility by recalling Hong Family Village as though he visited it less than half a shichen earlier despite its being three hundred li away. After accepting Jang-pal's rice ball, he rides down the mountain on Jang-pal's wooden carrying frame toward Jang Family Village.
+- The old man reaches Jang Family Village with Jang-pal, is welcomed by Jang-pal’s family, and briefly enjoys being treated as an ordinary elder. Hanga reveals that tall, handsome martial artists carrying swords came looking for him; after recognizing the danger, the old man stops Jang-pal from going and asks where they are.
+- The old man demonstrates that he can chew through and break a carefully sharpened axe blade, confirming to Jang-pal that he is an extraordinary martial artist. Meanwhile, Taekyung shows Jang Taebo his enormous supply of Ten-Thousand-Year Cold Iron, completing Find the Master Artisan and generating a linked Quest; Jang Taebo promises to forge what he calls the greatest divine weapon under heaven.
 
 ## Open Questions
 
@@ -21,12 +21,13 @@
 - Who is the unnamed giant leading the Heavenly Wind Band?
 - Who is the unidentified old man who confronted and annihilated the Heavenly Wind Band?
 - What is the linked Quest generated after Find the Master Artisan?
+- Who are the tall, handsome martial artists who came looking for the unnamed old man?
 
 ## Exceptional Decision
 
 - Render 삼매진화 as “Samadhi True Fire.”
 - Render 정기신 as “essence, qi, and spirit,” 백염 as “white flames,” and 입신지경 as “a transcendent realm.”
-- Render 어르신 as “elder” and 형님 as “big brother” when Black Sand addresses the old man, preserving the old man's rejection of both forms.
+- Render 어르신 as “elder” and 형님 as “big brother” when Black Sand addresses the old man, preserving the old man’s rejection of both forms.
 - Render 명장 as “Master Artisan,” 장인을 찾아라 as “Find the Master Artisan,” 가공되지 않은 만년한철 as “Unprocessed Ten-Thousand-Year Cold Iron,” 하수오 as “He Shou Wu,” and 오십 년 묵은 하수오 as “Fifty-Year-Old He Shou Wu.”
 - Render 철기방 as “Ironcraft Guild” and 철기방주 as “Guild Leader of the Ironcraft Guild.”
 - Render 오향장육 as “five-spice pork,” 집성촌 as “clan village,” 야장 as “smith,” 항아 as “Hanga,” 여의주 as “dragon pearl,” and 신병이기 as “divine weapon.”

@@ -438,3 +438,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 장가촌 | **Jang Family Village** | Clan village where Jang-pal lives. |
 | 홍가촌 | **Hong Family Village** | Clan village said to be three hundred li from Jang Family Village. |
 | 신령님 | **Mountain Spirit** | Jang-pal's mistaken address for the unnamed old man. |
+| 장씨 | **Jang** | Unspaced source variant of 장 씨; surname form for Jang-pal. |
