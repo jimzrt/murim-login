@@ -1,0 +1,115 @@
+{
+  "summary": "The chapter is otherwise faithful, but eleven references inconsistently shorten the glossary-bound name Song-i to Song.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "line 41",
+      "current": "Miss Song’s misfortune was my misfortune.",
+      "defect": "The established short-form name Song-i is incorrectly shortened to Song, making it read like a surname.",
+      "replacement": "Miss Song-i’s misfortune was my misfortune.",
+      "rationale": "The exact glossary binds 송이 to Song-i, and the assembled chapter correctly uses Miss Song-i elsewhere.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "line 65",
+      "current": "Miss Song had opened her third bottle of soju and was going wild.",
+      "defect": "The glossary-bound name Song-i is rendered inconsistently as Song.",
+      "replacement": "Miss Song-i had opened her third bottle of soju and was going wild.",
+      "rationale": "송이 is bindingly rendered as Song-i.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "line 67",
+      "current": "“Ha-ha-ha! This is why I like Miss Song so much!”",
+      "defect": "The glossary-bound name Song-i is rendered inconsistently as Song.",
+      "replacement": "“Ha-ha-ha! This is why I like Miss Song-i so much!”",
+      "rationale": "송이 is bindingly rendered as Song-i.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "line 79",
+      "current": "“It’s fine. It’s not like I’ve only known her for a day or two. That’s just how Miss Song gets when she drinks.”",
+      "defect": "The glossary-bound name Song-i is rendered inconsistently as Song.",
+      "replacement": "“It’s fine. It’s not like I’ve only known her for a day or two. That’s just how Miss Song-i gets when she drinks.”",
+      "rationale": "송이 is bindingly rendered as Song-i.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F05",
+      "severity": "minor",
+      "source": "line 87",
+      "current": "“How do you know what Miss Song is like when she drinks?”",
+      "defect": "The glossary-bound name Song-i is rendered inconsistently as Song.",
+      "replacement": "“How do you know what Miss Song-i is like when she drinks?”",
+      "rationale": "송이 is bindingly rendered as Song-i.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F06",
+      "severity": "minor",
+      "source": "line 165",
+      "current": "“That might have been the case. Miss Song was the only person who treated me normally.”",
+      "defect": "The glossary-bound name Song-i is rendered inconsistently as Song.",
+      "replacement": "“That might have been the case. Miss Song-i was the only person who treated me normally.”",
+      "rationale": "송이 is bindingly rendered as Song-i.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F07",
+      "severity": "minor",
+      "source": "line 167",
+      "current": "“……Then was Miss Song in the Ares Guild too?”",
+      "defect": "The glossary-bound name Song-i is rendered inconsistently as Song.",
+      "replacement": "“……Then was Miss Song-i in the Ares Guild too?”",
+      "rationale": "송이 is bindingly rendered as Song-i.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F08",
+      "severity": "minor",
+      "source": "line 175",
+      "current": "My gaze moved back and forth between Team Leader Choi, who was sipping his beer, and Miss Song, who was drinking straight from the bottle, before stopping on one person.",
+      "defect": "The glossary-bound name Song-i is rendered inconsistently as Song.",
+      "replacement": "My gaze moved back and forth between Team Leader Choi, who was sipping his beer, and Miss Song-i, who was drinking straight from the bottle, before stopping on one person.",
+      "rationale": "송이 is bindingly rendered as Song-i.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F09",
+      "severity": "minor",
+      "source": "line 197",
+      "current": "“Oh, the burner went out. Miss Song, do we have another gas canister?”",
+      "defect": "The glossary-bound name Song-i is rendered inconsistently as Song.",
+      "replacement": "“Oh, the burner went out. Miss Song-i, do we have another gas canister?”",
+      "rationale": "송이 is bindingly rendered as Song-i.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F10",
+      "severity": "minor",
+      "source": "line 305",
+      "current": "Im Kkeokjeong and Miss Song answered.",
+      "defect": "The glossary-bound name Song-i is rendered inconsistently as Song.",
+      "replacement": "Im Kkeokjeong and Miss Song-i answered.",
+      "rationale": "송이 is bindingly rendered as Song-i.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F11",
+      "severity": "minor",
+      "source": "line 345",
+      "current": "At Team Leader Choi’s question, Im Kkeokjeong and Miss Song answered.",
+      "defect": "The glossary-bound name Song-i is rendered inconsistently as Song.",
+      "replacement": "At Team Leader Choi’s question, Im Kkeokjeong and Miss Song-i answered.",
+      "rationale": "송이 is bindingly rendered as Song-i.",
+      "confidence": 1.0
+    }
+  ]
+}

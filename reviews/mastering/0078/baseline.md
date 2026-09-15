@@ -1,24 +1,24 @@
 # Chapter 78
 
-Hunters are all hard drinkers.
+Every Hunter is a heavy drinker.
 
-Even an F-rank Hunter—the lowest classification—has physical abilities and a metabolism far beyond those of an ordinary person.
+Even an F-rank Hunter, the lowest classification, possesses physical abilities and a metabolism far beyond those of an ordinary person.
 
-There’s a reason people say some Hunters don’t drink, but no Hunter can’t drink.
+There is a reason people say that while some Hunters do not drink, there are none who cannot.
 
 “Hic. One more glass.”
 
 Well, there was one here.
 
-Miss Song-i’s eyes were already half-glazed as she shook her empty glass furiously.
+Miss Song’s eyes had already gone half-glazed as she furiously shook her empty glass.
 
 “One more glaaass!”
 
 *She’s pretty even when she’s drunk… No, that’s not the point. Isn’t this getting a little dangerous?*
 
-I looked at Miss Song-i with concern.
+I looked at Miss Song with concern.
 
-*She must’ve drunk too fast.*
+*She must have drunk too quickly.*
 
 The moment the drinking party had begun in earnest, she had chugged an entire bottle of soju straight from the bottle and had been like this ever since. Every now and then, she slurred incomprehensible things about someone having no damn tact and rotten luck clinging like a curse.
 
@@ -26,7 +26,7 @@ The moment the drinking party had begun in earnest, she had chugged an entire bo
 
 While Im Kkeokjeong was filling her glass, I leaned toward Team Leader Choi and whispered.
 
-“Team Leader. Did something happen to Miss Song-i?”
+“Team Leader. Did something happen to Miss Song?”
 
 Team Leader Choi answered with an awkward expression.
 
@@ -34,7 +34,7 @@ Team Leader Choi answered with an awkward expression.
 
 “I knew it.”
 
-“Very recently, too.”
+“Something that happened very recently, too.”
 
 “Oh. Ah.”
 
@@ -46,7 +46,7 @@ Miss Song’s misfortune was my misfortune. Just sitting there and watching her 
 
 “……”
 
-Team Leader Choi, and even Butler Kim, who was sitting beside him, stared at me with strange expressions.
+Team Leader Choi, along with Butler Kim, who was sitting beside him, stared at me with strange expressions.
 
 This was starting to feel weird.
 
@@ -56,21 +56,21 @@ This was starting to feel weird.
 
 “People can be like that when they’re young.”
 
-It was an oddly lukewarm answer, but that wasn’t important right now.
+It was a lukewarm answer, but that was not important right now.
 
 Crack.
 
-“Drink! Today, we drink ourselves to death!”
+“Drink! Drink until you drop dead today!”
 
 Miss Song had opened her third bottle of soju and was going wild.
 
-“Ha-ha-ha! This is why I like Miss Song so much!”
+“Ha-ha-ha! This is why I really like Miss Song!”
 
 Like a fish in water—no, like a bandit who’d found booze—Im Kkeokjeong egged her on from beside her.
 
 “Shouldn’t we stop her?”
 
-“Ah, Miss Song-i?”
+“Ah, Miss Song?”
 
 “Yes.”
 
@@ -80,9 +80,9 @@ Team Leader Choi shrugged.
 
 “Even so… No, wait a second.”
 
-I fixed Team Leader Choi with a penetrating stare.
+I stared intently at Team Leader Choi.
 
-He’d seemed suspicious for a while, and now I’d finally caught him.
+I had thought he was suspicious for a while, but now I had finally caught him.
 
 “How do you know what Miss Song is like when she drinks?”
 
@@ -90,7 +90,7 @@ He’d seemed suspicious for a while, and now I’d finally caught him.
 
 “……”
 
-Was this bastard making fun of me? Did he think I was asking because I couldn’t figure that out?
+Was this bastard making fun of me? Did he think I was asking because I didn’t understand that?
 
 “That’s not what I mean.”
 
@@ -98,9 +98,9 @@ Was this bastard making fun of me? Did he think I was asking because I couldn’
 
 “I mean…”
 
-Now that he’d put it that way, I had nothing to say. When I thought about it, who was I to question the relationship between them?
+Now that he had put it that way, I had nothing to say. When I thought about it, who was I to question the relationship between the two of them?
 
-Just as I found myself at a loss for words, Team Leader Choi suddenly spoke.
+Just as I was rendered speechless, Team Leader Choi suddenly opened his mouth.
 
 “You’ve heard of Ares, right?”
 
@@ -108,13 +108,13 @@ Just as I found myself at a loss for words, Team Leader Choi suddenly spoke.
 
 Ares, the god of war.
 
-The name of a god from ancient Greek and Roman mythology. These days, though, it was famous for something else.
+The name of a god who appeared in ancient Greek and Roman mythology. These days, though, it was famous for something else.
 
 “Who in Korea doesn’t know the Ares Guild?”
 
 The pride and joy of Korea’s Hunters.
 
-Hundreds of Guilds existed in Korea, but only one stood at the top: the Ares Guild. From the early days of the Great Cataclysm to the present, their achievements had been too numerous to count.
+Hundreds of Guilds existed in Korea, but only one stood at the top: the Ares Guild. The achievements they had made from the early days of the Great Cataclysm to the present were too numerous to count.
 
 *They’re legends. Plain and simple.*
 
@@ -124,13 +124,13 @@ The Ares Guild held a position in Korea comparable to a living King Sejong or an
 
 *They’re famous all over the world, after all.*
 
-If you asked most foreigners, *Do you know King Sejong? King-God-General Yi Sun-sin?* they’d probably think, *What the hell is this Asian bastard talking about?* But the Ares Guild was different.
+If you asked most foreigners, *Do you know King Sejong? King-God-General Yi Sun-sin?* they would probably respond, *What the hell is this Asian guy talking about?* But the Ares Guild was different.
 
 *Do you know Ares?*
 
-*Oh, yes!*
+*Oh, yeah!*
 
-Even a tough-as-nails Texas grandpa would slap his twin pistols and know what you meant. That was the accepted academic consensus.
+Even a tough-as-nails Texas grandpa would tap his twin pistols and understand. That was the accepted truth among scholars.
 
 “Why are you asking about the Ares Guild?”
 
@@ -146,15 +146,15 @@ I blinked for a while before finally speaking.
 
 “You used to belong to the Ares Guild?”
 
-“I was a Team Leader. Though I was pretty far down the ladder.”
+“I was a Team Leader. Though I was still pretty low-ranking.”
 
-The Ares Guild had high standards. They selected only the best and trained them to become even better. Team Leader Choi had called himself low-ranking, but the fact that he’d made Team Leader there was already incredible.
+The Ares Guild had high standards. They selected only the best and trained them to become even better. Team Leader Choi had called himself a low-ranking member, but the fact that he had become a Team Leader there was already incredible.
 
-Though right now, he just looked like a lunatic to me.
+Though at the moment, he just looked like a lunatic to me.
 
 “Then why did you leave?”
 
-Money, honor, status.
+Money, honor, and status.
 
 It was the best job any Hunter—or any man—could dream of. And he had kicked it all away and left!
 
@@ -178,7 +178,7 @@ My gaze moved back and forth between Team Leader Choi, who was sipping his beer,
 
 “Me?”
 
-Butler Kim smiled kindly and waved a hand.
+Butler Kim smiled kindly and waved his hand.
 
 “I retired a long time ago. Ha-ha-ha.”
 
@@ -188,7 +188,7 @@ So he was a former Hunter.
 
 Suddenly, I remembered the sense of incongruity I had always felt whenever I dealt with Butler Kim. I had also never once tried to assess him with my Qi Sense.
 
-*Who is this man, really?*
+*What is this man’s real identity?*
 
 Just as I was about to raise my Qi Sense, Im Kkeokjeong, who had been enthusiastically inhaling meat and liquor whether or not we were talking, spoke up.
 
@@ -210,7 +210,7 @@ Butler Kim snapped his fingers.
 
 Fwoosh!
 
-A wave of scorching heat burst forth. Blue flames surged precisely up over the grill, heating the plate and cooking the meat in an instant before vanishing.
+A wave of scorching heat burst forth. Blue flames shot precisely up over the grill, heating the plate and cooking the meat in an instant before vanishing.
 
 “This is…”
 
@@ -228,9 +228,9 @@ Im Kkeokjeong and I shouted at the same time.
 
 I shook my head back and forth.
 
-More importantly, who would’ve guessed Butler Kim was a mage? No wonder something about him had always felt strange.
+More importantly, who would have thought Butler Kim was a mage? No wonder something about him had always felt strange.
 
-“You really had me fooled.”
+“You really fooled me.”
 
 Butler Kim picked up a well-cooked piece of meat.
 
@@ -248,9 +248,11 @@ If he had been active during the Great Cataclysm, too…
 
 *……This guy’s a big shot.*
 
-On top of that, he was an incredibly senior one.
+And on top of that, he was an incredibly senior one.
 
-I asked cautiously, “Um, which Hunter training center did you graduate from?”
+I asked cautiously.
+
+“Um, which Hunter training center did you graduate from?”
 
 “Nonsan.[^1] What about you, Mr. Taekyung?”
 
@@ -260,33 +262,33 @@ I asked cautiously, “Um, which Hunter training center did you graduate from?�
 
 “Second Company.”
 
-“Then perhaps it isn’t a coincidence but fate. Ha-ha.”
+“Then it wasn’t a coincidence. I suppose it was fate. Ha-ha.”
 
-There was nothing more to discuss. I rose from my seat and bowed deeply at the waist.
+There was no need for further discussion. I stood up and bent deeply at the waist.
 
 “Nice to meet you, Senior.”
 
 [^1]: Nonsan is home to Korea’s main Army recruit training center.
 
-There’s a saying in Korea about school ties, regional ties, and blood ties.[^2] Hunters were no different.
+There is a saying in Korea about school ties, hometown ties, and blood ties.[^2] Hunters were no different.
 
-The chance of awakening was 0.1 percent—one in a thousand. With odds that slim, it was rare for anyone you knew from ordinary life to awaken. The Hunter training center might not seem like much, but it was where a Hunter’s network began.
+The probability of awakening was 0.1 percent—one in a thousand. Because the odds were so slim, it was rare for someone you knew from ordinary society to awaken. The Hunter training center, which might seem like nothing special, was where a Hunter’s network began.
 
-“You don’t have to go this far. Please, sit down.”
+“You don’t have to go that far. Please, sit down.”
 
-“You can speak casually with me.”
+“You can speak comfortably with me.”
 
 “I don’t really stand on ceremony…”
 
-Just as Butler Kim and I were creating a warm atmosphere between Senior and junior, Team Leader Choi, who had been watching quietly, suddenly cut in.
+Just as Butler Kim and I were creating a warm senior-junior atmosphere, Team Leader Choi suddenly cut in.
 
-“Butler Kim. Why don’t you do as Mr. Jin Taekyung says?”
+“Butler Kim. Why don’t you do as Mr. Jin says?”
 
-*What an ill-mannered bastard. How dare he tell such a distinguished Senior what to do…*
+*What an ill-mannered bastard. How dare he tell such a senior what to do…*
 
-*Hmm. I guess he can.*
+*Hmm. He can do that.*
 
-Come to think of it, Team Leader Choi was the bigger shot. He employed a former Ares Guild mage as his butler.
+Come to think of it, Team Leader Choi was the bigger shot. He employed a mage from the Ares Guild as his butler.
 
 *What kind of family does he come from?*
 
@@ -300,7 +302,7 @@ Butler Kim considered it for a moment before answering.
 
 “I’ll follow the Young Master’s wishes.”
 
-Team Leader Choi nodded and swept a stern gaze over everyone present.
+Team Leader Choi nodded and swept his stern gaze over everyone present.
 
 “Then from now on, we’ll all address Butler Kim as Guild Master. No objections, correct?”
 
@@ -328,9 +330,7 @@ Team Leader Choi spoke with an expression that seemed to say as much.
 
 “……”
 
-Looking as if he had been betrayed, Team Leader Choi pulled something from inside his coat and handed it to me. I took it and examined it.
-
-It was a business card.
+Team Leader Choi wore an expression as if he had been betrayed, then pulled something from inside his coat and handed it to me. I took it and looked at it. It was a business card.
 
 “I have this.”
 
@@ -344,15 +344,13 @@ It was a business card.
 
 “Butler Kim is the Guild Master. I’m the Team Leader. The other three are team members. Do you understand now?”
 
-I didn’t know whether Butler Kim was a boss in name only or a public figurehead, but I nodded anyway.
-
-If I didn’t, Team Leader Choi looked like he might cry.
+I didn’t know whether Butler Kim was a boss in name only or merely a figurehead, but I nodded anyway. If I didn’t, Team Leader Choi looked like he might cry.
 
 “Did everyone else understand?”
 
 At Team Leader Choi’s question, Im Kkeokjeong and Miss Song answered.
 
-“Wow, even the liquor tastes amazing. Is it because we’ve got magically grilled meat to go with it?”
+“Wow, even the liquor tastes amazing. Is it because we have magically grilled meat for an appetizer?”
 
 “How long are you going to make me do the shoulder dance? It’s dislocated! Dislocated! Dislocated!”
 
