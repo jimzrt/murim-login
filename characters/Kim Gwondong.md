@@ -1,6 +1,6 @@
 # Kim Gwondong (김권동)
 
-- **Safe through:** Chapter 97
+- **Safe through:** Chapter 98
 - **Aliases:** None
 - **Role:** Level 42 C-rank Hunter in Sangdong Guild’s Security Team, specializing in surveillance and disguise.
 - **Personality:** Cautious, observant, pragmatic, and cynical about his superior’s orders and accountability.
