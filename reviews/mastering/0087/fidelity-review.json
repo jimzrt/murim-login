@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "So it really is you. I saw you on the intercom and thought, no way.",
+      "defect": "The translation omits the intercom screen, the specific visual medium that supports Hayeon’s subsequent computer-graphics joke.",
+      "id": "F01",
+      "rationale": "The source explicitly says 인터폰 화면, “intercom screen,” rather than merely referring to the intercom.",
+      "replacement": "So it really is you. I saw you on the intercom screen and thought, no way.",
+      "severity": "minor",
+      "source": "lines 89–90 / P42"
+    },
+    {
+      "confidence": 0.93,
+      "current": "Good money, my ass. She works us at minimum wage during the busiest hours.",
+      "defect": "The translation changes the implied object from Kim Jeonghee to all the kitchen workers, introducing an unsupported claim about everyone’s wages.",
+      "id": "F02",
+      "rationale": "The thought rebuts the owner’s claim that she pays Kim Jeonghee good money; the omitted object of 부려 먹으면서 is the ajumma just mentioned, not a collective “us.”",
+      "replacement": "Good money, my ass. She pays Jeonghee minimum wage to work the busiest hours.",
+      "severity": "minor",
+      "source": "lines 251–252 / P114"
+    }
+  ],
+  "summary": "Faithful overall, with two minor losses involving a physical detail and the object of an employee’s thought.",
+  "version": 1
+}

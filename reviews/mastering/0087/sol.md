@@ -2,13 +2,13 @@
 
 “Achoo!”
 
-Patter-patter!
+Splat!
 
 Jinho hyung calmly wiped the ramen and grains of rice from his face with a wet tissue.
 
 “If you don’t like it, say so. Use your words.”
 
-“It’s not like that. It just came out of nowhere.”
+“It wasn’t on purpose. It just came out.”
 
 “Don’t make excuses. You only look more pathetic.”
 
@@ -18,29 +18,29 @@ But I was telling the truth. Instead of answering, I rubbed my nose.
 
 *Come to think of it, there is one guy with good reason to.*
 
-If it was Im Changsoo, he had more than enough motive. His motive was overflowing. Still, he was the Santa Claus who had given me four billion won, so I was happy to take a few insults.
+Im Changsoo had more than enough motive. Still, he was the Santa Claus who had given me four billion won, so I was happy to take a few insults.
 
 *I wasn’t sure he would, but the bastard actually kept his promise.*
 
-I remembered the text message I had received that morning. The banking app installed on my smartphone notified me of every deposit and withdrawal without exception.
+I thought back to the message I had received that morning. The banking app on my smartphone notified me of every deposit and withdrawal.
 
 > 4,000,000,000 won has been deposited into Jin Taekyung’s account, 110-***-***.
 
-The only minor mishap was that Jinho hyung had discovered it before I did. Leaving my smartphone in the room when I went to take a shower had been a mistake.
+The only minor mishap was that Jinho hyung had discovered it before I did. Leaving my smartphone in the room while I took a shower had been a mistake.
 
-“You’ve got plenty of money, and you’re eating ramen? Ramen?”
+“You’ve got all that money, and you’re serving me ramen?”
 
 “You sure talk a lot. I put beef in it. Don’t you like beef ramen?”
 
 “That’s not what I mean, you punk.”
 
-Bang!
+Clang!
 
-Jinho hyung roughly set down his utensils.
+Jinho hyung slammed down his spoon.
 
-Of course, he hadn’t done it to make a point. He was just full.
+Of course, he hadn’t done it to make a point. He was simply full.
 
-“I mean, you’ve got four billion won in your bank account, so why are you eating ramen in a goshiwon?[^1]”
+“I’m asking why you’re sitting in a goshiwon[^1] eating ramen when you have four billion won in the bank.”
 
 “What’s it to you? I’ll do what I want.”
 
@@ -54,7 +54,7 @@ Then a fortune had dropped out of the sky.
 
 Four billion won was enough to do a lot of things. Naturally, it gave me a lot to think about.
 
-“What are you thinking so hard about? There must have been something you wanted to do first as soon as you got money.”
+“What’s there to think so hard about? There must have been something you always wanted to do first if you ever got money.”
 
 The first thing I wanted to do…
 
@@ -92,7 +92,7 @@ Hayeon’s eyes went round when she saw me outside the front door.
 
 Oh, right. Hardly any time had passed in the real world.
 
-The time difference was so large that even I got confused sometimes. I took off my shoes and asked, “What were you doing?”
+The difference between the two worlds was so large that even I got confused sometimes. I took off my shoes and asked, “What were you doing?”
 
 “Studying.”
 
@@ -100,7 +100,7 @@ The time difference was so large that even I got confused sometimes. I took off 
 
 Hayeon answered in a nasal voice.
 
-“They said my fever was thirty-nine degrees. I stuck it out until second period, then left early. Summer vacation starts tomorrow anyway, and we’ve been doing nothing but self-study lately.”
+“My fever was thirty-nine degrees. I stuck it out until second period, then left early. Summer vacation starts tomorrow anyway, and all we’ve been doing lately is self-study.”
 
 “You’re already on vacation? No, wait. You left school early because you were sick, and you’re studying?”
 
@@ -110,7 +110,7 @@ She had a raging fever, yet she was still studying. Did we really have different
 
 “There is no end to learning.”
 
-Leaving Hayeon, who sounded like a school disciplinarian, behind, I entered the living room. Apart from the two of us, there wasn’t a sign of anyone else in the house.
+Leaving Hayeon and her school-disciplinarian impression behind, I entered the living room. Apart from the two of us, there wasn’t a sign of anyone else in the house.
 
 “Where’s Mom?”
 
@@ -126,9 +126,9 @@ Leaving Hayeon, who sounded like a school disciplinarian, behind, I entered the 
 
 I wondered who she took after. Her acting was so natural that if I hadn’t already known the truth, I would have fallen for it completely.
 
-*I should’ve told Mom sooner.*
+*I should’ve told her a long time ago.*
 
-A bitter smile escaped me before I could stop it. As I turned back toward the entrance, Hayeon grabbed me.
+A bitter smile escaped me before I could stop it. When I turned back toward the entrance, Hayeon grabbed me.
 
 “Where are you going?”
 
@@ -150,7 +150,7 @@ The strength slowly drained from Hayeon’s hand.
 
 “Mom asked me to keep it a secret.”
 
-“I know that too.”
+“I knew that too.”
 
 “Oppa, can’t you stay?”
 
@@ -158,37 +158,37 @@ It was one of Hayeon’s longtime habits. Whenever she had an important favor to
 
 “I’ll be back.”
 
-I ruffled Hayeon’s hair and left the house.
+I ruffled Hayeon’s hair and left the apartment.
 
-As the elevator carried me down, I quietly thought about her warmth still lingering in my hand—and why she was studying even while her forehead was burning up.
+As the elevator carried me down, I thought about the warmth still lingering in my hand—and why she was studying even with her forehead burning up.
 
 * * *
 
-A person had only one name on their resident registration card, but they went by many names over the course of their life. Kim Jeonghee, who had turned exactly fifty that year, was no different.
+A person had only one name on their resident registration card, but they went by many names over the course of their life. Kim Jeonghee, who turned fifty that year, was no different.
 
 “Ajumma, two more servings of pork belly over here.”
 
 “Yes, just a moment.”
 
-The name she was called most often these days was *ajumma*.[^2] Before that, it had been “Hayeon’s mom.” Before that, “Taekyung’s mom.” Once the children had grown up and work had become busy, she had stopped hearing those names.
+The name she heard most often these days was *ajumma*.[^2] Before that, she had been “Hayeon’s mom.” Before that, “Taekyung’s mom.” Once the children had grown and life became busy, she had stopped hearing those names.
 
 The one person who had called her by her real name had passed away long ago.
 
 *Jeonghee.*
 
-She had met him when she was twenty-two. He had been kind and affectionate. Amid the chaos of the Great Cataclysm, a man and a woman met in a shelter and fell in love at once.
+She had met him when she was twenty-two. He had been kind and affectionate. Amid the chaos of the Great Cataclysm, a man and a woman met in a shelter and quickly fell in love.
 
 Their marriage had been a happy one. Even as the years passed, he continued to call her by name.
 
 *Jeonghee.*
 
-Sometimes, embarrassed to hear him call her by name in front of other people, she had asked him about it.
+Sometimes, embarrassed to hear him use her name in front of other people, she would ask him about it.
 
-*Why do you only call me Jeonghee? Other husbands call their wives “so-and-so’s mom,” “honey,” or “the missus.” That’s what everyone else does.*
+*Why do you always call me Jeonghee? Other husbands call their wives “so-and-so’s mom,” “honey,” or “the missus.” That’s what everyone else does.*
 
 *You don’t like it?*
 
-*No, it’s not that. I was just curious. We’re getting older too, you know.*
+*No, it’s not that. I was just curious. We’re getting older, you know.*
 
 *What does age have to do with it? I call you Jeonghee because I love Jeonghee more than I love Taekyung’s mom.*
 
@@ -196,7 +196,7 @@ Sometimes, embarrassed to hear him call her by name in front of other people, sh
 
 *Huh? Mom’s cheeks are red. Mom, do you and Dad wrestle in the mornings too? You do it every night.*
 
-*…Taekyung, starting today, go to bed early.*
+*…Taekyung, you’re going to bed early from now on.*
 
 Their parting came sooner than expected. A Gate opened in the middle of downtown without warning, and the two children lost their father while she lost her husband—the only person who had called her by name.
 
@@ -206,7 +206,7 @@ Kim Jeonghee jolted back to reality. A middle-aged woman with permed hair and fl
 
 “Oh, yes, ma’am.”
 
-“What were you doing that you couldn’t even hear me calling you?”
+“What were you doing? You didn’t even hear me calling you.”
 
 “I’m sorry.”
 
@@ -226,9 +226,9 @@ Kim Jeonghee bowed her head while the other kitchen workers kept working, preten
 
 *Good money, my ass. She works us at minimum wage during the busiest hours.*
 
-*She’s old enough to know better. She knows perfectly well that no amount of caked-on makeup and dressing up will make her a match for Jeonghee ajumma, so she’s taking it out on her.*
+*She’s old enough to know better. She knows no amount of caked-on makeup or fancy clothes will make her look as good as Jeonghee ajumma, so she takes it out on her.*
 
-*She should watch the counter properly herself in the first place. How many orders did Jeonghee take while she was off having fun?*
+*Maybe she should watch the counter properly in the first place. How many orders did Jeonghee take while she was off having fun?*
 
 They had plenty to say, but they could only keep it to themselves. The kitchen ajumma who had finally lost her patience and stood up for Kim Jeonghee had been fired the previous week.
 
@@ -236,11 +236,13 @@ They had plenty to say, but they could only keep it to themselves. The kitchen a
 
 “…I’m sorry.”
 
-“I heard your son is a Hunter. He should be making decent money, so why don’t you just stay home and cook? Why come all the way here and be a nuisance to someone else’s business? Ah, is his income not very good because he’s an F-rank Hunter?”
+“I heard your son is a Hunter. He should be making decent money, so why don’t you stay home and cook for him? Why come all the way here and make trouble for someone else’s business? Oh, does he not make much because he’s only an F-rank Hunter?”
 
-The moment a sneer appeared at the corners of the owner’s mouth, Kim Jeonghee slowly raised her bowed head.
+A sneer curled the owner’s lips.
 
-“Boss. You’ve gone too far.”
+Kim Jeonghee slowly raised her bowed head.
+
+“Boss. That was uncalled for.”
 
 “What?”
 
@@ -250,9 +252,9 @@ The moment a sneer appeared at the corners of the owner’s mouth, Kim Jeonghee 
 
 “Yes.”
 
-The unfamiliar sensation left the owner speechless. Kim Jeonghee had always been quiet and gentle, but now her eyes had sunk into a deep stare.
+The owner fell silent, taken aback. Kim Jeonghee had always been quiet and gentle, but now her gaze was deep and cold.
 
-“Please apologize for what you just said.”
+“Apologize for what you just said.”
 
 “A-apologize?”
 
@@ -262,43 +264,43 @@ The unfamiliar sensation left the owner speechless. Kim Jeonghee had always been
 
 “Is his rank really that important?”
 
-“Of course it is. What good is an F-rank Hunter? You have to be at least my son’s caliber to make good money and have women lining up for you. This shop, too…”
+“Of course it is. What good is an F-rank Hunter? A son like mine makes good money and has women lining up for him. This restaurant, too…”
 
 “Your son, the D-rank Hunter, opened it for you. I know. I’ve heard it dozens—no, hundreds—of times.”
 
-The employees, who had pricked up their ears, unconsciously nodded.
+The employees listening in unconsciously nodded.
 
 The owner’s bragging about her son was a familiar routine they heard several times a day.
 
-How much he made, how big his house was, what kind of car he drove, and how filial he was—so filial that he had even opened a shop for his mother to have something to do. She had repeated it so often that even the regular customers were sick of hearing it.
+How much he earned, how big his house was, what kind of car he drove, and how devoted he was—so devoted that he had even opened a restaurant to give his mother something to do. She had repeated the story so often that even the regular customers were sick of it.
 
-“Then you know all about it. I run this place as a hobby, but you’re different, aren’t you? You’re working in the kitchen because your son doesn’t make enough money, aren’t you?”
+“Then you know all about it. I run this place as a hobby, but you’re different, aren’t you? You work in the kitchen because your son doesn’t earn enough.”
 
 “No. That’s not why.”
 
 Kim Jeonghee continued calmly.
 
-“Our Taekyung grew up right. He never once caused his parents any trouble, even when he was little. He’s still working hard for his family. Money? He earns more than enough.”
+“Our Taekyung grew up right. He never caused his parents any trouble, not even once. He’s still working hard for his family. Money? He earns more than enough.”
 
-“That’s all an excuse.”
+“That’s just an excuse.”
 
-“An excuse? This is money my child earned by risking his life. How could I, as his parent, accept it and spend it?”
+“An excuse? My child risked his life to earn that money. How could I call myself a parent if I accepted it and spent it?”
 
-“Ajumma, was that meant for me to hear?”
+“Ajumma, was that supposed to be a jab at me?”
 
-“That depends on how you choose to take it. And since we’re on the subject, when does that amazing son of yours ever show his face?”
+“That depends on how you choose to take it. And since we’re on the subject, when is that amazing son of yours going to show his face?”
 
 “Wh-what?”
 
-“I’ve worked here for over a year, but that devoted son of yours hasn’t visited even once. He does at least call you, doesn’t he?”
+“I’ve worked here for over a year, but your devoted son hasn’t visited even once. He does at least call you, doesn’t he?”
 
 The kitchen fell deathly silent. The owner’s face turned bright red, and her eyes bulged.
 
 “Where does a bitch with such a pathetic son get off—”
 
-The employees knew what was coming next. Along with the owner’s machine-gun burst of abuse, the word “fired” was bound to come flying out.
+The employees knew what was coming. The owner was about to unleash a machine-gun burst of abuse, and the word *fired* was bound to be in there somewhere.
 
-But none of them could have predicted Kim Jeonghee’s reaction.
+But none of them could have predicted Kim Jeonghee’s response.
 
 “Watch your mouth, you goddamn bitch.”
 
@@ -306,7 +308,7 @@ But none of them could have predicted Kim Jeonghee’s reaction.
 
 “…!”
 
-It was as if a bomb had gone off.
+It was as though a bomb had gone off.
 
 A deathly silence descended as everyone’s eyes trembled with disbelief. Every person in the kitchen wondered if they had heard correctly.
 
@@ -318,19 +320,19 @@ Kim Jeonghee had always been gentle and quick to smile. Even when the owner pick
 
 Now she glared at the owner with eyes as cold as ice.
 
-“W-what did you say? What did you just call me?”
+“Wh-what did you say? What did you just call me?”
 
 “I called you a goddamn bitch, you fucking bitch.”
 
 “F-fucking bitch?!”
 
-Before the shock had even faded, a second bomb went off. The owner’s shriek rang all the way out into the dining area.
+Before the first shock had even faded, a second bomb went off. The owner’s shriek rang all the way through the dining area.
 
 “Did someone just swear?”
 
-“You heard that too? I think someone just called somebody a fucking bitch.”
+“You heard that too? I think someone called somebody a fucking bitch.”
 
-“What the hell? Are the employees fighting?”
+“What’s going on? Are the employees fighting?”
 
 The murmuring grew louder. Customers and employees alike turned their attention toward the kitchen.
 
@@ -338,9 +340,9 @@ That was when it happened.
 
 Thud. Thud.
 
-A large young man with his cap pulled low. No one had noticed when he entered, or how long he had been standing there. Not until he started walking toward the kitchen.
+A large young man with a cap pulled low over his face walked toward the kitchen. No one had noticed when he entered or how long he had been standing there—not until he began to move.
 
-“S-sir. I’ll take your order…”
+“S-sir, I’ll take your order…”
 
 The young man smiled faintly at the male employee who hurried to block his path.
 
