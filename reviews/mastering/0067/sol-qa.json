@@ -1,0 +1,39 @@
+{
+  "chapter": 67,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.359,
+    "source_characters": 5162,
+    "source_paragraphs": 185,
+    "translation_characters": 12176,
+    "translation_paragraphs": 186
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "깨달음",
+        "preferred": "enlightenment / insight"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "운기조식",
+        "preferred": "circulate one's qi"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "사숙",
+        "preferred": "Martial Uncle"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}

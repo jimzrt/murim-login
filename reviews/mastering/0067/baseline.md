@@ -1,22 +1,24 @@
 # Chapter 67
 
-“Ugh, every bone in my body aches.”
+“Ugh, every bone in my body hurts.”
 
 Hyuk Mujin groaned. His exposed upper body was stained dark reddish-black all over.
 
-At the sight, the crotchety-looking old man—the Medicine King Hall Master—clicked his tongue.
+At the sight, the cantankerous-looking old man—the Medicine King Hall Master—clicked his tongue.
 
 “What the hell did you do to your body?”
 
-He untied the bundle he had brought with him, revealing acupuncture needles as thick as stakes. Hyuk Mujin asked in a terrified voice, “You’re going to stick those in me?”
+When he untied the bundle he had brought with him, stake-like acupuncture needles were revealed. Hyuk Mujin asked in a trembling voice:
+
+“You’re going to stick those in me?”
 
 “What, scared?”
 
-“They look like they’ll hurt like hell… Please go easy on me.”
+“They look like they’ll hurt like hell… Please go easy, if possible.”
 
 “Sure, why not.”
 
-The Medicine King Hall Master answered readily and took out two large needles.
+The Medicine King Hall Master answered cheerfully and took out two large needles.
 
 “I’ll put one in the crown of your head and one in your perineum. If you die, you won’t have to worry about pain anymore.”
 
@@ -30,11 +32,11 @@ Thuk-thuk-thuk.
 
 “Argh! Argh!”
 
-“A young punk like you, making such a fuss. From the sound of that voice, you’ll be hale and hearty for another fifty years.”
+“A young punk like you, making such a fuss. From the sound of that voice, you’ll be hale for another fifty years.”
 
-Leaving Hyuk Mujin, who had turned into a porcupine, behind, the Medicine King Hall Master turned to me.
+Leaving Hyuk Mujin, who had turned into a porcupine, behind, the Medicine King Hall Master turned his head toward me.
 
-“Strip.”
+“Take it off.”
 
 “What, what?”
 
@@ -48,21 +50,21 @@ Rustle.
 
 The Medicine King Hall Master’s eyes widened when he saw my body.
 
-“What the hell are you?”
+“What are you made of?”
 
-His voice was full of astonishment, and understandably so. Until yesterday, my body had been covered in bruises, but now it was clean.
+His voice was filled with astonishment. It was understandable. Until yesterday, my body had been covered in bruises, but now it was clean.
 
-*I didn’t expect this much either.*
+*I didn’t expect this much, either.*
 
-After a single night’s sleep, most of the bruises had disappeared, and even my aching bones felt perfectly fine.
+After sleeping through the night, most of the bruises had disappeared, and even the bones that had been aching felt fine.
 
 *Is this the power of Sleep Mode?*
 
-It seemed that simply sleeping now let me recover quickly from most ordinary bruises. Even the Medicine King Hall Master, a physician seasoned by years of experience, found me fascinating and examined me for quite some time.
+It seemed that simply sleeping now let me recover quickly from most ordinary bruises. Even the Medicine King Hall Master, who had spent years as a physician, found me fascinating and examined me for quite some time.
 
-“Did you take an elixir last night?”
+“Did you take an elixir during the night?”
 
-“No. I just circulated my qi all day and got a good night’s sleep.”
+“No. I just circulated my qi all day and slept deeply.”
 
 “Is it the effect of the hundred-year snow ginseng? No, that’s too much…”
 
@@ -74,13 +76,13 @@ Hyuk Mujin, who had been groaning, brightened.
 
 “What about me? What about me?”
 
-“I swear, if you run off again without permission, I’ll ram one of these needles into your perineum.”
+“I swear, if you run off again without permission, I’ll jab your perineum with a large needle.”
 
-The gaunt old man muttered in a sinister voice, jabbing a large needle through the air. He looked like something straight out of a horror movie.
+The gaunt old man muttered in a sinister voice as he raised a large needle and stabbed it through the air. He looked like something straight out of a horror movie.
 
-*That’ll be one bloody opening ceremony.*
+*That’s going to be one bloody opening ceremony.*
 
-“Third Young Master, get out. Unless you want the needles too.”
+“Third Young Master, get out. Unless you want to be needled.”
 
 *Thanks…*
 
@@ -90,15 +92,15 @@ A sudden flash of insight crossed my mind.
 
 *Where am I supposed to go now?*
 
-The pavilion had collapsed, leaving me with nowhere to return to. I had become homeless overnight, and as I stood there hesitating—
+The pavilion had collapsed, so I had nowhere to return to. I had become homeless overnight, and was hesitating when—
 
 “Ahem. Medicine King Hall Master, are you inside?”
 
-A familiar voice came from beyond the door. Wondering if it could really be him, I opened it and found exactly the face I had expected.
+A familiar voice came from outside the door. I opened it, half expecting the impossible, and saw the face I had anticipated.
 
 “Hyung?”
 
-Jin Wikyung jumped a beat too late.
+Jin Wikyung jumped a beat late.
 
 “No, what are you doing here? I came because I had something urgent to discuss with the Medicine King Hall Master during my duties. What an incredible coincidence!”
 
@@ -108,25 +110,25 @@ Jin Wikyung jumped a beat too late.
 
 * * *
 
-After hearing about my situation, Jin Wikyung led the way with a solemn expression.
+After hearing my situation, Jin Wikyung led the way with a solemn expression.
 
 “I know of a place you can use as a residence for a while. Follow me.”
 
-He was clearly conscious of the people watching us. After all, the image he had built over the years was that of a coolheaded, capable Lesser Family Head who kept public and private matters strictly separate.
+His behavior was clearly influenced by the eyes around us. The image he had built over the years was that of a cold, capable Lesser Family Head who strictly separated public and private affairs.
 
 The problem was…
 
-“It’s the Lesser Family Head.”
+“The Lesser Family Head!”
 
 “Isn’t that the Third Young Master beside him? What are those two doing together in broad daylight?”
 
-“Maybe he can’t bear to be apart from him for even a moment. You know how he dotes on the Third Young Master.”
+“Maybe he can’t stand being apart from him for even an instant. He absolutely dotes on the Third Young Master.”
 
 Anyone who paid attention already knew: Jin Wikyung was a complete fool for his little brother.
 
 *Of course they did. Anyone who didn’t know would be the abnormal one.*
 
-He was still like this in his mid-thirties. I could only imagine how bad he had been when he was younger. Right after the battle, he had even been so overcome with joy that he carried me around on his shoulders.
+He was still like this in his mid-thirties. I could only imagine what he had been like when he was younger. After the battle ended, he had even been so happy that he carried me around on his shoulders.
 
 *My youngest! My little brother!*
 
@@ -134,45 +136,45 @@ After making such a spectacle in front of hundreds of people, there was no way a
 
 As I sighed inwardly, a thread of Sound Transmission slipped into my ear.
 
-—How was that? Hyung can act too, huh?
+—How was that? Hyung can act, too, huh?
 
-I nodded. If there were an Academy Award for terrible acting, he might have had a shot at Best Actor.
+I nodded, thinking that if there were an Academy Award for terrible acting, he might even contend for Best Actor.
 
-—Are you all right? Mukyung didn’t do it out of malice, so I hope you’ll understand.
+—Are you all right? Mukyung didn’t do it out of malice, so I hope you’ll understand him.
 
 “……”
 
-His fists had been overflowing with malice. It was only thanks to my rapid recovery that I hadn’t spent several days staring at the Medicine King Hall ceiling.
+His fists had been overflowing with malice. It was only thanks to my rapid recovery that I had not spent several days staring at the Medicine King Hall ceiling.
 
 *I should avoid running into him whenever possible.*
 
 That kid had a nasty temper, and the martial arts to back it up. There was no dealing with him.
 
-The moment Jin Mukyung appeared, he had shot straight to the top of my internal watch list.
+Jin Mukyung had shot straight up to the number-one spot on my internal watch list the moment he appeared.
 
 “Still, see him often enough and you’ll grow fond of him.”
 
 *See him often enough and I’ll grow black-and-blue.*
 
-Oblivious to my thoughts, Jin Wikyung laughed heartily and continued walking.
+Jin Wikyung, unaware of my inner thoughts, laughed heartily and continued walking.
 
-We passed through the bustling heart of the Jin Family of Taiyuan and kept going. The farther we went, the fewer people we saw.
+We passed through the bustling center of the Jin Family of Taiyuan and kept going. The farther we went, the fewer people we saw.
 
 *Where are we now?*
 
-The sheer size of the Jin Family of Taiyuan’s estate spoke to its former glory. Even from a distance, it looked as large as several soccer fields combined, so it was only natural that I couldn’t see everything. There were still unfamiliar places everywhere my feet took me.
+The area occupied by the Jin Family of Taiyuan was enormous, a reminder of its former glory. Even from a distance, it looked as though several soccer fields had been joined together, so it was only natural that I couldn’t see everything. There were still unfamiliar places everywhere my feet took me.
 
 *Everything’s run-down.*
 
-By now, the people had disappeared completely, leaving the road deserted. The occasional pavilion and other buildings whose purposes I couldn’t identify were old and gloomy.
+Now the people had disappeared completely, leaving the road empty. The occasional pavilion and the buildings whose purposes I couldn’t identify were old and gloomy.
 
-It had the kind of atmosphere where rats held sports festivals during the day and ghosts played go-stop at night.[^1]
+It had the kind of atmosphere where rats could hold a sports festival during the day and ghosts could play go-stop at night.[^1]
 
 When I looked around, Jin Wikyung hurriedly began to explain.
 
 “Given how things have been for our family, even maintaining this much has been more than we could manage. We’ll need to carry out extensive renovations now, of course.”
 
-“I don’t really mind.”
+“I don’t really care.”
 
 “Really?”
 
@@ -180,7 +182,7 @@ When I looked around, Jin Wikyung hurriedly began to explain.
 
 I meant it.
 
-I had lasted five whole years in a cramped, three-pyeong goshiwon studio.[^2] Rats could be caught, and as for ghosts… Well, it wasn’t as if real ghosts would actually show up.
+I had lasted five whole years in a cramped, three-pyeong goshiwon studio.[^2] Rats could be dealt with, and ghosts… Well, it wasn’t as if real ghosts would actually show up.
 
 “As long as it’s spacious, I don’t mind.”
 
@@ -210,7 +212,7 @@ Jin Wikyung smiled brightly, looking pleased by my reaction.
 
 “Yes. It’s much cleaner than I expected. And it looks incredibly spacious.”
 
-“That’s right. I had the training ground built large.”
+“That’s right. I had the training hall built large.”
 
 “A training hall!”
 
@@ -232,11 +234,11 @@ Jin Wikyung gave an awkward smile.
 
 “It’s spacious enough for two people to use it together, isn’t it? You might grow closer while you’re at it.”
 
-“Who is it?”
+“Who?”
 
 Unease began to creep up my spine.
 
-And bad premonitions were never wrong.
+And a bad premonition was never wrong.
 
 Instead of answering, Jin Wikyung strode into the pavilion.
 
@@ -246,11 +248,11 @@ Instead of answering, Jin Wikyung strode into the pavilion.
 
 * * *
 
-“So, I’d like you two to live together until his residence is rebuilt.”
+“So, I’d like you to live together until your residence is rebuilt.”
 
 After hearing the situation, Jin Mukyung readily nodded.
 
-“Very well.”
+“Let’s do that.”
 
 I hadn’t expected him to accept so readily.
 
@@ -258,15 +260,15 @@ His unexpected response surprised both me and Jin Wikyung.
 
 “Wait, are you serious?”
 
-“Yes. But please send me one person tomorrow.”
+“Yes. But please send one person tomorrow.”
 
-“Of course. I was worried about you shutting yourself away in the training ground all alone anyway, so this works out well. I’ll find you a capable servant who’s quick on the uptake. Or should I bring in a cook while I’m at it?”
+“Of course. I was worried about you shutting yourself away in the training hall all alone anyway, so this works out well. I’ll find you a capable servant who’s quick on the uptake. Or should I hire a cook while I’m at it?”
 
 “A servant or a cook is unnecessary.”
 
 “Then what?”
 
-Jin Mukyung gave me a long, meaningful look.
+Jin Mukyung gazed at me with deep, intent eyes.
 
 “Please call a physician.”
 
@@ -276,11 +278,13 @@ Jin Mukyung gave me a long, meaningful look.
 
 The scenery I had seen on the way here suddenly rose before my eyes.
 
-An empty street with no people around. An underground training ground where not even a scream could escape. The perfect conditions for committing a crime.
+An empty street with no people around. An underground training hall where not even a scream could escape. The perfect conditions for committing a crime.
 
 *He’s really made up his mind to beat me senseless.*
 
-As I shivered with a chill, Jin Wikyung stammered, “M-Mukyung. No, that’s not it, right? It’s not what I’m thinking, right?”
+As I shivered, Jin Wikyung stammered out:
+
+“M-Mukyung. No, that’s not it, right? It’s not what I’m thinking, right?”
 
 “It’s exactly what you’re thinking. It might be worse.”
 
@@ -294,11 +298,11 @@ Whoosh! Grab!
 
 *Goddammit.*
 
-Jin Wikyung caught me by the nape and hauled me back. Jin Mukyung let out a short laugh as he watched.
+Jin Wikyung caught me by the nape and dragged me back. Jin Mukyung gave a short laugh as he watched.
 
 “What a pathetic movement technique. Even a back-alley dog would be faster than you.”
 
-This time I fired back without backing down.
+This time, I fired back without holding anything in.
 
 “If something’s faster than me, is it really a dog? It’s Red Hare, isn’t it?”[^3]
 
@@ -310,21 +314,21 @@ Of course, I had no intention of actually being hit. I had a dependable protecto
 
 “Enough!”
 
-The booming shout shook the underground training ground. Unlike before, Jin Wikyung’s face had hardened.
+The booming shout shook the underground training hall. Unlike before, Jin Wikyung’s face had hardened.
 
 “What do you two think you’re doing?”
 
-I had never seen him like this. They said it was frightening when a kind person got angry, and Jin Wikyung now showed me exactly what that meant.
+I had never seen him like this. They said it was frightening when a good person got angry, and looking at Jin Wikyung now, I understood exactly what they meant.
 
 “Instead of getting along as brothers, you’re trying to start a fight in front of me?”
 
-Under his fierce glare, Jin Mukyung and I both fell silent.
+Under his fierce glare, both Jin Mukyung and I fell silent.
 
 “It isn’t half a year or a year. It’s only fifteen days. I’m asking you to live together just until the pavilion is finished. Was that such a difficult request?”
 
-Jin Mukyung flinched. As the one responsible for demolishing the pavilion, he couldn’t help feeling guilty.
+Jin Mukyung flinched. As the one who had demolished the pavilion, he had every reason to feel guilty.
 
-“That was because that brat was being rude…”
+“That was because that guy was being rude…”
 
 “And that gives you the right to demolish a pavilion and beat up your little brother? You call that an excuse?”
 
@@ -338,23 +342,23 @@ This time, the arrow turned toward me.
 
 I wanted to whip out my ID card, but I held myself back.
 
-This body was only twenty now, and Jin Mukyung was my blood brother, three years older than me.
+This body was only twenty, and Jin Mukyung was my blood brother, three years older than me.
 
 “Answer!”
 
 “……I’m sorry.”
 
-Jin Wikyung glared sternly at both of us.
+Jin Wikyung glared at us with a stern expression.
 
-“This is a decision I reached after careful consideration. If you dislike each other that much, say so now. I’ll respect your wishes.”
+“This was a decision I reached after careful consideration. If you dislike each other that much, say so now. I’ll respect your wishes.”
 
 Jin Mukyung and I locked eyes in midair.
 
-Our answers burst out at the same time.
+Our answers came out at the same time.
 
-“I don’t want to.”
+“But I don’t want to.”
 
-“Nor do I.”
+“I don’t want to either.”
 
 “……”
 
@@ -362,7 +366,7 @@ After a heavy silence, Jin Wikyung finally managed to speak.
 
 “I’m glad you two are willing to follow your big brother’s wishes.”
 
-*Why ask when he’d already decided on the answer?*
+*Was that even a question? He’d already decided on the answer.*
 
 [^1]: Go-stop is a Korean card game commonly played with hwatu cards.
 
