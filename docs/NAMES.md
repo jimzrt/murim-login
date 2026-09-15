@@ -522,3 +522,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 탄지공 | **finger-flicking technique** | Head Elder's internal-energy technique, used as a comparison for the stone projectiles. |
 | 천마 | **Heavenly Demon** | Demonic title used in Jeok Cheongang's impossible comparison. |
 | 천룡 | **Heavenly Dragon** | The ideal form Jeok Cheongang wishes Taekyung to become. |
+| 화령초 | **Fire Spirit Grass** | Scorching Yang Qi elixir consumed by Taekyung. |
+| 홍화초 | **Red Flower Grass** | Scorching Yang Qi elixir consumed by Taekyung. |
+| 염적초 | **Flame Red Grass** | Scorching Yang Qi elixir consumed by Taekyung. |
+| 설삼 | **snow ginseng** | Elixir compared with the chapter's three selected roots. |
+| 혈도 타통 | **Acupoint Opening** | System Quest created when Taekyung consumes the three elixirs. |
