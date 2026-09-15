@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "Something firm and hot had seized his wrist as he tried to unleash his second form.\n\nHis hand clamped down.",
+      "defect": "The second sentence makes “His hand” appear to refer to Song Il, obscuring that the unseen attacker has seized and tightened his grip on Song Il’s wrist.",
+      "id": "C01",
+      "rationale": "This preserves the concealed arrival while making the physical action and ownership of the gripping hand unambiguous.",
+      "replacement": "A firm, hot hand seized his wrist as he tried to unleash his second form.\n\nIts grip tightened.",
+      "severity": "minor",
+      "source": "Chapter 192, Jeok Cheongang’s arrival"
+    },
+    {
+      "confidence": 0.98,
+      "current": "# Chapter 193\n\n## The Fire Gate Clan’s Sacred Treasure\n\nThe moment that unfamiliar phrase sprang from the Fire King’s mouth, the Roaring Fury Swordsman’s eyes bulged as though they were about to tear apart.",
+      "defect": "This chapter alone introduces an additional subtitle-style heading, creating an unexplained formatting difference from the surrounding reading copies.",
+      "id": "C02",
+      "rationale": "Removing the redundant subtitle restores the established chapter-opening format without changing the prose.",
+      "replacement": "# Chapter 193\n\nThe moment that unfamiliar phrase sprang from the Fire King’s mouth, the Roaring Fury Swordsman’s eyes bulged as though they were about to tear apart.",
+      "severity": "minor",
+      "source": "Chapter 193, opening"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Gong Ilhyuk provoked the confrontation and was rendered unconscious by Song Il along with the other two members of the Three Hands.",
+      "defect": "This attributes the Three Hands’ loss of consciousness to Song Il, but Chapter 193 establishes that Jeok Cheongang incapacitated all three before confronting Song privately.",
+      "id": "C03",
+      "rationale": "The correction preserves who caused the confrontation while accurately recording Jeok’s deliberate removal of its witnesses.",
+      "replacement": "Gong Ilhyuk provoked the confrontation; Jeok Cheongang rendered him and the other two members of the Three Hands unconscious before confronting Song Il in private.",
+      "severity": "major",
+      "source": "Checkpoint summary, Continuity"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Gong Ilhyuk incited Song Il to confront the Jin Family and was rendered unconscious by Song Il along with the other two members of the Three Hands.",
+      "defect": "The active state incorrectly says Song Il rendered all three Zhongnan Disciples unconscious, contradicting Chapter 193, where Song is confused by their sudden collapse and Jeok Cheongang reveals himself immediately afterward.",
+      "id": "C04",
+      "rationale": "Accurate attribution is necessary for later continuity involving what the Three Hands witnessed and what Song Il did to Gong Ilhyuk.",
+      "replacement": "Gong Ilhyuk incited Song Il to confront the Jin Family; Jeok Cheongang rendered him and the other two members of the Three Hands unconscious before confronting Song Il in private.",
+      "severity": "major",
+      "source": "Durable state, active_continuity entry concerning Gong Ilhyuk"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Taekyung defeated Chulwoo, completed *There Is a Man Who Loved You So Much*, won the Jin Family tournament event, and reached Level 73. His Strength is above 300, and he has seventy allocated stat points.",
+      "defect": "The continuity entry records Taekyung’s Strength threshold but drops the equally explicit confirmation in Chapter 190 that his Agility has also exceeded 300.",
+      "id": "C05",
+      "rationale": "Agility above 300 is the quantified basis for the exceptional speed that decides the duel and should be retained alongside Strength.",
+      "replacement": "Taekyung defeated Chulwoo, completed *There Is a Man Who Loved You So Much*, won the Jin Family tournament event, and reached Level 73. His Strength and Agility are above 300, and he has seventy allocated stat points.",
+      "severity": "minor",
+      "source": "Checkpoint summary, Continuity"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Taekyung is a Peak Master with Sound Transmission access, current Strength above 300, Level 73, and seventy allocated stat points; he completed the duel Quest and won the Jin Family tournament event.",
+      "defect": "The active state omits Taekyung’s confirmed Agility above 300 despite preserving his Strength threshold from the same sequence.",
+      "id": "C06",
+      "rationale": "Retaining both confirmed thresholds prevents the speed-defining stat from being lost in subsequent continuity updates.",
+      "replacement": "Taekyung is a Peak Master with Sound Transmission access, current Strength and Agility above 300, Level 73, and seventy allocated stat points; he completed the duel Quest and won the Jin Family tournament event.",
+      "severity": "minor",
+      "source": "Durable state, active_continuity entry concerning Taekyung"
+    }
+  ],
+  "summary": "The reading copies retain a consistent action-comedy voice and established terminology. Two continuity entries incorrectly attribute the Three Hands of Zhongnan’s loss of consciousness to Song Il rather than Jeok Cheongang; Chapter 192 also has one unclear action antecedent, Chapter 193 has an anomalous extra heading, and the state omits Taekyung’s confirmed Agility above 300.",
+  "version": 1
+}
