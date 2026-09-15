@@ -138,3 +138,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 박형진 | **Park Hyungjin** | One of the C-rank Sangdong Guild watchers. |
 | 오규현 | **Oh Gyuhyeon** | One of the C-rank Sangdong Guild watchers. |
 | 이민철 | **Lee Mincheol** | One of the C-rank Sangdong Guild watchers. |
+| 교관 | **Instructor** | Kim Hwajong's former Hunter Training Center role and address. |
+| 헌터 훈련소 | **Hunter Training Center** | Training institution where Kim Hwajong served as an instructor. |
+| 1번 훈련생 | **Trainee Number One** | Im Chunsoo's training call sign during his forced military identification. |
+| 28연대 1대대 2중대 | **28th Regiment, First Battalion, Second Company** | Military unit designation shouted during Im Chunsoo's identification. |
