@@ -1,16 +1,16 @@
 # Translation State
 
-- Last completed: 207
-- Next chapter: 208
-- Current block: 205–209 (3/5)
-- Latest translation: `translations/0207.md`
-- Latest summary: `summaries/beats/0207.md`
-- Safe profiles through: chapter 207
+- Last completed: 208
+- Next chapter: 209
+- Current block: 205–209 (4/5)
+- Latest translation: `translations/0208.md`
+- Latest summary: `summaries/beats/0208.md`
+- Safe profiles through: chapter 208
 
 ## Current Block
 
-- An unidentified black sphere crashes toward a taxi on a congested morning commute, but Jin Taekyung rescues the driver, Mr. Park, and orders him to flee and warn others that a Gate has opened. The Gate appears on the roadway and releases B-rank ogres while civilians abandon their cars and run. The System forcibly accepts Taekyung's Peak-Grade Gate Suppression Quest, requiring him to minimize casualties and eliminate the monsters.
-- At the tollgate, B-rank Hunter Hwang Cheol Soo's team of two B-rank and fifteen C-rank Hunters is quickly overwhelmed by the ogres. The Gate widens and increases the ogre force to ten, causing Hwang to consider a strategic retreat. Taekyung arrives, kills an ogre with a ranged spear attack, warns the Hunters not to steal his EXP, and kills another ogre at close range with a dagger while receiving System notifications for defeating Lv.84 and Lv.83 ogres.
+- Jin Taekyung effortlessly slaughtered the Gate's continuing stream of B-rank ogres after opening his Conception and Governor Vessels, defeating more than ten ogres including a Lv.85 Ogre and gaining a Level. When a military support team arrived by helicopter and tried to claim the remaining ogres, Taekyung deflected their attacks and insisted on professional courtesy before harvesting the ogres' meat and other usable parts himself.
+- At the tollgate, Captain Yoo Sijin and Team Leader Jeong assessed four deaths and five severe injuries. They noted that an F-rank Gate near Yangju City an hour earlier had caused even greater casualties, while the government was downplaying and concealing the incident. Reporter Kim arrived to cover the unknown civilian hero, assumed Taekyung was an A-rank Hunter, and learned that Taekyung was officially C-rank; Taekyung then realized he was late for work at his Guild.
 
 ## Open Questions
 
@@ -21,6 +21,7 @@
 - Will Taekyung attend the Star-Array Grand Banquet, and what exactly was the answer that changed the three men's expressions?
 - What are the Reward and Failure conditions of the Gate Suppression Quest?
 - How will the Gate near Hwang Cheol Soo's tollgate ultimately be contained, and what further monsters may emerge?
+- Will Reporter Kim's coverage expose Taekyung's identity and C-rank status publicly?
 
 ## Exceptional Decision
 
@@ -31,6 +32,7 @@
 - Render 노야 as “Old Master” when Taekyung addresses Jeok Cheongang privately.
 - Render 고시원 as “goshiwon” and 오피스텔 as “officetel.”
 - Render 오우거 as “ogre” and 게이트 진압 as “Gate Suppression.”
+- Render 상도의 as “professional courtesy.”
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
