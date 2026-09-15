@@ -858,7 +858,9 @@ def durable_files(number: int, update: dict) -> dict[Path, str]:
                 f"new address pair has no source endpoint: {speaker} -> {addressee}"
             )
         key = (speaker, addressee)
-        if key in seen_pairs or key in known_pairs:
+        if key in known_pairs:
+            continue
+        if key in seen_pairs:
             raise ValueError(f"duplicate address pair: {speaker} -> {addressee}")
         seen_pairs.add(key)
         address_text += "\n" + format_address_row(row)
