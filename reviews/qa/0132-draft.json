@@ -1,0 +1,47 @@
+{
+  "chapter": 132,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.234,
+    "source_characters": 5893,
+    "source_paragraphs": 199,
+    "translation_characters": 13163,
+    "translation_paragraphs": 200
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "살기",
+        "preferred": "killing intent"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "후기지수",
+        "preferred": "young prodigy / rising martial artist"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "메구미",
+        "romanization": "megumi"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "푸하하하",
+        "romanization": "puhahaha"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
