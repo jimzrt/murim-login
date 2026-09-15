@@ -1,0 +1,196 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "That’s the Volcano Gate Clan for you. Ruthless.",
+      "defect": "The established organization name changes from Fire Gate Clan to the nonexistent Volcano Gate Clan.",
+      "id": "C01",
+      "rationale": "Fire Gate Clan is the binding rendering of 열화문 and is used throughout the packet.",
+      "replacement": "That’s the Fire Gate Clan for you. Ruthless.",
+      "severity": "major",
+      "source": "Chapter 195, Taekyung's reflection after Jeok Cheongang names his Master"
+    },
+    {
+      "confidence": 0.98,
+      "current": "He already operated several textile shops, but Taiyuan was his largest main branch—and the symbolic shop passed down to him from his grandfather.",
+      "defect": "“Largest main branch” is redundant and makes Taiyuan sound like the branch rather than the location of the shop.",
+      "id": "C02",
+      "rationale": "The revision preserves every fact while making the sentence natural and unambiguous.",
+      "replacement": "He already operated several textile shops, but the Taiyuan shop was his largest branch—and the symbolic shop passed down to him from his grandfather.",
+      "severity": "minor",
+      "source": "Chapter 196, textile merchant's reaction to the emptied shop"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“…Yikes.”",
+      "defect": "This line uses a three-dot ellipsis instead of the required ellipsis character.",
+      "id": "C03",
+      "rationale": "The packet's binding Markdown rules require the single-character ellipsis.",
+      "replacement": "“...Yikes.”",
+      "severity": "minor",
+      "source": "Chapter 197, first condition for cleansing"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“...Painful enough to kill me?”",
+      "defect": "This line uses a three-dot ellipsis instead of the required ellipsis character.",
+      "id": "C04",
+      "rationale": "The packet's binding Markdown rules require the single-character ellipsis.",
+      "replacement": "“…Painful enough to kill me?”",
+      "severity": "minor",
+      "source": "Chapter 197, discussion of the procedure's pain"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“In the Sichuan Tang Clan, they fill a jar with more than a thousand different poisons and then...”",
+      "defect": "This line uses a three-dot ellipsis instead of the required ellipsis character.",
+      "id": "C05",
+      "rationale": "The packet's binding Markdown rules require the single-character ellipsis.",
+      "replacement": "“In the Sichuan Tang Clan, they fill a jar with more than a thousand different poisons and then…”",
+      "severity": "minor",
+      "source": "Chapter 197, Jeok Cheongang describing the Sichuan Tang Clan's method"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Do you perhaps stack up more than a thousand logs, climb on top, and set them on fire...?”",
+      "defect": "This line uses a three-dot ellipsis instead of the required ellipsis character.",
+      "id": "C06",
+      "rationale": "The packet's binding Markdown rules require the single-character ellipsis.",
+      "replacement": "“Do you perhaps stack up more than a thousand logs, climb on top, and set them on fire…?”",
+      "severity": "minor",
+      "source": "Chapter 197, Taekyung guessing the Fire Gate Clan's method"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“...”",
+      "defect": "This standalone pause uses three periods instead of the required ellipsis character.",
+      "id": "C07",
+      "rationale": "The packet's binding Markdown rules require the single-character ellipsis.",
+      "replacement": "“…”",
+      "severity": "minor",
+      "source": "Chapter 197, Jeok Cheongang's silent response to Taekyung's guess"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“This is...”",
+      "defect": "This line uses a three-dot ellipsis instead of the required ellipsis character.",
+      "id": "C08",
+      "rationale": "The packet's binding Markdown rules require the single-character ellipsis.",
+      "replacement": "“This is…”",
+      "severity": "minor",
+      "source": "Chapter 197, Jeok Cheongang examining Taekyung"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“...?”",
+      "defect": "This reaction uses three periods instead of the required ellipsis character.",
+      "id": "C09",
+      "rationale": "The packet's binding Markdown rules require the single-character ellipsis.",
+      "replacement": "“…?”",
+      "severity": "minor",
+      "source": "Chapter 197, Jeok Cheongang reacting to Taekyung's suggestive remark"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“...!”",
+      "defect": "This reaction uses three periods instead of the required ellipsis character.",
+      "id": "C10",
+      "rationale": "The packet's binding Markdown rules require the single-character ellipsis.",
+      "replacement": "“…!”",
+      "severity": "minor",
+      "source": "Chapter 197, Jeok Cheongang reacting to the black-anaconda comparison"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Oh...”",
+      "defect": "This line uses a three-dot ellipsis instead of the required ellipsis character.",
+      "id": "C11",
+      "rationale": "The packet's binding Markdown rules require the single-character ellipsis.",
+      "replacement": "“Oh…”",
+      "severity": "minor",
+      "source": "Chapter 197, Taekyung reading the completed-treatment notices"
+    },
+    {
+      "confidence": 1.0,
+      "current": "But...",
+      "defect": "This narrative pause uses three periods instead of the required ellipsis character.",
+      "id": "C12",
+      "rationale": "The packet's binding Markdown rules require the single-character ellipsis.",
+      "replacement": "But…",
+      "severity": "minor",
+      "source": "Chapter 197, Taekyung's disappointment with the treatment"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“...You’re making that sound strange.”",
+      "defect": "This line uses a three-dot ellipsis instead of the required ellipsis character.",
+      "id": "C13",
+      "rationale": "The packet's binding Markdown rules require the single-character ellipsis.",
+      "replacement": "“…You’re making that sound strange.”",
+      "severity": "minor",
+      "source": "Chapter 197, Taekyung responding to Hyuk Mujin"
+    },
+    {
+      "confidence": 1.0,
+      "current": "*...What is this fellow?*",
+      "defect": "This direct thought uses a three-dot ellipsis instead of the required ellipsis character.",
+      "id": "C14",
+      "rationale": "The packet's binding Markdown rules require the single-character ellipsis.",
+      "replacement": "*…What is this fellow?*",
+      "severity": "minor",
+      "source": "Chapter 197, Jeok Cheongang assessing Taekyung's physique"
+    },
+    {
+      "confidence": 1.0,
+      "current": "*Could it be...*",
+      "defect": "This direct thought uses a three-dot ellipsis instead of the required ellipsis character.",
+      "id": "C15",
+      "rationale": "The packet's binding Markdown rules require the single-character ellipsis.",
+      "replacement": "*Could it be…*",
+      "severity": "minor",
+      "source": "Chapter 197, Jeok Cheongang considering the Heavenly Martial Physique"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“What if... I taught that boy?”",
+      "defect": "This line uses a three-dot ellipsis instead of the required ellipsis character.",
+      "id": "C16",
+      "rationale": "The packet's binding Markdown rules require the single-character ellipsis.",
+      "replacement": "“What if… I taught that boy?”",
+      "severity": "minor",
+      "source": "Chapter 197, Jeok Cheongang considering teaching Taekyung"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Is there perhaps something making you uncomfortable...?”",
+      "defect": "This line uses a three-dot ellipsis instead of the required ellipsis character.",
+      "id": "C17",
+      "rationale": "The packet's binding Markdown rules require the single-character ellipsis.",
+      "replacement": "“Is there perhaps something making you uncomfortable…?”",
+      "severity": "minor",
+      "source": "Chapter 197, Jin Wikyung approaching Jeok Cheongang"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“...Great Hero Jeok?”",
+      "defect": "This line uses a three-dot ellipsis instead of the required ellipsis character.",
+      "id": "C18",
+      "rationale": "The packet's binding Markdown rules require the single-character ellipsis.",
+      "replacement": "“…Great Hero Jeok?”",
+      "severity": "minor",
+      "source": "Chapter 197, Jin Wikyung pointing out where Jeok Cheongang is standing"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Jin Taekyung answered with a smile.",
+      "defect": "The speaker is misidentified. The office scene contains Jeok Cheongang and Jin Wikyung; Jin Taekyung is elsewhere and does not enter until the next scene.",
+      "id": "C19",
+      "rationale": "Correcting the name restores the scene's participant continuity and prevents an impossible unannounced appearance by Taekyung.",
+      "replacement": "Jin Wikyung answered with a smile.",
+      "severity": "major",
+      "source": "Chapter 198, office conversation after Jeok Cheongang asks for more liquor"
+    }
+  ],
+  "summary": "The packet is coherent and preserves its major hooks without apparent spoilers. Two major continuity/terminology errors are actionable: the Fire Gate Clan is misnamed once, and Jin Wikyung is mistakenly identified as Jin Taekyung. Chapter 197 also contains a systematic formatting drift to three-dot ellipses, and Chapter 196 has one awkwardly redundant phrase.",
+  "version": 1
+}
