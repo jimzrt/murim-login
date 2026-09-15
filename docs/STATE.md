@@ -1,33 +1,35 @@
 # Translation State
 
-- Last completed: 180
-- Next chapter: 181
-- Current block: 180–184 (1/5)
-- Latest translation: `translations/0180.md`
-- Latest summary: `summaries/beats/0180.md`
-- Safe profiles through: chapter 180
+- Last completed: 181
+- Next chapter: 182
+- Current block: 180–184 (2/5)
+- Latest translation: `translations/0181.md`
+- Latest summary: `summaries/beats/0181.md`
+- Safe profiles through: chapter 181
 
 ## Current Block
 
-- On New Year's Day, Jin Wikyung, Wolhwa, and Wipeng finalized a mutually beneficial alliance after a long negotiation. The Jin Family received a congratulatory letter from Huashan's Sect Leader, expected the Three Plum Blossom Elites and Prince Shangshan, and privately suspected that Sword Saint Mae Jonghak had annihilated the Heavenly Wind Band, though Wikyung concealed that suspicion from Wolhwa.
-- Wipeng rebuked the absent Jin Taekyung for leaving to have a weapon forged and cutting off communication, while accepting Jin Mukyung's seclusion training as understandable. Jin Wikyung led fifty First Rate martial artists from the family compound, their numbers swelling to three hundred, then opened the gates to begin the three-day grand banquet and announce the Jin Family's rise as Shanxi Murim's hegemon.
-- The Jin Family's gates drew hundreds of martial artists, merchants, and commoners, along with the heads of the Five Gates of Shanxi. Woo Hwangtae, chief of the Seongun Escort Bureau, had been denied an audience for five days while seeking to address Woo Jintae's humiliation and apology. His anger erupted when a huge Huashan junior accidentally knocked a pill from his hand and insulted him, but Baek Museong intervened before the conflict could become violent.
+- Baek Museong intervenes when Woo Hwangtae threatens violence, and his Sound Transmission stops Chulwoo from attacking. Chulwoo and Baek then search the crowded approach to the Jin Family for Eunhyang, with Chulwoo provoking the crowd into revealing her location. The Huashan group finally encounters Jin Wikyung at the Jin Family gates.
+- Jin Taekyung, Hyuk Mujin, and Cheongpung hurry back to Taiyuan after three days away. Taekyung carries Jeok Cheongang’s Unnamed Sword because he cannot risk storing it in his inventory while traveling with others. Cheongpung speculates that Jeok may want to take Taekyung as his Disciple, but Taekyung and Mujin dismiss the idea. They reach the Jin Family of Taiyuan around noon.
 
 ## Open Questions
 
 - Who annihilated the Heavenly Wind Band near Datong?
-- What consequences will follow Taekyung's absence from the Jin Family's grand banquet?
-- When will Jang Taebo complete Taekyung's weapon?
+- What consequences will follow Taekyung’s absence from the Jin Family’s grand banquet?
+- When will Jang Taebo complete Taekyung’s weapon?
 - Who has the Treasured Jade, or was it lost by Jopil?
+- Does Jeok Cheongang actually intend to take Taekyung as his Disciple?
 
 ## Exceptional Decision
 
-- Render 원단 as “New Year's Day.”
+- Render 원단 as “New Year’s Day.”
 - Retain 천풍단 as “Heavenly Wind Band.”
 - Retain 천검진인 as “Heavenly Sword True Person.”
 - Retain 매화삼절 as “Three Plum Blossom Elites.”
 - Render 수문각 as “Gate Guard Pavilion.”
 - Render 장주 as “Lord.”
+- Render 패화권 as “Defeated Flower Fist.”
+- Render 산서기협 as “Shanxi Extraordinary Hero,” distinct from 산서괴협.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

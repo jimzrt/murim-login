@@ -464,3 +464,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 수문각 | **Gate Guard Pavilion** | Jin Family gate complex at the main entrance. |
 | 수문위사 | **gate guard** | Jin Family guard stationed at the gate. |
 | 장주 | **Lord** | Title used for one of the Five Gates heads, as in 태 장주. |
+| 패화권 | **Defeated Flower Fist** | Chulwoo’s epithet. |
+| 산서기협 | **Shanxi Extraordinary Hero** | Epithet mentioned among the Jin Family’s known figures; distinct source spelling from 산서괴협. |
+| 소림사 | **Shaolin Temple** | Temple invoked in Chulwoo’s comparison of Baek Museong’s conduct. |
