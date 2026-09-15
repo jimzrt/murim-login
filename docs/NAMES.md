@@ -134,3 +134,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 고양시 | **Goyang** | City where the target previously visited a real-estate office. |
 | 보안팀 | **Security Team** | Sangdong Guild’s surveillance and protection unit. |
 | 보안팀장 | **Security Team Leader** | Unnamed leader coordinating the operation. |
+| 최병일 | **Choi Byungil** | B-rank Security Team leader; his Level is in the mid-sixties. |
+| 박형진 | **Park Hyungjin** | One of the C-rank Sangdong Guild watchers. |
+| 오규현 | **Oh Gyuhyeon** | One of the C-rank Sangdong Guild watchers. |
+| 이민철 | **Lee Mincheol** | One of the C-rank Sangdong Guild watchers. |

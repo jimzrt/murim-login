@@ -1,29 +1,25 @@
 # Translation State
 
-- Last completed: 98
-- Next chapter: 99
-- Current block: 95–99 (4/5)
-- Latest translation: `translations/0098.md`
-- Latest summary: `summaries/beats/0098.md`
-- Safe profiles through: chapter 98
+- Last completed: 99
+- Next chapter: 100
+- Current block: 95–99 (5/5)
+- Latest translation: `translations/0099.md`
+- Latest summary: `summaries/beats/0099.md`
+- Safe profiles through: chapter 99
 
 ## Current Block
 
-- Hong Woojin infiltrates Jin Taekyung’s home in the form of a kitten Familiar, but Jin Hayeon’s intense fondness for cats leaves him trapped in her room for more than a day and a half. After his attempts to escape and disrupt her studying fail, he soils her duvet and himself to force her to take him outside.
-- Jin Taekyung returns home while Hayeon is carrying the filthy kitten, and he and Hong Woojin recognize each other. Hayeon washes Yeoreum and later leaves for the library, while Taekyung privately reflects on his mother’s recent unexplained outings.
-- With the house empty, Taekyung circles the apartment complex while carrying a Familiar and checks the parking lot, finding no suspicious vehicles. He concludes that the watchers are hiding in one of the recently traded apartments: Building 5, Unit 901; Building 4, Unit 302; or Building 3, Unit 202.
-- Taekyung draws all the curtains, searches the house with mana-detection Equipment, confirms that no mana is present inside, and calls someone. Kim Junsu reports the suspicious call to the Security Team, quoting statements about a plan, Sangdong Guild not noticing anything, and an item in Taekyung’s possession. The team concludes that Taekyung has a USB and treats the development as a major breakthrough.
+- After learning that Jin Taekyung appeared to possess a USB containing valuable intelligence, the Security Team Leader and Kim Gwondong decide to seize it by force. Despite knowing the operation would make them criminals if discovered, they proceed under the Guild Master's special orders, driven by hopes of promotion.
+- Taekyung realizes the watchers have taken his bait when the two kitten Familiars are released. He leads them to a deserted mountain clearing, where he exposes their surveillance, reveals that the USB contains his porn collection rather than sensitive information, and confirms that they were sent by Sangdong Guild.
+- Hong Woojin observes six Sangdong Guild watchers leaving the apartment after Taekyung and quits the assignment when he realizes they intend to use violence. In the clearing, Choi Byungil orders the attack; Taekyung identifies the participants and shatters the first attacker's dagger with an equipped blade, beginning the confrontation.
 
 ## Open Questions
 
-- Why did Sangdong Guild's Guild Master issue a special warning about Taekyung?
-- Who commissioned the surveillance operation and who is directing it?
+- Why did Im Chunsoo issue a special warning about Taekyung?
 - Which of the three recently traded properties is being used by the surveillance personnel?
 - Whether the black Familiar and Kim Gwondong are operating under the same immediate instructions remains unresolved.
 - Whether the Security Team's operation and Hong Woojin's investigation share the same commissioning chain remains unresolved.
-- Whether the surveillance team has identified Taekyung's deliberate deception remains unresolved.
 - Who Taekyung called remains unknown.
-- Whether Taekyung actually possesses a USB remains unknown.
 
 ## Exceptional Decision
 
