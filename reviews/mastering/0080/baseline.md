@@ -8,27 +8,27 @@ A young man in gleaming armor scowled.
 
 The public official in charge of the B-rank Gate *The Minotaur’s Labyrinth* looked troubled.
 
-“I already told you. Because of the fatal accident last week…”
+“I already told you. Because of the fatal accident last week……”
 
-“You think I don’t know that? I’m asking why you’re being so uptight with someone you know.”
+“You think I don’t know that? What I’m saying is, why are you being so uptight with someone you know?”
 
 “It’s a safety-inspection period. If you’re short on personnel, I can’t exactly approve your entry.”
 
 The official was at his wit’s end.
 
-Any Gate where a fatal accident occurred was subjected to a week of safety inspections. The required number or level of personnel was raised to prevent another accident. But the young man in front of him refused to listen.
+Any Gate where a fatal accident occurred was subjected to a week of safety inspections. In other words, they raised the required number or level of personnel to prevent another accident. But the young man in front of him was being completely unreasonable.
 
 “I put in a little extra this time. Good enough?”
 
 “What is this!”
 
-The official jumped at the white envelope the young man thrust toward him and glanced around in alarm. A recent hire was staring at him with wide, round eyes.
+The official jumped at the white envelope the young man thrust out and glanced around in alarm. A new employee who had joined the office recently was staring at him with wide, round eyes.
 
 “You—you can’t do this.”
 
 “Can’t do what? You’ve been taking it just fine until now.”
 
-“…”
+“……”
 
 “Being in charge of a Gate is supposed to have perks like this, right?”
 
@@ -36,7 +36,7 @@ At the young man’s blatant remark, the middle-aged official’s face flushed r
 
 Still, the milk had already been spilled. His conscience grew thinner in proportion to the thickness of the white envelope.
 
-“So… what’s your current team composition?”
+“So……how is your team composed at the moment?”
 
 “Ten, including me.”
 
@@ -50,21 +50,21 @@ Of course there was. The Bucheon Terminal Guild, which had been involved in last
 >
 > **Bucheon Terminal Guild Master to Cooperate Fully with Hunter Association Investigation**
 
-And now they were talking about going in with ten people. Just as the official was hesitating—
+And now they were talking about ten people. Just as the official was hesitating—
 
 “Hey, mister. Hold on.”
 
-The young man, who had been badgering him with a menacing scowl moments earlier, was now smiling.
+The young man’s menacing face had somehow acquired a smile.
 
 “The numbers have to be roughly right anyway, don’t they?”
 
-“Ah, yes. That would be good.”
+“Ah, yes. That works.”
 
 “Then let’s take those guys along. Make it look good.”
 
-The official followed the young man’s finger. A group of five had just entered the management office.
+The official followed the young man’s finger and turned his head. Five men and women had just entered the management office.
 
-*Two middle-aged men. Two young men. And…*
+*Two middle-aged men. Two young men. And……*
 
 One stunningly beautiful woman.
 
@@ -72,7 +72,7 @@ Judging by how the young man couldn’t take his eyes off her, his intentions we
 
 “Good enough now?”
 
-After quickly doing the math, the official picked up the envelope.
+After quickly finishing his calculations, the official picked up the envelope.
 
 “No problem.”
 
@@ -80,7 +80,7 @@ After quickly doing the math, the official picked up the envelope.
 
 The middle-aged official kindly explained the situation to us.
 
-It was currently a safety-inspection period, which meant quite a few Guilds were facing delays in entering Gates. With our current numbers, we would either have to hire mercenaries or join forces with another Guild.
+It was currently a safety-inspection period, which meant that quite a few Guilds were experiencing delays in entering Gates. He even explained that with our current numbers, we would either have to hire mercenaries or join up with another Guild.
 
 “You’re in luck. The people from Sangdong Guild are waiting, and they’re exactly five people short.”
 
@@ -102,15 +102,15 @@ His voice was smooth and easygoing, but his build was quite solid.
 
 Unmistakable confidence radiated from him as he strode over.
 
-*Someone from Sangdong Guild had every reason to be confident.*
+*Sangdong Guild was strong enough to justify it.*
 
-Sangdong Guild was one of the five leading mid-sized Guilds in the Bucheon area, with more than twenty B-rank Hunters alone.
+Sangdong Guild was one of the five leading mid-sized Guilds in the area around Bucheon, with more than twenty B-rank Hunters alone.
 
 He looked to be in his late twenties at most, yet he was already a Team Leader. That wasn’t a position one could luck into over a game of cards.[^1]
 
 *This guy’s no pushover.*
 
-The Qi Sense I activated a moment later turned my guess into certainty.
+The Qi Sense I activated soon afterward changed my guess into certainty.
 
 > **System**
 >
@@ -118,17 +118,17 @@ The Qi Sense I activated a moment later turned my guess into certainty.
 
 And yet, his name sounded familiar. Where had I heard it before?
 
-While I tilted my head, Butler Kim greeted him.
+While I was tilting my head, Butler Kim greeted him.
 
 “Hello. I’m Kim Hwajong of Peace Guild.”
 
-We called him Butler Kim, Uncle, Kim Hyung, and plenty of other things, and we knew he was only a figurehead Guild Master. But to an outsider, he obviously looked like the man in charge.
+We called him Butler Kim, Uncle, Kim Hyung, and plenty of other things, and we knew he was only a figurehead Guild Master. But from an outsider’s perspective, it was obvious at a glance that he was the person in charge.
 
 Im Changsoo answered with a bright smile.
 
-“Ah, Peace Guild. I’ve heard quite a lot about you.”
+“Ah, Peace Guild. I’ve heard the name quite a bit.”
 
-Im Kkeokjeong and Miss Song, who were standing nearby, whispered to each other.
+Im Kkeokjeong and Miss Song, who were standing beside him, whispered to each other.
 
 “Miss Song, how long has our Guild been around?”
 
@@ -136,23 +136,23 @@ Im Kkeokjeong and Miss Song, who were standing nearby, whispered to each other.
 
 “Raids? Have we done many?”
 
-“What are you talking about? We haven’t even started remodeling the Guild house yet. This is our first official raid.”
+“What are you talking about? We haven’t even started remodeling the Guild house. This is our first official raid.”
 
-“…”
+“……”
 
-A B-rank Hunter could hear everything, no matter how quietly someone spoke. Im Changsoo turned toward the two of them.
+A B-rank Hunter could hear everything, no matter how quietly someone spoke. Im Changsoo’s head turned toward the two of them.
 
-“And these people are?”
+“And who are these people?”
 
-“They’re members of our Guild.”
+“They’re Guild members.”
 
-His gaze passed over them—briefly over Im Kkeokjeong, then lingering a little longer on Miss Song.
+His gaze passed over the two of them—briefly over Im Kkeokjeong, then lingering a little longer on Miss Song.
 
 “I see. I said something unnecessary, haha.”
 
 “Not at all.”
 
-“In any case, this must be fate. Since we’re on the same team now, I look forward to working with you.”
+“In any case, it seems fate brought us together. Since we’re on the same team now, I look forward to working with you.”
 
 “All right, then. We’ll go change into our gear and be right back.”
 
@@ -160,29 +160,29 @@ His gaze passed over them—briefly over Im Kkeokjeong, then lingering a little 
 
 Team Leader Choi watched Im Changsoo’s back as he walked away, his gleaming chainmail clanking with every step. His face was serious.
 
-“That man…”
+“That man……”
 
 “Is there a problem?”
 
 “His equipment is limited edition. That stuff is incredibly hard to get.”
 
-“…”
+“……”
 
 Oh. Right. It did look expensive.
 
 * * *
 
-Hunters were the envy of society. Partly because they were the guardians who had protected humanity from the Great Cataclysm… but mainly because they made a lot of money.
+Hunters were an enviable profession. Partly because they were guardians who had protected humanity from the Great Cataclysm……but mainly because they made a lot of money.
 
 Even I made over 100 million won a year as a lowest-rank Hunter by working my ass off, so that said it all.
 
-*The problem was that we spent a lot, too.*
+*The problem was that they spent a lot, too.*
 
 The single biggest expense was equipment.
 
-Magic Gems went into equipment as a matter of course, so no matter how carefully you weighed cost against performance, you couldn’t avoid spending a fortune. Then there were the regular maintenance costs and repair bills whenever something broke.
+Magic Gems went into equipment as a matter of course, so no matter how carefully you considered cost-effectiveness, you couldn’t help but spend a fortune. On top of that, there were regular maintenance costs and repair fees whenever something broke.
 
-The heartbreak was one thing. Your bank balance got ripped apart too.
+The heartbreak was one thing. Your bank balance got ripped apart.
 
 *There was a reason equipment insurance existed.*
 
@@ -192,9 +192,9 @@ He loaned us high-end equipment for free.
 
 Rumble, rumble.
 
-Team Leader Choi entered the changing room, pulling a suitcase behind him, and called us over.
+Team Leader Choi came into the changing room pulling a suitcase and called us over.
 
-“I picked out some decent equipment suited to each of your positions. Take one set each.”
+“I picked out decent equipment suited to each of your positions. Take one set each.”
 
 It was a small suitcase, the sort you might use for a short trip. Im Kkeokjeong muttered in disappointment.
 
@@ -202,17 +202,17 @@ It was a small suitcase, the sort you might use for a short trip. Im Kkeokjeong 
 
 The corners of Team Leader Choi’s mouth curled up.
 
-“Of course there is. If you knew what this was, you’d be shocked…”
+“Of course there is. If you knew what this was, you’d be shocked……”
 
 “Oh, this is a suitcase with a space-expansion spell on it.”
 
-“…”
+“……”
 
-Nailed it.
+He had guessed it exactly.
 
 My accurate prediction briefly wiped the smile off Team Leader Choi’s face. But he quickly composed himself and continued.
 
-“That’s right. A space-expansion suitcase made by K Company. Nicholas, known as the greatest craftsman in North America…”
+“That’s right. A space-expansion suitcase made by K Company. Nicholas, known as the greatest craftsman in North America……”
 
 Clatter!
 
@@ -220,7 +220,7 @@ Clatter!
 
 “It is.”
 
-“World-renowned designers also participated…”
+“World-renowned designers also participated……”
 
 “Wow, I’ve never seen anything like this before. I could probably sleep in here.”
 
@@ -238,13 +238,13 @@ Click, click.
 
 “You look good too. What’s that?”
 
-“It says it’s a Black Drake Leather Set. I mean, it’s a leather set.”
+“It says it’s a Black Drake Leather Set? No, it’s a leather set.”
 
 “Really? If it’s Team Leader Choi’s, it must be good. Hahaha! Thanks, Team Leader Choi!”
 
-“…Don’t mention it.”
+“……Don’t mention it.”
 
-Team Leader Choi had completely lost the will to fight by then and changed into his equipment without another word. Meanwhile, I checked each piece of equipment I was wearing.
+Team Leader Choi had completely lost the will to fight by then and changed into his equipment without another word. I checked each piece of equipment I was wearing.
 
 *Item Check.*
 
@@ -258,7 +258,7 @@ Ding.
 >
 > **Type:** Armor  
 > **Grade:** Peak  
-> **Description:** An armor set made from the leather of the B-rank monster Black Drake. The work of a superb craftsman is evident.
+> **Description:** An armor set made from the leather of the B-rank monster Black Drake. You can feel the hand of a superb craftsman in it.
 >
 > **Effect:** Strength, Stamina, Agility, Toughness +10
 >
@@ -270,15 +270,15 @@ Ding.
 >
 > **Type:** Spear  
 > **Grade:** Peak  
-> **Description:** A spear made from the spine of the B-rank monster Black Drake. It is both extremely hard and sharp. The work of a superb craftsman is evident.
+> **Description:** A spear made from the spine of the B-rank monster Black Drake. It is extremely hard and sharp. You can feel the hand of a superb craftsman in it.
 >
-> **Effect:** Bleeding has a 90% chance to activate upon hitting an enemy.
+> **Effect:** Upon hitting an enemy, Bleeding activates with a 90% chance.
 
 After checking them, I had exactly one thought.
 
 *This is insane.*
 
-An armor set that gave me forty points simply by wearing it, plus a spear that could make an enemy bleed to death with nearly every stab.
+An armor set that gave me forty points simply by wearing it, plus a spear that could kill an enemy from massive blood loss with nearly every stab.
 
 The item information alone made it clear how incredible the effects were.
 
@@ -294,7 +294,7 @@ I had fought in soft scraps of cloth and broken dozens of cheap spears. The peop
 
 I turned my head and saw Im Kkeokjeong hopping up and down in place, his face flushed with excitement.
 
-“It’s incredibly light, and I feel faster too. Is it just my imagination?”
+“It’s incredibly light, and I feel like my body’s faster too. Is it just my imagination?”
 
 “I doubt it.”
 
@@ -312,21 +312,21 @@ Just as I was about to place my hand on the full plate armor Im Kkeokjeong was w
 
 At Team Leader Choi’s pointed correction, Butler Kim chuckled.
 
-“It’s fine. Besides… I’m always wearing my equipment.”
+“It’s fine. Besides……I’m always wearing my equipment.”
 
-As he spoke, he unbuttoned his suit jacket, revealing bracelets on both wrists and a necklace. They were no ordinary accessories, of course.
+As he spoke, he unbuttoned his suit jacket, revealing bracelets on both wrists and a necklace. They were not ordinary accessories, of course.
 
-The necklace was set with a Magic Gem, while the bracelets were engraved with strange yet beautiful patterns.
+The necklace was set with a Magic Gem, and the bracelets were etched with strange yet beautiful patterns.
 
 “An artifact?”
 
-“I find these more convenient than a staff.”
+“This is more convenient than a staff.”
 
-Butler Kim answered modestly, but it was rare to see a mage dressed so lightly. Most wore at least some light armor or carried a staff for self-defense to improve their chances of survival.
+Butler Kim answered modestly, but it was rare to see a mage dressed so lightly. Most carried at least some light armor or a staff for self-defense to improve their chances of survival.
 
-*Well, he's probably no ordinary mage.*
+*He’s probably not an ordinary mage.*
 
-Anyone from Ares Guild commanded respect.
+Everyone deferred to anyone who came out of Ares Guild.
 
 I suddenly found myself curious about Butler Kim’s past, but the question was wiped clean from my mind the next moment.
 
@@ -336,13 +336,13 @@ Knock, knock.
 
 “Ah, we’re ready.”
 
-It was Miss Song’s voice from outside the changing room. As soon as Team Leader Choi answered, the door eased open.
+It was Miss Song’s voice from outside the changing room. As soon as Team Leader Choi answered, the door opened a crack.
 
 “Hurry up. People will be waiting.”
 
 “Whoa.”
 
-Her long, straight hair was tied up tightly, and she was wearing light leather armor. I swallowed a startled breath at the sight of her.
+Her long, straight hair was tied tightly up, and she was wearing light leather armor. I swallowed a startled breath at the sight of her.
 
 *Can a person really be this beautiful?*
 
@@ -350,13 +350,13 @@ It wasn’t just love making me see her through rose-colored glasses. That was s
 
 Gulp.
 
-“…”
+“……”
 
 *I’d better keep an eye on this guy.*
 
-If even Im Kkeokjeong was reacting like this, the other guys would be no exception. Any young guy who seemed even moderately capable would come by the truckload to hit on her.
+If even Im Kkeokjeong was reacting like this, the other guys would be no exception. Any young man who seemed even moderately capable would come crawling out by the truckload to hit on her.
 
-*Take Im Changsoo, for example. Im Changsoo, say. Or maybe Im Changsoo…*
+*Take Im Changsoo, for example. Im Changsoo, say. Or maybe Im Changsoo……*
 
 Im Changsoo. The young Team Leader from Sangdong Guild.
 
@@ -364,7 +364,7 @@ His face had been hovering in my mind since earlier.
 
 *I was sure I’d never seen him before.*
 
-And yet… why was he bothering me so much? Was it because that punk seemed interested in Miss Song?
+And yet……why was he bothering me so much? Was it because that punk seemed interested in Miss Song?
 
 “What are you doing? Aren’t you coming out?”
 
