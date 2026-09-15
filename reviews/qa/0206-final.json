@@ -1,0 +1,47 @@
+{
+  "chapter": 206,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.333,
+    "source_characters": 6465,
+    "source_paragraphs": 218,
+    "translation_characters": 15081,
+    "translation_paragraphs": 220
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "깨달음",
+        "preferred": "enlightenment / insight"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "상태",
+        "preferred": "Status"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "대리",
+        "preferred": "Assistant Manager"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "장흥면",
+        "romanization": "jangheungmyeon"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}

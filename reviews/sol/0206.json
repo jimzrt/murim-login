@@ -1,0 +1,156 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "I had lived my entire life as an atheist, but that was no longer the case.",
+      "defect": "무교 means having no religion, not necessarily affirmatively believing that no god exists.",
+      "id": "F01",
+      "rationale": "The replacement preserves Taekyung’s lack of religious affiliation without adding an atheist belief.",
+      "replacement": "I had lived my entire life without religion, but that was no longer the case.",
+      "severity": "minor",
+      "source": "평생을 무교로 살았지만 이제는 아니다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Today, I wouldn’t have minded dying with my face in a bowl of ramen broth.",
+      "defect": "The draft changes the specific physical image from burying his nose in the broth to putting his face in a bowl.",
+      "id": "F02",
+      "rationale": "코를 박고 specifically depicts his nose buried in the ramen broth.",
+      "replacement": "Today, I wouldn’t have minded dying with my nose buried in ramen broth.",
+      "severity": "minor",
+      "source": "오늘만큼은 라면 국물에 코를 박고 죽어도 좋아."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Seasoning is the best.",
+      "defect": "The draft collapses two deliberately short comic beats and omits Taekyung’s explicit declaration that he likes seasoning.",
+      "id": "F03",
+      "rationale": "The source uses two clipped sentences whose repetition contributes to Taekyung’s giddy comic voice.",
+      "replacement": "I love seasoning. It’s the best.",
+      "severity": "minor",
+      "source": "조미료 좋아. 최고야."
+    },
+    {
+      "confidence": 0.95,
+      "current": "“Right? Mom and Hayeon are going to love it when they see how nice—”\n\nI stopped.",
+      "defect": "The draft adds an explicit stopping action and moves the interruption earlier than the source, which trails off only as Taekyung reaches the realization that they will see the house.",
+      "id": "F04",
+      "rationale": "The source completes the underlying thought but hesitates immediately before its final element, allowing the realization to land without an added action sentence.",
+      "replacement": "“Right? Mom and Hayeon are going to love it when they see… it.”",
+      "severity": "minor",
+      "source": "“그치? 나중에 엄마나 하연이가 보면 얼마나 좋아할……지.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "So that was why the moving company guy had been acting so flustered.",
+      "defect": "쩔쩔매다 here refers to the mover struggling with the unexpectedly heavy capsule, not merely acting emotionally flustered, so the draft weakens the mechanical clue caused by Jinho’s hidden weight.",
+      "id": "F05",
+      "rationale": "The sentence retrospectively explains the mover’s physical difficulty once Taekyung learns that Jinho was inside the capsule.",
+      "replacement": "No wonder the mover had struggled so much.",
+      "severity": "major",
+      "source": "어쩐지 이삿짐센터 아저씨가 쩔쩔매더라니."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“I’d known him for more than ten years. How was I supposed to know he’d do that over a few hundred thousand won?”\n\n“But those few hundred thousand won were your entire fortune, weren’t they?”",
+      "defect": "The amount is mistranslated by an order of magnitude. In this context 몇백 means several million won, consistent with the explicitly stated five-million-won deposit.",
+      "id": "F06",
+      "rationale": "Korean colloquially omits the 만원 unit here; the immediately preceding 보증금 오백 establishes a five-million-won deposit.",
+      "replacement": "“I’d known him for more than ten years. How was I supposed to know he’d do that over a few million won?”\n\n“But those few million won were your entire fortune, weren’t they?”",
+      "severity": "major",
+      "source": "“10년을 넘게 알았는데 그깟 돈 몇백 때문에 그럴 줄 알았겠냐.”\n\n“하지만 그깟 돈 몇백이 형 전 재산인 거 아냐?”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "*Was he from Jeju Island or something?*\n\nA top-tier sucker.\n\nThere was no sucker like him.",
+      "defect": "The draft retains the otherwise unexplained Jeju reference but removes the black-cow wordplay that makes it meaningful. 흑우 means both a black cow and, in slang, a gullible sucker, while Jeju is known for black cattle.",
+      "id": "F07",
+      "rationale": "The replacement preserves the Jeju setup, the 특A급 grading joke, the repeated 흑우 punchline, and its intended meaning for an English reader.",
+      "replacement": "*Was he from Jeju Island or something?*\n\nA premium-grade black cow.[^2]\n\nThere wasn’t a bigger black cow—a bigger sucker—anywhere.\n\n[^2]: “Black cow” is Korean slang for a sucker; Jeju is also known for its native black cattle.",
+      "severity": "major",
+      "source": "‘고향이 제주도인가.’\n\n특A급 흑우.\n\n흑우도 이런 흑우가 없다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "*We’ve been through too much together.*",
+      "defect": "The draft changes the emphasis from the long time they have spent together to the amount of hardship or experience they have endured.",
+      "id": "F08",
+      "rationale": "함께한 시간이 얼마인데 explicitly invokes the duration of their relationship.",
+      "replacement": "*After all the time we’d spent together.*",
+      "severity": "minor",
+      "source": "‘함께한 시간이 얼마인데.’"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Officially, at least in the modern world, I was a Grade C Hunter belonging to Hope Guild.",
+      "defect": "The Hunter classification uses Grade instead of the required rank terminology.",
+      "id": "F09",
+      "rationale": "The binding terminology reserves rank for Hunter classifications.",
+      "replacement": "Officially, at least in the modern world, I was a C-rank Hunter belonging to Hope Guild.",
+      "severity": "minor",
+      "source": "우선 현대에서의 공식적인 신분은 희망 길드 소속 C급 헌터다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "What’s the point of taking passengers until my ass falls off when land in a safe zone doesn’t come cheap?",
+      "defect": "The draft makes the source’s deliberately unspecified crude euphemism more graphic and uses the unnatural phrase “taking passengers.”",
+      "id": "F10",
+      "rationale": "This preserves the driver’s coarse but euphemistic register while using natural taxi-driver phrasing.",
+      "replacement": "What’s the point of working my butt off taking fares when safe-zone land costs a fortune?",
+      "severity": "minor",
+      "source": "뭐 빠지게 손님 받아 봤자 안전 구역 땅값이 한두 푼 하는 것도 아니고."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Was I a Hunter or a prophet?",
+      "defect": "The draft turns an explicit contrast—he is a Hunter, not a prophet—into an either-or question.",
+      "id": "F11",
+      "rationale": "The source asserts his actual role while rejecting the unreasonable expectation that he predict Gates.",
+      "replacement": "I was a Hunter, not a prophet.",
+      "severity": "minor",
+      "source": "내가 헌터지, 예언자냐?"
+    },
+    {
+      "confidence": 0.99,
+      "current": "A Grade F Gate has appeared in Uldae-ri, Jangheung-myeon, Yangju City, and an immediate evacuation order has been issued.",
+      "defect": "The ordinary-prose Gate classification uses Grade rather than rank.",
+      "id": "F12",
+      "rationale": "Outside System fields, the binding rules require ordinary classification prose to use rank.",
+      "replacement": "An F-rank Gate has appeared in Uldae-ri, Jangheung-myeon, Yangju City, and an immediate evacuation order has been issued.",
+      "severity": "minor",
+      "source": "양주시 장흥면 울대리에 F급 게이트가 출몰, 즉각 대피령이 발령되었습니다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The Grade F Gate that appeared earlier in Yangju City has stabilized.",
+      "defect": "The second broadcast repeats the incorrect Grade terminology for a Gate classification.",
+      "id": "F13",
+      "rationale": "This is ordinary broadcast prose rather than a System Grade field, so rank is the required rendering.",
+      "replacement": "The F-rank Gate that appeared earlier in Yangju City has stabilized.",
+      "severity": "minor",
+      "source": "앞서 전해 드린 양주시에 발생한 F급 게이트가 안정화되었습니다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "It had been crushed flat like a ball, but I could see it clearly.",
+      "defect": "“Crushed flat like a ball” is physically contradictory and changes the car from being crumpled into a ball-like mass to being flattened.",
+      "id": "F14",
+      "rationale": "공처럼 짜부라져 describes a mangled, ball-like shape rather than a flat object.",
+      "replacement": "Though it had been crumpled into a ball, I could see it clearly.",
+      "severity": "minor",
+      "source": "비록 공처럼 짜부라져 있지만 내 눈에는 똑똑히 보인다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Why here of all places?[^1]",
+      "defect": "The unrelated goshiwon footnote marker is repeated on the chapter’s final sentence.",
+      "id": "F15",
+      "rationale": "The source contains no note-worthy cultural reference here, and the existing footnote defines goshiwon rather than anything in this sentence.",
+      "replacement": "Why here of all places?",
+      "severity": "minor",
+      "source": "왜 하필 여기냐."
+    }
+  ],
+  "summary": "The draft is broadly faithful but contains one material quantity error, a weakened causal explanation, a lost Korean pun, and several localized action, register, terminology, and Markdown issues.",
+  "version": 1
+}

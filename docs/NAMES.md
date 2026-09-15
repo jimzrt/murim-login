@@ -530,3 +530,11 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 회음혈 | **Huiyin Acupoint** | Starting acupoint of the Conception Vessel; its location causes Taekyung particular danger during forced opening. |
 | 임맥 타통 | **Conception Vessel Opening** | System Achievement earned after Taekyung opens the Conception Vessel. |
 | 성라대연 | **Star-Array Grand Banquet** | Major martial gathering held in Henan every two or three years. |
+| 김종수 | **Kim Jong-su** | Jinho's college classmate who absconded with his housing deposit. |
+| 제주도 | **Jeju Island** | Referenced in Taekyung's joke about Jinho being a premium-grade sucker. |
+| 희망 길드 | **Hope Guild** | Guild to which Taekyung officially belongs; it provides him an officetel. |
+| 양주시 | **Yangju City** | Location of the reported F-rank Gate. |
+| 장흥면 | **Jangheung-myeon** | Administrative area containing Uldae-ri. |
+| 울대리 | **Uldae-ri** | Village where the reported F-rank Gate appeared. |
+| 노스트라다무스 | **Nostradamus** | Referenced as someone who could not predict Gate formation. |
+| 고블린 | **goblin** | Monster species reported at the F-rank Gate. |
