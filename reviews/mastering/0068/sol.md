@@ -1,12 +1,12 @@
 # Chapter 68
 
-In the end, Jin Wikyung was the winner. He kept pleading with moist, puppy-dog eyes, saying, “Just half a month. No, just ten days. Can’t you two live together?” until Jin Mukyung and I threw up our hands and surrendered.
+In the end, Jin Wikyung prevailed. He kept pleading with tearful puppy-dog eyes, saying, “Just half a month. No, just ten days. Can’t you two live together?” until Jin Mukyung and I threw up our hands in surrender.
 
 And that was how we ended up in this situation.
 
 After Jin Wikyung left, the underground training ground fell silent, leaving just the two of us.
 
-Jin Mukyung was the first to break the silence.
+Jin Mukyung was the first to speak.
 
 “I’ll tell you the rules.”
 
@@ -16,7 +16,7 @@ Jin Mukyung was the first to break the silence.
 
 “What if I refuse?”
 
-Jin Mukyung struck the steel training dummy standing beside him.
+Jin Mukyung struck the steel training dummy beside him.
 
 Boom! Crack!
 
@@ -38,7 +38,7 @@ This was how adults fought. Heh.
 
 Ah, I miss Mom.
 
-“Good. Second. You will live as quietly as a dead mouse. If you make enough noise to wake me up or interfere with my training…”
+“Good. Second. Keep absolutely quiet. If you make enough noise to wake me or interfere with my training…”
 
 Boom! Crack!
 
@@ -50,11 +50,11 @@ As the second steel dummy went flying, I nodded frantically.
 
 “You’re finally coming to your senses.”
 
-Jin Mukyung nodded with satisfaction and pointed toward the exit.
+Jin Mukyung nodded in satisfaction and pointed toward the exit.
 
 “Now leave. Your room is on the third floor.”
 
-As I hurried out of the underground training ground, his training shouts rang out behind me. Being treated like a piece of luggage made my competitive spirit flare. I turned around for a moment and made a vow.
+As I hurried out of the underground training ground, his training shouts rang out behind me. Being treated like a piece of luggage made my competitive spirit flare. I glanced back and made a vow.
 
 *Just you wait. I’ll catch up soon.*
 
@@ -78,13 +78,13 @@ We had only met the day before, but that had been enough for me to figure out hi
 
 What the hell? The more I thought about it, the more impressive the bastard seemed.
 
-He had a violent side, beating his own little brother like a dog for failing to use polite speech, but when I thought about it carefully, that had been self-defense.
+He did have a violent side, beating his own little brother like a dog for failing to use polite speech, but when I thought about it carefully, that had practically been self-defense.
 
 Put yourself in the other person’s shoes. Wasn’t that the foundation of human relationships?
 
 *If I had a little brother like this, I would’ve beaten him too—and then some.*
 
-His older brothers were working their asses off to rebuild the family, while the youngest was neglecting martial arts and going crazy over alcohol and women.
+His older brothers were working their asses off to rebuild the family, while the youngest neglected his martial arts and went crazy over booze and women.
 
 Jin Wikyung only let it slide because he was a saint. Reacting with his fists like Jin Mukyung did was perfectly normal.
 
@@ -96,17 +96,17 @@ Who knew? Maybe once he saw that his younger brother had turned over a new leaf,
 
 My eyes lit up.
 
-Unlike Jin Wikyung and Wipeng, whom I only occasionally saw because they were so busy, Jin Mukyung spent all day holed up in the training ground.
+Unlike Jin Wikyung and Wipeng, whom I rarely saw because they were so busy, Jin Mukyung spent all day holed up in the training ground.
 
-If I received one-on-one lessons from a Peak master during the ten days we lived together, wouldn’t my martial arts improve by leaps and bounds?
+If I received one-on-one instruction from a Peak master during the ten days we lived together, wouldn’t my martial arts improve by leaps and bounds?
 
-*More than now. Much more.*
+*More than they have already. Much more.*
 
-Greed suddenly raised its head from deep inside me.
+Greed suddenly raised its head from deep within me.
 
-No, this wasn’t greed. It was hunger—the hunger for everything I had never been able to possess.
+No, this wasn’t greed. It was hunger—a hunger for everything I had never possessed.
 
-Wealth and fame? I wanted them. But they were only a part of what I truly sought.
+Wealth and fame? I wanted them. But they were only a small part of what I truly sought.
 
 *I want to become stronger.*
 
@@ -116,17 +116,17 @@ I was still nowhere near strong enough to protect the people who mattered to me.
 
 The overwhelming difference in power.
 
-At my current level, I could barely protect my own life, let alone the people who mattered to me. I was nothing more than a frog that had only just poked its head out of a well.
+At my current level, I could barely protect my own life, let alone anyone else’s. I was nothing more than a frog that had only just poked its head out of the well.
 
 *I don’t know how long it’ll take, but I’ll catch up soon enough.*
 
 It had taken me only two months to rise from Third Rate to the upper reaches of First Rate, and from F-rank to C-rank. My current resolve was no idle boast.
 
-The war was over, and I had plenty of time now. I intended to raise my abilities as much as possible before logging out.
+The war was over, and now I had plenty of time. I intended to improve as much as possible before logging out.
 
 *Should I get myself measured again as soon as I return?*
 
-If my internal energy could support it, I could probably reach B-rank without much trouble.
+With enough internal energy to back me up, I could probably reach B-rank without much trouble.
 
 I was smiling contentedly as one happy thought led to another when—
 
@@ -134,7 +134,7 @@ I was smiling contentedly as one happy thought led to another when—
 
 What was it?
 
-I felt as though I had forgotten something important. As if I had overlooked something I absolutely could not afford to miss. It was the same sense of wrongness I had felt before meeting Jin Mukyung yesterday.
+I felt as though I had forgotten something important. Something I absolutely could not afford to overlook. It was the same sense of wrongness I had felt before meeting Jin Mukyung yesterday.
 
 It did not take long to realize what it was.
 
@@ -154,7 +154,7 @@ The instant I saw the System message, my vision swam. I knew exactly what that m
 
 The Logout Quest—the only way to travel between Murim and reality—was nowhere to be seen.
 
-I was staring blankly at the System message, unable to process this unexpected situation, when—
+I stared blankly at the System message, unable to process this unexpected turn of events, when—
 
 Ding.
 
@@ -170,7 +170,7 @@ A new window unfolded in midair with a clear chime.
 
 What was this?
 
-I hurriedly opened my Status Window, and sure enough, the word *Returnee* was sparkling brightly.
+I hurriedly opened my Status Window, and sure enough, the title *Returnee* was sparkling brightly.
 
 “Check Title.”
 
@@ -196,7 +196,7 @@ Fireworks exploded inside my head.
 
 Jin Mukyung breathed.
 
-He breathed through his nose, his mouth, and his wide-open body. The internal energy in his dantian mingled with the qi of heaven and earth flowing into him.
+He breathed through his nose and mouth, drawing breath through every pore of his open body. The internal energy in his dantian mingled with the qi of heaven and earth.
 
 Whoosh.
 
@@ -206,21 +206,21 @@ And he rejoiced.
 
 *This is it.*
 
-He had first picked up a sword at the age of five. It had been a wooden sword Jin Wikyung carved with clumsy hands. He had liked the rough texture, and he had liked the sound of wind scattering every time he swung it. From that day onward, he had never taken even a single day off from training.
+He had first picked up a sword at the age of five. It had been a wooden sword Jin Wikyung had carved with clumsy hands. He had liked its rough texture and the sound of the wind scattering with every swing. From that day onward, he had never taken a single day off from training.
 
 *He’s a genius. A true genius.*
 
 *That boy was simply born with it. Otherwise…*
 
-Some people had admired him. Others had envied him. Their intentions had been different, but they all said the same thing.
+Some people had admired him. Others had envied him. Their intentions might have differed, but they all said the same thing.
 
 A genius of martial arts. A born talent.
 
-Even while people chattered about him, Jin Mukyung remained shut away in the training ground, continuing his practice. To him, training was not painful. It was the process of becoming stronger, and it was a source of joy.
+Even as people talked, Jin Mukyung remained shut away in the training ground, continuing to practice. To him, training was not suffering. It was the process of becoming stronger, and that process brought him joy.
 
 Whoosh.
 
-What escaped with his breath was not only turbid qi. Jin Mukyung exhaled the distracting thoughts in his mind along with it.
+Turbid qi was not the only thing that left his body with his breath. Jin Mukyung exhaled the distracting thoughts in his mind along with it.
 
 From this point on, he had to focus solely on circulating his qi.
 
@@ -230,9 +230,9 @@ It was time to face the enemy he had fought every day for the past three years.
 
 The enemy known as the Conception and Governor Vessels.
 
-He had been forced to retreat every time until now, but Jin Mukyung had not yet given up. If he won just once, he could open the Conception and Governor Vessels and set foot in a new realm.
+He had been forced to retreat every time until now, but Jin Mukyung had yet to give up. If he could win just once, he would open the Conception and Governor Vessels and step into a new realm.
 
-*Let’s give it a try.*
+*Let’s do this.*
 
 Just as Jin Mukyung resolutely drew up his internal energy with all his might—
 
@@ -240,7 +240,7 @@ Just as Jin Mukyung resolutely drew up his internal energy with all his might—
 
 What was that? A Heart Demon?
 
-The howl was chilling enough to raise goose bumps just by hearing it. It sounded like a demon laughing in delight. Jin Mukyung hurriedly tried to calm his internal energy when the demon shouted again.
+The howl was chilling enough to raise goose bumps. It sounded like a demon laughing in delight. Jin Mukyung hurriedly tried to calm his internal energy, but then the demon shouted again.
 
 “Strip off your voice and scream your underwear! Hoooooowuuuuuuuu!”
 
@@ -248,9 +248,9 @@ It wasn’t a demon.
 
 Only one person could spout such bullshit from a pavilion that was off-limits.
 
-“Jin Taekyung, you fucking—urk!”
+“Jin Taekyung, I’ll fucking kill—urk!”
 
-His internal energy scattered in all directions as fury surged through him.
+His internal energy scattered as fury surged through him.
 
 * * *
 
@@ -282,7 +282,7 @@ The Sect Leader nearly smashed the steward’s head with his wooden pillow.
 
 *Ghost Sword Wipeng came here in person?*
 
-He was the right hand of the Lesser Family Head, Jin Wikyung, and one of the core masters of the Jin Family of Taiyuan.
+He was the right hand of the Lesser Family Head, Jin Wikyung, and one of the Jin Family of Taiyuan’s core masters.
 
 The thought of a Peak master who had distinguished himself in the recent war paying them a visit nearly scared the soul out of him.
 
@@ -296,9 +296,9 @@ Even as the Sect Leader rushed outside, a thousand thoughts raced through his mi
 
 Song Sword Sect was a small- to medium-sized sect in central Shanxi Province. It had fewer than fifty disciples, most of whom were only Second or Third Rate.
 
-They had received various forms of assistance because of their close relationship with the Jin Family of Taiyuan, but when war had actually broken out, they had quietly withdrawn.
+They had received all kinds of assistance thanks to their close relationship with the Jin Family of Taiyuan, yet when war had actually broken out, they had quietly withdrawn.
 
-Perhaps this visit was only to be expected.
+Perhaps tonight’s visit was only to be expected.
 
 *Even so, why did Ghost Sword come in person? And at this hour?*
 
@@ -310,7 +310,7 @@ Even he, the strongest martial artist in the sect, might not last three moves ag
 
 The gate guards, who had been whimpering like puppies desperate to poop, brightened at the sight of their leader.
 
-But the Sect Leader could not share their joy.
+But the Sect Leader could not share their relief.
 
 His face stiff, he politely clasped his hands toward the uninvited guests.
 
@@ -322,9 +322,9 @@ At the same time, the thirty uninvited guests in bamboo hats parted to either si
 
 He was young, just as the Sect Leader had heard, and ruder than expected.
 
-Song Sword Sect might have been an insignificant sect, but how could he treat its Sect Leader like that?
+Song Sword Sect might have been insignificant, but how could he treat the leader of a sect with such disrespect?
 
-Still, the Sect Leader did not dare show his displeasure. The rude young man was Ghost Sword, and behind him stood the name of the Jin Family of Taiyuan.
+Still, the Sect Leader did not dare show his displeasure. The rude young man was Ghost Sword, and behind him stood the Jin Family of Taiyuan.
 
 If this was the price of turning a blind eye to an ally’s crisis, then he was getting off cheap.
 
@@ -342,15 +342,15 @@ Wipeng nodded and handed him a sealed letter. The seal of the Jin Family of Taiy
 
 “An invitation. The Lesser Family Head requests that you visit our family on New Year’s Day.”
 
-The Sect Leader of Song Sword Sect had lived in Murim for many years. He immediately understood the hidden meaning.
+The Sect Leader of Song Sword Sect had spent many years in Murim. He immediately understood the hidden meaning.
 
 *What invitation?*
 
 This was both a summons and a warning.
 
-It was a warning that if they failed to answer the summons, they would be pushed out of the future course of Shanxi Murim.
+A warning that if they failed to answer the summons, they would be pushed aside by the future course of Shanxi Murim.
 
-New Year’s Day would be the day the victorious lord accepted new vassals.
+New Year’s Day would be when the victorious lord accepted new vassals.
 
 *The Jin Family of Taiyuan has drawn its sword.*
 
@@ -364,29 +364,29 @@ Wipeng politely clasped his hands. The abrupt change in his attitude made the Se
 
 “You must be tired from your journey. Rather than standing out here, why don’t you come inside and rest?”
 
-“Thank you for the kind offer, but I think we should be leaving. There is someone we need to catch.”
+“Thank you for the kind offer, but I’m afraid we must be going. There is someone we need to catch.”
 
-“The man Great Hero Wipeng is pursuing? He must be quite the villain.”
+“Someone pursued by Great Hero Wipeng? He must be quite the villain.”
 
 “A vicious assassin. He dared to try to harm the Third Young Master.”
 
 “T-The Third Young Master? Who would dare attack the Sleeping Dragon of Shanxi?”
 
-“Well, we assume the assassin was sent by someone hostile to our family.”
+“We suspect the assassin was sent by someone hostile to our family.”
 
 “Good heavens.”
 
-“But…”
+“However…”
 
 Wipeng’s eyes flashed.
 
-His sharp gaze swept through the interior of Song Sword Sect.
+His sharp gaze swept across the interior of Song Sword Sect.
 
-“Wouldn’t you know it, our pursuit led us all the way to Song Sword Sect.”
+“Wouldn’t you know it, our pursuit led us all the way here.”
 
 “T-That’s impossible. Surely there has been some misunderstanding?”
 
-The Sect Leader’s heart dropped. He was about to start making hurried excuses when Wipeng smiled and waved his hand.
+The Sect Leader’s heart dropped. He was about to launch into a hurried explanation when Wipeng smiled and waved his hand.
 
 “Haha. Of course it must be a mistake. The whole world knows of the deep friendship between the Jin Family of Taiyuan and Song Sword Sect. How could such a thing be true?”
 
