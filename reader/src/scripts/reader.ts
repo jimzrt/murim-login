@@ -820,17 +820,41 @@ function initReportLine() {
   const dialog = document.getElementById("report-line-dialog") as HTMLDialogElement | null;
   const chip = document.getElementById("report-line-chip");
   const close = document.getElementById("report-line-close");
+  const doneClose = document.getElementById("report-line-done-close");
   const submit = document.getElementById("report-line-submit") as HTMLButtonElement | null;
   const note = document.getElementById("report-line-note") as HTMLTextAreaElement | null;
   const quoteEl = document.getElementById("report-line-quote");
   const status = document.getElementById("report-line-status");
-  if (!dialog || !chip || !submit || !note || !quoteEl || !status) {
+  const form = document.getElementById("report-line-form");
+  const done = document.getElementById("report-line-done");
+  const issueLink = document.getElementById("report-line-issue-link") as HTMLAnchorElement | null;
+  const issueNumber = document.getElementById("report-line-issue-number");
+  if (!dialog || !chip || !submit || !note || !quoteEl || !status || !form || !done) {
     return;
   }
 
   const setStatus = (message: string, error = false) => {
     status.textContent = message;
     status.classList.toggle("is-error", error);
+  };
+
+  const showForm = () => {
+    form.hidden = false;
+    done.hidden = true;
+    submit.disabled = false;
+    setStatus("");
+  };
+
+  const showDone = (number: number | undefined, url: string | undefined) => {
+    form.hidden = true;
+    done.hidden = false;
+    if (issueLink && issueNumber && number != null) {
+      issueNumber.textContent = String(number);
+      issueLink.href = url || `https://github.com/jimzrt/murim-login/issues/${number}`;
+      issueLink.hidden = false;
+    } else if (issueLink) {
+      issueLink.hidden = true;
+    }
   };
 
   chip.addEventListener("click", () => {
@@ -844,14 +868,14 @@ function initReportLine() {
     reportChapter = chapter;
     quoteEl.textContent = selected.text;
     note.value = "";
-    submit.disabled = false;
-    setStatus("");
+    showForm();
     hideReportChip();
     dialog.showModal();
     note.focus();
   });
 
   close?.addEventListener("click", () => dialog.close());
+  doneClose?.addEventListener("click", () => dialog.close());
 
   submit.addEventListener("click", async () => {
     if (!reportQuote || !reportChapter) {
@@ -871,12 +895,15 @@ function initReportLine() {
           url: location.href,
         }),
       });
-      const payload = (await response.json().catch(() => ({}))) as { number?: number; error?: string };
+      const payload = (await response.json().catch(() => ({}))) as {
+        number?: number;
+        url?: string;
+        error?: string;
+      };
       if (!response.ok) {
         throw new Error(payload.error || `Could not send report (${response.status})`);
       }
-      const number = payload.number ? ` as #${payload.number}` : "";
-      setStatus(`Report submitted${number}.`);
+      showDone(payload.number, payload.url);
     } catch (error) {
       submit.disabled = false;
       setStatus(error instanceof Error ? error.message : "Could not send report.", true);

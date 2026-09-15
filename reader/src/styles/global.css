@@ -1270,13 +1270,42 @@ html[data-theme="light"] .system-comments {
 
 .chapter-ol__meta {
   flex: 0 0 auto;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
   color: var(--muted);
   font-size: 0.78rem;
   font-variant-numeric: tabular-nums;
 }
 
 .chapter-ol__meta .remark42__counter {
-  opacity: 0.75;
+  opacity: 1;
+}
+
+.chapter-comments {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.22rem;
+  opacity: 0.72;
+}
+
+.chapter-comments__icon {
+  width: 0.78rem;
+  height: 0.78rem;
+  flex: 0 0 auto;
+  opacity: 0.85;
+}
+
+.chapter-badge {
+  flex: 0 0 auto;
+  padding: 0;
+  border: 0;
+  font-size: 0.68rem;
+  font-weight: 500;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: color-mix(in srgb, var(--muted) 78%, var(--accent));
+  opacity: 0.85;
 }
 
 @media (max-width: 40rem) {
@@ -1547,6 +1576,127 @@ html[data-scroll-locked="1"] body {
 .report-line-actions {
   display: flex;
   justify-content: flex-end;
+}
+
+.report-line-done {
+  display: grid;
+  gap: 0.75rem;
+}
+
+.report-line-done[hidden] {
+  display: none;
+}
+
+.report-line-thanks {
+  margin: 0;
+  font-family: var(--serif);
+  font-size: 1.05rem;
+  line-height: 1.45;
+}
+
+.report-line-done-copy {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.92rem;
+  line-height: 1.5;
+}
+
+.report-line-done-copy a {
+  color: var(--navy);
+  text-decoration: underline;
+  text-underline-offset: 0.12em;
+}
+
+html[data-theme="dark"] .report-line-done-copy a {
+  color: var(--gold-bright);
+}
+
+.translation-progress {
+  margin-top: 2.4rem;
+  padding-top: 0.25rem;
+}
+
+.translation-progress__lead {
+  margin: 0 0 1rem;
+  color: var(--muted);
+  font-size: 0.95rem;
+  line-height: 1.55;
+}
+
+.translation-progress__lead strong {
+  color: var(--ink);
+  font-weight: 650;
+}
+
+.translation-progress__bars {
+  display: grid;
+  gap: 0.65rem;
+  margin-bottom: 1rem;
+}
+
+.translation-progress__row {
+  display: grid;
+  grid-template-columns: 5.5rem 1fr auto;
+  gap: 0.65rem;
+  align-items: center;
+}
+
+.translation-progress__label,
+.translation-progress__count {
+  font-size: 0.78rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.translation-progress__count {
+  font-variant-numeric: tabular-nums;
+  text-align: right;
+}
+
+.translation-progress__track {
+  height: 0.35rem;
+  overflow: hidden;
+  background: var(--rule);
+}
+
+.translation-progress__fill {
+  display: block;
+  height: 100%;
+}
+
+.translation-progress__fill--translated {
+  background: var(--navy);
+}
+
+.translation-progress__fill--mastered {
+  background: var(--accent);
+}
+
+.translation-progress__ranges {
+  margin: 0;
+  display: grid;
+  gap: 0.7rem;
+}
+
+.translation-progress__ranges > div {
+  display: grid;
+  gap: 0.2rem;
+}
+
+.translation-progress__ranges dt {
+  font-size: 0.78rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.translation-progress__ranges dd {
+  margin: 0;
+  font-size: 0.92rem;
+  line-height: 1.45;
+  color: var(--ink);
+  overflow-wrap: anywhere;
 }
 
 @media (prefers-reduced-motion: reduce) {
