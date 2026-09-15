@@ -181,6 +181,36 @@ print(json.dumps({
         self.assertIn("luna", painted[-1][0])
         self.assertFalse(painted[-1][1])
 
+    def test_run_json_command_does_not_inherit_stdin(self):
+        import sys
+        import tempfile
+        from tools.omp_json import run_json_command
+
+        script = r"""
+import json, sys
+assert sys.stdin.read() == ""
+print(json.dumps({
+    "type": "message_end",
+    "message": {
+        "role": "assistant",
+        "provider": "openai-codex",
+        "model": "gpt-test",
+        "content": [{"type": "text", "text": "ok"}],
+        "usage": {"input": 1, "output": 1, "cacheRead": 0, "cacheWrite": 0, "totalTokens": 2},
+        "stopReason": "stop",
+    },
+}), flush=True)
+"""
+        with tempfile.TemporaryDirectory() as directory:
+            output, metrics = run_json_command(
+                [sys.executable, "-c", script],
+                cwd=Path(directory),
+                requested_model="openai-codex/gpt-test",
+                timeout=10,
+            )
+        self.assertEqual(output.strip(), "ok")
+        self.assertEqual(metrics["output_tokens"], 1)
+
 
 if __name__ == "__main__":
     unittest.main()
