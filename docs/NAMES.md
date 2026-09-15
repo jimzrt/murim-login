@@ -342,3 +342,9 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 비무행 | **dueling tour** | Cheongpung's planned journey to challenge the Ten Dragons and Phoenixes. |
 | 청강검 | **blue-steel sword** | Cheongpung's sword. |
 | 광염 | **light-flames** | Violet manifestation surrounding Cheongpung when he uses the Zaha Divine Technique. |
+| 서안 | **Xi’an** | Historic city near Huashan. |
+| 서악 | **Western Peak** | Name for Huashan among the Five Great Mountains. |
+| 흑사파 | **Black Serpent Sect** | Dark-path gambling-den gang in Xi’an. |
+| 화산일학 | **Huashan’s Lone Crane** | Epithet of Baek Museong. |
+| 매화삼절 | **Three Plum Blossom Elites** | Collective title for the current Sect Leader’s three exceptional disciples. |
+| 매화검수 | **Plum Blossom Swordsmen** | Huashan appointment held by its three elite disciples. |
