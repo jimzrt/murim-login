@@ -1,6 +1,6 @@
 # Hanga (항아)
 
-- **Safe through:** Chapter 166
+- **Safe through:** Chapter 167
 - **Aliases:** None
 - **Role:** Local village boy who lives near Jang Taebo and regularly visits him.
 - **Personality:** Curious, energetic, observant, and already attentive to the value of information and food.

@@ -424,3 +424,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 철기방주 | **Guild Leader of the Ironcraft Guild** | Title of the Ironcraft Guild’s leader; the current leader is Jang Taebo’s disciple. |
 | 오향장육 | **five-spice pork** | Dish Cheongpung packed for the journey. |
 | 항아 | **Hanga** | Local village boy who lives near Jang Taebo. |
+| 구방표국 | **Nine-Room Escort Bureau** | Escort Bureau that supplies Jang Taebo with a fifty-year-old He Shou Wu every four months. |
+| 하수오 | **He Shou Wu** | Traditional medicinal herb; a thirty-year-old specimen is offered to Jang Taebo. |
+| 오십 년 묵은 하수오 | **Fifty-Year-Old He Shou Wu** | First Rate Spirit Herb shown in the System Item Window; can provide up to about two years of internal energy. |
+| 불로초 | **Herb of Eternal Youth** | Spirit herb said to grant eternal youth and immortality. |
+| 불로초를 찾아서 | **In Search of the Herb of Eternal Youth** | System Quest generated after Jang Taebo names the Herb of Eternal Youth. |

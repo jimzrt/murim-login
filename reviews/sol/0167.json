@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Judging by the atmosphere, he looked ready to refuse my commission even if he had to die and come back to life.",
+      "defect": "The draft assigns the dying and returning to life to Jang Taebo, but the implied subject is the narrator: Jang Taebo would refuse even if the narrator died and came back.",
+      "id": "F01",
+      "rationale": "The omitted Korean subject belongs to the narrator in the idiomatic construction 죽었다 깨어나는 한이 있어도; assigning it to Jang Taebo reverses who would undergo the hypothetical ordeal.",
+      "replacement": "Judging by the way things were going, he wouldn’t accept my commission even if I died and came back to life.",
+      "severity": "critical",
+      "source": "이거, 지금 분위기로 봐서는 죽었다 깨어나는 한이 있어도 내 의뢰는 안 받아 줄 기세다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Already? It’s only shichen.”",
+      "defect": "The draft mistakes the specific Hour of the Dragon for the generic two-hour unit shichen, making the English meaningless and losing the stated time of day.",
+      "id": "F02",
+      "rationale": "진시 is the specific traditional time period corresponding approximately to 7:00–9:00 a.m.; 시진 is the generic unit.",
+      "replacement": "“Already? It’s only between seven and nine in the morning.”",
+      "severity": "critical",
+      "source": "“벌써요? 이제 겨우 진시(辰時)인데.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "I had eaten Hundred-Year Snow Ginseng before, but that had been absorbed directly by my body, so I didn’t know if it counted.",
+      "defect": "The draft reverses the key fact: the narrator says it was not his own body at the time, not that his body absorbed it directly.",
+      "id": "F03",
+      "rationale": "그때는 내 몸이 아니라 explicitly states that the body involved at the time was not the narrator’s own.",
+      "replacement": "I had eaten Hundred-Year Snow Ginseng once, but I hadn’t been in my own body at the time, so I couldn’t say.",
+      "severity": "critical",
+      "source": "백년설삼은 먹어 본 적이 있긴 한데, 그때는 내 몸이 아니라 모르겠다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "But Jang Taebo’s reaction was far beyond anything I expected.",
+      "defect": "“Far beyond” suggests that his reaction exceeded expectations, while the source says it diverged sharply from what the narrator expected.",
+      "id": "F04",
+      "rationale": "예상을 한참 빗나갔다 means that the reaction missed or departed substantially from the narrator’s prediction, not that it surpassed it in degree.",
+      "replacement": "But Jang Taebo’s reaction was nothing like what I had expected.",
+      "severity": "major",
+      "source": "하지만 장태보의 반응은 내 예상을 한참 빗나갔다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The shout rang out so loudly that it belied the speaker’s eighty years, and Cheongpung swallowed whatever he had been chewing.",
+      "defect": "The draft adds that Cheongpung had been chewing, while the source only says that something was in his mouth.",
+      "id": "F05",
+      "rationale": "입 안에 들어 있던 것을 identifies the object only as something in his mouth; 꿀꺽 supplies the gulping action but does not establish prior chewing.",
+      "replacement": "The shout rang out so loudly that it belied the speaker’s eighty years, and Cheongpung gulped down whatever was in his mouth.",
+      "severity": "minor",
+      "source": "팔순이라는 나이가 무색할 만큼 쩌렁쩌렁한 고함에 청풍이 입 안에 들어 있던 것을 꿀꺽 삼켰다."
+    },
+    {
+      "confidence": 0.92,
+      "current": "“Sakura! …No, it’s He Shou Wu?”",
+      "defect": "The unexplained romanization leaves the gambling/cardsharp joke unintelligible in English.",
+      "id": "F06",
+      "rationale": "사쿠라 is being used as gambling-associated slang for something fake or fraudulent, reinforced by the preceding cardsharp comparison; it is not a literal reference to cherry blossoms.",
+      "replacement": "“A fake! …No, it’s He Shou Wu?”",
+      "severity": "minor",
+      "source": "“사쿠라! ……가 아니라 하수오네?”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "**[Fifty-Year-Old He Shou Wu]**",
+      "defect": "The System item name retains square brackets, contrary to the required System-panel format.",
+      "id": "F07",
+      "rationale": "The blockquote and System heading already frame the interface, and the binding Markdown rules prohibit enclosing System UI terms in square brackets.",
+      "replacement": "**Fifty-Year-Old He Shou Wu**",
+      "severity": "minor",
+      "source": "[오십 년 묵은 하수오]"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“If you bring me the Elixir of Immortality, I’ll think about it.”\n\n“Pardon?”\n\n“You didn’t hear me? The Elixir of Immortality. The spirit herb said to grant immortality and eternal youth.”",
+      "defect": "Calling 불로초 an “elixir” changes it from the spirit herb explicitly identified in the source into a prepared medicinal substance.",
+      "id": "F08",
+      "rationale": "불로초 is a mythical herb, and the following 영초 explicitly confirms its physical category as a spirit herb.",
+      "replacement": "“If you bring me the Herb of Eternal Youth, I’ll think about it.”\n\n“Pardon?”\n\n“You didn’t hear me? The Herb of Eternal Youth—the spirit herb said to grant eternal youth and immortality.”",
+      "severity": "major",
+      "source": "“불로초를 구해 오면 생각해 보지.”\n\n“예?”\n\n“못 들었나? 불로초 말일세. 불로장생을 가져다준다는 영초.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Quest **[In Search of the Elixir of Immortality]** has been created.",
+      "defect": "The Quest title repeats the incorrect “elixir” terminology and retains prohibited square brackets.",
+      "id": "F09",
+      "rationale": "The title refers to the same 불로초 identified as a spirit herb in the dialogue, while the binding System-panel rules require removal of the square brackets.",
+      "replacement": "Quest **In Search of the Herb of Eternal Youth** has been created.",
+      "severity": "minor",
+      "source": "- 퀘스트, [불로초를 찾아서]가 생성되었습니다."
+    }
+  ],
+  "summary": "Actionable fidelity errors include two reversed subjects or actions, a lost time quantity, misleading terminology, an untranslated gambling reference, and prohibited System-panel brackets.",
+  "version": 1
+}
