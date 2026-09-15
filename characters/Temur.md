@@ -1,6 +1,6 @@
 # Temur (테무르)
 
-- **Safe through:** Chapter 162
+- **Safe through:** Chapter 163
 - **Aliases:** None
 - **Role:** Northern Gaoyuan chieftain commanding one hundred tribespeople and claiming descent from the khans
 - **Personality:** Hot-tempered, reckless, proud of his khan lineage, and hostile to Han Chinese encroachment
