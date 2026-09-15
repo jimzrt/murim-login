@@ -1,0 +1,594 @@
+{
+  "chapter": 75,
+  "decisions": [
+    {
+      "decision": "BASE",
+      "hunk_id": "H001",
+      "reason": "SOL drops 적당히 ('just right') and 안의 ('inside the capsule')."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H002",
+      "reason": "Avoids repeating 'bath' without losing 열탕/온탕."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H003",
+      "reason": "Tighter native phrasing for the alarm and stopwatch as the watch's selling point."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H004",
+      "reason": "More natural thought for arriving in the modern world and the ratio flipping."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H005",
+      "reason": "SOL turns 지금은 into 'while'; BASE's 'washed myself' is stiff.",
+      "replacement": "Now that I had logged out, ten days in the modern world amounted to one hour in Murim. I washed up in the goshiwon’s[^1] communal shower and returned to my room."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H006",
+      "reason": "'Sprang up' is the natural English for a person 휙 솟구쳤다."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H007",
+      "reason": "왁 is Jinho's jump-scare shout; 'Boo!' is the English scare beat."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H008",
+      "reason": "'Knew it' carries 일 줄 알았다, which BASE omits."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H009",
+      "reason": "Keeps the syllable-by-syllable periods through 깜.짝. 놀.랐.네."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H010",
+      "reason": "Uses the project ellipsis character."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H011",
+      "reason": "Keep 들숨 날숨, 격렬, and 진호 씨; unstiffen BASE's 'inhaling and exhaling'.",
+      "replacement": "“Your inhales and exhales were extremely intense. Mr. Jinho, were you excited?”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H012",
+      "reason": "Korean has 소리와 움직임, not 'every' sound."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H013",
+      "reason": "숨죽인 채 is holding/suppressing breath, which sets up the thunderous 숨소리 contrast."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H014",
+      "reason": "Cleaner spoken rhythm; noise complaints still land after the breathing jab."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H015",
+      "reason": "Uses the project ellipsis character."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H016",
+      "reason": "'Listen to you' is the natural spoken rendering of 인성 봐라."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H017",
+      "reason": "Keep SOL's 돼 봐라 order and 팍팍 떠오르다, but 겨우 is 'barely,' not 'a whole week'.",
+      "replacement": "“Hey, wait until you’re my age. I can’t even remember what side dishes I ate yesterday. You think something that happened barely a week ago is going to pop right into my head?”"
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H018",
+      "reason": "지난주 is 'last week'; 미묘한 괴리감 is a subtle disconnect, not 'strange'.",
+      "replacement": "To me, it had been well over a month. To Jinho-hyung, it had happened just last week. I felt a subtle sense of disconnect."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H019",
+      "reason": "'What's with that look?' is more spoken for 표정이 왜 그래."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H020",
+      "reason": "문제는 무슨 is a blunt brush-off; 'Nothing's wrong' is punchier and faithful."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H021",
+      "reason": "Fix BASE's 'are we some kind of relationship' while keeping the 볼일/비즈니스 echo SOL drops.",
+      "replacement": "“Listen to the way you talk. Are we in some kind of business relationship where we only see each other when there’s business involved?”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H022",
+      "reason": "'Just' carries 본론만; SOL only drops it."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H023",
+      "reason": "'Taken the teasing too far' is the natural collocation for 장난이 너무 심했나."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H024",
+      "reason": "Keep 무심, 못 봤, and 여러 가지; SOL's 'distant'/'one after another' drift, while BASE needs …",
+      "replacement": "Come to think of it, I had been too indifferent lately. Even before returning to Murim, I hadn’t been able to see him often because of all sorts of problems…"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H025",
+      "reason": "Uses the project ellipsis character."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H026",
+      "reason": "The joke is the 내 돈이 내 돈 repetition he then mispronounces."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H027",
+      "reason": "발음 is pronunciation, not 'say that again'; 주먹맛 is 'taste of a fist'.",
+      "replacement": "“Pronounce that properly. Unless you want a taste of a C-rank Hunter’s fist.”"
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H028",
+      "reason": "'Grease' is idiomatic for 기름칠; SOL's 'poor' is not in 메마른.",
+      "replacement": "“Please, sir. Use your money to grease my parched stomach.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H029",
+      "reason": "Uses the project ellipsis character."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H030",
+      "reason": "태세 전환 is a stance switch; that is the Udyr joke BASE genericizes."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H031",
+      "reason": "'A laugh escaped me' matches involuntary 피식 웃음이 나왔다."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H032",
+      "reason": "엄숙한 목소리로 is specifically the voice; 'solemnly' drops it."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H033",
+      "reason": "좀 더 비싸게 is 'a little more expensive,' not just 'pricier'."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H034",
+      "reason": "그것 is the excited 'that' pointing at the Hanwoo."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H035",
+      "reason": "Uses the project ellipsis character."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H036",
+      "reason": "턱 is a source SFX beat; SOL deletes it."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H037",
+      "reason": "Merges action and speech; 'try it' fits 먹어 보고 싶었습니다."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H038",
+      "reason": "Dialogue is already in the merged H037 sentence."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H039",
+      "reason": "Makes 3차 readable as the third drinking round rather than a 'third-round bar'."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H040",
+      "reason": "Uses the project ellipsis character."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H041",
+      "reason": "장면 is 'scene'; SOL omits it."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H042",
+      "reason": "'Came over me' is more natural than 'I felt a sense of déjà vu'."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H043",
+      "reason": "Sender name moves into the text-window blockquote; the glossary term is not lost."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H044",
+      "reason": "Groups sender and body as one message UI without treating it as System."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H045",
+      "reason": "문자 한 통 is one short text; 'single' carries 한 통."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H046",
+      "reason": "Tighter Sleep Mode prose with the same 큰 부상 exception."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H047",
+      "reason": "'Woke up' is the natural US phrasing; 'woke in' is merely more literary."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H048",
+      "reason": "Whoosh matches flowing 솨아아 better than Fwoosh."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H049",
+      "reason": "'Waste' is enough for 노폐물 without the extra 'products'."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H050",
+      "reason": "Uses glossary 'training ground' for 연무장; notification-plus-waking is cleaner."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H051",
+      "reason": "Captures 도 ('even training') and 없는 놈들 ('broke people like me')."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H052",
+      "reason": "후읍/흡 are exertion SFX; BASE's 'Inhale' is a dictionary gloss."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H053",
+      "reason": "Cleaner split of the run-then-exercise sequence and 샘솟는다."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H054",
+      "reason": "질린 is appalled/fed up, not horrified; following dialogue already asks."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H055",
+      "reason": "지치지도 않냐 has 도; 'ever' carries that emphasis."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H056",
+      "reason": "안 셌어 is stopping counting; 'keep track' is a vaguer substitute."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H057",
+      "reason": "퀭한 몰골 is a whole haggard look, not only a face."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H058",
+      "reason": "Tap tap vs Tap, tap is indistinguishable SFX punctuation."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H059",
+      "reason": "투하 is dropping, 익어 가는 is almost cooked, 자연스럽다 is not 'cracked' or 'practiced'.",
+      "replacement": "The way he dropped a raw egg onto the almost-cooked noodles looked completely natural."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H060",
+      "reason": "'In here' is the natural room-contrast for 여기서 처먹어야."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H061",
+      "reason": "청산유수 is the flowing-stream image; SOL replaces it with hesitation-free fluency."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H062",
+      "reason": "차라리 is 'just/rather buy one'; 그냥 가져가 needs 'just take'.",
+      "replacement": "“Just buy one! If you don’t have the money, just take mine!”"
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H063",
+      "reason": "아 is 'Ah'; 그건 좀 is a soft refusal, not 'Eh'.",
+      "replacement": "“Ah, I’d rather not. I’m leaving soon anyway. Why bother adding to my luggage?”"
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H064",
+      "reason": "들락거리다 is repeated in-and-out, not one-way barging; use …",
+      "replacement": "“Then stop coming in and out of here and bothering me… Huh? What did you just say?”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H065",
+      "reason": "아니 here is a hold-on interjection; 'No, wait' reads as negation."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H066",
+      "reason": "날짜까지 확정된 건 아닌데 is that the date isn't set, not that he hasn't set one."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H067",
+      "reason": "Uses the project ellipsis character."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H068",
+      "reason": "아니, 뭐. 그냥 is a trailing 'it's nothing,' not a stated 'no reason'."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H069",
+      "reason": "More natural rhetorical and 'pry' captures 구태여 이유를 묻는."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H070",
+      "reason": "아쉽긴 하네 is general regret/'a shame,' not the more specific 'I'll miss him'."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H071",
+      "reason": "Keep 입을 열었다 and 복잡 미묘한 기분; SOL merges and weakens 혹시."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H072",
+      "reason": "Keep 혹시 as a separate tentative line; SOL's 'if' is weaker and BASE uses ……",
+      "replacement": "“Hyung, by any chance…”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H073",
+      "reason": "네 마음은 알겠는데 is 'I know how you feel'; BASE leaks the next-line realization."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H074",
+      "reason": "단칼에 is decisive, and 말을 이었다 is 'continued'; SOL drops both."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H075",
+      "reason": "챙겨 is taking care of his bowl/livelihood, not filling it."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H076",
+      "reason": "Keep 것 같았는데, 섣부른 오지랖, 건드린, and 모양; SOL over-certain 'must have wounded'.",
+      "replacement": "I’d thought I could probably live with Jinho-hyung, but sticking my nose in too soon seemed to have pricked his pride."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H077",
+      "reason": "'Scrunched up' is the natural face for 구겨진 얼굴."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H078",
+      "reason": "'Never had any intention' matches 애초에 생각도 없었으면서."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H079",
+      "reason": "무슨 헛소리야 is the short punch; SOL pads it."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H080",
+      "reason": "Uses the project ellipsis character."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H081",
+      "reason": "잠깐만 is 'wait a second'; BASE's 'suddenly' is not in this line.",
+      "replacement": "Wait a second. How had the conversation ended up here?"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H082",
+      "reason": "Silence-plus-speech belongs in one English sentence with H083."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H083",
+      "reason": "Merge 입을 뗐다 with the quote, but keep 뭘 as 'something'.",
+      "replacement": "After several seconds of silence, I finally asked, “What are you talking about? What’s this about cooking something all of a sudden?”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H084",
+      "reason": "당연히 라면이지 is the deadpan 'Obviously, ramen.'"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H085",
+      "reason": "흉흉한 눈빛으로 노려봤다 is one menacing glare; BASE doubles 'glared' and 'threatening look'."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H086",
+      "reason": "안 먹는다고 is 'isn't eating,' not 'isn't hungry'; SOL also adds 'as soon as' and 'ramen'."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H087",
+      "reason": "Uses the project ellipsis character."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H088",
+      "reason": "놈이 is a third-person jab; SOL adds unsupported 'still' and flattens it to 'you'."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H089",
+      "reason": "Uses the project ellipsis character."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H090",
+      "reason": "Tighter contracted prose for the bowl-pun realization."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H091",
+      "reason": "자괴감 is self-reproach; BASE's 'deeply' is extra."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H092",
+      "reason": "부서져라 is slamming hard enough to break the door, not merely as hard as he could."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H093",
+      "reason": "마트 is a supermarket, not a generic market."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H094",
+      "reason": "도착했다 is arrived, not found."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H095",
+      "reason": "빌딩 숲 중심부 is the heart of a building-forest, not merely surrounded by high-rises."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H096",
+      "reason": "앉아 있는 손님 is the only customer sitting; SOL drops 앉아 있는."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H097",
+      "reason": "여전히 잘생겼네 is 'he's still handsome'; 'I see' is added."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H098",
+      "reason": "'Lightweight casual suit' is natural English for 얇은 캐주얼 정장, plus …"
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H099",
+      "reason": "것 같은데 is unspecified; 'looks' and 'smells' both over-specify before the 개코 beat.",
+      "replacement": "“Really? You seem to have eaten ramen.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H100",
+      "reason": "Uses the project ellipsis character."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H101",
+      "reason": "개코 is a dog/bloodhound nose; 이 자식 is 'bastard,' not merely 'guy'."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H102",
+      "reason": "'Story about' vs 'story of' is indistinguishable."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H103",
+      "reason": "More spoken for 사람이 없네요."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H104",
+      "reason": "The source marks Closed as sign text; the versions are otherwise equal."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H105",
+      "reason": "말대로였다 is 'as he said'; BASE invents 'everything was covered up'."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H106",
+      "reason": "Drop calqued 'naturally'; keep 눈을 깜빡였다 without SOL's 'could only'.",
+      "replacement": "I had assumed the café would be open since it was the meeting place, so I hadn’t noticed. The whole situation was so strange that I blinked."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H107",
+      "reason": "환하고 is bright, 언뜻 is a glimpse, and 문 is singular."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H108",
+      "reason": "English needs to complete 해야죠; 'be open' is the supported ellipsis."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H109",
+      "reason": "Echoes the prior 'closed' line for 영업 안 한다면서요."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H110",
+      "reason": "Uses the project ellipsis character."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H111",
+      "reason": "Spoken contraction fits 그럴 것 같더라."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H112",
+      "reason": "파도 파도 끝이 없네 is digging with no end, not 'the more there is'."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H113",
+      "reason": "Following dialogue already speaks; BASE's 'and said:' into the next paragraph is clumsier."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H114",
+      "reason": "Matches 끝마침과 동시에 by putting the last signature before the alert."
+    }
+  ],
+  "version": 1
+}
