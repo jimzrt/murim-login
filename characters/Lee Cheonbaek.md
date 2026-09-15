@@ -1,6 +1,6 @@
 # Lee Cheonbaek (이천백)
 
-- **Safe through:** Chapter 116
+- **Safe through:** Chapter 121
 - **Aliases:** Blood Wolf Sword
 - **Role:** Former Sect Leader of the Mount Heng Sword Sect, killed during the Red Wind Band’s assault; father of Lee Seogeun and Lee Seowol
 - **Personality:** Grief-stricken, resolute, and fiercely vengeful
