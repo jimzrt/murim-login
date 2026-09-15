@@ -1,14 +1,14 @@
 # Chapter 79
 
-I woke with a dull headache and looked around. I was in an unfamiliar place—a spacious, clean hotel room.
+I woke with a dull headache and looked around. I was in an unfamiliar place—a spacious, spotless hotel room.
 
-Only then did the memories of last night gradually come back to me.
+Only then did the memories of last night come flooding back.
 
 *Right. We came to a hotel for the second round and had a champagne party.*
 
 Good God. A champagne party at a hotel.
 
-Put that way, I felt like I’d become the third-generation heir to some chaebol family. Then again, Team Leader Choi might actually be one.
+Put that way, I sounded like the third-generation heir to some chaebol family. Then again, Team Leader Choi might actually be one.
 
 “Khrrr-heeeurk. Khrrp!”
 
@@ -36,7 +36,7 @@ I dashed to the door at the speed of light. Before opening it, I made sure to sp
 
 Click.
 
-Miss Song-i’s clear, lake-like eyes gazed steadily at me, setting my heart pounding. I barely managed to squeeze out a greeting in a trembling voice.
+Miss Song’s clear, lake-like eyes gazed steadily at me, setting my heart pounding. I barely managed to squeeze out a greeting in a trembling voice.
 
 “G-good morning. Did you sleep well?”
 
@@ -44,7 +44,7 @@ Miss Song-i’s clear, lake-like eyes gazed steadily at me, setting my heart pou
 
 “Oh.”
 
-Not a good start. I blamed Im Kkeokjeong, who was still snoring ferociously, and quickly changed the subject.
+Not a good start. Cursing Im Kkeokjeong, who was still snoring ferociously, I quickly changed the subject.
 
 “But what brings you here?”
 
@@ -60,7 +60,7 @@ Miss Song looked at me as if she couldn’t see what the problem was.
 
 Who would’ve thought I’d live to see the day I had breakfast alone with a woman? And not just any woman—one who was exactly my type. I could almost feel my eyes welling up.
 
-*At last, an oasis has appeared in my desert of a life.*
+*At last, an oasis has appeared in the desert of my life.*
 
 I wouldn’t have minded eating combat rations for breakfast as long as I was eating them with her. I answered with determination.
 
@@ -104,15 +104,15 @@ Leaving me there dejected, Miss Song turned away.
 
 “Then I’ll go down first.”
 
-I stared longingly at her retreating back as she walked away on light, graceful steps.
+I stared longingly after her as she walked away with light, graceful steps.
 
-“Even her back is pretty.”
+“Even she looks pretty from behind.”
 
 “Khrrp, khrrr-heeeurk!”
 
 “……”
 
-*Is this guy really not a former bandit?*
+*Was this guy seriously not a bandit before becoming a Hunter?*
 
 * * *
 
@@ -128,7 +128,7 @@ Since it was a hotel breakfast, I had expected something like an absurdly tiny s
 
 “You really know your stuff, Team Leader.”
 
-I still had some of last night’s hangover left, but one bowl of haejangguk seemed like it would make circulating my qi unnecessary.
+I still had some of last night’s hangover left, but one bowl of haejangguk looked like it would make circulating my qi unnecessary.
 
 Team Leader Choi shook his head at our reactions.
 
@@ -140,7 +140,7 @@ Team Leader Choi shook his head at our reactions.
 
 Judging by his dark expression, he must have really wanted that pasta.
 
-Still, I never would’ve expected Miss Song to order hangover soup. Judging by her appearance, she looked like a pampered young lady from a wealthy family. But after what she had shown us yesterday, and now this, she had a surprisingly down-to-earth side.
+Still, I never would’ve expected Miss Song to order hangover soup. From her appearance, she looked like the sheltered young lady of some wealthy family, but between yesterday and now, she had shown a surprisingly down-to-earth side.
 
 Slurp.
 
@@ -148,33 +148,33 @@ Slurp.
 
 Watching Miss Song dig into her haejangguk warmed a corner of my heart. Even the way she ate was delightful.
 
-*So this is what it means when simply looking at someone fills you up.*
+*So this is what people mean when they say just watching someone eat fills them up.*
 
-In a state where I could no longer tell whether the food was going into my nose or my mouth, the meal finally came to an end. While everyone except me sagged back in their seats, bloated with food, Team Leader Choi spoke.
+I was so distracted that I couldn’t tell whether the food was going into my nose or my mouth, but eventually the meal came to an end. While everyone except me slumped back in their seats, stuffed, Team Leader Choi spoke.
 
 “Now that we’ve eaten, shall we move somewhere else?”
 
 What? Wasn’t this supposed to be the part where we went home and rested?
 
-“Move where?”
+“Where?”
 
 Im Kkeokjeong cut in, patting his bulging belly.
 
 “Where else? We’ve got to keep the party going from yesterday. How about makgeolli today?[^2] I know a good place.”
 
-“Oh, I really like makgeolli too.”
+“Oh, I’m very fond of makgeolli myself.”
 
-Butler Kim, who had been quietly listening to us, smiled and continued.
+Butler Kim, who had been quietly listening to us, smiled.
 
 “Unfortunately, I think we’d better save that for our next Guild dinner. We have something more important to take care of today.”
 
 Butler Kim might have been the Guild Master, but someone else made the decisions.
 
-With everyone’s eyes on him, Team Leader Choi opened his mouth.
+With everyone’s eyes on him, Team Leader Choi spoke.
 
 “We’ve eaten, drunk, and rested. Now it’s time to work.”
 
-It was the Peace Guild’s first raid.
+It was time for the Peace Guild’s first raid.
 
 * * *
 
@@ -192,9 +192,9 @@ People might have been less shocked if aliens with thin limbs and oversized head
 
 “Karuk! Krrruuuk!”
 
-With their terrible stench and eyes gleaming with killing intent, the monsters tore humans apart like sheets of paper as they swept through cities and set them ablaze.
+Reeking horribly, their eyes gleaming with killing intent, the monsters swept through cities, burning them and tearing humans apart like paper.
 
-They were monsters that seemed as if they belonged in novels, movies, or myths.
+They were creatures that should have existed only in novels, movies, or myths.
 
 The Minotaur was one of them……or so I had learned in history class.
 
@@ -202,19 +202,19 @@ The Minotaur was one of them……or so I had learned in history class.
 
 Im Kkeokjeong answered proudly.
 
-“Of course. I saw them in a Greek and Roman mythology comic when I was in elementary school. They were pretty cool—huge muscles and everything.”
+“Of course. I saw one in a Greek and Roman mythology comic when I was in elementary school. It looked awesome—all huge muscles and everything.”
 
 “……What about you, Taekyung?”
 
 “I’ve never even seen one.”
 
-A Minotaur was among the stronger monsters in the B-rank category. It had been roughly five hundred light-years away from me, an eternal F-rank Hunter.
+Minotaurs were among the stronger B-rank monsters. For someone like me, who had spent years stuck at F-rank, they might as well have been five hundred light-years away.
 
 “That’s all right. This is your chance to see one.”
 
 “……”
 
-*Is a Gate a zoo? Are we going there just to sightsee?*
+*Is a Gate a zoo? Are we just going there to look?*
 
 Team Leader Choi answered breezily, as if this had nothing to do with him, and handed me a tablet.
 
@@ -222,23 +222,23 @@ Team Leader Choi answered breezily, as if this had nothing to do with him, and h
 
 “What is this?”
 
-“It’s a next-generation tablet powered by a C-rank Magic Gem. With its elegant design and outstanding performance, it’s sold exclusively to a select number of VIPs……”
+“It’s a next-generation tablet powered by a C-rank Magic Gem. With its elegant design and outstanding performance, it’s available exclusively to a select number of VIPs……”
 
-“Just give me the conclusion.”
+“Just give me the point.”
 
 “I loaded some raid footage onto it. Watch.”
 
-He could’ve just said that from the start. Im Kkeokjeong and I put our heads together and watched the video stored on the tablet.
+He could’ve said that from the start. Im Kkeokjeong and I put our heads together and watched the video stored on the tablet.
 
 “All right, stay calm. Stay calm. Especially the tanks! Keep those shields up. If they break through, everyone here is dead. Of course, I’ll kill you myself before that happens.”
 
 “Yes, sir!”
 
-Around fifteen Hunters formed an orderly formation at the raid leader’s command. Every one of them was visibly tense.
+Around fifteen Hunters swiftly formed an orderly formation at the raid leader’s command. Every one of them was visibly tense.
 
 *Four tanks, melee and ranged damage dealers. They’ve even got a mage and a healer.*
 
-Their teamwork seemed decent, and so did the team composition.
+Their teamwork seemed solid, and the team composition wasn’t bad either.
 
 And then……
 
@@ -254,7 +254,7 @@ No—they charged.
 
 “Mooooooo!”
 
-Their bellowing echoed through the cave. Rock dust shook loose and fell in little showers as the battle began.
+Their bellows echoed through the cave. Rock dust shook loose and rained down as the battle began.
 
 “Ranged! Fire!”
 
@@ -262,11 +262,11 @@ The raid leader screamed himself hoarse. At the same moment, around twenty mana-
 
 Fwish-fwish-fwish!
 
-Focusing fire on one target instead of using a wide-area attack had been a good choice. Aiming precisely for its head had been especially effective.
+Focusing fire on a single target instead of using a wide-area attack was a good decision. Aiming precisely for its head had been especially effective.
 
 No matter how strong a B-rank monster was, it couldn’t reinforce its eyeballs.
 
-The Minotaur clawed at its own face in agony. The finishing blow came from the companions following behind it.
+The Minotaur clawed at its face in agony, only for the ones behind it to deliver the finishing blow.
 
 Crunch!
 
@@ -278,7 +278,7 @@ Thud, thud, thud!
 
 *Huh.*
 
-They used the dead Minotaur’s corpse as a shield and charged straight ahead. Arrows and magic rained down, but they only shredded the corpse. The Minotaurs hiding behind it were unharmed.
+Using the dead Minotaur’s corpse as a shield, they charged straight ahead. Arrows and magic rained down, but only shredded the corpse. The Minotaurs sheltering behind it remained unharmed.
 
 *These bastards……*
 
@@ -290,11 +290,11 @@ That made them all the more dangerous.
 
 “Urrrgh!”
 
-At the team leader’s shout, the tanks’ veins bulged. Their shields, covered in hazy mana, blocked the iron clubs carrying tremendous force.
+At the team leader’s shout, veins bulged on the tanks’ arms and necks. Their shields, wreathed in hazy mana, blocked the iron clubs swinging with tremendous force.
 
 Wham! Wham! Wham!
 
-A small shadow suddenly dropped out of the air between them. A stealth-type Hunter drove a black-painted dagger into another Minotaur’s eye, then vanished.
+A small shadow suddenly dropped out of the air between them. A stealth-type Hunter drove a blackened dagger into another Minotaur’s eye, then vanished.
 
 “Moooo……”
 
@@ -316,7 +316,7 @@ Screams and roars filled the cave. Through the billowing dust, I could see the c
 
 “Moooooo!”
 
-“Tanks, damage dealers! Ranged, don’t hold back your mana—pour it all in! Ranged, open up some distance!”
+“Tanks, damage dealers! Ranged, don’t hold back your mana—pour it all in! Ranged, fall back!”
 
 Wham-wham-wham!
 
@@ -324,23 +324,23 @@ Wham-wham-wham!
 
 “Healeeeer!”
 
-The video continued for about ten minutes before cutting off. The battle hadn’t ended yet. The camera had simply been smashed by an iron club.
+The video continued for around ten minutes before cutting out. The battle wasn’t over. The camera had simply been smashed by an iron club.
 
 “Mooooooo!”
 
 Bzzzt.
 
-As the Minotaur’s roar rang out, the screen filled with static and faded to black and white. Im Kkeokjeong swallowed hard.
+The image dissolved into black-and-white static beneath the Minotaur’s roar. Im Kkeokjeong swallowed hard.
 
 “……This is no joke.”
 
 *Of course it isn’t, old man.*
 
-I handed the tablet back to Team Leader Choi and asked,
+I handed the tablet back to Team Leader Choi.
 
 “What Guild was that?”
 
-“It was footage of the Bucheon Terminal Guild’s raid last week.”
+“Footage from the Bucheon Terminal Guild’s raid last week.”
 
 “……”
 
@@ -348,11 +348,11 @@ I handed the tablet back to Team Leader Choi and asked,
 
 Not that I had much room to talk as a member of the Peace Guild, but at least our name was better than Bucheon Terminal Guild.
 
-“What was the result?”
+“What happened?”
 
 “The Minotaurs were wiped out. Two Hunters died.”
 
-People dying during raids wasn’t particularly rare. Being a Hunter meant repeatedly drawing close to death, then running away from it.
+Deaths during raids weren’t particularly rare. Being a Hunter meant repeatedly drawing close to death, then escaping it.
 
 Even so, I couldn’t help feeling heavy-hearted. It was a burden the survivors would have to carry for the rest of their lives.
 
@@ -362,11 +362,11 @@ Just as I did now.
 
 That was all I could manage. I pulled out my smartphone and searched for the incident. Several related articles appeared.
 
-> **A Bucheon Guild: The Sacrifice Brought on by a Reckless Raid**
+> **Bucheon Guild’s Reckless Raid Ends in Tragedy**
 >
-> On the sixteenth, C-rank Hunters identified as Mr. Lee and Mr. Park died in the B-rank Gate *The Minotaur’s Labyrinth*. The Hunter Association authorities……
+> On the sixteenth, C-rank Hunters identified as Mr. Lee and Mr. Park died in the B-rank Gate *The Minotaur’s Labyrinth*. Hunter Association officials……
 
-So the Hunters who died had been C-rank. That made sense. A small-to-medium Guild like that couldn’t possibly have enough talent to fill all fifteen or so spots on a raid team with B-rank Hunters.
+So the Hunters who died had been C-rank. That made sense. A small-to-medium Guild like that couldn’t possibly have enough talent to fill a fifteen-person raid team entirely with B-rank Hunters.
 
 *Then……*
 
