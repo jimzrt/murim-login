@@ -397,3 +397,12 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 매화오품지 | **Plum Blossom Five-Point Finger** | Five-finger technique Cheongpung uses during the duel. |
 | 벽을 넘어서 | **Beyond the Wall** | System Quest generated during Taekyung's breakthrough. |
 | 절정 고수 | **Peak Master** | System class awarded after Taekyung completes Beyond the Wall. |
+| 테무르 | **Temur** | Northern Gaoyuan chieftain commanding one hundred tribespeople; claims descent from the khans. |
+| 칭겐 | **Chinggen** | Northern Gaoyuan chieftain commanding one hundred tribespeople; restrains Temur. |
+| 인도 | **Human Butcher** | Epithet of a mysterious Han Chinese mounted-bandit power commanding fifty subordinates. |
+| 텡게르 | **Tengger** | Sky deity invoked by Temur. |
+| 대칸 | **Great Khan** | Title of the former ruler whose descendants Temur and Chinggen claim to be. |
+| 대초원 | **Great Steppe** | The steppe region from which Temur and Chinggen come. |
+| 마유주 | **mare's-milk wine** | Fermented alcoholic drink offered at the gathering. |
+| 게르 | **ger** | Traditional nomadic dwelling contrasted with Central Plains wooden buildings. |
+| 한족 | **Han Chinese** | Ethnic designation used by the steppe chieftains. |
