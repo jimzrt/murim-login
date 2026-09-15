@@ -4,11 +4,11 @@ I woke with a dull headache and looked around. I was in an unfamiliar place—a 
 
 Only then did the memories of last night gradually come back to me.
 
-*Right. We came to a hotel for the second round and had a champagne party.*
+*Right. We went to a hotel for the second round and had a champagne party.*
 
-Good God. A champagne party at a hotel.
+Good God, a champagne party at a hotel.
 
-Put that way, I felt like I’d become the third-generation heir to some chaebol family. Then again, Team Leader Choi might actually be one.
+Put that way, it made me feel like I had become the third-generation heir to some chaebol family. Though, come to think of it, Team Leader Choi might actually be one.
 
 “Khrrr-heeeurk. Khrrp!”
 
@@ -16,7 +16,7 @@ Put that way, I felt like I’d become the third-generation heir to some chaebol
 
 That man really was a bandit.
 
-What kind of snoring sounded like someone shouting? Jinho hyung was a champion snorer himself, but next to this guy, he might as well have been on mute.
+What kind of snore sounded like someone shouting? Hyung Jinho snored pretty loudly too, but next to this guy, it was practically on mute.
 
 *If I were the hotel manager, I would’ve kicked him out long ago—*
 
@@ -24,7 +24,7 @@ Knock, knock.
 
 “Who is it?”
 
-For a moment, I thought a hotel employee had come to inform us that we were being thrown out. But no. A clear, bright voice came from the other side of the door.
+For a moment, I thought it was a hotel employee coming to inform us of our forced eviction. But it wasn’t. A clear, refreshing voice came from the other side of the door.
 
 “It’s me. Song Song.”
 
@@ -32,15 +32,15 @@ For a moment, I thought a hotel employee had come to inform us that we were bein
 
 “J-just a moment!”
 
-I dashed to the door at the speed of light. Before opening it, I made sure to spray on some of the perfume provided in the room and straighten my clothes.
+I dashed to the door at the speed of light. Before opening it, I didn’t forget to spray on some of the perfume provided in the room and check my clothes.
 
 Click.
 
-Miss Song-i’s clear, lake-like eyes gazed steadily at me, setting my heart pounding. I barely managed to squeeze out a greeting in a trembling voice.
+My heart pounded when I looked into Miss Song’s limpid, lake-like eyes. I somehow managed to squeeze out a trembling voice.
 
 “G-good morning. Did you sleep well?”
 
-“No. The snoring kept waking me up.”
+“No. I kept waking up because of the snoring.”
 
 “Oh.”
 
@@ -52,17 +52,17 @@ Not a good start. I blamed Im Kkeokjeong, who was still snoring ferociously, and
 
 “……Breakfast?”
 
-Miss Song looked at me as if she couldn’t see what the problem was.
+Miss Song looked at me as if something were wrong.
 
 “Yes. Why?”
 
 *Why? Because I’m happy.*
 
-Who would’ve thought I’d live to see the day I had breakfast alone with a woman? And not just any woman—one who was exactly my type. I could almost feel my eyes welling up.
+Who would’ve thought I’d live to see the day I had breakfast alone with a woman? And not just any woman—she was exactly my type. I felt as if my eyes were growing moist.
 
 *At last, an oasis has appeared in my desert of a life.*
 
-I wouldn’t have minded eating combat rations for breakfast as long as I was eating them with her. I answered with determination.
+I wouldn’t have minded eating combat rations for breakfast if I could eat them with her. I answered with determination.
 
 “I’ll get ready right now.”
 
@@ -74,7 +74,7 @@ I wouldn’t have minded eating combat rations for breakfast as long as I was ea
 
 Miss Song held out her smartphone.
 
-The Guild group chat we had created last night was open on the screen.
+The group chat we had created for the Guild last night was open on the screen.
 
 > **Peace Guild**
 >
@@ -98,9 +98,9 @@ The Guild group chat we had created last night was open on the screen.
 
 “……”
 
-Damn it. And just when I was getting excited. Story of my life.
+Damn it. And just when I was getting excited. That was my life for you.
 
-Leaving me there dejected, Miss Song turned away.
+Miss Song turned away, leaving me looking dejected.
 
 “Then I’ll go down first.”
 
@@ -116,17 +116,17 @@ I stared longingly at her retreating back as she walked away on light, graceful 
 
 * * *
 
-After barely managing to wake Im Kkeokjeong, I headed down to the first floor with him.
+I barely managed to wake Im Kkeokjeong before heading down to the first floor.
 
-Team Leader Choi was sitting by the window. He waved when he saw us.
+Team Leader Choi, who was sitting by the window, waved when he saw us.
 
 “I ordered ahead. Eat before it gets cold.”
 
-Since it was a hotel breakfast, I had expected something like an absurdly tiny serving of pasta. Instead, a steaming bowl of haejangguk sat on the table.[^1]
+Since it was a hotel breakfast, I had expected something like an absurdly tiny serving of pasta. But what arrived on the table was a steaming bowl of haejangguk.[^1]
 
 “Ah, now that’s Team Leader Choi!”
 
-“You really know your stuff, Team Leader.”
+“You really know what you’re doing, Team Leader.”
 
 I still had some of last night’s hangover left, but one bowl of haejangguk seemed like it would make circulating my qi unnecessary.
 
@@ -138,15 +138,15 @@ Team Leader Choi shook his head at our reactions.
 
 “Yes.”
 
-Judging by his dark expression, he must have really wanted that pasta.
+His dark expression suggested that he had really wanted it.
 
 Still, I never would’ve expected Miss Song to order hangover soup. Judging by her appearance, she looked like a pampered young lady from a wealthy family. But after what she had shown us yesterday, and now this, she had a surprisingly down-to-earth side.
 
 Slurp.
 
-“Ah, that hits the spot. What are you all doing? You should eat while the broth’s still hot.”
+“Ah, this is good. What are you all doing? You should eat while the broth’s still hot.”
 
-Watching Miss Song dig into her haejangguk warmed a corner of my heart. Even the way she ate was delightful.
+Watching Miss Song eat her haejangguk with such gusto warmed a corner of my heart. She had such a healthy appetite.
 
 *So this is what it means when simply looking at someone fills you up.*
 
@@ -158,17 +158,19 @@ What? Wasn’t this supposed to be the part where we went home and rested?
 
 “Move where?”
 
-Im Kkeokjeong cut in, patting his bulging belly.
+Im Kkeokjeong cut in while patting his stuffed belly.
 
 “Where else? We’ve got to keep the party going from yesterday. How about makgeolli today?[^2] I know a good place.”
 
 “Oh, I really like makgeolli too.”
 
+[^2]: Makgeolli is a traditional Korean rice wine with a milky appearance and a mildly sweet, tangy flavor.
+
 Butler Kim, who had been quietly listening to us, smiled and continued.
 
-“Unfortunately, I think we’d better save that for our next Guild dinner. We have something more important to take care of today.”
+“Unfortunately, it would be better to go there for our next Guild dinner. We have something more important to take care of today.”
 
-Butler Kim might have been the Guild Master, but someone else made the decisions.
+The Guild Master was Butler Kim, but he wasn’t the one who made the decisions.
 
 With everyone’s eyes on him, Team Leader Choi opened his mouth.
 
@@ -178,15 +180,15 @@ It was the Peace Guild’s first raid.
 
 * * *
 
-The Great Cataclysm left humanity reeling in shock.
+Humanity was thrown into shock by the Great Cataclysm.
 
-Gates appeared without warning one day, and unknown creatures came pouring out of them.
+Gates began appearing without warning one day, and unidentified creatures poured out of them.
 
 “W-what is that?”
 
 “A monster! It’s a monster!”
 
-People might have been less shocked if aliens with thin limbs and oversized heads had invaded instead. But these creatures hadn’t arrived in spaceships, nor did they fire guns.
+If aliens with thin limbs and oversized heads had invaded, people might have been less surprised. But these creatures hadn’t come in spaceships, and they didn’t shoot guns.
 
 “Skreeee!”
 
@@ -210,13 +212,13 @@ Im Kkeokjeong answered proudly.
 
 A Minotaur was among the stronger monsters in the B-rank category. It had been roughly five hundred light-years away from me, an eternal F-rank Hunter.
 
-“That’s all right. This is your chance to see one.”
+“That’s all right. You can see one now.”
 
 “……”
 
 *Is a Gate a zoo? Are we going there just to sightsee?*
 
-Team Leader Choi answered breezily, as if this had nothing to do with him, and handed me a tablet.
+Team Leader Choi handed me a tablet, answering as breezily as if this had nothing to do with him.
 
 “Here.”
 
@@ -226,17 +228,17 @@ Team Leader Choi answered breezily, as if this had nothing to do with him, and h
 
 “Just give me the conclusion.”
 
-“I loaded some raid footage onto it. Watch.”
+“I put some raid footage on it. Watch.”
 
 He could’ve just said that from the start. Im Kkeokjeong and I put our heads together and watched the video stored on the tablet.
 
-“All right, stay calm. Stay calm. Especially the tanks! Keep those shields up. If they break through, everyone here is dead. Of course, I’ll kill you myself before that happens.”
+“All right, stay calm. Stay calm. Especially the tanks! Keep those shields up. If they break through, everyone here is dead. Of course, I’ll kill you before that happens.”
 
 “Yes, sir!”
 
 Around fifteen Hunters formed an orderly formation at the raid leader’s command. Every one of them was visibly tense.
 
-*Four tanks, melee and ranged damage dealers. They’ve even got a mage and a healer.*
+*Tanks, melee and ranged damage dealers. There’s a mage and even a healer.*
 
 Their teamwork seemed decent, and so did the team composition.
 
@@ -244,7 +246,7 @@ And then……
 
 *So that’s a Minotaur.*
 
-A B-rank monster I had only ever seen in monster encyclopedias appeared on the screen.
+A B-rank monster, something I had only ever seen in monster encyclopedias, appeared on the screen.
 
 “Moooooo!”
 
@@ -258,7 +260,7 @@ Their bellowing echoed through the cave. Rock dust shook loose and fell in littl
 
 “Ranged! Fire!”
 
-The raid leader screamed himself hoarse. At the same moment, around twenty mana-infused arrows struck the lead Minotaur in the head.
+The raid leader screamed himself hoarse. At the same time, around twenty arrows infused with mana struck the head of the lead Minotaur.
 
 Fwish-fwish-fwish!
 
@@ -282,23 +284,23 @@ They used the dead Minotaur’s corpse as a shield and charged straight ahead. A
 
 *These bastards……*
 
-They knew how to use their heads. They were at least as intelligent as goblins and dozens of times stronger.
+They knew how to use their heads. They were at least as intelligent as goblins, while being dozens of times stronger.
 
-That made them all the more dangerous.
+Which made them even more dangerous.
 
 “Hold!”
 
 “Urrrgh!”
 
-At the team leader’s shout, the tanks’ veins bulged. Their shields, covered in hazy mana, blocked the iron clubs carrying tremendous force.
+At the team leader’s shout, the veins stood out on the tanks’ arms and necks. Their shields, covered in hazy mana, blocked the iron clubs carrying tremendous force.
 
 Wham! Wham! Wham!
 
-A small shadow suddenly dropped out of the air between them. A stealth-type Hunter drove a black-painted dagger into another Minotaur’s eye, then vanished.
+A small shadow suddenly dropped from the air between them. A Hunter from the stealth category drove a blackened dagger into another Minotaur’s eye before disappearing.
 
 “Moooo……”
 
-B-rank monsters weren’t invincible. With support from the other melee damage dealers, archers, and mage, two more Minotaurs fell in the blink of an eye.
+B-rank monsters weren’t invincible. With the support of the other melee damage dealers, archers, and mage, two more Minotaurs fell in the blink of an eye.
 
 But the crisis came quickly.
 
@@ -312,7 +314,7 @@ Kra-koom!
 
 “Healer! Healer!”
 
-Screams and roars filled the cave. Through the billowing dust, I could see the cow-headed monsters tearing through the formation and swinging their iron clubs.
+Screams and roars filled the cave. Through the clouds of dust, I could see the cow-headed monsters tearing through the formation and swinging their iron clubs.
 
 “Moooooo!”
 
@@ -344,9 +346,9 @@ I handed the tablet back to Team Leader Choi and asked,
 
 “……”
 
-*Whoever named that Guild had one hell of a sense for names.*
+*Whoever named that Guild had some incredible naming sense.*
 
-Not that I had much room to talk as a member of the Peace Guild, but at least our name was better than Bucheon Terminal Guild.
+Not that I had any room to talk, considering I belonged to the Peace Guild, but at least our name was better than Bucheon Terminal Guild.
 
 “What was the result?”
 
@@ -360,13 +362,13 @@ Just as I did now.
 
 “I see.”
 
-That was all I could manage. I pulled out my smartphone and searched for the incident. Several related articles appeared.
+That was all I could say. I pulled out my smartphone and searched for it. Several related articles appeared.
 
 > **A Bucheon Guild: The Sacrifice Brought on by a Reckless Raid**
 >
 > On the sixteenth, C-rank Hunters identified as Mr. Lee and Mr. Park died in the B-rank Gate *The Minotaur’s Labyrinth*. The Hunter Association authorities……
 
-So the Hunters who died had been C-rank. That made sense. A small-to-medium Guild like that couldn’t possibly have enough talent to fill all fifteen or so spots on a raid team with B-rank Hunters.
+So the people who died had been C-rank Hunters. That made sense. A small-to-medium Guild like that couldn’t possibly have a talent pool large enough to fill a raid team of fifteen B-rank Hunters.
 
 *Then……*
 
@@ -397,5 +399,3 @@ I answered as casually as I could and turned away, but my thoughts were anything
 *This raid is dangerous.*
 
 [^1]: Haejangguk, literally “hangover soup,” is a Korean soup traditionally eaten after drinking to help ease a hangover.
-
-[^2]: Makgeolli is a traditional Korean rice wine with a milky appearance and a mildly sweet, tangy flavor.

@@ -1,0 +1,1108 @@
+# Master Edit Task — Chapter 79
+
+# Master Editorial Brief
+
+You are the final English-language editor of an existing Korean-to-English novel translation.
+
+The Korean source is the authority for meaning. The existing English is the baseline you are editing, not a draft to discard. Your task is to make the chapter read like professionally written native English commercial fiction while preserving the author's exact story, characterization, humor, register, pacing, ambiguity, and cultural texture.
+
+## Editorial authority
+
+You may freely recast sentences and paragraphs when the English is stiff, literal, repetitive for accidental reasons, awkwardly collocated, over-explained, or syntactically shaped by Korean. You may tighten dialogue, improve rhythm, repair transitions, and make action easier to follow. A technically correct sentence may still need rewriting if a fluent English novelist would not naturally phrase it that way.
+
+Do not change text merely to make it different. If the baseline is already strong, leave it alone.
+
+The accepted baseline is also the project's style and terminology anchor. Do not
+replace an established rendering, cultural term, System label, Markdown form, or
+recurring phrase with a synonym merely because the synonym sounds smoother.
+Make that change only when the Korean source, `RULES.md`, or the exact glossary
+requires it. In particular, do not turn a source-specific image into a nearby
+English image, or change a gold-spoon joke, item name, technique name, or UI
+label into a different expression without source support.
+
+## Fidelity constraints
+
+Never invent, omit, explain away, generalize, intensify, soften, or reinterpret source-supported content. In particular, preserve:
+
+- exact actions, subjects, objects, directionality, causality, quantities, and physical details;
+- deliberate ambiguity, euphemism, implication, profanity level, repetition, and withheld information;
+- jokes and comic specificity, even when a more generic English joke would sound smoother;
+- hierarchy, kinship, forms of address, characterization, and speaker attitude;
+- System mechanics, Murim concepts, names, ranks, techniques, items, organizations, and established terminology.
+- chapter-level logical consistency: interpret labels, counters, notifications, and repeated facts from how they behave across the scene, not from an isolated surface gloss;
+- idioms by their narrative function rather than their component words, and jokes with their setup, recognition, and punchline timing intact;
+- cross-sentence implications: do not create a claim that contradicts “again,” an increasing value, an earlier action, or the explanation immediately around it;
+- repeated terminology and formatting: once the baseline or glossary establishes a rendering, keep it consistent throughout the chapter unless the source clearly changes the sense;
+
+Do not add jokes, metaphors, explanations, emotional conclusions, or colorful details that are absent from the Korean. Do not replace a specific source image with a generic equivalent merely because the generic version is smoother.
+
+When natural English and literal form conflict, preserve the source meaning and pragmatic effect while changing the English form as much as necessary.
+
+Before returning the chapter, perform a silent continuity pass: trace every
+counter, quantity, repeated System label, item or technique name, joke setup and
+payoff, and physical cause-and-effect sequence from the Korean through the
+finished English. Correct any local sentence that contradicts the sequence.
+
+## Relationship to project files
+
+`RULES.md` is binding. `POLISH.md` describes known translation-English failure modes and should guide the edit. Exact glossary matches are binding unless the packet explicitly marks them otherwise. Character/continuity material is context only and must never override the chapter's Korean source.
+
+## Output
+
+Return only the complete edited English Markdown chapter. Preserve the required chapter heading and project Markdown conventions. Do not provide commentary, a change log, explanations, or a Markdown code fence.
+
+## Binding project rules
+
+# Translation Rules
+
+## Fidelity
+
+- Translate the Korean source—not the wiki, manhwa, fan translations, or expected plot.
+- Semantic fidelity outranks elegance. Never improve rhythm, humor, or localization by changing a physical action, negation, relationship, hierarchy, mechanism, quantity, or causal detail.
+- Preserve every fact, causal link, joke, emotional beat, repetition, and intentional omission. Add nothing.
+- Preserve small action verbs and pragmatic cues exactly: nodding versus shaking one's head, pretending nothing happened, and mild or approachable impressions are characterization, not expendable texture.
+- Preserve viewpoint and tense. Resolve omitted subjects only when context supports it; retain genuine ambiguity.
+- Match each speaker's hierarchy, intimacy, humor, and profanity naturally. Do not mechanically retain every honorific or classical self-reference.
+- Do not censor or soften content.
+
+## Terminology
+
+- `compendium.md` and `docs/NAMES.md` are binding for established names, titles, ranks, techniques, organizations, system terms, items, and locations. Profile headings and aliases join that ledger.
+- Search only exact Korean terms already present in the current chapter; the compendium contains future-sensitive entries.
+- Never re-romanize established names or invent grand names for uncertain terms. First use of an unlisted name or title almost always needs a footnote or a mapped ledger term.
+- Use `qi` for Murim energy and `mana` for the modern Hunter system when the source distinguishes them. Preserve an established chapter-specific rendering such as `internal energy` when the exact glossary and surrounding Korean distinguish accumulated `공력` from resulting `기운`.
+- In System panels, render `등급` as `**Grade:**` for quest, item, skill, and martial-art classifications. Reserve `rank` for Hunter classifications or ordinary prose; never replace a System `Grade` field with `Rank`.
+
+## English and Markdown
+
+- Use contemporary US English and natural action-comedy prose; avoid Korean syntax calques and generic cultivation MTL phrasing.
+- File: `translations/NNNN.md`; heading: `# Chapter N`.
+- Speech: curly double quotes. Direct thoughts: italics without quotes.
+- Use em dashes without spaces, the ellipsis character `…`, and `* * *` for source scene breaks.
+- Format each actual game System-message panel as one Markdown blockquote window headed `> **System**`. Keep all consecutive notices, fields, and lines inside that same blockquote; separate windows when prose intervenes. Do not enclose System notices or UI terms in square brackets; the `System` heading and framed blockquote identify the panel. Do not label manuals, ordinary quotations, warnings printed in a manual, or other non-System material as `System`; use a normal blockquote or a specific heading instead. Do not wrap each complete notice in outer `**`; retain bold only for meaningful labels or emphasis inside the panel.
+- Keep the final file English-only reading copy: no audit notes, Korean text, summaries, or model metadata.
+
+### Tone and Style
+
+- Write like a polished commercial webnovel: brisk, vivid, accessible, and easy to read aloud.
+- Preserve the series’ contrast between danger and comedy. Let absurdity, bad timing, blunt reactions, and grim situations create dark humor without adding jokes absent from the Korean.
+- Jin Taekyung’s narration is conversational, observant, self-mocking, and occasionally profane. It may be irreverent even when the situation is serious.
+- Keep deadpan punchlines short and well-timed. Do not explain a joke after delivering it.
+- Preserve the source's level of explicitness. A euphemism may remain euphemistic even when its meaning is sexual or crude; do not replace it with more graphic English merely for impact.
+- Make dialogue spontaneous and character-specific. Preserve hierarchy and intimacy through word choice, address, rhythm, and restraint—not archaic wuxia English.
+- Use strong profanity when the Korean is strong, but neither intensify nor sanitize it. Do not make ordinary lines uniformly vulgar. Profanity should reveal mood or relationship.
+- Keep action and injury vivid but clear rather than purple. Do not make violence funny unless the source’s framing does.
+- Avoid stiff literalism, translator-added melodrama, dated internet slang, and quippy superhero-style banter.
+- On the second pass, correct awkward English collocations and word choices without changing meaning or voice. Prefer ordinary, spoken English over stiff Latinate or ceremonial wording when the scene is brisk or comic: “goose bumps” rather than “gooseflesh,” and “laid into them” rather than “launched into a solemn denunciation.” Read the prose aloud and replace any phrase that sounds like a formal essay, legal document, or literal dictionary gloss unless the source deliberately calls for that register.
+
+## Footnotes
+
+Use `[^1]` Markdown footnotes when a brief, factual, spoiler-free explanation materially helps an English reader understand:
+
+- a Korean institution, living arrangement, food, holiday, myth, historical reference, or local custom;
+- a Korean word, phrase, idiom, wordplay, or culturally specific image that cannot be conveyed fully by the best natural English analogy;
+- a deliberately literal rendering whose cultural or linguistic force would otherwise be lost.
+
+For example, render `고시원` as “goshiwon” when the setting or connotations matter, with a concise footnote explaining that it is a very small, inexpensive room-for-rent housing arrangement. Prefer the best natural English analogy in the prose. Use a literal translation plus a concise footnote when the Korean wording itself matters. Define a term at its first meaningful occurrence and do not repeat the note unnecessarily. Footnotes must be rare, useful, and non-spoiling; do not footnote ordinary vocabulary, fully preserved jokes, or uncertainty. Record consequential uncertainty in `docs/STATE.md`.
+
+## Spoilers and Scope
+
+- Safe profiles contain only facts revealed through the latest completed chapter.
+- Never read `characters/spoilers/` during drafting. Reviewers may consult one relevant sealed profile only for a specific unresolved continuity issue after the draft is complete.
+- Future knowledge may prevent contradiction but may not add early names, pronouns, certainty, motives, or foreshadowing.
+- Translate exactly one requested chapter unless the user explicitly requests a batch. Never modify Korean source files under `source/`.
+
+## Project polish guidance
+
+# Polish Brief — Murim Login
+
+## Goal
+Make the English natural and fluent without changing meaning, pacing, humor, character voice, System terminology, or Korean/Murim cultural content.
+
+**Core rule:** Translate the thought, not the Korean sentence structure. If meaning, idiom, or cultural context is unclear, always check the original Korean source before editing.
+
+## Priorities
+1. Rewrite literal or calqued English, awkward collocations, and cumbersome sentence structures.
+2. Normalize tense and aspect; prefer natural English information order.
+3. Replace mechanical body-part descriptions with character-centered actions where appropriate.
+4. Preserve repetition when it serves comedy, panic, emphasis, pacing, or characterization.
+5. Keep Taekyung’s voice contemporary, casual, blunt, sarcastic, gamer-aware, and syntactically simple.
+6. Standardize System terminology, capitalization, hyphenation, names, and romanization.
+
+## Typical repairs
+Recast the whole phrase rather than editing word by word:
+
+- “True to my words, he hadn’t looked inside.” → “Just as I’d said, he hadn’t even looked inside.”
+- “The pronunciation was perfectly Korean.” → “She was speaking perfect Korean.”
+- “I scanned the Status Window with a hawk’s eye.” → “I scrutinized the Status Window.”
+- “The joy I’d felt that day threw me into confusion now.” → “Remembering how happy I’d been that day only made me more confused.”
+- “Wolhwa held out her hands. Both spotless hands held a bowl…” → “Wolhwa held out a bowl of water in both hands.”
+- “This character is totally born with a silver spoon…” → “This guy really was born with a silver spoon…”
+- “Jinho pronounced it with the solemnity of a judge.” → “Jinho delivered the verdict with the solemnity of a judge.”
+- “The most common among them is the weak monster even an F-rank Hunter like me can handle: the goblin.” → “The weakest and most common of them were goblins—even an F-rank Hunter like me could handle one.”
+- “For a moment, silence flowed between us as we stared at each other.” → “For a moment, we stared at each other in silence.”
+- “I thrust out my fist on reflex, forcing the words through my clenched voice.” → “I lashed out on reflex, forcing the words through clenched teeth.”
+- “You could say they’re a deeply rooted old tree.” → “You could say they’re one of the region’s old, deeply rooted powers.”
+- “I blinked. It felt like I’d been hit in the back of the head.” → “I blinked. I felt completely blindsided.”
+- “But there were no take-backs. I’d just have to spit and move on.” → “But there were no take-backs. I’d just have to suck it up and move on.”
+- “This time, a different kind of ecstasy swept over me than when I’d used the Status Window. Maybe it was pain.” → “This time, what swept through me was nothing like the exhilaration I’d felt from the Status Window. If anything, it was pain.”
+
+Watch for abstractions or body parts acting unnaturally: “X feeling came over my body,” “X thought entered my mind,” “my eyes stopped at X,” and “X emotion threw me into Y.”
+
+## Idioms and cultural phrasing
+Translate idioms by function, but verify the Korean source before changing meaning. If “put up a whole building” means wealth or ownership, use “buy a whole building”; if the Korean literally means construction, retain that meaning. Keep useful terms such as **goshiwon**, **doenjang**, and **jeonse**, and naturalize the surrounding English.
+
+## System style
+Use formal capitalization in System/UI text and normal English in prose.
+
+- UI occupation: `Third Rate Martial Artist`
+- Prose: `third-rate martial artist`
+- Interfaces: `Status Window`, `Skill Window`
+- System classification field: `**Grade:**`; use `rank` only for Hunter classifications or ordinary prose.
+- Formal UI values use title case (`Third Rate Martial Artist`); ordinary prose uses lowercase hyphenated forms (`a third-rate martial artist`).
+- Preserve exact objective/completion terminology across a quest. In this arc, use `Check and Distribute Skill Window Points` in both places; use `Redistribute` only when previously assigned points are actually being reallocated.
+- Use the established terminology sheet; resolve inconsistencies according to the Korean source.
+- Use one consistent romanization style, including tone marks in Chinese pinyin (`Tài lěng le`, `Zhōngguó rén ma?`). Check the original before changing an unmarked form: `Shenme` remains unmarked here because the spelling supports Taekyung’s “Ms. Sunmi” mishearing joke.
+- For Murim metaphors and idioms, check the Korean before rewriting. Preserve the image when it carries meaning, but render its function in natural English; do not retain calques such as “silence flowed” or “spit and move on” without a source-based reason.
+
+## Passes
+1. Native-English pass: remove calques, awkward structure, collocations, and tense problems.
+2. Voice pass: preserve casual, blunt character voice and spoken dialogue.
+3. Terminology pass: standardize System terms, ranks, capitalization, names, and romanization.
+4. Source-check pass: verify idioms, jokes, metaphors, and cultural details against the original Korean.
+
+**Final test:** Would a native English writer naturally phrase this sentence this way in context, while preserving what the Korean says?
+
+## Output contract
+Return only the complete English Markdown reading copy. The first nonblank line
+must be `# Chapter N`. Do not prefix a status sentence, tool note, or thinking.
+
+## Exact glossary matches for this Korean chapter
+
+| 김화종    | **Kim Hwajong**   |
+| 최민우    | **Choi Minwoo**   |
+| 송송이    | **Song Song**     |
+| 살기     | **killing intent**                               |                                                       |
+| 운기조식   | **circulate one's qi**                           | Usually better as a verb than a proper-name technique |
+| 상태               | **Status**                     |
+| 레벨               | **Level**                      |
+| 지능               | **Intelligence**               |
+| 헌터      | **Hunter**            |
+| 게이트     | **Gate**              |
+| 몬스터     | **monster**           |
+| 레이드     | **raid**              |
+| 길드      | **Guild**             |
+| 길드장     | **Guild Master**      |
+| 팀장      | **Team Leader**       |
+| 탱커      | **tank**              |
+| 힐러      | **healer**            |
+| 마법사     | **mage**              |
+| 마정석     | **Magic Gem**         |
+| 대격변     | **Great Cataclysm**   |
+| 임꺽정 | **Im Kkeokjeong** |
+| 평화 | **Peace Guild** | Guild name. |
+| 부천 | **Bucheon** | City with a dense concentration of Gates and Guild headquarters. |
+| 임혁준 | **Im Hyeokjun** | Im Kkeokjeong's personal name, shown in the System Level window. |
+| 미노타우로스 | **Minotaur** | B-rank monster species. |
+| 기감 | **Qi Sense** | Taekyung's sensory technique; its range reaches seventy meters in this chapter. |
+| 아가씨 | **Young Lady** | Former address used for Lee Seowol before she demands the title Sect Leader. |
+| 송이 | **Song-i** | Short form used for Song Song; Taekyung's love interest. |
+| 세가 | **great family** | Murim category Jin Wikyung hopes the Jin Family will attain. |
+
+## Matched address pairs
+
+| Speaker | Addressee | Kinship | Normal address | Speech level | Notes |
+| ------- | --------- | ------- | -------------- | ------------ | ----- |
+| 송송이 | 임꺽정 | younger_guild_member_to_older_guild_member | Uncle | casual-polite | Song Song uses 아저씨 while asking Im Kkeokjeong to agree that Changsoo is nasty. |
+
+## Matched risk notes
+
+| Korean | Category | Constraint | Forbidden English |
+| ------ | -------- | ---------- | ----------------- |
+| 형 | kinship | Junior-to-senior kinship/address. Casual speech often retains hyung; do not flatten every 형 to “brother.” | |
+| 마나 | murim_vs_hunter | Modern Hunter-system energy is mana when the source distinguishes it from Murim qi. | |
+
+## Chapter-safe character profiles
+
+(No chapter-safe profiles available. This is expected for early retrospective chapters.)
+
+## Chapter-safe bounded continuity
+
+### Latest prior summary
+
+# Chapters 70–74
+
+## Plot
+
+Jin Taekyung endures Jin Mukyung’s brutal training, repeatedly losing consciousness but steadily demonstrating exceptional spear instincts and rapid growth. Mukyung teaches him through real combat, exposing Taekyung’s reliance on luck and forcing him to develop caution, physical conditioning, and the ability to read an opponent’s intent. After ten days, Taekyung masters the Jin Family’s Spear Technique and Manoeuvre Technique, earns the Martial Arts Manual Creation Skill, gains substantial Stats and Levels, and receives Mukyung’s recognition. The Training? Trial! Quest is completed, placing its Reward in his Inventory and promising an additional Reward.
+
+Jin Wikyung assigns the brothers to visit the Mount Heng Sword Sect at the request of its new Sect Leader, Lee Seowol. The System forcibly creates the First Rate Quest [Yesterday’s Enemy, Today’s Ally], requiring Taekyung to deliver the Jin Family’s New Year’s Day invitation to the sect. Mukyung accepts because Seowol may reveal some of Mount Heng’s Peak martial arts. Taekyung, Mukyung, and the injured Hyuk Mujin depart for Eung-hyeon in a four-horse carriage, while Taekyung prepares to log out during the journey.
+
+## Continuity
+
+- Taekyung has mastered the Jin Family’s Spear Technique and Manoeuvre Technique and possesses First Stage Martial Arts Manual Creation, currently usable for those two arts.
+- Mukyung’s final spar ended with Sword Energy cutting Taekyung’s uniform without injuring him; Mukyung recognized Taekyung’s progress and declared training complete.
+- The Training? Trial! Quest succeeded. Taekyung received a Level Up, has its completion Reward in his Inventory, and was notified of an additional Reward.
+- Lee Seowol is the new female Sect Leader of the Mount Heng Sword Sect, Lee Cheonbaek’s third child, and the younger sister of the deceased Young Sect Leader and Lee Seogeun.
+- [Yesterday’s Enemy, Today’s Ally] remains incomplete. Its objective is to deliver Jin Wikyung’s invitation for the coming New Year’s Day; its Reward is unknown and its Failure penalty is None.
+- Taekyung, Mukyung, and Hyuk Mujin are traveling to Eung-hyeon, expected to arrive in approximately three days. The regular attendants and coachman were dismissed, and Mujin remains because he obeys Taekyung as squad leader.
+- Hyuk Mujin is still badly injured and under treatment. The assassin’s identity and sponsor remain unknown, as does any connection to Song Sword Sect.
+- Jin Wikyung still intends to summon Shanxi’s sects on New Year’s Day and may seek the Alliance Leader position.
+- Taekyung’s prior relationship with Lee Seowol and the missing details of his memories remain unclear. Whether he can complete the new Quest and successfully log out is unresolved.
+
+## Translation Decisions
+
+- Retain established terminology: **First Rate**, **Peak**, **Sword Energy**, **Martial Arts Manual Creation**, **Quest**, **Reward**, **New Year’s Day**, **Alliance Leader**, **Hyung-nim**, **four-horse carriage**, and **Eung-hyeon**.
+- Render [昨日之敵 今日之友]’s Quest title as **[Yesterday’s Enemy, Today’s Ally]**.
+
+### Prior accepted reading-copy tails
+
+#### Chapter 77 tail (verified mastered)
+
+…
+mouth. Fireworks start going off in your head!” I added one more point in a dignified tone. “I'm a Taurus.” “That’s right! A Taurus man grills meat well, and he’s pure-hearted, honest, and so steadfast…” Crack. Team Leader Choi set down the broken wooden chopsticks and muttered, “I'm sorry. I couldn't control my strength.” “Here.” As if she had been waiting for that moment, Song Song handed him a fresh pair of chopsticks. My heart sank. I hated to admit it, but the beautiful woman and the handsome man looked perfect together. *No way. It can’t be.* I tried to deny it, but my heart felt heavy. With a gloomy expression, I placed the meat on the grill. Sizzle. What kind of relationship did Song Song have with Team Leader Choi? Sizzle. It was obvious they had known each other for a long time. She wouldn’t be a founding member of the Guild otherwise. Sizzle. Come to think of it, that bastard Team Leader Choi was suspicious. He’d been interrupting our conversation from the start. And why had he snapped a perfectly good pair of chopsticks and ruined the mood? Sizzle. A B-rank Hunter claiming he couldn’t control his strength? What kind of bullshit excuse was that? Was he showing off how strong he was in front of Song Song? I could tie metal chopsticks into a knot too… “Excuse me.” I looked up with a start. Eyes as clear as a lake were staring straight at me. “It’s burning.” “Yes, yes?” “The meat. It’s burning.” “Gasp!” Sizzle-sizzle-sizzle. I hurriedly flipped the meat, but it was already too late. “I’ll do it.” “No. I will.” “Come to think of it, since you're here for the first time today, it's only right that I grill the meat and serve you.” My God. She wasn’t just an angel on the outside. *Oh, Miss Song. You’re an ethics textbook.*[^2] [^2]: Taekyung substitutes “ethics textbook” into a Korean phrase meaning “what on earth are you?” I fell for her nature, gentle as silk, all over again. Slice. Slice. Sizzle. After taking the tongs from me, she grilled and cut the meat with practiced skill. I watched her in a daze. *She even looks beautiful grilling meat.* Her hair was loosely twisted into a bun, and her slender, pale hands moved busily. Every movement seemed to shine. “Hmm.” How much time had passed? She had been watching the meat carefully when she spoke. “It’s done. Could you hand me a plate?” “Yes, ma’am.” She neatly placed the fully cooked meat into a disposable container. I had noticed it earlier, but this was clearly not something she had done only once or twice. “You must’ve done this a lot.” “Yes.” “Did you work part-time at a barbecue restaurant?” “Yes.” “Wow. For how long?” “Two years.” “Wow, when?” “When I was in high school.” “Huh. Not many kids had part-time jobs back then.” “Oh, yes.” *What am I going to do? Even her resourcefulness is exactly my type.* Her answers seemed strangely short, but that had to be my imagination. I kept showering her with enthusiastic little responses to keep the conversation going. *The conversation itself is going smoothly.* Jinho hyung had said that if you wanted someone to like you, you had to start by finding common ground. I launched into my story with enthusiasm. “We're pretty similar. I used to work two or even three shifts in a day. One day, after I finished work and came home…” “Oh, yes. But, um…” “Yes?” “You seem a little close. The grill is still hot…” Without realizing it, I had leaned my entire body toward Song Song. “It's fine. I'll just get a little burned. Hahaha!” “You should still be careful.” “I’m really fine. You don’t have to worry.” “……” Song Song’s expression seemed strangely dark. *Could it be…?* *Is she worried I might get hurt?* I was stunned. She was thinking about me this much even though we had only met today. And then I knew for certain. She was interested in me, too. Jinho hyung’s voice reached me from somewhere, like an auditory hallucination. *Do you know what the most important virtue is when it comes to becoming a couple? Courage.* *Taekyung, remember this. A man with courage wins the beauty.* *Hyung, I think I finally understand. And thank you.* *That's right. Let's be brave.* I stared at her, my heart trembling. What I was about to say was something I had never once said in all twenty-seven years of my life. “Miss Song. Starting today, you and I are on day one…” At that moment, Team Leader Choi shot to his feet and shouted. “Day one! Today is Hunter Jin Taekyung’s first day as a member of our Guild family! Butler Kim?” “Yes, Young Master! The soju is ready!” The usually unhurried Butler Kim filled the shot glasses at lightning speed. Glug-glug-glug! Not a gentle trickle—it was pouring full blast. Half of it spilled, and the other half was poured in with brute force. The sight left me speechless, but there was something I absolutely had to say. “Miss Song. Let me say it again. You and I…” Team Leader Choi raised his glass high. “To our Guild!” “Miss Song. Ignore them and listen to me.” Song Song answered. “To our Guild!” “……” She didn’t hear me, right? Yeah. She couldn’t have heard me.
+
+#### Chapter 78 tail (verified mastered)
+
+…
+up. “Oh, the burner went out. Miss Song, do we have another gas canister?” “Hic. That was the last one.” “Aw, we can’t let the momentum die. Should we just eat it?” Im Kkeokjeong grumbled as he flipped a piece of meat that was still mostly raw. Butler Kim smiled gently at him. “That won’t do.” The next moment, two things happened at once. Snap! Butler Kim snapped his fingers. Fwoosh! A wave of scorching heat burst forth. Blue flames surged precisely up over the grill, heating the plate and cooking the meat in an instant before vanishing. “This is…” Im Kkeokjeong and I shouted at the same time. “A mage!” “It’s cooked incredibly well!” “……” “What? Taekyung, hurry up and eat.” *Forget it, old man.* I shook my head back and forth. More importantly, who would’ve guessed Butler Kim was a mage? No wonder something about him had always felt strange. “You really had me fooled.” Butler Kim picked up a well-cooked piece of meat. “I had no intention of fooling you. As I told you, I’m already a retired has-been.” *Has-been, my ass.* If Butler Kim was a has-been, half the mages still active today ought to bow their damn heads. *At least B-rank.* He could summon flames with a single snap of his fingers and control them precisely enough to cook the meat just right without burning or undercooking it. Judging from the circumstances, he had probably belonged to the Ares Guild as well before retiring. If he had been active during the Great Cataclysm, too… *……This guy’s a big shot.* On top of that, he was an incredibly senior one. I asked cautiously, “Um, which Hunter training center did you graduate from?” “Nonsan.[^1] What about you, Mr. Taekyung?” “Gasp. Me too. The 28th Regiment, 1st Battalion.” “Really? What a coincidence. I was in the 28th Regiment, 1st Battalion too. Which company were you in?” “Second Company.” “Then perhaps it isn’t a coincidence but fate. Ha-ha.” There was nothing more to discuss. I rose from my seat and bowed deeply at the waist. “Nice to meet you, Senior.” [^1]: Nonsan is home to Korea’s main Army recruit training center. There’s a saying in Korea about school ties, regional ties, and blood ties.[^2] Hunters were no different. The chance of awakening was 0.1 percent—one in a thousand. With odds that slim, it was rare for anyone you knew from ordinary life to awaken. The Hunter training center might not seem like much, but it was where a Hunter’s network began. “You don’t have to go this far. Please, sit down.” “You can speak casually with me.” “I don’t really stand on ceremony…” Just as Butler Kim and I were creating a warm atmosphere between Senior and junior, Team Leader Choi, who had been watching quietly, suddenly cut in. “Butler Kim. Why don’t you do as Mr. Jin Taekyung says?” *What an ill-mannered bastard. How dare he tell such a distinguished Senior what to do…* *Hmm. I guess he can.* Come to think of it, Team Leader Choi was the bigger shot. He employed a former Ares Guild mage as his butler. *What kind of family does he come from?* Was his grandfather the president and his father the prime minister? As my curiosity continued to grow, Team Leader Choi went on. “I think it’s time we sorted out everyone’s forms of address. You’re the face of our Guild, after all. We can’t keep calling you Butler Kim or Uncle forever, can we?” Butler Kim considered it for a moment before answering. “I’ll follow the Young Master’s wishes.” Team Leader Choi nodded and swept a stern gaze over everyone present. “Then from now on, we’ll all address Butler Kim as Guild Master. No objections, correct?” Im Kkeokjeong and Miss Song answered. “Man, this meat is incredible. Is it because it was grilled with magic?” “The booze is going in. Booze! Down it goes, down it goes!” “……” Team Leader Choi gazed at the two of them with regret before turning his eyes toward me. I had raised one arm conspicuously. “What does that mean?” “I have a question.” *At least this guy is a little better.* Team Leader Choi spoke with an expression that seemed to say as much. “Go ahead.” “Wasn’t Team Leader Choi the Guild Master?” “……” Looking as if he had been betrayed, Team Leader Choi pulled something from inside his coat and handed it to me. I took it and examined it. It was a business card. “I have this.” “What does it say?” “Choi Minwoo, Team Leader of Team 1, Peace Guild.” “Yes. I’m the Team Leader.” “Oh.” “Butler Kim is the Guild Master. I’m the Team Leader. The other three are team members. Do you understand now?” I didn’t know whether Butler Kim was a boss in name only or a public figurehead, but I nodded anyway. If I didn’t, Team Leader Choi looked like he might cry. “Did everyone else understand?” At Team Leader Choi’s question, Im Kkeokjeong and Miss Song answered. “Wow, even the liquor tastes amazing. Is it because we’ve got magically grilled meat to go with it?” “How long are you going to make me do the shoulder dance? It’s dislocated! Dislocated! Dislocated!” “……” *Hey, are you crying?* [^2]: School ties, regional ties, and blood ties are traditionally regarded in Korea as major sources of social connections and influence.
+
+## Korean source
+
+```text
+＃79화
+
+
+
+나는 은은한 두통과 함께 눈을 떴다. 주위를 둘러보니 낯선 공간이다. 널찍하고 깨끗한 호텔 방.
+
+그제야 간밤의 기억이 새록새록 떠올랐다.
+
+‘아, 맞다. 2차로 호텔 가서 샴페인 파티 했지.’
+
+세상에, 호텔에서 샴페인 파티라니.
+
+이렇게 말하니까 무슨 재벌 3세가 된 기분이다. 아니, 최 팀장 정도면 진짜 재벌 3세일 수도 있겠다.
+
+“크허어어업. 크헙!”
+
+“…….”
+
+저 아저씨는 진짜 산적이고.
+
+무슨 코골이가 소리 지르는 것 같냐. 진호 형도 한 코골이 하는데 저 양반 앞에서는 음소거 수준이다.
+
+내가 호텔 지배인이면 진작 내쫓았을…….
+
+똑똑.
+
+“누구세요?”
+
+순간 강제 퇴실을 통보하러 온 호텔 직원인가 싶었지만 아니었다. 문 너머로 맑고 시원시원한 목소리가 들려왔다.
+
+“저예요. 송송이.”
+
+잠깐만. 누구?
+
+“자, 잠시만요!”
+
+나는 빛의 속도로 뛰어가 문을 열었다. 그전에 룸에 비치된 향수를 뿌리고 옷매무새를 점검하는 것도 잊지 않았다.
+
+달칵.
+
+나를 물끄러미 쳐다보는 송이 씨의 호수 같은 눈동자에 가슴이 쿵쾅거린다. 간신히 떨리는 목소리를 끄집어냈다.
+
+“아, 안녕히 주무셨어요?”
+
+“아니요. 코 고는 소리 때문에 잠을 설쳐서.”
+
+“아.”
+
+시작부터 좋지 않다. 나는 지금도 맹렬하게 코골이 중인 임꺽정을 원망하며 화제를 돌렸다.
+
+“그런데 어쩐 일로 오셨어요?”
+
+“아침 먹을 시간이잖아요.”
+
+“……식사 말입니까?”
+
+송이 씨가 뭐 잘못됐냐는 눈빛으로 말했다.
+
+“네. 왜요?”
+
+왜긴. 좋아서 그러지.
+
+살다 살다 여자랑 단둘이 아침을 먹는 날이 올 줄이야. 심지어 그 여자가 내 이상형이기까지 하다. 왠지 안구가 촉촉해져 오는 것만 같다.
+
+‘드디어 내 사막 같은 인생에 오아시스가 찾아왔구나.’
+
+그녀와 함께라면 아침으로 전투식량을 먹어도 상관없다. 나는 결연하게 대답했다.
+
+“지금 당장 준비하겠습니다.”
+
+“그럼 꺽정 아저씨부터 깨워 줄래요?”
+
+“……꺽정 형님은 왜요?”
+
+“톡 안 보셨어요?”
+
+송이 씨가 자신의 스마트폰을 내밀었다.
+
+화면에는 지난밤 만들었던 길드 단체 채팅방이 띄워져 있었다.
+
+
+
+〈 평화 길드
+
+
+
+최 팀장님
+
+다들 일어나셨습니까?
+
+김 집사님
+
+전 일어났습니다.
+
+송송이
+
+저도 일어났어요.
+
+최 팀장님
+
+다른 두 분은요?
+
+송송이
+
+코 고는 중.
+
+최 팀장님
+
+……깨워서 1층 레스토랑으로 와 주세요.
+
+
+
+“…….”
+
+젠장. 좋다 말았네. 내 인생이 이렇지 뭐.
+
+시무룩해진 나를 두고 송이 씨가 돌아섰다.
+
+“그럼 전 먼저 내려갈게요.”
+
+나는 사뿐거리는 발걸음으로 떠나는 그녀의 뒷모습을 하염없이 바라보았다.
+
+“뒷모습도 예쁘네.”
+
+“크헙, 크허어어업!”
+
+“…….”
+
+저 아저씨 진짜 산적 출신 아니야?
+
+
+
+* * *
+
+
+
+임꺽정을 겨우 깨워서 1층으로 내려갔다.
+
+창가 자리에 앉아 있던 최 팀장이 손을 흔들어 알은척했다.
+
+“미리 시켰습니다. 식기 전에 드세요.”
+
+호텔 조식이라고 해서 양도 더럽게 적은 파스타 같은 게 나오진 않을까 생각했는데, 테이블에 올라온 것은 뜨끈한 해장국이었다.
+
+“크, 역시 최 팀장!”
+
+“팀장님이 뭘 좀 아시네요.”
+
+아직 숙취가 남아 있었는데 해장국 한 그릇이면 운기조식도 필요 없겠다.
+
+나와 임꺽정의 반응에 최 팀장이 고개를 저었다.
+
+“송이 씨가 시킨 겁니다. 전 파스타 먹고 싶었는데.”
+
+“송이 씨가요?”
+
+“네.”
+
+표정이 어두운 걸 보니 어지간히 먹고 싶었나 보다.
+
+그나저나 송이 씨가 해장국이라니. 외모만 보면 애지중지 자란 부잣집 아가씨 같은데 어제 보여 준 모습도 그렇고, 의외로 털털한 구석이 있다.
+
+후루룩.
+
+“크으, 좋다. 다들 뭐 해요? 국물 뜨끈할 때 먹어야죠.”
+
+야무지게 해장국을 먹는 송이 씨를 보고 있자니 가슴 한구석이 뜨끈해진다. 먹는 것도 참 복스럽다.
+
+‘보기만 해도 배가 부르다는 게 이런 거였구나.’
+
+그렇게 밥이 코로 들어가는지, 입으로 들어가는지도 헷갈리는 상태에서 식사가 마무리됐다. 나를 뺀 다른 사람들이 포만감에 늘어져 있을 때 최 팀장이 말했다.
+
+“식사도 했으니 이제 자리를 옮길까요?”
+
+뭐야, 이제 집 가서 쉬는 분위기 아니었어?
+
+“무슨 자리요?”
+
+내 말에 임꺽정이 빵빵한 배를 두드리며 끼어들었다.
+
+“어디긴, 어제에 이어서 또 달려야지. 오늘은 막걸리 어때? 내가 잘하는 집 알아.”
+
+“아, 저도 막걸리 참 좋아하는데.”
+
+우리의 대화를 가만히 듣고 있던 김 집사가 빙긋 웃으며 말을 이었다.
+
+“아쉽지만 거긴 다음 회식 때 가는 게 좋겠습니다. 오늘은 더 중요한 일이 있으니까요.”
+
+길드장은 김 집사지만 결정을 내리는 사람은 따로 있다.
+
+사람들의 시선 속에서 최 팀장이 입을 열었다.
+
+“먹고 마시고 쉬었으니 이제 일해야죠.”
+
+평화 길드의 첫 레이드다.
+
+
+
+* * *
+
+
+
+대격변을 맞이한 인류는 경악했다.
+
+어느 날 예고 없이 생성된 게이트, 그리고 그곳에서 쏟아지는 정체불명의 생물체들.
+
+- 저, 저게 뭐야?
+
+- 괴물, 괴물이다!
+
+차라리 팔다리가 가늘고 머리가 큰 외계인이 쳐들어왔다면 덜 놀랐을 거다. 그러나 놈들은 우주선을 타고 오지도, 총을 쏘지도 않았다.
+
+- 취이이익!
+
+- 카룩! 크루루룩!
+
+끔찍한 악취와 살기로 번들거리는 눈. 인간을 종잇장처럼 찢어 죽이는 괴물들이 도시를 휩쓸고 불태웠다.
+
+소설에서, 영화에서, 혹은 신화 속에서나 나올 법한 괴물들.
+
+미노타우로스(Minotaurus)도 그중 하나였다……고 역사 시간에 배웠다.
+
+“미노타우로스 아시죠?”
+
+최 팀장의 물음에 임꺽정이 자랑스럽게 대답했다.
+
+“그럼. 나 초등학생 때 그리스 로마 신화 만화로 봤지. 되게 멋있었는데, 근육 빵빵하고.”
+
+“……태경 씨는요?”
+
+“구경도 못 해 봤는데요.”
+
+미노타우로스는 B급 몬스터 중에서도 제법 상위에 속하는 놈이다. 만년 F급이었던 나와는 오백 광년쯤 거리가 있었지.
+
+“괜찮습니다. 이참에 구경해 보면 되죠.”
+
+“…….”
+
+게이트가 무슨 동물원이야? 가서 구경만 하게?
+
+자기 일 아니라고 시원하게 대꾸한 최 팀장이 태블릿을 건넸다.
+
+“자요.”
+
+“이게 뭡니까?”
+
+“C급 마정석으로 작동하는 차세대 태블릿입니다. 유려한 디자인과 뛰어난 성능으로 소수의 VIP에게만 한정 판매 되는…….”
+
+“결론만.”
+
+“레이드 영상 넣어 놨습니다. 보세요.”
+
+진작 그렇게 말할 것이지. 나와 임꺽정은 머리를 맞대고 태블릿에 저장된 영상을 감상했다.
+
+- 자, 차분하게 해. 차분하게. 특히 탱커들! 실드 바짝 들어라. 이거 뚫리면 여기 있는 사람들 다 뒈진다. 물론 그전에 너흰 나한테 뒈지고.
+
+- 옙!
+
+열댓 명의 헌터들이 레이드 팀장의 지시에 따라 일사불란하게 대형을 갖춘다. 다들 긴장한 기색이 역력하다.
+
+‘탱커 넷에 근거리, 원거리 딜러들. 마법사도 있고 힐러까지.’
+
+팀웍도 괜찮고, 팀 구성도 괜찮다.
+
+그리고…….
+
+‘저게 미노타우로스군.’
+
+몬스터 백과사전에서나 보던 B급 몬스터가 모습을 드러냈다.
+
+- 음모오오.
+
+소의 머리에 인간의 몸. 반인반수(半人半獸)의 미노타우로스 일곱 마리가 침입자들을 향해 다가간다.
+
+아니, 돌격했다.
+
+- 모오오오오!
+
+놈들이 울부짖는 소리가 동굴을 울렸다. 떨림 때문에 투두둑 떨어지는 돌가루 아래, 전투가 시작됐다.
+
+- 원거리! 쏴!
+
+레이드 팀장이 목이 터져라 외쳤다. 동시에 마나를 머금은 이십여 발의 화살이 선두에 선 미노타우로스의 머리에 꽂혔다.
+
+퓨퓨퓩!
+
+광범위한 공격 대신 한 놈에게 일점사를 가한 것은 좋은 선택이었다. 특히 머리를 정확히 노리고 쏜 것이 주효했다.
+
+제아무리 B급 몬스터라 한들 눈동자까지 강화할 수는 없으니까.
+
+- 모오오!
+
+제 얼굴을 할퀴며 괴로워하던 놈의 최후를 장식한 것은 뒤따르던 동료들이었다.
+
+퍼걱!
+
+거무튀튀한 쇠몽둥이가 소 대가리를 터트렸다. 그리고.
+
+쿵쿵쿵!
+
+‘허.’
+
+죽은 놈의 시체를 방패로 삼고 그대로 내달린다. 화살이며 마법이 날아들었지만 시체만 걸레짝으로 만들 뿐, 뒤에 숨은 미노타우로스들은 멀쩡했다.
+
+‘이놈들…….’
+
+제법 머리를 쓸 줄 안다. 최소한 고블린만큼 지능이 뛰어나고, 고블린보다는 수십 배 강한 놈들이다.
+
+그래서 더 위험하다.
+
+- 버텨!
+
+- 으하압!
+
+팀장의 외침에 탱커들의 핏줄이 불뚝 섰다. 희뿌연 마나가 어린 방패로 거력이 담긴 쇠몽둥이를 막아 낸다.
+
+퍼버벅!
+
+그 사이로 자그마한 그림자 하나가 허공에서 뚝 떨어졌다. ‘은신’ 계열의 헌터인 그는 또 다른 미노타우로스의 눈알에 검게 칠한 단검을 쑤셔 박고 사라졌다.
+
+- 모오오…….
+
+B급 몬스터는 무적이 아니다. 다른 근접 딜러들과 궁수, 마법사의 원조까지 더해지니 눈 깜짝할 사이에 두 마리가 더 쓰러졌다.
+
+하지만 위기는 빠르게 찾아왔다.
+
+‘뚫린다!’
+
+생각이 들기가 무섭게 위태위태하던 탱커 라인이 허물어졌다.
+
+콰과광!
+
+- 크아아악!
+
+- 힐러, 힐러!
+
+비명과 괴성이 난무한다. 피어나는 먼지 너머로 대형을 헤집으며 쇠몽둥이를 휘두르는 소 대가리들이 보였다.
+
+- 음모오오!
+
+- 탱커, 딜러! 원거리 마나 아끼지 말고 쏟아부어! 원거리는 거리 벌려!
+
+퍼버버벅!
+
+- 음모오오오오!
+
+- 힐러어어어!
+
+영상은 10분 남짓 이어지다가 끊겼다. 전투가 완전히 끝난 건 아니고, 카메라가 쇠몽둥이에 박살 났기 때문이다.
+
+- 음모오오오오!
+
+치지지직.
+
+미노타우로스의 포효와 함께 화면이 흑백으로 물든다. 임꺽정이 침을 꿀꺽 삼켰다.
+
+“……이거 장난 아닌데.”
+
+당연하지, 이 양반아.
+
+나는 태블릿을 최 팀장에게 넘겨주며 물었다.
+
+“어느 길드예요?”
+
+“지난주에 있었던 부천터미널 길드의 레이드 영상입니다.”
+
+“…….”
+
+거, 누가 지었는지 작명 센스 한번 끝내주네. 평화 길드에 들어온 입장으로서 할 말은 아니지만 부천터미널 길드보다는 낫다.
+
+“결과는요?”
+
+“미노타우로스는 전멸. 헌터는 두 명이 죽었습니다.”
+
+레이드 중 사망하는 일은 그리 드문 일이 아니다. 헌터는 죽음에 가까워졌다 도망치기를 반복하는 직업이니까.
+
+그런데도 마음이 무거워지는 것은 어쩔 수 없다. 살아남은 자들이 평생 짊어져야 하는 무게다.
+
+지금의 나처럼.
+
+“그렇군요.”
+
+내가 할 수 있는 말은 이 정도가 고작이었다. 스마트폰을 꺼내어 검색해 보니 관련된 인터넷 기사가 몇 개 떴다.
+
+
+
+[부천 모 길드. 무리한 레이드가 불러온 희생]
+
+지난 16일 C급 헌터 이 모 씨, 박 모 씨가 B급 게이트 ‘미노타우로스의 미로’에서 사망했다. 헌터 협회 당국은…….
+
+
+
+사망자들이 C급 헌터였구나. 하긴 저 정도 중소 길드에서 B급 헌터들로 열댓 명을 꽉꽉 채워 보낼 만한 인재 풀이 될 리가 없지.
+
+‘그럼…….’
+
+나는 빠르게 길드원들을 훑었다. 그보다 한발 먼저 끌어 올린 [기감]이 그들의 레벨창을 띄운 후였다.
+
+띠링. 띠링. 띠링.
+
+
+
+[Lv.75 최민우]
+
+[Lv.80 김화종]
+
+[Lv.64 송송이]
+
+
+
+그리고 다음 순간, 임꺽정과 눈이 딱 마주쳤다.
+
+“왜 그래?”
+
+“별것 아니에요.”
+
+애써 아무렇지 않게 대답하고 고개를 돌렸지만 속마음은 그게 아니었다.
+
+
+
+[Lv.24 임혁준]
+
+
+
+이 레이드, 위험하다.
+```
+
+## Current accepted English baseline
+
+```markdown
+# Chapter 79
+
+I woke with a dull headache and looked around. I was in an unfamiliar place—a spacious, clean hotel room.
+
+Only then did the memories of last night gradually come back to me.
+
+*Right. We went to a hotel for the second round and had a champagne party.*
+
+Good God, a champagne party at a hotel.
+
+Put that way, it made me feel like I had become the third-generation heir to some chaebol family. Though, come to think of it, Team Leader Choi might actually be one.
+
+“Khrrr-heeeurk. Khrrp!”
+
+“……”
+
+That man really was a bandit.
+
+What kind of snore sounded like someone shouting? Hyung Jinho snored pretty loudly too, but next to this guy, it was practically on mute.
+
+*If I were the hotel manager, I would’ve kicked him out long ago—*
+
+Knock, knock.
+
+“Who is it?”
+
+For a moment, I thought it was a hotel employee coming to inform us of our forced eviction. But it wasn’t. A clear, refreshing voice came from the other side of the door.
+
+“It’s me. Song Song.”
+
+*Wait. Who?*
+
+“J-just a moment!”
+
+I dashed to the door at the speed of light. Before opening it, I didn’t forget to spray on some of the perfume provided in the room and check my clothes.
+
+Click.
+
+My heart pounded when I looked into Miss Song’s limpid, lake-like eyes. I somehow managed to squeeze out a trembling voice.
+
+“G-good morning. Did you sleep well?”
+
+“No. I kept waking up because of the snoring.”
+
+“Oh.”
+
+Not a good start. I blamed Im Kkeokjeong, who was still snoring ferociously, and quickly changed the subject.
+
+“But what brings you here?”
+
+“It’s time for breakfast.”
+
+“……Breakfast?”
+
+Miss Song looked at me as if something were wrong.
+
+“Yes. Why?”
+
+*Why? Because I’m happy.*
+
+Who would’ve thought I’d live to see the day I had breakfast alone with a woman? And not just any woman—she was exactly my type. I felt as if my eyes were growing moist.
+
+*At last, an oasis has appeared in my desert of a life.*
+
+I wouldn’t have minded eating combat rations for breakfast if I could eat them with her. I answered with determination.
+
+“I’ll get ready right now.”
+
+“Then could you wake Uncle Kkeokjeong first?”
+
+“……Why Kkeokjeong Hyung-nim?”
+
+“Didn’t you check the chat?”
+
+Miss Song held out her smartphone.
+
+The group chat we had created for the Guild last night was open on the screen.
+
+> **Peace Guild**
+>
+> **Team Leader Choi**  
+> Is everyone awake?
+>
+> **Butler Kim**  
+> I’m up.
+>
+> **Song Song**  
+> I’m up too.
+>
+> **Team Leader Choi**  
+> What about the other two?
+>
+> **Song Song**  
+> They’re snoring.
+>
+> **Team Leader Choi**  
+> ……Wake them up and come to the restaurant on the first floor.
+
+“……”
+
+Damn it. And just when I was getting excited. That was my life for you.
+
+Miss Song turned away, leaving me looking dejected.
+
+“Then I’ll go down first.”
+
+I stared longingly at her retreating back as she walked away on light, graceful steps.
+
+“Even her back is pretty.”
+
+“Khrrp, khrrr-heeeurk!”
+
+“……”
+
+*Is this guy really not a former bandit?*
+
+* * *
+
+I barely managed to wake Im Kkeokjeong before heading down to the first floor.
+
+Team Leader Choi, who was sitting by the window, waved when he saw us.
+
+“I ordered ahead. Eat before it gets cold.”
+
+Since it was a hotel breakfast, I had expected something like an absurdly tiny serving of pasta. But what arrived on the table was a steaming bowl of haejangguk.[^1]
+
+“Ah, now that’s Team Leader Choi!”
+
+“You really know what you’re doing, Team Leader.”
+
+I still had some of last night’s hangover left, but one bowl of haejangguk seemed like it would make circulating my qi unnecessary.
+
+Team Leader Choi shook his head at our reactions.
+
+“Miss Song ordered it. I wanted pasta.”
+
+“Miss Song did?”
+
+“Yes.”
+
+His dark expression suggested that he had really wanted it.
+
+Still, I never would’ve expected Miss Song to order hangover soup. Judging by her appearance, she looked like a pampered young lady from a wealthy family. But after what she had shown us yesterday, and now this, she had a surprisingly down-to-earth side.
+
+Slurp.
+
+“Ah, this is good. What are you all doing? You should eat while the broth’s still hot.”
+
+Watching Miss Song eat her haejangguk with such gusto warmed a corner of my heart. She had such a healthy appetite.
+
+*So this is what it means when simply looking at someone fills you up.*
+
+In a state where I could no longer tell whether the food was going into my nose or my mouth, the meal finally came to an end. While everyone except me sagged back in their seats, bloated with food, Team Leader Choi spoke.
+
+“Now that we’ve eaten, shall we move somewhere else?”
+
+What? Wasn’t this supposed to be the part where we went home and rested?
+
+“Move where?”
+
+Im Kkeokjeong cut in while patting his stuffed belly.
+
+“Where else? We’ve got to keep the party going from yesterday. How about makgeolli today?[^2] I know a good place.”
+
+“Oh, I really like makgeolli too.”
+
+[^2]: Makgeolli is a traditional Korean rice wine with a milky appearance and a mildly sweet, tangy flavor.
+
+Butler Kim, who had been quietly listening to us, smiled and continued.
+
+“Unfortunately, it would be better to go there for our next Guild dinner. We have something more important to take care of today.”
+
+The Guild Master was Butler Kim, but he wasn’t the one who made the decisions.
+
+With everyone’s eyes on him, Team Leader Choi opened his mouth.
+
+“We’ve eaten, drunk, and rested. Now it’s time to work.”
+
+It was the Peace Guild’s first raid.
+
+* * *
+
+Humanity was thrown into shock by the Great Cataclysm.
+
+Gates began appearing without warning one day, and unidentified creatures poured out of them.
+
+“W-what is that?”
+
+“A monster! It’s a monster!”
+
+If aliens with thin limbs and oversized heads had invaded, people might have been less surprised. But these creatures hadn’t come in spaceships, and they didn’t shoot guns.
+
+“Skreeee!”
+
+“Karuk! Krrruuuk!”
+
+With their terrible stench and eyes gleaming with killing intent, the monsters tore humans apart like sheets of paper as they swept through cities and set them ablaze.
+
+They were monsters that seemed as if they belonged in novels, movies, or myths.
+
+The Minotaur was one of them……or so I had learned in history class.
+
+“You know what a Minotaur is, right?”
+
+Im Kkeokjeong answered proudly.
+
+“Of course. I saw them in a Greek and Roman mythology comic when I was in elementary school. They were pretty cool—huge muscles and everything.”
+
+“……What about you, Taekyung?”
+
+“I’ve never even seen one.”
+
+A Minotaur was among the stronger monsters in the B-rank category. It had been roughly five hundred light-years away from me, an eternal F-rank Hunter.
+
+“That’s all right. You can see one now.”
+
+“……”
+
+*Is a Gate a zoo? Are we going there just to sightsee?*
+
+Team Leader Choi handed me a tablet, answering as breezily as if this had nothing to do with him.
+
+“Here.”
+
+“What is this?”
+
+“It’s a next-generation tablet powered by a C-rank Magic Gem. With its elegant design and outstanding performance, it’s sold exclusively to a select number of VIPs……”
+
+“Just give me the conclusion.”
+
+“I put some raid footage on it. Watch.”
+
+He could’ve just said that from the start. Im Kkeokjeong and I put our heads together and watched the video stored on the tablet.
+
+“All right, stay calm. Stay calm. Especially the tanks! Keep those shields up. If they break through, everyone here is dead. Of course, I’ll kill you before that happens.”
+
+“Yes, sir!”
+
+Around fifteen Hunters formed an orderly formation at the raid leader’s command. Every one of them was visibly tense.
+
+*Tanks, melee and ranged damage dealers. There’s a mage and even a healer.*
+
+Their teamwork seemed decent, and so did the team composition.
+
+And then……
+
+*So that’s a Minotaur.*
+
+A B-rank monster, something I had only ever seen in monster encyclopedias, appeared on the screen.
+
+“Moooooo!”
+
+A cow’s head on a human body. Seven half-human, half-beast Minotaurs advanced toward the intruders.
+
+No—they charged.
+
+“Mooooooo!”
+
+Their bellowing echoed through the cave. Rock dust shook loose and fell in little showers as the battle began.
+
+“Ranged! Fire!”
+
+The raid leader screamed himself hoarse. At the same time, around twenty arrows infused with mana struck the head of the lead Minotaur.
+
+Fwish-fwish-fwish!
+
+Focusing fire on one target instead of using a wide-area attack had been a good choice. Aiming precisely for its head had been especially effective.
+
+No matter how strong a B-rank monster was, it couldn’t reinforce its eyeballs.
+
+The Minotaur clawed at its own face in agony. The finishing blow came from the companions following behind it.
+
+Crunch!
+
+A dark iron club smashed the cow’s head apart.
+
+And then—
+
+Thud, thud, thud!
+
+*Huh.*
+
+They used the dead Minotaur’s corpse as a shield and charged straight ahead. Arrows and magic rained down, but they only shredded the corpse. The Minotaurs hiding behind it were unharmed.
+
+*These bastards……*
+
+They knew how to use their heads. They were at least as intelligent as goblins, while being dozens of times stronger.
+
+Which made them even more dangerous.
+
+“Hold!”
+
+“Urrrgh!”
+
+At the team leader’s shout, the veins stood out on the tanks’ arms and necks. Their shields, covered in hazy mana, blocked the iron clubs carrying tremendous force.
+
+Wham! Wham! Wham!
+
+A small shadow suddenly dropped from the air between them. A Hunter from the stealth category drove a blackened dagger into another Minotaur’s eye before disappearing.
+
+“Moooo……”
+
+B-rank monsters weren’t invincible. With the support of the other melee damage dealers, archers, and mage, two more Minotaurs fell in the blink of an eye.
+
+But the crisis came quickly.
+
+*They’re breaking through!*
+
+No sooner had the thought occurred to me than the wavering tank line collapsed.
+
+Kra-koom!
+
+“Graaagh!”
+
+“Healer! Healer!”
+
+Screams and roars filled the cave. Through the clouds of dust, I could see the cow-headed monsters tearing through the formation and swinging their iron clubs.
+
+“Moooooo!”
+
+“Tanks, damage dealers! Ranged, don’t hold back your mana—pour it all in! Ranged, open up some distance!”
+
+Wham-wham-wham!
+
+“Mooooooo!”
+
+“Healeeeer!”
+
+The video continued for about ten minutes before cutting off. The battle hadn’t ended yet. The camera had simply been smashed by an iron club.
+
+“Mooooooo!”
+
+Bzzzt.
+
+As the Minotaur’s roar rang out, the screen filled with static and faded to black and white. Im Kkeokjeong swallowed hard.
+
+“……This is no joke.”
+
+*Of course it isn’t, old man.*
+
+I handed the tablet back to Team Leader Choi and asked,
+
+“What Guild was that?”
+
+“It was footage of the Bucheon Terminal Guild’s raid last week.”
+
+“……”
+
+*Whoever named that Guild had some incredible naming sense.*
+
+Not that I had any room to talk, considering I belonged to the Peace Guild, but at least our name was better than Bucheon Terminal Guild.
+
+“What was the result?”
+
+“The Minotaurs were wiped out. Two Hunters died.”
+
+People dying during raids wasn’t particularly rare. Being a Hunter meant repeatedly drawing close to death, then running away from it.
+
+Even so, I couldn’t help feeling heavy-hearted. It was a burden the survivors would have to carry for the rest of their lives.
+
+Just as I did now.
+
+“I see.”
+
+That was all I could say. I pulled out my smartphone and searched for it. Several related articles appeared.
+
+> **A Bucheon Guild: The Sacrifice Brought on by a Reckless Raid**
+>
+> On the sixteenth, C-rank Hunters identified as Mr. Lee and Mr. Park died in the B-rank Gate *The Minotaur’s Labyrinth*. The Hunter Association authorities……
+
+So the people who died had been C-rank Hunters. That made sense. A small-to-medium Guild like that couldn’t possibly have a talent pool large enough to fill a raid team of fifteen B-rank Hunters.
+
+*Then……*
+
+I quickly looked over the Guild members. The Qi Sense I had activated a moment earlier had already brought up their Level windows.
+
+Ding. Ding. Ding.
+
+> **System**
+>
+> **Level 75 — Choi Minwoo**
+>
+> **Level 80 — Kim Hwajong**
+>
+> **Level 64 — Song Song**
+
+The next moment, my eyes met Im Kkeokjeong’s.
+
+“What’s wrong?”
+
+“It’s nothing.”
+
+I answered as casually as I could and turned away, but my thoughts were anything but casual.
+
+> **System**
+>
+> **Level 24 — Im Hyeokjun**
+
+*This raid is dangerous.*
+
+[^1]: Haejangguk, literally “hangover soup,” is a Korean soup traditionally eaten after drinking to help ease a hangover.
+```
+
+## Final instruction
+
+Edit the complete baseline against the Korean source. Return only the complete mastered English Markdown chapter beginning exactly with `# Chapter 79`.
