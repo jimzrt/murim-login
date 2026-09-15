@@ -105,6 +105,8 @@ def apply_review_replacements(text: str, review: dict) -> str:
         matched_replacement = replacement
         if not starts:
             candidates = []
+            if "… " in old:
+                candidates.append((old.replace("… ", "…"), replacement))
             if "…." in old:
                 candidates.append((old.replace("….", "…"), replacement))
             candidates.append((f"*{old}*", replacement))
