@@ -1,6 +1,6 @@
 # Jopil (조필)
 
-- **Safe through:** Chapter 117
+- **Safe through:** Chapter 120
 - **Aliases:** One Question, One Kill
 - **Role:** Wandering martial artist and leader of a special detachment attacking the Jin Family of Taiyuan
 - **Personality:** Cruel, amused by violence, and motivated by both payment and the pleasure of hunting his targets

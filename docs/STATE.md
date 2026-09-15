@@ -1,38 +1,35 @@
 # Translation State
 
-- Last completed: 119
-- Next chapter: 120
-- Current block: 115–119 (5/5)
-- Latest translation: `translations/0119.md`
-- Latest summary: `summaries/beats/0119.md`
-- Safe profiles through: chapter 119
+- Last completed: 120
+- Next chapter: 121
+- Current block: 120–124 (1/5)
+- Latest translation: `translations/0120.md`
+- Latest summary: `summaries/beats/0120.md`
+- Safe profiles through: chapter 120
 
 ## Current Block
 
-- Jin Taekyung’s dagger pierces Pung Yang’s side just before his Body-Protecting Qi fully forms, inflicting a serious internal injury. Taekyung’s thirty years of Scorching Yang Qi is also running wild, while Pung Yang’s Temporary Strength Pill begins to lose its effect after roughly half a shichen. Lee Seowol and the ten surviving Mount Heng Sword Sect martial artists decide to sacrifice themselves to buy time for Taekyung to escape with Jin Mukyung, asking him to avenge them by killing Pung Yang.
-- Instead of fleeing, Taekyung attacks Pung Yang with One Annihilation, but Pung Yang destroys the technique and severely injures and captures him. While Pung Yang attempts to pull out Taekyung’s tongue, Taekyung summons the oldest item in his inventory—the Unnamed Sword—and thrusts it into Pung Yang’s chest. The System reports that the sword’s Ten-Thousand-Year Cold Iron has destroyed Pung Yang’s Body-Protecting Qi, leaving the result unresolved.
+- Jin Taekyung's Unnamed Sword, empowered by Ten-Thousand-Year Cold Iron, destroys Pung Yang's Body-Protecting Qi and pierces his chest. Pung Yang begs for his last Temporary Strength Pill, but Taekyung refuses, and Pung Yang dies.
+- Pung Yang's defeat completes the Temporary Strength Pill Quest, granting Taekyung five level-ups, massive EXP and Fame, and Full Recovery. Taekyung's Blazing Flame Divine Pill is fully absorbed, raising his internal energy to forty-five years and adding the Scorching Yang Qi attribute; he uses the reward medicines to treat the wounded Mount Heng martial artists.
+- The two-hour search finds twenty-five survivors including Lee Seowol, though five are unlikely to survive the day. The Mount Heng Sword Sect is effectively destroyed, but Seowol vows that it will survive. Taekyung delivers Jin Wikyung's invitation to Seowol, completing the Yesterday's Enemy, Today's Ally Quest.
 
 ## Open Questions
 
-- Can Taekyung survive his severe injuries and the runaway Scorching Yang Qi?
-- Can Taekyung defeat Pung Yang now that the Unnamed Sword has destroyed his Body-Protecting Qi?
-- Can Pung Yang survive his internal injury and the loss of his Body-Protecting Qi?
-- Will Lee Seowol and the nine other surviving Mount Heng martial artists survive their last stand?
-- Will Jin Mukyung recover from the five concealed throwing knives?
-- Will Pung Yang obtain the Jin Family's martial arts formulas?
+- Will the five gravely injured Mount Heng survivors survive the day?
+- Can Lee Seowol preserve or rebuild the Mount Heng Sword Sect with so few survivors?
 - What is the origin and full long-term effect of the Temporary Strength Pill?
-- What lasting consequences will the Blazing Flame Divine Pill have if Taekyung survives?
+- What consequences will Pung Yang's death have for the Red Wind Band and the wider Murim?
+- What will result from Jin Wikyung's invitation to Lee Seowol?
 
 ## Exceptional Decision
 
-- Render 일류 초입 and 절정 초입 as early First Rate and early Peak.
 - Render 잠력단 as Temporary Strength Pill and 호신강기 as Body-Protecting Qi.
-- Render 격산타우 as Striking the Ox Across the Mountain and 북망산 as Mount Beimang, with a burial-ground footnote.
+- Render 만년한철 as Ten-Thousand-Year Cold Iron and 이름 없는 검 as Unnamed Sword.
 - Render 열화신단 as Blazing Flame Divine Pill and 반 갑자 as half a jiazi, clarified as thirty years.
-- Retain Narye tagon for 나려타곤 with a footnote explaining the idiom.
-- Render 만년한철 as Ten-Thousand-Year Cold Iron.
-- Render 이름 없는 검 as Unnamed Sword.
-- Render one 식경 as one meal's time in this passage.
+- Render 뛰어난 금창약 as Superior Wound Medicine and 십년하수오 as Ten-Year He Shouwu.
+- Render 완전 회복 as Full Recovery.
+- Render 회광반조 as final rally in this death-and-recovery context.
+- Render 운칠기삼 as seven parts luck and three parts skill, and 운구기일 as nine parts luck and one part qi, with a footnote explaining the variation.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
