@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "He had been freed from nearly twenty hours of backbreaking labor, but he was not happy at all.",
+      "defect": "The source measures the labor as nearly ten shichen, but the translation converts the quantity into hours and drops the binding source term.",
+      "id": "F01",
+      "rationale": "The source says 근 열 시진, and the exact glossary requires 시진 to be rendered as “shichen.”",
+      "replacement": "He had been freed from nearly ten shichen of backbreaking labor, but he was not happy at all.",
+      "severity": "minor",
+      "source": "lines 153–155 / [P71]"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I’ve always been watching you too, Lesser Family Head!”",
+      "defect": "The translation omits Childeuk’s repeated “Me too! Me too,” removing the verbal stumble that demonstrates his tangled tongue and heightens the misunderstanding.",
+      "id": "F02",
+      "rationale": "The source explicitly repeats 저도! 저도 immediately after stating that excitement has tangled his tongue; the repetition is part of the comic characterization.",
+      "replacement": "“Me too! I’ve always been watching you too, Lesser Family Head!”",
+      "severity": "minor",
+      "source": "lines 237–241 / [P114]"
+    },
+    {
+      "confidence": 0.97,
+      "current": "The sky is yellow.",
+      "defect": "The idiom is translated as a literal observation about the sky rather than as a sign that Taekyung is exhausted to the point of feeling faint.",
+      "id": "F03",
+      "rationale": "In this context, 하늘이 노랗다 functions as an idiom for dizziness or near-collapse from extreme exhaustion, reinforced by his immediately going to sleep.",
+      "replacement": "I feel like I’m going to pass out.",
+      "severity": "minor",
+      "source": "lines 373–377 / [P178]"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The Jin Family’s Manoeuvre Technique reached the ninth stage. My Level also increased by one.",
+      "defect": "The translation omits that the Level increase occurred simultaneously with the technique reaching the ninth stage.",
+      "id": "F04",
+      "rationale": "The source explicitly uses 동시에, establishing simultaneity rather than merely listing another result.",
+      "replacement": "The Jin Family’s Manoeuvre Technique reached the ninth stage. At the same time, my Level increased by one.",
+      "severity": "minor",
+      "source": "lines 389–393 / [P184]"
+    }
+  ],
+  "summary": "The chapter is faithful overall, with four minor defects involving a binding time-unit term, omitted comic repetition, a literally translated idiom, and a lost simultaneity cue.",
+  "version": 1
+}

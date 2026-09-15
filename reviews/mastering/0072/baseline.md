@@ -2,15 +2,15 @@
 
 “You died once today.”
 
-His cold voice continued.
+The cold voice continued.
 
 “Your limbs were cut off, you were subjected to Tendon-Splitting and Bone-Twisting, and your throat was cut. The degree and form of the pain may have been different, but you died. Without a doubt.”
 
 Once the relief of being alive faded, anger took its place.
 
-I rose on trembling legs, swallowed the blood pooled in my mouth, and glared at Jin Mukyung.
+I stood on trembling legs. After swallowing the blood pooled in my mouth, I glared at Jin Mukyung.
 
-*This fucking lunatic.*
+*What a fucking lunatic.*
 
 I wanted to drive my fist into that smug face right away, but I held myself back. Not because I was weaker than Jin Mukyung. Because I knew he was right.
 
@@ -18,25 +18,25 @@ I wanted to drive my fist into that smug face right away, but I held myself back
 
 His answer came immediately, as if he had been waiting for me to ask.
 
-“That your days are numbered.”
+“That you don’t have much life left.”
 
 “What?”
 
-“You’re only half-finished. Neither a martial artist nor a wandering martial artist. Just an incomplete mess. A sloppy bastard like you is begging to die the moment he ventures into the Murim.”
+“You’re only half-finished. You’re neither a martial artist nor a wandering martial artist. A half-baked mess. Someone as sloppy as you is just begging to die the moment he enters the Murim.”
 
 Half-finished.
 
-That might have been the most accurate description of my current state. I was both a Hunter and a martial artist.
+That might have been the most accurate description of my current state. I was a Hunter and a martial artist at the same time.
 
-“Sleeping Dragon of Shanxi? First Rate master? Even a passing dog would laugh. You’re nothing but a brawler. You’re sloppy for a martial artist, and you don’t even fight as pragmatically as a wandering martial artist. Don’t mistake surviving through good luck for skill.”
+“Sleeping Dragon of Shanxi? First Rate master? Even a passing dog would laugh. You’re just a brawler. You’re sloppy for a martial artist, and you don’t even fight as pragmatically as a wandering martial artist. Don’t mistake surviving through good luck for skill.”
 
 I barely managed to open my mouth.
 
-“Then what about Jopil? According to you, was that just luck too?”
+“Then what about Jopil? Was that luck too, according to you?”
 
-“Jopil, One Question, One Kill? He was obviously an idiot who let his guard down in front of an enemy. You just happened to have one last move that could turn the tables.”
+“Jopil, One Question, One Kill? He was obviously stupid enough to let his guard down in front of an enemy. You just happened to have one last move capable of turning the situation around.”
 
-“…!”
+“……!”
 
 “What? Do you think I guessed too accurately despite not seeing it myself?”
 
@@ -44,7 +44,7 @@ Jin Mukyung clicked his tongue.
 
 “Even a deaf old man knows that the Third Young Master of the Jin Family of Taiyuan is a wastrel. Did Jopil not know? The moment he let his guard down, he was finished too.”
 
-*What is this bastard, a stalker?*
+*What is this guy, a stalker?*
 
 I felt like Sun Wukong trapped in the Buddha’s palm. His guess was that accurate.
 
@@ -52,9 +52,9 @@ I felt like Sun Wukong trapped in the Buddha’s palm. His guess was that accura
 
 Jin Mukyung fixed me with a somber gaze.
 
-“That luck of yours ends here.”
+“That luck of yours stops working here.”
 
-“…”
+“……”
 
 “The Murim is crawling with all kinds of monsters. And they don’t let their guard down like Jopil did. You’re no longer the Jin Family’s wastrel of a Third Young Master. You’re the Sleeping Dragon of Shanxi.”
 
@@ -98,19 +98,19 @@ In that sense, this guy had become a decent human being. Three years ago, he wou
 
 *He’s a strange one.*
 
-Neither his personality nor his martial arts were easy to pin down. That was both a strength and a weakness. But one thing was certain: none of it would work against a *true master*.
+Neither his personality nor his martial arts could be easily understood. That was both a strength and a weakness. But one thing was certain: nothing worked against a *true master*.
 
 *But his talent is real.*
 
-Over the past three years at Heaven’s Gate Temple, Jin Mukyung had encountered countless prodigies, but none could match Jin Taekyung’s rate of growth.
+Over the past three years at Heaven’s Gate Temple, Jin Mukyung had encountered countless prodigies, but Jin Taekyung’s rate of growth was unmatched.
 
-*And he has strengths they don’t.*
+*He has advantages they don’t.*
 
-He had the eye to grasp martial arts at a glance, excellent instincts in real combat, and an ear for other people’s advice.
+He could understand martial arts at a glance. He had excellent combat instincts, and he also knew how to listen to other people’s advice.
 
 *Though for now, he’s still a half-finished mess with everything jumbled together.*
 
-Given time, his weaknesses would be filled in and his excesses smoothed out. When that happened, Jin Taekyung’s martial arts would be complete.
+As time passed, his weaknesses would be filled in and his excesses would be smoothed out. When that happened, Jin Taekyung’s martial arts would be complete.
 
 Like taiji achieving harmony.
 
@@ -118,7 +118,7 @@ Like taiji achieving harmony.
 
 This was starting to become burdensome.
 
-But he could not contain his curiosity. How would that bastard grow? How far would he climb?
+But he could not stop wondering. How would that bastard grow? How far would he climb?
 
 *I’m going to be busy.*
 
@@ -128,23 +128,23 @@ He had to leave and return to Heaven’s Gate Temple within fifteen days at the 
 
 “Hyung!”
 
-Seeing Jin Taekyung’s face light up, Jin Mukyung suddenly had a thought.
+Seeing Jin Taekyung’s face brighten, Jin Mukyung suddenly had a thought.
 
 *When did this bastard start speaking informally to me?*
 
-That was the moment the intensity of the training rose another level.
+That was the moment the intensity of his training rose another level.
 
 * * *
 
 Bang.
 
-Jin Wikyung stamped his seal on the final document, his eyes heavily bloodshot.
+Jin Wikyung stamped his seal onto the final document with heavily bloodshot eyes.
 
 He had been freed from nearly twenty hours of backbreaking labor, but he was not happy at all. New work would be piled up by tomorrow morning anyway.
 
-*Are these things breeding behind my back?*
+*Are these things breeding when I’m not looking?*
 
-At least the end was finally coming into sight. That was some consolation.
+The only comfort was that he could finally see the end.
 
 After completing his final review, Jin Wikyung rang a small bell. Before its clear sound had even faded, two sturdily built servants appeared.
 
@@ -158,13 +158,13 @@ The servants skillfully stacked the documents onto a cart. Just as they were abo
 
 “Ah. You stay.”
 
-The servant he had singled out blinked in surprise.
+The servant he had pointed to blinked in surprise.
 
 “Me, sir?”
 
 “That’s right. You.”
 
-Once the two of them were alone, Jin Wikyung began speaking in a solemn voice.
+Once he was alone with the servant, Jin Wikyung began speaking in a solemn voice.
 
 “So, how have you been finding the work lately?”
 
@@ -172,13 +172,13 @@ Once the two of them were alone, Jin Wikyung began speaking in a solemn voice.
 
 “Nothing causing you any inconvenience?”
 
-“Oh, goodness. Of course not.”
+“Oh, goodness, of course not.”
 
 The servant, Childeuk, did nothing but nod repeatedly. He was illiterate and could not even get through the Thousand Character Classic, but he still had ears to hear and eyes to see.
 
 After its victory in the recent war, the Jin Family of Taiyuan had risen to become the foremost family in Shanxi. Its Lesser Family Head, Jin Wikyung, had begun to be called the Junzi Sword[^1] for his swift recovery efforts and fair handling of the aftermath.
 
-*Why would such a great man want me?*
+*Why would such an esteemed person want me?*
 
 His heart pounded with nerves. Had he made some mistake? Or had Jin Wikyung perhaps noticed his talent for martial arts?
 
@@ -188,19 +188,19 @@ The former would be disastrous. The latter would be a chance to turn his life ar
 
 He could already see himself wearing a sword at his waist and letting his hero’s headband flutter in the wind.
 
-But when Jin Wikyung saw Childeuk’s eyes glaze over, he flinched.
+But when Jin Wikyung saw Childeuk’s eyes growing hazy, he flinched.
 
-*What’s with this guy?*
+*What the hell is wrong with this guy?*
 
 Childeuk’s eyes were filled with desperate longing, as if he were willing to offer his soul to obtain whatever he wanted.
 
-It was not the sort of look one man should give another.
+They were not the kind of eyes one man should direct at another man.
 
 *Don’t tell me…?*
 
 Male love, something he had only heard about…
 
-No. That could not be it. He must not jump to conclusions. Childeuk was a member of the Jin Family household, someone he ought to trust and cherish.
+No, that was not it. He could not jump to conclusions. Childeuk was a member of the Jin Family, someone he should trust and cherish.
 
 Jin Wikyung forcibly erased his suspicions and spoke.
 
@@ -210,25 +210,25 @@ Jin Wikyung forcibly erased his suspicions and spoke.
 
 “Of course. I’ve been keeping an eye on you for a long time.”
 
-More precisely, not for a long time, but for the past three days.
+More precisely, not for a long time. Only for the past three days.
 
 Jin Wikyung had been searching for a reliable servant to entrust with a very important task, and Childeuk was the ideal candidate he had personally selected.
 
-“A talented man possessing all four virtues—benevolence, righteousness, propriety, and wisdom. That was you.”
+“A talented man possessing all four virtues—benevolence, righteousness, propriety, and wisdom. That’s you.”
 
 “How can this be…!”
 
-Childeuk, an exceptional servant possessing all four virtues, shuddered with emotion. Completely illiterate, he had no idea what those four virtues meant, but he understood the word “talented” perfectly.
+Childeuk, an exceptional servant possessing all four virtues, shuddered with emotion. He had no idea what those four virtues meant, but he understood the word “talent” perfectly.
 
 *I’m talented?*
 
-He had been praised for being strong and diligent, but no one had ever called him talented. And now he was hearing it from none other than the Lesser Family Head himself, a man as lofty as the heavens.
+He had been praised for his strength and diligence, but this was the first time anyone had called him talented. And to receive such an assessment from the Lesser Family Head himself, a man as lofty as the heavens…
 
 Was this a dream or reality? Childeuk was swept up in overwhelming excitement. He was so excited that even his tongue became tangled.
 
 “I’ve always been watching you too, Lesser Family Head!”
 
-Jin Wikyung flinched.
+Jin Wikyung’s body flinched.
 
 *What did I just hear?*
 
@@ -238,9 +238,9 @@ Jin Wikyung flinched.
 
 “Wait. That sounds strange. Why would you stand behind me?”
 
-“Ah!”
+“Ah.”
 
-Childeuk sucked in a breath. Jin Wikyung was telling him not to stand behind him. In other words, he wanted Childeuk to take the lead and win glory.
+Childeuk swallowed. Jin Wikyung was telling him not to stand behind him. In other words, he wanted Childeuk to take the lead and win glory.
 
 “Then I’ll stand in front!”
 
@@ -258,39 +258,39 @@ Jin Wikyung’s vision went dark.
 
 Huff, huff.
 
-Childeuk panted heavily, and Jin Wikyung gathered his internal energy.
+Childeuk breathed heavily, and Jin Wikyung gathered his internal energy.
 
-*I never imagined something like this would happen.*
+*I never thought something like this would happen.*
 
 No matter how open-minded he was, this was too much.
 
-Personal sexual preferences were one thing, but he had no desire to become their object. Jin Wikyung swallowed hard.
+Personal sexual preferences were one thing, but he had no desire to be the object of them. Jin Wikyung swallowed hard.
 
 “Then… are you really into men?”[^2]
 
-Childeuk’s eyes flashed. His heart pounded at the thought of wearing the navy-blue uniform of the Jin Family’s martial artists.
+Childeuk’s eyes flashed. He was thinking about wearing the navy-blue uniform worn by the Jin Family’s martial artists.
 
-“Yes! Just give the order!”
+“Yes! Just tell me to do it!”
 
 “How dare you set your sights on me? Not a chance, you bastard!”
 
 Smack!
 
-A slap from a Peak master was powerful. Childeuk collapsed like a puppet with its strings cut. Jin Wikyung stared down at him, breathing hard, then hurriedly rang the bell.
+A slap from a Peak master was powerful. Childeuk collapsed like a puppet with its strings cut, and Jin Wikyung stared down at him while breathing heavily before hurriedly ringing the bell.
 
 Ding. Ding.
 
-“Lesser Family Head, did you call—? Gasp! Childeuk!”
+“Lesser Family Head, did you call—? Gasp. Childeuk!”
 
 Jin Wikyung spoke to the horrified servant.
 
-“Drag him out immediately!”
+“Take him out immediately!”
 
 “W-What happened?”
 
-“That bastard tried to… No. Never mind.”
+“That bastard tried to… No, never mind.”
 
-He could not possibly say such a thing to a member of his household. For the first time in his life, anger and wounded sorrow brought him close to tears.
+It was not something he could say to one of his family’s servants. For the first time in his life, anger and wounded sorrow brought him close to tears.
 
 “I-I’ll take care of it.”
 
@@ -310,7 +310,7 @@ The servant suddenly remembered Childeuk’s assignment.
 
 The most important duty given to Childeuk, an exceptional servant possessing all four virtues, was to bring every meal to Jin Mukyung and Jin Taekyung.
 
-“Don’t let him anywhere near my younger brothers. Understood?”
+“Don’t let him go anywhere near my younger brothers. Understood?”
 
 “Yes, sir!”
 
@@ -320,7 +320,7 @@ The most important duty given to Childeuk, an exceptional servant possessing all
 
 I decided to start keeping a diary today.
 
-So I won’t forget what I learn during this training.
+So I would not forget what I learned during this training.
 
 Under Jin Mukyung’s guidance, I did nothing but swing a spear all day. Every day begins and ends with a spar. I got beaten half to death, but it’s bearable.
 
@@ -328,13 +328,13 @@ This is my first time grinding ink, and it’s surprisingly fun.
 
 ### Training Day 2
 
-I swung my spear to the point of death again today. Maybe that’s why my Strength and Stamina stats increased, and the Jin Family’s Spear Technique reached the ninth stage.
+I swung my spear to the point of death again today. Perhaps because of that, my Strength and Stamina stats increased, and the Jin Family’s Spear Technique reached the ninth stage.
 
-I’m progressing much faster than when I trained alone, but I can’t help thinking I’d be better off spending this time learning another Peak martial art.
+It’s progressing much faster than when I trained alone, but I can’t help thinking that I would be better off learning another Peak martial art during this time.
 
 Still, Jin Mukyung must have his reasons.
 
-Grinding ink is getting a little annoying. I’m tired.
+Grinding ink has become a little annoying. I’m tired.
 
 ### Training Day 3
 
@@ -344,11 +344,11 @@ While desperately dodging his attacks, the Jin Family’s Manoeuvre Technique ro
 
 ### Training Day 4
 
-I haven’t slept more than two hours a day since training began.
+Since starting training, I haven’t slept more than two hours in a day.
 
-Most of my time is spent repeating the same cycle with Jin Mukyung: training, sparring, training, sparring. Starting yesterday, I began using fasting pills instead of wasting time eating.
+Most of my time is spent repeating training, sparring, training, and sparring with Jin Mukyung. Starting yesterday, I began using fasting pills instead of wasting time eating.
 
-Even with the System, I’m starting to reach my physical limit.
+Even with the System, I’m reaching my physical limit.
 
 ### Training Day 5
 
@@ -362,19 +362,19 @@ Going to sleep.
 
 I don’t understand why the System doesn’t have a notepad function.
 
-I got pissed off while grinding ink and broke the inkstone. Jin Mukyung beat me.
+I got angry while grinding ink and broke the inkstone. Jin Mukyung beat me.
 
 ### Training Day 7
 
 The Jin Family’s Manoeuvre Technique reached the ninth stage. My Level also increased by one.
 
-I’ve practiced it so relentlessly that these days, I even use the footwork when I’m just walking around.
+I’ve practiced it so obsessively that these days, I even use the footwork when I’m simply walking around.
 
 I got goose bumps.
 
 ### Training Day 8
 
-My hands and feet keep getting tangled today. It feels like these aren’t the martial arts I know anymore.
+My hands and feet keep getting tangled today. It feels like the martial arts I know, but not quite.
 
 The martial arts I’ve performed thousands—even tens of thousands—of times feel unfamiliar. Jin Mukyung said it was a natural phenomenon.
 
@@ -396,9 +396,9 @@ Compressed air erupted from the tip of the wooden spear. Jin Mukyung skidded bac
 
 I did not answer. I stood there blankly, gripping my spear.
 
-*So this is what it was.*
+*So that’s what it was.*
 
-I had thought I knew the martial arts I’d learned inside and out. But I was wrong. I had merely mistaken the middle of the mountain for the summit.
+I thought I knew the martial arts I had learned inside and out. But I had been wrong. I had merely mistaken the middle of the mountain for the summit.
 
 Whenever my martial arts rose to a new level, a new landscape came into view.
 
