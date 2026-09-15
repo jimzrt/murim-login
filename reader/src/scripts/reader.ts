@@ -43,7 +43,9 @@ let pageAbort: AbortController | null = null;
 let wordWeights: Map<number, number> | null = null;
 
 document.addEventListener("astro:page-load", boot);
+document.addEventListener("astro:after-swap", repairPagefindModal);
 boot();
+hardenPagefindModal();
 
 function boot() {
   state = loadState();
@@ -73,6 +75,57 @@ function boot() {
   initIndex(signal);
   initChapter(signal);
   initReportSelection(signal);
+}
+
+const patchedPagefindModal = new WeakSet<object>();
+
+function hardenPagefindModal() {
+  const defined = customElements.get("pagefind-modal");
+  if (defined) {
+    patchPagefindModal(defined);
+    return;
+  }
+  customElements.whenDefined("pagefind-modal").then(() => {
+    const ctor = customElements.get("pagefind-modal");
+    if (ctor) {
+      patchPagefindModal(ctor);
+    }
+  });
+}
+
+function patchPagefindModal(ctor: CustomElementConstructor) {
+  const proto = ctor.prototype as HTMLElement & { render?: () => void };
+  if (patchedPagefindModal.has(proto) || typeof proto.render !== "function") {
+    return;
+  }
+  patchedPagefindModal.add(proto);
+  const origRender = proto.render;
+  proto.render = function (this: HTMLElement) {
+    unwrapPersistedDialog(this);
+    origRender.call(this);
+  };
+}
+
+function unwrapPersistedDialog(modal: Element) {
+  while (modal.children.length === 1 && modal.children[0].localName === "dialog") {
+    modal.replaceChildren(...Array.from(modal.children[0].childNodes));
+  }
+}
+
+function repairPagefindModal() {
+  const modal = document.querySelector("pagefind-modal");
+  if (!modal) {
+    return;
+  }
+  const nested = modal.querySelector(":scope > dialog > dialog");
+  if (!nested && modal.querySelector(":scope > dialog.pf-modal")) {
+    return;
+  }
+  unwrapPersistedDialog(modal);
+  const render = (modal as HTMLElement & { render?: () => void }).render;
+  if (typeof render === "function") {
+    render.call(modal);
+  }
 }
 
 function defaultState(): ReaderState {
