@@ -1,0 +1,35 @@
+{
+  "summary": "The chapter is faithful overall, with three minor defects involving physical specificity, the scope of an instruction, and an omitted comic beat.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean line 13 / P6",
+      "current": "He untied the bundle he had brought with him, revealing acupuncture needles as thick as stakes.",
+      "defect": "The source describes the needles broadly as stake-like; the English narrows the comparison to thickness, adding a physical specification not present in the Korean.",
+      "replacement": "He untied the bundle he had brought with him, revealing stake-like acupuncture needles.",
+      "rationale": "말뚝 같은 describes the needles as resembling stakes, without specifying that thickness is the sole point of resemblance.",
+      "confidence": 0.95
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Korean lines 41–45 / P19",
+      "current": "“Strip.”",
+      "defect": "The command implies complete undressing, whereas the source initially leaves the object unstated before clarifying that Taekyung should expose his upper body.",
+      "replacement": "“Take it off.”",
+      "rationale": "까 봐 is an object-omitting colloquial command whose intended scope is supplied only by 웃통 까 보라고 in the following line.",
+      "confidence": 0.92
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Korean lines 293–295 / P139",
+      "current": "The scenery I had seen on the way here suddenly rose before my eyes.",
+      "defect": "The assembled English omits the narrator’s brief, resigned recognition that Jin Mukyung’s apparently agreeable response was predictably malicious.",
+      "replacement": "Of course. The scenery I had seen on the way here suddenly rose before my eyes.",
+      "rationale": "그럼 그렇지 is a distinct deadpan reaction that confirms Taekyung’s suspicions and sets up his realization about the isolated underground training ground.",
+      "confidence": 0.99
+    }
+  ]
+}
