@@ -599,3 +599,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 도민수 | **Do Minsu** | A-rank star Hunter and Won Myunghoon’s close friend; died in the Myeongdong Station Mutated Gate Catastrophe. |
 | 명동역 변이 게이트 대참사 | **Myeongdong Station Mutated Gate Catastrophe** | Eight-year-old Gate disaster in which Do Minsu and around thirty others died. |
 | 소나무 위키 | **Sonamu Wiki** | Online wiki consulted about Won Myunghoon. |
+| 종훈 | **Jonghun** | Personal name of Star Guild Team 1 Leader. |
+| 블랙 와이번 | **Black Wyvern** | A-Rank Gate monster remembered by Taekyung. |
+| 블랙 와이번의 둥지 | **The Black Wyvern’s Nest** | A-Rank Gate and destination of the joint raid. |

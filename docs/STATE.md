@@ -1,17 +1,17 @@
 # Translation State
 
-- Last completed: 213
-- Next chapter: 214
-- Current block: 210–214 (4/5)
-- Latest translation: `translations/0213.md`
-- Latest summary: `summaries/beats/0213.md`
-- Safe profiles through: chapter 213
+- Last completed: 214
+- Next chapter: 215
+- Current block: 210–214 (5/5)
+- Latest translation: `translations/0214.md`
+- Latest summary: `summaries/beats/0214.md`
+- Safe profiles through: chapter 214
 
 ## Current Block
 
-- Jin Taekyung and Team Leader Choi clear the B-Rank Gate The Lycanthrope’s Black Forest. Taekyung kills a Lv. 73 Lycanthrope and uses One Annihilation to defeat the Lv. 83 Silver-Mane Lycanthrope boss, opening the Gate exit before beginning to harvest the corpses.
-- While Taekyung explains Won Myunghoon’s eight-year absence, he reveals that Won survived the Myeongdong Station Mutated Gate Catastrophe, where A-Rank star Hunter Do Minsu and around thirty others died. Won was later tried and cleared of the charges before retiring from the entertainment industry. A speculative article then falsely claims that Taekyung is transferring to the Star Guild.
-- Won Myunghoon visits the Peace Guild House, admits that he offered to recruit Taekyung, and apologizes. Team Leader Choi accepts the apology and closes the matter. Won then proposes a joint raid on an A-Rank Gate for which the Star Guild has permission during the week, guaranteeing the Peace Guild rights to the Gate’s drops; Choi ultimately agrees.
+- Won Myunghoon arranges the joint raid for two o’clock the following afternoon, limiting the Star Guild to one handpicked team. Privately, he dismisses the five-member Peace Guild as disorganized and weak, but turns cold when Team Leader 1 assumes the work will be easy and orders him to stay alert.
+- The public reacts favorably to Taekyung and Won’s association, while Jinho eagerly follows the coverage and asks Taekyung to obtain Won’s autograph. Taekyung leaves excited to attempt his first A-Rank Gate alongside his former idol.
+- The Peace Guild party includes four A-Rank Hunters and more than ten B-Rank Hunters between both Guilds. Im Kkeokjeong is visibly nervous but participates with permission. The group arrives at the A-Rank Gate The Black Wyvern’s Nest, contrary to Team Leader Choi’s expectations, and Taekyung recognizes the Black Wyvern from three years earlier, recalling its roar, blackened eyes, blade-like tongue, collapsing wings, and claws tearing his teammates apart.
 
 ## Open Questions
 
@@ -22,7 +22,7 @@
 - Will Taekyung attend the Star-Array Grand Banquet, and what exactly was the answer that changed the three men's expressions?
 - What are the Reward and Failure conditions of the Gate Suppression Quest?
 - How will the Gate near Hwang Cheol Soo's tollgate ultimately be contained, and what further monsters may emerge?
-- What will happen during the proposed joint A-Rank Gate raid?
+- Why did the joint raid lead the party to The Black Wyvern's Nest, and what will happen there?
 
 ## Exceptional Decision
 
@@ -33,7 +33,7 @@
 - Render 기레기 as “hack reporter.”
 - Render 원명훈 as “Won Myunghoon,” 스타 길드 as “Star Guild,” 주간 헌터즈 as “Weekly Hunters,” and retain “hyung” for Taekyung's address to Won.
 - Render A급 헌터 as “A-Rank Hunter,” 아이튜브 as “iTube,” 태경좌 as “Taekyung the Lord,” and 시벌좌 as “Lord Fuck.”
-- Render 라이칸스로프 as “Lycanthrope,” 은빛 갈기 라이칸스로프 as “Silver-Mane Lycanthrope,” 도민수 as “Do Minsu,” 소나무 위키 as “Sonamu Wiki,” and 찌라시 as “rumor sheets.”
+- Render 라이칸스로프 as “Lycanthrope,” 은빛 갈기 라이칸스로프 as “Silver-Mane Lycanthrope,” 도민수 as “Do Minsu,” 소나무 위키 as “Sonamu Wiki,” and 블랙 와이번의 둥지 as “The Black Wyvern’s Nest.”
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
