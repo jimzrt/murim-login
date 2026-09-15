@@ -1,0 +1,126 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "The Crimson Blood Twelve Swords. The Crimson Blood Cultivation Technique. And a wooden case containing five Temporary Strength Pills.",
+      "defect": "The martial art is called Crimson Blood Twelve Swords here, contradicting the binding Crimson Blood Twelve Sabers terminology used later.",
+      "id": "C01",
+      "rationale": "The packet’s terminology decisions explicitly establish Crimson Blood Twelve Sabers, and Chapter 118 uses that rendering for the same martial art.",
+      "replacement": "The Crimson Blood Twelve Sabers. The Crimson Blood Cultivation Technique. And a wooden case containing five Temporary Strength Pills.",
+      "severity": "major",
+      "source": "Chapter 116, Pung Yang’s recollection of the tomb legacy"
+    },
+    {
+      "confidence": 1.0,
+      "current": "the Crimson Blood Twelve Swords, the Crimson Blood Cultivation Technique, and five Temporary Strength Pills",
+      "defect": "The summary repeats the incorrect Swords rendering for the established saber art.",
+      "id": "C02",
+      "rationale": "The binding terminology decision requires Crimson Blood Twelve Sabers.",
+      "replacement": "the Crimson Blood Twelve Sabers, the Crimson Blood Cultivation Technique, and five Temporary Strength Pills",
+      "severity": "major",
+      "source": "Checkpoint plot summary, first paragraph"
+    },
+    {
+      "confidence": 0.99,
+      "current": "His eyes had turned completely bloodred.",
+      "defect": "The compound adjective is missing its hyphen and differs from every subsequent use of blood-red in the packet.",
+      "id": "C03",
+      "rationale": "Hyphenating the compound restores standard usage and packet-wide formatting consistency.",
+      "replacement": "His eyes had turned completely blood-red.",
+      "severity": "minor",
+      "source": "Chapter 116, Temporary Strength Pill description"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Was it fun being the only one shoving pills down your throat?”\n\n“What?”\n\n“I asked if it was fun shoving pills down your throat all by yourself.”",
+      "defect": "The repeated exchange is rephrased across the chapter boundary, creating an audible continuity jump and changing Taekyung’s established wording.",
+      "id": "C04",
+      "rationale": "Using the exact dialogue from Chapter 117 makes the overlapping scene continuous and preserves the punchline that motivates Taekyung’s own pill use.",
+      "replacement": "“Did you enjoy being the only one popping pills?”\n\n“What?”\n\n“I asked if you enjoyed taking pills all by yourself.”",
+      "severity": "minor",
+      "source": "Chapter 118, opening dialogue repeated from Chapter 117"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“...!”",
+      "defect": "The line uses three periods instead of the required ellipsis character.",
+      "id": "C05",
+      "rationale": "The binding Markdown rules require the single ellipsis character throughout the reading copy.",
+      "replacement": "“…!”",
+      "severity": "minor",
+      "source": "Chapter 118, Pung Yang reacting to the Temporary Strength Pill’s name"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“...Valuable information?”",
+      "defect": "The line uses three periods instead of the required ellipsis character.",
+      "id": "C06",
+      "rationale": "The binding Markdown rules require the single ellipsis character throughout the reading copy.",
+      "replacement": "“…Valuable information?”",
+      "severity": "minor",
+      "source": "Chapter 118, Pung Yang asking about Taekyung’s information"
+    },
+    {
+      "confidence": 1.0,
+      "current": "In the blink of an eye, Jin Mukyung’s iron spear and Pung Yang’s curved saber finally parted after more than ten fierce exchanges.",
+      "defect": "The narration substitutes Jin Mukyung for Jin Taekyung even though Mukyung is unconscious and Taekyung is wielding the iron spear.",
+      "id": "C07",
+      "rationale": "Correcting the name removes a direct contradiction in the active fight and preserves the established weapon assignment.",
+      "replacement": "In the blink of an eye, Jin Taekyung’s iron spear and Pung Yang’s curved saber finally parted after more than ten fierce exchanges.",
+      "severity": "major",
+      "source": "Chapter 118, conclusion of Taekyung and Pung Yang’s spear-saber exchange"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Aveng​e us in our place.”",
+      "defect": "An invisible zero-width character splits the word Avenge.",
+      "id": "C08",
+      "rationale": "Removing the stray character prevents malformed search, copying, and text rendering.",
+      "replacement": "“Avenge us in our place.”",
+      "severity": "minor",
+      "source": "Chapter 119, Lee Seowol’s request to Taekyung"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Lee Seowol and nine surviving Mount Heng martial artists make a last stand so Taekyung can escape with Mukyung.",
+      "defect": "The summary counts ten last-stand participants, but Chapter 119 establishes ten survivors including Lee Seowol and then has Pung Yang kill one before the charge, leaving Lee and eight others.",
+      "id": "C09",
+      "rationale": "The replacement preserves the intervening death and the correct number of martial artists who actually begin the charge.",
+      "replacement": "After Pung Yang kills one of the ten survivors, Lee Seowol and eight surviving Mount Heng martial artists make a last stand so Taekyung can escape with Mukyung.",
+      "severity": "major",
+      "source": "Checkpoint plot summary, final paragraph"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Lee Seowol and nine other surviving Mount Heng Sword Sect martial artists began a sacrificial last stand to protect Taekyung and Mukyung; their fate is unresolved.",
+      "defect": "The continuity summary overlooks the survivor Pung Yang kills immediately before the charge and therefore overcounts the last-stand participants by one.",
+      "id": "C10",
+      "rationale": "Chapter 119 explicitly says the ten survivors include Lee Seowol, then removes one before the remaining group charges.",
+      "replacement": "After Pung Yang killed one of the ten survivors, Lee Seowol and eight other Mount Heng Sword Sect martial artists began a sacrificial last stand to protect Taekyung and Mukyung; their fate is unresolved.",
+      "severity": "major",
+      "source": "Checkpoint continuity summary, Lee Seowol bullet"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Lee Seowol and nine other surviving Mount Heng Sword Sect martial artists made a last stand to buy Taekyung time to escape with Jin Mukyung and asked him to avenge them.",
+      "defect": "The active state records ten last-stand participants despite one of the ten survivors being killed before the charge.",
+      "id": "C11",
+      "rationale": "The durable state must retain both the additional death and the resulting participant count for later continuity.",
+      "replacement": "After Pung Yang killed one of the ten survivors, Lee Seowol and eight other surviving Mount Heng Sword Sect martial artists made a last stand to buy Taekyung time to escape with Jin Mukyung and asked him to avenge them.",
+      "severity": "major",
+      "source": "Durable state, active_continuity entry for the Mount Heng last stand"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Will Lee Seowol and the nine other surviving Mount Heng martial artists survive their last stand?",
+      "defect": "The open question carries forward the same one-person overcount.",
+      "id": "C12",
+      "rationale": "Only Lee Seowol and eight others remain after Pung Yang kills one member of the original group of ten.",
+      "replacement": "Will Lee Seowol and the eight other surviving Mount Heng martial artists survive their last stand?",
+      "severity": "major",
+      "source": "Durable state, open question about the Mount Heng survivors"
+    }
+  ],
+  "summary": "The packet preserves the established action-comedy voice and most continuity, but it contains two binding terminology errors, one character-name substitution, inconsistent repeated dialogue, several formatting defects, and four state/summary entries that overlook the death immediately before the final charge and therefore overcount the last-stand participants.",
+  "version": 1
+}
