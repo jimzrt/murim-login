@@ -3,6 +3,7 @@ import { Picture } from "astro:assets";
 import Base from "../layouts/Base.astro";
 import cover from "../assets/cover.jpg";
 import Remark42Counters from "../components/Remark42Counters.astro";
+import TranslationProgress from "../components/TranslationProgress.astro";
 import {
   allChapters,
   chapterHref,
@@ -10,6 +11,7 @@ import {
   toIndex,
   withBase,
 } from "../lib/chapters";
+import { loadTranslationProgress } from "../lib/progress";
 
 const entries = await allChapters();
 const chapters = toIndex(entries);
@@ -19,6 +21,7 @@ const firstHref = first ? chapterHref(first.data.chapter) : withBase("");
 const wordMap = Object.fromEntries(
   entries.map((entry) => [String(entry.data.chapter), entry.data.wordCount]),
 );
+const mastered = new Set(loadTranslationProgress().mastered);
 ---
 
 <Base
@@ -193,13 +196,15 @@ const wordMap = Object.fromEntries(
           </a>
         </div>
         <p class="site-intro__note">
-          Found awkward, inconsistent, or wrong wording? Open a pull request
-          against the relevant file in <code>translations/</code>. Improvements
-          are reviewed as normal source changes and then propagate to the web
-          reader and the ebook release.
+          Found awkward, inconsistent, or wrong wording? Select the line in a chapter
+          and use <strong>Report line</strong>, or open a pull request against
+          <code>translations/</code>. Improvements are reviewed as normal source
+          changes and then propagate to the web reader and the ebook release.
         </p>
       </div>
     </details>
+
+    <TranslationProgress />
 
     <section class="toc" aria-labelledby="toc-heading">
       <h2 id="toc-heading" class="toc-heading">Chapters</h2>
@@ -212,7 +217,11 @@ const wordMap = Object.fromEntries(
         />
       </label>
       {
-        groups.map((group) => (
+        groups.map((group) => {
+          const masteredInGroup = group.items.filter((row) =>
+            mastered.has(row.chapter),
+          ).length;
+          return (
           <details
             class="chapter-range"
             data-start={group.start}
@@ -220,27 +229,51 @@ const wordMap = Object.fromEntries(
           >
             <summary>
               <span>{group.label}</span>
-              <span class="range-count">{group.items.length}</span>
+              <span class="range-count">
+                {group.items.length}
+                {masteredInGroup > 0
+                  ? ` · ${masteredInGroup} mastered`
+                  : ""}
+              </span>
             </summary>
             <ol class="chapter-ol">
-              {group.items.map((item) => (
-                <li>
-                  <a href={item.href} data-chapter={item.chapter}>
-                    <span class="chapter-ol__title">{item.title}</span>
-                    <span class="chapter-ol__meta">
-                      <span
-                        class="remark42__counter"
-                        data-url={`chapter-${item.chapter}`}
-                      >
-                        0
+              {group.items.map((item) => {
+                const isMastered = mastered.has(item.chapter);
+                return (
+                  <li>
+                    <a
+                      href={item.href}
+                      data-chapter={item.chapter}
+                      data-mastered={isMastered ? "1" : undefined}
+                    >
+                      <span class="chapter-ol__title">{item.title}</span>
+                      <span class="chapter-ol__meta">
+                        {isMastered && (
+                          <span class="chapter-badge chapter-badge--mastered" title="Mastered">Mastered</span>
+                        )}
+                        <span class="chapter-comments" title="Comments">
+                          <svg class="chapter-comments__icon" viewBox="0 0 16 16" aria-hidden="true" focusable="false">
+                            <path
+                              fill="currentColor"
+                              d="M2.5 2.5h11a1 1 0 0 1 1 1v6a1 1 0 0 1-1 1H6.2L3.5 13.2V10.5h-1a1 1 0 0 1-1-1v-6a1 1 0 0 1 1-1Z"
+                            />
+                          </svg>
+                          <span
+                            class="remark42__counter"
+                            data-url={`chapter-${item.chapter}`}
+                          >
+                            0
+                          </span>
+                        </span>
                       </span>
-                    </span>
-                  </a>
-                </li>
-              ))}
+                    </a>
+                  </li>
+                );
+              })}
             </ol>
           </details>
-        ))
+          );
+        })
       }
     </section>
   </main>
