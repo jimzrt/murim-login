@@ -1,0 +1,126 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "A moment later, excruciating pain robbed me of my breath.",
+      "defect": "“A moment later” introduces a delay absent from the source, which describes the pain and breathlessness as instantaneous.",
+      "id": "F01",
+      "rationale": "순간 means “in an instant” or “for an instant,” not a moment afterward.",
+      "replacement": "In an instant, excruciating pain robbed me of my breath.",
+      "severity": "minor",
+      "source": "순간 숨이 턱 막히는 극통."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“...Fine, shit. Hit me.”",
+      "defect": "The isolated “shit” is unnatural English and softens the force and resigned profanity of 시발.",
+      "id": "F02",
+      "rationale": "시발 is strong profanity here, while the surrounding resignation is naturally conveyed by “fuck it.”",
+      "replacement": "“…Fine, fuck it. Hit me.”",
+      "severity": "major",
+      "source": "“……그래, 시발. 쳐라.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Fortunately, what I feared didn’t happen. Hyuk Mujin’s butt, which had been supporting his unconscious body for quite some time, caught the back of my head.",
+      "defect": "The draft makes Hyuk Mujin’s butt support his own unconscious body. The source instead says Hyuk Mujin had already passed out and fallen, leaving his butt in position to cushion Taekyung’s head.",
+      "id": "F03",
+      "rationale": "진작 기절해서 쓰러져 있던 modifies Hyuk Mujin, not his butt, and establishes why his body is already on the ground.",
+      "replacement": "Fortunately, what I feared didn’t happen. Hyuk Mujin had already passed out and fallen over, and his butt cushioned the back of my head.",
+      "severity": "critical",
+      "source": "다행히도 우려했던 일은 없었다. 진작 기절해서 쓰러져 있던 혁무진의 엉덩이가 뒤통수를 받쳐 주었기 때문이다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "This bastard had apple hips, at the very least.",
+      "defect": "“Apple hips” is not natural English and obscures the Korean slang for a round, firm, apple-shaped butt.",
+      "id": "F04",
+      "rationale": "애플 힙 describes rounded, firm buttocks, while 최소 supplies the narrator’s clipped “minimum” punchline.",
+      "replacement": "This bastard had an apple-shaped ass, minimum.",
+      "severity": "minor",
+      "source": "이 새끼 최소 애플 힙."
+    },
+    {
+      "confidence": 0.98,
+      "current": "My duel with Cheongpung was even more one-sided than my duel with Jin Mukyung, and just as brutal.",
+      "defect": "“Just as brutal” incorrectly makes the brutality equal. The source says the duel was more one-sided and correspondingly more punishing.",
+      "id": "F05",
+      "rationale": "그만큼 links the harshness to the greater one-sidedness rather than equating it with the earlier duel.",
+      "replacement": "My duel with Cheongpung was even more one-sided than my duel with Jin Mukyung, and that much more brutal.",
+      "severity": "major",
+      "source": "청풍과의 비무는 진무경보다 일방적이었고 그만큼 혹독했다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“But then it wouldn’t be training. Grandfather said that doing something half-heartedly is worse than not doing it at all...”",
+      "defect": "The draft explicitly attributes the saying to Grandfather before Taekyung deduces that attribution in the next line, spoiling the exchange’s comic timing.",
+      "id": "F06",
+      "rationale": "Cheongpung does not say “Grandfather said” here; Taekyung supplies that connection in his response.",
+      "replacement": "“But then it wouldn’t be training. Doing something half-heartedly is worse than not doing it at all…”",
+      "severity": "major",
+      "source": "“하지만 그렇게 하면 수련이 안 되는걸요. 어설픈 건 안 하는 것만 못하다고…….”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I certainly didn’t.”",
+      "defect": "The past-tense response is unnatural and does not match the deadpan present-tense meaning.",
+      "id": "F07",
+      "rationale": "저야 모르죠 is a dry, conversational denial of knowing, not a statement that he previously did not know.",
+      "replacement": "“How would I know?”",
+      "severity": "minor",
+      "source": "“저야 모르죠.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "When Jin Taekyung had given him all the candied hawthorn skewers they had bought when they first met, Cheongpung had nearly cried.",
+      "defect": "The draft adds that “they had bought” the skewers, which the source does not state, and omits the required cultural footnote for the established item.",
+      "id": "F08",
+      "rationale": "몽땅 means all or every last one; nothing in the sentence says who purchased them. The ledger specifies that 빙당호로 should be briefly explained at its first meaningful occurrence.",
+      "replacement": "When Jin Taekyung had given him every last candied hawthorn skewer[^1] the first time they met, Cheongpung had nearly cried.\n\n[^1]: Traditional fruit skewers coated in hardened sugar.",
+      "severity": "minor",
+      "source": "초면에 그가 빙당호로를 몽땅 줬을 때, 청풍은 눈물이 날 뻔했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "And Grandfather had always said that the weak must be protected.",
+      "defect": "The passive formulation omits that Grandfather repeatedly instructed Cheongpung himself to protect the weak.",
+      "id": "F09",
+      "rationale": "보호하라고 is reported instruction directed at Cheongpung, which matters to his reasoning and characterization.",
+      "replacement": "And Grandfather had always told him to protect the weak.",
+      "severity": "major",
+      "source": "그리고 할아버지는 늘 말씀하셨다. 늘 약자를 보호하라고."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Benefactor, that won’t work. This is the Thousand-Kilogram Drop—”",
+      "defect": "The technique name incorrectly equates 근 with kilograms, changing the stated traditional weight quantity and inventing an unsupported metric rendering.",
+      "id": "F10",
+      "rationale": "천근추 literally invokes one thousand traditional catties, not one thousand kilograms; the unlisted culturally specific technique name also benefits from a brief factual note.",
+      "replacement": "“Benefactor, that won’t work. This is the Thousand-Catty Drop[^2]—”\n\n[^2]: A catty is a traditional East Asian unit of weight; the technique’s name evokes immense downward force.",
+      "severity": "major",
+      "source": "“은인, 소용없어요. 이건 천근추…….”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "The spear shaft had been flung into the sky by Jin Taekyung’s tremendous strength. Cheongpung’s two feet naturally came off it, and he found himself stepping on empty air.",
+      "defect": "“Flung into the sky” ambiguously depicts the spear shaft as a released projectile. The source says Taekyung swings the still-wielded shaft upward, throwing Cheongpung’s feet clear.",
+      "id": "F11",
+      "rationale": "휘둘러진 describes the shaft being swung, and the following attack confirms that Taekyung has not thrown the weapon away.",
+      "replacement": "Jin Taekyung’s tremendous strength swung the spear shaft skyward. Cheongpung’s feet were thrown clear, leaving him stepping on empty air.",
+      "severity": "major",
+      "source": "진태경의 엄청난 거력(巨力)에 의해 하늘로 휘둘러진 창대. 자연스럽게 떨어져 나간 청풍의 두 발이 허공을 밟았다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "His movements were rough and unrefined. His martial arts were nothing special, yet they created a strange tension. An aura naturally seeped out of him...",
+      "defect": "The draft assigns “rough and unrefined” to Taekyung’s movements and makes the martial arts create the tension. The source characterizes the martial arts as rough, unrefined, and ordinary while distinguishing the tension produced by his movements and the aura emanating from him.",
+      "id": "F12",
+      "rationale": "The modifiers 거칠고, 아직 다듬어지지 않은, 그저 그런 describe 무공, while 묘한 긴장감을 주는 describes 움직임.",
+      "replacement": "Though his martial arts were rough, still unrefined, and otherwise unremarkable, his movements created a strange tension. His aura seeped out naturally…",
+      "severity": "major",
+      "source": "거칠고, 아직 다듬어지지 않은, 그저 그런 무공임에도 묘한 긴장감을 주는 움직임. 자연스럽게 배어 나오는 기세……."
+    }
+  ],
+  "summary": "One critical action error plus major fidelity issues involving comparative severity, comic timing, directed instruction, technique terminology, and combat mechanics; several localized register and wording defects also remain.",
+  "version": 1
+}
