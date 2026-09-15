@@ -215,3 +215,10 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 총지부장 | **Chief Branch Leader** | Title Wolhwa holds within the Lower District Sect. |
 | 송이 | **Song-i** | Short form used for Song Song; Taekyung's love interest. |
 | 진무보법 | **Jin Family's Manoeuvre Technique** | Named Jin Family footwork technique mastered by Taekyung. |
+| 조장 | **Captain** | Hyuk Mujin's address for Taekyung as squad leader. |
+| 숙부 | **Uncle** | Lee Seowol's shortened address for Cheol Mubaek. |
+| 은원 | **gratitude and grudges** | Moral debts that must be repaid. |
+| 원단 | **New Year's Day** | The day the Mount Heng Sword Sect will visit Taiyuan. |
+| 갑자 | **jiazi** | Traditional sixty-year cycle. |
+| 시진 | **shichen** | Traditional time unit of approximately two hours. |
+| 아이템창 | **Item Window** | System window displaying an item's details. |
