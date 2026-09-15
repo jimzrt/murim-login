@@ -388,3 +388,9 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 봉미혈 | **Fengwei acupoint** | Acupoint around the ribs targeted by Cheongpung. |
 | 태권도 | **Taekwondo** | Martial art Taekyung practiced as a child. |
 | 태극 1장부터 8장까지 | **Taegeuk Forms 1 through 8** | Standard taekwondo pattern sequence Taekyung copied as a child. |
+| 공수납백인 | **Empty-Hand Seizes the Blade** | Technique for catching an opponent's weapon between bare fingers. |
+| 오행매화보 | **Five-Element Plum Blossom Steps** | Footwork technique Cheongpung combines with Dark Fragrance Drift. |
+| 백전백패 | **Hundred Battles, Hundred Losses** | Taekyung's proposed teasing nickname for Mujin. |
+| 너구리 | **Neoguri** | Instant-noodle brand used in Taekyung's flavor joke. |
+| 진라면 | **Jin Ramen** | Instant-noodle brand used in Taekyung's flavor joke. |
+| 푸라면 | **Puramyeon** | Instant-noodle brand used in Taekyung's flavor joke. |
