@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "with a satisfying crack",
+      "defect": "The source describes the slap as producing a satisfyingly crisp, solid sound; “crack” suggests a sharper impact or physical break not present in the Korean.",
+      "id": "F01",
+      "rationale": "찰진 소리 characterizes the full, satisfying quality of the slap’s sound rather than a cracking noise.",
+      "replacement": "with a satisfyingly solid smack",
+      "severity": "minor",
+      "source": "lines 5–7"
+    }
+  ],
+  "summary": "The chapter is faithful overall, with one minor sound-detail defect.",
+  "version": 1
+}
