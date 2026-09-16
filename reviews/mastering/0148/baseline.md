@@ -4,7 +4,7 @@ In the atmosphere warmed by the enormous sum of a hundred thousand nyang, Jin Wi
 
 “I am Jin Wikyung of the Jin Family of Taiyuan. It is an immense pleasure to meet the Deputy Military Commissioner I’ve heard so much about.”
 
-“To receive such a warm welcome from the Lesser Family Head of the great Jin Family of Taiyuan—I hardly know what to do with myself. Please, call me Comrade Hong from now on.”
+“Being so warmly welcomed by the Lesser Family Head of the great Jin Family of Taiyuan leaves me at a loss. From now on, please just call me Comrade Hong.”
 
 “Even so, how could I address an official that casually?”
 
@@ -34,17 +34,17 @@ Hong Jin smiled and patted my shoulder.
 
 “Oh, is that so?”
 
-“Yes. He was so happy, he simply wouldn’t let him go.”
+“Yes. He was so happy that he had no intention of letting him go.”
 
 “Uhehehe. It seems our youngest—no. It seems His Highness has taken quite a liking to my younger brother.”
 
-“I can see why. He’s handsome, tall, and well-built. He’s strong in martial arts and has such an easygoing personality. Who could dislike him?”
+“I can see why. He’s handsome, tall, and well-built. He’s strong in martial arts, and he has such an easygoing personality. Who could dislike him?”
 
-“Ahem. It feels rather awkward to say this myself, but Taekyung truly is an extraordinary talent. If he had been born into one of the Five Great Families instead of our family, no one would be surprised if he became the greatest under heaven.”
+“Ehem. It feels strange to say this myself, but Taekyung really is an extraordinary talent. If he had been born somewhere like the Five Great Families instead of our family, it wouldn’t be strange if he became the greatest under heaven.”
 
-Jin Wikyung got so carried away that he forgot all about acting dignified. As he chattered excitedly, Hong Jin’s expression hardened.
+Hong Jin’s expression hardened as Jin Wikyung got carried away, chattering excitedly and forgetting all about maintaining his dignity.
 
-“The greatest under heaven? Lesser Family Head Jin, that joke goes too far.”
+“The greatest under heaven? Lesser Family Head Jin, that’s too much of a joke.”
 
 “Pardon? What do you mean?”
 
@@ -60,7 +60,7 @@ As the atmosphere instantly turned cold, Jin Wikyung gave an uncomfortable cough
 
 “Allow me to congratulate you in advance, Lesser Family Head. For the greatest of all time to come from the Jin Family of Taiyuan—what a blessing for Shanxi Province.”
 
-Jin Wikyung cried out, overcome with emotion.
+Jin Wikyung cried out with a deeply moved expression.
 
 “Comrade Hong!”
 
@@ -96,7 +96,7 @@ When the two men disappeared, laughing loudly with their arms around each other�
 
 “Unfortunately, yes.”
 
-“I heard he was once a palace attendant, but I never imagined he would be so frivolous.”
+“I heard he was a former palace attendant, but I didn’t know he’d be so frivolous.”
 
 Well, then what did that make Jin Wikyung, a martial artist who had played along with every bit of it?
 
@@ -104,13 +104,13 @@ Jin Mukyung, who had been wearing a sour expression for some time, finally spoke
 
 “That’s just the kind of man he is. Last time, he subtly stroked my shoulder. I barely stopped myself from breaking his arm.”
 
-He tore the cloth in his hands to shreds and flung it to the ground. Looking much more relieved, he said,
+He ripped the cloth in his hands into strips and threw them onto the ground, then spoke with a much more relieved expression.
 
 “Then I have important business, so I’ll be leaving.”
 
 “What business? Training again, I assume.”
 
-“Is anything more important to a martial artist than training?”
+“Is there anything more important to a martial artist than training?”
 
 “……No.”
 
@@ -128,21 +128,21 @@ When both men’s eyebrows shot upward, Cheongpung turned to me with a flustered
 
 “Uh, Benefactor. Did I do something wrong?”
 
-“Wrong? Of course not. They’re just intrigued. Right, gentlemen?”
+“What do you mean, wrong? They just found it interesting. Right, gentlemen?”
 
 Neither man took his eyes off Cheongpung. They merely nodded.
 
 An extraordinarily young Peak master. It was only natural that they would be curious about the identity of this Cheongpung who had suddenly appeared out of nowhere.
 
-“While we’re at it, why don’t you introduce yourselves? This is Cheongpung.”
+“Since we’re here, why don’t you introduce yourselves? This is Cheongpung.”
 
-Before I had even finished speaking, Cheongpung bowed deeply.
+Before I had even finished speaking, Cheongpung gave a deep bow.
 
 “Hello, I’m Cheongpung! I’ve only been in Shanxi for a few days. Before that, I was in Henan, and before that…”
 
 *Where did this guy crawl out of?*
 
-The question was written all over their faces.
+The question was written plainly across both men’s faces.
 
 Just as I expected. I explained Cheongpung’s identity simply and clearly.
 
@@ -152,15 +152,15 @@ Just as I expected. I explained Cheongpung’s identity simply and clearly.
 
 “……!”
 
-The name of Sword Saint Mae Jonghak was practically a cheat code among martial artists.
+The name of Sword Saint Mae Jonghak was practically an instant cheat code among martial artists.
 
-Both men gaped at Cheongpung, too stunned to speak. Cheongpung cautiously asked,
+When the two men stared at Cheongpung in shock, mouths hanging open and unable to speak, he asked cautiously,
 
 “Um, which of you is the Heaven Shaking Sword?”
 
-Still reeling from the shock, Jin Mukyung stammered out a reply.
+Jin Mukyung, who still hadn’t recovered from the shock, stammered out a reply.
 
-“I-I’m the Heaven Shaking Sword. But are you really the Sword Saint, Great Hero Mae Jonghak’s…?”
+“I-I’m the Heaven Shaking Sword. But are you really the Sword Saint Mae Jonghak’s…?”
 
 “Yes. He’s my grandfather.”
 
@@ -172,7 +172,7 @@ A young man claiming to be the disciple—and grandson—of a Supreme Peak maste
 
 “This can’t be…”
 
-“The Sword Saint’s successor…”
+“He’s the Sword Saint’s successor…”
 
 Cheongpung looked back and forth between the two astonished men, then smiled brightly.
 
@@ -182,11 +182,11 @@ Cheongpung looked back and forth between the two astonished men, then smiled bri
 
 His voice was filled with expectation and excitement.
 
-Both men were swordsmen who had trained with the sword their entire lives. Mae Jonghak had attained such heights in the Way of the Sword that he had earned the title Sword Saint. To them, he was practically a god.
+Both men had trained in swordsmanship their entire lives. To them, Mae Jonghak was practically a god—a man who had reached such a level in the Way of the Sword that he had earned the martial title of Sword Saint.
 
 But Cheongpung’s answer shattered their expectations.
 
-“No. I snuck out alone. There were people I wanted to meet.”
+“No. I just snuck out by myself. There were people I wanted to meet.”
 
 “Ah…”
 
@@ -196,17 +196,17 @@ But Cheongpung’s answer shattered their expectations.
 
 Cheongpung looked at the two crestfallen men before speaking again.
 
-His gleaming eyes had been fixed on Jin Mukyung for some time now.
+His bright eyes had been fixed on Jin Mukyung for some time.
 
-“Are you really Young Hero Jin Mukyung, the Heaven Shaking Sword? The one from the Ten Dragons and Phoenixes?”
+“Are you really Young Hero Jin Mukyung, the one from the Ten Dragons and Phoenixes?”
 
-“That’s right. I am Jin Mukyung.”
+“That’s right. I’m Jin Mukyung.”
 
 “Wow, I finally found you!”
 
 “……Hmm?”
 
-“I’ve been searching everywhere for you. From Heaven’s Gate Temple in Henan all the way here.”
+“I searched everywhere for you. From Heaven’s Gate Temple in Henan all the way here.”
 
 *What? The person that guy had been looking for was Jin Mukyung?*
 
@@ -226,7 +226,7 @@ Cheongpung smiled softly. It was completely different from the bright, innocent 
 
 “……!”
 
-“My grandfather told me this: A martial artist has no need for conversation. We contend through martial arts alone.”
+“My grandfather told me this: A martial artist has no need for conversation. We settle things through martial arts alone.”
 
 Sssss.
 
@@ -242,7 +242,7 @@ The Extreme Yang qi burned the cold away. The earth melted, and the soil scorche
 
 “Is there any need?”
 
-Jin Mukyung continued.
+Jin Mukyung continued,
 
 “Draw your sword.”
 
@@ -256,27 +256,27 @@ As he placed a hand on the hilt, he thought of one man’s name.
 
 Not once had he forgotten that name since the day he first held a sword.
 
-A legendary swordsman said to have reached the ultimate realm of the sword—or perhaps a realm beyond it.
+A legendary swordsman who was said to have reached the ultimate realm of the sword—or perhaps a realm beyond it.
 
 Everyone revered the Sword Saint, but Jin Mukyung was different.
 
-*Someday, I will defeat him.*
+*Someday, I’ll defeat him.*
 
 If anyone had heard him say that, they would have snorted. They would have pointed at him and called him crazy.
 
-No matter how much of a genius Jin Mukyung was, he could never reach the Sword Saint’s name. Ever since Mae Jonghak had begun to be called the Sword Saint, no one had surpassed him.
+No matter how talented Jin Mukyung was, he could never touch the Sword Saint’s level. Ever since Mae Jonghak had begun to be called the Sword Saint, no one had surpassed him.
 
-Decades ago, Sword Saint Mae Jonghak had already written a new chapter in the history of the orthodox Murim and become the protagonist of a legend.
+Sword Saint Mae Jonghak had written a new chapter in the history of the orthodox Murim decades ago and become the protagonist of a legend.
 
 *It doesn’t matter. This is my goal.*
 
-It was not reckless arrogance. It was a goal.
+It wasn’t reckless arrogance. It was a goal.
 
 A goal he had etched into his bones and heart every day as he trained with his sword.
 
 And at this very moment, someone who had inherited everything from Sword Saint Mae Jonghak stood before him.
 
-“My grandfather used to tell me, ‘Compared to the Ten Dragons and Phoenixes, you are nothing. Don’t become arrogant.’”
+“My grandfather used to tell me this. ‘Compared to the Ten Dragons and Phoenixes, you are nothing. Don’t become arrogant.’”
 
 Cheongpung slowly stepped forward. A single blue-steel sword dangled from his waist, tied on haphazardly, and his footsteps were as light as though he had come out for a stroll.
 
@@ -284,23 +284,23 @@ But…
 
 *There are no openings.*
 
-He looked utterly careless, but Jin Mukyung had no idea when or how he could attack.
+He looked utterly careless, yet Jin Mukyung couldn’t figure out when or how he was supposed to attack him.
 
 Jin Mukyung licked his parched lips.
 
 “I’ve never even met him… He praised me too highly.”
 
-“No. Honestly, you surprised me a little. I mean that.”
+“No, honestly, you surprised me a little. I mean that.”
 
-Jin Mukyung knew that Cheongpung meant every word. That only made him feel stranger.
+Jin Mukyung knew that everything Cheongpung was saying was sincere. That only made it feel stranger.
 
-*Only a little?*
+*Just a little?*
 
-It had been more than twenty years since he began training with the sword. Talent and effort had brought him this far.
+More than twenty years had passed since he began training with the sword. He had reached this point through talent and effort.
 
-People called him a genius, gave him the martial title Heaven Shaking Sword, and counted him among the Ten Dragons and Phoenixes.
+People had called him a genius, given him the martial title Heaven Shaking Sword, and counted him among the Ten Dragons and Phoenixes.
 
-He had believed he had never once become drunk on such empty fame, but…
+He had believed that he had never once been intoxicated by such hollow fame, but…
 
 *I still have a long way to go.*
 
@@ -318,7 +318,7 @@ The wound Pung Yang had inflicted on him not long ago seemed to throb again.
 
 “Because you met me?”
 
-“Yes. Because I met you, Young Hero Jin. Now I know what the Ten Dragons and Phoenixes are capable of.”
+“Yes. Because I met Young Hero Jin. Now I know what the Ten Dragons and Phoenixes are capable of.”
 
 “Is that so?”
 
@@ -336,19 +336,19 @@ A guy who seemed like he could somehow survive no matter where he was thrown in 
 
 “How old are you?”
 
-“I turned twenty this year.”
+“I’m twenty this year.”
 
-“We’re even the same age. Coincidence? Or fate?”
+“We’re the same age. Is it coincidence? Or fate?”
 
 “What?”
 
-Instead of answering, Jin Mukyung shook his head.
+Jin Mukyung shook his head instead of answering.
 
 In truth, he already knew the outcome of this duel. The qi of the Zaha Divine Technique surging through Cheongpung’s entire body was that overwhelming.
 
-His only regret was that he couldn’t display the full extent of his skill against an opponent of this caliber.
+It was merely regrettable that he couldn’t display all his abilities against an opponent of this caliber.
 
-*What would that troublemaker do in a situation like this?*
+*How would that troublemaker handle a situation like this?*
 
 Jin Mukyung glanced at his troublesome younger brother. With a grin like a little devil’s, Taekyung was mouthing something.
 

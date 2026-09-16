@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "He tore the cloth in his hands to shreds and flung it to the ground.",
+      "defect": "The source specifically depicts him ripping the cloth into strips, not generally shredding it.",
+      "id": "F01",
+      "rationale": "쫙쫙 찢어 conveys repeated long tearing motions that produce strips; “to shreds” changes the resulting physical detail.",
+      "replacement": "He ripped the cloth in his hands into strips and flung them to the ground.",
+      "severity": "minor",
+      "source": "lines 109–110"
+    },
+    {
+      "confidence": 0.93,
+      "current": "*What a goddamn bastard.*",
+      "defect": "The translation omits the source’s violent, mock-murderous force and reduces the thought to a generic insult.",
+      "id": "F02",
+      "rationale": "이런 쳐 죽일 놈을 봤나 expresses that the person deserves to be beaten to death, functioning here as Jin Mukyung’s furious internal threat toward his brother.",
+      "replacement": "*You little fucker. I’ll kill you.*",
+      "severity": "minor",
+      "source": "line 361"
+    }
+  ],
+  "summary": "The chapter is highly faithful overall, with two minor losses of source-specific physical and tonal detail.",
+  "version": 1
+}
