@@ -2,7 +2,7 @@
 
 Hong Woojin regretted it.
 
-*I didn’t think this through.*
+*I didn't think this through.*
 
 The intrusion itself had gone perfectly. He had approached the target’s cat-loving younger sister and won her heart with a pair of pitiful yet sparkling eyes.
 
@@ -12,7 +12,7 @@ The problem was…
 
 *Meow.*
 
-“Yeoreum, why do you keep trying to get out the door? Stay here and play with Sis.”
+“Yeoreum, why do you keep trying to get out the door? Stay here and play with your big sis.”
 
 *Meow.*
 
@@ -20,15 +20,15 @@ The problem was…
 
 *Hiss! Hissssss!*
 
-“Oh no, is Yeoreum mad? I’m sorry. Did Sis pet you too much? Okay, I’ll stay still, so play on the bed, all right?”
+“Oh no, is Yeoreum mad? I’m sorry. Did Sis touch you too much? Okay, I’ll stay still, so play on the bed, all right?”
 
-This damn younger sister had absolutely no intention of letting him out. Thanks to her, he had spent more than a day and a half trapped in Jin Hayeon’s room.
+This damn younger sister had absolutely no intention of letting him outside. Thanks to her, he had spent more than a day and a half trapped in Jin Hayeon’s room.
 
 *I should’ve gone with a dog.*
 
 If he had been a dog, getting inside wouldn’t have been this easy. But once he was in, he wouldn’t have been practically held captive, either. At the very least, they would have taken him out for walks.
 
-*This is getting me nowhere.*
+*This gets me nowhere.*
 
 Swept up by a sense of crisis, Hong Woojin attempted to escape.
 
@@ -44,21 +44,21 @@ Scritch, scritch-scritch-scritch.
 
 “…”
 
-His first attempt failed. He scratched desperately at the door and even yowled as loudly as he could, but Jin Hayeon didn’t react even once.
+His first attempt was a failure. He scratched desperately at the door and even tried crying as loudly as he could, but Jin Hayeon didn’t react even once.
 
-She wasn’t even wearing earphones. She simply continued working through her workbook with a fierce look in her eyes and swift movements of her hands.
+Without even putting on earphones, she simply continued solving problems with a fierce look in her eyes and swift movements of her hands.
 
 *So this is what it means to be in the top 0.01 percent nationwide.*
 
-He had seen it in the initial investigation report. Ever since middle school, she had routinely ranked first or second in her entire school and had earned countless awards in academic competitions. It was hard to forget a record like that.
+He had seen it in the initial investigation report. Ever since middle school, she had routinely ranked first or second in her entire school and had earned countless awards in various academic competitions. It was hard to forget a record like that.
 
 Only today did Hong Woojin understand why.
 
-Sitting at her desk, she displayed a truly terrifying level of concentration.
+Sitting in front of her desk, she possessed truly terrifying powers of concentration.
 
 *Someone like this would make the perfect mage… No, that’s not the point.*
 
-He continued trying everything he could to disrupt her studies. He pawed at her feet without pause and kept acting cute.
+He continued trying to disrupt her studies somehow. He pawed at her feet without pause and kept acting cute.
 
 But Jin Hayeon’s response was simple.
 
@@ -70,7 +70,7 @@ That was the limit of being a kitten.
 
 *This operation has failed.*
 
-Since his plan to disrupt her studies had gone up in smoke, he had no choice but to play his final card. It would deal a serious blow to his human dignity, but this was no time to be picky.
+Since his plan to disrupt her studies had gone up in smoke, he had no choice but to bring out his final card. It would deal a serious blow to his human dignity, but this was no time to be picky.
 
 *Let’s see if you ignore this, too.*
 
@@ -80,27 +80,27 @@ The pristine white duvet turned yellow.
 
 When nature called, it was best to take care of both kinds of business at once. Having finished both simultaneously, Hong Woojin made a solemn decision.
 
-*Fine. Since things have come to this, I might as well do it properly. Like a professional.*
+*Fine. Since things have come to this, I might as well take care of it properly. Like a professional.*
 
 He rolled over and over.
 
-It had been five years since he started using Familiar magic. This was the first time he had ever sunk this low.
+It had been five years since he started using Familiar magic. This was the first time he had ever fallen this far.
 
-He kept brainwashing himself.
+He kept hypnotizing himself.
 
 *I’m a professional. I’m a professional. I’m a professional…*
 
 A little while later, Jin Hayeon noticed a strange smell and turned around.
 
-By then, it was all over.
+By then, everything was over.
 
 *Meow.*
 
-A duvet stained with urine and feces, and a kitten likewise covered in filth.
+A duvet stained with urine and feces, and a kitten covered in filth.
 
 “Eek, Yeoreum!”
 
-Startled, Jin Hayeon moved quickly. She pulled off the dirty duvet, then carefully grabbed the kitten by the scruff and lifted it up.
+Jin Hayeon was startled and moved quickly. She pulled off the dirty duvet, then carefully grabbed the kitten by the scruff of its neck and lifted it up.
 
 “What are you doing going to the bathroom here when your litter box is right there? We need to wash our Yeoreum.”
 
@@ -118,7 +118,7 @@ The living room he hadn’t seen since yesterday came into view!
 
 *Meow! Myaaaow!*
 
-“That’s strange. Why does it seem so happy?”
+“That’s strange. Why does it look so happy?”
 
 Jin Hayeon tilted her head.
 
@@ -148,31 +148,35 @@ And then came the next thought.
 
 *Ah, fuck.*
 
-It was the moment the last shred of Hong Woojin’s human dignity came crashing down.
+It was the moment the last shred of Hong Woojin’s human dignity collapsed.
 
 * * *
 
-“He got poop all over the duvet?”
+“You smeared poop all over the duvet?”
 
 “Yeah. I guess he had an accident while I was studying for a bit.”
 
 *An accident, my ass.*
 
-Hayeon had kept him in her room, petting and cuddling him nonstop, so he’d put his brain to work trying to escape. That was all.
+Since Hayeon had kept him in her room, petting and cuddling him nonstop, he had wracked his brain for a way to get out.
 
 *Myaow…*
 
-The cat—no, there were two of them now, so I supposed I should call them by their names.
+A cat.
 
-Anyway, Yeoreum let out a feeble cry, and Hayeon asked worriedly, “He’s been listless for a while.”
+No, there were two of them now, so I supposed I should call them by their names.
+
+Whatever the case, Hayeon asked worriedly at the sound of Yeoreum’s feeble cry.
+
+“He’s been looking weak for a while.”
 
 “Hmm. That can happen.”
 
-I couldn’t say for sure, but his self-loathing had to be off the charts.
+I couldn’t say for sure, but his self-loathing had to be something else.
 
 He had run into both a fellow professional and his surveillance target while covered in shit.
 
-“Don’t worry too much. Cats hate getting wet, you know.”
+“Don’t worry too much. Cats normally hate getting water on their bodies.”
 
 “Is that why? No, he didn’t even resist when I washed him earlier. He was completely docile.”
 
@@ -186,19 +190,17 @@ I swallowed my laughter and said, “Who knows? Anyway, what are you going to do
 
 “It’s fine. It was an animal, not a person. What’s the big deal?”
 
-They said a thoughtlessly thrown stone could kill a frog.
+They say a frog can die from a stone thrown without a second thought.
 
-This was exactly that kind of situation. Hayeon’s offhand remark turned into a dagger and plunged into someone’s heart.
-
-Flinch.
+That was exactly what had happened here. Hayeon’s offhand remark turned into a blade and lodged itself in someone’s chest.
 
 The kitten trembled violently in silence, unable to even cry out.
 
-Meanwhile, the other one was having the time of its life.
+Meanwhile, the other one was having a wonderful time.
 
 *Purr. Prrrr.*
 
-The black cat made happy noises as it rubbed its face against my leg over and over, and Hayeon gazed at it with utter adoration.
+Hayeon gazed at the black cat with a face full of adoration as it repeatedly rubbed its face against my leg, making happy noises.
 
 “Where did you bring him from?”
 
@@ -208,17 +210,17 @@ The black cat made happy noises as it rubbed its face against my leg over and ov
 
 “I guess so. He was alone.”
 
-“What? Then his mother might be nearby. You’re supposed to watch a kitten for about a day before bringing it home.”
+“What? Then he might have a mother. You’re supposed to watch a kitten for about a day before bringing it home.”
 
 “Some man told me he’d been crying alone since yesterday.”
 
 “Oh, then he doesn’t have a mother.”
 
-Flinch!
+The black cat flinched.
 
 Its purring and attempts to act cute stopped dead. Without realizing it, Hayeon had scored two kills, and she smiled brightly.
 
-“There, there. You don’t have a mother, either. It’s okay. From today on, Sis will be your mommy.”
+“There, there. You don’t have a mother, either. It’s okay. From today onward, Sis will be your mommy.”
 
 “…”
 
@@ -236,7 +238,7 @@ Watching them, I suddenly thought of Mom.
 
 “Where’s Mom?”
 
-“I don’t know. She went out for an important appointment.”
+“I don’t know. She went out because she had an important appointment.”
 
 “An appointment?”
 
@@ -244,17 +246,17 @@ Watching them, I suddenly thought of Mom.
 
 *What’s going on?*
 
-Mom had been leaving the house frequently these days. Now that she had some free time after quitting her job, was she finally finding a life of her own?
+Mom had been leaving the house frequently these days. Now that she had some free time after quitting her job, was she finally looking for a life of her own?
 
 *Come to think of it, she had been acting strange.*
 
-Sometimes she would sit there looking as though she had something to say. Other times, she would jump whenever I suddenly spoke to her.
+Sometimes she would sit there with an expression that looked as though she had something to say. Other times, she would jump whenever I suddenly spoke to her.
 
 Something had definitely changed around Mom.
 
 *She’ll tell me when the time is right.*
 
-My mother was the person I loved and trusted most in this world. As always, all I could do was trust her and wait.
+The person I loved and trusted most in this world was my mother. Just as always, all I could do was trust her and wait.
 
 Of course, listening to her and talking things over at the right time was also a child’s duty.
 
@@ -262,7 +264,7 @@ Of course, listening to her and talking things over at the right time was also a
 
 “It’s nothing. By the way, aren’t you going out?”
 
-“What? You sound like you want me to leave.”
+“What, you sound like you want me to leave.”
 
 “Not exactly.”
 
@@ -298,7 +300,7 @@ This was a problem I needed to deal with while my family was out of the house, i
 
 *Meow.*
 
-The two cats, one black and one white, crept toward me and began circling.
+Two cats, one black and one white, began creeping toward me and circling around.
 
 Bright eyes. Perked-up ears.
 
@@ -314,15 +316,15 @@ My real purpose had been to check the vehicles.
 
 The result was nothing suspicious.
 
-*Then it has to be one of those apartments.*
+*Then it has to be one of those houses.*
 
-That confirmed the watchers had made one of the recently sold or leased apartments their base. I recalled the information I had obtained from the real-estate office once more.
+That confirmed the watchers had made one of the recently traded apartments their base. I recalled the information I had obtained from the real-estate office once more.
 
 *Building 5, Unit 901. Building 4, Unit 302. Building 3, Unit 202.*
 
-Coincidentally, all three were positioned around our apartment, forming a ring. Their windows also overlooked the building entrances, making them ideal for surveillance.
+Coincidentally, all three were positioned around our apartment, forming a sort of ring. They were ideal for surveillance, since their windows offered a view of the entrances to the buildings.
 
-The watchers could have been in any one of them.
+It wouldn’t be strange for the watchers to be in any one of them.
 
 *The question is which one they’re hiding in…*
 
@@ -330,15 +332,15 @@ They were cautious enough to use a Familiar instead of magical Equipment to avoi
 
 If I approached recklessly, I would lose them. To make a definite capture, I had no choice but to throw out equally substantial bait.
 
-*Time to get started.*
+*I think it’s time to begin.*
 
 Swish. Rustle.
 
-First, I drew every curtain in the house. Though it was the middle of the day, the living room grew dim. Standing in its center, I reached into my pocket.
+First, I drew all the curtains in the house. Even though it was the middle of the day, the living room had grown dim. I reached into my pocket.
 
 *Inventory open. Mana-detection Equipment.*
 
-At the same time, my hand closed around a lump of metal half the size of my palm.
+At the same time, my hand closed around a lump of metal about half the size of my palm.
 
 As its name suggested, it was Equipment that could detect mana. I had paid twenty million won for it at the Store.
 
@@ -348,11 +350,13 @@ I carefully swept through the house with the detection Equipment. After confirmi
 
 Beep. Beep. Click.
 
-The call connected, and the other person answered.
+The other person answered as the call connected.
 
 —Hello?
 
-I replied, “It’s me, Jin Taekyung.”
+I replied.
+
+“It’s me, Jin Taekyung.”
 
 The two Familiars watched me without even seeming to breathe.
 
@@ -362,7 +366,7 @@ The moment Kim Junsu opened his eyes, he shouted.
 
 “He’s here! He’s here!”
 
-The Security Team members, who had been huddled together writing their assessments, jumped in surprise.
+The Security Team members, who had been sitting close together and writing their assessments, jumped in surprise.
 
 “What?”
 
@@ -370,19 +374,19 @@ The Security Team members, who had been huddled together writing their assessmen
 
 “Or could it be…”
 
-Kim Junsu nodded at the team member who had trailed off.
+Kim Junsu nodded at the team member who had let his voice trail off.
 
-“The target. This bastard reeks of something rotten.”
+“The target. This guy reeks to high heaven.”
 
 “Seriously?”
 
 “Yes. I got a bad feeling when he drew all the curtains as soon as the house was empty, and then he even used detection Equipment to inspect the inside.”
 
-That wasn’t something an ordinary C-rank Hunter would do, especially while on vacation.
+That wasn’t something an ordinary C-rank Hunter, especially one on vacation, would do.
 
 Everyone in the room swallowed hard.
 
-“Th-then what?”
+“Th-then?”
 
 “He pulled out his phone and made a call.”
 
@@ -394,13 +398,13 @@ Kim Junsu furrowed his brow.
 
 “The call was so short that it didn’t even last three minutes. But more than that, I could tell he was being extremely careful about how he addressed the other person.”
 
-“That’s enough. We’ll report it up the chain and have them pull that bastard’s call records.”
+“That’s enough. We’ll report it up the chain and pull that bastard’s call records.”
 
-“Right. Was there anything else?”
+“Right. And there was nothing else?”
 
-“Of course there was. Do you know what he said?”
+“How could there be nothing else? Do you know what he said?”
 
-Ahem. After clearing his throat, he lowered his voice.
+He cleared his throat once. Then a low voice came from his mouth.
 
 “‘The plan is proceeding without a hitch. Yes, yes. The Sangdong Guild hasn’t noticed anything yet. I have the item with me.’”
 
@@ -414,7 +418,7 @@ The team members listening slapped their knees.
 
 At that moment, Kim Gwondong, who had been listening quietly, suddenly spoke.
 
-“Junsu, didn’t that bastard say he had some kind of item?”
+“Junsu, didn’t that bastard say he had an item?”
 
 “Good observation.”
 
