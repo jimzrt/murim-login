@@ -1524,9 +1524,53 @@ def command_run(number: int) -> None:
     command_promote(number, "REPLACE_TRANSLATIONS")
 
 
-def command_finish_for_commit(number: int) -> None:
-    """Run the overlay through promotion into translations/."""
-    command_run(number)
+def rewind_primary_mastering(number: int) -> None:
+    """Move a finished mastering transaction back to COMMITTED so the queue will retry it."""
+    wf = ROOT / ".work" / f"{number:04d}" / "workflow.json"
+    if not wf.exists():
+        return
+    data = json.loads(read_text(wf))
+    if data.get("stage") not in {"MASTERED", "MASTERED_COMMITTED"}:
+        return
+    data["stage"] = "COMMITTED"
+    artifacts = data.setdefault("artifacts", {})
+    for key in ("master_commit", "mastered_translation_sha256", "mastering_state_sha256"):
+        artifacts.pop(key, None)
+    atomic_json(wf, data)
+
+
+def command_reset_for_remaster(number: int) -> None:
+    """Restore the accepted baseline and clear overlay outputs for a fresh master."""
+    try:
+        from tools.progress import step
+    except ModuleNotFoundError:
+        from progress import step
+    p = chapter_paths(number)
+    if not p["state"].exists() or not p["baseline"].exists():
+        raise ValueError(f"chapter {number}: missing mastering snapshots")
+    state = json.loads(read_text(p["state"]))
+    atomic_text(p["translation"], read_text(p["baseline"]))
+    keep = {p["source"].resolve(), p["baseline"].resolve(), p["state"].resolve()}
+    for path in p["work"].rglob("*"):
+        if path.is_file() and path.resolve() not in keep:
+            path.unlink()
+    for path in sorted((d for d in p["work"].rglob("*") if d.is_dir()), reverse=True):
+        try:
+            path.rmdir()
+        except OSError:
+            pass
+    atomic_json(
+        p["state"],
+        {
+            "version": 1,
+            "chapter": number,
+            "stage": "SNAPSHOTTED",
+            "source_sha256": state["source_sha256"],
+            "baseline_sha256": state["baseline_sha256"],
+        },
+    )
+    rewind_primary_mastering(number)
+    step("reset", f"chapter {number} baseline restored")
 
 
 def state_for(number: int) -> dict:
@@ -1656,6 +1700,14 @@ def build_parser() -> argparse.ArgumentParser:
     p = sub.add_parser("promote", help="replace accepted translations with VERIFIED mastered copies")
     p.add_argument("chapters")
     p.add_argument("--confirm", required=True)
+    p = sub.add_parser("reset", help="restore accepted baseline and rewind overlay for remaster")
+    p.add_argument("chapters")
+    p.add_argument("--confirm", required=True)
+    p.add_argument(
+        "--transactions-only",
+        action="store_true",
+        help="only rewind .work transactions to COMMITTED; do not touch overlay files",
+    )
     return parser
 
 
@@ -1690,6 +1742,13 @@ def main() -> int:
                     command_qa(number)
                 elif args.command == "promote":
                     command_promote(number, args.confirm)
+                elif args.command == "reset":
+                    if args.confirm != "REMASTER":
+                        raise ValueError("reset requires --confirm REMASTER")
+                    if args.transactions_only:
+                        rewind_primary_mastering(number)
+                    else:
+                        command_reset_for_remaster(number)
         return 0
     except (ValueError, FileNotFoundError, RuntimeError, json.JSONDecodeError) as exc:
         print(f"error: {exc}", file=sys.stderr)
