@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.93,
+      "current": "had already been drinking heavily this early in the day",
+      "defect": "Changes the source’s broad-daylight detail into an early-morning duration claim.",
+      "id": "F01",
+      "rationale": "낮부터 describes their conspicuous daytime drinking; it does not mean “this early in the day.”",
+      "replacement": "had been drinking heavily in broad daylight",
+      "severity": "minor",
+      "source": "lines 51–53"
+    },
+    {
+      "confidence": 0.9,
+      "current": "“I’ll ead!”",
+      "defect": "Drops the appreciative force of Cheongpung’s muffled 잘 먹겠습니다, weakening the joke that he cheerfully accepts the sarcastic invitation to keep eating.",
+      "id": "F02",
+      "rationale": "잘 먹겠습니다 functions as a grateful acceptance, not merely a statement that he will eat.",
+      "replacement": "“Thanksh, I will!”",
+      "severity": "minor",
+      "source": "lines 99–105"
+    }
+  ],
+  "summary": "Two minor fidelity defects; otherwise faithful.",
+  "version": 1
+}

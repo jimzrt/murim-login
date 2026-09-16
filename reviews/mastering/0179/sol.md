@@ -58,7 +58,7 @@ Hyuk Mujin, following behind me, whispered in a small voice,
 
 “I don’t know either.”
 
-One was a huge old man whose body was larger than that of most strapping young men. The other had such a small, frail frame that a breath might have blown him away.
+One was a huge old man whose body was larger than that of most grown men. The other had such a small, frail frame that a breath might have blown him away.
 
 The Fire King was one thing.
 
@@ -98,11 +98,11 @@ Hyuk Mujin and I walked forward with heavy hearts, like oxen being dragged to th
 
 Cheongpung, who had been shoveling food into his mouth at the speed of light, beamed as he held out several plates.
 
-“Hewe! It’s delishush! Try shome!”
+“Here! It’s delishush! Try shome!”
 
 “…You eat plenty.”
 
-“I’ll ead!”
+“Mm—I’ll eat lotsh too!”
 
 The fact that a guy like him was a Peak master—I couldn’t help but lament how unfair reality was.
 
@@ -124,7 +124,7 @@ Even Jang Taebo, who spent his days living as a homebody in a small village like
 
 “Surely that many people won’t come.”
 
-“A grand feast always attracts all sorts of riffraff. Shanxi Province may be a frontier region, but this is the seat where one becomes the hegemon of an entire province. I may not be a martial artist, but I have enough worldly experience to know. Just wait and see. Ah, and…”
+“A grand feast always attracts all sorts of riffraff. Shanxi Province may be a frontier region, but this is the seat where one becomes the hegemon of a whole province. I may not be a martial artist, but I have enough worldly experience to know. Just wait and see. Ah, and…”
 
 Jang Taebo lowered his voice and added,
 
@@ -174,7 +174,7 @@ Of course it was.
 
 How much would a million nyang be worth in the real world? Hundreds of billions? Or would it be in the trillions?
 
-Jang Taebo chuckled when he saw my expression.
+Jang Taebo let out a short laugh when he saw my expression.
 
 “I don’t need it.”
 
@@ -228,7 +228,7 @@ The emotional, serious Jeok Cheongang from last night was nowhere to be seen. I 
 
 The moment he finished speaking, the space beneath the table began to heat up.
 
-It wasn’t as if the innkeeper was a modern man who had brought in an electric heater…
+It wasn’t as if the innkeeper was from the modern world and had set up an electric heater…
 
 *Fuck. Flame Divine Palm.*
 
@@ -330,7 +330,7 @@ Jeok Cheongang stared at me for a moment before speaking.
 
 “This has become troublesome. What a nuisance.”
 
-The reason Jeok Cheongang had returned to the world was probably not only to find his Disciple. He also wanted to recover the treasures of the Fire Gate Clan that had leaked out because of his Disciple.
+The reason Jeok Cheongang had returned to the world was probably not only to find his Disciple. He also wanted to recover the treasures of the Fire Gate Clan that had leaked out in the aftermath.
 
 The Treasured Jade he spoke of seemed to be one of them.
 
@@ -340,7 +340,7 @@ It was a treasure that even the Fire King—of all people—had to find at all c
 
 Just as a creeping sense of danger began to outweigh my curiosity about what the Treasured Jade actually was, Jeok Cheongang spoke.
 
-“It can’t be helped. For now, keep them in your possession.”
+“It can’t be helped. For now, keep it in your possession.”
 
 That single offhand remark brought my thoughts to a halt.
 
@@ -406,7 +406,7 @@ Cheongpung, who was still stuffing food into his mouth, looked up.
 
 “…You’re worse than your grandfather. Eat slowly.”
 
-After exchanging a silent glance of farewell with Jang Taebo, Jeok Cheongang turned away and tossed out one meaningful remark.
+After exchanging a silent nod of farewell with Jang Taebo, Jeok Cheongang turned away and tossed out one meaningful remark.
 
 “Let’s meet again soon.”
 

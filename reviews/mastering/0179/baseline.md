@@ -14,7 +14,7 @@ And it wasn’t just anyone. It was the Fire King.
 
 Considering the atmosphere yesterday, if I’d told him I had family business to attend to and needed to leave, he would have sent me off with a hearty laugh.
 
-Of course, he wouldn’t have sent me home. He’d have sent me down the road to the underworld.
+Of course, he would have sent me off on the road to the underworld.
 
 “Great Hero Wipeng is going to kill me.”
 
@@ -30,11 +30,11 @@ This was the sorrow of having no one powerful backing you.
 
 Still, I had no intention of deliberately delaying our departure.
 
-It was the day the Jin Family of Taiyuan would rise as the ruler of Shanxi Province. How could the family’s youngest show up late?
+It was the day the Jin Family of Taiyuan would rise as the undisputed ruler of Shanxi Province. How could the youngest son of the family show up late?
 
 “Pack your things. We’re leaving right now.”
 
-Not that I had much to pack. One travel bundle, and that was it.
+Not that I had much to pack. I had one travel bundle, and that was it.
 
 We finished preparing in an instant and went down to the first floor. The inn had been decorated entirely in red to celebrate New Year’s Day, and despite the early hour, it was bustling with people.
 
@@ -50,7 +50,7 @@ Among them, two men stood out in particular.
 
 The two old men raised their hands in greeting, then went right back to passing wine cups between themselves.
 
-Their flushed faces and the wine jar beside them were proof that they had already been drinking heavily this early in the day.
+Their flushed faces and the wine jar beside them were proof that they had already been drinking heavily since morning.
 
 Hyuk Mujin, following behind me, whispered in a small voice,
 
@@ -76,7 +76,7 @@ In any case, the two old men—each a master in his own field—looked as though
 
 “If we pretend nothing happened and leave, he’ll crack your skull open.”
 
-“That’s a bit…”
+“I’d rather avoid that.”
 
 “What do you say? Want to run?”
 
@@ -102,11 +102,11 @@ Cheongpung, who had been shoveling food into his mouth at the speed of light, be
 
 “…You eat plenty.”
 
-“I’ll ead!”
+“Thanksh, I will!”
 
-The fact that a guy like him was a Peak master—I couldn’t help but lament how unfair reality was.
+The fact that someone like him was a Peak master was proof that reality was unfair. I couldn’t contain my anguish over the future of the Murim.
 
-As I fretted over the future of the Murim, Jang Taebo spoke to me.
+Jang Taebo spoke to me.
 
 “So, what are you two planning to do now?”
 
@@ -140,7 +140,7 @@ It was something I hadn’t had the time to ask about back then.
 
 “Anything at all.”
 
-Even the neighborhood laundry charged a fee for repairs. Jang Taebo was a master artisan renowned throughout the world. He might not have been as skilled as he was in his prime, but I didn’t believe his abilities had vanished over the past ten years.
+Even the neighborhood laundromat charged a fee for repairs. Jang Taebo was a master artisan renowned throughout the world. He might not have been as skilled as he was in his prime, but I didn’t believe his abilities had vanished over the past ten years.
 
 There had to be a proper price for his work…
 
@@ -184,7 +184,7 @@ Jang Taebo chuckled when he saw my expression.
 
 Was this what a true artisan’s spirit looked like?
 
-Truly a shining Taebo. Every blacksmith under heaven should follow his example and Taebo accordingly.
+What a shining example, this Jang Taebo. Every blacksmith under heaven should follow his example and Taebo accordingly.
 
 Just as I was trembling with emotion, Hyuk Mujin cut in with an admiring expression.
 
@@ -228,7 +228,7 @@ The emotional, serious Jeok Cheongang from last night was nowhere to be seen. I 
 
 The moment he finished speaking, the space beneath the table began to heat up.
 
-It wasn’t as if the innkeeper was a modern man who had brought in an electric heater…
+It wasn’t as though the innkeeper were a modern man who had brought in an electric heater…
 
 *Fuck. Flame Divine Palm.*
 
@@ -252,7 +252,7 @@ I hurriedly changed my answer.
 
 In barely three seconds, Jeok Cheongang had grown thirty years younger. He nodded in satisfaction.
 
-“I thought you were a fellow with nothing but shit in his head, but you do have some fairly plausible thoughts after all.”
+“I thought you were a fellow with nothing but shit in your head, but you do have some fairly plausible thoughts after all.”
 
 “…”
 
@@ -296,17 +296,17 @@ The Flame Divine Palm martial arts manual I had obtained from Jopil. And the Unn
 
 His wrinkled finger tapped against the table. Jeok Cheongang’s dry voice continued.
 
-“Where is the Treasured Jade?”
+“Where is the treasured jade?”
 
 “Pardon?”
 
-“The Treasured Jade, I said. The Treasured Jade.”
+“The treasured jade. The jade.”
 
-The Treasured Jade? As in a treasure, a gemstone—something like that?
+The jade? A treasure, a gemstone—something like that?
 
 Jeok Cheongang didn’t seem like the type to fixate on ordinary jewels, so it was clearly something extremely important.
 
-But since I had never even known the Treasured Jade existed, I could only stare at him in bewilderment.
+But since I had never even known the jade existed, I could only stare at him in bewilderment.
 
 “These are the only things I received.”
 
@@ -330,17 +330,17 @@ Jeok Cheongang stared at me for a moment before speaking.
 
 “This has become troublesome. What a nuisance.”
 
-The reason Jeok Cheongang had returned to the world was probably not only to find his Disciple. He also wanted to recover the treasures of the Fire Gate Clan that had leaked out because of his Disciple.
+The reason Jeok Cheongang had returned to the world was probably not only to find his Disciple. He also wanted to recover the treasures of the Fire Gate Clan that had been scattered because of him.
 
-The Treasured Jade he spoke of seemed to be one of them.
+The jade he was talking about seemed to be one of them.
 
-It was a treasure that even the Fire King—of all people—had to find at all costs, nuisance or not.
+It was a treasure that even the Fire King was willing to endure the trouble of searching for at all costs.
 
 *Damn it. I never even got to see it.*
 
-Just as a creeping sense of danger began to outweigh my curiosity about what the Treasured Jade actually was, Jeok Cheongang spoke.
+Just as a creeping sense of danger began to outweigh my curiosity about what the jade actually was, Jeok Cheongang spoke.
 
-“It can’t be helped. For now, keep them in your possession.”
+“It can’t be helped. For now, keep it in your possession.”
 
 That single offhand remark brought my thoughts to a halt.
 
@@ -354,7 +354,7 @@ In other words…
 
 “There are three. Did you forget the one in your stomach? Anything originating from our sect will be reclaimed. One way or another.”
 
-“…!”
+“...!”
 
 “I’m joking.”
 
