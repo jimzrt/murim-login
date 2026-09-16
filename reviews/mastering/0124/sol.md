@@ -22,13 +22,13 @@ This single martial arts manual was why I could reject Lee Seowol’s proposal w
 
 “Fl, fl, fl, fl…”
 
-After buffering for quite some time, Jin Mukyung finally managed to spit out a single word.
+After buffering for quite some time, Jin Mukyung finally managed to spit out a single phrase.
 
 “Flame Divine Palm!”
 
 “Oh, you know it? Correct.”
 
-Jin Mukyung even knew the ten greatest fist techniques in the world from two hundred years ago, so perhaps it was only natural that he knew about the Flame Divine Palm. This martial art was even more incredible than those.
+Jin Mukyung even knew the ten greatest fist techniques under heaven from two hundred years ago, so perhaps it was only natural that he knew about the Flame Divine Palm. This martial art was even greater than those.
 
 *Check item.*
 
@@ -42,11 +42,11 @@ Jin Mukyung even knew the ten greatest fist techniques in the world from two hun
 >
 > **Type:** Martial arts manual  
 > **Grade:** Supreme Peak  
-> **Restriction:** Owner of Scorching Yang Qi  
-> **Description:** One of the Fire Gate Clan’s secret techniques. A martial art based on powerful fire qi.  
-> **Effect:** Acquisition of Flame Divine Palm.
+> **Restriction:** Possessor of Scorching Yang Qi  
+> **Description:** One of the Fire Gate Clan’s secret techniques. A martial art powered by potent fire qi.  
+> **Effect:** Acquires Flame Divine Palm.
 
-Jin Mukyung asked in disbelief.
+Jin Mukyung stared at me in disbelief.
 
 “How did you get this…?”
 
@@ -56,27 +56,27 @@ Jin Mukyung asked in disbelief.
 
 “Yeah.”
 
-He gave it to me and then flew away to heaven.
+He gave it to me, then flew straight off to heaven.
 
 The Unnamed Sword, made of Ten-Thousand-Year Cold Iron capable of destroying even Body-Protecting Qi. The Blazing Flame Divine Pill, which could grant thirty years of Scorching Yang Qi.
 
 And finally, the Flame Divine Palm, a Supreme Peak martial art.
 
-Thinking of Jopil, who had given me so much before leaving this world, I gazed at the blue sky beyond the window.
+Thinking of Jopil, who had given me everything he had before departing this world, I gazed at the blue sky beyond the window.
 
 *Hope you’re doing well.*
 
-That was when Jin Mukyung abruptly cut in.
+Jin Mukyung abruptly cut in.
 
-“Enough nonsense. Tell me the truth. How did a secret technique of the Fire Gate Clan end up in your hands?”
+“Enough nonsense. Tell me the truth. How did one of the Fire Gate Clan’s secret techniques end up in your hands?”
 
 “I told you. Someone gave it to me before he left.”
 
 “You seem to be misunderstanding something…”
 
-Jin Mukyung continued with a serious expression.
+His expression turned grave.
 
-“This isn’t a situation you can gloss over with a joke.”
+“This isn’t something you can brush off with a joke.”
 
 “Why not?”
 
@@ -84,7 +84,7 @@ Jin Mukyung continued with a serious expression.
 
 That was a problem I hadn’t considered.
 
-A sect’s martial arts were its foundation and its history. The Flame Divine Palm was not only a Supreme Peak martial art but also a secret technique of the Fire Gate Clan. That went without saying.
+A sect’s martial arts were its foundation and its history. That went double for the Flame Divine Palm, a Supreme Peak martial art and one of the Fire Gate Clan’s secret techniques.
 
 “Ah, damn it.”
 
@@ -94,7 +94,7 @@ I let out a deep sigh before answering.
 
 “From Jopil.”
 
-“Jopil? The One Question, One Kill Jopil I know?”
+“Jopil? One Question, One Kill Jopil?”
 
 “That’s right. I defeated him and took it as spoils.”
 
@@ -102,37 +102,37 @@ I let out a deep sigh before answering.
 
 “Not really…”
 
-After thinking carefully, I remembered what Jopil had said at the time.
+After thinking it over, I remembered what Jopil had said at the time.
 
 “He claimed he was the nineteenth-generation successor to the Flame Divine Palm.”
 
 “How could someone like Jopil… Are you sure you didn’t mishear him?”
 
-“No, I’m sure. He didn’t look like he was lying, either.”
+“No, I’m sure. He didn’t seem to be lying, either.”
 
 At the time, Jopil had been drawing on his innate qi and was already dying fast. Most words spoken by someone on the brink of death were close to the truth.
 
-*Of course, I have to consider the possibility that Jopil was lying.*
+*Of course, I still have to consider the possibility that Jopil was lying.*
 
-Jin Mukyung, who had been lost in thought, spoke with a look of bafflement.
+Jin Mukyung, who had been deep in thought, looked at me in bafflement.
 
 “If he was the successor to the Flame Divine Palm, how did he lose to someone like you?”
 
 “…”
 
-Well, that pissed me off, but he had a point.
+That pissed me off, but he had a point.
 
-It was suspicious enough that Jopil had been living as a wandering martial artist despite having learned a Supreme Peak martial art.
+It was suspicious enough that Jopil had been living as a wandering martial artist despite knowing a Supreme Peak martial art.
 
 *Come to think of it, he couldn’t even use Sword Energy properly.*
 
-These days, every martial artist I met came with Sword Energy as standard and Body-Protecting Qi as an optional extra. One Question, One Kill Jopil had been among the weakest Peak masters I had fought so far.
+These days, every martial artist I met seemed to come with Sword Energy as standard and Body-Protecting Qi as an optional extra. One Question, One Kill Jopil had been among the weakest Peak masters I had fought so far.
 
 “Is the Flame Divine Palm weaker than I thought?”
 
 “What? The Flame Divine Palm is weak?”
 
-Jin Mukyung looked at me as if I were the craziest person he had ever seen.
+Jin Mukyung looked at me as though I were completely insane.
 
 “You lunatic. You’re probably the only person under heaven who would call the Fire King’s signature martial art weak.”
 
@@ -142,7 +142,7 @@ Jin Mukyung looked at me as if I were the craziest person he had ever seen.
 
 “Neither am I.”
 
-“Stop it. It isn’t funny.”
+“Enough. It isn’t funny.”
 
 “Okay. So who’s the Fire King?”
 
@@ -158,9 +158,9 @@ This silence lasted a little longer. Jin Mukyung opened and closed his mouth lik
 
 “One God, Three Saints, Ten Kings. You’ve never heard of them? You seriously don’t know?”
 
-He looked ready to twist my neck if I said I had never heard of any of them.
+He looked ready to twist my neck if I said I had never heard of them.
 
-Faced with Jin Mukyung’s wide-eyed stare, I cautiously opened my mouth.
+Under Jin Mukyung’s furious glare, I cautiously opened my mouth.
 
 “I’ve heard of the Three Saints, at least…”
 
@@ -174,13 +174,13 @@ That wasn’t important right now.
 
 “Something you’d rather not imagine will probably happen.”
 
-Damn it. A Supreme Peak master ranked among the twenty greatest experts in the entire world. If the Fire King learned about this and came looking for me, the entire Jin Family of Taiyuan could attack him together and still lose.
+Damn it. A Supreme Peak master counted among the twenty greatest experts under heaven. If the Fire King found out and came looking for me, the entire Jin Family of Taiyuan could attack him together and still lose.
 
 *After everything it took to get this martial art…*
 
 My gut twisted at the thought of handing it over without even learning it.
 
-At that moment, Jin Mukyung, who had been gazing at the Flame Divine Palm manual just as regretfully as I was, added,
+Jin Mukyung was gazing at the Flame Divine Palm manual just as regretfully when he added,
 
 “If the Fire King is still alive, that is.”
 
@@ -198,23 +198,23 @@ Jin Mukyung continued.
 
 “And then?”
 
-“A thousand people died over four days and nights, and the old man who had been living in seclusion deep within Mount Jiuhua gained the name Fire King.”
+“A thousand people died over four days and nights, and the old man who had lived in seclusion deep within Mount Jiuhua earned the name Fire King.”
 
 “…A thousand people?”
 
-“Yes. The Demonic Cult suffered such heavy losses at Mount Jiuhua that it could not hold out for long and had to withdraw from Anhui Province.”
+“Yes. The Demonic Cult suffered such heavy losses at Mount Jiuhua that it couldn’t hold Anhui Province for long and was forced to withdraw.”
 
-A thousand people, huh…
+A thousand people…
 
 After careful consideration, I spoke.
 
 “Let’s give it back.”
 
-I wanted to live a long life. I didn’t want an event involving some insane old man who had single-handedly killed a thousand people added to my life.
+I wanted to live a long life. I had no desire to add an encounter with some insane old man who had single-handedly killed a thousand people to my life.
 
-“We should leave right away. Anhui Province? Do people still say he lives there?”
+“We should leave right now. Anhui Province, was it? Do people still say he lives there?”
 
-“No one knows. Perhaps that still hadn’t been enough to quell the Fire King’s anger. He spent an entire year crushing every Demonic Cult member he could find before disappearing into seclusion again.”
+“No one knows. Apparently, that still wasn’t enough to quell the Fire King’s anger. He spent an entire year crushing every Demonic Cult member he came across before returning to seclusion.”
 
 “The Fire Gate Clan! We can find him if we go to the Fire Gate Clan.”
 
@@ -234,27 +234,27 @@ On the other hand, as a Supreme Peak master, he might have lived an extraordinar
 
 “Hmm.”
 
-Was this a priceless treasure or a useless burden? As I stared at the Flame Divine Palm with a conflicted expression, Jin Mukyung said,
+Was this an incredible treasure or a poisoned prize? As I stared conflictedly at the Flame Divine Palm, Jin Mukyung said,
 
 “If the Fire King is dead… then you’re the master of the Fire Gate Clan now.”
 
 * * *
 
-Jin Mukyung recovered quickly. He had suffered considerable internal injuries from Pung Yang, so a full recovery would still take some time, but he had enough strength to return to the Jin Family of Taiyuan.
+Jin Mukyung recovered quickly. He had suffered considerable internal injuries at Pung Yang’s hands, so a full recovery would take some time, but he had regained enough strength to return to the Jin Family of Taiyuan.
 
 “We’re finally going home.”
 
-Hyuk Mujin muttered with a deeply moved expression.
+Hyuk Mujin spoke with a deeply moved expression.
 
 “They say leaving home means hardship. From now on, I will never, ever leave the family grounds again!”
 
 “…Anyone listening would think you suffered the most, you punk.”
 
-“What are you talking about? I have my own hardships, you know.”
+“What are you talking about? I’ve had my own share of hardships.”
 
 “Try saying that to the person behind you.”
 
-Jin Mukyung, who still hadn’t been able to remove his bandages, came flying over and smacked Hyuk Mujin on the back of the head.
+Jin Mukyung, still wrapped in bandages, came flying over and smacked Hyuk Mujin on the back of the head.
 
 *Whack!*
 
@@ -264,39 +264,39 @@ Jin Mukyung, who still hadn’t been able to remove his bandages, came flying ov
 
 “There’s a coachman. Why do I have to…?”
 
-Just as Hyuk Mujin said, we had a separate coachman—a member of the Lower District Sect whom Wolhwa had assigned to us.
+As Hyuk Mujin had said, we already had a coachman—a member of the Lower District Sect whom Wolhwa had assigned to us.
 
-Wolhwa had come out ahead of time to see us off.
+She had come out ahead of time to see us off.
 
-“Goodbye. It’s a shame to part now that the time has come, isn’t it?”
+“Goodbye. Now that it’s time to part, I find myself wishing we didn’t have to.”
 
-“Then would you like to come with us now?”
+“Then would you like to come with us?”
 
-I spoke jokingly to her as she winked at me. I was still wary of her, but after our journey together, we had become close enough to exchange jokes.
+I jokingly extended the invitation when she winked at me. I was still wary of her, but after our journey together, we had become close enough to trade jokes.
 
 “Oh my, I’d love to, but… I’m planning to take this opportunity to tour all of northern Shanxi.”
 
 Northern Shanxi, which the Mount Heng Sword Sect had kept under tight control until now, had become an open market. Naturally, Wolhwa—the Lower District Sect’s Chief Branch Leader for Shanxi Province—would be busy.
 
-“Things must have gone well with the Mount Heng Sword Sect?”
+“Things must have gone well with the Mount Heng Sword Sect.”
 
-“Secret. I may be the Chief Branch Leader, but I can’t go around telling outsiders our sect’s confidential information.”
+“That’s a secret. I may be the Chief Branch Leader, but I can’t go around divulging our sect’s confidential information to outsiders.”
 
-Her words said one thing, but her bright, carefree smile was answer enough.
+Her words said one thing, but her broad smile gave me the answer.
 
-She was the sort of woman who could have nine tails and no one would find it strange, so she had probably obtained a more than satisfactory result.
+She was the kind of woman who could sprout nine tails without surprising anyone. She had surely negotiated a result more than satisfactory to herself.
 
 “I suppose we’ll meet at the Jin Family of Taiyuan next time.”
 
-“Oh, really?”
+“Oh, perhaps?”
 
-“We were allies once. Wouldn’t it be better for both of us if we continued to maintain a close relationship?”
+“We were allies once. Wouldn’t maintaining a close relationship be good for both of us?”
 
 Wolhwa smiled coyly and lifted the hem of her skirt slightly.
 
-“Make sure you come see me again then. Well, I’ll be off.”
+“Make sure you come see me again then. Now, if you’ll excuse me.”
 
-As soon as she climbed into the waiting carriage, the coachman cracked his whip. Two pairs of eyes gazed blankly after the carriage as it rapidly receded into the distance.
+As soon as she climbed into the waiting carriage, the coachman cracked his whip. Two pairs of eyes gazed longingly after the carriage as it rapidly receded into the distance.
 
 “Tsk. She could’ve stayed a little longer.”
 
@@ -304,23 +304,23 @@ As soon as she climbed into the waiting carriage, the coachman cracked his whip.
 
 Hyuk Mujin was one thing, but what was Jin Mukyung’s deal?
 
-As I watched the wistful look in his eyes, a thought suddenly occurred to me.
+As I studied the wistful look in his eyes, a thought suddenly occurred to me.
 
 *Could that bastard possibly…?*
 
 Was he interested in Wolhwa?
 
-Good heavens. I couldn’t believe it. The man who knew nothing but martial arts was showing an interest in a woman.
+Good heavens. I couldn’t believe it. The man who cared about nothing but martial arts was showing interest in a woman.
 
-I couldn’t keep this earth-shattering news to myself. I moved close to Hyuk Mujin and whispered in a voice as small as an ant.
+I couldn’t keep such earth-shattering news to myself. I sidled up to Hyuk Mujin and whispered in a voice as tiny as an ant.
 
 “Hey, Mujin.”
 
 “Ah! You startled me. What is it?”
 
-“Shh. Listen, but don’t be surprised. Don’t show even the slightest reaction. This is a secret we have to take to our graves.”
+“Shh. Listen carefully, but don’t be surprised. Don’t let anything show. This is a secret we have to take to our graves.”
 
-Hyuk Mujin answered in a stiff voice.
+Hyuk Mujin stiffened before answering.
 
 “Gasp. Yes. Go ahead.”
 
@@ -328,15 +328,15 @@ Hyuk Mujin answered in a stiff voice.
 
 “…”
 
-“Don’t tell anyone. This is a secret only I know, and I’m telling you alone.”
+“Don’t tell anyone. I’m the only one who knows this, and I’m sharing it with you and no one else.”
 
-Despite my serious whisper, Hyuk Mujin replied with a sour expression.
+Despite my grave whisper, Hyuk Mujin replied with a sour expression.
 
-“Oh, yes. Thank you. I’m so grateful I don’t know what to do with myself.”
+“Oh, yes. Thank you. I’m so grateful I hardly know what to do with myself.”
 
 *Why, this little shit…*
 
-I was wondering how to correct that rude tone when—
+I was wondering how to correct that insolent tone when—
 
 “Benefactor.”
 

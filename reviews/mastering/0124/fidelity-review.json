@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "“Make sure you come see me again then. Well, I’ll be off.”",
+      "defect": "Wolhwa says they must see each other again, but the translation specifically tells Taekyung to come see her, reversing the implied travel direction after they establish that the next meeting will be at his family home.",
+      "id": "F01",
+      "rationale": "그때 꼭 다시 봐요 expresses an insistence that they meet again then; it does not direct him to come visit her.",
+      "replacement": "“Make sure we see each other again then. Well, I’ll be off.”",
+      "severity": "minor",
+      "source": "lines 311–313"
+    }
+  ],
+  "summary": "One minor directionality defect; otherwise faithful.",
+  "version": 1
+}
