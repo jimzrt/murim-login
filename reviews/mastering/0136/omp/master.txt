@@ -8,13 +8,13 @@ The two men’s eyes met as they groaned. Seeing each other lying face down with
 
 “Ahem. Young Hero Jeong, how are your wounds?”
 
-“Ahem. More or less. How about you, Young Hero Gal?”
+“Ahem. I’m managing. How about you, Young Hero Gal?”
 
 “I feel like I’m going to die—hngh!”
 
 “Actually, so do I—ngh!”
 
-The pain returned as they spoke. Both men blinked back tears and muttered,
+Another wave of pain struck as they spoke. Both men blinked back tears and muttered.
 
 “There’s bad luck, and then there’s this. Of all the people we could have run into, why did it have to be the Sleeping Dragon of Shanxi?”
 
@@ -22,11 +22,11 @@ The pain returned as they spoke. Both men blinked back tears and muttered,
 
 The mood was gloomy.
 
-Things might have been different in the Central Plains, where countless prestigious sects stood shoulder to shoulder. But in borderland Shanxi Province, both men were heirs to sects big enough to swagger around spitting and farting as they pleased.
+Things might have been different in the Central Plains, where prestigious sects stood shoulder to shoulder. But in the border province of Shanxi, both men were heirs to sects influential enough to swagger around spitting and farting as they pleased.
 
-They had never once had to humble themselves before anyone. Now they lay groaning in bed after being thoroughly beaten.
+They had never once had to humble themselves before anyone. Now they lay groaning in bed after being beaten black-and-blue.
 
-“Even when the Mount Heng Sword Sect was still standing, the Five Gates of Shanxi weren’t reduced to this…”
+“Back when the Mount Heng Sword Sect was still standing, the Five Gates of Shanxi weren’t reduced to this…”
 
 “Those were the days.”
 
@@ -36,9 +36,9 @@ With the fall of the Mount Heng Sword Sect, the balance of power in Shanxi Murim
 
 “My father will kill me if he finds out.”
 
-“Same here. He warned me so many times. If he finds out this happened… Ugh. I don’t even want to think about it.”
+“Same here. He warned me over and over, too. If he finds out what happened… Ugh. I don’t even want to think about it.”
 
-They had been publicly humiliated in front of more than a hundred people. By around New Year’s Day, the rumor would certainly have spread throughout all of Shanxi.
+They had been publicly humiliated in front of more than a hundred people. By New Year’s Day, the story was certain to have spread throughout Shanxi.
 
 “If I had my way, I’d run far away.”
 
@@ -52,15 +52,15 @@ They had been publicly humiliated in front of more than a hundred people. By aro
 
 Their gazes naturally shifted to the side.
 
-Woo Jintae lay there as though dead, his face swollen like he had been stung by a swarm of wasps. If not for the occasional labored breath, they would have thought he was already dead.
+Woo Jintae lay there as if dead, his face swollen like he had been stung by a swarm of wasps. If not for the occasional labored breath, they would have thought he was already a corpse.
 
 “Still, how could anyone beat a man that badly?”
 
 “I never knew the Sleeping Dragon of Shanxi was this vicious.”
 
-“Thank goodness we planted our heads on the floor beforehand. We almost ended up just like Brother Woo.”
+“Thank goodness we planted our heads on the floor beforehand. We nearly ended up just like Brother Woo.”
 
-“He absolutely would have done it. Isn’t he the bastard who beats women without mercy, too?”
+“He certainly would have done it. Isn’t he the bastard who beat the women without mercy, too?”
 
 There were two women in their group. A man might be expected to go soft in front of young, beautiful women, but that bastard Jin Taekyung’s reaction had gone far beyond anything they expected.
 
@@ -68,7 +68,7 @@ There were two women in their group. A man might be expected to go soft in front
 
 “Y-yes?”
 
-“Age. How old are you?”
+“Your age. How old are you?”
 
 “I-I’m seventeen.”
 
@@ -104,7 +104,7 @@ The two men shuddered at the memory.
 
 One woman had fainted, while the other had wept until tears and snot streamed down her face in front of everyone.
 
-After having their buttocks thoroughly beaten by a man outside their families in front of so many people, it was only a matter of time before their marriage prospects were ruined.
+After having their buttocks thrashed by an unrelated man before such a large crowd, it was only a matter of time before their marriage prospects were ruined.
 
 “What in the world does ‘improve teacher authority’ mean? Is it something from Mencius?”
 
@@ -128,7 +128,7 @@ His chin trembled with humiliation as he remembered the beggar-like man taking t
 
 *Whack! Whack! Whack!*
 
-“Does it hurt? How much does it hurt? If you don’t mind, may I hit you harder? This is my first time doing something like this, so please understand if I’m not very good at controlling my strength!”
+“Does it hurt? How much? If you don’t mind, may I hit you harder? This is my first time doing anything like this, so please forgive me if I’m not very good at controlling my strength!”
 
 *Whack! Whack! Whack!*
 
@@ -164,19 +164,19 @@ Basking in people’s attention was fun for a moment or two, but if I tried to e
 
 The Sleeping Dragon of Shanxi’s reputation really was something. The chief steward, who hadn’t shown so much as a hair until now, had come out personally to bow to me.
 
-*This man must be part of the Lower District Sect, too, right?*
+*This man must belong to the Lower District Sect, too.*
 
 Honghwaru served as the base of Wolhwa, Chief Branch Leader of the Lower District Sect in Shanxi, and judging by its name, Honghwa Inn was practically a subordinate organization.
 
-He might even have known about my existence before I set foot inside Honghwa Inn.
+This man might have known I was here before I even set foot inside the inn.
 
-*I can’t say that makes me feel particularly good.*
+*I can’t say I like the thought.*
 
-Was it overreacting to think that unseen gazes were monitoring my every move?
+Was I being paranoid to think unseen eyes were watching my every move?
 
 Still, I wasn’t exactly offended.
 
-It was more like a little caution. We had certainly maintained a friendly relationship until now, but no one knew what might happen in the future.
+It was more a sense of caution. We had maintained a friendly relationship so far, but no one knew how things might change in the future.
 
 “I’ve prepared a separate, quiet place for you.”
 
@@ -188,9 +188,9 @@ They were offering us special treatment without even being asked, so there was n
 
 I turned toward the voice and found Cheongpung smiling innocently.
 
-“What do you mean? Surely you aren’t planning to leave just like this?”
+“What do you mean? You aren’t planning to leave now, are you?”
 
-“Yes. It’s already late, so I was thinking of heading out.”
+“Yes. It’s already late, so I should be going.”
 
 *Going where? We barely got to talk because those random bastards barged in.*
 
@@ -208,15 +208,15 @@ Hyuk Mujin muttered beside me.
 
 “That’s true. My candied hawthorn skewers[^1]…”
 
-[^1]: Traditional fruit skewers coated in hardened sugar.
+[^1]: Candied hawthorn skewers are a traditional snack of fruit skewers coated in hardened sugar.
 
-“You be quiet. So, are you really leaving?”
+“You keep quiet. So, are you really leaving?”
 
-“Yes. Fortunately, I still have business left in Shanxi Province, so if we happen to get the chance, we’ll meet again.”
+“Yes. Fortunately, I still have business in Shanxi Province, so we may meet again if the opportunity arises.”
 
-At this point, I had nothing left to say. If a Peak master was determined to leave of his own accord, I couldn’t exactly hold him back by claiming the roads were dangerous at night.
+At this point, I had nothing left to say. If a Peak master wanted to leave of his own accord, I could hardly hold him back by claiming the roads were dangerous at night.
 
-Still, I was dying to know the identity of this oddball who had suddenly appeared out of nowhere.
+Still, I was dying to know the identity of this oddball who had appeared out of nowhere.
 
 “If you have nowhere to go, come to the Jin Family of Taiyuan. Give them my name and they’ll let you in.”
 
@@ -228,13 +228,13 @@ Hyuk Mujin subtly caught my eye before cutting in.
 
 “The Jin Family of Taiyuan. You don’t know it?”
 
-“Well, I think I’ve heard of it somewhere. It does sound familiar, but I don’t really know much about it.”
+“Well, I think I’ve heard the name somewhere. It sounds familiar, but I don’t really know much about it.”
 
 Cheongpung tilted his head for a moment, then bowed to us.
 
-“If fate brings us together, we’ll meet again. Then I’ll be off.”
+“If fate allows, we’ll meet again. Then I’ll be off.”
 
-I bid him farewell with deep regret.
+I gave him a regretful farewell.
 
 “Take care. And don’t forget the Jin Family of Taiyuan.”
 
@@ -250,15 +250,15 @@ He turned away with a hearty laugh. Thinking the conversation was over, the chie
 
 “We stayed in the annex at Phoenix Inn, too. Why are you acting like this is something new?”
 
-“What are you talking about? If Phoenix Inn is a young prodigy, then Honghwa Inn is a Peak master whose fame is already known. Its hot springs, in particular, are such a renowned attraction that even high officials and nobles visit them.”
+“What are you talking about? If Phoenix Inn is a young prodigy, then Honghwa Inn is a Peak master whose name is already known far and wide. Its hot springs, in particular, are so famous that even high officials and nobles visit them.”
 
 “Hot springs?”
 
-“I’ve only heard about them from rumors, but they say there’s no paradise like it.”
+“I’ve only heard rumors, but they say it’s paradise on earth.”
 
 The chief steward added calmly,
 
-“My father is turning eighty this year. He came here once and nearly departed for paradise.”
+“My father turns eighty this year. He visited once and nearly departed for paradise altogether.”
 
 “…Isn’t that dangerous?”
 
@@ -268,35 +268,35 @@ The chief steward added calmly,
 
 Hot springs…
 
-I had gone to saunas plenty of times, but I had never visited a hot spring. Just thinking about sinking into pleasantly hot water already had me excited.
+I had gone to saunas plenty of times, but I had never visited a hot spring. Just imagining myself sinking into pleasantly hot water was already getting me excited.
 
 “Ahem. Shall we go?”
 
 “I’ll escort you.”
 
-I was just about to follow the chief steward when a firm hand suddenly seized my shoulder.
+I was about to follow the chief steward when a firm hand seized my shoulder.
 
 “Um. Did you just say hot springs?”
 
 “…You haven’t left yet?”
 
-Looking at Cheongpung’s sheepish grin, I was certain of one thing.
+One look at Cheongpung’s sheepish grin told me everything.
 
 I’d bet both my balls this bastard had never been to a hot spring.
 
 * * *
 
-In the early dawn, while darkness still lay thick over the estate’s training ground, a man was swinging a sword.
+In the early dawn, while darkness still lay thick over the estate’s training ground, a lone man swung his sword.
 
-He looked to be about thirty. His strong, rugged features were striking.
+He looked to be about thirty, with strikingly rugged features.
 
 *Swish, swish, swish!*
 
-He thrust, slashed, and swung without pause. Each form flowed smoothly into the next, like flower petals fluttering in the wind.
+He thrust, slashed, and swept the blade without pause. Each form flowed smoothly into the next, like flower petals fluttering in the wind.
 
-As the Seven Plum Sword, in which he had reached eight-tenths mastery, cut through the chilly dawn air, a messenger opened the main gate and entered.
+As the Seven Plum Sword, which he had mastered to eight-tenths, cut through the chilly dawn air, a messenger opened the main gate and entered.
 
-“What is it? I forbade anyone from entering while I’m training.”
+“What is it? I forbade anyone from entering while I was training.”
 
 “My apologies. But His Highness Prince Shangshan ordered me to deliver a message…”
 
@@ -304,7 +304,7 @@ As the Seven Plum Sword, in which he had reached eight-tenths mastery, cut throu
 
 “Yes. His Highness commands you to attend today’s luncheon at noon.”
 
-“The luncheon… You mean the gathering where the young prodigies of Murim are coming?”
+“The luncheon… You mean the gathering with the young prodigies of Murim?”
 
 “Yes, sir.”
 
@@ -312,11 +312,11 @@ The man let out a deep sigh. He was a Third-Rank Assistant Military Commissioner
 
 *I can’t refuse an order from His Highness. What a nuisance.*
 
-The position of Assistant Military Commissioner was by no means an idle one. It was a weighty office responsible for training the soldiers.
+Assistant Military Commissioner was by no means an idle position. It was a weighty office responsible for training the soldiers.
 
 But the order had come from Prince Shangshan, the City Lord and a man of royal blood. The man had no choice but to nod.
 
-“Tell His Highness that I accept the royal command.”
+“Tell His Highness that I accept his command.”
 
 “Yes, sir!”
 
