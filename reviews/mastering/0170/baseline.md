@@ -62,7 +62,7 @@ The old man had only said it to avoid the annoyance, but Jang-pal took it differ
 
 *He’s not sound of mind enough to remember even his own name.*
 
-Jang-pal was a simple mountain man, and he felt terribly sorry for the old man.
+A simple mountain man, Jang-pal felt terribly sorry for the old man.
 
 He could not leave someone who had apparently been abandoned by his children to wander the streets in clothes barely better than rags.
 
@@ -88,7 +88,7 @@ And yet, with this humble villager he had known for less than half a shichen, su
 
 Someone tugged at the old man’s sleeve as he stood there, bewildered.
 
-When he looked down, he saw chubby baby fat quivering.
+When he looked down, he saw chubby baby fat quivering in motion.
 
 “Who are you looking for? Hanga is good at finding people.”
 
@@ -128,7 +128,7 @@ As soon as they entered the room, Jang-pal’s wife brought out a meal.
 
 “I’m sorry the side dishes aren’t much.”
 
-Just as she said, the food was simple: a few kinds of namul and mixed-grain rice. The meat soup they had brought out to be hospitable was watery and bland.
+Just as she said, the food was simple: a few kinds of namul and mixed-grain rice. The meat soup they had served to make the meal more special was pale and bland.
 
 But everything had been prepared with care. It was obvious at a glance that they were not well-off, yet they welcomed the shabby old man occupying their table as a guest rather than an unwelcome intruder.
 
@@ -152,7 +152,7 @@ The old man swallowed the words he wanted to say and nodded.
 
 He had not eaten the meal for its flavor. He had eaten it for the care that went into preparing it.
 
-Hanga, meanwhile, unaware of that, kept chattering excitedly.
+Hanga, unaware of that, continued chattering excitedly.
 
 “Grandpa Jang from three houses over sometimes comes to our house to eat too. Yesterday I ate at his house, though. Hee hee.”
 
@@ -328,7 +328,7 @@ Ding!
 
 Hyuk Mujin looked dumbfounded too. No—looking more closely, he looked horrified.
 
-“Th-That’s all Ten-Thousand-Year Cold Iron?”
+“Is all of that Ten-Thousand-Year Cold Iron?”
 
 I scratched my chin. What did I know? The System said it was Ten-Thousand-Year Cold Iron, so I simply assumed it was.
 
@@ -340,7 +340,7 @@ I scratched my chin. What did I know? The System said it was Ten-Thousand-Year C
 
 To be honest, I was flustered too.
 
-When Jang Taebo had shown no reaction after hearing that I possessed Ten-Thousand-Year Cold Iron, I had figured the big shots up top treated Ten-Thousand-Year Cold Iron as basic gear.
+When Jang Taebo had shown no reaction after hearing that I possessed Ten-Thousand-Year Cold Iron, I had assumed that people in the upper circles treated Ten-Thousand-Year Cold Iron as basic gear.
 
 But as it turned out…
 
@@ -352,7 +352,7 @@ While everyone else had to use weapons with five or ten percent Ten-Thousand-Yea
 
 That was an incredible advantage.
 
-It meant I got a head start just from my gear.
+It meant I could rely on my gear to give me a head start.
 
 “With this—with this, I can create the masterpiece of my lifetime.”
 

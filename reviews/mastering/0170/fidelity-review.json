@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The meat soup they had brought out to be hospitable was watery and bland.",
+      "defect": "The translation changes the soup’s pale color into a watery consistency.",
+      "id": "F01",
+      "rationale": "The source says the soup’s color was pale (색도 희멀겋고) and its taste bland; it does not describe the soup as watery.",
+      "replacement": "The meat soup they had brought out to be hospitable was pale and bland.",
+      "severity": "minor",
+      "source": "Korean lines 133–135 / P66"
+    }
+  ],
+  "summary": "The chapter is faithful overall, with one minor physical-detail defect.",
+  "version": 1
+}

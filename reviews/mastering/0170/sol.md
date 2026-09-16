@@ -80,7 +80,7 @@ After finishing his sentence, the old man stopped.
 
 The word that had slipped from his mouth felt unfamiliar.
 
-He had lived his entire life without anything holding him back. Everyone had feared and revered him. Even the renowned masters of Murim had tucked their tails between their legs in his presence.
+He had lived his whole life without a single thing to fear. Everyone had feared and revered him. Even the renowned masters of Murim had tucked their tails between their legs in his presence.
 
 And yet, with this humble villager he had known for less than half a shichen, such words came easily.
 
@@ -312,15 +312,17 @@ The old man asked Jang-pal, whose legs were trembling,
 
 A voice filled with joy escaped between Jang Taebo’s lips.
 
-“I’ll make you the greatest divine weapon under heaven.”
+“I’ll make you the greatest divine weapon in the world.”
 
-Ding!
+Ding.
 
 > **System**
 >
-> - Quest objective complete.
-> - Quest *Find the Master Artisan* has been successfully completed.
-> - A linked Quest has been generated.
+> The Quest mission has been completed.
+>
+> Quest **Find the Master Artisan** has been successfully completed.
+>
+> A linked Quest has been created.
 
 “…”
 
@@ -358,7 +360,7 @@ It meant I got a head start just from my gear.
 
 Jang Taebo trembled all over, overcome with emotion.
 
-It was hard to believe he was the same old man who had been so indifferent and dismissive only moments ago. Of course, I was happy things had worked out.
+It was hard to believe he was the same old man who had been so indifferent and dismissive only moments ago. Of course, it worked out in my favor, so I was happy.
 
 “Where on earth did you get such an enormous amount of Ten-Thousand-Year Cold Iron?”
 
