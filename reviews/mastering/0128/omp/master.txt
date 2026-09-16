@@ -6,15 +6,15 @@ Old Man Jang woke to the sound of a commotion.
 
 He was already sleeping less and less with age, so he wasn’t happy about being woken.
 
-*Let’s see what these bastards’ faces look like.*
+*Let’s see what these bastards look like.*
 
 Dragging his stiff body out of the thatched cottage, Old Man Jang immediately spotted a crowd gathered like clouds.
 
-There were hundreds of them, by his rough estimate. It looked as if everything in the village with legs—human or animal—had gathered in one place.
+There were hundreds of them by his rough estimate. It looked as though everything in the village with legs—human or animal—had gathered in one place.
 
 “What’s all this about?”
 
-It was a small, unremarkable village, so he knew most of the faces.
+It was a small village where everyone knew everyone, so most of the faces were familiar.
 
 At Old Man Jang’s muttering, a market merchant he recognized greeted him.
 
@@ -30,7 +30,7 @@ Old Man Jang grunted.
 
 “Oh, there you go again. Is the Emperor your friend?”
 
-“Going by age, I’d be his father.”
+“Going by age, I could be his father.”
 
 “You’ll get arrested for treason talking like that. Can’t you see the government troops over there?”
 
@@ -56,7 +56,7 @@ Old Man Jang turned to follow everyone’s gaze. When he saw fifty mounted rider
 
 Old Man Jang had little interest in the affairs of the world, but even he had heard the name of the Jin Family of Taiyuan until his ears rang.
 
-A prestigious family that had maintained its lineage for three hundred years, and the hegemon that held Shanxi Province in its grasp.
+A prestigious family with a three-hundred-year lineage, and the hegemon that held Shanxi Province in its grasp.
 
 As Old Man Jang watched the imposing procession, his brow suddenly furrowed.
 
@@ -68,9 +68,9 @@ Age had weakened his memory as well. As Old Man Jang lamented the passing years,
 
 “Ah, that Young Hero?”
 
-There were dozens of martial artists from the Jin Family of Taiyuan alone, all clearly visible. Yet the merchant immediately understood whom he meant.
+There were dozens of martial artists from the Jin Family of Taiyuan in plain sight, yet the merchant immediately understood whom he meant.
 
-An awl in a pocket. The young man’s presence was like an awl tucked inside a pouch, bound to stand out wherever he went, so there was nothing strange about it.
+An awl in a pocket was bound to show. The young man stood out wherever he went.
 
 “That’s the Sleeping Dragon of Shanxi.”
 
@@ -92,9 +92,9 @@ My epithet and name rang out from every direction. Even though I’d already exp
 
 *Is this how idols feel?*
 
-This was that thing, wasn’t it? *Milky-skinned Jin Taekyung. We love you, Jin Taekyung.*
+This was that chant, wasn’t it? *Milky-skinned Jin Taekyung! We love you, Jin Taekyung!*
 
-An idol fan club, the kind I’d only ever seen on music variety shows, was right in front of me. Smiling contentedly, I drew the [Unnamed Sword] from my waist.
+An idol fan club, the kind I’d only ever seen on music variety shows, was right in front of me. Smiling contentedly, I drew the Unnamed Sword from my waist.
 
 Shhhng. Flash!
 
@@ -106,7 +106,7 @@ Maybe it was the Ten-Thousand-Year Cold Iron brand, but nothing else came close 
 
 “Wah! Wah!”
 
-A man for everyone, like something rated for all audiences—men and women, young and old.
+A man with all-ages appeal, beloved by men and women, young and old.
 
 That man was me.
 
@@ -177,7 +177,7 @@ Titles didn’t simply drop from the heavens.
 
 In my case, rumors about me being some kind of sleeping dragon had gradually spread, and at some point, my Fame rose and I gained the Title Sleeping Dragon of Shanxi.
 
-It seemed that a Title’s effect increased as Fame rose.
+It seemed that a Title’s effect grew stronger as my Fame increased.
 
 *My Level has already passed sixty, too.*
 
@@ -199,7 +199,7 @@ I deliberately put on a serious face.
 
 As we rode amid the crowd’s cheers, we pulled on the reins and slowed down.
 
-Dozens of men had poured out into the street and blocked our path.
+Dozens of men had poured into the street and blocked our path.
 
 Among them, a fat man dressed in splendid red robes smiled broadly at me.
 
@@ -233,11 +233,11 @@ I knew that this world had a government, official offices, and law-enforcement a
 
 *How could they never show even the tips of their noses?*
 
-Violent crimes happened dozens of times a day around here, yet I had never once seen government troops drag away a criminal.
+Violent crimes happened dozens of times a day around here, yet I had never once seen government troops arrest a criminal.
 
 Then again, considering the authorities hadn’t intervened in the Battle of Eight Spring Gorge, where roughly two thousand people had clashed, or in this latest incident involving the Red Wind Band, perhaps that was only natural.
 
-*It’s not as if they’re even beating up the mounted bandits who loiter around.*
+*It’s not like they even deal with the mounted bandits roaming around.*
 
 What exactly did these bastards do?
 
@@ -245,13 +245,13 @@ I was imagining that, if this were modern times, half the martial artists in the
 
 “Ahem. Ahem!”
 
-His face flushed red as he coughed awkwardly.
+His face had flushed red.
 
 He was an official of some standing, after all, and seemed offended that I had ignored him.
 
 “Oh, I’m sorry. I injured my head a while ago, so I keep spacing out.”
 
-I’d only offered a reasonable excuse, but the county magistrate’s expression finally relaxed a little.
+It was just a convenient excuse, but the county magistrate’s expression finally relaxed a little.
 
 “Ahem, no, no. You must have endured great hardship dealing with those vicious mounted bandits. Ah, I heard you killed more than five hundred of them?”
 
@@ -313,7 +313,7 @@ Ding.
 >
 > **Fame** rises by 40!
 
-This time, Hyuk Mujin whispered to me with an expression usually reserved for looking at a bug.
+This time, Hyuk Mujin whispered to me with an expression usually reserved for a bug.
 
 “Do you really want to take it this far?”
 
@@ -323,7 +323,7 @@ This time, Hyuk Mujin whispered to me with an expression usually reserved for lo
 
 “You, Wolhwa, and the Mount Heng Sword Sect just have to keep your mouths shut. So hurry up and back me up.”
 
-“I refuse. Hyuk Mujin may not look it, but I’ve lived a truthful life without a single shameful moment before the heavens.”
+“I refuse. Hyuk Mujin may not look it, but I’ve lived a truthful life without a single shameful moment beneath the heavens.”
 
 I stared at him in disbelief.
 
@@ -339,11 +339,11 @@ I stared at him in disbelief.
 
 “…!”
 
-Hyuk Mujin, who had lived a truthful life without a single shameful moment before the heavens, used dazzling verbal footwork to completely win over the county magistrate.
+Hyuk Mujin, who had lived a truthful life without a single shameful moment beneath the heavens, proceeded to charm the county magistrate with a dazzling display of verbal footwork.
 
 The mounted bandits, most of whom had been Second Rate or Third Rate, became First Rate masters to a man—each a Lü Bu astride Red Hare. Pung Yang became an invincible master who could cleave mountains and seas with a single sword strike.
 
-*From now on, I’m filtering anything that comes out of this bastard’s mouth.*
+*From now on, I’m filtering out anything that comes from this bastard’s mouth.*
 
 He was such a skilled liar that even I found myself wondering whether it was true. If even I, the person involved, was confused, there was no hope for anyone else.
 
@@ -351,7 +351,7 @@ He was such a skilled liar that even I found myself wondering whether it was tru
 
 The moment Hyuk Mujin finished his bullshit—his story, I mean—sighs of disappointment rose from all around us. The county magistrate’s reaction was the most enthusiastic of all.
 
-“Whaaaat? How could such a thing happen? The Murim is truly a wondrous yet terrifying place.”
+“Good heavens, how could such a thing happen? The Murim is truly a wondrous yet terrifying place.”
 
 Hyuk Mujin swept his gaze over the crowd with melancholy eyes.
 
@@ -371,7 +371,7 @@ I had already milked the Fame for all it was worth, and there was no reason to k
 
 “Sorry to interrupt, but we’re in a hurry.”
 
-The county magistrate, who had been gazing at Hyuk Mujin with dazed eyes as if hypnotized, suddenly came to his senses.
+The county magistrate, who had been gazing at Hyuk Mujin with dazed eyes as though hypnotized, suddenly came to his senses.
 
 “Ah, my apologies. I didn’t mean for this to happen.”
 
@@ -383,11 +383,11 @@ The county magistrate’s gaze shifted toward the carriage behind me.
 
 They couldn’t be seen from outside, but Jin Wikyung, Jin Mukyung, and Wipeng were inside.
 
-*Because they were drunk out of their minds.*
+*Drunk out of their minds.*
 
 They were the losers who had been utterly crushed by me in our drinking contest over the past three days. But how could I tell him the truth? Without so much as changing my expression, I lied.
 
-“I’m sorry, but he’s currently circulating his qi, so I don’t think he can see you. As you know, County Magistrate, it’s quite dangerous.”
+“I’m sorry, but he’s currently circulating his qi, so I don’t think he can see you. As you know, County Magistrate, it’s quite dangerous to interrupt.”
 
 “Ah, I see. Then it can’t be helped.”
 
@@ -395,7 +395,7 @@ The county magistrate clicked his tongue, then pulled a tightly rolled piece of 
 
 “What is this?”
 
-“An invitation from the City Lord. After hearing about your recent exploits, Young Hero Jin, he seems to have been deeply impressed, so he arranged a gathering with several young prodigies.”
+“An invitation from the City Lord. After hearing about your recent exploits, Young Hero Jin, he seems to have been deeply impressed. He’s arranged a gathering with several young prodigies.”
 
 Ding.
 

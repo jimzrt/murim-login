@@ -4,11 +4,11 @@ Old Man Jang woke to the sound of a commotion.
 
 *What goddamn bastards are making all that noise?*
 
-He was already sleeping less and less with age, so he wasn’t happy about being woken.
+He was old enough that his hours of sleep were gradually dwindling, so this was hardly a welcome development.
 
-*Let’s see what these bastards’ faces look like.*
+*I’ll go see what their faces look like.*
 
-Dragging his stiff body out of the thatched cottage, Old Man Jang immediately spotted a crowd gathered like clouds.
+Dragging his stiff body out of the thatched cottage, Old Man Jang’s eyes immediately fell on a crowd gathered like clouds.
 
 There were hundreds of them, by his rough estimate. It looked as if everything in the village with legs—human or animal—had gathered in one place.
 
@@ -16,7 +16,7 @@ There were hundreds of them, by his rough estimate. It looked as if everything i
 
 It was a small, unremarkable village, so he knew most of the faces.
 
-At Old Man Jang’s muttering, a market merchant he recognized greeted him.
+At Old Man Jang’s muttering, a familiar market merchant greeted him.
 
 “You’re awake, sir.”
 
@@ -30,31 +30,31 @@ Old Man Jang grunted.
 
 “Oh, there you go again. Is the Emperor your friend?”
 
-“Going by age, I’d be his father.”
+“By age, I’d be his father.”
 
-“You’ll get arrested for treason talking like that. Can’t you see the government troops over there?”
+“You’ll get arrested for treason talking like that. Can’t you see the government soldiers over there?”
 
-“Government troops?”
+“Government soldiers?”
 
-Following the merchant’s nod, Old Man Jang spotted dozens of government troops and the county magistrate dressed in his official robes. His eyes narrowed.
+Following the merchant’s nod, Old Man Jang spotted dozens of government troops and a man dressed in an official robe—the county magistrate. His eyes narrowed.
 
-“That fellow never showed his face when the mounted bandits were prowling around, but now he’s even put on his official robes? Is this important guest some high-ranking official?”
+“That fellow never showed his face when the mounted bandits were prowling around, but now he’s dressed up in his official robes too? Is this important guest some high-ranking official?”
 
 “Not a high-ranking official, but in Shanxi Province, they’re number one.”
 
 The merchant raised his thumb.
 
-At that very moment, excited shouts erupted from the assembled crowd.
+At that very moment, an uproar erupted from the assembled crowd.
 
 “They’re coming!”
 
 “They’re here!”
 
-Old Man Jang turned to follow everyone’s gaze. When he saw fifty mounted riders galloping toward them in the distance, their flags snapping in the wind, he finally realized who the important guests were.
+Old Man Jang turned his head in the direction of everyone’s gaze. When he saw fifty mounted riders charging toward them from the distance, their flags snapping in the wind, he finally understood who the important guests were.
 
 *The Jin Family of Taiyuan.*
 
-Old Man Jang had little interest in the affairs of the world, but even he had heard the name of the Jin Family of Taiyuan until his ears rang.
+Old Man Jang had little interest in the affairs of the world, but he had heard the name of the Jin Family of Taiyuan until his ears rang.
 
 A prestigious family that had maintained its lineage for three hundred years, and the hegemon that held Shanxi Province in its grasp.
 
@@ -88,11 +88,11 @@ The transparent blade flashed in the sunlight, and a thunderous cheer erupted.
 
 “Sleeping Dragon of Shanxi! Jin Taekyung! Sleeping Dragon of Shanxi! Jin Taekyung!”
 
-My epithet and name rang out from every direction. Even though I’d already experienced this several times over the past few days, it still filled me with pride.
+My epithet and name rang out from every direction. Even though I’d already experienced this several times over the past few days, it still made me feel proud.
 
 *Is this how idols feel?*
 
-This was that thing, wasn’t it? *Milky-skinned Jin Taekyung. We love you, Jin Taekyung.*
+It was just like that thing. *Milky-skinned Jin Taekyung. We love you, Jin Taekyung.*
 
 An idol fan club, the kind I’d only ever seen on music variety shows, was right in front of me. Smiling contentedly, I drew the [Unnamed Sword] from my waist.
 
@@ -140,13 +140,13 @@ Ding.
 >
 > **Lv. 61 Jin Taekyung**
 >
-> **Class:** First Rate Martial Artist
+> **Class:** First Rate martial artist
 >
 > **Fame:** 2,100 (+250)
 >
 > **Titles:** 4 (Title effects active)
 >
-> — Returnee (All stats +10)
+> — Returned One (All stats +10)
 >
 > — Sleeping Dragon of Shanxi (All stats +15, Fame +200)
 >
@@ -161,15 +161,15 @@ Ding.
 > **Intelligence:** 35 (+30)
 >
 > **Charm:** 35 (+30)  
-> **Internal Energy:** 45 years
+> **Internal energy:** 45 years
 >
 > **Toughness:** 155 (+30)
 >
-> **Remaining Points:** 60
+> **Remaining points:** 60
 >
 > — Distribute your remaining points.
 
-The Sleeping Dragon of Shanxi’s Title effect had definitely changed. Before, it had granted All stats +10 and Fame +100.
+The Sleeping Dragon of Shanxi’s Title effect had definitely changed from All stats +10 and Fame +100.
 
 *So my name carries more weight now?*
 
@@ -177,27 +177,27 @@ Titles didn’t simply drop from the heavens.
 
 In my case, rumors about me being some kind of sleeping dragon had gradually spread, and at some point, my Fame rose and I gained the Title Sleeping Dragon of Shanxi.
 
-It seemed that a Title’s effect increased as Fame rose.
+It seemed that the effect of a Title increased along with one’s Fame.
 
 *My Level has already passed sixty, too.*
 
 The Status Window, which I hadn’t checked in a while, had grown by leaps and bounds. My Fame had shot up, my combat-related stats were approaching 200, and I had a solid forty-five years of internal energy.
 
-*Now that’s the stuff! Innkeeper!*
+*Hehehe. Innkeeper!*
 
-I shuddered with exhilaration, and Hyuk Mujin, who was carrying a flag to my right, looked at me as though I were mentally ill.
+I shuddered with exhilaration, and Hyuk Mujin, who was carrying a flag on my right, looked at me as if I were mentally ill.
 
 “Are you really that happy?”
 
 I deliberately put on a serious face.
 
-“Who said I was happy? The people were enjoying themselves, so I was just livening up the mood.”
+“Who said I was happy? People like me, so I was just helping to liven up the mood.”
 
-“…I have a lot to say, but I won’t.”
+“……I have a lot to say, but I won’t.”
 
 “Wise choice.”
 
-As we rode amid the crowd’s cheers, we pulled on the reins and slowed down.
+Walking amid the crowd’s cheers, we pulled on the reins and slowed down.
 
 Dozens of men had poured out into the street and blocked our path.
 
@@ -207,9 +207,13 @@ Among them, a fat man dressed in splendid red robes smiled broadly at me.
 
 “Ah, yes.”
 
-Confused, I asked, “But who are you?”
+Confused, I asked,
 
-Hyuk Mujin hurriedly whispered, “He’s the county magistrate. The county magistrate.”
+“But who are you?”
+
+Hyuk Mujin hurriedly whispered,
+
+“He’s the county magistrate. The county magistrate.”
 
 “What’s a county magistrate?”
 
@@ -221,7 +225,7 @@ Hyuk Mujin hurriedly whispered, “He’s the county magistrate. The county magi
 
 “An official. Then are the people behind him government troops?”
 
-“…Why are you acting like you’ve never seen government troops before?”
+“……Why are you acting like you’ve never seen government troops before?”
 
 “No, I just find it interesting.”
 
@@ -233,7 +237,7 @@ I knew that this world had a government, official offices, and law-enforcement a
 
 *How could they never show even the tips of their noses?*
 
-Violent crimes happened dozens of times a day around here, yet I had never once seen government troops drag away a criminal.
+Violent crimes happened dozens of times a day in this neighborhood, yet I had never once seen government troops drag away a criminal.
 
 Then again, considering the authorities hadn’t intervened in the Battle of Eight Spring Gorge, where roughly two thousand people had clashed, or in this latest incident involving the Red Wind Band, perhaps that was only natural.
 
@@ -247,13 +251,13 @@ I was imagining that, if this were modern times, half the martial artists in the
 
 His face flushed red as he coughed awkwardly.
 
-He was an official of some standing, after all, and seemed offended that I had ignored him.
+He was an official with a certain position, after all, and seemed offended that I had ignored him.
 
 “Oh, I’m sorry. I injured my head a while ago, so I keep spacing out.”
 
-I’d only offered a reasonable excuse, but the county magistrate’s expression finally relaxed a little.
+I’d only offered a reasonable excuse, but the county magistrate’s expression relaxed slightly.
 
-“Ahem, no, no. You must have endured great hardship dealing with those vicious mounted bandits. Ah, I heard you killed more than five hundred of them?”
+“Ahem, no, no. You must have gone through great hardship dealing with those vicious mounted bandits. Ah, I heard you killed more than five hundred of them?”
 
 “Uh… five hundred?”
 
@@ -261,7 +265,7 @@ I’d only offered a reasonable excuse, but the county magistrate’s expression
 
 I had no idea where that number had come from.
 
-Even if you counted every mounted bandit who took part in the battle, there might have been three hundred at most. And by the time Jin Mukyung and I arrived, fewer than a hundred of them remained.
+Even if you counted every mounted bandit who took part in the battle, there might have been three hundred at most. And by the time Jin Mukyung and I arrived, fewer than a hundred of them had remained.
 
 *In reality, there was Pung Yang and maybe seventy mounted bandits who were already exhausted. Something like that.*
 
@@ -269,11 +273,11 @@ Well, rumors were usually exaggerated.
 
 “Come on, that’s too—”
 
-Just as I was about to tell him the truth, murmurs spread through the people who had been listening to my conversation with the county magistrate.
+Just as I was about to explain the truth, murmurs spread through the people who had been listening to my conversation with the county magistrate.
 
 “Five hundred? Didn’t the Sleeping Dragon of Shanxi and the Heaven Shaking Sword go there alone?”
 
-“Good heavens. The two of them defeated more than five hundred mounted bandits?”
+“Good heavens. The two of them defeated a mounted-bandit force of more than five hundred?”
 
 “How can human beings be that strong?”
 
@@ -285,11 +289,11 @@ Ding.
 >
 > **Fame** rises by 40!
 
-“Too what, did you say?”
+“Too what did you say?”
 
 I continued speaking to the bewildered county magistrate.
 
-“That’s far too low. In reality, there were nearly six hundred.”
+“That’s a serious understatement. In reality, there were nearly six hundred.”
 
 “Six hundred!”
 
@@ -303,7 +307,7 @@ The county magistrate—and even the government troops—gaped at me.
 
 “Ooh!”
 
-“Two hundred and eighty-five! He even knows the exact number!”
+“Two hundred and eighty-five! And he even knows the exact number!”
 
 Ding.
 
@@ -329,17 +333,17 @@ I stared at him in disbelief.
 
 “When Jin Mukyung destroyed my pavilion, weren’t you the one who fought assassins that didn’t even exist?”
 
-“…”
+“…….”
 
-“If you have nothing to say, shut up and watch your expression. My two hundred and eighty… How many was it?”
+“If you have nothing to say, shut up and manage your expression. My two hundred and eighty… How many was it?”
 
 “Two hundred and eighty-five.”
 
-“Right. I’ll say you took care of about thirty of them. If you were born with balls, you ought to become Master of the Gatekeeper Pavilion in the Jin Family of Taiyuan at least once in your life. Don’t you think?”
+“Right. I’ll count about thirty of them as your kills. If you were born with balls, you ought to make Master of the Gatekeeper Pavilion in the Jin Family of Taiyuan at least once in your life. Don’t you think?”
 
-“…!”
+“……!”
 
-Hyuk Mujin, who had lived a truthful life without a single shameful moment before the heavens, used dazzling verbal footwork to completely win over the county magistrate.
+Hyuk Mujin, who had lived a truthful life without a single shameful moment before the heavens, used his dazzling tongue to completely win over the county magistrate.
 
 The mounted bandits, most of whom had been Second Rate or Third Rate, became First Rate masters to a man—each a Lü Bu astride Red Hare. Pung Yang became an invincible master who could cleave mountains and seas with a single sword strike.
 
@@ -347,7 +351,7 @@ The mounted bandits, most of whom had been Second Rate or Third Rate, became Fir
 
 He was such a skilled liar that even I found myself wondering whether it was true. If even I, the person involved, was confused, there was no hope for anyone else.
 
-“…and that was how Pung Yang, the absolute ruler of Gaoyuan, and the vicious Red Wind Band came to meet their end at the Mount Heng Sword Sect.”
+“……and that was how Pung Yang, the absolute ruler of Gaoyuan, and the vicious Red Wind Band came to meet their end at the Mount Heng Sword Sect.”
 
 The moment Hyuk Mujin finished his bullshit—his story, I mean—sighs of disappointment rose from all around us. The county magistrate’s reaction was the most enthusiastic of all.
 
@@ -361,9 +365,9 @@ Hyuk Mujin swept his gaze over the crowd with melancholy eyes.
 
 “To die by the sword of someone strong. That is all I could ask for.”
 
-“…”
+“…….”
 
-What a bumper crop of bullshit.
+At this point, this was a bumper crop of bullshit.
 
 Suppressing the urge to smack Hyuk Mujin in the back of the head, I stepped forward.
 
@@ -375,9 +379,9 @@ The county magistrate, who had been gazing at Hyuk Mujin with dazed eyes as if h
 
 “Ah, my apologies. I didn’t mean for this to happen.”
 
-“Then did you have some other business?”
+“Then do you have some other business?”
 
-“Could I meet Great Hero Jin? The Lesser Family Head, I mean.”
+“Could I meet Great Hero Jin? I mean, the Lesser Family Head.”
 
 The county magistrate’s gaze shifted toward the carriage behind me.
 
@@ -385,9 +389,9 @@ They couldn’t be seen from outside, but Jin Wikyung, Jin Mukyung, and Wipeng w
 
 *Because they were drunk out of their minds.*
 
-They were the losers who had been utterly crushed by me in our drinking contest over the past three days. But how could I tell him the truth? Without so much as changing my expression, I lied.
+They were the losers who had been utterly crushed by me in our drinking contest over the past three days. But how could I tell him the truth? Without changing my expression, I lied.
 
-“I’m sorry, but he’s currently circulating his qi, so I don’t think he can see you. As you know, County Magistrate, it’s quite dangerous.”
+“I’m sorry, but he’s currently circulating his qi and won’t be able to see you. As you know, County Magistrate, it’s quite dangerous.”
 
 “Ah, I see. Then it can’t be helped.”
 
