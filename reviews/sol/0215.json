@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The one I had encountered three years ago was something that could never have emerged from an E-Rank Gate, much less should have.",
+      "defect": "“Much less should have” creates a malformed logical relationship between impossibility and prohibition instead of preserving both parallel negations.",
+      "id": "F01",
+      "rationale": "The source states separately that the creature could not emerge from an E-Rank Gate and must not be allowed to emerge from one.",
+      "replacement": "The creature I had encountered three years ago was something that could not—and should not—have emerged from an E-Rank Gate.",
+      "severity": "major",
+      "source": "3년 전 내가 맞닥트린 그놈은 E급 게이트에서 나올 수도, 나와서도 안 되는 존재였다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "One of the higher monsters classified as dragonkin, along with drakes.",
+      "defect": "“Higher monsters” is an unnatural and imprecise rendering of a monster’s tier.",
+      "id": "F02",
+      "rationale": "상위 몬스터 denotes an upper-tier or high-tier monster, not a physically or comparatively “higher” monster.",
+      "replacement": "One of the high-tier monsters classified as dragonkin, along with drakes.",
+      "severity": "minor",
+      "source": "드레이크와 함께 이른바 용족(龍族)으로 분류되는 상위 몬스터 중 하나다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“That bastard, Team Leader One.”",
+      "defect": "“Team Leader One” misidentifies an ordinal team title as though “One” were a name.",
+      "id": "F03",
+      "rationale": "1팀장 refers to the leader of Team One; the source does not introduce a person named or titled “Team Leader One.”",
+      "replacement": "“That bastard, the leader of Team One.”",
+      "severity": "major",
+      "source": "“1팀장 이 새끼가.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Steam poured from Im Kkeokjeong’s mouth as he wore his thick, one-piece armor.",
+      "defect": "The draft invents visible steam in a hot jungle and renders the exertion idiom 단내가 나다 literally incorrectly; “as he wore” also makes wearing the armor sound like a simultaneous action.",
+      "id": "F04",
+      "rationale": "단내가 뿜어져 나왔다 conveys severe exertion and labored breathing, while 통짜 갑옷 describes heavy solid armor rather than generic “one-piece armor.”",
+      "replacement": "Im Kkeokjeong, clad in thick, solid plate armor, panted raggedly.",
+      "severity": "major",
+      "source": "두꺼운 통짜 갑옷을 걸친 임꺽정의 입에서 단내가 뿜어져 나왔다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "> - You have equipped **[Yeti’s Necklace]**.",
+      "defect": "The System notice retains square brackets around an Item, contrary to the required System-panel formatting.",
+      "id": "F05",
+      "rationale": "The source brackets identify the Item, but the binding Markdown rules require System notices to omit such square brackets.",
+      "replacement": "> - You have equipped **Yeti’s Necklace**.",
+      "severity": "minor",
+      "source": "- [예티의 목걸이]를 장착하셨습니다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Along with a cry that raised goose bumps, a massive shadow enveloped the more than twenty people.",
+      "defect": "“More than twenty” changes the approximate quantity 이십여 명 into a strict lower bound.",
+      "id": "F06",
+      "rationale": "이십여 명 means approximately twenty or twenty-odd people, unlike the earlier explicit 이십 명이 넘는, which does mean more than twenty.",
+      "replacement": "Along with a cry that raised goose bumps, a massive shadow enveloped the roughly twenty people.",
+      "severity": "critical",
+      "source": "모골이 송연해지는 울음소리와 함께 거대한 그늘이 이십여 명의 사람들을 감싸 안는다."
+    }
+  ],
+  "summary": "Six actionable findings: one quantity error, two meaningful fidelity issues, and three localized terminology/Markdown problems.",
+  "version": 1
+}
