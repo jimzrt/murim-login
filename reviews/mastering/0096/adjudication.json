@@ -1,0 +1,647 @@
+{
+  "chapter": 96,
+  "decisions": [
+    {
+      "decision": "SOL",
+      "hunk_id": "H001",
+      "reason": "“In” is cleaner than “belonging to” without losing 소속."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H002",
+      "reason": "Spoken “didn’t have,” tighter “rare mental mage,” and “doing pretty well for himself” match 나름 잘나가는."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H003",
+      "reason": "Punchier thought-voice for the ongoing 집에 못 들어가는 complaint."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H004",
+      "reason": "“Of more than 330” and “Sangdong Guild’s only Familiar mage” read more naturally."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H005",
+      "reason": "SOL’s split helps, but “spent their nights” drops 밤을 새야 한다; keep the all-nighter obligation and the changing hideout.",
+      "replacement": "Raid teams at least got to go home after running a Gate. The Security Team had no such luxury. They had to stay up all night in a different hideout each time."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H006",
+      "reason": "“Hollow-eyed” is the natural rendering of 퀭한 얼굴; “clicked his tongue at” is tighter."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H007",
+      "reason": "“You’ve got it rough” fits 고생 많다, and “not set one foot outside” keeps 한 발자국."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H008",
+      "reason": "“Tell me about it” is the right agreement for 그러니까요."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H009",
+      "reason": "Punchier workplace complaint with the same smoker-as-easier-target meaning."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H010",
+      "reason": "“Acquired,” “entrance to,” and “hadn’t budged” are more natural without changing the action."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H011",
+      "reason": "“Tired of waiting” matches 기다림에 지쳐, and “yowling… got chased” is stronger, spoken English for the nuisance beat."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H012",
+      "reason": "“Do they even go on raids?” keeps 레이드도; SOL drops the 도."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H013",
+      "reason": "“A buddy of mine” preserves 내 동기, and “he said” matches 있다던데."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H014",
+      "reason": "“Over there” renders 그쪽, which BASE’s “that situation” loses."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H015",
+      "reason": "SOL adds “targets” and drops 하나 counts; BASE keeps one woman and one middle-aged man."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H016",
+      "reason": "철수하지 is a hortative “we should,” not SOL’s “I wish we’d.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H017",
+      "reason": "“Pitying look” preserves 안쓰러운 표정 better than abstract “with pity.”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H018",
+      "reason": "SOL drops the 있지 않겠어 tag-question."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H019",
+      "reason": "“Going a little overboard” is the more spoken match for 좀 아니지 않아요; “excessive” is stiffer."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H020",
+      "reason": "“When they say jump, we jump” naturalizes 까라면 까야, and the “you” imperative matches 그러려니 해."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H021",
+      "reason": "“Could stand to ease up” is the natural complaint for 적당히 쪼아 대야죠."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H022",
+      "reason": "“Far better” matches 훨씬, and the recast boast sounds like actual showing-off to the Guild Master."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H023",
+      "reason": "“Sure is” is the natural agreement for 환장하지."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H024",
+      "reason": "“Held himself back” is the more physical match for 꾹 참았다; “restrained” is only a synonym swap."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H025",
+      "reason": "SOL’s “might be,” “simplest,” and “spell” over-specify 쉬운 라이트 마법; the doctor is a civilian, not a hypothetical one."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H026",
+      "reason": "“Maybe” keeps the hedge in 것 같기도 하고; SOL sounds too sure."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H027",
+      "reason": "Interrupted “when—” matches 더듬으려던 그때였다 before the radio cuts in."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H028",
+      "reason": "Clipped 이동 중! is “Moving!”; SOL adds an unsupported “He’s.”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H029",
+      "reason": "낮지만 needs the contrast “low but urgent,” not a mere comma list."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H030",
+      "reason": "Standalone “Slurp.” restores the 추르릅 beat as its own line."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H031",
+      "reason": "Wiping drool and the shouted name belong in one action-dialogue beat."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H032",
+      "reason": "The shout moves into the previous sentence; the orphaned quote should not remain."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H033",
+      "reason": "“Had breakfast” is the natural collocation for 아침도 못 먹었는데."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H034",
+      "reason": "SOL drops 또; the hair falls out again."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H035",
+      "reason": "Fronting “the moment my contract ends” puts the 끝나면 바로 snap in the right place."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H036",
+      "reason": "Keep the tears idiom and 빨려 들어간다 as sucked inward; SOL’s “away” reverses the direction.",
+      "replacement": "Swallowing back his tears, Kim Junsu drew up his mana. His head grew hot as his consciousness was sucked inward."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H037",
+      "reason": "“Snapped its eyes open” captures the sudden 번쩍."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H038",
+      "reason": "“Myaow” matches 미야옹 without comic-book extra letters."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H039",
+      "reason": "A full System line should not be wrapped in outer bold."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H040",
+      "reason": "미앙 then 미야앙 lengthens the second cry; SOL makes them identical."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H041",
+      "reason": "“Work a club” lands the 클럽에서 놀아 본 pickup joke; “bold stride” still fits 당찬 걸음."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H042",
+      "reason": "“Not into” is more spoken for 별론데."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H043",
+      "reason": "짐작 is a guess, not SOL’s narrower “suspicion.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H044",
+      "reason": "한패가 아닌가, confirmed later by 역시 아니야, leans to them not being the same group; BASE asks the opposite."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H045",
+      "reason": "SOL adds “only” and swaps 좋은 for “smart”; BASE already has the two cat Familiars a day apart."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H046",
+      "reason": "“Let out a quiet laugh” keeps the involuntary 피식; “laughed quietly” flattens it."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H047",
+      "reason": "This line addresses him as 아저씨; “young man” belongs to the later 젊은 양반."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H048",
+      "reason": "“Approachable” renders 친근하다 without colliding with Familiar."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H049",
+      "reason": "SOL drops 완전히; “totally one of those” is the line."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H050",
+      "reason": "SOL’s “all affectionate” adds a universal the Korean does not state."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H051",
+      "reason": "“Another dog-cat” is tighter and still keeps yesterday’s pickup."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H052",
+      "reason": "신기하네 is mild wonder, not BASE’s “strange.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H053",
+      "reason": "“Half-smoked” is the English collocation for 반쯤 타들어 간 담배."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H054",
+      "reason": "Naturalizes 인연 as being brought together for a reason without losing the good-owner claim."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H055",
+      "reason": "원래 이런 성격 is this personality, not the narrower “naturally friendly.”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H056",
+      "reason": "그런가 is “Is that so?”; the split “Hey, hey.” is only cosmetic."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H057",
+      "reason": "“Didn’t budge” is the exact idiom for 꿈쩍도 하지 않는다."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H058",
+      "reason": "아니, 오히려 needs the corrective “No… instead,” not just “If anything.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H059",
+      "reason": "The silent smile belongs in the following ask, not a stranded setup line."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H060",
+      "reason": "Merge the ask, but keep 말없이; SOL drops the silence.",
+      "replacement": "I only smiled without saying anything, so the man asked, “So, are you going to keep it?”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H061",
+      "reason": "볼일 is a matter to take care of, and 보죠, 뭐 needs the “maybe.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H062",
+      "reason": "“I won’t be long” is the natural spoken equivalent of 얼마 안 걸려요 here."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H063",
+      "reason": "가신다는 거 보니 is “since/seeing that,” not SOL’s conditional “If.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H064",
+      "reason": "Splitting the live-elsewhere and family-visit claims is cleaner spoken English."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H065",
+      "reason": "Standalone “Phew.” restores the 후우 beat."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H066",
+      "reason": "Merge the dialogue, but keep 붙잡고 and 마음 상한; SOL’s “keeping” and “no hard feelings” drift.",
+      "replacement": "His last breath of smoke scattered in the wind. The man flicked his cigarette butt onto the ground and said, “Well, look at me, holding up a busy man. You’re not offended, are you?”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H067",
+      "reason": "The held-up-a-busy-man line moves into the previous sentence."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H068",
+      "reason": "그럼 다행이고 needs “Then that’s good,” not a clipped “Good.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H069",
+      "reason": "“I answered” should attach to the following line."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H070",
+      "reason": "Merging “I answered” with the neighbor echo is the natural beat."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H071",
+      "reason": "한 바퀴 is a lap/circuit, which SOL’s generic “walk” loses."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H072",
+      "reason": "Keeps 뒷모습 as the retreating back and 휘적거리는 without adding “ambled.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H073",
+      "reason": "“He’s a good actor” is the punchier thought for 연기 잘하네."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H074",
+      "reason": "너도 is “you too,” not SOL’s “still.”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H075",
+      "reason": "탈을 쓴 is wearing guises; SOL adds “friendly” and weakens the mask image."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H076",
+      "reason": "Avoids the extra “I knew” and keeps 흘러도 as “even if.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H077",
+      "reason": "A full System line should not be wrapped in outer bold."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H078",
+      "reason": "Zero hunters in the next building is more natural English for 헌터가 살지 않는다."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H079",
+      "reason": "역시 is “just as I thought”; BASE drops it."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H080",
+      "reason": "Both say “suspicion,” but the Korean is 짐작; keep simple past “was enough.”",
+      "replacement": "The appearance of the two actors was enough to turn my guess into certainty."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H081",
+      "reason": "한층 더 needs “even lighter”; SOL’s “apartment complex” over-specifies 집 앞.",
+      "replacement": "My steps grew even lighter as I headed toward the real-estate office in front of the house."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H082",
+      "reason": "Keep 질질 끌며; SOL’s shuffle drops the dragged slippers.",
+      "replacement": "Late that morning, a middle-aged man in shabby clothes dragged his slippers along while humming to himself. He looked like someone you could see anywhere."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H083",
+      "reason": "Split the corner beat, but restore 빼 물었다; SOL only “stuck” it.",
+      "replacement": "The moment he rounded the corner, he pulled out a cigarette and stuck it between his lips."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H084",
+      "reason": "라이터가…… trails off; the added question mark is not in the source."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H085",
+      "reason": "Keep 뒤지 and the 지만 contrast; SOL loses the rummage and the but.",
+      "replacement": "His hand rummaged slowly through his pocket, but his eyes darted around."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H086",
+      "reason": "“Something other than a lighter” is cleaner than “something else instead.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H087",
+      "reason": "“How was my acting?” is more spoken, and “Seems like” picks up 어째."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H088",
+      "reason": "나 팀장이다 is an identity reveal—“It’s me, the Team Leader”—not generic radio “Team Leader here.”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H089",
+      "reason": "SOL deletes the 툭/Plop beat."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H090",
+      "reason": "With Plop kept, the cigarette drop and the freed mouth still need this line."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H091",
+      "reason": "시바 is “Fuck,” not the milder “Shit.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H092",
+      "reason": "Name-first identification is more natural English for the same rank and team facts."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H093",
+      "reason": "SOL’s “Well, well. Who knew” embellishes 이야…잘하데?"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H094",
+      "reason": "Figurative 냄새 맡다 is “catch on” in English, not a literal smell."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H095",
+      "reason": "The already-heard-then-reask logic is clearer in SOL’s sentence order."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H096",
+      "reason": "SOL adds “reaction”; the Korean is 표적의 모든 것, and 담다 is capture."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H097",
+      "reason": "질러야지 is “say it confidently and go for it”; SOL drops the 지르다 and adds “Since when.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H098",
+      "reason": "Spoken word order for the same 섣부른 판단 금물 line."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H099",
+      "reason": "지랄할 is stronger than “chew me out”; don’t soften it."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H100",
+      "reason": "“Supplied the remaining ten” makes the 90+10 completion cleaner."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H101",
+      "reason": "“That’s exactly the attitude I like to see” is the more natural boast-praise."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H102",
+      "reason": "The 100% is the combined certainty, not the Team Leader himself; “they” plus the pleased voice is right."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H103",
+      "reason": "“In the distance” is the natural rendering of 저 멀리서."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H104",
+      "reason": "Adverb placement in “circle the area naturally” is more idiomatic."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H105",
+      "reason": "그래 is “Right,” not SOL’s “Good.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H106",
+      "reason": "Closing 그럼 reads more naturally as “then” at the end of 수고."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H107",
+      "reason": "“No one overheard” is tighter and more precise for 아무도 듣지 못했다."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H108",
+      "reason": "The lung-cancer-before-a-monster joke lands cleaner as a muttered punchline."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H109",
+      "reason": "Keep 바빠졌다 and 외부 감시 인원; take SOL’s 만전, not “sprang into action” or “operatives.”",
+      "replacement": "The Security Team Leader got busy. There were three external surveillance personnel in total. He had to give instructions to the other two and make sure every precaution was taken."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H110",
+      "reason": "Keep 전체 채널 as all-team; SOL’s “what’s the situation” is the better 어떻게 됐어.",
+      "replacement": "“You were listening on the all-team channel, right? What’s the situation with the real-estate office the target is heading to?”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H111",
+      "reason": "“Magical eavesdropping Equipment” is natural English and still uses the glossary term."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H112",
+      "reason": "“Still no visual” is extra radio jargon; 아직 안 보이는 and 300m stay closer in BASE."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H113",
+      "reason": "SOL adds “risk”; the line is just 괜히 접촉할 필요 없어."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H114",
+      "reason": "“Standing by” is the radio idiom for 대기 중."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H115",
+      "reason": "“Over the radio” is the natural English collocation."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H116",
+      "reason": "은신 is concealment, not merely “hiding.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H117",
+      "reason": "“Veer off” captures 다른 길로 새다 better than a plain “take another route.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H118",
+      "reason": "“Plus” is cleaner than “along with” for the same 넷과 tally."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H119",
+      "reason": "“They lacked combat power” is more direct for 전투력은 떨어지지만."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H120",
+      "reason": "특별히 is a special heads-up, not SOL’s “specifically warned.”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H121",
+      "reason": "아마 is “I think,” not “if I remember right.”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H122",
+      "reason": "생각이 들었다 is a feeling, not SOL’s stronger “convinced,” and the source is “the fact that,” not “learning that.”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H123",
+      "reason": "망나니 is a good-for-nothing, not the narrower “delinquent.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H124",
+      "reason": "“You could find anywhere” drops the stiff “whom one could.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H125",
+      "reason": "Fronting “In his eyes” follows 그의 눈에 비친."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H126",
+      "reason": "팀원 is a team member, not SOL’s “operative.”"
+    }
+  ],
+  "version": 1
+}

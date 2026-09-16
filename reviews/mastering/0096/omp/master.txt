@@ -8,7 +8,7 @@ He didn’t have an ounce of talent for elemental magic, but fortunately, he had
 
 What good was owning a house of more than 330 square meters? As Sangdong Guild’s only Familiar mage, he never ran out of work.
 
-Raid teams at least got to go home after running a Gate. The Security Team had no such luxury. They had to stay up all night in a different hideout each time.
+Raid teams at least got to go home after running a Gate. The Security Team had no such luxury. They spent their nights in one hideout after another.
 
 “Junsu, did you pull an all-nighter?”
 
@@ -26,7 +26,7 @@ They had acquired a new cat to use as a Familiar and waited all night at the ent
 
 The only incident had come when the cat, tired of waiting, started yowling and nearly got chased away by a security guard.
 
-“Peace Guild? It looked pretty small. Do they even go on raids?”
+“Peace Guild? It looked pretty small. Don’t they go on raids?”
 
 “They’re on vacation right now.”
 
@@ -36,15 +36,15 @@ The only incident had come when the cat, tired of waiting, started yowling and n
 
 “Ah… How are things going over there?”
 
-“They pulled out yesterday. There was one woman and one middle-aged man, but it ended quickly. Judging by the Team Leader’s reaction, it seems like they turned up something over there, but I don’t know the details.”
+“They pulled out yesterday. The targets were a woman and a middle-aged man, and apparently it wrapped up pretty quickly. From the Team Leader’s reaction, it sounds like they found something, but I don’t know the details.”
 
-“Phew. We should just do enough to get by and pull out, too.”
+“Phew. I wish we’d just do enough to get by and pull out too.”
 
 His colleague gave Kim Junsu a pitying look as he heaved a deep sigh.
 
-“There has to be a reason they specially assigned the Guild’s only Familiar mage, right?”
+“There must be a reason they specifically assigned the Guild’s only Familiar mage.”
 
-“He’s still only a C-rank Hunter. Don’t you think this is going a little overboard?”
+“He’s still just a C-rank Hunter. Isn’t this a little excessive?”
 
 “What can we do? When they say jump, we jump. If the Team Leader keeps riding you like he did yesterday, just put up with it.”
 
@@ -56,19 +56,19 @@ His colleague gave Kim Junsu a pitying look as he heaved a deep sigh.
 
 “Sure is.”
 
-Kim Junsu wanted to tear his hair out, but he held himself back. If he did, the hair that had only just begun sprouting like fresh spring shoots might come right out.
+Kim Junsu wanted to tear his hair out, but he restrained himself. If he did, the hair that had only just begun sprouting like fresh spring shoots might come right out.
 
 *Ah, the doctor said stress makes hair loss worse.*
 
-The doctor was a civilian who couldn’t even use the simple Light magic, but if he could give Kim Junsu a full head of hair, Junsu would worship him as Jesus.
+The doctor might be a civilian who couldn’t even cast the simplest Light spell, but if he could give Junsu a full head of hair, Junsu would worship him as Jesus.
 
-*Come to think of it, maybe I haven’t lost much hair today.*
+*Come to think of it, I don’t think I’ve lost much hair today.*
 
 Kim Junsu was cautiously reaching up to feel the crown of his head when—
 
-—Target confirmed. Target confirmed. Moving!
+—Target confirmed. Target confirmed. He’s moving!
 
-A low but urgent voice came through the radio.
+A low, urgent voice came over the radio.
 
 The two men in the room—and even the Security Team Leader, who had been snoring in the next room—bolted upright.
 
@@ -78,11 +78,11 @@ The Team Leader wiped the drool from his mouth and shouted, “Hey! Kim Junsu!�
 
 *Damn it. I haven’t even had breakfast yet.*
 
-*Using Familiar magic makes my hair fall out again!*
+*Using Familiar magic makes my hair fall out!*
 
 *Fuck this. The moment my contract ends, I’m quitting the Guild.*
 
-Swallowing back his tears, Kim Junsu drew up his mana. His head grew hot as his consciousness was sucked inward.
+Swallowing his tears, Kim Junsu drew up his mana. His head grew hot as his consciousness was sucked away.
 
 *Faithful servant, answer my call. Link!*
 
@@ -108,21 +108,21 @@ Another cat. Did these bastards have no creativity at all?
 
 Well, one thing was different. This one’s fur was pitch-black.
 
-“Miaow. Miaowww.”
+“Miaow. Miaow.”
 
 The kitten approached with a surprisingly bold stride for something so young, then rubbed its whole body against my slipper. Whoever was controlling it clearly knew how to work a club.
 
 *Man. I’m not into getting attention this way.*
 
-But the appearance of this new Familiar allowed me to make a new guess.
+But the appearance of this new Familiar gave me a new suspicion.
 
 *These guys aren’t working together, are they?*
 
-Two conspicuous Familiars, both in the form of cats, appearing a day apart? It was hardly a good approach. If anything, it felt like someone had hurriedly copied the first attempt.
+Two conspicuous cat Familiars, appearing only a day apart? That was hardly a smart approach. If anything, it felt like someone had hurriedly copied the first attempt.
 
 “Meow!”
 
-The cat cried as if demanding my attention, and I let out a quiet laugh.
+The cat cried as if demanding my attention, and I laughed quietly.
 
 “You little thing. You’re cute.”
 
@@ -130,15 +130,15 @@ Should I take it with me or not…?
 
 My mind was racing when—
 
-“That cat’s pretty affectionate. Is it yours, sir?”
+“That cat’s pretty affectionate. Is it yours, young man?”
 
 A man approached, dragging his slippers. He looked to be in his early forties, with an utterly ordinary face. His stretched-out T-shirt and soccer shorts stained with ramen broth gave him an approachable air.
 
 “No. I think it’s a stray, but it suddenly started acting affectionate.”
 
-“Wow, this is totally one of those. A dog-cat.”[^1]
+“Wow, it’s one of those. A dog-cat.”[^1]
 
-“Exactly. Just like yesterday. I guess the cats in this neighborhood are pretty affectionate.”
+“Looks like it. Same as yesterday. Maybe the cats around here are all affectionate.”
 
 “Yesterday?”
 
@@ -150,17 +150,17 @@ The man took a drag from his half-smoked cigarette.
 
 “Times like this make you think even animals are brought together with people for a reason. It must think you’d make a good owner. That’s why it’s cozying up to you.”
 
-“Come on, what do you mean, a good owner? I think it just has this kind of personality.”
+“Come on, a good owner? I think it’s just naturally friendly.”
 
-“Is that so? Hey, hey, come here.”
+“Is that right? Hey, hey. Come here.”
 
 The cat didn’t budge at the man’s beckoning.
 
-No, it burrowed between my legs instead.
+If anything, it burrowed between my legs.
 
 “Well, look at this one. Young as it is, it already knows how to pick its people.”
 
-I only smiled without saying anything, so the man asked, “So, are you going to keep it?”
+I only smiled, and the man asked, “So, are you going to keep it?”
 
 “I’m not sure. I have something urgent to take care of. If it’s still here when I get back, maybe I’ll look after it for a few days.”
 
@@ -170,7 +170,7 @@ I only smiled without saying anything, so the man asked, “So, are you going to
 
 “I won’t be long. I’m just going to the real-estate office right over there.”
 
-“Really? Oh, come to think of it, I’ve never seen you before, young man. I’ve lived here a long time, so I know just about everyone. Since you’re going to a real-estate office, are you moving into the neighborhood?”
+“Really? Come to think of it, I haven’t seen you around before, young man. I’ve lived here a long time, so I know just about everyone. If you’re going to the real-estate office, are you moving into the neighborhood?”
 
 “I live somewhere else. I only come by once in a while to see my family. I just have something to take care of at the real-estate office.”
 
@@ -178,25 +178,25 @@ I only smiled without saying anything, so the man asked, “So, are you going to
 
 Phew.
 
-His last breath of smoke scattered in the wind. The man flicked his cigarette butt onto the ground and said, “Well, look at me, holding up a busy man. You’re not offended, are you?”
+His last breath of smoke scattered in the wind. The man flicked his cigarette butt onto the ground and said, “Well, look at me, keeping a busy man. No hard feelings, right?”
 
 “Not at all.”
 
-“Then that’s good. If we meet again, let’s say hello. We’re neighbors, after all.”
+“Good. If we run into each other again, let’s say hello. We’re neighbors, after all.”
 
 I answered, “Yes. We’re neighbors.”
 
-“Then I’ll be off. The weather’s nice, so I should take a lap around the neighborhood.”
+“I’ll be off, then. The weather’s nice, so I think I’ll take a walk around the neighborhood.”
 
-The man gave me a good-natured smile and started walking. I watched his retreating back for a moment as he moved away with a loose, swinging gait.
+The man gave me a good-natured smile and started walking. I watched his back for a moment as he ambled away with a loose, swinging gait.
 
 *He’s a good actor.*
 
 “Meow.”
 
-Right. You’re here, too.
+Right. You’re still here.
 
-The moment I left the house, I met two actors. Actors wearing the guises of a stray cat and a neighbor.
+The moment I stepped outside, I met two actors—one disguised as a stray cat and the other as a friendly neighbor.
 
 “I’ll be back soon, so wait here quietly, okay?”
 
@@ -214,29 +214,29 @@ There weren’t any Hunters living in the building next to ours.
 
 *Just as I thought. They aren’t working together.*
 
-The appearance of the two actors was enough to turn my guess into certainty.
+The appearance of those two actors had been enough to turn my suspicion into certainty.
 
-My steps grew even lighter as I headed toward the real-estate office in front of the house.
+My steps felt even lighter as I headed toward the real-estate office in front of the apartment complex.
 
 * * *
 
-Late that morning, a middle-aged man in shabby clothes dragged his slippers along while humming to himself. He looked like someone you could see anywhere.
+Late that morning, a shabbily dressed middle-aged man shuffled along in his slippers, humming to himself. He looked like someone you could see anywhere.
 
-The moment he rounded the corner, he pulled out a cigarette and stuck it between his lips.
+The moment he rounded the corner, he stuck a cigarette between his lips.
 
-“Let’s see. Where’s my lighter…”
+“Let’s see. Where’s my lighter…?”
 
-His hand rummaged slowly through his pocket, but his eyes darted around.
+His hand moved lazily through his pocket while his eyes darted around.
 
 Once he had confirmed that no one was nearby, he pulled out something other than a lighter: a miniature radio.
 
 “How was my acting? Maybe I should’ve become an actor instead of a Hunter. Seems like I’m better at acting than fighting.”
 
-—It’s me, the Team Leader.
+—Team Leader here.
 
-Plop.
+The cigarette dropped from his mouth.
 
-The cigarette fell from his mouth. His now-free lips moved soundlessly.
+His newly freed lips moved soundlessly.
 
 *Fuck. I’m screwed.*
 
@@ -244,7 +244,7 @@ Kim Gwondong, a C-rank Hunter in the Security Team, hurriedly collected himself 
 
 “Ah, yes, Team Leader.”
 
-—Kim Gwondong’s pretty good at acting, huh? You could quit the Guild and go to Hollywood.
+—Well, well. Who knew Kim Gwondong was such a good actor? You could quit the Guild and go to Hollywood.
 
 “I-I’m sorry.”
 
@@ -254,13 +254,13 @@ Kim Gwondong, a C-rank Hunter in the Security Team, hurriedly collected himself 
 
 The Team Leader had already heard the conversation through Kim Junsu, but there was a simple reason he was asking again.
 
-A cat’s eyes could not capture everything about the target clearly.
+Through the cat’s eyes, they couldn’t clearly read every detail of the target’s reaction.
 
 —Are you sure? One hundred percent?
 
 “Ninety percent.”
 
-—You little shit, is ninety percent certain? At times like this, you’re supposed to say it confidently and go for it.
+—You little shit. Since when is ninety percent certain? At times like this, you’re supposed to say it with confidence.
 
 “It’s dangerous to jump to conclusions.”
 
@@ -278,7 +278,7 @@ Kim Gwondong subtly changed direction to avoid a resident approaching in the dis
 
 “Yes. I’ll circle the area naturally and keep watch.”
 
-—Right. Report immediately if anything unusual happens.
+—Good. Report anything unusual immediately.
 
 “Yes.”
 
@@ -292,21 +292,21 @@ This time, Kim Gwondong took out a real lighter and lit his cigarette. He inhale
 
 * * *
 
-The Security Team Leader got busy. There were three external surveillance personnel in total. He had to give instructions to the other two and make sure every precaution was taken.
+The Security Team Leader sprang into action. There were three operatives stationed outside. He had to issue instructions to the other two and make sure every precaution was taken.
 
 “Number One.”
 
 —Number One here.
 
-“You were listening on the all-team channel, right? What’s the situation with the real-estate office the target is heading to?”
+“You were listening on the team channel, right? What’s the situation with the real-estate office the target is heading to?”
 
 —There are two in the nearby shopping district. We’ve installed magical eavesdropping Equipment in both.
 
 “Good. Where’s the target?”
 
-—We haven’t seen him yet… Ah, there he is. He’s approaching from about 300 meters away.
+—Still no visual… Ah, there he is. Approaching from about three hundred meters away.
 
-“Leave your position. We already installed the Equipment, so there’s no need to make contact for no reason.”
+“Leave your position. The Equipment’s already in place, so there’s no need to risk unnecessary contact.”
 
 —Yes. I’ll report immediately if anything unusual happens.
 
@@ -328,13 +328,13 @@ They lacked combat power, but every one of them was a veteran with extensive exp
 
 *It’s overkill for one C-rank Hunter.*
 
-At first, he had been somewhat wary. The Guild Master had given them a special warning about the target.
+At first, he had been somewhat wary. The Guild Master had specifically warned them about the target.
 
-*They said he cleared a B-rank Gate alone, I think.*
+*They said he cleared a B-rank Gate by himself, if I remember right.*
 
-But the more information he gathered about the man, the more he watched him, the more he felt that was not the case at all. The fact that the information had come from Im Changsoo finally put an end to his doubts.
+But the more information he gathered about the man—the longer he watched him—the more convinced he became that it couldn’t be true. What finally laid his doubts to rest was learning that the information had come from Im Changsoo.
 
-*That good-for-nothing bastard made it all up because he didn’t want to get beaten to death.*
+*That delinquent bastard made it up because he didn’t want to get beaten to death.*
 
 An ordinary C-rank Hunter you could find anywhere.
 
@@ -344,7 +344,7 @@ Beep.
 
 —Target entering the real-estate office.
 
-A report came over the radio from the team member keeping watch.
+The report came over the radio from the operative keeping watch.
 
 Sangdong Guild’s Security Team went on full alert.
 
