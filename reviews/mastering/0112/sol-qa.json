@@ -1,0 +1,63 @@
+{
+  "chapter": 112,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.346,
+    "source_characters": 6113,
+    "source_paragraphs": 170,
+    "translation_characters": 14342,
+    "translation_paragraphs": 181
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "내공",
+        "preferred": "internal energy"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "사제",
+        "preferred": "Junior Brother"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "조장",
+        "preferred": "Captain"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "시진",
+        "preferred": "shichen"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "주신",
+        "preferred": "God of Drinking"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
