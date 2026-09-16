@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "even crawling on the ground would hardly have been enough",
+      "defect": "The idiom 설설 기다 means to grovel or behave abjectly, not literally crawl on the ground.",
+      "id": "F01",
+      "rationale": "The passage contrasts the deference Gong Ilhyuk should be showing with his decision to issue a threat; a literal crawling action misrenders the idiom’s function.",
+      "replacement": "even groveling would hardly have been enough",
+      "severity": "minor",
+      "source": "line 147"
+    },
+    {
+      "confidence": 0.96,
+      "current": "the fist he clenched so hard it seemed it would crush",
+      "defect": "The English leaves “crush” without an object and consequently obscures that 으스러져라 describes the crushing force with which he clenched his fist.",
+      "id": "F02",
+      "rationale": "The source emphasizes the violence of his grip as blood drips from his fist; it does not say that the fist itself merely seemed likely to crush an unspecified object.",
+      "replacement": "the fist he had clenched with crushing force",
+      "severity": "minor",
+      "source": "line 323"
+    }
+  ],
+  "summary": "The chapter is faithful overall, with two minor semantic issues involving an idiom and a physical detail.",
+  "version": 1
+}
