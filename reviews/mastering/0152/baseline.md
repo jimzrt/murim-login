@@ -2,31 +2,31 @@
 
 “Yaaawn.”
 
-A middle-aged martial artist let out a long yawn and glanced to the side.
+A middle-aged martial artist glanced to the side after letting out a long yawn.
 
 Only a few paces away, the new recruit who had been assigned here today was standing stiffly and staring straight ahead.
 
 *What a guy. He’s got one hell of a build.*
 
-Limbs like pestles. Broad, squared shoulders.
+Limbs like pestles. Shoulders spread wide.
 
-Judging by his size alone, anyone might have suspected he hailed from the Hebei Peng Family, renowned for its sturdy physiques.
+Judging by his size alone, one might have suspected he came from the Hebei Peng Family, famous for producing martial artists with strong bones and muscles.
 
 *Come to think of it, I don’t even know his name yet.*
 
 The weather was cold, and there were still more than three shichen left in his shift.
 
-On days like this, you had to flap your gums to make the time pass faster and keep warm. The middle-aged martial artist quietly opened his mouth.
+On days like this, chatting was the best way to make time pass faster and keep warm. The middle-aged martial artist slowly opened his mouth.
 
 “Hey there.”
 
 “Yes, sir!”
 
-“Good heavens, did you swallow a thunderbolt? Why are you shouting so loud?”
+“Good heavens, did you swallow a thunderbolt? Why are you shouting so loudly?”
 
 “I’m sorry!”
 
-“No need to apologize. Is it because you’re new? It’s good to see someone so full of spirit.”
+“You don’t have to apologize for that. Is it because you’re new? It’s nice to see someone so full of spirit.”
 
 “Ah, thank you.”
 
@@ -36,39 +36,39 @@ The middle-aged martial artist smiled, pleased. They had only exchanged a few wo
 
 For a man who was slowly being treated like an old-timer fit only for the back rooms, he had found himself a pretty good conversational partner.
 
-“Is your surname Peng, by any chance?”
+“Is your surname perhaps Peng?”
 
 “No. It’s Jang.”
 
-“I was only curious. You’ve got quite the physique. I wondered if you might belong to some distant collateral branch of the Hebei Peng Family.”
+“I only asked because I was curious. Your physique is quite impressive. I wondered whether you might be from some distant collateral branch of the Hebei Peng Family.”
 
 The new martial artist scratched the back of his head.
 
-“I’ve been pretty strong ever since I was a snot-nosed kid.”
+“I was pretty strong even when I was a little kid.”
 
-“I thought so. Your limbs are packed with muscle. Reminds me of myself when I was young.”
+“I thought so. Your limbs are packed with muscle. You remind me of myself when I was young.”
 
 Of course, that was utter nonsense. But despite his appearance, the new martial artist was perceptive enough to immediately bow deeply.
 
-“Compared to you in your youth, Senior, I’m nothing.”
+“Compared to what you were like in your youth, Senior, I’m nothing.”
 
-“Come now, none of this ‘Senior’ business. Call me hyung from now on. Ah, my surname is Hong.”
+“Hey, none of this ‘Senior’ business. Call me hyung from now on. Ah, I’m Hong.”
 
 “Yes, hyung!”
 
-“Heh heh. Looks like I’ve gained a good little brother. So, Little Brother Jang, when did you join our family?”
+“Heh heh. Looks like I’ve got myself a good little brother. So, Jang, when did you join this family?”
 
 “It’s already been several years.”
 
-What? That can’t be right. If a man like you, with a general’s bearing, had joined, I would’ve heard about it long ago…
+“Huh? That can’t be right. If a fine candidate for a general like you had joined, I would have heard about it long ago…”
 
-Hong had served the Jin Family of Taiyuan for nearly twenty years. As something of an old fixture, he knew exactly which martial artists came and went.
+He had been with the Jin Family of Taiyuan for nearly twenty years. He considered himself something of an old hand and knew exactly which martial artists came and went.
 
-“Ah, I haven’t been a martial artist for even a month. Before that, I was a servant doing odd jobs here and there. I mostly worked out of sight, so you may not have noticed me.”
+“Ah, I haven’t even been a martial artist for a month. Before that, I was a servant who handled odd jobs here and there. I worked in places where I didn’t stand out much, so you might not have noticed me.”
 
 “Ahh, I see.”
 
-Hong looked at the new recruit with fresh interest.
+The middle-aged martial artist looked at the new recruit with fresh interest.
 
 A servant who became a martial artist. It wasn’t unheard of, but it wasn’t common either.
 
@@ -76,9 +76,9 @@ A servant who became a martial artist. It wasn’t unheard of, but it wasn’t c
 
 “Pardon?”
 
-“Oh, come now. Don’t play dumb when you know exactly what I mean. Do you think it’s easy for a new recruit to land this post?”
+“Oh, come on. Don’t play dumb. Do you think it’s easy for a new recruit to get assigned to this position?”
 
-Grinning, Hong poked him in the side.
+The middle-aged martial artist grinned and poked the new recruit in the side.
 
 “Who is it? The Chief Steward is far too strict to be behind it, so did you manage to secure a solid connection somewhere in the leadership?”
 
@@ -90,7 +90,7 @@ Grinning, Hong poked him in the side.
 
 The new martial artist, Jang Childeuk, swallowed the words that had nearly slipped out.
 
-People had loose tongues. If he told the truth, the rumor would spread before sunrise tomorrow.
+People’s tongues were terribly light. If he told the truth, the rumor would spread before the sun rose tomorrow.
 
 *I can’t cause trouble for the Lesser Family Head!*
 
@@ -100,11 +100,11 @@ He avoided the middle-aged martial artist’s intensely curious gaze and opened 
 
 “By the way, was this really such a difficult place to get into?”
 
-The middle-aged martial artist looked disappointed at the change of subject and clicked his tongue. Since Childeuk clearly didn’t want to say, pressing him further would be a bit awkward.
+The middle-aged martial artist looked disappointed at the change of subject and clicked his tongue. Since Childeuk clearly didn’t want to talk about it, there was no point in pressing him further.
 
 “Tsk. You said you’d been with the family for several years, right?”
 
-“That’s right. As a servant, though.”
+“That’s right. Although I was a servant.”
 
 “Then how many times did you come to the training hall during those years?”
 
@@ -118,9 +118,9 @@ The middle-aged martial artist looked disappointed at the change of subject and 
 
 Jang Childeuk looked around as instructed.
 
-The Jin Family’s rear was completely enclosed by steep cliffs. Beneath them yawned a vast cavern—the entrance to the training hall.
+Beneath the steep cliffs that enclosed the rear of the Jin Family without a single gap, there was a wide-open cavern.
 
-Aside from Childeuk and Hong, not a soul was in sight.
+That was the entrance to the training hall, and other than Childeuk and the middle-aged martial artist, there was no one there.
 
 “What do you think?”
 
@@ -130,7 +130,7 @@ Aside from Childeuk and Hong, not a soul was in sight.
 
 “How many?”
 
-Hong answered indifferently.
+The middle-aged martial artist answered indifferently.
 
 “No one.”
 
@@ -144,7 +144,7 @@ Hong answered indifferently.
 
 What an absurd thing to say.
 
-Come to think of it, despite the name, Childeuk had never seen anyone actually training there.
+Come to think of it, it was called a training hall, but Childeuk had never seen anyone actually training there.
 
 The training ground, on the other hand, was always crawling with martial artists, no matter the season.
 
@@ -154,25 +154,25 @@ The training ground, on the other hand, was always crawling with martial artists
 
 “A symbol?”
 
-“Long ago, Founder Jin Muryang trained here. According to legend, he suddenly attained enlightenment while training on this cliff and unleashed his martial arts. With One Strike, he blasted open the base of the cliff.”
+“Long ago, Founder Jin Muryang trained here. According to the story, he suddenly attained enlightenment while training on this cliff and unleashed his martial arts, blasting open the base of the cliff with One Strike.”
 
-Jang Childeuk’s jaw dropped.
+Jang Childeuk’s mouth fell open.
 
-He remembered hearing legends about Founder Jin Muryang. Hadn’t he been one of the greatest masters under heaven some three hundred years ago?
+He remembered hearing the legend of Founder Jin Muryang. Hadn’t he been one of the most renowned masters in the world three hundred years ago?
 
 But how could such a thing be possible with a human body?
 
-“Is—is that really true?”
+“Is, is that really true?”
 
-“It happened hundreds of years ago. What does it matter whether it’s true or false? There’s a much more important fact.”
+“It happened hundreds of years ago. What does it matter whether it’s true or false? There’s another fact that’s actually important.”
 
 “…Yes?”
 
-“If you sit around in front of this training hall for a few shichen every day, your monthly pay arrives like clockwork. That’s what matters. The only downside is that time passes damnably slowly.”
+“If you sit around in front of this training hall for a few shichen a day, your monthly pay comes like clockwork. That’s what matters. The only downside is that time passes unbelievably slowly.”
 
-Hong grinned and patted Childeuk on the shoulder.
+The middle-aged martial artist grinned and patted Childeuk on the shoulder.
 
-“Congratulations. You’ve been assigned to the finest post every martial artist in the family dreams of. What they call a cushy post.”
+“Congratulations. You’ve been assigned to the finest post the martial artists of this family dream of. They call it a cushy post.”
 
 “…”
 
@@ -180,7 +180,7 @@ Childeuk’s face twisted.
 
 It would be one thing if he were old enough to retire at any moment, but he was still in his prime. He had no intention of wasting his time in the training hall with nothing to do.
 
-Oblivious to Childeuk’s thoughts, Hong pulled a strip of jerky from his robes and began chewing.
+The middle-aged martial artist, unaware of his thoughts, pulled out a strip of dried meat and began chewing.
 
 “Want one?”
 
@@ -194,13 +194,13 @@ The middle-aged martial artist leaned against the entrance to the training hall 
 
 Jang Childeuk reluctantly glanced upward.
 
-As Hong had said, the weather was clear. Wisps of cloud drifted slowly across the blue sky, accompanied by several black specks.
+Just as the middle-aged martial artist had said, the weather was clear. A few wispy clouds drifted slowly across the blue sky, along with several black specks.
 
 “What are those?”
 
 “Birds, probably.”
 
-As Childeuk stared blankly at the sky, his gaze drifted toward the dizzyingly high cliff. Suddenly, his eyes narrowed.
+Childeuk’s gaze, which had been fixed blankly on the sky, shifted toward the cliff towering into the heavens. His eyes narrowed.
 
 “What about that thing clinging to the cliff?”
 
@@ -210,9 +210,9 @@ As Childeuk stared blankly at the sky, his gaze drifted toward the dizzyingly hi
 
 “Dunno. Must be a pretty big bird. Hold on, I brought a bottle of liquor somewhere…”
 
-Without even looking where Childeuk was pointing, Hong pulled a small porcelain bottle from his robes.
+Without even looking toward the place Childeuk was pointing, the middle-aged martial artist pulled a small porcelain bottle from his robes.
 
-“It looks a little too big to be a bird.”
+“It seems too big for a bird.”
 
 “It could be a Heavenly Eagle. Those things are as big as people. They aren’t ordinary hawks.”
 
@@ -228,13 +228,13 @@ Without even looking where Childeuk was pointing, Hong pulled a small porcelain 
 
 “What the hell are you talking about?”
 
-Hong, who had been tipping the bottle toward his mouth, hurriedly looked at the cliff.
+The middle-aged martial artist, who had been tilting the bottle toward his mouth, hurriedly looked at the cliff.
 
 At that dizzying height, a massive dot was plummeting rapidly.
 
 “Aaaaaaah!”
 
-Childeuk marveled.
+Childeuk sounded impressed.
 
 “It really is a spirit creature. Its scream sounds exactly like a person.”
 
@@ -244,7 +244,7 @@ Childeuk marveled.
 
 “Move! Move!”
 
-The instant Hong screamed, a person crashed into the ground amid a shower of stone fragments.
+The instant the middle-aged martial artist screamed, a person crashed into the ground amid a shower of stones.
 
 *Boom! Rumble, rumble!*
 
@@ -254,7 +254,7 @@ Rocks and dust burst in every direction. The two men swallowed at the same time.
 
 “Try falling from that height. Even the Jade Emperor would die.”
 
-How had such a horrific calamity intruded upon their peaceful routine?
+What a calamity to interrupt their peaceful daily routine.
 
 The middle-aged martial artist clutched his trembling chest and stared at the body lying facedown.
 
@@ -282,23 +282,25 @@ The closer he got, the more clearly he could see the body.
 
 Its limbs lay limp, and blood streamed from the back of its head as it lay facedown on the ground. Considering the height of the fall, the corpse looked surprisingly intact.
 
-“M-may you be reborn in paradise.”
+“May you be reborn in paradise.”
 
 He squeezed his eyes shut and reached out to touch the body.
 
-That was when it suddenly shot upright.
+That was when—
+
+The body sprang upright.
 
 *Crack!*
 
-The world flashed before Childeuk’s eyes, followed by a wave of excruciating pain.
+The world flashed before Childeuk’s eyes, followed by a wave of blinding pain.
 
-He landed hard on his backside, his mouth hanging open, unaware that blood was streaming from both nostrils.
+He landed hard on his backside, mouth hanging open, unaware that blood was pouring from both nostrils.
 
 “Uh… uhhhh.”
 
-“What in the… Ugh, ughhh!”
+“What the hell just… ugh, ughhh!”
 
-Hong’s legs gave out, and he collapsed.
+The middle-aged martial artist’s legs gave out, and he collapsed.
 
 “The corpse—the corpse is alive!”
 
@@ -306,7 +308,7 @@ Hong’s legs gave out, and he collapsed.
 
 The dirt-covered stranger who had suddenly been written off as dead staggered to his feet.
 
-His hair was wild, and blood vessels had burst in his eyes. He looked around, then ground his teeth.
+He looked around with his hair in disarray and blood vessels burst in his eyes, then ground his teeth.
 
 “Fuck, Taecho Village[^2] again?”
 
@@ -314,21 +316,21 @@ His hair was wild, and blood vessels had burst in his eyes. He looked around, th
 
 Damn, that hurts.
 
-Head, shoulders, knees, feet, knees, feet… There wasn’t a single part of me that didn’t ache. Luckily, I’d driven a dagger into the cliff and slowed my fall. Otherwise, I might have kicked the bucket.
+My head, shoulders, knees, feet, knees, feet… There wasn’t a single place that didn’t ache. Luckily, I had slowed my fall by driving a dagger into the cliff. Otherwise, I might have ended up dead.
 
 Of course, the physique and toughness stats I had steadily raised had helped, too.
 
 “Ow, the back of my head is throbbing.”
 
-I touched the tender spot and found it wet with blood.
+When I touched the tender spot on the back of my head, blood came away damply on my fingers.
 
 I tore off a strip of my sleeve and was wiping away the blood when—
 
-“W-who are you?!”
+“Who are you?!”
 
 “Reveal your identity, you scoundrel!”
 
-Oh, right. These two guys were here too.
+Oh, right. Those two older guys were here, too.
 
 One of the two men pointing swords at me looked familiar. What was his name again…
 
@@ -374,7 +376,7 @@ The middle-aged man might not know me, but Childeuk knew my face well. This woul
 
 “…”
 
-How the hell did he reach that conclusion?
+Why was that the conclusion?
 
 [^1]: A jiangshi is a reanimated corpse from Chinese folklore, often depicted as a hopping vampire.
 
