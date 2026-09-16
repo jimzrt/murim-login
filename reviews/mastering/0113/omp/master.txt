@@ -8,15 +8,15 @@ A swift, decisive battle.
 
 The longer it dragged on, the worse it would be for him. Word that the Red Wind Band had surrounded the Mount Heng Sword Sect would spread quickly, and if outside forces—especially the Jin Family of Taiyuan—intervened, things would become troublesome.
 
-*I never expected to enter without bloodshed in the first place.*
+*I never expected to take the place without bloodshed anyway.*
 
 She might be a woman, but she carried the blood of the Blood Wolf Sword, Lee Cheonbaek.
 
-If words and gestures couldn’t tame her, he would have to subdue her with violence—the same method Pung Yang had always used.
+If words and gestures couldn’t tame her, he would subdue her with violence—the same method Pung Yang had always used.
 
 Bwooooooong!
 
-Powerful horn calls rang out from every direction. At the advance signal used by the mounted-bandit groups of Gaoyuan, the mounted bandits of the Red Wind Band surrounding the Mount Heng Sword Sect kicked their horses in the ribs as one.
+Powerful horn calls rang out from every direction. At the advance signal used by the mounted-bandit groups of the plateau, the Red Wind Band surrounding the Mount Heng Sword Sect kicked their horses in the ribs as one.
 
 “Chaaaarge!”
 
@@ -24,18 +24,18 @@ Powerful horn calls rang out from every direction. At the advance signal used by
 
 Rumble, rumble, rumble!
 
-Hundreds of hooves raced forward, trampling the snow-covered ground.
+Hundreds of hooves thundered across the snow-covered ground.
 
-The horn calls continued without pause, strong and carrying far into the distance.
+The horn calls continued without pause, carrying strong and far into the distance.
 
 * * *
 
 Ding!
 
 > **System**
-> 
+>
 > **Circulate Qi** was successfully completed.
-> 
+>
 > A small amount of Fatigue and Stamina has been restored.
 
 The moment I heard the System notification and opened my eyes, I looked around.
@@ -46,7 +46,7 @@ Wolhwa and Hyuk Mujin, who had been feeding hay to the horses, looked at me in c
 
 “Young Master Jin, what sound?”
 
-“There's always sound. Listen—the horses chewing hay, the wind…”
+“There are sounds everywhere. Listen—the horses chewing hay, the wind…”
 
 “Not that crap, you idiot.”
 
@@ -82,7 +82,7 @@ Jin Mukyung, who had just finished circulating his qi, added his opinion.
 
 “But I’m telling you, I think I heard something.”
 
-“So I’m telling you that you imagined it.”
+“And I’m telling you that you imagined it.”
 
 “Based on what?”
 
@@ -100,7 +100,7 @@ Seeing me at a loss for words, Jin Mukyung clicked his tongue.
 
 When it came to combat experience, no one here could match me.
 
-I only looked the same as usual because I had grown so accustomed to it. When it came to preparing for and taking part in battle, I was already thoroughly battle-hardened.
+I only looked the same as usual because I had grown so accustomed to it. When it came to preparing for and taking part in battle, I was already a hardened veteran.
 
 “There are a lot of enemies, so conserve as much internal energy as possible and keep your movements to a minimum. I’ll take the lead. Just follow me, and you’ll be fine.”
 
@@ -112,7 +112,7 @@ He had helped with my training, agreed to accompany me to the Mount Heng Sword S
 
 Even if Jin Wikyung had asked him to, he couldn’t have done all that if he truly hated me.
 
-*Maybe he’s actually a soft-hearted guy.*
+*Maybe he’s actually a softhearted guy.*
 
 Was this what people called a tsundere?
 
@@ -124,7 +124,7 @@ Our eyes met.
 
 “…”
 
-“If you take even a single wound from those mounted-bandit bastards, I’ll kill you myself.”
+“If those mounted-bandit bastards put so much as a scratch on you, I’ll kill you myself.”
 
 “…Yeah, sure.”
 
@@ -136,7 +136,7 @@ Accepting reality, I was about to transfer my saddle to one of the spare horses 
 
 “Second Young Master, you aren’t going to kill me too, are you?”
 
-“…Are you saying it’s okay if I die?”
+“…Are you saying it’s fine if I die?”
 
 “Ah, no! Why would you put it like that?”
 
@@ -149,14 +149,14 @@ The Mount Heng Sword Sect was still three shichen away.
 From here on, we had to ride hard without taking a single break.
 
 > **System**
-> 
+>
 > **Time Limit:** 6:25:19
 
 * * *
 
 The Mount Heng Sword Sect was like a fortress. Its towering stone walls were sturdy enough to be called castle walls, and they were fitted with all manner of defensive structures for withstanding a siege.
 
-Built more than thirty years ago under the uncompromising will of the founding Sect Leader, Lee Cheonbaek, those defenses were finally serving their purpose.
+Built more than thirty years ago at the insistence of the founding Sect Leader, Lee Cheonbaek, those defenses were finally serving their purpose.
 
 “Fire!”
 
@@ -164,7 +164,7 @@ Whoosh—whoosh—whoosh!
 
 Dozens of arrows loosed in unison rained down on the charging cavalry.
 
-But the most common weapons in Gaoyuan were spears, sabers, and bows. Accustomed to fighting in Gaoyuan, the mounted bandits of the Red Wind Band raised the shields strapped to one arm before anyone even gave the order.
+But the most common weapons on the plateau were spears, sabers, and bows. Accustomed to warfare on the plateau, the Red Wind Band raised the shields strapped to their arms before anyone even gave the order.
 
 Thud! Thump!
 
@@ -172,17 +172,17 @@ Only a dozen or so men fell from their horses.
 
 The shields, made from bone-dry wood faced with hide from an old horse’s rump, stopped the arrows admirably.
 
-“Ha ha ha! These punks don’t know their elders when they see them, and they dare—!”
+“Ha ha ha! These punks don’t recognize their betters, and they dare—!”
 
 That was when it happened.
 
 Fwoosh—crack!
 
-Something hurtled through the air with ferocious momentum, pierced the horse’s neck, and buried itself in the Captain’s chest.
+Something hurtled through the air with tremendous force, pierced the horse’s neck, and buried itself in the squad leader’s chest.
 
-Having only just entered the early stages of First Rate, he stared at the arrow protruding from his chest as though he couldn’t believe it, then toppled over together with his prized horse.
+Having only just entered First Rate, he stared in disbelief at the arrow protruding from his chest before toppling with his beloved horse.
 
-Several of the riders behind him lost formation and fell one after another.
+Several riders following behind lost formation and crashed down one after another.
 
 “Crossbows! Watch for the crossbows!”
 
@@ -198,13 +198,13 @@ Thwack! Thwack! Thwack!
 
 “Aaargh!”
 
-“Hide behind your shields! Don’t stick your heads out!”
+“Stay behind your shields! Don’t stick your heads out!”
 
-Taking advantage of the opening, the mounted bandits spurred their horses forward and set grappling hooks and makeshift ladders against the walls, which stood more than ten *jang* high. They began attempting to breach the fortress.
+Taking advantage of the opening, the mounted bandits spurred their horses forward and threw grappling hooks over the walls or propped makeshift ladders against them. The walls stood more than ten *jang* high, but they began scaling them anyway.
 
 A melee erupted atop the walls.
 
-Screams and blood burst forth.
+Screams rang out, and blood sprayed through the air.
 
 “Ha ha! Kill them all!”
 
@@ -212,19 +212,19 @@ Screams and blood burst forth.
 
 Lee Seowol watched it all from the highest watchtower. Her lips trembled, and the color had drained from her face.
 
-*So this is the Murim.*
+*So this is Murim.*
 
 The screams of the dying. The desperate struggles of those who wanted to live.
 
-The world of the strong preying on the weak that she had finally encountered was more brutal and frightening than she had imagined.
+The world of the strong preying on the weak was more brutal and terrifying than she had ever imagined.
 
 But…
 
 *I can’t retreat.*
 
-Countless people had already died. Those who were going to leave had left, while those who remained were fighting with their lives on the line.
+Countless people had already died. Those who would leave had left, while those who remained were fighting with their lives on the line.
 
-Lee Seowol was now the Sect Leader who had to lead them, and she was bound to share her fate with the Mount Heng Sword Sect.
+Lee Seowol was now the Sect Leader responsible for leading them, and her fate was bound to that of the Mount Heng Sword Sect.
 
 “Sect Leader! The walls are in danger! We need to send reinforcements!”
 
@@ -234,11 +234,11 @@ Lee Seowol was now the Sect Leader who had to lead them, and she was bound to sh
 
 “Sect Leader!”
 
-As urgent reports rained down from every direction, Lee Seowol spoke.
+As urgent reports poured in from every direction, Lee Seowol spoke.
 
 “When I give the signal, fire one fire arrow toward the walls and two toward the gate. And, Uncle Cheol.”
 
-Cheol Mubaek, who had been standing guard beside her, answered.
+Cheol Mubaek, who stood beside her, answered.
 
 “Tell me what you need.”
 
@@ -246,7 +246,7 @@ Cheol Mubaek, who had been standing guard beside her, answered.
 
 “By myself?”
 
-“I can only apologize for making such a difficult request.”
+“I can only apologize for asking so much of you.”
 
 “One against a hundred. I’ve always wanted to try that.”
 
@@ -264,15 +264,13 @@ Lee Seowol gazed down at the fierce battle before suddenly shouting like a thund
 
 “Now!”
 
-The two martial artists who had been waiting for her command each drew their bowstrings.
+The two martial artists awaiting her command drew their bows.
 
-The next moment, the fire arrows soared into the darkening winter sky and shone brightly above everyone’s heads.
+The next moment, fire arrows soared into the darkening winter sky and blazed brightly over everyone’s heads.
 
 * * *
 
-The fire arrows falling like meteors were clearly visible even to Pung Yang, more than a hundred *jang* away.
-
-He muttered to himself.
+The fire arrows arcing down like meteors were clearly visible even to Pung Yang, more than a hundred *jang* away.
 
 *So they had a move hidden up their sleeve.*
 
@@ -286,19 +284,19 @@ Fwoosh! Fwoooosh!
 
 Burning alive was one of the most painful ways to die.
 
-The mounted bandits of the Red Wind Band, massed beneath the walls like a swarm of ants, writhed and screamed horribly.
+The Red Wind Band members packed beneath the walls like a swarm of ants writhed and screamed in agony.
 
-The ropes attached to the grappling hooks snapped, and the wooden ladders were engulfed in flames.
+The ropes on the grappling hooks burned through, and the wooden ladders were engulfed in flames.
 
 “Attack!”
 
 “Kill every last one of those mounted-bandit bastards!”
 
-Those waiting below to climb and those still climbing burned to death, while those who had already reached the top were stabbed and slashed by weapons converging from every direction.
+Those waiting below and those still climbing burned to death, while those who had already reached the top were stabbed and slashed by weapons converging from every direction.
 
-“So they did make some preparations…”
+“So they did prepare after all…”
 
-As Pung Yang stared impassively at the battlefield, a mounted bandit returned, his body blackened in patches like charcoal.
+As Pung Yang watched the battlefield impassively, a mounted bandit returned, his body blackened in patches like charcoal.
 
 “What happened?”
 
@@ -306,7 +304,7 @@ As Pung Yang stared impassively at the battlefield, a mounted bandit returned, h
 
 The moment he reached Pung Yang, the mounted bandit threw himself flat on the ground and continued breathlessly.
 
-“From the first assault until now, at least a hundred men must have died. More importantly, after that fire attack, our brothers’ morale is…”
+“From the first assault until now, at least a hundred men must have died. More importantly, after that fire attack, our brothers’ morale…”
 
 “The gate?”
 
@@ -334,7 +332,7 @@ The subordinate who served as Pung Yang’s right hand was accustomed to such si
 
 “By a rough count, a little over a hundred and fifty but not quite two hundred. It’s true that our losses are heavier.”
 
-“How much worse do you think theirs are? The men on those walls are the Mount Heng Sword Sect’s final bulwark.”
+“How much worse do you think theirs are? The men on those walls are the Mount Heng Sword Sect’s last line of defense.”
 
 “You mean those few men are all they have left?”
 
@@ -342,13 +340,13 @@ The subordinate who served as Pung Yang’s right hand was accustomed to such si
 
 “It isn’t that I doubt you, Leader, but what if they have another trap like that fire attack…?”
 
-“That’s what they’re counting on.”
+“That’s precisely what they want us to think.”
 
-Pung Yang let out a derisive laugh. He didn’t know whose strategy it had been, but they had played it quite cleverly.
+Pung Yang let out a derisive chuckle. He didn’t know who had devised the strategy, but they had played it cleverly.
 
-*If I had been less experienced, I would have suspected another trap and pulled our forces back.*
+*If I had less experience, I might have suspected another trap and pulled my forces back.*
 
-*They’re struggling to buy time. Are they waiting for someone’s support?*
+*They’re desperate to buy time. Are they waiting for reinforcements?*
 
 If so, there was even less reason to hesitate.
 
@@ -356,14 +354,14 @@ The few could not stand against the many. Even after suffering considerable loss
 
 And besides…
 
-“I’m going myself.”
+“I’m going in myself.”
 
 “You’re going yourself, Leader?”
 
 “Yes. We have a tiger to catch, don’t we?”
 
-Pung Yang burst into a hearty laugh and felt inside his robes out of habit.
+Pung Yang burst into a hearty laugh and reached inside his robes out of habit.
 
-A hard wooden case rested there.
+His hand brushed against a hard wooden case.
 
-Inside was something that could bring down a tiger in one go.
+Inside was something that could bring down a tiger in a single blow.

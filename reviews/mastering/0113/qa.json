@@ -1,0 +1,39 @@
+{
+  "chapter": 113,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.26,
+    "source_characters": 5435,
+    "source_paragraphs": 170,
+    "translation_characters": 12284,
+    "translation_paragraphs": 182
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "운기조식",
+        "preferred": "circulate one's qi"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "상태",
+        "preferred": "Status"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "고자",
+        "preferred": "eunuch"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}

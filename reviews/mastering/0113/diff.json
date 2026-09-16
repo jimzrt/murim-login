@@ -1,0 +1,1877 @@
+{
+  "baseline_blocks": 183,
+  "baseline_sha256": "d221f5b96c1c3fdc26df40ebbfec70321a978d6c58d4478085edd2cc4dc9d4b5",
+  "global_terminology_alerts": [],
+  "hunk_count": 102,
+  "hunks": [
+    {
+      "baseline": "A quick, decisive battle.",
+      "baseline_paragraphs": "P4",
+      "baseline_range": [
+        3,
+        4
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "9",
+      "sol": "A swift, decisive battle.",
+      "sol_paragraphs": "P4",
+      "sol_range": [
+        3,
+        4
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*I never expected to enter without bloodshed in the first place.*",
+      "baseline_paragraphs": "P6",
+      "baseline_range": [
+        5,
+        6
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "13",
+      "sol": "*I never expected to take the place without bloodshed anyway.*",
+      "sol_paragraphs": "P6",
+      "sol_range": [
+        5,
+        6
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If words and gestures couldn’t tame her, he would have to subdue her with violence. It was the same method Pung Yang had always used.",
+      "baseline_paragraphs": "P8",
+      "baseline_range": [
+        7,
+        8
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "17",
+      "sol": "If words and gestures couldn’t tame her, he would subdue her with violence—the same method Pung Yang had always used.",
+      "sol_paragraphs": "P8",
+      "sol_range": [
+        7,
+        8
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The powerful sound of horns rang out from every direction. At the advance signal used by the mounted-bandit groups of the plateau, the mounted bandits surrounding the Mount Heng Sword Sect simultaneously kicked their horses in the ribs.",
+      "baseline_paragraphs": "P10",
+      "baseline_range": [
+        9,
+        10
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "21",
+      "sol": "Powerful horn calls rang out from every direction. At the advance signal used by the mounted-bandit groups of the plateau, the Red Wind Band surrounding the Mount Heng Sword Sect kicked their horses in the ribs as one.",
+      "sol_paragraphs": "P10",
+      "sol_range": [
+        9,
+        10
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "마적",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "mounted bandits"
+        }
+      ]
+    },
+    {
+      "baseline": "Thundering hooves shook the ground.",
+      "baseline_paragraphs": "P13",
+      "baseline_range": [
+        12,
+        13
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "27",
+      "sol": "Rumble, rumble, rumble!",
+      "sol_paragraphs": "P13",
+      "sol_range": [
+        12,
+        13
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Hundreds of horses raced forward, trampling the snow-covered earth.",
+      "baseline_paragraphs": "P14",
+      "baseline_range": [
+        13,
+        14
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "29",
+      "sol": "Hundreds of hooves thundered across the snow-covered ground.",
+      "sol_paragraphs": "P14",
+      "sol_range": [
+        13,
+        14
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The horn calls continued without pause, strong and carrying far into the distance.",
+      "baseline_paragraphs": "P15",
+      "baseline_range": [
+        14,
+        15
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "31",
+      "sol": "The horn calls continued without pause, carrying strong and far into the distance.",
+      "sol_paragraphs": "P15",
+      "sol_range": [
+        14,
+        15
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "> **System**\n> \n> **Circulate Qi** was successfully completed.\n> \n> A small amount of Fatigue and Stamina has been restored.",
+      "baseline_paragraphs": "P18",
+      "baseline_range": [
+        17,
+        18
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "43",
+      "sol": "> **System**\n>\n> **Circulate Qi** was successfully completed.\n>\n> A small amount of Fatigue and Stamina has been restored.",
+      "sol_paragraphs": "P18",
+      "sol_range": [
+        17,
+        18
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The moment I opened my eyes at the sound of the System notification, I looked around.",
+      "baseline_paragraphs": "P19",
+      "baseline_range": [
+        18,
+        19
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "45",
+      "sol": "The moment I heard the System notification and opened my eyes, I looked around.",
+      "sol_paragraphs": "P19",
+      "sol_range": [
+        18,
+        19
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Sounds are always happening. Listen. The horses chewing hay, the wind…”",
+      "baseline_paragraphs": "P23",
+      "baseline_range": [
+        22,
+        23
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "55",
+      "sol": "“There are sounds everywhere. Listen—the horses chewing hay, the wind…”",
+      "sol_paragraphs": "P23",
+      "sol_range": [
+        22,
+        23
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The thing people use to cheer at sporting events… Never mind. It’s something.”",
+      "baseline_paragraphs": "P28",
+      "baseline_range": [
+        27,
+        28
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "65",
+      "sol": "“The thing people use to cheer at sporting events… Never mind. It’s a thing.”",
+      "sol_paragraphs": "P28",
+      "sol_range": [
+        27,
+        28
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I gave up explaining and stared in the direction the sound had come from—or rather, the direction I thought it had come from.",
+      "baseline_paragraphs": "P29",
+      "baseline_range": [
+        28,
+        29
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "67",
+      "sol": "I gave up trying to explain and stared in the direction the sound had come from—or rather, the direction I thought it had come from.",
+      "sol_paragraphs": "P29",
+      "sol_range": [
+        28,
+        29
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "By coincidence, it was the north, where the Mount Heng Sword Sect lay—the very direction we were heading.",
+      "baseline_paragraphs": "P30",
+      "baseline_range": [
+        29,
+        30
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "69",
+      "sol": "Coincidentally, it was north, toward the Mount Heng Sword Sect—the very direction we were heading.",
+      "sol_paragraphs": "P30",
+      "sol_range": [
+        29,
+        30
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "According to Wolhwa, we still had to ride for another three shichen—six hours—before we could reach the Mount Heng Sword Sect. Whatever had happened, it wasn’t something that should have been audible from this distance.",
+      "baseline_paragraphs": "P32",
+      "baseline_range": [
+        31,
+        32
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "73",
+      "sol": "According to Wolhwa, we still had another three shichen—six hours—of riding before we reached the Mount Heng Sword Sect. Whatever had happened, we were too far away to hear it from here.",
+      "sol_paragraphs": "P32",
+      "sol_range": [
+        31,
+        32
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“But I could have sworn I heard something.”",
+      "baseline_paragraphs": "P36",
+      "baseline_range": [
+        35,
+        36
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "81",
+      "sol": "“But I could’ve sworn I heard something.”",
+      "sol_paragraphs": "P36",
+      "sol_range": [
+        35,
+        36
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“So I’m telling you that you imagined it.”",
+      "baseline_paragraphs": "P41",
+      "baseline_range": [
+        40,
+        41
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "91",
+      "sol": "“And I’m telling you that you imagined it.”",
+      "sol_paragraphs": "P41",
+      "sol_range": [
+        40,
+        41
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“On what grounds?”",
+      "baseline_paragraphs": "P42",
+      "baseline_range": [
+        41,
+        42
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "93",
+      "sol": "“Based on what?”",
+      "sol_paragraphs": "P42",
+      "sol_range": [
+        41,
+        42
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“It’s simple. There’s no way I could fail to hear what you heard.”",
+      "baseline_paragraphs": "P43",
+      "baseline_range": [
+        42,
+        43
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "95",
+      "sol": "“It’s simple. There’s no way you heard something I couldn’t.”",
+      "sol_paragraphs": "P43",
+      "sol_range": [
+        42,
+        43
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Seeing me rendered speechless, Jin Mukyung clicked his tongue.",
+      "baseline_paragraphs": "P46",
+      "baseline_range": [
+        45,
+        46
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "101",
+      "sol": "Seeing me at a loss for words, Jin Mukyung clicked his tongue.",
+      "sol_paragraphs": "P46",
+      "sol_range": [
+        45,
+        46
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“If you don’t want to die to a stray blade, focus on mastering your mind and body. You never know what might happen on a battlefield.”",
+      "baseline_paragraphs": "P47",
+      "baseline_range": [
+        46,
+        47
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "103",
+      "sol": "“If you don’t want to die to a stray blade, focus on keeping your mind and body under control. You never know what might happen on a battlefield.”",
+      "sol_paragraphs": "P47",
+      "sol_range": [
+        46,
+        47
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "고수",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "master"
+        }
+      ]
+    },
+    {
+      "baseline": "I only seemed no different from usual because I had grown so accustomed to it. When it came to preparing for and taking part in battle, I was already thoroughly battle-hardened.",
+      "baseline_paragraphs": "P50",
+      "baseline_range": [
+        49,
+        50
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "109",
+      "sol": "I only looked the same as usual because I had grown so accustomed to it. When it came to preparing for and taking part in battle, I was already a hardened veteran.",
+      "sol_paragraphs": "P50",
+      "sol_range": [
+        49,
+        50
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“There are a lot of enemies, so conserve your internal energy as much as possible and minimize your movements. I’ll take the lead. Just follow me, and there won’t be a problem.”",
+      "baseline_paragraphs": "P51",
+      "baseline_range": [
+        50,
+        51
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "111",
+      "sol": "“There are a lot of enemies, so conserve as much internal energy as possible and keep your movements to a minimum. I’ll take the lead. Just follow me, and you’ll be fine.”",
+      "sol_paragraphs": "P51",
+      "sol_range": [
+        50,
+        51
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He had helped with my training, agreed to accompany me to the Mount Heng Sword Sect, and, I’d heard, had even made a considerable effort to reform his lazy little brother when they were children.",
+      "baseline_paragraphs": "P54",
+      "baseline_range": [
+        53,
+        54
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "117",
+      "sol": "He had helped with my training, agreed to accompany me to the Mount Heng Sword Sect, and, I’d heard, had even put considerable effort into reforming his lazy little brother when they were children.",
+      "sol_paragraphs": "P54",
+      "sol_range": [
+        53,
+        54
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even if Jin Wikyung had asked him to, those weren’t things he could have done if he truly hated me.",
+      "baseline_paragraphs": "P55",
+      "baseline_range": [
+        54,
+        55
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "119",
+      "sol": "Even if Jin Wikyung had asked him to, he couldn’t have done all that if he truly hated me.",
+      "sol_paragraphs": "P55",
+      "sol_range": [
+        54,
+        55
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Maybe he’s actually a soft-hearted guy.*",
+      "baseline_paragraphs": "P56",
+      "baseline_range": [
+        55,
+        56
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "121",
+      "sol": "*Maybe he’s actually a softhearted guy.*",
+      "sol_paragraphs": "P56",
+      "sol_range": [
+        55,
+        56
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I looked at Jin Mukyung with a sentimental gaze, feeling as though I might actually be moved.",
+      "baseline_paragraphs": "P58",
+      "baseline_range": [
+        57,
+        58
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "125",
+      "sol": "I gazed at Jin Mukyung sentimentally, almost feeling a little moved.",
+      "sol_paragraphs": "P58",
+      "sol_range": [
+        57,
+        58
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What are you looking at? Lower your eyes.”",
+      "baseline_paragraphs": "P60",
+      "baseline_range": [
+        59,
+        60
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "129",
+      "sol": "“What are you looking at? Eyes down.”",
+      "sol_paragraphs": "P60",
+      "sol_range": [
+        59,
+        60
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“If you take even a single wound from those mounted-bandit bastards, I’ll kill you myself.”",
+      "baseline_paragraphs": "P62",
+      "baseline_range": [
+        61,
+        62
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "133",
+      "sol": "“If those mounted-bandit bastards put so much as a scratch on you, I’ll kill you myself.”",
+      "sol_paragraphs": "P62",
+      "sol_range": [
+        61,
+        62
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I had briefly lost my mind and imagined something ridiculous.",
+      "baseline_paragraphs": "P65",
+      "baseline_range": [
+        64,
+        65
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "139",
+      "sol": "I must have lost my mind for a moment to imagine something so ridiculous.",
+      "sol_paragraphs": "P65",
+      "sol_range": [
+        64,
+        65
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Accepting reality, I was about to transfer my saddle to one of the spare horses we had taken earlier when Hyuk Mujin approached and spoke with a deeply worried expression.",
+      "baseline_paragraphs": "P66",
+      "baseline_range": [
+        65,
+        66
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "141",
+      "sol": "Accepting reality, I was about to transfer my saddle to one of the spare horses we had taken earlier when Hyuk Mujin sidled over with a deeply worried expression.",
+      "sol_paragraphs": "P66",
+      "sol_range": [
+        65,
+        66
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“…Are you saying it’s okay if I die?”",
+      "baseline_paragraphs": "P68",
+      "baseline_range": [
+        67,
+        68
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "145",
+      "sol": "“…Are you saying it’s fine if I die?”",
+      "sol_paragraphs": "P68",
+      "sol_range": [
+        67,
+        68
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Ah, no! Why are you putting it that way?”",
+      "baseline_paragraphs": "P69",
+      "baseline_range": [
+        68,
+        69
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "147",
+      "sol": "“Ah, no! Why would you put it like that?”",
+      "sol_paragraphs": "P69",
+      "sol_range": [
+        68,
+        69
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I’ll kill you before I die, so shut up and prepare to leave.”",
+      "baseline_paragraphs": "P70",
+      "baseline_range": [
+        69,
+        70
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "149",
+      "sol": "“I’ll make sure to kill you before I die, so shut up and get ready to leave.”",
+      "sol_paragraphs": "P70",
+      "sol_range": [
+        69,
+        70
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I kicked Hyuk Mujin in the rear while he grumbled under his breath, then mounted my horse.",
+      "baseline_paragraphs": "P71",
+      "baseline_range": [
+        70,
+        71
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "153",
+      "sol": "I kicked Hyuk Mujin in the rear as he grumbled under his breath, then mounted my horse.",
+      "sol_paragraphs": "P71",
+      "sol_range": [
+        70,
+        71
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "From this point onward, we had to ride hard without taking a single break.",
+      "baseline_paragraphs": "P73",
+      "baseline_range": [
+        72,
+        73
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "161",
+      "sol": "From here on, we had to ride hard without taking a single break.",
+      "sol_paragraphs": "P73",
+      "sol_range": [
+        72,
+        73
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "> **System**\n> \n> **Time Limit:** 6:25:19",
+      "baseline_paragraphs": "P74",
+      "baseline_range": [
+        73,
+        74
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "163",
+      "sol": "> **System**\n>\n> **Time Limit:** 6:25:19",
+      "sol_paragraphs": "P74",
+      "sol_range": [
+        73,
+        74
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Mount Heng Sword Sect was like a fortress. The stone walls piled high around it were sturdy enough to be called castle walls, and all kinds of defensive facilities had been installed to hold the fortress.",
+      "baseline_paragraphs": "P76",
+      "baseline_range": [
+        75,
+        76
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "167",
+      "sol": "The Mount Heng Sword Sect was like a fortress. Its towering stone walls were sturdy enough to be called castle walls, and they were fitted with all manner of defensive structures for withstanding a siege.",
+      "sol_paragraphs": "P76",
+      "sol_range": [
+        75,
+        76
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Built more than thirty years ago under the uncompromising will of the founding Sect Leader, Lee Cheonbaek, those defenses were finally serving their intended purpose.",
+      "baseline_paragraphs": "P77",
+      "baseline_range": [
+        76,
+        77
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "169",
+      "sol": "Built more than thirty years ago at the insistence of the founding Sect Leader, Lee Cheonbaek, those defenses were finally serving their purpose.",
+      "sol_paragraphs": "P77",
+      "sol_range": [
+        76,
+        77
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Dozens of arrows launched at once rained down on the charging cavalry.",
+      "baseline_paragraphs": "P80",
+      "baseline_range": [
+        79,
+        80
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "175",
+      "sol": "Dozens of arrows loosed in unison rained down on the charging cavalry.",
+      "sol_paragraphs": "P80",
+      "sol_range": [
+        79,
+        80
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But the weapons most commonly found on the plateau were spears, swords, and bows. Accustomed to fighting on the plateau, the mounted bandits of the Red Wind Band raised the shields strapped to one arm before anyone even gave the order.",
+      "baseline_paragraphs": "P81",
+      "baseline_range": [
+        80,
+        81
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "177",
+      "sol": "But the most common weapons on the plateau were spears, sabers, and bows. Accustomed to warfare on the plateau, the Red Wind Band raised the shields strapped to their arms before anyone even gave the order.",
+      "sol_paragraphs": "P81",
+      "sol_range": [
+        80,
+        81
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "마적",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "mounted bandits"
+        }
+      ]
+    },
+    {
+      "baseline": "Only a dozen or so men were knocked from their horses.",
+      "baseline_paragraphs": "P83",
+      "baseline_range": [
+        82,
+        83
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "181",
+      "sol": "Only a dozen or so men fell from their horses.",
+      "sol_paragraphs": "P83",
+      "sol_range": [
+        82,
+        83
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The shields, made of bone-dry wood faced with hide from an old horse’s rump, did an excellent job of stopping the arrows.",
+      "baseline_paragraphs": "P84",
+      "baseline_range": [
+        83,
+        84
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "183",
+      "sol": "The shields, made from bone-dry wood faced with hide from an old horse’s rump, stopped the arrows admirably.",
+      "sol_paragraphs": "P84",
+      "sol_range": [
+        83,
+        84
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Ha ha ha! These punks don’t know their elders when they see them, and they dare—!”",
+      "baseline_paragraphs": "P85",
+      "baseline_range": [
+        84,
+        85
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "185",
+      "sol": "“Ha ha ha! These punks don’t recognize their betters, and they dare—!”",
+      "sol_paragraphs": "P85",
+      "sol_range": [
+        84,
+        85
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Something came flying with ferocious force. It pierced through a horse’s neck and buried itself in the squad leader’s chest.",
+      "baseline_paragraphs": "P88",
+      "baseline_range": [
+        87,
+        88
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "191",
+      "sol": "Something hurtled through the air with tremendous force, pierced the horse’s neck, and buried itself in the squad leader’s chest.",
+      "sol_paragraphs": "P88",
+      "sol_range": [
+        87,
+        88
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He had only just entered the early stages of First Rate. He stared at the arrow protruding from his chest as though he couldn’t believe it, then toppled over together with his prized horse.",
+      "baseline_paragraphs": "P89",
+      "baseline_range": [
+        88,
+        89
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "193",
+      "sol": "Having only just entered First Rate, he stared in disbelief at the arrow protruding from his chest before toppling with his beloved horse.",
+      "sol_paragraphs": "P89",
+      "sol_range": [
+        88,
+        89
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Several of the riders behind him lost formation and fell one after another.",
+      "baseline_paragraphs": "P90",
+      "baseline_range": [
+        89,
+        90
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "195",
+      "sol": "Several riders following behind lost formation and crashed down one after another.",
+      "sol_paragraphs": "P90",
+      "sol_range": [
+        89,
+        90
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If the Mount Heng Sword Sect’s attack had been a passing shower, the Red Wind Band’s arrow barrage was a torrential downpour.",
+      "baseline_paragraphs": "P94",
+      "baseline_range": [
+        93,
+        94
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "203",
+      "sol": "If the Mount Heng Sword Sect’s attack had been a passing shower, the Red Wind Band’s barrage was a torrential downpour.",
+      "sol_paragraphs": "P94",
+      "sol_range": [
+        93,
+        94
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even while mounted, they drew their bowstrings again and again. Their arrows were fast and accurate.",
+      "baseline_paragraphs": "P95",
+      "baseline_range": [
+        94,
+        95
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "205",
+      "sol": "Even on horseback, they drew and loosed without pause. Their arrows flew fast and true.",
+      "sol_paragraphs": "P95",
+      "sol_range": [
+        94,
+        95
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Hide behind your shields! Don’t stick your heads out!”",
+      "baseline_paragraphs": "P98",
+      "baseline_range": [
+        97,
+        98
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "211",
+      "sol": "“Stay behind your shields! Don’t stick your heads out!”",
+      "sol_paragraphs": "P98",
+      "sol_range": [
+        97,
+        98
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Taking advantage of the opening, the mounted bandits spurred their horses forward and set grappling hooks and makeshift ladders against the walls, which stood more than ten *jang* high. They began attempting to breach the fortress.",
+      "baseline_paragraphs": "P99",
+      "baseline_range": [
+        98,
+        99
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "213",
+      "sol": "Taking advantage of the opening, the mounted bandits spurred their horses forward and threw grappling hooks over the walls or propped makeshift ladders against them. The walls stood more than ten *jang* high, but they began scaling them anyway.",
+      "sol_paragraphs": "P99",
+      "sol_range": [
+        98,
+        99
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Screams and blood poured forth.",
+      "baseline_paragraphs": "P101",
+      "baseline_range": [
+        100,
+        101
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "217",
+      "sol": "Screams rang out, and blood sprayed through the air.",
+      "sol_paragraphs": "P101",
+      "sol_range": [
+        100,
+        101
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Stop them from climbing up!”",
+      "baseline_paragraphs": "P103",
+      "baseline_range": [
+        102,
+        103
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "221",
+      "sol": "“Don’t let them climb up!”",
+      "sol_paragraphs": "P103",
+      "sol_range": [
+        102,
+        103
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Lee Seowol watched the entire scene from the highest watchtower. Her lips trembled, and the color had drained from her face.",
+      "baseline_paragraphs": "P104",
+      "baseline_range": [
+        103,
+        104
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "223",
+      "sol": "Lee Seowol watched it all from the highest watchtower. Her lips trembled, and the color had drained from her face.",
+      "sol_paragraphs": "P104",
+      "sol_range": [
+        103,
+        104
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*So this is the Murim.*",
+      "baseline_paragraphs": "P105",
+      "baseline_range": [
+        104,
+        105
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "225",
+      "sol": "*So this is Murim.*",
+      "sol_paragraphs": "P105",
+      "sol_range": [
+        104,
+        105
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The screams of those dying.",
+      "baseline_paragraphs": "P106",
+      "baseline_range": [
+        105,
+        106
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "227",
+      "sol": "",
+      "sol_paragraphs": "after P105",
+      "sol_range": [
+        105,
+        105
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The desperate struggles of those who wanted to live.",
+      "baseline_paragraphs": "P107",
+      "baseline_range": [
+        106,
+        107
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "229",
+      "sol": "The screams of the dying. The desperate struggles of those who wanted to live.",
+      "sol_paragraphs": "P106",
+      "sol_range": [
+        105,
+        106
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The world of the strong preying on the weak that she had finally encountered was more brutal and frightening than she had imagined.",
+      "baseline_paragraphs": "P108",
+      "baseline_range": [
+        107,
+        108
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "231",
+      "sol": "The world of the strong preying on the weak was more brutal and terrifying than she had ever imagined.",
+      "sol_paragraphs": "P107",
+      "sol_range": [
+        106,
+        107
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Countless people had already died. Those who were going to leave had left, while those who remained were fighting with their lives on the line.",
+      "baseline_paragraphs": "P111",
+      "baseline_range": [
+        110,
+        111
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "237",
+      "sol": "Countless people had already died. Those who would leave had left, while those who remained were fighting with their lives on the line.",
+      "sol_paragraphs": "P110",
+      "sol_range": [
+        109,
+        110
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Lee Seowol was now the Sect Leader who had to lead them. She was bound to share her fate with the Mount Heng Sword Sect.",
+      "baseline_paragraphs": "P112",
+      "baseline_range": [
+        111,
+        112
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "239",
+      "sol": "Lee Seowol was now the Sect Leader responsible for leading them, and her fate was bound to that of the Mount Heng Sword Sect.",
+      "sol_paragraphs": "P111",
+      "sol_range": [
+        110,
+        111
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Sect Leader! You need to take action!”",
+      "baseline_paragraphs": "P115",
+      "baseline_range": [
+        114,
+        115
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "245",
+      "sol": "“Sect Leader! You must do something!”",
+      "sol_paragraphs": "P114",
+      "sol_range": [
+        113,
+        114
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As urgent reports rained down from every direction, Lee Seowol opened her mouth.",
+      "baseline_paragraphs": "P117",
+      "baseline_range": [
+        116,
+        117
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "249",
+      "sol": "As urgent reports poured in from every direction, Lee Seowol spoke.",
+      "sol_paragraphs": "P116",
+      "sol_range": [
+        115,
+        116
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Cheol Mubaek, who had been standing beside her, answered.",
+      "baseline_paragraphs": "P119",
+      "baseline_range": [
+        118,
+        119
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "253",
+      "sol": "Cheol Mubaek, who stood beside her, answered.",
+      "sol_paragraphs": "P118",
+      "sol_range": [
+        117,
+        118
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I’m sorry to ask you to do something so difficult.”",
+      "baseline_paragraphs": "P123",
+      "baseline_range": [
+        122,
+        123
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "261",
+      "sol": "“I can only apologize for asking so much of you.”",
+      "sol_paragraphs": "P122",
+      "sol_range": [
+        121,
+        122
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The uncle I know is a master who can face ten thousand men. But please be careful.”",
+      "baseline_paragraphs": "P125",
+      "baseline_range": [
+        124,
+        125
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "265",
+      "sol": "“The uncle I know is a master who can face ten thousand men. Still, please be careful.”",
+      "sol_paragraphs": "P124",
+      "sol_range": [
+        123,
+        124
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“All right. Do you think those bastards can get the better of me?”",
+      "baseline_paragraphs": "P126",
+      "baseline_range": [
+        125,
+        126
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "269",
+      "sol": "“All right. Do you really think those bastards could get the better of me?”",
+      "sol_paragraphs": "P125",
+      "sol_range": [
+        124,
+        125
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Cheol Mubaek laughed heartily, then leaped down.",
+      "baseline_paragraphs": "P127",
+      "baseline_range": [
+        126,
+        127
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "273",
+      "sol": "Cheol Mubaek laughed heartily and leaped down.",
+      "sol_paragraphs": "P126",
+      "sol_range": [
+        125,
+        126
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "With the Tiger of Mount Heng—a consummate Peak master—there, no one would be able to get through the gate unless Pung Yang himself stepped forward.",
+      "baseline_paragraphs": "P128",
+      "baseline_range": [
+        127,
+        128
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "275",
+      "sol": "With the Tiger of Mount Heng—a consummate Peak master—guarding the gate, no one would get through unless Pung Yang himself stepped forward.",
+      "sol_paragraphs": "P127",
+      "sol_range": [
+        126,
+        127
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Just a little longer. A little more.*",
+      "baseline_paragraphs": "P129",
+      "baseline_range": [
+        128,
+        129
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "277",
+      "sol": "*More. Just a little longer.*",
+      "sol_paragraphs": "P128",
+      "sol_range": [
+        127,
+        128
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Lee Seowol watched the fierce battlefield below, then suddenly let out a thunderous shout.",
+      "baseline_paragraphs": "P130",
+      "baseline_range": [
+        129,
+        130
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "279",
+      "sol": "Lee Seowol gazed down at the fierce battle before suddenly shouting like a thunderclap.",
+      "sol_paragraphs": "P129",
+      "sol_range": [
+        128,
+        129
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The two martial artists who had been waiting for her command each drew their bowstrings.",
+      "baseline_paragraphs": "P132",
+      "baseline_range": [
+        131,
+        132
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "283",
+      "sol": "The two martial artists awaiting her command drew their bows.",
+      "sol_paragraphs": "P131",
+      "sol_range": [
+        130,
+        131
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The next moment, the fire arrows soared into the darkening winter sky and shone brightly above everyone’s heads.",
+      "baseline_paragraphs": "P133",
+      "baseline_range": [
+        132,
+        133
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "285",
+      "sol": "The next moment, fire arrows soared into the darkening winter sky and blazed brightly over everyone’s heads.",
+      "sol_paragraphs": "P132",
+      "sol_range": [
+        131,
+        132
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The fire arrows falling like meteors were clearly visible even to Pung Yang, who stood more than a hundred *jang* away.",
+      "baseline_paragraphs": "P135",
+      "baseline_range": [
+        134,
+        135
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "289",
+      "sol": "The fire arrows arcing down like meteors were clearly visible even to Pung Yang, more than a hundred *jang* away.",
+      "sol_paragraphs": "P134",
+      "sol_range": [
+        133,
+        134
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He thought to himself.",
+      "baseline_paragraphs": "P136",
+      "baseline_range": [
+        135,
+        136
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "291",
+      "sol": "",
+      "sol_paragraphs": "after P134",
+      "sol_range": [
+        134,
+        134
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*They had a hidden ace.*",
+      "baseline_paragraphs": "P137",
+      "baseline_range": [
+        136,
+        137
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "293",
+      "sol": "*So they had a move hidden up their sleeve.*",
+      "sol_paragraphs": "P135",
+      "sol_range": [
+        134,
+        135
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It didn’t take long for his suspicion to become certainty.",
+      "baseline_paragraphs": "P138",
+      "baseline_range": [
+        137,
+        138
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "295",
+      "sol": "It didn’t take long for his guess to become certainty.",
+      "sol_paragraphs": "P136",
+      "sol_range": [
+        135,
+        136
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Burning to death was one of the most painful ways to die.",
+      "baseline_paragraphs": "P142",
+      "baseline_range": [
+        141,
+        142
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "303",
+      "sol": "Burning alive was one of the most painful ways to die.",
+      "sol_paragraphs": "P140",
+      "sol_range": [
+        139,
+        140
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The mounted bandits of the Red Wind Band, massed beneath the walls like a swarm of ants, writhed and screamed horribly.",
+      "baseline_paragraphs": "P143",
+      "baseline_range": [
+        142,
+        143
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "305",
+      "sol": "The Red Wind Band members packed beneath the walls like a swarm of ants writhed and screamed in agony.",
+      "sol_paragraphs": "P141",
+      "sol_range": [
+        140,
+        141
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "마적",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "mounted bandits"
+        }
+      ]
+    },
+    {
+      "baseline": "The ropes attached to the grappling hooks snapped, and the wooden ladders were engulfed in flames.",
+      "baseline_paragraphs": "P144",
+      "baseline_range": [
+        143,
+        144
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "307",
+      "sol": "The ropes on the grappling hooks burned through, and the wooden ladders were engulfed in flames.",
+      "sol_paragraphs": "P142",
+      "sol_range": [
+        141,
+        142
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Those waiting below to climb and those still making their way up burned to death. Those who had already reached the top were stabbed and slashed by weapons converging from every direction.",
+      "baseline_paragraphs": "P147",
+      "baseline_range": [
+        146,
+        147
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "313",
+      "sol": "Those waiting below and those still climbing burned to death, while those who had already reached the top were stabbed and slashed by weapons converging from every direction.",
+      "sol_paragraphs": "P145",
+      "sol_range": [
+        144,
+        145
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“So they did make some preparations…”",
+      "baseline_paragraphs": "P148",
+      "baseline_range": [
+        147,
+        148
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "315",
+      "sol": "“So they did prepare after all…”",
+      "sol_paragraphs": "P146",
+      "sol_range": [
+        145,
+        146
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As Pung Yang stared impassively at the battlefield, one of the mounted bandits came back with parts of his body blackened like charcoal.",
+      "baseline_paragraphs": "P149",
+      "baseline_range": [
+        148,
+        149
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "317",
+      "sol": "As Pung Yang watched the battlefield impassively, a mounted bandit returned, his body blackened in patches like charcoal.",
+      "sol_paragraphs": "P147",
+      "sol_range": [
+        146,
+        147
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "마적",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "mounted bandits"
+        }
+      ]
+    },
+    {
+      "baseline": "“L-Leader. The casualties are too high!”",
+      "baseline_paragraphs": "P151",
+      "baseline_range": [
+        150,
+        151
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "321",
+      "sol": "“L-Leader. Our losses are too great!”",
+      "sol_paragraphs": "P149",
+      "sol_range": [
+        148,
+        149
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The moment he reached Pung Yang, the mounted bandit threw himself flat on the ground and continued in a breathless voice.",
+      "baseline_paragraphs": "P152",
+      "baseline_range": [
+        151,
+        152
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "323",
+      "sol": "The moment he reached Pung Yang, the mounted bandit threw himself flat on the ground and continued breathlessly.",
+      "sol_paragraphs": "P150",
+      "sol_range": [
+        149,
+        150
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“From the first assault until now, at least a hundred men must have died. More importantly, after that fire attack, our brothers’ morale is…”",
+      "baseline_paragraphs": "P153",
+      "baseline_range": [
+        152,
+        153
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "325",
+      "sol": "“From the first assault until now, at least a hundred men must have died. More importantly, after that fire attack, our brothers’ morale…”",
+      "sol_paragraphs": "P151",
+      "sol_range": [
+        150,
+        151
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Then it’s settled.”",
+      "baseline_paragraphs": "P160",
+      "baseline_range": [
+        159,
+        160
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "339",
+      "sol": "“Then that’s enough.”",
+      "sol_paragraphs": "P158",
+      "sol_range": [
+        157,
+        158
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the same time, Pung Yang held out his hand.",
+      "baseline_paragraphs": "P161",
+      "baseline_range": [
+        160,
+        161
+      ],
+      "hunk_id": "H086",
+      "korean_lines": "341",
+      "sol": "As he spoke, Pung Yang held out his hand.",
+      "sol_paragraphs": "P159",
+      "sol_range": [
+        158,
+        159
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The mounted bandit instinctively reached to take it, only for his body to list and collapse.",
+      "baseline_paragraphs": "P162",
+      "baseline_range": [
+        161,
+        162
+      ],
+      "hunk_id": "H087",
+      "korean_lines": "343",
+      "sol": "The mounted bandit instinctively reached to take it, only for his body to tilt and collapse.",
+      "sol_paragraphs": "P160",
+      "sol_range": [
+        159,
+        160
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A dagger was buried deep between his brows.",
+      "baseline_paragraphs": "P163",
+      "baseline_range": [
+        162,
+        163
+      ],
+      "hunk_id": "H088",
+      "korean_lines": "345",
+      "sol": "A dagger was buried deep between his brows, his expression frozen in confusion.",
+      "sol_paragraphs": "P161",
+      "sol_range": [
+        160,
+        161
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "This sort of scene was familiar to the subordinate who served as Pung Yang’s right hand. After glancing at the corpse, he answered.",
+      "baseline_paragraphs": "P165",
+      "baseline_range": [
+        164,
+        165
+      ],
+      "hunk_id": "H089",
+      "korean_lines": "349",
+      "sol": "The subordinate who served as Pung Yang’s right hand was accustomed to such sights. He glanced at the corpse and answered.",
+      "sol_paragraphs": "P163",
+      "sol_range": [
+        162,
+        163
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“By a rough count, somewhere between a little over a hundred and fifty and just under two hundred. It’s true that our losses are greater.”",
+      "baseline_paragraphs": "P166",
+      "baseline_range": [
+        165,
+        166
+      ],
+      "hunk_id": "H090",
+      "korean_lines": "351",
+      "sol": "“By a rough count, a little over a hundred and fifty but not quite two hundred. It’s true that our losses are heavier.”",
+      "sol_paragraphs": "P164",
+      "sol_range": [
+        163,
+        164
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Then imagine theirs. The men on those walls are the Mount Heng Sword Sect’s final bulwark.”",
+      "baseline_paragraphs": "P167",
+      "baseline_range": [
+        166,
+        167
+      ],
+      "hunk_id": "H091",
+      "korean_lines": "353",
+      "sol": "“How much worse do you think theirs are? The men on those walls are the Mount Heng Sword Sect’s last line of defense.”",
+      "sol_paragraphs": "P165",
+      "sol_range": [
+        164,
+        165
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I’m not doubting you, Leader, but couldn’t there be another trap like that fire attack?”",
+      "baseline_paragraphs": "P170",
+      "baseline_range": [
+        169,
+        170
+      ],
+      "hunk_id": "H092",
+      "korean_lines": "359",
+      "sol": "“It isn’t that I doubt you, Leader, but what if they have another trap like that fire attack…?”",
+      "sol_paragraphs": "P168",
+      "sol_range": [
+        167,
+        168
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That’s what they’re counting on.”",
+      "baseline_paragraphs": "P171",
+      "baseline_range": [
+        170,
+        171
+      ],
+      "hunk_id": "H093",
+      "korean_lines": "359",
+      "sol": "“That’s precisely what they want us to think.”",
+      "sol_paragraphs": "P169",
+      "sol_range": [
+        168,
+        169
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Pung Yang let out a derisive laugh. He didn’t know whose strategy it had been, but they had played it quite cleverly.",
+      "baseline_paragraphs": "P172",
+      "baseline_range": [
+        171,
+        172
+      ],
+      "hunk_id": "H094",
+      "korean_lines": "359",
+      "sol": "Pung Yang let out a derisive chuckle. He didn’t know who had devised the strategy, but they had played it cleverly.",
+      "sol_paragraphs": "P170",
+      "sol_range": [
+        169,
+        170
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*If I had been less experienced, I would have suspected another trap and pulled our forces back.*",
+      "baseline_paragraphs": "P173",
+      "baseline_range": [
+        172,
+        173
+      ],
+      "hunk_id": "H095",
+      "korean_lines": "359",
+      "sol": "*If I had less experience, I might have suspected another trap and pulled my forces back.*",
+      "sol_paragraphs": "P171",
+      "sol_range": [
+        170,
+        171
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*They’re struggling to buy time. Are they waiting for someone’s support?*",
+      "baseline_paragraphs": "P174",
+      "baseline_range": [
+        173,
+        174
+      ],
+      "hunk_id": "H096",
+      "korean_lines": "359",
+      "sol": "*They’re desperate to buy time. Are they waiting for reinforcements?*",
+      "sol_paragraphs": "P172",
+      "sol_range": [
+        171,
+        172
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The few couldn’t stand against the many. Even if the Red Wind Band had suffered considerable losses, wiping out the Mount Heng Sword Sect would be easy.",
+      "baseline_paragraphs": "P176",
+      "baseline_range": [
+        175,
+        176
+      ],
+      "hunk_id": "H097",
+      "korean_lines": "359",
+      "sol": "The few could not stand against the many. Even after suffering considerable losses, the Red Wind Band would have no trouble wiping out the Mount Heng Sword Sect.",
+      "sol_paragraphs": "P174",
+      "sol_range": [
+        173,
+        174
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I’m going myself.”",
+      "baseline_paragraphs": "P178",
+      "baseline_range": [
+        177,
+        178
+      ],
+      "hunk_id": "H098",
+      "korean_lines": "359",
+      "sol": "“I’m going in myself.”",
+      "sol_paragraphs": "P176",
+      "sol_range": [
+        175,
+        176
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Yes. We have to catch the tiger, don’t we?”",
+      "baseline_paragraphs": "P180",
+      "baseline_range": [
+        179,
+        180
+      ],
+      "hunk_id": "H099",
+      "korean_lines": "359",
+      "sol": "“Yes. We have a tiger to catch, don’t we?”",
+      "sol_paragraphs": "P178",
+      "sol_range": [
+        177,
+        178
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Pung Yang burst into a hearty laugh and habitually felt inside his robes.",
+      "baseline_paragraphs": "P181",
+      "baseline_range": [
+        180,
+        181
+      ],
+      "hunk_id": "H100",
+      "korean_lines": "359",
+      "sol": "Pung Yang burst into a hearty laugh and reached inside his robes out of habit.",
+      "sol_paragraphs": "P179",
+      "sol_range": [
+        178,
+        179
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A hard wooden case rested there.",
+      "baseline_paragraphs": "P182",
+      "baseline_range": [
+        181,
+        182
+      ],
+      "hunk_id": "H101",
+      "korean_lines": "359",
+      "sol": "His hand brushed against a hard wooden case.",
+      "sol_paragraphs": "P180",
+      "sol_range": [
+        179,
+        180
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Inside was something that could bring down a tiger in one go.",
+      "baseline_paragraphs": "P183",
+      "baseline_range": [
+        182,
+        183
+      ],
+      "hunk_id": "H102",
+      "korean_lines": "359",
+      "sol": "Inside was something that could bring down a tiger in a single blow.",
+      "sol_paragraphs": "P181",
+      "sol_range": [
+        180,
+        181
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 181,
+  "sol_sha256": "9ad16cf78ae5379c9f7c56ba4d7450842ad155271f2e52c8d29067bdbc8339b9",
+  "version": 1
+}
