@@ -1,0 +1,2174 @@
+{
+  "baseline_blocks": 155,
+  "baseline_sha256": "b32b57bd8cf545aad25a59859bd1ac84c31f8c9912643094aa11fea2596cc64d",
+  "global_terminology_alerts": [],
+  "hunk_count": 117,
+  "hunks": [
+    {
+      "baseline": "*Bang!*",
+      "baseline_paragraphs": "P2",
+      "baseline_range": [
+        1,
+        2
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "5",
+      "sol": "*Boom!*",
+      "sol_paragraphs": "P2",
+      "sol_range": [
+        1,
+        2
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The person who appeared with the thunderous explosion was a middle-aged man of imposing stature.",
+      "baseline_paragraphs": "P3",
+      "baseline_range": [
+        2,
+        3
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "7",
+      "sol": "The thunderous crash heralded the arrival of a powerfully built middle-aged man.",
+      "sol_paragraphs": "P3",
+      "sol_range": [
+        2,
+        3
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Beneath his thick, sharply angled brows, he glared around the room with tiger eyes like an enraged beast.",
+      "baseline_paragraphs": "P4",
+      "baseline_range": [
+        3,
+        4
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "9",
+      "sol": "Beneath his thick, bristling brows, tigerish eyes swept the hall with the fury of an enraged beast.",
+      "sol_paragraphs": "P4",
+      "sol_range": [
+        3,
+        4
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Who was the one spouting that nonsense just now?”",
+      "baseline_paragraphs": "P5",
+      "baseline_range": [
+        4,
+        5
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "11",
+      "sol": "“Which one of you was spouting that nonsense just now?”",
+      "sol_paragraphs": "P5",
+      "sol_range": [
+        4,
+        5
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Everyone gathered here was a senior figure of the Mount Heng Sword Sect.",
+      "baseline_paragraphs": "P6",
+      "baseline_range": [
+        5,
+        6
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "13",
+      "sol": "Everyone gathered there was a senior figure of the Mount Heng Sword Sect.",
+      "sol_paragraphs": "P6",
+      "sol_range": [
+        5,
+        6
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even if they weren’t on their predecessor’s level, they possessed First Rate martial arts and more than enough experience. Yet even they were busy shrinking their necks and avoiding his gaze.",
+      "baseline_paragraphs": "P7",
+      "baseline_range": [
+        6,
+        7
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "15",
+      "sol": "Though they might not have measured up to their predecessors, they all possessed First Rate martial arts and considerable experience. Yet even they could only shrink back and avoid his gaze.",
+      "sol_paragraphs": "P7",
+      "sol_range": [
+        6,
+        7
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "레벨",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Level"
+        }
+      ]
+    },
+    {
+      "baseline": "The middle-aged man before them had every right to make them do so.",
+      "baseline_paragraphs": "P8",
+      "baseline_range": [
+        7,
+        8
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "17",
+      "sol": "The middle-aged man before them had more than earned that kind of fear.",
+      "sol_paragraphs": "P8",
+      "sol_range": [
+        7,
+        8
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The storytellers said that two beasts lived on Mount Heng.",
+      "baseline_paragraphs": "P10",
+      "baseline_range": [
+        9,
+        10
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "21",
+      "sol": "People said two beasts lived on Mount Heng.",
+      "sol_paragraphs": "P10",
+      "sol_range": [
+        9,
+        10
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Blood Wolf Sword and the Tiger of Mount Heng. They were close friends, but each was also the wall the other had to overcome.",
+      "baseline_paragraphs": "P11",
+      "baseline_range": [
+        10,
+        11
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "23",
+      "sol": "The Blood Wolf Sword and the Tiger of Mount Heng. The closest of friends, yet each a wall the other had to overcome.",
+      "sol_paragraphs": "P11",
+      "sol_range": [
+        10,
+        11
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The middle-aged man, Cheol Mubaek, had been a Peak master known as the tiger of Mount Heng for decades.",
+      "baseline_paragraphs": "P12",
+      "baseline_range": [
+        11,
+        12
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "25",
+      "sol": "Cheol Mubaek had been known as the Tiger of Mount Heng, a Peak master, for decades.",
+      "sol_paragraphs": "P12",
+      "sol_range": [
+        11,
+        12
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At that roar, the senior figures of the Mount Heng Sword Sect felt every hair on their bodies stand on end.",
+      "baseline_paragraphs": "P14",
+      "baseline_range": [
+        13,
+        14
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "29",
+      "sol": "His roar made every hair on the senior figures’ bodies stand on end.",
+      "sol_paragraphs": "P14",
+      "sol_range": [
+        13,
+        14
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "항산검문",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Mount Heng Sword Sect"
+        },
+        {
+          "korean": "항산",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Mount Heng"
+        }
+      ]
+    },
+    {
+      "baseline": "They said that whenever Cheol Mubaek lost his temper, even his friend Lee Cheonbaek would leave the area. These men were far inferior to him in both martial arts and age, so there was no need to say more.",
+      "baseline_paragraphs": "P15",
+      "baseline_range": [
+        14,
+        15
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "31",
+      "sol": "They said that whenever Cheol Mubaek truly lost his temper, even his close friend Lee Cheonbaek stayed out of his way. These men lagged far behind him in both martial arts and age. What more needed to be said?",
+      "sol_paragraphs": "P15",
+      "sol_range": [
+        14,
+        15
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“We should be united in driving out those mounted bandit bastards, and yet you dare defy Cheonbaek’s final wishes and harbor rebellious intentions?”",
+      "baseline_paragraphs": "P16",
+      "baseline_range": [
+        15,
+        16
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "33",
+      "sol": "“We should be standing together and driving out those mounted-bandit bastards, yet you dare defy Cheonbaek’s dying wishes and harbor thoughts of treason?”",
+      "sol_paragraphs": "P16",
+      "sol_range": [
+        15,
+        16
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Under his gaze, which seemed ready to pour out flames, the senior figures of the Mount Heng Sword Sect flinched as though they had been burned.",
+      "baseline_paragraphs": "P17",
+      "baseline_range": [
+        16,
+        17
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "35",
+      "sol": "His gaze seemed ready to spew flames. The senior figures flinched as though they had been burned.",
+      "sol_paragraphs": "P17",
+      "sol_range": [
+        16,
+        17
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "항산검문",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Mount Heng Sword Sect"
+        },
+        {
+          "korean": "항산",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Mount Heng"
+        }
+      ]
+    },
+    {
+      "baseline": "“G-Great Hero Cheol. You misunderstand.”",
+      "baseline_paragraphs": "P18",
+      "baseline_range": [
+        17,
+        18
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "37",
+      "sol": "“G-Great Hero Cheol, you misunderstand.”",
+      "sol_paragraphs": "P18",
+      "sol_range": [
+        17,
+        18
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“How could we ever dare harbor rebellious intentions?”",
+      "baseline_paragraphs": "P19",
+      "baseline_range": [
+        18,
+        19
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "39",
+      "sol": "“How could we possibly harbor thoughts of treason?”",
+      "sol_paragraphs": "P19",
+      "sol_range": [
+        18,
+        19
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Then have I grown old enough for my ears to fail me?”",
+      "baseline_paragraphs": "P20",
+      "baseline_range": [
+        19,
+        20
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "41",
+      "sol": "“Then have I grown so old that my ears no longer work?”",
+      "sol_paragraphs": "P20",
+      "sol_range": [
+        19,
+        20
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At that moment, everyone inside the main hall felt thirsty. It wasn’t a simple illusion. It was caused by the terrifying Scorching Yang Qi radiating from Cheol Mubaek.",
+      "baseline_paragraphs": "P21",
+      "baseline_range": [
+        20,
+        21
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "43",
+      "sol": "At that moment, everyone in the main hall felt parched. It was no illusion, but the effect of the terrifying Scorching Yang Qi pouring from Cheol Mubaek.",
+      "sol_paragraphs": "P21",
+      "sol_range": [
+        20,
+        21
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*What the hell?*",
+      "baseline_paragraphs": "P22",
+      "baseline_range": [
+        21,
+        22
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "45",
+      "sol": "*This is insane.*",
+      "sol_paragraphs": "P22",
+      "sol_range": [
+        21,
+        22
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*What on earth has he been eating to build up such ridiculous internal energy…?*",
+      "baseline_paragraphs": "P23",
+      "baseline_range": [
+        22,
+        23
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "47",
+      "sol": "*What the hell did he eat to amass such monstrous internal energy…?*",
+      "sol_paragraphs": "P23",
+      "sol_range": [
+        22,
+        23
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Just being near him made it hard to breathe, and sweat poured down their bodies. The Tiger of Mount Heng. This was the moment the true nature of the Peak master who had supposedly trained alone somewhere in the vast mountain range since around the age of twenty revealed itself.",
+      "baseline_paragraphs": "P24",
+      "baseline_range": [
+        23,
+        24
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "49",
+      "sol": "Simply standing near him made it difficult to breathe, and sweat streamed down their bodies. This was the true power of the Tiger of Mount Heng, the Peak master said to have trained alone somewhere in the vast mountain range since his early twenties.",
+      "sol_paragraphs": "P24",
+      "sol_range": [
+        23,
+        24
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Haah… Hoo…”",
+      "baseline_paragraphs": "P25",
+      "baseline_range": [
+        24,
+        25
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "51",
+      "sol": "“Huff… Haaah…”",
+      "sol_paragraphs": "P25",
+      "sol_range": [
+        24,
+        25
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Great Hero, please calm down… Hah.”",
+      "baseline_paragraphs": "P26",
+      "baseline_range": [
+        25,
+        26
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "53",
+      "sol": "“Great Hero, please calm yourself… Hah.”",
+      "sol_paragraphs": "P26",
+      "sol_range": [
+        25,
+        26
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The senior figures of the Mount Heng Sword Sect panted harshly, while the Peak master glared at them without the slightest sign of forgiveness.",
+      "baseline_paragraphs": "P27",
+      "baseline_range": [
+        26,
+        27
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "55",
+      "sol": "The senior figures panted for breath while the Peak master glared at them without the slightest hint of mercy.",
+      "sol_paragraphs": "P27",
+      "sol_range": [
+        26,
+        27
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "항산검문",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Mount Heng Sword Sect"
+        },
+        {
+          "korean": "항산",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Mount Heng"
+        }
+      ]
+    },
+    {
+      "baseline": "The air inside the main hall was about to boil like lava when—",
+      "baseline_paragraphs": "P28",
+      "baseline_range": [
+        27,
+        28
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "57",
+      "sol": "Just as the air in the hall threatened to boil like lava—",
+      "sol_paragraphs": "P28",
+      "sol_range": [
+        27,
+        28
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A clear voice like a flowing stream, and slender white fingers tugging at Cheol Mubaek’s sleeve. At the same time, the wrinkles furrowed across his brow in anger smoothed out as though someone had pulled them flat.",
+      "baseline_paragraphs": "P30",
+      "baseline_range": [
+        29,
+        30
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "61",
+      "sol": "A voice as clear and refreshing as a stream spoke up, and slender white fingers tugged at Cheol Mubaek’s sleeve. The angry furrows in his brow instantly smoothed away, as though someone had pulled them flat.",
+      "sol_paragraphs": "P30",
+      "sol_range": [
+        29,
+        30
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Yes. I can barely breathe.”",
+      "baseline_paragraphs": "P32",
+      "baseline_range": [
+        31,
+        32
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "65",
+      "sol": "“Yes. I can’t even breathe.”",
+      "sol_paragraphs": "P32",
+      "sol_range": [
+        31,
+        32
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Goodness, I didn’t think of you. How are you now?”",
+      "baseline_paragraphs": "P33",
+      "baseline_range": [
+        32,
+        33
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "67",
+      "sol": "“Oh dear. I wasn’t thinking of you. How is it now?”",
+      "sol_paragraphs": "P33",
+      "sol_range": [
+        32,
+        33
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "“Don’t say such things. Protecting you, Seowol, is my duty.”",
+      "baseline_paragraphs": "P35",
+      "baseline_range": [
+        34,
+        35
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "71",
+      "sol": "“Don’t thank me. Protecting you is my duty, Seowol.”",
+      "sol_paragraphs": "P35",
+      "sol_range": [
+        34,
+        35
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Cheol Mubaek’s powerful Scorching Yang Qi subsided.",
+      "baseline_paragraphs": "P36",
+      "baseline_range": [
+        35,
+        36
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "73",
+      "sol": "Cheol Mubaek’s mighty Scorching Yang Qi subsided.",
+      "sol_paragraphs": "P36",
+      "sol_range": [
+        35,
+        36
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Only then did the people throughout the hall finally release the breaths they had been holding. Once they came to their senses, their clothes drenched in sweat, they realized that Cheol Mubaek was not alone.",
+      "baseline_paragraphs": "P37",
+      "baseline_range": [
+        36,
+        37
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "75",
+      "sol": "Only then did held breaths burst out across the hall. Once the sweat-drenched men had recovered their senses, they realized that Cheol Mubaek had not come alone.",
+      "sol_paragraphs": "P37",
+      "sol_range": [
+        36,
+        37
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“We greet Young Lady.”",
+      "baseline_paragraphs": "P39",
+      "baseline_range": [
+        38,
+        39
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "79",
+      "sol": "“We greet the Young Lady.”",
+      "sol_paragraphs": "P39",
+      "sol_range": [
+        38,
+        39
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Cheol Mubaek raised his brows at the senior figures hurriedly standing to show their respect. But the “Young Lady” was faster.",
+      "baseline_paragraphs": "P40",
+      "baseline_range": [
+        39,
+        40
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "81",
+      "sol": "The senior figures hurriedly rose to pay their respects, making Cheol Mubaek’s brows rise. But the “Young Lady” spoke first.",
+      "sol_paragraphs": "P40",
+      "sol_range": [
+        39,
+        40
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I’ll tell the two of you one last time, Iron Sword Squad Leader and Master of the Gatekeeper Pavilion.”",
+      "baseline_paragraphs": "P41",
+      "baseline_range": [
+        40,
+        41
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "83",
+      "sol": "“I’ll tell you both one last time, Iron Sword Squad Leader, Master of the Gatekeeper Pavilion.”",
+      "sol_paragraphs": "P41",
+      "sol_range": [
+        40,
+        41
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The woman who had been hidden behind Cheol Mubaek’s massive frame stepped forward. She was slim and graceful, and the hem of her blue gown rustled whenever it brushed the floor.",
+      "baseline_paragraphs": "P42",
+      "baseline_range": [
+        41,
+        42
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "85",
+      "sol": "The woman who had been hidden behind Cheol Mubaek’s massive frame stepped into view. She was slender and graceful, and the hem of her blue gown rustled as it brushed the floor.",
+      "sol_paragraphs": "P42",
+      "sol_range": [
+        41,
+        42
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Change how you address me. Not Young Lady. Sect Leader.”",
+      "baseline_paragraphs": "P43",
+      "baseline_range": [
+        42,
+        43
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "87",
+      "sol": "“Change how you address me. Not Young Lady—Sect Leader.”",
+      "sol_paragraphs": "P43",
+      "sol_range": [
+        42,
+        43
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Those who met her frost-cold gaze remembered one fact they had momentarily forgotten.",
+      "baseline_paragraphs": "P44",
+      "baseline_range": [
+        43,
+        44
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "89",
+      "sol": "Meeting her frost-covered gaze, the men remembered something they had momentarily forgotten.",
+      "sol_paragraphs": "P44",
+      "sol_range": [
+        43,
+        44
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Oh. That’s right.*",
+      "baseline_paragraphs": "P45",
+      "baseline_range": [
+        44,
+        45
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "91",
+      "sol": "*Ah. That’s right.*",
+      "sol_paragraphs": "P45",
+      "sol_range": [
+        44,
+        45
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Lee Seowol was the child in whom his blood ran strongest.",
+      "baseline_paragraphs": "P47",
+      "baseline_range": [
+        46,
+        47
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "95",
+      "sol": "Of all his children, Lee Seowol had inherited his blood most strongly.",
+      "sol_paragraphs": "P47",
+      "sol_range": [
+        46,
+        47
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I knew nothing about horseback riding. After coming to Murim, I had ridden only a few times. In the modern world, horseback riding was practically an aristocratic sport reserved for the rich, so I’d never had the chance to try it.",
+      "baseline_paragraphs": "P49",
+      "baseline_range": [
+        48,
+        49
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "103",
+      "sol": "I knew next to nothing about horseback riding. I had only ridden a few times since coming to Murim. In the modern world, it was practically an aristocratic sport reserved for the rich, so I’d never had the chance to try it.",
+      "sol_paragraphs": "P49",
+      "sol_range": [
+        48,
+        49
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But perhaps because my physical abilities were so good and I was riding a well-trained horse, I had enough leisure to look at the System Window even during a furious gallop.",
+      "baseline_paragraphs": "P50",
+      "baseline_range": [
+        49,
+        50
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "105",
+      "sol": "Still, my physical abilities were excellent, and I was riding a well-trained horse. Even at a furious gallop, I had enough breathing room to check the System Window.",
+      "sol_paragraphs": "P50",
+      "sol_range": [
+        49,
+        50
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "> **System**\n>\n> **Quest**\n>\n> **Yesterday’s Enemy, Today’s Ally**\n>\n> Now that all the truth has been revealed, the Mount Heng Sword Sect is not an enemy but an ally you must join hands with. Invite them to the Jin Family of Taiyuan during the upcoming Lunar New Year.\n>\n> **Grade:** Peak\n>\n> **Restriction:** Jin Taekyung\n>\n> **Objective:** Deliver the invitation (Incomplete)\n>\n> **Reward:** ???\n>\n> **Failure:** None",
+      "baseline_paragraphs": "P53",
+      "baseline_range": [
+        52,
+        53
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "113",
+      "sol": "> **System**\n>\n> **Quest**\n>\n> **Yesterday’s Enemy, Today’s Ally**\n>\n> Now that the whole truth has come to light, the Mount Heng Sword Sect is no longer your enemy, but an ally with whom you must join forces. Invite them to the Jin Family of Taiyuan for the upcoming New Year’s Day.\n>\n> **Grade:** Peak\n>\n> **Restriction:** Jin Taekyung\n>\n> **Objective:** Deliver the invitation (Incomplete)\n>\n> **Reward:** ???\n>\n> **Failure:** None",
+      "sol_paragraphs": "P53",
+      "sol_range": [
+        52,
+        53
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Quests were fluid. Sometimes sudden Quests appeared depending on the situation, and sometimes, like now, an existing Quest was updated.",
+      "baseline_paragraphs": "P54",
+      "baseline_range": [
+        53,
+        54
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "117",
+      "sol": "Quests were fluid. Depending on the circumstances, sudden Quests could appear or existing Quests could be updated, as this one had been.",
+      "sol_paragraphs": "P54",
+      "sol_range": [
+        53,
+        54
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*The Grade was raised.*",
+      "baseline_paragraphs": "P55",
+      "baseline_range": [
+        54,
+        55
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "119",
+      "sol": "*The Grade went up.*",
+      "sol_paragraphs": "P55",
+      "sol_range": [
+        54,
+        55
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Quest Grade changing from First Rate to Peak meant that the road to the Mount Heng Sword Sect had become anything but easy.",
+      "baseline_paragraphs": "P56",
+      "baseline_range": [
+        55,
+        56
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "123",
+      "sol": "The Quest Grade changing from First Rate to Peak meant the road to the Mount Heng Sword Sect had become anything but easy.",
+      "sol_paragraphs": "P56",
+      "sol_range": [
+        55,
+        56
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "For example, the Red Wind Band. Or the Red Wind Band. Probably the Red Wind Band…",
+      "baseline_paragraphs": "P57",
+      "baseline_range": [
+        56,
+        57
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "125",
+      "sol": "For example, there was the Red Wind Band. Or the Red Wind Band. Probably the Red Wind Band…",
+      "sol_paragraphs": "P57",
+      "sol_range": [
+        56,
+        57
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Never mind. Thinking about it any more would only hurt.",
+      "baseline_paragraphs": "P58",
+      "baseline_range": [
+        57,
+        58
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "127",
+      "sol": "Never mind. Thinking about it any more would only make me miserable.",
+      "sol_paragraphs": "P58",
+      "sol_range": [
+        57,
+        58
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Every day in this place is a walk across thin ice.*",
+      "baseline_paragraphs": "P59",
+      "baseline_range": [
+        58,
+        59
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "129",
+      "sol": "*Every day in this place is like walking on thin ice.*",
+      "sol_paragraphs": "P59",
+      "sol_range": [
+        58,
+        59
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I thought I’d finally received an easy Quest for once, but trouble had struck again.",
+      "baseline_paragraphs": "P60",
+      "baseline_range": [
+        59,
+        60
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "131",
+      "sol": "I thought I’d finally received an easy Quest for once, only for trouble to erupt again.",
+      "sol_paragraphs": "P60",
+      "sol_range": [
+        59,
+        60
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The reason I wasn’t as anxious as before was partly because of the reliable presence of Jin Mukyung, but also because I myself had grown stronger.",
+      "baseline_paragraphs": "P61",
+      "baseline_range": [
+        60,
+        61
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "137",
+      "sol": "I wasn’t as anxious as I would have been before. That was partly thanks to Jin Mukyung’s reassuring presence, but it was also because I had grown stronger myself.",
+      "sol_paragraphs": "P61",
+      "sol_range": [
+        60,
+        61
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "> **System**\n>\n> **Status Window**\n>\n> **Level:** 55 — Jin Taekyung\n>\n> **Class:** First Rate martial artist\n>\n> **Fame:** 1,300 (+150)\n>\n> **Titles:** 4 (Title effects active)\n>\n> — Returnee (All stats +10)\n>\n> — Sleeping Dragon of Shanxi (All stats +10, Fame +100)\n>\n> — Scion of a Prestigious Family (All stats +5, Fame +50)\n>\n> — Gambler (Combat-related stats +10% in one-on-one combat)\n>\n> **Strength:** 196 (+25)  \n> **Stamina:** 195 (+25)\n>\n> **Agility:** 192 (+25)  \n> **Intelligence:** 35 (+25)\n>\n> **Charm:** 35 (+25)  \n> **Internal energy:** 15 years\n>\n> **Toughness:** 155 (+25)\n>\n> **Remaining Points:** 0",
+      "baseline_paragraphs": "P64",
+      "baseline_range": [
+        63,
+        64
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "143",
+      "sol": "> **System**\n>\n> **Status Window**\n>\n> **Level:** 55 — Jin Taekyung\n>\n> **Class:** First Rate Martial Artist\n>\n> **Fame:** 1,300 (+150)\n>\n> **Titles:** 4 (Title effects active)\n>\n> — Returnee (All stats +10)\n>\n> — Sleeping Dragon of Shanxi (All stats +10, Fame +100)\n>\n> — Scion of a Prestigious Family (All stats +5, Fame +50)\n>\n> — Gambler (Combat-related stats +10% in one-on-one combat)\n>\n> **Strength:** 196 (+25)  \n> **Stamina:** 195 (+25)\n>\n> **Agility:** 192 (+25)  \n> **Intelligence:** 35 (+25)\n>\n> **Charm:** 35 (+25)  \n> **Internal Energy:** 15 years\n>\n> **Toughness:** 155 (+25)\n>\n> **Remaining Points:** 0",
+      "sol_paragraphs": "P64",
+      "sol_range": [
+        63,
+        64
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Strength, Agility, and Stamina were each nearing 200. Just looking at them made me feel full, and my Toughness, born from getting beaten by Jin Mukyung, was growing nicely too.",
+      "baseline_paragraphs": "P67",
+      "baseline_range": [
+        66,
+        67
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "149",
+      "sol": "Strength, Agility, and Stamina were all closing in on 200. Just looking at them made me feel full, and the Toughness I had gained from Jin Mukyung beating the hell out of me was coming along nicely too.",
+      "sol_paragraphs": "P67",
+      "sol_range": [
+        66,
+        67
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Until now, I had raised my stats just to survive. Every time I advanced a Quest, one crisis after another came crashing down like three waves at once. There was no way I could afford to invest points in Charm or Intelligence.",
+      "baseline_paragraphs": "P69",
+      "baseline_range": [
+        68,
+        69
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "153",
+      "sol": "Until now, I had raised my stats to survive. Every time I made progress on a Quest, crises came crashing in from every direction. How could I possibly have afforded to invest points in Charm or Intelligence?",
+      "sol_paragraphs": "P69",
+      "sol_range": [
+        68,
+        69
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Even if I raised my Intelligence enough to reach an IQ of 180, it’s not like I’d start thrusting a spear scientifically.*",
+      "baseline_paragraphs": "P70",
+      "baseline_range": [
+        69,
+        70
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "157",
+      "sol": "*Even if I raised my Intelligence until I had an IQ of 180, it’s not like I’d start thrusting my spear scientifically.*",
+      "sol_paragraphs": "P70",
+      "sol_range": [
+        69,
+        70
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Charm was the same. It wasn’t as though Jopil or the Head Elder would spare me just because I was handsome.",
+      "baseline_paragraphs": "P71",
+      "baseline_range": [
+        70,
+        71
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "161",
+      "sol": "The same went for Charm. Jopil and the Head Elder weren’t going to spare me just because I was handsome.",
+      "sol_paragraphs": "P71",
+      "sol_range": [
+        70,
+        71
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Of course, raising them would help me in some way eventually. But with my life hanging by a thread, I hadn’t had the courage to invest in noncombat stats.",
+      "baseline_paragraphs": "P72",
+      "baseline_range": [
+        71,
+        72
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "163",
+      "sol": "Of course, raising those stats would probably help me somehow in the future. But while my life was hanging by a thread, I hadn’t had the nerve to invest in noncombat stats.",
+      "sol_paragraphs": "P72",
+      "sol_range": [
+        71,
+        72
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*I can protect this one life of mine to some extent now.*",
+      "baseline_paragraphs": "P73",
+      "baseline_range": [
+        72,
+        73
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "165",
+      "sol": "*I can more or less keep myself alive now.*",
+      "sol_paragraphs": "P73",
+      "sol_range": [
+        72,
+        73
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Once this Quest was over, I planned to pay more attention to my internal energy and noncombat stats.",
+      "baseline_paragraphs": "P74",
+      "baseline_range": [
+        73,
+        74
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "167",
+      "sol": "Once this Quest was over, I planned to devote some attention to my internal energy and noncombat stats.",
+      "sol_paragraphs": "P74",
+      "sol_range": [
+        73,
+        74
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As it happened, the items I had obtained after defeating Jopil—including the Blazing Flame Divine Pill—were sitting untouched in my Inventory.",
+      "baseline_paragraphs": "P75",
+      "baseline_range": [
+        74,
+        75
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "169",
+      "sol": "The items I had obtained after defeating Jopil—including the Blazing Flame Divine Pill—were already sitting untouched in my Inventory.",
+      "sol_paragraphs": "P75",
+      "sol_range": [
+        74,
+        75
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Of course, if I screw up taking it, I could wind up dead.*",
+      "baseline_paragraphs": "P76",
+      "baseline_range": [
+        75,
+        76
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "171",
+      "sol": "*Of course, taking it wrong could send me straight to the grave.*",
+      "sol_paragraphs": "P76",
+      "sol_range": [
+        75,
+        76
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At that moment, Wolhwa, who had been riding at the front, spotted a stream and stopped.",
+      "baseline_paragraphs": "P77",
+      "baseline_range": [
+        76,
+        77
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "173",
+      "sol": "Just then, Wolhwa, who had been riding at the front, spotted a stream and pulled to a stop.",
+      "sol_paragraphs": "P77",
+      "sol_range": [
+        76,
+        77
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“We’ll rest for a little while. The horses are too exhausted.”",
+      "baseline_paragraphs": "P78",
+      "baseline_range": [
+        77,
+        78
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "175",
+      "sol": "“We’ll rest for a little while. The horses are exhausted.”",
+      "sol_paragraphs": "P78",
+      "sol_range": [
+        77,
+        78
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "We had ridden without stopping since leaving the shrine; dawn had broken, and now the sun was high overhead. System messages saying my Strength and Stamina had increased had even appeared twice, so it had definitely been a forced march.",
+      "baseline_paragraphs": "P80",
+      "baseline_range": [
+        79,
+        80
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "179",
+      "sol": "We had ridden without stopping since leaving the shrine. Dawn had broken, and now the sun hung high overhead. System messages announcing increases to my Strength and Stamina had even appeared twice, so this really had been a forced march.",
+      "sol_paragraphs": "P80",
+      "sol_range": [
+        79,
+        80
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Whew. My butt hurts like hell. If I’d known this would happen, I should’ve been born the son of a coachman instead of a farmer.”",
+      "baseline_paragraphs": "P81",
+      "baseline_range": [
+        80,
+        81
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "181",
+      "sol": "“Whew. My ass is killing me. If I’d known this would happen, I should’ve been born a coachman’s son instead of a farmer’s.”",
+      "sol_paragraphs": "P81",
+      "sol_range": [
+        80,
+        81
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "While the horses rested, Hyuk Mujin dropped heavily to the ground. Since he was the lowest-level member of the group, his exhaustion was obvious.",
+      "baseline_paragraphs": "P82",
+      "baseline_range": [
+        81,
+        82
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "183",
+      "sol": "While the horses rested, Hyuk Mujin dropped heavily to the ground. As the lowest-level member of our group, he was visibly more exhausted than the rest of us.",
+      "sol_paragraphs": "P82",
+      "sol_range": [
+        81,
+        82
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Is it hard?”",
+      "baseline_paragraphs": "P83",
+      "baseline_range": [
+        82,
+        83
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "185",
+      "sol": "“Having a hard time?”",
+      "sol_paragraphs": "P83",
+      "sol_range": [
+        82,
+        83
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Hyuk Mujin wiped the sweat from his forehead with his sleeve before answering.",
+      "baseline_paragraphs": "P84",
+      "baseline_range": [
+        83,
+        84
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "191",
+      "sol": "Hyuk Mujin wiped the sweat from his forehead with his sleeve.",
+      "sol_paragraphs": "P84",
+      "sol_range": [
+        83,
+        84
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“To be honest, it is… But strangely, it’s much better than last time.”",
+      "baseline_paragraphs": "P85",
+      "baseline_range": [
+        84,
+        85
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "193",
+      "sol": "“Honestly, yes… But strangely enough, it’s much better than last time.”",
+      "sol_paragraphs": "P85",
+      "sol_range": [
+        84,
+        85
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You’ve already forgotten? During the scouting mission.”",
+      "baseline_paragraphs": "P87",
+      "baseline_range": [
+        86,
+        87
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "197",
+      "sol": "“You’ve forgotten already? The scouting mission.”",
+      "sol_paragraphs": "P87",
+      "sol_range": [
+        86,
+        87
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Ah, I remember.”",
+      "baseline_paragraphs": "P88",
+      "baseline_range": [
+        87,
+        88
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "199",
+      "sol": "“Ah, right.”",
+      "sol_paragraphs": "P88",
+      "sol_range": [
+        87,
+        88
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I had nearly died after encountering Jopil while carrying out a scouting mission for White Tiger Hall. We’d taken horses with us then, too.",
+      "baseline_paragraphs": "P89",
+      "baseline_range": [
+        88,
+        89
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "201",
+      "sol": "I had nearly died after running into Jopil during a scouting mission for White Tiger Hall. We had taken horses with us then too.",
+      "sol_paragraphs": "P89",
+      "sol_range": [
+        88,
+        89
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Though we ended up abandoning them when the heavy snow came.*",
+      "baseline_paragraphs": "P90",
+      "baseline_range": [
+        89,
+        90
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "203",
+      "sol": "*Though we ended up abandoning them once the blizzard hit.*",
+      "sol_paragraphs": "P90",
+      "sol_range": [
+        89,
+        90
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Remembering the past, I let out a quiet laugh.",
+      "baseline_paragraphs": "P91",
+      "baseline_range": [
+        90,
+        91
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "205",
+      "sol": "The memory drew a quiet laugh from me.",
+      "sol_paragraphs": "P91",
+      "sol_range": [
+        90,
+        91
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What’s wrong?”",
+      "baseline_paragraphs": "P92",
+      "baseline_range": [
+        91,
+        92
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "207",
+      "sol": "“What’s so funny?”",
+      "sol_paragraphs": "P92",
+      "sol_range": [
+        91,
+        92
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I was thinking about you. You mouthed off to me without knowing what you were doing and got the crap beaten out of you.”",
+      "baseline_paragraphs": "P93",
+      "baseline_range": [
+        92,
+        93
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "209",
+      "sol": "“I was thinking about you. You mouthed off to me without knowing any better and got the crap beaten out of you.”",
+      "sol_paragraphs": "P93",
+      "sol_range": [
+        92,
+        93
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Anyway, I’m saying it seems much better than back then.”",
+      "baseline_paragraphs": "P96",
+      "baseline_range": [
+        95,
+        96
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "215",
+      "sol": "“Anyway, I’m saying this feels much easier than it did back then.”",
+      "sol_paragraphs": "P96",
+      "sol_range": [
+        95,
+        96
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Yes. We’ve ridden much farther than during the scouting mission, but I’m not even that tired. Maybe I’m getting used to riding?”",
+      "baseline_paragraphs": "P98",
+      "baseline_range": [
+        97,
+        98
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "219",
+      "sol": "“Yes. We’ve ridden much farther than we did during the scouting mission, but I’m not even that tired. Maybe I’m getting used to riding?”",
+      "sol_paragraphs": "P98",
+      "sol_range": [
+        97,
+        98
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Maybe… Ah, wait.”",
+      "baseline_paragraphs": "P99",
+      "baseline_range": [
+        98,
+        99
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "221",
+      "sol": "“Maybe… Wait a second.”",
+      "sol_paragraphs": "P99",
+      "sol_range": [
+        98,
+        99
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Hm?”",
+      "baseline_paragraphs": "P100",
+      "baseline_range": [
+        99,
+        100
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "223",
+      "sol": "",
+      "sol_paragraphs": "after P99",
+      "sol_range": [
+        99,
+        99
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Something suddenly occurred to me, so I heightened my Qi Sense.",
+      "baseline_paragraphs": "P101",
+      "baseline_range": [
+        100,
+        101
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "225",
+      "sol": "Something occurred to me, and I heightened my Qi Sense.",
+      "sol_paragraphs": "P100",
+      "sol_range": [
+        99,
+        100
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Along with a familiar system notification, a Level Window appeared over Hyuk Mujin’s bewildered face.",
+      "baseline_paragraphs": "P103",
+      "baseline_range": [
+        102,
+        103
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "229",
+      "sol": "With the familiar System notification, a Level Window appeared over Hyuk Mujin’s bewildered face.",
+      "sol_paragraphs": "P102",
+      "sol_range": [
+        101,
+        102
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A breathy sound escaped his open mouth. When had Hyuk Mujin’s Level gotten this high?",
+      "baseline_paragraphs": "P106",
+      "baseline_range": [
+        105,
+        106
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "235",
+      "sol": "A breathy sound escaped my open mouth. When had Hyuk Mujin’s Level gotten this high?",
+      "sol_paragraphs": "P105",
+      "sol_range": [
+        104,
+        105
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Strictly speaking, it wasn’t all that high.*",
+      "baseline_paragraphs": "P107",
+      "baseline_range": [
+        106,
+        107
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "237",
+      "sol": "*Strictly speaking, it wasn’t that high.*",
+      "sol_paragraphs": "P106",
+      "sol_range": [
+        105,
+        106
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But considering that he had been only Level 20 when we first met, calling it astonishing progress wasn’t enough. At this point, it was practically like he had been reborn.",
+      "baseline_paragraphs": "P108",
+      "baseline_range": [
+        107,
+        108
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "239",
+      "sol": "But considering he had been only Level 20 when we first met, even calling it astonishing progress didn’t do it justice. At this point, he was practically a new man.",
+      "sol_paragraphs": "P107",
+      "sol_range": [
+        106,
+        107
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Come to think of it, his Level did seem to keep rising after we first met.*",
+      "baseline_paragraphs": "P109",
+      "baseline_range": [
+        108,
+        109
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "241",
+      "sol": "*Come to think of it, his Level has been rising steadily ever since we met.*",
+      "sol_paragraphs": "P108",
+      "sol_range": [
+        107,
+        108
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It had been the same when we reunited as a scouting unit. Whenever I heightened my Qi Sense from time to time, Hyuk Mujin’s Level had risen by one or two.",
+      "baseline_paragraphs": "P111",
+      "baseline_range": [
+        110,
+        111
+      ],
+      "hunk_id": "H086",
+      "korean_lines": "245",
+      "sol": "It had been the same when we reunited in the scouting party. Every time I heightened my Qi Sense, Hyuk Mujin’s Level seemed to have risen by one or two.",
+      "sol_paragraphs": "P110",
+      "sol_range": [
+        109,
+        110
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And now he was Level 38. In terms of time spent in Murim, he had nearly doubled his Level in only about two months.",
+      "baseline_paragraphs": "P112",
+      "baseline_range": [
+        111,
+        112
+      ],
+      "hunk_id": "H087",
+      "korean_lines": "247",
+      "sol": "Now he was Level 38. In terms of time spent in Murim, he had nearly doubled his Level in just over two months.",
+      "sol_paragraphs": "P111",
+      "sol_range": [
+        110,
+        111
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "With a doubtful heart, I stared intently at Hyuk Mujin.",
+      "baseline_paragraphs": "P114",
+      "baseline_range": [
+        113,
+        114
+      ],
+      "hunk_id": "H088",
+      "korean_lines": "251",
+      "sol": "The possibility made me stare intently at Hyuk Mujin.",
+      "sol_paragraphs": "P113",
+      "sol_range": [
+        112,
+        113
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Judging by how much stronger I was than a Hunter or martial artist of a similar Level, there seemed to be some kind of System enhancement effect…",
+      "baseline_paragraphs": "P117",
+      "baseline_range": [
+        116,
+        117
+      ],
+      "hunk_id": "H089",
+      "korean_lines": "257",
+      "sol": "Considering how much stronger I was than Hunters or martial artists around the same Level, the System did seem to provide some kind of enhancement…",
+      "sol_paragraphs": "P116",
+      "sol_range": [
+        115,
+        116
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*It’s worth trying once.*",
+      "baseline_paragraphs": "P118",
+      "baseline_range": [
+        117,
+        118
+      ],
+      "hunk_id": "H090",
+      "korean_lines": "259",
+      "sol": "*It’s worth a try.*",
+      "sol_paragraphs": "P117",
+      "sol_range": [
+        116,
+        117
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Why are you looking at me like that? Do I have something on my face?”",
+      "baseline_paragraphs": "P119",
+      "baseline_range": [
+        118,
+        119
+      ],
+      "hunk_id": "H091",
+      "korean_lines": "261",
+      "sol": "“Why are you staring at me like that? Is there something on my face?”",
+      "sol_paragraphs": "P118",
+      "sol_range": [
+        117,
+        118
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I grabbed Hyuk Mujin’s shoulder and shouted inwardly.",
+      "baseline_paragraphs": "P122",
+      "baseline_range": [
+        121,
+        122
+      ],
+      "hunk_id": "H092",
+      "korean_lines": "269",
+      "sol": "I grabbed Hyuk Mujin by the shoulder and shouted inwardly.",
+      "sol_paragraphs": "P121",
+      "sol_range": [
+        120,
+        121
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At that very moment—",
+      "baseline_paragraphs": "P124",
+      "baseline_range": [
+        123,
+        124
+      ],
+      "hunk_id": "H093",
+      "korean_lines": "275",
+      "sol": "At that exact moment—",
+      "sol_paragraphs": "P123",
+      "sol_range": [
+        122,
+        123
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What are you doing? My shoulder hurts.”",
+      "baseline_paragraphs": "P125",
+      "baseline_range": [
+        124,
+        125
+      ],
+      "hunk_id": "H094",
+      "korean_lines": "277",
+      "sol": "“What are you doing? You’re hurting my shoulder.”",
+      "sol_paragraphs": "P124",
+      "sol_range": [
+        123,
+        124
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Oh. Okay.”",
+      "baseline_paragraphs": "P126",
+      "baseline_range": [
+        125,
+        126
+      ],
+      "hunk_id": "H095",
+      "korean_lines": "279",
+      "sol": "“Oh. Right.”",
+      "sol_paragraphs": "P125",
+      "sol_range": [
+        124,
+        125
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Nothing happened. I thought at least something would appear.",
+      "baseline_paragraphs": "P127",
+      "baseline_range": [
+        126,
+        127
+      ],
+      "hunk_id": "H096",
+      "korean_lines": "281",
+      "sol": "Nothing happened. I’d thought something might at least pop up.",
+      "sol_paragraphs": "P126",
+      "sol_range": [
+        125,
+        126
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Then again, my main character was still far from reaching the Level cap. Why would my alt character get anything? Still, it was disappointing.",
+      "baseline_paragraphs": "P128",
+      "baseline_range": [
+        127,
+        128
+      ],
+      "hunk_id": "H097",
+      "korean_lines": "283",
+      "sol": "Then again, my main character was still nowhere near the Level cap, so what business did I have raising an alt? It was still disappointing, though.",
+      "sol_paragraphs": "P127",
+      "sol_range": [
+        126,
+        127
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Should I say it out loud?*",
+      "baseline_paragraphs": "P129",
+      "baseline_range": [
+        128,
+        129
+      ],
+      "hunk_id": "H098",
+      "korean_lines": "285",
+      "sol": "*Should I try saying it out loud?*",
+      "sol_paragraphs": "P128",
+      "sol_range": [
+        127,
+        128
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "They would definitely treat me like some kind of weirdo, but it was better than moving on with the feeling of not washing my hands after using the bathroom.",
+      "baseline_paragraphs": "P130",
+      "baseline_range": [
+        129,
+        130
+      ],
+      "hunk_id": "H099",
+      "korean_lines": "287",
+      "sol": "Everyone would definitely think I was a lunatic, but that would be better than moving on with the nagging feeling of leaving the bathroom without washing my hands.",
+      "sol_paragraphs": "P129",
+      "sol_range": [
+        128,
+        129
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I stealthily placed my hand against Hyuk Mujin’s back—lightly, very lightly—and muttered under my breath.",
+      "baseline_paragraphs": "P131",
+      "baseline_range": [
+        130,
+        131
+      ],
+      "hunk_id": "H100",
+      "korean_lines": "289",
+      "sol": "I stealthily laid a hand against Hyuk Mujin’s back—lightly, ever so lightly—and muttered under my breath.",
+      "sol_paragraphs": "P130",
+      "sol_range": [
+        129,
+        130
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Seriously. What is wrong with you today?”",
+      "baseline_paragraphs": "P133",
+      "baseline_range": [
+        132,
+        133
+      ],
+      "hunk_id": "H101",
+      "korean_lines": "293",
+      "sol": "“Seriously, what has gotten into you today?”",
+      "sol_paragraphs": "P132",
+      "sol_range": [
+        131,
+        132
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Ignoring him, I sprang to my feet.",
+      "baseline_paragraphs": "P134",
+      "baseline_range": [
+        133,
+        134
+      ],
+      "hunk_id": "H102",
+      "korean_lines": "295",
+      "sol": "I ignored him and shot to my feet.",
+      "sol_paragraphs": "P133",
+      "sol_range": [
+        132,
+        133
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The system window had appeared with the notification chime I’d been waiting for.",
+      "baseline_paragraphs": "P135",
+      "baseline_range": [
+        134,
+        135
+      ],
+      "hunk_id": "H103",
+      "korean_lines": "297",
+      "sol": "The notification I had been waiting for chimed, and a System Window appeared.",
+      "sol_paragraphs": "P134",
+      "sol_range": [
+        133,
+        134
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "> **System**\n>\n> The Quest condition **Time Limit** has been added.\n>\n> Arrive at the Mount Heng Sword Sect within **22:00:00**. If you are late, there will be no going back.",
+      "baseline_paragraphs": "P138",
+      "baseline_range": [
+        137,
+        138
+      ],
+      "hunk_id": "H104",
+      "korean_lines": "303",
+      "sol": "> **System**\n>\n> The Quest condition **Time Limit** has been added.\n>\n> Arrive at the Mount Heng Sword Sect within **22:00:00**. If you are late, there will be no turning back.",
+      "sol_paragraphs": "P137",
+      "sol_range": [
+        136,
+        137
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "My voice faded. My eyes began to tremble.",
+      "baseline_paragraphs": "P140",
+      "baseline_range": [
+        139,
+        140
+      ],
+      "hunk_id": "H105",
+      "korean_lines": "307",
+      "sol": "My voice died away. My eyes trembled.",
+      "sol_paragraphs": "P139",
+      "sol_range": [
+        138,
+        139
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*A time limit? What kind of time limit is this?*",
+      "baseline_paragraphs": "P141",
+      "baseline_range": [
+        140,
+        141
+      ],
+      "hunk_id": "H106",
+      "korean_lines": "309",
+      "sol": "*A time limit? Why the hell is there a time limit?*",
+      "sol_paragraphs": "P140",
+      "sol_range": [
+        139,
+        140
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Why are you doing this to me?*",
+      "baseline_paragraphs": "P142",
+      "baseline_range": [
+        141,
+        142
+      ],
+      "hunk_id": "H107",
+      "korean_lines": "311",
+      "sol": "*Why are you doing this to me? Seriously.*",
+      "sol_paragraphs": "P141",
+      "sol_range": [
+        140,
+        141
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As I let out a deep sigh, Wolhwa’s eyes widened and she asked,",
+      "baseline_paragraphs": "P143",
+      "baseline_range": [
+        142,
+        143
+      ],
+      "hunk_id": "H108",
+      "korean_lines": "313",
+      "sol": "I let out a deep sigh. Wolhwa’s eyes widened.",
+      "sol_paragraphs": "P142",
+      "sol_range": [
+        141,
+        142
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Young Master Jin, are you hurt?”",
+      "baseline_paragraphs": "P144",
+      "baseline_range": [
+        143,
+        144
+      ],
+      "hunk_id": "H109",
+      "korean_lines": "315",
+      "sol": "“Young Master Jin, are you ill?”",
+      "sol_paragraphs": "P143",
+      "sol_range": [
+        142,
+        143
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“No, it’s not that. Do you know around when we’ll arrive?”",
+      "baseline_paragraphs": "P145",
+      "baseline_range": [
+        144,
+        145
+      ],
+      "hunk_id": "H110",
+      "korean_lines": "317",
+      "sol": "“No, it’s not that. Do you know roughly when we’ll arrive?”",
+      "sol_paragraphs": "P144",
+      "sol_range": [
+        143,
+        144
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Hmm. At today’s pace, before tomorrow evening?”",
+      "baseline_paragraphs": "P146",
+      "baseline_range": [
+        145,
+        146
+      ],
+      "hunk_id": "H111",
+      "korean_lines": "319",
+      "sol": "“Hmm. At this pace, sometime before tomorrow evening?”",
+      "sol_paragraphs": "P145",
+      "sol_range": [
+        144,
+        145
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was a little past noon now. That meant we would have to ride for more than an entire day.",
+      "baseline_paragraphs": "P148",
+      "baseline_range": [
+        147,
+        148
+      ],
+      "hunk_id": "H112",
+      "korean_lines": "323",
+      "sol": "It was a little past noon now. That meant we still had more than a full day’s ride ahead of us.",
+      "sol_paragraphs": "P147",
+      "sol_range": [
+        146,
+        147
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Judging by the Quest Window’s change, it seemed the Red Wind Band bastards would attack the Mount Heng Sword Sect within that time limit…",
+      "baseline_paragraphs": "P149",
+      "baseline_range": [
+        148,
+        149
+      ],
+      "hunk_id": "H113",
+      "korean_lines": "325",
+      "sol": "Judging by the change to the Quest Window, the Red Wind Band bastards would attack the Mount Heng Sword Sect within that time limit…",
+      "sol_paragraphs": "P148",
+      "sol_range": [
+        147,
+        148
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "What was I supposed to do?",
+      "baseline_paragraphs": "P150",
+      "baseline_range": [
+        149,
+        150
+      ],
+      "hunk_id": "H114",
+      "korean_lines": "327",
+      "sol": "What the hell was I supposed to do?",
+      "sol_paragraphs": "P149",
+      "sol_range": [
+        148,
+        149
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Shall we get going soon?”",
+      "baseline_paragraphs": "P151",
+      "baseline_range": [
+        150,
+        151
+      ],
+      "hunk_id": "H115",
+      "korean_lines": "329",
+      "sol": "“Shouldn’t we get going?”",
+      "sol_paragraphs": "P150",
+      "sol_range": [
+        149,
+        150
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The horses are tired. We need to rest for an hour.”",
+      "baseline_paragraphs": "P152",
+      "baseline_range": [
+        151,
+        152
+      ],
+      "hunk_id": "H116",
+      "korean_lines": "331",
+      "sol": "“The horses are exhausted. They need to rest for an hour.”",
+      "sol_paragraphs": "P151",
+      "sol_range": [
+        150,
+        151
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Horses, you’re all right, aren’t you? You heard that, right? They said they’re fine.”",
+      "baseline_paragraphs": "P153",
+      "baseline_range": [
+        152,
+        153
+      ],
+      "hunk_id": "H117",
+      "korean_lines": "333",
+      "sol": "“Horses, you’re fine, aren’t you? You heard them, right? They said they’re fine.”",
+      "sol_paragraphs": "P152",
+      "sol_range": [
+        151,
+        152
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 154,
+  "sol_sha256": "e727a0c848226fbfb117be7a78cd01c1797e31ea466430d0b8b4ae63676bd6d6",
+  "version": 1
+}
