@@ -8,13 +8,13 @@ This was one of them.
 
 The inn fell silent at the sound of its old door opening.
 
-The gazes of the four leaders and of the more than two hundred mounted bandits and nomads—who had been raising their cups in celebration of their plan to turn Shanxi Province upside down—all converged on the entrance.
+The gazes of the four leaders and of the more than two hundred mounted bandits and nomads—who had just been raising their cups in celebration of their plan to turn Shanxi Province upside down—all converged on the entrance.
 
 *Step. Step. Step.*
 
 *What the…?*
 
-Black Sand’s eyes narrowed as he identified the uninvited guest slowly walking toward them.
+Black Sand’s eyes narrowed as he made out the uninvited guest slowly walking toward them.
 
 *What’s with this old man?*
 
@@ -76,7 +76,7 @@ Black Sand’s reaction made the others sense the oddity as well.
 
 Hundreds of mounted-bandit groups and nomadic tribes were scattered throughout the Northern Gaoyuan. Unless someone was exceptionally daring, they would never even consider crossing the plateau alone.
 
-The four men, including Black Sand, fell into thought.
+The four men, Black Sand included, fell into thought.
 
 *Could he be…?*
 
@@ -92,7 +92,7 @@ Then a thread of Sound Transmission slipped into the Human Butcher’s ear.
 
 — I told you to wait. It won’t be too late to act after we observe him a little longer. Haven’t you ever heard that, in the Murim, you should be wary of women, children, and old men?
 
-— You're worrying over nothing. That scrawny old man?
+— You take caution too far. That scrawny old man?
 
 — Don’t act rashly. You never know what might happen in the Murim.
 
@@ -162,7 +162,7 @@ Black Sand answered curtly and began to release the old man’s wrist.
 
 That was when—
 
-“And where the hell is this?”
+“And where is this place?”
 
 The voice was sharp and clear, completely different from before. The old man’s eyes had become focused as he looked around, then he let out a deep sigh.
 
@@ -228,7 +228,7 @@ The old man glanced at Temur and Chinggen, who wore their hair in queues, then s
 
 “Young men, and your foreheads are already completely bare. What a pity.”
 
-No one had the energy to be surprised anymore. In the midst of the atmosphere thick with shock and horror, the old man clicked his tongue, noticed the food laid out in front of the four men, and opened his eyes wide.
+No one had the energy to be surprised anymore. In the midst of the atmosphere thick with shock and horror, the old man clicked his tongue, noticed the food laid out in front of the four men, and his eyes went wide.
 
 “Well, damn, you’ve laid out one hell of a feast. I was hungry, so this is perfect.”
 
@@ -248,7 +248,7 @@ After devouring both legs in the blink of an eye, the old man thrust a piece of 
 
 Everyone in the inn heard the same sound.
 
-It was the sound of the last thread of the Human Butcher’s reason snapping—and the death knell of a man.
+It was the sound of the last thread of the Human Butcher’s reason snapping—and the death rattle of a man.
 
 “You goddamn old bastard!”
 
@@ -378,7 +378,7 @@ For the first time, the Human Butcher’s eyes regained their composure. He star
 
 “There’s no part of a chicken that goes to waste. The meat is delicious, the bones make a fine broth when simmered down, and sometimes they’re even good for wielding Sword Energy.”
 
-Wielding Sword Energy with a chicken bone. The Human Butcher had never seen or heard of such a bizarre sight anywhere.
+Wielding Sword Energy with a chicken bone. No one had ever seen or heard of such a bizarre sight anywhere.
 
 The Human Butcher understood instinctively.
 

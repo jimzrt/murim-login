@@ -8,7 +8,7 @@ This was one of them.
 
 The inn fell silent at the sound of its old door opening.
 
-The gazes of the four leaders and of the more than two hundred mounted bandits and nomads—who had been raising their cups in celebration of their plan to turn Shanxi Province upside down—all converged on the entrance.
+The gazes of the four leaders and more than two hundred mounted bandits and nomads, who had been raising their cups in celebration of their plan to turn Shanxi Province upside down, all converged on the entrance.
 
 *Step. Step. Step.*
 
@@ -24,9 +24,9 @@ But Black Sand had never seen anyone older than the man approaching them now.
 
 *He’s practically a corpse.*
 
-He tottered as though he might collapse at any moment. His wrinkled skin was ice-cold, and the breath escaping his lips was thin and faint.
+His unsteady gait made him look as though he could collapse at any moment. His wrinkled skin was ice-cold, and the breath escaping his lips was thin and faint.
 
-Temur, Chinggen, and the Human Butcher watched him in silence for a while before exchanging a few words.
+Temur, Chinggen, and the Human Butcher watched the old man in silence for a while before exchanging a few words.
 
 “That’s the oldest person I’ve ever seen. He’s older than our tribe’s shaman.”
 
@@ -62,11 +62,11 @@ Anyone who set foot in the Northern Gaoyuan naturally knew the inn existed.
 
 They also knew that an ordinary commoner who entered it would be as good as dead.
 
-“What’s the matter?”
+“What is it?”
 
 “Shh. Wait a moment. Something about this doesn’t feel right.”
 
-Black Sand’s reaction made the others sense the oddity as well.
+Black Sand’s reaction caused the others to sense the oddity as well.
 
 “Come to think of it, how did he get here?”
 
@@ -88,11 +88,11 @@ The four men, including Black Sand, fell into thought.
 
 To the Human Butcher in particular, murder was no different from breathing. As he fearlessly reached for his sword sheath, Black Sand glared at him.
 
-Then a thread of Sound Transmission slipped into the Human Butcher’s ear.
+Then Sound Transmission slipped into the Human Butcher’s ear.
 
 — I told you to wait. It won’t be too late to act after we observe him a little longer. Haven’t you ever heard that, in the Murim, you should be wary of women, children, and old men?
 
-— You're worrying over nothing. That scrawny old man?
+— You’re worrying over nothing. That sickly old man?
 
 — Don’t act rashly. You never know what might happen in the Murim.
 
@@ -162,7 +162,7 @@ Black Sand answered curtly and began to release the old man’s wrist.
 
 That was when—
 
-“And where the hell is this?”
+“Where the hell is this?”
 
 The voice was sharp and clear, completely different from before. The old man’s eyes had become focused as he looked around, then he let out a deep sigh.
 
@@ -172,7 +172,7 @@ It seemed he had finally returned to his senses. Laughter leaked out from variou
 
 Black Sand had completely relaxed as well. He gave a quiet laugh and asked,
 
-“Elder, have you come to your senses now?”
+“Elder, are you feeling better now?”
 
 The old man answered.
 
@@ -184,7 +184,7 @@ The old man answered.
 
 “What are you holding my wrist for? You trying to get fresh with me?”
 
-“H-Hold on.”
+“W-Wait a moment.”
 
 “Are you letting go or not? I’ll count to three. One, two, three.”
 
@@ -220,7 +220,7 @@ Who were Black Sand and the Human Butcher?
 
 They were major figures who dominated the Northern Gaoyuan. Their forces were formidable, but each of them was also a Peak master capable of crushing an average mounted-bandit group with ease.
 
-Yet with a few words, the old man had carved apart the two men who commanded such respect and fear.
+Yet the old man had carved the two men apart with only a few words.
 
 “One’s a sodomite from the Lower District Sect, one grew up without parents and has only half a tongue, and the other two…”
 
@@ -228,17 +228,17 @@ The old man glanced at Temur and Chinggen, who wore their hair in queues, then s
 
 “Young men, and your foreheads are already completely bare. What a pity.”
 
-No one had the energy to be surprised anymore. In the midst of the atmosphere thick with shock and horror, the old man clicked his tongue, noticed the food laid out in front of the four men, and opened his eyes wide.
+No one had the energy to be surprised anymore. In the midst of the atmosphere thick with shock and horror, the old man clicked his tongue and noticed the food laid out in front of the four men.
 
-“Well, damn, you’ve laid out one hell of a feast. I was hungry, so this is perfect.”
+“Well, damn, you’ve laid out one hell of a feast. I was hungry, too. What a stroke of luck.”
 
 No one had time to stop him.
 
 The old man grabbed a well-roasted duck by one leg and ripped into it.
 
-“Wow, look how tender this meat is. It just melts on the tongue. Melts.”
+“Wow, look how tender this meat is. It just melts on the tongue.”
 
-*Chomp, chomp.*
+*Crunch, crunch.*
 
 After devouring both legs in the blink of an eye, the old man thrust a piece of meat toward the Human Butcher, who was trembling with rage and shock.
 
@@ -290,7 +290,7 @@ As everyone had expected, the old man was nowhere to be seen.
 
 The more than two hundred mounted bandits and nomads were whispering among themselves when—
 
-*Munch, munch. Gulp. Ahh.*
+*Crunch, crunch. Gulp. Guh-hup!*
 
 “…”
 
@@ -302,7 +302,7 @@ At first, they were simply dumbfounded.
 
 In an atmosphere like this, what kind of clueless idiot was eating food and drinking liquor?
 
-But it took no more than an instant for question marks to turn into exclamation marks, and dumbfoundedness into horror.
+But it took no more than an instant for their confusion to become astonishment, and their astonishment to become horror.
 
 “T-The old man! The old man is alive!”
 
@@ -314,7 +314,7 @@ Someone shouted.
 
 Then a sharp, clear voice followed, making everyone doubt their own ears.
 
-“Young people these days have no manners, and it’s a real problem. Is my name *old man*? Am I your friend?”
+“Young people these days are a real problem. So rude. Is my name *old man*? Am I your friend?”
 
 “W-Whoa!”
 
@@ -324,11 +324,11 @@ Then a sharp, clear voice followed, making everyone doubt their own ears.
 
 The mounted bandits and nomads filling the inn went flying through the air one after another.
 
-Every one of them was flung away with mangled limbs and smashed faces. The sight made the leaders break into cold sweats.
+Their limbs were mangled and their faces smashed as they were flung away. The sight made the leaders break into cold sweats.
 
 *W-What is this?*
 
-*How on earth is he over there?*
+*How is he over there?*
 
 *I didn’t even see him move.*
 
@@ -378,9 +378,11 @@ For the first time, the Human Butcher’s eyes regained their composure. He star
 
 “There’s no part of a chicken that goes to waste. The meat is delicious, the bones make a fine broth when simmered down, and sometimes they’re even good for wielding Sword Energy.”
 
-Wielding Sword Energy with a chicken bone. The Human Butcher had never seen or heard of such a bizarre sight anywhere.
+He had used a chicken bone to wield Sword Energy.
 
-The Human Butcher understood instinctively.
+The Human Butcher had never seen or heard of anything so bizarre.
+
+He understood instinctively.
 
 *A master. A Supreme Peak master. Someone I could never oppose.*
 
@@ -402,7 +404,7 @@ The Human Butcher suddenly felt a chill. The deadly aura flowing from the old ma
 
 Tears ran down his cheeks. His trousers grew damp, and the horse-chopping sword slipped from his limp hand.
 
-The plea of the Human Butcher, who had spent his entire life taking other people’s lives, was a sight no one could believe.
+The plea of a butcher who had spent his entire life taking other people’s lives was an unbelievable sight.
 
 The old man looked at him for a moment before speaking.
 
