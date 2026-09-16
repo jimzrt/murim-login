@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "It seems he’s on his way to attend a luncheon with the City Lord.",
+      "defect": "The English presents Taekyung as still traveling, while the source says he apparently went to attend the luncheon; the next sentence allows that he may already have arrived.",
+      "id": "F01",
+      "rationale": "간 모양일세 describes his having gone for that purpose, not necessarily being currently en route.",
+      "replacement": "It seems he went to attend a luncheon with the City Lord.",
+      "severity": "minor",
+      "source": "lines 41–43"
+    },
+    {
+      "confidence": 0.98,
+      "current": "the Red Wind Band would have run so fast they’d have left their pants behind.",
+      "defect": "This converts the slang idiom 빤쓰런 into a literal pants-based image and adds unsupported emphasis on running speed.",
+      "id": "F02",
+      "rationale": "빤쓰런 functions as crude slang for hastily fleeing; it does not mean literally outrunning or leaving one’s pants behind.",
+      "replacement": "the Red Wind Band would have turned tail and fled long ago.",
+      "severity": "minor",
+      "source": "lines 179–181"
+    },
+    {
+      "confidence": 0.97,
+      "current": "I heard Cheongpung ask brightly as he walked along with a light step.",
+      "defect": "The English removes the fact that Cheongpung directs the question to Taekyung.",
+      "id": "F03",
+      "rationale": "내게 explicitly marks Taekyung as the person being asked.",
+      "replacement": "Cheongpung, walking with a light step, asked me brightly.",
+      "severity": "minor",
+      "source": "lines 209–211"
+    },
+    {
+      "confidence": 0.93,
+      "current": "a long table like the ones I had only seen in movies set in magic schools",
+      "defect": "The table’s specified physical quality changes from broad or spacious to long.",
+      "id": "F04",
+      "rationale": "넓은 describes breadth or spacious size, not specifically length.",
+      "replacement": "a vast table like the ones I had only seen in movies set in magic schools",
+      "severity": "minor",
+      "source": "lines 297–299"
+    },
+    {
+      "confidence": 0.96,
+      "current": "What a strikingly handsome young man, just as one would expect of a young prodigy of the martial world.",
+      "defect": "The description omits that Taekyung is tall or has an imposing, well-proportioned stature.",
+      "id": "F05",
+      "rationale": "훤칠한 conveys notable height and a fine, well-proportioned appearance, not merely handsomeness.",
+      "replacement": "What a tall, strikingly handsome young man, just as one would expect of a young prodigy of the martial world.",
+      "severity": "minor",
+      "source": "lines 327–329"
+    },
+    {
+      "confidence": 0.99,
+      "current": "He doesn’t particularly look as impressive as the rumors claim…",
+      "defect": "The English generalizes the judgment to Taekyung’s overall appearance, whereas the speaker specifically doubts that his skill is as formidable as rumored.",
+      "id": "F06",
+      "rationale": "실력이 대단해 보이지는 않는데 explicitly makes his ability or skill the object of the assessment.",
+      "replacement": "His skills don’t look quite as impressive as the rumors claim…",
+      "severity": "minor",
+      "source": "lines 351–355"
+    }
+  ],
+  "summary": "The chapter is broadly faithful, with several minor losses or shifts in action, physical detail, and characterization.",
+  "version": 1
+}
