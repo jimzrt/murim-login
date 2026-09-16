@@ -1,6 +1,6 @@
 # Chapter 139
 
-Less than a shichen after the six-horse carriage carrying Jin Taekyung and his group departed, the streets of Taiyuan heated up once again.
+The six-horse carriage carrying Jin Taekyung and his group had been on the road for less than a shichen when the streets of Taiyuan heated up once again.
 
 This time, it was because of the fifty mounted soldiers surrounding the four-horse carriage, as well as the martial artists radiating sharp, piercing gazes.
 
@@ -10,7 +10,7 @@ This time, it was because of the fifty mounted soldiers surrounding the four-hor
 
 “Woooooah!”
 
-“First the Sleeping Dragon of Shanxi, and now the Jin Family of Taiyuan? What a feast for the eyes today!”
+“First the Sleeping Dragon of Shanxi, and now the Jin Family of Taiyuan? My eyes are getting spoiled today.”
 
 Inside the carriage, Jin Wikyung’s ears pricked up at the cheers pouring in from every direction.
 
@@ -24,13 +24,13 @@ Jin Mukyung yawned and nodded.
 
 Wipeng answered with an exasperated expression.
 
-“You don’t care whether I heard it or not. Just say what you want to say.”
+“You don’t care whether I heard it or not. Just say what you wanted to say.”
 
 “Why do you always speak like that? Does it make you feel better?”
 
 “Feel better? I’m about to give myself an ulcer as it is. So what did you want to say?”
 
-“Those people just said Taekyung…”
+“People were saying that Taekyung…”
 
 “Wow. This is driving me insane.”
 
@@ -38,11 +38,11 @@ Jin Wikyung pretended not to hear Wipeng’s muttering and continued.
 
 “It seems he’s on his way to attend a luncheon with the City Lord. He might even have arrived by now.”
 
-“He probably has. It’s just a stone’s throw away.”
+“He probably has. It’s close enough to touch if you fall over.”
 
-“You don’t think anything will happen, do you?”
+“I hope nothing happens.”
 
-“The Third Young Master isn’t some little child left by the water. He’s probably being treated to such a lavish meal that the table legs are breaking. Stop worrying.”
+“The Third Young Master isn’t some little child you’ve left beside a pond. He’s probably being treated to such an extravagant meal that the table legs are breaking. Stop worrying.”
 
 “I don’t know. He’s such a free-spirited child.”
 
@@ -52,11 +52,11 @@ Wipeng’s eyes went round as though he were asking what the hell that was suppo
 
 “Ahem.”
 
-“You could just say you’re worried he’ll cause trouble. Why dress it up like that…?”
+“You could just say you’re worried he’ll cause trouble. Why do you have to dress it up like that…?”
 
 “Shut your mouth.”
 
-“Yes, my lord. I won’t say another word. If you’re really that worried, ask the Second Young Master over there.”
+“Yes, my lord. Then I won’t say anything. If you’re really that worried, ask the Second Young Master over there.”
 
 At Wipeng’s indifferent reply, Jin Wikyung’s gaze shifted slightly to the side.
 
@@ -68,33 +68,33 @@ Jin Mukyung had dismissed his luncheon with the Shanxi City Lord with a single p
 
 “Mukyung, by any chance…”
 
-The answer came before he could finish.
+Before he could finish, an answer came flying back.
 
 “There shouldn’t be any problems.”
 
-Jin Wikyung let out a sigh of relief at the decisive answer, but Jin Mukyung added one more thing.
+Jin Wikyung let out a relieved sigh at the decisive answer, but Jin Mukyung added one more thing.
 
-“As long as he has a strong stomach.”
+“If his stomach can handle it.”
 
-“…A strong stomach? What are you talking about all of a sudden?”
+“…His stomach? What are you talking about all of a sudden?”
 
-This was a meal hosted by a member of the imperial family and the City Lord. Was he saying they might serve food crawling with maggots at such a grand banquet?
+It was a meal hosted by royalty and the City Lord. Was he saying they might serve food crawling with maggots at such a grand banquet?
 
-As Jin Wikyung stared at him in confusion, Jin Mukyung’s face slowly twisted.
+As confusion filled Jin Wikyung’s gaze, he saw Jin Mukyung’s face slowly twist.
 
-“There’s someone there as revolting as a bug.”
+“There’s someone here as disgusting as a bug.”
 
 * * *
 
-The Shanxi Provincial Office, where the City Lord resided, had long since ceased to resemble an ordinary estate.
+The Shanxi Provincial Office, where the City Lord resided, had long since outgrown the shape of an ordinary estate.
 
-The Jin Family of Taiyuan and the Mount Heng Sword Sect, which I had visited not long ago, were both enormous, but they looked laughably small compared to this place.
+The Jin Family of Taiyuan and the Mount Heng Sword Sect, which I had visited not long ago, were both enormous, but compared to this place, they seemed laughably small.
 
-*What am I supposed to call this? A fortress? Or a castle?*
+*What should I call this? A fortress? No, a castle?*
 
 I had known for a long time that the continent operated on a massive scale, but this was beyond anything I had imagined.
 
-Cheongpung, the other young prodigies, and I all gaped as we looked around. The official smiled faintly.
+Cheongpung and the other young prodigies gaped as they looked around. The official gave a small smile.
 
 “What do you think?”
 
@@ -134,11 +134,11 @@ The most surprising thing was the remarkably high quality of the soldiers.
 
 Most of the soldiers standing guard were around Level 20, while the commanders wearing fairly impressive armor were comfortably above First Rate.
 
-*Well, it’s not as if there’s any reason soldiers shouldn’t learn martial arts when they’re readily available.*
+*Well, it’s not as if there’s any reason they shouldn’t learn martial arts when they’re readily available.*
 
 If anything, it would make the army stronger. It was something that ought to be encouraged.
 
-I kept walking while stealing glances at the training grounds.
+I kept walking while glancing toward the training grounds.
 
 *Boom! Boom! Boom!*
 
@@ -164,15 +164,15 @@ That was the terrifying strength of a trained group.
 
 *Make up for inferior quality with numbers and training. Is that it?*
 
-It was exactly what one would expect from a unified empire that had ruled a vast territory for centuries.
+It was just as one would expect from a unified empire that had ruled a vast territory for hundreds of years.
 
-Wasn’t that part of the reason those proud Murim martial artists acknowledged that they were subjects of a Great Nation?
+Wasn’t that part of the reason those proud Murim martial artists acknowledged that they were subjects of a great nation?
 
 And yet…
 
 *What the hell are they keeping all this for? To trade it in for candy?*
 
-There were already more than several hundred soldiers in sight. If even a portion of them had been sent to northern Shanxi, the Red Wind Band would have run so fast they’d have left their pants behind.
+There were already more than several hundred soldiers in sight. If even a portion of them had been sent to northern Shanxi, the Red Wind Band would have made a run for it long ago.
 
 *Fuck. Some of us nearly died going through all that trouble.*
 
@@ -184,7 +184,7 @@ Just as I was cursing them inwardly, the official spoke.
 
 “Well, we’re almost there.”
 
-He was right. A massive iron gate came into view at the end of a long corridor lined with dozens of pillars, drawing anxious sighs from both sides.
+He was right. At the end of a long corridor lined with dozens of pillars, a massive iron gate came into view, and anxious sighs escaped from both sides.
 
 “Phew…”
 
@@ -202,7 +202,7 @@ They say people destined to succeed will succeed, but I had no idea how those tw
 
 Unable to hide my discomfort as a two-star general of the Singles Brigade, I heard Cheongpung ask brightly as he walked along with a light step.
 
-“Is the king in there?”
+“Is the king inside?”
 
 King.
 
@@ -214,7 +214,7 @@ At that single word, the young prodigies of the Five Gates of Shanxi gaped, whil
 
 “Of course he’s a king!”
 
-“Then I was right, wasn’t I?”
+“Then wasn’t I right?”
 
 “No, that’s not what I mean…!”
 
@@ -226,9 +226,9 @@ I wanted neither, so I stepped in to mediate.
 
 “Yes, Benefactor.”
 
-“You can’t call him the king. You have to say ‘His Highness.’ Right?”
+“You can’t call him a king. You have to say ‘His Highness.’ Right?”
 
-I directed the last question at the official. He glared at Cheongpung and nodded furiously.
+The final question was directed at the official. He glared at Cheongpung and nodded furiously.
 
 “Absolutely! You must!”
 
@@ -240,7 +240,7 @@ Cheongpung blinked his clear eyes.
 
 “Why?”
 
-“…Young Master Jin. Do we really have to take this bastard—I mean, this person—with us?”
+“…Young Master Jin. Do we really have to take this fellow—or rather, this person—with us?”
 
 “I don’t mind leaving him out. But are you sure you’ll be all right?”
 
@@ -254,17 +254,17 @@ A moment later, when he spoke again, his face looked ten years older.
 
 Cheongpung beamed.
 
-“Thank you. If there’s time, I’ll put in a good word with the king—I mean, His Highness.”
+“Thank you. If we have time, I’ll put in a good word with the king—or rather, His Highness.”
 
 “Please, just keep that gentleman’s mouth shut.”
 
-While the official rattled off every precaution we needed to take, along with his earnest pleas, we finally reached the iron gate.
+The official proceeded to list every precaution we needed to take, along with his earnest pleas, and we finally reached the iron gate.
 
-The gate was enormous and incredibly thick. Quiet voices drifted from behind it.
+The gate was so enormous and thick that it was almost absurd. From behind it came the sound of quiet voices.
 
 *Assistant Military Commissioner, Huashan, insult?*
 
-Those fragments alone gave me no clue what they were discussing. Still…
+Those fragmentary words alone gave me no clue what kind of conversation was taking place. Still…
 
 *The atmosphere doesn’t seem very good.*
 
@@ -284,33 +284,35 @@ The official gave me one final warning with a worried expression, stealing a sid
 
 “…Ah. Yes.”
 
-He must have been seriously worried.
+He must have been extremely worried.
 
 * * *
 
 The moment we entered, it felt as though my eyes had brightened.
 
-The lavishly decorated grand hall was filled with a long table like the ones I had only seen in movies set in magic schools, along with all kinds of food.
+The lavishly decorated grand hall was filled with a long table like the ones I had only seen in movies set in magic schools, along with every kind of dish imaginable.
 
 And the moment I saw the five people who had arrived ahead of us, only one thought crossed my mind.
 
 *We’re screwed.*
 
-When it came to reading the room, I was second to none. After scraping by as an F-rank Hunter for so long, always watching everyone’s mood, I could size up an atmosphere in 0.1 seconds.
+When it came to reading the room, I was second to none. After spending so long scraping by as an F-rank Hunter, always watching everyone’s mood, I could read the room in 0.1 seconds.
 
-Like right now.
+Just like now.
 
 *What a wonderful atmosphere.*
 
-The air around the five people was pulled taut. I had sensed something was wrong from outside, but it was even worse than I had expected.
+The air around the five people was pulled taut.
 
-It was fortunate everyone was empty-handed given the occasion. If they’d had anything hanging from their waists, swords would already have been drawn.
+I had sensed that something was wrong from outside, but the reality was worse than I had expected.
 
-“Well… Now that our guests have arrived, shall we end this reunion here?”
+It was fortunate that everyone had come empty-handed because of the occasion. If anyone had been carrying so much as a weapon at their waist, someone would have drawn steel on the spot.
 
-A man’s delicate voice broke the tension.
+“Well… Since we have guests, shall we end this reunion here?”
 
-Though was he really a man? He was slender enough to seem like a woman, with a pale face and lips as red as though they had been painted with dye.
+The tense atmosphere was dispersed by a man’s delicate voice.
+
+Though was he really a man? His slender build was delicate enough to make him seem like a woman. His face was pale, and his lips were red as though they had been painted with dye.
 
 > **System**
 >
@@ -318,7 +320,7 @@ Though was he really a man? He was slender enough to seem like a woman, with a p
 
 He smiled at me.
 
-“What a strikingly handsome young man, just as one would expect of a young prodigy of the martial world. I heard a young hero from the Jin Family of Taiyuan would be joining us today. Might that be you…?”
+“You’re a strikingly handsome young prodigy, just as one would expect from the martial world. I heard a young hero from the Jin Family of Taiyuan was coming today. Might that be you…?”
 
 Now was the time for introductions. I performed a fist-and-palm salute toward the five men.
 
@@ -344,19 +346,19 @@ Just as I was engraving his name and Level into my mind, the other three men rea
 
 “He’s young. No, he’s a child.”
 
-“He doesn’t particularly look as impressive as the rumors claim…”
+“He doesn’t look particularly as incredible as the rumors claim…”
 
-Their curious gazes held surprise, a hint of jealousy, and a subtle sense of superiority.
+The gazes fixed on me with apparent curiosity contained surprise, a hint of jealousy, and a subtle sense of superiority.
 
 In situations like this, there was usually no need to ask about the other person’s identity. They were the sort of people desperate to show off.
 
 “Apologies for the late introduction, Junior.”
 
-A sharp-eyed man grinned as he spoke to me. The other two stood with their arms folded, looking at me like I was a cute little chick.
+A sharp-eyed man grinned as he spoke to me. The other two had their arms folded as they looked at me like a cute little chick.
 
 *This is weirdly irritating.*
 
-Who the hell were they to act like my Seniors right off the bat?
+What kind of people acted like my Seniors right off the bat?
 
 My question was answered soon enough.
 
@@ -364,7 +366,7 @@ My question was answered soon enough.
 
 My mouth fell open before I knew it.
 
-“Th-the Zhongnan Sect? *That* Zhongnan Sect?”
+“The Zhongnan Sect? *That* Zhongnan Sect?”
 
 The three men’s faces blossomed with smiles.
 
