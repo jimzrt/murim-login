@@ -614,3 +614,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 그린 와이번 | **Green Wyvern** | Lv. 97 A-Rank monster encountered during the joint raid. |
 | 진우 | **Jinwoo** | Name called out by Im Kkeokjeong during the Wyvern attack. |
 | 소원 | **Sowon** | Name called out by Im Kkeokjeong during the Wyvern attack. |
+| 김종훈 | **Kim Jonghun** | Star Guild Team 1 Leader's personal name. |
+| 오크 | **Orc** | Monster species. |
+| 오크 워리어 | **Orc Warrior** | B-Rank Orc designation. |
+| 블라디미르 스탈린 | **Vladimir Stalin** | Russian jewelry maker named by Team Leader Choi. |
+| 프로즌 아이 | **Frozen Eye** | Necklace worn by Team Leader Choi. |
