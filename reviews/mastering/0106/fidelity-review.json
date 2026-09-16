@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The old pines in the rear courtyard are expensive, so please ask him to be careful while training.",
+      "defect": "The source refers to one specific old pine, not multiple pines.",
+      "id": "F01",
+      "rationale": "노송 and 그거 are singular; this also preserves the baseline’s setup before the later reveal that five trees were cut down.",
+      "replacement": "The old pine in the rear courtyard is expensive, so please ask him to be careful while training.",
+      "severity": "minor",
+      "source": "lines 109–110"
+    },
+    {
+      "confidence": 0.96,
+      "current": "several old pine trees stood neatly severed",
+      "defect": "The translation makes the severed trees remain standing, an unsupported and physically contradictory detail.",
+      "id": "F02",
+      "rationale": "반듯하게 잘려 나간 describes trees that had been cleanly cut down or severed; it does not say they remained standing.",
+      "replacement": "several old pine trees lay neatly severed",
+      "severity": "minor",
+      "source": "line 127"
+    },
+    {
+      "confidence": 1.0,
+      "current": "northern Shanxi, where the Mount Heng Sword Sect’s blockade had kept it relatively weak",
+      "defect": "The binding location term 산서성 has been shortened to “Shanxi.”",
+      "id": "F03",
+      "rationale": "The exact glossary requires 산서성 to be rendered as “Shanxi Province.”",
+      "replacement": "northern Shanxi Province, where the Mount Heng Sword Sect’s blockade had kept it relatively weak",
+      "severity": "minor",
+      "source": "line 65"
+    },
+    {
+      "confidence": 1.0,
+      "current": "all of Shanxi",
+      "defect": "The binding location term 산서성 has been shortened to “Shanxi.”",
+      "id": "F04",
+      "rationale": "The exact glossary requires 산서성 to be rendered as “Shanxi Province.”",
+      "replacement": "all of Shanxi Province",
+      "severity": "minor",
+      "source": "line 67"
+    },
+    {
+      "confidence": 1.0,
+      "current": "central and southern Shanxi",
+      "defect": "The binding location term 산서성 has been shortened to “Shanxi.”",
+      "id": "F05",
+      "rationale": "The exact glossary requires 산서성 to be rendered as “Shanxi Province.”",
+      "replacement": "central and southern Shanxi Province",
+      "severity": "minor",
+      "source": "line 69"
+    },
+    {
+      "confidence": 1.0,
+      "current": "there was hardly anyone in Shanxi who hadn’t heard it",
+      "defect": "The binding location term 산서성 has been shortened to “Shanxi.”",
+      "id": "F06",
+      "rationale": "The exact glossary requires 산서성 to be rendered as “Shanxi Province.”",
+      "replacement": "there was hardly anyone in Shanxi Province who hadn’t heard it",
+      "severity": "minor",
+      "source": "line 171"
+    },
+    {
+      "confidence": 1.0,
+      "current": "one of Shanxi’s most powerful families",
+      "defect": "The binding location term 산서성 has been shortened to “Shanxi.”",
+      "id": "F07",
+      "rationale": "The exact glossary requires 산서성 to be rendered as “Shanxi Province.”",
+      "replacement": "one of Shanxi Province’s most powerful families",
+      "severity": "minor",
+      "source": "line 181"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Other than slightly superior bones, sinews, and meridians—perhaps thanks to his bloodline—there was nothing special about him.",
+      "defect": "The established term 근맥 has been decomposed into ordinary lowercase anatomy instead of retaining its binding rendering.",
+      "id": "F08",
+      "rationale": "The exact glossary binds 근맥 to “Sinews and Meridians”; 근골 is the separate preceding reference represented by “bones.”",
+      "replacement": "Other than slightly superior bones and Sinews and Meridians—perhaps thanks to his bloodline—there was nothing special about him.",
+      "severity": "minor",
+      "source": "line 199"
+    }
+  ],
+  "summary": "The chapter is faithful overall, with one quantity error, one physical-action distortion, and several binding glossary regressions.",
+  "version": 1
+}
