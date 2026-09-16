@@ -602,3 +602,12 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 종훈 | **Jonghun** | Personal name of Star Guild Team 1 Leader. |
 | 블랙 와이번 | **Black Wyvern** | A-Rank Gate monster remembered by Taekyung. |
 | 블랙 와이번의 둥지 | **The Black Wyvern’s Nest** | A-Rank Gate and destination of the joint raid. |
+| 와이번 | **Wyvern** | High-tier dragonkin monster. |
+| 드레이크 | **Drake** | High-tier dragonkin monster. |
+| 용족 | **dragonkin** | Monster classification including wyverns and drakes. |
+| 마지막 잎새 | **The Last Leaf** | Story referenced in Taekyung's comparison. |
+| 만티코어 | **Manticore** | A-Rank Gate monster and original raid target. |
+| 만티코어의 밀림 | **Manticore’s Jungle** | Original joint-raid location. |
+| 예티의 목걸이 | **Yeti’s Necklace** | Cold-producing System Item lent by Won Myunghoon. |
+| 한서불침 | **Unaffected by Cold and Heat** | Condition attributed to Taekyung after opening both vessels. |
+| 상동역 변이 게이트 사건 | **Sangdong Station Mutated Gate incident** | Traumatic Gate incident Taekyung survived three years earlier. |
