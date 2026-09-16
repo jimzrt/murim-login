@@ -8,29 +8,29 @@ The man, Seokchil, was a porter for the Seongun Escort Bureau in southern Shanxi
 
 He had spent more than a day and a half hauling a cart loaded with over a hundred geun of cargo, soaking his entire body in sweat. Whenever he took a brief rest, as he was now, he had to fight against the brutal cold.
 
-“Hyung, leave the cart and hurry over. Come warm yourself by the fire before you freeze to death.”
+“Hyung, hurry up and leave the cart. Come warm yourself by the fire before you freeze to death.”
 
 A fellow porter, already crouched in front of the campfire, called out. Seokchil answered gruffly as he walked over.
 
-“Brat, I have five mouths to feed. I’ve got a long way to go before I can die.”
+“Brat, I have five mouths to feed. I’ve got a long way to go before I’m ready to die.”
 
-“True. You can’t die with a fox of a wife and rabbit-like children waiting for you.”
+“True. You can’t die when you’ve got a fox of a wife and rabbit-like children waiting for you.”
 
-“What fox? She’s a bear. A bear.”
+“What do you mean, fox? She’s a bear. A bear.”
 
-“Were those your last words? If your wife hears you, she’ll wring your neck.”
+“Was that a deathbed confession? If your wife hears you, she’ll wring your neck.”
 
-“You can curse the king behind his back. Didn’t you know?”
+“You can curse the king behind his back. What, you didn’t know that?”
 
 Seokchil moved closer to the campfire.
 
 They used horse manure for firewood, so a foul smell spread in every direction. But after nearly twenty years as a porter, Seokchil was as used to it as he was to the smell of cooking rice.
 
-“Ah, now I feel alive again.”
+“Ah, now I feel like I can live again.”
 
 “But Hyung, aren’t you being a little stingy?”
 
-“Huh? What nonsense are you talking about now?”
+“Huh? What kind of nonsense is this?”
 
 His fellow porter grinned and jerked his chin toward something.
 
@@ -40,11 +40,11 @@ Seokchil, who had been warming his frozen hands, turned his head. At the end of 
 
 *That kid’s doing it again.*
 
-The young man was a new porter they had picked up in Henan. According to Escort Chief Song, who was in charge of this escort run, the young man seemed capable enough to earn his keep, so they had taken him on.
+The young man was a new porter they had picked up in Henan. Escort Chief Song, the person in charge of this escort run, had said that the young man seemed capable enough to earn his keep, so they had taken him on.
 
-*Well, we’re always short on people.*
+*Well, people are always in short supply.*
 
-The problem was that no one could tell what the young man was thinking. He often sat there in a daze, just as he was doing now.
+The problem was that the young man often sat around like this, completely lost in thought, and no one had the slightest idea what was going on inside his head.
 
 As Seokchil clicked his tongue, his fellow porter asked,
 
@@ -54,9 +54,9 @@ As Seokchil clicked his tongue, his fellow porter asked,
 
 “Then what’s the problem?”
 
-“What do you mean, what’s the problem? It’s frustrating to see a young fellow sitting around like that day after day. Back when I was his age…”
+“What do you mean, what’s the problem? It’s frustrating seeing a young fellow sit around like that every day. Back when I was his age…”
 
-“You want to say you dreamed of making your mark on the world and worked hard every day?”
+“You want to say you had dreams of making your mark on the world and worked hard every day?”
 
 “Of course. A man should know how to set a grand goal and move toward it.”
 
@@ -70,13 +70,13 @@ At Seokchil’s furious reaction, his fellow porter quickly changed the subject.
 
 “Cheongpung.”
 
-“Now that’s a fine name. Suits him, too.”
+“Wow, what a great name. It suits him, too.”
 
 “That’s true.”
 
 Seokchil secretly disliked the young man, Cheongpung, but he had to agree completely.
 
-Something about the young man’s open, pleasant features and clear eyes put people strangely at ease and soothed their anger.
+There was something about the young man’s open, gentle features and clear eyes that made people feel strangely at ease and calmed their anger.
 
 “Hey, rookie!”
 
@@ -102,7 +102,7 @@ Cheongpung tilted his head.
 
 “I ate two dumplings this morning.”
 
-“…Sharp ears, huh? Fine, just come sit down.”
+“……You’ve got sharp ears. Fine, just come sit down.”
 
 “Should I?”
 
@@ -124,9 +124,9 @@ The porter turned to Seokchil.
 
 “This guy’s unbelievable.”
 
-“Right? Talking to him makes me feel like I’m going strange, too.”
+“Right? I feel like I’m becoming strange myself whenever I talk to him.”
 
-“How have you put up with him beside you for over a month?”
+“How have you lasted over a month with someone like him beside you?”
 
 “That’s why I stopped talking to him lately. Has it been about three days since our last conversation?”
 
@@ -134,11 +134,11 @@ Cheongpung answered with a serious expression.
 
 “Four days and three shichen.”
 
-“…”
+“……”
 
-“…”
+“……”
 
-The two men barely suppressed the urge to smack him over the head.
+The two men barely managed to suppress their urge to smack Cheongpung over the head.
 
 “So where are you from?”
 
@@ -154,7 +154,7 @@ His unpredictable, bizarre remarks were paired with an innocent smile like a chi
 
 “But you said you lived in the mountains?”
 
-“Just like it sounds. I grew crops and gathered medicinal herbs there from the time I was young. I did all sorts of other things, too.”
+“I mean exactly what I said. I farmed and gathered medicinal herbs in the mountains from the time I was young. I did various other things, too.”
 
 The two men jumped to the conclusion that Cheongpung was from a slash-and-burn farming community.
 
@@ -170,7 +170,7 @@ Could life as a slash-and-burn farmer really be fun? The thought briefly crossed
 
 “Then what made you come down from the mountain?”
 
-“Life there got boring. I wanted to see the world, and there were people I wanted to meet.”
+“Life in the mountains got boring. I wanted to see the world, and there were people I wanted to meet.”
 
 “So that’s why you came to Henan.”
 
@@ -182,13 +182,13 @@ Cheongpung answered with a broad smile.
 
 “Watching people is interesting. Looking at the land and the sky is interesting, too. Thinking is fun.”
 
-To Seokchil, who had spent so many years as a porter, they were all sights he was sick to death of.
+To Seokchil, who had worked as a porter for so many years, these were all sights he was sick to death of seeing.
 
-People worn down by exhaustion and worries about making a living. Damp earth and knife-sharp winds blowing like mad. The only thought filling his head was how much he would be paid for this escort run.
+People worn down by exhaustion and worries about making a living. Damp earth and knife-sharp winds that blew like mad. His mind was filled with only one thought: how much pay he would receive for this escort run.
 
-*Well, he’s still young. That’s why he can say things like that.*
+*Well, he’s still young. That’s the only reason he can say something like that.*
 
-Besides, he had lived in the mountains all his life and came from a slash-and-burn farming community. His attitude was understandable.
+Besides, he had lived in the mountains his entire life and came from a slash-and-burn farming community. It made sense that he would feel this way.
 
 Wouldn’t he learn about the harsh realities of life soon enough and gradually become just like Seokchil as he grew older?
 
@@ -196,11 +196,11 @@ Wouldn’t he learn about the harsh realities of life soon enough and gradually 
 
 Seokchil looked at Cheongpung with a mixture of envy and pity before opening his mouth.
 
-“Just listen to this as nonsense.”
+“Just listen to this as the ramblings of an old man.”
 
-He knew he was meddling where he wasn’t wanted, but he wanted to tell this innocent young man about the realities of life.
+He knew he was meddling where he wasn’t wanted, but he wanted to show this innocent young man the realities of life.
 
-Wasn’t his life too promising to start as a porter and grow old and die as one?
+Wasn’t his life too promising to begin and end as a porter?
 
 “Anything seems worthwhile for a while. But after ten or twenty years, you stop seeing much of a future ahead of you. No matter how hard a porter works or how talented he is, he’s still a porter. You should learn even Third Rate martial arts at a local martial arts academy and start working as an escort. You’d be much better off.”
 
@@ -208,7 +208,7 @@ Cheongpung blinked.
 
 “Oh, really?”
 
-“Not ‘oh, really?’ I’m telling you to do it. You’re a little old to start learning martial arts, but who knows? Maybe you have exceptional martial talent and could become a successful First Rate master.”
+“Not ‘oh, really?’ I’m telling you to do it. You’re a little old to start learning martial arts, but who knows? Maybe you have exceptional talent and could become a successful First Rate master.”
 
 “A First Rate master…”
 
@@ -218,7 +218,7 @@ His fellow porter, who had been listening quietly, clicked his tongue.
 
 “I’m speaking hypothetically. What kind of sense does it make for someone his age to be satisfied with being a porter?”
 
-“Well, you’re right about that. If I were ten years younger, I wouldn’t be doing this either.”
+“Well, you’re right about that. If I were ten years younger, I wouldn’t be sitting here either.”
 
 “See?”
 
@@ -230,7 +230,7 @@ Cheongpung tilted his head.
 
 “A year or two?”
 
-“What? Is that too long? You don’t know how the world works, so I suppose you don’t realize how expensive martial arts academy fees are. Even with the lowest estimate, it’ll take at least a year…”
+“What? Is that too long? You don’t know how the world works, so I suppose you don’t realize that martial arts academy fees aren’t cheap. Even if you take the lowest estimate, it’ll take a year to…”
 
 “No, because I’m going to quit before then.”
 
@@ -246,15 +246,15 @@ Cheongpung smiled brightly.
 
 “I don’t know the way to Shanxi Province. There happened to be an escort run heading to Shanxi, so I asked them to let me tag along.”
 
-“…And?”
+“……And?”
 
 “We’ll reach Taiyuan after one more day, so I was planning to part ways around then.”
 
-Seokchil and the other porter exchanged baffled looks.
+Seokchil and his fellow porter looked at each other with expressions that seemed to ask whether this was some kind of joke.
 
 “What the hell? Didn’t Escort Chief Song say he signed a one-year contract?”
 
-“That’s what I heard, too. That’s why they assigned him to you, the most experienced porter, so he could learn from you.”
+“That’s what I heard, too. That’s why they assigned him to the most experienced porter, so he could learn from him.”
 
 With a confused expression, Seokchil asked Cheongpung,
 
@@ -270,15 +270,15 @@ It was a contract stating that he would work as a porter for the Seongun Escort 
 
 “You can read, right?”
 
-“I finished the Four Books and Three Classics when I was four.[^1]”
+“I finished studying the Four Books and Three Classics when I was four.[^1]”
 
 “Don’t say stupid things like that. Read this part. Yes, that section. Read it aloud, and make sure I can hear you.”
 
-Cheongpung read the section Seokchil indicated in a crisp voice.
+In a clear voice, Cheongpung read the section Seokchil pointed out.
 
-“Once signed, this contract cannot be revoked. In the event of unauthorized departure, the signer shall pay a penalty of fifty silver nyang or provide compensation of equivalent value.”
+“Once signed, this contract cannot be revoked. In the event of unauthorized departure, the signer shall pay a penalty of fifty nyang of silver or provide compensation of equivalent value.”
 
-“You know how much fifty silver nyang is, right? Do you know what ‘compensation of equivalent value’ means?”
+“You know how much fifty nyang of silver is, right? Do you know what ‘compensation of equivalent value’ means?”
 
 Cheongpung thought deeply for a moment, then slapped his forehead.
 
@@ -286,13 +286,13 @@ Cheongpung thought deeply for a moment, then slapped his forehead.
 
 “That’s right, you idiot. Did you think the Escort Bureau was full of nothing but kindhearted saints?”
 
-Seokchil’s blood pressure shot up, making the back of his neck throb. He wanted to crack open the top of the kid’s skull and see what was inside.
+Seokchil’s blood pressure rose, and the back of his neck began to ache. He wanted to split the top of this kid’s skull open and see what was inside.
 
 *How can someone like this even exist? Is it because he only ever lived in the mountains?*
 
 The dangers of transporting goods across the land were beyond imagination. Mounted bandits, river bandits, mountain bandits, every kind of bandit gang imaginable, not to mention interference from competing Escort Bureaus.
 
-Even if they overcame every one of those obstacles, a single natural disaster could doom an escort run.
+Even if they overcame all those obstacles, one encounter with a natural disaster could bring an escort run to failure.
 
 An Escort Bureau was every bit as thorough and hard-edged as most Murim sects, if not more so.
 
@@ -302,9 +302,9 @@ The young fool in front of him knew far too little about the world.
 
 Seokchil spoke, determined to keep the boy from throwing his life away.
 
-“I’m telling you this just in case, so give up any thoughts of running away. Work for a year and think of it as earning money. Understand?”
+“I’m telling you this just in case, so give up on running away right now. Work for a year and think of it as earning money. Understand?”
 
-“A year is too long. I think I can work through tomorrow, though.”
+“A year is too long. I think I can work until tomorrow, though.”
 
 “You little bastard!”
 
@@ -318,29 +318,29 @@ It was just then, as Seokchil was about to snap.
 
 Clink.
 
-The two men’s eyes widened at what Cheongpung held out.
+The two men’s eyes widened when they saw what Cheongpung held out.
 
 The object was shaped like a horse’s hoof and gleamed with a silver light whiter than the snow.
 
-“S-silver yuanbao?”
+“Is that a silver ingot?”
 
 “And there are two of them!”
 
-Two silver yuanbao, each worth fifty silver nyang.
+There were two silver ingots, each worth fifty nyang of silver.
 
-A hundred silver nyang was an enormous sum that an ordinary porter would struggle to earn even after working himself to the bone for ten years.
+A hundred nyang of silver was an enormous sum that an ordinary porter would struggle to earn even after working himself to the bone for ten years.
 
 And yet such a fortune had come from the clothes of a young man from a slash-and-burn farming community.
 
-“H-how…?”
+“H-how?”
 
 “I was given some traveling money when I left home.”
 
-Both men’s mouths fell open at Cheongpung’s innocent reply.
+At Cheongpung’s innocent answer, both men’s mouths fell open.
 
-What kind of family gave their son a hundred silver nyang as traveling money? And judging from the money pouch hanging limp like a bull’s testicles, this didn’t seem to be all he had.
+What kind of family gave their son a hundred nyang of silver as traveling money? And judging from the money pouch hanging limp like a bull’s testicles, this didn’t seem to be all he had.
 
-“At least it looks like this should cover the penalty…”
+“At least it looks like the penalty can be settled with this…”
 
 The two men nodded frantically.
 
@@ -354,25 +354,25 @@ The two men nodded frantically.
 
 “Oh. If that’s what you prefer.”
 
-Cheongpung looked at the two men as if they were strange and handed over the two silver yuanbao.
+Cheongpung looked at the two men as if they were strange and handed over the two silver ingots.
 
 “I’ll be going, then. Please tell them this is the penalty.”
 
-“A-are you giving us both?”
+“A-are you really giving us both?”
 
 “It’s too much…”
 
-“If there’s anything left over, you two can split it. I don’t really know how to spend money. Buy yourselves some warm clothes. Something with expensive fur.”
+“If there’s any left over, you two can split it. I don’t really know how to spend money. Buy yourselves some warm clothes. Something with expensive fur on it.”
 
-“…!”
+“……!”
 
-As Cheongpung slung a bundle over his shoulder and prepared to leave, Seokchil hurriedly called after him.
+As Cheongpung slung a bundle over his shoulder and prepared to leave, Seokchil hurriedly spoke.
 
 “C-could I ask your name?”
 
 “Cheongpung. Until half a month ago, I was from Henan. Last month, I lived in Hubei, and before that, I was in Shaanxi.”
 
-With that, Cheongpung strode off toward Taiyuan.
+After answering, Cheongpung began walking steadily toward Taiyuan.
 
 The sky was blue, and early shoots were already sprouting from the damp earth.
 

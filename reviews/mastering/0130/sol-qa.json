@@ -1,0 +1,39 @@
+{
+  "chapter": 130,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.225,
+    "source_characters": 6091,
+    "source_paragraphs": 192,
+    "translation_characters": 13552,
+    "translation_paragraphs": 191
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "귀가",
+        "preferred": "your family"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "은원",
+        "preferred": "gratitude and grudges"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "갑자",
+        "preferred": "jiazi"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
