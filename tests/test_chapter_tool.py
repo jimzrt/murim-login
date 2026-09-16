@@ -4,8 +4,11 @@ from pathlib import Path
 
 from tools.chapter import chapter_path, extract_chapter, source_chapters, split_bulk
 
+LOCAL_SOURCE = chapter_path(0).is_file()
+
 
 class ChapterSourceTest(unittest.TestCase):
+    @unittest.skipUnless(LOCAL_SOURCE, "local Korean source tree is not present")
     def test_first_and_last_chapter_boundaries(self):
         chapters = source_chapters()
         first = extract_chapter(0)
@@ -15,6 +18,7 @@ class ChapterSourceTest(unittest.TestCase):
         self.assertNotIn("＃1화", first)
         self.assertRegex(last, rf"^\s*＃?{chapters[-1]}화\s*\n")
 
+    @unittest.skipUnless(LOCAL_SOURCE, "local Korean source tree is not present")
     def test_source_contains_every_chapter_once_in_order(self):
         chapters = source_chapters()
         self.assertTrue(chapters)
