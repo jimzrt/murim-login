@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "beat Pung Yang to death with a single blow",
+      "defect": "The established rendering of 일격 was replaced with a synonym.",
+      "id": "F01",
+      "rationale": "The exact glossary binds 일격 to “One Strike.”",
+      "replacement": "beat Pung Yang to death with One Strike",
+      "severity": "minor",
+      "source": "line 51"
+    },
+    {
+      "confidence": 1.0,
+      "current": "You know what our Squad Leader is like.",
+      "defect": "The established title 조장 is incorrectly rendered as “Squad Leader.”",
+      "id": "F02",
+      "rationale": "The exact glossary binds 조장 to “Captain.”",
+      "replacement": "You know what our Captain is like.",
+      "severity": "minor",
+      "source": "line 181"
+    },
+    {
+      "confidence": 0.96,
+      "current": "for remaining unmarried at our age",
+      "defect": "“Our age” incorrectly implies that Taekyung and all three brothers share an age. The Korean refers to the brothers having remained unmarried to their respective current ages.",
+      "id": "F03",
+      "rationale": "이 나이 먹도록 describes how old the Jin brothers have grown without marrying, not a shared age with the narrator.",
+      "replacement": "for remaining unmarried at their ages",
+      "severity": "minor",
+      "source": "line 237"
+    }
+  ],
+  "summary": "The chapter is broadly faithful, with two terminology regressions and one minor continuity error.",
+  "version": 1
+}
