@@ -1,70 +1,70 @@
 # Chapter 109
 
-A messenger eagle.
+A messenger hawk.
 
-I’d heard that even the Jin Family of Taiyuan had only two of these birds. They were so difficult to train that they were used only to deliver important information…
+I’d heard the Jin Family of Taiyuan had only two of them. They were messenger birds, but difficult to train, so they were used only to deliver important information…
 
 *Who sent it?*
 
-Just as I was about to approach the messenger eagle, Wolhwa's voice stopped me.
+Just as I was about to approach the messenger hawk, Wolhwa called out to me.
 
-“You’d better keep your distance. It’s extremely wary. If you try to catch it, Young Master Jin, it’ll fly away.”
+“You’d better keep your distance. It’s a very wary bird. If Young Master Jin tries to catch it, it’ll fly away.”
 
 “Ah, could it be?”
 
-“It’s a messenger eagle from our sect. It’s trained to follow a specific tracking scent.”
+“It’s a messenger hawk sent from our sect. It was trained to follow a specific tracking scent.”
 
-Wolhwa pulled a small pouch from her robes and shook it. The messenger eagle cautiously approached and rubbed its beak against the pouch.
+Wolhwa pulled a small pouch from her robes and shook it. The messenger hawk cautiously approached and rubbed its beak against it.
 
-While it was distracted, a Lower District Sect member who had already slipped outside untied the cylinder bound to its ankle.
+In that moment, a Lower District Sect member who had somehow already slipped outside untied the cylinder from the hawk’s ankle.
 
 “Where’s it from?”
 
-“It was sent to you from the Sakju Branch yesterday, Branch Leader.”
+“A letter sent yesterday from the Sakju Branch to the Branch Leader.”
 
 “Give it to me.”
 
-Wolhwa accepted the letter and read it, her expression turning inscrutable.
+Wolhwa accepted the letter and read it. Her expression turned complicated.
 
-After a moment, her tightly pressed lips parted.
+It took a while before her tightly closed lips finally parted.
 
 “The Red Wind Band Leader… He’s more than I expected.”
 
 “Is this about the Red Wind Band again?”
 
-Wolhwa nodded slightly and handed me the letter.
+Wolhwa gave a small nod and handed me the letter.
 
-She wanted me to read it, so there was no reason to refuse. Jin Mukyung and Hyuk Mujin, who had been hanging back, cautiously leaned in as well.
+There was no reason to refuse when she was telling me to read it. Jin Mukyung and Hyuk Mujin, who had been hesitating nearby, cautiously leaned in as well.
 
-> The Red Wind Band is heading south across Gaoyuan. Their numbers are estimated at approximately two hundred.
+The Red Wind Band is moving south across the plateau. Their numbers are estimated at approximately two hundred.
 
-The meaning of that single terse line was clear.
+The short line made its meaning clear.
 
 “They’re planning to attack the Mount Heng Sword Sect again.”
 
-“There’s no doubt about it. This news is already a day old, so they must have closed the distance by at least that much, if not more.”
+“There’s no doubt about it. This news is already a day old, so they must have narrowed the distance by that much—or more.”
 
 We were currently a day and a half away from the Mount Heng Sword Sect.
 
-As mounted bandits, they would be advancing on their destination at remarkable speed.
+As a mounted-bandit group, they would be advancing toward their destination with exceptional mobility.
 
-“Unfortunately, our branch doesn’t have a proper intelligence network in the north. The one fortunate thing is…”
+“Unfortunately, our branch doesn’t have a proper intelligence network in the northern region. The one fortunate thing is…”
 
-Wolhwa’s gaze shifted toward the Red Wind Band’s mounted bandits. They had lost the will to fight long ago, and they flinched and lowered their heads.
+Wolhwa’s gaze shifted toward the mounted bandits of the Red Wind Band. They had lost the will to fight long ago, and flinched as they lowered their heads.
 
-“We have some valuable sources of information right here. Whether they know anything useful is another matter.”
+“We have valuable sources of information right here. I don’t know whether they have any useful information, though.”
 
-She looked over the mounted bandits, then abruptly pointed at one of them.
+After looking over the mounted bandits, she suddenly pointed at one of them.
 
 “You. Stand up.”
 
-“…M-me?”
+“……M-me?”
 
-The terrified young man rose. He was younger than I had expected. The youngest and weakest of the mounted bandits, he couldn’t even meet Wolhwa’s eyes.
+The man rose with a thoroughly terrified expression. He was younger than I expected. The youngest and weakest of the mounted bandits, he couldn’t even meet Wolhwa’s gaze.
 
 “How old are you?”
 
-“I-I turned twenty this year.”
+“I-I passed twenty this year.”
 
 “Twenty? You’re young. Then again, being young doesn’t stop someone from becoming a mounted bandit.”
 
@@ -86,7 +86,7 @@ Instead of answering, he pulled a small knife from his robes and drove it into t
 
 *Thunk—*
 
-The swift, precise One Strike of a First Rate martial artist split his heart. The young man’s mouth opened and closed soundlessly before he collapsed like a puppet with its strings cut.
+A First Rate martial artist’s fast, precise One Strike split the young man’s heart. He opened and closed his mouth soundlessly before collapsing like a puppet with its strings cut.
 
 *Thud.*
 
@@ -106,35 +106,35 @@ The mounted bandit staggered backward, making a wet, blood-choked sound. He trie
 
 “You only need to remember two things.”
 
-Covered from head to toe in bright-red blood, Wolhwa continued in a dry voice.
+From head to toe, Wolhwa was covered in crimson blood. She continued in a dry tone.
 
 “Answer only what you’re asked, and tell the truth exactly as it is.”
 
-“…!”
+“……!”
 
 In mere moments, we learned everything there was to know about the Red Wind Band.
 
 * * *
 
-Once we realized there wasn’t a moment to lose, we abandoned the carriage and each chose a horse—me, Jin Mukyung, Hyuk Mujin, and Wolhwa.
+Once we learned that every second mattered, we abandoned the carriage and each chose a horse. Me, Jin Mukyung, Hyuk Mujin, and Wolhwa.
 
-Chunsam would take the Five-Colored Ghosts and the surviving mounted bandits to the nearest Lower District Sect branch and report the situation.
+The Lower District Sect member would take the Five-Colored Ghosts and the surviving mounted bandits to a nearby Lower District Sect branch and report what had happened.
 
 “Was that too cruel?”
 
-Wolhwa asked as she saddled her horse. I scratched my chin.
+Wolhwa asked as she lifted a saddle onto her horse. I scratched my chin.
 
 “To be honest, I was a little surprised.”
 
-I’d only ever seen her relaxed and playful, so I had briefly forgotten that she was a martial artist too.
+I had temporarily forgotten because I had only ever seen her relaxed and playful. She was a martial artist too.
 
 *And an experienced one at that.*
 
 How old was Wolhwa, anyway?
 
-I’d never asked, so I couldn’t be sure, but she couldn’t have been over thirty.
+I’d never asked, so I didn’t know for sure, but she couldn’t have been over thirty.
 
-Becoming the Branch Leader in charge of all Shanxi Province at such a young age meant she possessed the decisiveness the position demanded.
+To become the Branch Leader overseeing all of Shanxi at such a young age, she had to possess the decisiveness to match the position.
 
 *Cruel, but effective.*
 
@@ -150,7 +150,7 @@ Driven to the edge of a cliff, they had no choice but to pour out information de
 
 The blood streaming down her belonged to the second mounted bandit she had killed.
 
-As she wrinkled her nose, someone held out a piece of cloth.
+As she wrinkled her nose, someone held out a piece of cloth to her.
 
 “U-use this to wipe it off.”
 
@@ -164,11 +164,11 @@ At the reactions from Wolhwa, me, and Hyuk Mujin, Jin Mukyung cleared his throat
 
 “I thought you might need it.”
 
-“Thank you, Young Hero Jin. This is exactly what I needed.”
+“Thank you, Young Hero Jin. I needed it.”
 
 “It’s nothing.”
 
-He said that, but he looked awfully pleased with himself.
+His expression, however, looked quite pleased.
 
 *No way. Is he…*
 
@@ -178,19 +178,19 @@ There was always at least one guy like that wherever you went. Even the Heaven S
 
 After wiping away the blood, Wolhwa pulled a rolled-up piece of leather from her robes and spread it out.
 
-This is a rough map covering all of Shanxi Province. We're here. The Red Wind Band has probably… If they've been moving without rest, they may already have broken through Datong.
+“This is a rough map of the entire Shanxi region. Our location is here. The Red Wind Band has probably… If they’ve been moving without rest, they may have already broken through Datong.”
 
 “They’re faster than us.”
 
-“By half a day, for now. But the official roads along our route are well maintained. If we ride day and night, we should be able to close the gap.”
+“By half a day for now. But the roads along our route are well maintained, so if we ride day and night, we can narrow the gap enough.”
 
-In short, we shouldn’t expect any rest.
+In short, she was telling us not to expect any rest.
 
-I followed the others and vaulted into the saddle.
+I followed the others and leaped onto my saddle.
 
-*Why does trouble always break out the moment I arrive?*
+*Why does something always happen the moment I arrive?*
 
-I sighed inwardly, but what could I do? This wasn't my first hardship—or my second. By now I just had to accept it.
+I wanted to sigh, but what could I do? It wasn’t as though this was my first hardship—or my second. I’d just have to accept it.
 
 *Wasn’t this supposed to be a really simple Quest?*
 
@@ -200,9 +200,9 @@ I sighed inwardly, but what could I do? This wasn't my first hardship—or my se
 >
 > Quest difficulty has changed to **Peak**.
 
-“…”
+“……”
 
-Right. Not anymore, I guess.
+Right. I guess it wasn’t simple anymore.
 
 * * *
 
@@ -216,17 +216,17 @@ He was a man who resembled a fox. His pointed chin and ears, along with his shar
 
 Smoke billowed from a large manor, accompanied by screams.
 
-Pung Yang, the Red Wind Band Leader, sat astride his horse atop a hill and watched the scene below. He didn’t speak until the manor had fallen silent.
+The man sitting on horseback and gazing down from the hill was Pung Yang, the Red Wind Band Leader. He didn’t speak until the manor had fallen silent.
 
 “Is it over?”
 
-A mounted bandit who had just ridden up the hill to report answered him.
+A mounted bandit who had just climbed the hill to deliver his report answered.
 
 “We killed all the men and gathered the women and children together.”
 
 “Why?”
 
-“Pardon? Why, it’s the tradition of Gaoyuan…”
+“Pardon? Why, because it’s the plateau’s tradition, of course…”
 
 Any male taller than a cartwheel—even a child—was killed without mercy, while the women were taken or sold as slaves. It was a tradition—or something close to one—passed down from the nomads.
 
@@ -238,11 +238,11 @@ The mounted bandit approached hesitantly and asked carefully,
 
 “Leader, did I perhaps make some serious mistake…”
 
-“Who were you with before?”
+“Where did you belong before?”
 
-“Until recently, I was the deputy leader of the Earth Tiger Band.”
+“Until recently, I was the deputy leader of the Toho Band.”
 
-“The Earth Tiger Band? Ah, I remember. You were their deputy leader.”
+“The Toho Band? Ah, I remember. You were their deputy leader.”
 
 “Y-yes! I was so impressed by your formidable martial arts and noble character that I swore to become your loyal subordinate!”
 
@@ -256,7 +256,7 @@ All he remembered was killing a piece of trash in a single strike—the man who 
 
 “Not at all! It’s an honor!”
 
-“Still, whatever the Earth Tiger Band may have been like, things are different in the Red Wind Band. Petty matters like the traditions of Gaoyuan, for instance.”
+“However, the Earth Tiger Band may have been different. The Red Wind Band has its own way. Those petty matters about plateau traditions, for example.”
 
 “Ah, I didn’t realize.”
 
@@ -264,9 +264,9 @@ All he remembered was killing a piece of trash in a single strike—the man who 
 
 “I’ll keep that in mind—over and over again!”
 
-“Those fellows probably followed Gaoyuan’s traditions because they didn’t know any better. They all joined recently, just like you. Would you go and tell them what I want?”
+“Those fellows probably followed the plateau’s traditions because they didn’t know any better. They all joined recently, just like you. So go and convey my wishes to them, will you?”
 
-“Your command is my law. I won’t leave a single one alive.”
+“Understood. I won’t leave a single one alive.”
 
 The mounted bandit even gave an awkward military salute, though there was nothing military about a mounted bandit. Pung Yang waved him away.
 
@@ -276,15 +276,15 @@ The mounted bandit even gave an awkward military salute, though there was nothin
 
 Pung Yang watched him ride away, then suddenly flicked his sleeve.
 
-*Whoosh!*
+With a sharp sound as the air split, a streak of light shot out and pierced its target ten jang away—about thirty meters.
 
-A streak of light split the air and pierced its target ten jang—about thirty meters—away.
+*Thud!*
 
-*Thnk! Thud.*
+*Clatter.*
 
-The horse kept galloping.
+The horse continued racing forward.
 
-It had no idea that its rider was already dead, his foot caught in the stirrup and his body being battered to pieces against the ground.
+Its rider was already dead, but his foot remained caught in the stirrup. Unaware that his body was being dragged and battered to shreds, the horse galloped on.
 
 “Go and tell them. There are no prisoners. Kill them all and burn the place.”
 
@@ -292,13 +292,13 @@ It had no idea that its rider was already dead, his foot caught in the stirrup a
 
 Not long after Pung Yang’s subordinate departed, the entire manor was engulfed in flames. As he watched the signboard burn away in an instant, a faint smile touched the corners of his mouth.
 
-Mount Heng Sword Sect, Datong Branch.
+The Datong Branch of the Mount Heng Sword Sect.
 
-It was the moment the Red Wind Band crossed Gaoyuan once more.
+The moment the Red Wind Band crossed the plateau once more.
 
 * * *
 
-The messenger’s report left the people arguing in the spacious main hall breathless.
+The people gathered in the spacious main hall had been arguing back and forth when the messenger’s report left them speechless.
 
 “They’ve broken through Datong!”
 
@@ -306,7 +306,7 @@ The messenger’s report left the people arguing in the spacious main hall breat
 
 “What about the Datong Branch? What happened to the men who went out to stand guard?”
 
-“Wiped out. They were all wiped out. The Datong Branch was reduced to ashes, and there wasn’t a single survivor.”
+“Everyone was wiped out. Everyone. The Datong Branch was reduced to ashes, and there were no survivors.”
 
 “What?”
 
@@ -336,13 +336,13 @@ They were squad leaders, hall leaders, and pavilion leaders of the great Mount H
 
 There had been a time when he had desperately wanted to rise to that position. Once upon a time, that was.
 
-To hell with the great Mount Heng Sword Sect. What good is a promotion now, with the sect in this state?
+*To hell with being a commander of the Mount Heng Sword Sect. What good is a promotion now, with the sect in this state?*
 
-*We were already on the verge of collapse, and now a mounted-bandit group has come to raise hell. Let’s see… If we scrape together everyone we have left, we might reach a hundred.*
+*We were already doomed if left alone, and now a mounted-bandit group has come to make a mess of everything. Let’s see… If we scrape together every man we have left, there might be a hundred of them.*
 
 The war with the Jin Family of Taiyuan had cost them nearly eighty percent of their strength.
 
-They had lost the elite martial artists they had painstakingly trained and the seasoned senior figures who had weathered countless trials in the martial world. Most painful of all was the loss of the Peak masters who embodied the sect’s power—and of its financial resources.
+The loss of the elite martial artists they had painstakingly trained and the seasoned senior figures who had weathered the martial world was painful enough. Most devastating of all was the loss of the Peak masters who represented the sect’s power—and its financial resources.
 
 “Damn it. If only the Sect Leader were still alive.”
 
@@ -352,7 +352,7 @@ But the Blood Wolf Sword, Lee Cheonbaek, was already dead. Of his bloodline, onl
 
 “To think we have to serve some little girl who isn’t even twenty as Sect Leader at a time like this.”
 
-The moment someone spat out those words in anger—
+At that moment, someone spat out the words in a fit of anger.
 
 *Boom!*
 
