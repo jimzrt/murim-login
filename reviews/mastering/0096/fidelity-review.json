@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Except I can never go home.",
+      "defect": "“Never” makes the inability permanent, while the source refers to his ongoing inability to get home because of work.",
+      "id": "F01",
+      "rationale": "집에 못 들어가는 것만 빼면 describes his current work situation without an absolute temporal claim.",
+      "replacement": "Except I can’t go home.",
+      "severity": "minor",
+      "source": "line 9"
+    },
+    {
+      "confidence": 0.97,
+      "current": "The two men in the room—and even the Security Team Leader, who had been snoring in the next room—bolted upright.",
+      "defect": "The translation assigns male gender to both people in the room, while the source says only “two people.”",
+      "id": "F02",
+      "rationale": "두 사람 is gender-neutral, and the source does not identify the colleague’s gender here.",
+      "replacement": "The two people in the room—and even the Security Team Leader, who had been snoring in the next room—bolted upright.",
+      "severity": "minor",
+      "source": "line 37"
+    },
+    {
+      "confidence": 0.94,
+      "current": "The next moment, a kitten lying beneath a car snapped its eyes open.",
+      "defect": "The kitten’s prone posture is omitted.",
+      "id": "F03",
+      "rationale": "엎드려 있던 specifically states that the kitten was lying face-down or prone beneath the car.",
+      "replacement": "The next moment, a kitten lying prone beneath a car snapped its eyes open.",
+      "severity": "minor",
+      "source": "line 93"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Whoever was controlling it clearly knew how to work a club.",
+      "defect": "“Work a club” does not preserve the joke that the caster seems experienced at flirting or picking people up in nightclubs and can instead suggest operating or working at a club.",
+      "id": "F04",
+      "rationale": "클럽에서 좀 놀아 본 솜씨 jokingly likens the cat’s full-body rubbing to the practiced moves of an experienced clubgoer.",
+      "replacement": "Whoever was controlling it clearly knew their way around a nightclub.",
+      "severity": "minor",
+      "source": "line 119"
+    },
+    {
+      "confidence": 0.99,
+      "current": "It had understood me, and it would still be sitting here even if several hours passed.",
+      "defect": "The translation invents a sitting posture that the source does not specify.",
+      "id": "F05",
+      "rationale": "이 자리에 있을 states only that the cat would remain in that spot.",
+      "replacement": "It had understood me, and it would still be here even if several hours passed.",
+      "severity": "minor",
+      "source": "line 215"
+    },
+    {
+      "confidence": 0.91,
+      "current": "The Guild Master had given them a special warning about the target.",
+      "defect": "“Warning” overstates the Guild Master’s communication as an explicit caution.",
+      "id": "F06",
+      "rationale": "특별히 언질한 means that the Guild Master had specially mentioned or tipped them off about something, without explicitly characterizing it as a warning.",
+      "replacement": "The Guild Master had specifically mentioned something about the target.",
+      "severity": "minor",
+      "source": "line 347"
+    }
+  ],
+  "summary": "The chapter is largely faithful, with several minor fidelity issues involving temporal scope, ambiguity, physical detail, joke logic, and register.",
+  "version": 1
+}
