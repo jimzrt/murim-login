@@ -4,19 +4,19 @@
 
 “You could quit being a Hunter and become a mukbang streamer.”
 
-I finished my meal amid Mom’s concern and Hayeon’s admiration.
+I finished my meal to Mom’s concern and Hayeon’s amazement.
 
 By then, I had polished off five heaping bowls of rice, an entire pot of cheonggukjang, and dozens of kimchi pancakes.
 
-“Whew. I’m finally starting to feel full.”
+“Whew. Now I’m starting to feel full.”
 
 “……You’re insane. How much do you normally eat?”
 
-“If it’s tasty, it just keeps going in.”
+“If the food’s good, I can eat forever.”
 
 I had always eaten a lot, but never this much.
 
-Maybe it was because my metabolism and internal organs had improved beyond comparison. These days, I could put even professional food fighters to shame.
+Maybe it was because my metabolism and internal organs had improved beyond comparison. These days, I could put most professional eaters to shame.
 
 “Maybe I really should become a mukbang streamer.”
 
@@ -40,7 +40,7 @@ Hayeon shook her head in disbelief and put down her spoon. I sneaked a look into
 
 “Yeah. I took the medicine they prescribed too.”
 
-I stared at Hayeon in silence. Her face was flushed, and beads of sweat dotted her forehead. She had left school early, then stubbornly tried to study anyway. It looked like her fever had risen even higher than before.
+I studied Hayeon in silence. Her face was flushed, and beads of sweat dotted her forehead. She had left school early, then stubbornly tried to study anyway. It looked like her fever had risen since earlier.
 
 *The medicine doesn’t seem to be doing much.*
 
@@ -48,17 +48,17 @@ Honestly, there was a much simpler way to cure an illness.
 
 She could be treated by a professional healer or drink one of the potions sold on the market. But most ordinary people avoided both because of the cost.
 
-*What a fool.*
+*Stubborn fool.*
 
-The reason I had worked nonstop was so my family could live safely, happily, and without getting sick.
+I had worked myself to the bone because I wanted my family to live safely, happily, and in good health.
 
-Even though I knew why they couldn’t spend money so easily, I couldn’t help feeling frustrated. How much could one lousy potion cost?
+I knew why they couldn’t bring themselves to spend the money so easily, but it was still frustrating. How much could one lousy potion cost?
 
-*At the very least, circulating qi once would make her feel much better… Huh?*
+*Hell, circulating her qi just once would make her feel much better… Wait.*
 
-A thought suddenly flashed through my mind, and I stopped.
+A thought struck me, and I froze.
 
-*Wait. Could this actually work?*
+*Hold on. Could this work?*
 
 “Give me your hand for a second.”
 
@@ -68,13 +68,13 @@ A thought suddenly flashed through my mind, and I stopped.
 
 Hayeon looked me up and down as though she had discovered some rare creature.
 
-“What is happening here? Why are you being so gross?”
+“What is happening right now? Why are you acting so creepy?”
 
-“You’d rather die than listen to a word I say.”
+“You’d rather die than listen to me, wouldn’t you?”
 
 I grabbed her hand.
 
-“We’re siblings, okay?”
+“We’re siblings, remember?”
 
 “Stop talking nonsense.”
 
@@ -84,9 +84,9 @@ More carefully than ever, I drew up my internal energy. Slowly—very slowly—I
 
 Hayeon cried out. She had clearly noticed the strange sensation caused by my internal energy.
 
-For a moment, I worried it might scatter, but the Jin Family’s Cultivation Technique had already reached a realm stage. It obeyed my control without resistance, even inside someone else’s body.
+For a moment, I worried it might scatter, but the Jin Family’s Cultivation Technique had already reached a high enough realm stage that it obeyed my control even inside someone else’s body.
 
-*This much should be enough.*
+*This should be enough.*
 
 The trial run was over. Now came the real test.
 
@@ -96,7 +96,7 @@ Normally, that would have been as easy as breathing. Hayeon’s body, however, w
 
 *This might be tough.*
 
-Even if I separated the modern world and the Murim and considered them independently, I possessed a body far beyond that of an ordinary person.
+Whether I compared myself to people in the modern world or the Murim, my body far surpassed that of any ordinary person.
 
 Hayeon, on the other hand, was an ordinary high school student. It was only natural that nineteen years’ worth of waste had accumulated inside her.
 
@@ -110,21 +110,21 @@ I also remembered to warn Hayeon in case anything went wrong.
 
 “What? What are you doing?”
 
-“Hmm. I suppose you could call it a particularly stable form of traditional Korean medicine.”
+“Hmm. I guess you could call it an extremely safe form of traditional Korean medicine.”
 
 Mom’s eyes widened as she washed the dishes.
 
 “Oh my, traditional medicine? You know how to do that too?”
 
-“I just learned a little.”
+“I learned a little.”
 
 “That’s wonderful. Give it a try.”
 
-Hayeon, on the other hand, looked less than enthusiastic.
+Hayeon, on the other hand, looked doubtful.
 
 “Why traditional medicine? I’m not really into that stuff.”
 
-“Then trust me and put up with it for a little while.”
+“Just trust me and put up with it for a little while.”
 
 “Mom, thank you for raising me all these years. Your useless daughter is leaving this world without ever repaying you.”
 
@@ -132,7 +132,7 @@ Hayeon, on the other hand, looked less than enthusiastic.
 
 *What the hell, you little shit?*
 
-I almost lost control of my internal energy. I could run around for an hour without sweating a drop, but I was starting to feel a little hot now.
+I nearly lost control of my internal energy. I could run around for an hour without sweating a drop, yet somehow it was getting warm in here.
 
 “I’m kidding. It’s not like you’d do anything bad to your only little sister, right?”
 
@@ -140,11 +140,11 @@ I almost lost control of my internal energy. I could run around for an hour with
 
 “Okay.”
 
-I took a deep breath. From this moment on, I was going to clean out Hayeon’s acupoints.
+I took a deep breath. I was about to clean out Hayeon’s acupoints.
 
-The cleaner was me.
+I was the cleaner.
 
-The broom was fifteen years of internal energy.
+Fifteen years of internal energy was my broom.
 
 “Ready?”
 
@@ -156,7 +156,7 @@ The moment I answered, I sent my internal energy flowing.
 
 *Whooosh.*
 
-A wave of gentle yet powerful internal energy began sweeping through the minor meridians throughout Hayeon’s body, washing away the waste that had built up inside her…
+A gentle yet powerful wave swept through the minor meridians across Hayeon’s body, washing away the waste that had accumulated inside her…
 
 * * *
 
@@ -185,7 +185,7 @@ The Jin Family’s Cultivation Technique accumulated internal energy slowly, but
 
 The fact that she called me Oppa so naturally showed how surprised she was. I wiped away the sweat brought on by the tension and answered.
 
-“I told you. It’s a stable traditional medicine treatment.”
+“I told you. It’s a safe traditional medicine treatment.”
 
 “That worked just from holding my hand?”
 
@@ -203,7 +203,7 @@ Hayeon furrowed her brow, then summed it up in a single phrase.
 
 *That sounds pretty accurate to me.*
 
-In any case, seeing how much better her complexion looked made all the effort worthwhile. I let out a short laugh and said,
+In any case, seeing how much better she looked made it worth the effort. I let out a quiet laugh.
 
 “Yeah. Now go wash up.”
 
@@ -213,11 +213,11 @@ In any case, seeing how much better her complexion looked made all the effort wo
 
 “I washed this morning. What smell are you talking abou—Aagh!”
 
-Hayeon realized that a terrible stench was radiating from her own body, grabbed her nose, and began making a huge fuss.
+Hayeon finally noticed the awful stench coming from her body. She clapped a hand over her nose and started making a scene.
 
 *It’s only natural.*
 
-Where else would the waste inside her body go? It had to come out somehow. Through sweat, for example, or maybe…
+Where else would all the waste inside her go? It had to leave her body somehow. Through sweat, for example, or…
 
 *Grrrble. Pffft.*
 
@@ -231,7 +231,7 @@ At this point, I had to wonder if she had actually crapped herself.
 
 “Ugh.”
 
-As if the sweat soaking her body wasn’t enough, her stomach began sending strange signals. Hayeon practically crawled to the bathroom, while Mom stood there with her mouth hanging open.
+As if the sweat soaking her body wasn’t enough, her stomach began sending ominous signals. Hayeon practically crawled to the bathroom while Mom stared after her, mouth agape.
 
 “My goodness.”
 
@@ -239,11 +239,11 @@ As if the sweat soaking her body wasn’t enough, her stomach began sending stra
 
 “It certainly is. I went to a traditional medicine clinic a few times when I was young, but this is incredible.”
 
-“I learned properly. If you ever want to go to a traditional medicine clinic, just come to me. You can do it right now, if you want.”
+“I had a good teacher. If you ever feel like going to a traditional medicine clinic, just come to me instead. You could even try it right now.”
 
 “Should I? Come to think of it, I’ve been having trouble digesting lately…”
 
-Mom smiled brightly and held out her hand.
+Mom smiled and held out her hand.
 
 That was when—
 
@@ -253,9 +253,9 @@ That was when—
 
 “…….”
 
-Mom quietly withdrew her hand.
+Mom slowly withdrew her hand.
 
-“……Should we start when Hayeon comes out?”
+“……Shall we start after Hayeon comes out?”
 
 “……Yes.”
 
@@ -265,7 +265,7 @@ Our house had only one bathroom.
 
 *Whooosh.*
 
-Some time after the sound of the toilet flushing, Mom emerged with the most refreshed expression in the world.
+Not long after the toilet flushed, Mom emerged from the bathroom looking more refreshed than I had ever seen her.
 
 “How do you feel?”
 
@@ -285,17 +285,17 @@ Hayeon stared at me in wonder. As soon as she had emerged from the bathroom, she
 
 “A healer? No. I just happened to learn it.”
 
-“Which traditional medicine clinic did you learn it at? If it’s nearby, I’ll go there too.”
+“Which traditional medicine clinic taught you? If it’s nearby, I want to go too.”
 
-“……You’d be in big trouble if you went there.”
+“……You’d be in serious trouble if you went there.”
 
 “Why?”
 
-“You don’t need to know. Just know that there are lots of scary men there.”
+“You don’t need to know. Just remember that there are a lot of scary men there.”
 
-“Do they stick the needles in painfully?”
+“Are they rough with the needles?”
 
-“……They do tend to.”
+“……You could say that.”
 
 *What kind of face would she make if she knew those “needles” were actually knife stabs?*
 
@@ -303,17 +303,17 @@ I pushed Hayeon away as she kept peppering me with questions and slipped a hand 
 
 *Open Inventory.*
 
-A translucent inventory window appeared along with the familiar System notification.
+A translucent Inventory Window appeared with the familiar System notification.
 
-If I had been in the Murim, it would have been packed with the spoils I had obtained after defeating Jopil and various weapons.
+If I had been in the Murim, it would have been packed with the spoils I had taken from Jopil and all kinds of weapons.
 
 But this was reality.
 
-*It would be nice if the inventories were integrated.*
+*It would be nice if the inventories were connected.*
 
 The more I thought about them being separate, the more disappointing it seemed.
 
-Taking just a few high-grade potions to the Murim would be no different from bringing along a few extra lives.
+If I could take even a few high-grade potions into the Murim, it would be like carrying several extra lives with me.
 
 *Well, I guess I should be satisfied that leveling up restores me to some extent.*
 
@@ -330,7 +330,7 @@ I clicked my tongue inwardly and pulled my hand from my pocket. Two small bottle
 > - **Description:** A liquid infused with weak healing magic. Readily available on the market.
 > - **Effect:** Restores the body when consumed. The effect is minimal.
 
-They had been issued as raid supplies yesterday. Since I had no particular use for them, I had put them in my Inventory and left them untouched.
+They had been issued as raid supplies yesterday. Since I hadn’t needed them, I had stored them in my Inventory untouched.
 
 *Technically, I’m supposed to return them.*
 
@@ -340,15 +340,15 @@ Even lesser potions cost more than 200,000 won apiece. Employers generous enough
 
 “Huh? It’s a potion.”
 
-“Why go as far as using a potion? I’m perfectly fine now.”
+“Why waste potions on us? I already feel perfectly fine.”
 
-“I’m worried there might be side effects. If you don’t drink it now, it’ll cost you more later.”
+“I’m worried there might be side effects. If you don’t drink it now, it could cost even more later.”
 
 In truth, I was only offering them as a tonic. Circulate Qi for Healing had no side effects.
 
 “Drink up. You too, Hayeon.”
 
-Mom hesitated, then took hers first. Hayeon cautiously took her cue from Mom and followed suit.
+Mom hesitated before drinking hers. Hayeon watched her, then followed suit.
 
 *Gulp. Gulp.*
 
@@ -358,27 +358,27 @@ Hayeon downed hers in one shot and tilted her head.
 
 “Maybe I feel a little stronger. Or maybe not. How should I know? It’s not like I’ve ever had a potion before.”
 
-“I guess I don’t really know either.”
+“I can’t really tell either.”
 
-“You’ll definitely notice the effect when you’re tired or sick. I’ll buy a box and keep it here, so drink one whenever that happens.”
+“You’ll definitely feel the difference when you’re tired or sick. I’ll buy a box to keep at home, so drink one whenever you need it.”
 
 “A box? How many come in a box?”
 
-“Fifty, if you buy the large one?”
+“Fifty, if I buy a large one.”
 
 “They’re about 200,000 won each, so fifty would be… ten million won? Oppa, are you insane?”
 
 Hayeon smacked my forearm.
 
-“Just because you made some money this time, are you really going to spend it so recklessly? If you keep overspending like that, that 300 million won will disappear in no time.”
+“Just because you made some money this time doesn’t mean you should spend it like crazy. If you keep wasting money like that, your 300 million won will disappear in no time.”
 
 “It’s fine. I’ve been making good money lately.”
 
 “I looked it up online. Once you become a C-rank Hunter, you have to replace your equipment and everything, right? They said you can blow through hundreds of millions like it’s nothing.”
 
-“I told you, it’s fine. I made four billion won yesterday, too.”
+“I told you, it’s fine. I made four billion won yesterday.”
 
-“If you have four billion won, then spending like this… Wait. How much did you say?”
+“Even if you had four billion won, you shouldn’t throw money around like—wait. How much did you say?”
 
 “Four billion won.”
 
@@ -386,7 +386,7 @@ Hayeon smacked my forearm.
 
 Hayeon went completely rigid.
 
-She stared blankly at me, then turned toward Mom.
+She stared blankly at me, then turned to Mom.
 
 “Mom, Oppa says he made four billion won.”
 
@@ -408,4 +408,4 @@ Determination filled Hayeon’s eyes.
 
 “…….”
 
-*Didn’t you say there was no end to learning?*
+*Weren’t you the one who said there was no end to learning?*

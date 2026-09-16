@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "I grabbed her hand.",
+      "defect": "The translation omits the sudden, forceful quality conveyed by 덥석.",
+      "id": "F01",
+      "rationale": "덥석 describes grabbing abruptly and decisively, a physical detail preserved by “snatched” but lost in the generic “grabbed.”",
+      "replacement": "I snatched her hand.",
+      "severity": "minor",
+      "source": "lines 77–79"
+    }
+  ],
+  "summary": "The chapter is faithful overall, with one minor loss of physical detail and one UI-formatting regression.",
+  "version": 1
+}
