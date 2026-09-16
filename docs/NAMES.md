@@ -611,3 +611,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 예티의 목걸이 | **Yeti’s Necklace** | Cold-producing System Item lent by Won Myunghoon. |
 | 한서불침 | **Unaffected by Cold and Heat** | Condition attributed to Taekyung after opening both vessels. |
 | 상동역 변이 게이트 사건 | **Sangdong Station Mutated Gate incident** | Traumatic Gate incident Taekyung survived three years earlier. |
+| 그린 와이번 | **Green Wyvern** | Lv. 97 A-Rank monster encountered during the joint raid. |
+| 진우 | **Jinwoo** | Name called out by Im Kkeokjeong during the Wyvern attack. |
+| 소원 | **Sowon** | Name called out by Im Kkeokjeong during the Wyvern attack. |
