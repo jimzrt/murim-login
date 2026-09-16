@@ -1,0 +1,31 @@
+{
+  "chapter": 171,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.25,
+    "source_characters": 5554,
+    "source_paragraphs": 193,
+    "translation_characters": 12498,
+    "translation_paragraphs": 197
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "갑자",
+        "preferred": "jiazi"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}

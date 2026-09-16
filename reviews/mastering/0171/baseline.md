@@ -44,7 +44,7 @@ The old man glanced around and added,
 
 “Then I’ll be going. Once you’re finished here, go visit the little one who lives over there. They’re worried about you.”
 
-With that, the old man turned away.
+With that, the old man turned around.
 
 *What the hell was that old man?*
 
@@ -52,9 +52,11 @@ Everyone was left bewildered by his incomprehensible words and actions. Just the
 
 “Smack, smack. Benefactor. Doesn’t that man seem a little strange?”
 
-“…You look stranger to me. And swallow what’s in your mouth before you talk.”
+“…”
 
-*How long is that guy going to chew those dumplings? Does he have a bottomless pot that keeps producing them?*
+“You look stranger to me. And swallow what’s in your mouth before you talk.”
+
+*How long is that guy going to chew those dumplings? Does he have a bottomless spring that keeps producing them?*
 
 At my scolding, Cheongpung gulped down what was in his mouth and muttered,
 
@@ -94,7 +96,7 @@ A blue line visible only to me rapidly shot outward.
 
 It passed through Cheongpung, Hyuk Mujin, and Jang Taebo, who were closest to me, before finally reaching the back of the old man as he slowly walked away.
 
-A translucent holographic window suddenly rose above his snow-white hair.
+A translucent holographic window suddenly rose above his completely white hair.
 
 > **System**
 >
@@ -104,7 +106,7 @@ A translucent holographic window suddenly rose above his snow-white hair.
 
 But despite his impressive name, his Level was pitifully low. The old man was unquestionably an ordinary civilian who had never learned martial arts.
 
-“Guess I was barking up the wrong tree…”
+“He just seems like a false lead—”
 
 My voice trailed off on its own.
 
@@ -132,17 +134,19 @@ The old man, Jeok Cheongang, encountered a rather interesting situation the mome
 
 The Supreme Peak realm was an inhuman domain where one could be called a Martial God without exaggeration. He recognized the young men’s martial prowess at a glance.
 
-One of them was merely so-so, but the other two… Honestly, he was impressed.
+One of them was merely so-so, but the other two…
+
+Honestly, they were impressive.
 
 *At that age, they’ve already broken through the wall.*
 
-The one rudely smacking away on dumplings in front of an elder, especially, had already reached a fully mature Peak realm. It would not be an exaggeration to say so.
+The one noisily chewing dumplings in front of an elder, especially, had already reached a fully mature Peak realm. It would not be an exaggeration to say so.
 
-*Would only the Elders of the Nine Sects and One Gang I crossed paths with briefly in the past be able to compare?*
+*Would only the Elders of the Nine Sects and One Gang whom I crossed paths with briefly in the past be able to compare?*
 
-On the other hand, the other one was tall and broad-shouldered…
+The other one was tall and broad-shouldered.
 
-*L-Look at that bastard glaring at me so insolently. I ought to just gouge his eyes out.*
+*L-Look at the way that bastard’s opening his eyes so rudely. Maybe I should gouge them out.*
 
 The young man had a face like he had seen a walking corpse. Even so, it was obvious that he possessed martial arts far beyond what his age suggested.
 
@@ -188,7 +192,7 @@ Whoosh.
 
 He could neither see nor hear it.
 
-He had only sensed it. Jeok Cheongang felt something cold and unfamiliar burrowing into his back.
+He had only sensed it. A cold, unfamiliar presence pierced toward Jeok Cheongang’s back.
 
 *An ambush?*
 
@@ -204,7 +208,7 @@ He had lived for nearly a hundred years, but this was the first time he had expe
 
 Still bewildered, he turned around and immediately realized who was responsible.
 
-“Guess I was barking up the wrong tree…”
+“He just seems like a false lead—”
 
 The instant their eyes met, the mouth snapped shut. The young man’s eyes shook, and his fingertips twitched.
 
@@ -264,7 +268,7 @@ I swallowed hard. My mouth felt as dry as if someone had poured a handful of san
 
 “Taiyuan—the Jin Family of Taiyuan.”
 
-“The Jin Family of Taiyuan? Any chance it practices demonic, heterodox arts?”
+“The Jin Family of Taiyuan? Does it practice demonic, heterodox arts?”
 
 I nearly nodded without thinking.
 
@@ -276,7 +280,7 @@ The old man’s eyes flashed when he mentioned the demonic, heterodox arts. If I
 
 “I’m telling the truth.”
 
-“Is that so? The Jin Family of Taiyuan… I think I’ve heard of it. Or maybe I haven’t.”
+“Taiyuan’s Jin Family… I think I’ve heard of it. Or maybe I haven’t.”
 
 Jeok Cheongang had been lost in thought when he suddenly looked at me strangely.
 
@@ -290,7 +294,7 @@ His words were vague, but I understood them immediately.
 
 *How is that possible?*
 
-Seeing him react on the spot, I had vaguely guessed as much, but my vision still went dark for an instant.
+I had vaguely suspected as much when he reacted immediately, but the sight of it still made my vision go dark.
 
 *Good God. A monster who can sense Qi Sense.*
 
@@ -332,7 +336,7 @@ I had to stick as closely to the truth as possible while presenting it in a way 
 
 “How?”
 
-“Pardon?”
+“Yes?”
 
 “I’m asking how you did it.”
 
@@ -366,13 +370,17 @@ Because of that, someone like Jeok Cheongang, who seemed to be a Supreme Peak ma
 
 I decided to be completely frank.
 
-“The truth is, I use something called the System. It’s a bit of a cheat, so it might have felt uncomfortable to you. I’m sorry.”
+“The truth is, I use something called the System. It’s a bit of a cheat, so it might have felt strange to you. I’m sorry.”
 
-Jeok Cheongang took a moment before he spoke.
+Jeok Cheongang did not speak for a moment.
+
+Then he opened his mouth.
 
 “What kind of bullshit is that?”
 
-“…I told you exactly what happened. I figured you wouldn’t understand.”
+“…”
+
+“I told you exactly what happened. I figured you wouldn’t understand.”
 
 “Have you said all you have to say?”
 
@@ -388,12 +396,12 @@ Jeok Cheongang took a moment before he spoke.
 
 “Why bother saying it? How about we warm you up a little before we begin?”
 
-Me, Cheongpung, Hyuk Mujin, Jang Taebo—it was a split second too brief for anyone in that spot to react.
+It happened in an instant—too fast for anyone present to react.
 
 Jeok Cheongang let out a quiet laugh and poked me in the chest with one finger.
 
 And then…
 
-Fwoooosh!
+Whoooosh!
 
 An overwhelming wave of heat swept through my body.

@@ -136,13 +136,13 @@ One of them was merely so-so, but the other two… Honestly, he was impressed.
 
 *At that age, they’ve already broken through the wall.*
 
-The one rudely smacking away on dumplings in front of an elder, especially, had already reached a fully mature Peak realm. It would not be an exaggeration to say so.
+The one rudely smacking away on dumplings in front of an elder, especially, had reached a fully seasoned Peak realm. It would not be an exaggeration to say so.
 
-*Would only the Elders of the Nine Sects and One Gang I crossed paths with briefly in the past be able to compare?*
+*Only the Elders of the Nine Sects and One Gang he had crossed paths with a few times in the past could compare.*
 
 On the other hand, the other one was tall and broad-shouldered…
 
-*L-Look at that bastard glaring at me so insolently. I ought to just gouge his eyes out.*
+*L-Look at the way that bastard opens his eyes so rudely. I ought to just gouge them out.*
 
 The young man had a face like he had seen a walking corpse. Even so, it was obvious that he possessed martial arts far beyond what his age suggested.
 
@@ -188,7 +188,7 @@ Whoosh.
 
 He could neither see nor hear it.
 
-He had only sensed it. Jeok Cheongang felt something cold and unfamiliar burrowing into his back.
+He had only sensed it. A cold, unfamiliar presence pierced toward Jeok Cheongang’s back.
 
 *An ambush?*
 
@@ -264,7 +264,7 @@ I swallowed hard. My mouth felt as dry as if someone had poured a handful of san
 
 “Taiyuan—the Jin Family of Taiyuan.”
 
-“The Jin Family of Taiyuan? Any chance it practices demonic, heterodox arts?”
+“The Jin Family of Taiyuan? Any chance they’re demonic, heterodox?”
 
 I nearly nodded without thinking.
 
@@ -366,7 +366,7 @@ Because of that, someone like Jeok Cheongang, who seemed to be a Supreme Peak ma
 
 I decided to be completely frank.
 
-“The truth is, I use something called the System. It’s a bit of a cheat, so it might have felt uncomfortable to you. I’m sorry.”
+“The truth is, I use something called the System. It’s a bit of a cheat, so it may have felt uncomfortable to you, elder. I’m sorry.”
 
 Jeok Cheongang took a moment before he spoke.
 
