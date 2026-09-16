@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "The person involved even laid into them himself.",
+      "defect": "The plural object implies that Cheongpung beat multiple people, contradicting the subsequent clarification that he beat only one. The source leaves the object unstated here.",
+      "id": "F01",
+      "rationale": "The Korean omits the target at this point, preserving the later clarification that only one person was beaten.",
+      "replacement": "The person involved even laid into someone himself.",
+      "severity": "minor",
+      "source": "lines 73–81"
+    }
+  ],
+  "summary": "Faithful overall, with one minor quantity ambiguity lost in translation.",
+  "version": 1
+}
