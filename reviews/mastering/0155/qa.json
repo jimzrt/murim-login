@@ -1,0 +1,55 @@
+{
+  "chapter": 155,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.346,
+    "source_characters": 5809,
+    "source_paragraphs": 168,
+    "translation_characters": 13627,
+    "translation_paragraphs": 169
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "청해",
+        "preferred": "Qinghai"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "원단",
+        "preferred": "New Year's Day"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "고원",
+        "preferred": "Gaoyuan"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "전하",
+        "preferred": "His Highness"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "소원",
+        "preferred": "Sowon"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
