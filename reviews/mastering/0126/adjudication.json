@@ -1,0 +1,751 @@
+{
+  "chapter": 126,
+  "decisions": [
+    {
+      "decision": "BASE",
+      "hunk_id": "H001",
+      "reason": "SOL drops 모든 임무를 to a single mission and turns 뼛속 깊이 into bitterness."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H002",
+      "reason": "The contracted thought reads as natural interior speech without changing meaning."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H003",
+      "reason": "Flying into a rage with eyes rolling back matches 길길이 날뛰다 and 눈을 까뒤집다; BASE’s bulging eyes do not."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H004",
+      "reason": "Goddamn is the more natural attributive swear in spoken US English."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H005",
+      "reason": "What is it this time captures 또 as another outburst more idiomatically."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H006",
+      "reason": "Keep SOL’s staccato shouts, but 매우 위험 is great danger, not grave.",
+      "replacement": "“Pung Yang! The Red Wind Band! The Mount Heng Sword Sect! My brothers are in danger! Great danger! We leave at once!”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H007",
+      "reason": "Replaces three ASCII dots with the required ellipsis character."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H008",
+      "reason": "Swept aside is closer to 치워 버린, and without rest matches 쉬지 않고."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H009",
+      "reason": "Stopped at the branch to change horses preserves 들른, which BASE skips."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H010",
+      "reason": "Tighter rendering of 파악한 바, 삼백여 명, and 몰살당했고."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H011",
+      "reason": "The extra bang tracks the swelling 오오오 without adding content."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H012",
+      "reason": "BASE drops 씻은 듯이; SOL drops 세상을 다 가진 듯한 and adds informant.",
+      "replacement": "Jin Wikyung’s laughter, as if he had gained the whole world, vanished without a trace at the next words."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H013",
+      "reason": "Keep SOL’s stammer and contractions, but the echoed phrase is singular 상당한 부상.",
+      "replacement": "“W-well… he suffered a considerable injury during his life-and-death duel with Pung Yang. But his life isn’t in danger, and he’s recovering quickly, so there should be no need to worry.”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H014",
+      "reason": "이미 틀렸다 is that the situation is already lost, not a repeat of 이미 늦었다, and the echoed phrase stays singular."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H015",
+      "reason": "아우들 are younger brothers, 가시 is a thorn, and 야단법석 is a noisy commotion, not a private panic."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H016",
+      "reason": "The two-beat contrast 약간의 부상도 아니고 상당한 부상 should stay singular and split."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H017",
+      "reason": "SOL’s English is cleaner, but 정확히 belongs to the next sentence, not this prediction.",
+      "replacement": "Experience told Wipeng what would happen next."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H018",
+      "reason": "정확히 들어맞았다 is exactly right; SOL drops 정확히."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H019",
+      "reason": "Subject-first English is more natural for the same blink-at-the-roar beat."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H020",
+      "reason": "예, 예? is a confused yes, not pardon."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H021",
+      "reason": "사경을 헤매다 is hovering between life and death, not a brush with death; BASE also keeps Wikyung as the escalator and 정신을 차린."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H022",
+      "reason": "Need the ellipsis character, but I believe is stiffer than the panicked I think.",
+      "replacement": "“Lesser Family Head, I think there’s been a terrible misunderstanding…”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H023",
+      "reason": "Required ellipsis character."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H024",
+      "reason": "Required ellipsis character."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H025",
+      "reason": "Fury fits this prolonged 분노 better than generic anger."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H026",
+      "reason": "적당히 좀 하십쇼 is tone it down, not merely calm down."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H027",
+      "reason": "Splits the cart/carriage contrast the way the Korean does, in spoken rhythm."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H028",
+      "reason": "Required ellipsis character."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H029",
+      "reason": "You should see them is cleaner spoken English for 만나실 수 있을 겁니다."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H030",
+      "reason": "Filled him with relief is more natural than brought immense relief."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H031",
+      "reason": "자신이 누군가 is the lead-in of one sentence, not a separate first-person thought."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H032",
+      "reason": "Merges the rhetorical 자신이 누군가 into third-person narration and tightens the Peak-master labor complaint."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H033",
+      "reason": "SOL omits 오늘은, which sets up the ruined drinking plan; cup is better for 잔 than glass.",
+      "replacement": "Today, at last, he could enjoy some roast duck and a warm cup of liquor."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H034",
+      "reason": "입가 is the mouth’s corners; SOL spreads the smile across his whole face."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H035",
+      "reason": "빨리 is hurry, which BASE drops."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H036",
+      "reason": "어야지 is Wikyung already deciding they have to, not a milder ought to."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H037",
+      "reason": "And what about me preserves 저는 뭐, which BASE omits."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H038",
+      "reason": "Burst into hearty laughter is more 호탕하게 than merely letting out a laugh."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H039",
+      "reason": "설마 했는데 is I thought surely not, not I was afraid of that."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H040",
+      "reason": "입만 벙긋거리다 is opening and closing his mouth; gaped loses that image."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H041",
+      "reason": "Ah and men fit 아 and 수하들, but 최대한 큼지막한 것으로 is as large as possible, not the largest piece they can find.",
+      "replacement": "“Ah, have your men buy some cloth from a nearby fabric shop. As large as possible.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H042",
+      "reason": "Something in mind is closer to 생각해 놓은 게 있네 than a generic idea."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H043",
+      "reason": "That’s what happened plus the ellipsis is more spoken for 그렇게 된 겁니다."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H044",
+      "reason": "Subject-first sentence is cleaner English for the same listening-and-glancing beat."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H045",
+      "reason": "The first mention is 천 at the 입구, not a banner already hanging above it."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H046",
+      "reason": "BASE’s before I could stop it implies restraint; SOL drops 나도 모르게 entirely.",
+      "replacement": "A groan escaped me before I knew it."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H047",
+      "reason": "오메 시벌 is oh fuck, not the different idiom fuck me; keep the ellipsis character.",
+      "replacement": "“Oh, fuck. What the hell is that…?”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H048",
+      "reason": "In my life at the end is more natural English for 살다 살다 처음 본다."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H049",
+      "reason": "SOL misreads 길이만 as the banner alone and weakens the 항산검문에서도 보일 hyperbole.",
+      "replacement": "The banner’s width alone was more than twenty jang—over sixty meters.[^1] Strung between the tops of two pavilions facing each other across a broad avenue, it looked as though it might even be visible from the Mount Heng Sword Sect."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H050",
+      "reason": "용사비등한 글씨체 is flamboyant calligraphy, not merely dramatic."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H051",
+      "reason": "SOL adds celebrating; the Korean is only parents who got a child into a top university."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H052",
+      "reason": "Stared up is natural for the overhead banner and drops a redundant all."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H053",
+      "reason": "이름까지 is even his name; squeezed in at the end is unsupported.",
+      "replacement": "I looked again to see what he meant. Sure enough, even Hyuk Mujin’s name had been included in tiny letters."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H054",
+      "reason": "섭섭하냐 is disappointed and 기쁠 is happy; upset/thrilled intensifies both."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H055",
+      "reason": "Spoken complaint that you can barely see my name from down here matches the line’s force."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H056",
+      "reason": "Want to… I mean it is more spoken for 넣을래? 진심이야."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H057",
+      "reason": "The answer is the next line, so before answering is extra weight."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H058",
+      "reason": "것 같습니다 is the hedge seems, which BASE flattens to is fine."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H059",
+      "reason": "SOL’s conversation close is better English, but 달려왔 is running, not charging.",
+      "replacement": "That was as far as our conversation got. The overbearing parent—no, Jin Wikyung—came running toward us with the brightest smile in the world."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H060",
+      "reason": "이 녀석들 is rascals; BASE adds little."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H061",
+      "reason": "SOL’s pull/pot-lid phrasing is better, but 우악스러운 힘 is brute strength and 으스러져도 is crushed to pieces.",
+      "replacement": "The giant, well over two meters tall, pulled Jin Mukyung and me close with hands the size of pot lids. His brute strength was so tremendous that it would not have been strange if he had crushed us to pieces."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H062",
+      "reason": "정말 다행이야 repeats 다행; SOL’s Truly drops that echo."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H063",
+      "reason": "The present-tense aside is the comic punch after the hug; SOL past-tenses it away."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H064",
+      "reason": "가해자 still 끌어안은 the victim; clutched and merging the shout lose the hug joke."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H065",
+      "reason": "의원! 의원! is the doubled Doctor! Doctor!, not Get a doctor!"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H066",
+      "reason": "The deadpan is proposing to call a doctor after the scream; we really should only works off SOL’s rewritten shout."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H067",
+      "reason": "Answered me wearily is natural English for 피곤한 얼굴로 대답했다."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H068",
+      "reason": "하루 이틀입니까 is the first-day gag, and 불러 is called, not summoned."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H069",
+      "reason": "느껴지는 is seemed, not thought, but SOL’s truly is extra.",
+      "replacement": "It was the first time Wipeng had ever seemed magnificent."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H070",
+      "reason": "SOL drops 태원진가 from 태원진가의 삼 형제."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H071",
+      "reason": "Watched him apprehensively captures 눈치를 살폈다 after the injurious hug."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H072",
+      "reason": "주군 같으면 is if it were you; treat is better than handle, but in his place is the wrong person.",
+      "replacement": "“Would you be all right if it were you, my lord? How could you treat someone who was already injured so roughly?”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H073",
+      "reason": "I thought I was being gentle captures 나름 살살 한 건데 as clueless self-defense."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H074",
+      "reason": "Keep 무공 as martial arts; 산서제일인 applies only to the physical-strength clause.",
+      "replacement": "Jin Wikyung might not have been the strongest in martial arts, but when it came to raw physical strength, he was Shanxi's Number One."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H075",
+      "reason": "As is smoother than while for the overlapping chair-slide and reply."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H076",
+      "reason": "Required ellipsis character."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H077",
+      "reason": "한 수 is a single martial art, and the counterfactual walk is cleaner as a statement."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H078",
+      "reason": "Wipeng spoke up is an added speaker tag the Korean does not have."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H079",
+      "reason": "Even his Internal Injury hasn’t fully healed matches 내상도 and the ellipsis convention."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H080",
+      "reason": "Direct did he really do this to you is more Wikyung than the work of."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H081",
+      "reason": "Calmly nodded is the more natural adverb placement for 담담하게 수긍했다."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H082",
+      "reason": "The rhetorical who-was and fragment bio read as authored English without losing 후기지수 or Peak."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H083",
+      "reason": "말씀이십니까 is you mean/are you saying, which SOL drops."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H084",
+      "reason": "고원 is Gaoyuan, but 제법 뛰어난 is fairly skilled, not formidable.",
+      "replacement": "“Pung Yang… I’ve heard that there are some fairly skilled masters among the mounted bandits of Gaoyuan. But still…”"
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H085",
+      "reason": "압박 is pressure and 처먹고 is stuffing my face; SOL softens the eating and BASE’s demand overstates.",
+      "replacement": "The silent pressure told me to stop stuffing my face with roast duck and say something."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H086",
+      "reason": "입을 열었다 is the swallow-then-open beat; SOL deletes it."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H087",
+      "reason": "More spoken news-of-the-injury line without changing Tiger of Mount Heng or the wheelchair gag."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H088",
+      "reason": "Tapped the table with one thick finger is the natural English collocation."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H089",
+      "reason": "알려졌을 텐데 is would have been known, not should have become famous."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H090",
+      "reason": "이번엔 contrasts this immediate head-shake with the earlier reply; SOL drops it."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H091",
+      "reason": "Mukyung’s 습니다 register is that cannot be an excuse, not the casual that’s no excuse."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H092",
+      "reason": "He was that strong? is the stunned echo of 그 정도였더냐, not a padded really."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H093",
+      "reason": "Simultaneously preserves 동시에 in natural English."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H094",
+      "reason": "굳이 대답은 필요 없었다 is no need for an answer, not for him to answer, and 경악한 두 사람 is their shock."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H095",
+      "reason": "Italics on became mark the 강해졌다 correction more clearly than became stronger."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H096",
+      "reason": "Became? echoes the emphasized 강해졌 from the previous line."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H097",
+      "reason": "그건 또 무슨 is what do you mean by that, not the shorter what do you mean."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H098",
+      "reason": "피처럼 붉은 is blood-red, not generic crimson."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H099",
+      "reason": "효력 is effects, not power."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H100",
+      "reason": "차악/최악 is the second-worst contingency for the worst moment; lesser evil / last resort loses that pairing."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H101",
+      "reason": "짧은 순간 and 한 알이 남아 are a brief moment and one pill remaining; SOL drops brief and changes one to another."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H102",
+      "reason": "Trailed off is sufficient for 말꼬리를 흐리며 without extra voice."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H103",
+      "reason": "품 is on his person, not his body."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H104",
+      "reason": "Hm? preserves 응? which BASE omits."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H105",
+      "reason": "The two 라든지 examples are bare nouns; perhaps is extra."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H106",
+      "reason": "Spoken excuse rhythm for 쪼가리 쏟아지더라니 without changing the wooden-case dodge."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H107",
+      "reason": "단환, 단환은 is the repeated the pill; SOL explains instead of repeating."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H108",
+      "reason": "Half-dead myself is natural English for 힘들어서 죽겠는데."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H109",
+      "reason": "As though and I’d are cleaner US English for the same excuse."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H110",
+      "reason": "사람들이 is plural; 녹아 is dissolve, but SOL’s someone and dropped countless are wrong.",
+      "replacement": "“The people from the Mount Heng Sword Sect might have found it. Or it could have dissolved into one of the countless pools of blood scattered across the ground.”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H111",
+      "reason": "응시 is stared, not the weaker regarded."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H112",
+      "reason": "뒤져 봐도 is even if you search, not no matter how hard."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H113",
+      "reason": "털끝 하나 is a hair of the pill; hair on the pill is the wrong idiom."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H114",
+      "reason": "System is the glossary term; BASE lowercases it."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H115",
+      "reason": "상당수 is quite a few, not many."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H116",
+      "reason": "Tighter sentence for northern Shanxi falling to the Demonic Cult, with Gaoyuan kept."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H117",
+      "reason": "귀를 쫑긋 세우고 is ears perked up; intently loses the image."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H118",
+      "reason": "Geum Jandi’s honorary firefighter is the correct possessive; firefighter to Geum Jandi is awkward."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H119",
+      "reason": "The source specifies IS, the Islamic terrorist group; ISIS drops that gloss."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H120",
+      "reason": "Bunch of fanatics is Taekyung’s voice for 광신도 집단."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H121",
+      "reason": "What if matches the alarmed 만들었다면? speculation."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H122",
+      "reason": "Keep 물들었 and 지옥에서 막 올라온 from BASE, but 상상을 뛰어넘는 is unimaginable, not absurd.",
+      "replacement": "Pung Yang’s eyes had been stained red, like a demon that had just climbed out of hell. The pill had granted him unimaginable power, even if only temporarily."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H123",
+      "reason": "Present-tense thought matches 그려지는데."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H124",
+      "reason": "더럽게 찝찝하다 is a vulgar icky-wrong intensifier; really, really bad sanitizes it."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H125",
+      "reason": "고통 is suffering, not a generic price, and SOL adds surely."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H126",
+      "reason": "Best-known pill is more precise for 대표적인 것 than most famous thing."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H127",
+      "reason": "다면서요 is a confirming hearsay question, which the Don’t all… form captures."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H128",
+      "reason": "얻으려 한 is trying to gain; SOL drops the attempt."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H129",
+      "reason": "Just how captures 도대체 without changing the comparison."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H130",
+      "reason": "모르긴 몰라도 is I don’t know, 물론이고 is not just innate qi, and SOL adds blaze brightly."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H131",
+      "reason": "마른침 and 목소리가 튀어나왔다 are a dry swallow and a voice jumping out, not swallowed hard plus the question escaped."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H132",
+      "reason": "And after that? is the anxious 그다음은요 prompt."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H133",
+      "reason": "치밀면 is surges into, not seeped, and the warning stays in the present hypothetical."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H134",
+      "reason": "The echo repeats 치밀어요; Demonic qi in the marrow clips the verb."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H135",
+      "reason": "실로 큰일 is a true disaster; BASE adds terrible."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H136",
+      "reason": "문질러 is rubbed, not wiped."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H137",
+      "reason": "Footnote after the whole line covers both Sasang types instead of tagging only Taeyangin."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H138",
+      "reason": "The three of them is the natural rendering of 세 사람을."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H139",
+      "reason": "Required ellipsis character."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H140",
+      "reason": "Required ellipsis character."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H141",
+      "reason": "Required ellipsis character."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H142",
+      "reason": "허허, 허허허 is Heh-heh then Heh-heh-heh; SOL drops a beat."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H143",
+      "reason": "Required ellipsis character."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H144",
+      "reason": "Required ellipsis character."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H145",
+      "reason": "Required ellipsis character."
+    }
+  ],
+  "version": 1
+}
