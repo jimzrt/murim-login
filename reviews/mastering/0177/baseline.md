@@ -16,7 +16,7 @@ His eyes were red from drunkenness—and from something else.
 
 “It’s a little embarrassing to say it myself. Hahaha! I’m sorry you had to see me like this.”
 
-The pungent musk courtesans used stung his nose. But that was merely a veil laid over the truth.
+The pungent musk courtesans used stung his nose. But that was merely a veil laid over the truth to conceal it.
 
 Jeok Cheongang could smell the faint scent of blood hidden beneath it. It was the smell of death, the smell of a killer—the smell he had forgotten since the Great Faction War.
 
@@ -34,7 +34,7 @@ He had gone from a taciturn boy who never smiled to a smooth-talking killer who 
 
 He had apparently murdered dozens of innocent commoners in horrific ways.
 
-His Disciple had committed a crime that would enrage heaven and man alike. The right thing to do would have been to sever his Sinews and Meridians and cripple his dantian at once. That was what a Master should do.
+His Disciple had committed a crime that made heaven and earth furious. The right thing to do would have been to sever his Sinews and Meridians and cripple his dantian at once. That was what a Master should do.
 
 But—
 
@@ -46,7 +46,7 @@ In the end, there was only one thing he could say.
 
 “It’s late. Go get some rest.”
 
-Jin Taekyung, who had been listening to Jeok Cheongang, asked in disbelief,
+Jin Taekyung listened to Jeok Cheongang and asked in disbelief,
 
 “Wait. That’s it?”
 
@@ -60,7 +60,7 @@ Jin Taekyung, who had been listening to Jeok Cheongang, asked in disbelief,
 
 “Yes. Even so.”
 
-His aged voice went on.
+The old man’s weary voice continued.
 
 “Do you have any blood relatives?”
 
@@ -68,7 +68,7 @@ His aged voice went on.
 
 “I have none. Even when I recall my earliest memory, I was alone. He was the same.”
 
-Jeok Cheongang looked down at his hands. The hands covered in age spots and wrinkles bore the years in layer upon layer.
+Jeok Cheongang looked down at his hands. The hands covered in age spots and wrinkles bore the weight of the years in layer upon layer.
 
 “My Master was a strict man. His training was harsh and painful, but I liked even that when I was young. I was happy that someone cared about me and stayed by my side. My Master was the only person I could rely on.”
 
@@ -102,7 +102,7 @@ Everything seemed perfectly normal.
 
 “Then, suddenly, I began to wonder if there had been some mistake. Maybe the Nangong Family and the Azure Sky Sword King had simply misjudged him.”
 
-Jin Taekyung said, looking dumbfounded.
+Jin Taekyung stared at him in disbelief.
 
 “I think you’re the one who misjudged him, Sir Jeok.”
 
@@ -150,7 +150,7 @@ The middle-aged man, his limbs bound, writhed in agony.
 
 “…W-What did you say?”
 
-“It’s been a long time since I came down here, and all kinds of people are running wild. Wandering martial artists swaggering around because they know a few Third Rate martial arts, merchants bloated with fat, and women whose only property they can sell is their own bodies. What a madhouse.”
+“It’s been a long time since I came down here, and all kinds of people are running wild. Wandering martial artists swaggering around because they know a few Third Rate martial arts, merchants with fat bulging from their bodies, and women whose only property they can sell is their own bodies. What a madhouse.”
 
 Jangcheon smiled, showing all his teeth.
 
@@ -166,7 +166,7 @@ Jangcheon continued in an excited voice.
 
 “Might makes right. Didn’t you teach me that, Master? Murim—or rather, the entire world—is like that. The weak die to the strong.”
 
-“You killed innocent people for a reason as petty as that?”
+“You killed innocent people for that reason?”
 
 “Innocent? How do you know they were innocent, Master?”
 
@@ -174,7 +174,7 @@ Jangcheon continued in an excited voice.
 
 He had wanted to believe they had deserved death.
 
-He had wanted them to be wicked merchants who sucked the blood and sweat out of others, or ruffians who committed murder as easily as they ate—not simple commoners who knew nothing of the world and lived like oxen.
+He had wanted them to be corrupt merchants who preyed on the blood and sweat of others, or ruffians who committed murder as easily as they ate—not simple commoners who knew nothing of the world and lived like oxen.
 
 But…
 
@@ -276,7 +276,7 @@ At the sight of his Master’s fury—something he had never seen before—Jangc
 
 Father.
 
-It was the word Jeok Cheongang had wanted to hear so desperately—and yet.
+It was the word Jeok Cheongang had wanted to hear so desperately.
 
 He gritted his teeth.
 
@@ -318,13 +318,13 @@ In his arms, the middle-aged man—his entire body drenched in blood—was still
 
 “Oh, right. This fellow was here.”
 
-Slash. Splash.
+Slash.
 
 A fountain of blood burst into the air.
 
 Jeok Cheongang watched it with trembling eyes.
 
-There was not the slightest hesitation in his hand. The man, his throat cut, shuddered violently and then breathed his last.
+There had not been even a moment’s hesitation in Jangcheon’s hand. The man’s throat had been cut. He shuddered violently, then breathed his last.
 
 “Is this your answer?”
 
@@ -336,11 +336,11 @@ There was not the slightest hesitation in his hand. The man, his throat cut, shu
 
 “Enough. Your evil deeds end today.”
 
-“Do you really intend to cripple me and make me spend the rest of my life at face-the-wall meditation?”
+“Do you really intend to cripple me and make me spend the rest of my life facing a wall?”
 
 There was a faint trace of fear on his Disciple’s face.
 
-Jeok Cheongang clenched his fist until blood seeped out. One move—just one move—and he could erase Jangcheon from this world.
+Jeok Cheongang clenched his fist until blood seeped from his palm. One move—just one move—and he could erase Jangcheon from this world.
 
 But he knew he could not bring himself to do it.
 
@@ -382,7 +382,7 @@ When he raised his head again, a small white porcelain vial was held between his
 
 Bone-Melting Powder was a deadly poison that dissolved flesh and bone.
 
-However small the amount, if the vial shattered inside his mouth, not even a celestial immortal could save him.
+Even a tiny amount would be fatal if the vial shattered inside his mouth. Not even a celestial immortal could save him.
 
 Jeok Cheongang let out a furious roar.
 
@@ -398,7 +398,9 @@ Jeok Cheongang let out a furious roar.
 
 “Kill me.”
 
-*Kill me.* Those were his Disciple’s final words.
+*Kill me.*
+
+Those were his Disciple’s final words.
 
 * * *
 
@@ -406,4 +408,4 @@ Jeok Cheongang blinked. The ceiling had seemed blurry for a while, but now somet
 
 “The inn is old. Rain must be leaking through.”
 
-It had been a winter night, one day before New Year’s Day.
+It had been the night before New Year’s Day.

@@ -1,6 +1,6 @@
 # Chapter 177
 
-*Why hadn't I known?*
+*Why hadn’t I known?*
 
 It might have been the trust I placed in a Disciple I had raised like my own blood—or it might have been indifference. But there had unquestionably been a scent of blood clinging to Jangcheon when he staggered up the mountain that day.
 
@@ -20,13 +20,13 @@ The pungent musk courtesans used stung his nose. But that was merely a veil laid
 
 Jeok Cheongang could smell the faint scent of blood hidden beneath it. It was the smell of death, the smell of a killer—the smell he had forgotten since the Great Faction War.
 
-“You went to a pleasure house…?”
+“You went to… a pleasure house?”
 
 “As expected, I can’t fool you, Master. Yes. This useless Disciple was troubled and sought out women.”
 
 The Disciple he met again after so long had become an entirely different person.
 
-He had gone from a taciturn boy who never smiled to a smooth-talking killer who concealed his murders without the slightest concern.
+He had gone from a taciturn boy who never smiled to a brazen killer who concealed his murders without the slightest concern.
 
 “But what brings you out at this late hour? Have you made any progress in your closed-door cultivation?”
 
@@ -68,7 +68,7 @@ His aged voice went on.
 
 “I have none. Even when I recall my earliest memory, I was alone. He was the same.”
 
-Jeok Cheongang looked down at his hands. The hands covered in age spots and wrinkles bore the years in layer upon layer.
+Jeok Cheongang looked down at his hands. The hands covered in age spots and wrinkles had the years buried in them, layer upon layer.
 
 “My Master was a strict man. His training was harsh and painful, but I liked even that when I was young. I was happy that someone cared about me and stayed by my side. My Master was the only person I could rely on.”
 
@@ -150,7 +150,7 @@ The middle-aged man, his limbs bound, writhed in agony.
 
 “…W-What did you say?”
 
-“It’s been a long time since I came down here, and all kinds of people are running wild. Wandering martial artists swaggering around because they know a few Third Rate martial arts, merchants bloated with fat, and women whose only property they can sell is their own bodies. What a madhouse.”
+“It’s been a long time since I came down here, and all kinds of people are running wild. Wandering martial artists swaggering around because they know a few third-rate martial arts, merchants bloated with fat, and women whose only property they can sell is their own bodies. What a madhouse.”
 
 Jangcheon smiled, showing all his teeth.
 
@@ -212,7 +212,7 @@ Jangcheon cut him off in a gentle voice.
 
 It was the first time the Disciple had ever interrupted or contradicted his Master. But now, even open mockery lingered at the corners of Jangcheon’s mouth.
 
-“I remember the day I first met you very clearly. I had gone hungry for several days and was wandering through the marketplace when I found a dumpling covered in dirt. Even while the others, who were in the same situation as me, trampled me, I forced it into my mouth.”
+“I remember the day I first met you very clearly. I had gone hungry for several days and was wandering through the marketplace when I found a dumpling covered in dirt. Even while the others, who were no better off than me, trampled me, I forced it into my mouth.”
 
 “That’s right. You did it to survive. Why can’t you remember that you were once weak too?”
 
@@ -244,7 +244,7 @@ He was a born Slaughter Saint.
 
 The only way to fill that emptiness was murder. Jangcheon would probably never stop killing until the moment his breath left his body.
 
-“The timing was perfect. You happened to be so absorbed in your training that you neglected me, and thanks to that, I could run wild to my heart’s content.”
+“The timing was perfect. You happened to be so absorbed in your training that you paid me no mind, and thanks to that, I could run wild to my heart’s content.”
 
 Jeok Cheongang wanted to cover his ears. He wanted to cover his ears, close his eyes, and erase the memory of that day, which had been branded into his mind.
 
@@ -260,7 +260,7 @@ But what tormented him most was the affection for his Disciple that still remain
 
 “I said shut up!”
 
-A powerful wave of qi swept through the alley.
+A powerful wave of qi surged.
 
 At the sight of his Master’s fury—something he had never seen before—Jangcheon’s eyes widened.
 
@@ -356,7 +356,7 @@ Nothing would change, but he wanted to hear the answer from Jangcheon’s own li
 
 Yet in the next moment, all traces of fear vanished from Jangcheon’s face.
 
-“I was relieved.”
+“I’m relieved.”
 
 “What?”
 
@@ -382,7 +382,7 @@ When he raised his head again, a small white porcelain vial was held between his
 
 Bone-Melting Powder was a deadly poison that dissolved flesh and bone.
 
-However small the amount, if the vial shattered inside his mouth, not even a celestial immortal could save him.
+However small the amount, if it shattered inside his mouth, not even a celestial immortal could save him.
 
 Jeok Cheongang let out a furious roar.
 
