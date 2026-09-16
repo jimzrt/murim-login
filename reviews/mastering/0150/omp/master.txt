@@ -8,13 +8,13 @@ He closed his eyes and sank into thought. One person came to mind.
 
 He recalled Cheongpung’s crude blue-steel sword and his footwork. The smile that had vanished the moment he began displaying his martial arts.
 
-At last, from the pitch-black darkness, a figure wrapped in violet light-flames burst forth.
+Then, out of the pitch-black darkness, a figure wreathed in violet light-flames burst forth.
 
 *Cheongpung.*
 
 Grandson of the Sword God Mae Jonghak. His disciple. It didn’t matter what he called him.
 
-What mattered was the fact that four days ago, he had exchanged martial arts with Cheongpung—and lost.
+What mattered was that four days ago, he had crossed martial arts with Cheongpung—and lost.
 
 Jin Mukyung had shut himself away in the training ground and his quarters ever since. He staved off hunger with fasting pills and drove away sleep by training.
 
@@ -22,13 +22,13 @@ He had no need for warm food or honey-sweet rest.
 
 *I lost. Completely.*
 
-Barely three hundred exchanges. Even considering that his condition hadn’t been normal, he had fallen far too easily.
+Barely three hundred exchanges. Even considering that he hadn’t been in peak condition, he had fallen far too easily.
 
 Who was he? A genius who had reached the Peak realm at barely twenty and set the Central Plains abuzz.
 
 *Heaven Shaking Sword. One of the Ten Dragons and Phoenixes… What a joke. Was this all I amounted to?*
 
-The grand titles attached to someone as mediocre as himself seemed laughable, nothing more than empty reputations. And yet the way he had secretly held himself in high regard left him feeling hollow.
+The grand titles bestowed upon someone as mediocre as him seemed absurd. Worse, though he had dismissed them as hollow fame, he had secretly thought highly of himself because of them.
 
 Wasn’t that the very definition of hypocrisy?
 
@@ -44,7 +44,7 @@ Only after meeting Cheongpung did Jin Mukyung understand what those words truly 
 
 Heaven’s Gate Temple was undoubtedly the finest educational institution in the orthodox Murim, but not every genius under heaven became one of its students.
 
-The direct descendants of the Five Great Families and the true-line disciples of the Nine Sects and One Gang were too busy inheriting their sects’ secret ultimate techniques.
+The direct descendants of the Five Great Families and true-line disciples of the Nine Sects and One Gang were already busy inheriting their own sects’ secret ultimate techniques.
 
 Cheongpung was one of them. They had been born outside the well and had lived there all along.
 
@@ -58,19 +58,19 @@ Sword Energy.
 
 Silver Sword Energy slashed relentlessly in every direction, denser and clearer than it had been four days ago—no, than ever before.
 
-His duel with Cheongpung had given him insight and fighting spirit. His vague goal of simply becoming stronger had finally gained focus.
+His duel with Cheongpung had given him insight and fighting spirit. His vague desire to become stronger had finally found a focus.
 
 Swish, swish, swish, swish!
 
-Jin Mukyung’s sword did not stop after that, either.
+Jin Mukyung’s sword did not stop.
 
-Not until he was exhausted, utterly spent, and collapsed…
+Not until exhaustion overwhelmed him and he collapsed…
 
 * * *
 
-In Murim, the dantian is called the qi sea.
+In the Murim, the dantian is also called the qi sea.
 
-The qi sea. The sea of qi. The place where all the internal energy in the body begins and gathers. Whoever coined the term had chosen very well.
+The qi sea. The sea of qi. The place where all the internal energy in the body begins and gathers. Whoever coined the term had chosen well.
 
 Ding!
 
@@ -96,13 +96,13 @@ Two acupoints, sealed tight as iron gates, refused to let my internal energy pas
 
 *The Conception and Governor Vessels. I’ve seen those plenty of times in novels.*
 
-Wasn’t this a stage every protagonist in a martial arts novel passed through at least once?
+Wasn’t this a stage every protagonist in a martial arts novel went through at least once?
 
 In martial arts novels, opening the Conception and Governor Vessels was standard, and Bone Transformation was an optional extra. Of course, I wasn’t a protagonist or even a supporting character, so I had been forced to retreat every time.
 
-*That was then. Until now.*
+*That was before.*
 
-Fifteen years of internal energy hadn’t been enough. It was like ramming a compact car whose airbags didn’t even work straight into a boulder.
+Fifteen years of internal energy hadn’t been enough. It was like ramming a compact car without airbags straight into a boulder.
 
 But things were different now. Add half a jiazi of Scorching Yang Qi, and that compact car turned into a military tank.
 
@@ -110,7 +110,7 @@ But things were different now. Add half a jiazi of Scorching Yang Qi, and that c
 
 No. I had to succeed.
 
-It was a mountain I absolutely had to overcome if I wanted to advance to a higher realm.
+It was a mountain I had to overcome if I wanted to reach a higher realm.
 
 I drew up my internal energy as its momentum reached its peak, split it into two streams, and launched them toward the Conception and Governor Vessels.
 
@@ -124,13 +124,13 @@ Boom! Boom! Boom!
 
 *What the fuck is this?*
 
-I’d put my body through hell in my own way. Getting stabbed was practically routine, and I’d even had my internal organs damaged before.
+I’d put my body through plenty of abuse. Getting stabbed was practically routine, and I’d even had my internal organs damaged before.
 
-But this was a completely different kind of pain.
+But this was an entirely different kind of pain.
 
 *Fine, my back hurts—but why does it hurt there?*
 
-A part of a man as important as his life throbbed painfully. It felt as if someone were repeatedly squeezing it with all their strength, then letting go.
+A part of a man’s body as precious as his life throbbed painfully. It felt as if someone were repeatedly squeezing it with all their strength, then letting go.
 
 Opening the Conception and Governor Vessels felt like it would earn me an incredible reward. Like enduring this would make me a Peak master…
 
@@ -156,13 +156,13 @@ Clutching the still-throbbing area, I collapsed facedown on the bed.
 
 The riper the rice, the lower it bows its head. The more a man’s vital spot hurts, the lower he bends at the waist.
 
-I stayed facedown for a long while as though praying, and the pain gradually subsided.
+I stayed doubled over as if in prayer for a long while until the pain gradually subsided.
 
 “Huff, huff.”
 
 I’d almost ended up like Hong Jin.
 
-I had just sprawled out on the bed, drenched in sweat, when hurried footsteps approached and uninvited guests burst in.
+I had just sprawled out on the bed, drenched in sweat, when hurried footsteps approached and a pair of uninvited guests burst in.
 
 “Captain!”
 
@@ -174,13 +174,13 @@ Hyuk Mujin and Cheongpung charged through the door, then stopped short when they
 
 “Benefactor, what are you doing?”
 
-“Huh? What about it?”
+“Huh? What do you mean?”
 
 Only after asking did I realize what I looked like.
 
 “Oh.”
 
-A hot-blooded young man in his twenties, in a sealed room, soaked in sweat despite the middle of winter, lying on a bed with one hand clutching that particular spot.
+A hot-blooded young man in his twenties, alone in a sealed room in the middle of winter, drenched in sweat and lying on a bed with one hand clutching that particular spot.
 
 Hmm. There was definitely room for misunderstanding.
 
@@ -202,29 +202,29 @@ After a brief silence, Hyuk Mujin’s eyes curved into a smile.
 
 “I’m telling you, it’s really not what you think!”
 
-“Did it feel good? If you haven’t finished yet, should I step outside?”
+“Did it feel good? If you’re not finished, should we give you some privacy?”
 
 “I haven’t even started!”
 
-“Oh, then you were just about to start. Should I come back when you’re done?”
+“Oh, so you were just about to begin. Should we come back when you’re done?”
 
 “I’m not doing it! I wasn’t planning to!”
 
-“It’s all right. There’s nothing to be embarrassed about. I do it five times a day when I’m in good shape.”
+“It’s fine. There’s nothing to be embarrassed about. When I’m feeling good, I do it five times a day.”
 
 “Is that actually true…? No, wait, you little—”
 
 Chaos. Destruction. Ruin.
 
-As the misunderstanding only deepened with every passing moment, Cheongpung tilted his head.
+As the conversation only grew more incriminating with every passing moment, Cheongpung tilted his head.
 
 “What’s the misunderstanding? What do you know?”
 
 “Young Hero Cheongpung, you really don’t know why the Captain is like that?”
 
-“I don’t. Does he need to pee?”
+“No. Does he need to pee?”
 
-“Good heavens, how can this be? I’ll explain it just once, so take it to heart. All of this becomes flesh and blood. I’m telling you, it’ll change your life.”
+“Good heavens, how can this be? I’ll explain it just once, so take it to heart. This is all knowledge that’ll become part of you. I’m telling you, it’ll change your life.”
 
 “Yes!”
 
@@ -250,9 +250,9 @@ Smack!
 
 Thud.
 
-It was a slap aimed precisely at his lower jaw. Hyuk Mujin crumpled with a peaceful expression, and Cheongpung caught him.
+It was a slap aimed squarely at his lower jaw. Hyuk Mujin crumpled with a peaceful expression, and Cheongpung caught him.
 
-“I haven’t heard the whole thing yet.”
+“I hadn’t heard the rest yet.”
 
 “…What would you do with the rest?”
 
@@ -260,7 +260,7 @@ It was a slap aimed precisely at his lower jaw. Hyuk Mujin crumpled with a peace
 
 “…”
 
-Come to think of it, that wasn’t entirely wrong.
+Come to think of it, he wasn’t entirely wrong.
 
 Cheongpung gazed dejectedly at the unconscious sex-education teacher.
 
@@ -276,15 +276,15 @@ Anyone overhearing this really would get the wrong idea.
 
 By the time I finished my explanation, packed to the brim with facts, Hyuk Mujin had regained consciousness. He muttered sullenly, “Then you should’ve just said so from the start.”
 
-“Whew. Do you really want me to beat you to death today?”
+“Whew. Do you want me to beat you within an inch of your life today?”
 
-“Ah, I’ll pass. My head is still ringing.”
+“I’ll pass. My skull is still ringing.”
 
 Hyuk Mujin winced and shook his head.
 
-“But why did you suddenly try to open the Conception and Governor Vessels? You’re not a Peak internal-energy master, and you don’t have the guts to risk something like that.”
+“But why did you suddenly try to open the Conception and Governor Vessels? You’re not a Peak internal-energy master, and you’re not exactly brave enough to risk something like that.”
 
-“…I just tried it once.”
+“…I just gave it a try.”
 
 “What?”
 
@@ -294,13 +294,13 @@ I waved dismissively at the wide-eyed Hyuk Mujin.
 
 It was too embarrassing to admit that watching Jin Mukyung and Cheongpung’s duel four days ago had made me want to become far stronger than I was now.
 
-“Anyway, just know that I failed spectacularly. I couldn’t do it properly because it hurt down there. Why is this happening?”
+“Anyway, all you need to know is that I failed spectacularly. I couldn’t keep going because it hurt down there. Why did that happen?”
 
 “How would I know? I’m not a physician, or a Peak master like a certain someone.”
 
-Hyuk Mujin and I naturally turned our gazes to the side. The aforementioned “Peak master” blinked and opened his mouth.
+Hyuk Mujin and I naturally turned our gazes to the side. The aforementioned Peak master blinked, then spoke.
 
-“Hmm. I’ve heard something about it from my grandfather.”
+“Hmm. I heard something about it from my grandfather.”
 
 Hyuk Mujin now knew Cheongpung’s identity too. We both exclaimed in anticipation.
 
@@ -314,7 +314,7 @@ Sword Saint Mae Jonghak was one of the greatest masters under heaven. When it ca
 
 “He said that if I mishandled the Conception Vessel, I might not be able to perform as a man, and that the same was true of the Governor Vessel. What else did he say? Oh, right!”
 
-Cheongpung, who had been thinking hard, smacked his forehead.
+After thinking hard for a moment, Cheongpung smacked his forehead.
 
 “He told me to leave them alone because they’d open on their own with time. He said I’d become a cripple if I mishandled both of them.”
 
@@ -322,13 +322,13 @@ Cheongpung, who had been thinking hard, smacked his forehead.
 
 “…?”
 
-*What the hell is he talking about?*
+What the hell did that mean?
 
-Hyuk Mujin and I exchanged glances almost simultaneously.
+Hyuk Mujin and I looked at each other almost simultaneously.
 
 “Do the Conception and Governor Vessels normally open with time?”
 
-“I don’t know. That’s the first I’ve heard of it, too.”
+“I don’t know. That’s the first I’ve heard of it too.”
 
 “But it can’t be nonsense. The man’s the Sword Saint.”
 
@@ -338,7 +338,7 @@ Hyuk Mujin and I exchanged glances almost simultaneously.
 
 “How would I know? My father is almost sixty. Should I ask him?”
 
-“Oh, ask him whether his Conception and Governor Vessels have opened?”
+“Ask whether his Conception and Governor Vessels have opened?”
 
 “Yes.”
 
@@ -350,15 +350,15 @@ Hyuk Mujin and I exchanged glances almost simultaneously.
 
 “Yes.”
 
-I pitied myself for taking someone like this around as my subordinate.
+I pitied myself for having someone like him as a subordinate.
 
-I heaved a deep sigh and spoke to Cheongpung.
+I heaved a deep sigh and turned to Cheongpung.
 
 “Could you explain in a little more detail? Surely your grandfather didn’t say only that…”
 
 “He said exactly that.”
 
-“…Really? Word for word?”
+“…Really? Those exact words?”
 
 “I don’t lie to my Benefactor.”
 
@@ -366,13 +366,13 @@ That was true. Cheongpung wasn’t sly enough to lie.
 
 Whether it was his nature or the environment in which he’d grown up, he was so honest and guileless that, to put it unkindly, he seemed stupid.
 
-Cheongpung added with an aggrieved expression, “And my grandfather isn’t a liar either. I waited, too, and mine opened. Not both of them—only the Governor Vessel.”
+Cheongpung added with an aggrieved expression, “And my grandfather isn’t a liar either. I waited, and mine opened. Not both of them—only the Governor Vessel.”
 
 “I’m not saying the Sword Saint lied… Wait. What did you just say?”
 
 “Young Hero Cheongpung, what was that? You opened the Conception and Governor Vessels?”
 
-“Oh, only the Governor Vessel for now. Maybe it’s because I’m still young.”
+“Only the Governor Vessel for now. Maybe it’s because I’m still young.”
 
 I stammered, “H-How did you open it?”
 
@@ -390,7 +390,7 @@ I stammered, “H-How did you open it?”
 
 This was hopeless. We were far too different.
 
-The Sword Saint had been right that the Conception and Governor Vessels would open naturally with time.
+The Sword Saint’s prediction that the Conception and Governor Vessels would naturally open with time had been correct.
 
 The problem was that it only applied to Cheongpung.
 
@@ -400,7 +400,7 @@ The guy smiling innocently in front of me was practically a new breed of human, 
 
 Cheongpung and Jin Mukyung had both been born with talent entirely unlike mine. There was nothing I could do about that.
 
-When I remained silent for a while, Cheongpung cautiously watched my expression.
+When I remained silent for a while, Cheongpung cautiously studied my expression.
 
 “Benefactor, did I do something wrong?”
 
@@ -422,7 +422,7 @@ Damn it. Now that I had to say it, the words wouldn’t come out.
 
 I had thick skin. I’d been called brazen and shameless before.
 
-But why was this one sentence so difficult?
+So why was this one sentence so hard?
 
 “Benefactor?”
 
@@ -430,11 +430,11 @@ With great difficulty—truly, great difficulty—I forced out the words.
 
 “Could you help me with my training?”
 
-“Of course. Certainly.”
+“Of course.”
 
 “What?”
 
-“I’ll help you. With your training.”
+“I’ll help you train.”
 
 The moment I looked into his clear eyes, I finally understood why I had hesitated.
 
@@ -442,7 +442,7 @@ It was competitive pride.
 
 Competitive pride that made me unwilling to accept help from this guy, of all people.
 
-Not because I disliked him, but because he was an opponent I wanted to defeat solely through my own strength.
+Not because I disliked him, but because he was an opponent I wanted to defeat through my own strength.
 
 I wanted to stand on equal footing with him.
 

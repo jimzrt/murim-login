@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "Cheongpung’s crude blue-steel sword and his footwork.",
+      "defect": "The source describes both the blue-steel sword and Cheongpung’s footwork as crude, but the English omits that characterization from his footwork.",
+      "id": "F01",
+      "rationale": "The modifier 조잡한 applies to the coordinated 청강검과 발걸음, characterizing both the sword and his movements as unrefined.",
+      "replacement": "Cheongpung’s crude blue-steel sword and clumsy footwork.",
+      "severity": "minor",
+      "source": "line 11"
+    }
+  ],
+  "summary": "Faithful overall, with one minor omitted descriptive detail.",
+  "version": 1
+}
