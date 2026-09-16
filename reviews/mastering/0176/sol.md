@@ -60,7 +60,7 @@ I hadn’t made a sound or given off any sign, yet he knew exactly what was happ
 
 “Your answer?”
 
-“…I’ll stay still.”
+“…I’ll sit still.”
 
 “You’re not entirely oblivious, I see. That lifeline of yours might turn out to be a long one.”
 
@@ -134,7 +134,7 @@ The paper was extremely old, crumpled all over, and yellowed with age. Even so, 
 
 “Is that Jopil when he was young?”
 
-“It seems it was him after all. So this is what became of him.”
+“So it was him after all. So this is what became of him.”
 
 His response sounded more like a monologue than an answer to my question.
 
@@ -180,7 +180,7 @@ The boy wanted to become a martial artist and change his life. That was why he d
 
 Jeok Cheongang thought Jangcheon wouldn’t last long.
 
-But the boy’s longing was far more tenacious than he had expected. For an entire year, Jangcheon tried to persuade him every single day without fail. Later, he even resorted to hurting himself or starving himself.
+But the boy’s determination was far more tenacious than he had expected. For an entire year, Jangcheon tried to persuade him every single day without fail. Later, he even resorted to hurting himself or starving himself.
 
 Every time he did, Jeok Cheongang was the one who sweated bullets.
 
@@ -242,7 +242,7 @@ He swung his sword like a madman all day long and devoted himself to training hi
 
 With his Disciple devoting so much passion and effort to his training, Jeok Cheongang couldn’t help but be deeply moved. He also did everything in his power to help Jangcheon grow.
 
-Jangcheon’s talent and physique barely rose above mediocrity, but Jeok Cheongang gradually improved his constitution by cleansing the sinews and washing the marrow.
+Jangcheon’s talent and physique barely rose above mediocrity, but through Jeok Cheongang’s cleansing the sinews and washing the marrow, he gradually improved his constitution.
 
 A Master and Disciple who trusted and relied on each other.
 
@@ -296,7 +296,7 @@ Jin Taekyung’s jaw dropped.
 
 Jeok Cheongang tilted the liquor bottle without a word.
 
-He had already emptied several bottles by himself, and yet his mind was growing clearer by the moment. The same went for the words the Azure Sky Sword King had spoken when he appeared out of the blue.
+He had already emptied several bottles by himself, and yet his mind only grew clearer. The same went for the words the Azure Sky Sword King had spoken when he appeared out of the blue.
 
 “These days, the brats in my family have been throwing a fit. There’s some vicious bastard running wild in Anhui, but they say they can’t catch him. They begged me so desperately that I had no choice but to come see you.”
 

@@ -1,6 +1,6 @@
 # Chapter 176
 
-It feels like I’ve gone back to high school.
+I feel like I’ve gone back to high school.
 
 I was running away to avoid evening self-study when the school disciplinarian caught me. Of course, the despair I felt back then was nothing compared to this.
 
@@ -14,7 +14,7 @@ He was the Fire King.
 
 Jeok Cheongang glared at me.
 
-“Shall I make sure you never hear another sound?”
+“Shall I make sure you can never hear another sound?”
 
 “…”
 
@@ -40,29 +40,29 @@ It was the perfect place to die without a mouse or bird ever knowing.
 
 *No. They say that even if you enter a tiger’s den, you’ll survive as long as you keep your wits about you.*
 
-Even so, I had to take out some life insurance, just in case.
+Even so, I needed some kind of life insurance, just in case.
 
 Unfortunately, the only brake capable of stopping Jeok Cheongang was currently snoring with his face planted on the table.
 
-*Cheongpung—at least you need to be awake if I’m going to survive this.*
+*Cheongpung, you have to wake up if I’m going to survive this.*
 
 I was carefully stretching my leg beneath the table, preparing to step on Cheongpung’s foot, when—
 
 “Leave him sleeping.”
 
-“Pardon?”
+“Huh?”
 
 “I said leave him alone. Don’t bother someone who’s sleeping for no reason.”
 
 At this point, he was practically a ghost.
 
-I hadn’t made a sound or given off any sign, yet he knew exactly what was happening beneath the table.
+I hadn’t made a sound or given away my movement, yet he knew exactly what was happening beneath the table.
 
 “Your answer?”
 
 “…I’ll stay still.”
 
-“You’re not entirely oblivious, I see. That lifeline of yours might turn out to be a long one.”
+“You’re not entirely oblivious, I see. You might live a long time.”
 
 Jeok Cheongang muttered something that could have been either praise or an insult, then tilted the liquor bottle.
 
@@ -72,11 +72,11 @@ The empty cup slowly filled with a trickle of liquor, and the cheap scent stung 
 
 “I’ll explain everything in detail about the Head Elder—no, my great-uncle.”
 
-“I’ve already heard. He committed more than enough crimes to deserve death. He was a fairly sharp fellow once, but time has cast plenty of people aside…”
+“I’ve already heard. He committed more than enough crimes to deserve death. He was a fairly sharp fellow once, but time has ruined a lot of people…”
 
 Jeok Cheongang downed his drink in one gulp and muttered bitterly,
 
-“That child was no different.”
+“That child was like that, too.”
 
 “…”
 
@@ -100,7 +100,7 @@ There was no point in lying or making excuses anymore. Right now, he was the pro
 
 My mouth was so dry it tasted bitter. He wasn’t even releasing Scorching Yang Qi, yet my thirst was so severe that I could barely speak.
 
-“Please, give me a drink too.”
+“Give me a drink, too.”
 
 “You cheeky bastard.”
 
@@ -108,11 +108,11 @@ Despite saying that, Jeok Cheongang obediently filled my cup.
 
 I hurriedly gulped down the strong liquor, and only then could I breathe again.
 
-Right. It wasn’t over yet. Especially at a time like this, I had to keep my wits about me if I wanted to get out of this alive.
+Right. It wasn’t over yet. The more dangerous the situation, the more carefully I had to think if I wanted to escape it.
 
 I took a deep breath and opened my mouth.
 
-“It was a couple of months ago. That’s when I met Jopil.”
+“It was about two months ago. That’s when I met Jopil.”
 
 “Jopil?”
 
@@ -124,7 +124,7 @@ I took a deep breath and opened my mouth.
 
 Not just accurate. He had been practically insane.
 
-At the time, the Jopil I saw was nothing more or less than a man obsessed with killing. He genuinely enjoyed it.
+At the time, I had seen Jopil as nothing more or less than a man who was addicted to killing. He genuinely enjoyed it.
 
 “Is this his face?”
 
@@ -154,7 +154,7 @@ Jeok Cheongang continued slowly. As clear liquor rippled in the glass, memories 
 
 “…”
 
-“I liked the fierce look in his eyes, and at the same time, I felt sorry for him. I gave him the name Jangcheon, meaning ‘Vast Sky.’”
+“I liked the fierce look in his eyes, and at the same time, I felt sorry for him. I gave him the name Jangcheon, meaning “Vast Sky.””
 
 That was how Jangcheon came to live in a hut deep in Mount Jiuhua.
 
@@ -180,7 +180,7 @@ The boy wanted to become a martial artist and change his life. That was why he d
 
 Jeok Cheongang thought Jangcheon wouldn’t last long.
 
-But the boy’s longing was far more tenacious than he had expected. For an entire year, Jangcheon tried to persuade him every single day without fail. Later, he even resorted to hurting himself or starving himself.
+But the boy’s longing was far more tenacious than he had expected. For an entire year, Jangcheon tried to persuade him every single day without fail. Later, he even went so far as to injure himself or starve himself.
 
 Every time he did, Jeok Cheongang was the one who sweated bullets.
 
@@ -190,7 +190,7 @@ Every time he did, Jeok Cheongang was the one who sweated bullets.
 
 “…I can’t.”
 
-“Is it… is it because I’m lacking?”
+“Is it because I’m lacking?”
 
 “To continue the sect’s lineage, this is unavoidable. It will be a difficult time for you, too.”
 
@@ -200,23 +200,23 @@ Every time he did, Jeok Cheongang was the one who sweated bullets.
 
 In truth, Jeok Cheongang was the one who didn’t want to part.
 
-Old age had begun to catch up with him, and it seemed he had grown lonely for human company. The past year had been more than enough time for him to grow attached to the boy—unusually scarred for his age, and unusually quiet.
+Old age had begun to catch up with him, and it seemed he had grown lonely for human company. The past year had been more than enough time for him to grow attached to the wounded, taciturn boy.
 
 But…
 
-“Then do it. I’m going to die anyway, aren’t I?”
+“Then do it. I’m going to die sooner or later anyway.”
 
 “What?”
 
-“If I can’t serve you as my Master, I’ll take my own life. No—kill me right now. Kill me with your own hand, the one that saved me.”
+“If I can’t have you as my Master, I’ll kill myself. No—kill me right now. Kill me with the hand that saved me.”
 
 “You little—!”
 
 What was martial arts worth, anyway?
 
-Seeing Jangcheon ready to throw away his own life over it, Jeok Cheongang felt hurt and furious.
+Seeing Jangcheon prepared to throw away his own life over it, Jeok Cheongang felt hurt and furious.
 
-But at the same time, another thought suddenly occurred to him.
+But at the same time, another thought occurred to him.
 
 “Even if his martial talent and physique were lacking, with resolve that fierce, he would surely achieve great success one day. That was what I thought.”
 
@@ -226,7 +226,7 @@ Jin Taekyung, who had been listening quietly, asked with an uneasy expression,
 
 “Yes.”
 
-Jeok Cheongang added, almost like a sigh,
+Jeok Cheongang added with a sigh,
 
 “It was a mistake.”
 
@@ -238,11 +238,11 @@ Jangcheon faithfully followed his Master’s instructions.
 
 No—that was closer to absolute obedience.
 
-He swung his sword like a madman all day long and devoted himself to training his stamina. Even when learning the smallest, most basic techniques, he poured his entire being into them as though he were practicing the greatest divine art under heaven.
+He swung his sword like a madman all day long and devoted himself to training his stamina. Even when learning the smallest, most basic techniques, he poured his entire being into them as though he were practicing the greatest martial art under heaven.
 
 With his Disciple devoting so much passion and effort to his training, Jeok Cheongang couldn’t help but be deeply moved. He also did everything in his power to help Jangcheon grow.
 
-Jangcheon’s talent and physique barely rose above mediocrity, but Jeok Cheongang gradually improved his constitution by cleansing the sinews and washing the marrow.
+Jangcheon had only slightly more talent and physical aptitude than an ordinary person, but Jeok Cheongang gradually improved his constitution by cleansing his sinews and washing his marrow.
 
 A Master and Disciple who trusted and relied on each other.
 
@@ -252,9 +252,9 @@ Everything seemed to be falling perfectly into place.
 
 “The problem came after that.”
 
-The old man remained an old man, but the boy grew into a young man.
+The old man remained old, but the boy grew into a young man.
 
-Yet compared to his physical growth, the young man’s martial arts failed to progress. Jangcheon grew furious at himself for treading water for years already, and at last, things boiled over.
+Yet compared to his physical growth, the young man’s martial arts failed to progress. Jangcheon grew furious at himself for treading water for years, and at last, something happened.
 
 “I still remember it clearly. I couldn’t sleep that night, so I was sitting on a rock when he came up from below. He hadn’t shown himself for several days, claiming to be in closed-door cultivation.”
 
@@ -266,7 +266,7 @@ Jin Taekyung tilted his head.
 
 “Oh. A pleasure house?”
 
-“I understood perfectly. He had spent more than ten years learning nothing but martial arts, hardly ever setting foot outside. And the man who called himself his Master couldn’t offer much help and only focused on his own cultivation. What could I say?”
+“I understood perfectly. He had spent more than ten years learning nothing but martial arts, barely ever leaving the mountain. And the man who called himself his Master couldn’t offer much help and only focused on his own cultivation. What could I say?”
 
 At the time, Jeok Cheongang had been immersed in training to open his upper dantian.
 
@@ -296,7 +296,7 @@ Jin Taekyung’s jaw dropped.
 
 Jeok Cheongang tilted the liquor bottle without a word.
 
-He had already emptied several bottles by himself, and yet his mind was growing clearer by the moment. The same went for the words the Azure Sky Sword King had spoken when he appeared out of the blue.
+He had already emptied several bottles by himself, but his mind was growing clearer by the moment. The same was true of the words spoken by the Azure Sky Sword King when he appeared without warning.
 
 “These days, the brats in my family have been throwing a fit. There’s some vicious bastard running wild in Anhui, but they say they can’t catch him. They begged me so desperately that I had no choice but to come see you.”
 
