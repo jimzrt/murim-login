@@ -815,10 +815,11 @@ def durable_files(number: int, update: dict) -> dict[Path, str]:
     names_path = ROOT / "docs" / "NAMES.md"
     names_text = names_path.read_text(encoding="utf-8").rstrip()
     known_names = {item["korean"] for item in exact_glossary_entries(source)}
+    source_name_text = re.sub(r"\([^)]*\)", "", source)
     seen_names: set[str] = set()
     for row in update["names"]:
         korean = row["korean"]
-        if korean not in source:
+        if korean not in source and korean not in source_name_text:
             raise ValueError(f"new name is absent from source: {korean}")
         if korean in known_names or re.search(rf"^\|\s*{re.escape(korean)}\s*\|", names_text, re.MULTILINE):
             continue
