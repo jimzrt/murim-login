@@ -1,0 +1,142 @@
+{
+  "chapter": 165,
+  "stages": {
+    "adjudicator": {
+      "billing_type": "subscription",
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "cost_reported": 0,
+      "cost_usd": 0,
+      "elapsed_seconds": 303.683,
+      "event_log": "/home/james/Documents/murim_login_new/reviews/mastering/0165/omp/adjudicator.jsonl",
+      "exact": true,
+      "fallback_used": false,
+      "input_tokens": 0,
+      "model": "cursor-grok-4.6",
+      "models": {
+        "cursor/cursor-grok-4.6": {
+          "billing_type": "subscription",
+          "cache_read_tokens": 0,
+          "cache_write_tokens": 0,
+          "cost_usd": 0,
+          "input_tokens": 0,
+          "model": "cursor-grok-4.6",
+          "output_tokens": 6471,
+          "provider": "cursor",
+          "requests": 1,
+          "total_tokens": 6471
+        }
+      },
+      "output_bytes": 5203,
+      "output_tokens": 6471,
+      "packet_bytes": 74354,
+      "packet_token_estimate": 18589,
+      "provider": "cursor",
+      "requested_model": "cursor/cursor-grok-4.6:high",
+      "requests": 1,
+      "stop_reasons": [
+        "stop"
+      ],
+      "total_tokens": 6471,
+      "usage_source": "omp_provider_reported"
+    },
+    "fidelity_gate": {
+      "billing_type": "subscription",
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "cost_reported": 0,
+      "cost_usd": 0,
+      "elapsed_seconds": 31.398,
+      "event_log": "/home/james/Documents/murim_login_new/reviews/mastering/0165/omp/fidelity-gate.jsonl",
+      "exact": true,
+      "fallback_used": true,
+      "fallbacks": [
+        {
+          "event": "retry_fallback_applied",
+          "from": "openai-codex/gpt-5.6-sol:high",
+          "role": "openai-codex/gpt-5.6-sol",
+          "to": "cursor/gpt-5.6-sol:low"
+        },
+        {
+          "event": "retry_fallback_succeeded",
+          "model": "cursor/gpt-5.6-sol:low",
+          "role": "openai-codex/gpt-5.6-sol"
+        }
+      ],
+      "finding_count": 3,
+      "input_tokens": 0,
+      "major_or_critical_count": 0,
+      "model": "gpt-5.6-sol",
+      "models": {
+        "cursor/gpt-5.6-sol": {
+          "billing_type": "subscription",
+          "cache_read_tokens": 0,
+          "cache_write_tokens": 0,
+          "cost_usd": 0,
+          "input_tokens": 0,
+          "model": "gpt-5.6-sol",
+          "output_tokens": 455,
+          "provider": "cursor",
+          "requests": 1,
+          "total_tokens": 455
+        }
+      },
+      "output_bytes": 1865,
+      "output_tokens": 455,
+      "packet_bytes": 59157,
+      "packet_token_estimate": 14790,
+      "provider": "cursor",
+      "requested_model": "openai-codex/gpt-5.6-sol:high",
+      "requests": 1,
+      "stop_reasons": [
+        "stop"
+      ],
+      "total_tokens": 455,
+      "usage_source": "omp_provider_reported"
+    },
+    "master": {
+      "billing_type": "api",
+      "cache_read_tokens": 8960,
+      "cache_write_tokens": 0,
+      "cost_reported": 0.029888577,
+      "cost_usd": 0.029888577,
+      "elapsed_seconds": 188.151,
+      "event_log": "/home/james/Documents/murim_login_new/reviews/mastering/0165/omp/master.jsonl",
+      "exact": true,
+      "fallback_used": false,
+      "input_tokens": 66973,
+      "model": "deepseek/deepseek-v4.1-flash",
+      "models": {
+        "openrouter/deepseek/deepseek-v4.1-flash": {
+          "billing_type": "api",
+          "cache_read_tokens": 8960,
+          "cache_write_tokens": 0,
+          "cost_usd": 0.029888577,
+          "input_tokens": 66973,
+          "model": "deepseek/deepseek-v4.1-flash",
+          "output_tokens": 29647,
+          "provider": "openrouter",
+          "reasoning_tokens": 26744,
+          "requests": 3,
+          "total_tokens": 105580
+        }
+      },
+      "output_bytes": 12645,
+      "output_tokens": 29647,
+      "packet_bytes": 63442,
+      "packet_token_estimate": 15861,
+      "provider": "openrouter",
+      "reasoning_tokens": 26744,
+      "requested_model": "openrouter/deepseek/deepseek-v4.1-flash:low",
+      "requests": 3,
+      "stop_reasons": [
+        "error",
+        "error",
+        "stop"
+      ],
+      "total_tokens": 105580,
+      "usage_source": "omp_provider_reported"
+    }
+  },
+  "version": 1
+}

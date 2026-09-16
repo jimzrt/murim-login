@@ -22,7 +22,7 @@ From a low hill, one could not know what lay atop a high peak. But someone stand
 
 The same was true of Wipeng now.
 
-As an outstanding Peak master, he noticed the change in me at a glance. He looked at me with an expression mingling awe and disbelief.
+An outstanding Peak master, he noticed the change in me at a glance. He looked at me with an expression mingling awe and disbelief.
 
 “How is such a thing possible?”
 
@@ -36,7 +36,7 @@ Along with the brothers of the Jin Family of Taiyuan, he was one of the very few
 
 *It really is absurd.*
 
-A Third Rate thug had become a Peak master in only two or three months.
+A third-rate thug had become a Peak master in only two or three months.
 
 Even for someone with an open mind, that was an incomprehensible realm. Perhaps that was also why people believed the rumors.
 
@@ -96,7 +96,7 @@ Hyuk Mujin, who had been quietly listening beside us, spoke up.
 
 “Wait, what… Am I a servant?”
 
-“There’s no high or low in honest work. Are you looking down on servants now? Should I round up every servant in the Jin Family of Taiyuan and give them an earful?”
+“There’s no high or low in honest work. Are you looking down on servants now? Should I round up every servant in the Jin Family of Taiyuan and have them all talking about you?”
 
 “Oh, fine, I get it, so please stop already!”
 
@@ -158,7 +158,7 @@ Was he a ghost or something? I hurriedly swallowed the rest of my words.
 
 “Of course not.”
 
-“The Murim is a place where no one knows what lies one inch ahead. Be respectful toward Jang Taebo—Guild Leader Jang—as well. The Ironcraft Guild has close ties with the Nine Sects and One Gang, and its current Guild Leader is Jang Taebo’s Disciple. It would be unwise to get on his bad side.”
+“The Murim is a place where no one knows what lies one inch ahead. Be respectful toward Jang Taebo—Guild Leader Jang—as well. The Ironcraft Guild has considerable ties with the Nine Sects and One Gang, and its current Guild Leader is Jang Taebo’s Disciple. It would be unwise to get on his bad side.”
 
 “My hobby is filial piety, and my specialty is respecting the elderly.”
 
@@ -198,7 +198,7 @@ Wipeng put unusual emphasis on *noon tomorrow* to the very end. He was about to 
 
 With an incredulous expression, Wipeng pointed at the badly smashed door.
 
-“What happened to this? It can’t have been more than a few days since it was completed.”
+“What happened to this? It’s barely been a few days since it was completed.”
 
 “Who do you think did it?”
 
@@ -342,7 +342,7 @@ The giant’s eyes gleamed dangerously. The veins standing out on his forearms a
 
 Low laughter drifted from here and there.
 
-Their leader had given them permission to run wild as they pleased. The four hundred or so mounted bandits belonging to the Heavenly Wind Band trembled with excitement.
+Their leader had given them permission to run wild as they pleased. The four-hundred-some mounted bandits belonging to the Heavenly Wind Band trembled with excitement.
 
 The sight made the giant smile in satisfaction.
 
@@ -370,10 +370,10 @@ A thunderous roar erupted from the mouth of the giant, the Heavenly Wind Band Le
 
 “Let’s go!”
 
-The four hundred or so mounted bandits, brimming with excitement, had just turned their horses south when—
+The four-hundred-some mounted bandits, brimming with excitement, had just turned their horses south when—
 
 “You goddamn sons of bitches. Burn what, exactly?”
 
 A clear, ringing voice accompanied the appearance of a diminutive silhouette.
 
-The hand of an unidentified old man shone an icy white.
+The hand of an unidentified old man glowed a piercing white.
