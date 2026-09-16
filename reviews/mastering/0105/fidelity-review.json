@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Arms, chests, necks.",
+      "defect": "“Arms” generalizes the specific tattoo location; 팔뚝 means forearms.",
+      "id": "F01",
+      "rationale": "The source explicitly identifies forearms, chests, and necks as the varying tattoo locations.",
+      "replacement": "Forearms, chests, necks.",
+      "severity": "minor",
+      "source": "line 211"
+    }
+  ],
+  "summary": "Faithful overall, with one minor loss of physical specificity.",
+  "version": 1
+}
