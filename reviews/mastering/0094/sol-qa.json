@@ -1,0 +1,39 @@
+{
+  "chapter": 94,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.218,
+    "source_characters": 5833,
+    "source_paragraphs": 162,
+    "translation_characters": 12938,
+    "translation_paragraphs": 164
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "전하",
+        "preferred": "His Highness"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "조선",
+        "romanization": "joseon"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "상동",
+        "romanization": "sangdong"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
