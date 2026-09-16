@@ -239,7 +239,7 @@ After the commotion finally passed, Jin Wikyung managed to calm himself and look
 
 Hyuk Mujin, now sporting a lump on his forehead, answered at once. As expected, he only listened after getting hit.
 
-“Your useless older brother couldn’t even look after you properly, and you went and pulled this off all on your own. Sniff.”
+“Your good-for-nothing older brother couldn’t even look after you properly, and you went and pulled this off all on your own. Sniff.”
 
 “…”
 
@@ -297,7 +297,7 @@ Jin Wikyung asked with a shocked expression,
 
 This was driving me insane.
 
-Before I could answer, Hyuk Mujin, who had been sitting there quietly with his shoulders hunched, suddenly cut in with a baffled expression.
+Before I could answer, Hyuk Mujin, who had been sitting there quietly, deflated, suddenly cut in with a baffled expression.
 
 “Huh? Captain, you usually like getting attention.”
 

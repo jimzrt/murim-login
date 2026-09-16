@@ -37,9 +37,9 @@
 >
 > - Distribute your remaining points.
 
-I looked at my Status Window more than ten times a day, yet my mouth still split into a grin every time I saw it.
+It was a Status Window I looked at more than ten times a day, but my mouth still split into a grin every time I saw it.
 
-Who knew those four characters—Peak Master—could make me this happy?
+Who knew the four characters meaning “Peak Master” could make me this happy?
 
 *The System calls me a master. A Peak Master.*
 
@@ -65,7 +65,7 @@ My Inventory was packed with all kinds of junk I had collected in the Murim, but
 
 Whoosh.
 
-A heavy sphere suddenly popped into existence in midair. It was about the size of a bowling ball, its unpolished surface uneven and jagged, bulging out every which way.
+A heavy sphere suddenly popped into existence in midair. It was about the size of a bowling ball, its unpolished surface uneven and jagged, bulging out in every direction.
 
 At first glance, it looked like a useless lump of metal or a rock. But with even a little attention, one could recognize its true value.
 
@@ -97,13 +97,13 @@ I simply hadn’t had the means to turn those dreams into reality.
 
 The Jin Family of Taiyuan’s roots lay in sword techniques, not spear techniques.
 
-Supply follows demand. From the lowest-ranking martial artists up to the family’s leadership, most of them were sword users. As a result, both their martial arts and the quality of the weapons in the armory were far superior for swords than for spears.
+Supply followed demand. From the lowest-ranking martial artists to the heads of the family, most of them were sword users. As a result, both their martial arts and the quality of the weapons in the armory were far superior for swords than for spears.
 
 If Jin Wikyung hadn’t looked out for me, I might have had to fight with a cheap wooden spear or bamboo spear.
 
-How many times had my stomach burned whenever I swung an iron spear while the [Unnamed Sword], forged from Ten-Thousand-Year Cold Iron, sat idle?
+How many times had my guts twisted whenever I swung an iron spear while leaving the [Unnamed Sword], made from Ten-Thousand-Year Cold Iron, at my side?
 
-*But that bitterness is over now.*
+*But that humiliation is over now.*
 
 I had obtained the finest mineral in the world. I could have a beloved weapon of my own made.
 
@@ -139,7 +139,7 @@ I smiled contentedly and closed the Quest Window.
 
 Even without the Quest, I would have looked into it myself.
 
-Just as a famed sword only truly reveals its brilliance in the hands of a master, precious materials like Ten-Thousand-Year Cold Iron were no different.
+Just as a famed sword only truly revealed its brilliance in the hands of a master, precious materials like Ten-Thousand-Year Cold Iron were no different.
 
 Although the Quest was graded Peak, the mission itself didn’t seem particularly difficult.
 
@@ -153,7 +153,7 @@ The Jin Family of Taiyuan had branches spread throughout Shanxi. If I asked Jin 
 
 I even had a powerful connection in Wolhwa. With eyes and ears planted throughout Shanxi Province, something like this would be a piece of cake for her.
 
-*Whatever it takes, I’m clearing this Quest.*
+*Whatever it takes, I’m completing this Quest before I leave.*
 
 A month in the Murim was only three hours in the modern world.
 
@@ -191,7 +191,7 @@ Not a Familiar. It was a Hyuk-miliar.
 
 That bastard had definitely used my name to score some points with Jin Wikyung.
 
-“Waaah! Our youngest broke through the wall! He reached the Peak realm!”
+“Our youngest broke through the wall! He reached the Peak realm!”
 
 As expected, Hyuk Mujin quickly cut in.
 
@@ -239,7 +239,7 @@ After the commotion finally passed, Jin Wikyung managed to calm himself and look
 
 Hyuk Mujin, now sporting a lump on his forehead, answered at once. As expected, he only listened after getting hit.
 
-“Your useless older brother couldn’t even look after you properly, and you went and pulled this off all on your own. Sniff.”
+“Your useless older brother couldn’t even look after you properly, and yet you grew up this well all on your own. Sniff.”
 
 “…”
 
@@ -249,7 +249,7 @@ Whenever Jin Wikyung acted like this, I was grateful that this world had no soci
 
 A teary-eyed selfie and hashtags would have been included for free.
 
-#JinFamilyofTaiyuan #UselessOlderBrother #OurYoungestIsAlsoAPeakMaster #LetsDoOurBestAgainToday
+#JinFamilyofTaiyuan #UselessOlderBrother #OurYoungestIsAPeakMaster #KeepYourChinUpToday
 
 Wolhwa: Oh my! Young Master Jin? Congratulations!
 
@@ -275,7 +275,7 @@ Jin Wikyung gazed at me with a mixture of emotion and pride, then wiped the corn
 
 “No, this won’t do. I need to go right now and…”
 
-“You’re not planning to write ‘I’ve become a Peak Master’ on some gigantic banner like last time, are you?”
+“You’re not planning to write ‘Jin Taekyung has become a Peak Master’ on a gigantic banner like last time, are you?”
 
 “Huh.”
 
@@ -387,11 +387,11 @@ Already? That was the Jin Family of Taiyuan for you. They seemed to have a handl
 
 The progress was much faster than I had expected. My butt practically itched with impatience to go find the man immediately.
 
-“So he’s someone nearby?”
+“He must be someone nearby?”
 
 “Yes. He has apparently been living in seclusion without anyone knowing. Even our family only learned of his existence recently.”
 
-“What about his skill…?”
+“Could you tell me about his skill?”
 
 “I guarantee that even if you searched the entire world from top to bottom, he would be among the top ten.”
 
@@ -423,7 +423,7 @@ He looked utterly bewildered. Of course. He wasn’t a martial arts expert like 
 
 “H-How did you get it? No, before that, is it really all right to tell me something this important?”
 
-To the guy asking with a mix of shock and confusion on his face, I answered kindly.
+I answered him kindly despite the expression of shock and confusion on his face.
 
 “Yeah. You even saw it yourself.”
 
@@ -441,8 +441,8 @@ Hyuk Mujin sank into thought, and his mouth slowly fell open.
 
 “That’s the one. The thing you refused when I told you to take it.”
 
-“…!”
+“…”
 
-“Whew. That could have ended badly if I’d given it to you back then.”
+“Whew. Good thing I didn’t give it to you back then.”
 
 Hyuk Mujin’s face twisted miserably.
