@@ -1,0 +1,1185 @@
+# Master Edit Task — Chapter 149
+
+# Master Editorial Brief
+
+You are the final English-language editor of an existing Korean-to-English novel translation.
+
+The Korean source is the authority for meaning. The existing English is the baseline you are editing, not a draft to discard. Your task is to make the chapter read like professionally written native English commercial fiction while preserving the author's exact story, characterization, humor, register, pacing, ambiguity, and cultural texture.
+
+## Editorial authority
+
+You may freely recast sentences and paragraphs when the English is stiff, literal, repetitive for accidental reasons, awkwardly collocated, over-explained, or syntactically shaped by Korean. You may tighten dialogue, improve rhythm, repair transitions, and make action easier to follow. A technically correct sentence may still need rewriting if a fluent English novelist would not naturally phrase it that way.
+
+Do not change text merely to make it different. If the baseline is already strong, leave it alone.
+
+The accepted baseline is also the project's style and terminology anchor. Do not
+replace an established rendering, cultural term, System label, Markdown form, or
+recurring phrase with a synonym merely because the synonym sounds smoother.
+Make that change only when the Korean source, `RULES.md`, or the exact glossary
+requires it. In particular, do not turn a source-specific image into a nearby
+English image, or change a gold-spoon joke, item name, technique name, or UI
+label into a different expression without source support.
+
+## Fidelity constraints
+
+Never invent, omit, explain away, generalize, intensify, soften, or reinterpret source-supported content. In particular, preserve:
+
+- exact actions, subjects, objects, directionality, causality, quantities, and physical details;
+- deliberate ambiguity, euphemism, implication, profanity level, repetition, and withheld information;
+- jokes and comic specificity, even when a more generic English joke would sound smoother;
+- hierarchy, kinship, forms of address, characterization, and speaker attitude;
+- System mechanics, Murim concepts, names, ranks, techniques, items, organizations, and established terminology.
+- chapter-level logical consistency: interpret labels, counters, notifications, and repeated facts from how they behave across the scene, not from an isolated surface gloss;
+- idioms by their narrative function rather than their component words, and jokes with their setup, recognition, and punchline timing intact;
+- cross-sentence implications: do not create a claim that contradicts “again,” an increasing value, an earlier action, or the explanation immediately around it;
+- repeated terminology and formatting: once the baseline or glossary establishes a rendering, keep it consistent throughout the chapter unless the source clearly changes the sense;
+
+Do not add jokes, metaphors, explanations, emotional conclusions, or colorful details that are absent from the Korean. Do not replace a specific source image with a generic equivalent merely because the generic version is smoother.
+
+When natural English and literal form conflict, preserve the source meaning and pragmatic effect while changing the English form as much as necessary.
+
+Before returning the chapter, perform a silent continuity pass: trace every
+counter, quantity, repeated System label, item or technique name, joke setup and
+payoff, and physical cause-and-effect sequence from the Korean through the
+finished English. Correct any local sentence that contradicts the sequence.
+
+## Relationship to project files
+
+`RULES.md` is binding. `POLISH.md` describes known translation-English failure modes and should guide the edit. Exact glossary matches are binding unless the packet explicitly marks them otherwise. Character/continuity material is context only and must never override the chapter's Korean source.
+
+## Output
+
+Return only the complete edited English Markdown chapter. Preserve the required chapter heading and project Markdown conventions. Do not provide commentary, a change log, explanations, or a Markdown code fence.
+
+## Binding project rules
+
+# Translation Rules
+
+## Fidelity
+
+- Translate the Korean source—not the wiki, manhwa, fan translations, or expected plot.
+- Semantic fidelity outranks elegance. Never improve rhythm, humor, or localization by changing a physical action, negation, relationship, hierarchy, mechanism, quantity, or causal detail.
+- Preserve every fact, causal link, joke, emotional beat, repetition, and intentional omission. Add nothing.
+- Preserve small action verbs and pragmatic cues exactly: nodding versus shaking one's head, pretending nothing happened, and mild or approachable impressions are characterization, not expendable texture.
+- Preserve viewpoint and tense. Resolve omitted subjects only when context supports it; retain genuine ambiguity.
+- Match each speaker's hierarchy, intimacy, humor, and profanity naturally. Do not mechanically retain every honorific or classical self-reference.
+- Do not censor or soften content.
+
+## Terminology
+
+- `compendium.md` and `docs/NAMES.md` are binding for established names, titles, ranks, techniques, organizations, system terms, items, and locations. Profile headings and aliases join that ledger.
+- Search only exact Korean terms already present in the current chapter; the compendium contains future-sensitive entries.
+- Never re-romanize established names or invent grand names for uncertain terms. First use of an unlisted name or title almost always needs a footnote or a mapped ledger term.
+- Use `qi` for Murim energy and `mana` for the modern Hunter system when the source distinguishes them. Preserve an established chapter-specific rendering such as `internal energy` when the exact glossary and surrounding Korean distinguish accumulated `공력` from resulting `기운`.
+- In System panels, render `등급` as `**Grade:**` for quest, item, skill, and martial-art classifications. Reserve `rank` for Hunter classifications or ordinary prose; never replace a System `Grade` field with `Rank`.
+
+## English and Markdown
+
+- Use contemporary US English and natural action-comedy prose; avoid Korean syntax calques and generic cultivation MTL phrasing.
+- File: `translations/NNNN.md`; heading: `# Chapter N`.
+- Speech: curly double quotes. Direct thoughts: italics without quotes.
+- Use em dashes without spaces, the ellipsis character `…`, and `* * *` for source scene breaks.
+- Format each actual game System-message panel as one Markdown blockquote window headed `> **System**`. Keep all consecutive notices, fields, and lines inside that same blockquote; separate windows when prose intervenes. Do not enclose System notices or UI terms in square brackets; the `System` heading and framed blockquote identify the panel. Do not label manuals, ordinary quotations, warnings printed in a manual, or other non-System material as `System`; use a normal blockquote or a specific heading instead. Do not wrap each complete notice in outer `**`; retain bold only for meaningful labels or emphasis inside the panel.
+- Keep the final file English-only reading copy: no audit notes, Korean text, summaries, or model metadata.
+
+### Tone and Style
+
+- Write like a polished commercial webnovel: brisk, vivid, accessible, and easy to read aloud.
+- Preserve the series’ contrast between danger and comedy. Let absurdity, bad timing, blunt reactions, and grim situations create dark humor without adding jokes absent from the Korean.
+- Jin Taekyung’s narration is conversational, observant, self-mocking, and occasionally profane. It may be irreverent even when the situation is serious.
+- Keep deadpan punchlines short and well-timed. Do not explain a joke after delivering it.
+- Preserve the source's level of explicitness. A euphemism may remain euphemistic even when its meaning is sexual or crude; do not replace it with more graphic English merely for impact.
+- Make dialogue spontaneous and character-specific. Preserve hierarchy and intimacy through word choice, address, rhythm, and restraint—not archaic wuxia English.
+- Use strong profanity when the Korean is strong, but neither intensify nor sanitize it. Do not make ordinary lines uniformly vulgar. Profanity should reveal mood or relationship.
+- Keep action and injury vivid but clear rather than purple. Do not make violence funny unless the source’s framing does.
+- Avoid stiff literalism, translator-added melodrama, dated internet slang, and quippy superhero-style banter.
+- On the second pass, correct awkward English collocations and word choices without changing meaning or voice. Prefer ordinary, spoken English over stiff Latinate or ceremonial wording when the scene is brisk or comic: “goose bumps” rather than “gooseflesh,” and “laid into them” rather than “launched into a solemn denunciation.” Read the prose aloud and replace any phrase that sounds like a formal essay, legal document, or literal dictionary gloss unless the source deliberately calls for that register.
+
+## Footnotes
+
+Use `[^1]` Markdown footnotes when a brief, factual, spoiler-free explanation materially helps an English reader understand:
+
+- a Korean institution, living arrangement, food, holiday, myth, historical reference, or local custom;
+- a Korean word, phrase, idiom, wordplay, or culturally specific image that cannot be conveyed fully by the best natural English analogy;
+- a deliberately literal rendering whose cultural or linguistic force would otherwise be lost.
+
+For example, render `고시원` as “goshiwon” when the setting or connotations matter, with a concise footnote explaining that it is a very small, inexpensive room-for-rent housing arrangement. Prefer the best natural English analogy in the prose. Use a literal translation plus a concise footnote when the Korean wording itself matters. Define a term at its first meaningful occurrence and do not repeat the note unnecessarily. Footnotes must be rare, useful, and non-spoiling; do not footnote ordinary vocabulary, fully preserved jokes, or uncertainty. Record consequential uncertainty in `docs/STATE.md`.
+
+## Spoilers and Scope
+
+- Safe profiles contain only facts revealed through the latest completed chapter.
+- Never read `characters/spoilers/` during drafting. Reviewers may consult one relevant sealed profile only for a specific unresolved continuity issue after the draft is complete.
+- Future knowledge may prevent contradiction but may not add early names, pronouns, certainty, motives, or foreshadowing.
+- Translate exactly one requested chapter unless the user explicitly requests a batch. Never modify Korean source files under `source/`.
+
+## Project polish guidance
+
+# Polish Brief — Murim Login
+
+## Goal
+Make the English natural and fluent without changing meaning, pacing, humor, character voice, System terminology, or Korean/Murim cultural content.
+
+**Core rule:** Translate the thought, not the Korean sentence structure. If meaning, idiom, or cultural context is unclear, always check the original Korean source before editing.
+
+## Priorities
+1. Rewrite literal or calqued English, awkward collocations, and cumbersome sentence structures.
+2. Normalize tense and aspect; prefer natural English information order.
+3. Replace mechanical body-part descriptions with character-centered actions where appropriate.
+4. Preserve repetition when it serves comedy, panic, emphasis, pacing, or characterization.
+5. Keep Taekyung’s voice contemporary, casual, blunt, sarcastic, gamer-aware, and syntactically simple.
+6. Standardize System terminology, capitalization, hyphenation, names, and romanization.
+
+## Typical repairs
+Recast the whole phrase rather than editing word by word:
+
+- “True to my words, he hadn’t looked inside.” → “Just as I’d said, he hadn’t even looked inside.”
+- “The pronunciation was perfectly Korean.” → “She was speaking perfect Korean.”
+- “I scanned the Status Window with a hawk’s eye.” → “I scrutinized the Status Window.”
+- “The joy I’d felt that day threw me into confusion now.” → “Remembering how happy I’d been that day only made me more confused.”
+- “Wolhwa held out her hands. Both spotless hands held a bowl…” → “Wolhwa held out a bowl of water in both hands.”
+- “This character is totally born with a silver spoon…” → “This guy really was born with a silver spoon…”
+- “Jinho pronounced it with the solemnity of a judge.” → “Jinho delivered the verdict with the solemnity of a judge.”
+- “The most common among them is the weak monster even an F-rank Hunter like me can handle: the goblin.” → “The weakest and most common of them were goblins—even an F-rank Hunter like me could handle one.”
+- “For a moment, silence flowed between us as we stared at each other.” → “For a moment, we stared at each other in silence.”
+- “I thrust out my fist on reflex, forcing the words through my clenched voice.” → “I lashed out on reflex, forcing the words through clenched teeth.”
+- “You could say they’re a deeply rooted old tree.” → “You could say they’re one of the region’s old, deeply rooted powers.”
+- “I blinked. It felt like I’d been hit in the back of the head.” → “I blinked. I felt completely blindsided.”
+- “But there were no take-backs. I’d just have to spit and move on.” → “But there were no take-backs. I’d just have to suck it up and move on.”
+- “This time, a different kind of ecstasy swept over me than when I’d used the Status Window. Maybe it was pain.” → “This time, what swept through me was nothing like the exhilaration I’d felt from the Status Window. If anything, it was pain.”
+
+Watch for abstractions or body parts acting unnaturally: “X feeling came over my body,” “X thought entered my mind,” “my eyes stopped at X,” and “X emotion threw me into Y.”
+
+## Idioms and cultural phrasing
+Translate idioms by function, but verify the Korean source before changing meaning. If “put up a whole building” means wealth or ownership, use “buy a whole building”; if the Korean literally means construction, retain that meaning. Keep useful terms such as **goshiwon**, **doenjang**, and **jeonse**, and naturalize the surrounding English.
+
+## System style
+Use formal capitalization in System/UI text and normal English in prose.
+
+- UI occupation: `Third Rate Martial Artist`
+- Prose: `third-rate martial artist`
+- Interfaces: `Status Window`, `Skill Window`
+- System classification field: `**Grade:**`; use `rank` only for Hunter classifications or ordinary prose.
+- Formal UI values use title case (`Third Rate Martial Artist`); ordinary prose uses lowercase hyphenated forms (`a third-rate martial artist`).
+- Preserve exact objective/completion terminology across a quest. In this arc, use `Check and Distribute Skill Window Points` in both places; use `Redistribute` only when previously assigned points are actually being reallocated.
+- Use the established terminology sheet; resolve inconsistencies according to the Korean source.
+- Use one consistent romanization style, including tone marks in Chinese pinyin (`Tài lěng le`, `Zhōngguó rén ma?`). Check the original before changing an unmarked form: `Shenme` remains unmarked here because the spelling supports Taekyung’s “Ms. Sunmi” mishearing joke.
+- For Murim metaphors and idioms, check the Korean before rewriting. Preserve the image when it carries meaning, but render its function in natural English; do not retain calques such as “silence flowed” or “spit and move on” without a source-based reason.
+
+## Passes
+1. Native-English pass: remove calques, awkward structure, collocations, and tense problems.
+2. Voice pass: preserve casual, blunt character voice and spoken dialogue.
+3. Terminology pass: standardize System terms, ranks, capitalization, names, and romanization.
+4. Source-check pass: verify idioms, jokes, metaphors, and cultural details against the original Korean.
+
+**Final test:** Would a native English writer naturally phrase this sentence this way in context, while preserving what the Korean says?
+
+## Output contract
+Return only the complete English Markdown reading copy. The first nonblank line
+must be `# Chapter N`. Do not prefix a status sentence, tool note, or thinking.
+
+## Exact glossary matches for this Korean chapter
+
+| 무림     | **Murim**          |
+| 백무성    | **Baek Museong**   |
+| 철우     | **Chulwoo**        |
+| 은향     | **Eunhyang**       |
+| 매종학    | **Mae Jonghak**    |
+| 청풍     | **Cheongpung**     |
+| 검성     | **Sword Saint**               | Mae Jonghak    |
+| 화산파    | **Huashan**                      |
+| 무공     | **martial arts**                                 | Can mean a specific martial art in context            |
+| 고수     | **master**                                       | Strong/skilled martial artist                         |
+| 사파     | **unorthodox faction**                           |                                                       |
+| 장문인    | **Sect Leader**                              |
+| 사부     | **Master**                                   |
+| 제자     | **Disciple**                                 |
+| 사형     | **Senior Brother**                           |
+| 사제     | **Junior Brother**                           |
+| 생도     | **cadet**                                    |
+| 산서     | **Shanxi**             |
+| 화산     | **Huashan**            |
+| 대협      | **Great Hero** or **Sir** depending tone                        |
+| 공자      | **Young Master**                                                |
+| 도사      | **Daoist**                                                      |
+| 대사      | **Master** for a senior Buddhist monk                           |
+| 흑사 | **Black Sand** | Eyepatched middle-aged leader of the Black Sand Band; a newly introduced identity. |
+| 흑도 | **dark-path figures** | Generic category of underworld martial forces. |
+| 전서구 | **messenger pigeon** | Pigeon delivering the Lower District Sect's Jeongyang Branch report. |
+| 북망산 | **Mount Beimang** | Mountain associated with burial grounds; used as a threat to send someone to their death. |
+| 산서성 | **Shanxi Province** | Province containing the Lower District Sect branches. |
+| 갑자 | **jiazi** | Traditional sixty-year cycle. |
+| 시진 | **shichen** | Traditional time unit of approximately two hours. |
+| 연화봉 | **Lotus Peak** | Peak on Huashan from which Cheongpung recently fled. |
+| 태사부 | **Grandmaster** | Huashan title referring to Mae Jonghak. |
+| 은자 | **silver nyang** | Silver currency unit. |
+| 서안 | **Xi’an** | Historic city near Huashan. |
+| 서악 | **Western Peak** | Name for Huashan among the Five Great Mountains. |
+| 흑사파 | **Black Serpent Sect** | Dark-path gambling-den gang in Xi’an. |
+| 화산일학 | **Huashan’s Lone Crane** | Epithet of Baek Museong. |
+| 매화삼절 | **Three Plum Blossom Elites** | Collective title for the current Sect Leader’s three exceptional disciples. |
+| 매화검수 | **Plum Blossom Swordsmen** | Huashan appointment held by its three elite disciples. |
+| 가지 | **Go** | Song associated with Won Myunghoon. |
+
+## Matched address pairs
+
+| Speaker | Addressee | Kinship | Normal address | Speech level | Notes |
+| ------- | --------- | ------- | -------------- | ------------ | ----- |
+| 철우 | 백무성 | junior_disciple_to_senior_brother | Senior Brother | deferential | Uses 대사형 while answering Baek Museong. |
+| 은향 | 백무성 | junior_disciple_to_senior_brother | Big Brother; Senior Brother | familiar and casual-polite | Repeatedly calls him 큰 오라버니 even after he insists on 대사형. |
+| 매종학 | 청풍 | grandfather_to_grandson | Pung | affectionate-instructional | Mae Jonghak calls young Cheongpung 풍아 while teaching him the Crouching Tiger Fist. |
+| 백무성 | 철우 | senior_disciple_to_second_junior_disciple | Second | calm and admonishing | Baek Museong uses 둘째 while ordering Chulwoo to stop and later directs him to find Eunhyang. |
+| 은향 | 철우 | younger_female_disciple_to_older_fellow_disciple | Senior Brother Chul | familiar and casual-polite | Uses 철 오라버니 while teasing and speaking familiarly to Chulwoo. |
+| 백무성 | 청풍 | Martial_Nephew_to_Martial_Uncle | Martial Uncle | formal-deferential | Baek formally identifies himself as Cheongpung's Martial Nephew. |
+| 철우 | 청풍 | junior_disciple_to_Martial_Uncle | Martial Uncle | apologetic and deferential | Initially calls Cheongpung Young Hero, then recognizes him and apologizes for failing to recognize the senior sect relation. |
+| 청풍 | 백무성 | Martial_Uncle_to_Martial_Nephew | Martial Nephew | affectionate-casual | Cheongpung accepts Baek Museong's apology by calling him 사질. |
+| 청풍 | 철우 | martial_uncle_to_martial_nephew | Martial Nephew Chulwoo | affectionate-casual | Cheongpung addresses Chulwoo as his Martial Nephew while assessing Taekyung's speed. |
+
+## Matched risk notes
+
+| Korean | Category | Constraint | Forbidden English |
+| ------ | -------- | ---------- | ----------------- |
+| 당장은 | polysemy | Right away / for now / at the moment; not the broader “anytime soon.” | anytime soon |
+| 형 | kinship | Junior-to-senior kinship/address. Casual speech often retains hyung; do not flatten every 형 to “brother.” | |
+| 끄덕 | idiom | A nod; do not reverse into a head-shake. | |
+| 기운 | murim_vs_hunter | Murim energy is qi; do not render Murim 기운 as Hunter mana. | |
+| 마나 | murim_vs_hunter | Modern Hunter-system energy is mana when the source distinguishes it from Murim qi. | |
+
+## Chapter-safe character profiles
+
+(No chapter-safe profiles available. This is expected for early retrospective chapters.)
+
+## Chapter-safe bounded continuity
+
+### Latest prior summary
+
+# Chapters 140–144
+
+## Plot
+
+At the City Lord’s luncheon, Jin Taekyung humiliates Gong Ilhyuk by exposing his tenuous relationship with Zhongnan Sect Leader Gong Iljung. When Ilhyuk attacks Cheongpung, Cheongpung effortlessly destroys his arm with the Taeeul Miri Palm. Revealing that Mae Jonghak, the Sword Saint, taught him the technique, Cheongpung prompts Li Feng to recognize him as his Martial Uncle. Cheongpung then demonstrates the Zaha Divine Technique, confirming his inheritance of Mae Jonghak’s legacy and further humiliating Zhongnan.
+
+Hong Jin dismisses the Zhongnan delegation and abandons their expected partnership, choosing to pursue the Shaanxi–Shanxi trade route through Huashan instead. Li Feng agrees to contact Huashan and act as intermediary. Gong Ilhyuk leaves vowing revenge.
+
+Hong Jin and Li Feng escort Taekyung and Cheongpung through the Provincial Office to meet ten-year-old Prince Shangshan, Zhu Bao. Zhu Bao recognizes Taekyung as the Sleeping Dragon of Shanxi, requests his autograph, and eagerly questions Cheongpung after learning he is Mae Jonghak’s disciple. Taekyung carves an encouraging signature for Zhu Bao, who plans to display it publicly.
+
+The luncheon attendance condition is fulfilled, with the associated quest reward deferred until the luncheon ends. Hong Jin and Li Feng ask the Jin Family of Taiyuan to support an Escort Bureau expanding from Shaanxi toward the Central Plains, offering half the funding and official assistance. Taekyung agrees only to relay the proposal to Jin Wikyung and suggests using the Seongun Escort Bureau as the base.
+
+## Continuity
+
+- Cheongpung is Mae Jonghak’s twenty-year-old grandson and martial heir, a Peak master raised in seclusion. Li Feng formally recognizes him as his Martial Uncle.
+- Mae Jonghak remained hidden at a Huashan residence protected by ten formations. Li Feng saw Cheongpung there as a child and left Huashan after being overwhelmed by his talent, not because of his defeat by Gong Ilhyuk.
+- Cheongpung knows the Taeeul Miri Palm, Zaha Divine Technique, and several other Huashan techniques. His Extreme Yang internal energy and martial ability vastly exceed his apparent age.
+- Cheongpung’s exact parentage and the meaning of Mae Jonghak’s claim that a crane delivered him remain unresolved.
+- Hong Jin is Shanxi’s eunuch Deputy Military Commissioner and has served Prince Shangshan since infancy. Li Feng is the Assistant Military Commissioner and commands the Provincial Office’s soldiers.
+- The trade and Escort Bureau project has shifted from Zhongnan to Huashan, with Li Feng serving as Hong Jin’s intermediary. Taekyung has not endorsed the proposal; he will present it to Jin Wikyung.
+- Gong Ilhyuk leaves humiliated and vengeful. The names and identities of the other two members of the Three Hands of Zhongnan remain unknown.
+- Zhu Bao is an exceptionally skilled ten-year-old swordsman who has trained daily for three years. He admires Taekyung and wants to emulate him.
+- Taekyung remains below the Peak realm and cannot use Sword Energy, despite defeating the Peak masters Jopil, Jin Baekyang, and Pung Yang.
+- Cheongpung wants royal-guard armor because he admires its black appearance and has agreed to call Li Feng Martial Nephew in exchange for royal-guard equipment.
+- The full title of the wuxia novel beginning with “The Reign…” remains unknown. The Emperor’s reported suspicion of his younger brother and the political danger surrounding Zhu Bao also remain unresolved.
+
+## Translation Decisions
+
+- Render **태을미리장** as **Taeeul Miri Palm**, **자하신공** as **Zaha Divine Technique**, **태사부** as **Grandmaster**, and **사숙** as **Martial Uncle**.
+- Render **풍운검군** as **Wind-and-Cloud Sword Lord** and **오촌 당숙** as **father’s cousin**.
+- Render **근위대** as **royal guard** and **근위대 갑옷 세트** as **Royal Guard Armor Set**.
+- Use **His Highness** for formal royal address and **king** when Cheongpung uses the literal term.
+- Render **주표** as **Zhu Bao**, Prince Shangshan’s personal name.
+
+### Prior accepted reading-copy tails
+
+#### Chapter 147 tail (verified mastered)
+
+…
+cloth banner displayed enormous letters that read: **The Day the Deputy Military Commissioner Came to the Jin Family of Taiyuan** *This isn’t even Buddha’s Birthday. What the hell is this?* I was too embarrassed to lift my head when Hong Jin climbed down behind me and burst out laughing, clutching his stomach. “Wow. This is even more than I expected.” “Are you and my eldest brother old ball buddies or something? How else did you get such an enthusiastic welcome…?” “Young Master Jin, I don’t have balls.” “Ah—oh. I’m sorry. I’m really sorry.” That was a tremendous blunder. Without a stick, there was no way any fertilized eggs would be left behind. As I writhed under the weight of my guilt, Cheongpung approached and comforted me. “Benefactor, my grandfather used to say that people who don’t know how to read the room have no friends around them. But don’t worry. I’ll be your ball buddy.” “……” *I don’t need one, you bastard.* As I struggled to swallow the curse, Hong Jin spoke. “Young Master Jin, do you know what binds people together? Wealth. They say gold and silver can make even ghosts work for you. Living people should be even easier, don’t you think?” “So?” “I told you I’d give him a present. It’s basically a bribe.” *Money can make even ghosts work for you.* I agreed with that to some extent, but I didn’t like the fact that the person in question was Jin Wikyung. I already thought of him as my older brother deep down. I didn’t appreciate Hong Jin making him out to be some materialistic opportunist who could be bought with a bribe. Perhaps that displeasure showed on my face, because Hong Jin smiled and said, “Was that too harsh? But it’s only natural. Who doesn’t like wealth?” “He’s still my eldest brother. Don’t think you’ve won over the Lesser Family Head of the Jin Family of Taiyuan with a measly few silver nyang.” “Young Master Jin…” Hong Jin’s eyes widened at my low voice. “A few silver nyang? I gave him a thousand.” “A measly… How much?” “A thousand silver nyang. One hundred thousand nyang in iron coins.” By now, I had a rough grasp of Murim prices and currency. The private suite at the Phoenix Inn, which could be considered a luxury hotel, cost fifty silver nyang per night. That was said to be close to twice the annual living expenses of a family of four commoners. *In modern money, that would be tens of millions of won.* A thousand silver nyang was twenty times that. In other words, Hong Jin had casually tossed several hundred million won at them in one go. “That’s… a lot, isn’t it?” “A lot, yes. I put in some effort this time.” “Still, that’s far too much.” “It’s for the sake of our future relationship. And right now, the Jin Family of Taiyuan is probably losing money faster than it’s bringing money in. Winning a war and occupying the enemy’s territory isn’t the end of it.” “Ah, yes.” “The assistance you give at times like this feels much greater. I learned that after giving and receiving so many bribes myself. Ah, of course…” Hong Jin continued with a wink. “I also spent a little extra because I’ve taken quite a liking to you, Young Master Jin. You know how I feel, don’t you?” The moment he finished speaking, I felt a hard foreign object against my butt. The repeated poking sensation jolted me wide awake. *No way. Is this bastard seriously…?* I swear, it was the most spine-chilling moment of my entire life. *Fine. You die, I die. Let’s have another war!* I spun around at lightning speed. What met my eyes was a silver lump about half the size of my palm. What did they call those again? A silver yuanbao? “Here. Pocket money from me.” *Oh, right. He’s a eunuch.* I calmed my pounding heart and answered. “Th-thank you.” “Sure. Go buy some candied hawthorn skewers.[^1]” “Benefactor, could you take me with you when you buy them?” Cheongpung smacked his lips as he joined in. Just then, a familiar voice rang out from behind us. “Heh heh. I’ll tell the cooks separately, so ask for as many as you like. Isn’t that right, Wipeng?” “We’ll build a mountain of candied hawthorn skewers.” “Who is that fellow? Candied hawthorn skewers? He isn’t even a child, so what’s this about?” I didn’t need to look to know who it was. I turned around with a happy smile, only to find a scene that left me speechless. *Flutter. Flutter.* Jin Wikyung was smiling broadly. So was Wipeng. Jin Mukyung’s face was bright red. In the hands of all three men, tiny scraps of cloth fluttered in the wind. I had no idea when they had made them. > **Long live the Great Nation! Long live His Imperial Majesty the Emperor!** > > **His Highness Prince Shangshan, may you become a sage king!** “……” “……” *What had I said to Hong Jin earlier?* *Had I told him not to think he’d won over the Lesser Family Head of the mighty Jin Family of Taiyuan with a measly few silver nyang?* *Fuck, “won him over” my ass.* At this point, he was burned—burned to a crisp. [^1]: Candied hawthorn skewers are a traditional snack made by coating fruit in hardened sugar.
+
+#### Chapter 148 tail (verified mastered)
+
+…
+place to start.” “A first? What does that mean?” “A dueling tour.” Cheongpung smiled softly. It was completely different from the bright, innocent smile I had seen from him until now. “I decided it while coming down the mountain. I won’t return until I’ve defeated all the Ten Dragons and Phoenixes.” “……!” “My grandfather told me this: A martial artist has no need for conversation. We contend through martial arts alone.” Sssss. At that moment, I felt a wave of heat. Violet light-flames had risen around Cheongpung’s entire body, surging upward. I had already seen this once before. *The Zaha Divine Technique.* The Extreme Yang qi burned the cold away. The earth melted, and the soil scorched. Cheongpung opened his mouth with all traces of his smile gone. “Shall we move somewhere else?” “Is there any need?” Jin Mukyung continued. “Draw your sword.” * * * Jin Mukyung let out a long breath. His rapidly beating heart slowly began to settle. Breathing was important in battle. Only now was he finally ready to draw his sword. As he placed a hand on the hilt, he thought of one man’s name. *Sword Saint Mae Jonghak.* Not once had he forgotten that name since the day he first held a sword. A legendary swordsman said to have reached the ultimate realm of the sword—or perhaps a realm beyond it. Everyone revered the Sword Saint, but Jin Mukyung was different. *Someday, I will defeat him.* If anyone had heard him say that, they would have snorted. They would have pointed at him and called him crazy. No matter how much of a genius Jin Mukyung was, he could never reach the Sword Saint’s name. Ever since Mae Jonghak had begun to be called the Sword Saint, no one had surpassed him. Decades ago, Sword Saint Mae Jonghak had already written a new chapter in the history of the orthodox Murim and become the protagonist of a legend. *It doesn’t matter. This is my goal.* It was not reckless arrogance. It was a goal. A goal he had etched into his bones and heart every day as he trained with his sword. And at this very moment, someone who had inherited everything from Sword Saint Mae Jonghak stood before him. “My grandfather used to tell me, ‘Compared to the Ten Dragons and Phoenixes, you are nothing. Don’t become arrogant.’” Cheongpung slowly stepped forward. A single blue-steel sword dangled from his waist, tied on haphazardly, and his footsteps were as light as though he had come out for a stroll. But… *There are no openings.* He looked utterly careless, but Jin Mukyung had no idea when or how he could attack. Jin Mukyung licked his parched lips. “I’ve never even met him… He praised me too highly.” “No. Honestly, you surprised me a little. I mean that.” Jin Mukyung knew that Cheongpung meant every word. That only made him feel stranger. *Only a little?* It had been more than twenty years since he began training with the sword. Talent and effort had brought him this far. People called him a genius, gave him the martial title Heaven Shaking Sword, and counted him among the Ten Dragons and Phoenixes. He had believed he had never once become drunk on such empty fame, but… *I still have a long way to go.* At some point, he must have grown accustomed to the gazes of people who looked up to him. The wound Pung Yang had inflicted on him not long ago seemed to throb again. “Do you know something?” “What?” “That you’re strong.” “Until recently, I wasn’t certain. But now I know.” “Because you met me?” “Yes. Because I met you, Young Hero Jin. Now I know what the Ten Dragons and Phoenixes are capable of.” “Is that so?” Jin Mukyung let out a quiet laugh. What an interesting guy. He possessed martial arts that rivaled—or even surpassed—those of an Elder of the Nine Sects and One Gang, yet he remained untainted by the world. He was pure. Honest. He was a martial artist, but he didn’t fit in the Murim. *He’s the exact opposite of someone I know.* One person suddenly came to mind. A guy who seemed like he could somehow survive no matter where he was thrown in the Murim, and who fought in the least martial-artist-like way imaginable. “How old are you?” “I turned twenty this year.” “We’re even the same age. Coincidence? Or fate?” “What?” Instead of answering, Jin Mukyung shook his head. In truth, he already knew the outcome of this duel. The qi of the Zaha Divine Technique surging through Cheongpung’s entire body was that overwhelming. His only regret was that he couldn’t display the full extent of his skill against an opponent of this caliber. *What would that troublemaker do in a situation like this?* Jin Mukyung glanced at his troublesome younger brother. With a grin like a little devil’s, Taekyung was mouthing something. *You. Are. Fucked.* *What a goddamn bastard.* Laughing hollowly, Jin Mukyung placed a hand on his sword hilt. The internal energy boiling up from his dantian coursed through every part of his body. Cheongpung looked at Jin Mukyung’s sword and spoke. “My grandfather told me something else, too. A duel doesn’t need an opening stance or anything like that.” “I agree.” The next moment— With a tremendous boom, violet light-flames and silver Sword Energy collided.
+
+## Korean source
+
+```text
+＃149화
+
+
+
+서안(西安)의 역사는 깊다. 왕조가 바뀌기 전까지 수백 년간 천하의 중심이라 불렸다.
+
+수많은 인구, 평야와 광산으로부터 생산되는 풍부한 자원. 그리고 세월에 휩쓸려 간 세 개의 통일 왕조가 남긴 명승고적(名勝古跡)들은 아직도 수많은 이들이 서안을 찾는 이유다.
+
+시끌벅적한 서안의 한 객잔. 두툼한 모피 옷을 걸친 두 유생도 그런 이들 중 하나였다.
+
+“자, 서두르세. 해가 떨어지기 전까지 객잔으로 돌아오려면 시간이 빠듯해.”
+
+의욕이 넘치는 친구와는 달리 다른 유생은 질린 얼굴로 고개를 저었다.
+
+“또?”
+
+“또라니. 그게 무슨 뜻인가?”
+
+“오늘은 이만 쉬면 안 되겠나? 며칠째 돌아다녔더니 다리가 부러질 것 같아서 그래.”
+
+“이 친구 엄살은. 천릿길을 걸어서 왔는데 어떻게 그냥 돌아가? 우리 나이에 다시 서안에 올 일이 있을 성싶은가?”
+
+“어이고, 서안 구경하다가 북망산 구경하게 생겼네. 나 좀 내버려 둬.”
+
+“어허, 다른 곳은 몰라도 서악(西岳)은 들러야지. 그 절경을 놓치면 죽을 때까지 후회할 거야.”
+
+“서악이라…….”
+
+천하에서 손꼽히는 다섯 개의 명산을 가리켜 오악(五岳)이라 한다.
+
+그중 서악은 서안에서 가까운 화산(華山)을 가리키는 말이었다.
+
+“화산에 올라 천하를 내려다보면 어떤 기분일지 생각해 보게. 상상만으로도 호연지기가 솟구치지 않나?”
+
+“그건…… 그렇지.”
+
+열의에 찬 설득에 유생은 마지못해 고개를 끄덕였다.
+
+화산이 그 험준함만큼이나 아름다운 절경으로 유명하다는 것은 그도 익히 알고 있는 사실이었으니까.
+
+“명산이 괜히 명산이겠나? 이번에 영험한 기운을 잔뜩 받아 가야 다음 과거 때 좋은 소식이 있지. 자네가 낙방한 것만 벌써 몇 번짼가?”
+
+“갑자기 그 얘기가 왜 나와!”
+
+“이 사람 성내기는. 아무튼, 화산에 가서 호연지기도 받고 영기도 받자. 뭐 그런 말이지.”
+
+그가 여전히 망설이는 기색이자, 유생이 은근한 목소리로 덧붙였다.
+
+“다른 곳까지 들르자는 말은 안 하겠네. 화산의 연화봉(蓮花峰)만 찍고 바로 내려오세.”
+
+이쯤 되니 완강히 버티던 유생도 마음이 동했다. 혹시 누가 아는가, 정말 내년에 과거에 떡하니 붙을지도.
+
+하지만 한 가지 소문이 마음에 걸렸다.
+
+“한데 내 듣자 하니 화산에는 무림인들이 득실거린다던데…….”
+
+“화산파 도사들을 말하는 거라면 괜찮네. 석년에 내 지인이 한 번 다녀온 적이 있는데 아무 문제도 없었다더군.”
+
+“커흠. 그럼 한번 가 볼까?”
+
+못 이긴 척 자리에서 일어나려던 유생이 순간 중심을 잃고 비틀거렸다. 아까부터 후들거리던 다리에 힘이 쫙 풀린 것이다.
+
+자칫하면 주위에 널린 탁자 모서리에 뒤통수가 찍힐 상황.
+
+“어, 어어!”
+
+외마디 비명과 함께 쓰러지려는 찰나, 거칠고 단단한 손바닥이 유생의 등을 받쳤다.
+
+“으, 으헉. 겨우 살았네.”
+
+겨우 신형을 바로 한 유생이 안도의 한숨과 함께 손의 주인을 바라봤다.
+
+서른쯤 되었을까? 평범한 인상에 흰 도포를 입은 청년이 부드럽게 웃어 보였다.
+
+“괜찮으십니까?”
+
+“고, 고맙소.”
+
+“별말씀을요.”
+
+간신히 위기를 모면한 유생은 신기하다는 눈빛으로 청년을 바라봤다.
+
+‘평범해 보이는데.’
+
+어중간한 신장에 늘씬해 보이는 몸이다. 한데 수십 근이나 더 나갈 자신의 몸을 한 손으로 받치다니.
+
+혹 무림인인가 싶어 옆구리를 살펴봤지만 휑한 것으로 봐서 그건 아닌 듯싶다.
+
+‘보기와는 달리 힘이 장사구먼.’
+
+어쨌건 덕분에 살았다. 옛 성현들이 말씀하시길 은혜를 갚는 것이 사람의 도리라고 했다.
+
+“다시 한번 고맙소. 공자 덕분에 낭패를 면했구려.”
+
+“해야 할 일을 한 것이니 신경 쓰지 않으셔도 됩니다.”
+
+“큰 도움을 받았는데 어찌 말 몇 마디로 끝내겠소? 이럴 게 아니라 내 한턱 낼 테니 합석하시구려.”
+
+그러자 동료 유생이 황당한 듯한 얼굴로 끼어들었다.
+
+“그게 무슨 소린가? 화산은? 연화봉은 어쩌고?”
+
+“방금 골로 갈 뻔한 거 못 봤나? 이건 객잔에서 쉬라는 징조야. 그리고 여기 계신 공자가 날 구해 줬으니 은혜는 갚아야지. 안 그렇소?”
+
+청년은 웃으며 손을 내저었다.
+
+“전 정말 괜찮습니다. 기다리는 일행도 있고요.”
+
+“일행이라니? 아까부터 보아하니 한 시진이 넘게 혼자 있던 것 같은데.”
+
+“하하, 일이 있어 늦어지는 모양입니다. 기다리는 수밖에요.”
+
+한 시진을 넘게 있었는데도 계속 기다리겠다고? 생긴 것만큼이나 속 좋은 놈이다.
+
+그렇다고 일행이 있다는데 막무가내로 합석하자고 할 수도 없는 일. 유생은 아쉬운 듯이 입맛을 다셨다.
+
+“그럼 어쩔 수 없지. 사는 동안 가내 두루 평안하시고, 무병장수하길 바라겠소.”
+
+“화산! 연화봉!”
+
+“아, 지금 갈 테니까 거 유별난 주둥이 좀 닫아 보게.”
+
+“역시, 난 자네를 믿었어.”
+
+“확 그냥, 연화봉 정상에서 밀어 버릴까 보다.”
+
+일행을 향해 눈을 부라린 유생이 막 걸음을 떼려던 찰나였다.
+
+쾅!
+
+모골이 송연해지는 굉음. 객잔 문이 박살 나더니 우렁찬 외침과 함께 일남일녀가 모습을 드러냈다.
+
+“저희 왔습니다!”
+
+“은향이도 왔어요!”
+
+그들을 바라본 객잔 안의 손님들이 하나같이 입을 딱 벌렸다.
+
+사내의 엄청난 체격에, 그리고 아리따운 소녀의 미모에 놀란 탓이었다.
+
+‘저건 무슨 조합이야.’
+
+‘세상에, 살다 살다 저리 큰 사람은 처음 보네.’
+
+순간 침묵에 잠긴 객잔 안, 유일하게 놀라지 않은 한 사람이 입을 열었다. 앞서 유생을 도운 평범한 인상의 청년이었다.
+
+“늦었구나.”
+
+남들보다 머리통 몇 개는 더 큰 사내가 머리를 벅벅 긁었다.
+
+“죄송합니다. 오는 길에 작은 시비가 붙어서 그만.”
+
+“무슨 일이길래 한 시진이냐 늦었느냐?”
+
+“저어, 그게…….”
+
+사내가 우물쭈물하자 자신을 은향이라 밝힌 소녀가 씩 웃으며 끼어들었다.
+
+“큰 오라버니, 혹시 흑사파라고 들어 보셨어요?”
+
+“흑사파? 글쎄다. 이름만 들어서는 썩 좋은 일을 할 것 같진 않구나.”
+
+“맞아요. 요 앞에서 투전판을 관리하는 흑도 무리인데, 거기 두목이라는 자가 철우 오라버니를 보더니 같이 일해 볼 생각 없냐고…… 읍! 읍읍!”
+
+“아닙니다. 아니라고요! 제가 얼마나 순박하게 생겼는데!”
+
+철우라는 사내가 은향의 입을 막고 항변했지만, 객잔 안의 누구도 그의 말을 믿지 않았다.
+
+‘생긴 것 봐라. 저 얼굴이면 이미 흑도지.’
+
+‘내가 흑사파 두목이었어도 말 꺼내 봤다.’
+
+‘저 정도면 영입 일 순위야. 일 순위.’
+
+다들 마음속으로만 중얼거린 이유는 철우가 눈을 부릅뜨고 사방을 노려봤기 때문이다. 성난 맹수의 눈빛에 사람들은 침만 꼴깍 삼켰다.
+
+물론 이번에도 한 사람만큼은 예외였다.
+
+“그래서, 어떻게 되었느냐?”
+
+청년의 물음에 철우가 냉큼 대답했다.
+
+“그냥 일없다 하고 돌려보냈습니다.”
+
+“사실이냐?”
+
+철우가 슬그머니 시선을 피하며 대답했다.
+
+“사, 사실입니다.”
+
+“주먹에 피가 묻어 있구나.”
+
+“헉. 정말입니까? 분명히 닦았는데!”
+
+“…….”
+
+“…….”
+
+“읍. 읍!”
+
+청년이 한숨을 푹 내쉬었다.
+
+“은향이부터 놔주거라.”
+
+“……옙.”
+
+“읍, 푸하!”
+
+간신히 풀려난 은향이 얼굴을 잔뜩 찡그리며 침을 퉤퉤 뱉었다.
+
+“으, 짜. 오라버니 손 언제 씻었어요?”
+
+“어제.”
+
+“뭐야, 어제오늘 동안 측간에 다녀오는 것만 다섯 번은 본 것 같은데. 그럼…… 아악!”
+
+“괜찮아. 난 보름에 한 번 씻어도 향기 나.”
+
+“미쳤나 봐, 저러니까 여자들이 싫어하지.”
+
+“뭣이!”
+
+으르렁거리는 그들의 모습을 보던 청년이 피곤한 듯 눈가를 문질렀다.
+
+사문에서도 골칫덩이로 악명 높은 두 사람이다. 언젠간 이런 상황이 올 거라고는 생각했지만 서안을 빠져나가기도 전에 벌써 사고를 칠 줄은 몰랐다.
+
+‘장문인의 명이니 거절할 수도 없고.’
+
+어쩌겠나. 이게 다 자신의 업보이려니 생각하는 수밖에.
+
+벌써부터 반쯤 기가 빨린 그가 입을 열었다.
+
+“둘 다 돌아가고 싶은 것이냐? 장문인께 말씀드려서 면벽 수련이라도 시켜 줘야 정신을 차리겠어?”
+
+“헉, 아닙니다.”
+
+“저도 괜찮아요. 큰 오라버니.”
+
+청년이 짐짓 얼굴을 굳혔다.
+
+“어허. 큰 오라버니가 아니라 대사형이다.”
+
+“네, 큰 오라버니.”
+
+“은향이 너…… 휴우, 아니다.”
+
+“헤헤.”
+
+미인의 웃음이란 얼마나 위력적인가. 은향이 배시시 웃자 방금까지만 하더라도 싸늘하던 객잔의 공기가 훈훈해졌다.
+
+눈치만 살피고 있던 객잔 주인이 다가온 것은 그때였다.
+
+“저어, 나으리들.”
+
+주인장을 알아본 청년이 미안한 얼굴로 말했다.
+
+“아, 소란을 피워 죄송합니다. 지금 바로 나가겠습니다.”
+
+“아뇨. 그게 아니라…….”
+
+잔뜩 겁에 질린 눈빛으로 철우를 힐끔거린 그가 힘겹게 말을 이었다.
+
+“배상을, 좀.”
+
+“아.”
+
+그제야 박살 난 문이 눈에 들어온다. 청년이 재차 한숨을 내쉬자 철우가 묵직한 전낭에서 잽싸게 은자를 꺼내 들었다.
+
+“이거면 충분할 거요.”
+
+“이 은자는 어디서 났느냐?”
+
+은향이 생글생글 웃으며 대답했다.
+
+“흑사파요.”
+
+철우가 기겁해서 외쳤다.
+
+“야!”
+
+“왜요, 난 잘못 없는데?”
+
+“너도 옥비녀 챙겼잖아!”
+
+“앗. 어떻게 알았지?”
+
+“…….”
+
+흑사파를 박살 낸 걸로도 모자라 재물까지 싹 다 털어 온 모양이다. 청년은 이마가 지끈거렸다.
+
+“당장 돌려주어라.”
+
+“대사형, 놈들이 갖고 있어 봤자 악행에나 쓰일 재물입니다.”
+
+“맞아요. 이왕 이렇게 된 거 목적지까지 가는 동안 맛있는 것도 먹고…….”
+
+청년이 엄격한 목소리로 두 사람의 말을 끊었다.
+
+“언제부터 투전판 관리가 악행이 되었느냐? 아니면 직접 네 눈으로 목도한 적이 있느냐?”
+
+“안 봐도 뻔합니다. 흑도잖습니까.”
+
+“이 넓은 무림에 어찌 한 가지 색만 있겠느냐. 그리고 흑사파가 정말 악적들이라면 진작 본산에서 조치를 취했을 것이다.”
+
+“그건…….”
+
+“시끄럽다. 갈 길이 바쁘니 재물은 여기에 맡기고 간다. 그리 해도 괜찮겠습니까, 주인장?”
+
+이제는 객잔 안의 모든 사람이 안다. 이들이 무림인이며 서안의 흑도 세력과 원한을 맺었다는 사실을.
+
+무림인과 얽히는 걸 극도로 꺼리는 주인장은 똥 밟은 표정이었다.
+
+“대, 대협. 송구합니다만 저 같은 늙은이가 감당할 수 있는 일이 아닙니다.”
+
+땀 흘린 노동의 대가를 잃게 된 철우가 퉁명스럽게 말을 던졌다.
+
+“걱정 마시오. 별일 없을 테니.”
+
+“지금 당장은 몰라도 여러분들이 떠나시면 저는 큰일이 납니다요.”
+
+“어허, 그럴 일 없다니까. 우리가 떠나도 주인장의 털끝 하나 못 건드릴 거요.”
+
+“아니 그게 그렇게 쉽게 말씀하실 일이 아니라니까요.”
+
+머리까지 근육으로 뭉친 놈인지 생각이 더럽게 짧다.
+
+주인장이 차마 그렇게 말은 못 하고 냉가슴만 앓던 그때, 청년이 담담하게 웃었다.
+
+“그들이 오거든 이 전낭과 함께 한마디만 전해 주시면 됩니다.”
+
+“아니, 대협들. 지금 이해를 못 하시는 것 같은데…….”
+
+주인장의 말은 곧바로 이어진 청년의 목소리에 뚝 끊겼다.
+
+“화산파의 일대제자 백무성이 사제들의 실수를 대신 사과한다고요.”
+
+순간 객잔 안이 침묵에 잠겼다.
+
+화산파, 세 글자가 주는 위압감도 위압감이었지만 어디선가 한 번쯤 들어 본 듯한 청년의 이름 때문이었다.
+
+“화산파의 백무성이라고?”
+
+“백무성, 백무성…… 잠깐. 혹시?”
+
+화산파의 앞마당이나 다름없는 서안이다. 무림에 관심이 많은 몇몇 호사가들이 청년의 정체를 깨닫는 데까지는 그리 오랜 시간이 걸리지 않았다.
+
+“화산일학(華山一鶴) 백무성!”
+
+한 마리 학처럼 고고한 품행을 지녔다고 해서 붙여진 별호.
+
+이미 화산파 입문 당시부터 뛰어난 기재로 알려진 그에게는 또 다른 별호가 있었다.
+
+“화산일학이라면 매화삼절(梅花三晣)의 첫째 아닌가!”
+
+현 화산파 장문인은 세 명의 제자를 두어 하나같이 뛰어난 고수로 성장시켰다.
+
+그런 그들이 화산파의 자부심이라 할 수 있는 매화검수(梅花劍手)에 임명된 것은 당연했고, 이내 두각을 드러냈다.
+
+“듣자 하니 그중 여인이 한 명 있다고 들었는데…… 그럼 저들이?”
+
+“말해서 뭣하나. 아까 화산일학에게 대사형이라고 부르는 거 못 들었어?”
+
+“허어, 살다 보니 이런 곳에서 매화삼절을 다 보는군.”
+
+곳곳에서 터져 나오는 탄성을 모른 척하며 백무성이 입을 열었다.
+
+“어떻게 안 되겠습니까?”
+
+주인장이 비장한 얼굴로 대답했다.
+
+“제 목숨을 걸고 이 재물을 흑사파에게 돌려주겠습니다. 존명!”
+
+“…….”
+
+
+
+* * *
+
+
+
+“아, 맞다.”
+
+백무성의 중얼거림에 두 사제가 고개를 돌렸다.
+
+“왜 그러십니까, 대사형?”
+
+“뭐 놓고 온 물건이라도 있어요?”
+
+백무성이 고개를 저었다.
+
+“화산이 봉쇄되었다는 사실을 말해 주는 걸 깜빡했다.”
+
+“누구한테요?”
+
+“이름은 모르겠구나. 그 사람, 아픈 다리를 이끌고 헛걸음을 하게 생겼어.”
+
+은향이 딱하다는 듯 혀를 찼다.
+
+“저런. 앞으로 몇 달은 어림도 없을 텐데.”
+
+“그러게 말이다.”
+
+그들은 며칠 전 화산파 전체를 발칵 뒤집어 놓은 사건을 떠올렸다.
+
+장문인, 그러니까 자신들의 사부가 잠든 사이 침입자가 쥐도 새도 모르게 다녀간 것이다.
+
+그는 대담무쌍하게도 화산파 장문인의 머리맡에 비수 한 자루와 친필 서신을 남기는 기행을 저질렀다.
+
+
+
+[잠시 바람 좀 쐬고 오마. 너는 장문인 됐다고 놀지 말고 잠잘 시간에 무공 수련 좀 해라.]
+
+
+
+평소 같았다면 즉시 천라지망을 펼쳤겠지만, 침입자의 정체가 검성 매종학이라면 이야기가 달라진다.
+
+장문인은 즉시 화산을 굳게 걸어 잠그고 검성의 은거지를 찾으라 지시했고, 수색은 지금까지 이어지고 있었다.
+
+“태사부님도 참. 대단하신 분이네요.”
+
+“말만 들었지. 나도 이 정도이실 줄은 몰랐다.”
+
+“전서가 오지 않았다면 저희도 꼼짝없이 화산을 뒤지고 있었을 겁니다.”
+
+그 와중에 산서성에서 날아든 전서구는 구원의 빛이었다.
+
+화산파 수뇌부는 고심 끝에 매화삼절이라는 걸출한 인재들을 파견하기로 결정했다.
+
+“그런데 그 청풍이라는 사람. 대사형은 만나 보신 적 있으십니까?”
+
+“그래, 십 년 전에 한 번.”
+
+검성 매종학이 자식처럼, 손자처럼 키운 제자.
+
+십 년 전 그 자리에는 그도 있었다. 화산일학 백무성의 눈빛이 반짝였다.
+
+“기대되는구나. 어찌 성장했을지.”
+```
+
+## Current accepted English baseline
+
+```markdown
+# Chapter 149
+
+Xi’an’s history ran deep. Until the dynasties changed, it had been called the center of all under heaven for hundreds of years.
+
+Its enormous population. Its abundant resources, produced by the plains and mines. And the famous scenic and historic sites left behind by three unified dynasties swept away by the passage of time. Those were still the reasons so many people visited Xi’an.
+
+In one of Xi’an’s bustling inns, two Confucian scholars dressed in thick fur coats were among those visitors.
+
+“Come on, hurry up. If we want to get back to the inn before sunset, we’re running out of time.”
+
+Unlike his enthusiastic friend, the other scholar shook his head with a thoroughly fed-up expression.
+
+“Again?”
+
+“What do you mean, again?”
+
+“Can’t we just rest for today? We’ve been walking around for days, and my legs feel like they’re about to break.”
+
+“Don’t be such a baby. We walked a thousand li to get here—how can we just turn around and go back? Do you really think we’ll have another chance to come to Xi’an at our age?”
+
+“Good grief. I came to sightsee in Xi’an, and now it looks like I’m going to end up sightseeing Mount Beimang.[^1] Leave me alone.”
+
+[^1]: Mount Beimang is traditionally associated with burial grounds and death.
+
+“Come now. I don’t know about the other places, but we absolutely have to visit Western Peak. You’ll regret it until the day you die if you miss such a magnificent sight.”
+
+“Western Peak…”
+
+The five most famous mountains in all under heaven were called the Five Great Mountains.
+
+Western Peak referred to Huashan, which lay near Xi’an.
+
+“Imagine how it would feel to climb Huashan and look down upon all under heaven. Doesn’t your lofty spirit surge just thinking about it?”
+
+“Well… I suppose it does.”
+
+Unable to resist his friend’s fervent persuasion, the scholar reluctantly nodded.
+
+He was well aware that Huashan was famous not only for its ruggedness but also for its beautiful scenery.
+
+“Do you think a famous mountain became famous for no reason? We need to soak up plenty of its spiritually efficacious energy this time if we want good news at the next civil service examination. How many times have you already failed?”
+
+“Why are you bringing that up all of a sudden?”
+
+“Don’t get angry. Anyway, we’ll go to Huashan, receive some lofty spirit, receive some spiritual energy, and that’ll be that.”
+
+When the scholar still looked hesitant, his friend added in a coaxing voice,
+
+“I won’t ask you to visit anywhere else. We’ll just stop at Lotus Peak and come straight back down.”
+
+At that, even the scholar who had been stubbornly resisting began to waver. Who knew? Perhaps he really would pass the civil service examination with flying colors next year.
+
+But one rumor still bothered him.
+
+“I heard Huashan is crawling with martial artists…”
+
+“If you mean Huashan’s Daoists, there’s nothing to worry about. An acquaintance of mine went there years ago and said nothing happened to him.”
+
+“Ahem. Then shall we give it a try?”
+
+The scholar made a show of giving in as he rose, but suddenly lost his balance and staggered. The strength drained completely from his legs, which had been trembling for some time.
+
+He was about to crack the back of his head against one of the many table corners scattered around him.
+
+“Huh? Wh-whoa!”
+
+Just as he was about to fall with a short scream, a rough, sturdy hand braced the scholar’s back.
+
+“Ugh. I barely survived that.”
+
+After barely righting himself, the scholar looked at the owner of the hand with a relieved sigh.
+
+The young man looked to be around thirty. He wore a white robe and had an ordinary appearance, but he offered the scholar a gentle smile.
+
+“Are you all right?”
+
+“Th-thank you, Young Master.”
+
+“It was nothing.”
+
+Having narrowly escaped disaster, the scholar looked at the young man with curiosity.
+
+*He looks ordinary.*
+
+He was of middling height and had a slender build. Yet he had supported the scholar’s body, which outweighed the young man’s by several dozen pounds, with one hand.
+
+The scholar glanced at his waist, wondering if he might be a martial artist, but it was empty. Apparently not.
+
+*He’s much stronger than he looks.*
+
+Regardless, the young man had saved his life. The sages of old had said that repaying kindness was a person’s duty.
+
+“Thank you again. Thanks to you, Young Master, I avoided a terrible mishap.”
+
+“I only did what anyone should have done. There’s no need to worry about it.”
+
+“You helped me greatly. How could I end things with a few words? Why don’t you join us? Dinner will be on me.”
+
+His fellow scholar cut in with an incredulous look.
+
+“What are you talking about? What about Huashan? What about Lotus Peak?”
+
+“Didn’t you just see me nearly go to the grave? This is a sign that I should rest at the inn. And since the Young Master here saved me, I ought to repay him. Isn’t that right?”
+
+The young man smiled and waved his hand.
+
+“I’m really fine. I’m waiting for my companions.”
+
+“Companions? You’ve been sitting here alone for more than a shichen.”
+
+“Ha-ha. It seems something came up and they’re running late. I have no choice but to wait.”
+
+He had already been there for more than a shichen, and he still intended to keep waiting? He was as good-natured on the inside as he looked.
+
+Still, with the young man saying he had companions, the scholar could hardly insist that he join them. He clicked his tongue regretfully.
+
+“Then it can’t be helped. May peace prevail throughout your household for as long as you live, and may you enjoy good health and a long life.”
+
+“Huashan! Lotus Peak!”
+
+“I’m going, so shut that obnoxious trap of yours.”
+
+“I knew I could count on you.”
+
+“I might just throw you off the summit of Lotus Peak.”
+
+The scholar glared at his companion and was just about to take a step when—
+
+Bang!
+
+A deafening boom that made everyone’s hair stand on end rang out. The inn’s door was smashed apart, and a man and a woman appeared amid a thunderous shout.
+
+“We’re here!”
+
+“Eunhyang’s here too!”
+
+Every customer inside the inn stared at them with their mouths hanging open.
+
+They were shocked by the man’s enormous physique and the beautiful girl’s appearance.
+
+*What kind of combination is that?*
+
+*In all my life, I’ve never seen anyone that huge.*
+
+In the silence that fell over the inn, only one person showed no surprise. It was the young man who had helped the scholar moments before.
+
+“You’re late.”
+
+The man, who was several heads taller than anyone else, vigorously scratched his head.
+
+“I’m sorry. We got caught up in a little dispute on the way.”
+
+“What happened that made you more than a shichen late?”
+
+“Well, the thing is…”
+
+When the man began to mumble, the girl who had introduced herself as Eunhyang cut in with a bright grin.
+
+“Big Brother, have you ever heard of the Black Serpent Sect?”
+
+“The Black Serpent Sect? I can’t say I have. Going by the name alone, they don’t sound like they do much good.”
+
+“That’s right. They’re a dark-path gang that runs a gambling den just up ahead. Their boss took one look at Brother Chulwoo and asked if he wanted to work with them… Mmph! Mmph-mmph!”
+
+“No, he didn’t! I swear! I look so innocent!”
+
+The man named Chulwoo covered Eunhyang’s mouth and protested, but no one in the inn believed him.
+
+*Look at that face. With a face like that, he’s already one of the dark-path figures.*
+
+*Even if I were the Black Serpent Sect’s boss, I’d have tried to recruit him.*
+
+*He’d be their number-one pick. Number one.*
+
+Everyone only muttered those words inwardly because Chulwoo had widened his eyes and was glaring around the room. Faced with the gaze of an enraged beast, the people could only swallow nervously.
+
+Of course, one person was an exception again.
+
+“So, what happened?”
+
+At the young man’s question, Chulwoo quickly answered,
+
+“I just told them I wasn’t interested and sent them away.”
+
+“Is that true?”
+
+Chulwoo subtly averted his gaze.
+
+“Y-yes, it’s true.”
+
+“There’s blood on your fist.”
+
+“Gasp! Really? I definitely wiped it off!”
+
+“…”
+
+“…”
+
+“Mmph. Mmph!”
+
+The young man let out a deep sigh.
+
+“Let go of Eunhyang first.”
+
+“...Yes, Senior Brother.”
+
+“Mmph—phew!”
+
+Eunhyang was finally released. She scrunched up her face and spat repeatedly.
+
+“Ugh, that’s salty. When was the last time you washed your hands, Brother?”
+
+“Yesterday.”
+
+“What? I could swear I’ve seen you visit the privy at least five times between yesterday and today. Then…”
+
+“Ahh!”
+
+“It’s all right. I smell wonderful even if I only bathe once every fifteen days.”
+
+“Are you insane? No wonder women hate you.”
+
+“What did you say?”
+
+As the two began growling at each other, the young man rubbed the corners of his eyes tiredly.
+
+These two were notorious troublemakers even within their sect. He had known that something like this would happen someday, but he had never expected them to cause trouble before they had even left Xi’an.
+
+*I couldn’t refuse when it was the Sect Leader’s order.*
+
+What could he do? He had no choice but to consider this his karma.
+
+Already half drained of energy, he spoke.
+
+“Do you both want to go back? Should I tell the Sect Leader to put you through wall-facing meditation before you come to your senses?”
+
+“Gasp! No, Senior Brother.”
+
+“I’m fine too, Big Brother.”
+
+The young man deliberately hardened his expression.
+
+“Come now. I’m not Big Brother. I’m your Senior Brother.”
+
+“Yes, Big Brother.”
+
+“Eunhyang, you… Phew. Never mind.”
+
+“Hehe.”
+
+How powerful was a beauty’s smile?
+
+When Eunhyang smiled sweetly, the chilly atmosphere in the inn warmed at once.
+
+That was when the innkeeper, who had been watching them nervously, approached.
+
+“Um, sirs…”
+
+The young man recognized the innkeeper and spoke with an apologetic expression.
+
+“Ah, I’m sorry for causing such a commotion. We’ll leave right away.”
+
+“No, that’s not it…”
+
+The innkeeper glanced at Chulwoo with terrified eyes before continuing with difficulty.
+
+“Compensation, please.”
+
+“Ah.”
+
+Only then did the smashed door come into view.
+
+As the young man sighed again, Chulwoo swiftly pulled a silver nyang from a heavy pouch.
+
+“This should be enough.”
+
+“Where did you get this silver nyang?”
+
+Eunhyang answered with a bright smile.
+
+“The Black Serpent Sect.”
+
+Chulwoo cried out in horror.
+
+“Hey!”
+
+“What? I didn’t do anything wrong.”
+
+“You took a jade hairpin, too!”
+
+“Oops. How did you know?”
+
+“…”
+
+Not only had they smashed the Black Serpent Sect, they seemed to have stripped it of every last possession as well. The young man’s forehead began to throb.
+
+“Return it immediately.”
+
+“Senior Brother, even if those men kept this wealth, they’d only use it for evil deeds.”
+
+“That’s right. Since it’s already happened, we could eat something delicious while we travel to our destination…”
+
+The young man cut them off in a stern voice.
+
+“Since when was running a gambling den an evil deed? Or have you seen them commit any evil with your own eyes?”
+
+“We don’t need to see it. It’s obvious. They’re dark-path figures.”
+
+“How can everything in this vast Murim be only one color? And if the Black Serpent Sect were truly a group of villains, the main sect would have taken action long ago.”
+
+“But…”
+
+“Enough. We’re in a hurry, so we’ll leave the money here. Is that all right, Innkeeper?”
+
+By now, everyone in the inn knew that these people were martial artists and that they had made enemies with one of Xi’an’s dark-path factions.
+
+The innkeeper, who desperately wanted to avoid entanglement with martial artists, wore an expression like he had stepped in filth.
+
+“G-Great Hero, forgive me, but an old man like me can’t handle something like this.”
+
+Chulwoo, who was about to lose the reward for his hard work, spoke bluntly.
+
+“Don’t worry. Nothing will happen.”
+
+“Nothing may happen right now, but once you leave, I’ll be in serious trouble.”
+
+“Come now, I said that won’t happen. Even after we leave, they won’t be able to lay a finger on you.”
+
+“No, that’s not something you can say so easily…”
+
+*Is his brain made of muscle too? He’s damn short-sighted.*
+
+The innkeeper couldn’t bring himself to say that aloud and could only suffer in silence. At that moment, the young man smiled calmly.
+
+“When they come, just tell them one thing along with this pouch.”
+
+“Great Heroes, I don’t think you understand what I’m saying…”
+
+The innkeeper’s words were cut short by the young man’s voice.
+
+“Tell them that Baek Museong, a first-generation disciple of Huashan, apologizes for his junior disciples’ mistake.”
+
+The inn fell silent.
+
+The name *Huashan* was intimidating enough, but the young man’s name also sounded familiar, as though they had heard it somewhere before.
+
+“Baek Museong of Huashan?”
+
+“Baek Museong… Baek Museong… Wait. Could it be?”
+
+Xi’an was practically Huashan’s front yard. It didn’t take long for a few martial arts aficionados to realize the young man’s identity.
+
+“Baek Museong, Huashan’s Lone Crane!”
+
+The title had been given to him because of his lofty bearing, like that of a solitary crane.
+
+He had been known as an outstanding prodigy since the day he entered Huashan, and he possessed another title as well.
+
+“If he’s Huashan’s Lone Crane, isn’t he the first of the Three Plum Blossom Elites?”
+
+The current Sect Leader of Huashan had three disciples, all of whom had grown into outstanding masters.
+
+It was only natural that they had been appointed Plum Blossom Swordsmen, the pride of Huashan, and they soon began to distinguish themselves.
+
+“I heard one of them was a woman… Then are those two—?”
+
+“Why even ask? Didn’t you hear her call Huashan’s Lone Crane Senior Brother?”
+
+“Good heavens. I never thought I’d live to see the Three Plum Blossom Elites in a place like this.”
+
+Ignoring the exclamations erupting throughout the inn, Baek Museong spoke.
+
+“Would it really be impossible?”
+
+The innkeeper answered with a solemn expression.
+
+“I’ll return this property to the Black Serpent Sect at the risk of my life. At your command!”
+
+“…”
+
+* * *
+
+“Ah, that’s right.”
+
+At Baek Museong’s mutter, his two junior disciples turned toward him.
+
+“What is it, Senior Brother?”
+
+“Did you leave something behind?”
+
+Baek Museong shook his head.
+
+“I forgot to tell him that Huashan had been sealed off.”
+
+“Who?”
+
+“I don’t know his name. That man is going to drag his aching legs all the way there only to make the trip for nothing.”
+
+Eunhyang clicked her tongue sympathetically.
+
+“How sad. It’ll be months before he can go.”
+
+“Indeed.”
+
+They recalled the incident that had thrown all of Huashan into an uproar several days earlier.
+
+While the Sect Leader—in other words, their Master—was asleep, an intruder had entered and left without anyone noticing.
+
+The intruder had committed the audacious act of leaving a dagger and a handwritten letter beside the Sect Leader’s head.
+
+> “I’m going out to get some air. Don’t slack off just because you’ve become Sect Leader. Train your martial arts when you should be sleeping.”
+
+Under ordinary circumstances, they would have immediately cast a dragnet across the entire mountain. But if the intruder’s identity was Sword Saint Mae Jonghak, the matter was different.
+
+The Sect Leader had immediately ordered Huashan sealed tight and instructed them to search for the Sword Saint’s place of seclusion. The search had continued ever since.
+
+“Grandmaster really is something. He’s an amazing person.”
+
+“I’d only heard about him. I didn’t know he was this extraordinary.”
+
+“If that messenger pigeon hadn’t arrived, we would have been stuck searching Huashan too.”
+
+In the midst of all that, the messenger pigeon that flew in from Shanxi Province had been a light of salvation.
+
+After much deliberation, Huashan’s leaders had decided to dispatch the exceptional talents known as the Three Plum Blossom Elites.
+
+“But what about that person named Cheongpung? Have you ever met him, Senior Brother?”
+
+“Yes. Once, ten years ago.”
+
+A disciple whom Sword Saint Mae Jonghak had raised like a son—like a grandson.
+
+Baek Museong had been there that day ten years ago as well. The eyes of Huashan’s Lone Crane, Baek Museong, gleamed.
+
+“I’m looking forward to it. I wonder how much he’s grown.”
+```
+
+## Final instruction
+
+Edit the complete baseline against the Korean source. Return only the complete mastered English Markdown chapter beginning exactly with `# Chapter 149`.

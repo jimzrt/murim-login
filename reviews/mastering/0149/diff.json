@@ -1,0 +1,2369 @@
+{
+  "baseline_blocks": 218,
+  "baseline_sha256": "927cf43f5789cf50de334ca78808dc055fb1f8c09a3151be8748619006e1a5ce",
+  "global_terminology_alerts": [],
+  "hunk_count": 129,
+  "hunks": [
+    {
+      "baseline": "Xi’an’s history ran deep. Until the dynasties changed, it had been called the center of all under heaven for hundreds of years.",
+      "baseline_paragraphs": "P2",
+      "baseline_range": [
+        1,
+        2
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "5",
+      "sol": "Xi’an had a long history. Until the last change of dynasty, it had been called the center of all under heaven for hundreds of years.",
+      "sol_paragraphs": "P2",
+      "sol_range": [
+        1,
+        2
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Its enormous population. Its abundant resources, produced by the plains and mines. And the famous scenic and historic sites left behind by three unified dynasties swept away by the passage of time. Those were still the reasons so many people visited Xi’an.",
+      "baseline_paragraphs": "P3",
+      "baseline_range": [
+        2,
+        3
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "7",
+      "sol": "Its enormous population, the abundant resources produced by its plains and mines, and the scenic and historic sites left behind by three fallen unified dynasties still drew countless visitors to the city.",
+      "sol_paragraphs": "P3",
+      "sol_range": [
+        2,
+        3
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "서안",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Xi’an"
+        }
+      ]
+    },
+    {
+      "baseline": "In one of Xi’an’s bustling inns, two Confucian scholars dressed in thick fur coats were among those visitors.",
+      "baseline_paragraphs": "P4",
+      "baseline_range": [
+        3,
+        4
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "9",
+      "sol": "Among them were two Confucian scholars in thick fur coats, sitting in one of Xi’an’s bustling inns.",
+      "sol_paragraphs": "P4",
+      "sol_range": [
+        3,
+        4
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Come on, hurry up. If we want to get back to the inn before sunset, we’re running out of time.”",
+      "baseline_paragraphs": "P5",
+      "baseline_range": [
+        4,
+        5
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "11",
+      "sol": "“Come on, hurry up. If we want to make it back to the inn before sunset, we don’t have much time.”",
+      "sol_paragraphs": "P5",
+      "sol_range": [
+        4,
+        5
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Can’t we just rest for today? We’ve been walking around for days, and my legs feel like they’re about to break.”",
+      "baseline_paragraphs": "P9",
+      "baseline_range": [
+        8,
+        9
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "19",
+      "sol": "“Can’t we just rest for today? We’ve been walking around for days. My legs feel like they’re about to break.”",
+      "sol_paragraphs": "P9",
+      "sol_range": [
+        8,
+        9
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Don’t be such a baby. We walked a thousand li to get here—how can we just turn around and go back? Do you really think we’ll have another chance to come to Xi’an at our age?”",
+      "baseline_paragraphs": "P10",
+      "baseline_range": [
+        9,
+        10
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "21",
+      "sol": "“Don’t be such a baby. We walked a thousand li to get here—how can we just turn around and go home? At our age, do you really think we’ll ever have another chance to visit Xi’an?”",
+      "sol_paragraphs": "P10",
+      "sol_range": [
+        9,
+        10
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Good grief. I came to sightsee in Xi’an, and now it looks like I’m going to end up sightseeing Mount Beimang.[^1] Leave me alone.”",
+      "baseline_paragraphs": "P11",
+      "baseline_range": [
+        10,
+        11
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "23",
+      "sol": "“Good grief. I came to see Xi’an, and now it looks like I’m going to see Mount Beimang.[^1] Leave me alone.”",
+      "sol_paragraphs": "P11",
+      "sol_range": [
+        10,
+        11
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Come now. I don’t know about the other places, but we absolutely have to visit Western Peak. You’ll regret it until the day you die if you miss such a magnificent sight.”",
+      "baseline_paragraphs": "P13",
+      "baseline_range": [
+        12,
+        13
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "27",
+      "sol": "“Come now. We can skip the other places, but we absolutely must visit Western Peak. You’ll regret it until the day you die if you miss such a magnificent sight.”",
+      "sol_paragraphs": "P13",
+      "sol_range": [
+        12,
+        13
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The five most famous mountains in all under heaven were called the Five Great Mountains.",
+      "baseline_paragraphs": "P15",
+      "baseline_range": [
+        14,
+        15
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "31",
+      "sol": "The five most renowned mountains under heaven were known as the Five Great Mountains.",
+      "sol_paragraphs": "P15",
+      "sol_range": [
+        14,
+        15
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Imagine how it would feel to climb Huashan and look down upon all under heaven. Doesn’t your lofty spirit surge just thinking about it?”",
+      "baseline_paragraphs": "P17",
+      "baseline_range": [
+        16,
+        17
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "35",
+      "sol": "“Imagine climbing Huashan and looking down upon all under heaven. Doesn’t your lofty spirit surge at the mere thought?”",
+      "sol_paragraphs": "P17",
+      "sol_range": [
+        16,
+        17
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Unable to resist his friend’s fervent persuasion, the scholar reluctantly nodded.",
+      "baseline_paragraphs": "P19",
+      "baseline_range": [
+        18,
+        19
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "39",
+      "sol": "Worn down by his friend’s fervent persuasion, the scholar reluctantly nodded.",
+      "sol_paragraphs": "P19",
+      "sol_range": [
+        18,
+        19
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He was well aware that Huashan was famous not only for its ruggedness but also for its beautiful scenery.",
+      "baseline_paragraphs": "P20",
+      "baseline_range": [
+        19,
+        20
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "41",
+      "sol": "He knew perfectly well that Huashan was as famous for its breathtaking scenery as it was for its rugged terrain.",
+      "sol_paragraphs": "P20",
+      "sol_range": [
+        19,
+        20
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Do you think a famous mountain became famous for no reason? We need to soak up plenty of its spiritually efficacious energy this time if we want good news at the next civil service examination. How many times have you already failed?”",
+      "baseline_paragraphs": "P21",
+      "baseline_range": [
+        20,
+        21
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "43",
+      "sol": "“A famous mountain doesn’t become famous for nothing. We need to soak up plenty of its sacred energy this time if we want good news at the next civil service examination. How many times have you failed already?”",
+      "sol_paragraphs": "P21",
+      "sol_range": [
+        20,
+        21
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Don’t get angry. Anyway, we’ll go to Huashan, receive some lofty spirit, receive some spiritual energy, and that’ll be that.”",
+      "baseline_paragraphs": "P23",
+      "baseline_range": [
+        22,
+        23
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "47",
+      "sol": "“Don’t get angry. I’m just saying we should visit Huashan and take in some lofty spirit and sacred energy.”",
+      "sol_paragraphs": "P23",
+      "sol_range": [
+        22,
+        23
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "When the scholar still looked hesitant, his friend added in a coaxing voice,",
+      "baseline_paragraphs": "P24",
+      "baseline_range": [
+        23,
+        24
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "49",
+      "sol": "When the scholar still looked hesitant, his friend added coaxingly,",
+      "sol_paragraphs": "P24",
+      "sol_range": [
+        23,
+        24
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I won’t ask you to visit anywhere else. We’ll just stop at Lotus Peak and come straight back down.”",
+      "baseline_paragraphs": "P25",
+      "baseline_range": [
+        24,
+        25
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "51",
+      "sol": "“I won’t ask you to go anywhere else. We’ll visit Lotus Peak and come straight back down.”",
+      "sol_paragraphs": "P25",
+      "sol_range": [
+        24,
+        25
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At that, even the scholar who had been stubbornly resisting began to waver. Who knew? Perhaps he really would pass the civil service examination with flying colors next year.",
+      "baseline_paragraphs": "P26",
+      "baseline_range": [
+        25,
+        26
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "53",
+      "sol": "At that, even the scholar who had resisted so stubbornly began to waver. Who knew? Perhaps he really would pass the civil service examination with flying colors next year.",
+      "sol_paragraphs": "P26",
+      "sol_range": [
+        25,
+        26
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“If you mean Huashan’s Daoists, there’s nothing to worry about. An acquaintance of mine went there years ago and said nothing happened to him.”",
+      "baseline_paragraphs": "P29",
+      "baseline_range": [
+        28,
+        29
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "59",
+      "sol": "“If you mean Huashan’s Daoists, there’s nothing to worry about. An acquaintance of mine went there years ago and said he didn’t have any trouble.”",
+      "sol_paragraphs": "P29",
+      "sol_range": [
+        28,
+        29
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The scholar made a show of giving in as he rose, but suddenly lost his balance and staggered. The strength drained completely from his legs, which had been trembling for some time.",
+      "baseline_paragraphs": "P31",
+      "baseline_range": [
+        30,
+        31
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "63",
+      "sol": "The scholar made a show of giving in as he rose, only to lose his balance and stagger. The strength drained from his legs, which had been trembling for some time.",
+      "sol_paragraphs": "P31",
+      "sol_range": [
+        30,
+        31
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He was about to crack the back of his head against one of the many table corners scattered around him.",
+      "baseline_paragraphs": "P32",
+      "baseline_range": [
+        31,
+        32
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "65",
+      "sol": "He was about to crack the back of his head against one of the many table corners around him.",
+      "sol_paragraphs": "P32",
+      "sol_range": [
+        31,
+        32
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Huh? Wh-whoa!”",
+      "baseline_paragraphs": "P33",
+      "baseline_range": [
+        32,
+        33
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "67",
+      "sol": "“Wh-whoa!”",
+      "sol_paragraphs": "P33",
+      "sol_range": [
+        32,
+        33
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Just as he was about to fall with a short scream, a rough, sturdy hand braced the scholar’s back.",
+      "baseline_paragraphs": "P34",
+      "baseline_range": [
+        33,
+        34
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "69",
+      "sol": "Just as he began to fall with a startled cry, a rough, sturdy hand caught him by the back.",
+      "sol_paragraphs": "P34",
+      "sol_range": [
+        33,
+        34
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Ugh. I barely survived that.”",
+      "baseline_paragraphs": "P35",
+      "baseline_range": [
+        34,
+        35
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "71",
+      "sol": "“Ugh. That was close.”",
+      "sol_paragraphs": "P35",
+      "sol_range": [
+        34,
+        35
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "After barely righting himself, the scholar looked at the owner of the hand with a relieved sigh.",
+      "baseline_paragraphs": "P36",
+      "baseline_range": [
+        35,
+        36
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "73",
+      "sol": "After barely righting himself, the scholar sighed in relief and looked at the owner of the hand.",
+      "sol_paragraphs": "P36",
+      "sol_range": [
+        35,
+        36
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The young man looked to be around thirty. He wore a white robe and had an ordinary appearance, but he offered the scholar a gentle smile.",
+      "baseline_paragraphs": "P37",
+      "baseline_range": [
+        36,
+        37
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "75",
+      "sol": "The young man appeared to be around thirty. He wore a white robe and had an unremarkable face, but his smile was gentle.",
+      "sol_paragraphs": "P37",
+      "sol_range": [
+        36,
+        37
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Having narrowly escaped disaster, the scholar looked at the young man with curiosity.",
+      "baseline_paragraphs": "P41",
+      "baseline_range": [
+        40,
+        41
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "83",
+      "sol": "Having narrowly escaped disaster, the scholar regarded the young man with curiosity.",
+      "sol_paragraphs": "P41",
+      "sol_range": [
+        40,
+        41
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He was of middling height and had a slender build. Yet he had supported the scholar’s body, which outweighed the young man’s by several dozen pounds, with one hand.",
+      "baseline_paragraphs": "P43",
+      "baseline_range": [
+        42,
+        43
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "87",
+      "sol": "He was of middling height and had a slender build. Yet he had supported the scholar, who outweighed him by several dozen pounds, with one hand.",
+      "sol_paragraphs": "P43",
+      "sol_range": [
+        42,
+        43
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The scholar glanced at his waist, wondering if he might be a martial artist, but it was empty. Apparently not.",
+      "baseline_paragraphs": "P44",
+      "baseline_range": [
+        43,
+        44
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "89",
+      "sol": "Wondering whether he might be a martial artist, the scholar glanced at his waist. It was bare, so apparently not.",
+      "sol_paragraphs": "P44",
+      "sol_range": [
+        43,
+        44
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Regardless, the young man had saved his life. The sages of old had said that repaying kindness was a person’s duty.",
+      "baseline_paragraphs": "P46",
+      "baseline_range": [
+        45,
+        46
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "93",
+      "sol": "Regardless, the young man had saved him. The sages of old had said that repaying kindness was a person’s duty.",
+      "sol_paragraphs": "P46",
+      "sol_range": [
+        45,
+        46
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I only did what anyone should have done. There’s no need to worry about it.”",
+      "baseline_paragraphs": "P48",
+      "baseline_range": [
+        47,
+        48
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "97",
+      "sol": "“I only did what anyone should have done. Please don’t concern yourself with it.”",
+      "sol_paragraphs": "P48",
+      "sol_range": [
+        47,
+        48
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You helped me greatly. How could I end things with a few words? Why don’t you join us? Dinner will be on me.”",
+      "baseline_paragraphs": "P49",
+      "baseline_range": [
+        48,
+        49
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "99",
+      "sol": "“You did me a great service. How could I leave it at a few words? Why don’t you join us? The meal is on me.”",
+      "sol_paragraphs": "P49",
+      "sol_range": [
+        48,
+        49
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Didn’t you just see me nearly go to the grave? This is a sign that I should rest at the inn. And since the Young Master here saved me, I ought to repay him. Isn’t that right?”",
+      "baseline_paragraphs": "P52",
+      "baseline_range": [
+        51,
+        52
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "105",
+      "sol": "“Didn’t you just see me nearly drop dead? This is a sign that I should rest at the inn. Besides, this Young Master saved me, so I ought to repay him. Isn’t that right?”",
+      "sol_paragraphs": "P52",
+      "sol_range": [
+        51,
+        52
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "The young man smiled and waved his hand.",
+      "baseline_paragraphs": "P53",
+      "baseline_range": [
+        52,
+        53
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "107",
+      "sol": "The young man smiled and waved him off.",
+      "sol_paragraphs": "P53",
+      "sol_range": [
+        52,
+        53
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Companions? You’ve been sitting here alone for more than a shichen.”",
+      "baseline_paragraphs": "P55",
+      "baseline_range": [
+        54,
+        55
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "111",
+      "sol": "“Companions? I’ve been watching you, and you’ve been sitting here alone for more than a shichen.”",
+      "sol_paragraphs": "P55",
+      "sol_range": [
+        54,
+        55
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Ha-ha. It seems something came up and they’re running late. I have no choice but to wait.”",
+      "baseline_paragraphs": "P56",
+      "baseline_range": [
+        55,
+        56
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "113",
+      "sol": "“Ha-ha. Something must have delayed them. I have no choice but to wait.”",
+      "sol_paragraphs": "P56",
+      "sol_range": [
+        55,
+        56
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He had already been there for more than a shichen, and he still intended to keep waiting? He was as good-natured on the inside as he looked.",
+      "baseline_paragraphs": "P57",
+      "baseline_range": [
+        56,
+        57
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "115",
+      "sol": "He had already been there for more than a shichen, yet he still intended to wait? The man was as good-natured as he looked.",
+      "sol_paragraphs": "P57",
+      "sol_range": [
+        56,
+        57
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Still, with the young man saying he had companions, the scholar could hardly insist that he join them. He clicked his tongue regretfully.",
+      "baseline_paragraphs": "P58",
+      "baseline_range": [
+        57,
+        58
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "117",
+      "sol": "Still, if he was expecting companions, the scholar could hardly insist that he join them. He smacked his lips regretfully.",
+      "sol_paragraphs": "P58",
+      "sol_range": [
+        57,
+        58
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Then it can’t be helped. May peace prevail throughout your household for as long as you live, and may you enjoy good health and a long life.”",
+      "baseline_paragraphs": "P59",
+      "baseline_range": [
+        58,
+        59
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "119",
+      "sol": "“Then it can’t be helped. May peace reign throughout your household, and may you enjoy good health and a long life.”",
+      "sol_paragraphs": "P59",
+      "sol_range": [
+        58,
+        59
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I’m going, so shut that obnoxious trap of yours.”",
+      "baseline_paragraphs": "P61",
+      "baseline_range": [
+        60,
+        61
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "123",
+      "sol": "“I’m going, so shut that obnoxious mouth of yours.”",
+      "sol_paragraphs": "P61",
+      "sol_range": [
+        60,
+        61
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I might just throw you off the summit of Lotus Peak.”",
+      "baseline_paragraphs": "P63",
+      "baseline_range": [
+        62,
+        63
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "127",
+      "sol": "“Maybe I should throw you off the summit of Lotus Peak.”",
+      "sol_paragraphs": "P63",
+      "sol_range": [
+        62,
+        63
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A deafening boom that made everyone’s hair stand on end rang out. The inn’s door was smashed apart, and a man and a woman appeared amid a thunderous shout.",
+      "baseline_paragraphs": "P66",
+      "baseline_range": [
+        65,
+        66
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "133",
+      "sol": "A deafening crash made everyone’s hair stand on end. The inn’s door shattered, and a man and a woman appeared with thunderous shouts.",
+      "sol_paragraphs": "P66",
+      "sol_range": [
+        65,
+        66
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Every customer inside the inn stared at them with their mouths hanging open.",
+      "baseline_paragraphs": "P69",
+      "baseline_range": [
+        68,
+        69
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "139",
+      "sol": "Every patron in the inn stared at them with their mouths hanging open.",
+      "sol_paragraphs": "P69",
+      "sol_range": [
+        68,
+        69
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "They were shocked by the man’s enormous physique and the beautiful girl’s appearance.",
+      "baseline_paragraphs": "P70",
+      "baseline_range": [
+        69,
+        70
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "141",
+      "sol": "The man’s enormous physique was startling enough, as was the beautiful girl beside him.",
+      "sol_paragraphs": "P70",
+      "sol_range": [
+        69,
+        70
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*What kind of combination is that?*",
+      "baseline_paragraphs": "P71",
+      "baseline_range": [
+        70,
+        71
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "143",
+      "sol": "*What kind of pair is that?*",
+      "sol_paragraphs": "P71",
+      "sol_range": [
+        70,
+        71
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*In all my life, I’ve never seen anyone that huge.*",
+      "baseline_paragraphs": "P72",
+      "baseline_range": [
+        71,
+        72
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "145",
+      "sol": "*Good heavens. I’ve never seen anyone so huge in my life.*",
+      "sol_paragraphs": "P72",
+      "sol_range": [
+        71,
+        72
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "In the silence that fell over the inn, only one person showed no surprise. It was the young man who had helped the scholar moments before.",
+      "baseline_paragraphs": "P73",
+      "baseline_range": [
+        72,
+        73
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "147",
+      "sol": "The inn fell silent. Only one person showed no surprise—the young man who had helped the scholar moments before.",
+      "sol_paragraphs": "P73",
+      "sol_range": [
+        72,
+        73
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The man, who was several heads taller than anyone else, vigorously scratched his head.",
+      "baseline_paragraphs": "P75",
+      "baseline_range": [
+        74,
+        75
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "151",
+      "sol": "The man, who stood several heads taller than everyone else, scratched his head vigorously.",
+      "sol_paragraphs": "P75",
+      "sol_range": [
+        74,
+        75
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I’m sorry. We got caught up in a little dispute on the way.”",
+      "baseline_paragraphs": "P76",
+      "baseline_range": [
+        75,
+        76
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "153",
+      "sol": "“I’m sorry. We got caught up in a small dispute on the way.”",
+      "sol_paragraphs": "P76",
+      "sol_range": [
+        75,
+        76
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What happened that made you more than a shichen late?”",
+      "baseline_paragraphs": "P77",
+      "baseline_range": [
+        76,
+        77
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "155",
+      "sol": "“What sort of dispute delayed you by more than a shichen?”",
+      "sol_paragraphs": "P77",
+      "sol_range": [
+        76,
+        77
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Well, the thing is…”",
+      "baseline_paragraphs": "P78",
+      "baseline_range": [
+        77,
+        78
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "157",
+      "sol": "“Well, you see…”",
+      "sol_paragraphs": "P78",
+      "sol_range": [
+        77,
+        78
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "When the man began to mumble, the girl who had introduced herself as Eunhyang cut in with a bright grin.",
+      "baseline_paragraphs": "P79",
+      "baseline_range": [
+        78,
+        79
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "159",
+      "sol": "When the man began to mumble, the girl who had introduced herself as Eunhyang cut in with a broad grin.",
+      "sol_paragraphs": "P79",
+      "sol_range": [
+        78,
+        79
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The Black Serpent Sect? I can’t say I have. Going by the name alone, they don’t sound like they do much good.”",
+      "baseline_paragraphs": "P81",
+      "baseline_range": [
+        80,
+        81
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "163",
+      "sol": "“The Black Serpent Sect? I can’t say I have. Judging by the name, though, they don’t sound as if they do much good.”",
+      "sol_paragraphs": "P81",
+      "sol_range": [
+        80,
+        81
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That’s right. They’re a dark-path gang that runs a gambling den just up ahead. Their boss took one look at Brother Chulwoo and asked if he wanted to work with them… Mmph! Mmph-mmph!”",
+      "baseline_paragraphs": "P82",
+      "baseline_range": [
+        81,
+        82
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "165",
+      "sol": "“Exactly. They’re a dark-path gang that runs a gambling den just up the road. Their boss took one look at Brother Chulwoo and asked if he wanted to work with them… Mmph! Mmph-mmph!”",
+      "sol_paragraphs": "P82",
+      "sol_range": [
+        81,
+        82
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“No, he didn’t! I swear! I look so innocent!”",
+      "baseline_paragraphs": "P83",
+      "baseline_range": [
+        82,
+        83
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "167",
+      "sol": "“No, he didn’t! I swear! Look how innocent I am!”",
+      "sol_paragraphs": "P83",
+      "sol_range": [
+        82,
+        83
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The man named Chulwoo covered Eunhyang’s mouth and protested, but no one in the inn believed him.",
+      "baseline_paragraphs": "P84",
+      "baseline_range": [
+        83,
+        84
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "169",
+      "sol": "The man named Chulwoo clapped a hand over Eunhyang’s mouth and protested, but no one in the inn believed him.",
+      "sol_paragraphs": "P84",
+      "sol_range": [
+        83,
+        84
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Look at that face. With a face like that, he’s already one of the dark-path figures.*",
+      "baseline_paragraphs": "P85",
+      "baseline_range": [
+        84,
+        85
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "171",
+      "sol": "*Look at that face. With a face like that, he already belongs to the dark path.*",
+      "sol_paragraphs": "P85",
+      "sol_range": [
+        84,
+        85
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "흑도",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "dark-path figures"
+        }
+      ]
+    },
+    {
+      "baseline": "*Even if I were the Black Serpent Sect’s boss, I’d have tried to recruit him.*",
+      "baseline_paragraphs": "P86",
+      "baseline_range": [
+        85,
+        86
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "173",
+      "sol": "*If I were the Black Serpent Sect’s boss, I’d have tried to recruit him too.*",
+      "sol_paragraphs": "P86",
+      "sol_range": [
+        85,
+        86
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*He’d be their number-one pick. Number one.*",
+      "baseline_paragraphs": "P87",
+      "baseline_range": [
+        86,
+        87
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "175",
+      "sol": "*He’d be my first pick. No question.*",
+      "sol_paragraphs": "P87",
+      "sol_range": [
+        86,
+        87
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Everyone only muttered those words inwardly because Chulwoo had widened his eyes and was glaring around the room. Faced with the gaze of an enraged beast, the people could only swallow nervously.",
+      "baseline_paragraphs": "P88",
+      "baseline_range": [
+        87,
+        88
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "177",
+      "sol": "Everyone kept those thoughts to themselves because Chulwoo was glaring around the room with his eyes wide. Faced with the gaze of an enraged beast, the patrons could only swallow nervously.",
+      "sol_paragraphs": "P88",
+      "sol_range": [
+        87,
+        88
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Of course, one person was an exception again.",
+      "baseline_paragraphs": "P89",
+      "baseline_range": [
+        88,
+        89
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "179",
+      "sol": "Of course, one person remained an exception.",
+      "sol_paragraphs": "P89",
+      "sol_range": [
+        88,
+        89
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“So, what happened?”",
+      "baseline_paragraphs": "P90",
+      "baseline_range": [
+        89,
+        90
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "181",
+      "sol": "“So what happened?”",
+      "sol_paragraphs": "P90",
+      "sol_range": [
+        89,
+        90
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the young man’s question, Chulwoo quickly answered,",
+      "baseline_paragraphs": "P91",
+      "baseline_range": [
+        90,
+        91
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "183",
+      "sol": "At the young man’s question, Chulwoo answered at once.",
+      "sol_paragraphs": "P91",
+      "sol_range": [
+        90,
+        91
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Chulwoo subtly averted his gaze.",
+      "baseline_paragraphs": "P94",
+      "baseline_range": [
+        93,
+        94
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "189",
+      "sol": "Chulwoo’s gaze slid away.",
+      "sol_paragraphs": "P94",
+      "sol_range": [
+        93,
+        94
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Gasp! Really? I definitely wiped it off!”",
+      "baseline_paragraphs": "P97",
+      "baseline_range": [
+        96,
+        97
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "195",
+      "sol": "“Gasp! Really? I was sure I wiped it off!”",
+      "sol_paragraphs": "P97",
+      "sol_range": [
+        96,
+        97
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“...Yes, Senior Brother.”",
+      "baseline_paragraphs": "P103",
+      "baseline_range": [
+        102,
+        103
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "207",
+      "sol": "“…Yes, Senior Brother.”",
+      "sol_paragraphs": "P103",
+      "sol_range": [
+        102,
+        103
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Eunhyang was finally released. She scrunched up her face and spat repeatedly.",
+      "baseline_paragraphs": "P105",
+      "baseline_range": [
+        104,
+        105
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "211",
+      "sol": "Finally freed, Eunhyang scrunched up her face and spat several times.",
+      "sol_paragraphs": "P105",
+      "sol_range": [
+        104,
+        105
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Ugh, that’s salty. When was the last time you washed your hands, Brother?”",
+      "baseline_paragraphs": "P106",
+      "baseline_range": [
+        105,
+        106
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "213",
+      "sol": "“Ugh, salty. When did you last wash your hands, Brother?”",
+      "sol_paragraphs": "P106",
+      "sol_range": [
+        105,
+        106
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What? I could swear I’ve seen you visit the privy at least five times between yesterday and today. Then…”",
+      "baseline_paragraphs": "P108",
+      "baseline_range": [
+        107,
+        108
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "217",
+      "sol": "“What? I’ve seen you visit the privy at least five times since yesterday. Then…”",
+      "sol_paragraphs": "P108",
+      "sol_range": [
+        107,
+        108
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“It’s all right. I smell wonderful even if I only bathe once every fifteen days.”",
+      "baseline_paragraphs": "P110",
+      "baseline_range": [
+        109,
+        110
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "221",
+      "sol": "“It’s fine. I still smell wonderful even if I only bathe once every fifteen days.”",
+      "sol_paragraphs": "P110",
+      "sol_range": [
+        109,
+        110
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As the two began growling at each other, the young man rubbed the corners of his eyes tiredly.",
+      "baseline_paragraphs": "P113",
+      "baseline_range": [
+        112,
+        113
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "227",
+      "sol": "As the two growled at each other, the young man rubbed the corners of his eyes wearily.",
+      "sol_paragraphs": "P113",
+      "sol_range": [
+        112,
+        113
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "These two were notorious troublemakers even within their sect. He had known that something like this would happen someday, but he had never expected them to cause trouble before they had even left Xi’an.",
+      "baseline_paragraphs": "P114",
+      "baseline_range": [
+        113,
+        114
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "229",
+      "sol": "These two were notorious troublemakers even within their sect. He had known that something like this would happen eventually, but he hadn’t expected them to cause trouble before they had even left Xi’an.",
+      "sol_paragraphs": "P114",
+      "sol_range": [
+        113,
+        114
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "What could he do? He had no choice but to consider this his karma.",
+      "baseline_paragraphs": "P116",
+      "baseline_range": [
+        115,
+        116
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "233",
+      "sol": "What could he do? He could only consider it his karma.",
+      "sol_paragraphs": "P116",
+      "sol_range": [
+        115,
+        116
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Already half drained of energy, he spoke.",
+      "baseline_paragraphs": "P117",
+      "baseline_range": [
+        116,
+        117
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "235",
+      "sol": "Already feeling half drained, he spoke.",
+      "sol_paragraphs": "P117",
+      "sol_range": [
+        116,
+        117
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Do you both want to go back? Should I tell the Sect Leader to put you through wall-facing meditation before you come to your senses?”",
+      "baseline_paragraphs": "P118",
+      "baseline_range": [
+        117,
+        118
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "237",
+      "sol": "“Do you both want to go back? Should I ask the Sect Leader to put you through wall-facing meditation until you come to your senses?”",
+      "sol_paragraphs": "P118",
+      "sol_range": [
+        117,
+        118
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Come now. I’m not Big Brother. I’m your Senior Brother.”",
+      "baseline_paragraphs": "P122",
+      "baseline_range": [
+        121,
+        122
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "245",
+      "sol": "“Come now. Not Big Brother. Senior Brother.”",
+      "sol_paragraphs": "P122",
+      "sol_range": [
+        121,
+        122
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "How powerful was a beauty’s smile?",
+      "baseline_paragraphs": "P126",
+      "baseline_range": [
+        125,
+        126
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "253",
+      "sol": "Such was the power of a beautiful woman’s smile.",
+      "sol_paragraphs": "P126",
+      "sol_range": [
+        125,
+        126
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "When Eunhyang smiled sweetly, the chilly atmosphere in the inn warmed at once.",
+      "baseline_paragraphs": "P127",
+      "baseline_range": [
+        126,
+        127
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "255",
+      "sol": "When Eunhyang smiled sweetly, the chilly atmosphere inside the inn warmed at once.",
+      "sol_paragraphs": "P127",
+      "sol_range": [
+        126,
+        127
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The young man recognized the innkeeper and spoke with an apologetic expression.",
+      "baseline_paragraphs": "P130",
+      "baseline_range": [
+        129,
+        130
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "261",
+      "sol": "Noticing him, the young man spoke apologetically.",
+      "sol_paragraphs": "P130",
+      "sol_range": [
+        129,
+        130
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Ah, I’m sorry for causing such a commotion. We’ll leave right away.”",
+      "baseline_paragraphs": "P131",
+      "baseline_range": [
+        130,
+        131
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "263",
+      "sol": "“Ah, I’m sorry for causing such a commotion. We’ll leave at once.”",
+      "sol_paragraphs": "P131",
+      "sol_range": [
+        130,
+        131
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The innkeeper glanced at Chulwoo with terrified eyes before continuing with difficulty.",
+      "baseline_paragraphs": "P133",
+      "baseline_range": [
+        132,
+        133
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "267",
+      "sol": "The innkeeper glanced fearfully at Chulwoo before forcing out the words.",
+      "sol_paragraphs": "P133",
+      "sol_range": [
+        132,
+        133
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Only then did the smashed door come into view.",
+      "baseline_paragraphs": "P136",
+      "baseline_range": [
+        135,
+        136
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "273",
+      "sol": "Only then did they notice the shattered door.",
+      "sol_paragraphs": "P136",
+      "sol_range": [
+        135,
+        136
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Where did you get this silver nyang?”",
+      "baseline_paragraphs": "P139",
+      "baseline_range": [
+        138,
+        139
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "279",
+      "sol": "“Where did you get that silver nyang?”",
+      "sol_paragraphs": "P139",
+      "sol_range": [
+        138,
+        139
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Eunhyang answered with a bright smile.",
+      "baseline_paragraphs": "P140",
+      "baseline_range": [
+        139,
+        140
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "281",
+      "sol": "Eunhyang answered with a sunny smile.",
+      "sol_paragraphs": "P140",
+      "sol_range": [
+        139,
+        140
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Chulwoo cried out in horror.",
+      "baseline_paragraphs": "P142",
+      "baseline_range": [
+        141,
+        142
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "285",
+      "sol": "Chulwoo cried out in alarm.",
+      "sol_paragraphs": "P142",
+      "sol_range": [
+        141,
+        142
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You took a jade hairpin, too!”",
+      "baseline_paragraphs": "P145",
+      "baseline_range": [
+        144,
+        145
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "291",
+      "sol": "“You took a jade hairpin too!”",
+      "sol_paragraphs": "P145",
+      "sol_range": [
+        144,
+        145
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Not only had they smashed the Black Serpent Sect, they seemed to have stripped it of every last possession as well. The young man’s forehead began to throb.",
+      "baseline_paragraphs": "P148",
+      "baseline_range": [
+        147,
+        148
+      ],
+      "hunk_id": "H086",
+      "korean_lines": "297",
+      "sol": "Apparently, smashing the Black Serpent Sect hadn’t been enough. They had stripped the place of its valuables as well. The young man’s forehead began to throb.",
+      "sol_paragraphs": "P148",
+      "sol_range": [
+        147,
+        148
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Senior Brother, even if those men kept this wealth, they’d only use it for evil deeds.”",
+      "baseline_paragraphs": "P150",
+      "baseline_range": [
+        149,
+        150
+      ],
+      "hunk_id": "H087",
+      "korean_lines": "301",
+      "sol": "“Senior Brother, even if those men kept this money, they’d only use it for evil.”",
+      "sol_paragraphs": "P150",
+      "sol_range": [
+        149,
+        150
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That’s right. Since it’s already happened, we could eat something delicious while we travel to our destination…”",
+      "baseline_paragraphs": "P151",
+      "baseline_range": [
+        150,
+        151
+      ],
+      "hunk_id": "H088",
+      "korean_lines": "303",
+      "sol": "“That’s right. Since we already have it, we could eat something delicious on the way to our destination…”",
+      "sol_paragraphs": "P151",
+      "sol_range": [
+        150,
+        151
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The young man cut them off in a stern voice.",
+      "baseline_paragraphs": "P152",
+      "baseline_range": [
+        151,
+        152
+      ],
+      "hunk_id": "H089",
+      "korean_lines": "305",
+      "sol": "The young man cut them off sternly.",
+      "sol_paragraphs": "P152",
+      "sol_range": [
+        151,
+        152
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Since when was running a gambling den an evil deed? Or have you seen them commit any evil with your own eyes?”",
+      "baseline_paragraphs": "P153",
+      "baseline_range": [
+        152,
+        153
+      ],
+      "hunk_id": "H090",
+      "korean_lines": "307",
+      "sol": "“Since when has running a gambling den been an evil deed? Have you personally witnessed them committing any evil?”",
+      "sol_paragraphs": "P153",
+      "sol_range": [
+        152,
+        153
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“How can everything in this vast Murim be only one color? And if the Black Serpent Sect were truly a group of villains, the main sect would have taken action long ago.”",
+      "baseline_paragraphs": "P155",
+      "baseline_range": [
+        154,
+        155
+      ],
+      "hunk_id": "H091",
+      "korean_lines": "311",
+      "sol": "“How could this vast Murim contain only one color? And if the Black Serpent Sect were truly a band of villains, the main sect would have dealt with them long ago.”",
+      "sol_paragraphs": "P155",
+      "sol_range": [
+        154,
+        155
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Enough. We’re in a hurry, so we’ll leave the money here. Is that all right, Innkeeper?”",
+      "baseline_paragraphs": "P157",
+      "baseline_range": [
+        156,
+        157
+      ],
+      "hunk_id": "H092",
+      "korean_lines": "315",
+      "sol": "“Enough. We’re in a hurry, so we’ll leave the valuables here. Would that be acceptable, Innkeeper?”",
+      "sol_paragraphs": "P157",
+      "sol_range": [
+        156,
+        157
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "By now, everyone in the inn knew that these people were martial artists and that they had made enemies with one of Xi’an’s dark-path factions.",
+      "baseline_paragraphs": "P158",
+      "baseline_range": [
+        157,
+        158
+      ],
+      "hunk_id": "H093",
+      "korean_lines": "317",
+      "sol": "By now, everyone in the inn knew that these people were martial artists—and that they had made enemies of one of Xi’an’s dark-path factions.",
+      "sol_paragraphs": "P158",
+      "sol_range": [
+        157,
+        158
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The innkeeper, who desperately wanted to avoid entanglement with martial artists, wore an expression like he had stepped in filth.",
+      "baseline_paragraphs": "P159",
+      "baseline_range": [
+        158,
+        159
+      ],
+      "hunk_id": "H094",
+      "korean_lines": "319",
+      "sol": "The innkeeper, who wanted nothing more than to avoid becoming entangled with martial artists, looked as though he had stepped in filth.",
+      "sol_paragraphs": "P159",
+      "sol_range": [
+        158,
+        159
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“G-Great Hero, forgive me, but an old man like me can’t handle something like this.”",
+      "baseline_paragraphs": "P160",
+      "baseline_range": [
+        159,
+        160
+      ],
+      "hunk_id": "H095",
+      "korean_lines": "321",
+      "sol": "“G-Great Hero, forgive me, but this is more than an old man like me can handle.”",
+      "sol_paragraphs": "P160",
+      "sol_range": [
+        159,
+        160
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Chulwoo, who was about to lose the reward for his hard work, spoke bluntly.",
+      "baseline_paragraphs": "P161",
+      "baseline_range": [
+        160,
+        161
+      ],
+      "hunk_id": "H096",
+      "korean_lines": "323",
+      "sol": "Chulwoo, about to lose the fruits of his hard work, spoke gruffly.",
+      "sol_paragraphs": "P161",
+      "sol_range": [
+        160,
+        161
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Nothing may happen right now, but once you leave, I’ll be in serious trouble.”",
+      "baseline_paragraphs": "P163",
+      "baseline_range": [
+        162,
+        163
+      ],
+      "hunk_id": "H097",
+      "korean_lines": "327",
+      "sol": "“Perhaps not right away, but once you leave, I’ll be in terrible trouble.”",
+      "sol_paragraphs": "P163",
+      "sol_range": [
+        162,
+        163
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Come now, I said that won’t happen. Even after we leave, they won’t be able to lay a finger on you.”",
+      "baseline_paragraphs": "P164",
+      "baseline_range": [
+        163,
+        164
+      ],
+      "hunk_id": "H098",
+      "korean_lines": "329",
+      "sol": "“Come now, I told you that won’t happen. Even after we leave, they won’t dare touch a hair on your head.”",
+      "sol_paragraphs": "P164",
+      "sol_range": [
+        163,
+        164
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The innkeeper couldn’t bring himself to say that aloud and could only suffer in silence. At that moment, the young man smiled calmly.",
+      "baseline_paragraphs": "P167",
+      "baseline_range": [
+        166,
+        167
+      ],
+      "hunk_id": "H099",
+      "korean_lines": "335",
+      "sol": "The innkeeper couldn’t bring himself to say it aloud and could only stew in silence. At that moment, the young man smiled calmly.",
+      "sol_paragraphs": "P167",
+      "sol_range": [
+        166,
+        167
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“When they come, just tell them one thing along with this pouch.”",
+      "baseline_paragraphs": "P168",
+      "baseline_range": [
+        167,
+        168
+      ],
+      "hunk_id": "H100",
+      "korean_lines": "337",
+      "sol": "“When they come, simply return this pouch and give them a message.”",
+      "sol_paragraphs": "P168",
+      "sol_range": [
+        167,
+        168
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The innkeeper’s words were cut short by the young man’s voice.",
+      "baseline_paragraphs": "P170",
+      "baseline_range": [
+        169,
+        170
+      ],
+      "hunk_id": "H101",
+      "korean_lines": "341",
+      "sol": "The innkeeper’s words stopped dead at what the young man said next.",
+      "sol_paragraphs": "P170",
+      "sol_range": [
+        169,
+        170
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The name *Huashan* was intimidating enough, but the young man’s name also sounded familiar, as though they had heard it somewhere before.",
+      "baseline_paragraphs": "P173",
+      "baseline_range": [
+        172,
+        173
+      ],
+      "hunk_id": "H102",
+      "korean_lines": "347",
+      "sol": "The name *Huashan* was intimidating enough, but the young man’s name also sounded vaguely familiar.",
+      "sol_paragraphs": "P173",
+      "sol_range": [
+        172,
+        173
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Xi’an was practically Huashan’s front yard. It didn’t take long for a few martial arts aficionados to realize the young man’s identity.",
+      "baseline_paragraphs": "P176",
+      "baseline_range": [
+        175,
+        176
+      ],
+      "hunk_id": "H103",
+      "korean_lines": "353",
+      "sol": "Xi’an was practically Huashan’s front yard. It didn’t take long for several martial arts aficionados to realize the young man’s identity.",
+      "sol_paragraphs": "P176",
+      "sol_range": [
+        175,
+        176
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The title had been given to him because of his lofty bearing, like that of a solitary crane.",
+      "baseline_paragraphs": "P178",
+      "baseline_range": [
+        177,
+        178
+      ],
+      "hunk_id": "H104",
+      "korean_lines": "357",
+      "sol": "The epithet came from his lofty bearing, said to resemble that of a solitary crane.",
+      "sol_paragraphs": "P178",
+      "sol_range": [
+        177,
+        178
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He had been known as an outstanding prodigy since the day he entered Huashan, and he possessed another title as well.",
+      "baseline_paragraphs": "P179",
+      "baseline_range": [
+        178,
+        179
+      ],
+      "hunk_id": "H105",
+      "korean_lines": "359",
+      "sol": "Renowned as an outstanding prodigy from the moment he entered Huashan, he also held another title.",
+      "sol_paragraphs": "P179",
+      "sol_range": [
+        178,
+        179
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The current Sect Leader of Huashan had three disciples, all of whom had grown into outstanding masters.",
+      "baseline_paragraphs": "P181",
+      "baseline_range": [
+        180,
+        181
+      ],
+      "hunk_id": "H106",
+      "korean_lines": "363",
+      "sol": "The current Sect Leader of Huashan had three disciples, every one of whom had grown into an outstanding master.",
+      "sol_paragraphs": "P181",
+      "sol_range": [
+        180,
+        181
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was only natural that they had been appointed Plum Blossom Swordsmen, the pride of Huashan, and they soon began to distinguish themselves.",
+      "baseline_paragraphs": "P182",
+      "baseline_range": [
+        181,
+        182
+      ],
+      "hunk_id": "H107",
+      "korean_lines": "365",
+      "sol": "Naturally, they had been appointed Plum Blossom Swordsmen—the pride of Huashan—and soon distinguished themselves.",
+      "sol_paragraphs": "P182",
+      "sol_range": [
+        181,
+        182
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I heard one of them was a woman… Then are those two—?”",
+      "baseline_paragraphs": "P183",
+      "baseline_range": [
+        182,
+        183
+      ],
+      "hunk_id": "H108",
+      "korean_lines": "367",
+      "sol": "“I heard one of them was a woman… Then those two must be—”",
+      "sol_paragraphs": "P183",
+      "sol_range": [
+        182,
+        183
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Why even ask? Didn’t you hear her call Huashan’s Lone Crane Senior Brother?”",
+      "baseline_paragraphs": "P184",
+      "baseline_range": [
+        183,
+        184
+      ],
+      "hunk_id": "H109",
+      "korean_lines": "369",
+      "sol": "“Why even ask? Didn’t you hear her call Huashan’s Lone Crane her Senior Brother?”",
+      "sol_paragraphs": "P184",
+      "sol_range": [
+        183,
+        184
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Good heavens. I never thought I’d live to see the Three Plum Blossom Elites in a place like this.”",
+      "baseline_paragraphs": "P185",
+      "baseline_range": [
+        184,
+        185
+      ],
+      "hunk_id": "H110",
+      "korean_lines": "371",
+      "sol": "“Good heavens. I never thought I’d live to see all three of the Plum Blossom Elites in a place like this.”",
+      "sol_paragraphs": "P185",
+      "sol_range": [
+        184,
+        185
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "매화삼절",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Three Plum Blossom Elites"
+        }
+      ]
+    },
+    {
+      "baseline": "“Would it really be impossible?”",
+      "baseline_paragraphs": "P187",
+      "baseline_range": [
+        186,
+        187
+      ],
+      "hunk_id": "H111",
+      "korean_lines": "377",
+      "sol": "“Would it still be impossible?”",
+      "sol_paragraphs": "P187",
+      "sol_range": [
+        186,
+        187
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I’ll return this property to the Black Serpent Sect at the risk of my life. At your command!”",
+      "baseline_paragraphs": "P189",
+      "baseline_range": [
+        188,
+        189
+      ],
+      "hunk_id": "H112",
+      "korean_lines": "383",
+      "sol": "“I shall return these valuables to the Black Serpent Sect even if it costs me my life. At your command!”",
+      "sol_paragraphs": "P189",
+      "sol_range": [
+        188,
+        189
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I forgot to tell him that Huashan had been sealed off.”",
+      "baseline_paragraphs": "P197",
+      "baseline_range": [
+        196,
+        197
+      ],
+      "hunk_id": "H113",
+      "korean_lines": "399",
+      "sol": "“I forgot to tell him that Huashan has been sealed off.”",
+      "sol_paragraphs": "P197",
+      "sol_range": [
+        196,
+        197
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Who?”",
+      "baseline_paragraphs": "P198",
+      "baseline_range": [
+        197,
+        198
+      ],
+      "hunk_id": "H114",
+      "korean_lines": "401",
+      "sol": "“Tell who?”",
+      "sol_paragraphs": "P198",
+      "sol_range": [
+        197,
+        198
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I don’t know his name. That man is going to drag his aching legs all the way there only to make the trip for nothing.”",
+      "baseline_paragraphs": "P199",
+      "baseline_range": [
+        198,
+        199
+      ],
+      "hunk_id": "H115",
+      "korean_lines": "403",
+      "sol": "“I don’t know his name. That man is going to drag his aching legs all the way there for nothing.”",
+      "sol_paragraphs": "P199",
+      "sol_range": [
+        198,
+        199
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“How sad. It’ll be months before he can go.”",
+      "baseline_paragraphs": "P201",
+      "baseline_range": [
+        200,
+        201
+      ],
+      "hunk_id": "H116",
+      "korean_lines": "407",
+      "sol": "“What a shame. He won’t have a chance for the next few months.”",
+      "sol_paragraphs": "P201",
+      "sol_range": [
+        200,
+        201
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "While the Sect Leader—in other words, their Master—was asleep, an intruder had entered and left without anyone noticing.",
+      "baseline_paragraphs": "P204",
+      "baseline_range": [
+        203,
+        204
+      ],
+      "hunk_id": "H117",
+      "korean_lines": "417",
+      "sol": "While the Sect Leader—their Master—was asleep, an intruder had slipped in and out without anyone noticing.",
+      "sol_paragraphs": "P204",
+      "sol_range": [
+        203,
+        204
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The intruder had committed the audacious act of leaving a dagger and a handwritten letter beside the Sect Leader’s head.",
+      "baseline_paragraphs": "P205",
+      "baseline_range": [
+        204,
+        205
+      ],
+      "hunk_id": "H118",
+      "korean_lines": "419",
+      "sol": "The intruder had even committed the astonishingly brazen act of leaving a dagger and a handwritten letter beside the Sect Leader’s head.",
+      "sol_paragraphs": "P205",
+      "sol_range": [
+        204,
+        205
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "> “I’m going out to get some air. Don’t slack off just because you’ve become Sect Leader. Train your martial arts when you should be sleeping.”",
+      "baseline_paragraphs": "P206",
+      "baseline_range": [
+        205,
+        206
+      ],
+      "hunk_id": "H119",
+      "korean_lines": "421",
+      "sol": "> I’m going out to get some air. Don’t slack off just because you’ve become Sect Leader. Spend less time sleeping and more time training your martial arts.",
+      "sol_paragraphs": "P206",
+      "sol_range": [
+        205,
+        206
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Under ordinary circumstances, they would have immediately cast a dragnet across the entire mountain. But if the intruder’s identity was Sword Saint Mae Jonghak, the matter was different.",
+      "baseline_paragraphs": "P207",
+      "baseline_range": [
+        206,
+        207
+      ],
+      "hunk_id": "H120",
+      "korean_lines": "423",
+      "sol": "Under ordinary circumstances, they would have immediately cast a dragnet across the entire mountain. But when the intruder was Sword Saint Mae Jonghak, that changed everything.",
+      "sol_paragraphs": "P207",
+      "sol_range": [
+        206,
+        207
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Sect Leader had immediately ordered Huashan sealed tight and instructed them to search for the Sword Saint’s place of seclusion. The search had continued ever since.",
+      "baseline_paragraphs": "P208",
+      "baseline_range": [
+        207,
+        208
+      ],
+      "hunk_id": "H121",
+      "korean_lines": "425",
+      "sol": "The Sect Leader had immediately sealed Huashan tight and ordered a search for the Sword Saint’s place of seclusion. The search had continued ever since.",
+      "sol_paragraphs": "P208",
+      "sol_range": [
+        207,
+        208
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Grandmaster really is something. He’s an amazing person.”",
+      "baseline_paragraphs": "P209",
+      "baseline_range": [
+        208,
+        209
+      ],
+      "hunk_id": "H122",
+      "korean_lines": "427",
+      "sol": "“Grandmaster really is something. What an incredible man.”",
+      "sol_paragraphs": "P209",
+      "sol_range": [
+        208,
+        209
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I’d only heard about him. I didn’t know he was this extraordinary.”",
+      "baseline_paragraphs": "P210",
+      "baseline_range": [
+        209,
+        210
+      ],
+      "hunk_id": "H123",
+      "korean_lines": "429",
+      "sol": "“I’d only heard stories. I didn’t realize he was quite this extraordinary either.”",
+      "sol_paragraphs": "P210",
+      "sol_range": [
+        209,
+        210
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“If that messenger pigeon hadn’t arrived, we would have been stuck searching Huashan too.”",
+      "baseline_paragraphs": "P211",
+      "baseline_range": [
+        210,
+        211
+      ],
+      "hunk_id": "H124",
+      "korean_lines": "431",
+      "sol": "“If that messenger pigeon hadn’t arrived, we’d still be stuck searching Huashan.”",
+      "sol_paragraphs": "P211",
+      "sol_range": [
+        210,
+        211
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "In the midst of all that, the messenger pigeon that flew in from Shanxi Province had been a light of salvation.",
+      "baseline_paragraphs": "P212",
+      "baseline_range": [
+        211,
+        212
+      ],
+      "hunk_id": "H125",
+      "korean_lines": "433",
+      "sol": "Amid all that chaos, the messenger pigeon from Shanxi Province had been a ray of salvation.",
+      "sol_paragraphs": "P212",
+      "sol_range": [
+        211,
+        212
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“But what about that person named Cheongpung? Have you ever met him, Senior Brother?”",
+      "baseline_paragraphs": "P214",
+      "baseline_range": [
+        213,
+        214
+      ],
+      "hunk_id": "H126",
+      "korean_lines": "437",
+      "sol": "“But this man named Cheongpung—have you ever met him, Senior Brother?”",
+      "sol_paragraphs": "P214",
+      "sol_range": [
+        213,
+        214
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A disciple whom Sword Saint Mae Jonghak had raised like a son—like a grandson.",
+      "baseline_paragraphs": "P216",
+      "baseline_range": [
+        215,
+        216
+      ],
+      "hunk_id": "H127",
+      "korean_lines": "437",
+      "sol": "The disciple Sword Saint Mae Jonghak had raised as both a son and a grandson.",
+      "sol_paragraphs": "P216",
+      "sol_range": [
+        215,
+        216
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Baek Museong had been there that day ten years ago as well. The eyes of Huashan’s Lone Crane, Baek Museong, gleamed.",
+      "baseline_paragraphs": "P217",
+      "baseline_range": [
+        216,
+        217
+      ],
+      "hunk_id": "H128",
+      "korean_lines": "437",
+      "sol": "Baek Museong had been there that day ten years ago. Huashan’s Lone Crane’s eyes gleamed.",
+      "sol_paragraphs": "P217",
+      "sol_range": [
+        216,
+        217
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I’m looking forward to it. I wonder how much he’s grown.”",
+      "baseline_paragraphs": "P218",
+      "baseline_range": [
+        217,
+        218
+      ],
+      "hunk_id": "H129",
+      "korean_lines": "437",
+      "sol": "“I’m looking forward to seeing how he’s grown.”",
+      "sol_paragraphs": "P218",
+      "sol_range": [
+        217,
+        218
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 218,
+  "sol_sha256": "df4c98de117bece679d3f2cdffaae37c9c18c1f1a9405ee5d3590ebe7eef9b40",
+  "version": 1
+}

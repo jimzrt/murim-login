@@ -2,7 +2,7 @@
 
 Xi’an’s history ran deep. Until the dynasties changed, it had been called the center of all under heaven for hundreds of years.
 
-Its enormous population, the abundant resources produced by its plains and mines, and the famous scenic and historic sites left behind by three unified dynasties swept away by the passage of time still drew countless visitors to Xi’an.
+Its enormous population. Its abundant resources, produced by the plains and mines. And the famous scenic and historic sites left behind by three unified dynasties swept away by the passage of time. Those were still the reasons so many people visited Xi’an.
 
 In one of Xi’an’s bustling inns, two Confucian scholars dressed in thick fur coats were among those visitors.
 
@@ -14,9 +14,9 @@ Unlike his enthusiastic friend, the other scholar shook his head with a thorough
 
 “What do you mean, again?”
 
-“Can’t we just rest for today? We’ve been walking around for days. My legs feel like they’re about to break.”
+“Can’t we just rest for today? We’ve been walking around for days, and my legs feel like they’re about to break.”
 
-“Don’t be such a baby. We walked a thousand li to get here—how can we just turn around and go home? At our age, do you really think we’ll ever have another chance to visit Xi’an?”
+“Don’t be such a baby. We walked a thousand li to get here—how can we just turn around and go back? Do you really think we’ll have another chance to come to Xi’an at our age?”
 
 “Good grief. I came to sightsee in Xi’an, and now it looks like I’m going to end up sightseeing Mount Beimang.[^1] Leave me alone.”
 
@@ -26,25 +26,25 @@ Unlike his enthusiastic friend, the other scholar shook his head with a thorough
 
 “Western Peak…”
 
-The five most renowned mountains under heaven were known as the Five Great Mountains.
+The five most famous mountains in all under heaven were called the Five Great Mountains.
 
 Western Peak referred to Huashan, which lay near Xi’an.
 
-“Imagine climbing Huashan and looking down upon all under heaven. Doesn’t your lofty spirit surge at the mere thought?”
+“Imagine how it would feel to climb Huashan and look down upon all under heaven. Doesn’t your lofty spirit surge just thinking about it?”
 
 “Well… I suppose it does.”
 
 Unable to resist his friend’s fervent persuasion, the scholar reluctantly nodded.
 
-He knew perfectly well that Huashan was as famous for its breathtaking scenery as it was for its rugged terrain.
+He was well aware that Huashan was famous not only for its ruggedness but also for its beautiful scenery.
 
 “Do you think a famous mountain became famous for no reason? We need to soak up plenty of its spiritually efficacious energy this time if we want good news at the next civil service examination. How many times have you already failed?”
 
 “Why are you bringing that up all of a sudden?”
 
-“Don’t get angry. Anyway, we’ll go to Huashan, take in some lofty spirit and some spiritual energy. That’s all I mean.”
+“Don’t get angry. Anyway, we’ll go to Huashan, receive some lofty spirit, receive some spiritual energy, and that’ll be that.”
 
-When the scholar still looked hesitant, his friend added coaxingly,
+When the scholar still looked hesitant, his friend added in a coaxing voice,
 
 “I won’t ask you to visit anywhere else. We’ll just stop at Lotus Peak and come straight back down.”
 
@@ -54,7 +54,7 @@ But one rumor still bothered him.
 
 “I heard Huashan is crawling with martial artists…”
 
-“If you mean Huashan’s Daoists, there’s nothing to worry about. An acquaintance of mine went there years ago and said he didn’t have any trouble.”
+“If you mean Huashan’s Daoists, there’s nothing to worry about. An acquaintance of mine went there years ago and said nothing happened to him.”
 
 “Ahem. Then shall we give it a try?”
 
@@ -68,7 +68,7 @@ Just as he was about to fall with a short scream, a rough, sturdy hand braced th
 
 “Ugh. I barely survived that.”
 
-After barely righting himself, the scholar sighed in relief and looked at the owner of the hand.
+After barely righting himself, the scholar looked at the owner of the hand with a relieved sigh.
 
 The young man looked to be around thirty. He wore a white robe and had an ordinary appearance, but he offered the scholar a gentle smile.
 
@@ -82,9 +82,9 @@ Having narrowly escaped disaster, the scholar looked at the young man with curio
 
 *He looks ordinary.*
 
-He was of middling height and had a slender build. Yet he had supported the scholar, who outweighed him by several dozen pounds, with one hand.
+He was of middling height and had a slender build. Yet he had supported the scholar’s body, which outweighed the young man’s by several dozen pounds, with one hand.
 
-Wondering whether he might be a martial artist, the scholar glanced at his waist. It was bare, so apparently not.
+The scholar glanced at his waist, wondering if he might be a martial artist, but it was empty. Apparently not.
 
 *He’s much stronger than he looks.*
 
@@ -92,9 +92,9 @@ Regardless, the young man had saved his life. The sages of old had said that rep
 
 “Thank you again. Thanks to you, Young Master, I avoided a terrible mishap.”
 
-“I only did what anyone should have done. Please don’t concern yourself with it.”
+“I only did what anyone should have done. There’s no need to worry about it.”
 
-“You helped me greatly. How could I leave it at a few words? Why don’t you join us? The meal is on me.”
+“You helped me greatly. How could I end things with a few words? Why don’t you join us? Dinner will be on me.”
 
 His fellow scholar cut in with an incredulous look.
 
@@ -102,17 +102,17 @@ His fellow scholar cut in with an incredulous look.
 
 “Didn’t you just see me nearly go to the grave? This is a sign that I should rest at the inn. And since the Young Master here saved me, I ought to repay him. Isn’t that right?”
 
-The young man smiled and waved him off.
+The young man smiled and waved his hand.
 
 “I’m really fine. I’m waiting for my companions.”
 
-“Companions? I’ve been watching you, and you’ve been sitting here alone for more than a shichen.”
+“Companions? You’ve been sitting here alone for more than a shichen.”
 
 “Ha-ha. It seems something came up and they’re running late. I have no choice but to wait.”
 
 He had already been there for more than a shichen, and he still intended to keep waiting? He was as good-natured on the inside as he looked.
 
-Still, with the young man saying he had companions, the scholar could hardly insist that he join them. He smacked his lips regretfully.
+Still, with the young man saying he had companions, the scholar could hardly insist that he join them. He clicked his tongue regretfully.
 
 “Then it can’t be helped. May peace prevail throughout your household for as long as you live, and may you enjoy good health and a long life.”
 
@@ -134,19 +134,19 @@ A deafening boom that made everyone’s hair stand on end rang out. The inn’s 
 
 “Eunhyang’s here too!”
 
-Every patron in the inn stared at them with their mouths hanging open.
+Every customer inside the inn stared at them with their mouths hanging open.
 
 They were shocked by the man’s enormous physique and the beautiful girl’s appearance.
 
 *What kind of combination is that?*
 
-*Good heavens. I’ve never seen anyone so huge in my life.*
+*In all my life, I’ve never seen anyone that huge.*
 
-The inn fell silent. Only one person showed no surprise—the young man who had helped the scholar moments before.
+In the silence that fell over the inn, only one person showed no surprise. It was the young man who had helped the scholar moments before.
 
 “You’re late.”
 
-The man, who stood several heads taller than everyone else, scratched his head vigorously.
+The man, who was several heads taller than anyone else, vigorously scratched his head.
 
 “I’m sorry. We got caught up in a little dispute on the way.”
 
@@ -154,7 +154,7 @@ The man, who stood several heads taller than everyone else, scratched his head v
 
 “Well, the thing is…”
 
-When the man began to mumble, the girl who had introduced herself as Eunhyang cut in with a broad grin.
+When the man began to mumble, the girl who had introduced herself as Eunhyang cut in with a bright grin.
 
 “Big Brother, have you ever heard of the Black Serpent Sect?”
 
@@ -178,13 +178,13 @@ Of course, one person was an exception again.
 
 “So, what happened?”
 
-At the young man’s question, Chulwoo answered at once.
+At the young man’s question, Chulwoo quickly answered,
 
 “I just told them I wasn’t interested and sent them away.”
 
 “Is that true?”
 
-Chulwoo’s gaze slid away.
+Chulwoo subtly averted his gaze.
 
 “Y-yes, it’s true.”
 
@@ -202,13 +202,13 @@ The young man let out a deep sigh.
 
 “Let go of Eunhyang first.”
 
-“…Yes, Senior Brother.”
+“...Yes, Senior Brother.”
 
 “Mmph—phew!”
 
 Eunhyang was finally released. She scrunched up her face and spat repeatedly.
 
-“Ugh, salty. When did you last wash your hands, Brother?”
+“Ugh, that’s salty. When was the last time you washed your hands, Brother?”
 
 “Yesterday.”
 
@@ -222,17 +222,17 @@ Eunhyang was finally released. She scrunched up her face and spat repeatedly.
 
 “What did you say?”
 
-As the two growled at each other, the young man rubbed the corners of his eyes wearily.
+As the two began growling at each other, the young man rubbed the corners of his eyes tiredly.
 
-These two were notorious troublemakers even within their sect. He had known that something like this would happen eventually, but he hadn’t expected them to cause trouble before they had even left Xi’an.
+These two were notorious troublemakers even within their sect. He had known that something like this would happen someday, but he had never expected them to cause trouble before they had even left Xi’an.
 
 *I couldn’t refuse when it was the Sect Leader’s order.*
 
-What could he do? He could only consider it his karma.
+What could he do? He had no choice but to consider this his karma.
 
 Already half drained of energy, he spoke.
 
-“Do you both want to go back? Should I tell the Sect Leader to put you through wall-facing meditation until you come to your senses?”
+“Do you both want to go back? Should I tell the Sect Leader to put you through wall-facing meditation before you come to your senses?”
 
 “Gasp! No, Senior Brother.”
 
@@ -292,7 +292,7 @@ Chulwoo cried out in horror.
 
 “…”
 
-Apparently, smashing the Black Serpent Sect hadn’t been enough. They had stripped the place of its valuables as well. The young man’s forehead began to throb.
+Not only had they smashed the Black Serpent Sect, they seemed to have stripped it of every last possession as well. The young man’s forehead began to throb.
 
 “Return it immediately.”
 
@@ -306,25 +306,25 @@ The young man cut them off in a stern voice.
 
 “We don’t need to see it. It’s obvious. They’re dark-path figures.”
 
-“How could this vast Murim contain only one color? And if the Black Serpent Sect were truly a group of villains, the main sect would have taken action long ago.”
+“How can everything in this vast Murim be only one color? And if the Black Serpent Sect were truly a group of villains, the main sect would have taken action long ago.”
 
 “But…”
 
-“Enough. We’re in a hurry, so we’ll leave the valuables here. Is that all right, Innkeeper?”
+“Enough. We’re in a hurry, so we’ll leave the money here. Is that all right, Innkeeper?”
 
-By now, everyone in the inn knew that these people were martial artists—and that they had made enemies of one of Xi’an’s dark-path factions.
+By now, everyone in the inn knew that these people were martial artists and that they had made enemies with one of Xi’an’s dark-path factions.
 
-The innkeeper, who desperately wanted to avoid entanglement with martial artists, looked as though he had stepped in filth.
+The innkeeper, who desperately wanted to avoid entanglement with martial artists, wore an expression like he had stepped in filth.
 
-“G-Great Hero, forgive me, but this is more than an old man like me can handle.”
+“G-Great Hero, forgive me, but an old man like me can’t handle something like this.”
 
-Chulwoo, about to lose the fruits of his hard work, spoke gruffly.
+Chulwoo, who was about to lose the reward for his hard work, spoke bluntly.
 
 “Don’t worry. Nothing will happen.”
 
 “Nothing may happen right now, but once you leave, I’ll be in serious trouble.”
 
-“Come now, I said that won’t happen. Even after we leave, they won’t be able to touch a hair on your head.”
+“Come now, I said that won’t happen. Even after we leave, they won’t be able to lay a finger on you.”
 
 “No, that’s not something you can say so easily…”
 
@@ -354,19 +354,19 @@ Xi’an was practically Huashan’s front yard. It didn’t take long for a few 
 
 The title had been given to him because of his lofty bearing, like that of a solitary crane.
 
-Renowned as an outstanding prodigy from the moment he entered Huashan, he also held another title.
+He had been known as an outstanding prodigy since the day he entered Huashan, and he possessed another title as well.
 
 “If he’s Huashan’s Lone Crane, isn’t he the first of the Three Plum Blossom Elites?”
 
-The current Sect Leader of Huashan had three disciples, every one of whom had grown into an outstanding master.
+The current Sect Leader of Huashan had three disciples, all of whom had grown into outstanding masters.
 
-Naturally, they had been appointed Plum Blossom Swordsmen—the pride of Huashan—and soon distinguished themselves.
+It was only natural that they had been appointed Plum Blossom Swordsmen, the pride of Huashan, and they soon began to distinguish themselves.
 
 “I heard one of them was a woman… Then are those two—?”
 
-“Why even ask? Didn’t you hear her call Huashan’s Lone Crane her Senior Brother?”
+“Why even ask? Didn’t you hear her call Huashan’s Lone Crane Senior Brother?”
 
-“Good heavens. I never thought I’d live to see all of the Three Plum Blossom Elites in a place like this.”
+“Good heavens. I never thought I’d live to see the Three Plum Blossom Elites in a place like this.”
 
 Ignoring the exclamations erupting throughout the inn, Baek Museong spoke.
 
@@ -390,15 +390,15 @@ At Baek Museong’s mutter, his two junior disciples turned toward him.
 
 Baek Museong shook his head.
 
-“I forgot to tell him that Huashan has been sealed off.”
+“I forgot to tell him that Huashan had been sealed off.”
 
-“Tell who?”
+“Who?”
 
-“I don’t know his name. That man is going to drag his aching legs all the way there for nothing.”
+“I don’t know his name. That man is going to drag his aching legs all the way there only to make the trip for nothing.”
 
 Eunhyang clicked her tongue sympathetically.
 
-“What a shame. He won’t have a chance for the next few months.”
+“How sad. It’ll be months before he can go.”
 
 “Indeed.”
 
@@ -412,11 +412,11 @@ The intruder had committed the audacious act of leaving a dagger and a handwritt
 
 Under ordinary circumstances, they would have immediately cast a dragnet across the entire mountain. But if the intruder’s identity was Sword Saint Mae Jonghak, the matter was different.
 
-The Sect Leader had immediately sealed Huashan tight and ordered a search for the Sword Saint’s place of seclusion. The search had continued ever since.
+The Sect Leader had immediately ordered Huashan sealed tight and instructed them to search for the Sword Saint’s place of seclusion. The search had continued ever since.
 
 “Grandmaster really is something. He’s an amazing person.”
 
-“I’d only heard about him. I didn’t know he was this extraordinary either.”
+“I’d only heard about him. I didn’t know he was this extraordinary.”
 
 “If that messenger pigeon hadn’t arrived, we would have been stuck searching Huashan too.”
 

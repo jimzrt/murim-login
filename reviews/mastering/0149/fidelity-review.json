@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "a rough, sturdy hand braced the scholar’s back.",
+      "defect": "The source specifically identifies the supporting body part as a rough, hard palm, not the more general hand.",
+      "id": "F01",
+      "rationale": "손바닥 means “palm”; this physical detail should be preserved.",
+      "replacement": "a rough, hard palm braced the scholar’s back.",
+      "severity": "minor",
+      "source": "lines 67–68"
+    },
+    {
+      "confidence": 0.94,
+      "current": "“No, he didn’t! I swear! I look so innocent!”",
+      "defect": "Chulwoo protests that Eunhyang’s account is wrong; he does not specifically assert that the gang boss never offered him work.",
+      "id": "F02",
+      "rationale": "아닙니다. 아니라고요 rejects her account generally. “No, he didn’t” invents a specific denial of the recruitment offer.",
+      "replacement": "“That’s not what happened! I’m telling you! I look so innocent!”",
+      "severity": "minor",
+      "source": "lines 163–166"
+    }
+  ],
+  "summary": "The chapter is broadly faithful, with four minor localized deviations involving physical detail, an overstated denial, and added forms of address.",
+  "version": 1
+}
