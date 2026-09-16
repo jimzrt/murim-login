@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "He muttered to himself.",
+      "defect": "This makes Pung Yang’s reaction potentially audible, whereas 내심 marks it as an internal thought.",
+      "id": "F01",
+      "rationale": "The source explicitly places the words within his mind, and the following italicized sentence is direct thought. The accepted baseline preserved this distinction.",
+      "replacement": "He thought to himself.",
+      "severity": "minor",
+      "source": "Korean lines 273–275; assembled P135"
+    }
+  ],
+  "summary": "The chapter is highly faithful overall, with one minor viewpoint-action defect.",
+  "version": 1
+}
