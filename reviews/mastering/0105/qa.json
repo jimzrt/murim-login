@@ -1,0 +1,39 @@
+{
+  "chapter": 105,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.243,
+    "source_characters": 5420,
+    "source_paragraphs": 195,
+    "translation_characters": 12158,
+    "translation_paragraphs": 215
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "갑자",
+        "preferred": "jiazi"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "주신",
+        "preferred": "God of Drinking"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "세가",
+        "preferred": "great family"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}

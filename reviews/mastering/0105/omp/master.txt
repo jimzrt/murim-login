@@ -28,19 +28,19 @@ Shing, shing, shing!
 
 Five curved sabers were drawn at once. Five pairs of eyes gleamed with killing intent. The inn’s guests scattered, screaming.
 
-I suddenly remembered the smell of blood coming from the man who had just fallen.
+I suddenly remembered the smell of blood coming from the man I had just knocked down.
 
-*Huh. Look at these bastards.*
+*Well, look at these bastards.*
 
 They were used to killing. I could tell from the way they had started the fight, yet hadn’t hesitated for a moment to draw their weapons.
 
 “What are you people?”
 
-“The Grim Reaper.”
+“Your escorts to the afterlife.”
 
 The answer came as they charged.
 
-Four curved sabers thrust toward my limbs, while the remaining one aimed precisely at my chest.
+Four curved sabers thrust toward my limbs, while the fifth aimed straight for my chest.
 
 Whoosh, whoosh, whoosh!
 
@@ -48,13 +48,13 @@ Too slow.
 
 One of the five was First Rate. The other four were Second Rate.
 
-Their plan to take me down was ambitious, but their feet were slow, and the net of sabers they spread from the front was full of gaps.
+Their plan to take me down was ambitious enough, but their feet were slow, and the net of sabers they spread before me was full of holes.
 
 “Next time, at least try surrounding your opponent.”
 
 With that friendly advice, I flicked both hands toward them.
 
-In a very brief instant, two daggers summoned from my Inventory sliced through the air.
+In the briefest instant, two daggers summoned from my Inventory sliced through the air.
 
 Whoosh!
 
@@ -88,15 +88,15 @@ Thud, thud!
 
 “Ghk. But your hands were clearly empty…”
 
-Thud.
+Thump.
 
 “My daggers multiply infinitely.”
 
 Stopping by the armory before leaving the Jin Family of Taiyuan had been a good idea.
 
-I had gone in empty-handed and come out empty-handed, but my Inventory was now filled with dozens of weapons looted as spoils.
+I had gone in empty-handed and come out empty-handed, but my Inventory now held dozens of weapons taken as spoils.
 
-“What… what is this?”
+“W-What is this?”
 
 It had all happened in the blink of an eye. The remaining three men stopped midcharge, faltered, and backed away.
 
@@ -112,9 +112,9 @@ A moment ago, they had been calling me a little bastard. Now I was Young Hero.
 
 “Yes, yes!”
 
-“Don’t need it!”
+“Don’t need one!”
 
-I clenched my fist and charged at them. I didn’t need martial arts to deal with bastards like these.
+I clenched my fists and charged. I didn’t need martial arts to deal with bastards like these.
 
 “Damn it! Get him!”
 
@@ -122,11 +122,11 @@ Whoosh!
 
 One step to the side.
 
-I dodged the curved saber chopping straight down at the crown of my head, then drove a single punch into the opening at his side.
+I avoided the curved saber chopping straight down at the crown of my head, then drove a fist into the opening at his side.
 
 Crunch.
 
-Leaving him to collapse with a strangled groan, I charged at the next opponent. A System window above his head displayed Level 35.
+Leaving him to collapse with a strangled groan, I rushed the next man. A System window above his head displayed Level 35.
 
 “You bastard!”
 
@@ -138,19 +138,19 @@ But…
 
 *All of it is useless against overwhelming strength and speed.*
 
-My level and internal energy were low, but my stats far surpassed those of a First Rate martial artist. Add the combat experience I had built up in Murim, and this man was no match for me.
+My level and internal energy might have been low, but my stats far surpassed those of a First Rate martial artist. Add the combat experience I had built up in Murim, and this man was no match for me.
 
 Crack!
 
-The focus vanished from his eyes. The curved saber slipped from his grip before he could finish his swing.
+The focus vanished from his eyes. His curved saber slipped from his grasp before he could complete the swing.
 
 Clang.
 
-The last man, who had watched everything unfold, was half out of his mind.
+The last man, having watched the whole thing unfold, looked half out of his mind.
 
 “T-The Captain fell in a single exchange… Who are you?”
 
-“You should exchange names with my fist. Here, this one’s called Right Hand. And you?”
+“You should introduce yourself to my fist. This one’s called Right Hand. What’s your name?”
 
 I raised my clenched right fist and approached. The man swung his curved saber wildly through the air.
 
@@ -158,31 +158,31 @@ I raised my clenched right fist and approached. The man swung his curved saber w
 
 “You should ask more politely.”
 
-“Please, don’t come any closer!”
+“Please don’t come any closer!”
 
 “You actually did it.”
 
 Well, if he was going to ask that politely, I ought to grant his request.
 
-When I stopped walking, color returned to the man’s face.
+I stopped, and the man’s face brightened.
 
-“T-Thank you! I’ll live a good life from now on!”
+“Th-Thank you! I’ll live an honest life from now on!”
 
-“No need to thank me. And you don’t have to live a good life.”
+“No need to thank me. And you don’t have to live an honest life.”
 
-“Huh?”
+“What?”
 
 “Turning over a new leaf isn’t that easy. Right, Mujin?”
 
-Hyuk Mujin was standing behind the man before I knew it.
+Hyuk Mujin was already standing behind him.
 
 “Of course.”
 
 “Gasp!”
 
-The man sucked in a startled breath and turned around, but it was already too late.
+The man sucked in a startled breath and turned, but it was already too late.
 
-Hyuk Mujin was in the middle of bringing the wooden chair in his hands down on the crown of the man’s head with all his strength.
+Hyuk Mujin was bringing the wooden chair in his hands down on the crown of the man’s head with all his strength.
 
 Crack!
 
@@ -192,11 +192,11 @@ The last man collapsed with a heavy thud. Hyuk Mujin set down the chair and mutt
 
 “What are you thanking those bastards for?”
 
-“There are things.”
+“It’s a long story.”
 
-That look in his eyes was awfully cocky.
+What was with that cocky look in his eyes?
 
-I was wondering whether I should give him a smack after such a long time when Hyuk Mujin, who had been searching through the fallen men’s clothes, tilted his head.
+I was debating whether to give him a whack for old times’ sake when Hyuk Mujin, who had been searching the fallen men, tilted his head.
 
 “Huh? Captain, there’s something suspicious about these men.”
 
@@ -212,7 +212,7 @@ It looked like…
 
 “A tattoo?”
 
-Crude and savage as it was, it was definitely a kind of tattoo.
+Crude and savage as it was, it was unmistakably a tattoo.
 
 One shaped like a running horse.
 
@@ -226,13 +226,13 @@ One shaped like a running horse.
 
 Hyuk Mujin gathered the unconscious men in one place and stripped off their shirts.
 
-Arms, chests, necks. The locations differed slightly, but every one of them bore a horse tattoo.
+Arms, chests, necks. The locations varied, but every one of them bore the same horse tattoo.
 
 *So they belong to some kind of organization…*
 
-I already knew they weren’t simple thugs. Two of them were First Rate masters, and the word the last man had let slip without meaning to kept bothering me.
+I already knew they weren’t ordinary thugs. Two of them were First Rate masters, and one word the last man had let slip kept bothering me.
 
-*He definitely said Captain, didn’t he?*
+*He definitely said Captain.*
 
 Were they martial artists from another sect?
 
@@ -242,23 +242,23 @@ A sizable band of wandering martial artists seemed more likely.
 
 *A horse tattoo. A horse tattoo…*
 
-Then a word suddenly flashed through my mind.
+Then a word flashed through my mind.
 
 It was a name I had first heard during the war with the Mount Heng Sword Sect.
 
 “Mounted bandits?”
 
-Someone answered my mutter from somewhere nearby.
+Someone nearby answered my mutter.
 
-“There are dozens of mounted-bandit groups in northern Gaoyuan. It was a great mistake for Lee Cheonbaek to hire them.”
+“There are dozens of mounted-bandit groups across the northern plateau. Hiring them was one of Lee Cheonbaek’s greatest mistakes.”
 
-I turned toward the owner of the languid yet alluring voice.
+I turned toward the owner of the languid, alluring voice.
 
-A woman stood on the stairs leading to the second floor, a veil draped across her face.
+A veiled woman stood on the stairs leading to the second floor.
 
-“Long time no see, our Young Master.”
+“Long time no see, my Young Master.”
 
-*Our Young Master?*
+*My Young Master?*
 
 The moment I heard those words, I knew who she was.
 
@@ -272,13 +272,13 @@ Hyuk Mujin and I were led to a guest room on the top floor of the Phoenix Inn.
 
 Calling it a guest room hardly did it justice. It occupied the entire floor, so penthouse would have been more accurate.
 
-“It’s my first time bringing a man here. And two of them, no less.”
+“This is the first time I’ve brought a man here. Let alone two at once.”
 
 Bathed in the soft light, Wolhwa’s smile was dazzling.
 
 I had felt it from the moment we first met, but she was the very definition of a femme fatale.
 
-Even after meeting her several times, the sight of her was enough to make my stomach churn. Hyuk Mujin was beyond saving.
+Even after meeting her several times, the sight of her was enough to make my stomach flutter. Hyuk Mujin was beyond saving.
 
 “I-It is the honor of three lifetimes.”
 
@@ -288,37 +288,37 @@ Look at that bastard’s glazed eyes.
 
 He was completely smitten.
 
-Wolhwa gave him a smile, then turned her gaze toward me.
+Wolhwa flashed him a smile, then turned her gaze to me.
 
 “Have you been well, Young Master Jin? Ah, perhaps I can’t call you Young Master the way I used to anymore?”
 
 The mischief in her expression made it obvious what was coming. I hurriedly waved my hands.
 
-“Just call me whatever you like. Like before.”
+“Just call me whatever you like. Same as before.”
 
 “Hmm. Then how about Young Master Sleeping Dragon?”
 
 “……That’s horrible.”
 
-“Oh my, why? Sleeping Dragon of Shanxi sounds wonderful. If you’ve earned that much martial fame at such a young age, you could stand to be a little prouder.”
+“Oh my, why? Sleeping Dragon of Shanxi sounds wonderful. If you’ve earned that much martial fame at your age, you could stand to be a little prouder.”
 
 Sleeping Dragon of Shanxi, Flaming Charisma Taekyung—six of one, half a dozen of the other.
 
-Seeing my expression, Wolhwa chuckled and put her long-stemmed tobacco pipe to her lips.
+Wolhwa saw my expression, chuckled, and raised her long-stemmed tobacco pipe to her lips.
 
-“I’m only joking. Anyway, teasing Young Master Jin is so much fun.”
+“I’m joking. Young Master Jin is simply too much fun to tease.”
 
 “Excuse me for interrupting.”
 
 Hyuk Mujin had regained some of his senses. He looked back and forth between Wolhwa and me.
 
-“May I ask what kind of relationship the two of you have?”
+“May I ask what sort of relationship the two of you have?”
 
 “None of your business.”
 
 Our relationship was too embarrassing to explain in detail.
 
-I cut him off sharply and glanced at Wolhwa, signaling for her to play along.
+I cut him off and glanced at Wolhwa, signaling for her to play along.
 
 Quick on the uptake, she nodded.
 
@@ -330,11 +330,11 @@ Like hell she understood.
 
 Then again, after how openly she had acted in front of Jin Wikyung and Wipeng, it would have been ridiculous for her to hide it now.
 
-Hyuk Mujin, meanwhile, seemed only half-convinced by Wolhwa’s answer.
+Hyuk Mujin, meanwhile, looked uncertain whether to believe her.
 
 “By ‘establishment,’ do you mean the Phoenix Inn?”
 
-“No. This is just a side business. My real profession is something only a beautiful and charming woman like me can do.”
+“No. This is only a side business. My real profession is something only a beautiful, charming woman like me can do.”
 
 “Then perhaps…”
 
@@ -346,15 +346,15 @@ Hyuk Mujin, meanwhile, seemed only half-convinced by Wolhwa’s answer.
 
 Hyuk Mujin’s eyes widened.
 
-“So the proprietress of the Phoenix Inn, whom I had only heard about in rumors, was a courtesan.”
+“So the famous proprietress of the Phoenix Inn is a courtesan.”
 
 “Young Martial Artist, you should watch your words. That isn’t very pleasant to hear.”
 
-“If I offended you, I apologize. However, your words and behavior don’t exactly appear in a favorable light either.”
+“If I offended you, I apologize. But your conduct toward the Young Master is hardly appropriate either.”
 
 His sudden seriousness caught me even more off guard.
 
-“Hey, what’s with you?”
+“Hey, what’s gotten into you?”
 
 “Captain—no, Young Master—is a direct descendant of the Jin Family of Taiyuan. Even the most beautiful woman under heaven has no right to treat him so casually. As a retainer of our family, I could not simply stand by and watch.”
 
@@ -370,7 +370,7 @@ I gave him a satisfying whack on the back of the head.
 
 “Shanxi Branch Leader or not—what? What did you say?”
 
-“Are your ears clogged? I said she’s the Shanxi Branch Leader of the Lower District Sect. She gave us extremely—very, very—decisive help in the recent war with the Mount Heng Sword Sect.”
+“Are your ears clogged? I said she’s the Shanxi Branch Leader of the Lower District Sect. She gave us an extremely—very, very—decisive amount of help during the war with the Mount Heng Sword Sect.”
 
 “I’m fine, Young Master Jin.”
 
@@ -386,7 +386,7 @@ Hyuk Mujin fell silent for a moment, then bowed his head.
 
 “Yes, ma’am.”
 
-Wolhwa let out a quiet laugh.
+Wolhwa let out an amused laugh.
 
 “You have an interesting subordinate.”
 
@@ -394,25 +394,25 @@ As the saying went, it was the squid that disgraced the fish market. That bastar
 
 I was too embarrassed to even look Wolhwa in the eye.
 
-“……I apologize for all of this.”
+“……I’m sorry about him.”
 
-“You’re not the one who needs to apologize, Young Master. And he wasn’t entirely wrong.”
+“You have nothing to apologize for, Young Master. Besides, he wasn’t entirely wrong.”
 
-Thankfully, she let it slide without a fuss.
+Thankfully, she let the matter slide.
 
-After exhaling a stream of smoke, Wolhwa spoke.
+Wolhwa exhaled a stream of smoke before speaking again.
 
 “You’re on your way to the Mount Heng Sword Sect, aren’t you?”
 
 “Yes.”
 
-“May I ask what your purpose is?”
+“May I ask why?”
 
 “You already know, don’t you?”
 
 She was the greatest source of information in all of Shanxi Province. There was no need to ask how she knew.
 
-“I wanted Young Master Jin to tell me himself… I’m disappointed.”
+“I wanted to hear it from you, Young Master Jin… How disappointing.”
 
 “Business and personal matters should be kept separate.”
 
@@ -422,7 +422,7 @@ She was the greatest source of information in all of Shanxi Province. There was 
 
 Wolhwa tapped the ash from her pipe.
 
-“Let’s go together. To the Mount Heng Sword Sect.”
+“Let’s go to the Mount Heng Sword Sect together.”
 
 “What?”
 
