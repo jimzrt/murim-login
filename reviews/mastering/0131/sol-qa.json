@@ -1,0 +1,55 @@
+{
+  "chapter": 131,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.201,
+    "source_characters": 5950,
+    "source_paragraphs": 176,
+    "translation_characters": 13093,
+    "translation_paragraphs": 179
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "갑자",
+        "preferred": "jiazi"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "주신",
+        "preferred": "God of Drinking"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "전하",
+        "preferred": "His Highness"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "수문각",
+        "preferred": "Gate Guard Pavilion"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "호호호",
+        "romanization": "hohoho"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}

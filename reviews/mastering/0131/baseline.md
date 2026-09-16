@@ -2,11 +2,11 @@
 
 “Fresh-killed pork, twenty coins per geun! Cheap, cheap!”
 
-“Oh my, that ring looks perfect on you. It’s normally one silver nyang, but since your fingers are so pretty, I’ll let you have it for half a nyang. What do you say?”
+“Oh my, what should I do? That ring suits you perfectly. It’s normally one nyang of silver, but you have such pretty fingers, so I’ll give it to you for half a nyang. What do you say?”
 
-“As for this pill, just one will clear your mind and fill you with strength…”
+“If I may say so, this pill will clear your mind and fill you with strength after just one dose…”
 
-The streets were packed with endless rows of stalls and the booming cries of merchants.
+The streets were filled with endless rows of stalls and the booming cries of market merchants.
 
 When I saw the crowded streets of Taiyuan, I clicked my tongue in amazement.
 
@@ -14,49 +14,51 @@ When I saw the crowded streets of Taiyuan, I clicked my tongue in amazement.
 
 There was quite a variety among them, too. There were not only street vendors, but also quack medicine sellers, people dressed in smooth silk, and beggars whose poverty practically poured off them.
 
-Martial artists with swords at their waists were also a common sight, but no one paid them any particular attention. Everyone simply went about their business.
+Martial artists wearing swords at their waists were easy enough to spot, but no one paid them any particular attention. Everyone simply continued with whatever they were doing.
 
 *So this is the capital of Shanxi Province.*
 
-Shanxi Province had dozens of counties and towns, but Taiyuan held a special place among them.
+Shanxi Province had dozens of counties and towns, but Taiyuan held a particularly important position among them.
 
 Thanks to its many advantages, it had once served as the capital of a dynasty in the distant past.
 
 That dynasty had fallen long ago, of course, but Taiyuan had continued to develop afterward…
 
-Or so Hyuk Mujin had told me.
+At least, that was what Hyuk Mujin had told me.
 
 *That must be why the Jin Family of Taiyuan has managed to survive for three hundred years.*
 
 Abundant supplies and manpower. And economic power.
 
-Come to think of it, even after one worthless son raided the family coffers and blew it all at a pleasure house, they still had enough left to wage war against the Mount Heng Sword Sect.
+Come to think of it, even after some worthless son had plundered the family treasury and dumped all of it into a pleasure house, they had still possessed enough strength to go to war with the Mount Heng Sword Sect.
 
 If they had been the Jin Family of Mount Heng instead of the Jin Family of Taiyuan, they would have gone bankrupt and ended up on the streets long ago.
 
 *You can’t pass through Taiyuan without setting foot on the Jin Family of Taiyuan’s land.*
 
-As I recalled the saying, Hyuk Mujin asked, “What are you thinking about so hard?”
+As I recalled something I had heard long ago, Hyuk Mujin asked,
 
-“Just that land speculation really pays off.”
+“What are you thinking about so seriously?”
+
+“Land speculation is pretty great. That’s what I was thinking.”
 
 “What?”
 
 “It’s nothing. You…”
 
-“Don’t need to know?”
+“I don’t need to know?”
 
-“You catch on fast.”
+“You catch on quickly.”
 
 “I’m getting tired of hearing that.”
 
 “Yeah, I’m getting tired of you, too.”
 
-“Then why did you bring me?”
+“Then why did you bring me along?”
 
-“Let’s get the facts straight. I didn’t bring you. Eldest Brother assigned you to me.”
+“Let’s at least get the facts straight. I didn’t bring you. The eldest brother assigned you to me.”
 
-Jin Wikyung had sent me ahead to prepare for tomorrow’s luncheon with Shanxi’s City Lord. The City Lord was a temperamental child, so Wikyung probably wanted us to accommodate him as much as possible and avoid any trouble.
+Jin Wikyung had sent me ahead in preparation for tomorrow’s luncheon with Shanxi’s City Lord. I assumed he wanted to accommodate the capricious child as much as possible without causing any trouble.
 
 In any case, that was why Hyuk Mujin was traveling with me. As a native of Taiyuan, he was an ideal attendant in many ways.
 
@@ -64,15 +66,15 @@ In any case, that was why Hyuk Mujin was traveling with me. As a native of Taiyu
 
 “My hometown… Yes, it is.”
 
-Hyuk Mujin stared at the streets with a complicated look in his eyes.
+Hyuk Mujin stared at the streets with complicated emotions in his eyes.
 
 “It’s only been five years, but so much has changed.”
 
-“You must’ve stopped by a few times in between.”
+“You must have stopped by a few times in between.”
 
-“No. I haven’t been back once.”
+“No. I haven’t visited even once during that time.”
 
-His unexpected answer caught me by surprise.
+I was startled by the unexpected answer.
 
 “Not even once in five years?”
 
@@ -80,13 +82,13 @@ His unexpected answer caught me by surprise.
 
 “Hmm.”
 
-“I never thought I’d come back like this.”
+“I never thought I’d return like this.”
 
 It was the first time in a long while—no, almost the first time ever—that I had seen him look so serious.
 
-Come to think of it, Hyuk Mujin might fool around constantly, but he was still a capable First Rate master. He only seemed unimpressive because he was surrounded by monsters. His realm was by no means low.
+Come to think of it, Hyuk Mujin was a First Rate master who had quite a bit of skill, even though he acted foolishly about everything. It was just that he happened to be surrounded by monsters. His realm was by no means low.
 
-He could never have reached it without working himself to the bone. And on top of that…
+He could only have reached that level through tremendous effort. And on top of that…
 
 *He seems to have some talent, too.*
 
@@ -95,9 +97,9 @@ He could never have reached it without working himself to the bone. And on top o
 > **Level:** 48  
 > **Name:** Hyuk Mujin
 
-His rapidly rising Level was proof enough.
+The rapidly rising Level was proof of that.
 
-*At this rate, is he going to become a Peak master before I know it?*
+*Is this guy going to suddenly become a Peak master one of these days?*
 
 Despite my newly appreciative gaze, Hyuk Mujin was too absorbed in the emotions of returning to his hometown after so long.
 
@@ -105,31 +107,31 @@ Despite my newly appreciative gaze, Hyuk Mujin was too absorbed in the emotions 
 
 His voice was happy, yet wistful.
 
-He pointed to a gray-streaked middle-aged woman selling all kinds of snacks from a small stall.
+The middle-aged woman he pointed toward had streaks of gray in her hair and was selling various snacks from a small stall.
 
 “Do you like candied hawthorn skewers?”[^1]
 
-Normally, I would have told him to stop talking nonsense and keep moving, but the mood was unusual. I answered as kindly as I could.
+Under normal circumstances, I would have told him to stop talking nonsense and keep moving, but the atmosphere was unusual. I answered as kindly as possible.
 
-“I’ve never had one in my life.”
+“I’ve never eaten one in my life.”
 
-“When I was little, I wanted them so badly. Whenever I crouched in front of her stall and sucked on my fingers, that auntie would give me one or two.”
+“When I was young, I wanted one so badly. Whenever I crouched in front of the stall and sucked on my fingers, that auntie would give me one or two.”
 
 Hyuk Mujin continued with a bitter smile.
 
-“You have no idea how jealous I was of the other children. They’d come holding their parents’ hands, buy candied hawthorn and sweets, and wander around the market… I can still picture it.”
+“You have no idea how envious I was of the other children. They would come holding tightly to their parents’ hands, buy candied hawthorn and sweets, and walk around the market… I can still see it clearly.”
 
-What was I supposed to do with this mood?
+What was I supposed to do with this atmosphere?
 
-I had figured there must be a story behind him, but I hadn’t expected it to take this turn.
+I had assumed there would be some sort of story behind him, but I hadn’t expected it to go in this direction.
 
-*I should’ve known when he said he hadn’t come back in five years.*
+*I should have realized something when he said he hadn’t come back for five years.*
 
 There were an unusually large number of orphans in the Murim. Even looking around us, it was easy to find children wandering through the market in filthy rags.
 
 *He must have been in a similar situation.*
 
-With no family, he had no reason to return. Coming back would only stir up painful memories of lingering outside the stall as a child, longing for candied hawthorn.
+If he had no family, he had no reason to return. Coming back would only remind him of the painful memories of standing around the stall as a child, wanting to eat candied hawthorn.
 
 Maybe that was why he had tried to forget his pain through training.
 
@@ -147,7 +149,7 @@ Hyuk Mujin immediately noticed the change in me.
 
 “Fine dust?”
 
-“Never mind that. Why don’t we get a candied hawthorn skewer each?”
+“Forget that. Why don’t we each get a candied hawthorn skewer?”
 
 “Wouldn’t it be better to find an inn first? If we don’t get a room before the sun goes down, there may not be any left.”
 
@@ -155,25 +157,25 @@ Hyuk Mujin immediately noticed the change in me.
 
 “That’s true.”
 
-“Let’s eat whatever we want and have all the fun we can before we leave. You can pay that auntie back for the treats she gave you by giving her plenty of business.”
+“Let’s eat whatever we want and have as much fun as we can before we leave. You can raise that auntie’s sales while paying her back for all the candied hawthorn she gave you when you were young.”
 
-“I’m not sure we should spend money meant for necessities like this…”
+“I’m not sure it’s right to spend the money we were given for things we need on this…”
 
-“Spend it. Spend all of it. If anyone complains later, bring them to me.”
+“Spend it. Spend every bit of it. If anyone complains later, bring them to me.”
 
 “What if the Second Young Master complains?”
 
-“…Bring me anyone except him.”
+“...Bring anyone but him.”
 
 Hyuk Mujin let out a short laugh before speaking in a much brighter voice.
 
-“Then shall we get a skewer each?”
+“Then shall we each get a candied hawthorn skewer?”
 
 “Sure. I’ve been looking at them for a while, and they’re making my mouth water.”
 
-I said it entirely for Hyuk Mujin’s benefit. I was almost thirty. Why would fruit candy make my mouth water?
+I was saying that very deliberately for Hyuk Mujin’s sake. I was almost thirty. What kind of adult salivated over fruit candy?
 
-*As long as it cheers him up.*
+*As long as it makes him feel better.*
 
 That guy had suffered plenty while following me around. He was constantly berated and beaten, and every time we took on a Quest, we ended up meeting nothing but monsters. He had come close to dying more than once.
 
@@ -185,17 +187,17 @@ Hyuk Mujin, who had just started walking toward the stall, stopped short.
 
 “Yes? What is it?”
 
-“Well…”
+“That…”
 
-The words *I’m counting on you from here on out* hovered on the tip of my tongue. Damn it. That was much too sappy for two grown men to say to each other.
+The words *I’m counting on you from here on out* hovered at the tip of my tongue. Damn it. That was far too embarrassing for two grown men to say to each other.
 
-After agonizing over it, I blurted out something completely different.
+After agonizing over it, I ended up blurting out something completely different.
 
-“Let’s get two each. The big ones.”
+“Let’s each have two. The big ones.”
 
 “Oh. Yes.”
 
-Too embarrassed to look at him, I gazed off at a distant mountain. Hyuk Mujin’s conversation with the middle-aged woman drifted to my ears.
+Too embarrassed to look at him, I stared off at a distant mountain. That was when I heard Hyuk Mujin speaking with the middle-aged woman.
 
 “Oh my! Aren’t you Mujin? Hyuk Mujin, right?”
 
@@ -209,19 +211,19 @@ Too embarrassed to look at him, I gazed off at a distant mountain. Hyuk Mujin’
 
 “Yes. I belong to the Jin Family of Taiyuan. I’ll be promoted to Master of the Gatekeeper Pavilion soon.”
 
-“T-the Jin Family of Taiyuan? Master of the Gatekeeper Pavilion? My goodness, my goodness…”
+“T-Taiyuan Jin Family? Master of the Gatekeeper Pavilion? My goodness, my goodness…”
 
-Whether he would actually be promoted remained to be seen, but their conversation brought a pleased smile to my face.
+Whether he would actually be promoted to Master of the Gatekeeper Pavilion remained to be seen, but the conversation brought a pleased smile to my face.
 
 *This sounds like a radio call-in story.*
 
-A kindhearted auntie who used to give candied hawthorn to an orphan boy who lingered around her stall. After a childhood of hardship and years of grueling effort, the boy finally found success and returned as a strapping young man.
+A kindhearted auntie who used to give candied hawthorn to the orphan child who was always lingering around her stall. After years of backbreaking effort, the child who had endured a difficult childhood finally succeeded and returned as a tall, grown man.
 
 It was a story I had heard somewhere before, but that didn’t make it any less moving.
 
 “Ahem. What is this? Did something get in my eye?”
 
-Was it yellow dust or fine dust? They couldn’t have built any factories yet, so it must have been yellow dust.
+Was this the yellow dust or the fine dust? Factories couldn’t have been built yet, so it must have been yellow dust.
 
 That was when the rims of my eyes reddened slightly despite myself.
 
@@ -231,45 +233,43 @@ That was when the rims of my eyes reddened slightly despite myself.
 
 “Go see them soon. Didn’t your family move?”
 
-“Moved? Where?”
+“Move? Where did they go?”
 
-“To a large estate along the main road over there. They even released koi into the pond and raised them.”
+“They moved into a large estate along the main road over there. They even released koi into the pond and raised them.”
 
 “Oh, really?”
 
-“…?”
+“...?”
 
 Parents? Moving? A huge estate with koi?
 
-Wait. Something wasn’t right.
+Wait. Something was wrong here. I asked Hyuk Mujin, who was returning with the candied hawthorn skewers in his hands.
 
-I stared dumbfoundedly at Hyuk Mujin as he returned carrying the candied hawthorn skewers.
-
-“What was that about?”
+“What were you talking about?”
 
 “Huh? About what?”
 
-“Your parents are alive?”
+“Are your parents still alive?”
 
 Hyuk Mujin stared at me as though I were insane.
 
-“Why are you killing off my perfectly healthy parents?”
+“Why would I kill my perfectly healthy parents?”
 
-“No, that’s not what I meant… Then what was all that stuff you said earlier?”
+“No, that’s not what I meant… Then what were you talking about earlier?”
 
-“What stuff?”
+“What did I say?”
 
-“The candied hawthorn. You said you couldn’t have any and spent every day sucking on your fingers.”
+“About the candied hawthorn. You said you couldn’t eat it and spent every day sucking your fingers.”
 
-“I couldn’t have any. My parents wouldn’t let me eat it because they said it would rot my teeth. Every merchant around here knew how overbearing my parents were, so they made a point of refusing to sell any to me. That lady was the only one who secretly slipped me some.”
+“I couldn’t eat it. My parents wouldn’t let me because they said it would rot my teeth. All the merchants around here knew how overbearing my parents were, so they made a point of refusing to sell any to me specifically. That lady was the only one who would secretly slip me one.”
 
 “…”
 
-“And what about being jealous of the children holding their parents’ hands?”
+“And what about being jealous of the children who walked around holding their parents’ hands?”
 
 “My family’s business was so successful that they never had any free time. I played by myself.”
 
-“Th-then you had family in Taiyuan, but you didn’t come back once in five years?”
+“Th-then you had family in Taiyuan, and you didn’t visit even once in five years?”
 
 “I left home. I didn’t want to inherit the family business, so I left a single letter behind and ran away. The Master of the Gatekeeper Pavilion in our family is my father’s childhood best friend, so he probably knew everything about how I was doing.”
 
@@ -277,9 +277,9 @@ Hyuk Mujin stared at me as though I were insane.
 
 “For about two years, they gave me hell over it. Then my youngest sibling was suddenly born, so I no longer needed to inherit the family business. After that, they stopped saying much.”
 
-Hyuk Mujin craned his neck and looked around, then raised a hand and pointed.
+Hyuk Mujin stretched his neck and looked around before raising a hand to point at something.
 
-“Ah, there it is. See it? That building belongs to my parents… It got even bigger while I was away.”
+“Ah, there it is. Do you see it? That building belongs to my parents… It got even bigger while I was gone.”
 
 I followed Hyuk Mujin’s finger and turned my head.
 
@@ -291,7 +291,7 @@ Hyuk Mujin smiled proudly.
 
 “It’s the largest textile shop in Taiyuan. We have branches in Henan and Hebei, too.”
 
-*This bastard was born with a silver spoon, too…*
+*This bastard is a rich kid, too…*
 
 You had to be pretty damn wealthy to open chain stores in a place this rough.
 
@@ -299,7 +299,7 @@ You had to be pretty damn wealthy to open chain stores in a place this rough.
 
 A young boy who used to suck on his fingers because he wanted to eat candied hawthorn so badly?
 
-The truth was that his successful business-owner parents had forbidden him from eating it because they were worried about his teeth.
+In reality, his successful business-owner parents had forbidden him from eating it because they were worried about their son’s dental health.
 
 *What the fuck is this?*
 
@@ -313,9 +313,9 @@ I swallowed the curse that had surged up to my throat and bit down on the candie
 
 “Let’s hurry up and find a room.”
 
-“Already? We’ve only spent a few iron coins…”
+“Already? We’ve only spent a few copper coins…”
 
-“Hey! Is it your money? Those are travel expenses we were given to spend when necessary. Expenses!”
+“Hey! Is it your money? It’s travel expenses they gave us to use when necessary. Expenses!”
 
 “Didn’t you just say we should spend it all and have fun?”
 
@@ -327,23 +327,23 @@ I swallowed the curse that had surged up to my throat and bit down on the candie
 
 Honghwa Inn.
 
-As its signboard suggested, this was one of the establishments under the Lower District Sect’s influence.
+As could be guessed from the name written on its signboard, this was one of the places under the Lower District Sect’s influence.
 
 *Honghwaru at night. Honghwa Inn for lodging.*
 
-Whoever had come up with that arrangement was clearly determined to wring every last coin out of the drunks.
+Whoever had come up with that arrangement had clearly intended to wring every last penny from drunken customers.
 
 “Let’s go in.”
 
-I was about to lead Hyuk Mujin, whose lower lip had been jutting out for some time, toward the inn’s entrance when someone spoke.
+I was about to lead Hyuk Mujin, who had been pouting since earlier, toward the inn’s entrance when someone spoke.
 
-“Excuse me. I’m sorry to bother you.”
+“Excuse me, I’m sorry to bother you.”
 
 The voice strangely tugged at my nerves. Its owner was a young man with an affable expression and a dreamy, hazy voice as innocent as a child’s.
 
 *This feeling…*
 
-The moment I turned around and met his clear eyes, my breath caught despite myself.
+The moment I turned around and met his clear eyes, I found it difficult to breathe.
 
 This was an aura different from Jin Mukyung’s.
 
@@ -358,7 +358,7 @@ Amid the tension, the young man named Cheongpung opened his lips.
 
 “If you don’t mind, may I eat just one candied hawthorn skewer?”
 
-“…?”
+“...?”
 
 *What the hell is this guy?*
 
