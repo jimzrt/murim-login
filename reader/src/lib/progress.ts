@@ -1,6 +1,8 @@
 import fs from "node:fs";
 import path from "node:path";
 
+import { SOURCE_CHAPTER_MAX, SOURCE_CHAPTER_TOTAL } from "../generated/source-count";
+
 const CHAPTER = /^\d{4}$/;
 
 export interface TranslationProgress {
@@ -62,16 +64,15 @@ function isPromoted(root: string, chapter: number): boolean {
 
 export function loadTranslationProgress(): TranslationProgress {
   const root = repoRoot();
-  const source = chapterNumbers(path.join(root, "source"), ".txt");
   const translated = chapterNumbers(path.join(root, "translations"), ".md");
   const polished = translated.filter((chapter) => isPromoted(root, chapter));
   return {
-    sourceTotal: source.length,
+    sourceTotal: SOURCE_CHAPTER_TOTAL,
     translated,
     polished,
     translatedCount: translated.length,
     polishedCount: polished.length,
-    sourceMax: source.length ? source[source.length - 1]! : 0,
+    sourceMax: SOURCE_CHAPTER_MAX,
   };
 }
 

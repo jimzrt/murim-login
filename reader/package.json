@@ -6,7 +6,8 @@
     "node": ">=22"
   },
   "scripts": {
-    "sync": "node scripts/sync-assets.mjs",
+    "sync": "node scripts/sync-assets.mjs && node scripts/sync-source-count.mjs",
+    "sync-source-count": "node scripts/sync-source-count.mjs",
     "dev": "npm run sync && astro dev",
     "build": "node scripts/build.mjs",
     "preview": "astro preview"
