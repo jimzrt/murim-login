@@ -1,6 +1,72 @@
 {
   "chapter": 111,
   "stages": {
+    "adjudicator_model": {
+      "billing_type": "api",
+      "cache_read_tokens": 128,
+      "cache_write_tokens": 0,
+      "cost_reported": 0.0434631876,
+      "cost_usd": 0.0434631876,
+      "elapsed_seconds": 323.618,
+      "event_log": "/home/james/Documents/murim_login_new/reviews/mastering/0111/omp/adjudicator.jsonl",
+      "exact": true,
+      "fallback_used": true,
+      "fallbacks": [
+        {
+          "event": "retry_fallback_applied",
+          "from": "cursor/cursor-grok-4.6:high",
+          "role": "cursor/cursor-grok-4.6",
+          "to": "openrouter/deepseek/deepseek-v4.1-flash:low"
+        },
+        {
+          "event": "retry_fallback_succeeded",
+          "model": "openrouter/deepseek/deepseek-v4.1-flash:low",
+          "role": "cursor/cursor-grok-4.6"
+        }
+      ],
+      "input_tokens": 38613,
+      "model": "deepseek/deepseek-v4.1-flash",
+      "models": {
+        "cursor/cursor-grok-4.6": {
+          "billing_type": "subscription",
+          "cache_read_tokens": 0,
+          "cache_write_tokens": 0,
+          "cost_usd": 0,
+          "input_tokens": 0,
+          "model": "cursor-grok-4.6",
+          "output_tokens": 2933,
+          "provider": "cursor",
+          "requests": 1,
+          "total_tokens": 2933
+        },
+        "openrouter/deepseek/deepseek-v4.1-flash": {
+          "billing_type": "api",
+          "cache_read_tokens": 128,
+          "cache_write_tokens": 0,
+          "cost_usd": 0.0434631876,
+          "input_tokens": 38613,
+          "model": "deepseek/deepseek-v4.1-flash",
+          "output_tokens": 42088,
+          "provider": "openrouter",
+          "reasoning_tokens": 37748,
+          "requests": 1,
+          "total_tokens": 80829
+        }
+      },
+      "output_bytes": 15032,
+      "output_tokens": 45021,
+      "packet_bytes": 103564,
+      "packet_token_estimate": 25891,
+      "provider": "openrouter",
+      "requested_model": "cursor/cursor-grok-4.6:high",
+      "requests": 2,
+      "stop_reasons": [
+        "error",
+        "stop"
+      ],
+      "total_tokens": 83762,
+      "usage_source": "omp_provider_reported"
+    },
     "draft_model": {
       "billing_type": "subscription",
       "cache_read_tokens": 5632,
@@ -45,6 +111,58 @@
     "draft_packet": {
       "input_bytes": 57929,
       "packet_token_estimate": 14483
+    },
+    "master_model": {
+      "billing_type": "subscription",
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "cost_reported": 0,
+      "cost_usd": 0,
+      "elapsed_seconds": 43.647,
+      "event_log": "/home/james/Documents/murim_login_new/reviews/mastering/0111/omp/master.jsonl",
+      "exact": true,
+      "fallback_used": true,
+      "fallbacks": [
+        {
+          "event": "retry_fallback_applied",
+          "from": "openai-codex/gpt-5.6-sol:medium",
+          "role": "openai-codex/gpt-5.6-sol",
+          "to": "cursor/gpt-5.6-sol:low"
+        },
+        {
+          "event": "retry_fallback_succeeded",
+          "model": "cursor/gpt-5.6-sol:low",
+          "role": "openai-codex/gpt-5.6-sol"
+        }
+      ],
+      "input_tokens": 0,
+      "model": "gpt-5.6-sol",
+      "models": {
+        "cursor/gpt-5.6-sol": {
+          "billing_type": "subscription",
+          "cache_read_tokens": 0,
+          "cache_write_tokens": 0,
+          "cost_usd": 0,
+          "input_tokens": 0,
+          "model": "gpt-5.6-sol",
+          "output_tokens": 3290,
+          "provider": "cursor",
+          "requests": 1,
+          "total_tokens": 3290
+        }
+      },
+      "output_bytes": 13653,
+      "output_tokens": 3290,
+      "packet_bytes": 70811,
+      "packet_token_estimate": 17703,
+      "provider": "cursor",
+      "requested_model": "openai-codex/gpt-5.6-sol:medium",
+      "requests": 1,
+      "stop_reasons": [
+        "stop"
+      ],
+      "total_tokens": 3290,
+      "usage_source": "omp_provider_reported"
     },
     "review_model": {
       "billing_type": "subscription",
