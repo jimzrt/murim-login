@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "his hand snatched the curved saber.",
+      "defect": "This says Temur seized the saber itself, while the source says his hand shot toward it; the following sentence establishes that he never managed to draw it.",
+      "id": "F01",
+      "rationale": "잡아채 갔다 describes the abrupt movement of his hand toward the weapon, not a completed snatching action.",
+      "replacement": "his hand shot toward the curved saber.",
+      "severity": "minor",
+      "source": "lines 389–397"
+    },
+    {
+      "confidence": 0.96,
+      "current": "with only fifty subordinates, he had dominated the steppe.",
+      "defect": "This replaces the source's physical image of riding or ranging across the steppe with the broader claim that he dominated it.",
+      "id": "F02",
+      "rationale": "초원을 질타했다 depicts forcefully riding across the steppe; the accepted baseline preserved that specific mounted action.",
+      "replacement": "with only fifty subordinates, he had ridden across the steppe.",
+      "severity": "minor",
+      "source": "lines 415–417"
+    }
+  ],
+  "summary": "Two minor source-fidelity defects remain in the assembled chapter.",
+  "version": 1
+}

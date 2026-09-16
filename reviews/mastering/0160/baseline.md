@@ -26,7 +26,7 @@ When I bowed with those heartfelt words, Cheongpung panicked.
 
 “Benefactor, why are you suddenly doing this?”
 
-“Because I’m grateful. Grateful.”
+“Because I’m grateful. That’s all.”
 
 I knew there were countless martial artists, as numerous as grains of sand on a white-sand beach. I also knew that only a tiny fraction of them reached the Peak realm.
 
@@ -34,7 +34,7 @@ I also knew that even with advanced First Rate martial arts and internal energy,
 
 *If not for Cheongpung, I would have been lost for a long time.*
 
-But I had been lucky. Cheongpung had wholeheartedly helped me train for nearly ten days, and he had even passed on the Sword Saint’s teachings.
+But I had been lucky. Cheongpung had devoted nearly ten days to helping me train, and he had even passed on the Sword Saint’s teachings.
 
 That was far too generous a return for a few candied hawthorn skewers.[^1]
 
@@ -56,13 +56,13 @@ As my eyes narrowed, Cheongpung hurriedly waved his hands.
 
 “I mean, it’s just…”
 
-Cheongpung looked around like he’d lost his way, then spotted Hyuk Mujin snoring in the corner of the training ground and shouted.
+Cheongpung looked around with lost eyes, then spotted Hyuk Mujin snoring in the corner of the training ground and shouted.
 
 “Young Hero Hyuk! Wake up! This isn’t the time to be sleeping.”
 
 “…”
 
-Pitiful. Truly pitiful.
+This was genuinely pathetic.
 
 Hyuk Mujin’s eyes suddenly flew open at Cheongpung’s shout. When he saw me, he spoke as though nothing had happened.
 
@@ -80,7 +80,7 @@ This bastard was taking it even further.
 
 *I don’t know about the rat, but you sure seem like a fucking bastard…*
 
-I stared at the guy with drool all around his mouth and quietly spoke.
+I stared at him, saliva stains covering the area around his mouth, and quietly spoke.
 
 “Mujin.”
 
@@ -96,7 +96,7 @@ I stared at the guy with drool all around his mouth and quietly spoke.
 
 “Guard duty? Rats? If your snoring had been even a little louder, I might have suffered qi deviation, you bastard.”
 
-“…You heard that?”
+“…You heard me?”
 
 “Did you think I wouldn’t?”
 
@@ -128,7 +128,7 @@ I said to Cheongpung, who was clapping like a seal and looking proud of himself.
 
 It was a lie. My body, having entered a new realm, was overflowing with vitality, but my mind was exhausted beyond belief. It felt like the weakness that came after an all-out sprint.
 
-But I wanted to continue the duel with Cheongpung even more.
+But I wanted to continue sparring with Cheongpung even more.
 
 *Because I want to test it.*
 
@@ -160,7 +160,7 @@ Cheongpung giggled as he continued.
 
 I didn’t want to admit it, but it was a fact.
 
-People see only as much as they know. After reaching the Peak realm, I realized once again just how much of a monster Cheongpung was.
+People saw only as much as they knew. After reaching the Peak realm, I realized once again just how much of a monster Cheongpung was.
 
 I also realized that, as I was now, I could never defeat Cheongpung if he fought at full strength.
 
@@ -184,7 +184,7 @@ But that was not what I wanted. Winning a duel against an opponent who was not g
 
 “Get plenty of rest today!”
 
-I watched Cheongpung’s retreating figure for a long while before returning to the pavilion.
+I watched Cheongpung’s back recede for a long time before returning to the pavilion.
 
 The System notifications reminded me of the things I had been putting off.
 
@@ -236,7 +236,7 @@ System messages poured out like water bursting through a broken dam. I read them
 
 *Oh. I went up five Levels at once?*
 
-Someone might think that was stingy, but it was anything but.
+Someone might think that was stingy, but not me.
 
 The Murim was another reality, but I was practically a game character here.
 
@@ -262,7 +262,7 @@ But the rewards did not end there.
 >
 > - Level up!
 
-I was already satisfied that the realms of Jin Family’s Cultivation Technique and Qi Sense, which had stagnated for so long, had risen. Gaining Levels on top of that made it a double blessing.
+I was already satisfied that the realms of Jin Family’s Cultivation Technique and Qi Sense, which had stagnated for so long, had risen. Gaining two more Levels on top of that was an entirely separate stroke of luck.
 
 Just from the messages I had seen so far, I had already leveled up seven times.
 
@@ -322,11 +322,11 @@ With half relief and half regret, I checked the remaining messages.
 
 Northern Gaoyuan.
 
-The place where a great ruler had founded a nomadic empire long ago had changed with the passage of time.
+The place where a great ruler had founded a powerful nomadic empire long ago had changed with the passage of time.
 
 The vast pastures covered in green grass were gradually disappearing, and wooden buildings from the Central Plains were beginning to replace the gers, the nomads’ homes.[^2]
 
-The customs of the nomads still remained, but the reality was that the clothing and culture of the Central Plains were slowly infiltrating the plateau.
+The customs of the nomads still remained, but the clothing and culture of the Central Plains were slowly infiltrating the plateau.
 
 The man wearing a sheepskin cloak did not like it.
 
@@ -348,7 +348,7 @@ The moment the two men stepped inside, they saw mounted bandits packed all the w
 
 “Ha-ha-ha! The chieftains of the Great Steppe have arrived! Sit here. I’ve warmed some mare’s-milk wine for you.”[^3]
 
-Unlike the middle-aged man who welcomed them with both arms spread wide, the other man did not so much as nod. He merely gestured.
+Unlike the middle-aged man who welcomed them with both arms spread wide, the other man did not even dip his head. He merely gestured.
 
 “Sit.”
 
@@ -364,23 +364,23 @@ It had happened centuries ago, but their pride had never died.
 
 “You Han Chinese bastard, lower than a dog!”
 
-Temur had always been hot-tempered and reckless. Before Chinggen had time to stop him, his hand snatched the curved saber.
+Temur had always been hot-tempered and reckless. Before Chinggen had time to stop him, his hand seized the curved saber at his waist.
 
 “I’ll offer your head to the Tengger God—”[^4]
 
 And that was when it happened.
 
-“I said sit.”
+“Sit down.”
 
 The voice was cold, and the eyes were like an abyss. Even Temur, who led a tribe across the harsh steppe, found himself unable to draw his saber.
 
-Taking advantage of the moment, Chinggen hurriedly grabbed Temur by the shoulder. He did not forget to whisper in a barely audible voice.
+Taking advantage of the moment, Chinggen hurriedly grabbed Temur by the shoulder. He did not forget to whisper in a voice barely loud enough to hear.
 
 “Temur, don’t act rashly. You know who he is, don’t you?”
 
 Temur swallowed.
 
-Four people had gathered here today. They had never met before, but each was a powerhouse who held up one pillar of Northern Gaoyuan.
+Four people had gathered here today. They had never met before, but each was a powerhouse who held up one of the major forces of Northern Gaoyuan.
 
 But if there was a master capable of intimidating him this badly…
 
@@ -392,11 +392,11 @@ No one knew his surname. No one knew his name.
 
 No one knew where he came from or what he had done.
 
-He was Han Chinese, and with only fifty subordinates, he had dominated the steppe. He had earned the nickname Human Butcher because he killed people as though slaughtering livestock.
+He was Han Chinese, and he had ridden across the steppe with only fifty subordinates. He had earned the nickname Human Butcher because he killed people as though slaughtering livestock.
 
 In other words, he was a butcher of human beings.
 
-“You’re slow to catch on, friend.”
+“You’re a slow one, friend.”
 
 [^1]: Candied hawthorn skewers are fruit coated in hardened sugar.
 
