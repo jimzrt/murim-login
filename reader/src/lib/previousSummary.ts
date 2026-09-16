@@ -1,9 +1,10 @@
 import { readFile } from "node:fs/promises";
-import { fileURLToPath } from "node:url";
+import path from "node:path";
 import { markdownToHtml } from "satteri";
 
+import { repoRoot } from "./progress";
+
 const SUMMARY_INTERVAL = 5;
-const summariesDir = fileURLToPath(new URL("../../../summaries", import.meta.url));
 
 export interface PreviousSummary {
   start: number;
@@ -43,10 +44,14 @@ export async function loadPreviousSummary(chapter: number): Promise<PreviousSumm
     return null;
   }
 
-  const path = `${summariesDir}/${pad(range.start)}-${pad(range.end)}.md`;
+  const summaryPath = path.join(
+    repoRoot(),
+    "summaries",
+    `${pad(range.start)}-${pad(range.end)}.md`,
+  );
   let raw: string;
   try {
-    raw = await readFile(path, "utf8");
+    raw = await readFile(summaryPath, "utf8");
   } catch {
     return null;
   }
