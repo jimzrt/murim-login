@@ -32,7 +32,7 @@ Ding.
 
 *The City Lord wants me?*
 
-It was certainly unexpected, but not all that surprising. Politicians often made use of other people’s fame, after all.
+It was certainly unexpected, but not all that surprising. A person’s fame was often used by politicians, after all.
 
 Of course, this was a world where media had almost no reach, so personal curiosity was probably the greater factor.
 
@@ -40,7 +40,7 @@ But…
 
 *What do you mean, the City Lord might sulk if I reject the Quest?*
 
-What was there to sulk about? Imagining a middle-aged man with five folds under his chin sulking sent goose bumps all over my body.
+What was there to sulk about? The thought of a five-chin-folded middle-aged man sulking sent goose bumps all over my body.
 
 “Young Hero?”
 
@@ -50,27 +50,27 @@ Pretending not to notice the county magistrate’s puzzled expression, I scratch
 
 It was only a Third Rate Quest. The EXP and Fame I could gain would probably be minimal, and I’d have to carefully flatter the City Lord to obtain the reward.
 
-Wouldn’t I be better off spending that time practicing martial arts?
+Wouldn’t it be better to spend that time practicing martial arts instead?
 
-*It’s not like I have to come running the instant the City Lord calls.*
+*It’s not like I’m someone who has to come running the instant the City Lord calls.*
 
 I was on my way back after a battle in which I had nearly lost my life. I didn’t particularly want to have lunch tomorrow with some middle-aged man called the City Lord whose face I had never even seen.
 
-If I rejected the Quest, the worst that could happen was that he’d sulk. Whatever. Let him sulk all he wanted.
+If I rejected the Quest, the worst that could happen was that he’d sulk. Whatever. He could sulk as much as he wanted.
 
 I was just about to turn him down as politely as possible when—
 
-Snatch.
+Grab.
 
 “We’ll go. Absolutely!”
 
-Hyuk Mujin suddenly stepped forward and grabbed the invitation. The county magistrate frowned.
+Hyuk Mujin suddenly stepped forward and snatched the invitation. The county magistrate frowned.
 
 “I don’t believe I invited you.”
 
-His voice had turned cold. Hyuk Mujin didn’t care in the slightest and flashed him a shameless smile.
+His voice was cold, unlike before. Hyuk Mujin didn’t care in the slightest. He simply flashed a shameless smile.
 
-“Oh my, of course not. It’s just that our Young Master has always respected the City Lord so deeply that he was too moved to speak.”
+“Oh my, of course you didn’t. It’s just that our Young Master has always respected the City Lord so deeply that he was too moved to speak.”
 
 The county magistrate stared at me through narrowed eyes.
 
@@ -78,7 +78,7 @@ The county magistrate stared at me through narrowed eyes.
 
 Of course it wasn’t.
 
-I was about to say so when Hyuk Mujin turned his back to the county magistrate and silently mouthed at me.
+I was about to say so when Hyuk Mujin, having turned his back to the county magistrate, silently mouthed at me.
 
 *You absolutely have to go?*
 
@@ -88,11 +88,11 @@ I made a quick decision.
 
 “Of course. Is there anyone in Shanxi who doesn’t respect the City Lord?”
 
-“Ha-ha, spoken like a true citizen of a Great Nation. The City Lord will be delighted to hear it.”
+“Ha-ha, truly the words of a citizen of a great nation. The City Lord will be delighted to hear that.”
 
-Only then did the county magistrate’s expression soften into a satisfied smile. He turned around.
+Only then did the county magistrate relax his face and smile with satisfaction. He turned around.
 
-“Then I’ll take that as your acceptance and be on my way. Please convey my regards to the Lesser Family Head and the Heaven Shaking Sword as well.”
+“Then I’ll consider it accepted and take my leave. Please convey my regards to the Lesser Family Head and the Heaven Shaking Sword.”
 
 “Ah, of course.”
 
@@ -100,41 +100,41 @@ Ding.
 
 > **System**
 >
-> You have accepted **The City Lord’s Invitation** Quest!
+> You have accepted the **The City Lord’s Invitation** Quest!
 
 The System notification rang out.
 
 *Now I can’t even cancel it.*
 
-Once the county magistrate and the government troops had moved away, I pressed my foot down on Hyuk Mujin’s and whispered,
+Once the county magistrate and the government troops had moved away, I whispered as I pressed my foot down on Hyuk Mujin’s.
 
-“I think you have something to tell me. Don’t you?”
+“I think you have something to tell me, don’t you?”
 
-“I’ll explain. Let’s get out of here first.”
+“I’ll explain. First, let’s get out of here.”
 
 There were still too many eyes watching us. Amid the people’s cheers, we mounted our horses again.
 
-We continued farther into the village until we reached our destination. A little errand boy shot out like a bullet and bowed at the waist.
+We proceeded farther into the village and reached our destination. A little errand boy shot out like a bullet and bowed at the waist.
 
 “Welcome—gasp.”
 
-The fifty mounted riders and the escort force’s intimidating presence startled him once. Recognizing Hyuk Mujin and me startled him a second time.
+He was startled once by the fifty mounted riders and the intimidating presence of the escort, then a second time when he recognized Hyuk Mujin and me.
 
 He was the errand boy from the Phoenix Inn. I had seen him a few days ago.
 
-“The private annex is fifty silver nyang a night. Right?”
+“The private annex is fifty nyang of silver for one night. That’s right, isn’t it?”
 
 “Uh, you’re the one from back then?”
 
-“Hey, you little brat. How dare you point at a guest as lofty as the heavens?”
+“Hey, you little brat. Are you pointing at a guest as lofty as the heavens?”
 
-After sternly scolding the boy, Hyuk Mujin tossed him a heavy money pouch.
+After scolding the boy in a stern voice, Hyuk Mujin tossed him a heavy money pouch.
 
-The little boy glanced nervously between us, then sucked in a breath when he saw the pouch packed with silver.
+The little boy glanced nervously between us, then inhaled sharply when he saw the pouch packed with silver.
 
 “Gasp. Th-this much?”
 
-“From this moment on, the Jin Family of Taiyuan is taking over the Phoenix Inn.”
+“From this moment on, the Phoenix Inn is under the control of the Jin Family of Taiyuan.”
 
 “…Are you some kind of two-knife gangster?”
 
@@ -142,7 +142,7 @@ Anyone watching would have thought we were members of organized crime.
 
 * * *
 
-The three zombies climbed out of the carriage and began frantically gulping down the broth first the moment the food arrived.
+The three zombies climbed out of the carriage and began gulping down the broth the moment the food arrived.
 
 It was understandable, considering they had spent three days drinking to excess without taking a single day off. No—if they hadn’t practiced martial arts, they might have died of alcohol poisoning on the first day.
 
@@ -154,11 +154,11 @@ The instant Jin Wikyung leaned back in his chair after finishing his hangover cu
 
 “What does it matter? We’re the only ones here.”
 
-“Even so, what will your subordinates think if you keep letting them see you like this?”
+“Even so, what will your subordinates think if you keep showing them this side of yourself?”
 
 “It’s fine. I didn’t throw up.”
 
-That single sentence silenced Wipeng. Jin Wikyung then turned to me.
+With a single sentence, Jin Wikyung silenced Wipeng. Then he turned to me.
 
 “So, the county magistrate came by?”
 
@@ -174,15 +174,15 @@ Hyuk Mujin, who had been sitting in the corner of the table and nervously watchi
 
 “That would be me, Lesser Family Head.”
 
-“Ah, I see. You’re the fellow they call our youngest brother’s right-hand man. The one who served at the Gate Guard Pavilion until recently. Your name was… Hyuk Mujin, wasn’t it?”
+“Ah, I see. You’re the fellow who’s supposed to be our youngest brother’s right-hand man. The one who was in the Gatekeeper Pavilion until recently. Your name was… Hyuk Mujin, wasn’t it?”
 
 Compared to the modern world, the Jin Family of Taiyuan was a conglomerate, while Jin Wikyung was the chairman’s eldest son and the actual head of the company.
 
-Assistant Manager Hyuk, who had spent every day getting bullied by his foul-tempered boss, answered in a deeply moved voice.
+Assistant Manager Hyuk, who had spent all his time being bullied under a foul-tempered boss, answered in a deeply moved voice.
 
 “Ah, thank you for remembering me.”
 
-“I should be thanking you. Our youngest brother still has some rough edges, so keep helping him as you did today.”
+“I should be thanking you. Our youngest brother still has some rough edges, so continue helping him as you did today.”
 
 “A-as you command!”
 
@@ -198,11 +198,11 @@ Jin Wikyung laughed cheerfully, then turned back to me.
 
 “Yes, more or less.”
 
-I had learned about the Murim through novels. The common conventions of martial-arts fiction weren’t all that different from how things worked here.
+I had learned about the Murim through novels. The common settings in martial-arts fiction weren’t all that different here in the Murim.
 
-“They recognize each other’s domains, but nothing good can come from offending the government. The Murim is only one part of the world. The world itself is not the Murim.”
+“They recognize each other’s domains, but there is nothing to be gained by offending the government. The Murim is merely one part of the world. The world is not the Murim.”
 
-Jin Wikyung pointed to the bowl in front of him. It was half-filled with broth and contained one large chunk of meat.
+Jin Wikyung pointed toward the bowl in front of him. It contained half a bowl of broth and one large chunk of meat.
 
 “Do you understand what I mean?”
 
@@ -214,29 +214,29 @@ The bowl was the world, and the chunk of meat inside it was the Murim.
 
 “More than the Jin Family of Taiyuan?”
 
-“In terms of authority alone, yes. We simply acknowledge and respect each other’s power. Murim sects sometimes maintain public order where the government cannot, and they also send martial arts instructors to train government troops. The government provides assistance in return. The two sides help each other.”
+“In terms of authority alone, yes. We simply recognize and respect each other’s power. Murim sects sometimes take responsibility for maintaining public order when the government cannot resolve a problem, and they also dispatch martial arts instructors to train government troops. The government offers assistance in return, so the two sides help each other.”
 
 So the government and the Murim were like the crocodile and the crocodile bird.
 
-After thinking for a moment, I voiced the question that had been nagging at me since earlier.
+After thinking for a moment, I finally voiced the question that had been bothering me since earlier.
 
-“Then why does the government sit back and do nothing when mounted bandits run wild or large-scale battles break out between sects? I can understand staying out of the last war because it was a matter between martial artists, but the mounted bandits are different, aren’t they?”
+“Then why do you sit back and do nothing when mounted bandits run wild or large-scale battles break out between sects? I can understand staying out of the last war because it was a matter between martial artists, but the mounted bandits are different, aren’t they?”
 
-Even Lee Cheonbaek had massacred everyone at the Sakju Branch and committed the insane act of killing children, but the victims had belonged to the Jin Family of Taiyuan.
+Lee Cheonbaek had massacred everyone at the Sakju Branch and committed the insane act of killing children, but the victims had belonged to the Jin Family of Taiyuan.
 
 Strictly speaking, they could be considered people who had been sacrificed to the gratitude and grudges between Murim sects.
 
-But the mounted bandits killed indiscriminately and burned everything in their path without any of that, didn’t they?
+But the mounted bandits killed indiscriminately and burned everything in their path, didn’t they?
 
-*To mounted bandits, commoners are easy prey.*
+*From the mounted bandits’ perspective, commoners were easy prey.*
 
-Weak before the strong and strong before the weak. That was what mounted bandits were.
+They were weak before the strong and strong before the weak. That was what mounted bandits were.
 
 The important point was that I had encountered dozens of mounted bandits on the way to the Mount Heng Sword Sect, yet I hadn’t even seen a government soldier.
 
 “That’s…”
 
-Jin Wikyung let his voice trail off. Jin Mukyung, who had been silently inhaling his food until then, suddenly blurted,
+Jin Wikyung let his voice trail off. Jin Mukyung, who had been silently inhaling his food until then, suddenly spoke.
 
 “Because the City Lord is incompetent. No, in this case, is the Emperor incompetent?”
 
@@ -244,7 +244,7 @@ The moment he finished speaking, Hyuk Mujin had a fit, while Jin Wikyung and Wip
 
 “Hey, Mukyung.”
 
-“It’s just us here. No one can overhear us. Besides, I didn’t say anything untrue.”
+“It’s just us here. No one can overhear us. And I haven’t said anything untrue.”
 
 “Second Young Master, our family does not yet stand alongside the Nine Sects and One Gang or the Five Great Families. Please refrain from saying anything that could cause trouble.”
 
@@ -252,15 +252,15 @@ I asked Jin Mukyung, who reluctantly nodded.
 
 “What do you mean, the City Lord is incompetent?”
 
-“Do you not know what the word *incompetent* means?”
+“Do you not know the meaning of the word incompetent?”
 
 “Should I report you to the authorities for insulting the Emperor?”
 
 “Treason gets at least three clans punished. Congratulations, little brother.”
 
-*This bastard Jin Mukyung has gotten pretty good with words.*
+*This guy Jin Mukyung has gotten pretty good with words.*
 
-“Do you know who the current City Lord is?”
+“Do you know who the City Lord is right now?”
 
 “Kim Chunbae?”
 
@@ -272,31 +272,31 @@ He looked at me as if I were a bug, then continued.
 
 “So?”
 
-“What do you mean, *so*? He’s a member of the imperial family. The imperial family!”
+“What do you mean, ‘so’? He’s a member of the imperial family. The imperial family!”
 
 “Oh, really?”
 
-Apparently, this was a Zhu dynasty. In the span of a moment, I had been branded an ignorant fool who didn’t even know the Emperor’s surname.
+It seemed to be a Zhu dynasty. I had been branded an ignorant fool who didn’t even know the Emperor’s surname in the space of a moment.
 
 Still, it wasn’t as if this sort of thing had only happened once or twice. I wasn’t even embarrassed anymore.
 
-“Fine, I get it. Keep going.”
+“Fine, I get it. Continue.”
 
-Jin Mukyung let out a deep sigh and continued.
+Jin Mukyung sighed deeply and went on.
 
-“The current City Lord is the Emperor’s youngest brother, and his imperial title is Prince. As a direct member of the imperial family, he stands on a different level from the other City Lords. He’s someone whose invitation we must accept, even if we have to force ourselves, if only to preserve his dignity.”
+“The current City Lord is the Emperor’s youngest brother. His imperial title is a Prince. He is a direct member of the imperial family, so he stands on a different level from the other City Lords. He is someone whose invitation we must accept, even if only to preserve his dignity.”
 
 “Oh.”
 
 He really was on a different level. Not just an ordinary City Lord, but the Emperor’s brother. An actual king, no less.
 
-Born the son of the Son of Heaven and then becoming the younger brother of the Son of Heaven, he hadn’t merely been born with a silver spoon in his mouth. His spoon was made of vibranium.
+Born the son of the Son of Heaven and then becoming the younger brother of the Son of Heaven, he wasn’t merely born with a silver spoon in his mouth. He had a vibranium spoon.
 
-He was the modern North Korean nuclear spoon—and then some.
+The North Korean nuclear spoon of the modern world—and then some.
 
-“Then how can someone who’s practically a king be so incompetent? One letter to his brother should get him all the support he needs from above. Are they on bad terms?”
+“Then how can someone who’s practically a king be so incompetent? If he writes his brother a single letter, he could get all the support he needs from above. Are they on bad terms?”
 
-“Who knows? I don’t know the details of that family’s affairs, but I doubt they’re particularly close. There are rumors that the current Emperor assassinated the Crown Prince, his immediately older brother, before ascending the throne.”
+“Who knows? I don’t know the details of that family’s circumstances, but they don’t seem particularly close. There are rumors that the current Emperor assassinated the Crown Prince, the brother immediately older than him, before ascending the throne.”
 
 “Talk about a hunger for power.”
 
@@ -304,21 +304,21 @@ He was the modern North Korean nuclear spoon—and then some.
 
 Jin Wikyung and Wipeng’s mouths fell open, while Hyuk Mujin had another fit.
 
-“Your Honor, I didn’t hear anything. I truly know nothing. In fact, I haven’t been able to hear for a long time…”
+“Judge, I didn’t hear anything. I truly know nothing. In fact, I haven’t been able to hear for a long time…”
 
 As Hyuk Mujin muttered like a madman, Jin Mukyung smacked him across the back of the head. I asked,
 
-“Does he not get any support because he’s on bad terms with the Emperor? Or is he simply lost in wine and women?”
+“Does he not receive support because he’s on bad terms with the Emperor? Or is he simply lost in alcohol and women?”
 
-“Wine? Women?”
+“Alcohol? Women?”
 
-Jin Mukyung gave another short laugh.
+Jin Mukyung let out another quiet laugh.
 
 “He’s only ten years old. It’s too early for him to lose himself in wine and women.”
 
 “What, ten? You mean a ten-year-old is the City Lord?”
 
-“He’s a direct member of the imperial family. With his bloodline, he could become far more than a City Lord.”
+“He’s a direct member of the imperial family. He has the bloodline to become more than a City Lord.”
 
 The System message I’d seen earlier suddenly came to mind.
 
@@ -326,21 +326,21 @@ The System message I’d seen earlier suddenly came to mind.
 
 I had thought it was ridiculous for a middle-aged man to act so childish, but now that I knew he was a ten-year-old boy, it finally made sense.
 
-Wasn’t that the age when even a falling leaf could make you sulk?
+Wasn’t that the age when you’d sulk at a falling leaf?
 
-“What’s even more amusing is that he was first appointed City Lord five years ago.”
+“The more amusing fact is that he was first appointed City Lord five years ago.”
 
 “…Five years old? That’s insane.”
 
 What could a five-year-old possibly know? I could roughly guess why the public order in Shanxi Province had become such a mess. I also understood why Jin Mukyung had said that the Emperor, rather than the City Lord, was more incompetent.
 
-This wasn’t some neighborhood corner store. They had put a child in a position that demanded ability and responsibility. There was no way things could run properly.
+This wasn’t some neighborhood convenience store. They had put a child in a position that demanded ability and responsibility. There was no way things could run properly.
 
 “How do you know all this?”
 
 I asked because it was surprising that Jin Mukyung, who had been obsessed with martial arts and nothing else, was so well-informed about current affairs.
 
-His answer was unexpected.
+The answer I received was unexpected.
 
 “Because I’ve met him before. More accurately, I was summoned.”
 
@@ -356,4 +356,4 @@ Jin Mukyung looked at me with a strange glint in his eyes.
 
 Then, wearing an ominous expression that mixed laughter with irritation, he spoke.
 
-“It was fucking awful.”
+“He was a fucking nightmare.”
