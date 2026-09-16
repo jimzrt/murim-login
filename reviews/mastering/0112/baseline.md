@@ -1,20 +1,20 @@
 # Chapter 112
 
-Mounted bandits riding openly down the main road in broad daylight?
+Mounted bandits openly riding down the main road in broad daylight?
 
-Under normal circumstances, it would be unthinkable. The nearest Murim sect would be the first to act, followed by soldiers from the local authorities.
+Under normal circumstances, it would be unthinkable. The nearest Murim sect would be the first to act, followed by the soldiers from the local authorities.
 
-But if the mounted bandits numbered in the hundreds—enough to overwhelm even the Murim sect responsible for suppressing them—the officials could only close their eyes and cover their ears.
+But if there were hundreds of mounted bandits—enough to overwhelm even the Murim sect that was supposed to suppress them—the officials could only close their eyes and cover their ears.
 
 Just like now.
 
 “Ar-aren’t those mounted bandits?”
 
-“Watch what you call them. Do you have three lives or something? That’s the infamous Red Wind Band.”
+“Don’t call them ‘those guys.’ Do you have three lives or something? They’re the infamous Red Wind Band.”
 
 “The Red Wind Band? Weren’t they defeated by the Mount Heng Sword Sect not long ago?”
 
-“That’s what we thought. But this time seems different. The marketplace is already rife with rumors that the Mount Heng Sword Sect won’t escape total destruction.”
+“That’s what we thought. But this time seems different. Rumors are already spreading through the marketplace that the Mount Heng Sword Sect won’t escape total destruction.”
 
 “Still, the sect has some ability. Surely they won’t lose to mere mounted bandits…”
 
@@ -26,7 +26,7 @@ Just like now.
 
 The commoners’ fearful whispers wormed their way into Pung Yang’s ears and those of his mounted bandits.
 
-A subordinate riding on Pung Yang’s right spoke casually.
+A subordinate riding on Pung Yang’s right spoke softly.
 
 “Shall I rip those bastards’ mouths apart?”
 
@@ -34,33 +34,33 @@ A subordinate riding on Pung Yang’s right spoke casually.
 
 “If the Leader permits it, I’ll deal with those two first, then turn the entire village into a sea of flames.”
 
-“You’ll kill the old, capture the young men, and rape the women?”
+“You’ll kill the old men, capture the young men, and rape the women?”
 
-“Heh heh. Isn’t that what men like us always do? The Mount Heng Sword Sect bastards must be cowering behind their walls by now, scared out of their wits.”
+“Heh heh. Isn’t that what men like us always do? The Mount Heng Sword Sect bastards are probably cowering behind their walls by now, scared out of their wits.”
 
-“They probably are. They’ll be gathering all their strength for one final battle.”
+“They probably are. They’ll be preparing for a final battle by gathering every bit of strength they have.”
 
-“It won’t matter. It’ll be like throwing an egg against a rock. It’s a foregone conclusion that you’ll wipe out the Mount Heng Sword Sect and take its place.”
+“It won’t matter. That’ll just be eggs thrown at a rock. It’s a foregone conclusion that the Leader will wipe out the Mount Heng Sword Sect and take its place.”
 
 “That is why I won’t permit it.”
 
 “What?”
 
-Pung Yang burst into hearty laughter at his subordinate’s bewildered reaction.
+Pung Yang burst into a hearty laugh at his subordinate’s bewildered reaction.
 
-Every one of them was shortsighted and cruel by nature. That was why they had become mounted bandits—and why Pung Yang kept them close.
+They were all shallow-minded and cruel by nature. That was why they had become mounted bandits—and why Pung Yang kept them close.
 
 *Because they’re easy to handle.*
 
 When his laughter subsided, he spoke.
 
-“Wiping out the Datong Branch was part of the war. But if we harm commoners now, all we’ll accomplish is giving the Jin Family of Taiyuan an excuse to intervene.”
+“Destroying the Datong Branch was part of the war. But if we harm commoners now, all we’ll accomplish is giving the Jin Family of Taiyuan an excuse to intervene.”
 
-“Are they the rulers of Shanxi Province or something?”
+“Are they the rulers of Shanxi or something?”
 
 “Not yet. But they will be soon enough. Before that happens, shouldn’t we swallow the Mount Heng Sword Sect and lie flat like dogs?”
 
-“Um, Leader, I’m not doubting you, but… would orthodox factions like the Jin Family of Taiyuan really look favorably on mounted bandits like us?”
+“Um, Leader, I’m not doubting your judgment, but… would orthodox factions like the Jin Family of Taiyuan really look favorably on mounted bandits like us?”
 
 “Mounted bandits? Who’s a mounted bandit?”
 
@@ -68,9 +68,9 @@ When his laughter subsided, he spoke.
 
 “Last time, I noticed that the Sect Leader of the Mount Heng Sword Sect was quite beautiful.”
 
-Pung Yang’s subordinate blinked several times before finally catching his meaning. The corners of his mouth curled upward.
+Pung Yang’s subordinate blinked several times before finally understanding. The corners of his mouth curled upward.
 
-“She’s of marriageable age. I suppose it’s time she took a husband.”
+“She’s of marriageable age, so she’ll need to take a husband.”
 
 “She has two choices: total destruction or marriage.”
 
@@ -86,17 +86,17 @@ As he listened to his subordinate’s laughter, Pung Yang tightened his grip on 
 
 He was a cold and levelheaded man, but his heart pounded at the thought that he had taken another step toward his ambition.
 
-Memories from long ago surfaced one after another, flickering before his eyes.
+Memories from long ago flickered before his eyes.
 
-*It’s already been well over twenty years.*
+*It’s been well over twenty years already.*
 
-Becoming a mounted bandit had been easier and simpler than he had expected. There were only two ways: go looking for them yourself or get caught by them. In Pung Yang’s case, it had been the latter.
+Becoming a mounted bandit had been easier and simpler than he had expected. There were only two ways: go looking for them or get caught by them. In Pung Yang’s case, it had been the latter.
 
 When he was young, he had committed a crime and was being taken to the local authorities when a mounted-bandit group attacked. That had been the turning point of his life.
 
-*“Boss, there’s a kid here too.”*
+*“Boss, there’s a little one here, too.”*
 
-*“Hm? He’s so scrawny we wouldn’t get more than a few coins for him even if we sold him. Kid, did you get caught pickpocketing?”*
+*“Hm? He’s so skinny that we wouldn’t get more than a few coins for him even if we sold him. Kid, did you get caught pickpocketing?”*
 
 *“No. I killed someone.”*
 
@@ -120,7 +120,7 @@ When he was young, he had committed a crime and was being taken to the local aut
 
 Pung Yang became a mounted bandit that day.
 
-An orphan with no one in the world, he had wandered from place to place begging for food. He was exceptionally perceptive and quick-witted.
+An orphan abandoned by the world, he had wandered from place to place begging for food. He was exceptionally perceptive and quick-witted.
 
 Compared to his past, when he had barely eaten a meal every three days, life as a mounted bandit was lavish.
 
@@ -128,11 +128,11 @@ Robbery? Murder?
 
 To Pung Yang, who had committed murder at the age of thirteen simply because he wanted to eat dumplings, such things were nothing more than what had to be done.
 
-*“Good grief. I’ve been a mounted bandit for more than ten years, but I’ve never seen anyone like you. It’s like you don’t have a conscience.”*
+*“Good grief. I’ve been a mounted bandit for more than ten years, but I’ve never seen anyone like you. It’s as if you don’t have a conscience.”*
 
 *“Why? I’m a mounted bandit.”*
 
-*“Kid, that’s not how it usually works. You get used to it little by little. No one is skilled from the very beginning.”*
+*“Kid, that’s not how it works. You gradually get used to it. No one is skilled from the very beginning.”*
 
 *“Were you like that too, Boss? It was easy for me.”*
 
@@ -146,19 +146,19 @@ To Pung Yang, who had committed murder at the age of thirteen simply because he 
 
 *“Master and disciple, my ass. Forget it. Just keep doing what you’re doing now.”*
 
-Not forming a master-disciple relationship had been the right decision.
+Not forming a master-disciple relationship had been a wise decision.
 
-A year later, his boss was beheaded by a First Rate master, and Pung Yang found a new nest in another mounted-bandit group.
+A year later, his boss was beheaded and killed by a First Rate master, and Pung Yang found a new nest in another mounted-bandit group.
 
 *“You were under Gwangchil?”*
 
-*“Yes. As long as you feed me well, I’ll swear my loyalty to you.”*
+*“Yes. If you feed me well, I’ll swear my loyalty to you.”*
 
-*“You seem reasonably sharp. I won’t go easy on you just because you’re young, so keep up on your own.”*
+*“You seem reasonably sharp. I won’t go easy on you because you’re young, so keep up on your own.”*
 
-Gaoyuan was brutal.
+The plateau was brutal.
 
-Entire mounted-bandit groups were sometimes wiped out after attacking the wrong merchant caravan, and power struggles between the groups never ceased.
+There were times when an entire mounted-bandit group was wiped out after attacking the wrong merchant caravan. The struggles for power between mounted-bandit groups never stopped, either.
 
 But Pung Yang survived every time, growing stronger with each passing year.
 
@@ -168,7 +168,7 @@ By the time he turned thirty, his martial arts had entered the First Rate realm,
 
 The law of strength applied everywhere.
 
-Gaoyuan was ultimately just another part of the Murim, where the strong ruled.
+The plateau was ultimately just another part of the Murim, where the strong ruled.
 
 Pung Yang possessed grand ambitions and an exceptional mind, but he lacked the martial power befitting a leader.
 
@@ -176,19 +176,19 @@ Pung Yang possessed grand ambitions and an exceptional mind, but he lacked the m
 
 Pung Yang’s martial talent was extraordinary.
 
-Had he entered a prestigious orthodox sect as a child and learned an excellent internal cultivation technique and martial arts, he might have crossed the wall to Peak long ago.
+If he had entered a prestigious orthodox sect as a child and learned an excellent internal cultivation technique and martial arts, he might have crossed the wall to Peak long ago.
 
-But he had grown up in a beggars’ den and learned Third Rate martial arts from the mounted bandits of Gaoyuan. His limits were clear.
+But he had grown up in a beggar’s den and learned Third Rate martial arts from the mounted bandits of the plateau. His limitations were clear.
 
-*If heaven’s fortune hadn’t favored me, I’d probably still be stuck in the same place.*
+*If heaven’s fortune hadn’t favored me, I’d probably still be standing in the same place.*
 
 A deep smile settled over Pung Yang’s lips.
 
-Three years ago, on that day, his life had changed completely. He had gone from being a mere squad leader in a mounted-bandit group to the leader of the Red Wind Band, one of the powers moving Gaoyuan—and now it was time to swallow a Murim sect.
+Three years ago, on that day, his life had changed completely. He had gone from being a mere squad leader in a mounted-bandit group to the leader of the Red Wind Band, one of the powers moving the plateau—and now it was time to swallow a Murim sect.
 
 “Leader!”
 
-His subordinate’s shout snapped Pung Yang out of his thoughts.
+Pung Yang snapped out of his thoughts at his subordinate’s shout.
 
 Far in the distance, stone walls piled high like a fortress had finally come into view.
 
@@ -198,7 +198,7 @@ As Pung Yang gazed at his and the Red Wind Band’s new home, one person entered
 
 *The Tiger of Mount Heng, Cheol Mubaek.*
 
-The wall he had to overcome to take the Mount Heng Sword Sect.
+A wall he would have to overcome in order to take the Mount Heng Sword Sect.
 
 Although he had withdrawn after suffering a slight loss last time…
 
@@ -208,7 +208,7 @@ Pung Yang unconsciously felt inside his robes. After confirming the hard wooden 
 
 “Leader, your orders?”
 
-“Surround them. Don’t let so much as a single ant escape. Then send an envoy.”
+“Surround them. Don’t let even a single ant escape. Then send an envoy.”
 
 Total destruction or marriage.
 
@@ -224,19 +224,19 @@ The Mount Heng Sword Sect had only two choices.
 
 “Sect Leader, please make a decision!”
 
-Seated in the place of honor, Lee Seowol spoke calmly.
+Seated in the place of honor, Lee Seowol calmly opened her mouth.
 
 “Are the troops deployed?”
 
 “Of the hundred or so men, half are blocking the sect entrance. The rest have been armed with shields and bows.”
 
-Everyone in the main hall knew that “a hundred or so” was a generous estimate. In truth, they fell well short of that number.
+Everyone in the main hall knew that “a hundred or so” was a generous estimate. In truth, they had far fewer than that.
 
 Several of the Mount Heng Sword Sect’s senior figures had fled the previous night, taking their families and the subordinates who followed them.
 
 “Uncle Cheol, what happened with what I asked you to do?”
 
-“I took care of it as you instructed.”
+“It has been arranged as you instructed.”
 
 Lee Seowol’s plan involved oil.
 
@@ -244,11 +244,11 @@ They had spread enough oil to fill ten wagons evenly throughout the estate.
 
 They had covered it with piles of well-dried hay, so it was obvious that the entire area would turn into a sea of flames the moment fire touched it.
 
-*Does she intend to take them down with us?*
+*Does she intend for us to perish together with them?*
 
 Cheol Mubaek was worried, but he kept his thoughts to himself. In all the years he had watched Lee Seowol, she had always been calm and clever, even from a very young age.
 
-“We only need to hold out for one day. Just one day. Reinforcements from the Jin Family of Taiyuan are on their way. If we can delay the enemy until then, we have a good chance of winning.”
+“We only need to hold out for one day. Exactly one day. Reinforcements from the Jin Family of Taiyuan are on their way, so we have a good chance of winning if we can stall them until then.”
 
 “R-reinforcements from the Jin Family of Taiyuan?”
 
@@ -264,7 +264,7 @@ Above all else…
 
 “No matter how bold Pung Yang is, he won’t dare raise his sword against a direct descendant of the Jin Family of Taiyuan.”
 
-“…I suppose not.”
+“…That’s true.”
 
 Lee Seowol felt bitter inside.
 
@@ -274,7 +274,9 @@ Now, a Murim sect that had once commanded northern Shanxi had to focus all its s
 
 *I will never forget what happened today.*
 
-Just as she bit down hard on her lip, the doors to the main hall opened, and a martial artist from the Gatekeeper Pavilion came running in, shouting.
+Just then, she bit down hard on her lip.
+
+The doors to the main hall opened, and a martial artist from the Gatekeeper Pavilion came running in, shouting.
 
 “Sect Leader, the enemy has sent an envoy!”
 
@@ -290,25 +292,25 @@ If they could delay the battle by even a single moment, they had to do everythin
 
 Not long after the Gatekeeper Pavilion martial artist withdrew, the Red Wind Band’s envoy was escorted into the main hall.
 
-Flashing his rotten teeth in a crooked grin, he bowed deeply in an exaggerated manner.
+He exposed his rotten teeth in a crooked grin and bowed deeply in an exaggerated manner.
 
 “I pay my respects to the Sect Leader of the great Mount Heng Sword Sect.”
 
-His attitude was clearly mocking, but the senior figures—and even the fiery-tempered Cheol Mubaek—suppressed their anger. Lee Seowol had repeatedly warned them beforehand.
+His attitude was clearly mocking, but the senior figures—and even Cheol Mubaek, whose temper was as fierce as fire—suppressed their anger. Lee Seowol had repeatedly warned them to do so beforehand.
 
 “Why did you send an envoy?”
 
-“Well, shouldn’t you offer a man who has traveled so far a bowl of rice wine before you start asking—gasp!”
+“Well, shouldn’t you give someone who has come such a long way a bowl of rice wine before asking—gasp.”
 
-The Red Wind Band’s envoy broke off and began trembling violently.
+The Red Wind Band’s envoy was unable to finish his sentence and began trembling violently.
 
-Unable to contain his anger, Cheol Mubaek had taken one step forward and unleashed an overwhelming aura.
+Cheol Mubaek, unable to contain his anger, had taken one step forward and released an overwhelming aura.
 
 “Do you want rice wine that badly?”
 
 At the deep, heavy voice, the envoy frantically shook his head.
 
-“N-no, sir. I was thirsty and said something stu—stupid.”
+“N-no, sir. I was thirsty, so I said something stu—stupid.”
 
 “Uncle Cheol. That’s enough.”
 
@@ -316,7 +318,7 @@ At the deep, heavy voice, the envoy frantically shook his head.
 
 Barely freed from Cheol Mubaek’s aura, the envoy stammered.
 
-“T-the Leader says we should end this pointless war and cement our friendship.”
+“T-the Leader says we should stop this pointless war and now cement our friendship.”
 
 “Friendship?”
 
@@ -324,7 +326,7 @@ The senior figures of the Mount Heng Sword Sect doubted their own ears.
 
 Who had betrayed the previous Sect Leader, Lee Cheonbaek, and killed even the Young Sect Leader, Lee Seogwang? And hadn’t they massacred the families and dependents of the Datong Branch only a short while ago?
 
-But Lee Seowol reacted differently. Without the slightest hint of surprise, she stared straight at the envoy.
+But Lee Seowol’s reaction was different. Without the slightest hint of surprise, she stared straight at the envoy.
 
 “And if we refuse?”
 
@@ -332,15 +334,15 @@ But Lee Seowol reacted differently. Without the slightest hint of surprise, she 
 
 “So he means that if we want to save our people, we must offer the Mount Heng Sword Sect in its entirety as a wedding gift.”
 
-“I-I don’t know anything beyond that…”
+“I-I don’t know about anything beyond that…”
 
-By now, everyone in the main hall understood what Pung Yang had meant by “friendship.”
+At this point, everyone in the main hall understood the meaning of the “friendship” Pung Yang had offered.
 
-They were all furious, but the first to act was the Tiger of Mount Heng, Cheol Mubaek.
+All of them were furious, but Cheol Mubaek was the quickest to act.
 
 *Thud!*
 
-In the literal blink of an eye, Cheol Mubaek crossed more than ten *jang* and drove his fist into the envoy’s chest.
+In the literal blink of an eye, Cheol Mubaek crossed more than ten *jang* and drove one punch into the envoy’s chest.
 
 The red fist aura carrying horrifying heat shattered his chest bones and burned his blood and flesh.
 
@@ -352,10 +354,10 @@ Cheol Mubaek pulled his fist from the man’s chest and turned toward Lee Seowol
 
 “He deserved to die a hundred times over.”
 
-“I agree. But…”
+“I think so, too. But…”
 
 Lee Seowol slowly rose from her seat and continued.
 
-“Now there’s no avoiding the fight.”
+“We can no longer avoid the fight.”
 
 One hour later, everyone in the Mount Heng Sword Sect heard the sound of horn calls ringing out from all directions.
