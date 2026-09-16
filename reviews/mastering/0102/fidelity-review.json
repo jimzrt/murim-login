@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "I was staring around the room, my chest strangely tight, when a voice came from behind me.",
+      "defect": "The translation omits 하염없이, which conveys that he was gazing around the room for an indefinite, lingering stretch.",
+      "id": "F01",
+      "rationale": "The duration and emotional aimlessness of his lingering gaze are explicit in the source.",
+      "replacement": "I was staring endlessly around the room, my chest strangely tight, when a voice came from behind me.",
+      "severity": "minor",
+      "source": "lines 39–41"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Ah, I’m not trying to pull rank. It’d be ridiculous for a guy who quit after exactly one month and handed back his license to act like some old-timer.",
+      "defect": "The binding glossary rendering of 꼰대 is absent, and the current version splits the idea between “pull rank” and “old-timer.”",
+      "id": "F02",
+      "rationale": "꼰대짓 invokes the glossary-mandated “boomer” behavior; 그러는 것도 then refers back to that same behavior rather than introducing a separate old-timer comparison.",
+      "replacement": "Ah, I’m not trying to act like a boomer. It’d be ridiculous for a guy who quit after exactly one month and handed back his license to do that.",
+      "severity": "minor",
+      "source": "lines 177–179"
+    },
+    {
+      "confidence": 0.96,
+      "current": "The driver continued as though airing a long-held grievance.",
+      "defect": "“Long-held” adds an unsupported claim that he had been harboring this grievance for an extended period.",
+      "id": "F03",
+      "rationale": "넋두리처럼 describes the lamenting or complaining manner of his speech, not how long he had kept it to himself.",
+      "replacement": "The driver continued as though airing a grievance.",
+      "severity": "minor",
+      "source": "lines 179–181"
+    },
+    {
+      "confidence": 0.95,
+      "current": "that stuffy capsule",
+      "defect": "“Stuffy” does not fully preserve the explicit hot, muggy quality of 후덥지근한.",
+      "id": "F04",
+      "rationale": "후덥지근한 specifically describes oppressive heat and stuffiness, a physical contrast with waking in the living room.",
+      "replacement": "that hot, stuffy capsule",
+      "severity": "minor",
+      "source": "lines 335–337"
+    }
+  ],
+  "summary": "The chapter is highly faithful, with four minor fidelity issues involving one binding term, one added implication, and two omitted nuances.",
+  "version": 1
+}

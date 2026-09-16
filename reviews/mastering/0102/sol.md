@@ -4,13 +4,13 @@ Everyone has their own area of expertise.
 
 I knew Gate formations, how to respond in a crisis, and the weaknesses of various monsters like the back of my hand. By the same token, I knew next to nothing about legal matters.
 
-“Thank you for your hard work.”
+“Thank you for your help.”
 
-“You too.”
+“And thank you.”
 
 The man in the angular horn-rimmed glasses was the legal scrivener I had hired to handle the purchase of the house. Across from me, the homeowner and the realtor were exchanging farewells and getting to their feet.
 
-“Congratulations on the contract. You’ve done well for yourself at such a young age.”
+“Congratulations on the purchase. You’ve done well for yourself at such a young age.”
 
 “Ah, yes. Thank you.”
 
@@ -20,7 +20,7 @@ As I shook hands with the homeowner, something finally sank in.
 
 And it was my family’s house.
 
-A home we had reclaimed after no less than eleven years.
+A home we had regained after eleven long years.
 
 * * *
 
@@ -38,23 +38,23 @@ The past seven years were contained inside it. I was staring around the room, my
 
 I knew who it was without turning around.
 
-He was someone I couldn’t leave out of my seven years.
+He was someone I couldn’t leave out of those seven years.
 
 “Yeah.”
 
 “What about the house?”
 
-“I found one, so I’m moving out.”
+“I found one. That’s why I’m moving out.”
 
 “Bastard, that was fast. Has your family already moved into the new place?”
 
-“No. It’s still a secret. I’m planning to move in first and tell them after my sister finishes her college entrance exam.”
+“No. It’s still a secret. I’m going to live there by myself for now and tell them after my sister finishes her college entrance exam.”
 
-“Fair enough. She’s at an important stage.”
+“Fair enough. She’s at an important point.”
 
 “Yeah. I need to remodel the place first, too.”
 
-A brief silence followed. We were comfortable enough not to need conversation, the kind of people who could read each other’s thoughts from a look alone. But right now, neither of us seemed to know what to say.
+A brief silence followed. We were comfortable enough not to need conversation, the kind of people who could read each other’s thoughts with a glance. But right now, neither of us seemed to know what to say.
 
 “Hyung.”
 
@@ -64,9 +64,9 @@ Jinho hyung slapped me hard on the back.
 
 “You’re not some elementary school kid transferring schools. Just because you’re moving, you’re not going to stop seeing me, are you?”
 
-“Of course I’ll see you. I definitely will.”
+“Of course not. I’ll definitely come see you.”
 
-“Then it’s fine. Besides, I’m moving my stuff out by the end of today, too.”
+“Then we’re good. Besides, I’m moving my stuff out today too.”
 
 “You are?”
 
@@ -86,7 +86,7 @@ I had felt bad about leaving Jinho hyung alone in the goshiwon after all the yea
 
 Jinho hyung’s eyes widened.
 
-“I’m in that area too, you punk!”
+“I’m moving near there too, you punk!”
 
 “Huh? Really?”
 
@@ -100,7 +100,7 @@ Just as I was about to ask, the smartphone in my pocket rang. When I answered, a
 
 “Ah, yes. Driver.”
 
-It was the private moving-truck driver I had called in advance. I glanced out the window and saw a blue light truck waiting in front of the goshiwon.
+It was the private moving-truck driver I had called ahead of time. I glanced out the window and saw a blue light truck waiting in front of the goshiwon.
 
 —Do you have a lot of stuff? If anything’s heavy, I can help you carry it.
 
@@ -108,7 +108,7 @@ It was the private moving-truck driver I had called in advance. I glanced out th
 
 I only had two things to move.
 
-A cardboard box filled with small belongings, and…
+A cardboard box filled with assorted belongings, and…
 
 *The capsule.*
 
@@ -118,7 +118,7 @@ It had become nothing more than a bulky nuisance, but it meant more to me than a
 
 *What would have happened if it weren’t for this capsule?*
 
-I slowly ran my hand over its surface. The coldness of the metal and its rough texture traveled through my fingers.
+I slowly ran my hand over its surface. Cold, rough metal brushed against my palm.
 
 This one old capsule had completely changed my life.
 
@@ -140,17 +140,17 @@ If Jinho hyung hadn’t gotten plastered that day, I never would have entered th
 
 “Uh, what?”
 
-“What’s with that reaction? Can’t you carry one box for your little brother who’s moving away?”
+“What’s with that reaction? You can’t carry one box for your little brother who’s moving away?”
 
-“That’s not it… Ah, now that I think about it, I need to pack my own stuff too. Even if it’s a hassle, just make one trip back and forth. Well, good luck!”
+“That’s not it… Oh, now that I think about it, I need to pack my own stuff too. It might be a hassle, but just make two trips. Good luck!”
 
 “……”
 
 Look at him slithering away like a loach.
 
-I watched Jinho hyung’s back inch into the distance, then finally picked up the box myself.
+I watched Jinho hyung inch into the distance, then finally picked up the box myself.
 
-The moving driver, tired of waiting, honked the truck’s horn. The sound struck my ears.
+The moving driver, tired of waiting, blasted his horn.
 
 Honk, honk!
 
@@ -164,7 +164,7 @@ The moving driver, who had been sneaking glances at me, finally spoke. With the 
 
 “How did you know?”
 
-“You can tell at a glance. I used to be a Hunter, too. F-rank.”
+“You can tell at a glance. I used to be a Hunter too. F-rank.”
 
 “Oh, really?”
 
@@ -172,17 +172,17 @@ The moving driver, who had been sneaking glances at me, finally spoke. With the 
 
 The driver continued as though airing a long-held grievance.
 
-“Being a Hunter at the training center was manageable. Even though I was only F-rank, I took pride in becoming a Hunter. But the moment I joined a Guild after graduating, an accident happened.”
+“Training at the Hunter Training Center wasn’t so bad. I might have been F-rank, but I was proud to be a Hunter. Then, as soon as I graduated and joined a Guild, there was an accident.”
 
 An accident at a Gate was synonymous with death.
 
 Even if someone lost an arm or a leg, they could recover as long as they had enough money. Hunters didn’t call something like that an accident.
 
-“He was one of my training-center classmates, and he joined the Guild at the same time as me… Before I knew what was happening, he was dragged away and died just like that. I should have chased after him and saved him, no matter what it took, but I couldn’t make my feet move. After his funeral, I applied for retirement. Someone like me had no business going on raids.”
+“He was one of my training-center classmates. We joined the Guild together… One second he was there, and the next he was dragged away and killed. I should’ve chased after him and saved him, no matter what it took, but I couldn’t make my feet move. I applied for retirement after his funeral. Someone like me had no business going on raids.”
 
 He tried to sound calm, but he couldn’t hide the slight tremor in his voice.
 
-“Listen to me saying something so ominous in front of a Hunter customer. It’s not even a pleasant story. Sorry about that.”
+“Listen to me saying something so ominous in front of a Hunter. It’s not even a pleasant story. Sorry about that.”
 
 “Don’t worry about it.”
 
@@ -192,7 +192,7 @@ I had experienced something similar. If I hadn’t felt responsible for my famil
 
 *Then my life would have turned out completely differently.*
 
-Being a Hunter was a brutal profession. The media praised them as humanity’s guardians and shields, but they lived with death always at their side.
+Being a Hunter was a brutal profession. The media praised us as humanity’s guardians and shields, but we lived with death constantly at our side.
 
 —Turn right in fifty meters.
 
@@ -212,7 +212,7 @@ Our house.
 
 The more I repeated those words in my head, the better they sounded. Of course, the fact that the house itself was beautiful probably helped.
 
-“Wow… It’s a nice house.”
+“Wow… This is a nice house.”
 
 The driver climbed out of the cab and clicked his tongue in admiration. Praise always sounded sweeter coming from someone else. No matter how hard I tried to suppress it, the corners of my mouth kept rising.
 
@@ -220,13 +220,11 @@ The driver climbed out of the cab and clicked his tongue in admiration. Praise a
 
 “Mine too.”
 
-“Your wish came true. You must be happy.”
+“Then your wish came true. You must be happy.”
 
 *Of course. I was ecstatic.*
 
-The driver continued exclaiming over the place, touching the stone wall and looking over the lawn, before asking,
-
-“Would it be all right if I took a quick look inside? I can help move the capsule while I’m at it.”
+Still marveling at the place, he touched the stone wall and looked over the lawn before asking, “Would it be all right if I took a quick look inside? I can help move the capsule while I’m at it.”
 
 “Sure. Go ahead.”
 
@@ -244,15 +242,15 @@ I knew because I had lifted it myself earlier. It had felt reasonably hefty even
 
 The driver wrapped his arms around the capsule and grinned.
 
-“Come on. You’re underestimating me. I was a Hunter back in the day. Something like this is—nnngh!”
+“Come on. You’re underestimating me. I used to be a Hunter, you know. Something like this is—nnngh!”
 
-“Oh, wow.”
+“Oh.”
 
 As expected of a former Hunter, he did manage to lift it in one go.
 
 The only change was that the smile had vanished from his face.
 
-“Go ahead and open the doors. Quickly!”
+“Go open the doors. Hurry!”
 
 At the urgency in his voice, I dashed ahead and threw open the front gate and the front door. I had no idea why I was getting nervous too.
 
@@ -262,7 +260,7 @@ At the urgency in his voice, I dashed ahead and threw open the front gate and th
 
 “Ah, yes.”
 
-He barreled into the living room at a speed fit for an alarm and screamed, “Which room?!”
+He barreled into the living room at an alarming speed and screamed, “Which room?!”
 
 “I was going to put the capsule upstairs…”
 
@@ -270,7 +268,7 @@ He barreled into the living room at a speed fit for an alarm and screamed, “Wh
 
 “…but just leave it in the nearest room.”
 
-Fortunately, the door to one of the rooms was already open. The driver set the capsule down with a thud and began panting.
+Fortunately, one of the bedroom doors was already open. The driver set the capsule down with a thud and began panting.
 
 “Why… is this… huff… so heavy?”
 
@@ -282,9 +280,9 @@ Hadn’t I told him it was heavy?
 
 As soon as the moving driver left, I dropped onto the living room sofa.
 
-It was one of the pieces of furniture the previous owner had transferred to me on the condition that I pay the remaining balance all at once.
+It was one of the pieces of furniture the previous owner had included on the condition that I pay the remaining balance all at once.
 
-*I’ll have to live alone for a few months.*
+*I’ll be living alone for the next few months.*
 
 I had told my family that I was going back to Bucheon.
 
@@ -292,17 +290,17 @@ Until Hayeon finished her college entrance exam, I planned to eat and sleep here
 
 *I need to remodel the house and buy a car too. Ah, the Guild said they’d provide me with a car anyway, so I need to get my license first.*
 
-There was a mountain of other things to do. But instead of feeling tired, I felt energized. These were all things I hadn’t been able to do before, no matter how much I wanted to.
+There was a mountain of other things to do. But instead of feeling tired, I felt energized. They were all things I hadn’t been able to do before, no matter how much I wanted to.
 
-It had only been a few months since I had done nothing but suffer while going back and forth between Gates and the goshiwon, yet so much had changed.
+It had only been a few months since I’d done nothing but struggle back and forth between Gates and the goshiwon, yet so much had changed.
 
 *You’ve come a long way, Jin Taekyung.*
 
 One person suddenly came to mind.
 
-A man who had always smiled like a boy despite his age. A man who had done his best for his wife and children and approached them like a friend.
+A man who had always smiled like a boy despite his age. A man who had done his best for his wife and children and treated us like friends.
 
-*Dad, I bought a house. The place we used to live in was already gone. But I did well enough, right?*
+*Dad, I bought a house. The place we used to live in is already gone, but… I did pretty well, right?*
 
 I wanted to brag about it like a child, but the person who would have praised me had passed away long ago. All I could do was repeat words in my heart that would never reach him.
 
@@ -312,13 +310,13 @@ When I came to my senses, it was already eight in the evening. The summer sun wa
 
 *So this is how my last day of vacation ends.*
 
-An entire week of vacation. It had been hectic because of everything involving the Sangdong Guild, but it was still the best rest I had enjoyed since becoming a Hunter.
+A whole week off. Things had gotten hectic thanks to the Sangdong Guild, but it was still the best rest I’d had since becoming a Hunter.
 
 Now it was time to return to my daily life.
 
 *In exactly twelve hours.*
 
-I lay flat on the sofa where I had been sitting. I briefly considered entering the capsule, but soon dismissed the thought.
+I stretched out on the sofa. The thought of entering the capsule crossed my mind, but I quickly dismissed it.
 
 After eleven years, I finally had a home again. Just this once, I wanted to wake up in our living room instead of inside that stuffy capsule.
 
@@ -342,25 +340,25 @@ Long after Jin Taekyung lost consciousness, something no one could have expected
 
 Hissssss.
 
-The door of the metal object that looked like a gigantic egg—the capsule—slowly began to open.
+The door of the metal object resembling a gigantic egg—the capsule—slowly began to open.
 
-The first thing to emerge was a pair of feet.
+The first things to emerge were two feet.
 
-Red letters were printed across a pair of long athletic socks that reached up to the calves.
+Red letters were printed across long athletic socks that reached halfway up the calves.
 
 **Hope Goshiwon Early-Morning Soccer Club**
 
-Next came sweatpants rolled up halfway, followed by a pair of pale, skinny hands. The cover of the book he clutched tightly, as though it were scripture, gleamed in the sunset pouring through the window.
+Next came sweatpants rolled halfway up the legs, followed by a pair of pale, skinny hands. The cover of the book he clutched as though it were scripture gleamed in the sunset streaming through the window.
 
 **Complete Mastery of the Civil Service Exam**
 
 And finally, his face emerged.
 
-After enduring several long hours of agony, he looked as haggard as Crown Prince Sado[^1] yet as relieved as Park Hyeokgeose emerging from an egg.[^2]
+After enduring several long hours of agony, he looked as haggard as Crown Prince Sado[^1], yet as relieved as Park Hyeokgeose emerging from his egg.[^2]
 
-A parched voice slipped between his bone-dry lips.
+A dry voice slipped between his parched lips.
 
-“Is this my new nest…?”
+“Is this my new home…?”
 
 As Seong Jinho gazed around the spacious room, a satisfied smile spread across his lips.
 
