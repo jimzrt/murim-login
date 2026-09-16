@@ -1,0 +1,680 @@
+{
+  "chapter": 107,
+  "decisions": [
+    {
+      "decision": "SOL",
+      "hunk_id": "H001",
+      "reason": "Night-and-day captures 차원이 달랐다 without colliding with System Level."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H002",
+      "reason": "Punchier narrator line for the driver swap without changing the fact."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H003",
+      "reason": "Carefree fits 속 편한; merging the speech is cleaner English."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H004",
+      "reason": "Dialogue already absorbed into H003."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H005",
+      "reason": "Keeps the 젬병 callback that BASE flattens into generic dismissal."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H006",
+      "reason": "Tighter identification of the coachman Wolhwa brought."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H007",
+      "reason": "Silently matches 묵묵하게; 딱 그림이 나온다 is fit, not obvious.",
+      "replacement": "The man silently holding the reins was a Level 50 First Rate martial artist. A coachman and a bodyguard—the picture fit perfectly."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H008",
+      "reason": "Keep quiet is the request; SOL adds an unstated rest-of-trip and overspecifies 중간이라도 간다.",
+      "replacement": "“Please, just keep quiet. Then you’ll at least do okay.”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H009",
+      "reason": "나만 is ‘always the one,’ which SOL drops."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H010",
+      "reason": "SOL omits 우리를 지켜보던."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H011",
+      "reason": "Preserves 보기 좋네요, which BASE cuts."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H012",
+      "reason": "싸가지 없다 is lack of respect, not mere rudeness."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H013",
+      "reason": "Glossary Captain and second-person address; BASE’s squad leader is wrong."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H014",
+      "reason": "Keeps the 스물둘이어도 hypothetical and the repeated 어려."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H015",
+      "reason": "이제 겨우 약관 as just turned twenty, spoken to him, not squad leader."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H016",
+      "reason": "한판 붙든가 is a blunt fight challenge."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H017",
+      "reason": "We have company / leave it at that is natural for 다른 분들 / 여기까지만."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H018",
+      "reason": "활짝 웃었다 is beamed; 추한 is ugly, not pathetic.",
+      "replacement": "Wolhwa beamed at Hyuk Mujin’s ugly excuse."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H019",
+      "reason": "여기 진 소협 needs the over-here pointing."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H020",
+      "reason": "Flinched before speaking destiffens 입을 열었다 without losing the beat."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H021",
+      "reason": "Hyphen stutter is the English convention for 나, 난."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H022",
+      "reason": "Widened destiffens the eyes line; 슬쩍 is subtle, not quick.",
+      "replacement": "My eyes widened at the unexpected response, and Jin Mukyung subtly looked away."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H023",
+      "reason": "Demanded fits 뭘 쳐다보냐고 with 눈을 부라릴."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H024",
+      "reason": "Merge the question; complete overpads 진심을 담아.",
+      "replacement": "I asked him sincerely, “Are you sick?”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H025",
+      "reason": "Question already merged into H024."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H026",
+      "reason": "More spoken English for the eye-contact scolding."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H027",
+      "reason": "시끄럽다 from Mukyung here is shut up, not a polite be quiet."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H028",
+      "reason": "Keep the motion-sickness line separate; SOL’s merge weakens 팔팔하더니."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H029",
+      "reason": "팔팔하더니 is full of energy, not perfectly fine."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H030",
+      "reason": "것 같은데 is tentative seems, which SOL drops."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H031",
+      "reason": "Keeps 바라보던 그때; SOL trims the watching beat."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H032",
+      "reason": "Keep italicized 쿡쿡; SOL strips the established SFX markup."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H033",
+      "reason": "Only I could hear is cleaner without the extra him."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H034",
+      "reason": "뭐가…… 아 is What about him, with a proper ellipsis."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H035",
+      "reason": "SOL drops 혁무진의 말을 들은 후에야."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H036",
+      "reason": "Missed it is more natural; SOL’s only-then notice would duplicate H035.",
+      "replacement": "I couldn’t believe I had missed it until now."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H037",
+      "reason": "Keep unspecified 가져온; take SOL’s tighter seating clause.",
+      "replacement": "The four-horse carriage brought from the Jin Family of Taiyuan was quite luxurious. The interior was about the size of an ordinary room, with seats spacious enough to accommodate twice our number without trouble."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H038",
+      "reason": "Cramming line is rewritten in H039."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H039",
+      "reason": "구겨 넣다 is cram, not fold, and the merge keeps 넓은 좌석을 두고."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H040",
+      "reason": "마법 학교 is magic school; school of magic is only a synonym swap."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H041",
+      "reason": "Source names narrator and Mujin as the watchers; BASE omits Mujin."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H042",
+      "reason": "많이 is very, not terribly."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H043",
+      "reason": "Went rigid destiffens 신형 without losing 덜컥 굳는."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H044",
+      "reason": "His creaking reply is the natural subject for 대답."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H045",
+      "reason": "Hyphen stutter for 괘, 괜찮소."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H046",
+      "reason": "Wore an expression much like mine is cleaner than whose expression was similar."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H047",
+      "reason": "Goes beyond strange matches 이상한 정도가 아니다."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H048",
+      "reason": "That’s what I thought is more spoken for 비슷한 생각."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H049",
+      "reason": "Who would’ve imagined matches the Korean, which has no this."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H050",
+      "reason": "천하의 and 낯가림 need great and strangers, not generic people."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H051",
+      "reason": "Dash interruption lands 예? mid-agreement better than a trailing ellipsis."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H052",
+      "reason": "놈 in Taekyung’s mouth is bastard, not guys."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H053",
+      "reason": "Keeps the repeated 잠시만 / 잠시만요."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H054",
+      "reason": "Uses the ellipsis character in trailing speech."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H055",
+      "reason": "SOL drops 불쑥."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H056",
+      "reason": "Restores the still-inside-a-carriage logic of 넓어 봤자 마차 안."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H057",
+      "reason": "Faced with the glare is more natural than under it."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H058",
+      "reason": "Dispelled is the English for 분위기를 환기."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H059",
+      "reason": "아직 is yet; BASE’s extra even is unsupported."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H060",
+      "reason": "Learned who I was is spoken English for 신분을 듣고."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H061",
+      "reason": "Mukyung’s 하오체 wants rendered a great service, not did a great deal."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H062",
+      "reason": "Though it comes late tracks 늦었지만; BASE adds I realize."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H063",
+      "reason": "거래 here is a transaction, setting up the unpaid compensation."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H064",
+      "reason": "Attribution merges into H065."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H065",
+      "reason": "Keeps the smooth add-on in one spoken beat."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H066",
+      "reason": "말투 is manner of speaking, not speech in general."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H067",
+      "reason": "미녀 is beautiful woman, 감탄사 is an exclamation; SOL borrows peerless and turns it into a sigh."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H068",
+      "reason": "젊은 고수 must not collapse into Young Master; martial arts master disambiguates."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H069",
+      "reason": "Turned away destiffens 고개를 돌렸다."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H070",
+      "reason": "Racing much longer is the idiomatic cut of 얼마 남지 않은."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H071",
+      "reason": "성미가 급하다 personifies winter as short-tempered, not merely impatient."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H072",
+      "reason": "Keep 얼마나/금세; glossary shichen, not four hours or hadn’t traveled far.",
+      "replacement": "How long had we traveled along the mountain road? The sun quickly set, and darkness descended. The carriage stopped two shichen later, around midnight."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H073",
+      "reason": "Upon stepping out is closer to 내리자마자."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H074",
+      "reason": "Tighter English for the chill and the human statue without adding facts."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H075",
+      "reason": "Enshrined is the right verb for 위패를 모시고."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H076",
+      "reason": "At the drop of a hat captures 심심하면 better than so often."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H077",
+      "reason": "Direct this-shrine wording for the abandoned-shrine line."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H078",
+      "reason": "Bare interior plus the footprint example is tighter and still 휑했다."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H079",
+      "reason": "Fixes assumed was grammar; headed outside is natural."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H080",
+      "reason": "정확히 말하면 한 명은 is one of us dragged out, not a rewritten all-but-one."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H081",
+      "reason": "따라와라 is Follow me."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H082",
+      "reason": "조장 is glossary Captain, not Squad Leader."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H083",
+      "reason": "Keeps 음 and the forced-casual 참 밝구나 while he ignores Mujin."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H084",
+      "reason": "보시는 대로죠 is as you can see, not what does it look like."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H085",
+      "reason": "싱긋 is a slight smile; SOL’s plain smiled drops it."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H086",
+      "reason": "좋아하나 봐요 is seem, not must."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H087",
+      "reason": "Getting into it matches Taekyung’s casual 좋아지고 있어요."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H088",
+      "reason": "Keep SOL’s nightscape line; restore 직장인들의 야근 불빛, not office buildings.",
+      "replacement": "The only scenery to be found in the modern world was the nightscape seen from some high vantage point. Even that consisted of sad lights created by office workers working overtime."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H089",
+      "reason": "Now this is real scenery gives 이런 게 진짜 its spoken stress."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H090",
+      "reason": "공장 부지 is industrial sites, not just factories."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H091",
+      "reason": "온 세상 is the entire world."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H092",
+      "reason": "제대로 is genuinely, not a vague so."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H093",
+      "reason": "킬링 당하기도 쉬운 is easy to get killed, not a great place to."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H094",
+      "reason": "Keep the separate 몬스터보다 사람이 더 무섭다 beat."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H095",
+      "reason": "굳이 … 필요도 없이 needs even."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H096",
+      "reason": "부르다 is call; summon stiffens Wolhwa’s speech."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H097",
+      "reason": "I’d / of course is the narrator’s 개박살 … 하긴 voice; I had / certainly is stiffer."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H098",
+      "reason": "The hook is a 단어, which sets up repeating the name."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H099",
+      "reason": "Glossary Gaoyuan and Red Wind Band Leader; 규모 is large, not specifically numbers.",
+      "replacement": "They’re a rising power from Gaoyuan. They’re fairly large, and more than anything, the Red Wind Band Leader is said to possess formidable martial arts."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H100",
+      "reason": "북부 고원 is the fragment Northern Gaoyuan, not a Shanxi gloss and not Plateau.",
+      "replacement": "Northern Gaoyuan."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H101",
+      "reason": "From a map is natural; SOL’s northern Shanxi gloss is not in this line.",
+      "replacement": "I had first learned of that place from a map during the war with the Mount Heng Sword Sect."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H102",
+      "reason": "Glossary Gaoyuan and spoken you rode."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H103",
+      "reason": "여기까지 is here, not out here."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H104",
+      "reason": "Exact glossary Red Wind Band Leader plus proper ellipsis."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H105",
+      "reason": "그럼? after the head-shake is then what happened, not what do you mean."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H106",
+      "reason": "두 시진 is two shichen; the two hundred ride with him in the same turn."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H107",
+      "reason": "Accompaniment already attached in H106."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H108",
+      "reason": "이백 명 is people, not men."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H109",
+      "reason": "Keep the full counterfactual; 영향 is affect, and SOL splits it."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H110",
+      "reason": "Changed the outcome overstates 영향을 끼쳤을지도."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H111",
+      "reason": "입장에서는 is for the sect, not a flat they were unlucky."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H112",
+      "reason": "꾹꾹 눌러 담다 and 담뱃잎 need firmly packed tobacco leaves."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H113",
+      "reason": "빠져나간 is withdrawn, not drawn away; 노린 is targeted."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H114",
+      "reason": "허 is huh, not damn."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H115",
+      "reason": "타고난 is natural-born."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H116",
+      "reason": "Sank their teeth into the throat is the English for 목덜미를 물어뜯은."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H117",
+      "reason": "Staying out / peak condition is cleaner for the unused, well-rested force."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H118",
+      "reason": "결과 is how it ended, not the broader what happened."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H119",
+      "reason": "Victory sentence is merged into H120."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H120",
+      "reason": "Merge is good; 이어야 할 is supposed to, not should have.",
+      "replacement": "After two days of fierce fighting, the Mount Heng Sword Sect ultimately emerged victorious—but at the cost of the Young Sect Leader, who was supposed to succeed his father."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H121",
+      "reason": "섞여 있었다 is mixed together, not their forces included both."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H122",
+      "reason": "Glossary Red Wind Band Leader; recruited / shields is natural for 끌어들인 / 방패막이."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H123",
+      "reason": "Keep italicized 탁, 탁 SFX markup."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H124",
+      "reason": "First 도망친 자들, then 탈영병; SOL names deserters early and swaps 진 공자 for you."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H125",
+      "reason": "Uses the ellipsis character in 탈영병이라……."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H126",
+      "reason": "Rear their heads / badly diminished tracks 고개를 들고 and 형편없이 줄어들다 better than almost nothing."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H127",
+      "reason": "새치름하게 is prim, not demure."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H128",
+      "reason": "Strictly speaking is the spoken 정확히 말하면."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H129",
+      "reason": "Uses the ellipsis character in By the way."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H130",
+      "reason": "Visit is the natural verb for coming to a shrine."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H131",
+      "reason": "SOL drops 갑자기."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H132",
+      "reason": "엷은 눈보라 is a light snowstorm, not a flurry.",
+      "replacement": "Through the light snowstorm that had begun to swirl, I could see torches climbing toward us."
+    }
+  ],
+  "version": 1
+}
