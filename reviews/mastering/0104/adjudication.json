@@ -1,0 +1,592 @@
+{
+  "chapter": 104,
+  "decisions": [
+    {
+      "decision": "BASE",
+      "hunk_id": "H001",
+      "reason": "SOL drops 어둑한 (\"dark\"), losing the dark-night/bright-lantern contrast the source draws."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H002",
+      "reason": "SOL adds \"impressive,\" an evaluation the Korean 생각 이상인데 does not state."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H003",
+      "reason": "Closer to 그 문화가 가진 고유의 멋 and reads more naturally."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H004",
+      "reason": "Contraction makes the spoken line more natural without changing meaning."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H005",
+      "reason": "\"Why complain?\" better matches the dismissive 왜 그러십니까 than BASE's fuller phrasing."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H006",
+      "reason": "\"long ago\" is tighter and matches 한참 전에; no meaning lost."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H007",
+      "reason": "\"Wincing\" fits 찔끔한 and \"rambling excuses\" is cleaner than \"rambling out.\""
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H008",
+      "reason": "SOL adds \"stay somewhere nice,\" but the source here mentions only eating and resting the horses."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H009",
+      "reason": "\"stave off hunger\" matches 허기만 면하다 better than \"satisfy.\""
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H010",
+      "reason": "\"Brother did?\" supplies the omitted verb naturally and uses the project ellipsis."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H011",
+      "reason": "SOL drops 라도 (\"at least\") and the 수식/\"matters and lodging\" framing."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H012",
+      "reason": "BASE keeps 도 in \"completely helpless\" (꼼짝도 못 한다) and reads equally well."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H013",
+      "reason": "SOL omits 가기나 해라's \"go\" (terminology alert is a false positive; 가기, not 가지)."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H014",
+      "reason": "SOL loses the count in 1승 (\"one battle/win\") and 마차를 몰기 시작했다's \"began driving.\""
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H015",
+      "reason": "\"massive four-story wooden building\" is tighter while preserving all source detail."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H016",
+      "reason": "\"Its signboard\" links the sign to the inn more naturally."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H017",
+      "reason": "\"the great Jin Family of Taiyuan\" matches the binding 대태원진가 rendering and the dialogue is crisper."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H018",
+      "reason": "\"inn boy\" renders 점소이 correctly and \"scurried\" matches 쪼르르."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H019",
+      "reason": "\"service ethic\" is better English than \"service spirit\" with no loss."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H020",
+      "reason": "\"private annex\" is accurate for 별채; \"residence\" is misleading."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H021",
+      "reason": "무복 is martial robes (무인 alert false positive), and \"Perhaps because\" captures the suppositional 그런지."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H022",
+      "reason": "Consistent accurate rendering of 별채 as \"private annex.\""
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H023",
+      "reason": "\"Well, aren't you...\" lands as more natural spoken English while keeping the meaning."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H024",
+      "reason": "\"the expense money\" is a tighter, accurate rendering of 경비로 받은 돈."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H025",
+      "reason": "\"one night\" is the idiomatic inn-rate phrasing and matches the chapter's 하룻밤 숙박비."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H026",
+      "reason": "\"how the currency worked\" preserves 화폐 구조 better than SOL's vaguer \"understood the currency.\""
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H027",
+      "reason": "\"glanced to the side\" is more idiomatic than \"glanced aside.\""
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H028",
+      "reason": "SOL captures 금전 감각과는 도무지 어울리지 않는 배경 (a rich heir unlikely to have money sense) that BASE flattens."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H029",
+      "reason": "BASE omits 노동자 계급인 (\"working class\"), a key comic contrast."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H030",
+      "reason": "Uses the project ellipsis character rather than double dots."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H031",
+      "reason": "Correct 점소이 rendering plus \"short laugh\" for 피식 웃었다."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H032",
+      "reason": "\"a different room?\" is natural service-speak with the same mocking intent."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H033",
+      "reason": "Ellipsis convention compliance."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H034",
+      "reason": "Tighter prose keeps the mockery beat and the lips-tremble-then-laugh sequence."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H035",
+      "reason": "Matches the established \"different room\"/\"private annex\" wording and reads better."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H036",
+      "reason": "\"pay\" is natural for a fee and \"first\" covers 그전에."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H037",
+      "reason": "Correct 점소이 rendering; \"bluster\" fits 어깃장."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H038",
+      "reason": "SOL loses 우리 사이에서나 (\"only among us\") and 저래 봬도 (\"despite appearances\")."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H039",
+      "reason": "\"could only be frightened\" preserves 수밖에 없지; SOL's \"especially\" shifts 그것도."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H040",
+      "reason": "SOL's \"cowed\" over-interprets 바짝 긴장한, while BASE's \"shopkeeper\"/\"private residence\" are wrong; keep BASE's tense phrasing with the accurate inn boy/annex terms.",
+      "replacement": "We followed the thoroughly tense inn boy to the private annex. Along the way, we saw a garden that was, with a little exaggeration, the size of a soccer field, as well as a pond where carp swam."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H041",
+      "reason": "SOL's \"furnishings\" over-specifies 물건들; keep \"annex\" but restore \"objects\" and \"even at a glance\" for 척 봐도.",
+      "replacement": "The annex was divided into three large rooms and decorated with objects that looked expensive even at a glance."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H042",
+      "reason": "BASE keeps 도 (\"as well\"); SOL drops the agreement."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H043",
+      "reason": "More natural clipped phrasing suited to Jin Mukyung, same content."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H044",
+      "reason": "BASE's \"walking around and looking around\" is redundant, but SOL's \"inspecting\" over-reads 구경 (sightseeing).",
+      "replacement": "While I wandered around sightseeing in the annex, Hyuk Mujin returned after paying for our stay."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H045",
+      "reason": "\"Aren't you two going to eat?\" is more natural spoken English."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H046",
+      "reason": "Only a comma differs; the versions are indistinguishable in quality."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H047",
+      "reason": "Consistent accurate rendering of 별채."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H048",
+      "reason": "Glossary binds 조장 → \"Captain\"; BASE's \"Squad Leader\" violates it."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H049",
+      "reason": "BASE keeps \"starving to death\" (배고파 죽겠다) and \"hurry up\" (빨리); SOL softens and omits."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H050",
+      "reason": "Glossary binds 산서성 → \"Shanxi Province.\""
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H051",
+      "reason": "\"proprietress\" resolves BASE's own inconsistency with its later paragraphs."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H052",
+      "reason": "Tighter and more natural; 같은 information preserved."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H053",
+      "reason": "BASE preserves 도 in \"never even dreamed\" (꿈도 꾸지 못할)."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H054",
+      "reason": "Concise idiomatic rendering of the rhetorical 이럴 때 아니면 언제."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H055",
+      "reason": "SOL uses the glossary term shichen (BASE converts to \"an hour\") but adds unsupported \"perhaps\" and \"glimpse\" for 미모까지.",
+      "replacement": "Half a shichen ago, Hyuk Mujin’s mood had reached its peak. A fine room, delicious food, and even the beauty of the proprietress, whom people said could only be seen on lucky days."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H056",
+      "reason": "BASE keeps the exclamatory thought as an italic internal line; SOL converts it to third-person narration, flattening the voice."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H057",
+      "reason": "Accurate annex rendering; \"wondered again\" works with the repeated dream/reality line."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H058",
+      "reason": "SOL drops 홀랑 (\"completely\") and shortens \"advance fee\"; pair SOL's correct inn boy with BASE's fullness.",
+      "replacement": "He wished it were a dream, but by the time he came to his senses, it was already too late. He had fallen completely for the inn boy’s mockery and even paid the advance fee. It was all over."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H059",
+      "reason": "Smoother and drops BASE's unsupported \"only.\""
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H060",
+      "reason": "SOL omits 일반적인 것과는 (\"from ordinary prices\"), a real comparison in the source."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H061",
+      "reason": "Tighter panic arithmetic; meaning preserved."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H062",
+      "reason": "SOL recasts the actual situation as a thought (\"At the thought of\") and generalizes 등허리 to \"back.\""
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H063",
+      "reason": "Correct 점소이 rendering."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H064",
+      "reason": "법 is a general truth; BASE's present tense is correct, SOL's past tense is not."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H065",
+      "reason": "\"working the abacus\" is the idiomatic verb for 주판을 튕기다 and \"hurriedly\" fits 재빨리."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H066",
+      "reason": "\"is gone\" matches 다 날아갔다; SOL's \"as good as gone\" weakens it."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H067",
+      "reason": "Crisper and natural; 전 재산/만약의 사태 preserved."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H068",
+      "reason": "Korean subject is unstated; BASE's \"I\" is a faithful reading and SOL's \"we\" is no clearer."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H069",
+      "reason": "BASE keeps a food-texture idiom for 입에 쫙쫙 달라붙네; \"hits the spot\" is generic."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H070",
+      "reason": "Matches binding glossary dishes (규화계 Beggar's Chicken, 어향육사, 매채구육) and adds the required Maechae Guyuk footnote."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H071",
+      "reason": "\"So juicy\" mirrors the verbless emphasis of 육즙이 아주."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H072",
+      "reason": "\"finish the rest too\" reads more naturally than \"eat the rest, too.\""
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H073",
+      "reason": "Ellipsis convention compliance."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H074",
+      "reason": "Tighter; 은자 다섯 냥 cost fact preserved."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H075",
+      "reason": "\"looked ready to devour\" matches 처먹을 기세, and it avoids BASE's early \"pig\" not present in this line."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H076",
+      "reason": "More natural word order; the joke and threat level are unchanged."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H077",
+      "reason": "Only a comma differs; versions are indistinguishable."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H078",
+      "reason": "The dash carries 하늘을 원망하던 그때였다 into the crash with better rhythm."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H079",
+      "reason": "Tighter while keeping the ranked survival/food observation and the soup craving."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H080",
+      "reason": "\"special significance\" is smoother than \"a special meaning\" with no loss."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H081",
+      "reason": "\"whisked through it until silky smooth\" reads better and is faithful."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H082",
+      "reason": "BASE keeps 살며시 (\"slightly\"); SOL drops it."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H083",
+      "reason": "\"rose naturally\" and \"Once I settled it\" read more naturally; content is intact."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H084",
+      "reason": "BASE keeps 이제 (\"now\") in the anticipatory thought."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H085",
+      "reason": "BASE preserves 그때였다 (\"Just as...—\"), the suspended moment that sets up the crash; SOL flattens it to simple past."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H086",
+      "reason": "Ellipsis convention compliance."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H087",
+      "reason": "Cleaner recasting of 박살 난 술병 ... 비산한다 without losing the shattering image."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H088",
+      "reason": "Tighter; 남아 있던 약간의 술 preserved."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H089",
+      "reason": "\"left speechless\" is more natural than \"lost all ability to speak\" with the same meaning."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H090",
+      "reason": "BASE keeps 고대하던 (\"eagerly awaiting\") and \"was no longer there\" for 더 이상 그곳에 없었다."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H091",
+      "reason": "BASE preserves 불과했다 (\"nothing more than\"); SOL drops the mere-ness."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H092",
+      "reason": "Tighter opening while keeping the gaping-mouth image."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H093",
+      "reason": "Smoother participial opening with the same direction information."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H094",
+      "reason": "\"our way\" is more natural for 이쪽 without changing reference."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H095",
+      "reason": "SOL's \"him\" matches how the group refers to Taekyung (저놈); BASE's \"you\" misassigns the object."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H096",
+      "reason": "\"don't say anything crazy\" and \"that bastard\" better fit the blunt register of 저놈."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H097",
+      "reason": "\"snicker\" matches 킥킥거리다 as well as \"chuckle\" and reads fine."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H098",
+      "reason": "Preserves the source's variant spelling 계용옥미앵 as the established \"thoup\"; BASE genericizes to \"soup.\""
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H099",
+      "reason": "Smoother action sequence for 피식 웃더니 자리에서 일어나.\""
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H100",
+      "reason": "\"reeked of sweat and blood\" fixes BASE's awkward \"stained with the smell\"; 무복 alert is a false positive."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H101",
+      "reason": "\"handle this\" reads slightly more naturally than \"deal with this\" with equal fidelity."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H102",
+      "reason": "\"I spoke calmly\" is more natural English than the body-part literal \"opened my mouth.\""
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H103",
+      "reason": "\"kid\" captures the direct address 얘야; BASE drops it."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H104",
+      "reason": "\"revealing teeth rotted black\" is tighter and more natural."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H105",
+      "reason": "BASE drops the 씻은 듯이 simile; SOL replaces it with a different image and changes 나중에 먹어야 (\"eat later\") to \"save for later.\"",
+      "replacement": "The horrific stench of his breath wiped away my appetite as if it had been washed clean. I supposed I would have to eat the thoup later."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H106",
+      "reason": "\"As the words left my mouth\" flows better than \"At the same time as I spoke.\""
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H107",
+      "reason": "Tighter and idiomatic (\"flocked there\") with 유독 많이 preserved."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H108",
+      "reason": "\"It's noisy\" is natural and matches the chapter's rendering of Jin Mukyung's 소란스럽군; \"How noisy\" is awkward and inconsistent."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H109",
+      "reason": "\"not directed at herself\" and \"proved it\" are more natural than \"soliloquy\"/\"proof of that.\""
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H110",
+      "reason": "BASE keeps 입을 열었다 (\"before speaking\"), which SOL drops entirely."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H111",
+      "reason": "\"the other six\" is tighter and avoids the redundant \"all six of the others.\""
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H112",
+      "reason": "Splitting into two questions matches the source's two interrogatives naturally."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H113",
+      "reason": "\"laughed soundlessly\" is more concise than \"laughed without making a sound.\""
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H114",
+      "reason": "SOL's \"I suppose\" adds hesitancy not present in 간만에 ... 봐야겠다."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H115",
+      "reason": "\"rose from where she had been reclining\" is smoother than \"lying at an angle,\" and the glossary pipe term is retained."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H116",
+      "reason": "Footnote explains the untranslated dish name concisely and without spoilers."
+    }
+  ],
+  "version": 1
+}
