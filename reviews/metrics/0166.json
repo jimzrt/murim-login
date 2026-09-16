@@ -1,6 +1,45 @@
 {
   "chapter": 166,
   "stages": {
+    "adjudicator_model": {
+      "billing_type": "subscription",
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "cost_reported": 0,
+      "cost_usd": 0,
+      "elapsed_seconds": 143.63,
+      "event_log": "/home/james/Documents/murim_login_new/reviews/mastering/0166/omp/adjudicator.jsonl",
+      "exact": true,
+      "fallback_used": false,
+      "input_tokens": 0,
+      "model": "cursor-grok-4.6",
+      "models": {
+        "cursor/cursor-grok-4.6": {
+          "billing_type": "subscription",
+          "cache_read_tokens": 0,
+          "cache_write_tokens": 0,
+          "cost_usd": 0,
+          "input_tokens": 0,
+          "model": "cursor-grok-4.6",
+          "output_tokens": 3284,
+          "provider": "cursor",
+          "requests": 1,
+          "total_tokens": 3284
+        }
+      },
+      "output_bytes": 2285,
+      "output_tokens": 3284,
+      "packet_bytes": 72074,
+      "packet_token_estimate": 18019,
+      "provider": "cursor",
+      "requested_model": "cursor/cursor-grok-4.6:high",
+      "requests": 1,
+      "stop_reasons": [
+        "stop"
+      ],
+      "total_tokens": 3284,
+      "usage_source": "omp_provider_reported"
+    },
     "draft_model": {
       "billing_type": "subscription",
       "cache_read_tokens": 18944,
@@ -45,6 +84,47 @@
     "draft_packet": {
       "input_bytes": 54292,
       "packet_token_estimate": 13573
+    },
+    "master_model": {
+      "billing_type": "api",
+      "cache_read_tokens": 256,
+      "cache_write_tokens": 0,
+      "cost_reported": 0.029144136,
+      "cost_usd": 0.029144136,
+      "elapsed_seconds": 68.959,
+      "event_log": "/home/james/Documents/murim_login_new/reviews/mastering/0166/omp/master.jsonl",
+      "exact": true,
+      "fallback_used": false,
+      "input_tokens": 25354,
+      "model": "deepseek/deepseek-v4.1-flash",
+      "models": {
+        "openrouter/deepseek/deepseek-v4.1-flash": {
+          "billing_type": "api",
+          "cache_read_tokens": 256,
+          "cache_write_tokens": 0,
+          "cost_usd": 0.029144136,
+          "input_tokens": 25354,
+          "model": "deepseek/deepseek-v4.1-flash",
+          "output_tokens": 17947,
+          "provider": "openrouter",
+          "reasoning_tokens": 14617,
+          "requests": 1,
+          "total_tokens": 43557
+        }
+      },
+      "output_bytes": 14346,
+      "output_tokens": 17947,
+      "packet_bytes": 65976,
+      "packet_token_estimate": 16494,
+      "provider": "openrouter",
+      "reasoning_tokens": 14617,
+      "requested_model": "openrouter/deepseek/deepseek-v4.1-flash:low",
+      "requests": 1,
+      "stop_reasons": [
+        "stop"
+      ],
+      "total_tokens": 43557,
+      "usage_source": "omp_provider_reported"
     },
     "review_model": {
       "billing_type": "subscription",

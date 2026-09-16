@@ -24,9 +24,9 @@ No—he felt even that was insufficient.
 
 *After the life I’ve lived.*
 
-He had spent a full jiazi standing before vats of boiling molten iron.[^1]
+He had spent a full jiazi standing before vats of boiling molten iron.
 
-Once he started something, he had always seen it through to the end. He had forgotten people and love alike. The anvil and hammer had been his friends and his beloved.
+Once he started something, he had always seen it through to the end. He had forgotten people and love alike. The anvil and hammer had been his friends and lovers.
 
 *I lived like a man possessed.*
 
@@ -46,7 +46,7 @@ Old Man Jang had been squatting in the yard, staring blankly into space, when he
 
 A little boy from the neighboring house was staring at him with enormous eyes.
 
-“What’re you thinking about?”
+“What are you thinking about?”
 
 “I was thinking that if you used polite speech, I might give you a piece of candy.”
 
@@ -54,7 +54,7 @@ A little boy from the neighboring house was staring at him with enormous eyes.
 
 “…What a sly little brat. Here.”
 
-“Tank you!”
+“Thank you!”
 
 Old Man Jang stared at the boy, who was busily sucking on the candy.
 
@@ -190,7 +190,7 @@ Realizing the general situation, Old Man Jang glared at the figures in the darkn
 
 “Who might you be?”
 
-Click!
+Crack!
 
 A spark flew in the darkness, and a flame soon caught. A fire starter in someone’s hand illuminated the faces of the three men.
 
@@ -234,7 +234,7 @@ The young man, Jin Taekyung, broke into a wide grin.
 
 Damn it. We had arrived before sunset, but we had run into trouble immediately.
 
-I had wondered why there were so many old men named Jang in a village no bigger than a booger, but it turned out to be a clan village.[^2] Half the people we passed on the road had the family name Jang.
+I had wondered why there were so many old men named Jang in such a tiny village, but it turned out to be a clan village.[^1] Half the people we passed on the road had the family name Jang.
 
 “Do you not know where he lives?”
 
@@ -256,7 +256,7 @@ Cheongpung took some meat out of his bundle and began tearing into it.
 
 “…”
 
-That bastard Cheongpung had done nothing but stuff his face the whole time.
+That bastard Cheongpung had done nothing but eat from start to finish.
 
 Still, that might actually help us. I was just about to ask him for a piece of meat in quiet desperation when—
 
@@ -274,7 +274,7 @@ I gently ruffled his shaggy hair.
 
 I responded, though I did not hold out much hope. The woman selling vegetables at the roadside stall was named Jang, and so was the butcher over there. In a clan village teeming with people named Jang, what were the odds?
 
-The boy sniffled and continued,
+The boy sniffed and continued,
 
 “Grandpa is always alone. He doesn’t have a family, so I go and play with him.”
 
@@ -302,7 +302,7 @@ It seemed that was all the boy knew. Hyuk Mujin asked with an eerily kind smile,
 
 “Little one, do you happen to know where he lives?”
 
-“Waaay over there. At the edge of the village.”
+“Over there. At the edge of the village.”
 
 As expected of the continent. This damn village was absurdly huge compared to its population.
 
@@ -312,7 +312,7 @@ Hyuk Mujin gauged the distance roughly with his eyes and spoke to me.
 
 It would take that long even on horseback. I shook my head.
 
-“What if we go and it isn’t him? Let’s start by searching the nearby area and work our way along.”
+“What if it isn’t him? Let’s start by searching the nearby area and work our way along.”
 
 “Yes, that probably is the better approach. Aside from being from somewhere else, there’s nothing that makes him stand out as the one we’re looking for.”
 
@@ -324,7 +324,7 @@ Cheongpung nodded.
 
 “…”
 
-While I wondered whether to just chuck that bastard’s food bundle away, the boy boldly held out both his little hands toward Cheongpung.
+While I wondered whether I should simply hurl away that food bundle, the boy boldly held out both his little hands toward Cheongpung.
 
 “Hmm?”
 
@@ -338,13 +338,13 @@ He had given us information and wanted a bite in return. That Jang grandfather o
 
 “Wow! Thank you!”
 
-Look at that. Grandpas, united as one.
+Look at that. Grandfathers united everyone.
 
 Cheongpung coolly handed over a large leg of meat. Since he had periodically heated the food with the Zaha Divine Technique, which was based on Scorching Yang Qi, the meat was still warm.
 
 *What kind of Zaha Divine Technique do you use to cook meat?*
 
-After happily tearing into the lean meat, the boy looked at us with lingering desire plastered all over his face.
+After happily tearing into the meat, the boy looked at us with a gaze full of lingering regret.
 
 “By the way, I have to go home anyway. On my way back, I’m going to see Grandpa Jang who lives three houses down from us.”
 
@@ -430,5 +430,4 @@ Jang Taebo was over eighty, but he was a sturdy old man. He stared at me with a 
 
 Talk about a flat-out rejection.
 
-[^1]: A jiazi is the sixty-year cycle of the traditional calendar; a full jiazi means sixty years.
-[^2]: A clan village is a settlement where many households share the same family name and ancestral lineage.
+[^1]: A clan village is a settlement where many households share the same family name and ancestral lineage.

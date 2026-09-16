@@ -190,7 +190,7 @@ Realizing the general situation, Old Man Jang glared at the figures in the darkn
 
 “Who might you be?”
 
-Click!
+Click.
 
 A spark flew in the darkness, and a flame soon caught. A fire starter in someone’s hand illuminated the faces of the three men.
 

@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "He had spent a full jiazi standing before vats of boiling molten iron.[^1]",
+      "defect": "The translation invents vats; the source mentions only boiling molten iron.",
+      "id": "F01",
+      "rationale": "The added vessels introduce a physical detail absent from the Korean.",
+      "replacement": "He had spent a full jiazi standing before boiling molten iron.[^1]",
+      "severity": "minor",
+      "source": "line 37"
+    }
+  ],
+  "summary": "Faithful overall, with one minor unsupported physical detail.",
+  "version": 1
+}
