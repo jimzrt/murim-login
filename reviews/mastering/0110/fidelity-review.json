@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "one crisis after another came crashing down like three waves at once",
+      "defect": "The translation misrenders 삼각파도 as three simultaneous waves. It refers to dangerous cross seas formed by waves converging from multiple directions.",
+      "id": "F01",
+      "rationale": "The source compares the relentless crises to chaotic, multidirectional waves, not a count of three waves.",
+      "replacement": "crises came at me from every direction like waves in a cross sea",
+      "severity": "minor",
+      "source": "line 199"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Young Master Jin, are you hurt?”",
+      "defect": "어디 아파요 asks whether he feels ill or unwell; it does not specifically suggest an injury.",
+      "id": "F02",
+      "rationale": "Wolhwa is reacting to his sudden sigh and behavior, with no physical injury having occurred.",
+      "replacement": "“Young Master Jin, are you feeling unwell?”",
+      "severity": "minor",
+      "source": "line 357"
+    }
+  ],
+  "summary": "The chapter is highly faithful, with two minor fidelity defects.",
+  "version": 1
+}
