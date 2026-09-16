@@ -1,0 +1,437 @@
+{
+  "baseline_blocks": 186,
+  "baseline_sha256": "8751a3a0ba95c27f4a57bdb2a6420da9feb72b1cedb5297efb60bff25226fe43",
+  "global_terminology_alerts": [],
+  "hunk_count": 23,
+  "hunks": [
+    {
+      "baseline": "What the hell kind of quest was this? The Quest Grade had even been replaced with question marks.",
+      "baseline_paragraphs": "P7",
+      "baseline_range": [
+        6,
+        7
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "19",
+      "sol": "What the hell kind of quest was this? So bad that even the Quest Grade had been replaced with question marks.",
+      "sol_paragraphs": "P7",
+      "sol_range": [
+        6,
+        7
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "What kind of bullshit was that?",
+      "baseline_paragraphs": "P9",
+      "baseline_range": [
+        8,
+        9
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "23",
+      "sol": "Was that a sentence or a fart?",
+      "sol_paragraphs": "P9",
+      "sol_range": [
+        8,
+        9
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“It’s been a long time since I met someone who cared about common sense in the Murim. There’s Hundred-Year Snow Ginseng, so why wouldn’t there be an Herb of Eternal Youth?”",
+      "baseline_paragraphs": "P21",
+      "baseline_range": [
+        20,
+        21
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "55",
+      "sol": "“It’s been a long time since I met someone who cared about common sense in the Murim. There’s such a thing as thousand-year snow ginseng, so why wouldn’t there be an Herb of Eternal Youth?”",
+      "sol_paragraphs": "P21",
+      "sol_range": [
+        20,
+        21
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I almost let myself be persuaded, but I quickly came to my senses. Somehow, I had to convince this old man who looked like even a needle couldn’t get through him.",
+      "baseline_paragraphs": "P24",
+      "baseline_range": [
+        23,
+        24
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "61",
+      "sol": "I almost let myself be persuaded, but I quickly came to my senses. Somehow, I had to win over this stubborn old man who wouldn’t let even a needle through.",
+      "sol_paragraphs": "P24",
+      "sol_range": [
+        23,
+        24
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Then I’m thirsty. Bring me a bottle of gongcheong seokyu.[^1]”",
+      "baseline_paragraphs": "P30",
+      "baseline_range": [
+        29,
+        30
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "73",
+      "sol": "“Then, since I’m thirsty, bring me a bottle of gongcheong seokyu.[^1]”",
+      "sol_paragraphs": "P30",
+      "sol_range": [
+        29,
+        30
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "> **System**\n>\n> Quest **Get Gongcheong Seokyu, a Dragon’s Claw, and a Dragon Pearl** has been created.\n>\n> **Would you like to accept the Quest?**\n>\n> **Y / N**",
+      "baseline_paragraphs": "P36",
+      "baseline_range": [
+        35,
+        36
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "85",
+      "sol": "> **System**\n>\n> Quest **Get Gongcheong Seokyu, a Dragon’s Claw, and a Dragon Pearl** has been created.\n>\n> Would you like to accept the Quest?\n>\n> Y / N",
+      "sol_paragraphs": "P36",
+      "sol_range": [
+        35,
+        36
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "…Was I going to?",
+      "baseline_paragraphs": "P37",
+      "baseline_range": [
+        36,
+        37
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "87",
+      "sol": "…As if I would.",
+      "sol_paragraphs": "P37",
+      "sol_range": [
+        36,
+        37
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "Feeling my insides boil, I closed the Quest window. Hyuk Mujin covered his mouth and whispered,",
+      "baseline_paragraphs": "P38",
+      "baseline_range": [
+        37,
+        38
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "89",
+      "sol": "My insides boiling, I closed the Quest window. Hyuk Mujin covered his mouth and whispered,",
+      "sol_paragraphs": "P38",
+      "sol_range": [
+        37,
+        38
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I can hear you. You wet-behind-the-ears brat has a lot to say.”",
+      "baseline_paragraphs": "P40",
+      "baseline_range": [
+        39,
+        40
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "93",
+      "sol": "“I can hear you. You wet-behind-the-ears brat—there’s nothing you won’t say.”",
+      "sol_paragraphs": "P40",
+      "sol_range": [
+        39,
+        40
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Just as Jang Taebo was waving a fist the size of a cast-iron pot, Cheongpung suddenly raised his hand and shouted,",
+      "baseline_paragraphs": "P41",
+      "baseline_range": [
+        40,
+        41
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "95",
+      "sol": "Just as Jang Taebo was waving a fist the size of a pot lid, Cheongpung suddenly raised his hand and shouted,",
+      "sol_paragraphs": "P41",
+      "sol_range": [
+        40,
+        41
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I have nothing to do with Huashan. Well, I did make a sword at the request of the current Sect Leader of Huashan, Heavenly Sword True Person[^2], about thirty years ago. But that’s all.”",
+      "baseline_paragraphs": "P66",
+      "baseline_range": [
+        65,
+        66
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "151",
+      "sol": "“I have nothing to do with Huashan. Well, I did make a sword at the request of the current Sect Leader of Huashan, Heavenly Sword True Person,[^2] about thirty years ago. But that’s all.”",
+      "sol_paragraphs": "P66",
+      "sol_range": [
+        65,
+        66
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That’s why I’m refusing you. I’ve finished all the work I care to do. I’ve made swords until I’m sick of them.”",
+      "baseline_paragraphs": "P70",
+      "baseline_range": [
+        69,
+        70
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "159",
+      "sol": "“That’s why I’m refusing you. I’ve already done all the work worth doing. I’ve made swords until I’m sick of them.”",
+      "sol_paragraphs": "P70",
+      "sol_range": [
+        69,
+        70
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I had finally met a formidable opponent.",
+      "baseline_paragraphs": "P88",
+      "baseline_range": [
+        87,
+        88
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "195",
+      "sol": "I had met a formidable opponent after a long time.",
+      "sol_paragraphs": "P88",
+      "sol_range": [
+        87,
+        88
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Go on, spit it out.”",
+      "baseline_paragraphs": "P93",
+      "baseline_range": [
+        92,
+        93
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "205",
+      "sol": "“Go on, do your worst.”",
+      "sol_paragraphs": "P93",
+      "sol_range": [
+        92,
+        93
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I’ll leave that to your imagination. Oh, and you do know that martial artists will stake their lives on their weapons regardless of the level of their martial arts, right? I’m sure they’ll be happy to grant a small request of mine.”",
+      "baseline_paragraphs": "P104",
+      "baseline_range": [
+        103,
+        104
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "227",
+      "sol": "“I’ll leave that to your imagination. Oh, and you do know that martial artists will stake their lives on their weapons regardless of the level of their martial arts, right? I’m sure they’ll grant even a small request of mine without a second thought.”",
+      "sol_paragraphs": "P104",
+      "sol_range": [
+        103,
+        104
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Do you think the Guild Leader has that much time on his hands? He’s busy, too. Someone of your standing will have to wait several years at the very least.”",
+      "baseline_paragraphs": "P133",
+      "baseline_range": [
+        132,
+        133
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "285",
+      "sol": "“Do you think the Guild Leader has that much time on his hands? He’s busy, too. For someone like you, that’d mean waiting several years at the very least.”",
+      "sol_paragraphs": "P133",
+      "sol_range": [
+        132,
+        133
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What, did you think a weapon could be completed overnight? He’s not as good as me, but he has some skill of his own, so obviously his orders are backed up. Even if he picks and chooses what to accept, it still takes that long.”",
+      "baseline_paragraphs": "P135",
+      "baseline_range": [
+        134,
+        135
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "289",
+      "sol": "“What, did you think a weapon could be completed overnight? He’s not as good as me, but he’s a real craftsman, so obviously his orders are backed up. Even if he picks and chooses what to accept, it still takes that long.”",
+      "sol_paragraphs": "P135",
+      "sol_range": [
+        134,
+        135
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*When you’re old, you should just die. Young people these days have no manners.*",
+      "baseline_paragraphs": "P151",
+      "baseline_range": [
+        150,
+        151
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "321",
+      "sol": "“When you get old, you should just die. Young people these days have no manners.”",
+      "sol_paragraphs": "P151",
+      "sol_range": [
+        150,
+        151
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jang Taebo muttered loudly enough for us to hear and returned from inside with paper, ink, and a brush.",
+      "baseline_paragraphs": "P152",
+      "baseline_range": [
+        151,
+        152
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "323",
+      "sol": "Jang Taebo muttered, clearly intending for us to hear, then returned from inside with paper, ink, and a brush.",
+      "sol_paragraphs": "P152",
+      "sol_range": [
+        151,
+        152
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He took a quick look over my body, then reeled off one correction after another. He somehow estimated the size of my hands and the length of my arms and legs, then adjusted the thickness and shape of the spear shaft little by little.",
+      "baseline_paragraphs": "P160",
+      "baseline_range": [
+        159,
+        160
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "339",
+      "sol": "He took a quick look over my body, then reeled off one correction after another. He estimated the size of my hands and the length of my arms and legs with uncanny accuracy, then adjusted the thickness and shape of the spear shaft little by little.",
+      "sol_paragraphs": "P160",
+      "sol_range": [
+        159,
+        160
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "> **System**\n>\n> The Quest mission has been completed.\n>\n> Quest **Find the Master Artisan** has been successfully completed.\n>\n> A linked Quest has been created.",
+      "baseline_paragraphs": "P184",
+      "baseline_range": [
+        183,
+        184
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "387",
+      "sol": "> **System**\n>\n> Quest mission has been completed.\n>\n> Quest **Find the Master Artisan** has been successfully completed.\n>\n> A linked Quest has been created.",
+      "sol_paragraphs": "P184",
+      "sol_range": [
+        183,
+        184
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "[^1]: Gongcheong seokyu is a rare martial-arts elixir said to grant a jiazi of internal energy with a single drop; its name also carries a petroleum-related pun in Korean.",
+      "baseline_paragraphs": "P185",
+      "baseline_range": [
+        184,
+        185
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "389",
+      "sol": "[^1]: Gongcheong seokyu is a rare martial-arts elixir said to grant a jiazi (sixty years) of internal energy with a single drop; its name also carries a petroleum-related pun in Korean.",
+      "sol_paragraphs": "P185",
+      "sol_range": [
+        184,
+        185
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "[^2]: “Heavenly Sword True Person” is a Taoist-style title meaning a true person of the heavenly sword.",
+      "baseline_paragraphs": "P186",
+      "baseline_range": [
+        185,
+        186
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "391",
+      "sol": "[^2]: “True Person” is a Taoist honorific for a cultivator of high attainment.",
+      "sol_paragraphs": "P186",
+      "sol_range": [
+        185,
+        186
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "천검진인",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Heavenly Sword True Person"
+        }
+      ]
+    }
+  ],
+  "sol_blocks": 186,
+  "sol_sha256": "50b1e21b2a31a782797558aa7ff739d32800f654b83973fc06ea5e4bb4e01557",
+  "version": 1
+}

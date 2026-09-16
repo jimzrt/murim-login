@@ -30,11 +30,11 @@ Beep.
 >
 > You rejected the Quest.
 
-What the hell kind of quest was this? So bad that even the Quest Grade had been replaced with question marks.
+What the hell kind of quest was this? The Quest Grade had even been replaced with question marks.
 
 *What? “If you have about a thousand years left to live, it might not be a bad idea to give it a try”?*
 
-Was that a sentence or a fart?
+What kind of bullshit was that?
 
 At my incredulous stare, Jang Taebo stroked his beard.
 
@@ -58,13 +58,13 @@ Jang Taebo snatched the He Shou Wu from my hand and began chewing it with a cris
 
 “Is it really reasonable to ask someone to bring you the Herb of Eternal Youth?”
 
-“It’s been a long time since I met someone who cared about common sense in the Murim. There’s such a thing as thousand-year snow ginseng, so why wouldn’t there be an Herb of Eternal Youth?”
+“It’s been a long time since I met someone who cared about common sense in the Murim. There’s Hundred-Year Snow Ginseng, so why wouldn’t there be an Herb of Eternal Youth?”
 
 “…”
 
 That sounded surprisingly plausible.
 
-I almost let myself be persuaded, but I quickly came to my senses. Somehow, I had to convince this old man who wouldn’t let even a needle through.
+I almost let myself be persuaded, but I quickly came to my senses. Somehow, I had to convince this old man who looked like even a needle couldn’t get through him.
 
 “If there’s something else you need, I’ll get it for you. Anything you want. Just not something like the Herb of Eternal Youth.”
 
@@ -92,19 +92,19 @@ Ding.
 >
 > Quest **Get Gongcheong Seokyu, a Dragon’s Claw, and a Dragon Pearl** has been created.
 >
-> Would you like to accept the Quest?
+> **Would you like to accept the Quest?**
 >
-> Y / N
+> **Y / N**
 
-…As if I would.
+…Was I going to?
 
-My insides boiling, I closed the Quest window. Hyuk Mujin covered his mouth and whispered,
+Feeling my insides boil, I closed the Quest window. Hyuk Mujin covered his mouth and whispered,
 
 “I think the old man’s senile.”
 
-“I can hear you. You wet-behind-the-ears brat—there’s nothing you won’t say.”
+“I can hear you. You wet-behind-the-ears brat has a lot to say.”
 
-Just as Jang Taebo was waving a fist the size of a pot lid, Cheongpung suddenly raised his hand and shouted,
+Just as Jang Taebo was waving a fist the size of a cast-iron pot, Cheongpung suddenly raised his hand and shouted,
 
 “I’ll go find them! Let me do it!”
 
@@ -198,7 +198,7 @@ Jang Taebo roughly shook my hand away.
 
 “See you in the next life.”
 
-It had been a long time since I’d met a formidable opponent.
+I had finally met a formidable opponent.
 
 His way of screwing with people had been honed over decades. My fists trembled, and the back of my head throbbed.
 
@@ -230,7 +230,7 @@ This wasn’t how it was supposed to go. Just as I was thinking that, Jang Taebo
 
 “W-What are you planning to tell them?”
 
-“I’ll leave that to your imagination. Oh, and you do know that martial artists will stake their lives on their weapons regardless of the level of their martial arts, right? I’m sure they’ll grant even a small request of mine without a second thought.”
+“I’ll leave that to your imagination. Oh, and you do know that martial artists will stake their lives on their weapons regardless of the level of their martial arts, right? I’m sure they’ll be happy to grant a small request of mine.”
 
 “…”
 
@@ -292,7 +292,7 @@ I hurriedly raised my head and saw Jang Taebo’s gruff face. He continued,
 
 “Several years?”
 
-“What, did you think a weapon could be completed overnight? He’s not as good as me, but he’s a real craftsman, so obviously his orders are backed up. Even if he picks and chooses what to accept, it still takes that long.”
+“What, did you think a weapon could be completed overnight? He’s not as good as me, but he has some skill of his own, so obviously his orders are backed up. Even if he picks and chooses what to accept, it still takes that long.”
 
 Even so, several years?
 
@@ -324,9 +324,9 @@ Jang Taebo sighed at the sight of Cheongpung stuffing the dumplings we had bough
 
 “Mae Jonghak took in a strange one in his later years. Fine, wait here a moment.”
 
-“When you get old, you should just die. Young people these days have no manners.”
+*When you’re old, you should just die. Young people these days have no manners.*
 
-Jang Taebo muttered, clearly intending for us to hear, then returned from inside with paper, ink, and a brush.
+Jang Taebo muttered loudly enough for us to hear and returned from inside with paper, ink, and a brush.
 
 “First, the weapon is a spear… Do you have any thoughts about its shape or weight?”
 
@@ -342,7 +342,7 @@ Each time, Jang Taebo either nodded silently or added advice on how to make a sp
 
 Sixty years in the trade had not gone to waste.
 
-He took a quick look over my body, then reeled off one correction after another. He estimated the size of my hands and the length of my arms and legs with uncanny accuracy, then adjusted the thickness and shape of the spear shaft little by little.
+He took a quick look over my body, then reeled off one correction after another. He somehow estimated the size of my hands and the length of my arms and legs, then adjusted the thickness and shape of the spear shaft little by little.
 
 “All right, this is the last thing. Where are you planning to put the Ten-Thousand-Year Cold Iron? In the spearhead, presumably?”
 
@@ -398,6 +398,6 @@ Ding.
 >
 > A linked Quest has been created.
 
-[^1]: Gongcheong seokyu is a rare martial-arts elixir said to grant a jiazi (sixty years) of internal energy with a single drop; its name also carries a petroleum-related pun in Korean.
+[^1]: Gongcheong seokyu is a rare martial-arts elixir said to grant a jiazi of internal energy with a single drop; its name also carries a petroleum-related pun in Korean.
 
 [^2]: “Heavenly Sword True Person” is a Taoist-style title meaning a true person of the heavenly sword.

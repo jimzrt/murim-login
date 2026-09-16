@@ -64,7 +64,7 @@ Jang Taebo snatched the He Shou Wu from my hand and began chewing it with a cris
 
 That sounded surprisingly plausible.
 
-I almost let myself be persuaded, but I quickly came to my senses. Somehow, I had to convince this old man who wouldn’t let even a needle through.
+I almost let myself be persuaded, but I quickly came to my senses. Somehow, I had to win over this stubborn old man who wouldn’t let even a needle through.
 
 “If there’s something else you need, I’ll get it for you. Anything you want. Just not something like the Herb of Eternal Youth.”
 
@@ -76,7 +76,7 @@ I almost let myself be persuaded, but I quickly came to my senses. Somehow, I ha
 
 Jang Taebo nodded and opened his mouth.
 
-“Then I’m thirsty. Bring me a bottle of gongcheong seokyu.[^1]”
+“Then, since I’m thirsty, bring me a bottle of gongcheong seokyu.[^1]”
 
 “Pardon?”
 
@@ -154,7 +154,7 @@ Jang Taebo stared at Cheongpung with clear surprise before opening his mouth.
 
 “Ah…”
 
-“I have nothing to do with Huashan. Well, I did make a sword at the request of the current Sect Leader of Huashan, Heavenly Sword True Person[^2], about thirty years ago. But that’s all.”
+“I have nothing to do with Huashan. Well, I did make a sword at the request of the current Sect Leader of Huashan, Heavenly Sword True Person,[^2] about thirty years ago. But that’s all.”
 
 His firm voice continued.
 
@@ -162,7 +162,7 @@ His firm voice continued.
 
 “That’s why I’m asking you.”
 
-“That’s why I’m refusing you. I’ve finished all the work I care to do. I’ve made swords until I’m sick of them.”
+“That’s why I’m refusing you. I’ve already done all the work worth doing. I’ve made swords until I’m sick of them.”
 
 “I use a spear.”
 
@@ -198,7 +198,7 @@ Jang Taebo roughly shook my hand away.
 
 “See you in the next life.”
 
-It had been a long time since I’d met a formidable opponent.
+I had met a formidable opponent after a long time.
 
 His way of screwing with people had been honed over decades. My fists trembled, and the back of my head throbbed.
 
@@ -208,7 +208,7 @@ His way of screwing with people had been honed over decades. My fists trembled, 
 
 “I didn’t want to go this far…”
 
-“Go on, spit it out.”
+“Go on, do your worst.”
 
 “Should I spread the word? That the former Guild Leader of the Ironcraft Guild lives here?”
 
@@ -288,7 +288,7 @@ I hurriedly raised my head and saw Jang Taebo’s gruff face. He continued,
 
 “You mean the Guild Leader of the Ironcraft Guild, your disciple…”
 
-“Do you think the Guild Leader has that much time on his hands? He’s busy, too. Someone of your standing will have to wait several years at the very least.”
+“Do you think the Guild Leader has that much time on his hands? He’s busy, too. For someone like you, that’d mean waiting several years at the very least.”
 
 “Several years?”
 
@@ -392,7 +392,7 @@ Ding.
 
 > **System**
 >
-> The Quest mission has been completed.
+> Quest mission has been completed.
 >
 > Quest **Find the Master Artisan** has been successfully completed.
 >
@@ -400,4 +400,4 @@ Ding.
 
 [^1]: Gongcheong seokyu is a rare martial-arts elixir said to grant a jiazi (sixty years) of internal energy with a single drop; its name also carries a petroleum-related pun in Korean.
 
-[^2]: “Heavenly Sword True Person” is a Taoist-style title meaning a true person of the heavenly sword.
+[^2]: “True Person” is a Taoist honorific for a cultivator of high attainment.
