@@ -8,15 +8,15 @@ I answered the man striding toward me with a question of my own.
 
 *Shouldn’t you at least introduce yourself before asking me that?*
 
-My bewilderment must have shown on my face, because the man slid his dark sunglasses down, revealing handsome features and a lightly tanned face.
+My bewilderment must have shown on my face, because the man slid down his dark sunglasses, revealing handsome features and a lightly tanned face.
 
 “Park Jihoon.”
 
-Park Jihoon? Well, it wasn’t as if I had only met one or two people over the years.
+Park Jihoon? It wasn’t as if I’d only met one or two people over the years.
 
 More importantly, he didn’t look familiar at all.
 
-“I’m sorry, but I think you have me confused with someone else.”
+“Sorry, but I think you have me confused with someone else.”
 
 “No, I’m sure it’s you. Didn’t you go to Garam Middle School?”
 
@@ -26,13 +26,13 @@ That was the school I had attended. I’d moved away before graduating and lost 
 
 “Right? Garam Middle School. And you’re twenty-seven this year.”
 
-“Yes, that’s true, but…”
+“Yes, but…”
 
 “I knew it! Jin Taekyung, third year, Class Six!”
 
 He even remembered my year, class, and name when the first two were hazy even to me.
 
-At that point, I couldn’t deny it. I asked the sunglasses-wearing man, who was grinning from ear to ear,
+At that point, I had to believe him. I stared at the man in sunglasses, now grinning from ear to ear.
 
 “…You really know me?”
 
@@ -40,7 +40,7 @@ At that point, I couldn’t deny it. I asked the sunglasses-wearing man, who was
 
 Soccer? Getting smacked around by our homeroom teacher?
 
-I opened my mouth, wondering if it could really be him.
+A possibility occurred to me.
 
 “Park Jihwang?”
 
@@ -52,47 +52,47 @@ I didn’t know Park Jihoon, but I knew Park Jihwang.
 
 I never expected to run into an old middle school classmate here. A smile spread across my face.
 
-“Wow, of all places. Some guy I’d never seen before came over acting like he knew me, so I was wondering what was going on.”
+“Wow, of all places. Some guy I’d never seen before came over acting like he knew me, so I had no idea what was going on.”
 
 “You still should’ve recognized me. It’s not like we knew each other in kindergarten. It was only ten years ago.”
 
-“Even if it had only been five years, I wouldn’t have recognized you. Your face has changed too much.”
+“I wouldn’t have recognized you if it had been five. You look completely different.”
 
-“Has it? Ha-ha.”
+“Do I? Ha-ha.”
 
-There was no denying it. The scrawny kid with the dark complexion had turned into someone who could be called handsome wherever he went.
+There was no denying it. The scrawny, dark-skinned kid I remembered had grown into the kind of handsome man who would turn heads anywhere.
 
 “You didn’t just get better-looking. You filled out, too.”
 
 “Oh, good eye.”
 
-“That’s basic.”
+“That much is obvious.”
 
-As I recalled, he had been about a head shorter than me. Now our eye levels were roughly the same.
+As I recalled, he used to be a full head shorter than me. Now we were nearly eye to eye.
 
-“Damn, you really made it big.”
+“Damn, you really turned your life around.”
 
-An unrecognizably changed face, a solid build, a pretty girlfriend, and a foreign car that looked like it would easily cost well over a hundred million won.
+An unrecognizably handsome face, a solid build, a pretty girlfriend, and a foreign car that had to cost well over a hundred million won.
 
 Jihwang—or rather, Jihoon—had changed a great deal in the ten years since I’d last seen him, and I knew why.
 
 *This guy’s a Hunter, too.*
 
-Now that my Qi Sense had reached a higher realm, I could assess people even without using the System.
+Now that my Qi Sense had reached a higher realm, I could assess someone without relying on the System.
 
 *I guess you could say I can feel his qi.*
 
 He was definitely a Hunter. He seemed about as strong as Im Changsoo, perhaps even stronger.
 
-*A friend I haven’t seen in ten years turns out to be a Hunter. How strange.*
+*An old friend I haven’t seen in ten years turns out to be a Hunter. That’s something.*
 
-I could even use Qi Sense to read his Level, but I didn’t feel like going that far.
+I could have used Qi Sense to read his Level, but I didn’t feel the need to go that far.
 
-I had met an old friend in a place filled with memories. Right now, I was neither a Hunter nor a martial artist.
+I’d run into an old friend in a place full of memories. At that moment, I was neither a Hunter nor a martial artist.
 
-I was just an ordinary Jin Taekyung.
+I was simply Jin Taekyung.
 
-“Anyway, it’s really good to see you. You know I was really upset when we lost touch right after you transferred, right?”
+“Anyway, it’s really good to see you. You know I was pretty upset when you transferred and immediately dropped off the face of the earth, right?”
 
 “Were you? Things were pretty chaotic back then.”
 
@@ -100,39 +100,39 @@ I had been sixteen, right in the middle of adolescence, and my father had just d
 
 Once I entered high school, I devoted myself to training so I could attend a physical education college. Naturally, I lost touch with all my old friends.
 
-“Ah, right. Things were like that back then. I’m sorry.”
+“Ah, right. That was around then. Sorry.”
 
-Maybe he thought he had made a mistake, because Jihwang’s—or Jihoon’s—smile turned awkward.
+Realizing he’d put his foot in his mouth, Jihwang—no, Jihoon—gave an awkward smile.
 
 “What are you apologizing for? It’s my fault for not getting in touch sooner. Do you still live around here?”
 
 “My whole family lives in Seoul now. My girlfriend and I were on our way back from a trip, and I stopped by because this place came to mind.”
 
-“Wow. What a triumphant return.”
+“Wow. A triumphant return.”
 
-“Don’t make it sound so embarrassing. I still have a long way to go before I can call myself successful.”
+“Don’t put it like that. I’ve still got a long way to go before I can call myself successful.”
 
-“You’ve already succeeded plenty. What more could you want?”
+“You look plenty successful to me. What more could you want?”
 
 We kept talking and laughing. Most of our conversation was about memories from middle school, but that alone made for an enjoyable time.
 
-A considerable amount of time passed before Jihoon’s girlfriend subtly hinted that her legs were hurting.
+Quite a while had passed by the time Jihoon’s girlfriend began pointedly complaining that her legs hurt.
 
 “Oppa, my legs hurt.”
 
-“Hm? Then do you want to wait in the car? I’ll talk a little longer and be right there.”
+“Hm? Want to wait in the car? I’ll talk a little longer and then we’ll go.”
 
 “…Is that really what you should be saying?”
 
-I had no intention whatsoever of interfering with my friend’s love life, so I took the hint and waved him off.
+I had no intention of interfering with my friend’s love life, so I took the hint and waved him off.
 
-“No, let’s talk about the rest next time.”
+“No, we can finish catching up next time.”
 
-“Next time? Didn’t you say something like that ten years ago, too? ‘I’ll contact you next time.’ Then you left and never contacted me once.”
+“Next time? Didn’t you say something like that ten years ago? ‘I’ll call you next time.’ Then you left and never contacted me once.”
 
-Put that way, I had nothing to say. As I smacked my lips, Jihoon held out a business card.
+Put that way, I had no defense. As I smacked my lips, Jihoon held out a business card.
 
-“Forget it. Call this number right now.”
+“Never mind. Call this number right now.”
 
 > Myeongdong Guild, Team 1  
 > Hunter Park Jihoon
@@ -149,51 +149,51 @@ Bzzzz.
 
 Jihoon checked his smartphone and grinned.
 
-“I’ll call you. We have to grab a drink sometime.”
+“I’ll call you. We need to grab a drink sometime.”
 
 “We’ll see. If I’m busy, I can’t make it. If I’m free, I’ll come.”
 
-“What kind of answer is that? You came up at the last class reunion. People were asking what you were up to.”
+“What kind of answer is that? You came up at our last class reunion, you know. Everyone was wondering what you were up to.”
 
 “They talked about me?”
 
-“Why do you sound so surprised? You were popular with the other kids.”
+“Why do you sound so surprised? You were popular.”
 
-“Was I? I spent all day on the field, so I guess I was friendly with the boys, at least.”
+“Was I? I spent all day on the field, so I guess I was pretty close with the boys.”
 
 “You were popular with the girls, too. A few of them had crushes on you. You seriously never noticed?”
 
 “…Really?”
 
-“Everyone in the class knew. Why were you the only one who didn’t?”
+“Everyone in class knew. How were you the only one who didn’t?”
 
-*Damn. They should’ve told me sooner…*
+*Damn it. They should’ve told me sooner…*
 
 Not that it mattered now that I had Ms. Songi. I was a one-woman man. Now that I’d met my destined partner, none of that mattered.
 
-“We’re planning to get together soon, so come if I call you. You can see your fan club’s faces, too. Okay?”
+“We’re planning to get everyone together soon. Come when I call. You can see the faces of your old fan club, too. Okay?”
 
 “O-Okay.”
 
-*Yeah, I’m only going to see their faces. They’re just old classmates.*
+*Right. I’m only going to see their faces. They’re just old classmates.*
 
-Jihoon gave me a quiet laugh, then stopped as he was opening the driver’s-side door.
+Jihoon let out a quiet laugh, then paused with his hand on the driver’s-side door.
 
 “It was good seeing you.”
 
 “Huh? Oh, yeah.”
 
-“See you again.”
+“See you around.”
 
 Vroom.
 
-As I watched the car disappear with the roar of its large engine, a thought suddenly occurred to me.
+As I watched the car roar away, a thought suddenly occurred to me.
 
 “Were we really that close?”
 
 * * *
 
-“You two really looked like childhood best friends.”
+“You two looked like lifelong best friends.”
 
 “Who? Oh, Taekyung?”
 
@@ -201,17 +201,17 @@ As I watched the car disappear with the roar of its large engine, a thought sudd
 
 “What’s with that tone? You didn’t like him?”
 
-“Yeah. I didn’t want to say it because he’s your friend, Oppa, but honestly, he was kind of off.”
+“No. I didn’t want to say anything because he’s your friend, Oppa, but honestly, there was something off about him.”
 
-“That’s strange. He was really popular when he was young.”
+“That’s strange. He was really popular when we were younger.”
 
 “Why?”
 
 “Plenty of reasons. He was tall, well-built, and great at sports. He was fairly handsome, too. His only problem was that he was completely oblivious when it came to romance.”
 
-“Hmm. I didn’t care for him. Doesn’t he look too much like a complete unemployed bum? What does he do for a living?”
+“Hmm. I didn’t care for him. Doesn’t he look like a total bum? What does he do?”
 
-“Hmm. I forgot to ask. He dreamed of becoming a physical education teacher when he was young, so maybe he went into that field.”
+“Hmm. I forgot to ask. He wanted to become a physical education teacher when we were kids, so maybe he went into that field.”
 
 “He’s a twenty-seven-year-old man, so… Is he still in college? Studying for an exam?”
 
@@ -239,23 +239,23 @@ The real estate agent’s voice was thick with phlegm. He had chain-smoked for a
 
 “It’s nice.”
 
-I wasn’t just being polite. The two-story detached house with a broad lawn was better than any house I had seen so far.
+I wasn’t just being polite. The two-story detached house with its broad lawn was better than any home I’d seen before.
 
 *Four bedrooms, two bathrooms, and a spacious living room.*
 
 It looked like something straight out of a fairy tale. I toured the house while half-listening to the real estate agent’s detailed explanations, then stepped out through the front gate.
 
-“Listings like this are hard to find. The current owner has several buildings, but he’s putting this one up as a quick sale because he’s planning to put up another building in Incheon.”
+“Listings like this are hard to find. The owner has several properties, but he needs a quick sale because he’s putting up a building in Incheon.”
 
-“So what’s the market price?”
+“So what’s the price?”
 
 “Exactly what you saw online. 3.38 billion won.”
 
-It was still an amount that made me want to swear, but the house was worth every bit of it.
+The number still made me want to swear, but the house was worth it.
 
-For my family’s safety, and because this place held special meaning for us.
+It would keep my family safe, and this place held a special meaning for us.
 
-“Please contact me.”
+“Contact the owner.”
 
 “Then…?”
 
@@ -265,11 +265,11 @@ For my family’s safety, and because this place held special meaning for us.
 
 I firmly clasped the hand he offered me.
 
-“Since we’re on the subject, would it be all right if I took another look around the neighborhood?”
+“On that note, could I take one more walk around the neighborhood?”
 
 “…”
 
-“I’m joking.”
+“I’m kidding.”
 
 Look at how hard he was squeezing my hand over one little joke.
 
@@ -281,29 +281,29 @@ Look at how hard he was squeezing my hand over one little joke.
 
 I left the real estate office after putting down a ten-percent deposit. The owner and I had agreed to set a date soon and proceed with the formal purchase. Since he needed cash quickly, everything had been settled without delay.
 
-*I’ll have to put off moving for a while.*
+*We’ll have to put off the move.*
 
 The new house was about an hour from where my family currently lived. Even after buying it, moving in right away would be difficult.
 
 More importantly, Hayeon had her college entrance exam this year.
 
-I would surprise them with the news immediately afterward.
+I would surprise everyone with the news once it was over.
 
 *I’ll need to remodel the place, too.*
 
-I intended to make it as similar as possible to our old home. It had happened a very long time ago, but perhaps because we had lived there for sixteen years, I remembered the layout perfectly.
+I planned to make it resemble our old home as closely as possible. It had been a long time, but perhaps because I’d lived there for sixteen years, I still remembered the layout perfectly.
 
-*I’ll sign the formal contract and find an interior contractor… What else is there?*
+*I need to sign the final contract, find an interior contractor… What else?*
 
 I knew how to thrust a spear inside a Gate, but I was a complete novice when it came to any of this. I had no idea where to begin.
 
-I was turning into a dark alley while thinking about this and that when—
+I was mulling it over as I entered a dark alley when—
 
 *Hm?*
 
 The back of my neck prickled. My fine hairs stood on end, and the air seemed to shift.
 
-I sensed someone secretly watching me from behind.
+I could feel someone watching me from behind.
 
 *Open Inventory. Summon.*
 
@@ -315,9 +315,9 @@ Meow.
 
 Meow.
 
-A mottled cat jumped down from the wall.
+A mottled cat leaped down from the wall.
 
-It glanced at me, then slowly wandered away.
+It glanced at me before slowly wandering away.
 
 *Did I overreact?*
 
@@ -335,9 +335,9 @@ Beep.
 
 If the System said there was nothing, then there was nothing. I must have been especially tired lately.
 
-“Ah, now I suddenly have a craving for samgyetang.[^1]”
+“Damn, now I’m craving samgyetang.[^1]”
 
-Since I had thought of it, maybe I should go out to eat with the whole family.
+Since the thought had occurred to me, maybe I should take the whole family out for dinner.
 
 The thought of tender chicken and piping-hot broth put a spring in my step.
 
@@ -349,25 +349,25 @@ In a dark, cramped room, a young man deep in meditation snapped his eyes open.
 
 “Gasp!”
 
-His hair stuck out in every direction, soaked with sweat, and his breathing was ragged. He hurriedly gulped bottled water, then let out a relieved sigh.
+His unruly hair was soaked with sweat, and his breathing came in ragged gasps. He gulped down some bottled water and let out a relieved sigh.
 
-“Fuck, that scared me.”
+“Holy fuck, that scared me.”
 
 Everything had gone smoothly. In fact, it had been downright boring.
 
-The investigation target happened to be on vacation, and his movements were predictable. Home, convenience store, home. Today, he had traveled as far as an hour away, but tracking him had still been no trouble.
+His target happened to be on vacation, and his routine was predictable. Home, convenience store, home. Today, he had traveled an hour away for once, but following him had still been easy.
 
 But then…
 
-“What the fuck was that? Why did that bastard suddenly turn around and start pulling that shit?”
+“What the fuck is wrong with that bastard? Why’d he suddenly whip around like that?”
 
-The moment he saw that sharp gaze, his heart had dropped. If he had not hurriedly severed the Link with the cat, he might really have been discovered.
+His heart had nearly stopped the instant he saw that piercing gaze. If he hadn’t hurriedly severed the Link with the cat, he might actually have been discovered.
 
 “He didn’t know, did he?”
 
 The target was only a C-rank Hunter. Compared to the people he had investigated before, the man was far beneath them.
 
-*There’s no way. Who do you think I am?*
+*Of course not. Who do you think I am?*
 
 Hong Woojin, a B-rank mage and information broker, shook his head.
 
@@ -375,4 +375,4 @@ He was a master of tracking and surveillance magic. He couldn’t cast flashy of
 
 “That’s right. There’s no way. It was just a coincidence. A coincidence.”
 
-Hong Woojin muttered the words like a mantra. Anxiety lingered in his voice.
+Hong Woojin repeated the words like a mantra, but anxiety had crept into his voice.
