@@ -40,7 +40,7 @@ Temur did not need to answer. The Human Butcher revealed the man’s identity fo
 
 “That’s why people call you the Butcher. Tsk, tsk.”
 
-Temur and Chinggen realized who the middle-aged man was, and their eyes went wide.
+Temur and Chinggen finally realized who the middle-aged man was, and their eyes went wide.
 
 “Black Sand? The Black Sand Band?”
 
@@ -60,7 +60,7 @@ There were only a hundred of them, but every single one was said to be a master 
 
 To think the leader of the Black Sand Band was such a frivolous man.
 
-Chinggen was astounded.
+Chinggen clicked his tongue in disbelief.
 
 *So that’s why that vicious Human Butcher didn’t react when he was called a butcher.*
 
@@ -70,7 +70,7 @@ But…
 
 “Why are you here?”
 
-Once his surprise had subsided, Temur also looked at Black Sand suspiciously.
+Once his surprise had subsided, Temur, too, directed a look of doubt at Black Sand.
 
 “I’d like to ask you the same thing.”
 
@@ -98,7 +98,7 @@ Unlike Temur, who was bewildered, Chinggen seemed to have figured out the situat
 
 “You have a frightening look in your eyes. How am I supposed to say anything with you staring at me like that? Still, now that you’re here, there’s no secret worth hiding. I’ll tell you.”
 
-Still being shameless, Black Sand went on.
+As shameless as ever, Black Sand went on.
 
 “The Heavenly Wind Band Leader has been wandering around near Datong under my orders, drawing attention.”
 
@@ -134,7 +134,7 @@ The letter, tied to an arrow and shot to them, contained one short line.
 
 A khan! The ruler of the steppe, a great king commanding countless warriors.
 
-The very word made their blood boil. All the more so for two young, strong chieftains who dreamed of restoring their clans to glory.
+The very word made their blood boil. All the more so for two young, strong chieftains who dreamed of restoring their clan’s former glory.
 
 “The steppe is fractured into pieces these days. It’s hard to believe when you think of the glorious great empire founded by your ancestors.”
 
@@ -218,7 +218,7 @@ After the two men exchanged a tense battle of wills and sheathed their weapons a
 
 “What do you mean?”
 
-“We just have to finish the job like a bolt of lightning—too fast for anyone to react.”
+“We just have to strike like a bolt of lightning—too fast for anyone to react.”
 
 “Do you think that’s possible? Shanxi Province is practically already in the hands of the Jin Family of Taiyuan. Even if we break through Datong, the family’s main force and countless small and medium-sized sects will be waiting by then.”
 
@@ -278,13 +278,13 @@ Black Sand. The Human Butcher. Temur and Chinggen.
 
 All four of the people gathered here were exceptional Peak masters.
 
-According to the Human Butcher, who had personally met the dead Pung Yang, no one here had weaker martial arts than he did.
+According to the Human Butcher, who had personally met the dead Pung Yang, not one of them ranked below him in martial skill.
 
 *But the Heaven Shaking Sword and the Sleeping Dragon of Shanxi from the Jin Family of Taiyuan only barely defeated Pung Yang after joining forces.*
 
 That had already been confirmed as fact.
 
-Pung Yang had even defeated the Tiger of Mount Heng, a veteran of the martial world. As a result, rumors had spread that the mounted bandits of the northern plateau were stronger than most First Rate martial artists.
+Pung Yang had even defeated the Tiger of Mount Heng, known as an old hand of the martial world. As a result, rumors had spread that the mounted bandits of the northern plateau were stronger than most First Rate martial artists.
 
 *Could this actually be…?*
 
