@@ -1,14 +1,14 @@
 # Chapter 117
 
-Jin Mukyung had learned countless martial arts over the years. They ranged from Peak-level arts that had once defined an era to Third Rate martial arts easily found even at a street stall in some backwater village.
+Jin Mukyung had learned countless martial arts over the years. They ranged from Peak-level arts that had once defined an era to Third Rate martial arts easily found at a street stall in some backwater village.
 
-But at this very moment, he realized something.
+But at that moment, he realized something.
 
 *It’s strong. Stronger than any martial art I’ve ever learned.*
 
 Fwoooosh.
 
-A curved saber descended with the force of a single slash cleaving something in two.
+A curved saber descended with enough force to cleave anything in two.
 
 It wasn’t a Supreme Peak art like the Nangong Family’s Emperor Sword Form or Huashan’s Plum Blossom Sword Technique. This was the first move of the Three Calamities Sword Technique, Mount Tai Presses Down on the Crown—a move even a Third Rate street thug would know.
 
@@ -22,17 +22,17 @@ In that split second, Jin Mukyung threw himself aside without hesitation.
 
 Shraaaaak!
 
-The saber qi grazed his clothes by a hair before striking the ground. The sight of the earth splitting wide open without a single boom or tremor sent a shiver through him.
+The saber qi grazed his clothes by a hair before striking the ground. The sight of the earth splitting wide open without a single boom or tremor was enough to send a shiver through him.
 
 “You dodged that?”
 
-But Pung Yang was dissatisfied with the result.
+Pung Yang was dissatisfied with the result.
 
 That had been an all-out attack. Even after drawing out 120 percent of the Temporary Strength Pill’s effects, he hadn’t managed to leave so much as a scratch on Jin Mukyung.
 
-*The Tiger of Mount Heng could barely parry that.*
+*The Tiger of Mount Heng could barely counter that.*
 
-Even Cheol Mubaek, a fully mature Peak master, had suffered internal injuries and been forced to retreat in exchange for blocking it. So how had a brat not even thirty years old managed this?
+Even Cheol Mubaek, a seasoned Peak master, had suffered internal injuries and been forced to retreat after blocking it. So how had a brat not even thirty years old managed this?
 
 “So you do live up to the name Heaven Shaking Sword?”
 
@@ -72,17 +72,17 @@ Unable to make sense of the absurd joke, Pung Yang asked without thinking, “Th
 
 “What does that mean?”
 
-That was when Pung Yang felt a faint sense of puzzlement.
+Just as Pung Yang began to wonder—
 
 Shiiiiing!
 
 A sharp aura came from behind him.
 
-He turned around, and the face of a handsome young man was reflected in his red eyes.
+He spun around, and the face of a handsome young man was reflected in his red eyes.
 
 *The Sleeping Dragon of Shanxi.*
 
-Within the slow flow of time, Jin Taekyung grinned. The iron spear in his hands was already hurtling toward Pung Yang’s chest.
+As time slowed to a crawl, Jin Taekyung grinned. The iron spear in his hands was already hurtling toward Pung Yang’s chest.
 
 KABOOM!
 
@@ -102,9 +102,9 @@ But then…
 
 “You should’ve picked your opponent more carefully before charging in.”
 
-A low voice like the growl of a beast.
+The voice was low, like the growl of a beast.
 
-Pung Yang was surrounded by a curtain of qi as red as his eyes. It had completely blocked the vortex unleashed by One Annihilation, and now writhed like living armor.
+Pung Yang was surrounded by a curtain of qi as red as his eyes. It had completely blocked the vortex unleashed by One Annihilation and now writhed like living armor.
 
 *What did wuxia novels call something like this again?*
 
@@ -118,17 +118,17 @@ Oh, right. I remembered. I barely managed to move my lips.
 
 Sword Energy and Sword Force weren’t enough, and now he had Body-Protecting Qi too?
 
-As I stood there dumbfounded, the sight before my eyes going dark, Pung Yang curled up the corner of his mouth.
+I stood frozen, my vision going dark. Pung Yang curled one corner of his mouth.
 
 “It’s too late for regrets.”
 
 Whoosh!
 
-A strand of saber qi shot up from his curved saber and sliced off a clump of my hair. I had bent at the waist just in time. If I had been even slightly slower, it would have been my head that was cut off.
+A strand of saber qi shot from his curved saber and sliced off a clump of my hair. I had ducked just in time. If I’d been even slightly slower, it would have been my head.
 
 *Fuck.*
 
-I swallowed the curse trying to burst out and flung myself away. No sooner had I done so than savage saber strikes shredded the place where I had been standing.
+I swallowed the curse rising in my throat and flung myself away. The instant I moved, savage saber strikes shredded the spot where I had been standing.
 
 Shh-shh-shh-shhk!
 
@@ -136,25 +136,25 @@ The problem was that every strand of saber qi was unbelievably powerful. The sig
 
 *One wrong move and I’m really going to die.*
 
-Even A-rank magic armor wouldn’t have been enough here, yet I was fighting in nothing but a scrap of cloth. This was the very definition of walking on thin ice.
+Even A-rank magical armor might not have been enough here, yet I was fighting in nothing but a scrap of cloth. This was the very definition of walking on thin ice.
 
-More than anything else…
+More importantly…
 
 *Doesn’t that bastard ever get tired?*
 
 Maintaining Body-Protecting Qi alone had to consume a tremendous amount of internal energy, but right now, Pung Yang seemed like an inexhaustible spring.
 
-“I heard you two were brothers, but the way you run away like rats is exactly the same.”
+“I heard you two were brothers. The way you both run like rats really is identical.”
 
-That was when a voice came from behind him.
+A voice came from behind him.
 
 “That’s not particularly pleasant to hear.”
 
-Jin Mukyung appeared out of nowhere and scattered a flurry of sword strikes. A streak of blue light shot straight toward Pung Yang’s neck.
+Jin Mukyung appeared without warning and swung his sword. A streak of blue light shot straight toward Pung Yang’s neck.
 
 Clang!
 
-But even Jin Mukyung’s Sword Energy, which seemed capable of cutting through anything, couldn’t pierce the Body-Protecting Qi. Pung Yang leisurely rubbed the spot on his neck where the Sword Energy had struck.
+But even Jin Mukyung’s Sword Energy, which looked capable of cutting through anything, couldn’t pierce the Body-Protecting Qi. Pung Yang casually rubbed the spot on his neck where the Sword Energy had struck.
 
 “A little stiff. Is that all?”
 
@@ -162,25 +162,25 @@ But even Jin Mukyung’s Sword Energy, which seemed capable of cutting through a
 
 Shiiiiing!
 
-As Jin Mukyung charged in without hesitation, the curved saber in Pung Yang’s hand moved at the same time. The aura was so powerful that I could feel the flow of the air change.
+Jin Mukyung charged without hesitation, and the curved saber in Pung Yang’s hand moved at the same time. Their auras were so powerful that I could feel the flow of the air change.
 
 This wasn’t a fight I could interfere in.
 
 Whoosh!
 
-At last, the moment Jin Mukyung’s blue Sword Energy met Pung Yang’s red saber qi, a tremendous wave of force erupted along with a boom loud enough to make my ears ring.
+The instant Jin Mukyung’s blue Sword Energy met Pung Yang’s red saber qi, a tremendous wave of force erupted with a boom loud enough to make my ears ring.
 
 KABOOM!
 
-Most of the people standing firmly on both feet lost their balance and staggered.
+Most of those standing nearby lost their balance and staggered.
 
-But I widened my eyes and watched the result of this incredible clash.
+But I kept my eyes wide open, watching for the result of that incredible clash.
 
 *Which one?*
 
 Through the dust swirling from the impact, I saw two people facing each other.
 
-A sword and saber reduced to nothing but their hilts. Tightly pressed lips.
+Their sword and saber had been reduced to nothing but hilts. Their lips were pressed tightly shut.
 
 Pung Yang was the first to break the brief silence.
 
@@ -188,21 +188,21 @@ The bastard on his knees spat out dark red blood.
 
 “Urgh—bleeeargh!”
 
-A small cheer rose through the battlefield. Jin Mukyung stood proudly while Pung Yang knelt on the ground. The winner of this fierce battle had been decided.
+A small cheer rose across the battlefield. Jin Mukyung stood tall while Pung Yang knelt on the ground. The outcome of this fierce battle had been decided.
 
 *We won.*
 
-I hadn’t been able to see the entire exchange, but there was no doubt that Pung Yang had suffered internal injuries first.
+I hadn’t seen the entire exchange, but Pung Yang must have been the first to suffer internal injuries.
 
 The proof was the distinct palm print stamped across his chest—something that hadn’t been there before. That had probably been the decisive blow.
 
 “Cough, cough.”
 
-Pung Yang wiped the blood from the corner of his mouth and staggered to his feet.
+Pung Yang wiped the blood from his mouth and staggered to his feet.
 
 “Striking the Ox Across the Mountain.[^2] Even so, I never expected my Body-Protecting Qi to break so easily… Was my enlightenment lacking?”
 
-When Jin Mukyung gave him no answer, Pung Yang clicked his tongue.
+Jin Mukyung gave no answer. Pung Yang clicked his tongue.
 
 “Damn it. Even after using the Temporary Strength Pill, I’ve ended up like this. I suppose I’ll have to hole up in some remote mountain valley and train my martial arts for a while.”
 
@@ -218,21 +218,21 @@ Since we’d been invited to a housewarming, should I at least bring a box of ti
 
 “Uh, us?”
 
-“Yes. I need the martial arts formulas you know from the Jin Family of Taiyuan. They should be a great help in supplementing the violent qi circulation of the Crimson Blood Cultivation Technique.”
+“Yes. I need the martial arts formulas you know from the Jin Family of Taiyuan. They should help me compensate for the violent qi circulation of the Crimson Blood Cultivation Technique.”
 
-After hearing that much, the words that had been lingering on the tip of my tongue came out on their own.
+Once I’d heard that much, the words lingering on the tip of my tongue slipped out on their own.
 
 “Are you, by any chance, a lunatic?”
 
-I hadn’t checked, but everyone probably wore the same expression I did.
+I hadn’t checked, but everyone probably had the same look on their face as I did.
 
-The battle had already clearly decided its winner, and yet—what?
+The winner had already been decided, and yet—what?
 
 “Forget training in some remote mountain valley. I’ll send you on a filial-piety tour of Mount Beimang. You can train there.”[^3]
 
 “Mount Beimang? You think you can send me there?”
 
-“Even if it isn’t me personally, there are plenty of people behind you who can send you to Mount Beimang.”
+“Even if I can’t do it myself, there are plenty of people behind you who can.”
 
 I jerked my chin toward the people behind him.
 
@@ -242,7 +242,7 @@ The beautiful woman among them, glaring at him with especially venomous hatred, 
 
 *This man isn’t going to die peacefully.*
 
-It was time for him to pay for the karma of his past misdeeds. I flicked my spear toward Pung Yang.
+It was time for him to pay for all the evil he had done. I gestured at Pung Yang with my spear.
 
 “Still going to keep spouting nonsense?”
 
@@ -250,7 +250,7 @@ The bastard stared at us for a moment before speaking.
 
 “I think you’re laboring under a serious misconception.”
 
-The laugh in his voice was impossible to hide.
+The laughter in his voice was impossible to hide.
 
 “Is there anyone among you capable of defeating me?”
 
@@ -264,7 +264,7 @@ Only then did I realize why he hadn’t said a word for some time. Why he had st
 
 Tap.
 
-Pung Yang’s hand touched Jin Mukyung’s chest. At what point had it happened? His unconscious body crumpled limply.
+Pung Yang’s hand touched Jin Mukyung’s chest. How long had it been? His unconscious body crumpled limply to the ground.
 
 Only then did I see the five throwing knives embedded in a neat row across his upper body.
 
@@ -272,17 +272,17 @@ Thud.
 
 Pung Yang’s red eyes swept across the silent crowd and curved into crescent moons.
 
-“Well, shall we finish things up?”
+“Well, shall we finish this?”
 
 * * *
 
 The “finishing” began quickly.
 
-It started with the more than ten throwing knives that shot from Pung Yang’s sleeve as he approached us at an easy pace.
+It started with the dozen or so throwing knives that shot from Pung Yang’s sleeve as he approached us at an easy pace.
 
 Whoosh! Thunk-thunk-thunk!
 
-It might have been a close-range attack, but it was a throwing-knife technique that even Jin Mukyung hadn’t been able to evade. Pung Yang’s knives pierced their targets with perfect accuracy, and screams rang out without fail.
+It might have been at close range, but this was a throwing-knife technique even Jin Mukyung had failed to evade. Pung Yang’s knives pierced their targets with perfect accuracy, and screams rang out one after another.
 
 “Urgh.”
 
@@ -306,31 +306,31 @@ I fell silent at Pung Yang’s sneer. He wasn’t wrong. My decision to block hi
 
 *But how do I take him down?*
 
-My mind felt like it was burning itself blank. Amid all the tangled thoughts, two faces surfaced.
+My mind felt as though it were burning itself blank. Amid the tangled thoughts, two faces surfaced.
 
-The first was the Head Elder. He had been the most powerful and despair-inducing opponent I had ever faced. But back then, I’d had Jin Wikyung and the martial artists of the Jin Family to help me.
+The first was the Head Elder. He had been the strongest and most hopeless opponent I’d ever faced. But back then, I’d had Jin Wikyung and the martial artists of the Jin Family to help me.
 
 *What about now?*
 
 No one. There was no one.
 
-After taking the Temporary Strength Pill, Pung Yang had to be a master comparable to, or even stronger than, the Head Elder. And the only person left to face him was me.
+After taking the Temporary Strength Pill, Pung Yang had to be comparable to the Head Elder, if not stronger. And the only person left to face him was me.
 
 That naturally brought the second person to mind.
 
 *Jopil, One Question, One Kill.*
 
-Perhaps Jopil was the person who had forced me to face a genuine crisis. For the first time, I’d lost one of the subordinates I’d gained in the Murim, and I’d nearly died. Only after that had I managed to defeat the bastard.
+Perhaps Jopil was the one who had put me through my first true crisis. I had lost one of the subordinates I’d gained in the Murim for the first time, and I’d come within an inch of death. Only then had I managed to defeat the bastard.
 
 But the Pung Yang standing before me was on an entirely different level from Jopil.
 
 *This goddamn Temporary Strength Pill…*
 
-The more I thought about it, the more curses came out. I wanted to see the face of whatever son of a bitch had made it.
+The more I thought about it, the more I wanted to curse. I wanted to see the face of whatever son of a bitch had made it.
 
-“Once you’ve learned your place, curl up quietly.”
+“Now that you understand your place, crawl off somewhere and keep quiet.”
 
-Watching Pung Yang act like the greatest master under heaven simply because he trusted that pill twisted my gut. If he’d only been around Jopil’s level, I might have found a way to deal with him…
+Watching Pung Yang act like the greatest master under heaven just because he had that pill twisted my gut. If he’d only been around Jopil’s level, I might have found some way to deal with him…
 
 *…Wait.*
 
@@ -360,7 +360,7 @@ Pung Yang, who had already walked past me, stopped and turned around.
 
 “…What?”
 
-I looked straight at his face, mottled with bewilderment and fury, and enunciated each word.
+I looked straight at his face, mottled with bewilderment and fury, and enunciated every word.
 
 “I asked if you enjoyed taking pills all by yourself.”
 
