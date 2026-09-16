@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The perpetrator, still embracing his victim as he trembled in pain, shouted,",
+      "defect": "The English grammar makes the perpetrator the person trembling, while the source says the victim is trembling in pain.",
+      "id": "F01",
+      "rationale": "고통에 몸을 부르르 떠는 modifies 피해자, not 가해자.",
+      "replacement": "Still embracing the victim trembling in pain, the perpetrator shouted,",
+      "severity": "minor",
+      "source": "lines 179–181"
+    },
+    {
+      "confidence": 0.98,
+      "current": "I had already decided to use it as a second-worst contingency for the worst possible moment—when I was facing death.",
+      "defect": "“Second-worst” describes a ranking of bad contingencies rather than the source’s lesser-evil choice.",
+      "id": "F02",
+      "rationale": "차악 means the lesser evil chosen against the worst outcome, not literally the second-worst option.",
+      "replacement": "I had already decided to use it as a lesser-evil contingency for the worst possible moment—when I was facing death.",
+      "severity": "minor",
+      "source": "line 281"
+    },
+    {
+      "confidence": 0.96,
+      "current": "the licorice in every medicine shop",
+      "defect": "This mechanically translates the components of 약방의 감초 without conveying its idiomatic function: an indispensable, ubiquitous fixture.",
+      "id": "F03",
+      "rationale": "약방의 감초 refers figuratively to something that invariably appears or plays a staple supporting role; the binding rules require idioms to be translated by function.",
+      "replacement": "the indispensable ingredient in every prescription",
+      "severity": "minor",
+      "source": "line 329"
+    },
+    {
+      "confidence": 0.94,
+      "current": "Don’t all the blood vessels in the user’s body burst after two shichen, killing them?",
+      "defect": "“All” adds an absolute quantity absent from the source.",
+      "id": "F04",
+      "rationale": "전신의 혈맥 means blood vessels or channels throughout the body, not explicitly every individual vessel.",
+      "replacement": "Don’t the blood vessels throughout the user’s body burst after two shichen, killing them?",
+      "severity": "minor",
+      "source": "line 347"
+    }
+  ],
+  "summary": "The chapter is broadly faithful, with four minor semantic defects involving agency, an idiom, risk framing, and quantity.",
+  "version": 1
+}
