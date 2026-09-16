@@ -1,0 +1,1033 @@
+# Master Edit Task — Chapter 114
+
+# Master Editorial Brief
+
+You are the final English-language editor of an existing Korean-to-English novel translation.
+
+The Korean source is the authority for meaning. The existing English is the baseline you are editing, not a draft to discard. Your task is to make the chapter read like professionally written native English commercial fiction while preserving the author's exact story, characterization, humor, register, pacing, ambiguity, and cultural texture.
+
+## Editorial authority
+
+You may freely recast sentences and paragraphs when the English is stiff, literal, repetitive for accidental reasons, awkwardly collocated, over-explained, or syntactically shaped by Korean. You may tighten dialogue, improve rhythm, repair transitions, and make action easier to follow. A technically correct sentence may still need rewriting if a fluent English novelist would not naturally phrase it that way.
+
+Do not change text merely to make it different. If the baseline is already strong, leave it alone.
+
+The accepted baseline is also the project's style and terminology anchor. Do not
+replace an established rendering, cultural term, System label, Markdown form, or
+recurring phrase with a synonym merely because the synonym sounds smoother.
+Make that change only when the Korean source, `RULES.md`, or the exact glossary
+requires it. In particular, do not turn a source-specific image into a nearby
+English image, or change a gold-spoon joke, item name, technique name, or UI
+label into a different expression without source support.
+
+## Fidelity constraints
+
+Never invent, omit, explain away, generalize, intensify, soften, or reinterpret source-supported content. In particular, preserve:
+
+- exact actions, subjects, objects, directionality, causality, quantities, and physical details;
+- deliberate ambiguity, euphemism, implication, profanity level, repetition, and withheld information;
+- jokes and comic specificity, even when a more generic English joke would sound smoother;
+- hierarchy, kinship, forms of address, characterization, and speaker attitude;
+- System mechanics, Murim concepts, names, ranks, techniques, items, organizations, and established terminology.
+- chapter-level logical consistency: interpret labels, counters, notifications, and repeated facts from how they behave across the scene, not from an isolated surface gloss;
+- idioms by their narrative function rather than their component words, and jokes with their setup, recognition, and punchline timing intact;
+- cross-sentence implications: do not create a claim that contradicts “again,” an increasing value, an earlier action, or the explanation immediately around it;
+- repeated terminology and formatting: once the baseline or glossary establishes a rendering, keep it consistent throughout the chapter unless the source clearly changes the sense;
+
+Do not add jokes, metaphors, explanations, emotional conclusions, or colorful details that are absent from the Korean. Do not replace a specific source image with a generic equivalent merely because the generic version is smoother.
+
+When natural English and literal form conflict, preserve the source meaning and pragmatic effect while changing the English form as much as necessary.
+
+Before returning the chapter, perform a silent continuity pass: trace every
+counter, quantity, repeated System label, item or technique name, joke setup and
+payoff, and physical cause-and-effect sequence from the Korean through the
+finished English. Correct any local sentence that contradicts the sequence.
+
+## Relationship to project files
+
+`RULES.md` is binding. `POLISH.md` describes known translation-English failure modes and should guide the edit. Exact glossary matches are binding unless the packet explicitly marks them otherwise. Character/continuity material is context only and must never override the chapter's Korean source.
+
+## Output
+
+Return only the complete edited English Markdown chapter. Preserve the required chapter heading and project Markdown conventions. Do not provide commentary, a change log, explanations, or a Markdown code fence.
+
+## Binding project rules
+
+# Translation Rules
+
+## Fidelity
+
+- Translate the Korean source—not the wiki, manhwa, fan translations, or expected plot.
+- Semantic fidelity outranks elegance. Never improve rhythm, humor, or localization by changing a physical action, negation, relationship, hierarchy, mechanism, quantity, or causal detail.
+- Preserve every fact, causal link, joke, emotional beat, repetition, and intentional omission. Add nothing.
+- Preserve small action verbs and pragmatic cues exactly: nodding versus shaking one's head, pretending nothing happened, and mild or approachable impressions are characterization, not expendable texture.
+- Preserve viewpoint and tense. Resolve omitted subjects only when context supports it; retain genuine ambiguity.
+- Match each speaker's hierarchy, intimacy, humor, and profanity naturally. Do not mechanically retain every honorific or classical self-reference.
+- Do not censor or soften content.
+
+## Terminology
+
+- `compendium.md` and `docs/NAMES.md` are binding for established names, titles, ranks, techniques, organizations, system terms, items, and locations. Profile headings and aliases join that ledger.
+- Search only exact Korean terms already present in the current chapter; the compendium contains future-sensitive entries.
+- Never re-romanize established names or invent grand names for uncertain terms. First use of an unlisted name or title almost always needs a footnote or a mapped ledger term.
+- Use `qi` for Murim energy and `mana` for the modern Hunter system when the source distinguishes them. Preserve an established chapter-specific rendering such as `internal energy` when the exact glossary and surrounding Korean distinguish accumulated `공력` from resulting `기운`.
+- In System panels, render `등급` as `**Grade:**` for quest, item, skill, and martial-art classifications. Reserve `rank` for Hunter classifications or ordinary prose; never replace a System `Grade` field with `Rank`.
+
+## English and Markdown
+
+- Use contemporary US English and natural action-comedy prose; avoid Korean syntax calques and generic cultivation MTL phrasing.
+- File: `translations/NNNN.md`; heading: `# Chapter N`.
+- Speech: curly double quotes. Direct thoughts: italics without quotes.
+- Use em dashes without spaces, the ellipsis character `…`, and `* * *` for source scene breaks.
+- Format each actual game System-message panel as one Markdown blockquote window headed `> **System**`. Keep all consecutive notices, fields, and lines inside that same blockquote; separate windows when prose intervenes. Do not enclose System notices or UI terms in square brackets; the `System` heading and framed blockquote identify the panel. Do not label manuals, ordinary quotations, warnings printed in a manual, or other non-System material as `System`; use a normal blockquote or a specific heading instead. Do not wrap each complete notice in outer `**`; retain bold only for meaningful labels or emphasis inside the panel.
+- Keep the final file English-only reading copy: no audit notes, Korean text, summaries, or model metadata.
+
+### Tone and Style
+
+- Write like a polished commercial webnovel: brisk, vivid, accessible, and easy to read aloud.
+- Preserve the series’ contrast between danger and comedy. Let absurdity, bad timing, blunt reactions, and grim situations create dark humor without adding jokes absent from the Korean.
+- Jin Taekyung’s narration is conversational, observant, self-mocking, and occasionally profane. It may be irreverent even when the situation is serious.
+- Keep deadpan punchlines short and well-timed. Do not explain a joke after delivering it.
+- Preserve the source's level of explicitness. A euphemism may remain euphemistic even when its meaning is sexual or crude; do not replace it with more graphic English merely for impact.
+- Make dialogue spontaneous and character-specific. Preserve hierarchy and intimacy through word choice, address, rhythm, and restraint—not archaic wuxia English.
+- Use strong profanity when the Korean is strong, but neither intensify nor sanitize it. Do not make ordinary lines uniformly vulgar. Profanity should reveal mood or relationship.
+- Keep action and injury vivid but clear rather than purple. Do not make violence funny unless the source’s framing does.
+- Avoid stiff literalism, translator-added melodrama, dated internet slang, and quippy superhero-style banter.
+- On the second pass, correct awkward English collocations and word choices without changing meaning or voice. Prefer ordinary, spoken English over stiff Latinate or ceremonial wording when the scene is brisk or comic: “goose bumps” rather than “gooseflesh,” and “laid into them” rather than “launched into a solemn denunciation.” Read the prose aloud and replace any phrase that sounds like a formal essay, legal document, or literal dictionary gloss unless the source deliberately calls for that register.
+
+## Footnotes
+
+Use `[^1]` Markdown footnotes when a brief, factual, spoiler-free explanation materially helps an English reader understand:
+
+- a Korean institution, living arrangement, food, holiday, myth, historical reference, or local custom;
+- a Korean word, phrase, idiom, wordplay, or culturally specific image that cannot be conveyed fully by the best natural English analogy;
+- a deliberately literal rendering whose cultural or linguistic force would otherwise be lost.
+
+For example, render `고시원` as “goshiwon” when the setting or connotations matter, with a concise footnote explaining that it is a very small, inexpensive room-for-rent housing arrangement. Prefer the best natural English analogy in the prose. Use a literal translation plus a concise footnote when the Korean wording itself matters. Define a term at its first meaningful occurrence and do not repeat the note unnecessarily. Footnotes must be rare, useful, and non-spoiling; do not footnote ordinary vocabulary, fully preserved jokes, or uncertainty. Record consequential uncertainty in `docs/STATE.md`.
+
+## Spoilers and Scope
+
+- Safe profiles contain only facts revealed through the latest completed chapter.
+- Never read `characters/spoilers/` during drafting. Reviewers may consult one relevant sealed profile only for a specific unresolved continuity issue after the draft is complete.
+- Future knowledge may prevent contradiction but may not add early names, pronouns, certainty, motives, or foreshadowing.
+- Translate exactly one requested chapter unless the user explicitly requests a batch. Never modify Korean source files under `source/`.
+
+## Project polish guidance
+
+# Polish Brief — Murim Login
+
+## Goal
+Make the English natural and fluent without changing meaning, pacing, humor, character voice, System terminology, or Korean/Murim cultural content.
+
+**Core rule:** Translate the thought, not the Korean sentence structure. If meaning, idiom, or cultural context is unclear, always check the original Korean source before editing.
+
+## Priorities
+1. Rewrite literal or calqued English, awkward collocations, and cumbersome sentence structures.
+2. Normalize tense and aspect; prefer natural English information order.
+3. Replace mechanical body-part descriptions with character-centered actions where appropriate.
+4. Preserve repetition when it serves comedy, panic, emphasis, pacing, or characterization.
+5. Keep Taekyung’s voice contemporary, casual, blunt, sarcastic, gamer-aware, and syntactically simple.
+6. Standardize System terminology, capitalization, hyphenation, names, and romanization.
+
+## Typical repairs
+Recast the whole phrase rather than editing word by word:
+
+- “True to my words, he hadn’t looked inside.” → “Just as I’d said, he hadn’t even looked inside.”
+- “The pronunciation was perfectly Korean.” → “She was speaking perfect Korean.”
+- “I scanned the Status Window with a hawk’s eye.” → “I scrutinized the Status Window.”
+- “The joy I’d felt that day threw me into confusion now.” → “Remembering how happy I’d been that day only made me more confused.”
+- “Wolhwa held out her hands. Both spotless hands held a bowl…” → “Wolhwa held out a bowl of water in both hands.”
+- “This character is totally born with a silver spoon…” → “This guy really was born with a silver spoon…”
+- “Jinho pronounced it with the solemnity of a judge.” → “Jinho delivered the verdict with the solemnity of a judge.”
+- “The most common among them is the weak monster even an F-rank Hunter like me can handle: the goblin.” → “The weakest and most common of them were goblins—even an F-rank Hunter like me could handle one.”
+- “For a moment, silence flowed between us as we stared at each other.” → “For a moment, we stared at each other in silence.”
+- “I thrust out my fist on reflex, forcing the words through my clenched voice.” → “I lashed out on reflex, forcing the words through clenched teeth.”
+- “You could say they’re a deeply rooted old tree.” → “You could say they’re one of the region’s old, deeply rooted powers.”
+- “I blinked. It felt like I’d been hit in the back of the head.” → “I blinked. I felt completely blindsided.”
+- “But there were no take-backs. I’d just have to spit and move on.” → “But there were no take-backs. I’d just have to suck it up and move on.”
+- “This time, a different kind of ecstasy swept over me than when I’d used the Status Window. Maybe it was pain.” → “This time, what swept through me was nothing like the exhilaration I’d felt from the Status Window. If anything, it was pain.”
+
+Watch for abstractions or body parts acting unnaturally: “X feeling came over my body,” “X thought entered my mind,” “my eyes stopped at X,” and “X emotion threw me into Y.”
+
+## Idioms and cultural phrasing
+Translate idioms by function, but verify the Korean source before changing meaning. If “put up a whole building” means wealth or ownership, use “buy a whole building”; if the Korean literally means construction, retain that meaning. Keep useful terms such as **goshiwon**, **doenjang**, and **jeonse**, and naturalize the surrounding English.
+
+## System style
+Use formal capitalization in System/UI text and normal English in prose.
+
+- UI occupation: `Third Rate Martial Artist`
+- Prose: `third-rate martial artist`
+- Interfaces: `Status Window`, `Skill Window`
+- System classification field: `**Grade:**`; use `rank` only for Hunter classifications or ordinary prose.
+- Formal UI values use title case (`Third Rate Martial Artist`); ordinary prose uses lowercase hyphenated forms (`a third-rate martial artist`).
+- Preserve exact objective/completion terminology across a quest. In this arc, use `Check and Distribute Skill Window Points` in both places; use `Redistribute` only when previously assigned points are actually being reallocated.
+- Use the established terminology sheet; resolve inconsistencies according to the Korean source.
+- Use one consistent romanization style, including tone marks in Chinese pinyin (`Tài lěng le`, `Zhōngguó rén ma?`). Check the original before changing an unmarked form: `Shenme` remains unmarked here because the spelling supports Taekyung’s “Ms. Sunmi” mishearing joke.
+- For Murim metaphors and idioms, check the Korean before rewriting. Preserve the image when it carries meaning, but render its function in natural English; do not retain calques such as “silence flowed” or “spit and move on” without a source-based reason.
+
+## Passes
+1. Native-English pass: remove calques, awkward structure, collocations, and tense problems.
+2. Voice pass: preserve casual, blunt character voice and spoken dialogue.
+3. Terminology pass: standardize System terms, ranks, capitalization, names, and romanization.
+4. Source-check pass: verify idioms, jokes, metaphors, and cultural details against the original Korean.
+
+**Final test:** Would a native English writer naturally phrase this sentence this way in context, while preserving what the Korean says?
+
+## Output contract
+Return only the complete English Markdown reading copy. The first nonblank line
+must be `# Chapter N`. Do not prefix a status sentence, tool note, or thinking.
+
+## Exact glossary matches for this Korean chapter
+
+| 진태경    | **Jin Taekyung**   |
+| 이소월    | **Lee Seowol**     |
+| 철무백    | **Cheol Mubaek**   |
+| 항산호    | **Tiger of Mount Heng**       | Cheol Mubaek   |
+| 항산검문   | **Mount Heng Sword Sect**        |
+| 절정     | **Peak**          |
+| 무인     | **martial artist**                               | Default term                                          |
+| 무공     | **martial arts**                                 | Can mean a specific martial art in context            |
+| 고수     | **master**                                       | Strong/skilled martial artist                         |
+| 경지     | **realm** / **realm stage**                      | Especially power level                                |
+| 공력     | **internal energy**                              | Years of 공력 → years of internal energy                |
+| 열양지기   | **Scorching Yang Qi**                            | Fire-aligned qi                                       |
+| 초식     | **form**                                         | Numbered technique movement                           |
+| 구결     | **formula**                                      | Mnemonic/oral formula for a martial art               |
+| 비급     | **martial arts manual**                          | “martial scroll” where object/context warrants        |
+| 영약     | **elixir**                                       |                                                       |
+| 기연     | **fortuitous encounter**                         | Use sparingly                                         |
+| 살기     | **killing intent**                               |                                                       |
+| 기세     | **aura** / **momentum**                          | Depends on scene                                      |
+| 마적     | **mounted bandits**                              |                                                       |
+| 문주     | **Sect Leader**                              |
+| 사형     | **Senior Brother**                           |
+| 선배     | **Senior**                                   |
+| 체력               | **Stamina**                    |
+| 태원     | **Taiyuan**            |
+| 항산     | **Mount Heng**         |
+| 대협      | **Great Hero** or **Sir** depending tone                        |
+| 공자      | **Young Master**                                                |
+| 진태 | **Jintae** | Level 45 spokesman for the five current Five Gates scions. |
+| 풍양 | **Pung Yang** | Personal name of the Red Wind Band Leader. |
+| 전세 | **jeonse lease** | Korean lump-sum deposit lease used in the family's redevelopment-era housing history. |
+| 적풍단 | **Red Wind Band** | Rising mounted-bandit power from the northern plateau. |
+| 적풍단주 | **Red Wind Band Leader** | Unnamed leader of the Red Wind Band; commands two hundred followers. |
+| 소월 | **Seowol** | Short form of Lee Seowol used by Cheol Mubaek. |
+| 수라멸권 | **Shura Annihilating Fist** | Cheol Mubaek's single-successor martial art. |
+| 항산권문 | **Mount Heng Fist Sect** | Alternate fist-sect designation used by Pung Yang for the Mount Heng defenders. |
+| 화시 | **fire arrow** | Flaming arrow Lee Seowol fires to signal Cheol Mubaek. |
+| 벽곡단 | **fasting pills** | Food-substitute pills found in the hidden cave where Cheol trained. |
+| 내상 | **Internal Injury** | System condition label for internal injury. |
+| 조장 | **Captain** | Hyuk Mujin's address for Taekyung as squad leader. |
+| 숙부 | **Uncle** | Lee Seowol's shortened address for Cheol Mubaek. |
+| 시진 | **shichen** | Traditional time unit of approximately two hours. |
+| 전하 | **His Highness** | Formal royal address for the resident prince; the official insists on this form instead of king. |
+| 세가 | **great family** | Murim category Jin Wikyung hopes the Jin Family will attain. |
+| 가지 | **Go** | Song associated with Won Myunghoon. |
+
+## Matched address pairs
+
+| Speaker | Addressee | Kinship | Normal address | Speech level | Notes |
+| ------- | --------- | ------- | -------------- | ------------ | ----- |
+| 마적 | 풍양 | mounted-bandit subordinate to bandit leader | Leader | deferential | Uses 단주 when reporting to Pung Yang. |
+| 소월 | 철무백 | niece_to_paternal_uncle | Uncle Cheol | familiar-polite | Lee Seowol asks Cheol Mubaek to suppress his heat because she cannot breathe. |
+| 철무백 | 소월 | paternal_uncle_to_niece | Seowol | affectionate-familiar | Cheol Mubaek speaks gently to Seowol and says protecting her is his duty. |
+| 풍양 | 철무백 | junior_to_older_martial_peer | Senior Cheol | polite and taunting | Pung Yang repeatedly addresses Cheol as 철 선배 while provoking him. |
+| 진태경 | 철무백 | junior_to_respected_Peak_master | Sir | apologetic-polite | Taekyung first calls Cheol Grandpa, then corrects himself to the respectful 대협. |
+| 풍양 | 이소월 | captor_to_coerced_bride | Young Lady | polite and coercive | Pung Yang addresses Seowol as 소저 while threatening her subordinates and demanding marriage. |
+| 진태경 | 풍양 | enemy_to_enemy | you pill-popping bastard | insulting-casual | Taekyung openly insults Pung Yang while announcing that he will use a pill too. |
+| 풍양 | 진태경 | enemy_to_enemy | little brat; wet-behind-the-ears fledgling | condescending and taunting | Pung Yang dismisses Taekyung as an inexperienced child while challenging his ability to intervene. |
+| 무인 | 이소월 | sect_subordinate_to_sect_leader | Sect Leader | formal-deferential | Surviving Mount Heng martial artists address Seowol by her title during the casualty search. |
+| 이소월 | 진태경 | rescued_sect_leader_to_benefactor | Benefactor | deferential | Lee Seowol repeatedly addresses Taekyung as 은공 after acknowledging that he and Jin Mukyung saved the Mount Heng Sword Sect. |
+| 철무백 | 진태경 | senior_martial_peer_to_benefactor | you | casual-teasing | Uses 자네 while teasing Taekyung about his greeting and injuries. |
+| 진태경 | 진태 | stranger_to_mocked_First_Rate_sc ion | Jintae | insulting-casual | Taekyung identifies Jintae as the last name in the group and addresses him while challenging the group's spokesman. |
+| 진태경 | 이소월 | young_martial_artist_to_allied_sect_leader | Young Lady Lee | formal-polite | Taekyung uses 이 소저 while greeting Seowol at the banquet. |
+
+## Matched risk notes
+
+| Korean | Category | Constraint | Forbidden English |
+| ------ | -------- | ---------- | ----------------- |
+| 당장은 | polysemy | Right away / for now / at the moment; not the broader “anytime soon.” | anytime soon |
+| 형 | kinship | Junior-to-senior kinship/address. Casual speech often retains hyung; do not flatten every 형 to “brother.” | |
+| 마나 | murim_vs_hunter | Modern Hunter-system energy is mana when the source distinguishes it from Murim qi. | |
+
+## Chapter-safe character profiles
+
+(No chapter-safe profiles available. This is expected for early retrospective chapters.)
+
+## Chapter-safe bounded continuity
+
+### Latest prior summary
+
+# Chapters 105–109
+
+## Plot
+
+At the Phoenix Inn, Jin Taekyung and Hyuk Mujin subdue six mounted-bandit scouts bearing running-horse tattoos. Wolhwa, the inn’s proprietress, a courtesan, and the Lower District Sect’s Shanxi Branch Leader, explains that Lee Cheonbaek hired mounted bands during the war with the Mount Heng Sword Sect. She proposes accompanying Taekyung to Mount Heng to collect the Lower District Sect’s promised compensation and expand its influence in northern Shanxi. Taekyung accepts after Jin Mukyung’s training damages the inn’s private residence and leaves them unable to pay the resulting bill. Wolhwa cancels her sect’s investigation into Taekyung’s unexplained transformation and orders a gag order.
+
+The group travels toward Mount Heng with Chunsam, a Level 50 First Rate martial artist serving as coachman and bodyguard. At an abandoned Guandi Temple, they encounter human traffickers transporting the Five-Colored Ghosts, former subordinates of Jang Sam who had abandoned banditry but recently turned to theft. Taekyung frees them, and Mukyung cripples the traffickers’ leader, Lee Sam, destroying his dantian. The Five-Colored Ghosts reveal that the Red Wind Band is preparing to leave for Saneum.
+
+A messenger hawk from the Lower District Sect’s Sakju Branch reports that roughly two hundred Red Wind Band members are moving south. Wolhwa interrogates captured mounted bandits lethally, while the group rides day and night toward Mount Heng. Pung Yang, the Red Wind Band Leader, has already destroyed the Mount Heng Sword Sect’s Datong Branch and ordered that no prisoners be taken. The weakened sect, having lost nearly eighty percent of its strength in the war with the Jin Family of Taiyuan, learns that an attack may come within one or two days. As its leaders despair, the main hall doors suddenly explode, marking the attack’s beginning.
+
+## Continuity
+
+- Taekyung, Mukyung, Mujin, and Wolhwa are riding toward the Mount Heng Sword Sect without resting.
+- Chunsam is a First Rate Lower District Sect martial artist who served as their carriage driver and bodyguard.
+- Wolhwa is the Phoenix Inn’s proprietress, a courtesan, Shanxi Branch Leader, and major information broker.
+- The Lower District Sect assisted the Jin Family during the war under a secret compensation pact. Wolhwa intends to collect its compensation and expand into northern Shanxi.
+- Wolhwa has stopped investigating Taekyung’s transformation and ordered her organization to keep the matter confidential.
+- The Five-Colored Ghosts and surviving mounted bandits are being transported to a nearby Lower District Sect branch.
+- The Red Wind Band numbers approximately two hundred and is led by Pung Yang, who places his personal orders above plateau customs.
+- Pung Yang’s forces destroyed the Mount Heng Sword Sect’s Datong Branch with no survivors and are moving south toward the sect’s headquarters.
+- Mount Heng has lost nearly eighty percent of its strength since the war with the Jin Family. Its attack is expected within one or two days, and its main hall doors have been destroyed.
+- Taekyung’s Quest difficulty has risen to Peak.
+- Unresolved hooks remain: the identity of the surveillance property near Taekyung’s former home; whether the black Familiar and Kim Gwondong share instructions; Kim Hwajong’s reason for arriving and his current butler position; the Security Team’s final punishment; how Seong Jinho entered the capsule; Mount Heng’s response to the merger and Wolhwa’s compensation; and what follows the destruction of the main hall doors.
+
+## Translation Decisions
+
+- Retain **Familiar**, **Logout**, **Inventory**, **Qi Sense**, and **Fire Wall**.
+- Render **마적/마적단** as **mounted bandits/mounted-bandit groups**, **적풍단** as **Red Wind Band**, **적풍단주** as **Red Wind Band Leader**, and **토호단** as **Earth Tiger Band**.
+- Render **오색귀** as **Five-Colored Ghosts**, **전서응** as **messenger hawk**, and **관제묘** as **Guandi Temple**.
+- Render **추종향** as **tracking scent**, **대동** as **Datong**, **산음** as **Saneum**, **풍양** as **Pung Yang**, and **춘삼** as **Chunsam**.
+- Retain **Peak**, **First Rate**, **master beyond First Rate**, and **One Strike** for the established martial ranks and technique.
+- Preserve Wolhwa’s addresses **Young Master**, **Young Master Jin**, and **Young Hero Jin**; render **대형** as **Boss**.
+
+### Prior accepted reading-copy tails
+
+#### Chapter 112 tail (verified mastered)
+
+…
+shields and bows.” Everyone in the main hall knew that “a hundred or so” was a generous estimate. In truth, they fell well short of that number. Several of the Mount Heng Sword Sect’s senior figures had fled the previous night, taking their families and the subordinates who followed them. “Uncle Cheol, what happened with what I asked you to do?” “I took care of it as you instructed.” Lee Seowol’s plan involved oil. They had spread enough oil to fill ten wagons evenly throughout the estate. They had covered it with piles of well-dried hay, so it was obvious that the entire area would turn into a sea of flames the moment fire touched it. *Does she intend to take them down with us?* Cheol Mubaek was worried, but he kept his thoughts to himself. In all the years he had watched Lee Seowol, she had always been calm and clever, even from a very young age. “We only need to hold out for one day. Just one day. Reinforcements from the Jin Family of Taiyuan are on their way. If we can delay the enemy until then, we have a good chance of winning.” “R-reinforcements from the Jin Family of Taiyuan?” “I hear the Sleeping Dragon of Shanxi and the Heaven Shaking Sword are coming in person.” The faces of everyone gathered in the main hall brightened. The Heaven Shaking Sword, Jin Mukyung, was already renowned throughout the Central Plains as a martial arts genius, while the Sleeping Dragon of Shanxi, Jin Taekyung, was a rising star. It was uncomfortable that he had earned his fame through a war against the Mount Heng Sword Sect, but knowing that he was now on their side made it feel as though they had gained a thousand troops. Above all else… “No matter how bold Pung Yang is, he won’t dare raise his sword against a direct descendant of the Jin Family of Taiyuan.” “…I suppose not.” Lee Seowol felt bitter inside. Not long ago, the Mount Heng Sword Sect had stood shoulder to shoulder with the Jin Family of Taiyuan. Now, a Murim sect that had once commanded northern Shanxi had to focus all its strength on merely holding out against a mounted-bandit group. *I will never forget what happened today.* Just as she bit down hard on her lip, the doors to the main hall opened, and a martial artist from the Gatekeeper Pavilion came running in, shouting. “Sect Leader, the enemy has sent an envoy!” “An envoy?” “Yes. He says there’s something he wishes to tell you in person…” Lee Seowol nodded without hesitation. If they could delay the battle by even a single moment, they had to do everything they could. “Bring him in.” Not long after the Gatekeeper Pavilion martial artist withdrew, the Red Wind Band’s envoy was escorted into the main hall. Flashing his rotten teeth in a crooked grin, he bowed deeply in an exaggerated manner. “I pay my respects to the Sect Leader of the great Mount Heng Sword Sect.” His attitude was clearly mocking, but the senior figures—and even the fiery-tempered Cheol Mubaek—suppressed their anger. Lee Seowol had repeatedly warned them beforehand. “Why did you send an envoy?” “Well, shouldn’t you offer a man who has traveled so far a bowl of rice wine before you start asking—gasp!” The Red Wind Band’s envoy broke off and began trembling violently. Unable to contain his anger, Cheol Mubaek had taken one step forward and unleashed an overwhelming aura. “Do you want rice wine that badly?” At the deep, heavy voice, the envoy frantically shook his head. “N-no, sir. I was thirsty and said something stu—stupid.” “Uncle Cheol. That’s enough.” “…Hmph. Stop talking nonsense and deliver your message.” Barely freed from Cheol Mubaek’s aura, the envoy stammered. “T-the Leader says we should end this pointless war and cement our friendship.” “Friendship?” The senior figures of the Mount Heng Sword Sect doubted their own ears. Who had betrayed the previous Sect Leader, Lee Cheonbaek, and killed even the Young Sect Leader, Lee Seogwang? And hadn’t they massacred the families and dependents of the Datong Branch only a short while ago? But Lee Seowol reacted differently. Without the slightest hint of surprise, she stared straight at the envoy. “And if we refuse?” “He said you won’t escape total destruction.” “So he means that if we want to save our people, we must offer the Mount Heng Sword Sect in its entirety as a wedding gift.” “I-I don’t know anything beyond that…” By now, everyone in the main hall understood what Pung Yang had meant by “friendship.” They were all furious, but the first to act was the Tiger of Mount Heng, Cheol Mubaek. *Thud!* In the literal blink of an eye, Cheol Mubaek crossed more than ten *jang* and drove his fist into the envoy’s chest. The red fist aura carrying horrifying heat shattered his chest bones and burned his blood and flesh. “Ghuuuh…” With one final death rattle, the light vanished from the envoy’s eyes. Cheol Mubaek pulled his fist from the man’s chest and turned toward Lee Seowol. “He deserved to die a hundred times over.” “I agree. But…” Lee Seowol slowly rose from her seat and continued. “Now there’s no avoiding the fight.” One hour later, everyone in the Mount Heng Sword Sect heard the sound of horn calls ringing out from all directions.
+
+#### Chapter 113 tail (verified mastered)
+
+…
+erupted atop the walls. Screams and blood burst forth. “Ha ha! Kill them all!” “Don’t let them climb up!” Lee Seowol watched it all from the highest watchtower. Her lips trembled, and the color had drained from her face. *So this is the Murim.* The screams of the dying. The desperate struggles of those who wanted to live. The world of the strong preying on the weak that she had finally encountered was more brutal and frightening than she had imagined. But… *I can’t retreat.* Countless people had already died. Those who were going to leave had left, while those who remained were fighting with their lives on the line. Lee Seowol was now the Sect Leader who had to lead them, and she was bound to share her fate with the Mount Heng Sword Sect. “Sect Leader! The walls are in danger! We need to send reinforcements!” “They’re breaking down the gate with a battering ram!” “Sect Leader! You must do something!” “Sect Leader!” As urgent reports rained down from every direction, Lee Seowol spoke. “When I give the signal, fire one fire arrow toward the walls and two toward the gate. And, Uncle Cheol.” Cheol Mubaek, who had been standing guard beside her, answered. “Tell me what you need.” “The gate will be breached soon. Can you buy us a little time?” “By myself?” “I can only apologize for making such a difficult request.” “One against a hundred. I’ve always wanted to try that.” “The uncle I know is a master who can face ten thousand men. Still, please be careful.” “All right. Do you really think those bastards could get the better of me?” Cheol Mubaek laughed heartily and leaped down. With the Tiger of Mount Heng—a consummate Peak master—guarding the gate, no one would get through unless Pung Yang himself stepped forward. *More. Just a little longer.* Lee Seowol gazed down at the fierce battle before suddenly shouting like a thunderclap. “Now!” The two martial artists who had been waiting for her command each drew their bowstrings. The next moment, the fire arrows soared into the darkening winter sky and shone brightly above everyone’s heads. * * * The fire arrows falling like meteors were clearly visible even to Pung Yang, more than a hundred *jang* away. He muttered to himself. *So they had a move hidden up their sleeve.* It didn’t take long for his guess to become certainty. A moment later, enormous flames erupted around the walls. Fwoosh! Fwoooosh! “Aaargh!” Burning alive was one of the most painful ways to die. The mounted bandits of the Red Wind Band, massed beneath the walls like a swarm of ants, writhed and screamed horribly. The ropes attached to the grappling hooks snapped, and the wooden ladders were engulfed in flames. “Attack!” “Kill every last one of those mounted-bandit bastards!” Those waiting below to climb and those still climbing burned to death, while those who had already reached the top were stabbed and slashed by weapons converging from every direction. “So they did make some preparations…” As Pung Yang stared impassively at the battlefield, a mounted bandit returned, his body blackened in patches like charcoal. “What happened?” “L-Leader. Our losses are too great!” The moment he reached Pung Yang, the mounted bandit threw himself flat on the ground and continued breathlessly. “From the first assault until now, at least a hundred men must have died. More importantly, after that fire attack, our brothers’ morale is…” “The gate?” “Pardon?” “What happened to the gate?” “We broke through, but the Tiger of Mount Heng, Cheol Mubaek, is holding it alone…” “Alone?” “Yes. His martial arts are so formidable that no one dares step forward.” “Then that’s enough.” As he spoke, Pung Yang held out his hand. The mounted bandit instinctively reached to take it, only for his body to tilt and collapse. A dagger was buried deep between his brows, his expression frozen in confusion. “How many troops do we have left?” The subordinate who served as Pung Yang’s right hand was accustomed to such sights. He glanced at the corpse and answered. “By a rough count, a little over a hundred and fifty but not quite two hundred. It’s true that our losses are heavier.” “How much worse do you think theirs are? The men on those walls are the Mount Heng Sword Sect’s final bulwark.” “You mean those few men are all they have left?” “Yes.” “It isn’t that I doubt you, Leader, but what if they have another trap like that fire attack…?” “That’s what they’re counting on.” Pung Yang let out a derisive laugh. He didn’t know whose strategy it had been, but they had played it quite cleverly. *If I had been less experienced, I would have suspected another trap and pulled our forces back.* *They’re struggling to buy time. Are they waiting for someone’s support?* If so, there was even less reason to hesitate. The few could not stand against the many. Even after suffering considerable losses, the Red Wind Band would have no trouble wiping out the Mount Heng Sword Sect. And besides… “I’m going myself.” “You’re going yourself, Leader?” “Yes. We have a tiger to catch, don’t we?” Pung Yang burst into a hearty laugh and felt inside his robes out of habit. A hard wooden case rested there. Inside was something that could bring down a tiger in one go.
+
+## Korean source
+
+```text
+＃114화
+
+
+
+항산호 철무백은 철탑처럼 서 있었다.
+
+뻥 뚫린 입구는 마차 두 대가 지나가고도 남을 만큼 넓었지만 오십여 명의 적풍단은 아무도 발을 내딛지 못했다.
+
+앞서 나섰던 동료들이 어떻게 죽었는지 똑똑히 봤기 때문이다.
+
+머리가 터져 죽고, 복부를 뚫려 죽고, 사지가 꺾여서 죽었다. 철무백의 일권(一拳)이 언제, 어떻게 움직였는지 제대로 본 사람은 없었다.
+
+그렇게 죽은 이가 스물이 넘었다.
+
+“괴물…….”
+
+공포에 잠긴 그들을 구원한 것은 뒤에서 들려온 누군가의 중후한 목소리였다.
+
+“너희들은 이만 가 보거라. 여긴 내가 맡겠다.”
+
+목소리의 주인, 적풍단주 풍양의 등장에 마적들이 썰물처럼 물러났다. 두 절정 고수는 그제야 서로를 마주했다.
+
+“다시 뵙소, 철 선배.”
+
+“도적놈을 후배로 둔 기억은 없는데.”
+
+“까칠한 건 여전하시구려. 옷깃만 스쳐도 인연이라는데, 선배와 나는 손까지 섞은 사이 아니오?”
+
+“그랬지. 네놈은 뒤도 안 돌아보고 도망쳤고.”
+
+“전략적 후퇴라고 해 둡시다. 나도 거기서 철 선배가 등장하실 줄은 몰랐으니까.”
+
+“내상은 다 나았나?”
+
+“속이 뜨거워서 며칠 혼났지요. 그래도 죽을 정도는 아니라 염치 불고하고 다시 찾아온 것 아니겠소?”
+
+“오늘은 뜨거운 정도로 끝나지 않을 게다.”
+
+“저런, 대화로 푸는 건 어떻겠소? 연세도 꽤 지긋하신 분이 성격이 이리 불같아서야…….”
+
+풍양의 능청스러운 말에 철무백이 이를 갈았다.
+
+“대화? 네가 배신하지 않았더라면 천백, 그 친구는 살 수도 있었다.”
+
+“승산 없는 싸움에 끼어들 정도로 멍청한 놈은 아니라서 말이오.”
+
+“그것으로 부족해서 소광이마저 죽였느냐?”
+
+“주제도 모르고 덤비는 어린놈을 살려 줄 만큼 유한 성격도 아니고.”
+
+풍양이 부드럽게 웃으며 말을 이었다.
+
+“그 어린놈이 내 처남이 될 줄 알았다면 살려 뒀겠지만 말이오.”
+
+“이노옴!”
+
+철무백의 전신에서 용암 같은 기세가 끓어올랐다. 절정 고수의 강대한 열양지기에 지면을 덮은 눈이 녹아내리고 초목이 노랗게 물든다.
+
+그 광경에 풍양이 탄성을 토해 냈다.
+
+“역시 대단한 공력이오. 철 선배가 마음만 먹었다면 오늘 내가 상대하는 것은 항산권문(恒山拳門)이 되었겠군.”
+
+“네놈의 사지를 뽑아 주마.”
+
+“글쎄, 너무 자신하지 않는 게 좋을 거요.”
+
+“지난번 같은 요행은 바라지 마라. 오늘은 방패막이로 사용할 놈들도 없으니.”
+
+풍양이 빙긋 웃었다.
+
+“내가 수하들을 물린 이유가 뭐겠소?”
+
+“그건…….”
+
+철무백은 멈칫했다. 안 그래도 아까부터 풍양의 여유로운 태도가 마음에 걸리던 찰나였다.
+
+‘무슨 꿍꿍이지?’
+
+지난번에는 불과 백여 합 만에 내상을 입고 물러났던 풍양이다. 수하들을 방패 삼아 도망쳤던 그가 모두를 물리고 제 발로 찾아왔다는 것은 그만큼 자신이 있단 소린데…….
+
+“무슨 개수작이냐?”
+
+“개수작이라니, 호랑이에게 닭 잡는 칼을 쓸 수 없어 직접 나섰을 뿐이오.”
+
+“네깟 놈 혼자?”
+
+“안될 것 있겠소?”
+
+“그럴 리가. 나야 고마울 따름이지.”
+
+의구심 어린 눈빛으로 풍양을 노려보던 철무백이 주먹을 말아 쥐었다.
+
+“덕분에 일이 쉽게 끝나게 됐으니 말이다.”
+
+후우웅.
+
+말이 끝남과 동시에 뜨거운 열풍이 바로 앞으로 들이닥쳤다. 풍양은 숨을 삼키며 가슴을 노리고 날아드는 붉은 권기(拳氣)를 향해 곡도를 휘둘렀다.
+
+쾅! 쾅쾅!
+
+두 절정 고수의 격돌. 연달아 터지는 굉음과 함께 몰아친 바람이 눈 덮인 바닥을 휩쓸었다.
+
+높이 솟구친 눈 더미 아래, 한 사람이 비틀거리며 물러났다.
+
+“으음.”
+
+풍양이 침음을 삼키며 찢어진 손아귀를 바라봤다. 볼썽사납게 병장기를 놓치는 것은 면했으나 힘의 차이는 확실했다.
+
+“역시 강하구려.”
+
+철무백이 풍양을 향해 걸음을 내디디며 대답했다.
+
+“후회해도 늦었다.”
+
+“이하 동문이오.”
+
+“주둥이부터 찢어 놔야겠군.”
+
+쐐애애액!
+
+철무백은 호랑이 같은 몸놀림으로 달려들었다.
+
+오래전 실전되었다고 알려진 수라멸권(修羅滅拳)의 강맹한 초식들이 풍양을 향해 쏟아졌다.
+
+콰과광!
+
+
+
+* * *
+
+
+
+성벽에서는 치열한 혈투가 벌어지고 있었다. 자그마치 네 배에 달하는 병력의 차이가 있지만 항산검문의 무인들은 물러서지 않았다.
+
+“물러서면 죽음뿐이다!”
+
+“마적 놈들에게 고향을 뺏길 셈이냐!”
+
+“놈들에게 죽은 사형제들의 원수를 갚자!”
+
+서걱, 푹!
+
+“크아악!”
+
+“미, 밀지 마!”
+
+적풍단의 마적들은 혼란에 빠졌다. 앞서 당한 화공의 영향과 또 다른 함정이 있을지 모른다는 두려움이 발목을 잡았다.
+
+그들은 자신들과는 반대로 눈이 뒤집혀 달려드는 항산검문 무인들의 파죽지세에 속수무책으로 썰려 나갔다.
+
+“도망치지 마라!”
+
+“물러서는 놈들은 내 손에 뒈질 줄 알아!”
+
+조장 격인 마적들이 목청껏 외쳤지만 혼란을 수습하는 건 역부족이었다. 오히려 그들 또한 어디서 날아왔는지 모를 화살에 목숨을 헌납해야 했다.
+
+푸푹!
+
+“크륵. 커어어…….”
+
+“조, 조장!”
+
+이소월은 가장 높은 망루에 서서 쉼 없이 활시위를 당겼다.
+
+그녀의 곁에는 항산검문의 무인 중 가장 활을 잘 다루는 다섯 명의 궁수가 함께했다.
+
+퉁! 푹!
+
+시위가 당겨질 때마다 한 명의 마적들이 쓰러진다. 조장, 혹은 그 이상으로 보이는 자들이 최우선으로 노려야 할 표적이었다.
+
+‘한 놈이라도 더, 더.’
+
+그러나 전황은 생각 이상으로 어렵게 흘러가고 있었다.
+
+처음부터 적은 병력으로 전투에 임했던 항산검문의 무인들은 빠른 속도로 지쳐 갔고, 이내 하나둘씩 눈먼 칼날에 목숨을 잃고 있었다.
+
+반면 마적들은 점차 혼란에서 빠져나오는 중이었다.
+
+“정신 차려! 항산검문 놈들은 몇 안 돼!”
+
+“이놈들만 죽이면 우리의 승리다!”
+
+더 이상 잃을 게 없는 항산검문의 무인들 역시 불리한 전황에도 아랑곳하지 않고 필사적으로 맞섰다.
+
+“죽여라!”
+
+서걱, 서걱, 서걱!
+
+그러나 마적 하나를 베면 둘이, 둘을 베면 셋이 나타나 빈자리를 메웠다.
+
+“헉, 허억!”
+
+정신없이 검을 휘두르는 항산검문의 무인을, 사방에서 튀어나온 대여섯 개의 병장기가 난도질한다.
+
+서걱! 푸푸푹!
+
+목, 가슴, 복부……. 전신이 베이고 꿰뚫린 채 비명 한 번 못 지르고 죽는 무인들이 곳곳에서 속출했다.
+
+기세가 오른 적풍단의 마적들은 쉬지 않고 몰아쳤다. 어느새 성벽의 절반이 적들로 가득 찼다.
+
+“하아, 하아.”
+
+퉁, 퉁, 퉁!
+
+이소월은 젖 먹던 힘까지 끌어모아 활시위를 당겼다. 섬섬옥수 같던 손가락과 악문 잇새에서는 피가 흘렀고 바짝 말라붙은 입 안에서는 단내가 풀풀 풍겼다.
+
+“저기다!”
+
+쉴 새 없이 화살을 쏘아 댄 탓에 결국 얼마 지나지 않아 위치가 발각됐다. 이십여 명의 마적들이 방패를 세우고 망루로 돌격해 오자 다급한 외침이 터져 나왔다.
+
+“문주!”
+
+“피하셔야 합니다! 놈들이 오고 있습니다!”
+
+공성전이 시작되고 이제 세 시진. 취미 삼아 활을 수련했을 뿐, 무인이 아닌 이소월의 체력은 한계에 다다른 지 오래였다.
+
+그러나 그녀는 멈추지 않았다. 덜덜 떨리는 가느다란 팔뚝에 억지로 힘을 주고 다음 표적을 찾았다.
+
+‘피해? 어디로?’
+
+평생을 이곳에서 살았다. 항산검문은 이소월에게 있어 고향이자 생애 마지막 순간까지 지켜야 할 무언가였다.
+
+그것은 지금까지도 최후의 항전을 이어 가는 무인들에게도 마찬가지였다.
+
+“놈들을 막아라!”
+
+“결코 문주께 보내서는 안 된다!”
+
+필사적인 외침이 무색하게도 이미 성벽은 점령당한 뒤였다.
+
+살아남은 항산검문의 무인들은 망루로 퇴각했다. 그러나 일백은 족히 넘어 보이는 마적들이 사방에서 조여 오고 있었다.
+
+적들이 들고 있는 횃불 사이로 살기와 욕망으로 번들거리는 눈동자들이 비친다.
+
+“이 망할 년놈들이 감히…….”
+
+“한 놈도 빠짐없이 갈기갈기 찢어 개밥으로 던져 주마.”
+
+둥글게 망루를 포위한 마적들의 살기가 피부를 찔렀다.
+
+모두 절망에 빠진 그때, 이소월이 돌연 하늘을 향해 활시위를 당겼다.
+
+후우웅.
+
+불의 꼬리를 늘어트리며 떨어지는 한 발의 화시(火矢)의 목적지는 어둠에 잠긴 성문.
+
+그것은 한 사람을 찾기 위한 불빛이었다.
+
+‘철 숙부.’
+
+항산호 철무백. 그가 항산검문의 마지막 희망이다.
+
+불화살이 밝힌 불빛 아래로 한 사람이 걸어 나온 것은 그때였다.
+
+저벅. 저벅.
+
+“이제 와서 말하긴 뭣하지만…….”
+
+단 한 번 들었을 뿐이지만 꿈에서도 잊지 못하는 목소리.
+
+차마 쳐다보지 못하고 눈을 감는 이소월에게, 풍양이 활짝 웃어 보였다.
+
+“나와 혼인해 줘야겠소.”
+
+
+
+* * *
+
+
+
+사냥꾼 철무백이 항산의 호랑이가 될 수 있었던 이유는 기연(奇緣)을 만났기 때문이다.
+
+광활한 항산 산맥의 어느 산자락에서 늑대를 추적하던 그는 절벽 사이 숨겨져 있던 비동(秘洞)으로 추락했고, 그곳에서 은거 고수가 남긴 비급과 영약을 발견했다.
+
+
+
+‘나는 돌아간다. 반드시 살아 돌아간다!’
+
+
+
+철무백은 살기 위해 무공을 익혔다. 비동에 있던 벽곡단이 떨어지자 절벽 사이에 난 풀을 뜯어 먹거나 박쥐를 잡아먹으며 수련했다.
+
+자그마치 삼 년 만에 맨손으로 절벽을 기어올라 마을로 돌아간 그를 기다리고 있던 것은 폐허가 된 집, 그리고 아내와 자식의 죽음이었다.
+
+
+
+‘소식이 끊긴 지 두어 달쯤 됐나? 평소 자네 내자를 눈독 들이고 있었던 황가 놈이…….’
+
+
+
+정신을 차렸을 때는 이미 마을의 대지주와 그의 하인들을 모두 때려죽인 후였다.
+
+원수를 갚은 철무백은 다시 비동으로 돌아가 무공을 수련했다. 그건 스스로에 대한 채찍질이었고 가족에 대한 속죄였다.
+
+그렇게 시간이 얼마나 흘렀을까, 어느새 철무백은 항산의 호랑이라 불리고 있었다.
+
+하지만…….
+
+“후욱, 호랑이가, 울겠군.”
+
+철무백은 거칠게 숨을 몰아쉬었다. 형형하던 눈빛은 먹구름이 낀 것처럼 흐렸고 수염은 피로 흠뻑 젖었다.
+
+‘어서 가야 하는데, 놈을 막아야 하는데…….’
+
+그러나 그에게 남아 있는 것은 의지뿐, 사지가 부러진 몸은 이미 통제를 벗어났다. 항산호(恒山虎)라는 별호가 아깝지 않은 무공을 펼쳤건만 풍양을 꺾을 수는 없었다.
+
+‘그놈이 도대체 어떻게.’
+
+결과는 분명해 보였다. 풍양은 이제 간신히 도기(刀氣)를 만들어 내는 절정 초입의 경지였고 철무백은 완숙한 경지에 오른 절정 고수였다.
+
+바람 앞의 촛불처럼 위태롭던 풍양이 돌변한 것은 품에서 정체불명의 목곽을 꺼낸 후였다.
+
+‘붉은 단환. 맞아, 분명히 그거였어.’
+
+암기인가 싶어 물러난 것이 실수였다. 단환을 꿀꺽 삼킨 풍양은 더 이상 철무백이 알던 일개 마적단의 우두머리가 아니었다.
+
+‘어찌 인간이 그토록 강해질 수 있단 말인가.’
+
+풍양의 움직임을 떠올린 철무백의 눈가가 파르르 떨렸다.
+
+열 번, 백 번을 다시 겨룬다 해도 이길 수 없을 것 같은 아득한 격차. 한순간에 전세를 역전시킨 풍양은 그의 사지를 부러뜨리고 막대한 내상을 입힌 다음 떠났다.
+
+
+
+‘당장은 살려 주지. 이번 혼인의 예물로 당신의 무공 구결을 받고 싶어졌거든.’
+
+
+
+떠나기 전, 풍양이 남긴 말을 떠올린 철무백의 눈가가 붉게 물들었다. 수라멸권은 일인전승, 비인부전의 무공이다.
+
+풍양에게 넘기느니 자결을 택하겠지만 딸처럼, 손녀처럼 아끼는 이소월이 마음에 걸렸다.
+
+‘도대체 이를 어찌해야 한단 말인가.’
+
+철무백이 먹먹한 심정으로 하늘을 바라보던 그 순간이었다.
+
+두두두!
+
+멀리서 들려오던 말발굽 소리가 점점 가까워지더니, 철무백의 발치에서 우뚝 멈췄다. 휘영청 밝은 달 아래, 그를 내려다보는 네 쌍의 시선이 있었다.
+
+“적풍단 애들은 정년도 없나. 웬 노인네까지 마적질을.”
+
+“진 공자, 항산호 철무백 대협이에요.”
+
+“헉, 죄송합니다. 야, 무진아. 얼른 사과드리지 않고 뭐 해.”
+
+“실수는 조장이 했는데 왜 제가…….”
+
+빡!
+
+“할아버지, 아니 대협. 괜찮으세요?”
+
+철무백은 대답 대신 청년의 가슴팍을 뚫어져라 바라봤다.
+
+남색 무복에 새겨진 한 글자.
+
+진(進).
+
+“태원……진가?”
+
+“어, 알아보시네?”
+
+청년, 진태경이 씩 웃었다.
+```
+
+## Current accepted English baseline
+
+```markdown
+# Chapter 114
+
+The Tiger of Mount Heng, Cheol Mubaek, stood like an iron tower.
+
+The entrance gaped wide enough for two carriages to pass through side by side, yet not one of the fifty-odd mounted bandits of the Red Wind Band dared set foot inside.
+
+They had seen clearly how the men who went ahead of them had died.
+
+Some had died with their heads blown apart. Others had been pierced through the abdomen or killed when their limbs were broken. No one had properly seen when or how Cheol Mubaek’s fist moved.
+
+More than twenty had died that way.
+
+“Monster…”
+
+A deep voice from behind rescued the mounted bandits, who were paralyzed with fear.
+
+“You’ve done enough. Go on now. I’ll handle this place.”
+
+At the appearance of the voice’s owner, Pung Yang, the Red Wind Band Leader, the mounted bandits retreated like the tide going out. Only then did the two Peak masters face each other.
+
+“Good to see you again, Senior Cheol.”
+
+“I don’t recall ever taking a bandit as a junior.”
+
+“You’re still as prickly as ever. They say even brushing sleeves with someone creates a connection, and you and I have crossed hands, haven’t we?”
+
+“We did. Then you ran away without even looking back.”
+
+“Let’s call it a strategic retreat. I didn’t expect Senior Cheol to show up there, either.”
+
+“Are your internal injuries healed?”
+
+“My insides were burning, so I had a rough few days. But it wasn’t enough to kill me, which is why I’ve come back despite my shame.”
+
+“Today, it won’t end with mere heat.”
+
+“Oh, dear. How about we settle this through conversation? For a man of your age to have such a fiery temper…”
+
+At Pung Yang’s shameless remark, Cheol Mubaek ground his teeth.
+
+“Conversation? If you hadn’t betrayed us, Lee Cheonbaek, my friend, might have lived.”
+
+“I’m not stupid enough to join a fight with no chance of winning.”
+
+“As if that weren’t enough, you killed Lee Seogwang too?”
+
+“I’m not softhearted enough to spare a brat who came at me without knowing his place.”
+
+Pung Yang smiled gently and continued.
+
+“If I’d known that brat would become my brother-in-law, I might have spared him.”
+
+“You bastard!”
+
+A lava-like aura boiled up from every inch of Cheol Mubaek’s body. Under the formidable Scorching Yang Qi of a Peak master, the snow blanketing the ground melted away, and the vegetation turned yellow.
+
+Pung Yang let out an exclamation at the sight.
+
+“Your internal energy really is remarkable. If Senior Cheol had only set his mind to it, the opponent I faced today would have been the Mount Heng Fist Sect.”
+
+“I’ll tear your limbs from your body.”
+
+“Still, you shouldn’t be too confident.”
+
+“Don’t expect the same stroke of luck as last time. Today, you won’t have anyone to use as a shield.”
+
+Pung Yang smiled faintly.
+
+“Why do you think I sent my men away?”
+
+“That…”
+
+Cheol Mubaek hesitated. Pung Yang’s relaxed attitude had been bothering him for some time.
+
+*What is he plotting?*
+
+Last time, Pung Yang had withdrawn after suffering internal injuries in barely a hundred exchanges. The fact that the man who had used his subordinates as shields to escape had sent everyone away and come here of his own accord meant that he was confident enough to do so…
+
+“What kind of dirty trick are you planning?”
+
+“A dirty trick? I simply couldn’t use a chicken-killing knife on a tiger, so I stepped in myself.”
+
+“You? Alone?”
+
+“Is there any reason I can’t?”
+
+“There’s no way. I’m grateful, if anything.”
+
+Cheol Mubaek glared at Pung Yang suspiciously and clenched his fists.
+
+“Thanks to you, this will be over easily.”
+
+Whoooosh!
+
+The instant he finished speaking, a scorching gale rushed straight toward Pung Yang. Pung Yang swallowed a breath and swung his curved saber at the red fist energy flying toward his chest.
+
+Boom! Boom-boom!
+
+The two Peak masters collided. Roaring explosions rang out one after another, and the resulting wind swept across the snow-covered ground.
+
+Beneath a mound of snow that had leaped high into the air, one man staggered backward.
+
+“Ugh.”
+
+Pung Yang swallowed a groan and looked at his torn palm. He had avoided the disgrace of dropping his weapon, but the difference in strength was undeniable.
+
+“You’re still as strong as ever.”
+
+Cheol Mubaek stepped toward him and answered.
+
+“You’ll regret this, but it’s already too late.”
+
+“I feel the same way.”
+
+“I’ll have to tear that mouth of yours apart first.”
+
+Fwoooooosh!
+
+Cheol Mubaek lunged forward with the movements of a tiger.
+
+The fierce forms of the long-lost Shura Annihilating Fist poured down upon Pung Yang.
+
+Kwa-gwa-gwang!
+
+* * *
+
+A fierce bloody battle was raging along the fortress walls. Despite facing a four-to-one disadvantage in numbers, the martial artists of the Mount Heng Sword Sect refused to retreat.
+
+“Retreat, and all that awaits us is death!”
+
+“Are you going to let those mounted-bandit bastards take our home from us?”
+
+“Let’s avenge the martial brothers they killed!”
+
+Slice! Thrust!
+
+“Aaargh!”
+
+“D-don’t push me!”
+
+The mounted bandits of the Red Wind Band had fallen into confusion. The effects of the earlier fire attack and the fear that another trap might be waiting held them back.
+
+In stark contrast, the martial artists of the Mount Heng Sword Sect charged at them wild-eyed. The mounted bandits were helpless against their unstoppable momentum and were cut down one after another.
+
+“Don’t run away!”
+
+“Any bastard who retreats dies by my hand!”
+
+The mounted bandits who served as squad leaders shouted at the top of their lungs, but they were unable to restore order. Instead, they too had to surrender their lives to arrows that seemed to fly out of nowhere.
+
+Thwack!
+
+“Ghk. Gaaah…”
+
+“Squad Leader!”
+
+Lee Seowol stood atop the highest watchtower, drawing her bowstring without pause.
+
+Beside her were the five best archers among the martial artists of the Mount Heng Sword Sect.
+
+Twung! Thud!
+
+Every time a bowstring was drawn, a mounted bandit fell. Squad leaders, or those who appeared to rank even higher, were their highest-priority targets.
+
+*One more. One more.*
+
+But the battle was unfolding more harshly than expected.
+
+The martial artists of the Mount Heng Sword Sect had entered the battle with fewer troops from the very beginning. They grew exhausted at an alarming rate, and before long, one or two at a time began losing their lives to stray blades.
+
+The mounted bandits, meanwhile, were gradually recovering from their confusion.
+
+“Get a grip! There aren’t many of these Mount Heng Sword Sect bastards!”
+
+“If we kill these men, victory is ours!”
+
+The martial artists of the Mount Heng Sword Sect had nothing left to lose. They fought desperately, disregarding their disadvantage.
+
+“Kill them!”
+
+Slice! Slice! Slice!
+
+But every time one mounted bandit was cut down, two more appeared to fill the gap. When two were cut down, three took their place.
+
+“Gasp, gasp!”
+
+A martial artist of the Mount Heng Sword Sect swung his sword frantically, only to be hacked apart by five or six weapons that sprang at him from every direction.
+
+Slice! Thud-thud-thud!
+
+His neck, chest, abdomen… Martial artists were cut and pierced all over, dying without even having time to scream. Their bodies fell in growing numbers.
+
+The mounted bandits of the Red Wind Band, their momentum rising, continued pressing the attack without pause. Before anyone realized it, half the fortress wall was packed with enemies.
+
+“Haa, haa.”
+
+Twung! Twung! Twung!
+
+Lee Seowol summoned every last bit of strength she had and drew her bowstring. Blood ran from her once-delicate fingers and between her clenched teeth, while the dry inside of her mouth reeked of a sickly sweetness.
+
+“There!”
+
+After firing arrows without rest, her position was discovered before long. When about twenty mounted bandits raised their shields and charged toward the watchtower, desperate shouts rang out.
+
+“Sect Leader!”
+
+“You have to get away! They’re coming!”
+
+Three shichen—six hours—had passed since the siege began. Lee Seowol had only practiced archery as a hobby. She was not a martial artist, and her Stamina had reached its limit long ago.
+
+But she did not stop. She forced strength into her thin, trembling arms and searched for her next target.
+
+*Escape? Where would I go?*
+
+She had lived here her entire life. To Lee Seowol, the Mount Heng Sword Sect was both her hometown and something she had to protect until the final moment of her life.
+
+The same was true for the martial artists who continued their last stand.
+
+“Stop them!”
+
+“Never let them reach the Sect Leader!”
+
+Their desperate cries were futile. The fortress walls had already been overrun.
+
+The surviving martial artists of the Mount Heng Sword Sect retreated to the watchtower. But more than a hundred mounted bandits were closing in from every direction.
+
+Eyes gleaming with killing intent and desire shone between the torches held by the advancing enemies.
+
+“You damned bastards dare…”
+
+“I’ll tear every last one of you limb from limb and throw you to the dogs!”
+
+The killing intent of the mounted bandits surrounding the watchtower in a circle stabbed at their skin.
+
+Just as everyone was falling into despair, Lee Seowol suddenly drew her bowstring toward the sky.
+
+Whoooosh.
+
+Trailing a tail of fire, a single fire arrow descended toward the gate, which was shrouded in darkness.
+
+It was a light meant to find one person.
+
+*Uncle Cheol.*
+
+The Tiger of Mount Heng, Cheol Mubaek. He was the Mount Heng Sword Sect’s final hope.
+
+That was when a man walked out beneath the light revealed by the fire arrow.
+
+Clomp. Clomp.
+
+“I suppose it’s a little late to say this now…”
+
+Lee Seowol had heard that voice only once, but she could never forget it, not even in her dreams.
+
+Unable to bring herself to look at him, she closed her eyes.
+
+Pung Yang smiled broadly at her.
+
+“You’ll have to marry me.”
+
+* * *
+
+The hunter Cheol Mubaek became the Tiger of Mount Heng because of a fortuitous encounter.
+
+While tracking wolves along a mountainside in the vast Mount Heng range, he fell between cliffs into a hidden cave. There, he discovered a martial arts manual and an elixir left behind by a reclusive master.
+
+*I’m going back. I’m going back alive, no matter what!*
+
+Cheol Mubaek learned martial arts to survive. When the fasting pills in the hidden cave ran out, he tore up grass growing between the cliffs or caught bats to eat as he trained.
+
+After no less than three years, he climbed the cliff with his bare hands and returned to the village.
+
+What awaited him was his home in ruins—and the deaths of his wife and child.
+
+*Had it been a couple of months since we lost contact? That bastard Hwang, who’d always had his eye on your wife…*
+
+By the time he came to his senses, he had already beaten the village’s leading landowner and all his servants to death.
+
+After avenging his family, Cheol Mubaek returned to the hidden cave and resumed his martial arts training. It was a whip he used against himself, and atonement for his family.
+
+How much time passed like that?
+
+Before he knew it, Cheol Mubaek was being called the Tiger of Mount Heng.
+
+But…
+
+“Hoo. Even a tiger would cry.”
+
+Cheol Mubaek panted harshly. His once-brilliant eyes were clouded like a sky covered in dark clouds, and his beard was drenched in blood.
+
+*I have to hurry. I have to stop that bastard…*
+
+But all he had left was his will. His body, with its limbs broken, had already slipped beyond his control. He had displayed martial arts worthy of the title Tiger of Mount Heng, yet he still could not defeat Pung Yang.
+
+*How in the world did he…?*
+
+The result seemed obvious. Pung Yang had only just entered the Peak realm, barely capable of creating blade qi, while Cheol Mubaek was a Peak master who had reached a mature realm stage.
+
+Pung Yang had been as precarious as a candle in the wind. Then he had suddenly changed after pulling an unidentified hard wooden case from inside his robes.
+
+*The red pill. Yes, that was definitely it.*
+
+Cheol Mubaek had made a mistake by retreating because he thought it might be a hidden weapon. After Pung Yang gulped down the pill, he was no longer the leader of the ordinary mounted-bandit group Cheol Mubaek had known.
+
+*How can a human being become that strong?*
+
+Cheol Mubaek’s eyes trembled as he recalled Pung Yang’s movements.
+
+The gap between them was so vast that it seemed impossible to win, even if they fought ten or a hundred more times. Pung Yang had overturned the battle in an instant, broken all four of Cheol Mubaek’s limbs, inflicted massive internal injuries, and then left.
+
+*I’ll let you live for now. I’ve decided I want your martial arts formula as a wedding gift.*
+
+Cheol Mubaek’s eyes reddened as he recalled Pung Yang’s parting words.
+
+The Shura Annihilating Fist was a martial art passed down to a single successor and never taught to outsiders.
+
+He would choose suicide rather than hand it over to Pung Yang, but Lee Seowol—whom he cherished like a daughter or granddaughter—troubled him.
+
+*What on earth am I supposed to do?*
+
+It was at that moment, as Cheol Mubaek stared at the sky with a heavy heart, that it happened.
+
+Thud-thud-thud-thud!
+
+The sound of approaching hooves grew louder and louder before coming to a sudden stop at his feet.
+
+Beneath the brilliantly shining moon, four pairs of eyes looked down at him.
+
+“Doesn’t the Red Wind Band have a retirement age? Why is an old geezer still out here playing bandit…?”
+
+“Young Master Jin, that’s Great Hero Cheol Mubaek, the Tiger of Mount Heng.”
+
+“Gah! I’m sorry. Hey, Mujin. Hurry up and apologize. What are you waiting for?”
+
+“The squad leader is the one who made the mistake, so why should I…?”
+
+Smack!
+
+“Grandpa—no, Sir. Are you all right?”
+
+Instead of answering, Cheol Mubaek stared intently at the young man’s chest.
+
+One character was embroidered on his navy martial robe.
+
+進.
+
+“Taiyuan… the Jin Family?”
+
+“Oh, you recognize it?”
+
+The young man, Jin Taekyung, grinned.
+```
+
+## Final instruction
+
+Edit the complete baseline against the Korean source. Return only the complete mastered English Markdown chapter beginning exactly with `# Chapter 114`.

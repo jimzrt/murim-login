@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "But well over a hundred mounted bandits were closing in from every direction.",
+      "defect": "The translation presents the number as objective fact, omitting that the bandits only appeared to number well over a hundred.",
+      "id": "F01",
+      "rationale": "The source says 일백은 족히 넘어 보이는, explicitly qualifying the estimate with “appeared/looked to be.”",
+      "replacement": "But what looked like well over a hundred mounted bandits were closing in from every direction.",
+      "severity": "minor",
+      "source": "lines 229–231"
+    },
+    {
+      "confidence": 0.99,
+      "current": "When the fasting pills in the hidden cave ran out, he tore up grass growing between the cliffs or caught bats to eat as he trained.",
+      "defect": "“Tore up grass” does not preserve the source action of plucking and eating the grass and can instead suggest merely destroying it.",
+      "id": "F02",
+      "rationale": "풀을 뜯어 먹거나 explicitly means that he plucked/grazed on the grass for food.",
+      "replacement": "When the fasting pills in the hidden cave ran out, he ate grass growing between the cliffs or caught bats to eat as he trained.",
+      "severity": "minor",
+      "source": "lines 281–282"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Huff. Even a tiger would cry.”",
+      "defect": "The line turns a pointed reference to the defeated Tiger of Mount Heng into a general hypothetical statement about any tiger.",
+      "id": "F03",
+      "rationale": "호랑이가 울겠군 refers to “the tiger” and conjectures that he must be crying; the definite target carries the taunt’s logic.",
+      "replacement": "“Huff. The tiger must be crying.”",
+      "severity": "minor",
+      "source": "lines 299–301"
+    },
+    {
+      "confidence": 0.96,
+      "current": "He would choose suicide rather than hand it over to Pung Yang, but Lee Seowol—whom he cherished like a daughter and a granddaughter—troubled him.",
+      "defect": "“Like a daughter and a granddaughter” makes both comparisons simultaneous rather than presenting the source’s paired alternatives and produces a contradictory relational image.",
+      "id": "F04",
+      "rationale": "딸처럼, 손녀처럼 offers two alternative familial comparisons: he cherishes her as he would a daughter or a granddaughter.",
+      "replacement": "He would choose suicide rather than hand it over to Pung Yang, but Lee Seowol—whom he cherished like a daughter or granddaughter—troubled him.",
+      "severity": "minor",
+      "source": "lines 329–331"
+    }
+  ],
+  "summary": "The chapter is broadly faithful, with four minor defects involving physical action, epistemic qualification, joke logic, and relational comparison.",
+  "version": 1
+}
