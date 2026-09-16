@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.93,
+      "current": "“I’m glad I’m not late. You too, Chunsoo.”",
+      "defect": "The wording makes Kim Hwajong say that Chunsoo is also not late. In context, 자네도 marks Chunsoo as another person Kim has noticed or is greeting, not as someone whose punctuality he is affirming.",
+      "id": "F03",
+      "rationale": "The source first expresses relief at Kim Hwajong’s own timely arrival, then separately addresses Chunsoo with 자네도; the baseline preserved that distinction.",
+      "replacement": "“I’m glad I’m not late. Chunsoo, you’re here too.”",
+      "severity": "minor",
+      "source": "lines 447–449"
+    }
+  ],
+  "summary": "Three minor fidelity defects: two glossary-bound name regressions and one altered greeting implication.",
+  "version": 1
+}
