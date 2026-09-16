@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Cranes don’t bring babies? Then am I not my grandfather’s grandson?”",
+      "defect": "The first question reverses the source polarity. Cheongpung is still asserting his belief and asking whether cranes do bring babies, not reacting to a statement that they do not.",
+      "id": "F01",
+      "rationale": "두루미가 데려다주는 거 아니에요? is a negatively formed confirmation question meaning “Don’t cranes bring babies?” in this context.",
+      "replacement": "“Don’t cranes bring babies? Then am I not my grandfather’s grandson?”",
+      "severity": "minor",
+      "source": "line 141"
+    }
+  ],
+  "summary": "Faithful overall, with one minor polarity error in Cheongpung’s question.",
+  "version": 1
+}
