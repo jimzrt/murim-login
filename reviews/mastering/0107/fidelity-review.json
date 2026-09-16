@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "They’re a rising power from Gaoyuan. They’re fairly large, and more than anything, the Red Wind Band Leader is said to possess formidable martial arts.",
+      "defect": "Wolhwa’s spoken dialogue is missing its opening quotation mark, incorrectly presenting the line as narration.",
+      "id": "F01",
+      "rationale": "The Korean line is direct speech, and the binding rules require speech to use curly double quotation marks.",
+      "replacement": "“They’re a rising power from Gaoyuan. They’re fairly large, and more than anything, the Red Wind Band Leader is said to possess formidable martial arts.”",
+      "severity": "minor",
+      "source": "line 259"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Wolhwa continued as she firmly packed tobacco leaves into her long-stemmed pipe.",
+      "defect": "The binding rendering of 곰방대 is not used.",
+      "id": "F02",
+      "rationale": "The exact glossary requires 곰방대 to be rendered as “long-stemmed tobacco pipe.”",
+      "replacement": "Wolhwa continued as she firmly packed tobacco leaves into her long-stemmed tobacco pipe.",
+      "severity": "minor",
+      "source": "line 287"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Wolhwa took out a fire starter, lit it, and drew on her long-stemmed pipe.",
+      "defect": "The repeated 곰방대 term again loses its binding glossary rendering.",
+      "id": "F03",
+      "rationale": "The exact glossary requires 곰방대 to be rendered consistently as “long-stemmed tobacco pipe.”",
+      "replacement": "Wolhwa took out a fire starter, lit it, and drew on her long-stemmed tobacco pipe.",
+      "severity": "minor",
+      "source": "line 311"
+    }
+  ],
+  "summary": "The chapter is faithful overall, with one dialogue-formatting defect and two binding terminology mismatches.",
+  "version": 1
+}

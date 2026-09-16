@@ -10,19 +10,19 @@ Having finally escaped the driver’s seat and settled beside me, Hyuk Mujin sai
 
 This was a man Wolhwa, the Lower District Sect’s Shanxi Branch Leader, had brought with her. Naturally, he was no ordinary coachman.
 
-The man silently holding the reins was a Level 50 First Rate martial artist. A coachman and a bodyguard—the picture fit perfectly.
+The man silently holding the reins was a Level 50 First Rate martial artist. A coachman and bodyguard—the picture was obvious.
 
 “Mujin.”
 
 “Yes?”
 
-“Please, just keep quiet. Then you’ll at least do okay.”
+“Please, just keep quiet for the rest of the trip. Then you might at least pass for normal.”
 
-“……Why am I always the one you pick on?”
+“……Why do you always pick on me?”
 
 “Because you’re always spouting nonsense, you idiot.”
 
-Wolhwa, who was sitting across from us and watching, let out a quiet laugh.
+Wolhwa, seated across from us, let out a quiet laugh.
 
 “It’s nice to see how comfortable you two are with each other.”
 
@@ -34,7 +34,7 @@ Wolhwa, who was sitting across from us and watching, let out a quiet laugh.
 
 “Well, no. That’s true.”
 
-“And even if you were twenty-two, you’d still be younger than me. Anyway, you’re younger.”
+“And even if you’re twenty-two, you’re still younger than me. Anyway, you just are.”
 
 “What are you talking about? Even the stray dogs of Shanxi Province know you’ve only just turned twenty.”
 
@@ -42,7 +42,7 @@ Wolhwa, who was sitting across from us and watching, let out a quiet laugh.
 
 “……Since we have company, I’ll leave it at that.”
 
-Wolhwa beamed at Hyuk Mujin’s ugly excuse.
+Wolhwa beamed at Hyuk Mujin’s pathetic excuse.
 
 “Oh, I don’t mind. Though I can’t speak for Young Hero Jin over here.”
 
@@ -56,13 +56,13 @@ Jin Mukyung, who had kept his mouth firmly shut until now, flinched before speak
 
 *What the hell? Did he just stutter?*
 
-My eyes widened at the unexpected response, and Jin Mukyung subtly looked away.
+My eyes widened at the unexpected response, and Jin Mukyung quickly looked away.
 
 *Oh, this is getting worse.*
 
 He wasn’t usually like this. Normally, he would have glared and demanded to know what I was staring at.
 
-I asked him sincerely, “Are you sick?”
+I asked in complete sincerity, “Are you sick?”
 
 “……Not at all.”
 
@@ -72,15 +72,13 @@ I asked him sincerely, “Are you sick?”
 
 He was acting really strange today.
 
-There was no way a Peak master like him had gotten motion sickness.
+There was no way a Peak master like him had gotten motion sickness. He had been perfectly fine that morning, but now something was clearly off.
 
-He had been full of energy until this morning, but now he was clearly not himself.
+*Come to think of it, he’s been like this ever since we got into the carriage.*
 
-*Come to think of it, he seems to have been like this ever since we got into the carriage.*
+As I narrowed my eyes at Jin Mukyung—
 
-Just as I was narrowing my eyes and watching Jin Mukyung—
-
-*Poke, poke.*
+Poke, poke.
 
 Hyuk Mujin nudged me in the side and whispered so quietly that only I could hear.
 
@@ -88,13 +86,11 @@ Hyuk Mujin nudged me in the side and whispered so quietly that only I could hear
 
 “What about him…? Ah.”
 
-Only after hearing Hyuk Mujin did I notice the bizarre sight.
-
-I couldn’t believe I had missed it until now.
+Only then did I notice the bizarre sight. I couldn’t believe I had missed it until now.
 
 *What is he doing?*
 
-The four-horse carriage brought from the Jin Family of Taiyuan was quite luxurious. The interior was about the size of an ordinary room, with seats spacious enough to accommodate twice our number without trouble.
+The four-horse carriage we had brought from the Jin Family of Taiyuan was quite luxurious. The interior was about the size of an ordinary room, with seats spacious enough to accommodate twice our number without trouble.
 
 And yet…
 
@@ -104,11 +100,11 @@ Despite all the available space, Jin Mukyung had crammed himself into the farthe
 
 *What is this, Platform Nine and Three-Quarters?*
 
-Was he attending a magic school instead of Heaven’s Gate Temple?
+Was he attending a school of magic instead of Heaven’s Gate Temple?
 
 Hyuk Mujin and I weren’t the only ones watching his strange behavior.
 
-“Young Hero Jin, you look very uncomfortable. Why don’t you come over here? There’s plenty of room.”
+“Young Hero Jin, you look terribly uncomfortable. Why don’t you come over here? There’s plenty of room.”
 
 Jin Mukyung went rigid at the sound of Wolhwa’s alluring voice.
 
@@ -138,7 +134,7 @@ We exchanged meaningful glances.
 
 “Why are you reacting like that? You shouldn’t criticize someone for their personality. If there are thick-skinned bastards like me, there can be timid people too.”
 
-“No, wait. Just wait a moment.”
+“No, wait. Hold on.”
 
 Hyuk Mujin stumbled over his words.
 
@@ -146,7 +142,7 @@ Hyuk Mujin stumbled over his words.
 
 “Obviously, Jin Mukyung…”
 
-An eerie voice suddenly cut in.
+An eerie voice cut in.
 
 “Shut up.”
 
@@ -176,9 +172,9 @@ Wolhwa smoothly added, “Though I have yet to receive proper compensation.”
 
 His behavior and manner of speaking were still awkward beyond belief, but he was doing much better than when they had first met.
 
-Looking at the handsome man and beautiful woman sitting together like a picture, Hyuk Mujin exclaimed,
+As he looked at the handsome man and peerless beauty sitting together like a painting, Hyuk Mujin let out an appreciative sigh.
 
-“A promising young martial arts master and a peerless beauty… Whew, just looking at them makes my heart race. Don’t you agree?”
+“A promising young master and a peerless beauty… Whew, just looking at them makes my heart race. Don’t you agree?”
 
 I turned away and pretended not to hear him.
 
@@ -186,9 +182,9 @@ Judging by the killing intent prickling my skin, Hyuk Mujin’s heart wouldn’t
 
 * * *
 
-Winter days were short-tempered.
+Winter days were impatient.
 
-How long had we traveled along the mountain road? The sun quickly set, and darkness descended. The carriage stopped two shichen later, around midnight.
+We hadn’t traveled far along the mountain road before the sun set and darkness fell. The carriage finally stopped two shichen later, around midnight.
 
 “We’ve arrived.”
 
@@ -212,9 +208,9 @@ Just as Wolhwa had said, the shrine’s interior was bare, but signs of human pr
 
 At the words of the coachman and bodyguard, whom I assumed to be a member of the Lower District Sect, we headed outside.
 
-More precisely, one of us was dragged out by someone.
+Or rather, all but one of us did. He was dragged out by someone else.
 
-“Follow me.”
+“Come with me.”
 
 “Gah! Captain! Captain!”
 
@@ -224,49 +220,45 @@ I ignored Hyuk Mujin as Jin Mukyung dragged him away by the collar and looked up
 
 “What are you doing?”
 
-“As you can see.”
+“What does it look like?”
 
-Wolhwa smiled faintly.
+Wolhwa smiled.
 
-“You seem to enjoy looking at the scenery.”
+“You must enjoy looking at the scenery.”
 
 “I’ve been getting into it lately.”
 
-The only scenery to be found in the modern world was the nightscape seen from some high vantage point. Even that consisted of sad lights created by office workers working overtime.
+The only scenery to be found in the modern world was the nightscape seen from some high vantage point. Even that was made up of the sad glow of office buildings where people worked overtime.
 
 *Now this is real scenery.*
 
 There were no dense forests of skyscrapers, apartment complexes, or industrial sites.
 
-In place of asphalt roads, damp dirt paths and crisp air filled the entire world.
+Instead of asphalt roads, damp dirt paths and crisp air filled the world.
 
-*Living in a place like this would be genuinely healing.*
+*Living somewhere like this would be so healing.*
 
-The problem was that it was also an easy place to get killed.
+The problem was, it was also a great place to get killed. Somehow, the people here were even scarier than the monsters.
 
-Somehow, people were more frightening here than monsters.
-
-I didn’t even need to go as far as the Head Elder or Jopil. What had happened at the Phoenix Inn just yesterday was enough.
+I didn’t need to go as far as the Head Elder or Jopil. What had happened at the Phoenix Inn just yesterday was enough.
 
 “Oh, right. What happened to those guys?”
 
-“If you mean the mounted bandits from the Red Wind Band, they’ve been detained. Of course, we had to call a physician first.”
+“If you mean the mounted bandits from the Red Wind Band, they’ve been detained. Of course, we had to summon a physician first.”
 
-I’d beaten the shit out of them, so of course they’d needed treatment.
+I had beaten the shit out of them, so they had certainly needed treatment.
 
-But there was another word that caught my attention more than that.
+But another part of her answer caught my attention.
 
 “The Red Wind Band?”
 
-They’re a rising power from Gaoyuan. They’re fairly large, and more than anything, the Red Wind Band Leader is said to possess formidable martial arts.
+“They’re a rising power from Gaoyuan. Their numbers are considerable, and above all, their leader is said to possess formidable martial arts.”
 
-Northern Gaoyuan.
-
-I had first learned of that place from a map during the war with the Mount Heng Sword Sect.
+Gaoyuan, in northern Shanxi. I had first learned of the place from a map during the war with the Mount Heng Sword Sect.
 
 One thing puzzled me. Gaoyuan was a considerable distance from Honju, where the Phoenix Inn was located. As far as I knew, the journey took more than a week even if you rode day and night.
 
-“How did people like that end up all the way here?”
+“How did people like that end up all the way out here?”
 
 “Toward the end of the war, Lee Cheonbaek hired countless wandering martial artists and mounted-bandit groups. Many of them met their end at Eight Spring Gorge, but some survived and fled.”
 
@@ -280,21 +272,23 @@ Wolhwa shook her head.
 
 “He watched the situation until the very end. He kept a close eye on Eight Spring Gorge from only two shichen away, then turned his horse around the moment he heard how the battle had ended—along with the two hundred men under his command.”
 
-Two hundred people.
+Two hundred men.
 
-What would have happened if the Red Wind Band had joined the battle at Eight Spring Gorge that day? There would have been an enormous number of casualties, and it might even have affected the outcome of the battle.
+What would have happened if the Red Wind Band had joined the battle at Eight Spring Gorge that day?
+
+Not only would there have been enormous casualties, but they might even have changed the outcome of the battle.
 
 “We were lucky.”
 
-“We were. For the Mount Heng Sword Sect, it was incredibly unlucky.”
+“We were. And the Mount Heng Sword Sect was incredibly unlucky.”
 
 Wolhwa continued as she firmly packed tobacco leaves into her long-stemmed pipe.
 
-“The Red Wind Band headed north immediately. They targeted the Mount Heng Sword Sect’s main base after most of its forces had withdrawn.”
+“The Red Wind Band headed north immediately. They set their sights on the Mount Heng Sword Sect’s main base after most of its forces had been drawn away.”
 
-“……Huh.”
+“……Damn.”
 
-They were natural-born plunderers.
+They were plunderers by nature.
 
 The moment the tide of the war turned, they headed north and sank their teeth into the Mount Heng Sword Sect’s throat while most of its main force was away.
 
@@ -304,17 +298,17 @@ They had preserved their forces by staying out of the battle, and they must have
 
 “Yes.”
 
-After two days of fierce fighting, the Mount Heng Sword Sect ultimately emerged victorious—but at the cost of the Young Sect Leader, who was supposed to succeed his father.
+After two days of fierce fighting, the Mount Heng Sword Sect ultimately emerged victorious—but at the cost of the Young Sect Leader, who should have succeeded his father.
 
-“But the rumors I heard said that wandering martial artists and mounted bandits were mixed together.”
+“But the rumors I heard said their forces included both wandering martial artists and mounted bandits.”
 
 “A tiger doesn’t become a dog just because it has lost its teeth. The Red Wind Band Leader had recruited quite a few wandering martial artists as well. They would have made excellent shields.”
 
-*Tap, tap.*
+Tap, tap.
 
 Wolhwa took out a fire starter, lit it, and drew on her long-stemmed pipe.
 
-“The mounted bandits Young Master Jin defeated were probably the ones who fled at that time. Even if the Red Wind Band is unusually disciplined for a mounted-bandit group, it doesn’t mean they have no deserters at all. I’m not sure what they were doing in Honju, though.”
+“The mounted bandits you defeated were probably deserters from that battle. The Red Wind Band may be unusually disciplined for a mounted-bandit group, but that doesn’t mean no one ever deserts. Though I have no idea what they were doing in Honju.”
 
 “Deserters…”
 
@@ -332,8 +326,8 @@ Wolhwa gave me a prim smile.
 
 “Do commoners really visit this shrine in weather like this?”
 
-“Of course not. Hunters, perhaps. Why do you ask all of a sudden?”
+“Of course not. Hunters, perhaps. Why do you ask?”
 
 I pointed toward the mountain path.
 
-Through the light snowstorm that had begun to swirl, I could see torches climbing toward us.
+Through the light flurry that had begun to swirl, I could see torches climbing toward us.
