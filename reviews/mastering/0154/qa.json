@@ -1,0 +1,39 @@
+{
+  "chapter": 154,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.214,
+    "source_characters": 7262,
+    "source_paragraphs": 233,
+    "translation_characters": 16077,
+    "translation_paragraphs": 223
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "인도",
+        "preferred": "Human Butcher"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "원단",
+        "preferred": "New Year's Day"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
