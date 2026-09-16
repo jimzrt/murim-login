@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "His face flushed red as he coughed awkwardly.",
+      "defect": "The county magistrate deliberately clears his throat to regain attention; he does not cough awkwardly.",
+      "id": "F01",
+      "rationale": "The source uses 헛기침을 했다, matching the preceding “Ahem” and indicating a deliberate throat-clearing rather than a cough.",
+      "replacement": "His face flushed red as he cleared his throat.",
+      "severity": "minor",
+      "source": "lines 259–261"
+    }
+  ],
+  "summary": "The chapter is faithful overall, with one minor physical-action defect.",
+  "version": 1
+}
