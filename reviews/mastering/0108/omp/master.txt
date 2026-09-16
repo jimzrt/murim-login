@@ -2,7 +2,7 @@
 
 *Hunters?*
 
-Wolhwa’s guess was only half right. They were hunters, all right—but the uninvited guests were something more special and far more vicious.
+Wolhwa’s guess was only half right. They were hunters, all right—but these uninvited guests were a rather more specialized and far more vicious kind.
 
 “Move it, you bastards.”
 
@@ -22,7 +22,7 @@ There were ten of them in all, every one of them rough-faced and armed. Ahead of
 
 “We should get a decent price if we sell them to a circus troupe. Let’s hurry inside and have a drink.”
 
-“Ah, my mouth’s watering just thinking about it… But what’s that?”
+“Damn, my mouth’s watering just thinking about it… But what’s that?”
 
 The human hunters stopped dead. Their eyes lingered on the four-horse carriage parked before the shrine, then slowly shifted aside.
 
@@ -36,17 +36,17 @@ I stepped forward when the apparent leader spoke.
 
 “A traveler, huh? Dangerous time to be wandering around.”
 
-The oily gleam in his eyes said he himself was one of those dangers.
+The oily gleam in his eyes said he considered himself one of those dangers.
 
 Of course, at a mere Level 25, he didn’t even qualify as a threat to me.
 
 “Would you look at that. A four-horse carriage and a stunning beauty. You must be the Young Master of some wealthy family.”
 
-If he had come closer to inspect it, he could have seen the crest of the Jin Family of Taiyuan carved into the carriage. But it was pitch-black outside, and he didn’t possess particularly sharp eyesight.
+If he had come closer, he might have noticed the crest of the Jin Family of Taiyuan carved into the carriage. But it was pitch-dark, and he wasn’t blessed with particularly sharp eyesight.
 
 “I’m not from a poor one.”
 
-“Well now. You’ve been awfully informal with me from the start.”
+“Well, now. You’ve been awfully informal with me from the start.”
 
 The leader licked his cracked lips. He seemed to be getting irritated, but he still hadn’t let down his guard around me.
 
@@ -54,11 +54,11 @@ The leader licked his cracked lips. He seemed to be getting irritated, but he st
 
 “About what?”
 
-“What do you think? If you show us a little sincerity, we might let you have the place.”
+“What do you think? Show us a little generosity, and we might let you have the place.”
 
 “Anyone listening would think you owned this shrine.”
 
-“It’s abandoned. Doesn’t that mean whoever claims it first owns it?”
+“It’s abandoned. Doesn’t that make it first come, first served?”
 
 “Then bring me a certified deed.”
 
@@ -72,13 +72,13 @@ I clicked my tongue as they whispered among themselves about certified deeds.
 
 “…You’re crossing the line. Are you waiting for bodyguards?”
 
-“I don’t have any.”
+“No.”
 
 “Then what are you relying on?”
 
 “Me.”
 
-The leader’s gaze shifted to my two empty hands.
+The leader’s gaze dropped to my empty hands.
 
 “Without even a weapon?”
 
@@ -88,7 +88,7 @@ The leader’s gaze shifted to my two empty hands.
 
 “Murim isn’t a joke. You are.”
 
-The moment I stepped toward the brightly burning torch, the prisoners who had been quietly restrained began screaming.
+The moment I stepped into the bright torchlight, the prisoners who had been standing quietly under guard began to scream.
 
 “Wh-what?”
 
@@ -96,7 +96,7 @@ The moment I stepped toward the brightly burning torch, the prisoners who had be
 
 “Have you bastards lost your minds? Shut your mouths!”
 
-The men in the rear drew daggers and held them to the prisoners’ throats in response to their violent reaction. The leader stared at me with wary eyes.
+The men at the rear drew daggers and pressed them to the prisoners’ throats. The leader stared at me warily.
 
 “You know them?”
 
@@ -104,19 +104,19 @@ The men in the rear drew daggers and held them to the prisoners’ throats in re
 
 Their reaction was so sudden that even I was caught off guard. And why were they calling me Boss?
 
-“Bosss! It’s me! It’s us!”
+“Bossss! It’s me! It’s us!”
 
 “These men seem to know you.”
 
-“They’re just asking me to save them… Huh?”
+“They’re probably just begging me to save them… Huh?”
 
-I looked closely at the prisoners. They were all short as children and had uniformly ugly faces. They looked vaguely familiar.
+I studied the prisoners. They were all as short as children and ugly as sin. Something about them seemed familiar.
 
 *Is it because they’re built like goblins?*
 
 Wait. Goblins?
 
-A distant memory suddenly surfaced. No, it wasn’t even that distant. It had happened only a few months earlier, during the tutorial Quest.
+A distant memory suddenly surfaced. No, it wasn’t even that distant. It had only been a few months since the tutorial Quest.
 
 “Don’t tell me… You were with the Heavenly Axe?”
 
@@ -132,7 +132,7 @@ I never expected to run into these bastards here. While I stood dumbfounded, Wol
 
 “We’ve met before, at least.”
 
-Human traffickers and bandits. It was hard to say which was worse.
+Human traffickers and bandits. It was hard to say which side was worse.
 
 A moment ago, I’d been planning to save them. Now I was having second thoughts.
 
@@ -140,33 +140,33 @@ A moment ago, I’d been planning to save them. Now I was having second thoughts
 
 “Are you going to abandon us?”
 
-“We quit being bandits after that day and have lived good lives ever since!”
+“We gave up banditry after that day and have lived honest lives ever since!”
 
 “…”
 
-Their ability to read the situation was almost supernatural. No wonder. They had surrendered immediately when the Heavenly Axe died, after all.
+Their ability to read the room was uncanny. Then again, these were the same men who had surrendered the instant the Heavenly Axe died.
 
 “Are you going to save them?”
 
-“Tsk. I think we have to, at least.”
+“Hmm. I suppose I should.”
 
-They said they had turned over a new leaf after that day, and leaving them like this wouldn’t sit right with me. More importantly, former bandits were far better than active human traffickers.
+They claimed they had turned over a new leaf, and leaving them like this wouldn’t sit right with me. More importantly, former bandits were still better than active human traffickers.
 
 The leader overheard us and cut in with a growl.
 
 “Save them? You?”
 
-“You heard the whole thing. Why ask again? You sure know how to make life difficult for yourself.”
+“You heard me the first time. Why ask again? You sure know how to make life difficult for yourself.”
 
 “You little shit. I’ve let you run your mouth long enough…”
 
 *Clang!*
 
-The leader leveled his spear at me, and his men drew their weapons as well. Wolhwa clung to my side with a deliberately frightened expression.
+The leader leveled his spear at me, and his men drew their weapons. Wolhwa pressed herself against my side with a deliberately frightened expression.
 
-“Oh my, I’m scared. You have to protect me, don’t you?”
+“Oh my, how frightening. You’ll protect me, won’t you?”
 
-Her moist eyes stirred a man’s protective instinct. Her expression was pleading.
+Her eyes shimmered, and her expression was pleading enough to stir any man’s protective instincts.
 
 Knowing Wolhwa’s true nature, I found the sight ridiculous. The men, however, swallowed hard.
 
@@ -174,9 +174,9 @@ Knowing Wolhwa’s true nature, I found the sight ridiculous. The men, however, 
 
 When the leader gave her a lecherous look, Wolhwa shrieked.
 
-“Oh no, oh no! This maiden is so scared!”
+“Oh no! Whatever shall I do? This maiden is terribly frightened!”
 
-“Ho ho, don’t be so frightened. Though I may have lived a rough life, you’ll soon learn that I’m a man with a heart as soft as silk. In a little while, we can have a conversation with our bodies.”
+“Ha ha, don’t be too afraid. I may have lived a rough life, but you’ll soon learn that my heart is as soft as silk. In a little while, we can let our bodies do the talking.”
 
 “Hey, look at me first.”
 
@@ -194,19 +194,19 @@ I gave the bewildered man a broad smile.
 
 “I said you’re fucked, asshole.”
 
-The moment I finished speaking, the ground shook, and a powerful wind whipped through the area.
+The instant I finished speaking, the ground shook and a powerful wind tore through the clearing.
 
 *Boom—whoosh!*
 
 It all happened in the blink of an eye.
 
-Something swept past Wolhwa and me at terrifying speed and was already standing in front of the leader.
+Something swept past Wolhwa and me at terrifying speed. A moment later, it was already standing before the leader.
 
 “Say that again.”
 
 Jin Mukyung.
 
-An overwhelming wave of qi poured from his entire body and crushed the entire scene. The leader’s face turned deathly pale, and his hands began to tremble.
+The immense wave of qi pouring from his entire body crushed everyone present. The leader’s face turned deathly pale, and his hands began to tremble.
 
 “F-forgive me. Please…”
 
@@ -216,13 +216,13 @@ A cold voice answered.
 
 * * *
 
-Perhaps Jin Mukyung was the greatest pacifist among us. In just over ten seconds, he had put an end to all the unnecessary fighting that would have followed.
+Perhaps Jin Mukyung was the greatest pacifist among us. After all, in just over ten seconds, he had brought every unnecessary fight that might have followed to an end.
 
 “S-surrender! We surrender!”
 
 “Please spare us! Please, just let us live…”
 
-Their faces were frozen with terror. Everyone’s legs gave out, and they collapsed where they stood. Someone’s urine trickled down the hill.
+Their faces were frozen with terror. Their legs had given out, leaving all of them sprawled on the ground, and someone’s urine trickled down the hill.
 
 The Five-Colored Ghosts were no different.
 
@@ -230,23 +230,23 @@ The Five-Colored Ghosts were no different.
 
 Jin Mukyung wiped the blood from his face and tossed out that single word. A deathly silence fell.
 
-Hyuk Mujin, one eye bruised deep blue, whispered to me,
+Hyuk Mujin, one eye bruised dark blue, whispered to me.
 
 “Am I actually alive right now?”
 
-“Yeah. Your breath against my ear is giving me goose bumps, so move away.”
+“Yeah. Now back off. Feeling your breath against my ear is giving me goose bumps.”
 
 “Just a moment ago, I was wondering how anyone could get beaten like a dog that badly, but now…”
 
 *Gulp.*
 
-Hyuk Mujin swallowed dryly, his gaze fixed on the fallen leader.
+Hyuk Mujin swallowed, his gaze fixed on the fallen leader.
 
 “Hng… Hng…”
 
-With all four limbs broken and his dantian destroyed, the man struggled for breath. If he received proper care, he might be able to walk again, but his life as a martial artist was over.
+With all four limbs broken and his dantian destroyed, the man struggled for breath. With proper care, he might walk again someday, but his life as a martial artist was over.
 
-The Level window I sensed through Qi Sense was proof.
+The Level window revealed by Qi Sense was proof.
 
 > **System**
 >
@@ -256,27 +256,27 @@ The Level window I sensed through Qi Sense was proof.
 
 The culprit who had reduced a Level 25 martial artist—one who had once been close to First Rate—to a living corpse kept stealing glances in our direction.
 
-“Captain, please save me. I think the Second Young Master is still short on blood.”
+“Captain, please save me. I think the Second Young Master is still thirsty for blood.”
 
-“Stop talking nonsense and move that guy somewhere suitable. He’ll die if you leave him like that.”
+“Stop talking nonsense and move that guy somewhere suitable. He’ll die if you leave him there.”
 
-“Doesn’t he deserve to die? They were selling perfectly innocent commoners.”
+“Doesn’t he deserve to die? These bastards were selling innocent commoners.”
 
 “Move him anyway. He’s still alive.”
 
-One of the greatest sources of dissonance I had felt while moving between Murim and the modern world was the issue of killing people.
+One of the greatest disconnects I had felt while traveling between Murim and the modern world concerned killing.
 
 For twenty-seven years, I had lived in a society governed by law and order.
 
-I had trained to kill enemies with bladed weapons, but my targets had been monsters, not living humans.
+I had trained to kill enemies with bladed weapons, but those enemies had been monsters, not living human beings.
 
-*I was sure that was the case…*
+*At least, that used to be true…*
 
 Now I couldn’t even remember how many people I had killed. Even after realizing that the enemies who had died by my hand might have been real people rather than NPCs, I hadn’t felt much guilt.
 
 *They were enemies. They were trying to kill me too.*
 
-I didn’t know whether it was because I had lived as a Hunter or because I had grown accustomed to Murim’s ways. I was only surprised by my own numbness and the simplicity of my self-justification.
+I didn’t know whether living as a Hunter had made me this way or whether I had simply grown accustomed to Murim. All I knew was that my own numbness—and the simplicity of my self-justification—had surprised me.
 
 *For now, this much should be fine.*
 
@@ -286,25 +286,25 @@ I shook off the thoughts clinging to me and approached the men cowering on the g
 
 “Eek!”
 
-“Uaaagh! Save me, Boss!”
+“Uaaagh! Spare me, Boss!”
 
 “You bastards make a fuss even when I’m trying to save you. Hold still.”
 
-I untied the ropes, and the Five-Colored Ghosts were free. They stood on trembling legs.
+Once I untied their ropes, the Five-Colored Ghosts rose on trembling legs.
 
 “Th-thank you.”
 
 “We’ll serve you as our Benefactor for the rest of our lives!”
 
-“Like hell you will. Anyway, how did you end up getting caught by men like these? All five of you at once?”
+“Like hell you will. More importantly, how did all five of you get caught by bastards like these?”
 
-The Five-Colored Ghosts were small, but they were grown men, at least in name. They had been strong enough to commit banditry alongside the Heavenly Axe.
+The Five-Colored Ghosts might have been small, but they were still grown men. They had been capable enough to work as bandits under the Heavenly Axe.
 
 “Um, well…”
 
 “…?”
 
-What was wrong with these guys?
+What was wrong with them?
 
 Sensing something off in their hesitation, I grabbed the nearest human trafficker by the collar and hauled him up.
 
@@ -314,7 +314,7 @@ Sensing something off in their hesitation, I grabbed the nearest human trafficke
 
 “…”
 
-What the hell, these Ten-Colored Ghosts. I thought they had quit being bandits and might have taken up farming, but they had only changed occupations?
+These weren’t the Five-Colored Ghosts. They were the Ten-Colored Ghosts. I’d thought they might have quit banditry and taken up farming, but they’d only switched professions.
 
 “Explain yourselves.”
 
@@ -324,21 +324,21 @@ Under my piercing stare, the five men’s eyes darted around.
 
 “Boss, this is the only kind of thing people like us ever learned to do.”
 
-“E-even so, we only started recently!”
+“B-but we only started recently!”
 
-“We tried to work honestly, but nothing went right… We said we’d pull just one job and get out, but then…”
+“We tried to work honestly, but nothing went right… We decided to pull one last job and quit, but then…”
 
 “If we’d known they were mounted bandits, we never would’ve touched them. We’re victims too. Boss, please forgive us just this once!”
 
-As I wondered what to do with these men, a familiar word made me pause.
+As I considered what to do with them, a familiar term made me pause.
 
 “What did you say?”
 
 “We’ll live honestly if you forgive us just one more time!”
 
-“No, not that. What did they say?”
+“Not that. What did you call them?”
 
-“Ah, do you mean the mounted-bandit group?”
+“Oh, do you mean the mounted-bandit group?”
 
 “Yeah. That.”
 
@@ -346,29 +346,29 @@ As I wondered what to do with these men, a familiar word made me pause.
 
 “The Red Wind Band? Are you sure?”
 
-“Yes. I heard it clearly with my own ears. Right?”
+“Yes. I heard it with my own ears. Right?”
 
-The others began eagerly adding their own pieces.
+The others eagerly chimed in.
 
 “They also said they were leaving at first light tomorrow.”
 
 “They said they’d have to ride without stopping to reach Saneum. They were even worried they might lose their heads if they arrived late.”
 
-“So that’s how it is.”
+“Is that so?”
 
 Yesterday, and now today.
 
 Running into mounted bandits from the Red Wind Band two days in a row was already an uncanny coincidence. On top of that, Saneum was close to Eung-hyeon, where the Mount Heng Sword Sect’s headquarters stood.
 
-“Are these men telling the truth?”
+“Are they telling the truth?”
 
-The human trafficker whose collar I held in my right hand—or rather, the mounted bandit from the Red Wind Band—nodded, trembling.
+The human trafficker whose collar I held in my right hand—or rather, the mounted bandit from the Red Wind Band—tremblingly nodded.
 
 At that moment—
 
 *Shriek!*
 
-A hawk landed in front of the shrine with a sharp cry. A small cylinder tied to its ankle caught my eye.
+A messenger eagle landed before the shrine with a sharp cry. A small cylinder tied to its ankle caught my eye.
 
 *A messenger eagle.*
 

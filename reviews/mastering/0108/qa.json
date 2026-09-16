@@ -1,0 +1,39 @@
+{
+  "chapter": 108,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.128,
+    "source_characters": 5908,
+    "source_paragraphs": 182,
+    "translation_characters": 12571,
+    "translation_paragraphs": 188
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "귀가",
+        "preferred": "your family"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "갑자",
+        "preferred": "jiazi"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "은자",
+        "preferred": "silver nyang"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
