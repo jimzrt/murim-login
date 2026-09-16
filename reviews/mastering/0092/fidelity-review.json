@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "just two weeks ago",
+      "defect": "Changes the stated interval from fifteen days to fourteen days.",
+      "id": "F01",
+      "rationale": "보름 means fifteen days, not two weeks.",
+      "replacement": "just fifteen days ago",
+      "severity": "minor",
+      "source": "Korean line 51"
+    },
+    {
+      "confidence": 0.96,
+      "current": "We’ve finished identifying everyone except for three people.",
+      "defect": "Narrows a completed investigation to merely identifying people.",
+      "id": "F02",
+      "rationale": "전부 파악 완료 refers to having fully gathered or ascertained the relevant information, not merely established identities.",
+      "replacement": "We’ve finished investigating everyone except for three people.",
+      "severity": "minor",
+      "source": "Korean line 113"
+    },
+    {
+      "confidence": 0.96,
+      "current": "So aside from those three, you’ve identified everyone?",
+      "defect": "Again narrows the investigation’s completion to identification alone.",
+      "id": "F03",
+      "rationale": "전부 파악 끝났지 repeats the broader claim that their information has been fully investigated.",
+      "replacement": "So aside from those three, you’ve finished investigating everyone?",
+      "severity": "minor",
+      "source": "Korean line 157"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Mobilize a few people from the Guild Audit Team and increase the surveillance separately.",
+      "defect": "Omits that Chunsoo orders an increase in the number of surveillance personnel, making the instruction less concrete.",
+      "id": "F04",
+      "rationale": "따로 감시 인원 늘리고 explicitly instructs him to add more people assigned to surveillance.",
+      "replacement": "Mobilize a few people from the Guild Audit Team and separately assign more personnel to surveillance.",
+      "severity": "minor",
+      "source": "Korean line 163"
+    }
+  ],
+  "summary": "The chapter is broadly faithful, with minor losses in quantity and investigative scope.",
+  "version": 1
+}
