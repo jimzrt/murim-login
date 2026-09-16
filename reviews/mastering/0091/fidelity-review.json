@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "Ms. Songi",
+      "defect": "The established spelling of 송이 is lost.",
+      "id": "F01",
+      "rationale": "The exact glossary requires “Song-i”; 씨 supports retaining “Ms.”",
+      "replacement": "Ms. Song-i",
+      "severity": "minor",
+      "source": "line 169"
+    }
+  ],
+  "summary": "The chapter is faithful overall, with one binding name-format defect.",
+  "version": 1
+}
