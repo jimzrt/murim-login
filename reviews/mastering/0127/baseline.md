@@ -1,16 +1,16 @@
 # Chapter 127
 
-It didn’t take long for the question marks to turn into exclamation points, and the exclamation points into bewilderment and rage.
+It didn’t take long for the question marks to turn into exclamation points, and the exclamation points to turn into bewilderment and rage.
 
 Jin Mukyung was the first to break the silence.
 
 “You…”
 
-His face was flushed red, his breathing ragged. His fist twitched as if he wanted to plant one right in my mouth.
+His face was flushed red, and his breathing was rough. His fist twitched as if he wanted to plant one right in my mouth.
 
 *Well, he’s really pissed.*
 
-A chill ran through me. A dagger had flown in and lodged in my chest.
+It was chilling. A dagger had flown straight into my chest.
 
 But don’t worry. I had a sturdy shield.
 
@@ -24,17 +24,17 @@ At the quiet voice, Jin Mukyung’s face twisted violently.
 
 I deliberately lowered my eyes.
 
-“No, eldest brother. I was shortsighted.”
+“No, eldest brother. I was short-sighted.”
 
 “Hm?”
 
-“I let my curiosity get the better of me… But after hearing what Eldest Brother said, I realized the truth. That object must never be kept—or hidden.”
+“I let my curiosity get the better of me… But after hearing what Eldest Brother said, I realized something. It’s an object that should never be kept—or hidden.”
 
 I didn’t forget to make a show of trembling my fist, as if merely thinking about it made my teeth chatter with rage.
 
-“The Demonic Cult! Just hearing the name of those vile bastards makes my teeth chatter with fury!”
+“The Demonic Cult! Just hearing the name of those vile bastards makes me tremble with fury!”
 
-That part was sincere. If they were going to make something, they should’ve made it properly. Turning the user into a deranged murderer was one hell of a design flaw.
+This part was sincere. If you’re going to make something, make it properly. Why did it have such a serious defect that it turned people into deranged murderers?
 
 “Good heavens.”
 
@@ -44,17 +44,17 @@ Jin Wikyung looked at me with eyes full of affection.
 
 Of course I didn’t.
 
-Even the year before last was already hazy. How was I supposed to know what the original owner of this body had done at age six?
+The events of the year before last were already hazy. How was I supposed to know what the original owner of this body had done at age six?
 
 Still, I nodded solemnly.
 
-“I remember it clearly. It was my one and only dream.”
+“I remember it clearly. It was my only dream.”
 
-Chivalrous hero, governor of Gyeonggi Province—whatever. As of this moment, that was my career aspiration at age six.
+Whether it was a chivalrous hero or the governor of Gyeonggi Province, as of this moment, that was my career aspiration at age six.
 
-“Ha-ha. To think that little boy would grow into such a fine man.”
+“Ha-ha. To think that little boy would grow up so splendidly.”
 
-Jin Wikyung smiled with satisfaction, then turned to the other two.
+After laughing with satisfaction, Jin Wikyung turned toward the other two people.
 
 “You were there too, Wipeng. Do you remember?”
 
@@ -68,15 +68,15 @@ Wipeng answered without even taking a breath.
 
 “Be quiet. Our youngest showed unusual promise from an early age.”
 
-“So that promise… Ah, forget it. I should just keep my mouth shut.”
+“So that promise… Ah, never mind. I should just stop talking.”
 
 Glug, glug.
 
-Jin Wikyung neatly ignored Wipeng, who was pouring liquor straight from the bottle, and turned to the next man in line.
+Jin Wikyung completely ignored Wipeng, who was pouring liquor straight from the bottle, and turned his attention to the next man in line.
 
 “Mukyung. Now that you understand your little brother’s sincerity, let go of your anger.”
 
-Jin Mukyung, whose face was twisted into an ugly grimace, finally spoke.
+Jin Mukyung, who had been making a face like he’d swallowed something foul, finally spoke.
 
 “Can’t I hit that bastard just once?”
 
@@ -84,13 +84,13 @@ Jin Mukyung, whose face was twisted into an ugly grimace, finally spoke.
 
 “Just once. Please.”
 
-At the icy voice, I quickly bowed my head.
+At the icy voice, I quickly lowered my head.
 
 “Please forgive this foolish little brother, Second Brother.”
 
-“You’ve been talking down to me this whole time, and now you’re calling me ‘brother’?”
+“The bastard who’s been speaking casually to me this whole time is suddenly calling me ‘brother.’”
 
-“Pardon? Me?”
+“Pardon? I am?”
 
 “That’s enough. This is your final warning.”
 
@@ -98,7 +98,7 @@ At the icy voice, I quickly bowed my head.
 
 “You little shit!”
 
-Jin Mukyung shot to his feet, only to sink back down with a gasp. The bandages wrapped around his chest were turning red. His wound must have reopened.
+Jin Mukyung shot to his feet, then sank back down with a gasp. The bandages tied around his chest were turning red. It seemed his wound had reopened.
 
 “Oh, no! Second Brother, are you all right?”
 
@@ -106,9 +106,9 @@ Jin Mukyung shot to his feet, only to sink back down with a gasp. The bandages w
 
 “Doctor! Doctor!”
 
-The drinking party descended into chaos in an instant.
+The drinking party became a complete disaster in an instant.
 
-Wipeng silently picked up his second bottle and muttered,
+Wipeng quietly picked up his second bottle and muttered,
 
 “This family is really something…”
 
@@ -118,7 +118,7 @@ And how something it was—the foremost family in Shanxi.
 
 The atmosphere finally settled down after the physician had come and gone.
 
-Ignoring Jin Mukyung’s murderous glare, I took the Temporary Strength Pill from inside my robes.
+I ignored Jin Mukyung’s murderous glare and took the Temporary Strength Pill from inside my robes.
 
 “This is it.”
 
@@ -128,7 +128,7 @@ Jin Wikyung and Wipeng examined it closely.
 
 “Wipeng, what do you think?”
 
-“Just looking at it, I can smell blood. It’s a vicious object.”
+“Just looking at it makes me smell blood. It’s a vicious object.”
 
 “Could it really have been made by the Demonic Cult?”
 
@@ -142,23 +142,23 @@ Both of them looked extremely serious. I was just as curious about where the Tem
 
 “A Temporary Strength Pill?”
 
-“Yes. I heard it directly from Pung Yang’s own mouth.”
+“Yes. I heard it directly from Pung Yang.”
 
-Jin Mukyung abruptly cut in.
+Jin Mukyung suddenly cut in.
 
-“Pung Yang? When?”
+“Pung Yang? When did you hear that?”
 
 “While you were unconscious.”
 
 “…Hoo. Hoo…”
 
-No matter what anyone said, I was the sole eyewitness and witness. While Jin Mukyung steadied his breathing to calm himself after getting nowhere, the furrows between the other two men’s brows only deepened.
+I was the only eyewitness and witness, no matter what anyone said. As Jin Mukyung, who had gotten nowhere with his interruption, steadied his breathing to calm himself, the furrows between the other two men’s brows only deepened.
 
 “A Temporary Strength Pill, Wipeng?”
 
-“I’ve never heard the name either. If something this potent belonged to the Demonic Cult, it must have been used during the Great Faction War…”
+“I’ve never heard of it either. If an object with this level of efficacy belonged to the Demonic Cult, it must have been used during the Great Faction War…”
 
-“What if the Demonic Cult didn’t make it?”
+“Could it not be the Demonic Cult?”
 
 Their gazes turned toward me.
 
@@ -166,7 +166,7 @@ Their gazes turned toward me.
 
 “What makes you think that?”
 
-“I’m just saying there’s no need to jump to conclusions.”
+“I’m saying there’s no need to decide that from the start.”
 
 In truth, I had said it out of hope that I might be able to take the pill back if it hadn’t been made by the Demonic Cult.
 
@@ -174,7 +174,7 @@ Of course, I had another thought as well.
 
 *The Head Elder.*
 
-On the surface, the enemy in the last battle had clearly been the Mount Heng Sword Sect. But the true enemy had been the Head Elder himself.
+The Mount Heng Sword Sect had certainly been the enemy that appeared on the surface during the last battle, but the true enemy had been the Head Elder himself.
 
 Rather than making a simple either-or assumption, I believed we always had to keep open the possibility that there might be a third faction involved.
 
@@ -198,7 +198,7 @@ But it was already too late.
 
 The two words *Dark Heaven* had been deeply etched into my mind.
 
-*Dark Heaven? What’s that?*
+*Dark Heaven? What is that?*
 
 Then something unexpected happened.
 
@@ -208,7 +208,7 @@ Then something unexpected happened.
 >
 > The item description for the **Temporary Strength Pill** will be updated.
 
-The System notification had come out of nowhere. I held out my hand toward Wipeng, who was holding the Temporary Strength Pill.
+It was a completely sudden System notification. I held out my hand toward Wipeng, who was holding the Temporary Strength Pill.
 
 “May I take a quick look?”
 
@@ -216,9 +216,9 @@ The System notification had come out of nowhere. I held out my hand toward Wipen
 
 *Item check.*
 
-The moment I muttered the command in my head, the information on the Temporary Strength Pill appeared.
+As soon as I muttered the words in my mind, information about the Temporary Strength Pill appeared.
 
-The change was easy to spot.
+Finding the changed information was easy.
 
 > **System**
 >
@@ -229,10 +229,10 @@ The change was easy to spot.
 > **Type:** Elixir  
 > **Grade:** ???  
 > **Restriction:** Peak martial artist or higher  
-> **Description:** A pill manufactured by **Dark Heaven**. For approximately one shichen, it dramatically raises the user’s latent power, but a price follows. Do not take it except in the worst-case scenario.  
-> **Effect:** Combat-related stats +100  
-> **Internal energy:** +15 years  
-> **Body-Protecting Qi:** Available
+> **Description:** A pill manufactured by **Dark Heaven**. For approximately one shichen, it dramatically raises the user’s latent power, but a price follows. Do not take it except in the worst circumstances.  
+> **Effects:** Combat-related stats +100  
+> Internal energy +15 years  
+> Body-Protecting Qi available
 
 The phrase *Someone Unknown* had disappeared, replaced by the unfamiliar term *Dark Heaven*.
 
@@ -242,9 +242,9 @@ Well, anyone capable of making something like the Temporary Strength Pill was bo
 
 *Dark Heaven.*
 
-Whoever had named them had one hell of a gift. Those two words alone announced that they were shady bastards.
+Whoever came up with the name had incredible instincts. Two words were enough to tell everyone they were suspicious bastards.
 
-*These fuckers definitely have something rotten going on behind the scenes. I’m ninety-nine percent sure.*
+*These guys definitely have something rotten going on behind the scenes. Ninety-nine percent sure.*
 
 *Jin Wikyung and Wipeng seem to know something.*
 
@@ -264,19 +264,19 @@ A troubled look crossed Jin Wikyung’s face.
 
 Those words came from a man who cared deeply for his younger brothers.
 
-If even Jin Wikyung refused to speak, there was no point asking Wipeng.
+If Jin Wikyung was unwilling to speak, there was no need to ask Wipeng.
 
 “I apologize, Young Masters, but I cannot tell you until the matter becomes clearer.”
 
-His attitude was firmer than I had ever seen it. Jin Mukyung and I both realized that we had to withdraw for today.
+His attitude was firmer than anything I had seen from him before. Both Jin Mukyung and I realized that we had to withdraw for today.
 
 But the more they tried to hide it, the more curious I became about Dark Heaven.
 
-*So it’s a secret they have to keep even from us.*
+*So it’s a secret they have to keep hidden even from us.*
 
-Setting aside the fact that Mukyung and I were direct descendants, we were both core masters of the Jin Family of Taiyuan. If Wipeng was Jin Wikyung’s right arm, either of us could more than qualify as his left arm—or at least one of his legs.
+Even putting aside the fact that Mukyung and I were direct descendants of the family, we were core masters of the Jin Family of Taiyuan. If Wipeng was Jin Wikyung’s right arm, the two of us were each more than qualified to serve as his left arm or one of his legs.
 
-*Then it must be top-secret information known only to those two, even within the family.*
+*Then it must be a top-secret matter known only to those two, even within the family.*
 
 I was only human, so I couldn’t help being curious. The fact that the System had reacted this time, despite remaining silent during the Mount Heng Sword Sect incident, also played a part.
 
@@ -288,19 +288,19 @@ All right. I’d made up my mind.
 
 *I’ll ignore it and go on living.*
 
-Too much curiosity had a way of shortening your life. It had only been a few days since I’d gone to deliver the mail to the Mount Heng Sword Sect and nearly died.
+Excessive curiosity had a way of shortening one’s life. It had only been a few days since I’d gone to deliver the mail to the Mount Heng Sword Sect and nearly died.
 
 A mysterious organization whose very name was ominous? If I got involved with them, it was obvious things wouldn’t end well.
 
-“Come now, let’s stop talking about this and have another drink.”
+“Well, let’s stop talking about this and have another drink.”
 
 Jin Wikyung forced the mood back to normal.
 
-Wipeng had already demolished two bottles by himself, and even the injured Mukyung was filling his glass. How could I be the only one to sit out? I accepted the liquor Jin Wikyung poured and downed it in one gulp.
+Wipeng, who had already demolished two bottles by himself, was filling his glass, and so was the injured Mukyung. How could I be the only one to sit out? I accepted the liquor Jin Wikyung poured and downed it in one gulp.
 
 Gulp, gulp.
 
-The notoriously potent fire liquor burned down my throat in a rush of heat.
+The notorious fire liquor burned its way down my throat with a fierce heat.
 
 “Guhhh.”
 
@@ -312,23 +312,23 @@ Unlike me, who shuddered from head to toe, the other three immediately filled th
 
 “Drink!”
 
-“Pour it down!”
+“Down it!”
 
-“Keep going till we drop!”
+“Let’s keep going until we drop!”
 
 “….”
 
-It wasn’t until we had drunk through the entire night that I learned Shanxi Province was part of North China—and that every man from North China was an incredible drinker.
+I didn’t learn that Shanxi Province belonged to North China, or that every man from North China was an incredible drinker, until after we spent the entire night drinking.
 
 * * *
 
-At noon the next day, I mounted my horse in a perfectly refreshed mood, and Hyuk Mujin stared at me as if I were a monster.
+The next day at noon, Hyuk Mujin stared at me as if I were a monster when I mounted my horse in a perfectly refreshed mood.
 
 “Is your stomach all right?”
 
-“Yeah. It’s fine.”
+“Yeah. Why wouldn’t it be?”
 
-“Don’t tell me you were the only one who didn’t drink last night. Or did you fall asleep halfway through?”
+“Don’t tell me you were the only one who didn’t drink yesterday. Or did you fall asleep halfway through?”
 
 “No. The four of us kept drinking.”
 
@@ -336,15 +336,15 @@ At noon the next day, I mounted my horse in a perfectly refreshed mood, and Hyuk
 
 His mouth fell open.
 
-“How is that possible? Are you even human?”
+“Is that even possible? Are you human?”
 
-“It all went down.”
+“It all fit.”
 
-“Good heavens. How many bottles did you drink through the night?”
+“My goodness. How many bottles did you drink through the night?”
 
 He had the wrong unit.
 
-Not bottles. Barrels.
+It wasn’t bottles. It was barrels.
 
 We kept emptying massive casks of liquor—the kind I’d only ever seen in pirate movies—and then emptying more.
 
@@ -352,9 +352,9 @@ We kept emptying massive casks of liquor—the kind I’d only ever seen in pira
 
 “Wow. That’s incredible.”
 
-Hyuk Mujin raised his thumb in admiration. Just then, the inn door swung open.
+Hyuk Mujin raised his thumb in admiration when the inn door suddenly opened.
 
-And three zombies—or rather, three Peak masters—emerged.
+And three zombies—or rather, three Peak masters—appeared.
 
 “Uuugh.”
 
@@ -362,15 +362,15 @@ And three zombies—or rather, three Peak masters—emerged.
 
 “Huff, huff.”
 
-Pale faces, parched lips, and hollow eyes.
+Their faces were pale, their lips parched, and their eyes sunken.
 
-Every last one of them dragged his feet straight into the carriage. The martial artists of the escort force stared wide-eyed.
+Without a single exception, they dragged their feet and climbed straight into the carriage. The martial artists of the escort force stared at them with their eyes wide.
 
 “Why are they suddenly getting into the carriage…?”
 
 “They look really unwell.”
 
-“That can’t be right. Haven’t you ever drunk with our Commander? Wipeng, the God of Drinking? Never heard of him?”
+“That can’t be. Haven’t you ever drunk with our Commander? Wipeng, the God of Drinking? You don’t know?”
 
 “Wasn’t the Commander’s epithet Ghost Sword?”
 
@@ -382,15 +382,15 @@ As the martial artists whispered among themselves, the carriage door suddenly fl
 
 Splaaarsh.
 
-Wipeng spent a good while spewing nothing but pale liquid, then staggered back into the carriage. One of the martial artists who had been talking animatedly muttered in a dazed voice,
+After pouring out a pale liquid for quite some time, Wipeng staggered back into the carriage. One of the martial artists who had been talking animatedly muttered in a dazed voice,
 
 “…This can’t be.”
 
-“It absolutely can. Anyone can see that’s a hangover. They drank like that all night without sleeping. Of course they’d end up like that.”
+“It absolutely can. Anyone can see that’s a hangover. They drank all night without sleeping. Of course they’d end up like that.”
 
 “Then why is the Third Young Master so perfectly fine?”
 
-Every eye in the escort force turned toward me.
+The escort force’s gazes all turned toward me.
 
 The smell of liquor radiating from my entire body was strong enough to send chills down the spine. But in complete contrast, my face looked unbelievably refreshed, and my breathing was calm.
 
@@ -406,11 +406,11 @@ Hyuk Mujin’s look of admiration had gone beyond admiration and become outright
 
 “….”
 
-“I remember what the Chief Steward said. If Captain had kept drinking for three more years, he would have uprooted our family’s entire foundation. So that’s why you always had to steal from the family coffers!”
+“I remember what the Chief Steward said. If Captain had kept drinking for three more years, he would have uprooted the family’s entire foundation. So this is why you always had to steal from the family coffers!”
 
 “…Hey, you punk.”
 
-We weren’t alone. What did he think would happen to my image if he talked like that?
+It wasn’t as if we were alone. If he talked like that, what would happen to my image?
 
 As if the stares pouring in from every direction hadn’t already made my face feel hot enough.
 
@@ -418,19 +418,19 @@ As if the stares pouring in from every direction hadn’t already made my face f
 
 I cleared my throat and glanced around. And what do you know? The eyes of all those rough-looking men were sparkling brighter than stars in the night sky.
 
-“The true God of Drinking. That’s him.”
+“A true God of Drinking. He really is.”
 
 “He’s famous in Taiyuan’s red-light district. Haven’t you heard of the Night King?”
 
-“The Night King? The epithet says it all. So he was already renowned for his drinking.”
+“The Night King? I can tell just from the epithet. So he was already renowned for his drinking.”
 
-“No, not that… You know. That.”
+“No, not that… The other thing. That.”
 
 “Gasp. Is it true?”
 
 “How would I know? I’ve never seen it.”
 
-“Turns out he’s a true man among men.”
+“Turns out he really is a man among men.”
 
 > **System**
 >
@@ -446,22 +446,22 @@ I cleared my throat and glanced around. And what do you know? The eyes of all th
 
 “….”
 
-Why the fuck was my Fame shooting up?
+What the fuck was with my Fame shooting up like that?
 
-And what was this about a related Title? No, thanks. Put it away. Please, just let me be satisfied with the Sleeping Dragon of Shanxi.
+And what did it mean, a related Title? No, it was fine. Put that away. Please, just let me be satisfied with the Sleeping Dragon of Shanxi.
 
 *Stop it, you lunatics…*
 
-I turned away in inexplicable shame—only to find Hyuk Mujin staring intently at a certain part of my body.
+With a mysterious sense of shame, I turned my head—and came face-to-face with Hyuk Mujin, who was staring intently at a certain part of me.
 
 “…What are you doing?”
 
-“Oh, I was just measuring it by eye.”
+“Oh, I was just taking a rough measurement with my eyes.”
 
-He answered so matter-of-factly that I was almost thrown off. Hyuk Mujin held out his forearm with an innocent smile.
+His answer was so straightforward that I was almost thrown off. Hyuk Mujin cheerfully extended his forearm.
 
 “Wow. As expected, you’re amazing. Hehe.”
 
-In return for his forearm, I offered him my fist.
+In return for the forearm, I offered him my fist.
 
 Thwack!
