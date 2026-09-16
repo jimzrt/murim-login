@@ -22,7 +22,7 @@ First, unlike climbing, it used internal energy.
 
 Second, there was no safety equipment.
 
-*This really is the Murim. No holding back.*
+*This really is Murim. No half measures.*
 
 If you fell, you were as good as dead. It was the ultimate macho martial art.
 
@@ -36,15 +36,15 @@ When I nodded, the two men stared at me as though I were a ghost.
 
 When I first heard Cheongpung suggest it, I’d wondered what kind of insane nonsense he was talking about, too. But once I tried it, it worked.
 
-It had only seemed unrealistic because I’d never tried it before. It was no exaggeration to say my body had already entered the realm of the superhuman.
+It had only seemed impossible because I’d never tried it before. It was no exaggeration to say my body had already entered the realm of the superhuman.
 
 “Oh, my. Third Young Master, what if something serious happens to you?”
 
 The middle-aged guy fussed over me, brushing the dust from my clothes.
 
-Only three minutes ago, he had treated me like a jiangshi from Taecho Village. Now he was handling me as carefully as though I were his family’s precious only son, three generations in the making.
+Only three minutes ago, he’d treated me like a jiangshi from Taecho Village. Now he was handling me as carefully as a family’s precious only son after three generations.
 
-“Come now. I think you should stop training for now and return to your quarters.”
+“Come now. I think you should stop training for today and return to your quarters.”
 
 “Why?”
 
@@ -74,11 +74,11 @@ His trembling gaze darted between me and the steep cliff.
 
 “Looks like it’s about time for him to fall again… Oh, there he comes.”
 
-I pointed toward a spot high up on the cliff. A black dot that grew larger by the second was followed by a piercing scream.
+I pointed to a spot high on the cliff. A black dot grew larger by the second, accompanied by a piercing scream.
 
 “Aaaaaaah! Caaaaaptain!”
 
-The two men’s mouths fell open.
+The two men’s mouths dropped open.
 
 “My goodness. There really was someone else.”
 
@@ -94,33 +94,33 @@ The two men’s mouths fell open.
 
 I shook my head.
 
-Hyuk Mujin was a healthy adult man. If I tried to catch him as he fell from that height, it would end with more than just a broken bone somewhere.
+Hyuk Mujin was a full-grown, healthy man. If I tried to catch him after a fall from that height, it wouldn’t end with just one broken bone.
 
-“Just leave him alone. Don’t get involved and hurt yourselves.”
+“Leave him alone. Don’t get involved and hurt yourselves.”
 
 The two men screamed.
 
 “He’s falling! He’s falling!”
 
-“He’ll die if you leave him like this!”
+“He’ll die if we leave him like this!”
 
 “He won’t die.”
 
 If that could kill him, he would’ve died more than ten times already.
 
-But Hyuk Mujin had a lifeline—a sturdy rope that always saved him by the narrowest of margins.
+Besides, Hyuk Mujin had a lifeline—a sturdy rope that always saved him by the narrowest of margins.
 
 “Aaaaaaah!”
 
 Hyuk Mujin’s scream drew closer by the second. The instant even his horrified expression became clearly visible, a streak of light flashed above us.
 
-It plunged downward as swiftly as a meteor, glowing with a soft purple light.
+It plunged downward as swiftly as a meteor, glowing with a faint purple light.
 
 “W-what is that…?”
 
 “What is it?”
 
-I answered briefly.
+I gave a short answer.
 
 “The Zaha Divine Technique.”
 
@@ -142,7 +142,7 @@ His personality might have been a little unhinged, but his ability was in a leag
 
 Shooting downward like an arrow, Cheongpung snatched Hyuk Mujin by the waist in the blink of an eye.
 
-Then he extended his palm toward the ground rushing up beneath them.
+Then he thrust his palm toward the rapidly approaching ground.
 
 *Bang! Boom-boom!*
 
@@ -152,9 +152,9 @@ Compressed air exploded, gouging deep craters into the ground.
 
 Was this what it would look like if an invisible giant pounded the earth with its fists?
 
-Every time Cheongpung struck out with a palm, the frozen ground flipped over. The resulting recoil stopped the falling figure in midair.
+Every time Cheongpung struck with his palm, the frozen ground erupted, and the recoil brought their falling bodies to a halt in midair.
 
-A moment later, Cheongpung’s feet landed lightly on the ground.
+A moment later, Cheongpung’s feet touched down lightly.
 
 “Whew, that was fun again. Right?”
 
@@ -168,15 +168,15 @@ Hyuk Mujin, already unconscious, groaned.
 
 What part of that made him look like he’d enjoyed himself?
 
-Cheongpung cheerfully set Hyuk Mujin down, then acknowledged my presence.
+Cheongpung cheerfully set Hyuk Mujin down, then noticed me.
 
 “Oh, Benefactor! You’re still here?”
 
 “I fell. Thanks to someone.”
 
-I glared steadily at Cheongpung.
+I fixed Cheongpung with a steady glare.
 
-In fact, I had already had several chances to reach the summit. The problem was that Cheongpung was not exactly a man in possession of an ordinary state of mind.
+I’d actually had several chances to reach the summit already. The problem was that Cheongpung was not the owner of what anyone could call a normal state of mind.
 
 “Hehe. It makes me happy to hear it was thanks to me.”
 
@@ -188,13 +188,13 @@ In fact, I had already had several chances to reach the summit. The problem was 
 
 Think about it.
 
-Climbing a cliff well over a hundred jang high with your bare hands was hard enough. But every time I thought I’d made decent progress, rocks the size of children came tumbling down from above.
+Climbing a cliff well over a hundred jang high with your bare hands was hard enough. But every time I thought I’d made decent progress, rocks the size of children came crashing down from above.
 
-Cheongpung’s innocent cries were an added bonus.
+Cheongpung’s innocent warning was an added bonus.
 
-*Benefactor, rocks are rolling!*
+*Benefactor, rocks are coming!*
 
-Only someone who had experienced it could understand. Even if Shakyamuni himself had been in my position, he would have strangled that bastard to death with his prayer beads.
+Only someone who’d experienced it could understand. Even Shakyamuni himself would’ve strangled that bastard with his prayer beads if he’d been in my position.
 
 *Now that I think about it, I’m getting pissed off again.*
 
@@ -204,7 +204,7 @@ The moment I clenched my fist, Hyuk Mujin—who had been lying on the ground wit
 
 “Aaaaaaaah!”
 
-“Hey, hey. Breathe. Take a breath. You’re on the ground.”
+“Hey, hey. Breathe. You’re on the ground.”
 
 “Huff, huff. Am I really alive?”
 
@@ -218,7 +218,7 @@ Cheongpung held out the bamboo tube hanging from his waist.
 
 “Thank…”
 
-Hyuk Mujin absentmindedly accepted the bamboo tube, then froze stiff.
+Hyuk Mujin accepted the bamboo tube without thinking, then froze.
 
 A moment later, he unleashed a lion’s roar.
 
@@ -246,7 +246,7 @@ He shot more than ten meters into the air in a single bound, slapped onto the cl
 
 Now that was a true veteran.
 
-Cheongpung vanished as quickly as if he’d been born walking on all fours. Hyuk Mujin sank to the ground.
+Cheongpung vanished with astonishing speed, as though he’d been born walking on all fours. Hyuk Mujin sank to the ground.
 
 “That bastard threw rocks at me. Rocks…”
 
@@ -270,7 +270,7 @@ I’d never seen him so fired up. Whatever he might be like inside, he’d alway
 
 *Could this be what Cheongpung was aiming for?*
 
-Was all of this Cheongpung’s way of drawing out Hyuk Mujin’s anger so that he would give it his all?
+Could all of this have been a ploy to stoke Hyuk Mujin’s anger and make him give it his all?
 
 No. That wild man from Huashan didn’t have the brains for that.
 
@@ -278,9 +278,9 @@ No. That wild man from Huashan didn’t have the brains for that.
 
 I tossed a bundle to the fuming Hyuk Mujin.
 
-“Keep it secure inside your clothes.”
+“Keep that safe inside your clothes.”
 
-“What is this?”
+“What is it?”
 
 “Fasting pills. I packed them before we started training.”
 
@@ -304,23 +304,23 @@ Apparently, he wanted to use his newly learned Wall Lizard Technique to climb st
 
 “Yes, Captain!”
 
-Hyuk Mujin and I were standing before the cliff with determined expressions when—
+Hyuk Mujin and I had just taken our places before the cliff with determined expressions when—
 
 “Um…”
 
 “T-Third Young Master.”
 
-Right. These two were here, too.
+Right. These two were still here.
 
 Jang Childeuk and the middle-aged guy spoke hesitantly.
 
 “Would it be all right if we reported this to the Lesser Family Head?”
 
-“Considering the circumstances… If you suffer even an injury, Young Master, then we…”
+“Considering the circumstances… If you were to suffer an injury, Young Master, then we…”
 
 I raised a hand to stop them.
 
-I could easily guess what they were going to say next. I knew the perspective of ordinary employees better than anyone.
+I could easily guess what came next. I understood the plight of working men better than anyone.
 
 “Go ahead and report it. But…”
 
@@ -338,23 +338,23 @@ I intended to conquer the damned thing within the remaining three shichen.
 
 * * *
 
-This tall, steep, nameless cliff bore the full marks of time. Some sections were uneven, while others were smooth.
+This tall, steep, nameless cliff bore the full marks of time. Some sections were jagged and uneven, while others were smooth.
 
-In some places, thick roots or rocks jutted out, making them easy to grab. In others, I had to wedge a single finger into a tiny crack and hang on.
+In places, thick roots and rocks jutted out, providing easy handholds. Elsewhere, I had to wedge a single finger into a tiny crack and hang on.
 
 *This would be much easier if I could at least use internal energy or a weapon.*
 
-With internal energy, even solid rock would crumble like tofu.
+With internal energy, I could crumble solid rock like tofu.
 
 If I took weapons from my inventory, I could drive daggers into the cliff like steps and climb that way.
 
 I was putting myself through all this instead of taking the easy route because it was training…
 
-Well, that was part of it. But every time I tried to use an easier method, Cheongpung would uncannily sense it and drop rocks on me.
+Well, that was part of it. But every time I tried, Cheongpung somehow sensed it and dropped rocks on me.
 
 *Rattle, rattle.*
 
-A sudden shower of rock dust from above was an ominous sign.
+A sudden shower of stone dust from above was an ominous sign.
 
 Hyuk Mujin and I hurriedly shielded our heads with our arms and shouted.
 
@@ -362,13 +362,13 @@ Hyuk Mujin and I hurriedly shielded our heads with our arms and shouted.
 
 “Uuughhh!”
 
-A pale face cautiously poked out from above.
+A pale face poked over the edge above us.
 
 “Really?”
 
 We nodded frantically.
 
-We weren’t even halfway. If we were hit by a stone shower and fell now, all the bold claims we’d made before climbing would become a dark stain on our past.
+We weren’t even halfway up yet. If we got caught in a rock shower and fell now, all our bold claims before the climb would become a dark stain on our past.
 
 “Please believe us!”
 
@@ -384,47 +384,47 @@ After delivering an entire speech, Cheongpung added magnanimously,
 
 “…”
 
-What an absolute tyrant.
+What a goddamn tyrant.
 
 Hyuk Mujin and I swallowed our outrage and resumed climbing.
 
 One tiny mistake would send us plummeting all the way back down.
 
-As a result, our senses grew sharper, and we had to pay tremendous attention to every single finger and toe.
+Under such conditions, our senses sharpened, and we found ourselves concentrating intensely on every finger and toe.
 
 *If it weren’t winter, I would’ve reached the top ages ago…*
 
-The higher we climbed, the more treacherous the slope became and the smoother the surface grew.
+The higher we climbed, the steeper the slope became and the smoother its surface grew.
 
-The cliff was already slippery enough. On top of that, the scattered snow flurries that came almost every day and the wind blowing in from the northern Gaoyuan had turned it into one enormous sheet of ice.
+The cliff was slippery enough already. But the snow flurries that fell every few days and the wind sweeping down from the northern Gaoyuan had turned it into one enormous wall of ice.
 
 *Dead end. I can’t see a way forward.*
 
-As I worried at my lip, something suddenly caught my eye.
+As I worried at my lip, something caught my eye.
 
-A crack in the rock blocked by a snowball that had not yet frozen.
+A crack in the rock plugged with snow that hadn’t yet frozen solid.
 
-It was a tiny space, barely wide enough for one finger. It would be difficult, but I had no other choice.
+It was tiny, barely wide enough for a single finger. This wouldn’t be easy, but I had no other choice.
 
 “Hup!”
 
-I launched myself forward with a shout, simultaneously jamming my smallest finger—the little finger—precisely into the crack.
+With a shout, I launched myself forward and drove my smallest finger—my little finger—straight into the crack.
 
 *Thud.*
 
-My prediction had been only half right. I could break through the unfrozen snowball, but the crack was much shallower than I had expected.
+My guess had been only half right. I punched through the unfrozen snow, but the crack was much shallower than I’d expected.
 
-It was barely one finger joint deep. And I had to support a body weighing 0.1 tons with my little finger.
+It was barely one finger joint deep. Worse, I had to support nearly 0.1 tons of body weight with my little finger.
 
 “Ungh.”
 
 Even for me, this was asking a bit much.
 
-To make matters worse, my finger was slowly slipping because of the moisture pooled inside the crack.
+To make matters worse, moisture inside the crack was making my finger slowly slip.
 
 *If I waste any more time, I’ll fall.*
 
-There was not much farther to go. I steadied my breathing and calmed the tension in my body. Using my little finger as a support, I lifted my entire body.
+There wasn’t much farther to go. I steadied my breathing and relaxed my body. Using my little finger as a fulcrum, I hauled myself upward.
 
 Physical ability truly worthy of the word superhuman.
 
@@ -438,9 +438,9 @@ Physical ability truly worthy of the word superhuman.
 
 Even my stats rose at just the right moment.
 
-Just as I smiled triumphantly and reached toward the next crack—
+I smiled triumphantly and reached for the next crack.
 
-*Hup!*
+“Hup!”
 
 “Captain!”
 
@@ -452,15 +452,17 @@ Damn it. My breathing faltered at the worst possible moment. As I steadied it ag
 
 The fierce snowstorm scattered sound and obscured my vision.
 
-I was about to open my mouth again when a clear shout struck my ears.
+I was about to shout again when a clear cry struck my ears.
 
-“Above! Above!”
+“Above! Above you!”
 
 “Above?”
 
-The fact that I could hear Hyuk Mujin’s voice meant the savage wind had paused. Only then did my obstructed vision clear and my ears open.
+If I could hear Hyuk Mujin’s voice, the raging wind must have died down. Only then did my blocked vision clear and the roar in my ears subside.
 
-Following Hyuk Mujin’s gesture, I raised my head and finally saw it.
+I followed Hyuk Mujin’s gesture and looked up.
+
+Then I saw it.
 
 A massive boulder falling straight toward my face.
 
@@ -472,15 +474,15 @@ A massive boulder falling straight toward my face.
 
 * * *
 
-“Wow. I can’t believe you broke such a huge boulder with your bare fist.”
+“Wow. You shattered that huge boulder with your bare fist.”
 
 I let Cheongpung’s admiration go in one ear and out the other as I collapsed onto my back.
 
-Only a moment ago, I had wanted nothing more than to beat that bastard senseless. Now I was completely drained.
+A moment ago, I’d wanted nothing more than to beat the bastard senseless. Now I was completely drained.
 
-*I made it up. It’s over!*
+*I made it. It’s over!*
 
-Just as I lay there, unable to move even a hand and cheering inwardly, a bluish, frozen hand reached the summit.
+As I lay there, unable to lift a finger and cheering only in my head, a frozen, blue-tinged hand reached over the edge of the summit.
 
 “Huff. Haaah.”
 
@@ -498,13 +500,13 @@ I wanted to lay into him, but I was too exhausted to speak. As Hyuk Mujin and I 
 
 The words were so shocking that Hyuk Mujin and I forgot even to pant as we stared at him.
 
-*What is he talking about?*
+*What the hell does that mean?*
 
-Could he possibly mean what I thought he meant?
+Surely he didn’t mean what I thought he meant.
 
-No, surely not.
+No. He couldn’t.
 
-As an intellectual of modern society, I spoke with a calm demeanor.
+As an intellectual of modern society, I spoke with perfect composure.
 
 “The remaining nine times? What kind of bullshit is that?”
 
@@ -518,7 +520,7 @@ At that moment, Sword Saint or whatever be damned—I couldn’t help seeing red
 
 “Yes!”
 
-“And you’ll throw rocks at us from up here just the same?”
+“And you’ll keep throwing rocks at us from up here?”
 
 “Yes!”
 
@@ -528,7 +530,7 @@ At that moment, Sword Saint or whatever be damned—I couldn’t help seeing red
 
 Hyuk Mujin and I dropped flat at the same time.
 
-“I’m not doing it. I don’t even have the strength to go back down. Go ahead and gut me.”
+“I’m not doing it. I don’t even have the strength to climb down. Go ahead and gut me.”
 
 “Gut me too, you vicious bastard!”
 
@@ -536,13 +538,13 @@ Hyuk Mujin and I dropped flat at the same time.
 
 “…Are you laughing?”
 
-Cheongpung smiled brightly.
+Cheongpung grinned brightly.
 
 “Sorry. You looked just like I did when I first started training, so I couldn’t help it.”
 
 “See? You didn’t want to do it either!”
 
-“No. I thought it was fun and wanted to keep going, but my body wouldn’t keep up.”
+“No. I was having so much fun that I wanted to keep going, but my body wouldn’t cooperate.”
 
 Hyuk Mujin muttered quietly enough that only I could hear.
 
@@ -550,23 +552,23 @@ Hyuk Mujin muttered quietly enough that only I could hear.
 
 “So I told my grandfather. I asked whether I could continue the next day because my legs wouldn’t listen to me.”
 
-As he reminisced about his happy past, Cheongpung suddenly drew his sword.
+As he fondly reminisced, Cheongpung suddenly drew his sword.
 
-At the same time, purple Sword Energy shot forth.
+Purple Sword Energy burst from the blade.
 
 *Shhk.*
 
-Ice, dirt, rock—Cheongpung cut through all of it without distinction, then continued speaking.
+Ice, dirt, rock—Cheongpung sliced through them all without distinction, then continued.
 
 “My grandfather said climbing up was hard, but going down was easy. He said if I endured it for just a moment, I’d be back down in no time.”
 
 *Rumble, rumble, rumble.*
 
-The edge of the cliff ledge where Hyuk Mujin and I were lying—barely ten square meters in size—began to shake.
+The edge of the cliff where Hyuk Mujin and I lay—an area barely ten square meters wide—began to shake.
 
 *Is this for real?*
 
-As we lay there in a daze, Cheongpung waved at us.
+As we stared blankly, Cheongpung waved.
 
 “Nine more to go.”
 
