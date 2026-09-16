@@ -12,11 +12,11 @@ I had just finished circulating my qi, so I unfolded my legs from the lotus posi
 
 “What kind of relationship do you and I have?”
 
-“Comrades in arms who don’t share blood but can fight back-to-back? A lord-and-vassal relationship tightly bound by affection and trust?”
+“Not related by blood, but comrades who can fight back-to-back? A lord-and-vassal relationship tightly bound by affection and trust?”
 
-“Affection? Hmm. You’re determined to get beaten half to death first thing in the morning.”
+“Affection? Hmm. You’ve made up your mind to get beaten half to death first thing in the morning.”
 
-“One hit, then. Surely it won’t kill me.”
+“One hit, then. Surely I won’t die.”
 
 He was getting more shameless by the day. I let out a quiet laugh and shook my head.
 
@@ -24,13 +24,13 @@ He was getting more shameless by the day. I let out a quiet laugh and shook my h
 
 “Obviously… Wait, what’s with that guy? Did he sleep here?”
 
-Hyuk Mujin stared incredulously at Cheongpung, who lay sprawled in the corner.
+Hyuk Mujin stared incredulously at Cheongpung, who was sprawled out in the corner.
 
 “Why would he sleep here when the annex has several rooms?”
 
-“Leave him alone. It happens. I came back from the privy and found him asleep.”
+“Leave him. These things happen. I found him asleep when I got back from the privy.”
 
-Long story short, my attempt to uncover Cheongpung’s identity had ended in complete failure.
+To cut to the conclusion, I had failed completely at figuring out Cheongpung’s identity.
 
 The moment he got out of the hot spring, he had fallen asleep from exhaustion. I couldn’t bring myself to wake him, so I slept, too.
 
@@ -42,11 +42,11 @@ The moment he got out of the hot spring, he had fallen asleep from exhaustion. I
 
 “Careful? Anyone listening to you would think he was an assassin.”
 
-“Can you say for certain he isn’t?”
+“Can you say for certain that he isn’t?”
 
 “What?”
 
-“You’re a good man in many ways, Captain, but I think you take the Murim too lightly. It’s a place tangled in complicated gratitude and grudges. Let your guard down, and you could really end up dead.”
+“You’re a good man in many ways, Captain, but I think you take the Murim too lightly. This is a place tangled up in complicated gratitude and grudges. If you let your guard down, you really could end up dead.”
 
 “What an unlucky thing to say. Want me to send you there?”
 
@@ -54,7 +54,7 @@ The moment he got out of the hot spring, he had fallen asleep from exhaustion. I
 
 Mujin thumped his chest in frustration, then watched the sleeping Cheongpung with wary eyes.
 
-“Isn’t he a little strange? He seems remarkably skilled for someone so young, yet he wanders around looking like a beggar. And he isn’t even a Disciple of the Beggars’ Sect.”
+“Isn’t he a little strange? He seems remarkably skilled for someone so young, yet he wanders around dressed like a beggar. And he isn’t even a Disciple of the Beggars’ Sect.”
 
 “Maybe that’s just the way he’s wired.”
 
@@ -70,7 +70,7 @@ Mujin thumped his chest in frustration, then watched the sleeping Cheongpung wit
 
 Come to think of it, he had a point.
 
-Still, suspecting Cheongpung of being an assassin was an overreaction.
+But suspecting Cheongpung of being an assassin was an overreaction.
 
 I spoke to Mujin, who was still shooting Cheongpung suspicious glances.
 
@@ -84,15 +84,15 @@ I spoke to Mujin, who was still shooting Cheongpung suspicious glances.
 
 “That… is true.”
 
-Mujin shook his head.
+Mujin shook his head from side to side.
 
-“I’m only telling you to be careful. Gratitude and grudges in the Murim run deep and stay hidden, so no one knows when or where something might happen.”
+“I’m only telling you to be careful. The gratitude and grudges of the Murim run deep and stay hidden, so no one knows when or where something might happen.”
 
 “Hmm.”
 
 “Flies swarm around appetizing food. The more famous the name Sleeping Dragon of Shanxi becomes, the more trouble you’ll have to deal with. There are even people who show up out of nowhere and challenge you to a life-and-death duel.”
 
-The world was a big place, and there were plenty of lunatics in it. I was surprised to hear something I’d never heard of, but I was also impressed by Mujin.
+The world was a big place, and there were plenty of lunatics in it. I was surprised to hear something I had never imagined, but I was also impressed by Mujin.
 
 *This guy is saying something genuinely useful for once.*
 
@@ -102,7 +102,7 @@ The world was a big place, and there were plenty of lunatics in it. I was surpri
 
 As expected of a local. People in the Murim around my age had apparently seen assassins killing people and all kinds of other things.
 
-“Does that sort of thing happen all the time in the Murim? You know, you go out to the market and see martial artists picking fights with each other?”
+“Does that sort of thing happen every day in the Murim? You know, you go out to the market and see martial artists getting into arguments and fighting each other?”
 
 “What?”
 
@@ -132,11 +132,11 @@ After a brief silence, I spoke.
 
 “…Books?”
 
-“Yes. There was a bookstore run by an old man in front of my house. For one nyang in iron coins, you could read for half a shichen. That’s where I nurtured my dreams.”
+“Yes. There was a bookstore run by an old man in front of my house. For one nyang in iron coins, you could read books for half a shichen. That’s where I nurtured my dreams.”
 
 Mujin gazed out the window with a nostalgic look in his eyes.
 
-“*The Shop Assistant Becomes a Sword God, You Must Hurt to Become a Martial Artist, The Son of Murim Walks Three and a Half Times Around the Nine Provinces and Eight Wastes,* and so on… They were really interesting.”
+*The Shop Assistant Becomes a Sword God, You Must Hurt to Become a Martial Artist, The Son of Murim Walks Three and a Half Rounds Around the Nine Provinces and Eight Wastes,* and so on. They were really interesting.
 
 “Oh, so you decided to become a martial artist after reading those books.”
 
@@ -156,19 +156,19 @@ This wuxia-novel otaku bastard was confusing fiction with reality. I grabbed Muj
 
 “W-wait! Wait! I’ve never personally witnessed anything like that, but the Murim is more than capable of—”
 
-“Right. Next otaku.”
+“Right, next otaku.”
 
 *Smack!*
 
 * * *
 
-Honghwa Inn stood in the heart of Taiyuan. Even in Taiyuan, known as Shanxi’s prime real estate, it was famous for its prime location.
+Honghwa Inn stood in the center of Taiyuan. Even in Taiyuan, which was known as Shanxi’s prime real estate, it was famous for its excellent location.
 
 It was only natural for the area in front of Honghwa Inn to be crowded with people, but today the crowd was unusually large.
 
 “Oh dear, what’s all this?”
 
-“There’s a carriage and soldiers… Hey, Mr. Yang, have you heard anything? Is a war breaking out?”
+“There’s a carriage and soldiers… Hey, Mr. Yang, have you heard anything? Is there a war breaking out?”
 
 “I haven’t heard nothin’.”
 
@@ -180,7 +180,7 @@ Then at least a hundred soldiers stood in neat ranks at the entrance to Honghwa 
 
 “Receive the royal command!”
 
-The short phrase *royal command* carried tremendous weight. On top of that, the thunderous cry of a hundred elite soldiers caused hushed voices to spill out from every direction.
+The short phrase royal command carried tremendous weight. On top of that, the thunderous cry of a hundred elite soldiers caused hushed voices to spill out from every direction.
 
 “Did you hear that?”
 
@@ -190,11 +190,11 @@ The short phrase *royal command* carried tremendous weight. On top of that, the 
 
 “I heard the Sleeping Dragon of Shanxi is staying at Honghwa Inn. Isn’t it probably because of him? Everyone knows the young Prince likes martial arts.”
 
-“I know that much, but I’m saying this because His Highness has never made such a commotion before.”
+“I know that much, but I’m saying this because he’s never made such a commotion before.”
 
-“Well, the Sleeping Dragon of Shanxi has become awfully famous lately. Not long ago, he even wiped out those Red Wind Band bastards in place of the government troops, so he’s certainly performed a great service.”
+“Well, the Sleeping Dragon of Shanxi has become awfully famous lately. He even wiped out those Red Wind Band bastards in place of the government troops not long ago, so he’s certainly done the Prince a great service.”
 
-“Do you think His Highness plans to grant him an official post… Ah, they’re coming out! They’re coming!”
+“Do you think His Highness plans to grant him an official post… Ah, they’re coming. They’re coming!”
 
 At someone’s shout, countless eyes turned toward the entrance of the inn.
 
@@ -214,7 +214,7 @@ The doors stood wide open. As the people summoned by the Prince appeared beneath
 
 As the people whispered, five figures emerged, each one worthy of being called a dragon or phoenix.
 
-Among them, Jin Taekyung’s presence stood out like a crane among chickens. At the very moment admiring gazes poured toward him as he stood tall in the center—
+Among them, Jin Taekyung’s presence was head and shoulders above the rest. At the very moment admiring gazes poured toward him as he stood tall in the center—
 
 “Ugh!”
 
@@ -230,11 +230,11 @@ Not only the onlookers but even the soldiers standing at attention stared at the
 
 “Ahem. Ahem!”
 
-At the official’s pointed cough, the fallen man’s face turned bright red.
+When the official cleared his throat, the fallen man’s face turned bright red.
 
 The young prodigy who had fallen flat on his face got back up on legs trembling like a newborn calf. The official unfurled a red silk scroll.
 
-“Ahem. Young prodigies of Murim, receive this royal command! I, the younger brother of the sacred Son of Heaven…”
+“Ahem. The young prodigies of Murim shall receive the royal command! I, the younger brother of the holy Son of Heaven…”
 
 “Eek!”
 
@@ -246,31 +246,31 @@ The unexpected accident made the official’s breathing turn ragged for a moment
 
 The official composed himself and took another breath.
 
-“I-I…”
+“I, I…”
 
 “Gasp!”
 
 *Thud!*
 
-“The command I bestow upon you…”
+“The command I issue to you…”
 
 “Eek!”
 
 *Thud!*
 
-This time, even the official couldn’t escape the disaster. Perhaps he had bitten his tongue, because a crunch came from his mouth, followed by blood streaming down his lips.
+This time, even the official couldn’t escape the disaster. Perhaps he had bitten his tongue, because a cracking sound came from his mouth, followed by blood streaming down his lips.
 
 The crowd fell silent, though for a different reason than before.
 
-As the official stood there in despair, one man strode confidently up to him and whispered,
+As the official stood there in despair, one person approached him with a confident stride and whispered,
 
-“Do we really have to do this outside? Why don’t we just do it inside?”
+“Do we really have to do this outside? Why not just do it inside?”
 
 The official considered Taekyung’s words for a moment before answering.
 
 “Let’sh do that.”
 
-“…Just nod. You’re getting blood on your clothes.”
+“…Just nod. You’ll get blood on your clothes.”
 
 * * *
 
@@ -284,7 +284,7 @@ Everyone was watching me for a response. In the end, I had no choice but to expl
 
 “Not feeling well? What do you mean?”
 
-“They’re the fresh young pillars of Murim, aren’t they? They trained so hard to become stronger that they wore themselves down. That’s why they keep collapsing.”
+“They’re the fresh young pillars of Murim, aren’t they? They trained so hard to become stronger that they wore themselves down and keep collapsing.”
 
 “Is that really what happened?”
 
@@ -300,19 +300,19 @@ The four young prodigies of the Five Gates of Shanxi jolted as though they had s
 
 “O-oh, no. We heard him. We were just thinking of an answer…”
 
-“Th-that’s right. I thought someone else would answer…”
+“Th-that’s right. I was waiting for someone else to answer…”
 
-“What is there to think about? Just tell him the truth. Isn’t that right? Hahaha.”
+“What was there to think about? Just tell him the truth. Isn’t that right? Hahaha.”
 
 Of course, if they told the truth, they would get some private one-on-one time with me. The law was far away, and fists were close at hand.
 
-If the four of them wanted to keep living peacefully in Shanxi Murim, they had no choice but to stay on the Jin Family of Taiyuan’s good side. They forced the corners of their mouths upward.
+The four of them, who had no choice but to stay on the good side of the Jin Family of Taiyuan if they wanted to live in peace in Shanxi Murim, forced smiles onto their faces.
 
 “Well, that’s what happened.”
 
-The official looked dubious as he asked another question.
+The official looked suspicious and asked another question.
 
-“But why is one person missing? As I understand it, there should be six of you, including Young Hero Jin.”
+“But why is one person missing? As I understand it, there should be six people, including Young Hero Jin.”
 
 “Ah, you mean the Young Bureau Head of the Seongun Escort Bureau.”
 
@@ -322,7 +322,7 @@ The official looked dubious as he asked another question.
 
 “That’s right. Why hasn’t he come out?”
 
-*Because that one is in no condition to look human.*
+*Because that one is in no condition to be seen as a human being.*
 
 If I had known from the start that the Five Gates of Shanxi’s young prodigies had been invited to this luncheon with me, I wouldn’t have beaten him quite so badly.
 
@@ -332,9 +332,9 @@ All I could do was clean up the mess as best I could.
 
 I shook my head with the most sympathetic expression I could manage.
 
-“Last night, he was injured in a minor altercation and still hasn’t regained consciousness.”
+“Last night, he got injured after a minor disagreement and still hasn’t regained consciousness.”
 
-“An altercation? Are you saying he got into a fistfight?”
+“A disagreement? Are you saying he got into a fistfight?”
 
 “Something like that. In any case, his face is in such a state that he simply can’t appear in front of people.”
 
@@ -364,15 +364,15 @@ The official, who looked like he was about to be laid off in the prime of his li
 
 *He has a big family, too.*
 
-I was squirming in my seat and desperately racking my brain when—
+Just when I was unable to sit still and desperately racking my brain, it happened.
 
 “Yaaawn.”
 
-A carefree yawn, completely at odds with the mood.
+A carefree yawn completely out of place in the atmosphere.
 
 My eyes lit up when I saw someone coming downstairs with a long stretch.
 
-“Hey, how about this?”
+“Hey, how about we do this?”
 
 “Hm? What do you mean?”
 
