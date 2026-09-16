@@ -1,0 +1,557 @@
+{
+  "chapter": 121,
+  "decisions": [
+    {
+      "decision": "SOL",
+      "hunk_id": "H001",
+      "reason": "Naturalizes 시체가 산을 이루고 피가 강이 되어 흐르다 as the English idiom; 형태를 유지 is “intact,” not “standing, undamaged.”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H002",
+      "reason": "SOL changes 처럼 to “including” and adds sitting, which this line does not state."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H003",
+      "reason": "SOL drops 몸을 기댔다; he collapses into the chair and leans back."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H004",
+      "reason": "Puts exhaustion in subject position, matching 피로가 뒤따른다, and reads more directly."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H005",
+      "reason": "BASE’s “restore the fatigue” is unidiomatic; SOL drops 몸의 피로 and the body/mind contrast.",
+      "replacement": "Leveling up could restore my physical fatigue, but it couldn’t do anything about mental fatigue."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H006",
+      "reason": "SOL’s “a day spent” over-specifies 오늘처럼 죽음의 문턱을 오고 간 뒤."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H007",
+      "reason": "SOL matches 좋은 꼴을 본 적이 없다 but drops 쯤 from five lives; BASE’s “come out ahead” tilts toward winning.",
+      "replacement": "Nothing good had ever come from getting tangled up with Peak masters. More than once, I’d found myself wishing I had about five lives."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H008",
+      "reason": "고생하셨습니다 is a thanks, not a remark that he worked hard."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H009",
+      "reason": "어휴 is a whew/sigh, not “Oh.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H010",
+      "reason": "살살거리며 다가와 is an ingratiating sidle; BASE invents a smile."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H011",
+      "reason": "SOL adds “us” and recasts 지키던 as staying outside in order to protect."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H012",
+      "reason": "Tighter “Of course” sets up the kill-on-the-spot punchline without padding 알지."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H013",
+      "reason": "SOL drops 인마 and 좀 더 from the chiding request."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H014",
+      "reason": "힘을 줘 꾹꾹 주물렀다 is putting strength into a knead; SOL’s finger-digging is unsupported."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H015",
+      "reason": "따로 모셨습니다 is moved separately, not specifically to a room."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H016",
+      "reason": "철무백 대협 is Great Hero Cheol Mubaek; SOL also pads 돌팔이들 아닐까요."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H017",
+      "reason": "SOL omits 아이템의 효능, the efficacy he actually trusts."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H018",
+      "reason": "아니었다면 is “If not for”; 내상 치유에 is treating Internal Injuries, not being “effective against” them."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H019",
+      "reason": "알아서 해 주겠지 is physicians taking care of patients; “handle” is only a synonym swap."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H020",
+      "reason": "발 빠르게 움직였다 is moved quickly; “acted” is an unsupported synonym."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H021",
+      "reason": "지원군 here is a post-battle support force; “reinforcements” implies combat backup the next lines deny."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H022",
+      "reason": "구호 is relief, not rescue; SOL drops the repeated 하오문 subject.",
+      "replacement": "The Lower District Sect’s support force had been organized for relief work, not combat."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H023",
+      "reason": "혀를 내두르다 is amazement, not whistling; “even laborers” keeps 까지."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H024",
+      "reason": "인 동시에 is both/and, not contrastive “but”; SOL adds unsupported “branches.”",
+      "replacement": "The Lower District Sect was both an information organization found throughout the land and a Murim sect."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H025",
+      "reason": "Keeps the Branch Leader fact in cleaner narrator cadence than the stacked relative clause."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H026",
+      "reason": "파악했던 is identifying the name, not tautologically “sensing” it through Qi Sense."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H027",
+      "reason": "그래 is “Yeah”; “maintain proper boundaries” is the natural rendering of 선을 지키면서."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H028",
+      "reason": "SOL collapses 순수한 감정 into “interest” and drops 좀 더 지켜봐야."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H029",
+      "reason": "무진아 is the intimate vocative; dropping -ah flattens the address."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H030",
+      "reason": "“Think of” is the English collocation for 어떻게 생각하냐."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H031",
+      "reason": "곰곰이 is careful pondering, not merely thinking for a moment."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H032",
+      "reason": "어깨 말고 is an explicit redirect off the shoulders; “instead” alone blunts that beat."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H033",
+      "reason": "저 자식한테 뭘 물어본 needs the dismissive “that guy” and “anything.”"
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H034",
+      "reason": "대꾸하려던 is a retort, not a vague “say something”; SOL drops 서서히 and over-specifies “protest.”",
+      "replacement": "Hyuk Mujin looked wounded and was about to retort when light footsteps slowly approached and stopped in front of the door."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H035",
+      "reason": "SOL drops 작고 and 느껴지는 from 턱없이 작고 약했다."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H036",
+      "reason": "뜻밖의 손님이 입을 열었다 is its own beat after the silence; the merge already lost “small.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H037",
+      "reason": "맑고 또렷한 목소리 is ungendered until 이소월이었다; “Her” reveals too early."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H038",
+      "reason": "“Lee Seowol and I were alone” is the natural pairing for 단둘이 남겨졌다."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H039",
+      "reason": "“Slowly darkening sky” and “cleared my throat for no reason” naturalize 슬슬 어두워지는 and 괜한 헛기침."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H040",
+      "reason": "고역이 따로 없다 is an ordeal/trial; “torture” intensifies it."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H041",
+      "reason": "싸우던 modifies 문주, so “whom,” not “which” attached to the sect."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H042",
+      "reason": "엮인 is entangled, not merely connected; SOL’s “still” is unsupported.",
+      "replacement": "They said new wine belonged in new wineskins, but she was the only daughter of Lee Cheonbaek, the man who had tried to bring down the Jin Family of Taiyuan, and she and I were already entangled in a scandal."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H043",
+      "reason": "Keep 분위기가 무거워져; SOL’s “as if hadn’t been enough” matches 모자라, but “gloomy” does not.",
+      "replacement": "No. That would make the atmosphere far too heavy. As if losing her family recently hadn’t been enough, she had also lost most of her subordinates in the battle against Pung Yang."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H044",
+      "reason": "Keeps 힘드신 일 and the aborted 속이 든든해야……; SOL weakens that to “a lot.”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H045",
+      "reason": "“Stopped myself” is the self-cutoff; “I stopped” is ambiguous."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H046",
+      "reason": "SOL drops 자리에서 일어나 before the bow."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H047",
+      "reason": "말릴 새도 없이 벌어진 일 is preserved in the merged following sentence."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H048",
+      "reason": "Assembled prose keeps the unstoppable bow and 일으켜 세웠다 without the extra “back.”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H049",
+      "reason": "은공이라니 is a direct thought and must stay italic."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H050",
+      "reason": "사람이라면 응당 은혜를 입고 감사할 줄 알아야 is not “anyone with a conscience.”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H051",
+      "reason": "말릴 수도 없다 is that he cannot stop her, not that he cannot argue."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H052",
+      "reason": "세워도 부족하긴 하지 is still not enough, not “still owe us”; SOL also adds “for good.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H053",
+      "reason": "Treats ‘산서잠룡 오신 날’ as the quoted holiday name rather than adding “to visit.”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H054",
+      "reason": "SOL’s “Okay” is an unsupported discourse marker for 너무 나갔지만."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H055",
+      "reason": "“Stop calling me that” is the natural spoken request not to keep using 은공."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H056",
+      "reason": "SOL drops 침착한 얼굴로 대답한 and turns 들을 수 있었다 into “learn.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H057",
+      "reason": "Tighter recognition beat for 초대장에 관한 이야기다."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H058",
+      "reason": "Keeps 정중한 초대 and 밥 한 끼; SOL weakens the invitation to a “request.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H059",
+      "reason": "행보가 재미없을 is an unpleasant future, not merely that “things would not go well.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H060",
+      "reason": "“Narrowly escaped annihilation” is the natural collocation for 간신히 궤멸을 면한."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H061",
+      "reason": "Comma after “So” is indistinguishable churn."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H062",
+      "reason": "Contraction-only change is indistinguishable."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H063",
+      "reason": "SOL omits 거기서 멈추지 않고 before she continues."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H064",
+      "reason": "Furthermore/every right matches 더불어 and 모든 권리 in her formal add-on."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H065",
+      "reason": "차지하고 있는 영역 is occupied territory, not merely “held.”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H066",
+      "reason": "그 말인즉슨 is what her words mean, not what she “intended.”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H067",
+      "reason": "Keeps 기정사실 and 완전히 통째로 집어삼키지는 못한다."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H068",
+      "reason": "“Just” vs “merely” is indistinguishable."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H069",
+      "reason": "Confirmatory 그래 is “Right,” not a stiff “Yes.”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H070",
+      "reason": "품에서 꺼내 들어 is took out; “drew” is a marked synonym."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H071",
+      "reason": "적힌 is already implied by titles on covers; “written” is translationese."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H072",
+      "reason": "Keeps the pause after two titles before 그리고, which she then supplies."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H073",
+      "reason": "Keeps glossary “footwork technique” and 하나같이 rather than numbering “all three.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H074",
+      "reason": "Uses the project ellipsis character instead of doubled Korean dots."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H075",
+      "reason": "SOL’s “beaten into me” over-intensifies 뼈저리게 깨달은."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H076",
+      "reason": "“To them” continues from ordinary martial artists without repeating the glossary term."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H077",
+      "reason": "그 이상 is more than those rights; SOL’s “even more” intensifies it."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H078",
+      "reason": "“Those rights” avoids repeating northern Shanxi while keeping the branch/root image."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H079",
+      "reason": "“On the scales” is the idiomatic balance for 저울에 올려놓은; “possessions” tightens 값진 것들."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H080",
+      "reason": "이것/이건 is singular; she answers in the singular too."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H081",
+      "reason": "Keeps 진위경이라면 and 무슨 수를 써서라도; SOL weakens both."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H082",
+      "reason": "도대체 is “what on earth,” not as strong as “what the hell.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H083",
+      "reason": "또 다른 무언가 is “something else”; “entirely” is extra."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H084",
+      "reason": "BASE weakens 절망적인 with “nearly”; SOL overstates 헐값 as “next to nothing.”",
+      "replacement": "Lee Seowol—or rather, the Mount Heng Sword Sect—was in a situation beyond desperate. Even if they were offering their martial arts at a bargain price, whatever they wanted in return was certain to be a difficult demand."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H085",
+      "reason": "슬쩍 발을 뺐다 is backing out of the matter, not a physical step away."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H086",
+      "reason": "BASE is stiff (“you have in mind”); SOL drops 무슨 거래일지.",
+      "replacement": "“I’m curious what kind of transaction this is, but I don’t know if you’re aware—I don’t have that kind of authority.”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H087",
+      "reason": "딱히 직책도 없고 is not having a position; SOL’s “hold” is a synonym swap."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H088",
+      "reason": "제 생각은 은공과 다른데요 is measured disagreement, not blunt “I disagree.”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H089",
+      "reason": "Keeps 물론 and 많은 이야기가 오고 가야겠지만 as many discussions."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H090",
+      "reason": "Keeps 바꿀 만한 and 저희 쪽; SOL’s “worth three” and “give you” recast both."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H091",
+      "reason": "First hearing of 여인의 목소리 is naturally “a woman’s voice.”"
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H092",
+      "reason": "Keep 보는 것만으로도 가슴이 간질거리는; SOL’s “something tickle” is vague, BASE’s “one’s” fights Mujin POV.",
+      "replacement": "A beauty who made his chest tickle just by looking at her was descending the pavilion steps."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H093",
+      "reason": "“Carried the scent of flowers” is enough for 꽃향기가 섞여 불어오는; “with it” is padding."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H094",
+      "reason": "복도 많아 is lucky; “blessed” is a marked synonym."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H095",
+      "reason": "Glossary requires “foremost family in Shanxi”; SOL recasts 무공도 뛰어나다 as being a martial artist.",
+      "replacement": "He had a handsome face, was the youngest Young Master of the Jin Family of Taiyuan—the universally acknowledged foremost family in Shanxi—and possessed excellent martial arts."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H096",
+      "reason": "선남선녀 is the handsome-beauty pairing, not a generic “perfect couple.”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H097",
+      "reason": "SOL drops 뒷모습 from the receding figure."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H098",
+      "reason": "“However briefly” captures 잠깐이지만 in the mock-solemn farewell."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H099",
+      "reason": "반쯤 넋이 나가 있는 is half out of his mind, not merely “in a daze.”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H100",
+      "reason": "정신 좀 차려 보세요 keeps Mujin’s polite -세요; “Snap out of it” is too brusque."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H101",
+      "reason": "“His unfocused eyes” removes the body-part calque “the unfocused eyes.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H102",
+      "reason": "The worried-expression attribution is preserved in the merged next sentence."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H103",
+      "reason": "Merges 걱정스러운 얼굴로 물었다 with the quoted questions without losing content."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H104",
+      "reason": "꿀꺽 is its own onomatopoeic beat before the swallow."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H105",
+      "reason": "간신히 입을 뗐다 is barely opening his mouth, not merely managing to speak."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H106",
+      "reason": "고 혁무진이라고 불리기 is being called the late Hyuk Mujin, not Taekyung starting to call him that."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H107",
+      "reason": "슬슬 혼인할 나이 is the age people start marrying, not compressed “marriageable age.”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H108",
+      "reason": "이마를 탁 쳤다 is an abrupt slap; SOL’s “Then” is only a weak sequencer."
+    }
+  ],
+  "version": 1
+}
