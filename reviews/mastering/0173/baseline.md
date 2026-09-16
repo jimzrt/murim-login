@@ -2,7 +2,7 @@
 
 “Then…?”
 
-At the astonishment in Cheongpung’s eyes, the Fire King Jeok Cheongang smiled faintly.
+At Cheongpung’s astonished expression, the Fire King Jeok Cheongang gave him a faint smile.
 
 “Have you heard of me?”
 
@@ -20,9 +20,9 @@ He had suffered all kinds of hardships as a child, leaving him with a deep-roote
 
 So perhaps it was only natural.
 
-“I heard you picked fights almost every day during the Great Faction War. Apparently, you got a good whack in on every last young prodigy of the Nine Sects and One Gang…”
+“I heard you picked fights almost every day during the Great Faction War. Apparently, you beat up practically every young prodigy from the Nine Sects and One Gang…”
 
-“Ahem. Whacked every one of them? Who says that! And I was young back then. When you’re young and full of energy…”
+“Ahem. Who says I beat up every one of them? And I was young back then. When you’re young and full of energy…”
 
 “I heard you were sixty at the time.”
 
@@ -80,7 +80,7 @@ Jeok Cheongang was caught off guard and began to stammer.
 
 “...!”
 
-Jeok Cheongang, suddenly turned into a hidebound old man, trembled.
+Jeok Cheongang’s body trembled after suddenly becoming a hidebound old man.
 
 “What do you call this again? I learned it recently.”
 
@@ -98,7 +98,7 @@ Jeok Cheongang did not know exactly what the words meant, but he understood the 
 
 *Have I been hiding in the mountains for too long?*
 
-The new waves of the Yangtze were stronger than he had imagined. Even so, he could not beat up the only grandson of his one and only kindred spirit…
+The new waves of the Yangtze were stronger than he had imagined. Even so, he could not beat up the only grandson of his one kindred spirit…
 
 Jeok Cheongang felt his head begin to ache and opened his mouth.
 
@@ -174,9 +174,9 @@ But reality did not change. That short, squat old man was a Supreme Peak master 
 
 *I had a feeling from the start.*
 
-I couldn’t say for sure, but I was probably the first person here to realize his true identity.
+I might have been the first person here to realize his true identity.
 
-The moment Jeok Cheongang’s internal energy came flooding into me, the System had delivered a rather telling message.
+The moment Jeok Cheongang’s internal energy surged into me, the System had delivered a meaningful message.
 
 Ding.
 
@@ -186,7 +186,7 @@ Ding.
 > - It is assimilating the internal energy that has entered your body.
 > - Your internal energy has risen slightly.
 
-It had happened in the blink of an eye. At first, I thought I was about to be roasted alive like a whole pig. But soon my stomach grew warm, as if I had just eaten a bowl of gukbap,[^1] and my internal energy even increased.
+It had happened in the blink of an eye. At first, I thought I was about to be roasted alive. But soon my stomach grew warm, as if I had just eaten a bowl of gukbap,[^1] and my internal energy even increased.
 
 *What the hell is this?*
 
@@ -256,7 +256,7 @@ Jeok Cheongang narrowed his eyes as he watched me keep my mouth shut.
 
 “No, I’m not.”
 
-“Like hell you’re not. You’d have better luck fooling a ghost than fooling this old man. I could tell the moment you opened your eyes.”
+“Don’t lie to this old man. You’d have better luck deceiving a ghost. I could tell the moment you opened your eyes.”
 
 Cheongpung approached with a worried expression.
 
@@ -314,7 +314,7 @@ During the Great Faction War, he had possessed martial arts strong enough to mak
 
 “He’s my great-uncle.”
 
-In reality, ours had been a kill-or-be-killed relationship. But I wasn’t technically lying.
+In reality, we had been locked in a relationship of killing or being killed. But I was not technically lying.
 
 At the mention of shared blood, Jeok Cheongang’s eyes softened.
 
@@ -338,7 +338,9 @@ He had been so enthusiastic that I had nearly had my crown split open by Sword E
 
 Jeok Cheongang was even offering me compliments now.
 
-The atmosphere had become warm and friendly overall. That is, until he opened his mouth again a moment later.
+The atmosphere had become warm and friendly overall.
+
+Then he opened his mouth again.
 
 “So, is he doing well?”
 
@@ -354,7 +356,7 @@ The atmosphere had become warm and friendly overall. That is, until he opened hi
 
 The Head Elder’s grave was in a corner of the Jin Family of Taiyuan’s cemetery—in other words, the family cemetery.
 
-The family’s senior members had vehemently opposed it, but Jin Wikyung had pushed it through. He had felt guilty about the mistake made by his grandfather, the former Family Head.
+The family elders had vehemently opposed it, but Jin Wikyung had pushed it through. He had felt guilty about the mistake made by his grandfather, the former Family Head.
 
 “I suppose I should have a drink with him. It’s been a long time since I’ve seen him. Surely he won’t turn me away.”
 
@@ -372,7 +374,7 @@ I took a deep breath and opened my mouth.
 
 “...What?”
 
-“Just a couple of months ago…”
+“Just a couple of months ago, unfortunately.”
 
 Jeok Cheongang was silent for a moment before muttering,
 
@@ -390,7 +392,7 @@ Of course, he had possessed powerful internal energy. If he had stayed out of tr
 
 “He fell in battle?”
 
-A flash of anger appeared in Jeok Cheongang’s eyes.
+A trace of anger appeared in Jeok Cheongang’s eyes.
 
 “Was it the Demonic Cult bastards?”
 
@@ -410,7 +412,7 @@ I lowered my head silently with a sorrowful expression. Sensing the subdued atmo
 
 If he had been awake, he would have been shooting me sidelong glances and practically shouting, *This is the culprit. He killed him.*
 
-*Enough. The moment I get out of here, I’m getting the hell out. Maybe I should just use Logout altogether.*
+*Enough. Once I get out of here, I’m getting the hell out of here. Maybe I should just use Logout altogether.*
 
 And then, the next moment, I realized something.
 

@@ -158,7 +158,7 @@ I had to hold out until the very last last.
 
 “...I’ll come.”
 
-I opened my eyes with tears in them.
+I opened my eyes, holding back tears.
 
 Two eyes blazing with flames were glaring at me.
 
@@ -372,7 +372,7 @@ I took a deep breath and opened my mouth.
 
 “...What?”
 
-“Just a couple of months ago…”
+“Just a couple of months ago.”
 
 Jeok Cheongang was silent for a moment before muttering,
 
@@ -410,7 +410,7 @@ I lowered my head silently with a sorrowful expression. Sensing the subdued atmo
 
 If he had been awake, he would have been shooting me sidelong glances and practically shouting, *This is the culprit. He killed him.*
 
-*Enough. The moment I get out of here, I’m getting the hell out. Maybe I should just use Logout altogether.*
+*All right. The moment I get out of here, I’m gone. Maybe I should just use Logout altogether.*
 
 And then, the next moment, I realized something.
 
