@@ -12,7 +12,7 @@ As the familiar six-horse carriage drew near, Zhu Bao held out something about t
 
 I accepted it and took a closer look. It was some kind of gold medallion.
 
-Clouds and a dragon had been delicately engraved into its surface, which flashed brilliantly in the sunlight.
+Clouds and a dragon were delicately engraved into its surface, gleaming brilliantly in the sunlight.
 
 *Ding.*
 
@@ -30,11 +30,11 @@ An exchange coupon.
 
 Twenty coupons from a Chinese restaurant would get you a large serving of sweet-and-sour pork. Since this was an exchange coupon from Prince Shangshan, I might be able to trade it for all kinds of elixirs or treasures.
 
-*I do need a weapon, too.*
+*I do need a weapon.*
 
 Thanks to absorbing the Blazing Flame Divine Pill, I had more than enough internal energy.
 
-It was just a shame that I didn’t have a decent spear. I’d been using and discarding other weapons like disposable chopsticks from the very beginning.
+The only problem was that I didn’t have a decent spear. I’d been using and discarding other weapons like disposable chopsticks from the very beginning.
 
 *Should I just trade it in right now?*
 
@@ -42,9 +42,9 @@ I considered it for a moment, then shook my head.
 
 The greatest danger had already passed. With no urgent need, trading the prince’s token for a single weapon would be a waste.
 
-“Thank you. I really wanted something like this.”
+“Thank you. I’ve always wanted one of these.”
 
-When I bowed deeply from the waist, Zhu Bao rose onto his tiptoes and gently ruffled my hair.
+When I bowed deeply at the waist, Zhu Bao rose onto his tiptoes and ruffled my hair.
 
 “I am happy that you like it.”
 
@@ -84,7 +84,7 @@ I stared at Hong Jin in disbelief.
 
 “You know what they say—strike while the iron is hot. Shouldn’t I take this opportunity to speak with the Lesser Family Head Jin?”
 
-Hong Jin smiled pleasantly and snapped his fingers. An official came running over like the wind.
+Hong Jin smiled and snapped his fingers. An official came running over like the wind.
 
 “Deputy Military Commissioner. Do you have an order for me?”
 
@@ -94,7 +94,7 @@ Hong Jin smiled pleasantly and snapped his fingers. An official came running ove
 
 Li Feng also issued an order to one of his officers.
 
-“He is an honored guest. Escort him to the Jin Family of Taiyuan.”
+“They are honored guests. Escort them to the Jin Family of Taiyuan.”
 
 “Yes, sir!”
 
@@ -104,7 +104,7 @@ Cheongpung, who had been about to climb aboard after us, gave a small round of a
 
 “Wow.”
 
-Having obtained the royal guard gear set he had longed for so desperately, he decided to stay at the Jin Family of Taiyuan for the time being.
+Having finally obtained the royal guard gear set he had longed for, he had decided to stay at the Jin Family of Taiyuan for the time being.
 
 Li Feng dipped his head toward me.
 
@@ -112,7 +112,7 @@ Li Feng dipped his head toward me.
 
 “Of course.”
 
-Even without hearing him say that, Cheongpung was someone I wanted to befriend first.
+Even without being asked, Cheongpung was someone I wanted to befriend.
 
 If I used him as a bridge to strengthen the Jin Family of Taiyuan’s relationship with Huashan, our family’s future would surely be bright.
 
@@ -144,9 +144,9 @@ The young prodigies of the Five Gates of Shanxi answered hesitantly.
 
 Their answers couldn’t have been gloomier.
 
-Then again, rumors about what had happened the day before were probably already racing across the land like a winged horse, so their fear was understandable.
+Then again, rumors about what had happened the day before were probably already spreading like wildfire, so their fear was understandable.
 
-I clicked my tongue as I looked at them.
+I clicked my tongue at them.
 
 “Behave yourselves until New Year’s Day. I’ll smooth things over with the Sect Leaders later.”
 
@@ -158,9 +158,9 @@ I clicked my tongue as I looked at them.
 
 The tide could no longer be turned. By now, both these young men and the Sect Leaders of the Five Gates of Shanxi would know that.
 
-From now on, all they could do was grow as large as possible under the Jin Family of Taiyuan.
+All they could do from now on was grow as powerful as possible under the Jin Family of Taiyuan.
 
-“All right, then. Do your best, and I’ll see you on New Year’s Day.”
+“All right, then. Take care, and I’ll see you on New Year’s Day.”
 
 “What?”
 
@@ -182,7 +182,7 @@ The carriage began moving almost the instant the door slammed shut.
 
 * * *
 
-The inside had been spacious even with six people seated in it. Cheongpung, Hong Jin, and I each claimed several seats and leaned back against the soft cushions.
+The interior had been spacious even with six people seated inside. Cheongpung, Hong Jin, and I each claimed several seats and leaned back against the soft cushions.
 
 “I think I could live here.”
 
@@ -190,7 +190,7 @@ Cheongpung continued with a blissful smile.
 
 “When I lived with Grandfather, I slept on grass or rocks. I don’t think I could live like that anymore.”
 
-*He’s a primitive man discovering civilization.*
+*He’s like a primitive man discovering civilization.*
 
 Hong Jin gave him a curious look.
 
@@ -206,7 +206,7 @@ Reaching the Supreme Peak realm wouldn’t make milk come out of a man’s chest
 
 *Actually, a Supreme Peak master might be able to do it.*
 
-They were monsters who could use Sword Energy and Sword Force. Producing a little milk couldn’t be beyond them.
+They were monsters who could use Sword Energy and Sword Force. Producing a little milk might not be beyond them.
 
 I imagined a white-haired old man nursing a newborn baby.
 
@@ -228,13 +228,13 @@ When I hurled silent curses at him with my eyes, Hong Jin covered his mouth and 
 
 “Hoho. Young Master Jin really is so much fun to tease.”
 
-If a beautiful woman had said that, I would have laughed along with her. But Hong Jin was unmistakably a man. No amount of white powder on his face or lipstick on his lips could change that fact.
+If a beautiful woman had said that, I would have laughed along with her. But Hong Jin was unmistakably a man. No amount of white powder on his face or makeup on his lips could change that.
 
 *He said he used to be a palace attendant.*
 
 Didn’t that make him a eunuch?
 
-I’d once heard that not every palace attendant was necessarily a eunuch. But there was no way to tell whether Hong Jin was equipped or not.
+I’d once heard that not every palace attendant was necessarily castrated. But there was no way to tell whether Hong Jin still had his equipment.
 
 “Young Master Jin.”
 
@@ -242,15 +242,15 @@ I’d once heard that not every palace attendant was necessarily a eunuch. But t
 
 “What are you looking at?”
 
-“Ah, I thought there was something stuck there.”
+“Oh, I thought there was something stuck there.”
 
 *Damn it. He caught me.*
 
-He wasn’t a Murim martial artist, but his ability to read the situation was on the level of a Peak master. I quickly pulled my gaze away from Hong Jin’s lower body and changed the subject.
+He wasn’t a Murim martial artist, but his perception was on the level of a Supreme Peak master. I quickly tore my gaze from Hong Jin’s lower body and changed the subject.
 
 “By the way, how did Great Hero Li Feng end up joining the military?”
 
-“Assistant Military Commissioner Li? He passed the military examination, of course. After that, it was smooth sailing all the way.”
+“Assistant Military Commissioner Li? He passed the military examination, of course. After that, it was smooth sailing.”
 
 “As expected of a Huashan lay disciple.”
 
@@ -292,9 +292,9 @@ Seeing my reaction, Hong Jin kindly added an explanation.
 
 “Oh.”
 
-“Well, at least he has no ambitions beyond that. I like bribes too, so I’m hardly in a position to criticize him.”
+“Well, at least he has no greater ambitions. I like bribes too, so I’m hardly in a position to criticize him.”
 
-*What kind of person was this?*
+*What the hell was wrong with this guy?*
 
 I’d seen plenty of politicians on television proclaiming their innocence against accusations of accepting bribes, but Hong Jin was the first person I’d met who openly admitted to liking them.
 
@@ -306,11 +306,11 @@ I’d seen plenty of politicians on television proclaiming their innocence again
 
 “Well, yes. Honestly, I’m a little flustered.”
 
-“Young Master Jin. Do you know what?”
+“Young Master Jin. Do you know something?”
 
 Hong Jin continued with a serious expression.
 
-“I don’t have a thing.”
+“I don’t have it.”
 
 “What?”
 
@@ -326,9 +326,9 @@ Cheongpung, who had been looking out the window, abruptly joined in with a curio
 
 “What’s a eunuch?”
 
-“……Please, please shut your mouth.”
+“……Please. Please just shut your mouth.”
 
-*He’s saying he doesn’t have his thing—his thing!*
+*He’s saying he doesn’t have a dick!*
 
 Every second dragged by. Sweating coldly, I forced myself to speak.
 
@@ -336,7 +336,7 @@ Every second dragged by. Sweating coldly, I forced myself to speak.
 
 “There’s no need to be sorry. Some people live without one, and some live with one. Right?”
 
-“Th—that’s right.”
+“Th-That’s right.”
 
 His admirable attitude made me solemn for no reason.
 
@@ -360,7 +360,7 @@ Cheongpung sucked in a startled breath.
 
 “B-Benefactor.”
 
-“Calm down, Young Master Jin. If he grew up in the mountains, it’s understandable. And besides, it’s not as if I’ve only been living as a eunuch for a day or two.”
+“Calm down, Young Master Jin. If he grew up in the mountains, it’s understandable. Besides, it’s not as if I’ve only been a eunuch for a day or two.”
 
 “Still, that was too harsh.”
 
@@ -368,21 +368,21 @@ Cheongpung sucked in a startled breath.
 
 “It’s fine. Chin up. Yours is still attached.”
 
-*Decades of experience as a eunuch hadn’t gone anywhere.*
+*Decades of experience as a eunuch were no joke.*
 
-Hong Jin waved a hand as if to calm us down, then continued as though nothing important had happened.
+Hong Jin waved a hand as if to calm us down, then continued as though nothing had happened.
 
 “I’ve never regretted my decision. When your own family is starving to death, what wouldn’t you do? Am I wrong?”
 
 “Of course not.”
 
-“I—I would have done the same!”
+“I-I would have done the same!”
 
 Whatever Hong Jin said now, we had to agree with him. Cheongpung and I could only nod, feeling like condemned criminals.
 
-“I’m not an upright man, but I’m not cowardly enough to betray a trust. If I were, I wouldn’t have continued serving His Highness all this time.”
+“I’m not an upright man, but I’m not cowardly enough to betray someone’s trust. If I were, I wouldn’t have continued serving His Highness all this time.”
 
-Hong Jin gazed out the window with hazy eyes.
+Hong Jin gazed out the window, his eyes distant.
 
 “Long ago, I served at the late Emperor’s side. He ordered me to assist His Highness Prince Shangshan.”
 
@@ -392,12 +392,12 @@ If the previous Emperor had entrusted Hong Jin with such a request, Hong Jin mus
 
 Hong Jin nodded and continued.
 
-“I came to the frontier in what was practically exile, but… I’m satisfied with things as they are now. Truly, this is enough.”
+“I came to the frontier in what was practically exile, but… I’m satisfied with things as they are now. More than satisfied.”
 
 Despite his words, an unmistakable light shone in his eyes.
 
 Ambition? Hope?
 
-Before I could understand what that light meant, it disappeared, and the coachman’s quiet voice reached my ears.
+Before I could discern its meaning, the light vanished, and the coachman’s quiet voice reached my ears.
 
 “The Jin Family of Taiyuan is in sight.”
