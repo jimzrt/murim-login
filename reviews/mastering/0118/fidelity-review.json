@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“What have you done?”",
+      "defect": "The question mark drops the source’s shouted exclamation, weakening Pung Yang’s alarm and aggression.",
+      "id": "F01",
+      "rationale": "The Korean line ends with an exclamation mark and is delivered as an alarmed shout.",
+      "replacement": "“What have you done?!”",
+      "severity": "minor",
+      "source": "line 105"
+    }
+  ],
+  "summary": "The chapter is faithful overall, with one minor register defect.",
+  "version": 1
+}
