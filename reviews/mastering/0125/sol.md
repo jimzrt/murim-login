@@ -14,7 +14,7 @@ She was two years younger than Hayeon, putting ten years between us. With an age
 
 *Still, she certainly seems mature for her age… No. Get a grip.*
 
-Avoiding Lee Seowol’s deep gaze, I clasped my hands in a formal salute.
+Avoiding Lee Seowol’s soulful gaze, I clasped my hands in a formal salute.
 
 “Greetings.”
 
@@ -46,13 +46,13 @@ Her smile had just turned awkward when a rough voice came from behind her.
 
 “He’s a Benefactor to me.”
 
-The speaker was a middle-aged man with half-gray hair. Seated in a rattling wooden cart, he greeted us with a nod.
+The speaker was a middle-aged man with graying hair. Seated in a rattling wooden cart, he greeted us with a nod.
 
-“Please excuse me for being unable to stand. Well, age has caught up with me. My body isn’t what it used to be.”
+“Please forgive me for not getting up. Well, age has caught up with me. My body isn’t what it used to be.”
 
 No one here could match the man before us in either age or fame.
 
-At the appearance of Cheol Mubaek, the Tiger of Mount Heng, Hyuk Mujin quickly bent at the waist.
+At the appearance of Cheol Mubaek, the Tiger of Mount Heng, Hyuk Mujin promptly bent at the waist.
 
 “I greet Great Hero Cheol Mubaek—”
 
@@ -70,13 +70,13 @@ Even Hyuk Mujin, who was as shameless as they came, quietly shrank back. That le
 
 “You’ve arrived.”
 
-Nothing special. He simply clasped his hands in a brief salute. Yet Cheol Mubaek’s face lit up the instant he saw him.
+There was nothing remarkable about it. He merely clasped his hands in a brief salute. Yet Cheol Mubaek’s face lit up the instant he saw him.
 
 “Well, if it isn’t our Heaven Shaking Sword. So, you’re leaving now?”
 
 “It seems so.”
 
-“Why not stay a little longer? We could have an in-depth discussion about martial arts later. Hmm?”
+“Why not stay a little longer? We could have an in-depth discussion about martial arts. Hmm?”
 
 “I’m sorry, but I’m pressed for time.”
 
@@ -98,11 +98,11 @@ I shot Hyuk Mujin a glance.
 
 *No idea. He called me a Benefactor before, but is it really all right to treat people this differently?*
 
-*But if you’re being honest, you didn’t actually do anything.*
+*To be fair, you didn’t actually do anything.*
 
 *…*
 
-He clamped his mouth shut with an irritated expression. My meaning seemed to have gotten through.
+He clamped his mouth shut, his face twisting with irritation. My meaning seemed to have gotten through.
 
 “All right. Make sure you come next time.”
 
@@ -110,23 +110,23 @@ Cheol Mubaek gazed at Jin Mukyung with a pleased, grandfatherly smile before tur
 
 “What about you? Don’t you have anything to say?”
 
-Was it my imagination, or had I just felt a predator’s gaze?
+Was it my imagination, or had the eyes of a predator just fallen on me?
 
 I decided to follow the better of the two examples I had just witnessed.
 
 “You’ve arrived.”
 
-“Of course I have. Did I go somewhere?”
+“Of course I have. Did I leave?”
 
 “…”
 
 That wasn’t it.
 
-But smiling in hard times was the mark of a First Rate man. I put on a smile without panicking.
+But smiling through hardship was the mark of a First Rate man. Without panicking, I put on a smile.
 
 “Are you feeling all right?”
 
-This time, Cheol Mubaek shook his splinted limbs.
+Cheol Mubaek shook his splinted limbs.
 
 “Do I look all right?”
 
@@ -138,23 +138,23 @@ This time, Cheol Mubaek shook his splinted limbs.
 
 The old man had quite a memory. He still seemed to be holding on to what I had said by mistake when we first met.
 
-Lee Seowol, who knew nothing about the situation, shouted in embarrassment.
+Lee Seowol, who had no idea what he was talking about, cried out in embarrassment.
 
 “Uncle!”
 
 “Good grief, you’ll burst this old man’s eardrums.”
 
-After grumbling, he suddenly bowed his head politely.
+After grumbling, he abruptly bowed his head with solemn courtesy.
 
 “Thank you, all of you.”
 
 He wasn’t thanking us out of obligation. Cheol Mubaek, the Tiger of Mount Heng—an old master who had walked his own path for many years—was speaking from the bottom of his heart.
 
-“Not because you prolonged what little remains of this old man’s life. Seowol—thank you for protecting that child. Thanks to all of you, the Mount Heng Sword Sect survived.”
+“Not because you prolonged what little remains of this old man’s life. Thank you for protecting Seowol. Thanks to all of you, the Mount Heng Sword Sect survived.”
 
-He gazed calmly at me, Jin Mukyung, and Hyuk Mujin in turn.
+His calm gaze passed over me, Jin Mukyung, and Hyuk Mujin in turn.
 
-“I’ve learned something after living for more than a jiazi.[^1] Gratitude and grudges must be repaid, no matter what it takes. I swear here and now that I will never forget what happened, not until the day I die. If you wish it, I’ll repay you even if it costs me my life.”
+“I’ve learned something in the more than one jiazi[^1] I’ve been alive. Gratitude and grudges must be repaid, no matter what it takes. I swear here and now that I will never forget what happened—not until the day I die. If you ask it of me, I will repay you even if it costs me my life.”
 
 Lee Seowol immediately continued where he left off.
 
@@ -164,7 +164,7 @@ Lee Seowol immediately continued where he left off.
 
 “Please forgive us!”
 
-The thunderous cries burst from the mouths of the Mount Heng martial artists.
+The thunderous cries erupted from the Mount Heng martial artists.
 
 Every one of them bore injuries, both great and small. Kneeling in the snow that had yet to melt, they waited for our answer.
 
@@ -176,7 +176,7 @@ At Jin Mukyung’s Sound Transmission, I licked my parched lips.
 
 *Forgiveness.*
 
-We had won the war, but wounds remained.
+We had won the war, but the wounds remained.
 
 Martial artists had fought and died without end on the orders of their superiors. Even women and children who had never learned martial arts had been sacrificed. It was all the work of Lee Cheonbaek, blinded by his desire to avenge his son.
 
@@ -192,7 +192,7 @@ But I couldn’t deny that the wounds were beginning to close.
 
 *Because everyone who caused them is dead.*
 
-The Head Elder and Lee Cheonbaek, each of whom had dreamed of revenge, had already met their ends.
+The Head Elder and Lee Cheonbaek, each driven by his own desire for revenge, had already met their ends.
 
 Wasn’t that why we had raced here day and night to save the Mount Heng Sword Sect?
 
@@ -202,7 +202,7 @@ Just as they were now.
 
 “I won’t accept your apology.”
 
-The words came out only after considerable thought. Without waiting for anyone else to react, I continued.
+The words came only after long consideration. Without waiting for anyone to react, I continued.
 
 “I’m not someone with the right to receive your apology or forgive you.”
 
@@ -216,11 +216,11 @@ Lee Seowol and Cheol Mubaek seemed to understand. Both nodded.
 
 The Mount Heng Sword Sect would hardly be a welcome guest. Especially now, diminished to such a pitiful state, they might have to endure all manner of humiliation and disgrace.
 
-But that was something they would have to bear themselves. There was nothing I could do, nor any reason for me to interfere.
+But that was something they would have to bear. There was nothing I could do about it, nor any reason for me to interfere.
 
 *Well done.*
 
-With Jin Mukyung’s brief Sound Transmission in my ear, I offered one last farewell.
+With Jin Mukyung’s brief Sound Transmission in my ear, I offered one final farewell.
 
 “Then we’ll be going.”
 
@@ -232,9 +232,9 @@ I had just turned toward the carriage when Lee Seowol called out.
 
 “Did you know there are fewer than fifteen days left until New Year’s Day?”
 
-Her voice babbled on like a little stream.
+Her voice babbled on like a clear stream.
 
-“I’m looking forward to hearing the answer I didn’t get last time.”
+“I’m looking forward to hearing the answer you didn’t give me last time.”
 
 I could only open and close my mouth in confusion as Jin Mukyung grabbed me and dragged me away.
 
@@ -242,13 +242,13 @@ With Cheol Mubaek’s distinctly displeased cough sounding behind us, the carria
 
 * * *
 
-The journey back to the Jin Family of Taiyuan was quick and smooth. The coachman’s skill played a part, but with the impatience gone from my heart, everything seemed that way.
+The journey back to the Jin Family of Taiyuan was quick and smooth. The coachman’s skill played a part, but now that the urgency was gone from my heart, everything seemed that way.
 
 “Phew.”
 
 Jin Mukyung had just finished circulating his qi when he suddenly muttered, “Now that I think about it, I didn’t even get to see a Peak martial art.”
 
-He had joined us after Jin Wikyung lured him in with the promise that he could see Peak martial arts at Mount Heng. I answered him calmly.
+He had joined us after Jin Wikyung lured him in with the promise that he could see Peak martial arts at Mount Heng. I answered with perfect composure.
 
 “It’s fine. Thanks to Pung Yang, you got to see Mount Beimang.”
 
@@ -258,13 +258,13 @@ He had joined us after Jin Wikyung lured him in with the promise that he could s
 
 Bones cracked in Jin Mukyung’s hand.
 
-“You’ve grown a lot.”
+“You’ve gotten bold.”
 
 “Want to spar once your injuries are fully healed?”
 
 “I could do it right now… Urgh.”
 
-Jin Mukyung tried to spring to his feet, then immediately frowned.
+Jin Mukyung tried to spring to his feet, then immediately grimaced.
 
 No matter how quickly he recovered, it had only been four days. That was nowhere near enough time for his injuries to heal completely.
 
@@ -272,9 +272,11 @@ He collapsed back into his seat and glared at me.
 
 “Consider yourself lucky.”
 
-“I don’t know about lucky, but my lifeline sure is damn thick.”
+“I don’t know about lucky, but I sure am hard to kill.”
 
-Considering how I kept surviving every brush with death, I must have been born with an unusually sturdy lifeline. Either that, or I had been blessed with heaven’s fortune.
+Considering how I kept surviving every brush with death, I must have been born with a remarkably stubborn hold on life.
+
+Either that, or I had been blessed with heaven’s own luck.
 
 “Anyway, you did well.”
 
@@ -282,9 +284,9 @@ Considering how I kept surviving every brush with death, I must have been born w
 
 “Eeeh?”
 
-Hyuk Mujin and I both widened our eyes at the unexpected praise sticker. Jin Mukyung looked at us as if he couldn’t understand what was wrong.
+Hyuk Mujin and I both stared at him, wide-eyed at the unexpected praise. Jin Mukyung looked back as though he couldn’t understand what the problem was.
 
-“Why are you looking at me like that? You look as if you’ve heard something you weren’t supposed to.”
+“What? You both look as if you’ve heard something you shouldn’t have.”
 
 “You’re practically a ghost.”
 
@@ -292,7 +294,7 @@ Hyuk Mujin and I both widened our eyes at the unexpected praise sticker. Jin Muk
 
 It was a fairly plausible theory, but around Jin Mukyung, you had to watch your mouth at all times.
 
-As I watched Hyuk Mujin get beaten until dust flew, I felt around inside my robes.
+As I watched Hyuk Mujin get beaten until dust flew, I reached inside my robes.
 
 *Inventory open. Summon.*
 
@@ -315,7 +317,7 @@ No—the only thing I had taken from him.
 > **Type:** Elixir  
 > **Grade:** ???  
 > **Restriction:** Peak martial artist or higher  
-> **Description:** A pill manufactured by an unknown person. It greatly raises the user’s latent power for about one shichen, but a price must be paid in return. Do not take it except in the worst-case scenario.  
+> **Description:** A pill manufactured by an unknown person. It greatly enhances the user’s latent strength for approximately one shichen, but a price must be paid in return. Do not take it except as a last resort.  
 > **Effect:** Combat-related stats +100  
 >
 > **Internal energy:** +15 years  
@@ -324,7 +326,7 @@ No—the only thing I had taken from him.
 
 Even accounting for the short time limit, its effects were monstrous. I could understand why Pung Yang had been so confident.
 
-I had no idea how severe the aftereffects were, but if my life were in danger, I’d swallow twenty of them, not two. Obviously.
+I had no idea how severe the aftereffects were, but if my life were in danger, I’d swallow twenty of them, never mind two.
 
 But something else bothered me.
 
@@ -334,7 +336,7 @@ The Item’s Grade was marked with question marks, its exact aftereffects weren�
 
 What kind of bastard had created something this bizarre?
 
-*This thing reeks of something shady.*
+*This thing reeks.*
 
 I was rolling the Temporary Strength Pill around in my palm, lost in thought, when a distant cry drifted toward us.
 
