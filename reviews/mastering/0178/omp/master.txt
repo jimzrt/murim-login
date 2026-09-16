@@ -4,7 +4,7 @@
 
 I stared at the innocent ceiling.
 
-“It is a little old here.”
+“It is a bit old here.”
 
 Of course, no rain was falling, and the ink-dark sky was perfectly still.
 
@@ -22,11 +22,11 @@ He had thoroughly used and discarded the Master who had saved him when he was on
 
 I was shocked that someone could be filled with such pure malice—and relieved that Jopil no longer existed in this world.
 
-“But he somehow managed to survive and escape. The Nangong Family must have been watching him closely, too.”
+“But he did manage to survive and escape. The Nangong Family must have been watching him closely, too.”
 
 The Nangong Family—a staple of martial arts novels.
 
-They were one of the Five Great Families of the world, said to rival the Nine Sects and One Gang. As far as I could tell, catching and killing a single fugitive would have been nothing to them.
+They were one of the Five Great Families of the world, said to rival the Nine Sects and One Gang. I didn’t know the details, but catching and killing a single fugitive would have been nothing to them.
 
 Unless someone had helped him.
 
@@ -170,13 +170,13 @@ The words burst out of me before I could stop them.
 
 “Is it really so surprising for this old man to apologize?”
 
-It seemed surprising enough to me. And he looked incredibly uncomfortable himself, so what was he complaining about?
+It seemed surprising enough to me. And he was clearly just as uncomfortable himself, so what was he complaining about?
 
 “…Well, you see…”
 
 I let my words trail off awkwardly, but when I saw Jeok Cheongang’s face twist, I quickly changed my tune.
 
-“For the world-renowned Fire King, Great Hero Jeok Cheongang, to personally apologize to a much younger junior like me! I can only bow before your magnanimous spirit and humility.”
+“For the world-renowned Fire King, Great Hero Jeok Cheongang, to personally apologize to a junior as young as me! I can only bow before your magnanimous spirit and humility.”
 
 “…”
 
@@ -232,7 +232,7 @@ No one is strong forever, and no one is weak forever.
 
 Even Jeok Cheongang, a Supreme Peak master, is ultimately weaker than someone else.
 
-Yet there are those who often mistake that fact. Drunk on their own strength—or on blood—they take the wrong path.
+Yet there are those who mistake that fact. Drunk on their own strength—or on blood—they take the wrong path.
 
 “What a pathetic fool.”
 
@@ -258,7 +258,7 @@ The countless moments a person passed through from birth to death.
 
 When death finally arrived, a painting filled with all those moments was complete. The painting Jangcheon had drawn was… entirely ink-black.
 
-Jeok Cheongang had watched it closer than anyone, yet he hadn’t known.
+Jeok Cheongang had watched it up close, yet he hadn’t known.
 
 “Cheon.”
 

@@ -56,7 +56,7 @@ There was no hesitation in his answer.
 
 *The me back then would have done the same?*
 
-It was a telling remark. It also meant that the Jeok Cheongang of today was different.
+It was a significant choice of words. It also meant that the Jeok Cheongang of today was different.
 
 *Could it be…?*
 
@@ -74,7 +74,7 @@ A thought suddenly flashed through my mind, and I asked very carefully—extreme
 
 Jeok Cheongang’s voice was low. His deep gaze seemed to see through everything, and my heart pounded.
 
-I swallowed dryly and opened my mouth.
+I swallowed and opened my mouth.
 
 “I believe there’s something you want to ask me.”
 
@@ -102,9 +102,9 @@ His voice was terribly hoarse. He was trying hard to sound calm, but the questio
 
 When I nodded, the old man’s gray eyes trembled.
 
-“I see. In the end, it came to that.”
+“So he is. In the end, that’s how it turned out.”
 
-Jeok Cheongang absently tried to tip back his wineglass, then noticed that it was empty and gave a hollow laugh.
+Jeok Cheongang unconsciously tried to tip back his wineglass, then noticed that it was empty and gave a hollow laugh.
 
 “I had some idea. I sensed traces of our sect in you.”
 
@@ -134,7 +134,7 @@ He would have given him the swiftest and most painless death possible.
 
 *Maybe that was why he had returned to the world.*
 
-But Jeok Cheongang’s goal had not been fulfilled. A step ahead of his old Master, Jopil had encountered me—and lost his life.
+But Jeok Cheongang’s goal had not been fulfilled. Jopil encountered me before his former Master could reach him, and lost his life.
 
 I wondered how Jeok Cheongang would react—
 
@@ -154,7 +154,7 @@ As I blinked at him, wondering what on earth was going on, Jeok Cheongang contin
 
 “Someone had to stop that child. You did in my stead what I should have done ten years ago. And…”
 
-Suddenly, Jeok Cheongang’s lips twitched, as if it were the first time he had ever said such a thing to anyone.
+Suddenly, Jeok Cheongang’s lips twitched, as if he were someone saying such a thing for the first time.
 
 After hesitating briefly, he finally spoke.
 
@@ -176,7 +176,7 @@ It seemed surprising enough to me. And he looked incredibly uncomfortable himsel
 
 I let my words trail off awkwardly, but when I saw Jeok Cheongang’s face twist, I quickly changed my tune.
 
-“For the world-renowned Fire King, Great Hero Jeok Cheongang, to personally apologize to a much younger junior like me! I can only bow before your magnanimous spirit and humility.”
+“The famous Fire King Jeok Cheongang, Great Hero, personally apologizing to a much younger junior like me! I can only bow before your broad-minded nature and humility.”
 
 “…”
 
@@ -184,7 +184,7 @@ I let my words trail off awkwardly, but when I saw Jeok Cheongang’s face twist
 
 Look at his face. It was a full-blown battle between Jekyll and Hyde.
 
-Whether to hit me or not, Jeok Cheongang expressed his intense inner conflict through every muscle in his face. Eventually, he sighed.
+Jeok Cheongang expressed his intense inner conflict over whether to hit me through every muscle in his face. Eventually, he sighed.
 
 “You’re an utterly unreadable fellow. You may leave now.”
 
@@ -200,11 +200,11 @@ Before Jeok Cheongang could change his mind, I quickly rounded up the two deadwe
 
 I had already swallowed the Blazing Flame Divine Pill, so there was nothing I could do about that, but I needed to return the remaining items.
 
-I was desperate to settle things with Jeok Cheongang once and for all today.
+I desperately wanted to put things between Jeok Cheongang and me to rest after today.
 
 “Um, Sir Jeok. I’m sorry, but there’s one more thing I need to say…”
 
-In a voice as tiny as an ant, I turned around—and stopped short.
+I turned around with a voice as tiny as an ant’s, then stopped short.
 
 *Glug, glug.*
 
@@ -228,11 +228,11 @@ He had killed dozens in Anhui alone. There was no way to guess how many people h
 
 “You called it Might Makes Right, didn’t you? You’re the same. In the end, you died at the hands of someone stronger than you.”
 
-No one is strong forever, and no one is weak forever.
+There was no one who remained strong forever, nor anyone who remained weak forever.
 
-Even Jeok Cheongang, a Supreme Peak master, is ultimately weaker than someone else.
+Even Jeok Cheongang, a Supreme Peak master, was the weaker party to someone.
 
-Yet there are those who often mistake that fact. Drunk on their own strength—or on blood—they take the wrong path.
+Yet people occasionally forgot that fact. Drunk on their own strength—or on blood—they strayed down the wrong path.
 
 “What a pathetic fool.”
 
@@ -246,7 +246,7 @@ He had turned those words over countless times during the past ten years. That s
 
 They had spent a long time together. At times, he had been a strict teacher, and at others, he had cared for his Disciple like a loving father.
 
-No—he had believed it was so.
+No—he had believed that was what he had been.
 
 But all of it had been an illusion. If it had truly been so, Jangcheon would have chosen a very different path.
 
@@ -258,7 +258,7 @@ The countless moments a person passed through from birth to death.
 
 When death finally arrived, a painting filled with all those moments was complete. The painting Jangcheon had drawn was… entirely ink-black.
 
-Jeok Cheongang had watched it closer than anyone, yet he hadn’t known.
+Jeok Cheongang had watched it from the closest distance, yet he hadn’t known.
 
 “Cheon.”
 
@@ -360,6 +360,6 @@ Hyuk Mujin and I nodded at the same time.
 
 After a brief silence, a great realization came over us.
 
-*Ah, the Jin Family of Taiyuan.*
+*Ah. The Jin Family of Taiyuan.*
 
 At that moment, Wipeng’s threat from before I left the family rang vividly in my ears.
