@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "“I-I turned twenty this year.”",
+      "defect": "The English says he reached twenty, while 약관을 넘겼습니다 states that he has passed twenty.",
+      "id": "F01",
+      "rationale": "넘겼습니다 places his age beyond the twenty-year threshold rather than exactly at it.",
+      "replacement": "“I-I’m past twenty now.”",
+      "severity": "minor",
+      "source": "line 75"
+    },
+    {
+      "confidence": 0.98,
+      "current": "to the nearest Lower District Sect branch",
+      "defect": "The translation turns “a nearby branch” into the uniquely nearest branch.",
+      "id": "F02",
+      "rationale": "가까운 indicates proximity, not a superlative comparison.",
+      "replacement": "to a nearby Lower District Sect branch",
+      "severity": "minor",
+      "source": "line 135"
+    },
+    {
+      "confidence": 1.0,
+      "current": "This is a rough map covering all of Shanxi Province. We're here. The Red Wind Band has probably… If they've been moving without rest, they may already have broken through Datong.",
+      "defect": "Wolhwa’s spoken dialogue is presented as unquoted narration.",
+      "id": "F03",
+      "rationale": "The Korean explicitly presents this passage as Wolhwa’s dialogue, and the missing quotation marks obscure the speaker and register.",
+      "replacement": "“This is a rough map covering all of Shanxi Province. We’re here. The Red Wind Band has probably… If they’ve been moving without rest, they may already have broken through Datong.”",
+      "severity": "minor",
+      "source": "line 193"
+    },
+    {
+      "confidence": 0.91,
+      "current": "we should be able to close the gap.",
+      "defect": "“Close the gap” can imply eliminating it completely, whereas the source says they can narrow it sufficiently.",
+      "id": "F04",
+      "rationale": "충분히 격차를 좁힐 expresses reducing the distance sufficiently, not necessarily catching up entirely.",
+      "replacement": "we should be able to narrow the gap enough.",
+      "severity": "minor",
+      "source": "line 197"
+    }
+  ],
+  "summary": "Faithful overall, with four minor fidelity defects involving age, location specificity, dialogue formatting, and degree of pursuit.",
+  "version": 1
+}

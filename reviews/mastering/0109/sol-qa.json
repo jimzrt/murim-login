@@ -1,0 +1,31 @@
+{
+  "chapter": 109,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.185,
+    "source_characters": 5665,
+    "source_paragraphs": 178,
+    "translation_characters": 12379,
+    "translation_paragraphs": 179
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "무림",
+        "preferred": "Murim"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "돌파",
+        "preferred": "break through / breakthrough"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
