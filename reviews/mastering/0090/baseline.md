@@ -4,27 +4,27 @@
 
 “Yes. Exactly as you heard.”
 
-Team Leader Choi’s call that evening came as a surprise.
+Team Leader Choi’s call that evening had been unexpected.
 
 A whole week off? Had something happened to the Guild?
 
-That thought reminded me of something troubling.
+When my thoughts reached that point, I suddenly remembered something.
 
-“Uh, this isn’t because of some problem with Sangdong Guild, is it?”
+“Uh, you didn’t have a problem with Sangdong Guild, did you?”
 
 “Sangdong Guild?”
 
-“You know, because of the whole Im Changsoo thing…”
+“I mean, because of the Im Changsoo situation…”
 
 “Ah, you don’t need to worry about that. The Guild house remodeling is supposed to be finished in a week.”
 
 It was a relief to hear that nothing had happened. But did people really stop raiding because of Guild house remodeling?
 
-*Still, a whole week off sounds nice.*
+*It’s nice to hear I’m getting a whole week off.*
 
 For the past seven years, I had lived with my eyes fixed straight ahead, running without rest. Lately, I had been going back and forth between the Murim and reality, spending my days without a moment to breathe.
 
-Honestly, I wanted to re—no. Times like this called for working even harder. My voice rang with determination.
+Honestly, I wanted to re—no. This was precisely when I needed to work harder. I spoke in a voice filled with determination.
 
 “Team Leader. I want to work.”
 
@@ -38,17 +38,17 @@ Honestly, I wanted to re—no. Times like this called for working even harder. M
 
 “…Yes.”
 
-As soon as I ended the call, Hayeon hurried over and bowed politely.
+As soon as I ended the call, Hayeon came hurrying over and bowed politely.
 
 “Oppa. The evening meal has been prepared.”
 
-“……Could you stop talking like that? It’s giving me goose bumps.”
+“……Could you stop speaking like that? It’s giving me goose bumps.”
 
 “Switching to casual mode requires a paid purchase.”
 
-“You sure found a complicated way to ask for allowance.”
+“You make asking for allowance sound so complicated.”
 
-I held out two fifty-thousand-won bills, and Hayeon grinned.
+When I held out two 50,000-won bills, Hayeon flashed a wide grin.
 
 “Mom says dinner’s ready.”
 
@@ -64,7 +64,7 @@ I held out two fifty-thousand-won bills, and Hayeon grinned.
 
 “……”
 
-My thoroughly pissed-off little sister and a table laden with Mom’s cooking.
+My younger sister was thoroughly pissed off, and the table was covered with Mom’s cooking.
 
 What was so special about vacation? I would eat and sleep to my heart’s content at home.
 
@@ -72,17 +72,17 @@ What was so special about vacation? I would eat and sleep to my heart’s conten
 
 Tap.
 
-Choi Minwoo set down his smartphone after the call ended. Butler Kim, seated across the table from him, asked,
+Choi Minwoo set down his smartphone after ending the call. Butler Kim, seated across the table from him, asked,
 
 “What did he say?”
 
-“He was already worried about Sangdong Guild.”
+“He was worried too. About Sangdong Guild.”
 
 “The more I see of him, the more interesting that young man becomes. He seems to act without thinking, yet he’s quick to grasp the situation.”
 
-Choi Minwoo drummed his long fingers on the table.
+Choi Minwoo tapped the table with his long fingers.
 
-Even now, some time after Jin Taekyung’s sudden appearance, his existence remained a mystery.
+Even after some time had passed, the sudden appearance of Jin Taekyung remained a mystery.
 
 When they had first met, Taekyung had seemed like nothing more or less than a diligent F-rank Hunter. Yet yesterday, he had single-handedly swept through a B-rank Gate.
 
@@ -126,13 +126,13 @@ Yet even to his eyes, Jin Taekyung was special.
 
 Sometimes forceful, sometimes fluid. His transitions between offense and defense were efficient, and he possessed an innate combat sense that told him when to advance and when to retreat.
 
-Watching Jin Taekyung fight, Butler Kim could think of only one word: overwhelming.
+When Butler Kim watched Jin Taekyung fight, the only word that came to mind was *overwhelming*.
 
 *A third awakening, huh.*
 
 It would take time, but it was worth investigating.
 
-Butler Kim bowed his head.
+Butler Kim lowered his head.
 
 “I’ll look into it.”
 
@@ -142,9 +142,9 @@ Butler Kim bowed his head.
 
 It had not even been half a day since word came that Im Changsoo had been summoned to the Guild Master’s office and beaten like a dog, yet Sangdong Guild’s watchers had already latched on. They were moving faster than expected.
 
-“Their target must be Jin Taekyung.”
+“The target is Jin Taekyung, then.”
 
-“They’ve likely marked him as a key figure, though they’ll begin by thoroughly investigating the entire Guild.”
+“They must have marked him as a major figure. For now, they’ll analyze the entire Guild, though.”
 
 “What about the other Guild members?”
 
@@ -154,21 +154,21 @@ Butler Kim hesitated before adding,
 
 “Shouldn’t we tell Jin Taekyung as well?”
 
-“It’s fine. In fact, I hope Sangdong Guild’s intelligence network is far superior to ours.”
+“It’s fine. In fact, I hope Sangdong Guild’s intelligence network is far better than ours.”
 
 The person who was hardest to understand—and the person about whom the most had already been revealed.
 
 It was like looking into a clear spring and still being unable to see what lay inside.
 
-Even if it meant using Sangdong Guild’s power, Choi Minwoo wanted to get closer to Jin Taekyung’s true identity.
+Choi Minwoo wanted to use Sangdong Guild’s power, if necessary, to get closer to Jin Taekyung’s true identity.
 
 “More importantly, it seems Sangdong Guild’s Master is extremely angry.”
 
-“He seems to have grown much more cautious. In the old days, he would have stormed in and caused a scene by now.”
+“He does seem much more cautious than before. If this were the past, he would have barged in and caused a scene by now.”
 
 “Ah. Could it be?”
 
-Butler Kim smiled at Choi Minwoo’s reaction and nodded.
+At Choi Minwoo’s reaction, Butler Kim smiled and nodded.
 
 “I’m acquainted with Sangdong Guild’s Master.”
 
@@ -184,17 +184,17 @@ Butler Kim’s smile deepened.
 
 I answered the real estate agent, a man whose forehead shone brightly.
 
-“I’d like to look at a house.”
+“I’d like to look at some houses.”
 
 “Are you looking for a monthly rental? A jeonse lease? Or perhaps…”
 
-“I’m buying.”
+“A house to buy.”
 
 “Well, well. So you’re a young Boss. Sorry, but wait just a moment. Let me take care of this and I’ll be right back. It’s so urgent I can barely hold it.”
 
 I wondered what he needed to take care of, then noticed the toilet paper in his hand.
 
-If that was the issue, he definitely needed to hurry. When I nodded, the real estate agent dashed into the bathroom.
+If that was what he needed to take care of, he should hurry. When I nodded, the real estate agent dashed into the bathroom.
 
 “Have something to eat while you wait on the sofa. There’s some mocha bread on the table. Gnnngh…”
 
@@ -202,7 +202,7 @@ Pfft. Pffft.
 
 “……”
 
-I’d never be able to eat mocha bread again.
+I wouldn’t be able to eat mocha bread ever again.
 
 I lamented inwardly and leaned back against the sofa. On the television, which had already been turned on, a documentary about the Great Cataclysm was playing.
 
@@ -210,11 +210,11 @@ I lamented inwardly and leaned back against the sofa. On the television, which h
 >
 > “Crash! Boom!”
 >
-> “This is an emergency bulletin. Unidentified phenomena are currently occurring across the country. In response, the government has declared martial law effective immediately…”
+> “This is an emergency bulletin. Mysterious phenomena are currently occurring across the country. In response, the government has declared martial law effective immediately…”
 
-People scattered, screaming. Buildings collapsed, flames soared, and news reports announcing the beginning of the Great Cataclysm flashed by one after another. Then the haggard face of the president of the United States filled the screen.
+People scattered while screaming, buildings collapsed, and flames shot into the sky. News reports announcing the beginning of the Great Cataclysm flashed by one after another, until the exhausted face of the American president filled the screen.
 
-> “We have yet to determine their identity, but one thing is certain: they are our enemies. Not only the enemies of the United States, but of the entire world and all humanity. Even now, countless monsters are passing through Gates and invading Earth.”
+> “We have yet to determine their identity, but one thing is certain. They are our enemies. Not merely the enemies of the United States, but the enemies of the entire world and all of humanity. Even now, countless monsters are passing through Gates and invading Earth.”
 
 Gate.
 
@@ -224,13 +224,13 @@ A Gate meant a door, quite literally. The Demon King Asmodeus had opened that do
 
 Humanity had been helpless. Downtown areas, rural villages, mountains and seas, jungles… Gates appeared regardless of time or place, and the monsters pouring through them committed murder and destruction.
 
-By the end of the hellish period known as the Bloody Week, which began when the Gates first opened, casualties had reached the tens of millions. The property damage was too vast to calculate accurately.
+When the hellish period known as the Bloody Week ended after the Gates first opened, the casualties numbered in the tens of millions, while the property damage was so immense that it could not even be calculated accurately.
 
-> The Great Cataclysm: The Most Horrific Ten Years in Human History.
+> The Great Cataclysm: The Ten Most Horrific Years in Human History.
 
 By the time the documentary reached its midpoint alongside the caption, the bathroom door flew open.
 
-“Whew. Now I feel alive.”
+“Whew. I feel alive again.”
 
 The real estate agent plopped down after wiping his sweat-slick forehead.
 
@@ -238,19 +238,19 @@ The real estate agent plopped down after wiping his sweat-slick forehead.
 
 “Yes.”
 
-“Did you stop by anywhere else before coming here? There must’ve been plenty of real estate offices along the way.”
+“Did you happen to visit somewhere else before coming here? There must’ve been plenty of real estate offices on the way.”
 
 “No, this is my first stop.”
 
 “Really?”
 
-Judging by the way his eyes rolled around, he seemed to be deciding whether or not to take me for a sucker. I pretended not to notice and held out the note I had prepared.
+Judging by the way his eyes rolled around, he seemed to be deciding whether or not to take me for a fool. I pretended not to notice and held out the note I had prepared.
 
 It had the address written on it.
 
-“I’d prefer to see a property around this address, if possible.”
+“I’d prefer to see the property at this address, if possible.”
 
-“This address… That’s in a safe zone.”
+“With this address… that’s a safe zone.”
 
 “Yes.”
 
@@ -258,13 +258,13 @@ It had the address written on it.
 
 When I nodded, the man’s eyes traveled subtly up and down.
 
-Jeans and a white T-shirt. Twenty-thousand-won sneakers bought at a market or online. No matter how you looked at me, I wasn’t dressed like a man with money.
+Jeans and a white T-shirt. A pair of 20,000-won sneakers bought at a market or online. No matter how you looked at it, I was not dressed like someone wealthy.
 
 “What do you do for a living?”
 
 “I run Gates.”
 
-“Oh, a Hunter? I thought so. You’ve done well for yourself at such a young age.”
+“Oh, a Hunter? I thought so. You’re young and already successful.”
 
 A bright smile blossomed across the man’s face. Hunters were one of the most prominent high-income professions. It was hardly unusual for young, successful Hunters to buy expensive houses and cars.
 
@@ -278,13 +278,13 @@ He asked in a much friendlier tone,
 
 Perhaps he was excited by the prospect of a sale, because the man began making calls to one person after another.
 
-He spent about five minutes hanging up and dialing again before putting away his smartphone and turning to me.
+He hung up and called again, repeating the process. About five minutes later, he put away his smartphone and turned toward me.
 
-“I found a listing that’s perfect for you, Boss. If you’re not busy, how about we go see it now?”
+“I found a listing that’s perfect for you, Boss. If you’re not busy, would you like to go take a look right now?”
 
 “Sure. Why not?”
 
-I was on vacation, so I had no reason to refuse. As I rose, the man beamed.
+Since I was on vacation, I had no reason to refuse. When I stood up, the man broke into a huge smile.
 
 * * *
 
@@ -294,11 +294,11 @@ I sat in the passenger seat of the sedan and watched the scenery pass by. Detach
 
 “It’s changed a lot…”
 
-The agent glanced sideways at me.
+The man glanced at me.
 
 “Did you used to live around here?”
 
-“When I was a kid.”
+“When I was young.”
 
 I had been in my third year of middle school—sixteen years old—so it had been exactly eleven years since then. I had been born and raised here, so in a way, this was my hometown.
 
@@ -306,9 +306,9 @@ I had been in my third year of middle school—sixteen years old—so it had bee
 
 “I see.”
 
-I already knew. Housing prices had skyrocketed as soon as news of the redevelopment broke. The jeonse deposit had risen by hundreds of millions of won, far more than we could afford, so we decided to move.
+I already knew that. As soon as news of the redevelopment spread, housing prices skyrocketed. We could not afford the jeonse deposit, which had risen by hundreds of millions of won, so we decided to move.
 
-*It wasn’t long after Dad died.*
+*It was not long after my father died.*
 
 On the night before we moved, I saw Mom crying silently.
 
@@ -316,13 +316,13 @@ It was several years later that I learned the place had been my parents’ newly
 
 “We’re here.”
 
-The agent’s voice pulled me from my thoughts. I opened the door and stepped out to find a detached house with a yard.
+The man’s voice brought me back to myself. When I opened the door and stepped outside, I saw a detached house with a yard.
 
-“This is the address you gave me, Boss. The owner happens to be out, so let’s have a quick look and be on our way.”
+“This is the address you gave me, Boss. The owner happens to be out, so let’s take a quick look around and get going.”
 
 “Ah, just a moment.”
 
-Maybe it was nostalgia. The old apartment complex had already been demolished, but the area still felt strangely familiar.
+Maybe it was because of the memories. The old apartment complex had already been demolished, but the area still felt strangely familiar.
 
 *Still… I’m glad it hasn’t changed completely.*
 
@@ -332,13 +332,13 @@ Some traces of the old scenery remained even after the redevelopment. The real e
 
 “Is that okay?”
 
-“You’re going to sign the contract, aren’t you?”
+“You’re going to sign the contract, right?”
 
 “No. I mean, yes.”
 
-I had to buy this house, no matter what.
+This house was something I had to buy, no matter what.
 
-The agent chuckled and took out a cigarette.
+The man let out a quiet laugh and took out a cigarette.
 
 “Then I should accommodate you. It won’t take long to walk around the neighborhood. I’ll stay here and smoke while I wait, so don’t worry about me.”
 
@@ -346,12 +346,14 @@ After offering him a brief word of thanks, I began walking slowly.
 
 *Is this the right way?*
 
-I passed through an alley and spotted the supermarket I’d often visited as a child.
+I passed through an alley and found the supermarket I had often visited as a child.
 
-“When Oppa was a kid, this place was his hangout. Back when he smoked like crazy in middle school, the old lady here was so old that…”
+“When I was a kid, this place was my hangout. Back when I smoked like crazy in middle school, the old lady here was so old that…”
 
 A gleaming foreign car was parked in front of the supermarket. A man and woman who had been talking together stopped when they saw me.
 
 No—the man was the one who stopped.
 
-He tilted his head, approached me, and asked, “Do you know me?”
+He tilted his head, then approached me and asked,
+
+“Do you know me?”
