@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "One minute she had acted ready to give Yeoreum her liver and gallbladder, and now she was abandoning “our Yeoreum” for a mere hundred thousand won?",
+      "defect": "The Korean idiom means acting willing to give someone anything; translating its component organs literally creates an unintended grotesque image.",
+      "id": "F01",
+      "rationale": "간이고 쓸개고 다 빼 주다 is a functional idiom for extreme willingness to give or do anything, not an actual liver-and-gallbladder image.",
+      "replacement": "One minute she had acted ready to give Yeoreum anything, and now she was abandoning “our Yeoreum” for a mere hundred thousand won?",
+      "severity": "minor",
+      "source": "lines 149–151"
+    },
+    {
+      "confidence": 0.98,
+      "current": "*She ought to be allowed to act spoiled once in a while… She grew up too soon.*",
+      "defect": "Ordinary first-person narration has been converted into direct italicized thought, unlike the explicitly thought-marked sentence that follows.",
+      "id": "F02",
+      "rationale": "This source sentence lacks the thought quotation marks used around the adjacent ‘어쩌면 나보다도 훨씬.’",
+      "replacement": "She ought to be allowed to act spoiled once in a while… She grew up too soon.",
+      "severity": "minor",
+      "source": "line 327"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“It was an impulsive accident.”\n\n“…Don’t you mean an impulsive crime?”",
+      "defect": "“Impulsive accident” is not the meaning of 우발적 사고 and weakens the wordplay contrasting her claim of an accident with Taekyung’s correction to a crime of opportunity.",
+      "id": "F03",
+      "rationale": "우발적 사고 presents the extra withdrawal as an accidental incident, while 우발적 범죄 recasts it as an opportunistic crime; the humor depends on that correction.",
+      "replacement": "“It was an accident.”\n\n“…Don’t you mean a crime of opportunity?”",
+      "severity": "minor",
+      "source": "lines 353–355"
+    },
+    {
+      "confidence": 0.94,
+      "current": "Are you going to end here?",
+      "defect": "The line omits the implied career progression, leaving an unnatural question that does not clearly support the following appeal to bonuses and promotions.",
+      "id": "F04",
+      "rationale": "너희 여기서 끝날 거야? asks whether the team members intend to remain stalled or have their careers end at their current position, as confirmed by the immediate promotion incentive.",
+      "replacement": "Are you going to let your careers end here?",
+      "severity": "minor",
+      "source": "line 395"
+    }
+  ],
+  "summary": "The chapter is broadly faithful, with four minor defects involving an idiom, thought formatting, joke logic, and an omitted career implication.",
+  "version": 1
+}
