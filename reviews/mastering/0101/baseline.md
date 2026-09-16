@@ -6,43 +6,41 @@ I was dumbfounded. Butler Kim’s appearance was unexpected, but that was nothin
 
 *Chunsoo? You?*
 
-*Did these two know each other?*
+*Were the two of them acquainted?*
 
-Come to think of it, Butler Kim and Im Chunsoo had a lot in common. They were around the same age, and both had long careers as Hunters.
+Come to think of it, Butler Kim and Im Chunsoo had a lot in common. They were around the same age, and both had been Hunters for a long time.
 
-*Now that I think about it, Butler Kim was active as a Hunter during the Great Cataclysm, too.*
+*Come to think of it, Butler Kim was active as a Hunter during the Great Cataclysm, too.*
 
 I had never heard it directly from him, but I had suspected as much. Looking back and forth between the two men, I carefully asked,
 
 “Are you two close?”
 
-Im Chunsoo’s pupils quivered.
+Im Chunsoo’s pupils trembled.
 
 * * *
 
 When Im Chunsoo first received the report on the Peace Guild, he had doubted his own eyes.
 
-There, in the photograph, was a face from his hazy memories—a face he had been certain he would never see again.
+The face in the photograph was one that remained in his hazy memories—a face he had been certain he would never see again.
 
-*Wh-who did you say this man was?*
+*Who did you say this man was?*
 
 *Peace Guild Master Kim Hwajong. He’s fifty-five years old and a B-rank Hunter.*
 
 *Kim Hwajong? A B-rank Hunter?*
 
-*Yes. Is something wrong?*
+*Yes. Is there some problem?*
 
-*No, no. He looks like someone I used to know. I mistook him for that person.*
+*No, no. He resembles someone I used to know, so I mistook him for that person.*
 
-*That figures.*
-
-Im Chunsoo let out a sigh of relief.
+That figures. Im Chunsoo let out a sigh of relief.
 
 The face did resemble him a little, but that was all. More importantly, hadn’t that man died over thirty years ago?
 
 No matter how bizarre the world had become, the dead could not come back to life.
 
-*Even if that bastard had come back to life, he wouldn’t be rotting away in a place like this. I simply mistook him for some washed-up old B-rank Hunter.*
+*Even if that bastard had come back to life, he wouldn’t be rotting away in a place like this. I simply mistook him for an old B-rank Hunter.*
 
 That day, Im Chunsoo drank a glass of soju for the first time in a long while and tried to shake off his uneasy feelings. It was an attempt to cast off the terrible memories that had clung to his ankles even after he turned fifty.
 
@@ -68,9 +66,9 @@ And then—
 
 The moment he heard the voice he could never forget, not even in his dreams, Im Chunsoo remembered.
 
-The terror of being under that man’s thumb.
+The terror of being controlled by that man.
 
-The humiliation of rolling around on the ground just to survive.
+The humiliation of rolling around on the ground to survive.
 
 *Fuck… I’m screwed.*
 
@@ -78,23 +76,23 @@ As he stood frozen like a stone, Jin Taekyung asked him,
 
 “Are you two close?”
 
-What? *Close?*
+What? Close?
 
-Im Chunsoo swallowed the torrent of curses rising from deep in his lungs and turned around.
+Im Chunsoo swallowed the stream of curses rising from the depths of his lungs and turned around.
 
-There stood the man he had believed long dead.
+A man he had believed had died long ago was standing there.
 
 “I-Instructor.”
 
 Butler Kim smiled gently. It was the smile of a demon still deeply engraved in Im Chunsoo’s mind, even after all these years.
 
-“Twenty-eighth Regiment, First Battalion, Second Company. Im Chunsoo. Yes, I recognized you the moment I saw you.”
+“Twenty-eighth Regiment, First Battalion, Second Company. Im Chunsoo. Yes, I knew the moment I saw you.”
 
-The words resonated in his very soul.
+It was the resonance of the soul.
 
-Im Chunsoo’s hunched back straightened. His heels came together at a forty-five-degree angle, and his gaze turned fifteen degrees upward toward the front.
+Im Chunsoo’s hunched back straightened. His feet snapped together at a forty-five-degree angle, and his gaze turned fifteen degrees upward toward the front.
 
-After a series of movements as fast as lightning, a thunderous shout burst out.
+After a series of movements as fast as lightning, a thunderous shout burst from his throat.
 
 “Trainee Number One! Im! Chun! Soo!”
 
@@ -102,37 +100,37 @@ The mountain shook as he bellowed out his military identification for the first 
 
 * * *
 
-When Team Leader 1 reached the top of the mountain, he found grass splattered with blood in several places and the Security Team trussed up in magical ropes.
+What Team Leader 1 found after climbing up the mountain was grass splattered with blood in several places and the Security Team bound tightly with magical ropes.
 
-*What a disgraceful sight.*
+*What a sight.*
 
-Clicking his tongue inwardly, he drew his sword and cut them loose.
+Clicking his tongue inwardly, he drew his sword and cut through the ropes.
 
-They had all shed some blood, but none of them appeared seriously injured. Jin Taekyung seemed to have shown them at least the bare minimum of consideration.
+Everyone had lost some blood, but none of them appeared to have suffered serious injuries. Jin Taekyung seemed to have shown them at least the bare minimum of consideration.
 
 *At this level, he’s either a top-tier B-rank… or an A-rank Hunter.*
 
-That was Team Leader 1’s assessment of Jin Taekyung’s strength.
+That was how strong Jin Taekyung appeared to Team Leader 1.
 
-For one man, the walk back down the mountain was sheer hell.
+For one person, the walk back down the mountain was a hellish experience.
 
-“Why did you do it? We might have been able to smooth over the surveillance, but what happened today could amount to attempted murder. Did you even consider the consequences before resorting to violence?”
+“Why did you do that? We might have been able to overlook the surveillance, but what happened today could amount to attempted murder. Did you start this after thinking about what would happen afterward?”
 
-“…I’m sorry.”
+“I’m… sorry.”
 
 At Team Leader 1’s words, the Security Team Leader hung his head.
 
-He had gone so far as to make a reckless show of force, only to have Jin Taekyung wipe the floor with them. Even if he had ten mouths, he would have had nothing to say.
+They had gone so far as to use force, only to be thoroughly trounced by Jin Taekyung. Even if he had ten mouths, he would have had nothing to say.
 
 “The Guild Master is deeply disappointed.”
 
 “Th-then?”
 
-“A written apology and a pay cut are a given. Be prepared for worse.”
+“A written report and a pay cut are a given. Prepare yourself for anything beyond that, too.”
 
 “Are you talking about resignation?”
 
-“That’s up to the Guild Master.”
+“That depends on the Guild Master.”
 
 “Team Leader, perhaps…”
 
@@ -142,9 +140,9 @@ He had gone so far as to make a reckless show of force, only to have Jin Taekyun
 
 “Whew.”
 
-Team Leader 1 let out an irritated sigh.
+It was then that Team Leader 1 let out an irritated sigh.
 
-That was when a booming shout echoed from far away.
+A booming shout echoed from far away.
 
 —Trainee Number One! Im! Chun! Soo!
 
@@ -160,11 +158,11 @@ Team Leader 1 and even the Security Team members, who had all looked ready to di
 
 Team Leader 1, who had been cleaning out his ears, opened his eyes wide.
 
-“…You heard it too?”
+“Did you hear it too?”
 
 “We heard it, too.”
 
-“We couldn’t tell whether it was the Guild Master’s voice, though… I think we heard his name.”
+“But we couldn’t really tell whether it was the Guild Master’s voice… We think we heard a name, though.”
 
 “That was a person’s name? I thought it was just someone screaming.”
 
@@ -174,21 +172,23 @@ Team Leader 1’s face hardened as he listened to the Security Team whispering a
 
 “Who just said that? What was that about giving a name and rank?”
 
-To him, Im Chunsoo was a respected Senior as well as his superior.
+To him, Im Chunsoo was a respected senior and superior.
 
-He was a peerless Hunter who had been active since the Great Cataclysm—a war hero. And they were saying he had suddenly reported his military identification?
+Im Chunsoo was an unrivaled Hunter who had been active since the Great Cataclysm and a war hero—and they were saying he had suddenly given his name and rank?
 
-Team Leader 1 had never imagined such a thing. He *couldn’t* imagine it.
+Team Leader 1 had never imagined such a thing. He couldn’t even imagine it.
 
 “Do you still have the leisure to spout this kind of nonsense? Do you think this is something people in their right minds would say?”
 
 “S-sorry.”
 
-“We must have misheard.”
+“We must have heard it wrong.”
 
-“Get a grip, all of you. Understood?”
+“Everyone, get a hold of yourselves. Understood?”
 
-Team Leader 1 had just resumed walking after delivering the warning when it happened again.
+After issuing his warning, Team Leader 1 started walking again.
+
+That was when it happened.
 
 —No, sirrrrr!
 
@@ -198,51 +198,51 @@ Team Leader 1 had just resumed walking after delivering the warning when it happ
 
 “……”
 
-It was the soul-deep roar of a private second class.
+Those were the shouts of a private second class filled with the very essence of his soul.
 
-A moment later, Team Leader 1’s tightly sealed mouth finally opened.
+It took a while before Team Leader 1’s tightly sealed mouth finally opened.
 
-“From this moment on, we run at full speed. Move!”
+“From now on, we’re running at full speed. Move.”
 
 “M-Move!”
 
 Everyone gathered there was at least a C-rank Hunter. They were superhuman beings who had already far surpassed the limits of ordinary people.
 
-They thundered downhill like runaway locomotives and reached the hiking-trail entrance in under five minutes.
+They raced forward like runaway locomotives and reached the entrance to the hiking trail in less than five minutes.
 
-“Slow as hell. You’re only getting here now?”
+“You’re slow as hell. Took you long enough?”
 
 “Guild Master!”
 
-“Keep it down. You’ll burst my eardrums.”
+“Keep your voice down. You’ll burst my eardrums.”
 
-Team Leader 1 sighed in relief when he saw Im Chunsoo looking the same as ever.
+Seeing Im Chunsoo looking the same as always, Team Leader 1 let out a sigh of relief.
 
-“I thought something might have happened…”
+“I was worried something might have happened…”
 
-“Something? Was there anything strange?”
+“Something happened? Was there anything strange?”
 
 “N-no, sir. But where did that Jin Taekyung bastard go?”
 
 “I gave him a talking-to and sent him on his way. After speaking with him, I found out he was a better fellow than I expected. Why?”
 
-“I thought he might have caused some kind of disturbance.”
+“I was wondering if he had caused some kind of disturbance.”
 
-“Oh, you mean the guy who was shouting earlier?”
+“Ah, are you talking about the man shouting earlier?”
 
-“Yes, that’s right. But the voice sounded exactly…”
+“Yes, that’s right. But his voice sounded just like…”
 
-He couldn’t bring himself to finish.
+He couldn’t bring himself to finish the sentence.
 
-*Exactly like yours, Guild Master.*
+Just like the Guild Master’s.
 
 Im Chunsoo glared at him.
 
-“Exactly like what?”
+“Just like what?”
 
 “Oh, it was nothing.”
 
-“How bland. Some greenhorns were playing army down there, so I chased them away. Do colleges still have hazing culture these days?”
+“What a bland bunch. Some greenhorns were playing army down there, so I chased them away. Do colleges still have hazing culture these days?”
 
 “Ah, I see.”
 
@@ -252,27 +252,27 @@ Team Leader 1 felt the suspicions he had been harboring vanish completely.
 
 *I must have been out of my mind. How dare I even think such a thing?*
 
-While he reflected deeply on his mistake, Im Chunsoo laid into the Security Team.
+While he was deeply repenting to himself, Im Chunsoo was tearing into the Security Team.
 
 “Security Team Leader.”
 
 “Y-yes, sir!”
 
-“Well, look at that. You certainly know how to answer. After causing this mess, are you still a Team Leader just because you’re technically still a Team Leader?”
+“Oh, you can answer properly. After causing this mess, are you still a Team Leader just because you’re technically still a Team Leader?”
 
 “I’m sorry, Guild Master!”
 
-“Are the others keeping their mouths shut because they did such a good job? Do you want me to make my sword dance today?”
+“Are the others keeping their mouths shut because they did such a good job? Do I need to make my sword dance today?”
 
 “We’re sorry, Guild Master!”
 
 Team Leader 1 watched the scene with a pleased smile.
 
-Every so often, there were people who spread the rumor that Im Chunsoo had a godawful personality. But after watching him up close, Team Leader 1 knew better. He was a charismatic superior and an outstanding Senior in life.
+Every so often, there were people who spread the rumor that Im Chunsoo had a godawful personality. But after watching him up close, Team Leader 1 knew better. He was a charismatic superior and an outstanding senior in life.
 
 *Guild Master. I’ll follow you forever.*
 
-As he gazed at Im Chunsoo’s back with boundless respect, Team Leader 1 suddenly cocked his head.
+As Team Leader 1 gazed at Im Chunsoo’s back with boundless respect, he suddenly tilted his head.
 
 *…But why is there dirt on the Guild Master’s back?*
 
@@ -282,7 +282,7 @@ He must have scolded those kids rather intensely.
 
 “We’ve arrived.”
 
-At Butler Kim’s words, sitting in the passenger seat, I came to my senses with a start and looked around. Through the window, I could see the entrance to an apartment complex.
+At Butler Kim’s words, I came to my senses with a start and looked around. Through the window, I could see the entrance to an apartment complex.
 
 *When did we get here?*
 
@@ -290,13 +290,13 @@ At Butler Kim’s words, sitting in the passenger seat, I came to my senses with
 
 “Don’t mention it.”
 
-A smile appeared on his handsomely lined face. He looked like a middle-aged actor who had once ruled an era.
+A smile appeared on his handsomely lined face. He looked like a middle-aged actor who had once ruled an entire era.
 
 *No, this man really did rule an era, too.*
 
-Until now, I had thought of him as nothing more than a Senior Hunter from a distant generation. But that meant I hadn’t understood Butler Kim at all.
+Until now, I had thought of him as nothing more than a senior Hunter from a distant generation. But that meant I hadn’t understood Butler Kim at all.
 
-*He worked an A-rank mage like a dog—and Im Chunsoo, no less.*
+*He made an A-rank mage—and Im Chunsoo, no less—run around like a dog.*
 
 He had made a former war hero do a hundred sets of PT Exercise No. 8, then later kicked him in the shin with his dress shoe. Even now, the way he had calmly berated Im Chunsoo in that gentle voice sent chills down my spine.
 
@@ -318,15 +318,15 @@ He had made a former war hero do a hundred sets of PT Exercise No. 8, then later
 
 *Gasp.*
 
-*Trainee, didn’t you hear this Instructor say on your backs? Get your head straight.*
+*Trainee, didn’t you hear me say on your backs? Get your head straight.*
 
 *I’ll correct it, sirrrr!*
 
-*And why are you bullying an innocent junior? Hasn’t this Instructor told you time and again that Seniors and juniors should help each other?*
+*And why are you bullying an innocent junior? Haven’t I repeatedly emphasized that seniors and juniors should help each other?*
 
 *S-sorry, sir.*
 
-*Repeat after me. Cherish your junior on the way down. Cherish your junior on the way up. One. Two.*
+*Repeat after me. Sitting down, cherish your junior; standing up, cherish him. One. Two.*
 
 *Cherish my junior!*
 
@@ -334,7 +334,7 @@ He had made a former war hero do a hundred sets of PT Exercise No. 8, then later
 
 *Trainee Number One Im Chunsoo. Yes, sir.*
 
-*This Instructor is Class 3. If what happened today gets out or happens again, Classes 4 through 24 will assemble without exception.*
+*I’m Class 3. If what happened today gets out or happens again, Classes 4 through 24 will assemble without exception.*
 
 *…*
 
@@ -342,19 +342,19 @@ He had made a former war hero do a hundred sets of PT Exercise No. 8, then later
 
 *P-prepare, sir…*
 
-He worked him over, and over, and over again.
+He kept working him over, then working him over some more.
 
 It was the kind of sight you couldn’t see even if you paid for it. If the Sangdong Guild members had witnessed it, the Guild might have had to close its doors that very day.
 
-*Who the hell is Butler Kim, really?*
+*What on earth is Butler Kim’s real identity?*
 
-Being Class 3 at the Hunter Training Center meant he could line up every Guild Master in the country on a parade ground and beat every last one of them with a bat.
+If someone was Class 3 at the Hunter Training Center, they could line up every Guild Master in the country on a parade ground and beat every last one of them with a bat.
 
-And he had been an Instructor, no less.
+And he had been an instructor, no less.
 
-It wouldn’t be an exaggeration to say that nearly every mage from the early days of the Great Cataclysm had passed through his hands.
+It would not be an exaggeration to say that every mage from the early days of the Great Cataclysm had passed through his hands.
 
-*He’s at least A-rank as a mage, too.*
+*His ability as a mage is at least A-rank, too.*
 
 I could tell just by watching Im Chunsoo take his punishment without daring to make a peep. Butler Kim surpassed him in both seniority and skill.
 
@@ -364,13 +364,13 @@ There was probably also an elemental advantage between ice and fire. You could s
 
 Why was someone that accomplished working as a butler?
 
-I stole a sidelong glance at Butler Kim, only for our eyes to meet.
+I was sneaking a sidelong glance at Butler Kim when our eyes met.
 
 “You seem to have a lot you want to ask.”
 
 “To be honest, I do.”
 
-My curiosity was killing me.
+I was too curious to stand it any longer.
 
 Seeing my thoughts written plainly across my face, Butler Kim curled up the corners of his mouth.
 

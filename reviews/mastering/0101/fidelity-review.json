@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "His heels came together at a forty-five-degree angle",
+      "defect": "The source describes his tightly joined feet as forming a forty-five-degree angle, not his heels coming together at an angle.",
+      "id": "F01",
+      "rationale": "바짝 붙인 발은 45도 specifies the position and angle of his feet during the military stance.",
+      "replacement": "His feet snapped together at a forty-five-degree angle",
+      "severity": "minor",
+      "source": "lines 97–99"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Repeat after me. Cherish your junior on the way down. Cherish your junior on the way up. One. Two.",
+      "defect": "The translation duplicates the complete instruction during both movements. The source splits one slogan across the exercise: say “your junior” while squatting and “cherish them” while standing.",
+      "id": "F02",
+      "rationale": "앉으면서 후배를, 일어나면서 아끼자 assigns separate halves of 후배를 아끼자 to the downward and upward movements, creating the drill’s comic call-and-response mechanism.",
+      "replacement": "Repeat after me. Say “your junior” as you squat and “cherish them” as you stand. One. Two.",
+      "severity": "minor",
+      "source": "lines 335–337"
+    }
+  ],
+  "summary": "Faithful overall, with two minor physical/action-detail defects.",
+  "version": 1
+}
