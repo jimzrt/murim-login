@@ -787,6 +787,8 @@ versions above and the Korean line numbers for source verification.
 
 {chr(10).join(hunk_parts)}
 
+Do not call tools, search the repository, or read files. The packet is complete.
+
 Return exactly the JSON object required by the adjudicator brief, with chapter set to {number} and exactly one decision for each of the {diff['hunk_count']} hunks.
 """
 
