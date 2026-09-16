@@ -6,19 +6,19 @@ The first thing Team Leader 1 saw when he entered the Guild Master’s office wa
 
 Roll, roll. Thunk.
 
-The ball had rolled far wide of the hole and only stopped after striking Team Leader 1’s shoe. As he bent down to pick it up, Im Chunsoo waved him off.
+The ball had rolled well wide of the hole and only stopped when it struck Team Leader 1’s shoe. As he bent to pick it up, Im Chunsoo waved him off.
 
 “Leave it. Come have some tea.”
 
 “Yes, sir.”
 
-A brief silence passed between them. After savoring his tea, Im Chunsoo suddenly spoke.
+They sat in silence for a moment. Im Chunsoo took a sip of tea, then spoke.
 
 “Smells good, doesn’t it?”
 
-“Ah, yes. I suppose it must be good tea.”
+“Ah, yes. It must be good tea.”
 
-“This is Longjing tea. I received it as a gift, but to be honest, I don’t really know what it is. It’s just filthy expensive.”
+“It’s called Longjing tea. Someone gave it to me, but honestly, I don’t know much about it. It’s just damn expensive.”
 
 “What?”
 
@@ -26,17 +26,17 @@ A brief silence passed between them. After savoring his tea, Im Chunsoo suddenly
 
 “I thought you liked tea.”
 
-“Not at all. I only pretend to savor it because I want to look sophisticated. At home, I drink instant coffee.”
+“Not at all. I only pretend to savor it because it makes me look sophisticated. At home, I drink instant coffee.”
 
-Team Leader 1 let out a quiet laugh. Im Chunsoo’s love of tea was famous among the Guild executives. They had even begun competing to see who could give the Guild Master the better tea.
+Team Leader 1 let out a quiet laugh. Im Chunsoo’s love of tea was famous among the Guild executives. They had even begun competing to see who could give the Guild Master the finest tea.
 
-“A few people are going to be surprised.”
+“A few people will be surprised to hear that.”
 
 “For example?”
 
 “Team Leader 3. He’s been bragging that he’ll bring back some famous tea from his upcoming business trip to China.”
 
-“Fire that bastard. He’s lost his mind thinking about gathering weeds instead of doing his job.”
+“Fire that bastard. He’s too busy thinking about gathering weeds to do his job.”
 
 “Are you serious?”
 
@@ -56,15 +56,15 @@ A light laugh passed between them. Im Chunsoo gulped down the rest of his tea as
 
 It wasn’t long before Team Leader 1 finally managed to speak.
 
-“The investigation into the Peace Guild that you ordered previously… has failed.”
+“The investigation into the Peace Guild that you ordered… has failed.”
 
 “Both of them?”
 
 “Yes. I’m sorry.”
 
-“Explain in more detail.”
+“Explain.”
 
-“They approached carefully, but they say it would be better not to provoke the Peace Guild Master or Team Leader.”
+“They approached cautiously, but they say it would be best not to provoke the Peace Guild Master or Team Leader.”
 
 “I expected as much. I should have made the request personally. In the end, I stayed out of it because of my useless pride, so some of the blame is mine.”
 
@@ -74,7 +74,7 @@ It wasn’t long before Team Leader 1 finally managed to speak.
 
 Im Chunsoo shot him a cold glare.
 
-“Why exactly did you fail? I gave you a Familiar mage hired from outside and even assigned the Guild’s Security Team to him.”
+“Why exactly did you fail? I gave you a Familiar mage hired from outside and even assigned the Guild’s Security Team to the job.”
 
 “Well, that…”
 
@@ -82,17 +82,17 @@ Team Leader 1 hesitated, then finally forced out the words he had been unable to
 
 “We lost contact.”
 
-“Hm? That bastard Hong Woojin?”
+“Hm? With that bastard Hong Woojin?”
 
 “Hong Woojin left a single text message and disappeared. It’s the Security Team we lost contact with.”
 
 “Why the Security Team? Don’t they report in regularly?”
 
-“Yes. Reports come in every two hours, but… the last one was four hours ago.”
+“Yes. They report every two hours, but… the last report came four hours ago.”
 
 “Are you saying the entire Security Team deserted?”
 
-“No. Judging by the circumstances, it’s highly likely Jin Taekyung got to them.”
+“No. Judging by the circumstances, Jin Taekyung most likely got to them.”
 
 “What?”
 
@@ -106,7 +106,7 @@ Only certain sections were printed in red, marking it as an emergency report rat
 
 Im Chunsoo’s eyes raced across the page.
 
-The target had spoken on the phone with an unidentified person, and both the contents of the conversation and the target’s actions were suspicious. After reading the report from beginning to end, Im Chunsoo let out a sigh.
+The target had spoken on the phone with an unidentified person, and both the contents of the conversation and his subsequent actions were suspicious. After reading the entire report, Im Chunsoo sighed.
 
 “Hah. He’s more interesting than I expected. What happened next?”
 
@@ -118,45 +118,45 @@ Deep in thought, Im Chunsoo tapped the table.
 
 Tap. Tap. Tap.
 
-By the time he raised his head, the high-quality wooden table had frozen solid.
+By the time he raised his head, the expensive wooden table had frozen solid.
 
 “Who did Jin Taekyung call? You must have at least gotten the man’s full name, or you wouldn’t be showing me this.”
 
-“Seong Jinho. A thirty-year-old exam candidate living in Bucheon.”
+“Seong Jinho. A thirty-year-old civil service exam candidate living in Bucheon.”
 
 “…Team Leader 1. Did I hear that wrong? An exam candidate, not a Hunter?”
 
-“I checked again myself, but there’s no mistake. He’s the manager of the goshiwon where Jin Taekyung lives. They’re supposedly like sworn brothers.”
+“I checked twice myself, but there’s no mistake. He’s the manager of the goshiwon where Jin Taekyung lives. They’re supposedly as close as sworn brothers.”
 
-“Hah. Today keeps surprising me.”
+“Hah. I’ve been surprised more than once today.”
 
-Im Chunsoo had expected him to be at least an A-rank Hunter. But what was this? A civilian exam candidate?
+Im Chunsoo had expected the man to be at least an A-rank Hunter. But he was a civilian studying for an exam?
 
 Shaking his head, Im Chunsoo rose from his seat.
 
-“Ugh, we really got played. Why does a Guild with only five people have so much to hide?”
+“Ugh, we got played good. Why does a Guild with only five people have so much to hide?”
 
 “What should we do?”
 
-“What do you mean, what should we do? It’s almost dinnertime. We should go have a meal.”
+“What do you mean? It’s almost dinnertime, so we should go get something to eat.”
 
 “…Sir?”
 
 Im Chunsoo clicked his tongue at the bewildered Team Leader 1.
 
-“Stop talking and follow me.”
+“Stop asking questions and follow me.”
 
-He was thinking of having dinner in Ilsan that evening.
+He planned to have dinner in Ilsan that evening.
 
 * * *
 
 The six-on-one fight ended in an instant.
 
-To begin with, Choi Byungil was the only one who could exchange blows with me. Even he didn’t last long before dropping to his knees.
+Choi Byungil was the only one among them capable of trading blows with me, and even he didn’t last long before dropping to his knees.
 
 *Well, obviously.*
 
-But it seemed to have been a tremendous shock to someone.
+But it seemed to have come as quite a shock to him.
 
 With both ankles broken, Choi Byungil kept talking to me, his face white as a sheet.
 
@@ -174,15 +174,15 @@ With both ankles broken, Choi Byungil kept talking to me, his face white as a sh
 
 “This can’t be. This can’t be happening.”
 
-In the end, I had no choice but to use the Mouth-Sealing Technique. I tore strips from his clothes and gagged him, then treated all the remaining wounded, including him.
+In the end, I had no choice but to use the Mouth-Sealing Technique. I tore strips from his clothes and gagged him, then treated all the wounded, including him.
 
-Of course, I didn’t use the potions I had bought from the Store.
+Of course, I didn’t use any of the potions I had bought from the Store.
 
 “Wow, Sangdong Guild really gives you guys some serious support.”
 
-Even after looting only what they had brought with them, the quality and quantity of their Equipment and consumables were nothing to sneeze at. I used some of them for treatment, and the rest…
+Just looting what they had brought yielded an impressive quantity of high-quality Equipment and consumables. I used some to treat them, and as for the rest…
 
-“I’m confiscating this for now. Anyone have a problem with that?”
+“I’m confiscating all this for now. Anyone have a problem with that?”
 
 Naturally, no one raised a hand.
 
@@ -202,13 +202,13 @@ The choice was easy.
 
 Kim Junsu, the Familiar mage, flinched before declaring with a resolute expression,
 
-“I’m with the Security Team. I cannot carelessly disclose the Guild’s confidential information to an outsider.”
+“I’m a member of the Security Team. I cannot divulge confidential Guild information to an outsider.”
 
 “Oh.”
 
 I was impressed. At the same time, I grabbed him by the hair and yanked.
 
-A small sound like tape being ripped came from somewhere, and his wig came clean off. The gleaming bald crown hidden beneath it was exposed.
+There was a faint sound like tape being ripped away, and his wig came clean off. The gleaming bald crown hidden beneath it was exposed.
 
 “What the—!”
 
@@ -224,23 +224,23 @@ Everything went smoothly after that. All kinds of information poured from the mo
 
 “Really?”
 
-What a waste. I should have caught that bastard and beaten the information out of him, too.
+What a shame. I should have caught that bastard and beaten the information out of him, too.
 
 *I’ll run into him someday. If it takes too long, I can always track him down myself.*
 
-Smacking my lips, I continued extracting information. Whenever Kim Junsu seemed to hesitate, I encouraged him by fiddling with what little hair he had left.
+Smacking my lips, I continued extracting information. Whenever Kim Junsu hesitated, I encouraged him by playing with what little hair he had left.
 
 “That’s everything. I swear, that’s all. I may be on the Security Team, but I really don’t know anything else. So please, just spare my hair…”
 
-His tone was full of both resentment and sincerity. The final words in particular struck a chord with me.
+His voice rang with both resentment and sincerity. That last plea in particular struck a chord with me.
 
 *That should about wrap things up.*
 
-The mastermind behind it was, as expected, the Sangdong Guild—or, more precisely, Im Chunsoo.
+The mastermind was the Sangdong Guild—or, more precisely, Im Chunsoo.
 
-After seeing that his spendthrift son had been shaken down for a hundred million won in income, he had immediately started digging into our Guild.
+He had seen his spendthrift son get shaken down for a hundred million won and immediately started digging into our Guild.
 
-Well, in the end, I turned the tables and robbed him instead.
+Well, in the end, I turned the tables and cleaned them out instead.
 
 “The Guild Master won’t let this go.”
 
@@ -252,49 +252,49 @@ At my sharp retort, Choi Byungil lowered his head in frustration. Still, he wasn
 
 *The Sangdong Guild Master is going to be pretty pissed when he finds out.*
 
-He had sent his subordinates to watch me, only for them to get robbed and captured instead. For the Guild Master—and the Guild as a whole—this was about as fucking humiliating as it got.
+He had sent his subordinates to watch me, only for them to get robbed and captured instead. For the Guild Master—and the entire Guild—this was about as fucking humiliating as it got.
 
 Given the seriousness of the matter, I could only hope they would quietly bury it and move on.
 
 *Should I call Team Leader Choi?*
 
-I was holding my smartphone, still deliberating, when it happened.
+I was still staring at my smartphone when it rang.
 
 010-xxxx-xxxx
 
 A call from a number I didn’t recognize.
 
-What was this?
+*What’s this?*
 
 For some reason, I felt strangely tense as I answered.
 
 “Hello?”
 
-“Come down. I’m waiting below.”
+—Come down. I’m waiting below.
 
 “Huh? I think you have the wrong number.”
 
-“Jin Taekyung. That’s you, isn’t it?”
+—Jin Taekyung. That’s you, isn’t it?
 
 “Well, yes, but… who are you?”
 
-“My name is Im Chunsoo. I heard you have a few of my people with you.”
+—My name is Im Chunsoo. I heard you have a few of my people with you.
 
 “…”
 
-“Are you listening?”
+—Are you listening?
 
 I was listening. I just couldn’t speak.
 
 The Guild Master of a mid-sized Guild had come all the way here himself to meet me. And it was Im Chunsoo, of all people—the man notorious for his temper.
 
-“Come down. We can clear up any misunderstandings over a meal.”
+—Come down. We can clear up any misunderstandings over a meal.
 
 There was no misunderstanding to clear up, but I had no idea what would happen if I said, *No.*
 
-Hadn’t the man already found out my location?
+Hadn’t he already tracked down my location?
 
-In the end, I had only one option.
+In the end, I had only one choice.
 
 “I’ll come down now.”
 
@@ -310,15 +310,15 @@ Ironically, that was my first thought upon meeting a master of ice magic.
 
 “I’m Im Chunsoo.”
 
-Unlike his burning gaze, his voice was cold. At last, he seemed like someone who deserved the nickname Frozen.
+Unlike his burning gaze, his voice was cold. Now he finally seemed like someone worthy of the epithet Frozen.
 
 “It’s strange seeing in person a face I’ve only seen in report photos.”
 
-There were actually people who could admit so bluntly and without embarrassment that they had dug into my background.
+So there really were people capable of admitting without a hint of embarrassment that they had investigated someone’s background.
 
 “What about my people?”
 
-“They’re upstairs.”
+“They’re up there.”
 
 “Any fatalities?”
 
@@ -330,7 +330,7 @@ Im Chunsoo gave me a slight nod.
 
 “My people got impatient and made a mistake. Can you let it slide?”
 
-“If there’s reasonable compensation.”
+“If there’s appropriate compensation.”
 
 Im Chunsoo gave a short laugh, while the man beside him, who looked like a Team Leader, frowned.
 
@@ -342,27 +342,27 @@ Im Chunsoo gave a short laugh, while the man beside him, who looked like a Team 
 
 The man couldn’t continue. Im Chunsoo raised a hand to stop him.
 
-“Team Leader 1, go upstairs and release my people.”
+“Team Leader 1, go up and release our people.”
 
 “…Yes, Guild Master.”
 
-If Kim Butler possessed a gentle charisma, this man possessed a rough one. Maybe it was because they were both mages. Somehow, the two men overlapped in my mind.
+If Kim Butler possessed a gentle charisma, Im Chunsoo’s was rough and forceful. Was it because they were both mages? Somehow, the two men overlapped in my mind.
 
 “Come take a walk with me.”
 
-Im Chunsoo went ahead, and I followed behind him.
+Im Chunsoo set off, and I followed.
 
 “Do you know something?”
 
-After walking briskly for a while, Im Chunsoo suddenly spoke.
+After striding along in silence for a while, Im Chunsoo suddenly spoke.
 
-“Once I have a grudge against someone, I have to see it through to the end. I don’t know about you, but that’s the kind of person I am.”
+“Once I make an enemy, I have to see it through to the end. I don’t know about you, but that’s the kind of man I am.”
 
 *Very Murim of him.*
 
-The strong devour the weak. Survival of the fittest. It seemed this man had the blood of a Murim tough guy running through his veins, too.
+The strong devoured the weak. Survival of the fittest. It seemed this man had the blood of a Murim tough guy running through his veins, too.
 
-“That’s how I built the Sangdong Guild. I climbed higher by stepping on what I had brought down and salvaging whatever I could.”
+“That’s how I built the Sangdong Guild. I trampled what I brought down, salvaged what I could, and used it to climb higher.”
 
 “I see.”
 
@@ -370,7 +370,7 @@ The strong devour the weak. Survival of the fittest. It seemed this man had the 
 
 “…What do you mean?”
 
-“The past decade has been dull. We’re allies with every nearby Guild, and we haven’t had a rival for a long time. Then you people appeared.”
+“The past decade has been dull. We’re allied with every nearby Guild, and we haven’t had a rival for years. Then you people appeared.”
 
 I looked into his eyes, where curiosity and passion seemed to boil, and had only one thought.
 
@@ -378,35 +378,35 @@ I looked into his eyes, where curiosity and passion seemed to boil, and had only
 
 Im Chunsoo continued, regardless.
 
-“Your Guild Master and Team Leader are people even I can’t easily access information on… But more than anything, your existence has stirred me up.”
+“Your Guild Master and Team Leader are people even I can’t easily access information on… But more than anything, your existence has stirred something in me.”
 
-We were climbing a hill now. Despite his considerable age, Im Chunsoo didn’t seem short of breath.
+We were climbing a hill now. Despite his age, Im Chunsoo didn’t seem remotely short of breath.
 
 “Do you know why I came all the way here?”
 
 “To see me.”
 
-“You’re only half right.”
+“You’re half right.”
 
-Im Chunsoo’s footsteps stopped. Slowly turning around, he released a frigid chill from his entire body.
+Im Chunsoo stopped. As he slowly turned, frigid air rolled from his body.
 
 > **System**
 >
 > Level 75 Im Chunsoo
 
-“At my age, time is money. I’m not so extravagant that I’d come all the way here just to see your face.”
+“At my age, time is precious. I’m not so extravagant that I’d come all this way just to see your face.”
 
-Frozen. The seasoned A-rank mage who had fought his way through the Great Cataclysm himself.
+Frozen. A seasoned A-rank mage who had fought his way through the Great Cataclysm.
 
-The moment he extended his hand toward me—
+The moment he extended a hand toward me—
 
 Hissssss.
 
-A dozen or so ice spikes formed in the empty air above my head. The midsummer air froze, and frost settled over the scorching dirt path.
+A dozen or so ice spikes formed in the empty air above my head. The midsummer air froze, and frost spread over the sun-scorched dirt path.
 
-*I’d been well and truly caught.*
+*I’d really stepped in it this time.*
 
-I had thought he was an old man with some sense of propriety. I never imagined he would launch straight into something like this.
+I had thought the old man had some sense of propriety. I never imagined he would attack me without warning.
 
 “Do you really have to go this far?”
 
@@ -416,29 +416,29 @@ I had thought he was an old man with some sense of propriety. I never imagined h
 
 “Exactly. Let’s see what that C-rank Hunter can do.”
 
-The moment he finished speaking, Im Chunsoo clenched his fist. The ice spikes, streaming with biting cold, shot toward me.
+The moment he finished speaking, Im Chunsoo clenched his fist. The ice spikes, radiating bitter cold, shot toward me.
 
 Whoosh!
 
-But they couldn’t even touch the hem of my clothes.
+But they never touched so much as the hem of my clothes.
 
-“Rise up. Fire Wall.”
+“Rise. Fire Wall.”
 
-At the sound of a clear voice, the mana permeating the air began to churn. The ground, which had been frosted over by Im Chunsoo’s magic, melted as flames surged upward.
+At the clear command, the mana permeating the air churned. The frost covering the ground melted, and flames surged upward.
 
 Fwoosh! Roar!
 
-It was a wall of fire in the most literal sense. Blue flames swallowed the ice spikes and split the space between Im Chunsoo and me.
+It was a wall of fire in the most literal sense. Blue flames swallowed the ice spikes and divided the space between Im Chunsoo and me.
 
 Beyond the wavering flames, Im Chunsoo cried out in shock.
 
 “This is…!”
 
-But I wasn’t looking at Im Chunsoo.
+But I wasn’t looking at him.
 
 A man standing behind him at the entrance to the hiking trail greeted us in a gentle voice.
 
-“I’m glad I’m not late. You too, Chunsoo.”
+“I’m glad I made it in time. You too, Chunsoo.”
 
 > **System**
 >

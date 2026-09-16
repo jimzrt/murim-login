@@ -1,0 +1,700 @@
+{
+  "chapter": 100,
+  "decisions": [
+    {
+      "decision": "BASE",
+      "hunk_id": "H001",
+      "reason": "후에야 is only-after, not simultaneous when it struck."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H002",
+      "reason": "Leave it fits 됐어 as a wave-off; dialogue is tighter."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H003",
+      "reason": "SOL turns 음미 into a sip, adds sitting, and drops 문득."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H004",
+      "reason": "인가 봅니다 is a hedge; SOL drops it."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H005",
+      "reason": "뭔지 잘 모르겠어 is not knowing what it is, not knowing much about it."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H006",
+      "reason": "싶어 is intent; SOL makes sophistication a result."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H007",
+      "reason": "더 좋은 is comparative better, not finest."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H008",
+      "reason": "SOL adds to hear that, which the source lacks."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H009",
+      "reason": "넋이 나갔 is lost his mind, not merely too busy."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H010",
+      "reason": "Are you serious? matches the full 진심이십니까 question."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H011",
+      "reason": "the rest of his tea is the more natural rendering of 남은 찻물."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H012",
+      "reason": "brought news matches 가져온 소식; spitting it out captures 우물쭈물."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H013",
+      "reason": "grim is closer to 죽상 than long face."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H014",
+      "reason": "SOL omits 일전에 / previously."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H015",
+      "reason": "SOL drops 더 자세히."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H016",
+      "reason": "좋을 is better, not superlative best."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H017",
+      "reason": "stayed out of it is more natural for 안 나선."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H018",
+      "reason": "No, sir and my own inadequacy fit the subordinate register."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H019",
+      "reason": "you should have succeeded puts the blame on the team leader as the Korean does."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H020",
+      "reason": "보안팀도 붙여 줬 assigns the team to the mage, not the job."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H021",
+      "reason": "홍우진 그놈 is a terse ID, not With that bastard."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H022",
+      "reason": "Cleft It’s the Security Team matches 연락이 끊긴 건 보안팀."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H023",
+      "reason": "report in is the natural English for periodic 상황 보고."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H024",
+      "reason": "보고가 들어오는데 is reports coming in, not they report."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H025",
+      "reason": "단체 이탈 is desertion, not walked out."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H026",
+      "reason": "확률이 높습니다 is highly likely, stronger than most likely."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H027",
+      "reason": "a printout is the natural singular for 프린트해 온 종이."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H028",
+      "reason": "붉은 글씨 is red lettering; tighter than the highlighted-fact framing."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H029",
+      "reason": "raced across the page is the natural English collocation."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H030",
+      "reason": "unidentified is tighter; subsequent is extra; 토해 냈다 is let out a sigh.",
+      "replacement": "The target had spoken on the phone with an unidentified person, and both the contents of the conversation and the target’s actions were suspicious. After reading the report from beginning to end, Im Chunsoo let out a sigh."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H031",
+      "reason": "act first is cleaner for 선 조치 without adding meaning."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H032",
+      "reason": "Deep in thought, he tapped is tighter and still matches 잠긴 채."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H033",
+      "reason": "By the time fits 들었을 때는; expensive is not 고급.",
+      "replacement": "By the time he raised his head, the high-quality wooden table had frozen solid."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H034",
+      "reason": "must have and wouldn’t be showing match 거겠지 and the report in hand."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H035",
+      "reason": "고시생 is a generic exam candidate; civil service is unsupported."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H036",
+      "reason": "English ellipsis; hear that matches questioning the information."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H037",
+      "reason": "재차 is again, not twice; like sworn brothers is closer than as close as."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H038",
+      "reason": "여러 번 is repeated surprise, weaker as more than once."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H039",
+      "reason": "Keeps the 뭐? beat; SOL flattens it into a statement."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H040",
+      "reason": "really got played keeps 아주 제대로; Why matches 뭐 이리; got played good is awkward.",
+      "replacement": "“Ugh, we really got played. Why does a Guild with only five people have so much to hide?”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H041",
+      "reason": "어쩌긴 뭘 어째 echoes what should we do; SOL drops the echo."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H042",
+      "reason": "네? from a subordinate is Sir?; uses English ellipsis."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H043",
+      "reason": "잔말 is extra talk, not specifically asking questions."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H044",
+      "reason": "먹을 생각이다 is thinking of, not a settled plan."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H045",
+      "reason": "SOL omits 애초에."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H046",
+      "reason": "Well, captures the 뭐 filler."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H047",
+      "reason": "누군가에게는 is someone; SOL names him early and weakens 커다란."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H048",
+      "reason": "kept talking, his face white is more natural for 계속해서 말을 걸었다."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H049",
+      "reason": "없을걸 is a probably/I-bet hedge, not a flat wouldn’t."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H050",
+      "reason": "Mock technique name needs capitals; SOL drops 남은 부상자.",
+      "replacement": "In the end, I had no choice but to use the Mouth-Sealing Technique. I tore strips from his clothes and gagged him, then treated all the remaining wounded, including him."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H051",
+      "reason": "any of is an intensification the Korean lacks."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H052",
+      "reason": "really carries the 빵빵하네 emphasis."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H053",
+      "reason": "질과 양 are both considerable; SOL fuses them into quantity of high-quality gear."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H054",
+      "reason": "이건 is this, not all this."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H055",
+      "reason": "cowed fits 질렸; split sentences read better; 놈들 is not men."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H056",
+      "reason": "flinched before declaring is smoother for 움찔하더니 이내."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H057",
+      "reason": "SOL drops 함부로 / carelessly."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H058",
+      "reason": "SOL drops 어디선가 and changes 작은 to faint."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H059",
+      "reason": "이게 무슨! is a broken outburst, not a full What is this?!"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H060",
+      "reason": "한 움큼씩 is each handful / every time."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H061",
+      "reason": "English ellipsis character, not Korean six-dot."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H062",
+      "reason": "went smoothly and at any cost are more natural and still faithful."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H063",
+      "reason": "specializes is more natural for 주특기."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H064",
+      "reason": "아깝다 here is a wasted missed catch, not a vague shame."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H065",
+      "reason": "싶으면 is seemed to hesitate; 얼마 남지 않은 is what little hair; 만지작 is fiddling.",
+      "replacement": "Smacking my lips, I continued extracting information. Whenever Kim Junsu seemed to hesitate, I encouraged him by fiddling with what little hair he had left."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H066",
+      "reason": "I swear / spare my hair is more natural for 진짜 끝 and 머리카락만큼은."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H067",
+      "reason": "말투 is tone; 마지막 말 is final words, not a plea."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H068",
+      "reason": "wrap things up matches 마무리 better than everything."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H069",
+      "reason": "Both omit 예상대로.",
+      "replacement": "The mastermind behind it was, as expected, the Sangdong Guild—or, more precisely, Im Chunsoo."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H070",
+      "reason": "SOL drops 수입; BASE drops 그 직후부터.",
+      "replacement": "After seeing that his spendthrift son had been shaken down for a hundred million won in income, he had immediately started digging into our Guild."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H071",
+      "reason": "역으로 is turning the tables; object is him, not them.",
+      "replacement": "Well, in the end, I turned the tables and robbed him instead."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H072",
+      "reason": "stock line fits 전용 멘트; your own shit is more natural."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H073",
+      "reason": "English ellipsis character."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H074",
+      "reason": "Still, he is cleaner than But the man."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H075",
+      "reason": "Guild as a whole and entire Guild are equal; keep BASE."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H076",
+      "reason": "BASE omits 들고 고민; SOL’s staring and rang are unsupported.",
+      "replacement": "I was holding my smartphone, still deliberating, when it happened."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H077",
+      "reason": "뭐지? is unquoted narration, not a marked thought."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H078",
+      "reason": "felt strangely tense is more natural for 묘한 긴장감 without adding emotion."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H079",
+      "reason": "내려오게 is come down; speech stays in quotes, not an em-dash line.",
+      "replacement": "“Come down. I’m waiting below.”"
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H080",
+      "reason": "맞지 after the name confirms identity; keep quoted speech.",
+      "replacement": "“Jin Taekyung. That’s you, isn’t it?”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H081",
+      "reason": "Only the phone-dash marker changes; speech stays quoted."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H082",
+      "reason": "English ellipsis character."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H083",
+      "reason": "Only the phone-dash marker changes; speech stays quoted."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H084",
+      "reason": "성질 더럽다는 is reputation, hence notorious."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H085",
+      "reason": "Only the phone-dash marker changes; speech stays quoted."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H086",
+      "reason": "no misunderstanding to clear up is tighter without loss."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H087",
+      "reason": "파악하고 온 is found out, not tracked down."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H088",
+      "reason": "option and choice are equal; keep BASE."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H089",
+      "reason": "지금 is now, not shortly."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H090",
+      "reason": "made a powerful first impression is natural English for 첫인상은 강렬했다."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H091",
+      "reason": "I’m Jin Taekyung is the natural self-introduction and pairs with Chunsoo’s reply."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H092",
+      "reason": "Fronted unlike matches the Korean; 별명 is nickname, not epithet.",
+      "replacement": "Unlike his burning gaze, his voice was cold. At last, he seemed like someone who deserved the nickname Frozen."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H093",
+      "reason": "신기 is strange/curious, not merely interesting."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H094",
+      "reason": "SOL drops 직설적으로 and changes my background to someone’s."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H095",
+      "reason": "위에 from downstairs in a building is upstairs."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H096",
+      "reason": "Clipped Any fatalities? matches Chunsoo’s terseness."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H097",
+      "reason": "질색 is hate, stronger than no desire."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H098",
+      "reason": "적당한 보상 as reasonable compensation is equal and the established collocation."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H099",
+      "reason": "피식 is a short puff of a laugh."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H100",
+      "reason": "예의가 없군 is you have no manners."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H101",
+      "reason": "분들 is plural; I can be like that matches 그런 편."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H102",
+      "reason": "임창수 is a source typo for Chunsoo; Changsoo would invent a second man."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H103",
+      "reason": "위에 가서 stays upstairs; 애들 stays my people, matching the earlier line."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H104",
+      "reason": "English ellipsis character."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H105",
+      "reason": "그는 is this man; forceful is not in 거친."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H106",
+      "reason": "Correct the 임창수 typo; 앞장섰 is went ahead, not set off.",
+      "replacement": "Im Chunsoo went ahead, and I followed behind him."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H107",
+      "reason": "거침없이 is unhindered walking; in silence is unsupported."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H108",
+      "reason": "원한 관계 is a grudge, not making an enemy."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H109",
+      "reason": "약육강식 stays gnomic present; SOL’s blood phrasing is better English.",
+      "replacement": "The strong devour the weak. Survival of the fittest. It seemed this man had the blood of a Murim tough guy running through his veins, too."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H110",
+      "reason": "밟고 is stepping on, not trampled."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H111",
+      "reason": "English ellipsis character."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H112",
+      "reason": "allies is the natural collocation; for years over-specifies 더 이상."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H113",
+      "reason": "seemed to boil is tighter without the progressive padding."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H114",
+      "reason": "regardless is exact for 그러거나 말거나; BASE adds whether I cared."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H115",
+      "reason": "나로서도 is even I; 날 자극시켰어 stirs him, not something in him.",
+      "replacement": "“Your Guild Master and Team Leader are people even I can’t easily access information on… But more than anything, your existence has stirred me up.”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H116",
+      "reason": "적지 않은 나이 is considerable age; remotely is extra."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H117",
+      "reason": "절반만 is only half."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H118",
+      "reason": "Keeps 발걸음, 전신, and 냉기 as chill rather than air."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H119",
+      "reason": "시간이 금이야 is time is money; 사치스러운 is extravagant, not indulgent.",
+      "replacement": "“At my age, time is money. I’m not so extravagant that I’d come all the way here just to see your face.”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H120",
+      "reason": "The named Frozen; SOL drops 온몸으로 / himself."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H121",
+      "reason": "his hand and a hand are equal; keep BASE."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H122",
+      "reason": "십여 is a dozen or so; 내려앉는다 is settled; 달궈진 is scorching, not sun-scorched.",
+      "replacement": "A dozen or so ice spikes formed in the empty air above my head. The midsummer air froze, and frost settled over the scorching dirt path."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H123",
+      "reason": "된통 걸렸 is thoroughly caught, not stepped in it."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H124",
+      "reason": "이런 식으로 나올 is coming out like this, not yet named as an attack."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H125",
+      "reason": "실력 좀 보자고 is Let’s see, not I want to see."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H126",
+      "reason": "시린 냉기를 뿜어내는 is emitting biting cold, not radiating bitter cold."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H127",
+      "reason": "건드리지 못했다 is could not touch, not never touched."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H128",
+      "reason": "솟구쳐라 is Rise up, not bare Rise."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H129",
+      "reason": "음성 is a voice, not a command; SOL drops 임춘수의 마법으로."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H130",
+      "reason": "화륵 and 화아악 are two different fire sounds, not a repeated Fwoosh."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H131",
+      "reason": "말 그대로 is literal, not what its name suggested; 갈랐다 is split.",
+      "replacement": "It was a wall of fire in the most literal sense. Blue flames swallowed the ice spikes and split the space between Im Chunsoo and me."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H132",
+      "reason": "이건……! is This is…!, not What is this."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H133",
+      "reason": "Source names 임춘수; him flattens that contrast."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H134",
+      "reason": "The greeting includes Chunsoo (자네도), so us is right."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H135",
+      "reason": "늦지 않아서 is not late; 자네도 is you too, without adding you’re here.",
+      "replacement": "“I’m glad I’m not late. You too, Chunsoo.”"
+    }
+  ],
+  "version": 1
+}
