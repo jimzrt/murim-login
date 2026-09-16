@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "They had never once had to humble themselves before anyone.",
+      "defect": "This generalizes the specific claim that they had never needed to ask anyone for a favor or make a pleading request.",
+      "id": "F01",
+      "rationale": "아쉬운 소리하다 specifically means making an unwelcome request or asking a favor, not broadly humbling oneself.",
+      "replacement": "They had never once had to ask anyone for a favor.",
+      "severity": "minor",
+      "source": "lines 27–29"
+    },
+    {
+      "confidence": 0.93,
+      "current": "“Lift your butt higher. You’ll break a bone.”",
+      "defect": "The warning changes the injury from a bone or joint being put out of place to a fracture.",
+      "id": "F02",
+      "rationale": "뼈 나간다 denotes a bone or joint becoming dislocated or displaced, not breaking.",
+      "replacement": "“Lift your butt higher. You’ll dislocate something.”",
+      "severity": "minor",
+      "source": "line 91"
+    }
+  ],
+  "summary": "Two minor fidelity defects involving a specific social action and an injury mechanism.",
+  "version": 1
+}
