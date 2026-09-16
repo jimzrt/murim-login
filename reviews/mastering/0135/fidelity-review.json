@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Nope. Not happening. Go away.”",
+      "defect": "“Go away” loses the source’s directional instruction to return or go back.",
+      "id": "F01",
+      "rationale": "돌아가 means “go back” or “return,” not merely “go away.”",
+      "replacement": "“Nope. Not happening. Go back.”",
+      "severity": "minor",
+      "source": "line 15"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Only then did I finally stop.",
+      "defect": "The sentence omits the specific physical detail that he stopped his hand.",
+      "id": "F02",
+      "rationale": "손을 멈췄다 explicitly identifies his hand as what he stops, preserving the immediate slapping action.",
+      "replacement": "Only then did I finally stop my hand.",
+      "severity": "minor",
+      "source": "line 29"
+    },
+    {
+      "confidence": 0.99,
+      "current": "My reputation as the Sleeping Dragon of Shanxi really does shake the heavens.",
+      "defect": "The assembled copy replaces the binding glossary rendering of 명성 with “reputation.”",
+      "id": "F03",
+      "rationale": "The exact glossary requires **Fame** for 명성.",
+      "replacement": "My Fame as the Sleeping Dragon of Shanxi really does shake the heavens.",
+      "severity": "minor",
+      "source": "line 111"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I’d like to try hitting the last gentleman.”",
+      "defect": "The translation omits the explicit “once,” weakening the setup for Cheongpung’s first-experience explanation.",
+      "id": "F04",
+      "rationale": "한번 explicitly specifies trying it once, and that quantity directly supports the following joke about never having done it before.",
+      "replacement": "“I’d like to try hitting the last gentleman once.”",
+      "severity": "minor",
+      "source": "line 379"
+    }
+  ],
+  "summary": "The chapter is highly faithful, with four minor losses involving directionality, physical detail, binding terminology, and an explicit quantity.",
+  "version": 1
+}

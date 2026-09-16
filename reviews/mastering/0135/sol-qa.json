@@ -1,0 +1,47 @@
+{
+  "chapter": 135,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.221,
+    "source_characters": 6081,
+    "source_paragraphs": 191,
+    "translation_characters": 13505,
+    "translation_paragraphs": 199
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "무림",
+        "preferred": "Murim"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "후기지수",
+        "preferred": "young prodigy / rising martial artist"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "명성",
+        "preferred": "Fame"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "홍화",
+        "romanization": "honghwa"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}

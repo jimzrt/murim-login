@@ -26,7 +26,7 @@
 
 Only then did I finally stop.
 
-The young master’s once reasonably presentable face had puffed up like a steamed bun. Instead of a rosy flush, dark blue bruises covered both cheeks.
+The young master’s once reasonably handsome face had swollen like a steamed bun. Instead of a rosy flush, dark blue bruises covered both cheeks.
 
 “Our Jintae. Did you do something wrong or not?”
 
@@ -40,7 +40,7 @@ Seeing him sob in such a miserable state, I suddenly felt a little sorry for him
 
 “Hhk! Hhrrgh!”
 
-“Then why did you ignore what I was saying? You should’ve apologized the moment I told you to. Wouldn’t that have been better? Don’t you think?”
+“Then why did you ignore me? You should’ve apologized when I first told you to. Wouldn’t that have been better? Don’t you think?”
 
 “Hhrrr.”
 
@@ -48,19 +48,19 @@ Seeing him sob in such a miserable state, I suddenly felt a little sorry for him
 
 “Hhrrgh.”
 
-I quietly watched Woo Jintae nod furiously, then spoke.
+I watched Woo Jintae nod furiously, then spoke.
 
 “But you…”
 
 “Hh?”
 
-“Why have you been answering like that this whole time? Can’t you speak like a person?”
+“Why have you been answering like that this whole time? Can’t you talk?”
 
 His sobbing stopped dead.
 
 “I-I’m sorry.”
 
-“So you can talk. You could talk all along, but you chose not to? Why were you crying? Were you trying to show how much pain and hardship you were in?”
+“So you can talk. You could talk all along, but you chose not to? Why were you crying? Were you trying to show me how much pain and suffering you were in?”
 
 “No!”
 
@@ -68,7 +68,7 @@ His sobbing stopped dead.
 
 “No. Absolutely not. Please, stop now. Hh-hhng…”
 
-“Oh? You’re crying again? You can still cry? What have you done to deserve tears? Is your life over because you’re crying? And ‘please stop’? Anyone watching would think I was the one attacking you.”
+“Oh? You’re crying again? You still have tears left? What have you done to deserve crying? Does crying mean your life is over? And ‘please stop’? Anyone listening would think I was the aggressor here.”
 
 “I’m sorry. I won’t cry.”
 
@@ -80,9 +80,9 @@ His sobbing stopped dead.
 
 “…”
 
-“Now you’re not even answering. You must feel full even without eating. Right? If you keep crunching through other people’s words like that, it must feel good…”
+“Now you’re not even answering. You must never need to eat. Right? Chewing up other people’s words like that must fill you right—”
 
-Just as I was about to continue, Woo Jintae slammed the back of his head into the floor with lightning speed.
+At that moment, Woo Jintae slammed the back of his head into the floor with lightning speed.
 
 *Thud! Flop.*
 
@@ -90,13 +90,13 @@ What a shame. I could have kept chewing him out for at least another shichen.[^1
 
 [^1]: A shichen is a traditional time unit equal to approximately two hours.
 
-As I turned away from the unconscious Woo Jintae, countless gazes came flying toward me and stuck fast.
+As I turned away from the unconscious Woo Jintae, countless gazes flew toward me and fixed themselves upon me.
 
 “The Young Bureau Head of the Seongun Escort Bureau went down that easily…”
 
 “Who the hell is that young man?”
 
-“His hands are vicious enough, but his tongue is a venomous snake all on its own.”
+“His hands are vicious enough, but that tongue of his is a venomous snake.”
 
 Murmurs of shock and fear rippled through the room.
 
@@ -110,19 +110,19 @@ There were more than a hundred guests on the first floor alone. It was hardly su
 
 *My reputation as the Sleeping Dragon of Shanxi really does shake the heavens.*
 
-I was just about to give the crowd a pleased smile and wave when someone spoke up.
+I was about to smile proudly and wave to the crowd when someone spoke up.
 
-“Are you sure? I saw the Sleeping Dragon of Shanxi at Honghwaru around this time last year, but he looks a little…”
+“Are you sure? I saw the Sleeping Dragon of Shanxi at Honghwaru around this time last year, but he looked a little…”
 
 “You don’t remember that the two of us were there together?”
 
 “Oh. Were we?”
 
-“Yes. His build and overall impression have changed quite a bit, but it’s definitely him. I can still picture that young master from the Jin Family making a scene because he wanted to bring a courtesan back to the family.”
+“Yes. His build and overall impression have changed quite a bit, but it’s definitely him. I can still picture that young master from the Jin Family making an enormous scene because he wanted to bring a courtesan home with him.”
 
 “…”
 
-*Damn. Why do people remember such useless things?*
+*Damn. Why do people remember things like that?*
 
 As I awkwardly lowered my hand, several guests who had been whispering among themselves suddenly raised theirs.
 
@@ -156,7 +156,7 @@ Four young prodigies were lined up with their heads planted on the floor, while 
 
 “You little…”
 
-I was seized by an indescribable emotion.
+An indescribable emotion seized me.
 
 At first, I’d thought he was an idiot, but he seemed to be getting smarter by the day.
 
@@ -176,7 +176,7 @@ Good grip. Good impact, too.
 
 “Everyone, on your feet.”
 
-The four young prodigies sprang to their feet the moment I spoke.
+The four young prodigies sprang up the moment I spoke.
 
 Ignoring their terrified gazes, I scanned their Level Windows again. Just as I’d thought, they were barely First Rate, if that.
 
@@ -192,7 +192,7 @@ Ignoring their terrified gazes, I scanned their Level Windows again. Just as I�
 
 “Yes, sir!”
 
-Their voices, filled with proper martial spirit, rang through the inn. I tapped the sword case against my palm and muttered,
+Their disciplined shouts rang through the inn. I tapped the sword case against my palm and muttered,
 
 “Really? Then the Five Gates of Shanxi aren’t anything special, are they?”
 
@@ -200,7 +200,7 @@ Their voices, filled with proper martial spirit, rang through the inn. I tapped 
 
 “…”
 
-Every one of their faces flushed with shame, but none of them dared to answer.
+Their faces flushed with humiliation, but not one of them dared to answer.
 
 They knew who I was now.
 
@@ -214,9 +214,9 @@ The difference in our martial prowess aside, the Five Gates of Shanxi couldn’t
 
 “…”
 
-“But then a war broke out between the Jin Family of Taiyuan and the Mount Heng Sword Sect. The Jin Family was the one that had always treated you well, but you were afraid of the retaliation that would come if Mount Heng won, so you kept watching the situation and ended up here. Right?”
+“Then war broke out between the Jin Family of Taiyuan and the Mount Heng Sword Sect. The Jin Family had always treated you well, but you were afraid of the retaliation if Mount Heng won, so you watched from the sidelines until it was over. Right?”
 
-“Th-that’s… We…”
+“Th-that’s… We don’t really…”
 
 “You’re the heirs, aren’t you? Young Sect Leaders, Lesser Family Heads, things like that. Ah, that fellow over there was the Young Bureau Head.”
 
@@ -224,11 +224,11 @@ The four of them reflexively followed my finger and shuddered.
 
 Unable to withstand the merciless barrage of slaps and trash talk, Woo Jintae had chosen to knock himself unconscious. He lay on the floor like a corpse.
 
-“Anyway, given the situation, you should’ve kept your heads down. What did you come all the way here for, acting so high and mighty? Do you think the Jin Family of Taiyuan is a joke? Do I need to tattoo ‘Sleeping Dragon of Shanxi’ on my forehead and walk around with it?”
+“Anyway, given the situation, you should’ve kept your heads down. What possessed you to come all the way here and act so high and mighty? Do you think the Jin Family of Taiyuan is a joke? Do I need to tattoo ‘Sleeping Dragon of Shanxi’ across my forehead?”
 
 “I-I’m sorry.”
 
-“Does apologizing make everything go away? Should I beat you into a bloody mess and then apologize to you?”
+“Does apologizing make everything go away? Should I beat you into a bloody mess and apologize afterward?”
 
 “Eek!”
 
@@ -240,11 +240,11 @@ There was no need for any more words. I raised the sword case.
 
 Then I asked the four trembling young prodigies lying face down before me in a chilling voice,
 
-“How many blows will it take for you to reflect? Each of you, give me a number.”
+“How many blows will it take to make you reflect on your actions? Each of you, give me a number.”
 
 “W-what?”
 
-“Give me a number. I beat that Woo Jintae so badly because he was acting too high and mighty. Since you paid up voluntarily, I’ll take that into consideration.”
+“Give me a number. Woo Jintae got beaten that badly because he was too full of himself. Since you paid up voluntarily, I’ll take that into consideration.”
 
 A heavy silence descended.
 
@@ -288,21 +288,21 @@ It must have been a rare sight for everyone packed into Honghwa Inn. The heirs o
 
 Two of them were even women.
 
-The whispers of the people surrounding us cut into my ears.
+The whispers of the crowd surrounding us reached my ears.
 
-“Is that really okay?”
+“Is that really all right?”
 
-“I know, right? Even if they are the Five Gates of Shanxi… Couldn’t this turn into another one of those big fights over Murim gratitude and grudges?”
+“I know. Even if they are the Five Gates of Shanxi… What if this leads to another major conflict over gratitude and grudges?”
 
 “Don’t be so clueless. Are you really that out of touch with what’s happening these days? Maybe things would be different if the Mount Heng Sword Sect were still standing, but now, every small and medium-sized sect in Shanxi could join forces and still might not stop the Jin Family of Taiyuan.”
 
-“It’s that bad?”
+“It’s that serious?”
 
 “They might outnumber them if they gathered everyone, but the caliber is completely different. You only have to look at the Sleeping Dragon of Shanxi over there to see that.”
 
 “That’s true. Those Five Gates heirs swaggered around like big shots, but they’re nothing before the Sleeping Dragon of Shanxi.”
 
-“If you think about it, they were the ones who picked the fight first.”
+“And if you think about it, they were the ones who picked the fight.”
 
 “That’s true, too.”
 
@@ -310,21 +310,21 @@ The whispers of the people surrounding us cut into my ears.
 
 “Rotten?”
 
-“They call themselves an orthodox faction, but they’re really just sucking the marrow out of ordinary people without anyone noticing. Just look at the Seongun Escort Bureau. How many complaints have merchants made about them?”
+“They call themselves part of the orthodox faction, but behind the scenes, they suck ordinary people dry. Just look at the Seongun Escort Bureau. Do you know how many complaints merchants have about them?”
 
 “Were all those rumors true?”
 
-“What about the Jin Family of Taiyuan? When famine struck ten years ago, they released relief grain. Long before that, they even held off the Demonic Cult. Those bastards were vicious murderous fiends who went around killing ordinary people like us. If not for the Jin Family of Taiyuan…”
+“What about the Jin Family of Taiyuan? When famine struck ten years ago, they distributed relief grain. Long before that, they even held off the Demonic Cult. Those bastards were murderous fiends who slaughtered ordinary people like us. If not for the Jin Family of Taiyuan…”
 
 “Ugh. I don’t even want to think about it.”
 
 “That’s right. I also heard it was the Jin Family of Taiyuan that drove off the mounted bandits who crossed over from Gaoyuan this time.”
 
-“Is there anyone who hasn’t heard that rumor yet? They say the Heaven Shaking Sword and the Sleeping Dragon of Shanxi slaughtered every last one of them.”
+“Is there anyone who hasn’t heard that story? They say the Heaven Shaking Sword and the Sleeping Dragon of Shanxi slaughtered every last one of them.”
 
 “My goodness.”
 
-“So even if another war breaks out, what’s there to worry about? I swear, if the Five Gates of Shanxi try to make an issue of this, I’ll join the Jin Family of Taiyuan immediately and fight!”
+“So even if another war breaks out, what is there to worry about? I swear, if the Five Gates of Shanxi make an issue of this, I’ll join the Jin Family of Taiyuan myself and fight!”
 
 “Oh!”
 
@@ -336,13 +336,14 @@ After turning three of the four young prodigies into grubs, I turned toward the 
 
 The speaker had defended the Jin Family of Taiyuan so passionately that, by the time he finished, I wanted to buy him a drink myself.
 
-*In terms of mindset, he’s already one of our Jin Family.*
+*With that attitude, he’s already one of us.*
 
 If his Level were high enough, he’d be my first recruitment pick. Smiling with satisfaction, I checked the great orator’s Level Window.
 
 > **System**
 >
-> **Level 15: Jang Childeuk**
+> **Level:** 15  
+> **Name:** Jang Childeuk
 
 “…What the fuck?”
 
@@ -352,7 +353,7 @@ Looking again, I realized I definitely recognized him.
 
 He was the servant who had faithfully brought us meals while I was receiving one-on-one intensive training from Jin Mukyung.
 
-That Jang Childeuk was the great orator’s true identity.
+That Jang Childeuk was the great orator.
 
 *Holy shit. Goose bumps.*
 
@@ -364,23 +365,23 @@ I was trembling as though I’d uncovered some enormous political conspiracy whe
 
 “Um…”
 
-It was Cheongpung, the one person I had momentarily forgotten. He spoke up, his eyes clear.
+It was Cheongpung, the one person I had momentarily forgotten. He looked at me with clear eyes.
 
 “There’s still one person left.”
 
 “Ah.”
 
-The last man lying face down flinched. Cheongpung seemed innocent in his own way, but he was also strangely frightening.
+The last man lying face down flinched. Cheongpung seemed innocent, but he was also surprisingly terrifying.
 
-Not that I had any intention of going easy on him just because he was last.
+Not that I had any intention of going easy on the last one.
 
 “I was just about to hit him.”
 
 I was about to swing the sword case when Cheongpung spoke again.
 
-“Excuse me. May I ask you one difficult favor?”
+“Excuse me. May I ask a difficult favor?”
 
-“We’re out of candied hawthorn skewers[^2] now.”
+“We’re out of candied hawthorn skewers[^2].”
 
 [^2]: Candied hawthorn skewers are a traditional snack of fruit skewers coated in hardened sugar.
 
@@ -396,4 +397,4 @@ Cheongpung hesitated, then quietly pointed at the sword case.
 
 “…”
 
-I had seen every kind of nutcase in my life, but this was my first time seeing a first-experience villain.
+I’d met all kinds of lunatics in my life, but this was my first encounter with one obsessed with first experiences.
