@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.95,
+      "current": "If you thought Cheonbaek would have wanted this…",
+      "defect": "The past-tense condition incorrectly frames Cheol Mubaek's belief as something he held previously. He is challenging Lee Seowol's present belief about what Cheonbaek would want.",
+      "id": "F02",
+      "rationale": "생각했다면 is part of a present conditional rebuke in the ongoing exchange, not a reference to a superseded past opinion.",
+      "replacement": "If you think Cheonbaek would have wanted this…",
+      "severity": "minor",
+      "source": "Line 327"
+    }
+  ],
+  "summary": "The chapter is highly faithful overall, with two minor semantic issues.",
+  "version": 1
+}

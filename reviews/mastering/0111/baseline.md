@@ -2,7 +2,7 @@
 
 *Thudthudthudthud!*
 
-Four fine horses thundered down the main road. Exhausted from too little rest, they were already gasping for breath, but we couldn’t afford to ease the reins.
+Four fine horses raced down the main road. Exhausted from their lack of rest, the horses were already gasping for breath, but there was no way we could loosen the reins.
 
 > **System**
 >
@@ -10,7 +10,7 @@ Four fine horses thundered down the main road. Exhausted from too little rest, t
 
 31, 30. The time kept ticking down.
 
-Three *shichen*—a full six hours—had already passed. We had stopped at a small village along the way to look for fresh horses, but all they had were small, painfully slow packhorses.
+Three *sijin*—six hours—had already passed. We had tried to stop at a small village along the way and find fresh horses, but all they had were small, painfully slow packhorses.
 
 *We really do need to rest.*
 
@@ -18,7 +18,7 @@ We were trapped between a rock and a hard place.
 
 We had been forcing our march as hard as we could, but the time limit was dangerously close. If we kept running like this, the horses wouldn’t hold out.
 
-*Do we have a choice?*
+*Can’t be helped.*
 
 I was just about to suggest to Wolhwa and Jin Mukyung that we rest, even if only briefly, when—
 
@@ -36,7 +36,7 @@ The men had surrounded what appeared to be ordinary civilians and were threateni
 
 The mounted bandits spotted me riding well out in front and grinned, baring their yellow teeth.
 
-“Well, look at that. Our next customer’s here already. Stop!”
+“Well, look at that. Our next customers have already arrived. Stop!”
 
 “Oh, sure.”
 
@@ -48,7 +48,7 @@ They told me to stop, so I had to stop. What else could I do?
 
 “Argh!”
 
-My horse didn’t come to a halt until it had trampled the two or so men blocking the road. The mounted bandits—and even the travelers they had captured—stared at me wide-eyed.
+The fine horse I was riding didn’t come to a stop until it had trampled the two men blocking the road. The mounted bandits—and even the travelers they had been holding captive—stared at me with their eyes wide.
 
 “You—you bastard!”
 
@@ -56,25 +56,25 @@ I hopped down from the saddle and asked,
 
 “I’m asking just to make sure. You’re the Red Wind Band, right?”
 
-“Who the hell are you?”
+“What the hell are you?”
 
 “Judging by your reaction, I guess I was right. I’m short on time, so let’s finish this quickly.”
 
-Without hesitation, I kicked the nearest man in the leg.
+Without hesitation, I kicked the leg of the nearest man.
 
 *Crack.*
 
-With a chilling sound, his shinbone snapped, and he crumpled to the ground.
+With a chilling sound, his shinbone snapped, and he collapsed.
 
-It all happened in an instant. The others stood stunned for a moment, then hastily leveled their curved sabers and spears at me.
+It all happened in an instant. The men who had been momentarily stunned quickly thrust curved sabers and spears at me.
 
 “Kill him!”
 
-“A man should always watch his back.”
+“A man should always watch his rear.”
 
 “What?”
 
-“I said, watch behind you.”
+“Be careful behind you.”
 
 The instant I finished speaking, ten pairs of eyes turned to look behind them.
 
@@ -94,7 +94,7 @@ The battle was over before it had even begun. The men struck by the horses had b
 
 While Jin Mukyung methodically broke the limbs of the surviving bandits, Hyuk Mujin brought over the horses tied up beside the road.
 
-“It looks like we can switch to these healthy ones. There must be at least ten of them, so we might as well take them all and change horses whenever one gets tired.”
+“It looks like we can switch to these healthy ones. There must be at least ten of them, so we could take them all and switch whenever they get tired.”
 
 I had been thinking the same thing. Unlike the last group we encountered, these mounted bandits each had their own horses. It was fortunate.
 
@@ -112,7 +112,7 @@ They were ambush forces carrying out an operation. The Red Wind Band Leader was 
 
 I could easily understand why Wolhwa had described the Red Wind Band Leader as such a terrifying man.
 
-*The judgment to retreat swiftly when the tide turned against him. The meticulousness to prepare his next plan even while retreating. And the drive to put that plan into action.*
+*The judgment to retreat swiftly when the battle turned against him. The meticulousness to prepare his next plan even in the middle of it all. And the drive to carry that plan out.*
 
 On top of that, I had heard that his own martial arts were formidable.
 
@@ -120,11 +120,13 @@ At this point, I almost felt bad for treating him as nothing more than a mounted
 
 *This has gotten seriously messy.*
 
-Now I understood why the Quest Grade had risen to Peak. Things kept getting worse the more I learned.
+Now I understood why the Quest Grade had risen to Peak. And when I thought about it, things seemed to be getting worse by the minute.
 
-Surely the Red Wind Band Leader wasn’t a Peak master too… right?
+It couldn’t be that the Red Wind Band Leader was a Peak master too, could it?
 
-I asked Wolhwa just in case, and she immediately nodded.
+I asked Wolhwa just in case.
+
+She immediately nodded.
 
 “Yes. He is.”
 
@@ -140,7 +142,7 @@ I was dumbfounded.
 
 “Supreme Peak masters? Among mountain bandits and water bandits?”
 
-“If you ever meet the Green Forest Alliance Leader or the Alliance Leader of the Yangtze River Channel League, ask them yourself. Not that you ever will.”
+“When you meet the Green Forest Alliance Leader or the Alliance Leader of the Yangtze River Channel League, ask them yourself. Not that you ever will.”
 
 “…I sincerely hope that’s true.”
 
@@ -166,9 +168,9 @@ Deep within the inner grounds of the Mount Heng Sword Sect stood a garden that o
 
 Lee Seowol walked through the snow-covered garden, her footsteps crunching softly. Then she suddenly stopped when she spotted a frost-covered flower.
 
-“Mother loved this flower.”
+“This was one of Mother’s favorite flowers.”
 
-“Did she?”
+“Was it?”
 
 “Yes. Whenever she tended the garden, she would always bring me here and tell me the names of the flowers.”
 
@@ -234,13 +236,13 @@ It had been a conversation between father and daughter, held late one night with
 
 Her fears soon became reality.
 
-Had even a fortnight passed before Lee Seogeun returned as a cold corpse? Not long after, she lost Lee Cheonbaek. In the end, even her eldest brother, Lee Seogwang, was gone.
+Had even a fortnight passed before Lee Seogeun returned as a cold corpse? Not long after, she lost Lee Cheonbaek, and in the end, even her eldest older brother, Lee Seogwang.
 
 *Now I’m alone.*
 
 And so, the Blood Wolf Sword Lee Cheonbaek’s last surviving blood relative became the new Sect Leader.
 
-As she silently gazed at the burial mounds, a warm palm gently caressed her shoulder.
+A warm palm gently caressed Lee Seowol’s shoulder.
 
 “I’m sorry. I should have come sooner…”
 
@@ -258,11 +260,11 @@ They had already clashed once, and Pung Yang had retreated with a minor internal
 
 *But an opportunity like that will never come again.*
 
-The Mount Heng Sword Sect had always gathered information on the mounted bandits of northern Gaoyuan and remained constantly on alert.
+The Mount Heng Sword Sect had always gathered information on the mounted bandits of the northern plateau and remained constantly on alert.
 
-There were dozens of mounted-bandit groups in Gaoyuan, but among them, the Red Wind Band led by Pung Yang had grown frighteningly fast.
+There were dozens of mounted-bandit groups on the plateau, but among them, the Red Wind Band led by Pung Yang had grown frighteningly fast.
 
-A man particularly strong and meticulous even among Gaoyuan’s chieftains.
+A man particularly strong and meticulous even among the plateau’s chieftains.
 
 That man was Pung Yang.
 
@@ -280,7 +282,7 @@ A deep furrow formed between Cheol Mubaek’s brows.
 
 “Demonic, heterodox arts…”
 
-Ever since the Great Faction War, practicing demonic, heterodox arts had become synonymous with death in the Central Plains. Unorthodox factions might present themselves as orthodox, but no one openly declared themselves unorthodox.
+After the Great Faction War, belonging to the evil and heretical paths was tantamount to death in the Central Plains. Unorthodox factions might present themselves as orthodox, but no one openly proclaimed themselves unorthodox.
 
 “For now, it’s only a suspicion. We’ll know if we clash again.”
 
@@ -348,9 +350,9 @@ Watching Lee Seowol smile faintly, Cheol Mubaek could only continue to sigh deep
 
 “Reinforcements? From the Jin Family of Taiyuan?”
 
-“A messenger pigeon from the Lower District Sect’s Jeongyang Branch arrived two *shichen* ago.”
+“A messenger pigeon sent by the Lower District Sect’s Jeongyang Branch arrived four hours ago.”
 
-“How many are coming? A hundred? Two hundred?”
+“How many are there? One hundred? Two hundred?”
 
 “Four. One of them is the Heaven Shaking Sword, Jin Mukyung, and another is…”
 
