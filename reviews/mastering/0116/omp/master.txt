@@ -66,7 +66,7 @@ The System answered my question.
 >
 > **Failure:** ???
 
-A Supreme Peak-grade Quest, no less.
+A Supreme Peak-grade Quest.
 
 I quickly skimmed the details and understood why that bastard had grown so strong.
 
@@ -74,13 +74,13 @@ I quickly skimmed the details and understood why that bastard had grown so stron
 
 I gaped at Pung Yang.
 
-He looked completely different from before. His eyes had turned completely bloodred. Veins bulged beneath the skin exposed below his sleeves, and his muscles looked ready to burst. On top of that, the sheer force radiating from him made it frightening to even approach.
+He looked completely different. His eyes were blood-red, veins bulged beneath the skin exposed below his sleeves, and his muscles looked ready to burst. On top of that, the sheer force radiating from him made it frightening to even approach.
 
 *There’s no mistaking it.*
 
 No, fuck…
 
-A fucking Peak master, cheating by doping?
+A fucking Peak master, cheating with performance-enhancing drugs?
 
 * * *
 
@@ -90,35 +90,35 @@ Pung Yang let out a low laugh.
 
 Power and vitality surged through his entire body. His head burned hotter than ever, and everything in sight seemed weak and insignificant.
 
-The internal energy boiling in his dantian only added to the sensation.
+Then there was the internal energy boiling in his dantian.
 
 *So this is the power of the Temporary Strength Pill.*
 
-It was an unknown red pill capable of drawing out twice the strength a person currently possessed—no, even more than that—for a limited time. Pung Yang himself didn’t know who had made it or how.
+It was a mysterious pill capable of drawing out twice the strength a person currently possessed—no, even more than that—for a limited time. Pung Yang himself knew neither who had made it nor how.
 
 It was, quite literally, a fortuitous encounter bestowed by the heavens.
 
 *The Crimson Blood Twelve Swords. The Crimson Blood Cultivation Technique. And a wooden case containing five Temporary Strength Pills.*
 
-There were countless tombs hidden across the vast Gaoyuan. In one of them, Pung Yang had discovered a Peak-level martial arts manual and the Temporary Strength Pills, all left behind by some unknown person. The moment he found them, he knew he had stumbled upon a fortuitous encounter.
+There were countless tombs hidden across the vast plateau. In one of them, Pung Yang had discovered a Peak-level martial arts manual and the Temporary Strength Pills, all left behind by some unknown person. The moment he found them, he knew he had stumbled upon a fortuitous encounter.
 
 He also knew such treasures could not be shared with anyone.
 
-*Even if I went back to that time ten times, I would have made the same choice.*
+*Even if I went back to that day ten times, I would make the same choice every time.*
 
 After killing his subordinates and claiming the fortuitous encounter for himself, Pung Yang began training in a hidden refuge no one ever visited. In only two years, he reached the Peak realm.
 
-The absurd speed of his growth and the killing intent that surged from him at unpredictable moments made him realize he had learned demonic, heterodox arts.
+His absurd rate of growth and the killing intent that surged from him without warning made him realize he had learned demonic, heterodox arts.
 
 But he didn’t care.
 
 *This is the Murim!*
 
-In a world where strength was the law, arguing over whether something was orthodox, heterodox, or demonic was laughable. After returning to Gaoyuan, Pung Yang quickly began to distinguish himself.
+In a world where strength was the law, arguing over whether something was orthodox, heterodox, or demonic was laughable. After returning to the plateau, Pung Yang quickly distinguished himself.
 
-His intelligence was far beyond that of the other mounted bandits, and his martial arts were exceptional.
+He possessed an intelligence far beyond that of the other mounted bandits and exceptional martial arts.
 
-By using violence and rewards in just the right measure, he quickly bent his subordinates to his will. Of course, he had faced crises as well.
+By doling out violence and rewards in just the right measure, he quickly bent his subordinates to his will. Of course, he had faced his share of crises.
 
 But Pung Yang possessed a wondrous treasure he had never shown anyone.
 
@@ -126,13 +126,13 @@ But Pung Yang possessed a wondrous treasure he had never shown anyone.
 
 One against a hundred? It went far beyond that.
 
-After taking a Temporary Strength Pill, he became an invincible master whom no one in Gaoyuan could withstand.
+After taking a Temporary Strength Pill, he became an invincible master whom no one on the plateau could withstand.
 
 Two major mounted-bandit groups that had tried to eliminate their new rival were wiped out overnight. It was only natural that Pung Yang’s Red Wind Band took their place.
 
 *But that was as far as I could go.*
 
-Demonic, heterodox arts could be learned quickly through shortcuts, but they lacked depth. Just as Pung Yang was trying to make up for that weakness with orthodox martial arts, two places caught his eye: the Jin Family of Taiyuan and the Mount Heng Sword Sect.
+Demonic, heterodox arts could be mastered quickly through shortcuts, but they lacked depth. Just as Pung Yang began looking to compensate for that weakness with orthodox martial arts, two targets caught his eye: the Jin Family of Taiyuan and the Mount Heng Sword Sect.
 
 A battle between a dragon and a tiger.
 
@@ -144,7 +144,7 @@ But things had gone awry and led him here.
 
 *I should have used a Temporary Strength Pill when I first attacked the Mount Heng Sword Sect.*
 
-He could attack the Mount Heng Sword Sect again and force it to submit whenever he wanted.
+He could always attack the Mount Heng Sword Sect again and force it to submit.
 
 But he could never obtain another Temporary Strength Pill.
 
@@ -158,7 +158,7 @@ Jin Mukyung pressed an acupoint on his shoulder to staunch the bleeding, then sp
 
 “A Great Hero? If I kill the Heaven Shaking Sword and the Sleeping Dragon of Shanxi today, I might at least become a demon lord. Wahaha!”
 
-“You? A demon lord? Don’t make me laugh. And you don’t have to worry about that happening.”
+“You? A demon lord? Don’t make me laugh. And that’s never going to happen.”
 
 “I broke all four of Cheol Mubaek’s limbs. The way you talk is beyond saving, so I’ll have to cut off two of yours.”
 
@@ -178,7 +178,7 @@ Sword Energy rained down, slicing through everything around them. Horrible screa
 
 They were only the screams of mounted bandits who had failed to evade the attacks and gotten caught in them. The man whose voice Jin Mukyung wanted to hear was effortlessly avoiding his sword.
 
-“As expected of the Heaven Shaking Sword. The edge of your sword is fairly sharp.”
+“As expected of the Heaven Shaking Sword. You’ve got quite the edge.”
 
 Jin Mukyung slashed toward Pung Yang’s waist with lightning speed.
 
@@ -186,7 +186,7 @@ Clang!
 
 Jin Mukyung’s Sword Energy-wreathed blade collided with Pung Yang’s curved saber, unleashing a thunderous boom.
 
-“It’s disgusting hearing that from someone who got stronger through dark arts.”
+“It pisses me off hearing that from someone who got stronger through dark arts.”
 
 “What matters is that I got stronger. How many moves do you think that supposedly incredible Tiger of Mount Heng lasted against me?”
 
@@ -196,17 +196,17 @@ Whoosh!
 
 This time, the attack came for his face. The barrage of strikes that had poured toward his arms, chest, stomach, side, and legs suddenly shot straight upward.
 
-Pung Yang hurriedly pulled his head back. The blade skimmed past his cheek by the narrowest margin.
+Pung Yang hurriedly jerked his head back. The blade skimmed past his cheek by the narrowest margin.
 
 Sizzle.
 
-But he couldn’t avoid even the sharp pressure of the wind. Blood dripped from the cheek the wind had raked.
+But he couldn’t avoid the sharp wind pressure. Blood dripped from the cheek it had raked.
 
 Pung Yang retreated without a word, checked the wound, and ground his teeth.
 
 “…You little brat.”
 
-Jin Mukyung spoke calmly despite the killing intent in Pung Yang’s voice.
+Jin Mukyung remained calm despite the killing intent in Pung Yang’s voice.
 
 “So?”
 
@@ -214,25 +214,25 @@ Jin Mukyung spoke calmly despite the killing intent in Pung Yang’s voice.
 
 “So how many moves did Sir Cheol last against you?”
 
-Pung Yang glared at Jin Mukyung before answering.
+Pung Yang stared hard at Jin Mukyung before answering.
 
 “A hundred moves.”
 
 “What about me?”
 
-“Two hundred moves. I’ll finish you before then.”
+“Two hundred. I’ll finish you before then.”
 
 “Are you even capable of that?”
 
-“Before cutting off your limbs, I should pull out your tongue first. Listening to you has been pissing me off for a while now.”
+“Before I cut off your limbs, I should rip out your tongue. Listening to you has been pissing me off for a while now.”
 
-“Be grateful you didn’t have to fight my younger brother. If he were your opponent, you’d have already plugged your ears and killed yourself. He’s mastered the art of making fun of people.”
+“Be grateful you didn’t have to fight my younger brother. If he were your opponent, you’d have plugged your ears and killed yourself by now. He’s mastered the art of pissing people off.”
 
-“The Sleeping Dragon of Shanxi? Then I suppose I should pull his tongue out too.”
+“The Sleeping Dragon of Shanxi? Then I suppose I should rip out his tongue too.”
 
 “…That actually sounds kind of appealing.”
 
-“Enough nonsense. Raise your sword. That way, you can struggle for even a moment longer before you die.”
+“Enough nonsense. Raise your sword. That way, you can struggle a moment longer before you die.”
 
 The instant Pung Yang’s red eyes gleamed eerily, immense internal energy surged from his lowered saber.
 
@@ -240,7 +240,7 @@ Fwoooosh!
 
 When internal energy was infused into a medium and given tangible form, it was called Sword Energy.
 
-But after taking the Temporary Strength Pill, Pung Yang had now surpassed that realm.
+But after taking the Temporary Strength Pill, Pung Yang had surpassed that realm.
 
 “Sword Force…”
 
@@ -258,9 +258,9 @@ How many years would Pung Yang have needed to reach that realm through training 
 
 But one tiny red pill had allowed him to leap over all those years—the contemplation of martial principles, the endless training, the blood and sweat.
 
-It had let him surpass all of it.
+It had allowed him to bypass all of it.
 
-“What kind of son of a bitch made something like that…”
+“What kind of son of a bitch made something like that…?”
 
 Tsssss.
 
@@ -274,7 +274,7 @@ Fwoooosh!
 
 As he watched the Sword Force plunge down as though to split heaven and earth, Jin Mukyung suddenly thought he was beginning to resemble his insolent youngest brother.
 
-*But what is that guy doing, taking so long to get here?*
+*But what the hell is he doing? Why isn’t he here yet?*
 
 KABOOOOM!
 
@@ -282,15 +282,15 @@ KABOOOOM!
 
 Rumble, rumble, rumble.
 
-The ground shook as though an earthquake had struck.
+The ground shook as if an earthquake had struck.
 
-I had no idea what kind of battle was taking place thirty jang away, but I knew one thing.
+I had no idea what kind of battle was raging thirty *jang* away, but I knew one thing.
 
 *I can’t go over there.*
 
 I wasn’t joking. If I got caught up in that fight, I’d probably die.
 
-I had no desire to personally experience what happened when a First Rate got its back broken between Peak masters. And more importantly…
+I had no desire to find out firsthand what happened when a First Rate got caught between Peak masters. And more importantly…
 
 Whoosh! Slice!
 
@@ -298,13 +298,13 @@ Whoosh! Slice!
 
 I had more than enough on my hands here.
 
-At this point, I might not be able to take on a hundred men, but I had to be good for at least seventy.
+I might not be able to take on a hundred men, but I had to be good for at least seventy.
 
-I swung my weapon like a madman, drenched in the blood pouring down around me.
+Drenched in the blood spraying around me, I swung my weapon like a madman.
 
 Shwaaak!
 
-I caught the cavalry spear thrusting toward my side and pulled it toward me. I drove it into the stomach of the man bringing his saber down behind me, then chopped through the shaft with the edge of my hand.
+I caught the cavalry spear thrusting toward my side and yanked it forward. I drove it into the stomach of the man bringing his saber down behind me, then chopped through the shaft with the edge of my hand.
 
 Crack!
 
@@ -322,11 +322,11 @@ I could read the daggers thrusting toward me from three directions without even 
 
 How could every last one of them be so slow and predictable?
 
-I was also genuinely amazed by myself. In that brief moment, I could think of a response and put it into action.
+What surprised me more was myself. In that split second, I could decide how to respond and put it into action.
 
 Tap. Crack!
 
-I put my weapon into my Inventory, freeing my hands. As I simultaneously caught the wrists of the men stabbing toward my throat and side and broke them, I kicked backward with my leg fully extended.
+I returned my weapon to the Inventory, freeing my hands. I caught the wrists of the men stabbing at my throat and side and broke them simultaneously, then kicked straight backward.
 
 Their short screams and the dull impact told me I had struck exactly where I intended.
 
@@ -334,15 +334,15 @@ Their short screams and the dull impact told me I had struck exactly where I int
 
 My hands moved faster and faster, while the sounds around me grew more distant.
 
-Every time I brushed against the bodies of the enemies surrounding me, weapons summoned from my Inventory appeared and vanished.
+Each time I brushed past one of the enemies surrounding me, a weapon summoned from my Inventory appeared and vanished.
 
 Stab. Slash. Swing.
 
-Broke.
+Crush.
 
 How many had I brought down?
 
-At some point, the noise that had been pushed far away came rushing back all at once.
+Then, at some point, all the noise that had receded into the distance came rushing back at once.
 
 Thud.
 
@@ -350,13 +350,13 @@ Thud.
 
 “Urgh.”
 
-The dead lay motionless with their faces buried in the cold dirt. The survivors rolled around, groaning. The twenty or so mounted bandits who had escaped death and injury backed away from me.
+The dead lay motionless with their faces buried in the cold dirt. The survivors rolled around, groaning. The twenty or so mounted bandits who remained unhurt backed away from me.
 
 “T-the Sleeping Dragon of Shanxi…”
 
 One step. Two steps.
 
-Terrified, they retreated as I advanced, forgetting that furious enemies were still behind them.
+Terrified, they retreated each time I advanced, forgetting the furious enemies still behind them.
 
 Shraaaaak! Thud!
 
