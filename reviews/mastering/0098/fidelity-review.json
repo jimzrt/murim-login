@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "For my little sister, she certainly had a talent for screwing people over with a smile.",
+      "defect": "The phrasing treats her skill as remarkable for someone young, while the source is concessive about her being the narrator’s own sister.",
+      "id": "F01",
+      "rationale": "“내 동생이지만” means “she may be my sister, but,” foregrounding their sibling relationship rather than her age or status.",
+      "replacement": "She may have been my little sister, but she certainly had a talent for screwing people over with a smile.",
+      "severity": "minor",
+      "source": "line 217"
+    }
+  ],
+  "summary": "The chapter is faithful overall, with one minor relationship nuance altered.",
+  "version": 1
+}
