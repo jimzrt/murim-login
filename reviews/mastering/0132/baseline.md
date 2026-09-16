@@ -2,6 +2,8 @@
 
 “If it wouldn’t be too much trouble, may I have just one candied hawthorn skewer?[^1]”
 
+[^1]: Candied hawthorn skewers are a traditional Chinese snack made by coating skewered fruit in hardened sugar.
+
 The unexpected comment caused my brain to freeze for a moment.
 
 *What the hell is he talking about?*
@@ -20,15 +22,15 @@ Now he was even tugging at my pity with his stomach clock. Without thinking, I h
 
 Talk about value for money. Ten seconds after meeting him, I had become a Peak master’s Benefactor.
 
-Hyuk Mujin and I stared blankly at Cheongpung as he ferociously bit and sucked on a sugary snack meant for children.
+Hyuk Mujin and I stared blankly at Cheongpung as he ferociously bit and sucked on the candy-coated snack children usually ate.
 
 “Captain, do you know him?”
 
 “No.”
 
-Cheongpung devoured the candied hawthorn skewer as though it had vanished in the blink of an eye. Apparently, it hadn’t been enough, because he turned the eyes of a starving beast on Hyuk Mujin.
+Cheongpung devoured the candied hawthorn skewer as though it had vanished in the blink of an eye. Apparently, it hadn’t been enough, because he turned toward Hyuk Mujin with the eyes of a starving beast.
 
-More precisely, on the two candied hawthorn skewers in Mujin’s hands.
+More precisely, he stared at the two candied hawthorn skewers in Mujin’s hands.
 
 “…Mujin.”
 
@@ -40,27 +42,27 @@ Hyuk Mujin quickly hid his hands behind his back.
 
 “No.”
 
-“No?”
+“You don’t want to?”
 
 “Yes. This is the first time I’ve eaten these in five years. I haven’t even taken a bite yet.”
 
-“I see. Our Mujin wants to die about fifty years ahead of schedule.”
+“I see. Our Mujin wants to die fifty years ahead of schedule.”
 
 “…”
 
-With a deep sigh, he held out the skewers. Cheongpung’s eyes flashed.
+With a deep sigh, he held out the candied hawthorn skewers. Cheongpung’s eyes flashed.
 
 “Thank you, Benefactor!”
 
-The next moment, there was a sharp *whoosh*, and the skewers were in Cheongpung’s hands.
+The next moment, accompanied by a sharp *whoosh*, the candied hawthorn skewers had transferred into Cheongpung’s hands.
 
 “Gah!”
 
-That was incredible speed. Hyuk Mujin sucked in a startled breath and whispered to me in a trembling voice.
+That was an incredible speed. Hyuk Mujin sucked in a startled breath and whispered to me in a trembling voice.
 
-“H-he’s no ordinary beggar, is he?”
+“He’s not an ordinary beggar, is he?”
 
-What kind of face would Mujin make if he learned that the filthy young man in front of us was a Peak master?
+What kind of expression would Mujin make if he learned that the filthy young man in front of us was a Peak master?
 
 I studied Cheongpung as he inhaled the candied hawthorn with single-minded focus.
 
@@ -68,19 +70,19 @@ I studied Cheongpung as he inhaled the candied hawthorn with single-minded focus
 
 I had heard a few rumors by now. I also knew that even famous, powerful sects with every kind of genius training and support only produced a Peak master once in a blue moon.
 
-That was why Jin Mukyung, who came from Shanxi Province—a remote backwater even by the standards of the Central Plains—had become so famous.
+That was why Jin Mukyung, who had come from Shanxi Province—a remote backwater even by the standards of the Central Plains—had become so famous.
 
-He had reached the Peak realm ten or twenty years ahead of everyone else.
+*He reached the Peak realm ten or twenty years ahead of everyone else.*
 
 *But…*
 
 The young man in front of me looked barely my age, yet he was a Peak master whose Level I couldn’t even determine through Qi Sense.
 
-I had never heard of a Peak master this young in Shanxi Province.
+I had never heard of a Peak master this young living in Shanxi Province.
 
 *Where the hell did this guy come from?*
 
-As if on cue, Cheongpung raised his head. He had eaten so hurriedly that sticky sugar covered the corners of his mouth.
+As if on cue, Cheongpung raised his head. Since he had eaten so hurriedly, his mouth was covered in sticky sugar.
 
 “Whew. That was delicious.”
 
@@ -90,13 +92,13 @@ As if on cue, Cheongpung raised his head. He had eaten so hurriedly that sticky 
 
 “Oh dear. How did that happen?”
 
-“I lost my travel money. Still, it was an interesting experience.”
+“I lost my travel expenses. Still, it was an interesting experience.”
 
 “…”
 
-Could starving all day because you had no money really count as an interesting experience?
+Could being forced to starve all day because you had no money really count as an interesting experience?
 
-I had sensed it from the moment we met, but this guy definitely had a peculiar way of thinking.
+I had felt it from the moment we met, but this guy definitely had a peculiar way of thinking.
 
 Cheongpung smiled brightly and gave us a respectful fist-and-palm salute.
 
@@ -104,13 +106,13 @@ Cheongpung smiled brightly and gave us a respectful fist-and-palm salute.
 
 “My name is Jin Taekyung.”
 
-“And I’m this man’s right arm and heart, Hyuk Mujin.”
+“I’m this man’s right arm and heart, Hyuk Mujin.”
 
 I completely ignored Hyuk Mujin’s nonsense and kept my eyes on Cheongpung.
 
 I might not look it, but I was fairly famous in Shanxi Province.
 
-Until a few months ago, I had been famous for all the wrong reasons. Now, for the exact opposite reason, there wasn’t a soul in Shanxi Province who didn’t know my name.
+Until a few months ago, I had been famous for all the wrong reasons. Now, for the exact opposite reasons, there wasn’t a single person in Shanxi Province who didn’t know my name.
 
 *I wonder if he’ll recognize me.*
 
@@ -138,13 +140,13 @@ I couldn’t tell whether I was his Benefactor or just a sucker.
 
 * * *
 
-Honghwa Inn was packed with people who had come for an early dinner.
+The inside of Honghwa Inn was packed with people who had come for an early dinner.
 
 A quick-footed waiter led us to one of the few remaining empty tables.
 
 “What’ll it be?”
 
-I handed Cheongpung the wooden Murim-style menu.
+I handed the wooden menu board to Cheongpung.
 
 “Order whatever you want.”
 
@@ -178,7 +180,7 @@ The appearance of a colossal sucker kept the kitchen busy. Before long, the dish
 
 Unlike the waiter, whose explanations had grown shorter and shorter, Cheongpung’s reactions were becoming more and more elaborate.
 
-Dish after dish continued filling the table. Just as there was barely any room left, the waiter slid out another plate with the expression of a man who had reached enlightenment.
+Dish after dish continued filling the table. Just as there was barely any room left, the waiter pushed out another plate with the expression of a man who had reached enlightenment.
 
 “Maegu.”
 
@@ -194,6 +196,8 @@ Now he was even abbreviating dish names.
 
 While I stared at him in disbelief, Cheongpung rapidly emptied the plates.
 
+[^2]: *Maechae Guyuk* is pork belly with preserved mustard greens. The waiter shortens its Korean name to *Maegu*, which sounds like the beginning of the Japanese name Megumi.
+
 “Nom, nom.”
 
 “Slow down. Eat slowly.”
@@ -208,11 +212,11 @@ Hyuk Mujin whispered with a thoroughly disgusted expression.
 
 “Isn’t he really a beggar?”
 
-“Didn’t you see him snatch the candied hawthorn earlier? No way.”
+“Didn’t you see him snatch the candied hawthorn earlier? He definitely isn’t.”
 
 *Chomp, chomp.*
 
-“…Probably not.”
+“…Probably.”
 
 “What if he’s a master of the Beggars’ Sect?”
 
@@ -220,9 +224,9 @@ Hyuk Mujin whispered with a thoroughly disgusted expression.
 
 I had seen it countless times in martial arts novels. It also existed openly in the actual Murim as one of the Nine Sects and One Gang.
 
-I had yet to meet one of its members, but any of the beggars loitering near the inn’s entrance could be a Beggars’ Sect disciple.
+I had never met one of its members, but any of the beggars loitering near the inn’s entrance could be a Beggars’ Sect disciple.
 
-“Should I take a quick look and see if he has any knots?”
+“Should I take a quick look to see whether he has any knots?”
 
 The masters of the Beggars’ Sect supposedly distinguished their status by the knots around their waists.
 
@@ -236,7 +240,7 @@ If he were, he would have reacted somehow when he heard my name. We belonged to 
 
 There was no way a Peak master this young had simply dropped out of the sky.
 
-He had to be from a famous sect at the very least… The more I thought about it, the more curious I became about this mysterious young man.
+He had to come from a famous sect at the very least… The more I thought about it, the more curious I became about this mysterious young man.
 
 “Burp. That was delicious.”
 
@@ -244,7 +248,7 @@ Cheongpung finally finished eating. After patting his tadpole-like belly, he loo
 
 “It was my first time trying any of these dishes, so I made a spectacle of myself in front of my Benefactors. I hope I didn’t overdo it…”
 
-*You already overdid it, you idiot.*
+*You were more than excessive, you idiot.*
 
 Still, it was good that he had at least a little self-awareness.
 
@@ -252,17 +256,17 @@ Still, it was good that he had at least a little self-awareness.
 
 “We have something in common. Ha-ha.”
 
-I laughed along with Cheongpung and opened my mouth. It was about time I started a background check on this sucker.
+I laughed along with Cheongpung and opened my mouth. It was time to start questioning him.
 
-“You said it was your first time trying all of this. I suppose you don’t usually eat rich food.”
+“You said everything was your first time eating it. You don’t usually eat rich food, do you?”
 
 Cheongpung shook his head gloomily.
 
-“It’s not that I don’t. I couldn’t. If I’d known food this delicious existed, I would have come down from the mountain sooner.”
+“It’s not that I don’t eat it. I couldn’t eat it. If I’d known food this delicious existed, I would have come down from the mountain sooner.”
 
-“Oh, so you lived in the mountains. That must’ve been difficult.”
+“Oh, so you lived in the mountains. That must have been difficult.”
 
-“Life in the mountains? It was fun. The scenery was beautiful, and there was plenty to eat all over the place. My grandfather has lived alone in the mountains his entire life, too.”
+“Life in the mountains? It was fun. The scenery was beautiful, and there was plenty to eat here and there. My grandfather has lived alone in the mountains his entire life, too.”
 
 “Your grandfather?”
 
@@ -270,21 +274,21 @@ Cheongpung shook his head gloomily.
 
 “Go ahead.”
 
-“May I order some alcohol? I’ve never tried it before.”
+“May I order some alcohol? I’ve never had any before.”
 
 “…Order as much as you like.”
 
-This kid had a lot of things he’d never tried.
+This kid had a lot of things he had never tried.
 
 At least he still had a sliver of conscience left. He ordered the cheapest bottle of fire liquor.
 
-A short while later, Cheongpung downed the fire liquor without hesitation and muttered, his face slightly flushed.
+A short while later, Cheongpung downed the fire liquor without hesitation and muttered with a slightly flushed face,
 
 “Ahh, so this is what it means to get drunk. But what were we talking about?”
 
-“Your grandfather living alone in the mountains his entire life.”
+“That your grandfather had lived alone in the mountains his entire life.”
 
-“Oh, right. Anyway, I’ve lived with my grandfather since I was little. I was five when we started living together, so it’s already been fifteen years.”
+“Oh, right. Anyway, I lived with my grandfather from a young age. That started when I was five, so it’s already been fifteen years.”
 
 “Really? That’s a long time.”
 
@@ -294,7 +298,7 @@ I did my best not to show my surprise.
 
 That meant he was a genius at least comparable to Jin Mukyung, if not greater. The more I talked with him, the more curious I became about his identity.
 
-“Where is it? If it’s such a nice place to live, maybe I could visit sometime.”
+“Where was it? If it’s such a nice place to live, maybe I could visit sometime.”
 
 Cheongpung hesitated just as he was about to say something.
 
@@ -302,7 +306,7 @@ Cheongpung hesitated just as he was about to say something.
 
 “Come on. You can’t even tell me that much?”
 
-“Because my grandfather hates it so much… He already moves to a different place once or twice a year because of that.”
+“Because my grandfather hates it when people visit. He moves to a different place once or twice a year because of that.”
 
 “He moves?”
 
@@ -312,19 +316,21 @@ Cheongpung hesitated just as he was about to say something.
 
 Well, I suppose it would be annoying for someone living in the mountains.
 
-He continued with a nostalgic look in his eyes.
+He continued speaking with a nostalgic look in his eyes.
 
 “When I was ten, dozens of people suddenly came rushing over and started causing trouble. I remember my grandfather shouting at them to get lost before he set the mountain on fire.”
 
 “Oh, so that’s why he keeps moving?”
 
-“Yes. Fortunately, the mountains are huge, so he’s managed to avoid them for ten years.”
+“Yes. Fortunately, the mountains are huge, so he’s been avoiding them successfully for ten years.”
 
 “…”
 
 Ten years? His grandfather was quite a man.
 
-Hyuk Mujin, who had been listening to Cheongpung’s story with great interest, asked, “Then why did you come down from the mountain, Young Master?”
+Hyuk Mujin, who had been listening to Cheongpung’s story with great interest, asked,
+
+“Then why did Young Master come down from the mountain?”
 
 Cheongpung, who had been sucking on the mouth of the liquor bottle regretfully, answered,
 
@@ -338,7 +344,7 @@ At my question, Hyuk Mujin looked at me as though I were the strangest person he
 
 “I’m allowed not to know, damn it.”
 
-“Huh? Last year, you got plastered at a pleasure house and made a complete fool of yourself bragging that you were going to become one of them.”
+“Huh? You made a complete fool of yourself last year after getting plastered at a pleasure house and bragging that you were going to become one of them.”
 
 “That wasn’t me… Never mind. What are the Ten Dragons and Phoenixes?”
 
@@ -356,7 +362,7 @@ As I blinked at him, Hyuk Mujin launched into an impassioned explanation.
 
 “Hey, hey. Keep your voice down. People are staring.”
 
-I wasn’t exaggerating. Hyuk Mujin’s booming voice had drawn glances from the other customers.
+He wasn’t exaggerating. Hyuk Mujin’s booming voice had drawn glances from the other customers.
 
 “Who cares if they stare? This is too much even for you, Captain! Are you making fun of me?”
 
@@ -370,17 +376,17 @@ Hyuk Mujin regained his composure in an instant. I turned away from him and gave
 
 “It’s nothing important. I just had a childish thought for a moment.”
 
-Cheongpung gazed at me through slightly unfocused eyes. Apparently, he had no intention of using his internal energy to dispel the drunkenness, because he still looked a little tipsy.
+Cheongpung looked at me through slightly unfocused eyes. Apparently, he had no intention of using his internal energy to dispel the drunkenness, because he was still a little tipsy.
 
 “Who would be stronger, me or them? I wanted to find the answer to that question.”
 
-In the end, it came down to a martial artist’s competitive pride.
+In the end, it was because of a martial artist’s competitive pride.
 
-The desire to venture into a new world. The desire to defeat the strong and prove his martial arts. I could tell those feelings had led him down the mountain.
+The desire to step into a new world. The desire to defeat a strong opponent and prove his martial arts. I could tell that those feelings had led him down the mountain.
 
 *He seems to have the skill to justify thinking that way, too.*
 
-Jin Mukyung had supposedly reached the Peak realm at barely twenty, causing an uproar throughout the Central Plains. Now he was counted among the Ten Dragons and Phoenixes, the greatest young prodigies of the orthodox faction.
+Jin Mukyung had supposedly reached the Peak realm when he was barely twenty and caused an uproar throughout the Central Plains. Now, he was counted as one of the Ten Dragons and Phoenixes, one of the greatest young prodigies of the orthodox faction.
 
 The Cheongpung in front of me possessed martial talent at least comparable to Jin Mukyung’s.
 
@@ -394,8 +400,4 @@ I was nodding inwardly when—
 
 I raised my head toward the source of the sound.
 
-On the second floor, five men and women dressed in silk were looking down at us, their faces full of mockery.
-
-[^1]: Candied hawthorn skewers are a traditional Chinese snack made by coating skewered fruit in hardened sugar.
-
-[^2]: *Maechae Guyuk* is pork belly with preserved mustard greens. The waiter shortens its Korean name to *Maegu*, which sounds like the beginning of the Japanese name Megumi.
+On the second floor, five men and women in silk clothes were looking down at us with faces full of mockery.

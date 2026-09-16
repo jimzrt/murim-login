@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Mmph, mmph. Ah hih he ho. Ha hu i heup hi ha.”",
+      "defect": "The opening “Mmph, mmph” duplicates an eating sound already rendered as “Nom, nom” in the preceding dialogue and is absent from this source utterance.",
+      "id": "F01",
+      "rationale": "The Korean has 우걱, 우걱 as its own preceding utterance, followed separately by 아히헤호. 하후이흡히하. The assembled English adds a second rendering of the first sound to the latter line.",
+      "replacement": "“Ah hih he ho. Ha hu i heup hi ha.”",
+      "severity": "minor",
+      "source": "lines 203–207"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Hyuk Mujin whispered with a thoroughly disgusted expression.",
+      "defect": "The translation changes Mujin’s specific loss of appetite into general disgust.",
+      "id": "F02",
+      "rationale": "입맛이 뚝 떨어진 얼굴 specifically describes someone whose appetite has abruptly vanished, which is contextually tied to watching Cheongpung eat.",
+      "replacement": "Hyuk Mujin whispered, looking as though he had completely lost his appetite.",
+      "severity": "minor",
+      "source": "line 213"
+    }
+  ],
+  "summary": "The chapter is broadly faithful, with two minor defects involving an added eating sound and a source-specific reaction.",
+  "version": 1
+}
