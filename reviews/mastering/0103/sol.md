@@ -4,7 +4,7 @@ Clatter, clatter.
 
 The carriage lurched dangerously under the hands of an inexperienced coachman.
 
-Though it was a fairly well-maintained makeshift road, several days of heavy snow had frozen the whip into an icicle that kept jabbing the horses in the rump.
+Though the road was fairly well maintained, several days of heavy snow had frozen the whip into an icicle that kept jabbing the horses in the rump.
 
 And then, at last, trouble struck.
 
@@ -12,11 +12,11 @@ Thud!
 
 Neigh!
 
-The four fine horses, which had been moving their hooves quite quickly despite the slippery snow, suddenly stopped.
+The four fine horses, which had been moving at a brisk pace despite the slippery road, suddenly stopped dead.
 
 “Gah!”
 
-The coachman nearly pitched forward but somehow managed to regain his balance. Yet more than the relief of avoiding a fall, he was consumed by fear of what was about to happen.
+The coachman nearly pitched forward but somehow managed to catch himself. Yet instead of feeling relieved that he hadn’t fallen, he was consumed by fear of what was about to happen.
 
 *Please, Jade Emperor, Primordial Heavenly Venerable.*[^1]
 
@@ -24,13 +24,13 @@ Had his desperate prayer been answered? He cautiously peeked inside the carriage
 
 *Well, technically, one of them is asleep.*
 
-One young man was buried in fur until only his forehead peeked out. Perhaps someone had pressed a sleep-inducing pressure point, because he showed no sign of waking. The other sat cross-legged, utterly absorbed in circulating his qi.
+One young man was buried in fur until only his forehead peeked out. It was as if someone had struck a sleep-inducing pressure point; he showed no sign of waking. The other sat cross-legged, utterly absorbed in circulating his qi.
 
 Sssssip. Hooooo.
 
-If anyone had witnessed the scene, they would have been surprised twice.
+Anyone who witnessed the scene would have been surprised twice.
 
-Once by the young man’s handsome features, and once again by the formless qi of a Peak master pouring from his body.
+Once by the young man’s handsome features, and again by the formless aura of a Peak master radiating from his body.
 
 Even Hyuk Mujin, the coachman, who thought he had grown somewhat accustomed to him by now, was no exception.
 
@@ -40,7 +40,7 @@ His envy had gone beyond envy and reached the point of anger.
 
 A handsome face and genius-level martial talent. If he possessed even one of those, he would have no other wish in the world. But that young man, Jin Mukyung, had both.
 
-*And there’s even another one.*
+*And there’s another one.*
 
 The same went for the other young man, Jin Taekyung, who had said he would circulate his qi only to fall asleep like the dead.
 
@@ -58,7 +58,7 @@ And lastly…
 
 Hyuk Mujin glared at the brothers in turn.
 
-One had taken all the fur for himself to keep warm, without caring whether his subordinate froze to death on the driver’s bench. The other had given him hell for a full shichen because he couldn’t drive a carriage properly, and now he was comfortably circulating his qi.
+One had taken all the fur for himself to keep warm, without caring whether his subordinate froze to death on the driver’s bench. The other had given him hell for a full two hours because he couldn’t drive a carriage properly, and now he was comfortably circulating his qi.
 
 *They really are perfectly matched.*
 
@@ -68,11 +68,11 @@ Hyuk Mujin was carefully considering which brother had the worse personality whe
 
 “Hey.”
 
-A chilly voice. Irresistible formless qi poured from the eyes of the man who had just finished circulating his qi, binding Hyuk Mujin in place.
+A chilly voice. An irresistible, formless pressure poured from the eyes of the man who had just finished circulating his qi, binding Hyuk Mujin in place.
 
 “What are you doing? Why aren’t you driving?”
 
-“Well, a problem came up for a moment.”
+“A-a problem came up.”
 
 “What problem?”
 
@@ -92,25 +92,25 @@ But Jin Mukyung’s response was simple.
 
 “Give me your hand.”
 
-Hyuk Mujin reflexively held out his hand like a mutt. Jin Mukyung grabbed it and casually said,
+Hyuk Mujin reflexively held out his hand like a mutt. Jin Mukyung took it and casually said,
 
 “Bear with the heat.”
 
-Before Hyuk Mujin could understand what he meant, an enormous surge of qi rushed through his fingertips. The fire qi was so intense that his entire body seemed to catch fire, and his breath caught in his throat.
+Before Hyuk Mujin could understand what he meant, an enormous surge of energy rushed through his fingertips. The fire qi was so intense that his entire body seemed to catch fire, choking off his breath.
 
 *Gah!*
 
-The shock was too great for a scream to come out. It lasted no more than an instant, but Hyuk Mujin stood there with his mouth hanging open, his body trembling violently. He did not even realize that Jin Mukyung had already let go of his hand.
+When the shock was too great, even a scream wouldn’t come out. It lasted no more than an instant, but Hyuk Mujin stood there with his mouth hanging open, his body trembling violently. He didn’t even realize that Jin Mukyung had already released his hand.
 
 “How is it? Better?”
 
-Only then did Hyuk Mujin come to his senses. He barely managed to open his mouth.
+Only then did Hyuk Mujin come to his senses. He barely managed to speak.
 
 “W-what was that just now?”
 
-“A simple type of heat-yang technique.”
+“A simple form of the heat-yang technique.”
 
-“That didn’t look simple… I thought I was going to burn to death.”
+“That didn’t seem simple… I thought I was going to burn to death.”
 
 “Really? I suppose I’m still unskilled since I only learned it superficially.”
 
@@ -130,25 +130,25 @@ He hadn’t been thawed out so much as roasted, but the effect was undeniable.
 
 “Then I’ll get us moving again.”
 
-When Hyuk Mujin returned to the driver’s bench, his body radiating heat, Jin Mukyung turned his gaze forward.
+Hyuk Mujin returned to the driver’s bench, his body radiating heat, and Jin Mukyung turned his gaze forward.
 
 Jin Taekyung was buried so thoroughly in fur that it was difficult to tell whether he was a bear or a person.
 
 *He said he was going to circulate his qi, but he’s sprawled out asleep.*
 
-Mukyung had thought he was talking nonsense, but he hadn’t expected him to sleep so brazenly. A martial artist was supposed to constantly ponder martial arts and train without rest.
+Mukyung had thought he was talking nonsense, but he hadn’t expected him to sleep so brazenly. A martial artist was supposed to constantly contemplate martial arts and train without rest.
 
-Jin Mukyung roared with a stern expression.
+Jin Mukyung’s face hardened as he roared,
 
-“You rascal! Will you not get up this instant?”
+“You rascal! Get up this instant!”
 
-His voice boomed so loudly that Hyuk Mujin on the driver’s bench and even the horses flinched. Yet Jin Taekyung himself did not stir.
+His voice boomed so loudly that Hyuk Mujin flinched on the driver’s bench, as did the horses. Yet Jin Taekyung himself didn’t stir.
 
 Snnn. Snnn.
 
 “You rascal!”
 
-Jin Mukyung sprang to his feet and struck his younger brother’s forehead with his palm. With a sharp smack, the skin turned bright red.
+Jin Mukyung sprang to his feet and smacked his younger brother across the forehead with his palm. The skin turned bright red with a sharp crack.
 
 *Let’s see if this wakes you up.*
 
@@ -160,11 +160,11 @@ Snnn. Snnn.
 
 His forehead had gone beyond red. A lump had risen and looked ready to burst, yet he didn’t so much as twitch.
 
-Jin Mukyung was overwhelmed by shock. Even a commoner without a shred of internal energy should have screamed awake from this. Yet this guy, supposedly a top-tier First Rate martial artist and the Sleeping Dragon of Shanxi, did not move an inch.
+Jin Mukyung was deeply shocked. Even a commoner without a shred of internal energy should have screamed awake from that. Yet this supposed top-tier First Rate martial artist, the Sleeping Dragon of Shanxi, didn’t move an inch.
 
-Jin Mukyung had never seen anyone so defenseless in all his life.
+In all his life, Jin Mukyung had never seen anyone so utterly defenseless.
 
-*And that guy is my younger brother.*
+*And that man is my younger brother.*
 
 Just as the training he had put Taekyung through over the past several days was beginning to feel like a complete waste of time—
 
@@ -174,7 +174,7 @@ The eyes that had seemed destined to remain closed forever slowly opened.
 
 * * *
 
-Before I even opened my eyes, I realized that I had returned to Murim.
+Before I even opened my eyes, I knew I had returned to Murim.
 
 The cool air against my cheek. The rattling interior of the carriage.
 
@@ -188,7 +188,7 @@ When I opened my eyes, a fairly familiar face was looking down at me.
 
 *Jin Mukyung.*
 
-I ignored the look on his face, which seemed to say *What kind of guy is this?*, and straightened my slumped body. Only then did I identify the source of the pain.
+I ignored the look on his face, which seemed to say, *What the hell is wrong with this guy?* and straightened my slumped body. Only then did I identify the source of the pain.
 
 “Ow.”
 
@@ -208,7 +208,7 @@ Jin Mukyung and Hyuk Mujin. Even a three-year-old could tell who the culprit was
 
 “What did you do while I was asleep?”
 
-“While you were sleeping? Didn’t you say you were circulating your qi before that?”
+“While you were asleep? Didn’t you say you were going to circulate your qi?”
 
 “…I did?”
 
@@ -218,11 +218,11 @@ It had been so long that I couldn’t even remember. But that wasn’t important
 
 “You looked so pathetic that I did. A martial artist like you sprawled out asleep instead of training.”
 
-“You call yourself a martial artist, yet you underhandedly attack a defenseless opponent?”
+“You call yourself a martial artist, yet you attack a defenseless opponent?”
 
 “Then shall we get off right now and have a bout? Like true martial artists?”
 
-We both sprang to our feet and glared at each other without waiting for the other to move first. Jin Mukyung spoke in an ominous tone.
+We both sprang to our feet and glared at each other. Jin Mukyung spoke in an ominous tone.
 
 “Hyung Mujin.”
 
@@ -236,7 +236,7 @@ The carriage slowly began to decelerate. Now it was my turn. I met his gaze and 
 
 “Hyuk Mujin.”
 
-“Ah, why me this time, Captain?”
+“Ah, what is it this time, Squad Leader?”
 
 “Keep going.”
 
@@ -244,7 +244,7 @@ The carriage slowly began to decelerate. Now it was my turn. I met his gaze and 
 
 The carriage began to speed up again. As I slowly sat back down, Jin Mukyung asked incredulously,
 
-“Didn’t I suggest that we have a bout like martial artists?”
+“Didn’t I suggest that we have a bout like true martial artists?”
 
 “How pathetic. The mission comes first, and fighting comes after. And…”
 
@@ -276,7 +276,7 @@ Ding.
 >
 > **Yesterday’s Enemy, Today’s Ally**
 >
-> Now that all the truth has been revealed, the Mount Heng Sword Sect is no longer an enemy but an ally you must join forces with. Invite them to the Jin Family of Taiyuan for the upcoming New Year’s Day.
+> Now that the truth has been revealed, the Mount Heng Sword Sect is no longer an enemy, but an ally you must join forces with. Invite them to the Jin Family of Taiyuan for the upcoming New Year’s Day.
 >
 > **Grade:** First Rate
 >
@@ -298,13 +298,13 @@ The current Mount Heng Sword Sect had been reduced to its bare bones. Once Lee S
 
 *The battle at Eight Spring Gorge was the fatal blow.*
 
-They say words without feet can travel a thousand li.
+As the saying went, words without feet could travel a thousand li.
 
-That day’s battle, watched by countless eyes and ears, spread rapidly through messenger pigeons and word of mouth. With nearly all its main forces gone, the Mount Heng Sword Sect became easy prey for someone.
+The battle that day, witnessed by countless eyes and ears, spread rapidly through messenger pigeons and word of mouth. With nearly all its main forces gone, the Mount Heng Sword Sect became tempting prey.
 
 *Wandering martial artists. And mounted bandits.*
 
-They said as many as two hundred attackers had suddenly raided the Mount Heng Sword Sect. After two days and nights of fighting, the attackers were driven off. Lee Seogwang, who had remained at the sect after being placed under disciplinary confinement, ultimately fell in battle.
+They said as many as two hundred attackers had descended on the Mount Heng Sword Sect. After two days and nights of fighting, the attackers were driven off. Lee Seogwang, who had remained at the sect after being placed under disciplinary confinement, ultimately fell in battle.
 
 The Mount Heng Sword Sect needed a new rallying point, and one person emerged.
 
@@ -342,11 +342,11 @@ We had both gone through so many changes in that time that, in a sense, we had s
 
 The Jin Family of Taiyuan was now, by everyone’s admission, the foremost family in Shanxi.
 
-The Mount Heng Sword Sect, on the other hand, was nothing more than an empty shell. In truth, this invitation was practically an offer to surrender and come under the Jin Family of Taiyuan.
+The Mount Heng Sword Sect, on the other hand, was little more than an empty shell. In truth, this invitation was practically an offer to surrender and come under the Jin Family of Taiyuan.
 
-I would have to experience it firsthand to know how Lee Seowol would react.
+I would have to meet Lee Seowol in person to find out how she would react.
 
-*I just hope she doesn’t suddenly stab me.*
+*I just hope she doesn’t stab me on sight.*
 
 Just as I closed the Quest window, sunlight streamed in and the sound of a boisterous crowd drew closer. Hyuk Mujin looked at me, his face flushed with excitement.
 
