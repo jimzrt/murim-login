@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "“What I want isn’t a home. It’s the Mount Heng Sword Sect.”",
+      "defect": "“Home” shifts 가정 from the family or household Seowol rejects to a dwelling or place.",
+      "id": "F01",
+      "rationale": "The preceding proposal is that she marry and establish a happy family; Seowol contrasts that life goal with restoring the sect.",
+      "replacement": "“What I want isn’t a family. It’s the Mount Heng Sword Sect.”",
+      "severity": "minor",
+      "source": "lines 119–121"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The table had collapsed, the chairs had been smashed to pieces, and shards of broken teaware rolled across the floor.",
+      "defect": "The source specifies one chair, but the English makes it plural.",
+      "id": "F02",
+      "rationale": "의자는 is singular in this concrete inventory of the damaged furniture.",
+      "replacement": "The table had collapsed, the chair had been smashed to pieces, and shards of broken teaware rolled across the floor.",
+      "severity": "minor",
+      "source": "line 227"
+    }
+  ],
+  "summary": "The chapter is highly faithful, with two minor fidelity defects involving a family-related object and a singular physical detail.",
+  "version": 1
+}

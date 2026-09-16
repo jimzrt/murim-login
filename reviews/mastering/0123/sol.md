@@ -2,13 +2,13 @@
 
 A middle-aged man lay in bed, his entire body wrapped in bandages.
 
-His brow was deeply furrowed, as if something was bothering him, and his body kept fidgeting without a moment's rest.
+His brow was deeply furrowed, and he fidgeted without rest.
 
 “Ugh.”
 
 The moment he groaned, a sharp rebuke followed.
 
-“Please don’t move so much.”
+“Please stop moving so much.”
 
 “That’s not it…”
 
@@ -36,15 +36,15 @@ Cheol Mubaek fell silent at Seowol’s pointed remark.
 
 She was right. He had never suffered injuries this severe since learning the Shura Annihilating Fist. Broken limbs and serious internal injuries. According to the physician, he would need at least four months of recuperation.
 
-“I wasn’t this badly hurt even when I met your father.”
+“I wasn’t hurt this badly even when I met your father.”
 
-Seowol reacted to his complaint.
+Seowol’s interest stirred at his complaint.
 
 “My father?”
 
-“Yes. That friend of mine, Cheonbaek.”
+“Yes. Cheonbaek, that friend of mine.”
 
-“What happened between the two of you?”
+“What happened between you two?”
 
 “Did I never tell you?”
 
@@ -54,9 +54,9 @@ Seowol reacted to his complaint.
 
 “You fought?”
 
-Cheol Mubaek smiled faintly.
+Cheol Mubaek smiled.
 
-“What else would two martial artists do when they met? We were both young and fiercely competitive, so what happened next was obvious.”
+“What else would two martial artists do when they met? We were both young and full of competitive pride. The outcome was obvious.”
 
 Cheol Mubaek looked out the window. More than thirty years ago, somewhere along those towering mountain ridges, the two men had met for the first time—and fought.
 
@@ -88,15 +88,15 @@ Cheol Mubaek had been laughing heartily when a sudden stab of pain made him flin
 
 “You little rascal. Don’t you feel sorry for your uncle, growing old all alone?”
 
-“If you’re interested, just tell me anytime. I’ll even play matchmaker for you.”
+“If you’re interested in marriage, just tell me. I’ll find you a match.”
 
 “Forget it. What would I do at my age?”
 
-Although he had said the words himself, they left a bitter taste in his mouth. Cheol Mubaek muttered inwardly.
+Though he had said it himself, the words left a bitter taste in his mouth. Cheol Mubaek muttered inwardly.
 
 *Yes. Somehow, I’ve grown this old.*
 
-He did not even know exactly how many years had passed since the day he lost his family.
+Even he no longer knew exactly how many years had passed since the day he lost his family.
 
 His deep internal energy and rigorously trained body merely made him look younger than his true age. His spirit had been growing old for a long time.
 
@@ -110,7 +110,7 @@ But Cheol Mubaek still had something left to protect.
 
 “Seowol.”
 
-Seowol answered him warmly.
+Seowol answered warmly.
 
 “Yes, Uncle?”
 
@@ -124,27 +124,27 @@ Seowol answered him warmly.
 
 Sorrow flickered in Cheol Mubaek’s eyes. He had watched Seowol grow from infancy. Rebuilding and restoring a fallen sect was far too heavy a burden for a girl not yet twenty.
 
-“You may regret the choice you’re making now.”
+“You may come to regret this choice.”
 
-“But no matter what choice I make, you’ll believe in me, won’t you?”
+“But whatever choice I make, you’ll believe in me, won’t you?”
 
 “If I didn’t, I wouldn’t have given you the martial arts manual for the Shura Annihilating Fist.”
 
-Seowol grasped Cheol Mubaek’s wrinkled hand.
+Seowol clasped Cheol Mubaek’s wrinkled hand.
 
-She, too, was the daughter of a martial household. She understood what a momentous decision the old martial artist before her had made.
+She, too, was the daughter of a martial household. She understood the magnitude of the decision this old martial artist had made.
 
 “Thank you, Uncle.”
 
-At the moisture in her voice, Cheol Mubaek waved a hand.
+Hearing the moisture in her voice, Cheol Mubaek waved his hand.
 
-“I’m old. I was already having trouble taking on a Disciple at my age, so this was simply a good opportunity.”
+“I’m old. It was already too late for me to take on a Disciple, so this was simply a good opportunity.”
 
 The Shura Annihilating Fist followed the principles of a single successor and transmission only to the worthy. Its purpose was to preserve the martial lineage by finding a successor of upright conduct and good character.
 
 Yet Cheol Mubaek, its ninth-generation successor, had broken those principles and handed the martial arts manual to Seowol. Though he had not taught her directly, he had still broken a tradition passed down through generations of his school.
 
-But Cheol Mubaek had his own reasons.
+But Cheol Mubaek had his reasons.
 
 *The Heaven Shaking Sword and the Sleeping Dragon of Shanxi should be able to protect Seowol.*
 
@@ -152,13 +152,13 @@ If Seowol had decided on a political marriage, those two were her best options.
 
 Their martial talent went without saying, and they possessed the chivalrous spirit to risk their lives fighting injustice.
 
-*Still, I’ll have to watch and see what they’re really like…*
+*Though I’ll still have to watch them and see what they’re really like…*
 
 If all went well, this path could fulfill both the purpose of the political marriage and the traditions of a single successor and transmission only to the worthy.
 
 “So, about that…”
 
-Cheol Mubaek continued in a suggestive tone.
+Cheol Mubaek continued in a sly tone.
 
 “Which one did you choose?”
 
@@ -166,9 +166,9 @@ Seowol tilted her head, feigning ignorance.
 
 “My, whatever do you mean?”
 
-“Don’t play dumb. Is it the Heaven Shaking Sword? Or the Sleeping Dragon of Shanxi?”
+“Don’t play dumb. Was it the Heaven Shaking Sword? Or the Sleeping Dragon of Shanxi?”
 
-“I’m not sure.”
+“I wonder.”
 
 “They’re much the same, but… Wouldn’t the Heaven Shaking Sword be better?”
 
@@ -182,11 +182,11 @@ Cheol Mubaek frowned. Even he, who spent most of the year deep in the mountains,
 
 “What about the Heaven Shaking Sword?”
 
-Cheol Mubaek’s crumpled expression smoothed out.
+Cheol Mubaek’s frown vanished.
 
 “They say no younger brother measures up to his elder. I spoke with him briefly yesterday, and he seemed like a fine man. His martial talent is outstanding.”
 
-“I heard he knows nothing but martial arts.”
+“It sounds like he knows nothing but martial arts.”
 
 “Hey! That’s far better than chasing women. His speech and conduct are dignified, and he carries himself with proper gravity. That’s how a man ought to be. Yes, indeed.”
 
@@ -208,7 +208,7 @@ Tea had already gone up my nose and left me choking. With Mukyung shaking me non
 
 “I get it, so let go first!”
 
-“You stupid bastard! Do you even know what kind of martial art the Shura Annihilating Fist is?”
+“You idiot! Do you even know what kind of martial art the Shura Annihilating Fist is?”
 
 “Let go and then we’ll talk!”
 
@@ -216,15 +216,15 @@ Tea had already gone up my nose and left me choking. With Mukyung shaking me non
 
 “Enough, you crazy bastard!”
 
-A short while later, by the time I finally pried Mukyung’s hand away, the inside of the pavilion looked as though a storm had passed through it.
+By the time I finally pried Mukyung’s hands away, the inside of the pavilion looked as though a storm had swept through it.
 
 “Huff… huff…”
 
 I caught my breath and looked around.
 
-The table had collapsed, the chairs had been smashed to pieces, and shards of broken teaware rolled across the floor.
+The table had collapsed, the chairs had been smashed to pieces, and shards of broken teaware lay scattered across the floor.
 
-Mukyung calmly straightened his clothes and spoke.
+Mukyung calmly straightened his clothes.
 
 “Hmm. I’ve calmed down.”
 
@@ -256,7 +256,7 @@ Mukyung stared at me in disbelief.
 
 “Exactly!”
 
-“Wait a second.”
+“Hold on a second.”
 
 I picked up a thick wooden stick lying on the floor. Until five minutes ago, it had been known as a table leg.
 
@@ -272,7 +272,7 @@ I picked up a thick wooden stick lying on the floor. Until five minutes ago, it 
 
 He wasn’t stupid enough to miss my point.
 
-Mukyung glared at me.
+Mukyung’s eyes flared.
 
 “How dare you compare the Shura Annihilating Fist to something like that.”
 
@@ -284,9 +284,9 @@ Mukyung glared at me.
 
 In the past, mankind had fought with stones and clubs. But when bronze and iron appeared, the march of time left them behind.
 
-The Shura Annihilating Fist was no different.
+The Shura Annihilating Fist wasn’t so different.
 
-“Of course, it’s still an outstanding Peak martial art that everyone would want.”
+“Of course, it’s still an outstanding Peak martial art that anyone would covet.”
 
 Cheol Mubaek himself had proven that. With the Shura Annihilating Fist, he had become a renowned Peak master in Shanxi Province.
 
@@ -312,27 +312,27 @@ Mukyung heaved one sigh after another. I’d been ready to fight him if he kept 
 
 Still, the wistful look in his eyes suggested that he couldn’t stop thinking about the Shura Annihilating Fist manual.
 
-*This guy is a martial arts nut too.*
+*This bastard is one hell of a martial arts fanatic too.*
 
 Then again, he had gone to Heaven’s Gate Temple because he wanted to learn more martial arts.
 
 Now he had discovered a centuries-old martial art that survived only in the records of that very temple. No wonder he was beside himself.
 
-“Hoo…”
+“Haaa…”
 
-Mukyung let out a sigh deep enough to make the earth cave in and muttered,
+Mukyung heaved a sigh deep enough to make the ground cave in and muttered,
 
-“What a shame. What a shame.”
+“What a shame. Such a shame.”
 
-“It’s not that big a deal. If fate brings it around, we can get it another time.”
+“It’s not worth getting that upset over. If fate allows, we can obtain it some other time.”
 
-“You idiot. Do you think Peak martial arts just drop out of the sky?”
+“You idiot. Do you think Peak martial arts just fall from the sky?”
 
 “Really? Mine did.”
 
 “Even at Heaven’s Gate Temple, where all the martial arts under heaven are gathered, Peak martial arts are strictly controlled… What did you say?”
 
-“I said mine fell out of the sky.”
+“I said mine fell from the sky.”
 
 I pulled an old book from inside my robes. The four characters on its cover had faded under the ravages of time, but they remained clear enough to read.
 
@@ -342,7 +342,7 @@ A tiger leaves its hide when it dies, and Jopil left behind a Supreme Peak marti
 
 “Fl-Fl-Flame…”
 
-Today was probably the most astonishing day of Jin Mukyung’s entire life.
+Today was probably the most astonishing day of Jin Mukyung’s life.
 
 I grinned as his eyes bulged and darted between me and the martial arts manual.
 
