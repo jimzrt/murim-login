@@ -40,7 +40,7 @@ A strange sense of déjà vu. My heart pounded, and my vision grew sharp. In a w
 
 *Vrrr. Vrrrr.*
 
-A cool head. A hot heart.
+Keep the head cool. Keep the heart hot.
 
 That was how I had fought for seven years…but this time was different. This was instinct. Nothing but instinct ruled over my entire being.
 
@@ -56,7 +56,7 @@ That was all.
 
 Two enormous forces collided.
 
-A thunderous roar. A brutal blast of wind. Cheongpung’s eyes flying wide.
+A thunderous roar and brutal gusts of wind. Cheongpung’s eyes opened wide.
 
 And then…
 
@@ -64,7 +64,7 @@ And then…
 
 The snow-white spearhead was still there.
 
-It pressed down on Cheongpung’s Sword Energy without so much as a hairline crack, trembling all the while.
+The spearhead pressing down on Cheongpung’s Sword Energy trembled, not even a hairline crack running across it.
 
 *Vrrrrrrr.*
 
@@ -79,7 +79,7 @@ At that moment, the answer to my question rang out.
 > **System**
 >
 > - You have finished preparing to step into a new realm.
-> - Your weapon is resonating with your qi.
+> - Your weapon is resonating with your energy.
 > - Quest *Beyond the Wall* has been generated.
 
 *Ah.*
@@ -128,7 +128,7 @@ I’ll show you what Korean spice tastes like.
 
 *Krrrnnng.*
 
-My Strength had risen by twenty-five percent compared to roughly a minute ago.
+Compared to roughly a minute ago, my Strength had risen by twenty-five percent.
 
 It was the difference between heaven and earth. Cheongpung was visibly flustered by my sudden transformation.
 
@@ -146,11 +146,11 @@ It was the difference between heaven and earth. Cheongpung was visibly flustered
 
 Cheongpung swallowed a breath as my force continued to build.
 
-He had Sword Energy and the Zaha Divine Technique, but neither was having much effect. Filled to the brim with my qi and resonating with it, the spear had grown sturdy enough that even Sword Energy could no longer cut through it.
+He had Sword Energy and the Zaha Divine Technique, but neither was having much effect. The spear, resonating while filled to the brim with my qi, had grown sturdy enough that even Sword Energy could no longer cut it.
 
 *I have a real shot at winning.*
 
-But Cheongpung wasn’t going down that easily.
+But Cheongpung was not an opponent who would go down easily.
 
 “Hup!”
 
@@ -162,7 +162,7 @@ It had only been lifted a handspan, but the instant Cheongpung escaped the press
 
 Before he had even finished speaking, an invisible force shot from his palm.
 
-The Taeeul Miri Palm. A secret ultimate technique of Huashan, personally taught to him by the Sword Saint.
+The Taeeul Miri Palm. A secret ultimate technique of Huashan, personally taught to him by the Sword Saint himself.
 
 “Hngh!”
 
@@ -178,11 +178,11 @@ Cheongpung stared at me with the wide, startled eyes of a rabbit.
 
 “A Seven-Star Taeeul Miri Palm…”[^2]
 
-“Don’t say that. You’ll make me crave cider.”
+“Don’t say that. Now I want some cider.”
 
 “Pardon?”
 
-There it was. Exactly the reaction I had expected.
+There it was. Exactly the reaction I expected.
 
 The instant Cheongpung asked what I meant, my spear was already thrusting toward his chest.
 
@@ -194,7 +194,7 @@ As if answering my thoughts, Sword Energy slammed into the spearhead.
 
 *I wasn’t expecting it to work.*
 
-With no expectations came no disappointment. My emotions remained steady, and so did my forms.
+With no expectations, there was no disappointment. And since my emotions remained steady, my forms did as well.
 
 *Next, the waist.*
 
@@ -230,7 +230,7 @@ The tip of his sword bloomed with flowers.
 
 The movement was so fluid it was beautiful. But if I let myself be mesmerized, I would soon find myself standing before a sign for Mount Beimang.
 
-The Plum Blossom Sword Technique I had watched until now was a frightening martial art composed of extremely intricate, complex forms.
+The Plum Blossom Sword Technique I had watched until now was frightening martial arts—extremely intricate and complicated forms.
 
 When Cheongpung wielded it, it felt as though I were trapped in a rainstorm.
 
@@ -334,7 +334,7 @@ Cheongpung nodded as though he understood.
 
 “Me? Not to that extent.”
 
-“You look happy for someone who doesn't.”
+“Your expression looks happy.”
 
 Only then did I realize that the corners of my mouth had been raised the entire time.
 
@@ -348,7 +348,7 @@ As I stood lost in thought, Cheongpung smiled brightly.
 
 “It’s a method I’ve used on my grandfather many times.”
 
-People really did think alike. I burst out laughing.
+People really were all alike. I burst out laughing.
 
 “You’re more perceptive than I expected.”
 
@@ -372,11 +372,11 @@ It was clearly a First Rate martial art, but when it came to subtle principles, 
 
 Martial arts ultimately came down to combinations of movements.
 
-Thrusting, striking, cutting.
+Thrust, strike, cut.
 
-By circulating internal energy, adjusting the angle by the slightest degree, and linking one form into the next, one could create endless variations.
+Through the circulation of internal energy, the slightest change in angle, and the forms that followed one another, one could create endless variations.
 
-I had finally mastered them after arduous effort, but the Jin Family’s Spear Technique and the Jin Family’s Manoeuvre Technique lacked that sort of subtlety.
+I had attained mastery after arduous effort, but the Jin Family’s Spear Technique and the Jin Family’s Manoeuvre Technique lacked that kind of subtlety.
 
 *Whoooooosh! Clang!*
 
@@ -432,7 +432,7 @@ The human body was weaker than you might think, and stronger in its own way. Eve
 
 Funny enough, Cheongpung’s weak stomach gave me an opening.
 
-I charged at the faltering Cheongpung.
+I charged at the Cheongpung who had faltered.
 
 *Second Form of the Jin Family’s Spear Technique.*
 
@@ -484,7 +484,7 @@ Riding the momentum, I thrust and slashed with all my strength. Even as I panted
 
 *Me? Not to that extent.*
 
-*Then why have you been smiling this whole time?*
+*Then why have you been smiling?*
 
 That was obviously because…
 
@@ -562,7 +562,7 @@ Was this really the world I knew?
 
 “Was my grandfather right?”
 
-His second question.
+It was Cheongpung’s second question.
 
 I answered in a hoarse voice.
 
@@ -587,4 +587,4 @@ Now I knew one thing.
 
 [^3]: Puramyeon is an instant-noodle brand. Taekyung uses its spicy flavor as the next step in his escalating flavor joke.
 
-[^4]: Mae’s line is wordplay on two Korean terms pronounced *mugong*: “martial arts” and “empty space.”
+[^4]: Mae’s line is a wordplay on two Korean terms pronounced *mugong*: “martial arts” and “empty space.”
