@@ -1,14 +1,14 @@
 # Chapter 169
 
-In the dim light of early dawn, a group of people was making its way through the thick fog.
+At the dim break of dawn, a group of people was making its way through the thick fog.
 
 Two middle-aged men at the front exchanged words in low voices.
 
 “Are you sure that information is reliable?”
 
-“Ninety percent or more.”
+“More than ninety percent.”
 
-“Ninety percent or more?”
+“More than ninety percent?”
 
 “I can’t be certain until we confirm it ourselves.”
 
@@ -32,7 +32,7 @@ The two middle-aged men exchanged sympathetic looks. They led the Datong Branche
 
 “I was bragging to my wife about getting promoted just the other day. At this rate, I might end up making her a widow.”
 
-“Stop whining. It’s ninety percent or more.”
+“Stop whining. It’s more than ninety percent.”
 
 “What happens if we hit the ten percent?”
 
@@ -54,7 +54,7 @@ By then, everyone’s bodies were soaked with sweat and moisture.
 
 The low, restrained shout came from the Datong Branch Leader of the Jin Family of Taiyuan. Gripping the hilt of his sword hard enough to crush it, he asked the Lower District Sect Branch Leader,
 
-“Didn’t you hear anything just now?”
+“Didn’t you hear something just now?”
 
 “What…? Ah!”
 
@@ -100,7 +100,7 @@ The few horses that remained alive let out hungry snorts as they trampled a flag
 
 There was no mistake. It was the flag of the Heavenly Wind Band.
 
-The Heavenly Wind Band, which had once made a name for itself across the northern Gaoyuan with its savagery, had been annihilated. The ninety-percent guess had finally become a hundred-percent certainty.
+The annihilation of the Heavenly Wind Band, which had once made a name for itself throughout the northern Gaoyuan through its brutality. The ninety-percent guess had finally become a hundred-percent certainty.
 
 The Jin Family of Taiyuan and the Lower District Sect had been watching the Heavenly Wind Band’s movements closely for nearly half a month. They should have felt relieved, as though a rotten tooth had finally fallen out, but as time passed, the two Branch Leaders’ faces grew darker and darker.
 
@@ -140,7 +140,7 @@ The two men stood in silence, unable to continue the conversation.
 
 A survivor?
 
-Their eyes snapped open at the sudden shout. The two Branch Leaders used their movement techniques and raced over like the wind. They muttered as if groaning.
+Their eyes snapped open at the sudden shout. The two Branch Leaders immediately displayed their movement techniques and ran like the wind. As they arrived, they muttered like men groaning in disbelief.
 
 “A survivor?”
 
@@ -184,7 +184,7 @@ Everyone had lost the ability to speak when—
 
 The Heavenly Wind Band Leader’s body writhed as he made a phlegmy sound.
 
-He soon forced his eyes open, and a dry voice slipped out from between his lips.
+He soon forced his eyes open, and a dry voice leaked from between his lips.
 
 “Save… save me.”
 
@@ -204,7 +204,7 @@ They desperately wanted to save him, but it was already too late. There was a mo
 
 The instant the question ended, the Heavenly Wind Band Leader’s body jerked like a bird struck by an arrow. At the same time, his one remaining hand seized the Branch Leader by the collar.
 
-It was a grip too fierce to believe it came from a dying man. The open mouth reeked of death.
+The strength was too powerful to believe it came from a dying man. The open mouth reeked of death.
 
 “An old man. It was an old man. He’s a demon who rose from a pit of fire.”
 
@@ -214,7 +214,7 @@ It was a grip too fierce to believe it came from a dying man. The open mouth ree
 
 “You—!”
 
-Just as the horrified Branch Leader hurriedly tried to pull away, the strength slowly drained from the Heavenly Wind Band Leader’s grip.
+The horrified Branch Leader hurriedly tried to pull away, but the strength slowly drained from the Heavenly Wind Band Leader’s grip.
 
 The body, its life force gone, gradually tilted before finally collapsing. His wide-open eyes glared up at the blue sky.
 
@@ -230,7 +230,7 @@ The Lower District Sect Branch Leader nodded and let out a sigh.
 
 “Besides the fact that he was old, what do we know?”
 
-“He was an old master in the Supreme Peak realm who primarily used Scorching Yang Qi. Judging by the fact that he didn’t leave a single person alive, he’s merciless as well. If he crossed Datong and came our way, he’d be spotted in no time.”
+“He was an old master in the Supreme Peak realm who primarily used Scorching Yang Qi. Judging by the fact that he didn’t leave a single person alive, he’s merciless as well. If he came this way past Datong, he’d attract attention in no time.”
 
 After hesitating for a moment, the Lower District Sect Branch Leader added,
 
@@ -298,7 +298,7 @@ Jang bowed politely and continued walking.
 
 “…”
 
-“…You there.”
+“You there.”
 
 “Yes?”
 
@@ -306,7 +306,7 @@ The old man frowned deeply.
 
 “Why do you keep following me?”
 
-“Ah, well, this is the road to the village.”
+“Ah, this is the road to the village.”
 
 “What’s ahead if you keep going this way?”
 
@@ -372,9 +372,9 @@ The old man looked back and forth between Jang and the crude rice ball before sp
 
 “I was feeling empty, so this is perfect.”
 
-The old man devoured the palm-sized rice ball in the blink of an eye. Jang held out the wooden carrying frame on his back.
+The old man devoured the palm-sized rice ball in the blink of an eye. Jang offered him the wooden carrying frame on his back.
 
-“Please climb on. If you sit on top of the bundle of firewood, you should be able to ride down without too much trouble.”
+“Please climb on. If you sit on top of the bundle of firewood, you should be able to make it down comfortably.”
 
 “Hm? You want me to ride that?”
 
@@ -402,4 +402,6 @@ The old man wore a complicated expression for a moment before clicking his tongu
 
 “…”
 
-Jang suddenly became much quieter. Jang Family Village began to come into view ahead of him.
+Jang suddenly became much quieter.
+
+Jang Family Village began to come into view ahead of him.

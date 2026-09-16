@@ -140,7 +140,7 @@ The two men stood in silence, unable to continue the conversation.
 
 A survivor?
 
-Their eyes snapped open at the sudden shout. The two Branch Leaders used their movement techniques and raced over like the wind. They muttered as if groaning.
+Their eyes snapped open at the sudden shout. The two Branch Leaders activated their movement techniques and raced over like the wind. They muttered as if groaning.
 
 “A survivor?”
 
@@ -184,7 +184,7 @@ Everyone had lost the ability to speak when—
 
 The Heavenly Wind Band Leader’s body writhed as he made a phlegmy sound.
 
-He soon forced his eyes open, and a dry voice slipped out from between his lips.
+He soon forced his eyes open, and a thick, hoarse voice slipped out from between his lips.
 
 “Save… save me.”
 
@@ -214,7 +214,7 @@ It was a grip too fierce to believe it came from a dying man. The open mouth ree
 
 “You—!”
 
-Just as the horrified Branch Leader hurriedly tried to pull away, the strength slowly drained from the Heavenly Wind Band Leader’s grip.
+Just as the horrified Branch Leader hurriedly tried to pull free, the strength drained from the Heavenly Wind Band Leader’s grip.
 
 The body, its life force gone, gradually tilted before finally collapsing. His wide-open eyes glared up at the blue sky.
 
