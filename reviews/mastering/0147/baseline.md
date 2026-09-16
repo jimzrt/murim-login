@@ -4,7 +4,7 @@ Jin Wikyung let out a deep sigh.
 
 “I have to start working the moment I return to the family.”
 
-“Haven’t you been away for several days?”
+“Were you not away for several days?”
 
 “That was due to circumstances beyond my control!”
 
@@ -16,9 +16,9 @@ Despite his desperate, pitiful plea, Wipeng answered coldly.
 
 “Finish your work before you die. I’ll give you a grand funeral.”
 
-“……You’re a demon. Are you even human?”
+“……You’re a demon. Are you really human?”
 
-Jin Wikyung had returned to the Jin Family of Taiyuan half a day earlier only to find a mountain of work waiting for him.
+What awaited Jin Wikyung, who had returned to the Jin Family of Taiyuan half a day earlier, was a mountain of work.
 
 Because he had been away for nearly ten days, hundreds of bamboo slips were scattered across not only the writing desk but also the floor.
 
@@ -28,55 +28,55 @@ Because he had been away for nearly ten days, hundreds of bamboo slips were scat
 
 “Does our family really have so few people? No—are there really so few capable people in all of Shanxi Province?”
 
-“Have you considered lowering your standards?”
+“Have you ever considered lowering your standards when it comes to people?”
 
 “Are you saying this is my fault?”
 
-“More than ten people have already come and gone. They all seemed like decent scholars to me, but you made the mistake of hiring only two.”
+“More than ten people have come and gone already. They all looked like decent scholars to me, but you made the mistake of choosing only two.”
 
 “Decent scholars? Please. Do you have no eye for people?”
 
-They couldn’t accept just anyone simply because he had studied.
+They couldn’t simply accept anyone who had studied.
 
 The Jin Family of Taiyuan was, after all, a Murim sect. How much of the Four Books and Three Classics someone had memorized, or what they had learned from which great scholar, wasn’t important.
 
-Jin Wikyung wanted practical thinkers with flexible minds, not rigid scholars who spent their lives quoting Confucius and Mencius.
+The kind of talent Jin Wikyung wanted was a practical-minded person with flexible thinking—not a rigid scholar who went around constantly quoting Confucius and Mencius.
 
-“Those two were the only useful ones among them.”
+“Those two were the only ones among them who were worth using.”
 
 He still didn’t regret that choice. At his firm answer, Wipeng picked at his ear.
 
-“Oh, really? Then where are those two now? What are they doing?”
+“Oh, really? And where are those two now? What are they doing?”
 
 “……Well, that’s…”
 
 When Jin Wikyung was momentarily at a loss for words, Wipeng continued in his place.
 
-“They worked four straight nights without sleep, then ran away.”
+“They worked through four straight nights and then ran away.”
 
-“R-ran away? Who says they ran away? One of them had a gravely ill mother…”
+“W-who ran away? What are you talking about? One of them had a mother who was gravely ill…”
 
-“I looked into him after he disappeared. His mother died ten years ago.”
+“I looked into it after that fellow disappeared. His mother died ten years ago.”
 
 “……Really?”
 
 “The other one said he was going to the latrine, then slipped away and never came back. Am I wrong?”
 
-“Ahem! Ahem!”
+“Cough. Cough-cough!”
 
-“My lord, you’ve trained in martial arts, so you can go without sleep for several nights and remain perfectly fine. Those men can’t. They’re ordinary commoners who have never read a single line of a cultivation technique formula in their lives.”
+“My lord, you’ve trained in martial arts, so you can stay up for several nights and remain perfectly fine. But those men are different. They’re commoners who have never read a single line of a cultivation technique formula in their entire lives.”
 
 “Ah, I know that. That’s why I’m paying them generously.”
 
-“Another fifteen days and that silver would have gone to their surviving families.”
+“If they had stayed another fifteen days, that silver would have gone to their survivors.”
 
 “……”
 
-“Anything else to say?”
+“Do you have anything else to say?”
 
 “……No.”
 
-“Then start working. From now on, if the scholars who come looking for work seem useful, hire them all.”
+“If you have nothing else to say, start working. From now on, accept any scholars who seem useful when they come looking for work.”
 
 Jin Wikyung nodded gloomily and reached for a bamboo slip.
 
@@ -84,19 +84,19 @@ That was when one of the martial artists from the guard detail waiting outside t
 
 “Who did you say?”
 
-Wipeng answered Jin Wikyung’s question.
+In response to Jin Wikyung’s question, Wipeng answered.
 
 “A messenger sent by the Deputy Military Commissioner of Shanxi Province.”
 
-“I heard that much. But the Deputy Military Commissioner is… the man said to be Prince Shangshan’s closest aide and the true power behind him?”
+“I heard that much. But the Deputy Military Commissioner is… that man who’s supposedly Prince Shangshan’s closest aide and the real power behind him?”
 
-“Yes. There was plenty of talk about a mere palace attendant securing such a high-ranking military post.”
+“Yes. There used to be plenty of talk about how a palace attendant had managed to secure a high-ranking military post.”
 
-“Right. I remember.”
+“Right. I remember hearing that.”
 
 Jin Wikyung had heard the rumors about the palace attendant who sat at the top of the military hierarchy and single-handedly kept the young prince under his thumb.
 
-“We’ve never even met. What could he want all of a sudden?”
+“We’ve never even met him. What could he want all of a sudden?”
 
 “What do you think?”
 
@@ -106,15 +106,15 @@ Jin Wikyung had heard the rumors about the palace attendant who sat at the top o
 
 “Yes.”
 
-“Ah, and call Mukyung too, just in case.”
+“Ah, and just in case, call Mukyung as well.”
 
 “Understood.”
 
 Not long after Wipeng nodded to one of his subordinates, a man entered the office.
 
-His movements were precise and disciplined, and he wore light armor.
+He moved with measured precision and wore light armor.
 
-One glance was enough to tell that he belonged to the military. This was the messenger Hong Jin had sent.
+Anyone could tell at a glance that he belonged to the military. He was the messenger Hong Jin had sent.
 
 “Are you the Lesser Family Head of the Jin Family of Taiyuan?”
 
@@ -122,9 +122,9 @@ Jin Wikyung nodded.
 
 “I am Jin Wikyung. Let’s skip the tedious formalities between us. What brings you here?”
 
-“I have come to deliver a message from the Deputy Military Commissioner.”
+“I have come to convey the Deputy Military Commissioner’s words.”
 
-“Does this concern my younger brother?”
+“Is this related to my younger brother?”
 
 “Yes. He is on his way here now, together with the Deputy Military Commissioner.”
 
@@ -136,25 +136,25 @@ Jin Wikyung silently stroked his chin as he listened.
 
 Hong Jin was effectively the second-most powerful man in Shanxi Province. He wasn’t the sort of person who moved without a reason.
 
-A letter alone would have been unexpected from a man with whom they had never had any connection. The fact that he was coming in person made it all the more bewildering.
+It would have been surprising enough if someone who had never had any connection with them sent nothing but a letter. The fact that he was coming in person made the situation all the more bewildering.
 
 “I don’t recall making an appointment.”
 
 Wipeng added a remark with a face dripping with frost.
 
-“No matter how high-ranking an official the Deputy Military Commissioner may be, this is a clear insult to our family. Are you aware of that?”
+“No matter how high-ranking an official the Deputy Military Commissioner is, this is clearly an insult to our family. Are you aware of that?”
 
 “Th-that…”
 
-Beads of sweat formed on the messenger’s forehead.
+Sweat gathered on the messenger’s forehead.
 
-He had received some minor training in military martial arts. Faced with the gaze of the Peak master known as the Ghost Sword, he felt his heart drop.
+He had trained in military martial arts, however slightly. When faced with the gaze of the Peak master known as the Ghost Sword, his heart couldn’t help but sink.
 
-“What business brings him here?”
+“What business does he have here?”
 
 “I-I was only ordered to deliver his message…”
 
-He acts as though he owns the place.
+“He certainly knows how to pull rank.”
 
 The messenger, who had become so nervous he could hardly sit still, was rescued by Jin Wikyung.
 
@@ -162,7 +162,7 @@ The messenger, who had become so nervous he could hardly sit still, was rescued 
 
 “He told me to convey his apologies in advance for his sudden rudeness. And…”
 
-The messenger took a small cylinder from inside his robes and handed it to Jin Wikyung. Inside the palm-sized cylinder was a rolled sheet of white paper.
+The messenger pulled a small cylinder from inside his robes and handed it to Jin Wikyung. Inside the cylinder, which was about the size of an adult’s palm, was a rolled-up sheet of white paper.
 
 “What is this?”
 
@@ -184,7 +184,7 @@ Jin Wikyung stared silently at the paper in his hand for a while before raising 
 
 “You’re here.”
 
-“Yes. I was training when I heard you were looking for me… Why did you call me?”
+“Yes. I heard you were looking for me while I was training… What did you call me for?”
 
 “We have an honored guest coming. We need to prepare to go out and greet him.”
 
@@ -196,11 +196,11 @@ Wipeng frowned and objected.
 
 “He’s coming without even giving us notice. What kind of honored guest is that? He’s an uninvited guest.”
 
-He didn’t restrain himself even with the messenger standing right there. Considering the Jin Family of Taiyuan’s current standing in Shanxi, he wasn’t entirely wrong.
+He showed no restraint despite the messenger standing right in front of him. Considering the position the Jin Family of Taiyuan currently held in Shanxi, it wasn’t an entirely wrong thing to say.
 
 Jin Wikyung quietly handed him the paper.
 
-“Look at this, then say that again.”
+“Look at this, then we’ll talk again.”
 
 “What is it?”
 
@@ -218,7 +218,7 @@ A moment later, his lips parted.
 
 “Yes. Exactly.”
 
-The two men turned toward Jin Mukyung, who was still standing there without a clue what was happening.
+The two men turned their gazes toward Jin Mukyung, who was still standing there with no idea what was going on.
 
 “Mukyung.”
 
@@ -228,7 +228,7 @@ The two men turned toward Jin Mukyung, who was still standing there without a cl
 
 “You said you came straight from training, right?”
 
-“You smell of sweat.”
+“You smell like sweat.”
 
 “It’s only natural to sweat when you train.”
 
@@ -236,7 +236,7 @@ The two men turned toward Jin Mukyung, who was still standing there without a cl
 
 “Wash immediately.”
 
-Baffled by their reaction, Jin Mukyung asked in frustration,
+Unable to understand the reason for their reactions, Jin Mukyung asked with a frustrated expression,
 
 “Who on earth is coming to make you act like this?”
 
@@ -248,11 +248,11 @@ Jin Wikyung and Wipeng answered at the same time.
 
 Wipeng waved the paper in his hand. It was a thousand-nyang bank draft issued by the Golden Star Exchange, valid anywhere under heaven.
 
-“This isn’t just a thousand nyang. It’s a thousand silver nyang.”
+“This isn’t just a thousand nyang. It’s a thousand nyang of silver.”
 
-A thousand silver nyang was worth one hundred thousand nyang in iron coins. To the Jin Family of Taiyuan, which was already pouring money out in every direction, it was a fortune as welcome as rain during a drought.
+A thousand silver nyang was worth one hundred thousand nyang in iron coins. To the Jin Family of Taiyuan, which was already pouring money out in every direction, it was a fortune like rain after a drought.
 
-For the first time in a long while, Jin Wikyung gave his second brother a stern look.
+For the first time in a long while, Jin Wikyung gave his younger brother a stern look.
 
 “Mukyung, let’s go wash up.”
 
@@ -272,9 +272,9 @@ There was no way I could stop myself from swearing. Atop the towering wall, a fl
 
 I was too embarrassed to lift my head when Hong Jin climbed down behind me and burst out laughing, clutching his stomach.
 
-“Wow. This is even more than I expected.”
+“Wow. This is beyond what I expected.”
 
-“Are you and my eldest brother old ball buddies or something? How else did you get such an enthusiastic welcome…?”
+“Are you perhaps childhood friends with my eldest brother? How else could he give you such an enthusiastic welcome…?”
 
 “Young Master Jin, I don’t have balls.”
 
@@ -284,17 +284,17 @@ That was a tremendous blunder. Without a stick, there was no way any fertilized 
 
 As I writhed under the weight of my guilt, Cheongpung approached and comforted me.
 
-“Benefactor, my grandfather used to say that people who don’t know how to read the room have no friends around them. But don’t worry. I’ll be your ball buddy.”
+“Benefactor, my grandfather used to say that people who don’t know how to read the room have no friends around them. But don’t worry. I’ll be your ball friend.”
 
 “……”
 
 *I don’t need one, you bastard.*
 
-As I struggled to swallow the curse, Hong Jin spoke.
+As I desperately swallowed my curses, Hong Jin spoke to me.
 
-“Young Master Jin, do you know what binds people together? Wealth. They say gold and silver can make even ghosts work for you. Living people should be even easier, don’t you think?”
+“Young Master Jin, do you know what makes relationships between people strong? Wealth. They say gold and silver can make even ghosts work for you. Living people should be even easier, don’t you think?”
 
-“So?”
+“And?”
 
 “I told you I’d give him a present. It’s basically a bribe.”
 
@@ -314,19 +314,19 @@ Perhaps that displeasure showed on my face, because Hong Jin smiled and said,
 
 Hong Jin’s eyes widened at my low voice.
 
-“A few silver nyang? I gave him a thousand.”
+“A few silver nyang? I gave him a thousand nyang.”
 
-“A measly… How much?”
+“Just a few silver… How much?”
 
-“A thousand silver nyang. One hundred thousand nyang in iron coins.”
+“A thousand silver nyang. That’s one hundred thousand nyang in iron coins.”
 
-By now, I had a rough grasp of Murim prices and currency.
+I had finally gotten a rough sense of prices and currency in the Murim.
 
 The private suite at the Phoenix Inn, which could be considered a luxury hotel, cost fifty silver nyang per night. That was said to be close to twice the annual living expenses of a family of four commoners.
 
-*In modern money, that would be tens of millions of won.*
+*In modern currency, that would be tens of millions of won.*
 
-A thousand silver nyang was twenty times that. In other words, Hong Jin had casually tossed several hundred million won at them in one go.
+A thousand silver nyang was twenty times that. In other words, Hong Jin had casually tossed around several hundred million won in one go.
 
 “That’s… a lot, isn’t it?”
 
@@ -342,17 +342,17 @@ A thousand silver nyang was twenty times that. In other words, Hong Jin had casu
 
 Hong Jin continued with a wink.
 
-“I also spent a little extra because I’ve taken quite a liking to you, Young Master Jin. You know how I feel, don’t you?”
+“I did spend a little extra because I took a particular liking to Young Master Jin. You understand my feelings, right?”
 
 The moment he finished speaking, I felt a hard foreign object against my butt.
 
-The repeated poking sensation jolted me wide awake.
+The sensation poking me repeatedly snapped me fully awake.
 
 *No way. Is this bastard seriously…?*
 
-I swear, it was the most spine-chilling moment of my entire life.
+I swear, in my entire life, this was the most spine-chilling moment I had ever experienced.
 
-*Fine. You die, I die. Let’s have another war!*
+*Fine, if you’re going down, I’m going down too. Let’s have another war!*
 
 I spun around at lightning speed.
 
@@ -360,7 +360,7 @@ What met my eyes was a silver lump about half the size of my palm. What did they
 
 “Here. Pocket money from me.”
 
-*Oh, right. He’s a eunuch.*
+*Oh, right. He was a eunuch.*
 
 I calmed my pounding heart and answered.
 
@@ -368,13 +368,13 @@ I calmed my pounding heart and answered.
 
 “Sure. Go buy some candied hawthorn skewers.[^1]”
 
-“Benefactor, could you take me with you when you buy them?”
+“Benefactor, could you take me with you when you go buy them?”
 
-Cheongpung smacked his lips as he joined in.
+Cheongpung joined in, smacking his lips.
 
 Just then, a familiar voice rang out from behind us.
 
-“Heh heh. I’ll tell the cooks separately, so ask for as many as you like. Isn’t that right, Wipeng?”
+“Heh heh. I’ll tell the cooks separately, so order as much as you like. Right, Wipeng?”
 
 “We’ll build a mountain of candied hawthorn skewers.”
 
@@ -400,10 +400,10 @@ In the hands of all three men, tiny scraps of cloth fluttered in the wind. I had
 
 *What had I said to Hong Jin earlier?*
 
-*Had I told him not to think he’d won over the Lesser Family Head of the mighty Jin Family of Taiyuan with a measly few silver nyang?*
+*Had I told him not to think he’d won over the Lesser Family Head of the mighty Jin Family of Taiyuan with a mere few silver nyang?*
 
 *Fuck, “won him over” my ass.*
 
 At this point, he was burned—burned to a crisp.
 
-[^1]: Candied hawthorn skewers are a traditional snack made by coating fruit in hardened sugar.
+[^1]: Candied hawthorn skewers are a traditional snack of fruit coated in hardened sugar.

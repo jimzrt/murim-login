@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "He acts as though he owns the place.",
+      "defect": "A spoken remark by Wipeng is rendered as unquoted narration, obscuring the speaker and changing the delivery.",
+      "id": "F01",
+      "rationale": "The Korean sentence appears in quotation marks and is followed by narration describing the messenger’s reaction, establishing it as dialogue.",
+      "replacement": "“He acts as though he owns the place.”",
+      "severity": "minor",
+      "source": "Korean lines 159–161"
+    }
+  ],
+  "summary": "The chapter is faithful overall, with one dialogue-formatting defect.",
+  "version": 1
+}
