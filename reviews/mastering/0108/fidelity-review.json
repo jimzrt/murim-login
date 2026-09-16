@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "“Then bring me a certified deed.”",
+      "defect": "“Certified deed” replaces the established deliberately unfamiliar property-document term with an ordinary, readily understood ownership document, weakening the joke that none of the men recognize the terminology.",
+      "id": "F01",
+      "rationale": "The source uses 부동산 내용 증명서, and the following narration explicitly depends on the term being unknown to the men. The accepted baseline preserves it as “certified property document.”",
+      "replacement": "“Then bring me a certified property document.”",
+      "severity": "minor",
+      "source": "lines 65–71"
+    },
+    {
+      "confidence": 0.97,
+      "current": "I clicked my tongue as they whispered among themselves about certified deeds.",
+      "defect": "The repeated reference does not preserve the established wording of the property-document joke.",
+      "id": "F02",
+      "rationale": "This refers directly back to the term introduced at line 65 and should remain identical for continuity and joke logic.",
+      "replacement": "I clicked my tongue as they whispered among themselves about the certified property document.",
+      "severity": "minor",
+      "source": "line 71"
+    },
+    {
+      "confidence": 0.94,
+      "current": "An overwhelming wave of qi poured from his entire body and crushed the entire scene.",
+      "defect": "“Crushed the entire scene” is not the source’s physical action and makes the target of the pressure unclear.",
+      "id": "F03",
+      "rationale": "장내를 짓눌렀다 describes Jin Mukyung’s qi bearing down oppressively on the people throughout the area, not crushing a figurative “scene.”",
+      "replacement": "An overwhelming wave of qi poured from his entire body and pressed down on everyone present.",
+      "severity": "minor",
+      "source": "line 209"
+    },
+    {
+      "confidence": 1.0,
+      "current": "throwing silver around at a pleasure house",
+      "defect": "The currency is generalized to “silver,” losing the binding unit name.",
+      "id": "F04",
+      "rationale": "The source explicitly uses 은자, whose required glossary rendering is “silver nyang.”",
+      "replacement": "throwing silver nyang around at a pleasure house",
+      "severity": "minor",
+      "source": "line 347"
+    }
+  ],
+  "summary": "The chapter is highly faithful, with four minor terminology and physical-description regressions.",
+  "version": 1
+}
