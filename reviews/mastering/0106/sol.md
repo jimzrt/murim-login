@@ -8,11 +8,11 @@
 
 “What kind of business?”
 
-“I don’t think I can tell you that. I’m rather clear about keeping business and personal matters separate myself.”
+“I don’t think I can tell you. I’m rather strict about keeping business and personal matters separate myself.”
 
 *Talk about getting paid back tenfold.*
 
-My own words had come straight back to bite me. Wolhwa’s smile deepened as she watched me grow awkward.
+My own words had come straight back to bite me. Wolhwa’s smile deepened at my awkward expression.
 
 “I’m only joking. I happen to have something to collect from the Mount Heng Sword Sect. More precisely, something I’m supposed to receive from the Jin Family of Taiyuan.”
 
@@ -28,13 +28,13 @@ The Jin Family of Taiyuan had continued receiving help from the Lower District S
 
 “As you know, Young Master Jin, our position has become rather awkward. We won the war, but we can’t lay our hands on the spoils.”
 
-The strong devouring the weak. That was the law of Murim.
+The strong devoured the weak. That was the law of Murim.
 
-But the appearance of the Head Elder had ruined everything. The moment it came to light that the Jin Family of Taiyuan and the Mount Heng Sword Sect had both been manipulated by him, the justification for claiming the spoils had grown faint.
+But the appearance of the Head Elder had ruined everything. The moment it came to light that the Jin Family of Taiyuan and the Mount Heng Sword Sect had both been manipulated by him, our justification for claiming the spoils had all but vanished.
 
 *So that’s why we’re pursuing a merger.*
 
-Now was the time to sheathe our swords and negotiate with a brush. Jin Wikyung’s vision was to quietly and amicably absorb the Mount Heng Sword Sect within limits that would keep the world from condemning us.
+Now was the time to sheathe our swords and negotiate with a brush. Jin Wikyung’s plan was to absorb the Mount Heng Sword Sect quietly and amicably, without giving the rest of the world cause to condemn us.
 
 Wolhwa wanted her reward before that happened.
 
@@ -48,11 +48,11 @@ For a moment, she gave me a meaningful look, then shook her head.
 
 “Besides what?”
 
-“No, it’s nothing. Anyway, I did receive a proposal from the Lesser Family Head.”
+“It’s nothing. Anyway, I did receive an offer from the Lesser Family Head.”
 
 Wolhwa took a puff from her long-stemmed tobacco pipe before continuing.
 
-“He said he would transfer wealth equivalent to what he had promised, or hand over some of the areas managed by the Jin Family of Taiyuan.”
+“He offered either wealth equivalent to what was promised or control of some territory managed by the Jin Family of Taiyuan.”
 
 That sounded reasonable enough, but it looked different from the perspective of someone leading an organization rather than acting as an individual.
 
@@ -62,7 +62,7 @@ Wolhwa was neither a courtesan nor an innkeeper at heart. She was an information
 
 She clearly wanted to use this opportunity to expand the Lower District Sect’s influence into northern Shanxi, where the Mount Heng Sword Sect’s blockade had kept it relatively weak.
 
-*Jin Wikyung, naturally, wants the Jin Family of Taiyuan to encompass all of Shanxi.*
+*And Jin Wikyung naturally wants the Jin Family of Taiyuan to hold sway over all of Shanxi.*
 
 The Jin Family of Taiyuan had already wielded enormous influence over central and southern Shanxi for a long time. Handing over a few prime territories wouldn’t diminish what they had built.
 
@@ -84,19 +84,19 @@ I answered without another thought.
 
 “Wow, aren’t you being a little too decisive? You cut me off without even hearing the terms.”
 
-“As his younger brother, I can’t go around splashing filth on my hyung’s path.”
+“As his younger brother, I can’t go splashing filth across my hyung’s path.”
 
-We might not have shared a drop of blood, but I had long since accepted his existence—and this Murim—as my own.
+We might not have shared a drop of blood, but somewhere along the way, I had accepted him—and this Murim—as my own.
 
 “Hmm.”
 
-Wolhwa stared at me for a moment before setting her pipe down with a sharp tap.
+Wolhwa studied me for a moment before setting her pipe down with a sharp tap.
 
 “All right, then.”
 
-“Ah. Yes.”
+“Ah. Okay.”
 
-I had expected her to tempt me a few more times, but she gave up right away.
+I had expected her to tempt me a few more times, but she gave up immediately.
 
 Well, I was glad the conversation had ended quickly. That made things easier for me.
 
@@ -106,13 +106,13 @@ I gave Hyuk Mujin, who was still sitting there with his mouth sealed shut, a lig
 
 “Oh, could you tell Young Hero Jin something for me? The old pines in the rear courtyard are expensive, so please ask him to be careful while training.”
 
-This was an inn run by the greatest information merchant in Shanxi. Ever since we entered this place, she had probably seen right through us, down to our innards.
+This was an inn run by the greatest information merchant in Shanxi. From the moment we entered, she had probably been able to see right through us, down to our innards.
 
 “Sure.”
 
-“And tell me if you need anything. It’s a request from our Young Master Jin, so I have to procure anything you might need.”
+“And let me know if you need anything. If our Young Master Jin asks, I’ll have to procure whatever he needs.”
 
-She winked. I glanced at her and left the room, only to remember something I had momentarily forgotten.
+She winked. I gave her a sidelong glance and left the room, only to remember something I had momentarily forgotten.
 
 “Mujin, why do you run your mouth so carelessly?”
 
@@ -124,7 +124,7 @@ One of us hit, and the other took the hits.
 
 When we returned to the private residence, several old pine trees stood neatly severed, with Jin Mukyung waiting beside them looking thoroughly satisfied.
 
-“There’s a certain satisfaction to cutting.”
+“They were satisfying to cut.”
 
 “……”
 
@@ -136,21 +136,21 @@ When we returned to the private residence, several old pine trees stood neatly s
 
 The guest room fell quiet. Wolhwa smoked her long-stemmed tobacco pipe for a long while, and it was only well after Jin Taekyung had left that she finally spoke.
 
-“Did you look into what I instructed you to investigate?”
+“Did you look into what I told you to investigate?”
 
 A member of the Lower District Sect who had been waiting outside the room answered in a low voice.
 
 “What you confirmed four days ago is all we have. We’re still gathering additional information, but…”
 
-“Nothing else is going to turn up?”
+“Nothing else is likely to turn up?”
 
 “It’s unlikely.”
 
-“Unlikely? Then there’s still a chance. Keep digging. I’ll give you plenty of time, so don’t rush. You know we won’t come out of it well either if we provoke the Jin Family of Taiyuan right now.”
+“Unlikely? Then there’s still a chance. Keep digging. I’ll give you plenty of time, so don’t rush. You know we won’t come out of it well if we provoke the Jin Family of Taiyuan right now.”
 
 “Yes, Branch Leader.”
 
-The Lower District Sect member was about to withdraw when Wolhwa stopped him with one more question.
+The Lower District Sect member was about to withdraw when Wolhwa stopped him with another question.
 
 “A Third Rate wastrel became the Sleeping Dragon of Shanxi in less than two months. What do you think?”
 
@@ -160,7 +160,7 @@ The Lower District Sect member was about to withdraw when Wolhwa stopped him wit
 
 Wolhwa let out a short, incredulous laugh. The rumor had begun spreading after Jin Taekyung defeated Jopil, One Question, One Kill.
 
-According to the rumor, everything Jin Taekyung had shown until then had been an act. In truth, he had trained in martial arts from childhood with the family’s full support.
+According to the story, everything Jin Taekyung had shown until then had been an act. In truth, he had trained in martial arts from childhood with the family’s full support.
 
 By now, the story had spread so widely that there was hardly anyone in Shanxi who hadn’t heard it.
 
@@ -168,11 +168,11 @@ By now, the story had spread so widely that there was hardly anyone in Shanxi wh
 
 “It’s ridiculous nonsense. But…”
 
-“People believe it. Not because they’re stupid, but because they have no choice but to believe it. But we’re different.”
+“People believe it. Not because they’re stupid, but because they have no choice. But we’re different.”
 
 Shanxi was a remote frontier the Central Plains barely even acknowledged, but the Lower District Sect had never stopped gathering information there.
 
-That went without saying when it came to the direct descendants of the Jin Family of Taiyuan, one of Shanxi’s most powerful families. Their only mistake had been failing to accurately assess the Head Elder, who had been active during the chaotic period of war.
+That went without saying when it came to the direct descendants of the Jin Family of Taiyuan, one of Shanxi’s most powerful families. Their only mistake had been failing to properly assess the Head Elder, who had operated during the chaos of the war.
 
 But their information on Jin Taekyung was nearly perfect.
 
@@ -180,13 +180,13 @@ But their information on Jin Taekyung was nearly perfect.
 
 “That was the first order you gave after taking office as Branch Leader two years ago.”
 
-“That’s right. Monitor the entire situation in Shanxi. And investigate Jin Taekyung in depth.”
+“That’s right. Monitor all of Shanxi—and investigate Jin Taekyung in depth.”
 
-Talent tended to run in families. The direct descendants of the Jin Family of Taiyuan had possessed exceptional martial talent for generations, and the current Family Head and his two sons, all regarded as eccentrics, were no exception.
+Talent tended to run in families. The direct descendants of the Jin Family of Taiyuan had possessed exceptional martial talent for generations, and the current Family Head and his two sons, all regarded as remarkable figures, were no exception.
 
 Jin Taekyung stood out among them as something almost alien. That was why the Lower District Sect had begun its investigation.
 
-“The result was anticlimactic.”
+“The results were anticlimactic.”
 
 “He was exactly what he appeared to be.”
 
@@ -198,7 +198,7 @@ Other than slightly superior bones, sinews, and meridians—perhaps thanks to hi
 
 “I know. I know very well.”
 
-Wolhwa had cultivated her martial arts to a fairly mature stage even within the First Rate realm. There was no way she didn’t understand that.
+Wolhwa herself had cultivated her martial arts to a fairly advanced stage of the First Rate realm. There was no way she wouldn’t understand.
 
 She drew repeatedly on her pipe in frustration, then released a long breath.
 
@@ -206,7 +206,7 @@ She drew repeatedly on her pipe in frustration, then released a long breath.
 
 “That’s right.”
 
-Jin Taekyung had gone from Third Rate to a master beyond First Rate in a little over two months. Wolhwa was dumbfounded by the conclusion she had reached herself, but there was nothing she could do about it.
+Jin Taekyung had gone from Third Rate to a master beyond First Rate in a little over two months. Wolhwa found her own conclusion absurd, but there was no other explanation.
 
 “Forget the order I gave earlier. Don’t ask about him anymore, and don’t try to learn anything else. Issue a gag order and make sure no one even mentions this.”
 
@@ -228,9 +228,9 @@ Once her subordinate withdrew, silence settled over the guest room. Wolhwa tappe
 
 *Jin Taekyung.*
 
-If everything he had done until now was true, then the northern interests she needed to extract from the Mount Heng Sword Sect were nothing.
+If everything he had done was true, then the northern interests she needed to extract from the Mount Heng Sword Sect were worth nothing by comparison.
 
-*Has anyone in all history ever grown this quickly?*
+*Has anyone in all of history ever grown this quickly?*
 
 Her gaze darkened as she stared at the place where Jin Taekyung had been sitting.
 
@@ -238,7 +238,7 @@ Her gaze darkened as she stared at the place where Jin Taekyung had been sitting
 
 The next morning.
 
-I began to feel that something had gone wrong after meeting the person in charge of the private residence.
+I knew something had gone wrong the moment we met the manager of the private residence.
 
 “The lodging fee is twenty-five nyang, the food comes to five nyang, and the property damage fee is fifty nyang. The total is eighty silver nyang.”
 
@@ -246,11 +246,11 @@ Hyuk Mujin, who had been celebrating yesterday after emptying those mounted band
 
 “Property damage? Fifty silver nyang?”
 
-“When I went to the rear courtyard, I found that five old pine trees had fallen.”
+“When I inspected the rear courtyard, I found five old pine trees felled.”
 
 They were the trees Wolhwa had said were expensive.
 
-Hyuk Mujin and I turned our heads at the same time. Jin Mukyung, whose eyes met ours, flinched before opening his mouth.
+Hyuk Mujin and I turned our heads at the same time. Jin Mukyung met our eyes and flinched before speaking.
 
 “I got carried away while practicing my swordsmanship.”
 
@@ -258,7 +258,7 @@ Hyuk Mujin and I turned our heads at the same time. Jin Mukyung, whose eyes met 
 
 “Hoooo.”
 
-Hyuk Mujin couldn’t say anything. He merely let out one furious sigh after another.
+Hyuk Mujin couldn’t bring himself to say anything. He merely let out one furious sigh after another.
 
 One look told me the bill exceeded the money we had left. If it had only been a little over, maybe we could have talked it out and found some middle ground…
 
@@ -270,19 +270,19 @@ One look told me the bill exceeded the money we had left. If it had only been a 
 
 “Could we put it on credit?”
 
-That was the exact moment the kind smile around the private-residence manager’s lips disappeared.
+That was the exact moment the pleasant smile vanished from the manager’s lips.
 
 “Young Master Jin, what are you doing here?”
 
-A beautiful woman in a light, flowing palace-style dress was approaching us.
+A beautiful woman in a light, flowing palace-style dress approached us.
 
 Right now, Wolhwa’s appearance was nothing short of a lifeline.
 
-I felt bad about turning down her proposal so decisively the night before, but this was no time to be picky.
+I felt a little guilty about rejecting her proposal so firmly last night, but this was no time to be picky.
 
 “Well, you see…”
 
-When I explained the situation, Wolhwa’s eyes grew round.
+When I explained the situation, Wolhwa’s eyes widened.
 
 “Eighty nyang? That can’t be right.”
 
@@ -290,9 +290,9 @@ When I explained the situation, Wolhwa’s eyes grew round.
 
 “Give me that.”
 
-She took the bamboo slip from the manager and began to read.
+She took the bamboo slip from the manager and began reading.
 
-The deeper her frown grew, the clearer it seemed that the arithmetic had been badly botched.
+Her frown deepened by the second. The calculation had clearly been botched.
 
 *Knew it.*
 
@@ -308,7 +308,7 @@ Hyuk Mujin whispered to me.
 
 “What a relief.”
 
-“Yeah. We almost had to wash dishes before leaving.”
+“Seriously. We almost had to wash dishes before we left.”
 
 “Why do we have to suffer because of the Second Young Master?”
 
@@ -324,7 +324,7 @@ Meanwhile, the manager revised the prices, sweating profusely. Then he bowed dee
 
 Hyuk Mujin accepted the apology with an arrogant air.
 
-“Don’t do that again. You have to know who you’re dealing with before pulling a prank. So how much is it?”
+“Don’t do it again. You should know who you’re dealing with before pulling a stunt like that. So how much is it?”
 
 “One hundred and five silver nyang and twenty-three iron coins.”
 
@@ -344,15 +344,15 @@ My head turned toward Wolhwa of its own accord.
 
 “But…”
 
-I asked in a thoroughly choked voice.
+My throat tightened as I asked,
 
 “We can put it on credit, right? Of course.”
 
-“No, you can’t. Of course not. We haven’t allowed that even once in the past two years.”
+“No, you can’t. Of course not. We haven’t allowed it once in the past two years.”
 
 “How about making an exception and setting a precedent this time?”
 
-“I don’t have any plans to do that yet. You’ll have to aim for the next opportunity.”
+“I don’t plan to do that just yet. You’ll have to try again next time.”
 
 Wolhwa added with a radiant smile,
 
@@ -368,15 +368,15 @@ I squeezed my eyes shut and continued.
 
 “Wow, I’d love to.”
 
-*That hateful smile.*
+*That damn smile.*
 
 At Wolhwa’s gesture, the manager snatched up the bamboo slip and vanished at the speed of light.
 
 “We won’t have to worry about travel expenses anymore.”
 
-While Hyuk Mujin was the sort of person who simply accepted reality, someone else was shouting vehement opposition.
+While Hyuk Mujin was quick to accept reality, someone else vehemently opposed the idea.
 
-“Nonsense! How can you bring a woman along while carrying out a family mission?”
+“Nonsense! How can we bring a woman along while carrying out a mission for the family?”
 
 “Then stay here and wash dishes.”
 
@@ -384,6 +384,6 @@ While Hyuk Mujin was the sort of person who simply accepted reality, someone els
 
 “Who here cut down the old pine trees? Raise your hand.”
 
-Jin Mukyung didn’t raise his hand. Wolhwa slightly lifted the hem of her skirt and greeted him.
+Jin Mukyung didn’t raise his hand. Wolhwa lifted the hem of her skirt slightly and greeted him.
 
 “Please take good care of me, Young Hero Jin.”

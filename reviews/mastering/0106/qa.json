@@ -1,0 +1,55 @@
+{
+  "chapter": 106,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.398,
+    "source_characters": 6234,
+    "source_paragraphs": 194,
+    "translation_characters": 14949,
+    "translation_paragraphs": 195
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "청해",
+        "preferred": "Qinghai"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "인도",
+        "preferred": "Human Butcher"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "산서성",
+        "preferred": "Shanxi Province"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "근맥",
+        "preferred": "Sinews and Meridians"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
