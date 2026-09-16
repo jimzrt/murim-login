@@ -22,7 +22,7 @@ The man before me was no longer a renowned Peak master of formidable reputation.
 
 “Red Wind Band… inside… Seowol’s in danger…”
 
-Even without hearing Cheol Mubaek’s halting words, everyone here understood how serious the situation was. Everywhere we looked, there were corpses and pools of blood.
+Even without Cheol Mubaek’s halting explanation, everyone understood how serious the situation was. Everywhere we looked, there were corpses and pools of blood.
 
 *But it’s not too late yet.*
 
@@ -31,7 +31,7 @@ Even without hearing Cheol Mubaek’s halting words, everyone here understood ho
 
 We had made it just in time. The problem was that the bastard who had reduced the Tiger of Mount Heng to this state was still inside.
 
-Wolhwa seemed to be thinking the same thing. She calmed Cheol Mubaek as she asked,
+Wolhwa seemed to be thinking the same thing. She tried to calm Cheol Mubaek as she asked him a question.
 
 “Sir Cheol, did Pung Yang join forces with another master to attack you?”
 
@@ -39,7 +39,7 @@ Cheol Mubaek weakly shook his head.
 
 “You’re saying Pung Yang defeated you by himself?”
 
-“R-red pill. Be careful of that bastard…”
+“R-red pill. Watch out for him…”
 
 A red pill?
 
@@ -51,25 +51,25 @@ I wanted to ask more, but Cheol Mubaek had reached his limit. His lips moved sou
 
 “Oh. So he is. His breathing was so faint that I…”
 
-Hyuk Mujin, you bastard. What kind of person kills even the living?
+This bastard Hyuk Mujin was pronouncing living people dead now…
 
-Still, he wasn’t entirely wrong. Cheol Mubaek’s thin breath was so precarious that it could stop at any moment.
+Still, he wasn’t entirely wrong. Cheol Mubaek’s breathing was so weak that it could stop at any moment.
 
 That was when Wolhwa pulled a small porcelain bottle from inside her robes.
 
-“Could you lift his head a little?”
+“Could you lift his head?”
 
-She tipped the bottle into the unconscious Cheol Mubaek’s mouth.
+She tipped the bottle over the unconscious Cheol Mubaek’s mouth.
 
-As an unidentified green liquid trickled down his throat, color gradually returned to his pale face. It seemed to be a remarkably effective medicine.
+An unidentified green liquid trickled down his throat, and color gradually returned to his pale face. Whatever it was, it seemed remarkably effective.
 
-“This will help him catch his breath, but it’s only a temporary measure. In his current condition, he couldn’t even handle a child. You understand, right?”
+“This will buy him some time, but it’s only a temporary measure. In his current condition, he couldn’t even handle a child. You understand, right?”
 
-In short, someone had to stay behind to protect Cheol Mubaek in case something happened. I nodded without hesitation.
+In short, someone had to stay behind and protect Cheol Mubaek in case anything happened. I nodded without hesitation.
 
 “Then Mujin can—”
 
-“Two people stay behind.”
+“Two people will stay behind.”
 
 “Huh? Two people?”
 
@@ -77,7 +77,7 @@ What was he talking about? Jin Mukyung met my gaze, looking as though he couldn�
 
 “Why?”
 
-“No, you mean just the two of us should go?”
+“You mean just the two of us are going?”
 
 “Is there a problem?”
 
@@ -87,13 +87,13 @@ Of course there was.
 
 *Pung Yang turned a formidable Peak master like Cheol Mubaek into a half-dead wreck, and he still has all those mounted-bandit bastards under his command.*
 
-We needed every hand we could get, and he was suggesting this?
+We needed every hand we could get, and this guy wanted to leave two people behind?
 
-I didn’t know about Hyuk Mujin, whose abilities were still questionable, but Wolhwa absolutely had to come with us.
+Hyuk Mujin’s abilities were still questionable, but as far as I was concerned, Wolhwa absolutely had to come with us.
 
 “Can the two of you manage?” Wolhwa asked.
 
-I hurriedly opened my mouth.
+I quickly opened my mouth.
 
 “Obviously, that’s—”
 
@@ -103,38 +103,36 @@ Just as I was about to say it was impossible, Jin Mukyung fixed his deep, dark e
 
 “I said we can. Trust me.”
 
-His calm yet confident words left me speechless.
+The quiet confidence in his voice left me speechless.
 
-For a moment, I wondered if this was merely the reckless bravado of an immature young man. But then I realized I was shaking my head inwardly.
+For a moment, I wondered if it was merely the reckless bravado of an immature young man. Yet inwardly, I found myself rejecting the thought.
 
 *The Heaven Shaking Sword. A martial arts genius.*
 
-The guy standing before me was a monster born from the combination of effort and talent. From everything I had seen, he wasn’t foolish enough to throw his life away for nothing.
+The guy standing before me was a monster born from the combination of effort and talent. From everything I had seen, he wasn’t foolish enough to volunteer for a pointless death.
 
-And…
+And besides…
 
 > **System**  
 > **Time Limit:** 00:02:21
 
 Damn it. There was no time left to hesitate.
 
-I let out a deep sigh and asked Jin Mukyung,
+I let out a deep sigh and asked Jin Mukyung, “Are you sure?”
 
-“Are you confident?”
+“This is our best option. Anyone of middling skill would only become a burden.”
 
-“This is the best option. Anyone of middling skill would only become a burden.”
+Wolhwa laughed quietly.
 
-Wolhwa let out a quiet laugh.
+“My, aren’t you honest?”
 
-“My, you’re awfully honest.”
-
-“…I apologize for that.”
+“…I apologize.”
 
 “Well, that’s all right. You’re not wrong.”
 
 That was the first time I had ever seen him apologize to anyone.
 
-Hyuk Mujin interrupted this rare spectacle.
+Hyuk Mujin interrupted the rare spectacle.
 
 “Second Young Master, I’m a martial artist too!”
 
@@ -142,7 +140,7 @@ Hyuk Mujin interrupted this rare spectacle.
 
 “On my own…?”
 
-“I guarantee that once the fighting begins, the enemy will target you first. There’s nothing wrong with fighting bravely as a martial artist and dying.”
+“I guarantee that once the fighting begins, the enemy will target you first. I suppose there are worse deaths than fighting bravely to the end like a true martial artist.”
 
 After a brief silence, Hyuk Mujin answered with a resolute expression.
 
@@ -154,7 +152,7 @@ Sometimes I wondered if that guy was even human.
 
 *If I had the time, I’d beat the hell out of him.*
 
-But even now, time continued to pass.
+But even now, the clock kept ticking.
 
 > **System**  
 > **Time Limit:** 00:01:09
@@ -167,29 +165,29 @@ I tightened my grip on the spear I had already taken out and spoke to Jin Mukyun
 
 “Usually, at a time like this, aren’t you supposed to volunteer to take the leader?”
 
-“Yeah. Throw away that stereotype.”
+“Yeah. Let go of that stereotype.”
 
 “You’re ridiculous.”
 
-“Let’s just say I know my place.”
+“Let’s just say I know my limits.”
 
 “Fighting spirit and competitive pride help a martial artist grow.”
 
-“And hasten his death. I’ve learned to pick my opponents carefully, so use all that overflowing fighting spirit and competitive pride to deal with Pung Yang.”
+“And hasten his death. I’ve learned to pick my opponents, so use all that overflowing fighting spirit and competitive pride to deal with Pung Yang.”
 
 “You certainly have a way with words.”
 
-“Oh, and when we get inside, approach as quietly as possible. Then ambush them when I give the signal. Got it?”
+“Oh, and once we’re inside, we’ll approach as quietly as possible and ambush them when I give the signal. Got it?”
 
 “Ambush?”
 
-“Use the essence of an ambush to inflict as much damage as possible at the beginning. While the enemies are thrown into confusion, we’ll get to the Sect Leader of the Mount Heng Sword Sect…”
+“We use the element of surprise to inflict as much damage as possible right at the start. While the enemy is in chaos, we get to the Sect Leader of the Mount Heng Sword Sect…”
 
 “I see.”
 
 “Good. It’s nice to be understood for once.”
 
-That took care of the preparations. Forty seconds. Thirty-nine. Thirty-eight.
+That settled everything. Forty seconds. Thirty-nine. Thirty-eight.
 
 I watched the numbers fall and was about to head for the gate when—
 
@@ -222,19 +220,17 @@ Though Pung Yang was highly skilled with throwing knives, he couldn’t make ful
 
 Even Pung Yang possessed only three of these precious pills. Using one had allowed him to defeat Cheol Mubaek, but the aftereffects were considerable.
 
-He hid his hands, trembling like aspen leaves, beneath his sleeves and said,
-
-“Bring everyone who’s still breathing.”
+He hid his trembling hands beneath his sleeves and said, “Bring everyone who’s still breathing.”
 
 “Yes, Leader.”
 
-Not long after the order was given, martial artists from the Mount Heng Sword Sect were dragged over, bound hand and foot. Darkness settled over Lee Seowol’s face.
+Not long after the order was given, the surviving martial artists of the Mount Heng Sword Sect were dragged over, bound hand and foot. Lee Seowol’s expression darkened.
 
 “What are you planning to do?”
 
 Pung Yang smiled.
 
-“You can probably guess. First, I’ll cut off their limbs one by one in front of you. Arms, legs, this and that. It won’t be a pleasant sight, so I recommend closing your eyes.”
+“You can probably guess. First, I’ll cut off their limbs one by one while you watch. Arms, legs, and whatever else comes to mind. It won’t be a pleasant sight, so I recommend closing your eyes.”
 
 “If you do that…”
 
@@ -244,7 +240,7 @@ Lee Seowol clenched her teeth.
 
 “That isn’t what you want, is it?”
 
-“If my bride-to-be says she’s going to die, what else can I do? Still, the Blood Wolf Sword’s secret martial art and the Tiger of Mount Heng’s martial arts formula would be enough. Ah, I should take that old man Cheol with me on the way back, too.”
+“What else can I do if my bride-to-be insists on dying? Still, the Blood Wolf Sword’s secret martial art and the formula for the Tiger of Mount Heng’s martial arts should be enough. Ah, I should take that old man Cheol with me when I leave, too.”
 
 “…Uncle Cheol is still alive?”
 
@@ -252,11 +248,11 @@ Lee Seowol clenched her teeth.
 
 “…”
 
-“I’ll stake my life on this promise. It’s not too late even now, so marry me. If you do, I’ll let everyone live. I’ll stop at destroying their dantians.”
+“I’ll stake my life on this promise. It still isn’t too late. Marry me, and I’ll let everyone live. I’ll only destroy their dantians.”
 
 That was the decisive blow.
 
-Lee Seowol’s eyelashes trembled for a while before she slowly lowered her hand.
+Lee Seowol’s eyelashes trembled for a long moment before she slowly lowered her hand.
 
 “Keep your promise.”
 
@@ -268,11 +264,13 @@ As of today, he would begin his third life.
 
 He had gone from a beggar boy to a mounted bandit. Now he would finally don the mask of the orthodox faction and become the true master of the Mount Heng Sword Sect.
 
-Though there had been heavy losses, it didn’t matter. New wine belonged in new wineskins. Under the name of the Mount Heng Sword Sect, he would recruit martial artists and expand his power.
+Their losses had been heavy, but that didn’t matter. New wine belonged in new wineskins. He would recruit martial artists under the Mount Heng Sword Sect’s name and continue expanding his power.
 
 *If the Blood Wolf Sword could do it thirty years ago, why can’t I?*
 
-Just as the corners of his mouth lifted with overflowing delight—
+His lips curled upward with overwhelming delight.
+
+Then—
 
 “Pung Yang!”
 
@@ -284,9 +282,9 @@ A young man dressed in robes as black as night was walking toward them from some
 
 *A master.*
 
-The young man’s needle-sharp gaze sent a chill through a corner of Pung Yang’s chest.
+The young man’s needle-sharp gaze sent a chill through Pung Yang’s chest.
 
-He was a master. More than that, he was a Peak master in no way inferior to Pung Yang himself. Pung Yang could tell just from the way the young man’s hand moved as it gripped his sword hilt.
+He was a master. More than that, he was a Peak master in no way inferior to Pung Yang himself. Pung Yang could tell just by the way his hand settled around his sword hilt.
 
 *There are only two Peak masters this young in Shanxi Province. And if he’s a swordsman…*
 
@@ -294,21 +292,21 @@ The answer came immediately.
 
 Jin Mukyung, the Heaven Shaking Sword. A genius who had reached the Peak realm at barely twenty years of age.
 
-More importantly, behind him stood the Jin Family of Taiyuan, which had risen to become the foremost family in Shanxi.
+More importantly, behind him stood the Jin Family of Taiyuan, the foremost family in Shanxi.
 
 *At least he came alone.*
 
-But the next moment, another person cautiously stuck his head out through the fortress gate Jin Mukyung had entered.
+But the next moment, another person cautiously poked his head through the fortress gate behind Jin Mukyung.
 
-The young man wore a navy martial robe. His clothing, the dark iron spear in his hand, and above all, his nearly identical face told Pung Yang who he was.
+The young man wore a navy martial robe. His clothes, the dark iron spear in his hand, and above all, his near-identical face made his identity obvious.
 
 “The Sleeping Dragon of Shanxi?”
 
-Jin Taekyung flinched at the nickname someone blurted out and muttered, “Fuck. I knew this would happen.”
+Jin Taekyung flinched at the title someone blurted out and muttered, “Fuck. I knew this would happen.”
 
-Cursing crudely in a manner unbecoming a scion of a prestigious family, Jin Taekyung came sauntering forward beside the leisurely Jin Mukyung.
+Cursing with a fluency unbecoming the scion of a prestigious family, Jin Taekyung came sauntering forward beside the leisurely Jin Mukyung.
 
-The two brothers were heading straight toward Pung Yang.
+The two brothers headed straight toward Pung Yang.
 
 *The Taiyuan Jin Family, at a time like this… This is very bad.*
 
@@ -316,11 +314,11 @@ The reputation the family had built over many years, combined with the fame it h
 
 As a result, countless young people across Shanxi Province who dreamed of becoming martial artists were flocking to the Jin Family.
 
-That was why, even if Pung Yang swallowed the Mount Heng Sword Sect right now, he would still have to bow flat and hide his claws.
+That was why, even if Pung Yang swallowed the Mount Heng Sword Sect whole, he would still have to bow low and hide his claws.
 
-*Once I get past this hurdle, my opportunity will come.*
+*Once I get through this crisis, my chance will come.*
 
-The Mount Heng Sword Sect had already collapsed. The Murim was a world where the strong preyed on the weak, and Pung Yang was a new power in that world. Even if his opponent was the Taiyuan Jin Family, he believed he had earned the right to be treated with respect.
+The Mount Heng Sword Sect had already fallen. The Murim was a world where the strong preyed upon the weak, and Pung Yang was the new power. Even against the Taiyuan Jin Family, he believed he had earned the right to be treated with respect.
 
 Clomp. Clomp. Clomp.
 
@@ -328,39 +326,39 @@ With every step Jin Mukyung and Jin Taekyung took, the Red Wind Band’s mounted
 
 When the brothers reached him, Pung Yang clasped his hands in salute.
 
-“I am Pung Yang, Red Wind Band Leader.”
+“I am Pung Yang, Leader of the Red Wind Band.”
 
 Had Pung Yang not been a seasoned martial artist who never let down his guard—had the effects of the Temporary Strength Pill not still lingered faintly—he would never have evaded that strike.
 
 Shiiiiing!
 
-He hurriedly twisted aside.
+He twisted aside in alarm.
 
 A dazzling streak of Sword Energy skimmed past his neck and sliced through three mounted bandits behind him.
 
 “Is this the will of the Taiyuan Jin Family?”
 
-Jin Taekyung, who had already felled the nearby mounted bandits, muttered, “I’d rather talk it out.”
+Jin Taekyung, who had already felled the nearby mounted bandits, muttered, “I wanted to talk it out.”
 
 “You fucking bast—”
 
-Before Pung Yang could finish speaking, another streak of Sword Energy flew in and grazed his back.
+Before Pung Yang could finish, another streak of Sword Energy tore across his back.
 
 Pain seared through him like fire. He barely evaded the attacks that followed and revised his assessment of Jin Mukyung.
 
 *He’s stronger than me.*
 
-At this level, Jin Mukyung’s movements were comparable to Cheol Mubaek’s. On top of that, Jin Taekyung was slaughtering Pung Yang’s subordinates.
+His movements were comparable to Cheol Mubaek’s. And on top of that, Jin Taekyung was slaughtering Pung Yang’s subordinates.
 
 Pung Yang realized he had only one option left.
 
 *The Temporary Strength Pill.*
 
-While his subordinates died one after another trying to stop Jin Mukyung, Pung Yang pulled the wooden case hidden inside his robes and tipped the pill into his mouth.
+While his subordinates died trying to hold off Jin Mukyung, Pung Yang pulled the hidden wooden case from inside his robes and tipped the pill into his mouth.
 
 Shiiiiing!
 
-Jin Mukyung’s blue Sword Energy was reflected in Pung Yang’s eyes, which had turned blood-red.
+Jin Mukyung’s blue Sword Energy reflected in Pung Yang’s blood-red eyes.
 
 Slice!
 
