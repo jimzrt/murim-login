@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "What? That can’t be right. If a man like you, with a general’s bearing, had joined, I would’ve heard about it long ago…",
+      "defect": "Hong’s spoken dialogue is presented as unquoted narration.",
+      "id": "F01",
+      "rationale": "The Korean is explicitly spoken dialogue, continuing Hong’s conversation with Childeuk.",
+      "replacement": "“What? That can’t be right. If a man like you, with a general’s bearing, had joined, I would’ve heard about it long ago…”",
+      "severity": "minor",
+      "source": "line 65"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Just looking at it makes my chest feel wide open.",
+      "defect": "The idiom 가슴이 탁 트이다 is translated through its component image rather than its function, producing an unnatural physical claim.",
+      "id": "F02",
+      "rationale": "In context, Hong means the clear sky makes him feel refreshed or unburdened, not that his chest physically feels open.",
+      "replacement": "Just looking at it feels refreshing.",
+      "severity": "minor",
+      "source": "line 189"
+    },
+    {
+      "confidence": 0.96,
+      "current": "*Boom! Rumble, rumble!*",
+      "defect": "The second sound effect inaccurately suggests a sustained low rumble.",
+      "id": "F03",
+      "rationale": "후두두둑 represents the rapid clattering or pattering of falling stone fragments after the impact.",
+      "replacement": "*Boom! Clatter, clatter!*",
+      "severity": "minor",
+      "source": "line 243"
+    }
+  ],
+  "summary": "The chapter is broadly faithful, with three minor defects involving dialogue formatting, an idiom translated too literally, and an inaccurate impact sound.",
+  "version": 1
+}
