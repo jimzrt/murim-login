@@ -1,14 +1,14 @@
 # Chapter 157
 
-Since ancient times, it had been said that the masters of famous mountains were spirit creatures. Huashan, one of the Five Great Mountains of the Central Plains, was no exception.
+Since ancient times, it had been said that the true masters of famous mountains were spirit creatures. Huashan, one of the Five Great Mountains of the Central Plains, was no exception.
 
 Before humans ever set foot there, tigers had ruled its lofty, sprawling forests.
 
-These spirit creatures possessed the majesty of kings and the ferocity of beasts. When their territory was invaded, they grew furious and soon began attacking the uninvited trespassers.
+These spirit creatures possessed the majesty of kings and the ferocity of beasts. When their territory was invaded, they grew furious and began attacking the uninvited trespassers.
 
 “Wow! And then?”
 
-“When the loss of human life became severe, the Huashan Sect had no choice but to step in. That was how the Crouching Tiger Fist was born.”
+“When the loss of life became too great, the Huashan Sect had no choice but to step in. That was how the Crouching Tiger Fist was born.”
 
 *A fist technique that subdues tigers. The Crouching Tiger Fist.*
 
@@ -18,7 +18,7 @@ Cheongpung clearly remembered what his grandfather had told him when he learned 
 
 “Yes!”
 
-As a child, Cheongpung had believed his grandfather’s words without question.
+As a child, Cheongpung had believed his grandfather without question.
 
 But now, ten years later—
 
@@ -38,13 +38,13 @@ It was the third day since I’d begun sparring with Cheongpung. During our fort
 
 “I know. That was the Crouching Tiger Fist, right?”
 
-I’d seen it with my own eyes and even experienced it firsthand by getting hit.
+I’d seen it with my own eyes and experienced it firsthand by getting hit.
 
-It was yesterday that a Crouching Tiger Fist to the solar plexus had laid me out flat.
+It was only yesterday that a blow from the Crouching Tiger Fist to the solar plexus had laid me out flat.
 
-I’d committed the way Cheongpung moved when he used the Crouching Tiger Fist to memory—the footwork, the position of his shoulders, even the sequence of forms that followed.
+I’d committed Cheongpung’s every movement when he used it to memory—the footwork, the position of his shoulders, even the sequence of forms that followed.
 
-And yet I had still allowed myself to be hit.
+And yet he’d still landed the blow.
 
 There was no doubt about it. Cheongpung was one step ahead of me.
 
@@ -68,17 +68,17 @@ But Cheongpung didn’t seem interested in continuing.
 
 “Huh?”
 
-“I was aiming precisely around your Fengwei acupoint…”
+“I was aiming right around your Fengwei acupoint…”
 
 The Fengwei acupoint was around the ribs. I’d twisted aside to dodge, only to take the blow square in the middle of my abdomen.
 
 Since I’d avoided his intended target, maybe that technically counted as dodging? I shrugged.
 
-“I just struggled to avoid getting hit even once. I got hit in the end, though.”
+“I just did everything I could to avoid getting hit. I still got hit in the end, though.”
 
 “Could you see the sequence of forms?”
 
-After being beaten up for several days, I could make out the forms vaguely. Where and how an attack would come from. How the next form would follow.
+After being beaten up for several days, I could vaguely make it out. Where and how an attack would come from, and how the next form would follow.
 
 *The problem is that I’m still clumsy.*
 
@@ -86,7 +86,7 @@ I rubbed my aching abdomen as I answered.
 
 “After taking this many hits, I should be able to read at least that much. Every time you hit me, I made sure to keep my eyes wide open and watch.”
 
-Wasn’t keeping your eyes open even while getting hit and figuring out your opponent’s sequence of forms the most basic thing?
+Wasn’t keeping your eyes open while getting hit and figuring out your opponent’s sequence of forms the most basic thing?
 
 “Huh. That’s strange. I’ve only used the Crouching Tiger Fist a few times.”
 
@@ -102,7 +102,7 @@ Cheongpung clapped in admiration.
 
 “It’s nothing difficult.”
 
-I performed a poor imitation of the Plum Blossom Fist. My footwork and movements were both terribly awkward, but every form came from the Plum Blossom Fist Cheongpung had used in our duels.
+I launched into a poor imitation of the Plum Blossom Fist. My footwork and movements were terribly awkward, but every form was one Cheongpung had used during our duels.
 
 *This much is easy.*
 
@@ -112,7 +112,7 @@ Executing a technique required an understanding of the martial art and the inter
 
 *I moved like this here, didn’t I? Probably?*
 
-From the first form to the seventh. I occasionally stumbled, but I managed to perform them as naturally as possible without much difficulty. Then I turned my head.
+From the first form to the seventh, I stumbled here and there but managed to perform them as naturally as possible. Then I turned my head.
 
 “That’s about it for now… Young Hero Cheongpung?”
 
@@ -122,11 +122,11 @@ From the first form to the seventh. I occasionally stumbled, but I managed to pe
 
 “No, it’s just…”
 
-Cheongpung stared at me with an oddly complicated expression before hesitantly opening his mouth.
+Cheongpung stared at me with an oddly complicated expression before hesitantly speaking.
 
-“I suddenly remembered something my grandfather once said.”
+“I suddenly remembered something my grandfather used to say.”
 
-“The Sword Saint old man—I mean, your grandfather?”
+“The Sword Saint geezer—I mean, your grandfather?”
 
 “Yes. He used to call me a thief.”
 
@@ -140,9 +140,9 @@ Cheongpung let out a deep sigh.
 
 “Oh.”
 
-That was a compliment, right? To think a talent freak like Cheongpung was praising me.
+That was a compliment, right? To think a freakishly talented guy like Cheongpung was praising me.
 
-As I stood there dumbfounded, Cheongpung said, “Benefactor, you’re definitely a martial-arts genius.”
+As I stood there dumbfounded, Cheongpung said, “Benefactor, you must be a martial-arts genius.”
 
 “A genius? Me?”
 
@@ -152,19 +152,19 @@ As I stood there dumbfounded, Cheongpung said, “Benefactor, you’re definitel
 
 No, wait. He was right.
 
-When I thought about it, I had mastered the Jin Family’s Manoeuvre Technique and spear technique—both First Rate martial arts—in barely two or three months.
+Come to think of it, I’d mastered the Jin Family’s Manoeuvre Technique and spear technique—both First Rate martial arts—in barely two or three months.
 
 Of course, that was all thanks to the System.
 
-“It’s just a shortcut. I’m pretty good at using my body. My eyes are good, too. Heh heh.”
+“It’s just a shortcut. I’ve always been pretty good with my body. I’ve got good eyes too. Heh heh.”
 
 “My grandfather used to say that martial arts are seventy percent eyes and thirty percent feet.”
 
-“I think he was right about that, but either way, I’m not a genius.”
+“I think he was right about that, but I’m still no genius.”
 
-“Think about it carefully. I’m sure something similar happened before.”
+“Think carefully. I’m sure something similar has happened before.”
 
-Was that so?
+Had it?
 
 I suddenly remembered my childhood. I’d always been good at sports thanks to my natural athletic ability, but as for anything that could be called martial arts…
 
@@ -182,7 +182,7 @@ When my expression changed, Cheongpung nodded as if to say, *See?*
 
 Back in elementary school, I’d been lured into enrolling at a taekwondo academy with the promise of a portable game console.
 
-The older high school students had put on a taekwondo demonstration, and after watching it exactly twice, I could follow all eight Taegeuk forms.[^1]
+Some high school students had put on a taekwondo demonstration, and after watching them exactly twice, I could follow all eight Taegeuk forms.[^1]
 
 [^1]: The Taegeuk forms are a standardized sequence of eight color-belt patterns in taekwondo.
 
@@ -194,7 +194,7 @@ Come to think of it, even when I was an F-rank Hunter, I’d been pretty good at
 
 My lousy physical abilities had simply held me back.
 
-If a bottom-tier Hunter like me tried to imitate the movements of a mid-rank Hunter, I wouldn’t be able to generate any destructive power. I’d just tear my groin apart.
+If a bottom-tier Hunter like me tried to imitate the movements of a mid-rank Hunter, I wouldn’t produce any real power. I’d just tear my groin apart.
 
 *But things are different now.*
 
@@ -208,19 +208,19 @@ Now that I thought about it, I might not be a martial-arts genius, but I did see
 
 “One month?”
 
-From my own experience, the Plum Blossom Fist was a Huashan martial art, but it wasn’t complicated enough to take that long.
+From what I’d seen, the Plum Blossom Fist might be a Huashan martial art, but it wasn’t complicated enough to take that long.
 
 And this guy had needed a month to learn it, while I’d managed a rough imitation in three days?
 
 *That’s insane.*
 
-As I grinned so broadly that the corners of my mouth nearly split, Cheongpung added, “It took me a whole month to achieve Great Attainment, so my grandfather scolded me terribly.”
+As I broke into a grin wide enough to split my face, Cheongpung added, “It took me a whole month to achieve Great Attainment, so my grandfather gave me a terrible scolding.”
 
 “…”
 
 Right. Of course.
 
-As I stared at him in disbelief, Cheongpung muttered, “Still… it doesn’t feel very good. Having someone copy my martial arts.”
+As I stared at him in disbelief, Cheongpung muttered, “Still… it doesn’t feel very good to have someone copying my martial arts.”
 
 An ominous aura rose from him.
 
@@ -232,11 +232,11 @@ After regaining consciousness, Hyuk Mujin stared blankly at the training ground.
 
 The training ground had already been half reduced to rubble.
 
-More than half of the bluestone carefully laid by stonemasons famous throughout Shanxi Province had been smashed apart, and the destruction was continuing at a rapid pace.
+More than half of the bluestone carefully laid by renowned stonemasons from across Shanxi Province had been shattered, and the destruction was still spreading rapidly.
 
 *Clang! Ka-ka-ka-clang!*
 
-Despite the season, the center of the training ground was scorching hot. Spear and sword clashed amid bursts of flame.
+Despite the season, the center of the training ground was scorching hot. Spear and sword collided in bursts of flame.
 
 The men wielding them moved at dazzling speed, exchanging blows so quickly that even Hyuk Mujin, a First Rate master, struggled to follow.
 
@@ -246,9 +246,9 @@ Cheongpung wore white martial robes, while Jin Taekyung wore black. The stark co
 
 *That Cheongpung fellow is a monster.*
 
-He had an average build and a gentle appearance. Spend half a day on the streets of Taiyuan, and one could probably find three or four young men his age who looked much like him.
+He had an average build and a gentle face. Spend half a day on the streets of Taiyuan, and one could probably find three or four young men his age who looked much like him.
 
-But that ordinary-looking young man concealed an identity no one could easily have guessed.
+Yet that ordinary-looking young man possessed an identity no one could have easily guessed.
 
 *The heir to everything Sword Saint Mae Jonghak possessed.*
 
@@ -256,19 +256,19 @@ But that ordinary-looking young man concealed an identity no one could easily ha
 
 Beneath the high sun, Jin Taekyung’s spearhead flashed.
 
-The forms were heavy and concise, but once power and speed were added, they transformed into an extremely fast spear technique that made Hyuk Mujin dizzy just watching it.
+The forms were heavy and concise, but once power and speed were added, they transformed into a blindingly fast spear technique that made Hyuk Mujin dizzy just watching it.
 
 *What if that spear were aimed at me?*
 
-Hyuk Mujin shook his head from side to side.
+Hyuk Mujin shook his head.
 
-It was embarrassing, but he wasn’t confident he could last even a quarter of an hour. No, perhaps even that thought was merely a consolation meant to preserve his pride.
+It was embarrassing, but he wasn’t confident he could last even a quarter of an hour. No, perhaps even that estimate was merely a consolation meant to preserve his pride.
 
 But Cheongpung was different.
 
 *Swish, swish-swish-swish!*
 
-The spearhead surged in from every direction, only to slice uselessly through empty air. Cheongpung’s face remained calm as he effortlessly dodged every attack.
+The spearhead surged in from every direction, only to slice uselessly through empty air. Cheongpung remained perfectly calm as he effortlessly dodged every attack.
 
 Then his hand blurred, and a streak of light split the air.
 
@@ -276,57 +276,57 @@ Then his hand blurred, and a streak of light split the air.
 
 “Hng!”
 
-Jin Taekyung let out a groan amid the thunderous impact. He had barely blocked the sword, but sword strikes poured toward him like a torrential downpour.
+Jin Taekyung groaned amid the thunderous impact. He barely managed to block the sword before strikes poured toward him like driving rain.
 
-Watching the scene, Hyuk Mujin opened his mouth without realizing it.
+Watching the scene, Hyuk Mujin’s mouth fell open.
 
 At that moment, a single thought filled his mind.
 
 *Graceful.*
 
-That was the only way to describe it.
+There was no other way to describe it.
 
-Cheongpung’s movements were delicate and fluid, like the brushstrokes of a master painter. They resembled flower petals drifting and fluttering down at the end of the season.
+Cheongpung’s movements were as delicate and fluid as the brushwork of a master painter, like petals drifting down at the end of the season.
 
-Hyuk Mujin watched in a daze before suddenly muttering, “Plum Blossom Sword Technique…”
+Hyuk Mujin watched in a daze before murmuring, “Plum Blossom Sword Technique…”
 
 He had never seen Huashan’s martial arts before.
 
-But he could be certain of one thing. The very essence of Huashan martial arts had seeped into every one of Cheongpung’s movements.
+But he was certain of one thing. The pure essence of Huashan’s martial arts permeated Cheongpung’s every movement.
 
 *He’s a monster. A monster in every sense of the word.*
 
-But “monster” was not a word that applied only to Cheongpung.
+But Cheongpung wasn’t the only one who deserved that name.
 
 *Swish-swish-swish-swish!*
 
-*Ka-ga-gang!*
+*Clang-clang-clang!*
 
-Another man was blocking every strike of the Plum Blossom Sword Technique unleashed by the Sword Saint’s disciple.
+Another man blocked every strike of the Plum Blossom Sword Technique unleashed by the Sword Saint’s disciple.
 
-The young man with a powerful build and striking, ruggedly handsome features ground his teeth.
+The tall, broad-built young man with ruggedly handsome features ground his teeth.
 
 “Fuck, Huashan really made its martial arts a goddamn nightmare!”
 
-If Huashan had heard the thick profanity Jin Taekyung spat out, the entire sect would have turned upside down.
+Jin Taekyung spat out a stream of profanity that would have turned the entire Huashan Sect upside down if they’d heard it.
 
-A rough aura poured from his body.
+A savage aura erupted from his body.
 
-Its domineering force momentarily suppressed Cheongpung’s fluid grace before flowing straight into a counterattack.
+Its domineering force momentarily overwhelmed Cheongpung’s fluid grace before flowing straight into a counterattack.
 
 *Whoooosh! Boom!*
 
 A ferocious strike.
 
-Cheongpung went flying after blocking the spear amid the thunderous impact. Jin Taekyung had knocked aside Cheongpung’s offensive with a single move, but he immediately frowned.
+Cheongpung went flying as he blocked the spear with a thunderous crash. Jin Taekyung had broken through his offensive in a single move, but he immediately frowned.
 
 “Ow, that stings.”
 
-*Slice.*
+*Riiip.*
 
-Before his words had even ended, the black martial robes he wore split open in a long tear.
+Before the words had even left his mouth, the black martial robes he wore split open in a long tear.
 
-Several long wounds scored his exposed chest, blood welling freely from them.
+Several claw marks scored his exposed chest, blood welling freely from them.
 
 “What martial art was that?”
 
@@ -348,7 +348,7 @@ Several long wounds scored his exposed chest, blood welling freely from them.
 
 Jin Taekyung shouted and kicked off the ground, charging forward.
 
-His movements were instinctive, like those of a wild beast, yet they barely retained the form of martial arts. Hyuk Mujin shuddered.
+His movements were instinctive, like those of a wild beast, yet they barely retained the shape of martial arts. Hyuk Mujin shuddered.
 
 *Why does that man get scarier the longer I watch him?*
 
@@ -358,15 +358,15 @@ Jin Taekyung’s was tenacious and fierce. There was something about it that str
 
 *It isn’t about his martial arts.*
 
-Jin Taekyung was certainly a highly skilled master, but he was not yet the equal of Cheongpung, the Sword Saint’s disciple and a true Peak master.
+Jin Taekyung was certainly a formidable master, but he was not yet the equal of Cheongpung, the Sword Saint’s disciple and a true Peak master.
 
-Yet Hyuk Mujin had watched him from close by for the past several months, and he could say this with certainty.
+Yet Hyuk Mujin had watched him closely for the past several months, and he knew one thing for certain.
 
 *Even if the sky fell, that man would survive.*
 
 No matter what kind of hell Jin Taekyung was thrown into, Hyuk Mujin felt certain he would return alive.
 
-Three Peak masters had tried to kill him so far, but in the end, they had been the ones to fall. In Murim, the one who survived was the strong one.
+Three Peak masters had tried to kill him so far, yet they were the ones who had fallen in the end. In Murim, those who survived were the strong.
 
 And Jin Taekyung had survived to the bitter end.
 
@@ -374,15 +374,15 @@ Besides…
 
 *Captain’s rate of growth is beyond imagination.*
 
-It was something Hyuk Mujin knew because he had watched him from closer than anyone else.
+Hyuk Mujin knew because he had watched him more closely than anyone else.
 
 From the moment Jin Taekyung defeated Jopil, One Question, One Kill, after a desperate battle to this very moment as he fought Cheongpung—
 
-Jin Taekyung was growing stronger every day.
+Jin Taekyung had grown stronger by the day.
 
 *And that’s still true right now.*
 
-Just a few days ago, he hadn’t been able to last even a hundred moves against the supreme techniques of Huashan that Cheongpung unleashed.
+Only a few days ago, he hadn’t been able to withstand even a hundred moves against the supreme techniques of Huashan that Cheongpung unleashed.
 
 But now?
 
@@ -390,19 +390,19 @@ Hyuk Mujin had personally watched them exchange well over three hundred moves. E
 
 *He’s a monster. A monster.*
 
-Everyone around them was around the same age, and they were all Peak or advanced First Rate. Wasn’t that taking things too far? It seemed as though nothing but monsters surrounded him.
+They were all around the same age, yet every last one of them was either a Peak master or advanced First Rate. Wasn’t this a bit much? It seemed as if he were surrounded by monsters.
 
 Hyuk Mujin let out a deep sigh and recalled what Jin Taekyung had told him a few days earlier during their Wall Lizard Technique training.
 
-*If you don’t want to lose something precious, then risk your life and do it now. Working yourself to death while you’re still breathing is better than dying, isn’t it?*
+*If you don’t want to lose something precious, then risk your life now. Working yourself to death while you’re still breathing is better than dying, isn’t it?*
 
-Those words were true.
+He was right.
 
-You had to work yourself to death to survive and become strong. Every second counted if you wanted to avoid being swept away by the waves of Murim.
+One had to work himself to death to survive and become strong. Every second counted if one wished to avoid being swept away by the waves of Murim.
 
 After silently watching the two men spar for a while, Hyuk Mujin rose to his feet.
 
-*I can’t finish this with just my little toe.*
+*I can’t let it end with just my little toe.*
 
 He had to become stronger. Strong enough to be recognized as Jin Taekyung’s right arm—or perhaps his heart.
 

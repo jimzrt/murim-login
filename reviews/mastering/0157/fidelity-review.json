@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Several long wounds scored his exposed chest, blood welling freely from them.",
+      "defect": "The translation adds that the wounds are long, but the source specifies only several wound marks or gashes, not their length.",
+      "id": "F01",
+      "rationale": "몇 줄기의 상흔 conveys several wound marks; 길게 describes the tear in his robes in the preceding sentence, not the wounds themselves.",
+      "replacement": "Several wounds scored his exposed chest, blood welling freely from them.",
+      "severity": "minor",
+      "source": "lines 343–345"
+    }
+  ],
+  "summary": "The chapter is faithful overall, with one minor unsupported physical detail.",
+  "version": 1
+}
