@@ -2,7 +2,7 @@
 
 The luxurious six-horse carriage raced onward without slowing.
 
-Elite-looking soldiers cleared the road ahead, while the crowds swarming like ants parted to either side and watched the carriage fly past like the wind.
+Soldiers who looked like elite troops cleared the road ahead, while the people who had been swarming around like ants split neatly to either side and watched the carriage dash past like the wind.
 
 “So this is how Moses felt.”
 
@@ -14,9 +14,9 @@ Cheongpung reacted to my mutter.
 
 “Oh, I see.”
 
-If it had been Hyuk Mujin, he would have complained for ages about me saying something weird, but Cheongpung was different.
+If it had been Hyuk Mujin, he would have complained for ages about me saying something strange, but Cheongpung was different.
 
-He wore the excited expression of a child at an amusement park as he pressed and tapped every part of the carriage.
+He had the excited expression of a child at an amusement park as he pressed and tapped every part of the carriage.
 
 “This is my first time riding in a six-horse carriage!”
 
@@ -32,9 +32,9 @@ He wore the excited expression of a child at an amusement park as he pressed and
 
 If I put him on a subway, he would probably faint.
 
-At this point, it would be much faster to count the things he had done than the things he hadn’t.
+At this point, it would be much faster to count the things he had done than the things he had never done.
 
-I stared at the thoroughly excited Cheongpung.
+I stared at Cheongpung, who had entered a state of total excitement.
 
 *What the hell is this guy?*
 
@@ -58,25 +58,25 @@ Apparently, I wasn’t the only one who thought so.
 
 The young prodigies of the Five Gates of Shanxi, excluding the severely injured Woo Jintae, were staring at Cheongpung as if they were looking at something bizarre.
 
-“There’s something a little… off about him.”
+“Is he really all right…?”
 
 “Can we really go like this?”
 
 “If he says something inappropriate in front of His Highness, we might get dragged into it, too.”
 
-“We’ll be lucky if that’s all he does. If he gets excited about seeing a member of the imperial family for the first time and pulls on his ear, we’re finished. Completely finished.”
+“It’ll be lucky if it ends with him saying something inappropriate. If he gets excited about seeing an imperial family member for the first time and pulls on his ear, we’re finished. Completely finished.”
 
 …That was a surprisingly plausible prediction.
 
-Hearing the young prodigies whispering, the official riding in the carriage with us leaned over anxiously and whispered.
+Hearing the young prodigies whispering, the official riding in the carriage with us leaned over and spoke in an anxious voice.
 
 “Um, Young Master Jin.”
 
 “Yes?”
 
-“That man… Are you certain he’s all right?”
+“That person… Is he really all right?”
 
-“Trust me. He’s a master I can vouch for.”
+“Believe me. He’s a master I can vouch for.”
 
 “To hell with whether he’s a master. I’m asking whether he’s right in the head.”
 
@@ -92,13 +92,13 @@ If Mujin had heard that, he would have jumped for joy.
 
 The problem was that he had a dark blue bruise on his face from getting beaten by me that morning, so there was no way he could come along.
 
-*Besides, Hyuk Mujin wouldn’t be enough.*
+*And Hyuk Mujin wouldn’t be enough.*
 
 To avoid offending the young prince, I needed to bring a more impressive gift.
 
 I firmly shook my head at the worried official.
 
-“Don’t worry. I’ll take responsibility for keeping him under control.”
+“Don’t worry. I’ll take responsibility for making sure nothing happens.”
 
 Who was I? A direct descendant of the prestigious Jin Family of Taiyuan, a rising star, and Shanxi Murim’s newest sensation.
 
@@ -114,19 +114,19 @@ My bold assurance brightened the official’s expression a little.
 
 Wait a second. What was that sound?
 
-As if on cue, we all turned our heads at the same time.
+As though we had made a pact, we all turned our heads at the same time.
 
 There was Cheongpung, clutching something in his hands.
 
 “Huh? Why did this fall off?”
 
-Cheongpung grinned foolishly, holding an exquisitely crafted golden dragon. After a long silence, the official looked at me.
+The official stared at me in silence for a long moment as Cheongpung grinned foolishly while holding an exquisitely crafted golden dragon.
 
 “Young Master Jin.”
 
 “Yes?”
 
-“Are you certain he’s all right?”
+“Is he really all right?”
 
 After thinking it over, I opened my mouth.
 
@@ -136,7 +136,7 @@ After thinking it over, I opened my mouth.
 
 The space was so vast that it could have been called a castle rather than a residence. A man strode through it without hesitation.
 
-Everyone who saw his tightly set lips and resolute gaze paid their respects.
+Everyone who saw his tightly pressed lips and resolute gaze respectfully paid their respects.
 
 “Greetings, Assistant Military Commissioner.”
 
@@ -148,7 +148,7 @@ After passing through a corridor lined with endless pillars, how long had he bee
 
 “Yes, sir.”
 
-A commander of the palace guard saluted him and called out in a powerful voice.
+A commander from the palace guard saluted him and called out in a powerful voice.
 
 “His Excellency Li Feng, Assistant Military Commissioner of Shanxi Province, entering!”
 
@@ -156,17 +156,17 @@ Before long, a voice answered from within.
 
 “Let him enter.”
 
-“…!”
+“…”
 
 The voice was neither as high and childish as a little boy’s nor as deep as a grown man’s.
 
-The man—Li Feng—seemed to realize something. His eyebrows shot up just as the iron gate opened with a heavy groan.
+At the moment the man—Li Feng—seemed to realize something and his eyebrows shot up, the iron gate opened with a heavy groan.
 
 *Grrrnnng.*
 
-Beyond it lay an extravagantly decorated grand hall. Gold and silver treasures glittered in every direction, and a table large enough to seat dozens was laden with every delicacy from land and sea.
+Beyond it was an extravagantly decorated grand hall. Gold and silver treasures glittered in every direction, and a table large enough for dozens of people was covered with every delicacy from land and sea.
 
-The sight would have left anyone else gaping. But Li Feng’s gaze remained fixed on a single point.
+It was a sight that would have left anyone else gaping. But Li Feng’s gaze remained fixed on a single point.
 
 *How is he here?*
 
@@ -184,15 +184,15 @@ Li Feng bit down on his lips and performed a military salute.
 
 The Deputy Military Commissioner was a second-rank official, with only two such posts in each province.
 
-Aside from the Military Commissioner, the supreme military commander, and Prince Shangshan, the City Lord, it was the highest position in the province. As deputy commander, he also wielded tremendous authority.
+Aside from the Military Commissioner, who was the commander-in-chief, and the City Lord, Prince Shangshan, it was the highest position there was. As the deputy commander, he also wielded tremendous authority.
 
-That was what the public knew. In truth, the man before him possessed even greater power.
+That was what people knew publicly. In truth, the man before him possessed even greater power.
 
 *That bastard deserves to be beaten to death.*
 
 A sycophant and corrupt official who used his glib tongue and petty tricks to blind the young prince’s eyes and ears while lining his own pockets. That was Li Feng’s assessment of him.
 
-But even under Li Feng’s hostile gaze, the man’s smile never faltered.
+But even beneath Li Feng’s openly hostile gaze, the man continued smiling.
 
 “Assistant Commissioner Li, it’s been a while. Isn’t the atmosphere a little too tense? Did I perhaps do something to offend you?”
 
@@ -202,37 +202,39 @@ But even under Li Feng’s hostile gaze, the man’s smile never faltered.
 
 “It is a gathering of martial artists from the martial world. They are rather rough people, so I was concerned that you might be uncomfortable, Deputy Military Commissioner.”
 
-His words sounded considerate, but both men knew what he truly meant.
+His words sounded considerate, but their true meaning was different. Neither man was unaware of that.
 
-“Why would I? I like places like this. Besides, you’ve been awfully formal with my title. Just call me whatever you like. We’re close enough, aren’t we?”
+“What’s the problem? I like places like this. Besides, you’ve been so stiff with your title since a while ago. Just call me whatever you like. We’re close enough, aren’t we?”
 
-“And what sort of relationship do we have?”
+“Close enough for what, exactly?”
 
-“The kind where we’d split even a single bean. True and loyal subjects who serve His Highness with all our hearts.”
+“We’re the kind of people who would split a bean between us. True loyal subjects who serve His Highness with all our hearts.”
 
-*Split a bean? True and loyal subjects?*
+*Split a bean between us? True loyal subjects?*
 
-Li Feng asked bluntly, “Then may I call you Eunuch Hong?”
+Li Feng asked bluntly,
 
-Eunuch Hong’s smile stiffened for a moment.
+“Then may I call you Eunuch Hong?”
 
-With that single word, Li Feng had touched his sore spot.
+The smile on Eunuch Hong’s face stiffened for a moment.
+
+With a single word, Li Feng had touched his sore spot.
 
 “That’s… a little too familiar, don’t you think?”
 
 “I only followed your instructions.”
 
-“Well, this is a surprise. I had no idea Assistant Commissioner Li considered me that close.”
+“Well, this is something. I didn’t realize Assistant Commissioner Li considered me that close.”
 
-“I’m overwhelmed that you finally understand how I feel.”
+“I’m overwhelmed that you understand my feelings at last.”
 
 “Assistant Commissioner Li.”
 
-“Did you call, Eunuch Hong? Or would you prefer that I go back to calling you Deputy Military Commissioner?”
+“Did you call, Eunuch Hong? Or should I go back to calling you Deputy Military Commissioner?”
 
 A heavy silence settled over the hall.
 
-It was a long while before Eunuch Hong spoke again.
+It was a long while before Eunuch Hong opened his mouth again.
 
 “Our Assistant Commissioner Li has improved quite a bit, hasn’t he?”
 
@@ -244,13 +246,13 @@ It was a long while before Eunuch Hong spoke again.
 
 “I thought you were only good with a sword, but now I see you’re good with your tongue, too. I’ll have to look at you differently.”
 
-“I’m still nowhere near as skilled as a certain someone.”
+“I’m still nowhere near as skilled as someone else.”
 
-Their gazes collided in midair. Amid the taut silence, Eunuch Hong smiled gently.
+Their gazes collided in midair. Within the tightly stretched silence, Eunuch Hong smiled gently.
 
 “Well, we can talk about that later… May I ask you one thing?”
 
-His opponent was no pushover, but he had taken a step back. If Li Feng kept biting at him, he would only put himself at a disadvantage. He silently nodded.
+His opponent was no pushover, but he had taken a step back. If he kept biting at him, he would only end up at a disadvantage. Li Feng silently nodded.
 
 “Ask.”
 
@@ -268,9 +270,9 @@ He and Eunuch Hong were what one might call political enemies. For that very rea
 
 Eunuch Hong was neither careless nor stupid enough to ask about such a basic fact without a reason.
 
-If anything, he was a crafty bastard with a hundred snakes writhing inside him.
+If anything, he was a crafty man with a hundred snakes writhing inside him.
 
-That only made Li Feng more puzzled.
+That was why Li Feng was even more puzzled.
 
 “That’s right. But why are you suddenly asking?”
 
@@ -278,15 +280,15 @@ That only made Li Feng more puzzled.
 
 “Are they martial artists?”
 
-“Yes. From Shaanxi, no less.”
+“Yes. And they’re from Shaanxi.”
 
 “Don’t tell me they’re from Huashan…?”
 
 “Oh, come on. If they were, I would have told you already.”
 
-Li Feng sighed in relief.
+Li Feng let out a sigh of relief.
 
-In the end, he had left of his own accord, but Huashan was still the sect he would be proud of for the rest of his life. It was a tremendous relief that Huashan had not become entangled with a sycophant like Eunuch Hong.
+In the end, he had left of his own accord, but Huashan was still the sect he would be proud of for the rest of his life. It was a tremendous relief that he had not been entangled with a sycophant like Eunuch Hong.
 
 “There are more than one or two sects in Shaanxi. And I didn’t go outside while training at the main sect, so even if I heard their names, I might not recognize them.”
 
@@ -294,7 +296,7 @@ In the end, he had left of his own accord, but Huashan was still the sect he wou
 
 “…?”
 
-At the sight of Li Feng’s expression, Eunuch Hong picked up the chopsticks lying on the table.
+Seeing Li Feng’s expression, Eunuch Hong picked up the chopsticks lying on the table.
 
 “You asked earlier why I was here, didn’t you?”
 
@@ -304,7 +306,7 @@ The beautifully crafted silver chopsticks tapped against a wine cup.
 
 The clear sound spread through the hall.
 
-Eunuch Hong smiled with his eyes at the bewildered Li Feng.
+Eunuch Hong gave the bewildered Li Feng a knowing smile.
 
 “I invited a few acquaintances. Famous and powerful martial artists whom His Highness would enjoy meeting.”
 
@@ -320,7 +322,7 @@ Huashan and the Zhongnan Sect had been bitter rivals fighting for supremacy in S
 
 Eunuch Hong’s intentions were every bit as clear as the smile on his face.
 
-“They’re fellow Shaanxi men, so I thought I’d arrange a gathering. You don’t mind, do you?”
+“They’re from Shaanxi, so I thought I’d arrange a gathering. Isn’t that nice?”
 
 Just as Li Feng clenched his fists, the massive iron gate opened and three imposing men strode into the hall.
 
@@ -328,23 +330,25 @@ One of them had a familiar face.
 
 “Well, well. If it isn’t Li Feng of Huashan?”
 
-Li Feng shuddered. The moment he saw that man’s face, the humiliating memory from ten years ago came rushing back.
+Li Feng’s body trembled. The moment he saw that man’s face, the humiliating memory from ten years ago came rushing back.
 
 “How did you get here?”
 
 The sharp-eyed man answered casually.
 
-“How else? When the Deputy Military Commissioner of Shanxi Province invites you, you have to come running even if it’s a thousand li away. Isn’t that right?”
+“How did I get here? When the Deputy Military Commissioner of Shanxi Province invites you, you have to come running even if it’s a thousand li away. Isn’t that right?”
 
-“You’re too kind. I’m the one grateful that you accepted the invitation.”
+“There’s no need to thank me. I’m the one grateful that you accepted the invitation.”
 
-Li Feng ground his teeth. Gong Ilhyuk, the third of the Three Hands of Zhongnan, grinned at him.
+*Grind.*
 
-“Anyway, you’ve done well for yourself. Assistant Military Commissioner, someone like you… Huashan must have spread around quite a few silver nyang for you. Hmm?”
+Gong Ilhyuk, the third of the Three Hands of Zhongnan, grinned at Li Feng as he ground his teeth.
+
+“Anyway, you’ve done well for yourself. Assistant Military Commissioner, someone like you… Huashan must have spread around quite a bit of silver for you. Hmm?”
 
 “How dare you insult Huashan?”
 
-“Insult Huashan? You’re the one who insulted it. Ten years ago, who was it that fell to his knees after only a hundred or so exchanges with that magnificent Huashan martial arts?”
+“Insult Huashan? You’re the one who insulted it. Ten years ago, who was it that knelt after a little over a hundred exchanges against that magnificent Huashan martial arts?”
 
 “You bastard!”
 

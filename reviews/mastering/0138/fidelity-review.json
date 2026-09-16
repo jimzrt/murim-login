@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "The problem was that he had a dark blue bruise on his face from getting beaten by me that morning, so there was no way he could come along.",
+      "defect": "The translation omits the narrator’s ironic 덕분에 (“thanks to”), weakening the comic self-awareness that he personally caused Hyuk Mujin’s condition.",
+      "id": "F01",
+      "rationale": "덕분에 deliberately frames the consequence of the narrator’s own beating as something Hyuk Mujin has to ‘thank’ him for.",
+      "replacement": "The problem was that, thanks to the beating I’d given him that morning, he had a dark blue bruise on his face and couldn’t possibly come along.",
+      "severity": "minor",
+      "source": "lines 97–99"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The Deputy Military Commissioner was a second-rank official, with only two such posts in each province.",
+      "defect": "종이품 specifically denotes the junior second rank, not the second rank generically.",
+      "id": "F02",
+      "rationale": "The omitted junior/senior subdivision is a concrete detail of the official hierarchy.",
+      "replacement": "The Deputy Military Commissioner was a junior second-rank official, with only two such posts in each province.",
+      "severity": "minor",
+      "source": "lines 193–195"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Ask.”",
+      "defect": "The blunt imperative loses the deliberately deferential register of 하문하십시오 while Li Feng continues observing formal hierarchy toward his political superior.",
+      "id": "F03",
+      "rationale": "하문하십시오 is an honorific invitation for a superior to pose his question; the current wording sounds curt and commanding.",
+      "replacement": "“Please ask.”",
+      "severity": "minor",
+      "source": "lines 261–265"
+    }
+  ],
+  "summary": "The chapter is highly faithful overall, with three minor fidelity defects involving irony, official rank, and deferential register.",
+  "version": 1
+}
