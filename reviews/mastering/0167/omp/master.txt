@@ -24,7 +24,7 @@ Still, if a few shouts were enough to make me back down, I never would have come
 
 Jang Taebo glared and shouted,
 
-“Get out of my sight this instant!”
+“Get out of this old man’s sight this instant!”
 
 “Waaah!”
 
@@ -88,7 +88,7 @@ But Jang Taebo answered without even turning around.
 
 “Is he skilled enough to forge Ten-Thousand-Year Cold Iron?”
 
-Ten-Thousand-Year Cold Iron: a mysterious mineral imbued with a supernatural power—the hardest and sharpest material in the world, able to withstand even Sword Energy.
+Ten-Thousand-Year Cold Iron: a mysterious ore imbued with a supernatural power—the hardest and sharpest thing in the world, able to withstand even Sword Energy.
 
 It was so valuable and rare that even most highly skilled blacksmiths never got to see it once in their entire lives.
 
@@ -170,7 +170,7 @@ Every martial artist was a weapon geek in one way or another, and Jang Taebo was
 
 He had clearly earned more money than most.
 
-*Is luring him with money impossible after all?*
+*Can I lure him with money after all?*
 
 I had gotten a rough idea from what happened last night, but the man really was difficult.
 
@@ -336,7 +336,7 @@ What was that—a sentence or a fart?
 
 “…No.”
 
-I had eaten Hundred-Year Snow Ginseng once, but I hadn’t been in my own body at the time, so I couldn’t say.
+I had eaten Hundred-Year Snow Ginseng once, but I hadn’t been in my own body at the time, so I couldn’t really judge.
 
 When I awkwardly admitted it, Jang Taebo rummaged through his robes and tossed something at me.
 
@@ -425,4 +425,4 @@ This time, I shouted,
 “No!”
 
 [^1]: He Shou Wu is a traditional medicinal herb made from the tuberous root of *Polygonum multiflorum*.
-[^2]: Sakura (“cherry blossom”) is one of the flower cards in hwatu, the card game widely played in Korea; the word is also slang for a fake.
+[^2]: Sakura (“cherry blossom”) is one of the flower cards in hwatu, the card game widely played in Korea.

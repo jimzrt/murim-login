@@ -12,7 +12,7 @@ I heard him, you idiot.
 
 I’d heard he was a pretty cantankerous man, but I hadn’t expected this.
 
-Still, if a few shouts were enough to make me back down, I never would have come this far in the first place. I spoke calmly.
+Still, if a few shouts were enough to make me back down, I never would have come this far in the first place. I calmly opened my mouth.
 
 “Elder, please calm down first and let me explain—”
 
@@ -76,7 +76,7 @@ There was nothing to be done. I turned away and bowed toward Jang Taebo’s back
 
 “…Then we’ll be going.”
 
-I was about to turn away when I suddenly spoke up.
+I was about to turn around when I suddenly opened my mouth.
 
 A thought had occurred to me—something that might move him, even a little.
 
@@ -88,7 +88,7 @@ But Jang Taebo answered without even turning around.
 
 “Is he skilled enough to forge Ten-Thousand-Year Cold Iron?”
 
-Ten-Thousand-Year Cold Iron: a mysterious mineral imbued with a supernatural power—the hardest and sharpest material in the world, able to withstand even Sword Energy.
+Ten-Thousand-Year Cold Iron: a mysterious mineral infused with a supernatural power that made it the hardest and sharpest material in the world, capable of withstanding even Sword Energy.
 
 It was so valuable and rare that even most highly skilled blacksmiths never got to see it once in their entire lives.
 
@@ -170,7 +170,7 @@ Every martial artist was a weapon geek in one way or another, and Jang Taebo was
 
 He had clearly earned more money than most.
 
-*Is luring him with money impossible after all?*
+*Can I lure him with money after all?*
 
 I had gotten a rough idea from what happened last night, but the man really was difficult.
 
@@ -224,7 +224,7 @@ I could understand that. I’d rather make pancakes out of Jinho hyung’s vomit
 
 “…No. My stomach just feels a little queasy.”
 
-On second thought, that was a bit much.
+Now that I thought about it, even that was going too far.
 
 I rose from my seat after watching Cheongpung clean out the last plate.
 
@@ -252,9 +252,9 @@ Jang Taebo was standing in the courtyard. When he spotted us, he frowned. More p
 
 “Could I really just leave after coming all this way?”
 
-I gave him a shameless smile.
+I gave him an easygoing smile.
 
-Back when I was a lowest-rank Hunter, there had been people who hurled profanity straight into my face. This was nothing.
+Back when I was a lowest-level Hunter, there had been people who hurled profanity straight into my face. This was nothing.
 
 “It felt wrong to come empty-handed, so I brought you a small gift.”
 
@@ -304,11 +304,11 @@ But the next moment, I heard the sound of my hopeful future being abruptly cut o
 
 “Ptooey!”
 
-“…?”
+“...?”
 
-“…?”
+“...?”
 
-“…?”
+“...?”
 
 Hyuk Mujin, Cheongpung, and I stared at the half-chewed He Shou Wu lying on the ground.
 
@@ -326,9 +326,9 @@ When we stared at him in confusion, Jang Taebo asked as though nothing had happe
 
 “It’s bitter.”
 
-His brazen answer left me speechless for a moment.
+His unabashed answer left me speechless.
 
-What was that—a sentence or a fart?
+What kind of nonsense was that?
 
 “Of course it’s bitter. It’s good for your health.”
 
@@ -350,7 +350,7 @@ He supposedly gambled sometimes, but that sounded exactly like something a cards
 
 I opened the wooden box with a strange feeling of tension.
 
-“Sakura![^2] …No, it’s He Shou Wu?”
+“A fake! …No, it’s He Shou Wu?”
 
 He Shou Wu?
 
@@ -416,13 +416,12 @@ Ding.
 >
 > Quest **In Search of the Herb of Eternal Youth** has been created.
 >
-> Would you like to accept the Quest?
+> **Would you like to accept the Quest?**
 >
-> Y / N
+> **Y / N**
 
 This time, I shouted,
 
 “No!”
 
 [^1]: He Shou Wu is a traditional medicinal herb made from the tuberous root of *Polygonum multiflorum*.
-[^2]: Sakura (“cherry blossom”) is one of the flower cards in hwatu, the card game widely played in Korea; the word is also slang for a fake.
