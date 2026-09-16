@@ -14,7 +14,7 @@ The middle-aged martial artist and Jang Childeuk were staring at the sky again t
 
 “Oof. You must have fallen from pretty high up.”
 
-“Barely five jang or so. I trained for three months without missing a single day, only to break my ankle.”
+“Barely five jang. I trained every day for three months without missing a single one, only to break my ankle.”
 
 “That’s a shame.”
 
@@ -24,23 +24,23 @@ The middle-aged martial artist and Jang Childeuk were staring at the sky again t
 
 “A master of the Wall Lizard Technique? Me? I’ve practiced sword techniques my entire life and still haven’t made it past Second Rate.”
 
-The middle-aged martial artist let out a quiet laugh and pointed at the cliff.
+The middle-aged martial artist laughed quietly and pointed at the cliff.
 
-“Whatever the martial art, you need talent to be called a master. Don’t you feel anything when you look at those two?”
+“Whatever the martial art, you need talent to become a master. Don’t you feel anything when you look at those two?”
 
-“That’s certainly true.”
+“You have a point.”
 
 The two men watched the figures rapidly climbing the cliff.
 
-There was no mistaking them. Jin Taekyung and Hyuk Mujin were dedicating themselves to Wall Lizard Technique training again today.
+There was no mistaking them. Jin Taekyung and Hyuk Mujin were devoting themselves to the Wall Lizard Technique again today.
 
 *Thud-thud-thud-thud!*
 
 Stones and snowballs came tumbling down from far above.
 
-At that very moment, both men were thinking the same thing.
+At that moment, both men were thinking the same thing.
 
-*Are those people or lizards?*
+*Are those men or lizards?*
 
 Their hands and feet moved without hesitation as they scaled the nearly vertical cliff.
 
@@ -94,7 +94,7 @@ I shouted down at Hyuk Mujin, who was crawling up from far below.
 
 “…Oh. Right.”
 
-What a brutally quick answer.
+Talk about an immediate answer.
 
 Of course he wasn’t okay, but most people would at least pretend they were. Hyuk Mujin didn’t bother.
 
@@ -108,7 +108,7 @@ For all his complaining, he was keeping up fairly well. This training had confir
 
 I wedged myself into a hollow in the cliff and took a moment to catch my breath.
 
-*Open the Quest window.*
+*Open the Quest Window.*
 
 *Ding.*
 
@@ -120,7 +120,7 @@ I wedged myself into a hollow in the cliff and took a moment to catch my breath.
 >
 > A master is forged through countless rounds of tempering and hammering.
 >
-> Cheongpung, who received harsh training from the Sword Saint, will revive his childhood memories and put you through training!
+> Having endured the Sword Saint’s grueling training, Cheongpung will draw upon his childhood memories to train you!
 >
 > **Grade:** Peak
 >
@@ -138,7 +138,7 @@ I wedged myself into a hollow in the cliff and took a moment to catch my breath.
 >
 > **Cheongpung** is extremely saddened.
 
-Today marked exactly three days since we started climbing this damned cliff.
+Today marked exactly three days since we had started climbing this damned cliff.
 
 We had only one climb left before completing the Quest, but I still couldn’t let my guard down.
 
@@ -150,15 +150,9 @@ Because…
 
 “Oh, there you are! I ran out of things to throw nearby, so it took me a while to find more!”
 
-Because of this psychopath who wanted to drop a boulder straight onto my face at any moment.
-
-The first climb had been hard enough, but Cheongpung’s interference had grown more intense with every round.
-
-I curled up as tightly as I could and shouted.
-
 “Why would you go looking for more? If you run out of rocks, just stop throwing them!”
 
-“But… if I don’t do this, you won’t be able to learn the Wall Lizard Technique properly, Benefactor!”
+“But… if I don’t do this, you won’t learn the Wall Lizard Technique properly, Benefactor!”
 
 “…”
 
@@ -166,17 +160,17 @@ Was this guy insane?
 
 How many people in the world learned the Wall Lizard Technique by getting pelted with boulders?
 
-Just as I was rendered speechless by the sheer absurdity of it, a battered hand shot up into the hollow where I was hiding.
+As I stood there speechless with disbelief, a battered hand suddenly shot into the hollow where I was hiding.
 
 It wasn’t the hand of some ghost who had died here long ago while training in the Wall Lizard Technique.
 
-Naturally, it was Hyuk Mujin.
+Naturally, it belonged to Hyuk Mujin.
 
 “Haaaargh. I’m dying.”
 
 When you were truly exhausted, you couldn’t even speak. You got so out of breath that your head rang, and merely breathing made your chest ache.
 
-Even so, Mujin still looked like he had plenty of life left in him. He crawled in beside me and spread his legs wide.
+Mujin still looked like he had plenty of life left in him, though. He crawled in beside me and spread his legs wide.
 
 “Hey, it’s cramped in here.”
 
@@ -184,7 +178,7 @@ Even so, Mujin still looked like he had plenty of life left in him. He crawled i
 
 “Pull your legs in or move over. This is basically a one-person seat.”
 
-“Ah, I’m exhausted. You move over, Captain. Aren’t you being too harsh on your right-hand man after he worked so hard to get up here?”
+“Ah, I’m exhausted. You move, Captain. Aren’t you being too harsh on your right-hand man after he worked so hard to get up here?”
 
 “I treat my right arm well. But you’re my little toe, so I can be a little harsh.”
 
@@ -194,9 +188,9 @@ I answered with a perfectly serious expression.
 
 “Why would you say that? Of course not.”
 
-“Oh, wow. What’s gotten into you all of a sudden, Captain…”
+“Oh. What’s gotten into you all of a sudden, Captain…?”
 
-“I’d feel stifled and guilty for a while. But after a year or so, I’d be fine. After ten years or so, I’d have forgotten your face.”
+“I’d feel terrible and guilty for a while. But I’d be fine after a year or so, and in ten years, I’d probably forget your face.”
 
 “…That’s awfully realistic.”
 
@@ -208,9 +202,9 @@ I didn’t care if a manspreader got his skull cracked by a rock. That was what 
 
 Hyuk Mujin pulled his legs tightly together, caught his breath, and sighed.
 
-“No matter how I think about it, this is insane.”
+“The more I think about it, the more insane this seems.”
 
-“What is?”
+“What does?”
 
 “Cheongpung is insane for making us do this, and I’m insane for doing it just because he told me to.”
 
@@ -222,11 +216,11 @@ Hyuk Mujin pulled his legs tightly together, caught his breath, and sighed.
 
 “What?”
 
-“Going at it like it’s do or die. That’s the answer. Later, when death really is staring you in the face, you’ll regret this moment.”
+“Going at it like it’s do or die. That’s the answer. When death really is staring you in the face someday, you’ll regret this moment.”
 
 I tied back my disheveled hair and continued.
 
-“Ah, I should’ve worked harder back then. You know, that kind of regret.”
+*I should’ve worked harder back then.* “You know, that kind of regret.”
 
 I prided myself on having worked hard enough as a Hunter to practically shit blood. But even after all that, I was still left with regrets.
 
@@ -236,7 +230,7 @@ Regret always came too late. It only sank bone-deep after you had lost something
 
 “Uh…”
 
-Hyuk Mujin stared at me with round eyes.
+Hyuk Mujin stared at me, his eyes wide.
 
 “You sound like you’re speaking from experience.”
 
@@ -244,15 +238,15 @@ Hyuk Mujin stared at me with round eyes.
 
 “Words feel different depending on who says them. The Captain I know is, um…”
 
-“Not exactly someone who should be saying that, having grown up as a young master who never wanted for anything?”
+“Not exactly someone who should be saying that, since I grew up as a pampered young master?”
 
-“If I had to put it that way, then yes. You look like someone who’s never lost anything precious in his life, but you talk like a battle-hardened veteran who’s been through every possible hardship.”
+“If you want to put it that way, then yes. You look like someone who’s never lost anything precious in his life, but you talk like a battle-hardened veteran who’s been through every hardship imaginable.”
 
 This guy had pretty good instincts.
 
 Or maybe that was how I looked to everyone else, too.
 
-I simply let out a quiet laugh without answering. Hyuk Mujin eyed me suspiciously.
+I laughed quietly without answering. Hyuk Mujin eyed me suspiciously.
 
 “What’s with that laugh?”
 
@@ -262,7 +256,7 @@ I simply let out a quiet laugh without answering. Hyuk Mujin eyed me suspiciousl
 
 “What?”
 
-“It’s a little late to bring this up, but… you’ve changed too much. Your personality, your martial arts—everything. It’s like you’ve become a completely different person.”
+“It feels a little late to bring this up, but… you’ve changed too much. Your personality, your martial arts—everything. It’s like you’ve become a completely different person.”
 
 “Haven’t you heard the rumors? I’m a secret weapon raised in secret by the Jin Family of Taiyuan.”
 
@@ -272,17 +266,17 @@ I simply let out a quiet laugh without answering. Hyuk Mujin eyed me suspiciousl
 
 “Yes. At first, I thought you might be wearing a human-skin mask, but that doesn’t seem to be it.”
 
-“A human-skin mask? The kind where you peel the skin off someone’s face and wear it?”
+“A human-skin mask? The kind made by peeling the skin off someone’s face?”
 
-“See? You ask again as if you’re hearing about it for the first time. You also say things that make no sense all the time.”
+“See? You ask as though you’ve never heard of one before. And you’re always saying things nobody understands.”
 
 “Hmm.”
 
-Come to think of it, at some point I had stopped worrying so much about avoiding suspicion. Everyone around me thought I was Jin Taekyung of the Jin Family of Taiyuan. I had also long since accepted my Murim self as part of who I was.
+Come to think of it, at some point I had stopped worrying so much about arousing suspicion. Everyone around me believed I was Jin Taekyung of the Jin Family of Taiyuan. I had long since accepted my Murim self as part of who I was, too.
 
-“If you’re some kind of double put forward by a shadowy organization like the ones in novels, tell me now. I’ll quietly let it slide.”
+“If you’re some kind of double planted by a shadowy organization like the ones in novels, tell me now. I’ll quietly let it slide.”
 
-“What an absurd thing to say. Then you should report me immediately.”
+“What an absurd thing to say. You should report me immediately.”
 
 “Well, I like you much better now than before. And I owe you my life. Hehe.”
 
@@ -290,15 +284,15 @@ His lips were smiling, but he wasn’t joking. The subtle bob of his throat and 
 
 I thought for a moment, then spoke.
 
-“Want me to tell you honestly?”
+“Want me to tell you the truth?”
 
-“H-honestly?”
+“Th-the truth?”
 
 “I’ve been itching to tell someone anyway, so this works out. The location is perfect, too.”
 
 Hyuk Mujin glanced around anxiously.
 
-The hollow in the cliff was just large enough for two people to plant their backsides. As luck would have it, the lunatic who would drop a rock on us the moment we stuck our faces outside was waiting nearby, too.
+The hollow in the cliff was barely large enough for two people to sit side by side. As luck would have it, a lunatic was waiting to drop a rock on us the moment we poked our heads out.
 
 It was the perfect spot for two people to sit together until one of them died, with no one the wiser.
 
@@ -310,7 +304,7 @@ Hyuk Mujin swallowed hard.
 
 “Too late.”
 
-“Gasp! I won’t say anything! I meant what I said earlier!”
+“Gasp! I won’t say anything! I meant what I said!”
 
 “Even if I belonged to the Demonic Cult?”
 
@@ -320,21 +314,21 @@ Hyuk Mujin swallowed hard.
 
 “I’ll pretend I didn’t hear it. No, I won’t listen!”
 
-Hyuk Mujin’s face turned deathly pale as he tried to cover his ears, but my words came a moment faster.
+Hyuk Mujin’s face turned deathly pale as he tried to cover his ears, but I spoke first.
 
 “I’m actually from another world.”
 
 “…?”
 
-“People can talk to each other even when they’re ten thousand li apart, and monsters with horns or wings roam everywhere. If you put it in Murim terms, I suppose you’d call them evil spirits.”
+“People can talk to each other from ten thousand li away, and monsters with horns or wings are everywhere. In Murim terms, I suppose you’d call them evil spirits.”
 
 “…What?”
 
-“Anyway, somehow I ended up here from that kind of world. Then strange things started appearing before my eyes, and suddenly—Level Up! Bam! Points! Boom! Ding-ding-ding inside my head!”
+“Anyway, I somehow ended up here from that world. Then strange things started appearing before my eyes, and suddenly—Level Up! Bam! Points! Boom! Ding-ding-ding inside my head!”
 
 “…”
 
-“Anyway, I only entered the world of martial arts two or three months ago. I’ve wiped the floor with dozens of First Rate masters and taken down three Peak masters. So, any questions?”
+“Anyway, I only started learning martial arts two or three months ago. I’ve wiped the floor with dozens of First Rate masters and taken down three Peak masters. Now, here’s the question.”
 
 Hyuk Mujin slowly lowered the hands that had been half-covering his ears.
 
@@ -348,11 +342,11 @@ His expression was a complicated mixture of irritation and relief.
 
 *Smack!*
 
-I smacked him on the back of the head, then stood up.
+I smacked him on the back of the head, then stood.
 
-It was a true story, but it didn’t sound true.
+It was a true story that didn’t sound remotely true.
 
-Of course, I had expected Hyuk Mujin to react this way. That was precisely why I had told him.
+Of course, I had only told him because I knew he would react this way.
 
 Someone coming from another world? Anyone would think it was ridiculous.
 
@@ -362,7 +356,7 @@ Someone coming from another world? Anyone would think it was ridiculous.
 
 “Oh, come on! Just stop!”
 
-I grabbed Hyuk Mujin by the shoulder as he stood up. The next instant, a boulder as tall as a grown man shot past us with a murderous shriek of displaced air.
+I grabbed Hyuk Mujin by the shoulder as he rose. The next instant, a boulder as tall as a grown man hurtled past with a murderous shriek.
 
 “Watch yourself. We still have a long way to go.”
 
@@ -378,11 +372,11 @@ The moment Hyuk Mujin and I finally reached the summit, System notifications eru
 
 > **System**
 >
-> - **Cliff climb:** 10 times (10/10)
+> - Cliff climbs: 10/10
 >
 > - Quest successfully completed!
 >
-> - New martial art, **Wall Lizard Technique**, is now activated!
+> - The new martial art **Wall Lizard Technique** has been activated!
 >
 > - You have achieved outstanding results beyond expectations. An additional Reward will be granted!
 >
@@ -392,7 +386,7 @@ The moment Hyuk Mujin and I finally reached the summit, System notifications eru
 >
 > - The Title **Beginner Trainee** has been upgraded to **Intermediate Trainee**!
 >
-> - Open the relevant System window to check and apply the changes.
+> - Open the relevant System Window to review and apply the changes.
 
 Cheongpung beamed at us.
 
@@ -400,7 +394,7 @@ Cheongpung beamed at us.
 
 “…What’s that supposed to mean?”
 
-“By any chance—”
+“Wait.”
 
 *This bastard. Don’t tell me…*
 
@@ -416,15 +410,15 @@ Who was Cheongpung? The Sword Saint’s successor and a Peak master who had defe
 
 But…
 
-“What are you so happy about, punk? We’re not the same age. Right?”
+“What are you so pleased about, punk? We weren’t the same age. Right?”
 
 “I wasn’t even that young! I was already ten years old!”
 
 “…Isn’t ten usually considered young?”
 
-Cheongpung smiled brightly as he reminisced about those days.
+Cheongpung smiled brightly as he reminisced.
 
-“Back then, climbing up Falling Goose Peak and falling back down was part of my daily routine. It was so much fun.”
+“Back then, climbing Falling Goose Peak and falling off was part of my daily routine. It was so much fun.”
 
 “Falling Goose Peak?”
 
@@ -436,7 +430,7 @@ Cheongpung smiled brightly as he reminisced about those days.
 
 Wasn’t ten too young even to watch a movie rated fifteen-plus?
 
-At that age, he would’ve only been in third grade—barely old enough to count as a snot-nosed schoolkid.
+At that age, he would have been in third grade—barely old enough to call a snot-nosed schoolkid.
 
 *When I was that age, I played on the jungle gym in the schoolyard…*
 
@@ -450,7 +444,7 @@ Cheongpung clapped excitedly all by himself, then continued.
 
 “So, about that…”
 
-Sensing something ominous, Hyuk Mujin hurriedly cut in.
+Sensing something ominous, Hyuk Mujin hurriedly cut him off.
 
 “No. Hold on. Wait just a second.”
 
@@ -458,7 +452,7 @@ Sensing something ominous, Hyuk Mujin hurriedly cut in.
 
 “Hey! I said wait a second!”
 
-Hyuk Mujin lunged at him with a shout, but it was already too late. Cheongpung effortlessly subdued him with a grappling technique and called out energetically,
+Hyuk Mujin lunged at him with a shout, but it was already too late. Cheongpung effortlessly subdued him with a grappling technique and declared energetically,
 
 “Let’s all give it our best!”
 
@@ -466,7 +460,7 @@ Hyuk Mujin lunged at him with a shout, but it was already too late. Cheongpung e
 
 > **System**
 >
-> - **Cheongpung** is in extremely high spirits over your outstanding achievement!
+> - **Cheongpung** is elated by your outstanding achievement!
 >
 > - As a special Reward, the linked Quest **Sword Saint Training: A Secondhand Experience—2** has been generated!
 
