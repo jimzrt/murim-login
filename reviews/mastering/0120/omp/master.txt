@@ -8,7 +8,7 @@ For the briefest moment, a mocking smile appeared at the corner of Pung Yang’s
 
 *I knew this was coming.*
 
-He had spent decades living in Gaoyuan, where every kind of underhanded trick ran rampant. If he had been foolish enough to fall for the same trick twice, he would have become wild-dog food long ago.
+He had spent decades on the plateau, where every kind of underhanded trick ran rampant. If he were foolish enough to fall for the same trick twice, he would have become wild-dog food long ago.
 
 *But where did that sword come from?*
 
@@ -22,7 +22,7 @@ He had expected this, so his response was quick. Red qi surged up in an instant 
 
 Body-Protecting Qi was invincible armor that nothing short of powerful Sword Energy could so much as scratch. The young brat’s futile struggle was laughable.
 
-*What an annoying bastard. Just die already.*
+*Persistent bastard. Just die already.*
 
 He was about to snap Jin Taekyung’s neck in a single motion when—
 
@@ -30,7 +30,7 @@ He was about to snap Jin Taekyung’s neck in a single motion when—
 
 “…Huh?”
 
-A cold chill pierced his body, followed by searing pain. Pung Yang stared wide-eyed at the sword that had pierced straight through his chest.
+A cold chill pierced his body, followed by searing pain. Pung Yang stared wide-eyed at the sword protruding through his chest.
 
 *What the hell?*
 
@@ -38,33 +38,33 @@ His Body-Protecting Qi had vanished.
 
 No—it had been destroyed.
 
-Jin Taekyung’s sword sliced through it as easily as cutting tofu, then pierced Pung Yang’s chest as well.
+Jin Taekyung’s sword had sliced through it like tofu and pierced straight through his chest.
 
-Pung Yang looked down at the transparent blade, unstained by even a drop of blood, and muttered like he was groaning.
+Pung Yang looked down at the transparent blade, unstained by even a drop of blood, and groaned.
 
 “Ten-Thousand-Year Cold Iron…?”
 
-He had heard of it before. Stories about a divine weapon said to be capable of cutting and breaking anything in the world.
+He had heard stories about divine weapons capable of cutting and shattering anything in the world.
 
 “How did you get this?”
 
-Pung Yang glared at the sword’s owner with a twisted expression. The young brat from the Jin Family of Taiyuan blinked innocently.
+Pung Yang glared at the sword’s owner, his face twisting. The young brat from the Jin Family of Taiyuan blinked innocently.
 
-“Wow. This actually worked.”
+“Wow. That actually worked.”
 
 “You fucking bastard…!”
 
-He wanted to snap the brat’s neck right away, but his vision suddenly went hazy, and the strength drained from his grip. The power that had filled his body vanished like the outgoing tide, leaving only helplessness in its wake.
+He wanted to snap the brat’s neck then and there, but his vision suddenly dimmed and the strength drained from his grip. The power filling his body receded like the tide, leaving helplessness in its wake.
 
 *The Temporary Strength Pill had to wear off now of all times.*
 
 Blood streamed from the seven openings in Pung Yang’s face as he staggered backward.
 
-The injuries he had suffered, both great and small, combined with the dispersal of his Body-Protecting Qi. The internal energy surging backward through his body began driving him rapidly toward death.
+The injuries he had suffered, both great and small, combined with the backlash from his shattered Body-Protecting Qi. His internal energy surged in reverse, driving him rapidly toward death.
 
 *I can’t die like this. I can’t.*
 
-Pung Yang hurriedly searched inside his robes.
+Pung Yang frantically searched inside his robes.
 
 He still had one Temporary Strength Pill left. If he took it, he could beat these bastards to death in a single stroke and leave this place. He had lost plenty, but he could recover and return to Murim afterward.
 
@@ -74,7 +74,7 @@ Yes. All he had to do was take the Temporary Strength Pill…
 
 Damn it. He was in too much of a hurry.
 
-The wooden box slipped from Pung Yang’s frantic hand, struck the ground, and sprang open. A pill tinged with a blood-red color rolled across the ground before coming to a stop beneath someone’s foot.
+The wooden box slipped from his frantic hands, struck the ground, and sprang open. A blood-red pill rolled away and stopped beneath someone’s foot.
 
 “Oh, so this is the Temporary Strength Pill?”
 
@@ -88,9 +88,9 @@ Jin Taekyung picked it up and examined it curiously. Pung Yang shouted at him.
 
 Pung Yang lunged forward with all his remaining strength, but his ruined body had already reached its limit. His legs gave out before he could reach Jin Taekyung, and he crumpled to the ground.
 
-Only one path remained to Pung Yang now.
+Only one path remained to him now.
 
-“Please. I’m begging you. Give it to me. Give it to me!”
+“Please. I’m begging you. Give it to me.”
 
 “What if I do?”
 
@@ -114,7 +114,7 @@ Blood poured out like a waterfall, accompanied by dizzying pain.
 
 Pung Yang didn’t even notice the pieces of internal organs mixed with the blood he vomited.
 
-All he felt was his vision gradually darkening and the sounds around him receding into the distance.
+All he felt was his vision gradually darkening and the sounds around him fading into the distance.
 
 He was dying, and desperation had driven him half-mad.
 
@@ -130,7 +130,7 @@ Through his blurred vision, he saw Jin Taekyung shake his head. Pung Yang mumble
 
 “Why? Why not?”
 
-But the answer came from somewhere else.
+But the answer came from elsewhere.
 
 “What? Why?”
 
@@ -144,23 +144,25 @@ Lee Seowol also bit her lip and aimed her bow at Pung Yang, but Jin Taekyung hur
 
 Lee Seowol wrestled with the decision for a moment before finally lowering her bow. Jin Taekyung approached Pung Yang and whispered into his ear.
 
-“I’m starting to get tired too. Let’s just die now.”
+“I’m starting to struggle too. Let’s die now.”
 
 Pung Yang didn’t understand what he meant, but one thing was certain.
 
 Death.
 
-Pung Yang realized that his own death was almost upon him.
+His own death was almost upon him.
 
 “Even if I become a vengeful ghost, I’ll have my revenge.”
 
-“Amen. In your next life, be satisfied with Viagra.”
+“Amen. In your next life, try to be satisfied with Viagra.”
 
-Pung Yang gave a hollow laugh. It was absurd that he had to listen to that bastard’s incomprehensible nonsense until the very end.
+Pung Yang let out a hollow laugh. The absurdity of having to listen to that bastard’s incomprehensible nonsense until his final moment was almost funny.
 
 *Damn it. What terrible weather.*
 
-He raised his head and looked at the sky. It was entirely red.
+He raised his head and looked at the sky.
+
+It was entirely red.
 
 Then darkness swallowed it.
 
@@ -209,7 +211,7 @@ I could feel power filling every limb and bone. The Scorching Yang Qi that had b
 
 *I did it.*
 
-I had planned to circulate my qi and control the Scorching Yang Qi once my body recovered somewhat from the level-ups, but thanks to the System, I had handled the difficult part with ease.
+I had planned to circulate my qi and bring the Scorching Yang Qi under control once the level-ups healed me enough, but thanks to the System, the difficult part had taken care of itself.
 
 *Forty-five years? Just how much is that?*
 
@@ -219,17 +221,17 @@ It was three times what I’d originally possessed—an increase of half a jiazi
 
 Under normal circumstances, I would have put off taking the Blazing Flame Divine Pill. But the gamble had turned out to be a masterstroke.
 
-*I would have died if luck hadn’t been on my side, though.*
+*Though I would’ve died if luck hadn’t been on my side.*
 
 Two strokes of heavenly luck.
 
 One was the Blazing Flame Divine Pill. The other was the **Unnamed Sword** in my hand.
 
-Both were loot I had obtained after defeating Jopil several months ago.
+Both were loot I’d obtained after defeating Jopil several months ago.
 
 *Without this, I really would’ve been screwed.*
 
-I’d thought it was merely a little sharper and harder than other swords. Never in my wildest dreams had I imagined it was actually Ten-Thousand-Year Cold Iron—or that it had such an ability.
+I’d thought it was merely a little sharper and sturdier than other swords. Never in my wildest dreams had I imagined it was made of Ten-Thousand-Year Cold Iron—or that it had such an ability.
 
 In that sense, *seven parts luck and three parts skill* didn’t suit me today. *Nine parts luck and one part qi* was much more appropriate.[^1]
 
@@ -237,21 +239,21 @@ In that sense, *seven parts luck and three parts skill* didn’t suit me today. 
 
 I slowly looked around.
 
-A graveyard of weapons stood with their hilts buried in the ground. Some people had died with their faces planted in pools of blood. Others stared wide-eyed at the sky as dawn began to break.
+A graveyard of weapons stood driven upside down into the ground. Some people had died facedown in pools of blood. Others stared wide-eyed at the brightening dawn sky.
 
-There were hundreds of corpses like that.
+There were hundreds of corpses like them.
 
 “There’s a survivor here!”
 
 “Chunsam! Wake up!”
 
-Amid that horrific scene, the martial artists of the Mount Heng Sword Sect moved tirelessly. As I watched them rescue the few survivors with disciplined efficiency, I was suddenly seized by an inexplicable sense of wrongness.
+Amid the horrific scene, the martial artists of the Mount Heng Sword Sect moved tirelessly. As I watched them rescue the few survivors with disciplined efficiency, I was suddenly struck by an inexplicable sense that something was wrong.
 
 *What is it?*
 
 It felt like I’d forgotten something important…
 
-Just as I was frowning, one of the corpses that had been lying motionless sat up.
+Just then, one of the corpses lying motionless on the ground sat up.
 
 “Guuuuuh.”
 
@@ -261,7 +263,7 @@ Right. Good to see you, Mukyung.
 
 * * *
 
-By the time the two-shichen search was over, Lee Seowol was soaked in blood.
+By the time the four-hour search was over, Lee Seowol was soaked in blood.
 
 “How many survivors?”
 
@@ -271,7 +273,7 @@ By the time the two-shichen search was over, Lee Seowol was soaked in blood.
 
 “Twenty-five. Five of them probably won’t make it through today.”
 
-Both Lee Seowol, who had asked the question, and the martial artist who answered it fell silent.
+Both Lee Seowol and the martial artist who had answered her fell silent.
 
 The Mount Heng Sword Sect, which had once divided Shanxi Province with the Jin Family of Taiyuan, no longer existed. All that remained were the wounded and a young Sect Leader who wasn’t even twenty years old.
 
@@ -281,9 +283,9 @@ Regret was always futile.
 
 But Lee Seowol had to regret.
 
-Although few remained, she was still the Sect Leader of a sect. Only by agonizing over her mistakes and regretting them to the bone could she avoid making the same mistakes again.
+Though few remained, she was still the leader of a sect. She had to agonize over her mistakes and regret them to the bone, or she would make the same mistakes again.
 
-That was her atonement to those who had died today and her effort on behalf of those who remained.
+That was her atonement to those who had died today and her duty to those who remained.
 
 *The Mount Heng Sword Sect will survive. If only for those who gave their lives for our sect.*
 
@@ -293,13 +295,13 @@ Lee Seowol clenched her fist. Her fingernails, broken from drawing the bowstring
 
 “They’re all in the main hall. A woman from the Jin Family of Taiyuan knows a fair amount about medicine and is treating the wounded, but…”
 
-The martial artist’s expression darkened. It was proof of just how bad the condition of some of the wounded was.
+The martial artist’s expression darkened. Several of the wounded were clearly in bad condition.
 
 Lee Seowol asked no more questions and headed toward the main hall.
 
-*We haven’t even had time to collect ourselves, and already I’m sending them off again.*
+*We haven’t even had time to collect ourselves, and already I must send more of them off.*
 
-Unbearable fatigue pressed down on her entire body, but she held on through sheer willpower.
+Unbearable fatigue weighed down her entire body, but she endured through sheer willpower.
 
 At the very least, she had to be there for their final moments.
 
@@ -319,13 +321,13 @@ The Tiger of Mount Heng, Cheol Mubaek, and more than a dozen martial artists not
 
 Was it just her imagination?
 
-For people on the verge of death, they seemed strangely full of energy. After staring at them in silence for a while, Lee Seowol realized what that energy meant.
+For people on the verge of death, they seemed strangely full of energy. After staring at them in silence for a while, Lee Seowol realized what that vitality meant.
 
 “A final rally…”
 
 Only then did she see the dark shadow of death hanging over their faces.
 
-Just as she hurriedly turned away to hold back her tears—
+She hurriedly turned away, struggling to hold back her tears—
 
 *Bang!*
 
@@ -337,7 +339,7 @@ Lee Seowol staggered after striking her forehead against something solid. As she
 
 “Then we’re good.”
 
-Jin Taekyung looked down at Lee Seowol and let out a short laugh.
+Jin Taekyung looked down at Lee Seowol and let out a quiet laugh.
 
 * * *
 
@@ -345,7 +347,7 @@ Jin Taekyung looked down at Lee Seowol and let out a short laugh.
 
 I barely held back a snort.
 
-Cheol Mubaek and the other wounded were all recovering vigorously.
+Cheol Mubaek and the other wounded were all recovering nicely.
 
 Of course, Jin Mukyung was no exception.
 
@@ -359,7 +361,7 @@ The thirty **Superior Wound Medicines** and thirty **Ten-Year He Shouwu** I’d 
 
 But I wasn’t heartless enough to ignore people dying right in front of me.
 
-Of course, the sheer quantity had played a part too.
+Of course, having so many to spare had played a part too.
 
 “Aren’t you coming in?”
 
@@ -369,7 +371,7 @@ Of course, the sheer quantity had played a part too.
 
 I was about to walk past Lee Seowol, who was standing there in a daze, when I suddenly remembered what I’d forgotten.
 
-*Wait. Where did I put that?*
+*Wait. Where did I put it?*
 
 “Ah, here it is.”
 

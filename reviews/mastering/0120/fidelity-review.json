@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "That bastard deserves to be torn limb from limb!",
+      "defect": "This reduces the speaker’s claim that even tearing Pung Yang apart would not be enough to satisfy their rage to a simpler statement of deserved punishment.",
+      "id": "F01",
+      "rationale": "저 찢어 죽여도 시원찮을 놈이 states that killing him by tearing him apart would still be insufficient, not merely that he deserves such a death.",
+      "replacement": "Even tearing that bastard apart wouldn’t be enough…!",
+      "severity": "minor",
+      "source": "Korean line 135 / P69"
+    }
+  ],
+  "summary": "The chapter is faithful overall, with one minor loss of intensity.",
+  "version": 1
+}
