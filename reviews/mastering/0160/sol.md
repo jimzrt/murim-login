@@ -10,7 +10,7 @@ There was a simple reason I was flatly denying the words of Mae Jonghak, the gre
 
 *Nothing special, my ass.*
 
-He had said that changing one’s position changed the view one could see. Behind the Peak wall I had barely crossed, a rugged mountain range was waiting.
+They say that when the position you stand in changes, the scenery you see changes too. Behind the Peak wall I had barely crossed, a rugged mountain range was waiting.
 
 *I still have a long way to go.*
 
@@ -166,7 +166,7 @@ I also realized that, as I was now, I could never defeat Cheongpung if he fought
 
 *Unless he went easy on me.*
 
-But that was not what I wanted. Winning a duel against an opponent who was not giving his all would only leave a bitter taste.
+But that was not what I wanted. Winning a duel against an opponent who was not giving his all would only leave me feeling hollow.
 
 “Don’t be impatient. For the time being, you’ll be busy just digesting the enlightenment you gained today.”
 
@@ -364,7 +364,7 @@ It had happened centuries ago, but their pride had never died.
 
 “You Han Chinese bastard, lower than a dog!”
 
-Temur had always been hot-tempered and reckless. Before Chinggen had time to stop him, his hand snatched the curved saber.
+Temur had always been hot-tempered and reckless. Before Chinggen had time to stop him, his hand snatched at the curved saber.
 
 “I’ll offer your head to the Tengger God—”[^4]
 
