@@ -70,7 +70,7 @@ He did not leave until “kimochi” changed to “yamete.”
 
 By the time Jeok Cheongang could no longer endure the discomfort and fled from the room, goose bumps had broken out all over his forearms.
 
-*…So it is a dark art after all?*
+*…Could this be some kind of dark art?*
 
 His suspicions had just deepened.
 
@@ -106,7 +106,7 @@ Something that had been crouching in a dark corner slowly stood up.
 
 Hyuk Mujin answered gruffly.
 
-“What’s so surprising? This isn’t the first or second time you’ve seen my face.”
+“What are you so surprised about? It’s not like you’re seeing this face for the first time.”
 
 “Look at your face. Do you think anyone could get used to it?”
 
@@ -156,7 +156,7 @@ Hyuk Mujin continued with an aggrieved expression.
 
 “…Stop it, you bastard.”
 
-This was an all-time humiliation play.
+This was the greatest humiliation of my life.
 
 No wonder I had felt so electrified when I woke up. I must have been having a pretty good dream.
 
@@ -176,9 +176,9 @@ There was no doubt who I was referring to. Hyuk Mujin answered in a lowered voic
 
 “He’s on the first floor. He’s drinking it up with Young Hero Cheongpung.”
 
-“Yeah? How long?”
+“He is? How long?”
 
-“I don’t know exactly. I only woke up not long ago, but I asked the waiter earlier. He said it had already been more than three shichen.”
+“I don’t know exactly. I only woke up not long ago, but I asked the server earlier. He said it had already been more than three shichen.”
 
 I did not need to focus my internal energy.
 
@@ -188,7 +188,7 @@ My hearing had sharpened by a level when I reached Peak, and it clearly carried 
 
 One old man who threw punches before asking a single question, and one idiot who had barged in without reading the room and caused this whole disaster.
 
-I wanted to crack those thugs’ heads open with a liquor bottle and shout, “Justice has been served!” But I held myself back.
+I wanted to smash those villains’ heads in with a liquor bottle and shout, “Justice has been served!” But I held myself back.
 
 …To be precise, I had no choice but to hold myself back.
 
@@ -226,11 +226,11 @@ I began pulling on the clothes draped over the table at the speed of light.
 
 “What?”
 
-“I said I’m running. What, you want to come with me?”
+“I said I’m running. What about it? Do you want to come with me?”
 
 Hyuk Mujin grabbed my arm in a panic.
 
-“Wait, why are you running away?”
+“Why are you running away?”
 
 “I don’t know when that old geezer might lose his temper and burn me to death. If you were me, wouldn’t you want to run?”
 
@@ -238,13 +238,13 @@ Hyuk Mujin grabbed my arm in a panic.
 
 “If you mean the Head Elder?”
 
-“Yes. If it’s about that, Young Hero Cheongpung and I already…”
+“Yes. If that’s what you mean, Young Hero Cheongpung and I already…”
 
 I cut him off firmly.
 
 “You must have explained everything ages ago. The misunderstanding should be cleared up by now.”
 
-“Oh, so you already knew.”
+“Oh, you know?”
 
 “Do you think I’m an idiot?”
 
@@ -260,11 +260,11 @@ Every minute and second was precious.
 
 I quickly rummaged through my clothes, pretending to search them, then pulled out an item from my Inventory and waved it.
 
-“Here, the reason.”
+“Here. This is the reason.”
 
 **Flame Divine Palm**
 
-After checking the cover of the worn old book, Hyuk Mujin muttered,
+After checking the cover of the old martial arts manual, Hyuk Mujin muttered,
 
 “Ah, shii…”
 
@@ -280,7 +280,7 @@ Instead, he spread the wings of his desperate imagination, full of dreams and ho
 
 “W-wait a second. The two of them might not be master and disciple.”
 
-“If they aren’t master and disciple, what are they? Father and son? Given how foul-tempered they both are, that actually has some merit. Right?”
+“If they aren’t master and disciple, what are they? Father and son? Considering how foul-tempered they both are, that actually has some merit. Don’t you think?”
 
 “Jopil might have stolen Great Hero Jeok’s belongings.”
 
@@ -302,7 +302,7 @@ After hesitating for a moment, Hyuk Mujin nodded.
 
 Hyuk Mujin continued speaking as though he had not heard me.
 
-“Even if Jopil was Great Hero Jeok’s Disciple, we merely did our duty. He was even the one who charged at us and tried to kill us first.”
+“Even if Jopil was Great Hero Jeok’s Disciple, we merely did our duty. He was the one who charged at us and tried to kill us first.”
 
 “Right. You and Cheongpung will be safe either way, so tell him that for me. I’m leaving.”
 
@@ -316,13 +316,13 @@ I peeled his hand away from my arm one finger at a time and asked,
 
 Hyuk Mujin nodded vigorously.
 
-“Of course. Who’d want to swallow it and burn to death?”
+“Of course. Do you want to keep it and burn to death?”
 
 “But what do you think would happen if we told him we couldn’t return it?”
 
 “What? Captain, are you perhaps tempted by the Flame Divine Palm…?”
 
-“Am I insane? Living long and thin is my life’s philosophy. That’s why I even shit thin and long on purpose!”
+“Am I insane? Living a long and uneventful life is my philosophy. That’s why I even make my dumps thin and long on purpose!”
 
 Under normal circumstances, he would have made a disgusted face and complained about my dirty talk. But now, he merely kept gulping dryly.
 
@@ -354,7 +354,7 @@ To the north, in the direction of the Mount Heng Sword Sect.
 
 “Do you remember when we went to the Mount Heng Sword Sect last time?”
 
-“Why bring that up all of a sudden?”
+“Why are you suddenly bringing that up?”
 
 “The Red Wind Band Leader was stronger than I expected. How was I supposed to beat a man who had defeated Cheol Mubaek and even Jin Mukyung?”
 
@@ -418,7 +418,7 @@ Step. Step.
 
 A small shadow swayed beside the lantern at the inn’s entrance.
 
-A wrinkled face suddenly appeared. It looked up at me as I leaned out over the windowsill, and grinned.
+A wrinkled face suddenly appeared. It looked up at me, my body draped over the window, and grinned.
 
 “Where were you headed?”
 

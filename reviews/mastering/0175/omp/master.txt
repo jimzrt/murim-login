@@ -70,7 +70,7 @@ He did not leave until “kimochi” changed to “yamete.”
 
 By the time Jeok Cheongang could no longer endure the discomfort and fled from the room, goose bumps had broken out all over his forearms.
 
-*…So it is a dark art after all?*
+*…So it is a dark art after all.*
 
 His suspicions had just deepened.
 
@@ -174,7 +174,7 @@ My life was on the line, after all.
 
 There was no doubt who I was referring to. Hyuk Mujin answered in a lowered voice.
 
-“He’s on the first floor. He’s drinking it up with Young Hero Cheongpung.”
+“He’s downstairs. He’s drinking it up with Young Hero Cheongpung.”
 
 “Yeah? How long?”
 
@@ -236,7 +236,7 @@ Hyuk Mujin grabbed my arm in a panic.
 
 “Is this because of what happened earlier?”
 
-“If you mean the Head Elder?”
+“By what happened earlier, you mean the Head Elder?”
 
 “Yes. If it’s about that, Young Hero Cheongpung and I already…”
 
@@ -268,7 +268,7 @@ After checking the cover of the worn old book, Hyuk Mujin muttered,
 
 “Ah, shii…”
 
-“All right, here’s a question. What exactly is the relationship between Jopil, who possessed the Fire Gate Clan’s Flame Divine Palm manual, and Jeok Cheongang?”
+“All right, here’s a question. What exactly is the relationship between Jopil, who possessed the Fire Gate Clan’s martial art—the Flame Divine Palm manual—and Jeok Cheongang?”
 
 “…”
 
@@ -302,7 +302,7 @@ After hesitating for a moment, Hyuk Mujin nodded.
 
 Hyuk Mujin continued speaking as though he had not heard me.
 
-“Even if Jopil was Great Hero Jeok’s Disciple, we merely did our duty. He was even the one who charged at us and tried to kill us first.”
+“Even if Jopil was Great Hero Jeok’s Disciple, we merely did our duty. And he was the one who charged at us and tried to kill us first.”
 
 “Right. You and Cheongpung will be safe either way, so tell him that for me. I’m leaving.”
 
@@ -344,7 +344,7 @@ Hyuk Mujin had already been gaping at the mention of the Ten-Thousand-Year Cold 
 
 “Yeah. The one I was planning to give you along with the Flame Divine Palm manual a long time ago.”
 
-“Where is it now? Where is that thing?”
+“That thing—where is it now?”
 
 “Mujin.”
 
@@ -418,7 +418,7 @@ Step. Step.
 
 A small shadow swayed beside the lantern at the inn’s entrance.
 
-A wrinkled face suddenly appeared. It looked up at me as I leaned out over the windowsill, and grinned.
+A wrinkled face suddenly appeared. It looked up at me, leaning out over the windowsill, and grinned.
 
 “Where were you headed?”
 
