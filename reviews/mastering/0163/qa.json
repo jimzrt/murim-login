@@ -1,0 +1,47 @@
+{
+  "chapter": 163,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.279,
+    "source_characters": 6548,
+    "source_paragraphs": 194,
+    "translation_characters": 14921,
+    "translation_paragraphs": 197
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "귀가",
+        "preferred": "your family"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "원단",
+        "preferred": "New Year's Day"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "주신",
+        "preferred": "God of Drinking"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "마유주",
+        "preferred": "mare's-milk wine"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}

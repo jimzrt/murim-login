@@ -30,7 +30,7 @@ He was already nearing a hundred. He was not afraid of death, but he did not wan
 
 *Even after all that effort…*
 
-He had reached his limit. The curse of time could not be held back even by his two jiazi[^1] of internal energy or by the manifested qi of a Supreme Peak master.
+He had reached his limit. The curse of time could not be held back even by his jiazi of internal energy,[^1] or by the mighty qi of a Supreme Peak master.
 
 He had managed to delay the effects of old age for no less than twenty years. That alone should be enough to satisfy him. The old man forcibly shook off his bitterness.
 

@@ -6,7 +6,7 @@
 
 “Well, now.”
 
-The old man fell silent. In front of him, the three leaders and more than two hundred underlings knelt respectfully, hanging on his every word.
+The old man fell silent. In front of him, the three leaders and more than two hundred underlings knelt respectfully, watching his lips.
 
 “Is that really true?”
 
@@ -30,7 +30,7 @@ He was already nearing a hundred. He was not afraid of death, but he did not wan
 
 *Even after all that effort…*
 
-He had reached his limit. The curse of time could not be held back even by his two jiazi[^1] of internal energy or by the manifested qi of a Supreme Peak master.
+He had reached his limit. The curse of time could not be held back even by his two jiazi of internal energy, or by the manifested qi of a Supreme Peak master.
 
 He had managed to delay the effects of old age for no less than twenty years. That alone should be enough to satisfy him. The old man forcibly shook off his bitterness.
 
@@ -52,7 +52,7 @@ The enormous jar, tall enough to reach a person’s chest, sloshed with half-coo
 
 “H-How could we not?”
 
-“Then why can’t you even lift this properly? Ugh. I can’t stand watching this.”
+“Then why can’t you even lift this properly? Good grief. Watching you is making me frustrated.”
 
 The old man shot to his feet and snatched the jar away. The jar, which weighed at least several hundred catties, rose effortlessly in one hand.
 
@@ -66,7 +66,7 @@ Black Sand had no desire to die with blood pouring from his seven orifices.
 
 “Elder! I’ll do it!”
 
-“Don’t ‘elder’ me. Sit down and stop talking nonsense.”
+“Don’t call me elder. Sit down and stop talking nonsense.”
 
 “No, no. Mare’s-milk wine is best when it’s piping hot. I’ll heat it myself…”
 
@@ -108,11 +108,11 @@ The heat they had felt, though momentary, had been tremendous. If he wished, he 
 
 *It’s not only the Samadhi True Fire. His internal energy itself is overwhelmingly Scorching Yang Qi.*
 
-*Better not say a word. One wrong word and… we die.*
+*Don’t say anything. If I put one foot wrong, he’ll kill me.*
 
 The three men swallowed dryly and moved as quickly as waiters receiving an honored guest.
 
-“I’ll pour you a drink.”
+“I’ll pour you a drink, sir.”
 
 “Bring meat! Meat!”
 
@@ -120,7 +120,7 @@ The three men swallowed dryly and moved as quickly as waiters receiving an honor
 
 Black Sand, the Squad Leader of the Black Sand Band—known across the steppe as a harbinger of death—poured the mare’s-milk wine. The two tribal chieftains, descendants of the Great Khan and commanders of hundreds of mounted warriors, circled the table, tearing off only the tender leg meat and presenting it to the old man.
 
-It was a sight you’d struggle to see even if you paid gold for it.
+It was a sight difficult to witness even if one paid for it.
 
 “Mm. This is why rude bastards need to be beaten. They only learn manners after someone teaches them a lesson.”
 
@@ -208,7 +208,7 @@ The old man stared at Black Sand with utter contempt before turning away. Temur 
 
 “You speak the absolute truth.”
 
-“The one way you’re better than mounted bandits is that, even though you loot and kill, you aren’t arsonists who set fire to everything in sight. People who burn down other people’s homes deserve to be beaten to death, and even that wouldn’t be enough!”
+“The one way you’re better than mounted bandits is that, even though you loot and kill, you aren’t arsonists who set fire to everything in sight. People who burn down other people’s homes deserve to be beaten to death!”
 
 “…”
 
@@ -288,7 +288,7 @@ The old man asked the same question of Black Sand and Temur, who had been sittin
 
 The three men’s ears perked up at the bitterness in his mutter.
 
-What kind of circumstances could have driven an unidentified peerless master to search for someone personally? And in a body suffering from old age, no less.
+What kind of circumstances could have driven an unidentified Supreme Peak master to search for someone personally? And in a body suffering from old age, no less.
 
 *His son? Or his Disciple?*
 
@@ -304,21 +304,21 @@ Black Sand’s thoughts raced. Perhaps he could turn the life-or-death crisis he
 
 His lips parted slightly, and Sound Transmission slipped out.
 
-—Hey, Chinggen.
+— Chinggen.
 
 Despite the sudden Sound Transmission, Chinggen showed no reaction. As expected, he was a shrewd one.
 
-—Are you listening? Answer me.
+— Are you listening? Answer me.
 
-—Accept the old man’s offer. Quickly!
+— Accept the old man’s offer. Quickly!
 
-—Impossible. I can’t find the person he wants. If we succeed, we may receive a great favor, but if we raise his hopes for nothing and fail, all we’ll gain is his resentment. I have no intention of dealing with that. Nor do I want to become more entangled with that old man.
+— Impossible. I can’t find the person he wants. If we succeed, we may receive a great favor, but if we raise his hopes for nothing and fail, all we’ll gain is his resentment. I have no intention of dealing with that. Nor do I want to become more entangled with that old man.
 
-—Find him.
+— Find him.
 
-—What?
+— What?
 
-—If you find him, you can obtain the old man’s martial arts. Martial arts powerful enough to look down on the entire world!
+— If you find him, you can obtain the old man’s martial arts. Martial arts powerful enough to look down on the entire world!
 
 At that moment, Black Sand was filled with certainty. Whether the person was a Disciple or a son, they had to find him. If they succeeded…
 
@@ -326,19 +326,19 @@ At that moment, Black Sand was filled with certainty. Whether the person was a D
 
 Black Sand’s plan was an attempt to blackmail a Supreme Peak master. Chinggen’s lips trembled as he grasped what Black Sand meant.
 
-—Are you insane? Greed has blinded you!
+— Are you insane? Greed has blinded you!
 
-—No, it’s entirely possible. You’re too afraid of that old man to think it through.
+— No, it’s entirely possible. You’re too afraid of that old man to think it through.
 
-—Don’t be ridiculous. Do you think he’ll fall for a threat like that? He’ll tear us apart before that happens!
+— Don’t be ridiculous. Do you think he’ll fall for a threat like that? He’ll tear us apart before that happens!
 
-—He’s already an old man whose mind comes and goes because of his age. First, we search the surrounding area thoroughly and find the bastard, then we drag things out. Until the old man’s mind completely goes.
+— He’s already an old man whose mind comes and goes because of his age. First, we search the surrounding area thoroughly and find the bastard, then we drag things out. Until the old man’s mind completely goes.
 
 Even Black Sand thought it was a perfect plan. When the old man’s mind was not clear, he was no different from a child.
 
-They would wait for that moment, then subdue him. Through coaxing and threats, they would steal every bit of that powerful martial arts knowledge.
+They would wait for that moment, then subdue him. Through persuasion and threats, they would steal every bit of that powerful martial arts knowledge.
 
-—What are you hesitating over? Accept already!
+— What are you hesitating over? Accept already!
 
 That was when a reply came.
 
@@ -389,5 +389,3 @@ The horizon stretched to the ends of the world. Here, where blue grassland and p
 The old man began to walk. With every step, the landscape flashed past and the grasses bowed low.
 
 His stride was leisurely, yet he moved as quickly as a loosed arrow. The arrow’s destination was Datong, on the border between Shanxi and the Gaoyuan.
-
-[^1]: A *jiazi* is a traditional sixty-year cycle.
