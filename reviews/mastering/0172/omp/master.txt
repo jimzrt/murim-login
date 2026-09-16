@@ -54,7 +54,7 @@ Jeok Cheongang was already sitting on a fence some distance away, laughing loudl
 
 Jeok Cheongang was genuinely surprised when he realized what those words implied.
 
-Returning to Simplicity and Shifting Form and Position were both domains permitted only to Supreme Peak masters. That meant Cheongpung had grown up around a master who stood at the same realm stage as Jeok Cheongang.
+Returning to Simplicity and Shifting Form and Position were both domains permitted only to Supreme Peak masters. That meant Cheongpung had grown up beside a master of that same realm stage.
 
 “Who is your Master?”
 
@@ -288,7 +288,7 @@ It was the first time in his life that a master comparable to himself had come c
 
 “No.”
 
-“Even though the world is in danger?”
+“The world is in danger.”
 
 “Let’s speak plainly. It’s your orthodox Murim that’s in danger, not the world.”
 
@@ -320,7 +320,7 @@ Mae Jonghak was lost in thought for a long while before suddenly slapping his fo
 
 They fought for seven days and seven nights.
 
-It was a battle between Huashan, which had taken root as a great tree of the Murim over hundreds of years, and the Fire Gate Clan, whose martial arts had been passed down according to the principles of one-man succession and transmission only to the worthy.
+It was a battle between Huashan, which had taken root as a great tree of the Murim over hundreds of years, and the Fire Gate Clan, whose martial arts had been passed down according to the principles of one-man succession and secret transmission.
 
 It was a bloody struggle between two Martial Gods.
 

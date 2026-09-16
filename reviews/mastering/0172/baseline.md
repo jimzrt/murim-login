@@ -40,7 +40,7 @@ Jeok Cheongang could not finish his sentence. Two swords had flashed in like lig
 
 Unlike Hyuk Mujin, who was celebrating with a dazed expression, Cheongpung merely scratched the back of his head.
 
-Instead of spraying blood, Jeok Cheongang’s form dissolved like mist before his eyes.
+Instead of blood spraying before his eyes, Jeok Cheongang’s figure scattered like mist.
 
 “Uh… Returning to Simplicity and Shifting Form and Position… We seem to have picked the wrong fight.”
 
@@ -54,13 +54,13 @@ Jeok Cheongang was already sitting on a fence some distance away, laughing loudl
 
 Jeok Cheongang was genuinely surprised when he realized what those words implied.
 
-Returning to Simplicity and Shifting Form and Position were both domains permitted only to Supreme Peak masters. That meant Cheongpung had grown up around a master who stood at the same realm stage as Jeok Cheongang.
+Returning to Simplicity and Shifting Form and Position were both domains permitted only to Supreme Peak masters. That meant Cheongpung had grown up around someone who stood at the same realm stage as him.
 
 “Who is your Master?”
 
 “My grandfather.”
 
-“What a dense brat. How would this old man know who your grandfather is?”
+“What an obtuse brat. How would this old man know who your grandfather is?”
 
 “My grandfather used to say that any man who hides behind someone else’s name after being born a man deserves to have his balls cut off.”
 
@@ -70,7 +70,7 @@ After bursting into laughter, Jeok Cheongang fixed Cheongpung with a long look.
 
 “Can you bear the punishment for daring to point a sword at this old man?”
 
-Cheongpung smacked his lips, looking troubled.
+Cheongpung licked his lips, looking troubled.
 
 “But I didn’t use Sword Energy. Couldn’t you let it slide?”
 
@@ -82,11 +82,11 @@ Jeok Cheongang let out a quiet laugh. He did not know which sect or master the b
 
 “Then why did you step forward?”
 
-Cheongpung pointed at Jin Taekyung, who stood frozen like a statue.
+Cheongpung pointed at Jin Taekyung, who stood frozen like a monument.
 
-His whole body had flushed red, and hot steam rose from it in wisps.
+Hot steam rose in wisps from his entire body, which had been heated to a reddish hue.
 
-“I owe that gentleman a bit. How could I just stand by while you bully my Benefactor, Grandpa?”
+“I owe that gentleman a little. How could I just stand by while you bully my Benefactor, sir?”
 
 “You must owe him quite a lot. Enough to risk your life, at least.”
 
@@ -164,9 +164,9 @@ Hyuk Mujin also muttered with a vacant expression,
 
 “Damn. That’s something you only ever see in novels.”
 
-They were on a completely different level.
+The difference in their levels was absolute.
 
-At this moment, everything surrounding Jeok Cheongang was both his weapon and his shield. The corner of his wrinkled mouth curled up slightly.
+At this moment, everything surrounding Jeok Cheongang was both his weapon and his shield. The corner of his wrinkled mouth rose slightly.
 
 “Come.”
 
@@ -200,11 +200,11 @@ As he stared blankly at the blade, already half melted, Jeok Cheongang’s voice
 
 “Your courage was admirable. Get some rest.”
 
-The next moment, Hyuk Mujin’s vision turned white. A palm slammed into his chest, and he dropped helplessly to his knees.
+The next moment, Hyuk Mujin’s vision turned white. A palm strike struck him in the chest, and he dropped helplessly to his knees.
 
 “Young Hero Hyuk!”
 
-“Don’t worry. He should have suffered no more than a minor Internal Injury. That aside…”
+“Don’t worry. He should have suffered no more than a minor Internal Injury. More importantly…”
 
 Jeok Cheongang glanced at the blade held in his other hand.
 
@@ -284,19 +284,19 @@ That was when the Sword Saint Mae Jonghak visited Mount Jiuhua.
 
 Those were his first words.
 
-It was the first time in his life that a master comparable to himself had come calling, and Jeok Cheongang was surprised. But his answer was already decided.
+Jeok Cheongang was surprised by the visit of a master who could be compared to himself, but his answer had already been decided.
 
 “No.”
 
-“Even though the world is in danger?”
+“The world is in danger.”
 
 “Let’s speak plainly. It’s your orthodox Murim that’s in danger, not the world.”
 
-Even if the Murim changed hands, the world itself would remain the same. There were villains in the orthodox faction and good people in the Demonic Cult.
+Even if the master of the Murim changed, the world itself would remain the same. There were villains in the orthodox faction and good people in the Demonic Cult.
 
 And Jeok Cheongang intended to remain on Mount Jiuhua forever.
 
-Mae Jonghak was lost in thought for a long while before suddenly slapping his forehead.
+Mae Jonghak was lost in thought for a long while before suddenly tapping his forehead.
 
 “Oh, now that I think about it, you’re right.”
 
@@ -320,7 +320,7 @@ Mae Jonghak was lost in thought for a long while before suddenly slapping his fo
 
 They fought for seven days and seven nights.
 
-It was a battle between Huashan, which had taken root as a great tree of the Murim over hundreds of years, and the Fire Gate Clan, whose martial arts had been passed down according to the principles of one-man succession and transmission only to the worthy.
+It was a battle between Huashan, which had taken root as a great tree of the Murim over hundreds of years, and the Fire Gate Clan, whose martial arts had been passed down according to the principles of one-man succession and secret transmission.
 
 It was a bloody struggle between two Martial Gods.
 
@@ -340,7 +340,7 @@ It had been fortunate for Jeok Cheongang.
 
 If their battle had continued for even a few more days, he would have been the one to lose.
 
-Mae Jonghak was at least ten years younger than him, yet he was already an astonishingly powerful master.
+Mae Jonghak was ten years younger than him, yet he was already an astonishingly powerful master.
 
 Without his own formidable internal energy, Jeok Cheongang would never have been able to endure.
 
