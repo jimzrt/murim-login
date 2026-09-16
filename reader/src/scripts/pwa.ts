@@ -13,13 +13,43 @@ if ("serviceWorker" in navigator) {
           const script =
             reg.active?.scriptURL || reg.waiting?.scriptURL || reg.installing?.scriptURL || "";
           const staleScope = reg.scope !== expectedScope;
-          const staleScript = script.length > 0 && new URL(script).pathname !== new URL(swUrl, window.location.origin).pathname;
+          const staleScript =
+            script.length > 0 &&
+            new URL(script).pathname !== new URL(swUrl, window.location.origin).pathname;
           if (staleScope || staleScript) {
             await reg.unregister();
           }
         }),
       );
-      await navigator.serviceWorker.register(swUrl, { scope: base });
+
+      let pendingReload = false;
+      navigator.serviceWorker.addEventListener("controllerchange", () => {
+        if (!pendingReload) {
+          return;
+        }
+        pendingReload = false;
+        window.location.reload();
+      });
+
+      const registration = await navigator.serviceWorker.register(swUrl, { scope: base });
+
+      registration.addEventListener("updatefound", () => {
+        const worker = registration.installing;
+        if (!worker) {
+          return;
+        }
+        worker.addEventListener("statechange", () => {
+          if (worker.state === "installed" && navigator.serviceWorker.controller) {
+            pendingReload = true;
+          }
+        });
+      });
+
+      document.addEventListener("visibilitychange", () => {
+        if (document.visibilityState === "visible") {
+          void registration.update();
+        }
+      });
     })().catch(() => {
       /* private mode / unsupported */
     });

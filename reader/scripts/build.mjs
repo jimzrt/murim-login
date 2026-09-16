@@ -83,6 +83,7 @@ const { count, size, warnings } = await generateSW({
     "**/*.{js,css,html,ico,svg,png,jpg,jpeg,webp,avif,woff2,json,webmanifest}",
     "pagefind/**/*",
   ],
+  globIgnores: ["index.html", "chapters.json"],
   swDest: resolve(outDir, "sw.js"),
   navigateFallback: offlinePath,
   navigateFallbackDenylist: [
@@ -104,11 +105,21 @@ const { count, size, warnings } = await generateSW({
       handler: "NetworkOnly",
     },
     {
+      urlPattern: /\/chapters\.json$/,
+      handler: "NetworkFirst",
+      options: {
+        cacheName: "catalog",
+        expiration: {
+          maxEntries: 1,
+          maxAgeSeconds: 60 * 60 * 24 * 7,
+        },
+      },
+    },
+    {
       urlPattern: ({ request }) => request.mode === "navigate",
       handler: "NetworkFirst",
       options: {
         cacheName: "pages",
-        networkTimeoutSeconds: 4,
         expiration: {
           maxEntries: 80,
           maxAgeSeconds: 60 * 60 * 24 * 14,
@@ -146,13 +157,6 @@ const { count, size, warnings } = await generateSW({
           maxEntries: 64,
           maxAgeSeconds: 60 * 60 * 24 * 30,
         },
-      },
-    },
-    {
-      urlPattern: /\/chapters\.json$/,
-      handler: "StaleWhileRevalidate",
-      options: {
-        cacheName: "catalog",
       },
     },
   ],
