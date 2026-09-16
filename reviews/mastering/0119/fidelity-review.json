@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "Avenge us in our place.",
+      "defect": "Lee Seowol’s spoken request is formatted as narration rather than dialogue.",
+      "id": "F01",
+      "rationale": "The Korean is direct speech, and the accepted baseline preserves quotation marks.",
+      "replacement": "“Avenge us in our place.”",
+      "severity": "minor",
+      "source": "lines 213–214 / P105"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Kill that bastard. As cruelly as possible.",
+      "defect": "Lee Seowol’s spoken command is formatted as narration rather than dialogue.",
+      "id": "F02",
+      "rationale": "The surrounding attribution identifies this as direct speech; omitting quotation marks changes its presentation and creates avoidable ambiguity.",
+      "replacement": "“Kill that bastard. As cruelly as possible.”",
+      "severity": "minor",
+      "source": "lines 215–218 / P107"
+    },
+    {
+      "confidence": 1.0,
+      "current": "You’ve come up with quite the bold idea, but it won’t happen. You’ll all bury your bones here.",
+      "defect": "Pung Yang’s spoken threat is formatted as narration rather than dialogue.",
+      "id": "F03",
+      "rationale": "The Korean explicitly introduces Pung Yang speaking, and the accepted baseline correctly presents the line as dialogue.",
+      "replacement": "“You’ve come up with quite the bold idea, but it won’t happen. You’ll all bury your bones here.”",
+      "severity": "minor",
+      "source": "lines 221–224 / P110"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Damn salty.",
+      "defect": "Taekyung’s spoken answer is formatted as narration rather than dialogue.",
+      "id": "F04",
+      "rationale": "This is his audible reply to Pung Yang’s “What?” and must remain direct speech for the joke’s exchange and timing to be preserved.",
+      "replacement": "“Damn salty.”",
+      "severity": "minor",
+      "source": "lines 363–367 / P184"
+    }
+  ],
+  "summary": "The chapter is semantically faithful, but four spoken lines have lost quotation marks and read as narration.",
+  "version": 1
+}
