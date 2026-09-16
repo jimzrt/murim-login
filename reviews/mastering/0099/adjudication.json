@@ -1,0 +1,741 @@
+{
+  "chapter": 99,
+  "decisions": [
+    {
+      "decision": "SOL",
+      "hunk_id": "H001",
+      "reason": "Comma reads as a natural phone greeting without changing the identification beat."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H002",
+      "reason": "Yeah plus the clipped ‘you finish’ matches brusque 어 / 썼냐 better than a full polite question."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H003",
+      "reason": "그게 아니라 is the incomplete ‘that’s not it,’ not an explanation of why he called."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H004",
+      "reason": "BASE’s ‘here’ is wrong while the Team Leader is at the sauna; SOL’s ‘slacking off’ misses 정신 못 차리지.",
+      "replacement": "“You little shit. I cut you some slack because you’re the most senior one there, and now you’re getting careless? Write up that assessment and send it to me within ten minutes.”"
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H005",
+      "reason": "Keeps 본인도 ‘even’ and renders 직접 봤다 as ‘with his own eyes.’",
+      "replacement": "“Yes. We don’t know who he was talking to, but he said he was keeping the item safe, and he even slipped it out and checked it himself. Junsu saw it with his own eyes, so we’re certain.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H006",
+      "reason": "‘Th-then what?’ is the natural English for stuttering 그래서?"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H007",
+      "reason": "Keeps 보관 as keeping it on him and 이라는데 as apparently; SOL’s ‘carrying’ and dropped hedge drift."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H008",
+      "reason": "Repeats Junsu and asks where he is, matching 준수, 준수는?"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H009",
+      "reason": "Monitoring through the Familiar matches 패밀리어로 감시 more precisely than watching with."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H010",
+      "reason": "머릿속은 뒤죽박죽 is his head in a mess, not abstracted ‘thoughts in chaos.’"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H011",
+      "reason": "More natural interior monologue; English collocation is what is on a USB."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H012",
+      "reason": "SOL drops 특별 지시, turning a special order into a generic ‘came directly.’"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H013",
+      "reason": "Clipped ‘Everyone knows’ matches the dismissive 그거야 다들 알죠."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H014",
+      "reason": "SOL drops 하나라도; BASE is weaker on 짬 먹을 만큼.",
+      "replacement": "“If we manage to get even one thing out of this, we all hit the jackpot. I’ll move up, and you’ve put in enough years that you ought to make Team Leader yourself.”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H015",
+      "reason": "제 맘처럼 되나요 is that it doesn’t happen just because he wishes it, not ‘it’s not up to me.’"
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H016",
+      "reason": "SOL’s ‘change that’ invents a link to the B-rank rule; crawled out captures 굴러먹다.",
+      "replacement": "“I think this is more than enough to make a real score. I don’t know where that Jin Taekyung bastard crawled out from, but the picture’s obvious. You can tell just by listening to him talk about our Sangdong Guild. Right?”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H017",
+      "reason": "생각하긴 했습니다 is thinking the same, not that it ‘looked’ that way."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H018",
+      "reason": "Passive matches the omitted subject of 잘 간수하고 있다 without an ambiguous ‘he.’"
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H019",
+      "reason": "Both lean on ‘suspicious’; the source is 의미심장한, significant/meaningful.",
+      "replacement": "The conversation between Jin Taekyung and the unidentified person on the other end of the line was meaningful enough even to a third party."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H020",
+      "reason": "Makes 하물며/말할 것도 없다 land as obvious significance for the Security Team."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H021",
+      "reason": "SOL drops 막말로 (‘to put it bluntly’) and flattens the whether-or construction."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H022",
+      "reason": "‘That’s’ matches 그런 거면; the rest is the same line."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H023",
+      "reason": "승진은 옵션이다 is optional, not guaranteed ‘on top’; 노려 볼 is aim, not rise."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H024",
+      "reason": "꿈에 젖었다 is lost in a dream; 지금 이 순간 wants ‘that very moment.’"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H025",
+      "reason": "난 … 조회할: he will check the records himself, not have someone else do it."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H026",
+      "reason": "‘By dinner at the latest’ captures 아무리 늦어도 more cleanly than BASE’s awkward ‘no matter how late.’"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H027",
+      "reason": "달려가려던 is run, and ‘when’ is the natural 그때였다 hinge."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H028",
+      "reason": "뭔데 is the blunt ‘What?’ not a fuller ‘What is it?’"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H029",
+      "reason": "The 불길한 예감 is Gwondong’s worry proving right; SOL wrongly gives it to the Team Leader."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H030",
+      "reason": "있잖습니까 reminds him Hong Woojin is in play, not asks whether he knows the name."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H031",
+      "reason": "실수다 is the terse ‘It was a mistake’; 조급해졌다 is impatient, not anxious."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H032",
+      "reason": "Tighter equivalent of 먼저 움직이면 without losing the first-move worry."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H033",
+      "reason": "상벌이 명확한 is clear-cut rewards and punishments, not Latinate ‘dispensed without ambiguity.’"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H034",
+      "reason": "실력 is ability and 출셋길 is the road to advancement, not generic worth/success."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H035",
+      "reason": "Preserves the 한두 번 litotes instead of flattening it to ‘plenty of times.’"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H036",
+      "reason": "‘Stealing the credit’ is the English for 공 뺏기고; 밥그릇 here is his position."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H037",
+      "reason": "가 보고 싶었다 is wanting to see how high he could climb."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H038",
+      "reason": "Spoken ‘home alone’ matches 집에 혼자랬지 more naturally."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H039",
+      "reason": "설마 is ‘surely not’; 안 됩니다 is ‘we can’t,’ not ‘you can’t.’",
+      "replacement": "“Team Leader, surely not? We can’t!”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H040",
+      "reason": "‘I’m not finished’ is the calm cutoff; talking is already obvious from 말."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H041",
+      "reason": "목소리가 커진 is that his voice grew loud, not merely risen."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H042",
+      "reason": "Keeps 어차피 and 깔끔하게 끝난다; SOL adds ‘simple’ and drops after all."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H043",
+      "reason": "구린내 here is a fishy C-rank; ‘reeks of trouble’ is the idiom, and the second sentence is cleaner."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H044",
+      "reason": "자존심 상하네 is hurt pride; 풋내기 is ‘some rookie.’"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H045",
+      "reason": "Keeps 그럴 거면 and the imperative ‘say,’ not SOL’s extra ‘tell me.’"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H046",
+      "reason": "More spoken equivalent of 무슨 말씀을 그렇게까지."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H047",
+      "reason": "‘In or not’ is the scheme-joining English for 할 거야, 말 거야."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H048",
+      "reason": "미치겠네 is that this is driving him crazy, not that the situation ‘is insane.’"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H049",
+      "reason": "잠시 후 is a delayed beat after the sighs, which BASE folds away."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H050",
+      "reason": "‘We’re criminals’ is more natural than ‘we become criminals.’"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H051",
+      "reason": "The inverted punchline lands the cynical 안 걸리면 무죄 more cleanly."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H052",
+      "reason": "‘You’ve really got some nerve’ is more spoken for 간도 크시네요."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H053",
+      "reason": "SOL’s CCTV 파악 is right, but it drops 투입된 and 도; BASE’s ‘checking’ is weak.",
+      "replacement": "“They’re all gathered right now. We mapped out the CCTV coverage on the first day we were deployed, and we have some simple disguise Equipment, too.”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H054",
+      "reason": "The ox-horn proverb sets up the soft-horn punchline; ‘strike while the iron is hot’ breaks that image."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H055",
+      "reason": "Dropping ‘that’ is indistinguishable, so BASE stays."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H056",
+      "reason": "‘Win me over’ and ‘this time was different’ match 환심 / 좀 다르다 more cleanly."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H057",
+      "reason": "버둥버둥 is struggling up; 짧은 다리 is short, not stubby."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H058",
+      "reason": "‘Dying of curiosity’ is the English for 궁금해서 미칠 지경."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H059",
+      "reason": "Question form makes the curiosity list read as actual thought rather than a translated fragment."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H060",
+      "reason": "Daring and bolder are equal for 과감한."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H061",
+      "reason": "‘Stood to gain’ is more idiomatic, and the 귀농 documentary is clearer in English."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H062",
+      "reason": "Muttered ‘hill out back’ matches 뒷산이나 갈까 better than a full ‘behind the apartment.’"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H063",
+      "reason": "‘Came’ is less stiff than ‘occurred’ for 변화가 일어났다."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H064",
+      "reason": "Glossary Level, and SOL’s outer bold violates the System-panel rule."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H065",
+      "reason": "‘This phenomenon’ is stiff; the meaning is already clear from the dispel."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H066",
+      "reason": "Tighter syntax; secluded is a fair rendering of 인적이 드문."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H067",
+      "reason": "누가 봐도 is anyone looking; 고만고만한 is middling, which BASE flattens to ordinary.",
+      "replacement": "*Anyone looking at me would see some middling C-rank Hunter. They’d think they could take it without worry.*"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H068",
+      "reason": "충분히 예상 is ‘I fully expected’; ‘certain amount’ beats calqued ‘suitable amount.’"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H069",
+      "reason": "착각했다 is getting something wrong, not making a tactical mistake."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H070",
+      "reason": "Standalone ‘Me.’ delivers 바로 나라는 존재다 as the punch the next sentence explains."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H071",
+      "reason": "After the split, ‘never occurred to them’ is the natural English for 생각을 하지 못한다."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H072",
+      "reason": "Keeps the two-beat 기대되네 / 어떤 놈들일지 instead of fusing them."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H073",
+      "reason": "Direct ‘they’ plus ‘was going to’ is Taekyung’s voice without changing the stalking threat."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H074",
+      "reason": "‘Somewhere’ is more natural than ‘in a place’ for 전혀 예상치 못한 곳."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H075",
+      "reason": "옥상 is rooftop, and the fragment matches the 바로 …이었다 reveal."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H076",
+      "reason": "Dashes around five pyeong read cleaner than BASE’s stacked modifiers."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H077",
+      "reason": "꼬였네 is tangled; ‘gone to shit’ drops that image even if the register is cruder."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H078",
+      "reason": "‘A USB with unknown contents’ is cleaner than ‘whose contents were unknown.’"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H079",
+      "reason": "Same 정보라고 할 만한 hedge, smoother prose."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H080",
+      "reason": "옥상 밑을 내려다봤다 is looking down from the rooftop; BASE adds an unsupported edge."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H081",
+      "reason": "Splitting the follow-or-not thought keeps 의뢰를 생각한다면 as its own beat."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H082",
+      "reason": "Cleaner continuation after the split; conflicted eyes still render 갈등하는 눈빛."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H083",
+      "reason": "이것 보게 is ‘look at this,’ not ‘what do we have here.’"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H084",
+      "reason": "슬금슬금 기어 나오는 is crawling out; slithered collapses the snake comparison."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H085",
+      "reason": "The terse fragment matches 그 숫자가 도합 여섯."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H086",
+      "reason": "Same line of work is more natural for 업계 동업자, and he still sees them clearly."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H087",
+      "reason": "놈들이군 is contemptuous identification; both versions drop 놈들.",
+      "replacement": "“Sangdong Guild bastards.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H088",
+      "reason": "Not one or two, but six had come out matches 몰려나왔다 better than ‘emerged.’"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H089",
+      "reason": "더군다나 is ‘what was more,’ not ‘worse’; 미간을 찡그렸다 is furrowed his brow."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H090",
+      "reason": "Present continuous fits him watching the dirty trick unfold."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H091",
+      "reason": "때 is when, not the moment, and 처음 의뢰를 맡을 당시 needs ‘first.’"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H092",
+      "reason": "정체가 궁금해지는 is curiosity about identity, not generic curiosity; 얽히면 is further involvement."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H093",
+      "reason": "Pulled out is the natural English verb for taking a phone from a pocket."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H094",
+      "reason": "명복을 빌다 is praying for the dead, and 잊지 않았다 is that he didn’t forget."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H095",
+      "reason": "더러웠고 is that it was filthy, not a substituted ‘shitty job.’"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H096",
+      "reason": "재수 옴 붙은 is a streak of bad luck, which ‘cursed’ overstates."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H097",
+      "reason": "‘Long ago’ is more direct for 벗어난 지 오래다."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H098",
+      "reason": "어느 순간 is at some point, not eventually."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H099",
+      "reason": "신가 봐요 is mock-polite ‘looks like,’ which SOL’s blunt cut drops."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H100",
+      "reason": "말없이 is that he said nothing, not that he fell silent."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H101",
+      "reason": "옆에 계신 분 is the man beside him, not a generic person with him."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H102",
+      "reason": "The source is just 친구, with no ‘my.’"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H103",
+      "reason": "어디서나 찾아볼 수 있는 흔한 인상 is a face you could see anywhere, not ‘forgettable.’"
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H104",
+      "reason": "걸걸한 is gravelly; keep plural 조폭 and 입술 사이로.",
+      "replacement": "He was huge, with a vicious face fierce enough to make gangsters cry. A gravelly voice rumbled from between his lips."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H105",
+      "reason": "알면서 is present knowing; BASE already has that tense right."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H106",
+      "reason": "Keeps 뒤에서, 따라오나, and the 똥개 훈련 insult SOL turns into ‘running through its paces.’"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H107",
+      "reason": "터트렸다 is bursting into a laugh, not merely letting one out."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H108",
+      "reason": "Starts with 어린놈, matching the insult’s Korean order."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H109",
+      "reason": "‘Asking for a beating’ is the English idiom for 매를 버는."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H110",
+      "reason": "Keep the 남자, 최병일 name beat; 눈동자가 흔들렸다 is wavered, not shook, and SOL overdoes ‘snapped shut.’",
+      "replacement": "The man, Choi Byungil, closed his mouth. His eyes wavered."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H111",
+      "reason": "그거야 keeps ‘That’s a trade secret’; 투샷이 영 아닌데 is not a matching pair, not a ‘strange’ one."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H112",
+      "reason": "이번에는 is this time, not now."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H113",
+      "reason": "‘Hard to answer’ is more spoken for 곤란한가."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H114",
+      "reason": "‘Looked like they’d seen a ghost’ is more natural than ‘as if they had seen.’"
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H115",
+      "reason": "Keeps the 숨 편하게 purpose clause; ‘breathe easy’ is the taunt idiom BASE calques.",
+      "replacement": "“Why is everyone so surprised? I was just being considerate so you could breathe easy.”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H116",
+      "reason": "온데간데없고 and 물든 are traces vanished and a face colored by panic, not taut confusion."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H117",
+      "reason": "뭐 하는 새끼야 asks what kind of bastard he is, not merely who."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H118",
+      "reason": "‘Cursed first’ is less formal than ‘started with profanity’ for 욕 박았으니까."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H119",
+      "reason": "붙여 놓을 is attaching Familiars, not sending them after him."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H120",
+      "reason": "Restores the source’s …!"
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H121",
+      "reason": "SOL’s ‘lived alone’ changes 집에 나 혼자였으면; keep 까지 and 덥석.",
+      "replacement": "“I could’ve let it go if I’d been alone at home. But the thought of my family being watched too pissed me off. So I threw out some bait, and you snapped it right up.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H122",
+      "reason": "The shocked incomplete 그, 그럼 USB도? should trail off, not be completed."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H123",
+      "reason": "Smoother noun phrase for 평생을 바쳐 모은 야동 컬렉션."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H124",
+      "reason": "Punchy fragment matches the narrator joke on 인류의 보물."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H125",
+      "reason": "분명히 촉이 왔는데 is ‘I definitely had a feeling,’ not ‘I knew I felt something.’"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H126",
+      "reason": "Keeps the 말도 안 되는 / 촉 callback as defy belief and gut feeling."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H127",
+      "reason": "말했다 is addressed them; 망연자실한 is crushed dismay, not despair."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H128",
+      "reason": "하나만 is one thing, not specifically one question."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H129",
+      "reason": "한 명, 한 명 is one by one, which SOL’s ‘one after another’ slightly flattens."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H130",
+      "reason": "빼빼 마른 is skinny, and a gaze settling is more natural than stopping."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H131",
+      "reason": "Same System/Level glossary and no-outer-bold rule as H064."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H132",
+      "reason": "More natural interrogation order for 상동 길드에서 보내서 왔지."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H133",
+      "reason": "핏기 하나 없이 창백해진 is bloodless and ashen, not merely pale."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H134",
+      "reason": "내 말을 들은 is that his face stiffened at those words."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H135",
+      "reason": "입에 담지 말았어야지 is that the name should not have been spoken out loud."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H136",
+      "reason": "왜, 죽이게 splits naturally as ‘Why? You going to kill me?’"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H137",
+      "reason": "The pause after capture matches the threat rhythm of 사로잡고 생각해 보지."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H138",
+      "reason": "‘That’s going to be’ fits the conjectural 텐데 better."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H139",
+      "reason": "그저 그런 is unremarkable, not merely ordinary."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H140",
+      "reason": "각오 is prepared/resolved; 이라도 is ‘so much as.’",
+      "replacement": "“Come at me prepared to die. That’s the only way you’ll manage to tie so much as a butterfly knot around my wrist.”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H141",
+      "reason": "달려들기 시작한다 is that they began charging at him, which SOL drops."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H142",
+      "reason": "English prefers leading with the opening move; same dagger-to-shoulder action."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H143",
+      "reason": "느릿느릿하게만 보이는 is merely slow to him; ‘painfully’ is extra intensity."
+    },
+    {
+      "decision": "REPAIR",
+      "hunk_id": "H144",
+      "reason": "조각난 is shards; 쏟아진다 is spilled, not sprayed.",
+      "replacement": "The blade, brimming with internal energy, shattered the enemy’s dagger. Shards of metal and someone’s blood spilled across the nameless weeds."
+    }
+  ],
+  "version": 1
+}

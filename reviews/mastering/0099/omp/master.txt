@@ -6,9 +6,9 @@ The Security Team Leader received a phone call just after finishing up at the sa
 
 “Yeah. You finish the transcript and assessment?”
 
-“No, sir. That’s not it…”
+“No, sir. That’s not why I’m calling…”
 
-“You little shit. I cut you some slack because you’re the most senior one there, and now you’re getting careless? Write up that assessment and send it to me within ten minutes.”
+“You little shit. I cut you some slack because you’re the most senior one there, and now you’re slacking off? Write that assessment and send it to me within ten minutes.”
 
 “Come on, that’s not it. I’m calling to report something unusual.”
 
@@ -16,49 +16,49 @@ A moment later, the Security Team Leader dropped the roasted egg he was holding.
 
 “He had a USB?”
 
-“Yes. We don’t know who he was talking to, but he said he was keeping the item safe, and he even slipped it out and checked it himself. Junsu saw it with his own eyes, so we’re certain.”
+“Yes. We don’t know who he was talking to, but he said he was keeping the item safe, then slipped it out and checked it himself. Junsu saw it with his own eyes, so we’re certain.”
 
 “Th-then what?”
 
-“The target is keeping it on him, apparently… Junsu has no way to do anything about it for now, so I’m reporting it.”
+“The target is carrying it himself… Junsu can’t do anything about it right away, so I called to report.”
 
 “Junsu—where’s Junsu? Put him on right now.”
 
 “He’s monitoring the target through his Familiar, so that might be difficult.”
 
-The Security Team Leader bit down hard on his lip. His head was a complete mess after hearing the report.
+The Security Team Leader bit down hard on his lip. The report had left his thoughts in chaos.
 
 *Who was on the other end of that call? Who is the target really? And what the hell is on that USB?*
 
 The Security Team Leader’s instincts began to stir.
 
-“Gwondong. This was a special order from the Guild Master. You know that, right? I’ve told you so many times.”
+“Gwondong. This came directly from the Guild Master. You know that, right? I’ve told you enough times.”
 
 “Everyone knows.”
 
-“If we manage to get even one thing out of this, we all hit the jackpot. I’ll move up, and you’ve put in enough years that you ought to make Team Leader yourself.”
+“If we get anything out of this, we all hit the jackpot. I move up, and you’ve put in enough years to make Team Leader yourself.”
 
-“…It’s not as simple as wishing for it. You know perfectly well they won’t make someone a Team Leader unless they’re at least B-rank.”
+“…It’s not up to me. You know as well as I do that they won’t make anyone below B-rank a Team Leader.”
 
-“I think this is more than enough to make a real score. I don’t know where that Jin Taekyung bastard crawled out from, but the picture’s obvious. You can tell just by listening to him talk about our Sangdong Guild. Right?”
+“I think this is big enough to change that. I don’t know where that Jin Taekyung bastard crawled out from, but the picture’s obvious. You can tell just from the way he talked about our Sangdong Guild. Right?”
 
 “I was thinking the same thing.”
 
 The plan was proceeding without a hitch. Sangdong Guild still hadn’t noticed anything. And the item was being kept safe.
 
-The conversation between Jin Taekyung and the unidentified person on the other end of the line was meaningful enough even to a third party.
+Jin Taekyung’s conversation with the unidentified person had sounded suspicious enough even to an uninvolved third party.
 
 To Sangdong Guild’s Security Team, it was unmistakably significant.
 
-“That USB is the key. To put it bluntly, whether it’s the Peace Guild Jin Taekyung belongs to or some rival Guild, if they’re making a move to bring down our Guild…”
+“That USB is the key. Say Jin Taekyung’s Peace Guild—or some other rival Guild—is plotting to bring our Guild down…”
 
-“Then that’s seriously high-value intel.”
+“Then this is seriously high-value intel.”
 
-The bonus was a given, and promotion was an option. If he caught the Guild Master’s eye, he might even be able to aim for a position among the Guild executives.
+A bonus would be guaranteed, with a promotion on top. If they caught the Guild Master’s eye, they might even rise to the Guild’s executive ranks.
 
-At that very moment, the Security Team Leader imagined himself as the Guild Master’s right-hand man, while Kim Gwondong became lost in a dream of becoming Sangdong Guild’s first C-rank Team Leader.
+At that moment, the Security Team Leader pictured himself as the Guild Master’s right-hand man, while Kim Gwondong dreamed of becoming Sangdong Guild’s first C-rank Team Leader.
 
-“Keep watching him. I’ll report this up the chain and start by checking Jin Taekyung’s call records.”
+“Keep watching him. I’ll report this up the chain and have them check Jin Taekyung’s call records.”
 
 “Yes, sir!”
 
@@ -70,21 +70,21 @@ The Security Team Leader was about to run to the changing room when Kim Gwondong
 
 “What?”
 
-Anxiety could be heard in Kim Gwondong’s voice. And his ominous premonition proved accurate.
+The anxiety in Kim Gwondong’s voice was unmistakable, and the Security Team Leader’s sense of foreboding proved justified.
 
 “There’s Hong Woojin.”
 
 “Ah, damn it.”
 
-It was a mistake. He had been so excited that he had briefly forgotten about Hong Woojin’s existence. The Security Team Leader grew impatient.
+He had made a mistake. In his excitement, he had momentarily forgotten Hong Woojin existed. The Security Team Leader grew anxious.
 
 *It’ll be a problem if that bastard moves first.*
 
-The Guild Master he knew, Im Chunsoo, was a man who made rewards and punishments absolutely clear.
+The Guild Master he knew, Im Chunsoo, was a man who dispensed rewards and punishments without ambiguity.
 
-If a newcomer proved their ability, he would pave the road to advancement for them. But if he decided someone was no good, he would cut them loose without hesitation—even if they had been a Guild member for ten years.
+If a newcomer proved their worth, he would pave their road to success. But if he decided someone was no good, he would cut them loose without hesitation—even if they had served the Guild for ten years.
 
-*I’ve seen it more than once or twice.*
+*I’ve seen it happen plenty of times.*
 
 This wouldn’t end with Hong Woojin merely stealing the credit. The Security Team Leader’s own position was at stake.
 
@@ -96,13 +96,13 @@ Money? That wasn’t the issue. He had devoted half his life to this Guild, and 
 
 “That bastard’s home alone right now, isn’t he?”
 
-“Team Leader, surely not? We can’t!”
+“Team Leader, you can’t be serious. We can’t!”
 
 “I’m not finished.”
 
-Unlike Kim Gwondong, whose voice had grown loud, the Security Team Leader remained calm.
+Unlike Kim Gwondong, whose voice had risen, the Security Team Leader remained calm.
 
-“If we subdue the target, take the item, and leave, this ends cleanly. He’s only C-rank, after all. There’s nothing to be afraid of.”
+“We subdue the target, take the item, and leave. Then this is over, clean and simple. He’s only C-rank. There’s nothing to be afraid of.”
 
 “He’s a C-rank who reeks of trouble. If we make the wrong move, we could be the ones who get taken down.”
 
@@ -110,13 +110,13 @@ Unlike Kim Gwondong, whose voice had grown loud, the Security Team Leader remain
 
 “…”
 
-“You don’t actually believe what Im Changsoo said, do you? If that were true, it would mean Jin Taekyung was really an A-rank Hunter… If that’s the case, you might as well say the Guild Master is a spy. Huh?”
+“You don’t actually believe what Im Changsoo said, do you? If that were true, Jin Taekyung would really be an A-rank Hunter… You might as well tell me the Guild Master is a spy. Huh?”
 
 “Come on, why take it that far?”
 
 “Enough. Are you in or not?”
 
-“Fuck, this is driving me crazy.”
+“Fuck, this is insane.”
 
 Kim Gwondong heaved several deep sighs. After a moment, he made his decision.
 
@@ -128,7 +128,7 @@ Kim Gwondong heaved several deep sighs. After a moment, he made his decision.
 
 “That’s why I’m the Team Leader. What about the others?”
 
-“They’re all gathered right now. We mapped out the CCTV coverage on the first day we were deployed, and we have some simple disguise Equipment, too.”
+“They’re all here. We mapped out the CCTV coverage on the first day, and we have some basic disguise Equipment.”
 
 “Good.”
 
@@ -138,11 +138,11 @@ The Security Team Leader licked his dry lips.
 
 “The moment I arrive.”
 
-As the old saying went, you had to pull the ox’s horn while it was hot. To him, a C-rank Hunter was a soft horn he could yank out one-handed.
+As the old saying went, strike while the iron was hot. To him, a C-rank Hunter was a soft horn he could pull out with one hand.
 
 * * *
 
-It didn’t take long for me to realize that the bait had worked.
+It didn’t take long for me to realize the bait had worked.
 
 *Meow.*
 
@@ -150,7 +150,7 @@ It didn’t take long for me to realize that the bait had worked.
 
 The two Familiars showered me with affection, trying to win me over. But this time was different.
 
-They had struggled up onto the sofa with their short legs, then settled down—not just anywhere, but on my thighs.
+They scrambled onto the sofa on their stubby legs and settled down not just anywhere, but right on my thighs.
 
 *They took the bait.*
 
@@ -158,7 +158,7 @@ The USB in my pocket was the bait. By now, the watchers must have been dying of 
 
 What was the plan I’d mentioned on the phone? Who had I been talking to? And what the hell was on the USB?
 
-*I hope they’re more daring than I expect.*
+*I hope they’re bolder than I expect.*
 
 Neither they nor I stood to gain anything by dragging this out. It was a weekday afternoon, the apartment complex was quiet, and the TV was showing a boring documentary about moving to the countryside to become a farmer.
 
@@ -168,9 +168,9 @@ I muttered to myself and was about to step through the front door when the chang
 
 > **System**
 >
-> Level 2 Cat
+> **Lv. 2 Cat**
 >
-> Level 2 Cat
+> **Lv. 2 Cat**
 
 The Familiar magic had been dispelled. The meaning was obvious.
 
@@ -178,7 +178,7 @@ The Familiar magic had been dispelled. The meaning was obvious.
 
 In a kitten’s body, they couldn’t steal the USB from me. But if I, their target, went somewhere secluded on my own, that changed things.
 
-*Anyone looking at me would see some middling C-rank Hunter. They’d think they could take it without worry.*
+*To them, I’m obviously just some middling C-rank Hunter. They’ll think they can take it without a problem.*
 
 Of course, I fully expected a certain amount of violence and intimidation in the process.
 
@@ -188,7 +188,7 @@ Me.
 
 They had always been the perpetrators. It had never occurred to them that they might become the victims.
 
-*I’m looking forward to this. What kind of bastards are they?*
+*I can’t wait to see what kind of bastards they are.*
 
 I was going to show them exactly what happened when they stalked someone illegally and without permission.
 
@@ -196,7 +196,7 @@ I was going to show them exactly what happened when they stalked someone illegal
 
 The information Jin Taekyung had obtained from the real-estate office was only half right. Unlike Sangdong Guild’s Security Team, Hong Woojin’s hideout was somewhere Taekyung had never expected.
 
-The rooftop of the apartment building where Jin Taekyung lived.
+It was on the roof of Jin Taekyung’s own apartment building.
 
 “Whew.”
 
@@ -204,7 +204,7 @@ After severing his Link with the Familiar, Hong Woojin opened his eyes inside th
 
 By slipping the security guard a little money, he had secured the ideal space—roughly five pyeong[^1]—for several days.
 
-“This job got horribly tangled up.”
+“This job has gone to shit.”
 
 Jin Taekyung’s suspicious phone call. A USB with unknown contents.
 
@@ -220,25 +220,25 @@ Hong Woojin was watching Jin Taekyung recede into the distance, his eyes conflic
 
 “Well, look at this.”
 
-One person, then another. The way they slowly crawled out was no different from snakes stalking their prey.
+One person emerged, then another. They slithered out one by one like snakes stalking prey.
 
 Six of them in total.
 
 Each wore different clothes and behaved like an ordinary civilian, but Hong Woojin was in the same line of work. He saw them for what they were.
 
-“Sangdong Guild bastards.”
+“Sangdong Guild.”
 
 Not one or two, but six of them had come out.
 
-What was more, the target’s destination was a deserted hillside. Realizing what was about to happen, Hong Woojin furrowed his brow.
+Worse, the target was heading toward a deserted hillside. Realizing what was about to happen, Hong Woojin frowned.
 
 “They’re really pulling every dirty trick in the book.”
 
-Using force crossed Hong Woojin’s line. He should have quit when they deployed the Security Team, despite his repeated warnings when he first accepted the job. But this had gone too far.
+Using force crossed Hong Woojin’s line. He should have quit the moment they deployed the Security Team despite his repeated warnings when he took the job. This had gone too far.
 
 *I wanted to uncover Jin Taekyung’s secrets myself.*
 
-He was a man whose identity had made Hong Woojin curious, but this was where it ended. He had a feeling that he shouldn’t get involved any further.
+The man had made him curious, but this was the end of it. He had a feeling that getting any more involved would be a mistake.
 
 *Sangdong Guild, you goddamn thugs.*
 
@@ -252,7 +252,7 @@ The recipient was the Team 1 Leader. The message was short and simple.
 
 Before leaving the rooftop, he didn’t forget to pray for the already-vanished Jin Taekyung’s soul.
 
-*Well, that was filthy. Let’s never see each other again.*
+*What a shitty job. Let’s never see each other again.*
 
 In every possible way, the job had brought him nothing but bad luck.
 
@@ -262,11 +262,11 @@ I climbed the mountain path in silence. I had left the hiking trail behind long 
 
 But I didn’t stop. I kept walking deeper and deeper into the mountain.
 
-At some point, a broad clearing came into view. Weeds had grown thick there, reaching up to my knees. I slowly turned around.
+Eventually, a broad clearing came into view, thick with weeds that reached my knees. I slowly turned around.
 
-“Looks like you’re still out for a walk?”
+“Still out for your walk?”
 
-Kim Gwondong, the middle-aged man I had run into twice before, said nothing. His face hardened.
+Kim Gwondong, the middle-aged man I had already run into twice, fell silent and hardened his expression.
 
 “No answer? Who’s the man beside you?”
 
@@ -274,15 +274,15 @@ Kim Gwondong, the middle-aged man I had run into twice before, said nothing. His
 
 If Kim Gwondong had the sort of ordinary face you could see anywhere, the man who answered was his complete opposite.
 
-He was huge, with a vicious face fierce enough to make gangsters cry. A gravelly voice rumbled from between his lips.
+He was huge, with a vicious face fierce enough to make a gangster cry. A gravelly voice rumbled between his lips.
 
-“You already know everything, so why did you come all the way here?”
+“You knew everything, so why did you come all the way out here?”
 
-“You kept trailing me from behind, so I wanted to see how far you’d follow. Think of it as training a mutt.”
+“You kept following me, so I wanted to see how far you’d go. Think of it as running a mutt through its paces.”
 
 The man burst into a hearty laugh.
 
-“Young punk’s got nerve. How old are you?”
+“You’ve got nerve for a brat. How old are you?”
 
 “*Yeokmasal*.”[^2]
 
@@ -290,13 +290,13 @@ The man burst into a hearty laugh.
 
 “Thanks for the compliment, Mr. Choi Byungil.”
 
-The man, Choi Byungil, closed his mouth. His eyes wavered.
+Choi Byungil’s mouth snapped shut. His eyes wavered.
 
 “…How did you know?”
 
-“That’s a trade secret. But are you and Mr. Kim Gwondong really friends? Judging by appearances, you two don’t exactly look like a matching pair.”
+“Trade secret. But are you and Mr. Kim Gwondong really friends? Judging by appearances, you two make a pretty strange pair.”
 
-This time, it was Kim Gwondong’s turn to panic. But I wasn’t finished.
+Now it was Kim Gwondong’s turn to panic. But I wasn’t finished.
 
 “Is that hard to answer because you’re not friends? Then I’ll ask the other four. Mr. Park Hyungjin, Mr. Oh Gyuhyeon, Mr. Lee Mincheol, and Mr. Kim Junsu, I’d appreciate an honest answer.”
 
@@ -306,19 +306,19 @@ The air rippled, and four people dropped straight down.
 
 Each had a Level window floating above his head, and all four looked like they’d seen a ghost.
 
-“Why is everyone so surprised? I was just being considerate so you could breathe easy.”
+“Why is everyone so surprised? I was being considerate. Now you can breathe easy.”
 
-Choi Byungil gritted his teeth. All traces of his earlier composure had vanished, leaving his face colored by anxiety and bewilderment.
+Choi Byungil gritted his teeth. His earlier composure was gone, his face now taut with anxiety and confusion.
 
-“What the fuck… What kind of bastard are you?”
+“What the fuck… Who the hell are you?”
 
 He had cursed first, so that was the end of respecting my elders. I gave a quiet laugh as I looked at Choi Byungil.
 
-“You still don’t know? You must have dug up every scrap of information about me. If you went so far as to attach Familiars, that says everything.”
+“You still don’t know? You must’ve dug up every scrap of information about me. Sending Familiars after me says it all.”
 
 “…!”
 
-“I could’ve let it go if I’d been alone at home. But the thought of my family being watched too pissed me off. So I threw out some bait, and you snapped it right up.”
+“I might’ve let it slide if I lived alone. But the thought of you watching my family too really pissed me off. So I tossed out some bait, and you snapped it right up.”
 
 The six watchers trembled.
 
@@ -328,21 +328,21 @@ The six watchers trembled.
 
 A treasure of humanity, carefully preserved in my Inventory.
 
-“No way! I definitely had a feeling!”
+“No way! I knew I felt something!”
 
-“Well, there are plenty of works in there that defy belief. And any man would get a gut feeling about it.”
+“Well, it does contain plenty of unbelievable works. Any man would naturally feel something.”
 
 I addressed the six of them as they stood there looking utterly crushed.
 
-“You answered honestly, so let me ask you one thing, too.”
+“You answered me honestly, so let me ask one question too.”
 
-One by one, they flinched whenever their eyes met mine.
+They flinched one after another whenever our eyes met.
 
 At last, my gaze settled on a painfully skinny man in his twenties. He was probably the Familiar mage.
 
 > **System**
 >
-> Level 41 Kim Junsu
+> **Lv. 41 Kim Junsu**
 
 “Junsu. Sangdong Guild sent you, didn’t they?”
 
@@ -354,9 +354,9 @@ His bloodless, ashen face was answer enough.
 
 “Okay, Sangdong Guild. I figured as much.”
 
-Choi Byungil’s face stiffened at my words.
+Choi Byungil’s face stiffened.
 
-“You shouldn’t have said that name out loud.”
+“You shouldn’t have said that name.”
 
 “Why? You going to kill me?”
 
@@ -368,17 +368,17 @@ Choi Byungil’s Level was in the mid-sixties. His aura was comparable to Im Cha
 
 The odds of a group that wasn’t even a professional raid team managing to capture me were extremely low.
 
-“Come at me prepared to die. That’s the only way you’ll manage to tie so much as a butterfly knot around my wrist.”
+“Come at me ready to die. That’s the only way you’ll manage to tie so much as a butterfly knot around my wrist.”
 
 “Get him!”
 
-At Choi Byungil’s shout, the Sangdong Guild watchers began charging at me from all directions.
+At Choi Byungil’s shout, the Sangdong Guild watchers charged from every direction.
 
 Whoosh!
 
 The opening move was a dagger dropping toward my shoulder.
 
-I reached toward the trajectory that looked slow to me.
+I reached toward its trajectory, which looked painfully slow to me.
 
 At the same time…
 
@@ -386,7 +386,7 @@ At the same time…
 
 Crunch!
 
-The blade, brimming with internal energy, shattered the enemy’s dagger. Shards of metal and someone’s blood spilled across the nameless weeds.
+The blade, brimming with internal energy, shattered the enemy’s dagger. Shards of metal and someone’s blood sprayed across the nameless weeds.
 
 “Come on, you stalker bastards!”
 

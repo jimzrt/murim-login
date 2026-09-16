@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "Think of it as training a mutt.",
+      "defect": "This renders 똥개 훈련 too literally and loses its functional meaning: deliberately making someone trail around pointlessly while insulting them as a mutt.",
+      "id": "F01",
+      "rationale": "Taekyung knowingly led the watchers onward to see how long they would follow; the phrase mocks that futile runaround rather than describing literal dog training.",
+      "replacement": "Think of it as putting a mutt through its paces.",
+      "severity": "minor",
+      "source": "lines 297–300"
+    },
+    {
+      "confidence": 0.94,
+      "current": "I was just being considerate so you could breathe easy.",
+      "defect": "“Breathe easy” conventionally means feeling relieved, while the source refers to letting the concealed watchers physically breathe more comfortably after exposing them.",
+      "id": "F02",
+      "rationale": "숨이라도 편하게 쉬시라고 preserves the physical joke tied to their concealment; the current idiom changes it into emotional reassurance.",
+      "replacement": "I was just being considerate so you could breathe more comfortably.",
+      "severity": "minor",
+      "source": "lines 323–325"
+    }
+  ],
+  "summary": "The chapter is broadly faithful, with two minor defects where English idioms obscure the source’s intended action or physical detail.",
+  "version": 1
+}
