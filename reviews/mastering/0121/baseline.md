@@ -1,6 +1,6 @@
 # Chapter 121
 
-It had been a fierce battle—fierce enough to leave mountains of corpses and rivers of blood—yet most of the Mount Heng Sword Sect’s buildings remained largely intact.
+It had been a fierce battle—fierce enough for corpses to pile up into mountains and blood to flow like rivers—yet most of the Mount Heng Sword Sect’s buildings remained standing, largely undamaged.
 
 Like this pavilion, for instance.
 
@@ -8,9 +8,9 @@ I collapsed into a chair and leaned back.
 
 “Ugh. I’m dying.”
 
-Exhaustion always followed a major battle like the one we had just fought.
+A major battle like the one we had just fought always left exhaustion in its wake.
 
-Leveling up could restore my physical fatigue, but it couldn’t do anything about mental fatigue.
+Leveling up could restore the fatigue in my body, but there was nothing I could do about mental exhaustion.
 
 And after skirting the brink of death like I had today, it was even worse.
 
@@ -18,21 +18,21 @@ And after skirting the brink of death like I had today, it was even worse.
 
 Jopil. The Head Elder. Pung Yang.
 
-Nothing good had ever come from getting tangled up with Peak masters. More than once, I’d found myself wishing I had about five lives.
+I had never come out ahead after getting tangled up with Peak masters. More than once, I had wished I had about five lives.
 
-“Squad Leader, thank you for your hard work.”
+“Squad Leader, you worked hard.”
 
 “Yeah, yeah.”
 
-“Whew, your shoulders are really tense.”
+“Oh, your shoulders are really tense.”
 
-Hyuk Mujin sidled up and began massaging my shoulders.
+Hyuk Mujin approached with an ingratiating smile and began massaging my shoulders.
 
 Wolhwa and Hyuk Mujin had been protecting Cheol Mubaek outside before joining the survivor search once things had more or less settled down.
 
 “If I’d been there, I would’ve really laid into that bastard Pung Yang. You know what I mean, right?”
 
-“Of course. You would’ve gotten yourself killed on the spot.”
+“Of course I do. You would’ve gotten yourself killed on the spot.”
 
 “……”
 
@@ -62,23 +62,23 @@ The Lower District Sect’s support force arrived half a day after the battle en
 
 *While everyone else was looking ahead, she was thinking about what came after.*
 
-The Lower District Sect’s support force had been organized for relief work, not combat.
+The Lower District Sect’s support force had been organized for rescue work, not combat.
 
-They had brought physicians, cooks, and even laborers. Their foresight and preparation were enough to make me marvel.
+They had brought not only physicians, but cooks and laborers as well. Their foresight and preparation were enough to make me whistle in admiration.
 
 *She really isn’t an ordinary person.*
 
-The Lower District Sect was both an information organization found throughout the land and a Murim sect.
+The Lower District Sect was an information organization found throughout the land, but it was also a Murim sect.
 
-Wolhwa had become a Branch Leader in a sect of that size while still in her mid-to-late twenties. There was no way she was ordinary.
+And Wolhwa, who had taken on the position of Branch Leader in a sect of that size while still in her mid-to-late twenties, was certainly no ordinary person.
 
 *Come to think of it, Wolhwa isn’t even her real name.*
 
-The name I’d discovered through Qi Sense was Eun Sowol. As for why she had gone out of her way to hide it from us, I figured it was something like using a code name in a spy movie.
+The name I had sensed through Qi Sense was Eun Sowol. As for why she had gone out of her way to hide her name from us, I supposed it was something like a code name in a spy movie.
 
 One thing was certain: making an enemy of someone that capable would be exhausting.
 
-*Don’t get too close. Keep a reasonable distance and maintain proper boundaries. Yeah, that should be about right.*
+*Don’t get too close. Keep a reasonable distance and stay within proper boundaries. Yes, that sounds about right.*
 
 Fortunately, that wouldn’t be too difficult. Wolhwa had shown me inexplicable goodwill and curiosity from the very beginning.
 
@@ -88,7 +88,7 @@ Whether those were genuine feelings or simply the curiosity of a veteran informa
 
 “Should I massage harder?”
 
-“No, not that. What do you think of Young Lady Wolhwa?”
+“No, not that. What do you think about Young Lady Wolhwa?”
 
 “She’s pretty.”
 
@@ -104,7 +104,7 @@ Hyuk Mujin thought hard before answering.
 
 I was the idiot for asking that guy anything.
 
-Hyuk Mujin looked wounded and was about to retort when light footsteps slowly approached and stopped in front of the door.
+Hyuk Mujin looked wounded and was about to say something when light footsteps slowly approached and stopped in front of the door.
 
 *Wolhwa?*
 
@@ -114,29 +114,29 @@ After a brief silence, an unexpected guest spoke.
 
 “Young Master Jin, may I come in?”
 
-The voice was clear and distinct.
+Her voice was clear and distinct.
 
 It was Lee Seowol.
 
 * * *
 
-Once Hyuk Mujin left the pavilion, Lee Seowol and I were alone.
+Once Hyuk Mujin left the pavilion, I was alone with Lee Seowol.
 
-I gazed out the window at the slowly darkening sky and cleared my throat for no reason.
+I gazed out the window at the sky slowly darkening and gave a pointless cough.
 
 “Ahem. Ahem.”
 
 Being alone with a woman at this hour—especially a stunning beauty—was a trial in itself.
 
-Worse yet, she was the Sect Leader of the Mount Heng Sword Sect, whom we had been fighting like sworn enemies until recently.
+To make matters worse, she was the Sect Leader of the Mount Heng Sword Sect, which I had been fighting like a sworn enemy only a short while ago.
 
-They said new wine belonged in new wineskins, but she was the only daughter of Lee Cheonbaek, the man who had tried to bring down the Jin Family of Taiyuan, and she and I were already entangled in a scandal.
+They said new wine belonged in new wineskins, but she was the only daughter of Lee Cheonbaek, the man who had tried to bring down the Jin Family of Taiyuan, and she and I were already connected by a scandal.
 
 *What the hell am I supposed to say?*
 
 *May the deceased rest in peace?*
 
-No. That would make the atmosphere far too heavy. As if losing her family recently hadn’t been enough, she had also lost most of her subordinates in the battle against Pung Yang.
+No. That would make the atmosphere far too heavy. It wasn’t enough that she had lost her family recently—she had also lost most of her subordinates in the battle against Pung Yang.
 
 After agonizing over it, I finally opened my mouth.
 
@@ -156,7 +156,9 @@ As I was regretting my words from the bottom of my heart, Lee Seowol rose from h
 
 “Lee Seowol of the Mount Heng Sword Sect pays her respects to her benefactor.”
 
-It happened before I could stop her. Flustered, I hurriedly helped her to her feet.
+It happened before I had a chance to stop her.
+
+Flustered, I hurriedly helped her back to her feet.
 
 *Benefactor?*
 
@@ -172,7 +174,7 @@ Her tone was so resolute that I couldn’t stop her anymore.
 
 If not for Jin Mukyung and me, the Mount Heng Sword Sect would have shut its doors today. A deep bow wasn’t enough. They could have erected statues of us and it still wouldn’t have been sufficient.
 
-Maybe they could designate today as the Day the Sleeping Dragon of Shanxi Came and make it an annual Mount Heng Sword Sect holiday—
+Maybe they could designate today as the day the Sleeping Dragon of Shanxi came to visit and make it an annual holiday for the Mount Heng Sword Sect—
 
 *That might be taking things too far.*
 
@@ -180,7 +182,7 @@ Maybe they could designate today as the Day the Sleeping Dragon of Shanxi Came a
 
 “I will follow my benefactor’s instructions.”
 
-“Could you stop calling me that?”
+“Could you not call me that?”
 
 “Yes, Benefactor.”
 
@@ -192,13 +194,13 @@ Only after Lee Seowol answered with a calm expression and sat down was I finally
 
 “The letter? Oh.”
 
-She meant the invitation.
+She was talking about the invitation.
 
 The polite invitation to have a meal at the Jin Family of Taiyuan on New Year’s Day, which was fast approaching—a summons disguised as a dinner invitation.
 
-Now that the Jin Family of Taiyuan had Shanxi Murim firmly in its grasp, it was obvious that any sect refusing the invitation would face an unpleasant future.
+Now that the Jin Family of Taiyuan had Shanxi Murim firmly in its grasp, it was obvious that things would not go well for any sect that refused the invitation.
 
-The Mount Heng Sword Sect, which had only narrowly escaped annihilation, was no exception.
+The Mount Heng Sword Sect, which had only barely escaped annihilation, was no exception.
 
 “So what’s your answer?”
 
@@ -208,7 +210,7 @@ It was the answer I had expected.
 
 But Lee Seowol didn’t stop there. She continued speaking.
 
-“Furthermore, as an apology for what happened, I will transfer every right held by our sect to the Jin Family of Taiyuan.”
+“Additionally, as an apology for what happened, I will transfer all the rights held by our sect to the Jin Family of Taiyuan.”
 
 “Rights?”
 
@@ -226,7 +228,7 @@ Wolhwa had said something similar during our previous conversation.
 
 After calling me her benefactor over and over, it seemed she hadn’t just been paying lip service.
 
-Right. Gratitude shouldn’t end with words. Hm.
+Yes. Gratitude shouldn’t end with words. Hm.
 
 “Thank you. My eldest brother will be pleased.”
 
@@ -236,25 +238,25 @@ Right. Gratitude shouldn’t end with words. Hm.
 
 Lee Seowol took three books from inside her robes and held them out to me.
 
-I slowly read the titles on their covers.
+I slowly read the titles written on their covers.
 
 “Blood Wolf Sword Technique, Blood Wolf Footwork. And……”
 
 “Shura Annihilating Fist. The sword technique and footwork technique were created by my father himself. The Shura Annihilating Fist is Uncle Cheol’s secret ultimate technique. Every one of them is an outstanding Peak martial art.”
 
-“Peak martial arts…”
+“Peak martial arts……”
 
 I swallowed hard.
 
 One of the things I had learned painfully in the Murim was the importance of martial arts. Even I was barely able to make up for my deficiencies by relying on the System. For ordinary martial artists, it went without saying.
 
-To them, an outstanding Peak martial art was a priceless treasure.
+To martial artists, an excellent Peak martial art was a priceless treasure.
 
 *These are worth more than the rights to northern Shanxi.*
 
-If those rights were the branches of a tree, the three martial arts manuals before me were its roots.
+If the rights to northern Shanxi were the branches of a tree, then the three martial arts manuals lying before me were its roots.
 
-Lee Seowol had placed her father’s legacy—the most valuable possessions of the Mount Heng Sword Sect—on the scales.
+Lee Seowol had placed her father’s legacy—the most valuable things possessed by the Mount Heng Sword Sect—on the scale.
 
 “Is this a gift too?”
 
@@ -268,13 +270,13 @@ If it was Jin Wikyung, he would accept the deal by any means necessary. Three Pe
 
 *What on earth is she going to demand?*
 
-Wealth? A guarantee of safety? Or something else?
+Wealth? A guarantee of safety? Or something else entirely?
 
-Lee Seowol—or rather, the Mount Heng Sword Sect—was in a situation beyond desperate. Even if they were offering their martial arts at a bargain price, whatever they wanted in return was certain to be a difficult demand.
+Lee Seowol—or rather, the Mount Heng Sword Sect—was in a situation so desperate that it had nearly become hopeless. Even if they were offering their martial arts at a bargain price, whatever they wanted in return was certain to be a difficult demand.
 
-I cautiously distanced myself from the matter.
+I cautiously backed away.
 
-“I’m curious what kind of transaction this is, but I don’t know if you’re aware—I don’t have that kind of authority.”
+“I am curious what kind of transaction you have in mind, but I don’t know if you’re aware of this—I don’t have that kind of authority.”
 
 Lee Seowol gazed steadily at me with eyes as clear as a lake.
 
@@ -304,17 +306,17 @@ It was the second time I had seen her smile, and this time, I knew I hadn’t im
 
 “Well, I’ll be going.”
 
-Hyuk Mujin, who had been pacing around the pavilion’s front courtyard, turned at the sound of a woman’s voice behind him.
+Hyuk Mujin, who had been pacing around the pavilion’s front courtyard, turned at the sound of the woman’s voice behind him.
 
-A beauty who made his chest tickle just by looking at her was descending the pavilion steps.
+A beauty who made one’s chest tickle just by looking at her was descending the pavilion steps.
 
 *Good heavens. She’s breathtaking.*
 
-Though she was dozens of paces away, it almost seemed as if the cold midwinter wind carried the scent of flowers.
+Though she was dozens of paces away, it almost seemed as if the cold midwinter wind carried the scent of flowers with it.
 
 *Our squad leader sure is lucky.*
 
-He had a handsome face, was the youngest Young Master of the Jin Family of Taiyuan—the universally acknowledged foremost family in Shanxi—and possessed excellent martial arts.
+He had a handsome face, was the youngest Young Master of the Jin Family of Taiyuan—the universally acknowledged First Family of Shanxi—and possessed excellent martial arts.
 
 When he was with Wolhwa, the words *a celestial beauty and a handsome man* fit them perfectly.
 
@@ -322,7 +324,7 @@ And now the Sect Leader of the Mount Heng Sword Sect had been added to the list.
 
 Hyuk Mujin let out a deep sigh as he watched Lee Seowol’s back disappear into the distance.
 
-*I loved you, however briefly, Young Lady Lee.*
+*I loved you for a moment, Young Lady Lee.*
 
 When Hyuk Mujin returned to the pavilion, he found Jin Taekyung sitting there half out of his mind.
 
@@ -332,9 +334,11 @@ When Hyuk Mujin returned to the pavilion, he found Jin Taekyung sitting there ha
 
 “Squad Leader. Please come to your senses!”
 
-Only after Hyuk Mujin grabbed him by the shoulders and shook him did his unfocused eyes finally clear.
+Only after Hyuk Mujin grabbed him by the shoulders and shook him did the unfocused eyes finally clear.
 
-Hyuk Mujin asked with a worried expression, “Did something happen? Why are you suddenly acting like this?”
+Hyuk Mujin asked with a worried expression.
+
+“Did something happen? Why are you suddenly acting like this?”
 
 *Gulp.*
 
@@ -348,7 +352,7 @@ Jin Taekyung swallowed hard and barely managed to open his mouth.
 
 “What do you mean, ‘Lee Seowol’? You should call her Sect Leader or Young Lady.”
 
-“Unless you want people calling you the late Hyuk Mujin, shut up and answer.”
+“If you don’t want me to start calling you the late Hyuk Mujin, shut up and answer me.”
 
 “……”
 
