@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "The target of his anger was the flies that kept entering the house.",
+      "defect": "The source identifies the immediate target as a singular fly, then explains that successive flies are entering one at a time. The plural blurs that distinction.",
+      "id": "F01",
+      "rationale": "The singular 파리 is preserved in the baseline and supports the following description of one fly entering at a time.",
+      "replacement": "The target of his anger was the fly that kept entering the house.",
+      "severity": "minor",
+      "source": "lines 15–17"
+    },
+    {
+      "confidence": 0.98,
+      "current": "At the entrance, guards in suits were screening the customers.",
+      "defect": "The source introduces one suited guard, not multiple guards; the ensuing exchange and narration consistently concern that single guard.",
+      "id": "F02",
+      "rationale": "정장을 입은 경비 is singular in context, and every subsequent action is attributed to one guard.",
+      "replacement": "At the entrance, a guard in a suit was screening the customers.",
+      "severity": "minor",
+      "source": "lines 211–213"
+    }
+  ],
+  "summary": "The chapter is highly faithful overall, with two minor quantity inconsistencies.",
+  "version": 1
+}

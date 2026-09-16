@@ -10,7 +10,7 @@ Bzzzzzz.
 
 *That bastard’s coming in again.*
 
-The target of his anger was the flies that kept entering the house.
+The target of his anger was the fly that kept entering the house.
 
 Woojin did not know who was behind them, but whoever it was seemed to think they were being careful by sneaking the flies in one at a time. Instead, they were only putting Jin Taekyung further on guard.
 
@@ -26,13 +26,13 @@ Most Hunters would never have noticed, but he recognized it immediately.
 
 That fly was a Familiar being controlled by a mage. The proof was the incredibly faint mana that only another mage could sense.
 
-*Who hired the bastard? Was it Sangdong Guild after all?*
+*Who hired the bastard? Sangdong Guild, after all?*
 
 If that was the case, he would have to quit this assignment right away. He was a professional with immense pride in his abilities.
 
 He could not tolerate an intruder interfering with his sacred workspace.
 
-*I warned them over and over…*
+*I told them over and over…*
 
 No matter how well you handled a job, there were times when a single loach released by an impatient client muddied the water. Just like now.
 
@@ -44,13 +44,13 @@ No matter how well you handled a job, there were times when a single loach relea
 
 Damn it. He knew this would happen.
 
-Swallowing his curses, Hong Woojin wriggled with all his might. He was crawling deeper into a place no human eyes could reach when—
+Swallowing his curses, Hong Woojin hurriedly moved his body. He was wriggling deeper into a place no human eyes could reach when—
 
 A jolt.
 
 *…Huh?*
 
-A strange sensation seized him, as though his body had suddenly floated into the air. It had never happened once since he began using Familiar magic.
+He was seized by a strange sensation, as if his body had suddenly floated into the air. It had never happened once since he began using Familiar magic.
 
 *Is it because this Familiar is too small?*
 
@@ -64,7 +64,7 @@ But mages recognized their own kind. As a B-rank mage, there was no way he could
 
 *The connection must have weakened for a moment. Yes. That has to be it.*
 
-What finally convinced him that he had imagined it was Jin Taekyung’s reaction.
+The decisive reason he convinced himself it had been a simple illusion was Jin Taekyung’s reaction.
 
 “Maybe its wing’s injured. This fly’s looking pretty weak.”
 
@@ -72,7 +72,7 @@ Smack!
 
 With a crisp sound, Jin Taekyung returned to the living room and sprawled out on the sofa. He chuckled at a variety show for a while, but soon the house was filled with loud snoring instead of laughter.
 
-Hrrrnk. Hrrrnk.
+Grrrrr. Grrrrr.
 
 Only then did Hong Woojin relax.
 
@@ -80,13 +80,13 @@ Only then did Hong Woojin relax.
 
 The incident from two days ago still lingered in the back of his mind. He had been watching Jin Taekyung through a cat Familiar and had been startled by what happened. For some reason, it had continued to bother him ever since. Now, at last, he felt he could breathe a little easier.
 
-*If he can’t even recognize a shoddy Familiar like that, then that says it all.*
+*If he can’t even recognize a shoddy Familiar like this, then that says it all.*
 
 There was only one problem: the lazy bastard had no intention of moving at all…
 
 *I’ll have to monitor him a little more boldly from now on.*
 
-Hong Woojin had chosen a rice weevil from among all the living creatures in the world because he still harbored a sliver of caution toward Jin Taekyung.
+Hong Woojin had chosen a rice weevil from among all the living creatures in the world because he had retained a sliver of caution toward Jin Taekyung.
 
 But now, it seemed safe to leave the body of this tiny, painfully slow insect.
 
@@ -98,13 +98,13 @@ Hong Woojin severed the Link. The creature hiding beneath the refrigerator was n
 
 And then—
 
-Hrrrnk…
+Grrrrr…
 
 Jin Taekyung’s snoring gradually faded before stopping altogether.
 
 * * *
 
-A faint presence disappeared. I could sense the change only because I was focusing every one of my senses.
+A faint presence disappeared. I could sense the change only because I was using every one of my senses.
 
 *Did he leave?*
 
@@ -114,17 +114,17 @@ I opened my eyes while pretending to stretch. The first place I looked was the g
 >
 > Lv. 1 Rice Weevil
 
-Only ten minutes ago, its Level window had carried the tag “Familiar.” Not anymore, now that the Link had been severed.
+Only ten minutes ago, its Level window had carried the tag “Familiar.” Not anymore—not with the Link severed.
 
 “Yaaawn. Is there anything to eat…?”
 
-I got up from the sofa and casually wandered around the house. Only then could I be certain.
+I got up from the sofa and casually walked around the house. Only then could I be certain.
 
 *There aren’t any Familiars left.*
 
-The only things caught by my Qi Sense were a few ordinary flying insects. There was not a Familiar among them.
+The only things caught by my Qi Sense were a few ordinary flying insects. There was no Familiar anywhere.
 
-The incessant buzzing of wings had stopped, too.
+The buzzing of wings that had continued without pause had stopped, too.
 
 They had probably gotten spooked by what just happened, so at least they would not show their faces for the rest of the day.
 
@@ -160,7 +160,7 @@ But…
 
 I could let the fact that they had followed me two days ago go. I could tolerate that.
 
-But I could not tolerate what happened today. This was my home, the place where my beloved family lived. They had crossed my one inviolable boundary.
+But I could not tolerate what happened today. This was my home, the place where my beloved family lived. They had touched my one inviolable boundary.
 
 *How should I screw these bastards over…?*
 
@@ -186,7 +186,7 @@ Right. I had been underestimating you far too much.
 
 The next morning, I left the house as soon as dawn broke.
 
-My eyes felt gritty from staying alert with Qi Sense all night in case another Familiar intruded, but I shook off the fatigue by circulating my qi.
+My eyes felt gritty from staying alert all night in preparation for another Familiar’s intrusion with Qi Sense, but I shook off the fatigue by circulating my qi.
 
 “Where should I take you?”
 
@@ -208,7 +208,7 @@ There was another thing that set it apart from ordinary stores. At the entrance,
 
 “Because the fingerprint scanner says you’re not adults.”
 
-“Isn’t it broken?”
+“Isn’t it defective?”
 
 “No.”
 
@@ -226,7 +226,7 @@ Five or six teenagers who looked obviously young flinched and took a step back.
 
 The guard rubbed the corners of his eyes with a weary expression. He was not an ordinary adult man but a hired guard Hunter. Even if a whole crowd of professional fighters came instead of five or six minors, they would not be able to force their way in.
 
-“My customers are Hunters or civilian adults who’ve been issued membership cards. Not high school punks like you.”
+“Customers to me are Hunters or civilian adults who’ve been issued membership cards. Not high school punks like you.”
 
 “…”
 
@@ -236,7 +236,7 @@ People like that existed everywhere. Especially in a Store filled with all kinds
 
 “…Hey, hey. Let’s go.”
 
-Only after the kids loitering out front had left did the guard notice me. He addressed me politely.
+Only after the kids loitering in front had left did the guard notice me. He addressed me politely.
 
 “What brings you here?”
 
@@ -252,19 +252,19 @@ Only after my certification had been checked and my fingerprints scanned was I g
 
 “As a C-rank Hunter, you may access up to the third floor.”
 
-The Store stocked different items on each floor. I had visited once when I was an F-rank Hunter, but the second floor had been the highest I could access at the time. I had never even gotten to look around above it.
+The items stocked on each floor of the Store were different. I had visited once when I was an F-rank Hunter, but the second floor had been the highest I could access at the time. I had never even gotten to look around above it.
 
 “Have a pleasant time.”
 
-“Thanks. Take care.”
+“Thank you. Have a good one.”
 
 Once I passed through the doors, I saw endless rows of glass display cases.
 
-The space was incomparably larger than an ordinary shop, yet there were only a handful of customers in sight.
+The space was incomparably larger than an ordinary shop. Yet there were only a handful of customers in sight.
 
 *Well, it would be strange if this place were crowded.*
 
-Only a tiny minority could shop here: Hunters, who made up just 0.1 percent of Korea’s population, and civilians with enough social influence to be issued membership cards.
+The people who could use this place were an extremely small minority: Hunters, who made up only 0.1 percent of Korea’s total population, and civilians with enough social influence to be issued membership cards.
 
 They were the Store’s main customers.
 
@@ -288,9 +288,9 @@ I was staring blankly at people buying goods that cost at least several million 
 
 “Ah, yes.”
 
-They had treated me politely the last time I visited, too, but not to this extent.
+She had treated me politely the last time I visited, too, but not to this extent.
 
-Now that I was a C-rank Hunter, the customer service was considerably more attentive.
+Now that I was a C-rank Hunter, the customer service was considerably more lavish.
 
 “Is there a particular product you’re looking for?”
 
@@ -322,11 +322,11 @@ The time had come to fill my Inventory.
 
 “It’s fine. I’m looking for weapons for low-rank Hunters.”
 
-Assistant Manager Kim Seonhee secretly sighed at the customer’s words. As someone unusually concerned about her sales numbers, this was far from welcome news.
+Assistant Manager Kim Seonhee secretly sighed at the customer’s words. As someone who was unusually concerned with her sales numbers, this was far from welcome news.
 
 *I need a good sales record this month if I want to get promoted.*
 
-The colleague who had joined the company at the same time as her and worked at the Seoul branch was already a Team Leader. Whether it was luck or business savvy, every customer she encountered was apparently a big spender.
+The colleague who had joined the company at the same time as her, but worked at the Seoul branch, was already a Team Leader. Whether it was because of luck or business savvy, every customer she encountered was apparently a big spender.
 
 Compared to her…
 
@@ -340,19 +340,19 @@ Compared to the other weapons, it was nothing special. It did not even have magi
 
 “How much is it?”
 
-“It’s currently on sale as part of our summer promotion, so we’re offering it at the low price of 520,000 won.”
+“It’s currently on sale as part of our summer promotion, so we’re offering it at the reasonable price of 520,000 won.”
 
 “Hmm. That’s expensive.”
 
 “…”
 
-How much did a C-rank Hunter make a year again? Didn’t their basic allowances alone amount to several hundred million won? Kim Seonhee found it ridiculous, but silently waited for the customer to make his choice.
+What was the annual salary of a C-rank Hunter again? Didn’t their basic allowances alone amount to several hundred million won? Kim Seonhee found it ridiculous, but silently waited for the customer to make his choice.
 
 “Ah, well, I guess it can’t be helped. I’ll buy it. Give me one.”
 
 “…Yes.”
 
-The look on his face, as if parting with the money were killing him, was utterly obnoxious. Kim Seonhee swallowed a curse as she picked up the dagger when—
+The look on his face, as if parting with the money were killing him, was utterly obnoxious. Kim Seonhee was silently cursing him to herself as she picked up the dagger when—
 
 “No. Not that one.”
 
