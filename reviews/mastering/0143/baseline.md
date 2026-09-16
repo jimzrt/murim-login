@@ -1,6 +1,6 @@
 # Chapter 143
 
-After the humiliated Three Hands of Zhongnan stormed out, Hong Jin pulled a small bell from his robes and shook it.
+After the Three Hands of Zhongnan left in disgrace, their footsteps echoing heavily, Hong Jin pulled a small bell from inside his robes and shook it.
 
 “Well, now that the uninvited guests are gone, I suppose we should clean up.”
 
@@ -12,15 +12,15 @@ Exactly three times. Before the sound had even faded, the iron doors opened and 
 
 “We’ll carry out your orders.”
 
-They bowed once more, then moved with perfect coordination.
+After bowing once more, they moved with perfect coordination.
 
-Without batting an eye, they began clearing away the split table, the scattered food, and even Cheongpung’s vomit.
+They began clearing away the broken tables and scattered food without batting an eye—not even at Cheongpung’s vomit.
 
 *They’re professionals. Absolute professionals.*
 
-They’d put most cleaning companies to shame.
+They put most cleaning companies to shame.
 
-Unlike me, Cheongpung had been groaning with the look of someone who desperately needed the bathroom. He cautiously approached the servants.
+Unlike me, Cheongpung had been groaning with an expression like he needed to use the bathroom. He cautiously approached the servants.
 
 “I-I’m sorry. Let me help.”
 
@@ -32,15 +32,15 @@ One of the servants shook his head.
 
 No matter how sturdy the servants were, they were facing a Peak master. They had no choice but to follow Cheongpung’s wishes.
 
-But the moment Cheongpung wrested the cleaning tools from them and began cleaning up the vomit, he froze.
+However, the moment Cheongpung forcibly took the cleaning tools from them and began wiping up the vomit, his movements abruptly stopped.
 
 “Urk, uweeek!”
 
 “……”
 
-*Please just stay still. Stop making more work for them.*
+*Please stay still. Stop making more work for them.*
 
-As Cheongpung emptied his stomach yet again, Hong Jin gave Li Feng a doubtful look.
+As Cheongpung emptied his stomach once again, Hong Jin looked at Li Feng with a doubtful expression.
 
 “Assistant Commissioner Li, is that young man really Sword Saint Mae Jonghak’s Disciple?”
 
@@ -50,21 +50,23 @@ As Cheongpung emptied his stomach yet again, Hong Jin gave Li Feng a doubtful lo
 
 “Ahem.”
 
-Li Feng cleared his throat, his face reddening. To him, Cheongpung was both Sword Saint Mae Jonghak’s Disciple and an elder of his sect, but even he couldn’t deny that Cheongpung was a little strange.
+Li Feng cleared his throat, his face reddening.
 
-“I suppose it’s because he’s spent his life completely removed from the secular world.”
+To him, Cheongpung was both Sword Saint Mae Jonghak’s Disciple and an elder of his sect. But it was also impossible to deny that he was a slightly strange young man.
+
+“I suppose he’s like this because he’s spent his life completely removed from the secular world.”
 
 “No, but even so. Are you saying Great Hero Mae didn’t teach him the basics?”
 
-“Well… from what I’ve seen and heard, my Grandmaster is rather unusual himself.”
+“Well… from what I’ve seen and heard, my Grandmaster is not an ordinary person himself.”
 
-*Rather unusual.*
+*Not an ordinary person.*
 
-It was a valiant attempt to put things politely, but what I heard was, *They’re two of a kind.*
+It was an impressive effort at putting things politely, but what I heard was, *They’re two of a kind.*
 
-Hong Jin must have gotten a similar impression, because he fell silent for a moment.
+Hong Jin must have gotten a similar impression, because he remained silent for a moment.
 
-“Are you sure we can entrust this matter to Huashan?”
+“Would it really be all right to leave this matter to Huashan?”
 
 “……”
 
@@ -96,21 +98,21 @@ I was grateful that he had taken our side, but that was that, and this was this.
 
 Hong Jin and Li Feng walked side by side at the front.
 
-As I followed them, I gradually began to understand what positions they held here and how much influence they wielded.
+As I followed them, I gradually began to understand what positions they held here and how much influence they possessed.
 
 “Loyalty!”
 
-People’s emotions show in their eyes, their bearing, and their voices.
+People’s emotions show in their eyes, their posture, and their voices.
 
-The soldiers snapped off energetic military salutes to Li Feng, and their boundless respect was plain to see.
+The soldiers snapped off energetic military salutes toward Li Feng, and I could read boundless respect in their faces.
 
-*Understandable.*
+*It’s understandable.*
 
-Li Feng, a lay disciple of Huashan, was an advanced First Rate master. Respecting strength was a male instinct, and even at a glance he radiated an unmistakably masculine presence. From what little I’d seen, he was steadfast and taciturn.
+Li Feng, a lay disciple of Huashan, was an advanced First Rate master. Respecting strength was a male instinct, and he radiated an unmistakably masculine presence. From what I had observed, he was steadfast and taciturn.
 
 *But he isn’t completely inflexible, either.*
 
-The fact that he’d accepted Hong Jin’s proposal proved as much. Their relationship had clearly been hostile, but Li Feng knew when to join hands and when to let go.
+I could tell from the fact that he had accepted Hong Jin’s proposal. Their relationship had clearly been hostile, but Li Feng knew when to join hands and when to let go.
 
 No one disliked a superior who was reasonably flexible.
 
@@ -128,41 +130,41 @@ However…
 
 “Yes, sir!”
 
-Several officials and servants we passed practically groveled before him.
+Several officials and servants we passed on the way practically groveled before him.
 
-Their trembling voices and cautious footsteps made their feelings obvious.
+Their trembling voices and cautious footsteps made their emotions obvious.
 
 They were afraid.
 
 *Respect and fear.*
 
-They were opposing emotions, but they had one thing in common.
+They were opposing emotions, but they were the same in one respect.
 
 Both came from the art of handling people. Li Feng and Hong Jin each held the support of their subordinates through respect and fear.
 
-*So one controls the military while the other controls civil affairs?*
+*So one of them controls the military, while the other controls civil affairs?*
 
 Shanxi Province was called a frontier region, but its size couldn’t be ignored.
 
 It was a respectable autonomous territory with a vast area and a population of several million registered in its household records.
 
-Where there was land, people gathered. Where people gathered, power and wealth flowed. Even within the Shanxi Provincial Office, a fierce, unseen struggle for power was underway.
+Where there was land, people gathered. And where people gathered, power and wealth flowed. Even within the Shanxi Provincial Office, an invisible and fierce struggle for power was still underway.
 
-*From what I’ve heard, Hong Jin seems to have the upper hand. But that’s none of my business.*
+*From what I’ve heard, Hong Jin seems to be ahead. But that’s not my problem.*
 
-I was too busy making a living to get involved in someone else’s power struggle.
+I was too busy trying to make a living to get involved in someone else’s power struggle.
 
 After walking for some time while lost in thought, we passed through nine gates and came upon a group of people.
 
 “Deputy Military Commissioner, and Assistant Military Commissioner, have you arrived?”
 
-The tenth gate was particularly large and tall. I couldn’t tell whether it had truly been built that way or only seemed so because a hundred soldiers surrounded it without leaving so much as a crack.
+The tenth gate was particularly large and tall. I couldn’t tell whether it had genuinely been built that way or only seemed so because a hundred soldiers surrounded it without leaving even a gap.
 
 *Wow. Talk about tight security.*
 
 Would a Peak master, and one capable of using Sword Energy at that, be needed to try anything here? Every one of the guards was heavily armed with armor, spears, swords, bows, and more. Sharp eyes gleamed from beneath their helmets.
 
-Cheongpung, who had spent the entire walk exclaiming at everything around us, lowered his voice and whispered to me.
+Cheongpung, who had been looking around and exclaiming in wonder this entire time, lowered his voice and whispered to me.
 
 “Wow. What do these people do?”
 
@@ -170,7 +172,7 @@ Cheongpung, who had spent the entire walk exclaiming at everything around us, lo
 
 “The royal guard? They’re amazing…”
 
-Cheongpung murmured vacantly, then clenched his fists.
+Cheongpung muttered with a vacant expression, then clenched his fists.
 
 “Benefactor, I’ve made up my mind.”
 
@@ -184,15 +186,15 @@ Of course, my premonition proved correct again.
 
 “……I don’t think that’s such a good idea.”
 
-The Sword Saint probably wouldn’t be pleased to hear that.
+This was news the Sword Saint probably wouldn’t like.
 
 I rubbed my throbbing forehead.
 
 “Um, shouldn’t you get your grandfather’s permission first?”
 
-“It’s all right. Grandfather said life is short, so whenever I find something I want to do, I should try it.”
+“It’s all right. Grandfather said life is short, so whenever I want to do something, I should try it.”
 
-“And that something is joining the royal guard?”
+“So that’s why you want to join the royal guard?”
 
 “Yes.”
 
@@ -200,7 +202,7 @@ Cheongpung stared intently at the royal guards standing in perfect rows, his eye
 
 More precisely, he was staring at their gleaming black armor.
 
-*No way. Is this bastard…?*
+*No way. Is this guy…?*
 
 “……It’s not because the armor looks cool, is it?”
 
@@ -210,11 +212,11 @@ That was it.
 
 What kind of lunatic joined the royal guard because he wanted their merchandise?
 
-Li Feng, who had overheard our conversation, approached with a face that looked ten years older.
+Li Feng, who had overheard our conversation, approached us with a face that looked ten years older.
 
 “Martial Uncle Cheongpung, I may be nothing more than a lowly lay disciple, but you are Huashan’s direct Disciple, someone who will bear the future of the sect on your shoulders. To abandon the sect and devote yourself to the military… Please be careful with what you say and do…”
 
-Cheongpung looked as though Li Feng had hit the bull’s-eye. He frantically waved his hands.
+Cheongpung stood there with an expression that had clearly been hit right in the bull’s-eye, then frantically waved his hands.
 
 “N-No, that’s not it. Really.”
 
@@ -232,13 +234,13 @@ Cheongpung took the bait immediately.
 
 “……”
 
-*Is this bastard serious?*
+*Is this guy serious?*
 
-Oblivious to the sudden chill in the air, Cheongpung grinned.
+Cheongpung, oblivious to the sudden chill in the air around us, grinned.
 
 “Great Hero Li is a good person.”
 
-“I’m not Great Hero Li. I’m your Martial Nephew, Martial Uncle Cheongpung.”
+“I’m not Great Hero. I’m your Martial Nephew, Martial Uncle Cheongpung.”
 
 “Martial Uncle, Martial Nephew. Those words feel awkward…”
 
@@ -256,9 +258,9 @@ Li Feng delivered his final blow to the hesitating Cheongpung.
 
 “Gasp…!”
 
-Game over.
+The game was over.
 
-Merchandise wasn’t complete without the full set. On the verge of obtaining the Royal Guard Armor Set, Cheongpung spread his arms, his face glowing with joy.
+The finishing touch for merchandise was a complete set. Cheongpung, now on the verge of obtaining the Royal Guard Armor Set, spread both arms with a face full of joy.
 
 “Martial Nephew Li Feng!”
 
@@ -266,13 +268,13 @@ Li Feng answered awkwardly.
 
 “M-Martial Uncle Cheongpung.”
 
-“I like Martial Nephew Li Feng best in the whole world!”
+“I like Martial Nephew Li Feng best in the world!”
 
 “……Thank you, Martial Uncle.”
 
-I felt sorry for the Sword Saint, who had spent twenty years raising that bastard as his grandson.
+I felt sorry for the Sword Saint, who had raised that guy as his grandson for twenty years.
 
-While even the royal guards were distracted by this unexpected farce, Hong Jin let out a deep sigh.
+While even the royal guards were distracted by this unexpected farce, Hong Jin let out a deep sigh and spoke.
 
 “What are you doing? Why haven’t you opened the gate?”
 
@@ -290,37 +292,39 @@ Even I, who wasn’t particularly well versed in sword techniques, could tell th
 
 *So there was a reason he invited us.*
 
-When I first received Prince Shangshan’s invitation, I’d had only one thought.
+When I first received Prince Shangshan’s invitation, I had one thought.
 
-*I’ll go tell him a few heroic tales he wants to hear.*
+*I’ll go and tell him a few of the heroic tales he wants to hear. That was about all I had expected.*
 
-That was about it.
+That was all I had expected.
 
-But this child was different. Instead of telling him stories about my exploits, I might have to teach him about martial arts.
+But that child was different. I might have to teach him about martial arts instead of telling him stories about my exploits.
 
 “What do you think of His Highness?”
 
-Hong Jin asked after dismissing all the attendants waiting outside the training ground with a single gesture.
+Hong Jin had waved away all the attendants waiting outside the training ground with a single gesture before asking me.
 
-Even then, the young prince was so absorbed in his martial arts that he didn’t notice who had arrived or who had left.
+Even then, the young prince, absorbed in his martial arts, didn’t notice who had arrived or who had left.
 
-“Exactly what sort of impression are you asking for?”
+“What kind of opinion are you asking for?”
 
 “Well, for starters, his martial arts?”
 
 I answered honestly.
 
-“He’s better than I expected. No, he’s outstanding. When did he begin learning?”
+“He’s beyond my expectations. No, he’s outstanding. When did he begin learning?”
 
 “He began showing an interest in martial arts three years ago.”
 
 “Three years…”
 
-“Yes. Ever since the day he first held a sword, he hasn’t missed a single day of martial arts training unless something unusual happened.”
+“Yes. Ever since the day he first held a sword, he has trained in martial arts every single day unless something unusual happened.”
 
-Li Feng smiled proudly and added, “He is unlike an ordinary child in many ways. His determination is remarkable. Much like yours, Young Hero Jin.”
+Li Feng smiled proudly and added,
 
-“Mine?”
+“He is not like an ordinary child in many ways. He possesses astonishing determination. Much like Young Hero Jin.”
+
+“Me?”
 
 “That’s right. I heard Young Hero Jin worked himself to the bone from a young age. You’ve been making quite a name for yourself, just as one would expect from a master the Jin Family of Taiyuan secretly raised with such painstaking care.”
 
@@ -328,41 +332,41 @@ Li Feng smiled proudly and added, “He is unlike an ordinary child in many ways
 
 That was a bogus rumor the Jin Family of Taiyuan had spread for public consumption.
 
-In reality, I couldn’t even remember what I’d been doing at the age of ten.
+In reality, I didn’t even remember what I had been doing at the age of ten.
 
-*Probably going to elementary school or something.*
+*I must have been attending elementary school or something.*
 
 Li Feng continued.
 
 “You have no idea how delighted His Highness was when he heard the story of the Sleeping Dragon of Shanxi. He must have been eagerly awaiting the chance to meet Young Hero Jin today.”
 
-“……For someone who was looking forward to it, hasn’t he kept us waiting rather a long time?”
+“……For someone who was looking forward to it, didn’t he make us wait rather a long time?”
 
-It felt like we’d been waiting for almost an hour. Was it because he was a prince? The little brat already had no basic manners.
+I felt as though we had been waiting for almost an hour. Was it because he was a prince? The little brat already had no basic manners.
 
 Li Feng smiled faintly at my timid complaint.
 
 “His Highness has a habit of immersing himself in martial arts whenever he is nervous. If he has offended you, please accept my apologies.”
 
-There was no need to apologize over something like that. Just as I waved my hands dismissively, Hong Jin cupped both hands around his mouth and shouted,
+There was no need to apologize over something like that. I was waving my hands dismissively when Hong Jin cupped both hands around his mouth and shouted,
 
-“Your Hiiiighness—!”
+“His Hiiiighness—!”
 
-The small figure practicing his sword technique stopped dead at the shrill call. A moment later, he noticed us and crooked a finger.
+The little figure who had been practicing his sword technique stopped abruptly at the shrill call. A moment later, he noticed us and crooked a finger.
 
 “What is that supposed to be?”
 
-“What do you think? His Highness is calling us.”
+“What do you mean? His Highness is calling us.”
 
-“What are we, neighborhood mutts?”
+“No, I mean, are we neighborhood mutts?”
 
-“Wow, I’ve never been a neighborhood mutt before!”
+“Wow, this is my first time being a neighborhood mutt!”
 
 “……Please shut your mouth. No one here has ever been a neighborhood mutt.”
 
 Suppressing my frustration, I walked toward the training ground.
 
-Prince Shangshan Zhu Bao. With every step, his face drew closer.
+Prince Shangshan Zhu Bao. His face came closer with every step.
 
 *The rude ones always seem to be handsome.*
 
@@ -386,11 +390,11 @@ A faint trace of surprise appeared in his previously dignified eyes.
 
 “That’s right.”
 
-I wondered how he would react.
+I wondered what his reaction would be.
 
-The young prince remained silent for a long moment. Then he suddenly pulled something from his robes.
+The young prince remained silent for a long moment. Then he suddenly pulled something from inside his robes.
 
-A wooden tablet about the size of an adult’s palm and a dagger.
+A wooden tablet about the size of an adult’s palm, and a dagger.
 
 “This…”
 
