@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "I moved through them unhindered.",
+      "defect": "The draft introduces a first-person subject after the viewpoint has shifted to Won Myunghoon’s group, falsely making Taekyung the narrator of this line.",
+      "id": "F01",
+      "rationale": "The Korean is a subjectless description of Taekyung’s combat, not first-person narration.",
+      "replacement": "He tore through their ranks unhindered.",
+      "severity": "critical",
+      "source": "그야말로 종횡무진."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Uh, Guild Master. That’s not what I—”",
+      "defect": "The address changes Won’s title from CEO to Guild Master, losing the established corporate hierarchy.",
+      "id": "F02",
+      "rationale": "대표님 addresses Won in his established role as CEO of the Star Guild.",
+      "replacement": "“Uh, CEO. That’s not what I—”",
+      "severity": "major",
+      "source": "어, 대표님. 그게 아니고."
+    },
+    {
+      "confidence": 0.99,
+      "current": "And you only became a ranker because of the fame you built in the entertainment industry and your incredible connections.",
+      "defect": "“Connections” softens and obscures the explicit accusation that Won obtained his ranker status through extensive lobbying.",
+      "id": "F03",
+      "rationale": "로비 specifically means lobbying or influence-peddling here, a meaningful accusation about how Won secured his ranking.",
+      "replacement": "And your ranker status was only the result of the recognition you built in the entertainment industry and an enormous amount of lobbying.",
+      "severity": "major",
+      "source": "랭커는 연예계 생활을 하며 쌓은 인지도와 엄청난 로비로 얻어낸 결과물이었잖아."
+    },
+    {
+      "confidence": 0.99,
+      "current": "It had taken only about fifteen minutes to wipe out more than fifty B-Rank monsters, the Orc Warriors.",
+      "defect": "“More than fifty” changes an approximate count centered on fifty into a lower-bounded quantity.",
+      "id": "F04",
+      "rationale": "오십여 마리 means approximately fifty, not more than fifty.",
+      "replacement": "It had taken only about fifteen minutes to wipe out around fifty B-Rank monsters—the Orc Warriors.",
+      "severity": "minor",
+      "source": "B급 몬스터인 오크 워리어 오십여 마리를 전멸시키기까지 걸린 시간은 불과 15분 남짓."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Won Myunghoon muttered those words inwardly and gestured toward Team Leader 1.",
+      "defect": "A specific signal made with the eyes is changed into an unspecified physical gesture.",
+      "id": "F05",
+      "rationale": "눈짓했다 explicitly describes giving an eye signal.",
+      "replacement": "Won Myunghoon muttered those words inwardly and signaled Team Leader 1 with his eyes.",
+      "severity": "critical",
+      "source": "마음속으로 뇌까린 원명훈이 1팀장을 향해 눈짓했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "No matter how hard I try, I can only become a D-Rank Hunter… but I want you to know that I’m always cheering for you.",
+      "defect": "The draft implies that Im has not yet become a D-Rank Hunter, contradicting his established current rank and the source’s self-deprecating statement about his limit.",
+      "id": "F06",
+      "rationale": "D급 헌터밖에 못 되지만 describes his limited standing as a D-Rank Hunter, not a future promotion he may attain.",
+      "replacement": "No matter how hard I try, I’m still only a D-Rank Hunter… but I want you to know that I’m always cheering for you.",
+      "severity": "major",
+      "source": "내가 아무리 용 써 봐야 D급 헌터밖에 못 되지만…… 항상 응원하고 있다는 것만 알아 둬."
+    }
+  ],
+  "summary": "Several actionable fidelity and hierarchy issues remain.",
+  "version": 1
+}
