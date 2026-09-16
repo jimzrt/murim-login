@@ -1,6 +1,6 @@
 # Chapter 174
 
-“Huh? Blade of Flowers Jin Baekyang—isn’t he the person you killed, Benefactor? Right?”
+“Wait? Blade of Flowers Jin Baekyang—isn’t he the person you killed, Benefactor? Right?”
 
 I had only one thought.
 
@@ -14,13 +14,13 @@ But it was already too late. Cheongpung was rampaging like an unleashed pit bull
 
 *Please stop. Enough, you lunatic.*
 
-I had to stop him now, at the very least. I was just about to hurriedly open my mouth when—
+I had to stop him before it was too late. I was just about to hurriedly open my mouth when—
 
 “I heard you even cursed at Blade of Flowers. ‘Take your hands off me, you son of a bitch!’”
 
 “…”
 
-“And where did you hear that?”
+“Where did you hear that, too?”
 
 “Everyone I met seemed to know about it. When I said I was close to Benefactor, lots of people came over and told me all kinds of things. The cook even packed me a ton of delicious food.”
 
@@ -56,7 +56,7 @@ I could not finish my sentence.
 
 Just a few steps away, I saw Jeok Cheongang’s hands burning red.
 
-*Whoooom.*
+*Whooosh.*
 
 I could feel it.
 
@@ -74,7 +74,7 @@ But it was on an entirely different level from Jopil’s.
 
 Several times stronger. Stronger, stronger, and simply stronger.
 
-Jeok Cheongang was no longer an old man with little time left.
+Jeok Cheongang was no longer an old man who did not have much longer to live.
 
 He was the Fire King incarnate.
 
@@ -96,7 +96,7 @@ The Fire King, Jeok Cheongang.
 
 He was the man who had burned a thousand people to death over the simple matter of trespassing on his home and setting it on fire. Words like *profound* and *complicated* were light-years away from him.
 
-*Fwoooosh!*
+*Whooosh!*
 
 *Damn old man…*
 
@@ -288,7 +288,7 @@ He merely stared back and forth between his own hands and the young man, his fac
 
 “Y-you…!”
 
-Jang Taebo burst out in frustration and was just about to check on the young man, Jin Taekyung, when a clear voice stopped him.
+Jang Taebo exploded in frustration and was just about to examine the young man—Jin Taekyung’s—condition when a clear voice stopped him.
 
 “He’s not dead. He only lost consciousness for a moment after suffering an Internal Injury.”
 
@@ -386,7 +386,7 @@ Jang Taebo stood there for a while as though he had been bewitched by a ghost.
 
 Before long, he realized the crucial fact he had momentarily forgotten.
 
-*The Fire King. Have you ever seen such a damned old man?*
+*The Fire King. What the hell is wrong with that old bastard?*
 
 There had to be limits to such outrageous behavior.
 

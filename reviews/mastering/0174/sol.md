@@ -78,7 +78,7 @@ Jeok Cheongang was no longer an old man with little time left.
 
 He was the Fire King incarnate.
 
-“You violated the sacred bonds of kinship and killed the Blade of Flowers. Are you truly human?”
+“You violated the bonds of kinship and killed the Blade of Flowers. Are you truly human?”
 
 “W-wait a moment! There are some very profound and complicated circumstances behind that…”
 
@@ -168,7 +168,7 @@ At last, my hands met the Flame Divine Palm.
 
 *Gooooong.*
 
-A deafening sound of splitting air erupted.
+A deafening roar of splitting air erupted.
 
 * * *
 
@@ -288,7 +288,7 @@ He merely stared back and forth between his own hands and the young man, his fac
 
 “Y-you…!”
 
-Jang Taebo burst out in frustration and was just about to check on the young man, Jin Taekyung, when a clear voice stopped him.
+Jang Taebo burst out in frustration and was just about to check on the young man, Jin Taekyung, when a clear voice cut him off.
 
 “He’s not dead. He only lost consciousness for a moment after suffering an Internal Injury.”
 
