@@ -4,27 +4,27 @@ Gong Ilhyuk of the Three Hands of Zhongnan stared dubiously at the young man bef
 
 *What’s with this guy?*
 
-Jin Taekyung, the Sleeping Dragon of Shanxi. He was the driving force behind a whirlwind that had quietly spread his name as far as Shaanxi in the span of only a few months.
+Jin Taekyung, the Sleeping Dragon of Shanxi. In only a few months, he had taken the martial world by storm, his name gradually spreading as far as Shaanxi Province.
 
 Gong Ilhyuk mulled over what Jin Taekyung had said.
 
-*“The Reign…” What was it?*
+*“The Reign…” What?*
 
-It definitely seemed as though he had been about to say something before stopping himself.
+He had clearly been about to say something before stopping himself.
 
-Unlike his enthusiastic reaction when he first heard the name of the Zhongnan Sect, he now looked completely deflated and let out one deep sigh after another.
+Despite his initial excitement upon hearing the name of the Zhongnan Sect, he now looked completely deflated, heaving sigh after sigh.
 
 “Whew.”
 
-“…What’s with the sighing?”
+“…Why do you keep sighing?”
 
 “It’s nothing. Really.”
 
 “What do you mean, nothing? Go on. Finish what you were saying.”
 
-Gong Ilhyuk was beginning to feel irritated. What kind of sect was his? It was none other than the famous Zhongnan Sect.
+Gong Ilhyuk was beginning to feel annoyed. His sect was none other than the renowned Zhongnan Sect.
 
-It was one of the great pillars of Murim, a sect that had proudly earned its place among the Nine Sects and One Gang on the strength of centuries of history and deeply rooted martial traditions.
+With centuries of history and deep-rooted martial traditions, it stood proudly among the Nine Sects and One Gang as one of the great pillars of Murim.
 
 And yet…
 
@@ -42,39 +42,39 @@ The other two members of the Three Hands of Zhongnan also regarded Jin Taekyung 
 
 “Ahem.”
 
-“Young friend, you have a habit of stopping halfway when you speak.”
+“Young friend, you seem to have a habit of stopping halfway through a sentence.”
 
 As the atmosphere grew increasingly sour, Jin Taekyung waved a hand.
 
-“No, it’s not like that. I just misunderstood something on my own.”
+“No, it’s not like that. I just got the wrong idea.”
 
 Gong Ilhyuk forced himself to speak magnanimously.
 
-“What did you misunderstand? Tell me. I’ll answer everything.”
+“What did you misunderstand? Tell me. I’ll answer any question you have.”
 
 “It’s really nothing…”
 
-“Ah, just tell me!”
+“Just tell me!”
 
 “Huh? Why are you shouting?”
 
 Gong Ilhyuk took a deep breath.
 
-He was almost forty years old. Yet here he was, getting worked up over a brat barely twenty.
+He would be forty in a few years. Yet here he was, getting worked up over a brat barely twenty.
 
 For some reason, just looking at that handsome face got under his skin.
 
-“It’s not that… Whew. Anyway, tell me.”
+“That’s not… Whew. Anyway, tell me.”
 
 “Hmm.”
 
 Jin Taekyung finally spoke, as though he had no other choice.
 
-“Then may I ask you one thing?”
+“Then may I ask you one question?”
 
 “Anything.”
 
-“What is the name of the current chairman of the Zhongnan Sect—or rather, the Sect Leader?”
+“What’s the name of the current chairman of the Zhongnan Sect—sorry, the Sect Leader?”
 
 “Hm? You mean the Sect Leader’s name?”
 
@@ -84,7 +84,7 @@ What kind of question was that? Puzzled, Gong Ilhyuk answered.
 
 “His family name is Gong. His given name is Iljung.”
 
-“Ah. Yes.”
+“Ah. Right.”
 
 His indifferent response made it sound as though he had no idea who that was. Veins bulged on the foreheads of all three men.
 
@@ -98,9 +98,9 @@ Jin Taekyung scratched the back of his head.
 
 “Wind-and-Cloud Sword Lord Gong Iljung. Wind-and-Cloud Sword Lord Gong Iljung… Hmm. Doesn’t ring a bell.”
 
-It was beyond absurd.
+It was absurd.
 
-The Sect Leaders and Family Heads of the Nine Sects and One Gang and the Five Great Families were all renowned masters whose names resounded throughout the world. No martial artist could possibly be unaware of them.
+The Sect Leaders and Family Heads of the Nine Sects and One Gang and the Five Great Families were renowned masters whose names resounded throughout the world. No martial artist could possibly be unaware of them.
 
 Yet this fellow, a member of the Jin Family of Taiyuan rather than some half-baked martial artist, didn’t even know the Sect Leader of the Zhongnan Sect.
 
@@ -112,11 +112,11 @@ Gong Ilhyuk’s head was still reeling from the shock when Jin Taekyung suddenly
 
 “Oh? Come to think of it, your names are similar. Gong Iljung, Gong Ilhyuk.”
 
-At least he had some basic social awareness. Gong Ilhyuk’s irritation eased slightly.
+At least he had some social awareness. Gong Ilhyuk’s irritation eased slightly.
 
 “He’s an elder of my family.”
 
-“Oh, a family elder! Then are you two…?”
+“Oh, a family elder! Then are the two of you…?”
 
 “He’s my father’s cousin.”
 
@@ -124,7 +124,7 @@ At least he had some basic social awareness. Gong Ilhyuk’s irritation eased sl
 
 Seeing Jin Taekyung’s eyes widen, Gong Ilhyuk squared his shoulders.
 
-It wasn’t just anyone. He was the Wind-and-Cloud Sword Lord. Being related to the Sect Leader of the Zhongnan Sect was an immense honor.
+This was no ordinary relative, but the Wind-and-Cloud Sword Lord. Being related to the Sect Leader of the Zhongnan Sect was an immense honor.
 
 “Ahem. Don’t spread it around too much. If this became widely known, people would start treating me differently.”
 
@@ -132,23 +132,23 @@ In truth, no one wanted that fact widely known more than Gong Ilhyuk himself.
 
 He had enjoyed all manner of benefits by invoking the Wind-and-Cloud Sword Lord’s name: superior martial arts, elixirs, and even the title of Three Hands of Zhongnan.
 
-If he continued advancing at this rate, it was only a matter of time before he seized an important position within the Zhongnan Sect.
+If he continued his meteoric rise, securing an important position within the Zhongnan Sect was only a matter of time.
 
 “You understand what I mean, don’t you? If you truly must tell someone, limit it to a few close friends…”
 
 Jin Taekyung waved him off.
 
-“No way. I’d never tell anyone. It would obviously hurt Great Hero Gong’s reputation. People would say, ‘That bastard only made it this far because of his connections.’ Oops. Sorry. Anyway, that kind of rumor would be troublesome, wouldn’t it?”
+“Oh, I’d never tell anyone. It would obviously damage Great Hero Gong’s reputation. People would say, ‘That bastard only made it this far because of his connections.’ Oops. Sorry. Anyway, you wouldn’t want rumors like that spreading, would you?”
 
-Gong Ilhyuk gave a dry cough. Even he had to admit that the boy wasn’t entirely wrong.
+Gong Ilhyuk coughed awkwardly. Even he had to admit that the boy wasn’t entirely wrong.
 
-“Ahem. It’s not as though it would hurt me that much. I only meant that there might be people who are curious about me…”
+“Ahem. I wouldn’t say it would damage my reputation. I only meant that some people might be curious about me…”
 
 “Curious about you? I don’t have a single friend, so there’s no one I could tell.”
 
-“…Your eldest brother, the Lesser Family Head of the Jin Family, might be curious. Or Young Hero Heaven Shaking Sword.”
+“…Your eldest brother, the Lesser Family Head, might be curious. Or perhaps your second brother, the Heaven Shaking Sword.”
 
-“Oh, you don’t know much about my family situation. My eldest brother is incredibly busy right now. My second brother isn’t interested in much besides martial arts.”
+“Oh, you don’t know much about my family. My eldest brother is incredibly busy right now, and my second brother isn’t interested in anything but martial arts.”
 
 “…Is that so?”
 
@@ -156,7 +156,7 @@ Gong Ilhyuk gave a dry cough. Even he had to admit that the boy wasn’t entirel
 
 There was nothing more Gong Ilhyuk could say.
 
-As Gong Ilhyuk continued giving irritated coughs, Jin Taekyung smiled brightly.
+As he repeatedly cleared his throat in irritation, Jin Taekyung smiled brightly.
 
 “Besides, what would be the point of telling anyone? If he’s only your father’s cousin, you’re practically strangers. Here I thought you might be father and son or something.”
 
@@ -174,11 +174,11 @@ The Three Hands of Zhongnan, was it?
 
 I hadn’t liked them from the start. Not the way they looked down on everyone, nor the way they strutted around because they belonged to some great sect.
 
-*So it really is different from the novel.*
+*So reality really is different from the novel.*
 
 Back in high school, I’d dreamed of becoming a disciple of the Zhongnan Sect.
 
-But as expected, reality was a cesspool.
+But as usual, reality was a cesspool.
 
 I held back my laughter as I watched Gong Ilhyuk’s fists tremble.
 
@@ -198,21 +198,21 @@ Then the pretty middle-aged man looked at me and winked, giving me goose bumps a
 
 “Deputy Military… what?”
 
-“The Deputy Military Commissioner. Ah, you’re a martial artist, so I suppose this is your first time hearing of the office?”
+“Deputy Military Commissioner. Ah, you’re a martial artist, so I suppose you’ve never heard of the office?”
 
-“Yes.”
+“No.”
 
 *I’d heard of Comrade Chairman, but Comrade Deputy Military Commissioner was a new one.*
 
-Hong Jin giggled as he looked at me blinking.
+Hong Jin giggled at my blank stare.
 
-Good heavens. A middle-aged man was giggling.
+Good God. A middle-aged man was giggling.
 
-“Why that expression? Did something bad happen?”
+“Why the long face? Has something unpleasant happened?”
 
 “…No. I’m just so happy.”
 
-“Happy? Ho ho ho, you’re adorable. Don’t you agree, Assistant Commissioner Li?”
+“Happy? Ho ho ho, how adorable. Don’t you agree, Assistant Commissioner Li?”
 
 *He called me cute. Fuck, that bastard called me cute.*
 
@@ -234,17 +234,17 @@ That alone made him worthy of courtesy. I offered him a respectful fist-and-palm
 
 “I have heard much of your reputation. A great new star has risen in the martial world of Shanxi.”
 
-“A new star? You flatter me.”
+“A great new star? You flatter me.”
 
 Li Feng shook his head gravely.
 
-“No. Rumors are often exaggerated, but after seeing Young Hero Jin today, I can tell they were all true.”
+“Not at all. Rumors are often exaggerated, but now that I have seen Young Hero Jin for myself, I know they were all true.”
 
 Kind words deserved kind words in return.
 
 I brought up the soldiers I had seen on the way here.
 
-“I was surprised by how skilled the soldiers were. I wondered who had trained them, but I suppose it was only natural that it would be you.”
+“I was amazed by how skilled the soldiers were. I wondered who could have trained them, but now it all makes sense.”
 
 I gave him a firm thumbs-up, and a smile flickered across Li Feng’s lips.
 
@@ -254,7 +254,7 @@ It had been so long since I’d had a normal, pleasant conversation that I was a
 
 “Of course. This is…”
 
-“Greetings! To the respected Seniors of Murim and those who toil day and night for the sake of the nation…”
+“Greetings! To the respected Seniors of Murim and those who toil day and night for the good of the nation…”
 
 “……”
 
@@ -266,7 +266,7 @@ That left only one person.
 
 “All right. Junior, where are you from, and who are you?”
 
-At Gong Ilhyuk’s question, delivered with all the smugness of someone high on his seniority, Cheongpung blinked.
+Gong Ilhyuk was clearly drunk on the thrill of playing Senior. At his question, Cheongpung blinked.
 
 “Me?”
 
@@ -280,25 +280,25 @@ A vein bulged on Gong Ilhyuk’s forehead.
 
 “Oh, I see. You called me Junior, so I didn’t think you meant me.”
 
-“Good heavens! In Murim, we all share the same path! We’re all seniors and juniors to one another. How do you not know that?”
+“Good heavens! All martial artists share the same path! We’re all seniors and juniors to one another. How can you not know that?”
 
 If it had been me, I would have laid the sarcasm on thick.
 
 But Cheongpung was Cheongpung.
 
-He was in a different class from ordinary people.
+He was in a class of his own.
 
 “Wow, I’ve never been anyone’s junior before! Please take good care of me!”
 
-“…What kind of person is this?”
+“…What is wrong with this fellow?”
 
-Sometimes, a pure child was much harder to deal with than an adult who had been properly tainted by the world.
+Sometimes an innocent child was far harder to handle than an adult properly tainted by the world.
 
-Cheongpung spoke with a bright smile.
+Cheongpung smiled brightly.
 
 “My name is Cheongpung, and I live in Shanxi.”
 
-Gong Ilhyuk had been left speechless, but he finally came to his senses and stammered out a question.
+Gong Ilhyuk had been struck speechless, but he finally collected himself and stammered out a question.
 
 “Ahem. Then you must also be one of the young prodigies of the Five Gates of Shanxi.”
 
@@ -314,9 +314,9 @@ Gong Ilhyuk had been left speechless, but he finally came to his senses and stam
 
 “You… Whew.”
 
-A furrow appeared in Gong Ilhyuk’s forehead.
+A deep furrow appeared between Gong Ilhyuk’s brows.
 
-He clearly wanted to throw a punch right then and there, but the occasion forced him to hold himself back.
+He plainly wanted to start swinging, but given the occasion, he was doing his utmost to restrain himself.
 
 “Fine. Then which sect in Henan are you from? The Iron Blood Sect? The Five Tigers Sword Sect?”
 
@@ -340,13 +340,13 @@ His wrist was caught with absurd ease.
 
 Gong Ilhyuk let out a hollow laugh.
 
-“Well, look at you. You know at least one trick, huh?”
+“Well, look at you. So you have a trick or two up your sleeve?”
 
-“Ah, I just reacted on instinct. I’m sorry, Senior.”
+“Ah, I reacted without thinking. I’m sorry, Senior.”
 
-“On instinct? And you’re apologizing?”
+“You reacted without thinking? And now you’re sorry?”
 
-Seeing Cheongpung apologize with a miserable expression, Gong Ilhyuk gave a short laugh.
+At the sight of Cheongpung’s miserable apology, Gong Ilhyuk gave a short laugh.
 
 “No. There’s no need to let go. No need to apologize, either.”
 
@@ -358,15 +358,15 @@ Seeing Cheongpung apologize with a miserable expression, Gong Ilhyuk gave a shor
 
 “You’re about to find out.”
 
-I stepped in at that exact moment.
+That was when I stepped in.
 
-I threw myself in front of Cheongpung, and Gong Ilhyuk regarded me coldly.
+I darted in front of Cheongpung, and Gong Ilhyuk regarded me coldly.
 
 “Move aside, Junior.”
 
 “Pardon me, Senior.”
 
-“Pardon you… Should I take this to mean the Jin Family of Taiyuan intends to oppose the actions of our sect?”
+“Pardon you… Am I to take this as the Jin Family of Taiyuan opposing the affairs of our sect?”
 
 I answered calmly.
 
@@ -374,9 +374,9 @@ I answered calmly.
 
 “A problem? What problem?”
 
-“His Highness will be arriving soon, won’t he? And there are plenty of eyes on us.”
+“His Highness will be arriving soon, won’t he? And there are plenty of people watching.”
 
-“Plenty of eyes. Deputy Military Commissioner, what do you think?”
+“Plenty of people watching. Deputy Military Commissioner, what do you think?”
 
 I could see Hong Jin smiling behind Gong Ilhyuk.
 
@@ -386,19 +386,19 @@ His lilting voice followed.
 
 Li Feng immediately objected.
 
-“This is the grand hall. We cannot tolerate even a minor disturbance.”
+“This is the grand hall. Even the slightest disturbance cannot be permitted.”
 
-“Assistant Commissioner Li, I find the word ‘tolerate’ unpleasant. Anyone listening might think you were my superior.”
+“Assistant Commissioner Li, I don’t care for the word ‘permitted.’ Anyone listening might think you were my superior.”
 
 “Deputy Military Commissioner!”
 
-“Why, Assistant Military Commissioner?”
+“Yes, Assistant Military Commissioner?”
 
 No sooner had Hong Jin finished speaking than the other two members of the Three Hands of Zhongnan quietly stepped in front of Li Feng.
 
 True to the Zhongnan Sect’s reputation, both were at least advanced First Rate masters.
 
-Li Feng bit down hard on his lip, then looked at me and muttered,
+Li Feng bit his lip, then looked at me and muttered,
 
 “I’m sorry.”
 
@@ -408,11 +408,11 @@ Gong Ilhyuk smiled triumphantly.
 
 What else could I do?
 
-I shrugged once and stepped back. Gong Ilhyuk’s smile deepened.
+I shrugged and stepped aside. Gong Ilhyuk’s smile deepened.
 
 “A wise choice.”
 
-“I only wanted to prevent the problem from getting bigger. You understand, right?”
+“I only wanted to stop the problem from getting worse. You understand that, don’t you?”
 
 “Of course. Everyone here will remember it clearly.”
 
@@ -428,15 +428,15 @@ Gong Ilhyuk answered before I could.
 
 His murderous gaze swung toward Cheongpung.
 
-“Are you insulting me and the Zhongnan Sect right now?”
+“Are you mocking me and the Zhongnan Sect?”
 
-“That’s not it. I was just…”
+“That’s not it. I only…”
 
-“Can’t you shut that mouth of yours?”
+“Shut your mouth!”
 
-A complicated, subtle expression appeared on Cheongpung’s face.
+A complicated expression crossed Cheongpung’s face.
 
-Then he said the one thing more than enough to make Gong Ilhyuk lose his reason.
+Then he said the one thing guaranteed to make Gong Ilhyuk lose all reason.
 
 “Wow, no one’s ever sworn at me before. This is fascinating.”
 
@@ -450,7 +450,7 @@ Gong Ilhyuk’s fist shot toward Cheongpung’s ribs at blinding speed.
 
 Then—
 
-Crack. Crunch.
+Crack! Crunch!
 
 “……!”
 
@@ -460,11 +460,11 @@ Amid the stunned silence, one man’s mouth fell open in agony.
 
 His fist had been crushed. Bone jutted through the torn flesh of his forearm, and Gong Ilhyuk, drenched in blood, asked in a trembling voice,
 
-“Wh-what is this? What kind of fist technique…?”
+“Wh-what was that? What kind of fist technique…?”
 
 If he hadn’t asked, I would have.
 
-I had expected this result, but not to this extent.
+I’d expected this outcome, but not anything this extreme.
 
 With a single counter, Cheongpung had rendered Gong Ilhyuk, a master above Level 70, completely helpless.
 
@@ -472,9 +472,9 @@ And…
 
 “That wasn’t a fist technique.”
 
-At my mutter, Cheongpung answered with a face that looked ready to vomit.
+At my murmur, Cheongpung answered with a face that looked ready to vomit.
 
-“Benefactor is right. It wasn’t a fist technique. It was a palm technique called the Taeeul Miri Palm. But Senior, you’re bleeding too much. The smell of blood is making my stomach churn. Urk!”
+“Benefactor is right. It wasn’t a fist technique. It was a palm technique called the Taeeul Miri Palm. But Senior, you’re bleeding so much. The smell is making me sick. Urk!”
 
 What a lunatic.
 
@@ -484,20 +484,20 @@ That was when—
 
 “Ta-Taeeul Miri Palm!”
 
-Li Feng asked with his eyes wide.
+Li Feng’s eyes widened.
 
-“Did you just say Taeeul Miri Palm? Are you certain?”
+“Did you say the Taeeul Miri Palm? Are you certain?”
 
 “Urk, yes. My grandfather taught me.”
 
-“M-May I ask his name?”
+“M-may I ask his name?”
 
 “Urk, Mae Jonghak—bleeegh!”
 
-Splash!
+Splat!
 
-I was shocked that Cheongpung had vomited in the very place where the king was about to arrive, but Li Feng seemed unfazed.
+I was shocked that Cheongpung had just vomited where His Highness would soon arrive, but Li Feng didn’t seem to care.
 
-He trembled as though he had been struck by lightning, then squeezed out a single word.
+Trembling as though struck by lightning, he forced out the words.
 
 “The Sword Saint…!”
