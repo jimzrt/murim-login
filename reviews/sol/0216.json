@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "This one was covered entirely in pitch-black scales. By contrast, the Wyvern circling overhead now had a bright green body.",
+      "defect": "“This one” incorrectly identifies the current Green Wyvern as black; the source refers to the Wyvern from three years ago.",
+      "id": "F01",
+      "rationale": "The contrast between 녀석 and 지금 상공에서 배회하는 저 와이번 distinguishes the past black Wyvern from the current green one.",
+      "replacement": "That one had been pitch-black all over. By contrast, the Wyvern circling overhead now had a bright green body.",
+      "severity": "critical",
+      "source": "녀석은 온통 새카만 흑색으로 뒤덮여 있었다. 반면 지금 상공에서 배회하는 저 와이번의 몸통은 환한 녹색이다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Veins bulged over his dense muscles, and an immense force flowed toward his spear like a surging tide.",
+      "defect": "“Force” obscures that Won is channeling Hunter-system energy into the spear.",
+      "id": "F02",
+      "rationale": "In this modern Hunter context, 기운 is mana, and the flow into the spear is the mechanism producing Aura.",
+      "replacement": "Veins bulged over his dense muscles, and an immense amount of mana surged into his spear like a rising tide.",
+      "severity": "major",
+      "source": "촘촘한 근육 위로 핏줄이 불끈 솟고, 막대한 기운이 그의 창을 향해 물밀 듯이 흘러 들어갔다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "It was Spear Energy—a powerful concentration of qi known as Aura in the modern world.",
+      "defect": "“Qi” incorrectly applies Murim terminology to modern Hunter energy.",
+      "id": "F03",
+      "rationale": "The source explicitly frames this as the modern-world phenomenon called Aura; the terminology rules reserve qi for Murim energy and mana for the Hunter system.",
+      "replacement": "It was Spear Energy—a powerful concentration of mana known as Aura in the modern world.",
+      "severity": "major",
+      "source": "그것은 창기(槍氣). 현대에서는 오러(Aura)라 불리는 강력한 기의 집약체였다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "At this rate, he was going to start calling out the name of some distant uncle.",
+      "defect": "The generic “distant uncle” omits the deliberately specific and increasingly remote kinship relation used for the joke.",
+      "id": "F04",
+      "rationale": "오촌 당숙 specifically denotes one’s father’s male cousin, and that precise remoteness drives the escalation.",
+      "replacement": "At this rate, he would start calling out his father’s cousin next.",
+      "severity": "minor",
+      "source": "이러다가 오촌 당숙 이름까지 나오겠다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Ranker, my ass. That was a long time ago.”",
+      "defect": "The translation adds profanity to a lightly self-deprecating dismissal, intensifying Won’s public register.",
+      "id": "F05",
+      "rationale": "랭커는 무슨 dismisses the compliment but contains no profanity.",
+      "replacement": "“What ranker? That was a long time ago.”",
+      "severity": "major",
+      "source": "“랭커는 무슨. 다 옛날 얘기지.”"
+    },
+    {
+      "confidence": 0.95,
+      "current": "“That guy’s always like that. He’s lighthearted and clumsy, so he even sends contracts to the wrong place…”",
+      "defect": "“To the wrong place” invents a destination error; the source only says he sends the wrong contract or sends a contract incorrectly, preserving the precise mistake as unstated.",
+      "id": "F06",
+      "rationale": "계약서도 잘못 보내고 leaves the nature of the sending mistake implicit; the added destination narrows the mechanism without support.",
+      "replacement": "“That guy’s always like that. He’s flighty and careless enough to even send the wrong contract…”",
+      "severity": "major",
+      "source": "“저 자식이 원래 그래. 가볍고 덤벙거리는 성격이라 계약서도 잘못 보내고…….”"
+    },
+    {
+      "confidence": 0.9,
+      "current": "It was like reserving a seven-star hotel course meal and being served braised boneless pollock and a meat-mixing sauce.",
+      "defect": "“Meat-mixing sauce” is an unnatural literal calque that fails to identify the Korean dish-style sauce.",
+      "id": "F07",
+      "rationale": "비빔 소스 is a bibim-style sauce, not generically a sauce used for mixing meat; retaining “bibim” preserves the food reference naturally.",
+      "replacement": "It was like reserving a seven-star hotel course meal and being served braised boneless pollock and beef bibim sauce.",
+      "severity": "minor",
+      "source": "7성 호텔 코스 요리를 예약했는데 명태 순살 조림과 육고기 비빔 소스가 나온 기분이랄까."
+    },
+    {
+      "confidence": 0.98,
+      "current": "*My possessions are precious.*",
+      "defect": "The formal plural “possessions” erases the singular euphemistic double meaning that sets up the sexual joke.",
+      "id": "F08",
+      "rationale": "물건 is deliberately euphemistic here, referring both to the necklace and his anatomy without becoming explicit.",
+      "replacement": "*My stuff is precious.*",
+      "severity": "minor",
+      "source": "‘내 물건은 소중하니까.’"
+    }
+  ],
+  "summary": "Several fidelity and register issues, including a reversed Wyvern reference and Hunter energy rendered as Murim qi.",
+  "version": 1
+}
