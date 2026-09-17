@@ -23,6 +23,7 @@ Use `BASE` only for a real miss:
 * a rebuilt joke whose comic machine BASE already has (`얼마나 …는지 …겠다` must stay a simple exaggeration: “snored so loudly even my mother in Ilsan probably heard him,” not “You had to wonder how loudly…”)
 * dropped image, attitude, or timing
 * SOL replaces an established project rendering, System label, or Markdown convention with an unsupported synonym
+* SOL stamps `hyung` (or another kinship title) onto every narrative name when BASE already uses the name and the Korean `형` is ordinary reference, not a vocative or a topical joke (`진호 형` → Jinho in narration)
 
 Do not veto SOL for being informal. Do not veto SOL to “clarify” slang. Do not veto SOL merely because BASELINE is already understandable.
 
