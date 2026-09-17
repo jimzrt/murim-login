@@ -1,23 +1,22 @@
 # Translation State
 
-- Last completed: 305
-- Next chapter: 306
-- Current block: 305–309 (1/5)
-- Latest translation: `translations/0305.md`
-- Latest summary: `summaries/beats/0305.md`
-- Safe profiles through: chapter 305
+- Last completed: 306
+- Next chapter: 307
+- Current block: 305–309 (2/5)
+- Latest translation: `translations/0306.md`
+- Latest summary: `summaries/beats/0306.md`
+- Safe profiles through: chapter 306
 
 ## Current Block
 
-- Lee Jungryong visits Go Jun during his recovery and reframes his defeat as merely falling. He promises to give Go Jun greater strength so that Go Jun can defeat Jin Taekyung, reaffirming their Master-and-Disciple bond.
-- President Baek Hanseong delivers Xiao Yang's unofficial diplomatic letter and China's mercenary contract for the Sichuan Catastrophe. Lee accepts Ares Guild's participation after assessing the Lich's power and the proposed rewards, then learns that the Peace Guild also received an offer.
-- Baek reveals that Xiao Yang personally required Lee Jungryong, the Ares Guild, and Jin Taekyung to participate. Taekyung and Team Leader Choi depart for China on a private jet after Taekyung accepts the offer of fifty trillion won for killing the Lich, while joking about buying the aircraft and negotiating the Guild's share.
+- Jin Taekyung and Team Leader Choi travel toward China aboard a private Boeing 747-8 VIP jet. Taekyung speaks fluent Chinese, drinks soju, warns Choi to assume the worst, and then sleeps through the flight while Choi explains that increasing mana density may be causing the recent surge in Gate accidents and that the Lich may have undergone the same unexplained evolution as the Skeleton Warlord. After a month away, Taekyung logs back into the Murim and awakens in a Murim Alliance pavilion beside the sleeping Jeok Cheongang. He wakes Hyuk Mujin from an embarrassing dream and throws a flower vase at him, but the door opens at that moment and the vase strikes the arriving Luoyang Strange Physician in the forehead, knocking him unconscious with a concussion.
 
 ## Open Questions
 
 - What will Lee Jungryong do to strengthen Go Jun?
 - What will Jin Taekyung and the Peace Guild encounter inside the Sichuan catastrophe zone?
 - How powerful is the Lich, and can the combined Korean and Chinese forces contain it?
+- What is causing mana density to increase across many Gates?
 
 ## Exceptional Decision
 
@@ -26,6 +25,9 @@
 - Retain Chairman Jongseok for Taekyung's mistaken name pun.
 - Use Focke-Wulf for 포케불프.
 - Use People's Liberation Army for 인민해방군.
+- Render 마계어 as Demon Realm language.
+- Use First Dew Fresh for 첫이슬 후레쉬 and Chengdu for 청두.
+- Retain Tokyo Hot and hwabyeong with explanatory footnotes.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

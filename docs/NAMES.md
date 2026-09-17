@@ -1006,3 +1006,14 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 주한 중국 대사 | **Chinese ambassador to Korea** | Diplomatic representative who met Lee Jungryong secretly. |
 | 포케불프 | **Focke-Wulf** | German aircraft manufacturer. |
 | 종석이 아저씨 | **Chairman Jongseok** | Taekyung's joking misrendering of Chairman Xiao Yang's title and name. |
+| 보잉 747-8 VIP | **Boeing 747-8 VIP** | Chinese private jet used for the Sichuan response. |
+| 중국 중앙 위원회 | **China's Central Committee** | Source-spaced variant of the established Chinese Central Committee title. |
+| 첫이슬 후레쉬 | **First Dew Fresh** | Soju brand served aboard the private jet. |
+| 청두 | **Chengdu** | Administrative capital of Sichuan Province and destination airport city. |
+| 마계어 | **Demon Realm language** | Language spoken by monsters from the Demon Realm. |
+| 국제 게이트 연구소 | **International Gate Research Institute** | Research body studying the increase in Gate mana. |
+| 게이트 마력 급증 조사 결과 | **Investigation Results: Sudden Increase in Gate Mana** | Title displayed on Choi Minwoo's tablet. |
+| 도쿄핫 | **Tokyo Hot** | Adult-video studio referenced in Taekyung's insult; footnoted. |
+| 도쿄루 | **Tokyo-ru** | Red-light establishment referenced in Taekyung's joke. |
+| 미미 | **Mimi** | Worker at Honghwaru referenced in Taekyung's joke. |
+| 키라라 | **Kirara** | Worker at Tokyo-ru referenced in Taekyung's joke. |
