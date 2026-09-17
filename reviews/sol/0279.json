@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "The three-syllable name rose clearly on the screen.",
+      "defect": "The draft omits the displayed name itself, concealing that the incoming call is from Jin Taekyung.",
+      "id": "F01",
+      "rationale": "The bracketed name is visible phone-screen content and establishes the caller’s identity before Park Jihoon is stopped from answering.",
+      "replacement": "Jin Taekyung.\n\nThe three-syllable name appeared clearly on the screen.",
+      "severity": "critical",
+      "source": "[진태경]\n\n\n\n화면에 선명하게 떠오른 이름 세 글자."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I was under the impression that matter had already been discussed. ‘That person’ said he had contacted the Guild Master personally to ask for your understanding.”\n\n“Understanding? Not a threat?”\n\n“He’d be hurt if he heard you say that.”",
+      "defect": "The draft assigns a male gender to the deliberately unidentified person and refers to Park Tae Seop in the third person despite Jihoon addressing him directly.",
+      "id": "F02",
+      "rationale": "The Korean honorific pronoun 그분 does not disclose gender, while 길드장님 addresses the Guild Master present in the conversation.",
+      "replacement": "“I was under the impression that matter had already been discussed. ‘That person’ said they had personally contacted you to ask for your understanding.”\n\n“Understanding? Not a threat?”\n\n“They’d be hurt if they heard you say that.”",
+      "severity": "major",
+      "source": "“그 부분은 이미 이야기된 것으로 압니다만. ‘그분’께서도 길드장님께 개인적으로 연락해서 양해를 구했다고 하셨고요.”\n\n“양해? 협박이 아니고?”\n\n“그분께서 들으시면 섭섭해하시겠군요.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Park Tae Seop had been voicing his dissatisfaction for days, but this was the first time he had been so blatant about it.",
+      "defect": "The idiom 하루 이틀 일이 아니다 means that his complaints are longstanding or nothing new, not merely that they have continued for several days.",
+      "id": "F03",
+      "rationale": "The source characterizes the dissatisfaction as an established pattern without specifying a short duration.",
+      "replacement": "Park Tae Seop’s complaints were nothing new, but this was the first time he had been so blatant about them.",
+      "severity": "major",
+      "source": "박태섭이 불만을 토로한 것은 하루 이틀 일이 아니지만, 이렇게 노골적으로 나오는 건 처음이다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "*It’s time to go to work.*",
+      "defect": "The draft makes the thought sound like Taekyung is reminding himself to leave for work, rather than observing that Jihoon should be at work by now.",
+      "id": "F04",
+      "rationale": "Taekyung is already outside Jihoon’s workplace after failing to reach him; 출근 시간인데 expresses the expectation that Jihoon should be there.",
+      "replacement": "*He should be at work by now.*",
+      "severity": "minor",
+      "source": "‘출근 시간인데.’"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“You rude bastards. How dare you lay hands on a teacher?”",
+      "defect": "Teacher is a literal mistranslation of the polite address 선생님 and makes Taekyung falsely identify himself as an educator, obscuring his joke about their repeated use of “sir.”",
+      "id": "F05",
+      "rationale": "Here 선생님 is the honorific form of address used by the guards, which Taekyung mockingly adopts rather than a statement of occupation.",
+      "replacement": "“Y-You rude punks. How dare you lay hands on this gentleman?”",
+      "severity": "minor",
+      "source": "“요, 요 버릇 없는 놈들. 어딜 감히 선생님 몸에 손을 대?”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Yutori?”\n\n“Please refrain from using such a thoughtless word in times like these. It makes me uncomfortable.”\n\n*What a lunatic.*\n\n“Do you want to make your life at the Guild difficult from now on?”",
+      "defect": "The draft turns the senior Hunter’s spoken insult into Taekyung’s internal thought and omits the junior Hunter suddenly becoming serious.",
+      "id": "F06",
+      "rationale": "The Korean explicitly attributes the serious delivery to the junior and places both the insult and threat in the senior Hunter’s quoted dialogue.",
+      "replacement": "“Yutori?”\n\nThe junior Hunter’s expression suddenly turned grave.\n\n“Please refrain from using such a thoughtless word in times like these. It makes me uncomfortable.”\n\n“You’re out of your mind. Do you want to make your life at the Guild difficult from now on?”",
+      "severity": "critical",
+      "source": "“예? 유도리요?”\n\n순간, 후배 헌터가 정색하고 말했다.\n\n“요즘 같은 시국에 그런 경솔한 단어 사용은 자제해 주십시오. 불편합니다.”\n\n“이거 미친놈이네. 너 앞으로 길드 생활 불편해지고 싶냐?”"
+    },
+    {
+      "confidence": 0.95,
+      "current": "“The first through ninth floors are the private departments—tax, accounting, corporate affairs, and so on. From the tenth through the nineteenth floors, each floor belongs to a raid team.”",
+      "defect": "Private departments is the wrong organizational contrast for 민간 부서, which distinguishes ordinary civilian business functions from the Hunter raid teams.",
+      "id": "F07",
+      "rationale": "The floor arrangement contrasts noncombat administrative departments with raid teams, not privately owned departments with public ones.",
+      "replacement": "“The first through ninth floors house the civilian departments—tax, accounting, corporate affairs, and so on. From the tenth through the nineteenth floors, each floor belongs to a raid team.”",
+      "severity": "minor",
+      "source": "“1층부터 9층까지는 세무, 회계, 법인 등등 민간 부서고 10층부터 19층은 층마다 레이드 팀이 자리 잡고 있습니다.”"
+    }
+  ],
+  "summary": "The draft contains two critical omissions or speaker-attribution errors, along with several localized fidelity and terminology issues.",
+  "version": 1
+}

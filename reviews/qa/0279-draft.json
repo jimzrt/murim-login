@@ -1,0 +1,39 @@
+{
+  "chapter": 279,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.198,
+    "source_characters": 6464,
+    "source_paragraphs": 218,
+    "translation_characters": 14205,
+    "translation_paragraphs": 222
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "잠룡",
+        "preferred": "Hidden Dragon"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "명동",
+        "romanization": "myeongdong"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}

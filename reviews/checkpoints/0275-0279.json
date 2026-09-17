@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "If the dozens of layers of defensive barriers hadn’t absorbed part of the Flame-Extinguishing Divine Fist’s impact, the entire place would have been reduced to ash.",
+      "defect": "The technique name contradicts Chapter 277, where the barrier-destroying attack is explicitly the Heaven-Destroying Divine Fist.",
+      "id": "C01",
+      "rationale": "The two techniques are intentionally distinct, and the established action immediately before this chapter identifies the full-strength strike as the Heaven-Destroying Divine Fist.",
+      "replacement": "If the dozens of layers of defensive barriers hadn’t absorbed part of the Heaven-Destroying Divine Fist’s impact, the entire place would have been reduced to ash.",
+      "severity": "major",
+      "source": "Chapter 278, opening paragraph"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Taekyung is the apparent intruder and reported killer of twenty-eight members.",
+      "defect": "This says Taekyung killed all twenty-eight members even though Chapter 278 establishes that ten survived.",
+      "id": "C02",
+      "rationale": "The mansion initially contained twenty-eight Black Hunters, and the subsequent survivor count is ten; the continuity summary must distinguish defeating the entire force from killing every member.",
+      "replacement": "Taekyung is the apparent intruder who defeated all twenty-eight Team 11 members, killing eighteen and sparing ten.",
+      "severity": "major",
+      "source": "Checkpoint summary, Continuity"
+    },
+    {
+      "confidence": 0.98,
+      "current": "What happened to Team 11 after it reported the intruder, and who was the intruder?",
+      "defect": "The state treats Team 11’s fate and the intruder’s identity as unresolved even though the packet establishes that Team 11 was the force at Im Yeongjun’s mansion and Taekyung was the intruder who defeated it.",
+      "id": "C03",
+      "rationale": "The matching remote base, twenty-eight-member force, emergency message, timing, and Taekyung’s assault resolve the existing question; only the Guild’s response remains open.",
+      "replacement": "How will Myeongdong Guild respond after losing Team 11?",
+      "severity": "major",
+      "source": "Durable state, open_questions"
+    },
+    {
+      "confidence": 1.0,
+      "current": "It’s an A-Rank Gate.",
+      "defect": "The Hunter-rank adjective is capitalized inconsistently with the established rendering used throughout the packet.",
+      "id": "C04",
+      "rationale": "The reading copies consistently use forms such as “A-rank Hunter”; matching that style removes an isolated formatting drift.",
+      "replacement": "It’s an A-rank Gate.",
+      "severity": "minor",
+      "source": "Chapter 279, Security Team conversation"
+    },
+    {
+      "confidence": 1.0,
+      "current": "We weren’t dealing with some Third Rate media company that sold gossip.",
+      "defect": "The ordinary compound adjective is incorrectly capitalized and left unhyphenated.",
+      "id": "C05",
+      "rationale": "“Third-rate” is descriptive prose rather than a formal grade or title.",
+      "replacement": "We weren’t dealing with some third-rate media company that sold gossip.",
+      "severity": "minor",
+      "source": "Chapter 275, discussion of the media campaign"
+    },
+    {
+      "confidence": 0.99,
+      "current": "> **(Best comment)** I knew this was coming. I heard it across the bridge[^1] and thought, *No way,* but I had a feeling it would blow up someday.\n>\n> [^1]: A Korean expression meaning the information was heard indirectly.",
+      "defect": "The footnote definition is nested inside the quoted comment, which can prevent standard Markdown footnote rendering and makes the editorial explanation appear to be part of the comment.",
+      "id": "C06",
+      "rationale": "Footnote definitions should remain outside the source blockquote while the reference marker stays in the quoted text.",
+      "replacement": "> **(Best comment)** I knew this was coming. I heard it across the bridge[^1] and thought, *No way,* but I had a feeling it would blow up someday.\n\n[^1]: A Korean expression meaning the information was heard indirectly.",
+      "severity": "minor",
+      "source": "Chapter 275, best-comment blockquote"
+    }
+  ],
+  "summary": "The reading copies maintain a consistent brisk, darkly comic voice, but one martial-art name contradicts the preceding action, the continuity state misstates or reopens established facts about Team 11, and several minor Markdown or capitalization inconsistencies remain.",
+  "version": 1
+}

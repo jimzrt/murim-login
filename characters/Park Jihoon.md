@@ -1,6 +1,6 @@
 # Park Jihoon (박지훈)
 
-- **Safe through:** Chapter 278
+- **Safe through:** Chapter 279
 - **Aliases:** Park Jihwang
 - **Role:** Hunter in Team 1 of Myeongdong Guild and its covert enforcer; killed Team Leader Jung Hyunwoo after detecting wrongdoing; Jin Taekyung's former middle-school classmate; attended Hankuk University's Business Administration department but has not graduated since awakening; son of a family that has run a Hunter-related business for more than thirty years
 - **Personality:** Outgoing and teasing in conversation; privately says that he and Taekyung were not close
