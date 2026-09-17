@@ -1,0 +1,106 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Unlike the short and stocky Jeok Cheongang, Dharma King Hong Dao was a remarkably tall old man.",
+      "defect": "The source describes Jeok Cheongang only as short; “stocky” adds an unsupported physical characteristic.",
+      "id": "F01",
+      "rationale": "단신 means short in stature and does not establish that Jeok Cheongang is stocky.",
+      "replacement": "Unlike the short Jeok Cheongang, Dharma King Hong Dao was a remarkably tall old man.",
+      "severity": "minor",
+      "source": "단신인 적천강과 달리, 법왕(法王) 굉도는 훌쩍 큰 키의 노인이었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“What brought the two of them together. During the Great Faction War, my master was secretly eating meat and drinking alcohol. After Great Hero Jeok caught him, they became drinking buddies.”",
+      "defect": "Unnamed addresses Jeok Cheongang as 적 시주, a Buddhist form meaning “Benefactor Jeok,” not “Great Hero Jeok.” The draft changes his monk-specific deferential register.",
+      "id": "F02",
+      "rationale": "시주 is the Buddhist address “benefactor”; preserving it distinguishes Unnamed’s monastic voice from ordinary martial-world honorifics.",
+      "replacement": "“What brought the two of them together. During the Great Faction War, my master was secretly eating meat and drinking alcohol. After Benefactor Jeok caught him, they became drinking buddies.”",
+      "severity": "major",
+      "source": "두 분이 친해지신 계기 말입니다. 정마대전 당시 스승님께서 몰래 술과 고기를 먹고 계셨는데, 적 시주께 들킨 후로 술친구가 되셨다고 합니다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“I’ve gotten old enough that I had to give up grain tea as well. It’s already been several decades.”",
+      "defect": "“Grain tea” is presented as literal tea, obscuring the joke and Hong Dao’s euphemistic reference to alcohol.",
+      "id": "F03",
+      "rationale": "곡차 is a monastic euphemism for alcohol. Quotation marks preserve the euphemism while allowing the surrounding exchange to reveal its meaning.",
+      "replacement": "“I was getting on in years, so I decided it was time to give up ‘grain tea’ too. That was decades ago.”",
+      "severity": "major",
+      "source": "나이도 먹을 만큼 먹었으니 곡차(穀茶)도 끊어야지. 벌써 수십 년 되었네."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Go on. If you want to bury yourself in the latrine.”",
+      "defect": "The draft makes Taekyung the agent who buries himself, whereas Jeok Cheongang is threatening to shove or throw him into the latrine.",
+      "id": "F04",
+      "rationale": "처박히고 싶으면 is a threat that Taekyung will be forcibly thrown into the privy, not an invitation to bury himself.",
+      "replacement": "“Go on—if you want me to shove you into the latrine.”",
+      "severity": "major",
+      "source": "“가라. 뒷간에 처박히고 싶으면.”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "They hurriedly opened the tightly sealed jar. Sure enough, the snake inside was larger than a python despite being a snake, and a horn protruded from its triangular head.",
+      "defect": "The draft assigns the action to both men, but the surrounding subject is Jeok Cheongang, whose eyes light up before he eagerly opens the jar.",
+      "id": "F05",
+      "rationale": "The omitted Korean subject is resolved by the immediately preceding focus on Jeok Cheongang; pluralizing it introduces unsupported participation by Hong Dao.",
+      "replacement": "Jeok Cheongang hurriedly opened the tightly sealed jar. Sure enough, the snake inside was larger than a python, and a horn protruded from its triangular head.",
+      "severity": "major",
+      "source": "허겁지겁 단단히 밀봉된 항아리를 열어 보니 과연, 뱀 주제에 구렁이보다 컸고 세모꼴 대가리에는 뿔이 달려 있었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "The venom was so potent that it made the tips of their noses sting.\n\nJeok Cheongang clicked his tongue.",
+      "defect": "The draft changes the singular experiencer to both men and renders 독기 as liquid venom rather than the poisonous aura emanating from the opened jar.",
+      "id": "F06",
+      "rationale": "코끝 is singular and belongs contextually to Jeok Cheongang, while 독기 here is the palpable toxic energy coming from the preserved snake.",
+      "replacement": "On top of that, a poisonous aura strong enough to make the tip of Jeok Cheongang’s nose tingle poured from the jar. He clicked his tongue.",
+      "severity": "major",
+      "source": "거기에 순간 코끝이 저릿저릿해질 정도의 독기까지. 적천강은 혀를 내둘렀다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Even after opening the seal for only a moment, this much venom has spread through the air. What more is there to say?”",
+      "defect": "The draft says liquid venom spread through the air, distorting the stated mechanism.",
+      "id": "F07",
+      "rationale": "독기 refers to the toxic aura or energy that escaped when the jar was unsealed, not the snake’s liquid venom.",
+      "replacement": "“We only broke the seal for a moment, and already this much poisonous energy has spread through the air. What more is there to say?”",
+      "severity": "major",
+      "source": "잠깐 밀봉을 푼 것만으로도 이 정도의 독기가 퍼져 나갔네. 더 말해서 뭣하나?"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Half a shichen later, early darkness settled over the mountain, and the jar was empty.",
+      "defect": "The explanatory shichen footnote is defined at the end of the draft but has no reference marker.",
+      "id": "F08",
+      "rationale": "Adding the marker connects the existing footnote definition to its first and only relevant occurrence.",
+      "replacement": "Half a shichen[^1] later, early darkness settled over the mountain, and the jar was empty.",
+      "severity": "minor",
+      "source": "그렇게 반 시진이 흐르자 산에는 이른 어둠이 내리깔렸고 항아리는 동이 났다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The words that followed belonged to a sage—someone who was the current Abbot of Shaolin, called the Murim’s greatest pillar for a thousand years, and who alone had mastered the secrets of the heavens.",
+      "defect": "The modifiers are attached incorrectly: Shaolin, not its current Abbot, has been called the Murim’s great pillar for a thousand years, and the source does not claim Hong Dao alone mastered heavenly secrets.",
+      "id": "F09",
+      "rationale": "천년 간 무림의 태산북두라 불린 modifies 소림, while 천문에 통달한 자 describes Hong Dao’s qualification without asserting that no one else possesses it.",
+      "replacement": "The words that followed held the wisdom of a sage, something only someone who was both the current Abbot of Shaolin—the sect hailed as the Murim’s greatest pillar for a thousand years—and deeply versed in the study of the heavens could display.",
+      "severity": "major",
+      "source": "이어지는 말은 천년 간 무림의 태산북두라 불린 소림의 당대 방장이자, 천문에 통달한 자만이 보일 수 있는 현자의 그것이었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Hong Dao smiled at Jeok Cheongang one last time, and Jeok Cheongang left the Buddha hall with unhurried steps.",
+      "defect": "The smiling subject is reversed: Jeok Cheongang smiles at Hong Dao, not the other way around. The draft also changes his unfaltering departure into an unhurried one.",
+      "id": "F10",
+      "rationale": "적천강 is the subject of both 웃어 보인 and 빠져나갔다, while 거침없는 describes an unhesitating or unfaltering stride rather than a leisurely pace.",
+      "replacement": "Jeok Cheongang smiled at Hong Dao one last time, then strode out of the Buddha hall without hesitation.",
+      "severity": "critical",
+      "source": "마지막으로 굉도를 향해 웃어 보인 적천강은 거침없는 발걸음으로 불당을 빠져나갔다."
+    }
+  ],
+  "summary": "The draft contains one critical subject reversal, several meaningful subject, mechanism, and register errors, plus an unused footnote marker.",
+  "version": 1
+}
