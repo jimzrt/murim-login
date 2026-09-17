@@ -1,6 +1,6 @@
 # Zhuge Gyun (제갈균)
 
-- **Safe through:** Chapter 251
+- **Safe through:** Chapter 252
 - **Aliases:** Divine Marvel Dragon
 - **Role:** Scholar-styled Zhuge Clan martial artist and finalist in the Star-Array Grand Banquet; expressed considerable regret after losing the fifth preliminary assessment on mechanisms and formations, uses a folding-fan technique in the main event, and was completely outclassed and defeated by the disguised Cheongpung, the Invincible Divine Sword.
 - **Personality:** Analytical, pedantic, and unusually preoccupied with theoretical correctness.
