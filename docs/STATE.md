@@ -1,38 +1,26 @@
 # Translation State
 
-- Last completed: 300
-- Next chapter: 301
-- Current block: 300–304 (1/5)
-- Latest translation: `translations/0300.md`
-- Latest summary: `summaries/beats/0300.md`
-- Safe profiles through: chapter 300
+- Last completed: 301
+- Next chapter: 302
+- Current block: 300–304 (2/5)
+- Latest translation: `translations/0301.md`
+- Latest summary: `summaries/beats/0301.md`
+- Safe profiles through: chapter 301
 
 ## Current Block
 
-- Jin Taekyung follows the Skeleton Warlord's directions back through the Black Wizard's Black Forest and discovers that the Peace Guild believes he died. He stores the Warlord's skull in his Inventory, where the Warlord remains able to communicate through their connection.
-- Go Jun and Seoul Branch President Lee Woojoong arrive with hundreds of Hunters after the delayed rescue response. Taekyung returns alive, mocks Go Jun, condemns Woojoong for prioritizing Lee Jungryong's favor over Hunter safety, and confronts Go Jun after Go Jun invokes Lee's special order and threatens him. The chapter ends as Go Jun prepares to fight.
+- Go Jun recalls the thirty years since Lee Jungryong took him in, trained him, and made him Head of Security. His absolute loyalty to Lee overrides the order to avoid conflict with the Peace Guild after Taekyung insults Lee. Go Jun attacks Taekyung at full strength, but Taekyung defeats him with a single blow, causing catastrophic internal injuries and rendering him unconscious. Taekyung orders him to tell Lee that no one can touch the Peace Guild while Taekyung is alive, then identifies himself as a descendant of the Fire King and successor to the Blazing Flame.
+- Taekyung intimidates Lee Woojoong and more than two hundred Association Hunters into claiming they have short-term memory loss and agreeing to keep silent about what happened. He then tells an Ares Guild team leader to report the incident to Lee Jungryong. Taekyung realizes that Ares will keep attacking whenever an opening appears and that this conflict has no true truce.
+- After returning to the Peace Guild members, Taekyung gives the excuse that he went to urinate. Song Song responds in an unusually gentle voice by asking whether she may kill him, so Taekyung promises to explain everything outside the Gate.
 
 ## Open Questions
 
-- Who actually taught Jin Taekyung the Jin Family's Cultivation Technique?
-- What history led Lee Jungryong to regard the unrelated Cheon Taemin as his older brother?
-- How extensive are Ares Guild's undisclosed forces beyond its officially registered Hunters?
-- Will Im Kkeokjeong's reattached arms and trauma recover sufficiently for him to return to Hunter work?
-- What is the origin of the large qi mass in Team Leader Choi's dantian, and what did his grandfather do to him?
-- What prevented Taekyung from completing his breakthrough into the Supreme Peak realm?
-- What caused the Skeleton Warlord's sudden magical-power increase and unusual evolution, and what will result from Taekyung's contract with it?
-- What will happen in the confrontation between Taekyung and Go Jun, and how will Lee Jungryong respond?
+- How will Lee Jungryong respond to Go Jun's defeat and Taekyung's warning?
 
 ## Exceptional Decision
 
-- Render 비급제작 as “Martial Arts Manual Creation,” 마나 연공법 as “Mana Cultivation Method,” and 사 성(成) as “Four Stars.”
-- Render 진기도인 as “True Qi Guidance,” 소주천 as “Small Circulation,” and 일주천 as “complete circulation.”
-- Render 삼화취정 as “Three Flowers Gather at the Crown,” 무아지경 as “Trance,” 내가고수 as “I'm a Master,” and 칠 성 as “Seven Stars.”
-- Render 수련자 as “Trainee” and 훈련 교관 as “Training Instructor.”
-- Render 도사견 as “Tosa mastiff,” 댕댕이 as “pup,” 망자 소환 as “Summon the Dead,” and 사령관의 고무 as “Commander's Rally.”
-- Render 정몽주 as “Jeong Mong-ju,” 단심가 as “Song of My Single Heart,” 통합 언어 팩 as “Unified Language Pack,” and 우렁각시 as “snail bride” with a footnote.
-- Render 49재 as “forty-ninth-day memorial rite,” with an explanatory footnote.
-- Render 이우중 as “Lee Woojoong” and 서울 중앙지부 헌터 협회장, 서울 중앙 협회장, and 서울 협회장 as “Seoul Branch President.”
+- Render 열화 in Taekyung's lineage declaration as “the Blazing Flame.”
+- Render 애송아 as “brat” in Go Jun's internal address.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
