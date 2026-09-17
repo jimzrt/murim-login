@@ -55,10 +55,11 @@ class PageviewsIngestTest(unittest.TestCase):
                   bytes INTEGER,
                   duration_ms INTEGER
                 );
-                INSERT INTO pageviews (ts, chapter, path, status) VALUES
-                  ('2026-01-01T00:00:00Z', 160, '/chapter/160/', 200),
-                  ('2026-01-01T00:01:00Z', 160, '/chapter/160/', 200),
-                  ('2026-01-01T00:02:00Z', 161, '/chapter/161/', 200);
+                INSERT INTO pageviews (ts, chapter, path, status, ip_hash) VALUES
+                  ('2026-01-01T00:00:00Z', 160, '/chapter/160/', 200, 'reader-a'),
+                  ('2026-01-01T00:01:00Z', 160, '/chapter/160/', 200, 'reader-a'),
+                  ('2026-01-01T00:02:00Z', 160, '/chapter/160/', 200, 'reader-b'),
+                  ('2026-01-01T00:03:00Z', 161, '/chapter/161/', 200, 'reader-a');
                 """
             )
             conn.close()
@@ -69,3 +70,30 @@ class PageviewsIngestTest(unittest.TestCase):
                 {"chapter": 161, "count": 1},
                 {"chapter": 162, "count": 0},
             ])
+
+    def test_query_counts_ignores_null_ip_hash(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            db = Path(tmp) / "pageviews.db"
+            conn = sqlite3.connect(db)
+            conn.executescript(
+                """
+                CREATE TABLE pageviews (
+                  id INTEGER PRIMARY KEY,
+                  ts TEXT NOT NULL,
+                  chapter INTEGER,
+                  path TEXT NOT NULL,
+                  status INTEGER NOT NULL,
+                  ip_hash TEXT,
+                  ua TEXT,
+                  referer TEXT,
+                  bytes INTEGER,
+                  duration_ms INTEGER
+                );
+                INSERT INTO pageviews (ts, chapter, path, status, ip_hash) VALUES
+                  ('2026-01-01T00:00:00Z', 5, '/chapter/5/', 200, NULL);
+                """
+            )
+            conn.close()
+            with patch("tools.pageviews_ingest.db_path", return_value=db):
+                rows = query_counts([5])
+            self.assertEqual(rows, [{"chapter": 5, "count": 0}])

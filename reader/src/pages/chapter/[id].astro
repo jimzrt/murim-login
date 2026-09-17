@@ -49,7 +49,7 @@ const previously = await loadPreviousSummary(entry.data.chapter);
       <p class="reading-meta">
         {entry.data.chapter} · {minutes} min read
         {" · "}
-        <span class="chapter-views chapter-views--inline" title="Views">
+        <span class="chapter-views chapter-views--inline" title="Unique readers">
           <svg class="chapter-views__icon" viewBox="0 0 16 16" aria-hidden="true" focusable="false">
             <path
               fill="currentColor"
@@ -57,7 +57,7 @@ const previously = await loadPreviousSummary(entry.data.chapter);
             />
           </svg>
           <span class="view-counter" data-chapter={entry.data.chapter}>—</span>
-          <span class="sr-only"> views</span>
+          <span class="sr-only"> unique readers</span>
         </span>
         {polished && (
           <>

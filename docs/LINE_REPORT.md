@@ -23,7 +23,7 @@ Caddy serves these on `murim-login.com` (not under `/api`, which is Remark42):
 | `POST /report-line` | Reader form |
 | `POST /github-hooks/murim-login` | GitHub App webhook |
 | `GET /health` | Worker liveness |
-| `POST /view-counts` | Reader chapter view totals (JSON array of chapter numbers) |
+| `POST /view-counts` | Reader unique-reader totals per chapter (distinct hashed IP) |
 
 The same process tails Caddy's Murim JSON access log into SQLite
 (`tools/pageviews_ingest.py`). That is not a public route.
