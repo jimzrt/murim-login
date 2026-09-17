@@ -1,6 +1,6 @@
 # Park Jihoon (박지훈)
 
-- **Safe through:** Chapter 281
+- **Safe through:** Chapter 282
 - **Aliases:** Park Jihwang
 - **Role:** Hunter in Team 1 of Myeongdong Guild and its covert enforcer; killed Team Leader Jung Hyunwoo after detecting wrongdoing; Jin Taekyung's former middle-school classmate; attended Hankuk University's Business Administration department but has not graduated since awakening; son of a family that has run a Hunter-related business for more than thirty years; gave a taunting, equivocal response when Taekyung accused him of sending the twenty-eight Black Hunters and threatened to end Taekyung and the Peace Guild if Taekyung advanced farther
 - **Personality:** Outgoing and teasing in conversation; privately says that he and Taekyung were not close
