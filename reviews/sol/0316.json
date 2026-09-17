@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "*Come to think of it, that Escort King was quite something too.*\n\n*He’s not your friend.*",
+      "defect": "The first line omits 친구, leaving the response about the Escort King not being his friend disconnected and erasing the exchange’s wordplay.",
+      "id": "F01",
+      "rationale": "Jeok Cheongang casually calls the Escort King 친구, which Taekyung immediately interprets literally and corrects. The English setup must contain “friend” for the punchline to function.",
+      "replacement": "*Come to think of it, that friend of mine, the Escort King, was quite something too.*\n\n*He’s not your friend.*",
+      "severity": "major",
+      "source": "‘그러고 보니 표왕, 그 친구도 물건이었지.’\n\n‘친구 아니잖아요.’"
+    },
+    {
+      "confidence": 0.96,
+      "current": "*The Martial God once told me that he was truly worthy of being called a king. No one disagreed.*",
+      "defect": "“Told me” adds an unsupported direct interaction between the Martial God and Jeok Cheongang. The source only reports what the Martial God said.",
+      "id": "F02",
+      "rationale": "그러더군 attributes the statement to the Martial God but does not identify Jeok Cheongang as its direct recipient.",
+      "replacement": "*The Martial God said he was truly worthy of being called a king. No one disagreed.*",
+      "severity": "major",
+      "source": "‘무신이 그러더군. 그야말로 왕이라 불릴 자격이 있다고. 그 누구도 이의를 제기하지 않았다.’"
+    },
+    {
+      "confidence": 0.95,
+      "current": "My Master also offered him advice several times because of his connection with the previous Bureau Head, but apparently, none of it got through. He said that was his policy.",
+      "defect": "The final “He” is grammatically liable to refer to Gung Gibang’s Master, obscuring that Ju Hogun rejected the advice and called his conduct his policy.",
+      "id": "F03",
+      "rationale": "The policy belongs to Ju Hogun and explains why he refuses the Beggars’ Sect Leader’s advice; assigning or ambiguously attaching it to the Master changes the subject and causal explanation.",
+      "replacement": "My Master also offered him advice several times because of his connection with the previous Bureau Head, but apparently, none of it got through. Great Hero Ju insisted that this was his policy.",
+      "severity": "major",
+      "source": "사부님도 선대의 인연으로 몇 번 조언하신 적이 있는데, 통 들어먹지를 않는다더군. 이게 방침이라고."
+    }
+  ],
+  "summary": "Three actionable fidelity issues: one obscured speaker, one unsupported personal interaction, and one lost wordplay beat.",
+  "version": 1
+}

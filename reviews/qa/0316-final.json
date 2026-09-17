@@ -1,0 +1,79 @@
+{
+  "chapter": 316,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.511,
+    "source_characters": 5876,
+    "source_paragraphs": 152,
+    "translation_characters": 14757,
+    "translation_paragraphs": 155
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "정파",
+        "preferred": "orthodox faction"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "대협",
+        "preferred": "Great Hero or Sir depending tone"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "신의",
+        "preferred": "Divine Physician"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "일섬",
+        "preferred": "One Annihilation"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "내상",
+        "preferred": "Internal Injury"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "개방",
+        "preferred": "Beggars' Sect"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "점혈",
+        "preferred": "Pressure-Point Strike"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "동의보감",
+        "romanization": "donguibogam"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
