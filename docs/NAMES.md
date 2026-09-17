@@ -758,3 +758,9 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 호철 | **Hocheol** | Jin Dragon Squad martial artist and Hyuk Mujin's subordinate. |
 | 간장 | **Gan Jiang** | Legendary swordsmith named in comparison with Mo Ye. |
 | 막야 | **Mo Ye** | Legendary swordsmith named in comparison with Gan Jiang. |
+| 백염 | **White Flame** | Name of Jin Taekyung's newly forged spear. |
+| 풍운전신 | **Wind-and-Cloud War God** | Jeok Cheongang's mistaken version of Gong Iljung's title. |
+| 정력도왕 | **Virility Saber King** | Jeok Cheongang's insulting replacement title for the Thunderbolt Saber King. |
+| 하북 팽가 | **Hebei Peng Family** | Family of the Thunderbolt Saber King. |
+| 하북제일미 | **Hebei's greatest beauty** | Description of the Thunderbolt Saber King's great-grandson's wife. |
+| 참회동 | **Repentance Cave** | Zhongnan Sect place of penance. |
