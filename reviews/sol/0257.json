@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The ground trembled faintly, accompanied by the distant rumble of an explosion that reached us from far away.",
+      "defect": "The draft identifies the noise as an explosion and adds a first-person reference, although the source only describes a distant roar whose martial origin is established afterward.",
+      "id": "F01",
+      "rationale": "굉음 denotes a tremendous roar or booming noise here, not an identified explosion, and the Korean contains no equivalent of “us.”",
+      "replacement": "The ground trembled faintly as a distant roar rolled in from far away.",
+      "severity": "critical",
+      "source": "저 멀리, 아스라이 들려오는 굉음과 함께 지면이 미세하게 떨렸다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Enough time had passed since the Great Faction War for the mountains and rivers to change five times.",
+      "defect": "The literal rendering leaves the chronological quantity opaque in unnatural English.",
+      "id": "F02",
+      "rationale": "The traditional expression treats one change of the mountains and rivers as roughly ten years, so five changes conveys approximately fifty years.",
+      "replacement": "Half a century had passed since the Great Faction War.",
+      "severity": "minor",
+      "source": "정마대전으로부터 강산이 다섯 번 바뀔 만큼의 세월이 흘렀다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "A waterspout of dust rose around us, blocking everyone else’s view.",
+      "defect": "A waterspout is specifically a vortex over water and is incompatible with the dust-filled arena described here.",
+      "id": "F03",
+      "rationale": "용오름 describes the rising vortex itself; the following sentence separately establishes that dust is swirling through it.",
+      "replacement": "A whirlwind rose around us, blocking everyone else’s view.",
+      "severity": "minor",
+      "source": "우리를 중심으로 솟아오른 용오름이 다른 이들의 시야를 가렸다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“You hit my back before I even got to use it!”",
+      "defect": "The draft invents the explicit action “You hit my back” and loses Taekyung’s euphemistic joke about not yet having had occasion to use his hips.",
+      "id": "F04",
+      "rationale": "The Korean is a deliberately elliptical complaint centered on his unused 허리, carrying a suggestive comic undertone without explicitly describing the preceding blow.",
+      "replacement": "“I haven’t even gotten to use these hips yet!”",
+      "severity": "major",
+      "source": "“써 보지도 않은 허리를!”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "A lot had changed over the past year—not only the Level displayed in my Status Window, but also the number of stats and Titles.",
+      "defect": "The draft says the number of stats changed, while the source says the numerical values changed, along with the number of Titles.",
+      "id": "F05",
+      "rationale": "숫자 refers to the displayed numbers themselves; only 칭호 is explicitly counted with 개수.",
+      "replacement": "A lot had changed over the past year—not only the Level displayed in my Status Window, but also its numbers and the number of Titles.",
+      "severity": "minor",
+      "source": "지난 1년 사이 상태창에 적혀 있는 레벨도, 숫자와 칭호의 개수도 많이 달라졌다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Even though he was fighting with all his strength, his movements were growing faster.\n\nAnd stronger.",
+      "defect": "The draft assigns both clauses to Jongni Chu, changing the omitted subject of “fighting with all his strength” from Taekyung to Jongni Chu.",
+      "id": "F06",
+      "rationale": "The explicit 그의 marks Jongni Chu as the subject of the increasingly fast and powerful movements, while the surrounding first-person narration establishes Taekyung as the one exerting his full strength against him.",
+      "replacement": "Even though I was fighting with all my strength, his movements were growing faster.\n\nAnd stronger.",
+      "severity": "critical",
+      "source": "전력을 다하고 있음에도 그의 움직임은 점점 빨라졌고, 강해졌다."
+    }
+  ],
+  "summary": "The draft contains two scene-fact errors, one lost euphemistic joke, one obscured chronological quantity, and two localized wording issues.",
+  "version": 1
+}
