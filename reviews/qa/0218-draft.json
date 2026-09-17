@@ -1,0 +1,39 @@
+{
+  "chapter": 218,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.184,
+    "source_characters": 6313,
+    "source_paragraphs": 214,
+    "translation_characters": 13787,
+    "translation_paragraphs": 209
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "창기",
+        "preferred": "Spear Energy"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "주신",
+        "preferred": "God of Drinking"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}

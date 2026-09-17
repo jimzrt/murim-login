@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "In truth, however, it is a shackle proving that the wearer was once a slave and livestock raised for food by the dragonkin. Anyone who possesses this item becomes a target of dragonkin monsters, regardless of their species.",
+      "defect": "The draft makes the necklace prove that its current wearer was formerly dragonkin livestock, which would falsely apply that history to Taekyung. The final pronoun also leaves unclear whose species is irrelevant.",
+      "id": "F01",
+      "rationale": "The historical enslavement pertains to the yeti associated with the shackle, while the targeting effect applies separately to any current possessor regardless of species.",
+      "replacement": "In truth, however, it is a shackle marking a yeti as a former slave and food animal of the dragonkin. Anyone who possesses this item becomes a target of dragonkin monsters, regardless of the possessor’s species.",
+      "severity": "critical",
+      "source": "그러나 사실은 과거 용족(龍族)의 노예이자 식용 가축임을 증명하는 족쇄이다. 이 물건을 소유하고 있는 자는 종족에 상관없이 용족 몬스터의 표적이 된다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "He didn’t need to hear the rest.",
+      "defect": "The subject is changed from the first-person narrator to Team Leader 1.",
+      "id": "F02",
+      "rationale": "Taekyung is narrating that the scout’s condition already tells him what happened.",
+      "replacement": "I didn’t need to hear the rest.",
+      "severity": "critical",
+      "source": "뒷말은 듣지 않아도 충분했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Boss! No, CEO!”",
+      "defect": "Replacing 형님 with “Boss” destroys the meaningful self-correction from an intimate senior-kinship address to Won’s formal corporate title.",
+      "id": "F03",
+      "rationale": "The slip reveals the speaker’s personal familiarity before he hurriedly restores workplace hierarchy.",
+      "replacement": "“Hyung! No, CEO!”",
+      "severity": "major",
+      "source": "“형님! 아니, 대표님!”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“What the fuck are you talking about? How could a Wyvern know that?”",
+      "defect": "“Know that” obscures the relevant mechanism: the Wyvern detected or saw through their concealment magic.",
+      "id": "F04",
+      "rationale": "Won is incredulous that an ordinary Wyvern could penetrate the scouts’ magical concealment, which directly motivates the Named Monster conclusion.",
+      "replacement": "“What kind of bullshit is that? How could a Wyvern see through concealment magic?”",
+      "severity": "major",
+      "source": "“그게 무슨 개소리야! 와이번이 그걸 어떻게 알아!”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Team Leader Choi clenched his lips and continued.",
+      "defect": "The draft replaces the explicit action of biting his lip with the unnatural and physically different “clenched his lips.”",
+      "id": "F05",
+      "rationale": "깨문 means that he bit his lip, while 질끈 supplies the forceful manner.",
+      "replacement": "Team Leader Choi bit down hard on his lip and continued.",
+      "severity": "minor",
+      "source": "입술을 질끈 깨문 최 팀장이 말을 이었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Team Leader Choi, who had been passionately praising the necklace like an announcer on North Korean television praising the Dear Leader, suddenly whipped his head toward me.",
+      "defect": "The draft removes the narrator’s comic self-correction from “the Supreme Leader” to “the necklace.”",
+      "id": "F06",
+      "rationale": "수령님, 아니 목걸이 is an intentional correction and the core of the joke.",
+      "replacement": "Like a North Korean TV announcer passionately praising the Supreme Leader—no, the necklace—Team Leader Choi suddenly whipped his head toward me.",
+      "severity": "minor",
+      "source": "북한 TV 아나운서처럼 열렬하게 수령님, 아니 목걸이를 찬양하던 최 팀장이 나를 향해 고개를 홱 돌렸다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Why are you looking at me like that?”",
+      "defect": "The draft adds a specific reference to Choi’s gaze that is absent from the dialogue.",
+      "id": "F07",
+      "rationale": "The Korean asks generally why Choi is reacting that way and does not explicitly mention looking or staring.",
+      "replacement": "“What’s wrong?”",
+      "severity": "minor",
+      "source": "“왜 그러세요?”"
+    },
+    {
+      "confidence": 0.95,
+      "current": "*It’s a hundred times better than smelling incense burning behind a folding screen.*",
+      "defect": "The literal rendering leaves the culturally specific death-and-funeral image opaque, weakening the dark joke.",
+      "id": "F08",
+      "rationale": "The image evokes a corpse laid behind a folding screen while funeral incense burns; Taekyung means that smelling the Troll is preferable to being dead.",
+      "replacement": "*It’s a hundred times better than being the one behind a folding screen, smelling funeral incense burn.*",
+      "severity": "minor",
+      "source": "‘병풍 뒤에서 향 타는 냄새 맡는 것보다는 백 배 나으니까.’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“It’s the difference between a performer and a conductor. You know what a maestro is, right?”",
+      "defect": "“Performer” is too broad and weakens the parallel between members of an orchestra and their conductor.",
+      "id": "F09",
+      "rationale": "연주자 here is a musician or instrumentalist contrasted directly with a conductor.",
+      "replacement": "“It’s the difference between a musician and a conductor. You know what a maestro is, right?”",
+      "severity": "minor",
+      "source": "“연주자와 지휘자의 차이라고 할까. 마에스트로 알지?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“A Named Monster.”",
+      "defect": "The scout’s fearful stammer is omitted.",
+      "id": "F10",
+      "rationale": "네, 네임드 repeats the opening syllable as his teeth chatter, preserving his panic immediately before the revelation.",
+      "replacement": "“A-A Named Monster.”",
+      "severity": "minor",
+      "source": "“네, 네임드 몬스터(Named Monster).”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“God fucking damn it…”",
+      "defect": "The draft expands and intensifies the terse Korean curse by adding both “God” and “damn.”",
+      "id": "F11",
+      "rationale": "이런 씨발 is a short, shocked expletive; the replacement preserves its strength without adding profanity absent from the source.",
+      "replacement": "“Fuck…”",
+      "severity": "minor",
+      "source": "“이런 씨발…….”"
+    }
+  ],
+  "summary": "Two critical fidelity errors alter the necklace’s history and the narrator’s subject; additional findings concern hierarchy, detection mechanics, physical action, humor, idiom, terminology, hesitation, and profanity.",
+  "version": 1
+}

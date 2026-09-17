@@ -619,3 +619,11 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 오크 워리어 | **Orc Warrior** | B-Rank Orc designation. |
 | 블라디미르 스탈린 | **Vladimir Stalin** | Russian jewelry maker named by Team Leader Choi. |
 | 프로즌 아이 | **Frozen Eye** | Necklace worn by Team Leader Choi. |
+| 설원의 바람 | **Wind of the Snowfield** | Effect activated by Yeti's Necklace. |
+| 트롤 | **Troll** | Monster species with extraordinary regenerative ability. |
+| 북한 | **North Korea** | Country referenced in Taekyung's comparison. |
+| 수령님 | **Supreme Leader** | Title used in Taekyung's North Korean TV comparison. |
+| 마에스트로 | **maestro** | Conductor title used in Won's Guild-management analogy. |
+| 디스패스 | **Dispass** | Celebrity-gossip site cited by Taekyung. |
+| 네임드 몬스터 | **Named Monster** | Classification given to the Wyvern that killed the scouts. |
+| 변이 게이트 | **Mutated Gate** | Gate classification identified at the raid site. |
