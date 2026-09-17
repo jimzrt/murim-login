@@ -1,0 +1,196 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“After that, we killed and captured them indiscriminately.”",
+      "defect": "The draft suggests indiscriminate targeting and uses “and” as though the same people were both killed and captured. The source says they killed or captured everyone they encountered.",
+      "id": "F01",
+      "rationale": "닥치는 대로 describes dealing with everyone encountered, while 죽이고 사로잡았습니다 presents killing and capture as alternative outcomes.",
+      "replacement": "“After that, we killed or captured every one we came across.”",
+      "severity": "major",
+      "source": "“그 후로는 닥치는 대로 죽이고 사로잡았습니다.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Great Hero Jeok killed two notorious mounted-bandit leaders of the plateau—Black Sand and the Human Butcher—with a single blow.",
+      "defect": "“A single blow” omits the specified mechanism: Jeok Cheongang killed them with one palm strike.",
+      "id": "F02",
+      "rationale": "일장 explicitly means one palm strike, and 고원 is the established location name Gaoyuan.",
+      "replacement": "Great Hero Jeok killed two notorious mounted-bandit leaders from Gaoyuan—Black Sand and the Human Butcher—with a single palm strike.",
+      "severity": "major",
+      "source": "흑사와 인도라고, 고원에서 악명 높은 마적단 두목 놈들을 적 대협께서 일장에 쳐 죽였답니다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Woo Hwangtae’s family, the owners of the Seongun Escort Bureau, had fled with only a paltry sum of money.",
+      "defect": "The appositive makes Woo Hwangtae’s entire family the bureau’s owners and omits his established hierarchical role as its chief.",
+      "id": "F03",
+      "rationale": "국주 identifies Woo Hwangtae specifically as the bureau chief; 일가 means that he fled together with his family.",
+      "replacement": "Woo Hwangtae, chief of the Seongun Escort Bureau, had fled with his family, taking only a paltry sum of money.",
+      "severity": "major",
+      "source": "성운표국의 국주인 우황태 일가는 푼돈만 챙긴 채 도망쳤다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Still, duty was duty, and personal feelings were personal feelings. Wipeng answered with a sigh.",
+      "defect": "The draft changes the public-versus-private distinction into duty versus feelings and turns an answer that sounded like a sigh into an actual sigh.",
+      "id": "F04",
+      "rationale": "공은 공이고 사는 사다 separates objective or public business from private feelings, while 한숨처럼 describes the quality of his answer rather than a separate physical sigh.",
+      "replacement": "Still, business was business, and personal feelings were personal. His answer came out like a sigh.",
+      "severity": "major",
+      "source": "그래도 공은 공이고 사는 사다. 그는 한숨처럼 대답했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "He had narrow, sharply slanted eyes and a well-worn sword hanging from his waist. The man stiffened his expression when he saw him.",
+      "defect": "The draft omits 짐짓, making the stern reaction genuine rather than deliberately affected.",
+      "id": "F05",
+      "rationale": "짐짓 marks the expression as feigned, an important cue that sets up the familiar banter and laughter.",
+      "replacement": "He had narrow, sharply slanted eyes and a well-worn sword hanging from his waist. The man made a show of hardening his expression when he saw him.",
+      "severity": "major",
+      "source": "쭉 찢어진 눈매, 허리춤에는 손때 묻은 검을 찬 그를 본 사내가 짐짓 얼굴을 굳혔다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“He’s cheerful enough to drive a man insane. That’s the problem.”",
+      "defect": "The draft sanitizes Wipeng’s coarse profanity and adds the different image of driving someone insane.",
+      "id": "F06",
+      "rationale": "지랄 맞을 정도로 is a strongly vulgar intensifier; preserving that register characterizes Wipeng’s exasperation.",
+      "replacement": "“He’s so goddamn cheerful it’s a problem.”",
+      "severity": "major",
+      "source": "“지랄 맞을 정도로 쾌활해서 문제지요.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "The brush was made from sable fur, the inkstone was bluish jade, and the ink and paper were tribute goods said to be used by the royal family of Haedong, ten thousand *li* away.",
+      "defect": "Haedong is romanized despite having no ledger entry or explanation for English readers.",
+      "id": "F07",
+      "rationale": "해동 is a culturally specific historical name whose significance is not conveyed by bare romanization.",
+      "replacement": "The brush was made from sable fur, the inkstone was bluish jade, and the ink and paper were tribute goods said to be used by the royal family of Haedong,[^2] ten thousand *li* away.\n\n[^2]: Haedong is a traditional name for Korea.",
+      "severity": "minor",
+      "source": "담비 털로 만든 붓, 벼루는 푸르스름한 옥이었고 먹과 종이는 만 리나 떨어진 해동의 왕실에서 쓰인다는 진상품이었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“In any case, you’ve worked hard. So, is everything in the northern plateau settled now?”",
+      "defect": "The established proper name Gaoyuan is replaced with the generic phrase “the northern plateau.”",
+      "id": "F08",
+      "rationale": "The binding terminology maps 고원 to Gaoyuan; 북부 고원 is therefore Northern Gaoyuan.",
+      "replacement": "“In any case, you’ve worked hard. So, is everything in Northern Gaoyuan settled now?”",
+      "severity": "minor",
+      "source": "“여하간 고생 많았네. 그래, 이제 북부 고원 쪽은 다 정리된 건가?”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Stabilizing the northern plateau.",
+      "defect": "The established proper name Gaoyuan is rendered generically.",
+      "id": "F09",
+      "rationale": "북부 고원 must follow the binding location name Gaoyuan.",
+      "replacement": "Stabilizing Northern Gaoyuan.",
+      "severity": "minor",
+      "source": "북부 고원의 안정화."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Jin Wikyung believed that he needed to subjugate the mounted bandits of the plateau to become the true hegemon of Shanxi Province. After months of secret, meticulous preparation, he had swung his sharpest weapon at them.",
+      "defect": "The established location Gaoyuan is replaced with the generic “the plateau.”",
+      "id": "F10",
+      "rationale": "고원 is a named region and must be rendered as Gaoyuan under the binding glossary.",
+      "replacement": "Jin Wikyung believed that he needed to subjugate the mounted bandits of Gaoyuan to become the true hegemon of Shanxi Province. After months of secret, meticulous preparation, he had swung his sharpest weapon at them.",
+      "severity": "minor",
+      "source": "진위경은 진정한 산서성의 패자가 되기 위해서는 고원의 마적들을 토벌해야 한다고 생각했고, 수개월의 은밀하고도 치밀한 준비 끝에 자신이 가진 가장 날카로운 병기를 놈들에게 휘둘렀다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "That was the number of mounted bandits who had been killed or captured in the northern plateau that day.",
+      "defect": "The established proper name Gaoyuan is rendered generically.",
+      "id": "F11",
+      "rationale": "북부 고원 must be rendered as Northern Gaoyuan.",
+      "replacement": "That was the number of mounted bandits who had been killed or captured in Northern Gaoyuan that day.",
+      "severity": "minor",
+      "source": "그날 하루 북부 고원에서 죽거나 사로잡힌 마적의 숫자였다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“The rumor had already reached the plateau. They knew about the relationship between Great Hero Jeok and the Third Young Master, and they said they didn’t want to become enemies with us.”",
+      "defect": "The established location Gaoyuan is replaced with the generic “the plateau.”",
+      "id": "F12",
+      "rationale": "고원 is the proper location name Gaoyuan in the binding terminology.",
+      "replacement": "“The rumor had already reached Gaoyuan. They knew about the relationship between Great Hero Jeok and the Third Young Master, and they said they didn’t want to become enemies with us.”",
+      "severity": "minor",
+      "source": "“이미 고원에까지 소문이 퍼졌더군요. 그들은 이미 적 대협과 삼공자의 관계를 알고 있었고, 우리와 적대하고 싶지 않다고 했습니다.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "After swallowing up the mounted-bandit remnants and gathering the scattered nomads, the two men had risen to prominence on the plateau in the span of only a year.",
+      "defect": "The draft replaces Gaoyuan with a generic location and weakens 강자 from becoming dominant powers to merely rising to prominence.",
+      "id": "F13",
+      "rationale": "고원의 강자 identifies them as newly ascendant powers in the named region of Gaoyuan.",
+      "replacement": "After swallowing up the mounted-bandit remnants and gathering the scattered nomads, the two men had rapidly emerged as powers in Gaoyuan in the span of only a year.",
+      "severity": "minor",
+      "source": "마적 잔당을 병탄하고 뿔뿔이 흩어진 유목민들을 끌어모은 그들은 불과 일 년 사이에 고원의 강자로 급부상했다."
+    },
+    {
+      "confidence": 0.93,
+      "current": "“Things are going smoothly with our exchanges with the other sects as well.",
+      "defect": "“Exchanges” is too vague and misrenders 연수 here, which means joining forces or cooperating with the other sects.",
+      "id": "F14",
+      "rationale": "The following escort arrangement with Shaolin and Namgung describes active institutional cooperation, not a generic exchange.",
+      "replacement": "“Our cooperation with the other sects is progressing smoothly as well.",
+      "severity": "minor",
+      "source": "“타 문파와의 연수도 순조롭네."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“……If you teach him things one by one, he does learn quickly.”",
+      "defect": "The draft retains a six-dot Korean ellipsis instead of the required English ellipsis character.",
+      "id": "F15",
+      "rationale": "The binding Markdown rules require the single ellipsis character.",
+      "replacement": "“…If you teach him things one by one, he does learn quickly.”",
+      "severity": "minor",
+      "source": "“……옆에서 하나씩 알려 주면 금방 배우긴 합니다.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“There were two of them. They came forward first and introduced themselves…….”",
+      "defect": "The draft retains a Korean-style run of dots and adds a redundant period before the closing quotation mark.",
+      "id": "F16",
+      "rationale": "The binding punctuation rule requires the single ellipsis character.",
+      "replacement": "“There were two of them. They came forward first and introduced themselves…”",
+      "severity": "minor",
+      "source": "“두 사람이었습니다. 그들이 먼저 나서 자신들을 소개하기를…….”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Mount Song and Hefei……?”",
+      "defect": "The draft retains a six-dot Korean ellipsis instead of the required English ellipsis character.",
+      "id": "F17",
+      "rationale": "The binding punctuation rule requires the single ellipsis character.",
+      "replacement": "“Mount Song and Hefei…?”",
+      "severity": "minor",
+      "source": "“숭산과 합비라면……?”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Have you ever seen such an insolent brat? How dare you think of grilling meat over our sect’s sacred flame!”",
+      "defect": "The opening rhetorical exclamation is recast as a literal question directed at the young man.",
+      "id": "F18",
+      "rationale": "이런 … 놈을 보았나 is an exclamation of outrage from the speaker, not a request for the addressee’s experience.",
+      "replacement": "“What an insolent brat! How dare you think of grilling meat over our sect’s sacred flame!”",
+      "severity": "minor",
+      "source": "“이런 버르장머리 없는 놈을 보았나! 감히 본문의 성화(聖火)로 고기 구울 생각을 해!”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“You don’t know fire-kiln pork belly? It’s insanely good.”",
+      "defect": "“Fire-kiln pork belly” is an unnatural literal compound in English.",
+      "id": "F19",
+      "rationale": "Kiln-roasted pork belly naturally conveys 불가마 삼겹살 while preserving the food joke and the casual register.",
+      "replacement": "“You’ve never heard of kiln-roasted pork belly? It’s insanely good.”",
+      "severity": "minor",
+      "source": "“불가마 삼겹살 모르세요? 개꿀맛인데.”"
+    }
+  ],
+  "summary": "The draft contains two altered actions, several lost characterization and register cues, an incorrect role attribution, repeated noncompliance with the established Gaoyuan terminology, and localized punctuation and phrasing issues.",
+  "version": 1
+}

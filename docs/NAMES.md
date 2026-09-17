@@ -717,3 +717,12 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 권각술 | **fist-and-foot martial arts** | Unlearned martial-arts category referenced by the System. |
 | 열화동 | **Fire Gate Cavern** | Ancestral cavern where the Fire Gate Clan began and its legacy continues. |
 | 열화의 계승자 | **Heir of the Fire Gate** | Quest generated when Jeok begins passing on the Fire Gate Clan's inheritance. |
+| 문방사우 | **Four Treasures of the Study** | The brush, inkstone, ink, and paper used for calligraphy and painting. |
+| 한림학사 | **Hanlin Academician** | Scholarly office used in Wipeng's teasing comparison. |
+| 대화백 | **master painter** | Title used jokingly for an accomplished painter. |
+| 해동 | **Haedong** | Traditional name for Korea. |
+| 칠로군 | **Seven-Route Army** | Seven-pronged force led by Wipeng and the Jin Dragon Squad. |
+| 황금 씨족 | **Golden Clan** | Traditional name for the ruling lineage descended from the khans. |
+| 합비 | **Hefei** | City on the Jin Family's new escort-trade route. |
+| 진가표국 | **Jin Family Escort Bureau** | New name for the former Seongun Escort Bureau under the Jin Family. |
+| 잠룡출사 | **The Sleeping Dragon Enters Service** | Title of Jin Wikyung's planned painting. |

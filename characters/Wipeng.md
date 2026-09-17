@@ -1,8 +1,8 @@
 # Wipeng (위팽)
 
-- **Safe through:** Chapter 229
+- **Safe through:** Chapter 236
 - **Aliases:** Ghost Sword; God of Drinking
-- **Role:** Jin Wikyung’s personal guard and commander of the thirty-elite pursuit team sent south under an assassin-hunt pretext; was unable to overcome the powerful restrictions on Dark Heaven's prisoners and now keeps three survivors alive under Wikyung's order
+- **Role:** Jin Wikyung’s personal guard and current Commander of the Jin Dragon Squad; after four months away, he returned from leading the Seven-Route Army’s campaign that stabilized Northern Gaoyuan
 - **Personality:** Loyal, observant, teasing, and resigned to his master’s impulsive departures
 - **Voice:** Weary and knowing; jokes with Jin Wikyung and uses Sound Transmission
 - **Relationships:** Trusted guard and retainer of Jin Wikyung; the Human Butcher has claimed him as his personal target in the planned attack
