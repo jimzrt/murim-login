@@ -630,3 +630,10 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 레어 몬스터 | **Rare Monster** | Anomalously powerful monster designation introduced for monsters exceeding their expected Grade. |
 | 피어 | **Fear** | Monster effect that overwhelms a target’s mental fortitude. |
 | 힘껏 찌르기 | **Stab with All My Strength** | Taekyung’s descriptive alternate name for the spear strike he used against the Black Wyvern. |
+| 김현수 | **Kim Hyunsu** | Four-month Hunter and first victim of the incident three years earlier; Taekyung’s deceased comrade. |
+| 이혜림 | **Lee Hyerim** | Deceased comrade of Taekyung from the incident three years earlier. |
+| 송동혁 | **Song Donghyeok** | Deceased comrade of Taekyung from the incident three years earlier. |
+| 박상호 | **Park Sangho** | Deceased comrade of Taekyung from the incident three years earlier. |
+| 김한웅 | **Kim Haneung** | Deceased comrade of Taekyung from the incident three years earlier. |
+| 박광현 | **Park Gwanghyeon** | Deceased comrade of Taekyung from the incident three years earlier. |
+| 홍천수 | **Hong Cheonsu** | Ten-year veteran Hunter and deceased comrade who saved Taekyung from goblins. |
