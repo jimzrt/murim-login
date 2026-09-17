@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "My eyes bulged.",
+      "defect": "The Korean idiom means that Taekyung flew into a rage or saw red, not that his eyes physically bulged.",
+      "id": "F01",
+      "rationale": "눈이 뒤집히다 describes losing one's temper here, as confirmed by the furious pursuit and shouted profanity that immediately follow.",
+      "replacement": "I saw red.",
+      "severity": "major",
+      "source": "나는 눈이 뒤집혔다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Even with my seventh-grade school record, I knew the law of universal gravitation.",
+      "defect": "“Seventh-grade” implies a school year in English, whereas 7등급 is the seventh tier of Korea's academic ranking system.",
+      "id": "F02",
+      "rationale": "The joke is that Taekyung performed poorly in school but still understands basic gravity; the replacement preserves the numbered tier without turning it into a grade level.",
+      "replacement": "Even with my seventh-tier grades, I knew the law of universal gravitation.",
+      "severity": "minor",
+      "source": "내신 7등급이어도 만유인력의 법칙은 알고 있다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Just as Myriad-Mile Pursuit had said, Jongni Chu was absurdly fast. He was both the Beggars’ Sect Leader and a master of movement techniques.",
+      "defect": "The second sentence grammatically identifies Jongni Chu as the Beggars’ Sect Leader and movement-technique master. Those descriptions belong to Myriad-Mile Pursuit.",
+      "id": "F03",
+      "rationale": "개방 방주이자 경공술의 대가인 modifies 만리추행, while 종리추 is the subject described as extraordinarily fast.",
+      "replacement": "As Myriad-Mile Pursuit, the Beggars’ Sect Leader and a master of movement techniques, had said, Jongni Chu was absurdly fast.",
+      "severity": "critical",
+      "source": "개방 방주이자 경공술의 대가인 만리추행(萬里追行)의 말처럼 종리추는 상상을 초월할 정도로 빨랐다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“…Monk?”",
+      "defect": "The neutral “Monk” drops the familiar, disparaging nickname that Jeok Cheongang consistently uses for his old friend, weakening the recognition beat and their established intimacy.",
+      "id": "F04",
+      "rationale": "땡중 is a derisive term rather than the neutral word for a monk; in this relationship it carries Jeok Cheongang's habitual rough affection even at the moment of shock.",
+      "replacement": "“…Damn monk?”",
+      "severity": "major",
+      "source": "“……땡중?”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "The conversation they had shared only moments before echoed endlessly in his ears.",
+      "defect": "The draft changes “their last conversation” into one held “only moments before,” contradicting the subsequent statement that Hong Dao left half a shichen earlier.",
+      "id": "F05",
+      "rationale": "마지막으로 나눴던 identifies the last conversation they shared; it does not say that the exchange occurred mere moments ago.",
+      "replacement": "Their last conversation echoed endlessly in his ears.",
+      "severity": "major",
+      "source": "귓가에 마지막으로 나눴던 대화가 끊임없이 맴돌았다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Hong Dao’s chest heaved as black blood welled from the corner of his mouth.",
+      "defect": "The draft omits Hong Dao's established title, Dharma King, from the source's formal identification at this pivotal moment.",
+      "id": "F06",
+      "rationale": "법왕 is an explicit title and meaningful marker of Hong Dao's status; the binding glossary establishes it as “Dharma King.”",
+      "replacement": "The Dharma King Hong Dao’s chest heaved as black blood welled from the corner of his mouth.",
+      "severity": "major",
+      "source": "쿨럭. 가슴이 들썩이며 법왕 굉도의 입가에서 검은 핏물이 솟구쳤다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "*Beyond saving.*\n\nThose four grim, heavy words filled Jeok Cheongang’s mind.",
+      "defect": "The prose calls the two-word English phrase “four words,” mechanically carrying over the source's count of four Korean characters.",
+      "id": "F07",
+      "rationale": "네 글자 refers to the four written characters in 회생불가, not four lexical words; “verdict” preserves the weight without introducing a false English count.",
+      "replacement": "*Beyond saving.*\n\nThat grim, heavy verdict filled Jeok Cheongang’s mind.",
+      "severity": "minor",
+      "source": "회생불가. 아프고 무거운 네 글자가 적천강의 머릿속을 가득 채웠다."
+    }
+  ],
+  "summary": "One critical subject error misidentifies Jongni Chu as the Beggars’ Sect Leader; several additional passages alter an idiom, academic ranking, timing, hierarchy, or register.",
+  "version": 1
+}
