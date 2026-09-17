@@ -130,11 +130,13 @@ class OmpJsonTest(unittest.TestCase):
         self.assertIn("fallbackRevertPolicy: cooldown-expiry", text)
         self.assertIn("openai-codex/gpt-5.6-sol:", text)
         self.assertIn("openai-codex/gpt-5.6-luna:", text)
-        self.assertIn("cursor/gpt-5.6-luna:", text)
         self.assertIn("cursor/cursor-grok-4.6:", text)
         self.assertNotIn("deepseek-v4.1-flash", text)
         overlay = (root / ".omp" / "adjudicator-overlay.yml").read_text(encoding="utf-8")
-        self.assertIn("openrouter/deepseek/deepseek-v4.1-flash:low", overlay)
+        self.assertIn("advisor:", overlay)
+        self.assertNotIn("cursor/cursor-grok-4.6:", overlay)
+        self.assertNotIn("deepseek-v4.1-flash", overlay)
+        self.assertIn("openrouter/openai/gpt-4.1-mini:", text)
 
 
     def test_run_json_command_streams_without_dumping_events(self):

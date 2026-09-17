@@ -75,7 +75,9 @@ not exist until `accept`.
   validated structured findings with exact finished replacements. Revision
   applies those replacements atomically, blocks on missing, repeated, or
   overlapping spans, and runs final QA. The mastering editor is the only
-  later full-copy edit and applies `POLISH.md`.
+  later full-copy fluency edit and applies `POLISH.md`. Adjudication is Luna
+  `:high` with a SOL-default meaning veto (`MASTERING_ADJUDICATOR.md`). The
+  fidelity gate is a different model (`MASTERING_FIDELITY.md`).
 - Reviews are durable JSON with generated Markdown reading reports. Checkpoint
   dispositions remain structured and unresolved critical or major checkpoint
   findings block acceptance.

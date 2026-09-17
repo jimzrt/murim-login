@@ -1,8 +1,9 @@
 # Project OMP settings. Subscriptions are prepaid capacity; OpenRouter is overflow.
 # Model-keyed chains apply whenever that selector is active, regardless of workflow role.
 # OpenAI models always prefer Codex subscription, then Cursor, then OpenRouter.
-# Adjudicator DeepSeek overflow is isolated in `.omp/adjudicator-overlay.yml`;
-# review Grok does not fall through to a different model.
+# Mastering adjudicator is Luna :high with a SOL-default veto
+# (see docs/mastering.json). Review Grok, when used, does not fall through
+# to a different model.
 
 retry:
   enabled: true
@@ -16,9 +17,11 @@ retry:
     openai-codex/gpt-5.6-sol:
       - openrouter/openai/gpt-5.6-sol
 
-    # Luna (draft / summary / durable update): Codex → Cursor → cheap OpenRouter.
+    # Luna (draft / summary / durable update / mastering adjudicator):
+    # Codex → Cursor → cheap OpenRouter.
     openai-codex/gpt-5.6-luna:
       - openrouter/openai/gpt-5.6-luna
+
 
     # Review / adjudication Grok: Cursor → paid OpenRouter Grok.
     cursor/cursor-grok-4.6:

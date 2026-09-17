@@ -74,14 +74,16 @@ python tools/mastering.py doctor
 
 Primary mastering selectors live in `docs/mastering.json`. Sol is requested on
 the OpenAI Codex subscription first; OMP falls back through Cursor Sol to paid
-OpenRouter Sol using the chains in `.omp/config.yml`. The adjudicator requests
-Cursor Grok first and falls through to DeepSeek via `.omp/adjudicator-overlay.yml`.
+OpenRouter Sol using the chains in `.omp/config.yml`. The adjudicator is Luna
+`:high` (Codex first) with a SOL-default meaning veto; the fidelity gate is
+GPT-4.1 Mini.
 
 ```json
 {
   "models": {
-    "master": "openai-codex/gpt-5.6-sol:low",
-    "adjudicator": "cursor/cursor-grok-4.6:low"
+    "master": "openai-codex/gpt-5.6-sol:medium",
+    "adjudicator": "openai-codex/gpt-5.6-luna:high",
+    "quality_gate": "openrouter/openai/gpt-4.1-mini"
   }
 }
 ```

@@ -2,8 +2,8 @@
   "version": 1,
   "models": {
     "master": "openai-codex/gpt-5.6-sol:medium",
-    "adjudicator": "cursor/cursor-grok-4.6:high",
-    "quality_gate": "openai-codex/gpt-5.6-sol:high"
+    "adjudicator": "openai-codex/gpt-5.6-luna:high",
+    "quality_gate": "openrouter/openai/gpt-4.1-mini"
   },
   "omp_config": ".omp/review-overlay.yml",
   "adjudicator_omp_config": ".omp/adjudicator-overlay.yml",

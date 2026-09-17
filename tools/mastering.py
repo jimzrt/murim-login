@@ -1,13 +1,15 @@
 #!/usr/bin/env python3
-"""Two-model retrospective mastering overlay for accepted translations.
+"""Retrospective mastering overlay for accepted translations.
 
 Pipeline per chapter:
-  accepted baseline -> GPT-5.6 Sol full master edit -> paragraph diff
-  -> DeepSeek adjudication -> assembled final -> deterministic QA
-  -> promote verified final into translations/
+  accepted baseline -> Sol full-copy fluency edit -> paragraph diff
+  -> independent accuracy adjudication (SOL/BASE/REPAIR) -> assembled final
+  -> deterministic QA -> independent fidelity gate -> promote.
 
 `run` always promotes after a successful verify. The standalone `promote`
 command remains for already-verified chapters that were not promoted yet.
+Compare adjudicator briefs against a frozen chapter with
+`python tools/mastering_ab.py CHAPTER` without promoting.
 """
 from __future__ import annotations
 
@@ -744,8 +746,16 @@ def format_hunk_for_packet(h: dict) -> str:
     return "\n".join(parts) + "\n"
 
 
-def adjudicator_packet(number: int, source: str, baseline: str, sol: str, glossary: list[dict], diff: dict) -> str:
-    brief = read_text(ROOT / "MASTERING_ADJUDICATOR.md").strip()
+def adjudicator_packet(
+    number: int,
+    source: str,
+    baseline: str,
+    sol: str,
+    glossary: list[dict],
+    diff: dict,
+    brief_path: Path | None = None,
+) -> str:
+    brief = read_text(brief_path or (ROOT / "MASTERING_ADJUDICATOR.md")).strip()
     rules = read_text(ROOT / "RULES.md").strip()
     hunk_parts = [format_hunk_for_packet(h) for h in diff["hunks"]]
     global_alerts = diff.get("global_terminology_alerts", [])
@@ -771,6 +781,10 @@ def adjudicator_packet(number: int, source: str, baseline: str, sol: str, glossa
 ```
 
 ## Exact glossary matches for this Korean chapter
+
+Korean keys are binding. The English column is the project's usual rendering,
+not permission to keep a calque or to reject a natural recast of the same sense.
+If SOL drops the Korean sense, choose BASE or REPAIR.
 
 {glossary_text(glossary)}
 
@@ -1112,25 +1126,22 @@ def run_fidelity_gate(
 This is the accepted English copy before mastering. Use it as a regression
 anchor: report a finding when the assembled copy loses an established term,
 source-specific image, formatting convention, continuity fact, or other detail
-that the baseline preserved, unless the Korean source, RULES.md, or the exact
-glossary requires the change. Exact glossary English wins over an older baseline
-synonym for the same Korean key.
+that the baseline preserved, unless the Korean source, RULES.md, or the glossary
+sense requires the change. A natural recast of glossary English is not a defect
+when the Korean sense is unchanged; a glossary calque can still be a defect.
 
 ```markdown
 {format_numbered_baseline(baseline)}
 ```
 """
+    fidelity_brief = read_text(ROOT / "MASTERING_FIDELITY.md").strip()
     packet = f"""# Fidelity Gate — Chapter {number}
 
-Audit the complete assembled English chapter against the Korean source.
-Report only genuine source-fidelity defects: wrong action, subject, object,
-causality, quantity, mechanism, terminology, ambiguity, joke logic, register,
-or physical detail. Check repeated UI labels and counters against how they
-behave across the whole scene. Interpret idioms by their function, not by
-translating their component words. Do not report optional stylistic rewrites.
-Do not invent `current` spans that are absent from the assembled English.
-Do not report a glossary-correct rendering as a defect merely because the
-baseline used an older synonym.
+{fidelity_brief}
+
+Check repeated UI labels and counters against how they behave across the whole
+scene. Interpret idioms by their function, not by translating their component
+words. Do not invent `current` spans that are absent from the assembled English.
 
 Return exactly one JSON object and no Markdown fence:
 
@@ -1168,7 +1179,8 @@ finding blocks promotion; minor findings are recorded for human inspection.
 
 ## Exact glossary matches
 
-These English spellings are binding for the matched Korean keys.
+Korean keys are binding. Glossary English is the usual rendering, not proof that
+a calque is correct, and not a reason to reject a natural recast of the same sense.
 
 {glossary_text(glossary)}
 
@@ -1178,11 +1190,9 @@ These English spellings are binding for the matched Korean keys.
 {json.dumps(deterministic_qa, ensure_ascii=False, indent=2)}
 ```
 
-## Binding editorial rules
+## Binding translation rules
 
 {read_text(ROOT / "RULES.md").strip()}
-
-{read_text(ROOT / "MASTERING_EDITORIAL.md").strip()}
 """
     enforce_budget(packet, "fidelity gate")
     atomic_text(paths["fidelity_packet"], packet)
@@ -1680,6 +1690,7 @@ def command_promote(number: int, confirm: str) -> None:
 def command_doctor() -> None:
     required = [
         CONFIG_PATH, ROOT / "MASTERING_EDITORIAL.md", ROOT / "MASTERING_ADJUDICATOR.md",
+        ROOT / "MASTERING_FIDELITY.md",
         ROOT / "RULES.md", ROOT / "POLISH.md", ROOT / "compendium.md",
         ROOT / "tools" / "omp_json.py", ROOT / "tools" / "qa.py", ROOT / "tools" / "context.py",
     ]

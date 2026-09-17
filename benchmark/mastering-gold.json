@@ -1,0 +1,51 @@
+{
+  "161": {
+    "hunks": {
+      "H003": {"best": "BASE", "accept": ["BASE", "REPAIR"], "why": "이렇게 is not now"},
+      "H004": {"best": "BASE", "accept": ["BASE", "REPAIR"], "why": "위해 is purpose, not to the gathering"},
+      "H005": {"best": "SOL", "accept": ["SOL", "REPAIR"], "why": "honor tighten is faithful"},
+      "H006": {"best": "BASE", "accept": ["BASE", "REPAIR"], "why": "반백 is hair, not a half-gray compound"},
+      "H008": {"best": "REPAIR", "accept": ["BASE", "REPAIR"], "why": "gives someone away is the wrong idiom for 까발리다"},
+      "H022": {"best": "REPAIR", "accept": ["BASE", "REPAIR"], "why": "banter is the wrong register for 넉살"},
+      "H053": {"best": "REPAIR", "accept": ["BASE", "REPAIR"], "why": "nearly + men vs 사백에 달했 subordinates"},
+      "H062": {"best": "SOL", "accept": ["SOL", "REPAIR"], "why": "Oh honestly is faithful spoken English"},
+      "H078": {"best": "SOL", "accept": ["SOL", "REPAIR"], "why": "bloody battle keeps 피 터지게"},
+      "H104": {"best": "REPAIR", "accept": ["BASE", "REPAIR"], "why": "presiding chair is a glossary calque"}
+    },
+    "forbid": [
+      "gives someone away",
+      "bit of banter",
+      "presiding chair"
+    ],
+    "prefer": [
+      "His honor as a chieftain clashed with his last shred of reason"
+    ]
+  },
+  "160": {
+    "hunks": {
+      "H001": {"best": "SOL", "accept": ["SOL"], "why": "기만질 is slangy con me, not fool me"},
+      "H006": {"best": "BASE", "accept": ["BASE", "REPAIR"], "why": "헤매다 is been lost here"},
+      "H008": {"best": "BASE", "accept": ["BASE", "REPAIR"], "why": "한 게 없긴요 is not Barely?"},
+      "H015": {"best": "SOL", "accept": ["SOL", "BASE"], "why": "aggressive internal banter for 쥐새끼"},
+      "H019": {"best": "SOL", "accept": ["SOL"], "why": "keep the Ilsan snore joke machine"},
+      "H046": {"best": "SOL", "accept": ["SOL", "REPAIR"], "why": "시원하다 as That's the stuff"},
+      "H054": {"best": "REPAIR", "accept": ["REPAIR"], "why": "겹경사 is stacked luck, not separate or a windfall"},
+      "H059": {"best": "SOL", "accept": ["SOL"], "why": "톡톡히 is full Peak Master treatment"},
+      "H060": {"best": "BASE", "accept": ["BASE"], "why": "득실거리다 is crawling with"},
+      "H069": {"best": "SOL", "accept": ["SOL", "REPAIR"], "why": "한 몸 as are one, not one body"},
+      "H093": {"best": "SOL", "accept": ["SOL"], "why": "인간 백정 as butcher of men"}
+    },
+    "forbid": [
+      "entirely separate stroke of luck",
+      "butcher of people",
+      "treating me like a Peak Master indeed"
+    ],
+    "prefer": [
+      "con me",
+      "double blessing",
+      "crawling with",
+      "butcher of men",
+      "full Peak Master treatment"
+    ]
+  }
+}
