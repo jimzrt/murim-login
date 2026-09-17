@@ -811,3 +811,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 유운신룡 | **Willow-Cloud Divine Dragon** | Wudang direct disciple and Cheongpung’s quarterfinal opponent. |
 | 마도 | **Demonic Path** | Term raised for martial power that appears to defy common principles. |
 | 승패병가지상사 | **Victory and defeat are simply part of war** | Common saying Jeok Cheongang uses while taunting the Thunderbolt Saber King. |
+| 송문고검 | **Pine-Pattern Ancient Sword** | Willow-Cloud Divine Dragon’s sword. |
+| 태청검법 | **Great Clarity Sword Technique** | Wudang sword technique used by the Willow-Cloud Divine Dragon. |
+| 태극혜검 | **Taiji Wisdom Sword** | Wudang’s supreme sword technique. |
+| 매화삼십육검 | **Thirty-Six Plum Blossom Swords** | Huashan sword technique used by Cheongpung. |
+| 타구봉법 | **Dog-Beating Staff Technique** | Beggars’ Sect staff technique. |
