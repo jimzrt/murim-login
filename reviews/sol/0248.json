@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Ahem. Of course I had to be proud of him to that extent. What’s so special about the Star-Array Grand Banquet’s preliminaries?”",
+      "defect": "The draft changes the subject and meaning: Jeok is not admitting that he ought to be proud, but dismissively saying Taekyung should naturally be capable of at least that much.",
+      "id": "F01",
+      "rationale": "그 정도는 당연히 해 줘야지 refers to the expected level of Taekyung’s performance, continuing Jeok’s attempt to downplay his pride.",
+      "replacement": "“Ahem. Of course he should be able to manage at least that much. What’s so special about the Star-Array Grand Banquet’s preliminaries?”",
+      "severity": "critical",
+      "source": "크흠. 그 정도는 당연히 해 줘야지. 성라대연 예선이 뭐 별거라고."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Still, this is something out of a ghost story.",
+      "defect": "The generic ghost-story rendering removes the literal setup for Jeok’s immediate joke asking why a ghost would wail.",
+      "id": "F02",
+      "rationale": "귀신이 곡할 노릇 directly invokes a ghost wailing, which Jeok deliberately interprets literally in the next line.",
+      "replacement": "“Still, this is enough to make a ghost wail.",
+      "severity": "major",
+      "source": "그나저나 귀신이 곡할 노릇이로군."
+    },
+    {
+      "confidence": 0.92,
+      "current": "I watched him over the past year, and it was exactly as they said. Your star was brighter than ever.",
+      "defect": "The source leaves the object of Hong Dao’s observation unstated, whereas the draft specifically says he watched Jin Taekyung. That added object narrows an intentionally broader observation whose conclusion concerns Jeok’s star.",
+      "id": "F03",
+      "rationale": "지켜보니 has no explicit object here; retaining that omission avoids asserting that Hong observed only Jin Taekyung.",
+      "replacement": "I’ve watched for the past year, and sure enough, it proved true. Your star was brighter than ever.",
+      "severity": "major",
+      "source": "지난 일 년간 지켜보니 과연 그러했네. 자네의 별은 그 어느 때보다 밝았어."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“If this old man had possessed even half the Muscles and Bones you have, there would have been two Gods in the martial world by now instead of one.”",
+      "defect": "Lowercasing and generalizing “one” loses the explicit wordplay on the established title One God and Jeok’s coined counterpart, Two Gods.",
+      "id": "F04",
+      "rationale": "일신 and 이신 are deliberately contrasted as “One God” and “Two Gods,” with 一 and 二 supplied in the source to foreground the joke.",
+      "replacement": "“If this old man had possessed even half the Muscles and Bones you have, there would have been Two Gods in the martial world by now instead of One God.”",
+      "severity": "minor",
+      "source": "노부가 네 녀석이 가진 근골의 절반만 갖고 있었어도 지금쯤 강호에는 일신(一神)이 아니라 이신(二神)이 있었을 텐데."
+    },
+    {
+      "confidence": 0.97,
+      "current": "You still need to show that you’re in good health.",
+      "defect": "“In good health” reduces 건재함 to medical wellness rather than continued vigor and standing as a formidable martial master.",
+      "id": "F05",
+      "rationale": "건재하다 means remaining vigorous, active, and undiminished in stature, not merely being physically healthy.",
+      "replacement": "You still need to show that you’re going strong.",
+      "severity": "minor",
+      "source": "아직 건재함을 보여 줘야지."
+    },
+    {
+      "confidence": 0.99,
+      "current": "I’ve already decided who will take over as Abbot by then.",
+      "defect": "The draft turns an interim appointment lasting until Unnamed emerges from Arhat Cave into the selection of a permanent successor who will take over at that future time.",
+      "id": "F06",
+      "rationale": "그때까지 means “until then,” so the chosen person will hold the office during the intervening period.",
+      "replacement": "I’ve already chosen someone to serve as Abbot until then.",
+      "severity": "critical",
+      "source": "그때까지 방장 직을 맡을 이도 정해 두었어."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“You need to rest. Please leave for today.”",
+      "defect": "The draft reverses the implied subject: Hong Dao says that he needs to rest and therefore asks Jeok to leave.",
+      "id": "F07",
+      "rationale": "The request that Jeok leave establishes Hong Dao as the omitted subject of 쉬어야겠네.",
+      "replacement": "“I need to rest. Please leave me for now.”",
+      "severity": "critical",
+      "source": "쉬어야겠네. 오늘은 이만 나가 주시게."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“You bastard who deserves to be rolled in filth and left there for three months and ten days. Even beating you with a dog cudgel for forty-five days wouldn’t satisfy me.”",
+      "defect": "The draft replaces the source’s single dog-shit-and-rice insult with two invented punishments, one of which duplicates imagery from Gung Gibang’s later line.",
+      "id": "F08",
+      "rationale": "개똥에 밥 비벼 먹을 놈 literally insults him as someone who would mix rice into dog shit and eat it; there is no rolling, confinement, or beating in this line.",
+      "replacement": "“You bastard who’d mix rice with dog shit and eat it.”",
+      "severity": "major",
+      "source": "개똥에 밥 비벼 먹을 놈."
+    }
+  ],
+  "summary": "Several subject, timing, and characterization errors alter meaning, including Jeok Cheongang’s response to Taekyung’s achievement, Hong Dao’s need to rest, the temporary Abbot appointment, and an invented extended insult.",
+  "version": 1
+}

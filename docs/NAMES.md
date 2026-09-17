@@ -787,3 +787,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 신기묘룡 | **Divine Marvel Dragon** | Epithet of the Zhuge Clan's Lesser Family Head. |
 | 금면공자 | **Gold-Faced Young Master** | Title of the unnamed gambler who bet on Taekyung. |
 | 기관진식 | **mechanisms and formations** | Fifth preliminary assessment category. |
+| 궁기방 | **Gung Gibang** | Beggars' Sect Successor Beggar and finalist. |
+| 낭왕 | **Wave King** | One of the Ten Kings; already deceased. |
+| 나한동 | **Arhat Cave** | Shaolin cave where Unnamed is preparing. |
