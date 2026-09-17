@@ -687,3 +687,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 지객당 | **Guest Reception Hall** | Shaolin area where visitors without a specific purpose must remain. |
 | 관세음보살 | **Avalokiteshvara** | Buddhist invocation shouted by Unnamed during his attack. |
 | 신성 | **Morning Star** | Term in the summons referring to the Master of Morning Star. |
+| 계율원 | **Discipline Hall** | Shaolin disciplinary office that urges Hong Dao to return to a formal residence. |
+| 녹옥불장 | **Green Jade Buddha Staff** | Ancient Shaolin sacred treasure carried by Hong Dao. |
+| 천기 | **heavenly patterns** | Celestial patterns Hong Dao studies to perceive major changes and omens. |
+| 태양권 | **Solar Fist** | Martial art mentioned in Taekyung's joke about Unnamed's forehead strike. |
+| 천년독각사 | **Thousand-Year Poison Horned Snake** | Extremely venomous horned snake used to make Hong Dao's thirty-year-old liquor. |

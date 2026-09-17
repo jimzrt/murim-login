@@ -1,6 +1,6 @@
 # Unnamed (무명)
 
-- **Safe through:** Chapter 231
+- **Safe through:** Chapter 232
 - **Aliases:** None
 - **Role:** Young Shaolin monk and practical Disciple of Hong Dao; a Peak master who uses oversized Ten-Thousand-Year Cold Iron prayer beads and Arhat Fist, though he has not been formally accepted as a Disciple.
 - **Personality:** Naturally timid and introverted, but unable to control himself once angered.
