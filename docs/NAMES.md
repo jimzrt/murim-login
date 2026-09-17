@@ -958,3 +958,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 스켈레톤 나이트 | **Skeleton Knight** | A-rank undead monster that commands lower-level skeletons. |
 | 골검 | **Bone Sword** | Sword wielded by the Skeleton Knights. |
 | 스켈레톤 워로드 | **Skeleton Warlord** | Level 105 undead monster created when the leading Skeleton Knight transforms. |
+| 정몽주 | **Jeong Mong-ju** | Historical Korean scholar-official referenced through the Warlord’s quotation. |
+| 단심가 | **Song of My Single Heart** | Poem associated with Jeong Mong-ju and unwavering loyalty. |
+| 통합 언어 팩 | **Unified Language Pack** | System function that lets Taekyung understand demon-world speech. |
