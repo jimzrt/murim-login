@@ -1,0 +1,71 @@
+{
+  "chapter": 281,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.266,
+    "source_characters": 6316,
+    "source_paragraphs": 206,
+    "translation_characters": 14311,
+    "translation_paragraphs": 212
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "상태",
+        "preferred": "Status"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "갑자",
+        "preferred": "jiazi"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "중독",
+        "preferred": "Poisoned"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "아귀",
+        "preferred": "A-Gwi"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "꼬리",
+        "preferred": "the “tail”"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "명동",
+        "romanization": "myeongdong"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
