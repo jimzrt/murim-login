@@ -1,17 +1,16 @@
 # Translation State
 
-- Last completed: 297
-- Next chapter: 298
-- Current block: 295–299 (3/5)
-- Latest translation: `translations/0297.md`
-- Latest summary: `summaries/beats/0297.md`
-- Safe profiles through: chapter 297
+- Last completed: 298
+- Next chapter: 299
+- Current block: 295–299 (4/5)
+- Latest translation: `translations/0298.md`
+- Latest summary: `summaries/beats/0298.md`
+- Safe profiles through: chapter 298
 
 ## Current Block
 
-- Choi Minwoo continues practicing the Jin Family's Cultivation Technique and awakens an enormous mass of internal energy hidden in his dantian, which Jin Taekyung calls one jiazi. After completing a final circulation, he reaches Four Stars in only one week. He suspects that his estranged grandfather may have created or placed the hidden energy within him, but he does not know the truth. Butler Kim, Song Song, and Im Kkeokjeong remain in the secure training room, still practicing.
-- News reports claim that Jin Taekyung volunteered as bait and has been isolated inside the A-rank Black Wizard's Black Forest while facing a Named Monster and hundreds of Skeletons. Rescue preparations are delayed despite the presence of more than thirty A-rank Hunters, including an Ares Guild contingent. Choi Minwoo and the other three Peace Guild members rush to the Gate, demand entry, and publicly insist that Taekyung must be saved.
-- At the Gate, the Seoul Branch President blocks the Peace Guild while showing conspicuous deference to Go Jun. Choi Minwoo demands that the Association Hunters withdraw so the Peace Guild can enter alone, then loses his temper when told to wait and shouts that his friend is inside and may die. Inside the Black Forest, Taekyung strikes the Skeleton Warlord for using an unnecessarily long command, forces it to hurry, and watches as the Warlord's demonic qi raises a new army of Skeletons; Taekyung calls the result another bumper harvest.
+- Taekyung turns the Skeleton Warlord's resurrection ability into an EXP harvest. He makes the Warlord activate Commander's Rally, gathers the newly raised Skeletons, destroys them with Spear Energy, and collects the resulting EXP, Magic Gems, and Equipment.
+- After arguing over the terms of a contract, the Skeleton Warlord agrees to retain his position as master of the Black Forest and commander of the undead army while serving as the Peace Guild's EXP factory manager. He later reveals that the black wizard directly summoned him, yet a sudden unexplained surge in magical power recently freed him from the summoner's control. Near the end of the harvest, he senses intruders entering the forest, and Taekyung heads toward the Gate entrance with the Warlord's skull.
 
 ## Open Questions
 
@@ -21,7 +20,8 @@
 - Will Im Kkeokjeong's reattached arms and trauma recover sufficiently for him to return to Hunter work?
 - What is the origin of the large qi mass in Team Leader Choi's dantian, and what did his grandfather do to him?
 - What prevented Taekyung from completing his breakthrough into the Supreme Peak realm?
-- What caused the Skeleton Warlord's unusual evolution, and what will result from Taekyung's cooperation with it?
+- What caused the Skeleton Warlord's sudden magical-power increase and unusual evolution, and what will result from Taekyung's contract with it?
+- Who are the intruders entering the Black Forest, and what will happen when they meet Taekyung and the Warlord?
 
 ## Exceptional Decision
 
@@ -29,10 +29,10 @@
 - Render 진기도인 as “True Qi Guidance,” 소주천 as “Small Circulation,” and 일주천 as “complete circulation.”
 - Render 삼화취정 as “Three Flowers Gather at the Crown,” 무아지경 as “Trance,” 내가고수 as “I'm a Master,” and 칠 성 as “Seven Stars.”
 - Render 수련자 as “Trainee” and 훈련 교관 as “Training Instructor.”
-- Render 흑마법사의 검은 숲 as “Black Wizard's Black Forest,” 도사견 as “Tosa mastiff,” and 댕댕이 as “pup.”
-- Render 망자 소환 as “Summon the Dead” and 사령관의 고무 as “Commander's Rally.”
+- Render 도사견 as “Tosa mastiff” and 댕댕이 as “pup.”
+- Render 망자 소환 as “Summon the Dead,” 사령관의 고무 as “Commander's Rally,” and 스켈레톤 아처 as “Skeleton Archer.”
 - Render 정몽주 as “Jeong Mong-ju” and 단심가 as “Song of My Single Heart.”
-- Render 통합 언어 팩 as “Unified Language Pack.”
+- Render 통합 언어 팩 as “Unified Language Pack,” 친인파 as “pro-human,” and 우렁각시 as “snail bride” with a footnote.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
