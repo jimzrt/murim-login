@@ -995,3 +995,14 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 중앙위원회 총서기 | **General Secretary of the Central Committee** | Office held by Xiao Yang. |
 | 빙빙 | **Bingbing** | Name or nickname of the child in the Monster Wave footage. |
 | 샤오 양 | **Xiao Yang** | General Secretary of China's Central Committee who specifically requests Taekyung's participation. |
+| 백한성 | **Baek Hanseong** | Twenty-seventh President of Korea and youngest president elected in Korean history. |
+| 대통령 | **President** | Title for Korea's head of state. |
+| 대통령 각하 | **Mr. President** | Formal address for the President. |
+| 주석 | **Chairman** | Political title used for Xiao Yang. |
+| 중국 공산당 | **Chinese Communist Party** | China's ruling political party. |
+| 중국 중앙위원회 | **China's Central Committee** | Chinese Communist Party leadership body referenced in the crisis response. |
+| 중앙 군사 위원회 | **Central Military Commission** | Chinese military leadership body that requested Lee Jungryong's participation. |
+| 인민해방군 | **People's Liberation Army** | Chinese military deployed to seal off the catastrophe area. |
+| 주한 중국 대사 | **Chinese ambassador to Korea** | Diplomatic representative who met Lee Jungryong secretly. |
+| 포케불프 | **Focke-Wulf** | German aircraft manufacturer. |
+| 종석이 아저씨 | **Chairman Jongseok** | Taekyung's joking misrendering of Chairman Xiao Yang's title and name. |
