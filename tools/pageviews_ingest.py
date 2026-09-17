@@ -177,7 +177,10 @@ def query_counts(chapters: list[int]) -> list[dict[str, int]]:
     try:
         placeholders = ",".join("?" * len(unique))
         rows = conn.execute(
-            f"SELECT chapter, COUNT(*) FROM pageviews WHERE chapter IN ({placeholders}) GROUP BY chapter",
+            f"""SELECT chapter, COUNT(DISTINCT ip_hash)
+                FROM pageviews
+                WHERE chapter IN ({placeholders}) AND ip_hash IS NOT NULL
+                GROUP BY chapter""",
             unique,
         ).fetchall()
         counts = {int(row[0]): int(row[1]) for row in rows}
