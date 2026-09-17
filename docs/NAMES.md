@@ -637,3 +637,10 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 김한웅 | **Kim Haneung** | Deceased comrade of Taekyung from the incident three years earlier. |
 | 박광현 | **Park Gwanghyeon** | Deceased comrade of Taekyung from the incident three years earlier. |
 | 홍천수 | **Hong Cheonsu** | Ten-year veteran Hunter and deceased comrade who saved Taekyung from goblins. |
+| 기의 발현 | **Manifestation of Qi** | System Achievement completed by Taekyung. |
+| 백독불침 | **Unaffected by a Hundred Poisons** | System effect granted to Taekyung's body. |
+| 에어 브레스 | **Air Breath** | Unique dragonkin ability used by Carus. |
+| 힐 | **Heal** | Healing spell cast by Carus. |
+| 슬로우 | **Slow** | Spell cast five times in succession by Carus. |
+| 카루스 | **Carus** | Name of the Black Wyvern. |
+| 외눈박이 | **One-Eyed** | Epithet of Carus, who has only one eye. |
