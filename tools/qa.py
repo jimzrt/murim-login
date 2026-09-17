@@ -7,7 +7,7 @@ import re
 
 HANGUL = re.compile(r"[가-힣]")
 FOOTNOTE_REF = re.compile(r"\[\^([^\]]+)\](?!:)")
-FOOTNOTE_DEF = re.compile(r"^\[\^([^\]]+)\]:", re.MULTILINE)
+FOOTNOTE_DEF = re.compile(r"^>?\s*\[\^([^\]]+)\]:", re.MULTILINE)
 SYSTEM_RANK_FIELD = re.compile(r"^>\s*\*\*Rank:\*\*", re.MULTILINE)
 SKILL_REDISTRIBUTE_OBJECTIVE = re.compile(
     r"\bCheck and Redistribute Skill Window Points complete\b",
