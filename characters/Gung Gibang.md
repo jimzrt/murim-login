@@ -1,6 +1,6 @@
 # Gung Gibang (궁기방)
 
-- **Safe through:** Chapter 249
+- **Safe through:** Chapter 250
 - **Aliases:** Successor Beggar, Beggar Prince, pure-blooded beggar, ultimate beggar
 - **Role:** Beggars' Sect martial artist and Successor Beggar, a position held by the person who will later lead the sect; advanced to the Star-Array Grand Banquet's main event and was punched in the solar plexus after grabbing Taekyung by the back of the neck during the fourth assessment.
 - **Personality:** Vulgar, aggressive, and quick-tempered.
