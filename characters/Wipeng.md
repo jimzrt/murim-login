@@ -1,6 +1,6 @@
 # Wipeng (위팽)
 
-- **Safe through:** Chapter 236
+- **Safe through:** Chapter 243
 - **Aliases:** Ghost Sword; God of Drinking
 - **Role:** Jin Wikyung’s personal guard and current Commander of the Jin Dragon Squad; after four months away, he returned from leading the Seven-Route Army’s campaign that stabilized Northern Gaoyuan
 - **Personality:** Loyal, observant, teasing, and resigned to his master’s impulsive departures

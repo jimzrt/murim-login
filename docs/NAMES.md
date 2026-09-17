@@ -755,3 +755,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 상승검 | **Always-Victorious Sword** | Jongni Chu's self-styled epithet, coined in this chapter. |
 | 운남 | **Yunnan** | Region from which Jongni Chu comes. |
 | 마이클 존슨 | **Michael Johnson** | False name Taekyung gives Jongni Chu. |
+| 호철 | **Hocheol** | Jin Dragon Squad martial artist and Hyuk Mujin's subordinate. |
+| 간장 | **Gan Jiang** | Legendary swordsmith named in comparison with Mo Ye. |
+| 막야 | **Mo Ye** | Legendary swordsmith named in comparison with Gan Jiang. |
