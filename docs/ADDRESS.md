@@ -11,7 +11,7 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진무경 | 진태경 | older_to_younger_brother | youngest | blunt-senior | 막내 / youngest; may taunt that lasting a quarter-hour would make Taekyung the older brother. |
 | 진태경 | 진위경 | younger_to_eldest_brother | brother | familiar-but-respectful | Self-corrects from the personal name to kinship: “Jin Wikyung—I mean, my brother?”; 큰형 is eldest brother. |
 | 진위경 | 진태경 | eldest_to_youngest_brother | youngest | affectionate-protective | Uses youngest-brother address; openly affectionate beneath a public mask. |
-| 진태경 | 성진호 | junior_to_older_friend | Jinho hyung | casual-but-junior | Retain hyung for 형; Jinho is three years older. |
+| 진태경 | 성진호 | junior_to_older_friend | Jinho | casual-but-junior | Spoken 형 may stay hyung; narration uses Jinho. Jinho is three years older. |
 | 성진호 | 진태경 | older_friend | informal / younger-brother | teasing-senior | Speaks informally while demanding respect as the older friend. |
 | 진태경 | 임꺽정 | junior_friend | Kkeokjeong hyung | casual-but-junior | After Im asks to be called hyung. |
 | 임꺽정 | 진태경 | older_friend | hyung | hearty-casual | “Call me hyung. We’re not even that far apart in age.” |
@@ -427,3 +427,9 @@ Overrides generic relationship prose in character profiles for this pair.
 | 매종학 | 낙양괴의 | renowned_martial_master_to_physician | Strange Physician | familiar-but-respectful | Uses 괴의 while checking on the physician and calming him. |
 | 진태경 | 낙양괴의 | young_martial_artist_to_physician | Elder; Strange Physician | deferential and urgent | Uses 어르신 and 괴의 while asking for Jeok Cheongang's diagnosis and treatment. |
 | 낙양괴의 | 진태경 | senior_physician_to_young_martial_artist | young brat | gruff and murderous | Threatens Taekyung's eyes and mouth while maintaining a deceptively genial demeanor. |
+| 주화란 | 허준 | niece_to_uncle | Uncle Heo | formal-polite | Hwaran addresses her uncle and Chief Escort as 허 숙부. |
+| 허준 | 주화란 | uncle_to_niece | Hwaran; Young Bureau Head | concerned-familiar and commanding | Heo Jun calls her 화란아 and orders the escorts to protect the Young Bureau Head. |
+| 천력부 | 허준 | familiar_enemies | Brother Heo | taunting and insulting | Heavenly Axe recognizes Heo Jun and mocks his service to Hwaran. |
+| 허준 | 천력부 | escort_chief_to_mounted_bandit_leader | Heavenly Axe | alarmed and guarded | Heo Jun identifies the approaching bandit leader by his epithet. |
+| 천력부 | 주화란 | mounted_bandit_leader_to_young_bureau_head | little girl | condescending and insulting | Heavenly Axe refers to Hwaran contemptuously while mocking Heo Jun. |
+| 주화란 | 석 표두 | childhood_siblings_by_affection | Brother Seok; Chief Escort Seok | grieving and respectful | Hwaran calls him Brother Seok before correcting herself to his office title while mourning his death. |

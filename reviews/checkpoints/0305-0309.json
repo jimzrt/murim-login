@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "“The new model from the German aircraft manufacturer Focke-Wulf, famous for its outstanding technological prowess, costs—”",
+      "defect": "This identifies the aircraft as a Focke-Wulf model, contradicting Chapter 306 and the checkpoint summary, which identify it as a Boeing 747-8 VIP.",
+      "id": "C01",
+      "rationale": "Making Choi misunderstand the question as referring to the seat preserves the Focke-Wulf exchange and Taekyung’s interruption without contradicting the jet’s established Boeing identity.",
+      "replacement": "“That seat is the newest model from the German manufacturer Focke-Wulf, famous for its outstanding technological prowess. It costs—”",
+      "severity": "minor",
+      "source": "Chapter 305, conversation aboard the private jet"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Mae Jonghak arranges letters to the Sichuan Tang Clan, Emei, and Qingcheng, while Hyuk Mujin, Cheongpung, and Gung Gibang join the search party. Taekyung forces rapid travel with a Ten-Thousand-Year Cold Iron chain and ninety years of internal energy. Meanwhile, the exhausted Yongbong Escort Bureau caravan, led by twenty-one-year-old Ju Hwaran, reaches Black Stone Mountain, where Heavenly Axe and hundreds of Green Forest bandits from Black Stone Stronghold demand to inspect its goods and collect a toll.",
+      "defect": "The summary drops the newly introduced political hook that orthodox leaders are considering re-forming the Murim Alliance and Mae Jonghak is being discussed as the leading candidate for Alliance Leader.",
+      "id": "C02",
+      "rationale": "The Alliance’s possible re-formation and Mae’s candidacy occupy a substantial part of Chapter 308 and establish an unresolved leadership thread that may govern later orthodox-faction continuity.",
+      "replacement": "Mae Jonghak arranges letters to the Sichuan Tang Clan, Emei, and Qingcheng, while Hyuk Mujin, Cheongpung, and Gung Gibang join the search party. Orthodox leaders are discussing re-forming the Murim Alliance, and the Luoyang Strange Physician considers Mae Jonghak the best candidate for Alliance Leader, though Mae insists he is unsuitable. Taekyung forces rapid travel with a Ten-Thousand-Year Cold Iron chain and ninety years of internal energy. Meanwhile, the exhausted Yongbong Escort Bureau caravan, led by twenty-one-year-old Ju Hwaran, reaches Black Stone Mountain, where Heavenly Axe and hundreds of Green Forest bandits from Black Stone Stronghold demand to inspect its goods and collect a toll.",
+      "severity": "major",
+      "source": "Checkpoint summary, Plot, third paragraph"
+    },
+    {
+      "confidence": 0.99,
+      "current": "\"active_continuity\": [\n    \"Jeok Cheongang remains unconscious after the battle at Mount Song.\",",
+      "defect": "The active state drops unresolved modern-world threads from Chapters 305–306 and the Murim Alliance leadership hook from Chapter 308, retaining only the Sichuan search and Yongbong Escort Bureau material.",
+      "id": "C03",
+      "rationale": "These are all live, unresolved developments revealed within the reviewed packet. Omitting them from active continuity risks losing the modern Sichuan mission, the evolving-monster mechanism, Lee Jungryong’s plan for Go Jun, and the prospective Murim Alliance leadership conflict.",
+      "replacement": "\"active_continuity\": [\n    \"China has requested the participation of Lee Jungryong, the Ares Guild, and Jin Taekyung in resolving the Sichuan Catastrophe.\",\n    \"Jin Taekyung and Choi Minwoo are traveling to Sichuan aboard a Chinese private Boeing 747-8 VIP jet to confront the Lich.\",\n    \"Rising mana density may be causing the increase in Gate accidents and may have driven the Lich and Skeleton Warlord to evolve.\",\n    \"Lee Jungryong intends to grant Go Jun enough strength to defeat Jin Taekyung.\",\n    \"Orthodox leaders are discussing re-forming the Murim Alliance, and Mae Jonghak is considered a leading candidate for Alliance Leader despite insisting that he is unsuitable.\",\n    \"Jeok Cheongang remains unconscious after the battle at Mount Song.\",",
+      "severity": "major",
+      "source": "Durable state, active_continuity opening"
+    }
+  ],
+  "summary": "The reading copies are generally consistent in voice, terminology, and spoiler scope. Three issues are actionable: one aircraft-identification contradiction, one omitted Murim Alliance hook in the checkpoint summary, and several unresolved threads missing from active continuity.",
+  "version": 1
+}
