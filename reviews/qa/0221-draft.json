@@ -1,0 +1,39 @@
+{
+  "chapter": 221,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.16,
+    "source_characters": 5778,
+    "source_paragraphs": 188,
+    "translation_characters": 12480,
+    "translation_paragraphs": 187
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "상태",
+        "preferred": "Status"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "피어",
+        "preferred": "Fear"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
