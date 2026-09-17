@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“You learned your lesson properly this time, so let him go now.”",
+      "defect": "The translation makes Taekyung the person who learned a lesson, but Park Tae Seop is referring to the beaten Park Jihoon.",
+      "id": "F01",
+      "rationale": "The omitted subject is resolved by 놓아주게, which asks Taekyung to release Jihoon after Jihoon has been taught a lesson.",
+      "replacement": "“He learned his lesson properly this time, so let him go now.”",
+      "severity": "critical",
+      "source": "“이번에 제대로 배웠으니 이제 그만 놓아주게.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I don’t particularly like that fellow myself, but it would have been better for his own sake if he had listened to my advice.”",
+      "defect": "The translation says Jihoon should have listened to Park Tae Seop, reversing the implied subject. Park Tae Seop is warning Taekyung that Taekyung would have been better off heeding his advice.",
+      "id": "F02",
+      "rationale": "신상에 좋았을걸세 is directed at 자네, Taekyung, continuing Park Tae Seop’s warning about the consequences of injuring Jihoon.",
+      "replacement": "“I don’t particularly like that fellow myself, but you would’ve been better off taking my advice.”",
+      "severity": "critical",
+      "source": "“나도 저 친구가 썩 마음에 들지는 않지만, 그래도 내 조언을 듣는 것이 신상에 좋았을걸세.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I’m looking at my phone.”",
+      "defect": "The possessive falsely identifies the stolen phone as Taekyung’s, immediately contradicting the subsequent revelation that he took it from Jihoon.",
+      "id": "F03",
+      "rationale": "The source says only that he is looking at a phone and does not claim ownership.",
+      "replacement": "“I’m looking at this phone.”",
+      "severity": "major",
+      "source": "“핸드폰 보고 있는데요.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Yeah, I know. So come over here before I pull out your eyes and fingers and press them against it.”",
+      "defect": "The translation pluralizes both threatened body parts and makes Taekyung press the removed parts himself, whereas he orders Jihoon to present an eye and a finger before Taekyung rips them out.",
+      "id": "F04",
+      "rationale": "눈깔이랑 손가락 refers to the eye and finger needed for iris and fingerprint recognition, while 와서 딱 대 is an order for Jihoon to come and place them against the phone.",
+      "replacement": "“Yeah, I know. So get over here and press an eye and a finger against it before I rip them out.”",
+      "severity": "major",
+      "source": "“응, 알아. 그러니까 눈깔이랑 손가락 뽑기 전에 와서 딱 대.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "An enormous wave of fire erupted in an instant and surged through the room.",
+      "defect": "The translation turns fire-aligned energy into literal fire, changing the mechanism of Taekyung’s qi release before White Flame is summoned.",
+      "id": "F05",
+      "rationale": "화기 here is the fiery qi produced through the Fire Gate Divine Technique, not physical flames consuming the office.",
+      "replacement": "An enormous burst of fiery qi erupted in an instant and surged through the room.",
+      "severity": "major",
+      "source": "일순간에 터져 나온 막대한 화기(火氣)가 넘실거렸다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "“You’ll have to help me.”",
+      "defect": "The blunt command loses Jihoon’s conspicuous shift into formal, deferential speech toward the Guild Master.",
+      "id": "F06",
+      "rationale": "The honorific construction 도와주셔야겠습니다 remains coercive in context but explicitly marks hierarchy and a register shift.",
+      "replacement": "“I’m going to need your help, Guild Master.”",
+      "severity": "major",
+      "source": "“도와주셔야겠습니다.”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "“You owe me two arms. One leg doesn’t make the math work.”",
+      "defect": "The translation adds an explicit personal debt owed by Jihoon, while the source more obliquely compares the two arms lost on Taekyung’s side against Jihoon’s leg.",
+      "id": "F07",
+      "rationale": "이쪽은 identifies Taekyung’s side, and 수지타산이 안 맞지 frames the injuries as an intentionally cold accounting comparison without directly stating that Jihoon owes him.",
+      "replacement": "“We’re down two arms on our side. One leg doesn’t balance the books.”",
+      "severity": "major",
+      "source": "“이쪽은 팔 두 개야. 한쪽 다리로는 수지타산이 안 맞지.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“You have a sharp tongue.”\n\n“My hands are even sharper. My old nickname was the Haengsin-dong Buldak Hand.[^1] Why don’t you have a taste?”",
+      "defect": "Rendering 맵다 as “sharp” breaks the repeated spicy-taste wordplay, and the nickname omits 볶음, which is necessary for the parody of buldak-bokkeum-myeon.",
+      "id": "F08",
+      "rationale": "The exchange repeatedly uses spicy flavor imagery—맵군, 더 맵습니다, 불닭볶음손, and 맛—to construct one continuous threat and food-name joke.",
+      "replacement": "“You’ve got quite a spicy tongue.”\n\n“My hands are even spicier. My old nickname was the Haengsin-dong Fire-Chicken Stir-Fried Hand.[^1]… Want a taste?”",
+      "severity": "minor",
+      "source": "“혀가 맵군.”\n\n“손맛은 더 맵습니다. 제 예전 별명이 행신동 불닭볶음손이었는데…… 어디 한번 맛 좀 보시겠어요?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "[^1]: Buldak literally means “fire chicken” and refers to extremely spicy Korean dishes.",
+      "defect": "The footnote explains only 불닭 and omits the actual wordplay in 불닭볶음손.",
+      "id": "F09",
+      "rationale": "The joke specifically parodies the Korean dish name 불닭볶음면 by replacing 면 with 손, not merely by referencing spicy food.",
+      "replacement": "[^1]: Buldak-bokkeum-myeon literally means “fire-chicken stir-fried noodles”; the nickname replaces myeon (“noodles”) with son (“hand”).",
+      "severity": "minor",
+      "source": "제 예전 별명이 행신동 불닭볶음손이었는데"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Regret flashed across Park Jihoon’s face.\n\nHis aura had only cut through my clothes and passed by.",
+      "defect": "“Regret” suggests remorse for attacking Taekyung rather than disappointment that the attack failed to wound him.",
+      "id": "F10",
+      "rationale": "The following sentence explicitly explains that Jihoon reacts because his aura cut only Taekyung’s clothing.",
+      "replacement": "Disappointment flashed across Park Jihoon’s face.\n\nHis aura had only cut through my clothes and passed by.",
+      "severity": "minor",
+      "source": "박지훈의 얼굴에 안타까움이 스쳤다. 녀석의 오라가 옷만 베고 지나갔기 때문이다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“That should be enough.”",
+      "defect": "The translation drops 것 같네만, making the unfamiliar speaker’s restrained, qualified intervention more categorical.",
+      "id": "F11",
+      "rationale": "것 같네만 presents the judgment as measured and slightly qualified, an important pragmatic cue in the new speaker’s entrance.",
+      "replacement": "“I think that should be enough.”",
+      "severity": "minor",
+      "source": "“그만하면 충분한 것 같네만.”"
+    }
+  ],
+  "summary": "Two subject reversals materially alter the exchange, with additional issues involving ownership, quantity, mechanism, hierarchy, humor, and pragmatic nuance.",
+  "version": 1
+}
