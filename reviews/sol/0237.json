@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Hong had once heard that the terrifying Fire King had personally torn apart and killed a thousand vicious Demonic Cult fiends.",
+      "defect": "The modifier meaning “terrifying” describes the Demonic Cult in the source, but the draft transfers it to the Fire King.",
+      "id": "F01",
+      "rationale": "The replacement restores the source’s attribution while preserving that the Fire King acted alone.",
+      "replacement": "Hong had once heard that the Fire King had single-handedly torn apart and killed a thousand vicious fiends of the terrifying Demonic Cult.",
+      "severity": "minor",
+      "source": "일전에 듣기로는 그 무서운 마교의 흉신악살 천 명을 단신으로 찢어 죽였다고도 했다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“……”\n\n“You’re becoming more insane by the day. Is there something wrong with your Fire Gate Divine Technique?”",
+      "defect": "A single continuous utterance has been split into two separate dialogue paragraphs, making the initial pause appear to be its own speech turn.",
+      "id": "F02",
+      "rationale": "The ellipsis leads directly into the old man’s sentence in the source.",
+      "replacement": "“…You’re becoming more insane by the day. Is there something wrong with your Fire Gate Divine Technique?”",
+      "severity": "minor",
+      "source": "“……갈수록 미친놈이 되어 가는군. 열화신공에 문제라도 있었나?”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Puhahaha! He thinks you’re a Mountain Spirit. Old Man, wasn’t it three months ago that you forgot your formula while circulating your qi and almost became a ghost?”",
+      "defect": "“Old Man” makes Taekyung’s address sound casually disrespectful and discards the established hierarchical address represented by 노야.",
+      "id": "F03",
+      "rationale": "Taekyung is teasing Jeok Cheongang, but he still addresses his overwhelming elder and master with the established private form “Old Master.”",
+      "replacement": "“Puhahaha! He thinks you’re a Mountain Spirit. Old Master, wasn’t it three months ago that you forgot your formula while circulating your qi and almost became a ghost?”",
+      "severity": "major",
+      "source": "“푸하하! 신령이래. 노야, 석 달 전인가, 운기조식하다가 구결 까먹어서 유령 될 뻔하지 않았어요?”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "His calm attitude and tone were so incongruous that even the massive trees snapped to pieces behind him seemed insignificant.",
+      "defect": "The sentence is grammatically malformed and obscures the contrast: his nonchalance makes the destruction behind him seem inconsequential.",
+      "id": "F04",
+      "rationale": "The source contrasts his utterly casual demeanor with the conspicuous destruction caused by the blow.",
+      "replacement": "His manner and tone were so nonchalant that the massive trees that had been snapped apart behind him might as well not have been there.",
+      "severity": "minor",
+      "source": "그의 뒤로 와지끈 부러져 있는 아름드리나무들이 무색해질 정도로 태연한 태도와 말투였다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Sichuan is fun, isn’t it? I studied hard during evening self-study there.”[^3]",
+      "defect": "The draft mistakes 사천성 for the province alone and changes Taekyung’s action from playing the tile-matching game of the same name during evening self-study to studying in Sichuan. This invents a false biographical fact and loses the pun.",
+      "id": "F05",
+      "rationale": "사천성 simultaneously means Sichuan Province in context and names a tile-matching game familiar to Korean students; Taekyung is making a wordplay-driven modern-world reference.",
+      "replacement": "“Sichuan Province is fun, isn’t it? I used to play it all the time during evening self-study.[^3]”",
+      "severity": "critical",
+      "source": "“사천성 재밌죠. 야자 때 열심히 했었는데.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "[^3]: “Evening self-study” refers to the after-school study sessions traditionally held in Korean schools.",
+      "defect": "The footnote explains only evening self-study and omits the culturally specific 사천성 double meaning that is essential to understanding the joke.",
+      "id": "F06",
+      "rationale": "The revised note explains both elements needed to understand why Taekyung says he used to “play” Sichuan Province during evening self-study.",
+      "replacement": "[^3]: In Korean, “Sichuan Province” (*Sacheonseong*) is also the name of a tile-matching game; *yaja* refers to school-supervised evening self-study.",
+      "severity": "major",
+      "source": "“사천성 재밌죠. 야자 때 열심히 했었는데.”"
+    }
+  ],
+  "summary": "The draft contains one critical mistranslation that turns a game-related pun into a false biographical statement, along with hierarchy, attribution, formatting, and prose issues.",
+  "version": 1
+}

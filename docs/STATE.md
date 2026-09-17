@@ -1,16 +1,16 @@
 # Translation State
 
-- Last completed: 236
-- Next chapter: 237
-- Current block: 235–239 (2/5)
-- Latest translation: `translations/0236.md`
-- Latest summary: `summaries/beats/0236.md`
-- Safe profiles through: chapter 236
+- Last completed: 237
+- Next chapter: 238
+- Current block: 235–239 (3/5)
+- Latest translation: `translations/0237.md`
+- Latest summary: `summaries/beats/0237.md`
+- Safe profiles through: chapter 237
 
 ## Current Block
 
-- After four months away, Wipeng returned to Jin Wikyung and reported that the Seven-Route Army had stabilized Northern Gaoyuan. Seven battles killed or captured two thousand mounted bandits, annihilated five major groups, and forced more than ten others to surrender. The Lower District Sect provided decisive intelligence support, while Temur and Chinggen avoided conflict after learning of Jeok Cheongang's reputation; having absorbed the remnants of Black Sand, the Human Butcher, and the Heavenly Wind Band, they now sought friendship with the Jin Family and offered furs and plundered treasure.
-- Jin Wikyung and Wipeng also discussed the Seongun Escort Bureau's collapse, the Jin Family's expanding trade with Shaolin and Namgung through Mount Song and Hefei, and the approaching Star-Array Grand Banquet where the brothers were expected to reunite. At Mount Jiuhua, one year into Taekyung's absence, the shaggy-haired young man joked about grilling meat over the Fire Gate Clan's sacred flame, provoking Jeok Cheongang to strike and scold him as peaceful Mount Jiuhua became noisy again.
+- After a year of training in the Fire Gate Cavern, Jin Taekyung and Jeok Cheongang leave the cavern. Taekyung can open its stone gate with the internal energy of the Scorching Sun Divine Arts and departs while still wearing iron balls chained to all four limbs.
+- At the foot of Mount Jiuhua, they encounter Hong, a herbalist from Sichuan who has found no spiritual herbs. Jeok has already harvested the mountain's herbs, but Taekyung gives Hong a remaining ginseng root and sells it to a group of martial artists for one hundred silver nyang. Namgung Ryong then raises the price to three hundred silver nyang to compensate Jeok for offending him, identifies himself as the Family Head of the Nangong Family, and is described as the richest man in Anhui.
 
 ## Open Questions
 
