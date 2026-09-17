@@ -663,3 +663,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 대한제국 | **Korean Empire** | Historical-era reference used in Taekyung’s joke. |
 | 크리스티 | **Christie’s** | Auction house whose appraisers valued Carus’s remains. |
 | 소더비 | **Sotheby’s** | Competing major auction house. |
+| 고조선TV | **GojoseonTV** | Television outlet that reports the Christie’s auction. |
+| 카타르 | **Qatar** | Country of Prince Cheonsur. |
+| 천수르 | **Cheonsur** | Qatar’s prince who wins the auction for Carus’s remains. |
+| 박형석 | **Park Hyeongseok** | Online commenter who identifies himself during the argument. |
