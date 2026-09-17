@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.95,
+      "current": "Flocks of nameless birds took flight.\n\n—Screeeech!\n\nThat was as far as anyone could get in avoiding the earthquake.",
+      "defect": "The current wording obscures the subject and turns a concrete limitation—the flying creatures were the only ones able to escape—into a vague statement about how far anyone could get.",
+      "id": "F01",
+      "rationale": "거기까지였다 refers back to the airborne creatures and establishes that escape was limited to them, which sets up the Star Guild members' lack of wings.",
+      "replacement": "Flocks of nameless birds took flight.\n\n—Screeeech!\n\nThey were the only ones able to escape the earthquake.",
+      "severity": "major",
+      "source": "이름을 알 수 없는 날짐승들이 무리 지어 날아올랐다.\n\n- 삐이이익!\n\n지진을 피할 수 있었던 것은 거기까지였다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The person who had rendered more than a dozen B-Rank veteran Hunters incapable of fighting with a single spell could not have looked more at ease.",
+      "defect": "The translation changes 십여 명, approximately a dozen people, into more than a dozen, which asserts a higher minimum quantity.",
+      "id": "F02",
+      "rationale": "십여 명 means roughly ten or a dozen people, not specifically thirteen or more.",
+      "replacement": "The man who had rendered around a dozen veteran B-Rank Hunters incapable of fighting with a single spell could not have looked more at ease.",
+      "severity": "critical",
+      "source": "단 한 번의 마법으로 B급 베테랑 헌터 십여 명을 전투 불능 상태로 만든 이는 태연하기 그지없었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "To me, there was no great difference between a monster and Won Myunghoon standing before me.",
+      "defect": "The draft says Won Myunghoon is standing, although he is already down with his calf tendons severed and his knee buckled. 눈앞의 only means that he is before Taekyung.",
+      "id": "F03",
+      "rationale": "The source specifies proximity, not posture; adding “standing” contradicts the immediately preceding action.",
+      "replacement": "To me, there was no great difference between a monster and Won Myunghoon before me.",
+      "severity": "critical",
+      "source": "그런 내게 있어 몬스터와 눈앞의 원명훈은 큰 차이가 없다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "“If I leave you alive, you’ll bare your teeth at me again someday. Like a thorn lodged in your throat, you’ll come back somehow if you survive.”",
+      "defect": "The draft places the metaphorical thorn in Won Myunghoon’s own throat, making him both the threat and the person troubled by that threat. The source presents Won as the persistent thorn.",
+      "id": "F04",
+      "rationale": "목에 걸린 가시처럼 describes Won Myunghoon as an enduring danger that cannot be ignored, not a thorn troubling Won himself.",
+      "replacement": "“If I leave you alive, you’ll bare your teeth at me again someday. Like a thorn lodged in the throat, you’ll find some way to come back if you survive.”",
+      "severity": "major",
+      "source": "살려 둔다면 언제고 다시 이빨을 들이대겠지. 목에 걸린 가시처럼, 살아난다면 어떻게든 다시 돌아올 거야."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Killing a monster and committing murder are different things. If you wish, I can—”",
+      "defect": "“If you wish” adds a deferential condition absent from the source and weakens Butler Kim’s direct offer to take responsibility himself.",
+      "id": "F05",
+      "rationale": "차라리 제가 is an interrupted statement that Butler Kim himself should do it instead, not an offer contingent on Taekyung’s wishes.",
+      "replacement": "“But killing a monster and murdering someone are different. I’d rather do it myself—”",
+      "severity": "major",
+      "source": "“하지만 몬스터를 죽이는 것과 살인은 다릅니다. 차라리 제가.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Most of the reporters who had flocked to cover the joint raid between the Peace Guild and the Star Guild—or rather, the raid between Jin Taekyung and Won Myunghoon—had left long ago.",
+      "defect": "The second “between” presents Jin Taekyung and Won Myunghoon as opposing parties. The source calls it their raid, reframing the Guild event around its two celebrity participants rather than turning it into a confrontation.",
+      "id": "F06",
+      "rationale": "진태경과 원명훈의 레이드 is possessive: the raid featuring or belonging to Jin Taekyung and Won Myunghoon.",
+      "replacement": "Most of the reporters who had flocked to cover the joint raid by the Peace Guild and the Star Guild—or rather, Jin Taekyung and Won Myunghoon’s raid—had left long ago.",
+      "severity": "major",
+      "source": "평화 길드와 스타 길드의 협동 레이드. 아니, 진태경과 원명훈의 레이드를 위해 몰려온 취재진은 대부분 자리를 뜬 지 오래였다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "More than a dozen people burst from the swirling vortex of mana.",
+      "defect": "The translation again changes 십여 명, approximately a dozen people, into more than a dozen.",
+      "id": "F07",
+      "rationale": "십여 명 indicates an approximate group of ten or a dozen, whereas “more than a dozen” sets an unsupported minimum of thirteen.",
+      "replacement": "Around a dozen people burst from the swirling vortex of mana.",
+      "severity": "critical",
+      "source": "마력의 소용돌이에서 튀어나온 십여 명의 사람들."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“The Star Guild’s Team Leader One?”",
+      "defect": "“Team Leader One” misorders the numerical designation and sounds as though the leader is numbered rather than the team.",
+      "id": "F08",
+      "rationale": "1팀장 identifies the leader of Team One.",
+      "replacement": "“The Star Guild’s Team One Leader?”",
+      "severity": "minor",
+      "source": "“스타 길드 1팀장?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "He gazed at me with sunken eyes, then gave a small nod.",
+      "defect": "“Sunken eyes” describes Butler Kim’s physical appearance, while 가라앉은 눈빛 describes the subdued or grave quality of his gaze.",
+      "id": "F09",
+      "rationale": "가라앉은 modifies his expression or gaze after understanding Taekyung’s resolve; it does not indicate hollow eye sockets.",
+      "replacement": "He regarded me with a grave look, then gave a small nod.",
+      "severity": "minor",
+      "source": "가라앉은 눈빛으로 나를 바라보던 그가 살짝 고개를 끄덕였다."
+    }
+  ],
+  "summary": "The draft contains several factual and relational errors, including altered quantities, an incorrect physical posture, a misassigned metaphor, and softened dialogue.",
+  "version": 1
+}
