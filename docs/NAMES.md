@@ -870,3 +870,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 노야 | **Old Master** | Taekyung's private address for Jeok Cheongang. |
 | 천독마군 | **Heaven-Poison Demon Lord** | Archfiend of the Heavenly Demon Divine Cult and former second-in-command of the Demonic Cult. |
 | 혈귀검마 | **Blood Ghost Sword Demon** | Title Song Ho mistakenly attributes to Mae Jonghak before recognizing him as Jongni Chu. |
+| 태원 진가 | **Jin Family of Taiyuan** | Source-spaced form of the Jin Family's name. |
+| 토토 | **Toto** | Gambling or lottery reference contrasted with Dodo in Taekyung's joke. |

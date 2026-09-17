@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The bastard was already making me miserable, and now he had decided to provoke me.",
+      "defect": "The draft makes Hyuk Mujin the cause of Taekyung’s existing misery. The source says Taekyung was already troubled before Mujin chose to rile him up.",
+      "id": "F01",
+      "rationale": "가뜩이나 심란한데 establishes Taekyung’s preexisting distress, while 사람을 건드리고 describes Mujin aggravating him on top of that.",
+      "replacement": "I was already troubled enough, and this bastard just had to come along and rile me up.",
+      "severity": "major",
+      "source": "이 자식은 가뜩이나 심란한데 사람을 건드리고 난리야."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The Jin Family of Taiyuan might not compare to the Nine Sects and One Gang or the Five Great Families, but it was still one of the ruling powers of Shanxi Province.",
+      "defect": "The draft weakens the Jin Family’s status from the established dominant power of Shanxi to merely one among several ruling powers.",
+      "id": "F02",
+      "rationale": "산서성의 패자 denotes the dominant or hegemonic power of Shanxi, not one member of a group of coequal rulers.",
+      "replacement": "The Jin Family of Taiyuan might not compare to the Nine Sects and One Gang or the Five Great Families, but it was still the undisputed hegemon of Shanxi Province.",
+      "severity": "major",
+      "source": "구파일방이나 오대세가에 비할 바는 아니지만, 태원 진가도 엄연한 산서성의 패자다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Wait a moment. You’ve misunderstood. I was genuinely so busy handling the escort that I didn’t have time to—”\n\n“Misunderstood? Good. How about I make sure you don’t have any time to do anything else from now on?”",
+      "defect": "The response becomes a vague threat to keep Mujin busy and loses the joke in which Taekyung twists Mujin’s claim that he barely had time to open his eyes into a threat that he will never open them again.",
+      "id": "F03",
+      "rationale": "The source deliberately repeats 눈코 뜨다, first idiomatically and then as a physical threat. Preserving the repeated image is necessary for both the humor and Taekyung’s menace.",
+      "replacement": "“Wait a second. You’ve got it wrong. I was genuinely so busy with guard duty I barely had time to open my eyes—”\n\n“A misunderstanding? Fine. Want me to make sure you never open them again?”",
+      "severity": "major",
+      "source": "“잠시만요. 오해십니다. 저는 진짜로 경호를 맡느라 눈코 뜰 새 없이 바빴…….”\n\n“오해? 오해 좋지. 앞으로 눈코 뜰일 없게 해 줘?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "You were so famous I didn’t even need to ask around. Apparently, some guy won a hundred thousand silver nyang in one go, then lost a hundred thousand silver nyang right afterward. They were treating it like a legend—or rather, a Dodo-level legend.",
+      "defect": "The draft invents “Dodo-level,” which is absent here, and replaces the source’s deliberately redundant self-correction from the Korean word for legend to the English loanword with a different joke.",
+      "id": "F04",
+      "rationale": "전설은 아니고 레전드급 is a comic self-correction between synonymous Korean and loanword expressions. Dodo appears only in the following sentence and must not be added here.",
+      "replacement": "You were so famous I didn’t even need to ask around. Apparently, some guy won a hundred thousand silver nyang in one go, then lost a hundred thousand silver nyang right afterward. They were treating him like a legend—no, an absolute legend.",
+      "severity": "major",
+      "source": "하도 유명해서 알아볼 필요도 없더라. 웬 놈이 한 번에 은자 십만 냥 따고 바로 십만 냥 잃었다고 전설은 아니고 레전드급 취급받더만."
+    },
+    {
+      "confidence": 1.0,
+      "current": "I had even heard a story that one of the servants working at the Murim Alliance had hit the jackpot on Dodo—or Toto, rather—then slapped the Chief Steward across the face and left.",
+      "defect": "The correction is reversed. Taekyung first uses the modern term “Toto,” then corrects himself to the Murim term “Dodo”; the draft ends on the wrong term.",
+      "id": "F05",
+      "rationale": "토토, 아니 도도로 explicitly corrects “Toto” to the established term “Dodo.” The order is part of the setting-based joke.",
+      "replacement": "I’d even heard a story about one of the servants working at the Murim Alliance hitting the jackpot on Toto—no, Dodo—then slapping the Chief Steward across the face and walking out.",
+      "severity": "major",
+      "source": "무림맹에서 일하는 하인 중 한 명은 토토, 아니 도도로 대박이 터졌는지 총관 싸대기를 갈기고 떠났다는 썰까지 들었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Hyuk Mujin inhaled sharply when he saw the yellowish golden mask gleaming beside the metallic sound.",
+      "defect": "“Gleaming beside the metallic sound” is an unnatural and mechanically inaccurate collocation; the sound accompanies the mask landing rather than occupying a position beside it.",
+      "id": "F06",
+      "rationale": "금속음과 함께 means the sight is accompanied by a metallic sound. The replacement preserves both sensory details in natural English.",
+      "replacement": "At the metallic clatter, Hyuk Mujin sucked in a breath as he spotted the gold mask gleaming on the table.",
+      "severity": "minor",
+      "source": "금속음과 함께 누렇게 번쩍이는 금가면을 목격한 녀석이 헛숨을 들이켰다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "“Life is supposed to be… all or nothing.”",
+      "defect": "“All or nothing” frames life as a binary gamble, while 한 방 in this context means staking everything on one decisive hit or big score.",
+      "id": "F07",
+      "rationale": "The line is Mujin’s unrepentant gambler’s maxim after winning and losing a fortune in single bets; “one big score” preserves that specific characterization and punchline.",
+      "replacement": "“Life is… all about one big score.”",
+      "severity": "minor",
+      "source": "“원래 인생은…… 한 방입니다.”"
+    }
+  ],
+  "summary": "Seven actionable findings: altered causality and hierarchy, two mistrendered gambling jokes, a reversed terminology correction, one lost threat-based wordplay, and two localized wording issues.",
+  "version": 1
+}
