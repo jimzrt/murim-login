@@ -1,0 +1,136 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The Park Jihoon I remembered from middle school hadn’t even finished going through puberty, and since then, the only time we had spoken was a brief conversation a few months ago.",
+      "defect": "The source specifically says Jihoon’s voice had not finished changing, which directly explains why his voice now sounds unfamiliar. The draft broadens this to puberty in general and weakens the causal connection.",
+      "id": "F01",
+      "rationale": "변성기 refers specifically to the adolescent voice change in this context, not puberty as a whole.",
+      "replacement": "The Park Jihoon I remembered from middle school hadn’t even finished going through his voice change, and since then, the only time we had spoken was during a brief, passing conversation a few months ago.",
+      "severity": "major",
+      "source": "기억 속에 남아 있는 중학교 시절의 박지훈은 변성기가 끝나기 전이었고, 그 뒤로는 불과 몇 달 전 스치듯이 대화를 나눈 것이 전부였으니까."
+    },
+    {
+      "confidence": 1.0,
+      "current": "I did, but for a moment I thought I’d dialed the wrong number. Your voice didn’t sound familiar.",
+      "defect": "Jihoon placed the call, so Taekyung wonders whether Jihoon called the wrong number. The draft reverses the action and says Taekyung dialed.",
+      "id": "F02",
+      "rationale": "The call direction is established by Jihoon unexpectedly calling Taekyung, and 잘못 걸렸나 refers to whether the incoming caller reached the wrong person.",
+      "replacement": "I did, but for a moment I thought you might’ve called the wrong number. Your voice didn’t sound familiar.",
+      "severity": "critical",
+      "source": "해 놓긴 했는데, 순간 잘못 걸렸나 싶었다. 목소리가 익숙하지가 않아서."
+    },
+    {
+      "confidence": 0.96,
+      "current": "A low laugh came through the phone. There wasn’t even a trace of awkwardness in his voice. The atmosphere between us was as familiar as ever.",
+      "defect": "The draft relocates the absence of awkwardness specifically to Jihoon’s voice and adds “as ever,” implying uninterrupted familiarity that the source does not claim.",
+      "id": "F03",
+      "rationale": "The source describes the overall atmosphere as friendly and free of awkwardness without asserting that it had always remained that way.",
+      "replacement": "A low laugh came through the phone. There wasn’t a trace of awkwardness between us; the mood felt warm and familiar.",
+      "severity": "minor",
+      "source": "낮은 웃음소리가 들렸다. 어색함 따위는 느껴지지 않는 친근한 분위기다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Yeah. You said you’d contact me after the class reunion last time, but you never did.”\n\n*Did I say that?*\n\nThinking back, I supposed I had. I’d been so busy with everything that came afterward, I’d completely forgotten.\n\n“I was supposed to contact you, but something suddenly came up. I had to go on a business trip overseas. I couldn’t even attend the reunion because of it.”",
+      "defect": "The draft reverses who promised to make contact. Jihoon says that he had promised to contact Taekyung about the reunion but failed to do so; Taekyung did not break that promise.",
+      "id": "F04",
+      "rationale": "연락 준다고 해 놓고 못 줬잖아 has Jihoon as the omitted subject, confirmed by his immediate explanation that his business trip prevented both the call and his attendance.",
+      "replacement": "“Yeah. I said I’d get in touch when we had our class reunion, but I couldn’t.”\n\n*Had he?*\n\nThinking back, it seemed like he had. I’d been so busy since then that I’d completely forgotten.\n\n“Something suddenly came up, and I had to go on a business trip overseas. I couldn’t even attend the reunion because of it.”",
+      "severity": "critical",
+      "source": "어, 그때 동창회 하니까 연락 준다고 해 놓고 못 줬잖아.\n\n그런 일이 있었나?\n\n곰곰이 생각해 보니까 그랬던 것 같기도 하다. 그 후에도 워낙 바쁘게 살아서 깜빡 잊고 있었지.\n\n하필 그때 갑자기 일이 생기는 바람에 해외 출장 다녀왔거든. 덕분에 동창회도 참석 못 했고."
+    },
+    {
+      "confidence": 0.94,
+      "current": "Was that supposed to be some kind of humblebrag?",
+      "defect": "A humblebrag is a boast disguised as self-deprecation, but Taekyung did not boast. Jihoon is joking that the far more successful Taekyung is rubbing his supposed envy in Jihoon’s face.",
+      "id": "F05",
+      "rationale": "기만하다 here is colloquial teasing about someone flaunting or weaponizing an obvious advantage, not humblebragging.",
+      "replacement": "Were you just rubbing it in?",
+      "severity": "minor",
+      "source": "방금 그거 나 상대로 기만한 거냐?"
+    },
+    {
+      "confidence": 0.98,
+      "current": "This was me making an effort, too. Hayeon had been nagging me nonstop to stop wearing tracksuits, so I’d finally given in.",
+      "defect": "The draft omits Hayeon’s warning that many people are watching Taekyung, losing the reason she objects to his tracksuits and part of her scolding register. It also adds the unsupported claim that he finally gave in.",
+      "id": "F06",
+      "rationale": "보는 눈이 몇 갠데 is a pragmatic warning about public scrutiny, while 떽떽거리다 conveys her sharp, repeated scolding.",
+      "replacement": "This was me making an effort, too. Hayeon had kept squawking about how many people were watching me and telling me to stop wearing tracksuits.",
+      "severity": "major",
+      "source": "이것도 그나마 차려입은 거다. 하연이가 보는 눈이 몇 갠데 츄리닝 좀 그만 입으라고 하도 떽떽거려서."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Maybe it was because we were in Cheongdam-dong, but the place practically reeked of old money from the moment we entered.",
+      "defect": "The source conveys the atmosphere of an affluent neighborhood, not inherited or generational wealth. “Old money” adds an unsupported socioeconomic distinction.",
+      "id": "F07",
+      "rationale": "부촌 means a wealthy or affluent neighborhood and does not specify old money.",
+      "replacement": "Maybe it was because we were in Cheongdam-dong, but the place practically reeked of wealth from the moment we entered.",
+      "severity": "minor",
+      "source": "청담동이라 그런가, 입구부터 부촌(富村) 느낌이 풀풀 풍기더라."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Unlike me, who had been forced to support myself, Hunter work had been just one of countless options available to him.",
+      "defect": "The draft narrows Taekyung’s responsibility to supporting himself, while the source says he had to shoulder the household livelihood.",
+      "id": "F08",
+      "rationale": "생계를 책임지다 means bearing responsibility for making a living or supporting the household, which is broader than personal self-support.",
+      "replacement": "Unlike me, who had been forced to provide for my family, Hunter work had been just one of countless options available to him.",
+      "severity": "major",
+      "source": "생계를 책임져야 했던 나와는 달리 녀석에게 있어 헌터는 수많은 선택지 중 하나였을 뿐이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Hey, do you think I’m some kind of saint?”\n\n“You are.",
+      "defect": "The draft invents a moral comparison to a saint, causing Jihoon’s reply to call Taekyung a saint. The source asks whether Taekyung is such an important or extraordinary person, and Jihoon answers that he is.",
+      "id": "F09",
+      "rationale": "내가 뭐라도 되냐 is a colloquial denial of being someone special or important, not a claim about moral purity.",
+      "replacement": "“Hey, what am I, some kind of big shot?”\n\n“You are.",
+      "severity": "major",
+      "source": "“야, 내가 뭐라도 되냐?”\n\n“되지."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“That’s impressive. Except for the fact that you’re the guy trembling with regret after donating.”",
+      "defect": "The draft changes the subject from Taekyung to Jihoon. Taekyung is joking about his own regret after making the donation.",
+      "id": "F10",
+      "rationale": "The omitted subject of 기부하고 아까워서 벌벌 떠는 놈 is Taekyung, whose enormous donation was discussed earlier.",
+      "replacement": "“That sounds impressive—except I’m also the guy trembling with regret over making a donation.”",
+      "severity": "critical",
+      "source": "“그거 대단하네. 기부하고 아까워서 벌벌 떠는 놈이라는 것만 빼면.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“From now on, wait until I tell you to speak. And don’t awkwardly imitate a superior at work.”",
+      "defect": "The draft intensifies the first command into requiring permission to speak and renders the second as an unnatural instruction to imitate an unspecified superior. Jihoon tells the Team Leader to wait until Jihoon speaks and to stop pretending to be Jihoon’s boss.",
+      "id": "F11",
+      "rationale": "제가 말할 때까지 means until Jihoon himself speaks, while 직장 상사 흉내 refers to the nominal Team Leader acting as though he genuinely has authority over Jihoon.",
+      "replacement": "“From now on, wait until I speak. And stop trying to play boss with me.”",
+      "severity": "major",
+      "source": "“다음부터는 제가 말할 때까지 기다리세요. 어설프게 직장 상사 흉내 내지 마시고.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "[^1]: An officetel is a compact Korean residential unit that combines the functions of an office and an apartment.",
+      "defect": "The footnote inaccurately defines officetels as inherently compact, directly clashing with the exceptionally large unit being shown in the scene.",
+      "id": "F12",
+      "rationale": "The defining feature of an officetel is its mixed office-residential use, not compact size.",
+      "replacement": "[^1]: An officetel is a Korean mixed-use unit designed to function as both an office and a residence.",
+      "severity": "minor",
+      "source": "맞잖아. 오피스텔."
+    },
+    {
+      "confidence": 0.99,
+      "current": "[^2]: “Shibal” is a Korean profanity that sounds similar to the first syllables of “Château Cheval.”",
+      "defect": "The footnote identifies the wrong part of the wine name as the source of the profanity joke. “Shibal” resembles “Cheval,” not the first syllables of “Château Cheval.”",
+      "id": "F13",
+      "rationale": "The joke substitutes 시발 for 슈발, the Korean rendering of “Cheval.”",
+      "replacement": "[^2]: “Shibal” is a Korean profanity; here, Taekyung mishears the similar-sounding “Cheval.”",
+      "severity": "minor",
+      "source": "“사또 시발, 뭐?”\n\n“샤또 슈발 블랑.”"
+    }
+  ],
+  "summary": "The draft contains three critical reversals of speaker or subject, along with several meaningful changes to causal detail, characterization, register, and wordplay.",
+  "version": 1
+}
