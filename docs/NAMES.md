@@ -865,3 +865,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 혈주 | **Blood Lord** | Title of the unidentified young man encountered by Han Su. |
 | 진천뢰 | **Heaven-Shaking Thunder** | Powerful gunpowder explosive named in the Blood Lord's false threat to lure Hong Dao away. |
 | 사성 | **Four Saints** | Rank the Blood Lord says Jeok Cheongang might have attained if the Great Faction War had continued another year. |
+| 염라 | **Yama** | Buddhist lord of the underworld invoked as the one awaiting the dead. |
+| 절체절명 | **Life-or-Death Crisis** | Sudden System Quest forcibly accepted during the confrontation at Mount Song. |
