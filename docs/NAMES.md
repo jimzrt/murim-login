@@ -840,3 +840,13 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 한수 | **Han Su** | Scholar-like Dark Heaven operative who kills a Hidden Shadow Pavilion messenger. |
 | 염호 | **Flame Tiger** | Red-bearded Dark Heaven operative and Han Su's longtime friend. |
 | 불장 | **Buddhist Staff** | Generic term in Hong Dao's final words; the specific treasure is 녹옥불장. |
+| 굉천 | **Hongcheon** | Hong Dao's youngest Junior Brother; Supreme Peak Shaolin master defending the temple. |
+| 백중 | **Baekjung** | Traditional Buddhist observance during which the Shaolin attack occurs. |
+| 오악 | **Five Sacred Mountains** | Mountain grouping that includes Mount Song. |
+| 태산북두 | **Mount Tai and Northern Dipper of the Murim** | Honorific description of Shaolin's standing in the Murim. |
+| 계인 | **Buddhist precept seals** | Seals carved into the foreheads of Shaolin martial monks. |
+| 백보신권 | **Hundred-Step Divine Fist** | Hongcheon's named martial art. |
+| 천주 | **Lord of Heaven** | Authority invoked by the masked attackers. |
+| 음양쌍괴 | **Yin-Yang Twin Freaks** | Shared epithet of Flame Tiger and Han Su. |
+| 범공 | **Beomgong** | Dharma name of a Shaolin monk killed by Han Su during the Great Faction War. |
+| 면벽동 | **Face-Wall Cave** | Shaolin cave where Unnamed is located. |

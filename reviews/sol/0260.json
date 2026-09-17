@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "Merely being acquainted with Jongni Chu could be enough to get Cheongpung beaten half to death.",
+      "defect": "The draft makes the punishment explicitly near-fatal, while the source uses a colorful but less specific expression for undergoing a severe beating or punishment.",
+      "id": "F01",
+      "rationale": "The replacement preserves the threat of physical punishment without adding the unsupported degree implied by “half to death.”",
+      "replacement": "Merely being acquainted with Jongni Chu could be enough to earn Cheongpung a sound thrashing.",
+      "severity": "minor",
+      "source": "종리추와 친분이 있다는 사실 하나만으로도 치도곤을 치를 수도 있다."
+    },
+    {
+      "confidence": 0.9,
+      "current": "On a peaceful Baekjung afternoon,[^1] hundreds of masked men had appeared out of nowhere and continued their slaughter with emotionless eyes.",
+      "defect": "The source places the attack in broad daylight or the middle of the day, not specifically in the afternoon.",
+      "id": "F02",
+      "rationale": "대낮 denotes full or broad daylight; “afternoon” narrows and shifts the stated time.",
+      "replacement": "On that peaceful Baekjung Day,[^1] in broad daylight, hundreds of masked men appeared out of nowhere and continued their slaughter with emotionless eyes.",
+      "severity": "minor",
+      "source": "평화롭던 백중 대낮, 홀연히 나타난 수백의 복면인들은 무감각한 눈빛으로 살행을 이어 갔다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "More than a dozen masters were crushed by a single attack.",
+      "defect": "The draft changes the quantity from ten-odd masters to more than twelve.",
+      "id": "F03",
+      "rationale": "십수 명 means ten-some or more than ten people and can include eleven or twelve, which “more than a dozen” excludes.",
+      "replacement": "More than ten masters were crushed by a single attack.",
+      "severity": "critical",
+      "source": "단 일수에 십수 명의 고수가 바스러지는 압도적인 광경."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“What does that matter? All you need to know is that we’re the ones who will grab your shiny pate and yank it clean off.”",
+      "defect": "The draft changes Flame Tiger’s singular, self-aggrandizing claim into a plural claim on behalf of both men.",
+      "id": "F04",
+      "rationale": "분 refers to the singular person speaking; Han Su’s immediately following question about whether Flame Tiger will handle Hongcheon confirms that Flame Tiger is claiming the task for himself.",
+      "replacement": "“What does that matter? All you need to know is that I’m the one who’ll grab your shiny pate and rip it off.”",
+      "severity": "critical",
+      "source": "“그게 무슨 상관이냐? 네 번들거리는 대가리를 잡고 뽑아 줄 분이라는 것만 알면 되는 것을.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Ah, now that I think of it, I’d briefly forgotten you were here. Please accept my condolences.”",
+      "defect": "The draft invents “you were here” as the object of what Han Su forgot, turning the line into an unsupported personal slight.",
+      "id": "F05",
+      "rationale": "The Korean deliberately leaves the forgotten matter unstated before Han Su offers his condolences.",
+      "replacement": "“Ah, come to think of it, I’d forgotten for a moment. Please accept my condolences.”",
+      "severity": "major",
+      "source": "“아, 그러고 보니 잠시 잊고 있었군. 심심한 유감의 뜻을 표하네.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“On our way here, we heard that someone had died. Dharma King Hong Dao—the very Senior Brother you mentioned.”",
+      "defect": "The draft says Hongcheon mentioned his Senior Brother, but he has not done so in the dialogue.",
+      "id": "F06",
+      "rationale": "바로 자네 사형 identifies Hong Dao as Hongcheon’s Senior Brother; it does not refer back to a prior mention.",
+      "replacement": "“On our way here, we heard that someone had died. Dharma King Hong Dao—your Senior Brother.”",
+      "severity": "minor",
+      "source": "“올라오는 길에 한 사람이 죽었다는 소식을 들었지 뭔가. 법왕 굉도, 바로 자네 사형 말일세.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "As if they had sensed their leaders’ aura, the masked men took a step forward with emotionless eyes.",
+      "defect": "The draft changes the singular “leader” into multiple leaders.",
+      "id": "F07",
+      "rationale": "우두머리 is singular, so the masked men are responding to one leader’s aura rather than both old men collectively.",
+      "replacement": "As if they had sensed their leader’s aura, the masked men took a step forward with emotionless eyes.",
+      "severity": "critical",
+      "source": "우두머리의 기세를 느낀 듯, 복면인들이 무감각한 눈빛으로 한 걸음을 내디뎠다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "The Yin-Yang Twin Freaks moved their hands with dark smiles.",
+      "defect": "The generic “moved their hands” loses the specific flicking gesture that immediately precedes the renewed attack.",
+      "id": "F08",
+      "rationale": "손을 떨쳤다 describes a sharp flick of the hands, a concrete command-like action rather than unspecified movement.",
+      "replacement": "The Yin-Yang Twin Freaks flicked their hands, dark smiles on their faces.",
+      "severity": "major",
+      "source": "음양쌍괴가 짙은 미소와 함께 손을 떨쳤다."
+    }
+  ],
+  "summary": "Several actionable fidelity errors alter subjects, quantities, actions, and deliberately omitted information; additional localized issues over-specify punishment and time of day.",
+  "version": 1
+}
