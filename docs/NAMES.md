@@ -667,3 +667,14 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 카타르 | **Qatar** | Country of Prince Cheonsur. |
 | 천수르 | **Cheonsur** | Qatar’s prince who wins the auction for Carus’s remains. |
 | 박형석 | **Park Hyeongseok** | Online commenter who identifies himself during the argument. |
+| 낙양 | **Luoyang** | Historic city in Henan Province and the chapter’s setting. |
+| 하남성 | **Henan Province** | Province containing Luoyang. |
+| 회면 | **huimian noodles** | Famous Henan noodle dish served at the inn; explained in a footnote. |
+| 백주 | **baijiu** | Strong distilled liquor ordered at the inn. |
+| 동천파 | **Dongcheon Sect** | Long-established dark-path faction ruling Luoyang’s nights. |
+| 동천방 | **Dongcheon Gang** | Source variant used in the description of Heukgeol’s epithet. |
+| 흑걸 | **Heukgeol** | Lower-ranking Dongcheon Sect officer known as its lone beast. |
+| 궁소 | **Gungsu** | Dark-path swordsman killed during the Dongcheon Sect’s initial attack. |
+| 화주 | **strong liquor** | Liquor stored and consumed by the dark-path swordsmen. |
+| 박도 | **broad-bladed saber** | Rough weapon swung by the bald swordsman. |
+| 아미타불 | **Amitabha** | Buddhist invocation spoken by the unidentified arriving group. |

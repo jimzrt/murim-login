@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The inn’s door exploded into splinters, and half a dozen swordsmen poured inside.",
+      "defect": "The source gives an approximate count of five or six, while “half a dozen” fixes the number at six.",
+      "id": "F01",
+      "rationale": "대여섯 명 explicitly means five or six people, so the uncertainty in the quantity must be preserved.",
+      "replacement": "The inn’s door exploded into splinters, and five or six swordsmen poured inside.",
+      "severity": "critical",
+      "source": "객잔의 문이 산산조각 남과 동시에, 대여섯 명의 칼잡이들이 쏟아졌다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The orthodox faction, the unorthodox faction, and the dark-path figures coexisted, while thousands of miles away stood the Demonic Cult, filled with fiends and monsters.",
+      "defect": "The draft converts 수천 리 into thousands of miles without accounting for the much shorter traditional unit, greatly increasing the stated distance.",
+      "id": "F02",
+      "rationale": "The source specifies several thousand li, not several thousand miles; retaining and defining the traditional unit preserves the quantity.",
+      "replacement": "The orthodox faction, the unorthodox faction, and dark-path figures coexisted, while several thousand li away[^2] stood the Demonic Cult, filled with fiends and monsters.\n\n[^2]: A *li* is a traditional East Asian unit of distance, commonly approximated as one-third of a mile.",
+      "severity": "critical",
+      "source": "정파와 사파, 흑도가 공존하고 수천 리 밖에는 흉신악살들이 가득하다는 마교가 있다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“You should’ve looked where you were lying down before stretching out your legs.”",
+      "defect": "The Korean idiom has been rendered word for word, producing unnatural English and obscuring the warning that the victim should have known whom he was challenging.",
+      "id": "F03",
+      "rationale": "누울 자리를 보고 다리를 뻗다 means to assess the situation or know one's place before acting, rather than literally inspect a place to lie down.",
+      "replacement": "“You should’ve known who you were messing with.”",
+      "severity": "minor",
+      "source": "“그러게, 누울 자리를 보고 다리를 뻗었어야지.”"
+    },
+    {
+      "confidence": 0.9,
+      "current": "“I am the lone beast of the mighty Dongcheon Gang, Heukgeol—”",
+      "defect": "The unlisted sobriquet 흑걸 is romanized without translation or explanation.",
+      "id": "F04",
+      "rationale": "The introduction treats 흑걸 as a meaningful sobriquet; the required note preserves the name while making its sense available to the reader.",
+      "replacement": "“I am the lone beast of the mighty Dongcheon Gang, Heukgeol[^3]—”\n\n[^3]: *Heukgeol* is a sobriquet meaning “Black Hero.”",
+      "severity": "minor",
+      "source": "“나는 대 동천방의 고독한 맹수, 흑걸이라 한…….”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "The bald man at the front let out a thunderous shout and swung a crude dao.",
+      "defect": "The draft mistakes 박도, a weapon type, for an ordinary dao described as crude.",
+      "id": "F05",
+      "rationale": "박도(朴刀) denotes a broad-bladed saber; 투박한 supplies the separate rough or ungainly description.",
+      "replacement": "The bald man at the front let out a thunderous shout and swung a rough-looking broad-bladed saber.",
+      "severity": "minor",
+      "source": "가장 먼저 달려든 민머리 사내가 벼락같은 고함과 함께 투박한 박도(朴刀)를 휘둘렀다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Afraid he might change his mind, they hurried out of the inn. Words like arrows followed them from behind.",
+      "defect": "The draft invents a fear that the young man will change his mind; the source says they hurry for fear of being stopped or detained.",
+      "id": "F06",
+      "rationale": "붙잡힐세라 describes their fear of being caught or held back, without attributing a change of mind to the young man.",
+      "replacement": "Afraid they might be stopped, they hurried out of the inn. Words like arrows followed them from behind.",
+      "severity": "minor",
+      "source": "혹여 붙잡힐세라 서둘러 객잔을 빠져나가는 그들의 등 뒤로 화살 같은 말이 따라붙었다."
+    }
+  ],
+  "summary": "Two quantity errors alter scene facts, and several localized issues affect terminology, idiom, and character voice.",
+  "version": 1
+}
