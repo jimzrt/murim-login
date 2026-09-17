@@ -1,6 +1,6 @@
 # Kim Jinsoo (김진수)
 
-- **Safe through:** Chapter 294
+- **Safe through:** Chapter 295
 - **Aliases:** None
 - **Role:** Peace Guild rookie Hunter who graduated first in the training camp’s B-rank course, was the first person to destroy a Golem core during the preceding raid, takes command of rookie formations during raids, and serves as the informal leader of the third-week Tosa mastiffs and Jin Taekyung’s trusted operational right hand.
 - **Personality:** Confident, self-assured, good-natured, and openly proud of his abilities without being obsequious.

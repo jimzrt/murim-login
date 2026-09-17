@@ -1,16 +1,15 @@
 # Translation State
 
-- Last completed: 294
-- Next chapter: 295
-- Current block: 290–294 (5/5)
-- Latest translation: `translations/0294.md`
-- Latest summary: `summaries/beats/0294.md`
-- Safe profiles through: chapter 294
+- Last completed: 295
+- Next chapter: 296
+- Current block: 295–299 (1/5)
+- Latest translation: `translations/0295.md`
+- Latest summary: `summaries/beats/0295.md`
+- Safe profiles through: chapter 295
 
 ## Current Block
 
-- A week after Team Leader Choi’s negotiations with Lee Jungryong’s side, the Peace Guild has secured exclusive rights to more than twenty Gates, real estate, and an enormous cash compensation, made possible by holding ten Black Hunters and Park Tae Seop’s dispatched aides. Jin Taekyung leads more than fifty Peace Guild Hunters into the A-rank Gate Black Wizard’s Black Forest for another harsh training raid.
-- Taekyung uses himself as bait to draw roughly 150 undead monsters toward the Guild’s formation, forcing the inexperienced recruits to fight under pressure while the veteran third-week trainees maintain discipline. After the battle line forms, three Skeleton Knights appear; two kneel before the first, which transforms into a Level 105 Skeleton Warlord and orders the humans to come down.
+- The Skeleton Knight that had absorbed two others evolved into a Level 105 Skeleton Warlord, a Named Monster capable of speech. Its Summon the Dead skill raised the undead army to more than three hundred and added two Skeleton Knights; its Commander’s Rally then increased every monster’s Level by five and strengthened their physical and magical abilities. Jin Taekyung ordered the Peace Guild members to retreat through the Gate while he stayed behind to delay the army, allowing Kim Jinsoo and the others to escape. After confirming that he was alone with the undead army, Taekyung revealed that his apparent sacrifice had been a ploy to secure the entire army as EXP and launched One Annihilation against them.
 
 ## Open Questions
 
@@ -20,7 +19,7 @@
 - Will Im Kkeokjeong’s reattached arms and trauma recover sufficiently for him to return to Hunter work?
 - What is the origin of the large qi mass in Team Leader Choi’s dantian?
 - What prevented Taekyung from completing his breakthrough into the Supreme Peak realm?
-- What is the origin and nature of the Skeleton Warlord that appeared in Black Wizard’s Black Forest?
+- What caused the Skeleton Warlord’s unusual evolution, and what further abilities does it possess?
 
 ## Exceptional Decision
 
@@ -30,6 +29,7 @@
 - Render 삼화취정 as “Three Flowers Gather at the Crown,” 무아지경 as “Trance,” 내가고수 as “I’m a Master,” and 칠 성 as “Seven Stars.”
 - Render 수련자 as “Trainee” and 훈련 교관 as “Training Instructor.”
 - Render 흑마법사의 검은 숲 as “Black Wizard’s Black Forest,” 도사견 as “Tosa mastiff,” and 댕댕이 as “pup.”
+- Render 망자 소환 as “Summon the Dead” and 사령관의 고무 as “Commander’s Rally.”
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
