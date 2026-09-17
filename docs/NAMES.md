@@ -654,3 +654,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 파이어 레인 | **Fire Rain** | A-Rank mage spell used by Butler Kim. |
 | 개보린 | **Dogvorin** | Taekyung's dog-themed pun on Gevorin, a Korean painkiller. |
 | 대법원 | **Supreme Court** | Court invoked in Won Myunghoon's metaphor for an irreversible verdict. |
+| 어스퀘이크 | **Earthquake** | Named spell cast by Butler Kim. |
