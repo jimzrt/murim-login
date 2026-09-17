@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "That guy needed some training. If a teammate looked like they were in danger, he should have picked up a rock lying nearby and at least tried to distract the enemy. What was he doing?",
+      "defect": "The draft assigns the unidentified rookie a male gender even though the Korean subject remains ungendered.",
+      "id": "F01",
+      "rationale": "The repeated ungendered pronouns 쟤 and 저게 identify only a nearby rookie, not the rookie’s gender.",
+      "replacement": "That rookie needed some training. If a teammate looked like they were in danger, they should have picked up a rock lying nearby and at least tried to distract the enemy. What were they doing?",
+      "severity": "major",
+      "source": "쟤는 교육 좀 받아야겠다. 팀원이 위험에 처한 것 같으면 근처에 굴러다니는 짱돌이라도 주워서 견제해 줘야지. 저게 뭐 하는 짓이야."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Crack!",
+      "defect": "The sound effect incorrectly suggests cracking or snapping rather than the resonant metallic impact of two fists colliding.",
+      "id": "F02",
+      "rationale": "쩌엉 depicts a loud ringing impact, reinforced immediately afterward by 금속음, “a metallic sound.”",
+      "replacement": "Clang!",
+      "severity": "minor",
+      "source": "쩌엉!"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“All it takes is a year of getting worked to death by a Supreme Peak master with dementia.”",
+      "defect": "The draft shifts the effort from Taekyung training desperately under the master to the master working him to death.",
+      "id": "F03",
+      "rationale": "죽어라 배우면 means “if you train/learn like hell,” describing the student’s intense effort rather than literally being worked to death by the teacher.",
+      "replacement": "“All it takes is training like hell for a year under a Supreme Peak master with dementia.”",
+      "severity": "major",
+      "source": "치매 걸린 초절정 고수한테 일 년만 죽어라 배우면 충분해요."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“A second-awakened Hunter who was once the lowest-ranked F-rank becoming this powerful in only a few months? If I hadn’t seen it myself, I wouldn’t have believed it.”",
+      "defect": "The draft replaces Taekyung’s characterization as a perennial F-rank Hunter with the redundant and unsupported claim that he was the lowest-ranked F-rank.",
+      "id": "F04",
+      "rationale": "만년 F급 means someone who remained F-rank year after year; it does not mean the lowest-ranked person within F-rank. 진태경 씨를 직접 보지 못했다면 also refers specifically to seeing Taekyung.",
+      "replacement": "“A perennial F-rank Hunter becoming this powerful in only a few months? If I hadn’t seen you myself, I wouldn’t have believed it.”",
+      "severity": "major",
+      "source": "만년 F급 헌터가 고작 몇 개월 만에 이렇게까지 강해졌다? 진태경 씨를 직접 보지 못했다면 믿지 않았을 겁니다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I may not look it, but I enjoy reading novels.”",
+      "defect": "“I may not look it” is unidiomatic English and obscures the contrast with Choi’s outward appearance.",
+      "id": "F05",
+      "rationale": "보기보다 means “more than one might think from appearances,” which the replacement expresses naturally.",
+      "replacement": "“I like reading novels more than you might think.”",
+      "severity": "minor",
+      "source": "제가 보기보다 소설 읽는 걸 좋아하거든요."
+    },
+    {
+      "confidence": 1.0,
+      "current": "*I achieved my goal, so why do I feel like I might cry?*\n\nI trudged away like the tragic male lead in a romance.\n\n*Hah. I loved you…*",
+      "defect": "The draft moves Taekyung’s mock-farewell thought until after he starts walking, altering the source’s comedic sequence.",
+      "id": "F06",
+      "rationale": "In the source, Taekyung delivers the melodramatic internal farewell first and then physically acts like a tragic male lead.",
+      "replacement": "*I achieved my goal, so why do I feel like I might cry?*\n\n*Hah. I loved you…*\n\nI trudged away like the tragic male lead in a romance.",
+      "severity": "minor",
+      "source": "목적은 달성했는데 왜 눈물이 날 것 같지.\n\n‘하, 사랑했다…….’\n\n비련의 남주인공처럼 터벅터벅 걸음을 옮겼다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "*The EXP was delicious.*",
+      "defect": "The literal food collocation sounds unnatural in English and fails to reproduce the casual gaming idiom.",
+      "id": "F07",
+      "rationale": "꿀맛 describes something as exceptionally satisfying or rewarding; “sweet” preserves both the figurative taste image and the game-register meaning.",
+      "replacement": "*That EXP was so sweet.*",
+      "severity": "minor",
+      "source": "경험치가 아주 꿀맛이더라."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“What’s good is good. Let it go.”",
+      "defect": "The first sentence is a Korean-syntax calque rather than natural conversational English.",
+      "id": "F08",
+      "rationale": "좋은 게 좋은 거지 pragmatically argues that the result was satisfactory and the issue should therefore be dropped.",
+      "replacement": "“Come on, it all worked out. Let it go.”",
+      "severity": "minor",
+      "source": "좋은 게 좋은 거지. 넘어가."
+    }
+  ],
+  "summary": "The draft contains one unsupported subject assignment, one consequential mistranslation of Taekyung’s former status, and several localized issues involving action mechanics, training agency, natural English, and comedic sequencing.",
+  "version": 1
+}
