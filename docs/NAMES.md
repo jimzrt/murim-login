@@ -894,3 +894,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 블랙 헌터 | **Black Hunter** | Unregistered Awakened person who has received systematic training comparable to a Hunter. |
 | 미등록자 | **unregistered Awakened person** | Awakened person who fails to register with the Association within the designated period. |
 | 특수 치료 병동 | **Special Treatment Ward** | Hospital ward where healers, rather than ordinary doctors, treat severe injuries. |
+| 통합당 | **United Party** | Political party identified in the article about Yoon Seoyoon. |
+| 윤서윤 | **Yoon Seoyoon** | United Party Supreme Council member and assemblywoman named in a political article. |
