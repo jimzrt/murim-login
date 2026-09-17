@@ -966,3 +966,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 스켈레톤 아처 | **Skeleton Archer** | Skeleton subtype defeated during the Warlord's EXP harvest. |
 | 서울 중앙 협회장 | **Seoul Branch President** | Hunter Association official who delayed the rescue response and authorized the Peace Guild's entry. |
 | 경호팀장 | **Head of Security** | Go Jun's security-team office under Lee Jungryong. |
+| 이우중 | **Lee Woojoong** | Seoul Branch President of the Hunters Association. |
+| 서울 중앙지부 헌터 협회장 | **Seoul Branch President** | Source title for Lee Woojoong; variant of the established Seoul Association title. |

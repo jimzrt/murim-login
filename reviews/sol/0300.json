@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "No, forget about them. Why were the people who should have been circulating their qi and recovering here?",
+      "defect": "The draft omits the strongly colloquial emphasis 쎄 빠지게 and adds “recovering,” which is absent from the source.",
+      "id": "F01",
+      "rationale": "The source emphasizes that they should be working extremely hard at circulating their qi; it does not separately state that they are recovering.",
+      "replacement": "No, forget about them. Why were the people who should’ve been busting their asses circulating their qi here?",
+      "severity": "major",
+      "source": "아니, 쟤들은 그렇다 치고 쎄 빠지게 운기조식 하고 있어야 할 인간들이 왜 여기 있어?"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“I think I’ll live a long, healthy life, remain free of illness, and never age or die.”",
+      "defect": "“Remain free of illness” duplicates 무병 from the first phrase and omits 별래무양, meaning remaining safe and free from mishap.",
+      "id": "F02",
+      "rationale": "The replacement preserves all three escalating blessings in the joke: health and longevity, freedom from mishap, and immortality.",
+      "replacement": "“I think I’ll live a long and healthy life, stay safe and sound, and never grow old or die.”",
+      "severity": "minor",
+      "source": "“무병장수, 별래무양, 불로불사 할 것 같은데.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Look at these people.”",
+      "defect": "“These people” neutralizes the contemptuous 이것들 as Taekyung realizes what the two men have done.",
+      "id": "F03",
+      "rationale": "이것들 is dismissive and insulting here, consistent with the profanity and cesspool metaphor that immediately follow.",
+      "replacement": "“Would you look at these bastards.”",
+      "severity": "minor",
+      "source": "“이것들 봐라.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "If garbage like this was scattered across the road, it would be hard to walk without a care in the world.",
+      "defect": "Changing 똥 to “garbage” breaks the deliberate repetition of the shit-and-cesspool metaphor.",
+      "id": "F04",
+      "rationale": "The source repeatedly calls the men 똥, making Taekyung’s need to clean them up a sustained crude metaphor.",
+      "replacement": "If pieces of shit like these were scattered along the road, it would be hard to walk around without a care in the world.",
+      "severity": "minor",
+      "source": "이런 똥들이 길가에 뿌려져 있으면 맘 놓고 걷기 힘들 테니까."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Introductions could wait.",
+      "defect": "The Guild members are already known to Taekyung, so 인사 means greeting or acknowledging them, not making introductions.",
+      "id": "F05",
+      "rationale": "Taekyung postpones greeting his stunned companions while he confronts Go Jun and the Association President.",
+      "replacement": "Greetings could wait.",
+      "severity": "minor",
+      "source": "인사는 나중의 일이다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "You might as well have said you had gynecomastia.",
+      "defect": "The draft turns the name-based insult into a claim that Lee Woojoong has a medical condition, rather than substituting the similar-sounding word as his self-identification.",
+      "id": "F06",
+      "rationale": "Taekyung is mocking the bare name 이우중 by replacing it with the similar-sounding 여유증; the source does not say that Lee has gynecomastia.",
+      "replacement": "You might as well have said, “Gynecomastia.”",
+      "severity": "minor",
+      "source": "차라리 여유증이라고 하시든가."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“You’re the ones who should be afraid. Behind me are only the Ares Guild and the Association Hunters. If you want to get out of here alive, you’d better watch your mouth.”",
+      "defect": "The placement of “only” makes Go Jun’s forces sound limited, while the source threatens that everyone behind him belongs to the Ares Guild or the Association and is therefore on his side.",
+      "id": "F07",
+      "rationale": "The source explains the mechanics of the threat: the hundreds present are affiliated with Go Jun’s side, leaving Taekyung and his allies surrounded.",
+      "replacement": "“You’re the ones who should be afraid. Everyone behind me is either an Ares Guild Hunter or an Association Hunter. If you want to get out of here alive, you’d better watch your mouth.”",
+      "severity": "major",
+      "source": "“겁먹어야 하는 건 네놈들이야. 지금 내 뒤에 있는 건 우리 아레스 길드와 협회 소속 헌터들뿐이거든. 살아서 나가고 싶으면 입조심하는 게 좋을 거다.”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "Go Jun’s eyes sank.",
+      "defect": "“His eyes sank” is not natural English for the sudden cold, subdued change in his gaze.",
+      "id": "F08",
+      "rationale": "착 가라앉았다 describes his gaze abruptly settling and darkening after the taunt lands.",
+      "replacement": "Go Jun’s gaze turned cold.",
+      "severity": "minor",
+      "source": "석고준의 눈동자가 착 가라앉았다."
+    }
+  ],
+  "summary": "Two major issues alter emphatic register and the mechanics of Go Jun’s threat; several minor issues lose source-supported humor, contempt, or natural phrasing.",
+  "version": 1
+}
