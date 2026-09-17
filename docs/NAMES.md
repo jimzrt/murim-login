@@ -874,3 +874,12 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 토토 | **Toto** | Gambling or lottery reference contrasted with Dodo in Taekyung's joke. |
 | 낙양괴의 | **Luoyang Strange Physician** | Renowned Central Plains physician; eccentric and fiercely temperamental, he examined Jeok Cheongang. |
 | 염왕채 | **Yama's Debt** | Taekyung's joking term for a ruinous loan or loan-shark debt. |
+| 골렘 | **Golem** | Magical rock-based monster classification. |
+| 스톤 골렘 | **Stone Golem** | A-rank stone-bodied monster faced by the rookie Hunters. |
+| 아이언 골렘 | **Iron Golem** | Higher-ranking golem type appearing in a group after the Stone Golem raid. |
+| 헤이스트 | **Haste** | Buff spell cast by Song Song. |
+| 스트렝스 | **Strength** | Strength-enhancing buff spell cast by Song Song. |
+| 힐링 | **Healing** | Healing spell cast by Song Song. |
+| 파이어 월 | **Fire Wall** | Fire spell cast by Butler Kim. |
+| 내가중수법 | **Inner-Family Heavy Hand** | Taekyung's joking comparison for his mother's painful palm strike. |
+| 모친신장 | **Mother's Palm Strike** | Taekyung's humorous name for the beating delivered by his mother. |
