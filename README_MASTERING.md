@@ -43,8 +43,8 @@ Runtime artifacts go under:
 
 ```text
 reviews/mastering/0001/
-    source.txt                 # immutable transaction snapshot
     baseline.md               # immutable accepted-English snapshot
+source/0001.txt               # Korean original (private checkout; hashed in state.json)
     master-packet.md
     sol.md
     sol-qa.json

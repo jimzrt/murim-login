@@ -94,12 +94,20 @@ def parse_chapters(spec: str) -> list[int]:
     return sorted(out)
 
 
+def chapter_source_file(number: int) -> Path:
+    try:
+        from tools.chapter import chapter_path
+    except ModuleNotFoundError:
+        from chapter import chapter_path
+    return chapter_path(number)
+
+
 def chapter_paths(number: int) -> dict[str, Path]:
     work = WORK_ROOT / f"{number:04d}"
     return {
         "work": work,
         "state": work / "state.json",
-        "source": work / "source.txt",
+        "source": chapter_source_file(number),
         "baseline": work / "baseline.md",
         "master_packet": work / "master-packet.md",
         "sol": work / "sol.md",
@@ -304,8 +312,8 @@ def create_or_verify_state(number: int) -> tuple[dict, dict[str, Path]]:
         state = json.loads(read_text(p["state"]))
         if state.get("source_sha256") != source_hash:
             raise ValueError(f"chapter {number}: Korean source changed since mastering began")
-        if not p["source"].exists() or not p["baseline"].exists():
-            raise ValueError(f"chapter {number}: mastering snapshots are missing")
+        if not p["baseline"].exists():
+            raise ValueError(f"chapter {number}: mastering baseline snapshot is missing")
         if not p["translation"].exists():
             raise FileNotFoundError(f"missing accepted translation: {p['translation'].relative_to(ROOT)}")
         live_hash = sha256_text(normalize_chapter(read_text(p["translation"])))
@@ -317,7 +325,6 @@ def create_or_verify_state(number: int) -> tuple[dict, dict[str, Path]]:
         return state, p
     _, baseline, _, p = snapshot(number)
     p["work"].mkdir(parents=True, exist_ok=True)
-    atomic_text(p["source"], source.rstrip() + "\n")
     atomic_text(p["baseline"], baseline)
     state = {
         "version": 1,
@@ -1550,7 +1557,7 @@ def command_reset_for_remaster(number: int) -> None:
         raise ValueError(f"chapter {number}: missing mastering snapshots")
     state = json.loads(read_text(p["state"]))
     atomic_text(p["translation"], read_text(p["baseline"]))
-    keep = {p["source"].resolve(), p["baseline"].resolve(), p["state"].resolve()}
+    keep = {p["baseline"].resolve(), p["state"].resolve()}
     for path in p["work"].rglob("*"):
         if path.is_file() and path.resolve() not in keep:
             path.unlink()

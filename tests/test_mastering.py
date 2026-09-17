@@ -19,6 +19,12 @@ def test_parse_chapters():
     assert mastering.parse_chapters("1-3,5,3") == [1, 2, 3, 5]
 
 
+def test_chapter_paths_reads_source_checkout():
+    paths = mastering.chapter_paths(161)
+    assert paths["source"] == mastering.ROOT / "source" / "0161.txt"
+    assert paths["source"] != paths["work"] / "source.txt"
+
+
 def test_parse_json_object_escapes_interior_quotes():
     raw = (
         '{\n'
