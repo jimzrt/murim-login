@@ -1,8 +1,8 @@
 # Jin Hayeon (진하연)
 
-- **Safe through:** Chapter 270
+- **Safe through:** Chapter 303
 - **Aliases:** Hayeon; Taekyung’s younger sister
-- **Role:** High-school senior preparing for the college entrance exam
+- **Role:** High-school senior who has completed the college entrance exam and believes she missed a perfect score by one English question
 - **Personality:** Sharp-tongued, academically gifted, impatient with Taekyung’s evasions, warmer beneath the teasing, and intensely fond of cats
 - **Voice:** Bratty, fast, blunt sibling banter; turns brighter when discussing school and her interests
 - **Relationships:** Taekyung’s younger sister; daughter of Taekyung’s mother
