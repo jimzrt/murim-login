@@ -3,6 +3,7 @@ import { Picture } from "astro:assets";
 import Base from "../layouts/Base.astro";
 import cover from "../assets/cover.jpg";
 import Remark42Counters from "../components/Remark42Counters.astro";
+import ViewCounters from "../components/ViewCounters.astro";
 import TranslationProgress from "../components/TranslationProgress.astro";
 import {
   allChapters,
@@ -259,6 +260,15 @@ const polished = new Set(loadTranslationProgress().polished);
                         {isPolished && (
                           <span class="chapter-badge chapter-badge--polished" title="Polished">Polished</span>
                         )}
+                        <span class="chapter-views" title="Views">
+                          <svg class="chapter-views__icon" viewBox="0 0 16 16" aria-hidden="true" focusable="false">
+                            <path
+                              fill="currentColor"
+                              d="M8 3.25C4.75 3.25 2.11 5.58 1 8.5c1.11 2.92 3.75 5.25 7 5.25s5.89-2.33 7-5.25c-1.11-2.92-3.75-5.25-7-5.25Zm0 8.75a3.5 3.5 0 1 1 0-7 3.5 3.5 0 0 1 0 7Zm0-1.5a2 2 0 1 0 0-4 2 2 0 0 0 0 4Z"
+                            />
+                          </svg>
+                          <span class="view-counter" data-chapter={item.chapter}>—</span>
+                        </span>
                         <span class="chapter-comments" title="Comments">
                           <svg class="chapter-comments__icon" viewBox="0 0 16 16" aria-hidden="true" focusable="false">
                             <path
@@ -286,4 +296,5 @@ const polished = new Set(loadTranslationProgress().polished);
     </section>
   </main>
   <Remark42Counters />
+  <ViewCounters />
 </Base>

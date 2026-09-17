@@ -15,7 +15,7 @@ from pathlib import Path
 from urllib.parse import urlparse
 
 from tools.github_app import GitHubApp, GitHubError
-from tools.pageviews_ingest import start_background as start_pageviews
+from tools.pageviews_ingest import query_counts, start_background as start_pageviews
 from tools.line_report import (
     LABEL,
     NOTE_MAX,
@@ -37,6 +37,7 @@ from tools.line_report import (
 
 ISSUE_MARKER = "<!-- line-report-issue {n} -->"
 BRANCH_RE_PREFIX = "report-line-"
+CORS_POST_PATHS = {"/report-line", "/view-counts"}
 
 
 class RateLimiter:
@@ -460,6 +461,27 @@ def verify_signature(secret: str, payload: bytes, header: str) -> bool:
     return hmac.compare_digest(expected, header)
 
 
+def parse_chapter_list(raw: bytes) -> list[int] | None:
+    try:
+        payload = json.loads(raw.decode("utf-8") or "[]")
+    except json.JSONDecodeError:
+        return None
+    if not isinstance(payload, list):
+        return None
+    chapters: list[int] = []
+    for item in payload:
+        try:
+            chapter = int(item)
+        except (TypeError, ValueError):
+            return None
+        if chapter <= 0:
+            return None
+        chapters.append(chapter)
+    if len(chapters) > 500:
+        return None
+    return chapters
+
+
 def _client_ip(handler: BaseHTTPRequestHandler) -> str:
     forwarded = handler.headers.get("X-Forwarded-For", "")
     if forwarded:
@@ -498,7 +520,7 @@ def make_handler(service: LineReportService):
 
         def do_OPTIONS(self) -> None:
             origin = self._cors()
-            if self.path.rstrip("/") != "/report-line":
+            if self.path.rstrip("/") not in CORS_POST_PATHS:
                 self._write(404, {"error": "not found"})
                 return
             self._write(204, b"", origin=origin, content_type="text/plain")
@@ -528,6 +550,14 @@ def make_handler(service: LineReportService):
                     return
                 status, body = service.create_report(payload, _client_ip(self))
                 self._write(status, body, origin=origin)
+                return
+            if path == "/view-counts":
+                origin = self._cors()
+                chapters = parse_chapter_list(raw)
+                if chapters is None:
+                    self._write(400, {"error": "expected JSON array of chapter numbers"}, origin=origin)
+                    return
+                self._write(200, query_counts(chapters), origin=origin)
                 return
             if path == "/github-hooks/murim-login":
                 signature = self.headers.get("X-Hub-Signature-256", "")

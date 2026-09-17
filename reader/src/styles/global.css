@@ -1308,8 +1308,27 @@ html[data-theme="light"] .system-comments {
   font-variant-numeric: tabular-nums;
 }
 
-.chapter-ol__meta .remark42__counter {
+.chapter-ol__meta .remark42__counter,
+.chapter-ol__meta .view-counter {
   opacity: 1;
+}
+
+.chapter-views {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.22rem;
+  opacity: 0.72;
+}
+
+.chapter-views--inline {
+  opacity: 1;
+}
+
+.chapter-views__icon {
+  width: 0.78rem;
+  height: 0.78rem;
+  flex: 0 0 auto;
+  opacity: 0.85;
 }
 
 .chapter-comments {

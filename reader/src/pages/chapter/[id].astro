@@ -4,6 +4,7 @@ import Base from "../../layouts/Base.astro";
 import ChapterNav from "../../components/ChapterNav.astro";
 import ChapterDock from "../../components/ChapterDock.astro";
 import Remark42 from "../../components/Remark42.astro";
+import ViewCounters from "../../components/ViewCounters.astro";
 import Previously from "../../components/Previously.astro";
 import { allChapters, neighbors, readingMinutes, toRef, type ChapterEntry } from "../../lib/chapters";
 import { loadPreviousSummary } from "../../lib/previousSummary";
@@ -47,6 +48,17 @@ const previously = await loadPreviousSummary(entry.data.chapter);
       <h1 data-pagefind-meta="title">{entry.data.title}</h1>
       <p class="reading-meta">
         {entry.data.chapter} · {minutes} min read
+        {" · "}
+        <span class="chapter-views chapter-views--inline" title="Views">
+          <svg class="chapter-views__icon" viewBox="0 0 16 16" aria-hidden="true" focusable="false">
+            <path
+              fill="currentColor"
+              d="M8 3.25C4.75 3.25 2.11 5.58 1 8.5c1.11 2.92 3.75 5.25 7 5.25s5.89-2.33 7-5.25c-1.11-2.92-3.75-5.25-7-5.25Zm0 8.75a3.5 3.5 0 1 1 0-7 3.5 3.5 0 0 1 0 7Zm0-1.5a2 2 0 1 0 0-4 2 2 0 0 0 0 4Z"
+            />
+          </svg>
+          <span class="view-counter" data-chapter={entry.data.chapter}>—</span>
+          <span class="sr-only"> views</span>
+        </span>
         {polished && (
           <>
             {" · "}
@@ -64,4 +76,5 @@ const previously = await loadPreviousSummary(entry.data.chapter);
     <Remark42 chapter={entry.data.chapter} title={entry.data.title} />
   </main>
   <ChapterDock previous={previous} next={next} />
+  <ViewCounters />
 </Base>

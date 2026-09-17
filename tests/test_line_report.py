@@ -18,7 +18,13 @@ from tools.line_report import (
     parse_revise_command,
     validate_evaluation,
 )
-from tools.report_server import LineReportService, Settings, verify_signature, _issue_from_pull
+from tools.report_server import (
+    LineReportService,
+    Settings,
+    parse_chapter_list,
+    verify_signature,
+    _issue_from_pull,
+)
 
 
 def mark_mastered(root: Path, chapter: int) -> None:
@@ -368,6 +374,12 @@ class ReportServerTest(unittest.TestCase):
     def test_issue_number_from_branch_and_marker(self):
         self.assertEqual(_issue_from_pull({"head": {"ref": "report-line-9-B"}, "body": ""}), 9)
         self.assertEqual(_issue_from_pull({"head": {"ref": "other"}, "body": "<!-- line-report-issue 77 -->"}), 77)
+
+    def test_parse_chapter_list(self):
+        self.assertEqual(parse_chapter_list(b"[160, 161]"), [160, 161])
+        self.assertIsNone(parse_chapter_list(b'{"chapter": 1}'))
+        self.assertIsNone(parse_chapter_list(b"[0]"))
+        self.assertIsNone(parse_chapter_list(b"["))
 
     def test_webhook_hmac(self):
         payload = b'{"ok":true}'

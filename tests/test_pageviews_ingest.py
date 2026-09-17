@@ -1,6 +1,10 @@
+import sqlite3
+import tempfile
 import unittest
+from pathlib import Path
+from unittest.mock import patch
 
-from tools.pageviews_ingest import classify, normalize_path, parse_event
+from tools.pageviews_ingest import classify, normalize_path, parse_event, query_counts
 
 
 def _event(uri: str, ua: str = "Mozilla/5.0", status: int = 200) -> dict:
@@ -32,3 +36,36 @@ class PageviewsIngestTest(unittest.TestCase):
         self.assertIsNone(parse_event(_event("/chapter/160/", "Googlebot"), "salt"))
         self.assertIsNone(parse_event(_event("/pagefind/index.js"), "salt"))
         self.assertIsNone(parse_event(_event("/chapter/160/", status=404), "salt"))
+
+    def test_query_counts(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            db = Path(tmp) / "pageviews.db"
+            conn = sqlite3.connect(db)
+            conn.executescript(
+                """
+                CREATE TABLE pageviews (
+                  id INTEGER PRIMARY KEY,
+                  ts TEXT NOT NULL,
+                  chapter INTEGER,
+                  path TEXT NOT NULL,
+                  status INTEGER NOT NULL,
+                  ip_hash TEXT,
+                  ua TEXT,
+                  referer TEXT,
+                  bytes INTEGER,
+                  duration_ms INTEGER
+                );
+                INSERT INTO pageviews (ts, chapter, path, status) VALUES
+                  ('2026-01-01T00:00:00Z', 160, '/chapter/160/', 200),
+                  ('2026-01-01T00:01:00Z', 160, '/chapter/160/', 200),
+                  ('2026-01-01T00:02:00Z', 161, '/chapter/161/', 200);
+                """
+            )
+            conn.close()
+            with patch("tools.pageviews_ingest.db_path", return_value=db):
+                rows = query_counts([160, 161, 162])
+            self.assertEqual(rows, [
+                {"chapter": 160, "count": 2},
+                {"chapter": 161, "count": 1},
+                {"chapter": 162, "count": 0},
+            ])

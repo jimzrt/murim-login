@@ -166,6 +166,26 @@ def connect() -> sqlite3.Connection:
     return conn
 
 
+def query_counts(chapters: list[int]) -> list[dict[str, int]]:
+    unique = sorted({int(ch) for ch in chapters if int(ch) > 0})
+    if not unique:
+        return []
+    path = db_path()
+    if not path.is_file():
+        return [{"chapter": chapter, "count": 0} for chapter in unique]
+    conn = sqlite3.connect(path)
+    try:
+        placeholders = ",".join("?" * len(unique))
+        rows = conn.execute(
+            f"SELECT chapter, COUNT(*) FROM pageviews WHERE chapter IN ({placeholders}) GROUP BY chapter",
+            unique,
+        ).fetchall()
+        counts = {int(row[0]): int(row[1]) for row in rows}
+        return [{"chapter": chapter, "count": counts.get(chapter, 0)} for chapter in unique]
+    finally:
+        conn.close()
+
+
 def load_state() -> dict:
     path = state_path()
     if not path.is_file():
