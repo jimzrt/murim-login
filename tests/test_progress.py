@@ -1,6 +1,9 @@
 import unittest
 
+import time
+
 from tools.progress import (
+    LiveRow,
     ModelCall,
     changed_file_facts,
     compact_n,
@@ -105,6 +108,30 @@ class ProgressTest(unittest.TestCase):
         self.assertIn("fidelity", text)
         self.assertIn("waiting", text)
         self.assertIn("sol", text)
+
+    def test_live_row_rebuilds_elapsed_without_idle(self):
+        from io import StringIO
+        from rich.console import Console
+
+        now = time.monotonic()
+        call = ModelCall(
+            "draft",
+            "openai-codex/gpt-5.6-luna:high",
+            960,
+            started=now,
+            tty=True,
+        )
+        row = LiveRow(call)
+        spinner = row._spinner
+        first = StringIO()
+        Console(file=first, force_terminal=True, color_system=None, width=120, emoji=False).print(row)
+        self.assertIn("waiting", first.getvalue())
+        self.assertRegex(first.getvalue(), r"\b0s\b")
+        call.started = now - 4.4
+        second = StringIO()
+        Console(file=second, force_terminal=True, color_system=None, width=120, emoji=False).print(row)
+        self.assertRegex(second.getvalue(), r"\b4s\b")
+        self.assertIs(row._spinner, spinner)
 
 
 if __name__ == "__main__":

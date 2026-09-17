@@ -257,6 +257,17 @@ class NullCall:
         return None
 
 
+class LiveRow:
+    """Rebuild the live label on every Rich refresh without resetting the spinner."""
+
+    def __init__(self, call: "ModelCall") -> None:
+        self.call = call
+        self._spinner = Spinner("dots", text="", style="cyan") if Spinner is not None else None
+
+    def __rich__(self):
+        return self.call._render_live(spinner=self._spinner)
+
+
 class ModelCall:
     """Live-updating stage row that freezes into a rich final summary."""
 
@@ -309,7 +320,7 @@ class ModelCall:
             return
         if self._tty and self._console is not None and Live is not None:
             self._live = Live(
-                self._render_live(),
+                LiveRow(self),
                 console=self._console,
                 refresh_per_second=max(1, int(round(1 / self._refresh_seconds))),
                 transient=True,
@@ -416,12 +427,15 @@ class ModelCall:
             self._live.stop()
             self._live = None
 
-    def _render_live(self):
+    def _render_live(self, spinner=None):
         detail = self.live_detail()
         label = f"{self.stage:<11}{detail}"
         if Spinner is None or Group is None or Text is None:
             return f"  {label}"
-        spinner = Spinner("dots", text=label, style="cyan")
+        if spinner is None:
+            spinner = Spinner("dots", text=label, style="cyan")
+        else:
+            spinner.update(text=label)
         if self.note:
             return Group(spinner, Text(f"             {self.note}", style="dim"))
         return spinner
@@ -457,7 +471,9 @@ class ModelCall:
             self._writer(f"  {self.stage:<11}{detail}", live=live)
             return
         if live and self._live is not None:
-            self._live.update(self._render_live())
+            refresh = getattr(self._live, "refresh", None)
+            if callable(refresh):
+                refresh()
             return
         if live and self._tty:
             line = f"  {self.stage:<11}{self.live_detail()}"
