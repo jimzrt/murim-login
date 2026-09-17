@@ -6,7 +6,23 @@ import tempfile
 from pathlib import Path
 from unittest.mock import patch
 
+from tools.mastering_ab import score_run
 from tools.progress import NullCall
+
+
+def test_mastering_gold_scores_161_patterns():
+    gold = json.loads((Path(__file__).resolve().parents[1] / "benchmark" / "mastering-gold.json").read_text())
+    spec = gold["161"]
+    decisions = {hid: "SOL" for hid in spec["hunks"]}
+    decisions["H005"] = "SOL"
+    score = score_run(161, decisions, "gives someone away and a bit of banter and the presiding chair", spec)
+    assert score["gold_total"] == 10
+    assert score["forbid_hits"]["gives someone away"] is True
+    decisions["H003"] = "BASE"
+    decisions["H008"] = "REPAIR"
+    score = score_run(161, decisions, "His honor as a chieftain clashed with his last shred of reason", spec)
+    assert score["detail"][0]["ok"] is True
+    assert score["prefer_hits"]["His honor as a chieftain clashed with his last shred of reason"] is True
 
 MODULE_PATH = Path(__file__).resolve().parents[1] / "tools" / "mastering.py"
 spec = importlib.util.spec_from_file_location("mastering", MODULE_PATH)
@@ -417,13 +433,40 @@ def test_adjudicator_packet_is_compact():
     assert indexes == sorted(indexes)
 
 
-def test_expected_live_hash_uses_promoted_copy():
-    baseline = mastering.expected_live_translation_hash({"stage": "VERIFIED", "baseline_sha256": "aaa"})
-    promoted = mastering.expected_live_translation_hash(
-        {"stage": "PROMOTED", "baseline_sha256": "aaa", "promoted_sha256": "bbb"}
-    )
-    assert baseline == "aaa"
-    assert promoted == "bbb"
+def test_sol_default_brief_is_a_veto():
+    source = "＃1화\n\n원문.\n"
+    baseline = "# Chapter 1\n\nBaseline.\n"
+    sol = "# Chapter 1\n\nSol line.\n"
+    diff = mastering.build_diff(baseline, sol, [], source)
+    packet = mastering.adjudicator_packet(1, source, baseline, sol, [], diff)
+    assert "Default is `SOL`" in packet
+    assert "Veto" in packet
+    assert "겹경사가 따로 없다" in packet
+    assert "You had to wonder" in packet
+
+
+def test_fidelity_gate_packet_is_accuracy_only():
+    work = Path(tempfile.mkdtemp())
+    paths = mastering.chapter_paths(1)
+    paths["fidelity_packet"] = work / "fidelity-packet.md"
+    packet_source = "＃1화\n\n원문.\n"
+    with patch.object(mastering, "run_omp", return_value=(
+        '{"findings":[]}', {"requests": 1}, NullCall()
+    )):
+        with patch.object(mastering, "atomic_json"):
+            with patch.object(mastering, "save_metric"):
+                mastering.run_fidelity_gate(
+                    1,
+                    packet_source,
+                    "# Chapter 1\n\nFinal.\n",
+                    {"passed": True},
+                    paths,
+                    baseline="# Chapter 1\n\nBaseline.\n",
+                )
+    packet = paths["fidelity_packet"].read_text()
+    assert "You are an independent **accuracy auditor**" in packet
+    assert "You are the final English-language editor" not in packet
+    assert "Korean keys are binding" in packet
 
 
 def test_run_skips_when_already_promoted():

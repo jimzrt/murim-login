@@ -65,9 +65,12 @@ runs deterministic QA, and advances directly to durable-state generation.
 Missing, repeated, or overlapping spans stop the transaction.
 
 There is no standalone full-copy polish pass. The mastering editor is the one
-final full-copy edit; its packet already includes `POLISH.md`, the source,
+final full-copy fluency edit; its packet already includes `POLISH.md`, the source,
 rules, glossary, matching address pairs, matching risk notes, compact profiles,
-and bounded continuity. Its independent adjudication and final QA gate promotion.
+and bounded continuity. Luna `:high` then vetoes Sol hunks that change meaning
+(`MASTERING_ADJUDICATOR.md`; default `SOL`). A third model, not the editor,
+runs the fidelity gate. Compare a frozen chapter without promoting with
+`python tools/mastering_ab.py N`.
 
 `python tools/workflow.py update N` replaces the former manual durable-state
 step. One bounded no-tools call receives only the current source and final copy,

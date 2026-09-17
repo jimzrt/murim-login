@@ -43,7 +43,7 @@ finished English. Correct any local sentence that contradicts the sequence.
 
 ## Relationship to project files
 
-`RULES.md` is binding. `POLISH.md` describes known translation-English failure modes and should guide the edit. Exact glossary matches are binding unless the packet explicitly marks them otherwise. Character/continuity material is context only and must never override the chapter's Korean source.
+`RULES.md` is binding. `POLISH.md` describes known translation-English failure modes and should guide the edit. Exact glossary **Korean keys** are binding unless the packet marks a different ordinary-language sense. Glossary **English** is the usual rendering, not a requirement to keep a calque; recast translationese when the Korean sense stays. Character/continuity material is context only and must never override the chapter's Korean source.
 
 ## Output
 
