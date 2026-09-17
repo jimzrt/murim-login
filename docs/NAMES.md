@@ -1057,3 +1057,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 서안루 | **Xi'an Tower** | Prominent pleasure house in Xi'an. |
 | 백 씨 | **Baek** | Surname form used when Baek Museong introduces himself. |
 | 종남일룡 | **Zhongnan One Dragon** | Epithet of Hyuk Sopyung. |
+| 화종지회 | **Huashan–Zhongnan gathering** | Gathering where Baek Museong and Hyuk Sopyung met ten years earlier. |
+| 종남 제일의 기재 | **Zhongnan Sect’s greatest prodigy** | Reputation attributed to Hyuk Sopyung. |
+| 일인전승 비인부전 | **one-person transmission and refusal to teach the unworthy** | Fire Gate Clan transmission principle. |
+| 육체파 | **physical school** | Taekyung’s joking self-description. |
