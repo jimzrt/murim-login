@@ -1,0 +1,41 @@
+{
+  "chapter": 224,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.198,
+    "source_characters": 6260,
+    "source_paragraphs": 200,
+    "translation_characters": 13759,
+    "translation_paragraphs": 213
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "numbers",
+      "details": {
+        "values": [
+          "175",
+          "37"
+        ]
+      },
+      "message": "Arabic numerals from the source are absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "전하",
+        "preferred": "His Highness"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}

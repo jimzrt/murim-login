@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "\"What is the identity and location of the surviving boss monster, and when will the exit Gate open?\",\n    \"What will be the outcome of Taekyung's confrontation with Won Myunghoon after Taekyung breaks his arm and punches him?\"",
+      "defect": "The durable state drops the newly revealed hook concerning the incident Won Myunghoon planned eight years ago and paid the Star Guild members to conceal.",
+      "id": "C01",
+      "rationale": "Chapter 224 establishes the eight-year incident as a shared crime and active source of leverage, but neither active continuity nor the open questions preserve its unresolved nature.",
+      "replacement": "\"What is the identity and location of the surviving boss monster, and when will the exit Gate open?\",\n    \"What happened eight years ago that Won Myunghoon planned and paid the Star Guild members to conceal?\",\n    \"What will be the outcome of Taekyung's confrontation with Won Myunghoon after Taekyung breaks his arm and punches him?\"",
+      "severity": "major",
+      "source": "Durable state, open_questions"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Won’s Star Guild ambushed the returning Peace Guild. Won broke no truce: he explicitly intends to kill the Peace survivors and conceal the Star Guild’s role in the raid.",
+      "defect": "“Won broke no truce” is unsupported and semantically opaque because no truce is established in these chapters.",
+      "id": "C02",
+      "rationale": "Removing the stray truce claim preserves the actual continuity fact without implying an agreement that the packet never establishes.",
+      "replacement": "Won’s Star Guild ambushed the returning Peace Guild. Won explicitly intends to kill the Peace survivors and conceal the Star Guild’s role in the raid.",
+      "severity": "minor",
+      "source": "Checkpoint summary, Continuity"
+    },
+    {
+      "confidence": 0.99,
+      "current": "After Butler Kim heals his injured knee, Taekyung breaks Won’s arm, takes his spear, and punches him when Won declares that the Star Guild came to kill them all.",
+      "defect": "The pronoun makes the injured knee appear to belong to Taekyung or Won, although Butler Kim heals his own knee.",
+      "id": "C03",
+      "rationale": "The replacement removes a misleading continuity ambiguity about who was injured and healed.",
+      "replacement": "After Butler Kim heals his own injured knee, Taekyung breaks Won’s arm, takes his spear, and punches him when Won declares that the Star Guild came to kill them all.",
+      "severity": "minor",
+      "source": "Checkpoint summary, Plot"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Carus, the One-Eyed Black Wyvern, could speak and cast magic strengthened by his dragonkin trait; Taekyung killed him at Level 115.",
+      "defect": "The final clause grammatically suggests that Taekyung was Level 115 rather than Carus.",
+      "id": "C04",
+      "rationale": "This preserves the revealed monster level while eliminating a potentially consequential ambiguity about Taekyung’s undisclosed level.",
+      "replacement": "Carus, the One-Eyed Black Wyvern, was a Level 115 Named Monster who could speak and cast magic strengthened by his dragonkin trait; Taekyung killed him.",
+      "severity": "minor",
+      "source": "Durable state, active_continuity"
+    },
+    {
+      "confidence": 0.97,
+      "current": "But I wasn’t the only one waiting for this moving reunion.",
+      "defect": "“Moving reunion” ordinarily means an emotionally touching reunion and clashes with the hostile revenge encounter being described.",
+      "id": "C05",
+      "rationale": "The replacement restores natural contemporary English without changing the fact that both Taekyung and Carus had awaited the encounter.",
+      "replacement": "But I wasn’t the only one waiting for this reunion.",
+      "severity": "minor",
+      "source": "Chapter 221, opening battle narration"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Even when that incident had occurred eight years ago, Won Myunghoon had believed that Team Leader 1 was the only one who would never betray him.",
+      "defect": "The numeric title drifts from “Team Leader One,” used immediately before this passage.",
+      "id": "C06",
+      "rationale": "Using the same written title throughout the scene removes an unnecessary formatting and terminology inconsistency.",
+      "replacement": "Even when that incident had occurred eight years ago, Won Myunghoon had believed that Team Leader One was the only one who would never betray him.",
+      "severity": "minor",
+      "source": "Chapter 224, Won Myunghoon’s internal narration"
+    }
+  ],
+  "summary": "The reading copies are broadly consistent in voice, terminology, and continuity. Actionable issues are limited to one dropped continuity hook, two ambiguous summary/state statements, one unsupported continuity phrase, one awkward prose phrase, and one title-format inconsistency.",
+  "version": 1
+}

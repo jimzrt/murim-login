@@ -652,3 +652,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 중독 | **Poisoned** | System status abnormality caused by the poisons. |
 | 네임드 몬스터 처치 | **Named Monster Defeated** | Achievement granted for killing Carus. |
 | 파이어 레인 | **Fire Rain** | A-Rank mage spell used by Butler Kim. |
+| 개보린 | **Dogvorin** | Taekyung's dog-themed pun on Gevorin, a Korean painkiller. |
+| 대법원 | **Supreme Court** | Court invoked in Won Myunghoon's metaphor for an irreversible verdict. |
