@@ -1,17 +1,16 @@
 # Translation State
 
-- Last completed: 259
-- Next chapter: 260
-- Current block: 255–259 (5/5)
-- Latest translation: `translations/0259.md`
-- Latest summary: `summaries/beats/0259.md`
-- Safe profiles through: chapter 259
+- Last completed: 260
+- Next chapter: 261
+- Current block: 260–264 (1/5)
+- Latest translation: `translations/0260.md`
+- Latest summary: `summaries/beats/0260.md`
+- Safe profiles through: chapter 260
 
 ## Current Block
 
-- Dharma King Hong Dao dies in Henan after entrusting Jeok Cheongang with his final words. Jeok postpones vengeance against Jongni Chu, orders the Murim leaders to gather at Shaolin, and leaves with Jin Taekyung after warning that a blood wind may already be blowing through Shaolin.
-- Hong Dao's final words were “Jongni Chu, Dark Heaven, Unnamed, Buddhist Staff.” Jeok and Taekyung deduce that Jongni Chu is Dark Heaven's agent or identity, that Hong Dao entrusted Unnamed with the Green Jade Buddha Staff, and that Dark Heaven's true objective is to seize Shaolin's sacred treasure and the Abbot's symbol.
-- As Jeok and Taekyung travel toward Shaolin, Dark Heaven operatives slaughter messengers and disguised civilians. The scholar-like old man Han Su kills a Hidden Shadow Pavilion agent and destroys his messenger eagle before joining his red-bearded old friend Flame Tiger and proceeding toward Shaolin after learning that Unnamed possesses the Green Jade Buddha Staff.
+- Cheongpung awakens after Hyuk Mujin revives him and learns that Hong Dao has been killed and Jongni Chu is blamed. Although he remembers Jongni Chu's overwhelming attack and the fear it caused him, Cheongpung insists that Jongni Chu is his friend and immediately leaves for Mount Song.
+- Shaolin Temple is under attack by hundreds of masked warriors who invoke the Lord of Heaven and slaughter monks and pilgrims. Hongcheon, Hong Dao's youngest Junior Brother and a Supreme Peak master, defends the temple until Flame Tiger and Han Su arrive. The two reveal themselves as the Yin-Yang Twin Freaks, confirm Hong Dao's death, and advance toward the Face-Wall Cave, where Unnamed and the Green Jade Buddha Staff are located.
 
 ## Open Questions
 
@@ -28,6 +27,7 @@
 
 - Use Buddhist Staff for 불장 as the generic form and Green Jade Buddha Staff for 녹옥불장.
 - Use Han Su for 한수 and Flame Tiger for 염호.
+- Use Hongcheon for 굉천 and Yin-Yang Twin Freaks for 음양쌍괴.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
