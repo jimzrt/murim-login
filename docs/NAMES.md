@@ -703,3 +703,9 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 수혈 | **Sleep Acupoint** | Acupoint whose successful strike prevents the target from resisting sleep. |
 | 천급 | **Heaven-grade** | Highest classification in the Namgung family's intelligence system. |
 | 창천 | **azure heaven** | The cloudless sky seen by Namgung Ryong. |
+| 화왕 특제 금제단 | **Fire King's Special Restriction Pill** | System consumable that suppresses internal energy and reduces three physical stats for one week. |
+| 화왕의 불지옥 수련-1 | **Fire King's Inferno Training-1** | Nonrefusable training Quest created when Jeok blasts Taekyung from the summit. |
+| 화왕의 지옥불 수련-1 | **Fire King's Hellfire Training-1** | Source-title variant used for the completed Quest. |
+| 근골 | **Muscles and Bones** | System attribute increased by 2 during the climb. |
+| 만년 한철 | **Ten-Thousand-Year Cold Iron** | Spaced source variant for the chain material. |
+| 일각 | **fifteen minutes** | Quarter of a shichen; used for the remaining completion time. |

@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "A young Shaolin monk named Unnamed then arrives, defeats Heukgeol without killing him, and leads them to Mount Song.",
+      "defect": "The summary misidentifies Unnamed’s opponent. Heukgeol is the one-eyed officer whom Jeok Cheongang already knocked into a wall; Unnamed defeats the later hulking Dongcheon Sect master.",
+      "id": "C01",
+      "rationale": "This preserves the sequence and prevents two distinct Dongcheon Sect figures from being conflated.",
+      "replacement": "A young Shaolin monk named Unnamed then arrives, defeats a hulking Dongcheon Sect master without killing him, and leads them to Mount Song.",
+      "severity": "major",
+      "source": "checkpoint summary, Plot"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Amitabha, m-may we pass through for a moment?”",
+      "defect": "The line repeated at the opening of Chapter 231 differs in wording, punctuation, number, and delivery.",
+      "id": "C02",
+      "rationale": "Using the Chapter 231 body text verbatim removes a visible discrepancy at the chapter boundary.",
+      "replacement": "“Amitabha. Excuse me, but may I pass through for a moment?”",
+      "severity": "minor",
+      "source": "Chapter 230, closing line"
+    },
+    {
+      "confidence": 0.96,
+      "current": "It traced a clean, practiced arc, the attack of an experienced First Rate master.",
+      "defect": "The narration has just established that the man has entered the Peak realm, so classifying the same fighter’s practiced attack as that of a First Rate master creates a rank contradiction.",
+      "id": "C03",
+      "rationale": "This aligns the attack assessment with the explicit realm description immediately preceding it.",
+      "replacement": "It traced a clean, practiced arc—the attack of a master who had only just entered the Peak realm.",
+      "severity": "major",
+      "source": "Chapter 231, the hulking man’s attack on Unnamed"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Our Shaolin doesn’t bother with that sort of formalities.",
+      "defect": "The singular construction “that sort of” does not agree with the plural “formalities,” producing an awkward grammatical mismatch.",
+      "id": "C04",
+      "rationale": "The correction is idiomatic contemporary English and preserves Hong Dao’s casual voice.",
+      "replacement": "Our Shaolin doesn’t bother with that sort of formality.",
+      "severity": "minor",
+      "source": "Chapter 232, Hong Dao describing Shaolin’s customs"
+    },
+    {
+      "confidence": 0.96,
+      "current": "*Ed oppa… No, not that.*",
+      "defect": "The Korean form of address “oppa” remains untranslated in an otherwise English-only reading copy and obscures the intended reference for English readers.",
+      "id": "C05",
+      "rationale": "This uses the established English phrasing of the reference while retaining the abrupt self-correction and joke.",
+      "replacement": "*Big Brother Ed… No, not that.*",
+      "severity": "minor",
+      "source": "Chapter 233, Taekyung’s internal reaction to Jeok Cheongang’s threat"
+    },
+    {
+      "confidence": 0.94,
+      "current": "He would spend the next fortnight with no time to breathe.",
+      "defect": "Namgung Ryong explicitly gives the Hidden Thread one month, but the narration immediately reduces the period to a fortnight without explanation.",
+      "id": "C06",
+      "rationale": "Matching the stated deadline removes the internal timing contradiction.",
+      "replacement": "He would spend the next month with no time to breathe.",
+      "severity": "minor",
+      "source": "Chapter 233, after the Hidden Thread receives Namgung Ryong’s order"
+    },
+    {
+      "confidence": 0.98,
+      "current": "But my most important internal energy was restricted, my physical stats had each dropped by 100, and the tremendous weight had been added on top of that. I had no way to endure it.",
+      "defect": "The System states that the pill’s restrictions last one week, but this tenth-day narration presents the internal-energy and stat restrictions as still active.",
+      "id": "C07",
+      "rationale": "This preserves every established training obstacle while respecting the System’s explicit one-week duration.",
+      "replacement": "For the first week, my most important internal energy was restricted and my physical stats each dropped by 100, while the tremendous weight remained even after the pill wore off. I had no way to endure it.",
+      "severity": "major",
+      "source": "Chapter 234, Taekyung climbing Mount Jiuhua on the tenth day"
+    }
+  ],
+  "summary": "The packet is broadly coherent, but it contains one summary misidentification, two material continuity contradictions, an untranslated form of address, a deadline mismatch, and two minor prose-consistency issues.",
+  "version": 1
+}
