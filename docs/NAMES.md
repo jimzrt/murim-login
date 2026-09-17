@@ -920,3 +920,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 도련님 | **Young Master** | Address used for Team Leader Choi by Butler Kim. |
 | 한강 | **Han River** | River associated with the bridge-collapse incident Lee Jungryong recalls. |
 | 마포대교 | **Mapo Bridge** | Bridge that collapsed when Kim Hwajong saved Lee Jungryong eighteen years earlier. |
+| 비급제작 | **Martial Arts Manual Creation** | System Skill for creating martial arts manuals; requires at least 300 sheets of A4 paper. |
