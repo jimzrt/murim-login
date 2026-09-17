@@ -872,3 +872,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 혈귀검마 | **Blood Ghost Sword Demon** | Title Song Ho mistakenly attributes to Mae Jonghak before recognizing him as Jongni Chu. |
 | 태원 진가 | **Jin Family of Taiyuan** | Source-spaced form of the Jin Family's name. |
 | 토토 | **Toto** | Gambling or lottery reference contrasted with Dodo in Taekyung's joke. |
+| 낙양괴의 | **Luoyang Strange Physician** | Renowned Central Plains physician; eccentric and fiercely temperamental, he examined Jeok Cheongang. |
+| 염왕채 | **Yama's Debt** | Taekyung's joking term for a ruinous loan or loan-shark debt. |

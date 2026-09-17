@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "No one suspected that Mae Jonghak had returned to the body of a twenty-year-old.",
+      "defect": "This assigns Mae an exact apparent age of twenty after the same chapter described him as looking like a man in his mid-twenties.",
+      "id": "C01",
+      "rationale": "The broader wording preserves the Returned to Youth revelation without contradicting his earlier physical description.",
+      "replacement": "No one suspected that Mae Jonghak had returned to the body of a man in his twenties.",
+      "severity": "minor",
+      "source": "Chapter 266, explanation of Mae Jonghak's Returned to Youth"
+    },
+    {
+      "confidence": 1.0,
+      "current": "The place where the great and small pillars of the orthodox faction stood.\n\n\n* * *\n\n\n“I heard what happened. About Jongni Chu—or rather, Great Hero Sword Saint Mae Jonghak.”",
+      "defect": "The scene break has extra blank lines on both sides, unlike the formatting used elsewhere in the packet.",
+      "id": "C02",
+      "rationale": "This restores the packet's standard scene-break spacing without changing the prose.",
+      "replacement": "The place where the great and small pillars of the orthodox faction stood.\n\n* * *\n\n“I heard what happened. About Jongni Chu—or rather, Great Hero Sword Saint Mae Jonghak.”",
+      "severity": "minor",
+      "source": "Chapter 268, first scene break"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Hyuk Mujin put down the gold mask he had crumpled with his strength earlier and lowered his head dejectedly.",
+      "defect": "The sentence attributes the crumpling to Hyuk Mujin, contradicting Chapter 268, where Taekyung explicitly crumples the mask in his own hand.",
+      "id": "C03",
+      "rationale": "The replacement preserves the established actor and Taekyung's first-person viewpoint.",
+      "replacement": "Hyuk Mujin put down the gold mask I had crumpled earlier and lowered his head dejectedly.",
+      "severity": "minor",
+      "source": "Chapter 269, Hyuk Mujin returning the gold mask"
+    },
+    {
+      "confidence": 0.99,
+      "current": "\"Mae Jonghak is publicly recognized as the Sword Saint despite his Returned to Youth appearance.\"",
+      "defect": "The active state omits the Blood Lord's escape with the Green Jade Buddha Staff, leaving the principal antagonist's current status and possession of the stolen treasure outside durable continuity.",
+      "id": "C04",
+      "rationale": "This is the central unresolved outcome of the battle and is necessary context for the existing open question about the staff.",
+      "replacement": "\"The Blood Lord escaped through black radiance with the Green Jade Buddha Staff after Mae Jonghak severed his remaining arm; his identity, destination, and purpose for taking the staff remain unknown.\",\n    \"Mae Jonghak is publicly recognized as the Sword Saint despite his Returned to Youth appearance.\"",
+      "severity": "major",
+      "source": "Durable state, active_continuity opening"
+    },
+    {
+      "confidence": 0.96,
+      "current": "\"Taekyung has logged out to rest until morning.\"",
+      "defect": "The active state drops Mae Jonghak's explicit promise to return with surprising news, an unresolved forward hook from Chapter 269.",
+      "id": "C05",
+      "rationale": "Recording the promise prevents the next chapter from overlooking or duplicating an explicitly planted near-term development.",
+      "replacement": "\"Mae Jonghak promised to return soon with news that would surprise Taekyung.\",\n    \"Taekyung has logged out to rest until morning.\"",
+      "severity": "minor",
+      "source": "Durable state, end of active_continuity"
+    }
+  ],
+  "summary": "The reading copies remain tonally and terminologically consistent, with no apparent accidental spoilers. Actionable issues are one age inconsistency, one cross-chapter action-attribution error, inconsistent scene-break spacing, and two hooks omitted from the active state.",
+  "version": 1
+}
