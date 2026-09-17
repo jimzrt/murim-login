@@ -1,6 +1,6 @@
 # Park Tae Seop (박태섭)
 
-- **Safe through:** Chapter 281
+- **Safe through:** Chapter 282
 - **Aliases:** None
 - **Role:** Guild Master of Myeongdong Guild; Great Cataclysm hero and one of Korea's top rankers
 - **Personality:** Authoritarian, proud, explosive, and protective of his Guild's authority

@@ -1,26 +1,25 @@
 # Translation State
 
-- Last completed: 281
-- Next chapter: 282
-- Current block: 280–284 (2/5)
-- Latest translation: `translations/0281.md`
-- Latest summary: `summaries/beats/0281.md`
-- Safe profiles through: chapter 281
+- Last completed: 282
+- Next chapter: 283
+- Current block: 280–284 (3/5)
+- Latest translation: `translations/0282.md`
+- Latest summary: `summaries/beats/0282.md`
+- Safe profiles through: chapter 282
 
 ## Current Block
 
-- Park Tae Seop worries that Jin Taekyung is powerful enough to crack Myeongdong Guild, but Park Jihoon dismisses the threat. Choi Minwoo then calls Jihoon using Manager Kim’s phone, revealing that the Peace Guild has captured Myeongdong personnel. Jihoon receives a photograph of Taekyung holding the incapacitated Team 1 Leader in Jihoon’s office, followed by the message “Bring Melona when you come,” and crushes the phone in shock. After burning the Black Hunters’ secret house, Taekyung and Choi split up: Choi leads an ambush to secure evidence while Taekyung acts alone. Taekyung defeats roughly fifty Myeongdong Hunters, occupies Jihoon’s office, and keeps an unpaid Security Team Hunter as his cameraman. At the end of the chapter, two massive presences approach and the office door is blasted apart.
+- Jin Taekyung confronts Park Jihoon and Myeongdong Guild Master Park Tae Seop in Jihoon's office. Jihoon explains that the Black Hunter operation and the blockade of high-level Gates were intended to suppress the Peace Guild, then offers money, land, buildings, exclusive Gate rights, and other benefits in exchange for the captured Myeongdong personnel and silence. Taekyung rejects the offer without a sincere apology to the injured D-rank Hunter and his family, identifies the unknown person who gave Jihoon his orders, and demands that person be brought to apologize. Tae Seop agrees to apologize personally, but Jihoon refuses to bring the unknown commander. Taekyung exposes Jihoon's hidden strength and subordinate status, breaks his wrist during a brief exchange, and slams his head into the table.
 
 ## Open Questions
 
-- Who is the unidentified “that person” directing the proposal and the Black Hunter operation?
-- What exact role and authorization did Park Jihoon have in dispatching the Black Hunters?
-- What role and authorization did Park Tae Seop have in the Black Hunter operation?
+- Who is the unidentified 'that person' directing Jihoon and the Black Hunter operation?
+- What exact authority and role did Jihoon and Park Tae Seop have in the Black Hunter operation and the Guild blockade?
 - What happened to Team 11 after contact was lost?
 - What exact wrongdoing did Jung Hyunwoo uncover before Park Jihoon killed him?
-- Who authorized the Black Hunters to target the Peace Guild’s D-rank Hunter?
-- What does Park Jihoon’s office contain beyond the evidence already visible, and what will Taekyung find there?
-- What happens when the two massive presences reach Taekyung’s office?
+- Who authorized the Black Hunters to target the Peace Guild's D-rank Hunter?
+- What consequences follow from Jihoon's wrist being broken and his head being slammed into the table?
+- Will the unknown commander be brought to apologize, and will the proposed concessions be accepted or enforced?
 
 ## Exceptional Decision
 
@@ -31,7 +30,7 @@
 - Render 박태섭 as Park Tae Seop.
 - Render 11팀 as Team 11.
 - Render 최민우 as Choi Minwoo and 김 실장 as Manager Kim.
-- Render 그분 as “that person” and 어른폰 as AdultPhone, retaining the associated pun footnote.
+- Render 그분 as 'that person' and 어른폰 as AdultPhone, retaining the associated pun footnote.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
