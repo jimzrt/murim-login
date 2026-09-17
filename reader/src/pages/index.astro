@@ -13,6 +13,7 @@ import {
   withBase,
 } from "../lib/chapters";
 import { loadTranslationProgress } from "../lib/progress";
+import { SOURCE_CHAPTER_TOTAL } from "../generated/source-count";
 
 const entries = await allChapters();
 const chapters = toIndex(entries);
@@ -107,7 +108,7 @@ const polished = new Set(loadTranslationProgress().polished);
         <p>
           This is still a <strong>work in progress</strong>. The plan is to
           translate all
-          <strong>1,104 chapters</strong> that currently exist. The pipeline uses
+          <strong>{SOURCE_CHAPTER_TOTAL.toLocaleString("en-US")} chapters</strong> that currently exist. The pipeline uses
           a substantial token budget and currently takes on the order of
           <strong>30 minutes</strong> per chapter.
         </p>
