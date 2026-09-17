@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "To this newly reborn existence, the small group of humans surrounding him was utterly insignificant.",
+      "defect": "The draft adds that the humans are surrounding him, which the source does not state and which changes the scene's positioning.",
+      "id": "F01",
+      "rationale": "몇 안 되는 인간의 무리 means only a small group or handful of humans; it does not say they have encircled him.",
+      "replacement": "To him, newly reborn as something else, a mere handful of humans was utterly insignificant.",
+      "severity": "major",
+      "source": "이렇게 새로운 존재로 거듭난 그에게, 몇 안 되는 인간의 무리 따위는 하찮기 그지없었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "That was when he spotted a human among the fifty or so people fleeing in a panic.",
+      "defect": "The draft omits that the Warlord is watching the fleeing humans with satisfaction, losing a meaningful characterization cue.",
+      "id": "F02",
+      "rationale": "흐뭇하게 explicitly describes his pleased, satisfied reaction to their flight.",
+      "replacement": "That was when, as he watched the fifty or so humans flee in panic with satisfaction, one of them caught his eye.",
+      "severity": "major",
+      "source": "정신없이 도망치는 오십여 명의 인간들을 흐뭇하게 바라보던 그의 눈에 한 인간이 들어온 것은."
+    },
+    {
+      "confidence": 0.91,
+      "current": "“Don’t worry! Go on!”",
+      "defect": "The draft weakens both the likely self-reassurance and the urgency of the command.",
+      "id": "F03",
+      "rationale": "괜찮아 reassures the others that he is all right in context, while 어서 explicitly urges them to hurry.",
+      "replacement": "“I’m fine! Hurry up and go!”",
+      "severity": "minor",
+      "source": "“괜찮아! 어서 가!”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "He simply wanted to turn this seemingly useful human into one of the dead and take him as a subordinate.",
+      "defect": "The draft omits the contemptuous qualification that Jin only looks useful by human standards.",
+      "id": "F04",
+      "rationale": "인간치고는 means “for a human,” preserving the Warlord’s sense of superiority rather than offering an unqualified assessment of usefulness.",
+      "replacement": "He simply wanted to turn that one—who seemed useful enough for a human—into one of the dead and take him as a subordinate.",
+      "severity": "major",
+      "source": "단지 인간치고는 쓸 만해 보이는 저놈을 망자로 만들어 수하로 거두고 싶을 뿐이었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“You’re all going to die here. That’s all you need to know.”",
+      "defect": "The draft sanitizes Taekyung’s deliberately coarse threat.",
+      "id": "F05",
+      "rationale": "뒈진다 is a vulgar, contemptuous way to say “die,” and the strong register is part of Taekyung’s voice at this moment.",
+      "replacement": "“You’re all going to fucking die here. That’s all you need to know.”",
+      "severity": "major",
+      "source": "“너희는 여기서 다 뒈진다. 뭐, 그것만 알면 돼.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "- E. V. E. R. Y. O. N. E. R. U. N—",
+      "defect": "The Warlord orders everyone to dodge or get out of the way, not to flee the battle; the draft changes the commanded action.",
+      "id": "F06",
+      "rationale": "피하다 means to avoid or dodge the incoming attack in this context, whereas “run” gives a different tactical order.",
+      "replacement": "- E. V. E. R. Y. O. N. E. D. O. D. G. E—!",
+      "severity": "critical",
+      "source": "- 모. 두. 피. 하……!"
+    },
+    {
+      "confidence": 0.99,
+      "current": "I clicked my tongue at the sight spread out before me.",
+      "defect": "The English idiom signals annoyance or disapproval, while the Korean expresses astonishment at the overwhelming result.",
+      "id": "F07",
+      "rationale": "혀를 내두르다 means to be amazed or astounded, not to click one’s tongue in irritation.",
+      "replacement": "I could only marvel at the sight spread out before me.",
+      "severity": "major",
+      "source": "눈앞에 펼쳐진 광경에 나는 혀를 내둘렀다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "The Warlord sensed something strange and hurriedly continued speaking.\n\n- Surely. You. Do. Not. Intend. To. Kill. This. Body?\n\n*This bastard… Look at how smoothly he speaks now that he’s desperate.*\n\n“Who said anything about killing? You’re already dead.”\n\n- Can. This. Body. Not. Die. And. Die. And. Die. A. Hundred. Times. Over?",
+      "defect": "The Warlord’s dialogue remains mechanically broken even though the narration explicitly jokes that desperation has made his speech smooth.",
+      "id": "F08",
+      "rationale": "The source removes the syllable-by-syllable pauses here, and 말 매끄러워진 explicitly draws attention to that sudden change in delivery.",
+      "replacement": "The Warlord sensed something was wrong and hurriedly continued.\n\n- Surely you do not intend to kill me?\n\n*This bastard… Look how smoothly he talks now that he’s desperate.*\n\n“Who said anything about killing? You’re already dead.”\n\n- Could this body not die and die again, a hundred times over?",
+      "severity": "major",
+      "source": "이상함을 느낀 워로드가 황급히 말을 이었다.\n\n- 설마 이 몸을 죽일 셈인가?\n\n이 새끼……. 다급하니까 말 매끄러워진 것 봐라.\n\n“죽긴 누가 죽어. 넌 이미 죽은 몸인데.”\n\n- 이 몸이 죽고 죽어 일백 번을 고쳐 죽을 수도 있지 않은가!"
+    },
+    {
+      "confidence": 0.94,
+      "current": "“Wow! Jackpot EXP!”",
+      "defect": "The draft loses the crude slang intensifier in Taekyung’s delighted reaction.",
+      "id": "F09",
+      "rationale": "개꿀 is strongly colloquial and crudely emphatic; “jackpot” conveys benefit but sanitizes the register.",
+      "replacement": "“Wow! Fucking sweet EXP!”",
+      "severity": "minor",
+      "source": "“와! 경험치 개꿀!”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "When I held the blue-white blade in front of its eyes, the Warlord asked in an anxious voice,\n\n- W. What. Are. You. Planning. To. Do?",
+      "defect": "The blade is deep blue rather than blue-white, and the translation loses the Warlord’s sudden deferential speech while incorrectly retaining the earlier word-by-word cadence.",
+      "id": "F10",
+      "rationale": "시퍼런 denotes a vivid or dark blue, while 하시려는 겁니까 is deferential; the initial 뭐, 뭘 is a stammer, not mechanically segmented speech.",
+      "replacement": "When I held the dark-blue blade in front of its eyes, the Warlord asked anxiously,\n\n- W-what are you going to do, sir?",
+      "severity": "major",
+      "source": "시퍼런 검날을 눈앞에 들이대자 워로드가 불안한 목소리로 물어 온다.\n\n- 뭐, 뭘 하시려는 겁니까?"
+    },
+    {
+      "confidence": 0.93,
+      "current": "Even if it was a mere skeleton, the bones were still remarkably beautiful, their surfaces gleaming with a black sheen.",
+      "defect": "The draft replaces an idiom about retained intrinsic quality with a dismissive comment about it being a mere skeleton.",
+      "id": "F11",
+      "rationale": "썩어도 준치 means that something valuable or fine retains its quality even in a diminished state; it does not characterize the Warlord as merely an ordinary skeleton.",
+      "replacement": "A prize was still a prize. Its bones gleamed with a black sheen and were actually rather beautiful.",
+      "severity": "minor",
+      "source": "썩어도 준치라고, 뼈다귀 표면이 검은 광택으로 번들거리는 게 제법 예쁘다."
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it alters one tactical command, adds unsupported positioning, omits characterization cues, and repeatedly misses deliberate shifts in the Warlord’s speech and Taekyung’s vulgar register.",
+  "version": 1
+}
