@@ -1,36 +1,37 @@
 # Translation State
 
-- Last completed: 279
-- Next chapter: 280
-- Current block: 275–279 (5/5)
-- Latest translation: `translations/0279.md`
-- Latest summary: `summaries/beats/0279.md`
-- Safe profiles through: chapter 279
+- Last completed: 280
+- Next chapter: 281
+- Current block: 280–284 (1/5)
+- Latest translation: `translations/0280.md`
+- Latest summary: `summaries/beats/0280.md`
+- Safe profiles through: chapter 280
 
 ## Current Block
 
-- Park Tae Seop confronts Park Jihoon over the unauthorized killing of a Team Leader-level Hunter and the operation involving Jin Taekyung and the Peace Guild. Tae Seop reveals that Myeongdong Guild secretly maintains Team 11, a force of roughly thirty Black Hunters including three A-rank and twenty-five B-rank Hunters. Team 11 sent an emergency message reporting an intruder at a remote unsafe-zone location and then lost contact.
-- Taekyung visits Myeongdong Guild headquarters after failing to reach Jihoon. He overpowers two C-rank Security Team Hunters, bluffs his way inside by claiming he is arranging a cooperative raid, and identifies himself as the Peace Guild's Jin Taekyung. After entering the twenty-story Guild building, he hears Jihoon's voice through the phone of the unnamed Team 1 Leader reporting that twenty-eight people were wiped out. Taekyung seizes the Team 1 Leader by the throat and addresses Jihoon through the phone.
+- Jin Taekyung confronted Park Jihoon by phone while holding the Myeongdong Guild Team 1 Leader captive. Jihoon responded with a taunting, equivocal acknowledgment when accused of sending the twenty-eight Black Hunters, then threatened to end Taekyung and the Peace Guild if he advanced farther. Taekyung rejected Jihoon's attempt to end the conflict and entered the Guild's nineteenth floor.
+- Myeongdong Guild's elite Team 1 engaged Taekyung inside the headquarters. He rapidly defeated and incapacitated numerous Hunters, deflected their blades, broke an A-rank Hunter's mana-infused arrow, and used the Flame Divine Palm against the Team 1 Leader. Taekyung's Peak realm and Unaffected by a Hundred Poisons rendered the Team 1 Leader's Poison spell ineffective; after paralyzing him, Taekyung demanded directions to Park Jihoon's office, and ten fingers pointed toward one door.
 
 ## Open Questions
 
 - Who is the unidentified person directing the proposal and the Black Hunter operation?
+- What exact role and authorization did Park Jihoon have in dispatching the Black Hunters?
+- What role did Park Tae Seop play in the Black Hunter operation and Jihoon's actions?
 - What happened to Team 11 after it reported the intruder, and who was the intruder?
-- What exact role did Myeongdong Guild and Park Jihoon play in the operation targeting Taekyung and the Peace Guild?
-- Is Park Jihoon acting as Taekyung's enemy or pursuing a separate objective?
-- What wrongdoing did Jung Hyunwoo uncover before Park Jihoon killed him?
+- What exact wrongdoing did Jung Hyunwoo uncover before Park Jihoon killed him?
 - Who authorized the Black Hunters to target the Peace Guild's D-rank Hunter?
+- What does Park Jihoon's office contain, and what will Taekyung find there?
 
 ## Exceptional Decision
 
 - Render 임영준 as Im Yeongjun.
 - Render 블랙 헌터 as Black Hunter.
 - Render 명동 길드 as Myeongdong Guild.
+- Render 평화 길드 as Peace Guild.
 - Render 박태섭 as Park Tae Seop.
-- Render 정현우 as Jung Hyunwoo.
-- Render 한남동 as Hannam-dong.
 - Render 11팀 as Team 11.
-- Render 침입자 발생 as Intruder detected.
+- Render 화염신장 as Flame Divine Palm.
+- Render 백독불침 as Unaffected by a Hundred Poisons.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
