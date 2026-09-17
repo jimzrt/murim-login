@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Amitabha. E-excuse me, but might we pass through for a moment?”",
+      "defect": "The monk asks permission for himself to pass, but the draft changes the singular subject to “we,” implying that he represents a group.",
+      "id": "F01",
+      "rationale": "The scene identifies a single arriving monk, and the omitted Korean subject is resolved by his subsequent solitary movement through the swordsmen.",
+      "replacement": "“Amitabha. Excuse me, but may I pass through for a moment?”",
+      "severity": "critical",
+      "source": "“아미타불, 자, 잠시 지나가도 되겠습니까?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I’ve been here often enough.”",
+      "defect": "The draft changes hearing about the place into physically visiting it, altering Jeok Cheongang’s stated experience.",
+      "id": "F02",
+      "rationale": "들었지 is from 듣다, “to hear”; “to stop by” would take a form such as 들렀지.",
+      "replacement": "“I’ve heard plenty about it.”",
+      "severity": "critical",
+      "source": "“자주 들었지.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "From what I had heard while traveling with him for half a day, he was naturally introverted. Once he lost control, however, he couldn’t rein himself in.",
+      "defect": "Dividing the statement into two independent traits omits the source’s causal link between his innately introverted nature and his inability to control himself once he snaps.",
+      "id": "F03",
+      "rationale": "The connective -이라 explicitly presents his introversion as the reason he becomes uncontrollable once pushed past his limit.",
+      "replacement": "From what I had heard during the half day we’d traveled together, he was so naturally introverted that once he snapped, he couldn’t control himself.",
+      "severity": "major",
+      "source": "반나절 동안 함께 이동하며 들은 바로는, 타고난 성격이 내성적이라 한 번 눈이 돌아 버리면 주체를 할 수 없다고 했다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“…Hah. That shameless old bastard hasn’t changed. He can still see a thousand li while sitting on his ass.”",
+      "defect": "“Shameless” omits 신통한, which characterizes Hong Dao’s insight as uncanny or extraordinary, while “sitting on his ass” adds vulgarity not attached to 앉아서 in the source.",
+      "id": "F04",
+      "rationale": "신통한 conveys extraordinary, almost supernatural perceptiveness; 땡중 supplies the disparaging register without making the neutral act of sitting vulgar.",
+      "replacement": "“…Hah. That damned monk is as uncanny as ever. He can still see a thousand li without leaving his seat.”",
+      "severity": "major",
+      "source": "“……허, 신통한 땡중 같으니. 앉아서 천 리를 내다보는 건 여전하군.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“…In any case.”",
+      "defect": "The response no longer answers whether the technique is Shaolin martial arts and loses Jeok Cheongang’s comic qualification.",
+      "id": "F05",
+      "rationale": "일단은 gives a reluctant, qualified affirmation: it is Shaolin martial arts, at least in the narrow sense.",
+      "replacement": "“…Technically.”",
+      "severity": "major",
+      "source": "“……일단은.”"
+    },
+    {
+      "confidence": 0.95,
+      "current": "Jeok Cheongang tilted his head several times before eventually nodding as though he more or less understood.\n\nBut I had a different opinion.",
+      "defect": "The draft adds that Jeok Cheongang understood the explanation, whereas the source only says that he gave a cursory nod.",
+      "id": "F06",
+      "rationale": "대충 describes the casual or perfunctory manner of the nod, not Jeok Cheongang’s degree of understanding.",
+      "replacement": "Jeok Cheongang tilted his head several times before giving a cursory nod.\n\nBut I had a different opinion.",
+      "severity": "minor",
+      "source": "적천강은 몇 차례 고개를 갸웃하더니 대충 고개를 끄덕였지만, 내 생각은 달랐다."
+    },
+    {
+      "confidence": 0.9,
+      "current": "“Gate, gate, paragate—!”",
+      "defect": "The em dash makes the mantra sound interrupted and omits the source’s exaggerated final yell.",
+      "id": "F07",
+      "rationale": "The extended 에에엑 turns the final syllable into a strained battle cry rather than cutting the utterance off.",
+      "replacement": "“Gate, gate, paragateeek!”",
+      "severity": "minor",
+      "source": "“아제아제 바라아제에엑!!”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Of course. It is a responsibility that a pampered Fire Gate Clan Leader like you could never know.”",
+      "defect": "The established title 문주 is rendered as “Clan Leader” instead of “Sect Leader,” and “pampered” changes 팔자 좋은 from having an easy or fortunate lot to being spoiled.",
+      "id": "F08",
+      "rationale": "The binding terminology requires “Sect Leader,” while 팔자 좋은 mocks Jeok Cheongang’s comparatively easy circumstances rather than asserting that he was pampered.",
+      "replacement": "“Of course. It’s a sense of responsibility that a carefree Fire Gate Sect Leader like you could never understand.”",
+      "severity": "major",
+      "source": "“아무렴. 팔자 좋은 열화문주 따위는 결코 느낄 수 없는 책임감이라네.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Not yet. We have to climb halfway up Lesser Forest Peak. Visitors without a specific purpose are only allowed to remain at the Guest Reception Hall.”",
+      "defect": "“Lesser Forest Peak” is an invented literal-style name for 소실봉 rather than the established geographic name Shaoshi Peak.",
+      "id": "F09",
+      "rationale": "소실봉 denotes Shaoshi Peak at Mount Song; “Lesser Forest” incorrectly imports the “forest” element of Shaolin.",
+      "replacement": "“Not yet. We have to climb halfway up Shaoshi Peak. Visitors without a specific purpose are only allowed to remain at the Guest Reception Hall.”",
+      "severity": "major",
+      "source": "“아직이다. 소실봉 중턱까지는 올라가야 하지. 별다른 목적 없이 온 방문객들은 지객당(知客堂)에만 머물러야 하고.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Jeok Cheongang dismounted and began climbing Lesser Forest Peak. After a moment, he spoke.",
+      "defect": "The second occurrence repeats the incorrect geographic name “Lesser Forest Peak.”",
+      "id": "F10",
+      "rationale": "The location is Shaoshi Peak, and its rendering must remain consistent across both occurrences.",
+      "replacement": "Jeok Cheongang dismounted and began climbing Shaoshi Peak. After a moment, he spoke.",
+      "severity": "major",
+      "source": "말에서 내려 소실봉을 오르던 적천강이 문득 입을 열었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“I can only sleep four shichen.”",
+      "defect": "The draft makes the amount exactly four shichen and omits the source’s approximation.",
+      "id": "F11",
+      "rationale": "한 before the quantity means “about” or “roughly,” qualifying the stated amount.",
+      "replacement": "“I can only sleep about four shichen.”",
+      "severity": "minor",
+      "source": "“한, 네 시진밖에 못 자지.”"
+    }
+  ],
+  "summary": "Several subject, causal, register, quantity, and terminology errors require correction.",
+  "version": 1
+}

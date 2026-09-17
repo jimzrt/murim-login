@@ -1,35 +1,33 @@
 # Translation State
 
-- Last completed: 230
-- Next chapter: 231
-- Current block: 230–234 (1/5)
-- Latest translation: `translations/0230.md`
-- Latest summary: `summaries/beats/0230.md`
-- Safe profiles through: chapter 230
+- Last completed: 231
+- Next chapter: 232
+- Current block: 230–234 (2/5)
+- Latest translation: `translations/0231.md`
+- Latest summary: `summaries/beats/0231.md`
+- Safe profiles through: chapter 231
 
 ## Current Block
 
-- Jeok Cheongang and Jin Taekyung reach Luoyang after traveling from Taiyuan for seven days and nights. At a Luoyang inn, Jeok effortlessly defeats Heukgeol, a lower-ranking officer of the dark-path Dongcheon Sect, while Taekyung subdues another swordsman and forces the remaining gang members to remove their dead and leave. After Jeok and Taekyung begin eating, a scarred giant arrives with dozens of dark-path swordsmen seeking revenge; when they draw their weapons, an unidentified speaker invokes Amitabha and asks to pass through.
+- A young monk from Shaolin arrives at the Luoyang inn and fearlessly pushes through the Dongcheon Sect swordsmen. When their hulking officer attacks him with a spiked mace, the monk's Ten-Thousand-Year Cold Iron prayer beads strip away the spikes before he destroys the weapon and brutally defeats the officer without killing him, using Shaolin's Arhat Fist.
+- The monk introduces himself as Unnamed, a disciple of Dharma King Hong Dao, and explains that he was ordered to bring the Master of Morning Star. Jeok Cheongang recognizes Hong Dao as the Abbot of Shaolin and an old friend. Unnamed leads Taekyung and Jeok from Luoyang to Mount Song, where Hong Dao descends from Shaoshi Peak and reunites casually with Jeok.
 
 ## Open Questions
 
 - What important matter does Jin Wikyung need to discuss privately with Jeok Cheongang?
-- Did Mae Jonghak actually grant Cheongpung permission to become Jeok’s Disciple, and where is Mae now?
+- Did Mae Jonghak actually grant Cheongpung permission to become Jeok's Disciple, and where is Mae now?
 - Will Baek Museong escort Cheongpung to Huashan or search the Central Plains for Mae Jonghak?
 - Will Jin Mukyung eventually attend the Star-Array Grand Banquet?
-- Who are the people asking to pass through the Luoyang inn, and why have they confronted Jeok and Taekyung?
-- How will the confrontation at the Luoyang inn proceed?
+- What does Hong Dao's reference to the Master of Morning Star mean?
 
 ## Exceptional Decision
 
-- Use ten thousand strikes for 일만격.
-- Use Anhui for 안휘성.
-- Use travel bag or luggage for 행낭.
-- Use Young Lady for 소저 when Lee Seowol requests Taekyung’s address.
-- Use Luoyang for 낙양.
-- Use Dongcheon Sect for 동천파 and Dongcheon Gang for 동천방.
-- Use huimian noodles for 회면 and baijiu for 백주.
-- Use Amitabha for 아미타불.
+- Use Unnamed for 무명.
+- Use Dharma King for 법왕.
+- Use Arhat Fist for 나한권.
+- Use Poison Dragon Sect for 독룡파 and Black Blood Sect for 흑혈문.
+- Use Mount Song, Shaoshi Peak, and Guest Reception Hall for 숭산, 소실봉, and 지객당.
+- Use Master of Morning Star for 신성의 주인.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

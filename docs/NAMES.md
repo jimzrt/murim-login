@@ -678,3 +678,12 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 화주 | **strong liquor** | Liquor stored and consumed by the dark-path swordsmen. |
 | 박도 | **broad-bladed saber** | Rough weapon swung by the bald swordsman. |
 | 아미타불 | **Amitabha** | Buddhist invocation spoken by the unidentified arriving group. |
+| 무명 | **Unnamed** | Dharma name given by Hong Dao; literally means having no name. |
+| 독룡파 | **Poison Dragon Sect** | Dark-path faction mentioned as a possible origin of the monk. |
+| 흑혈문 | **Black Blood Sect** | Dark-path faction mentioned as a possible origin of the monk. |
+| 나한권 | **Arhat Fist** | Shaolin martial art used by Unnamed. |
+| 숭산 | **Mount Song** | Mountain where Shaolin Temple is located. |
+| 소실봉 | **Shaoshi Peak** | Peak of Mount Song that must be climbed to reach the Shaolin Abbot. |
+| 지객당 | **Guest Reception Hall** | Shaolin area where visitors without a specific purpose must remain. |
+| 관세음보살 | **Avalokiteshvara** | Buddhist invocation shouted by Unnamed during his attack. |
+| 신성 | **Morning Star** | Term in the summons referring to the Master of Morning Star. |
