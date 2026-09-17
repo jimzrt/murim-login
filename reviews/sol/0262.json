@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Heh heh. This old man has finally found the place where he’ll die.”",
+      "defect": "The draft makes Flame Tiger say that he himself has found a place to die, but he is taunting Jeok Cheongang by saying that Jeok has found his place of death.",
+      "id": "F01",
+      "rationale": "늙은이 refers to the old man Flame Tiger is addressing, as confirmed by Jeok Cheongang’s reply that this is a place where he will kill rather than die.",
+      "replacement": "“Heh heh. Looks like you’ve finally found a place to die, old man.”",
+      "severity": "critical",
+      "source": "“흐흐, 늙은이가 드디어 죽을 자리를 찾았구나.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“I arrived much sooner than I’d heard, but that doesn’t change anything.”",
+      "defect": "The subject is reversed. Flame Tiger is commenting that Jeok Cheongang and Taekyung arrived sooner than expected, not that Flame Tiger himself arrived sooner.",
+      "id": "F02",
+      "rationale": "The following narration explicitly has Taekyung wonder how Flame Tiger received information about their movements so quickly.",
+      "replacement": "“You arrived much sooner than I’d heard… but that changes nothing.”",
+      "severity": "critical",
+      "source": "“들은 것보다 훨씬 빨리 오긴 했지만…… 그래 봤자 달라지는 건 없지.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "At the same time, fist force gathered around his rough, rock-hard fists.",
+      "defect": "The source describes fist force forming around one fist, but the draft changes it to both fists.",
+      "id": "F03",
+      "rationale": "주먹 and 맺힌다 are singular here, matching the single fist attack that follows.",
+      "replacement": "At the same time, fist force gathered around his rough, rock-hard fist.",
+      "severity": "minor",
+      "source": "동시에 바위처럼 거칠고 단단해 보이는 그의 주먹에 권강(拳强)이 맺힌다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“That’s right. I am Jeok Cheongang, the Fire King and the eighteenth successor of the Fire Gate Clan.”",
+      "defect": "The draft drops the generational meaning of 십팔 대, making Jeok Cheongang merely the eighteenth successor rather than the successor of the clan’s eighteenth generation.",
+      "id": "F04",
+      "rationale": "십팔 대 identifies his place in the Fire Gate Clan’s generational lineage, a meaningful statement of succession and hierarchy.",
+      "replacement": "“That’s right. I am Jeok Cheongang, the Fire King and the eighteenth-generation successor of the Fire Gate Clan.”",
+      "severity": "major",
+      "source": "“그래. 노부가 바로 열화문의 십팔 대 계승자, 화왕 적천강이니라.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The next moment, as though he had understood those words, Han Su’s figure shot forward at blinding speed.",
+      "defect": "“Shot forward” indicates movement toward the direction Han Su is facing and can read as a charge toward Jeok Cheongang and Taekyung, while the next scene establishes that he fled from them. The source specifies rapid movement but does not add this contradictory direction.",
+      "id": "F05",
+      "rationale": "The immediately following scene depicts Han Su fleeing at full speed with the two pursuers closing from behind.",
+      "replacement": "The next moment, as though he had understood those words, Han Su’s figure shot away at blinding speed.",
+      "severity": "critical",
+      "source": "다음 순간, 마치 그 말을 알아들은 것처럼 한수의 신형이 눈부신 속도로 쏘아졌다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“There they are! Fire King, that damned old man and the young brat killed Flame Tiger!”",
+      "defect": "The comma makes “Fire King” read as a separate person being addressed or as the first member of a three-person list. Han Su is identifying the damned old man as the Fire King and accusing that old man and the young man.",
+      "id": "F06",
+      "rationale": "화왕 identifies 저 쳐 죽일 늙은이; Han Su is pointing out two killers, Jeok Cheongang and Taekyung, not addressing the Fire King or naming three people.",
+      "replacement": "“There they are! The Fire King—that goddamn old man—and the young brat killed Flame Tiger!”",
+      "severity": "major",
+      "source": "“저놈들이오! 화왕, 저 쳐 죽일 늙은이와 어린놈이 염호를 죽였소!”"
+    }
+  ],
+  "summary": "The draft contains three critical subject or direction errors, plus localized quantity, lineage, and dialogue-clarity issues.",
+  "version": 1
+}
