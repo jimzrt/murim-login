@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "*I’ll keep him occupied as long as possible. Find out everything he has.*",
+      "defect": "The draft makes Lee Jungryong promise to occupy Taekyung himself, but he is ordering Go Jun to draw out the fight and expose Taekyung’s full capabilities.",
+      "id": "F01",
+      "rationale": "The surrounding exchange establishes that Go Jun is asking what he should do, and Lee answers with commands directed at him.",
+      "replacement": "*Keep him occupied as long as possible. Find out everything he’s got.*",
+      "severity": "critical",
+      "source": "‘최대한 시간을 끌게. 놈의 밑천을 탈탈 털어 내.’"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“He hit me squarely in the jaw, but he was harder than rebar. I’ve never seen anyone like him.”",
+      "defect": "The attacker and target are reversed. Go Jun says that he struck Taekyung’s jaw, not that Taekyung struck his.",
+      "id": "F02",
+      "rationale": "가격했는데 has Go Jun as the contextually established subject, while Taekyung is the person whose jaw proved exceptionally hard.",
+      "replacement": "“I hit him squarely in the jaw, but he was harder than rebar. I’ve never seen anyone like him.”",
+      "severity": "critical",
+      "source": "“분명 턱을 정확히 가격했는데, 철근보다 단단하더군요. 그런 놈은 처음 봤습니다.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "In the instant he thought, *Oh, shit,* his arm had been trapped and his foot driven deep into the ground.",
+      "defect": "The draft adds profanity absent from the source and renders 아차 as a quoted thought rather than the instant in which Go Jun realizes he has been caught.",
+      "id": "F03",
+      "rationale": "아차 conveys a sudden realization that it is already too late; it does not supply the stronger profanity added by the draft.",
+      "replacement": "By the time he realized his mistake, his arm was trapped and his foot had been driven deep into the ground.",
+      "severity": "major",
+      "source": "아차, 하는 순간 팔이 묶였고 발이 땅 깊숙이 박혔다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "His face was usually as expressionless as a machine, but now a quiet fear had settled over it.",
+      "defect": "The English pronoun most naturally points to Lee Jungryong, the immediately preceding named person, making Lee appear afraid. The source describes Go Jun’s fear of Lee.",
+      "id": "F04",
+      "rationale": "The sentence follows Go Jun’s inability to meet Lee’s eyes and the statement that Lee is an object of both respect and fear to him.",
+      "replacement": "Go Jun’s usually machine-like expression was now tinged with quiet fear.",
+      "severity": "major",
+      "source": "늘 기계처럼 무표정하던 그의 얼굴에는 어느새 은은한 두려움이 깔려 있었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "*Don’t take a single step in front of me.*",
+      "defect": "The command is altered from remaining behind the speaker to merely not stepping in front of him.",
+      "id": "F05",
+      "rationale": "내 뒤에서 … 나서지 마라 explicitly orders Lee not to leave his position behind the speaker, emphasizing the speaker’s protection and authority.",
+      "replacement": "*Don’t take so much as a single step out from behind me.*",
+      "severity": "critical",
+      "source": "‘내 뒤에서 한 걸음도 나서지 마라.’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "No, we hadn’t. Not even close.",
+      "defect": "The draft removes Taekyung’s coarse, self-directed dismissal and changes the singular internal reaction into a collective one.",
+      "id": "F06",
+      "rationale": "개뿔 is a blunt, dismissive expression that gives the narration its characteristic profane register, while the implied subject remains Taekyung himself.",
+      "replacement": "No, not yet. Come to my senses, my ass.",
+      "severity": "major",
+      "source": "아니, 아직 아니다. 정신을 차리긴 개뿔."
+    },
+    {
+      "confidence": 0.96,
+      "current": "When Park Jihoon had hit me in the back of the head and Lee Jungryong had suddenly burst onto the scene, I had confidently declared that nothing could surprise me anymore……",
+      "defect": "The idiomatic 뒤통수를 처맞고 is rendered as a literal physical blow rather than Park Jihoon’s betrayal, changing the event Taekyung is recalling.",
+      "id": "F07",
+      "rationale": "뒤통수를 맞다 is the established Korean idiom for being betrayed or blindsided, which fits Taekyung’s recollection of Jihoon’s actions.",
+      "replacement": "When Park Jihoon stabbed me in the back and Lee Jungryong suddenly burst onto the scene, I’d been certain nothing could surprise me anymore……",
+      "severity": "major",
+      "source": "박지훈에게 뒤통수를 처맞고 난데없이 이정룡이 튀어나왔을 때, 여기서 더 놀랄 일은 생기지 않을 거라 장담했는데…… 이건 충격과 공포 그 자체다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "I opened my eyes wide and looked at Team Leader Choi. Then I continued, each word slow and clear.",
+      "defect": "The subject of the wide-eyed stare is reversed. Team Leader Choi is staring at Taekyung, not the other way around.",
+      "id": "F08",
+      "rationale": "눈을 부릅뜬 채 날 바라보는 directly modifies 최 팀장, identifying Choi as the person staring wide-eyed at the narrator.",
+      "replacement": "To Team Leader Choi, who was staring at me wide-eyed, I continued, each word slow and clear.",
+      "severity": "critical",
+      "source": "눈을 부릅뜬 채 날 바라보는 최 팀장을 향해 또박또박, 천천히 말을 이었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I’ll make us strong. I will.”",
+      "defect": "The object changes from Choi and the others to an inclusive “us,” weakening Taekyung’s personal promise that he will make them strong.",
+      "id": "F09",
+      "rationale": "만들어 줄게요 expresses an offer or promise performed for the addressee; the omitted object is the people Taekyung is addressing, not Taekyung-inclusive “us.”",
+      "replacement": "“I’ll make you strong. I will.”",
+      "severity": "critical",
+      "source": "“강하게 만들어 줄게요. 내가.”"
+    }
+  ],
+  "summary": "Several subject and action reversals change who performs key actions, while other passages weaken or alter characterization and register.",
+  "version": 1
+}

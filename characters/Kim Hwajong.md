@@ -1,6 +1,6 @@
 # Kim Hwajong (김화종)
 
-- **Safe through:** Chapter 287
+- **Safe through:** Chapter 288
 - **Aliases:** Butler Kim
 - **Role:** Level 80 mage known as Butler Kim; former Class 3 instructor at the Hunter Training Center; arrives at the confrontation between Im Chunsoo and Jin Taekyung
 - **Personality:** Gentle and composed
