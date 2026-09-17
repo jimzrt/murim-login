@@ -1,17 +1,17 @@
 # Translation State
 
-- Last completed: 238
-- Next chapter: 239
-- Current block: 235–239 (4/5)
-- Latest translation: `translations/0238.md`
-- Latest summary: `summaries/beats/0238.md`
-- Safe profiles through: chapter 238
+- Last completed: 239
+- Next chapter: 240
+- Current block: 235–239 (5/5)
+- Latest translation: `translations/0239.md`
+- Latest summary: `summaries/beats/0239.md`
+- Safe profiles through: chapter 239
 
 ## Current Block
 
-- Jin Taekyung and Jeok Cheongang arrive at the Nangong Family estate in Anhui for the Azure Sky Sword King's birthday celebration. Jeok explains that the Azure Sky Sword King is an unpredictable swordsman obsessed with martial arts who once spared Jangcheon in exchange for a spar with Jeok; Jeok won by half a form, after which the Sword King entered seclusion.
-- Taekyung crosses the estate while still wearing the chained Ten-Thousand-Year Cold Iron balls from his year of training, leaving deep tracks and attracting comments that he looks like a prisoner or an Elder of the Beggars' Sect. Ten Peak guards stop him at a pavilion and demand that he disarm, but Taekyung explains that only Jeok has the key and that removing the chains would interrupt his training.
-- When the youngest guard threatens to cut off the chains in accordance with Nangong law, Namgung Ryong projects his internal-energy voice across the area and orders the guards to let Taekyung inside.
+- Namgung Ryong apologizes for his son's discourtesy and asks Jin Taekyung to prevent Great Hero Jeok from dueling his father, the Azure Sky Sword King. Taekyung explains that Jeok will not back down and agrees only to try speaking with him.
+- Namgung Ryong's son, Nangong Ok—the Sword Dragon and Lesser Family Head—confronts Taekyung after overhearing the conversation. When Nangong Ok attempts to draw his sword, Taekyung stops the blade and then deliberately summons the Azure Sky Sword King to a secluded mountain.
+- Taekyung begs Namgung Cheon to postpone the duel for one year but refuses to explain Jeok's condition. Namgung Cheon offers to grant the request if Taekyung withstands three moves, generating the Sudden Quest Three-Move Kill. Taekyung accepts, removes his year-long shackles, and faces the Azure Sky Sword King's opening Emperor's Sword Form.
 
 ## Open Questions
 
@@ -19,10 +19,10 @@
 - Why has Namgung Ryong committed the family's intelligence network to investigating Taekyung?
 - What important matter does Jin Wikyung need to discuss privately with Jeok Cheongang?
 - Did Mae Jonghak actually grant Cheongpung permission to become Jeok's Disciple, and will Baek Museong escort Cheongpung to Huashan or search the Central Plains for Mae?
-- Will Jin Mukyung eventually attend the Star-Array Grand Banquet?
 - What is the unknowable calamity approaching as the heavenly patterns become distorted?
 - What does Dark Heaven intend, and how is it connected to the approaching calamity?
 - Is the Azure Sky Sword King's birthday invitation a pretext for another spar with Jeok Cheongang?
+- Can Taekyung withstand Namgung Cheon's three moves and secure the requested delay?
 
 ## Exceptional Decision
 

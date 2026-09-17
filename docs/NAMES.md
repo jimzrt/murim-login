@@ -729,3 +729,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 검미새 | **sword nut** | Taekyung's joking term for someone obsessed with swords. |
 | 노환 | **infirmities of old age** | Jeok Cheongang's age-related illness. |
 | 헨젤과 그레텔 | **Hansel and Gretel** | Fairy-tale siblings used in Taekyung's chained-iron-ball joke. |
+| 남궁옥 | **Nangong Ok** | Namgung Ryong's only son, the Nangong Family's Lesser Family Head and the Sword Dragon. |
+| 검룡 | **Sword Dragon** | Epithet of Nangong Ok; one of the Ten Dragons and Phoenixes. |
+| 제왕검형 | **Emperor's Sword Form** | Sword form invoked by the Azure Sky Sword King. |
+| 삼초살 | **Three-Move Kill** | Sudden Quest requiring Taekyung to withstand three moves. |
+| 남만 | **Nanman** | Historical regional term used for the source of the imported ebony. |
