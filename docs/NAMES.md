@@ -1048,3 +1048,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 천년설삼 | **Thousand-Year Snow Ginseng** | Secret Zhongnan Sect cargo; a fully digested specimen can grant a full jiazi of internal energy. |
 | 유엽도 | **willow-leaf saber** | Saber wielded by Song Ilseom. |
 | 살인멸구 | **Silencing the Witnesses** | Killing witnesses to prevent a secret from being exposed. |
+| 방열 | **Bangyeol** | Personal name of Heavenly Axe; Level 93 Peak master and leader of Black Stone Stronghold. |
+| 버뮤다 삼각지대 | **Bermuda Triangle** | Taekyung's joking collective label for the three companions descending the hill. |
+| 용봉표국의 위기 | **Crisis of the Yongbong Escort Bureau** | Sudden Quest accepted and completed by Taekyung. |
+| 천력부 처치 | **Defeat Heavenly Axe** | Quest objective completed when Taekyung kills Bangyeol. |
+| 흑석채 제압 | **Subdue Black Stone Stronghold** | Quest completed when the surviving bandits surrender. |
