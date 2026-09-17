@@ -1,27 +1,29 @@
 # Translation State
 
-- Last completed: 253
-- Next chapter: 254
-- Current block: 250–254 (4/5)
-- Latest translation: `translations/0253.md`
-- Latest summary: `summaries/beats/0253.md`
-- Safe profiles through: chapter 253
+- Last completed: 254
+- Next chapter: 255
+- Current block: 250–254 (5/5)
+- Latest translation: `translations/0254.md`
+- Latest summary: `summaries/beats/0254.md`
+- Safe profiles through: chapter 254
 
 ## Current Block
 
-- Cheongpung defeated Wudang’s Willow-Cloud Divine Dragon in the quarterfinals. He evaded the Divine Dragon’s Sword Energy, reproduced the principle of the Taiji Wisdom Sword, and finally used the Thirty-Six Plum Blossom Swords to shatter the Pine-Pattern Ancient Sword. The Willow-Cloud Divine Dragon conceded after recognizing Cheongpung as a martial artist beyond his reach.
-- Cheongpung and Jongni Chu discovered that they would face each other in the semifinals, though both promised to go easy on the other. Jin Taekyung then defeated Gung Gibang in exactly fifteen minutes and advanced to the Star-Array Grand Banquet finals; Gung revealed that he had learned only five stages each of the Eighteen Dragon-Subduing Palms and Dog-Beating Staff Technique.
+- After Jin Taekyung defeats Gung Gibang, Jongni Chu observes that Taekyung effortlessly countered the Dog-Beating Staff Technique, broke an internal-energy-infused staff with his bare fist, endured the Eighteen Dragon-Subduing Palms, and deliberately accepted attacks. Jongni Chu suspects Taekyung may possess the Heavenly Martial Physique and notes that he is the Fire King's Disciple.
+- Hidden Shadow Pavilion agents track Jongni Chu, while separate agents watch Jin Taekyung and Cheongpung. Song Ho disguises himself as an old beggar and follows Jongni Chu, recognizing that he may have encountered him before. Song Ho's recurring pain recalls the final battle against the Demonic Cult decades earlier, when he lost his leg and heard an unknown man threaten to tear it off.
+- While preparing for the final, Jin Taekyung imagines Cheongpung's violet Sword Energy and considers which martial art he will need to use against him. Hyuk Mujin visits to keep him company before the final, reveals that rumors identify Cheongpung as the Invincible Divine Sword Kang Pung, and insists that Cheongpung must win the semifinal.
+- Jongni Chu and Cheongpung begin their semifinal. Jongni Chu's sword is filthy and heavily rusted, so Cheongpung offers to lend him his own sword. Jongni Chu refuses, points his rusted blade at Cheongpung, and says he has never had a friend like him; the result of the duel is not shown.
 
 ## Open Questions
 
-- How will Cheongpung’s semifinal against Jongni Chu conclude, and will the eventual Taekyung-Cheongpung final occur and how will it conclude?
-- What is Jongni Chu’s identity, affiliation, and martial-arts origin?
+- How will Cheongpung's semifinal against Jongni Chu conclude, and will the eventual Taekyung-Cheongpung final occur and how will it conclude?
+- What is Jongni Chu's identity, affiliation, and martial-arts origin?
 - Is Jongni Chu connected to Dark Heaven, the Demonic Cult, the Demonic Path, or something else?
 - Why was Shadow Killer pursuing Jongni Chu, what did the Hidden Shadow Pavilion seek, and what became of Shadow Killer after contact was lost?
 - Who is the Gold-Faced Young Master who bet on Taekyung?
 - Which powerful martial artists concealed their abilities during the preliminaries?
 - Who has Hong Dao chosen to serve as Abbot until Unnamed returns from Arhat Cave?
-- Whom did Song Ho observe, what did he notice, and why does he attend the main-event duels daily before leaving during the third day?
+- Why does Song Ho attend the main-event duels daily before leaving during the third day, and what is the significance of his prior encounter with Jongni Chu?
 
 ## Exceptional Decision
 

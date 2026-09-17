@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Besides, what kind of lunatic would take the Dog-Beating Staff Technique with his bare body just to toughen himself up?",
+      "defect": "The established System attribute 맷집 is paraphrased instead of rendered as “Toughness.”",
+      "id": "F01",
+      "rationale": "The source explicitly uses 맷집, whose binding established rendering is “Toughness.”",
+      "replacement": "Besides, what kind of lunatic would take the Dog-Beating Staff Technique head-on just to raise his Toughness?",
+      "severity": "minor",
+      "source": "그렇다고 맷집을 키우려고 타구봉법을 맨몸으로 맞는 미친놈이 어디 있겠나."
+    },
+    {
+      "confidence": 0.99,
+      "current": "A merchant with a generous belly, a hunched old man, a third-rate martial artist and wandering martial artist dressed in cheap martial-arts uniforms…",
+      "defect": "The established rank “Third Rate” is not capitalized, and the missing article before “wandering martial artist” makes the list ungrammatical.",
+      "id": "F02",
+      "rationale": "삼류 has the binding rendering “Third Rate,” and the source lists the two martial artists as distinct figures.",
+      "replacement": "A merchant with a generous belly, a hunched old man, a Third Rate martial artist and a wandering martial artist dressed in cheap martial-arts uniforms…",
+      "severity": "minor",
+      "source": "뱃살이 후덕한 장사치, 허리가 굽은 노인, 싸구려 무복을 걸친 삼류 무인과 낭인……."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Meanwhile, a middle-aged beggar who had been sitting on the street begging for alms continued bowing his back for some time as people tossed him small change. Then he got to his feet.",
+      "defect": "“Bowing his back” is an unnatural anatomical rendering that obscures the beggar’s repeated deferential bowing for the coins.",
+      "id": "F03",
+      "rationale": "허리를 굽실거리다 describes repeatedly bending or bowing ingratiatingly, not merely having or moving a bowed back.",
+      "replacement": "Meanwhile, a middle-aged beggar who had been sitting on the street begging for alms continued bowing low as people tossed him small change. After a while, he got to his feet.",
+      "severity": "minor",
+      "source": "그리고 길거리에 주저앉아 동냥하던 한 중년 거지는 그 후에도 한동안 사람들이 던져 주는 푼돈에 허리를 굽실거리다 자리에서 일어났다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Cheongpung and the illusory sword he had created vanished as if washed away.",
+      "defect": "The draft changes 검기, projected Sword Energy, into a physical sword and therefore alters the martial mechanism being visualized.",
+      "id": "F04",
+      "rationale": "검기 is the established term “Sword Energy”; the source refers to the imagined energy produced by Cheongpung, not his weapon.",
+      "replacement": "Cheongpung and the illusory Sword Energy he had conjured vanished as if washed away.",
+      "severity": "major",
+      "source": "청풍도, 그가 만들어 낸 허상의 검기도 씻은 듯이 사라졌다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "The moment I nodded reluctantly, he heard it.\n\n“Waaaaah!”\n\nA roar rose from not far away, echoing through the air.",
+      "defect": "The draft invents an action by an unidentified male subject—“he heard it”—and changes 찜찜한 마음으로 from unease or misgiving to reluctance.",
+      "id": "F05",
+      "rationale": "The source says Taekyung nods despite his uneasy feeling and is immediately interrupted by the nearby roar; it does not state that another man hears anything.",
+      "replacement": "The moment I nodded uneasily—\n\n“Waaaaah!”\n\nA roar echoed from not far away.",
+      "severity": "critical",
+      "source": "내가 찜찜한 마음으로 고개를 끄덕인 순간이었다.\n\n“와아아아!”\n\n그리 멀지 않은 곳에서 메아리처럼 들려오는 함성."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“What will you use?”",
+      "defect": "The draft omits Jongni Chu’s incredulous repetition of Cheongpung’s claim that he will be fine, weakening the immediate conversational reaction.",
+      "id": "F06",
+      "rationale": "괜찮다? directly echoes and questions Cheongpung’s preceding 난 괜찮은데 before Jongni Chu asks what Cheongpung will do without his sword.",
+      "replacement": "“You’re fine? Then what will you use?”",
+      "severity": "minor",
+      "source": "“괜찮다? 자네는 어떡하고?”"
+    }
+  ],
+  "summary": "One critical subject/action error, one meaningful martial-mechanism error, and several localized terminology and pragmatic-cue issues.",
+  "version": 1
+}

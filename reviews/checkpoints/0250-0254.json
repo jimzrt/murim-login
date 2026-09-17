@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "but the side profile of the way he kept shoving dumplings into his mouth looked somehow familiar.",
+      "defect": "The construction incorrectly assigns a side profile to an action and reads like an unpolished syntax calque.",
+      "id": "C01",
+      "rationale": "The replacement preserves the visual recognition cue while making the sentence natural contemporary English.",
+      "replacement": "but something about his profile as he kept shoving dumplings into his mouth looked familiar.",
+      "severity": "minor",
+      "source": "Chapter 251, Taekyung describing the disguised Cheongpung"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Hunyuan Saber",
+      "defect": "The epithet conflicts with the packet’s binding terminology decision, which establishes Hunyun Saber.",
+      "id": "C02",
+      "rationale": "Using the established spelling prevents terminology drift across chapters and state.",
+      "replacement": "Hunyun Saber",
+      "severity": "minor",
+      "source": "Chapter 252, narration describing Taekyung’s previous opponent"
+    },
+    {
+      "confidence": 0.99,
+      "current": "You’re the Grand Family Head of the Hebei Peng Family who was eliminated in the quarterfinals, after all.",
+      "defect": "The relative clause grammatically says that the Thunderbolt Saber King himself was eliminated, contradicting the surrounding exchange in which his eldest grandson lost to Taekyung.",
+      "id": "C03",
+      "rationale": "The replacement restores the intended target of the taunt without changing its substance or tone.",
+      "replacement": "You’re the Grand Family Head of the Hebei Peng Family whose eldest grandson was eliminated in the quarterfinals, after all.",
+      "severity": "major",
+      "source": "Chapter 252, Jeok Cheongang taunting the Thunderbolt Saber King"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Besides, what kind of lunatic would take the Dog-Beating Staff Technique head-on just to raise his Toughness?",
+      "defect": "Capitalizing Toughness makes it read as the formal System stat, accidentally suggesting that Jongni Chu knows about Taekyung’s System.",
+      "id": "C04",
+      "rationale": "Lowercase ordinary phrasing preserves Jongni’s inference about physical conditioning without introducing System knowledge or an accidental spoiler.",
+      "replacement": "Besides, what kind of lunatic would take the Dog-Beating Staff Technique head-on just to build up his toughness?",
+      "severity": "major",
+      "source": "Chapter 254, Jongni Chu reflecting on Taekyung’s behavior"
+    },
+    {
+      "confidence": 0.99,
+      "current": "A Disciple of the Fire King…",
+      "defect": "The phrasing drifts from the packet’s established rendering Fire King’s Disciple and uses title-style capitalization inside an indefinite noun phrase.",
+      "id": "C05",
+      "rationale": "This matches the binding terminology decision and reads naturally as Jongni recognizing Taekyung’s identity.",
+      "replacement": "The Fire King’s Disciple…",
+      "severity": "minor",
+      "source": "Chapter 254, Jongni Chu identifying Taekyung"
+    }
+  ],
+  "summary": "The packet is coherent and preserves the major hooks, character voices, and unresolved suspicions. Five actionable issues remain: two terminology inconsistencies, one sentence that assigns the quarterfinal loss to the wrong person, one capitalization that accidentally implies Jongni Chu knows about the System, and one awkward English construction.",
+  "version": 1
+}
