@@ -1,798 +1,718 @@
-# Mastering Diff — 79 changed hunks
+# Mastering Diff — 51 changed hunks
 
 ## H001 (replace)
 
-### BASE
+Baseline paragraphs: P3
+SOL paragraphs: P3
+Korean lines: 7
+
+BASE:
 
 Jinho delivered the verdict with the solemnity of a judge. He was the manager of the goshiwon[^1] where I lived, a thirty-year-old exam candidate.
 
-### SOL
+SOL:
 
-Jinho delivered the verdict with the solemnity of a judge. He was the manager of the goshiwon[^1] where I lived and a thirty-year-old preparing for the civil service exam.
+Jinho hyung delivered the verdict with the solemnity of a judge. He was the manager of the goshiwon[^1] where I lived, a thirty-year-old exam candidate.
 
 ## H002 (replace)
 
-### BASE
+Baseline paragraphs: P4
+SOL paragraphs: P4
+Korean lines: 9
+
+**Terminology alert:** `가지` → `Go`
+
+BASE:
 
 We were fairly close, only three years apart, and I remembered how he was always going on about how much he knew about IT. That was why I showed him the capsule I’d picked up, but…
 
-### SOL
+SOL:
 
-We were fairly close, being only three years apart. He was always bragging about how much he knew about IT, so I’d shown him the capsule I’d picked up, but…
+We were fairly close, being only three years apart, and he was always bragging about how much he knew about IT. That was why I’d shown him the capsule I’d picked up, but…
 
 ## H003 (replace)
 
-### BASE
+Baseline paragraphs: P9
+SOL paragraphs: P9
+Korean lines: 19
 
-“No. I said it’s garbage.”
-
-### SOL
-
-“No. I’m telling you, it’s garbage.”
-
-## H004 (replace)
-
-### BASE
-
-Wow. Not even a hint of hesitation. For some reason, I felt personally insulted.
-
-### SOL
-
-Wow. Not even a moment’s hesitation. For some reason, I felt personally insulted.
-
-## H005 (replace)
-
-### BASE
+BASE:
 
 Just as I’d said, he hadn’t even looked inside. He’d merely given it a quick once-over, top to bottom, before declaring it garbage. Since I’d been thinking about how much I could get for it secondhand, the blow hit me hard.
 
-### SOL
+SOL:
 
-Just as I’d said, he hadn’t even looked inside. He’d merely given it a quick once-over from top to bottom before declaring it garbage. Since I’d been wondering how much I could get for it secondhand, the verdict came as a serious blow.
+Just as I’d said, he hadn’t even looked inside. He’d merely given it a quick once-over, top to bottom, before declaring it garbage. Since I’d been wondering how much I could get for it secondhand, the blow hit me hard.
 
-## H006 (replace)
+## H004 (replace)
 
-### BASE
+Baseline paragraphs: P15
+SOL paragraphs: P15
+Korean lines: 31
 
-“Taekyung. Taekyung. Jin Taekyung. You’re laboring under a serious misunderstanding.”
+BASE:
 
-### SOL
+“Jinho…”
 
-“Taekyung. Taekyung. Jin Taekyung. You’re laboring under a grave misunderstanding.”
+SOL:
 
-## H007 (replace)
+“Hyung…”
 
-### BASE
+## H005 (replace)
 
-“Shit is shit. You don’t have to dig through it to check for yesterday’s bean sprouts. You can tell it’s shit just by looking at it.”
+Baseline paragraphs: P16
+SOL paragraphs: P16
+Korean lines: 33
 
-### SOL
-
-“Shit is shit. You don’t need to dig through it to check for the bean sprouts you ate yesterday. One look is enough to tell it’s shit.”
-
-## H008 (replace)
-
-### BASE
-
-“Shh. Don’t say anything more. I wasn’t fishing for praise.”
-
-### SOL
-
-“Shh. Don’t say another word. I didn’t say it because I wanted your praise.”
-
-## H009 (replace)
-
-### BASE
+BASE:
 
 I wanted to kill him. My fist trembled with the urge, and Jinho flinched. Unlike him, who had spent his entire life hunched over a desk, I had a fairly intimidating build.
 
-### SOL
+SOL:
 
-I wanted to kill him. My fist trembled with the urge, making Jinho flinch. Unlike him, who had spent his entire life behind a desk, I had a fairly intimidating build.
+I wanted to kill him. My fist trembled with the urge, and Jinho hyung flinched. Unlike him, who had spent his entire life hunched over a desk, I had a fairly intimidating build.
 
-## H010 (replace)
+## H006 (replace)
 
-### BASE
+Baseline paragraphs: P17
+SOL paragraphs: P17
+Korean lines: 35
+
+BASE:
 
 “Taekyung. Let’s recall Article 1, Clause 12 of the Awakened Persons Special Act. What you’re about to do falls under assault of a civilian by an Awakened…”
 
-### SOL
+SOL:
 
-“Taekyung. Let’s reflect on Article 1, Clause 12 of the Awakened Persons Special Act. What you’re about to do constitutes assault on a civilian by an Awakened…”
+“Taekyung. Let’s recall Article 1, Clause 12 of the Awakened Persons Special Act. What you’re about to do constitutes assault of a civilian by an Awakened…”
 
-## H011 (replace)
+## H007 (replace)
 
-### BASE
+Baseline paragraphs: P27
+SOL paragraphs: P27
+Korean lines: 55
 
-Watching him make such a fuss, I could only sigh.
-
-### SOL
-
-His theatrics drew a sigh from me.
-
-## H012 (replace)
-
-### BASE
-
-My fist slowly dropped.
-
-### SOL
-
-My fist slowly lowered.
-
-## H013 (replace)
-
-### BASE
-
-“That’s right. Good thinking. This field is small enough as it is. If word got around that you assaulted a civilian, you’d get fired from your Guild too…”
-
-### SOL
-
-“That’s right. Good decision. This field is small enough as it is. If word got around that you assaulted a civilian, you’d get fired from your Guild too…”
-
-## H014 (replace)
-
-### BASE
-
-“I already got fired.”
-
-### SOL
-
-“I already did.”
-
-## H015 (replace)
-
-### BASE
-
-“The moment I showed up, my Team Leader thanked me for all my hard work.”
-
-### SOL
-
-“My Team Leader told me as soon as I got to work. Thanked me for all my hard work.”
-
-## H016 (replace)
-
-### BASE
-
-I’d started that job at twenty. I’d needed to support my family in place of my late father, which was why I’d chosen to become a Hunter.
-
-### SOL
-
-I’d started the job at twenty. With my father gone, I’d needed to support my family, so I’d become a Hunter.
-
-## H017 (replace)
-
-### BASE
+BASE:
 
 F-rank. The lowest possible grade, with no particular talent to speak of, but I prided myself on having worked hard. With what I earned, I paid for my mother’s medical treatment and supported my only younger sibling.
 
-### SOL
+SOL:
 
-F-rank. The lowest of the low, without any particular talent to speak of, but I prided myself on how hard I’d worked. The money I earned had paid for my mother’s treatment and supported my only younger sibling.
+F-rank. The lowest possible rank, with no particular talent to speak of, but I prided myself on having worked hard. With what I earned, I paid for my mother’s medical treatment and supported my only younger sibling.
 
-## H018 (replace)
+## H008 (replace)
 
-### BASE
+Baseline paragraphs: P30
+SOL paragraphs: P30
+Korean lines: 61
 
-But now… it felt as though the past seven years had vanished all at once. I remembered the Team Leader’s impassive face as he informed me of my dismissal a few hours earlier, and my chest tightened.
-
-### SOL
-
-But now… it felt as though the past seven years had been wiped away. I remembered my Team Leader’s impassive face as he told me I was fired a few hours earlier, and my chest tightened.
-
-## H019 (replace)
-
-### BASE
+BASE:
 
 I gave a short laugh at Jinho’s flustered expression.
 
-### SOL
+SOL:
 
-Jinho’s flustered expression made me snort.
+I gave a short laugh at Jinho hyung’s flustered expression.
 
-## H020 (replace)
+## H009 (replace)
 
-### BASE
+Baseline paragraphs: P34
+SOL paragraphs: P34
+Korean lines: 69
 
-“Honestly… kind of.”
+BASE:
 
-### SOL
+“Then buy me a drink. This is when you’re supposed to act like my big brother.”
 
-“Honestly… a little.”
+SOL:
 
-## H021 (replace)
+“Then buy me a drink. This is when you’re supposed to act like my hyung.”
 
-### BASE
+## H010 (replace)
+
+Baseline paragraphs: P35
+SOL paragraphs: P35
+Korean lines: 71
+
+BASE:
 
 “Listen to the disrespect on you. Try treating me like your big brother before you say something like that.”
 
-### SOL
+SOL:
 
-“Listen to that mouth. Try treating me like your big brother before you say something like that.”
+“Listen to the disrespect on you. Try treating me like your hyung before you say something like that.”
 
-## H022 (replace)
+## H011 (replace)
 
-### BASE
+Baseline paragraphs: P36
+SOL paragraphs: P36
+Korean lines: 73
+
+**Terminology alert:** `가지` → `Go`
+
+BASE:
 
 He said that, but still jerked his chin for me to follow. From his expression, we were going to drink until one of us fell over tonight.
 
-### SOL
+SOL:
 
-Despite his words, he jerked his chin for me to follow him out. Judging by his expression, we were going to drink ourselves senseless tonight.
+He said that, but still jerked his chin for me to follow. Judging by his expression, we were getting plastered tonight.
 
-## H023 (replace)
+## H012 (replace)
 
-### BASE
+Baseline paragraphs: P38
+SOL paragraphs: P38
+Korean lines: 81
+
+BASE:
 
 A Gate marks the boundary of the world. Outside it—in other words, in the modern world—is the civilized society we know. Go inside, though, and it’s crawling with monsters no one has ever seen or heard of.
 
-### SOL
+SOL:
 
-A Gate marks the boundary between worlds. Outside it—in other words, in the modern world—is the civilized society we know. Step inside, though, and you’ll find it crawling with monsters no one has ever seen or heard of.
+A Gate marks the boundary between worlds. Outside it—in other words, in the modern world—is the civilized society we know. Go inside, though, and it’s crawling with monsters no one has ever seen or heard of.
 
-## H024 (replace)
+## H013 (replace)
 
-### BASE
+Baseline paragraphs: P39
+SOL paragraphs: P39
+Korean lines: 83
+
+BASE:
 
 The weakest and most common of them were goblins—even an F-rank Hunter like me could handle one.
 
-### SOL
+SOL:
 
 The weakest and most common of them are goblins—even an F-rank Hunter like me can handle one.
 
-## H025 (replace)
+## H014 (replace)
 
-### BASE
+Baseline paragraphs: P43
+SOL paragraphs: P43
+Korean lines: 91
+
+BASE:
 
 Was that thing human or a monster? Leaning against a utility pole and vomiting, Jinho looked just like a goblin that had taken a hard blow to the solar plexus.
 
-### SOL
+SOL:
 
-Was that thing human or a monster? Leaning against a utility pole and puking his guts out, Jinho looked exactly like a goblin that had taken a hard blow to the solar plexus.
+Was that thing human or a monster? Leaning against a utility pole and vomiting, Jinho hyung looked just like a goblin that had taken a hard blow to the solar plexus.
 
-## H026 (replace)
+## H015 (replace)
 
-### BASE
+Baseline paragraphs: P44
+SOL paragraphs: P44
+Korean lines: 93
+
+BASE:
 
 “Hey, Jinho. Mr. Seong Jinho. Try to come to your senses.”
 
-### SOL
+SOL:
 
-“Hey. Jinho. Mr. Seong Jinho. Try to get a grip.”
+“Hey, Jinho hyung. Mr. Seong Jinho. Try to come to your senses.”
 
-## H027 (replace)
+## H016 (replace)
 
-### BASE
+Baseline paragraphs: P48
+SOL paragraphs: P48
+Korean lines: 101
 
-…Just carry on.
-
-### SOL
-
-…Never mind. Carry on.
-
-## H028 (replace)
-
-### BASE
+BASE:
 
 He had been pounding drinks like a lunatic from the very first round, and this was how he’d ended up. Never mind that I’d had to pay the bill—I was soaked through after carrying the dead-drunk man all the way back to the goshiwon.
 
-### SOL
+SOL:
 
-He’d been pounding drinks like a lunatic from the very first round, and this was the result. Never mind that I’d ended up paying the bill—I was drenched from carrying him all the way back to the goshiwon after he passed out.
+He’d been pounding drinks like a lunatic since the first round, and this was how he’d ended up. Never mind that I’d had to pay the bill—I was soaked through after carrying the dead-drunk man all the way back to the goshiwon.
 
-## H029 (replace)
+## H017 (replace)
 
-### BASE
+Baseline paragraphs: P49
+SOL paragraphs: P49
+Korean lines: 103
+
+BASE:
 
 Sweat was a given. Vomit was extra. It was obvious whose it was.
 
-### SOL
+SOL:
 
-Sweat came standard. Vomit was the optional extra. There was no question whose mouth it had come from.
+Sweat came standard. Vomit was an optional extra. There was no question whose mouth it had come from.
 
-## H030 (replace)
+## H018 (replace)
 
-### BASE
+Baseline paragraphs: P50
+SOL paragraphs: P50
+Korean lines: 105
+
+BASE:
 
 While he retched intermittently in the background, I watched the sun sink toward the horizon.
 
-### SOL
+SOL:
 
 With his intermittent retching as background music, I watched the sun sink toward the horizon.
 
-## H031 (replace)
+## H019 (replace)
 
-### BASE
+Baseline paragraphs: P53
+SOL paragraphs: P53
+Korean lines: 111
 
-The memories of the day flashed through my mind like a panorama.
-
-### SOL
-
-The day’s events flashed through my mind like a panorama.
-
-## H032 (replace)
-
-### BASE
+BASE:
 
 *What a day this is turning out to be.*
 
-### SOL
+SOL:
 
-*What a fantastic day.*
+*What a spectacular day.*
 
-## H033 (replace)
+## H020 (replace)
 
-### BASE
+Baseline paragraphs: P55
+SOL paragraphs: P55
+Korean lines: 115
+
+BASE:
 
 You were the highlight of it all.
 
-### SOL
+SOL:
 
-And you were the crowning achievement.
+And you were the highlight of it all.
 
-## H034 (replace)
+## H021 (replace)
 
-### BASE
+Baseline paragraphs: P57
+SOL paragraphs: P57
+Korean lines: 119
+
+BASE:
 
 “Home? My home’s in Gangwon Province. Oh, Mom. Mom! I want some of my mom’s doenjang stew[^2].”
 
-### SOL
+SOL:
 
 “Home? My home’s in Gangwon Province. Oh, Mom. Mom! I want some of my mom’s doenjang stew.[^2]”
 
-## H035 (replace)
+## H022 (replace)
 
-### BASE
+Baseline paragraphs: P58
+SOL paragraphs: P58
+Korean lines: 121
+
+BASE:
 
 “Oh, for crying out loud. It’s the goshiwon, Jinho.”
 
-### SOL
+SOL:
 
-“Oh, for crying out loud. We’re at the goshiwon, Jinho.”
+“Oh, for crying out loud. It’s the goshiwon, hyung.”
 
-## H036 (replace)
+## H023 (replace)
 
-### BASE
+Baseline paragraphs: P65
+SOL paragraphs: P65
+Korean lines: 139
 
-“Hope… Right. Hope can’t be bought with money. My mom always said it was in everyone’s heart. She makes incredible doenjang stew.”
-
-### SOL
-
-“Hope… Right. Hope can’t be bought with money. My mom said it lives in everyone’s heart. She makes incredible doenjang stew.”
-
-## H037 (replace)
-
-### BASE
-
-I waited patiently until he reached the part about doenjang stew, then punched him in the gut.
-
-### SOL
-
-I waited patiently until he got to the part about doenjang stew, then punched him in the gut.
-
-## H038 (replace)
-
-### BASE
+BASE:
 
 “I feel gross.”
 
-### SOL
+SOL:
 
 “I still feel filthy.”
 
-## H039 (replace)
+## H024 (replace)
 
-### BASE
+Baseline paragraphs: P66
+SOL paragraphs: P66
+Korean lines: 141
+
+BASE:
 
 I went straight to the shower room in the goshiwon and showered for thirty minutes, but I still felt as if the smell of vomit were clinging to the tip of my nose.
 
-### SOL
+SOL:
 
-I’d gone straight to the goshiwon’s shower room and washed for thirty minutes, but the smell of vomit still seemed to linger beneath my nose.
+I went straight to the goshiwon’s shower room and washed for thirty minutes, but I could still smell vomit clinging to the tip of my nose.
 
-## H040 (replace)
+## H025 (replace)
 
-### BASE
+Baseline paragraphs: P67
+SOL paragraphs: P67
+Korean lines: 143
+
+BASE:
 
 When I returned, sniffing all the way, two nuisances were waiting in my room.
 
-### SOL
+SOL:
 
-When I returned to my room, sniffing as I went, two nuisances were waiting for me.
+When I returned to my room, sniffing all the way, two nuisances were waiting for me.
 
-## H041 (replace)
+## H026 (replace)
 
-### BASE
+Baseline paragraphs: P69
+SOL paragraphs: P69
+Korean lines: 147
+
+BASE:
 
 One was Jinho, dead drunk, and the other was…
 
-### SOL
+SOL:
 
-One was Jinho, dead drunk. The other was…
+One was Jinho hyung, dead drunk, and the other was…
 
-## H042 (replace)
+## H027 (replace)
 
-### BASE
+Baseline paragraphs: P71
+SOL paragraphs: P71
+Korean lines: 151
+
+BASE:
 
 The capsule. I’d left the refrigerator-sized thing in my room, barely ten square meters, and it felt as if it had filled the entire space. I retreated onto the bed and began wondering what to do with it.
 
-### SOL
+SOL:
 
-The capsule. With that refrigerator-sized thing sitting in my room, which was barely ten square meters, the place felt completely full. I retreated onto the bed and began wondering what to do with it.
+The capsule. I’d left the refrigerator-sized thing in my room, barely ten square meters, and it felt as though it took up the entire space. I retreated onto the bed and began wondering what to do with it.
 
-## H043 (replace)
+## H028 (replace)
 
-### BASE
+Baseline paragraphs: P72
+SOL paragraphs: P72
+Korean lines: 153
+
+BASE:
 
 *Should I take it back where I found it?*
 
-### SOL
+SOL:
 
-*Should I take it out and throw it away?*
+*Should I take it back and throw it away?*
 
-## H044 (replace)
+## H029 (replace)
 
-### BASE
+Baseline paragraphs: P74
+SOL paragraphs: P74
+Korean lines: 157
 
-I could hand it over to a scrap dealer instead. What were scrap-metal prices like these days? It weighed at least fifty kilograms, so I could probably get enough for a few snacks.
-
-### SOL
-
-Or I could hand it over to a scrap dealer. What were scrap-metal prices like these days? The thing weighed at least fifty kilograms, so I could probably get enough for a few snacks.
-
-## H045 (replace)
-
-### BASE
+BASE:
 
 *I thought it was a fairly useful piece of equipment.*
 
-### SOL
+SOL:
 
-*I thought it might actually be worth something.*
+*I thought it might actually be useful.*
 
-## H046 (replace)
+## H030 (replace)
 
-### BASE
+Baseline paragraphs: P75
+SOL paragraphs: P75
+Korean lines: 159
+
+BASE:
 
 Shit, huh? Was it really that much of a piece of junk?
 
-### SOL
+SOL:
 
-Garbage, huh? Was it really that worthless?
+Garbage, huh? Was it really that much of a wreck?
 
-## H047 (replace)
+## H031 (replace)
 
-### BASE
+Baseline paragraphs: P76
+SOL paragraphs: P76
+Korean lines: 161
+
+BASE:
 
 Come to think of it, I hadn’t even looked inside. Curiosity got the better of me, and I examined the capsule.
 
-### SOL
+SOL:
 
-Come to think of it, I hadn’t even looked inside. A sudden flicker of curiosity made me examine the capsule more closely.
+Come to think of it, I hadn’t even looked inside. Curiosity got the better of me, and I began examining the capsule.
 
-## H048 (replace)
+## H032 (replace)
 
-### BASE
+Baseline paragraphs: P78
+SOL paragraphs: P78
+Korean lines: 165
+
+**Terminology alert:** `가지` → `Go`
+
+BASE:
 
 The capsule’s surface was yellowed with nicotine or something, and rust seemed to have formed in places. Once I let go of my attachment and took a proper look, I understood what Jinho had meant.
 
-### SOL
+SOL:
 
-The surface was stained yellow with nicotine or something, and there seemed to be rust in places. Once I let go of my lingering hopes and took a proper look, I could see why Jinho had called it garbage.
+The capsule’s surface was stained yellow with nicotine or something, and rust seemed to have formed in places. Once I set aside my attachment and took a proper look, I understood what Jinho hyung had meant.
 
-## H049 (replace)
+## H033 (replace)
 
-### BASE
+Baseline paragraphs: P80
+SOL paragraphs: P80
+Korean lines: 169
+
+BASE:
 
 I pressed the lone button sticking out, and the lid opened to reveal the interior. I had expected something impressive, but there was nothing much to see after all.
 
-### SOL
+SOL:
 
-I pressed the single protruding button. The lid opened, revealing the interior. I’d been expecting something impressive, but there wasn’t much to see.
+I pressed the lone protruding button, and the lid opened to reveal the interior. I’d expected something impressive, but there was nothing much to see after all.
 
-## H050 (replace)
+## H034 (replace)
 
-### BASE
+Baseline paragraphs: P84
+SOL paragraphs: P84
+Korean lines: 177
 
-There was only an ergonomically designed chair for extended play and a VR helmet that enclosed the entire head… Huh?
-
-### SOL
-
-Just an ergonomically designed chair for extended play and a VR helmet that enclosed the entire head… Huh?
-
-## H051 (replace)
-
-### BASE
+BASE:
 
 Did people really leave instruction manuals inside things they were throwing away? Especially in a piece of junk like this?
 
-### SOL
+SOL:
 
 Did people really leave instruction manuals inside things they were throwing away? Especially junk like this?
 
-## H052 (replace)
+## H035 (replace)
 
-### BASE
+Baseline paragraphs: P87
+SOL paragraphs: P87
+Korean lines: 185
 
-Curious, I opened to the first page.
-
-### SOL
-
-Curious, I opened it to the first page.
-
-## H053 (replace)
-
-### BASE
-
-> **Product User Manual**
->
-> **Product name:** Virtual Reality Interface  
-> **Model:** ARK-2020  
-> **Manufacturer:** H Soft  
-> **Manufacturing date:** January 1, 2020
-
-### SOL
-
-> **Product User Manual**
->
-> **Product name:** Virtual Reality Interface  
-> **Model:** Ark-2020  
-> **Manufacturer:** H Soft  
-> **Manufacturing date:** January 1, 2020
-
-## H054 (replace)
-
-### BASE
+BASE:
 
 I skimmed the print without much thought until the manufacturing date stopped me.
 
-### SOL
+SOL:
 
-I skimmed the text without much thought until my eyes stopped on the manufacturing date.
+I skimmed the print without much thought until my eyes stopped on the manufacturing date.
 
-## H055 (replace)
+## H036 (replace)
 
-### BASE
+Baseline paragraphs: P89
+SOL paragraphs: P89
+Korean lines: 189
+
+BASE:
 
 *What kind of lunatic would have made a game machine on that day—no, during that period?*
 
-### SOL
+SOL:
 
-*What kind of lunatic would have been making a game machine on that day—no, during that whole period?*
+*What kind of lunatic would have been making a game machine on that day—no, during that period?*
 
-## H056 (replace)
+## H037 (replace)
 
-### BASE
+Baseline paragraphs: P96
+SOL paragraphs: P96
+Korean lines: 205
 
-January 1, 2015. Humanity received more than a New Year’s sunrise.
-
-### SOL
-
-On January 1, 2015, humanity received more than a New Year’s sunrise.
-
-## H057 (replace)
-
-### BASE
-
-Gates—or dungeons, as they were also called—began appearing all over the world, and monsters no one had ever seen or heard of poured through them.
-
-### SOL
-
-Gates—or dungeons, as they were also called—appeared all over the world, and monsters no one had ever seen or heard of poured through them.
-
-## H058 (replace)
-
-### BASE
-
-Monsters and Awakened. War and destruction…
-
-### SOL
-
-Monsters and the Awakened. War and destruction…
-
-## H059 (replace)
-
-### BASE
-
-That day was January 1, 2020. It was known as Victory Day.
-
-### SOL
-
-That day was January 1, 2020—the so-called Victory Day.
-
-## H060 (replace)
-
-### BASE
+BASE:
 
 *So that’s impossible.*
 
-### SOL
+SOL:
 
-*So this is impossible.*
+*So there’s no way this can be right.*
 
-## H061 (replace)
+## H038 (replace)
 
-### BASE
+Baseline paragraphs: P102
+SOL paragraphs: P102
+Korean lines: 219
+
+BASE:
 
 Rather than read an instruction manual written by a lunatic, I might as well sleep. I pushed Jinho into a corner and closed my eyes.
 
-### SOL
+SOL:
 
-Sleeping was better than reading an instruction manual written by a lunatic. I shoved Jinho into a corner and closed my eyes.
+I’d be better off sleeping than reading some deranged instruction manual. I pushed Jinho hyung into a corner and closed my eyes.
 
-## H062 (replace)
+## H039 (replace)
 
-### BASE
+Baseline paragraphs: P109
+SOL paragraphs: P109
+Korean lines: 235
+
+BASE:
 
 The chair was hard. It had been made in 2020, so it was the same age as me. A twenty-seven-year-old chair. Its cushion had gone flat long ago.
 
-### SOL
+SOL:
 
-The chair was hard. It had been made in 2020, which made it the same age as me. A chair in the bloom of youth at twenty-seven. Its cushion had gone flat long ago.
+The chair was hard. It had been made in 2020, so it was the same age as me. The chair was a youthful twenty-seven. Its cushion had gone flat long ago.
 
-## H063 (replace)
+## H040 (replace)
 
-### BASE
+Baseline paragraphs: P114
+SOL paragraphs: P114
+Korean lines: 249
 
-*Wearing something like this is going to make my neck hurt.*
-
-### SOL
-
-*Sleeping in this thing is going to make my neck hurt.*
-
-## H064 (replace)
-
-### BASE
+BASE:
 
 That minor complaint vanished the moment I put on the helmet. A world of complete silence. A stillness without so much as a whisper of noise.
 
-### SOL
+SOL:
 
-That minor complaint vanished the moment I put on the helmet. Complete silence. A stillness without so much as a whisper of noise.
+That minor complaint vanished the moment I put on the helmet. A world of complete silence. Not so much as a whisper of noise.
 
-## H065 (replace)
+## H041 (replace)
 
-### BASE
+Baseline paragraphs: P115
+SOL paragraphs: P115
+Korean lines: 251
+
+BASE:
 
 But instead of sleep, my thoughts began to stir.
 
-### SOL
+SOL:
 
-But instead of sleep, thoughts came flooding in.
+But what followed wasn’t sleep. It was thought.
 
-## H066 (replace)
+## H042 (replace)
 
-### BASE
+Baseline paragraphs: P117
+SOL paragraphs: P117
+Korean lines: 255
+
+BASE:
 
 Hunters were certainly a highly paid profession, but that depended on your rank.
 
-### SOL
+SOL:
 
 Hunters were certainly well paid, but that depended on their rank.
 
-## H067 (replace)
+## H043 (replace)
 
-### BASE
+Baseline paragraphs: P118
+SOL paragraphs: P118
+Korean lines: 257
+
+BASE:
 
 F-rank Hunters like me were a dime a dozen, and unless you belonged to a Guild, you had to show up at a day-labor agency before dawn.
 
-### SOL
+SOL:
 
-F-rank Hunters like me were a dime a dozen, and unless you belonged to a Guild, you had to report to a day-labor agency before the crack of dawn.
+F-rank Hunters like me were a dime a dozen, and unless you belonged to a Guild, you had to report to a day-labor agency before dawn.
 
-## H068 (replace)
+## H044 (replace)
 
-### BASE
+Baseline paragraphs: P119
+SOL paragraphs: P119
+Korean lines: 259
+
+BASE:
 
 Being unaffiliated was miserable. Government policy was never kind to unaffiliated Hunters, and the punishing tax rates imposed on Hunters were enough to take your breath away just hearing about them.
 
-### SOL
+SOL:
 
-Being an unaffiliated Hunter was miserable. Government policy was never kind to unaffiliated Hunters, and the crushing tax rates imposed on Hunters were enough to leave you short of breath just hearing about them.
+Being unaffiliated was miserable. Government policy was never kind to unaffiliated Hunters, and the punishing tax rates imposed on Hunters were enough to leave you breathless just hearing about them.
 
-## H069 (replace)
+## H045 (replace)
 
-### BASE
+Baseline paragraphs: P121
+SOL paragraphs: P121
+Korean lines: 263
 
-*So now I’m one of them.*
-
-### SOL
-
-*And now I’m one of them.*
-
-## H070 (replace)
-
-### BASE
+BASE:
 
 Unlike me, my mother and younger sister lived in an apartment in a Safety Sector. It was an extravagant expense for an F-rank Hunter, but nothing mattered more to me than my family’s safety.
 
-### SOL
+SOL:
 
 Unlike me, my mother and younger sister lived in an apartment in a Safety Sector. It was an extravagant expense on an F-rank Hunter’s income, but nothing mattered more to me than my family’s safety.
 
-## H071 (replace)
+## H046 (replace)
 
-### BASE
+Baseline paragraphs: P122
+SOL paragraphs: P122
+Korean lines: 265
+
+BASE:
 
 Until now, I had barely managed to come up with enough money to renew their jeonse lease each year.[^3] But from now on… who knew?
 
-### SOL
+SOL:
 
-Until now, I’d barely managed to scrape together enough money each year to renew their jeonse lease.[^3] But from now on… who knew?
+Until now, I had barely managed to scrape together enough money for each annual renewal of their jeonse lease.[^3] But from now on… who knew?
 
-## H072 (replace)
+## H047 (replace)
 
-### BASE
+Baseline paragraphs: P125
+SOL paragraphs: P125
+Korean lines: 271
 
-I suddenly thought of my late father.
-
-### SOL
-
-My late father suddenly came to mind.
-
-## H073 (replace)
-
-### BASE
+BASE:
 
 He had devoted himself to his family and was respected by society, but he died when I was seven.
 
-### SOL
+SOL:
 
-He had devoted himself to his family and earned the respect of those around him, but he died when I was seven.
+He had devoted himself to his family and was respected by everyone around him, but he died when I was seven.
 
-## H074 (replace)
+## H048 (replace)
 
-### BASE
+Baseline paragraphs: P129
+SOL paragraphs: P129
+Korean lines: 279
 
-A monster attack caused by a Gate breach. As an ordinary office worker, he probably never had a chance.
-
-### SOL
-
-Monsters had attacked after a Gate breach. As an ordinary office worker, he probably hadn’t stood a chance.
-
-## H075 (replace)
-
-### BASE
-
-*I’ve still done my best all this time. Please believe in me.*
-
-### SOL
-
-*I’ve done my best all this time. Please believe me.*
-
-## H076 (replace)
-
-### BASE
+BASE:
 
 Maybe it was the alcohol finally catching up with me. Maybe it was thinking about the past. Without realizing it, I went slack and my eyes began to close.
 
-### SOL
+SOL:
 
-Maybe the alcohol was finally catching up with me, or maybe it was the memories. Either way, my body went slack, and my eyes began to close.
+Maybe the alcohol was finally catching up with me, or maybe it was because I was thinking about the past. Without realizing it, my body went slack and my eyes began to close.
 
-## H077 (replace)
+## H049 (replace)
 
-### BASE
+Baseline paragraphs: P130
+SOL paragraphs: P130
+Korean lines: 281
+
+BASE:
 
 As I surrendered to the wave of sleep pouring over me, I thought:
 
-### SOL
+SOL:
 
-As I surrendered to the wave of drowsiness, I thought:
+As I surrendered to the wave of drowsiness washing over me, I thought:
 
-## H078 (replace)
+## H050 (replace)
 
-### BASE
+Baseline paragraphs: P132
+SOL paragraphs: P132
+Korean lines: 285
+
+BASE:
 
 Someone’s voice pierced my ears, but I didn’t care anymore. I slipped gently into sleep.
 
-### SOL
+SOL:
 
-Someone’s voice reached my ears, but I no longer cared. I slipped gently into sleep.
+Someone’s voice reached my ears, but I no longer cared. I drifted off to sleep.
 
-## H079 (replace)
+## H051 (replace)
 
-### BASE
+Baseline paragraphs: P133
+SOL paragraphs: P133
+Korean lines: 287
+
+BASE:
 
 > **System**
 >
@@ -809,7 +729,7 @@ Someone’s voice reached my ears, but I no longer cared. I slipped gently into 
 > No response for an extended period. Proceeding automatically.
 > …May fortune favor you in battle!
 
-### SOL
+SOL:
 
 > **System**
 >

@@ -1,0 +1,106 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Martial Uncle is in Xi’an right now.”\n\n“……!”\n\nHyuk Sopyung’s eyes widened. There were only two people his Junior Brother, who was of the same generation as him, could call Martial Uncle.",
+      "defect": "The generic “Martial Uncle” loses the hierarchy encoded by 사백, which specifically denotes a martial uncle senior to one’s Master.",
+      "id": "F01",
+      "rationale": "The source explicitly uses 사백 twice and relies on that rank to narrow the possible identities to two senior members of the preceding generation.",
+      "replacement": "“Senior Martial Uncle is in Xi’an right now.”\n\n“……!”\n\nHyuk Sopyung’s eyes widened. There were only two people his Junior Brother, who was of the same generation as him, could call Senior Martial Uncle.",
+      "severity": "major",
+      "source": "“사백(師伯)께서 지금 서안에 계십니다.”\n\n“……!”\n\n혁소평이 눈을 크게 떴다. 자신과 같은 항렬인 사제가 사백이라고 부를 만한 사람은 단 두 명뿐이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Take me to Martial Uncle at once.”",
+      "defect": "The address again drops the seniority encoded by 사백.",
+      "id": "F02",
+      "rationale": "사백 identifies the person as Hyuk Sopyung’s Master’s senior martial brother, not an undifferentiated martial uncle.",
+      "replacement": "“Take me to Senior Martial Uncle at once.”",
+      "severity": "major",
+      "source": "“어서 사백께 안내하거라.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "- The circulation and control of qi have become freer!",
+      "defect": "“Control” collapses 수발, the issuing and withdrawing of qi, into a vague general ability and therefore loses part of the stated mechanical improvement.",
+      "id": "F03",
+      "rationale": "운용 concerns handling or manipulating qi, while 수발 specifically covers sending it out and drawing it back.",
+      "replacement": "- You can manipulate, release, and withdraw qi more freely!",
+      "severity": "major",
+      "source": "- 기의 운용과 수발이 더 자유로워집니다!"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“What brings you here when you should be at the main sect?”\n\nThe main sect referred to Mount Zhongnan, which was two days away from Xi’an.",
+      "defect": "본산 denotes the sect’s mountain headquarters, not the sect itself; the current explanation consequently claims that an organization refers to a mountain.",
+      "id": "F04",
+      "rationale": "The source explicitly defines 본산 as Mount Zhongnan, the physical location where the sect is headquartered.",
+      "replacement": "“What brings you here when you should be at headquarters?”\n\nBy headquarters, he meant Mount Zhongnan, a two-day journey from Xi’an.",
+      "severity": "minor",
+      "source": "“본산에 있어야 할 네가 여기에는 어쩐 일이지?”\n\n본산이란 서안에서 이틀 거리에 있는 종남산을 일컬었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "For the Taeeul Sword Unit to come all the way here, when they rarely ever left the main sect…",
+      "defect": "The translation again substitutes the organization for the physical headquarters the unit seldom leaves.",
+      "id": "F05",
+      "rationale": "본산 is the Zhongnan Sect’s mountain headquarters in this passage.",
+      "replacement": "For the Taeeul Sword Unit to come all the way here when they rarely ever left headquarters…",
+      "severity": "minor",
+      "source": "어지간해서는 본산도 벗어나지 않는 태을검대가 예까지 오다니."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“You’re the ones being too harsh. How dare a bunch of people who merely sell alcohol look down on our sect? There’s a limit to how far your guts can stick out.”",
+      "defect": "The first sentence incorrectly echoes “harsh” instead of accusing them of going too far, while the final clause is an unnatural literal rendering of an idiom about brazen nerve.",
+      "id": "F06",
+      "rationale": "과한 건 means that their conduct has crossed the line, and 간이 배 밖으로 튀어나오다 idiomatically describes extreme audacity rather than a physical image.",
+      "replacement": "“You’re the ones going too far. You tavern keepers dare look down on our sect? You’ve got more nerve than sense.”",
+      "severity": "minor",
+      "source": "“과한 건 네놈들이야. 술이나 파는 놈들이 감히 본문을 우습게 보다니, 간이 배 밖으로 튀어나와도 유분수지.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“……”\n\nWhat the hell?",
+      "defect": "The draft softens the coarse, euphemistically spelled 씨발 profanity to the substantially milder “hell.”",
+      "id": "F07",
+      "rationale": "시벌 is a comic pronunciation or softened spelling of strong profanity, but it remains stronger than “hell” and marks Taekyung’s blunt narrative voice.",
+      "replacement": "“……”\n\nWhat the fuck?",
+      "severity": "major",
+      "source": "“…….”\n\n뭐여, 시벌."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Oh? Maybe it isn’t the Turtle Breath Technique. Young Hero Hyuk, can you hear me?”",
+      "defect": "The draft removes Cheongpung’s repeated address, weakening the timing and innocent persistence of the joke as he slowly realizes Mujin is unresponsive.",
+      "id": "F08",
+      "rationale": "The source calls 혁 소협 twice, with a separate question between the two addresses.",
+      "replacement": "“Oh? Maybe it isn’t the Turtle Breath Technique. Young Hero Hyuk? Can’t you hear me? Young Hero Hyuk?”",
+      "severity": "minor",
+      "source": "“어어, 귀식대법이 아닌가? 혁 소협. 제 말 안 들리세요? 혁 소협?”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Gung Gibang looked over Cheongpung, who was sitting there gloomily, Hyuk Mujin, who had just come back from the dead, and finally me, whose soul had left my body.",
+      "defect": "The draft adds that Cheongpung is sitting, a physical posture not stated in the source.",
+      "id": "F09",
+      "rationale": "침울해 있는 describes Cheongpung’s dejected state without specifying whether he is sitting or standing.",
+      "replacement": "Gung Gibang looked over the dejected Cheongpung, Hyuk Mujin, who had just come back from the dead, and finally me, whose soul had left my body.",
+      "severity": "minor",
+      "source": "침울해 있는 청풍과 죽었다 깨어난 혁무진. 마지막으로 혼이 나간 나를 차례대로 훑은 궁기방이 중얼거렸다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "“What a shitshow.”\n\nBeing called a dog by a beggar left a bad taste in my mouth.",
+      "defect": "“Shitshow” removes the 개, or “dog,” wording that motivates Taekyung’s immediate complaint about being treated like a dog, leaving the response unsupported in English.",
+      "id": "F10",
+      "rationale": "The source deliberately links 개판 with 개 취급 for a two-line dog joke; the setup and reaction must share that image.",
+      "replacement": "“What a kennel.”\n\nBeing treated like a dog by a beggar left a bad taste in my mouth.",
+      "severity": "major",
+      "source": "“개판이군.”\n\n거지한테 개 취급 받으니까 기분 더럽네."
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it weakens a martial-family hierarchy, blurs a qi-control mechanism, mistranslates Zhongnan’s headquarters as the sect itself, omits a comic repetition, softens profanity, and breaks an intentional dog-related punchline.",
+  "version": 1
+}

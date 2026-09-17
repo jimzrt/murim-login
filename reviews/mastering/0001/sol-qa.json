@@ -2,10 +2,10 @@
   "chapter": 1,
   "errors": [],
   "metrics": {
-    "length_ratio": 2.203,
+    "length_ratio": 2.215,
     "source_characters": 4961,
     "source_paragraphs": 143,
-    "translation_characters": 10930,
+    "translation_characters": 10991,
     "translation_paragraphs": 134
   },
   "passed": true,
@@ -24,6 +24,38 @@
       "details": {
         "korean": "로그아웃",
         "preferred": "Logout"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "갑자",
+        "preferred": "jiazi"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "주신",
+        "preferred": "God of Drinking"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "세가",
+        "preferred": "great family"
       },
       "message": "matched preferred term is absent"
     }

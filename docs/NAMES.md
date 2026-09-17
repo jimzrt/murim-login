@@ -1061,3 +1061,13 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 종남 제일의 기재 | **Zhongnan Sect’s greatest prodigy** | Reputation attributed to Hyuk Sopyung. |
 | 일인전승 비인부전 | **one-person transmission and refusal to teach the unworthy** | Fire Gate Clan transmission principle. |
 | 육체파 | **physical school** | Taekyung’s joking self-description. |
+| 봉수 | **Bong-su** | Zhongnan Sect Disciple and Hyuk Sopyung’s same-generation Junior Brother. |
+| 태을검대 | **Taeeul Sword Unit** | Elite Zhongnan Sect force composed of second-generation Disciples. |
+| 태을무정검 | **Taeeul Merciless Sword** | Title of the Zhongnan Sect’s Second Martial Uncle, who is in Xi’an. |
+| 송 총관 | **Manager Song** | Xi’an Tower chief manager, identified by surname. |
+| 사백 | **Senior Martial Uncle** | Zhongnan Sect title used for a senior of the speaker’s Master’s generation. |
+| 둘째 사백 | **Second Martial Uncle** | Hyuk Sopyung’s designation for the Senior Martial Uncle currently in Xi’an. |
+| 호접지몽 | **Butterfly Dream** | Allusion to Zhuangzi’s dream of becoming a butterfly. |
+| 귀식대법 | **Turtle Breath Technique** | Cheongpung’s joking description of breath-holding and suspended bodily functions. |
+| 귀신대법 | **Ghost Technique** | Taekyung’s pun on Turtle Breath Technique after Mujin appears dead. |
+| 심폐소생권 | **Cardiopulmonary Resuscitation Fist** | Taekyung’s humorous name for the palm strike used to revive Mujin. |
