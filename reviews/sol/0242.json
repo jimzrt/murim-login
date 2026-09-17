@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "But, what could I say? The qi I sensed from the young man in front of me felt exactly that impressive.",
+      "defect": "The current wording reinforces the preceding description of his achievement as remarkable, whereas 딱 그 정도였다 limits Taekyung's assessment: the young man's qi amounted to no more than an ordinary Peak master's.",
+      "id": "F01",
+      "rationale": "딱 그 정도였다 establishes the ceiling that leads directly into Taekyung's punchline, “An ordinary Peak master?”",
+      "replacement": "But how should I put it? At that moment, the qi I sensed from the young man before me seemed to amount to no more than that.",
+      "severity": "major",
+      "source": "하지만 뭐랄까, 순간 눈앞의 청년에게서 느꼈던 기운은 딱 그 정도였다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "They said the surviving bandits claimed it was the work of a monster carrying iron balls and chains.",
+      "defect": "괴인 means a strange, bizarre, or mysterious person here, not a literal monster. The draft changes what the witnesses identified Taekyung as.",
+      "id": "F02",
+      "rationale": "The description concerns an unidentified human martial artist distinguished by his unusual appearance and weapons.",
+      "replacement": "They said the surviving bandits claimed it was the work of a strange man carrying iron balls and chains.",
+      "severity": "major",
+      "source": "살아남은 산적들이 철구와 사슬을 든 괴인의 짓이라고 했다던데?"
+    },
+    {
+      "confidence": 0.97,
+      "current": "He stood alone for a while, letting out a hollow laugh, then turned toward a nearby inn.",
+      "defect": "A “hollow laugh” suggests joylessness or distress, but 실소 is an involuntary or amused chuckle. That reading is reinforced by his dimples and his smile growing wider immediately afterward.",
+      "id": "F03",
+      "rationale": "The source presents Jongni Chu as privately amused, not emotionally empty or shaken.",
+      "replacement": "He stood there alone for a while, chuckling to himself, then turned toward an inn not far away.",
+      "severity": "major",
+      "source": "한동안 홀로 서서 실소를 흘리던 그는 얼마 떨어지지 않는 객잔으로 발걸음을 돌렸다."
+    },
+    {
+      "confidence": 0.9,
+      "current": "*No way, asshole.*",
+      "defect": "“Asshole” is harsher and more hostile than the familiar, dismissive 인마 in this deadpan punchline.",
+      "id": "F04",
+      "rationale": "The replacement preserves the insult and comic rejection without intensifying the profanity.",
+      "replacement": "*Not a chance, punk.*",
+      "severity": "minor",
+      "source": "싫어, 인마."
+    },
+    {
+      "confidence": 0.92,
+      "current": "The positive-attitude villain continued with a serious expression.",
+      "defect": "“Positive-attitude villain” mechanically transfers a Korean internet-slang construction and is not natural contemporary English.",
+      "id": "F05",
+      "rationale": "This retains Taekyung's mocking characterization and the contrast with Jongni Chu's serious expression in natural English.",
+      "replacement": "The freakishly positive guy continued with a serious expression.",
+      "severity": "minor",
+      "source": "긍정 빌런이 진지한 얼굴로 말을 이었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "As I retraced the memory and continued walking, Jongni Chu asked,",
+      "defect": "“Retraced the memory” is an unnatural collocation and reads as a Korean syntax calque.",
+      "id": "F06",
+      "rationale": "기억을 더듬어 means searching or feeling through one's memory while continuing onward.",
+      "replacement": "As I searched my memory and walked on, Jongni Chu asked,",
+      "severity": "minor",
+      "source": "기억을 더듬어 발걸음을 옮기는 내게 종리추가 물었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Speak. It will be your last words.”",
+      "defect": "The singular pronoun does not agree with the plural complement “words,” producing ungrammatical English.",
+      "id": "F07",
+      "rationale": "The replacement preserves the threat while correcting the number agreement.",
+      "replacement": "“Speak. They will be your last words.”",
+      "severity": "minor",
+      "source": "말하라. 마지막 유언이 될 터이니."
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it contains two meaningful semantic distortions, one altered emotional cue, and several localized register or natural-English issues.",
+  "version": 1
+}

@@ -1,16 +1,15 @@
 # Translation State
 
-- Last completed: 241
-- Next chapter: 242
-- Current block: 240–244 (2/5)
-- Latest translation: `translations/0241.md`
-- Latest summary: `summaries/beats/0241.md`
-- Safe profiles through: chapter 241
+- Last completed: 242
+- Next chapter: 243
+- Current block: 240–244 (3/5)
+- Latest translation: `translations/0242.md`
+- Latest summary: `summaries/beats/0242.md`
+- Safe profiles through: chapter 242
 
 ## Current Block
 
-- Three days before the Star-Array Grand Banquet, Henan Province is overflowing with martial artists, merchants, and travelers. A young martial artist drinks the Geumwa Merchant Group's Yeoahong, declares himself their friend, and learns that the group found Black Mountain Stronghold's crippled remnants and their headless leader, Heuk Jongpil, after an unseen master killed him in One Strike. The elderly Song Ho, known as the Thousand-Faced Fox, pays the merchants' bill and takes them away for questioning about the young man.
-- Separated from Jeok Cheongang, Taekyung discovers that Jeok has taken his coin purse and gone alone to Shaolin using the Abbot's connection. Jeok orders Taekyung not to follow and threatens to kill him if he comes looking before the preliminary competition in Kaifeng. Unable to find an inn and reduced to looking like a beggar, Taekyung is finally called a Young Hero by an unfamiliar, smiling young man.
+- Jin Taekyung meets Jongni Chu, an unusually friendly Peak master from Yunnan who immediately declares them friends, recognizes Taekyung as the Sleeping Dragon of Shanxi and the Fire King's Disciple, and claims the newly invented epithet Always-Victorious Sword while concealing his sect. Jongni follows Taekyung until Taekyung names the Star-Array Grand Banquet as their next meeting place, then enters an inn whose waiter had rejected Taekyung but welcomes him and confirms that seats are available. After washing in stream water heated with Scorching Yang Qi, Taekyung hears rumors that Nangong Ok will not attend the banquet. Still dressed in rags, he is mistaken for a beggar at a luxury cloth shop, starts a confrontation with the employees, and recognizes the bamboo-hatted martial artist who intervenes as Hyuk Mujin; Taekyung gives Mujin three seconds to put his head on the ground.
 
 ## Open Questions
 
@@ -21,7 +20,7 @@
 - What is the unknowable calamity approaching as the heavenly patterns become distorted?
 - What does Dark Heaven intend, and how is it connected to the approaching calamity?
 - Who was the hidden master who killed Heuk Jongpil, and why did he do so?
-- Who is the smiling young man who calls Taekyung a Young Hero?
+- Why will Nangong Ok miss the Star-Array Grand Banquet, and what reason and intention lie behind Jongni Chu's concealed sect?
 
 ## Exceptional Decision
 
@@ -32,7 +31,7 @@
 - Render sword nut for 검미새, infirmities of old age for 노환, and Hansel and Gretel for 헨젤과 그레텔.
 - Render 오기조원 as Five Qi Returning to Origin, 잠룡 as Hidden Dragon, 검왕 as Sword King, and 대성 as Great Completion.
 - Use Yeoahong for 여아홍, Red-Killing Axe for 적살부, Thousand-Faced Fox for 천면호리, and Demonic Grand Banquet for 성마대연.
-- Use Young Brother for 소형제, Shaolin wild-greens bibimbap for 산채비빔밥, and Kaifeng for 개봉.
+- Use Young Brother for 소형제, Shaolin wild-greens bibimbap for 산채비빔밥, Kaifeng for 개봉, Always-Victorious Sword for 상승검, and light-body arts for 경공.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

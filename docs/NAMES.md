@@ -751,3 +751,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 천면호리 | **Thousand-Faced Fox** | Epithet of Song Ho. |
 | 개봉 | **Kaifeng** | City where the preliminary competition will be held. |
 | 섬 | **seom** | Traditional Korean measure of rice. |
+| 종리추 | **Jongni Chu** | Young Peak martial artist from Yunnan; conceals his sect. |
+| 상승검 | **Always-Victorious Sword** | Jongni Chu's self-styled epithet, coined in this chapter. |
+| 운남 | **Yunnan** | Region from which Jongni Chu comes. |
+| 마이클 존슨 | **Michael Johnson** | False name Taekyung gives Jongni Chu. |
