@@ -1,20 +1,20 @@
 # Translation State
 
-- Last completed: 252
-- Next chapter: 253
-- Current block: 250–254 (3/5)
-- Latest translation: `translations/0252.md`
-- Latest summary: `summaries/beats/0252.md`
-- Safe profiles through: chapter 252
+- Last completed: 253
+- Next chapter: 254
+- Current block: 250–254 (4/5)
+- Latest translation: `translations/0253.md`
+- Latest summary: `summaries/beats/0253.md`
+- Safe profiles through: chapter 253
 
 ## Current Block
 
-- The Star-Array Grand Banquet’s field has shrunk from more than five hundred competitors to roughly ten. Jeok Cheongang boasts that the Fire Gate Clan’s martial arts are the greatest under heaven and taunts the Thunderbolt Saber King over Jin Taekyung’s fifteen-minute defeat of the Hebei Peng Family’s Hunyuan Saber. Hong Dao stops their quarrel, then reminds Jeok that he intends to step down after this banquet and may have only a year left to live.
-- The Sect Leaders discuss the unexpected advancement of the Always-Victorious Sword and the Invincible Divine Sword. The Heavenly Sword True Person reveals that the Invincible Divine Sword is Cheongpung, his junior brother through their shared master, Mae Jonghak, and privately resolves to capture him and bring him back to Huashan. Hong Dao and Jeok Cheongang then reveal that the Hidden Shadow Pavilion verified every main-event finalist except Jongni Chu, whose unfamiliar martial arts and unexplained identity raise the possibility of the Demonic Path, Dark Heaven, the Demonic Cult, or another unknown affiliation. Shadow Killer’s contact was lost three days earlier. Cheongpung enters the quarterfinals against Wudang’s Willow-Cloud Divine Dragon, while Taekyung watches after advancing to the semifinals by defeating the Hebei Peng Family’s Lesser Family Head; the chapter ends as the duel begins.
+- Cheongpung defeated Wudang’s Willow-Cloud Divine Dragon in the quarterfinals. He evaded the Divine Dragon’s Sword Energy, reproduced the principle of the Taiji Wisdom Sword, and finally used the Thirty-Six Plum Blossom Swords to shatter the Pine-Pattern Ancient Sword. The Willow-Cloud Divine Dragon conceded after recognizing Cheongpung as a martial artist beyond his reach.
+- Cheongpung and Jongni Chu discovered that they would face each other in the semifinals, though both promised to go easy on the other. Jin Taekyung then defeated Gung Gibang in exactly fifteen minutes and advanced to the Star-Array Grand Banquet finals; Gung revealed that he had learned only five stages each of the Eighteen Dragon-Subduing Palms and Dog-Beating Staff Technique.
 
 ## Open Questions
 
-- How will Cheongpung’s quarterfinal against Wudang’s Willow-Cloud Divine Dragon conclude, and how will the eventual Taekyung-Cheongpung final conclude?
+- How will Cheongpung’s semifinal against Jongni Chu conclude, and will the eventual Taekyung-Cheongpung final occur and how will it conclude?
 - What is Jongni Chu’s identity, affiliation, and martial-arts origin?
 - Is Jongni Chu connected to Dark Heaven, the Demonic Cult, the Demonic Path, or something else?
 - Why was Shadow Killer pursuing Jongni Chu, what did the Hidden Shadow Pavilion seek, and what became of Shadow Killer after contact was lost?
@@ -27,12 +27,12 @@
 
 - Use Wave King for 낭왕 and Arhat Cave for 나한동.
 - Use Benefactor Jeok for 적 시주, Fellow Daoist for 도우, and the three idiots for 세 얼간이.
-- Use Eighteen Dragon-Subduing Palms for 항룡십팔장 and Three Visits to the Thatched Cottage for 삼고초려.
+- Use Eighteen Dragon-Subduing Palms for 항룡십팔장, Dog-Beating Staff Technique for 타구봉법, and Three Visits to the Thatched Cottage for 삼고초려.
 - Use Life-Sustaining Sword for 연명검, Hidden Shadow Pavilion for 은영각, Black Water Dart for 흑수표, and Invincible Divine Sword for 무적신검.
 - Use Kang Pung for 강풍, Shadow Killer for 암중살, and Taiyuan Park Family for 태원박가.
 - Use Demonic Path for 마도 and keep it distinct from Demonic Cult.
 - Use Hunyun Saber for 혼원도.
-- Use Willow-Cloud Divine Dragon for 유운신룡.
+- Use Willow-Cloud Divine Dragon for 유운신룡; use Pine-Pattern Ancient Sword for 송문고검, Great Clarity Sword Technique for 태청검법, Taiji Wisdom Sword for 태극혜검, and Thirty-Six Plum Blossom Swords for 매화삼십육검.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
