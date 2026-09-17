@@ -1,0 +1,106 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "I had six months left.",
+      "defect": "The draft changes the subject of the six-month prognosis from Jeok Cheongang to Jin Taekyung.",
+      "id": "F01",
+      "rationale": "The surrounding prognosis concerns how long Jeok Cheongang can survive, not how much time remains for the narrator personally.",
+      "replacement": "Jeok Cheongang had six months left.",
+      "severity": "critical",
+      "source": "남은 시간은 반년."
+    },
+    {
+      "confidence": 0.97,
+      "current": "And yet he spoke with absolute certainty. Find the Divine Physician. His medical skills were the best under Heaven.",
+      "defect": "“And yet” introduces a contrast absent from the source. The Luoyang Strange Physician’s stature supports the authority of his confident recommendation rather than conflicting with it.",
+      "id": "F02",
+      "rationale": "그런 그가 means that such a renowned physician is the one making the assertion, lending it weight.",
+      "replacement": "A physician of that caliber spoke with absolute certainty. Find the Divine Physician. His medical skills were the best under Heaven.",
+      "severity": "major",
+      "source": "그런 그가 확신을 담아 말한다. 신의(神醫)를 찾으라고. 그의 의술은 천하제일이라고."
+    },
+    {
+      "confidence": 1.0,
+      "current": "**Quest**\n\n\n\n**Find Mr. Shin in Sichuan**\n\n\n\nYou have acquired the only trace left behind by the Divine Physician.\n\nThe Divine Physician is the greatest physician under Heaven. At present, he is the only hope capable of waking Jeok Cheongang.\n\nYou must search every corner of the vast land of Sichuan and find him!\n\n\n\n**Grade:** Supreme Peak\n\n**Restriction:** Possession of **Trace of the Divine Physician**\n\n**Mission:** Find the Divine Physician and receive treatment (Incomplete)\n\n**Reward:** ???\n\n**Failure:** Jeok Cheongang’s death",
+      "defect": "The Quest is an actual game System window, but the draft presents it as ordinary body text instead of the required single blockquote window headed “System.”",
+      "id": "F03",
+      "rationale": "The binding Markdown rules require every actual game System-message panel to remain inside one blockquote headed “> **System**.”",
+      "replacement": "> **System**\n>\n> **Quest**\n>\n> **Find Mr. Shin in Sichuan**\n>\n> You have acquired the only trace left behind by the Divine Physician.\n>\n> The Divine Physician is the greatest physician under Heaven. At present, he is the only hope capable of waking Jeok Cheongang.\n>\n> You must search every corner of the vast land of Sichuan and find him!\n>\n> **Grade:** Supreme Peak\n>\n> **Restriction:** Possession of **Trace of the Divine Physician**\n>\n> **Mission:** Find the Divine Physician and receive treatment (Incomplete)\n>\n> **Reward:** ???\n>\n> **Failure:** Jeok Cheongang’s death",
+      "severity": "major",
+      "source": "퀘스트\n\n\n\n[사천에서 신 서방 찾기]\n\n\n\n당신은 신의가 남긴 유일한 흔적을 습득했습니다.\n\n신의는 천하제일의 명의. 현재로서는 그만이 적천강을 깨울 수 있는 유일한 희망입니다.\n\n드넓은 사천 땅을 샅샅이 뒤져서라도 찾아내야 합니다!\n\n\n\n등급 : 초절정\n\n제한 : [신의의 흔적]을 지닌 자\n\n임무 : 신의를 찾아 진료받기 (미완료)\n\n보상 : ???\n\n실패 : 적천강의 죽음"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Fortunately, the trace he had left long ago allowed me to determine that he was in Sichuan. But the land was so vast that even that made the search incredibly difficult.",
+      "defect": "“Incredibly difficult” sanitizes the deliberately coarse 더럽게 빡세다 and weakens Taekyung’s profane, conversational narration.",
+      "id": "F04",
+      "rationale": "더럽게 빡세다 is emphatically vulgar rather than neutral difficulty, and the source immediately continues in the same frustrated register.",
+      "replacement": "Fortunately, the trace he had left long ago allowed me to determine that he was in Sichuan. But the land was so vast that the search would still be damn hard.",
+      "severity": "major",
+      "source": "다행히 그가 오래전에 남긴 흔적을 통해 사천이라는 소재지를 파악할 수 있었지만, 워낙 땅덩어리가 넓다 보니 그마저도 더럽게 빡세다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Come to think of it, shouldn’t we take back the Divine Physician’s token even now?”\n\n“Why would we?”\n\n“Shouldn’t we?”",
+      "defect": "The draft invents two additional dialogue turns, making the Luoyang Strange Physician question Mae Jonghak before Mae repeats himself. The source contains only Mae’s single teasing question before the physician gives his philosophical answer.",
+      "id": "F05",
+      "rationale": "No exchange corresponding to “Why would we?” and “Shouldn’t we?” appears in the source.",
+      "replacement": "“Good grief. Should I take back the Divine Physician’s token even now?”",
+      "severity": "major",
+      "source": "“이것 참. 지금이라도 신의의 증표를 되돌려 받아야 하는 것 아닌가?”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“What an absurd thing to say. This old man will be satisfied with being the Strange Physician. There is only one Divine Physician under Heaven.”",
+      "defect": "“This old man” reverses the physician’s self-presentation. 소인 is a humble self-reference to Mae Jonghak, whereas “this old man” is an elder’s elevated or familiar self-reference.",
+      "id": "F06",
+      "rationale": "A neutral English “I” preserves the humility of 소인 without introducing the contrary hierarchy implied by “this old man.”",
+      "replacement": "“What an absurd thing to say. I’m content to remain the Strange Physician. There is only one Divine Physician under Heaven.”",
+      "severity": "major",
+      "source": "“무슨 당치 않은 말씀을. 소인은 괴의로 만족하렵니다. 신의는 세상천지에 오직 한 명뿐이니까요.”"
+    },
+    {
+      "confidence": 0.95,
+      "current": "“Young man, I have already said that this old man absolutely cannot do it. With so many people in the world, why would they make me the Alliance Leader?”",
+      "defect": "“Young man” turns 사람 참 into a form of address and adds an age-based hierarchy not expressed here. It is an exasperated interjection.",
+      "id": "F07",
+      "rationale": "사람 참 conveys mild exasperation with the other speaker, not literally “young man.”",
+      "replacement": "“Come now. I’ve already said that this old man absolutely cannot do it. With so many people in the world, why would they make me the Alliance Leader?”",
+      "severity": "minor",
+      "source": "“사람 참. 노부는 절대 안 된다니까. 사람이 얼마나 많은데 나를 무림 맹주로 세운단 말인가?”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“I have only learned the Myriad-Li Chasing Wind Movement Technique…”",
+      "defect": "The draft prematurely supplies “only learned,” completing the admission that Taekyung is supposed to interrupt and deliver in the next line. This blunts the interruption and its joke.",
+      "id": "F08",
+      "rationale": "Gung Gibang begins invoking the technique but trails off; Taekyung then cuts in with the revelation that he learned only five stages.",
+      "replacement": "“My Myriad-Li Chasing Wind Movement Technique…”",
+      "severity": "major",
+      "source": "“나는 만리추풍신법(萬里追風身法)을…….”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“…”\n\n“Have you learned anything past the fifth stage?”",
+      "defect": "The draft splits one continuous Taekyung utterance into two separate dialogue paragraphs, making the second line look like a new speaker’s turn and obscuring the subject of the question.",
+      "id": "F09",
+      "rationale": "The source presents the pause and question within a single quoted utterance.",
+      "replacement": "“…Have you learned anything past the fifth stage?”",
+      "severity": "major",
+      "source": "“……오성 이상으로 익힌 게 있긴 하냐?”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "[^1]: O Seong and Han Eum were famous friends from the Joseon era. Here, Taekyung is punning on the Korean readings of “five stages” and “one sound,” referring to Gung Gibang’s half-learned technique and his stammer.",
+      "defect": "The footnote invents a “one sound” pun and claims that it refers to Gung Gibang’s stammer, neither of which is established by the source. The clear wordplay is between the historical name O Seong and 오성, “five stages.”",
+      "id": "F10",
+      "rationale": "The replacement explains the culturally specific reference and the source-supported five-stage pun without adding an unsupported interpretation of 한음.",
+      "replacement": "[^1]: O Seong and Han Eum were famous friends from the Joseon era; Taekyung is punning on O Seong’s name and oseong, “five stages.”",
+      "severity": "minor",
+      "source": "오성과 한음 빌런."
+    }
+  ],
+  "summary": "The draft contains one critical subject error, several meaningful changes to dialogue, logic, register, and comic timing, an unsupported footnote explanation, and incorrect System-panel formatting.",
+  "version": 1
+}

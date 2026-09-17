@@ -1023,3 +1023,10 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 오씨 | **Oh** | Surname form used in the clue identifying the Luoyang Strange Physician. |
 | 오배자 | **Chinese gallnut** | Medicinal ingredient named in the Divine Physician's clue. |
 | 신 서방 | **Mr. Shin** | Name form used in the System Quest targeting the Divine Physician. |
+| 당문 | **Tang Clan** | Short form for the Sichuan Tang Clan. |
+| 아미 | **Emei** | Short form for Emei Sect. |
+| 아미파 | **Emei Sect** | Murim sect in Sichuan. |
+| 청성 | **Qingcheng** | Short form for Qingcheng Sect. |
+| 국자감 | **Guozijian** | The empire's highest educational institution. |
+| 제갈공후 | **Zhuge Gonghu** | Former Murim Alliance Chief Strategist and deceased member of the Ten Kings. |
+| 팽 | **Peng** | Surname form for the Thunderbolt Saber King, Peng Cheolhu. |
