@@ -1,0 +1,156 @@
+{
+  "chapter": 227,
+  "files": {
+    "characters/Jin Taekyung.md": "44d24a85e029e2eb029394139f61365f8c736496d6eced9f75037666846696ef",
+    "characters/Jintae.md": "5d8769ce3bda578090d740b6cb37cdba45d61e5d550a5404de7528f3086d17b6",
+    "characters/Won Myunghoon.md": "8761ae590b936a2294c86e76027d7d9151c7fca9872139781f802e0ff9ed80bc",
+    "docs/ADDRESS.md": "b2ef35636e7ed9cb8d9ee3693a50c430c6b7a153c0b7ee3f3516fe0f35ac1a5f",
+    "docs/CONTEXT.json": "e3a7e1aa54a950836bdb4aafc02738782b8c13fb5b6530dea27d6e3f12decbac",
+    "docs/NAMES.md": "c70e7594ebf149d2618ecdad9d1103ccbc551339e721313cf4e801f5421014f2",
+    "docs/STATE.md": "0891843ae1b1a72ca395fc6116e9753a95cb82791a00bf0109a7abf67dace8f3",
+    "summaries/beats/0227.md": "037b46e76cf01bdee8386c4f7e035aaa540476cde5407280a18fe6cd86e48ee9"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "담당 검사",
+        "kinship": "interview_subject_to_prosecutor",
+        "normal_address": "Prosecutor",
+        "notes": "Taekyung uses 검사님 while discussing the investigation.",
+        "speaker": "진태경",
+        "speech_level": "polite"
+      },
+      {
+        "addressee": "진태경",
+        "kinship": "prosecutor_to_investigated_Hunter",
+        "normal_address": "Mr. Jin Taekyung",
+        "notes": "The prosecutor uses 진태경 씨 while discussing the self-defense issue and thanking Taekyung.",
+        "speaker": "담당 검사",
+        "speech_level": "formal-polite"
+      },
+      {
+        "addressee": "진태경",
+        "kinship": "younger_sister_to_older_brother",
+        "normal_address": "Oppa",
+        "notes": "Hayeon uses 오빠 during the reunion and while complaining to their mother.",
+        "speaker": "하연",
+        "speech_level": "casual-familiar"
+      },
+      {
+        "addressee": "김정희",
+        "kinship": "daughter_to_mother",
+        "normal_address": "Mom",
+        "notes": "Hayeon calls 엄마 while reporting that Taekyung hit her.",
+        "speaker": "하연",
+        "speech_level": "casual-familiar"
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "The investigation into Won Myunghoon uncovered numerous additional crimes, systematic cover-ups, and related political and business corruption.",
+        "The prosecutor says the legal dispute over Taekyung's killing of Won has been resolved favorably and predicts severe consequences for at least half of the implicated figures.",
+        "Carus's remains have been processed; Christie’s appraisers valued them at a 300-billion-won auction starting price, with the final sale decision awaiting Taekyung's consent.",
+        "The Peace Guild members agreed that Taekyung will receive the entire proceeds from the proposed auction because they did not participate in killing Carus."
+      ],
+      "plot": [
+        "A prosecutor tells Taekyung that the dispute over whether killing Won Myunghoon constituted self-defense or excessive force has been resolved favorably. The investigation has uncovered Won's extensive criminal history, including cover-ups carried out through money, power, and staged Gate accidents, as well as lobbying by political and business figures connected to him. The prosecutor predicts that at least half of those figures will lose their positions and thanks Taekyung for bringing the crimes to light.",
+        "After a week of questioning, Taekyung is reunited with his mother and Hayeon in a secured underground parking lot. Team Leader Choi takes them home while explaining that the scandal surrounding Won's death has caused upheaval throughout Korea.",
+        "Choi reveals that Carus's processed remains were completed three days earlier and that Christie’s appraisers set an auction starting price of 300 billion won. The Peace Guild members have unanimously agreed that Taekyung should receive every won of the proceeds, since they merely witnessed the kill. After imagining the fortune, Taekyung realizes what he wants to do with it and asks Choi for an unspecified favor."
+      ],
+      "translation_decisions": [
+        "Render 검사님 and 담당 검사 as Prosecutor, 검찰 as prosecutors’ office, and 법무부 as Ministry of Justice.",
+        "Render 크리스티 as Christie’s, 소더비 as Sotheby’s, and 대한제국 as Korean Empire.",
+        "Render 네임드 몬스터의 부산물 and related references as the Named Monster’s remains or processed remains, and 3천억 as 300 billion won.",
+        "Retain saengchae muchim with a footnote explaining the scratch pun."
+      ]
+    },
+    "chapter": 227,
+    "context": {
+      "active_continuity": [
+        "Taekyung is publicly recognized as Jeok Cheongang’s Disciple and heir to the Fire Gate Clan’s orthodox lineage.",
+        "Taekyung completed the Manifestation of Qi Achievement, unlocked Spear Energy and Unaffected by a Hundred Poisons, defeated and killed the Level 115 Named Monster Carus, and perfectly cleared The Black Wyvern’s Nest.",
+        "Taekyung is an A-Rank Hunter and nationally famous as the Tollgate Hero; media intrusion exposed his family’s personal information.",
+        "Jin Mukyung remains secluded in the training hall and has not returned to Heaven’s Gate Temple.",
+        "The Jin Family received an invitation to the Star-Array Grand Banquet in Henan.",
+        "Seong Jinho is staying at Taekyung’s new family home after losing his housing deposit to Kim Jong-su.",
+        "Won Myunghoon was the former Star Guild CEO and a thirty-nine-year-old A-Rank Hunter; Taekyung killed him after Won led an ambush, surrendered, and attempted another attack.",
+        "The joint Peace Guild-Star Guild raid was redirected to The Black Wyvern’s Nest; Won killed the Green Wyvern alone, Taekyung received no EXP, and Won lent him Yeti’s Necklace.",
+        "Taekyung killed forty-seven B-Rank Orc Warriors alone, and Im Kkeokjeong was among survivors he had rescued during an earlier E-Rank Gate attack.",
+        "Mutated Gates can contain monsters far above their expected Grade; Song Song rejected Taekyung’s confession but accepted friendship and a guildmate relationship.",
+        "The Peace Guild witnessed Taekyung kill Carus and now understands that his previously observed abilities represented only a fraction of his strength.",
+        "Carus’s corpse was more than fifty meters long and difficult to process; Taekyung feared using the Inventory to remove it because reporters were stationed at the Gate entrance.",
+        "The exit Gate opened unexpectedly after Won’s death and released around a dozen people before waiting reporters.",
+        "Butler Kim is an A-Rank mage who incapacitated veteran B-Rank Star Guild Hunters with Earthquake; Kim Jonghun was bound as bait before being found gagged and tied to a tree.",
+        "Taekyung publicly disclosed the Named Monster and Mutated Gate, reported eight total deaths including Won, and described Won’s death as having been disposed of.",
+        "Kim Jonghun later confessed fully, while an anonymous USB and note supplied concealed raid footage that exposed Won’s conduct and triggered intense public backlash.",
+        "The investigation into Won uncovered numerous additional crimes, systematic cover-ups, and corruption involving political and business figures; the prosecutor predicts that at least half will lose their positions.",
+        "Carus’s processed remains have a Christie’s-assessed auction starting price of 300 billion won, pending Taekyung’s consent to the sale.",
+        "The Peace Guild members agreed that Taekyung will receive the entire proceeds from the proposed auction.",
+        "Taekyung realized what he wanted to do with the coming fortune and asked Team Leader Choi for an unspecified favor."
+      ],
+      "continuity_sources": [
+        227,
+        226
+      ],
+      "open_questions": [
+        "What additional rewards came from the Conception and Governor Vessels Quest, the Conception Vessel Opening, and the Named Monster Defeated Achievement?",
+        "Will Jin Mukyung return to Heaven’s Gate Temple before the appointed deadline?",
+        "What event does Jeok Cheongang believe may occur sooner than expected, and why must he endure for several more years?",
+        "What is the true condition of the absent Martial God?",
+        "Will Taekyung attend the Star-Array Grand Banquet, and what exactly was the answer that changed the three men’s expressions?",
+        "What are the Reward and Failure conditions of the Gate Suppression Quest?",
+        "Who are the roughly dozen people who emerged from the Gate, and what happened to them inside?",
+        "What favor does Taekyung intend to ask Team Leader Choi?"
+      ],
+      "safe_through": 227,
+      "temporary_decisions": [
+        "Render 혈도 타통 as Acupoint Opening, 회음혈 as Huiyin Acupoint, and 임맥 타통 as Conception Vessel Opening.",
+        "Render 성라대연 as Star-Array Grand Banquet, 노야 as Old Master when Taekyung addresses Jeok Cheongang privately, and retain hyung for established fraternal addresses.",
+        "Render 고시원 as goshiwon, 오피스텔 as officetel, 오우거 as ogre, and 게이트 진압 as Gate Suppression.",
+        "Render A급 헌터 as A-Rank Hunter, 아이튜브 as iTube, 태경좌 as Taekyung the Lord, 시벌좌 as Lord Fuck, and 라이칸스로프 as Lycanthrope.",
+        "Render 와이번 as Wyvern, 그린 와이번 as Green Wyvern, 오러 as Aura, 만티코어의 밀림 as Manticore’s Jungle, 예티의 목걸이 as Yeti’s Necklace, and 설원의 바람 as Wind of the Snowfield.",
+        "Render 변이 게이트 as Mutated Gate, 네임드 몬스터 as Named Monster, 레어 몬스터 as Rare Monster, 피어 as Fear, 힘껏 찌르기 as Stab with All My Strength, and retain Magic Gem for 마정석.",
+        "Render 기의 발현 as Manifestation of Qi, 백독불침 as Unaffected by a Hundred Poisons, 에어 브레스 as Air Breath, 힐 as Heal, 슬로우 as Slow, 다크 바인딩 as Dark Binding, 매직 애로우 as Magic Arrow, 카루스 as Carus, 파이어 레인 as Fire Rain, 어스퀘이크 as Earthquake, and retain Taekyung’s 아저씨 for Im Kkeokjeong as Uncle.",
+        "Render 개보린 as Dogvorin, 헌터TV as HunterTV, 합스부르폰 가 as Hapsburphon family, 검찰 as prosecutors’ office, 법무부 as Ministry of Justice, 대한제국 as Korean Empire, 크리스티 as Christie’s, and 소더비 as Sotheby’s."
+      ],
+      "version": 1
+    },
+    "names": [
+      {
+        "english": "prosecutors’ office",
+        "korean": "검찰",
+        "notes": "Government prosecutorial institution that summons and investigates Taekyung."
+      },
+      {
+        "english": "Ministry of Justice",
+        "korean": "법무부",
+        "notes": "Government ministry whose Hunters could have accompanied the prosecutor."
+      },
+      {
+        "english": "Korean Empire",
+        "korean": "대한제국",
+        "notes": "Historical-era reference used in Taekyung’s joke."
+      },
+      {
+        "english": "Christie’s",
+        "korean": "크리스티",
+        "notes": "Auction house whose appraisers valued Carus’s remains."
+      },
+      {
+        "english": "Sotheby’s",
+        "korean": "소더비",
+        "notes": "Competing major auction house."
+      }
+    ],
+    "profile_creations": [],
+    "profile_updates": [
+      {
+        "current": "- **Role:** Modern-world protagonist; recently fired after seven years at his job; A-rank Hunter who defeated eight B-rank Minotaurs and killed a Level 70 B-rank Minotaur Warrior in one blow; Peak Master with forty-five years of internal energy and the Scorching Yang Qi attribute after fully absorbing the Blazing Flame Divine Pill; possesses Jopil’s Flame Divine Palm manual, whose cover Jeok Cheongang partly burned after Taekyung threw it during his escape, and the Fire Heaven Sword, formerly the Unnamed Sword, made from Ten-Thousand-Year Cold Iron; Jeok Cheongang falsely identified the sword in public as the Fire Gate Clan’s sacred treasure, then revealed that it is a former Fire Gate Clan Sect Leader’s beloved sword whose true power requires inheriting the Fire Gate Clan’s legacy; youngest son of the Jin Family of Taiyuan; new owner of a two-story detached house in Goyang intended for his family; Qi Sense reaches a seventy-meter radius; possesses one Temporary Strength Pill in his Inventory and has reserved it for a worst-case, life-threatening contingency; was Level 75 after completing the There Is a Man Who Loved You So Much Quest and One Step Back and receiving large EXP and Fame rewards, with 20 unallocated Bonus Points after the latter Quest; has since gained additional Levels while defeating more than ten B-rank ogres, including a Lv.85 Ogre, at the Gate, and has now received another level-up, 20 Bonus Points, and a major Fame increase from the A-Rank Hunter Achievement; has allocated all seventy remaining stat points, twenty to Strength and fifty to Agility; completed the Find the Master Artisan Quest after securing Jang Taebo’s agreement to forge his Ten-Thousand-Year Cold Iron into a spear; can roughly copy observed martial forms and copied the Plum Blossom Fist after three days of sparring with Cheongpung; killed Jin Baekyang, the Blade of Flowers, and was rendered unconscious with an Internal Injury by Jeok Cheongang’s Flame Divine Palm; narrowly evaded Song Il’s Heavenly River Thirty-Six Swords before Jeok stopped Song and publicly revealed that Taekyung holds the entrusted Fire Gate Clan sacred treasure; spent two days bedridden with severe bruising after Jeok Cheongang beat him with his bare fists over the partly burned manual, then underwent an abbreviated cleansing treatment while unconscious that increased his Muscles and Bones and Sinews and Meridians by 5 each and his Strength, Stamina, and Agility by 1 each; has practiced martial arts for only three months, advancing from Third Rate to the beginning of the Peak realm during that period; was publicly accepted by Jeok Cheongang as his Disciple and declared heir to the Fire Gate Clan’s orthodox lineage, a status that ended his path to Heaven’s Gate Temple and other masters; Jeok Cheongang identifies him as possessing the Heavenly Martial Physique and agrees to personally oversee his martial-arts training until he reaches a certain level, while Taekyung addresses him as Master and, when they are alone, Old Master; completed the Peak-Grade One Step Back Quest after Jeok agreed to defend only and Taekyung used One Annihilation to force him five steps backward, then collapsed from exhausting all his strength and internal energy while Jeok supported him with internal energy; consumed Fire Spirit Grass, Red Flower Grass, and Flame Red Grass, completed the forced Acupoint Opening Quest, and successfully opened both his Conception and Governor Vessels before losing consciousness from exhaustion; blocked an arriving military Hunter team from taking the remaining ogres and personally butchered and collected their valuable parts; is now publicly famous as the Tollgate Hero after appearing on KPS’s Nine O’Clock News; his family’s personal information has been exposed by intrusive media, including a disguised delivery reporter and hired Familiar mages; has received Jinho’s advice not to pursue an impossible ideal of saving everyone; encountered an unidentified high-level Hunter who stepped in front of the sedan carrying him and Team Leader Choi; declined Won Myunghoon’s Star Guild and entertainment-agency proposals, plans to choose only a few commercials before refocusing on Guild work, and accidentally turned his live broadcast profanity into a viral hit; completed the Manifestation of Qi Achievement, unlocking Spear Energy and gaining Unaffected by a Hundred Poisons, two levels, and 100 Bonus Points; defeated and killed the Level 115 Named Monster Carus after resisting his strengthened magic, spent 100 Bonus Points to raise Strength and Stamina by 50 each, earned the Named Monster Defeated Achievement, and perfectly cleared The Black Wyvern’s Nest while receiving enormous EXP and Fame and two displayed level-ups.",
+        "path": "characters/Jin Taekyung.md",
+        "replacement": "- **Role:** Modern-world protagonist; recently fired after seven years at his job; A-rank Hunter who defeated eight B-rank Minotaurs and killed a Level 70 B-rank Minotaur Warrior in one blow; Peak Master with forty-five years of internal energy and the Scorching Yang Qi attribute after fully absorbing the Blazing Flame Divine Pill; possesses Jopil’s Flame Divine Palm manual, whose cover Jeok Cheongang partly burned after Taekyung threw it during his escape, and the Fire Heaven Sword, formerly the Unnamed Sword, made from Ten-Thousand-Year Cold Iron; Jeok Cheongang falsely identified the sword in public as the Fire Gate Clan’s sacred treasure, then revealed that it is a former Fire Gate Clan Sect Leader’s beloved sword whose true power requires inheriting the Fire Gate Clan’s legacy; youngest son of the Jin Family of Taiyuan; new owner of a two-story detached house in Goyang intended for his family; Qi Sense reaches a seventy-meter radius; possesses one Temporary Strength Pill in his Inventory and has reserved it for a worst-case, life-threatening contingency; was Level 75 after completing the There Is a Man Who Loved You So Much Quest and One Step Back and receiving large EXP and Fame rewards, with 20 unallocated Bonus Points after the latter Quest; has since gained additional Levels while defeating more than ten B-rank ogres, including a Lv.85 Ogre, at the Gate, and has now received another level-up, 20 Bonus Points, and a major Fame increase from the A-Rank Hunter Achievement; has allocated all seventy remaining stat points, twenty to Strength and fifty to Agility; completed the Find the Master Artisan Quest after securing Jang Taebo’s agreement to forge his Ten-Thousand-Year Cold Iron into a spear; can roughly copy observed martial forms and copied the Plum Blossom Fist after three days of sparring with Cheongpung; killed Jin Baekyang, the Blade of Flowers, and was rendered unconscious with an Internal Injury by Jeok Cheongang’s Flame Divine Palm; narrowly evaded Song Il’s Heavenly River Thirty-Six Swords before Jeok stopped Song and publicly revealed that Taekyung holds the entrusted Fire Gate Clan sacred treasure; spent two days bedridden with severe bruising after Jeok Cheongang beat him with his bare fists over the partly burned manual, then underwent an abbreviated cleansing treatment while unconscious that increased his Muscles and Bones and Sinews and Meridians by 5 each and his Strength, Stamina, and Agility by 1 each; has practiced martial arts for only three months, advancing from Third Rate to the beginning of the Peak realm during that period; was publicly accepted by Jeok Cheongang as his Disciple and declared heir to the Fire Gate Clan’s orthodox lineage, a status that ended his path to Heaven’s Gate Temple and other masters; Jeok Cheongang identifies him as possessing the Heavenly Martial Physique and agrees to personally oversee his martial-arts training until he reaches a certain level, while Taekyung addresses him as Master and, when they are alone, Old Master; completed the Peak-Grade One Step Back Quest after Jeok agreed to defend only and Taekyung used One Annihilation to force him five steps backward, then collapsed from exhausting all his strength and internal energy while Jeok supported him with internal energy; consumed Fire Spirit Grass, Red Flower Grass, and Flame Red Grass, completed the forced Acupoint Opening Quest, and successfully opened both his Conception and Governor Vessels before losing consciousness from exhaustion; blocked an arriving military Hunter team from taking the remaining ogres and personally butchered and collected their valuable parts; is now publicly famous as the Tollgate Hero after appearing on KPS’s Nine O’Clock News; his family’s personal information has been exposed by intrusive media, including a disguised delivery reporter and hired Familiar mages; has received Jinho’s advice not to pursue an impossible ideal of saving everyone; encountered an unidentified high-level Hunter who stepped in front of the sedan carrying him and Team Leader Choi; declined Won Myunghoon’s Star Guild and entertainment-agency proposals, plans to choose only a few commercials before refocusing on Guild work, and accidentally turned his live broadcast profanity into a viral hit; completed the Manifestation of Qi Achievement, unlocking Spear Energy and gaining Unaffected by a Hundred Poisons, two levels, and 100 Bonus Points; defeated and killed the Level 115 Named Monster Carus after resisting his strengthened magic, spent 100 Bonus Points to raise Strength and Stamina by 50 each, earned the Named Monster Defeated Achievement, and perfectly cleared The Black Wyvern’s Nest while receiving enormous EXP and Fame and two displayed level-ups; has been designated to receive every won from the proposed auction of Carus’s processed remains, whose Christie’s-assessed starting price is 300 billion won, pending his consent to the sale."
+      }
+    ],
+    "version": 1
+  },
+  "version": 1
+}

@@ -658,3 +658,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 헌터TV | **HunterTV** | Major Hunter-focused cable channel that conducts the exclusive live broadcast. |
 | 합스부르폰 가 | **Hapsburphon family** | Long-established German family of equipment makers. |
 | PSV-96K | **PSV-96K** | Concealed camera that evades detection magic and functions in unstable-Gate mana. |
+| 검찰 | **prosecutors’ office** | Government prosecutorial institution that summons and investigates Taekyung. |
+| 법무부 | **Ministry of Justice** | Government ministry whose Hunters could have accompanied the prosecutor. |
+| 대한제국 | **Korean Empire** | Historical-era reference used in Taekyung’s joke. |
+| 크리스티 | **Christie’s** | Auction house whose appraisers valued Carus’s remains. |
+| 소더비 | **Sotheby’s** | Competing major auction house. |
