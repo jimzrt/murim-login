@@ -1,8 +1,8 @@
 # Zhuge Gyun (제갈균)
 
-- **Safe through:** Chapter 249
+- **Safe through:** Chapter 250
 - **Aliases:** Divine Marvel Dragon
-- **Role:** Scholar-styled Zhuge Clan martial artist and finalist in the Star-Array Grand Banquet; expressed considerable regret after losing the fifth preliminary assessment on mechanisms and formations.
+- **Role:** Scholar-styled Zhuge Clan martial artist and finalist in the Star-Array Grand Banquet; expressed considerable regret after losing the fifth preliminary assessment on mechanisms and formations and uses a folding-fan technique in the main event.
 - **Personality:** Analytical, pedantic, and unusually preoccupied with theoretical correctness.
 - **Voice:** Polished, formal, and interrogative, treating insults as subjects for precise analysis.
 - **Relationships:** Rival finalist alongside Baek Woo and Gung Gibang; exchanges restrained arguments with Taekyung.

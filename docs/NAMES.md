@@ -794,3 +794,12 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 제갈무후 | **Zhuge Wuhou** | Honorific title for Zhuge Liang in the Three Visits allusion. |
 | 유비 | **Liu Bei** | Historical ruler in the Three Visits to the Thatched Cottage allusion. |
 | 삼고초려 | **Three Visits to the Thatched Cottage** | Allusion Zhuge Gyun uses to justify choosing the third option. |
+| 천마신교 | **Heavenly Demon Divine Cult** | The Demonic Cult's self-styled formal name. |
+| 흑수표 | **Black Water Dart** | Epithet of Taekyung's defeated main-event opponent. |
+| 운룡대팔식 | **Cloud-Dragon Eight Forms** | Baek Woo's Kunlun movement technique. |
+| 오태식 | **Oh Tae-sik** | Taekyung's joking alternate name for the Cloud-Dragon Eight Forms. |
+| 권기 | **Fist Energy** | Projected martial energy produced by a fist technique. |
+| 은영각 | **Hidden Shadow Pavilion** | Former Murim Alliance intelligence organization. |
+| 은영각주 | **Chief of the Hidden Shadow Pavilion** | Office formerly held by Song Ho. |
+| 연명검 | **Life-Sustaining Sword** | Nickname earned by Jongni Chu for repeatedly winning by a narrow margin. |
+| 무적신검 | **Invincible Divine Sword** | Epithet of Zhuge Gyun's unidentified opponent. |
