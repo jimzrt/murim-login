@@ -896,3 +896,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 특수 치료 병동 | **Special Treatment Ward** | Hospital ward where healers, rather than ordinary doctors, treat severe injuries. |
 | 통합당 | **United Party** | Political party identified in the article about Yoon Seoyoon. |
 | 윤서윤 | **Yoon Seoyoon** | United Party Supreme Council member and assemblywoman named in a political article. |
+| 꼬리 | **the “tail”** | Codename for the Black Hunter traced by Butler Kim. |
+| 임영준 | **Im Yeongjun** | Level 95 A-rank Black Hunter concealed as a rural resident. |
+| 세 얼간이 | **Three Idiots** | Taekyung's mocking collective nickname for three acquaintances. |
