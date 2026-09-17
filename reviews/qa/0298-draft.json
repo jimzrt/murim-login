@@ -1,0 +1,72 @@
+{
+  "chapter": 298,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.27,
+    "source_characters": 6384,
+    "source_paragraphs": 204,
+    "translation_characters": 14490,
+    "translation_paragraphs": 197
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "numbers",
+      "details": {
+        "values": [
+          "100"
+        ]
+      },
+      "message": "Arabic numerals from the source are absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "무인",
+        "preferred": "martial artist"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "마법사",
+        "preferred": "mage"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "청해",
+        "preferred": "Qinghai"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "갑자",
+        "preferred": "jiazi"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "소원",
+        "preferred": "Sowon"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "꼬리",
+        "preferred": "the “tail”"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}

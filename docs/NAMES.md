@@ -963,3 +963,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 통합 언어 팩 | **Unified Language Pack** | System function that lets Taekyung understand demon-world speech. |
 | 서울지부 협회장 | **Seoul Branch President** | Hunter Association official overseeing the rescue response at the Black Forest. |
 | 서울 협회장 | **Seoul Branch President** | Source variant for the Seoul Branch President. |
+| 스켈레톤 아처 | **Skeleton Archer** | Skeleton subtype defeated during the Warlord's EXP harvest. |
