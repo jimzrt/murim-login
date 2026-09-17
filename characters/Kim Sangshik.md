@@ -1,8 +1,8 @@
 # Kim Sangshik (김상식)
 
-- **Safe through:** Chapter 50
+- **Safe through:** Chapter 275
 - **Aliases:** Team Leader Kim; Mr. Kim Sangshik
-- **Role:** Founding member and team leader of Sopung Guild; D-rank Hunter
+- **Role:** Former founding member and team leader of Sopung Guild; D-rank Hunter; worked there for more than twenty years before being fired after an employment-corruption accusation; previously goaded the Guild Master into firing Jin Taekyung
 - **Personality:** Petty, self-serving, resentful, and opportunistic; prioritizes status and money over loyalty or fairness
 - **Voice:** Breezy and falsely cordial in public, then insulting and abusive when angry; eager and obsequious when recruiting for the Guild
 - **Relationships:** Former boss of Jin Taekyung; father of a newly recognized D-rank Awakened son; subordinate of Sopung Guild’s unnamed Guild Master
