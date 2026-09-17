@@ -1,6 +1,6 @@
 # Hong Dao (굉도)
 
-- **Safe through:** Chapter 244
+- **Safe through:** Chapter 245
 - **Aliases:** Dharma King
 - **Role:** Abbot of Shaolin and the Murim's Dharma King; master of Unnamed and an old friend of Jeok Cheongang; has studied the heavenly patterns for decades, is gradually losing his ability to read them, and foresees an approaching calamity as the heavens become distorted.
 - **Personality:** Calm, responsible, quietly playful, and still regarded by Jeok as lazy for sleeping whenever possible.
