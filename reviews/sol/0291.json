@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Just learning it will bring about a dramatic improvement. We’ll have the new recruits watch for now, but everyone here should focus on learning the Jin Family’s Cultivation Technique for the time being. And of course, this must be kept strictly confidential.”",
+      "defect": "The draft reverses the subject of 지켜보다: Taekyung intends to observe and evaluate the recruits for now, not have the recruits watch the training. It also omits that only the people currently present are to learn the technique during this period.",
+      "id": "F01",
+      "rationale": "신입들은 우선 지켜보도록 하고 means the recruits will be watched for now, while 여기 계신 분들만 explicitly restricts immediate instruction to those present.",
+      "replacement": "“Just learning it should produce dramatic gains. We’ll keep an eye on the new recruits for now… For the time being, only those of you here should focus on learning the Jin Family’s Cultivation Technique. And of course, this must be done in absolute secrecy.”",
+      "severity": "critical",
+      "source": "“익히는 것만으로도 비약적인 성취가 있을 겁니다. 신입들은 우선 지켜보도록 하고…… 여기 계신 분들만 당분간 진가심법을 익히는 것에 집중해 주세요. 아, 물론 극비에 진행되어야 합니다.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“…”\n\n“You really know how to phrase things strangely.”\n\n“Just close your eyes and focus on the mana inside your body. Whatever happens, you have to endure it. Is there anywhere that feels uncomfortable right now? If so, tell me.”",
+      "defect": "The draft omits Taekyung’s profane qi-deviation joke, his placing a hand on Choi’s Mingmen acupoint, and the explanation that even an accomplished Murim master is virtually defenseless while circulating qi. This removes characterization and the scene’s central safety mechanism.",
+      "id": "F02",
+      "rationale": "The omitted narration establishes the physical contact required for True Qi Guidance, explains why outside interference is dangerous, and preserves Taekyung’s irritated internal punchline.",
+      "replacement": "“…You really know how to phrase things strangely.”\n\n*I ought to give him qi deviation. Damn it.*\n\nI placed my hand on Team Leader Choi’s Mingmen acupoint.\n\nI had to be extremely careful from this point on. Even the most formidable Murim master was practically defenseless while circulating their qi.\n\n“Now close your eyes and focus on the mana inside your body. Whatever happens, endure it. Is anything bothering you right now? If so, tell me now.”",
+      "severity": "major",
+      "source": "“……말씀 참 이상하게 하시네.”\n\n주화입마를 그냥. 팍 씨.\n\n나는 최 팀장의 명문혈에 손을 올렸다.\n\n지금부터는 정말 주의해야 한다. 제아무리 난다 긴다 하는 무림 고수도 운기조식을 취할 때에는 무방비나 다름없다.\n\n“지금부터 눈을 감고, 몸 안의 마나에 집중해요. 무슨 일이 있어도 참아야 합니다. 혹시 지금 불편한 곳 있어요? 있으면 지금 말해요.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“The lower the Grade, the lower the ceiling. Is that what you mean?”",
+      "defect": "The capitalized System-field term “Grade” is incorrectly used for an ordinary Hunter classification in dialogue.",
+      "id": "F03",
+      "rationale": "Here 등급 refers to a Hunter’s rank in ordinary speech, not a quest, item, skill, or martial-art Grade field.",
+      "replacement": "“The lower the rank, the lower the ceiling. Is that what you mean?”",
+      "severity": "minor",
+      "source": "“등급이 낮을수록 한계가 있다. 제가 이해한 게 맞습니까?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "That was how difficult it was to escape the Grade you had been assigned.",
+      "defect": "The draft again uses the System-field term “Grade” for a Hunter rank in ordinary narration.",
+      "id": "F04",
+      "rationale": "The sentence discusses the fixed F-rank Hunter classification introduced immediately beforehand, so “rank” is the established term.",
+      "replacement": "That was how difficult it was to escape the rank you had been assigned.",
+      "severity": "minor",
+      "source": "그만큼 한 번 정해진 등급에서 벗어나는 건 하늘의 별 따기다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The Jin Family’s Cultivation Technique was a Peak martial art. It accumulated qi slowly, but in terms of stability, it was no inferior to a Supreme Peak martial art.",
+      "defect": "“Was no inferior” is ungrammatical English and makes the comparison unnecessarily stiff.",
+      "id": "F05",
+      "rationale": "못지않다 means it was not inferior in stability; “rivaled” conveys that comparison naturally without changing the hierarchy.",
+      "replacement": "The Jin Family’s Cultivation Technique was a Peak martial art. It accumulated qi slowly, but its stability rivaled that of a Supreme Peak martial art.",
+      "severity": "minor",
+      "source": "진가심법은 절정 무공. 기를 축적하는 속도는 느리지만, 안정성으로는 초절정 무공 못지않다."
+    }
+  ],
+  "summary": "One reversed action changes how the recruits are handled; one substantial omission removes the danger and mechanics of qi circulation. Several localized terminology and prose issues remain.",
+  "version": 1
+}

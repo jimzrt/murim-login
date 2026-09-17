@@ -1,6 +1,6 @@
 # Cheon Taemin (천태민)
 
-- **Safe through:** Chapter 289
+- **Safe through:** Chapter 291
 - **Aliases:** Slayer
 - **Role:** Ares Guild Master; humanity's great hero and the world's greatest Hunter; killed the Demon King and is known as the Slayer.
 - **Personality:** Not established.
