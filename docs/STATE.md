@@ -1,17 +1,17 @@
 # Translation State
 
-- Last completed: 285
-- Next chapter: 286
-- Current block: 285–289 (1/5)
-- Latest translation: `translations/0285.md`
-- Latest summary: `summaries/beats/0285.md`
-- Safe profiles through: chapter 285
+- Last completed: 286
+- Next chapter: 287
+- Current block: 285–289 (2/5)
+- Latest translation: `translations/0286.md`
+- Latest summary: `summaries/beats/0286.md`
+- Safe profiles through: chapter 286
 
 ## Current Block
 
-- After Lee Jungryong withdraws with the mutilated Park Jihoon, Jin Taekyung reflects that he took three steps back in their clash but intends to surpass Lee. He credits the confrontation with securing revenge and tacit promises of apology and compensation for Im Kkeokjeong, while giving the Peace Guild an opportunity to grow. Team Leader Choi had approved Taekyung's retaliation and promised to take responsibility for any result, reaffirming that he trusts Taekyung deeply.
-- Lee Jungryong brings Park Tae Seop to a hall occupied by his own forces, revealing that his anguished concern for Jihoon was an act. He reminds Park of the financial crisis twenty years earlier when Park begged for help, and of Park's promise to do anything in return. Park has since committed numerous crimes for Lee and remains bound by that debt. Lee assures him that the Myeongdong Guild members will live, but his threat remains clear.
-- Lee's forces use sleep magic to incapacitate roughly a hundred Myeongdong Guild members and cover the surrounding area with a two-hundred-meter illusion so the public will not notice the battle. Lee orders dangerous witnesses to have their memories altered and commands that Jihoon receive only enough treatment to be abandoned somewhere. He orders Team Leader Seok, whose personal name is Go Jun and who is Lee's prized Disciple and right-hand man, to watch Taekyung closely. Lee privately recognizes that Taekyung is no ordinary opponent and questions whether Go Jun is truly stronger than him.
+- A forum post describing the recent confrontation with Lord Fuck is deleted within ten minutes, and Taekyung concludes that Ares Guild used mental magic to alter the witnesses' memories. Ares personnel searched his phone and shared cloud folder, confiscated his cameraman's equipment, and warned him to delete any hidden evidence. Taekyung identifies Go Jun through Qi Sense and judges that Go Jun and the other Ares Guild members possess martial-arts-like abilities far beyond ordinary Hunters.
+- Im Kkeokjeong regains consciousness after three days. His severed arms have been reattached, Song Song eases his pain with healing magic, and he is told to rest for at least two weeks. He reunites with his wife and two young daughters, thanks Butler Kim and Team Leader Choi for arranging his treatment, and embraces Taekyung while expressing his enduring gratitude. Taekyung resolves not to repeat the mistake of failing to protect someone close to him.
+- The Peace Guild tells Im Kkeokjeong that the Black Hunter trail led to Myeongdong Guild and ultimately Ares Guild and Lee Jungryong. Go Jun and Lee Jungryong then arrive at the hospital. Lee looks at Team Leader Choi and says, "You've grown a lot," causing Choi's expression to become deeply guarded.
 
 ## Open Questions
 
@@ -27,10 +27,13 @@
 ## Exceptional Decision
 
 - Render 산군 as mountain lord and retain the explanatory tiger footnote.
-- Render 석 팀장 as Team Leader Seok and 고준 as Go Jun.
+- Render 석 팀장 and 석고준 as Team Leader Seok and Go Jun respectively, without introducing a separate English identity.
 - Continue rendering 부길드장 as Vice Guild Master, 제자 as Disciple, and 수면 마법 as sleep magic.
 - Render 환영 마법 as illusion magic and 정신계 마법 as mental magic.
 - Render Taekyung's 독심 in this context as ruthlessness.
+- Preserve 유도리, 이랏샤이마세, and 겐세이 as yutori, irasshaimase, and gensei in the forum post.
+- Render 어른폰 as AdultPhone and retain the child/adult iPhone pun in a footnote.
+- Render 전주 in the hospital conversation as the one footing the bill.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

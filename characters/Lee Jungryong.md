@@ -1,6 +1,6 @@
 # Lee Jungryong (이정룡)
 
-- **Safe through:** Chapter 285
+- **Safe through:** Chapter 286
 - **Aliases:** None
 - **Role:** Vice Guild Master of Ares Guild; one of Korea's two S-rank Hunters; effective wielder of Ares Guild's authority in place of its Guild Master; Supreme Peak-level martial artist; gave Park Jihoon his initial orders and is Jihoon's master
 - **Personality:** Outwardly genial, calm, and humorous; calculating, manipulative, coercive, and ruthless when challenged
