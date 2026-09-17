@@ -709,3 +709,11 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 근골 | **Muscles and Bones** | System attribute increased by 2 during the climb. |
 | 만년 한철 | **Ten-Thousand-Year Cold Iron** | Spaced source variant for the chain material. |
 | 일각 | **fifteen minutes** | Quarter of a shichen; used for the remaining completion time. |
+| 화왕의 지옥불 수련-2 | **Fire King's Hellfire Training-2** | System Quest completed after the waterfall training. |
+| 요지부동 | **Unmoving** | Achievement earned after the waterfall training. |
+| 맷집 | **Toughness** | System attribute that changes into Endurance. |
+| 인내 | **Endurance** | System attribute replacing Toughness. |
+| 권각 수련 | **Fist-and-Foot Training** | Repeat Quest for basic fist-and-foot exercises. |
+| 권각술 | **fist-and-foot martial arts** | Unlearned martial-arts category referenced by the System. |
+| 열화동 | **Fire Gate Cavern** | Ancestral cavern where the Fire Gate Clan began and its legacy continues. |
+| 열화의 계승자 | **Heir of the Fire Gate** | Quest generated when Jeok begins passing on the Fire Gate Clan's inheritance. |
