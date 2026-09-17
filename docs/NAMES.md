@@ -914,3 +914,9 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 고준 | **Go Jun** | Personal name of Team Leader Seok; Lee Jungryong's prized Disciple. |
 | 준이 | **Jun** | Family nickname used in the form Jun's dad. |
 | 석고준 | **Go Jun** | Source full-name form for the established Go Jun, also known as Team Leader Seok. |
+| 소영 | **Soyeong** | Team Leader Choi's deceased mother and Cheon Taemin's daughter. |
+| 슬레이어 | **Slayer** | Cheon Taemin's title after killing the Demon King. |
+| 마왕 | **Demon King** | The being Cheon Taemin killed. |
+| 도련님 | **Young Master** | Address used for Team Leader Choi by Butler Kim. |
+| 한강 | **Han River** | River associated with the bridge-collapse incident Lee Jungryong recalls. |
+| 마포대교 | **Mapo Bridge** | Bridge that collapsed when Kim Hwajong saved Lee Jungryong eighteen years earlier. |

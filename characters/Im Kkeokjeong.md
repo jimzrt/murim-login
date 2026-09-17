@@ -1,6 +1,6 @@
 # Im Kkeokjeong (임꺽정)
 
-- **Safe through:** Chapter 286
+- **Safe through:** Chapter 287
 - **Aliases:** Im Hyeokjun; Kkeokjeong hyung; Uncle Kkeokjeong
 - **Role:** D-rank Hunter; veteran tank in the Peace Guild’s Gate party and current member of the Peace Guild; attacked by three Black Hunters following a solo drinking outing, with both arms severed below the elbows; his wounds were treated with high-ranking healer recovery magic and advanced potions, his arms were reattached, and he regained consciousness after three days; he was told to rest for at least two weeks, and his return as a Hunter remains uncertain
 - **Personality:** Good-natured, sociable, modest about his family, and shamelessly confident about their age difference
