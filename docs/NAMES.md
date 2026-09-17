@@ -863,3 +863,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 음한지공 | **Yin-Cold Technique** | Han Su's extreme cold-based internal technique. |
 | 삼도천 | **Sanzu River** | Buddhist river associated with the boundary between life and death; footnote on first use. |
 | 혈주 | **Blood Lord** | Title of the unidentified young man encountered by Han Su. |
+| 진천뢰 | **Heaven-Shaking Thunder** | Powerful gunpowder explosive named in the Blood Lord's false threat to lure Hong Dao away. |
+| 사성 | **Four Saints** | Rank the Blood Lord says Jeok Cheongang might have attained if the Great Faction War had continued another year. |
