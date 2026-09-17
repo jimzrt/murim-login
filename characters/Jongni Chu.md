@@ -1,6 +1,6 @@
 # Jongni Chu (종리추)
 
-- **Safe through:** Chapter 253
+- **Safe through:** Chapter 254
 - **Aliases:** Always-Victorious Sword; Life-Sustaining Sword
 - **Role:** Young Peak martial artist from Yunnan; conceals his sect and has just coined the self-styled epithet Always-Victorious Sword; the Hidden Shadow Pavilion could find no trace of his identity despite repeated checks, and his unfamiliar martial arts have carried him through every bout despite not appearing particularly powerful.
 - **Personality:** Approachable, eccentric, relentlessly positive, and unusually eager to form friendships; treats even severe verbal abuse as proof of genuine friendship.
