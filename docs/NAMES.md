@@ -743,3 +743,11 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 금와상단 | **Geumwa Merchant Group** | Merchant group targeted by Black Mountain Stronghold. |
 | 녹림맹 | **Green Forest Alliance** | Bandit alliance receiving Black Mountain Stronghold’s tribute. |
 | 묘안석 | **cat’s-eye stone** | Valuable stone used as an example of a profitable haul. |
+| 성마대연 | **Demonic Grand Banquet** | Hypothetical banquet the Demonic Cult would hold if the Central Plains Murim had lost. |
+| 여아홍 | **Yeoahong** | Traditional Chinese rice wine; literally Daughter's Red. |
+| 절강성 | **Zhejiang Province** | Province where the Geumwa Merchant Group ranks among the top three merchant groups. |
+| 적살부 | **Red-Killing Axe** | Epithet of Heuk Jongpil. |
+| 송호 | **Song Ho** | Elderly martial artist known as the Thousand-Faced Fox. |
+| 천면호리 | **Thousand-Faced Fox** | Epithet of Song Ho. |
+| 개봉 | **Kaifeng** | City where the preliminary competition will be held. |
+| 섬 | **seom** | Traditional Korean measure of rice. |

@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "“Is that Yeoahong?”",
+      "defect": "The unestablished transliteration gives English readers no indication of what Yeoahong is.",
+      "id": "F01",
+      "rationale": "여아홍 is a culturally specific wine name whose significance is not conveyed by bare romanization; a concise first-use footnote preserves the name without leaving it unexplained.",
+      "replacement": "“Is that Yeoahong[^1]?”\n\n[^1]: Yeoahong, literally “Daughter’s Red,” is a traditional Chinese rice wine.",
+      "severity": "minor",
+      "source": "“그 술, 여아홍 맞소?”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "One of the merchants shot to his feet, but his companion stopped him.",
+      "defect": "The draft completes the merchant’s action, while the source says his companion stops him as he is about to stand.",
+      "id": "F02",
+      "rationale": "일어서려는 marks an intended, not completed, action; preserving the interruption matters to the physical sequence.",
+      "replacement": "One of the merchants was about to spring to his feet, but his companion stopped him.",
+      "severity": "critical",
+      "source": "벌떡 일어서려는 상인을 동료가 만류했다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“You must be a promising young man of the martial world. If you don’t mind, may I ask which sect you belong to?”",
+      "defect": "The draft omits both the merchants’ exaggerated description of him as a future pillar of the martial world and the binding term Disciple.",
+      "id": "F03",
+      "rationale": "강호의 동량 is flattering hyperbole meaning a future pillar or leading figure, while 제자 specifically identifies him as a sect’s Disciple rather than merely an affiliate.",
+      "replacement": "“You must be a future pillar of the martial world. If you don’t mind, may I ask which sect you are a Disciple of?”",
+      "severity": "minor",
+      "source": "“강호의 동량이셨구려. 실례지만 어느 문파의 제자인지 물어볼 수 있겠소?”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“It probably was a hidden master. How many people can kill a Peak master like the Red-Killing Axe in a single strike?”\n\nThe young man listened quietly, then asked with keen interest,\n\n“In a single strike?”",
+      "defect": "Both occurrences omit the binding rendering One Strike for 일격.",
+      "id": "F04",
+      "rationale": "The exact glossary requires One Strike for 일격, and the repeated term must remain consistent across the exchange.",
+      "replacement": "“It probably was a hidden master. How many people can kill a Peak master like the Red-Killing Axe in One Strike?”\n\nThe young man listened quietly, then asked with keen interest,\n\n“With One Strike?”",
+      "severity": "minor",
+      "source": "“아마 은둔 고수가 맞겠지. 절정 고수인 적살부를 일격에 죽일 수 있는 사람이 어디 흔한가?”\n\n청년은 그들의 말을 가만히 듣고 있다가 흥미진진한 얼굴로 물었다.\n\n“절정 고수를 일격에?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“What was it? The underlings said the man had several lumps of iron hanging all over him. It was so late at night that they couldn’t see his face properly. They just saw a flash, and then the Red-Killing Axe fell.”",
+      "defect": "The draft identifies the unknown attacker as male even though the source leaves the person’s identity and gender unstated.",
+      "id": "F05",
+      "rationale": "The Korean omits a gendered subject and explicitly emphasizes that the witnesses could not see the attacker’s face.",
+      "replacement": "“What was it? The underlings said whoever it was had chunks of iron dangling all over them. It was so late at night that they couldn’t see their face properly. They just saw a flash, and then the Red-Killing Axe fell.”",
+      "severity": "critical",
+      "source": "“뭐라더라, 졸개 놈들이 말하기로는 웬 쇳덩이들을 주렁주렁 달고 있었다던데. 워낙 깊은 밤이라 얼굴은 제대로 못 봤고, 번쩍하더니 적살부가 쓰러졌다고 하더이다.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Well, I suppose we can find that out little by little from now on. Thanks for the drink.”",
+      "defect": "The draft narrows 알아 가다 to finding out the attacker’s name, whereas the young man says he can gradually get to know the person.",
+      "id": "F06",
+      "rationale": "차차 알아 가다 means gradually becoming acquainted with or learning about someone; the line expresses an intention to meet and get to know the unidentified master, not merely discover his name.",
+      "replacement": "“Well, I suppose I can get to know him little by little from now on. Thanks for the drink.”",
+      "severity": "major",
+      "source": "“뭐, 지금부터 차차 알아 가면 되겠지. 술 잘 마셨소.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Two roast ducks and five bottles of Yeoahong. The total comes to ten silver nyang and twenty iron coins.”",
+      "defect": "The draft changes the stated amount from twenty nyang in iron currency to twenty individual iron coins.",
+      "id": "F07",
+      "rationale": "철전 스무 냥 retains 냥 as the unit; reducing it to twenty coins materially changes the quantity of the bill.",
+      "replacement": "“Two roast ducks and five bottles of Yeoahong. The total comes to ten silver nyang and twenty nyang in iron coins.”",
+      "severity": "critical",
+      "source": "“오리 구이 둘, 여아홍 다섯 병. 도합 은자 열 냥하고도 철전 스무 냥입니다.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "At the words of Song Ho, the Thousand-Faced Fox, the merchants swallowed their hollow breaths.",
+      "defect": "“Swallowed their hollow breaths” is an unnatural literal rendering of a startled reaction.",
+      "id": "F08",
+      "rationale": "헛숨을 삼켰다 describes an involuntary intake of breath from shock or alarm, naturally expressed here as drawing a sharp breath.",
+      "replacement": "At the words of Song Ho, the Thousand-Faced Fox, the merchants drew a sharp breath.",
+      "severity": "minor",
+      "source": "천면호리(千面狐狸) 송호의 말에 상인들이 헛숨을 삼켰다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "At least I had avoided looking like a prisoner, since the iron balls were wrapped around my body in chains and covered with cloth.",
+      "defect": "The draft says the iron balls were wrapped around his body in chains, reversing the mechanical arrangement: Taekyung winds the chains around his body and conceals the restraints with cloth.",
+      "id": "F09",
+      "rationale": "사슬을 몸에 둘둘 감아 makes the chains the object wrapped around his body; the draft instead makes the iron balls the object wrapped around him.",
+      "replacement": "At least I had avoided looking like a prisoner by winding the chains around my body and covering the whole lot with cloth.",
+      "severity": "major",
+      "source": "그나마 철구는 사슬을 몸에 둘둘 감아 천으로 덮었기에 죄수 신세는 면했다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Nearby, several children were huddled together playing with glass marbles.",
+      "defect": "The draft substitutes marbles for gonggi, a jacks-like game played with small stones or game pieces.",
+      "id": "F10",
+      "rationale": "공깃돌 놀이 is not a marble game; the natural English analogy is jacks, with the stones preserving the visible objects in the source.",
+      "replacement": "Nearby, several children were huddled together playing jacks with small stones.",
+      "severity": "minor",
+      "source": "객잔 근처에서 옹기종기 모여 있던 아이들이 공깃돌 놀이를 하는 것이 보였다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Kids, does anyone here run a boarding house?”",
+      "defect": "The wording suggests that one of the children personally runs a long-term boarding house, rather than asking whether any of their families operates short-term lodging.",
+      "id": "F11",
+      "rationale": "민박집 is a small guesthouse or homestay, and the children’s replies show that Taekyung is asking about their households.",
+      "replacement": "“Kids, do any of your families run a guesthouse?”",
+      "severity": "minor",
+      "source": "“얘들아, 혹시 민박집 하시는 분 계시니?”"
+    }
+  ],
+  "summary": "Several factual and mechanical details need correction, along with two binding terminology issues and localized cultural or idiomatic wording.",
+  "version": 1
+}
