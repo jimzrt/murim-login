@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.92,
+      "current": "Wasn’t this supposed to be a monster? Did monsters have evolution, too?",
+      "defect": "The first question becomes a generic objection instead of preserving the joke that Digimon are themselves a kind of “monster”; the direct thought is also left unitalicized.",
+      "id": "F01",
+      "rationale": "The Korean plays on the preceding Digimon reference and marks both questions as direct thought.",
+      "replacement": "*So monsters were that kind of monster? They could evolve, too?*",
+      "severity": "minor",
+      "source": "몬스터가 그 몬스터였나? 이거 진화도 있는 거였어?"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“What the hell is that?”",
+      "defect": "The translation adds profanity to an ordinary startled question.",
+      "id": "F02",
+      "rationale": "뭐야 expresses surprise or confusion here but contains no profanity.",
+      "replacement": "“What is that?”",
+      "severity": "minor",
+      "source": "“뭐야, 저거.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "We paid more than the major Guilds, so we had selected only the best.",
+      "defect": "“More than” excludes equal pay, while 이상의 means equal to or greater than.",
+      "id": "F03",
+      "rationale": "The replacement preserves the source's inclusive salary threshold.",
+      "replacement": "We paid salaries at least as high as the major Guilds, so we had selected only the best.",
+      "severity": "minor",
+      "source": "대형 길드 이상의 급여를 지급하는 만큼 최고들로만 뽑았다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Kim Jinsoo, who was effectively acting as the deputy team leader, answered with a briskness that matched his name.",
+      "defect": "“That matched his name” invents unsupported wordplay and characterization.",
+      "id": "F04",
+      "rationale": "빠릿빠릿하게 describes his quick, alert response; the source makes no connection to his name.",
+      "replacement": "Kim Jinsoo, who was effectively acting as the deputy team leader, answered promptly.",
+      "severity": "minor",
+      "source": "사실상 부팀장 역할을 수행 중인 김진수가 빠릿빠릿하게 대답한다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“I’m a little flustered myself, but we can’t just stand there and let it kill us.”",
+      "defect": "The draft makes the consequence explicitly death, whereas the source only says they cannot remain dazed and passively suffer whatever happens.",
+      "id": "F05",
+      "rationale": "넋 놓고 당하다 conveys being caught passively or helplessly, not specifically being killed.",
+      "replacement": "“I’m a little flustered myself, but we can’t just stand there in a daze and take it.”",
+      "severity": "major",
+      "source": "“사실 저도 좀 당황스럽긴 한데, 그렇다고 넋 놓고 당할 수만은 없잖습니까.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "However…\n\n“Go straight out.”",
+      "defect": "The draft omits the narration clarifying that Taekyung has revised the plan and no longer intends to fight a head-on battle.",
+      "id": "F06",
+      "rationale": "The omitted sentence explains the apparent contradiction between exploiting the narrow path and ordering everyone through the Gate.",
+      "replacement": "However…\n\n“Go straight out.”\n\nThere was no head-on battle with them in my revised plan.",
+      "severity": "major",
+      "source": "그러나…….\n\n“그대로 빠져나가.”\n\n내가 수정한 계획에 놈들과의 전면전은 없다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "When the Skeleton Knight serving as their commander let out a fierce cry, rusted arrows and attack magic rose from the rear and shot toward the Peace Guild members.",
+      "defect": "The draft promotes the Skeleton Knight from a deputy-commanding role to commander, displacing the Warlord's established hierarchy.",
+      "id": "F07",
+      "rationale": "부대장 격 means the Knight functions as a deputy commander or second-in-command, not as the army's commander.",
+      "replacement": "When one of the Skeleton Knights, serving as a deputy commander, let out a fierce cry, rusted arrows and attack magic rose from the rear and shot toward the Peace Guild members.",
+      "severity": "major",
+      "source": "부대장 격인 스켈레톤 나이트가 흉성을 내지르자 녹이 슨 화살과 공격 마법이 후미에서 솟아올라 평화 길드원들을 향해 쏘아졌다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "I had tried to control the blow, but it had cut deeper than expected.\n\nAbout 0.2 centimeters?",
+      "defect": "“Control the blow” ambiguously suggests control over the enemy's attack and obscures that Taekyung deliberately managed how badly he was cut as part of his performance.",
+      "id": "F08",
+      "rationale": "The omitted object of 조절하다 is clear from the reveal: Taekyung intentionally allowed a controlled injury, and the comically tiny measurement confirms how minor it is.",
+      "replacement": "I’d tried to keep the cut shallow, but it was deeper than expected. About 0.2 centimeters?",
+      "severity": "major",
+      "source": "나름 조절한다고 했는데, 생각보다 깊게 베였다. 한 0.2cm 정도?"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Looking at the Skeleton army filling the narrow path without a single gap—experience points, I mean—I let a satisfied smile spread across my face.",
+      "defect": "The self-correction is reversed: the source first calls the Skeletons EXP, then outwardly corrects himself to “Skeleton army,” while the draft ends by openly identifying them as experience points.",
+      "id": "F09",
+      "rationale": "The source's correction exposes Taekyung's private predatory perspective while restoring the nominally proper description, which is the structure of the joke.",
+      "replacement": "Looking at the EXP—no, the Skeleton army—filling the narrow path without a single gap, I smiled with satisfaction.",
+      "severity": "major",
+      "source": "좁은 오솔길을 빈틈없이 메운 경험치, 아니 스켈레톤 부대를 보며 흐뭇한 미소를 배어 물었다."
+    }
+  ],
+  "summary": "Several meaningful fidelity issues remain, including an omitted tactical explanation, altered command hierarchy, an overexplicit threat, and a reversed punchline.",
+  "version": 1
+}
