@@ -68,6 +68,14 @@ Installation ID is in the URL after you install:
 11. Clone this repo next to Compose as `murim-login/` so the worker can read
     translations and run `omp`.
 
+12. Clone the private Korean source as a **sibling** directory
+    `murim-login-source/` (not a submodule). Compose bind-mounts it over
+    `/app/source`. Create a read-only deploy key on
+    `jimzrt/murim-login-source` and save the private key as
+    `murim_report_secrets/source_deploy_key` (mode `600`). The worker fetches
+    that repo after each public `git reset --hard`. GitHub Pages does not need
+    this key.
+
 ## Models
 
 The worker calls `omp --mode json --no-tools` like the chapter controller.

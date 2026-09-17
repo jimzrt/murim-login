@@ -22,6 +22,7 @@ from tools.report_server import (
     LineReportService,
     Settings,
     parse_chapter_list,
+    sync_git,
     verify_signature,
     _issue_from_pull,
 )
@@ -386,6 +387,33 @@ class ReportServerTest(unittest.TestCase):
         digest = "sha256=" + __import__("hmac").new(b"secret", payload, __import__("hashlib").sha256).hexdigest()
         self.assertTrue(verify_signature("secret", payload, digest))
         self.assertFalse(verify_signature("secret", payload, digest[:-1] + "0"))
+
+
+class GitSyncTest(unittest.TestCase):
+    def test_sync_git_noops_without_repository(self):
+        with tempfile.TemporaryDirectory() as directory:
+            sync_git(Path(directory))
+
+    def test_sync_git_hard_resets_to_origin_master(self):
+        import subprocess
+
+        with tempfile.TemporaryDirectory() as directory:
+            remote = Path(directory) / "remote"
+            clone = Path(directory) / "clone"
+            remote.mkdir()
+            subprocess.run(["git", "init", "-b", "master"], cwd=remote, check=True, capture_output=True)
+            subprocess.run(["git", "config", "user.email", "test@example.com"], cwd=remote, check=True)
+            subprocess.run(["git", "config", "user.name", "test"], cwd=remote, check=True)
+            (remote / "chapter.txt").write_text("one\n", encoding="utf-8")
+            subprocess.run(["git", "add", "chapter.txt"], cwd=remote, check=True)
+            subprocess.run(["git", "commit", "-m", "one"], cwd=remote, check=True, capture_output=True)
+            subprocess.run(["git", "clone", str(remote), str(clone)], check=True, capture_output=True)
+            (clone / "chapter.txt").write_text("dirty\n", encoding="utf-8")
+            (remote / "chapter.txt").write_text("two\n", encoding="utf-8")
+            subprocess.run(["git", "add", "chapter.txt"], cwd=remote, check=True)
+            subprocess.run(["git", "commit", "-m", "two"], cwd=remote, check=True, capture_output=True)
+            sync_git(clone)
+            self.assertEqual((clone / "chapter.txt").read_text(encoding="utf-8"), "two\n")
 
 
 if __name__ == "__main__":

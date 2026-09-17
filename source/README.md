@@ -12,6 +12,8 @@ Typical local layout after cloning the private companion repo:
 git clone git@github.com:jimzrt/murim-login-source.git source
 ```
 
-If `source/` already exists as this placeholder directory, clone into a sibling
-folder and copy or replace these files. Rebuild the reader progress total with
-`npm run sync-source-count` in `reader/` when the chapter set changes.
+On the VPS, clone it as a sibling of the public repo (`murim-login-source/`)
+and let Compose mount it at `/app/source`. If `source/` already exists as this
+placeholder directory, clone into a sibling folder and copy or replace these
+files. Rebuild the reader progress total with `npm run sync-source-count` in
+`reader/` when the chapter set changes.
