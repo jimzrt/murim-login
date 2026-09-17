@@ -70,11 +70,11 @@ Installation ID is in the URL after you install:
 
 12. Clone the private Korean source as a **sibling** directory
     `murim-login-source/` (not a submodule). Compose bind-mounts it over
-    `/app/source`. Create a read-only deploy key on
-    `jimzrt/murim-login-source` and save the private key as
-    `murim_report_secrets/source_deploy_key` (mode `600`). The worker fetches
-    that repo after each public `git reset --hard`. GitHub Pages does not need
-    this key.
+    `/app/source`. On the VPS host, `gh auth login` as an account that can
+    read `jimzrt/murim-login-source` is enough; `./scripts/murim-report-update.sh`
+    clones and pulls with that token. Host `gh` is not visible inside the
+    worker container. A deploy key is optional, only if you want the container
+    to refresh source on every report. GitHub Pages does not need this repo.
 
 ## Models
 
