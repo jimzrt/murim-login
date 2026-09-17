@@ -1,0 +1,106 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "└ 2222. Take my upvote.",
+      "defect": "The Korean internet shorthand signals agreement before the upvote; retaining the unexplained digits omits that pragmatic meaning.",
+      "id": "F01",
+      "rationale": "Both the commenter’s agreement and their recommendation should be conveyed.",
+      "replacement": "└ Same here. Upvoted.",
+      "severity": "minor",
+      "source": "└ 2222. 추천이요."
+    },
+    {
+      "confidence": 0.95,
+      "current": "└ “Filling his own pockets,” lol. The thing built up in your parents’ bodies is the *sari*; what’s coming out of my mouth is profanity.",
+      "defect": "The translation replaces 사리사욕 with an unrelated phrase, leaving the subsequent 사리 wordplay unexplained and incoherent in English.",
+      "id": "F02",
+      "rationale": "The source twists part of the preceding accusation 사리사욕 into a bodily-deposit insult, then contrasts it with 쌍욕, or vicious profanity.",
+      "replacement": "└ “Self-interest,” lol. The only interest here is the deposits building up in your parents’ bodies; what’s coming out of my mouth is pure profanity.",
+      "severity": "major",
+      "source": "└ 윗 댓글 사리사욕ㅋㅋㅋ 너희 부모님 몸에 쌓인 게 사리고, 내 입에서 나오는 건 쌍욕임."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Even as people were banned from wearing dentures, using hearing aids, and entering the senior center in droves, the fighting didn’t stop.",
+      "defect": "The draft changes the running joke from the commenters having their dentures and hearing aids confiscated to being forbidden from wearing or using them.",
+      "id": "F03",
+      "rationale": "The narration literalizes the preceding escalating “confiscated” replies and must retain that mechanism.",
+      "replacement": "Even as people everywhere had their dentures and hearing aids confiscated and were banned from the senior center, the fighting didn’t stop.",
+      "severity": "major",
+      "source": "곳곳에서 틀니와 보청기, 노인정 출입을 금지당한 사람들이 속출했음에도 싸움은 멈추지 않았다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Hyeongseok, go drink more milk from your mommy and study some more~~`!!\n\n└ You drink more.",
+      "defect": "Rendering 젖을 먹다 as merely drinking milk sanitizes the infantilizing command to go nurse from his mother and weakens the comeback built on the same verb.",
+      "id": "F04",
+      "rationale": "The source uses nursing as an insult and immediately repeats the action in Hyeongseok’s retort.",
+      "replacement": "Young Hyeongseok, go back to your mommy, suck some more milk, and study harder~~`!!\n\n└ You go suck some more.",
+      "severity": "major",
+      "source": "형석군은 엄마한테 가서 젖을 더먹고 공부 더하고 오너라~~`!!\n\n└ 니나 더 먹어."
+    },
+    {
+      "confidence": 0.98,
+      "current": "└ What a rotten bastard.",
+      "defect": "The draft substantially sanitizes the compound profanity and removes the lowborn/commoner insult.",
+      "id": "F05",
+      "rationale": "호로 쌍놈의 새끼 is markedly stronger and more socially loaded than “rotten bastard.”",
+      "replacement": "└ You’re a goddamn lowborn son of a bitch.",
+      "severity": "major",
+      "source": "└ 호로 쌍놈의 새끼로구나."
+    },
+    {
+      "confidence": 0.99,
+      "current": "└ Please, three-centimeter dick, please…",
+      "defect": "The draft expands the acronym before the next commenter asks what it means, destroying the setup-and-reveal structure of the joke.",
+      "id": "F06",
+      "rationale": "제꼬삼 is an opaque abbreviation whose full crude meaning is deliberately revealed only in the following exchange.",
+      "replacement": "└ PH3D, PH3D…….",
+      "severity": "major",
+      "source": "└ 제꼬삼, 제꼬삼……."
+    },
+    {
+      "confidence": 1.0,
+      "current": "The strength to stop two major catastrophes, the second time by himself, and to defeat a Named Monster alone.",
+      "defect": "The draft invents that Taekyung stopped the second catastrophe by himself. The source applies 홀로 only to defeating the Named Monster.",
+      "id": "F07",
+      "rationale": "The modifier 홀로 directly governs 네임드 몬스터를 쓰러트린, not either of the two catastrophes.",
+      "replacement": "He had already prevented two major catastrophes and possessed the strength to defeat a Named Monster all by himself.",
+      "severity": "critical",
+      "source": "대참사를 이미 두 번이나 막은 데다 홀로 네임드 몬스터를 쓰러트린 힘."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Because it’s a waste.”\n\n—Pardon?\n\n“It’s a waste, but it’s necessary, isn’t it? Please continue.”",
+      "defect": "Calling the donation “a waste” implies that it is a bad use of the money, whereas 아깝다 means he hates parting with money that he still recognizes must be spent.",
+      "id": "F08",
+      "rationale": "Taekyung is lamenting the personal loss while affirming the donation’s necessity, not condemning the donation as wasteful.",
+      "replacement": "“Because I hate parting with the money.”\n\n—Pardon?\n\n“I hate giving it up, but this is necessary. Please continue.”",
+      "severity": "minor",
+      "source": "“아까워서요.”\n\n- 예?\n\n“아깝지만 필요한 일이잖아요. 계속 진행해 주세요.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "This wasn’t a matter of hundreds or thousands. It was hundreds of billions.\n\nIt was a truly staggering sum, and I nearly made a sound to match.",
+      "defect": "The draft incorrectly changes the named numerical unit 억 into “hundreds of billions” and erases the repeated 억 wordplay connecting the unit to an exclamation of shock.",
+      "id": "F09",
+      "rationale": "The source emphasizes that the account is counted in units of one hundred million won, then makes a pun on the identical exclamation 억.",
+      "replacement": "The unit wasn’t hundreds or thousands. It was *eok*—hundreds of millions.[^2]\n\nIt was literally an *eok*-inducing sum, and I nearly cried out myself.\n\n[^2]: *Eok* is both the Korean unit for one hundred million and an exclamation of shock.",
+      "severity": "major",
+      "source": "단위가 백도, 천도 아니다. 억이다, 억.\n\n그야말로 억 소리 나는 금액이었고, 실제로 그런 소리가 나올 뻔했다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "The surroundings had long since fallen into darkness, while the inside of the brightly lit pavilion was warm and clear.",
+      "defect": "The draft invents warmth and renders 환했다 as “clear” rather than describing the pavilion’s brightness.",
+      "id": "F10",
+      "rationale": "The sentence contrasts the darkness outside with the bright interior; it says nothing about temperature.",
+      "replacement": "Darkness had long since swallowed the surroundings, while the illuminated pavilion shone brightly.",
+      "severity": "minor",
+      "source": "사방은 어둠에 잠긴 지 오래였고 불 밝힌 전각 안은 환했다."
+    }
+  ],
+  "summary": "The draft contains one critical alteration of who acted alone, along with several meaningful losses in joke mechanics, profanity, quantity explanation, and scene detail.",
+  "version": 1
+}

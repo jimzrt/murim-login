@@ -1,0 +1,39 @@
+{
+  "chapter": 228,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.326,
+    "source_characters": 6050,
+    "source_paragraphs": 186,
+    "translation_characters": 14071,
+    "translation_paragraphs": 188
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "상태",
+        "preferred": "Status"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "강시",
+        "preferred": "jiangshi"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
