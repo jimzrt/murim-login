@@ -1,0 +1,126 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“……Are you actually crazy?”",
+      "defect": "The translation omits the strong profanity in 새끼, weakening Song Song’s blunt, hostile register.",
+      "id": "F01",
+      "rationale": "미친 새끼 is substantially more profane than merely calling someone crazy.",
+      "replacement": "“……Are you actually fucking crazy?”",
+      "severity": "major",
+      "source": "‘……너 진짜 미친 새끼니?’"
+    },
+    {
+      "confidence": 0.97,
+      "current": "That was only natural. No one could have imagined such a thing. Besides, there was evidence to support the official circumstances.",
+      "defect": "“Official circumstances” is an unnatural rendering of 정황 and adds an official designation absent from the source.",
+      "id": "F02",
+      "rationale": "정황 here refers to the apparent account or version of events supported by the physical evidence.",
+      "replacement": "That was only natural. No one could have imagined such a thing. Besides, there was evidence to back up that version of events.",
+      "severity": "minor",
+      "source": "그 누구도 상상할 수 없는 일이니 당연했다. 거기에 정황을 뒷받침할 만한 증거들도 있었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The office door opened with a click.\n\nA pair of legs boasting an artistic silhouette stepped inside, then froze.",
+      "defect": "The draft says Song Song stepped inside before stopping, while the source says she started to enter but stopped short. It also omits the explicit “just then” timing cue.",
+      "id": "F03",
+      "rationale": "들어서려다 말고 means the attempted entrance was interrupted before completion.",
+      "replacement": "Just then, the office door opened with a click.\n\nA pair of shapely legs started to step inside, then stopped short.",
+      "severity": "critical",
+      "source": "달칵, 하는 소리와 함께 사무실 문이 열린 것은 바로 그때였다.\n\n예술적인 각선미를 자랑하는 다리가 들어서려다 말고 멈칫한다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "If you were me, would you want to enter a room where someone was playing catch with a talking skeleton?",
+      "defect": "“Playing catch” implies two participants throwing an object between them, whereas Taekyung is using the Skeleton Warlord as a ball and bouncing it off the wall.",
+      "id": "F04",
+      "rationale": "공놀이 is the broader “playing ball,” which fits the immediately preceding wall-bouncing action.",
+      "replacement": "If you were me, would you want to enter a room where someone was playing ball with a talking skeleton?",
+      "severity": "minor",
+      "source": "너 같으면 말하는 해골로 공놀이 중인 방에 들어가고 싶겠니?"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Warlordmon, Quick Attack.”\n\n“If you do that one more time, I’ll kill you. I mean it.”\n\n“……Petrification.”",
+      "defect": "The draft turns the first half of a deliberately interrupted command into a complete Quick Attack order, then mistranslates the second half as a separate Petrification command. The source splits 전광석화 across Song Song’s threat for the joke.",
+      "id": "F05",
+      "rationale": "전광 and 석화 are the two halves of 전광석화, the established Quick Attack command; Taekyung pauses and then finishes it despite the warning.",
+      "replacement": "“Warlordmon, Quick—”\n\n“If you do that one more time, I’ll kill you. I mean it.”\n\n“……Attack.”",
+      "severity": "critical",
+      "source": "“워로드몬, 전광.”\n\n“아까 그거 한 번만 더 하면 죽여 버릴 거야. 진심이야.”\n\n“……석화.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Your sister is taking the college entrance exam. Of course I had to come, you idiot.”",
+      "defect": "The possessive subject is reversed. Taekyung is speaking directly to Hayeon and calls her his younger sister; he is not referring to a sister of hers.",
+      "id": "F06",
+      "rationale": "동생 here is Taekyung’s younger sister, Hayeon herself.",
+      "replacement": "“My little sister is taking the college entrance exam. Of course I had to come, you idiot.”",
+      "severity": "critical",
+      "source": "“동생이 수능을 치는데 당연히 와야지, 인마.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Let go! How could someone with a seventh-grade school record understand how I feel?”",
+      "defect": "“Seventh-grade school record” sounds like a record from the seventh year of school rather than the seventh tier of Korea’s school-grade ranking.",
+      "id": "F07",
+      "rationale": "내신 7등급 means grades falling in the seventh tier, and the insult depends on Taekyung’s poor academic standing.",
+      "replacement": "“Let go! How could someone with seventh-tier school grades understand how I feel?”",
+      "severity": "minor",
+      "source": "“놔! 내신 7등급 주제에 내 마음을 어떻게 알아!”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "But I still had an uneasy feeling in one corner of my heart.",
+      "defect": "“In one corner of my heart” is a conspicuous Korean-syntax calque in otherwise conversational narration.",
+      "id": "F08",
+      "rationale": "가슴 한구석이 찜찜했다 naturally means that a lingering concern continued to bother him.",
+      "replacement": "But something still nagged at me.",
+      "severity": "minor",
+      "source": "그러나 이대로 두기에는 가슴 한구석이 찜찜했다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "> - You defeated [Lv.70 Skeleton Archer]!",
+      "defect": "The System notice retains square brackets around the target, contrary to the required System-panel formatting.",
+      "id": "F09",
+      "rationale": "The blockquote and System heading already identify the UI window, so the target must not be enclosed in square brackets.",
+      "replacement": "> - You defeated a Lv.70 Skeleton Archer!",
+      "severity": "minor",
+      "source": "- [Lv.70 스켈레톤 아처]를 처치했습니다!"
+    },
+    {
+      "confidence": 0.98,
+      "current": "- Heh-heh. I do not know what these things you call EXP and level-ups are, but this is well done, human. This is the end of greed!",
+      "defect": "“This is well done” incorrectly sounds like praise for an action and is unnatural English; 잘됐군 means that the Warlord considers Taekyung’s setback good news.",
+      "id": "F10",
+      "rationale": "The Warlord is gloating over the failure of Taekyung’s EXP farm, not commending something Taekyung did.",
+      "replacement": "- Heh-heh. I do not know what these things you call EXP and level-ups are, but this is good news. Human, this is what comes of greed!",
+      "severity": "minor",
+      "source": "- 후후, 경험치니 레벨 업이니 네가 말하는 것들이 뭔지는 모르지만 잘됐군. 인간이여, 이것이 바로 탐욕의 끝이다!"
+    },
+    {
+      "confidence": 0.99,
+      "current": "- Why?! You said there was nothing left to gain from capturing my soldiers!",
+      "defect": "“Capturing” changes the EXP mechanism. The soldiers are being defeated or killed for EXP, not taken alive.",
+      "id": "F11",
+      "rationale": "In this monster-combat context, 잡다 means killing or defeating the soldiers, as confirmed by the preceding Skeleton Archer defeat notice.",
+      "replacement": "- Why?! You said there was nothing left to gain from killing my soldiers!",
+      "severity": "major",
+      "source": "- 어째서! 이제는 내 병사들을 잡아도 얻는 게 없다면서!"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“We need to have them practice fighting. Use your subordinates to train them. Make sure they act well enough that it doesn’t look like they’re going easy on us. Of course, you know what happens if we have any casualties, right?”",
+      "defect": "The draft blurs the two-sided training mechanism: the Guild members receive combat practice, while the Skeletons themselves must rehearse acting so they can secretly go easy on them. “Any casualties” also weakens the explicit condition that someone on Taekyung’s side dies.",
+      "id": "F12",
+      "rationale": "우리 애들 are the trainees, while 네 밑에 부하들 are ordered to practice their performance; 사망자 specifically means a death, not any nonfatal casualty.",
+      "replacement": "“We can use them to give our people some combat practice. Have your subordinates rehearse their acting. Tell them to make it convincing without letting on that they’re going easy on us. Of course, you know what happens if anyone on our side dies, right?”",
+      "severity": "major",
+      "source": "“우리 애들 상대로 전투 연습이나 시켜야지. 네 밑에 부하들 시켜서 연기 연습시켜. 봐주는 거 티 안 나게 잘하라고. 물론 우리 쪽에서 사망자 나오면 알지?”"
+    }
+  ],
+  "summary": "Two scene actions and one kinship subject are mistranslated; several additional lines lose profanity, causal precision, combat mechanics, or natural terminology.",
+  "version": 1
+}

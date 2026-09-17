@@ -978,3 +978,10 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 러시아 | **Russia** | Country associated with Sorkovache and the imperial-style sofa. |
 | 미국 | **United States** | Country associated with the talk show and CNM. |
 | 영국 | **United Kingdom** | Country associated with BCC. |
+| 전광석화 | **Quick Attack** | Warlordmon’s rapid-movement command; used as a Pokémon-style gag. |
+| 전광 | **Quick Attack** | Shortened form of Warlordmon’s rapid-movement command. |
+| 몸통박치기 | **Body Slam** | Comic attack command Taekyung gives Warlordmon. |
+| 수능 | **college entrance exam** | National university entrance examination taken by Hayeon. |
+| 내신 | **school grades** | School-record grades referenced in Taekyung’s insult. |
+| 파블로프 | **Pavlov** | Reference to Pavlov’s dogs. |
+| 중국 | **China** | Country from which Team Leader Choi’s video originates. |
