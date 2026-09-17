@@ -1,6 +1,6 @@
 # Baek Museong (백무성)
 
-- **Safe through:** Chapter 229
+- **Safe through:** Chapter 251
 - **Aliases:** Huashan’s Lone Crane
 - **Role:** First-generation disciple of Huashan, first of the Three Plum Blossom Elites, and leader of the effort to return Cheongpung, his Martial Uncle, to Huashan; after Cheongpung claims permission to follow Jeok Cheongang, Baek plans either to escort him back to the main sect or search the Central Plains for Mae Jonghak, awaiting a message from Huashan.
 - **Personality:** Calm, responsible, principled, and patient, though visibly weary of his junior disciples’ antics.
