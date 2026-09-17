@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“What is it, oppa?”\n\n“You be quiet. Don’t play with your phone while you’re eating.”",
+      "defect": "The sister is asking their mother whether the caller is her older brother, not addressing Taekyung directly. The mother also tells her not to touch the phone, rather than referring to a phone belonging to the sister.",
+      "id": "F01",
+      "rationale": "The following joke about the phone in their mother’s hand confirms both the sister’s addressee and which phone the mother means.",
+      "replacement": "“What? Is that my brother?”\n\n“Be quiet. Don’t touch the phone while you’re eating.”",
+      "severity": "critical",
+      "source": "- 뭐야, 오빠야?\n\n- 넌 조용히 해. 밥 먹는데 핸드폰 만지지 말고."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Who had something happened to?",
+      "defect": "The sentence is ungrammatical and unnatural in English.",
+      "id": "F02",
+      "rationale": "The source wonders which person the unspecified emergency concerns.",
+      "replacement": "Who was in trouble?",
+      "severity": "minor",
+      "source": "누구한테 무슨 일이 생긴 거지?"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“The initial treatment is finished, but…”",
+      "defect": "“Initial treatment” implies a defined first stage of treatment, while 우선 means that the treatment is complete for the moment.",
+      "id": "F03",
+      "rationale": "The source qualifies the current completion of treatment rather than identifying it as an initial treatment phase.",
+      "replacement": "“His treatment is finished for now, but…”",
+      "severity": "minor",
+      "source": "“우선 치료는 끝나긴 했는데…….”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "It wasn’t a place where doctors treated patients. This was where healers worked—people who were commonly called healers.",
+      "defect": "Rendering both 치료사 and 힐러 as “healers” creates a tautology absent from the source.",
+      "id": "F04",
+      "rationale": "The source contrasts doctors with specialized practitioners and then supplies their common designation, “healers.”",
+      "replacement": "This wasn’t a ward staffed by doctors, but by practitioners known as healers.",
+      "severity": "minor",
+      "source": "의사가 아닌 치료사. 소위 힐러라 부르는 이들이 치료하는 곳이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "CCTV was practically everywhere these days.",
+      "defect": "The draft replaces the source’s explanation about modern CCTV image quality with an unsupported claim about CCTV prevalence.",
+      "id": "F05",
+      "rationale": "The next sentence relies on the cameras having captured the suspects’ faces clearly; the source explicitly explains their camera-like image quality, not their ubiquity.",
+      "replacement": "These days, CCTV footage was as clear as anything shot on a proper camera.",
+      "severity": "critical",
+      "source": "요즘 CCTV는 카메라나 마찬가지다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "While the back of my head throbbed, another question that had yet to be answered came to mind.",
+      "defect": "The literal physical description misses the idiomatic sense that Taekyung is still mentally reeling from the revelation.",
+      "id": "F06",
+      "rationale": "뒤통수가 얼얼하다 figuratively conveys the stunned aftermath of an unexpected blow or revelation in this context.",
+      "replacement": "While I was still reeling, another unanswered question came to mind.",
+      "severity": "minor",
+      "source": "뒤통수가 얼얼한 와중에 아직 해결되지 않은 의문이 떠올랐다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "Throw away your naive common sense.",
+      "defect": "“Naive common sense” is an awkward collocation and repeats the preceding 순진하시네요 instead of conveying 어설픈 as inadequate or half-baked.",
+      "id": "F07",
+      "rationale": "The source tells Taekyung to abandon his inadequate ordinary assumptions after directly calling him naive in the preceding line.",
+      "replacement": "Discard that half-baked common sense.",
+      "severity": "minor",
+      "source": "어설픈 상식을 버리십시오."
+    }
+  ],
+  "summary": "Two critical fidelity errors alter dialogue roles and the CCTV explanation; several localized issues affect temporal meaning, idiom, and natural English.",
+  "version": 1
+}

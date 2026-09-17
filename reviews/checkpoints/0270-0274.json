@@ -1,0 +1,126 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Jihoon learns that the Guild’s higher-ups find Taekyung troublesome and begins arranging an A-Rank raid that appears intended to kill him under cover of a Gate accident.",
+      "defect": "This conflates two separate developments. Jihoon orders the A-rank raid immediately after hearing that Jung Hyunwoo has caught the scent; only afterward does the conversation turn separately to Taekyung.",
+      "id": "C01",
+      "rationale": "The replacement preserves the chapter’s sequence and prevents the checkpoint summary from assigning the apparent assassination plan to the wrong target.",
+      "replacement": "Jihoon orders an A-rank raid after learning that Jung Hyunwoo has caught the scent, apparently arranging Jung’s death under cover of a Gate accident. He then reveals that the higher-ups find Taekyung troublesome.",
+      "severity": "major",
+      "source": "checkpoint summary, Plot paragraph 2"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Is the planned earliest A-rank raid intended to remove Taekyung as a Gate accident?",
+      "defect": "The open question incorrectly links the ordered A-rank raid to Taekyung rather than Jung Hyunwoo.",
+      "id": "C02",
+      "rationale": "Jihoon orders the raid while discussing Jung’s discovery, and the following chapter reports Jung’s death. Retaining the current question would contaminate future continuity tracking.",
+      "replacement": "Was the A-rank raid Jihoon ordered used to kill Jung Hyunwoo under cover of a Gate accident?",
+      "severity": "major",
+      "source": "durable state, open_questions"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Kim the Butler blocked off the new Guild members’ rear with a curtain of fire and smiled faintly.",
+      "defect": "The established title is reversed, creating terminology drift.",
+      "id": "C03",
+      "rationale": "The packet’s binding terminology and the surrounding chapters consistently use “Butler Kim.”",
+      "replacement": "Butler Kim blocked off the new Guild members’ rear with a curtain of fire and smiled faintly.",
+      "severity": "minor",
+      "source": "Chapter 270, Stone Golem raid"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Kim the Butler flicked his fingers, and Team Leader Choi and Song Song’s bodies rose into the air.",
+      "defect": "The established title is reversed, creating terminology drift.",
+      "id": "C04",
+      "rationale": "The packet’s binding terminology and the surrounding chapters consistently use “Butler Kim.”",
+      "replacement": "Butler Kim flicked his fingers, and Team Leader Choi and Song Song’s bodies rose into the air.",
+      "severity": "minor",
+      "source": "Chapter 270, Stone Golem raid"
+    },
+    {
+      "confidence": 0.95,
+      "current": "They realized that the first giant to step forward was a middle-aged D-rank Hunter whose only real thing to boast about was twenty years of experience.",
+      "defect": "“The first giant” and “only real thing to boast about” are awkward literal phrasing that disrupts the otherwise natural action-comedy narration.",
+      "id": "C05",
+      "rationale": "This retains the rookies’ dismissive judgment and every factual detail while using natural contemporary English.",
+      "replacement": "They realized that the hulking man who had stepped forward first was a middle-aged D-rank Hunter with nothing to boast about except twenty years of experience.",
+      "severity": "minor",
+      "source": "Chapter 270, Stone Golem raid"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Now that I had become a famous person in the modern world, there were very few people with whom I could have a completely selfless conversation like this one.",
+      "defect": "“Selfless conversation” is the wrong English collocation for a conversation perceived as free of ulterior motives.",
+      "id": "C06",
+      "rationale": "The replacement naturally expresses Taekyung’s mistaken belief that neither participant wants anything from the other, preserving the dramatic irony.",
+      "replacement": "Now that I was famous in the modern world, there were very few people I could have a completely agenda-free conversation with.",
+      "severity": "minor",
+      "source": "Chapter 272, Taekyung leaving Jihoon’s officetel"
+    },
+    {
+      "confidence": 0.99,
+      "current": "He had no hesitation about gilding his own face.",
+      "defect": "“Gilding his own face” is an unnatural idiomatic calque in contemporary US English.",
+      "id": "C07",
+      "rationale": "The replacement preserves Taekyung’s observation that Jinsoo openly advertises his own achievements while matching Taekyung’s conversational voice.",
+      "replacement": "He had no hesitation about talking himself up.",
+      "severity": "minor",
+      "source": "Chapter 273, Peace Guild hallway"
+    },
+    {
+      "confidence": 0.99,
+      "current": "So the other side were Hunters.",
+      "defect": "The collective singular subject creates an awkward agreement error in US English.",
+      "id": "C08",
+      "rationale": "The replacement resolves the agreement problem without changing Taekyung’s inference.",
+      "replacement": "So the people on the other side were Hunters.",
+      "severity": "minor",
+      "source": "Chapter 274, walk through Ilsan Hospital"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Apparently, they aren’t any Awakened or Hunters registered as existing in this country.",
+      "defect": "“Registered as existing” is stiff and unnatural, while bare “Awakened” drifts from the established prose term “Awakened people.”",
+      "id": "C09",
+      "rationale": "This states the registry-search result naturally and restores the packet’s established terminology.",
+      "replacement": "Apparently, they don’t match any Awakened people or Hunters registered in this country.",
+      "severity": "minor",
+      "source": "Chapter 274, hospital rooftop"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“……Uncle?”",
+      "defect": "The pause uses repeated full stops instead of the required ellipsis character.",
+      "id": "C10",
+      "rationale": "The binding Markdown rules require the single ellipsis character “…” throughout the reading copy.",
+      "replacement": "“…Uncle?”",
+      "severity": "minor",
+      "source": "Chapter 274, Im Kkeokjeong’s hospital room"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“……Could they be Korean-Chinese? Chinese or Japanese?”",
+      "defect": "The pause uses repeated full stops instead of the required ellipsis character.",
+      "id": "C11",
+      "rationale": "The binding Markdown rules require the single ellipsis character “…” throughout the reading copy.",
+      "replacement": "“…Could they be Korean-Chinese? Chinese or Japanese?”",
+      "severity": "minor",
+      "source": "Chapter 274, hospital rooftop"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“……What?”",
+      "defect": "The pause uses repeated full stops instead of the required ellipsis character.",
+      "id": "C12",
+      "rationale": "The binding Markdown rules require the single ellipsis character “…” throughout the reading copy.",
+      "replacement": "“…What?”",
+      "severity": "minor",
+      "source": "Chapter 274, hospital rooftop"
+    }
+  ],
+  "summary": "The reading copies are broadly consistent in voice, terminology, hooks, and chronology. The major issue is that the checkpoint summary and active state conflate Jihoon’s apparent operation against Jung Hyunwoo with the separate discussion of Taekyung. The remaining findings are localized terminology, prose, grammar, and ellipsis-formatting issues.",
+  "version": 1
+}
