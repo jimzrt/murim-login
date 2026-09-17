@@ -726,3 +726,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 합비 | **Hefei** | City on the Jin Family's new escort-trade route. |
 | 진가표국 | **Jin Family Escort Bureau** | New name for the former Seongun Escort Bureau under the Jin Family. |
 | 잠룡출사 | **The Sleeping Dragon Enters Service** | Title of Jin Wikyung's planned painting. |
+| 검미새 | **sword nut** | Taekyung's joking term for someone obsessed with swords. |
+| 노환 | **infirmities of old age** | Jeok Cheongang's age-related illness. |
+| 헨젤과 그레텔 | **Hansel and Gretel** | Fairy-tale siblings used in Taekyung's chained-iron-ball joke. |
