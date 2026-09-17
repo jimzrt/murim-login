@@ -1,0 +1,56 @@
+{
+  "chapter": 222,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.066,
+    "source_characters": 5700,
+    "source_paragraphs": 204,
+    "translation_characters": 11777,
+    "translation_paragraphs": 190
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "numbers",
+      "details": {
+        "values": [
+          "50"
+        ]
+      },
+      "message": "Arabic numerals from the source are absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "귀가",
+        "preferred": "your family"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "출혈",
+        "preferred": "Bleeding"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "송이",
+        "preferred": "Song-i"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
