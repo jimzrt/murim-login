@@ -7,7 +7,7 @@
       "cache_write_tokens": 0,
       "cost_reported": 0,
       "cost_usd": 0,
-      "elapsed_seconds": 103.543,
+      "elapsed_seconds": 482.958,
       "event_log": "/home/james/Documents/murim_login_new/reviews/mastering/0160/omp/adjudicator.jsonl",
       "exact": true,
       "fallback_used": false,
@@ -21,23 +21,23 @@
           "cost_usd": 0,
           "input_tokens": 0,
           "model": "cursor-grok-4.6",
-          "output_tokens": 2935,
+          "output_tokens": 12228,
           "provider": "cursor",
           "requests": 1,
-          "total_tokens": 2935
+          "total_tokens": 12228
         }
       },
-      "output_bytes": 2894,
-      "output_tokens": 2935,
-      "packet_bytes": 74456,
-      "packet_token_estimate": 18614,
+      "output_bytes": 16331,
+      "output_tokens": 12228,
+      "packet_bytes": 96534,
+      "packet_token_estimate": 24134,
       "provider": "cursor",
       "requested_model": "cursor/cursor-grok-4.6:high",
       "requests": 1,
       "stop_reasons": [
         "stop"
       ],
-      "total_tokens": 2935,
+      "total_tokens": 12228,
       "usage_source": "omp_provider_reported"
     },
     "draft_model": {
@@ -86,44 +86,44 @@
       "packet_token_estimate": 15126
     },
     "master_model": {
-      "billing_type": "api",
-      "cache_read_tokens": 2688,
+      "billing_type": "subscription",
+      "cache_read_tokens": 0,
       "cache_write_tokens": 0,
-      "cost_reported": 0.0421038366,
-      "cost_usd": 0.0421038366,
-      "elapsed_seconds": 140.124,
+      "cost_reported": 0.17886400000000002,
+      "cost_usd": 0.17886400000000002,
+      "elapsed_seconds": 87.496,
       "event_log": "/home/james/Documents/murim_login_new/reviews/mastering/0160/omp/master.jsonl",
       "exact": true,
       "fallback_used": false,
-      "input_tokens": 22255,
-      "model": "deepseek/deepseek-v4.1-flash",
+      "input_tokens": 21466,
+      "model": "gpt-5.6-sol",
       "models": {
-        "openrouter/deepseek/deepseek-v4.1-flash": {
-          "billing_type": "api",
-          "cache_read_tokens": 2688,
+        "openai-codex/gpt-5.6-sol": {
+          "billing_type": "subscription",
+          "cache_read_tokens": 0,
           "cache_write_tokens": 0,
-          "cost_usd": 0.0421038366,
-          "input_tokens": 22255,
-          "model": "deepseek/deepseek-v4.1-flash",
-          "output_tokens": 31356,
-          "provider": "openrouter",
-          "reasoning_tokens": 28289,
+          "cost_usd": 0.17886400000000002,
+          "input_tokens": 21466,
+          "model": "gpt-5.6-sol",
+          "output_tokens": 4650,
+          "provider": "openai-codex",
+          "reasoning_tokens": 1722,
           "requests": 1,
-          "total_tokens": 56299
+          "total_tokens": 26116
         }
       },
-      "output_bytes": 13350,
-      "output_tokens": 31356,
+      "output_bytes": 13097,
+      "output_tokens": 4650,
       "packet_bytes": 65009,
       "packet_token_estimate": 16253,
-      "provider": "openrouter",
-      "reasoning_tokens": 28289,
-      "requested_model": "openrouter/deepseek/deepseek-v4.1-flash:low",
+      "provider": "openai-codex",
+      "reasoning_tokens": 1722,
+      "requested_model": "openai-codex/gpt-5.6-sol:medium",
       "requests": 1,
       "stop_reasons": [
         "stop"
       ],
-      "total_tokens": 56299,
+      "total_tokens": 26116,
       "usage_source": "omp_provider_reported"
     },
     "review_model": {
