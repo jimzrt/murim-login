@@ -1,6 +1,6 @@
 # Team Leader Choi
 
-- **Safe through:** Chapter 90
+- **Safe through:** Chapter 223
 - **Aliases:** Choi Minwoo (최민우)
 - **Role:** Former Ares Guild Team Leader; reawakened Hunter publicly classified as C-rank; leader and employer of Team 1, the Peace Guild’s E-rank Gate party
 - **Personality:** Calm, observant, practical, and decisive under pressure
