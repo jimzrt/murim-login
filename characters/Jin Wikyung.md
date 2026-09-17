@@ -1,6 +1,6 @@
 # Jin Wikyung (진위경)
 
-- **Safe through:** Chapter 243
+- **Safe through:** Chapter 244
 - **Aliases:** Junzi Sword
 - **Role:** Thirty-six-year-old Lesser Family Head and future Family Head of the Jin Family of Taiyuan; has led the family in place of the absent Family Head for two years and established it as Shanxi Murim's hegemon; is investigating Dark Heaven's apparent attack on Shanxi and has ordered three surviving remnants preserved as evidence; during the current gathering he secured the loyalty of smaller and mid-sized sects and cooperation from the authorities and merchant world, and accepted Seok Family Manor's generous proposal to enter Shanxi's merchant world alongside the Jin Family pending detailed review; receives Ak Bulgun at noon, explains Jin Mukyung’s refusal to return to Heaven’s Gate Temple, and personally gives Ak an undisclosed letter from the Temple.
 - **Personality:** Calm and authoritative in public; affectionate and protective toward Taekyung beneath a stern mask; accepts responsibility from his subordinates and shows immediate concern for family
