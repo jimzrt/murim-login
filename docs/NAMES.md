@@ -1071,3 +1071,13 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 귀식대법 | **Turtle Breath Technique** | Cheongpung’s joking description of breath-holding and suspended bodily functions. |
 | 귀신대법 | **Ghost Technique** | Taekyung’s pun on Turtle Breath Technique after Mujin appears dead. |
 | 심폐소생권 | **Cardiopulmonary Resuscitation Fist** | Taekyung’s humorous name for the palm strike used to revive Mujin. |
+| 표왕 | **Escort King** | Epithet of Ju Gongsan. |
+| 주공산 | **Ju Gongsan** | Former head and founder of the Yongbong Escort Bureau. |
+| 광동진가 | **Guangdong Chen Family** | Family whose last child Ju Gongsan carried to Henan during the Great Faction War. |
+| 십만마병 | **hundred thousand demonic soldiers** | Army fielded by the Demonic Cult during the Great Faction War. |
+| 광동 | **Guangdong** | Province under Demonic Cult control during the war. |
+| 광동성 | **Guangdong Province** | Source form specifying Guangdong as a province. |
+| 강서 | **Jiangxi** | Province on Ju Gongsan's route from Guangdong to Henan. |
+| 호북 | **Hubei** | Province on Ju Gongsan's route from Guangdong to Henan. |
+| 섬서성 | **Shaanxi Province** | Source form specifying Shaanxi as a province. |
+| 유니세프 | **UNICEF** | Organization referenced in Taekyung's joke about Ju Hogun's charity. |

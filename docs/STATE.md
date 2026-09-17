@@ -1,21 +1,21 @@
 # Translation State
 
-- Last completed: 315
-- Next chapter: 316
-- Current block: 315–319 (1/5)
-- Latest translation: `translations/0315.md`
-- Latest summary: `summaries/beats/0315.md`
-- Safe profiles through: chapter 315
+- Last completed: 316
+- Next chapter: 317
+- Current block: 315–319 (2/5)
+- Latest translation: `translations/0316.md`
+- Latest summary: `summaries/beats/0316.md`
+- Safe profiles through: chapter 316
 
 ## Current Block
 
-- Hyuk Sopyung leaves Xi’an Tower under public scorn after his earlier defeat, confronting further humiliation from the chief manager and reflecting on the Zhongnan Sect’s declining standing. He encounters his Junior Brother Bong-su, who reveals that the Taeeul Sword Unit has come to Xi’an on orders to bring him back because their Second Martial Uncle, the Taeeul Merciless Sword, is in the city. Hyuk Sopyung fears this Senior Martial Uncle more than even his own Master.
-- Jin Taekyung successfully performs True Qi Guidance on the unconscious Jeok Cheongang. Because they share the Fire Gate Clan’s lineage, their energies merge without resistance; Jeok’s condition improves slightly and Taekyung’s Scorching Yang Qi rises slightly. The experience grants Taekyung new insight, raises the Fire Gate Divine Technique to seven stars, and causes him to level up. Afterward, Cheongpung nearly suffocates Hyuk Mujin while trying to stop his snoring, forcing Taekyung to revive Mujin with Cardiopulmonary Resuscitation Fist. Gung Gibang returns from the Xi’an branch of the Beggars’ Sect with information unrelated to the Divine Physician and receives five silver nyang before sharing it.
+- Gung Gibang reports that the Yongbong Escort Bureau declined after its founder, Escort King Ju Gongsan, died from internal injuries sustained during the Great Faction War. Ju Gongsan's son, Ju Hogun—the Junzi Sword—was a chivalrous but commercially inept Bureau Head who gave away grain and sheltered the poor, causing the bureau to shrink over thirty years before his qi deviation two years ago left Ju Hwaran carrying its burden. The Xi'an Beggars' Sect branch has uncovered signs that the Zhongnan Sect is deeply involved in the bureau's downfall and may be trying to absorb it. Taekyung decides he will only warn the bureau if he encounters its members before leaving, since Jeok Cheongang has collapsed and direct involvement would complicate his party's mission.
 
 ## Open Questions
 
-- What mission brought the Taeeul Sword Unit and the Taeeul Merciless Sword to Xi’an?
-- What information did Gung Gibang obtain from the Xi’an branch?
+- What mission brought the Taeeul Sword Unit and the Taeeul Merciless Sword to Xi'an?
+- How extensive is the Zhongnan Sect's involvement in the Yongbong Escort Bureau's downfall, and does Huashan know or intend to act?
+- Where is the Divine Physician in Sichuan, and can the physician treat Jeok Cheongang's blocked qi acupoints?
 
 ## Exceptional Decision
 
@@ -23,6 +23,9 @@
 - Use Taeeul Merciless Sword for 태을무정검.
 - Preserve the Turtle Breath Technique/Ghost Technique pun for 귀식대법 and 귀신대법.
 - Use Cardiopulmonary Resuscitation Fist for 심폐소생권.
+- Use Escort King for 표왕 and Ju Gongsan for 주공산.
+- Use Guangdong Chen Family for 광동진가.
+- Preserve the particle-based wordplay in Ju Hogun being good 'as a person.'
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
