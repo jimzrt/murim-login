@@ -1,33 +1,32 @@
 # Translation State
 
-- Last completed: 277
-- Next chapter: 278
-- Current block: 275–279 (3/5)
-- Latest translation: `translations/0277.md`
-- Latest summary: `summaries/beats/0277.md`
-- Safe profiles through: chapter 277
+- Last completed: 278
+- Next chapter: 279
+- Current block: 275–279 (4/5)
+- Latest translation: `translations/0278.md`
+- Latest summary: `summaries/beats/0278.md`
+- Safe profiles through: chapter 278
 
 ## Current Block
 
-- Jin Taekyung slaughtered the Black Hunters surrounding Im Yeongjun, quickly killing several of them while confirming that his first target was not one of Im Kkeokjeong's three attackers. Im Yeongjun revealed that the attack on Kkeokjeong had been an order from above and offered to negotiate Taekyung's retirement as an A-rank Hunter, threatening his mother and younger sister when Taekyung refused. Taekyung rejected the offer and chose the way of Murim over compromise.
-- Taekyung continued cutting through the Black Hunters, including their tanks, mages, melee fighters, and archers. He defeated Im Yeongjun in three exchanges, destroying his shoulder with the Flame-Extinguishing Divine Fist, then pursued him into the mansion and shattered its layered defensive barriers with the Heaven-Destroying Divine Fist. With Im Yeongjun and the surviving Black Hunters trapped inside the ruined mansion, Taekyung declared himself a monster like them and asked whether Im knew the Tendon-Splitting and Bone-Twisting technique.
+- After destroying Im Yeongjun's mansion, Jin Taekyung reunites with Team Leader Choi, Butler Kim, and Song Song. He reveals that he spared ten surviving Black Hunters, incapacitated them with Pressure-Point Strikes, tortured Im Yeongjun for information, and learned that Im's sole significant connection was Myeongdong Guild. Butler Kim transports the survivors away, then burns and magically conceals the mansion.
+- Park Jihoon is summoned to the Hannam-dong mansion of Park Tae Seop, Guild Master of Myeongdong Guild. Tae Seop confronts him over killing Team Leader Jung Hyunwoo without permission. Jihoon says he killed Hyunwoo after detecting wrongdoing and describes his role as silencing people who discover the Guild's secrets. Tae Seop then reveals that Black Hunters recently targeted a D-rank Peace Guild Hunter, and Jihoon receives a call from Jin Taekyung.
 
 ## Open Questions
 
-- Which major Guild or powerful authority is backing Im Yeongjun and the Black Hunter operation?
-- Were the village feasts actually being used to procure supplies for the Black Hunter training operation?
-- What information will Im Yeongjun reveal after Taekyung begins questioning him?
+- What is Myeongdong Guild's exact role in the Black Hunter operation?
+- Is Park Jihoon an ally of Taekyung or an enemy acting for Myeongdong Guild?
+- What wrongdoing did Jung Hyunwoo uncover before Park Jihoon killed him?
+- Who authorized the Black Hunters to target the Peace Guild's D-rank Hunter?
 
 ## Exceptional Decision
 
 - Render 임영준 as Im Yeongjun.
-- Render 꼬리 as the “tail.”
-- Render 세 얼간이 as the Three Idiots.
-- Render 도사견 as Tosa dogs and 보신탕 as dog-meat soup.
-- Render 뚱인데요 as “This is Patrick.”
-- Render 수강 as qi condensed around the hand.
-- Render 멸천신권 as Heaven-Destroying Divine Fist, distinct from 멸염신권 as Flame-Extinguishing Divine Fist.
-- Render 삼성의 공력 as three-tenths of internal energy in this chapter's context.
+- Render 블랙 헌터 as Black Hunter.
+- Render 명동 길드 as Myeongdong Guild.
+- Render 박태섭 as Park Tae Seop.
+- Render 정현우 as Jung Hyunwoo.
+- Render 한남동 as Hannam-dong.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

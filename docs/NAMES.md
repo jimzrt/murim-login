@@ -900,3 +900,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 임영준 | **Im Yeongjun** | Level 95 A-rank Black Hunter concealed as a rural resident. |
 | 세 얼간이 | **Three Idiots** | Taekyung's mocking collective nickname for three acquaintances. |
 | 멸천신권 | **Heaven-Destroying Divine Fist** | Taekyung's full-power fist technique used to destroy the mansion's defensive barriers; distinct from 멸염신권. |
+| 한남동 | **Hannam-dong** | District where Park Tae Seop's mansion is located. |
