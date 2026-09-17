@@ -10,7 +10,7 @@ the current chapter. These are constraints, not preferred glossary English;
 | 당장은 | polysemy | Right away / for now / at the moment; not the broader “anytime soon.” | anytime soon |
 | 호승심 | polysemy | Competitive pride or fighting spirit; not merely a desire to test oneself. | test myself |
 | 뭐랄까 | comedy | Keep the hesitation beat; do not delete the hedge before the realization. | |
-| 형 | kinship | Junior-to-senior kinship/address. Casual speech often retains hyung; do not flatten every 형 to “brother.” | |
+| 형 | kinship | Junior-to-senior kinship/address. Keep hyung in vocatives and when 형 is the topic; narration usually uses the name. Do not flatten spoken 형 to “brother,” and do not calque every 이름+형 as “Name hyung.” | |
 | 큰형 | kinship | Eldest older brother, not a generic older brother. | |
 | 막내 | kinship | Youngest-child/youngest-member address, not generic “kid.” | |
 | 주공 | register | Retainer-to-lord address; established rendering is “my lord,” not a dropped vocative. | |

@@ -1030,3 +1030,14 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 국자감 | **Guozijian** | The empire's highest educational institution. |
 | 제갈공후 | **Zhuge Gonghu** | Former Murim Alliance Chief Strategist and deceased member of the Ten Kings. |
 | 팽 | **Peng** | Surname form for the Thunderbolt Saber King, Peng Cheolhu. |
+| 화란 | **Hwaran** | Familiar short form of Ju Hwaran. |
+| 주호군 | **Ju Hogun** | Ju Hwaran's father and former leader of the Yongbong Escort Bureau. |
+| 석 표두 | **Chief Escort Seok** | Yongbong Escort Bureau Chief Escort and the thirty-third casualty of the current escort journey. |
+| 총 표두 | **Chief Escort** | Senior escort-bureau office held by Heo Jun. |
+| 만리추풍신법 | **Myriad-Li Chasing Wind Movement Technique** | Beggars' Sect movement technique known for speed. |
+| 연검 | **flexible sword** | Ju Hwaran's weapon. |
+| 쟁자수 | **caravan porter** | Porters who lead the escort caravan's horses and carts. |
+| 녹림도 | **Green Forest bandit** | Bandit belonging to the Green Forest Alliance. |
+| 흑석산 | **Black Stone Mountain** | Mountain named for its black stones and located on the route to Mount Zhongnan. |
+| 흑석채 | **Black Stone Stronghold** | A powerful Green Forest Alliance stronghold led by Heavenly Axe. |
+| 십팔채 | **Eighteen Strongholds** | Short form for the Green Forest Alliance's eighteen major strongholds. |
