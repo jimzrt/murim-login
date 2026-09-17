@@ -1573,6 +1573,11 @@ def command_reset_for_remaster(number: int) -> None:
     step("reset", f"chapter {number} baseline restored")
 
 
+def command_finish_for_commit(number: int) -> None:
+    """Run the overlay through promotion into translations/."""
+    command_run(number)
+
+
 def state_for(number: int) -> dict:
     p = chapter_paths(number)
     if not p["state"].exists():
