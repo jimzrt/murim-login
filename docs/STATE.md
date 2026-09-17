@@ -1,31 +1,28 @@
 # Translation State
 
-- Last completed: 314
-- Next chapter: 315
-- Current block: 310–314 (5/5)
-- Latest translation: `translations/0314.md`
-- Latest summary: `summaries/beats/0314.md`
-- Safe profiles through: chapter 314
+- Last completed: 315
+- Next chapter: 316
+- Current block: 315–319 (1/5)
+- Latest translation: `translations/0315.md`
+- Latest summary: `summaries/beats/0315.md`
+- Safe profiles through: chapter 315
 
 ## Current Block
 
-- Jin Taekyung arrives at Xi'an Tower and finds Baek Museong confronting Hyuk Sopyung, the Zhongnan One Dragon, after Hyuk destroyed a private annex while drunk. Hyuk insults Taekyung and attacks him with the seven-tenths Heavenly River Thirty-Six Swords, but Taekyung breaks through the technique with Flamefire Path, seizes Hyuk's wrist, and slaps him three times. Taekyung reveals that his sect is the Fire Gate Clan, that it has only his Master and himself as Disciples, and that he is the Sleeping Dragon of Shanxi, Jin Taekyung. He persuades Hyuk to end the dispute without further escalation because Dark Heaven threatens the Murim. Baek recalls meeting Hyuk at a Huashan–Zhongnan gathering ten years earlier and tells him to take care before he leaves.
-- After Hyuk departs, Cheongpung emerges while eating, apologizes to Baek Museong for beating Baek and the Three Plum Blossom Elites during his escape from forced escort back to Huashan a year earlier, and confirms the previous conflict between them.
+- Hyuk Sopyung leaves Xi’an Tower under public scorn after his earlier defeat, confronting further humiliation from the chief manager and reflecting on the Zhongnan Sect’s declining standing. He encounters his Junior Brother Bong-su, who reveals that the Taeeul Sword Unit has come to Xi’an on orders to bring him back because their Second Martial Uncle, the Taeeul Merciless Sword, is in the city. Hyuk Sopyung fears this Senior Martial Uncle more than even his own Master.
+- Jin Taekyung successfully performs True Qi Guidance on the unconscious Jeok Cheongang. Because they share the Fire Gate Clan’s lineage, their energies merge without resistance; Jeok’s condition improves slightly and Taekyung’s Scorching Yang Qi rises slightly. The experience grants Taekyung new insight, raises the Fire Gate Divine Technique to seven stars, and causes him to level up. Afterward, Cheongpung nearly suffocates Hyuk Mujin while trying to stop his snoring, forcing Taekyung to revive Mujin with Cardiopulmonary Resuscitation Fist. Gung Gibang returns from the Xi’an branch of the Beggars’ Sect with information unrelated to the Divine Physician and receives five silver nyang before sharing it.
 
 ## Open Questions
 
-- Is Song Ilseom involved in the Yongbong Escort Bureau's information leak and the repeated attacks?
-- Will Mae Jonghak become Alliance Leader of the revived Murim Alliance?
+- What mission brought the Taeeul Sword Unit and the Taeeul Merciless Sword to Xi’an?
+- What information did Gung Gibang obtain from the Xi’an branch?
 
 ## Exceptional Decision
 
-- Use Huashan Divine Dragon for 화산신룡.
-- Use Xi'an Tower for 서안루.
-- Use Hyuk Sopyung for 혁소평.
-- Use Zhongnan One Dragon for 종남일룡.
-- Use Huashan–Zhongnan gathering for 화종지회.
-- Use one-person transmission and refusal to teach the unworthy for 일인전승 비인부전.
-- Use physical school for 육체파.
+- Use Taeeul Sword Unit for 태을검대.
+- Use Taeeul Merciless Sword for 태을무정검.
+- Preserve the Turtle Breath Technique/Ghost Technique pun for 귀식대법 and 귀신대법.
+- Use Cardiopulmonary Resuscitation Fist for 심폐소생권.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

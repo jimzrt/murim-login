@@ -446,3 +446,7 @@ Overrides generic relationship prose in character profiles for this pair.
 | 혁소평 | 백무성 | fellow young sect prodigies and prior acquaintances | you | hostile and confrontational | Uses 당신 while angrily questioning why Baek is at Xi'an Tower. |
 | 혁소평 | 진태경 | hostile_opponents | you; bastard | hostile and contemptuous | Hyuk insults Taekyung as a beggar and attacks him after Taekyung refuses to defer to his status. |
 | 진태경 | 혁소평 | hostile_opponents | you; bastard | insulting and taunting | Taekyung mocks Hyuk’s appearance, cultivation, and failed attack while forcing him to agree to end the dispute. |
+| 혁소평 | 송 총관 | visitor_to_establishment_manager | Manager Song | condescending and threatening | Uses 우리 송 총관 while belittling Xi’an Tower’s chief manager. |
+| 서안루 총관 | 혁소평 | establishment_manager_to_visiting_martial_artist | Young Hero Hyuk | formal-polite and firm | Warns Hyuk Sopyung that Xi’an Tower will formally complain to the Zhongnan Sect. |
+| 봉수 | 혁소평 | junior_disciple_to_same_generation_senior_disciple | Senior Brother | urgent and deferential | Uses 대사형 while urgently summoning Hyuk Sopyung. |
+| 혁소평 | 봉수 | same_generation_disciple_to_junior_disciple | Junior Brother | familiar and commanding | Recognizes Bong-su as a Junior Brother despite their different Masters. |
