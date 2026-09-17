@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "I couldn’t see him, but I could easily imagine the confusion and agitation he was feeling at that moment.",
+      "defect": "The draft changes Taekyung’s direct perception of emotions conveyed through the call into speculation or imagination.",
+      "id": "F01",
+      "rationale": "전해진다 means that Park Jihoon’s reaction is being communicated or coming through, not merely imagined.",
+      "replacement": "I couldn’t see him, but his confusion and agitation at that moment came through clearly enough.",
+      "severity": "minor",
+      "source": "보이지는 않아도 충분히 전해진다. 지금 이 순간, 놈이 느끼고 있을 당혹감과 동요가."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The blood rushed through my body, and my heart pounded like two hammers.",
+      "defect": "“Like two hammers” is a literal misreading of 두방망이질 친다 and produces an unnatural image absent from the source.",
+      "id": "F02",
+      "rationale": "두방망이질 친다 idiomatically describes a heart pounding violently rather than two literal hammers.",
+      "replacement": "Blood raced through my body, and my heart hammered in my chest.",
+      "severity": "minor",
+      "source": "온몸의 피가 빠르게 돌고 심장이 두방망이질 친다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "It’s unexpected that things turned out this way…but do you really think I’d have started something without considering how to clean it up?",
+      "defect": "The draft explicitly converts 일 봤을까 into “started something,” erasing the euphemistic defecation wording that continues Taekyung’s shit-and-cleanup joke.",
+      "id": "F03",
+      "rationale": "일을 보다 can euphemistically mean relieving oneself, while also fitting the broader sense of conducting an affair; “done my business” preserves both layers.",
+      "replacement": "It’s unexpected that things turned out this way…but do you really think I’d have done my business without considering the cleanup?",
+      "severity": "major",
+      "source": "일이 이렇게 된 건 뜻밖이긴 한데…… 설마 뒤처리도 생각 안 하고 일 봤을까."
+    },
+    {
+      "confidence": 0.95,
+      "current": "You can expect the result to be beyond your expectations, too. Look forward to it like hell, you son of a bitch.",
+      "defect": "The first sentence is tautological English, while the second loses the pointed shift into sarcastically polite speech marked by 기대하세요.",
+      "id": "F04",
+      "rationale": "The honorific ending is deliberately incongruous with Taekyung’s profanity and should remain audible as mocking politeness.",
+      "replacement": "The result will be more than you expect, too. You can fucking look forward to it, sir, you son of a bitch.",
+      "severity": "major",
+      "source": "결과도 생각 이상일걸. 존나게 기대하세요. 이 시벌놈아."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The scene unfolding before his eyes was so unreal that there was nothing else he could do.",
+      "defect": "The draft adds the unsupported claim that blinking was the only thing Lee Minsu could do.",
+      "id": "F05",
+      "rationale": "The source only emphasizes how unreal the scene appears; it does not characterize him as incapable of any other response.",
+      "replacement": "The scene unfolding before his eyes was simply that unreal.",
+      "severity": "minor",
+      "source": "그만큼 지금 그의 눈앞에 벌어지는 광경은 비현실적이었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "With one blink, two people fell. With two blinks, three or four more were down.",
+      "defect": "Adding “more” makes the second count cumulative, changing the stated quantity from three or four fallen Hunters to five or six in total.",
+      "id": "F06",
+      "rationale": "The source separately pairs one blink with two casualties and two blinks with three or four; it does not say an additional three or four fell.",
+      "replacement": "Blink once, and two people fell. Blink twice, and three or four fell.",
+      "severity": "critical",
+      "source": "눈을 한 번 깜빡이면 두 사람이 쓰러졌고, 두 번 깜빡이면 서너 명이 쓰러졌다."
+    },
+    {
+      "confidence": 0.88,
+      "current": "And the rest of you, step back if you don’t want to end up with an odd number of balls, too. Adjusting my strength is annoying.",
+      "defect": "The draft repeats the preceding numerical joke instead of preserving the source’s shift to 짝 불알, meaning mismatched or lopsided testicles.",
+      "id": "F07",
+      "rationale": "The wording deliberately varies the crude threat rather than repeating 홀수, the preceding expression for an odd number.",
+      "replacement": "And the rest of you, step back if you don’t want to end up with lopsided balls. Adjusting my strength is annoying.",
+      "severity": "minor",
+      "source": "다른 분들도 짝 불알 되기 싫으면 물러나세요. 힘 조절하는 것도 짜증 나니까."
+    },
+    {
+      "confidence": 0.99,
+      "current": "After grabbing the back of his neck, his entire body rigid from the paralyzing poison, Jin Taekyung looked around and asked,",
+      "defect": "The modifier is grammatically attached to Jin Taekyung, making his body appear rigid from the poison instead of the Team 1 Leader’s.",
+      "id": "F08",
+      "rationale": "The poisoned Team 1 Leader is the person whose body has stiffened; Jin Taekyung is the one grabbing him and looking around.",
+      "replacement": "Jin Taekyung grabbed the Team 1 Leader—whose entire body had gone rigid from the paralyzing poison—by the nape, looked around, and asked,",
+      "severity": "major",
+      "source": "마비독으로 전신이 뻣뻣하게 굳은 그의 뒷덜미를 움켜잡은 진태경이 주위를 둘러보며 물었다."
+    }
+  ],
+  "summary": "The draft contains one quantity change, two meaningful register or subject problems, and several localized fidelity and idiom issues.",
+  "version": 1
+}

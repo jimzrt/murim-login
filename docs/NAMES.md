@@ -903,3 +903,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 한남동 | **Hannam-dong** | District where Park Tae Seop's mansion is located. |
 | 11팀 | **Team 11** | Myeongdong Guild's officially nonexistent team of Black Hunters. |
 | 김철수 | **Kim Cheol Soo** | C-rank junior Hunter in Myeongdong Guild's Security Team. |
+| 1팀 | **Team 1** | Myeongdong Guild's elite team. |
+| 이민수 | **Lee Minsu** | C-rank Hunter in Myeongdong Guild's Security Team; distinct from Kim Minsu. |
