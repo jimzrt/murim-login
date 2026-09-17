@@ -819,3 +819,13 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 반로환동 | **Returned to Youth** | Possible explanation for an apparently young Supreme Peak master. |
 | 초절 | **supreme mastery** | Realm beyond Peak described as accessible only to the greatest martial artists. |
 | 극상승의 안법 | **ultimate eye technique** | Advanced visual technique Cheongpung learned from Mae Jonghak. |
+| 허초 | **feint** | Deceptive attack Jongni Chu says he used against Cheongpung. |
+| 심력 | **mental strength** | Inner mental capacity injured by Jongni Chu's feint. |
+| 좌장 | **presiding chair** | Authority overseeing the Star-Array Grand Banquet. |
+| 천산 | **Tianshan** | Mountain region identified as the Demonic Cult's headquarters. |
+| 천산산맥 | **Tianshan Mountains** | Mountain range associated with the Demonic Cult. |
+| 천라지망 | **net over heaven and earth** | Jeok Cheongang's figurative threat to pursue a culprit everywhere. |
+| 마공 | **demonic martial arts** | Martial arts that appear to defy common principles. |
+| 팔 성 | **eighth stage** | Current stage of Taekyung's Qi Sense Skill. |
+| 화룡 | **fire dragon** | Fire-dragon image within Taekyung's dantian that awakens before the duel. |
+| 심사관 | **Judge** | Official supervising the Star-Array Grand Banquet duels. |
