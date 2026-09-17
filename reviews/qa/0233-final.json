@@ -1,0 +1,55 @@
+{
+  "chapter": 233,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.439,
+    "source_characters": 6086,
+    "source_paragraphs": 191,
+    "translation_characters": 14841,
+    "translation_paragraphs": 193
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "화산",
+        "preferred": "Huashan"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "검신",
+        "preferred": "Sword God"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "소원",
+        "preferred": "Sowon"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "남궁",
+        "romanization": "namgung"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}

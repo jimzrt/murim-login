@@ -692,3 +692,14 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 천기 | **heavenly patterns** | Celestial patterns Hong Dao studies to perceive major changes and omens. |
 | 태양권 | **Solar Fist** | Martial art mentioned in Taekyung's joke about Unnamed's forehead strike. |
 | 천년독각사 | **Thousand-Year Poison Horned Snake** | Extremely venomous horned snake used to make Hong Dao's thirty-year-old liquor. |
+| 비선 | **Hidden Thread** | Secret intelligence network and its chief hidden informant serving the Family Head. |
+| 소선 | **Lesser Threads** | Informants operating beneath the Hidden Thread. |
+| 황산파 | **Huangshan Sect** | Prestigious sect that has already collapsed. |
+| 산주 | **Mountain Lord** | Anhui title for Jeok Cheongang as master of Mount Jiuhua. |
+| 남궁 | **Namgung** | Surname of the family led by Namgung Ryong. |
+| 남궁룡 | **Namgung Ryong** | Family Head of the Namgung family. |
+| 은형술 | **concealment technique** | Peak-level technique used by the Hidden Thread to erase his presence. |
+| 점혈 | **Pressure-Point Strike** | System-named technique used by Jeok Cheongang on Taekyung. |
+| 수혈 | **Sleep Acupoint** | Acupoint whose successful strike prevents the target from resisting sleep. |
+| 천급 | **Heaven-grade** | Highest classification in the Namgung family's intelligence system. |
+| 창천 | **azure heaven** | The cloudless sky seen by Namgung Ryong. |
