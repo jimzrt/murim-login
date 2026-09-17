@@ -1,8 +1,8 @@
 # Team Leader Choi
 
-- **Safe through:** Chapter 270
+- **Safe through:** Chapter 273
 - **Aliases:** Choi Minwoo (최민우)
-- **Role:** Former Ares Guild Team Leader; reawakened Hunter publicly classified as C-rank; Guild Master and Team Leader of the Peace Guild, currently supervising a new-member workshop at an A-rank Gate
+- **Role:** Former Ares Guild Team Leader; reawakened Hunter publicly classified as C-rank; Guild Master and Team Leader of the rapidly expanding Peace Guild, which has recruited twenty B-rank Hunters and thirty C-rank-or-lower Hunters; he manages rookie training and B-rank raid assignments after A-rank Gates become fully booked
 - **Personality:** Calm, observant, practical, and decisive under pressure
 - **Voice:** Polite and measured in ordinary conversation; clipped and commanding during combat
 - **Relationships:** Hires Jin Taekyung as a porter and leads him, Im Kkeokjeong, and three veteran E-rank Hunters through an E-rank Gate

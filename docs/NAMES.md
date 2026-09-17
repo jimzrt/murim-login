@@ -890,3 +890,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 한국대학교 | **Hankuk University** | Full form of the university attended by Jihoon. |
 | 게이트 관리청 | **Gate Management Agency** | Agency that provides Taekyung's VIP limousine. |
 | 8학군 | **School District 8** | Prestigious Gangnam education district associated with affluent families and elite schools. |
+| 김진수 | **Kim Jinsoo** | Peace Guild rookie who graduated first in the training camp’s B-rank course. |
