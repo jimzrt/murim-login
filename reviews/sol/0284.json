@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "I wasn’t surprised because Lee Jungryong, who looked at least ten years younger than Park Tae Seop, had spoken down to Park Jihoon.",
+      "defect": "The draft incorrectly identifies Park Jihoon as the person Lee Jungryong spoke down to. The age comparison and preceding exchange refer to Lee Jungryong addressing Park Tae Seop, which materially changes the hierarchy being displayed.",
+      "id": "F01",
+      "rationale": "The source explicitly compares Lee Jungryong’s apparent age with Park Tae Seop’s while referring to his condescending speech, so Park Tae Seop is the relevant addressee.",
+      "replacement": "I wasn’t surprised by the way Lee Jungryong spoke down to Park Tae Seop despite looking at least ten years younger than him.",
+      "severity": "critical",
+      "source": "나는 겉보기에 박태섭보다 열 살은 어려 보이는 이정룡의 하대 때문에 놀란 것이 아니다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "I had wondered how the bastard knew that word. Now that I saw this, they were a master-and-Disciple pair.",
+      "defect": "The draft invents a reference to the word “Master.” The narrator is connecting Jihoon’s previously demonstrated knowledge or ability with the newly revealed master-Disciple relationship, not wondering how Jihoon knew an ordinary word.",
+      "id": "F02",
+      "rationale": "The source retains the object as the pronoun 그걸 and presents the master-Disciple relationship as the explanation; resolving it as “that word” changes the causal inference.",
+      "replacement": "I’d wondered how this bastard knew about it. Now I saw—they were master and Disciple.",
+      "severity": "major",
+      "source": "이 자식이 그걸 어떻게 알았나 했더니, 지금 보니 스승과 제자 관계였다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "The moment I sensed the energy coiled within his body, my heart sank.",
+      "defect": "The draft uses generic “energy” for the martial force that allows Taekyung to identify Lee Jungryong as a Supreme Peak master.",
+      "id": "F03",
+      "rationale": "In this Murim-style assessment, 기운 denotes qi rather than generic energy or modern Hunter mana.",
+      "replacement": "The moment I sensed the qi coiled within his body, my heart sank.",
+      "severity": "minor",
+      "source": "그의 몸에 웅크린 기운을 느낀 순간 가슴이 철렁 내려앉았다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "He didn’t merely know how to use his energy properly. He was someone capable of more than that.",
+      "defect": "The draft again renders the qi being manipulated through a Supreme Peak-style palm technique as generic “energy.”",
+      "id": "F04",
+      "rationale": "The immediately preceding sentence explicitly describes 기의 운용, and the source continues referring to that same qi manipulation.",
+      "replacement": "He didn’t merely know how to wield his qi properly—he was capable of far more than that.",
+      "severity": "minor",
+      "source": "그는 기운을 제대로 활용할 줄 아는 것뿐 아니라, 그 이상을 해내는 인물이다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "He was probably referring to a cultivation technique in those terms.",
+      "defect": "The draft omits 내공, losing the fact that Taekyung specifically interprets Lee Jungryong’s phrase as referring to an internal energy cultivation technique.",
+      "id": "F05",
+      "rationale": "내공심법 combines internal energy with cultivation technique; retaining both elements preserves the specific mechanism being discussed.",
+      "replacement": "He was probably referring to an internal energy cultivation technique in those terms.",
+      "severity": "minor",
+      "source": "아마 내공심법을 그런 식으로 부르는 모양이다."
+    },
+    {
+      "confidence": 0.89,
+      "current": "A scream burst from his mouth as it tore open with blood.",
+      "defect": "The English unnaturally and misleadingly states that Jihoon’s mouth physically tore open, rather than conveying the scream and blood bursting from it together.",
+      "id": "F06",
+      "rationale": "The source couples the violent scream with the blood coming from Jihoon’s mouth; it does not clearly establish a separate injury in which his mouth is torn apart.",
+      "replacement": "A scream burst from his mouth along with a spray of blood.",
+      "severity": "minor",
+      "source": "핏물과 함께 찢어지는 녀석의 입에서 비명이 터져 나왔다."
+    }
+  ],
+  "summary": "The draft contains one incorrect dialogue addressee, one altered causal inference, several terminology issues involving qi and internal energy, and one misleading injury description.",
+  "version": 1
+}
