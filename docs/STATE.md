@@ -1,39 +1,32 @@
 # Translation State
 
-- Last completed: 268
-- Next chapter: 269
-- Current block: 265–269 (4/5)
-- Latest translation: `translations/0268.md`
-- Latest summary: `summaries/beats/0268.md`
-- Safe profiles through: chapter 268
+- Last completed: 269
+- Next chapter: 270
+- Current block: 265–269 (5/5)
+- Latest translation: `translations/0269.md`
+- Latest summary: `summaries/beats/0269.md`
+- Safe profiles through: chapter 269
 
 ## Current Block
 
-- Rumors of Hong Dao's death and the bloodbath at Shaolin Temple spread rapidly through Henan Province, throwing the region into turmoil. Conflicting reports blame the Demonic Cult, the Yin-Yang Twin Freaks, or the Heavenly Demon, while the orthodox faction's leaders gather at the former Murim Alliance site to contain the crisis. Jin Taekyung expects a war larger than the conflict in Shanxi Province and recognizes that Dark Heaven is connected to the Temporary Strength Pill once used by Pung Yang.
-- Taekyung remains beside the unconscious Jeok Cheongang at a pavilion guarded by the Jin Dragon Squad. A physician can do nothing for Jeok's exhaustion after using the Dance of the Fire God and Demon, but confirms that his life is not currently in danger. Hyuk Mujin has been assigned to protect Jeok and Taekyung, though Taekyung discovers that Mujin abandoned his guard duty to gamble at the Star-Array Grand Banquet and lost a hundred thousand silver nyang after briefly winning the same amount.
-- After Taekyung and Hyuk Mujin's exchange, Mae Jonghak rises more than ten jang to land on the window and asks Taekyung to speak with him as a friend.
+- Jin Taekyung walks with the publicly revealed Sword Saint Mae Jonghak and discusses Cheongpung's recovery and Jeok Cheongang's continued unconsciousness. Mae explains that the renowned but eccentric Luoyang Strange Physician examined Jeok and would not have left if his life were in immediate danger.
+- Taekyung and Mae analyze Dark Heaven's attack, considering whether it sought a direct confrontation or served as a smokescreen for the Demonic Cult. Mae says the Blood Lord, the Temporary Strength Pill, and the Exploding Blood Demonic Art all carry the Demonic Cult's scent, but the Blood Lord's final sorcery was darker and unlike anything he had experienced. Hong Dao's letter identified Taekyung as the Morning Star who would drive away the darkness.
+- Taekyung returns to Jeok's room, catches Hyuk Mujin trying to keep the crumpled gold mask, orders him to bar everyone from entering until morning, and lies down to rest. He then logs out, causing his vision to go black.
 
 ## Open Questions
 
-- What is the Blood Lord's true identity, and who is the person whose cherished Disciple he is?
-- What is the nature of the black radiance and where is the Blood Lord's cavern or base?
-- What will the Blood Lord do with the Green Jade Buddha Staff?
-- What is the full nature of Mae Jonghak's higher realm or domain beyond Great Completion?
-- What is the full nature of Mae Jonghak's connection to the Martial God?
-- What were the full casualties and consequences of the bloodbath at Shaolin?
-- What will happen when Shadow Killer awakens, and what does he know about Mae Jonghak's identity?
-- What are the long-term recovery conditions of Jeok Cheongang and Cheongpung?
+- Will Jeok Cheongang regain consciousness and recover?
+- Is the Blood Lord affiliated with the Demonic Cult?
+- Is Dark Heaven a front or subordinate organization of the Demonic Cult?
+- Why was the Blood Lord so intent on taking the Green Jade Buddha Staff?
+- What is the nature and scope of the Blood Lord's unfamiliar sorcery and the method used to make the attackers appear?
 
 ## Exceptional Decision
 
-- Use Yama for 염라.
-- Use Life-or-Death Crisis for 절체절명.
-- Use Old Master for 노야 when Taekyung addresses Jeok Cheongang privately.
-- Use Heaven-Poison Demon Lord for 천독마군.
-- Use Sword Saint for 검성.
-- Use Returned to Youth for 반로환동.
-- Use Blood Ghost Sword Demon for 혈귀검마.
-- Use sorcerer for 술사.
+- Render 낙양괴의 as Luoyang Strange Physician.
+- Render 술법 as sorcery, distinct from movement techniques and lightness skills.
+- Retain Morning Star for 신성.
+- Render the 염왕채 joke as borrowing from Yama or Yama's debt.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
