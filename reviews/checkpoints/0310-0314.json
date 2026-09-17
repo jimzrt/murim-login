@@ -1,0 +1,106 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "This was the real Heavenly Axe, an actual Level 90.",
+      "defect": "Heavenly Axe is identified here as Level 90, but the System later identifies him precisely as Level 93, matching the checkpoint continuity.",
+      "id": "C01",
+      "rationale": "The two exact Level statements create a direct internal contradiction within the same chapter.",
+      "replacement": "This was the real Heavenly Axe, an actual Level 93.",
+      "severity": "major",
+      "source": "Chapter 311, Taekyung’s first assessment of the real Heavenly Axe"
+    },
+    {
+      "confidence": 1.0,
+      "current": "But Song Il was followed by a great deal of gossip.",
+      "defect": "Song Ilseom’s established name is incorrectly truncated to Song Il, which is also the name of the distinct Zhongnan Elder mentioned in Chapter 314.",
+      "id": "C02",
+      "rationale": "Using the other character’s complete established name here prevents two unrelated characters from being conflated.",
+      "replacement": "But Song Ilseom was followed by a great deal of gossip.",
+      "severity": "major",
+      "source": "Chapter 310, introduction of the rumors surrounding Song Ilseom"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Ju Hwaran knew about the public rumors surrounding Song Il.",
+      "defect": "The escort captain’s established name is Song Ilseom, while Song Il is a separate Zhongnan character.",
+      "id": "C03",
+      "rationale": "The shortened form creates avoidable identity confusion across this packet.",
+      "replacement": "Ju Hwaran knew about the public rumors surrounding Song Ilseom.",
+      "severity": "major",
+      "source": "Chapter 310, Ju Hwaran’s recollection of the rumors"
+    },
+    {
+      "confidence": 1.0,
+      "current": "After a silence that seemed as if it would never end, Song Il broke it with a single shout.",
+      "defect": "The narration incorrectly calls Song Ilseom by the complete name of a different character.",
+      "id": "C04",
+      "rationale": "The established escort captain name must remain consistent, particularly because Song Il appears independently in Chapter 314.",
+      "replacement": "After a silence that seemed as if it would never end, Song Ilseom broke it with a single shout.",
+      "severity": "major",
+      "source": "Chapter 310, aftermath of the thrown dagger"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Song Il! What are you doing?”",
+      "defect": "The direct address truncates Song Ilseom’s name to the exact name of the unrelated Roaring Fury Swordsman.",
+      "id": "C05",
+      "rationale": "Korean personal names are not naturally shortened this way, and the packet establishes Song Il as another living character.",
+      "replacement": "“Song Ilseom! What are you doing?”",
+      "severity": "major",
+      "source": "Chapter 310, Heo Jun confronting the escort captain"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Taekyung, Cheongpung, and Gung Gibang are traveling toward Sichuan to find the Divine Physician and have reached Xi'an after nearly seven days of forced travel.",
+      "defect": "The active state drops Hyuk Mujin from the traveling party and omits the central hook that Taekyung is carrying the unconscious Jeok Cheongang toward treatment.",
+      "id": "C06",
+      "rationale": "Both omitted facts remain active and materially constrain subsequent chapters; they are also stated correctly in the checkpoint continuity and reading copies.",
+      "replacement": "Taekyung, Cheongpung, Gung Gibang, and Hyuk Mujin are traveling toward Sichuan to find the Divine Physician and have reached Xi'an after nearly seven days of forced travel; Taekyung is carrying the unconscious Jeok Cheongang, whose qi acupoints are progressively becoming blocked, concealed on his pack frame.",
+      "severity": "major",
+      "source": "Durable state, active_continuity traveling-party entry"
+    },
+    {
+      "confidence": 0.99,
+      "current": "At Ju Hwaran’s words, Heavenly Axe curled up the corners of his mouth.",
+      "defect": "“Curled up the corners of his mouth” is an unnatural English collocation and reads like a syntax calque.",
+      "id": "C07",
+      "rationale": "The replacement preserves the same physical expression while restoring natural contemporary English.",
+      "replacement": "At Ju Hwaran’s words, the corners of Heavenly Axe’s mouth curled upward.",
+      "severity": "minor",
+      "source": "Chapter 310, Heavenly Axe reacting to Ju Hwaran"
+    },
+    {
+      "confidence": 0.97,
+      "current": "—It’s only a suspicion for now. But there are more than one or two things that bother me.",
+      "defect": "“More than one or two things” is a conspicuous literalism that sounds unnatural in otherwise conversational English.",
+      "id": "C08",
+      "rationale": "The replacement retains her accumulation of multiple concerns without the Korean-derived counting expression.",
+      "replacement": "—It’s only a suspicion for now. But quite a few things have been bothering me.",
+      "severity": "minor",
+      "source": "Chapter 312, Ju Hwaran’s Sound Transmission to Heo Jun"
+    },
+    {
+      "confidence": 0.96,
+      "current": "As Three Hands of Zhongnan—and as the Roaring Fury Swordsman.",
+      "defect": "The sentence fragment uses “as” as though Taekyung himself had acted in those identities, obscuring that these were his two prior sources of conflict with Zhongnan.",
+      "id": "C09",
+      "rationale": "The replacement completes the thought and clearly identifies the two encounters without changing the chronology or substance.",
+      "replacement": "First with the Three Hands of Zhongnan—and then with the Roaring Fury Swordsman.",
+      "severity": "minor",
+      "source": "Chapter 314, Taekyung recalling his history with Zhongnan"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“So, let me get this straight…… The pinky of your left hand, the next-generation beggar boss, and the slightly dim but kind friend?”",
+      "defect": "The packet repeatedly uses the doubled Korean-style ellipsis “……” instead of the required single English ellipsis character.",
+      "id": "C10",
+      "rationale": "The binding formatting rule specifies “…”; the same doubled punctuation should be normalized throughout Chapters 312–314.",
+      "replacement": "“So, let me get this straight… The pinky of your left hand, the next-generation beggar boss, and the slightly dim but kind friend?”",
+      "severity": "minor",
+      "source": "Chapters 312–314, repeated dialogue and thought pauses"
+    }
+  ],
+  "summary": "The packet is broadly coherent and preserves the active plot hooks, but it contains one direct Level contradiction, repeated truncation of Song Ilseom’s name that risks conflating him with the distinct Song Il, and an incomplete traveling-party entry in the durable state. Several smaller prose and punctuation inconsistencies are also actionable.",
+  "version": 1
+}

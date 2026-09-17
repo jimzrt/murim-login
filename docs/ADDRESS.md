@@ -444,3 +444,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 호위장 | 백무성 | Xi'an Tower head guard to visiting Huashan master | Great Hero Baek | formal-deferential | Praises Baek's reputation and defers to him when Hyuk Sopyung arrives. |
 | 백무성 | 혁소평 | fellow young sect prodigies and prior acquaintances | you | familiar and composed | Greets Hyuk as an old acquaintance before the confrontation. |
 | 혁소평 | 백무성 | fellow young sect prodigies and prior acquaintances | you | hostile and confrontational | Uses 당신 while angrily questioning why Baek is at Xi'an Tower. |
+| 혁소평 | 진태경 | hostile_opponents | you; bastard | hostile and contemptuous | Hyuk insults Taekyung as a beggar and attacks him after Taekyung refuses to defer to his status. |
+| 진태경 | 혁소평 | hostile_opponents | you; bastard | insulting and taunting | Taekyung mocks Hyuk’s appearance, cultivation, and failed attack while forcing him to agree to end the dispute. |
