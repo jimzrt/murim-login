@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "He had failed to sense someone barely twenty paces away. He, of all people.",
+      "defect": "The draft converts roughly twenty jang—about two hundred feet—into twenty paces, reducing the stated detection distance by approximately two-thirds.",
+      "id": "F01",
+      "rationale": "이십여 장 denotes roughly twenty jang, not twenty ordinary paces, and 기척 is a presence rather than necessarily a directly perceived person.",
+      "replacement": "He had failed to sense a presence barely two hundred feet away. He, of all people.",
+      "severity": "critical",
+      "source": "고작 이십여 장 밖의 기척을 감지하지 못했다. 다른 누구도 아닌 자신이."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The Blood Lord slowly looked Jongni Chu up and down as he answered calmly.",
+      "defect": "The dangling clause grammatically attributes the calm answer to the Blood Lord, although Jongni Chu is the one answering.",
+      "id": "F02",
+      "rationale": "침착하게 대답하는 modifies 종리추, while 혈주 is the subject who examines him.",
+      "replacement": "As Jongni Chu answered calmly, the Blood Lord slowly looked him up and down.",
+      "severity": "major",
+      "source": "침착하게 대답하는 종리추를, 혈주가 천천히 위아래로 훑었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“You… What are you, exactly?”",
+      "defect": "The English asks what kind of being Jongni Chu is rather than asking for his identity.",
+      "id": "F03",
+      "rationale": "정체가 뭐냐 asks who someone really is or what their true identity is.",
+      "replacement": "“You… Who exactly are you?”",
+      "severity": "minor",
+      "source": "“네놈……. 도대체 정체가 뭐냐?”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Who knows? It seems more useful than I expected.”",
+      "defect": "The draft makes Mae Jonghak the person who underestimated his own sword and omits 아직, weakening his understated rebuttal.",
+      "id": "F04",
+      "rationale": "아직 means “still,” while 생각보다 is an impersonal comparison here, not specifically Mae Jonghak revising his own expectations.",
+      "replacement": "“Well, it still seems more useful than one might think.”",
+      "severity": "minor",
+      "source": "“글쎄, 아직 생각보다 쓸 만한 것 같네만.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "During the Great Faction War, he had been the greatest of the great demon heads who swept across the land while worshiping the Heavenly Demon, the leader of the Heavenly Demon Divine Cult, as a god.",
+      "defect": "“Demon heads” is an unnatural literal calque for 대마두 and does not read as polished English.",
+      "id": "F05",
+      "rationale": "대마두 중의 대마두 emphatically identifies him as an exceptionally notorious archfiend.",
+      "replacement": "During the Great Faction War, he had been an archfiend among archfiends, sweeping across the land while worshiping the Heavenly Demon, leader of the Heavenly Demon Divine Cult, as a god.",
+      "severity": "minor",
+      "source": "정마대전 당시, 천마신교의 교주인 천마를 신으로 떠받들며 천하를 휩쓸던 대마두 중의 대마두가 아닌가."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Even I didn’t expect to Return to Youth.",
+      "defect": "The established rendering is “Returned to Youth,” and the active infinitive also suggests a deliberate action rather than an unforeseen transformation.",
+      "id": "F06",
+      "rationale": "반로환동 is the involuntary transformation already established as “Returned to Youth.”",
+      "replacement": "“Even I didn’t expect to be Returned to Youth.",
+      "severity": "minor",
+      "source": "“반로환동(返老還童)까지는 나도 예상치 못했네."
+    },
+    {
+      "confidence": 0.97,
+      "current": "No one suspected that Mae Jonghak had returned to the body of a young man in his twenties.",
+      "defect": "The draft broadens the specific age denoted by 약관 into the entire twenties.",
+      "id": "F07",
+      "rationale": "약관 conventionally denotes a young man of twenty.",
+      "replacement": "No one suspected that Mae Jonghak had returned to the body of a twenty-year-old.",
+      "severity": "minor",
+      "source": "약관의 청년으로 돌아간 매종학을 의심하는 아무도 없었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "It was the moment the horrified Blood Lord hurriedly tried to throw himself away.",
+      "defect": "“Throw himself away” means to waste or discard oneself in English, not to launch oneself out of danger.",
+      "id": "F08",
+      "rationale": "몸을 날리다 describes propelling or hurling one’s body in movement.",
+      "replacement": "At that moment, the horrified Blood Lord hurriedly tried to leap away.",
+      "severity": "minor",
+      "source": "경악한 혈주가 황급히 몸을 날리려던 그 순간이었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "There was nowhere to block the Sword Energy hurtling across the ten-odd-zhang distance.",
+      "defect": "“Nowhere to block” is unidiomatic and changes the absence of any method into an apparent lack of location; the untranslated measurement is also opaque.",
+      "id": "F09",
+      "rationale": "막을 방법은 어디에도 없었다 means there was no possible way to block it, while 십여 장 is a little over ten jang, or more than one hundred feet.",
+      "replacement": "There was no way to block the Sword Energy hurtling across more than a hundred feet.",
+      "severity": "minor",
+      "source": "십여 장의 거리를 지우며 달려드는 검기를 막을 방법은 어디에도 없었다."
+    }
+  ],
+  "summary": "The draft contains one materially altered distance, one ambiguous subject attribution, and several localized terminology and natural-English issues.",
+  "version": 1
+}

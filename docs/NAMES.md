@@ -868,3 +868,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 염라 | **Yama** | Buddhist lord of the underworld invoked as the one awaiting the dead. |
 | 절체절명 | **Life-or-Death Crisis** | Sudden System Quest forcibly accepted during the confrontation at Mount Song. |
 | 노야 | **Old Master** | Taekyung's private address for Jeok Cheongang. |
+| 천독마군 | **Heaven-Poison Demon Lord** | Archfiend of the Heavenly Demon Divine Cult and former second-in-command of the Demonic Cult. |
