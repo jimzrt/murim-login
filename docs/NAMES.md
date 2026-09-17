@@ -655,3 +655,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 개보린 | **Dogvorin** | Taekyung's dog-themed pun on Gevorin, a Korean painkiller. |
 | 대법원 | **Supreme Court** | Court invoked in Won Myunghoon's metaphor for an irreversible verdict. |
 | 어스퀘이크 | **Earthquake** | Named spell cast by Butler Kim. |
+| 헌터TV | **HunterTV** | Major Hunter-focused cable channel that conducts the exclusive live broadcast. |
+| 합스부르폰 가 | **Hapsburphon family** | Long-established German family of equipment makers. |
+| PSV-96K | **PSV-96K** | Concealed camera that evades detection magic and functions in unstable-Gate mana. |
