@@ -24,6 +24,9 @@ Caddy serves these on `murim-login.com` (not under `/api`, which is Remark42):
 | `POST /github-hooks/murim-login` | GitHub App webhook |
 | `GET /health` | Worker liveness |
 
+The same process tails Caddy's Murim JSON access log into SQLite
+(`tools/pageviews_ingest.py`). That is not a public route.
+
 The Compose service `murim-report` lives in the papawellness-docker stack. It
 volume-mounts a clone of this repo and a GitHub App private key.
 

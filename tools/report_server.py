@@ -15,6 +15,7 @@ from pathlib import Path
 from urllib.parse import urlparse
 
 from tools.github_app import GitHubApp, GitHubError
+from tools.pageviews_ingest import start_background as start_pageviews
 from tools.line_report import (
     LABEL,
     NOTE_MAX,
@@ -556,6 +557,7 @@ def main() -> int:
     if settings.app_id and settings.installation_id and settings.pem:
         github = GitHubApp(settings.app_id, settings.installation_id, settings.pem, settings.repo)
     service = LineReportService(settings, github)
+    start_pageviews()
     server = ThreadingHTTPServer((settings.host, settings.port), make_handler(service))
     print(f"line-report listening on {settings.host}:{settings.port}", flush=True)
     server.serve_forever()
