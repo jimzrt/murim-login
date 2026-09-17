@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "I want some butter.",
+      "defect": "The source refers to Butter Rings, a Korean cookie brand whose name forms a joke with the preceding complaint about buffering; changing it to generic butter loses both the object and most of the wordplay.",
+      "id": "F01",
+      "rationale": "Retaining the product name preserves the buffering/Butter Rings joke without adding explanation to the chat.",
+      "replacement": "Now I want some Butter Rings.",
+      "severity": "minor",
+      "source": "버터링 먹고 싶다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Ah, we killed the raid monster, so you don’t have to worry too much.”",
+      "defect": "The translation inserts an explicit plural subject and attributes the kill to a group, while the Korean leaves the subject unstated. It also makes the action more explicitly lethal than 잡았으니까 requires here.",
+      "id": "F02",
+      "rationale": "A passive construction preserves the source’s omitted subject and the deadpan reassurance without prematurely assigning credit.",
+      "replacement": "“Ah, the raid monster has already been taken down, so you don’t have to worry too much.”",
+      "severity": "critical",
+      "source": "“아, 레이드 몬스터는 잡았으니까 너무 걱정하지 않으셔도 됩니다.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“I said exactly what I meant.”",
+      "defect": "The current line changes “It’s just as I said” into a claim about deliberately chosen meaning, giving Taekyung a more forceful and self-conscious tone than the source.",
+      "id": "F03",
+      "rationale": "The replacement preserves Taekyung’s matter-of-fact response to the request for repetition.",
+      "replacement": "“It’s just as I said.”",
+      "severity": "minor",
+      "source": "“말씀드린 그대론데요.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“This is probably the best way to put it. I ‘took care of him.’”",
+      "defect": "Although the euphemistic meaning is present, “took care of him” does not carry the waste-processing sense of 처리 that sets up the immediate recycling joke.",
+      "id": "F04",
+      "rationale": "“Disposed of” remains a euphemism for killing while preserving the lexical connection to treating Won Myunghoon like refuse.",
+      "replacement": "“This is probably the best way to put it. I ‘disposed of him.’”",
+      "severity": "minor",
+      "source": "“이게 제일 낫겠네요. 제가 ‘처리’했습니다.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "The investigators clicked their tongues after confirming that the enormous Named Monster was dead in a grisly fashion.",
+      "defect": "혀를 내두르다 expresses astonishment or marveling here, not the disapproval conveyed by “clicked their tongues.” The investigators’ reaction to Taekyung’s feat is reversed.",
+      "id": "F05",
+      "rationale": "The surrounding exclamations show that they are amazed he defeated it alone, and the replacement preserves that reaction.",
+      "replacement": "The investigators were stunned when they confirmed that the enormous Named Monster lay gruesomely dead.",
+      "severity": "major",
+      "source": "거대한 네임드 몬스터가 처참하게 죽어 있는 것을 확인한 조사단은 혀를 내둘렀고,"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Kim Jonghun, the Star Guild’s Team One Leader, confessed to everything that had happened while his already-fragile mental state had yet to fully recover.",
+      "defect": "“Already-fragile” invents a preexisting psychological weakness; the Korean says his mind had become weakened and had not yet recovered. “Team One Leader” also departs from the established title “Team 1 Leader.”",
+      "id": "F06",
+      "rationale": "This preserves his condition as the consequence of recent events rather than an established trait and uses the binding title.",
+      "replacement": "Kim Jonghun, the Star Guild’s Team 1 Leader, confessed to everything that had happened before he had fully recovered from his shaken state.",
+      "severity": "major",
+      "source": "스타 길드의 1팀장, 김종훈은 심약해진 정신을 온전히 추스르지 못한 상태에서 지금까지의 일들을 모두 고백했다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“They filmed the whole raid. There’s footage on the USB. Open it and you’ll see. That bastard Won Myunghoon was a real piece of work.”",
+      "defect": "“A real piece of work” substantially softens 죽일 놈, which is a strongly abusive condemnation of Won Myunghoon.",
+      "id": "F07",
+      "rationale": "The stronger profanity matches the source’s anger and avoids sanitizing the investigator’s judgment.",
+      "replacement": "“They filmed the whole raid. There’s footage on the USB. Open it and you’ll see. That bastard Won Myunghoon was a real piece of shit.”",
+      "severity": "major",
+      "source": "“레이드 과정을 다 찍었답니다. USB 열어 보시면 영상 있습니다. 원명훈 그 자식, 죽일 놈이더라고요.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Good death. Good killing.",
+      "defect": "The literal nouns are unnatural English and obscure the comment’s meaning: Won deserved his fate, and killing him was justified.",
+      "id": "F08",
+      "rationale": "The replacement naturally conveys both halves of the blunt online reaction while preserving its approval of the killing.",
+      "replacement": "Good riddance. Killing him was the right call.",
+      "severity": "minor",
+      "source": "잘 죽었고, 잘 죽였다."
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it assigns an ambiguous action to a group, weakens several jokes and profanities, reverses the investigators’ reaction, and adds a preexisting character trait not present in the source.",
+  "version": 1
+}
