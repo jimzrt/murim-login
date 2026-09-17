@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "This is impossible.",
+      "defect": "The translation removes the strong profanity and changes an exasperated refusal into a neutral statement about impossibility.",
+      "id": "F01",
+      "rationale": "씨벌 is strong profanity, while 못 해 먹겠네 expresses frustrated inability or unwillingness to continue under the present conditions.",
+      "replacement": "Fuck, I can't work like this.",
+      "severity": "major",
+      "source": "씨벌, 못 해 먹겠네."
+    },
+    {
+      "confidence": 0.98,
+      "current": "I thought we had already been through everything together, but I couldn't help feeling a dull ache somewhere inside.",
+      "defect": "The idiom 볼 장 다 봤다 means that their relationship was already finished or had nothing left to lose, not that they had shared every kind of experience together.",
+      "id": "F02",
+      "rationale": "The line refers to Taekyung believing his romantic prospects with Song Song were already exhausted, while admitting that her reaction still hurts him.",
+      "replacement": "I thought things between us were already over, but I couldn't help the dull ache in a corner of my heart.",
+      "severity": "major",
+      "source": "이미 볼 장 다 봤다고 생각했지만, 마음 한구석이 아려 오는 건 어쩔 수 없다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "If you look here, it says that qi is circulated and accumulated through circulating internal energy, doesn’t it?",
+      "defect": "The wording incorrectly makes internal energy the separate means by which qi is circulated, muddling the source's explanation that 운기, the act of channeling energy, circulates and accumulates qi.",
+      "id": "F03",
+      "rationale": "The source describes the mechanism of 운기 acting upon 기; it does not distinguish a second substance called internal energy in this sentence.",
+      "replacement": "If you look here, it says that channeling circulates and accumulates qi, doesn’t it?",
+      "severity": "major",
+      "source": "이 부분을 보시면 운기(運氣)를 통해 기를 순환시키고 축적시킨다고 적혀 있지 않습니까?"
+    },
+    {
+      "confidence": 0.94,
+      "current": "Of those, I chose the one that served as the foundation for all the others.",
+      "defect": "The draft adds that every other technique is founded upon this one, whereas the source only calls it the most fundamental of the available choices.",
+      "id": "F04",
+      "rationale": "가장 근간이 되는 identifies the technique as the most foundational without explicitly defining the relationship among all three techniques.",
+      "replacement": "Of those, I chose the most fundamental one.",
+      "severity": "minor",
+      "source": "나는 그중에서도 가장 근간이 되는 한 가지를 골랐다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "As I drew in a deep breath, the stench seeped into my nostrils.",
+      "defect": "“Seeped” loses the explicit causal action of the deep inhalation sucking the stench into his nose.",
+      "id": "F05",
+      "rationale": "빨려 들어온다 specifically depicts the odor being drawn in by his inhalation.",
+      "replacement": "As I drew in a deep breath, the foul stench was sucked into my nostrils.",
+      "severity": "minor",
+      "source": "크게 숨을 들이마시자 구린내가 콧속으로 빨려 들어온다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Once by that incredible speed, and a second time by the fact that every language being written was Chinese.",
+      "defect": "“Every language being written” is illogical English and incorrectly suggests that multiple languages were being written.",
+      "id": "F06",
+      "rationale": "The source means that all of the writing appearing on the pages was Chinese.",
+      "replacement": "Once by that incredible speed, and a second time by the fact that everything being written was in Chinese.",
+      "severity": "minor",
+      "source": "그리고 쓰이는 모든 언어가 중국어라는 것에 두 번."
+    },
+    {
+      "confidence": 0.98,
+      "current": "> **Skill Window**",
+      "defect": "The opening game UI panel lacks the required System heading.",
+      "id": "F07",
+      "rationale": "This is an actual game interface window, so the binding Markdown rules require a blockquote headed “System” while retaining the displayed Skill Window label inside it.",
+      "replacement": "> **System**\n>\n> **Skill Window**",
+      "severity": "minor",
+      "source": "스킬창"
+    }
+  ],
+  "summary": "Several localized fidelity and register issues remain, including a mistranslated idiom, sanitized profanity, and a muddled qi-circulation mechanism.",
+  "version": 1
+}

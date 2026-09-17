@@ -1,0 +1,106 @@
+{
+  "chapter": 290,
+  "files": {
+    "characters/Go Jun.md": "3d6f92eff948a6e79f75729c8240ee392c6d03002476fd11cef07476fb4b06f8",
+    "characters/Im Kkeokjeong.md": "676b8723d222385d3c541fcf7e288f1d2a5d077a0b4d6bc2970f2eea3726fed9",
+    "characters/Jin Taekyung.md": "df3e2c53e071d8381c9feaf48aa064ccf0429f36e0aba09d50a5749d89b90779",
+    "characters/Jintae.md": "cce58e12b84a85c75f6183e5b5ef9bb4e763d643444f830b35fd0220892b8904",
+    "characters/Lee Jungryong.md": "32bf3f16de94b486d70a920b74f6bb01c743163f74f8a601eb7bfc73f91f8a63",
+    "characters/Park Jihoon.md": "9e2e7e6b5646a930e3189a638126c8edda303d5633b455245e369ad4c9d0ace1",
+    "characters/Song Song.md": "9a3f0f099b5e3740c0cbd96a32070eadc3e72063fb4436a69205d726f0fe76a4",
+    "docs/ADDRESS.md": "c777317145cf27a6ef00d0de18a65b3d9c2148ab6795bf24dcbf8c8b2eb7bca1",
+    "docs/CONTEXT.json": "9632ddbde3f0fe3b9115806ab7772bb21a4c4cb1d2d44a59e53595b5dab466e9",
+    "docs/NAMES.md": "57fc29d84490842e8c8e0eab1d2ffa63047b3c00fc2b88ea3dbc5f617b8e2019",
+    "docs/STATE.md": "c88502e83f2742cc0d7d9fdfb5b29f5e40e841ac45fa6b0f4692da7c5a093915",
+    "summaries/beats/0290.md": "8bd560d375c4d8069de7ab3e0a361be727faf5f05cfdc4035ada0277cb58208a"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "진태경",
+        "kinship": "butler_to_hunter_client",
+        "normal_address": "Hunter Jin Taekyung",
+        "notes": "Uses Taekyung's full Hunter title while asking how he possesses the Mana Cultivation Method.",
+        "speaker": "김 집사",
+        "speech_level": "formal-deferential"
+      },
+      {
+        "addressee": "송송이",
+        "kinship": "guild_master_to_guild_member",
+        "normal_address": "Hunter Song Song",
+        "notes": "Uses Song Song's full Hunter title while checking on her after the retching.",
+        "speaker": "김 집사",
+        "speech_level": "formal-deferential"
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "Taekyung has the Martial Arts Manual Creation Skill, which can create manuals only for martial arts at Great Completion and requires physical materials.",
+        "Taekyung created a manual for the Jin Family's Cultivation Technique using A4 paper and a pen after investing Intelligence points to reach the required 100 Intelligence.",
+        "Team Leader Choi and Butler Kim identify the Jin Family's Cultivation Technique manual as a Mana Cultivation Method.",
+        "Taekyung claims that his late father taught him the Jin Family's Cultivation Technique as a family health regimen and that the original manual disappeared after the family moved.",
+        "Taekyung now understands that Lee Jungryong and his subordinates' martial movements and mana use are connected to the Mana Cultivation Method."
+      ],
+      "plot": [
+        "Jin Taekyung uses Martial Arts Manual Creation in a hospital bathroom, spends Intelligence points to meet the 100-Intelligence requirement for a Peak-grade manual, and creates a manual for the Jin Family's Cultivation Technique. After bringing it to the Peace Guild, Team Leader Choi and Butler Kim recognize it as a Mana Cultivation Method. Taekyung conceals its true origin by claiming that his late father taught it as a family health regimen and that the original manual was lost."
+      ],
+      "translation_decisions": [
+        "Render 마나 연공법 as \"Mana Cultivation Method.\"",
+        "Render 고양진가 as \"Jin Family of Goyang\" when preserving Taekyung's modern-world joke."
+      ]
+    },
+    "chapter": 290,
+    "context": {
+      "active_continuity": [
+        "Jin Taekyung, Team Leader Choi, Butler Kim, Song Song, and Im Kkeokjeong remain committed to the Peace Guild despite its coming conflict with Ares Guild.",
+        "Taekyung intends to make the Peace Guild strong enough to confront Ares Guild rather than abandon it under pressure.",
+        "Ares Guild officially has more than one hundred A-rank Hunters besides Lee Jungryong, countless mid- and low-rank Hunters, and additional undisclosed forces.",
+        "Song Song remains with the Peace Guild after requesting double pay and hazard compensation.",
+        "Im Kkeokjeong chooses to continue as a Hunter after recovering from his injuries, though his actual return to field work is not yet confirmed.",
+        "Taekyung possesses Martial Arts Manual Creation, which requires Great Completion in the martial art and physical materials.",
+        "Taekyung created a Peak-grade Jin Family's Cultivation Technique manual after investing Intelligence points to reach the required threshold of 100.",
+        "Team Leader Choi and Butler Kim recognized Taekyung's manual as a Mana Cultivation Method.",
+        "Taekyung's claim that his late father taught him the technique as a family health regimen is a deliberate cover story; the actual origin of his cultivation method remains unknown.",
+        "Lee Jungryong regards Cheon Taemin as an older brother despite their lack of blood relation."
+      ],
+      "continuity_sources": [
+        290
+      ],
+      "open_questions": [
+        "Who actually taught Jin Taekyung the Jin Family's Cultivation Technique?",
+        "What history led Lee Jungryong to regard the unrelated Cheon Taemin as his older brother?",
+        "How extensive are Ares Guild's undisclosed forces beyond its officially registered Hunters?",
+        "Will Im Kkeokjeong's reattached arms recover sufficiently for him to return to Hunter work?"
+      ],
+      "safe_through": 290,
+      "temporary_decisions": [
+        "Render 비급제작 as \"Martial Arts Manual Creation.\"",
+        "Render A4 용지 as \"A4 paper.\"",
+        "Render 마나 연공법 as \"Mana Cultivation Method.\""
+      ],
+      "version": 1
+    },
+    "names": [
+      {
+        "english": "Mana Cultivation Method",
+        "korean": "마나 연공법",
+        "notes": "Modern Hunter cultivation method recognized by Team Leader Choi and Butler Kim."
+      },
+      {
+        "english": "Jin Family of Goyang",
+        "korean": "고양진가",
+        "notes": "Taekyung's joking modern-world counterpart to the Jin Family of Taiyuan."
+      }
+    ],
+    "profile_creations": [],
+    "profile_updates": [
+      {
+        "current": "- **Role:** Modern-world protagonist; recently fired after seven years at his job; A-rank Hunter who defeated eight B-rank Minotaurs and killed a Level 70 B-rank Minotaur Warrior in one blow; Peak Master with forty-five years of internal energy and the Scorching Yang Qi attribute after fully absorbing the Blazing Flame Divine Pill; possesses Jopil’s Flame Divine Palm manual, whose cover Jeok Cheongang partly burned after Taekyung threw it during his escape, and the Fire Heaven Sword, formerly the Unnamed Sword, made from Ten-Thousand-Year Cold Iron; Jeok Cheongang falsely identified the sword in public as the Fire Gate Clan’s sacred treasure, then revealed that it is a former Fire Gate Clan Sect Leader’s beloved sword whose true power requires inheriting the Fire Gate Clan’s legacy; youngest son of the Jin Family of Taiyuan; new owner of a two-story detached house in Goyang intended for his family; Qi Sense reaches a seventy-meter radius; possesses one Temporary Strength Pill in his Inventory and has reserved it for a worst-case, life-threatening contingency; was Level 75 after completing the There Is a Man Who Loved You So Much Quest and One Step Back and receiving large EXP and Fame rewards, with 20 unallocated Bonus Points after the latter Quest; has since gained additional Levels while defeating more than ten B-rank ogres, including a Lv.85 Ogre, at the Gate, and has now received another level-up, 20 Bonus Points, and a major Fame increase from the A-Rank Hunter Achievement; has allocated all seventy remaining stat points, twenty to Strength and fifty to Agility; completed the Find the Master Artisan Quest after securing Jang Taebo’s agreement to forge his Ten-Thousand-Year Cold Iron into a spear; can roughly copy observed martial forms and copied the Plum Blossom Fist after three days of sparring with Cheongpung; killed Jin Baekyang, the Blade of Flowers, and was rendered unconscious with an Internal Injury by Jeok Cheongang’s Flame Divine Palm; narrowly evaded Song Il’s Heavenly River Thirty-Six Swords before Jeok stopped Song and publicly revealed that Taekyung holds the entrusted Fire Gate Clan sacred treasure; spent two days bedridden with severe bruising after Jeok Cheongang beat him with his bare fists over the partly burned manual, then underwent an abbreviated cleansing treatment while unconscious that increased his Muscles and Bones and Sinews and Meridians by 5 each and his Strength, Stamina, and Agility by 1 each; has practiced martial arts for only three months, advancing from Third Rate to the beginning of the Peak realm during that period; was publicly accepted by Jeok Cheongang as his Disciple and declared heir to the Fire Gate Clan’s orthodox lineage, a status that ended his path to Heaven’s Gate Temple and other masters; Jeok Cheongang identifies him as possessing the Heavenly Martial Physique and agrees to personally oversee Taekyung’s martial-arts training until he reaches a certain level, while Taekyung addresses him as Master and, when they are alone, Old Master; completed the Peak-Grade One Step Back Quest after Jeok agreed to defend only and Taekyung used One Annihilation to force him five steps backward, then collapsed from exhausting all his strength and internal energy while Jeok supported him with internal energy; consumed Fire Spirit Grass, Red Flower Grass, and Flame Red Grass, completed the forced Acupoint Opening Quest, and successfully opened both his Conception and Governor Vessels before losing consciousness from exhaustion; blocked an arriving military Hunter team from taking the remaining ogres and personally butchered and collected their valuable parts; is now publicly famous as the Tollgate Hero after appearing on KPS’s Nine O’Clock News; his family’s personal information has been exposed by intrusive media, including a disguised delivery reporter and hired Familiar mages; has received Jinho’s advice not to pursue an impossible ideal of saving everyone; encountered an unidentified high-level Hunter who stepped in front of the sedan carrying him and Team Leader Choi; declined Won Myunghoon’s Star Guild and entertainment-agency proposals, plans to choose only a few commercials before refocusing on Guild work, and accidentally turned his live broadcast profanity into a viral hit; completed the Manifestation of Qi Achievement, unlocking Spear Energy and gaining Unaffected by a Hundred Poisons, two levels, and 100 Bonus Points; defeated and killed the Level 115 Named Monster Carus after resisting his strengthened magic, spent 100 Bonus Points to raise Strength and Stamina by 50 each, earned the Named Monster Defeated Achievement, and perfectly cleared The Black Wyvern’s Nest while receiving enormous EXP and Fame and two displayed level-ups; received approximately 530 billion won after Prince Cheonsur bought Carus’s processed remains at Christie’s for approximately 500 billion won before fees; is directing hundreds of billions through a Peace Guild support foundation for Gate-victim families, Great Cataclysm veterans, and single-parent families; defeated Gung Gibang in the Star-Array Grand Banquet semifinals and advanced to the finals; after Jeok Cheongang became incapacitated at Mount Song, confronted the Blood Lord with Cheongpung, used One Annihilation as his final attack, learned that the Blood Lord caused the Eight Spring Gorge war, and collapsed after continuing the fight until his body could no longer respond.",
+        "path": "characters/Jin Taekyung.md",
+        "replacement": "- **Role:** Modern-world protagonist; recently fired after seven years at his job; A-rank Hunter who defeated eight B-rank Minotaurs and killed a Level 70 B-rank Minotaur Warrior in one blow; Peak Master with forty-five years of internal energy and the Scorching Yang Qi attribute after fully absorbing the Blazing Flame Divine Pill; possesses Jopil’s Flame Divine Palm manual, whose cover Jeok Cheongang partly burned after Taekyung threw it during his escape, and the Fire Heaven Sword, formerly the Unnamed Sword, made from Ten-Thousand-Year Cold Iron; Jeok Cheongang falsely identified the sword in public as the Fire Gate Clan’s sacred treasure, then revealed that it is a former Fire Gate Clan Sect Leader’s beloved sword whose true power requires inheriting the Fire Gate Clan’s legacy; youngest son of the Jin Family of Taiyuan; new owner of a two-story detached house in Goyang intended for his family; Qi Sense reaches a seventy-meter radius; possesses one Temporary Strength Pill in his Inventory and has reserved it for a worst-case, life-threatening contingency; was Level 75 after completing the There Is a Man Who Loved You So Much Quest and One Step Back and receiving large EXP and Fame rewards, with 20 unallocated Bonus Points after the latter Quest; has since gained additional Levels while defeating more than ten B-rank ogres, including a Lv.85 Ogre, at the Gate, and has now received another level-up, 20 Bonus Points, and a major Fame increase from the A-Rank Hunter Achievement; has allocated all seventy remaining stat points, twenty to Strength and fifty to Agility; completed the Find the Master Artisan Quest after securing Jang Taebo’s agreement to forge his Ten-Thousand-Year Cold Iron into a spear; can roughly copy observed martial forms and copied the Plum Blossom Fist after three days of sparring with Cheongpung; killed Jin Baekyang, the Blade of Flowers, and was rendered unconscious with an Internal Injury by Jeok Cheongang’s Flame Divine Palm; narrowly evaded Song Il’s Heavenly River Thirty-Six Swords before Jeok stopped Song and publicly revealed that Taekyung holds the entrusted Fire Gate Clan sacred treasure; spent two days bedridden with severe bruising after Jeok Cheongang beat him with his bare fists over the partly burned manual, then underwent an abbreviated cleansing treatment while unconscious that increased his Muscles and Bones and Sinews and Meridians by 5 each and his Strength, Stamina, and Agility by 1 each; has practiced martial arts for only three months, advancing from Third Rate to the beginning of the Peak realm during that period; was publicly accepted by Jeok Cheongang as his Disciple and declared heir to the Fire Gate Clan’s orthodox lineage, a status that ended his path to Heaven’s Gate Temple and other masters; Jeok Cheongang identifies him as possessing the Heavenly Martial Physique and agrees to personally oversee Taekyung’s martial-arts training until he reaches a certain level, while Taekyung addresses him as Master and, when they are alone, Old Master; completed the Peak-Grade One Step Back Quest after Jeok agreed to defend only and Taekyung used One Annihilation to force him five steps backward, then collapsed from exhausting all his strength and internal energy while Jeok supported him with internal energy; consumed Fire Spirit Grass, Red Flower Grass, and Flame Red Grass, completed the forced Acupoint Opening Quest, and successfully opened both his Conception and Governor Vessels before losing consciousness from exhaustion; blocked an arriving military Hunter team from taking the remaining ogres and personally butchered and collected their valuable parts; is now publicly famous as the Tollgate Hero after appearing on KPS’s Nine O’Clock News; his family’s personal information has been exposed by intrusive media, including a disguised delivery reporter and hired Familiar mages; has received Jinho’s advice not to pursue an impossible ideal of saving everyone; encountered an unidentified high-level Hunter who stepped in front of the sedan carrying him and Team Leader Choi; declined Won Myunghoon’s Star Guild and entertainment-agency proposals, plans to choose only a few commercials before refocusing on Guild work, and accidentally turned his live broadcast profanity into a viral hit; completed the Manifestation of Qi Achievement, unlocking Spear Energy and gaining Unaffected by a Hundred Poisons, two levels, and 100 Bonus Points; defeated and killed the Level 115 Named Monster Carus after resisting his strengthened magic, spent 100 Bonus Points to raise Strength and Stamina by 50 each, earned the Named Monster Defeated Achievement, and perfectly cleared The Black Wyvern’s Nest while receiving enormous EXP and Fame and two displayed level-ups; received approximately 530 billion won after Prince Cheonsur bought Carus’s processed remains at Christie’s for approximately 500 billion won before fees; is directing hundreds of billions through a Peace Guild support foundation for Gate-victim families, Great Cataclysm veterans, and single-parent families; defeated Gung Gibang in the Star-Array Grand Banquet semifinals and advanced to the finals; after Jeok Cheongang became incapacitated at Mount Song, confronted the Blood Lord with Cheongpung, used One Annihilation as his final attack, learned that the Blood Lord caused the Eight Spring Gorge war, and collapsed after continuing the fight until his body could no longer respond; possesses Martial Arts Manual Creation, which requires Great Completion in the martial art and physical materials; created a Peak-grade manual for the Jin Family’s Cultivation Technique after investing Intelligence points to reach the required threshold of 100 and brought it to the Peace Guild, where Team Leader Choi and Butler Kim identified it as a Mana Cultivation Method; falsely claimed that his late father taught the technique as a family health regimen and that the original manual was lost."
+      }
+    ],
+    "version": 1
+  },
+  "version": 1
+}
