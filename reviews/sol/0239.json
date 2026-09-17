@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“They’re made of ebony imported from the Southern Man.[^1] Wood harder than steel.”",
+      "defect": "The plural pronoun changes the subject from the single broken chair to multiple chairs, and the second sentence is an unnatural fragment.",
+      "id": "F01",
+      "rationale": "The Korean uses a singular implied subject referring to the chair and identifies ebony as a wood harder than steel.",
+      "replacement": "“It’s made of ebony imported from Nanman.[^1] The wood is harder than steel.”",
+      "severity": "minor",
+      "source": "“남만에서 들여온 흑단목(黑檀木)일세. 쇠보다 단단한 목재지.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "waiting for me with his eyes bulging.",
+      "defect": "The draft turns an angry glare into physically bulging eyes.",
+      "id": "F02",
+      "rationale": "눈알을 부라리다 means to glare or stare fiercely in anger, not merely to have bulging eyes.",
+      "replacement": "waiting for me with a fierce glare.",
+      "severity": "minor",
+      "source": "전각을 나오자 젊은 호위, 아니 남궁세가의 소가주인 검룡 남궁옥이 눈알을 부라린 채 나를 기다리고 있었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Yo—no, you mean my Master?”",
+      "defect": "The nonsensical “Yo—” loses Taekyung beginning an irreverent reference to the old man and then hastily correcting himself to the respectful “Master.”",
+      "id": "F03",
+      "rationale": "The cut-off 노 initiates an informal or disrespectful reference to Jeok Cheongang; the immediate correction is a characterization and register joke.",
+      "replacement": "“That old—no, you mean my Master?”",
+      "severity": "major",
+      "source": "“노, 아니 제 사부님이요?”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Was it… really that obvious?”",
+      "defect": "The draft omits the comic self-correction from “a little” to “a lot.”",
+      "id": "F04",
+      "rationale": "좀, 많이 deliberately revises the degree mid-sentence, preserving Taekyung’s sheepish humor after his scheme is exposed.",
+      "replacement": "“Did I make it a little… too obvious?”",
+      "severity": "major",
+      "source": "“티가 좀, 많이 났나요?”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "[^1]: The Southern Man was a historical term for the southern regions beyond the traditional Chinese heartland.",
+      "defect": "The note incorrectly presents “Southern Man” as a singular historical term and describes a people-oriented exonym merely as a label for regions.",
+      "id": "F05",
+      "rationale": "南蠻 is a collective historical exonym associated with southern peoples and their territories; transliteration avoids the misleading singular phrase “the Southern Man.”",
+      "replacement": "[^1]: Nanman is a historical Chinese term—often translated as “Southern Barbarians”—for peoples and territories south of the traditional Chinese heartland.",
+      "severity": "minor",
+      "source": "남만에서 들여온 흑단목(黑檀木)일세."
+    },
+    {
+      "confidence": 0.99,
+      "current": "- A Sudden Quest, **Three-Strike Kill**, has been generated!",
+      "defect": "The quest title changes 招 from “move” to “strike,” even though the challenge is explicitly to withstand three moves.",
+      "id": "F06",
+      "rationale": "三招殺 literally names a kill within three moves, matching the immediately stated condition that Taekyung endure Nangong Cheon’s 삼 초.",
+      "replacement": "- A Sudden Quest, **Three-Move Kill**, has been generated!",
+      "severity": "major",
+      "source": "- 돌발 퀘스트, [삼초살(三招殺)]이 생성되었습니다!"
+    }
+  ],
+  "summary": "Several actionable fidelity and terminology issues, chiefly altered subjects, a lost self-correction joke, and an incorrect rendering of 南蠻.",
+  "version": 1
+}
