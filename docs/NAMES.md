@@ -1017,3 +1017,9 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 도쿄루 | **Tokyo-ru** | Red-light establishment referenced in Taekyung's joke. |
 | 미미 | **Mimi** | Worker at Honghwaru referenced in Taekyung's joke. |
 | 키라라 | **Kirara** | Worker at Tokyo-ru referenced in Taekyung's joke. |
+| 신의 | **Divine Physician** | Sobriquet of the legendary anonymous physician sought to treat Jeok Cheongang. |
+| 의선 | **Medicine Immortal** | Alternate sobriquet for the Divine Physician. |
+| 홍길동 | **Hong Gil-dong** | Legendary Korean outlaw invoked in Taekyung's joke about the Divine Physician. |
+| 오씨 | **Oh** | Surname form used in the clue identifying the Luoyang Strange Physician. |
+| 오배자 | **Chinese gallnut** | Medicinal ingredient named in the Divine Physician's clue. |
+| 신 서방 | **Mr. Shin** | Name form used in the System Quest targeting the Divine Physician. |

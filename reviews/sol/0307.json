@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "Those were the first words spoken by the Luoyang Strange Physician after coming to his senses an hour later.",
+      "defect": "The draft changes one shichen, approximately two hours, into one hour.",
+      "id": "F01",
+      "rationale": "The source explicitly gives 한 시진, and the established rendering is “shichen.”",
+      "replacement": "Those were the first words spoken by the Luoyang Strange Physician after he came to his senses one shichen later.",
+      "severity": "critical",
+      "source": "그것이 한 시진 만에 정신을 차린 낙양괴의(洛陽怪醫)가 처음으로 한 말이었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "And yet, after that flower vase cracked his skull, he had completely transformed into another person.",
+      "defect": "The draft turns the colloquial image of being struck in the head into a literal skull fracture, which the scene does not establish.",
+      "id": "F02",
+      "rationale": "뚝배기가 깨지다 is a slangy description of getting one's head struck here; the known injury is a concussion, not a confirmed fractured skull.",
+      "replacement": "And yet, after taking that flower vase to the head, he had completely transformed into another person.",
+      "severity": "critical",
+      "source": "그런 그가 화병에 뚝배기가 깨지더니 완전히 다른 사람으로 돌변해 버렸다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "The eyes of Mae Jonghak and me flashed at the same time.",
+      "defect": "The draft changes the action from both men suddenly opening their eyes wide to their eyes merely flashing.",
+      "id": "F03",
+      "rationale": "번쩍 뜨였다 describes the eyes opening suddenly and widely, not emitting or showing a flash.",
+      "replacement": "Mae Jonghak and I both snapped our eyes wide open.",
+      "severity": "critical",
+      "source": "나와 매종학의 눈이 동시에 번쩍 뜨였다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Six months. If you continue circulating his qi and blood, you might buy another couple of months, but that’s all.”",
+      "defect": "The draft mistranslates 추궁과혈, an acupoint-based qi-circulation treatment, as circulating both qi and blood.",
+      "id": "F04",
+      "rationale": "The 혈 in 추궁과혈 refers to acupoints rather than blood; the source describes a specific treatment mechanism.",
+      "replacement": "“Six months. If we keep guiding his qi through his acupoints, we might buy him another couple of months, but that’s all.”",
+      "severity": "major",
+      "source": "“반년. 계속해서 추궁과혈을 해 준다면 두어 달의 말미를 벌 수 있겠지만 그뿐이다.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "The Luoyang Strange Physician, who had been about to continue, picked up a large acupuncture needle nearly a foot long.",
+      "defect": "The draft enlarges the needle from one handspan to nearly one foot.",
+      "id": "F05",
+      "rationale": "한 뼘 is a handspan, not a foot; the altered measurement exaggerates the physical prop.",
+      "replacement": "The Luoyang Strange Physician, who had been about to continue, picked up a large acupuncture needle a handspan long.",
+      "severity": "critical",
+      "source": "말을 이으려던 낙양괴의가 한 뼘 길이의 대침(大針)을 집어 들었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Even when we brought in people who had seen the Medicine Immortal and coaxed them by every means possible, their accounts never matched. How could we possibly find him?",
+      "defect": "The draft adds the speaker and his associates as the people who personally brought in and questioned the witnesses, although the source leaves the actor unspecified.",
+      "id": "F06",
+      "rationale": "The omitted Korean subject supports a general statement about attempts to question witnesses, not a claim that the Luoyang Strange Physician personally conducted them.",
+      "replacement": "Even when people who had seen the Medicine Immortal were tracked down and coaxed in every way imaginable, their accounts never matched. How could anyone possibly find him?",
+      "severity": "major",
+      "source": "의선을 본 이들을 붙잡아 온갖 방법으로 어르고 달래도 늘 말이 엇갈리니 무슨 수로 그를 찾아내겠느냐?"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“You folks have nothing I can treat. I’ll leave a few silver coins behind, so use them to see to your food.”",
+      "defect": "The draft replaces the instruction to restore or nourish their vitality with the more explicit instruction to buy food.",
+      "id": "F07",
+      "rationale": "기를 보하다 means to replenish one's vitality or strength; food may be implied, but the source does not state it.",
+      "replacement": "“You folks have nothing I can treat. I’ll leave a few silver coins behind, so use them to restore your strength.”",
+      "severity": "major",
+      "source": "‘자네들은 치료할 곳이 없네. 다만 은전을 몇 푼 두고 갈 터이니 이것으로 기를 보하도록 하시게.’"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Then if I say Japanese porn is the best, does that mean I’m in Japan?”\n\n“What the hell are you talking about? Great Hero Mae, isn’t this fellow completely insane?”\n\nMae Jonghak, who had become intensely curious, asked:\n\n“Just what is porn?”",
+      "defect": "The draft makes the slang abbreviation 야동 more explicit by replacing the source's euphemistic “adult videos” with “porn.”",
+      "id": "F08",
+      "rationale": "야동 is a colloquial abbreviation for “adult videos.” Retaining that euphemistic register also preserves Mae Jonghak's question about the unfamiliar expression.",
+      "replacement": "“Then if I say Japanese adult videos are the best, does that mean I’m in Japan?”\n\n“What the hell are you talking about? Great Hero Mae, isn’t this fellow completely insane?”\n\nMae Jonghak, who looked ready to die of curiosity, asked:\n\n“Just what are these ‘adult videos’?”",
+      "severity": "major",
+      "source": "“그럼 제가 야동은 일본이 제일 좋다고 하면, 전 일본에 있는 거예요?”\n\n“무슨 미친 소리냐. 매 대협, 이거 완전히 미친놈 아닙니까?”\n\n매종학이 궁금해서 미치겠다는 얼굴로 물었다.\n\n“대관절 야동이란 것이 뭔가?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "And I could see it, too.\n\nA way to save Jeok Cheongang.",
+      "defect": "The draft upgrades a path to treating Jeok Cheongang into a guaranteed-sounding way to save him.",
+      "id": "F09",
+      "rationale": "치료하다 means to treat; the source does not yet promise that Jeok Cheongang can be saved or cured.",
+      "replacement": "And I could see it, too.\n\nA way to treat Jeok Cheongang.",
+      "severity": "major",
+      "source": "그리고 보인다.\n\n적천강을 치료할 수 있는 길이."
+    }
+  ],
+  "summary": "Nine actionable fidelity issues, including altered time and size quantities, an overstated injury, a reversed physical cue, mistranslated treatment mechanics, an added subject, and register changes.",
+  "version": 1
+}

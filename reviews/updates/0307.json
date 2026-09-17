@@ -1,0 +1,154 @@
+{
+  "chapter": 307,
+  "files": {
+    "characters/Blood Lord.md": "69371e7fd8813b336445574cc0b96e90c00a474595ccc8a51174f7edc2de3939",
+    "characters/Cheongpung.md": "6373a465fe6b669ebe7de9b2173fd4f789e6dceb6713f6cf1e180353bed4efe9",
+    "characters/Divine Physician.md": "89c844310abf51dafc33c45d2f27f8d4706a3b13c1216338d1cfd3c4df00a946",
+    "characters/Jeok Cheongang.md": "a0687a813bcf14b8de23423ffdef8b6c6a7774c903406d2d813d388d28df6572",
+    "characters/Luoyang Strange Physician.md": "2481672ffe6b39a9eefeb6b809f2837dd3c82bca271dd178bdeea608e3af6870",
+    "characters/Mae Jonghak.md": "1b302dde1c73ee1b9b5deede0149055e2821b6331b4c036a077b1bc237ea3d60",
+    "docs/ADDRESS.md": "14ecd443fa3289043acd2895596564bded9a4dd4c4fbbc7de5767974ee165a69",
+    "docs/CONTEXT.json": "c20e64abcb2ccc44281eac24d4117fcbce3f9a9c1a573039a3389f5604fd323f",
+    "docs/NAMES.md": "0b9ef991fe64a692c1446efef0d9e1af8354ecc0108954a39ba3f8eae587a50b",
+    "docs/STATE.md": "b79a8a9a775c577b4ebc657d5a53a00c7131566dc6b9fe502f83ab5f5aba2bba",
+    "summaries/beats/0307.md": "2eb6e04228ead682427119c00f54d3d29c2d1bfa6de155e7e41fec901b9eb13a"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "매종학",
+        "kinship": "physician_to_renowned_martial_master",
+        "normal_address": "Great Hero Mae",
+        "notes": "Addresses Mae while asking him to protect Taekyung and while requesting that he calm down.",
+        "speaker": "낙양괴의",
+        "speech_level": "formal-polite"
+      },
+      {
+        "addressee": "낙양괴의",
+        "kinship": "renowned_martial_master_to_physician",
+        "normal_address": "Strange Physician",
+        "notes": "Uses 괴의 while checking on the physician and calming him.",
+        "speaker": "매종학",
+        "speech_level": "familiar-but-respectful"
+      },
+      {
+        "addressee": "낙양괴의",
+        "kinship": "young_martial_artist_to_physician",
+        "normal_address": "Elder; Strange Physician",
+        "notes": "Uses 어르신 and 괴의 while asking for Jeok Cheongang's diagnosis and treatment.",
+        "speaker": "진태경",
+        "speech_level": "deferential and urgent"
+      },
+      {
+        "addressee": "진태경",
+        "kinship": "senior_physician_to_young_martial_artist",
+        "normal_address": "young brat",
+        "notes": "Threatens Taekyung's eyes and mouth while maintaining a deceptively genial demeanor.",
+        "speaker": "낙양괴의",
+        "speech_level": "gruff and murderous"
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "The Luoyang Strange Physician awakens one shichen after Jin Taekyung's thrown vase caused his concussion; his outwardly gentle behavior still conceals violent threats.",
+        "Jeok Cheongang is not suffering from demonic qi or poisoning, but his qi acupoints will slowly become blocked while he remains unconscious.",
+        "The Luoyang Strange Physician estimates that Jeok Cheongang has six months left, or perhaps a few additional months if his qi continues to be guided through his acupoints.",
+        "The Luoyang Strange Physician does not know Jeok Cheongang's disease or its treatment and directs Jin Taekyung to seek the Divine Physician.",
+        "The Divine Physician has practiced for more than forty years, treated thousands during an epidemic, refuses payment, conceals his identity behind a white veil, and is protected by common people from the imperial palace.",
+        "After spending five years on a medical tour following the Divine Physician's trail, the Luoyang Strange Physician received a porcelain shard bearing a clue that the Divine Physician was in Sichuan.",
+        "The System identifies the porcelain clue as Trace of the Divine Physician and generates the Quest Find Mr. Shin in Sichuan."
+      ],
+      "plot": [
+        "The Luoyang Strange Physician awakens from his concussion with an unnervingly gentle demeanor, examines the unconscious Jeok Cheongang, and determines that Jeok's qi acupoints are slowly becoming blocked. Jeok has roughly six months left, perhaps a few months more with continued qi treatment, but no known cure. The physician tells Jin Taekyung to find the legendary Divine Physician, then reveals a porcelain shard left by that physician as a clue pointing to Sichuan. The System identifies it as the Trace of the Divine Physician and generates the Quest Find Mr. Shin in Sichuan."
+      ],
+      "translation_decisions": []
+    },
+    "chapter": 307,
+    "context": {
+      "active_continuity": [
+        "Jeok Cheongang remains unconscious after the battle at Mount Song.",
+        "Jeok Cheongang is not suffering from demonic qi or poisoning, but his qi acupoints will slowly become blocked.",
+        "Jeok Cheongang has roughly six months left, with continued qi treatment potentially buying a few additional months.",
+        "The Luoyang Strange Physician does not know Jeok Cheongang's disease or its treatment.",
+        "The Divine Physician is a legendary, anonymous physician who has practiced for more than forty years, refuses payment, and is protected by common people.",
+        "A porcelain shard left for the Luoyang Strange Physician indicates that the Divine Physician is in Sichuan.",
+        "The System created Trace of the Divine Physician and the Quest Find Mr. Shin in Sichuan."
+      ],
+      "continuity_sources": [
+        307
+      ],
+      "open_questions": [
+        "Can Jin Taekyung find the Divine Physician in Sichuan before Jeok Cheongang's condition becomes irreversible?",
+        "What is Jeok Cheongang's unidentified illness, and can the Divine Physician cure it?"
+      ],
+      "safe_through": 307,
+      "temporary_decisions": [
+        "Use Divine Physician for 신의.",
+        "Use Medicine Immortal for 의선.",
+        "Use Chinese gallnut for 오배자.",
+        "Use Find Mr. Shin in Sichuan for 사천에서 신 서방 찾기."
+      ],
+      "version": 1
+    },
+    "names": [
+      {
+        "english": "Divine Physician",
+        "korean": "신의",
+        "notes": "Sobriquet of the legendary anonymous physician sought to treat Jeok Cheongang."
+      },
+      {
+        "english": "Medicine Immortal",
+        "korean": "의선",
+        "notes": "Alternate sobriquet for the Divine Physician."
+      },
+      {
+        "english": "Hong Gil-dong",
+        "korean": "홍길동",
+        "notes": "Legendary Korean outlaw invoked in Taekyung's joke about the Divine Physician."
+      },
+      {
+        "english": "Oh",
+        "korean": "오씨",
+        "notes": "Surname form used in the clue identifying the Luoyang Strange Physician."
+      },
+      {
+        "english": "Chinese gallnut",
+        "korean": "오배자",
+        "notes": "Medicinal ingredient named in the Divine Physician's clue."
+      },
+      {
+        "english": "Mr. Shin",
+        "korean": "신 서방",
+        "notes": "Name form used in the System Quest targeting the Divine Physician."
+      }
+    ],
+    "profile_creations": [
+      {
+        "aliases": [
+          "Medicine Immortal"
+        ],
+        "english": "Divine Physician",
+        "filename": "Divine Physician.md",
+        "korean": "신의",
+        "personality": "Publicly reputed to be selfless and devoted to treating patients in the lowest places.",
+        "relationships": "Left the Luoyang Strange Physician a porcelain-shard clue pointing to Sichuan and apparently intends to exchange medical knowledge with him.",
+        "role": "Legendary physician who appeared at the edge of the continent more than forty years ago, treated thousands of patients and subdued an epidemic, refuses payment, practices behind a white veil, and remains unidentified despite the imperial palace’s efforts; a porcelain clue indicates that the Divine Physician is currently in Sichuan.",
+        "voice": "Not established."
+      }
+    ],
+    "profile_updates": [
+      {
+        "current": "- **Role:** Renowned physician of the Central Plains who comes to examine Jeok Cheongang at dawn in the Murim Alliance pavilion and is knocked unconscious with a concussion when Jin Taekyung’s thrown flower vase strikes him in the forehead.",
+        "path": "characters/Luoyang Strange Physician.md",
+        "replacement": "- **Role:** Renowned physician of the Central Plains who comes to examine Jeok Cheongang at dawn in the Murim Alliance pavilion and is knocked unconscious with a concussion when Jin Taekyung’s thrown flower vase strikes him in the forehead; after waking one shichen later, he examines Jeok Cheongang, determines that Jeok’s qi acupoints will gradually become blocked and estimates six months at most, then directs Taekyung to seek the Divine Physician after providing a clue that the Divine Physician is in Sichuan."
+      },
+      {
+        "current": "- **Role:** Over-one-hundred-year-old wandering martial master and the Fire King; he visits Jang Taebo’s home, can detect Qi Sense, can cross more than ten jang in an instant, plans to reach Taiyuan and visit the Lower District Sect while concealing his identity, and once fought Sword Saint Mae Jonghak for seven days and seven nights to a draw at Mount Jiuhua before emerging from seclusion and annihilating one thousand Demonic Cultists there; after striking Jin Taekyung with the Flame Divine Palm, he deduces that Taekyung took the Blazing Flame Divine Pill and confronts him when he tries to flee the inn; he reaches the Jin Family of Taiyuan, falsely identifies the Unnamed Sword in public as the Fire Gate Clan’s sacred treasure entrusted to Taekyung, later reveals that it is actually the Fire Heaven Sword, the beloved sword of the Fire Gate Clan’s tenth Sect Leader, uses Six-Harmonies Voice Transmission to stop Song Il, publicly humiliates him, then follows the departing Zhongnan group, incapacitates the Three Hands, breaks Song Il’s wrist, strikes him with the Flame Divine Palm, and threatens to destroy the Zhongnan Sect and Mount Zhongnan if Taekyung or the Jin Family is harmed; two days later, he severely beats Taekyung with his bare fists over the partly burned Flame Divine Palm manual, performs an abbreviated cleansing treatment on Taekyung, discovers his exceptionally balanced body, and suspects he may possess the legendary Heavenly Martial Physique; at the Jin Family banquet, after Ak Bulgun questions their relationship, he publicly declares himself the eighteenth Sect Leader of the Fire Gate Clan, accepts Taekyung as his Disciple, and declares that Taekyung will inherit the clan’s orthodox lineage; he identifies Taekyung as possessing the Heavenly Martial Physique, agrees to personally oversee Taekyung’s martial-arts training until Taekyung reaches a certain level, and permits Taekyung to address him as Master publicly and Old Master in private while continuing to deny that they are truly master and Disciple; after accepting Taekyung’s challenge to defend only, he is forced five steps backward by Taekyung’s One Annihilation and admits defeat, then supports Taekyung with internal energy as he collapses; impressed by the strike, he now desires to guide Taekyung toward becoming a Heavenly Dragon; he successfully forces open Taekyung’s Conception and Governor Vessels, then carries the unconscious Taekyung away to rest after the ordeal; he waits through Taekyung’s seven-day unconscious recovery, explains that removing accumulated turbid qi caused the adjustment period, discusses the Star-Array Grand Banquet invitation, and asks Taekyung to visit his quarters at dawn after hearing Taekyung’s desire to pursue greater strength; he now takes Taekyung away immediately for a year of martial-arts training in Anhui; after the seven-day journey from Taiyuan to Luoyang, he effortlessly defeats Heukgeol and compels the Dongcheon Sect’s fighters to withdraw without killing them; after leaving Hong Dao’s residence, he reaches Mount Jiuhua in Anhui with Taekyung after a fifteen-day forced march and plans to impose six months of extreme training; he uses Seizing an Object Through Empty Space to pull Taekyung back, strikes his Sleep Acupoint with Pressure-Point Strike to force him to sleep for two shichen, then suffers a sudden bout of weakness after expending too much strength and acknowledges that he has little time while carrying Taekyung toward Mount Jiuhua; after more than two months of extreme training, his increasing sleep and memory lapses lead Taekyung to recognize dementia; he brings Taekyung into the Fire Gate Cavern, explains the Fire Gate Clan’s history, and prepares to transmit its martial arts, including the Fire Gate Divine Technique, after Taekyung agrees to learn from him; at Mount Song, he exhausts himself using the Dance of the Fire God and Demon against the Blood Lord, collapses unconscious after the Blood Lord regenerates, and can no longer participate in the fight.",
+        "path": "characters/Jeok Cheongang.md",
+        "replacement": "- **Role:** Over-one-hundred-year-old wandering martial master and the Fire King; he visits Jang Taebo’s home, can detect Qi Sense, can cross more than ten jang in an instant, plans to reach Taiyuan and visit the Lower District Sect while concealing his identity, and once fought Sword Saint Mae Jonghak for seven days and seven nights to a draw at Mount Jiuhua before emerging from seclusion and annihilating one thousand Demonic Cultists there; after striking Jin Taekyung with the Flame Divine Palm, he deduces that Taekyung took the Blazing Flame Divine Pill and confronts him when he tries to flee the inn; he reaches the Jin Family of Taiyuan, falsely identifies the Unnamed Sword in public as the Fire Gate Clan’s sacred treasure entrusted to Taekyung, later reveals that it is actually the Fire Heaven Sword, the beloved sword of the Fire Gate Clan’s tenth Sect Leader, uses Six-Harmonies Voice Transmission to stop Song Il, publicly humiliates him, then follows the departing Zhongnan group, incapacitates the Three Hands, breaks Song Il’s wrist, strikes him with the Flame Divine Palm, and threatens to destroy the Zhongnan Sect and Mount Zhongnan if Taekyung or the Jin Family is harmed; two days later, he severely beats Taekyung with his bare fists over the partly burned Flame Divine Palm manual, performs an abbreviated cleansing treatment on Taekyung, discovers his exceptionally balanced body, and suspects he may possess the legendary Heavenly Martial Physique; at the Jin Family banquet, after Ak Bulgun questions their relationship, he publicly declares himself the eighteenth Sect Leader of the Fire Gate Clan, accepts Taekyung as his Disciple, and declares that Taekyung will inherit the clan’s orthodox lineage; he identifies Taekyung as possessing the Heavenly Martial Physique, agrees to personally oversee Taekyung’s martial-arts training until Taekyung reaches a certain level, and permits Taekyung to address him as Master publicly and Old Master in private while continuing to deny that they are truly master and Disciple; after accepting Taekyung’s challenge to defend only, he is forced five steps backward by Taekyung’s One Annihilation and admits defeat, then supports Taekyung with internal energy as he collapses; impressed by the strike, he now desires to guide Taekyung toward becoming a Heavenly Dragon; he successfully forces open Taekyung’s Conception and Governor Vessels, then carries the unconscious Taekyung away to rest after the ordeal; he waits through Taekyung’s seven-day unconscious recovery, explains that removing accumulated turbid qi caused the adjustment period, discusses the Star-Array Grand Banquet invitation, and asks Taekyung to visit his quarters at dawn after hearing Taekyung’s desire to pursue greater strength; he now takes Taekyung away immediately for a year of martial-arts training in Anhui; after the seven-day journey from Taiyuan to Luoyang, he effortlessly defeats Heukgeol and compels the Dongcheon Sect’s fighters to withdraw without killing them; after leaving Hong Dao’s residence, he reaches Mount Jiuhua in Anhui with Taekyung after a fifteen-day forced march and plans to impose six months of extreme training; he uses Seizing an Object Through Empty Space to pull Taekyung back, strikes his Sleep Acupoint with Pressure-Point Strike to force him to sleep for two shichen, then suffers a sudden bout of weakness after expending too much strength and acknowledges that he has little time while carrying Taekyung toward Mount Jiuhua; after more than two months of extreme training, his increasing sleep and memory lapses lead Taekyung to recognize dementia; he brings Taekyung into the Fire Gate Cavern, explains the Fire Gate Clan’s history, and prepares to transmit its martial arts, including the Fire Gate Divine Technique, after Taekyung agrees to learn from him; at Mount Song, he exhausts himself using the Dance of the Fire God and Demon against the Blood Lord, collapses unconscious after the Blood Lord regenerates, and can no longer participate in the fight; the Luoyang Strange Physician later determines that Jeok is neither poisoned nor affected by demonic qi, but that his qi acupoints are slowly becoming blocked, giving him roughly six months unless a Divine Physician can treat the unknown illness."
+      }
+    ],
+    "version": 1
+  },
+  "version": 1
+}
