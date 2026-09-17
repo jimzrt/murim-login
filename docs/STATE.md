@@ -1,17 +1,16 @@
 # Translation State
 
-- Last completed: 235
-- Next chapter: 236
-- Current block: 235–239 (1/5)
-- Latest translation: `translations/0235.md`
-- Latest summary: `summaries/beats/0235.md`
-- Safe profiles through: chapter 235
+- Last completed: 236
+- Next chapter: 237
+- Current block: 235–239 (2/5)
+- Latest translation: `translations/0236.md`
+- Latest summary: `summaries/beats/0236.md`
+- Safe profiles through: chapter 236
 
 ## Current Block
 
-- Jeok Cheongang subjects Taekyung to increasingly brutal training on Mount Jiuhua, including waterfall horse stances, weighted push-ups, cliff climbing, and retrieving a swallow's nest. Taekyung completes Fire King's Hellfire Training-2, earns the Unmoving achievement, converts Toughness into Endurance, gains two levels and 50 Bonus Points, and continues training for more than two months.
-- Jeok's increasing sleep and memory lapses become undeniable when he forgets ordering Taekyung's fist-and-foot training. Taekyung asks whether he is ill, and Jeok leads him to a hidden place instead of answering directly.
-- Jeok brings Taekyung into the Fire Gate Cavern, explains the Fire Gate Clan's centuries-long history, and reveals its seventeen ancestral urns. The cavern releases the restriction on Taekyung's internal energy, and Jeok offers to pass on the clan's martial arts. Taekyung accepts because he trusts Jeok, generating the Heir of the Fire Gate Quest, but Jeok's confusion interrupts the first lesson. The two then vanish from Mount Jiuhua as the seasons change three times.
+- After four months away, Wipeng returned to Jin Wikyung and reported that the Seven-Route Army had stabilized Northern Gaoyuan. Seven battles killed or captured two thousand mounted bandits, annihilated five major groups, and forced more than ten others to surrender. The Lower District Sect provided decisive intelligence support, while Temur and Chinggen avoided conflict after learning of Jeok Cheongang's reputation; having absorbed the remnants of Black Sand, the Human Butcher, and the Heavenly Wind Band, they now sought friendship with the Jin Family and offered furs and plundered treasure.
+- Jin Wikyung and Wipeng also discussed the Seongun Escort Bureau's collapse, the Jin Family's expanding trade with Shaolin and Namgung through Mount Song and Hefei, and the approaching Star-Array Grand Banquet where the brothers were expected to reunite. At Mount Jiuhua, one year into Taekyung's absence, the shaggy-haired young man joked about grilling meat over the Fire Gate Clan's sacred flame, provoking Jeok Cheongang to strike and scold him as peaceful Mount Jiuhua became noisy again.
 
 ## Open Questions
 
