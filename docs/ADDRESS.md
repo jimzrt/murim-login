@@ -437,3 +437,7 @@ Overrides generic relationship prose in character profiles for this pair.
 | 주화란 | 진태경 | escort_bureau_leader_to_famous_younger_martial_artist | Young Hero Jin | formal-deferential | Hwaran introduces herself as the Young Bureau Head and formally greets Taekyung as 진 소협. |
 | 진태경 | 천력부 | superior_martial_artist_to_defeated_bandit_leader | Axe; our Axe | mocking-casual | Taekyung deliberately shortens Heavenly Axe's epithet to 력부야 and 우리 력부 while preventing his retreat. |
 | 천력부 | 진태경 | bandit_leader_to_overwhelming_younger_martial_artist | Sleeping Dragon of Shanxi; Young Hero Jin; young punk | shifting from startled-deferential to condescending | Bangyeol recognizes Taekyung by his epithet and formal title, then becomes contemptuous after believing Jeok Cheongang is absent. |
+| 진태경 | 주화란 | visitor_to_young_bureau_head | Young Lady Ju | formal-polite | Taekyung uses 주 소저 while announcing that his party must leave. |
+| 주화란 | 혁무진 | rescued_survivor_to_benefactor | Benefactor | formal-deferential | Hwaran includes Mujin among the Benefactors when greeting Taekyung's companions. |
+| 주화란 | 궁기방 | rescued_survivor_to_benefactor | Benefactor | formal-deferential | Hwaran includes Gung Gibang among the Benefactors when greeting Taekyung's companions. |
+| 주화란 | 청풍 | rescued_survivor_to_benefactor | Benefactor | formal-deferential | Hwaran includes Cheongpung among the Benefactors when greeting Taekyung's companions. |

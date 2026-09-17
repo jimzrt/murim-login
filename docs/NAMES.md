@@ -1053,3 +1053,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 용봉표국의 위기 | **Crisis of the Yongbong Escort Bureau** | Sudden Quest accepted and completed by Taekyung. |
 | 천력부 처치 | **Defeat Heavenly Axe** | Quest objective completed when Taekyung kills Bangyeol. |
 | 흑석채 제압 | **Subdue Black Stone Stronghold** | Quest completed when the surviving bandits surrender. |
+| 화산신룡 | **Huashan Divine Dragon** | Title given to Cheongpung after the Star-Array Grand Banquet. |
+| 서안루 | **Xi'an Tower** | Prominent pleasure house in Xi'an. |
+| 백 씨 | **Baek** | Surname form used when Baek Museong introduces himself. |
