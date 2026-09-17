@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“That’s only for those slowpokes! At this old man’s pace, it won’t take even a month!”",
+      "defect": "The draft changes 달포, approximately a month and a half, to one month, materially altering the stated travel time.",
+      "id": "F01",
+      "rationale": "달포 denotes roughly fifteen days beyond a month, not a single month.",
+      "replacement": "“That’s only for those slowpokes! At this old man’s pace, it won’t even take a month and a half!”",
+      "severity": "critical",
+      "source": "그거야 느려 터진 놈들 이야기지! 노부의 걸음으로는 달포도 안 걸려!"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Despite the casual tone of the answer, his face darkened.\n\nHe had let his emotions take hold of him and failed to notice the other’s presence.",
+      "defect": "The draft presents Mukyung’s inference as an established fact, dropping the source’s explicit indication that this is what he thought had happened.",
+      "id": "F02",
+      "rationale": "생각했기 때문이었다 preserves Mukyung’s subjective interpretation rather than confirming why he missed Taekyung’s presence.",
+      "replacement": "Despite the casual tone of the answer, his face darkened.\n\nHe thought he had let his emotions take hold of him and failed to notice the other’s presence.",
+      "severity": "minor",
+      "source": "대수롭지 않다는 듯 들려온 대답과는 달리 그의 얼굴은 어두워졌다.\n\n감정에 사로잡혀 기척을 놓쳤다고 생각했기 때문이었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "In the past, he would have immediately rushed out of the training hall, smashed his head against the ground, and begged the Fire King to teach him even a single move.",
+      "defect": "“Smashed his head against the ground” reads as violent self-injury rather than the deeply deferential prostration described by 머리를 찧으며.",
+      "id": "F03",
+      "rationale": "The action expresses extreme supplication and hierarchy; it is not an attempt to injure himself.",
+      "replacement": "In the past, he would have immediately rushed out of the training hall, bowed until his forehead touched the ground, and begged the Fire King to teach him even a single move.",
+      "severity": "major",
+      "source": "과거였다면 당장 수련동을 뛰쳐나가 머리를 찧으며 한 수 가르침을 청했을 것이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“A send-off? Don’t expect the impossible.”\n\n“What if I did?”",
+      "defect": "The draft reverses the subjects of both lines. Taekyung says that he knows better than to expect a send-off, after which Mukyung asks what Taekyung came for instead.",
+      "id": "F04",
+      "rationale": "기대할 걸 해야지 refers to Taekyung managing his own expectations; 하면? then prompts him to state his actual purpose.",
+      "replacement": "“A send-off? I know better than to expect one.”\n\n“Then?”",
+      "severity": "critical",
+      "source": "“배웅은 무슨. 기대할 걸 해야지.”\n\n“하면?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "I almost respected him.",
+      "defect": "“Almost respected him” says the respect did not quite arise, while the source says Taekyung actually felt a measure of respect.",
+      "id": "F05",
+      "rationale": "존경심마저 들 정도다 explicitly states that the reaction went so far as to include respect.",
+      "replacement": "I even felt a little respect for him.",
+      "severity": "minor",
+      "source": "역시 멘탈갑. 내심 존경심마저 들 정도다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "With the sound of bones shifting out of place, Chulwoo’s hand—twice the size of mine—crumpled as though it had been crushed beneath a press.",
+      "defect": "The size comparison applies to Chulwoo himself, not to his hand. The draft changes a description of his enormous physique into an implausible hand-size measurement.",
+      "id": "F06",
+      "rationale": "내 두 배만 한 modifies 철우: Chulwoo is twice Taekyung’s size.",
+      "replacement": "With the sound of bones shifting out of place, the hand of Chulwoo, a man twice my size, crumpled as though it had been crushed beneath a press.",
+      "severity": "critical",
+      "source": "뼈 어긋나는 소리와 함께 내 두 배만 한 철우의 손이 압축 프레스에 눌린 것처럼 찌그러졌다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Don’t mess with me. You know what I mean, right?”",
+      "defect": "The draft redirects the warning toward Taekyung. In context, Taekyung is warning Chulwoo not to make advances toward Lee Seowol.",
+      "id": "F07",
+      "rationale": "집적거리다 here means to pester or make unwanted advances toward someone; the omitted object is Lee Seowol, over whom Chulwoo previously challenged Taekyung.",
+      "replacement": "“Don’t make a move on her. You know what I mean, right?”",
+      "severity": "critical",
+      "source": "“집적거리지 마라. 무슨 뜻인지 알지?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Watching him, Eunhyang, the youngest of the Three Plum Blossom Elites, clicked her tongue.",
+      "defect": "“Clicked her tongue” conventionally conveys annoyance or disapproval, whereas 혀를 내둘렀다 expresses astonishment at Taekyung’s strength.",
+      "id": "F08",
+      "rationale": "Her following remark that the world is vast confirms that she is amazed, not expressing disapproval.",
+      "replacement": "Watching him, Eunhyang, the youngest of the Three Plum Blossom Elites, could only marvel.",
+      "severity": "major",
+      "source": "그 광경에 매화삼절의 막내, 은향이 혀를 내둘렀다."
+    }
+  ],
+  "summary": "The draft contains several actionable fidelity errors, including a changed travel time, reversed dialogue subjects, a misassigned size comparison, and a threat directed at the wrong person.",
+  "version": 1
+}

@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Jin Wikyung entrusts Taekyung to Jeok and reserves an important private discussion with him before departure.",
+      "defect": "The summary leaves the private discussion pending, but Chapter 229 has Taekyung leave the study so Wikyung and Jeok can speak, and both men subsequently appear at the main gate after that conversation.",
+      "id": "C01",
+      "rationale": "This preserves the unresolved content of the conversation without incorrectly treating the conversation itself as a future event.",
+      "replacement": "Jin Wikyung entrusts Taekyung to Jeok, then speaks with Jeok privately before departure, though the subject of their discussion is not revealed.",
+      "severity": "major",
+      "source": "checkpoint summary, Plot, final sentence"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Jin Wikyung has an important private matter to discuss with Jeok before or during the departure.",
+      "defect": "This records the discussion as pending after Chapter 229 has already shown the interval in which it takes place.",
+      "id": "C02",
+      "rationale": "The completed conversation and its still-hidden subject must be tracked as separate continuity facts.",
+      "replacement": "Jin Wikyung discussed an important private matter with Jeok before the departure, but the subject of their conversation remains unrevealed.",
+      "severity": "major",
+      "source": "checkpoint summary, Continuity, Jin Wikyung bullet"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Jin Wikyung entrusted Taekyung to Jeok and reserved an important private discussion with him.",
+      "defect": "The active state is stale because the private discussion is no longer merely reserved by the end of Chapter 229.",
+      "id": "C03",
+      "rationale": "Durable state should reflect the end-of-chapter position so later chapters do not mistakenly stage the conversation a second time.",
+      "replacement": "Jin Wikyung entrusted Taekyung to Jeok and held an important private discussion with Jeok whose subject remains unrevealed.",
+      "severity": "major",
+      "source": "checkpoint summary, Durable state, active_continuity"
+    },
+    {
+      "confidence": 0.99,
+      "current": "What important matter does Jin Wikyung need to discuss privately with Jeok Cheongang?",
+      "defect": "The question incorrectly asks about a conversation that still needs to occur rather than the content of the conversation that already occurred.",
+      "id": "C04",
+      "rationale": "The unresolved hook is the subject of the off-page discussion, not whether the discussion will happen.",
+      "replacement": "What important matter did Jin Wikyung discuss privately with Jeok Cheongang?",
+      "severity": "major",
+      "source": "checkpoint summary, Durable state, open_questions"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Kim Jonghun, the Star Guild’s Team 1 Leader, confessed to everything that had happened before he had fully recovered from his shaken state.",
+      "defect": "The title drifts from “Team One Leader,” used when Taekyung identifies Kim Jonghun in Chapter 225, to the numeral form “Team 1 Leader.”",
+      "id": "C05",
+      "rationale": "Using one form consistently avoids an unnecessary title variation across adjacent chapters.",
+      "replacement": "Kim Jonghun, the Star Guild’s Team One Leader, confessed to everything that had happened before he had fully recovered from his shaken state.",
+      "severity": "minor",
+      "source": "Chapter 226, Kim Jonghun interrogation"
+    },
+    {
+      "confidence": 0.94,
+      "current": "You’d think I would have gotten used to it by now, but apparently I really was a caterpillar that had to eat pine needles.",
+      "defect": "The literal Korean proverb is opaque in English and does not communicate why Taekyung connects his discomfort with publicity to a caterpillar eating pine needles.",
+      "id": "C06",
+      "rationale": "The revised wording retains Taekyung’s proverbial image while the concise, spoiler-free footnote supplies the cultural meaning an English reader would otherwise miss.",
+      "replacement": "You’d think I would have gotten used to it by now, but apparently a pine caterpillar really should stick to pine needles.[^1]\n\n[^1]: A Korean proverb meaning that people should stick to what suits their nature and circumstances.",
+      "severity": "minor",
+      "source": "Chapter 226, opening paragraph"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Once we started digging, things kept coming out like a sweet-potato vine.",
+      "defect": "The literal comparison produces an awkward English collocation and leaves the intended chain-of-discoveries image unclear.",
+      "id": "C07",
+      "rationale": "This conveys the prosecutor’s brisk point naturally without altering the investigation’s cascading scope.",
+      "replacement": "Once we started digging, one thing after another kept coming up.",
+      "severity": "minor",
+      "source": "Chapter 227, prosecutor’s explanation of the expanding investigation"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“That’s only for those slowpokes! At this old man’s pace, it won’t even take a month and a half!”",
+      "defect": "Jin Wikyung has just said the trip takes at least a month on horseback, so Jeok’s boast that his pace takes less than a month and a half makes him potentially slower rather than dramatically faster.",
+      "id": "C08",
+      "rationale": "Half a month restores the intended contrast between an ordinary month-long horseback journey and Jeok’s extraordinary travel speed.",
+      "replacement": "“That’s only for those slowpokes! At this old man’s pace, it won’t even take half a month!”",
+      "severity": "major",
+      "source": "Chapter 229, discussion of the journey to Anhui"
+    },
+    {
+      "confidence": 0.98,
+      "current": "The Star-Array Grand Banquet was a banquet hall of countless stars spread across the Nine Provinces and Eight Wastes, the Four Seas and Five Lakes.",
+      "defect": "The event is incorrectly equated with a physical banquet hall, creating a category error and weakening the image of renowned figures gathering from across the martial world.",
+      "id": "C09",
+      "rationale": "“Gathering” preserves the stellar metaphor while correctly describing the banquet as an event rather than a location.",
+      "replacement": "The Star-Array Grand Banquet was a gathering of countless stars from across the Nine Provinces and Eight Wastes, the Four Seas and Five Lakes.",
+      "severity": "minor",
+      "source": "Chapter 229, Jin Mukyung reflecting on the Star-Array Grand Banquet"
+    }
+  ],
+  "summary": "The reading copies are broadly consistent in voice, terminology, and formatting, with no accidental spoilers. The main continuity defect is that the summary and durable state still present Jin Wikyung’s private discussion with Jeok Cheongang as pending even though it occurs off-page before the final departure. Several minor prose and terminology issues also remain.",
+  "version": 1
+}
