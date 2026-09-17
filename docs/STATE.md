@@ -1,36 +1,34 @@
 # Translation State
 
-- Last completed: 246
-- Next chapter: 247
-- Current block: 245–249 (2/5)
-- Latest translation: `translations/0246.md`
-- Latest summary: `summaries/beats/0246.md`
-- Safe profiles through: chapter 246
+- Last completed: 247
+- Next chapter: 248
+- Current block: 245–249 (3/5)
+- Latest translation: `translations/0247.md`
+- Latest summary: `summaries/beats/0247.md`
+- Safe profiles through: chapter 247
 
 ## Current Block
 
-- The System creates the Star-Array Grand Banquet Quest, requiring Jin Taekyung to win the entire banquet or suffer Fire King's Wrath. During the first preliminary test, Taekyung casually pushes his fist into the cliff up to his elbow, leaving the supervisor unable to judge the result. The applicant known as Norway reveals himself as the Iron-Water Divine Dragon, disciple of Pa Ryun, the Seafaring King and one of the Ten Kings.
-- The Iron-Water Divine Dragon mocks Taekyung and the Fire Gate Clan, then demonstrates overwhelming external strength and uses the Ship-Breaking Fist to blast a large cave into the cliff. The crowd begins doubting Taekyung, the Fire Gate Clan, and Jeok Cheongang, causing two Fame penalties of 18 and 20. Taekyung realizes that the Murim judges status through strength, steps five jang in a single movement, and announces the Flame-Extinguishing Divine Fist as blue flames fill his vision.
+- Gossip in an underground gambling den reveals that Kwak Cheolyung lost five thousand silver nyang after betting on the Iron-Water Divine Dragon and Jong Sam of the Hunroe Leg during the Star-Array Grand Banquet preliminaries. He mortgaged his retirement estate and land to borrow more money and was left with only a few iron coins.
+- Jin Taekyung won unanimous first place overall with perfect scores in all five preliminary assessments. He defeated the Iron-Water Divine Dragon, the Kunlun Cloud Dragon, and the Divine Marvel Dragon, while also overwhelming the comparable Successor Beggar and the renowned Peak master known as the Hunroe Leg.
+- During the free day before the main event, Jin Wikyung and Hyuk Mujin celebrate Taekyung's victory. Jeok Cheongang hides his pride behind stern advice, while Jin Wikyung reveals through Sound Transmission that Jeok has already bragged about Taekyung to the Jin Family leadership.
 
 ## Open Questions
 
-- What is Dark Heaven, and when will it reveal its full strength?
-- Where has the Jin Family Head been during his years of unexplained absence?
-- When will Jin Mukyung achieve Great Completion and leave closed-door training?
-- Where did Cheongpung go after fleeing on the way to Huashan?
-- Can Taekyung win the Star-Array Grand Banquet Quest?
-- What will happen when Taekyung's Flame-Extinguishing Divine Fist meets the Iron-Water Divine Dragon's strength?
+- How will Taekyung fare in the Star-Array Grand Banquet's main event?
+- Who is the Gold-Faced Young Master who bet on Taekyung?
+- Which powerful martial artists concealed their abilities during the preliminaries?
 
 ## Exceptional Decision
 
-- Use Vice Squad Leader for 부대주 and Jin Dragon Squad for 진룡대.
-- Use Gan Jiang and Mo Ye for 간장 and 막야.
-- Use Put your head on the ground for 대가리 박아 and Yes, sir! Yes, sir! for 존명존명.
-- Use White Flame for 백염.
-- Use Wind-and-Cloud War God for 풍운전신 and Wind-and-Cloud Sword Lord for 풍운검군.
-- Use Virility Saber King for 정력도왕 and Thunderbolt Saber King for 벽력도왕.
-- Use Repentance Cave for 참회동.
-- Use Ship-Breaking Fist for 파선권, Flame-Extinguishing Divine Fist for 멸염신권, and Fire King's Wrath for 화왕의 분노.
+- Use Qingcheng Mountain Guillotine for 청성산 작두.
+- Use Dodo for 도도.
+- Use Kunlun Cloud Dragon for 곤륜운룡.
+- Use Successor Beggar for 후개.
+- Use Hunroe Leg for 혼뢰각.
+- Use Divine Marvel Dragon for 신기묘룡.
+- Use Gold-Faced Young Master for 금면공자.
+- Use mechanisms and formations for 기관진식.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

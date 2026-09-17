@@ -778,3 +778,12 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 화왕의 분노 | **Fire King's Wrath** | Failure penalty for the Star-Array Grand Banquet Quest. |
 | 파선권 | **Ship-Breaking Fist** | Named fist technique demonstrated by the Iron-Water Divine Dragon. |
 | 멸염신권 | **Flame-Extinguishing Divine Fist** | Named fist technique Taekyung announces at the chapter's end. |
+| 서역 | **Western Regions** | Region from which the glasses were imported. |
+| 청성산 작두 | **Qingcheng Mountain Guillotine** | Epithet of the unnamed martial artist who cut off A-Gwi's wrist. |
+| 도도 | **Dodo** | Term for the Star-Array Grand Banquet's major gambling matches. |
+| 곤륜운룡 | **Kunlun Cloud Dragon** | Epithet of a Kunlun Sect young prodigy. |
+| 후개 | **Successor Beggar** | Title of the Beggars' Sect successor competing in the preliminaries. |
+| 혼뢰각 | **Hunroe Leg** | Epithet of the Guangxi Peak master specializing in leg techniques. |
+| 신기묘룡 | **Divine Marvel Dragon** | Epithet of the Zhuge Clan's Lesser Family Head. |
+| 금면공자 | **Gold-Faced Young Master** | Title of the unnamed gambler who bet on Taekyung. |
+| 기관진식 | **mechanisms and formations** | Fifth preliminary assessment category. |
