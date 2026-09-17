@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Was it when I achieved Great Completion in the Jin Family's Manoeuvre Technique? Or the Jin Family's Spear Technique?",
+      "defect": "“Manoeuvre” uses British spelling despite the requirement for contemporary US English.",
+      "id": "C01",
+      "rationale": "The established technique name should use consistent US-English spelling throughout the reading copy.",
+      "replacement": "Was it when I achieved Great Completion in the Jin Family's Maneuver Technique? Or the Jin Family's Spear Technique?",
+      "severity": "minor",
+      "source": "Chapter 290, opening internal monologue"
+    },
+    {
+      "confidence": 0.99,
+      "current": "**Currently available:** Jin Family's Cultivation Technique, Jin Family's Manoeuvre Technique, Jin Family's Spear Technique.",
+      "defect": "The System panel repeats the British spelling “Manoeuvre,” creating the same US-English inconsistency in the technique name.",
+      "id": "C02",
+      "rationale": "Correcting both occurrences prevents the same named technique from retaining an inconsistent spelling.",
+      "replacement": "**Currently available:** Jin Family's Cultivation Technique, Jin Family's Maneuver Technique, Jin Family's Spear Technique.",
+      "severity": "minor",
+      "source": "Chapter 290, Martial Arts Manual Creation System panel"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Circulating my own qi would be one thing, but if I let go of control here, I could easily suffer an Internal Injury.",
+      "defect": "The generic condition “internal injury” is unnecessarily capitalized as though it were a formal System term.",
+      "id": "C03",
+      "rationale": "Lowercase matches ordinary prose usage and avoids introducing an unestablished formal term.",
+      "replacement": "Circulating my own qi would be one thing, but if I let go of control here, I could easily suffer an internal injury.",
+      "severity": "minor",
+      "source": "Chapter 292, opening narration after the Quest prompt"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Before sunset, all four had succeeded in completing a complete circulation.",
+      "defect": "“Completing a complete circulation” is conspicuously repetitive and awkward.",
+      "id": "C04",
+      "rationale": "The replacement retains the established term “complete circulation” while removing the accidental repetition.",
+      "replacement": "Before sunset, all four had completed one complete circulation.",
+      "severity": "minor",
+      "source": "Chapter 293, opening hospital-room narration"
+    },
+    {
+      "confidence": 0.97,
+      "current": "But the person who showed the most unexpected performance was someone else.",
+      "defect": "“Showed the most unexpected performance” is an unnatural English collocation that weakens Taekyung's conversational narration.",
+      "id": "C05",
+      "rationale": "The replacement conveys the same transition naturally and fits the brisk first-person voice.",
+      "replacement": "But someone else was the biggest surprise.",
+      "severity": "minor",
+      "source": "Chapter 293, assessment of Im Kkeokjeong"
+    },
+    {
+      "confidence": 0.96,
+      "current": "I asked a Senior who joined earlier than me, and he told me to sleep as much as I could on the way there.",
+      "defect": "Capitalized “Senior” reads like a literalized Korean workplace title rather than natural contemporary US English.",
+      "id": "C06",
+      "rationale": "The replacement preserves the employment seniority relationship without introducing a stiff, unestablished title.",
+      "replacement": "I asked someone who joined before me, and he told me to sleep as much as I could on the way there.",
+      "severity": "minor",
+      "source": "Chapter 293, second Hunter-community post"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Two more mutated Gate accidents occurred, and a post that attracted a great deal of attention appeared on a Hunter community site.",
+      "defect": "“Mutated Gate” is treated elsewhere in the packet as the established name of the phenomenon, but “mutated” is lowercased here.",
+      "id": "C07",
+      "rationale": "Capitalization should remain consistent for the established Gate phenomenon.",
+      "replacement": "Two more Mutated Gate accidents occurred, and a post that attracted a great deal of attention appeared on a Hunter community site.",
+      "severity": "minor",
+      "source": "Chapter 293, narration after the one-week transition"
+    },
+    {
+      "confidence": 0.97,
+      "current": "He had a certain amount of leadership and excellent combat ability, so whenever we raided together, he acted as my hands and feet.",
+      "defect": "“Had a certain amount of leadership” and “acted as my hands and feet” are stiff Korean-influenced constructions that drift from Taekyung's natural narrative voice.",
+      "id": "C08",
+      "rationale": "The replacement preserves Jinsoo's operational role while using natural, concise contemporary English consistent with the checkpoint summary.",
+      "replacement": "He had decent leadership skills and excellent combat ability, so whenever we raided together, he served as my right hand.",
+      "severity": "minor",
+      "source": "Chapter 294, introduction of Kim Jinsoo"
+    }
+  ],
+  "summary": "The packet is coherent and preserves its active hooks without accidental spoilers or internal contradictions. Eight minor corrections are actionable: two US-English spelling inconsistencies, one capitalization drift, one terminology-capitalization drift, and four awkward or calqued constructions.",
+  "version": 1
+}

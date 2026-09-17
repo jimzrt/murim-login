@@ -1,0 +1,176 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "A week ago, after several days of tenacious negotiations with Lee Jungryong’s side, Team Leader Choi got everything we wanted.",
+      "defect": "The draft changes the implied subject of the demands from Team Leader Choi to the narrator’s group.",
+      "id": "F01",
+      "rationale": "The sentence is framed around Choi as the negotiating subject; 원하는 것을 refers to what he sought and secured.",
+      "replacement": "A week ago, after several days of tenacious negotiations with Lee Jungryong’s side, Team Leader Choi got everything he wanted.",
+      "severity": "critical",
+      "source": "일주일 전, 최 팀장은 이정룡 측과 며칠간의 끈질긴 협의 끝에 원하는 것을 모두 받아 냈다."
+    },
+    {
+      "confidence": 0.93,
+      "current": "This was a space ruled by black wizards and necromancers.",
+      "defect": "The draft turns the appositional singular ruler—a black wizard or necromancer—into two plural classes of rulers.",
+      "id": "F02",
+      "rationale": "흑마법사, 네크로맨서 presents two labels for the same type of ruler, consistent with the singular Black Wizard in the Gate’s name.",
+      "replacement": "This was a realm ruled by a black wizard—a necromancer.",
+      "severity": "critical",
+      "source": "이곳은 흑마법사, 네크로맨서가 지배하는 공간이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The day-one Pomeranians listening to the Tosa mastiffs turned pale.",
+      "defect": "댕댕이 is a cute generic slang term for dogs, not the specific Pomeranian breed.",
+      "id": "F03",
+      "rationale": "“Pups” preserves the humorous contrast between inexperienced recruits and the hardened Tosa mastiffs without inventing a breed.",
+      "replacement": "The day-one pups listening to the Tosa mastiffs turned pale.",
+      "severity": "minor",
+      "source": "반면 도사견의 대화를 듣는 1일 차 댕댕이들은 얼굴이 새하얗게 질렸다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "One of the Pomeranians hurried over and spoke with an earnest expression.",
+      "defect": "The generic dog nickname is again replaced with an unsupported breed.",
+      "id": "F04",
+      "rationale": "댕댕이 means a doggie or pup, with no Pomeranian reference.",
+      "replacement": "One of the pups hurried over and spoke with an earnest expression.",
+      "severity": "minor",
+      "source": "댕댕이 중 하나가 헐레벌떡 달려와 간절한 얼굴로 말했다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Of course, we had dropped the formal speech long ago.",
+      "defect": "The draft makes the register shift mutual, obscuring Taekyung’s unilateral senior-to-junior choice to speak casually to Jinsoo.",
+      "id": "F05",
+      "rationale": "말을 놓다 here describes Taekyung dropping polite speech toward his junior, an expression of their hierarchy rather than a mutual agreement.",
+      "replacement": "Of course, I’d started speaking casually to him long ago.",
+      "severity": "major",
+      "source": "아, 물론 말은 진작에 놨다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The Pomeranian, who had been sighing in relief, swallowed hard.",
+      "defect": "The draft invents the Pomeranian breed for the generic recruit nickname.",
+      "id": "F06",
+      "rationale": "댕댕이 is the same generic, deliberately cute dog nickname used for the new recruits.",
+      "replacement": "The pup, who had been sighing in relief, swallowed hard.",
+      "severity": "minor",
+      "source": "안도의 한숨을 내쉬던 댕댕이가 헉, 하고 숨을 삼켰다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "You are absolutely right, Senior. A hundred times over.",
+      "defect": "The reply omits 천번, weakening the deliberately exaggerated numerical formula, and adds an address absent from the source.",
+      "id": "F07",
+      "rationale": "백번 천번 explicitly escalates from a hundred to a thousand times as part of Jinsoo’s comic agreement.",
+      "replacement": "You are absolutely right—a hundred, a thousand times over.",
+      "severity": "minor",
+      "source": "백번 천번 지당하십니다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Absolutely right. A thousand times over.",
+      "defect": "The draft omits 만번 and therefore loses the second step in the comic numerical escalation.",
+      "id": "F08",
+      "rationale": "천번 만번 repeats and heightens the preceding formula from one thousand to ten thousand times.",
+      "replacement": "Absolutely right—a thousand, ten thousand times over.",
+      "severity": "minor",
+      "source": "천번 만번 지당하십니다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The Pomeranian replied with a stiff face.",
+      "defect": "The generic dog nickname is mistranslated as a specific breed.",
+      "id": "F09",
+      "rationale": "댕댕이 refers generically to the new recruit, while 뻣뻣하게 굳은 describes his face becoming rigid with fear.",
+      "replacement": "The pup replied, his face rigid.",
+      "severity": "minor",
+      "source": "댕댕이가 뻣뻣하게 굳은 얼굴로 대답했다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "What a load of bullshit.",
+      "defect": "The draft omits Taekyung’s irritated profane interjection before the insult.",
+      "id": "F10",
+      "rationale": "팍 씨 is a separate burst of irritation that sharpens the comic denial about why the girlfriend remark bothered him.",
+      "replacement": "Damn it. What a load of bullshit.",
+      "severity": "minor",
+      "source": "팍 씨. 개소리를 아주 그냥."
+    },
+    {
+      "confidence": 0.96,
+      "current": "The chilly wind circling through the forest made my side ache with cold.",
+      "defect": "The literal phrasing obscures the idiomatic joke that Taekyung feels the absence of a romantic partner at his side immediately after denying jealousy.",
+      "id": "F11",
+      "rationale": "옆구리가 시리다 evokes loneliness from lacking a partner while still fitting the physical chill of the forest.",
+      "replacement": "The eerie wind circling through the forest made the empty space at my side feel cold.",
+      "severity": "major",
+      "source": "숲속을 맴도는 스산한 바람에 옆구리가 시렸다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The frightened voice of one of the Pomeranians mixed with the Tosa mastiff’s blunt reply.",
+      "defect": "The draft again substitutes an unsupported breed for the generic new-recruit nickname.",
+      "id": "F12",
+      "rationale": "댕댕이 is generic dog slang and contrasts the frightened pups with the experienced Tosa mastiffs.",
+      "replacement": "The frightened voice of one of the pups mixed with the Tosa mastiff’s blunt reply.",
+      "severity": "minor",
+      "source": "겁에 질린 어느 댕댕이의 목소리. 그리고 도사견의 퉁명스러운 말대꾸가 교차한다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "After dragging along monsters that outnumbered them by at least three to one—and sometimes more than ten to one—and showing them the gates of hell several times, their eyes had begun to blaze with killing intent.",
+      "defect": "“Killing intent” overstates 독기, which describes hardened grit, venom, or fierce determination rather than a literal intent to kill.",
+      "id": "F13",
+      "rationale": "The trainees have become hardened and tenacious through repeated ordeals; the source does not assign them a supernatural or literal killing intent.",
+      "replacement": "After dragging along monsters that outnumbered them three to one as a matter of course—and sometimes more than ten to one—and showing them the gates of hell several times, their eyes had begun to brim with fierce determination.",
+      "severity": "minor",
+      "source": "기본이 세 배, 가끔 많게는 열 배 이상 되는 몬스터들을 끌고 와서 지옥 문턱을 몇 번 보여 줬더니 애들 눈에 독기가 철철 흐르더라."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Still, there aren’t as many as I expected. Maybe because it’s our first time.”",
+      "defect": "The draft changes whose first raid it is, making an experienced speaker call it “our” first time instead of referring to the new recruits.",
+      "id": "F14",
+      "rationale": "Taekyung deliberately brought fewer monsters because new recruits were present; the experienced Tosa mastiffs are commenting on the newcomers’ first time.",
+      "replacement": "“Still, maybe because it’s their first time, there aren’t that many.”",
+      "severity": "critical",
+      "source": "그래도 처음이라 그런지 좀 적네."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Don’t back up. Grip your shield tightly. What? You need to piss? Then piss right there!”",
+      "defect": "The draft makes the command explicitly tell the recruit to urinate, while the source tells him to keep fighting in that condition.",
+      "id": "F15",
+      "rationale": "그대로 싸 means “fight as you are,” preserving the source’s blunt refusal to let the recruit leave rather than ordering him to urinate.",
+      "replacement": "“Don’t back up. Grip your shield tightly. What? You need to piss? Then fight like that!”",
+      "severity": "major",
+      "source": "뭐? 오줌이 마려워? 그럼 그대로 싸!"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Purple light flashed in the empty sockets where their eyes should have been.",
+      "defect": "The plural possessive assigns the purple gaze to the two kneeling subordinate knights, but the following gaze and transformation belong to the first, dominant Skeleton Knight.",
+      "id": "F16",
+      "rationale": "Taekyung meets that light’s gaze, after which the original knight receiving the others’ submission transforms into the Skeleton Warlord.",
+      "replacement": "Purple light flashed in the empty sockets where the first knight’s eyes should have been.",
+      "severity": "critical",
+      "source": "명백한 복종을 뜻하는 행동. 눈에 있어야 할 텅 빈 구멍에서 보랏빛 안광이 번쩍였다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "A Skeleton Knight. A great knight who had become a fallen undead.\n\nBut not anymore.",
+      "defect": "The nearest English antecedent makes “not anymore” imply that the creature is no longer a fallen undead, rather than that it is no longer a Skeleton Knight.",
+      "id": "F17",
+      "rationale": "The System reveal identifies the transformed creature as a Skeleton Warlord; its undead state has not ended.",
+      "replacement": "A Skeleton Knight. A great knight reduced to a fallen undead.\n\nBut it was no longer a Skeleton Knight.",
+      "severity": "critical",
+      "source": "스켈레톤 나이트. 타락한 언데드가 되어 버린 위대한 기사.\n\n그러나 이제는 아니었다."
+    }
+  ],
+  "summary": "The draft contains several subject and identity changes, an unsupported breed substitution repeated through the recruit nickname, and losses of hierarchy, euphemism, and comic escalation.",
+  "version": 1
+}
