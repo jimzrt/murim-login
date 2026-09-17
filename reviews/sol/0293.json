@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "None of them possessed energy as vast as Team Leader Choi’s, but Kim and Song Song were mages, so they were skilled at handling mana and adapted quickly.",
+      "defect": "“None of them” incorrectly includes Team Leader Choi, directly contradicting the comparison that establishes him as the person with vast energy.",
+      "id": "F01",
+      "rationale": "The comparison 최 팀장처럼 excludes Team Leader Choi from the people who lack energy comparable to his.",
+      "replacement": "None of the others possessed energy as vast as Team Leader Choi’s, but Kim and Song Song were mages, so they were skilled at handling mana and adapted quickly.",
+      "severity": "critical",
+      "source": "비록 최 팀장처럼 막대한 기운을 품고 있는 사람은 없었지만, 김 집사와 송송이는 마법사답게 마나를 다루는 것에 능숙했고 빠르게 적응했다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "If Im Kkeokjeong could resolve the conscious parts of the problem, such as his trauma, he would be able to return to the Guild before long.",
+      "defect": "“The conscious parts of the problem” is an unnatural literalization that obscures the distinction between his improving physical condition and his remaining psychological issues.",
+      "id": "F02",
+      "rationale": "의식적인 부분들 refers to mental or psychological obstacles, contrasted here with the physical aftereffects that qi circulation will address.",
+      "replacement": "If Im Kkeokjeong could overcome the psychological issues, such as his trauma, he would be able to return to the Guild before long.",
+      "severity": "major",
+      "source": "임꺽정이 트라우마와 같은 의식적인 부분들만 해결한다면, 이른 시일 안에 길드로 복귀할 수 있을 것이다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Lee Jungryong had already drawn the knife hidden up his sleeve, and he was now in a position where he had to pay us for it.",
+      "defect": "The draft changes 들이댔고 from turning or pressing a concealed blade against someone into merely drawing it, weakening the completed hostile action and its causal connection to the price he must pay.",
+      "id": "F03",
+      "rationale": "칼을 들이대다 means to hold, press, or turn a knife against a target, not simply to draw one.",
+      "replacement": "Lee Jungryong had already turned the knife hidden up his sleeve against us, and now he was in a position where he had to pay us the price.",
+      "severity": "critical",
+      "source": "이정룡은 이미 소매에 숨겨 둔 칼을 들이댔고, 그 대가를 우리에게 지불해야 할 처지다."
+    },
+    {
+      "confidence": 0.91,
+      "current": "A martial arts instructor, huh.",
+      "defect": "The generic “instructor” loses the drillmaster sense of 교두 and weakens the joke connecting the new Title to Taekyung working everyone mercilessly.",
+      "id": "F04",
+      "rationale": "교두 denotes an instructor responsible for drilling and training people, which motivates the following thought about working them to death.",
+      "replacement": "A martial arts drill instructor, huh.",
+      "severity": "minor",
+      "source": "무공 교두라."
+    },
+    {
+      "confidence": 0.98,
+      "current": "When the guy, who looked kind of dumbfounded, said yes, Lord Fuck laughed like a maniac and walked away going, “Irasshaimase!” and all that shit.",
+      "defect": "“Dumbfounded” describes a temporary reaction, whereas 얼빵하게 생긴 describes the man as dopey-looking.",
+      "id": "F05",
+      "rationale": "생긴 explicitly marks this as a description of the man’s appearance rather than his emotional state.",
+      "replacement": "When the dopey-looking guy said yes, Lord Fuck laughed like a maniac, went, “Irasshaimase!” and all that shit, then walked away.",
+      "severity": "minor",
+      "source": "얼빵하게 생긴 놈이 맞다고 하니까 미친 듯이 웃으면서 이랏샤이마세! ㅇㅈㄹ 하고 감;"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Then give me a hundred.”",
+      "defect": "The blunt imperative removes the polite request encoded by 만요 and alters the junior speaker’s register toward the person he has just addressed as 형님.",
+      "id": "F06",
+      "rationale": "The source is an abbreviated but polite request, not an order.",
+      "replacement": "“Then could I get a hundred?”",
+      "severity": "minor",
+      "source": "“그럼 저 백 개만요.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Rows and columns!”\n\n“Rows and colum~ns!”\n\n“Too quiet. Rows and columns!”\n\n“Rows and colum~ns!”",
+      "defect": "“Rows and columns” is a literal description rather than a natural military-style formation command.",
+      "id": "F07",
+      "rationale": "오와 열 is used here as a command to form orderly ranks and files, reinforced by the trainees repeating it back in cadence.",
+      "replacement": "“Form ranks!”\n\n“Form raaanks!”\n\n“Too quiet. Form ranks!”\n\n“Form raaanks!”",
+      "severity": "minor",
+      "source": "“오와 열.”\n\n“오와 여어얼!”\n\n“목소리가 작다. 오와 열.”\n\n“오와 여어얼!”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Now, follow me in order. Left foot. Left foot.”",
+      "defect": "The draft omits 입장, the explicit command to enter the Gate, leaving only a vague instruction to follow.",
+      "id": "F08",
+      "rationale": "입장 specifies entering, while 차례대로 specifies doing so in sequence.",
+      "replacement": "“Now, follow me inside one at a time. Left foot. Left foot.”",
+      "severity": "major",
+      "source": "“자, 차례대로 나를 따라 입장. 왼발. 왼발.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "[^1]: Dooly is the name of a famously mischievous Korean cartoon dinosaur; the line twists a saying about people treating repeated goodwill as their due.",
+      "defect": "The footnote explains the underlying saying but omits the actual wordplay connecting 호이 to Dooly, so the otherwise opaque reference remains only partially explained.",
+      "id": "F09",
+      "rationale": "The joke substitutes Dooly’s “Hoi” for 호의, meaning goodwill; identifying Dooly merely as a mischievous dinosaur does not convey that linguistic link.",
+      "replacement": "[^1]: A pun on *houi* (“goodwill”) and Dooly’s catchphrase, “Hoi!” The original saying means that repeated goodwill gets mistaken for an entitlement.",
+      "severity": "minor",
+      "source": "호이가 계속되니까 둘리로 아네."
+    }
+  ],
+  "summary": "The draft contains two materially altered scene details, one mistranslated physical description, several losses of register or mechanism, and localized terminology and footnote issues.",
+  "version": 1
+}

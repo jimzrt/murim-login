@@ -935,3 +935,9 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 내가고수 | **I'm a Master** | System Title granted to Taekyung. |
 | 이순신 | **Admiral Yi Sun-sin** | Historical admiral invoked in Taekyung's comparison. |
 | 명량대첩 | **Battle of Myeongnyang** | Historical naval victory used in Taekyung's comparison. |
+| 수련자 | **Trainee** | System Title replaced in this chapter. |
+| 훈련 교관 | **Training Instructor** | System Title awarded after several trainees reach One Star. |
+| 킹태경 | **King Taekyung** | Online nickname praising Taekyung. |
+| 로그인 무림 | **Login Murim** | Web novel recommended in the Hunter community comments. |
+| 제로빅 | **Zerobic** | Name used in a forum joke about the recommended web novel. |
+| 둘리 | **Dooly** | Korean cartoon character referenced in the goodwill proverb. |
