@@ -816,3 +816,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 태극혜검 | **Taiji Wisdom Sword** | Wudang’s supreme sword technique. |
 | 매화삼십육검 | **Thirty-Six Plum Blossom Swords** | Huashan sword technique used by Cheongpung. |
 | 타구봉법 | **Dog-Beating Staff Technique** | Beggars’ Sect staff technique. |
+| 반로환동 | **Returned to Youth** | Possible explanation for an apparently young Supreme Peak master. |
+| 초절 | **supreme mastery** | Realm beyond Peak described as accessible only to the greatest martial artists. |
+| 극상승의 안법 | **ultimate eye technique** | Advanced visual technique Cheongpung learned from Mae Jonghak. |
