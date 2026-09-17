@@ -441,3 +441,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 주화란 | 혁무진 | rescued_survivor_to_benefactor | Benefactor | formal-deferential | Hwaran includes Mujin among the Benefactors when greeting Taekyung's companions. |
 | 주화란 | 궁기방 | rescued_survivor_to_benefactor | Benefactor | formal-deferential | Hwaran includes Gung Gibang among the Benefactors when greeting Taekyung's companions. |
 | 주화란 | 청풍 | rescued_survivor_to_benefactor | Benefactor | formal-deferential | Hwaran includes Cheongpung among the Benefactors when greeting Taekyung's companions. |
+| 호위장 | 백무성 | Xi'an Tower head guard to visiting Huashan master | Great Hero Baek | formal-deferential | Praises Baek's reputation and defers to him when Hyuk Sopyung arrives. |
+| 백무성 | 혁소평 | fellow young sect prodigies and prior acquaintances | you | familiar and composed | Greets Hyuk as an old acquaintance before the confrontation. |
+| 혁소평 | 백무성 | fellow young sect prodigies and prior acquaintances | you | hostile and confrontational | Uses 당신 while angrily questioning why Baek is at Xi'an Tower. |

@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "the garden decorated with jade and stone",
+      "defect": "The draft splits 옥석 into two separate materials, adding ordinary stone to a garden described as being decorated with jade.",
+      "id": "F01",
+      "rationale": "옥석 here denotes jade or jade stone, not a combination of jade and ordinary stone.",
+      "replacement": "the garden decorated with jade",
+      "severity": "minor",
+      "source": "옥석(玉石)으로 장식한 정원"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The other two of the Three Plum Blossom Elites played a major role.",
+      "defect": "The translation omits that the other two members are Baek Museong’s Junior Brothers, losing the explicitly stated martial hierarchy.",
+      "id": "F02",
+      "rationale": "사제 refers relationally to Baek Museong’s Junior Brothers and is a binding hierarchy term in this context.",
+      "replacement": "The other two members of the Three Plum Blossom Elites—your Junior Brothers—played a major role.",
+      "severity": "major",
+      "source": "매화삼절(梅花三絶)의 다른 두 사제분께서 큰 활약을 해 주셨습니다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Five days earlier, an emergency messenger eagle sent by his Master, Heavenly Sword True Person, had brought astonishing news.",
+      "defect": "The adjective “emergency” is not present in the source and unnecessarily adds urgency to the established term.",
+      "id": "F03",
+      "rationale": "전서응 is the established “messenger eagle”; nothing in this sentence classifies this particular dispatch as an emergency.",
+      "replacement": "Five days earlier, a messenger eagle sent by his Master, Heavenly Sword True Person, had brought astonishing news.",
+      "severity": "minor",
+      "source": "지금으로부터 닷새 전, 스승인 천검진인이 보낸 전서응에는 놀라운 소식이 적혀 있었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Young Hero, the chief manager has stepped away for a moment. So please calm down and sit still—”\n\n“Sit still? After I’ve been treated this poorly, do I look like I’m in the mood to sit still?”",
+      "defect": "The draft invents an instruction to sit still and changes the drunkard’s repeated challenge from calming down to remaining seated.",
+      "id": "F04",
+      "rationale": "Both instances of 고정 concern calming or composing oneself; the repetition drives the angry retort, and no request to sit is made.",
+      "replacement": "“Young Hero, the chief manager has stepped away for a moment. So please calm down—”\n\n“Calm down? After I’ve been treated this poorly, do I look like I’m in any state to calm down?”",
+      "severity": "major",
+      "source": "“소협, 총관께서는 지금 잠시 자리를 비우셨습니다. 그러니 이제 고정하시고…….”\n\n“고정? 내가 이따위 홀대를 받았거늘, 지금 고정하게 생겼느냐!”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“You bottom-dwelling Third Rate trash from wandering martial-artist backgrounds think you can tell me where I can go?”",
+      "defect": "The draft completes an intentionally unfinished contemptuous threat with a specific accusation absent from the source.",
+      "id": "F05",
+      "rationale": "어딜 감히 trails off after “how dare you,” leaving the threat deliberately incomplete; the source never says that they are telling him where he may go.",
+      "replacement": "“You bottom-of-the-barrel Third Rate trash from wandering martial artist backgrounds dare…”",
+      "severity": "major",
+      "source": "“낭인 출신 밑바닥 삼류들이 어딜 감히…….”"
+    },
+    {
+      "confidence": 0.95,
+      "current": "He’ll withdraw for the sake of my reputation, if nothing else.",
+      "defect": "“For the sake of my reputation” misstates the interpersonal cue; Baek means the man may back down out of consideration for him, not to protect his public renown.",
+      "id": "F06",
+      "rationale": "제 체면을 봐서라도 invokes giving Baek face or showing him consideration in the immediate encounter.",
+      "replacement": "He’ll back down for my sake, if nothing else.",
+      "severity": "minor",
+      "source": "몇 차례 면식이 있는 사이니, 제 체면을 봐서라도 물러나 주겠지요."
+    },
+    {
+      "confidence": 0.97,
+      "current": "*Baek Museong said he would be waiting for us.*",
+      "defect": "The draft makes Baek Museong the speaker of the current travel arrangement, although the source says that Taekyung was told Baek would be waiting; the following passage separately recalls what Baek himself said more than a year ago.",
+      "id": "F07",
+      "rationale": "The omitted Korean subject belongs to the act of informing Taekyung, while Baek Museong is the subject of 기다리고 있다. Assigning both roles to Baek conflates the recent arrangement with his old invitation.",
+      "replacement": "*I was told Huashan’s Lone Crane, Baek Museong, would be waiting for us.*",
+      "severity": "major",
+      "source": "‘화산일학 백무성이 기다리고 있다고 했었는데.’"
+    },
+    {
+      "confidence": 0.98,
+      "current": "*This is too damn filthy. I can’t make a living as a martial artist.*",
+      "defect": "The draft reads 못 해 먹겠다 literally as an inability to earn a living and makes 드러워서 sound like physical uncleanliness, weakening the exasperated occupational punchline.",
+      "id": "F08",
+      "rationale": "못 해 먹겠다 is an idiomatic declaration that something is intolerable or not worth putting up with, rather than a statement about income.",
+      "replacement": "*This kind of shit makes me sick of being a martial artist.*",
+      "severity": "minor",
+      "source": "드러워서 무림인 못 해 먹겠다."
+    }
+  ],
+  "summary": "The draft has several fidelity issues involving martial hierarchy, an altered exchange, an intentionally unfinished insult, and the source of Baek Museong’s travel arrangements, plus localized terminology and wording problems.",
+  "version": 1
+}

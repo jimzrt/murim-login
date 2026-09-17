@@ -1056,3 +1056,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 화산신룡 | **Huashan Divine Dragon** | Title given to Cheongpung after the Star-Array Grand Banquet. |
 | 서안루 | **Xi'an Tower** | Prominent pleasure house in Xi'an. |
 | 백 씨 | **Baek** | Surname form used when Baek Museong introduces himself. |
+| 종남일룡 | **Zhongnan One Dragon** | Epithet of Hyuk Sopyung. |
