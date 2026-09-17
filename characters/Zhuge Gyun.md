@@ -1,6 +1,6 @@
 # Zhuge Gyun (제갈균)
 
-- **Safe through:** Chapter 248
+- **Safe through:** Chapter 249
 - **Aliases:** Divine Marvel Dragon
 - **Role:** Scholar-styled Zhuge Clan martial artist and finalist in the Star-Array Grand Banquet; expressed considerable regret after losing the fifth preliminary assessment on mechanisms and formations.
 - **Personality:** Analytical, pedantic, and unusually preoccupied with theoretical correctness.

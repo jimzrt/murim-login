@@ -790,3 +790,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 궁기방 | **Gung Gibang** | Beggars' Sect Successor Beggar and finalist. |
 | 낭왕 | **Wave King** | One of the Ten Kings; already deceased. |
 | 나한동 | **Arhat Cave** | Shaolin cave where Unnamed is preparing. |
+| 항룡십팔장 | **Eighteen Dragon-Subduing Palms** | Beggars' Sect martial art mentioned by Gung Gibang. |
+| 제갈무후 | **Zhuge Wuhou** | Honorific title for Zhuge Liang in the Three Visits allusion. |
+| 유비 | **Liu Bei** | Historical ruler in the Three Visits to the Thatched Cottage allusion. |
+| 삼고초려 | **Three Visits to the Thatched Cottage** | Allusion Zhuge Gyun uses to justify choosing the third option. |
