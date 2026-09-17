@@ -884,3 +884,9 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 내가중수법 | **Inner-Family Heavy Hand** | Taekyung's joking comparison for his mother's painful palm strike. |
 | 모친신장 | **Mother's Palm Strike** | Taekyung's humorous name for the beating delivered by his mother. |
 | 국정원 | **NIS** | South Korea's National Intelligence Service, mentioned in Taekyung's joke. |
+| 노재헌 | **No Jaehun** | Middle-school student from the adjacent class, remembered as tall and boastful about working out. |
+| 선웅제 | **Seon Woongje** | Taekyung's middle-school classmate who fought with No Jaehun. |
+| 한국대 | **Hankuk University** | Short form for the country's most prestigious university; Jihoon's university. |
+| 한국대학교 | **Hankuk University** | Full form of the university attended by Jihoon. |
+| 게이트 관리청 | **Gate Management Agency** | Agency that provides Taekyung's VIP limousine. |
+| 8학군 | **School District 8** | Prestigious Gangnam education district associated with affluent families and elite schools. |
