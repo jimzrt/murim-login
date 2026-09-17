@@ -1,26 +1,26 @@
 {
   "findings": [
     {
-      "confidence": 0.97,
-      "current": "his hand snatched the curved saber.",
-      "defect": "This says Temur seized the saber itself, while the source says his hand shot toward it; the following sentence establishes that he never managed to draw it.",
+      "confidence": 0.99,
+      "current": "*Dadadadada!*",
+      "defect": "The Korean rapid-footstep sound effect has been left as an unexplained romanization, replacing the established English sound effect.",
       "id": "F01",
-      "rationale": "잡아채 갔다 describes the abrupt movement of his hand toward the weapon, not a completed snatching action.",
-      "replacement": "his hand shot toward the curved saber.",
+      "rationale": "다다다다다 represents the rapid succession of Hyuk Mujin’s fleeing footsteps. The accepted baseline rendered its audible function in English, whereas the current form is merely a transliteration and does not convey that function naturally.",
+      "replacement": "*Rat-a-tat-tat-tat!*",
       "severity": "minor",
-      "source": "lines 389–397"
+      "source": "Korean line 111 / P55"
     },
     {
-      "confidence": 0.96,
-      "current": "with only fifty subordinates, he had dominated the steppe.",
-      "defect": "This replaces the source's physical image of riding or ranging across the steppe with the broader claim that he dominated it.",
+      "confidence": 0.97,
+      "current": "*I want to test it.*",
+      "defect": "The explicit causal relationship between wanting to test his new capabilities and wanting to continue the duel has been weakened into a standalone statement.",
       "id": "F02",
-      "rationale": "초원을 질타했다 depicts forcefully riding across the steppe; the accepted baseline preserved that specific mounted action.",
-      "replacement": "with only fifty subordinates, he had ridden across the steppe.",
+      "rationale": "시험해 보고 싶으니까 uses the causal ending -으니까: this is Taekyung’s direct reason for the preceding desire to continue sparring with Cheongpung.",
+      "replacement": "*Because I want to test it.*",
       "severity": "minor",
-      "source": "lines 415–417"
+      "source": "Korean line 135 / P67"
     }
   ],
-  "summary": "Two minor source-fidelity defects remain in the assembled chapter.",
+  "summary": "The chapter is faithful overall, with two minor regressions: an untranslated sound effect and an explicit causal link reduced to implication.",
   "version": 1
 }

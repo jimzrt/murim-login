@@ -1,1 +1,481 @@
-{"chapter": 160, "decisions": [{"hunk_id": "H001", "decision": "SOL", "reason": "다고 했다 is proverbial they-say, not the Sword Saint speaking; scenery matches 풍경."}, {"hunk_id": "H002", "decision": "SOL", "reason": "Preserves the repeated 고마워서; That’s all is unsupported."}, {"hunk_id": "H003", "decision": "SOL", "reason": "Restores 성심성의껏 as wholeheartedly, which devoted omits."}, {"hunk_id": "H004", "decision": "SOL", "reason": "Naturalizes 갈 길 잃은 without the calqued lost eyes."}, {"hunk_id": "H005", "decision": "SOL", "reason": "Keeps the punchy 애잔하다, 진짜 cadence instead of a flattened gloss."}, {"hunk_id": "H006", "decision": "SOL", "reason": "녀석 plus drool is more spoken and less stiff than saliva stains covering the area."}, {"hunk_id": "H007", "decision": "SOL", "reason": "들으셨습니까 points at the snoring, not at Mujin’s speech."}, {"hunk_id": "H008", "decision": "SOL", "reason": "Matches the chapter’s established 비무 rendering as duel."}, {"hunk_id": "H009", "decision": "SOL", "reason": "아는 만큼 보이는 법 is gnomic present, not a past-tense observation."}, {"hunk_id": "H010", "decision": "BASE", "reason": "씁쓸함 is bitterness; hollow changes the emotion."}, {"hunk_id": "H011", "decision": "SOL", "reason": "멀어지는 뒷모습 is a retreating figure, not a mechanical back recede."}, {"hunk_id": "H012", "decision": "SOL", "reason": "전혀 아니다 denies the stinginess; not me invents a contrast."}, {"hunk_id": "H013", "decision": "SOL", "reason": "Restores 겹경사 as a double blessing; two more is extra specification."}, {"hunk_id": "H014", "decision": "SOL", "reason": "위대한 modifies the ruler; powerful empire is unsupported."}, {"hunk_id": "H015", "decision": "SOL", "reason": "Keeps sentence-final 현실 that BASE drops."}, {"hunk_id": "H016", "decision": "SOL", "reason": "고개도 까딱이지 않고 is a withheld nod; dip his head is unidiomatic."}, {"hunk_id": "H017", "decision": "REPAIR", "replacement": "Temur had always been hot-tempered and reckless. Before Chinggen had time to stop him, his hand snatched the curved saber.", "reason": "잡아채 갔다 is a completed snatch; snatched at may miss, and at his waist is added."}, {"hunk_id": "H018", "decision": "SOL", "reason": "앉으라고 했다 repeats the prior command; Sit down loses that insistence."}, {"hunk_id": "H019", "decision": "SOL", "reason": "들릴 듯 말 듯 is barely audible, tighter than barely loud enough to hear."}, {"hunk_id": "H020", "decision": "SOL", "reason": "한 축 is a pillar; major forces adds major and drops the image."}, {"hunk_id": "H021", "decision": "SOL", "reason": "초원을 질타했다 is domination, not merely riding across."}, {"hunk_id": "H022", "decision": "SOL", "reason": "말귀가 어둡다 is slow to catch on, not generically a slow one."}]}
+{
+  "chapter": 160,
+  "decisions": [
+    {
+      "hunk_id": "H001",
+      "decision": "SOL",
+      "reason": "기만질 is scornful con/trickery; 'con me' matches that register better than 'fool me'."
+    },
+    {
+      "hunk_id": "H002",
+      "decision": "SOL",
+      "reason": "Subjectless 했다 is the proverb 'they said,' not the Sword Saint; 'wall of the Peak realm' and 겨우 are clearer."
+    },
+    {
+      "hunk_id": "H003",
+      "decision": "SOL",
+      "reason": "'No end to learning' is the natural English proverb order for 배움에는 끝이 없다."
+    },
+    {
+      "hunk_id": "H004",
+      "decision": "BASE",
+      "reason": "SOL drops 백사장 (white-sand beach) and the explicit 사실을 안다."
+    },
+    {
+      "hunk_id": "H005",
+      "decision": "BASE",
+      "reason": "SOL replaces glossary 초일류/First Rate with 'superb' and drops the 'I also knew' continuation."
+    },
+    {
+      "hunk_id": "H006",
+      "decision": "REPAIR",
+      "replacement": "*If not for Cheongpung, I would have wandered for a long time.*",
+      "reason": "BASE's 'lost' underplays 헤매다; SOL's 'in circles' adds an image the source does not have."
+    },
+    {
+      "hunk_id": "H007",
+      "decision": "SOL",
+      "reason": "'Barely did anything' is a natural rendering of 별로 한 것도 없는데 and sets up the echo."
+    },
+    {
+      "hunk_id": "H008",
+      "decision": "SOL",
+      "reason": "'Barely?' is the tight spoken echo of 한 게 없긴요 after the prior line."
+    },
+    {
+      "hunk_id": "H009",
+      "decision": "SOL",
+      "reason": "어떻게 보고 있었던 is 'how he regarded me'; BASE's 'looking at' is a calque, and 'Just what' captures 도대체."
+    },
+    {
+      "hunk_id": "H010",
+      "decision": "BASE",
+      "reason": "'As' and 'When' are both valid for 자; the versions are indistinguishable."
+    },
+    {
+      "hunk_id": "H011",
+      "decision": "REPAIR",
+      "replacement": "Cheongpung looked around with a lost gaze, then spotted Hyuk Mujin snoring in the corner of the training ground and shouted.",
+      "reason": "BASE's 'lost eyes' is translationese; SOL invents 'in search of an escape.'"
+    },
+    {
+      "hunk_id": "H012",
+      "decision": "BASE",
+      "reason": "SOL drops 갑자기 from 갑자기 번쩍 눈을 뜬."
+    },
+    {
+      "hunk_id": "H013",
+      "decision": "SOL",
+      "reason": "'I, Hyuk Mujin… my Captain' naturalizes 이 혁무진 self-reference; BASE's 'his Captain' fights the spoken first person."
+    },
+    {
+      "hunk_id": "H014",
+      "decision": "SOL",
+      "reason": "'Hard-won and easily broken' is the idiomatic equivalent of 어렵게 찾아오고 쉽게 깨지는; the guard boast still lands."
+    },
+    {
+      "hunk_id": "H015",
+      "decision": "REPAIR",
+      "replacement": "*Forget the rat. You sure seem like a fucking bastard…*",
+      "reason": "SOL's 'Forget the rat' naturalizes 모르겠고, but it drops 같은데 ('seem like')."
+    },
+    {
+      "hunk_id": "H016",
+      "decision": "BASE",
+      "reason": "SOL adds unsupported 'dried' and stares at the drool instead of 녀석."
+    },
+    {
+      "hunk_id": "H017",
+      "decision": "BASE",
+      "reason": "Only a comma-before-too difference; versions are indistinguishable."
+    },
+    {
+      "hunk_id": "H018",
+      "decision": "BASE",
+      "reason": "조금만 더 컸으면 is 'even a little louder,' which SOL weakens to 'any louder.'"
+    },
+    {
+      "hunk_id": "H019",
+      "decision": "SOL",
+      "reason": "Direct degree-result sentence matches 얼마나…들었겠다 without BASE's padded 'you had to wonder.'"
+    },
+    {
+      "hunk_id": "H020",
+      "decision": "SOL",
+      "reason": "'Get out of my sight' is the English idiom for 눈앞에서 사라져라; BASE is calqued."
+    },
+    {
+      "hunk_id": "H021",
+      "decision": "SOL",
+      "reason": "다다다다다 is running footsteps; BASE's rat-a-tat reads as gunfire or drumming."
+    },
+    {
+      "hunk_id": "H022",
+      "decision": "BASE",
+      "reason": "tremendous/incredible are interchangeable for 엄청난 속도."
+    },
+    {
+      "hunk_id": "H023",
+      "decision": "SOL",
+      "reason": "Cheongpung is commenting to Taekyung about fleeing Mujin; 'He's' fits the observation better than addressing Mujin."
+    },
+    {
+      "hunk_id": "H024",
+      "decision": "BASE",
+      "reason": "SOL adds a 'turned' action and 'immensely' that 말했다 / 뿌듯해하는 do not support."
+    },
+    {
+      "hunk_id": "H025",
+      "decision": "SOL",
+      "reason": "'Utterly exhausted' matches 그지없다, and 'strength had gone out of me' is 맥이 풀린."
+    },
+    {
+      "hunk_id": "H026",
+      "decision": "BASE",
+      "reason": "Conversational 'I wanted… even more' fits Taekyung's voice; SOL's abstract 'my desire was stronger' is stiffer."
+    },
+    {
+      "hunk_id": "H027",
+      "decision": "SOL",
+      "reason": "A bare thought is more natural English; the causal 니까 is already implied by placement."
+    },
+    {
+      "hunk_id": "H028",
+      "decision": "SOL",
+      "reason": "'Worlds apart' is the English idiom for 하늘과 땅 차이; 'utterly different' is weaker."
+    },
+    {
+      "hunk_id": "H029",
+      "decision": "SOL",
+      "reason": "Cleaner parallel: new martial arts, not merely faster or stronger, without BASE's vague 'something.'"
+    },
+    {
+      "hunk_id": "H030",
+      "decision": "SOL",
+      "reason": "Dropping 'that' makes Cheongpung's spoken line more natural."
+    },
+    {
+      "hunk_id": "H031",
+      "decision": "BASE",
+      "reason": "한 번 is 'once'; SOL's 'one round' over-specifies a bout structure."
+    },
+    {
+      "hunk_id": "H032",
+      "decision": "BASE",
+      "reason": "웃으며 is simultaneous 'as he continued'; SOL's 'before' makes it sequential."
+    },
+    {
+      "hunk_id": "H033",
+      "decision": "SOL",
+      "reason": "Source is ……!; BASE drops the bang."
+    },
+    {
+      "hunk_id": "H034",
+      "decision": "SOL",
+      "reason": "Generic-you proverb is the natural English for 아는 만큼 보이는 법; BASE's past-tense 'People saw' is stiff."
+    },
+    {
+      "hunk_id": "H035",
+      "decision": "SOL",
+      "reason": "Pronoun 'him' after Cheongpung was just named is natural English, not a glossary drop."
+    },
+    {
+      "hunk_id": "H036",
+      "decision": "SOL",
+      "reason": "'Have your hands full' is the idiomatic match for 바쁘실 거예요; absorbing is a fair 녹여 내는."
+    },
+    {
+      "hunk_id": "H037",
+      "decision": "SOL",
+      "reason": "'It's a shame' matches Cheongpung's mild 아쉽네요 better than the punchier 'What a shame.'"
+    },
+    {
+      "hunk_id": "H038",
+      "decision": "BASE",
+      "reason": "스스로 결정한 is 'decided themselves,' not 'voluntarily'; 부여받지 is 'you will not receive.'"
+    },
+    {
+      "hunk_id": "H039",
+      "decision": "BASE",
+      "reason": "SOL's 'walk away' loses 멀어지는 뒷모습, the receding back."
+    },
+    {
+      "hunk_id": "H040",
+      "decision": "BASE",
+      "reason": "SOL singularizes 알림 and inflates 일들 to 'everything.'"
+    },
+    {
+      "hunk_id": "H041",
+      "decision": "SOL",
+      "reason": "'Rang out' captures 울려 퍼지는, which BASE flattens to 'along with.'"
+    },
+    {
+      "hunk_id": "H042",
+      "decision": "BASE",
+      "reason": "시스템 창 is singular; SOL pluralizes to windows."
+    },
+    {
+      "hunk_id": "H043",
+      "decision": "BASE",
+      "reason": "한참 후 is 'quite a while later'; SOL's 'rest would have to wait' drops the delay."
+    },
+    {
+      "hunk_id": "H044",
+      "decision": "SOL",
+      "reason": "Water sloshing inside the tub is the more natural English image for 뜨거운 물로 출렁였다."
+    },
+    {
+      "hunk_id": "H045",
+      "decision": "BASE",
+      "reason": "He sinks into the 욕조; SOL changes the tub to 'water.'"
+    },
+    {
+      "hunk_id": "H046",
+      "decision": "BASE",
+      "reason": "시원하다 is 'this feels great/refreshing'; 'that's the stuff' is an unsupported colloquial swap."
+    },
+    {
+      "hunk_id": "H047",
+      "decision": "REPAIR",
+      "replacement": "Now I finally felt alive again. After closing my eyes and savoring the sensation for a while, I opened the System window.",
+      "reason": "BASE keeps 이제야 but misses 여운; SOL savors the afterglow but drops 'now.'"
+    },
+    {
+      "hunk_id": "H048",
+      "decision": "BASE",
+      "reason": "둑이 터지듯 needs the bursting; SOL drops it."
+    },
+    {
+      "hunk_id": "H049",
+      "decision": "SOL",
+      "reason": "'Gained five Levels' is the natural game-English for 5레벨이나 올랐어."
+    },
+    {
+      "hunk_id": "H050",
+      "decision": "BASE",
+      "reason": "'But not me' is punchier Taekyung for 전혀 아니다; SOL's past 'might have thought' is padded."
+    },
+    {
+      "hunk_id": "H051",
+      "decision": "BASE",
+      "reason": "End-placed 'here' reads more smoothly than SOL's comma-fronted 'here, I was.'"
+    },
+    {
+      "hunk_id": "H052",
+      "decision": "SOL",
+      "reason": "'Accordingly' preserves the 만큼 causal link that BASE omits."
+    },
+    {
+      "hunk_id": "H053",
+      "decision": "SOL",
+      "reason": "'Advancement of your martial arts' is the natural collocation; 'increase in martial arts' is awkward."
+    },
+    {
+      "hunk_id": "H054",
+      "decision": "REPAIR",
+      "replacement": "I was already satisfied that the realms of Jin Family's Cultivation Technique and Qi Sense, which had stagnated for so long, had risen. Gaining two more Levels on top of that was a double blessing.",
+      "reason": "SOL drops glossary 경지 and turns 겹경사 into an 'unexpected windfall'; BASE misses the double blessing."
+    },
+    {
+      "hunk_id": "H055",
+      "decision": "BASE",
+      "reason": "본 is 'seen,' and 'leveled up seven times' is more natural than 'amounted to seven Level-ups.'"
+    },
+    {
+      "hunk_id": "H056",
+      "decision": "BASE",
+      "reason": "SOL drops 다른 메시지."
+    },
+    {
+      "hunk_id": "H057",
+      "decision": "BASE",
+      "reason": "SOL adds 'methods' and changes 알지 못했던 (not known) to 'understand.'"
+    },
+    {
+      "hunk_id": "H058",
+      "decision": "BASE",
+      "reason": "Source order is 문파 설립과 무공 창안; SOL reverses it and adds 'my own.'"
+    },
+    {
+      "hunk_id": "H059",
+      "decision": "REPAIR",
+      "replacement": "The System was certainly giving me the full Peak Master treatment. It was worlds apart from how I had been treated as a First Rate martial artist.",
+      "reason": "SOL's 'full treatment' captures 톡톡히, but 'first-rate' violates glossary First Rate."
+    },
+    {
+      "hunk_id": "H060",
+      "decision": "BASE",
+      "reason": "'Crawling with' is the English for 득실거리는; SOL's 'crowded' is weaker."
+    },
+    {
+      "hunk_id": "H061",
+      "decision": "SOL",
+      "reason": "'What it meant to be a Peak master' naturalizes 그런 존재들이다 better than 'kind of existence.'"
+    },
+    {
+      "hunk_id": "H062",
+      "decision": "BASE",
+      "reason": "SOL's 'but I certainly' over-emphasizes the 고 link; 'leave' preserves 놔두고."
+    },
+    {
+      "hunk_id": "H063",
+      "decision": "SOL",
+      "reason": "'Through internal energy' is tighter than 'by using' for 공력을 이용해."
+    },
+    {
+      "hunk_id": "H064",
+      "decision": "SOL",
+      "reason": "'Couldn't think of any immediate use' matches 써먹을 구석이 잘 생각나지 않는."
+    },
+    {
+      "hunk_id": "H065",
+      "decision": "SOL",
+      "reason": "'No problem' captures dismissive 그 정도야, 뭐 better than 'manageable.'"
+    },
+    {
+      "hunk_id": "H066",
+      "decision": "SOL",
+      "reason": "Clipped interior thought is more natural for 이제 겨우 세 개 남았나."
+    },
+    {
+      "hunk_id": "H067",
+      "decision": "SOL",
+      "reason": "One-sentence 'disappeared, leaving exactly three' is tighter without losing 딱 세 개."
+    },
+    {
+      "hunk_id": "H068",
+      "decision": "SOL",
+      "reason": "'Equal parts relief and regret' is the idiomatic English for 반, 반."
+    },
+    {
+      "hunk_id": "H069",
+      "decision": "BASE",
+      "reason": "한 몸 is 'one body'; SOL drops the body image and inflates 모두 to 'full extent.'"
+    },
+    {
+      "hunk_id": "H070",
+      "decision": "SOL",
+      "reason": "BASE adds unsupported 'powerful'; SOL keeps the great ruler and avoids the heavy subject."
+    },
+    {
+      "hunk_id": "H071",
+      "decision": "BASE",
+      "reason": "보금자리인 is identity ('the nomads' homes'), not 'that served as.'"
+    },
+    {
+      "hunk_id": "H072",
+      "decision": "BASE",
+      "reason": "남아 is 'remained'; SOL's 'survived' slightly intensifies it."
+    },
+    {
+      "hunk_id": "H073",
+      "decision": "SOL",
+      "reason": "걸친 is 'draped in sheepskin'; BASE adds an unstated cloak."
+    },
+    {
+      "hunk_id": "H074",
+      "decision": "BASE",
+      "reason": "참아 is 'bear with it,' not 'let it go'; 하루 이틀 is more than 'nothing new.'"
+    },
+    {
+      "hunk_id": "H075",
+      "decision": "BASE",
+      "reason": "잊어서는 안 돼 is 'must not forget'; SOL's 'never' intensifies."
+    },
+    {
+      "hunk_id": "H076",
+      "decision": "BASE",
+      "reason": "SOL drops 다만 ('simply')."
+    },
+    {
+      "hunk_id": "H077",
+      "decision": "BASE",
+      "reason": "'Only establishment of its kind… enormous to match' keeps 단 한 곳 and 그만큼 without overclaiming 'the only inn.'"
+    },
+    {
+      "hunk_id": "H078",
+      "decision": "BASE",
+      "reason": "SOL upgrades 두 사람 to 'chieftains' and adds 'throughout the building'; the find is one 발견한 것은."
+    },
+    {
+      "hunk_id": "H079",
+      "decision": "SOL",
+      "reason": "'Come, sit' captures welcoming 이리로 앉으시오 better than bare 'Sit here.'"
+    },
+    {
+      "hunk_id": "H080",
+      "decision": "SOL",
+      "reason": "고개도 까딱이지 않고 is 'did not so much as nod'; 'dip his head' is odd."
+    },
+    {
+      "hunk_id": "H081",
+      "decision": "SOL",
+      "reason": "Source is ……!; BASE drops the bang."
+    },
+    {
+      "hunk_id": "H082",
+      "decision": "SOL",
+      "reason": "Source is ……!; BASE drops the bang."
+    },
+    {
+      "hunk_id": "H083",
+      "decision": "SOL",
+      "reason": "Active 'Veins bulged on…' is cleaner than 'The veins on… bulged.'"
+    },
+    {
+      "hunk_id": "H084",
+      "decision": "BASE",
+      "reason": "'It had happened' and 'That had been' are interchangeable for 수백 년도 전의 일."
+    },
+    {
+      "hunk_id": "H085",
+      "decision": "SOL",
+      "reason": "'By nature' is 타고난 성정; BASE's 'at his waist' is not in this sentence."
+    },
+    {
+      "hunk_id": "H086",
+      "decision": "SOL",
+      "reason": "텡게르 신 is 'the god Tengger,' not 'the Tengger God.'"
+    },
+    {
+      "hunk_id": "H087",
+      "decision": "SOL",
+      "reason": "앉으라고 했다 is a reiterated 'I said sit,' which BASE's 'Sit down' loses."
+    },
+    {
+      "hunk_id": "H088",
+      "decision": "SOL",
+      "reason": "'Did not forget to whisper' is a Korean narrative calque; the barely audible whisper is preserved."
+    },
+    {
+      "hunk_id": "H089",
+      "decision": "BASE",
+      "reason": "SOL weakens 강자 to 'powerful figure' and 한 축을 담당하는 to 'represented.'"
+    },
+    {
+      "hunk_id": "H090",
+      "decision": "BASE",
+      "reason": "SOL collapses the 라면…… pause and pre-pays 'only one,' stealing the next beat."
+    },
+    {
+      "hunk_id": "H091",
+      "decision": "BASE",
+      "reason": "SOL deletes the delayed payoff 한 사람뿐이다."
+    },
+    {
+      "hunk_id": "H092",
+      "decision": "BASE",
+      "reason": "질타했다 is riding/scouring the steppe, not 'roamed.'"
+    },
+    {
+      "hunk_id": "H093",
+      "decision": "SOL",
+      "reason": "'Butcher of men' is the natural English for 인간 백정."
+    },
+    {
+      "hunk_id": "H094",
+      "decision": "SOL",
+      "reason": "Footnote now matches the glossary gloss (traditional fruit skewers)."
+    }
+  ]
+}

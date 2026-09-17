@@ -2,15 +2,23 @@
   "chapter": 160,
   "errors": [],
   "metrics": {
-    "length_ratio": 2.279,
+    "length_ratio": 2.234,
     "source_characters": 5677,
     "source_paragraphs": 195,
-    "translation_characters": 12940,
-    "translation_paragraphs": 182
+    "translation_characters": 12685,
+    "translation_paragraphs": 181
   },
   "passed": true,
   "version": 1,
   "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "일류",
+        "preferred": "First Rate"
+      },
+      "message": "matched preferred term is absent"
+    },
     {
       "code": "terminology",
       "details": {
@@ -66,6 +74,14 @@
         "preferred": "mare's-milk wine"
       },
       "message": "matched preferred term is absent"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "다다다다다",
+        "romanization": "dadadadada"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
     }
   ]
 }
