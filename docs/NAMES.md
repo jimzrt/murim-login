@@ -1081,3 +1081,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 호북 | **Hubei** | Province on Ju Gongsan's route from Guangdong to Henan. |
 | 섬서성 | **Shaanxi Province** | Source form specifying Shaanxi as a province. |
 | 유니세프 | **UNICEF** | Organization referenced in Taekyung's joke about Ju Hogun's charity. |
+| 등왕루 | **Tengwang Pavilion** | Famous teahouse on the western edge of Xi'an. |
+| 종남제일검 | **The First Sword of Zhongnan** | Epithet of the Taeeul Merciless Sword. |
