@@ -829,3 +829,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 팔 성 | **eighth stage** | Current stage of Taekyung's Qi Sense Skill. |
 | 화룡 | **fire dragon** | Fire-dragon image within Taekyung's dantian that awakens before the duel. |
 | 심사관 | **Judge** | Official supervising the Star-Array Grand Banquet duels. |
+| 화륜각 | **Flame Wheel Kick** | Taekyung's blue-flame kicking technique. |
+| 화룡신창 | **Fire Dragon Divine Spear** | Taekyung's spear technique, at the seventh stage in this chapter. |
+| 사량발천근 | **Four Ounces Deflecting a Thousand Catties** | Principle Jongni Chu cites for redirecting force rather than opposing it directly. |
