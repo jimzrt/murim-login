@@ -764,3 +764,13 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 하북 팽가 | **Hebei Peng Family** | Family of the Thunderbolt Saber King. |
 | 하북제일미 | **Hebei's greatest beauty** | Description of the Thunderbolt Saber King's great-grandson's wife. |
 | 참회동 | **Repentance Cave** | Zhongnan Sect place of penance. |
+| 철수신룡 | **Iron-Water Divine Dragon** | Title of Cheol Soo, a member of the Ten Dragons and Phoenixes. |
+| 도곤 | **Dogon** | Title for a Peak-level gambler. |
+| 곽철융 | **Kwak Cheolyung** | One of the three legendary Dogons. |
+| 아귀 | **A-Gwi** | Legendary Dogon from Sichuan. |
+| 짝귀 | **Jjak-Gwi** | Legendary Dogon from Guangdong. |
+| 노르웨이 | **Norway** | Taekyung's temporary nickname for the huge foreign-looking applicant. |
+| 호접문 | **Butterfly Sect** | Sect of the eliminated martial artist Jangyu. |
+| 장유 | **Jangyu** | Martial artist eliminated during the fist-and-foot assessment. |
+| 소당문 | **Sodang Sect** | Sect of the martial artist Gobul. |
+| 고불 | **Gobul** | First Rate martial artist who passes the fist-and-foot assessment. |

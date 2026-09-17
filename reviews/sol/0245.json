@@ -1,0 +1,106 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "“I’m betting that he’ll be the first to pass the preliminaries.”",
+      "defect": "수석 means achieving the highest result or taking first place, not being the earliest participant to pass. This changes the condition of the wager.",
+      "id": "F01",
+      "rationale": "The later bettor uses the same 수석 통과 construction, which the draft correctly renders as taking first place.",
+      "replacement": "“I’m betting that he’ll take first place in the preliminaries.”",
+      "severity": "critical",
+      "source": "“이번 예선을 수석으로 통과한다는 것에 걸겠네.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“A thousand silver nyang on Cheol Soo, the Iron-Water Divine Dragon of the Yangtze River Channel League.”",
+      "defect": "The draft splits 철수신룡 into an invented personal name, Cheol Soo, plus an epithet. The supplied Hanja identifies the entire expression as the epithet Iron-Water Divine Dragon.",
+      "id": "F02",
+      "rationale": "鐵水神龍 corresponds in full to Iron-Water Divine Dragon; the source does not separately name this person Cheol Soo.",
+      "replacement": "“A thousand silver nyang on the Iron-Water Divine Dragon of the Yangtze River Channel League.”",
+      "severity": "major",
+      "source": "“장강수로맹의 철수신룡(鐵水神龍)에게 은자 천 냥.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“So go keep an eye on Cheol Soo. Now that I think about it, that rookie’s gotten pretty damn cocky.”",
+      "defect": "The repeated epithet 철수신룡 is again reduced to the invented personal name Cheol Soo.",
+      "id": "F03",
+      "rationale": "The speaker tells the swordsman to watch the contestant identified throughout the exchange by the epithet Iron-Water Divine Dragon.",
+      "replacement": "“So go keep an eye on the Iron-Water Divine Dragon. Now that I think about it, that rookie’s gotten pretty damn cocky.”",
+      "severity": "major",
+      "source": "“그러니까 가서 철수신룡이나 지켜봐. 생각해 보니까 신참 새끼가 건방지게.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "He was visibly older than he had been a year ago. My chest began to feel strangely tight.",
+      "defect": "가슴이 울렁거리다 describes an involuntary churning or queasy sensation, not tightness. The wording also sets up the following joke that Jeok Cheongang’s threat acts as motion-sickness medicine.",
+      "id": "F04",
+      "rationale": "Preserving the churning sensation retains both Taekyung’s emotional reaction and the immediate motion-sickness punchline.",
+      "replacement": "He was visibly older than he had been a year ago. My chest churned before I knew it.",
+      "severity": "major",
+      "source": "그의 모습은 일 년 전보다 확연히 늙어 있었다. 나도 모르게 가슴이 울렁거리던 그때였다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "I considered pretending to recognize him, but decided against it. It seemed like it would only become a hassle.",
+      "defect": "알은척하다 means acknowledging or greeting someone one knows, not pretending to recognize him.",
+      "id": "F05",
+      "rationale": "Taekyung genuinely recognizes Jongni Chu and merely decides not to acknowledge him.",
+      "replacement": "I considered saying hello, but decided against it. It seemed like it would only become a hassle.",
+      "severity": "minor",
+      "source": "알은척할까 하다가 귀찮아질 것 같아 접었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "And pray that we don’t run into each other.",
+      "defect": "The replacement shifts from past-tense narration into an imperative and changes the source’s one-sided wish that Jongni Chu not encounter Taekyung into a mutual encounter.",
+      "id": "F06",
+      "rationale": "The Korean continues Taekyung’s narrated action and specifically frames Jongni Chu as the person who should be spared from meeting him.",
+      "replacement": "And prayed that, if possible, he wouldn’t run into me.",
+      "severity": "minor",
+      "source": "가급적이면 날 만나지 않게 해 달라고 기도하고."
+    },
+    {
+      "confidence": 0.98,
+      "current": "This one had at least First Rate skill. He even knew how to infuse his strike with internal energy.",
+      "defect": "일류 정도 means approximately First Rate, whereas at least First Rate raises the lower bound. 그래도 is also concessive—at least he knew how—not additive even.",
+      "id": "F07",
+      "rationale": "The replacement preserves the approximate rank and the narrator’s qualified assessment of the contestant.",
+      "replacement": "This martial artist was around the First Rate level. At least he knew how to put internal energy behind his strike.",
+      "severity": "minor",
+      "source": "그나마 이번 무인은 일류 정도의 실력이다. 그래도 공력을 실어 때릴 줄은 알았다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "He flinched like someone who got beaten whenever an opportunity arose. Anyone could see that he was a third-rate martial artist.",
+      "defect": "The martial rank 삼류 must use the established capitalization Third Rate.",
+      "id": "F08",
+      "rationale": "Here 삼류 identifies the established Murim rank rather than describing ordinary quality.",
+      "replacement": "He flinched like someone who got beaten whenever an opportunity arose. Anyone could see that he was a Third Rate martial artist.",
+      "severity": "minor",
+      "source": "꼭 틈만 나면 맞고 다니는 사람처럼 움찔거리는 것이, 척 봐도 삼류 무사 티가 줄줄 났다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Those who passed stepped aside, while the third-rate martial artists whose punches left weak marks or whose hands hurt after a single strike were eliminated in droves.",
+      "defect": "The martial rank 삼류 must use the established capitalization Third Rate.",
+      "id": "F09",
+      "rationale": "The phrase classifies these contestants by the established Murim realm terminology.",
+      "replacement": "Those who passed stepped aside, while the Third Rate martial artists whose punches left weak marks or whose hands hurt after a single strike were eliminated in droves.",
+      "severity": "minor",
+      "source": "합격한 자는 옆으로 빠지고, 권흔이 약하거나 주먹질 한 번에 아파하는 삼류 무인들은 우수수 떨어져 나갔다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "The middle-aged man before him had already brought the result of meticulous investigation and calculation.",
+      "defect": "Brought the result is an unnatural literal construction and can suggest that he physically carried an outcome rather than arriving with a carefully derived prediction.",
+      "id": "F10",
+      "rationale": "The source says he arrived having already derived his conclusion through detailed investigation and calculation.",
+      "replacement": "The middle-aged man before him had come armed with a conclusion reached through meticulous research and calculation.",
+      "severity": "minor",
+      "source": "눈앞의 중년인은 이미 치밀한 조사와 계산 끝에 도출한 결과를 갖고 왔다."
+    }
+  ],
+  "summary": "The draft contains one outcome-changing mistranslation, repeated invention of a personal name from an epithet, and several localized fidelity and terminology issues.",
+  "version": 1
+}

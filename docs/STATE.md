@@ -1,20 +1,21 @@
 # Translation State
 
-- Last completed: 244
-- Next chapter: 245
-- Current block: 240–244 (5/5)
-- Latest translation: `translations/0244.md`
-- Latest summary: `summaries/beats/0244.md`
-- Safe profiles through: chapter 244
+- Last completed: 245
+- Next chapter: 246
+- Current block: 245–249 (1/5)
+- Latest translation: `translations/0245.md`
+- Latest summary: `summaries/beats/0245.md`
+- Safe profiles through: chapter 245
 
 ## Current Block
 
-- After roughly a year in the Fire Gate Cavern, Jin Taekyung reaches the sixth stage of the Scorching Sun Divine Arts, strengthens all Fire Gate Clan martial arts, and removes the shackles, chains, and iron ball that have bound him for the past year with his newly forged spear, White Flame. He leaves the Jin Family of Taiyuan for Mount Song with Jin Wikyung and fifty Jin Dragon Squad members, while Hyuk Mujin hurriedly follows after being left behind.
-- At Mount Song, the Star-Array Grand Banquet begins with the Fire King Jeok Cheongang, the Dharma King Hong Dao, the Family Head of the Nangong Family, the Sect Leader of the Zhongnan Sect, and leaders of the major Murim powers in attendance. Jeok trades insults with Gong Iljung and warns him to keep the Roaring Fury Swordsman from attracting his attention.
-- The Thunderbolt Saber King of the Hebei Peng Family arrives and exchanges insults with Jeok over their descendants and titles. Jeok mocks him as the Virility Saber King, provoking both Supreme Peak masters to release their auras until Hong Dao mediates. The assembled leaders then emerge before tens of thousands of spectators gathered at the foot of Mount Song.
+- The Star-Array Grand Banquet officially opens at Mount Song. Hong Dao, Abbot of Shaolin and Dharma King, gives a brief speech urging the participants to think and act brightly so they can survive the darkness. Jin Taekyung understands that he is warning about Dark Heaven, the powerful enemy whose identity remains unrevealed. Jeok Cheongang, standing beside Hong Dao, looks visibly older than he did a year earlier but still orders Taekyung through Sound Transmission to win and to crush anyone from the Peng Family.
+- Taekyung spots Jongni Chu among the attendees but avoids greeting him. Elsewhere, the middle-aged Peak martial artist Kwak Cheolyung, one of the world's three legendary Dogons, places a thousand silver nyang on Cheol Soo, the Iron-Water Divine Dragon, taking first place in the preliminaries. A masked Third Rate martial artist then wagers one hundred silver nyang on Jin Taekyung taking first place.
+- The preliminaries begin with hundreds of supervisors dividing the tens of thousands of applicants into testing groups. Taekyung accidentally provokes a huge young martial artist with a salmon-and-harpoon tattoo, who threatens him through Sound Transmission before the supervisor warns them that causing trouble means disqualification. At the first test, applicants must demonstrate their fists and feet by striking a cliff. Taekyung is called as Jin Taekyung of the Jin Family of Taiyuan, and the System creates the Star-Array Grand Banquet Quest.
 
 ## Open Questions
 
+- What is Dark Heaven, and when will it reveal its full strength?
 - Where has the Jin Family Head been during his years of unexplained absence?
 - When will Jin Mukyung achieve Great Completion and leave closed-door training?
 - Where did Cheongpung go after fleeing on the way to Huashan?
