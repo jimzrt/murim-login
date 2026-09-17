@@ -1,6 +1,6 @@
 # Song Song (송송이)
 
-- **Safe through:** Chapter 220
+- **Safe through:** Chapter 222
 - **Aliases:** Miss Song
 - **Role:** Founding member of the Peace Guild; C-rank healer
 - **Personality:** Calm, practical, capable, and attentive; speaks briefly and handles domestic work with practiced skill

@@ -644,3 +644,10 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 슬로우 | **Slow** | Spell cast five times in succession by Carus. |
 | 카루스 | **Carus** | Name of the Black Wyvern. |
 | 외눈박이 | **One-Eyed** | Epithet of Carus, who has only one eye. |
+| 다크 바인딩 | **Dark Binding** | Spell cast by Carus. |
+| 매직 애로우 | **Magic Arrow** | Spell cast by Carus. |
+| 속박 마법 | **Binding Magic** | System description of Carus's thorny-vine spell. |
+| 마비 독 | **Paralysis Poison** | Poison carried by Carus's binding vines. |
+| 신경 독 | **Nerve Poison** | Poison carried by Carus's binding vines. |
+| 중독 | **Poisoned** | System status abnormality caused by the poisons. |
+| 네임드 몬스터 처치 | **Named Monster Defeated** | Achievement granted for killing Carus. |
