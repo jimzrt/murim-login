@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Every single one was either a First Rate martial artist recognized anywhere under heaven or a Peak master.",
+      "defect": "The translation omits 초, flattening the finalists from top-tier First Rate martial artists to ordinary First Rate martial artists and weakening the stated hierarchy.",
+      "id": "F01",
+      "rationale": "초일류 explicitly denotes the highest tier within the First Rate realm, which matters to the competitors’ demonstrated caliber.",
+      "replacement": "Every single one was either a top-tier First Rate martial artist recognized anywhere under heaven or a Peak master.",
+      "severity": "major",
+      "source": "하나같이 천하 어디를 가도 인정받는 초일류, 혹은 절정 고수들이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Then this old man from the back room will take his leave. Enjoy yourselves.”",
+      "defect": "The second sentence changes Song Ho’s retrospective statement that he enjoyed meeting everyone into an instruction for the others to enjoy themselves.",
+      "id": "F02",
+      "rationale": "모두 즐거웠네 expresses Song Ho’s own assessment of the encounter, not a parting wish or command directed at the finalists.",
+      "replacement": "“Then this old relic will take his leave. It was a pleasure, everyone.”",
+      "severity": "critical",
+      "source": "“그럼 뒷방 늙은이는 이만 물러가도록 하지. 모두 즐거웠네.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“L-Later strike, first control?”",
+      "defect": "The martial maxim is rendered as an unnatural string of noun phrases rather than Baek Woo’s recognition that Taekyung moved second but seized control first.",
+      "id": "F03",
+      "rationale": "後發先制 describes acting after the opponent yet gaining control before him, matching the immediately explained exchange.",
+      "replacement": "“M-Moving second, yet taking control first?”",
+      "severity": "minor",
+      "source": "“후, 후발선제(後發先制)?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Unfortunately, I have only learned the Eighteen Dragon-Subduing Palms up to the fifth stage.”",
+      "defect": "오 성 means fifty percent mastery here, in direct contrast with the preceding 팔 성, not the fifth stage of the technique.",
+      "id": "F04",
+      "rationale": "The paired quantities 팔 성 and 오 성 indicate eight-tenths and five-tenths of mastery; converting the latter into an ordinal stage changes the technique’s progression mechanism.",
+      "replacement": "“Unfortunately, I have only mastered fifty percent of the Eighteen Dragon-Subduing Palms.”",
+      "severity": "major",
+      "source": "“허나 안타깝게도 나는 항룡십팔장을 오 성까지밖에 익히지 못했다.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“M-Might Makes Right. Haven’t you heard of it?”\n\n“Even so, that’s a bit much…”",
+      "defect": "The draft omits Gung Gibang’s shocked objection to being called casually by name and ordered to use polite speech, then assigns Taekyung’s “Might Makes Right” retort to Gung Gibang.",
+      "id": "F05",
+      "rationale": "The source is a three-turn exchange: Gung Gibang protests, Taekyung invokes 강자지존, and Gung Gibang objects again. Preserving the speakers is necessary for the hierarchy joke and characterization.",
+      "replacement": "“G-Gibang? Polite speech?”\n\n“Might Makes Right. Haven’t you heard of it?”\n\n“Even so, that’s a bit much…”",
+      "severity": "critical",
+      "source": "“기, 기방이? 존댓말?”\n\n“강자지존. 모르냐?”\n\n“그래도 그건 좀…….”"
+    }
+  ],
+  "summary": "The draft contains one reversed farewell, one misassigned dialogue exchange, and several hierarchy, quantity, and terminology errors.",
+  "version": 1
+}

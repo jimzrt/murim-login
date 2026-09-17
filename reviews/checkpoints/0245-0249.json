@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "That Supreme Peak master who was said to have no equal in kicks throughout Guangxi?",
+      "defect": "The Hunroe Leg is called a Supreme Peak master here, contradicting both the checkpoint continuity and durable state, which identify him as a Peak master. Supreme Peak is the substantially higher realm associated here with figures such as the Ten Kings.",
+      "id": "C01",
+      "rationale": "This restores the established power classification and avoids materially overstating the Hunroe Leg's strength.",
+      "replacement": "That Peak master who was said to have no equal in kicks throughout Guangxi?",
+      "severity": "major",
+      "source": "Chapter 247, discussion of the Hunroe Leg"
+    },
+    {
+      "confidence": 0.98,
+      "current": "A gambler who had reached the Peak of his craft was called a Dogon.",
+      "defect": "Capitalizing “Peak” makes an ordinary metaphor look like the formal Murim cultivation rank, even though the sentence concerns gambling expertise.",
+      "id": "C02",
+      "rationale": "Lowercase distinguishes the ordinary expression from the established Peak martial realm.",
+      "replacement": "A gambler who had reached the peak of his craft was called a Dogon.",
+      "severity": "minor",
+      "source": "Chapter 245, explanation of Dogons"
+    },
+    {
+      "confidence": 0.94,
+      "current": "When Jeok Cheongang was about to let go of the word *life*, a hand named Jin Taekyung reached out and caught it.",
+      "defect": "The phrases “let go of the word life” and “a hand named Jin Taekyung” read as conspicuous Korean-syntax calques and interrupt the otherwise natural emotional narration.",
+      "id": "C03",
+      "rationale": "This preserves the rescue metaphor and emotional meaning while making the sentence natural in contemporary English.",
+      "replacement": "When Jeok Cheongang was about to let go of life itself, Jin Taekyung reached out and caught hold of him.",
+      "severity": "minor",
+      "source": "Chapter 248, Jeok Cheongang's reflection on meeting Taekyung"
+    },
+    {
+      "confidence": 0.92,
+      "current": "M-Moving second, yet taking control first?",
+      "defect": "The line is a stiff martial-arts calque rather than spontaneous dialogue, particularly in the phrase “taking control first.”",
+      "id": "C04",
+      "rationale": "The replacement naturally expresses the same observation and aligns with the narration immediately afterward, which explains that Taekyung started later but reached his target first.",
+      "replacement": "Y-You moved after me, but still got there first?",
+      "severity": "minor",
+      "source": "Chapter 249, Baek Woo reacting to Taekyung's counter"
+    }
+  ],
+  "summary": "The packet is broadly coherent, with hooks and active state carried forward accurately. One rank contradiction and three localized English/terminology issues are actionable.",
+  "version": 1
+}
