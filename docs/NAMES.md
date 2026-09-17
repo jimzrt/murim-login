@@ -807,3 +807,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 암중살 | **Shadow Killer** | The Hidden Shadow Pavilion's finest agent. |
 | 태원박가 | **Taiyuan Park Family** | Fabricated family identity Taekyung uses to bait Cheongpung. |
 | 호남성 | **Hunan Province** | Province mentioned during Cheongpung's account of his travels. |
+| 혼원도 | **Hunyun Saber** | Epithet of the Hebei Peng Family’s eldest grandson, defeated by Jin Taekyung in the quarterfinals. |
+| 유운신룡 | **Willow-Cloud Divine Dragon** | Wudang direct disciple and Cheongpung’s quarterfinal opponent. |
+| 마도 | **Demonic Path** | Term raised for martial power that appears to defy common principles. |
+| 승패병가지상사 | **Victory and defeat are simply part of war** | Common saying Jeok Cheongang uses while taunting the Thunderbolt Saber King. |
