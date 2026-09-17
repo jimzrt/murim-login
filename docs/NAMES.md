@@ -929,3 +929,9 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 일주천 | **complete circulation** | Completion of one full qi circulation. |
 | 등짝, 등짝을 보자! | **Back, Back—Let's See Your Back!** | Peak-grade repeat Quest title. |
 | 난 소화한 공력의 반만 가져가 | **I'll Take Only Half the Internal Energy I Digest** | Sudden Quest title generated in Team Leader Choi's dantian. |
+| 백년설삼 | **Hundred-Year-Old Snow Ginseng** | Elixir whose undigested internal energy remained in Taekyung's dantian. |
+| 삼화취정 | **Three Flowers Gather at the Crown** | Near-completed phenomenon associated with entering the Supreme Peak realm. |
+| 무아지경 | **Trance** | State Taekyung briefly enters during the energy digestion. |
+| 내가고수 | **I'm a Master** | System Title granted to Taekyung. |
+| 이순신 | **Admiral Yi Sun-sin** | Historical admiral invoked in Taekyung's comparison. |
+| 명량대첩 | **Battle of Myeongnyang** | Historical naval victory used in Taekyung's comparison. |
