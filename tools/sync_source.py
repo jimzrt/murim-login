@@ -37,9 +37,13 @@ def gh_token() -> str | None:
 def git_env(token: str | None) -> dict[str, str]:
     env = os.environ.copy()
     if token:
-        env["GIT_CONFIG_COUNT"] = "1"
-        env["GIT_CONFIG_KEY_0"] = "http.extraHeader"
-        env["GIT_CONFIG_VALUE_0"] = f"Authorization: Bearer {token}"
+        # GitHub git HTTPS rejects Bearer headers; use gh's credential helper.
+        env["GIT_TERMINAL_PROMPT"] = "0"
+        env["GIT_CONFIG_COUNT"] = "2"
+        env["GIT_CONFIG_KEY_0"] = "credential.helper"
+        env["GIT_CONFIG_VALUE_0"] = ""
+        env["GIT_CONFIG_KEY_1"] = "credential.helper"
+        env["GIT_CONFIG_VALUE_1"] = "!gh auth git-credential"
     return env
 
 
