@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Taekyung killed the Named Monster; Team Leader Choi states that Taekyung has now hunted two Named Monsters alone.",
+      "defect": "This records the Skeleton Warlord as dead, contradicting both the chapters and the following continuity entry establishing that it remains alive in Taekyung's Inventory.",
+      "id": "C01",
+      "rationale": "The revised state distinguishes the public account from the concealed reality without changing Team Leader Choi's established description.",
+      "replacement": "Taekyung's reported kill of the Named Monster is a cover story; Team Leader Choi states that Taekyung has now hunted two Named Monsters alone.",
+      "severity": "major",
+      "source": "Durable state, active_continuity"
+    },
+    {
+      "confidence": 1.0,
+      "current": "You might as well have said, “Gynecomastia.””",
+      "defect": "The quotation nested inside spoken dialogue incorrectly uses another pair of double quotation marks, producing mismatched closing marks.",
+      "id": "C02",
+      "rationale": "Single quotation marks correctly distinguish the quoted word from the surrounding dialogue.",
+      "replacement": "You might as well have said, ‘Gynecomastia.’”",
+      "severity": "minor",
+      "source": "Chapter 300, Jin Taekyung's exchange with Lee Woojoong"
+    },
+    {
+      "confidence": 1.0,
+      "current": "That very fear seizes Go Jun by the hair and slowly raises his head.",
+      "defect": "The sentence abruptly shifts into present tense inside an otherwise past-tense sequence.",
+      "id": "C03",
+      "rationale": "Past tense restores continuity with the surrounding narration.",
+      "replacement": "That very fear seized Go Jun by the hair and slowly raised his head.",
+      "severity": "minor",
+      "source": "Chapter 301, Go Jun's defeat"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Can’t we just cook it some ramen?;",
+      "defect": "A stray semicolon follows the question mark.",
+      "id": "C04",
+      "rationale": "Removing the extraneous punctuation restores normal chat formatting.",
+      "replacement": "Can’t we just cook it some ramen?",
+      "severity": "minor",
+      "source": "Chapter 302, live-stream chat"
+    }
+  ],
+  "summary": "The packet is coherent and preserves the established voice, terminology, hooks, and spoiler boundary. One major contradiction in the durable state misrecords the Skeleton Warlord as dead; the reading copies also contain three minor prose or punctuation defects.",
+  "version": 1
+}

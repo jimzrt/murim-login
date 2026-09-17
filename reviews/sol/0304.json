@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "“He is the one who caused this Monster Wave. No—since he is not human, ‘the one responsible’ isn’t exactly the right term.”",
+      "defect": "The translation loses Choi’s wordplay: he retracts a phrase containing the sense of a person because the culprit is not human. “The one responsible” has no human implication, so his correction becomes illogical.",
+      "id": "F01",
+      "rationale": "Using “the man behind” preserves both the identification of the culprit and the source’s dry correction based on the Lich not being human.",
+      "replacement": "“He’s the man behind this Monster Wave. No—he isn’t a man, so I suppose that phrase isn’t quite right.”",
+      "severity": "major",
+      "source": "“이번 몬스터 웨이브를 일으킨 장본인입니다. 아니, 사람이 아니니 장본인이라는 단어는 어폐가 있군요.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "I was thinking about the people who had died helplessly and the little girl who had cried after losing her mother when a thought suddenly occurred to me.",
+      "defect": "The draft omits the narrator’s bitter emotional reaction, expressed through 입맛이 씁쓸해진.",
+      "id": "F02",
+      "rationale": "The replacement restores the source’s explicit emotional cue while retaining the transition to his realization.",
+      "replacement": "A bitter taste filled my mouth as I thought of the people who had died helplessly and the little girl crying after losing her mother. That was when a thought suddenly occurred to me.",
+      "severity": "minor",
+      "source": "무력하게 죽어 가던 사람들, 엄마를 잃고 울던 꼬마 아이가 생각나 입맛이 씁쓸해진 그때였다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "“Yes. More precisely, it was a request directed at one particular person—a request for that person to participate in this situation.”",
+      "defect": "The repeated, formal “request” flattens 러브콜, a conspicuous colloquial metaphor for actively courting or recruiting someone, and “participate in this situation” is unnatural English.",
+      "id": "F03",
+      "rationale": "“Courting” preserves the source’s playful recruitment metaphor, while “take part in this crisis” conveys the requested involvement naturally.",
+      "replacement": "“Yes. More precisely, they were courting one particular person, asking him to take part in this crisis.”",
+      "severity": "major",
+      "source": "“네. 정확히는 한 사람을 향한 러브콜이었죠. 이번 사태에 참여해 달라는.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Jongseok?”\n\n“The General Secretary! The President—the President of the country!”\n\n“Oh, for fuck’s sake.”",
+      "defect": "The central joke is inaccessible in English because the draft gives no indication that Taekyung misheard 총서기 as the personal name 종석. The final line also reads as irritation, whereas the source is a startled, profane exclamation.",
+      "id": "F04",
+      "rationale": "The footnote makes the untranslatable sound-based misunderstanding legible without rewriting the joke, and “Holy shit” preserves the narrator’s shocked comic reaction.",
+      "replacement": "“Jongseok?”[^1]\n\n“The General Secretary! The President—the President of the country!”\n\n“Holy shit.”\n\n[^1]: Taekyung mishears *chongseogi* (“general secretary”) as the Korean given name Jongseok.",
+      "severity": "major",
+      "source": "“종석이요?”\n\n“총서기! 국가 주석, 국가 주석이라고!”\n\n오메, 시벌."
+    },
+    {
+      "confidence": 0.99,
+      "current": "It shows a small city near Nanchung, Sichuan Province.",
+      "defect": "“Nanchung” is not the standard English romanization of 난충시.",
+      "id": "F05",
+      "rationale": "The established pinyin spelling of the Sichuan city is Nanchong.",
+      "replacement": "It shows a small city near Nanchong, Sichuan Province.",
+      "severity": "minor",
+      "source": "쓰촨성 난충시 인근의 소도시"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“A human object.”",
+      "defect": "“A human object” is an unnatural literal rendering and can suggest an object made from a human rather than a device belonging to humans.",
+      "id": "F06",
+      "rationale": "The Lich is identifying the drone as human-made technology; “device” conveys that meaning clearly, while “I see” reflects the recognizing tone of 이로군.",
+      "replacement": "“A human device, I see.”",
+      "severity": "minor",
+      "source": "「인간의 물건이로군.」"
+    },
+    {
+      "confidence": 0.93,
+      "current": "Firmly shining eyes and the killing intent to slaughter their enemies.",
+      "defect": "“Firmly shining eyes” is not an idiomatic English collocation and obscures that the eyes convey determination or resolve.",
+      "id": "F07",
+      "rationale": "The replacement preserves the source’s fragmentary emphasis and contrast while rendering 굳게 빛나는 naturally.",
+      "replacement": "Eyes shining with resolve, and killing intent directed at the enemy.",
+      "severity": "minor",
+      "source": "굳게 빛나는 눈동자와 적을 죽이려는 살의(殺意)."
+    }
+  ],
+  "summary": "Several actionable issues remain, chiefly lost wordplay and register, an omitted emotional cue, and localized terminology or phrasing problems.",
+  "version": 1
+}

@@ -985,3 +985,13 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 내신 | **school grades** | School-record grades referenced in Taekyung’s insult. |
 | 파블로프 | **Pavlov** | Reference to Pavlov’s dogs. |
 | 중국 | **China** | Country from which Team Leader Choi’s video originates. |
+| 몬스터 웨이브 | **Monster Wave** | Catastrophic release of monsters when Gate mana exceeds its capacity. |
+| 리치 | **Lich** | Named Monster; fallen archmage and apex undead monster. |
+| 공안 무력부 | **Public Security Armed Forces Division** | Chinese state Hunter force deployed against the Monster Wave. |
+| 오성홍기 | **Five-Starred Red Flag** | China's national flag. |
+| 쓰촨성 | **Sichuan Province** | Source spelling variant of the established Sichuan location. |
+| 난충시 | **Nanchong City** | City near the disaster site shown in the reconnaissance footage. |
+| 중화인민공화국 | **People's Republic of China** | Formal country name shouted by the Chinese Hunters. |
+| 중앙위원회 총서기 | **General Secretary of the Central Committee** | Office held by Xiao Yang. |
+| 빙빙 | **Bingbing** | Name or nickname of the child in the Monster Wave footage. |
+| 샤오 양 | **Xiao Yang** | General Secretary of China's Central Committee who specifically requests Taekyung's participation. |
