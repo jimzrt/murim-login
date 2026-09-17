@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Mr. Lee! Patient Im Hyeokjun is conscious!”",
+      "defect": "The nurse addresses Taekyung as Mr. Lee even though his surname is Jin, creating a direct name-continuity error.",
+      "id": "C01",
+      "rationale": "Taekyung immediately responds to the announcement, and no relevant Mr. Lee is present in the scene.",
+      "replacement": "“Mr. Jin! Patient Im Hyeokjun is conscious!”",
+      "severity": "major",
+      "source": "Chapter 286, nurse announcing Im Hyeokjun's recovery"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Lee visits the hospital and confronts Team Leader Choi and Butler Kim, exposing their shared history: Choi once served Ares, while Kim saved Lee during the Mapo Bridge collapse but now despises him.",
+      "defect": "The Mapo Bridge rescue is not revealed anywhere in the supplied reading copies, so the summary introduces an unsupported and potentially spoiler-sensitive detail.",
+      "id": "C02",
+      "rationale": "The replacement preserves only what Chapters 287–288 explicitly establish: Choi's service in Ares, Kim's eighteen-year separation from Lee, and Kim's hostility.",
+      "replacement": "Lee visits the hospital and confronts Team Leader Choi and Butler Kim, exposing their shared history: Choi once served Ares, while Kim last saw Lee eighteen years ago and now openly despises him.",
+      "severity": "major",
+      "source": "Checkpoint summary, Plot paragraph 2"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Butler Kim saved Lee Jungryong during the collapse of Mapo Bridge eighteen years earlier and now deeply regrets doing so.",
+      "defect": "This continuity entry records a specific rescue and location that are not disclosed in the supplied chapters.",
+      "id": "C03",
+      "rationale": "This keeps the durable continuity bounded to information actually revealed through Chapter 289.",
+      "replacement": "Butler Kim last saw Lee Jungryong eighteen years earlier and now openly despises him.",
+      "severity": "major",
+      "source": "Checkpoint summary, Continuity bullet for Butler Kim"
+    },
+    {
+      "confidence": 0.94,
+      "current": "Ares Guild conceals the confrontation and abandons Jihoon after minimal treatment.",
+      "defect": "The summary presents Lee Jungryong's orders as completed actions, although the reading copy only confirms that concealment is underway and that Jihoon is ordered to receive minimal treatment and be abandoned.",
+      "id": "C04",
+      "rationale": "The revised wording preserves the distinction between an issued order and its confirmed execution.",
+      "replacement": "Ares Guild moves to conceal the confrontation, and Lee orders Jihoon to receive minimal treatment before being abandoned.",
+      "severity": "minor",
+      "source": "Checkpoint summary, Plot paragraph 1"
+    },
+    {
+      "confidence": 0.98,
+      "current": "He had hurriedly raised his arms to protect his face, but the punch carrying monstrous force had broken through them and slammed into his face.",
+      "defect": "This retrospective changes the singular guarding arm described in Chapter 287 into both arms.",
+      "id": "C05",
+      "rationale": "The replacement matches the original action while retaining Go Jun's description of the punch overpowering his defense.",
+      "replacement": "He had hurriedly raised an arm to protect his face, but the punch carrying monstrous force had broken through his guard and slammed into his face.",
+      "severity": "minor",
+      "source": "Chapter 288, Go Jun recalling Taekyung's counterattack"
+    },
+    {
+      "confidence": 0.95,
+      "current": "Team Leader Choi was that Cheon Taemin’s sole grandson through his daughter.",
+      "defect": "The categorical word “sole” overstates what is known and conflicts with the following paragraph's uncertainty about whether Choi is Cheon Taemin's only heir.",
+      "id": "C06",
+      "rationale": "This preserves the revealed maternal relationship without asserting exclusivity that the narrator has not confirmed.",
+      "replacement": "Team Leader Choi was that Cheon Taemin’s grandson through his daughter.",
+      "severity": "minor",
+      "source": "Chapter 288, narration after comparing Team Leader Choi with Cheon Taemin"
+    },
+    {
+      "confidence": 0.97,
+      "current": "He had no face to show Lee Jungryong.",
+      "defect": "The sentence is a conspicuous Korean idiom calque and sounds unnatural in otherwise contemporary narration.",
+      "id": "C07",
+      "rationale": "The replacement naturally conveys Go Jun's shame without changing its cause or intensity.",
+      "replacement": "He couldn’t bear to face Lee Jungryong after that.",
+      "severity": "minor",
+      "source": "Chapter 288, Go Jun reflecting on his defeat"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The achievements and Fame built in his name would remain immortal and be passed down through the generations.",
+      "defect": "“Fame” is capitalized as though it were a System term even though it is ordinary prose here.",
+      "id": "C08",
+      "rationale": "Lowercasing prevents an unintended System-stat implication and restores normal prose formatting.",
+      "replacement": "The achievements and fame built in his name would remain immortal and be passed down through the generations.",
+      "severity": "minor",
+      "source": "Chapter 288, Taekyung reflecting on Cheon Taemin's legacy"
+    }
+  ],
+  "summary": "The reading copies are generally coherent and maintain the established action-comedy voice. Actionable issues include one incorrect form of address, an unrevealed Mapo Bridge detail appearing twice in the checkpoint material, two small continuity overstatements, and a few localized prose or terminology slips.",
+  "version": 1
+}

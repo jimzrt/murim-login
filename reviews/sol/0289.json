@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Well, quitting the Guild, retiring, and farming with Butler Kim wouldn’t be so bad.",
+      "defect": "The draft turns shutting down the Guild into personally quitting it, changing the proposed action.",
+      "id": "F01",
+      "rationale": "길드 접고 means closing or disbanding the Guild, not merely leaving it.",
+      "replacement": "Well, shutting down the Guild, retiring, and farming with Butler Kim wouldn’t be so bad.",
+      "severity": "critical",
+      "source": "뭐, 길드 접고 은퇴해서 김 집사님이랑 농사짓는 것도 나쁘진 않네요."
+    },
+    {
+      "confidence": 0.97,
+      "current": "If you send me away, send Uncle Kkeokjeong and Song-i away too, and even the new recruits leave, are you two still planning to fight Ares Guild?",
+      "defect": "The English makes “send Uncle Kkeokjeong and Song-i away” read as an imperative rather than another condition in Taekyung’s hypothetical.",
+      "id": "F02",
+      "rationale": "All three departures are hypothetical conditions leading to Taekyung’s question about whether Choi and Butler Kim would fight alone.",
+      "replacement": "If you send me away, send Uncle Kkeokjeong and Song-i away as well, and even the new recruits leave, do you two plan to fight Ares Guild by yourselves?",
+      "severity": "major",
+      "source": "나 내보내고, 꺽정 아저씨랑 송이도 보내고. 새로 받아들인 신입들까지 떠나면 두 분께서 아레스 길드와 싸울 생각입니까?"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“But they’re still not enough?”",
+      "defect": "The draft makes Taekyung’s accomplishments the subject, while Taekyung is asking whether he himself is insufficient.",
+      "id": "F03",
+      "rationale": "The omitted Korean subject is established by the surrounding assessment of Jin Taekyung and Choi’s subsequent calculation of his value.",
+      "replacement": "“But I’m still not enough?”",
+      "severity": "major",
+      "source": "그렇지만 부족하다?"
+    },
+    {
+      "confidence": 0.99,
+      "current": "I had hunted Named Monsters alone, crushed nearly thirty Black Hunters, and stood face-to-face against a major Guild like Myeongdong Guild.",
+      "defect": "The draft changes the single Named Monster Taekyung hunted into multiple Named Monsters.",
+      "id": "F04",
+      "rationale": "The source refers to 네임드 몬스터 in the singular context of Taekyung’s established feat, and 정면으로 맞섰다 means confronting the Guild head-on.",
+      "replacement": "I had hunted a Named Monster alone, crushed nearly thirty Black Hunters, and confronted a major Guild like Myeongdong Guild head-on.",
+      "severity": "critical",
+      "source": "단신으로 네임드 몬스터를 사냥하고, 서른에 달하는 블랙 헌터를 갈아 버렸으며 명동 길드라는 대형 길드와 정면으로 맞섰다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Because they promised me twice my salary.”",
+      "defect": "The draft replaces the identifiable singular subject, Team Leader Choi, with an unspecified plural subject.",
+      "id": "F05",
+      "rationale": "The honorific singular construction 주신댔거든 and the immediately preceding reference to following Team Leader Choi identify him as the person who made the promise.",
+      "replacement": "“Because Team Leader Choi promised me double my salary.”",
+      "severity": "major",
+      "source": "연봉 두 배로 챙겨 주신댔거든."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Then, among the densely packed holographic windows, I found what I wanted.",
+      "defect": "The draft changes one holographic window packed with entries into multiple holographic windows.",
+      "id": "F06",
+      "rationale": "창 is singular here, while 빼곡하게 적힌 describes the contents displayed within that window.",
+      "replacement": "Then, in the holographic window packed with entries, I found what I wanted.",
+      "severity": "critical",
+      "source": "그리고 빼곡하게 적힌 홀로그램 창에서 내가 원하는 것을 발견할 수 있었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Something in my words reached Team Leader Choi.",
+      "defect": "The draft omits that Choi specifically recognizes the sincerity carried in Taekyung’s words.",
+      "id": "F07",
+      "rationale": "진심 is an explicit characterization cue explaining why hope begins to enter Choi’s eyes.",
+      "replacement": "Team Leader Choi sensed the sincerity behind my words.",
+      "severity": "major",
+      "source": "내 말에 실린 진심을 느낀 최 팀장의 눈동자에 빛이 스며든다."
+    },
+    {
+      "confidence": 0.92,
+      "current": "People treated him as nothing more than a low-rank Hunter in name, but Im Kkeokjeong was one of the few real Hunters left in this age.",
+      "defect": "“A low-rank Hunter in name” suggests his low rank is merely nominal, rather than conveying that people dismiss him as a hollow, unimpressive low-rank Hunter.",
+      "id": "F08",
+      "rationale": "허울뿐인 characterizes how others regard him as all title and no substance, setting up the contrast with his genuine sense of duty.",
+      "replacement": "People dismissed him as a low-rank Hunter with nothing but the title, but Im Kkeokjeong was one of the few true Hunters left in this age.",
+      "severity": "major",
+      "source": "사람들은 그를 허울뿐인 하급 헌터라 취급하지만, 임꺽정야말로 이 시대에 몇 남지 않은 진짜 헌터다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Team Leader Choi’s face was undergoing a huge, violent upheaval unlike anything I had ever seen before.",
+      "defect": "“Face was undergoing an upheaval” is an unnatural literal collocation in English.",
+      "id": "F09",
+      "rationale": "The replacement naturally conveys the unprecedented, intense agitation visible on his face without changing the action.",
+      "replacement": "Team Leader Choi looked more violently shaken than I had ever seen him before.",
+      "severity": "minor",
+      "source": "최 팀장의 얼굴에는 지금까지 본 적 없는, 크고 격렬한 동요가 일어나고 있었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Unlike their boiling hearts, their cool heads had already calculated the answer.",
+      "defect": "“Unlike their boiling hearts” is an awkward Korean-syntax calque.",
+      "id": "F10",
+      "rationale": "The replacement preserves the contrast between their heated emotions and dispassionate reasoning in natural English.",
+      "replacement": "Their blood might have been boiling, but their cool heads had already calculated the answer.",
+      "severity": "minor",
+      "source": "끓어오르는 가슴과는 달리 냉철한 두뇌는 이미 답을 계산해 냈다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "I know a considerable part of Ares Guild, if not everything about it.",
+      "defect": "“Know a considerable part of Ares Guild” is an unnatural collocation and can suggest knowing a physical subdivision rather than extensive information.",
+      "id": "F11",
+      "rationale": "상당 부분을 알고 있다 means possessing substantial knowledge about the Guild.",
+      "replacement": "I may not know everything about Ares Guild, but I know a great deal.",
+      "severity": "minor",
+      "source": "아레스 길드의 전부까지는 아니더라도, 상당 부분을 알고 있습니다."
+    }
+  ],
+  "summary": "The draft contains several actionable fidelity errors, including altered actions, subjects, quantities, and UI structure, plus omissions affecting characterization and register.",
+  "version": 1
+}

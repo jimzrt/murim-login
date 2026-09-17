@@ -1,26 +1,28 @@
 # Translation State
 
-- Last completed: 288
-- Next chapter: 289
-- Current block: 285–289 (4/5)
-- Latest translation: `translations/0288.md`
-- Latest summary: `summaries/beats/0288.md`
-- Safe profiles through: chapter 288
+- Last completed: 289
+- Next chapter: 290
+- Current block: 285–289 (5/5)
+- Latest translation: `translations/0289.md`
+- Latest summary: `summaries/beats/0289.md`
+- Safe profiles through: chapter 289
 
 ## Current Block
 
-- Lee Jungryong restores Go Jun's strength by channeling mana into his injured arm. Go Jun reports that Jin Taekyung's strength and speed surpassed his own, that Taekyung possesses extensive combat experience, and that Taekyung has learned a mana cultivation method. Lee confirms that this explains Taekyung's extraordinary growth and orders Go Jun to intensify surveillance of the Peace Guild, assess its useful personnel, reinforce the security team, and monitor Ares executives and overseas branches.
-- Lee Jungryong recalls meeting Cheon Taemin at age thirty and becoming captivated by him, regarding the unrelated man as an older brother despite their lack of blood relation. Meanwhile, Team Leader Choi explains the pressure Lee placed on him and the Peace Guild, then offers to terminate the Guild's contracts to protect its members. Taekyung rejects the offer and declares that they will become stronger, promising to make them strong himself.
+- Jin Taekyung convinces Team Leader Choi not to abandon the Peace Guild despite Ares Guild's overwhelming strength. Choi reveals that Ares officially has more than one hundred A-rank Hunters besides Lee Jungryong, along with countless mid- and low-rank Hunters and additional undisclosed forces.
+- Butler Kim, Song Song, and Im Kkeokjeong each choose to remain with the Peace Guild. Song Song demands double pay and hazard compensation, while Im Kkeokjeong decides to continue his Hunter work after recovering from his injuries. Taekyung then discovers the Martial Arts Manual Creation Skill, which requires at least 300 sheets of A4 paper.
 
 ## Open Questions
 
 - Who taught Jin Taekyung the mana cultivation method?
 - What history led Lee Jungryong to regard the unrelated Cheon Taemin as his older brother?
+- How extensive are Ares Guild's undisclosed forces beyond its officially registered Hunters?
+- Will Im Kkeokjeong's reattached arms recover sufficiently for him to return to Hunter work?
 
 ## Exceptional Decision
 
-- Render 마나 연공법 as "mana cultivation method."
-- Render 형님 as "older brother" in Lee Jungryong's internal address to Cheon Taemin while preserving the chosen-kinship context.
+- Render 비급제작 as "Martial Arts Manual Creation."
+- Render A4 용지 as "A4 paper."
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
