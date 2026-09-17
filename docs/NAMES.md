@@ -734,3 +734,12 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 제왕검형 | **Emperor's Sword Form** | Sword form invoked by the Azure Sky Sword King. |
 | 삼초살 | **Three-Move Kill** | Sudden Quest requiring Taekyung to withstand three moves. |
 | 남만 | **Nanman** | Historical regional term used for the source of the imported ebony. |
+| 오기조원 | **Five Qi Returning to Origin** | High martial realm displayed by Jeok Cheongang. |
+| 잠룡 | **Hidden Dragon** | Epithet or metaphor for Jin Taekyung. |
+| 검왕 | **Sword King** | Short form for the Azure Sky Sword King, Nangong Cheon. |
+| 대성 | **Great Completion** | Completion stage of a martial technique. |
+| 흑산채 | **Black Mountain Stronghold** | Bandit organization on a major route between Henan and Anhui. |
+| 흑종필 | **Heuk Jongpil** | Leader of Black Mountain Stronghold. |
+| 금와상단 | **Geumwa Merchant Group** | Merchant group targeted by Black Mountain Stronghold. |
+| 녹림맹 | **Green Forest Alliance** | Bandit alliance receiving Black Mountain Stronghold’s tribute. |
+| 묘안석 | **cat’s-eye stone** | Valuable stone used as an example of a profitable haul. |

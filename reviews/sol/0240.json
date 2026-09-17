@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“You know where. I went to see Family Head Namgung Ryong.”",
+      "defect": "The translation omits 대협, removing Taekyung’s deferential title for Namgung Ryong.",
+      "id": "F01",
+      "rationale": "The source explicitly uses 대협 alongside Namgung Ryong’s position as Family Head, so both the title and office should be preserved.",
+      "replacement": "“You know where. I went to see Great Hero Namgung Ryong, the Family Head.”",
+      "severity": "minor",
+      "source": "아시잖아요. 가주이신 남궁룡 대협 뵙고 온 거."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Watching the shackles that had been cinched tight by brute force.",
+      "defect": "The translation omits 급하게, losing the clue that the shackles were hastily forced shut to conceal what had happened.",
+      "id": "F02",
+      "rationale": "The haste is a meaningful observational clue connected to Taekyung’s secretly removing and replacing his restraints.",
+      "replacement": "Watching the shackles that had been hastily forced shut.",
+      "severity": "major",
+      "source": "급하게 힘으로 오므려 채워 놓은 족쇄와 예리하게 잘려 나간 소매 끝을 바라보고 있음을."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“……I still haven’t broken past the three-stage barrier.”\n\n“At your age, this father had mastered the Emperor’s Sword Form to seven stages. I believe it was around then that the world began calling me the Sword King.”",
+      "defect": "삼 성 and 칠 성 denote three-tenths and seven-tenths proficiency, not discrete third and seventh stages.",
+      "id": "F03",
+      "rationale": "The source measures degree of mastery in tenths, as confirmed by the later use of 이 성, 삼 성, and 육 성 for fractions of strength.",
+      "replacement": "“……I still haven’t broken through the barrier of three-tenths mastery.”\n\n“At your age, this father had achieved seven-tenths mastery of the Emperor’s Sword Form. I believe it was around then that the world began calling me the Sword King.”",
+      "severity": "major",
+      "source": "“……아직 삼 성의 벽을 넘지 못했습니다.”\n\n“지금 네 나이 때, 이 아비는 제왕검형을 칠 성까지 익혔다. 아마 그 무렵인 듯싶구나. 천하가 나를 검왕이라 부르기 시작한 것이.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“More than twenty years ago, when my martial arts reached the eighth stage, I suddenly began to wonder. I wanted to test my sword.”",
+      "defect": "팔 성 describes eight-tenths proficiency, not an eighth formal stage.",
+      "id": "F04",
+      "rationale": "화후 refers to the depth or maturity of his martial attainment, measured here as eight-tenths.",
+      "replacement": "“More than twenty years ago, when my proficiency in martial arts reached eight-tenths, a question suddenly occurred to me. I wanted to test my sword.”",
+      "severity": "major",
+      "source": "“이십여 년 전, 무공의 화후가 팔 성에 이르자 문득 의문이 들었다. 내 검을 시험해 보고 싶었지.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Like the great martial artist he was, the Azure Sky Sword King had reached its ninth stage after roughly a century.",
+      "defect": "The draft says Nangong Cheon took roughly a century to attain the level. The source says he was the first person in roughly a century to reach nine-tenths mastery.",
+      "id": "F05",
+      "rationale": "약 백 년 만에 gives the historical interval since the feat was last achieved, while 구성 means nine-tenths mastery rather than a ninth stage.",
+      "replacement": "True to his greatness as a martial artist, the Azure Sky Sword King had become the first in roughly a century to reach nine-tenths mastery of the Emperor’s Sword Form.",
+      "severity": "critical",
+      "source": "창천검왕은 위대한 무인답게 약 백 년 만에 제왕검형의 구성(九成)에 도달한 것이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "All that remained where he had departed was a single sword strike, hundreds of trees and rocks severed by that strike, and the sorrowful cries of birds that had suddenly lost their homes.",
+      "defect": "The draft invents one sword strike that severed every tree and rock. The source describes the devastation left by successive individual sword strokes.",
+      "id": "F06",
+      "rationale": "일 검, 일 검에 means stroke by stroke or with each sword stroke; it does not identify a single strike as the cause of all the destruction.",
+      "replacement": "All that remained where he had departed were hundreds of trees and rocks hewn down, one sword stroke after another, and the sorrowful cries of birds that had suddenly lost their homes.",
+      "severity": "critical",
+      "source": "그가 떠난 자리에 남은 것은 일 검, 일 검에 잘려나간 수백 그루의 나무와 바위. 졸지에 집을 잃은 새들의 구슬픈 울음소리가 전부였다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“You idiot! Don’t you know we’re all illiterate? Read it aloud!”",
+      "defect": "The draft makes the entire group illiterate even though the subordinate is expected to read the letter. The omitted subject is Heuk Jongpil himself, with 다 intensifying how completely unable he is to read.",
+      "id": "F07",
+      "rationale": "The exchange hinges on the subordinate handing a written message to his illiterate boss, who orders that subordinate to read it for him.",
+      "replacement": "“You bastard! Don’t you know I can’t read at all? Read it aloud!”",
+      "severity": "critical",
+      "source": "“이 새끼가, 다 까막눈인 거 몰라? 읊어!”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“You murderous little—! Go break all four of their limbs.”",
+      "defect": "The draft misconstrues 쳐 죽일 as an accusation that Taekyung is murderous. It is an angry insult directed at him.",
+      "id": "F08",
+      "rationale": "쳐 죽일 functions here as strong irritated profanity, not as a description of Taekyung’s conduct or intent.",
+      "replacement": "“You little shit! Go break all four of their limbs.”",
+      "severity": "major",
+      "source": "“이런 쳐 죽일! 가서 사지를 부러트려라.”"
+    }
+  ],
+  "summary": "Several substantive fidelity issues alter hierarchy, concealment cues, martial-arts proficiency, elapsed history, the aftermath of the duel, and a bandit’s subject reference.",
+  "version": 1
+}
