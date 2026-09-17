@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“I don’t know. If my guess is right, his eyes may roll back in his head, and I have no idea what he might do.”",
+      "defect": "The draft changes the implied subject from Taekyung to an unidentified third party. Taekyung is saying that if his suspicion proves correct, he himself may lose control.",
+      "id": "F01",
+      "rationale": "The surrounding exchange concerns what Taekyung plans to do, and his next answer concedes that he may storm Myeongdong Guild. The third-person pronouns alter the actor and meaning of the warning.",
+      "replacement": "“Hard to say. If my hunch is right, I might see red, and even I don’t know what I’ll do.”",
+      "severity": "critical",
+      "source": "‘글쎄요. 제 짐작이 맞으면 눈깔이 뒤집혀서 무슨 짓을 할지 모르겠는데.’"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Over the middle-aged man’s shoulder, he spotted more than a hundred Myeongdong Guild members lying collapsed on the floor. His eyes widened.",
+      "defect": "The draft turns an approximate quantity into a definite lower bound.",
+      "id": "F02",
+      "rationale": "백여 명 means approximately one hundred people, not specifically more than one hundred.",
+      "replacement": "Over the middle-aged man’s shoulder, he spotted roughly a hundred Myeongdong Guild members lying collapsed on the floor. His eyes widened.",
+      "severity": "minor",
+      "source": "중년 사내의 어깨너머, 쓰러져 있는 백여 명의 명동 길드원들을 발견한 그가 눈을 부릅떴다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Was it about twenty years ago? One day, you came to me and dropped to your knees without so much as a word.”",
+      "defect": "The draft adds that Park Tae Seop said nothing, whereas the source only says that he abruptly dropped to his knees.",
+      "id": "F03",
+      "rationale": "대뜸 conveys suddenness or lack of preamble, not literal silence.",
+      "replacement": "“Was it about twenty years ago? One day, you came to me and abruptly dropped to your knees.”",
+      "severity": "minor",
+      "source": "“20년쯤 전인가. 어느 날 자네가 나를 찾아와 대뜸 무릎을 꿇었었지.”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "“I was just testing him. I wanted to see how he would respond.”",
+      "defect": "The draft supplies a masculine singular target that the Korean omits, making the probe appear to concern Park Tae Seop. The following explanation instead frames the entire operation as a tentative probe conducted through the half-baked Myeongdong operatives.",
+      "id": "F04",
+      "rationale": "The source leaves the target of the probe implicit. Preserving that ambiguity avoids falsely identifying Park Tae Seop as the person Lee Jungryong was testing.",
+      "replacement": "“I only gave things a little prod. I wanted to see what the response would be.”",
+      "severity": "major",
+      "source": "“한번 찔러 본 거라는 말일세. 어떻게 대응할지 궁금했거든.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "The mages had simply blanketed everything within a radius of more than two hundred meters with an illusion spell. It was something they could do because they were A-rank mages of Ares Guild, which selected only the best.",
+      "defect": "The draft loses the source’s emphasis on the spell’s brute-force extravagance and changes an approximate two-hundred-meter radius into more than two hundred meters.",
+      "id": "F05",
+      "rationale": "무식하게도 characterizes the method as crudely overwhelming, while 이백여 미터 indicates an approximate radius.",
+      "replacement": "In a brute-force move, the mages had blanketed everything within a radius of roughly two hundred meters with an illusion spell. They could pull it off because they were A-rank mages of Ares Guild, which selected only the best.",
+      "severity": "minor",
+      "source": "그들은 무식하게도 환영 마법으로 반경 이백여 미터를 덮어 버렸다. 최고만 가려 뽑는 아레스 길드의 A급 마법사이기에 할 수 있는 일이다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "Through Park Jihoon, Lee Jungryong had confirmed the poison in Jin Taekyung’s heart.",
+      "defect": "The literal phrase “poison in Jin Taekyung’s heart” is opaque and does not naturally convey Lee Jungryong’s assessment of Taekyung’s capacity for ruthlessness.",
+      "id": "F06",
+      "rationale": "독심 here denotes a ruthless or vicious disposition, which Lee evaluates by observing how far Taekyung is willing to go against Park Jihoon.",
+      "replacement": "Through Park Jihoon, Lee Jungryong had gotten a measure of Jin Taekyung’s ruthlessness.",
+      "severity": "minor",
+      "source": "박지훈을 통해 진태경의 독심(毒心)을 확인할 수 있었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "*That ineptitude will become poison later.*",
+      "defect": "“Ineptitude” attributes a lack of competence, but Lee Jungryong is condemning Taekyung’s incomplete measure—mutilating Park Jihoon without finishing him.",
+      "id": "F07",
+      "rationale": "그 어설픔 refers to the incompleteness of Taekyung’s revenge and his failure to take the final step of killing his enemy, not deficient fighting skill.",
+      "replacement": "*That half measure will come back to poison you someday.*",
+      "severity": "major",
+      "source": "‘그 어설픔이 나중에 독이 될 게다.’"
+    }
+  ],
+  "summary": "One critical subject error and several localized fidelity, ambiguity, quantity, and terminology issues.",
+  "version": 1
+}

@@ -909,3 +909,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 그분 | **that person** | Unidentified figure whom Jihoon reveres and credits with disabling cameras and microphones. |
 | 어른폰 | **AdultPhone** | Taekyung’s Korean pun on iPhone; retain the child/adult explanation in a footnote. |
 | 행신동 불닭볶음손 | **Haengsin-dong Fire-Chicken Stir-Fried Hand** | Taekyung's former nickname for his painful hand strike; the translation preserves the buldak-bokkeum-myeon/son pun. |
+| 산군 | **mountain lord** | Traditional epithet for a tiger; retain an explanatory footnote on first use. |
+| 석 팀장 | **Team Leader Seok** | Lee Jungryong's security-team leader and direct Disciple. |
+| 고준 | **Go Jun** | Personal name of Team Leader Seok; Lee Jungryong's prized Disciple. |

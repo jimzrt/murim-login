@@ -1,37 +1,36 @@
 # Translation State
 
-- Last completed: 284
-- Next chapter: 285
-- Current block: 280–284 (5/5)
-- Latest translation: `translations/0284.md`
-- Latest summary: `summaries/beats/0284.md`
-- Safe profiles through: chapter 284
+- Last completed: 285
+- Next chapter: 286
+- Current block: 285–289 (1/5)
+- Latest translation: `translations/0285.md`
+- Latest summary: `summaries/beats/0285.md`
+- Safe profiles through: chapter 285
 
 ## Current Block
 
-- Lee Jungryong arrives at Park Tae Seop's ruined office without being detected, revealing himself as Ares Guild's Vice Guild Master, one of Korea's two S-rank Hunters, and a Supreme Peak master. He claims Park Tae Seop is merely an acquaintance and Park Jihoon a stranger, while offering to resolve the situation. Taekyung refuses to release them, demands an apology, compensation, and one person's life, and implies that Jihoon must answer for the injuries inflicted on Kkeokjeong. Lee attacks with a red-aura palm, but Taekyung counters with Flame Divine Palm; Taekyung is injured while Lee remains standing. Taekyung then repeatedly stabs and mutilates Jihoon, severing both arms and seriously injuring his leg and shoulder, while Lee is restrained by the dagger at Jihoon's throat. Jihoon cries out to Lee as his Master, revealing their master-Disciple relationship. Taekyung leaves Jihoon alive but warns that his life as a Hunter may be over, and threatens to collapse the building and expose the incident publicly.
+- After Lee Jungryong withdraws with the mutilated Park Jihoon, Jin Taekyung reflects that he took three steps back in their clash but intends to surpass Lee. He credits the confrontation with securing revenge and tacit promises of apology and compensation for Im Kkeokjeong, while giving the Peace Guild an opportunity to grow. Team Leader Choi had approved Taekyung's retaliation and promised to take responsibility for any result, reaffirming that he trusts Taekyung deeply.
+- Lee Jungryong brings Park Tae Seop to a hall occupied by his own forces, revealing that his anguished concern for Jihoon was an act. He reminds Park of the financial crisis twenty years earlier when Park begged for help, and of Park's promise to do anything in return. Park has since committed numerous crimes for Lee and remains bound by that debt. Lee assures him that the Myeongdong Guild members will live, but his threat remains clear.
+- Lee's forces use sleep magic to incapacitate roughly a hundred Myeongdong Guild members and cover the surrounding area with a two-hundred-meter illusion so the public will not notice the battle. Lee orders dangerous witnesses to have their memories altered and commands that Jihoon receive only enough treatment to be abandoned somewhere. He orders Team Leader Seok, whose personal name is Go Jun and who is Lee's prized Disciple and right-hand man, to watch Taekyung closely. Lee privately recognizes that Taekyung is no ordinary opponent and questions whether Go Jun is truly stronger than him.
 
 ## Open Questions
 
+- What source or explanation does Lee Jungryong suspect for Taekyung's sudden growth and mana control?
+- Is Go Jun truly stronger than Jin Taekyung?
+- What will happen to Park Jihoon after Lee orders him treated only minimally and abandoned?
+- How will Park Tae Seop respond to Lee Jungryong's renewed threat and his own long-standing criminal obligation?
 - Is Lee Jungryong the unidentified 'that person,' and is Ares Guild directly behind the broader Black Hunter operation?
-- What exact authority and role did Lee Jungryong and Park Tae Seop hold in the Black Hunter operation and the blockade of Gates?
 - What happened to Team 11 after contact was lost?
 - What exact wrongdoing did Jung Hyunwoo uncover before Park Jihoon killed him?
 - Who authorized the Black Hunters to target the Peace Guild's D-rank Hunter?
-- What consequences will follow from Jihoon's mutilation and loss of both arms?
-- Will Lee Jungryong retaliate against Taekyung or attempt to contain the incident?
-- Will the proposed apology and compensation for the injured Hunter and his family be delivered or enforced?
 
 ## Exceptional Decision
 
-- Render 이정룡 as Lee Jungryong and 스승님/제자 as Master/Disciple.
-- Render 임영준 as Im Yeongjun and 블랙 헌터 as Black Hunter.
-- Render 명동 길드 as Myeongdong Guild and 평화 길드 as Peace Guild.
-- Render 11팀 as Team 11.
-- Render 그분 as 'that person' and 어른폰 as AdultPhone, retaining the child/adult pun footnote.
-- Render 행신동 불닭볶음손 as Haengsin-dong Fire-Chicken Stir-Fried Hand, retaining the buldak-bokkeum-myeon/son pun.
-- Render 흐름 as Flow when naming Taekyung's application of Mae Jonghak's movement principle.
-- Use the established renderings Ares Guild, Vice Guild Master, S-rank Hunter, Supreme Peak, and Flame Divine Palm.
+- Render 산군 as mountain lord and retain the explanatory tiger footnote.
+- Render 석 팀장 as Team Leader Seok and 고준 as Go Jun.
+- Continue rendering 부길드장 as Vice Guild Master, 제자 as Disciple, and 수면 마법 as sleep magic.
+- Render 환영 마법 as illusion magic and 정신계 마법 as mental magic.
+- Render Taekyung's 독심 in this context as ruthlessness.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
