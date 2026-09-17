@@ -968,3 +968,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 경호팀장 | **Head of Security** | Go Jun's security-team office under Lee Jungryong. |
 | 이우중 | **Lee Woojoong** | Seoul Branch President of the Hunters Association. |
 | 서울 중앙지부 헌터 협회장 | **Seoul Branch President** | Source title for Lee Woojoong; variant of the established Seoul Association title. |
+| 열화 | **Blazing Flame** | Lineage term in Taekyung's declaration as the Fire King's successor. |
