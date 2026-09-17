@@ -1,16 +1,17 @@
 # Translation State
 
-- Last completed: 267
-- Next chapter: 268
-- Current block: 265–269 (3/5)
-- Latest translation: `translations/0267.md`
-- Latest summary: `summaries/beats/0267.md`
-- Safe profiles through: chapter 267
+- Last completed: 268
+- Next chapter: 269
+- Current block: 265–269 (4/5)
+- Latest translation: `translations/0268.md`
+- Latest summary: `summaries/beats/0268.md`
+- Safe profiles through: chapter 268
 
 ## Current Block
 
-- The Blood Lord escaped through black radiance, leaving behind blood, his severed wrist, and the Green Jade Buddha Staff. The Life-or-Death Crisis then completed, restoring Jin Taekyung's body and granting him enormous EXP and two level-ups. Jongni Chu treated Cheongpung and Jeok Cheongang; Jeok's injuries were not life-threatening but left him unconscious, while Cheongpung suffered internal injuries and was expected to recover.
-- Song Ho arrived with hundreds of martial artists after the Shaolin bloodbath. He recognized Jongni Chu as Sword Saint Mae Jonghak, the man who had saved his life, and Mae confirmed his identity to Taekyung. At an unknown cavern, the severely wounded Blood Lord received treatment from sorcerers after delivering the Green Jade Buddha Staff; he killed subordinates who displeased him and swore to kill Mae, Jeok, Cheongpung, and Taekyung with his own hands.
+- Rumors of Hong Dao's death and the bloodbath at Shaolin Temple spread rapidly through Henan Province, throwing the region into turmoil. Conflicting reports blame the Demonic Cult, the Yin-Yang Twin Freaks, or the Heavenly Demon, while the orthodox faction's leaders gather at the former Murim Alliance site to contain the crisis. Jin Taekyung expects a war larger than the conflict in Shanxi Province and recognizes that Dark Heaven is connected to the Temporary Strength Pill once used by Pung Yang.
+- Taekyung remains beside the unconscious Jeok Cheongang at a pavilion guarded by the Jin Dragon Squad. A physician can do nothing for Jeok's exhaustion after using the Dance of the Fire God and Demon, but confirms that his life is not currently in danger. Hyuk Mujin has been assigned to protect Jeok and Taekyung, though Taekyung discovers that Mujin abandoned his guard duty to gamble at the Star-Array Grand Banquet and lost a hundred thousand silver nyang after briefly winning the same amount.
+- After Taekyung and Hyuk Mujin's exchange, Mae Jonghak rises more than ten jang to land on the window and asks Taekyung to speak with him as a friend.
 
 ## Open Questions
 
