@@ -1,6 +1,6 @@
 # Park Jihoon (박지훈)
 
-- **Safe through:** Chapter 91
+- **Safe through:** Chapter 271
 - **Aliases:** Park Jihwang
 - **Role:** Hunter in Team 1 of Myeongdong Guild; Jin Taekyung's former middle-school classmate
 - **Personality:** Outgoing and teasing in conversation; privately says that he and Taekyung were not close

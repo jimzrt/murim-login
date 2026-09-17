@@ -883,3 +883,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 파이어 월 | **Fire Wall** | Fire spell cast by Butler Kim. |
 | 내가중수법 | **Inner-Family Heavy Hand** | Taekyung's joking comparison for his mother's painful palm strike. |
 | 모친신장 | **Mother's Palm Strike** | Taekyung's humorous name for the beating delivered by his mother. |
+| 국정원 | **NIS** | South Korea's National Intelligence Service, mentioned in Taekyung's joke. |
