@@ -1,0 +1,72 @@
+---
+const apiUrl = import.meta.env.PUBLIC_VIEW_COUNT_URL ?? "https://murim-login.com/view-counts";
+---
+
+<div hidden data-view-counters data-view-count-url={apiUrl}></div>
+
+<script>
+  function formatCount(value: number) {
+    if (value >= 1_000_000) {
+      return `${(value / 1_000_000).toFixed(1).replace(/\.0$/, "")}M`;
+    }
+    if (value >= 10_000) {
+      return `${Math.round(value / 1000)}k`;
+    }
+    if (value >= 1000) {
+      return `${(value / 1000).toFixed(1).replace(/\.0$/, "")}k`;
+    }
+    return String(value);
+  }
+
+  async function mountViewCounters() {
+    const boot = document.querySelector<HTMLElement>("[data-view-counters]");
+    const nodes = [...document.querySelectorAll<HTMLElement>(".view-counter[data-chapter]")];
+    if (!boot || !nodes.length || !navigator.onLine) {
+      return;
+    }
+    const apiUrl = boot.dataset.viewCountUrl;
+    if (!apiUrl) {
+      return;
+    }
+
+    const chapters = [
+      ...new Set(
+        nodes
+          .map((node) => Number(node.dataset.chapter))
+          .filter((chapter) => Number.isInteger(chapter) && chapter > 0),
+      ),
+    ];
+    if (!chapters.length) {
+      return;
+    }
+
+    try {
+      const response = await fetch(apiUrl, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(chapters),
+      });
+      if (!response.ok) {
+        return;
+      }
+      const rows = (await response.json()) as Array<{ chapter: number; count: number }>;
+      const counts = new Map(rows.map((row) => [row.chapter, row.count]));
+      for (const node of nodes) {
+        const chapter = Number(node.dataset.chapter);
+        if (!Number.isInteger(chapter)) {
+          continue;
+        }
+        const count = counts.get(chapter) ?? 0;
+        node.textContent = formatCount(count);
+        node.dataset.loaded = "1";
+      }
+    } catch {
+      /* leave placeholders */
+    }
+  }
+
+  document.addEventListener("astro:page-load", () => {
+    void mountViewCounters();
+  });
+  void mountViewCounters();
+</script>
