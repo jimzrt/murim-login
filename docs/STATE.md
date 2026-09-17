@@ -1,16 +1,16 @@
 # Translation State
 
-- Last completed: 299
-- Next chapter: 300
-- Current block: 295–299 (5/5)
-- Latest translation: `translations/0299.md`
-- Latest summary: `summaries/beats/0299.md`
-- Safe profiles through: chapter 299
+- Last completed: 300
+- Next chapter: 301
+- Current block: 300–304 (1/5)
+- Latest translation: `translations/0300.md`
+- Latest summary: `summaries/beats/0300.md`
+- Safe profiles through: chapter 300
 
 ## Current Block
 
-- After delaying the rescue for one hour and eight minutes, the Seoul Branch President finally permits entry. Choi Minwoo leads more than fifty Peace Guild members into the Black Wizard's Black Forest, with Butler Kim, Im Kkeokjeong, and Song Song among them. They find a completely scorched trail, no movement or life within three hundred meters, and apparent evidence that Jin Taekyung and the Named Monster were destroyed together. The Peace Guild mourns Taekyung while the Seoul Branch President and Go Jun arrive and congratulate themselves for avoiding further casualties.
-- Go Jun taunts Choi Minwoo, blames the Peace Guild for Taekyung's apparent death, and tells him that the dead do not return. Taekyung then appears alive, mocks Go Jun for completing the forty-ninth-day memorial rite while he was away urinating, spits out phlegm, and challenges him to fight.
+- Jin Taekyung follows the Skeleton Warlord's directions back through the Black Wizard's Black Forest and discovers that the Peace Guild believes he died. He stores the Warlord's skull in his Inventory, where the Warlord remains able to communicate through their connection.
+- Go Jun and Seoul Branch President Lee Woojoong arrive with hundreds of Hunters after the delayed rescue response. Taekyung returns alive, mocks Go Jun, condemns Woojoong for prioritizing Lee Jungryong's favor over Hunter safety, and confronts Go Jun after Go Jun invokes Lee's special order and threatens him. The chapter ends as Go Jun prepares to fight.
 
 ## Open Questions
 
@@ -21,7 +21,7 @@
 - What is the origin of the large qi mass in Team Leader Choi's dantian, and what did his grandfather do to him?
 - What prevented Taekyung from completing his breakthrough into the Supreme Peak realm?
 - What caused the Skeleton Warlord's sudden magical-power increase and unusual evolution, and what will result from Taekyung's contract with it?
-- What will happen when Taekyung confronts Go Jun and the Seoul Branch President after returning alive?
+- What will happen in the confrontation between Taekyung and Go Jun, and how will Lee Jungryong respond?
 
 ## Exceptional Decision
 
@@ -32,7 +32,7 @@
 - Render 도사견 as “Tosa mastiff,” 댕댕이 as “pup,” 망자 소환 as “Summon the Dead,” and 사령관의 고무 as “Commander's Rally.”
 - Render 정몽주 as “Jeong Mong-ju,” 단심가 as “Song of My Single Heart,” 통합 언어 팩 as “Unified Language Pack,” and 우렁각시 as “snail bride” with a footnote.
 - Render 49재 as “forty-ninth-day memorial rite,” with an explanatory footnote.
-- Render 서울 중앙 협회장 as “Seoul Branch President,” 경호팀장 as “Head of Security,” and 산화하다 in the destruction context as “be oxidized.”
+- Render 이우중 as “Lee Woojoong” and 서울 중앙지부 헌터 협회장, 서울 중앙 협회장, and 서울 협회장 as “Seoul Branch President.”
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
