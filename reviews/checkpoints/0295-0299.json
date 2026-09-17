@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "> - Ah, my soldiers. Forgive your disloyal commander. To be caught in the schemes of a wicked human and erased without even getting to demonstrate your true strength…",
+      "defect": "The Skeleton Warlord’s dialogue is formatted as blockquoted material throughout this chapter, unlike the same speaker’s established plain hyphen-led dialogue in Chapters 295–297. It also visually conflates ordinary speech with framed notices.",
+      "id": "C01",
+      "rationale": "Restore the established dialogue presentation for the Warlord and reserve Markdown blockquotes for System panels or genuinely quoted material. The same formatting correction should be applied to the Warlord’s remaining dialogue in Chapter 298.",
+      "replacement": "- Ah, my soldiers. Forgive your disloyal commander. To be caught in the schemes of a wicked human and erased without even getting to demonstrate your true strength…",
+      "severity": "minor",
+      "source": "Chapter 298, first Skeleton Warlord dialogue after the opening System panel"
+    },
+    {
+      "confidence": 1.0,
+      "current": "> **System**\n>\n> - Lv. 105 Skeleton Warlord has used a special Skill!\n>\n> - Special Skill, Summon the Dead, has been activated!\n>\n> - The sleeping dead answer the Commander's call!",
+      "defect": "The panel introduces bullet markers, abbreviates Level as “Lv.,” changes capitalization, and inserts commas around the skill name, drifting from the established System format used in Chapter 295.",
+      "id": "C02",
+      "rationale": "This is the same Summon the Dead notice previously shown in Chapter 295 and should retain the packet’s established wording and Markdown structure.",
+      "replacement": "> **System**\n>\n> **Level 105 Skeleton Warlord** has used a Special Skill!\n>\n> Special Skill **Summon the Dead** has activated!\n>\n> The sleeping dead answer their commander’s call!",
+      "severity": "minor",
+      "source": "Chapter 298, opening System panel"
+    },
+    {
+      "confidence": 0.99,
+      "current": "> **System**\n>\n> - You have defeated Lv. 71 Skeleton Warrior!\n>\n> - You have gained a small amount of EXP!\n>\n> - You have defeated Lv. 70 Skeleton Archer!\n>\n> - You have gained a small amount of EXP!",
+      "defect": "The panel uses bullet markers, “Lv.,” and second-person wording that differ from the established combat-result notices in Chapter 296.",
+      "id": "C03",
+      "rationale": "Matching the immediately established System-message pattern prevents conspicuous interface terminology and formatting drift within the packet.",
+      "replacement": "> **System**\n>\n> Defeated **Level 71 Skeleton Warrior**!\n>\n> Gained a small amount of EXP!\n>\n> Defeated **Level 70 Skeleton Archer**!\n>\n> Gained a small amount of EXP!",
+      "severity": "minor",
+      "source": "Chapter 298, first EXP System panel"
+    },
+    {
+      "confidence": 0.99,
+      "current": "> **System**\n>\n> - Lv. 105 Skeleton Warlord has used a special Skill!\n>\n> - Special Skill, Commander's Rally, has been activated!\n>\n> - The Strength, Agility, and Magic of the monsters under the Skeleton Warlord's command have been enhanced!\n>\n> - The enemies' Levels have increased by 5!",
+      "defect": "The panel uses bullets, “Lv.,” inconsistent capitalization, comma-delimited skill naming, and straight apostrophes, all differing from the established Commander’s Rally panel in Chapter 295.",
+      "id": "C04",
+      "rationale": "Normalize the repeated skill notice to the packet’s existing System-panel conventions while retaining Chapter 298’s explicit five-Level result.",
+      "replacement": "> **System**\n>\n> **Level 105 Skeleton Warlord** has used a Special Skill!\n>\n> Special Skill **Commander’s Rally** has activated!\n>\n> The Strength, Agility, and Magic of the monsters under the Skeleton Warlord’s command have been enhanced!\n>\n> The enemies’ Levels have increased by 5!",
+      "severity": "minor",
+      "source": "Chapter 298, Commander’s Rally System panel"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Team Leader Seok?”",
+      "defect": "The Seoul Branch President addresses Go Jun by the surname Seok, contradicting the character’s established name in this chapter and the active continuity.",
+      "id": "C05",
+      "rationale": "The person speaking is explicitly identified as Go Jun, so the form of address must use his established surname.",
+      "replacement": "“Team Leader Go?”",
+      "severity": "major",
+      "source": "Chapter 299, Seoul Branch President responding to Go Jun before entry"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Ha ha. It’ll be the first achievement of my term, so I’m thinking of holding a grand ceremony… Guild Master Lee Jungryong will be there too, won’t he?”\n\n“He’s not the Guild Master. He’s the Vice Guild Master.”\n\n“Ah, right. Goodness, I’ve been getting so forgetful lately.”\n\nA dry smile appeared at the corner of Go Jun’s mouth.\n\n“That can happen. And when the commendation plaque is presented, the Vice Guild Master will be delighted to attend as well.”\n\n“I’ll get to see him again after all this time. Please put in a good word for me, Team Leader Seok.”",
+      "defect": "The final address again calls Go Jun “Team Leader Seok,” contradicting the narration immediately above and his established name.",
+      "id": "C06",
+      "rationale": "Using Go Jun’s established surname removes the internal name contradiction without changing the exchange’s meaning or tone.",
+      "replacement": "“Ha ha. It’ll be the first achievement of my term, so I’m thinking of holding a grand ceremony… Guild Master Lee Jungryong will be there too, won’t he?”\n\n“He’s not the Guild Master. He’s the Vice Guild Master.”\n\n“Ah, right. Goodness, I’ve been getting so forgetful lately.”\n\nA dry smile appeared at the corner of Go Jun’s mouth.\n\n“That can happen. And when the commendation plaque is presented, the Vice Guild Master will be delighted to attend as well.”\n\n“I’ll get to see him again after all this time. Please put in a good word for me, Team Leader Go.”",
+      "severity": "major",
+      "source": "Chapter 299, commendation-plaque conversation on the trail"
+    }
+  ],
+  "summary": "The packet is coherent in voice, plot continuity, and unresolved hooks, with no evident accidental spoilers. Actionable issues are concentrated in Chapter 298’s Markdown/System formatting drift and two incorrect surname references for Go Jun in Chapter 299.",
+  "version": 1
+}

@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Yeah. Jin Taekyung is already… Well, it’s unfortunate, but that’s how things turned out. And he openly went off on the Seoul Branch President in front of the cameras. The backlash is going to be brutal.”",
+      "defect": "The English pronoun attributes the public confrontation to Jin Taekyung, who was inside the Gate, rather than to the Peace Guild.",
+      "id": "F01",
+      "rationale": "The conversation is about the consequences awaiting the Peace Guild after its public protest; the omitted Korean subject carries over from 평화 길드, not 진태경.",
+      "replacement": "“Yeah. Jin Taekyung is already… Well, it’s unfortunate, but that’s how things turned out. And the Peace Guild openly raised hell with the Seoul Branch President in front of the cameras. The backlash is going to be brutal.”",
+      "severity": "critical",
+      "source": "그렇지. 진태경은 이미 뭐, 안타깝지만 그렇게 됐고. 카메라 앞에서 서울 협회장한테 대놓고 지랄했으니 후폭풍 장난 아닐걸."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Moving armor and sharp blades flashed in the sunlight.",
+      "defect": "“Moving armor” unnaturally suggests independently animated armor rather than the guild members’ armor flashing as they move.",
+      "id": "F02",
+      "rationale": "움직이는 describes the equipment in motion with its wearers; the replacement preserves that physical action without implying animated armor.",
+      "replacement": "Armor and blades flashed in the sunlight as they moved.",
+      "severity": "minor",
+      "source": "움직이는 갑옷과 날붙이가 햇빛을 받아 번쩍였다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“It appears to have been destroyed along with every enemy, including the Named Monster…”",
+      "defect": "The translation makes an object the apparent subject and replaces the explicitly marked oxidation of Jin Taekyung with generic destruction.",
+      "id": "F03",
+      "rationale": "The omitted subject is Jin Taekyung, as confirmed by the group’s ensuing conclusion that he sacrificed himself, while the parenthetical 酸化 explicitly signals “oxidized” rather than merely “destroyed.”",
+      "replacement": "“It appears he was oxidized along with every enemy, including the Named Monster…”",
+      "severity": "critical",
+      "source": "산화(酸化)한 것 같습니다. 네임드 몬스터를 포함한 모든 적과 함께……."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Jin Taekyung was dead. He had thrown away his own life, taking his enemies along as companions on the road to the afterlife before departing this world alongside them.",
+      "defect": "The draft says he departed alongside his enemies but omits the emotional point that he left his companions behind.",
+      "id": "F04",
+      "rationale": "그들의 곁을 떠나 버린 것이다 means that he left the people gathered there, while the enemies are separately described as his companions on the road to the afterlife.",
+      "replacement": "Jin Taekyung was dead. He had thrown away his own life, taking his enemies with him as companions on the road to the afterlife and leaving his comrades behind.",
+      "severity": "major",
+      "source": "진태경은 죽었다. 스스로의 목숨까지 던져 적을 저승길 동무 삼아 그들의 곁을 떠나 버린 것이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The Peace Guild members’ eyes grew red and swollen, while tears ran down Butler Kim’s and Song Song’s cheeks.",
+      "defect": "충혈 means bloodshot, not swollen.",
+      "id": "F05",
+      "rationale": "The source describes reddened, bloodshot eyes and does not state that they became physically swollen.",
+      "replacement": "The Peace Guild members’ eyes grew red and bloodshot, while tears ran down Butler Kim’s and Song Song’s cheeks.",
+      "severity": "minor",
+      "source": "평화 길드원들의 눈이 붉게 충혈되었고, 김 집사와 송송이의 볼을 타고 눈물이 흘러내렸다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“That can happen. And if you present him with a commendation plaque, the Vice Guild Master will be delighted to attend.”",
+      "defect": "The draft changes the Vice Guild Master into the recipient of the commendation plaque.",
+      "id": "F06",
+      "rationale": "감사패가 수여되면 is passive and refers to the previously proposed commendation for the Ares Guild; Lee Jungryong is being invited to attend the ceremony, not identified as the plaque’s recipient.",
+      "replacement": "“That can happen. And when the commendation plaque is presented, the Vice Guild Master will be delighted to attend as well.”",
+      "severity": "critical",
+      "source": "그럴 수 있지요. 그리고 감사패가 수여되면 부길드장님도 기쁜 마음으로 참석하실 겁니다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "[^1]: The forty-ninth-day memorial rite, or *49jae*, is a Korean Buddhist memorial ceremony held after a person’s death.",
+      "defect": "The footnote does not explain the forty-nine-day timing that makes the joke intelligible.",
+      "id": "F07",
+      "rationale": "The humor is that an entire forty-nine-day mourning period has seemingly elapsed while Jin Taekyung was briefly away; identifying only a generic post-death ceremony loses that temporal force.",
+      "replacement": "[^1]: *49jae* is a Korean Buddhist memorial observance culminating on the forty-ninth day after a person’s death.",
+      "severity": "minor",
+      "source": "오줌 싸고 온 사이에 49재까지 끝내 버리네, 시벌놈이."
+    }
+  ],
+  "summary": "Several subject, mechanism, and attribution errors alter scene facts, alongside localized wording issues.",
+  "version": 1
+}

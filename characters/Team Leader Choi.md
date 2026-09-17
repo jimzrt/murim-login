@@ -1,8 +1,8 @@
 # Team Leader Choi
 
-- **Safe through:** Chapter 297
+- **Safe through:** Chapter 299
 - **Aliases:** Choi Minwoo (최민우)
-- **Role:** Former Ares Guild Team Leader; reawakened Hunter publicly classified as C-rank; Guild Master and Team Leader of the rapidly expanding Peace Guild, which has recruited twenty B-rank Hunters and thirty C-rank-or-lower Hunters; he manages rookie training and B-rank raid assignments after A-rank Gates become fully booked; after Jin Taekyung guided his internal energy, he completed his first complete circulation of the Jin Family's Cultivation Technique, became a martial artist, gained control over his previously scattered mana, and nearly doubled his mana reserves; after one week of further practice, he reached Four Stars while cultivating an immense hidden reserve of internal energy equivalent to one jiazi
+- **Role:** Former Ares Guild Team Leader; reawakened Hunter publicly classified as C-rank; Guild Master and Team Leader of the rapidly expanding Peace Guild, which has recruited twenty B-rank Hunters and thirty C-rank-or-lower Hunters; he manages rookie training and B-rank raid assignments after A-rank Gates become fully booked; after Jin Taekyung guided his internal energy, he completed his first complete circulation of the Jin Family's Cultivation Technique, became a martial artist, gained control over his previously scattered mana, and nearly doubled his mana reserves; after one week of further practice, he reached Four Stars while cultivating an immense hidden reserve of internal energy equivalent to one jiazi; led more than fifty Peace Guild members into the Black Forest after the delayed rescue authorization, initially believed Taekyung had died, and confronted Go Jun before Taekyung returned alive.
 - **Personality:** Calm, observant, practical, and decisive under pressure
 - **Voice:** Polite and measured in ordinary conversation; clipped and commanding during combat
 - **Relationships:** Hires Jin Taekyung as a porter and leads him, Im Kkeokjeong, and three veteran E-rank Hunters through an E-rank Gate
