@@ -1,6 +1,6 @@
 # Carus (카루스)
 
-- **Safe through:** Chapter 222
+- **Safe through:** Chapter 223
 - **Aliases:** One-Eyed
 - **Role:** The Black Wyvern's name; a Level 115 Named Monster and lesser branch of the dragonkin with one eye, killed by Jin Taekyung.
 - **Personality:** Predatory, vengeful, patient, and increasingly intelligent.

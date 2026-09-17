@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "And he had done it overwhelmingly.",
+      "defect": "The adverb is attached unnaturally to “done it,” producing a conspicuous Korean-syntax calque.",
+      "id": "F01",
+      "rationale": "The source emphasizes that Taekyung defeated the Named Monster overwhelmingly; the replacement preserves that emphasis in natural English.",
+      "replacement": "And it had been an overwhelming victory.",
+      "severity": "minor",
+      "source": "그것도 압도적으로."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“You worked hard.”\n\n“…….”\n\n“You’ve really worked hard all this time.”",
+      "defect": "Both lines are rendered as blunt observations, losing Choi Minwoo’s respectful gratitude in the first and his acknowledgment of Taekyung’s prolonged hardship in the second.",
+      "id": "F02",
+      "rationale": "고생하셨습니다 is a courteous expression of appreciation rather than a superior evaluating someone’s effort, while 고생 많으셨어요 recognizes what the listener has endured.",
+      "replacement": "“Thank you for all your hard work.”\n\n“…….”\n\n“You’ve truly been through so much all this time.”",
+      "severity": "major",
+      "source": "“고생하셨습니다.”\n\n“…….”\n\n“지금까지 정말 고생 많으셨어요.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Song Song stared at me with an expression that still couldn’t tell whether this was a dream or reality.",
+      "defect": "The expression itself is incorrectly made the agent that cannot distinguish dream from reality, resulting in unnatural English.",
+      "id": "F03",
+      "rationale": "The source says Song Song looked as if she herself still could not distinguish dream from reality.",
+      "replacement": "Song Song stared at me, still looking as though she couldn’t tell whether this was a dream or reality.",
+      "severity": "minor",
+      "source": "송송이는 여전히 이게 꿈인지 생시인지 분간이 안 된다는 얼굴로 나를 바라봤고."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Im Kkeokjeong burst into tears as if his own son had come back from the dead.",
+      "defect": "The draft changes the gender-neutral “own child” into a son and changes returning alive from danger into literal resurrection from the dead.",
+      "id": "F04",
+      "rationale": "친자식 is gender-neutral, and 살아 돌아오다 means to return alive or make it back safely, not to rise from the dead.",
+      "replacement": "Im Kkeokjeong burst into tears as if his own child had made it back alive.",
+      "severity": "critical",
+      "source": "임꺽정은 마치 친자식이 살아 돌아온 것처럼 울음을 터트렸다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "It was the sort of job only Butler Kim or Team Leader Choi could manage, aside from me.",
+      "defect": "The draft restricts the work to those two named individuals, whereas the source uses them as the minimum standard of ability needed to perform it.",
+      "id": "F05",
+      "rationale": "정도쯤은 되어야 describes the required level of capability; it does not state that only Butler Kim and Team Leader Choi can do the work.",
+      "replacement": "Aside from me, someone would have to be at least as capable as Butler Kim or Team Leader Choi to handle the job.",
+      "severity": "major",
+      "source": "나를 제외하면 김 집사, 최 팀장 정도쯤은 되어야 가능한 작업 난이도."
+    },
+    {
+      "confidence": 0.98,
+      "current": "> **NASA Official Statement:** “We will capture him and put him on an examination table at all costs.”",
+      "defect": "“Examination table” euphemizes the threatened experimentation into an ordinary medical examination, weakening the dark joke.",
+      "id": "F06",
+      "rationale": "실험대에 올려놓다 means to make someone a test subject or subject them to experiments, not merely to examine them.",
+      "replacement": "> **NASA Official Statement:** “We will capture him at all costs and subject him to experiments.”",
+      "severity": "major",
+      "source": "[NASA 공식 입장, “반드시 그를 잡아 실험대에 올려놓을 것.”]"
+    },
+    {
+      "confidence": 0.98,
+      "current": "That might not be true of monsters that lived in groups, but Wyverns were known to be independent and ferocious. A Wyvern wouldn’t simply take a few knocks to the head and move out.",
+      "defect": "The draft reverses the roles by making the invading Wyvern receive the blows and move out. In context, the resident boss monster was the one driven from its territory by the Wyvern, and the narration says the encounter likely involved more than a few knocks.",
+      "id": "F07",
+      "rationale": "Carus is the uninvited intruder in the preceding analogy, while the still-living boss monster is the original homeowner that fled.",
+      "replacement": "Maybe it would have been different with a monster that lived in a tribe, but Wyverns were known to be solitary and ferocious. It probably hadn’t ended with the boss monster merely taking a few knocks to the head and moving out.",
+      "severity": "critical",
+      "source": "부족 생활을 하는 몬스터라면 모를까, 독립적이고 포악하기로 알려진 와이번이라면 꿀밤 몇 대 맞고 방 빼는 정도로 끝나진 않았을 것이다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Don’t tell me you want me to drop the soap…”",
+      "defect": "The draft expands a deliberately incomplete euphemistic reference into an explicit description of the joke.",
+      "id": "F08",
+      "rationale": "The source mentions only “soap” and trails off, relying on the request to bend over for the implication; that coy incompleteness is part of the comic register.",
+      "replacement": "“You don’t mean… soap?”",
+      "severity": "major",
+      "source": "“혹시 비누…….”"
+    }
+  ],
+  "summary": "Two scene-fact reversals plus several register, mechanism, euphemism, and natural-English issues.",
+  "version": 1
+}
