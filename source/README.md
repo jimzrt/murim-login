@@ -13,6 +13,7 @@ git clone git@github.com:jimzrt/murim-login-source.git source
 ```
 
 On the VPS, clone it as a sibling of the public repo (`murim-login-source/`)
+with host `gh` (`gh repo clone jimzrt/murim-login-source murim-login-source`)
 and let Compose mount it at `/app/source`. If `source/` already exists as this
 placeholder directory, clone into a sibling folder and copy or replace these
 files. Rebuild the reader progress total with `npm run sync-source-count` in
