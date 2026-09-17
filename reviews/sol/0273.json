@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "Apparently, it was true that Won Myunghoon had extracted an astronomical settlement from the Star Guild.",
+      "defect": "The subject is reversed: the settlement was extracted from the Star Guild that Won Myunghoon had led, not extracted by Won Myunghoon from his own Guild.",
+      "id": "F01",
+      "rationale": "The modifier 원명훈이 길드장으로 있던 identifies the Star Guild as the Guild where Won served as Guild Master; it does not make Won the recipient of the settlement.",
+      "replacement": "Apparently, it was true that the Peace Guild had extracted an astronomical settlement from the Star Guild, where Won Myunghoon had been Guild Master.",
+      "severity": "critical",
+      "source": "원명훈이 길드장으로 있던 스타 길드에서 천문학적인 금액의 합의금을 받아 냈다는 말이 사실인 모양이다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "You can make a position.",
+      "defect": "The draft assigns the creation of the position to Taekyung, while Choi is offering to create one for him.",
+      "id": "F02",
+      "rationale": "Choi follows this by proposing titles and inviting Taekyung to choose one, so the offer is to create a position for him.",
+      "replacement": "We can always create a position.",
+      "severity": "minor",
+      "source": "직책이야 만들면 되죠."
+    },
+    {
+      "confidence": 0.99,
+      "current": "I clicked my tongue and glanced at one of the open newspapers.",
+      "defect": "혀를 내두르다 expresses amazement or astonishment here, whereas “clicked my tongue” suggests annoyance or disapproval.",
+      "id": "F03",
+      "rationale": "Taekyung is marveling at Choi knowing five languages, not expressing irritation with him.",
+      "replacement": "Shaking my head in amazement, I glanced at one of the open newspapers.",
+      "severity": "minor",
+      "source": "나는 혀를 내두르며 펼쳐져 있는 신문 중 하나를 곁눈질했다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "I already spoke to Butler Kim and Song-i this morning. I asked them to take turns teaching the rookies.",
+      "defect": "The draft turns Choi’s inclusive proposal that they all rotate as instructors into an instruction for Butler Kim and Song-i alone to alternate.",
+      "id": "F04",
+      "rationale": "The quoted proposal 돌아가면서 가르치자고요 uses the inclusive hortative 가르치자, making Choi part of the proposed rotation.",
+      "replacement": "I already spoke to Butler Kim and Song-i this morning. I suggested that we all take turns teaching the rookies.",
+      "severity": "major",
+      "source": "안 그래도 오늘 아침에 김 집사님과 송이 씨에게 말해 뒀습니다. 돌아가면서 가르치자고요."
+    },
+    {
+      "confidence": 0.99,
+      "current": "I’m not fine with it. You know what happens when you get used to being helped? You get used to shitting yourself during raids, too.",
+      "defect": "The draft renders the slang 똥 싸다 literally as losing control from fear. In raid slang, it means performing badly or screwing up, which is the consequence Taekyung links to habitual reliance on help.",
+      "id": "F05",
+      "rationale": "“Shitting the bed” preserves both the vulgar register and the intended meaning of repeatedly performing poorly during raids.",
+      "replacement": "I’m not fine with it. You know what happens if you make a habit of getting help? You make a habit of shitting the bed during raids, too.",
+      "severity": "major",
+      "source": "내가 안 괜찮아. 그거 알아요? 도움받는 거 버릇되면 레이드 때 똥 싸는 것도 버릇 든다?"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Get down here, you little bastard…",
+      "defect": "“Little” loses the explicit age-based insult from the older rookie toward the younger Taekyung.",
+      "id": "F06",
+      "rationale": "어린노무 directly emphasizes Taekyung’s youth, reinforcing the speaker’s age-based seniority and sudden loss of deference.",
+      "replacement": "Get down here, you young bastard…",
+      "severity": "major",
+      "source": "내려와! 이 어린노무 새끼가……"
+    }
+  ],
+  "summary": "One critical subject reversal changes who received the settlement. Several additional passages alter agency, an inclusive teaching arrangement, an idiomatic warning about poor raid performance, and an age-based insult.",
+  "version": 1
+}
