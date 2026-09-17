@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“That is our role. And either way, you’re going to die here.”",
+      "defect": "The vague pronoun obscures Im Yeongjun’s explicit statement that his organization is the one that murders people to silence them.",
+      "id": "F01",
+      "rationale": "그 살인멸구를 하는 게 우리 역할이다 explicitly identifies the Black Hunters as the perpetrators of such killings, sharpening both the threat and their organizational role.",
+      "replacement": "“We’re the ones who kill people to silence them. And either way, you’re going to die here.”",
+      "severity": "major",
+      "source": "“그 살인멸구를 하는 게 우리 역할이다. 그리고 어차피 네놈은 여기서 죽어.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "There was tension toward my existence in them. At the same time, I saw the eyes of a wolf watching for an opportunity.",
+      "defect": "“Tension toward my existence” is an unnatural literal collocation and blurs the intended wariness directed at Taekyung.",
+      "id": "F02",
+      "rationale": "나라는 존재에 대한 긴장 describes Im Yeongjun’s apprehension or wariness toward Taekyung, while 호시탐탐 emphasizes persistently waiting to seize an opportunity.",
+      "replacement": "There was wariness of me in them. At the same time, they were the eyes of a wolf constantly watching for an opening.",
+      "severity": "minor",
+      "source": "나라는 존재에 대한 긴장. 한편으로는 호시탐탐 기회를 엿보는 이리의 눈이 그곳에 있었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "I heard his shout as I kicked off the ground.\n\nI ground my teeth and swung my spear at the Black Hunters charging toward me.",
+      "defect": "The draft assigns the teeth-gritting action to Taekyung, but the source assigns it to the charging Black Hunters.",
+      "id": "F03",
+      "rationale": "이를 악문 채 modifies 달려드는 블랙 헌터들, not the narrator; the altered subject changes the combatants’ emotional presentation.",
+      "replacement": "I heard his shout as I kicked off the ground.\n\nThe Black Hunters charged toward me with gritted teeth, and I brought my spear down at them.",
+      "severity": "critical",
+      "source": "나는 놈의 고함을 들으며 땅을 박찼다. 이를 악문 채 달려드는 블랙 헌터들을 향해 창을 내리그었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Bang-bang-bang!\n\nI twisted the spearhead with exquisite precision.\n\nThe iron arrow, which should have been swept away like a fallen leaf, changed course and pierced the Black Hunter who had been trying to bury a dagger in my crown.\n\nThwack!\n\n“Urgh!”\n\nThe Black Hunter, struck by an arrow out of nowhere in midair, fell with a heavy thud.\n\nI pulled the iron arrow from his upper body. His body shuddered, then went still.\n\nAt the same time, I fiercely flung my hand toward the direction the arrows had come from.\n\nShhhhhk! Thwack!\n\nThe iron arrow infused with internal energy did its job perfectly.\n\nIt flew back toward its original owner twice as fast and twice as hard as when it had first been fired.\n\nThe three archers, who had been nocking their next arrows, met death almost simultaneously.",
+      "defect": "The draft treats the projectiles as one iron arrow, making a single returned arrow kill three separate archers almost simultaneously. The repeated impact sounds, the three archers, and the arrows returning to their respective original owners establish multiple arrows.",
+      "id": "F04",
+      "rationale": "쉬쉬쉬쉭 and 퍼퍼퍽 indicate multiple projectiles and impacts, and 원주인 together with three nearly simultaneous deaths means the redirected arrows return to their respective archers.",
+      "replacement": "Bang-bang-bang!\n\nI deftly twisted the spearhead.\n\nThe iron arrows, which should have been swept aside like fallen leaves, changed course and pierced the Black Hunter who had been trying to bury a dagger in my crown.\n\nThwack-thwack-thwack!\n\n“Urgh!”\n\nStruck by arrows out of nowhere in midair, the Black Hunter fell with a heavy thud.\n\nI pulled the iron arrows from his upper body. His body shuddered, then went still. At the same time, I flung the arrows hard in the direction they had come from.\n\nShhhhhk! Thwack!\n\nThe iron arrows infused with internal energy did their job perfectly.\n\nThey flew back toward their original owners twice as fast and twice as powerfully as when they had first been fired.\n\nThe three archers, who had been nocking their next arrows, met death almost simultaneously.",
+      "severity": "critical",
+      "source": "터터텅!\n\n교묘하게 창날을 비틀었다. 본래는 추풍낙엽처럼 쓸려 나갔어야 할 철시가 경로를 바꿔, 내 정수리에 단검을 꽂으려던 블랙 헌터의 몸을 꿰뚫었다.\n\n퍼퍼퍽!\n\n“커헉!”\n\n허공에서 난데없이 화살을 맞은 블랙 헌터가 쿵 소리를 내며 떨어졌다.\n\n놈의 상반신에 꽂힌 철시를 뽑았다. 푸드득 몸을 떨던 놈의 숨이 끊겼다. 그와 동시에 나는 화살이 날아온 방향을 향해 힘차게 손을 떨쳤다.\n\n쐐애애액! 퍼벅!\n\n공력이 실린 철시는 제 역할을 톡톡히 해냈다.\n\n처음 쏘아 보낸 것보다 두 배는 빠르고 강하게 원주인을 향해 돌아간 것이다.\n\n다음 화살을 시위에 매기고 있던 세 명의 궁수는 거의 동시에 죽음을 맞이했다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Even if he was their leader, he was still the best of them.",
+      "defect": "“Even if” incorrectly makes his leadership concessive, as though being the leader worked against the conclusion that he was the strongest.",
+      "id": "F05",
+      "rationale": "대장이랍시고 and 역시 frame his superior ability as fitting or expected for the group’s leader, not surprising despite that role.",
+      "replacement": "He was their leader for a reason. As expected, he was the best of them.",
+      "severity": "major",
+      "source": "그래도 대장이랍시고, 역시 이놈이 제일 낫다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "*Four Strike.*\n\nThe Flame-Extinguishing Divine Fist, unleashed with all my strength, hammered into the barriers.\n\nLike some nameless cliff on Mount Song, the Flame-Extinguishing Divine Fist shattered and crushed everything in its path.",
+      "defect": "The draft substitutes the earlier Flame-Extinguishing Divine Fist (멸염신권) for the explicitly different 멸천신권 and also creates an illogical comparison in which the fist destroys things like a cliff does.",
+      "id": "F06",
+      "rationale": "The source changes from 멸염신권 in Three Strike to 멸천신권 in Four Strike, so retaining the earlier technique changes the named attack. The Mount Song line invokes what the technique did to a cliff rather than comparing the technique itself to a cliff.",
+      "replacement": "*Four Strike.*\n\nThe Heaven-Destroying Divine Fist, unleashed with all my strength, hammered into the barriers.\n\nJust as it had shattered some nameless cliff on Mount Song, the Heaven-Destroying Divine Fist broke and crushed everything blocking its path.",
+      "severity": "critical",
+      "source": "‘사격(四擊).’\n\n전력을 다한 멸천신권이 방어막을 후려쳤다.\n\n숭산의 어느 이름 모를 절벽처럼, 멸천신권은 앞을 막아서는 모든 것을 깨트리고 부쉈다."
+    }
+  ],
+  "summary": "Several action mechanics and subjects are altered, most notably who grits their teeth, the number and trajectory of the iron arrows, and the identity of the final fist technique.",
+  "version": 1
+}
