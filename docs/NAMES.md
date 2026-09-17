@@ -1041,3 +1041,10 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 흑석산 | **Black Stone Mountain** | Mountain named for its black stones and located on the route to Mount Zhongnan. |
 | 흑석채 | **Black Stone Stronghold** | A powerful Green Forest Alliance stronghold led by Heavenly Axe. |
 | 십팔채 | **Eighteen Strongholds** | Short form for the Green Forest Alliance's eighteen major strongholds. |
+| 송일섬 | **Song Ilseom** | Young escort captain of the Yongbong Escort Bureau; distinct from Song Il of Zhongnan. |
+| 노필중 | **Noh Piljung** | Middle-aged escort captain and member of the Dragon-Phoenix Three Escorts. |
+| 미향이 | **Mihyang** | Yongbong Escort Bureau maid who relayed rumors about Song Ilseom. |
+| 용봉삼표 | **Dragon-Phoenix Three Escorts** | Collective title for the Yongbong Escort Bureau's three outstanding escort captains. |
+| 천년설삼 | **Thousand-Year Snow Ginseng** | Secret Zhongnan Sect cargo; a fully digested specimen can grant a full jiazi of internal energy. |
+| 유엽도 | **willow-leaf saber** | Saber wielded by Song Ilseom. |
+| 살인멸구 | **Silencing the Witnesses** | Killing witnesses to prevent a secret from being exposed. |

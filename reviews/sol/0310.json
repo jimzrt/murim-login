@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "*Song Il.*\n\nUnlike the other two members of the Dragon-Phoenix Three Escorts, Song Il was tall and strikingly handsome.",
+      "defect": "송일섬 is a newly introduced character named Song Ilseom, not the established Zhongnan elder 송일, Song Il. The draft conflates two distinct identities.",
+      "id": "F01",
+      "rationale": "The source consistently gives this escort captain’s full name as 송일섬, whereas the binding glossary’s Song Il applies only to the exact name 송일.",
+      "replacement": "*Song Ilseom.*\n\nUnlike the other two members of the Dragon-Phoenix Three Escorts, Song Ilseom was tall and strikingly handsome.",
+      "severity": "critical",
+      "source": "‘송일섬.’\n\n송일섬은 용봉삼표의 다른 두 사람과는 달리 훤칠하고 잘생긴 외모의 소유자였다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "They were the three outstanding escorts who represented the Yongbong Escort Bureau—the men known collectively as the Dragon-Phoenix Three Escorts.",
+      "defect": "The draft reduces the three men from 표두, supervisory escort captains, to ordinary escorts and loses their hierarchy within the bureau.",
+      "id": "F02",
+      "rationale": "표두 is a ranked leadership position distinct from an ordinary 표사, or escort.",
+      "replacement": "They were the three outstanding escort captains who represented the Yongbong Escort Bureau—the men known collectively as the Dragon-Phoenix Three Escorts.",
+      "severity": "major",
+      "source": "용봉표국을 대표하는 뛰어난 세 명의 표두. 이른바 용봉삼표(龍鳳三鏢)라 불리는 이들이었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "*But surely Chief Escort Song wouldn’t…*",
+      "defect": "The draft promotes 송 표두 to Chief Escort, but Heo Jun alone is 총표두, the Chief Escort. It also continues the mistaken rendering of 송일섬 as Song Il.",
+      "id": "F03",
+      "rationale": "송 표두 denotes Escort Captain Song; the source reserves 총표두 for Heo Jun.",
+      "replacement": "*But surely Escort Captain Song Ilseom wouldn’t…*",
+      "severity": "major",
+      "source": "‘하지만 설마 송 표두가…….’"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“No. I was hit a quarter of an hour ago.”",
+      "defect": "The draft changes the stated interval: 한 식경 is approximately the time required to eat a meal, conventionally about half an hour in this setting, not fifteen minutes.",
+      "id": "F04",
+      "rationale": "The joke specifies how recently Mujin was struck, so the source quantity should be preserved.",
+      "replacement": "“No. I was hit about half an hour ago.”",
+      "severity": "critical",
+      "source": "“아뇨. 한 식경 전에 맞았는데요.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "She was the only daughter of the Yongbong Escort Bureau, but she had not been raised like a precious flower in a hothouse.",
+      "defect": "An Escort Bureau cannot literally have a daughter, and 무남독녀 identifies Hwaran as the bureau chief’s sole child with no brothers. The draft also imports the hothouse image from a later sentence instead of preserving the source’s emphasis on being pampered.",
+      "id": "F05",
+      "rationale": "The source establishes both Hwaran’s family status and that she was not merely doted on despite being the sole daughter.",
+      "replacement": "She was the bureau chief’s only child, but that did not mean she had been raised pampered and sheltered.",
+      "severity": "major",
+      "source": "용봉표국의 무남독녀지만 금이야 옥이야 자란 것만은 아니다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "That was why she had not wanted to suspect them even more. She did not want to doubt them.",
+      "defect": "“Suspect them even more” incorrectly suggests that her degree of suspicion would increase; 더더욱 instead intensifies her unwillingness to suspect them.",
+      "id": "F06",
+      "rationale": "The source repeats and intensifies Hwaran’s reluctance to distrust the people who supported her.",
+      "replacement": "That made her all the more unwilling to suspect them. She did not want to doubt them.",
+      "severity": "minor",
+      "source": "그래서 더더욱 그런 이들을 의심하고 싶지 않았다. 의심하기 싫었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Ju Hwaran gripped her sword hilt in a calm voice.",
+      "defect": "The English attaches “in a calm voice” to the physical act of gripping rather than to Hwaran’s preceding speech.",
+      "id": "F07",
+      "rationale": "덤덤한 목소리 describes how she speaks, while 검파를 잡았다 is the simultaneous physical action.",
+      "replacement": "Ju Hwaran said calmly as she gripped her sword hilt.",
+      "severity": "minor",
+      "source": "주화란은 덤덤한 목소리로 검파를 잡았다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "*What the hell is that?*",
+      "defect": "The draft adds profanity absent from the source and unnecessarily intensifies the observer’s reaction.",
+      "id": "F08",
+      "rationale": "The Korean is a plain expression of bafflement without a curse.",
+      "replacement": "*What is that?*",
+      "severity": "minor",
+      "source": "‘저게 뭐야.’"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Just as Ju Hwaran was about to straighten her head, she noticed a star she had never seen before.",
+      "defect": "“Straighten her head” is an unnatural literal rendering of 고개를 바로 하다 in this context.",
+      "id": "F09",
+      "rationale": "Hwaran has been looking up at the night sky; the source says she is about to return her head and gaze to their normal forward position.",
+      "replacement": "Just as Ju Hwaran was about to face forward again, she noticed a star she had never seen before.",
+      "severity": "minor",
+      "source": "주화란이 고개를 바로 하려던 그때, 지금까지 보지 못했던 별 하나가 눈에 띄었다."
+    }
+  ],
+  "summary": "The draft conflates the newly introduced Song Ilseom with the established Song Il, mistranslates his rank, and changes a stated interval. Several localized characterization and English-usage issues also require correction.",
+  "version": 1
+}
