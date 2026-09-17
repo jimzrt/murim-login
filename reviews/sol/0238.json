@@ -1,0 +1,136 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "In other words, he had won by the narrowest of margins.",
+      "defect": "The pronoun’s nearest antecedent is the Azure Sky Sword King, making it sound as though he defeated Jeok Cheongang. The context indicates that Jeok Cheongang won by half a form.",
+      "id": "F01",
+      "rationale": "Jeok Cheongang gives the half-form margin immediately after saying the Sword King entered seclusion following their duel; the narrator interprets this as Jeok Cheongang’s narrow victory.",
+      "replacement": "In other words, Jeok Cheongang had won by the narrowest of margins.",
+      "severity": "critical",
+      "source": "아슬아슬하게 이겼다는 뜻이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "And even if they had lost it, there would have been no need to worry.",
+      "defect": "The draft says the siblings might lose the iron ball or chain, while the Korean means that even if the siblings themselves became lost, they could deal with the witch using the weapons.",
+      "id": "F02",
+      "rationale": "잃어버렸다 refers contextually to Hansel and Gretel getting lost, continuing the preceding 미아 joke; it does not mean losing the imagined object.",
+      "replacement": "Even if they did get lost, there would have been no need to worry.",
+      "severity": "critical",
+      "source": "만약 잃어버렸다 하더라도 걱정 없다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Jeok Cheongang looked at me gaping in admiration with an expression of pity.",
+      "defect": "한심하다는 얼굴 conveys that Jeok Cheongang finds Taekyung pathetic or ridiculous, not that he feels pity for him.",
+      "id": "F03",
+      "rationale": "The source expresses dismissive judgment, preserving Jeok Cheongang’s gruff attitude toward Taekyung.",
+      "replacement": "Jeok Cheongang watched me gape in admiration as though I were pathetic.",
+      "severity": "major",
+      "source": "입을 쩍 벌리고 감탄하는 나를 적천강이 한심하다는 얼굴로 바라봤다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "*Old age.*",
+      "defect": "노환 denotes the ailments or infirmities caused by old age, not old age in the abstract. The following reference to symptoms confirms the medical sense.",
+      "id": "F04",
+      "rationale": "The passage concerns Jeok Cheongang’s deteriorating health and partially alleviated symptoms, so the more specific meaning must be retained.",
+      "replacement": "*The infirmities of old age.*",
+      "severity": "major",
+      "source": "노환."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Fortunately, the blessings of heaven had allowed us to alleviate his symptoms, but that only slowed the wheel that had already begun to turn. It could not stop it completely.",
+      "defect": "The draft adds “us,” attributing the alleviation to Taekyung and an unspecified group. The Korean only says that a stroke of heavenly luck allowed the symptoms to be alleviated.",
+      "id": "F05",
+      "rationale": "The source leaves the human agent unstated and emphasizes fortune as the reason the symptoms were mitigated.",
+      "replacement": "Fortunately, a stroke of heavenly luck had eased his symptoms. But it had only slowed the wheel already in motion, not stopped it completely.",
+      "severity": "major",
+      "source": "다행히 천운이 따라 준 덕분에 증세를 완화시킬 수 있었으나, 이미 굴러가기 시작한 수레바퀴의 속도를 늦출 뿐. 완전히 멈추게 할 수는 없다."
+    },
+    {
+      "confidence": 0.91,
+      "current": "I shoved aside bastards from the unorthodox factions, sent dark-path figures packing, and killed every Demonic Cult bastard who set fires alongside them.",
+      "defect": "The draft invents cooperation between Demonic Cultists and the previously mentioned groups. 같이 modifies how the fire-setting bastards behaved: they set fires like Demonic Cultists.",
+      "id": "F06",
+      "rationale": "마교도 같이 means “like a Demonic Cultist” here; “alongside them” introduces an absent relationship and changes the list’s meaning.",
+      "replacement": "I shoved aside bastards from the unorthodox factions, sent dark-path figures packing, and killed every bastard who set fires like a Demonic Cultist.",
+      "severity": "major",
+      "source": "사파 같은 놈 제끼고, 흑도 같은 놈 보내고, 마교도 같이 불 지르는 새끼들 다 죽였다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The chains collided, and the iron balls gouged deep into the floor, leaving long tracks behind them.",
+      "defect": "“Floor” incorrectly suggests an interior constructed surface, although Taekyung is crossing the estate grounds and servants later fill the marks with dirt.",
+      "id": "F07",
+      "rationale": "The surrounding courtyard context and the use of dirt establish that 바닥 is the ground here.",
+      "replacement": "The chains clashed, and the iron balls gouged deep into the ground, leaving long tracks behind them.",
+      "severity": "minor",
+      "source": "사슬이 부딪치고 철구가 바닥을 깊게 뭉개며 긴 자국을 남겼다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Can you really call that chained?”",
+      "defect": "The English is unidiomatic and omits the person who is supposedly chained to the iron balls.",
+      "id": "F08",
+      "rationale": "The speaker questions whether Taekyung can meaningfully be called a prisoner when he is carrying the iron balls rather than being restrained by them.",
+      "replacement": "“Can you really say he’s chained to them?”",
+      "severity": "minor",
+      "source": "“저걸 찼다고 할 수 있나?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "*I even deliberately refused to log out and endured it.*",
+      "defect": "The established System term “Logout” is not preserved, and “refused” implies rejecting a request rather than deliberately enduring the training without using the option.",
+      "id": "F09",
+      "rationale": "The source emphasizes that Taekyung intentionally stayed in the Murim world and endured the conditions instead of logging out.",
+      "replacement": "*I’d even deliberately endured it without using Logout.*",
+      "severity": "minor",
+      "source": "‘일부러 로그아웃도 안 하고 버텼는데.’"
+    },
+    {
+      "confidence": 0.98,
+      "current": "A short while later, I arrived at a pavilion surrounded by an ironclad escort.",
+      "defect": "An “escort” accompanies someone in transit; it does not naturally describe the stationary guards surrounding a pavilion.",
+      "id": "F10",
+      "rationale": "철통같은 호위 describes an extremely secure defensive guard around the building.",
+      "replacement": "A short while later, I arrived at a pavilion surrounded by tight security.",
+      "severity": "minor",
+      "source": "잠시 후, 나는 철통같은 호위에 둘러싸인 전각에 도착했다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "I nodded, barely concealing my surprise.",
+      "defect": "“Barely” adds that Taekyung almost failed to hide his surprise, while the source simply says he concealed it.",
+      "id": "F11",
+      "rationale": "감추며 states the successful action without qualifying how difficult or incomplete it was.",
+      "replacement": "I concealed my surprise and nodded.",
+      "severity": "minor",
+      "source": "나는 내심 놀라움을 감추며 고개를 끄덕였다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "In a world where a ballpoint pen could kill a person, the iron balls I was carrying certainly fell within the category of excellent weapons.",
+      "defect": "“Excellent weapons” sounds like a judgment of craftsmanship or quality. The Korean means the iron balls readily qualify as weapons.",
+      "id": "F12",
+      "rationale": "훌륭한 무기의 범주에 들어간다 emphasizes that the objects are more than dangerous enough to count as weapons.",
+      "replacement": "If even a ballpoint pen could kill someone, the iron balls I was carrying certainly qualified as weapons.",
+      "severity": "minor",
+      "source": "볼펜으로 사람도 죽일 수 있는 마당에 내가 든 철구 정도면 훌륭한 무기의 범주에 들어간다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“You’ll die if you keep that up. Seriously, this is a big problem.”",
+      "defect": "“Keep that up” suggests repeated ongoing conduct, while Taekyung is warning the guard specifically against carrying out his proposal to cut the restraints. “This is a big problem” also weakens the direct warning that the guard will get into serious trouble.",
+      "id": "F13",
+      "rationale": "그러다가 points to the proposed action and its likely consequence, preserving the joke that Jeok Cheongang—not Taekyung—would kill the guard.",
+      "replacement": "“Do that and you’ll die. Seriously, you’ll be in real trouble.”",
+      "severity": "minor",
+      "source": "“그러다가 죽어요. 진짜 큰일 나.”"
+    }
+  ],
+  "summary": "Two subject/action errors materially alter meaning; several additional issues weaken characterization, health-state specificity, terminology, or natural English.",
+  "version": 1
+}
