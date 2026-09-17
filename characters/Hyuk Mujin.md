@@ -1,8 +1,8 @@
 # Hyuk Mujin (혁무진)
 
-- **Safe through:** Chapter 242
+- **Safe through:** Chapter 243
 - **Aliases:** None revealed
-- **Role:** Level 50 First Rate martial artist from a wealthy Taiyuan textile-merchant family; Captain of the Gatekeepers at the Jin Family of Taiyuan; deputy squad leader of White Tiger Hall’s reconnaissance squad; candidate to become the next Master of the Gatekeeper Pavilion; has accepted Jin Taekyung’s invitation to train alongside Taekyung and Cheongpung in Taekyung’s private training ground; served as acting Deputy Commander of the Jin Dragon Squad during Wipeng’s four-month Northern Gaoyuan campaign and completed his first mission in that assignment
+- **Role:** Level 50 First Rate martial artist from a wealthy Taiyuan textile-merchant family; Captain of the Gatekeepers at the Jin Family of Taiyuan; deputy squad leader of White Tiger Hall’s reconnaissance squad; candidate to become the next Master of the Gatekeeper Pavilion; has accepted Jin Taekyung’s invitation to train alongside Taekyung and Cheongpung in Taekyung’s private training ground; served as acting Deputy Commander of the Jin Dragon Squad during Wipeng’s four-month Northern Gaoyuan campaign and completed his first mission in that assignment; is now the Vice Squad Leader of the Jin Dragon Squad under Wipeng; accompanied Jin Wikyung to Henan as his escort and is inspecting the Henan branch of the Hyuk Family Textile Shop at his father’s request
 - **Personality:** Young, disciplined, persistent, and possessed of clear martial talent; suspicious of Jin Taekyung, and openly contemptuous of the family’s disgraced third son; believes loyalty and respectable conduct matter, but is also proud, hungry for glory, and an avid wuxia-novel reader who sometimes mistakes fictional Murim conventions for reality
 - **Voice:** Formal and clipped when performing his duties; blunt and moralizing when addressing Taekyung
 - **Relationships:** Gatekeeper under the Jin Family; deputy subordinate to Jin Taekyung in the reconnaissance squad; son of the Hyuk Family Textile Shop’s owners, with a younger sibling who removed the need for him to inherit the family business
