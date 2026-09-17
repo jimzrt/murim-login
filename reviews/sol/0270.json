@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "With every stride, it closed the three-meter gap in an instant.",
+      "defect": "The draft turns the three meters covered by each stride into a single three-meter gap, altering the golem’s movement and distance.",
+      "id": "F01",
+      "rationale": "The source states that each individual stride closes three meters of distance.",
+      "replacement": "With every stride, it ate up three meters in an instant.",
+      "severity": "critical",
+      "source": "보폭 한 번에 3m의 거리가 휙휙 좁혀진다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "But he couldn’t blame them. Their bodies, already sensing the threat to their lives, had moved toward the front line of their own accord.",
+      "defect": "The draft invents Im Kkeokjeong’s judgment that he could not blame them. The source instead says the recruits had no choice because their endangered bodies moved on their own.",
+      "id": "F02",
+      "rationale": "The omitted subject follows the new Guild members, while 어쩔 수 없었다 expresses their lack of choice rather than Im Kkeokjeong’s sympathy.",
+      "replacement": "But they had no choice. Their bodies, already sensing the threat to their lives, moved toward the front line of their own accord.",
+      "severity": "major",
+      "source": "그러나 어쩔 수 없었다. 이미 생명의 위협을 느낀 몸뚱어리가 저절로 일선을 향해 움직였다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "“I woke up every night. How could you have seen me?”\n\n“Huh?”\n\n“It was always the middle of the night when I opened my eyes. I was tired, so I just went back to sleep.”",
+      "defect": "The draft changes 새벽, the dawn or early-morning hours, into the middle of the night in both lines.",
+      "id": "F03",
+      "rationale": "Taekyung specifically claims that he woke around dawn, which supports his excuse that Hayeon would not have seen him.",
+      "replacement": "“I woke up around dawn each day. How could you have seen me?”\n\n“Huh?”\n\n“Every time I opened my eyes, it was around dawn. I was tired, so I just kept sleeping.”",
+      "severity": "major",
+      "source": "“새벽마다 깼는데 네가 어떻게 봐?”\n\n“어?”\n\n“눈뜰 때마다 새벽이더라. 피곤해서 그냥 쭉 잤어.”"
+    },
+    {
+      "confidence": 0.92,
+      "current": "“What kind of workshop lasts a whole week? Are we going to Pyeongchang or Gapyeong?”",
+      "defect": "The untranslated place names lack the brief cultural context needed for the joke contrasting ordinary domestic retreat destinations with the grander possibilities that follow.",
+      "id": "F04",
+      "rationale": "A concise footnote preserves the implication that these are conventional nearby choices for a company or organization workshop.",
+      "replacement": "“What kind of workshop lasts a whole week? Are we going to Pyeongchang or Gapyeong?[^1]”\n\n[^1]: Pyeongchang and Gapyeong are popular domestic getaway destinations in South Korea, often used for group retreats.",
+      "severity": "minor",
+      "source": "“아니, 무슨 워크숍을 일주일이나…… 평창이나 가평 쪽으로 가는 겁니까?”"
+    },
+    {
+      "confidence": 0.93,
+      "current": "“Damn it, I should’ve been a damage dealer instead of a tank.”",
+      "defect": "“Damn it” softens the coarse expletive 염병 and weakens the speaker’s panicked, profane complaint.",
+      "id": "F05",
+      "rationale": "염병 is a strong, vulgar interjection here, so the English should retain comparable force.",
+      "replacement": "“Fuck, I should’ve gone with damage dealer instead of tank.”",
+      "severity": "minor",
+      "source": "“염병, 탱커 말고 딜러 할걸.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Hayeon nodded solemnly. Mom, who had been listening quietly, spoke with an expression like her heart had just collapsed.",
+      "defect": "“Her heart had just collapsed” is an unnatural literal rendering of the Korean idiom 억장이 무너지다.",
+      "id": "F06",
+      "rationale": "The source describes the mother as emotionally devastated, not as though her physical heart had collapsed.",
+      "replacement": "Hayeon nodded solemnly. Mom, who had been listening quietly, looked utterly crushed as she spoke.",
+      "severity": "minor",
+      "source": "하연이가 숙연한 얼굴로 고개를 끄덕였고, 가만히 듣고 있던 엄마는 억장이 무너진 듯한 표정으로 말했다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Mob farming is sweet.”",
+      "defect": "The draft drops the crude intensifying force of 개, making Taekyung’s punchline noticeably milder.",
+      "id": "F07",
+      "rationale": "개꿀 is emphatic vulgar slang, and the stronger phrasing preserves Taekyung’s irreverent gamer voice.",
+      "replacement": "“Mob farming is fucking sweet.”",
+      "severity": "minor",
+      "source": "“몰이 사냥 개꿀.”"
+    }
+  ],
+  "summary": "The draft contains one altered movement quantity, one altered narrative subject, a timing shift in Taekyung’s lie, an unexplained culturally specific location contrast, and several localized register or phrasing issues.",
+  "version": 1
+}
