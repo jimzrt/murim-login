@@ -40,6 +40,36 @@ BRANCH_RE_PREFIX = "report-line-"
 CORS_POST_PATHS = {"/report-line", "/view-counts"}
 
 
+def git_ssh_env(ssh_key: Path | None) -> dict[str, str]:
+    env = os.environ.copy()
+    if ssh_key is None or not ssh_key.is_file():
+        return env
+    env["GIT_SSH_COMMAND"] = (
+        f"ssh -i {ssh_key} -o IdentitiesOnly=yes -o StrictHostKeyChecking=accept-new"
+    )
+    return env
+
+
+def sync_git(cwd: Path, ssh_key: Path | None = None) -> None:
+    if not (cwd / ".git").exists():
+        return
+    env = git_ssh_env(ssh_key)
+    subprocess.run(
+        ["git", "fetch", "origin"],
+        cwd=cwd,
+        env=env,
+        check=False,
+        capture_output=True,
+    )
+    subprocess.run(
+        ["git", "reset", "--hard", "origin/master"],
+        cwd=cwd,
+        env=env,
+        check=False,
+        capture_output=True,
+    )
+
+
 class RateLimiter:
     def __init__(self, limit: int, window: float):
         self.limit = limit
@@ -91,6 +121,8 @@ class Settings:
             ).split(",")
             if origin.strip()
         }
+        ssh_key = env.get("MURIM_SOURCE_SSH_KEY", "/run/secrets/source_deploy_key")
+        self.source_ssh_key = Path(ssh_key) if ssh_key else None
 
 
 class LineReportService:
@@ -404,21 +436,8 @@ class LineReportService:
             self.github.close_issue(issue_number)
 
     def _sync_repo(self) -> None:
-        git_dir = self.settings.root / ".git"
-        if not git_dir.exists():
-            return
-        subprocess.run(
-            ["git", "fetch", "origin"],
-            cwd=self.settings.root,
-            check=False,
-            capture_output=True,
-        )
-        subprocess.run(
-            ["git", "reset", "--hard", "origin/master"],
-            cwd=self.settings.root,
-            check=False,
-            capture_output=True,
-        )
+        sync_git(self.settings.root)
+        sync_git(self.settings.root / "source", ssh_key=self.settings.source_ssh_key)
 
 
 def _has_label(issue: dict, name: str) -> bool:
