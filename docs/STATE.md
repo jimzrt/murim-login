@@ -1,16 +1,16 @@
 # Translation State
 
-- Last completed: 260
-- Next chapter: 261
-- Current block: 260–264 (1/5)
-- Latest translation: `translations/0260.md`
-- Latest summary: `summaries/beats/0260.md`
-- Safe profiles through: chapter 260
+- Last completed: 261
+- Next chapter: 262
+- Current block: 260–264 (2/5)
+- Latest translation: `translations/0261.md`
+- Latest summary: `summaries/beats/0261.md`
+- Safe profiles through: chapter 261
 
 ## Current Block
 
-- Cheongpung awakens after Hyuk Mujin revives him and learns that Hong Dao has been killed and Jongni Chu is blamed. Although he remembers Jongni Chu's overwhelming attack and the fear it caused him, Cheongpung insists that Jongni Chu is his friend and immediately leaves for Mount Song.
-- Shaolin Temple is under attack by hundreds of masked warriors who invoke the Lord of Heaven and slaughter monks and pilgrims. Hongcheon, Hong Dao's youngest Junior Brother and a Supreme Peak master, defends the temple until Flame Tiger and Han Su arrive. The two reveal themselves as the Yin-Yang Twin Freaks, confirm Hong Dao's death, and advance toward the Face-Wall Cave, where Unnamed and the Green Jade Buddha Staff are located.
+- At the collapsed Face-Wall Cave, Han Su, revealed as the Yin Ghost, kills the Four Great Vajras and advances toward Unnamed to seize the Green Jade Buddha Staff under the Lord of Heaven's command. Unnamed refuses to surrender it and prepares to fight.
+- Elsewhere, Flame Tiger overwhelms Hongcheon while masked attackers use the Exploding Blood Demonic Art to destroy part of the Hundred and Eight Arhats Formation and slaughter Shaolin monks. Hongcheon is gravely wounded and loses an arm but rises again to defend Shaolin, only for Flame Tiger to prepare the killing blow before two arriving voices interrupt him; Flame Tiger recognizes the older speaker as the Fire King.
 
 ## Open Questions
 
@@ -21,13 +21,14 @@
 - Why was Shadow Killer pursuing Jongni Chu, what did the Hidden Shadow Pavilion seek, and what became of Shadow Killer after contact was lost?
 - Who is the Gold-Faced Young Master who bet on Taekyung?
 - Who attacked Hong Dao, and what happened during the attack?
-- What has happened at Shaolin, and where are Unnamed and the Green Jade Buddha Staff now?
+- What will happen in the ongoing confrontations between Han Su and Unnamed and between Flame Tiger and the arriving defenders?
 
 ## Exceptional Decision
 
 - Use Buddhist Staff for 불장 as the generic form and Green Jade Buddha Staff for 녹옥불장.
 - Use Han Su for 한수 and Flame Tiger for 염호.
 - Use Hongcheon for 굉천 and Yin-Yang Twin Freaks for 음양쌍괴.
+- Use Yin Ghost for 음귀 and Exploding Blood Demonic Art for 폭혈마공.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

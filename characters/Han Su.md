@@ -1,8 +1,8 @@
 # Han Su (한수)
 
-- **Safe through:** Chapter 260
+- **Safe through:** Chapter 261
 - **Aliases:** None
-- **Role:** Dark Heaven operative; scholar-like old man who intercepts and kills a Hidden Shadow Pavilion messenger near Mount Song; one half of the Yin-Yang Twin Freaks, a pair of former demonic fiends who served the Demonic Cult during the Great Faction War; attacks Shaolin with Flame Tiger and heads toward the Face-Wall Cave.
+- **Role:** Dark Heaven operative known as the Yin Ghost; scholar-like old man who intercepts and kills a Hidden Shadow Pavilion messenger near Mount Song; one half of the Yin-Yang Twin Freaks, a pair of former demonic fiends who served the Demonic Cult during the Great Faction War; kills Shaolin's Four Great Vajras and confronts Unnamed in the Face-Wall Cave over the Green Jade Buddha Staff.
 - **Personality:** Deceptive, cruel, casually murderous, and amused by victims' indignation.
 - **Voice:** Calm, conversational, and lightly mocking, with unsettling humor.
 - **Relationships:** Longtime friend of Flame Tiger; works with him within Dark Heaven.

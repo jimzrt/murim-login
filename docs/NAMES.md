@@ -850,3 +850,14 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 음양쌍괴 | **Yin-Yang Twin Freaks** | Shared epithet of Flame Tiger and Han Su. |
 | 범공 | **Beomgong** | Dharma name of a Shaolin monk killed by Han Su during the Great Faction War. |
 | 면벽동 | **Face-Wall Cave** | Shaolin cave where Unnamed is located. |
+| 음귀 | **Yin Ghost** | Han Su's epithet. |
+| 사대금강 | **Four Great Vajras** | Four elite Shaolin martial monks killed by Han Su. |
+| 장경각 | **Scripture Depository** | Shaolin repository whose martial arts manuals the attackers intend to burn. |
+| 살문 | **Killing Gate** | Command given while the Hundred and Eight Arhats Formation is deployed. |
+| 계도 | **precept blades** | Blades carried by the Hundred and Eight Arhats. |
+| 선장 | **Zen staffs** | Staff weapons carried by the Hundred and Eight Arhats. |
+| 백팔나한 | **Hundred and Eight Arhats** | Shaolin's elite formation unit of 108 martial monks. |
+| 백팔나한진 | **Hundred and Eight Arhats Formation** | Formation used by the Hundred and Eight Arhats. |
+| 폭혈마공 | **Exploding Blood Demonic Art** | Demonic art used by masked attackers as a battlefield self-detonation technique. |
+| 부동심 | **Unshakable Mind** | Mental discipline Hongcheon is accused of abandoning when he loses composure. |
+| 음한지공 | **Yin-Cold Technique** | Han Su's extreme cold-based internal technique. |
