@@ -912,3 +912,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 산군 | **mountain lord** | Traditional epithet for a tiger; retain an explanatory footnote on first use. |
 | 석 팀장 | **Team Leader Seok** | Lee Jungryong's security-team leader and direct Disciple. |
 | 고준 | **Go Jun** | Personal name of Team Leader Seok; Lee Jungryong's prized Disciple. |
+| 준이 | **Jun** | Family nickname used in the form Jun's dad. |
+| 석고준 | **Go Jun** | Source full-name form for the established Go Jun, also known as Team Leader Seok. |

@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "chapter": 286,
+  "passed": true,
+  "metrics": {
+    "source_characters": 5959,
+    "translation_characters": 13234,
+    "length_ratio": 2.221,
+    "source_paragraphs": 172,
+    "translation_paragraphs": 159
+  },
+  "errors": [],
+  "warnings": [
+    {
+      "code": "terminology",
+      "message": "matched preferred term is absent",
+      "details": {
+        "korean": "순이",
+        "preferred": "Sooni"
+      }
+    },
+    {
+      "code": "terminology",
+      "message": "matched preferred term is absent",
+      "details": {
+        "korean": "송이",
+        "preferred": "Song-i"
+      }
+    },
+    {
+      "code": "terminology",
+      "message": "matched preferred term is absent",
+      "details": {
+        "korean": "꼬리",
+        "preferred": "the “tail”"
+      }
+    },
+    {
+      "code": "novel_name",
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use",
+      "details": {
+        "korean": "야마모토",
+        "romanization": "yamamoto"
+      }
+    },
+    {
+      "code": "novel_name",
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use",
+      "details": {
+        "korean": "명동",
+        "romanization": "myeongdong"
+      }
+    }
+  ]
+}
