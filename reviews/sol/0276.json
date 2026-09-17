@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "The three men stared at me in utter confusion.",
+      "defect": "The draft identifies all three people as men, but the group includes Song Song.",
+      "id": "F01",
+      "rationale": "The source says 세 사람, “three people,” and does not alter their identities or genders.",
+      "replacement": "All three of them shot me bewildered looks.",
+      "severity": "critical",
+      "source": "세 사람의 당황한 시선이 우수수 날아와 꽂혔다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Nope. I’m Fatty.”",
+      "defect": "뚱이 is the Korean name for Patrick Star, not a generic claim that the speaker is fat. The current rendering loses the cultural-reference joke.",
+      "id": "F02",
+      "rationale": "The exchange echoes Patrick Star’s well-known denial gag, making Patrick the appropriate English localized name.",
+      "replacement": "“Nope. This is Patrick.”",
+      "severity": "major",
+      "source": "“아닌데요. 뚱인데요.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "The moment the cool spear shaft filled my grasp, Im Yeongjun shouted like he was screaming for his life.",
+      "defect": "“For his life” adds a specific implication that Im Yeongjun is terrified for his own survival. The source only describes his shout as sounding like a scream.",
+      "id": "F03",
+      "rationale": "비명처럼 describes the sound and intensity of the shout without supplying a motive for it.",
+      "replacement": "The moment the cool spear shaft filled my grasp, Im Yeongjun shouted, his voice rising almost to a scream.",
+      "severity": "major",
+      "source": "서늘한 창대가 잡힘과 동시에 임영준이 비명처럼 외쳤다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Yes. There were slight discrepancies, possibly because he used an artifact affected by Illusion magic, but there is no doubt.”",
+      "defect": "“Affected by” is vague and misstates the construction: the artifact had Illusion magic placed on it.",
+      "id": "F04",
+      "rationale": "마법이 걸린 describes an artifact bearing an enchantment or spell, not merely one incidentally affected by magic.",
+      "replacement": "“Yes. There were slight discrepancies, possibly because he used an artifact enchanted with Illusion magic, but there is no doubt.”",
+      "severity": "minor",
+      "source": "“네. 일루전(Illusion) 마법이 걸린 아티팩트를 썼는지 약간의 차이는 있었지만 확실합니다.”"
+    },
+    {
+      "confidence": 0.93,
+      "current": "The moment I cut through the iron bars with the hand force gathered in my palm and stepped into the yard, a blaring siren rang out with the sensation of passing through a soft membrane.",
+      "defect": "“Hand force” is unnatural and does not clearly convey condensed Murim energy formed around his hand; “rang out with the sensation” is also an awkward attachment.",
+      "id": "F05",
+      "rationale": "수강 is a condensed martial force formed at the hand, while the second clause presents the membrane-like sensation as accompanying the alarm.",
+      "replacement": "The moment I sliced through the iron bars with qi condensed around my hand and stepped into the yard, a blaring siren rang out as I felt as though I’d passed through a soft membrane.",
+      "severity": "minor",
+      "source": "손에 맺힌 수강(手罡)으로 철창을 가르며 정원으로 발을 디딘 그 순간.\n\n부드러운 점막을 통과한 듯한 기분과 함께 요란한 사이렌 소리가 울려 퍼졌다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Inside the minivan you could see anywhere, Song Song muttered doubtfully as she watched the footage Butler Kim had recorded with magic.",
+      "defect": "“The minivan you could see anywhere” is an unnatural Korean-syntax calque.",
+      "id": "F06",
+      "rationale": "어디서나 볼 수 있는 characterizes the minivan as commonplace rather than literally emphasizing where it can be seen.",
+      "replacement": "Inside an utterly ordinary minivan, Song Song muttered doubtfully as she watched the footage Butler Kim had recorded with magic.",
+      "severity": "minor",
+      "source": "어디서나 볼 수 있는 승합차 내부, 김 집사가 마법으로 녹화한 영상을 보던 송송이가 미심쩍다는 표정으로 중얼거렸다."
+    }
+  ],
+  "summary": "One identity error and several actionable fidelity, cultural-reference, mechanism, and terminology issues.",
+  "version": 1
+}

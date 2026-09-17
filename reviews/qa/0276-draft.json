@@ -1,0 +1,47 @@
+{
+  "chapter": 276,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.189,
+    "source_characters": 5894,
+    "source_paragraphs": 187,
+    "translation_characters": 12904,
+    "translation_paragraphs": 192
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "도사",
+        "preferred": "Daoist"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "송이",
+        "preferred": "Song-i"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "고불",
+        "preferred": "Gobul"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
