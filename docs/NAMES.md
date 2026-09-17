@@ -891,3 +891,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 게이트 관리청 | **Gate Management Agency** | Agency that provides Taekyung's VIP limousine. |
 | 8학군 | **School District 8** | Prestigious Gangnam education district associated with affluent families and elite schools. |
 | 김진수 | **Kim Jinsoo** | Peace Guild rookie who graduated first in the training camp’s B-rank course. |
+| 블랙 헌터 | **Black Hunter** | Unregistered Awakened person who has received systematic training comparable to a Hunter. |
+| 미등록자 | **unregistered Awakened person** | Awakened person who fails to register with the Association within the designated period. |
+| 특수 치료 병동 | **Special Treatment Ward** | Hospital ward where healers, rather than ordinary doctors, treat severe injuries. |
