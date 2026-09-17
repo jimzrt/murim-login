@@ -1,6 +1,6 @@
 # Im Chunsoo (임춘수)
 
-- **Safe through:** Chapter 214
+- **Safe through:** Chapter 287
 - **Aliases:** Frozen
 - **Role:** Level 75 A-rank Hunter; founder and Guild Master of Sangdong Guild; renowned ice mage who personally confronted Jin Taekyung; former Class 25 trainee at the Hunter Training Center under Class 3 instructor Kim Hwajong
 - **Personality:** Intimidating, severe, and extremely short-tempered, though he has tried to moderate his temper with age
