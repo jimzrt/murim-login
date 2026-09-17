@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Choi Minwoo did not know it, but he had just reached the fourth level of the Jin Family's Cultivation Technique.",
+      "defect": "The draft converts the specifically named cultivation stage 사 성, Four Stars, into the generic fourth level.",
+      "id": "F01",
+      "rationale": "The source identifies a named stage in the technique's progression, not merely its ordinal level.",
+      "replacement": "Choi Minwoo did not know it, but he had just reached Four Stars in the Jin Family's Cultivation Technique.",
+      "severity": "major",
+      "source": "최민우는 알지 못했지만, 그는 지금 막 진가심법의 사 성(成)에 도달한 상태였다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“It's hard to say. We've heard nothing for an hour now.”",
+      "defect": "The source gives a pessimistic assessment that Taekyung is unlikely to have survived, while the draft changes it into uncertainty.",
+      "id": "F02",
+      "rationale": "In response to whether Taekyung is dead, 어렵지 means his prospects are poor, as reinforced by the reporter's subsequent claim that anyone else would already be presumed dead.",
+      "replacement": "“It doesn't look good. We haven't heard a thing for an hour now.”",
+      "severity": "major",
+      "source": "“어렵지. 벌써 한 시간째 감감무소식이잖아.”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "*The nerve to casually offer such an incredible secret art, the skill to defeat a Named Monster alone, the courage not to back down even before Lee Jungryong and the Ares Guild… Is there anyone else like him?*",
+      "defect": "The idiom “the nerve to” normally conveys indignation or disapproval, contradicting Minwoo's admiration for Taekyung's bold generosity.",
+      "id": "F03",
+      "rationale": "배포 praises Taekyung's extraordinary boldness and largeness of spirit in freely sharing the technique.",
+      "replacement": "*The sheer boldness to casually hand over such an incredible secret art, the skill to defeat a Named Monster alone, the courage not to back down even before Lee Jungryong and the Ares Guild… Is there anyone else like him?*",
+      "severity": "major",
+      "source": "‘그런 엄청난 비전을 아무렇지 않게 내놓는 배포, 네임드 몬스터를 홀로 처치하는 실력, 이정룡과 아레스 길드의 이름에도 물러서지 않는 배짱…… 이런 사람이 또 있을까?’"
+    },
+    {
+      "confidence": 0.98,
+      "current": "He had been so focused on circulating his qi that he had lost track of time. The immense force passed through hundreds of acupoints, swelling ever so slightly.",
+      "defect": "The Murim 기운 circulating through Minwoo's acupoints is rendered as the generic “force” rather than qi.",
+      "id": "F04",
+      "rationale": "The passage describes cultivated Murim energy moving through acupoints, for which the established rendering is qi.",
+      "replacement": "He had been so focused on circulating his qi that he had lost track of time. The immense qi flowed through hundreds of acupoints, swelling ever so slightly.",
+      "severity": "minor",
+      "source": "시간이 가는 줄도 모르고 운기조식에 집중하기를 한참, 거대한 기운은 수백 개의 혈도를 이동하며 아주 미세하게 그 크기를 부풀렸다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The enormous force Jin Taekyung called *one jiazi*[^1] made one final, sweeping circuit before settling gently into the dantian beneath his navel.",
+      "defect": "The draft again calls cultivated Murim 기운 “force,” obscuring that this is the same qi circulating through Minwoo's body.",
+      "id": "F05",
+      "rationale": "The source describes one jiazi's worth of cultivated qi settling into the dantian.",
+      "replacement": "The enormous qi Jin Taekyung called *one jiazi*[^1] made one final, sweeping circuit before settling gently into the dantian beneath his navel.",
+      "severity": "minor",
+      "source": "진태경이 ‘일 갑자’라고 부르는 거대한 기운은 마지막으로 크게 한 바퀴를 빙글 돌더니 배꼽 아래, 단전에 부드럽게 내려앉았다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Had the last time he seen him been before he started elementary school?",
+      "defect": "The sentence is grammatically malformed because “seen” lacks the required auxiliary.",
+      "id": "F06",
+      "rationale": "The replacement preserves Minwoo's tentative recollection while correcting the verb construction.",
+      "replacement": "Was the last time he'd seen him before he started elementary school?",
+      "severity": "minor",
+      "source": "마지막으로 본 것이 아마 초등학교 입학 전이었던가?"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Wow. Another bumper harvest.”[^1]",
+      "defect": "The line incorrectly repeats the jiazi footnote marker, causing the harvest joke to point to an unrelated explanation of the sixty-year cycle.",
+      "id": "F07",
+      "rationale": "Nothing in this line requires the jiazi footnote, which is already correctly attached to the term's earlier occurrence.",
+      "replacement": "“Wow. Another bumper harvest.”",
+      "severity": "minor",
+      "source": "“이야, 이번 농사도 풍년이다.”"
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it changes a named cultivation stage, softens an assessment of Taekyung’s survival, gives an admiring thought a disapproving connotation, inconsistently renders Murim qi as force, and contains a duplicated footnote marker.",
+  "version": 1
+}

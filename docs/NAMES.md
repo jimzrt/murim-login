@@ -961,3 +961,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 정몽주 | **Jeong Mong-ju** | Historical Korean scholar-official referenced through the Warlord’s quotation. |
 | 단심가 | **Song of My Single Heart** | Poem associated with Jeong Mong-ju and unwavering loyalty. |
 | 통합 언어 팩 | **Unified Language Pack** | System function that lets Taekyung understand demon-world speech. |
+| 서울지부 협회장 | **Seoul Branch President** | Hunter Association official overseeing the rescue response at the Black Forest. |
+| 서울 협회장 | **Seoul Branch President** | Source variant for the Seoul Branch President. |
