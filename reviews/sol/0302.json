@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "That’s what I’m saying—what are they rescuing? If they’re rescuing a corpse, that isn’t a rescue. It’s cleanup.",
+      "defect": "“Cleanup” is broader and more dismissive than 수습, which specifically contrasts rescuing a living person with recovering a corpse.",
+      "id": "F01",
+      "rationale": "The source hinges on the distinction between 구조, rescue, and 수습, recovery of the dead.",
+      "replacement": "That’s what I’m saying—what are they rescuing? You don’t rescue a corpse. You recover it.",
+      "severity": "minor",
+      "source": "아니 그러니까 뭘 구조하냐고. 시체 구조하면 그게 구조냐, 수습이지."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Like someone’s sharp rebuke, the situation was more serious than expected.",
+      "defect": "The comparison is attached to the situation itself, producing an illogical image instead of attributing the observation to the preceding commenter.",
+      "id": "F02",
+      "rationale": "누군가의 일침처럼 refers back to the pointed chat remark that exposed the gravity of the situation.",
+      "replacement": "As one commenter had bluntly pointed out, the situation was more serious than expected.",
+      "severity": "minor",
+      "source": "누군가의 일침처럼 분위기는 생각보다 심각했다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Then why hasn’t anyone come out? They said the Battle Map Gate is close enough to touch with your nose if you fell flat on your face.",
+      "defect": "The draft misparses 전투지도 as a proper name, “Battle Map Gate.” The source says the battle site is extremely close to the Gate.",
+      "id": "F03",
+      "rationale": "전투지 is the battle site, while 도 is the topic particle; the sentence describes the distance between that site and the Gate.",
+      "replacement": "Then why hasn’t anyone come out? They said the battle site was just a stone’s throw from the Gate.",
+      "severity": "critical",
+      "source": "근데 왜 아무도 안 와. 전투지도 게이트에서 엎어지면 코 닿을 거리라며."
+    },
+    {
+      "confidence": 1.0,
+      "current": "They were carrying stretchers covered with large sheets. As the stretchers swayed with each step, one blood-soaked hand slipped out from beneath the cloth.",
+      "defect": "The draft changes the single stretcher and single covering cloth into multiple stretchers and sheets.",
+      "id": "F04",
+      "rationale": "Both 들것 and 천 are singular in the source, and the later hand belongs to the person on that one stretcher.",
+      "replacement": "They were carrying a stretcher covered with a large sheet. As it swayed with each step, one blood-soaked hand slipped out from beneath the cloth.",
+      "severity": "critical",
+      "source": "그들의 손에는 커다란 천에 덮인 들것이 들려 있었다. 걸음에 들것이 흔들리자 피에 젖은 손 하나가 천 밖으로 툭 밀려 나왔다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Whoa. Why are there so many of these?”",
+      "defect": "“Whoa” expresses general surprise but omits the explicit cue that the sight startled Taekyung.",
+      "id": "F05",
+      "rationale": "깜짝이야 specifically says that he was startled, preserving his immediate reaction on emerging from the Gate.",
+      "replacement": "“That startled me. Why are there so many of these?”",
+      "severity": "minor",
+      "source": "“깜짝이야. 뭐가 이렇게 많아?”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Nope. I’m Fatty.”",
+      "defect": "뚱이 is Patrick Star’s Korean name here, not a generic claim that the speaker is fat, so the draft loses the recognizable deadpan joke.",
+      "id": "F06",
+      "rationale": "The line invokes the established Korean rendering of the SpongeBob meme, whose English punchline is “No, this is Patrick.”",
+      "replacement": "“No. This is Patrick.”",
+      "severity": "major",
+      "source": "“아뇨. 뚱인데요.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“It looked open to me.”",
+      "defect": "The draft adds subjective uncertainty and weakens Taekyung’s bald, deadpan denial after breaking the lock.",
+      "id": "F07",
+      "rationale": "열려 있던데 directly asserts that it was open; it does not mean that it merely appeared open.",
+      "replacement": "“It was open.”",
+      "severity": "minor",
+      "source": "“열려 있던데.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Warlordmon, Lightning Petrification!”",
+      "defect": "The draft translates the individual characters of the fixed expression 전광석화, producing a nonexistent petrification command and obscuring the speed joke.",
+      "id": "F08",
+      "rationale": "전광석화 means moving in a flash and is also the Korean name of Pokémon’s Quick Attack, matching “Warlordmon” and the rapid shaking that immediately follows.",
+      "replacement": "“Warlordmon, Quick Attack!”",
+      "severity": "major",
+      "source": "“워로드몬, 전광 석화!”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Why on earth did you even bring that thing here…?”",
+      "defect": "The draft omits 잡아, which explicitly says Taekyung captured the Skeleton Warlord before bringing it back.",
+      "id": "F09",
+      "rationale": "잡아 오다 combines catching or capturing something with bringing it back; the capture is a stated action, not merely implied transport.",
+      "replacement": "“Why on earth did you capture that thing and bring it back…?”",
+      "severity": "major",
+      "source": "“저건 도대체 왜 잡아 와서…….”"
+    }
+  ],
+  "summary": "The draft contains two scene-fact errors involving the battle site and the number of stretchers, plus several mistranslated jokes, omitted action details, and localized register issues.",
+  "version": 1
+}

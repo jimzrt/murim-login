@@ -969,3 +969,12 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 이우중 | **Lee Woojoong** | Seoul Branch President of the Hunters Association. |
 | 서울 중앙지부 헌터 협회장 | **Seoul Branch President** | Source title for Lee Woojoong; variant of the established Seoul Association title. |
 | 열화 | **Blazing Flame** | Lineage term in Taekyung's declaration as the Fire King's successor. |
+| 소르코바체 | **Sorkovache** | Russian furniture master credited with making Team Leader Choi's seventeenth-century-style imperial sofa. |
+| 존슨 | **Johnson** | Co-host of the American talk show that replays Taekyung's viral interview. |
+| 코난 | **Conan** | Host of the American talk show discussing Taekyung's viral interview. |
+| 워로드몬 | **Warlordmon** | Taekyung's mocking nickname for the Skeleton Warlord. |
+| CNM | **CNM** | American broadcaster requesting an interview with Taekyung. |
+| BCC | **BCC** | British broadcaster offering Taekyung a live special-guest interview. |
+| 러시아 | **Russia** | Country associated with Sorkovache and the imperial-style sofa. |
+| 미국 | **United States** | Country associated with the talk show and CNM. |
+| 영국 | **United Kingdom** | Country associated with BCC. |
