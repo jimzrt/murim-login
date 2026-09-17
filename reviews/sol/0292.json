@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "> - If you do not answer within five seconds, the Quest will be canceled automatically.\n>\n> - Five, four, three…",
+      "defect": "Three paragraphs are omitted, removing Taekyung’s frustration, his desire to inspect the Quest, and the mechanical explanation that abandoning True Qi Guidance could cause an Internal Injury. The omission also incorrectly makes the countdown appear immediately after the initial prompt without the intervening prose.",
+      "id": "F01",
+      "rationale": "The source explicitly states what Taekyung is doing and why releasing control is dangerous before the countdown begins.",
+      "replacement": "Damn it. Why now?\n\nI was dying to check the Quest window.\n\nBut I was in the middle of True Qi Guidance. Circulating my own qi would be one thing, but if I let go of control here, I could easily suffer an Internal Injury.\n\n> **System**\n>\n> - If you do not answer within five seconds, the Quest will be canceled automatically.\n>\n> - Five, four, three…",
+      "severity": "major",
+      "source": "젠장. 하필이면 지금?\n\n퀘스트창을 확인하고 싶은 마음이 굴뚝 같다.\n\n하지만 지금은 진기도인 중이다. 나 혼자 하는 운기조식이라면 모르지만 여기서 통제를 풀어 버리면 내상을 입기 십상이다.\n\n\n\n- 5초 안에 대답하지 않으면 퀘스트가 자동으로 취소됩니다.\n\n- 오, 사, 삼……."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Accept!”",
+      "defect": "The source presents the acceptance as an internal command, but the draft changes it into spoken dialogue.",
+      "id": "F02",
+      "rationale": "The Korean thought quotation marks identify this as Taekyung’s thought rather than an utterance.",
+      "replacement": "*Accept!*",
+      "severity": "critical",
+      "source": "‘수락!’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "It was energy that Jin Taekyung—the Third Rate wastrel who had once inhabited this body—had been unable to digest completely.",
+      "defect": "The draft adds the unsupported claim that the wastrel Jin Taekyung once inhabited the body and omits the source’s explicit distinction, “not me.” This changes how the two identities are framed.",
+      "id": "F03",
+      "rationale": "The source contrasts the narrator with the wastrel Jin Taekyung but says nothing here about a previous inhabitant of the body.",
+      "replacement": "It was internal energy that the Third Rate wastrel Jin Taekyung—not me—had been unable to fully digest.",
+      "severity": "critical",
+      "source": "그것은 내가 아닌 삼류 망나니 진태경이 미처 소화 시키지 못한 공력이었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Kim, is that really so impressive?”",
+      "defect": "The draft drops 형, flattening Im Kkeokjeong’s familiar junior-to-senior form of address toward Butler Kim.",
+      "id": "F04",
+      "rationale": "The explicit address 김 형 conveys personal familiarity and age hierarchy rather than merely naming Kim.",
+      "replacement": "“Kim hyung, is that really so impressive?”",
+      "severity": "major",
+      "source": "“김 형, 저게 그렇게 대단한 겁니까?”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "Why had those things happened? Why had Cheon Taemin’s Mana Cultivation Method fallen into the hands of the ambitious Lee Jungryong, who was not of his bloodline?",
+      "defect": "The first question changes “what happened” to “why,” while the second recasts Lee Jungryong as simply unrelated and loses the source’s contrast between him and Cheon Taemin’s sole blood relative.",
+      "id": "F05",
+      "rationale": "The source asks about the events themselves and contrasts Lee Jungryong with Cheon Taemin’s 유일한 핏줄, not merely with blood relatives in general.",
+      "replacement": "What had happened? Why had Cheon Taemin’s Mana Cultivation Method fallen into the hands of an ambitious man like Lee Jungryong instead of his only flesh and blood?",
+      "severity": "major",
+      "source": "무슨 일이 있었는지, 천태민의 마나 연공법이 왜 유일한 핏줄이 아닌 이정룡이라는 야심가의 손에 들어갔는지."
+    },
+    {
+      "confidence": 0.99,
+      "current": "That’s right. It wasn’t over yet. If those three could become even half as capable as Team Leader Choi, there was still a chance they could advance to the Supreme Peak realm.",
+      "defect": "The draft makes the three prospective test subjects the ones who might advance to Supreme Peak. In context, Taekyung means that using them could give him another chance to advance.",
+      "id": "F06",
+      "rationale": "Taekyung immediately calls the three people his remaining test subjects because he hopes to recreate the opportunity he just lost; they are the means, not the candidates for Supreme Peak.",
+      "replacement": "That’s right. It wasn’t over yet. If those three had even half as much as Team Leader Choi, I might still have a chance to advance to the Supreme Peak realm.",
+      "severity": "critical",
+      "source": "맞다. 아직 끝난 것이 아니다. 저 세 사람이 최 팀장의 절반만 되어도 초절정으로 나아갈 수 있는 가능성이 생긴다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Take off your shirts immediately. Move.”",
+      "defect": "The draft narrows the deliberately general 상의 to shirts and renders the clipped command 실시 as the movement order “Move.”",
+      "id": "F07",
+      "rationale": "상의 means upper garments or tops, which matters because the command addresses everyone present, including Song Song; 실시 orders them to carry it out.",
+      "replacement": "“Take off your tops immediately. Do it.”",
+      "severity": "minor",
+      "source": "“지금 즉시 상의를 벗습니다. 실시.”"
+    }
+  ],
+  "summary": "The draft omits the opening danger and timing of True Qi Guidance, adds an unsupported identity claim, loses a hierarchy marker, alters the bloodline contrast, and assigns the chance of reaching Supreme Peak to the wrong subject.",
+  "version": 1
+}

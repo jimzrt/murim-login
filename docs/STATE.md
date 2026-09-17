@@ -1,15 +1,16 @@
 # Translation State
 
-- Last completed: 291
-- Next chapter: 292
-- Current block: 290–294 (2/5)
-- Latest translation: `translations/0291.md`
-- Latest summary: `summaries/beats/0291.md`
-- Safe profiles through: chapter 291
+- Last completed: 292
+- Next chapter: 293
+- Current block: 290–294 (3/5)
+- Latest translation: `translations/0292.md`
+- Latest summary: `summaries/beats/0292.md`
+- Safe profiles through: chapter 292
 
 ## Current Block
 
-- Jin Taekyung explains that the Jin Family's Cultivation Technique increases mana and grants exceptionally advanced control, then decides to secretly teach it to the four Peace Guild members present before screening new Hunters for the same training. When he begins teaching Team Leader Choi, the System generates the Peak-grade repeat Quest "Back, Back—Let's See Your Back!", whose mission is to guide Choi's learning and whose failure may cause qi deviation. Taekyung begins True Qi Guidance, discovers that Choi has unusually abundant and clean energy, guides it through dozens of acupoints, and nearly completes the first circulation. When he reaches Choi's dantian, he finds a huge mass of qi occupying half of it, triggering a Sudden Quest asking whether he will take only half the internal energy he digests; the chapter ends before he chooses.
+- Jin Taekyung accepts the Sudden Quest requiring him to take only half of the internal energy he digests and uses Scorching Yang Qi to attack the mysterious qi mass in Team Leader Choi's dantian. He absorbs half of the mass while guiding the remainder, enabling Choi to complete his first complete circulation of the Jin Family's Cultivation Technique. Choi becomes a martial artist, gains free control over his mana, and nearly doubles his mana reserves.
+- Taekyung's absorption raises his internal energy to 100 years, advances the Fire Gate Divine Technique to Seven Stars, grants him the Title I'm a Master, completes both Quests, and produces a level-up. He nearly achieves Three Flowers Gather at the Crown and enters the Supreme Peak realm, but the breakthrough fails just before completion. He then decides to try the same process on Butler Kim, Im Kkeokjeong, and Song Song, causing the Repeat Quest Back, Back—Let's See Your Back! to appear again as the three retreat in fear.
 
 ## Open Questions
 
@@ -17,8 +18,9 @@
 - What history led Lee Jungryong to regard the unrelated Cheon Taemin as his older brother?
 - How extensive are Ares Guild's undisclosed forces beyond its officially registered Hunters?
 - Will Im Kkeokjeong's reattached arms recover sufficiently for him to return to Hunter work?
-- What is the large qi mass occupying half of Team Leader Choi's dantian?
-- Will Taekyung accept the Sudden Quest concerning half of the internal energy he digests?
+- What is the origin of the large qi mass in Team Leader Choi's dantian?
+- What prevented Taekyung from completing his breakthrough into the Supreme Peak realm?
+- Will Taekyung's attempt to guide the other three people's energy produce the same result?
 
 ## Exceptional Decision
 
@@ -29,6 +31,7 @@
 - Render 진기도인 as "True Qi Guidance."
 - Render 소주천 as "Small Circulation."
 - Render 일주천 as "complete circulation."
+- Render 삼화취정 as "Three Flowers Gather at the Crown," 무아지경 as "Trance," 내가고수 as "I'm a Master," and 칠 성 as "Seven Stars."
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
