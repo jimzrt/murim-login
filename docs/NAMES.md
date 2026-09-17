@@ -923,3 +923,9 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 비급제작 | **Martial Arts Manual Creation** | System Skill for creating martial arts manuals; requires at least 300 sheets of A4 paper. |
 | 마나 연공법 | **Mana Cultivation Method** | Modern Hunter cultivation method recognized by Team Leader Choi and Butler Kim. |
 | 고양진가 | **Jin Family of Goyang** | Taekyung's joking modern-world counterpart to the Jin Family of Taiyuan. |
+| 2차 각성자 | **Second Awakener** | Hunter classification for someone who has awakened a second time. |
+| 진기도인 | **True Qi Guidance** | System-named method for guiding another person's internal energy. |
+| 소주천 | **Small Circulation** | Circulation of qi according to the Jin Family's Cultivation Technique. |
+| 일주천 | **complete circulation** | Completion of one full qi circulation. |
+| 등짝, 등짝을 보자! | **Back, Back—Let's See Your Back!** | Peak-grade repeat Quest title. |
+| 난 소화한 공력의 반만 가져가 | **I'll Take Only Half the Internal Energy I Digest** | Sudden Quest title generated in Team Leader Choi's dantian. |
