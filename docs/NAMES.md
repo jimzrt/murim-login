@@ -941,3 +941,20 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 로그인 무림 | **Login Murim** | Web novel recommended in the Hunter community comments. |
 | 제로빅 | **Zerobic** | Name used in a forum joke about the recommended web novel. |
 | 둘리 | **Dooly** | Korean cartoon character referenced in the goodwill proverb. |
+| 흑마법사의 검은 숲 | **Black Wizard’s Black Forest** | A-rank Gate ruled by a black wizard or necromancer. |
+| 게이트 공략 | **Gate Raid** | Quest automatically generated upon entering the Gate. |
+| 흑마법사 | **black wizard** | Ruler or magical classification associated with the Gate. |
+| 네크로맨서 | **necromancer** | Alternate description of the black wizard ruling the Gate. |
+| 도사견 | **Tosa mastiff** | Taekyung’s nickname for the veteran third-week trainees. |
+| 댕댕이 | **pup** | Taekyung’s nickname for first-day trainees. |
+| 피리 부는 사나이 | **the Pied Piper** | Nickname for Taekyung when he lures monsters toward the Guild formation. |
+| 구울 | **Ghoul** | Undead monster species. |
+| 스켈레톤 | **Skeleton** | Undead monster species. |
+| 좀비 | **Zombie** | Undead monster species. |
+| 언데드 몬스터 | **Undead Monster** | Classification for the cursed dead in the Gate. |
+| 스켈레톤 솔져 | **Skeleton Soldier** | Skeleton subtype. |
+| 메이지 | **Mage** | Skeleton subtype mentioned alongside Soldiers and Warriors. |
+| 워리어 | **Warrior** | Skeleton subtype mentioned alongside Soldiers and Mages. |
+| 스켈레톤 나이트 | **Skeleton Knight** | A-rank undead monster that commands lower-level skeletons. |
+| 골검 | **Bone Sword** | Sword wielded by the Skeleton Knights. |
+| 스켈레톤 워로드 | **Skeleton Warlord** | Level 105 undead monster created when the leading Skeleton Knight transforms. |
