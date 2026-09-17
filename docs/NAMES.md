@@ -861,3 +861,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 폭혈마공 | **Exploding Blood Demonic Art** | Demonic art used by masked attackers as a battlefield self-detonation technique. |
 | 부동심 | **Unshakable Mind** | Mental discipline Hongcheon is accused of abandoning when he loses composure. |
 | 음한지공 | **Yin-Cold Technique** | Han Su's extreme cold-based internal technique. |
+| 삼도천 | **Sanzu River** | Buddhist river associated with the boundary between life and death; footnote on first use. |
+| 혈주 | **Blood Lord** | Title of the unidentified young man encountered by Han Su. |
