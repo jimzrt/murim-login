@@ -899,3 +899,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 꼬리 | **the “tail”** | Codename for the Black Hunter traced by Butler Kim. |
 | 임영준 | **Im Yeongjun** | Level 95 A-rank Black Hunter concealed as a rural resident. |
 | 세 얼간이 | **Three Idiots** | Taekyung's mocking collective nickname for three acquaintances. |
+| 멸천신권 | **Heaven-Destroying Divine Fist** | Taekyung's full-power fist technique used to destroy the mansion's defensive barriers; distinct from 멸염신권. |
