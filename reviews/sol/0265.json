@@ -1,0 +1,136 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Jeok Cheongang was already out of the fight. If I expended any more strength here…\n\nThen something truly irreversible would happen.",
+      "defect": "The draft changes the implied subject from Jeok Cheongang to Taekyung, making Taekyung’s further exertion the cause of the irreversible consequence.",
+      "id": "F01",
+      "rationale": "The surrounding sentences explicitly concern Jeok Cheongang’s incapacitation and the danger of him consuming any more strength.",
+      "replacement": "Jeok Cheongang was already out of the fight. If he expended any more strength here… then something truly irreversible would happen.",
+      "severity": "critical",
+      "source": "적천강은 이미 전투 불능이다. 여기서 더 힘을 소모한다면…… 그때는 정말 돌이킬 수 없는 일이 벌어질 것이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "I slowly drew up the less-than-ten-percent of my internal energy that remained.",
+      "defect": "The hyphenated nominal phrase is unidiomatic English.",
+      "id": "F02",
+      "rationale": "일 할도 채 남지 않은 means that not even ten percent remains.",
+      "replacement": "I slowly drew up what little remained of my internal energy—not even ten percent.",
+      "severity": "minor",
+      "source": "나는 이제 일 할도 채 남지 않은 공력을 천천히 끌어 올렸다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Go fuck yourself. After today, I’ll have nothing more to do with a bastard like you.”",
+      "defect": "The generic insult loses both the explicit dick-eating image and the mock-polite register of 잡수십쇼.",
+      "id": "F03",
+      "rationale": "The source deliberately combines strong vulgarity with exaggerated polite wording for comic contempt.",
+      "replacement": "“Why don’t you eat a dick, sir? After today, I’ll never have to deal with a bastard like you again.”",
+      "severity": "major",
+      "source": "“좆이나 까 잡수십쇼. 너 같은 새끼랑은 오늘을 마지막으로 상종할 일 없으니까.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Who was it that said this? Once is coincidence. Twice is fate. A third meeting is destiny.”",
+      "defect": "Rendering 인연 as “fate” collapses the deliberate progression from coincidence to a connection or bond and finally to destiny.",
+      "id": "F04",
+      "rationale": "The ensuing exchange repeatedly contrasts 인연 with 운명, so they must remain distinct in English.",
+      "replacement": "“Who was it that said this? Once is coincidence. Twice is a connection. A third meeting is destiny.”",
+      "severity": "major",
+      "source": "“누가 그런 말을 했었지. 한 번은 우연. 두 번은 인연. 세 번째 만남은 운명이라고.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Perhaps. It isn’t a relationship between a man and a woman, but if we’ve crossed paths twice in this vast world, wouldn’t that qualify as fate?”",
+      "defect": "The line again renders 인연 as “fate,” erasing the distinction that drives the Blood Lord’s wordplay.",
+      "id": "F05",
+      "rationale": "He is classifying their second encounter as 인연, not yet as the 운명 reserved for a third meeting.",
+      "replacement": "“Perhaps. It isn’t a relationship between a man and a woman, but if we’ve crossed paths twice in this vast world, wouldn’t that make it a connection?”",
+      "severity": "major",
+      "source": "“글쎄. 남녀관계는 아니지만, 이 드넓은 천하에서 두 번이나 마주쳤다면 인연 정도는 되지 않을까?”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Oh, what about that Third Rate sect called the Mount Heng Sword Sect? Is it still around? I heard a report from one of my subordinates that you killed the Sect Leader’s son. I lost interest after Eight Spring Gorge, so I haven’t paid much attention.”",
+      "defect": "The draft invents Taekyung as the killer and turns an unspecified Sect Leader’s son into a definite individual.",
+      "id": "F06",
+      "rationale": "The Korean does not identify Taekyung as the subject of 죽였다는; it reports only that a son of the Sect Leader was killed.",
+      "replacement": "“Oh, what about that Third Rate sect called the Mount Heng Sword Sect? Is it still around? I did hear from one of my subordinates that one of its Sect Leader’s sons had been killed. I lost interest after Eight Spring Gorge, so I haven’t paid much attention.”",
+      "severity": "critical",
+      "source": "“아, 항산검문인가 하는 그 삼류 문파는 아직 남아 있나? 아랫놈에게 문주의 아들놈 하나를 죽였다는 보고를 듣긴 했는데. 팔천협 이후로는 영 관심이 안 생겨서 말이야.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Once is coincidence. Twice is fate. A third meeting is destiny. What do you think? Wouldn’t the two of us qualify as fate?”",
+      "defect": "Both occurrences of 인연 are translated as “fate,” making the contrast with 운명 semantically incoherent.",
+      "id": "F07",
+      "rationale": "The Blood Lord is still calling their two encounters an 인연 while reserving 운명 for a third.",
+      "replacement": "“Once is coincidence. Twice is a connection. A third meeting is destiny. What do you think? Wouldn’t you say there’s a connection between us?”",
+      "severity": "major",
+      "source": "“한 번은 우연. 두 번은 인연. 세 번은 운명이라고. 어때, 우리 정도면 인연이 아닐까?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“You know that bullshit about once being coincidence, twice being fate, or whatever?”",
+      "defect": "The paraphrase repeats the same loss of distinction between 인연 and the following 운명.",
+      "id": "F08",
+      "rationale": "Taekyung’s next line proposes skipping the intermediate 인연 stage and going directly to 운명, which requires distinct English terms.",
+      "replacement": "“You know that bullshit about once being coincidence, twice making a connection, or whatever?”",
+      "severity": "major",
+      "source": "“한 번은 우연. 두 번은 인연. 어쩌구 하는 그 개소리 말인데.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "When Shanxi’s martial world staggered, the mounted bandits of Gaoyuan rose up.",
+      "defect": "The draft misses the binding term “Murim,” while “rose up” suggests an uprising rather than the bandits running rampant.",
+      "id": "F09",
+      "rationale": "무림 maps to “Murim,” and 발호했다 describes unchecked predation or rampant activity.",
+      "replacement": "When Shanxi’s Murim reeled, the mounted bandits of Gaoyuan ran rampant.",
+      "severity": "minor",
+      "source": "산서 무림이 휘청이자 고원의 마적들이 발호했다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "He wanted to collapse and give up.",
+      "defect": "“And give up” adds an explicit surrender impulse absent from the source.",
+      "id": "F10",
+      "rationale": "쓰러지고 싶다 expresses only the desire to fall or collapse; it does not state that Cheongpung wants to surrender.",
+      "replacement": "He wanted to collapse.",
+      "severity": "minor",
+      "source": "아프다. 쓰러지고 싶다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "The Blood Lord shook his head, his face pale with exhaustion.",
+      "defect": "The draft changes the Blood Lord’s appalled or fed-up reaction to Jin Taekyung’s tenacity into physical exhaustion.",
+      "id": "F11",
+      "rationale": "질린 얼굴 describes being aghast, sickened, or fed up; his physical condition is conveyed separately by the blood covering his body and his rough breathing.",
+      "replacement": "The Blood Lord shook his head, looking thoroughly appalled.",
+      "severity": "major",
+      "source": "질린 얼굴로 고개를 내젓는 혈주 역시 전신이 피범벅이었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Have I gone insane, or are you people…”",
+      "defect": "The idiom is mistranslated as the Blood Lord questioning his own sanity rather than calling the others lunatics.",
+      "id": "F12",
+      "rationale": "이런 미친놈들을 봤나 is an incredulous reaction to the other people’s madness.",
+      "replacement": "“What a bunch of lunatics…”",
+      "severity": "major",
+      "source": "“이런 미친놈들을 봤나…….”"
+    },
+    {
+      "confidence": 0.93,
+      "current": "“You’ve broken through your shell.”",
+      "defect": "“Broken through your shell” is an unnatural collocation and weakens the image of escaping a limiting shell.",
+      "id": "F13",
+      "rationale": "The line metaphorically marks Cheongpung overcoming the fear that confined him; “broken free of” preserves that image naturally.",
+      "replacement": "“You’ve broken free of your shell.”",
+      "severity": "minor",
+      "source": "“껍질을 깼구나.”"
+    }
+  ],
+  "summary": "Two critical subject changes alter who expends strength and who killed the Sect Leader’s son. The draft also collapses the repeated distinction between connection and destiny, loses a profane register joke, and contains several localized characterization and terminology errors.",
+  "version": 1
+}
