@@ -774,3 +774,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 장유 | **Jangyu** | Martial artist eliminated during the fist-and-foot assessment. |
 | 소당문 | **Sodang Sect** | Sect of the martial artist Gobul. |
 | 고불 | **Gobul** | First Rate martial artist who passes the fist-and-foot assessment. |
+| 장보고 | **Jang Bogo** | Historical Korean maritime commander used in Taekyung's joke about the Seafaring King. |
+| 화왕의 분노 | **Fire King's Wrath** | Failure penalty for the Star-Array Grand Banquet Quest. |
+| 파선권 | **Ship-Breaking Fist** | Named fist technique demonstrated by the Iron-Water Divine Dragon. |
+| 멸염신권 | **Flame-Extinguishing Divine Fist** | Named fist technique Taekyung announces at the chapter's end. |

@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Even so, the fact that Jeok Cheongang had gone out of his way to inform me through the Quest window meant that his expectations were probably enormous.",
+      "defect": "The draft explicitly makes Jeok Cheongang the agent communicating through the Quest window, whereas the source only treats the Quest window’s notice as evidence of his expectations.",
+      "id": "F01",
+      "rationale": "This preserves the Quest window as the source of the information without adding that Jeok Cheongang personally controls or communicates through it.",
+      "replacement": "Even so, the fact that the Quest window went out of its way to spell it out suggested just how much Jeok Cheongang expected of me.",
+      "severity": "major",
+      "source": "그럼에도 굳이 퀘스트창으로도 알려 주는 걸 보니 적천강이 품는 기대감이 대단한 모양이었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "The scale of the Star-Array Grand Banquet was so enormous that every supervisor controlling the examinations was a considerable martial artist, ranging from at least First Rate to Peak.\n\nThe supervisor assigned to our group was at the First Rate realm, but the moment the Iron-Water Divine Dragon gripped his shoulder, the supervisor’s face turned deathly pale.",
+      "defect": "Both occurrences of 초일류 are reduced to ordinary First Rate, understating the supervisors’ martial level and the Iron-Water Divine Dragon’s dominance over this particular supervisor.",
+      "id": "F02",
+      "rationale": "The 초 prefix marks a level above an ordinary First Rate martial artist; retaining that distinction is necessary to preserve the power hierarchy.",
+      "replacement": "The scale of the Star-Array Grand Banquet was so enormous that every supervisor overseeing the examinations was a formidable martial artist, ranging from the upper reaches of First Rate to Peak.\n\nThe supervisor assigned to our group was at the upper reaches of First Rate, but the moment the Iron-Water Divine Dragon gripped his shoulder, the supervisor’s face turned deathly pale.",
+      "severity": "major",
+      "source": "규모가 워낙 크다 보니 심사를 통제하는 감독관도 하나같이 상당한 실력자들이다. 최소 초일류에서 절정까지.\n\n내가 속해 있는 조의 감독관은 초일류의 경지였지만, 철수신룡의 손이 어깨를 움켜쥐자 얼굴이 새하얗게 질렸다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Sure. But if you reduce that to two words, aren’t you still pirates?”",
+      "defect": "The source jokes that the grand description reduces to the two-syllable word 해적, but the draft incorrectly calls “pirates” two words.",
+      "id": "F03",
+      "rationale": "“Pirate” is also two syllables, allowing the numerical wordplay and Taekyung’s dismissive punchline to survive naturally in English.",
+      "replacement": "“Sure. But boil that down to two syllables and you get ‘pirate,’ don’t you?”",
+      "severity": "minor",
+      "source": "“그래. 근데 그걸 두 글자로 줄이면 해적 아니냐?”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "*Is he a kid?*\n\nMaybe it was because he was a pirate, but he was unbelievably simple and muscle-bound.",
+      "defect": "The narration sanitizes the vulgar 애새끼 and replaces 무식하다, meaning ignorant or stupid, with the added physical characterization “muscle-bound.”",
+      "id": "F04",
+      "rationale": "The replacement restores Taekyung’s profanity and the source’s judgment that Cheol Soo is both simplistic and ignorant, without adding a comment about his physique.",
+      "replacement": "*What is he, a fucking child?*\n\nMaybe it was because he was a pirate, but he was as simpleminded and ignorant as they came.",
+      "severity": "major",
+      "source": "‘애새낀가.’\n\n해적 놈이라 그런지 단순무식하기 짝이 없다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "The Iron-Water Divine Dragon snickered when he saw me sigh as though the ground were collapsing beneath me.",
+      "defect": "이죽거렸다 describes taunting or jeering speech, not a snickering laugh; the draft changes the character’s action immediately before his line.",
+      "id": "F05",
+      "rationale": "This preserves both the exaggerated depth of Taekyung’s sigh and the source’s indication that Cheol Soo delivers the following remark as a taunt.",
+      "replacement": "Seeing me heave a tremendous sigh, the Iron-Water Divine Dragon taunted me.",
+      "severity": "minor",
+      "source": "땅이 꺼져라 한숨을 내쉬는 내 모습을 본 철수신룡이 이죽거렸다."
+    }
+  ],
+  "summary": "Several actionable fidelity issues alter agency, martial hierarchy, wordplay, characterization, and a speech action.",
+  "version": 1
+}
