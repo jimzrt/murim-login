@@ -1,0 +1,39 @@
+{
+  "chapter": 219,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.142,
+    "source_characters": 5726,
+    "source_paragraphs": 172,
+    "translation_characters": 12265,
+    "translation_paragraphs": 172
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "철수",
+        "preferred": "Cheol Soo"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "송이",
+        "preferred": "Song-i"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}

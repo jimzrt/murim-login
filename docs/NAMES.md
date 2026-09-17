@@ -627,3 +627,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 디스패스 | **Dispass** | Celebrity-gossip site cited by Taekyung. |
 | 네임드 몬스터 | **Named Monster** | Classification given to the Wyvern that killed the scouts. |
 | 변이 게이트 | **Mutated Gate** | Gate classification identified at the raid site. |
+| 레어 몬스터 | **Rare Monster** | Anomalously powerful monster designation introduced for monsters exceeding their expected Grade. |
+| 피어 | **Fear** | Monster effect that overwhelms a target’s mental fortitude. |
+| 힘껏 찌르기 | **Stab with All My Strength** | Taekyung’s descriptive alternate name for the spear strike he used against the Black Wyvern. |

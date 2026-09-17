@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“By the way, where’s the necklace? I don’t see it.”\n\nWas the necklace really the issue right now?\n\nOvercome by an inexplicable sense of emptiness, I answered carelessly.\n\n“…I put it in my pants pocket.”\n\n“Why?”\n\n“Just because. It was getting in the way. Why?”\n\n“No, it doesn’t matter. Just make sure you keep it safe.”\n\nWon Myunghoon’s gaze flicked toward my lower body. After confirming that the pocket of my tight leather pants was bulging, he added,\n\n“Don’t lose it. Got it?”\n\n“Yes.”\n\nThere was no way I could lose it. No—if I did lose it, there would be no reason for me to keep living.\n\n*My stuff is precious.*\n\nIt was a good thing my body in the Murim and my body in reality were the same.\n\nWhen I thought of the black anaconda coiled inside my pants, my gloomy mood improved a little.",
+      "defect": "Chapter 215 ends with Im Kkeokjeong wearing the necklace, but this passage places it in Taekyung’s pocket without showing its return. Chapter 217 then has Kkeokjeong wearing it again, also without a transfer. The two omitted handoffs create a visible continuity break.",
+      "id": "C01",
+      "rationale": "Explicitly accounting for both transfers preserves the existing joke while making the necklace’s location consistent across Chapters 215–217.",
+      "replacement": "“By the way, where’s the necklace? I don’t see it.”\n\nWas the necklace really the issue right now?\n\nOvercome by an inexplicable sense of emptiness, I answered carelessly.\n\n“…Kkeokjeong handed it back after the fight, so I put it in my pants pocket.”\n\n“Why?”\n\n“Just because. It was getting in the way. Why?”\n\n“No, it doesn’t matter. Just make sure you keep it safe.”\n\nWon Myunghoon’s gaze flicked toward my lower body. After confirming that the pocket of my tight leather pants was bulging, he added,\n\n“Don’t lose it. Got it?”\n\n“Yes.”\n\nThere was no way I could lose it. No—if I did lose it, there would be no reason for me to keep living.\n\n*My stuff is precious.*\n\nIt was a good thing my body in the Murim and my body in reality were the same.\n\nWhen I thought of the black anaconda coiled inside my pants, my gloomy mood improved a little.\n\nBefore we set out again, I returned the necklace to Kkeokjeong. Unlike me, he still needed it.",
+      "severity": "major",
+      "source": "Chapter 216, after Won Myunghoon asks about Yeti’s Necklace"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Taekyung has ordered Won and the Star Guild to escape and remains alone to face the approaching Black Wyvern.",
+      "defect": "The reading copy says only Won and the Star Guild members flee. Won explicitly expects Taekyung and the Peace Guild members to die, so Taekyung has not remained alone.",
+      "id": "C02",
+      "rationale": "The corrected state preserves the actual party split at the chapter ending and avoids dropping the Peace Guild members from the unresolved crisis.",
+      "replacement": "Taekyung has ordered Won and the Star Guild to escape and remains behind with the Peace Guild to face the approaching Black Wyvern.",
+      "severity": "major",
+      "source": "Checkpoint summary, Continuity"
+    },
+    {
+      "confidence": 0.97,
+      "current": "A wind from the snowy plains flows from the necklace.",
+      "defect": "The notification drifts from the established effect terminology and from the corresponding Chapter 218 notification, which uses “the wind of the snowfield.”",
+      "id": "C03",
+      "rationale": "Matching the later notification keeps the recurring item effect phrasing consistent with Wind of the Snowfield.",
+      "replacement": "The wind of the snowfield flows from the necklace.",
+      "severity": "minor",
+      "source": "Chapter 215, first Yeti’s Necklace equip notification"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Won Myunghoon is a thirty-nine-year-old A-rank Hunter, former ranker and celebrity entertainer, and CEO of the Star Guild in Incheon.",
+      "defect": "“A-rank” conflicts with the packet’s binding and consistently used Hunter classification “A-Rank.”",
+      "id": "C04",
+      "rationale": "This restores the established capitalization of Hunter ranks in the active state.",
+      "replacement": "Won Myunghoon is a thirty-nine-year-old A-Rank Hunter, former ranker and celebrity entertainer, and CEO of the Star Guild in Incheon.",
+      "severity": "minor",
+      "source": "Durable state, active_continuity entry for Won Myunghoon"
+    }
+  ],
+  "summary": "The reading copies maintain a consistent action-comedy voice and established terminology overall. One continuity gap obscures two transfers of Yeti’s Necklace, the checkpoint continuity incorrectly says Taekyung remains alone, and two minor terminology-capitalization inconsistencies should be normalized.",
+  "version": 1
+}
