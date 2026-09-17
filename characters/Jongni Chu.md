@@ -1,6 +1,6 @@
 # Jongni Chu (종리추)
 
-- **Safe through:** Chapter 258
+- **Safe through:** Chapter 259
 - **Aliases:** Always-Victorious Sword; Life-Sustaining Sword
 - **Role:** Young-seeming martial artist from Yunnan who has concealed the fact that he is a Supreme Peak master by Returning to Simplicity; he conceals his sect and identity and had coined the self-styled epithet Always-Victorious Sword; the Hidden Shadow Pavilion could find no trace of his identity despite repeated checks, and his unfamiliar martial arts carried him through every bout while disguising his true ability; he attacked Cheongpung without hesitation in the semifinal and nearly killed him before Jin Taekyung intervened; an unknown force surrounding him rejected Taekyung's Qi Sense Skill, and after refusing to answer whether he came from Tianshan, he immediately began the Star-Array Grand Banquet final against Taekyung; during the final, he demonstrated Returning to Simplicity, wielded Sword Force through his rusted sword, endured Taekyung's strengthened attacks, injured Taekyung, and abruptly left after staring toward a distant point; after the System recorded him as the first fighter to leave the dueling platform and awarded Taekyung the out-of-bounds victory, he escaped pursuit by stepping on empty air and using Jeok Cheongang's sword force as propulsion, leaving his whereabouts and purpose unknown.
 - **Personality:** Approachable, eccentric, relentlessly positive, and unusually eager to form friendships; treats even severe verbal abuse as proof of genuine friendship.

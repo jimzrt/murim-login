@@ -1,8 +1,8 @@
 # Unnamed (무명)
 
-- **Safe through:** Chapter 250
+- **Safe through:** Chapter 259
 - **Aliases:** None
-- **Role:** Young Shaolin monk and practical Disciple of Hong Dao; a Peak master who uses oversized Ten-Thousand-Year Cold Iron prayer beads and Arhat Fist, though he has not been formally accepted as a Disciple.
+- **Role:** Young Shaolin monk and practical Disciple of Hong Dao; a Peak master who uses oversized Ten-Thousand-Year Cold Iron prayer beads and Arhat Fist, though he has not been formally accepted as a Disciple; entrusted with the Green Jade Buddha Staff by Hong Dao.
 - **Personality:** Naturally timid and introverted, but unable to control himself once angered.
 - **Voice:** Timid, deferential, and polite, punctuated by Buddhist invocations.
 - **Relationships:** Disciple in practice of Hong Dao; sent by Hong Dao to bring the Master of Morning Star; newly acquainted with Jeok Cheongang and Jin Taekyung.
