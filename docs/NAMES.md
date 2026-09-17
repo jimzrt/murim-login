@@ -908,3 +908,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 김 실장 | **Manager Kim** | Park Tae Seop’s security manager; his phone is used by Choi Minwoo. |
 | 그분 | **that person** | Unidentified figure whom Jihoon reveres and credits with disabling cameras and microphones. |
 | 어른폰 | **AdultPhone** | Taekyung’s Korean pun on iPhone; retain the child/adult explanation in a footnote. |
+| 행신동 불닭볶음손 | **Haengsin-dong Fire-Chicken Stir-Fried Hand** | Taekyung's former nickname for his painful hand strike; the translation preserves the buldak-bokkeum-myeon/son pun. |
