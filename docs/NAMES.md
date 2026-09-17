@@ -964,3 +964,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 서울지부 협회장 | **Seoul Branch President** | Hunter Association official overseeing the rescue response at the Black Forest. |
 | 서울 협회장 | **Seoul Branch President** | Source variant for the Seoul Branch President. |
 | 스켈레톤 아처 | **Skeleton Archer** | Skeleton subtype defeated during the Warlord's EXP harvest. |
+| 서울 중앙 협회장 | **Seoul Branch President** | Hunter Association official who delayed the rescue response and authorized the Peace Guild's entry. |
+| 경호팀장 | **Head of Security** | Go Jun's security-team office under Lee Jungryong. |
