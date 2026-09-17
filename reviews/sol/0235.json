@@ -1,0 +1,106 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Go fetch me a bird’s nest because I feel like eating one…",
+      "defect": "The requested object is changed from bird eggs to a bird’s nest, conflating this initial exercise with the later swallow’s-nest task.",
+      "id": "F01",
+      "rationale": "새알 means bird eggs, whereas the later 제비집 explicitly means a swallow’s nest.",
+      "replacement": "Go fetch me some bird eggs because I feel like eating them…",
+      "severity": "critical",
+      "source": "새알이 먹고 싶으니 구해 와라……."
+    },
+    {
+      "confidence": 0.97,
+      "current": "One shichen a day. Other than the honey-sweet hours of sleep, everything was part of my training.",
+      "defect": "The fragment fails to state that his sole daily respite is one shichen of sleep, and “hours” obscures the explicit quantity.",
+      "id": "F02",
+      "rationale": "하루 한 시진 identifies the duration of the 꿀 같은 수면 시간, while the following clause says everything outside that sleep was training.",
+      "replacement": "I got one shichen of blissful sleep a day. Other than that, everything was part of my training.",
+      "severity": "major",
+      "source": "하루 한 시진. 꿀 같은 수면 시간을 제외하면 모든 것이 수련의 일환이었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "On one of Mount Jiuhua’s high peaks, painted in vivid colors, Jeok Cheongang woke with a start after falling asleep with his back against a tree.",
+      "defect": "“Woke with a start” invents a sudden, startled action; the source says he opened his eyes groggily.",
+      "id": "F03",
+      "rationale": "부스스 describes a disheveled, groggy awakening rather than a startled one, which matters because his unusual sleepiness is a warning sign.",
+      "replacement": "On one of Mount Jiuhua’s high peaks, painted in vivid colors, Jeok Cheongang, who had been sleeping with his back against a tree, groggily opened his eyes.",
+      "severity": "major",
+      "source": "형형색색으로 물든 구화산의 높은 봉우리, 나무에 등을 기댄 채 잠에 빠져 있던 적천강이 부스스 눈을 떴다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Just as I expected, Jeok Cheongang suddenly offered the urns a formal bow.",
+      "defect": "“Formal bow” does not preserve the physical action of 큰절, a full kneeling bow, as confirmed by his subsequently rising.",
+      "id": "F04",
+      "rationale": "큰절 denotes a deep ceremonial bow performed from the knees, not merely an unspecified formal inclination.",
+      "replacement": "Just as I expected, Jeok Cheongang abruptly dropped to his knees and bowed deeply before the urns.",
+      "severity": "major",
+      "source": "내 짐작대로 적천강은 항아리들을 향해 대뜸 큰절을 올렸다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "*So I found its roots?*",
+      "defect": "The translation inserts the narrator as the subject, changing the mechanism; the surrounding context concerns his internal energy reacting as though it has returned to its origin.",
+      "id": "F05",
+      "rationale": "The Korean deliberately omits the subject, and the immediately surrounding sentences point to the internal energy rather than Taekyung himself. The replacement preserves that omission.",
+      "replacement": "*Found its roots—is that it?*",
+      "severity": "critical",
+      "source": "뿌리를 찾았다, 그건가?"
+    },
+    {
+      "confidence": 0.97,
+      "current": "The Fire Gate Clan had been passed down for hundreds of years to a single person at a time—someone talented enough not to commit evil deeds.",
+      "defect": "“Talented enough not to commit evil deeds” incorrectly makes moral restraint a consequence of sufficient talent.",
+      "id": "F06",
+      "rationale": "인재 supplies the recipient’s talent, while 악한 일을 행하지 않을 만한 independently characterizes that person as trustworthy enough not to do evil.",
+      "replacement": "The Fire Gate Clan had been passed down for hundreds of years to a single person at a time—one talented individual who could be trusted not to commit evil deeds.",
+      "severity": "major",
+      "source": "단 한 사람, 악한 일을 행하지 않을 만한 인재에게 수백 년간 계승되어 온 열화문이다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Old Master. I’m only asking out of curiosity.”",
+      "defect": "The draft adds curiosity as Taekyung’s motive and loses the cautious conversational hedge he uses before asking about Jeok Cheongang’s health.",
+      "id": "F07",
+      "rationale": "그냥 여쭤보는 건데요 softens the impending sensitive question without saying that it is motivated by curiosity.",
+      "replacement": "“Old Master. I just want to ask you something.”",
+      "severity": "major",
+      "source": "노야. 이건 그냥 여쭤보는 건데요."
+    },
+    {
+      "confidence": 0.99,
+      "current": "For a moment, I considered logging out.",
+      "defect": "The binding System terminology requires the established term “Logout,” which is absent.",
+      "id": "F08",
+      "rationale": "로그아웃 is explicitly mapped to the System term Logout.",
+      "replacement": "For a moment, I considered using Logout.",
+      "severity": "minor",
+      "source": "이때 잠깐 로그아웃을 고민했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Six shichen in a horse stance.”",
+      "defect": "The existing shichen footnote is never referenced, leaving an unused Markdown footnote definition.",
+      "id": "F09",
+      "rationale": "This is the first meaningful occurrence of the culturally specific time unit and should reference the already supplied explanatory footnote.",
+      "replacement": "“Six shichen[^2] in a horse stance.”",
+      "severity": "minor",
+      "source": "마보 여섯 시진."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“An additional hundred geun. From now on, we’re increasing it to twelve shichen.”",
+      "defect": "The existing geun footnote is never referenced, leaving an unused Markdown footnote definition.",
+      "id": "F10",
+      "rationale": "This is the first meaningful occurrence of the traditional weight unit and should reference the already supplied explanatory footnote.",
+      "replacement": "“An additional hundred geun[^1]. From now on, we’re increasing it to twelve shichen.”",
+      "severity": "minor",
+      "source": "백 근 추가. 앞으로는 열두 시진으로 늘린다."
+    }
+  ],
+  "summary": "Two critical fidelity errors change the requested object and assign an omitted subject incorrectly. Additional findings concern a stated sleep quantity, altered physical actions, a lost pragmatic hedge, characterization, binding terminology, and unused footnotes.",
+  "version": 1
+}

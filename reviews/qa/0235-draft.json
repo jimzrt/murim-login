@@ -1,0 +1,57 @@
+{
+  "chapter": 235,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.28,
+    "source_characters": 7183,
+    "source_paragraphs": 242,
+    "translation_characters": 16380,
+    "translation_paragraphs": 235
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "unused_footnotes",
+      "details": {
+        "unused_definitions": [
+          "1",
+          "2"
+        ]
+      },
+      "message": "translation contains unused footnote definitions"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "로그아웃",
+        "preferred": "Logout"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "화산",
+        "preferred": "Huashan"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "항아",
+        "preferred": "Hanga"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "갑자",
+        "preferred": "jiazi"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}

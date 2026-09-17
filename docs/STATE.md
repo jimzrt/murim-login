@@ -1,23 +1,21 @@
 # Translation State
 
-- Last completed: 234
-- Next chapter: 235
-- Current block: 230–234 (5/5)
-- Latest translation: `translations/0234.md`
-- Latest summary: `summaries/beats/0234.md`
-- Safe profiles through: chapter 234
+- Last completed: 235
+- Next chapter: 236
+- Current block: 235–239 (1/5)
+- Latest translation: `translations/0235.md`
+- Latest summary: `summaries/beats/0235.md`
+- Safe profiles through: chapter 235
 
 ## Current Block
 
-- After Pressure-Point Strike wears off, Jin Taekyung awakens on Mount Jiuhua wearing four iron balls weighing two hundred geun each, for a total of roughly five hundred kilograms. The balls are connected by chains made from Ten-Thousand-Year Cold Iron and are Fire Gate Clan training tools meant to remain on him while he trains, sleeps, and eats.
-- Jeok Cheongang gives Taekyung a Fire King's Special Restriction Pill. It makes him feel full, reduces Strength, Stamina, and Agility by 100 each, prevents him from using internal energy, and lasts for one week. Taekyung accepts the training despite the restriction and the iron weights.
-- Jeok immediately blasts Taekyung from the mountain summit with compressed fist wind, creating the nonrefusable Fire King's Inferno Training-1 Quest. Taekyung must return to the summit within one shichen or fail, while carrying the iron weights without internal energy.
-- After ten days of enduring the climb, Taekyung reaches the summit with approximately fifteen minutes remaining and completes the Quest. He gains substantial EXP, levels up, and receives 30 Bonus Points. Jeok has prepared an enormous iron vest for the next stage, reduces the time limit to half a shichen, and the System changes the Quest into a repeat Quest.
-- Jeok recalls his own merciless training under his Master and decides to push Taekyung even harder because the time available to teach him is limited. He briefly regrets using the Fire Gate Clan's criminal-restraint equipment as training gear.
+- Jeok Cheongang subjects Taekyung to increasingly brutal training on Mount Jiuhua, including waterfall horse stances, weighted push-ups, cliff climbing, and retrieving a swallow's nest. Taekyung completes Fire King's Hellfire Training-2, earns the Unmoving achievement, converts Toughness into Endurance, gains two levels and 50 Bonus Points, and continues training for more than two months.
+- Jeok's increasing sleep and memory lapses become undeniable when he forgets ordering Taekyung's fist-and-foot training. Taekyung asks whether he is ill, and Jeok leads him to a hidden place instead of answering directly.
+- Jeok brings Taekyung into the Fire Gate Cavern, explains the Fire Gate Clan's centuries-long history, and reveals its seventeen ancestral urns. The cavern releases the restriction on Taekyung's internal energy, and Jeok offers to pass on the clan's martial arts. Taekyung accepts because he trusts Jeok, generating the Heir of the Fire Gate Quest, but Jeok's confusion interrupts the first lesson. The two then vanish from Mount Jiuhua as the seasons change three times.
 
 ## Open Questions
 
-- What is causing Jeok Cheongang's sudden weakness, and how much time does he have?
+- How quickly will Jeok Cheongang's dementia progress, and how much time does he have to teach Taekyung?
 - Why has Namgung Ryong committed the family's intelligence network to investigating Taekyung?
 - What important matter does Jin Wikyung need to discuss privately with Jeok Cheongang?
 - Did Mae Jonghak actually grant Cheongpung permission to become Jeok's Disciple, and where is Mae now?
