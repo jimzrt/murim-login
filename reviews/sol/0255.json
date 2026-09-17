@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "The qi they had sensed from that lucky young martial artist for that brief moment had been powerful enough to send chills down the spines of even the heads of the Nine Sects and One Gang and the Five Great Families.",
+      "defect": "The generic “heads” misses the established title “Family Heads” for the Five Great Families and awkwardly applies the same title to both sects and families.",
+      "id": "F01",
+      "rationale": "가주 is the established term “Family Head,” while the Nine Sects and One Gang are more naturally described by the broader “leaders.”",
+      "replacement": "The qi they had sensed from that lucky young martial artist for that brief moment had been powerful enough to send chills down the spines of even the leaders of the Nine Sects and One Gang and the Family Heads of the Five Great Families.",
+      "severity": "minor",
+      "source": "천하를 주름잡는 구파일방과 오대세가의 가주들조차 등골이 서늘해질 정도였다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The greater the question in his heart grew, the more intense the pain became in the severed stump he had lost decades ago.",
+      "defect": "The sentence incorrectly says Song Ho lost the stump itself; the source says pain intensifies at the old amputation site where his leg was severed.",
+      "id": "F02",
+      "rationale": "잘려 나간 단면 refers to the remaining severed surface, not a stump that was itself lost.",
+      "replacement": "The more the question in his heart grew, the more intense the pain became at the stump where his leg had been severed decades ago.",
+      "severity": "major",
+      "source": "마음속 의문이 커질수록, 수십 년 전 잘려 나간 단면에서 느껴지는 통증도 커진다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“The Sect Leader taught his Disciple terribly. You’re hopeless.”",
+      "defect": "The translation makes the second insult explicitly target Cheongpung, whereas the Korean continues the criticism of the Sect Leader’s teaching and leaves the subject of 형편없어 implicit.",
+      "id": "F03",
+      "rationale": "형편없어 does not contain an explicit “you”; retaining a subjectless insult avoids changing the target.",
+      "replacement": "“The Sect Leader did a terrible job teaching his Disciple. Pathetic.”",
+      "severity": "major",
+      "source": "“장문인이 제자를 엉망으로 가르쳤군. 형편없어.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "And now, after disappearing for years, the Sword Saint’s Disciple had appeared.",
+      "defect": "“For years” understates the source’s quantity: enough time for the landscape to change several times conventionally indicates decades.",
+      "id": "F04",
+      "rationale": "강산이 몇 번 바뀔 시간 denotes several decade-scale cycles, not merely an unspecified number of years.",
+      "replacement": "And now, after disappearing for decades, the Sword Saint’s Disciple had appeared.",
+      "severity": "major",
+      "source": "한데 강산이 몇 번 바뀔 시간 동안 자취를 감췄던 검성의 제자가 나타난 것이다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“What the hell are you?”",
+      "defect": "The climactic line softens the strong insult 새끼 and loses Taekyung’s deliberately profane register.",
+      "id": "F05",
+      "rationale": "새끼 is strongly insulting here, and the source requires stronger profanity than “hell” while the context supports Taekyung questioning what Jongni Chu truly is.",
+      "replacement": "“What the fuck are you?”",
+      "severity": "major",
+      "source": "“너 뭐 하는 새끼냐?”"
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it contains one altered target of criticism, one anatomical misstatement, one understated time span, one terminology issue, and softened profanity in the closing line.",
+  "version": 1
+}
