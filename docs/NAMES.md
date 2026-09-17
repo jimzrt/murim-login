@@ -803,3 +803,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 은영각주 | **Chief of the Hidden Shadow Pavilion** | Office formerly held by Song Ho. |
 | 연명검 | **Life-Sustaining Sword** | Nickname earned by Jongni Chu for repeatedly winning by a narrow margin. |
 | 무적신검 | **Invincible Divine Sword** | Epithet of Zhuge Gyun's unidentified opponent. |
+| 강풍 | **Kang Pung** | False name Cheongpung uses while disguised as the Invincible Divine Sword. |
+| 암중살 | **Shadow Killer** | The Hidden Shadow Pavilion's finest agent. |
+| 태원박가 | **Taiyuan Park Family** | Fabricated family identity Taekyung uses to bait Cheongpung. |
+| 호남성 | **Hunan Province** | Province mentioned during Cheongpung's account of his travels. |
