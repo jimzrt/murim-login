@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The people still inside the bureau fell into exactly two groups.",
+      "defect": "The draft changes the location from the pavilion or teahouse where the confrontation is occurring to the Yongbong Escort Bureau.",
+      "id": "F01",
+      "rationale": "다루 denotes the establishment containing the current scene, not the Escort Bureau.",
+      "replacement": "The people still inside the pavilion fell into exactly two groups.",
+      "severity": "critical",
+      "source": "아직 다루 안에 남아 있던 사람들의 반응은 딱 두 가지였다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "*Yet no one knew the needle was there. Not even the people who had spent ten whole years with him at the Yongbong Escort Bureau.*\n\n*Well, well…*",
+      "defect": "The draft omits Taekyung’s explicit conclusion that Song Ilseom deliberately concealed his abilities. It also incorrectly makes the full ten-year period specifically the time spent with the bureau personnel.",
+      "id": "F02",
+      "rationale": "The source explicitly identifies deliberate concealment as the sole explanation and distinguishes the ten years of remaining unknown from the unspecified but considerable time spent with bureau personnel.",
+      "replacement": "*Yet no one knew the needle was there. Not for ten whole years.*\n\nThere was only one possible answer.\n\nThe needle had deliberately hidden itself, so thoroughly that even the people of the Yongbong Escort Bureau who had spent years with him had no idea how strong he truly was.\n\n*Well, well…*",
+      "severity": "major",
+      "source": "‘그런데 아무도 송곳의 존재를 몰랐단 말이지. 그것도 자그마치 십 년 동안이나.’\n\n결국 답은 하나다.\n\n송곳은 의도적으로 자신을 숨겼다. 제법 오랜 시간을 함께한 용봉표국의 사람들조차 그의 실력을 모를 정도로.\n\n‘이것 봐라…….’"
+    },
+    {
+      "confidence": 0.98,
+      "current": "He was a swordsman with countless experiences in actual combat and exceptional martial arts.",
+      "defect": "“Countless experiences” is an unnatural English collocation for accumulated combat experience.",
+      "id": "F03",
+      "rationale": "수많은 실전 경험 describes a wealth of practical combat experience, naturally expressed as a mass noun in English.",
+      "replacement": "He was a swordsman with extensive real-combat experience and exceptional martial arts.",
+      "severity": "minor",
+      "source": "그가 수많은 실전 경험과 뛰어난 무공을 지닌 검객이라는 것을."
+    },
+    {
+      "confidence": 0.96,
+      "current": "He clicked his tongue, propped his sword against the wall, and began picking up the bamboo slips to read them.",
+      "defect": "The wall is an unsupported physical addition; the source only says that he leaned or set the sword beside him.",
+      "id": "F04",
+      "rationale": "옆에 specifies placement beside him but does not identify a wall or any other supporting surface.",
+      "replacement": "He clicked his tongue, leaned his sword beside him, and began picking up the bamboo slips to read them.",
+      "severity": "minor",
+      "source": "혀를 찬 그가 검을 옆에 기대어 놓고 죽간을 들어 읽기 시작했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "At some point, Song Ilseom’s manner of speech had shifted from polite to completely informal.",
+      "defect": "“Informal” loses the hierarchical force of 하대, which means that Song Ilseom is now openly speaking down to Ju Hwaran rather than merely becoming casual.",
+      "id": "F05",
+      "rationale": "The source marks a deliberate status and register shift from 하오체 to complete 하대, revealing that he has discarded his subordinate deference.",
+      "replacement": "At some point, Song Ilseom had gone from formal politeness to openly talking down to her.",
+      "severity": "major",
+      "source": "어느새 송일섬의 말투는 하오체에서 완전한 하대로 바뀌어 있었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The hair on my body stood on end, and a chill ran down my spine. But by the time I registered the faint sound of something cutting through the air, it was already too late.",
+      "defect": "The first-person pronouns incorrectly make the experience belong to the narrator, Jin Taekyung, even though this section is focused on Heo Jun and immediately identifies him as the person struck.",
+      "id": "F06",
+      "rationale": "The omitted Korean subject is resolved by the following sentences as Heo Jun; switching to “my” changes the viewpoint subject and scene action.",
+      "replacement": "Heo Jun’s hair stood on end, and a chill ran down his spine. But by the time he registered the faint sound of something cutting through the air, it was already too late.",
+      "severity": "critical",
+      "source": "머리털이 쭈뼛서고 등골이 오싹했다. 그러나 희미한 파공성을 인식했을 때에는 모든 것이 늦은 후였다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Give me one chance! Just one last chance! I’m your father’s one and only sworn younger brother, and your uncle, aren’t I? Hwaran, for old times’ sake, please!”\n\n“Old times’ sake, you say.”",
+      "defect": "Rendering 정 as “old times’ sake” reduces Heo Jun’s appeal to shared history and weakens Ju Hwaran’s pointed repetition of the familial affection or bond he claims between them.",
+      "id": "F07",
+      "rationale": "정 refers to the emotional attachment accumulated through their relationship, and Ju Hwaran explicitly seizes on that word before rejecting his appeal.",
+      "replacement": "“Give me one chance! Just one last chance! I’m your father’s one and only sworn younger brother, and your uncle, aren’t I? Hwaran, for the sake of the bond we’ve shared, please!”\n\n“The bond we’ve shared, you say?”",
+      "severity": "major",
+      "source": "“한 번만, 마지막으로 한 번만 기회를 다오! 나는 네 아버지의 하나뿐인 의제이며 네 숙부가 아니냐. 화란아, 그간의 정을 봐서라도 제발!”\n\n“정, 이라고 하셨나요.”"
+    }
+  ],
+  "summary": "The draft contains two scene-level fidelity errors, one omitted inference about Song Ilseom deliberately concealing his ability, and several localized register and wording issues.",
+  "version": 1
+}
