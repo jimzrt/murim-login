@@ -8,7 +8,7 @@ I felt like a star in the Chinese-speaking world. The Korean Wave and all that.
 
 Then again, I really was Korean, so maybe that wasn’t entirely wrong.
 
-“Sleeping Dragon of Shanxi! Look this way just once!”
+“Sleeping Dragon of Shanxi! Look this way!”
 
 “Eeeek! Young Hero Jin!”
 
@@ -26,7 +26,7 @@ As I beamed and waved, Chulwoo whispered to me.
 
 “You Shanxi bumpkin.”
 
-“Yeah, next mountain man.”
+“Sure thing, mountain man.”
 
 “You little—”
 
@@ -36,9 +36,9 @@ Just as sparks were about to fly again, a thread of Sound Transmission pierced m
 
 —Third Young Master!
 
-Wipeng was glaring at me with a fierce expression. He looked like he wanted to slap me right then and there.
+Wipeng was glaring at me with a murderous expression. He looked ready to slap me across the face.
 
-He must have sent a similar Sound Transmission to Chulwoo, because the man added a single word with a dissatisfied expression.
+He must have sent Chulwoo a similar Sound Transmission, because the bastard added with a disgruntled look,
 
 “I let you off.”
 
@@ -78,9 +78,9 @@ Fortunately, for all their talk of being the orthodox faction, they didn’t enc
 
 Huashan’s Lone Crane, Baek Museong.
 
-If everything Hyuk Mujin had told me was true, Baek Museong was practically the next Sect Leader of Huashan—recognized as such by everyone, including himself.
+If everything Hyuk Mujin had told me was true, Baek Museong was all but universally acknowledged as Huashan’s next Sect Leader.
 
-There was one person among Huashan’s young prodigies who could be considered his only equal, though…
+There was one person among Huashan’s young prodigies who could rival him, though…
 
 “Benefactor, I’m really hungry. Do you have any dumplings left?”
 
@@ -92,7 +92,7 @@ Cheongpung was a lost cause.
 
 Huashan’s Daoists would probably convert to Islam before that guy became the Sect Leader of Huashan.
 
-Even I, an outsider, couldn’t help thinking, *What kind of person is this?* How much worse must it be for the people of Huashan?
+Even I, an outsider, couldn’t help wondering what the hell was wrong with him. Imagine how the people of Huashan must feel.
 
 *He’s the kind of guy who’ll experience everything the world has to offer, then decide he’d like to try being Huashan’s Sect Leader too. Yeah.*
 
@@ -172,7 +172,7 @@ Then it happened.
 
 “Ah, yes. Hello.”
 
-“I’ve long admired the reputation of the Jin Family of Taiyuan and the Sleeping Dragon of Shanxi from the bottom of my heart, and…”
+“I have long admired the reputation of the Jin Family of Taiyuan and the Sleeping Dragon of Shanxi, and…”
 
 The middle-aged martial artist launched into a long-winded speech about how honored he was to meet me. Then people began swarming toward us like a horde of Zombies.
 
@@ -180,11 +180,11 @@ The middle-aged martial artist launched into a long-winded speech about how hono
 
 “Pardon? Oh, yes.”
 
-“Young Hero Jin, I have something important to discuss with you. Perhaps we could move somewhere else…”
+“Young Hero Jin, I have something important to discuss with you. Perhaps we could speak somewhere more private…”
 
 “Right now? That might be difficult.”
 
-“This is my daughter. She wanted to meet the Sleeping Dragon of Shanxi at least once, so I brought her along. If you happen to find her appealing…”
+“This is my daughter. She insisted on seeing the Sleeping Dragon of Shanxi at least once, so I brought her with me. If she happens to appeal to you…”
 
 “Yes, yes.”
 
@@ -196,11 +196,11 @@ What the hell was going on?
 
 Requests for handshakes—or rather, a barrage of fist-and-palm salutes—poured in from every direction. I was on the verge of losing my mind.
 
-If Wipeng hadn’t stepped forward at just the right moment, I would have ended up accepting every request and marriage proposal wrapped in flowery language.
+If Wipeng hadn’t stepped forward at just the right moment, I might have agreed to every favor and marriage proposal buried beneath all that flowery praise.
 
 “Everyone, restrain yourselves!”
 
-The shout of a Peak master infused with internal energy made the people flinch, and we took the opportunity to escape. Chulwoo clicked his tongue as though he’d had enough.
+The shout of a Peak master, infused with internal energy, made the crowd flinch. We seized the opportunity to escape. Chulwoo shook his head in disgust.
 
 “That was excessive. Are all the people of Shanxi like that?”
 
@@ -210,9 +210,9 @@ Wipeng was the only member of our group who hadn’t been flustered. He spoke wi
 
 “This will happen often from now on, so you should gradually get used to it.”
 
-“I’m supposed to experience things like this often?”
+“I’m going to experience things like this often?”
 
-“You’re a direct descendant of the Jin Family of Taiyuan, after all.”
+“You’re a direct descendant of the Jin Family of Taiyuan.”
 
 “I almost got married five times just now.”
 
@@ -236,7 +236,7 @@ Veins bulging in my neck, I shouted,
 
 “No. You don’t.”
 
-“Why?! How come?!”
+“Why?! Why not?!”
 
 Wipeng looked me up and down as if I were an insect.
 
@@ -248,7 +248,7 @@ Wipeng looked me up and down as if I were an insect.
 
 If I’d actually been to one, at least I wouldn’t have felt so wronged.
 
-Fuck, I’d never even been to a pickup bar, let alone a pleasure house.
+Fuck pleasure houses. I’d never even been to a pickup bar.
 
 As I kept silent and wept tears of blood inside, Chulwoo sidled over and asked,
 
@@ -268,7 +268,7 @@ Chulwoo flinched and began to ramble.
 
 “Ahem!”
 
-“Finish walking the path of a martial artist. Don’t go wandering down side paths for no reason.”
+“Stick to the path of a martial artist. Don’t wander down side roads.”
 
 I had barely finished answering with utter disdain when a voice cut in.
 
@@ -308,7 +308,7 @@ All the more so when that elder was the Roaring Fury Swordsman, a master counted
 
 The Three Hands of Zhongnan trembled beneath his piercing gaze.
 
-Just as the Roaring Fury Swordsman was about to unleash his thunderous reprimand, one of the men, who had kept his mouth tightly shut the entire time, suddenly spoke.
+Just as the Roaring Fury Swordsman was about to unleash his wrath, one of the men, who had kept his mouth tightly shut the entire time, suddenly spoke.
 
 “He wasn’t a nameless nobody.”
 
@@ -326,7 +326,7 @@ The revelation was so shocking that the Roaring Fury Swordsman fell speechless. 
 
 “The Sword Saint, who has lived in seclusion all these years, raised a Disciple?”
 
-“We suspected it at first, but… it seems to be true.”
+“We doubted him at first, but… it seems to be true.”
 
 “Your evidence?”
 
@@ -344,7 +344,7 @@ At the lukewarm response, Gong Ilhyuk hurriedly continued.
 
 “He has mastered Huashan’s supreme secret arts to the Peak level despite being barely twenty. He displayed one martial art after another that only the main sect’s direct Disciples are permitted to learn…”
 
-After hearing the entire account of what had happened, the Roaring Fury Swordsman silently rubbed his sword scabbard.
+After hearing the full account of what had happened, the Roaring Fury Swordsman silently stroked his sword scabbard.
 
 *The Sword Saint’s Disciple. The Sword Saint’s Disciple.*
 
@@ -356,17 +356,17 @@ It was hard to believe, but the Roaring Fury Swordsman was already inclined to a
 
 *At the very least, I should confirm it for myself.*
 
-After remaining silent for a long while, the Roaring Fury Swordsman abruptly rose from his seat. An order fell on the startled Three Hands of Zhongnan.
+After a long silence, the Roaring Fury Swordsman abruptly rose from his seat and issued an order to the startled Three Hands of Zhongnan.
 
 “Guide me.”
 
-“W-Where do you mean?”
+“W-Where?”
 
-“Could you mean the Sword Saint’s Disciple…?”
+“Do you mean to the Sword Saint’s Disciple…?”
 
 Unlike the other two, who stood there flustered, Gong Ilhyuk’s eyes flashed.
 
-“As far as I know, that bastard is traveling with a scion of the Jin Family of Taiyuan.”
+“As far as I know, he is traveling with a scion of the Jin Family of Taiyuan.”
 
 “A scion of the Jin Family of Taiyuan? You mean that Jin Taekyung fellow you mentioned earlier?”
 
@@ -376,9 +376,9 @@ The Roaring Fury Swordsman clicked his tongue.
 
 “You cunning bastard. That’s why you came looking for this old man, isn’t it?”
 
-“The name of the great Zhongnan Sect has fallen into the dirt because of these inept Disciples. Elder, aren’t you the person who cares about our sect more than anyone? I happened to hear that you were in the area on business, so…”
+“The name of the great Zhongnan Sect has been dragged through the dirt because of your inept Disciples. Elder, no one cares more deeply for our sect than you. I happened to hear that you were nearby on business, so…”
 
-“Cut it out. From what you’ve told me, this Jin Taekyung fellow sounds like an incredibly arrogant bastard too.”
+“Enough. From what you’ve told me, that Jin Taekyung fellow sounds extraordinarily arrogant as well.”
 
 “That’s right. A bastard like him needs to be taught a harsh lesson.”
 
@@ -398,4 +398,4 @@ Anger flared in the Roaring Fury Swordsman’s eyes.
 
 “I obey, Elder.”
 
-A smug smile spread across Gong Ilhyuk’s lips.
+A triumphant smile spread across Gong Ilhyuk’s lips.
