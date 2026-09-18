@@ -1,6 +1,6 @@
 # Cheongpung the Ancient Sword (청풍고검)
 
-- **Safe through:** Chapter 338
+- **Safe through:** Chapter 371
 - **Aliases:** None
 - **Role:** Sect Leader of the Qingcheng Sect and a Supreme Peak martial artist who mobilizes the sect to help Jin Taekyung find the Divine Physician at Mae Jonghak's request.
 - **Personality:** Straightforward, genial, and willing to help with matters he considers worthwhile.

@@ -1,6 +1,6 @@
 # Mungyeong (문경)
 
-- **Safe through:** Chapter 370
+- **Safe through:** Chapter 371
 - **Aliases:** None
 - **Role:** Mungyeong is a young medical apprentice and Disciple of Dong Feng who is secretly the Slaughter Saint.
 - **Personality:** Compassionate, resolute, resourceful, and calm under extreme pressure.

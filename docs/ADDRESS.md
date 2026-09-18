@@ -538,3 +538,7 @@ Overrides generic relationship prose in character profiles for this pair.
 | 궁기방 | 혁무진 | squad_companions | you; that lunatic | insulting-casual | Gung Gibang mocks Hyuk Mujin's injuries and calls him a lunatic for attacking the Third Fiend. |
 | 궁기방 | 청풍 | martial_companions | Young Hero Cheongpung | formal-polite | Gung Gibang uses 청 소협 while asking why Cheongpung is at the temporary clinic. |
 | 청풍 | 미미 | handler_to_companion_snake | Mimi | cheerful-commanding | Cheongpung repeatedly calls and commands the Thousand-Year Poison Horned Snake. |
+| 청풍고검 | 진태경 | senior_sect_leader_to_younger_martial_artist | Fellow Daoist Jin | familiar-polite | Cheongpung the Ancient Sword greets Jin as 진 도우. |
+| 진태경 | 청풍고검 | younger_martial_artist_to_senior_sect_leader | Perfected One | formal-deferential | Jin greets the Qingcheng Sect Leader as 진인. |
+| 멸절신니 | 진태경 | senior_sect_leader_to_younger_martial_artist | Benefactor Jin | familiar-polite | Extinction Divine Nun addresses Jin as 진 시주. |
+| 청풍고검 | 멸절신니 | sect_leader_to_senior_sect_leader | Venerable Nun | formal-deferential | Cheongpung the Ancient Sword addresses her as 신니 while praising Jin and Cheongpung. |

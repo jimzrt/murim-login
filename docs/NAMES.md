@@ -1314,3 +1314,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 열화신룡 | **Blazing Flame Divine Dragon** | New sobriquet bestowed on Jin Taekyung. |
 | 이무기 | **imugi** | Legendary serpent mentioned as the only comparable creature to a Thousand-Year Poison Horned Snake. |
 | 참이슬 | **Chamisul** | Korean soju brand used in Jin Taekyung's joke about renaming the snake. |
+| 진성애 | **Teacher Jin Seong-ae** | Taekyung's parody name for the sex educator Gu Seong-ae. |
+| 구성애 | **Teacher Gu Seong-ae** | Korean sex educator referenced in Taekyung's joke. |
