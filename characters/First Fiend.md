@@ -1,6 +1,6 @@
 # First Fiend (일괴)
 
-- **Safe through:** Chapter 366
+- **Safe through:** Chapter 367
 - **Aliases:** Fiend
 - **Role:** Leader of the Qilian Three Fiends and former commander of the Dark Heaven assault on the Sichuan Tang Clan, killed by Mungyeong after Cheongpung grievously wounded him.
 - **Personality:** Ruthless, sadistic, arrogant, and delighted by violence and destruction.

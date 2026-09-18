@@ -1,24 +1,23 @@
 # Translation State
 
-- Last completed: 366
-- Next chapter: 367
-- Current block: 365–369 (2/5)
-- Latest translation: `translations/0366.md`
-- Latest summary: `summaries/beats/0366.md`
-- Safe profiles through: chapter 366
+- Last completed: 367
+- Next chapter: 368
+- Current block: 365–369 (3/5)
+- Latest translation: `translations/0367.md`
+- Latest summary: `summaries/beats/0367.md`
+- Safe profiles through: chapter 367
 
 ## Current Block
 
-- The Dark Heaven assault on the Sichuan Tang Clan stalls because surviving Tang Clan martial artists activate mechanism formations and use hidden Heaven-Shaking Thunder, while the attacks on Emei and Qingcheng also encounter complications. The Western Heaven Demon Lord has gone to the underground prison, and First Fiend is fighting Cheongpung in the Inner Hall.
-- Cheongpung rapidly perceives, dismantles, and begins reproducing First Fiend’s martial arts, grievously wounding him with the Thirty-Six Plum Blossom Swords. An unidentified newcomer kills the gate captain with an invisible strike, then appears before Cheongpung without disturbing the rain and beheads First Fiend; Cheongpung identifies the newcomer as Mungyeong.
+- Jeok Cheongang awakens amid the collapse of the Sichuan Tang Clan’s underground prison, carries unconscious Jin Taekyung and the Divine Physician through the collapsing cavern, and escapes after using the Flame-Extinguishing Divine Fist to break through the blocked entrance; the Heavenly Power Demon’s corpse remains inside. Outside, Dark Heaven’s deputy captain gathers more than a hundred black-clad men to search for the Western Heaven Demon Lord, but Jeok emerges with Taekyung and the Divine Physician. The physician identifies himself as Dong Feng and urges Jeok not to sacrifice his life, while Jeok prepares to fight and entrusts Taekyung to him. A boy appears above them in the sunlight, and Jeok recognizes him as the Slaughter Saint.
 
 ## Open Questions
 
-- What is the true nature and purpose of the Lord of Heaven, and what happened to the Western Heaven Demon Lord after he went to the underground prison?
-- Why has Mungyeong arrived at the besieged Sichuan Tang Clan, and what is his relationship to the current conflict?
-- What is the outcome of the Dark Heaven operation at Qingcheng?
-- Can Emei’s defenders and the intervening Beggars’ Sect disciples survive the assault?
-- Can the Divine Physician and the remaining Tang Clan prisoners survive the collapsing underground prison?
+- Who is the boy Jeok Cheongang identifies as the Slaughter Saint, and what does he want?
+- What is the true nature and purpose of the Lord of Heaven, and what became of the Western Heaven Demon Lord?
+- What is the outcome of the Dark Heaven operations at Qingcheng and Emei?
+- Can Jin Taekyung recover, and can Jeok protect him and the Divine Physician from Dark Heaven and the Slaughter Saint?
+- Can the remaining Tang Clan prisoners and defenders survive the collapsed prison and wider assault?
 
 ## Exceptional Decision
 

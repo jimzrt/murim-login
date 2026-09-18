@@ -1,0 +1,126 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Who was this old man?",
+      "defect": "The subject is reversed. 노부 is Jeok Cheongang’s formal self-reference, not the unidentified Divine Physician.",
+      "id": "F01",
+      "rationale": "The line is part of Jeok Cheongang’s comically existential reaction: where was he, who was he, and why were boulders falling on him.",
+      "replacement": "Who was I?",
+      "severity": "critical",
+      "source": "노부는 누구인가."
+    },
+    {
+      "confidence": 0.99,
+      "current": "He had no idea what was happening, but he had to get his body out of there first.",
+      "defect": "“Get his body out” is an unnatural calque that can sound as though he is moving a separate body.",
+      "id": "F02",
+      "rationale": "몸부터 피하다 means to remove oneself from danger before doing anything else.",
+      "replacement": "He had no idea what was happening, but first he had to get himself to safety.",
+      "severity": "minor",
+      "source": "당최 상황이 어찌 되어 가는지는 모르나 우선은 몸부터 피하고 봐야 했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Strength entered the hands holding the two people.",
+      "defect": "The sentence mechanically calques 힘이 들어가다 and is unnatural in English.",
+      "id": "F03",
+      "rationale": "The source describes Jeok Cheongang tightening his hold on Jin Taekyung and the Divine Physician.",
+      "replacement": "His grip tightened on the two men.",
+      "severity": "minor",
+      "source": "두 사람을 잡은 손에 힘이 들어간다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Within a short span of time that felt like an eternity, Jeok Cheongang finally took the last step toward the entrance of the prison.",
+      "defect": "The draft says he completed the final step, but the source says the collapse began just as he was about to take it.",
+      "id": "F04",
+      "rationale": "떼려던 그때 marks an interrupted, not completed, action; that timing is what leaves the entrance blocked by the collapse.",
+      "replacement": "Within a short span of time that felt like an eternity, Jeok Cheongang was finally about to take the last step toward the prison entrance.",
+      "severity": "critical",
+      "source": "짧지만 억겁과도 같은 시간 속, 마침내 적천강이 뇌옥의 입구를 향해 마지막 한 걸음을 떼려던 그때였다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "The order he was about to give was no different from ordering them to commit suicide.",
+      "defect": "The draft narrows the suicidal risk to his subordinates, although the deputy captain intends to lead them personally.",
+      "id": "F05",
+      "rationale": "The source leaves the doomed action collective and immediately establishes that the deputy captain will go first; it does not describe him merely sending others to die.",
+      "replacement": "The order he was about to give was tantamount to suicide.",
+      "severity": "major",
+      "source": "지금부터 그가 내릴 명령은 자결이나 다름없었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "I see. Dark Heaven. I knew they’d be a bunch of son-of-a-bitches.",
+      "defect": "The draft turns Jeok Cheongang’s recognition of the attackers as Dark Heaven into a generic insult about what Dark Heaven members are like.",
+      "id": "F06",
+      "rationale": "그 새끼들일 줄 알았지 means he suspected the hostile group would turn out to be those Dark Heaven bastards.",
+      "replacement": "I see. Dark Heaven. I knew it was those sons of bitches.",
+      "severity": "minor",
+      "source": "그렇군. 암천, 그 썅노무 새끼들일 줄 알았지."
+    },
+    {
+      "confidence": 0.95,
+      "current": "It was merely a minor skill I learned because I could not refuse my Master’s urging. What I devoted myself to was medicine.",
+      "defect": "“Could not refuse my Master’s urging” formalizes and softens 성화에 못 이겨, which means he was worn down by persistent pestering; the second sentence is also stiff.",
+      "id": "F07",
+      "rationale": "The replacement preserves the Divine Physician’s restrained tone while retaining the mildly humorous characterization of his Master’s persistence.",
+      "replacement": "It was only a little training I picked up because my Master pestered me into it. Medicine was where my heart lay.",
+      "severity": "minor",
+      "source": "스승님의 성화에 못 이겨 익힌 작은 공부일 뿐. 제가 뜻을 둔 것은 의술이었습니다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Why did it suddenly remind Jeok Cheongang of a physician who had reached the realm of the Divine Physician?",
+      "defect": "The draft makes “Divine Physician” a formal realm a physician can reach, rather than describing medical skill that has attained divine heights.",
+      "id": "F08",
+      "rationale": "신의 경지 modifies the physician’s mastery of medicine; it is not the name of a cultivation realm or professional rank.",
+      "replacement": "Why did Jeok Cheongang suddenly think of a physician whose medical arts were said to have reached divine heights?",
+      "severity": "minor",
+      "source": "문득 의술이 신의 경지에 다다랐다는 한 의원이 생각나는 것은 왜일까."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Can you still put your muscles to work?",
+      "defect": "The wording is an unnatural English rendering of a blunt question about physical strength.",
+      "id": "F09",
+      "rationale": "Jeok Cheongang is asking whether the Divine Physician is physically capable of carrying Jin Taekyung, setting up the carpenter response.",
+      "replacement": "Got any strength in you?",
+      "severity": "minor",
+      "source": "힘 좀 쓰나?"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Take care of Taekyung. Take care of that boy.",
+      "defect": "The draft duplicates a single heartfelt request as two separate commands.",
+      "id": "F10",
+      "rationale": "태경이, 저 아이 identifies Taekyung as “that boy” within one request, while 부탁하네 entrusts him to the Divine Physician.",
+      "replacement": "I’m leaving Taekyung in your care.",
+      "severity": "minor",
+      "source": "태경이, 저 아이를 부탁하네."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Above the sky, amid the dark clouds that had receded, a boy stood tall in the sunlight.",
+      "defect": "“Above the sky” is physically incoherent, and “amid the dark clouds that had receded” obscures that sunlight is streaming through the opening clouds.",
+      "id": "F11",
+      "rationale": "저 하늘 위 places the boy high in the sky, while 먹구름 사이로 비추는 햇살 describes sunlight shining between the clouds.",
+      "replacement": "High in the sky, a boy stood bathed in sunlight streaming through a break in the retreating dark clouds.",
+      "severity": "minor",
+      "source": "저 하늘 위, 어느새 물러간 먹구름 사이로 비추는 햇살을 받으며 한 소년이 우뚝 서 있었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The boy’s eyes were clear and sparkling like a child’s, yet they held the cunning, seasoned gaze of someone who felt no emotion whatsoever.",
+      "defect": "“Cunning” adds deceit absent from 노회한, while “someone who felt no emotion” changes an unreadable gaze into an assertion that the person is incapable of feeling emotion.",
+      "id": "F12",
+      "rationale": "The source contrasts youthful-looking eyes with an aged, experienced gaze from which Jeok Cheongang can discern no emotion.",
+      "replacement": "Those eyes were clear and bright like a boy’s, yet the gaze itself was ancient and seasoned, betraying no emotion whatsoever.",
+      "severity": "major",
+      "source": "소년의 그것처럼 맑고 반짝이는 듯하면서도, 아무런 감정도 느껴지지 않는 노회한 눈빛."
+    }
+  ],
+  "summary": "Two critical subject/action errors, one major change to who faces a suicidal order, one major characterization shift, and several localized register and natural-English issues.",
+  "version": 1
+}
