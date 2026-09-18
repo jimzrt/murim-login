@@ -1095,3 +1095,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 소림혈사 | **Shaolin Bloodshed** | Past incident cited by Hwangbo Eom. |
 | 방자전 | **Bangjajeon (The Servant)** | Korean film title used in Taekyung's pun on insolence. |
 | 종남제일인 | **Zhongnan's greatest master** | Taekyung's description of Hwangbo Eom. |
+| 서안 분타주 | **Xi'an Branch Leader** | Unnamed Beggars' Sect official heading the Xi'an branch. |
+| 초코파이 | **Choco Pie** | Snack brand used in Taekyung's pun on 정. |

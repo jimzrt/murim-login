@@ -1,6 +1,6 @@
 # Hyuk Sopyung (혁소평)
 
-- **Safe through:** Chapter 318
+- **Safe through:** Chapter 321
 - **Aliases:** Zhongnan One Dragon
 - **Role:** Peak master of the Zhongnan Sect and the Zhongnan One Dragon, Hyuk Sopyung is meeting his Senior Martial Uncle Hwangbo Eom at Tengwang Pavilion with thirty Taeeul Sword Unit disciples and has defended the current Sect Leader against Hwangbo's criticism.
 - **Personality:** Proud, volatile, entitled, and quick to anger, especially when drunk.
