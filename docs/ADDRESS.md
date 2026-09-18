@@ -559,3 +559,7 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 최 팀장 | mission_companion_to_team_leader | Team Leader Choi | polite-directive | Jin instructs Choi to protect civilians, evacuate the unconscious passengers, and continue fighting without overextending himself. |
 | 진태경 | 샤오 쉔 | battlefield ally and subordinate commander | Shao Shen | direct and honorific-polite | Jin calls Shao Shen by name and orders him to switch the defenders to an offensive. |
 | 샤오 쉔 | 진태경 | subordinate commander to respected ally | Mr. Jin | deferential | Shao Shen addresses Jin as 진 선생님 after recognizing him during the battle. |
+| 최 팀장 | 진태경 | team_leader_to_guild_ally | Mr. Jin Taekyung | formal-polite | Team Leader Choi greets Jin after the airport battle. |
+| 샤오 쉔 | 진태경 | rescued_ally_to_hero | Mr. Jin | formal-honorific | Shao Shen thanks Jin for saving him, his comrades, and the people of Zhonghua. |
+| 웨이펑후 | 진태경 | senior_military_official_to_ally | Mr. Jin | formal-polite | Wei Fenghu addresses Jin while inviting him to walk to the operations headquarters. |
+| 진태경 | 골골 | captor_to_subordinate_undead | Bones | mocking-casual | Jin uses the mocking nickname while treating the Skeleton Warlord like a pet. |
