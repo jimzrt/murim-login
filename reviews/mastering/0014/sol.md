@@ -48,9 +48,9 @@ How was I supposed to fight a Level 30 like Lee Seogeun?
 
 This was a fight I absolutely couldn’t take.
 
-I declined the Quest. Or I was going to. But Lee Seogeun beat me to it.
+I declined the Quest. Or tried to. But Lee Seogeun beat me to it.
 
-“If you run away from this place… the Jin Family of Taiyuan will pay the appropriate price.”
+“If you run away now… the Jin Family of Taiyuan will pay the appropriate price.”
 
 Ding.
 
@@ -154,7 +154,7 @@ For once, everyone reacted the same way. Eyes wide. Mouths open. Lee Seogeun, wh
 
 Ignoring Jin Wikyung’s frantic attempt to stop me, I spoke to Lee Seogeun.
 
-“Come out. Let’s have a go.”
+“Come on. Let’s have a go.”
 
 The corners of Lee Seogeun’s mouth curled into a cruel smile.
 
@@ -174,9 +174,9 @@ Ah. Someone was sending me a Sound Transmission, too.
 
 *I’m already doing that, man.*
 
-Jin Wikyung had a solemn expression, but he kept shifting his hips like a puppy that needed to poop. If Wipeng hadn’t been holding him down by the shoulder, he looked ready to charge into the training ground at any moment.
+Jin Wikyung wore a solemn expression, but he kept shifting in his seat like a puppy that needed to poop. If Wipeng hadn’t been holding him down by the shoulder, he looked ready to charge into the training ground at any moment.
 
-- Don’t worry. If it looks dangerous, this eldest brother of yours will jump in. What? If that bastard so much as lays a hand on our youngest brother, I’ll—fuck! Got it? Don’t get worked up. Take it slow and stay safe. You can do it, Jin Taekyung!
+- Don’t worry. If it looks dangerous, this eldest brother of yours will jump in. I mean it, all right? If that bastard so much as lays a hand on our youngest, I’ll just—damn it! You hear me? Don’t get worked up. Take it slow and stay safe. You can do it, Jin Taekyung!
 
 *……I get it, so calm down.*
 
@@ -220,7 +220,7 @@ Now he could read minds, too?
 
 But momentum was half the fight.
 
-I deliberately composed my expression before answering.
+I forced my expression under control before answering.
 
 “Bullshit.”
 
@@ -230,13 +230,13 @@ I deliberately composed my expression before answering.
 
 “Cut the bullshit.”
 
-“Oh? Putting on the airs of a martial family’s son, are you?”
+“Oh? So you’re still the son of a martial family, is that it?”
 
 Lee Seogeun laughed scornfully.
 
 “Let me ask you one thing. What made you accept the duel? Your martial arts are pathetic, and you’re notorious for being a coward. I want to hear your reason.”
 
-“The reason?”
+“My reason?”
 
 No matter how much I thought about it, this was the only way.
 
@@ -252,7 +252,7 @@ My mind eased slightly.
 
 “I figured I could handle someone like you.”
 
-“Pfft! You’re just a wet-behind-the-ears pup.”
+“Pfft! You ignorant little pup.”
 
 It was a mild provocation, but it didn’t work. He was confident in his own abilities, and it showed in his relaxed manner.
 
@@ -276,7 +276,7 @@ I’d suspected as much. No wonder the whole thing had stunk from beginning to e
 
 Lee Seogeun raised his massive greatsword and muttered ominously.
 
-I raised the Sharp Spear I had drawn earlier.
+I leveled the Sharp Spear I had taken out earlier.
 
 *All right. Let’s do this.*
 
@@ -344,11 +344,11 @@ The instant I saw the bewilderment and confusion in his gaze, I knew he was thin
 
 Lee Seogeun was strong. He possessed the brute strength of a giant monster, moved with surprising agility for someone so muscular, and swung his massive greatsword like a matchstick.
 
-And that wasn’t all. He was a Young Master of the Mount Heng Sword Sect—a sect that could actually throw its weight around. The martial arts he used had to be quite advanced.
+And that wasn’t all. He was a disciple of the Mount Heng Sword Sect, a sect powerful enough to throw its weight around. The martial arts he used had to be fairly advanced.
 
 And yet…
 
-*This is… doable?*
+*I can handle this.*
 
 Even now, I was blocking every swing of his greatsword. More than twenty attacks, and more than twenty blocks.
 
@@ -380,13 +380,13 @@ Clutching his stomach, Lee Seogeun skidded back five or six steps. Then he casua
 
 “……Hey.”
 
-“With my next strike, I’ll smash your head—what?”
+“With my next strike, I’ll smash your skull—what?”
 
-With a queasy look, I raised a hand and pointed at his mouth.
+I raised a hand and pointed awkwardly at his mouth.
 
 “You’re bleeding.”
 
-A beat later, a thin line of blood ran down from the corner of Lee Seogeun’s mouth. He had probably bitten his tongue. That had to hurt.
+A beat later, a thin line of blood ran from the corner of Lee Seogeun’s mouth. He must have bitten his tongue. That had to hurt.
 
 “Ah! Eeng! Eek! Hup!”
 

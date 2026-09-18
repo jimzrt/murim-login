@@ -164,7 +164,7 @@ The winter wind was cold. I took a deep breath while looking up at the cloudy sk
 
 “Whoo.”
 
-I faced Lee Seogeun on the Jin Family of Taiyuan’s main training ground. About fifty people sat some distance away, watching us.
+I faced Lee Seogeun on the Jin Family of Taiyuan’s Grand Training Ground. About fifty people sat some distance away, watching us.
 
 The Jin Family people wore expressions that seemed to ask what the hell I had eaten, while the Mount Heng Sword Sect’s goons looked like they had come out for a day of entertainment. The only thing missing was popcorn.
 
