@@ -1,19 +1,19 @@
 # Translation State
 
-- Last completed: 391
-- Next chapter: 392
-- Current block: 390–394 (2/5)
-- Latest translation: `translations/0391.md`
-- Latest summary: `summaries/beats/0391.md`
-- Safe profiles through: chapter 391
+- Last completed: 392
+- Next chapter: 393
+- Current block: 390–394 (3/5)
+- Latest translation: `translations/0392.md`
+- Latest summary: `summaries/beats/0392.md`
+- Safe profiles through: chapter 392
 
 ## Current Block
 
-- Zhang Wei's 2nd Company of the Sichuan Province Public Security Armed Forces Department is diverted into a ruined city under an order attributed to General Liao. After Colonel Wang orders the force to split up, an unseen attacker destroys the vehicles, helicopters, soldiers, and Hunters before ten Death Knights appear. Their black-armored leader orders them to kill everyone, and Zhang Wei dies after leading his Hunters in a final stand. The black knight then discovers a hidden family with a child, cannot bring itself to kill them, and abruptly withdraws with the Death Knights.
+- Jin arrives at a massacred city after the target of the Unexpected Assault disappears, causing the Quest to be canceled and reducing his Strength by 10. Shao Shen tries to pursue revenge against the attackers and General Liao, but Jin incapacitates and puts him to sleep before his subordinates agree to wait for a better time. When General Liao reveals that the failed operation was not supposed to fail, Jin breaks his arms and crushes his kneecaps. Elsewhere, the weakened Arch Lich orders the black knight to withdraw the undead legions and lure the human army inward, reaffirming that the Arch Lich serves a separate true king.
 
 ## Open Questions
 
-- Who is the Arch Lich, who is the black knight commanding the Death Knights, and why did the black knight spare the hidden family and withdraw?
+- Who is the Arch Lich's true king, who is the black knight, and why did the black knight previously spare the hidden family and withdraw?
 - What happened to Lei Fei and the Hunters who disappeared with him?
 - What happened to the Second Fiend assigned to the Qingcheng attack?
 - Who is the unidentified person directing Aehyang, and what are they planning?

@@ -609,3 +609,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 랴오 상장 | 진태경 | foreign_general_to_allied_Hunter | Mr. Jin | formal | Liao repeatedly addresses Jin as 진 선생 while attempting to maintain rank-based formality. |
 | 장 웨이 | 왕 상교 | Subordinate company commander addressing a superior colonel | Colonel Wang | Formal and deferential | Zhang Wei directly questions Colonel Wang about the operation. |
 | 소대장 | 장 웨이 | Subordinate platoon commander addressing his company commander | Company Commander | Blunt but respectful | A platoon commander addresses Zhang Wei by his command title while affirming the unit's loyalty. |
+| 진태경 | 샤오 쉔 | ally_to_regimental_commander | Shao Shen | urgent-casual | Jin calls him 쉔 and 샤오 쉔 while trying to stop his revenge. |
+| 최 팀장 | 진태경 | professional_ally | Mr. Jin | polite-professional | Team Leader Choi consistently addresses Jin as 진태경 씨. |

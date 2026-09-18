@@ -1,0 +1,106 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "If even I, an outsider from another country who had never met these people, felt that way, then the grief and rage felt by the Public Security Armed Forces Hunters who arrived behind me could not be expressed in words.",
+      "defect": "The established organization name omits “Department.”",
+      "id": "F01",
+      "rationale": "공안 무력부 is established as “Public Security Armed Forces Department,” and the natural construction is “Hunters from” that department.",
+      "replacement": "If even I, an outsider from another country who had never met these people, felt that way, then the grief and rage of the Hunters from the Public Security Armed Forces Department who arrived behind me could not be expressed in words.",
+      "severity": "minor",
+      "source": "엄연한 타국 사람이자 생면부지인 나도 이럴진대, 뒤따라 도착한 공안 무력부 헌터들이 느낀 슬픔과 분노는 말로 표현할 수 없었다."
+    },
+    {
+      "confidence": 0.91,
+      "current": "“I know. I feel it too.”",
+      "defect": "The translation adds an explicit statement about sharing Choi’s feelings where the source retains an elliptical “me too.”",
+      "id": "F02",
+      "rationale": "저도 preserves the unstated shared understanding between them; specifying that Taekyung “feels it” resolves the deliberate implication without source support.",
+      "replacement": "“I know. Me too.”",
+      "severity": "minor",
+      "source": "“압니다. 저도.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The armored vehicles were only now entering the city.",
+      "defect": "The draft changes tanks into the more general armored vehicles, erasing the source’s distinction between 전차 here and the 장갑차 that appears later.",
+      "id": "F03",
+      "rationale": "전차 means tanks in this military context, while the later 장갑차 is specifically an armored vehicle.",
+      "replacement": "The tanks were only now entering the city.",
+      "severity": "major",
+      "source": "이제야 도시로 진입하는 전차들."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Shao Shen sensed something strange and tried to evade me, but my hand slid across his body before he could.",
+      "defect": "The draft says Taekyung’s hand slid across Shao Shen’s body, omitting that his fluid movement specifically brushed Shao Shen’s acupoints.",
+      "id": "F04",
+      "rationale": "혈도 identifies the precise targets of Taekyung’s strike and supplies the mechanism for the paralysis, muteness, and sleep that immediately follow.",
+      "replacement": "Shao Shen sensed something was wrong and tried to evade me, but my hand moved fluidly and had already brushed his acupoints.",
+      "severity": "major",
+      "source": "이상함을 느낀 샤오 쉔이 피하려 했지만, 미끄러지듯 움직인 내 손은 이미 녀석의 혈도를 스친 후였다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "I shook my hand at them as they charged toward me without hesitation.",
+      "defect": "“Shook my hand at them” describes the wrong gesture and is unnatural English for launching the palm force that follows.",
+      "id": "F05",
+      "rationale": "손을 떨쳤다 is a decisive outward hand motion, not a repeated shaking gesture.",
+      "replacement": "I swept a hand toward them as they charged without hesitation.",
+      "severity": "minor",
+      "source": "나는 거침없이 쇄도해 오는 그들을 향해 손을 떨쳤다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Team Leader Choi looked over the Public Security Armed Forces Hunters one by one.",
+      "defect": "The established organization name again omits “Department.”",
+      "id": "F06",
+      "rationale": "공안 무력부 is established as “Public Security Armed Forces Department.”",
+      "replacement": "Team Leader Choi looked over the Hunters from the Public Security Armed Forces Department one by one.",
+      "severity": "minor",
+      "source": "최 팀장은 공안 무력부의 헌터들을 차례대로 훑었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "There were nearly a thousand of them. I hadn’t counted them that far, but if they became involved in an incident like this, they wouldn’t be able to avoid trouble either.",
+      "defect": "The draft narrows “around a thousand” to “nearly a thousand” and misreads 헤아리지 않았지만 as literal counting rather than Taekyung not having considered the wider consequences.",
+      "id": "F07",
+      "rationale": "천 명을 헤아리는 gives an approximate force size, while 거기까지 헤아리지 않았다 means Taekyung had not considered matters that far, referring to the repercussions for the whole force.",
+      "replacement": "They were a force numbering around a thousand. I hadn’t thought that far ahead, but if they became involved in an incident like this, they wouldn’t be able to avoid trouble either.",
+      "severity": "major",
+      "source": "천 명을 헤아리는 대병력이다. 나는 거기까지 헤아리지 않았지만, 이런 사건에 연루된다면 그들 역시 낭패를 피할 수 없다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "A moment later, under heavy escort, General Liao emerged.\n\n「W-What in the world…?」\n\nAt the horrific sight before him, his already pale skin turned deathly white.",
+      "defect": "The draft omits Liao’s plump appearance and incorrectly makes his complexion pale before it turns pale; 뽀얗던 means fair or milky-complexioned.",
+      "id": "F08",
+      "rationale": "살이 포동포동하게 오른 explicitly characterizes Liao as plump, and 뽀얗던 establishes his formerly fair complexion in contrast with the pallor caused by the scene.",
+      "replacement": "A moment later, under heavy escort, the plump General Liao emerged.\n\n「W-What in the world…?」\n\nAt the horrific sight before him, his already fair complexion turned deathly pale.",
+      "severity": "minor",
+      "source": "잠시 후 삼엄한 호위 속, 살이 포동포동하게 오른 랴오 상장이 모습을 드러냈다.\n\n「이, 이게 도대체…….」\n\n눈 앞에 펼쳐진 참혹한 광경에 안 그래도 뽀얗던 피부가 창백하게 질린다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "*Be grateful that I still had a shred of reason left.*",
+      "defect": "The past tense makes Taekyung’s remaining restraint sound as though it has already ended.",
+      "id": "F09",
+      "rationale": "남아 있는 is present-state wording: Taekyung is warning Liao that his restraint still exists at that moment.",
+      "replacement": "*Consider yourself lucky I still have a shred of reason left.*",
+      "severity": "minor",
+      "source": "‘마지막 이성이 남아 있는 걸 다행으로 여겨라.’"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Withdraw from the front. Draw in the human army.”",
+      "defect": "The first command is rendered as abandoning the front rather than pulling the front line back, and the following tactical explanation is changed into a second direct command.",
+      "id": "F10",
+      "rationale": "전선을 물려라 orders a controlled retreat of the battle line, while 인간의 군대를 끌어들인다 states the Arch Lich’s resulting plan to lure the human army inward.",
+      "replacement": "“Pull back the front line. We’ll draw the human army in.”",
+      "severity": "major",
+      "source": "- 전선을 물려라. 인간의 군대를 끌어들인다."
+    }
+  ],
+  "summary": "Actionable issues include two departures from established organization terminology, altered military equipment and tactical mechanics, loss of the acupoint-strike action, one misread narration clause, and several localized fidelity or wording problems.",
+  "version": 1
+}
