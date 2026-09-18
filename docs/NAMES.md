@@ -1148,3 +1148,9 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 광안 | **Guang'an** | Sichuan location where the party boards Mu Song's ship. |
 | 황태구 | **Hwang Tae-gu** | Former Sichuan river-bandit power displaced by Mu Song; mastermind of the attack. |
 | 어인 유술 해류 한 팔 업어치기 | **Fish-Man Jujutsu: Current—One-Arm Shoulder Throw** | Taekyung's joking name for the combined maneuver he performs with Mu Song. |
+| 문경 | **Mungyeong** | Young medical apprentice and newly introduced passenger. |
+| 의생 | **medical apprentice** | Mungyeong's occupation. |
+| 인의대협 | **Great Hero of Benevolence and Righteousness** | Flattering epithet Mungyeong uses for Mu Song. |
+| 맹규 | **League regulations** | Rules of the Yangtze River Channel League. |
+| 본단 | **League headquarters** | The League headquarters to which Hwang Tae-gu will be transported. |
+| 기해혈 | **qi-sea acupoint** | Acupoint at the dantian whose destruction releases stored internal energy. |
