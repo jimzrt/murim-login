@@ -106,9 +106,9 @@ Apparently, he’d started a family while we were out of touch. When I congratul
 
 “What’s so special about that?”
 
-He was being modest, but a big deal was a big deal. He’d worked as a Hunter—an F-rank Hunter—for more than twenty years and still managed to build a family.
+He was being modest, but it was a big deal. He’d spent more than twenty years working as a Hunter—an F-rank Hunter—and still managed to build a family.
 
-I wondered if the Im Kkeokjeong in front of me might be my future self.
+I wondered if the Im Kkeokjeong before me might be a glimpse of my own future.
 
 *Assuming I live to that age.*
 
@@ -156,7 +156,7 @@ At last, the first batter was up. My turn would come only after all the E-rank H
 
 Im Kkeokjeong—or rather, Im Hyeokjun—slung a large bag of armor and weapons over his shoulder and chuckled.
 
-*No wonder his expression looked off.*
+*No wonder he was acting strange.*
 
 He must have worked himself to the bone while we were out of touch.
 
@@ -188,7 +188,7 @@ A man in a white linen shirt was waiting in the lobby. Without so much as a gree
 
 *This guy’s tone is seriously irritating.*
 
-I glared from the contract to the man’s face and back.
+I looked from the contract to the man’s face and back again.
 
 “The settlement split is eight to two.”
 
@@ -206,7 +206,7 @@ I glared from the contract to the man’s face and back.
 
 “E-rank.”
 
-“Rejected.”
+“Pass.”
 
 “The combat positions are full. You’ll be a porter.”
 
@@ -252,7 +252,7 @@ I’d been itching to sign so badly my fingers had almost cramped.
 
 “Huh? Taekyung!”
 
-Im Kkeokjeong was waiting to load his bags into the bus’s trunk. He grinned wide.
+Im Kkeokjeong was waiting to load his bag into the vehicle’s luggage compartment. His face lit up.
 
 “You’re coming too. That’s great!”
 
@@ -268,13 +268,13 @@ Maybe it was the heat, but the man in the linen shirt suddenly looked years olde
 
 * * *
 
-The bus pulled out. From the passenger seat, the shirt guy said we’d arrive within twenty minutes, then closed his eyes.
+The minibus pulled away. From the passenger seat, the man in the linen shirt said we’d arrive within twenty minutes, then closed his eyes.
 
 Im Kkeokjeong introduced me to the others who’d been hired with us.
 
 “All right, everyone, say hello. This is a younger friend of mine.”
 
-Now that I looked, they all knew each other. I dipped my head.
+Now that I looked, they all seemed to know one another. I bowed my head.
 
 “Hello. I’m Jin Taekyung.”
 
@@ -308,9 +308,9 @@ I answered carefully.
 
 “Hmm. That so?”
 
-The mood went lukewarm. If my first raid started like this, that would be a problem.
+The response was lukewarm. This wasn’t how I wanted my first raid back to start.
 
-I ran my mouth before it could settle.
+I hurried to explain.
 
 “I won’t be taking part in combat. I’m joining as a porter, so you don’t need to worry…”
 
@@ -318,7 +318,7 @@ The three men stared blankly at me.
 
 “Why the long explanation? You think we’re going to eat you?”
 
-“Drop it. If he’s been knocking around for seven years, he knows enough.”
+“Drop it. If he’s been knocking around for seven years, he knows what he’s doing.”
 
 “If Kkeokjeong hyung recommended him, that’s good enough. Team Leader Choi must’ve thought he was all right too, or he wouldn’t have agreed.”
 
@@ -358,7 +358,7 @@ Judging by the way they kept mentioning Team Leader Choi, I figured their friend
 
 “I told you, Team Leader Choi made the decision!”
 
-The man in question answered Im Kkeokjeong’s awkward excuse.
+The man himself answered Im Kkeokjeong’s awkward protest.
 
 “Then let’s say I made the decision.”
 
