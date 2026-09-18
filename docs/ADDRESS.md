@@ -652,3 +652,9 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 최 팀장 | younger_ally_to_senior_ally | Team Leader Choi | polite and collegial | Jin asks Team Leader Choi for his assessment of the abnormal battlefield situation. |
 | 최 팀장 | 진태경 | senior_ally_to_younger_hunter | Mr. Jin | formal-polite | Team Leader Choi addresses Jin as 진태경 씨 while discussing their shared suspicion. |
 | 아크 리치 | 대적자 | enemy_to_unknown_adversary | adversary | cold and formal | The Arch Lich calls for an adversary after gathering its mana. |
+| 매직 존슨 | 진태경 | friendly allied Hunter to younger allied Hunter | Jin | casual and playfully familiar | Uses affectionate and teasing nicknames while greeting Jin. |
+| 매직 존슨 | 최 팀장 | friendly allied Hunter to allied team leader | Choi | casual and playfully familiar | Teases Choi for speaking formally. |
+| 진태경 | 매직 존슨 | younger allied Hunter to friendly allied Hunter | Mr. Johnson | polite and familiar | Uses a polite address while asking Johnson to teleport them safely. |
+| 진태경 | 우헤이싱 | adversarial S-rank Hunters | you idiot | insulting-casual | Mocks Wu's cowardice and orders him to stop complaining. |
+| 최 팀장 | 우헤이싱 | allied team leader to hostile allied S-rank Hunter | Wu Heixing | calm and formal despite conflict | Addresses Wu while attempting to end his confrontation with Jin. |
+| 우헤이싱 | 최 팀장 | hostile S-rank Hunter to allied team leader | you | hostile and confrontational | Challenges Choi after interpreting his intervention as an order. |
