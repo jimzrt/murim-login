@@ -12,7 +12,7 @@ A rich C-rank Hunter was paying, so whatever.
 
 *How long had it been since I’d last had Hanwoo?*
 
-Food in Murim was spicy, salty, and bland. And even then, more days than not, I couldn’t eat properly. For thirty days, my stomach had been abused with beef jerky, bigu pills,[^1] and rice balls.
+Food in Murim was spicy, salty, and bland. And even then, more days than not, I couldn’t eat properly. For thirty days, my stomach had been abused with beef jerky, fasting pills, and rice balls.
 
 Chomp. Chomp-chomp.
 
@@ -168,7 +168,7 @@ Team Leader Choi—no, Choi Minwoo—looked in silence at the seat Jin Taekyung 
 
 Beep. Beep. Click.
 
-“—You bastard, you’re a ghost. I was just about to call you.”
+“—You bastard, are you psychic or what? I was just about to call you.”
 
 “How did that thing I asked about turn out?”
 
@@ -473,8 +473,6 @@ As I clenched my fist, the taxi driver said,
 “This is a Seoul taxi.”
 
 “Oh.”
-
-[^1]: Bigu pills are traditional fasting pills said to sustain the body without ordinary food.
 
 [^2]: Yukhoe is seasoned Korean raw beef.
 
