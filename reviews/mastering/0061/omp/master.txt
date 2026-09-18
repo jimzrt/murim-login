@@ -16,7 +16,7 @@ A true life-or-death moment.
 
 Fwoooosh.
 
-The one jiazi of internal energy coiled in the Head Elder’s dantian spread through every limb and bone. It poured vitality into his aging muscles and woke his blood vessels. The change did not stop there.
+The one jiazi of internal energy coiled in the Head Elder’s dantian surged through every limb and bone. It poured vitality into his aging muscles and awakened his meridians. The change did not stop there.
 
 Tssssss.
 
@@ -28,7 +28,7 @@ The threadlike Sword Energy wrapped around the entire blade, taking the shape of
 
 Sword Force.
 
-The symbol of the superhuman masters who had broken through the wall of the Peak realm and opened a great new domain.
+The symbol of those superhuman masters who had broken through the wall of the Peak realm and entered a greater domain.
 
 It was still incomplete, no more than half-formed, but it was unmistakably Sword Force—the culmination of the martial arts the Head Elder had spent his life mastering.
 
@@ -36,13 +36,13 @@ Shhk.
 
 Even the Jin Family of Taiyuan’s ancestral treasure sword was severed, Sword Energy and all. Jin Wikyung’s internal energy scattered in an instant, the shock wrenching his insides. His face went pale.
 
-One stroke would have been enough to take his neck.
+A single stroke would have been enough to take his head.
 
 But the Head Elder had no time.
 
 Shwack!
 
-He reached for the spear now almost at his chest. His wrinkled hand, too, was wrapped in a dazzling radiance of qi.
+He reached for the spearhead already closing on his chest. His wrinkled hand was likewise wrapped in a dazzling radiance of qi.
 
 It, too, was an incomplete Palm Force, but it was enough to stop Jin Taekyung’s spear.
 
@@ -122,9 +122,9 @@ As though he had read my mind, the Head Elder continued.
 
 “Power is the one thing a man will not share, even with his own blood. When the time comes, will you still be so proud of your younger brothers?”
 
-The air around us went ice-cold in an instant.
+The air around us went cold in an instant.
 
-Everyone facing the Head Elder at close range belonged to the Jin Family of Taiyuan. Cautious looks clung to my cheeks, then quietly slid away.
+Everyone confronting the Head Elder at close range belonged to the Jin Family of Taiyuan. Wary glances settled on my face, then quickly slipped away.
 
 *Family Head? I have no intention of becoming anything like that, you bastards.*
 
@@ -160,7 +160,7 @@ The shift in his tone was so natural that no one else seemed to notice.
 
 “He was a coldhearted man. Toward his children and his only younger brother alike. And…”
 
-The Head Elder gave a dry little laugh.
+The Head Elder let out a quiet laugh.
 
 “He was petty. For many reasons, we gradually drifted apart despite once being close brothers. Then it happened.”
 
@@ -168,13 +168,13 @@ The Head Elder gave a dry little laugh.
 
 “Have you heard of the Hundred Thousand of the Demonic Path? They came in endless waves. The Murim Alliance was formed, but it was little more than a coalition of the Nine Sects and One Gang, each too busy defending its own territory.”
 
-That was also when the Head Elder had begun making a real name for himself.
+That was also when the Head Elder had begun to make a name for himself.
 
 He rallied Shanxi’s martial artists beneath the Jin Family of Taiyuan’s banner and ultimately drove out the Demonic Cult’s forces.
 
 “The final battle took place right here, at Eight Spring Gorge.”
 
-His gaze seemed to grope toward some distant point in the past.
+His gaze seemed to search some distant point in the past.
 
 “It had been a long war. Many had died, and everyone was exhausted. But we still had hope—the hope that we could finally return to our families. All three hundred members of the death squad shared that hope.”
 
@@ -186,7 +186,7 @@ The result was the Demonic Cult’s annihilation.
 
 It was a glorious victory and the reason the Head Elder was still remembered to this day. Everyone had believed that without question.
 
-Until just now.
+Until now.
 
 “There was an ambush.”
 
@@ -196,13 +196,13 @@ Until just now.
 
 The Head Elder’s voice was chillingly calm.
 
-“How could they have set an ambush in advance? My elder brother should have been blocking the road into Eight Spring Gorge.”
+“How could they have prepared an ambush? My elder brother was supposed to be blocking the road to Eight Spring Gorge.”
 
 “…!”
 
 Silent shock rippled through the crowd. The last traces of color vanished from Jin Wikyung’s already pale face.
 
-“The battle lasted half a day. We fought waiting for reinforcements that never came, and it was useless. Of the three hundred volunteers, only eight survived. When we finally returned to the family, I have never been able to forget the look on my brother’s face when he saw me.”
+“The battle lasted half a day. We fought while waiting for reinforcements that never came, but it was no use. Of the three hundred members of the death squad, only eight survived. When we finally returned to the family, I saw my brother’s face. I have never forgotten the look on it.”
 
 “Is that… true?”
 
@@ -210,7 +210,7 @@ Silent shock rippled through the crowd. The last traces of color vanished from J
 
 Decades were more than enough time for suspicion to harden into certainty. The Head Elder laughed hollowly.
 
-“My brother turned the war into an opportunity. I became a hero on the battlefield, but he became Family Head. Everyone who had followed me either died in battle or vanished afterward.”
+“My brother turned the war into an opportunity. I became a hero on the battlefield, but he became Family Head. By then, everyone who had followed me had either died or gone missing in battle.”
 
 “Then was that why you entered the Council of Elders immediately afterward?”
 
@@ -218,7 +218,7 @@ Decades were more than enough time for suspicion to harden into certainty. The H
 
 *My people?*
 
-I thought back to what he had said. The eight survivors who had followed the Head Elder and lived to the end.
+I thought back to what he had said. Eight men had survived to the end alongside the Head Elder.
 
 It wasn’t difficult to guess who they were.
 
@@ -228,7 +228,7 @@ The survivors had sworn revenge—revenge against the Family Head and the family
 
 The Head Elder slowly swept his gaze over the crowd.
 
-“It had been a very long wait.”
+“It has been a very long wait.”
 
 Silence swallowed everyone. Disbelief, shock, shame—their emotions differed, but no one could bring themselves to speak.
 
@@ -238,7 +238,7 @@ Well, no one except me.
 
 “…!”
 
-I couldn’t hold back the little snorts of laughter leaking out of me.
+I couldn’t hold back the little bursts of laughter escaping me.
 
 I had listened all the way through to see where this was going, and this was what I got.
 
@@ -262,7 +262,7 @@ I picked at my ear and continued.
 
 “But why now?”
 
-This had happened a full forty years ago. Even counting the Head Elder’s age, he had waited half his life.
+This had happened forty years ago. The Head Elder had waited half his life.
 
 “How many of the people who stabbed you in the back are even still alive? There’s being late, and then there’s this. And please, I’m begging you—don’t give me that bullshit about a junzi waiting ten years to take revenge.”
 
@@ -270,15 +270,15 @@ If waiting ten years made you a junzi, did waiting forty make the Head Elder Jes
 
 This was nothing more than a crazy old man trying to justify himself.
 
-“You run your mouth just because you’ve got one.”
+“You speak recklessly simply because you have a mouth.”
 
-“I did. What are you going to do about it?”
+“I do. What are you going to do about it?”
 
 “Do you think you know everything?”
 
 “Do I need to? After things have gone this far?”
 
-The question was so obvious I snorted a laugh and pointed at the battlefield.
+The question was so absurd that I snorted and pointed toward the battlefield.
 
 A mountain of corpses and a sea of blood. Utter pandemonium. The scene before us was exactly that.
 
@@ -308,11 +308,11 @@ It was time to hunt the wounded beast.
 
 I remembered the day I first saw the Head Elder.
 
-A bearing and dignity that made his age meaningless. His white beard called an immortal to mind.
+His dignified bearing had made his age seem irrelevant. His flowing white beard brought an immortal to mind.
 
 Fwoosh!
 
-Of course, there were no immortals who mercilessly cut people in half.
+Of course, there probably weren’t many immortals who mercilessly cut people in half.
 
 *Even rotten, a prized fish is still a prized fish.*
 
@@ -324,7 +324,7 @@ The Head Elder had lost an arm, but he was still strong.
 
 He was clearly no longer as strong as before, though.
 
-*This is doable.*
+*We can do this.*
 
 The Head Elder might have been a Peak master, but the martial artists here were the Jin Family of Taiyuan’s elite. They had fought across the battlefield under Jin Wikyung and were skilled enough to have survived their earlier clash with the Head Elder.
 
@@ -354,13 +354,13 @@ Shhk.
 
 The Sword Energy scattered in a rising spray of blood. Jin Wikyung appeared behind the staggering Head Elder.
 
-“I’d forgotten you were there.”
+“I’d forgotten about you.”
 
 The Head Elder turned, his face twisting.
 
 “Did my elder brother teach you to put a blade in someone’s back?”
 
-“My family members are dying. Is a sneak attack really that important?”
+“My people are dying around me. Why should I care about a sneak attack?”
 
 “Aren’t you ashamed as a martial artist?”
 
@@ -396,13 +396,13 @@ The Head Elder’s current appearance overlapped with Jopil’s final moments be
 
 Internal energy was acquired power accumulated by circulating qi and consuming elixirs. Innate qi was the opposite—the foundation of the human body, life force itself.
 
-The Head Elder was staking his life to use it.
+The Head Elder was using his own life to fuel it.
 
 “Cough.”
 
 He spat out blood and raised his sword. His life was fading rapidly, yet his sword shone more brilliantly than ever.
 
-The moment I saw that overwhelming sight, a single word slipped out of me.
+The moment I saw that overwhelming sight, a single phrase slipped from my lips.
 
 “Sword Force…”
 
@@ -422,7 +422,7 @@ Jin Wikyung lunged to stop the Head Elder.
 
 But the Head Elder had already vanished from where he stood.
 
-In a single step he compressed fifty feet and brought his sword down on me.
+With a single step, he crossed fifty feet and brought his sword down on me.
 
 Whoooong.
 
@@ -438,7 +438,7 @@ But…
 
 I wrung every ounce of strength from my muscles. The last scant handful of internal energy raced toward the spearhead.
 
-It was a final struggle, and a show of respect for the life I had lived so fiercely until now.
+It was a final struggle—the least I owed the life I had fought so hard to live.
 
 “One Annihilation.”
 

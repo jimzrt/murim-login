@@ -16,7 +16,7 @@ A truly life-or-death moment.
 
 Fwoooosh.
 
-The sixty years of internal energy coiled in the Head Elder’s dantian spread through every limb and bone. It poured vitality into his aging muscles and woke his blood vessels. The change did not stop there.
+The one jiazi of internal energy coiled in the Head Elder’s dantian spread through every limb and bone. It poured vitality into his aging muscles and woke his blood vessels. The change did not stop there.
 
 Tssssss.
 
@@ -44,7 +44,7 @@ Shwack!
 
 He reached for the spear now almost at his chest. His wrinkled hand, too, was wrapped in a dazzling radiance of qi.
 
-This, too, was an incomplete Hand Force, but it was enough to stop Jin Taekyung’s spear.
+This, too, was an incomplete Palm Force, but it was enough to stop Jin Taekyung’s spear.
 
 No. It looked like enough.
 
@@ -70,7 +70,7 @@ At the end of countless gazes, the Head Elder slowly opened his mouth.
 
 I answered.
 
-“One Flash.”
+“One Annihilation.”
 
 Even speaking the words brought on a vicious hunger. Every muscle in my body stung, and not a scrap of internal energy was left inside me.
 
@@ -80,15 +80,15 @@ Unlike with Jopil, I didn’t pass out or crumple pathetically to the ground.
 
 *My body can handle it now.*
 
-I had grown enough to take One Flash’s side effects. And as much as I had grown, One Flash’s power had grown with me.
+I had grown enough to take One Annihilation’s side effects. And as much as I had grown, One Annihilation’s power had grown with me.
 
 The Head Elder’s current state was proof of that.
 
-“One Flash. One Flash…”
+“One Annihilation. One Annihilation…”
 
 He muttered it under his breath and pressed an acupoint on his shoulder.
 
-The bleeding stopped, but that was all. The arm ground to nothing by the vortex One Flash had unleashed did not come back.
+The bleeding stopped, but that was all. The arm ground to nothing by the vortex One Annihilation had unleashed did not come back.
 
 “I never thought I’d end up one-armed at this age. Heh heh.”
 
@@ -214,7 +214,7 @@ Decades were more than enough to turn suspicion into certainty. The Head Elder l
 
 “My brother turned the war into an opportunity. I became a hero on the battlefield, but he became Family Head. Everyone who had followed me either died in battle or vanished afterward.”
 
-“Then going straight into the Elder Council—was that why?”
+“Then going straight into the Council of Elders—was that why?”
 
 “Because that was the only way he would feel at ease. The only way I and my people could stay alive.”
 
@@ -442,7 +442,7 @@ I wrung every muscle in my body. The last scant handful of internal energy raced
 
 It was a final struggle, and a show of respect for the life I had lived so fiercely until now.
 
-“One Flash.”
+“One Annihilation.”
 
 Shiiiiiiing!
 
