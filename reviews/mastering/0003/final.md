@@ -1,18 +1,18 @@
 # Chapter 3
 
-A young man’s reflection shimmered across the calm surface of the water.
+A young man’s reflection shimmered on the calm surface of the water.
 
 Dark eyebrows. Sharp, well-defined features. When he lifted the corners of his mouth, deep dimples appeared. But the forced smile vanished as if washed away the very next moment.
 
 Crash.
 
-I hurled the basin of wash water to the floor, sending shards flying in every direction.
+I hurled the dish of wash water to the floor, sending shards flying in every direction.
 
 “Fuck! Fuuuck!”
 
 What good was being handsome if I couldn’t log out?
 
-I’d spent the past three days throwing every kind of tantrum imaginable, but the answer never changed.
+I’d spent the past three days raging and raising hell, but the answer never changed.
 
 > **System**
 >
@@ -20,7 +20,7 @@ I’d spent the past three days throwing every kind of tantrum imaginable, but t
 
 *What kind of lunatics would make something like this?*
 
-As I continued hurling curses, I remembered the warnings.
+I continued hurling curses as I recalled the warnings.
 
 > **Warning**
 >
@@ -37,7 +37,7 @@ Ha. Ha. Ha.
 
 And yet, it was really happening.
 
-I couldn’t log out. I’d spent three days waiting for someone outside to come rescue me, but nothing had happened. I hadn’t tested the death part, but judging by the circumstances, there was a good chance it was true too.
+I couldn’t log out. I’d spent three days waiting for someone outside to rescue me, but nothing had happened. I hadn’t tested the part about dying, but judging by the circumstances, it was probably true too.
 
 *But there is a way.*
 
@@ -45,9 +45,9 @@ If “the player cannot log out at will” was the wording, that implied logging
 
 *For example, completing a quest or leveling up.*
 
-That was the answer I’d deduced because this place, *Murim*, was a game.
+That was the answer I’d arrived at because this place, *Murim*, was a game.
 
-In games, you received rewards whenever you completed a quest or leveled up. Completing Tutorial—Stage 1 had already proved that much.
+Games rewarded you whenever you completed a quest or leveled up. Completing Tutorial—Stage 1 had already proved that much.
 
 *For now, I’ll focus on quests and leveling up.*
 
@@ -67,7 +67,7 @@ It was a carriage to take Jin Taekyung of the Jin Family of Taiyuan home—not F
 
 The four-horse carriage Wolhwa—or rather, Honghwaru—had provided was large and extravagant.
 
-The coachman was a taciturn man who didn’t say a word to me, which suited me perfectly.
+The coachman kept to himself and never said a word to me. That was fine by me.
 
 I didn’t want anyone bothering me right now.
 
@@ -79,7 +79,7 @@ I didn’t want anyone bothering me right now.
 >
 > Accept / Decline
 
-This was the quest window I’d opened dozens of times over the past three days, only to close it again. I’d been afraid of the unknown. But I wasn’t hesitating anymore.
+I’d opened this quest window dozens of times over the past three days, only to close it again. I’d been afraid of the unknown. But I wasn’t hesitating anymore.
 
 *Accept.*
 
@@ -145,7 +145,7 @@ I thought back to the online games I’d played once in a blue moon.
 
 I blinked. I felt completely blindsided.
 
-The Jin Family of Taiyuan was a big deal in the area. And this guy was even from a prestigious Murim family…but he was only Level 10, a third-rate martial artist?
+The Jin Family of Taiyuan was a major power in the area. And this guy was even from one of Murim’s great families…but he was only Level 10, a third-rate martial artist?
 
 *Is this for real?*
 
@@ -179,7 +179,7 @@ Internal energy, or inner power.
 
 It was another name for the kind of qi—mana or aura—that high-ranking Hunters used in the real world.
 
-In most martial-arts novels, old geezers with one foot in the grave could chew up vigorous young masters and toy with them however they pleased—all because they possessed enormous internal energy.
+In most martial-arts novels, old geezers with one foot in the grave could chew up, tear apart, savor, and enjoy vigorous young masters—all because they possessed enormous internal energy.
 
 Martial arts meant internal energy. And when you thought of a master, you thought of a master of internal energy. There was a reason people called internal energy the yardstick of a martial artist’s strength.
 
@@ -245,7 +245,7 @@ How could I forget? That day, seven years ago.
 
 The sensation had come without warning, leaving my twenty-year-old self completely helpless.
 
-When I opened my eyes again, I realized that I had been chosen. The chosen 0.1 percent. I had become an Awakened.
+When I opened my eyes again, I realized that I had been chosen. One of the chosen 0.1 percent. I had become an Awakened.
 
 Remembering the exhilaration I’d felt that day only made me more confused now.
 
@@ -275,9 +275,9 @@ I licked my parched lips and thought.
 >
 > **Martial Arts:** Jin Family’s Spear Technique / Jin Family’s Manoeuvre Technique (Unavailable)
 >
-> **Sinews:** 10
+> **Muscles and Bones:** 10
 >
-> **Bones:** 10
+> **Sinews and Meridians:** 10
 >
 > **Unassigned Points:** 100
 >
@@ -305,13 +305,13 @@ Right. I could always learn more martial arts later.
 
 *At least I have unassigned points.*
 
-Trying to comfort myself with that thought, I looked at the Skill Window again. Maybe because it was so empty, one word immediately caught my eye.
+Trying to comfort myself with that thought, I looked at the Skill Window again. Maybe because it was so empty, two terms immediately caught my eye.
 
-*Sinews and Bones. I’ve seen those a lot in martial-arts novels.*
+*Muscles and Bones. Sinews and Meridians. I’ve seen those a lot in martial-arts novels.*
 
-Sinews referred to tendons and blood vessels, while Bones meant muscles and the skeletal frame.
+Sinews and Meridians referred to tendons and blood vessels, while Muscles and Bones meant the muscles and skeletal frame.
 
-In other words, Sinews were for an internal-energy-focused build, while Bones were for external martial arts. I decided to lean a little more toward Bones.
+In other words, Sinews and Meridians were for an internal-energy-focused build, while Muscles and Bones were for external martial arts. I decided to lean a little more toward Muscles and Bones.
 
 The reason was simple.
 
@@ -325,7 +325,7 @@ Magic and aura… I’d seen them with my own eyes, but using them myself was ou
 
 You had to have used internal energy before to know how to use it. The way I’d fought over the past seven years was closer to that of an external martial artist.
 
-*Sixty into Bones. Forty into Sinews.*
+*Sixty into Muscles and Bones. Forty into Sinews and Meridians.*
 
 > **System**
 >
@@ -339,9 +339,9 @@ This time, what swept through me was nothing like the exhilaration I’d felt fr
 
 Seconds? Minutes? I had no idea. When the pain passed, all that remained was my ragged breathing—and the reward for enduring it.
 
-*My build…*
+*My physique…*
 
-It had changed. My shoulders had broadened by half a span, and muscle had hardened across my front and back. The silk clothes that had felt a little loose now felt constricting.
+It had changed. My shoulders had broadened by half a span, and muscle had hardened across my chest and back. The silk clothes that had felt a little loose now felt constricting.
 
 When I clenched my fists, I felt strength and springiness I hadn’t been able to sense before. I’d grown stronger. It was an experience I’d never had in the real world.
 
@@ -393,7 +393,7 @@ The description was simple, befitting a basic item.
 
 *Equip item.*
 
-A refreshing sensation swept over me, and I found myself dressed in a black martial uniform.
+A cool sensation swept over my entire body, and I found myself dressed in a black martial uniform.
 
 It wasn’t just my clothes that had changed. A headband—commonly called a hero’s headband in martial-arts novels—was tied firmly around my forehead, and I was wearing leather shoes instead of silk ones.
 
@@ -441,7 +441,7 @@ I immediately opened the Inventory to check the new item.
 >
 > **Effect:** 5% chance to inflict Bleeding on hit
 >
-> **Description:** A reasonably usable spear. It’s sharp, so be careful when handling it.
+> **Description:** A decent enough spear. It’s sharp, so be careful when handling it.
 
 “…”
 
@@ -449,7 +449,7 @@ If my Status Window and Skill Window were going to be such a mess, couldn’t th
 
 *Equip item.*
 
-The moment the shaft of the spear appeared in my grasp—
+The moment the spear shaft appeared in my grasp—
 
 Ding.
 
@@ -471,7 +471,7 @@ The taciturn coachman spoke for the first time.
 
 “Yes?”
 
-“A minor problem has arisen.”
+“We have a minor problem.”
 
 “What are you talking about all of a sudden—”
 
@@ -485,7 +485,7 @@ Ding.
 >
 > You have learned how to grow stronger through the System.
 >
-> What you learn must produce results.
+> Learning must produce results.
 >
 > Defeat the bandits who have appeared without warning!
 >

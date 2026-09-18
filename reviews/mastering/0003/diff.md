@@ -1,453 +1,252 @@
-# Mastering Diff — 62 changed hunks
+# Mastering Diff — 31 changed hunks
 
 ## H001 (replace)
 
-### BASE
+Baseline paragraphs: P2
+SOL paragraphs: P2
+Korean lines: 5
+
+BASE:
 
 A young man’s reflection shimmered across the calm surface of the water.
 
-### SOL
+SOL:
 
 A young man’s reflection shimmered on the calm surface of the water.
 
 ## H002 (replace)
 
-### BASE
+Baseline paragraphs: P3
+SOL paragraphs: P3
+Korean lines: 7
+
+BASE:
 
 Dark eyebrows. Sharp, well-defined features. When he lifted the corners of his mouth, deep dimples appeared. But the forced smile vanished as if washed away the very next moment.
 
-### SOL
+SOL:
 
 Dark eyebrows. Sharp, well-defined features. Deep dimples appeared when he lifted the corners of his mouth. But the forced smile vanished the next instant.
 
 ## H003 (replace)
 
-### BASE
+Baseline paragraphs: P5
+SOL paragraphs: P5
+Korean lines: 11
 
-I threw the basin of wash water to the floor, sending shards flying in every direction.
-
-### SOL
+BASE:
 
 I hurled the basin of wash water to the floor, sending shards flying in every direction.
 
+SOL:
+
+I hurled the dish of wash water to the floor, sending shards flying in every direction.
+
 ## H004 (replace)
 
-### BASE
+Baseline paragraphs: P8
+SOL paragraphs: P8
+Korean lines: 17
 
-*What kind of lunatics thought this was a good thing to make?*
+BASE:
 
-### SOL
+I’d spent the past three days throwing every kind of tantrum imaginable, but the answer never changed.
 
-*What kind of lunatics would make something like this?*
+SOL:
+
+I’d spent the past three days raging and raising hell, but the answer never changed.
 
 ## H005 (replace)
 
-### BASE
+Baseline paragraphs: P11
+SOL paragraphs: P11
+Korean lines: 23
+
+BASE:
 
 As I continued hurling curses, I remembered the warnings.
 
-### SOL
+SOL:
 
-Still spewing curses, I recalled the warnings.
+I continued hurling curses as I recalled the warnings.
 
 ## H006 (replace)
 
-**Terminology alert:** `시스템` → `System`
+Baseline paragraphs: P18
+SOL paragraphs: P18
+Korean lines: 41
 
-### BASE
-
-> **System**
->
-> The player cannot log out at will.
->
-> If the player dies during gameplay, resurrection is impossible.
-
-### SOL
-
-> **Warning**
->
-> - The player cannot log out at will.
-> - If the player dies during gameplay, resurrection is impossible.
-
-## H007 (replace)
-
-### BASE
-
-I was playing a martial-arts genre game called *Murim*, but I couldn’t log out whenever I wanted—and if my character died, so would I.
-
-### SOL
-
-I was playing a martial-arts game called *Murim*, but I couldn’t log out whenever I wanted—and if my character died, so would I.
-
-## H008 (replace)
-
-### BASE
+BASE:
 
 I couldn’t log out. I’d spent three days waiting for someone outside to come rescue me, but nothing had happened. I hadn’t tested the death part, but judging by the circumstances, there was a good chance it was true too.
 
-### SOL
+SOL:
 
-I couldn’t log out. I’d spent three days waiting for someone outside to rescue me, but nothing had happened. I hadn’t tested the part about dying, but judging by the circumstances, there was a good chance that was true too.
+I couldn’t log out. I’d spent three days waiting for someone outside to rescue me, but nothing had happened. I hadn’t tested the part about dying, but judging by the circumstances, it was probably true too.
 
-## H009 (replace)
+## H007 (replace)
 
-### BASE
+Baseline paragraphs: P22
+SOL paragraphs: P22
+Korean lines: 49
 
-If “the player cannot log out at will” was the wording, that implied logging out might become possible after meeting certain conditions.
-
-### SOL
-
-If the wording was “the player cannot log out at will,” that implied logging out might become possible after meeting certain conditions.
-
-## H010 (replace)
-
-### BASE
+BASE:
 
 That was the answer I’d deduced because this place, *Murim*, was a game.
 
-### SOL
+SOL:
 
-I’d reached that conclusion because this place, *Murim*, was a game.
+That was the answer I’d arrived at because this place, *Murim*, was a game.
 
-## H011 (replace)
+## H008 (replace)
 
-### BASE
+Baseline paragraphs: P23
+SOL paragraphs: P23
+Korean lines: 51
 
-In games, you received rewards whenever you completed a quest or leveled up. The completion of Tutorial—Stage 1 had already proved that much.
-
-### SOL
+BASE:
 
 In games, you received rewards whenever you completed a quest or leveled up. Completing Tutorial—Stage 1 had already proved that much.
 
-## H012 (replace)
+SOL:
 
-### BASE
+Games rewarded you whenever you completed a quest or leveled up. Completing Tutorial—Stage 1 had already proved that much.
 
-That was the conclusion I’d reached after three days of thinking. And it came with one essential requirement: survival.
+## H009 (replace)
 
-### SOL
+Baseline paragraphs: P26
+SOL paragraphs: P26
+Korean lines: 57
 
-That was the conclusion I’d reached after three days of thought. And it came with one essential requirement: survival.
-
-## H013 (replace)
-
-### BASE
-
-I had to stay somewhere my life wouldn’t be in danger. If I could get someone’s help too, even better.
-
-### SOL
+BASE:
 
 I had to operate somewhere my life wouldn’t be in danger. If I could get someone’s help too, even better.
 
-## H014 (replace)
+SOL:
 
-### BASE
+I needed to stay somewhere my life wouldn’t be in danger. If I could get someone’s help too, even better.
 
-*As it happens, I know exactly the right place.*
+## H010 (replace)
 
-### SOL
+Baseline paragraphs: P37
+SOL paragraphs: P37
+Korean lines: 85
 
-*As it happens, I know just the place.*
-
-## H015 (replace)
-
-### BASE
-
-It was a carriage to take Jin Taekyung of the Jin Family of Taiyuan home—not F-rank Hunter Jin Taekyung.
-
-### SOL
-
-The carriage would take Jin Taekyung of the Jin Family of Taiyuan home—not F-rank Hunter Jin Taekyung.
-
-## H016 (replace)
-
-### BASE
-
-The coachman was a taciturn man who never tried to make conversation, and I found that perfectly convenient.
-
-### SOL
-
-The coachman was a taciturn man who didn’t say a word to me, which suited me perfectly.
-
-## H017 (replace)
-
-### BASE
+BASE:
 
 This was the quest window I’d opened dozens of times over the past three days, only to close it again. I’d been afraid of the unknown. But I wasn’t hesitating anymore.
 
-### SOL
+SOL:
 
 I’d opened this quest window dozens of times over the past three days, only to close it again. I’d been afraid of the unknown. But I wasn’t hesitating anymore.
 
-## H018 (replace)
+## H011 (replace)
 
-### BASE
+Baseline paragraphs: P48
+SOL paragraphs: P48
+Korean lines: 115
 
-> **System**
->
-> Quest
->
-> Tutorial—Stage 2
->
-> You have familiarized yourself with the basic information and situation.
->
-> But Murim is an unpredictable place. From this point on, use your only unique power: the System.
->
-> **Grade:** Tutorial (Chain Quest)
->
-> **Restriction:** First-time player
->
-> **Objective:** Check and distribute Status Window points (Incomplete)
->
-> Check and distribute Skill Window points (Incomplete)
->
-> Check and equip Inventory items (Incomplete)
->
-> **Reward:** Sharp Spear
->
-> Chain Quest
-
-### SOL
-
-> **System**
->
-> Quest
->
-> Tutorial—Stage 2
->
-> You have familiarized yourself with the basic information and situation.
->
-> But Murim is an unpredictable place. From this point on, use the only power unique to you: the System.
->
-> **Grade:** Tutorial (Chain Quest)
->
-> **Restriction:** First-time player
->
-> **Objective:** Check and Distribute Status Window Points (Incomplete)
->
-> Check and Distribute Skill Window Points (Incomplete)
->
-> Check and Equip Inventory Items (Incomplete)
->
-> **Reward:** Sharp Spear
->
-> Chain Quest
-
-## H019 (replace)
-
-### BASE
-
-*If that was all it wanted, I could have finished it ages ago.* It was the obvious next step, really.
-
-### SOL
-
-*If that was all it wanted, I could have finished it ages ago.* Then again, maybe this was the obvious next step.
-
-## H020 (replace)
-
-### BASE
-
-I thought back to the online games I’d played every once in a blue moon in the past.
-
-### SOL
-
-I thought back to the online games I’d played once in a blue moon.
-
-## H021 (replace)
-
-### BASE
+BASE:
 
 The Jin Family of Taiyuan was a big deal in the area. And this guy was even from a prestigious Murim family…but he was only Level 10, a third-rate martial artist?
 
-### SOL
+SOL:
 
-The Jin Family of Taiyuan was a big deal in the area. And this guy was even a member of a prestigious Murim family…but he was only Level 10 and a third-rate martial artist?
+The Jin Family of Taiyuan was a major power in the area. And this guy was even from one of Murim’s great families…but he was only Level 10, a third-rate martial artist?
 
-## H022 (replace)
+## H012 (replace)
 
-### BASE
+Baseline paragraphs: P64
+SOL paragraphs: P64
+Korean lines: 155
 
-My neck grew stiff as I read the special notes.
-
-### SOL
-
-My neck grew stiff as I read the notes.
-
-## H023 (replace)
-
-### BASE
-
-A rich wastrel born into a good family, neglecting martial arts training while drowning in women and alcohol. No wonder they called him the shame of the family.
-
-### SOL
-
-A rich wastrel born into a good family, neglecting his martial arts training while drowning in women and alcohol. No wonder he was called the shame of the family.
-
-## H024 (replace)
-
-### BASE
-
-The one silver lining was that all my stats had been reset. Being able to raise the stats I wanted was a huge advantage.
-
-### SOL
-
-The one silver lining was that all my stats had been reset. Being able to raise whichever stats I wanted was a huge advantage.
-
-## H025 (replace)
-
-### BASE
-
-I couldn’t treat this place as an ordinary game.
-
-### SOL
-
-I couldn’t treat this place like an ordinary game.
-
-## H026 (replace)
-
-### BASE
+BASE:
 
 It was another name for the kind of qi—mana or aura—that high-ranking Hunters used in the real world.
 
-### SOL
+SOL:
 
-It was another name for qi—the sort of thing high-ranking Hunters in the real world called mana or aura.
+It was the Murim term for the kind of energy high-ranking Hunters used in the real world—mana or aura.
 
-## H027 (replace)
+## H013 (replace)
 
-### BASE
+Baseline paragraphs: P65
+SOL paragraphs: P65
+Korean lines: 157
+
+BASE:
 
 In most martial-arts novels, old geezers with one foot in the grave could chew up vigorous young masters and toy with them however they pleased—all because they possessed enormous internal energy.
 
-### SOL
+SOL:
 
-In most martial-arts novels, old geezers with one foot in the grave could chew up vigorous young masters and toy with them however they pleased, all because they possessed enormous internal energy.
+In most martial-arts novels, old geezers with one foot in the grave could chew up, tear apart, savor, and enjoy vigorous young masters—all because they possessed enormous internal energy.
 
-## H028 (replace)
+## H014 (replace)
 
-### BASE
+Baseline paragraphs: P66
+SOL paragraphs: P66
+Korean lines: 159
 
-I decided to exclude Intelligence and Charm.
+**Terminology alert:** `무공` → `martial arts`
 
-### SOL
+BASE:
 
-I decided to rule out Intelligence and Charm.
+Martial arts meant internal energy. And when you thought of a master, you thought of a master of internal energy. There was a reason people called internal energy the yardstick of a martial artist’s strength.
 
-## H029 (replace)
+SOL:
 
-### BASE
+Murim meant internal energy. And when you thought of a master, you thought, *I’m a Master*. There was a reason people called internal energy the yardstick of a martial artist’s strength.
 
-Fortunately, I was a professional Hunter with seven years of experience, and I knew exactly what was needed to stay alive.
+## H015 (replace)
 
-### SOL
+Baseline paragraphs: P87
+SOL paragraphs: P87
+Korean lines: 205
 
-Fortunately, I was a professional Hunter with seven years of experience, and I knew exactly what it took to stay alive.
-
-## H030 (replace)
-
-**Terminology alert:** `민첩` → `Agility`
-
-### BASE
-
-That gave me decent power and endurance, with Agility as my strongest stat. It was also the fighting style I’d grown accustomed to over seven years.
-
-### SOL
-
-That gave me decent strength and stamina, along with excellent evasiveness. It was also the fighting style I’d grown accustomed to over the past seven years.
-
-## H031 (replace)
-
-### BASE
-
-As the number of unassigned points vanished, I felt the System’s power seep through me from head to toe, reaching even the parts of my body I couldn’t see. It connected, gathered, and dispersed.
-
-### SOL
+BASE:
 
 As the number of unassigned points vanished, I felt the System’s power seep through me from head to toe, reaching even the unseen depths of my body. It connected. Gathered. Loosened.
 
-## H032 (replace)
+SOL:
 
-### BASE
+As the number of unassigned points vanished, I felt the System’s power seep through me from head to toe, reaching even the unseen depths of my body. It connected, tightened, and loosened.
 
-For an instant, heat swept through my body as if I’d swallowed the sun. Only after the lingering warmth faded could I finally open my eyes.
+## H016 (replace)
 
-### SOL
+Baseline paragraphs: P92
+SOL paragraphs: P92
+Korean lines: 217
 
-For an instant, heat swept through me as if I’d swallowed the sun. Only after the lingering warmth faded could I finally open my eyes.
-
-## H033 (replace)
-
-### BASE
-
-And then I was stunned.
-
-### SOL
-
-And then I froze in shock.
-
-## H034 (replace)
-
-### BASE
-
-My voice trembled despite myself. It wasn’t the shock of an unfamiliar sensation. It was a feeling I’d experienced only once long ago—but could never forget—coming rushing back to me.
-
-### SOL
-
-My voice trembled despite myself. Not from the shock of an unfamiliar sensation, but because a feeling I’d experienced only once long ago—one I could never forget—had come rushing back.
-
-## H035 (replace)
-
-### BASE
+BASE:
 
 How could I forget? That day, seven years ago.
 
-### SOL
+SOL:
 
 How could I forget that day seven years ago?
 
-## H036 (replace)
+## H017 (replace)
 
-### BASE
+Baseline paragraphs: P95
+SOL paragraphs: P95
+Korean lines: 225
+
+BASE:
 
 When I opened my eyes again, I realized that I had been chosen. The chosen 0.1 percent. I had become an Awakened.
 
-### SOL
+SOL:
 
-When I opened my eyes again, I realized I had been chosen. One of the chosen 0.1 percent. I had become an Awakened.
+When I opened my eyes again, I realized that I had been chosen. One of the chosen 0.1 percent. I had become an Awakened.
 
-## H037 (replace)
+## H018 (replace)
 
-### BASE
+Baseline paragraphs: P104
+SOL paragraphs: P104
+Korean lines: 245
 
-Remembering how happy I’d been that day only made me more confused.
-
-### SOL
-
-Remembering the exhilaration I’d felt that day only made me more confused now.
-
-## H038 (replace)
-
-### BASE
-
-I licked my lips, already dry, and thought.
-
-### SOL
-
-I licked my parched lips and thought.
-
-## H039 (replace)
-
-### BASE
-
-*Right. Focus on the present for now. There are only two things left before Tutorial—Stage 2 is complete.*
-
-### SOL
-
-*Right. Focus on the present. There are only two things left before Tutorial—Stage 2 is complete.*
-
-## H040 (replace)
-
-### BASE
+BASE:
 
 > **System**
 >
@@ -469,7 +268,7 @@ I licked my parched lips and thought.
 > - Martial arts cannot be used.
 > - You have forgotten the formula because you have not trained in martial arts for a long time.
 
-### SOL
+SOL:
 
 > **System**
 >
@@ -481,209 +280,149 @@ I licked my parched lips and thought.
 >
 > **Martial Arts:** Jin Family’s Spear Technique / Jin Family’s Manoeuvre Technique (Unavailable)
 >
-> **Sinews:** 10
+> **Muscles and Bones:** 10
 >
-> **Bones:** 10
+> **Sinews and Meridians:** 10
 >
 > **Unassigned Points:** 100
 >
 > - Distribute your unassigned points.
 > - Martial arts cannot be used.
-> - You have forgotten the formulas because you have not trained in martial arts for a long time.
+> - You have forgotten the formula because you have not trained in martial arts for a long time.
 
-## H041 (replace)
+## H019 (replace)
 
-### BASE
+Baseline paragraphs: P115
+SOL paragraphs: P115
+Korean lines: 273
 
-Had I counted wrong? Or were the letters too small for me to see? I widened my eyes and stared at the Skill Window.
-
-### SOL
-
-Had I counted wrong? Or were the letters too small for me to see? I opened my eyes wide and stared at the Skill Window.
-
-## H042 (replace)
-
-### BASE
-
-One, two, three…and three.
-
-### SOL
-
-One, two, three…and that was it.
-
-## H043 (replace)
-
-### BASE
-
-The Jin Family’s Cultivation Technique, the Jin Family’s Spear Technique, and the Jin Family’s Manoeuvre Technique. Those were all the skills Jin Taekyung—or rather, I—had. And apparently, I’d forgotten every one of them.
-
-### SOL
-
-The Jin Family’s Cultivation Technique, the Jin Family’s Spear Technique, and the Jin Family’s Manoeuvre Technique. Those were all the skills Jin Taekyung—or rather, I—possessed. And apparently, I’d forgotten every one of them.
-
-## H044 (replace)
-
-### BASE
-
-Right. I could learn martial arts later.
-
-### SOL
-
-Right. I could always learn more martial arts later.
-
-## H045 (replace)
-
-### BASE
+BASE:
 
 Trying to comfort myself with that thought, I looked at the Skill Window again. Maybe because it was so empty, one word immediately caught my eye.
 
-### SOL
+SOL:
 
-Trying to console myself with that thought, I looked at the Skill Window again. Maybe because it was so empty, two terms immediately caught my eye.
+Trying to comfort myself with that thought, I looked at the Skill Window again. Maybe because it was so empty, two terms immediately caught my eye.
 
-## H046 (replace)
+## H020 (replace)
 
-### BASE
+Baseline paragraphs: P116
+SOL paragraphs: P116
+Korean lines: 275
 
-Sinews referred to tendons and veins, while bones meant muscles and the skeletal frame.
+BASE:
 
-### SOL
+*Sinews and Bones. I’ve seen those a lot in martial-arts novels.*
+
+SOL:
+
+*Muscles and Bones. Sinews and Meridians. I’ve seen those a lot in martial-arts novels.*
+
+## H021 (replace)
+
+Baseline paragraphs: P117
+SOL paragraphs: P117
+Korean lines: 277
+
+BASE:
 
 Sinews referred to tendons and blood vessels, while Bones meant muscles and the skeletal frame.
 
-## H047 (replace)
+SOL:
 
-### BASE
+Sinews and Meridians referred to tendons and blood vessels, while Muscles and Bones meant the muscles and skeletal frame.
 
-Magic and aura… I’d seen them with my own eyes, but using them myself was out of the question. I couldn’t even dream of it.
+## H022 (replace)
 
-### SOL
+Baseline paragraphs: P118
+SOL paragraphs: P118
+Korean lines: 279
 
-Magic, aura… I’d seen them with my own eyes, but using them myself was out of the question. I couldn’t even dream of it.
+BASE:
 
-## H048 (replace)
+In other words, Sinews were for an internal-energy-focused build, while Bones were for external martial arts. I decided to lean a little more toward Bones.
 
-### BASE
+SOL:
 
-*You can only handle what you’ve tried before.*
+In other words, Sinews and Meridians were for an internal-energy-focused build, while Muscles and Bones were for external martial arts. I decided to lean a little more toward Muscles and Bones.
 
-### SOL
+## H023 (replace)
 
-*You’re always better at something you’ve done before.*
+Baseline paragraphs: P125
+SOL paragraphs: P125
+Korean lines: 297
 
-## H049 (replace)
+BASE:
 
-### BASE
+*Sixty into Bones. Forty into Sinews.*
 
-This time, what swept through me was nothing like the exhilaration I’d felt from the Status Window. If anything, it was pain. I could hear the bones in my body twisting deep inside.
+SOL:
 
-### SOL
+*Sixty into Muscles and Bones. Forty into Sinews and Meridians.*
 
-This time, what swept through me was nothing like the exhilaration I’d felt from the Status Window. If anything, it was pain. I could hear the bones deep inside my body twisting.
+## H024 (replace)
 
-## H050 (replace)
+Baseline paragraphs: P131
+SOL paragraphs: P131
+Korean lines: 313
 
-### BASE
+BASE:
 
-Was it seconds? Minutes? I had no idea. When the pain passed, I was left panting—and rewarded for my endurance.
+*My build…*
 
-### SOL
+SOL:
 
-Seconds? Minutes? I had no idea. When the pain passed, all that remained was my ragged breathing—and the reward for enduring it.
+*My physique…*
 
-## H051 (replace)
+## H025 (replace)
 
-### BASE
+Baseline paragraphs: P132
+SOL paragraphs: P132
+Korean lines: 315
+
+BASE:
 
 It had changed. My shoulders had broadened by half a span, and muscle had hardened across my front and back. The silk clothes that had felt a little loose now felt constricting.
 
-### SOL
+SOL:
 
-It had changed. My shoulders had broadened by half a span, and solid muscle covered my chest and back. The silk clothes that had been slightly loose now felt constricting.
+It had changed. My shoulders had broadened by half a span, and muscle had hardened across my chest and back. The silk clothes that had felt a little loose now felt constricting.
 
-## H052 (replace)
+## H026 (replace)
 
-### BASE
+Baseline paragraphs: P151
+SOL paragraphs: P151
+Korean lines: 357
 
-When I clenched my fists, I felt strength and springiness I hadn’t been able to sense before. I’d grown stronger. It was an experience I’d never had in the real world.
-
-### SOL
-
-When I clenched my fists, I felt strength and springiness that hadn’t been there before. I’d grown stronger. It was something I’d never experienced in the real world.
-
-## H053 (replace)
-
-### BASE
-
-I could see my abilities through the Status Window and improve the ones I needed. I didn’t know where the endpoint was, but I could keep moving forward.
-
-### SOL
-
-I could see my abilities through the Status Window and improve the ones I needed. I didn’t know where the limit was, but I could keep moving forward.
-
-## H054 (replace)
-
-### BASE
-
-Stronger, stronger, stronger. And survive.
-
-### SOL
-
-Stronger. Stronger. Stronger. And survive.
-
-## H055 (replace)
-
-### BASE
+BASE:
 
 A refreshing sensation swept over me, and I found myself dressed in a black martial uniform.
 
-### SOL
+SOL:
 
-A cool sensation swept over my body, and suddenly I was dressed in a black martial uniform.
+A cool sensation swept over my entire body, and I found myself dressed in a black martial uniform.
 
-## H056 (replace)
+## H027 (replace)
 
-### BASE
+Baseline paragraphs: P153
+SOL paragraphs: P153
+Korean lines: 361
 
-It wasn’t just my clothes that had changed. A headband—commonly called a hero’s headband in martial-arts novels—was tied firmly around my forehead, and I was wearing leather shoes instead of silk ones.
+BASE:
 
-### SOL
+Did I at least look like a run-of-the-mill martial artist now?
 
-It wasn’t just my clothes that had changed. A headband—commonly called a hero’s headband in martial-arts novels—was tied firmly around my forehead, and leather shoes had replaced my silk ones.
+SOL:
 
-## H057 (replace)
+Did I look more or less like a martial artist now?
 
-### BASE
+## H028 (replace)
 
-The moment I thought about storing the silk clothes I’d taken off, they vanished from my hands.
+Baseline paragraphs: P166
+SOL paragraphs: P166
+Korean lines: 391
 
-### SOL
-
-The moment I thought about storing the silk clothes in my hands, they vanished.
-
-## H058 (replace)
-
-### BASE
-
-*An Inventory. This is incredibly convenient.* It might even be useful in combat, depending on how I used it.
-
-### SOL
-
-*An Inventory. This is incredibly convenient.* Depending on how I used it, it might even come in handy during combat.
-
-## H059 (replace)
-
-### BASE
-
-With one of these, I could hang back and collect Magic Gems without even fighting the monsters. I’d make enough in a year to put up a whole building.
-
-### SOL
-
-With one of these, I could hang back and collect Magic Gems without even fighting the monsters. I’d make enough in a year to buy a whole building.
-
-## H060 (replace)
-
-### BASE
+BASE:
 
 > **System**
 >
@@ -699,7 +438,7 @@ With one of these, I could hang back and collect Magic Gems without even fightin
 >
 > **Description:** A reasonably usable spear. It’s sharp, so be careful when handling it.
 
-### SOL
+SOL:
 
 > **System**
 >
@@ -713,21 +452,43 @@ With one of these, I could hang back and collect Magic Gems without even fightin
 >
 > **Effect:** 5% chance to inflict Bleeding on hit
 >
-> **Description:** A reasonably serviceable spear. It is sharp, so exercise caution when handling it.
+> **Description:** A decent enough spear. It’s sharp, so be careful when handling it.
 
-## H061 (replace)
+## H029 (replace)
 
-### BASE
+Baseline paragraphs: P170
+SOL paragraphs: P170
+Korean lines: 399
+
+BASE:
 
 The moment the shaft of the spear appeared in my grasp—
 
-### SOL
+SOL:
 
 The moment the spear shaft appeared in my grasp—
 
-## H062 (replace)
+## H030 (replace)
 
-### BASE
+Baseline paragraphs: P180
+SOL paragraphs: P180
+Korean lines: 425
+
+BASE:
+
+“A minor problem has arisen.”
+
+SOL:
+
+“We have a minor problem.”
+
+## H031 (replace)
+
+Baseline paragraphs: P183
+SOL paragraphs: P183
+Korean lines: 433
+
+BASE:
 
 > **System**
 >
@@ -737,7 +498,7 @@ The moment the spear shaft appeared in my grasp—
 >
 > You have learned how to grow stronger through the System.
 >
-> What you learn must be put into practice.
+> What you learn must produce results.
 >
 > Defeat the bandits who have appeared without warning!
 >
@@ -753,7 +514,7 @@ The moment the spear shaft appeared in my grasp—
 >
 > **Failure:** Death
 
-### SOL
+SOL:
 
 > **System**
 >
@@ -763,7 +524,7 @@ The moment the spear shaft appeared in my grasp—
 >
 > You have learned how to grow stronger through the System.
 >
-> What you learn must produce results.
+> Learning must produce results.
 >
 > Defeat the bandits who have appeared without warning!
 >
