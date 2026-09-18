@@ -52,7 +52,7 @@ As I screamed from the depths of my soul, an urgent voice lashed my ears.
 
 “……!”
 
-*Death? Me? And in such a disgraceful way?*
+*Die? Me? Like this, of all ways?*
 
 My mind snapped back into focus as if someone had dumped cold water over my head.
 
@@ -62,7 +62,7 @@ The pain stabbing into my lower abdomen like a knife hadn’t lessened, but I su
 
 I had survived countless bloody battles. Even when I’d suffered injuries severe enough to threaten my life, I’d gritted my teeth and held on.
 
-This was only this much—no, it wasn’t *only* this much, but still, I wasn’t so impatient that I’d let my life end over something like this.
+This was nothing. Well, no, it definitely wasn’t *nothing*, but still—I wasn’t so weak-willed that I’d let my life end over this much pain.
 
 *Hng!*
 
@@ -82,9 +82,9 @@ Boom! Boom! Boom!
 
 Once. Twice. Three times.
 
-Once, twice, three times. Thunderous booms and vibrations rang out inside my body like thunder from the heavens.
+Thunderous booms and vibrations reverberated through my body.
 
-Only then did I understand why Jeok Cheongang had pressed my Paralysis Acupoint and Mute Acupoint. And why he had secured me with ropes on top of that.
+Only then did I understand why Jeok Cheongang had struck my Paralysis Acupoint and Mute Acupoint—and why even that hadn’t been enough, forcing him to tie me down with ropes as well.
 
 *Gnnngh!*
 
@@ -100,15 +100,15 @@ Through my blood-red vision, I saw Jeok Cheongang roaring.
 
 *The last one? Really?*
 
-Whether it was true or not didn’t matter. His words gave me strength.
+Whether it was true didn’t matter. His words gave me strength.
 
 *Just a little more. More!*
 
 I drew up the internal energy lying dormant in my dantian.
 
-Forty-five years of internal energy raced through the wide-open acupoint pathways, where all the turbid qi and obstacles had been removed, and surged upward in one burst.
+Forty-five years of internal energy raced through pathways cleared of every trace of turbid qi and every obstruction, then surged upward all at once.
 
-Then it joined the elixir’s energy, which was already pounding against the Conception Vessel, and Jeok Cheongang’s internal energy.
+It joined the energy of the elixirs already battering the Conception Vessel, along with Jeok Cheongang’s internal energy.
 
 The three energies merged into a single battering ram and struck the gate with greater force and sharpness than ever before.
 
@@ -128,11 +128,11 @@ Ding.
 >
 > - You have successfully opened the **Conception Vessel**!
 >
-> - The handling of qi has become much freer!
+> - Your control of qi has become much freer!
 >
 > - Your speed of circulating and accumulating internal energy has increased dramatically!
 >
-> - You have achieved the **Conception Vessel Opening** Achievement!
+> - You have achieved **Conception Vessel Opening**!
 >
 > - As a reward…
 
@@ -208,7 +208,7 @@ Having exhausted every last shred of mental strength, I plunged headfirst into e
 
 * * *
 
-The moment Jeok Cheongang loosened the ropes, Jin Taekyung’s collapsing body fell into his careful embrace.
+The moment Jeok Cheongang loosened the ropes, Jin Taekyung collapsed into his waiting arms.
 
 The sweat Taekyung had shed while enduring the pain and the turbid qi expelled from his body earlier combined into a terrible stench, but Jeok Cheongang didn’t care.
 
@@ -248,7 +248,7 @@ But…
 
 *I was wrong.*
 
-Looking back, Jeok Cheongang realized that everything he had thought was merely an old man’s stubborn prejudice and contradiction.
+Looking back, Jeok Cheongang realized that everything he’d thought had been nothing more than an old man’s stubborn prejudice and hypocrisy.
 
 He was no immortal sage. How could he divide someone he’d only just met into black or white? And what did it matter if Taekyung was gray?
 
@@ -268,11 +268,11 @@ Yet Jin Taekyung had done it—and done it splendidly.
 
 It must have been unbearably difficult and painful. Even so, he had endured through sheer determination to become stronger.
 
-Jin Taekyung possessed a mental strength as firm as his physique.
+Jin Taekyung possessed a will every bit as strong as his physique.
 
 *The Heavenly Martial Physique chose its master well.*
 
-A satisfied smile appeared around Jeok Cheongang’s mouth. After gazing at Jin Taekyung for a long while, he muttered:
+A pleased smile spread across Jeok Cheongang’s face. After gazing down at Jin Taekyung for a long while, he murmured,
 
 “Perhaps… it may happen much sooner than I thought.”
 
@@ -292,7 +292,7 @@ For the young man and the old man alike.
 
 It was around noon when Ak Bulgun, a spear instructor at Heaven’s Gate Temple, arrived at Jin Wikyung’s office.
 
-When he opened the door and entered, Jin Wikyung, who had been scribbling something across a bamboo slip, brightened and rose from his seat.
+When he opened the door and entered, Jin Wikyung—who had been hurriedly writing something on a bamboo slip—brightened and rose from his seat.
 
 “Sir Ak, welcome. Thank you for accepting my invitation despite how busy you must be.”
 
@@ -334,7 +334,7 @@ After much deliberation, Jin Wikyung had gone to see him, but Jin Mukyung hadn�
 
 According to Childeuk, the martial artist stationed at the training hall, Mukyung hadn’t stepped outside once since entering.
 
-He subsisted on fasting pills and refused to let anyone approach him. At least, when he heard that Jin Wikyung had come, he sent back a brief answer:
+He subsisted on fasting pills and refused to let anyone approach. Only when told that Jin Wikyung had come did he send back a brief reply:
 
 “I won’t return until I achieve Great Completion.”
 
@@ -362,7 +362,7 @@ Ak Bulgun examined the characters engraved into the blue bamboo tube and murmure
 
 “Heaven’s Gate Temple?”
 
-“It arrived half a shichen ago. I thought it best to bring you here so I could hand it over personally.”
+“It arrived half a shichen ago. I thought it best to summon you and hand it over personally.”
 
 “Please excuse me for a moment.”
 
