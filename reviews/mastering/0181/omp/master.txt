@@ -8,7 +8,7 @@ After lightly scolding his Junior Brother, Baek Museong bowed his head to Woo Hw
 
 His voice was as gentle as his appearance.
 
-Woo Hwangtae was closer to a merchant than a martial artist. His martial arts were First Rate, but he could pride himself on having a Peak-level eye for people and situations, honed through years of running an Escort Bureau.
+Woo Hwangtae was more merchant than martial artist. His martial arts might only be first-rate, but after years of running an Escort Bureau, he prided himself on having a Peak-level eye for people and situations.
 
 Under normal circumstances, one look at Baek Museong might have brought a certain phrase to mind.
 
@@ -62,7 +62,7 @@ But his last shred of reason held him back.
 
 After barely calming himself, Woo Hwangtae glared at Baek Museong, who still stood there looking perfectly composed.
 
-“I’d like nothing more than to beat you to death with a single blow right now, but… I’ll let it pass as a country bumpkin’s mistake. Get lost before I change my mind.”
+“I’d like nothing more than to beat you to death with a single blow, but… I’ll let this pass as a country bumpkin’s mistake. Get lost before I change my mind.”
 
 Baek Museong regarded him for a moment, then bowed his head.
 
@@ -112,13 +112,13 @@ Baek Museong let out a quiet laugh, and Chulwoo sighed.
 
 He deeply respected his Senior Brother, but the man was simply too kindhearted. That was the problem.
 
-“Those bastards should have their mouths smashed in…”
+“Bastards like that need their faces smashed in…”
 
 “Hey, watch your mouth!”
 
 “All right, all right.”
 
-Chulwoo watched Woo Hwangtae’s back as he grew smaller in the distance and smacked his lips.
+Chulwoo licked his lips as he watched Woo Hwangtae recede into the distance.
 
 *I’ve memorized his face. Just let me catch him once.*
 
@@ -140,13 +140,13 @@ Chulwoo flinched.
 
 “…Never mind.”
 
-Baek Museong rubbed his temple. He cherished his Junior Brothers more than anyone, but they were exceptionally difficult to handle.
+Baek Museong rubbed his temple. He cherished his Junior Disciples more than anyone, but they were extraordinarily difficult to handle.
 
 At least Chulwoo was big enough to find quickly. Their youngest Junior Disciple, Eunhyang, was practically invisible in a crowd like this.
 
-“Do you see anything?”
+“Do you see her?”
 
-Chulwoo, who was at least two heads taller than everyone else, swept his gaze around.
+Chulwoo, who stood two heads taller than everyone around him, swept his gaze over the crowd.
 
 “Not really. There are too many people.”
 
@@ -154,15 +154,15 @@ Even a Peak master’s eyes would struggle to find a small girl amid the endless
 
 The crowd was so large that merchants had even set up stalls here and there.
 
-“By the way, was the Jin Family of Taiyuan always this big? I’d never even heard of it before we came.”
+“By the way, was the Jin Family of Taiyuan always this important? I’d never even heard of them before we came.”
 
-“Those in the know do. The current Sect Leader, the Shanxi Extraordinary Hero, is fairly well known, and so is the Heaven Shaking Sword, isn’t he?”
+“Those in the know are aware of them. The current Family Head, the Shanxi Extraordinary Hero, is fairly well known. So is the Heaven Shaking Sword, isn’t he?”
 
 “I don’t know about the Shanxi Extraordinary Hero, but the Heaven Shaking Sword… Is that the fellow who’s supposedly one of the Ten Dragons and Phoenixes?”
 
 “Don’t call him that. Watch your mouth.”
 
-“He’s just a milquetoast scholar who attends an academy. In my opinion, Senior Brother is much more…”
+“He’s just some milquetoast scholar attending an academy. In my opinion, you’re probably far more—”
 
 “Hey. Where did you learn that nasty habit of judging people before you’ve even met them? He is clearly a remarkable talent.”
 
@@ -234,6 +234,8 @@ Baek Museong put a hand to his head.
 
 Just then—
 
+*Rustle.*
+
 Hundreds of people began murmuring as they parted like a field of reeds before the wind.
 
 At the end of the open path stood a man like an iron tower. Chulwoo muttered without realizing it,
@@ -298,7 +300,7 @@ The bundle contained the Unnamed Sword.
 
 I was supposed to have returned it to Jeok Cheongang, but instead, I had somehow ended up taking it back.
 
-As long as I lived in a Murim where the law was damn far away and fists were painfully close, I had no choice.
+As long as I lived in a Murim where the law was damn far away and fists were painfully close, I didn’t have much of a choice.
 
 *It’s not like I can put it in my inventory either.*
 
@@ -316,7 +318,7 @@ It wasn’t that I resented being saddled with a troublesome object. I simply ha
 
 Every time I remembered what he had said a few shichen ago, my stomach churned.
 
-Hyuk Mujin, who had been sneaking glances at me from time to time, asked,
+Hyuk Mujin, who had been sneaking glances at me, finally asked,
 
 “Why do you look like that?”
 
@@ -344,7 +346,7 @@ I dismissed Hyuk Mujin’s bullshit and looked up at the sky with a sigh.
 
 “He said it was a pain to carry around.”
 
-“For such a petty reason?”
+“For such a stupid reason?”
 
 “With him, I can completely believe it.”
 
@@ -356,7 +358,7 @@ That was surprisingly convincing.
 
 “You, Captain?”
 
-Hyuk Mujin laughed as if he had just heard a brilliant joke.
+Hyuk Mujin laughed as though he had just heard the funniest joke in the world.
 
 “If you were that kind of person, what have you been doing all this time? If you hadn’t been on the verge of death, you probably would’ve just kept the Blazing Flame Divine Pill too.”
 
@@ -364,7 +366,7 @@ Hyuk Mujin laughed as if he had just heard a brilliant joke.
 
 He had a point.
 
-“Just hide it somewhere no one will notice. Who knows? Maybe that great Fire King will teach you a move in return.”
+“Just hide it somewhere no one will find it. Who knows? Maybe the great Fire King will teach you a move as thanks.”
 
 “Teach me, my ass. I’m sure he’d love to teach the man who killed his Disciple.”
 
@@ -388,7 +390,7 @@ At that moment, Cheongpung—who had been drooping like a corpse and endlessly r
 
 “Me?”
 
-“Captain?” Hyuk Mujin asked.
+“Captain?”
 
 Our gazes met in midair. Hyuk Mujin looked utterly baffled. I was probably making the same face.
 
