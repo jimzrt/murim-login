@@ -40,9 +40,9 @@ Mr. Park stopped screaming and blinked.
 
 He couldn’t tell whether he was dreaming or awake.
 
-He had definitely been sitting in the driver’s seat a second ago—no, half a second ago—but now he was sitting on the shoulder of the road roughly five meters away.
+A second ago—no, half a second ago—he had definitely been sitting in the driver’s seat. Now he was sprawled on the shoulder of the road about five meters away.
 
-“W-What the hell…”
+“W-What the hell…?”
 
 Mr. Park stared blankly at his taxi, now crushed flat, then looked up.
 
@@ -208,7 +208,7 @@ Thud-thud-thud!
 
 The tollgate team—two B-rank Hunters and fifteen C-rank Hunters—was being driven back helplessly.
 
-After only two or three blows from an ogre’s iron club, tower shields shattered and the tanks went flying one after another.
+Two or three blows from an ogre’s iron club shattered a tower shield and sent its tank flying.
 
 *What am I looking at?*
 
@@ -238,13 +238,13 @@ The team had only two healers, and the assistant team leader had been the last o
 
 Of the seventeen team members, Hwang Cheol Soo included, fewer than half remained on their feet.
 
-“W-What the hell…”
+“W-What the hell…?”
 
 Only one minute had passed since the battle began.
 
 But the outcome had already been decided.
 
-The gap between top-tier B-rank monsters and Hunters who had been lulled into peace while playing mobile games at a tollgate was simply overwhelming.
+The gap between top-tier B-rank monsters and tollgate Hunters who had spent years playing mobile games, lulled by the peace, was simply too vast.
 
 And their ordeal wasn’t over yet.
 
@@ -308,7 +308,7 @@ That left only one option.
 
 “B-Based on the commander’s judgment, we’ll make a strategic retreat…”
 
-The moment Hwang Cheol Soo began speaking in a trembling voice—
+The moment Hwang Cheol Soo spoke in a trembling voice—
 
 Whoooooosh! Boom!
 
@@ -346,7 +346,7 @@ He hadn’t sensed the slightest trace of the newcomer’s presence. Even now, w
 
 But the figure standing tall atop a tour bus was neither a ghost nor a monster.
 
-His eyes curved like half-moons between his roughly tousled black-brown hair.
+His eyes curved like half-moons beneath roughly tousled dark-brown hair.
 
 “Hello.”
 
@@ -370,7 +370,7 @@ The Hunters nodded frantically. The young man, Jin Taekyung, grinned.
 
 EXP? Stealing?
 
-Before they could even figure out what he meant, the spear in Jin Taekyung’s hand turned into light and shot forward.
+Before they could figure out what he meant, the spear in Jin Taekyung’s hand became a streak of light.
 
 Whoooooosh!
 
