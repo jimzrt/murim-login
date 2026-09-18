@@ -16,7 +16,7 @@ At those cryptic words, Hyuk Mujin stepped forward.
 
 Gwak Jun’s eyes went round. At his reaction, the reconnaissance-squad members nodded with looks that said, *That figures.*
 
-“Looks like I had it wrong.”
+“Looks like he had it wrong.”
 
 “It happens. Sure it does.”
 
@@ -54,7 +54,7 @@ The smile vanished from Gwak Jun’s face. With the cold, emotionless gaze of a 
 
 Clang-clang-clang!
 
-The instant the words left his mouth, dozens of sword flashes shot into the air. Killing intent and tension hung between the twenty martial artists Gwak Jun led and the reconnaissance-squad members, who drew their swords half a beat later.
+The instant the words left his mouth, dozens of swords flashed into the air. Killing intent and tension crackled between the twenty Samdo Sect martial artists led by Gwak Jun and the reconnaissance-squad members, who drew their swords half a beat later.
 
 “Have you bastards lost your minds…?”
 
@@ -80,7 +80,7 @@ Or tried to.
 
 Hyuk Mujin’s eyes flew wide.
 
-“They’re the Three Paths Sect! They’re nothing but Second Rate sect husks! Let us smash them right now and—”
+“They’re the Samdo Sect! They’re nothing but the dregs of a second-rate sect! Let us smash them right now and—”
 
 “No.”
 
@@ -96,7 +96,7 @@ Their sharp aura and murderous eyes were nothing like those of the ordinary mart
 
 That was their average Level according to Qi Sense.
 
-Every last one of them was a First Rate martial artist. Damn it. I’d spent three days with these people and hadn’t noticed a thing.
+Every last one of them was a first-rate martial artist. Damn it. I’d spent three days with these people and hadn’t noticed a thing.
 
 *I’d been too fixated on Logout.*
 
@@ -114,7 +114,7 @@ They were outside the range of Qi Sense, so I couldn’t confirm it, but my inst
 
 “Where is the real Samdo Sect?”
 
-The Three Paths Sect was only a small or mid-sized sect. As Hyuk Mujin had said, they were Second Rate husks. People like these couldn’t have been whipped up overnight.
+The Samdo Sect was only a small or mid-sized sect. As Hyuk Mujin had said, they were second-rate dregs. Men like these couldn’t have appeared overnight.
 
 *Don’t tell me.*
 
@@ -186,7 +186,7 @@ What the hell?
 
 “Water deer?”
 
-A herd of water deer brushed past us and vanished beyond the hill. A sudden appearance. A quick exit.
+A herd of water deer rushed past us and vanished beyond the hill. A sudden entrance. A quick exit.
 
 Gwak Jun drew his sword with an oddly deflated look on his face.
 
@@ -198,7 +198,7 @@ The twenty enemies approached slowly. Still reeling from the water deer, I calle
 
 “What?”
 
-“They’re all First Rate, you know?”
+“They’re all first-rate, you know?”
 
 “What? Really?”
 
@@ -220,15 +220,15 @@ Gwak Jun thought,
 
 His gaze was fixed on one man.
 
-His gaze was locked on one man. Jin Taekyung, the third Young Master of the Jin Family of Taiyuan, known as a Super First Rate.
+Jin Taekyung. The Third Young Master of the Jin Family of Taiyuan, known as a super-first-rate martial artist.
 
 Every time his spear moved, blood spurted and Gwak Jun’s men fell.
 
-Even if they weathered one blow, the second or third always finished them. Every one of them was a First Rate martial artist trained for at least ten years.
+Even if they survived one blow, the second or third inevitably finished them. Every one of them was a first-rate martial artist who had trained for at least ten years.
 
 *What the hell is he?*
 
-He was clearly a spearman, but he didn’t care whether the gap closed or not. Whenever it looked like there wasn’t even room to swing the spear, daggers and axes popped out from somewhere and stabbed and jabbed at anything in reach.
+He was clearly a spearman, yet he didn’t care how close his enemies got. Whenever there wasn’t even room to swing his spear, daggers and axes popped out of nowhere, stabbing and hacking at anything within reach.
 
 It put an acrobat troupe’s tricks to shame.
 
@@ -252,11 +252,11 @@ Thud. Crack!
 
 “Stab them! Stab them!”
 
-“Come in! Come in!”
+“Come on! Come on!”
 
 Gwak Jun’s lips trembled.
 
-They had no honor as martial artists. In the middle of this melee they piled on three or four at a time and hacked away, and even his First Rate subordinates couldn’t avoid ending up as meat on a skewer.
+They had no honor as martial artists. Three or four of them ganged up on each opponent in the chaos, stabbing away until even his first-rate subordinates ended up skewered like meat.
 
 “You bastards…!”
 
@@ -300,7 +300,7 @@ But Gwak Jun never got the chance to leave in search of a second life. Just as h
 
 Jin Taekyung added in a slightly gentler voice,
 
-“If you answer well, I’ll kill you gently.”
+“If you answer my questions, I’ll kill you gently.”
 
 Gwak Jun’s face went white.
 
@@ -328,7 +328,7 @@ Covered in blood and dust, Hyuk Mujin stared at me like I was some kind of beast
 
 “Now that I think about it, you’re right. A blade hurts less if it hits you gently, doesn’t it? So I suppose you can die gently. Heh heh. Heh heh heh.”
 
-I smacked him once on the back of the head, then hauled Gwak Jun to his feet.
+I smacked him on the back of the head, then hauled Gwak Jun to his feet.
 
 “Let’s try this again. Who are you?”
 
@@ -340,7 +340,7 @@ That was a useful life hack.
 
 Of course, I had a useful life hack for Gwak Jun too. For example:
 
-“If you get hit in the solar plexus while your ribs are broken, it hurts a lot.”
+“If someone punches you in the solar plexus while your ribs are broken, it hurts a lot.”
 
 Thump.
 
@@ -364,7 +364,7 @@ Hyuk Mujin frowned.
 
 “Taken their places? Pfft.”
 
-A deflating sound escaped Gwak Jun’s mouth. He was laughing.
+A deflated sound escaped Gwak Jun’s mouth. He was laughing.
 
 “You still don’t understand? The Samdo Sect was founded according to that person’s will. As if any of you could have guessed at a grand plan thirty years in the making. Heh heh.”
 
@@ -398,7 +398,7 @@ My head spun.
 
 Hyuk Mujin and the reconnaissance-squad members gaped as they grasped the situation.
 
-If my guess was right and the Head Elder was a traitor, everything fit.
+If my guess was right and the Head Elder was the traitor, everything fit.
 
 Helping Jin Wikyung had been nothing more than preparation for today.
 
@@ -416,15 +416,15 @@ I had to tell Jin Wikyung.
 
 “We’re moving out. Right now!”
 
-I shouted and was about to turn.
+I shouted and started to turn.
 
-“Already too late.”
+“You’re already too late.”
 
 Gwak Jun grinned, baring his bloodstained teeth.
 
 “Too late for me, too late for you bastards, and too late for the Jin Family of Taiyuan and the Mount Heng Sword Sect. The grand plan has already begun.”
 
-At the same time, blood gushed out. From his eyes, nose, and mouth—from every opening.
+At the same moment, blood gushed from his eyes, nose, and mouth—from every opening in his face.
 
 Gwak Jun’s head slowly drooped.
 
@@ -458,7 +458,7 @@ After all those notifications, a single message appeared.
 >
 > — Logging out in 3 seconds. 3, 2…
 
-Strength drained from my whole body. It felt as if I were floating.
+All the strength drained from my body. I felt myself floating.
 
 Hyuk Mujin caught me, his face filled with alarm.
 

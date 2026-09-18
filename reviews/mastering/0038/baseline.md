@@ -38,7 +38,7 @@ A creeping dread rose and wound around my whole body.
 
 As I spoke, I pressed down firmly on Hyuk Mujin’s foot. He horsed around dozens of times a day, but he wasn’t an idiot. His eyes widened as he caught my signal.
 
-“Squad Leader, please move your foot. It hurts.”
+“Captain, please move your foot. It hurts.”
 
 “…”
 
@@ -240,7 +240,7 @@ Twenty men weren’t nearly enough. They should have brought twice that. Accordi
 
 *And what the hell are those people?*
 
-The eight said to be Jin Taekyung’s subordinates advanced slowly with their backs together, whether their leader was doing anything up ahead or not. Individually, their skill was far from enough, but once they bunched up, they were an iron wall.
+The nine said to be Jin Taekyung’s subordinates advanced slowly with their backs together, whether their leader was doing anything up ahead or not. Individually, their skill was far from enough, but once they bunched up, they were an iron wall.
 
 Thud. Crack!
 
@@ -270,7 +270,7 @@ Pupupupupup!
 
 Thud.
 
-A martial artist with sword fragments buried all over his body crumpled forward. Of the ten or so subordinates caught in One Flash, he was the only one who even left a sound.
+A martial artist with sword fragments buried all over his body crumpled forward. Of the ten or so subordinates caught in One Annihilation, he was the only one who even left a sound.
 
 “…!”
 
@@ -280,7 +280,7 @@ For that moment, friend and foe alike kept silent. No one even dared think of ra
 
 Of course, one person was the exception.
 
-“One Flash. This thing is awesome.”
+“One Annihilation. This thing is awesome.”
 
 The instant Gwak Jun heard that mutter, he gave up on everything.
 
@@ -386,7 +386,7 @@ My head spun.
 
 “Hyuk Mujin. How many martial artists from the newly joined small and mid-sized sects are there?”
 
-“If you add the Three Paths Sect and Gunggwimun together, well over a hundred.”[^2]
+“If you add the Samdo Sect and the Gunggui Sect together, well over a hundred.”
 
 “And under the Head Elder?”
 
