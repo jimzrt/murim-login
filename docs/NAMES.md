@@ -1350,3 +1350,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 뮌헨 | **Munich** | Second word in one of the necromantic chants. |
 | 스토흐 | **Stoke** | First word in one of the necromantic chants. |
 | 시리 | **City** | Second word in one of the necromantic chants. |
+| 오르페우스 폰 막시무스 발렌시아 바이엘른 | **Orpheus von Maximus Valencia Bayern** | One of the three incomplete Liches serving the Arch Lich. |
+| 웨이펑후 | **Wei Fenghu** | Minister of National Defense under China's Central Military Commission. |
