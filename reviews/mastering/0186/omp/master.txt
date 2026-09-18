@@ -18,7 +18,7 @@ Wipeng, who had been sitting there in a daze, suddenly lunged at me.
 
 “I told you, it’s one hundred percent true. One hundred percent!”
 
-“No, but still…”
+“Yes, but still…”
 
 “Not a single speck of falsehood. One hundred fucking percent!”
 
@@ -48,7 +48,7 @@ Anyone who stole a look at the Fire King’s signature martial art would get a t
 
 “Anyway, it’s all true. There are witnesses right here. Isn’t that right?”
 
-Hyuk Mujin, who had been sitting in the corner like a corpse, cautiously raised his hand.
+Hyuk Mujin, who had been sitting motionless in the corner, cautiously raised his hand.
 
 “Forgive me for speaking out of turn, but it is all true.”
 
@@ -92,11 +92,11 @@ If Jin Wikyung called me Taekyung instead of *my youngest*, it meant he was abou
 
 “Do you know what these objects are?”
 
-“A precious treasure, aren’t they? The kind that would be difficult to obtain even if you spent a thousand nyang of gold.”
+“Precious treasures, aren’t they? The kind even a thousand gold pieces couldn’t buy.”
 
 A Supreme Peak martial art with the power to dominate the world and a peerless sword forged from Ten-Thousand-Year Cold Iron.
 
-The Murim martial artists I knew would risk their lives to obtain these things.
+The martial artists I knew would risk their lives to possess either one.
 
 Jin Wikyung shook his head.
 
@@ -104,11 +104,11 @@ Jin Wikyung shook his head.
 
 “What?”
 
-“These are ghostly objects. They take away a person’s soul and drive them mad.”
+“They are accursed things. They steal men’s souls and drive them mad.”
 
 “Oh.”
 
-“Do you know the name of that ghost?”
+“Do you know the name of that curse?”
 
 I muttered the answer.
 
@@ -120,7 +120,7 @@ I knew.
 
 I had experienced it myself. How could I not know?
 
-On that day several years ago, greed had taken root in my heart, and because of it, I had lost people close to me.
+Several years ago, greed had taken root in my heart, and because of it, I had lost people close to me.
 
 “I don’t know why the Fire King entrusted such dangerous objects to you, but… everything concerning them must be kept absolutely secret. Do you understand?”
 
@@ -128,7 +128,7 @@ His eyes and posture were directed solely at me, but the warning was meant for e
 
 Me, Hyuk Mujin, and finally Cheongpung.
 
-As though we had made a promise, we answered at the same time.
+As if we had arranged it beforehand, we all answered at once.
 
 “Yes.”
 
@@ -188,7 +188,7 @@ Recognizing the Sound Transmission, Wipeng played along naturally.
 
 *What about the surviving remnants?*
 
-“You’ll ruin your health if you keep doing that.”
+“You’ll damage your health if you keep drinking it cold.”
 
 *Most of them died during the interrogation.*
 
@@ -196,7 +196,7 @@ Recognizing the Sound Transmission, Wipeng played along naturally.
 
 *How many remain?*
 
-“Shouldn’t I at least look after you, with the Lady of the House not here?”
+“Someone has to look after you, especially when there is no Lady of the House.”
 
 *Three.*
 
@@ -208,7 +208,7 @@ The news was so unexpected that, for a moment, he forgot to continue the spoken 
 
 Wipeng sighed and nodded.
 
-*They had a far more powerful restriction placed on them than expected. I’m sorry to say this, but… my abilities aren’t enough.*
+*The restrictions placed on them were far stronger than we anticipated. I am ashamed to admit it, but… this is beyond my abilities.*
 
 *It isn’t your fault. Our family simply lacks the necessary capabilities.*
 
@@ -228,9 +228,9 @@ Just like them.
 
 *Dark Heaven…*
 
-He didn’t know where, how, or why they had done such a thing.
+He had no idea where they had come from, how they had done it, or why.
 
-He was flailing at empty air without learning a single thing.
+They had learned nothing. They were grasping blindly at empty air.
 
 Yet one suspicion in Jin Wikyung’s mind was steadily hardening into certainty.
 
@@ -258,7 +258,7 @@ He could only hope he had overestimated them.
 
 “You’ve been away from your seat for too long. The guests are waiting.”
 
-“……Is that so?”
+“…Have I?”
 
 At Wipeng’s prompting, Jin Wikyung drained his teacup in one gulp and rose.
 
@@ -270,7 +270,7 @@ For now, they could allow themselves to savor the joy of victory.
 
 * * *
 
-I had only just returned to the Jin Family of Taiyuan, but the sun was already beginning to set.
+Winter days were short. It felt as though I’d only just returned to the Jin Family, yet the sun was already beginning to set.
 
 *Come to think of it, I haven’t trained properly in days. Not unless circulating my qi counts.*
 
@@ -288,7 +288,7 @@ I turned toward the voices.
 
 “I’m here!”
 
-Cheongpung was smiling brightly, his mouth covered in a thick layer of some mysterious sauce. And then there was…
+Cheongpung stood there with a huge smile, his mouth smeared with some unidentifiable sauce. And beside him…
 
 “Benefactor! It’s me, Socheon!”
 
@@ -366,7 +366,7 @@ Cheongpung, who had been licking the sauce from around his mouth, suddenly looke
 
 “No. If I’d known, I would’ve eaten less!”
 
-Soyul also opened her eyes wide in shock. The candied treat in her hand slipped to the ground.
+Soyul’s eyes widened in horror as well. The candied treat in her hand dropped to the ground.
 
 “No! Soyul’s full too!”
 
@@ -382,7 +382,7 @@ From their reactions, I could make a pretty good guess where the two of them had
 
 “Where is it?”
 
-“In front of the new Grand Training Ground, Benefactor.”
+“In front of the newly built Grand Training Ground, Benefactor.”
 
 “They said it’s in front of the Grand Training Ground, Benefactor!”
 
@@ -392,7 +392,7 @@ I set down the practice spear in my hand and firmly secured the bundle beside me
 
 The bundle, of course, contained the sword entrusted to me by the Fire King.
 
-“Let’s all go.”
+“Let’s go, then.”
 
 I started walking, only to stop short. I’d just remembered something I’d been meaning to say.
 
@@ -438,7 +438,7 @@ Cheongpung answered my question.
 
 Soyul, happily sucking on a candied treat, chimed in.
 
-“That’s right! He even gave Soyul a candied treat and told her not to tell anyone!”
+“That’s right! He gave Soyul a treat and told her not to tell anyone!”
 
 “…Then why are you telling us?”
 
@@ -466,7 +466,7 @@ Which, of course, meant…
 
 The Three Plum Blossom Elites were among them.
 
-Baek Museong had his junior disciples seated on either side of him. He greeted us with a fairly friendly expression.
+Baek Museong greeted us with surprising warmth. His two junior disciples sat on either side of him.
 
 “We didn’t get a proper chance to introduce ourselves earlier, did we? I’m Eunhyang.”
 
@@ -474,7 +474,7 @@ Baek Museong had his junior disciples seated on either side of him. He greeted u
 > **Level:** 75  
 > Eunhyang
 
-She was probably around the same age as my younger sister, Hayeon.
+She looked about the same age as my younger sister, Hayeon.
 
 No sooner had I finished greeting her than a sullen voice cut in.
 
@@ -486,7 +486,7 @@ It was Chulwoo, a massive man whose bulk made the seat itself look cramped.
 
 “Would you?”
 
-“I don’t like it either. That’s why I said it. Guess we agree on something.”
+“I don’t like it either. That’s why I asked. Looks like we agree.”
 
 “Don’t say something so disgusting!”
 
@@ -494,7 +494,7 @@ It was Chulwoo, a massive man whose bulk made the seat itself look cramped.
 
 “With whom?”
 
-“Lots of people besides you would love to sit there. Switch with anyone standing down below.”
+“Plenty of people would love to sit there. Pick anyone standing down below and trade with them.”
 
 “You son of a bitch!”
 
@@ -504,7 +504,7 @@ Chulwoo trembled with rage, but Baek Museong immediately rebuked him.
 
 “You fool! What kind of outrageous language is that?”
 
-“No, Senior Brother. It’s just…”
+“No, Senior Brother, I…”
 
 “Quiet. Young Hero Jin, I apologize on behalf of my Junior Brother. I also offer my apologies to Martial Uncle Cheongpung.”
 
@@ -538,7 +538,7 @@ Then—
 
 *Boom!*
 
-The martial artists of the Jin Family surrounding the Grand Training Ground began striking their weapons.
+The Jin Family martial artists surrounding the Grand Training Ground began striking their weapons against the ground.
 
 There were more than three hundred of them. A blade-sharp aura and wave-like spirit surged from their ranks.
 
@@ -546,7 +546,7 @@ There were more than three hundred of them. A blade-sharp aura and wave-like spi
 
 Like drums pounding across a battlefield, the sound grew louder and louder until it swallowed every other noise.
 
-And then…
+And then—
 
 *BOOM!*
 
