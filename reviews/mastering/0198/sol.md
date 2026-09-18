@@ -1,12 +1,12 @@
 # Chapter 198
 
-An awkward atmosphere hung inside the office.
+An awkward silence hung over the office.
 
 Jin Wikyung and Jeok Cheongang stole glances at each other as they sipped their tea and liquor.
 
 *Great Hero Jeok came here in person. What could this be about?*
 
-*Has he been possessed by a ghost? Of all places, why did he have to come here?*
+*Was I possessed by a ghost? Why did I have to come here, of all places?*
 
 But even silence had its limits.
 
@@ -18,9 +18,9 @@ After draining several cups in quick succession, Jeok Cheongang finally spoke. S
 
 Jin Wikyung immediately understood and carefully gauged his mood.
 
-He had already heard the whole story. Jeok Cheongang had helped the Jin Family of Taiyuan because of the emotional debt he carried toward his dead Disciple.
+He had already heard the whole story—how Jeok Cheongang had helped the Jin Family of Taiyuan because of the burden he carried over his dead Disciple.
 
-But he was worried that the anger caused by the martial arts manual incident two days ago might not have faded yet.
+Still, Jin Wikyung worried that the anger from the damaged martial arts manual two days ago might not have faded yet.
 
 “Is this perhaps about the martial arts manual?”
 
@@ -32,9 +32,9 @@ But he was worried that the anger caused by the martial arts manual incident two
 
 “Oh, it’s nothing.”
 
-*After beating him into a pulp, he’s talking about how people are more important now?*
+*After beating him into a pulp, he’s talking about how people are more important?*
 
-Jin Wikyung swallowed the words hovering at the tip of his tongue.
+Jin Wikyung swallowed the words hovering on the tip of his tongue.
 
 “In any case, I thought I might have hit him a little too hard, so I went to treat his body by cleansing his sinews and washing his marrow.”
 
@@ -56,39 +56,39 @@ As Jeok Cheongang gazed at Jin Wikyung’s delighted face, he realized something
 
 “Pardon?”
 
-You can only see as much as you know. Even Jeok Cheongang, one of the most renowned Supreme Peak masters in the world, had never imagined that Jin Taekyung’s bones and muscles could be that exceptional.
+A person could only recognize what they knew to look for. Even Jeok Cheongang, one of the foremost Supreme Peak masters under heaven, had never imagined that Jin Taekyung’s bones and muscles could be so exceptional.
 
 How, then, could Jin Wikyung have known?
 
-*Perhaps it was fortunate that I found out now.*
+*Perhaps I should be grateful I discovered it now.*
 
 Jeok Cheongang clicked his tongue softly before speaking.
 
-“The effect of cleansing the sinews and washing the marrow was minimal.”
+“The cleansing had little effect.”
 
 “What do you mean? How could cleansing the sinews and washing the marrow have no effect?”
 
-“That isn’t what I mean. It would be more accurate to say that Jin Taekyung doesn’t need it. It’s too early to make a definite judgment, but…”
+“That isn’t what I mean. It would be more accurate to say that Jin Taekyung had no need of it. It’s still too early to say for certain, but…”
 
-Jeok Cheongang added in a low voice:
+Jeok Cheongang added in a low voice,
 
 “I suspect he may possess the Heavenly Martial Physique.”
 
 “!”
 
-For a brief moment, shock flashed across Jin Wikyung’s face.
+Shock flashed across Jin Wikyung’s face.
 
 But a moment later, he nodded calmly, prompting Jeok Cheongang to ask, “Did you already know?”
 
 “I didn’t. Things simply make sense now.”
 
-“Understand what?”
+“What does?”
 
 “Taekyung’s astonishingly rapid progress in martial arts. If he possesses the Heavenly Martial Physique—if it truly is that Heavenly Martial Physique—then everything can be explained.”
 
 “Astonishingly rapid?”
 
-Jeok Cheongang narrowed his brow and continued.
+Jeok Cheongang furrowed his brow.
 
 “That fellow has certainly accomplished a great deal for someone his age, but not enough to call it astonishing. If anything, compared to the legends of the Heavenly Martial Physique, his progress seems lacking.”
 
@@ -106,9 +106,9 @@ The Supreme Peak masters who now dominated the Murim had displayed their genius 
 
 Everything Jeok Cheongang said was true.
 
-The people sheltered by the Nine Sects and One Gang and the Five Great Families were not the only ones who existed.
+Those sheltered by the Nine Sects and One Gang or the Five Great Families were not the only talents in the world.
 
-There were undoubtedly young talents whose names had not yet reached the Central Plains, as well as people who had buried themselves in the countryside while training in martial arts.
+There were surely gifted young martial artists whose names had yet to reach the Central Plains, as well as masters who had buried themselves in the wilderness to train.
 
 If someone scoured every corner of the world, they would likely uncover several Supreme Peak masters approaching the level of the One God, the Three Saints, and the Ten Kings.
 
@@ -120,7 +120,7 @@ If someone scoured every corner of the world, they would likely uncover several 
 
 “I thought the exact opposite.”
 
-Jin Wikyung smiled faintly at Jeok Cheongang’s questioning expression.
+Jin Wikyung smiled faintly at Jeok Cheongang’s puzzled expression.
 
 “My younger brother’s martial talent is the greatest under heaven. No, it would not be an exaggeration to call it the greatest in all history.”
 
@@ -128,7 +128,7 @@ Jin Wikyung smiled faintly at Jeok Cheongang’s questioning expression.
 
 Jeok Cheongang barely managed to suppress the curse rising in his throat.
 
-Even he, a living legend in all but name, did not dare claim to be the greatest beneath Heaven. And this man was calling his younger brother the greatest in all history?
+Even he, a living legend in all but name, would not dare call himself the greatest under heaven. Yet Jin Wikyung was calling his younger brother the greatest in all history?
 
 Still, the confidence and conviction in Jin Wikyung’s voice compelled Jeok Cheongang to ask, “What makes you think that?”
 
@@ -142,7 +142,7 @@ Jin Wikyung silently held up three fingers.
 
 “!”
 
-“It’s also how long it took a Third Rate wastrel who frequented pleasure houses to become a Peak master.”
+“It is also how long it took a Third Rate wastrel who did nothing but frequent pleasure houses to become a Peak master.”
 
 For an instant, Jeok Cheongang’s vision went white. Lightning flashed through his mind, and his heart pounded violently.
 
@@ -158,23 +158,23 @@ But…
 
 Jeok Cheongang was a Supreme Peak master.
 
-Yet even he—powerful enough to kill a thousand people alone—was merely an old man whose body was withering beneath the force of time.
+Yet even he—powerful enough to slaughter a thousand men single-handedly—was still only an old man withering beneath the weight of time.
 
 The Heavenly Martial Physique, however, was a being born of Heaven’s choice and whim.
 
-*How could a mere human presume to guess Heaven’s intentions?*
+How could a mere human hope to fathom Heaven’s will?
 
-*Is this what lies beyond Heaven?*
+*Is this what it means to stand beyond Heaven?*
 
 Jeok Cheongang slowly rose and approached the window. When he pushed open the tightly shut panes, an endless blue sky stretched before him.
 
-As the cold wind rushed inside, he suddenly wondered:
+Cold wind rushed over him, and a thought suddenly occurred to him.
 
 Why had Heaven chosen Jin Taekyung?
 
 And why had it brought the two of them together?
 
-*Who are you? Is there really someone there?*
+*Who are you? Is anyone truly up there?*
 
 No answer came.
 
@@ -182,7 +182,7 @@ Jeok Cheongang stared in silence at the wisps of cloud drifting through the clea
 
 “I think we need more liquor. What do you say?”
 
-Jin Taekyung answered with a smile.
+Jin Wikyung smiled.
 
 “Excellent. I was getting tired of tea myself.”
 
@@ -232,7 +232,7 @@ Of course, gaining more stats would have been far more useful from my perspectiv
 
 Hyuk Mujin scratched the back of his head as though this was giving him a headache.
 
-“Why don’t you just go?”
+“Can’t you just go?”
 
 “Tell them I’m still in pain. Who’s going to argue when I’m the one saying it hurts?”
 
@@ -252,11 +252,11 @@ Jeok Cheongang had said he would remain at the Jin Family of Taiyuan only until 
 
 According to the original schedule, he should have left yesterday. But more and more people had arrived, including several heavyweights, and the gathering had been extended. Naturally, so had his stay.
 
-“Shit. Fine, let’s go. Let’s go.”
+“Shit. Fine. Let’s go.”
 
 “Good choice. If you refused, I was going to be the one who died.”
 
-I followed Hyuk Mujin, who was grinning foolishly, toward the banquet hall.
+I followed the grinning Hyuk Mujin toward the banquet hall.
 
 It was still crowded enough to make a marketplace look deserted, but perhaps because they had finally begun controlling admission, there were far fewer people than on the first day.
 
@@ -268,25 +268,25 @@ It was still crowded enough to make a marketplace look deserted, but perhaps bec
 
 “So you’re preserving their pride?”
 
-“Something like that. We even gave each person a gift when we sent away the people who had been here on the first day.”
+“Something like that. We even gave a gift to each of the people we sent away from the first day.”
 
 *They’re even managing grassroots opinion?*
 
 Whether it was all part of some careful calculation or simply an act of genuine kindness, Jin Wikyung was undeniably capable.
 
-He was different from the other martial artists who put their pride and martial arts first. Could he be what you would call a bureaucrat-style martial artist?
+Unlike other martial artists, who placed pride and martial arts above all else, he was more of a bureaucrat.
 
 Without such an excellent CEO at its head, the Jin Family of Taiyuan probably could never have risen to its current position.
 
-“Hey, our youngest! My beloved little brother, you’ve come!”
+“Ah, my youngest! My beloved little brother is here!”
 
 “…”
 
-Yes, he would have been perfect if not for things like this.
+Right. He would be perfect if not for things like this.
 
 His face was bright red from all the liquor he had drunk. As Jin Wikyung bellowed from the seat of honor, laughter erupted throughout the hall.
 
-*He really went all out. He really did.*
+*He really set out to get drunk.*
 
 Jin Wikyung was a Peak master. He could have purged the alcohol with his internal energy, so the fact that he was this drunk meant he had never intended to sober himself up.
 
@@ -300,7 +300,7 @@ Jeok Cheongang, seated beside him, was in much the same state.
 
 “…”
 
-“No matter how far you run, you’re still in the palm of my hand. Stop spouting nonsense and sit down.”
+“You can struggle all you like, but you’re still in the palm of this old man’s hand. Stop spouting nonsense and sit down.”
 
 The old man really was frighteningly perceptive.
 
@@ -326,19 +326,19 @@ I drained another bowl.
 
 “What did you say?”
 
-“No. The liquor just tastes so good, that’s all.”
+“Nothing. I was just saying how good the liquor tastes.”
 
 *Something about this feels ominous.*
 
 In the end, I emptied an entire jar by myself in less than fifteen minutes. Only then did the corners of Jeok Cheongang’s mouth curl upward in satisfaction.
 
-“That’s more like it. You need to drink at least this much.”
+“That’s more like it. A man ought to drink at least this much.”
 
 “…”
 
 Why did this remind me of a story I had once seen online about a university freshman welcome party?
 
-The difference was that the person forcing me to drink wasn’t some senior from a fossilized class year.
+The only difference was that the person forcing alcohol down my throat wasn’t some fossil of an upperclassman.
 
 It was the Fire King.
 
@@ -352,7 +352,7 @@ I was taking a moment to catch my breath while the thoroughly drunk Jeok Cheonga
 
 The speaker was a solidly built, middle-aged man.
 
-He had stern eyes and tightly pressed lips. He looked at me with an unreadable expression before continuing:
+He had stern eyes and tightly pressed lips. He studied me with an unreadable expression before continuing.
 
 “I am Ak Bulgun of the Shandong Yue Family.”
 
@@ -364,7 +364,7 @@ I bowed awkwardly.
 
 “Ah, I’m—”
 
-“I already know. Jin Taekyung, the Sleeping Dragon of Shanxi. Though when I heard about you from the cadets last year, you didn’t have that nickname yet.”
+“I already know. Jin Taekyung, the Sleeping Dragon of Shanxi. Though when I heard about you from the cadets last year, you had yet to earn that title.”
 
 “…Cadets?”
 
@@ -372,7 +372,7 @@ What was this man talking about?
 
 Ak Bulgun smiled faintly at my bewilderment.
 
-“Have you heard of Heaven’s Gate Temple? I serve as a spear Instructor there.”
+“Have you heard of Heaven’s Gate Temple? I serve there as a spear instructor.”
 
 “Oh.”
 
@@ -380,7 +380,7 @@ Ak Bulgun smiled faintly at my bewilderment.
 
 I let out a quiet laugh.
 
-Until three months ago, I had been called the disgrace of my family. I didn’t need to hear the stories to know exactly what they had been.
+Until three months ago, this body had been known as the disgrace of the family. I didn’t need to hear the stories to know what they had been like.
 
 “I doubt they were very flattering.”
 
@@ -400,7 +400,7 @@ I answered vaguely and drank the liquor he poured for me.
 
 When I nodded, Ak Bulgun stroked his beard.
 
-“That’s troublesome. He’ll have to leave within seven days at the latest, no matter what. Did he give you any indication before entering seclusion?”
+“That is troublesome. We must depart within seven days at the latest. Did he leave no word before entering seclusion?”
 
 “No. He’s the sort who won’t stop until he’s satisfied.”
 
@@ -430,13 +430,13 @@ I needed a turning point if I wanted to become stronger, and Heaven’s Gate Tem
 
 When I did not answer immediately, Ak Bulgun continued.
 
-“The admission period has already passed, but I can grant you special permission.”
+“The admission period has already passed, but I can arrange special permission.”
 
 “Special permission?”
 
 “You are an exceptional talent.”
 
-Ak Bulgun’s rough palm came to rest on my shoulder.
+Ak Bulgun placed his rough hand on my shoulder.
 
 “What do you say? Will you become a cadet at Heaven’s Gate Temple? Someone like you would be welcomed with open arms by the higher-ups.”
 
