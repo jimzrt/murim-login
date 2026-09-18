@@ -1249,3 +1249,9 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 일원 | **One Origin** | Named Tang Clan organizational unit in Tang Sadok's mobilization order. |
 | 삼당 | **Three Divisions** | Named Tang Clan organizational group in Tang Sadok's mobilization order. |
 | 오대 | **Five Squads** | Named Tang Clan organizational group in Tang Sadok's mobilization order. |
+| 일괴 | **First Fiend** | The Qilian Three Fiend leading the Dark Heaven assault on the Sichuan Tang Clan. |
+| 이괴 | **Second Fiend** | One of the Qilian Three Fiends assigned to Qingcheng. |
+| 악귀 | **Fiend** | Descriptive epithet applied to the First Fiend. |
+| 마군 | **Demon Lord** | Shortened title used for the Western Heaven Demon Lord. |
+| 만독진 | **Myriad-Poison Formation** | Tang Clan defensive formation. |
+| 초대받지 않은 손님 | **Uninvited Guest** | System Quest title. |
