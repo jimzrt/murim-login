@@ -1146,3 +1146,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 장강 | **Yangtze** | The river controlled by the Yangtze River Channel League. |
 | 성도 | **Chengdu** | Sichuan destination of Taekyung's party. |
 | 광안 | **Guang'an** | Sichuan location where the party boards Mu Song's ship. |
+| 황태구 | **Hwang Tae-gu** | Former Sichuan river-bandit power displaced by Mu Song; mastermind of the attack. |
+| 어인 유술 해류 한 팔 업어치기 | **Fish-Man Jujutsu: Current—One-Arm Shoulder Throw** | Taekyung's joking name for the combined maneuver he performs with Mu Song. |
