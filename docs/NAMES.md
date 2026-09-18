@@ -1083,3 +1083,9 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 유니세프 | **UNICEF** | Organization referenced in Taekyung's joke about Ju Hogun's charity. |
 | 등왕루 | **Tengwang Pavilion** | Famous teahouse on the western edge of Xi'an. |
 | 종남제일검 | **The First Sword of Zhongnan** | Epithet of the Taeeul Merciless Sword. |
+| 철관음 | **Tieguanyin** | Tea savored by Hwangbo Eom. |
+| 황보엄 | **Hwangbo Eom** | Personal name of the Taeeul Merciless Sword. |
+| 황보 | **Hwangbo** | Surname form used when addressing Hwangbo Eom. |
+| 태을신공 | **Taeeul Divine Technique** | Zhongnan cultivation technique; Hwangbo Eom had mastered eight-tenths of it at Hyuk Sopyung's age. |
+| 종화지회 | **Huashan–Zhongnan gathering** | Source spelling variant of 화종지회 for the ten-year gathering between the two sects. |
+| 스피드 개건 | **Speed Beggar** | Jin Taekyung's joking label for Gung Gibang. |
