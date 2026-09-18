@@ -1,25 +1,23 @@
 # Translation State
 
-- Last completed: 395
-- Next chapter: 396
-- Current block: 395–399 (1/5)
-- Latest translation: `translations/0395.md`
-- Latest summary: `summaries/beats/0395.md`
-- Safe profiles through: chapter 395
+- Last completed: 396
+- Next chapter: 397
+- Current block: 395–399 (2/5)
+- Latest translation: `translations/0396.md`
+- Latest summary: `summaries/beats/0396.md`
+- Safe profiles through: chapter 396
 
 ## Current Block
 
-- Magic Johnson teleports Jin Taekyung to the emergency conference after explaining that the Arch Lich's weakening power has reduced the magical interference, though communications remain unreliable. Team Leader Choi stays behind to handle matters he considers more useful, while Jin suffers severe motion sickness during the journey.
-- The conference reviews footage of the Arch Lich using teleportation magic to intercept a fighter jet's missile with extraordinary speed and precision. Magic Johnson admits he could perform the spell but not with comparable reliability, making aerial fire support too dangerous and forcing the armies to settle the battle on the ground.
-- Jin mocks Prince Felix's demand for formal respect, credits Jin for the monster armies' retreat, and challenges Lee Jungryong over Ares Guild's poor northern-front performance. Jin suspects Lee intentionally allowed the northern defeat, while Lee blames the appearance of Death Knights. Before Jin can ask whether the northern Death Knights included the black knight, an officer announces that the monster army has advanced and fighting has broken out on every front.
+- The black knight leads a massive undead legion in a surprise assault on a city, revealing flashes of buried memories and an uncanny understanding of human speech before cutting through the city's defenses and killing dozens of Hunters. Wei Fenghu learns that the Arch Lich deliberately concealed its strengthened interference, withdrew the armies to create false reassurance, and then launched coordinated attacks while communications were severed. Unable to teleport safely with Magic Johnson, Jin persuades him to send Jin alone to the hospital rooftop using a teleportation method with only a ten-percent survival chance.
 
 ## Open Questions
 
-- Who is the Arch Lich's true king, who is the black knight, and why did the undead armies withdraw before resuming their advance?
+- What is the black knight's identity and origin, and what is the significance of the child and city in his recovered memories?
+- Who is the lord served by the black knight, and what is the Arch Lich's larger objective?
+- Will Jin survive the dangerous teleportation and reach the hospital rooftop?
 - What happened to Lei Fei and the Hunters who disappeared with him?
 - What happened to the Second Fiend assigned to the Qingcheng attack?
-- What is Wu Heixing planning after recalling his conversation with Lee Jungryong?
-- Did the black knight appear among the Death Knights on the northern front, and what is its objective?
 
 ## Exceptional Decision
 

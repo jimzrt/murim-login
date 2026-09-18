@@ -626,3 +626,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 최 팀장 | 매직 존슨 | Korean Team Leader addressing a foreign archmage | Mr. Johnson | formal and polite | Choi uses Mr. Johnson when raising concerns about magical interference and teleportation. |
 | 매직 존슨 | 최 팀장 | foreign archmage addressing the Korean Team Leader | Choi | casual and familiar | Magic Johnson calls him Choi while reacting theatrically to his decision to remain behind. |
 | 진태경 | 필릭스 | Korean S-rank Hunter addressing a British prince | His Highness | mock-formal and sarcastic | Felix demands formal address, and Jin complies by calling him His Highness while continuing to mock him. |
+| 데스나이트 | 검은 기사 | subordinate commander and legion leader | Lord | formal and deferential | The Death Knights address the Black Knight as Lord while requesting orders. |
