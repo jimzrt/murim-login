@@ -1,1 +1,800 @@
-I'll check the chapter-175 workflow status and the adjudication rules before judging the hunks.{"chapter":175,"decisions":[{"hunk_id":"H001","decision":"REPAIR","replacement":"*…So it is a dark art after all?*","reason":"BASE drops 역시 (‘after all’); SOL drops interrogative 인가 and makes the thought a certainty."},{"hunk_id":"H002","decision":"SOL","reason":"SOL keeps 한두 번 as ‘first or second time’ and tightens the spoken beat; BASE flattens the idiom."},{"hunk_id":"H003","decision":"SOL","reason":"SOL preserves 역대급 수치 플레이; BASE genericizes it and adds ‘of my life.’"},{"hunk_id":"H004","decision":"BASE","reason":"Korean is 일 층; SOL’s ‘downstairs’ drops the stated floor."},{"hunk_id":"H005","decision":"SOL","reason":"SOL’s ‘Yeah?’ matches casual 그래?; BASE’s ‘He is?’ is an unsupported echo."},{"hunk_id":"H006","decision":"SOL","reason":"점소이 is an inn waiter; ‘waiter’ fits the setting better than modern ‘server.’"},{"hunk_id":"H007","decision":"SOL","reason":"‘Thugs’ matches 불한당 and ‘crack … open’ matches 뚝배기를 깨다; BASE’s ‘villains’ / ‘smash … in’ are looser."},{"hunk_id":"H008","decision":"SOL","reason":"SOL’s ‘What,’ maps to 왜,; BASE’s ‘What about it?’ is not in the Korean."},{"hunk_id":"H009","decision":"SOL","reason":"SOL renders protest-marker 아니 as ‘Wait,’; BASE omits it."},{"hunk_id":"H010","decision":"BASE","reason":"BASE is the natural clarification; SOL’s ‘By what happened earlier’ is stiff and redundant after the prior line."},{"hunk_id":"H011","decision":"SOL","reason":"SOL’s ‘If it’s about that’ tracks 그거라면; BASE’s ‘If that’s what you mean’ is extra meta."},{"hunk_id":"H012","decision":"SOL","reason":"알고 계시네요 is a realization that he already knew, not BASE’s question."},{"hunk_id":"H013","decision":"SOL","reason":"SOL keeps the clipped 옝다, 이유 toss; BASE pads with ‘This is.’"},{"hunk_id":"H014","decision":"SOL","reason":"Korean is 낡은 서책; BASE inserts glossary ‘martial arts manual’ (비급) the sentence does not use."},{"hunk_id":"H015","decision":"BASE","reason":"BASE already names the clan’s Flame Divine Palm manual clearly; SOL’s dash equates the 무공 with the 비급."},{"hunk_id":"H016","decision":"SOL","reason":"SOL’s ‘Right?’ matches 그치? and Taekyung’s casual tag; ‘Don’t you think?’ is stiffer."},{"hunk_id":"H017","decision":"REPAIR","replacement":"“Even if Jopil was Great Hero Jeok’s Disciple, we merely did our duty. He was even the one who charged at us and tried to kill us first.”","reason":"BASE omits 심지어; SOL’s ‘And’ under-renders it. ‘Even’ carries the additive."},{"hunk_id":"H018","decision":"SOL","reason":"SOL keeps 꿀꺽 as ‘swallow’ and the rhetorical ‘who’d want to’; BASE substitutes ‘keep it.’"},{"hunk_id":"H019","decision":"SOL","reason":"BASE glosses 가늘고 길게 as ‘uneventful,’ breaking the thin-and-long shit punchline SOL preserves."},{"hunk_id":"H020","decision":"BASE","reason":"BASE keeps the doubled 그거, 그거 stammer; SOL collapses the panic."},{"hunk_id":"H021","decision":"SOL","reason":"SOL’s clipped ‘Why bring that up all of a sudden?’ matches truncated 갑자기 그건 왜."},{"hunk_id":"H022","decision":"REPAIR","replacement":"A wrinkled face suddenly appeared. It looked up at me as I leaned out over the windowsill, and grinned.","reason":"BASE’s ‘my body draped over the window’ is a 몸을 calque; SOL’s ‘leaning’ dangles onto the face instead of Taekyung."}]}
+{
+  "chapter": 175,
+  "decisions": [
+    {
+      "hunk_id": "H001",
+      "decision": "SOL",
+      "reason": "SOL keeps the source's sense and voice."
+    },
+    {
+      "hunk_id": "H002",
+      "decision": "SOL",
+      "reason": "SOL preserves the fragmentary thought and identification."
+    },
+    {
+      "hunk_id": "H003",
+      "decision": "SOL",
+      "reason": "SOL keeps the meaning while making the observation natural."
+    },
+    {
+      "hunk_id": "H004",
+      "decision": "SOL",
+      "reason": "SOL preserves the rhetorical complaint and injury context."
+    },
+    {
+      "hunk_id": "H005",
+      "decision": "SOL",
+      "reason": "SOL keeps the attribution without redundant description."
+    },
+    {
+      "hunk_id": "H006",
+      "decision": "SOL",
+      "reason": "SOL preserves that Jeok personally executed the Supreme Peak technique."
+    },
+    {
+      "hunk_id": "H007",
+      "decision": "SOL",
+      "reason": "SOL keeps the source's power-level comparison and naturalizes the breakthrough phrasing."
+    },
+    {
+      "hunk_id": "H008",
+      "decision": "SOL",
+      "reason": "SOL keeps the sense and makes the reference explicit."
+    },
+    {
+      "hunk_id": "H009",
+      "decision": "SOL",
+      "reason": "SOL keeps the contrast implied by the preceding thought."
+    },
+    {
+      "hunk_id": "H010",
+      "decision": "SOL",
+      "reason": "SOL preserves the one essence and many forms image."
+    },
+    {
+      "hunk_id": "H011",
+      "decision": "SOL",
+      "reason": "SOL keeps the cultivation-technique meaning and natural phrasing."
+    },
+    {
+      "hunk_id": "H012",
+      "decision": "SOL",
+      "reason": "SOL preserves Jeok's leadership role without awkward syntax."
+    },
+    {
+      "hunk_id": "H013",
+      "decision": "SOL",
+      "reason": "SOL keeps the dismissive thought and conversational voice."
+    },
+    {
+      "hunk_id": "H014",
+      "decision": "SOL",
+      "reason": "SOL accurately preserves the single-successor tradition."
+    },
+    {
+      "hunk_id": "H015",
+      "decision": "SOL",
+      "reason": "SOL keeps the succession and nonleakage meaning."
+    },
+    {
+      "hunk_id": "H016",
+      "decision": "SOL",
+      "reason": "SOL keeps the source's image of Taekyung bearing traces of the school."
+    },
+    {
+      "hunk_id": "H017",
+      "decision": "SOL",
+      "reason": "SOL preserves the retrospective realization."
+    },
+    {
+      "hunk_id": "H018",
+      "decision": "SOL",
+      "reason": "SOL keeps the only-answer conclusion in natural English."
+    },
+    {
+      "hunk_id": "H019",
+      "decision": "SOL",
+      "reason": "SOL preserves the bitter smile and unusually lonely expression."
+    },
+    {
+      "hunk_id": "H020",
+      "decision": "SOL",
+      "reason": "SOL keeps the resigned conclusion and natural dialogue."
+    },
+    {
+      "hunk_id": "H021",
+      "decision": "SOL",
+      "reason": "SOL preserves the voice echoing and fading through the room."
+    },
+    {
+      "hunk_id": "H022",
+      "decision": "SOL",
+      "reason": "SOL keeps the prolonged, intangible pursuit before the gaze settles."
+    },
+    {
+      "hunk_id": "H023",
+      "decision": "SOL",
+      "reason": "SOL preserves the nightmare-like distortion."
+    },
+    {
+      "hunk_id": "H024",
+      "decision": "SOL",
+      "reason": "SOL keeps the old man's self-reference and uncertainty."
+    },
+    {
+      "hunk_id": "H025",
+      "decision": "SOL",
+      "reason": "SOL naturally preserves that the mutter sounded like a groan."
+    },
+    {
+      "hunk_id": "H026",
+      "decision": "SOL",
+      "reason": "SOL preserves the drawn-out, sleep-muttered delivery."
+    },
+    {
+      "hunk_id": "H027",
+      "decision": "SOL",
+      "reason": "SOL keeps the source's discomfort and conversational intensity."
+    },
+    {
+      "hunk_id": "H028",
+      "decision": "SOL",
+      "reason": "SOL preserves the repeated twitching and murmuring."
+    },
+    {
+      "hunk_id": "H029",
+      "decision": "SOL",
+      "reason": "SOL keeps the timing of the phrase changing."
+    },
+    {
+      "hunk_id": "H030",
+      "decision": "SOL",
+      "reason": "SOL preserves both the abrupt exit and the goose bumps."
+    },
+    {
+      "hunk_id": "H031",
+      "decision": "SOL",
+      "reason": "SOL restores the source's after-all suspicion."
+    },
+    {
+      "hunk_id": "H032",
+      "decision": "SOL",
+      "reason": "SOL keeps the moment of deepening suspicion concisely."
+    },
+    {
+      "hunk_id": "H033",
+      "decision": "SOL",
+      "reason": "SOL preserves the worn condition of the ceiling."
+    },
+    {
+      "hunk_id": "H034",
+      "decision": "SOL",
+      "reason": "SOL keeps the lamp, darkness, and involuntary relief naturally."
+    },
+    {
+      "hunk_id": "H035",
+      "decision": "SOL",
+      "reason": "SOL preserves the minor injury and grateful comparison."
+    },
+    {
+      "hunk_id": "H036",
+      "decision": "BASE",
+      "reason": "BASE preserves the source's corrective beat, 아니, before the miracle conclusion."
+    },
+    {
+      "hunk_id": "H037",
+      "decision": "SOL",
+      "reason": "SOL accurately renders whether the Fire King intended to kill him."
+    },
+    {
+      "hunk_id": "H038",
+      "decision": "SOL",
+      "reason": "SOL keeps the comparison of being no match for the Fire King."
+    },
+    {
+      "hunk_id": "H039",
+      "decision": "SOL",
+      "reason": "SOL preserves the sudden carp-like leap in idiomatic English."
+    },
+    {
+      "hunk_id": "H040",
+      "decision": "SOL",
+      "reason": "SOL keeps the dark-corner movement clear and natural."
+    },
+    {
+      "hunk_id": "H041",
+      "decision": "BASE",
+      "reason": "BASE better preserves the strong 미친놈 insult as crazy bastard rather than the milder lunatic."
+    },
+    {
+      "hunk_id": "H042",
+      "decision": "SOL",
+      "reason": "SOL keeps the gruff reply without changing the action."
+    },
+    {
+      "hunk_id": "H043",
+      "decision": "SOL",
+      "reason": "SOL preserves the rhetorical complaint naturally."
+    },
+    {
+      "hunk_id": "H044",
+      "decision": "SOL",
+      "reason": "SOL keeps the same face-based insult and spoken rhythm."
+    },
+    {
+      "hunk_id": "H045",
+      "decision": "SOL",
+      "reason": "SOL keeps the parents' childhood concern."
+    },
+    {
+      "hunk_id": "H046",
+      "decision": "SOL",
+      "reason": "SOL preserves the joke about having to live with that face."
+    },
+    {
+      "hunk_id": "H047",
+      "decision": "SOL",
+      "reason": "SOL keeps the kidnapping premise and degree of prettiness."
+    },
+    {
+      "hunk_id": "H048",
+      "decision": "SOL",
+      "reason": "SOL preserves the reversal from kidnapping victim to kidnapper."
+    },
+    {
+      "hunk_id": "H049",
+      "decision": "SOL",
+      "reason": "SOL keeps the dry reassurance in natural dialogue."
+    },
+    {
+      "hunk_id": "H050",
+      "decision": "SOL",
+      "reason": "SOL makes the elliptical later response clear without changing its meaning."
+    },
+    {
+      "hunk_id": "H051",
+      "decision": "SOL",
+      "reason": "SOL preserves the shuffle, gasp, and collapse."
+    },
+    {
+      "hunk_id": "H052",
+      "decision": "SOL",
+      "reason": "SOL keeps both the startled reaction and question."
+    },
+    {
+      "hunk_id": "H053",
+      "decision": "SOL",
+      "reason": "SOL preserves the visible pain in a more immediate form."
+    },
+    {
+      "hunk_id": "H054",
+      "decision": "SOL",
+      "reason": "SOL retains the repeated cramp and stammer."
+    },
+    {
+      "hunk_id": "H055",
+      "decision": "BASE",
+      "reason": "BASE preserves 가지가지 as doing one thing after another rather than recasting it as putting on a show."
+    },
+    {
+      "hunk_id": "H056",
+      "decision": "SOL",
+      "reason": "SOL keeps the cramped-from-sitting explanation and blame."
+    },
+    {
+      "hunk_id": "H057",
+      "decision": "SOL",
+      "reason": "SOL keeps the strange-noise complaint and transliterated sounds."
+    },
+    {
+      "hunk_id": "H058",
+      "decision": "SOL",
+      "reason": "SOL preserves the soul-carved familiarity."
+    },
+    {
+      "hunk_id": "H059",
+      "decision": "SOL",
+      "reason": "SOL naturalizes the source's unusually intimate familiarity without losing the reaction."
+    },
+    {
+      "hunk_id": "H060",
+      "decision": "SOL",
+      "reason": "SOL keeps the startled realization."
+    },
+    {
+      "hunk_id": "H061",
+      "decision": "SOL",
+      "reason": "SOL preserves the order to return inside, stay quiet, and report waking."
+    },
+    {
+      "hunk_id": "H062",
+      "decision": "SOL",
+      "reason": "SOL keeps the dark-art warning, covered ears, and repeated sounds."
+    },
+    {
+      "hunk_id": "H063",
+      "decision": "SOL",
+      "reason": "SOL preserves the blunt interruption."
+    },
+    {
+      "hunk_id": "H064",
+      "decision": "BASE",
+      "reason": "BASE preserves the source's electrified sensation rather than flattening it to merely feeling good."
+    },
+    {
+      "hunk_id": "H065",
+      "decision": "SOL",
+      "reason": "SOL accurately conveys the sly, discreet hand movement."
+    },
+    {
+      "hunk_id": "H066",
+      "decision": "SOL",
+      "reason": "SOL keeps the transition from one problem to the next."
+    },
+    {
+      "hunk_id": "H067",
+      "decision": "SOL",
+      "reason": "SOL preserves the comparison with the first problem."
+    },
+    {
+      "hunk_id": "H068",
+      "decision": "SOL",
+      "reason": "SOL keeps the life-or-death stakes idiomatically."
+    },
+    {
+      "hunk_id": "H069",
+      "decision": "SOL",
+      "reason": "SOL keeps the terse question about the old geezer's location."
+    },
+    {
+      "hunk_id": "H070",
+      "decision": "SOL",
+      "reason": "SOL preserves the obvious reference and lowered voice."
+    },
+    {
+      "hunk_id": "H071",
+      "decision": "SOL",
+      "reason": "SOL conveys the heavy drinking and carousing downstairs."
+    },
+    {
+      "hunk_id": "H072",
+      "decision": "SOL",
+      "reason": "SOL keeps the natural follow-up asking the duration."
+    },
+    {
+      "hunk_id": "H073",
+      "decision": "SOL",
+      "reason": "SOL preserves the uncertainty, server's report, and three-shichen duration."
+    },
+    {
+      "hunk_id": "H074",
+      "decision": "SOL",
+      "reason": "SOL keeps the emphasis that no effort was needed."
+    },
+    {
+      "hunk_id": "H075",
+      "decision": "SOL",
+      "reason": "SOL preserves the sharpened hearing and drunken sounds."
+    },
+    {
+      "hunk_id": "H076",
+      "decision": "SOL",
+      "reason": "SOL keeps the narrator's sardonic observation in context."
+    },
+    {
+      "hunk_id": "H077",
+      "decision": "SOL",
+      "reason": "SOL preserves both culprits' roles and the obliviousness implied by 눈치 없이."
+    },
+    {
+      "hunk_id": "H078",
+      "decision": "BASE",
+      "reason": "BASE preserves the singular liquor bottle and the direct justice shout; SOL changes the quantity and delivery."
+    },
+    {
+      "hunk_id": "H079",
+      "decision": "SOL",
+      "reason": "SOL keeps the self-correction and lack of choice."
+    },
+    {
+      "hunk_id": "H080",
+      "decision": "BASE",
+      "reason": "BASE preserves powerless as the source's condition; weak changes the category of the complaint."
+    },
+    {
+      "hunk_id": "H081",
+      "decision": "BASE",
+      "reason": "BASE preserves the powerless narrator and the source's deep sigh without adding dejection."
+    },
+    {
+      "hunk_id": "H082",
+      "decision": "SOL",
+      "reason": "SOL keeps the blunt refusal and spoken irritation."
+    },
+    {
+      "hunk_id": "H083",
+      "decision": "SOL",
+      "reason": "SOL preserves the instruction to bring him downstairs."
+    },
+    {
+      "hunk_id": "H084",
+      "decision": "SOL",
+      "reason": "SOL keeps the equivalent face-to-face condition naturally."
+    },
+    {
+      "hunk_id": "H085",
+      "decision": "SOL",
+      "reason": "SOL naturally conveys his admission that Mujin is right."
+    },
+    {
+      "hunk_id": "H086",
+      "decision": "SOL",
+      "reason": "SOL preserves the tiger's-mouth image with natural English."
+    },
+    {
+      "hunk_id": "H087",
+      "decision": "SOL",
+      "reason": "SOL keeps the escape threat and invitation in punchier dialogue."
+    },
+    {
+      "hunk_id": "H088",
+      "decision": "SOL",
+      "reason": "SOL preserves Mujin's alarmed physical reaction."
+    },
+    {
+      "hunk_id": "H089",
+      "decision": "SOL",
+      "reason": "SOL keeps the imminent threat and rhetorical question."
+    },
+    {
+      "hunk_id": "H090",
+      "decision": "SOL",
+      "reason": "SOL keeps the reference to the earlier incident naturally."
+    },
+    {
+      "hunk_id": "H091",
+      "decision": "SOL",
+      "reason": "SOL preserves the clarification of which earlier matter he means."
+    },
+    {
+      "hunk_id": "H092",
+      "decision": "SOL",
+      "reason": "SOL keeps the implied concern and unfinished explanation."
+    },
+    {
+      "hunk_id": "H093",
+      "decision": "SOL",
+      "reason": "SOL preserves the firm interruption."
+    },
+    {
+      "hunk_id": "H094",
+      "decision": "BASE",
+      "reason": "BASE preserves the source's inferred hedge that the explanation must already have happened."
+    },
+    {
+      "hunk_id": "H095",
+      "decision": "BASE",
+      "reason": "BASE preserves the present realization in 알고 계시네요; SOL incorrectly shifts it to knew."
+    },
+    {
+      "hunk_id": "H096",
+      "decision": "SOL",
+      "reason": "SOL keeps the elapsed time and inference that Jeok learned the truth."
+    },
+    {
+      "hunk_id": "H097",
+      "decision": "SOL",
+      "reason": "SOL preserves their efforts while sounding natural and appropriately tentative."
+    },
+    {
+      "hunk_id": "H098",
+      "decision": "SOL",
+      "reason": "SOL keeps the urgency of every passing moment."
+    },
+    {
+      "hunk_id": "H099",
+      "decision": "SOL",
+      "reason": "SOL preserves the feigned search and Inventory reveal."
+    },
+    {
+      "hunk_id": "H100",
+      "decision": "SOL",
+      "reason": "SOL keeps the teasing reveal in concise dialogue."
+    },
+    {
+      "hunk_id": "H101",
+      "decision": "SOL",
+      "reason": "SOL accurately renders the weathered martial arts manual."
+    },
+    {
+      "hunk_id": "H102",
+      "decision": "BASE",
+      "reason": "BASE preserves the source's present-tense question about their relationship."
+    },
+    {
+      "hunk_id": "H103",
+      "decision": "SOL",
+      "reason": "SOL keeps the dawning inference and betting challenge naturally."
+    },
+    {
+      "hunk_id": "H104",
+      "decision": "BASE",
+      "reason": "BASE preserves the specific action of placing no bet; offered nothing is semantically broader."
+    },
+    {
+      "hunk_id": "H105",
+      "decision": "SOL",
+      "reason": "SOL keeps the desperate dream-and-hope imagination without awkward syntax."
+    },
+    {
+      "hunk_id": "H106",
+      "decision": "BASE",
+      "reason": "BASE preserves the source's present uncertainty about whether they are master and disciple."
+    },
+    {
+      "hunk_id": "H107",
+      "decision": "SOL",
+      "reason": "SOL keeps the father-son joke and foul-tempered characterization in natural speech."
+    },
+    {
+      "hunk_id": "H108",
+      "decision": "SOL",
+      "reason": "SOL avoids redundant repetition because the snort is fully represented in the following exaggeration."
+    },
+    {
+      "hunk_id": "H109",
+      "decision": "SOL",
+      "reason": "SOL preserves the exaggerated booger joke."
+    },
+    {
+      "hunk_id": "H110",
+      "decision": "SOL",
+      "reason": "SOL keeps the rhetorical dismissal and adds no material change to the joke."
+    },
+    {
+      "hunk_id": "H111",
+      "decision": "SOL",
+      "reason": "SOL preserves the causal explanation for killing the Demonic Cultists."
+    },
+    {
+      "hunk_id": "H112",
+      "decision": "SOL",
+      "reason": "SOL keeps the hesitation and nod without changing the beat."
+    },
+    {
+      "hunk_id": "H113",
+      "decision": "SOL",
+      "reason": "SOL makes explicit that Jopil was the Disciple while preserving the concession."
+    },
+    {
+      "hunk_id": "H114",
+      "decision": "BASE",
+      "reason": "BASE retains the established Disciple terminology and the explicit master-and-disciple relationship that SOL drops."
+    },
+    {
+      "hunk_id": "H115",
+      "decision": "SOL",
+      "reason": "SOL accurately preserves pretending not to hear and stubbornly continuing."
+    },
+    {
+      "hunk_id": "H116",
+      "decision": "SOL",
+      "reason": "SOL keeps the duty defense and Jopil's initiating attack."
+    },
+    {
+      "hunk_id": "H117",
+      "decision": "SOL",
+      "reason": "SOL preserves the reassurance and Taekyung's intention to leave."
+    },
+    {
+      "hunk_id": "H118",
+      "decision": "SOL",
+      "reason": "SOL keeps the hypothetical concession and the Disciple's fault."
+    },
+    {
+      "hunk_id": "H119",
+      "decision": "BASE",
+      "reason": "BASE preserves the explicit action that Taekyung asked the question after removing Mujin's hand."
+    },
+    {
+      "hunk_id": "H120",
+      "decision": "SOL",
+      "reason": "SOL keeps the obligation to return everything Jopil stole."
+    },
+    {
+      "hunk_id": "H121",
+      "decision": "SOL",
+      "reason": "SOL preserves the threat of burning to death if they keep it."
+    },
+    {
+      "hunk_id": "H122",
+      "decision": "SOL",
+      "reason": "SOL keeps the hypothetical question in natural dialogue."
+    },
+    {
+      "hunk_id": "H123",
+      "decision": "SOL",
+      "reason": "SOL accurately renders being tempted by the Flame Divine Palm."
+    },
+    {
+      "hunk_id": "H124",
+      "decision": "BASE",
+      "reason": "BASE better preserves 가늘고 길게 as a long and uneventful life rather than merely a modest one."
+    },
+    {
+      "hunk_id": "H125",
+      "decision": "BASE",
+      "reason": "BASE preserves that Mujin objected to the dirty talk; SOL changes the object of disgust to the speaker."
+    },
+    {
+      "hunk_id": "H126",
+      "decision": "SOL",
+      "reason": "SOL keeps the meaning that the manual was not Jopil's only possession."
+    },
+    {
+      "hunk_id": "H127",
+      "decision": "SOL",
+      "reason": "SOL preserves the numbered list and its rising cadence."
+    },
+    {
+      "hunk_id": "H128",
+      "decision": "SOL",
+      "reason": "SOL keeps Mujin's shocked reaction and uncertain follow-up."
+    },
+    {
+      "hunk_id": "H129",
+      "decision": "SOL",
+      "reason": "SOL preserves the pill's massive boost and dangerous fire effect."
+    },
+    {
+      "hunk_id": "H130",
+      "decision": "BASE",
+      "reason": "BASE preserves the important detail that he planned this gift long ago."
+    },
+    {
+      "hunk_id": "H131",
+      "decision": "SOL",
+      "reason": "SOL keeps the repeated urgent question naturally."
+    },
+    {
+      "hunk_id": "H132",
+      "decision": "SOL",
+      "reason": "SOL preserves the window-gazing beat in the following combined hunk."
+    },
+    {
+      "hunk_id": "H133",
+      "decision": "SOL",
+      "reason": "SOL retains both the glistening eyes and the northward Mount Heng direction."
+    },
+    {
+      "hunk_id": "H134",
+      "decision": "SOL",
+      "reason": "SOL keeps the reference to their prior visit."
+    },
+    {
+      "hunk_id": "H135",
+      "decision": "SOL",
+      "reason": "SOL preserves the suddenness of the question naturally."
+    },
+    {
+      "hunk_id": "H136",
+      "decision": "SOL",
+      "reason": "SOL keeps the Red Wind Band Leader's strength and the named victories."
+    },
+    {
+      "hunk_id": "H137",
+      "decision": "SOL",
+      "reason": "SOL preserves the startled, unfinished realization."
+    },
+    {
+      "hunk_id": "H138",
+      "decision": "SOL",
+      "reason": "SOL keeps the pregnancy-test comparison and stomach-stroking action."
+    },
+    {
+      "hunk_id": "H139",
+      "decision": "BASE",
+      "reason": "BASE preserves the source's ambiguous first-person physical action instead of assigning the surgery to others."
+    },
+    {
+      "hunk_id": "H140",
+      "decision": "BASE",
+      "reason": "BASE preserves the conversationally grandiose escape speech; SOL adds an unsupported archaic shall/set forth register."
+    },
+    {
+      "hunk_id": "H141",
+      "decision": "SOL",
+      "reason": "SOL preserves the unprecedented agility in natural English."
+    },
+    {
+      "hunk_id": "H142",
+      "decision": "SOL",
+      "reason": "SOL correctly presents the sound effect as action rather than spoken dialogue."
+    },
+    {
+      "hunk_id": "H143",
+      "decision": "SOL",
+      "reason": "SOL keeps the tightly clutched, always-carried satchel and window escape."
+    },
+    {
+      "hunk_id": "H144",
+      "decision": "SOL",
+      "reason": "SOL naturalizes the visual transition into seeing a bird."
+    },
+    {
+      "hunk_id": "H145",
+      "decision": "SOL",
+      "reason": "SOL preserves that Mujin took the satchel containing silver and food."
+    },
+    {
+      "hunk_id": "H146",
+      "decision": "SOL",
+      "reason": "SOL keeps the hushed call as a hiss directed after him."
+    },
+    {
+      "hunk_id": "H147",
+      "decision": "SOL",
+      "reason": "SOL accurately naturalizes the liberated, almost enlightened expression."
+    },
+    {
+      "hunk_id": "H148",
+      "decision": "BASE",
+      "reason": "BASE preserves the physical action and direction of his body dropping straight down; SOL changes it to merely disappearing from sight."
+    },
+    {
+      "hunk_id": "H149",
+      "decision": "BASE",
+      "reason": "BASE better matches the expletive 시벌 as Goddammit rather than the different insult Son of a bitch."
+    },
+    {
+      "hunk_id": "H150",
+      "decision": "SOL",
+      "reason": "SOL keeps the hurried movement and imminent jump naturally."
+    },
+    {
+      "hunk_id": "H151",
+      "decision": "SOL",
+      "reason": "SOL preserves the all-out escape and sudden collapse."
+    },
+    {
+      "hunk_id": "H152",
+      "decision": "SOL",
+      "reason": "SOL keeps the familiar object striking the temple."
+    },
+    {
+      "hunk_id": "H153",
+      "decision": "SOL",
+      "reason": "SOL preserves the aged voice without changing the scene."
+    },
+    {
+      "hunk_id": "H154",
+      "decision": "SOL",
+      "reason": "SOL keeps the shadow's position relative to the entrance lantern."
+    },
+    {
+      "hunk_id": "H155",
+      "decision": "BASE",
+      "reason": "BASE avoids SOL's subject error, which makes Jeok Cheongang rather than Taekyung draped over the windowsill."
+    },
+    {
+      "hunk_id": "H156",
+      "decision": "SOL",
+      "reason": "SOL keeps the old man's direct question in natural English."
+    },
+    {
+      "hunk_id": "H157",
+      "decision": "SOL",
+      "reason": "SOL preserves the exaggerated count and future-seeing premise."
+    },
+    {
+      "hunk_id": "H158",
+      "decision": "BASE",
+      "reason": "BASE preserves the direct threatening question; would you like softens the hierarchy and threat."
+    },
+    {
+      "hunk_id": "H159",
+      "decision": "SOL",
+      "reason": "SOL keeps the resigned punchline and source meaning."
+    }
+  ]
+}

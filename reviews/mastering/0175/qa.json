@@ -2,11 +2,11 @@
   "chapter": 175,
   "errors": [],
   "metrics": {
-    "length_ratio": 2.25,
+    "length_ratio": 2.233,
     "source_characters": 6176,
     "source_paragraphs": 204,
-    "translation_characters": 13893,
-    "translation_paragraphs": 217
+    "translation_characters": 13788,
+    "translation_paragraphs": 215
   },
   "passed": true,
   "version": 1,
@@ -23,24 +23,8 @@
     {
       "code": "terminology",
       "details": {
-        "korean": "무공",
-        "preferred": "martial arts"
-      },
-      "message": "matched preferred term is absent"
-    },
-    {
-      "code": "terminology",
-      "details": {
         "korean": "경지",
         "preferred": "realm / realm stage"
-      },
-      "message": "matched preferred term is absent"
-    },
-    {
-      "code": "terminology",
-      "details": {
-        "korean": "비급",
-        "preferred": "martial arts manual"
       },
       "message": "matched preferred term is absent"
     },
@@ -71,6 +55,14 @@
     {
       "code": "terminology",
       "details": {
+        "korean": "신의",
+        "preferred": "Divine Physician"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
         "korean": "진태",
         "preferred": "Jintae"
       },
@@ -89,6 +81,14 @@
       "details": {
         "korean": "사술",
         "preferred": "dark arts"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "초절",
+        "preferred": "supreme mastery"
       },
       "message": "matched preferred term is absent"
     },
