@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.91,
+      "current": "“Then we will begin the operation at 06:30 tomorrow. Carry out your duties on that front without fail according to the orders issued.”",
+      "defect": "The draft changes an order directed to the relevant fronts into an instruction about unspecified duties on a single front.",
+      "id": "F01",
+      "rationale": "해당 전선 refers collectively to the relevant fronts represented at the meeting, while 하달되는 명령 is the object to be executed; the source does not introduce separate ‘duties.’",
+      "replacement": "“Then we will begin the operation at 06:30 tomorrow. The fronts concerned are to carry out every order they receive without fail.”",
+      "severity": "major",
+      "source": "그럼 익일 06시 30분 부로 작전을 시작하겠소. 해당 전선은 하달되는 명령에 따라 빈틈없이 이행해 주시오."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The severely injured will need a little more time to recover, but all the lightly injured have already recovered.",
+      "defect": "The intransitive wording makes the lightly injured seem to have recovered on their own, losing the source’s causative statement that they have already been healed.",
+      "id": "F02",
+      "rationale": "회복시킨 is causative and indicates that treatment or healing was performed on the lightly injured, which is a meaningful account of the Guild’s post-battle condition and resources.",
+      "replacement": "The severely injured will need a little more time to recover, but all the lightly injured have already been healed.",
+      "severity": "major",
+      "source": "중상자들은 회복까지 조금 더 시일이 걸리겠지만 경상자들은 이미 모두 회복시킨 상태입니다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Suining City (遂宁市市).",
+      "defect": "The draft carries the source’s malformed Chinese-character annotation, including a duplicated 市, into an otherwise English-only reading copy.",
+      "id": "F03",
+      "rationale": "The English place-name fully conveys 쑤이닝시, while retaining the erroneous parenthetical adds no necessary information and violates the English-only presentation requirement.",
+      "replacement": "Suining City.",
+      "severity": "minor",
+      "source": "쑤이닝시(遂宁市市)."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“For now, focus on recovering. If you regain your senses and your stamina comes back over the next few days, you might be deployed to the front lines then. That goes for you too, Shen—not just Team Leader Choi.”",
+      "defect": "“Regain your senses” idiomatically means recovering consciousness or sanity, whereas Taekyung is telling the already-conscious men to spend several days recovering their physical or combat feel.",
+      "id": "F04",
+      "rationale": "감각을 되살리고 describes restoring dulled faculties or getting one’s feel back during rehabilitation, not awakening or coming to one’s senses.",
+      "replacement": "“For now, focus on recovering. If you spend the next few days getting your feel back and your stamina returns, you might be deployed to the front then. That goes for you too, Shen—not just Team Leader Choi.”",
+      "severity": "major",
+      "source": "우선은 회복에 집중하세요. 며칠 동안 감각을 되살리고 체력이 돌아오면 그때는 전선에 투입될 수도 있으니까. 최 팀장님은 물론, 쉔 너도 마찬가지고."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Hm? What did you say?”",
+      "defect": "The quotation marks turn Taekyung’s internal, mocking reaction into dialogue spoken aloud.",
+      "id": "F05",
+      "rationale": "The source presents this without dialogue punctuation, matching Taekyung’s direct thoughts; preserving it as an italicized thought avoids adding an outward action.",
+      "replacement": "*Huh? What was that?*",
+      "severity": "critical",
+      "source": "응? 뭐라고?"
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it alters the scope of the opening order, obscures healing agency, retains a malformed non-English place-name annotation, mistranslates physical recovery as regaining consciousness, and turns an internal reaction into spoken dialogue.",
+  "version": 1
+}

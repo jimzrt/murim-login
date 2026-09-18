@@ -1381,3 +1381,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 열화신창 | **Blazing Flame Divine Spear** | Jin's spear technique; its first form appears in this chapter. |
 | 영웅의 혼 | **Hero's Soul** | Supreme Peak sword containing a faint trace of a heroic soul. |
 | 영웅의 힘 | **Hero's Power** | Power granted by Hero's Soul and removed when the sword rejects its bearer. |
+| 왕오춘 | **Wang Ochun** | Lieutenant General appointed commander of the northern front. |
+| 쑤이닝시 | **Suining City** | City in Sichuan Province and the operation's final destination. |
