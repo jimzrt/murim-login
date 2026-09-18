@@ -208,7 +208,7 @@ I handed him my phone. It was the message I’d gotten on the way back from the 
 
 The sender was…
 
-“Luxury Nutjob? Who’s that?”
+“Designer-Brand Junkie? Who’s that?”
 
 “The Team Leader I ran the raid with today.”
 
@@ -234,7 +234,7 @@ When I came to, I found myself in a nearby supermarket, grabbing every piece of 
 
 “You…”
 
-Jinho hyung stared blankly, looking from me to the phone in my hand.
+Jinho hyung stared blankly, looking from me to the phone in his hand.
 
 “Where the hell have you been, and what did you do?”
 
@@ -405,7 +405,7 @@ That night, I dreamed.
 
 I dreamed that somewhere deep in the mountains, someone was shaking me awake.
 
-“Squad leader, squad leader!”
+“Captain, Captain!”
 
 Weirdly, just hearing it made me want to punch whoever it belonged to. Part of me wanted to see who that familiar voice belonged to, but I was too sleepy to open my eyes.
 
@@ -413,7 +413,7 @@ Weirdly, just hearing it made me want to punch whoever it belonged to. Part of m
 
 “We have to tell the main force right away…”
 
-“Why is the squad leader suddenly like this now of all times…”
+“Why is Captain suddenly like this now of all times…”
 
 It felt like listening to a broken radio. The voices had static in them, and they kept cutting out.
 
