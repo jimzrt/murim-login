@@ -1,6 +1,6 @@
 # Western Heaven Demon Lord (서천마군)
 
-- **Safe through:** Chapter 358
+- **Safe through:** Chapter 359
 - **Aliases:** None
 - **Role:** Former Protector of the Divine Cult who commands Dark Heaven's assault on the Sichuan Tang Clan and remains in an unresolved fight with Jin Taekyung in the underground prison while seeking the Myriad-Poison Ring.
 - **Personality:** Cold, detached, patient, and utterly ruthless toward those he interrogates or hunts.

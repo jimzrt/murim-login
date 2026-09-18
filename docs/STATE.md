@@ -1,24 +1,23 @@
 # Translation State
 
-- Last completed: 358
-- Next chapter: 359
-- Current block: 355–359 (4/5)
-- Latest translation: `translations/0358.md`
-- Latest summary: `summaries/beats/0358.md`
-- Safe profiles through: chapter 358
+- Last completed: 359
+- Next chapter: 360
+- Current block: 355–359 (5/5)
+- Latest translation: `translations/0359.md`
+- Latest summary: `summaries/beats/0359.md`
+- Safe profiles through: chapter 359
 
 ## Current Block
 
-- Jin Taekyung's Heavenly Strike clashes with the Western Heaven Demon Lord's Sword Force, breaking the Demon Lord's sword and injuring his hand without defeating him. The Demon Lord recognizes Taekyung as an unusually powerful Peak master and attempts to recruit him, but Taekyung rejects the offer and the two resume their battle.
-- Taekyung invests thirty points each into Agility and Strength, stores White Flame in his inventory as the Demon Lord reaches for it, and follows with Flame Divine Palm and Flame-Extinguishing Divine Fist. The combined attack drives the Demon Lord into the underground prison wall, but he survives and reveals that his apparent collapse was partly an act. Taekyung explains that he gained sixty points by absorbing EXP from the restrained prisoners, excluding the Heavenly Power Demon.
+- Jin Taekyung's full-powered Flame Divine Palm, Flame-Extinguishing Divine Fist, and One Annihilation fail to defeat the Western Heaven Demon Lord, whose Body-Protecting Qi and Black Dragon Armor withstand the attacks; One Annihilation wounds his shoulder, but the Demon Lord overwhelms Taekyung with superior martial arts and Sword Force. Taekyung survives more than three hundred moves while suffering severe internal injuries, a fractured left arm, and probable chest fractures, then remains standing with almost no internal energy and refuses to yield, insisting that his stubborn will to protect the Fire King and Cheongpung is itself supernatural power. The fight remains unresolved as he raises a faint Spear Energy and challenges the silent Demon Lord to attack.
 
 ## Open Questions
 
-- What is the outcome of Taekyung's fight with the Western Heaven Demon Lord?
+- What will be the outcome of Taekyung's fight with the Western Heaven Demon Lord?
+- Can Taekyung protect the Fire King and Cheongpung from Dark Heaven?
 - Can Cheongpung survive his fight with First Fiend?
 - Can the Tang Clan's remaining forces protect Tang Sadok and the Divine Physician?
 - What will the Blood Lord do when the Western Heaven Demon Lord brings the survivors or reports the battle?
-- Can Jeok Cheongang recover before Dark Heaven captures the underground prison?
 
 ## Exceptional Decision
 

@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "With a roar unlike anything I had ever heard, everything within a radius of several dozen feet shattered and exploded.",
+      "defect": "The destruction radius is substantially reduced. 십여 장 means a little over ten jang, or roughly a hundred feet, not merely several dozen feet.",
+      "id": "F01",
+      "rationale": "The source gives a specific radius whose scale demonstrates the force of the collision.",
+      "replacement": "With a roar unlike anything I had ever heard, everything within a radius of over a hundred feet shattered and exploded.",
+      "severity": "critical",
+      "source": "그러자 지금껏 들어 본 적 없는 굉음과 함께 반경 십여 장의 모든 것이 부서지고 터져 나갔다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "With his eyes lowered and calm, the Western Heaven Demon Lord brought his sword down along a diagonal line.",
+      "defect": "가라앉은 눈빛 describes a calm or steady gaze, not eyes physically lowered.",
+      "id": "F02",
+      "rationale": "The source characterizes the composure of his gaze without specifying its direction.",
+      "replacement": "With a steady gaze, the Western Heaven Demon Lord brought his sword down along a diagonal line.",
+      "severity": "minor",
+      "source": "가라앉은 눈빛을 한 서천마군이 비스듬한 사선으로 검을 내리긋는다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "What if the Heaven-Shaking Venerable Nun and those Elders had lasted more than five hundred moves?",
+      "defect": "“Those Elders” omits 그’s relational force here: they are the Heaven-Shaking Venerable Nun’s Elders, not an unrelated or merely demonstrative group.",
+      "id": "F03",
+      "rationale": "Preserving the possessive relationship retains the group’s sect hierarchy and the comparison being made.",
+      "replacement": "What if the Heaven-Shaking Venerable Nun and her Elders had lasted more than five hundred moves?",
+      "severity": "major",
+      "source": "경천신니와 그 장로들이 오백여 초를 버텼다면 어떤가?"
+    },
+    {
+      "confidence": 0.99,
+      "current": "With everything drained away like water from Pandora’s box, the one thing I had left was not hope.",
+      "defect": "The draft invents water and turns the image into draining liquid. The source only compares his emptied state to everything escaping from Pandora’s box.",
+      "id": "F04",
+      "rationale": "The replacement preserves the stated Pandora’s-box comparison without adding an absent and incongruous liquid metaphor.",
+      "replacement": "Now that everything had escaped as if from Pandora’s box, the one thing I had left was not hope.",
+      "severity": "minor",
+      "source": "판도라의 상자처럼 모든 것이 빠져나간 지금, 내게 유일하게 남아있는 한 가지는 희망이 아니다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "*Spite.*\n\nHope could make people stand back up, but it could also make them weak.\n\nBut if spite remained—if I still had the will to fight until the very end—I would not fall.\n\nNo.\n\nI had decided not to fall.",
+      "defect": "독기 here means fierce, hard-edged tenacity or bloody-minded resolve, as the following clause explicitly equates it with the will to keep fighting. “Spite” instead implies resentment toward another person and mischaracterizes his motivation.",
+      "id": "F05",
+      "rationale": "The source defines 독기 through Taekyung’s refusal to collapse and his will to continue fighting, not through personal malice.",
+      "replacement": "*Sheer grit.*\n\nHope could make people stand back up, but it could also make them weak.\n\nBut as long as that grit remained—as long as I still had the will to fight until the very end—I would not fall.\n\nNo.\n\nI had decided not to fall.",
+      "severity": "major",
+      "source": "‘독기.’\n\n희망은 사람을 일어나게 만드는 동시에 나약하게 만든다.\n\n하지만 독기가 남아 있다면, 마지막까지 싸우고자 하는 의지가 있다면 나는 쓰러지지 않는다.\n\n아니, 쓰러지지 않기로 했다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "The Fire King and Cheongpung had fought for my sake, so even if I had to become an actual ghost rather than merely wield supernatural powers, I had to stop this bastard.",
+      "defect": "The draft changes Taekyung from becoming 괴력난신 to merely wielding supernatural powers, losing the direct contrast and wordplay between 괴력난신 and 귀신.",
+      "id": "F06",
+      "rationale": "The source contrasts two things Taekyung might become; it does not say that he wields the power in question.",
+      "replacement": "The Fire King and Cheongpung had fought for my sake, so even if I had to become a ghost instead of some supernatural being, I had to stop this bastard.",
+      "severity": "major",
+      "source": "화왕도, 청풍도 날 위해 싸웠으니 괴력난신이 아니라 귀신이 된다 해도 놈을 막아서야 한다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Quit spouting bullshit and come at me, you supernatural-powers-obsessed bastard.”",
+      "defect": "“Obsessed” sanitizes 성애자, which literally frames the Demon Lord as a fetishist and supplies the insult’s crude sexual humor.",
+      "id": "F07",
+      "rationale": "The replacement preserves both the vulgar register of 새끼 and the deliberately sexualized mockery in 성애자.",
+      "replacement": "“Quit spouting bullshit and come at me, you bastard with a supernatural-powers fetish.”",
+      "severity": "major",
+      "source": "“개 잡소리 그만하고 들어와. 이 괴력난신 성애자 새끼야.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "After countless emotions passed across his face, all that remained were a pair of deeply sunken eyes.",
+      "defect": "“Sunken eyes” describes a physical facial feature. 깊게 가라앉은 instead indicates that his eyes or gaze have become profoundly calm, subdued, or solemn.",
+      "id": "F08",
+      "rationale": "The source describes the emotional state that remains after the other feelings pass, not a change in his anatomy.",
+      "replacement": "After countless emotions passed across his face, his gaze settled into a deep solemnity.",
+      "severity": "minor",
+      "source": "수많은 감정이 그의 얼굴을 스치고 지나간 끝에, 깊게 가라앉은 한 쌍의 눈동자가 있었다."
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it changes one destruction radius, loses a hierarchy cue, misreads several descriptions and metaphors, and weakens the final passage’s characterization and crude wordplay.",
+  "version": 1
+}
