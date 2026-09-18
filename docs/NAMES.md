@@ -1390,3 +1390,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 매생이 닷컴 | **Maesaeng-i.com** | Website credited with translating overseas reactions. |
 | 리자드 맨 | **lizard man** | Monster species fought on the western front. |
 | 윈드 커터 | **Wind Cutter** | Wind-based spell used during the western-front battle. |
+| 다니엘 이노우에 | **Daniel Inoue** | Japanese American A-rank Hunter and leader of the intelligence team. |
+| 샘 | **Sam** | Inoue's longtime operational partner. |
+| 필릭스 왕자 | **Prince Felix** | British prince and allied leader present at the strategic meeting. |

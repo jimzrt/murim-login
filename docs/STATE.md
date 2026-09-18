@@ -1,33 +1,32 @@
 # Translation State
 
-- Last completed: 406
-- Next chapter: 407
-- Current block: 405–409 (2/5)
-- Latest translation: `translations/0406.md`
-- Latest summary: `summaries/beats/0406.md`
-- Safe profiles through: chapter 406
+- Last completed: 407
+- Next chapter: 408
+- Current block: 405–409 (3/5)
+- Latest translation: `translations/0407.md`
+- Latest summary: `summaries/beats/0407.md`
+- Safe profiles through: chapter 407
 
 ## Current Block
 
-- Seong Jinho reads Hunter University’s jubilant coverage of Jin Taekyung and the five-front counteroffensive, proudly posts as Jin’s roommate, and then realizes he has left his ramen cooking.
-- During the western-front mobile warfare, Jin Taekyung uses Hero’s Soul and the Flame-Extinguishing Divine Fist to rout lizard men alongside Shao Shen and the allied forces. Despite a week of victories and rapid advances toward Suining City, Jin and Team Leader Choi remain uneasy because the monster forces have sharply declined while the Arch Lich has not appeared.
-- In a vast ruined space, the Arch Lich gathers its mana as sunset enters through shattered windows and calls for its adversary.
+- Daniel Inoue leads a twenty-person intelligence operation into Suining City, but he is the only operative to return. After escaping eight hours later, he reports seeing a monster army of roughly thirty thousand, with the true number possibly twice that or more; most of the monsters are expected to be mid- or low-level.
+- The five-front advance stops two hundred kilometers from Suining City, where Magic Johnson summons Jin Taekyung and Team Leader Choi to a coalition meeting. The leaders learn that the Arch Lich has preserved a massive force for the final battle, and Jin proposes gathering the strongest fighters into a suicide squad to kill the Arch Lich, whose destruction would collapse the undead army.
 
 ## Open Questions
 
-- Who is Lei Fei’s unidentified lord, what is the lord’s origin, and how does the lord relate to the Arch Lich’s objective?
+- Who is Lei Fei's unidentified lord, what is the lord's origin, and how does the lord relate to the Arch Lich's objective?
 - What happened to the Second Fiend assigned to the Qingcheng attack?
 - Why has the Arch Lich withheld itself from the war, and what is it preparing now?
 - What kind of being was the Skeleton Warlord before it became an undead commander?
-- What specific situation will allow Jin to draw out Hero’s Power more strongly?
+- What specific situation will allow Jin to draw out Hero's Power more strongly?
 
 ## Exceptional Decision
 
-- Render 영웅의 혼 as Hero’s Soul and 영웅의 힘 as Hero’s Power.
+- Render 영웅의 혼 as Hero's Soul and 영웅의 힘 as Hero's Power.
 - Render 기동전 as mobile warfare.
 - Render 쑤이닝시 as Suining City.
-- Render 연대장 쉔 as Regimental Commander Shen.
-- Render 도람프 as Doramp, 마이구미 신지로 as Maigumi Shinjiro, and 푸린 as Furin.
+- Render 결사대 as suicide squad.
+- Render 머리를 치다 as take out the head in the context of killing the Arch Lich.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
