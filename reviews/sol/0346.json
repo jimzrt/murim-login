@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "Without the Myriad-Poison Ring, I would have estimated the chance at one in ten. Now, I believe it is over seventy percent.",
+      "defect": "The draft renders 일 푼 as one in ten, changing the original one-percent chance to ten percent.",
+      "id": "F01",
+      "rationale": "In traditional decimal units, one 푼 is one percent, while one 할 is ten percent. The source contrasts a one-percent chance without the ring against at least seventy percent with it.",
+      "replacement": "Without the Myriad-Poison Ring, the chance would have been just one percent. Now, I believe it is over seventy percent.",
+      "severity": "critical",
+      "source": "만독지환이 없었다면 일 푼의 가능성이었겠지만, 지금은 칠 할 이상으로 보고 있소."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The Thousand-Year Poison Horned Snake is not an ordinary venomous snake, but a spiritual creature. Yet you rendered the venom gland of such a creature useless… We will have to try it to know how much poison it can detoxify, but it is worthy of the name Myriad-Poison Ring.",
+      "defect": "The draft makes Taekyung the agent who neutralized the snake’s venom gland, but the Divine Physician is explaining what the Myriad-Poison Ring did.",
+      "id": "F02",
+      "rationale": "The surrounding discussion concerns the ring’s demonstrated efficacy, and the conclusion explicitly says that this feat makes it worthy of its name.",
+      "replacement": "The Thousand-Year Poison Horned Snake is not an ordinary venomous snake, but a spiritual creature. Yet the ring rendered the venom gland of such a creature useless… We will have to try it to know how much poison it can detoxify, but it is worthy of the name Myriad-Poison Ring.",
+      "severity": "major",
+      "source": "천년독각사는 평범한 독사가 아닌 영물(靈物). 한데 그런 것의 독샘을 무용지물로 만들었으니…… 어느 정도까지 해독할 수 있을지는 해 봐야 알겠지만, 역시 만독지환답구려."
+    },
+    {
+      "confidence": 0.99,
+      "current": "I bathe her in fragrant oil every morning and evening, so she smells wonderful. And her teeth are sparkling white!",
+      "defect": "The draft changes wiping Mimi’s body with scented oil into bathing her in oil.",
+      "id": "F03",
+      "rationale": "몸을 닦아 주다 specifically describes wiping or rubbing down her body, not immersing or bathing her.",
+      "replacement": "I wipe her body down with fragrant oil every morning and evening, so she smells wonderful. And her teeth are sparkling white!",
+      "severity": "minor",
+      "source": "매일 아침저녁으로 향유(香油)로 몸을 닦아 줘서 향기롭고, 이빨도 새하얗고!"
+    },
+    {
+      "confidence": 0.96,
+      "current": "As if a snake could understand him. What kind of technique was he trying to teach someone who could not even understand human speech?",
+      "defect": "The draft shifts the joke from Cheongpung ordering Mimi to perform a technique that even a person would not understand to the snake being unable to understand human speech, and changes an immediate command into an attempt to teach her.",
+      "id": "F04",
+      "rationale": "사람도 못 알아듣는 modifies the technique or command as incomprehensible even to a person; 시키다 means making or telling Mimi to perform it.",
+      "replacement": "Whirlwind, my ass. He was telling her to perform a technique even a person wouldn’t understand.",
+      "severity": "minor",
+      "source": "회오리치기는 개뿔이. 사람도 못 알아듣는 기술을 시키다니."
+    },
+    {
+      "confidence": 0.98,
+      "current": "As Mungyeong looked calmly at his Master, who had deliberately furrowed his brow, he spoke.",
+      "defect": "The draft attaches calmness to Mungyeong’s gaze instead of preserving the explicit cue that he speaks in a calm voice.",
+      "id": "F05",
+      "rationale": "침착한 목소리로 directly describes Mungyeong’s manner of speaking, while 짐짓 describes his Master’s affected or deliberate frown.",
+      "replacement": "Mungyeong addressed his Master, who had put on a frown, in a calm voice.",
+      "severity": "minor",
+      "source": "짐짓 얼굴을 찌푸린 스승을 향해 문경이 침착한 목소리로 말했다."
+    }
+  ],
+  "summary": "One critical probability error, one major subject error in the ring’s mechanism, and three localized action or pragmatic-cue issues.",
+  "version": 1
+}
