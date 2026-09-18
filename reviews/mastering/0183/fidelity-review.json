@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "A hulking man reminiscent of a Minotaur glared at me with enormous, bulging eyes.",
+      "defect": "The translation uses 'enormous, bulging eyes' instead of the established preferred term 'eyes as big as saucers' from the baseline, which better captures the source image.",
+      "id": "F01",
+      "rationale": "The Korean emphasizes the bulging size of the eyes with a simile that is best rendered as 'eyes as big as saucers' per the accepted baseline.",
+      "replacement": "A hulking man reminiscent of a Minotaur glared at me with eyes as big as saucers.",
+      "severity": "minor",
+      "source": "Line 5"
+    },
+    {
+      "confidence": 1.0,
+      "current": "No matter how I looked at him, he seemed more like the Majang-dong Knifeman or Seocho-dong Twin Axes than a crane or a plum blossom.",
+      "defect": "The names 'Majang-dong Knifeman' and 'Seocho-dong Twin Axes' are romanized without ledger entries or footnotes; the baseline uses the same romanization but flags them for ledger entry or footnote.",
+      "id": "F02",
+      "rationale": "Proper names that are romanized should ideally have ledger entries or footnotes to clarify for readers unfamiliar with these place names.",
+      "replacement": "No replacement suggested; add footnotes or ledger entries for 'Majang-dong' and 'Seocho-dong' per glossary conventions.",
+      "severity": "minor",
+      "source": "Line 12"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Twenty-five? Is your name Benjamin or something? You’re living your life backward all by yourself.",
+      "defect": "The name 'Benjamin' is romanized without glossary entry or footnote; the preferred approach is to have a ledger entry or footnote on first use for clarity.",
+      "id": "F03",
+      "rationale": "Proper names should be backed by glossary or explanatory notes where appropriate.",
+      "replacement": "No replacement suggested; add ledger entry or footnote for 'Benjamin'.",
+      "severity": "minor",
+      "source": "Line 81"
+    }
+  ],
+  "summary": "Faithful and accurate English translation with minor terminology and name romanization omissions.",
+  "version": 1
+}

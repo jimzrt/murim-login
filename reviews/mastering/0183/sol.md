@@ -40,7 +40,7 @@ Before I could say anything, Hyuk Mujin jumped in.
 
 “You insolent bastard! Do you need a beating to come to your senses?”
 
-I stopped Hyuk Mujin as he reached for his sword scabbard.
+I stopped Hyuk Mujin as he reached for his sword.
 
 “That’s enough.”
 
@@ -54,7 +54,7 @@ I stopped Hyuk Mujin as he reached for his sword scabbard.
 
 “…”
 
-Chulwoo opened his mouth with an incredulous expression.
+Chulwoo stared at him in disbelief.
 
 “Is he your subordinate?”
 
@@ -106,7 +106,7 @@ Woo Hwangtae, who was being dragged away against his will, screamed,
 
 “Eeeeeek!”
 
-This wouldn’t do. Someone was going to die before I remembered his name.
+This wouldn’t do. Someone was going to die before I remembered where I’d heard his name.
 
 I had no desire to get dragged into an unnecessary dispute, but simply walking past didn’t sit right with me either.
 
@@ -118,7 +118,7 @@ I smacked my lips and stepped forward.
 
 “Excuse me.”
 
-“All that fat and you still have to make people’s lives difficult… Did you call me?”
+“Damn, you’re nothing but fat, making me work this hard… Did you call me?”
 
 “Yes.”
 
@@ -154,13 +154,13 @@ Chulwoo rubbed his neck with an annoyed expression. At the same time, he dropped
 
 “How old are you?”
 
-“I’m twenty-five, you young bastard.”
+“I’m twenty-five, you little brat.”
 
 Good grief. I was surprised twice.
 
 Once by the boomer attitude of a twenty-five-year-old, and again by the fact that his face belonged to a man in his mid-twenties.
 
-Even if he had been fed protein supplements instead of breast milk as a baby, he shouldn’t have ended up like this. I asked with considerable astonishment,
+Even if he had been fed protein supplements instead of breast milk as a baby, he shouldn’t have ended up like this. I asked in genuine astonishment,
 
 “Twenty-five? Is your name Benjamin or something? You’re living your life backward all by yourself.”
 
@@ -176,7 +176,7 @@ Benjamin Chulwoo glared at me.
 
 “You beardless little brat…”
 
-“Pull down your pants. I want to see whether you’ve got hair on your dick.”
+“Pull down your pants. Let’s see if you’ve got pubes yet.”
 
 “You little—!”
 
@@ -210,7 +210,7 @@ Bones shifted with an ugly crunch inside his fist, which was as thick as a shove
 
 Chulwoo ground his teeth and glared at me.
 
-“Do you even know what it means to interfere in someone else’s personal gratitude and grudges in Murim?”
+“Do you even know what it means to interfere in someone else’s gratitude and grudges in Murim?”
 
 “I already apologized for sticking my nose where it doesn’t belong. But if guests start throwing punches, what does that make the people who invited them? You ought to consider our family’s position too.”
 
@@ -218,7 +218,7 @@ Chulwoo ground his teeth and glared at me.
 
 “Yeah. Our family.”
 
-“Are you perhaps a member of the Jin Family of Taiyuan?”
+“Do you belong to the Jin Family’s household?”
 
 “I’m no household parasite, if that’s what you mean.”
 
@@ -226,7 +226,7 @@ Chulwoo ground his teeth and glared at me.
 
 “Watch your mouth—unless you want your family observing three years of mourning.”
 
-Chulwoo smiled thinly. It wasn’t a smile born of amusement. It was the kind of smile that appeared on its own when someone’s anger had reached the top of his head.
+Chulwoo smiled. It wasn’t a smile born of amusement, but the kind that appeared on its own when someone was furious beyond words.
 
 “My Senior Brother warned me over and over… but I can’t let you off. Time for you to take a few hits.”
 
@@ -234,17 +234,17 @@ Boom!
 
 Before he could finish speaking, an enormous roar rang out, and the ground shattered.
 
-The two-meter-tall giant launched himself like a cannonball. The time it took him to reach the tip of my nose was no more than an instant.
+The two-meter-tall giant launched himself like a cannonball. It took him only an instant to arrive directly in front of me.
 
 “It’s going to hurt.”
 
 Whoosh!
 
-With a chilling voice, the air scattered.
+The air scattered with his chilling words.
 
 No—it was crushed.
 
-It was nothing more than a simple punch, with no form or martial principle added to it. The force contained in that fist exploded with enough momentum to shatter a thousand-jin boulder.
+It was nothing more than a simple punch, without any form or martial principle behind it. Yet the fist carried enough force to shatter a thousand-jin boulder.
 
 But…
 
@@ -284,7 +284,7 @@ Whoooosh! Bang!
 
 After yet another wild swing, Chulwoo exploded in frustration.
 
-“What the hell!”
+“You bastard!”
 
 “You’re too worked up. Take a deep breath and relax. Then you might manage to touch a single hair on my head.”
 
@@ -318,9 +318,9 @@ He might not have known what *bingo* meant, but he understood that it meant yes 
 
 “I’ll admit it. You may not be a dragon, but you could at least qualify as an imugi.[^1]”
 
-“Good grief, that’s a harsh assessment.”
+“Ma, that’s a stingy score.”
 
-“Your mouth has reached the realm of transcendence.”
+“Your mouth has reached the realm of mastery.”
 
 “It’s all psychological warfare. Take a look at yourself. Your eyes are rolled back, and you keep swinging at thin air.”
 
@@ -336,7 +336,7 @@ He spat out a wad of phlegm and muttered,
 
 Same for me.
 
-He was obviously a disciple of a fairly well-known sect, but if we fought until one of us fell, both of us would have to deal with the backlash.
+He was obviously a disciple of a fairly well-known sect, but if we fought until one of us fell, both of us would have to deal with the fallout.
 
 “I’m holding back because of my eldest brother.”
 
@@ -364,7 +364,7 @@ I swallowed the words that were about to burst out.
 
 “Obviously. Didn’t you feel the difference between us just now?”
 
-“You son of a bitch! I could chew you up and still not feel satisfied!”
+“You bastard! I could chew you to pieces and still not be satisfied!”
 
 “Try hitting me, if you can.”
 
@@ -420,7 +420,7 @@ The appearance of two young and outstanding men sent the crowd into a frenzy.
 
 The two young prodigies whom everyone believed would become future leaders of Murim walked side by side, waving their hands.
 
-Every time they did, cheers erupted from all directions, along with hands reaching out to touch even their clothing.
+Each time they did, cheers erupted from all directions, and countless hands reached out for even the hems of their clothes.
 
 “The Sleeping Dragon of Shanxi!”
 
@@ -446,7 +446,7 @@ While everyone watched them with warm smiles, the beaming Jin Taekyung and Chulw
 
 “Now that I think about it, neither did I.”
 
-“Is this guy completely insane?”
+“Are you completely insane?”
 
 “Who are you to say that?”
 
