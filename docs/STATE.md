@@ -1,16 +1,15 @@
 # Translation State
 
-- Last completed: 379
-- Next chapter: 380
-- Current block: 375–379 (5/5)
-- Latest translation: `translations/0379.md`
-- Latest summary: `summaries/beats/0379.md`
-- Safe profiles through: chapter 379
+- Last completed: 380
+- Next chapter: 381
+- Current block: 380–384 (1/5)
+- Latest translation: `translations/0380.md`
+- Latest summary: `summaries/beats/0380.md`
+- Safe profiles through: chapter 380
 
 ## Current Block
 
-- An enormous monster army unexpectedly reaches Chengdu International Airport, overwhelming the Chinese People’s Liberation Army and the Public Security Armed Forces Department Hunters. Wyverns, Griffons, and Gargoyles destroy grounded fighter jets, while conventional weapons prove mostly ineffective against the invading monsters except at their eyes. Shao Shen rallies the defenders and leads a desperate charge.
-- A Green Wyvern’s Poison Breath kills the command staff, and black magic then raises the battlefield’s dead as chained undead. Shao Shen is forced to kill his reanimated friend and colleague Yao Wei, who has become a Dullahan. As the defenders near collapse and the undead army grows, a gigantic burning aircraft approaches the battlefield and sweeps across it.
+- Jin Taekyung and Team Leader Choi arrive at Chengdu International Airport by driving their aircraft through the monster army, stopping just before the trapped defenders. Choi's Barrier magic keeps the passengers alive, and Jin joins Shao Shen and the other Hunters in battle. Jin determines that more than half of the nearly two-thousand-monster army are undead and suspects they are being controlled by someone other than the Lich. After Jin devastates the battlefield with his martial techniques, the Skeleton Warlord discovers that it can control the undead; its command causes the fighting undead monsters to freeze in place.
 
 ## Open Questions
 
@@ -18,7 +17,7 @@
 - What is the true nature and purpose of the Lord of Heaven, and what became of the Western Heaven Demon Lord?
 - What was the origin and purpose of the Moving Formation, and why did it lose its power?
 - Who is the unidentified person directing Aehyang, and what are they planning?
-- Will Mungyeong remain outside the coming war, or will the crisis force him to intervene?
+- Who is controlling the Chengdu undead army, and what will result from the Skeleton Warlord seizing control of it?
 
 ## Exceptional Decision
 
