@@ -2,11 +2,11 @@
   "chapter": 176,
   "errors": [],
   "metrics": {
-    "length_ratio": 2.289,
+    "length_ratio": 2.223,
     "source_characters": 5506,
     "source_paragraphs": 155,
-    "translation_characters": 12605,
-    "translation_paragraphs": 160
+    "translation_characters": 12239,
+    "translation_paragraphs": 159
   },
   "passed": true,
   "version": 1,
@@ -30,6 +30,14 @@
     {
       "code": "terminology",
       "details": {
+        "korean": "체력",
+        "preferred": "Stamina"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
         "korean": "화산",
         "preferred": "Huashan"
       },
@@ -40,6 +48,14 @@
       "details": {
         "korean": "노부",
         "preferred": "this old man"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "신의",
+        "preferred": "Divine Physician"
       },
       "message": "matched preferred term is absent"
     },
@@ -64,6 +80,46 @@
       "details": {
         "korean": "세가",
         "preferred": "great family"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "벌모세수",
+        "preferred": "cleansing the sinews and washing the marrow"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "남궁",
+        "preferred": "Namgung"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "창천",
+        "preferred": "azure heaven"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "근골",
+        "preferred": "Muscles and Bones"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "준이",
+        "preferred": "Jun"
       },
       "message": "matched preferred term is absent"
     }
