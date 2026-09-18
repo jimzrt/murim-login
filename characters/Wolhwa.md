@@ -1,6 +1,6 @@
 # Wolhwa (월화)
 
-- **Safe through:** Chapter 325
+- **Safe through:** Chapter 326
 - **Aliases:** Eun Sowol (은소월); Wolhwa is the name used at Honghwaru
 - **Role:** Shanxi’s foremost information merchant and Level 50 martial artist; Branch Leader of the Lower District Sect’s Shanxi branch with authority to mobilize more than thirty Shanxi branches; formerly posing as a high-ranking courtesan at Honghwaru, a pleasure house in central Taiyuan
 - **Personality:** Striking, composed, observant, direct, quietly amused, and capable of ruthless, decisive violence when extracting information; comfortable teasing Taekyung while conducting serious information and negotiation work

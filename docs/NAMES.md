@@ -1122,3 +1122,9 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 십구 대 계승자 | **nineteenth successor** | Taekyung's Fire Gate Clan succession title. |
 | 황천 | **Hwangcheon** | Second-generation Zhongnan disciple and Commander of the Taeeul Sword Unit. |
 | 광룡 | **Mad Dragon** | Taekyung's joking alternative to Fire Dragon after he beats Hwangbo Eom. |
+| 낙천 상단 | **Nakcheon Merchant Guild** | Merchant guild involved in a contract cancellation attributed to Zhongnan in the investigation. |
+| 석도민 | **Seok Domin** | Escort Captain who died during the current Yongbong Escort Bureau mission. |
+| 길왕준 | **Gil Wangjun** | Escort who died during the current Yongbong Escort Bureau mission. |
+| 홍석정 | **Hong Seokjeong** | Escort who died during the current Yongbong Escort Bureau mission. |
+| 노두삼 | **Noh Dusam** | Escort who died during the current Yongbong Escort Bureau mission. |
+| 석삼 | **Seok Sam** | Caravan porter who died during the current Yongbong Escort Bureau mission. |

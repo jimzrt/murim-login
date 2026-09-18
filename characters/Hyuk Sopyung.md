@@ -1,6 +1,6 @@
 # Hyuk Sopyung (혁소평)
 
-- **Safe through:** Chapter 325
+- **Safe through:** Chapter 326
 - **Aliases:** Zhongnan One Dragon
 - **Role:** Peak master of the Zhongnan Sect known as the Zhongnan One Dragon and a senior disciple who can command the Taeeul Sword Unit in Hwangbo Eom's presence.
 - **Personality:** Proud, volatile, entitled, and quick to anger, especially when drunk.
