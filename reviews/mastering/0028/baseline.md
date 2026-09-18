@@ -132,7 +132,7 @@ Since when did a wolf roar like a lion? Don’t tell me it was some kind of spir
 
 *Not happening.*
 
-I swallowed and brought my spear up. I couldn’t afford to lose a clash of qi, so I glared hard and dropped my voice.
+I swallowed and brought my spear up. I couldn’t afford to lose the battle of wills, so I glared hard and lowered my voice.
 
 “Come.”
 
@@ -288,7 +288,7 @@ As if I’d hit the mark, the bridge of Jopil’s nose twitched. Right. I didn�
 
 “…”
 
-“Black Mountain Blade was decent enough, but he had no eye for people, so he deserved to die. I tore his eyes before I left. Punishment for failing to recognize a master.”
+“Black Mountain Blade was decent enough, but he had no eye for people, so he deserved to die. I ripped his eyes open before I left. Punishment for failing to recognize a master.”
 
 Correction. Jopil, One Question, One Kill, didn’t look dangerous.
 
@@ -360,7 +360,7 @@ Jopil had been turning it over. Then he exclaimed.
 
 “The wastrel third Young Master! That’s you?”
 
-“Not a wastrel. These days they call me the Sleeping Dragon.”
+“Not a wastrel. These days they call me the Hidden Dragon.”
 
 “Puhahaha! I knew it. The Jin Family of Taiyuan, those rigid fools, poisoning someone? Please. I don’t know who set this board, but things are getting interesting.”
 

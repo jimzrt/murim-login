@@ -24,7 +24,7 @@ The problem was that no matter how many times I tried, it wouldn’t budge.
 
 *Move. Move!*
 
-As if the thing that had sat there like a boulder this whole time was going to start moving. I tried drawing up my internal energy, but it gave me nothing. I sighed and got to my feet.
+As if something that had sat there like a boulder this whole time was going to start moving now. I tried drawing up my internal energy, but it gave me nothing. I sighed and got to my feet.
 
 “Are we leaving?”
 
@@ -76,7 +76,7 @@ But…
 
 This wasn’t like the others. Just hearing those howls made my chest tighten and my fingertips tingle.
 
-The gut I’d honed over seven years seemed to whisper. Something was beyond that forest, where the sunlight hadn’t reached yet.
+My instincts, honed over seven years, seemed to whisper that something was waiting beyond that forest, where the sunlight had yet to reach.
 
 “Prepare for battle.”
 
@@ -108,7 +108,7 @@ The beasts seemed to understand me. For the next fifteen minutes, the howls cont
 
 Hyuk Mujin glanced at my face.
 
-“From the sound, there must be dozens… Wolves are pack animals, but this is strange.”
+“From the sound of it, there must be dozens… Wolves may be pack animals, but this is strange.”
 
 No sooner had he finished than the pack emerged. Maybe they hadn’t been able to find prey in winter; most of them were so gaunt that their ribs showed. But they were still predators. We couldn’t let our guard down.
 
@@ -118,7 +118,7 @@ And yet, contrary to my thoughts, I felt oddly relieved. The place might be craw
 
 Forget gut feelings—these were easy opponents.
 
-*I skip a few raids and my touch is completely gone.*
+*I skip a few raids and my instincts go completely dull.*
 
 I clicked my tongue and stepped forward. The dozens of wolves charging toward us already looked like chunks of EXP.
 
@@ -128,7 +128,7 @@ I crooked a finger at the wolf leading the pack in the distance. Judging by its 
 
 - Grrrraaaah!
 
-Since when did a wolf roar like a lion? Don’t tell me it was some kind of spirit beast? Was I seriously going to lose to an animal?
+Since when did a wolf roar like a lion? Don’t tell me it was some kind of spirit beast. Was I seriously going to lose to an animal?
 
 *Not happening.*
 
@@ -268,7 +268,7 @@ When I shouted, I felt the air freeze behind me. Jopil smiled as though he alrea
 
 “What difference will telling them who I am make? Second Rate, Third Rate. They’re all idiots and trash.”
 
-He’d read the reconnaissance squad’s level exactly. I almost wondered if he was using the System too.
+He’d gauged the reconnaissance squad’s abilities exactly. It almost made me wonder if he was using the System too.
 
 “Why don’t we have a brief conversation? There’s a great deal I want to ask you.”
 
@@ -278,7 +278,7 @@ He’d read the reconnaissance squad’s level exactly. I almost wondered if he 
 
 “You know what I mean. You’re waiting for your men.”
 
-As if I’d hit the mark, the bridge of Jopil’s nose twitched. Right. I didn’t know why, but he was alone. If I was willing to take a few losses, it might be enough to…
+As though I’d struck a nerve, the bridge of Jopil’s nose twitched. Right. I didn’t know why, but he was alone. If I was willing to accept a few casualties, we might have a chance…
 
 “Waiting? Me? For those pathetic weaklings?”
 
@@ -288,7 +288,7 @@ As if I’d hit the mark, the bridge of Jopil’s nose twitched. Right. I didn�
 
 “…”
 
-“Black Mountain Blade was decent enough, but he had no eye for people, so he deserved to die. I ripped his eyes open before I left. Punishment for failing to recognize a master.”
+“Black Mountain Blade was decent enough, but he had no eye for people, so he deserved to die. I tore out his eyes before I left—his punishment for failing to recognize a master.”
 
 Correction. Jopil, One Question, One Kill, didn’t merely look dangerous.
 
@@ -326,7 +326,7 @@ Sincerity showed on Jopil’s face. Unpredictable psychopath or not, maybe there
 
 “All right.”
 
-Even if the worst came, all I could do was fight. I’d buy a little time and try to read his openings.
+Even if the worst happened, all I could do was fight. I’d buy some time and try to find a weakness.
 
 “Good. A friend who listens to reason, hahaha.”
 
@@ -350,7 +350,7 @@ I’d spent seven years as a Hunter without ever escaping F-rank, yet here in th
 
 I nodded readily.
 
-“Super First Rate at twenty. You wouldn’t be that famous Heaven Shaking Sword, so… your name?”
+“Super First Rate at twenty. You can’t be the famous Heaven Shaking Sword, so… what’s your name?”
 
 “Jin Taekyung.”
 
@@ -390,7 +390,7 @@ He studied me for a while, then said,
 
 “Yes, it was. What an absurd yet fascinating story. A direct descendant of the Jin Family of Taiyuan, with no master, reaching that realm at twenty… My, my.”
 
-My mouth was bone-dry. I gripped the spear and scanned Jopil’s body. The openings on him right now were unbelievable. But was what I was seeing really all there was?
+My mouth was bone-dry. I tightened my grip on the spear and studied Jopil’s body. He seemed to be full of openings. But was what I saw really all there was?
 
 *He could be baiting me into attacking first.*
 
@@ -434,7 +434,7 @@ Jopil looked at me in puzzlement.
 
 “What are you doing?”
 
-“What do you mean? Going back, like you promised…”
+“What do you mean? I’m leaving, just like you promised…”
 
 “I only gave you permission to leave. Alone.”
 
