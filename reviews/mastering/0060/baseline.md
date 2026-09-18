@@ -74,7 +74,7 @@ At the same time—
 
 Tssssss.
 
-Sword Energy surged up, loaded with sixty years of internal energy.
+Sword Energy surged up, loaded with one jiazi of internal energy.
 
 “Are you prepared?”
 
@@ -104,7 +104,7 @@ Calling us melee damage dealers was putting it nicely. Leave the reconnaissance 
 
 I’d gotten attached to the bastards, though. I couldn’t let them die a pointless dog’s death.
 
-“Squad Leeeader!”
+“Caaaptain!”
 
 That one deserved to die, sure.
 
@@ -174,7 +174,7 @@ I had a lot more secrets than the Head Elder knew.
 
 Attacks that used my Inventory.
 
-A Skill that dumped several times my strength into a single blow—One Flash.
+A Skill that dumped several times my strength into a single blow—One Annihilation.
 
 *I never showed them, just in case something like this happened.*
 
@@ -384,7 +384,7 @@ I should have blocked with the spear, but the attack was too unfamiliar to think
 
 I felt rotten.
 
-“Naryeotagon? What a donkey of a man.”[^1]
+“Narye tagon? What a donkey of a man.”[^1]
 
 I spat out the dirt that had gotten in my mouth.
 
@@ -448,4 +448,4 @@ Goooooong.
 
 There was a roar that stuffed the ears.
 
-[^1]: *Naryeotagon* is a martial-arts term for dropping and rolling on the ground to evade an attack; the Head Elder’s remark also compares Taekyung to a donkey.
+[^1]: *Narye tagon* is a martial-arts term for dropping and rolling on the ground to evade an attack; the Head Elder’s remark also compares Taekyung to a donkey.

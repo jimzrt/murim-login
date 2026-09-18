@@ -184,13 +184,13 @@ One thing was certain. Neither the Head Elder nor anyone else in Murim would see
 
 And on top of that…
 
-“Encircling formation. Form up.”
+“Encircling formation. Close in.”
 
 Shff.
 
 Hyuk Mujin and the reconnaissance squad began closing in from every direction.
 
-A flimsy net for a fish as big as the Head Elder.
+It was a flimsy net for a prize as large as the Head Elder.
 
 But with a sharp enough harpoon, we had a chance.
 
@@ -200,7 +200,7 @@ But with a sharp enough harpoon, we had a chance.
 
 The Head Elder smiled, amused.
 
-“What a fearless brat. The kind who only comes to his senses after a beating.”
+“What a fearless child. You need a good beating to knock some sense into you.”
 
 But he never got the chance. A voice suddenly cut in.
 
@@ -256,7 +256,7 @@ The Head Elder had lost his hands and feet.
 
 “Probably.”
 
-The Head Elder nodded readily.
+The Head Elder nodded calmly.
 
 “They always said they wished to die fighting as martial artists. They got their wish. I’m glad.”
 
@@ -282,17 +282,17 @@ Dozens of weapons were drawn at once, all aimed at a single man. It was quite a 
 
 With a tremendous shout, dozens of martial artists charged as one. I was no exception. My grip tightened around my spear, and my chest felt ready to burst.
 
-*We can win. No. We win, no matter what.*
+*We can win. No—we’re going to win.*
 
 It was an all-out melee without the slightest formation. But we had Jin Wikyung, a Peak master, and dozens of martial artists at his back.
 
-*And there’s me.*
+*And we have me.*
 
 The Head Elder had placed too much faith in his own strength. He had committed every last man to the front without keeping even a minimal guard around himself. As a result, the black-clad men were now pinned down by the combined assault of the Jin Family of Taiyuan and the Mount Heng Sword Sect.
 
 The Head Elder…
 
-dies right here.
+would die right here.
 
 *It’s over!*
 
@@ -360,7 +360,7 @@ Each time his sword flashed through the darkness, another life went out. Whereve
 
 Jin Wikyung charged at him in fury. By then, the Head Elder had already killed five people. Yet his pale face remained untouched by so much as a drop of blood, making him look like a ghost.
 
-“You’ve come?”
+“There you are.”
 
 “How dare you!”
 
@@ -382,7 +382,7 @@ Shhk!
 
 I could not see a thing, but instinct told me what it was.
 
-*Internal energy.*
+*Qi.*
 
 It was exactly that—a solid mass of qi.
 
@@ -396,7 +396,7 @@ I should have blocked it with my spear, but the attack was too unfamiliar for me
 
 An unnamed ally paid the price with his life.
 
-I felt rotten.
+I felt sick.
 
 “Narye tagon? You truly are a donkey.”[^1]
 
@@ -414,7 +414,7 @@ Even as he spoke, the Head Elder deflected every one of Jin Wikyung’s Sword En
 
 Thud!
 
-Even then, a fist loaded with internal energy smashed the skull of a martial artist who’d gone for his back.
+At the same time, he drove an internal-energy-laden fist into the head of a martial artist attacking from behind and smashed his skull.
 
 “You’re still twenty years too early.”
 
@@ -430,7 +430,7 @@ A middle-aged warrior whose face looked vaguely familiar lost his head to Sword 
 
 Boom!
 
-A young man with a baby face that might have been twenty had his chest caved in and dropped to his knees.
+A baby-faced young man who could not have been more than twenty dropped to his knees, his chest caved in.
 
 They were not NPCs.
 
@@ -442,7 +442,7 @@ I gritted my teeth.
 
 *I’m sorry.*
 
-I was not apologizing because I lacked the power to stop it. I was apologizing because I had used their deaths.
+I was not apologizing because I lacked the power to save them.
 
 I was apologizing because I had used their deaths.
 
