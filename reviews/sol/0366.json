@@ -1,0 +1,136 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "“Then they should just sweep them away without bothering to look. What kind of pointless nonsense are they doing?”",
+      "defect": "“Without bothering to look” literalizes the idiom 볼 것 없이 and introduces an absent physical action.",
+      "id": "F01",
+      "rationale": "볼 것 없이 means that no consideration or hesitation is necessary, not that they should avoid looking.",
+      "replacement": "“Then they should just wipe them out without a second thought. What kind of pointless nonsense are they doing?”",
+      "severity": "minor",
+      "source": "그럼 볼 것 없이 쓸어 버리면 될 것을. 무슨 헛짓거리들을 하고 있는 거지?"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Then what about First Fiend?”\n\nThe title of First Fiend was the position the First Fiend of the Qilian Three Fiends had taken after entering the Western Heaven Demon Lord’s service.",
+      "defect": "The draft conflates the organizational post 일 단주 with the man’s existing sobriquet, First Fiend, making the explanation tautological and losing the command hierarchy.",
+      "id": "F02",
+      "rationale": "일 단주 names his assigned captaincy, while 일괴 is his separate identity as First Fiend.",
+      "replacement": "“Then what about the First Captain?”\n\nFirst Captain was the post that First Fiend, the eldest of the Qilian Three Fiends, had assumed upon entering the Western Heaven Demon Lord’s service.",
+      "severity": "major",
+      "source": "“그렇다면 일 단주께서는?”\n\n일 단주는 기련삼괴의 첫째, 일괴(一怪)가 서천마군의 휘하로 들어오며 맡게 된 직위였다."
+    },
+    {
+      "confidence": 0.9,
+      "current": "No one has been able to approach him since one of our brothers who went to deliver news about the Heaven-Shaking Thunder had his head cut off.",
+      "defect": "The draft makes the colorful euphemism 목이 달아난 more mechanically explicit than the source.",
+      "id": "F03",
+      "rationale": "“Lost his head” preserves both the fatal meaning and the source’s euphemistic phrasing without specifying how it happened.",
+      "replacement": "No one has been able to approach him since one of our brothers who went to deliver news about the Heaven-Shaking Thunder lost his head.",
+      "severity": "minor",
+      "source": "진천뢰에 관한 소식을 전하러 갔던 형제 하나가 목이 달아난 이후로는 아무도 접근하지 못하고 있다고 합니다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The black-clad man chose his words carefully.",
+      "defect": "The draft changes his action from withholding further speech to carefully selecting what to say.",
+      "id": "F04",
+      "rationale": "말을 아꼈다 means that he restrained himself and kept quiet in fear of First Fiend.",
+      "replacement": "The black-clad man said no more.",
+      "severity": "minor",
+      "source": "흑의인은 말을 아꼈다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "They were all cruel and eccentric. Once they tasted blood, their eyes rolled back like those of evil fiends.",
+      "defect": "The draft changes seeing blood into tasting it and treats 악귀들 as a visual comparison rather than calling the brothers blood-crazed fiends.",
+      "id": "F05",
+      "rationale": "피를 보면 is “at the sight of blood,” while 악귀들 directly characterizes the brothers.",
+      "replacement": "They were all cruel and eccentric, fiends who went wild at the sight of blood.",
+      "severity": "minor",
+      "source": "하나같이 잔인하며 괴팍한 성정을 지닌 그들은 한 번 피를 보면 눈깔이 뒤집히는 악귀들."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Their superior was a Peak master whose fame could have shaken the world. And yet a man with such skill had met his death from a blow they could not even see.",
+      "defect": "The draft turns his ability to win renown anywhere under heaven into an exaggerated claim that his existing fame could shake the world.",
+      "id": "F06",
+      "rationale": "명성을 떨칠 수 있는 describes what his skill could enable him to achieve, not the magnitude of fame he already possessed.",
+      "replacement": "Their superior was a Peak master capable of making a name for himself anywhere under heaven. And yet a man with such skill had met his death from a blow they could not even see.",
+      "severity": "major",
+      "source": "당장 천하 어디에서도 명성을 떨칠 수 있는 절정 고수. 그런 실력을 갖춘 상관이 보이지도 않는 일격에 죽음을 맞이한 것이다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "First Fiend’s mouth fell open as Cheongpung’s One-Stroke Wisdom Sword dismantled the ultimate Red Slaughter Asura Net with such ease.",
+      "defect": "The named technique 一字慧劍 is mistranslated as “One-Stroke Wisdom Sword”; 字 means a written character, not a stroke or attack.",
+      "id": "F07",
+      "rationale": "The supplied hanja fixes the technique’s name as “One-Character Wisdom Sword.”",
+      "replacement": "First Fiend’s mouth fell open as Cheongpung’s One-Character Wisdom Sword dismantled the ultimate Red Slaughter Asura Net with such ease.",
+      "severity": "major",
+      "source": "청풍의 일자혜검(一字慧劍)이 극성의 적살수라망을 너무나도 쉽게 파훼하는 모습에, 일괴는 입을 딱 벌렸다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“It just showed itself to me.”",
+      "defect": "The draft changes Cheongpung’s ability to perceive the weakness into the weakness actively revealing itself.",
+      "id": "F08",
+      "rationale": "보인 건데 expresses that it was simply visible to Cheongpung, consistent with his explanation that repeated observation produces understanding.",
+      "replacement": "“I could just see it.”",
+      "severity": "minor",
+      "source": "“그건 그냥 보인 건데.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "With more than a jiazi of internal energy added to it, its strength seemed capable of splitting heaven and earth.",
+      "defect": "The draft reduces the stated quantity from more than two jiazi to more than one jiazi.",
+      "id": "F09",
+      "rationale": "이 갑자 uses the Sino-Korean numeral 이, meaning two; omitting it halves the explicitly stated lower bound on First Fiend’s internal energy.",
+      "replacement": "With more than two jiazi of internal energy added to it, its strength seemed capable of splitting heaven and earth.",
+      "severity": "critical",
+      "source": "거기에 이 갑자가 넘는 공력이 더해지니, 그 힘이 하늘과 땅을 쪼갤 듯했다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "First Fiend hurriedly scattered the axes in both hands like lightning in response to the sword strike that came without warning.",
+      "defect": "“Scattered the axes” is unnatural and can imply that he released or dropped the weapons rather than rapidly wielding them.",
+      "id": "F10",
+      "rationale": "흩뿌렸다 describes unleashing rapid, wide-ranging movements with the axes, not scattering the weapons themselves.",
+      "replacement": "First Fiend hurriedly whirled the axes in both hands like lightning against the sword strike that came without warning.",
+      "severity": "minor",
+      "source": "예고 없이 들어온 일검에 일괴는 황급히 두 손에 든 도끼를 벼락처럼 흩뿌렸다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "With blood spreading like mist, First Fiend staggered backward, his whole body slashed to pieces.",
+      "defect": "“Slashed to pieces” suggests dismemberment or bodily destruction, although the source says he was extensively lacerated and remains standing and speaking.",
+      "id": "F11",
+      "rationale": "전신이 난자된 denotes numerous cuts across his body, not that his body was physically reduced to pieces.",
+      "replacement": "With blood spreading like mist, First Fiend staggered backward, his entire body covered in slashes.",
+      "severity": "major",
+      "source": "안개처럼 퍼져 나가는 피와 함께, 전신이 난자된 일괴는 비틀거리며 뒷걸음질 쳤다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Who’s there! Is anyone there? Hurry! Take this brat—!”",
+      "defect": "“Who’s there!” makes First Fiend challenge an unknown arrival, whereas he is desperately calling for anyone nearby to help him.",
+      "id": "F12",
+      "rationale": "The surrounding action and 거기 누구 없느냐 show that 누구 is a cry for assistance, not a demand that an intruder identify himself.",
+      "replacement": "“Anyone! Is there no one out there? Hurry, get this bastard…!”",
+      "severity": "major",
+      "source": "“누구! 거기 누구 없느냐! 어서 당장 이놈을……!”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Cheongpung flicked the blood from his sword and stared at *him*, standing motionless with a hardened expression.",
+      "defect": "The participial phrase ambiguously assigns both the rigid stance and the hardened expression to the unidentified man; in the source, Cheongpung has the hardened expression while the other man is standing there.",
+      "id": "F13",
+      "rationale": "굳은 얼굴로 modifies Cheongpung’s act of looking, while 우뚝 서 있는 modifies ‘그’.",
+      "replacement": "Cheongpung flicked the blood from his sword, then stared with a rigid expression at *him*, standing tall before him.",
+      "severity": "major",
+      "source": "검을 휘둘러 피를 털어 낸 청풍이 굳은 얼굴로 우뚝 서 있는 ‘그’를 바라봤다."
+    }
+  ],
+  "summary": "The draft contains one critical quantity error, several altered actions or subjects, a lost rank distinction, and localized terminology and register issues.",
+  "version": 1
+}

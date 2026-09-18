@@ -1,32 +1,32 @@
 # Translation State
 
-- Last completed: 365
-- Next chapter: 366
-- Current block: 365–369 (1/5)
-- Latest translation: `translations/0365.md`
-- Latest summary: `summaries/beats/0365.md`
-- Safe profiles through: chapter 365
+- Last completed: 366
+- Next chapter: 367
+- Current block: 365–369 (2/5)
+- Latest translation: `translations/0366.md`
+- Latest summary: `summaries/beats/0366.md`
+- Safe profiles through: chapter 366
 
 ## Current Block
 
-- Jin Taekyung breaks through to the Supreme Peak realm, advances the Fire Gate Divine Technique and Fire Dragon Divine Spear to the eighth stage, and manifests Force for the first time. He and Jeok Cheongang combine their attacks to severely injure the Western Heaven Demon Lord.
-- The Lord of Heaven temporarily possesses the Western Heaven Demon Lord's body, but Taekyung uses One Annihilation to destroy the borrowed body. The possessing entity escapes after promising to return. Taekyung collapses from exhaustion, Jeok catches him, and the underground prison begins to collapse.
+- The Dark Heaven assault on the Sichuan Tang Clan stalls because surviving Tang Clan martial artists activate mechanism formations and use hidden Heaven-Shaking Thunder, while the attacks on Emei and Qingcheng also encounter complications. The Western Heaven Demon Lord has gone to the underground prison, and First Fiend is fighting Cheongpung in the Inner Hall.
+- Cheongpung rapidly perceives, dismantles, and begins reproducing First Fiend’s martial arts, grievously wounding him with the Thirty-Six Plum Blossom Swords. An unidentified newcomer kills the gate captain with an invisible strike, then appears before Cheongpung without disturbing the rain and beheads First Fiend; Cheongpung identifies the newcomer as Mungyeong.
 
 ## Open Questions
 
-- What is the true nature and purpose of the Lord of Heaven, and did the Western Heaven Demon Lord survive the possession?
-- What is the full nature and purpose of the Myriad-Poison Ring?
-- Can the Divine Physician survive after losing his dantian and martial arts?
-- What is the actual outcome of the attacks on the Tang Clan, Qingcheng, and Emei?
-- Can Cheongpung and the others survive or escape the collapsing underground prison?
+- What is the true nature and purpose of the Lord of Heaven, and what happened to the Western Heaven Demon Lord after he went to the underground prison?
+- Why has Mungyeong arrived at the besieged Sichuan Tang Clan, and what is his relationship to the current conflict?
+- What is the outcome of the Dark Heaven operation at Qingcheng?
+- Can Emei’s defenders and the intervening Beggars’ Sect disciples survive the assault?
+- Can the Divine Physician and the remaining Tang Clan prisoners survive the collapsing underground prison?
 
 ## Exceptional Decision
 
-- Render 신물 as sacred treasure.
-- Render 이기어검 as Qi-Controlled Sword or the art of controlling a sword with qi.
-- Render 화신귀무 as Dance of the Fire God and Demon, 겁화 as hellfire, and 초절정 as Supreme Peak.
-- Preserve Jin Taekyung's vulgar, self-mocking voice and Jeok Cheongang's rough, profane protective voice.
-- Use established renderings for White Flame, Seizing an Object Through Empty Space, Sword Force, Scorching Yang Qi, and underground prison.
+- Use Red Slaughter Demon and Red Slaughter Asura Net for 적살마 and 적살수라망.
+- Use Red Slaughter Eighteen Axes and Red Slaughter Eighteen Swords for 적살십팔부 and 적살십팔검.
+- Use First Captain for 일 단주 and deputy captain for 부단주.
+- Use mechanism array for 기관진법.
+- Maintain Cheongpung’s dreamy, childlike speech while rendering his copied techniques precisely.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
