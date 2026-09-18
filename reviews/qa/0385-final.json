@@ -1,0 +1,63 @@
+{
+  "chapter": 385,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.225,
+    "source_characters": 6898,
+    "source_paragraphs": 199,
+    "translation_characters": 15349,
+    "translation_paragraphs": 205
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "사형",
+        "preferred": "Senior Brother"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "대사",
+        "preferred": "Master for a senior Buddhist monk"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "주신",
+        "preferred": "God of Drinking"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "개봉",
+        "preferred": "Kaifeng"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "국방부",
+        "preferred": "Ministry of National Defense"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}

@@ -580,3 +580,11 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 매직 존슨 | new_acquaintance_to_international_s_rank_ally | Magic Johnson | polite-excited | Jin recognizes the Archmage by name and addresses him directly. |
 | 중국인 사내 | 진태경 | international_s_rank_hunter_to_foreign_a_rank_hunter | Peninsula bangzi | insulting-contemptuous | The unidentified young Chinese Hunter mocks Jin's Lord Fuck nickname and A-rank status. |
 | 진태경 | 중국인 사내 | foreign_a_rank_hunter_to_hostile_s_rank_hunter | Mainland chink bastard | insulting-retaliatory | Jin immediately responds to the Chinese Hunter's insult with a matching ethnic slur. |
+| 우헤이싱 | 진태경 | hostile S-rank Hunter to foreign Hunter and provocation target | peninsula bangzi | insulting and confrontational | Wu repeatedly addresses Jin with anti-Korean slurs. |
+| 파이 첸 | 진태경 | older S-rank Hunter and Great Cataclysm hero to younger Hunter | you | casual, teasing, and composed | Faye addresses Jin while moderating his exchange with Wu and commenting on his identity. |
+| 진태경 | 파이 첸 | younger Hunter to older S-rank Hunter and former film star | Ms. Chen | polite, playful, and familiar | Jin first uses Ms. Faye Chen and then accepts her request to use Chen. |
+| 최 팀장 | 진태경 | team leader supervising a younger allied Hunter | Mr. Jin | formal and corrective | Choi addresses Jin while correcting the details of Wu's drug scandal. |
+| 필릭스 알렉산더 루이 | 진태경 | British prince to foreign Hunter he regards as lowborn | you there | formal, patronizing, and ceremonially benevolent | Felix addresses Jin before explaining his supposed egalitarian principles and demanding a hand-kiss. |
+| 매직 존슨 | 진태경 | senior international S-rank Hunter to younger Hunter and acquaintance | Jin | casual and joking | Magic Johnson first uses Jin's online nickname and then switches to Jin at Taekyung's request. |
+| 진태경 | 매직 존슨 | younger Hunter to senior international S-rank Hunter | Johnson | casual and teasing | Jin directly addresses Magic Johnson while rejecting the proposed hand-kiss. |
+| 윌리엄 | 필릭스 알렉산더 루이 | formal attendant to British prince | His Highness Prince Felix | formal-deferential | William repeatedly recites Felix's full titles and speaks on his behalf. |

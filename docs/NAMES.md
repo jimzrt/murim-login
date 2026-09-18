@@ -1355,3 +1355,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 레이페이 | **Lei Fei** | Concealed Chinese S-rank Hunter and head of the Public Security Armed Forces Department in Sichuan Province. |
 | 가오핑구 | **Gaoping District** | District of Nanchong City where the Sichuan Monster Wave began. |
 | 매직 존슨 | **Magic Johnson** | One of the world's three Archmages and its most combat-oriented War Mage. |
+| 파이 첸 | **Faye Chen** | S-rank Hunter, Great Cataclysm hero, and former romance-film star. |
+| 우헤이싱 | **Wu Heixing** | Chinese S-rank Hunter who provokes Jin and nearly draws his sword. |
+| 필릭스 알렉산더 루이 | **Felix Alexander Louis** | British prince, third in line to the throne. |
+| 윌리엄 | **William** | Prince Felix's formal attendant or secretary. |

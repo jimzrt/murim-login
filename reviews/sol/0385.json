@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "With his frequent media appearances, he was one of the most well-known S-rank Hunters in the world. There was no way I didn’t know him.",
+      "defect": "The draft changes a specific ranking in frequency of media exposure—first or second among S-rank Hunters—into a broader claim about worldwide fame.",
+      "id": "F01",
+      "rationale": "The source explicitly quantifies Wu Heixing’s media exposure as competing for first or second place among S-rank Hunters; it does not rank his overall fame worldwide.",
+      "replacement": "When it came to frequent media appearances, he vied for first or second place even among S-rank Hunters, so there was no way I wouldn’t know him.",
+      "severity": "major",
+      "source": "잦은 미디어 노출로는 S급 헌터 중에서도 1, 2위를 다투는 놈이니 모를 수가 없다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "There were even frequent rumors that she had washed her identity and was living a new life somewhere beneath the surface.",
+      "defect": "“Somewhere beneath the surface” is incorrectly attached to where Faye Chen lives, creating an unintended underground or underwater location. In the source, 수면 아래에서는 describes rumors circulating outside public view.",
+      "id": "F02",
+      "rationale": "The source says reports circulated beneath the public surface that she had laundered her identity and begun a new life; it does not say that the new life itself was located beneath the surface.",
+      "replacement": "Behind the scenes, there were even frequent rumors that she had assumed a new identity and started a new life.",
+      "severity": "major",
+      "source": "수면 아래에서는 신분을 세탁한 뒤 새로운 삶을 살고 있다는 소식도 심심찮게 들려올 정도였다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Oh, my? When was that? Still, it’s nice to meet someone who remembers it.”",
+      "defect": "“When was that?” reads as a literal request for the date, while the Korean is a rhetorical remark that the film was a very long time ago.",
+      "id": "F03",
+      "rationale": "언제 적 이야기니 expresses nostalgic distance—roughly “that was so long ago”—rather than uncertainty about when the film was released.",
+      "replacement": "“Oh, my. That was ages ago. Still, it’s nice to meet someone who remembers it.”",
+      "severity": "minor",
+      "source": "「어머? 그게 도대체 언제 적 이야기니. 그래도 그걸 기억해 주는 사람을 만나니까 반갑네.」"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Come to think of it, there’s something else. Five years ago, you drugged a woman at some club called Burning Moon or whatever and got caught sexually assaulting her. How did you get acquitted?",
+      "defect": "The draft adds that the victim was a woman, although the Korean omits the victim’s identity and gender.",
+      "id": "F04",
+      "rationale": "The source leaves the object of 약 타서 and 성폭행 저지르다가 unstated. Supplying a female victim introduces information not present in the chapter.",
+      "replacement": "“Come to think of it, there’s something else. Five years ago, you got caught drugging someone and sexually assaulting them at some club called Burning Moon or whatever. How did you get acquitted?",
+      "severity": "major",
+      "source": "“생각해 보니까 또 있네. 5년 전에 버닝문인가 뭔가 하는 클럽에서 약 타서 성폭행 저지르다가 걸렸던 거. 그거 어떻게 무죄 받았냐?"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Stop going on about bangzi already. Even the national anthem gets tiring by the second verse. I’m giving you the same consideration.”",
+      "defect": "The last sentence obscures Taekyung’s warning that his willingness to go easy on Wu Heixing is also wearing thin. “Giving you the same consideration” instead sounds like continued courtesy.",
+      "id": "F05",
+      "rationale": "내가 너 봐주는 것도 마찬가지고 directly compares the tiring repetition to Taekyung’s increasingly limited willingness to spare or indulge him.",
+      "replacement": "“Stop going on about bangzi already. Even the national anthem gets tiring by the second verse. The same goes for me going easy on you.”",
+      "severity": "major",
+      "source": "“그놈의 빵즈 타령 그만하지. 애국가도 2절부터는 힘들다. 내가 너 봐주는 것도 마찬가지고.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Come on. You’re too old to call it cute, but you’ve eaten too many years to get away with it.”",
+      "defect": "“You’ve eaten too many years” is an unnatural literal calque, and the sentence redundantly states the same age point twice.",
+      "id": "F06",
+      "rationale": "나이를 너무 처먹었다 is a profane way to say someone is far too old for such behavior; natural English should preserve both the meaning and vulgar register without calquing 처먹다.",
+      "replacement": "“Come on. You’re way too fucking old for me to call this cute.”",
+      "severity": "minor",
+      "source": "“거 참. 이걸 귀엽다고 하기에는 나이를 너무 처먹었고.”"
+    }
+  ],
+  "summary": "Several localized fidelity issues alter a quantified fact, the attachment of an idiom, an intentionally omitted subject, and Taekyung’s warning; two additional lines need natural-English correction.",
+  "version": 1
+}
