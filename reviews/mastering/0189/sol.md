@@ -26,7 +26,7 @@
 
 *Wow. This is bullshit.*
 
-Of course, the penalty for refusing would suck twice as much.
+Of course, the penalty for refusing was twice as bad.
 
 *Not like I have a choice.*
 
@@ -92,7 +92,7 @@ With more than a thousand people gathered around the Grand Training Ground watch
 
 At Baek Museong’s words, Jin Wikyung shook his head.
 
-“My younger brother has already accepted the Defeated Flower Fist's challenge. The duel will end after that.”
+“My youngest brother has already accepted the Defeated Flower Fist’s challenge. The duel will end only after they’ve fought.”
 
 “Great Hero Jin.”
 
@@ -108,7 +108,7 @@ From what Baek Museong could see, Chulwoo was absolutely furious. He looked read
 
 They had to stop this now. Baek Museong had heard more than enough rumors about the Sleeping Dragon of Shanxi on the journey here, but in his eyes, Jin Taekyung was no match for his Second Junior Brother.
 
-The names Defeated Flower Fist and Three Plum Blossom Elites had not been earned through his Master's reputation alone.
+Chulwoo hadn’t earned the names Defeated Flower Fist and Three Plum Blossom Elite merely by basking in his Master’s reputation.
 
 “He could be seriously injured. Shouldn’t we intervene before something happens?”
 
@@ -126,7 +126,7 @@ They were simply operating under different assumptions.
 
 “That’s right.”
 
-Jin Wikyung gave a low laugh. His gaze remained fixed on the back of his younger brother as he walked toward the dueling platform.
+Jin Wikyung laughed quietly, his gaze fixed on his youngest brother’s back as he approached the dueling platform.
 
 “That boy will win. Just as he always has.”
 
@@ -176,7 +176,7 @@ I shrugged.
 
 “Did you get rejected before you could even confess?”
 
-“Who got rejected!”
+“Who got rejected?”
 
 Chulwoo shouted, his face flushed.
 
@@ -190,7 +190,7 @@ There were limits to how much you could speed things up. They hadn’t even know
 
 As Cheongpung had said, even if a goose brought them by rocket delivery, it would take half a day. And since there were three children, they’d have to come as a bundle.
 
-“It's fine to spread your imagination's wings, but leave me out of it. I don't have anything to do with this Young Lady, so this is unfair.”
+“Spread the wings of your imagination all you want, but leave me out of it. Young Lady Lee and I aren’t involved, so I’m being blamed for nothing here.”
 
 “Nonsense! I saw the way she looked at you!”
 
@@ -198,7 +198,7 @@ As Cheongpung had said, even if a goose brought them by rocket delivery, it woul
 
 “It was… It was… Urgh.”
 
-Unable to continue, Chulwoo groaned and widened his eyes.
+Unable to bring himself to continue, Chulwoo groaned and glared at me.
 
 “I promise you this. You won’t be leaving here on your own two feet.”
 
@@ -208,7 +208,7 @@ Unable to continue, Chulwoo groaned and widened his eyes.
 
 With a roar, Chulwoo charged.
 
-I swung my spear shaft at the punch flying toward me with a fierce aura.
+I swung my spear shaft at the fist hurtling toward me with ferocious force.
 
 *Whoosh! Boom!*
 
@@ -232,7 +232,7 @@ I held my breath and swung my spear. The paths of the gauntlets and spearhead in
 
 *Clang-clang-clang!*
 
-I pressured him with the spear's advantage in reach, while Chulwoo pressured me with his natural reflexes and strength.
+I pressured him with the spear’s superior reach, while Chulwoo countered with his innate reflexes and strength.
 
 *Whoosh!*
 
@@ -254,7 +254,7 @@ A spearman without his spear was no better than a scarecrow with its eyes open.
 
 Of course…
 
-*I expected this much.*
+*I saw this coming.*
 
 I released my grip and charged at Chulwoo. The triumph on his face turned to shock.
 
@@ -286,7 +286,7 @@ Chulwoo finally overcame the pain and straightened up. The moment I saw him, a q
 
 “Your nose is bleeding.”
 
-“You’re really dead—what? A nosebleed?”
+“You’re fucking dead—what? My nose?”
 
 He hurriedly wiped the bridge of his nose with the back of his hand, and his face twisted in outrage.
 
@@ -294,7 +294,7 @@ He hurriedly wiped the bridge of his nose with the back of his hand, and his fac
 
 “It’s fine. You’re so ugly, no one will notice.”
 
-“That makes it worse! Won't I become even uglier now?”
+“That makes it worse! Now I’ll be even uglier!”
 
 “…”
 
@@ -306,7 +306,7 @@ Chulwoo let out a furious roar, his eyes flashing.
 
 “For my Senior Brother’s sake, I was going to end this without going too far… But not anymore.”
 
-“Do it properly. That's why I came out here.”
+“Go all out. That’s why I came up here.”
 
 “Fine. I’ll fight you seriously.”
 
@@ -358,7 +358,7 @@ I let out a quiet laugh.
 
 “What? A draw?”
 
-“Yeah. On the condition that you stop hitting on this Young Lady.”
+“Yeah. On the condition that you stop hitting on Young Lady Lee.”
 
 “You lunatic.”
 
@@ -370,7 +370,7 @@ I strode toward him, casually swinging the steel flute that could no longer be c
 
 A spearman was fearlessly approaching a master of fist-and-foot martial arts—and without even a proper weapon in his hands.
 
-The crowd surrounding the Grand Training Ground began to murmur at the sight.
+The crowd surrounding the Grand Training Ground began to murmur.
 
 Chulwoo frowned as though he were looking at some bizarre creature.
 
@@ -404,7 +404,7 @@ The System responded.
 >
 > **Level 71 Jin Taekyung**
 >
-> **Class:** Peak Master
+> **Occupation:** Peak Master
 >
 > **Fame:** 2,500 (+250)
 >
@@ -473,7 +473,9 @@ Chulwoo, not me, was the first to close the remaining ten paces.
 
 *Whoosh!*
 
-I knew this martial art. It was called Crouching Tiger Fist because it was said to subdue tigers.
+I knew this martial art.
+
+The Crouching Tiger Fist, named for its power to subdue even a tiger.
 
 Just as its ferocious opening strike was about to slam into my chest—
 
