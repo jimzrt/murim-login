@@ -1132,3 +1132,9 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 낭중지추 | **needle in a bag** | Idiom meaning exceptional talent eventually reveals itself. |
 | 송표산 | **Song Pyosan** | Song Ilseom's father. |
 | 여사 | **Lady** | Taekyung's joking sobriquet for Kim Jeonghee. |
+| 만리표 | **Ten-Thousand-Mile Escorts** | The Escort King’s famed escort missions. |
+| 검동 | **sword boy** | Young attendant hired by wandering martial artists to carry swords and perform dangerous errands. |
+| 만천화우 | **Rain of Ten Thousand Flowers** | Named technique invoked jokingly for rice sprayed from Gung Gibang’s mouth. |
+| 송옥 | **Song Yu** | Ancient Chinese poet invoked in Gung Gibang’s beauty boast. |
+| 피카소 | **Picasso** | Modern painter invoked in the comparison for Gung Gibang’s face. |
+| 추혼객 | **Soul-Chasing Guest** | Song Ilseom’s former epithet; he was known by it ten years earlier. |

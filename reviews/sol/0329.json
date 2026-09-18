@@ -1,0 +1,106 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "As I said, the Guangdong Chen Family’s bloodline has already died out.",
+      "defect": "“Bloodline” incorrectly claims that the family’s biological descendants are extinct even though Song Ilseom has just revealed that he is one of them. 명맥 here refers to the family’s continuing institutional line or existence.",
+      "id": "F01",
+      "rationale": "The source says the family’s 명맥 was severed, not that no biological descendants remain.",
+      "replacement": "As I said, the Guangdong Chen Family ceased to exist long ago.",
+      "severity": "critical",
+      "source": "말했듯이 광동진가의 명맥은 이미 끊겼다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Greed makes no distinction between the orthodox factions and demonic, heterodox arts.",
+      "defect": "The current sentence incorrectly places organizations and martial arts in parallel as things distinguished by greed. The source means greedy people exist on both sides.",
+      "id": "F02",
+      "rationale": "This preserves the established terminology while restoring the source’s contrast between people belonging to the orthodox and heterodox sides.",
+      "replacement": "Greed does not discriminate between members of orthodox factions and practitioners of demonic, heterodox arts.",
+      "severity": "minor",
+      "source": "탐욕은 정파와 사마외도를 가리지 않는다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "His mother had fled to protect her child from the greed of others. Without telling anyone.",
+      "defect": "The possessive changes the woman’s identity. 어머니 refers back to the mother in the previously mentioned mother-and-child pair—Song Ilseom’s grandmother fleeing with his infant father—not Song Ilseom’s own mother.",
+      "id": "F03",
+      "rationale": "The immediately preceding 모자 identifies the pair as Song Ilseom’s grandmother and father.",
+      "replacement": "The mother had fled to protect her child from the greed of others. Without telling anyone.",
+      "severity": "critical",
+      "source": "어머니는 사람들의 탐욕으로부터 자식을 지키기 위해 도망쳤다. 아무에게도 알리지 않고."
+    },
+    {
+      "confidence": 0.98,
+      "current": "A rain of hidden weapons keeps pouring from his mouth. I thought perhaps he was a disciple of the Sichuan Tang Clan.",
+      "defect": "The translation replaces the named Rain of Ten Thousand Flowers technique with a generic description, weakening the joke that Gung Gibang’s sprayed rice resembles a famous Tang Clan hidden-weapon technique.",
+      "id": "F04",
+      "rationale": "만천화우 is a named technique allusion whose wording directly motivates the Sichuan Tang Clan comparison.",
+      "replacement": "A Rain of Ten Thousand Flowers keeps pouring from his mouth. I wondered if he might be a disciple of the Sichuan Tang Clan.",
+      "severity": "major",
+      "source": "주둥이에서 만천화우(滿天花雨)가 쏟아지길래. 혹시 사천당문의 제자인가 싶어서."
+    },
+    {
+      "confidence": 0.99,
+      "current": "On the days when a wandering martial artist, too busy saving his own life, abandoned him and fled, Song Ilseom experienced nothing short of hell.",
+      "defect": "The plural “days” turns one specific abandonment—the incident elaborated immediately afterward—into a recurring event.",
+      "id": "F05",
+      "rationale": "The singular 날 and the following account of hiding among corpses for four days identify one specific incident.",
+      "replacement": "When the wandering martial artist abandoned him and fled because he was too busy saving his own life, Song Ilseom experienced nothing short of hell.",
+      "severity": "minor",
+      "source": "낭인이 제 목숨 건사하기 바빠 그를 버리고 도망쳤던 날에는 그야말로 지옥을 경험해야 했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "If he had been First Rate, do you think I would have attacked him for no reason?",
+      "defect": "“For no reason” invents a question about motive. Song Ilseom instead says he would have had to be insane to attack a First Rate opponent, emphasizing his pragmatic assessment of the danger.",
+      "id": "F06",
+      "rationale": "미쳤다고 덤볐겠나 is a rhetorical denial that he would recklessly challenge an opponent that strong, not a denial of having a reason.",
+      "replacement": "If he’d been First Rate, do you think I’d have been crazy enough to take him on?",
+      "severity": "major",
+      "source": "일류였다면 내가 미쳤다고 덤볐겠나."
+    },
+    {
+      "confidence": 1.0,
+      "current": "It was a solid, elongated wooden case. I had already seen one like it at the smithy.",
+      "defect": "The location is changed from a teahouse to a smithy, introducing a scene fact absent from the source.",
+      "id": "F07",
+      "rationale": "다루 is a teahouse, not a smithy.",
+      "replacement": "It was a solid, elongated wooden case, one I had already seen at the teahouse.",
+      "severity": "critical",
+      "source": "단단하고 길쭉한 목함이다. 이미 다루에서 한 번 본 적 있는."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Great Hero Jin.”\n\n“Yes, Young Lady Ju?”\n\n“Can I really do this?”",
+      "defect": "The question is changed from whether Ju Hwaran can perform her responsibilities well to whether she can do an unspecified thing at all.",
+      "id": "F08",
+      "rationale": "잘할 수 있을까요 asks whether she will be able to do well, preserving her anxiety about living up to her responsibilities.",
+      "replacement": "“Great Hero Jin.”\n\n“Yes, Young Lady Ju?”\n\n“Do you think I can do well?”",
+      "severity": "major",
+      "source": "“진 대협.”\n\n“네. 주 소저.”\n\n“나, 잘할 수 있을까요?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Can I really do this?”\n\nI suddenly opened my mouth.",
+      "defect": "The repeated question again loses the emphasis on whether she can do well rather than merely whether she can act.",
+      "id": "F09",
+      "rationale": "The repetition of 잘할 수 있을까요 reinforces Ju Hwaran’s fear of failing, which Taekyung answers directly with 못해도 괜찮아요.",
+      "replacement": "“Do you really think I can do well?”\n\nI suddenly opened my mouth.",
+      "severity": "major",
+      "source": "“정말, 잘할 수 있을까요?”\n\n나는 문득 입을 열었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Young Lady Ju, you’re a person too. It’s okay if you can’t do it. And it’s okay if you don’t have the strength to keep going.",
+      "defect": "The translation changes voluntary permission not to force herself to stay strong into an inability to continue, and “can’t do it” fails to answer her concern about not doing well.",
+      "id": "F10",
+      "rationale": "못해도 means she is allowed to do poorly or fail, while 힘내지 않아도 괜찮아요 tells her she need not make herself stay strong; neither phrase says she lacks the strength to continue.",
+      "replacement": "Young Lady Ju, you’re only human too. It’s okay if you don’t do well, and it’s okay not to force yourself to stay strong.",
+      "severity": "major",
+      "source": "주 소저도 사람이잖아요. 못해도 되고, 힘내지 않아도 괜찮아요."
+    }
+  ],
+  "summary": "Several actionable fidelity errors alter lineage, a referent, a location, and Ju Hwaran’s central emotional question; additional issues affect causality, quantity, terminology, and a named martial-arts joke.",
+  "version": 1
+}

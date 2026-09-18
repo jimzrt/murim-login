@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "My mother was saved with the help of Escort King Ju Gongsan",
+      "defect": "This identifies the rescued woman as Song Ilseom’s mother, contradicting the jade-hairpin timeline, Chapter 329, the checkpoint summary, and active continuity, all of which establish that she was his grandmother and that the infant was his father, Song Pyosan.",
+      "id": "C01",
+      "rationale": "The correction restores the established three-generation relationship without changing the surrounding account.",
+      "replacement": "My grandmother was saved with the help of Escort King Ju Gongsan",
+      "severity": "major",
+      "source": "Chapter 328, Song Ilseom explaining his connection to the Guangdong Chen Family"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Hyuk Mujin had admired the Murim even before becoming part of the Taiyuan Jin Family, so of course he knew the stories about him. Even Cheongpung pretended to know him, claiming that the Sword Saint had told him about Song Ilseom.",
+      "defect": "The antecedent and reported claim contradict the dialogue immediately below: Cheongpung says the Sword Saint told him about the Escort King, not Song Ilseom, whose identity has only just been revealed.",
+      "id": "C02",
+      "rationale": "This aligns the narration with Cheongpung’s ensuing statement and keeps the reveal focused on Song Ilseom’s connection to the familiar Escort King story.",
+      "replacement": "Hyuk Mujin had admired the Murim even before becoming part of the Taiyuan Jin Family, so of course he knew the story. Even Cheongpung pretended to know it, claiming that the Sword Saint had told him about the Escort King.",
+      "severity": "major",
+      "source": "Chapter 329, opening paragraphs after Song Ilseom reveals the jade hairpin"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Merely meeting Jin Taekyung’s gaze and hearing his low voice bore into his ears was enough to make Hwangcheon’s breath catch.",
+      "defect": "The coordination is grammatically malformed: “hearing” cannot take “his low voice bore” as written.",
+      "id": "C03",
+      "rationale": "The replacement preserves the gaze, the physically oppressive voice, and Hwangcheon’s reaction while restoring natural syntax.",
+      "replacement": "Merely meeting Jin Taekyung’s gaze while his low voice bored into his ears was enough to make Hwangcheon’s breath catch.",
+      "severity": "minor",
+      "source": "Chapter 325, Hwangcheon reacting to Jin Taekyung’s pressure"
+    },
+    {
+      "confidence": 1.0,
+      "current": "……Senior Brother?",
+      "defect": "The line uses a doubled East Asian-style ellipsis rather than the required single ellipsis character, reflecting formatting drift in the early chapters of the packet.",
+      "id": "C04",
+      "rationale": "The replacement conforms to the packet’s binding ellipsis rule and the formatting used elsewhere in the reading copies.",
+      "replacement": "…Senior Brother?",
+      "severity": "minor",
+      "source": "Chapter 325, Hwangcheon addressing Hyuk Sopyung"
+    },
+    {
+      "confidence": 0.98,
+      "current": "The name Taeeul Merciless Sword represented the Zhongnan Sect, and on a personal level, he was also the Sect Leader’s Senior Brother.",
+      "defect": "“Senior Brother” is capitalized as though it were direct address, unlike the same descriptive relationship in Chapter 325 and the packet’s normal title treatment.",
+      "id": "C05",
+      "rationale": "Lowercase is appropriate for a descriptive kinship relationship and restores internal capitalization consistency.",
+      "replacement": "The name Taeeul Merciless Sword represented the Zhongnan Sect, and on a personal level, he was also the Sect Leader’s senior brother.",
+      "severity": "minor",
+      "source": "Chapter 326, Jin Taekyung considering the consequences of killing Hwangbo Eom"
+    }
+  ],
+  "summary": "The packet is broadly coherent and preserves the major hooks, but it contains two identity-continuity contradictions, one malformed sentence, and minor formatting and title-capitalization drift.",
+  "version": 1
+}
