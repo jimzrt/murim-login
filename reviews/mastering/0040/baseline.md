@@ -66,7 +66,7 @@ He tossed out the line with zero soul and slurped up his noodles, looking comple
 
 “Then why are you here?”
 
-“What, has it only been a day or two?”
+“Is this anything new?”
 
 That actually sounded plausible. I almost bought it.
 
@@ -116,7 +116,7 @@ He looked thoroughly fed up. But this time, I had something to back me up.
 
 “Yeah. It was inside that capsule. Read it.”
 
-“You stuck this in a piece of junk more than twenty years old before throwing it away?”
+“Someone left this inside when they threw out a piece of junk more than twenty years old?”
 
 Jinho hyung tilted his head, then started reading. A few seconds later, he looked up.
 

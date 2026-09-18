@@ -4,7 +4,7 @@ I was flying through the sky. With my enormous wings spread wide, I cut through 
 
 Far below lay a high, steep gorge shaped like a bottle gourd. Hundreds of people stood within it.
 
-A man standing at the center shouted at the top of his lungs.
+A man at the center shouted at the top of his lungs.
 
 “Don’t fight for the Jin Family of Taiyuan!”
 
@@ -18,7 +18,7 @@ He drew his sword and roared.
 
 “Stand and face them like martial artists! I will do the same!”
 
-Hundreds of weapons were drawn in unison. The man strode forward and took the lead. The cloud of dust crossing the gorge scattered, revealing countless people.
+Hundreds of weapons were drawn in unison. The man strode forward and took the lead. The dust cloud filling the gorge scattered, revealing countless people.
 
 — Waaaaah!
 
@@ -40,7 +40,7 @@ I desperately flapped my wings—or rather, my arms—before realizing what had 
 
 Thank god. I thought I was a goner.
 
-Thank god. I thought I was a goner. Only after catching my breath did the situation in the room come into focus.
+Only after I caught my breath did my surroundings come into focus.
 
 — This is a breaking news report. A new Gate has appeared at Exit 3 of Hapjeong Station. Mana measurements have confirmed it as a C-rank Gate, and…
 
@@ -78,7 +78,7 @@ That actually sounded plausible. I almost bought it.
 
 “…”
 
-Anyway, that bastard had one hell of a mouth on him.
+That bastard really did have one hell of a mouth on him.
 
 “If you’ve got nothing to say, eat some ramen. I cooked five packs because I thought you might wake up.”
 
@@ -86,7 +86,7 @@ Talk about foresight. I took the chopsticks from him, overcome with emotion.
 
 This wasn’t just ordinary ramen. It was my first ramen in a month.
 
-The smell that pulled at my appetite. Noodles cooked just right. Broth boiled spicy with separately sliced Cheongyang peppers.
+The mouthwatering smell. The perfectly cooked noodles. The spicy broth, simmered with freshly sliced Cheongyang peppers.
 
 *This is insane. Absolutely insane.*
 
@@ -96,7 +96,7 @@ By the time I came to my senses, it was all over. Jinho stared blankly as I lick
 
 “I thought you were filming a commercial. Have you never eaten ramen in your life?”
 
-“It’s my first ramen since I came back.”
+“It’s my first bowl since I came back.”
 
 “Are you still on that?”
 
@@ -142,11 +142,11 @@ But his immediate answer sent my expectations crashing down.
 
 “No.”
 
-Well, that was only natural. Even an internet search hadn’t turned anything up. Still, I couldn’t help feeling a little disappointed.
+Well, that was only natural. Even an internet search hadn’t turned up anything. Still, I couldn’t help feeling disappointed.
 
 “You really don’t know? You know this field inside out.”
 
-“Yeah. But I don’t know this.”
+“I do. But I’ve never heard of this.”
 
 Jinho scratched his head.
 
@@ -160,7 +160,7 @@ The more he talked, the bleaker it sounded.
 
 “The model name written here. The manufacturer. I’ve never seen either of them in my life.”
 
-“Couldn’t it be an overseas manufacturer?”
+“Couldn’t it be made overseas?”
 
 “Oh, you hopeless idiot. You dumbass. You moron.”
 
@@ -192,7 +192,7 @@ He pulled out his smartphone and started tapping the screen. He seemed to be sea
 
 “Read the rest too.”
 
-By the time he reached the last page, he’d really feel like he’d been haunted. Jinho hyung turned the pages with a serious expression.
+Once he reached the last page, he’d really feel like he’d seen a ghost.
 
 Jinho turned the pages with a serious expression.
 
@@ -342,7 +342,7 @@ Her tone was sharper than usual. Exam stress must have been getting to her.
 
 “How’s studying going?”
 
-“I bombed the July mock exam. I didn’t manage my condition right and missed even the easy questions. God, the more I think about it, the more annoyed I get.”
+“I bombed the July mock exam. I was off my game and missed easy questions too. God, the more I think about it, the more annoyed I get.”
 
 “It’s fine. Just do well on the real thing. How many did you miss?”
 
@@ -362,7 +362,7 @@ Her tone was sharper than usual. Exam stress must have been getting to her.
 
 *Smart little brat…*
 
-I knew she was good at studying, but I hadn’t realized she was this good. Thinking back on my own school grades, it really seemed like there was such a thing as dumping all the genes into one kid.
+I knew she was good at studying, but I hadn’t realized she was this good. Thinking back on my own grades, maybe it really was possible for all the good genes to go to one kid.
 
 “You’re pretty good at this studying thing, huh?”
 
@@ -370,7 +370,7 @@ I knew she was good at studying, but I hadn’t realized she was this good. Thin
 
 “W-what kind of nonsense is that? I was pretty good at studying too, you know. You just don’t remember because you were in elementary school…”
 
-“Last week during a deep clean, I found your report card. There were so many Grade 7s I thought it was a slot machine that had hit the jackpot.”
+“Last week, while we were doing a deep clean, I found your report card. There were so many Grade 7s I thought I was looking at a slot machine that had hit the jackpot.”
 
 “You need some allowance, right? How much does makeup cost these days?”
 
@@ -388,7 +388,7 @@ I found myself getting oddly sentimental.
 
 Had I been dreaming? Or had I lost myself in some delusion?
 
-Only a day had passed in reality, yet utterly incomprehensible, inexplicable things had happened.
+Only a day had passed in reality, yet all sorts of inexplicable, impossible things had happened.
 
 But I decided not to try to understand them anymore.
 
@@ -400,7 +400,7 @@ My family was here. I was here. That was enough.
 
 I’d simply had a strange dream for a little while. The kind of dream that would naturally fade with time.
 
-“So I…”
+“So then I…”
 
 “Yeah.”
 
@@ -456,7 +456,7 @@ Seong Jinho let out a short laugh.
 
 “You believed that?”
 
-Jin Taekyung smiled back. But to Seong Jinho, who had watched him for a long time, the smile looked somehow awkward.
+Jin Taekyung smiled back. But to Seong Jinho, who had known him for years, the smile looked strangely awkward.
 
 *What’s with him?*
 
