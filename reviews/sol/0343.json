@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Until the preparation of the technique is complete, no one may approach the patients. Do you understand?",
+      "defect": "The source forbids anyone from approaching the place where the singular patient is being kept. The draft instead forbids approaching multiple patients, changing both the restricted location and its scope.",
+      "id": "F01",
+      "rationale": "환자가 있는 곳 means “the place where the patient is,” not “the patients.” The restriction specifically concerns access to Jeok Cheongang’s location.",
+      "replacement": "Until preparations for the technique are complete, no one may approach the place where the patient is being kept. Do you understand?",
+      "severity": "critical",
+      "source": "대법의 준비가 끝나는 동안 그 누구도 환자가 있는 곳에 접근해서는 아니 되오. 아시겠소?"
+    },
+    {
+      "confidence": 0.98,
+      "current": "The fact that he had begun glaring at me with murderous intensity after only a few complaints said everything. He had been dragged into all kinds of fights before and had only grumbled a few times.",
+      "defect": "The draft makes his glare follow a few complaints in the present situation, then detaches the comparison into a second sentence. The source says that even though he normally stopped after a little grumbling despite all their fights, this ordeal has driven him to glare furiously.",
+      "id": "F02",
+      "rationale": "The contrast between his usual mild complaining and his current fury establishes how exceptionally miserable the herb gathering has been.",
+      "replacement": "He had been dragged into all kinds of fights before and always stopped after grumbling a few times, so the fact that he was now glaring at me with murder in his eyes said everything.",
+      "severity": "major",
+      "source": "지금까지 온갖 싸움에 휘말려도 몇 번 투덜거리고 말던 녀석이 눈에 쌍심지를 켜고 노려볼 정도니 말 다 했지."
+    },
+    {
+      "confidence": 0.99,
+      "current": "A plump yellow dog walking by…",
+      "defect": "The draft replaces “delicious-looking” with the unsupported physical description “plump,” obscuring that Gung Gibang is viewing the dog as food and weakening the animal-protection punchline that follows.",
+      "id": "F03",
+      "rationale": "먹음직스럽게 explicitly means that the dog looks appetizing, not merely well-fed.",
+      "replacement": "A delicious-looking yellow dog walking by…",
+      "severity": "major",
+      "source": "먹음직스럽게 걸어가는 황구……."
+    },
+    {
+      "confidence": 0.96,
+      "current": "So much for being *Unaffected by Cold and Heat*—I was affected by the cold, and then some.",
+      "defect": "The draft conveys the complaint but drops the source’s direct wordplay, which transforms “Unaffected by Cold and Heat” into the mock condition “Very Much Affected by Cold and Heat.”",
+      "id": "F04",
+      "rationale": "한서매우침 is a comic alteration of 한서불침 and deliberately mirrors the full established term.",
+      "replacement": "*Unaffected by Cold and Heat*, my ass. More like *Very Much Affected by Cold and Heat*.",
+      "severity": "minor",
+      "source": "한서불침(寒暑不侵)은 개뿔이, 한서매우침이다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "As soon as I placed it in the baskets the evil employer—or rather, the Divine Physician—had distributed to all the herb slaves, the System notification rang out.",
+      "defect": "The plural “baskets” makes it sound as though Taekyung places the single herb into multiple containers. The source refers to the individual carrying basket issued to him as part of the general distribution.",
+      "id": "F05",
+      "rationale": "망태기에 is singular in this action; 일괄 지급 describes how the baskets were issued collectively, not the number of baskets receiving the herb.",
+      "replacement": "As soon as I placed it in the basket the evil employer—or rather, the Divine Physician—had issued to each of the herb slaves, the System notification rang out.",
+      "severity": "minor",
+      "source": "뒤이어 악덕 고용주, 아니 신의가 채집 노예들에게 일괄 지급한 망태기에 집어넣자 시스템 알림이 울린다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "It was no use. No matter how hard I slapped his cheeks, the eye that had closed showed no sign of reopening.",
+      "defect": "The singular “eye” unnaturally implies that only one of Gung Gibang’s eyes closed.",
+      "id": "F06",
+      "rationale": "눈 functions collectively here and refers to both eyes remaining shut.",
+      "replacement": "It was no use. No matter how hard I slapped his cheeks, his eyes showed no sign of opening again.",
+      "severity": "minor",
+      "source": "틀렸다. 아무리 뺨을 때려도 한 번 감긴 눈은 떠질 기미가 보이지 않았다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The Divine Physician continued in a face that had grown far more haggard than it had been three days earlier.",
+      "defect": "“Continued in a face” is unidiomatic English and obscures that he continues speaking while looking drastically more haggard.",
+      "id": "F07",
+      "rationale": "수척해진 얼굴로 describes his visibly haggard appearance as he resumes speaking.",
+      "replacement": "Looking incomparably more haggard than he had three days earlier, the Divine Physician continued.",
+      "severity": "minor",
+      "source": "신의가 사흘 전과 비교도 할 수 없을 만큼 수척해진 얼굴로 말을 이었다."
+    }
+  ],
+  "summary": "The draft is broadly faithful but contains one critical change to the scope of the Divine Physician’s restriction, one characterization reversal, and several localized losses of humor or precision.",
+  "version": 1
+}
