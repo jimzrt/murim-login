@@ -152,7 +152,7 @@ There were overturned and wrecked cars as well, but not many.
 
 “How many casualties?”
 
-Soldiers and Hunters had different statuses, but both were registered with the government as members of military support teams.
+Soldiers and Hunters had different roles, but both were registered with the government as members of military support teams.
 
 The Hunter Team Leader promptly answered his superior’s question.
 
@@ -164,7 +164,7 @@ The captain calmly repeated the figures, then continued.
 
 “This is already the second Gate occurrence today.”
 
-“Tell me about it. An F-rank Gate erupted near Yangju City about an hour ago. I don’t know if something serious is going on.”
+“Tell me about it. An F-rank Gate erupted in the Yangju area about an hour ago. I’m starting to wonder if something serious is happening.”
 
 The captain clicked his tongue.
 
@@ -172,7 +172,7 @@ The captain clicked his tongue.
 
 “Yes, sir.”
 
-“An F-rank Gate that appeared in the town center, or a B-rank Gate that appeared in the middle of a road packed with commuters. Which one looks more serious?”
+“An F-rank Gate opening in town, or a B-rank Gate opening in the middle of a road packed with commuters. Which one sounds more serious?”
 
 “Well…”
 
@@ -214,7 +214,7 @@ The reporter flinched, and the captain stepped in.
 
 “That’s enough. And Reporter Kim, please be more mindful in the future. This is an accident scene. Running around by yourself in high spirits because you found a scoop doesn’t look good.”
 
-“…Ahem. I’ll be more careful from now on.”
+“…Ahem. I’ll be more careful.”
 
 Even as he answered, anticipation gleamed in the reporter’s eyes.
 
@@ -268,7 +268,7 @@ Even funnier, his butchering technique was unbelievably good. The two employees 
 
 “Who knows? He must be if he can wipe out ogres by himself, but the longer I look at him, the less convinced I am.”
 
-“Team Leader Jeong asked him, but he said they could talk once he finished butchering.”
+“I asked him, but he said we could talk after he finished butchering.”
 
 The three men exchanged looks filled with equal parts belief and doubt.
 
@@ -276,7 +276,7 @@ That was when—
 
 “Whew. Finished.”
 
-The A-rank Hunter, who had cut the notoriously tough ogre meat into pieces like mackerel, straightened his back and stood up.
+The A-rank Hunter, who had chopped up the notoriously tough ogre meat as easily as a mackerel, straightened his back and stood.
 
 The reporter took in his sweatpants, baggy at the knees, and his three-striped slides, then muttered,
 
@@ -374,7 +374,7 @@ Question marks seemed to appear on all three faces at once. I couldn’t help ch
 
 *This is fun.*
 
-*After being knocked around this way and that in another world, I hide my strength in reality.*
+*After getting knocked around in another world, I hide my strength in reality.*
 
 That would make a decent novel title.
 
@@ -390,7 +390,7 @@ When I merely smiled without answering, the reporter spoke in a faltering voice.
 
 *What kind of bullshit is C-cup? And why the hell is he looking at my chest?*
 
-I ignored their waves of disbelief and continued, “I was on my way to the Guild when a Gate happened to open…”
+Ignoring the waves of disbelief washing over me, I continued, “I was on my way to the Guild when a Gate happened to open…”
 
 “Th-Then what?”
 

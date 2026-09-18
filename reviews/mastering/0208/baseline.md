@@ -1,0 +1,405 @@
+# Chapter 208
+
+Unstoppable in every direction.
+
+That was me now. Wherever my eyes could see and my hands could reach, I cut, stabbed, and smashed without restraint. Every time the spearhead flashed, blood spurted, and flesh and bone split apart.
+
+I moved freely among the enormous ogres without the slightest hindrance.
+
+Srrk! Krrrunch!
+
+—Gwooooooar!
+
+With a death rattle, the three-meter-tall body dropped to its knees.
+
+The Gate continued spewing out ogres, but they posed no problem for me. When two came out, I killed three. When three came out, I killed four.
+
+*This is easy. Almost ridiculously so.*
+
+The last time I had applied points was during my duel with Chulwoo.
+
+But opening my Conception and Governor Vessels had pushed my control and explosive power over my internal energy, along with my senses, to an extreme level.
+
+Even when the ogres’ iron clubs, packed with immense force, came crashing down from every direction, they looked unbelievably slow.
+
+The ogres in my eyes were nothing more than idiots who had no idea how to use their strength properly.
+
+Whoooosh! Thud!
+
+—Grrrgh…
+
+Another ogre, one of countless by now, dropped to its knees with a wet, blood-choked rattle.
+
+The furry hand that had tried to grasp the spearhead piercing straight through its Adam’s apple suddenly lost its strength and fell limply to the ground.
+
+Ding.
+
+> **System**
+>
+> - You have defeated **Lv.85 Ogre**!
+>
+> - You have acquired a considerable amount of EXP!
+>
+> - Level Up!
+
+“Oh.”
+
+I had already leveled up.
+
+The rate at which I was sucking up EXP while clearing them out by myself was no joke.
+
+*Is it because every one of these bastards is higher-level than me?*
+
+My current Level was somewhere in the mid-to-high seventies, so I was five to ten Levels below the ogres.
+
+Since I was slicing them up like pork shoulder at a butcher shop, it was only natural that my Level would rise quickly.
+
+The EXP was far more generous than I had expected.
+
+*No, wait.*
+
+A thought suddenly flashed through my mind.
+
+I gazed at the Gate, which continued to churn and spit out ogres, my eyes shining.
+
+This was completely…
+
+*This is a popular restaurant.*
+
+The Gate kept spitting out EXP—or rather, monsters—and I kept killing them. If that continued steadily, then…
+
+*So this was where the conveyor-belt sushi place was.*
+
+The EXP I got from the ogres was sweeter than tuna belly.
+
+My mouth curved upward as I imagined chewing every ogre that came out and digesting it into points.
+
+That was when it happened.
+
+Vroooom. Rat-a-tat-tat-tat!
+
+—Hold! Hold!
+
+—Descend!
+
+Three or four combat helicopters flew in with the roar of fierce winds, circled overhead, and then dropped around twenty Hunters like lightning.
+
+Shu-shu-shu-shu!
+
+They were falling from a height of more than twenty meters. At that height, even Hunters outfitted with magical Equipment were bound to strain their knees on landing.
+
+But these weren’t the incompetent amateurs who had been here before I arrived.
+
+“Feather Fall.”
+
+With the mage’s incantation, a ripple of energy passed through the air.
+
+The bodies that had been plunging downward quickly and violently began to slow.
+
+The ogres, which had been about to swing their iron clubs, hesitated after missing their timing. Then the second spell was cast.
+
+“Grease!”
+
+—Gwo?
+
+Boom! Crash!
+
+The four remaining ogres lost their balance. Some staggered, while others collapsed onto the ground.
+
+“Now!”
+
+At the shout, the spell slowing their descent was dispelled, and the melee fighters shot forward like streaks of light.
+
+The ogres let out low growls, sensing their imminent deaths.
+
+That was when—
+
+Clang! Clang-clang!
+
+“…Huh?”
+
+The Hunters who had just been about to drive their weapons into the ogres’ chests stared at me with baffled expressions.
+
+*What the hell did this bastard just do?*
+
+*Is he insane?*
+
+That was exactly what their faces said.
+
+I had knocked away all their attacks with a single swing. In a mild voice, I said, “Come on, let’s observe some professional courtesy.”
+
+“…”
+
+These bastards were trying to steal mobs I already had dead to rights.
+
+* * *
+
+“That really happened?”
+
+At the captain’s question, the Hunter Team Leader nodded.
+
+“Yes. I’ve been on the support team for two years, and I’ve never seen anyone like him.”
+
+“He sounds interesting.”
+
+“Interesting? He’s a complete psycho.”
+
+“Perhaps.”
+
+The captain slowly looked around.
+
+The tollgate had collapsed so completely that it was impossible to recognize its original shape. Monster blood was scattered across the half-destroyed road.
+
+There were overturned and wrecked cars as well, but not many.
+
+“How many casualties?”
+
+Soldiers and Hunters had different statuses, but both were registered with the government as members of military support teams.
+
+The Hunter Team Leader promptly answered his superior’s question.
+
+“So far, four dead and five with severe injuries. We’ll know more once we finish checking.”
+
+“Four dead and five with severe injuries.”
+
+The captain repeated the figures calmly before continuing.
+
+“This is the second Gate occurrence today.”
+
+“Tell me about it. An F-rank Gate erupted near Yangju City about an hour ago. I don’t know if something serious is going on.”
+
+The captain clicked his tongue.
+
+“Hey, Team Leader Jeong.”
+
+“Yes, sir.”
+
+“An F-rank Gate that appeared in the town center, or a B-rank Gate that appeared in the middle of a road packed with commuters. Which one looks more serious?”
+
+“Well…”
+
+“But there were more casualties on the F-rank Gate side. Ten dead and more than twenty with severe injuries.”
+
+“What? That can’t be right. The breaking news said…”
+
+“Downplaying it. Covering it up. After two years, you should be getting a feel for what kind of place this is.”
+
+The captain let out a deep sigh.
+
+“From our perspective, a hundred bows wouldn’t be enough to thank him. He’s a civilian hero who stopped a major catastrophe all by himself.”
+
+“That’s true. He does seem a little crazy, though.”
+
+“Team Leader Jeong.”
+
+“Ah, no, that’s not what I meant. I mean he’s an insanely strong crazy person. He killed more than ten ogres by himself, so he must be an A-rank Hunter or something.”
+
+“Either way, watch what you say. There are plenty of ears around.”
+
+“They’re all our people. What ears could there be—ah.”
+
+The Team Leader turned toward the place the captain indicated and immediately scowled.
+
+A skinny, middle-aged man carrying an expensive camera was approaching them with an excited stride.
+
+“Captain Yoo! Team Leader Jeong! Where have you two been hiding? I’ve been looking everywhere.”
+
+The Hunter Team Leader replied with a deeply displeased expression.
+
+“To avoid you, Reporter Kim.”
+
+“Oh, come on. Why are you so prickly today, Team Leader Jeong? I’m part of the support team too.”
+
+“You’re only part of the team at times like this, huh? The rest of the time, you’re a military correspondent. You’re usually drowning in a hangover—aren’t you getting a little too excited just because you landed one scoop?”
+
+The reporter flinched, and the captain stepped in for him.
+
+“That’s enough. And Reporter Kim, please be more careful in the future. This is an accident scene, and running around excitedly because you found a scoop doesn’t look good.”
+
+“…Ahem. I’ll be more careful from now on.”
+
+Even as he answered, the reporter’s eyes sparkled with anticipation.
+
+A Gate occurrence was nothing short of a natural disaster. In some ways, it was even worse.
+
+If a typhoon was going to hit the Korean Peninsula, people could at least predict when and how it would arrive and which areas would suffer damage. The creation of a Gate, however, was impossible to predict.
+
+*Two Gates appearing in one day was unprecedented, and now one of them was even B-rank.*
+
+The tollgate’s security team being helplessly overrun, followed by the heroic appearance of an unknown Hunter who stopped a major catastrophe during rush hour!
+
+It was a great story.
+
+The reporter had already finished sketching it out in his head, and he was practically buzzing with excitement.
+
+“So where’s our hero? He’s an A-rank Hunter, right? What’s his name? A fresh new face would sell better for something like this.”
+
+“A new face? Give me a break.”
+
+The Hunter Team Leader pointed behind the reporter.
+
+“He’s over there. The new face.”
+
+“Where? I don’t see him.”
+
+No matter how many times he looked around, there was no hero wearing gleaming armor in sight.
+
+All he could see were military personnel busily cleaning up the accident scene.
+
+The reporter’s eyes swept frantically over the area before stopping abruptly.
+
+“There, Team Leader Jeong. Is that him? In front of the ogre’s corpse…”
+
+“The man wearing the tracksuit pants? Yes, that’s him.”
+
+Swish. Srrk, srrk.
+
+Squatting like someone making a huge batch of kimchi[^1], the young man deftly separated the fat, meat, and hide from the corpse. The reporter muttered,
+
+“…That’s too new a face.”
+
+“Fresh, right? Isn’t that the picture you wanted?”
+
+“The ogre meat certainly looks fresh.”
+
+“He’s been at it for a while. The staff offered to do it for him, but he won’t let them touch it. Says it’s all his.”
+
+The even funnier part was that his butchering technique was unbelievably good. In fact, the two employees assigned to process the corpses were stealing glances at him and trying to imitate the movements of his hands.
+
+“Is he really an A-rank Hunter?”
+
+“Who knows? If he can wipe out ogres by himself, he definitely should be. But the more I look at him, the less convinced I am.”
+
+“Team Leader Jeong asked him, but he said they could talk once he finished butchering.”
+
+The three men exchanged looks filled with a mixture of belief and doubt.
+
+That was when—
+
+“Whew. Finished.”
+
+The A-rank Hunter, who had cut the notoriously tough ogre meat into pieces like mackerel, straightened his back and stood up.
+
+The reporter looked at the training pants stretched out around the knees and the three-stripe slippers, then muttered,
+
+“Why does a guy who makes that much money live like this?”
+
+*Was this some kind of humblebrag?*
+
+It was absurd, but the longer he looked, the fresher it seemed. After all, the most important thing in the media was character.
+
+*A down-to-earth A-rank Hunter with a fierce sense of justice. This picture could turn out great. He’s handsome, too, with such an open, striking face.*
+
+Yes, this was better than some polished, model-student image.
+
+The reporter grinned and raised his camera.
+
+He wanted to capture a natural shot with absolutely no staging.
+
+* * *
+
+*As expected of an ogre. Nothing to waste.*
+
+I looked over the neatly separated by-products with a satisfied smile.
+
+Ogres were practically symbols of strength, which made them popular among men.
+
+There were plenty of people looking for ogre products, but since ogres were monsters classified as the upper tier of B-rank, the supply was rather limited.
+
+*Good thing I only went for their vital spots.*
+
+I was humming as I sorted the by-products when—
+
+Click.
+
+“…Huh?”
+
+I turned my head toward the mechanical sound that had suddenly come from nowhere.
+
+A middle-aged man who had been pressing his camera shutter repeatedly was smiling amiably at me.
+
+“Oh dear, did I startle you?”
+
+*What the hell is this guy?*
+
+I asked incredulously, “Most people are surprised when they get photographed without permission. Are they supposed to be happy about it?”
+
+“You might be happy when you appear in tomorrow’s newspaper.”
+
+“The newspaper?”
+
+“Ah, I’m afraid I haven’t introduced myself. Here, let’s start with my business card.”
+
+I accepted the business card, which had a military camouflage pattern printed on it, and read it aloud.
+
+“Military correspondent.”
+
+“You know the Capital Defense Command, right? The Capital Defense Command. I’m the military reporter assigned to Support Team 25.”
+
+“Ah, yes.”
+
+“And the two gentlemen coming up behind me are from the support team as well.”
+
+The reporter gave me a smile and raised his thumb as two men approached from behind him.
+
+One wore a Special Forces uniform and the other armor. They were, well, dressed like a stereotypical soldier and Hunter.
+
+“Nice to meet you. I’m Captain Yoo Sijin, Team Leader of Support Team 25.”
+
+“Ah, yes.”
+
+*Somehow, his name sounded less like a descendant of the sun and more like the sun’s regret.*
+
+I tilted my head and exchanged introductions with the two men.
+
+As soon as the perfunctory introductions and praise for the great thing I had done were over, the military reporter, who had been staring at me with fervent eyes, spoke up.
+
+“You said you’re Hunter Jin Taekyung, correct?”
+
+“Yes. Why?”
+
+“Given the field I cover, I know nearly every A-rank Hunter worth knowing. But…”
+
+Ah, I roughly knew what he was trying to say.
+
+It was something I would have to deal with sooner or later.
+
+I answered readily, “I’m not A-rank.”
+
+“What?”
+
+“And I’m not S-rank either, of course.”
+
+“…”
+
+Three question marks seemed to appear on their faces at the same time. I couldn’t help but chuckle. *This was fun.*
+
+*After being knocked around this way and that in another world, I hide my strength in reality.*
+
+That would make a decent novel title.
+
+When I just kept smiling without saying anything, the reporter spoke in a faltering voice.
+
+“Th-Then perhaps you’re B-rank?”
+
+“No. I’m C-rank.”
+
+“…C-rank? You mean C-rank, not C-cup?”
+
+“Yes.”
+
+*What kind of bullshit is C-cup? And why the hell is he looking at my chest?*
+
+I ignored their waves of disbelief and continued, “I was on my way to the Guild when a Gate happened to open…”
+
+“Th-Then what?”
+
+I couldn’t answer the reporter’s urgent question.
+
+I had just remembered something I’d momentarily forgotten.
+
+“…By any chance, what time is it now?”
+
+Damn it. I’m late.
+
+[^1]: Kimchi-making, especially in large batches, is traditionally a communal household activity in Korea.
