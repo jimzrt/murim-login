@@ -2,11 +2,11 @@
   "chapter": 166,
   "errors": [],
   "metrics": {
-    "length_ratio": 2.227,
+    "length_ratio": 2.11,
     "source_characters": 6143,
     "source_paragraphs": 210,
-    "translation_characters": 13680,
-    "translation_paragraphs": 217
+    "translation_characters": 12961,
+    "translation_paragraphs": 216
   },
   "passed": true,
   "version": 1,
@@ -46,8 +46,16 @@
     {
       "code": "terminology",
       "details": {
-        "korean": "산서성",
-        "preferred": "Shanxi Province"
+        "korean": "잠룡",
+        "preferred": "Hidden Dragon"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "그분",
+        "preferred": "that person"
       },
       "message": "matched preferred term is absent"
     }

@@ -2,9 +2,9 @@
 
 Old Man Jang’s daily routine was simple: eat, sleep, and shit.
 
-Every now and then, he stopped by a pleasure house or an inn for a drink, or joined a gambling game and handled domino tiles, but he spent most of his time at home.
+Every now and then, he visited a pleasure house or an inn for a drink, or sat in on a gambling game and played dominoes, but he spent most of his time at home.
 
-The villagers, who had grown fairly accustomed to him by now, would sometimes ask,
+By now, the villagers had grown accustomed to him. They would sometimes ask,
 
 “Don’t you get lonely?”
 
@@ -12,41 +12,41 @@ But Old Man Jang’s answer was always firm.
 
 “Don’t talk nonsense.”
 
-People whispered that the solitary old man was only answering that way out of pride, but he meant every word.
+People whispered that the solitary old man only said that out of pride, but he meant every word.
 
-*It couldn’t be more comfortable than this.*
+*Life couldn’t be more comfortable.*
 
-Sleep when he was tired, eat when he was hungry, and shit when he needed to.
+He slept when he was tired, ate when he was hungry, and shit when he needed to.
 
-Some might mock it as a beast’s life, but Old Man Jang had more than earned the right to live that way.
+Some might mock him for living like a beast, but Old Man Jang had more than earned the right.
 
-No—he felt even that was insufficient.
+If anything, he felt he deserved even more.
 
 *After the life I’ve lived.*
 
-He had spent a full jiazi standing before vats of boiling molten iron.[^1]
+He had spent an entire jiazi before vats of boiling molten iron.
 
-Once he started something, he had always seen it through to the end. He had forgotten people and love alike. The anvil and hammer had been his friends and his beloved.
+Once he started something, he had to see it through to the end. He had forgotten people and love alike. The anvil and hammer had been his friends and lovers.
 
 *I lived like a man possessed.*
 
 Then one day, he came to his senses and found that his hair had turned white and his vision had grown dim.
 
-He had become one of the most renowned smiths in the world and the Guild Leader of the Ironcraft Guild, but that was all.
+He had become one of the finest smiths under heaven and the Guild Leader of the Ironcraft Guild, but that was all.
 
-No matter how many times he brought down his hammer, the heart that had once been emptied could not be filled.
+No matter how many times he brought down his hammer, he could not fill the emptiness in his heart.
 
-In the end, he decided to retire, and Jang Taebo, the Guild Leader of the Ironcraft Guild, became Old Man Jang.
+In the end, he decided to retire. And so Jang Taebo, the Guild Leader of the Ironcraft Guild, became Old Man Jang.
 
 “Grandpa!”
 
 “Uh, hm?”
 
-Old Man Jang had been squatting in the yard, staring blankly into space, when he suddenly came to himself.
+Old Man Jang jerked out of his reverie. He had been squatting in the yard, staring blankly into space.
 
-A little boy from the neighboring house was staring at him with enormous eyes.
+A little boy from the neighboring house was looking at him with enormous eyes.
 
-“What’re you thinking about?”
+“What are you thinking about?”
 
 “I was thinking that if you used polite speech, I might give you a piece of candy.”
 
@@ -56,15 +56,15 @@ A little boy from the neighboring house was staring at him with enormous eyes.
 
 “Tank you!”
 
-Old Man Jang stared at the boy, who was busily sucking on the candy.
+Old Man Jang watched the boy busily suck on the candy.
 
-He had watched the boy grow since he was a newborn. The child had been a nuisance when he clung to him, constantly calling him Grandpa, but at some point, Old Man Jang had found himself carrying snacks around for him.
+He had known the child since he was a newborn. At first, the boy had been a nuisance, constantly clinging to him and calling him Grandpa. Then, at some point, Old Man Jang had found himself carrying snacks around for him.
 
 *Well, this isn’t so bad either.*
 
-For a blunt and prickly old man like him, this boy was his only conversational partner.
+For a blunt and prickly old man like him, the boy was his only real conversation partner.
 
-Whenever he looked at the child, he sometimes wondered what it might have been like if he had had a family of his own.
+Looking at the child sometimes made him wonder what it might have been like to have a family of his own.
 
 “Would you like another one?”
 
@@ -74,13 +74,13 @@ Whenever he looked at the child, he sometimes wondered what it might have been l
 
 “Yes!”
 
-“You need to eat slowly so you don’t damage your teeth. Understand?”
+“Eat them slowly so you don’t ruin your teeth. Understand?”
 
 “Yeah!”
 
-“…That polite speech lasted all of two seconds.”
+“…That polite speech didn’t last long.”
 
-After licking two pieces of candy clean in no time, the boy suddenly spoke.
+After licking two pieces of candy clean in the blink of an eye, the boy suddenly spoke.
 
 “Oh, right. Grandpa.”
 
@@ -88,29 +88,29 @@ After licking two pieces of candy clean in no time, the boy suddenly spoke.
 
 “What’s your name?”
 
-“You should say ‘honored name’ when asking an adult… No, never mind. Why are you suddenly asking?”
+“You should ask an elder’s name more respectfully… No, never mind. Why do you suddenly want to know?”
 
 “Hmm, I was just curious.”
 
 “Hmm.”
 
-“I asked Mom and Dad, too, but they said they didn’t know Grandpa’s name. Nobody knows.”
+“I asked Mom and Dad too, but they said they didn’t know your name. Nobody knows.”
 
 Though he had settled here more than ten years ago, Old Man Jang had never revealed his name to anyone.
 
-He had been worried that unwanted flies might gather around him. No—flies would have been the least of his problems.
+He had been worried that flies might start buzzing around him. No—mere flies would have been a blessing.
 
-A great smith was needed everywhere, especially by Murim sects that would risk their lives over weapons. If his identity became known, his remaining years would become difficult.
+Skilled smiths were needed everywhere, especially by Murim sects whose members would stake their lives on their weapons. If his identity became known, his remaining years would be anything but peaceful.
 
-“Grandpa, aren’t you going to tell me your name?”
+“Grandpa, aren’t you going to tell me?”
 
-Looking at the boy’s large, innocent eyes, Old Man Jang thought,
+Old Man Jang looked into the boy’s large, innocent eyes.
 
-*Well, it should be all right to tell this one a little.*
+*Well, it should be safe to tell him a little.*
 
-He was too young to understand what any of it meant, wasn’t he? Besides, if Old Man Jang gave him a few pieces of candy, the boy would surely become distracted and forget it soon enough.
+He was too young to understand what any of it meant. Besides, a few more pieces of candy would distract him, and he would soon forget.
 
-He only had to conceal enough that his identity would not be exposed.
+Old Man Jang only had to conceal enough to keep his identity hidden.
 
 “I’ll tell you one character of my name. It’s Bo.”
 
@@ -122,45 +122,45 @@ He only had to conceal enough that his identity would not be exposed.
 
 “Curious, are you?”
 
-“Yes!”
+“Yeah!”
 
-“Fine. If you use polite speech properly for the next month, I’ll think about it.”
+“Fine. Use polite speech properly for the next month, and I’ll think about telling you.”
 
 “Wow, that’s mean.”
 
-Old Man Jang let out a quiet laugh at the boy puffing out his cheeks.
+Old Man Jang let out a quiet laugh as the boy puffed out his cheeks.
 
-“Hng. Can’t you just tell me? That way I can eat something tasty.”
+“Hng. Can’t you just tell me? I need to know so I can eat something tasty.”
 
 “…?”
 
-“Whew. I suppose it can’t be helped.”
+“Whew. I guess it can’t be helped.”
 
 What was that supposed to mean?
 
-While Old Man Jang was wondering, the boy let out a deep sigh like an old man and sprang to his feet.
+As Old Man Jang wondered, the boy heaved a sigh like an old man and sprang to his feet.
 
 “Where are you going?”
 
 “I’ll come back later!”
 
-“Don’t bother coming back. The sun has set, you brat. Go home and get some sleep!”
+“Don’t bother. The sun’s already down, you brat. Go home and sleep!”
 
 “I don’t want to!”
 
-The boy had short legs, but he was overflowing with energy. He quickly disappeared in the opposite direction from his house.
+For someone with such short legs, the boy had boundless energy. He quickly disappeared in the opposite direction from his house.
 
-“Honestly, that boy never listens.”
+“That boy never listens.”
 
-Muttering under his breath, Old Man Jang rose, his stiff body creaking.
+Muttering under his breath, Old Man Jang hauled his stiff body upright.
 
-He felt as though he had been able to manage fairly well until ten years ago, but once his muscles began to waste away, his joints started aching here and there.
+Until about ten years ago, he had still been able to manage well enough. But once he began losing muscle, his joints started aching all over.
 
-“Good grief. I’d better heat up the room.”
+“Good grief. I’d better warm up the room.”
 
-He fed firewood into the room’s firebox and lit the brazier.
+He fed firewood into the firebox and lit the brazier.
 
-After passing the time for a while, he went outside to use the privy before going to bed.
+After puttering around for a while, he stepped outside to use the privy before bed.
 
 That was when—
 
@@ -170,37 +170,35 @@ The boy’s innocent cry rang out.
 
 But Old Man Jang did not hear it.
 
-His seasoned gaze was fixed on the three imposing figures standing behind the child.
+His seasoned gaze was fixed on the three large men standing behind the child.
 
 *Martial artists?*
 
-It was already dark, so he could not make out their faces clearly. But he could unmistakably identify the sword sheaths protruding from their waists.
+The sun had already set, leaving their faces hidden in darkness, but he could clearly make out the sword sheaths protruding from their waists.
 
 He had made countless such objects himself.
 
-Without taking his eyes off them, Old Man Jang beckoned to the boy.
+Without taking his eyes off the men, Old Man Jang beckoned to the boy.
 
 “Hanga, come here.”
 
-“Yes!”
+“Yeah!”
 
-Now that he looked, the boy was clutching a large bundle to his chest. Along with its warmth came an appetizing smell.
+Now that he looked, the boy was clutching a large bundle to his chest. It radiated warmth and gave off an appetizing smell.
 
-Realizing the general situation, Old Man Jang glared at the figures in the darkness.
+Having roughly grasped the situation, Old Man Jang glared at the figures in the darkness.
 
-“Who might you be?”
+“Who are you?”
 
-Click.
+A spark snapped in the darkness, then flared to life. The fire starter in someone’s hand illuminated the three men’s faces.
 
-A spark flew in the darkness, and a flame soon caught. A fire starter in someone’s hand illuminated the faces of the three men.
-
-They were all young men around twenty years of age. One of them stepped forward.
+They were all young men around twenty. One stepped forward.
 
 “My goodness. Good evening.”
 
 He had a handsome face and a sly smile.
 
-Old Man Jang stared intently at the vaguely familiar face before speaking.
+Old Man Jang studied the vaguely familiar face before speaking.
 
 “Sleeping Dragon of Shanxi?”
 
@@ -220,7 +218,7 @@ The young man, Jin Taekyung, broke into a wide grin.
 
 “He’s around eighty…”
 
-“They all suffered when they were young, so they’ve all aged pretty similarly. The Jang next door is fifty, but if you look at his face, he’s a hundred and fifty.”
+“They all suffered when they were young, so they’ve all aged about the same. Mr. Jang next door is fifty, but he looks a hundred and fifty.”
 
 “…”
 
@@ -228,27 +226,27 @@ The young man, Jin Taekyung, broke into a wide grin.
 
 “Um, he lives alone, and his name is…”
 
-“Who remembers everyone’s name individually? Once they get old, they’re all just Old Man Jang. And there are plenty of people who live alone, too. War, drought, epidemics… Whew.”
+“Who bothers remembering everyone’s name? Once they get old, they’re all just Old Man Jang. Plenty of people live alone too. War, drought, epidemics… Whew.”
 
 “…”
 
-Damn it. We had arrived before sunset, but we had run into trouble immediately.
+Damn it. We had arrived before sunset, only to run into trouble immediately.
 
-I had wondered why there were so many old men named Jang in a village no bigger than a booger, but it turned out to be a clan village.[^2] Half the people we passed on the road had the family name Jang.
+I had wondered why such a tiny village had so many old men named Jang. It turned out to be a clan village.[^1] Half the people we passed on the road had the family name Jang.
 
-“Do you not know where he lives?”
+“Do you know where he lives?”
 
-Hyuk Mujin was growing frustrated, so I waved the letter containing the information in front of him.
+As Hyuk Mujin grew frustrated, I waved the letter containing the information in front of him.
 
-“I don’t. It only says he lives here. I suppose they thought we’d find him quickly since it’s a small village.”
+“No. It only says he lives here. I guess they thought we’d find him quickly since it’s a small village.”
 
-Cheongpung took some meat out of his bundle and began tearing into it.
+Cheongpung pulled some meat from his bundle and began tearing into it.
 
 “Chomp, chomp, chomp.”
 
 “Then how are we supposed to find him? Jang is already a common family name.”
 
-“We’ll have to find out for ourselves. There are only a few hundred people here, and he’s an old man, so we should locate him quickly.”
+“We’ll have to ask around. There are only a few hundred people here, and he’s an old man. We should find him soon enough.”
 
 “Chomp, chomp, chomp.”
 
@@ -256,15 +254,15 @@ Cheongpung took some meat out of his bundle and began tearing into it.
 
 “…”
 
-That bastard Cheongpung had done nothing but stuff his face the whole time.
+That bastard Cheongpung had done nothing but eat this whole time.
 
-Still, that might actually help us. I was just about to ask him for a piece of meat in quiet desperation when—
+Then again, maybe that could work in my favor. I was just about to give up and ask him for a piece of meat when—
 
-“Oh, the Grandpa who lives three houses down from us is named Jang, too.”
+“Oh, the grandpa who lives three houses down from us is a Jang too.”
 
-The speaker was a little boy whose head came almost up to my waist. He had big eyes and a fairly cute face.
+The speaker was a little boy whose head barely reached my waist. With his enormous eyes, he was pretty cute.
 
-I gently ruffled his shaggy hair.
+I ruffled his shaggy hair.
 
 “Really?”
 
@@ -272,25 +270,25 @@ I gently ruffled his shaggy hair.
 
 “Really?”
 
-I responded, though I did not hold out much hope. The woman selling vegetables at the roadside stall was named Jang, and so was the butcher over there. In a clan village teeming with people named Jang, what were the odds?
+I played along, though I wasn’t expecting much. The woman selling vegetables at the roadside stall was a Jang, and so was the butcher over there. In a clan village crawling with Jangs, what were the odds?
 
-The boy sniffled and continued,
+The boy sniffed and continued.
 
-“Grandpa is always alone. He doesn’t have a family, so I go and play with him.”
+“Grandpa is always alone. He doesn’t have a family, so I go play with him.”
 
 “Oh, you little rascal. That’s kind of you—wait. He doesn’t have a family?”
 
-“Yeah! I asked my mom, and she said he’d been like that since he first came here.”
+“Yeah! I asked Mom, and she said he’d been alone ever since he first came here.”
 
-“Since he first came? He wasn’t originally from here?”
+“Since he first came here? He isn’t originally from this village?”
 
 The boy nodded vigorously.
 
-“I heard this from my dad, but Grandpa came from somewhere outside. He came from outside, so he doesn’t have any friends or family.”
+“My dad told me Grandpa came from somewhere else. Since he came from outside, he doesn’t have any friends or family.”
 
 “I see.”
 
-Hyuk Mujin and I exchanged glances. This sounded like a possibility, but it might not be.
+Hyuk Mujin and I exchanged glances. This sounded promising, but it was hardly conclusive.
 
 “Little one, do you know his name?”
 
@@ -300,21 +298,21 @@ Hyuk Mujin and I exchanged glances. This sounded like a possibility, but it migh
 
 It seemed that was all the boy knew. Hyuk Mujin asked with an eerily kind smile,
 
-“Little one, do you happen to know where he lives?”
+“Little one, could you tell us where he lives?”
 
 “Waaay over there. At the edge of the village.”
 
-As expected of the continent. This damn village was absurdly huge compared to its population.
+As expected of the continent. This damn village was absurdly large for its population.
 
-Hyuk Mujin gauged the distance roughly with his eyes and spoke to me.
+Hyuk Mujin roughly gauged the distance before turning to me.
 
-“It should take about fifteen minutes.”
+“It’ll take about fifteen minutes.”
 
-It would take that long even on horseback. I shook my head.
+Even on horseback, it would take that long. I shook my head.
 
-“What if we go and it isn’t him? Let’s start by searching the nearby area and work our way along.”
+“What if he isn’t the one? Let’s search nearby first and work our way over there.”
 
-“Yes, that probably is the better approach. Aside from being from somewhere else, there’s nothing that makes him stand out as the one we’re looking for.”
+“Yes, that’s probably better. Aside from the fact that he came from elsewhere, there’s nothing that really marks him as the man we’re looking for.”
 
 Cheongpung nodded.
 
@@ -324,55 +322,55 @@ Cheongpung nodded.
 
 “…”
 
-While I wondered whether to just chuck that bastard’s food bundle away, the boy boldly held out both his little hands toward Cheongpung.
+I was debating whether to snatch that food bundle and hurl it away when the boy boldly thrust both little hands toward Cheongpung.
 
 “Hmm?”
 
-“Grandpa Jang said there’s no such thing as a favor with no price.”
+“Grandpa Jang said there’s no such thing as a favor without a price.”
 
-That child already understood the world.
+The kid already understood how the world worked.
 
-He had given us information and wanted a bite in return. That Jang grandfather or whatever. What a thing to teach a child who couldn’t have been more than five or six years old.
+He had given us information, so now he wanted a bite in return. That Grandpa Jang or whatever his name was sure had taught a fine lesson to a child of five or six.
 
-“Wow. My grandfather said something similar. Here.”
+“Wow, my grandfather said something similar. Here.”
 
 “Wow! Thank you!”
 
-Look at that. Grandpas, united as one.
+Look at them, united under the banner of grandfathers.
 
-Cheongpung coolly handed over a large leg of meat. Since he had periodically heated the food with the Zaha Divine Technique, which was based on Scorching Yang Qi, the meat was still warm.
+Cheongpung casually handed him a large leg of meat. He had been periodically warming the food with the Zaha Divine Technique, which was based on Scorching Yang Qi, so the meat was still hot.
 
-*What kind of Zaha Divine Technique do you use to cook meat?*
+*He’s using the Zaha Divine Technique to heat meat?*
 
-After happily tearing into the lean meat, the boy looked at us with lingering desire plastered all over his face.
+The boy happily tore into the meat, then looked at us with naked longing in his eyes.
 
-“By the way, I have to go home anyway. On my way back, I’m going to see Grandpa Jang who lives three houses down from us.”
+“By the way, I need to go home anyway. And on the way back, I’m going to visit Grandpa Jang three houses down.”
 
 “Oh, really?”
 
-I understood what he meant immediately. When you were desperate, you could borrow even a cat’s paw. There was no reason we couldn’t borrow a child’s.
+I immediately understood what he meant. When you were desperate, you would borrow even a cat’s paw. Why not a child’s?
 
-“Then could you ask Grandpa Jang his name? Come back here in half a shichen.”
+“Then could you ask Grandpa Jang his name? Meet us back here in half a shichen.”
 
-“Hmm. I think I’ll be hungrier by then.”
+“Hmm. I think I’ll be even hungrier by then.”
 
-“You see those food bundles? I’ll give you one whole bundle.”
+“See those food bundles? I’ll give you a whole one.”
 
 “Really?”
 
-The boy’s eyes lit up, but then he suddenly hesitated.
+The boy’s eyes lit up, but then he hesitated.
 
 “Why are you looking for Grandpa Jang?”
 
-“It’s nothing serious. I just have a favor to ask him.”
+“It’s nothing serious. We just have a favor to ask him.”
 
 “You’re not bad people, are you?”
 
-If I introduced myself as the Sleeping Dragon of Shanxi from the Jin Family of Taiyuan, all it would do was draw a crowd for no reason. I answered with the most innocent smile I could manage.
+Introducing myself as the Sleeping Dragon of Shanxi from the Jin Family of Taiyuan would only draw a crowd. I gave him my most innocent smile.
 
 “Of course not.”
 
-“Ugh, why are you smiling like such a bad person?”
+“Ugh. Why are you smiling like such a bad person?”
 
 “…”
 
@@ -390,15 +388,15 @@ Hyuk Mujin shrugged.
 
 “Where should we start looking?”
 
-“Search everywhere, starting from the nearest entrance.”
+“Search everything from the nearest entrance onward.”
 
 “That’ll take half a shichen.”
 
-Hyuk Mujin was wrong. It took more than half a shichen to search half the village, and then the boy returned.
+Hyuk Mujin was wrong. It took us more than half a shichen to search half the village.
 
-With an extremely valuable clue.
+Then the boy returned with an extremely valuable clue.
 
-*If the name starts with Jang and ends with Bo…*
+*If his name starts with Jang and ends with Bo…*
 
 The former Guild Leader of the Ironcraft Guild, Jang Taebo.
 
@@ -410,17 +408,17 @@ That had to be him.
 
 “Oh, you know the Sleeping Dragon of Shanxi. That’s me. Hahaha.”
 
-The fact that he knew who I was was a good sign. It felt strange to say this about myself, but wasn’t the Sleeping Dragon of Shanxi practically Shanxi’s idol?
+The fact that he knew who I was was a good sign. It felt strange to say this about myself, but wasn’t the Sleeping Dragon of Shanxi practically Shanxi Province’s idol?
 
-If this were a world with internet access, I would already have a fan club.
+If this world had internet access, I would already have a fan club.
 
 “I’m sorry to visit so late at night. The thing is, I have a favor to ask…”
 
-“There’s no need to ask.”
+“There’s no need.”
 
 “Pardon?”
 
-Jang Taebo was over eighty, but he was a sturdy old man. He stared at me with a cantankerous gaze.
+Jang Taebo was over eighty, but he still had a sturdy build. He fixed me with a cantankerous stare.
 
 “I won’t accept the commission anyway.”
 
@@ -428,7 +426,6 @@ Jang Taebo was over eighty, but he was a sturdy old man. He stared at me with a 
 
 “No!”
 
-Talk about a flat-out rejection.
+Well, that was decisive.
 
-[^1]: A jiazi is the sixty-year cycle of the traditional calendar; a full jiazi means sixty years.
-[^2]: A clan village is a settlement where many households share the same family name and ancestral lineage.
+[^1]: A clan village is a settlement where many households share the same family name and ancestral lineage.
