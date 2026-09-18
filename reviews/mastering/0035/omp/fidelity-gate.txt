@@ -1,0 +1,75 @@
+{
+  "summary": "The assembled English is faithful to the Korean source with minor terminology misses.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "lines 75, 37",
+      "current": "\"barely second- or third-rate\"; \"third-rate\" absent",
+      "defect": "Did not translate 삼류 and 이류 as 'Third Rate' and 'Second Rate' as preferred terminology.",
+      "replacement": "\"barely Second Rate or Third Rate\"",
+      "rationale": "The Korean source explicitly uses 삼류 and 이류, and the glossary mandates use of 'Third Rate' and 'Second Rate' respectively.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "lines 136, 303",
+      "current": "martial arts based on powerful fire qi",
+      "defect": "Did not use 'cultivation technique' for 심법 as preferred term.",
+      "replacement": "One of the Fire Gate Clan’s secret cultivation techniques.",
+      "rationale": "According to the glossary and translation rules, 심법 should be 'cultivation technique' in this context.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "multiple lines",
+      "current": "System status terminology like 'Status' missing",
+      "defect": "Did not use preferred term 'Status' for 상태 in System contexts.",
+      "replacement": "No direct example in text; check for System panels using 'Status' consistently.",
+      "rationale": "Glossary mandates 'Status' for 상태 when appearing in System or UI contexts.",
+      "confidence": 0.8
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "line 45 etc.",
+      "current": "Jin Taekyung referenced as 'Jin Taekyung' consistently but missing 'Jintae' for 진태",
+      "defect": "Glossary prefers 'Jintae' for 진태, but the text only uses Jin Taekyung, missing the Jintae rendering.",
+      "replacement": "Use 'Jintae' where applicable for 진태, distinct from Jin Taekyung.",
+      "rationale": "Glossary specifies 'Jintae' and 'Jin Taekyung' as separate entities. Ensure correct use.",
+      "confidence": 0.9
+    },
+    {
+      "id": "F05",
+      "severity": "minor",
+      "source": "line 43",
+      "current": "Hyuk Mujin addressed as 'deputy squad leader' without using 'Captain' for 조장",
+      "defect": "Glossary prefers 'Captain' for 조장, but English uses 'Deputy Squad Leader'.",
+      "replacement": "Replace 'Deputy Squad Leader' with 'Captain'.",
+      "rationale": "The source uses 조장 as Hyuk Mujin's address, which should be translated as 'Captain'.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F06",
+      "severity": "minor",
+      "source": "general context",
+      "current": "Did not translate '마도' as 'Demonic Path'",
+      "defect": "Term 'Demonic Path' missing where '마도' appears in source.",
+      "replacement": "Use 'Demonic Path' for '마도' as required.",
+      "rationale": "Glossary requires preferred term usage for consistency.",
+      "confidence": 0.9
+    },
+    {
+      "id": "F07",
+      "severity": "minor",
+      "source": "lines 299, 136",
+      "current": "Used 'Supreme Peak', not 'supreme mastery'",
+      "defect": "Glossary states '초절' should be 'supreme mastery', but text uses 'Supreme Peak'.",
+      "replacement": "Use 'supreme mastery' instead of 'Supreme Peak'.",
+      "rationale": "Glossary distinguishes '초절' as 'supreme mastery'; consistency needed.",
+      "confidence": 0.9
+    }
+  ]
+}

@@ -2,7 +2,7 @@
 
 A hospital room in Medicine King Hall.
 
-Hyuk Mujin, wound tight in bandages from head to toe, let out a groan.
+Hyuk Mujin, wrapped in bandages from head to toe, let out a groan.
 
 “I’m dying.”
 
@@ -116,7 +116,7 @@ In two days, I would set out in command of the main force’s rear guard, while 
 
 I was close to meeting the final condition of the Logout Quest: 500 Fame. Today’s visit to Medicine King Hall was a farewell of sorts.
 
-You could call it the nostalgia filter of a sergeant in his last stretch before discharge.
+You could call it the sentimentality of a sergeant nearing the end of his military service.
 
 *Well, there’s no need to tell them. Seeing their faces is enough.*
 
@@ -150,9 +150,9 @@ The moment I entered the room, they both reacted. I stopped the still-pale Gong 
 
 Tears were already welling in both their eyes. Soyul, who didn’t understand what was happening, hugged her rag doll tight and scampered over to cling to her brother.
 
-“Big brother, did you put on the Benefactor’s kindness? Show me too. Is it pretty?”
+“Big Brother, did you get a kindness? Let me see it too. Is it pretty?”
 
-*Uh. That’s clothes, isn’t it?*
+*Uh. A kindness isn’t clothing.*
 
 Leaving the chattering Soyul behind, I turned to Gong Yacheong.
 
@@ -168,7 +168,7 @@ A faint smile spread across Gong Yacheong’s lips.
 
 “That was my choice. And you came back.”
 
-I remembered that night Jopil had been chasing us. Gong Yacheong had been badly poisoned and had wanted to stay behind. Just as he had, I’d had to make a choice.
+I remembered the night Jopil had chased us. Gong Yacheong had been badly poisoned and had chosen to stay behind. Just as he had made his choice, I’d had to make mine.
 
 After a long struggle with myself, I had decided to go back for him.
 
@@ -184,7 +184,7 @@ Gong Yacheong’s voice pulled me back.
 
 “It’s nothing. I just—just had something on my mind.”
 
-“Ah, I heard the news as well. Is that what this is about?”
+“Ah, I heard the news as well. Is that what troubles you?”
 
 “What news?”
 
@@ -196,7 +196,7 @@ If Gong Yacheong, who never left his hospital room, knew about it, then everyone
 
 If there was even one spy among us, we might as well have installed a loudspeaker aimed at North Korea.
 
-*Is this war really going to be all right like this?*
+*Is this war really going to be all right?*
 
 I shook off the thought. What did it matter to me? Soon enough, none of this would have anything to do with me anyway.
 
@@ -256,7 +256,7 @@ Gong Yacheong was holding a long bundle.
 
 *What is it?*
 
-Still bewildered, I took the bundle. It was fairly heavy. Just as I was about to check what was inside, Gong Yacheong spoke.
+Still bewildered, I accepted the bundle. It was surprisingly heavy. Just as I was about to see what was inside, Gong Yacheong spoke.
 
 “Unwrap it in your quarters. Do not let anyone else see.”
 
@@ -264,13 +264,13 @@ Still bewildered, I took the bundle. It was fairly heavy. Just as I was about to
 
 * * *
 
-I unwrapped the bundle the moment I reached my quarters. Then I understood what Gong Yacheong’s last words had meant.
+I unwrapped the bundle as soon as I reached my quarters. Then I understood what Gong Yacheong’s final warning had meant.
 
 *These really are the sort of things people would covet if they saw them.*
 
 An old booklet. A small box. And a familiar sword.
 
-To someone in Murim, these were beyond comparison to any golden calf. And I had the ability to judge that value more accurately than anyone.
+To a martial artist, these items were worth far more than any golden calf. And I had the ability to judge their value more accurately than anyone else.
 
 *Check Item.*
 
@@ -322,7 +322,7 @@ Ding.
 
 “This is insane.”
 
-It really was insane. A Supreme Peak martial arts manual. A spiritual elixir that granted thirty years of internal energy. And a sword I didn’t fully understand, but that looked ridiculously good.
+It really was. A Supreme Peak martial arts manual. A spiritual elixir that granted thirty years of internal energy. And a sword I didn’t fully understand but that looked ridiculously powerful.
 
 They said a tiger left its pelt behind when it died, but Jopil had left three treasures behind.
 
@@ -350,7 +350,7 @@ Ding.
 
 > **System**
 >
-> — Fame has increased by 1.
+> — Fame increases by 1.
 
 * * *
 
@@ -370,15 +370,15 @@ As he had said, the full moon shone exceptionally brightly.
 
 “That I wished the moon didn’t exist. Something like that.”
 
-“A world without charm.”
+“What a dreary world that would be.”
 
-“What’s wrong with a little less charm? I make my living at night, so I’d be delighted if the moon disappeared.”
+“What is wrong with a little dreariness? I make my living at night. I would be delighted if the moon disappeared.”
 
-*Night life, huh.*
+*He makes his living at night.*
 
 The man prattled on in the flippant, cheerful tone of a kept man, but the Head Elder knew the truth. He possessed formidable martial arts and was a superb assassin.
 
-The wind seemed to carry the smell of blood.
+The wind seemed to carry the stench of blood.
 
 “Ah, right. How is the work progressing?”
 

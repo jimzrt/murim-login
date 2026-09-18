@@ -290,7 +290,7 @@ Ding.
 >
 > **Item Window**
 >
-> **Fire Divine Elixir**
+> **Blazing Flame Divine Pill**
 >
 > **Type:** Spiritual Elixir
 >
