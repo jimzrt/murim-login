@@ -23,8 +23,10 @@ try:
         command_committed,
         incomplete_chapter,
         is_harness_artifact,
+        load,
         master_owns_path,
         paths,
+        unregistered_next_transaction,
     )
 except ModuleNotFoundError:
     from workflow import (
@@ -33,8 +35,10 @@ except ModuleNotFoundError:
         command_committed,
         incomplete_chapter,
         is_harness_artifact,
+        load,
         master_owns_path,
         paths,
+        unregistered_next_transaction,
     )
 
 WORKFLOW_ACTION_RE = re.compile(r"^python tools/workflow\.py ([a-z]+) (\d+)$")
@@ -208,7 +212,16 @@ def main() -> int:
     in_progress = incomplete_chapter()
     chapter = in_progress if in_progress is not None else next_chapter()
     state_path = paths(chapter)["state"]
-    stage = json.loads(state_path.read_text(encoding="utf-8")).get("stage") if state_path.exists() else None
+    recorded = json.loads(state_path.read_text(encoding="utf-8")) if state_path.exists() else None
+    stage = recorded.get("stage") if isinstance(recorded, dict) else None
+    if isinstance(recorded, dict) and unregistered_next_transaction(recorded):
+        loaded, _ = load(chapter)
+        print(
+            f"  ↻ restart    chapter {chapter} is still next in docs/STATE.md; "
+            "existing translation will be replaced",
+            flush=True,
+        )
+        stage = loaded.get("stage")
     label = "resume" if in_progress is not None else "starting"
     if stage == "MASTERED":
         raise SystemExit(

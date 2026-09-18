@@ -74,8 +74,9 @@ runs the fidelity gate. Compare a frozen chapter without promoting with
 
 `python tools/workflow.py update N` replaces the former manual durable-state
 step. One bounded no-tools call receives only the current source and final copy,
-current `CONTEXT.json`, names ledger, address-pair ledger, exact glossary matches,
-and compact matching profiles. The controller validates profile replacements,
+current `CONTEXT.json`, exact glossary matches, matched address pairs, and
+compact matching profiles. It does not receive the full names or address
+ledgers. The controller validates profile replacements,
 new names, new address pairs, new profiles, context bounds, and chapter-local
 facts before generating `docs/STATE.md`, `docs/CONTEXT.json`, `docs/NAMES.md`,
 `docs/ADDRESS.md`, affected profiles, and the chapter beat. Do not invent

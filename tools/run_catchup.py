@@ -30,14 +30,13 @@ sys.path.insert(0, str(ROOT / "tools"))
 
 from run_lock import hold_audit_locks, hold_commit_lock, hold_master_lock
 from run_next import changed_paths, git
-from run_next_mastering import next_mastering_chapter
+from run_next_mastering import foreign_overlap_paths, next_mastering_chapter
 
 try:
     from tools.mastering import command_reset_for_remaster, load_config, state_for
     from tools.workflow import (
         command_committed,
         command_master,
-        incomplete_chapter,
         is_harness_artifact,
         master_allowed_paths,
         master_owns_path,
@@ -48,7 +47,6 @@ except ModuleNotFoundError:
     from workflow import (
         command_committed,
         command_master,
-        incomplete_chapter,
         is_harness_artifact,
         master_allowed_paths,
         master_owns_path,
@@ -126,13 +124,8 @@ def require_catchup_tree(chapters: list[int], *, resume: bool) -> None:
         dirty = changed_paths()
     except subprocess.CalledProcessError as error:
         raise SystemExit(error.stderr.strip() or "project must be an initialized Git repository") from None
-    in_flight = incomplete_chapter()
-    if in_flight is not None:
-        raise SystemExit(
-            f"chapter {in_flight} has an in-flight translation transaction; "
-            "finish or stop it before catch-up"
-        )
-    harness = [path for path in dirty if is_harness_artifact(path)]
+    foreign = foreign_overlap_paths(dirty, -1)
+    harness = [path for path in dirty if path not in foreign and is_harness_artifact(path)]
     unexpected = [path for path in harness if not catchup_owns_path(path, chapters)]
     if unexpected:
         raise SystemExit("working tree has unexpected changes: " + ", ".join(unexpected))
@@ -173,10 +166,11 @@ def reset_chapters(*, dry_run: bool) -> None:
 
 def classify_audit_paths(dirty: list[str]) -> tuple[list[str], list[str]]:
     """Commit only 9-63 audit files; ignore other catch-up dirt; reject foreign harness files."""
+    foreign = foreign_overlap_paths(dirty, -1)
     allowed: list[str] = []
     unexpected: list[str] = []
     for path in dirty:
-        if not is_harness_artifact(path):
+        if not is_harness_artifact(path) or path in foreign:
             continue
         if catchup_owns_path(path, AUDIT_CHAPTERS):
             allowed.append(path)
@@ -243,16 +237,21 @@ def primary_stage(number: int) -> str | None:
         return None
 
 
+def unexpected_catchup_paths(dirty: list[str], chapter: int) -> list[str]:
+    foreign = foreign_overlap_paths(dirty, chapter)
+    return [
+        path for path in dirty
+        if is_harness_artifact(path) and not catchup_owns_path(path) and path not in foreign
+    ]
+
+
 def commit_mastered_chapter(chapter: int, *, allow_empty: bool = False) -> None:
     transaction = json.loads(paths(chapter)["state"].read_text(encoding="utf-8"))
     if transaction.get("stage") != "MASTERED":
         raise SystemExit(f"workflow stopped at {transaction.get('stage')}; expected MASTERED")
     dirty = changed_paths()
     allowed = master_allowed_paths(chapter, dirty)
-    unexpected = [
-        path for path in dirty
-        if is_harness_artifact(path) and not catchup_owns_path(path)
-    ]
+    unexpected = unexpected_catchup_paths(dirty, chapter)
     if unexpected:
         raise SystemExit("refusing to commit unexpected paths: " + ", ".join(unexpected))
     ours = [path for path in dirty if path in allowed]

@@ -502,9 +502,10 @@ def build_update_packet(number: int, reading_copy: str) -> str:
     context_path = ROOT / "docs" / "CONTEXT.json"
     names_path = ROOT / "docs" / "NAMES.md"
     address_path = ROOT / "docs" / "ADDRESS.md"
+    glossary = exact_glossary_entries(source)
     profiles = profile_entries(source)
+    address_pairs = matched_address_pairs(source, profiles)
     prior = read_json(context_path)
-    address_ledger = address_path.read_text(encoding="utf-8").strip() if address_path.is_file() else "(None.)"
     body = f"""# Durable State Update — Chapter {number}
 
 Return exactly one JSON object and no Markdown fence. Record only facts established
@@ -528,14 +529,15 @@ complete line in Aliases, Role, Personality, Voice, or Relationships. Do not
 return Safe through updates; the controller sets that field automatically.
 Each profile field should be one concise sentence; never append semicolon-separated
 chapter history.
-`names` contains only newly required Korean-to-English rows; Korean keys must occur
-in the source. `address_pairs` contains only newly required speaker→addressee rows;
-each Korean key must occur in the source or already appear in the address ledger,
-and at least one endpoint must occur in the source (first-person narrators may be
-ledger-only). Speaker and addressee must be Hangul source spellings (Arabic digits
-allowed in titles such as 1팀장; do not romanize). Do not invent risk-register rows. Beat
-plot paragraphs are plain strings; continuity and translation decisions are concise
-list items.
+`names` contains only newly required Korean-to-English rows that are absent from
+Exact glossary matches; Korean keys must occur in the source. Do not repeat
+glossary matches. The controller drops rows already in the names ledger.
+`address_pairs` contains only newly required speaker→addressee rows that are
+absent from Matched address pairs. Speaker and addressee must be Hangul source
+spellings (Arabic digits allowed in titles such as 1팀장; do not romanize). At
+least one endpoint must occur in the source. The controller drops pairs already
+in the address ledger. Do not invent risk-register rows. Beat plot paragraphs
+are plain strings; continuity and translation decisions are concise list items.
 Return this exact shape:
 
 {{
@@ -595,17 +597,13 @@ Use empty arrays when no name, address-pair, or profile change is required.
 {json.dumps(prior, ensure_ascii=False, indent=2)}
 ```
 
-## Existing names ledger
-
-{names_path.read_text(encoding="utf-8").strip()}
-
-## Existing address-pair ledger
-
-{address_ledger}
-
 ## Exact glossary matches
 
-{glossary_text(exact_glossary_entries(source))}
+{glossary_text(glossary)}
+
+## Matched address pairs
+
+{address_pairs_text(address_pairs)}
 
 ## Listed compact profiles
 

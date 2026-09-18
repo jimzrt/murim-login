@@ -40,28 +40,47 @@ class ContextPacketTest(unittest.TestCase):
             (root / "characters").mkdir()
             (root / "docs" / "workflow.json").write_text(json.dumps({
                 "continuity_source_limit": 2,
+                "context_max_bytes": 16384,
                 "profile_max_bytes": 4096,
                 "profile_total_max_bytes": 12288,
+                "context_thresholds": {
+                    "active_continuity": 12,
+                    "open_questions": 5,
+                    "temporary_decisions": 5,
+                },
             }), encoding="utf-8")
             (root / "docs" / "CONTEXT.json").write_text(
                 json.dumps(self.active()), encoding="utf-8"
             )
             (root / "docs" / "NAMES.md").write_text(
-                "# Names\n\n| Korean | English | Notes |\n|---|---|---|\n", encoding="utf-8")
+                "# Names\n\n| Korean | English | Notes |\n|---|---|---|\n"
+                "| 주인공 | **Hero** | matched |\n"
+                "| 없는이름 | **Decoy** | must not appear |\n",
+                encoding="utf-8",
+            )
             (root / "docs" / "ADDRESS.md").write_text(
-                "# Address\n\n| Speaker | Addressee | Kinship | Normal address | Speech level | Notes |\n|---|---|---|---|---|---|\n",
+                "# Address\n\n"
+                "| Speaker | Addressee | Kinship | Normal address | Speech level | Notes |\n"
+                "| ------- | --------- | ------- | -------------- | ------------ | ----- |\n"
+                "| 주인공 | 상대 | role | Hero | casual | matched |\n"
+                "| 갑돌 | 을순 | other | decoy | casual | must not appear |\n",
                 encoding="utf-8",
             )
             source_path = root / "chapter.txt"
-            source_path.write_text("주인공", encoding="utf-8")
+            source_path.write_text("주인공 상대", encoding="utf-8")
             profile_path = root / "characters" / "Hero.md"
             profile = "# Hero (주인공)\n\n- **Safe through:** Chapter 4\n- **Voice:** Direct\n"
             profile_path.write_text(profile, encoding="utf-8")
+            glossary = [{
+                "korean": "주인공",
+                "english": "Hero",
+                "row": "| 주인공 | **Hero** | matched |",
+            }]
             with (
                 patch.object(context, "ROOT", root),
-                patch.object(context, "chapter_text", return_value="주인공"),
+                patch.object(context, "chapter_text", return_value="주인공 상대"),
                 patch.object(context, "chapter_source_path", return_value=source_path),
-                patch.object(context, "exact_glossary_entries", return_value=[]),
+                patch.object(context, "exact_glossary_entries", return_value=glossary),
                 patch.object(context, "profile_entries", return_value=[(profile_path, profile)]),
             ):
                 packet = context.build_update_packet(5, "# Chapter 5\n\nFinal.\n")
@@ -69,7 +88,14 @@ class ContextPacketTest(unittest.TestCase):
         self.assertIn("# Chapter 5\n\nFinal.", packet)
         self.assertIn('"profile_updates"', packet)
         self.assertIn('"address_pairs"', packet)
-        self.assertIn("Existing address-pair ledger", packet)
+        self.assertIn("## Exact glossary matches", packet)
+        self.assertIn("## Matched address pairs", packet)
+        self.assertIn("| 주인공 | **Hero** | matched |", packet)
+        self.assertIn("| 주인공 | 상대 | role | Hero | casual | matched |", packet)
+        self.assertNotIn("Existing names ledger", packet)
+        self.assertNotIn("Existing address-pair ledger", packet)
+        self.assertNotIn("없는이름", packet)
+        self.assertNotIn("갑돌", packet)
         self.assertNotIn("Latest completed summary", packet)
         self.assertNotIn("compendium.md", packet)
 
