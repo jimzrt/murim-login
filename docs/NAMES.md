@@ -1208,3 +1208,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 활신대법 | **Life-Restoring Great Technique** | Technique for regulating qi and untangling disrupted qi and blood. |
 | 무형지독 | **Formless Ultimate Poison** | Unidentified poison discovered inside Jeok Cheongang's body. |
 | 만독지환 | **Myriad-Poison Ring** | Quest title concerning a legendary treasure said to detoxify any poison. |
+| 녹영대 | **Green Shadow Squad** | Sichuan Tang Clan unit specializing in intelligence and assassination. |
+| 익산 | **Yishan** | Sichuan location named in Tang Sadok's deployment report. |
+| 삼합 | **Sanhe** | Sichuan location named in Tang Sadok's deployment report. |
