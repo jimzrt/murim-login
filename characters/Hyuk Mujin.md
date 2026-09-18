@@ -1,6 +1,6 @@
 # Hyuk Mujin (혁무진)
 
-- **Safe through:** Chapter 331
+- **Safe through:** Chapter 332
 - **Aliases:** Swift Wind Sword
 - **Role:** Level 50 First Rate martial artist; Captain of the Jin Family of Taiyuan's Gatekeepers; deputy squad leader of White Tiger Hall's reconnaissance squad; Vice Squad Leader of the Jin Dragon Squad under Wipeng; son of a wealthy Taiyuan textile-merchant family. He accepted Jin Taekyung's invitation to train with Taekyung and Cheongpung, and later joined Taekyung's party seeking the Divine Physician in Sichuan. He is currently aboard a Water Dragon Stronghold fast ship with Taekyung's party, traveling from Guang'an toward Chengdu.
 - **Personality:** Young, disciplined, persistent, and talented. Values loyalty and respectable conduct, but is proud, glory-seeking, suspicious of Taekyung, and bluntly critical of the family's disgraced third son. He is an avid wuxia reader who sometimes mistakes fictional conventions for reality.

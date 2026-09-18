@@ -1,0 +1,63 @@
+{
+  "chapter": 332,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.222,
+    "source_characters": 5623,
+    "source_paragraphs": 169,
+    "translation_characters": 12496,
+    "translation_paragraphs": 173
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "대협",
+        "preferred": "Great Hero or Sir depending tone"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "송이",
+        "preferred": "Song-i"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "갑자",
+        "preferred": "jiazi"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "세가",
+        "preferred": "great family"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "소원",
+        "preferred": "Sowon"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "리치",
+        "preferred": "Lich"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}

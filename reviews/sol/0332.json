@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "At Mu Song’s nod, his subordinates approached and dragged the river bandits away.",
+      "defect": "The draft changes Mu Song’s chin gesture into a nod, altering the specified physical action.",
+      "id": "F01",
+      "rationale": "턱짓 is a gesture made with the chin, not a nod.",
+      "replacement": "At a jerk of Mu Song’s chin, his subordinates approached and dragged the river bandits away.",
+      "severity": "critical",
+      "source": "무송이 턱짓하자 그의 수하들이 다가와 수적들을 질질 끌고 갔다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Unlike the other river bandits, a man in his fifties knelt before Mu Song with his body tightly bound in chains.",
+      "defect": "The draft loses the causative force of 무릎 꿇려진 and makes the prisoner appear to kneel rather than having been forced to his knees.",
+      "id": "F02",
+      "rationale": "무릎 꿇려진 explicitly describes a posture imposed on Hwang Tae-gu by others.",
+      "replacement": "Unlike the other river bandits, a man in his fifties had been forced to his knees before Mu Song, tightly bound in chains.",
+      "severity": "major",
+      "source": "다른 수적들과는 달리 쇠사슬에 꽁꽁 묶인 채 무송의 앞에 무릎 꿇려진 오십 대의 사내."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Yes. I can still vividly see the way you boldly—no, courageously—pierced straight through the ship.",
+      "defect": "“Boldly” does not preserve Mujin’s slip into calling the act reckless before hastily correcting himself.",
+      "id": "F03",
+      "rationale": "무모 means reckless; the self-correction to 용맹하게 is the joke and reflects Mujin’s fear of Taekyung’s reaction.",
+      "replacement": "Yes. I can still vividly see the way you recklessly—no, courageously—pierced straight through the ship.",
+      "severity": "minor",
+      "source": "예. 무모, 아니 용맹하게 선박을 그대로 관통해 버리시던 모습이 지금도 눈에 훤합니다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "*If this is how he grew, then… it’s better than nothing.*",
+      "defect": "“Better than nothing” dismisses Cheongpung’s growth as inadequate, whereas Taekyung concludes that growth achieved even through these painful circumstances may be fortunate or for the best.",
+      "id": "F04",
+      "rationale": "차라리 다행이지 expresses qualified relief about the outcome, not dissatisfaction with the amount or quality of Cheongpung’s growth.",
+      "replacement": "*If he managed to grow even this way… maybe it was for the best.*",
+      "severity": "major",
+      "source": "‘이렇게라도 성장했다면…… 차라리 다행이지.’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Powerful energy gathered at the tips of both weapons.",
+      "defect": "The generic “energy” fails to render Murim 기운 as qi under the binding terminology distinction.",
+      "id": "F05",
+      "rationale": "This is martial energy gathered on a harpoon and spear immediately before the release of Spear Energy, so 기운 denotes Murim qi.",
+      "replacement": "Powerful qi gathered at the tips of both weapons.",
+      "severity": "minor",
+      "source": "바로 그 끝에 맺힌 강대한 기운."
+    },
+    {
+      "confidence": 0.94,
+      "current": "The distance was easily over two hundred zhang. But my vision had improved enough to be called eagle-eyed, allowing me to take in the entire scene at a glance.",
+      "defect": "“Eagle-eyed” normalizes away the narrator’s deliberately exaggerated image of himself as a literal “human eagle.”",
+      "id": "F06",
+      "rationale": "인간 독수리 is “human eagle,” and preserving that odd image retains Taekyung’s comic narrative voice.",
+      "replacement": "The distance was easily over two hundred zhang. But my vision had improved enough that you could call me a human eagle, allowing me to take in the entire scene at a glance.",
+      "severity": "minor",
+      "source": "족히 이백여 장은 떨어진 거리. 그러나 인간 독수리라고 불러도 될 만큼 향상된 시력은 모든 광경을 일목요연하게 담아냈다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "There’ll be a mass funeral today. Tsk, tsk.",
+      "defect": "A “mass funeral” is one ceremony for multiple dead people, while 줄초상 predicts a succession of deaths and funerals.",
+      "id": "F07",
+      "rationale": "줄초상 refers to multiple deaths or funerals occurring in succession, matching Gung Gibang’s prediction that the bandits will be killed one after another.",
+      "replacement": "There’ll be funerals one after another today. Tsk, tsk.",
+      "severity": "minor",
+      "source": "오늘 줄초상 나겠군. 쯧쯧."
+    }
+  ],
+  "summary": "One altered physical action, one loss of coercive agency, and several characterization, humor, and terminology issues require correction.",
+  "version": 1
+}

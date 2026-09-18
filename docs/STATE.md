@@ -1,24 +1,24 @@
 # Translation State
 
-- Last completed: 331
-- Next chapter: 332
-- Current block: 330–334 (2/5)
-- Latest translation: `translations/0331.md`
-- Latest summary: `summaries/beats/0331.md`
-- Safe profiles through: chapter 331
+- Last completed: 332
+- Next chapter: 333
+- Current block: 330–334 (3/5)
+- Latest translation: `translations/0332.md`
+- Latest summary: `summaries/beats/0332.md`
+- Safe profiles through: chapter 332
 
 ## Current Block
 
-- Jin Taekyung's party encounters a Water Dragon Stronghold ship and defeats its lord, Mu Song, after he attacks them. Mu Song is the second martial brother of Cheol Soo and a Disciple of the Seafaring King, so Taekyung negotiates rather than continuing the conflict.
-- Mu Song carries Taekyung's party from Guang'an toward Chengdu aboard a Water Dragon Stronghold fast ship. Cheongpung enjoys the river, Gung Gibang trades insults with Taekyung, and Hyuk Mujin suffers severe seasickness; when distant cries reveal another attack on the Yangtze, Mu Song angrily goes to confront the attackers.
+- Mu Song's party encounters two Yangtze River Channel League ships attacking a small boat. After discovering that the attackers are fellow river bandits, Mu Song leads five fast ships into battle; he and Taekyung leap across the water and smash through one enemy vessel together, sinking it while capturing the other.
+- Mu Song orders more than fifty surrendered river bandits drowned for tarnishing the Yangtze River Channel League's name and invading Water Dragon Stronghold territory. Cheongpung struggles with witnessing the killings but resolves to become accustomed to the reality of the Murim. The captured mastermind, Hwang Tae-gu, is about to be executed when an unidentified speaker interrupts and addresses Mu Song as the Ship-Fire Boy.
 
 ## Open Questions
 
 - Where is the Divine Physician in Sichuan, and can Jeok Cheongang be treated within the remaining window?
-- Which other Yongbong Escort Bureau members collaborated with Heo Jun, and how far does the internal conspiracy extend?
+- Who is the unidentified person interrupting Mu Song, and what do they want with him or Hwang Tae-gu?
+- Which other Yongbong Escort Bureau members collaborated with Heo Jun, and how will Song Ilseom's Guangdong Chen lineage affect the bureau and the wider Murim?
 - How will the Zhongnan Sect's Sect Leader and Elders respond to the exposed scheme, and what consequences will Hwangbo Eom's defeat, Heo Jun's betrayal, and Zhongnan's coercion cause within the Murim?
 - Who sought the Guangdong Chen Family's Peak martial arts, and what happened to the other members of the family?
-- How will Song Ilseom's Guangdong Chen lineage affect the Yongbong Escort Bureau and the wider Murim?
 
 ## Exceptional Decision
 
