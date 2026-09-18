@@ -1,0 +1,176 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Even renowned masters could not easily enter or leave its grounds.",
+      "defect": "The source says prominent or renowned people, not martial masters; “masters” adds martial status.",
+      "id": "F01",
+      "rationale": "명사 means a distinguished or prominent person here, whereas “master” has a specific martial meaning in this setting.",
+      "replacement": "Even prominent figures could not easily come and go.",
+      "severity": "minor",
+      "source": "어지간히 이름난 명사조차 쉽게 드나들 수 없고"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“May we be reborn in the Pure Land with no thought but Amitabha, our hearts forever bound to the light of the jeweled urn…”",
+      "defect": "The translation changes a prayer about having no other thought at life’s end into a wish for rebirth, and 옥호광 refers to the radiance of the Buddha’s white urna rather than a “jeweled urn.”",
+      "id": "F02",
+      "rationale": "The source invokes Amitabha’s sole presence at the end of life and the radiance of his 옥호, the auspicious white curl between the brows.",
+      "replacement": "“May I have no other thought at the end of this life, with Amitabha alone beside me, my heart forever bound to the light from the white curl between his brows…”",
+      "severity": "major",
+      "source": "“원아진생무별염 아미타불독상수 심심상계옥호광…….”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I heard the patient suddenly started vomiting blood. Wasn’t he stable?”",
+      "defect": "The draft assigns the unidentified patient a male gender that the source does not supply.",
+      "id": "F03",
+      "rationale": "Korean omits the patient’s gender, so the genuine ambiguity should be retained.",
+      "replacement": "“The patient suddenly started vomiting blood? Weren’t they stable?”",
+      "severity": "major",
+      "source": "“갑자기 환자가 피를 토했다니. 안정된 것 아니었나?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“If I knew that, would I be standing here? His internal injuries are unquestionably severe, but I can’t figure out what’s causing these symptoms…”",
+      "defect": "The draft again assigns the unidentified patient a male gender and weakens the source’s statement that the patient clearly suffered serious internal injuries.",
+      "id": "F04",
+      "rationale": "No gender is stated, and 심각한 내상을 입은 건 분명한데 describes the confirmed severity of the patient’s internal injuries.",
+      "replacement": "“If I knew that, would I be here right now? The patient clearly suffered serious internal injuries, but I can’t make sense of these symptoms…”",
+      "severity": "major",
+      "source": "“그걸 알면 내가 지금 여기 있겠소? 심각한 내상을 입은 건 분명한데 도무지 무슨 증상인지…….”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "disciples from large and small sects",
+      "defect": "The draft changes disciples of small and mid-sized sects into disciples of large and small sects, altering the represented sect hierarchy.",
+      "id": "F05",
+      "rationale": "중소 specifically denotes medium and small organizations, not large ones.",
+      "replacement": "disciples from small and mid-sized sects",
+      "severity": "major",
+      "source": "중소 문파의 제자들도 있었으며"
+    },
+    {
+      "confidence": 1.0,
+      "current": "They were glorious wounds, earned while fighting the Three Fiends.",
+      "defect": "The singular title 삼괴 refers to the Third Fiend here, but the draft changes the opponent into all three Qilian Fiends.",
+      "id": "F06",
+      "rationale": "This scene concerns the singular Third Fiend who attacked Emei; translating the title collectively changes who Gung Gibang fought.",
+      "replacement": "They were glorious wounds, earned while fighting the Third Fiend.",
+      "severity": "critical",
+      "source": "삼괴를 상대하면서 얻은 영광의 상처였다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“The Three Fiends should have killed that bastard.”",
+      "defect": "The draft turns the singular Third Fiend into the collective Three Fiends.",
+      "id": "F07",
+      "rationale": "삼괴 is the title of the third brother in this singular construction, not the collective name 기련삼괴.",
+      "replacement": "“The Third Fiend should have killed that bastard.”",
+      "severity": "critical",
+      "source": "“삼괴가 저놈을 죽였어야 했는데.”"
+    },
+    {
+      "confidence": 0.95,
+      "current": "And now, Jin Taekyung possessed martial prowess so distant from what he had once been that it was hard to believe he was the same person.",
+      "defect": "The draft invents a comparison between Taekyung’s present and former strength. The source instead says his martial prowess now feels so far beyond the observers that they can scarcely believe he is the same kind of human as them.",
+      "id": "F08",
+      "rationale": "The following thought that there is one other person like him points to another seemingly inhumanly powerful individual, Cheongpung, rather than another person whose strength changed over time.",
+      "replacement": "And now, Jin Taekyung had reached such distant heights in martial prowess that they could hardly believe he was human like them.",
+      "severity": "major",
+      "source": "그리고 이제는 아득하게 느껴질 만큼의 무위를 갖춘 진태경을 보고 있노라면, 도무지 이게 같은 사람인가 싶을 정도였다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“When I was young, I read an encyclopedia of spirit creatures that described it as an extremely venomous beast covered entirely in black scales.”",
+      "defect": "The source says the creature was entirely black but does not mention scales.",
+      "id": "F09",
+      "rationale": "검은 빛을 띤 describes its overall coloration; “scales” is an unsupported physical detail.",
+      "replacement": "“When I was young, I read an encyclopedia of spirit creatures that described it as an extremely venomous creature that was black all over.”",
+      "severity": "minor",
+      "source": "어렸을 때 본 영물백과(靈物百科)에서는 온통 검은 빛을 띤 엄청난 독물이라던데."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Even the Three Fiends, who had vanished without a trace, had been captured by an unknown fiend.",
+      "defect": "The draft changes the singular Third Fiend into all three brothers and renders the unidentified 괴인 as a “fiend,” misleadingly associating the captor with the named Fiends.",
+      "id": "F10",
+      "rationale": "삼괴 is the Third Fiend, while 정체 모를 괴인 means an unidentified or mysterious person, not one of the titled Fiends.",
+      "replacement": "Even the Third Fiend, who had vanished without a trace, had been captured by a mysterious figure.",
+      "severity": "critical",
+      "source": "감쪽같이 사라졌던 삼괴마저 정체 모를 괴인에 의해 붙잡혔다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Since we’re talking about it, Mungyeong may be skilled for his age, but isn’t he a little young to be put in charge?”",
+      "defect": "The draft reverses who is being entrusted to whom: Mungyeong is caring for the Captain, not being placed in charge generally.",
+      "id": "F11",
+      "rationale": "조장을 맡기다 here means to entrust the Captain and his treatment to Mungyeong, as confirmed by the discussion of the Divine Physician’s other patients.",
+      "replacement": "“Since we’re talking about it, Mungyeong may be skilled for his age, but isn’t he a little young for us to entrust Captain to him?”",
+      "severity": "major",
+      "source": "말이 나왔으니 말인데, 문경이가 나이에 비해서 실력이 좋긴 하지만 조장을 맡기기에는 좀 그렇지 않습니까?"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Don’t say what you just said in front of Mungyeong. Especially not in front of Mungyeong.”",
+      "defect": "The draft omits Cheongpung beginning to call Mungyeong “Grandpa Mun” and then hurriedly correcting himself, losing a deliberate identity clue and comic register shift.",
+      "id": "F12",
+      "rationale": "문 할 is an interrupted 문 할아버지; the immediate 아니 correction is intentional and must remain visible.",
+      "replacement": "“What you just said—don’t say it in front of Grandpa Mun. I mean, especially not in front of Mungyeong.”",
+      "severity": "major",
+      "source": "“방금 하셨던 말, 문 할. 아니 문경이 앞에서는 특히 하지 마세요.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "*Sssrrk? What the hell?*",
+      "defect": "The draft softens Taekyung’s profanity.",
+      "id": "F13",
+      "rationale": "시벌 is a colloquial deformation of a strong Korean profanity and is stronger than “what the hell.”",
+      "replacement": "*Sssrrk? What the fuck?*",
+      "severity": "minor",
+      "source": "취릭? 이거 뭐여, 시벌."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“The Three Fiends. That crazy old fiend did this to me.”",
+      "defect": "The draft changes the singular Third Fiend into all three Qilian Fiends.",
+      "id": "F14",
+      "rationale": "Hyuk Mujin is identifying the one old master who injured him; 삼괴 is the Third Fiend’s individual title.",
+      "replacement": "“The Third Fiend. That crazy old monster did this to me.”",
+      "severity": "critical",
+      "source": "“삼괴. 그 미친 노괴가 절 이렇게 만들었습니다.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "That lunatic Hyuk Mujin threw dirt mixed with stones at the Three Fiends.",
+      "defect": "The draft changes the singular target of Hyuk Mujin’s attack into all three Fiends.",
+      "id": "F15",
+      "rationale": "삼괴에게 identifies the Third Fiend as the sole target.",
+      "replacement": "That lunatic Hyuk Mujin threw dirt mixed with stones at the Third Fiend.",
+      "severity": "critical",
+      "source": "혁무진 저 미친놈이 흙에 돌을 섞어서 삼괴에게 던졌거든."
+    },
+    {
+      "confidence": 0.99,
+      "current": "It was a good thing they had survived. What would they have done if they had died?",
+      "defect": "The second sentence assigns an impossible action to the dead men rather than expressing Taekyung’s alarm at what would have happened.",
+      "id": "F16",
+      "rationale": "어쩔 뻔했나 is a rhetorical expression of relief and horror at the alternative outcome, not a question about what the dead men would do.",
+      "replacement": "Thank goodness they had survived. What would have happened if they had died?",
+      "severity": "minor",
+      "source": "목숨을 건졌기에 망정이지, 죽었으면 어쩔 뻔했나."
+    },
+    {
+      "confidence": 0.99,
+      "current": "A powerful energy boiled throughout my entire body.\n\nThe world before my eyes, and the energy of nature surrounding me, felt clear and vivid.",
+      "defect": "The draft uses generic “energy” for Murim 기운 instead of the required term “qi.”",
+      "id": "F17",
+      "rationale": "This is Taekyung sensing his newly attained Supreme Peak state and the surrounding natural qi; it is Murim qi, not generic energy or Hunter mana.",
+      "replacement": "Powerful qi surged throughout my entire body.\n\nEverything before my eyes and the natural qi surrounding me felt clear and vivid.",
+      "severity": "minor",
+      "source": "전신에서 끓어오르는 강대한 기운.\n\n눈 앞에 펼쳐진 시야와 나를 둘러싼 대자연의 기운이 또렷하고 생생하게 느껴졌다."
+    }
+  ],
+  "summary": "The draft contains repeated critical mistranslations of the singular Third Fiend as the collective Three Fiends, along with meaningful losses of ambiguity, hierarchy, characterization, and Murim terminology.",
+  "version": 1
+}

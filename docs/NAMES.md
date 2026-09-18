@@ -1310,3 +1310,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 서장 | **Tibet** | Region considered by the Third Fiend as a possible escape route. |
 | 인피 면구 | **human-skin mask** | Spaced source variant of 인피면구. |
 | 역용술 | **disguise technique** | Technique used by the Third Fiend to conceal his identity. |
+| 명진 | **Myeongjin** | Daoist assisting Venerable Myoryeong with the funeral rites. |
+| 열화신룡 | **Blazing Flame Divine Dragon** | New sobriquet bestowed on Jin Taekyung. |
+| 이무기 | **imugi** | Legendary serpent mentioned as the only comparable creature to a Thousand-Year Poison Horned Snake. |
+| 참이슬 | **Chamisul** | Korean soju brand used in Jin Taekyung's joke about renaming the snake. |

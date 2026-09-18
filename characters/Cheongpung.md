@@ -1,9 +1,9 @@
 # Cheongpung (청풍)
 
-- **Safe through:** Chapter 368
+- **Safe through:** Chapter 370
 - **Aliases:** Huashan Divine Dragon
-- **Role:** Twenty-three-year-old Huashan outsider, grandson and Disciple of Sword Saint Mae Jonghak, a Supreme Peak master who grievously wounded First Fiend before the Slaughter Saint killed him and then reached the wounded Tang Sadok to provide treatment.
+- **Role:** Cheongpung is a twenty-three-year-old Huashan outsider, the grandson and Disciple of Sword Saint Mae Jonghak, and a Supreme Peak martial master known as the Huashan Divine Dragon.
 - **Personality:** Affable, dreamy, hazy, and childlike in manner, with innocent curiosity, delight in novel public attention, a deep love of martial arts, and a martial artist's competitive pride; he becomes unsettled when someone copies his martial arts
 - **Voice:** Dreamy and hazy, with innocent, polite phrasing
-- **Relationships:** Mae Jonghak is his grandfather and martial instructor; Baek Museong is his Martial Nephew; Jin Taekyung and Hyuk Mujin are his Benefactors and companions, while Taekyung has become his only true martial rival; he now faces the unidentified newcomer Mungyeong after First Fiend’s death.
+- **Relationships:** Mae Jonghak is his grandfather and martial instructor, Baek Museong is his Martial Nephew, and Jin Taekyung and Hyuk Mujin are his Benefactors and companions while Taekyung is his only true martial rival.
 - **Sources:** Korean source and accepted translation, Chapter 131

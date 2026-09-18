@@ -535,3 +535,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 문경 | 적천강 | old_acquaintances | Fire King | familiar and grave | The figure bearing Mungyeong’s name greets Jeok Cheongang by his established epithet. |
 | 사형 | 황소 | senior_disciple_to_junior_disciple | you; brat | blunt-commanding | The unnamed Senior Brother sharply scolds Hwangso and orders him to search. |
 | 황소 | 사형 | junior_disciple_to_senior_disciple | Senior Brother | casual-but-junior | Hwangso addresses his supervising senior with a familiar but deferential tone while complaining about the mission. |
+| 궁기방 | 혁무진 | squad_companions | you; that lunatic | insulting-casual | Gung Gibang mocks Hyuk Mujin's injuries and calls him a lunatic for attacking the Third Fiend. |
+| 궁기방 | 청풍 | martial_companions | Young Hero Cheongpung | formal-polite | Gung Gibang uses 청 소협 while asking why Cheongpung is at the temporary clinic. |
+| 청풍 | 미미 | handler_to_companion_snake | Mimi | cheerful-commanding | Cheongpung repeatedly calls and commands the Thousand-Year Poison Horned Snake. |

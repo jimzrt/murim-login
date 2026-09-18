@@ -1,6 +1,6 @@
 # Tang Sadok (당사독)
 
-- **Safe through:** Chapter 368
+- **Safe through:** Chapter 370
 - **Aliases:** Myriad-Poison Asura
 - **Role:** Current Family Head of the Sichuan Tang Clan, gravely wounded after being forced to watch the clan’s destruction but still alive and receiving treatment from Cheongpung.
 - **Personality:** Grim, cold, blunt, suspicious, and unsentimental, with fierce concern for the Tang Clan’s affairs.
