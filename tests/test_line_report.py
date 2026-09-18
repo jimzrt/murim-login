@@ -379,7 +379,8 @@ class ReportServerTest(unittest.TestCase):
     def test_parse_chapter_list(self):
         self.assertEqual(parse_chapter_list(b"[160, 161]"), [160, 161])
         self.assertIsNone(parse_chapter_list(b'{"chapter": 1}'))
-        self.assertIsNone(parse_chapter_list(b"[0]"))
+        self.assertEqual(parse_chapter_list(b"[0, 160]"), [0, 160])
+        self.assertIsNone(parse_chapter_list(b"[-1]"))
         self.assertIsNone(parse_chapter_list(b"["))
 
     def test_webhook_hmac(self):
