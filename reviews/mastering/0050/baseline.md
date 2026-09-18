@@ -482,9 +482,9 @@ He clenched his teeth and walked out of the office.
 
 One last blow came after him.
 
-“Hey, HR. Process two resignations today. Kim Sangshik and Kim Sangho.”
+“Hey, HR. Process two terminations today. Kim Sangshik and Kim Sangho.”
 
-For the next few days, Sopung Guild was in an uproar over the rare event of a father and son resigning at the same time.
+For the next few days, Sopung Guild was in an uproar over the rare event of a father and son being forced out at the same time.
 
 Along with that, the hottest topic in the Guild became the recent whereabouts of the bottom-tier Hunter who had quit not long before.
 
