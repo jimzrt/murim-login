@@ -18,15 +18,15 @@ Socheon explained through his sobs that he had met us on the hill and that I had
 
 “Yes, I am.”
 
-“Ah, Heaven has helped us!”
+“Ah, Heaven has saved us!”
 
 “…”
 
-*I helped you, you old man.*
+*I saved you, old man.*
 
-“I was sure I’d fallen to the bottom of the mountain… I thought that was the end of me.”
+“I fell down the mountain… I thought that was the end of me.”
 
-“You nearly did. You were lucky.”
+“It nearly was. You were lucky.”
 
 I pointed below the ridge. Two corpses that appeared to belong to the enemy lay with their heads embedded in trees.
 
@@ -36,7 +36,7 @@ If the slope he had tumbled down hadn’t been covered in thick undergrowth, he 
 
 I had only realized the middle-aged man was there because of the Quest Window.
 
-Even after I defeated all the enemies, the **Survivors of the Sakju Branch** Quest had not been completed. That meant there were more survivors.
+Even after I defeated all the enemies, the **Survivors of the Sakju Branch** Quest had remained incomplete. That meant there was another survivor.
 
 *The question was whether there were any more besides him…*
 
@@ -56,7 +56,7 @@ Ding.
 
 “Whew.”
 
-The middle-aged man exhaled. Though he had only circulated his qi briefly, his complexion had improved noticeably.
+The middle-aged man let out a breath. Though he had only circulated his qi briefly, he seemed to have recovered enough strength to function.
 
 He rose and respectfully clasped his hands in salute.
 
@@ -130,13 +130,13 @@ The System was absolute and factual. According to the Quest Window, these three 
 
 Gong Yacheong gritted his teeth.
 
-“Jopil, One Question, One Kill. That was the man. The Branch Leader knew we were doomed the moment he saw him and entrusted his dependents to me.”
+“Jopil, One Question, One Kill. That was the man. The Branch Leader knew we had lost the moment he saw him and entrusted the families to me.”
 
 Socheon’s small fists trembled.
 
 “I’ll tear him limb from limb and kill him with my own hands.”
 
-That was an unusual choice of words for a child, but considering the grudge carved into his bones, it was understandable.
+It was an unusual choice of words for a child, but considering the hatred carved into his bones, it was understandable.
 
 I patted Socheon on the head.
 
@@ -144,17 +144,17 @@ I patted Socheon on the head.
 
 “Really?”
 
-“A man’s word is worth a thousand pieces of gold. Do you think I’d say one thing and do another? I’ll definitely catch that bastard and level u—”
+“A man’s word weighs a thousand pieces of gold. Do you think I’d say one thing and do another? I’ll catch that bastard and level u—”
 
 “Huh?”
 
-“No, I mean I’ll kill him and avenge your grudge.”
+“No, I mean I’ll kill him and avenge you.”
 
 “Ah… Thank you. Thank you so much, Great Hero Hong!”
 
 “Thank you. Truly, thank you!”
 
-The two of them repeatedly expressed their gratitude. I felt like a real scumbag, and a sharp stab tore through one corner of my chest.
+The two of them thanked me over and over. My conscience started pricking me hard enough to hurt.
 
 *No, this is fine. They’ll be happy when their enemy dies, and I’ll be happy when I level up. It’s mutually beneficial. Mutually beneficial.*
 
@@ -198,7 +198,7 @@ That was when Gong Yacheong spoke.
 
 “Jopil is a fucking bast—huh?”
 
-“Jopil, One Question, One Kill. He’s one of the few Peak masters in all of Shanxi. What do you think is the reason he has survived until now, despite being tangled up in all kinds of gratitude and grudges?”
+“Jopil, One Question, One Kill. He’s one of the few Peak masters in all of Shanxi Province. Why do you think he’s survived this long despite being entangled in every kind of gratitude and grudge?”
 
 “Don’t tell me…”
 
@@ -234,9 +234,9 @@ This time, he turned to the reconnaissance squad. They hadn’t even swung their
 
 “…Great Hero.”
 
-“We’re returning to the main family. Everyone, prepare to leave!”
+I gently peeled Socheon off me and shouted, “We’re returning to the main family! Everyone, prepare to leave!”
 
-I hurried back toward the squad, but Socheon’s hand clutched my collar tightly and refused to let go. Tears glimmered in his round eyes.
+I hurried toward the squad, but Socheon grabbed my collar and refused to let go. Tears glimmered in his round eyes.
 
 “Great Hero.”
 
@@ -328,7 +328,7 @@ Jopil smiled faintly.
 
 “Isn’t that the same thing?”
 
-The middle-aged man glared at Jopil, displeased.
+The middle-aged man glared at Jopil.
 
 “Coming this far was your own unilateral decision. And what came of it? You lost more than twenty subordinates to the remnants of a single branch!”
 
@@ -338,7 +338,7 @@ The middle-aged man glared at Jopil, displeased.
 
 “Permission. Permission…”
 
-After mulling it over, Jopil spoke.
+Jopil considered the word for a moment before speaking.
 
 “No. That won’t do. I don’t like it.”
 
@@ -366,19 +366,19 @@ Standing atop the heap of corpses, Jopil spoke into the crushing silence.
 
 “We’re pursuing them.”
 
-This time, no one said a word. As his subordinates hurried to prepare as though fleeing for their lives, Jopil continued to stare at the bodies.
+This time, no one said a word. His subordinates hurried to prepare as if fleeing for their lives while Jopil continued to study the bodies.
 
-*What kind of man was it?*
+*What kind of bastard was it?*
 
 He was a Peak master. From the wounds on the corpses and the footprints left behind, he could reconstruct his opponent.
 
-*Only one man.*
+Only one man.
 
 A highly skilled spearman had been here. He was the one who had slaughtered the other twenty-odd men.
 
-*If he killed Black Mountain Blade in one strike, he must be something else.*
+*He killed Black Mountain Blade in a single strike. Of course he’d be impressive.*
 
-The final strike that pierced through Black Mountain Blade’s chest had been particularly interesting.
+The final blow that had punched through Black Mountain Blade’s chest was particularly intriguing.
 
 *This should be a fun fight.*
 
@@ -408,7 +408,7 @@ Jin Wikyung had endured with superhuman patience.
 
 He currently stood at the head and center of the Jin Family of Taiyuan. He had weighed his beloved younger brother against the lives of hundreds of family members and, after long deliberation, sent his most trusted subordinate, Wipeng, to protect him.
 
-*But if I fail…*
+But if Wipeng failed…
 
 *I won’t be able to face my lord.*
 

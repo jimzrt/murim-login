@@ -108,7 +108,7 @@ Gong Yacheong spoke first.
 
 “It happened only a few days ago.”
 
-By the time the carrier pigeon bearing word of war arrived, the Sakju Branch had already been surrounded so tightly that not even a drop of water could get through. The wandering martial artists hired by the Mount Heng Sword Sect had slaughtered people and burned down the buildings.
+By the time the messenger pigeon bearing word of war arrived, the Sakju Branch had already been surrounded so tightly that not even a drop of water could get through. The wandering martial artists hired by the Mount Heng Sword Sect had slaughtered people and burned down the buildings.
 
 “There must have been a full hundred of them. Thanks to the Branch Leader and the martial artists under him buying us time, we were able to escape through a secret passage. Most of those who escaped were women and children who knew no martial arts.”
 
@@ -202,7 +202,7 @@ That was when Gong Yacheong spoke.
 
 “Jopil is a fucking bast—huh?”
 
-“Jopil, One Question, One Kill. He’s one of the few Peak masters in all of Shanxi. What do you think is the reason he has survived until now, despite being tangled up in all kinds of grudges and vendettas?”
+“Jopil, One Question, One Kill. He’s one of the few Peak masters in all of Shanxi. What do you think is the reason he has survived until now, despite being tangled up in all kinds of gratitude and grudges?”
 
 “Don’t tell me…”
 
@@ -314,7 +314,7 @@ More than twenty men had been wiped out. And all on a mission to deal with the r
 
 Jopil, One Question, One Kill, was a bizarre man. Whenever he encountered an enemy he liked, he asked exactly one question before killing them.
 
-The wandering martial artists thought it was fortunate that Black Mountain Blade was dead. If he had still been alive, they would have suffered something even more horrifying.
+The wandering martial artists thought it was fortunate that Black Mountain Blade was dead. If he had still been alive, he would have suffered something even more horrifying.
 
 “That’s better.”
 
