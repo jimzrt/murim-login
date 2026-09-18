@@ -1138,3 +1138,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 송옥 | **Song Yu** | Ancient Chinese poet invoked in Gung Gibang’s beauty boast. |
 | 피카소 | **Picasso** | Modern painter invoked in the comparison for Gung Gibang’s face. |
 | 추혼객 | **Soul-Chasing Guest** | Song Ilseom’s former epithet; he was known by it ten years earlier. |
+| 함양 | **Xianyang** | City Song Ilseom plans to visit for Ju Hogun’s elixir. |
+| 수룡채 | **Water Dragon Stronghold** | Major river stronghold belonging to the Yangtze River Channel League. |

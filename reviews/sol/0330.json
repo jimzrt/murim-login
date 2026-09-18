@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "“Is that why you pretended to be asleep while drunk?”",
+      "defect": "The draft states that Song Ilseom was actually drunk and merely pretended to sleep, whereas the source says he pretended to have fallen asleep from drinking.",
+      "id": "F01",
+      "rationale": "The scope of 척 applies to 술에 취해 잠든, so the drunken sleep itself was the pretense.",
+      "replacement": "“Is that why you pretended to have passed out drunk?”",
+      "severity": "critical",
+      "source": "그게 술에 취해 잠든 척했던 이유인가요?"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Can that compare to the life-saving kindness my grandfather showed you?”",
+      "defect": "The draft incorrectly states that Ju Hwaran’s grandfather saved Song Ilseom himself. The source leaves the beneficiary unstated; the established beneficiary was Song Ilseom’s grandmother.",
+      "id": "F02",
+      "rationale": "The replacement preserves the inherited debt without changing the identity of the person whose life was saved.",
+      "replacement": "“Can that compare to the debt of gratitude owed for my grandfather’s lifesaving deed?”",
+      "severity": "critical",
+      "source": "제 조부께서 베푸신 구명지은(救命知恩)에 비할까요?"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“How much of it are they involved in?”",
+      "defect": "The draft asks how deeply the two captains are involved, while the source asks how far the entire network of involvement extends.",
+      "id": "F03",
+      "rationale": "Ju Hwaran’s reply about determining the exact number and identities confirms that Song Ilseom is asking about the scope of the conspiracy, not merely the degree of two people’s involvement.",
+      "replacement": "“Just how far does this conspiracy reach?”",
+      "severity": "major",
+      "source": "도대체 어디서부터 어디까지 연관된 거지?"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Why didn’t you expose them when you killed the Chief Escort?”",
+      "defect": "The draft assigns the Chief Escort’s killing to Ju Hwaran, an unstated and incorrect subject attribution, and changes what she could have revealed from the situation to a specific group of people.",
+      "id": "F04",
+      "rationale": "The source refers to the occasion or place where the Chief Escort was killed without saying that Ju Hwaran killed him.",
+      "replacement": "“Why didn’t you reveal it right there after the Chief Escort was killed?”",
+      "severity": "critical",
+      "source": "차라리 총표두를 죽인 자리에서 밝히지 그랬나?"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“How about you take out the travel pack you’re carrying a year from now?”",
+      "defect": "The English is mechanically incoherent because Song Ilseom is already carrying the pack, and it obscures Ju Hwaran’s request that he put it away and remain for another year.",
+      "id": "F05",
+      "rationale": "다시 꺼내다 means to take it out again later, which pragmatically requires putting it away now.",
+      "replacement": "“How about putting away that travel pack you’re carrying and taking it out again a year from now?”",
+      "severity": "major",
+      "source": "지금 들고 계신 행낭, 일 년 후에 다시 꺼내시는 건 어떨까요?"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“A moment ago, you said I hadn’t done my duty regarding the life-saving kindness the Escort King showed me.”",
+      "defect": "The draft again states that the Escort King bestowed the lifesaving favor directly on Song Ilseom, changing the established beneficiary.",
+      "id": "F06",
+      "rationale": "The source names the origin of the debt but not its direct recipient; the replacement preserves that distinction.",
+      "replacement": "“A moment ago, you said I still hadn’t done my duty in return for the Escort King’s lifesaving grace.”",
+      "severity": "critical",
+      "source": "아까는 표왕께서 베푼 구명지은에 도리를 다하지 않았다더니?"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Don’t make that face. I’m only stopping by Xianyang to obtain an elixir.”",
+      "defect": "The draft omits the motion of bringing the elixir back, leaving Song Ilseom’s departure sounding permanent and weakening the reason Ju Hwaran should not look distressed.",
+      "id": "F07",
+      "rationale": "구해 오는 explicitly includes returning with the elixir, which is central to the exchange’s emotional and causal meaning.",
+      "replacement": "“Don’t make that face. I’m only going to Xianyang to pick up an elixir and bring it back.”",
+      "severity": "major",
+      "source": "그런 얼굴 할 것 없다. 함양(咸陽)에 들러 영약을 구해 오는 것뿐이니."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Enough. My mouth hurts. Don’t ask any more questions.”",
+      "defect": "“My mouth hurts” is an unnatural literal rendering of an idiom meaning that he is tired of talking about it.",
+      "id": "F08",
+      "rationale": "입 아프다 is idiomatic here rather than a statement of physical pain.",
+      "replacement": "“Enough. I’m tired of talking, so don’t ask any more questions.”",
+      "severity": "minor",
+      "source": "됐어. 입 아프니 더는 묻지 마라."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Something you took for granted…was the hardest thing in the world for me.”",
+      "defect": "“Took for granted” carries a negative implication of failing to appreciate something, while the source says that saving people came naturally or seemed self-evident to Ju Hwaran.",
+      "id": "F09",
+      "rationale": "당연하게 생각하다 contrasts Ju Hwaran’s natural assumption that people should save one another with Song Ilseom’s difficulty learning to save rather than kill.",
+      "replacement": "“What came naturally to you…was the hardest thing for me.”",
+      "severity": "major",
+      "source": "네게는 당연하게 생각했던 일이…… 내게는 가장 어려운 일이었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Chief of the Guard Hall. Yes, that sounds good.”",
+      "defect": "The title 당주 is naturally and hierarchically rendered as “Hall Master,” not “Chief of the Hall.”",
+      "id": "F10",
+      "rationale": "This preserves the conventional Murim institutional title and Song Ilseom’s proposal to create a formal office.",
+      "replacement": "“Guard Hall Master. Yes, that sounds good.”",
+      "severity": "minor",
+      "source": "호위당주. 그래, 그걸로 하면 좋겠군."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“There were third-rate martial artists everywhere in the world.”",
+      "defect": "The established glossary term “Third Rate” is not followed.",
+      "id": "F11",
+      "rationale": "The replacement uses the binding term while naturally conveying 널리고 널린, meaning extremely commonplace.",
+      "replacement": "“Third Rate martial artists were a dime a dozen.”",
+      "severity": "minor",
+      "source": "천하에 널리고 널린 게 삼류 무인이다."
+    }
+  ],
+  "summary": "The draft contains several subject and action changes, including who received the lifesaving favor, who killed the Chief Escort, and whether Song Ilseom intends to return with the elixir. It also obscures Ju Hwaran’s request that he remain for another year.",
+  "version": 1
+}
