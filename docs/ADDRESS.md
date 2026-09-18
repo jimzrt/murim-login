@@ -616,3 +616,9 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 샤오 쉔 | senior ally to younger allied commander | Shao Shen | familiar, shifting between polite and casual | Jin initially uses a polite form but switches to familiar speech while checking Shao's condition. |
 | 샤오 쉔 | 진태경 | younger allied commander to respected senior ally | hyung | deferential and familiar | Shao thanks Jin for intervening on his behalf and addresses him as hyung. |
 | 최 팀장 | 진태경 | senior team leader to allied Hunter | Mr. Jin | formal, stiff, and cautionary | Team Leader Choi warns Jin about the political consequences of attacking General Liao. |
+| 마이클 존슨 | 진태경 | Hunter fan to famous Hunter | Jin; initially Lord Fuck | friendly and playful | Michael praises Jin and accepts Jin's request to use Jin instead of Lord Fuck. |
+| 마이클 존슨 | 최 팀장 | Hunter escort to allied team leader | Choi | friendly and familiar | Michael recognizes and addresses Team Leader Choi by surname. |
+| 최 팀장 | 진태경 | allied team leader to younger allied Hunter | Mr. Jin | formal-polite with dry teasing | Choi retains formal address while discussing Jin's public standing and his own rumor operation. |
+| 진태경 | 최 팀장 | younger allied Hunter to allied team leader | Team Leader | casual, respectful, and teasing | Jin repeatedly calls Choi Team Leader while joking about the rumor campaign and Choi's tactics. |
+| 매직 존슨 | 최 팀장 | allied commander to allied team leader and admirer | Choi | warm, familiar, and flirtatious | Magic greets Choi with personal enthusiasm and asks whether Choi has thought about him. |
+| 매직 존슨 | 진태경 | allied frontline commander to famous allied Hunter | Jin | friendly, familiar, and encouraging | Magic calls Jin a charming young man and praises his western-front military achievements. |
