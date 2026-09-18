@@ -2,11 +2,11 @@
   "chapter": 164,
   "errors": [],
   "metrics": {
-    "length_ratio": 2.268,
+    "length_ratio": 2.236,
     "source_characters": 6590,
     "source_paragraphs": 219,
-    "translation_characters": 14949,
-    "translation_paragraphs": 193
+    "translation_characters": 14738,
+    "translation_paragraphs": 190
   },
   "passed": true,
   "version": 1,
@@ -41,6 +41,30 @@
       "details": {
         "korean": "수문각",
         "preferred": "Gate Guard Pavilion"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "잠룡",
+        "preferred": "Hidden Dragon"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "초절",
+        "preferred": "supreme mastery"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "그분",
+        "preferred": "that person"
       },
       "message": "matched preferred term is absent"
     }

@@ -2,7 +2,7 @@
   "baseline_blocks": 193,
   "baseline_sha256": "f50665bbea23bcdadad9a98c6f8ea0cf772d6bec7cc47c25ea04251f9c46415d",
   "global_terminology_alerts": [],
-  "hunk_count": 18,
+  "hunk_count": 79,
   "hunks": [
     {
       "baseline": "It was a Status Window I looked at more than ten times a day, but my mouth still split into a grin every time I saw it.",
@@ -13,7 +13,7 @@
       ],
       "hunk_id": "H001",
       "korean_lines": "9",
-      "sol": "I looked at my Status Window more than ten times a day, yet my mouth still split into a grin every time I saw it.",
+      "sol": "I checked my Status Window more than ten times a day, but it still made me grin every time.",
       "sol_paragraphs": "P3",
       "sol_range": [
         2,
@@ -31,11 +31,137 @@
       ],
       "hunk_id": "H002",
       "korean_lines": "11",
-      "sol": "Who knew those four characters—Peak Master—could make me this happy?",
+      "sol": "Who knew the words “Peak Master” could make me this happy?",
       "sol_paragraphs": "P4",
       "sol_range": [
         3,
         4
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Only a few hours ago, the Class field had read [First Rate Martial Artist]. But now I was a Peak Master. Not a martial artist, but a master.",
+      "baseline_paragraphs": "P6",
+      "baseline_range": [
+        5,
+        6
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "15",
+      "sol": "Only a few hours ago, the Class field had read First Rate Martial Artist. But now I was a Peak Master. Not just a martial artist, but a master.",
+      "sol_paragraphs": "P6",
+      "sol_range": [
+        5,
+        6
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*I’m already Level 71, too.*",
+      "baseline_paragraphs": "P8",
+      "baseline_range": [
+        7,
+        8
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "19",
+      "sol": "*And I’m already Level 71.*",
+      "sol_paragraphs": "P8",
+      "sol_range": [
+        7,
+        8
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*I even got something you couldn’t buy with money.*",
+      "baseline_paragraphs": "P11",
+      "baseline_range": [
+        10,
+        11
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "25",
+      "sol": "*I even got something money couldn’t buy.*",
+      "sol_paragraphs": "P11",
+      "sol_range": [
+        10,
+        11
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Open Inventory.",
+      "baseline_paragraphs": "P12",
+      "baseline_range": [
+        11,
+        12
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "27",
+      "sol": "*Open Inventory.*",
+      "sol_paragraphs": "P12",
+      "sol_range": [
+        11,
+        12
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As soon as I entered the command in my mind, a familiar System notification chimed, and a translucent holographic window appeared.",
+      "baseline_paragraphs": "P13",
+      "baseline_range": [
+        12,
+        13
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "29",
+      "sol": "As soon as I entered the command in my mind, a familiar System notification chimed and a translucent holographic window appeared.",
+      "sol_paragraphs": "P13",
+      "sol_range": [
+        12,
+        13
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "My Inventory was packed with all kinds of junk I had collected in the Murim, but my eyes fixed squarely on one item.",
+      "baseline_paragraphs": "P14",
+      "baseline_range": [
+        13,
+        14
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "31",
+      "sol": "My Inventory was packed with all kinds of junk I had collected in the Murim, but my gaze went straight to one item.",
+      "sol_paragraphs": "P14",
+      "sol_range": [
+        13,
+        14
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Whoosh.",
+      "baseline_paragraphs": "P16",
+      "baseline_range": [
+        15,
+        16
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "35",
+      "sol": "*Whoosh.*",
+      "sol_paragraphs": "P16",
+      "sol_range": [
+        15,
+        16
       ],
       "tag": "replace",
       "terminology_alerts": []
@@ -47,13 +173,121 @@
         16,
         17
       ],
-      "hunk_id": "H003",
+      "hunk_id": "H010",
       "korean_lines": "37",
-      "sol": "A heavy sphere suddenly popped into existence in midair. It was about the size of a bowling ball, its unpolished surface uneven and jagged, bulging out every which way.",
+      "sol": "A heavy sphere suddenly popped into existence in midair. It was about the size of a bowling ball, its unpolished surface rough and jagged, with lumps jutting out in every direction.",
       "sol_paragraphs": "P17",
       "sol_range": [
         16,
         17
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At first glance, it looked like a useless lump of metal or a rock. But with even a little attention, one could recognize its true value.",
+      "baseline_paragraphs": "P18",
+      "baseline_range": [
+        17,
+        18
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "43",
+      "sol": "At first glance, it looked like nothing more than a useless lump of metal or rock. But anyone who looked a little closer would recognize its true value.",
+      "sol_paragraphs": "P18",
+      "sol_range": [
+        17,
+        18
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Ding.",
+      "baseline_paragraphs": "P20",
+      "baseline_range": [
+        19,
+        20
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "47",
+      "sol": "*Ding.*",
+      "sol_paragraphs": "P20",
+      "sol_range": [
+        19,
+        20
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "> **System**\n>\n> **Item Window**\n>\n> **Unprocessed Ten-Thousand-Year Cold Iron**\n>\n> **Type:** Material\n>\n> **Grade:** Supreme Peak\n>\n> **Restriction:** Master Artisan\n>\n> **Description:** Ten-thousand-year-old cold iron is harder, sharper, and rarer than any mineral currently existing in the world. Only a craftsman who has reached the ranks of a master artisan will be able to handle this precious material.",
+      "baseline_paragraphs": "P21",
+      "baseline_range": [
+        20,
+        21
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "49",
+      "sol": "> **System**\n>\n> **Item Window**\n>\n> **Unprocessed Ten-Thousand-Year Cold Iron**\n>\n> **Type:** Material\n>\n> **Grade:** Supreme Peak\n>\n> **Restriction:** Master Artisan\n>\n> **Description:** Ten-thousand-year-old cold iron is harder, sharper, and rarer than any other mineral in existence. Only a craftsman who has reached the level of Master Artisan will be able to work with this precious material.",
+      "sol_paragraphs": "P21",
+      "sol_range": [
+        20,
+        21
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Personally, I was happier about obtaining the Ten-Thousand-Year Cold Iron than I was about leveling up. I was a Hunter, and I was a martial artist. Anyone in this line of work had dreams about their equipment.",
+      "baseline_paragraphs": "P23",
+      "baseline_range": [
+        22,
+        23
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "53",
+      "sol": "Personally, I was happier about obtaining the Ten-Thousand-Year Cold Iron than I was about leveling up. I was a Hunter and a martial artist. Everyone in this line of work dreamed of owning great equipment.",
+      "sol_paragraphs": "P23",
+      "sol_range": [
+        22,
+        23
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I simply hadn’t had the means to turn those dreams into reality.",
+      "baseline_paragraphs": "P24",
+      "baseline_range": [
+        23,
+        24
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "55",
+      "sol": "I had simply never had the means to make that dream a reality.",
+      "sol_paragraphs": "P24",
+      "sol_range": [
+        23,
+        24
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*I had no money in the real world, and in the Murim, I didn’t have a decent spear.*",
+      "baseline_paragraphs": "P25",
+      "baseline_range": [
+        24,
+        25
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "57",
+      "sol": "*I had no money in the real world, and in the Murim, I couldn’t find a decent spear.*",
+      "sol_paragraphs": "P25",
+      "sol_range": [
+        24,
+        25
       ],
       "tag": "replace",
       "terminology_alerts": []
@@ -65,13 +299,31 @@
         26,
         27
       ],
-      "hunk_id": "H004",
+      "hunk_id": "H017",
       "korean_lines": "61",
-      "sol": "Supply follows demand. From the lowest-ranking martial artists up to the family’s leadership, most of them were sword users. As a result, both their martial arts and the quality of the weapons in the armory were far superior for swords than for spears.",
+      "sol": "Supply followed demand. Most of the family’s members, from its lowest-ranking martial artists to its leadership, were swordsmen. Naturally, both the family’s martial arts and the weapons in its armory favored swords by a wide margin.",
       "sol_paragraphs": "P27",
       "sol_range": [
         26,
         27
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If Jin Wikyung hadn’t looked out for me, I might have had to fight with a cheap wooden spear or bamboo spear.",
+      "baseline_paragraphs": "P28",
+      "baseline_range": [
+        27,
+        28
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "63",
+      "sol": "If Jin Wikyung hadn’t looked out for me, I might have ended up fighting with a cheap wooden or bamboo spear.",
+      "sol_paragraphs": "P28",
+      "sol_range": [
+        27,
+        28
       ],
       "tag": "replace",
       "terminology_alerts": []
@@ -83,9 +335,9 @@
         28,
         29
       ],
-      "hunk_id": "H005",
+      "hunk_id": "H019",
       "korean_lines": "65",
-      "sol": "How many times had my stomach burned whenever I swung an iron spear while the [Unnamed Sword], forged from Ten-Thousand-Year Cold Iron, sat idle?",
+      "sol": "It had killed me every time I wielded an iron spear while the Unnamed Sword, forged from Ten-Thousand-Year Cold Iron, sat unused.",
       "sol_paragraphs": "P29",
       "sol_range": [
         28,
@@ -101,13 +353,85 @@
         29,
         30
       ],
-      "hunk_id": "H006",
+      "hunk_id": "H020",
       "korean_lines": "67",
-      "sol": "*But that bitterness is over now.*",
+      "sol": "*But those days are over.*",
       "sol_paragraphs": "P30",
       "sol_range": [
         29,
         30
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I had obtained the finest mineral in the world. I could have a beloved weapon of my own made.",
+      "baseline_paragraphs": "P31",
+      "baseline_range": [
+        30,
+        31
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "69",
+      "sol": "I had obtained the finest mineral in the world. Now I could have a weapon of my own made from it.",
+      "sol_paragraphs": "P31",
+      "sol_range": [
+        30,
+        31
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Quest I had received this time was related to it.",
+      "baseline_paragraphs": "P33",
+      "baseline_range": [
+        32,
+        33
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "73",
+      "sol": "The Quest I had just received was related to that.",
+      "sol_paragraphs": "P33",
+      "sol_range": [
+        32,
+        33
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Ding.",
+      "baseline_paragraphs": "P35",
+      "baseline_range": [
+        34,
+        35
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "77",
+      "sol": "*Ding.*",
+      "sol_paragraphs": "P35",
+      "sol_range": [
+        34,
+        35
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "> **System**\n>\n> **Quest**\n>\n> **Find the Master Artisan**\n>\n> Forging Ten-Thousand-Year Cold Iron requires tremendous experience and skill. Only an exceptionally skilled artisan will be able to draw out all the power of this precious material.\n>\n> **Grade:** Peak\n>\n> **Restriction:** Jin Taekyung\n>\n> **Mission:** Commission a Master Artisan to make a weapon (Incomplete)\n>\n> **Reward:** ???\n>\n> **Failure:** ???",
+      "baseline_paragraphs": "P36",
+      "baseline_range": [
+        35,
+        36
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "81",
+      "sol": "> **System**\n>\n> **Quest**\n>\n> **Find the Master Artisan**\n>\n> Forging Ten-Thousand-Year Cold Iron requires tremendous experience and skill. Only an exceptionally skilled artisan will be able to draw out the full power of this precious material.\n>\n> **Grade:** Peak\n>\n> **Restriction:** Jin Taekyung\n>\n> **Mission:** Commission a Master Artisan to make a weapon (Incomplete)\n>\n> **Reward:** ???\n>\n> **Failure:** ???",
+      "sol_paragraphs": "P36",
+      "sol_range": [
+        35,
+        36
       ],
       "tag": "replace",
       "terminology_alerts": []
@@ -119,9 +443,9 @@
         39,
         40
       ],
-      "hunk_id": "H007",
+      "hunk_id": "H025",
       "korean_lines": "91",
-      "sol": "Just as a famed sword only truly reveals its brilliance in the hands of a master, precious materials like Ten-Thousand-Year Cold Iron were no different.",
+      "sol": "Just as a famed sword only revealed its true brilliance in the hands of a master, the same was true of a precious material like Ten-Thousand-Year Cold Iron.",
       "sol_paragraphs": "P40",
       "sol_range": [
         39,
@@ -131,37 +455,331 @@
       "terminology_alerts": []
     },
     {
-      "baseline": "*Whatever it takes, I’m completing this Quest before I leave.*",
-      "baseline_paragraphs": "P47",
+      "baseline": "Surely there had to be at least one master artisan in this enormous land.",
+      "baseline_paragraphs": "P43",
       "baseline_range": [
-        46,
-        47
+        42,
+        43
       ],
-      "hunk_id": "H008",
-      "korean_lines": "109",
-      "sol": "*Whatever it takes, I’m clearing this Quest.*",
-      "sol_paragraphs": "P47",
+      "hunk_id": "H026",
+      "korean_lines": "101",
+      "sol": "Surely there had to be at least one Master Artisan in this enormous land.",
+      "sol_paragraphs": "P43",
       "sol_range": [
-        46,
-        47
+        42,
+        43
       ],
       "tag": "replace",
       "terminology_alerts": []
     },
     {
-      "baseline": "“Our youngest broke through the wall! He reached the Peak realm!”",
-      "baseline_paragraphs": "P66",
+      "baseline": "The Jin Family of Taiyuan had branches spread throughout Shanxi. If I asked Jin Wikyung to send out word, we would soon know where to find one.",
+      "baseline_paragraphs": "P44",
       "baseline_range": [
-        65,
-        66
+        43,
+        44
       ],
-      "hunk_id": "H009",
-      "korean_lines": "157",
-      "sol": "“Waaah! Our youngest broke through the wall! He reached the Peak realm!”",
+      "hunk_id": "H027",
+      "korean_lines": "103",
+      "sol": "The Jin Family of Taiyuan had branches throughout Shanxi. If I asked Jin Wikyung to send out word, we would soon know where to find one.",
+      "sol_paragraphs": "P44",
+      "sol_range": [
+        43,
+        44
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I even had a powerful connection in Wolhwa. With eyes and ears planted throughout Shanxi Province, something like this would be a piece of cake for her.",
+      "baseline_paragraphs": "P46",
+      "baseline_range": [
+        45,
+        46
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "107",
+      "sol": "I even had a powerful connection in Wolhwa. With eyes and ears planted throughout Shanxi Province, finding someone like that would be a piece of cake for her.",
+      "sol_paragraphs": "P46",
+      "sol_range": [
+        45,
+        46
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Bang!",
+      "baseline_paragraphs": "P52",
+      "baseline_range": [
+        51,
+        52
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "119",
+      "sol": "*Bang!*",
+      "sol_paragraphs": "P52",
+      "sol_range": [
+        51,
+        52
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The door burst apart with a deafening roar. A person rushed in like lightning and threw both arms wide toward me.",
+      "baseline_paragraphs": "P53",
+      "baseline_range": [
+        52,
+        53
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "121",
+      "sol": "The door blew apart with a deafening crash. Someone rushed in like lightning, charging toward me with both arms spread wide.",
+      "sol_paragraphs": "P53",
+      "sol_range": [
+        52,
+        53
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I let out a deep sigh and asked Jin Wikyung,",
+      "baseline_paragraphs": "P56",
+      "baseline_range": [
+        55,
+        56
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "131",
+      "sol": "I let out a deep sigh and asked Jin Wikyung, “What’s going on?”",
+      "sol_paragraphs": "P56",
+      "sol_range": [
+        55,
+        56
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What’s going on?”",
+      "baseline_paragraphs": "P57",
+      "baseline_range": [
+        56,
+        57
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "133",
+      "sol": "",
+      "sol_paragraphs": "after P56",
+      "sol_range": [
+        56,
+        56
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "As I stared at him in bewilderment, I suddenly noticed Hyuk Mujin standing in front of the blown-open doorway, smiling proudly. He casually rubbed beneath his nose and said,",
+      "baseline_paragraphs": "P61",
+      "baseline_range": [
+        60,
+        61
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "143",
+      "sol": "As I stared at him in bewilderment, I spotted Hyuk Mujin standing in front of the blown-open doorway with a proud smile. He rubbed beneath his nose and said, “Shouldn’t such wonderful news be delivered first by one’s closest aide?”",
+      "sol_paragraphs": "P60",
+      "sol_range": [
+        59,
+        60
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Shouldn’t such wonderful news be delivered first by the closest aide?”",
+      "baseline_paragraphs": "P62",
+      "baseline_range": [
+        61,
+        62
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "145",
+      "sol": "",
+      "sol_paragraphs": "after P60",
+      "sol_range": [
+        60,
+        60
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Not a Familiar. It was a Hyuk-miliar.",
+      "baseline_paragraphs": "P64",
+      "baseline_range": [
+        63,
+        64
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "153",
+      "sol": "Not a Familiar. A Hyuk-miliar.",
+      "sol_paragraphs": "P62",
+      "sol_range": [
+        61,
+        62
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That bastard had definitely used my name to score some points with Jin Wikyung.",
+      "baseline_paragraphs": "P65",
+      "baseline_range": [
+        64,
+        65
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "155",
+      "sol": "That bastard had definitely used my name to score points with Jin Wikyung.",
+      "sol_paragraphs": "P63",
+      "sol_range": [
+        62,
+        63
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As expected, Hyuk Mujin quickly cut in.",
+      "baseline_paragraphs": "P67",
+      "baseline_range": [
+        66,
+        67
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "159",
+      "sol": "Sure enough, Hyuk Mujin quickly cut in.",
+      "sol_paragraphs": "P65",
+      "sol_range": [
+        64,
+        65
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Lesser Family Head, I served as his guard!”",
+      "baseline_paragraphs": "P68",
+      "baseline_range": [
+        67,
+        68
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "161",
+      "sol": "“Lesser Family Head, I stood guard over him!”",
       "sol_paragraphs": "P66",
       "sol_range": [
         65,
         66
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Not at all. As your right arm, I merely did what I was supposed to do. I had not a shred of selfish intent. However, I noticed that the position of Master of the Gatekeeper Pavilion is still vacant…”",
+      "baseline_paragraphs": "P70",
+      "baseline_range": [
+        69,
+        70
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "165",
+      "sol": "“Not at all. As his right-hand man, I merely did my duty. I had not a shred of selfish intent. However, I noticed that the position of Master of the Gatekeeper Pavilion is still vacant…”",
+      "sol_paragraphs": "P68",
+      "sol_range": [
+        67,
+        68
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“W-Whaaaat? Is that really true?”",
+      "baseline_paragraphs": "P72",
+      "baseline_range": [
+        71,
+        72
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "169",
+      "sol": "“W-Whaaat? Is that really true?”",
+      "sol_paragraphs": "P70",
+      "sol_range": [
+        69,
+        70
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Did it make any sense to appoint someone Family Head just because he had stood guard? And all that bastard had actually done was snore.",
+      "baseline_paragraphs": "P75",
+      "baseline_range": [
+        74,
+        75
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "175",
+      "sol": "Did it make any sense to appoint someone Family Head just because he had stood guard? Besides, all that bastard had actually done was snore.",
+      "sol_paragraphs": "P73",
+      "sol_range": [
+        72,
+        73
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "After the commotion finally passed, Jin Wikyung managed to calm himself and looked at me with moist eyes.",
+      "baseline_paragraphs": "P84",
+      "baseline_range": [
+        83,
+        84
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "193",
+      "sol": "Once the commotion died down, Jin Wikyung finally managed to calm himself and looked at me with moist eyes.",
+      "sol_paragraphs": "P82",
+      "sol_range": [
+        81,
+        82
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I’m proud of you too, Captain. But if I hadn’t served as your guard…”",
+      "baseline_paragraphs": "P86",
+      "baseline_range": [
+        85,
+        86
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "197",
+      "sol": "“I’m proud of you too, Captain. But if I hadn’t stood guard over you…”",
+      "sol_paragraphs": "P84",
+      "sol_range": [
+        83,
+        84
       ],
       "tag": "replace",
       "terminology_alerts": []
@@ -173,9 +791,27 @@
         89,
         90
       ],
-      "hunk_id": "H010",
+      "hunk_id": "H044",
       "korean_lines": "205",
-      "sol": "“Your good-for-nothing older brother couldn’t even look after you properly, and you went and pulled this off all on your own. Sniff.”",
+      "sol": "“Your useless older brother couldn’t even look after you properly, and yet you grew up so well all on your own. Sniff.”",
+      "sol_paragraphs": "P88",
+      "sol_range": [
+        87,
+        88
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Look at the sensitivity on this human weapon.",
+      "baseline_paragraphs": "P92",
+      "baseline_range": [
+        91,
+        92
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "209",
+      "sol": "Look at this human weapon getting all sentimental.",
       "sol_paragraphs": "P90",
       "sol_range": [
         89,
@@ -185,15 +821,33 @@
       "terminology_alerts": []
     },
     {
-      "baseline": "#JinFamilyofTaiyuan #UselessOlderBrother #OurYoungestIsAPeakMaster #KeepYourChinUpToday",
-      "baseline_paragraphs": "P95",
+      "baseline": "A teary-eyed selfie and hashtags would have been included for free.",
+      "baseline_paragraphs": "P94",
       "baseline_range": [
-        94,
-        95
+        93,
+        94
       ],
-      "hunk_id": "H011",
-      "korean_lines": "215",
-      "sol": "#JinFamilyofTaiyuan #UselessOlderBrother #OurYoungestIsAlsoAPeakMaster #LetsDoOurBestAgainToday",
+      "hunk_id": "H046",
+      "korean_lines": "213",
+      "sol": "Complete with a teary-eyed selfie and hashtags.",
+      "sol_paragraphs": "P92",
+      "sol_range": [
+        91,
+        92
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Cheongpung: Wow, this is my first time pressing Like!",
+      "baseline_paragraphs": "P97",
+      "baseline_range": [
+        96,
+        97
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "219",
+      "sol": "Cheongpung: Wow, I’ve never clicked Like before!",
       "sol_paragraphs": "P95",
       "sol_range": [
         94,
@@ -203,28 +857,130 @@
       "terminology_alerts": []
     },
     {
-      "baseline": "“You’re not planning to write ‘Jin Taekyung has become a Peak Master’ on a gigantic banner like last time, are you?”",
-      "baseline_paragraphs": "P108",
+      "baseline": "Hyuk Mujin: I served as his guard.",
+      "baseline_paragraphs": "P99",
       "baseline_range": [
-        107,
-        108
+        98,
+        99
       ],
-      "hunk_id": "H012",
-      "korean_lines": "241",
-      "sol": "“You’re not planning to write ‘I’ve become a Peak Master’ on some gigantic banner like last time, are you?”",
-      "sol_paragraphs": "P108",
+      "hunk_id": "H048",
+      "korean_lines": "223",
+      "sol": "Hyuk Mujin: I stood guard over him.",
+      "sol_paragraphs": "P97",
       "sol_range": [
-        107,
-        108
+        96,
+        97
       ],
       "tag": "replace",
-      "terminology_alerts": [
-        {
-          "korean": "진태경",
-          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
-          "preferred": "Jin Taekyung"
-        }
-      ]
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jin Mukyung: Is this a country?",
+      "baseline_paragraphs": "P100",
+      "baseline_range": [
+        99,
+        100
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "225",
+      "sol": "Jin Mukyung: Is this what you call a country?",
+      "sol_paragraphs": "P98",
+      "sol_range": [
+        97,
+        98
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The thought of countless Shanxi Province celebrities reacting like that made my vision swim.",
+      "baseline_paragraphs": "P102",
+      "baseline_range": [
+        101,
+        102
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "229",
+      "sol": "Imagining the reactions from countless Shanxi Province celebrities made my vision swim.",
+      "sol_paragraphs": "P100",
+      "sol_range": [
+        99,
+        100
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I hurriedly pushed the horrifying image from my mind and comforted Jin Wikyung.",
+      "baseline_paragraphs": "P103",
+      "baseline_range": [
+        102,
+        103
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "231",
+      "sol": "I hurriedly pushed the horrifying thought from my mind and tried to soothe Jin Wikyung.",
+      "sol_paragraphs": "P101",
+      "sol_range": [
+        100,
+        101
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Sniff. How did that immature little youngest grow up to be such a fine man?”",
+      "baseline_paragraphs": "P105",
+      "baseline_range": [
+        104,
+        105
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "235",
+      "sol": "“Sniff. How did my immature youngest brother grow into such a fine man?”",
+      "sol_paragraphs": "P103",
+      "sol_range": [
+        102,
+        103
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Huh.”",
+      "baseline_paragraphs": "P109",
+      "baseline_range": [
+        108,
+        109
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "245",
+      "sol": "“Gasp.”",
+      "sol_paragraphs": "P107",
+      "sol_range": [
+        106,
+        107
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jin Wikyung asked with a shocked expression,",
+      "baseline_paragraphs": "P115",
+      "baseline_range": [
+        114,
+        115
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "259",
+      "sol": "Jin Wikyung looked shocked.",
+      "sol_paragraphs": "P113",
+      "sol_range": [
+        112,
+        113
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
     },
     {
       "baseline": "Before I could answer, Hyuk Mujin, who had been sitting there quietly with his shoulders hunched, suddenly cut in with a baffled expression.",
@@ -233,13 +989,301 @@
         118,
         119
       ],
-      "hunk_id": "H013",
+      "hunk_id": "H055",
       "korean_lines": "267",
-      "sol": "Before I could answer, Hyuk Mujin, who had been sitting there quietly, deflated, suddenly cut in with a baffled expression.",
-      "sol_paragraphs": "P119",
+      "sol": "Before I could answer, Hyuk Mujin, who had been sitting quietly with his shoulders hunched, suddenly cut in with a baffled look.",
+      "sol_paragraphs": "P117",
       "sol_range": [
-        118,
-        119
+        116,
+        117
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You don’t? If I remember correctly, you seemed to like it a lot. When we returned from the Mount Heng Sword Sect, you waved your hand like crazy from the very front.”",
+      "baseline_paragraphs": "P122",
+      "baseline_range": [
+        121,
+        122
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "277",
+      "sol": "“You don’t? If I remember correctly, you seemed to love it. When we returned from the Mount Heng Sword Sect, you stood at the very front and waved like crazy.”",
+      "sol_paragraphs": "P120",
+      "sol_range": [
+        119,
+        120
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If he had been making that up, I would have punched him. But it was true, so I had nothing to say.",
+      "baseline_paragraphs": "P124",
+      "baseline_range": [
+        123,
+        124
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "281",
+      "sol": "If he had made that up, I would have punched him. But it was true, so I had nothing to say.",
+      "sol_paragraphs": "P122",
+      "sol_range": [
+        121,
+        122
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I quietly avoided Hyuk Mujin’s gaze and replied,",
+      "baseline_paragraphs": "P125",
+      "baseline_range": [
+        124,
+        125
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "283",
+      "sol": "I quietly avoided Hyuk Mujin’s gaze and replied, “That was different. I had my reasons.”",
+      "sol_paragraphs": "P123",
+      "sol_range": [
+        122,
+        123
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That was different. I had my reasons.”",
+      "baseline_paragraphs": "P126",
+      "baseline_range": [
+        125,
+        126
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "285",
+      "sol": "",
+      "sol_paragraphs": "after P123",
+      "sol_range": [
+        123,
+        123
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I ignored Hyuk Mujin’s muttering and turned my gaze back to Jin Wikyung.",
+      "baseline_paragraphs": "P130",
+      "baseline_range": [
+        129,
+        130
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "295",
+      "sol": "I ignored Hyuk Mujin’s muttering and turned back to Jin Wikyung.",
+      "sol_paragraphs": "P127",
+      "sol_range": [
+        126,
+        127
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Hm. If that’s truly what you want…”",
+      "baseline_paragraphs": "P132",
+      "baseline_range": [
+        131,
+        132
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "299",
+      "sol": "“Hmm. If that’s truly what you want…”",
+      "sol_paragraphs": "P129",
+      "sol_range": [
+        128,
+        129
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "There had been a time when I was willing to risk my life for Fame, but not anymore.",
+      "baseline_paragraphs": "P135",
+      "baseline_range": [
+        134,
+        135
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "305",
+      "sol": "There had been a time when I would have risked my life for Fame, but not anymore.",
+      "sol_paragraphs": "P132",
+      "sol_range": [
+        131,
+        132
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No, if anything, it felt ominous.",
+      "baseline_paragraphs": "P136",
+      "baseline_range": [
+        135,
+        136
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "307",
+      "sol": "If anything, Fame now felt ominous.",
+      "sol_paragraphs": "P133",
+      "sol_range": [
+        132,
+        133
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "My life motto was to live thin and long. Of course, living thick and long would be even better, but people who lived that way rarely had peaceful lives.",
+      "baseline_paragraphs": "P138",
+      "baseline_range": [
+        137,
+        138
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "311",
+      "sol": "My life’s motto was to live a quiet, long life. Of course, living large and long would be even better, but people who tried that rarely had peaceful lives.",
+      "sol_paragraphs": "P135",
+      "sol_range": [
+        134,
+        135
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And after constantly fighting battles where my life hung in the balance, I was exhausted in both body and mind.",
+      "baseline_paragraphs": "P139",
+      "baseline_range": [
+        138,
+        139
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "313",
+      "sol": "Constantly fighting battles where my life hung in the balance had also left me exhausted in both body and mind.",
+      "sol_paragraphs": "P136",
+      "sol_range": [
+        135,
+        136
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jin Wikyung was not the sort of person to refuse. He confidently nodded.",
+      "baseline_paragraphs": "P143",
+      "baseline_range": [
+        142,
+        143
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "321",
+      "sol": "Jin Wikyung was not the sort of person to refuse. He nodded confidently.",
+      "sol_paragraphs": "P140",
+      "sol_range": [
+        139,
+        140
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Two things. First, the whereabouts of a master artisan skilled enough to work with Ten-Thousand-Year Cold Iron. Second, news about the Fire King.”",
+      "baseline_paragraphs": "P147",
+      "baseline_range": [
+        146,
+        147
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "329",
+      "sol": "“Two things. First, the whereabouts of a Master Artisan skilled enough to work with Ten-Thousand-Year Cold Iron. Second, news about the Fire King.”",
+      "sol_paragraphs": "P144",
+      "sol_range": [
+        143,
+        144
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It made sense. The Flame Divine Palm was the Fire King’s signature martial art, and touching it carelessly was no different from holding a bomb that could put the entire family at risk. I had already guessed that Jin Mukyung would have told his Lesser Family Head brother about it long ago.",
+      "baseline_paragraphs": "P151",
+      "baseline_range": [
+        150,
+        151
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "337",
+      "sol": "It made sense. The Flame Divine Palm was the Fire King’s signature martial art, and touching it carelessly was no different from holding a bomb that could put the entire family at risk. I had already assumed Jin Mukyung would have reported it to Jin Wikyung, the Lesser Family Head, long ago.",
+      "sol_paragraphs": "P148",
+      "sol_range": [
+        147,
+        148
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the concern in his voice, I waved my hand.",
+      "baseline_paragraphs": "P153",
+      "baseline_range": [
+        152,
+        153
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "341",
+      "sol": "Hearing the concern in his voice, I waved a hand.",
+      "sol_paragraphs": "P150",
+      "sol_range": [
+        149,
+        150
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Will you promise me one thing? Before you do that, you’ll consult with me first.”",
+      "baseline_paragraphs": "P157",
+      "baseline_range": [
+        156,
+        157
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "349",
+      "sol": "“Will you promise me one thing? Before you do anything, consult with me first.”",
+      "sol_paragraphs": "P154",
+      "sol_range": [
+        153,
+        154
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The progress was much faster than I had expected. My butt practically itched with impatience to go find the man immediately.",
+      "baseline_paragraphs": "P163",
+      "baseline_range": [
+        162,
+        163
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "361",
+      "sol": "Things were moving much faster than I had expected, and I was already itching to go find the man.",
+      "sol_paragraphs": "P160",
+      "sol_range": [
+        159,
+        160
       ],
       "tag": "replace",
       "terminology_alerts": []
@@ -251,13 +1295,31 @@
         163,
         164
       ],
-      "hunk_id": "H014",
+      "hunk_id": "H072",
       "korean_lines": "363",
-      "sol": "“So he’s someone nearby?”",
-      "sol_paragraphs": "P164",
+      "sol": "“He must be nearby?”",
+      "sol_paragraphs": "P161",
       "sol_range": [
-        163,
-        164
+        160,
+        161
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Yes. He has apparently been living in seclusion without anyone knowing. Even our family only learned of his existence recently.”",
+      "baseline_paragraphs": "P165",
+      "baseline_range": [
+        164,
+        165
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "365",
+      "sol": "“Yes. He has been living in seclusion, hidden from everyone. Even our family only learned of his existence recently.”",
+      "sol_paragraphs": "P162",
+      "sol_range": [
+        161,
+        162
       ],
       "tag": "replace",
       "terminology_alerts": []
@@ -269,9 +1331,45 @@
         165,
         166
       ],
-      "hunk_id": "H015",
+      "hunk_id": "H074",
       "korean_lines": "367",
-      "sol": "“What about his skill…?”",
+      "sol": "“And his skill?”",
+      "sol_paragraphs": "P163",
+      "sol_range": [
+        162,
+        163
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I guarantee that even if you searched the entire world from top to bottom, he would be among the top ten.”",
+      "baseline_paragraphs": "P167",
+      "baseline_range": [
+        166,
+        167
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "369",
+      "sol": "“I guarantee that even if you scoured every inch under heaven, he would rank among the ten best.”",
+      "sol_paragraphs": "P164",
+      "sol_range": [
+        163,
+        164
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A master artisan capable of handling Ten-Thousand-Year Cold Iron. I had found him much faster than expected.",
+      "baseline_paragraphs": "P169",
+      "baseline_range": [
+        168,
+        169
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "373",
+      "sol": "A Master Artisan capable of handling Ten-Thousand-Year Cold Iron. I had found him much faster than expected.",
       "sol_paragraphs": "P166",
       "sol_range": [
         165,
@@ -287,13 +1385,31 @@
         181,
         182
       ],
-      "hunk_id": "H016",
+      "hunk_id": "H077",
       "korean_lines": "399",
-      "sol": "To the guy asking with a mix of shock and confusion on his face, I answered kindly.",
-      "sol_paragraphs": "P182",
+      "sol": "Despite the shock and confusion on his face, I kindly answered him.",
+      "sol_paragraphs": "P179",
       "sol_range": [
-        181,
-        182
+        178,
+        179
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Yeah. Don’t you remember? Before the battle at Eight Spring Gorge, we stayed behind as the rear party. With those Samdo Sect guys—Gwak Jun or whatever his name was, and the others.”",
+      "baseline_paragraphs": "P187",
+      "baseline_range": [
+        186,
+        187
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "409",
+      "sol": "“Yeah. Don’t you remember? Before the battle at Eight Spring Gorge, we stayed behind with the rear party. With those Samdo Sect guys—Gwak Jun or whatever his name was, and the others.”",
+      "sol_paragraphs": "P184",
+      "sol_range": [
+        183,
+        184
       ],
       "tag": "replace",
       "terminology_alerts": []
@@ -305,43 +1421,19 @@
         190,
         191
       ],
-      "hunk_id": "H017",
+      "hunk_id": "H079",
       "korean_lines": "417",
       "sol": "“…!”",
-      "sol_paragraphs": "P191",
+      "sol_paragraphs": "P188",
       "sol_range": [
-        190,
-        191
+        187,
+        188
       ],
       "tag": "replace",
       "terminology_alerts": []
-    },
-    {
-      "baseline": "“Whew. Good thing I didn’t give it to you back then.”",
-      "baseline_paragraphs": "P192",
-      "baseline_range": [
-        191,
-        192
-      ],
-      "hunk_id": "H018",
-      "korean_lines": "419",
-      "sol": "“Whew. That could have ended badly if I’d given it to you back then.”",
-      "sol_paragraphs": "P192",
-      "sol_range": [
-        191,
-        192
-      ],
-      "tag": "replace",
-      "terminology_alerts": [
-        {
-          "korean": "가지",
-          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
-          "preferred": "Go"
-        }
-      ]
     }
   ],
-  "sol_blocks": 193,
-  "sol_sha256": "16a8ac48f97afe77821ec2ab05651824899b368a3a71786067e78b208c7376c4",
+  "sol_blocks": 190,
+  "sol_sha256": "dcdbf77e89007ef25251ef9c5c38ea55bcdcf4b8f3be2365ec652fb024dee31b",
   "version": 1
 }

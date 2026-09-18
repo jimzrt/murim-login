@@ -1,26 +1,5 @@
 {
-  "findings": [
-    {
-      "confidence": 0.99,
-      "current": "Who knew those four characters—Peak Master—could make me this happy?",
-      "defect": "The English implies that “Peak Master” itself consists of four characters, rather than referring to the four Korean characters that carry that meaning.",
-      "id": "F01",
-      "rationale": "저 네 글자 explicitly refers to the four written Korean characters 절정 고수. The replacement preserves that language-specific detail without falsely counting the English letters or words.",
-      "replacement": "Who knew the four characters meaning “Peak Master” could make me this happy?",
-      "severity": "minor",
-      "source": "lines 45–47"
-    },
-    {
-      "confidence": 0.98,
-      "current": "Whatever it takes, I’m clearing this Quest.",
-      "defect": "The sentence omits the commitment to complete the Quest before leaving.",
-      "id": "F02",
-      "rationale": "깨고 간다 means he intends to clear the Quest and then leave; the following comparison between Murim time and modern-world time reinforces this deadline.",
-      "replacement": "Whatever it takes, I’m completing this Quest before I leave.",
-      "severity": "minor",
-      "source": "line 171"
-    }
-  ],
-  "summary": "The chapter is highly faithful, with two minor losses of source detail.",
+  "findings": [],
+  "summary": "The assembled English is faithful to the Korean source with no fidelity defects detected.",
   "version": 1
 }

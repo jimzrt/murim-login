@@ -37,41 +37,41 @@
 >
 > - Distribute your remaining points.
 
-I looked at my Status Window more than ten times a day, yet my mouth still split into a grin every time I saw it.
+I checked my Status Window more than ten times a day, but it still made me grin every time.
 
-Who knew those four characters—Peak Master—could make me this happy?
+Who knew the words “Peak Master” could make me this happy?
 
 *The System calls me a master. A Peak Master.*
 
-Only a few hours ago, the Class field had read [First Rate Martial Artist]. But now I was a Peak Master. Not a martial artist, but a master.
+Only a few hours ago, the Class field had read First Rate Martial Artist. But now I was a Peak Master. Not just a martial artist, but a master.
 
 I had become a genuine master, recognized even by the System.
 
-*I’m already Level 71, too.*
+*And I’m already Level 71.*
 
 The rewards had been incredible.
 
 Seven level-ups, a one-stage increase in both the Jin Family’s Cultivation Technique and Qi Sense, and…
 
-*I even got something you couldn’t buy with money.*
+*I even got something money couldn’t buy.*
 
-Open Inventory.
+*Open Inventory.*
 
-As soon as I entered the command in my mind, a familiar System notification chimed, and a translucent holographic window appeared.
+As soon as I entered the command in my mind, a familiar System notification chimed and a translucent holographic window appeared.
 
-My Inventory was packed with all kinds of junk I had collected in the Murim, but my eyes fixed squarely on one item.
+My Inventory was packed with all kinds of junk I had collected in the Murim, but my gaze went straight to one item.
 
 *Summon Ten-Thousand-Year Cold Iron.*
 
-Whoosh.
+*Whoosh.*
 
-A heavy sphere suddenly popped into existence in midair. It was about the size of a bowling ball, its unpolished surface uneven and jagged, bulging out every which way.
+A heavy sphere suddenly popped into existence in midair. It was about the size of a bowling ball, its unpolished surface rough and jagged, with lumps jutting out in every direction.
 
-At first glance, it looked like a useless lump of metal or a rock. But with even a little attention, one could recognize its true value.
+At first glance, it looked like nothing more than a useless lump of metal or rock. But anyone who looked a little closer would recognize its true value.
 
 *Inspect Item.*
 
-Ding.
+*Ding.*
 
 > **System**
 >
@@ -85,35 +85,35 @@ Ding.
 >
 > **Restriction:** Master Artisan
 >
-> **Description:** Ten-thousand-year-old cold iron is harder, sharper, and rarer than any mineral currently existing in the world. Only a craftsman who has reached the ranks of a master artisan will be able to handle this precious material.
+> **Description:** Ten-thousand-year-old cold iron is harder, sharper, and rarer than any other mineral in existence. Only a craftsman who has reached the level of Master Artisan will be able to work with this precious material.
 
 “Now, this is the real deal.”
 
-Personally, I was happier about obtaining the Ten-Thousand-Year Cold Iron than I was about leveling up. I was a Hunter, and I was a martial artist. Anyone in this line of work had dreams about their equipment.
+Personally, I was happier about obtaining the Ten-Thousand-Year Cold Iron than I was about leveling up. I was a Hunter and a martial artist. Everyone in this line of work dreamed of owning great equipment.
 
-I simply hadn’t had the means to turn those dreams into reality.
+I had simply never had the means to make that dream a reality.
 
-*I had no money in the real world, and in the Murim, I didn’t have a decent spear.*
+*I had no money in the real world, and in the Murim, I couldn’t find a decent spear.*
 
 The Jin Family of Taiyuan’s roots lay in sword techniques, not spear techniques.
 
-Supply follows demand. From the lowest-ranking martial artists up to the family’s leadership, most of them were sword users. As a result, both their martial arts and the quality of the weapons in the armory were far superior for swords than for spears.
+Supply followed demand. Most of the family’s members, from its lowest-ranking martial artists to its leadership, were swordsmen. Naturally, both the family’s martial arts and the weapons in its armory favored swords by a wide margin.
 
-If Jin Wikyung hadn’t looked out for me, I might have had to fight with a cheap wooden spear or bamboo spear.
+If Jin Wikyung hadn’t looked out for me, I might have ended up fighting with a cheap wooden or bamboo spear.
 
-How many times had my stomach burned whenever I swung an iron spear while the [Unnamed Sword], forged from Ten-Thousand-Year Cold Iron, sat idle?
+It had killed me every time I wielded an iron spear while the Unnamed Sword, forged from Ten-Thousand-Year Cold Iron, sat unused.
 
-*But that bitterness is over now.*
+*But those days are over.*
 
-I had obtained the finest mineral in the world. I could have a beloved weapon of my own made.
+I had obtained the finest mineral in the world. Now I could have a weapon of my own made from it.
 
 Of course, there was one prerequisite.
 
-The Quest I had received this time was related to it.
+The Quest I had just received was related to that.
 
 *Inspect Quest.*
 
-Ding.
+*Ding.*
 
 > **System**
 >
@@ -121,7 +121,7 @@ Ding.
 >
 > **Find the Master Artisan**
 >
-> Forging Ten-Thousand-Year Cold Iron requires tremendous experience and skill. Only an exceptionally skilled artisan will be able to draw out all the power of this precious material.
+> Forging Ten-Thousand-Year Cold Iron requires tremendous experience and skill. Only an exceptionally skilled artisan will be able to draw out the full power of this precious material.
 >
 > **Grade:** Peak
 >
@@ -139,21 +139,21 @@ I smiled contentedly and closed the Quest Window.
 
 Even without the Quest, I would have looked into it myself.
 
-Just as a famed sword only truly reveals its brilliance in the hands of a master, precious materials like Ten-Thousand-Year Cold Iron were no different.
+Just as a famed sword only revealed its true brilliance in the hands of a master, the same was true of a precious material like Ten-Thousand-Year Cold Iron.
 
 Although the Quest was graded Peak, the mission itself didn’t seem particularly difficult.
 
 *Finding someone shouldn’t take long.*
 
-Surely there had to be at least one master artisan in this enormous land.
+Surely there had to be at least one Master Artisan in this enormous land.
 
-The Jin Family of Taiyuan had branches spread throughout Shanxi. If I asked Jin Wikyung to send out word, we would soon know where to find one.
+The Jin Family of Taiyuan had branches throughout Shanxi. If I asked Jin Wikyung to send out word, we would soon know where to find one.
 
 *And if that doesn’t work, I can ask the Lower District Sect.*
 
-I even had a powerful connection in Wolhwa. With eyes and ears planted throughout Shanxi Province, something like this would be a piece of cake for her.
+I even had a powerful connection in Wolhwa. With eyes and ears planted throughout Shanxi Province, finding someone like that would be a piece of cake for her.
 
-*Whatever it takes, I’m clearing this Quest.*
+*Whatever it takes, I’m completing this Quest before I leave.*
 
 A month in the Murim was only three hours in the modern world.
 
@@ -163,17 +163,15 @@ I still had plenty of time.
 
 Just as I was grinning from ear to ear—
 
-Bang!
+*Bang!*
 
-The door burst apart with a deafening roar. A person rushed in like lightning and threw both arms wide toward me.
+The door blew apart with a deafening crash. Someone rushed in like lightning, charging toward me with both arms spread wide.
 
 “Youngest!”
 
 Yep. I knew it would be you.
 
-I let out a deep sigh and asked Jin Wikyung,
-
-“What’s going on?”
+I let out a deep sigh and asked Jin Wikyung, “What’s going on?”
 
 “What do you mean, what’s going on? I heard the wonderful news that you broke through the wall and rushed here at once!”
 
@@ -181,35 +179,33 @@ I let out a deep sigh and asked Jin Wikyung,
 
 It had only happened an hour or two ago, but the speed of the information network was no joke. Had this guy attached a Familiar to me or something?
 
-As I stared at him in bewilderment, I suddenly noticed Hyuk Mujin standing in front of the blown-open doorway, smiling proudly. He casually rubbed beneath his nose and said,
-
-“Shouldn’t such wonderful news be delivered first by the closest aide?”
+As I stared at him in bewilderment, I spotted Hyuk Mujin standing in front of the blown-open doorway with a proud smile. He rubbed beneath his nose and said, “Shouldn’t such wonderful news be delivered first by one’s closest aide?”
 
 “…”
 
-Not a Familiar. It was a Hyuk-miliar.
+Not a Familiar. A Hyuk-miliar.
 
-That bastard had definitely used my name to score some points with Jin Wikyung.
+That bastard had definitely used my name to score points with Jin Wikyung.
 
-“Waaah! Our youngest broke through the wall! He reached the Peak realm!”
+“Our youngest broke through the wall! He reached the Peak realm!”
 
-As expected, Hyuk Mujin quickly cut in.
+Sure enough, Hyuk Mujin quickly cut in.
 
-“Lesser Family Head, I served as his guard!”
+“Lesser Family Head, I stood guard over him!”
 
 “Thank you. Truly, thank you. Your contribution was enormous!”
 
-“Not at all. As your right arm, I merely did what I was supposed to do. I had not a shred of selfish intent. However, I noticed that the position of Master of the Gatekeeper Pavilion is still vacant…”
+“Not at all. As his right-hand man, I merely did my duty. I had not a shred of selfish intent. However, I noticed that the position of Master of the Gatekeeper Pavilion is still vacant…”
 
 “It’s yours without question! No, you’ll be the next Family Head of the Jin Family of Taiyuan!”
 
-“W-Whaaaat? Is that really true?”
+“W-Whaaat? Is that really true?”
 
 “…”
 
 Of course it wasn’t, you dumbass.
 
-Did it make any sense to appoint someone Family Head just because he had stood guard? And all that bastard had actually done was snore.
+Did it make any sense to appoint someone Family Head just because he had stood guard? Besides, all that bastard had actually done was snore.
 
 But the two men, blinded by joy and power, were already out of their minds.
 
@@ -227,11 +223,11 @@ The future of the Jin Family of Taiyuan looked bleak.
 
 * * *
 
-After the commotion finally passed, Jin Wikyung managed to calm himself and looked at me with moist eyes.
+Once the commotion died down, Jin Wikyung finally managed to calm himself and looked at me with moist eyes.
 
 “Your brother is proud of you.”
 
-“I’m proud of you too, Captain. But if I hadn’t served as your guard…”
+“I’m proud of you too, Captain. But if I hadn’t stood guard over you…”
 
 “Mujin, let’s keep quiet unless you want your pot cracked. And by ‘pot,’ I mean your head.”
 
@@ -239,45 +235,45 @@ After the commotion finally passed, Jin Wikyung managed to calm himself and look
 
 Hyuk Mujin, now sporting a lump on his forehead, answered at once. As expected, he only listened after getting hit.
 
-“Your good-for-nothing older brother couldn’t even look after you properly, and you went and pulled this off all on your own. Sniff.”
+“Your useless older brother couldn’t even look after you properly, and yet you grew up so well all on your own. Sniff.”
 
 “…”
 
-Look at the sensitivity on this human weapon.
+Look at this human weapon getting all sentimental.
 
 Whenever Jin Wikyung acted like this, I was grateful that this world had no social media. If it did, a post tagging every member of the Jin Family of Taiyuan would have gone up on Outstagram.
 
-A teary-eyed selfie and hashtags would have been included for free.
+Complete with a teary-eyed selfie and hashtags.
 
-#JinFamilyofTaiyuan #UselessOlderBrother #OurYoungestIsAlsoAPeakMaster #LetsDoOurBestAgainToday
+#JinFamilyofTaiyuan #UselessOlderBrother #OurYoungestIsAPeakMaster #KeepYourChinUpToday
 
 Wolhwa: Oh my! Young Master Jin? Congratulations!
 
-Cheongpung: Wow, this is my first time pressing Like!
+Cheongpung: Wow, I’ve never clicked Like before!
 
 Wipeng: Don’t lie.
 
-Hyuk Mujin: I served as his guard.
+Hyuk Mujin: I stood guard over him.
 
-Jin Mukyung: Is this a country?
+Jin Mukyung: Is this what you call a country?
 
 Zhu Bao: An autograph, please.
 
-The thought of countless Shanxi Province celebrities reacting like that made my vision swim.
+Imagining the reactions from countless Shanxi Province celebrities made my vision swim.
 
-I hurriedly pushed the horrifying image from my mind and comforted Jin Wikyung.
+I hurriedly pushed the horrifying thought from my mind and tried to soothe Jin Wikyung.
 
 “Please stop crying. How old are you?”
 
-“Sniff. How did that immature little youngest grow up to be such a fine man?”
+“Sniff. How did my immature youngest brother grow into such a fine man?”
 
 Jin Wikyung gazed at me with a mixture of emotion and pride, then wiped the corners of his eyes with his sleeve.
 
 “No, this won’t do. I need to go right now and…”
 
-“You’re not planning to write ‘I’ve become a Peak Master’ on some gigantic banner like last time, are you?”
+“You’re not planning to write ‘Jin Taekyung has become a Peak Master’ on a gigantic banner like last time, are you?”
 
-“Huh.”
+“Gasp.”
 
 “…”
 
@@ -289,7 +285,7 @@ I knew it. Judging by everything Jin Wikyung had done until now, there was no wa
 
 “It means embarrassing.”
 
-Jin Wikyung asked with a shocked expression,
+Jin Wikyung looked shocked.
 
 “Are you saying you’re embarrassed by me? By your own brother?”
 
@@ -297,21 +293,19 @@ Jin Wikyung asked with a shocked expression,
 
 This was driving me insane.
 
-Before I could answer, Hyuk Mujin, who had been sitting there quietly, deflated, suddenly cut in with a baffled expression.
+Before I could answer, Hyuk Mujin, who had been sitting quietly with his shoulders hunched, suddenly cut in with a baffled look.
 
 “Huh? Captain, you usually like getting attention.”
 
 “When have I ever?”
 
-“You don’t? If I remember correctly, you seemed to like it a lot. When we returned from the Mount Heng Sword Sect, you waved your hand like crazy from the very front.”
+“You don’t? If I remember correctly, you seemed to love it. When we returned from the Mount Heng Sword Sect, you stood at the very front and waved like crazy.”
 
 “…Ahem.”
 
-If he had been making that up, I would have punched him. But it was true, so I had nothing to say.
+If he had made that up, I would have punched him. But it was true, so I had nothing to say.
 
-I quietly avoided Hyuk Mujin’s gaze and replied,
-
-“That was different. I had my reasons.”
+I quietly avoided Hyuk Mujin’s gaze and replied, “That was different. I had my reasons.”
 
 “What reasons?”
 
@@ -319,25 +313,25 @@ I quietly avoided Hyuk Mujin’s gaze and replied,
 
 “Wow, there he goes again.”
 
-I ignored Hyuk Mujin’s muttering and turned my gaze back to Jin Wikyung.
+I ignored Hyuk Mujin’s muttering and turned back to Jin Wikyung.
 
 “Anyway, we’re not doing anything like that. The attention I’m getting now is more than enough.”
 
-“Hm. If that’s truly what you want…”
+“Hmm. If that’s truly what you want…”
 
 Jin Wikyung couldn’t hide his disappointment, but I was so firm that he reluctantly nodded. That let me breathe a sigh of relief.
 
 *What’s the point of advertising that I became a Peak Master? I’ll only attract a whole swarm of flies.*
 
-There had been a time when I was willing to risk my life for Fame, but not anymore.
+There had been a time when I would have risked my life for Fame, but not anymore.
 
-No, if anything, it felt ominous.
+If anything, Fame now felt ominous.
 
 *Why does it feel like the higher my Fame gets, the stronger the people it attracts become?*
 
-My life motto was to live thin and long. Of course, living thick and long would be even better, but people who lived that way rarely had peaceful lives.
+My life’s motto was to live a quiet, long life. Of course, living large and long would be even better, but people who tried that rarely had peaceful lives.
 
-And after constantly fighting battles where my life hung in the balance, I was exhausted in both body and mind.
+Constantly fighting battles where my life hung in the balance had also left me exhausted in both body and mind.
 
 *I need to make at least the bare minimum of preparations.*
 
@@ -345,7 +339,7 @@ I planned to make one hell of a spear from the Ten-Thousand-Year Cold Iron and h
 
 “Could you do me one favor?”
 
-Jin Wikyung was not the sort of person to refuse. He confidently nodded.
+Jin Wikyung was not the sort of person to refuse. He nodded confidently.
 
 “Say the word.”
 
@@ -353,7 +347,7 @@ Jin Wikyung was not the sort of person to refuse. He confidently nodded.
 
 “Information? About what, exactly?”
 
-“Two things. First, the whereabouts of a master artisan skilled enough to work with Ten-Thousand-Year Cold Iron. Second, news about the Fire King.”
+“Two things. First, the whereabouts of a Master Artisan skilled enough to work with Ten-Thousand-Year Cold Iron. Second, news about the Fire King.”
 
 “The first is understandable, but the Fire King… Surely you aren’t thinking of learning *that*?”
 
@@ -361,11 +355,11 @@ Jin Wikyung was not the sort of person to refuse. He confidently nodded.
 
 I had never told Jin Wikyung directly, but he already knew everything.
 
-It made sense. The Flame Divine Palm was the Fire King’s signature martial art, and touching it carelessly was no different from holding a bomb that could put the entire family at risk. I had already guessed that Jin Mukyung would have told his Lesser Family Head brother about it long ago.
+It made sense. The Flame Divine Palm was the Fire King’s signature martial art, and touching it carelessly was no different from holding a bomb that could put the entire family at risk. I had already assumed Jin Mukyung would have reported it to Jin Wikyung, the Lesser Family Head, long ago.
 
 “Taekyung.”
 
-At the concern in his voice, I waved my hand.
+Hearing the concern in his voice, I waved a hand.
 
 “I’m not planning to learn it right away. I just want to confirm whether the Fire King is alive or dead before I decide.”
 
@@ -373,7 +367,7 @@ At the concern in his voice, I waved my hand.
 
 After a brief silence, Jin Wikyung spoke.
 
-“Will you promise me one thing? Before you do that, you’ll consult with me first.”
+“Will you promise me one thing? Before you do anything, consult with me first.”
 
 “Yes.”
 
@@ -385,19 +379,19 @@ Jin Wikyung nodded decisively and rose from his seat.
 
 Already? That was the Jin Family of Taiyuan for you. They seemed to have a handle on almost everything.
 
-The progress was much faster than I had expected. My butt practically itched with impatience to go find the man immediately.
+Things were moving much faster than I had expected, and I was already itching to go find the man.
 
-“So he’s someone nearby?”
+“He must be nearby?”
 
-“Yes. He has apparently been living in seclusion without anyone knowing. Even our family only learned of his existence recently.”
+“Yes. He has been living in seclusion, hidden from everyone. Even our family only learned of his existence recently.”
 
-“What about his skill…?”
+“And his skill?”
 
-“I guarantee that even if you searched the entire world from top to bottom, he would be among the top ten.”
+“I guarantee that even if you scoured every inch under heaven, he would rank among the ten best.”
 
 If Jin Wikyung could speak that confidently, then the man’s skill was beyond question.
 
-A master artisan capable of handling Ten-Thousand-Year Cold Iron. I had found him much faster than expected.
+A Master Artisan capable of handling Ten-Thousand-Year Cold Iron. I had found him much faster than expected.
 
 “I’ll go back and confirm it once more, then send word. Now, get some rest. Ho ho, you broke through the wall. A Peak Master at twenty!”
 
@@ -423,7 +417,7 @@ He looked utterly bewildered. Of course. He wasn’t a martial arts expert like 
 
 “H-How did you get it? No, before that, is it really all right to tell me something this important?”
 
-To the guy asking with a mix of shock and confusion on his face, I answered kindly.
+Despite the shock and confusion on his face, I kindly answered him.
 
 “Yeah. You even saw it yourself.”
 
@@ -433,7 +427,7 @@ To the guy asking with a mix of shock and confusion on his face, I answered kind
 
 “I did?”
 
-“Yeah. Don’t you remember? Before the battle at Eight Spring Gorge, we stayed behind as the rear party. With those Samdo Sect guys—Gwak Jun or whatever his name was, and the others.”
+“Yeah. Don’t you remember? Before the battle at Eight Spring Gorge, we stayed behind with the rear party. With those Samdo Sect guys—Gwak Jun or whatever his name was, and the others.”
 
 Hyuk Mujin sank into thought, and his mouth slowly fell open.
 
@@ -443,6 +437,6 @@ Hyuk Mujin sank into thought, and his mouth slowly fell open.
 
 “…!”
 
-“Whew. That could have ended badly if I’d given it to you back then.”
+“Whew. Good thing I didn’t give it to you back then.”
 
 Hyuk Mujin’s face twisted miserably.
