@@ -527,3 +527,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 서천마군 | 신의 | hostile_invader_to_physician | Divine Physician | calm and mocking | Uses 신의 and 그대 while taunting the physician and dismissing his objections. |
 | 신의 | 서천마군 | physician_to_invading_fiend | fiend | defiant and formal | Calls the Western Heaven Demon Lord an 악귀 and orders him to leave. |
 | 서천마군 | 적천강 | hostile_invader_to_unconscious_patient | you | calm and predatory | Says someone wants to see Jeok Cheongang and attempts to move him with Seizing an Object Through Empty Space. |
+| 신의 | 진태경 | physician_to_benefactor | Young Master Jin | formal-polite | The Divine Physician addresses Taekyung as 진 공자 while expressing concern for his injuries. |
+| 진태경 | 동 노인 | benefactor_to_divine_physician | Old Man Dong | formal-polite and urgent | Taekyung uses 동 노인 while urging the injured Divine Physician to remain back. |

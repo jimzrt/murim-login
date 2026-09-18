@@ -1,8 +1,8 @@
 # Jin Taekyung (진태경)
 
-- **Safe through:** Chapter 362
+- **Safe through:** Chapter 363
 - **Aliases:** Sleeping Dragon of Shanxi; Tollgate Hero; Hong Gil-dong (temporary false identity); youngest son of the Jin Family of Taiyuan
-- **Role:** Third Young Master of the Jin Family of Taiyuan, Jeok Cheongang's publicly acknowledged Disciple and the Fire Gate Clan's nineteenth successor, who received three jiazi of internal energy from the Heavenly Power Demon, stole the Myriad-Poison Ring from the Western Heaven Demon Lord, and is trying to intercept the Demon Lord's attack on Jeok Cheongang's treatment room.
+- **Role:** Third Young Master of the Jin Family of Taiyuan, Jeok Cheongang's publicly acknowledged Disciple and the Fire Gate Clan's nineteenth successor, who received three jiazi of internal energy from the Heavenly Power Demon, stole the Myriad-Poison Ring from the Western Heaven Demon Lord, and gained a martial insight that let him briefly evade the Demon Lord's qi-controlled sword.
 - **Personality:** Hungry, self-aware, dryly observant, pragmatic under pressure, and willing to risk himself for people he has accepted as real. Treats impossible situations like games until their human cost becomes undeniable.
 - **Voice:** First-person, conversational, dryly self-mocking, with vivid trap-and-prey imagery, game terminology, and occasional profanity.
 - **Relationships:** Jin Mukyung is his older brother; Jeok Cheongang is his Master; Cheongpung is his trusted companion and only true martial rival; his mother and sister Hayeon are among those he protects.

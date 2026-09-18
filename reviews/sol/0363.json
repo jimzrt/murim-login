@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "If the Divine Physician had been even one second late—or even a quarter of a second—he would already have been dead.",
+      "defect": "The draft makes the Divine Physician the one who was nearly late, but Taekyung's intervention is what moved him out of the attack's path.",
+      "id": "F01",
+      "rationale": "The immediately preceding action is Taekyung using his internal energy to push the Divine Physician away before the Finger Qi crosses the spot where the physician's head had been.",
+      "replacement": "Had I been even one second later—no, even a quarter of a second—the Divine Physician would already have been dead.",
+      "severity": "critical",
+      "source": "일 초. 아니 그 반의반만 늦었더라도 신의는 이미 이 세상 사람이 아니었을 것이다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Who’d hear you and think the Myriad-Poison Ring was an erogenous zone? You’re an old bastard who can’t even get it up anymore.”",
+      "defect": "The opening rhetorical construction is reversed into asking who would draw that conclusion, rather than saying anyone overhearing him would; it also omits the explicit opening profanity.",
+      "id": "F02",
+      "rationale": "누가 들으면 means that someone hearing him would get that impression, while 시벌 supplies an explicit profane interjection and 새끼 sustains the insult.",
+      "replacement": "“Fuck, anyone listening to you would think the Myriad-Poison Ring was an erogenous zone. You’re so old you can’t even get it up anymore, asshole.”",
+      "severity": "major",
+      "source": "“누가 들으면 시벌, 만독지환이 성감대라도 되는 줄 알겠네. 이제는 늙어서 서지도 않는 새끼가.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "I had never imagined that a Supreme Peak master like the Western Heaven Demon Lord would carry out a method fit for third-rate dark-path figures without a moment’s hesitation.",
+      "defect": "The established rendering of 삼류 is not used, and “carry out a method” is an unnatural collocation.",
+      "id": "F03",
+      "rationale": "삼류 requires the established term “Third Rate,” and the sentence describes resorting to tactics characteristic of a low-level dark-path figure.",
+      "replacement": "I had never imagined that a Supreme Peak master like the Western Heaven Demon Lord would resort without hesitation to tactics fit for some Third Rate dark-path thug.",
+      "severity": "minor",
+      "source": "서천마군 같은 초절정 고수가 지금처럼 삼류 흑도나 쓸 법한 방법을, 한 치의 망설임도 없이 실행에 옮길 줄은 몰랐기 때문이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "A pair of eyes filled with contempt and pity bored into me.",
+      "defect": "한심 conveys disdain or the judgment that someone is pathetic, not pity.",
+      "id": "F04",
+      "rationale": "The Demon Lord is looking down on Taekyung for failing to understand the sacred treasure, with no sympathetic or pitying emotion in the source.",
+      "replacement": "His eyes bored into me, filled with scorn and contempt.",
+      "severity": "minor",
+      "source": "한심과 경멸이 어린 한 쌍의 눈동자가 나를 꿰뚫는다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Go fuck yourself. You… dumbass.”",
+      "defect": "“Dumbass” substantially softens the force of 병신 in an explicitly profane insult.",
+      "id": "F05",
+      "rationale": "좆 까 and 병신 form a strongly vulgar, contemptuous dismissal; the replacement preserves that register without adding meaning.",
+      "replacement": "“Fuck off, you… fucking moron.”",
+      "severity": "major",
+      "source": "“좆 까. 이…… 병신아.”"
+    }
+  ],
+  "summary": "The draft contains one critical subject reversal, a distorted rhetorical insult, one glossary mismatch, one emotional misreading, and softened profanity.",
+  "version": 1
+}

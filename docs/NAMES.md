@@ -1290,3 +1290,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 이어타정 | **carp-leaping maneuver** | Acrobatic movement Jin Taekyung uses to rise after bending backward. |
 | 지풍 | **Finger Qi** | Invisible qi attack fired by the Western Heaven Demon Lord. |
 | 법화 | **Lotus Sutra** | Buddhist scripture used in the comparison for the Demon Lord's fiend-like face. |
+| 이기어검 | **Qi-Controlled Sword** | Technique used by the Western Heaven Demon Lord to control and attack with a sword through qi. |
