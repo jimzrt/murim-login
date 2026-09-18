@@ -1,36 +1,5 @@
 {
-  "findings": [
-    {
-      "confidence": 0.98,
-      "current": "Until about ten years ago, he belonged to the Ironcraft Guild.",
-      "defect": "The time span is understated: 십여 년 means more than ten years, not approximately ten years.",
-      "id": "F01",
-      "rationale": "The source explicitly places his departure over a decade ago.",
-      "replacement": "Until more than ten years ago, he belonged to the Ironcraft Guild.",
-      "severity": "minor",
-      "source": "line 55"
-    },
-    {
-      "confidence": 0.9,
-      "current": "Should I round up every servant in the Jin Family of Taiyuan and give them an earful?",
-      "defect": "The threat's target is reversed. Jin Taekyung threatens to gather the servants and tell them what Hyuk Mujin said, not scold the servants.",
-      "id": "F02",
-      "rationale": "입 좀 털어 줘 functions here as threatening to repeat or broadcast Hyuk Mujin's disparaging remark to the assembled servants.",
-      "replacement": "Should I round up every servant in the Jin Family of Taiyuan and tell them what you just said?",
-      "severity": "minor",
-      "source": "line 101"
-    },
-    {
-      "confidence": 0.99,
-      "current": "The way you constantly hounded people to work whenever you had the chance was enough to make even a mother-in-law slap someone across the face with a bundle of kimchi.",
-      "defect": "The source-specific comic image reverses the participants: the mother-in-law is the person being slapped with kimchi, not the person doing the slapping.",
-      "id": "F03",
-      "rationale": "시어머니 김치 싸대기를 때리다 depicts administering a kimchi slap to one's mother-in-law; reversing the agent changes the joke's physical action.",
-      "replacement": "The way you constantly hounded people to work whenever you had the chance was enough to make someone slap their mother-in-law across the face with a bundle of kimchi.",
-      "severity": "minor",
-      "source": "line 113"
-    }
-  ],
-  "summary": "Mostly faithful, with two localized joke-logic defects and one minor quantity loss.",
+  "findings": [],
+  "summary": "The assembly is faithful to the Korean source with no fidelity defects detected.",
   "version": 1
 }
