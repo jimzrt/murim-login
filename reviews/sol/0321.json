@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "With his roar, an immense aura burst outward from Hwangbo Eom.",
+      "defect": "The draft renders 기파, a physically propagating wave of qi, as a generic aura, obscuring the mechanism that produces the violent shaking immediately afterward.",
+      "id": "F01",
+      "rationale": "기파 means a wave of qi or energy radiating from him, not merely his presence or aura.",
+      "replacement": "With his roar, an immense wave of qi burst outward from Hwangbo Eom.",
+      "severity": "major",
+      "source": "노호성과 함께 황보엄을 중심으로 막대한 기파가 뻗어 나왔다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "It was a peerless elixir said to grant a full jiazi of internal energy in a single gulp.",
+      "defect": "“In a single gulp” changes 단숨에 from the immediacy of the elixir’s effect to a specific manner of drinking it.",
+      "id": "F02",
+      "rationale": "복용만으로도 단숨에 means that merely consuming it grants the internal energy immediately; it does not specify swallowing it in one gulp.",
+      "replacement": "It was a peerless elixir said to grant a full jiazi of internal energy instantly upon consumption.",
+      "severity": "minor",
+      "source": "복용만으로도 단숨에 일 갑자의 공력을 얻게 된다는, 그야말로 천고의 영약."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Just because a country bumpkin from Shanxi became the Fire King’s Disciple, do you think you can see everything now?",
+      "defect": "The idiom 보이는 것이 없다 is mistranslated as omniscience. Hwangbo Eom is accusing Taekyung of becoming so arrogant that he recognizes no one as being above or worthy of fear.",
+      "id": "F03",
+      "rationale": "In context, 보이는 것이 없느냐 describes reckless arrogance or acting as though nobody else matters, which also sets up Taekyung’s retort about Hwangbo Eom’s aging eyesight.",
+      "replacement": "Just because a country bumpkin from Shanxi became the Fire King’s Disciple, do you think no one is above you now?",
+      "severity": "major",
+      "source": "산서 촌놈이 화왕의 제자가 되었다고 보이는 것이 없느냐?"
+    },
+    {
+      "confidence": 0.99,
+      "current": "That was the moment the pavilion’s doors opened and more than a dozen people came streaming inside.",
+      "defect": "The draft changes 십여 명, approximately ten or a dozen people, into more than twelve people.",
+      "id": "F04",
+      "rationale": "십여 명 denotes roughly ten people rather than a lower bound exceeding twelve; the following groups are being concretely counted.",
+      "replacement": "That was the moment the pavilion’s doors opened and about a dozen people came streaming inside.",
+      "severity": "critical",
+      "source": "그 순간이었다. 다루의 문이 열리고 십여 명의 사람들이 우르르 밀려온 것은."
+    }
+  ],
+  "summary": "Four actionable findings: one altered qi mechanism, one mistranslated idiom, one changed quantity, and one altered elixir effect.",
+  "version": 1
+}
