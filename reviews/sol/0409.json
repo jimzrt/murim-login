@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "In one word, he was a born talent.",
+      "defect": "“Born talent” reduces Choi’s advantage to innate ability, while 준비된 인재 summarizes the combination of his natural martial talent and the substantial energy already accumulated inside him.",
+      "id": "F01",
+      "rationale": "The preceding sentences identify two separate advantages—innate martial talent and preexisting internal energy—which 준비된 captures as preparation or readiness.",
+      "replacement": "In short, he was a talent with all the groundwork already laid.",
+      "severity": "major",
+      "source": "한 단어로 정리하자면, 준비된 인재라는 거다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“No. I’m worried because it seems one of our Guild members is about to put himself in danger.”",
+      "defect": "The draft makes the Guild member deliberately place himself in danger, whereas 위험에 빠지다 only says that he appears to be heading into or falling into danger.",
+      "id": "F02",
+      "rationale": "The source expresses Choi’s concern about Jin’s peril without explicitly assigning deliberate agency to Jin.",
+      "replacement": "“No. I’m worried because it looks like one of our Guild members is heading into danger.”",
+      "severity": "major",
+      "source": "“그건 아니고, 길드원 중 하나가 위험에 빠지는 것 같아서 걱정이 되네요.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Sure. I won’t be going far.”",
+      "defect": "The draft reads 멀리 안 나갑니다 literally as a statement about Jin’s future location. In this departure exchange, it is the conventional remark that he will not accompany the visitor farther or see him out.",
+      "id": "F03",
+      "rationale": "Choi has just risen to leave while Jin remains behind to cultivate; the line dismisses him without escorting him out.",
+      "replacement": "“All right. I won’t see you out.”",
+      "severity": "major",
+      "source": "“그래요. 멀리 안 나갑니다.”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "“I’m not concerned about that. I understand that it is Mr. Johnson’s way of expressing familiarity. This concerns Guild business.”",
+      "defect": "“Expressing familiarity” is an unnatural and overly literal rendering of 친밀감 표현, obscuring Choi’s dry acknowledgment that Johnson behaves that way to show closeness.",
+      "id": "F04",
+      "rationale": "친밀감 here means affectionate closeness or fondness, and 그보다는 explicitly pivots to the more pertinent Guild matter.",
+      "replacement": "“I’m not concerned about that. I know that’s simply Mr. Johnson’s way of showing affection. More importantly, this concerns Guild business.”",
+      "severity": "minor",
+      "source": "“신경 안 씁니다. 미스터 존슨 나름대로의 친밀감 표현이라는 걸 알고 있으니까요. 그보다는 길드 업무 관련 내용입니다.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "The wheels of a tank, made of countless footsteps and metal, crushed the feathers as they drifted back down.",
+      "defect": "The draft grammatically makes a tank consist of “countless footsteps and metal,” eliminating the marching feet as a separate agent that tramples the feathers.",
+      "id": "F05",
+      "rationale": "The source names two things trampling the falling feathers: countless footsteps and the wheels of metal tanks.",
+      "replacement": "Countless marching feet and the metal wheels of tanks crushed the feathers as they fluttered down.",
+      "severity": "critical",
+      "source": "흐느적거리며 추락한 깃털을 짓밟은 것은 수많은 걸음과 금속으로 이루어진 전차의 바퀴였다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“He could have lived if he hadn’t given up until the very end. He should have fought with everything he had somehow. That sort of thing.”",
+      "defect": "The draft invents and repeatedly specifies a singular male subject, narrowing the source’s omitted subject and changing the movie reference’s survival consequence.",
+      "id": "F06",
+      "rationale": "The Korean leaves the subject unstated, while the surrounding speech turns the movie’s collective lesson into encouragement for the assembled troops; the explicit singular “he” is unsupported.",
+      "replacement": "“They could have lived if they hadn’t given up until the very end. They should have fought with everything they had, no matter what. That sort of thing.”",
+      "severity": "critical",
+      "source": "“마지막까지 포기하지 않았으면 살 수 있었을 텐데. 어떻게든 죽을힘을 다해 싸웠어야지. 뭐 그런 생각.”"
+    }
+  ],
+  "summary": "The draft contains two scene-fact errors and several meaningful losses of characterization or pragmatic meaning.",
+  "version": 1
+}

@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "The allied forces launch mobile warfare across five fronts and advance rapidly toward Suining City, where the Arch Lich is believed to be waiting. Jin Taekyung uses Hero’s Soul and the Flame-Extinguishing Divine Fist to help rout the monsters, but the Arch Lich’s absence and the sudden decline in the enemy army make the victories suspicious.",
+      "defect": "The summary drops the consequential Chapter 405 hook that Lee Jungryong and Go Jun covertly removed the northern front’s commander and installed their bribed contact as his replacement.",
+      "id": "C01",
+      "rationale": "Lee Jungryong’s covert control of a front-line command is an unresolved antagonist advantage with clear future continuity value, not incidental detail.",
+      "replacement": "The allied forces launch mobile warfare across five fronts and advance rapidly toward Suining City, where the Arch Lich is believed to be waiting. Jin Taekyung uses Hero’s Soul and the Flame-Extinguishing Divine Fist to help rout the monsters, but the Arch Lich’s absence and the sudden decline in the enemy army make the victories suspicious. Before the advance, Lee Jungryong and Go Jun covertly engineer the death of the northern front’s commander and install their bribed contact, Lieutenant General Wang Ochun, as his replacement.",
+      "severity": "major",
+      "source": "checkpoint summary, Plot, first paragraph"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Team Leader Choi is a descendant of Cheon Taemin with exceptional martial talent and unusually substantial internal energy.",
+      "defect": "The active state omits that Team Leader Choi currently holds Hero’s Soul, even though the checkpoint continuity section explicitly identifies its final wielder as relevant.",
+      "id": "C02",
+      "rationale": "The weapon transfer remains active at the end of Chapter 409 and should survive in durable state so a later chapter does not assign or describe Hero’s Soul inconsistently.",
+      "replacement": "Team Leader Choi is a descendant of Cheon Taemin with exceptional martial talent and unusually substantial internal energy. He currently holds Hero’s Soul after Shao Shen judged him the more suitable wielder and passed it to him.",
+      "severity": "major",
+      "source": "durable state, active_continuity, Team Leader Choi lineage entry"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“……Thank you.”",
+      "defect": "The reading copies repeatedly use the two-character CJK ellipsis instead of the required single ellipsis character.",
+      "id": "C03",
+      "rationale": "The packet’s binding Markdown rules require the ellipsis character “…”; analogous double-character ellipses throughout Chapters 405–409 should be normalized the same way.",
+      "replacement": "“…Thank you.”",
+      "severity": "minor",
+      "source": "Chapter 405, Go Jun’s first reply"
+    },
+    {
+      "confidence": 1.0,
+      "current": "└ For realㅋㅋㅋㅋ You’re the kind of bastard who’d get a goblin’s poison stinger in the ass and yell, “Ow, please let go gently!” Aren’t you the same guy who used an aura blade with your keyboard last time?",
+      "defect": "The Korean laughter characters remain untranslated in an otherwise English-only reading copy.",
+      "id": "C04",
+      "rationale": "Natural English laughter preserves the casual forum tone without leaving Korean text in the final copy.",
+      "replacement": "└ For real, hahaha. You’re the kind of bastard who’d get a goblin’s poison stinger in the ass and yell, “Ow, please let go gently!” Aren’t you the same guy who used an aura blade with your keyboard last time?",
+      "severity": "minor",
+      "source": "Chapter 406, Hunter University comment thread"
+    },
+    {
+      "confidence": 0.99,
+      "current": "└ Undefeated for an entire week ㄷㄷㄷ;",
+      "defect": "The Korean shuddering/awe emoticon remains untranslated, and the trailing semicolon is an artifact rather than natural English punctuation.",
+      "id": "C05",
+      "rationale": "The replacement conveys the commenter’s awed disbelief in natural English while complying with the English-only requirement.",
+      "replacement": "└ A whole week undefeated… That’s insane.",
+      "severity": "minor",
+      "source": "Chapter 406, Hunter University comment thread"
+    },
+    {
+      "confidence": 0.94,
+      "current": "Their momentum was unstoppable, like splitting bamboo.",
+      "defect": "“Like splitting bamboo” reads as an untranslated idiom and briefly shifts the narration into generic cultivation-MTL phrasing.",
+      "id": "C06",
+      "rationale": "The replacement preserves the image of effortless, accelerating success in ordinary contemporary US English.",
+      "replacement": "Their momentum was unstoppable, cutting through the enemy like a knife through butter.",
+      "severity": "minor",
+      "source": "Chapter 406, narration after the forum comments"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Then the Skeleton Warlord, which had been depressed ever since its wish coupon was refunded, spoke in a hopeful tone.",
+      "defect": "This reverses the outcome established in Chapter 408: Jin explicitly refused to exchange or refund the wish coupon.",
+      "id": "C07",
+      "rationale": "The revised sentence restores continuity with the preceding chapter while retaining Jin Taekyung’s conversational narration and the running customer-service joke.",
+      "replacement": "Then the Skeleton Warlord, which had been depressed ever since I refused to refund its wish coupon, spoke in a hopeful tone.",
+      "severity": "minor",
+      "source": "Chapter 409, Skeleton Warlord dialogue scene after Team Leader Choi leaves"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Suining City lies in the center of the Sichuan Basin and boasts two urban districts, three counties, and a vast area of more than 5,000 square kilometers.",
+      "defect": "The sentence abruptly shifts into present-tense promotional prose before the passage returns to past-tense narration and explains that the city’s former prosperity is gone.",
+      "id": "C08",
+      "rationale": "Past tense matches the surrounding narration, while “encompassed” avoids claiming that the devastated city still “boasts” its former attributes.",
+      "replacement": "Suining City lay in the center of the Sichuan Basin and encompassed two urban districts, three counties, and more than 5,000 square kilometers.",
+      "severity": "minor",
+      "source": "Chapter 409, opening of the Suining City exposition"
+    }
+  ],
+  "summary": "The reading copies are broadly coherent and preserve the packet’s major hooks, but the checkpoint drops Lee Jungryong’s takeover of the northern command and the durable state omits Hero’s Soul’s current wielder. There is also one direct contradiction about the Skeleton Warlord’s rejected refund, several English-copy formatting issues, and two minor prose/tense drifts.",
+  "version": 1
+}

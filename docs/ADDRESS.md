@@ -664,3 +664,7 @@ Overrides generic relationship prose in character profiles for this pair.
 | 파이 첸 | 이정룡 | senior allied S-rank Hunter to senior Ares Guild authority | Mr. Lee | formal and lightly familiar | Faye questions Lee's decision to leave him behind instead of Wu. |
 | 이정룡 | 파이 첸 | senior Ares Guild authority to allied S-rank Hunter | Faye Chen | formal and reassuring | Lee insists that Faye remaining behind will reduce casualties. |
 | 스켈레톤 워로드 | 진태경 | captive undead commander to captor | treacherous human | grandiose, accusatory, and plaintive | The Skeleton Warlord invokes Jin's promise while bargaining for freedom. |
+| 최민우 | 진태경 | trusted allied team leader to younger allied Hunter | Mr. Jin | formal-polite and concerned | Choi warns Jin about the danger of the operation and affirms his deep trust. |
+| 진태경 | 최민우 | younger allied Hunter to allied team leader | Team Leader Choi | polite, familiar, and teasing | Jin jokes with Choi while acknowledging and dismissing his concern. |
+| 스켈레톤 워로드 | 진태경 | captive undead commander to captor | human | theatrical, aggrieved, and insulting | The Skeleton Warlord repeatedly calls Jin human or uses insulting second-person forms while protesting the operation. |
+| 진태경 | 스켈레톤 워로드 | captor to captive undead commander | undead bastard | insulting and casual | Jin mocks and physically disciplines the Skeleton Warlord during their banter. |

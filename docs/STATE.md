@@ -1,16 +1,16 @@
 # Translation State
 
-- Last completed: 408
-- Next chapter: 409
-- Current block: 405–409 (4/5)
-- Latest translation: `translations/0408.md`
-- Latest summary: `summaries/beats/0408.md`
-- Safe profiles through: chapter 408
+- Last completed: 409
+- Next chapter: 410
+- Current block: 405–409 (5/5)
+- Latest translation: `translations/0409.md`
+- Latest summary: `summaries/beats/0409.md`
+- Safe profiles through: chapter 409
 
 ## Current Block
 
-- The coalition accepts Jin Taekyung's proposal to form a suicide squad led by S-rank Hunters and strike directly at the Arch Lich, whose destruction should collapse the mostly undead monster army. Magic Johnson, Prince Felix, and Faye Chen are designated to remain behind, while Jin, Lee Jungryong, and the unwilling Wu Heixing join the assault force; Lee privately assures Wu that he will not face meaningful danger.
-- After the meeting, the Skeleton Warlord invokes Jin's promise to grant any request in exchange for protecting two humans and asks for freedom. Jin technically grants it by throwing the Warlord's skull into the crowded Hunter camp, but the battered undead commander soon returns and begs to retract the wish. Jin refuses a refund and calls it back into his arms.
+- Before dawn, Team Leader Choi visits Jin Taekyung to warn him that the operation against the Arch Lich is dangerous because Lee Jungryong and Wu Heixing will be involved. Jin jokes about Choi's martial talent, dismisses the concern, and tells him to prepare for the battle that will begin before the day ends. After Choi leaves, Jin argues with the reluctant Skeleton Warlord, whose skull receives a small crack when Jin flicks it.
+- At Suining City, the Western Front advances toward the fog-covered city while the other allied fronts surround it. Jin uses humor to ease the soldiers' tension, then delivers an indirect exhortation to keep fighting without giving up. As corpses rise, Skeletons emerge, and monsters move within the fog, Jin announces that the battle has begun.
 
 ## Open Questions
 
@@ -26,7 +26,7 @@
 - Render 기동전 as mobile warfare.
 - Render 쑤이닝시 as Suining City.
 - Render 결사대 as suicide squad.
-- Render 머리를 치다 as take out the head in the context of killing the Arch Lich.
+- Render 스켈레톤 워로드 as Skeleton Warlord, 아크 리치 as Arch Lich, and 머리를 치다 as take out the head in the context of killing the Arch Lich.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
