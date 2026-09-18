@@ -1,6 +1,6 @@
 # Ju Hwaran (주화란)
 
-- **Safe through:** Chapter 323
+- **Safe through:** Chapter 325
 - **Aliases:** Hwaran
 - **Role:** Level 88 Young Bureau Head and leader of the Yongbong Escort Bureau, whose long-running decline has been linked to covert Zhongnan interference.
 - **Personality:** Intelligent, capable, responsible, filial, composed under pressure, and burdened by intense guilt over the escort journey's deaths.

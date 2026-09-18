@@ -464,3 +464,7 @@ Overrides generic relationship prose in character profiles for this pair.
 | 궁기방 | 황보엄 | Beggars_Sect_successor_to_Zhongnan_senior | Great Hero Hwangbo | formally deferential but defiant | Gung invokes Hwangbo's title while asserting the Beggars' Sect's pride and rules. |
 | 흑걸개 | 황보엄 | Beggars_Sect_branch_leader_to_Zhongnan_senior | Great Hero Hwangbo | deferential and evasive | Heukgeol uses the respectful title while refusing to withdraw the branch's support. |
 | 황보엄 | 적천강 | rival_martial_masters | Fire King Jeok Cheongang | cold and taunting | Reveals that he knows Jeok's illness and threatens to settle his bad blood with the Fire Gate Clan. |
+| 황천 | 황보엄 | junior_disciple_to_senior_martial_uncle | Senior Martial Uncle | urgent and deferential | Uses 사백님 while demanding that Taekyung release Hwangbo Eom. |
+| 황천 | 진태경 | sect_disciple_to_hostile_younger_martial_artist | you bastard | hostile and commanding | Orders Taekyung to release Hwangbo Eom. |
+| 황천 | 혁소평 | junior_disciple_to_senior_disciple | Senior Brother | deferential and alarmed | Appeals to Hyuk Sopyung after he orders the unit to withdraw. |
+| 혁소평 | 황천 | senior_disciple_to_junior_disciple | Junior Brother | gentle but commanding | Orders Hwangcheon to withdraw and then silences his objection. |

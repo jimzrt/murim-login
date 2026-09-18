@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“So.”\n\nThwack!\n\n“You should’ve stopped.”\n\nThwack!\n\n“While I was still asking nicely.”",
+      "defect": "The final two clauses are reversed, changing which words accompany each blow and weakening the staged delivery.",
+      "id": "F01",
+      "rationale": "The source places 좋게 말할 때 before 멈췄어야지, with a separate strike between them.",
+      "replacement": "“So.”\n\nThwack!\n\n“While I was still asking nicely.”\n\nThwack!\n\n“You should’ve stopped.”",
+      "severity": "minor",
+      "source": "“그러니까.”\n\n퍽!\n\n“좋게 말할 때.”\n\n퍽!\n\n“멈췄어야지.”"
+    },
+    {
+      "confidence": 0.95,
+      "current": "“You used someone else’s Master for a fucking family insult, you bastard.”",
+      "defect": "The English is unnatural and obscures the 패드립 joke: Taekyung treats insulting someone’s Master like insulting their parent.",
+      "id": "F02",
+      "rationale": "패드립 specifically denotes abuse aimed at someone’s parents or family, while 시발 거 carries strong profanity.",
+      "replacement": "“You talk shit about someone else’s Master like you’re insulting their fucking dad, you piece of shit.”",
+      "severity": "major",
+      "source": "“남의 사부를 가지고, 패드립을, 시발 거.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Martial Granduncle!”",
+      "defect": "The kinship title is wrong. 사조 is a martial grandmaster, not a granduncle.",
+      "id": "F03",
+      "rationale": "Changing 사조 to a collateral granduncle relationship alters the sect hierarchy.",
+      "replacement": "“Martial Grandmaster!”",
+      "severity": "critical",
+      "source": "“사조님!”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "Hwangcheon, the Commander of the Taeeul Sword Unit and a second-generation disciple of the Zhongnan Sect, hurriedly drew his sword and stepped forward.",
+      "defect": "Hwangcheon is a newly romanized name absent from the supplied terminology ledger, and the meaningful characters 黃泉 are left unexplained.",
+      "id": "F04",
+      "rationale": "The binding terminology rules require an unlisted first-use name to be mapped or briefly footnoted when its source characters carry a material cultural meaning.",
+      "replacement": "Hwangcheon[^1], the Commander of the Taeeul Sword Unit and a second-generation disciple of the Zhongnan Sect, hurriedly drew his sword and stepped forward.\n\n[^1]: Hwangcheon (黃泉) literally means “Yellow Springs,” a traditional term for the underworld.",
+      "severity": "minor",
+      "source": "태을검대를 이끄는 대주이자 종남파의 이대 제자인 황천(黃泉)이 황급히 검을 뽑으며 앞으로 나선 그 순간이었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The three men and women who had subdued the Peak master of the Zhongnan Sect spoke in turn.",
+      "defect": "“The three men and women” can mean three men plus an unspecified number of women, whereas the source means exactly three people: two men and one woman.",
+      "id": "F05",
+      "rationale": "세 남녀 denotes a mixed-gender group totaling three people, as confirmed by the three names that follow.",
+      "replacement": "The three martial artists who had subdued Hwangcheon, a Peak master of the Zhongnan Sect, in an instant spoke in turn.",
+      "severity": "minor",
+      "source": "절정 고수인 황천을 순식간에 제압한 세 남녀가 차례대로 입을 열었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“It’ll hurt quite a bit if you get hit by the Dog-Beating Staff Technique. I’ve only mastered it up to the fifth level, though.”",
+      "defect": "The draft converts the martial-art proficiency measure 오 성 into a generic numbered level.",
+      "id": "F06",
+      "rationale": "오 성 means five stars of mastery, not the fifth level; preserving that scale is part of the technique’s mechanical description.",
+      "replacement": "“It’ll hurt quite a bit if you get hit by the Dog-Beating Staff Technique. I’ve only mastered it to five stars, though.”",
+      "severity": "major",
+      "source": "“타구봉법으로 맞으면 제법 아플 거다. 아직 오 성까지밖에 못 익혔지만.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Good grief. It’s been a while since I’ve had a proper beating.”",
+      "defect": "The action is reversed: the speaker anticipates cutting loose and venting through violence, not receiving a beating.",
+      "id": "F07",
+      "rationale": "살풀이 here is a euphemistic expression for working off pent-up aggression in the coming fight.",
+      "replacement": "“Good grief. It’s been ages since I got to really cut loose.”",
+      "severity": "critical",
+      "source": "“어이구, 간만에 살풀이 한번 거하게 하겠구나.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Perhaps it was because they had witnessed an unbelievable display of power. Perhaps it was the quiet voice that pierced their ears as his gaze met theirs.\n\nEven that alone made their breath catch in their throats.\n\nHis aura was overwhelming.",
+      "defect": "The draft changes the focal subject from Hwangcheon to an unspecified group and splits one causal question into two speculative causes.",
+      "id": "F08",
+      "rationale": "The surrounding narration and the thoughts immediately following belong specifically to Hwangcheon; the source presents his prior observation as a possible reason for his reaction.",
+      "replacement": "Was it because he had witnessed that unbelievable display of power? Merely meeting Jin Taekyung’s gaze and hearing his low voice bore into his ears was enough to make Hwangcheon’s breath catch.\n\nHis aura was truly overwhelming.",
+      "severity": "major",
+      "source": "믿지 못할 신위(神威)을 목도해서일까? 시선을 마주하고 귓가를 파고드는 나직한 목소리만으로도 숨이 턱 막혔다.\n\n기세. 그것은 실로 압도적인 기세였다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“If I were not blind, I would have seen it. If I were not deaf, I would have heard it. I would have seen how all of this began.”",
+      "defect": "The draft makes Hyuk Sopyung conditionally describe himself as blind and deaf, reversing the rebuke aimed at everyone who witnessed the incident; it also changes “heard” back to “seen” in the final sentence.",
+      "id": "F09",
+      "rationale": "The source states that any sighted or hearing witness should know how the incident began; Hyuk Sopyung is not claiming that he himself could not see or hear.",
+      "replacement": "“Anyone who wasn’t blind would have seen it. Anyone who wasn’t deaf would have heard it—how all of this began.”",
+      "severity": "critical",
+      "source": "“맹인(盲人)이 아니었다면 보았을 것이다. 또한 농인(聾人)이 아니었다면 들었을 것이다. 이 모든 일이 어떻게 시작되었는지.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“You plotted in the shadows to swallow the Yongbong Escort Bureau whole.",
+      "defect": "The added second-person subject assigns the conspiracy specifically to the disciples Hyuk Sopyung is addressing and distances him from the collective wrongdoing he is confessing.",
+      "id": "F10",
+      "rationale": "The omitted Korean subject is the Zhongnan Sect collectively, as shown by Hyuk Sopyung’s repeated references to “our sect” and his collective apology immediately afterward.",
+      "replacement": "“We plotted in the shadows to swallow the Yongbong Escort Bureau whole.",
+      "severity": "major",
+      "source": "“음지에서 용봉표국을 집어삼킬 계략을 꾸몄으니 이는 당당한 명문 대파의 처사가 아니다.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Hold him still. Any more than this could endanger his life.”",
+      "defect": "고정하시오 is misread as a physical instruction to hold Hwangbo Eom still. Hyuk Sopyung is telling Jin Taekyung to calm down and restrain himself.",
+      "id": "F11",
+      "rationale": "The warning concerns Taekyung inflicting further violence, not Hyuk Sopyung’s handling of the injured man.",
+      "replacement": "“Even so, restrain yourself. Any more than this could endanger his life.”",
+      "severity": "critical",
+      "source": "“그래도 고정하시오. 이 이상은 목숨이 위험하오.”"
+    }
+  ],
+  "summary": "Several fidelity errors alter kinship, subjects, intent, and a physical action; additional terminology and register corrections are needed.",
+  "version": 1
+}
