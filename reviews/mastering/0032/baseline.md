@@ -20,7 +20,7 @@ Still, it was a relief we’d won. From the Jin Family of Taiyuan’s perspectiv
 
 “It’s unfortunate we let the Mount Heng Sword Sect’s Lesser Family Head escape, but taking the Mount Heng Twin Devils was a major haul.”
 
-“The Mount Heng Twin D-Devils?”
+“The Mount Heng Fucking Devils?”
 
 “The Mount Heng Twin Devils. Peak masters under the Mount Heng Sword Sect, and their loyalty was something else… They kept throwing themselves at us without any regard for their lives, so we had no choice but to kill them.”
 
@@ -192,7 +192,7 @@ When he put it like that, I had nothing to say. I got embarrassed for some reaso
 
 “Ahem. Well, I almost died, but all I did was take down Jopil and a few wandering martial artists. Ahem.”
 
-“How many Peak masters do you think there are in a single city? Across all of Shanxi, where our family is located, there are fewer than twenty.”
+“How many Peak masters do you think there are in a single province? Across all of Shanxi, where our family is located, there are fewer than twenty.”
 
 Twenty. Far fewer than I’d expected.
 

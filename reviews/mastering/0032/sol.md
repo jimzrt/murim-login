@@ -4,7 +4,7 @@
 
 “There was a battle?”
 
-And a major one, no less—hundreds of people thrown in. My heart lurched for a moment, but then I remembered what Wipeng had said earlier.
+And a major one, at that—hundreds of people had fought. My heart lurched, but then I remembered what Wipeng had said earlier.
 
 Good news and even better news. He’d already given away the outcome.
 
@@ -16,7 +16,7 @@ Judging by the scar running from Wipeng’s forehead to his chin, it must have b
 
 *Well, of course. They outnumbered us two to one.*
 
-Still, it was a relief we’d won. From the Jin Family of Taiyuan’s perspective, we’d poured in nearly half our strength. If we’d lost, the damage would have been enormous.
+Still, thank God we’d won. The Jin Family of Taiyuan had committed nearly half its forces to the battle. If we’d lost, the damage would have been enormous.
 
 “It’s unfortunate that we let the Mount Heng Sword Sect’s Lesser Family Head escape, but taking down the Mount Heng Twin Devils was a major gain.”
 
@@ -34,7 +34,7 @@ Wipeng tapped the fresh scar on his face.
 
 “…”
 
-I was left speechless as Wipeng slurped his tea.
+I was left speechless as Wipeng sipped his tea.
 
 *For fuck’s sake… Are Peak masters a joke to him?*
 
@@ -44,7 +44,7 @@ And after taking down Peak masters of that caliber, all he had to say was that t
 
 *This guy’s a complete monster.*
 
-I learned something for certain this time: even Peak masters came in different levels. It was a huge relief that people of that caliber were on my side.
+This had made one thing clear: even Peak masters came in different tiers. Thank God people of that caliber were on my side.
 
 “That aside…”
 
@@ -84,7 +84,7 @@ I tried to convey that with a wink. Wipeng frowned.
 
 “No, what I just did was…”
 
-Then Wipeng rolled his eyes back until only the whites showed and started to tremble.
+Wipeng suddenly rolled his eyes back until only the whites showed and began convulsing.
 
 The table shook, and tea sloshed over the rim of his cup. I cried out in alarm.
 
@@ -106,7 +106,7 @@ Just as I hurriedly tried to stand, the convulsions stopped. Wipeng returned to 
 
 *What kind of lunatic is this…?*
 
-I tried to explain the difference between a wink and an epileptic fit, but the words stuck. Wipeng was glaring at me like a pissed-off dictator.
+I tried to explain the difference between a wink and an epileptic fit, but the words died in my throat. Wipeng was glaring at me like an enraged dictator.
 
 “…Why don’t we just finish talking about Jopil?”
 
@@ -136,11 +136,11 @@ When the long story finally ended, Wipeng released the breath he’d been holdin
 
 “…Ah. Right.”
 
-“When I think of all the trouble you’ve caused until now, my blood boils, but I was genuinely impressed. I mean that.”
+“When I think of all the trouble you’ve caused, my blood boils, but I was genuinely impressed. I mean that.”
 
 “…”
 
-“Who could have imagined that the Third Young Master who stole family funds day after day and poured them into pleasure houses, then paraded through the streets dead drunk and smeared shit all over the family’s reputation, would become such a great man? I, Wipeng, am genuinely in awe.”
+“Who could have imagined that the Third Young Master who stole money from the family coffers day after day and poured it into pleasure houses, then paraded through the streets blind drunk and dragged the family’s reputation through the mud, would grow into such a great man? I, Wipeng, am genuinely in awe.”
 
 *Just curse me out, you bastard…*
 
@@ -176,17 +176,17 @@ Wipeng, who had looked vaguely displeased all this time, suddenly turned dead se
 
 *Enough already. Seriously.*
 
-While I was debating whether to pull a weapon from my Inventory, Wipeng let out a short chuckle. It was the first time I had ever seen him laugh.
+As I debated whether to pull a weapon out of my Inventory, Wipeng let out a quiet laugh. It was the first time I’d ever seen him laugh.
 
 “Well done.”
 
-I looked at Wipeng suspiciously.
+I eyed him suspiciously.
 
 “What are you going to add this time?”
 
 His smile deepened.
 
-“I mean it. It’s true I disliked you quite a lot, but… this time, I have no choice but to acknowledge you.”
+“I mean it. It’s true that I disliked you considerably, but… this time, I have no choice but to acknowledge what you’ve done.”
 
 When he put it that way, I had nothing to say. For some reason, I felt embarrassed and cleared my throat.
 
@@ -196,7 +196,7 @@ When he put it that way, I had nothing to say. For some reason, I felt embarrass
 
 Twenty. Far fewer than I’d expected.
 
-“The Mount Heng Sword Sect must have taken serious losses. They lost three Peak masters like that.”
+“The Mount Heng Sword Sect must have taken serious losses. They lost three Peak masters.”
 
 “But the greatest blow lies elsewhere.”
 
@@ -228,7 +228,7 @@ In the end, I had to replay the chase of the past several days and my battle wit
 
 “Jopil’s Flame Divine Palm left me with internal injuries…”
 
-“I’ll kill him! How dare that vicious wandering martial artist bastard! Even if I ripped out his guts and chewed them to a pulp, it wouldn’t be enough!”
+“I’ll kill him! How dare that vicious wandering martial artist bastard! Even ripping out his guts and chewing them to pieces wouldn’t be enough!”
 
 *Boom! Boom! Boom!*
 
@@ -236,23 +236,23 @@ In the end, I had to replay the chase of the past several days and my battle wit
 
 I stared blankly at the ruins of my bedroom. This was what Jin Wikyung’s excessive immersion in the story had wrought.
 
-Wipeng had already backed far away and was mouthing something.
+Wipeng had already retreated to a safe distance and was mouthing something.
 
-—It would be best not to bring that story up again.
+—We should never tell that story again.
 
 For the first time, the two of us were in complete agreement.
 
 Jin Wikyung huffed and puffed for a long while before finally calming dow—
 
-“If that bastard had still been alive, he wouldn’t have died peacefully.”
+“If that bastard were still alive, I wouldn’t have let him die peacefully.”
 
 *Crunch.*
 
-I watched with sad eyes as the corner of the bed crumbled into powder. Wipeng shook his head.
+I watched sadly as the corner of the bed crumbled into powder. Wipeng shook his head.
 
-“My lord. Please calm down. The Young Master seems anxious.”
+“My lord, please calm down. The Young Master appears to be frightened.”
 
-That one actually worked. Seeing me sitting there sadly, wrapped in bandages from head to toe, Jin Wikyung’s eyes reddened.
+That actually worked. Jin Wikyung’s eyes reddened when he saw me sitting there in a daze, wrapped from head to toe in bandages.
 
 “Just look at my youngest. How much must this poor child have suffered to be sitting there so completely out of it?”
 
@@ -260,11 +260,11 @@ That one actually worked. Seeing me sitting there sadly, wrapped in bandages fro
 
 A hand the size of a cauldron lid clamped onto my shoulder and pulled me in. I was a fairly big guy myself, but this man was practically a small ogre. Trapped against his broad chest, I trembled in fear.
 
-“There, little brother. It’s all right now. It’s all right.”
+“There, my youngest. It’s all right now. Everything’s all right.”
 
-After a heartfelt hug that only he found moving, Jin Wikyung sniffed.
+After ending a heartfelt embrace that only he found moving, Jin Wikyung sniffed.
 
-“I thought you’d be a child forever… but you’ve grown up now. Wipeng, did you know?”
+“I thought you would always be a child… but you’ve grown up now. Wipeng, do you know something?”
 
 Wipeng answered without even pausing to breathe.
 
@@ -272,13 +272,13 @@ Wipeng answered without even pausing to breathe.
 
 Of course, Jin Wikyung pretended not to hear him.
 
-“Rumors have spread throughout our family and even through the streets. The tale of the hero who led a death squad in a raid on the enemy camp, defeated Jopil, One Question, One Kill, and one hundred wandering martial artists, and rescued the Sakju Branch’s household.”
+“Word has spread throughout our family and even into the marketplace. The tale of the hero who led a death squad in a raid on the enemy camp, defeated Jopil, One Question, One Kill, and a hundred wandering martial artists, and rescued the people of the Sakju Branch.”
 
 “Wow. That’s amaz—wait, what?”
 
 I blinked.
 
-*Hold on. That was my story?*
+*Hold on. That was supposed to be me?*
 
 “Um, I think there’s been some kind of misunderstanding.”
 
@@ -286,11 +286,11 @@ I blinked.
 
 Jin Wikyung smiled with satisfaction.
 
-“Our little brother is modest, too. Wipeng, you shut your mouth.”
+“My youngest is modest too. Wipeng, shut your mouth.”
 
-“No, it isn’t modesty. I think the rumor has been distorted a little.”
+“No, I’m not being modest. I think the rumor has been distorted.”
 
-“That’s right. I know you care for the Young Master, my lord, but this is going too far. If the rumor gets too far-fetched, people won’t beli—”
+“That’s right. I know how much you care for the Young Master, my lord, but this has gone too far. If the rumor becomes too outlandish, no one will beli—”
 
 “Rumor? Outlandish?”
 
@@ -300,7 +300,7 @@ Wipeng’s voice vanished beneath a thunderous crash. My mouth fell open as I st
 
 *What the hell are you doing, you lunatic?*
 
-Jin Wikyung threw another punch. With a sound like compressed air bursting, what was left of the wall came down.
+Jin Wikyung threw another punch. Compressed air exploded, and what remained of the wall collapsed.
 
 Wood and bricks poured from the two-story pavilion, sending the people outside into an uproar.
 
@@ -312,13 +312,13 @@ While everyone was still reeling in shock, Jin Wikyung hoisted me into the air.
 
 *Put me down. Put me down, you crazy bastard!*
 
-I struggled with all my strength, but there was no fighting him off. One step. One step. Every step toward the gaping wall sent terror through me.
+I struggled with all my strength, but I couldn’t fight him off. One step at a time, he carried me toward the gaping hole in the wall, and terror mounted with every step.
 
 *He’s going to drop me!*
 
 More than fifty people had gathered below. They called it a two-story building, but the pavilion was so large that we had to be a good ten meters up. The wind gusting through the hole made me dizzy.
 
-*If I fall, that’s a fracture at the very least.*
+*If I fall, I’ll break something at the very least.*
 
 Even as a chill ran down my spine, more people kept crowding in. Over fifty of them craned their necks to stare up at us.
 
@@ -334,15 +334,15 @@ Someone’s shout sent a stir through the crowd.
 
 “The Third Young Master who defeated Jopil, One Question, One Kill, has awakened!”
 
-*What is this situation?*
+*What the hell is going on?*
 
-While my eyes and ears were still whipping around, a solemn voice rang out clearly.
+As I frantically looked around, trying to make sense of the scene, a solemn voice rang clearly in my ear.
 
-“Can you see?”
+“Can you see them?”
 
 “Ah, yes. I can see them. Could you put me down—”
 
-“Can you hear?”
+“Can you hear them?”
 
 “I can hear them too, but first, could you—”
 
@@ -352,7 +352,7 @@ While my eyes and ears were still whipping around, a solemn voice rang out clear
 
 “They believe in you. They’re calling your name!”
 
-“No, you fucking bastard.”
+“You fucking bastard.”
 
 My final curse vanished beneath the crowd’s shouts.
 
@@ -360,7 +360,7 @@ My final curse vanished beneath the crowd’s shouts.
 
 Dozens more people had appeared in that brief span of time. Countless gazes flew toward me and pinned me in place.
 
-*No, what is this?*
+*No, what the hell is this?*
 
 Then Jin Wikyung, his expression grave, slid his hands beneath my armpits and lifted me high.
 
@@ -374,7 +374,7 @@ Right on cue, a thunderous cheer erupted.
 
 And then…
 
-*Fuck. What is this, a baby lion?*
+*Fuck. What am I, a baby lion?*
 
 The theme music from an old cartoon began playing in my head.
 
