@@ -8,7 +8,7 @@ Each time I completed a form, the red tassel hanging beneath the spearhead whipp
 
 Bang!
 
-Again, the sound of wind being torn apart rang out. It was the seventh and final form of the Jin Family’s Spear Technique: the Sky-Piercing Strike.
+Once again, the air tore apart. This was the seventh and final form of the Jin Family’s Spear Technique: the Sky-Piercing Strike.
 
 And this Sky-Piercing Strike was more precise and powerful than the ninety-nine I had successfully performed before it.
 
@@ -97,7 +97,7 @@ If only I had some kind of recovery item…
 
 “Oh, right. The fasting pills.”
 
-I took one of the grain-repelling pills from my inventory. It gave off a strange smell, but a professional Hunter couldn’t afford to be picky about whether his rice was hot or cold.
+I took one of the fasting pills from my inventory. It gave off a strange smell, but a professional Hunter couldn’t afford to be picky.
 
 I opened my mouth wide and took a huge bite.
 
@@ -147,7 +147,7 @@ Just one had raised my stats by a total of ten points. What if I ate two? Three?
 
 Though goblin shit might actually taste better… Still, it was definitely worth trying.
 
-*I can do this. I can do this. Jin Taekyung.*
+*You can do this. You can do this, Jin Taekyung.*
 
 With trembling hands, I picked up a second fasting pill.
 
@@ -169,13 +169,13 @@ As the System notification sounded, I dropped to my knees.
 
 * * *
 
-I could only resume training after my bloated stomach finally went down. I had three days to stay in the training hall. I needed to grow as strong as possible before leaving.
+I could only resume training after the belly swollen by **Overeating** finally went down. I would be confined in the training hall for three days. I needed to grow as strong as possible before I left.
 
 “Hah!”
 
 With a short shout, the spearhead traced a heavy arc.
 
-*Keep my stance low, my feet heavy, and my spear fast.*
+*Keep my stance low, my feet planted, and my spear fast.*
 
 The Jin Family’s Spear Technique was aggressive. It advanced relentlessly, keeping constant pressure on the enemy. Its movements were simple but lethal.
 
@@ -221,13 +221,13 @@ Ding.
 
 I stayed flat on my back and stared at the stalactites hanging from the training hall’s ceiling.
 
-My feet kept getting tangled. I was performing the technique exactly as I had learned it, so why was this happening? Nothing like this had happened when I acquired it.
+My feet kept getting tangled. I was performing the technique exactly as I’d learned it, so why? This hadn’t happened when I was acquiring it.
 
 “What’s the problem?”
 
 Something kept catching and throwing me off. I had to figure out what it was.
 
-I got back up like a roly-poly and performed the Jin Family’s Spear Technique again. This time, I fell after only the third form.
+I sprang back to my feet like a roly-poly toy and performed the Jin Family’s Spear Technique again. This time, I fell during the third form.
 
 > **System**
 >
@@ -251,13 +251,13 @@ No.
 
 *By that logic, I’d be mixing in every movement I’ve learned over the past seven years.*
 
-I had learned spear fighting before, too. It was one of the basics taught at the Hunter training camp. Since it was distributed to F-ranks who couldn’t use mana, we called it shitty spear fighting among ourselves.
+I had learned spear fighting before too. It was one of the basics taught at the Hunter training camp. Since it was designed for F-ranks who couldn’t use mana, we called it shitty spear fighting among ourselves.
 
-Compared with that, the Jin Family’s Spear Technique was good enough for intermediate Hunters.
+Compared with that, the Jin Family’s Spear Technique was good enough for an intermediate Hunter.
 
 “Should I give it a try?”
 
-No matter how hard I racked my brain, all I’d get was a bald spot. The only way to understand a technique was to try it with my whole body.
+No matter how hard I racked my brain, all I’d get was a bald spot. The only way to understand a technique was to try it for myself.
 
 I slowly began performing the Jin Family’s Spear Technique. At the same time, I used the Jin Family’s Manoeuvre Technique with my lower body.
 
@@ -293,7 +293,7 @@ The footwork and spear technique—the two gears meshed perfectly.
 
 An indescribable thrill swept over me as I turned those two gears again and again. Every step I took was fast and precise. Every thrust, slash, and sweep of the spear was fast, precise, and powerful.
 
-My dantian grew hot. My internal energy became a ball of fire and seeped into the spear.
+My dantian burned. My internal energy became a ball of fire and flowed into the spear.
 
 I had to unleash it.
 
@@ -303,7 +303,7 @@ I had to unleash it.
 
 The Sky-Piercing Strike—the final blow of the Jin Family’s Spear Technique, said to pierce the heavens—shot forward.
 
-A deep, muffled boom erupted through the cavern.
+A muffled roar shook the cavern.
 
 Boom!
 
@@ -389,7 +389,7 @@ My body felt strangely good. Come to think of it, I vaguely remembered hearing S
 
 The next moment, unread messages filled my vision. By the time I finished reading them and sorting through my thoughts, more than ten minutes had passed.
 
-I muttered a brief reaction.
+I summed up my reaction in a few words.
 
 “I hit the jackpot.”
 
@@ -399,7 +399,7 @@ And on top of that…
 
 “I went up two Levels?”
 
-I was happy, but also bewildered. I hadn’t seriously expected to Level up in the training hall.
+I was thrilled, but also bewildered. I hadn’t seriously expected to Level up in the training hall.
 
 “Don’t you usually Level up by completing Quests or killing monsters?”
 
@@ -417,7 +417,7 @@ The Status Window had changed too. Reaching Level 13 had given me twenty remaini
 
 The Quest completion requirements were reaching the first-rate realm, Level 30, and 500 Fame.
 
-I wasn’t progressing quickly, but I was steadily leveling up through training alone. That meant I was cruising along.
+It wasn’t fast, but I was steadily gaining Levels through training alone. I was making good progress.
 
 *Once I get out of the training hall, I can raise the sails and really take off.*
 

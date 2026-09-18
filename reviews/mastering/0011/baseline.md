@@ -123,7 +123,7 @@ Ding.
 >
 > - You feel full.
 >
-> - Your fatigue has been restored.
+> - Your fatigue has been relieved.
 >
 > - All stats increase by 2 for one hour.
 
