@@ -1,6 +1,6 @@
 # Lei Fei (레이페이)
 
-- **Safe through:** Chapter 388
+- **Safe through:** Chapter 393
 - **Aliases:** None
 - **Role:** One of China's concealed S-rank Hunters and head of the Public Security Armed Forces Department stationed in Sichuan Province, currently missing with his unit after the first Monster Wave.
 - **Personality:** No personality traits are established.

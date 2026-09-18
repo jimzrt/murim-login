@@ -611,3 +611,8 @@ Overrides generic relationship prose in character profiles for this pair.
 | 소대장 | 장 웨이 | Subordinate platoon commander addressing his company commander | Company Commander | Blunt but respectful | A platoon commander addresses Zhang Wei by his command title while affirming the unit's loyalty. |
 | 진태경 | 샤오 쉔 | ally_to_regimental_commander | Shao Shen | urgent-casual | Jin calls him 쉔 and 샤오 쉔 while trying to stop his revenge. |
 | 최 팀장 | 진태경 | professional_ally | Mr. Jin | polite-professional | Team Leader Choi consistently addresses Jin as 진태경 씨. |
+| 파이 첸 | 우헤이싱 | senior S-rank war hero to younger S-rank Hunter and subordinate commander | kid | insulting, patronizing, and confrontational | Faye alternates between taunting Wu's immaturity and issuing a direct warning. |
+| 우헤이싱 | 파이 첸 | younger S-rank Hunter to senior S-rank war hero and hostile commander | Faye Chen | hostile, informal, and confrontational | Wu responds to Faye's criticism with threats and anti-Hong Kong insults. |
+| 진태경 | 샤오 쉔 | senior ally to younger allied commander | Shao Shen | familiar, shifting between polite and casual | Jin initially uses a polite form but switches to familiar speech while checking Shao's condition. |
+| 샤오 쉔 | 진태경 | younger allied commander to respected senior ally | hyung | deferential and familiar | Shao thanks Jin for intervening on his behalf and addresses him as hyung. |
+| 최 팀장 | 진태경 | senior team leader to allied Hunter | Mr. Jin | formal, stiff, and cautionary | Team Leader Choi warns Jin about the political consequences of attacking General Liao. |
