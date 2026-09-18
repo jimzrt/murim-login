@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "The young man recognized the familiar face and the canned drink in his hand, then muttered in a dubious tone.",
+      "defect": "The pronoun makes it ambiguous whose hand holds the drink, while the source places it in the approaching middle-aged man's hand.",
+      "id": "F01",
+      "rationale": "The source explicitly has the young man examine the canned drink being held out to him before he accepts it.",
+      "replacement": "The young man recognized the familiar face and eyed the can in the middle-aged man’s hand, then muttered dubiously.",
+      "severity": "minor",
+      "source": "익숙한 얼굴과 손에 들린 캔 음료를 확인한 청년이 떨떠름한 목소리로 중얼거렸다."
+    },
+    {
+      "confidence": 0.93,
+      "current": "The four thousand Hunters who had come here with Minister of National Defense Wei Fenghu had been divided according to their units and sent to search the small cities.",
+      "defect": "The draft changes the search area from one small city to multiple small cities.",
+      "id": "F02",
+      "rationale": "The source uses 소도시 as the single city being searched at the current battlefield.",
+      "replacement": "The four thousand Hunters who had come here with Minister of National Defense Wei Fenghu had been divided according to their units and sent to search the small city.",
+      "severity": "critical",
+      "source": "국방부장 웨이펑후를 따라 이곳에 온 4천 명의 헌터들은 편제에 따라 나뉘어 소도시를 수색했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Yes, that person. That person was there too.”",
+      "defect": "The repeated wording erases the speaker's deliberate self-correction from an ordinary reference to a reverential one, and “was there” weakens the enumeration of living survivors into mere battlefield presence.",
+      "id": "F03",
+      "rationale": "The correction from 그 사람 to 그분 marks the middle-aged man's awe, while 계시지 refers to Jin being among the three survivors under discussion.",
+      "replacement": "“Yes, that man. No—that person survived too.”",
+      "severity": "major",
+      "source": "「그래, 그 사람. 아니, 그분도 계시지.」"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The middle-aged man could not get the words out, as if his speech had frozen.",
+      "defect": "The draft replaces the source's explicit modern buffering joke with a generic description.",
+      "id": "F04",
+      "rationale": "버퍼링이라도 걸린 사람처럼 specifically compares his broken speech to a person buffering, sustaining the scene's technological comedy.",
+      "replacement": "The middle-aged man stuttered like he’d started buffering.",
+      "severity": "minor",
+      "source": "중년인은 버퍼링이라도 걸린 사람처럼 말을 잇지 못했다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "That was when a voice came from behind him.",
+      "defect": "The draft adds an unsupported location for the voice and omits the middle-aged man's head shake and the fact that he has just risen.",
+      "id": "F05",
+      "rationale": "The source preserves his dismissive head shake and physical movement but does not state that Jin's voice comes from behind him.",
+      "replacement": "The middle-aged man shook his head and rose from his seat. At that moment, a voice spoke up.",
+      "severity": "minor",
+      "source": "절레절레 고개를 저은 중년인이 자리에서 일어난 그 순간이었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“You there, young man—stop hiccupping if you don’t want to become a good Chinese person. And you, sir, stop shaking. Unless you’re planning to bring down the Arch Lich with a great earthquake.”",
+      "defect": "“Stop shaking” replaces Jin's direct command to stop the “earthquake,” weakening the joke prompted by the man's repeated Ji-Ji-Jin stutter.",
+      "id": "F06",
+      "rationale": "The source repeats 지진 and 대지진, making the earthquake image itself the punchline rather than merely describing the man's trembling.",
+      "replacement": "“You there, young man—stop hiccupping if you don’t want to become a good Chinese person. And you, sir, stop the earthquake—unless you’re planning to use a great one to bring down the Arch Lich.”",
+      "severity": "minor",
+      "source": "“거기 젊은 분은 착한 중국인 되기 싫으면 딸꾹질 멈추시고. 아저씨는 지진을 멈춰 주세요. 대지진으로 아크 리치 쓰러트릴 생각 아니시면.”"
+    },
+    {
+      "confidence": 0.95,
+      "current": "“Yes, sir!”\n\nThe young man answered like he was screaming and hurried over. A mana-infused blow drew a genuine scream from him.",
+      "defect": "The generic “blow” omits the specific joint-targeting strike expressed by the colloquial 조인트.",
+      "id": "F07",
+      "rationale": "조인트 in this context is a colloquial shin kick, so the source specifies both the physical action and the target rather than an unspecified hit.",
+      "replacement": "“Y-Yes, sir!”\n\nThe young man answered with a shriek and darted over, only to let out a real scream when a mana-infused kick struck his shin.",
+      "severity": "major",
+      "source": "「예, 옛!」\n\n비명처럼 대답한 청년은 잽싸게 달려갔고, 마나가 실린 조인트에 진짜 비명을 내질렀다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "At long last, it was time to defeat the culprit behind all of this.",
+      "defect": "“Defeat” weakens the intended final disposition of the culprit from eliminating or dispatching it to merely overcoming it.",
+      "id": "F08",
+      "rationale": "처치해야 indicates that the source of the catastrophe must be disposed of, matching Jin's declaration that they are going to end the war.",
+      "replacement": "At long last, it was time to eliminate the culprit behind all of this.",
+      "severity": "critical",
+      "source": "바야흐로, 이 모든 일의 원흉을 처치해야 할 때였다."
+    }
+  ],
+  "summary": "Several localized fidelity issues alter location scope, hierarchy, physical action, humor, and the final intended consequence.",
+  "version": 1
+}
