@@ -1,0 +1,2691 @@
+{
+  "baseline_blocks": 228,
+  "baseline_sha256": "daadcedc5cf2b6522810a60defe64ba3ab8602baeff5a9bfee82d55363cb5a3c",
+  "global_terminology_alerts": [
+    {
+      "korean": "비급",
+      "preferred": "martial arts manual"
+    }
+  ],
+  "hunk_count": 146,
+  "hunks": [
+    {
+      "baseline": "## The Fire Gate Clan’s Sacred Treasure",
+      "baseline_paragraphs": "P2",
+      "baseline_range": [
+        1,
+        2
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "5",
+      "sol": "The Fire Gate Clan’s sacred treasure.",
+      "sol_paragraphs": "P2",
+      "sol_range": [
+        1,
+        2
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The moment that unfamiliar phrase sprang from the Fire King’s mouth, the Roaring Fury Swordsman’s eyes bulged as though they were about to tear apart.",
+      "baseline_paragraphs": "P3",
+      "baseline_range": [
+        2,
+        3
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "7",
+      "sol": "The moment that unfamiliar phrase left the Fire King’s mouth, the Roaring Fury Swordsman’s eyes widened as though they might split apart.",
+      "sol_paragraphs": "P3",
+      "sol_range": [
+        2,
+        3
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You haven’t even turned seventy, and your ears are already clogged? I’ll say it one more time, so listen carefully.”",
+      "baseline_paragraphs": "P5",
+      "baseline_range": [
+        4,
+        5
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "11",
+      "sol": "“You’re not even seventy, and your ears are already clogged? I’ll say it one more time, so listen carefully.”",
+      "sol_paragraphs": "P5",
+      "sol_range": [
+        4,
+        5
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jeok Cheongang jerked his chin toward me with an irritated expression.",
+      "baseline_paragraphs": "P6",
+      "baseline_range": [
+        5,
+        6
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "13",
+      "sol": "Jeok Cheongang jerked his chin toward me, looking irritated.",
+      "sol_paragraphs": "P6",
+      "sol_range": [
+        5,
+        6
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“This old man entrusted our sect’s sacred treasure to that brat. Got it?”",
+      "baseline_paragraphs": "P7",
+      "baseline_range": [
+        6,
+        7
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "15",
+      "sol": "“This old man entrusted our sect’s sacred treasure to that brat. Do you understand?”",
+      "sol_paragraphs": "P7",
+      "sol_range": [
+        6,
+        7
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "*What do you mean, got it?*",
+      "baseline_paragraphs": "P10",
+      "baseline_range": [
+        9,
+        10
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "21",
+      "sol": "*What do you mean, do I understand?*",
+      "sol_paragraphs": "P10",
+      "sol_range": [
+        9,
+        10
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "I looked around with a bewildered expression. Everyone, including Jin Wikyung and Baek Museong, was staring back and forth between Jeok Cheongang and me in shock.",
+      "baseline_paragraphs": "P11",
+      "baseline_range": [
+        10,
+        11
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "23",
+      "sol": "I looked around in bewilderment. Everyone, including Jin Wikyung and Baek Museong, was staring back and forth between Jeok Cheongang and me in shock.",
+      "sol_paragraphs": "P11",
+      "sol_range": [
+        10,
+        11
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Amid this chaotic mess, one person alone remained unaffected.",
+      "baseline_paragraphs": "P12",
+      "baseline_range": [
+        11,
+        12
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "25",
+      "sol": "Amid all this chaos, the only person unaffected spoke up.",
+      "sol_paragraphs": "P12",
+      "sol_range": [
+        11,
+        12
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Benefactor, what’s the Fire Gate Clan’s sacred treasure? Show me, too.”",
+      "baseline_paragraphs": "P13",
+      "baseline_range": [
+        12,
+        13
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "27",
+      "sol": "“Benefactor, what’s the Fire Gate Clan’s sacred treasure? Show me too.”",
+      "sol_paragraphs": "P13",
+      "sol_range": [
+        12,
+        13
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Fire Gate Clan’s sacred treasure? What was he talking about?",
+      "baseline_paragraphs": "P16",
+      "baseline_range": [
+        15,
+        16
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "33",
+      "sol": "The Fire Gate Clan’s sacred treasure? What the hell was that?",
+      "sol_paragraphs": "P16",
+      "sol_range": [
+        15,
+        16
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I swore I had never heard or seen such an item.",
+      "baseline_paragraphs": "P17",
+      "baseline_range": [
+        16,
+        17
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "35",
+      "sol": "I swore I had never heard of or seen any such thing.",
+      "sol_paragraphs": "P17",
+      "sol_range": [
+        16,
+        17
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The only things I had received from Jeok Cheongang were the martial arts manual for the Flame Divine Palm and a sword…",
+      "baseline_paragraphs": "P18",
+      "baseline_range": [
+        17,
+        18
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "37",
+      "sol": "The only things I had received from Jeok Cheongang were the Flame Divine Palm manual and a sword…",
+      "sol_paragraphs": "P18",
+      "sol_range": [
+        17,
+        18
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "무공",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "martial arts"
+        },
+        {
+          "korean": "비급",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "martial arts manual"
+        }
+      ]
+    },
+    {
+      "baseline": "At my doubtful gaze, Jeok Cheongang clicked his tongue.",
+      "baseline_paragraphs": "P21",
+      "baseline_range": [
+        20,
+        21
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "43",
+      "sol": "Jeok Cheongang clicked his tongue at my questioning look.",
+      "sol_paragraphs": "P21",
+      "sol_range": [
+        20,
+        21
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You’ve been carrying it on your back and still didn’t know? What a moron.”",
+      "baseline_paragraphs": "P22",
+      "baseline_range": [
+        21,
+        22
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "45",
+      "sol": "“You’ve been carrying it on your back this whole time and still didn’t know? What a moron.”",
+      "sol_paragraphs": "P22",
+      "sol_range": [
+        21,
+        22
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It felt as though I had just been hit in the back of the head with a hammer.",
+      "baseline_paragraphs": "P23",
+      "baseline_range": [
+        22,
+        23
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "47",
+      "sol": "I felt as if someone had struck me in the back of the head with a hammer.",
+      "sol_paragraphs": "P23",
+      "sol_range": [
+        22,
+        23
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I hurriedly untied the knot holding it firmly in place. When I unwound the layers of cloth, an old, crude scabbard appeared.",
+      "baseline_paragraphs": "P24",
+      "baseline_range": [
+        23,
+        24
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "49",
+      "sol": "I hurriedly untied the knots holding it firmly in place. As I unwound the layers of cloth, an old, crude scabbard emerged.",
+      "sol_paragraphs": "P24",
+      "sol_range": [
+        23,
+        24
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The very item Jopil had stolen from his Master—and which I had taken from him.",
+      "baseline_paragraphs": "P26",
+      "baseline_range": [
+        25,
+        26
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "53",
+      "sol": "The very thing Jopil had stolen from his Master, only for me to take it from him.",
+      "sol_paragraphs": "P26",
+      "sol_range": [
+        25,
+        26
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I gripped the hilt and drew.",
+      "baseline_paragraphs": "P27",
+      "baseline_range": [
+        26,
+        27
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "55",
+      "sol": "I gripped the hilt and pulled.",
+      "sol_paragraphs": "P27",
+      "sol_range": [
+        26,
+        27
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Shing!",
+      "baseline_paragraphs": "P28",
+      "baseline_range": [
+        27,
+        28
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "57",
+      "sol": "*Shing.*",
+      "sol_paragraphs": "P28",
+      "sol_range": [
+        27,
+        28
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "With a sound that made every hair on my body stand on end, the pure-white blade emerged.",
+      "baseline_paragraphs": "P29",
+      "baseline_range": [
+        28,
+        29
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "59",
+      "sol": "With a sound that made every hair on my body stand on end, the pure-white blade slid free.",
+      "sol_paragraphs": "P29",
+      "sol_range": [
+        28,
+        29
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Beneath the darkness, it shone like a holy sword from legend, drawing gasps from the people around us.",
+      "baseline_paragraphs": "P30",
+      "baseline_range": [
+        29,
+        30
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "61",
+      "sol": "It shone in the surrounding darkness like some holy sword from legend, drawing gasps from the crowd.",
+      "sol_paragraphs": "P30",
+      "sol_range": [
+        29,
+        30
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I had never once suspected it.",
+      "baseline_paragraphs": "P32",
+      "baseline_range": [
+        31,
+        32
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "65",
+      "sol": "Until now, I had never once questioned it.",
+      "sol_paragraphs": "P32",
+      "sol_range": [
+        31,
+        32
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Why Jopil had stolen it from Jeok Cheongang. Why it had been given the strange description *Unnamed Sword*, unlike the Flame Divine Palm or the Blazing Flame Divine Pill.",
+      "baseline_paragraphs": "P33",
+      "baseline_range": [
+        32,
+        33
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "67",
+      "sol": "Why Jopil had stolen it from Jeok Cheongang. Why, unlike the Flame Divine Palm or the Blazing Flame Divine Pill, it bore the strange description *Unnamed Sword*.",
+      "sol_paragraphs": "P33",
+      "sol_range": [
+        32,
+        33
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was the Roaring Fury Swordsman. Unlike him, overwhelmed by extreme confusion and excitement, Jeok Cheongang’s expression was perfectly calm.",
+      "baseline_paragraphs": "P36",
+      "baseline_range": [
+        35,
+        36
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "73",
+      "sol": "It was the Roaring Fury Swordsman. Unlike him, overwhelmed by shock and agitation, Jeok Cheongang was perfectly calm.",
+      "sol_paragraphs": "P36",
+      "sol_range": [
+        35,
+        36
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“This old man entrusted the Fire Gate Clan’s sacred treasure to that brat. You may have nothing but shit in your head, but surely you understand what that means.”",
+      "baseline_paragraphs": "P39",
+      "baseline_range": [
+        38,
+        39
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "79",
+      "sol": "“This old man entrusted the Fire Gate Clan’s sacred treasure to that brat. Even with a head full of nothing but shit, surely you understand what that means.”",
+      "sol_paragraphs": "P39",
+      "sol_range": [
+        38,
+        39
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I suddenly came to my senses.",
+      "baseline_paragraphs": "P40",
+      "baseline_range": [
+        39,
+        40
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "81",
+      "sol": "That snapped me back to my senses.",
+      "sol_paragraphs": "P40",
+      "sol_range": [
+        39,
+        40
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I had been so distracted by the sword that I had briefly forgotten what it meant for a sect’s sacred treasure to have been entrusted to someone—especially the sacred treasure of the Fire Gate Clan, which had been passed down through a single lineage for hundreds of years.",
+      "baseline_paragraphs": "P41",
+      "baseline_range": [
+        40,
+        41
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "83",
+      "sol": "I had been so absorbed in the sword that I had momentarily forgotten what it meant for a sect’s sacred treasure to be entrusted to someone—especially the treasure of the Fire Gate Clan, whose lineage had been passed from one person to the next for hundreds of years.",
+      "sol_paragraphs": "P41",
+      "sol_range": [
+        40,
+        41
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“Are you going to take Benefactor as your Disciple?”*",
+      "baseline_paragraphs": "P43",
+      "baseline_range": [
+        42,
+        43
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "91",
+      "sol": "*“Aren’t you trying to take Benefactor as your Disciple?”*",
+      "sol_paragraphs": "P43",
+      "sol_range": [
+        42,
+        43
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "At the time, I had thought it was ridiculous nonsense and laughed it off.",
+      "baseline_paragraphs": "P44",
+      "baseline_range": [
+        43,
+        44
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "93",
+      "sol": "At the time, I had dismissed it as ridiculous nonsense and laughed it off.",
+      "sol_paragraphs": "P44",
+      "sol_range": [
+        43,
+        44
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Fuck. I don’t know either.*",
+      "baseline_paragraphs": "P46",
+      "baseline_range": [
+        45,
+        46
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "97",
+      "sol": "*Fuck. I have no idea.*",
+      "sol_paragraphs": "P46",
+      "sol_range": [
+        45,
+        46
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As I swallowed dryly, the Roaring Fury Swordsman pointed a finger at me.",
+      "baseline_paragraphs": "P47",
+      "baseline_range": [
+        46,
+        47
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "99",
+      "sol": "As I swallowed dryly, the Roaring Fury Swordsman thrust a finger at me.",
+      "sol_paragraphs": "P47",
+      "sol_range": [
+        46,
+        47
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But before he could even speak, Jeok Cheongang’s terrifying gaze bound him in place.",
+      "baseline_paragraphs": "P48",
+      "baseline_range": [
+        47,
+        48
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "101",
+      "sol": "Before he could speak, however, Jeok Cheongang’s terrifying gaze locked him in place.",
+      "sol_paragraphs": "P48",
+      "sol_range": [
+        47,
+        48
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But his opponent was none other than the Fire King.",
+      "baseline_paragraphs": "P51",
+      "baseline_range": [
+        50,
+        51
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "107",
+      "sol": "But the man speaking was none other than the Fire King.",
+      "sol_paragraphs": "P51",
+      "sol_range": [
+        50,
+        51
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Roaring Fury Swordsman no longer had the courage to argue. He chewed on his lips, then suddenly glared at me.",
+      "baseline_paragraphs": "P52",
+      "baseline_range": [
+        51,
+        52
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "109",
+      "sol": "The Roaring Fury Swordsman had no courage left to argue. He chewed on his lip, then suddenly glared at me.",
+      "sol_paragraphs": "P52",
+      "sol_range": [
+        51,
+        52
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jeok Cheongang said nothing. Was he telling me to handle something this minor on my own?",
+      "baseline_paragraphs": "P55",
+      "baseline_range": [
+        54,
+        55
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "115",
+      "sol": "Jeok Cheongang said nothing. Did he expect me to handle this much on my own?",
+      "sol_paragraphs": "P55",
+      "sol_range": [
+        54,
+        55
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*If I were lucky, do you think I would’ve met a piece of shit like you?*",
+      "baseline_paragraphs": "P58",
+      "baseline_range": [
+        57,
+        58
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "121",
+      "sol": "*If I were fucking lucky, would I have met a piece of shit like you?*",
+      "sol_paragraphs": "P58",
+      "sol_range": [
+        57,
+        58
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I didn’t know whether Jeok Cheongang’s arrival in a situation that had been on the verge of exploding counted as great misfortune or great fortune.",
+      "baseline_paragraphs": "P59",
+      "baseline_range": [
+        58,
+        59
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "123",
+      "sol": "The situation had been a hair’s breadth from exploding when Jeok Cheongang appeared, so I wasn’t sure whether to call it great misfortune or great fortune.",
+      "sol_paragraphs": "P59",
+      "sol_range": [
+        58,
+        59
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What, earlier? Oh, you mean when I said you were fucking shitty?”",
+      "baseline_paragraphs": "P62",
+      "baseline_range": [
+        61,
+        62
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "129",
+      "sol": "“What I did earlier? Oh, you mean when I said it was fucking bullshit?”",
+      "sol_paragraphs": "P62",
+      "sol_range": [
+        61,
+        62
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Before the Roaring Fury Swordsman could say anything, I bowed my head.",
+      "baseline_paragraphs": "P63",
+      "baseline_range": [
+        62,
+        63
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "131",
+      "sol": "Before the Roaring Fury Swordsman could respond, I bowed my head.",
+      "sol_paragraphs": "P63",
+      "sol_range": [
+        62,
+        63
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I apologize for that. I have a hard time tolerating injustice. Please forgive a slip of the tongue from a junior far beneath you. Great. Hero.”",
+      "baseline_paragraphs": "P64",
+      "baseline_range": [
+        63,
+        64
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "133",
+      "sol": "“I apologize for that. I’ve never been able to tolerate injustice. Please forgive a slip of the tongue from a junior far beneath you. Great. Hero.”",
+      "sol_paragraphs": "P64",
+      "sol_range": [
+        63,
+        64
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“……!”",
+      "baseline_paragraphs": "P65",
+      "baseline_range": [
+        64,
+        65
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "135",
+      "sol": "“…!”",
+      "sol_paragraphs": "P65",
+      "sol_range": [
+        64,
+        65
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Roaring Fury Swordsman’s body trembled. Blood dripped from his tightly clenched fists.",
+      "baseline_paragraphs": "P66",
+      "baseline_range": [
+        65,
+        66
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "137",
+      "sol": "The Roaring Fury Swordsman trembled. Blood dripped from his tightly clenched fists.",
+      "sol_paragraphs": "P66",
+      "sol_range": [
+        65,
+        66
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Looking at him, I saw myself from a few minutes earlier. The difference between us was that I had not bowed to the Roaring Fury Swordsman, while he had submitted to the Fire King.",
+      "baseline_paragraphs": "P67",
+      "baseline_range": [
+        66,
+        67
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "139",
+      "sol": "Looking at him, I saw myself from only a few minutes earlier. The difference between us was that I had refused to submit to the Roaring Fury Swordsman, while he had submitted to the Fire King.",
+      "sol_paragraphs": "P67",
+      "sol_range": [
+        66,
+        67
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Those who rely on power kneel before greater power. Realizing that fundamental truth of the world again was satisfying, but not entirely.",
+      "baseline_paragraphs": "P68",
+      "baseline_range": [
+        67,
+        68
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "141",
+      "sol": "Those who wielded power knelt before even greater power. Being reminded of that fundamental truth of the world wasn’t entirely satisfying.",
+      "sol_paragraphs": "P68",
+      "sol_range": [
+        67,
+        68
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No, it was even bitter.",
+      "baseline_paragraphs": "P69",
+      "baseline_range": [
+        68,
+        69
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "143",
+      "sol": "If anything, it left me bitter.",
+      "sol_paragraphs": "P69",
+      "sol_range": [
+        68,
+        69
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If Jeok Cheongang had not been here, the humiliation and fury that man felt would have belonged to me and the Jin Family of Taiyuan.",
+      "baseline_paragraphs": "P71",
+      "baseline_range": [
+        70,
+        71
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "147",
+      "sol": "If Jeok Cheongang hadn’t been here, the humiliation and fury that man now felt would have belonged to me and the Jin Family of Taiyuan.",
+      "sol_paragraphs": "P71",
+      "sol_range": [
+        70,
+        71
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If only a few people here stepped forward, defeating the Roaring Fury Swordsman himself would not be difficult. But behind him stood the Zhongnan Sect.",
+      "baseline_paragraphs": "P72",
+      "baseline_range": [
+        71,
+        72
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "149",
+      "sol": "If a few of the people here joined forces, defeating the Roaring Fury Swordsman himself wouldn’t be difficult. But the Zhongnan Sect stood behind him.",
+      "sol_paragraphs": "P72",
+      "sol_range": [
+        71,
+        72
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I hated admitting it, but the gap between them and us was vast. For now, it was a distance that could never be closed.",
+      "baseline_paragraphs": "P73",
+      "baseline_range": [
+        72,
+        73
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "151",
+      "sol": "I hated admitting it, but the gap between us and them was vast. For now, it was a gap we could never bridge.",
+      "sol_paragraphs": "P73",
+      "sol_range": [
+        72,
+        73
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Maybe one day the Jin Family of Taiyuan would stand shoulder to shoulder with the Nine Sects and One Gang and the Five Great Families.",
+      "baseline_paragraphs": "P76",
+      "baseline_range": [
+        75,
+        76
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "157",
+      "sol": "Maybe one day, the Jin Family of Taiyuan would stand shoulder to shoulder with the Nine Sects and One Gang and the Five Great Families.",
+      "sol_paragraphs": "P76",
+      "sol_range": [
+        75,
+        76
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Am I getting ahead of myself?*",
+      "baseline_paragraphs": "P77",
+      "baseline_range": [
+        76,
+        77
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "159",
+      "sol": "*Okay, am I getting a little ahead of myself?*",
+      "sol_paragraphs": "P77",
+      "sol_range": [
+        76,
+        77
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was like a rural township chief running for president.",
+      "baseline_paragraphs": "P78",
+      "baseline_range": [
+        77,
+        78
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "161",
+      "sol": "It was like the head of some rural township running for President.",
+      "sol_paragraphs": "P78",
+      "sol_range": [
+        77,
+        78
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I snorted quietly at the thought, and the Roaring Fury Swordsman ground his teeth.",
+      "baseline_paragraphs": "P79",
+      "baseline_range": [
+        78,
+        79
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "163",
+      "sol": "I let out a quiet laugh at the thought, and the Roaring Fury Swordsman ground his teeth.",
+      "sol_paragraphs": "P79",
+      "sol_range": [
+        78,
+        79
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I was born with a smiley expression.”",
+      "baseline_paragraphs": "P81",
+      "baseline_range": [
+        80,
+        81
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "167",
+      "sol": "“My face just naturally looks like it’s smiling.”",
+      "sol_paragraphs": "P81",
+      "sol_range": [
+        80,
+        81
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the moment his furious shout erupted, Jeok Cheongang’s right foot shot out like lightning and kicked the Roaring Fury Swordsman in the shin.",
+      "baseline_paragraphs": "P83",
+      "baseline_range": [
+        82,
+        83
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "171",
+      "sol": "The instant his furious shout rang out, Jeok Cheongang’s right foot shot forward like lightning and slammed into the Roaring Fury Swordsman’s shin.",
+      "sol_paragraphs": "P83",
+      "sol_range": [
+        82,
+        83
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A Supreme Peak master’s joint kick.",
+      "baseline_paragraphs": "P84",
+      "baseline_range": [
+        83,
+        84
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "173",
+      "sol": "A shin kick from a Supreme Peak master.",
+      "sol_paragraphs": "P84",
+      "sol_range": [
+        83,
+        84
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Thud!",
+      "baseline_paragraphs": "P85",
+      "baseline_range": [
+        84,
+        85
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "175",
+      "sol": "*Thud!*",
+      "sol_paragraphs": "P85",
+      "sol_range": [
+        84,
+        85
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You shut up. Where does a young bastard like you raise his voice in front of an elder?”",
+      "baseline_paragraphs": "P87",
+      "baseline_range": [
+        86,
+        87
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "179",
+      "sol": "“You shut up. How dare a young bastard like you raise his voice in front of an elder?”",
+      "sol_paragraphs": "P87",
+      "sol_range": [
+        86,
+        87
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Look at this bastard. I tried to end things nicely, and now you’re begging for a beating?”",
+      "baseline_paragraphs": "P89",
+      "baseline_range": [
+        88,
+        89
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "183",
+      "sol": "“Look at this bastard. I tried to end things nicely, and now you’re asking for a beating?”",
+      "sol_paragraphs": "P89",
+      "sol_range": [
+        88,
+        89
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Wham!",
+      "baseline_paragraphs": "P90",
+      "baseline_range": [
+        89,
+        90
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "185",
+      "sol": "*Wham!*",
+      "sol_paragraphs": "P90",
+      "sol_range": [
+        89,
+        90
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Wow. That one landed.*",
+      "baseline_paragraphs": "P92",
+      "baseline_range": [
+        91,
+        92
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "189",
+      "sol": "*Wow. That one really landed.*",
+      "sol_paragraphs": "P92",
+      "sol_range": [
+        91,
+        92
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "With a heavier impact than before, the Roaring Fury Swordsman clutched his shin and collapsed.",
+      "baseline_paragraphs": "P93",
+      "baseline_range": [
+        92,
+        93
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "191",
+      "sol": "With an even duller impact than before, the Roaring Fury Swordsman clutched his shin and collapsed.",
+      "sol_paragraphs": "P93",
+      "sol_range": [
+        92,
+        93
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He was over sixty and held a high position in society, but his opponent was simply on another level.",
+      "baseline_paragraphs": "P95",
+      "baseline_range": [
+        94,
+        95
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "195",
+      "sol": "The man was over sixty and held a lofty position, but his opponent was simply beyond comparison.",
+      "sol_paragraphs": "P95",
+      "sol_range": [
+        94,
+        95
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Age, martial arts, status. There was no way to catch up to the Fire King, Jeok Cheongang, in any of them.",
+      "baseline_paragraphs": "P96",
+      "baseline_range": [
+        95,
+        96
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "197",
+      "sol": "Age, martial arts, status—there was no catching up to the Fire King, Jeok Cheongang, in any of them.",
+      "sol_paragraphs": "P96",
+      "sol_range": [
+        95,
+        96
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Roaring Fury Swordsman glared at me with a resentful gaze as he rose, his body covered in dirt. Then a cold voice followed.",
+      "baseline_paragraphs": "P99",
+      "baseline_range": [
+        98,
+        99
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "203",
+      "sol": "The Roaring Fury Swordsman glared resentfully at me as he rose, his body covered in dirt. Then Jeok Cheongang’s cold voice followed.",
+      "sol_paragraphs": "P99",
+      "sol_range": [
+        98,
+        99
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Also, I will let today’s events pass, so never speak of this matter again. Do you understand?”",
+      "baseline_paragraphs": "P100",
+      "baseline_range": [
+        99,
+        100
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "205",
+      "sol": "“And I will let today’s events pass, so you will never speak of this matter again. Do you understand?”",
+      "sol_paragraphs": "P100",
+      "sol_range": [
+        99,
+        100
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I had acted on impulse, but I had been worried on some level. If the Roaring Fury Swordsman later used the Zhongnan Sect to retaliate, the Jin Family of Taiyuan would have no way to stop him.",
+      "baseline_paragraphs": "P102",
+      "baseline_range": [
+        101,
+        102
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "209",
+      "sol": "I had acted on impulse, but the truth was, I had been worried. If the Roaring Fury Swordsman later used the Zhongnan Sect to retaliate, the Jin Family of Taiyuan would have no way to stop him.",
+      "sol_paragraphs": "P102",
+      "sol_range": [
+        101,
+        102
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But with Jeok Cheongang mediating, things were different.",
+      "baseline_paragraphs": "P103",
+      "baseline_range": [
+        102,
+        103
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "211",
+      "sol": "But with Jeok Cheongang mediating, that changed everything.",
+      "sol_paragraphs": "P103",
+      "sol_range": [
+        102,
+        103
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Whether this is mediation or a threat, I’m not sure.*",
+      "baseline_paragraphs": "P104",
+      "baseline_range": [
+        103,
+        104
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "213",
+      "sol": "*Though I’m not sure whether to call this mediation or a threat.*",
+      "sol_paragraphs": "P104",
+      "sol_range": [
+        103,
+        104
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The resentment over today’s events would remain, but at least he would not be able to bring official pressure against us.",
+      "baseline_paragraphs": "P105",
+      "baseline_range": [
+        104,
+        105
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "215",
+      "sol": "Resentment over what had happened today would remain, but at least he wouldn’t be able to bring official pressure against us.",
+      "sol_paragraphs": "P105",
+      "sol_range": [
+        104,
+        105
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even if he did, having the Fire King as a sturdy shield made the burden far lighter.",
+      "baseline_paragraphs": "P106",
+      "baseline_range": [
+        105,
+        106
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "217",
+      "sol": "Even if he did, having the Fire King as a sturdy shield took a great deal of the pressure off.",
+      "sol_paragraphs": "P106",
+      "sol_range": [
+        105,
+        106
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Roaring Fury Swordsman’s face twisted hideously, his cheap ploy having been seen through. Jeok Cheongang, of course, did not care.",
+      "baseline_paragraphs": "P108",
+      "baseline_range": [
+        107,
+        108
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "221",
+      "sol": "The Roaring Fury Swordsman’s face twisted horribly now that his little scheme had been seen through. Jeok Cheongang, of course, couldn’t have cared less.",
+      "sol_paragraphs": "P108",
+      "sol_range": [
+        107,
+        108
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Only then did a satisfied smile appear at the corners of Jeok Cheongang’s mouth. He laughed heartily and patted the Roaring Fury Swordsman on the shoulder.",
+      "baseline_paragraphs": "P113",
+      "baseline_range": [
+        112,
+        113
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "231",
+      "sol": "Only then did a satisfied smile appear on Jeok Cheongang’s lips. He chuckled and patted the Roaring Fury Swordsman on the shoulder.",
+      "sol_paragraphs": "P113",
+      "sol_range": [
+        112,
+        113
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Where did a young bastard like you learn to grind your teeth like that? Should I just yank every last one of them out?”",
+      "baseline_paragraphs": "P114",
+      "baseline_range": [
+        113,
+        114
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "233",
+      "sol": "“Where did a young bastard like you learn to grind his teeth like that? Maybe I should yank out every last one of them.”",
+      "sol_paragraphs": "P114",
+      "sol_range": [
+        113,
+        114
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Hahahaha! This old man is old, so I can’t do that in front of all these people. Hahahaha!”",
+      "baseline_paragraphs": "P116",
+      "baseline_range": [
+        115,
+        116
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "237",
+      "sol": "“Hohoho! But this old man is getting on in years. I couldn’t possibly do such a thing in front of all these people. Hahahaha!”",
+      "sol_paragraphs": "P116",
+      "sol_range": [
+        115,
+        116
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was the first time I had learned that the laughter of a white-haired old man could be so frightening.",
+      "baseline_paragraphs": "P117",
+      "baseline_range": [
+        116,
+        117
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "239",
+      "sol": "I had never known that the laughter of a snow-white-haired old man could be so terrifying.",
+      "sol_paragraphs": "P117",
+      "sol_range": [
+        116,
+        117
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Everyone listening flinched at once—not only the Roaring Fury Swordsman.",
+      "baseline_paragraphs": "P118",
+      "baseline_range": [
+        117,
+        118
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "241",
+      "sol": "Not only the Roaring Fury Swordsman, but everyone listening flinched at once.",
+      "sol_paragraphs": "P118",
+      "sol_range": [
+        117,
+        118
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jeok Cheongang, who had been laughing like an evil spirit, turned his head toward me.",
+      "baseline_paragraphs": "P119",
+      "baseline_range": [
+        118,
+        119
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "243",
+      "sol": "Jeok Cheongang, who had been laughing like a fiend, turned to me.",
+      "sol_paragraphs": "P119",
+      "sol_range": [
+        118,
+        119
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You’re not blameless, either. No matter the circumstances, how could you hurl such abuse at an elder far above you in age? Are you out of your mind?”",
+      "baseline_paragraphs": "P120",
+      "baseline_range": [
+        119,
+        120
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "245",
+      "sol": "“You’re not blameless either. Whatever the circumstances, how could you hurl such abuse at an elder so far above you in age? Are you out of your mind?”",
+      "sol_paragraphs": "P120",
+      "sol_range": [
+        119,
+        120
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I immediately bowed my head. Regardless of what had happened, facts were facts, and I also thought it was time to bring things to an end with the Roaring Fury Swordsman, an Elder of the Zhongnan Sect.",
+      "baseline_paragraphs": "P121",
+      "baseline_range": [
+        120,
+        121
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "247",
+      "sol": "I immediately bowed my head. Whatever else had happened, that much was true, and I also thought it was time to settle matters with the Roaring Fury Swordsman, an Elder of the Zhongnan Sect.",
+      "sol_paragraphs": "P121",
+      "sol_range": [
+        120,
+        121
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Even if he ate his age through his asshole, he’s over sixty. It wouldn’t be strange for him to have a grandchild your age.”",
+      "baseline_paragraphs": "P123",
+      "baseline_range": [
+        122,
+        123
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "251",
+      "sol": "“Even if he shoved all those years up his ass, he’s over sixty. He’s old enough to have a grandchild your age.”",
+      "sol_paragraphs": "P123",
+      "sol_range": [
+        122,
+        123
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“No matter how much of a bastard he is, he’s still an elder and a great Senior of Murim. It may be dirty and unfair, but from now on, show him the proper respect.”",
+      "baseline_paragraphs": "P125",
+      "baseline_range": [
+        124,
+        125
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "255",
+      "sol": "“No matter how much of a bastard he is, he’s still your elder and a great Senior of Murim. No matter how filthy and unfair it feels, you must show him the proper respect from now on.”",
+      "sol_paragraphs": "P125",
+      "sol_range": [
+        124,
+        125
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Great Hero Song. I sincerely apologize.”",
+      "baseline_paragraphs": "P126",
+      "baseline_range": [
+        125,
+        126
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "257",
+      "sol": "“Great Hero Song, I sincerely apologize.”",
+      "sol_paragraphs": "P126",
+      "sol_range": [
+        125,
+        126
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "When I straightened from my deep bow, I saw the Roaring Fury Swordsman’s face, red with anger.",
+      "baseline_paragraphs": "P127",
+      "baseline_range": [
+        126,
+        127
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "259",
+      "sol": "When I straightened from my deep bow, the Roaring Fury Swordsman’s face was flushed scarlet.",
+      "sol_paragraphs": "P127",
+      "sol_range": [
+        126,
+        127
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even after receiving my apology, he probably didn’t feel as though he had received one.",
+      "baseline_paragraphs": "P128",
+      "baseline_range": [
+        127,
+        128
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "261",
+      "sol": "Even after receiving an apology, he probably didn’t feel as though he had gotten one.",
+      "sol_paragraphs": "P128",
+      "sol_range": [
+        127,
+        128
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Meanwhile, despite apologizing to someone I disliked, I felt refreshed, as though I had just circulated my qi.",
+      "baseline_paragraphs": "P129",
+      "baseline_range": [
+        128,
+        129
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "263",
+      "sol": "Meanwhile, despite apologizing to someone I hated, I felt as refreshed as if I had just finished circulating my qi.",
+      "sol_paragraphs": "P129",
+      "sol_range": [
+        128,
+        129
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Take a look at that verbal skill forged over a hundred years.",
+      "baseline_paragraphs": "P131",
+      "baseline_range": [
+        130,
+        131
+      ],
+      "hunk_id": "H086",
+      "korean_lines": "267",
+      "sol": "Just look at those verbal skills, honed over a hundred years.",
+      "sol_paragraphs": "P131",
+      "sol_range": [
+        130,
+        131
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He wasn’t just a Supreme Peak master in martial arts. At this point, he could change his title from Fire King to Tongue King.",
+      "baseline_paragraphs": "P132",
+      "baseline_range": [
+        131,
+        132
+      ],
+      "hunk_id": "H087",
+      "korean_lines": "269",
+      "sol": "His martial arts weren’t the only thing at Supreme Peak. At this point, he could change his title from Fire King to Tongue King.",
+      "sol_paragraphs": "P132",
+      "sol_range": [
+        131,
+        132
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "고수",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "master"
+        }
+      ]
+    },
+    {
+      "baseline": "After completing every step of the settlement under his supervision, the Tongue King announced in a solemn voice,",
+      "baseline_paragraphs": "P133",
+      "baseline_range": [
+        132,
+        133
+      ],
+      "hunk_id": "H088",
+      "korean_lines": "271",
+      "sol": "Having personally overseen the entire settlement, the Tongue King declared in a stern voice,",
+      "sol_paragraphs": "P133",
+      "sol_range": [
+        132,
+        133
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He was treating them like beggars now.",
+      "baseline_paragraphs": "P135",
+      "baseline_range": [
+        134,
+        135
+      ],
+      "hunk_id": "H089",
+      "korean_lines": "275",
+      "sol": "Now he was openly treating them like beggars.",
+      "sol_paragraphs": "P135",
+      "sol_range": [
+        134,
+        135
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Roaring Fury Swordsman trembled with humiliation, then finally opened his mouth after a long while.",
+      "baseline_paragraphs": "P136",
+      "baseline_range": [
+        135,
+        136
+      ],
+      "hunk_id": "H090",
+      "korean_lines": "277",
+      "sol": "The Roaring Fury Swordsman trembled with humiliation. It was a long while before he finally spoke.",
+      "sol_paragraphs": "P136",
+      "sol_range": [
+        135,
+        136
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As though he had been waiting for those words, the Roaring Fury Swordsman turned sharply around. Gong Ilhyuk and the other two members of the Three Hands of Zhongnan, who had been making all kinds of ugly faces, followed him.",
+      "baseline_paragraphs": "P140",
+      "baseline_range": [
+        139,
+        140
+      ],
+      "hunk_id": "H091",
+      "korean_lines": "285",
+      "sol": "As though he had been waiting for those words, the Roaring Fury Swordsman spun around. Gong Ilhyuk and the other two members of the Three Hands of Zhongnan, their faces twisted into ugly grimaces, followed him.",
+      "sol_paragraphs": "P140",
+      "sol_range": [
+        139,
+        140
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Scorching gazes pursued the backs of the four men. Just before stepping through the main gate, the Roaring Fury Swordsman suddenly turned his head and stared at me.",
+      "baseline_paragraphs": "P141",
+      "baseline_range": [
+        140,
+        141
+      ],
+      "hunk_id": "H092",
+      "korean_lines": "287",
+      "sol": "Scorching gazes pursued the four men’s backs. Just before stepping through the main gate, the Roaring Fury Swordsman suddenly turned and stared at me.",
+      "sol_paragraphs": "P141",
+      "sol_range": [
+        140,
+        141
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A line of Sound Transmission filled with killing intent accompanied his words.",
+      "baseline_paragraphs": "P142",
+      "baseline_range": [
+        141,
+        142
+      ],
+      "hunk_id": "H093",
+      "korean_lines": "289",
+      "sol": "A thread of Sound Transmission filled with killing intent reached my ears.",
+      "sol_paragraphs": "P142",
+      "sol_range": [
+        141,
+        142
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "— I don’t know what connection you have to that old man… but as long as I’m alive, I will definitely punish you and the Jin Family of Taiyuan.",
+      "baseline_paragraphs": "P143",
+      "baseline_range": [
+        142,
+        143
+      ],
+      "hunk_id": "H094",
+      "korean_lines": "291",
+      "sol": "—*I don’t know what connection you have with that old man… but as long as I draw breath, I will punish you and the Jin Family of Taiyuan.*",
+      "sol_paragraphs": "P143",
+      "sol_range": [
+        142,
+        143
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It happened in a moment brief enough to be called an instant.",
+      "baseline_paragraphs": "P144",
+      "baseline_range": [
+        143,
+        144
+      ],
+      "hunk_id": "H095",
+      "korean_lines": "293",
+      "sol": "It all happened in the briefest of instants.",
+      "sol_paragraphs": "P144",
+      "sol_range": [
+        143,
+        144
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As the Fire King watched the Roaring Fury Swordsman’s back disappear into the darkness with an unreadable expression, he tossed out a single remark.",
+      "baseline_paragraphs": "P145",
+      "baseline_range": [
+        144,
+        145
+      ],
+      "hunk_id": "H096",
+      "korean_lines": "297",
+      "sol": "The Fire King watched the Roaring Fury Swordsman’s back melt into the darkness, his expression unreadable. Then he tossed out a single remark.",
+      "sol_paragraphs": "P145",
+      "sol_range": [
+        144,
+        145
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“At my age, do I need to report every time I go relieve myself?”",
+      "baseline_paragraphs": "P148",
+      "baseline_range": [
+        147,
+        148
+      ],
+      "hunk_id": "H097",
+      "korean_lines": "305",
+      "sol": "“At my age, do I need to report every time I go take a piss?”",
+      "sol_paragraphs": "P148",
+      "sol_range": [
+        147,
+        148
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He gruffly disappeared with a bowlegged gait.",
+      "baseline_paragraphs": "P149",
+      "baseline_range": [
+        148,
+        149
+      ],
+      "hunk_id": "H098",
+      "korean_lines": "307",
+      "sol": "With that gruff reply, he disappeared with a bowlegged gait.",
+      "sol_paragraphs": "P149",
+      "sol_range": [
+        148,
+        149
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Once the Roaring Fury Swordsman had moved a good distance away from the Jin Family of Taiyuan, he suddenly drew his sword and swung it.",
+      "baseline_paragraphs": "P151",
+      "baseline_range": [
+        150,
+        151
+      ],
+      "hunk_id": "H099",
+      "korean_lines": "311",
+      "sol": "Once he was a good distance from the Jin Family of Taiyuan, the Roaring Fury Swordsman suddenly drew his sword and swung.",
+      "sol_paragraphs": "P151",
+      "sol_range": [
+        150,
+        151
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Whoosh! Boom!",
+      "baseline_paragraphs": "P152",
+      "baseline_range": [
+        151,
+        152
+      ],
+      "hunk_id": "H100",
+      "korean_lines": "313",
+      "sol": "*Whoooosh! Boom!*",
+      "sol_paragraphs": "P152",
+      "sol_range": [
+        151,
+        152
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Dozens of streams of Sword Energy cut through trees and smashed rocks. After raging for quite some time, he finally turned his fury toward the Three Hands of Zhongnan, including Gong Ilhyuk.",
+      "baseline_paragraphs": "P153",
+      "baseline_range": [
+        152,
+        153
+      ],
+      "hunk_id": "H101",
+      "korean_lines": "315",
+      "sol": "Dozens of streams of Sword Energy sliced through trees and shattered rocks. After venting his fury for quite some time, he finally turned it on the Three Hands of Zhongnan, Gong Ilhyuk included.",
+      "sol_paragraphs": "P153",
+      "sol_range": [
+        152,
+        153
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You bunch of idiots…”",
+      "baseline_paragraphs": "P154",
+      "baseline_range": [
+        153,
+        154
+      ],
+      "hunk_id": "H102",
+      "korean_lines": "317",
+      "sol": "“You damned idiots…”",
+      "sol_paragraphs": "P154",
+      "sol_range": [
+        153,
+        154
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I-I’m sorry. Please forgive your foolish Disciple.”",
+      "baseline_paragraphs": "P157",
+      "baseline_range": [
+        156,
+        157
+      ],
+      "hunk_id": "H103",
+      "korean_lines": "323",
+      "sol": "“I-I’m sorry. Please forgive your foolish Disciples.”",
+      "sol_paragraphs": "P157",
+      "sol_range": [
+        156,
+        157
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Gong Ilhyuk was especially terrified. If he had not incited the Roaring Fury Swordsman to come to the Jin Family of Taiyuan, none of this would have happened.",
+      "baseline_paragraphs": "P159",
+      "baseline_range": [
+        158,
+        159
+      ],
+      "hunk_id": "H104",
+      "korean_lines": "327",
+      "sol": "Gong Ilhyuk was the most terrified of them all. If he hadn’t incited the Roaring Fury Swordsman to come to the Jin Family of Taiyuan, none of this would have happened.",
+      "sol_paragraphs": "P159",
+      "sol_range": [
+        158,
+        159
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“E-Elder, please calm down and listen to me.”",
+      "baseline_paragraphs": "P160",
+      "baseline_range": [
+        159,
+        160
+      ],
+      "hunk_id": "H105",
+      "korean_lines": "329",
+      "sol": "“E-Elder, please calm down and hear me out.”",
+      "sol_paragraphs": "P160",
+      "sol_range": [
+        159,
+        160
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I let things slide a few times because you’re related to my Junior Brother, the Sect Leader, and now it seems you’ve forgotten your place.”",
+      "baseline_paragraphs": "P161",
+      "baseline_range": [
+        160,
+        161
+      ],
+      "hunk_id": "H106",
+      "korean_lines": "331",
+      "sol": "“I turned a blind eye a few times because you’re related by marriage to my Junior Brother, the Sect Leader, and now it seems you’ve forgotten your place.”",
+      "sol_paragraphs": "P161",
+      "sol_range": [
+        160,
+        161
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Crack!",
+      "baseline_paragraphs": "P162",
+      "baseline_range": [
+        161,
+        162
+      ],
+      "hunk_id": "H107",
+      "korean_lines": "333",
+      "sol": "*Clench!*",
+      "sol_paragraphs": "P162",
+      "sol_range": [
+        161,
+        162
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Roaring Fury Swordsman’s emaciated hand clamped around Gong Ilhyuk’s neck.",
+      "baseline_paragraphs": "P163",
+      "baseline_range": [
+        162,
+        163
+      ],
+      "hunk_id": "H108",
+      "korean_lines": "335",
+      "sol": "The Roaring Fury Swordsman’s gaunt hand closed around Gong Ilhyuk’s throat.",
+      "sol_paragraphs": "P163",
+      "sol_range": [
+        162,
+        163
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Do you think my junior brother, the Sect Leader, would bat an eye if this old man punished one of you? You worthless piece of trash.”",
+      "baseline_paragraphs": "P165",
+      "baseline_range": [
+        164,
+        165
+      ],
+      "hunk_id": "H109",
+      "korean_lines": "339",
+      "sol": "“Do you think my Junior Brother, the Sect Leader, would so much as blink if this old man punished the likes of you? You worthless piece of trash.”",
+      "sol_paragraphs": "P165",
+      "sol_range": [
+        164,
+        165
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Gong Ilhyuk’s face went deathly white.",
+      "baseline_paragraphs": "P166",
+      "baseline_range": [
+        165,
+        166
+      ],
+      "hunk_id": "H110",
+      "korean_lines": "341",
+      "sol": "Gong Ilhyuk’s face went deathly pale.",
+      "sol_paragraphs": "P166",
+      "sol_range": [
+        165,
+        166
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Thump. Thump. Thud.",
+      "baseline_paragraphs": "P168",
+      "baseline_range": [
+        167,
+        168
+      ],
+      "hunk_id": "H111",
+      "korean_lines": "345",
+      "sol": "*Thump. Thump. Thud.*",
+      "sol_paragraphs": "P168",
+      "sol_range": [
+        167,
+        168
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His body went limp, his head lolling to one side. The other two members of the Three Hands, who had been frozen with terror, also collapsed helplessly where they stood.",
+      "baseline_paragraphs": "P169",
+      "baseline_range": [
+        168,
+        169
+      ],
+      "hunk_id": "H112",
+      "korean_lines": "347",
+      "sol": "His body went limp, his head lolling to one side. The other two members of the Three Hands, who had been frozen with fear, also crumpled helplessly to the ground.",
+      "sol_paragraphs": "P169",
+      "sol_range": [
+        168,
+        169
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Roaring Fury Swordsman, briefly confused, turned his head. He stared intently into the darkness before speaking.",
+      "baseline_paragraphs": "P171",
+      "baseline_range": [
+        170,
+        171
+      ],
+      "hunk_id": "H113",
+      "korean_lines": "351",
+      "sol": "Momentarily confused, the Roaring Fury Swordsman turned his head. He stared into the darkness before speaking.",
+      "sol_paragraphs": "P171",
+      "sol_range": [
+        170,
+        171
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Do you still have business here?”",
+      "baseline_paragraphs": "P172",
+      "baseline_range": [
+        171,
+        172
+      ],
+      "hunk_id": "H114",
+      "korean_lines": "353",
+      "sol": "“Do you still have business with me?”",
+      "sol_paragraphs": "P172",
+      "sol_range": [
+        171,
+        172
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Along with that calm voice, an old man of small stature appeared.",
+      "baseline_paragraphs": "P174",
+      "baseline_range": [
+        173,
+        174
+      ],
+      "hunk_id": "H115",
+      "korean_lines": "357",
+      "sol": "Along with that calm voice, a small old man emerged.",
+      "sol_paragraphs": "P174",
+      "sol_range": [
+        173,
+        174
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Tsk, tsk. It seems I ended up saving those bastards by accident. Perhaps I should have come a little later.”",
+      "baseline_paragraphs": "P177",
+      "baseline_range": [
+        176,
+        177
+      ],
+      "hunk_id": "H116",
+      "korean_lines": "363",
+      "sol": "“Tsk, tsk. Seems I ended up saving those bastards without meaning to. Maybe I should have come a little later.”",
+      "sol_paragraphs": "P177",
+      "sol_range": [
+        176,
+        177
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“It’s been a long time. I didn’t want to send you away just like that.”",
+      "baseline_paragraphs": "P179",
+      "baseline_range": [
+        178,
+        179
+      ],
+      "hunk_id": "H117",
+      "korean_lines": "367",
+      "sol": "“It’s been so long. It seemed a shame to let you go just like that.”",
+      "sol_paragraphs": "P179",
+      "sol_range": [
+        178,
+        179
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Sshh-shh-shh-shh-shk!",
+      "baseline_paragraphs": "P185",
+      "baseline_range": [
+        184,
+        185
+      ],
+      "hunk_id": "H118",
+      "korean_lines": "379",
+      "sol": "*Sh-sh-sh-sh-shk!*",
+      "sol_paragraphs": "P185",
+      "sol_range": [
+        184,
+        185
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A dense net of Sword Energy spread across a three-jang radius, slicing through bone and flesh the instant it touched them.",
+      "baseline_paragraphs": "P186",
+      "baseline_range": [
+        185,
+        186
+      ],
+      "hunk_id": "H119",
+      "korean_lines": "381",
+      "sol": "A dense net of Sword Energy spread across a three-jang radius, ready to slice through flesh and bone the instant anything touched it.",
+      "sol_paragraphs": "P186",
+      "sol_range": [
+        185,
+        186
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But the big fish had already swum upstream.",
+      "baseline_paragraphs": "P187",
+      "baseline_range": [
+        186,
+        187
+      ],
+      "hunk_id": "H120",
+      "korean_lines": "383",
+      "sol": "But the big fish had already swum against the current and escaped the net.",
+      "sol_paragraphs": "P187",
+      "sol_range": [
+        186,
+        187
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I told you earlier. Don’t touch even a single hair on that boy.”",
+      "baseline_paragraphs": "P188",
+      "baseline_range": [
+        187,
+        188
+      ],
+      "hunk_id": "H121",
+      "korean_lines": "385",
+      "sol": "“I told you earlier. Don’t touch so much as a hair on that boy’s head.”",
+      "sol_paragraphs": "P188",
+      "sol_range": [
+        187,
+        188
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Crack!",
+      "baseline_paragraphs": "P189",
+      "baseline_range": [
+        188,
+        189
+      ],
+      "hunk_id": "H122",
+      "korean_lines": "387",
+      "sol": "*Crack!*",
+      "sol_paragraphs": "P189",
+      "sol_range": [
+        188,
+        189
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The hilt fell from the Roaring Fury Swordsman’s grip. His wrist broken, he screamed and drove his knee upward.",
+      "baseline_paragraphs": "P190",
+      "baseline_range": [
+        189,
+        190
+      ],
+      "hunk_id": "H123",
+      "korean_lines": "389",
+      "sol": "The sword hilt dropped from the Roaring Fury Swordsman’s hand. His wrist broken, he screamed and drove his knee upward.",
+      "sol_paragraphs": "P190",
+      "sol_range": [
+        189,
+        190
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“When will you finally become a proper human being?”",
+      "baseline_paragraphs": "P192",
+      "baseline_range": [
+        191,
+        192
+      ],
+      "hunk_id": "H124",
+      "korean_lines": "393",
+      "sol": "“When will you finally learn to act like a human being?”",
+      "sol_paragraphs": "P192",
+      "sol_range": [
+        191,
+        192
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the same time, a palm engulfed in pure-white flames pressed against the Roaring Fury Swordsman’s chest.",
+      "baseline_paragraphs": "P193",
+      "baseline_range": [
+        192,
+        193
+      ],
+      "hunk_id": "H125",
+      "korean_lines": "395",
+      "sol": "At the same instant, a palm shrouded in pure-white flame pressed against the Roaring Fury Swordsman’s chest.",
+      "sol_paragraphs": "P193",
+      "sol_range": [
+        192,
+        193
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Boom!",
+      "baseline_paragraphs": "P194",
+      "baseline_range": [
+        193,
+        194
+      ],
+      "hunk_id": "H126",
+      "korean_lines": "397",
+      "sol": "*Boom!*",
+      "sol_paragraphs": "P194",
+      "sol_range": [
+        193,
+        194
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His Body-Protecting Qi shattered, and his flesh and bones began to cook. Blood burst from his mouth as he fell to his knees, his eyelids trembling.",
+      "baseline_paragraphs": "P197",
+      "baseline_range": [
+        196,
+        197
+      ],
+      "hunk_id": "H127",
+      "korean_lines": "403",
+      "sol": "His Body-Protecting Qi shattered, and his flesh and bones seared. He vomited blood and sank to his knees, his eyelids trembling.",
+      "sol_paragraphs": "P197",
+      "sol_range": [
+        196,
+        197
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The old man’s voice was so cold that it made the title Fire King seem meaningless.",
+      "baseline_paragraphs": "P200",
+      "baseline_range": [
+        199,
+        200
+      ],
+      "hunk_id": "H128",
+      "korean_lines": "409",
+      "sol": "The old man’s voice was so cold that it belied his title of Fire King.",
+      "sol_paragraphs": "P200",
+      "sol_range": [
+        199,
+        200
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Roaring Fury Swordsman barely managed to lift his head—and met a pair of eyes in which blue ghost flames flickered.",
+      "baseline_paragraphs": "P201",
+      "baseline_range": [
+        200,
+        201
+      ],
+      "hunk_id": "H129",
+      "korean_lines": "411",
+      "sol": "The Roaring Fury Swordsman barely managed to lift his head and found himself staring into a pair of eyes where blue ghostly flames flickered.",
+      "sol_paragraphs": "P201",
+      "sol_range": [
+        200,
+        201
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Roaring Fury Swordsman had briefly forgotten just what kind of monster the Fire King, Jeok Cheongang, truly was.",
+      "baseline_paragraphs": "P204",
+      "baseline_range": [
+        203,
+        204
+      ],
+      "hunk_id": "H130",
+      "korean_lines": "417",
+      "sol": "He had briefly forgotten just what kind of monster the Fire King, Jeok Cheongang, truly was.",
+      "sol_paragraphs": "P204",
+      "sol_range": [
+        203,
+        204
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "노호검객",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Roaring Fury Swordsman"
+        }
+      ]
+    },
+    {
+      "baseline": "Jeok Cheongang had been active in Murim for only a single year in his entire life. Yet with a single battle, he had become a legend and carved his mark into Murim history.",
+      "baseline_paragraphs": "P205",
+      "baseline_range": [
+        204,
+        205
+      ],
+      "hunk_id": "H131",
+      "korean_lines": "419",
+      "sol": "Jeok Cheongang had spent only one year of his entire life active in Murim. Yet a single battle had made him a legend and carved his name into Murim history.",
+      "sol_paragraphs": "P205",
+      "sol_range": [
+        204,
+        205
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He was an opponent the Roaring Fury Swordsman could never stand against.",
+      "baseline_paragraphs": "P206",
+      "baseline_range": [
+        205,
+        206
+      ],
+      "hunk_id": "H132",
+      "korean_lines": "421",
+      "sol": "He was an opponent the Roaring Fury Swordsman could never hope to resist.",
+      "sol_paragraphs": "P206",
+      "sol_range": [
+        205,
+        206
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“If killing you would have ended everything, this old man would have done it long ago.”",
+      "baseline_paragraphs": "P209",
+      "baseline_range": [
+        208,
+        209
+      ],
+      "hunk_id": "H133",
+      "korean_lines": "427",
+      "sol": "“If killing you could put an end to everything, this old man would have done it long ago.”",
+      "sol_paragraphs": "P209",
+      "sol_range": [
+        208,
+        209
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Remember one thing.”",
+      "baseline_paragraphs": "P211",
+      "baseline_range": [
+        210,
+        211
+      ],
+      "hunk_id": "H134",
+      "korean_lines": "431",
+      "sol": "“Remember just one thing.”",
+      "sol_paragraphs": "P211",
+      "sol_range": [
+        210,
+        211
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You may kill Jin Taekyung. Even if you wipe out the Jin Family of Taiyuan, I will stand by and watch. But if that happens, I will go to the Zhongnan Sect.”",
+      "baseline_paragraphs": "P213",
+      "baseline_range": [
+        212,
+        213
+      ],
+      "hunk_id": "H135",
+      "korean_lines": "435",
+      "sol": "“You may kill Jin Taekyung. You may even wipe out the Jin Family of Taiyuan, and I will stand by and watch. But if that happens, I will go to the Zhongnan Sect.”",
+      "sol_paragraphs": "P213",
+      "sol_range": [
+        212,
+        213
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“……!”",
+      "baseline_paragraphs": "P214",
+      "baseline_range": [
+        213,
+        214
+      ],
+      "hunk_id": "H136",
+      "korean_lines": "437",
+      "sol": "“…!”",
+      "sol_paragraphs": "P214",
+      "sol_range": [
+        213,
+        214
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I will smash the Zhongnan Sect’s signboard and burn down Mount Zhongnan. If you abandon your main sect and flee, I will chase you to the ends of the earth and kill every last one of you. I will do so until the day my breath stops.”",
+      "baseline_paragraphs": "P215",
+      "baseline_range": [
+        214,
+        215
+      ],
+      "hunk_id": "H137",
+      "korean_lines": "439",
+      "sol": "“I will smash the Zhongnan Sect’s signboard and burn Mount Zhongnan. If you abandon your main sect and flee, I will hunt you down to the ends of the earth and kill every last one of you. Until the day I draw my final breath.”",
+      "sol_paragraphs": "P215",
+      "sol_range": [
+        214,
+        215
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Roaring Fury Swordsman’s entire body trembled beneath the terrifying killing intent.",
+      "baseline_paragraphs": "P216",
+      "baseline_range": [
+        215,
+        216
+      ],
+      "hunk_id": "H138",
+      "korean_lines": "441",
+      "sol": "The Roaring Fury Swordsman’s entire body trembled beneath that terrifying killing intent.",
+      "sol_paragraphs": "P216",
+      "sol_range": [
+        215,
+        216
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Everything Jeok Cheongang was saying was sincere. He was declaring that he would face the Zhongnan Sect alone.",
+      "baseline_paragraphs": "P217",
+      "baseline_range": [
+        216,
+        217
+      ],
+      "hunk_id": "H139",
+      "korean_lines": "443",
+      "sol": "Jeok Cheongang meant every word. He was declaring that he would take on the Zhongnan Sect alone.",
+      "sol_paragraphs": "P217",
+      "sol_range": [
+        216,
+        217
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If such a thing happened, it was impossible to imagine how many sacrifices would be required.",
+      "baseline_paragraphs": "P218",
+      "baseline_range": [
+        217,
+        218
+      ],
+      "hunk_id": "H140",
+      "korean_lines": "445",
+      "sol": "If that ever happened, there was no telling how many lives would be lost.",
+      "sol_paragraphs": "P218",
+      "sol_range": [
+        217,
+        218
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What… what am I supposed to do?”",
+      "baseline_paragraphs": "P219",
+      "baseline_range": [
+        218,
+        219
+      ],
+      "hunk_id": "H141",
+      "korean_lines": "447",
+      "sol": "“W-what am I supposed to do?”",
+      "sol_paragraphs": "P219",
+      "sol_range": [
+        218,
+        219
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The choice is yours. The punishment for it belongs to this old man.”",
+      "baseline_paragraphs": "P220",
+      "baseline_range": [
+        219,
+        220
+      ],
+      "hunk_id": "H142",
+      "korean_lines": "447",
+      "sol": "“The choice is yours. The punishment that follows is mine.”",
+      "sol_paragraphs": "P220",
+      "sol_range": [
+        219,
+        220
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "노부",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "this old man"
+        }
+      ]
+    },
+    {
+      "baseline": "Jeok Cheongang left those words behind and vanished without a trace.",
+      "baseline_paragraphs": "P221",
+      "baseline_range": [
+        220,
+        221
+      ],
+      "hunk_id": "H143",
+      "korean_lines": "447",
+      "sol": "Leaving only those words behind, Jeok Cheongang vanished without a trace.",
+      "sol_paragraphs": "P221",
+      "sol_range": [
+        220,
+        221
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was a long while before the Three Hands of Zhongnan finally woke. They were startled to find the Roaring Fury Swordsman sitting there in a daze.",
+      "baseline_paragraphs": "P222",
+      "baseline_range": [
+        221,
+        222
+      ],
+      "hunk_id": "H144",
+      "korean_lines": "447",
+      "sol": "It was a long while before the Three Hands of Zhongnan finally awoke. They jolted in alarm when they found the Roaring Fury Swordsman sitting there in a daze.",
+      "sol_paragraphs": "P222",
+      "sol_range": [
+        221,
+        222
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Roaring Fury Swordsman opened his mouth only after a very long time.",
+      "baseline_paragraphs": "P226",
+      "baseline_range": [
+        225,
+        226
+      ],
+      "hunk_id": "H145",
+      "korean_lines": "447",
+      "sol": "A very long time passed before the Roaring Fury Swordsman finally spoke.",
+      "sol_paragraphs": "P226",
+      "sol_range": [
+        225,
+        226
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "There was terror and fear in his voice, and the Three Hands of Zhongnan could say nothing.",
+      "baseline_paragraphs": "P228",
+      "baseline_range": [
+        227,
+        228
+      ],
+      "hunk_id": "H146",
+      "korean_lines": "447",
+      "sol": "His voice was steeped in terror, and the Three Hands of Zhongnan could say nothing.",
+      "sol_paragraphs": "P228",
+      "sol_range": [
+        227,
+        228
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 228,
+  "sol_sha256": "5f904a54c5e4a30270bbb1042a1d201a6d2db95641766d4f248e282eec3b5b05",
+  "version": 1
+}

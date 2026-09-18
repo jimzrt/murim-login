@@ -2,7 +2,7 @@
 
 The Fire Gate Clan’s sacred treasure.
 
-The moment that unfamiliar phrase sprang from the Fire King’s mouth, the Roaring Fury Swordsman’s eyes bulged as though they were about to tear apart.
+The moment that unfamiliar phrase left the Fire King’s mouth, the Roaring Fury Swordsman’s eyes widened as though they might split apart.
 
 “W-what do you mean?”
 
@@ -10,13 +10,13 @@ The moment that unfamiliar phrase sprang from the Fire King’s mouth, the Roari
 
 Jeok Cheongang jerked his chin toward me, looking irritated.
 
-“This old man entrusted our sect’s sacred treasure to that brat. Got it?”
+“This old man entrusted our sect’s sacred treasure to that brat. Do you understand?”
 
 “…”
 
 “…”
 
-*What do you mean, got it?*
+*What do you mean, do I understand?*
 
 I looked around in bewilderment. Everyone, including Jin Wikyung and Baek Museong, was staring back and forth between Jeok Cheongang and me in shock.
 
@@ -28,11 +28,11 @@ I couldn’t answer Cheongpung’s question.
 
 *I don’t know either, you little shit.*
 
-The Fire Gate Clan’s sacred treasure? What was he talking about?
+The Fire Gate Clan’s sacred treasure? What the hell was that?
 
-I swore I had never heard or seen such an item.
+I swore I had never heard of or seen any such thing.
 
-The only things I had received from Jeok Cheongang were the martial arts manual for the Flame Divine Palm and a sword…
+The only things I had received from Jeok Cheongang were the Flame Divine Palm manual and a sword…
 
 *Wait.*
 
@@ -44,15 +44,15 @@ Jeok Cheongang clicked his tongue at my questioning look.
 
 I felt as if someone had struck me in the back of the head with a hammer.
 
-I hurriedly untied the knot holding it firmly in place. When I unwound the layers of cloth, an old, crude scabbard appeared.
+I hurriedly untied the knots holding it firmly in place. As I unwound the layers of cloth, an old, crude scabbard emerged.
 
 *The Unnamed Sword.*
 
 The very thing Jopil had stolen from his Master, only for me to take it from him.
 
-I gripped the hilt and drew.
+I gripped the hilt and pulled.
 
-Shing!
+*Shing.*
 
 With a sound that made every hair on my body stand on end, the pure-white blade slid free.
 
@@ -68,7 +68,7 @@ I was staring blankly at the blade when—
 
 “T-this is impossible!”
 
-It was the Roaring Fury Swordsman. Unlike him, overwhelmed by extreme confusion and excitement, Jeok Cheongang’s expression was perfectly calm.
+It was the Roaring Fury Swordsman. Unlike him, overwhelmed by shock and agitation, Jeok Cheongang was perfectly calm.
 
 “What is?”
 
@@ -88,9 +88,9 @@ At the time, I had dismissed it as ridiculous nonsense and laughed it off.
 
 But now…
 
-*Fuck. I don’t know either.*
+*Fuck. I have no idea.*
 
-As I swallowed dryly, the Roaring Fury Swordsman pointed a finger at me.
+As I swallowed dryly, the Roaring Fury Swordsman thrust a finger at me.
 
 Before he could speak, however, Jeok Cheongang’s terrifying gaze locked him in place.
 
@@ -98,7 +98,7 @@ Before he could speak, however, Jeok Cheongang’s terrifying gaze locked him in
 
 That was all.
 
-But his opponent was none other than the Fire King.
+But the man speaking was none other than the Fire King.
 
 The Roaring Fury Swordsman had no courage left to argue. He chewed on his lip, then suddenly glared at me.
 
@@ -132,7 +132,7 @@ The Roaring Fury Swordsman trembled. Blood dripped from his tightly clenched fis
 
 Looking at him, I saw myself from only a few minutes earlier. The difference between us was that I had refused to submit to the Roaring Fury Swordsman, while he had submitted to the Fire King.
 
-Those who rely on power kneel before greater power. Realizing that fundamental truth of the world again was satisfying, but not entirely.
+Those who wielded power knelt before even greater power. Being reminded of that fundamental truth of the world wasn’t entirely satisfying.
 
 If anything, it left me bitter.
 
@@ -164,7 +164,7 @@ I let out a quiet laugh at the thought, and the Roaring Fury Swordsman ground hi
 
 The instant his furious shout rang out, Jeok Cheongang’s right foot shot forward like lightning and slammed into the Roaring Fury Swordsman’s shin.
 
-A Supreme Peak master’s joint kick.
+A shin kick from a Supreme Peak master.
 
 *Thud!*
 
@@ -174,7 +174,7 @@ A Supreme Peak master’s joint kick.
 
 “What do you think you’re doing?”
 
-“Look at this bastard. I tried to end things nicely, and now you’re begging for a beating?”
+“Look at this bastard. I tried to end things nicely, and now you’re asking for a beating?”
 
 *Wham!*
 
@@ -202,7 +202,7 @@ The Roaring Fury Swordsman glared resentfully at me as he rose, his body covered
 
 I had acted on impulse, but the truth was, I had been worried. If the Roaring Fury Swordsman later used the Zhongnan Sect to retaliate, the Jin Family of Taiyuan would have no way to stop him.
 
-But with Jeok Cheongang mediating, things were different.
+But with Jeok Cheongang mediating, that changed everything.
 
 *Though I’m not sure whether to call this mediation or a threat.*
 
@@ -242,7 +242,7 @@ I immediately bowed my head. Whatever else had happened, that much was true, and
 
 “I’m sorry.”
 
-“Even if he ate his age through his asshole, he’s over sixty. It wouldn’t be strange for him to have a grandchild your age.”
+“Even if he shoved all those years up his ass, he’s over sixty. He’s old enough to have a grandchild your age.”
 
 “…Ah. Yes.”
 
@@ -254,15 +254,15 @@ When I straightened from my deep bow, the Roaring Fury Swordsman’s face was fl
 
 Even after receiving an apology, he probably didn’t feel as though he had gotten one.
 
-Meanwhile, despite apologizing to someone I disliked, I felt refreshed, as though I had just circulated my qi.
+Meanwhile, despite apologizing to someone I hated, I felt as refreshed as if I had just finished circulating my qi.
 
 *Is this what comes with age?*
 
-Take a look at that verbal skill forged over a hundred years.
+Just look at those verbal skills, honed over a hundred years.
 
-He wasn’t just a Supreme Peak master in martial arts. At this point, he could change his title from Fire King to Tongue King.
+His martial arts weren’t the only thing at Supreme Peak. At this point, he could change his title from Fire King to Tongue King.
 
-After completing every step of the settlement under his supervision, the Tongue King announced in a solemn voice,
+Having personally overseen the entire settlement, the Tongue King declared in a stern voice,
 
 “All right. Now all the uninvited guests can get the hell out. If you’re hungry, have a bowl of rice before you go.”
 
@@ -278,11 +278,11 @@ The Roaring Fury Swordsman trembled with humiliation. It was a long while before
 
 As though he had been waiting for those words, the Roaring Fury Swordsman spun around. Gong Ilhyuk and the other two members of the Three Hands of Zhongnan, their faces twisted into ugly grimaces, followed him.
 
-Scorching gazes pursued the backs of the four men. Just before stepping through the main gate, the Roaring Fury Swordsman suddenly turned his head and stared at me.
+Scorching gazes pursued the four men’s backs. Just before stepping through the main gate, the Roaring Fury Swordsman suddenly turned and stared at me.
 
 A thread of Sound Transmission filled with killing intent reached my ears.
 
-— I don’t know what connection you have to that old man… but as long as I’m alive, I will definitely punish you and the Jin Family of Taiyuan.
+—*I don’t know what connection you have with that old man… but as long as I draw breath, I will punish you and the Jin Family of Taiyuan.*
 
 It all happened in the briefest of instants.
 
@@ -292,7 +292,7 @@ The Fire King watched the Roaring Fury Swordsman’s back melt into the darkness
 
 “Yes? Where are you going?”
 
-“At my age, do I need to report every time I go relieve myself?”
+“At my age, do I need to report every time I go take a piss?”
 
 With that gruff reply, he disappeared with a bowlegged gait.
 
@@ -338,9 +338,9 @@ His body went limp, his head lolling to one side. The other two members of the T
 
 “W-why did these bastards suddenly…”
 
-The Roaring Fury Swordsman, briefly confused, turned his head. He stared intently into the darkness before speaking.
+Momentarily confused, the Roaring Fury Swordsman turned his head. He stared into the darkness before speaking.
 
-“Do you still have business here?”
+“Do you still have business with me?”
 
 “Why else would I have come looking for you?”
 
@@ -368,7 +368,7 @@ At the same time, Sword Energy erupted from the Roaring Fury Swordsman’s waist
 
 *Sh-sh-sh-sh-shk!*
 
-A dense net of Sword Energy spread across a three-jang radius, slicing through bone and flesh the instant it touched them.
+A dense net of Sword Energy spread across a three-jang radius, ready to slice through flesh and bone the instant anything touched it.
 
 But the big fish had already swum against the current and escaped the net.
 
@@ -380,7 +380,7 @@ The sword hilt dropped from the Roaring Fury Swordsman’s hand. His wrist broke
 
 “Gyaaah! You fucking old bastard!”
 
-“When will you finally become a proper human being?”
+“When will you finally learn to act like a human being?”
 
 At the same instant, a palm shrouded in pure-white flame pressed against the Roaring Fury Swordsman’s chest.
 
@@ -390,13 +390,13 @@ At the same instant, a palm shrouded in pure-white flame pressed against the Roa
 
 An unavoidable palm strike.
 
-His Body-Protecting Qi shattered, and his flesh and bones began to cook. Blood burst from his mouth as he fell to his knees, his eyelids trembling.
+His Body-Protecting Qi shattered, and his flesh and bones seared. He vomited blood and sank to his knees, his eyelids trembling.
 
 “Cough… F-Flame Divine Palm…”
 
 “Raise your head and look at me.”
 
-The old man’s voice was so cold that it made the title Fire King seem meaningless.
+The old man’s voice was so cold that it belied his title of Fire King.
 
 The Roaring Fury Swordsman barely managed to lift his head and found himself staring into a pair of eyes where blue ghostly flames flickered.
 
@@ -404,9 +404,9 @@ The Roaring Fury Swordsman barely managed to lift his head and found himself sta
 
 “That’s right. This old man is the Fire King.”
 
-The Roaring Fury Swordsman had briefly forgotten just what kind of monster the Fire King, Jeok Cheongang, truly was.
+He had briefly forgotten just what kind of monster the Fire King, Jeok Cheongang, truly was.
 
-Jeok Cheongang had been active in Murim for only a single year in his entire life. Yet with a single battle, he had become a legend and carved his mark into Murim history.
+Jeok Cheongang had spent only one year of his entire life active in Murim. Yet a single battle had made him a legend and carved his name into Murim history.
 
 He was an opponent the Roaring Fury Swordsman could never hope to resist.
 
@@ -426,17 +426,17 @@ The Fire King slowly parted his lips.
 
 “…!”
 
-“I will smash the Zhongnan Sect’s signboard and burn down Mount Zhongnan. If you abandon your main sect and flee, I will chase you to the ends of the earth and kill every last one of you. I will do so until the day my breath stops.”
+“I will smash the Zhongnan Sect’s signboard and burn Mount Zhongnan. If you abandon your main sect and flee, I will hunt you down to the ends of the earth and kill every last one of you. Until the day I draw my final breath.”
 
 The Roaring Fury Swordsman’s entire body trembled beneath that terrifying killing intent.
 
 Jeok Cheongang meant every word. He was declaring that he would take on the Zhongnan Sect alone.
 
-If such a thing happened, it was impossible to imagine how many sacrifices would be required.
+If that ever happened, there was no telling how many lives would be lost.
 
-“What… what am I supposed to do?”
+“W-what am I supposed to do?”
 
-“The choice is yours. The punishment for it belongs to this old man.”
+“The choice is yours. The punishment that follows is mine.”
 
 Leaving only those words behind, Jeok Cheongang vanished without a trace.
 
