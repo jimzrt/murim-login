@@ -7,6 +7,25 @@ from tools import names
 
 
 class NamesLedgerTest(unittest.TestCase):
+    def test_unique_korean_for_english_uses_profile_headings(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            (root / "characters").mkdir()
+            (root / "characters" / "Hyuk Mujin.md").write_text(
+                "# Hyuk Mujin (혁무진)\n", encoding="utf-8"
+            )
+            (root / "characters" / "Jin Taekyung.md").write_text(
+                "# Jin Taekyung (진태경)\n", encoding="utf-8"
+            )
+            with patch.object(names, "ROOT", root):
+                self.assertEqual(names.unique_korean_for_english("Hyuk Mujin"), "혁무진")
+                self.assertEqual(names.unique_korean_for_english("Jin Taekyung"), "진태경")
+                self.assertIsNone(names.unique_korean_for_english("Captain"))
+                self.assertEqual(
+                    names.unique_korean_for_english("Hero", extra=[("주인공", "Hero")]),
+                    "주인공",
+                )
+
     def test_slash_separated_english_cells_are_alternatives(self):
         self.assertEqual(names.preferred_english_terms("**aura** / **momentum**"), ["aura", "momentum"])
         self.assertEqual(names.preferred_english_terms("**Heavenly Axe**"), ["Heavenly Axe"])

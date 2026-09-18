@@ -123,6 +123,31 @@ def _load_profiles(index: dict[str, dict]) -> None:
                 _add(index, match.group(2), match.group(1).strip())
 
 
+def unique_korean_for_english(english: str, extra: list[tuple[str, str]] | None = None) -> str | None:
+    """Return a unique Hangul name for an English person label, or None."""
+    needle = strip_english(english).casefold()
+    if not needle:
+        return None
+    found: list[str] = []
+    for korean, label in extra or []:
+        if strip_english(label).casefold() == needle and KOREAN.fullmatch(korean.strip()):
+            found.append(korean.strip())
+    directory = ROOT / "characters"
+    if directory.is_dir():
+        for path in directory.glob("*.md"):
+            body = path.read_text(encoding="utf-8")
+            heading = next((HEADING.match(line) for line in body.splitlines() if HEADING.match(line)), None)
+            if heading is None:
+                continue
+            labels = {heading.group(1).strip().casefold(), path.stem.casefold()}
+            if needle in labels:
+                found.append(heading.group(2))
+    unique = list(dict.fromkeys(found))
+    if len(unique) == 1:
+        return unique[0]
+    return None
+
+
 def load_names_ledger() -> list[dict]:
     index: dict[str, dict] = {}
     _load_table(ROOT / "compendium.md", index, overwrite=False)

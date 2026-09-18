@@ -8,6 +8,10 @@ import re
 
 SEVERITIES = {"critical", "major", "minor"}
 DISPOSITIONS = {"applied", "rejected", "unresolved"}
+ADDRESS_ENDPOINT = re.compile(
+    r"(?=.*[가-힣])[가-힣0-9](?:[가-힣0-9]| [가-힣0-9])+"
+)
+PAREN_HANGUL = re.compile(r"\(([가-힣0-9](?:[가-힣0-9]| [가-힣0-9])+)\)")
 
 
 def _strip_json_fence(text: str) -> str:
@@ -161,6 +165,23 @@ def _nonempty_strings(value: object, label: str, *, allow_empty: bool = True) ->
     return [item.strip() for item in value]
 
 
+def _coerce_address_endpoint(value: str, extra: list[tuple[str, str]]) -> str:
+    text = value.strip()
+    if ADDRESS_ENDPOINT.fullmatch(text):
+        return text
+    parenthetical = PAREN_HANGUL.search(text)
+    if parenthetical and ADDRESS_ENDPOINT.fullmatch(parenthetical.group(1)):
+        return parenthetical.group(1)
+    try:
+        from tools.names import unique_korean_for_english
+    except ModuleNotFoundError:
+        from names import unique_korean_for_english
+    resolved = unique_korean_for_english(text, extra)
+    if resolved:
+        return resolved
+    raise ValueError("must be Korean")
+
+
 def validate_durable_update(value: dict, number: int) -> dict:
     if value.get("chapter") != number:
         raise ValueError(f"durable update chapter must be {number}")
@@ -177,6 +198,14 @@ def validate_durable_update(value: dict, number: int) -> dict:
     context = value.get("context")
     if not isinstance(context, dict):
         raise ValueError("durable update requires a context object")
+    try:
+        from tools.context import CONTEXT_REQUIRED_KEYS
+    except ModuleNotFoundError:
+        from context import CONTEXT_REQUIRED_KEYS
+    missing = [key for key in CONTEXT_REQUIRED_KEYS if key not in context]
+    if missing:
+        raise ValueError("durable context missing " + ", ".join(missing))
+    context = {key: context[key] for key in CONTEXT_REQUIRED_KEYS}
     names = value.get("names")
     if not isinstance(names, list):
         raise ValueError("durable update names must be an array")
@@ -198,6 +227,7 @@ def validate_durable_update(value: dict, number: int) -> dict:
         raise ValueError("durable update address_pairs must be an array")
     normalized_address = []
     seen_pairs: set[tuple[str, str]] = set()
+    extra = [(row["korean"], row["english"]) for row in normalized_names]
     for position, item in enumerate(address_pairs, 1):
         if not isinstance(item, dict):
             raise ValueError(f"address pair {position} must be an object")
@@ -211,15 +241,14 @@ def validate_durable_update(value: dict, number: int) -> dict:
             if "\n" in field or "|" in field:
                 raise ValueError(f"address pair {position} {key} cannot contain a newline or pipe")
             row[key] = field.strip()
-        # Hangul titles may include Arabic digits from source spelling (e.g. 1팀장).
-        korean_name = re.compile(
-            r"(?=.*[가-힣])[가-힣0-9](?:[가-힣0-9]| [가-힣0-9])+"
-        )
-        if not korean_name.fullmatch(row["speaker"]) or not korean_name.fullmatch(row["addressee"]):
+        try:
+            row["speaker"] = _coerce_address_endpoint(row["speaker"], extra)
+            row["addressee"] = _coerce_address_endpoint(row["addressee"], extra)
+        except ValueError:
             raise ValueError(
                 f"address pair {position} speaker and addressee must be Korean "
                 "(Hangul required; Arabic digits allowed in titles like 1팀장)"
-            )
+            ) from None
         key = (row["speaker"], row["addressee"])
         if key in seen_pairs:
             raise ValueError(f"duplicate address pair: {row['speaker']} -> {row['addressee']}")

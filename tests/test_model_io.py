@@ -176,6 +176,36 @@ class ModelIoTest(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, "must be Korean"):
             validate_durable_update(value, 92)
 
+    def test_durable_update_resolves_profile_english_address_endpoints(self):
+        value = {
+            "chapter": 4,
+            "beat": {"plot": ["Plot."], "continuity": [], "translation_decisions": []},
+            "context": {
+                "version": 1,
+                "safe_through": 4,
+                "continuity_sources": [4],
+                "active_continuity": ["Fact."],
+                "open_questions": ["Question?"],
+                "temporary_decisions": [],
+                "extra": "dropped",
+            },
+            "names": [],
+            "address_pairs": [{
+                "speaker": "Hyuk Mujin",
+                "addressee": "Jin Taekyung (진태경)",
+                "kinship": "subordinate to squad leader",
+                "normal_address": "Captain",
+                "speech_level": "deferential",
+                "notes": "Uses 조장님.",
+            }],
+            "profile_updates": [],
+            "profile_creations": [],
+        }
+        update = validate_durable_update(value, 4)
+        self.assertEqual(update["address_pairs"][0]["speaker"], "혁무진")
+        self.assertEqual(update["address_pairs"][0]["addressee"], "진태경")
+        self.assertNotIn("extra", update["context"])
+
     def test_durable_update_accepts_address_pairs(self):
         value = {
             "chapter": 4,

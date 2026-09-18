@@ -869,6 +869,7 @@ def durable_files(number: int, update: dict) -> dict[Path, str]:
 
     config = project_config()
     context = update["context"]
+    context = {key: context[key] for key in CONTEXT_REQUIRED_KEYS if key in context}
     if set(context) != set(CONTEXT_REQUIRED_KEYS):
         raise ValueError("durable context must contain exactly the required keys")
     problems = durable_context_problems(context, number, config["continuity_source_limit"])
