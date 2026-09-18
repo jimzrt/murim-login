@@ -1,23 +1,24 @@
 # Translation State
 
-- Last completed: 319
-- Next chapter: 320
-- Current block: 315–319 (5/5)
-- Latest translation: `translations/0319.md`
-- Latest summary: `summaries/beats/0319.md`
-- Safe profiles through: chapter 319
+- Last completed: 320
+- Next chapter: 321
+- Current block: 320–324 (1/5)
+- Latest translation: `translations/0320.md`
+- Latest summary: `summaries/beats/0320.md`
+- Safe profiles through: chapter 320
 
 ## Current Block
 
-- Ju Hwaran completes the Yongbong Escort Bureau's delivery to Hwangbo Eom at Tengwang Pavilion. The casket bears the seal of the Shandong Seongsu Jang Family, and its current Family Head, the Pill Physician, personally placed and signed the Thousand-Year Snow Ginseng inside.
-- When Hwangbo Eom orders Ju Hwaran to open the casket, it contains Hundred-Year-Old Snow Ginseng instead. Hwangbo declares that Zhongnan will accept no compromise and demands two hundred thousand silver nyang in compensation, a sum that could reduce the Yongbong Escort Bureau to an empty shell. Song Ilseom shows almost no reaction to the crisis.
-- Jin Taekyung's party enters the teahouse, including Cheongpung, Hyuk Mujin, and Baek Museong. Hwangbo Eom recognizes Taekyung and senses that the approaching group possesses power comparable to an Elder of the Nine Sects and One Gang.
+- Jin Taekyung arrives at Tengwang Pavilion and deliberately provokes Hwangbo Eom, the Taeeul Merciless Sword, by pretending not to know him. Hwangbo restrains the Taeeul Sword Unit, permits Taekyung to join the gathering, and watches as Taekyung sits beside Ju Hwaran with Cheongpung.
+- Hwangbo reveals that he knows the rumors about the Fire King taking in the Hidden Dragon and Taekyung's departure from the Murim Alliance. He notices the leather-merchant disguise covering Jeok Cheongang, tests Taekyung with tea infused with internal energy, and acknowledges Taekyung's martial ability after Taekyung responds with Seizing an Object Through Empty Space and the Fire Gate Divine Technique. Taekyung finally states that he came to see what kind of scheme the Zhongnan Sect was plotting, leaving Hwangbo cold and suspicious.
 
 ## Open Questions
 
 - Who changed the shipment from Thousand-Year Snow Ginseng to Hundred-Year-Old Snow Ginseng, and when did the substitution occur?
 - Did the Zhongnan Sect leak information about the Thousand-Year Snow Ginseng or arrange the escort mission's attacks?
 - Is Song Ilseom connected to the shipment discrepancy?
+- Does Hwangbo Eom know Jeok Cheongang's identity and condition beneath the leather-covered pack frame?
+- How will Hwangbo Eom respond to Taekyung's accusation against the Zhongnan Sect?
 
 ## Exceptional Decision
 

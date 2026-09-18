@@ -1,6 +1,6 @@
 # Baek Museong (백무성)
 
-- **Safe through:** Chapter 319
+- **Safe through:** Chapter 320
 - **Aliases:** Huashan’s Lone Crane
 - **Role:** First-generation disciple of Huashan and first of the Three Plum Blossom Elites, Baek Museong is widely expected to become Huashan's future Sect Leader and is accompanying Jin Taekyung's party to Tengwang Pavilion in Xi'an.
 - **Personality:** Calm, responsible, principled, and patient, though visibly weary of his junior disciples’ antics.

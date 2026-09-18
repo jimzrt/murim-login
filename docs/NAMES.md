@@ -1091,3 +1091,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 스피드 개건 | **Speed Beggar** | Jin Taekyung's joking label for Gung Gibang. |
 | 성수장가 | **Seongsu Jang Family** | Prestigious medical family in Shandong. |
 | 환의 | **Pill Physician** | Title of the current Family Head of the Seongsu Jang Family. |
+| 동량지재 | **pillar of Huashan** | Reputation attributed to Baek Museong. |
+| 소림혈사 | **Shaolin Bloodshed** | Past incident cited by Hwangbo Eom. |
+| 방자전 | **Bangjajeon (The Servant)** | Korean film title used in Taekyung's pun on insolence. |
+| 종남제일인 | **Zhongnan's greatest master** | Taekyung's description of Hwangbo Eom. |
