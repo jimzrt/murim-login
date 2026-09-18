@@ -4,23 +4,23 @@
 
 That was the old man’s first impression of Jang Family Village.
 
-Sitting on the slowly swaying wooden carrying frame and gazing at the houses scattered sparsely across the village, he added in a voice so quiet that no one could make out the words,
+Seated atop the gently swaying wooden carrying frame, he gazed at the sparse scattering of houses and added in a voice too quiet for anyone to hear,
 
 “…And peaceful.”
 
-It seemed the years had passed after all. Even an insignificant view like this made his body relax and a corner of his heart itch.
+Time truly had passed. Even such an unremarkable sight made his body relax and stirred something deep within his heart.
 
-Just like that day, twenty-some years ago.
+Just like that day, more than twenty years ago.
 
 *It was the same when I took that child in.*
 
-Suddenly, a child he had met long ago flashed before his eyes.
+The image of a child he had met long ago suddenly flashed before his eyes.
 
-Under normal circumstances, he would have tossed the child a few iron coins or simply ignored them and walked on. But that day had been different.
+Normally, he would have tossed the child a few iron coins or simply ignored them and walked on. But that day had been different.
 
-Perhaps it was because he had just realized that he had developed an illness of old age?
+Perhaps it was because he had only just realized that he was suffering from the infirmities of old age.
 
-He had looked at the owner of that desperately outstretched hand and, without realizing it, spoken a single sentence.
+He had stared at the owner of that desperately outstretched hand and, before he knew it, spoken a single sentence.
 
 *Will you come with me?*
 
@@ -28,27 +28,27 @@ He had looked at the owner of that desperately outstretched hand and, without re
 
 The woodcutter’s voice brought the old man back to his senses.
 
-They had stopped in front of a small house. Something small suddenly popped out from behind a loosely woven fence made of bundles of branches.
+They had stopped in front of a small house. Something tiny burst out from behind a loosely woven fence made of bundles of branches.
 
 “Dad!”
 
 “Oh, my daughter!”
 
-The little girl, no more than six or seven years old, came pattering over and clung tightly to her father’s leg.
+The little girl, no more than six or seven years old, came pattering over and flung herself against her father’s leg.
 
-The old man lightly jumped down from the carrying frame and gazed at the scene.
+The old man hopped lightly down from the carrying frame and watched them.
 
 “Is she your child?”
 
-“Ah, yes. That’s right. Hanga, greet him. This gentleman is…”
+“Ah, yes. She is. Hanga, say hello. This gentleman is…”
 
-Come to think of it, he did not even know the old man’s name.
+Come to think of it, Jang-pal did not even know the old man’s name.
 
-When Jang-pal trailed off, the old man waved his hand.
+As he trailed off, the old man waved a hand.
 
-“No need for names. It’s nothing.”
+“No need to exchange names. It’s nothing.”
 
-Just then, Hanga, who had been gazing up at the old man with sparkling eyes, came toddling over and smacked his bony thigh.
+Just then, Hanga, who had been gazing up at the old man with sparkling eyes, toddled over and slapped his bony thigh.
 
 “Grandpa!”
 
@@ -58,117 +58,117 @@ Just then, Hanga, who had been gazing up at the old man with sparkling eyes, cam
 
 “I don’t know. I’ve forgotten it too.”
 
-The old man had only said it to avoid the annoyance, but Jang-pal took it differently.
+The old man had only said it to spare himself the bother, but Jang-pal took it differently.
 
-*He’s not sound of mind enough to remember even his own name.*
+*He’s so far gone that he can’t even remember his own name.*
 
-Jang-pal was a simple mountain man, and he felt terribly sorry for the old man.
+As a simple mountain villager, Jang-pal found the old man terribly pitiable.
 
-He could not leave someone who had apparently been abandoned by his children to wander the streets in clothes barely better than rags.
+He could not leave someone who had apparently been abandoned by his children to wander around in clothes scarcely better than rags.
 
-“Elder, why don’t you at least have a meal first? I’ll prepare a place right away.”
+“Elder, why don’t you at least stay for a meal? We’ll have something ready in no time.”
 
-“No need. What I ate earlier was enough.”
+“No need. What you gave me earlier was enough.”
 
 “Even so…”
 
-“There’s someone I need to find. I’ve already been delayed for quite some time, so I ask for your understanding.”
+“There’s someone I must find. I’ve already been delayed for quite some time, so I ask for your understanding.”
 
-After finishing his sentence, the old man stopped.
+After speaking, the old man paused.
 
 *Understanding?*
 
-The word that had slipped from his mouth felt unfamiliar.
+The word that had slipped from his mouth felt foreign.
 
-He had lived his whole life without a single thing to fear. Everyone had feared and revered him. Even the renowned masters of Murim had tucked their tails between their legs in his presence.
+He had lived his entire life without restraint. Everyone had feared and revered him. Even the most renowned masters of Murim had tucked their tails between their legs in his presence.
 
-And yet, with this humble villager he had known for less than half a shichen, such words came easily.
+And yet such words came easily before this country bumpkin he had known for less than half a shichen.
 
-*I’ve grown old. I’m definitely old.*
+*I’m old. I really have grown old.*
 
-Someone tugged at the old man’s sleeve as he stood there, bewildered.
+As the old man stood there in bewilderment, someone tugged at his sleeve.
 
-When he looked down, he saw chubby baby fat quivering.
+He looked down and saw plump, baby-soft cheeks twitching.
 
 “Who are you looking for? Hanga is good at finding people.”
 
 “…Is that so?”
 
-“Uh-huh! Yesterday, I found Grandpa Jang from the house three houses over.”
+“Uh-huh! Yesterday, I found Grandpa Jang from three houses over.”
 
-“You did well.”
+“Well done.”
 
-“When I found him, he gave me something tasty. I ate until I thought my stomach would burst.”
+“When I found him, he gave me something tasty. I ate until my belly almost burst.”
 
-After saying something incomprehensible, she planted a hand on her waist. Her expression was almost solemn.
+After that baffling remark, she planted a hand on her waist. Her expression was almost solemn.
 
-“And people have to eat to have strength. At Grandpa’s age, you can chew iron and eat it.”
+“And people need to eat so they’ll have strength. At your age, Grandpa, you can even chew up iron.”
 
 “H-Hanga!”
 
 “Ha ha ha!”
 
-The old man laughed heartily for the first time in a long while. When was the last time he had laughed like this? It must have been more than ten years ago.
+The old man threw his head back and laughed. When had he last laughed so heartily? It must have been more than ten years ago.
 
-After his laughter faded, he patted Hanga’s round head.
+Once his laughter subsided, he patted Hanga’s round head.
 
-“Yes, you’re right. This old man can chew iron and eat it.”
+“Yes, you’re right. This old man can chew up iron.”
 
 “Uh-huh. I’m always right.”
 
-With a proud smile, Hanga grabbed his sleeve and led him into the house. The old man followed, pretending he had no choice.
+Beaming with pride, Hanga caught hold of his sleeve and led him into the house. The old man let himself be dragged along.
 
-Even if the strongest man under heaven had attacked him, he would not have budged. But today was an exception. More importantly…
+Even the strongest man under heaven could not have made him budge, but today was an exception. More importantly…
 
-*This isn’t so bad.*
+*This isn’t half bad.*
 
-He rather liked the situation. It almost felt as though he had become an ordinary old man for once.
+He rather liked the situation. For once, he almost felt like an ordinary old man.
 
-As soon as they entered the room, Jang-pal’s wife brought out a meal.
+When they entered the room, Jang-pal’s wife soon brought out a meal.
 
-“I’m sorry the side dishes aren’t much.”
+“I’m afraid the side dishes aren’t much.”
 
-Just as she said, the food was simple: a few kinds of namul and mixed-grain rice. The meat soup they had brought out to be hospitable was watery and bland.
+As she had said, the food was simple: a few kinds of namul and mixed-grain rice. Even the meat soup they had served for his sake was pale and bland.
 
-But everything had been prepared with care. It was obvious at a glance that they were not well-off, yet they welcomed the shabby old man occupying their table as a guest rather than an unwelcome intruder.
+But everything had been prepared with care. They were clearly not well-off, yet they treated the shabby old man seated at their table as a guest rather than an unwelcome intruder.
 
 *Well, now.*
 
-The old man finished the meal with a strange feeling in his heart. Hanga asked him with sparkling eyes,
+The old man finished his meal with a strange feeling in his heart. Hanga watched him with shining eyes.
 
-“Grandpa, was it tasty?”
+“Grandpa, was it good?”
 
-“Yes. It was the most delicious thing I’ve eaten lately.”
+“Yes. It was the best meal I’ve had in quite some time.”
 
-“Right? My mom cooks the best in the whole village.”
+“Right? My mom is the best cook in our whole village.”
 
 “…Is that so?”
 
 “Uh-huh!”
 
-*It wasn’t that good.*
+*I wouldn’t go that far.*
 
-The old man swallowed the words he wanted to say and nodded.
+The old man swallowed the words and nodded.
 
-He had not eaten the meal for its flavor. He had eaten it for the care that went into preparing it.
+He had not enjoyed the meal for its taste, but for the care with which it had been prepared.
 
-Hanga, meanwhile, unaware of that, kept chattering excitedly.
+Oblivious, Hanga continued chattering away.
 
-“Grandpa Jang from three houses over sometimes comes to our house to eat too. Yesterday I ate at his house, though. Hee hee.”
+“Grandpa Jang from three houses over sometimes comes to eat at our house too. Yesterday I ate at his house, though. Hee hee.”
 
-As Jang-pal watched his daughter fondly, he asked,
+Jang-pal watched his daughter fondly.
 
-“Hanga, you went to the elder’s house again?”
+“Hanga, did you go to the elder’s house again?”
 
-“Uh-huh. Grandpa gave me something tasty yesterday. The other older brothers did too.”
+“Uh-huh. Grandpa gave me something tasty yesterday. So did the other older brothers.”
 
 “How many times have I told you not to bother the elder? But what do you mean, older brothers?”
 
-Jang Family Village was a small place. The few young people had either left for other regions or joined Murim sects with dreams of making their fortunes in the martial world.
+Jang Family Village was a small place. The few young men there had either left for other regions or joined Murim sects with dreams of making their fortunes in the martial world.
 
-Those who remained had all started families of their own, so there were hardly any men Hanga could call older brothers. And yet she had mentioned older brothers.
+Those who remained had families of their own, so there was hardly anyone Hanga would call an older brother.
 
-“Were they people you’d never seen before?”
+“Were they strangers?”
 
 “Uh-huh. They were tall and handsome, and they gave me this much food. So I found Grandpa for them.”
 
@@ -176,141 +176,141 @@ Those who remained had all started families of their own, so there were hardly a
 
 “I don’t know. They were just looking for Grandpa. They were cool older brothers with sticks hanging from their waists.”
 
-“Sticks hanging from their waists… Swords?”
+“Sticks at their waists… Swords?”
 
-They were martial artists. There was no doubt about it.
+Martial artists. They had to be.
 
-The faces of Jang-pal and his wife grew serious as they reached the same conclusion.
+Jang-pal and his wife exchanged grave looks.
 
 To ordinary civilians like them, martial artists were objects of fear.
 
-How terrified had they been only a few months ago, during the war between the Jin Family of Taiyuan and the Mount Heng Sword Sect?
+Only a few months had passed since the war between the Jin Family of Taiyuan and the Mount Heng Sword Sect. How terrified had they been then?
 
-And now, unidentified martial artists had come right next door. Worse, their only daughter had become involved with them.
+Now, unidentified martial artists had appeared right next door—and their only daughter had become involved with them.
 
-Jang-pal spoke with an anxious expression.
+Jang-pal asked anxiously,
 
-“So what happened?”
+“What happened after that?”
 
 “When I took them to Grandpa, he shouted.”
 
 “D-Did you hear who those older brothers were?”
 
-“I heard them, but I forgot!”
+“I did, but I forgot!”
 
-Her answer was bright and innocent, but dark clouds gathered over her parents’ hearts. Jang-pal hurriedly rose from his seat.
+Her answer was bright and innocent, but dark clouds gathered over her parents’ hearts. Jang-pal hurriedly rose to his feet.
 
-“I need to go. The elder might have suffered some kind of misfortune.”
+“I need to go. The elder may have come to harm.”
 
 “Hanga’s father!”
 
-“You stay here with Hanga. I’ll just sneak over and take a look, so don’t worry.”
+“You stay here with Hanga. I’ll only sneak over and take a look, so don’t worry.”
 
-Despite his words, he picked up the axe propped in a corner of the room. His horrified wife was about to stop him when—
+Despite his words, he picked up the axe propped against one corner of the room. His horrified wife was about to stop him when—
 
 “Sit down.”
 
-“What?”
+“Pardon?”
 
 “Are your ears clogged? I said sit down.”
 
-The old man, who had been sitting quietly, stood up. His bony knees gave a loud crack.
+The old man, who had been sitting quietly, rose to his feet. His bony knees cracked loudly.
 
-“I’ve eaten a hearty meal. I’ll take a walk while I’m at it. Consider it payment for the food.”
+“I’ve had a hearty meal. I might as well go for a stroll. Consider it payment for the food.”
 
-Jang-pal stared blankly at the old man before giving a hollow laugh.
+Jang-pal stared blankly at him, then gave a hollow laugh.
 
-“Elder, that isn’t a place you can go.”
+“Elder, that’s no place for you.”
 
-“It’s the opposite. It’s a place you can’t go.”
+“You have it backward. It’s no place for you.”
 
 “Please stay here. I’ll be back soon.”
 
-“Will you be able to come back?”
+“Will you?”
 
-The old man stared at Jang-pal with an unreadable expression.
+The old man gazed at Jang-pal with an unreadable expression.
 
-When Jang-pal met those deep, sunken, unfathomable eyes, it felt as though his breath stopped.
+The moment Jang-pal met those deep, still, unfathomable eyes, his breath caught.
 
-“If they’re even a little—just a little—bad, you won’t be able to return. Do you mean to leave your child to grow up without a father?”
+“If they’re even a little—just the slightest bit—unsavory, you won’t be coming back. Do you intend to leave your daughter without a father?”
 
-The old man’s eyes flashed like a streak of light, then faded.
+The old man’s eyes flashed for an instant, then dimmed.
 
-As though nothing had happened, he patted his lower back and held out a hand toward Jang-pal.
+As if nothing had happened, he patted his lower back and held out a hand to Jang-pal.
 
-“Give that here.”
+“Give it here.”
 
 That was all.
 
-And yet Jang-pal handed the axe to the old man like someone under a spell.
+Yet Jang-pal handed him the axe as if under a spell.
 
-“You’ve taken good care of it. It’s best to use this only for chopping wood.”
+“You’ve maintained it well. Best use this only for chopping wood.”
 
-The old man calmly examined the sharp axe blade, then grinned at Hanga. Sensing the atmosphere, the child’s large eyes had already grown wet.
+The old man calmly studied the sharpened blade, then grinned at Hanga. The child had sensed the change in the air, and her large eyes were already glistening.
 
-“Why the gloomy face?”
+“Why the long face?”
 
 “I think Hanga did something wrong. Hanga was wrong.”
 
-“Yes, this time you were in the wrong.”
+“Yes. This time, you were.”
 
-Just as a sorrowful cry was about to burst from her, the old man’s voice continued, soft and gentle as a cotton quilt.
+Just as a miserable wail was about to burst from her, the old man continued in a voice as soft and warm as a quilt.
 
-“So from now on, pay special attention to make sure something like this doesn’t happen again. Listen to what your parents say. Do you understand?”
+“So take special care not to let this happen again. Listen to your parents. Do you understand?”
 
 “Uh-huh… But, Grandpa.”
 
 “Go on.”
 
-“Will Grandpa come back?”
+“Will you come back?”
 
-The old man could not hold back the small laugh that escaped him.
+The old man could not suppress the quiet laugh that escaped him.
 
-“Of course. I’m old enough to chew iron. What could I possibly be unable to do?”
+“Of course. I’m old enough to chew iron. What couldn’t I do?”
 
-At that moment, Jang-pal, who had been briefly dazed, suddenly came to his senses.
+At that moment, Jang-pal snapped out of his daze.
 
-No matter how you looked at it, he had handed an axe to an old man suffering from an illness of old age. He must have been thoroughly bewitched.
+What had he been thinking, handing an axe to an old man suffering from the infirmities of age? He must have been completely bewitched.
 
-He had to correct this right now.
+He had to put a stop to this at once.
 
-“Elder, please give me the axe. This, this is ridiculous—”
+“Elder, please give me back the axe. This—this is ridiculous…”
 
-The next moment, Jang-pal could not finish his sentence. He stood there with his mouth hanging open, because an utterly unbelievable sight had unfolded before his eyes.
+Jang-pal’s words died in his throat. His mouth fell open at the unbelievable sight unfolding before him.
 
 Crunch. Crunch.
 
-The axe blade was breaking.
+The axe blade was breaking apart.
 
-Each time the old man’s yellow teeth moved—teeth that looked incapable of chewing even soft chicken bones—the axe blade Jang-pal had carefully sharpened every day snapped apart piece by piece.
+Each time the old man’s yellow teeth moved—teeth that looked incapable of chewing even a soft chicken bone—the blade Jang-pal carefully sharpened every day snapped off piece by piece.
 
 “W-What is this?”
 
-“Your child has a good eye for people. She was exactly right.”
+“Your daughter has a fine eye for people. She was exactly right.”
 
-A conversation he had shared with the old man not long ago flashed through Jang-pal’s horrified mind.
+A conversation from earlier flashed through Jang-pal’s horrified mind.
 
-*Why are there so many clan villages around here? Less than half a shichen ago, there was something called Hong Family Village or whatever.*
+*Why are there so many clan villages around here? Half a shichen ago, I passed one called Hong Family Village or something.*
 
 *Hong Family Village? Hong Family Village should be at least three hundred li from here. Are you perhaps confusing it with somewhere else?*
 
-*Do I look like some idiot who can’t even remember something that happened less than half a shichen ago?*
+*Do I look like an idiot who can’t remember what happened half a shichen ago?*
 
 Only then did Jang-pal realize that none of the old man’s words had been lies.
 
-He was not an ordinary old man. Someone who could walk three hundred li in half a shichen and chew iron could not possibly be ordinary.
+He was no ordinary old man. No one who could travel three hundred li in half a shichen and chew iron could possibly be ordinary.
 
-Only martial artists could perform such extraordinary feats.
+Only one kind of person could perform such extraordinary feats.
 
 “A martial artist…”
 
-The old man asked Jang-pal, whose legs were trembling,
+The old man looked at Jang-pal, whose legs were trembling.
 
-“So where are they?”
+“So, where are they?”
 
 * * *
 
-A voice filled with joy escaped between Jang Taebo’s lips.
+A voice brimming with joy slipped between Jang Taebo’s lips.
 
 “I’ll make you the greatest divine weapon in the world.”
 
@@ -328,66 +328,66 @@ Ding.
 
 *Shit. If I’d known this would happen, I would’ve shown him sooner.*
 
-Hyuk Mujin looked dumbfounded too. No—looking more closely, he looked horrified.
+Hyuk Mujin looked dumbfounded too. No, on closer inspection, he looked horrified.
 
-“Th-That’s all Ten-Thousand-Year Cold Iron?”
+“Is all of that Ten-Thousand-Year Cold Iron?”
 
-I scratched my chin. What did I know? The System said it was Ten-Thousand-Year Cold Iron, so I simply assumed it was.
+I scratched my chin. What did I know? The System said it was Ten-Thousand-Year Cold Iron, so I simply took its word for it.
 
 “Yeah, probably.”
 
-“No, you can’t just say ‘probably’!”
+“You can’t just say ‘probably’!”
 
-“I know.”
+“Tell me about it.”
 
 To be honest, I was flustered too.
 
-When Jang Taebo had shown no reaction after hearing that I possessed Ten-Thousand-Year Cold Iron, I had figured the big shots up top treated Ten-Thousand-Year Cold Iron as basic gear.
+When Jang Taebo had shown no reaction after hearing that I possessed Ten-Thousand-Year Cold Iron, I’d assumed people at his level considered it basic gear.
 
 But as it turned out…
 
-*Is it like a drink with ten percent apple flavoring added?*
+*Is it like a drink made with ten percent apple flavoring?*
 
-They called it the greatest mineral under heaven, and judging by how people only shaved off tiny pieces to attach to a blade, it really must be incredibly rare.
+They called it the greatest mineral under heaven, and if people only shaved off tiny pieces to attach to a blade, it must be incredibly rare.
 
-While everyone else had to use weapons with five or ten percent Ten-Thousand-Year Cold Iron added, I could use one made with one hundred percent.
+While everyone else used weapons containing five or ten percent Ten-Thousand-Year Cold Iron, I could have one made from a hundred percent.
 
-That was an incredible advantage.
+That was an enormous advantage.
 
-It meant I got a head start just from my gear.
+My gear alone would give me a head start.
 
 “With this—with this, I can create the masterpiece of my lifetime.”
 
 Jang Taebo trembled all over, overcome with emotion.
 
-It was hard to believe he was the same old man who had been so indifferent and dismissive only moments ago. Of course, it worked out in my favor, so I was happy.
+It was hard to believe he was the same old man who had acted indifferent and played hard to get only moments ago. Not that I was complaining, now that everything had worked out.
 
-“Where on earth did you get such an enormous amount of Ten-Thousand-Year Cold Iron?”
+“Where in the world did you obtain such an enormous amount of Ten-Thousand-Year Cold Iron?”
 
-“It’s a secret.”
+“That’s a secret.”
 
-“H-Have you perhaps discovered a mine where a massive amount of Ten-Thousand-Year Cold Iron was buried?”
+“D-Did you perhaps discover a mine containing vast deposits of Ten-Thousand-Year Cold Iron?”
 
-Jang Taebo’s eyes flashed like high beams. He had said he no longer needed anything, but now he was—
+Jang Taebo’s eyes flared like high beams. He had claimed he no longer needed anything, but now…
 
 “Tell me!”
 
-I coldly shook my head. I did not even know where the mine was, and I could not tell him the truth anyway.
+I firmly shook my head. I had no idea where this supposed mine was, and I could not tell him the truth anyway.
 
 “No.”
 
-“Please! I’ll beg you like this!”
+“Please! I’m begging you!”
 
 “W-Wait, what are you doing?”
 
-Now he was clinging to my trouser leg. The spirit of an artisan who had walked a single path for decades burned in his eyes.
+Now he was clinging to my trouser leg. The spirit of an artisan who had devoted decades to a single path blazed in his eyes.
 
-“Come on!”
+“Please!”
 
 “Oh, for crying out loud!”
 
 Just as I hurriedly pried Jang Taebo’s hands away—
 
-“Is this the house of Grandpa Jang, who lives three houses over…? Damn it. It’s rubbed off on me already. Anyway, is this Old Man Jang’s place?”
+“Is this the house of Grandpa Jang, who lives three houses over…? Damn it. It’s rubbing off on me already. Anyway, is this Old Man Jang’s house?”
 
-A sharp voice stabbed at my eardrums.
+A sharp voice pierced my eardrums.

@@ -1,1 +1,680 @@
-I'll adjudicate each hunk against the Korean source, glossary, and established chapter conventions before writing the decision JSON.The first lookup missed. I'll pull glossary, System-panel conventions, and nearby chapter renderings next.{"chapter": 170, "decisions": [{"hunk_id": "H001", "decision": "SOL", "reason": "Restates 순박한 산골 사람인 그는 as a natural English clause instead of a Korean-shaped appositive, without changing meaning."}, {"hunk_id": "H002", "decision": "BASE", "reason": "거칠 것 없이 is unhindered/unrestrained living; SOL’s “to fear” over-specifies and weakly sets up the 양해 beat."}, {"hunk_id": "H003", "decision": "SOL", "reason": "실룩거린다 is already quivering; “in motion” is redundant."}, {"hunk_id": "H004", "decision": "SOL", "reason": "나름 대접한다고 내온 is hospitality brought out, not making the meal “special”; watery is the natural rendering of 희멀건 국."}, {"hunk_id": "H005", "decision": "SOL", "reason": "Restores omitted 반면 as “meanwhile,” and “kept” matches 계속 떠들어 댔다."}, {"hunk_id": "H006", "decision": "BASE", "reason": "Same-chapter 천하제일 is already “under heaven” (P173); SOL’s “in the world” breaks that rendering."}, {"hunk_id": "H007", "decision": "BASE", "reason": "띠링 is a system chime; “Ding!” is the natural English sound-effect, and “Ding.” is not an improvement."}, {"hunk_id": "H008", "decision": "BASE", "reason": "Keeps the source dash-list System panel, established quest italics, and 생성되었습니다 as “generated”; SOL’s prose/bold/created swap is convention churn."}, {"hunk_id": "H009", "decision": "SOL", "reason": "Restores the shocked stutter 저, 저게 that BASE flattens into a calm yes/no question."}, {"hunk_id": "H010", "decision": "SOL", "reason": "윗물에서 노는 놈들 is casual narrator idiom; “big shots up top” / “figured” fit Taekyung better than genteel “upper circles.”"}, {"hunk_id": "H011", "decision": "SOL", "reason": "템빨로 먹고 들어가다 is a gear head start; BASE adds unstated “rely on.”"}, {"hunk_id": "H012", "decision": "BASE", "reason": "일이 잘 풀렸으니 나야 좋지만 is glad things worked out; SOL’s “in my favor” adds self-interest."}]}
+{
+  "chapter": 170,
+  "decisions": [
+    {
+      "hunk_id": "H001",
+      "decision": "SOL",
+      "reason": "SOL preserves the sparse village view and the quiet tone in natural English."
+    },
+    {
+      "hunk_id": "H002",
+      "decision": "BASE",
+      "reason": "SOL drops the source's tentative sense that time seemed to have passed by asserting that it truly had."
+    },
+    {
+      "hunk_id": "H003",
+      "decision": "SOL",
+      "reason": "SOL faithfully renders the approximate span of more than twenty years."
+    },
+    {
+      "hunk_id": "H004",
+      "decision": "SOL",
+      "reason": "SOL keeps the image of the child flashing before him while making the English natural."
+    },
+    {
+      "hunk_id": "H005",
+      "decision": "SOL",
+      "reason": "SOL preserves the conditional normal behavior and the contrast with that day."
+    },
+    {
+      "hunk_id": "H006",
+      "decision": "SOL",
+      "reason": "SOL uses the established rendering for the infirmities of old age without changing the meaning."
+    },
+    {
+      "hunk_id": "H007",
+      "decision": "SOL",
+      "reason": "SOL preserves the impulsive delivery of the sentence in natural English."
+    },
+    {
+      "hunk_id": "H008",
+      "decision": "SOL",
+      "reason": "SOL keeps the sudden burst from behind the fence and reads naturally."
+    },
+    {
+      "hunk_id": "H009",
+      "decision": "SOL",
+      "reason": "SOL naturally conveys the girl's abrupt, affectionate attachment to her father's leg."
+    },
+    {
+      "hunk_id": "H010",
+      "decision": "SOL",
+      "reason": "SOL preserves the light jump and the old man's observation of the scene."
+    },
+    {
+      "hunk_id": "H011",
+      "decision": "SOL",
+      "reason": "SOL gives a natural spoken answer to the question about whether Hanga is his child."
+    },
+    {
+      "hunk_id": "H012",
+      "decision": "SOL",
+      "reason": "SOL clarifies the known speaker without adding new information."
+    },
+    {
+      "hunk_id": "H013",
+      "decision": "SOL",
+      "reason": "The pronoun is unambiguous in context and avoids an unnecessary repetition of Jang-pal's name."
+    },
+    {
+      "hunk_id": "H014",
+      "decision": "SOL",
+      "reason": "SOL accurately renders the refusal to exchange names."
+    },
+    {
+      "hunk_id": "H015",
+      "decision": "SOL",
+      "reason": "SOL preserves Hanga's toddling approach and playful smack in idiomatic English."
+    },
+    {
+      "hunk_id": "H016",
+      "decision": "SOL",
+      "reason": "SOL keeps the old man's motivation while using a more natural phrase."
+    },
+    {
+      "hunk_id": "H017",
+      "decision": "BASE",
+      "reason": "SOL intensifies the diagnosis into being far gone, whereas the source only says he is not fully sound of mind."
+    },
+    {
+      "hunk_id": "H018",
+      "decision": "SOL",
+      "reason": "SOL preserves Jang-pal's pity and his simple mountain-villager perspective."
+    },
+    {
+      "hunk_id": "H019",
+      "decision": "SOL",
+      "reason": "SOL keeps the shabby clothing and aimless wandering without changing the action."
+    },
+    {
+      "hunk_id": "H020",
+      "decision": "SOL",
+      "reason": "SOL naturally conveys the invitation to stay for a meal and the immediate preparation."
+    },
+    {
+      "hunk_id": "H021",
+      "decision": "SOL",
+      "reason": "SOL makes explicit that the food was given to him earlier, matching the context."
+    },
+    {
+      "hunk_id": "H022",
+      "decision": "SOL",
+      "reason": "SOL preserves the urgent need to find someone and the request for understanding."
+    },
+    {
+      "hunk_id": "H023",
+      "decision": "SOL",
+      "reason": "Paused accurately captures the old man's momentary stop."
+    },
+    {
+      "hunk_id": "H024",
+      "decision": "SOL",
+      "reason": "Foreign preserves the word's unfamiliarity in natural English."
+    },
+    {
+      "hunk_id": "H025",
+      "decision": "SOL",
+      "reason": "SOL keeps the old man's unrestrained life and the established Murim terminology."
+    },
+    {
+      "hunk_id": "H026",
+      "decision": "SOL",
+      "reason": "Country bumpkin preserves the characterization of the humble villager with a natural idiom."
+    },
+    {
+      "hunk_id": "H027",
+      "decision": "SOL",
+      "reason": "SOL preserves the repeated realization that he has grown old."
+    },
+    {
+      "hunk_id": "H028",
+      "decision": "SOL",
+      "reason": "SOL keeps the bewilderment and the sleeve tug in a smoother sentence."
+    },
+    {
+      "hunk_id": "H029",
+      "decision": "SOL",
+      "reason": "SOL naturalizes the image of Hanga's plump baby fat twitching."
+    },
+    {
+      "hunk_id": "H030",
+      "decision": "SOL",
+      "reason": "Three houses over conveys the same location without the awkward house from construction."
+    },
+    {
+      "hunk_id": "H031",
+      "decision": "SOL",
+      "reason": "Well done preserves the child's praise naturally."
+    },
+    {
+      "hunk_id": "H032",
+      "decision": "SOL",
+      "reason": "SOL keeps the childish exaggeration about eating until her belly nearly burst."
+    },
+    {
+      "hunk_id": "H033",
+      "decision": "SOL",
+      "reason": "Baffling remark accurately conveys that Hanga's statement made little sense."
+    },
+    {
+      "hunk_id": "H034",
+      "decision": "SOL",
+      "reason": "SOL preserves the child's logic and the comic iron-chewing claim."
+    },
+    {
+      "hunk_id": "H035",
+      "decision": "BASE",
+      "reason": "SOL adds the unsupported physical action of throwing his head back; BASE keeps the source's hearty laughter without embellishment."
+    },
+    {
+      "hunk_id": "H036",
+      "decision": "SOL",
+      "reason": "SOL preserves the transition from laughter to patting Hanga's head."
+    },
+    {
+      "hunk_id": "H037",
+      "decision": "SOL",
+      "reason": "Chew up iron naturally carries the same absurd boast in the repeated exchange."
+    },
+    {
+      "hunk_id": "H038",
+      "decision": "SOL",
+      "reason": "Let himself be dragged along faithfully conveys pretending not to resist Hanga."
+    },
+    {
+      "hunk_id": "H039",
+      "decision": "SOL",
+      "reason": "SOL preserves the old man's immovability and the deliberate exception for today."
+    },
+    {
+      "hunk_id": "H040",
+      "decision": "SOL",
+      "reason": "Half bad keeps the understated approval and spoken tone."
+    },
+    {
+      "hunk_id": "H041",
+      "decision": "SOL",
+      "reason": "SOL retains the old man's unexpected enjoyment of feeling ordinary."
+    },
+    {
+      "hunk_id": "H042",
+      "decision": "SOL",
+      "reason": "SOL preserves that the meal was brought shortly after they entered."
+    },
+    {
+      "hunk_id": "H043",
+      "decision": "SOL",
+      "reason": "I'm afraid naturally conveys the wife's modest apology about the side dishes."
+    },
+    {
+      "hunk_id": "H044",
+      "decision": "SOL",
+      "reason": "SOL preserves the simple food and the specially prepared but bland meat soup."
+    },
+    {
+      "hunk_id": "H045",
+      "decision": "SOL",
+      "reason": "SOL keeps the contrast between their poverty and their welcoming treatment of him."
+    },
+    {
+      "hunk_id": "H046",
+      "decision": "BASE",
+      "reason": "SOL replaces Hanga explicitly asking about the meal with merely watching him, dropping a stated action."
+    },
+    {
+      "hunk_id": "H047",
+      "decision": "SOL",
+      "reason": "Was it good is natural child dialogue and retains the question about the meal's taste."
+    },
+    {
+      "hunk_id": "H048",
+      "decision": "SOL",
+      "reason": "SOL preserves the exaggerated praise while making it idiomatic English."
+    },
+    {
+      "hunk_id": "H049",
+      "decision": "SOL",
+      "reason": "SOL keeps Hanga's proud claim about her mother's cooking."
+    },
+    {
+      "hunk_id": "H050",
+      "decision": "SOL",
+      "reason": "I wouldn't go that far preserves the old man's tactful private criticism."
+    },
+    {
+      "hunk_id": "H051",
+      "decision": "SOL",
+      "reason": "Swallowed the words naturally implies the words he wanted to say but withheld."
+    },
+    {
+      "hunk_id": "H052",
+      "decision": "SOL",
+      "reason": "SOL preserves that he appreciated the care rather than the flavor."
+    },
+    {
+      "hunk_id": "H053",
+      "decision": "SOL",
+      "reason": "Oblivious accurately carries Hanga's unawareness as she keeps chattering."
+    },
+    {
+      "hunk_id": "H054",
+      "decision": "SOL",
+      "reason": "SOL preserves both visits and Hanga's cheerful explanation."
+    },
+    {
+      "hunk_id": "H055",
+      "decision": "SOL",
+      "reason": "The following direct question supplies the speech action, while SOL keeps the fond observation concise."
+    },
+    {
+      "hunk_id": "H056",
+      "decision": "SOL",
+      "reason": "Did you go naturally renders the father's questioning tone."
+    },
+    {
+      "hunk_id": "H057",
+      "decision": "SOL",
+      "reason": "So did preserves the parallel gift from the other older brothers."
+    },
+    {
+      "hunk_id": "H058",
+      "decision": "SOL",
+      "reason": "Young men fits the village and Murim context without changing the group described."
+    },
+    {
+      "hunk_id": "H059",
+      "decision": "SOL",
+      "reason": "SOL preserves the lack of plausible older brothers while letting the father's next question carry the contrast."
+    },
+    {
+      "hunk_id": "H060",
+      "decision": "SOL",
+      "reason": "Strangers naturally conveys people Hanga had never seen before."
+    },
+    {
+      "hunk_id": "H061",
+      "decision": "SOL",
+      "reason": "SOL keeps Hanga's childlike description and the realization that the sticks are swords."
+    },
+    {
+      "hunk_id": "H062",
+      "decision": "SOL",
+      "reason": "The clipped phrasing preserves the realization with stronger narrative timing."
+    },
+    {
+      "hunk_id": "H063",
+      "decision": "SOL",
+      "reason": "Exchanging grave looks conveys both parents reaching the same conclusion."
+    },
+    {
+      "hunk_id": "H064",
+      "decision": "SOL",
+      "reason": "SOL preserves the war, its timing, and the parents' fear in a natural rhetorical form."
+    },
+    {
+      "hunk_id": "H065",
+      "decision": "SOL",
+      "reason": "SOL retains the nearby unidentified martial artists and Hanga's involvement."
+    },
+    {
+      "hunk_id": "H066",
+      "decision": "SOL",
+      "reason": "Asked anxiously flows directly into the following question without changing the speaker's concern."
+    },
+    {
+      "hunk_id": "H067",
+      "decision": "SOL",
+      "reason": "After that makes the temporal reference explicit and preserves the question."
+    },
+    {
+      "hunk_id": "H068",
+      "decision": "SOL",
+      "reason": "I did naturally answers whether she heard them."
+    },
+    {
+      "hunk_id": "H069",
+      "decision": "SOL",
+      "reason": "Rose to his feet preserves the hurried movement in natural English."
+    },
+    {
+      "hunk_id": "H070",
+      "decision": "SOL",
+      "reason": "May have come to harm faithfully conveys the feared misfortune."
+    },
+    {
+      "hunk_id": "H071",
+      "decision": "SOL",
+      "reason": "SOL keeps the reassuring promise to sneak over and look around."
+    },
+    {
+      "hunk_id": "H072",
+      "decision": "SOL",
+      "reason": "Propped against one corner accurately describes the axe's position."
+    },
+    {
+      "hunk_id": "H073",
+      "decision": "SOL",
+      "reason": "Pardon is a natural response to the abrupt command."
+    },
+    {
+      "hunk_id": "H074",
+      "decision": "SOL",
+      "reason": "SOL preserves the old man's rising and the loud knee cracks."
+    },
+    {
+      "hunk_id": "H075",
+      "decision": "SOL",
+      "reason": "SOL retains the hearty meal, stroll, and joking payment for food."
+    },
+    {
+      "hunk_id": "H076",
+      "decision": "SOL",
+      "reason": "SOL keeps Jang-pal's blank stare and hollow laugh without unnecessary repetition."
+    },
+    {
+      "hunk_id": "H077",
+      "decision": "SOL",
+      "reason": "That's no place for you is the natural English warning intended by the line."
+    },
+    {
+      "hunk_id": "H078",
+      "decision": "SOL",
+      "reason": "You have it backward preserves the reversal and the warning in idiomatic dialogue."
+    },
+    {
+      "hunk_id": "H079",
+      "decision": "BASE",
+      "reason": "SOL drops both the return reference and the source's explicit question about whether he can come back."
+    },
+    {
+      "hunk_id": "H080",
+      "decision": "SOL",
+      "reason": "Gazed preserves the old man's unreadable stare in smoother prose."
+    },
+    {
+      "hunk_id": "H081",
+      "decision": "SOL",
+      "reason": "SOL keeps the deep, subdued, unfathomable eyes and the breath-catching effect."
+    },
+    {
+      "hunk_id": "H082",
+      "decision": "SOL",
+      "reason": "SOL preserves the repeated slight degree, the danger, and the threat of leaving his daughter fatherless."
+    },
+    {
+      "hunk_id": "H083",
+      "decision": "BASE",
+      "reason": "SOL drops the source's vivid image of the eyes flashing like a streak of light."
+    },
+    {
+      "hunk_id": "H084",
+      "decision": "SOL",
+      "reason": "SOL preserves the pretense that nothing happened and the offered hand."
+    },
+    {
+      "hunk_id": "H085",
+      "decision": "SOL",
+      "reason": "Give it here is the natural English form of the request."
+    },
+    {
+      "hunk_id": "H086",
+      "decision": "SOL",
+      "reason": "SOL keeps Jang-pal's spellbound surrender of the axe."
+    },
+    {
+      "hunk_id": "H087",
+      "decision": "SOL",
+      "reason": "Maintained it well preserves the compliment about the axe's condition."
+    },
+    {
+      "hunk_id": "H088",
+      "decision": "SOL",
+      "reason": "SOL retains the sharpened blade, the sensed atmosphere, and Hanga's wet eyes."
+    },
+    {
+      "hunk_id": "H089",
+      "decision": "SOL",
+      "reason": "Why the long face is a natural equivalent for the child's gloomy expression."
+    },
+    {
+      "hunk_id": "H090",
+      "decision": "SOL",
+      "reason": "The clipped reply preserves the old man's gentle but firm correction."
+    },
+    {
+      "hunk_id": "H091",
+      "decision": "SOL",
+      "reason": "SOL keeps the impending cry and the old man's soft, comforting voice."
+    },
+    {
+      "hunk_id": "H092",
+      "decision": "SOL",
+      "reason": "SOL preserves the warning, parental obedience, and request for understanding."
+    },
+    {
+      "hunk_id": "H093",
+      "decision": "SOL",
+      "reason": "You come back is natural direct address from Hanga to Grandpa."
+    },
+    {
+      "hunk_id": "H094",
+      "decision": "SOL",
+      "reason": "Quiet laugh preserves the restrained amusement."
+    },
+    {
+      "hunk_id": "H095",
+      "decision": "SOL",
+      "reason": "What couldn't I do keeps the old man's confident rhetorical boast."
+    },
+    {
+      "hunk_id": "H096",
+      "decision": "SOL",
+      "reason": "Snapped out of his daze naturally captures his sudden return to awareness."
+    },
+    {
+      "hunk_id": "H097",
+      "decision": "SOL",
+      "reason": "SOL preserves Jang-pal's self-reproach and the old-age illness context."
+    },
+    {
+      "hunk_id": "H098",
+      "decision": "SOL",
+      "reason": "Put a stop to this naturally conveys correcting the situation immediately."
+    },
+    {
+      "hunk_id": "H099",
+      "decision": "SOL",
+      "reason": "Give me back the axe fits the immediate context and preserves the broken-off protest."
+    },
+    {
+      "hunk_id": "H100",
+      "decision": "SOL",
+      "reason": "Words died in his throat naturally conveys that he could not finish speaking."
+    },
+    {
+      "hunk_id": "H101",
+      "decision": "SOL",
+      "reason": "Breaking apart preserves the blade's progressive destruction."
+    },
+    {
+      "hunk_id": "H102",
+      "decision": "SOL",
+      "reason": "SOL keeps the yellow teeth, chicken-bone comparison, careful sharpening, and piece-by-piece breakage."
+    },
+    {
+      "hunk_id": "H103",
+      "decision": "SOL",
+      "reason": "Daughter is supported by the established context and preserves the praise for Hanga's judgment."
+    },
+    {
+      "hunk_id": "H104",
+      "decision": "SOL",
+      "reason": "From earlier retains the recent conversation without redundant exposition."
+    },
+    {
+      "hunk_id": "H105",
+      "decision": "BASE",
+      "reason": "SOL resolves the source's intentionally vague recollection into the unsupported physical action of having passed the village."
+    },
+    {
+      "hunk_id": "H106",
+      "decision": "BASE",
+      "reason": "SOL drops the source's emphatic only/even nuance in the old man's incredulous question."
+    },
+    {
+      "hunk_id": "H107",
+      "decision": "BASE",
+      "reason": "SOL broadens the specific feat of walking three hundred li into merely traveling that distance."
+    },
+    {
+      "hunk_id": "H108",
+      "decision": "SOL",
+      "reason": "The generic realization is immediately clarified by the next line and preserves the reveal's timing."
+    },
+    {
+      "hunk_id": "H109",
+      "decision": "BASE",
+      "reason": "SOL changes an explicit question into merely looking; the source states that the old man asked Jang-pal."
+    },
+    {
+      "hunk_id": "H110",
+      "decision": "SOL",
+      "reason": "The comma is stylistic only; the question's meaning is unchanged."
+    },
+    {
+      "hunk_id": "H111",
+      "decision": "SOL",
+      "reason": "SOL preserves Jang Taebo's joyful voice in natural prose."
+    },
+    {
+      "hunk_id": "H112",
+      "decision": "SOL",
+      "reason": "In the world is a natural equivalent for the greatest weapon under heaven."
+    },
+    {
+      "hunk_id": "H113",
+      "decision": "SOL",
+      "reason": "Ding preserves the System sound effect; punctuation does not alter its function."
+    },
+    {
+      "hunk_id": "H114",
+      "decision": "SOL",
+      "reason": "SOL accurately preserves the quest completion, title, and linked-quest notice in the required System panel."
+    },
+    {
+      "hunk_id": "H115",
+      "decision": "SOL",
+      "reason": "On closer inspection preserves the correction from dumbfounded to horrified."
+    },
+    {
+      "hunk_id": "H116",
+      "decision": "SOL",
+      "reason": "Took its word for it naturally conveys reliance on the System's identification."
+    },
+    {
+      "hunk_id": "H117",
+      "decision": "SOL",
+      "reason": "SOL preserves the emphatic objection to saying probably."
+    },
+    {
+      "hunk_id": "H118",
+      "decision": "SOL",
+      "reason": "Tell me about it naturally conveys the narrator's shared exasperation."
+    },
+    {
+      "hunk_id": "H119",
+      "decision": "BASE",
+      "reason": "SOL narrows the source's upper-circle assumption to people specifically at Jang Taebo's level."
+    },
+    {
+      "hunk_id": "H120",
+      "decision": "SOL",
+      "reason": "SOL preserves the apple-flavoring analogy and its percentage."
+    },
+    {
+      "hunk_id": "H121",
+      "decision": "SOL",
+      "reason": "SOL keeps the material's rarity inference while smoothing the conditional phrasing."
+    },
+    {
+      "hunk_id": "H122",
+      "decision": "SOL",
+      "reason": "SOL preserves the contrast between five or ten percent material and a hundred percent."
+    },
+    {
+      "hunk_id": "H123",
+      "decision": "SOL",
+      "reason": "Enormous advantage keeps the same degree of emphasis."
+    },
+    {
+      "hunk_id": "H124",
+      "decision": "SOL",
+      "reason": "SOL naturally expresses the gear-based head start."
+    },
+    {
+      "hunk_id": "H125",
+      "decision": "SOL",
+      "reason": "Played hard to get naturally captures Jang Taebo's earlier dismissive evasiveness."
+    },
+    {
+      "hunk_id": "H126",
+      "decision": "SOL",
+      "reason": "Obtain preserves the question about the source of the enormous quantity."
+    },
+    {
+      "hunk_id": "H127",
+      "decision": "SOL",
+      "reason": "That's a secret is natural dialogue with no semantic change."
+    },
+    {
+      "hunk_id": "H128",
+      "decision": "SOL",
+      "reason": "SOL preserves the hesitant question about discovering a mine with vast deposits."
+    },
+    {
+      "hunk_id": "H129",
+      "decision": "SOL",
+      "reason": "SOL keeps the high-beam image and the unfinished implication about his sudden change."
+    },
+    {
+      "hunk_id": "H130",
+      "decision": "BASE",
+      "reason": "SOL changes the source's cold refusal into a merely firm one and adds the unsupported qualifier supposed."
+    },
+    {
+      "hunk_id": "H131",
+      "decision": "SOL",
+      "reason": "I'm begging you naturally conveys the artisan's desperate plea."
+    },
+    {
+      "hunk_id": "H132",
+      "decision": "SOL",
+      "reason": "SOL preserves the artisan's decades-long devotion and the intensity in his eyes."
+    },
+    {
+      "hunk_id": "H133",
+      "decision": "SOL",
+      "reason": "Please fits the drawn-out appeal and the surrounding begging more naturally than a generic summons."
+    },
+    {
+      "hunk_id": "H134",
+      "decision": "SOL",
+      "reason": "Rubbing off naturally preserves the joke that Hanga's speech pattern has spread to the speaker."
+    },
+    {
+      "hunk_id": "H135",
+      "decision": "SOL",
+      "reason": "Pierced my eardrums preserves the sharp intrusive effect of the voice."
+    }
+  ]
+}
