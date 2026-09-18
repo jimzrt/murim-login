@@ -1,6 +1,6 @@
 # Kim Jeonghee (김정희)
 
-- **Safe through:** Chapter 300
+- **Safe through:** Chapter 328
 - **Aliases:** Hayeon's mom, Taekyung's mom, Ajumma
 - **Role:** Fifty-year-old mother of Jin Taekyung and Hayeon; after defending Taekyung from the restaurant owner, she quits her restaurant kitchen job and leaves with him.
 - **Personality:** Usually quiet, gentle, patient, and family-protective; becomes fierce when Taekyung or her family is insulted.

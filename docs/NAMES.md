@@ -1130,3 +1130,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 석삼 | **Seok Sam** | Caravan porter who died during the current Yongbong Escort Bureau mission. |
 | 몽혼제 | **mind-clouding drug** | Narcotic that clouds the mind and induces sleep. |
 | 낭중지추 | **needle in a bag** | Idiom meaning exceptional talent eventually reveals itself. |
+| 송표산 | **Song Pyosan** | Song Ilseom's father. |
+| 여사 | **Lady** | Taekyung's joking sobriquet for Kim Jeonghee. |
