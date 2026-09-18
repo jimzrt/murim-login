@@ -96,13 +96,13 @@ On the day snow came pouring from the sky, a man who had lived as Jangcheon died
 
 His subdued voice continued.
 
-“I told them that a blood relative had died right there. That I had come because I wanted to recover whatever remained of his body.”
+“I told them that a blood relative had died right there. That I had come to recover whatever remained of his body.”
 
 “…”
 
 “That was when I realized something. Even if I had met that boy before you did, I could never have killed him. I would have let him go again, only to regret it afterward.”
 
-It was difficult to imagine what expression Jeok Cheongang wore on the other side of the door.
+I couldn’t imagine what expression Jeok Cheongang wore on the other side of the door.
 
 After hesitating, I asked, “Did you find his body?”
 
@@ -146,9 +146,9 @@ That was the Volcano Gate Clan for you. Ruthless.
 
 They burned everyone with the Flame Divine Palm, no matter who it was.
 
-I didn’t know the history of the Fire Gate Clan or the names of its past Sect Leaders, but looking at Jeok Cheongang, I could make a rough guess.
+I didn’t know the history of the Fire Gate Clan or the names of its past Sect Leaders, but looking at Jeok Cheongang gave me a pretty good idea.
 
-*An old sect of thugs.*
+*An ancient sect of thugs.*
 
 They said beans grew where beans were planted and red beans where red beans were planted.
 
@@ -156,7 +156,7 @@ Like master, like disciple. Jopil was the exception, of course.
 
 *Anyway, this isn’t what I came here to talk about.*
 
-I was watching the silhouette inside the pavilion while trying to read the situation when Jeok Cheongang suddenly spoke.
+I was watching the silent silhouette sip his liquor and trying to gauge his mood when Jeok Cheongang suddenly spoke.
 
 “From now on, the Fire Heaven Sword is yours.”
 
@@ -182,7 +182,7 @@ Jeok Cheongang tipped back yet another cup of liquor before continuing.
 
 What the hell was he talking about?
 
-I stood there with my mouth hanging open at this shocking truth I had never expected.
+I stood there with my mouth hanging open at the shocking revelation.
 
 “That was all a lie? You’re messing with me, right?”
 
@@ -190,7 +190,7 @@ I stood there with my mouth hanging open at this shocking truth I had never expe
 
 “You said it in front of everyone! ‘I entrusted that boy with the Fire Gate Clan’s sacred treasure!’”
 
-“I did. Because we were in front of everyone.”
+“I did. Because everyone was there.”
 
 Jeok Cheongang continued in an indifferent voice.
 
@@ -265,7 +265,7 @@ I spun around without looking back. In the same instant, I pulled the Flame Divi
 
 If he reached out now, the manual would turn to ash.
 
-Jeok Cheongang, startled, hastily pulled back his fist. I took advantage of the opening and ran with all my might.
+Jeok Cheongang recoiled in alarm and hastily pulled back his fist. I seized the opening and ran for my life.
 
 “I’m sorry! I’m really sorry! Please spare me!”
 
@@ -299,17 +299,17 @@ Despite being cursed by a little pup, Jeok Cheongang wasn’t offended.
 
 No, if anything, he felt relieved.
 
-“That’s right. I am a damn old man. A senile old man, too. Heh heh. Heh heh heh.”
+“That’s right. I am a damn old man. A senile old fool, too. Heh heh. Heh heh heh.”
 
 After his Master died, no one had dared criticize or curse Jeok Cheongang to his face.
 
 He was the Fire King, a great martial artist who had single-handedly written himself into legend.
 
-And yet, hearing that one remark from Jin Taekyung made him feel as though something that had been blocked for a long time had suddenly burst open.
+Yet hearing those words from Jin Taekyung made him feel as though something that had been blocked for years had finally burst open.
 
 “How refreshing. Truly refreshing.”
 
-As people grow older, they become lonelier day by day. Not because they have no one with whom to share their warmth, but because they have no one to lean on.
+As people grew older, they became lonelier by the day. Not because they had no one beside them, but because they had no one to lean on.
 
 Jeok Cheongang could serve as someone else’s support, but he had grown too old to lean on anyone himself.
 
@@ -343,7 +343,7 @@ They would be memories.
 
 After pacing around the courtyard for a long while, Jeok Cheongang suddenly stopped.
 
-The image of Jangcheon that had been flickering before his eyes vanished, replaced by someone he had never expected to think of.
+Jangcheon’s face vanished from before his eyes, replaced by someone he had never expected to think of.
 
 *Why him?*
 
@@ -353,18 +353,18 @@ The way he cautiously gauged Jeok Cheongang’s mood, yet still took every cutti
 
 *Did I get angry without realizing it because he called me a damn old man?*
 
-Jeok Cheongang was frowning when—
+Jeok Cheongang frowned.
 
 Sizzle.
 
-The sound of something burning filled the air, followed by a thin trail of smoke.
+Something began to burn, sending up a thin trail of smoke.
 
 Realizing where the sound had come from, his eyes flew open.
 
 “The manual!”
 
-The cover of the Flame Divine Palm manual was already half-burned.
+The cover of the Flame Divine Palm manual had already burned halfway through.
 
 Jeok Cheongang let out a furious roar.
 
-“Jin Taekyung! You damned bastard!”
+“Jin Taekyung! You bastard! I’ll kill you!”
