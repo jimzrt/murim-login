@@ -1,0 +1,126 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "“……If, and I mean if, the Myriad-Poison Ring exists, can it treat Great Hero Jeok?”",
+      "defect": "The subject is changed from the physician being asked whether he can treat Great Hero Jeok to the ring itself performing the treatment.",
+      "id": "F01",
+      "rationale": "Tang Sadok directly asks whether the Divine Physician can treat Jeok Cheongang if the ring exists.",
+      "replacement": "“……If—and I mean if—the Myriad-Poison Ring exists, can you treat Great Hero Jeok?”",
+      "severity": "critical",
+      "source": "“……만약, 아주 만약에 만독지환이 있다면 적 대협을 치료할 수 있겠느냐?”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "If the Sichuan Tang Clan was incompetent, most of the sects scattered throughout the world would have to bolt their gates and enter closed seclusion.",
+      "defect": "“Enter closed seclusion” describes individual cultivation and adds an action not present in 봉문, which means closing a sect to the outside world.",
+      "id": "F02",
+      "rationale": "The sentence says those sects should close their gates and withdraw as organizations, not begin secluded cultivation.",
+      "replacement": "If the Sichuan Tang Clan was incompetent, most of the sects scattered throughout the world might as well bar their gates and shut themselves off from the martial world.",
+      "severity": "major",
+      "source": "사천당문이 무능하다면 천하에 산재한 문파 대부분은 빗장 걸고 봉문 해야지."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“If you are the Divine Physician, it is possible.”",
+      "defect": "The conditional wording makes the Divine Physician’s identity sound uncertain. Mungyeong is categorically expressing faith in his Master’s ability.",
+      "id": "F03",
+      "rationale": "신의라면 means that if anyone can accomplish the treatment, the Divine Physician can; it does not question whether the addressee is truly the Divine Physician.",
+      "replacement": "“The Divine Physician can do it.”",
+      "severity": "major",
+      "source": "“신의라면, 가능합니다.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“What will you do if the culprit flees to the ends of the earth while Great Hero Jeok is being treated?”",
+      "defect": "“To the ends of the earth” omits the explicit possibility that the culprit escapes to a distant foreign land.",
+      "id": "F04",
+      "rationale": "이역만리 specifically evokes a foreign land an immense distance away.",
+      "replacement": "“What will you do if the culprit flees to some far-off foreign land while Great Hero Jeok is being treated?”",
+      "severity": "minor",
+      "source": "“만약 적 대협이 치료받는 사이 흉수가 이역만리로 도망친다면 어쩌겠느냐?”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“You’re an amusing bastard. The culprit is someone who wouldn’t satisfy me even if I tore him to pieces and killed him, but he is also an extraordinary master. Do you think a blood brat like you can capture someone like that?”",
+      "defect": "The first clause is an unnatural calque that makes the culprit the subject of “satisfy,” while “blood brat” is not idiomatic English for 핏덩이.",
+      "id": "F05",
+      "rationale": "찢어 죽여도 시원찮다 means that even brutally killing him would not assuage Tang Sadok’s anger, and 핏덩이 disparages Taekyung as an inexperienced youngster.",
+      "replacement": "“You’re an amusing bastard. Even tearing the culprit limb from limb wouldn’t be enough, but he is also an extraordinary master. Do you think a wet-behind-the-ears brat like you can capture someone like that?”",
+      "severity": "minor",
+      "source": "“웃긴 놈이군. 흉수는 찢어 죽여도 시원찮을 놈이지만, 엄청난 고수다. 그런 놈을 너 같은 핏덩이가 사로잡을 수 있겠느냐?”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“If I don’t think I can capture him, I’ll have to kill him.”",
+      "defect": "The translation omits 도저히, weakening the condition from capture appearing wholly impossible to Taekyung merely doubting his ability.",
+      "id": "F06",
+      "rationale": "도저히 marks capture as effectively impossible before Taekyung resorts to killing the culprit.",
+      "replacement": "“If there’s absolutely no way to capture him, I’ll have to kill him.”",
+      "severity": "minor",
+      "source": "“도저히 사로잡지 못할 것 같으면 죽여야죠.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "What the hell was he talking about?",
+      "defect": "The strong profanity 시벌 is softened to “hell.”",
+      "id": "F07",
+      "rationale": "The narration uses an emphatic vulgar expletive at the apparent revelation that the ring does not exist.",
+      "replacement": "What the fuck was he talking about?",
+      "severity": "minor",
+      "source": "아니 시벌, 이게 무슨 소리야."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Damn it! Then you should have said that from the beginning! Were you messing with me this whole—”",
+      "defect": "The strong profanity 시부럴 is softened to “Damn it.”",
+      "id": "F08",
+      "rationale": "Taekyung erupts with strong profanity after believing Tang Sadok has toyed with him.",
+      "replacement": "“Fuck! Then you should have said that from the beginning! Have you been messing with me this whole—”",
+      "severity": "minor",
+      "source": "“시부럴 거. 그럼 처음부터 그렇게 얘기를 하시든가! 지금 저랑 장난합…….”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“The name makes it sound extremely dangerous.”",
+      "defect": "The translation sanitizes the emphatic profanity 존나.",
+      "id": "F09",
+      "rationale": "존나 is strongly vulgar and reflects Taekyung’s alarmed, irreverent voice.",
+      "replacement": "“The name alone sounds fucking dangerous.”",
+      "severity": "minor",
+      "source": "“이름부터 존나 위험해 보이는데요.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Dang Mimi. That is the name I gave it.”",
+      "defect": "The established Tang surname is re-romanized as “Dang,” creating an inconsistent name for Tang Sadok’s snake.",
+      "id": "F10",
+      "rationale": "당 is consistently rendered as Tang for the Tang Clan and Tang Sadok; the snake’s full name follows the same surname.",
+      "replacement": "“Tang Mimi. That is the name I gave it.”",
+      "severity": "major",
+      "source": "“당미미. 이 녀석에게 내가 붙여 준 이름이지.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“But we do not know when it might change. Is it not a venomous creature capable of killing a hundred cows with a single drop of poison?”\n\n“You have nothing to worry about. This one has no poison.”\n\n“What?”\n\n“To be precise… it would be more accurate to say that the poison disappeared.”",
+      "defect": "“Might change” obscures the danger that the snake could suddenly turn violent, while repeatedly calling its biological venom “poison” blurs the mechanism later revealed to involve the ring absorbing that venom.",
+      "id": "F11",
+      "rationale": "돌변 describes an abrupt hostile change in behavior, and the 독 possessed by a venomous snake and delivered in a drop is venom.",
+      "replacement": "“But we do not know when it might suddenly turn on us. Is it not a venomous creature capable of killing a hundred cows with a single drop of its venom?”\n\n“You have nothing to worry about. This one has no venom.”\n\n“What?”\n\n“To be precise… it would be more accurate to say that its venom is gone.”",
+      "severity": "major",
+      "source": "“하지만 언제 돌변할지 모릅니다. 한 방울의 독으로도 백 마리의 소를 죽일 수 있는 독물 아닙니까.”\n\n“걱정할 것 없소. 이 녀석에게는 독이 없으니까.”\n\n“예?”\n\n“정확히 말하자면…… 없어졌다고 해야 옳겠지.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "> **System**\n>\n> - Quest Condition, **Acquire Myriad-Poison Ring**, has been completed!\n>\n> - Chain Quest, **Myriad-Poison Ring**, has been successfully completed!",
+      "defect": "The completed condition uses the imperative “Acquire” rather than the established completed-state rendering “Acquired.”",
+      "id": "F12",
+      "rationale": "습득 is the completed acquisition state here, and the binding terminology specifies “Acquired.”",
+      "replacement": "> **System**\n>\n> - Quest Condition complete: **Myriad-Poison Ring Acquired**!\n>\n> - Chain Quest **Myriad-Poison Ring** has been successfully completed!",
+      "severity": "minor",
+      "source": "- 퀘스트 조건, [만독지환 습득]을 완료했습니다!\n\n- 연계 퀘스트, [만독지환(萬毒指環)]을 성공적으로 완료했습니다!"
+    }
+  ],
+  "summary": "One critical subject error changes who performs Jeok Cheongang’s treatment. Additional findings concern sect closure, Mungyeong’s categorical confidence, omitted register and geographic nuance, the romanization of Tang Mimi, venom mechanics, and System terminology.",
+  "version": 1
+}

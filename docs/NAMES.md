@@ -1211,3 +1211,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 녹영대 | **Green Shadow Squad** | Sichuan Tang Clan unit specializing in intelligence and assassination. |
 | 익산 | **Yishan** | Sichuan location named in Tang Sadok's deployment report. |
 | 삼합 | **Sanhe** | Sichuan location named in Tang Sadok's deployment report. |
+| 대사천당문 | **great Sichuan Tang Clan** | Exalted form of the Sichuan Tang Clan. |
+| 당미미 | **Tang Mimi** | Name Tang Sadok gave to his Thousand-Year Poison Horned Snake. |
+| 미미쨩 | **Mimi-chan** | Affectionate form used for Tang Mimi. |
