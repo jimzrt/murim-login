@@ -3,6 +3,10 @@ name: Deploy GitHub Pages
 on:
   push:
     branches: [master]
+    paths:
+      - "reader/**"
+      - "translations/**"
+      - "summaries/**"
   workflow_dispatch:
 
 permissions:

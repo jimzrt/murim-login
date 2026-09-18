@@ -3,6 +3,8 @@ name: Publish ebook release
 on:
   push:
     branches: [master]
+    paths:
+      - "translations/**"
   workflow_dispatch:
 
 permissions:
