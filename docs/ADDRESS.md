@@ -509,3 +509,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 기련삼괴 | 서천마군 | subordinates_to_commander | my lord | fearful and deferential | The brothers greet the Western Heaven Demon Lord as 마군. |
 | 진태경 | 천력마 | prisoner_feeder_to_prisoner | you | casual and mocking | Taekyung questions the Heavenly Power Demon and mocks him as the Kunlun Sect's public-pissing criminal. |
 | 천력마 | 진태경 | prisoner_to_prisoner_feeder | you | gruff and self-possessed | The Heavenly Power Demon speaks of himself as 노부 while questioning Taekyung. |
+| 수문각주 | 당사독 | nephew_to_uncle | Uncle | urgent-deferential | Uses 숙부님 when urgently entering and reporting to Tang Sadok. |
+| 호위 | 당사독 | guard_to_Family_Head | Family Head | formal-deferential | Uses 가주님 while reporting Jin Taekyung's request. |

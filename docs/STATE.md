@@ -1,24 +1,24 @@
 # Translation State
 
-- Last completed: 350
-- Next chapter: 351
-- Current block: 350–354 (1/5)
-- Latest translation: `translations/0350.md`
-- Latest summary: `summaries/beats/0350.md`
-- Safe profiles through: chapter 350
+- Last completed: 351
+- Next chapter: 352
+- Current block: 350–354 (2/5)
+- Latest translation: `translations/0351.md`
+- Latest summary: `summaries/beats/0351.md`
+- Safe profiles through: chapter 351
 
 ## Current Block
 
-- Jin Taekyung continues distributing food in the Sichuan Tang Clan's underground prison and tries for three days to coax the Heavenly Power Demon into eating and revealing what he knows about Dark Heaven. The Heavenly Power Demon refuses every comfort and says that torture or death would leave him without regret.
-- Cheongpung returns with food and a Beggars' Sect letter reporting that the search has shifted from finding the Divine Physician to finding the culprit who murdered the Poison King and the Heaven-Shaking Venerable Nun. The Beggars' Sect, the Tang Clan's Green Shadow Squad, and government troops are searching across Sichuan, with the government troops expanding toward Qingcheng and Emei while preparing for another possible incident; Jeok Cheongang's treatment remains ongoing.
-- Jang Il, a twenty-five-year-old two-knot Beggars' Sect Disciple, is killed in a secluded forest two days from Emei by a smiling middle-aged military official who orders his subordinates to find the other nearby Beggars' Sect members.
+- After ten days in the underground prison, Jin Taekyung completes his qi circulation and discovers that Cheongpung possesses more internal energy than he does, having accumulated it naturally and undergone repeated cleansing of the sinews and washing of the marrow as a child. The Divine Physician and Mungyeong then emerge from the corridor, exhausted but smiling.
+- The Divine Physician announces that Jeok Cheongang's treatment succeeded ahead of schedule. Jeok's vitality has returned, his body has visibly rejuvenated, the Yin and Yang are balanced, and no Formless Ultimate Poison remains; he remains unconscious but should awaken within three days. The Divine Physician stays to watch over him, while Mungyeong prepares to leave and check on Venerable Myoryeong.
+- Tang Sadok permits Jin Taekyung to keep using the Myriad-Poison Ring and remain in the underground prison for several more days, while ordering continued surveillance. Tang Sadok vows to pursue the one-armed murderer of his father and the Heaven-Shaking Venerable Nun, but a bloodied Green Shadow Squad martial artist suddenly arrives and warns that someone is coming.
 
 ## Open Questions
 
-- Will the fifteen-day treatment save Jeok Cheongang, and will Venerable Myoryeong recover from the Black Hand Seal?
+- Has Venerable Myoryeong regained consciousness, and will she recover fully from the Black Hand Seal?
 - What special condition is required to appraise the Myriad-Poison Ring?
 - What is the identity and purpose of the Lord of Heaven, and what is Dark Heaven's relationship to the Demonic Cult?
-- Who murdered the Poison King and the Heaven-Shaking Venerable Nun, and can the search identify the culprit?
+- Who murdered Tang Taesang and the Heaven-Shaking Venerable Nun, and can the search identify the one-armed culprit?
 - Can Emei, Qingcheng, and the Sichuan Tang Clan withstand the Western Heaven Demon Lord's planned hunt?
 
 ## Exceptional Decision
