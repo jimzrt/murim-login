@@ -68,7 +68,7 @@ I pressed forward and thrust my spear.
 
 The movements engraved into my body and mind unfolded in rapid succession.
 
-Thrust. Cut. Block and strike with the shaft. Simple on their own, but the order and the angles made countless combinations.
+Thrust. Cut. Block with the shaft, then strike. Each movement was simple on its own, but changing the order and target created countless combinations.
 
 That was my definition of martial arts.
 
@@ -146,7 +146,7 @@ I kicked the Hobgoblin Great Warrior’s greatsword, which I’d been using as a
 
 “Two mid-grade Rare Monsters? In an E-rank Gate?”
 
-I got the reaction. This had to at least make some kind of sense.
+I understood his reaction. This was too absurd to make any sense.
 
 The official spent a while looking back and forth between us and the equipment before finally nodding with a miserable expression.
 
@@ -156,9 +156,9 @@ The official spent a while looking back and forth between us and the equipment b
 
 Im Kkeokjeong had regained consciousness at some point. I was supporting him, and he’d suffered severe injuries, including at least five broken bones.
 
-“Call a healer. A pretty unnie.”
+“Call us a healer. A pretty one.”
 
-The E-rank trio dropped onto the ground as well.
+The E-rank trio collapsed onto the ground as well.
 
 “And potions! Potions! Give us the good stuff!”
 
@@ -208,7 +208,7 @@ At that moment, I planted one foot on the middle of the spear and slowly pressed
 
 Before the majesty of my three-digit Strength stat, the iron spear bent like taffy.
 
-“Looks perfectly fine? This?”
+“Perfectly fine? This does?”
 
 “…”
 
@@ -216,13 +216,13 @@ Team Leader Choi shut his mouth.
 
 * * *
 
-Team Leader Choi was called away by the officials dispatched to take charge, and the other four were moved to an ambulance for treatment.
+As the person in charge, Team Leader Choi was called away by the dispatched officials, while the other four were taken to an ambulance for treatment.
 
 Instead of the musty break room, I was left alone in a spacious, comfortable office. Now that the moment had finally arrived, my heart began to pound.
 
 *St-Status Window?*
 
-At that half-doubtful call, the System answered.
+The System answered my doubtful summons.
 
 Ding.
 
@@ -267,9 +267,9 @@ All five hundred Fame I’d accumulated had been earned as a martial artist in M
 
 If I earned a Title here, it would probably be something like *Scion of the Common Folk*. Or *Earthworm* instead of *Hidden Dragon*.
 
-“How much else changed?”
+“What else changed?”
 
-For about ten minutes I turned every System function on and off and tested them. The only thing that had changed was the Status Window.
+For the next ten minutes or so, I opened, closed, and tested every System function. The Status Window was the only thing that had changed.
 
 No. There was one more.
 
@@ -343,7 +343,7 @@ An F-rank Hunter single-handedly killing a C-rank Rare Monster was unprecedented
 
 So I had asked him:
 
-“Could you keep what concerns me a secret?”
+“Could you keep what happened with me a secret?”
 
 It must have been a difficult request from Team Leader Choi’s perspective. I was asking him to give a false statement for someone he’d only just met.
 
@@ -377,7 +377,7 @@ The man was impossible to read.
 
 And he was rich too.
 
-“I never get to eat it.”
+“I can never get enough of it.”
 
 This wasn’t just any beef. It was Hanwoo. Top-grade Hanwoo, at that.
 

@@ -30,7 +30,7 @@ Both arms gone in an instant, the Hobgoblin Great Warrior bellowed, the sound sm
 
 —Kuwaaaaaargh!
 
-But I still couldn’t let my guard down. Even without arms, it was more than dangerous enough bare-handed.
+But I still couldn’t let my guard down. Even without arms, its body alone was still more than dangerous enough.
 
 “Yeah. Come on in.”
 
@@ -78,7 +78,7 @@ Swish. Swish-swish-swish!
 
 Second form. Third form. Fourth…
 
-Those hooked claws, hard as steel, were cut away. Every step it gave, a new wound opened and more blood spilled.
+Those hooked claws, hard as steel, were cut away. With every step it retreated, a new wound opened and more blood spilled.
 
 Then the Hobgoblin Great Warrior’s back hit the wall.
 
@@ -263,7 +263,7 @@ The first things that jumped out were Fame reset to zero and two missing Titles.
 
 All five hundred Fame I’d stacked had been earned as a martial artist in Murim. The Title that had vanished, *Scion of a Prestigious Family*, made sense the same way.
 
-*Well, I’m not some prestigious family’s son here. And I’m sure as hell no Sleeping Dragon.*
+*Well, I’m not some prestigious family’s son here. And I’m sure as hell no Hidden Dragon.*
 
 If I were getting a Title here, it’d obviously be something like *Scion of the Common Folk*, or *Earthworm* instead of Sleeping Dragon.
 
@@ -337,7 +337,7 @@ Team Leader Choi looked at me with an odd expression. Like he was studying some 
 
 I didn’t want my strength out in the open. Even less now, when I still barely knew why the System was showing up in reality, or what it had to do with Murim.
 
-An F-rank Hunter killing a C-rank Rare Monster alone was unheard of. An awl in a bag pokes through. I’d lived the opposite kind of life, nothing sticking out, so I had to be careful.
+An F-rank Hunter killing a C-rank Rare Monster alone was unheard of. A needle in a bag eventually pokes through. I’d lived the opposite kind of life, nothing sticking out, so I had to be careful.
 
 So I asked him.
 
