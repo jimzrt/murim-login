@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Martial artists who had mastered their movement techniques to the highest level could use arts like this.",
+      "defect": "The established Peak realm is replaced with the generic and potentially absolute “highest level,” obscuring the hierarchy that the following comparison with Supreme Peak masters establishes.",
+      "id": "F01",
+      "rationale": "절정 is the established Peak realm, and the passage distinguishes techniques available at that level from Stepping on Empty Air, which requires a Supreme Peak master.",
+      "replacement": "Martial artists who had mastered their movement techniques to the Peak realm could perform feats like this.",
+      "severity": "major",
+      "source": "신법을 절정으로 익힌 무인들은 이와 같은 기예를 사용할 수 있었는데, 눈밭을 달리면서도 흔적이 남지 않는 답설무흔(踏雪無痕)과 물 위를 평지처럼 걸어갈 수 있다는 등평도수(登萍渡水)도 비슷한 맥락이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "*Of course, if I really put my mind to it, I could probably use Flying Over Grass too.*",
+      "defect": "“Probably” turns Taekyung’s qualified but definite statement of capability into uncertainty.",
+      "id": "F02",
+      "rationale": "못 할 건 없다 states that he can do it if he chooses; it does not express doubt about whether he is capable.",
+      "replacement": "*Of course, Flying Over Grass isn’t beyond me either if I put my mind to it.*",
+      "severity": "major",
+      "source": "‘물론 초상비 정도는 나도 마음만 먹으면 못 할 건 없기는 한데.’"
+    },
+    {
+      "confidence": 0.98,
+      "current": "> - A Chain Quest, **A Long Journey in Search of an Elixir**, has been generated.",
+      "defect": "The localized quest title omits the explicit thirty-thousand-li numeric hyperbole.",
+      "id": "F03",
+      "rationale": "삼만리 specifically means thirty thousand li; reducing it to “a long journey” removes the title’s concrete exaggeration.",
+      "replacement": "> - A Chain Quest, **Thirty Thousand Li in Search of an Elixir**, has been generated.",
+      "severity": "minor",
+      "source": "- 연계 퀘스트, [영약 찾아 삼만리]가 생성되었습니다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "> - Chain Quest, **A Long Journey in Search of an Elixir**, successfully completed!",
+      "defect": "The second occurrence of the quest title likewise omits the explicit thirty-thousand-li hyperbole.",
+      "id": "F04",
+      "rationale": "The completed quest must retain the same title used when it was generated, including 삼만리.",
+      "replacement": "> - Chain Quest, **Thirty Thousand Li in Search of an Elixir**, successfully completed!",
+      "severity": "minor",
+      "source": "- 연계 퀘스트, [영약 찾아 삼만리]를 성공적으로 완료했습니다!"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The two Master and Disciple stared blankly at me before reaching out at the same time and accepting the object I offered them.",
+      "defect": "“The two Master and Disciple” is ungrammatical and treats the relationship labels as a malformed collective noun.",
+      "id": "F05",
+      "rationale": "The parenthetical characters 師弟 identify the pair as master and disciple; the replacement preserves both that relationship and their simultaneous action.",
+      "replacement": "Master and Disciple alike stared blankly at me, then reached out at the same time to take the object I held out.",
+      "severity": "minor",
+      "source": "멀뚱멀뚱 나를 바라보던 두 사제(師弟)는 동시에 손을 내밀어 내가 내민 물건을 받아든다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“It is more than enough!”",
+      "defect": "“More than” adds a degree of excess not stated in the source.",
+      "id": "F06",
+      "rationale": "충분하오 means that the ginseng is sufficient; the force of the moment comes from his vigorous nod and exclamation, not from an added claim that it exceeds the requirement.",
+      "replacement": "“It is enough!”",
+      "severity": "minor",
+      "source": "“충분하오!”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Thinking of how she had given it to me as a gift while lying that it was Hundred-Year-Old Snow Ginseng in case I found the Thousand-Year Snow Ginseng burdensome and refused it, I let out a quiet laugh.",
+      "defect": "The sentence awkwardly makes the ginseng itself sound “burdensome” and flattens 실소 into a generic quiet laugh.",
+      "id": "F07",
+      "rationale": "내가 부담스러워 describes Taekyung feeling burdened by such a valuable gift, while 실소 is a wry or incredulous chuckle rather than merely a quiet one.",
+      "replacement": "I let out a wry chuckle as I thought of how she had given it to me while passing the Thousand-Year Snow Ginseng off as Hundred-Year-Old Snow Ginseng, worried I might feel burdened and refuse it otherwise.",
+      "severity": "minor",
+      "source": "혹시 내가 부담스러워 거절할까 봐 천년설삼을 백년설삼으로 속이면서까지 선물해 준 그녀를 생각하자 실소가 새어 나왔다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "A small figure moved swiftly beside us.",
+      "defect": "The plural “us” changes the narrator-relative position, and “beside” drops the emphasis of 바로.",
+      "id": "F08",
+      "rationale": "바로 옆 is “right beside” the first-person narrator in this context, not generically beside the whole group.",
+      "replacement": "A small figure sped along right beside me.",
+      "severity": "minor",
+      "source": "바로 옆, 자그마한 신형이 빠르게 나아간다."
+    }
+  ],
+  "summary": "Two hierarchy and capability statements are weakened, the quest title loses its numeric hyperbole, and several localized fidelity or wording issues remain.",
+  "version": 1
+}
