@@ -1,6 +1,6 @@
 # Team Leader Choi
 
-- **Safe through:** Chapter 414
+- **Safe through:** Chapter 417
 - **Aliases:** Choi Minwoo (최민우)
 - **Role:** Allied team leader and Hunter who analyzes battlefield conditions during the Arch Lich operation.
 - **Personality:** Calm, analytical, and steady under extreme battlefield pressure.
