@@ -56,7 +56,7 @@ I had forced up my internal energy without regard for my internal injuries. I co
 
 Drool ran from the corner of my mouth.
 
-“Pfft. Puhahaha! Have you ever seen such a stupid bastard!”
+“Pfft. Puhahaha! What kind of idiot does that?”
 
 Jopil howled with laughter and snapped off the spearhead.
 
@@ -68,7 +68,7 @@ Now I didn’t even have a weapon. Despair darkened my vision.
 
 In the past seven years, death had never felt this close. I had fought more than a thousand times and survived. Was I really going to die here, of all places?
 
-This pointlessly?
+Just like that?
 
 *No. I can’t die like this…*
 
@@ -158,7 +158,7 @@ My whole body throbbed. I could barely move a finger.
 
 “Special circumstances?”
 
-The instructor grinned and added,
+The instructor grinned.
 
 “When your life is in danger. That skill might save you once.”
 
@@ -280,7 +280,7 @@ There was no lava. No heat of any kind.
 
 Only his battered, callused palm resting against my chest.
 
-A ripple ran through Jopil’s eyes.
+Jopil’s eyes trembled.
 
 “You…”
 
@@ -306,7 +306,7 @@ The result was a violent reversal of internal energy.
 
 Qi deviation.
 
-“You were definitely empty-handed.”
+“But you were empty-handed.”
 
 I answered wearily.
 
@@ -322,7 +322,7 @@ Pools of blood formed wherever he passed.
 
 A chilling, ghostly aura radiated from him as he screamed, drenched in blood. Even the reconnaissance squad members who had charged in ready to die trembled in fear.
 
-“Then why? Why, at the likes of you, would I—!”
+“Then why? Why am I dying to the likes of you?!”
 
 That was when the ember I’d thought extinguished burst into flame.
 
@@ -334,7 +334,7 @@ Terrible heat poured from every breath.
 
 A literal resurrection?
 
-No. This was Jopil’s last desperate struggle.
+No. This was Jopil’s final struggle.
 
 Everyone around me screamed in terror, but I could see it clearly. His hair was turning white by the second. His skin was shriveling.
 
@@ -346,7 +346,7 @@ Right now, he was…
 
 This was power gained by sacrificing the most precious thing he had, and every bit of it was aimed at me. I knew instinctively that I couldn’t dodge.
 
-*Can I do this? Me?*
+*Can I do this?*
 
 I picked up the fallen spear.
 
@@ -386,7 +386,7 @@ At that instant, I awakened the internal energy in my dantian. Inside my body, w
 
 The third, hardened like rock.
 
-My only option—and the last piece that would fill my Skill.
+My only option—and the final piece I needed to fuel my Skill.
 
 *Run wild as you please.*
 
@@ -400,13 +400,13 @@ Every muscle in my body pulled taut. From my calves and thighs, through my waist
 
 Condensed air burst from the broken spear tip.
 
-Matching it, Jopil thrust out his Flame Divine Palm.
+At the same moment, Jopil thrust out his Flame Divine Palm.
 
 “Dieeeee!”
 
 *Whoooosh.*
 
-A mound of snow erupted with the wind. Through the flakes drifting gently back down, Jopil came into view.
+Wind and snow erupted around us. Through the flakes drifting gently back down, Jopil came into view.
 
 His right arm, the one that had unleashed the Flame Divine Palm, was gone. So were his shoulder and side.
 
@@ -420,6 +420,6 @@ I dropped the spear and answered.
 
 The next instant, heaven and earth flipped.
 
-Beyond my blurring vision, Jopil’s already lifeless head shot high into the sky.
+Beyond my blurring vision, Jopil’s lifeless head shot high into the sky.
 
-Socheon was crying out loud, holding a sword as tall as he was.
+Socheon stood there sobbing, holding a sword as tall as he was.

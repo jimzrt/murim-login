@@ -20,7 +20,7 @@ Through my blurry vision, Jopil walked toward me. His unhurried stride had a vic
 
 I groped beside me and found a cool spear shaft. Using the spear as a cane, I barely made it to my feet—and saw Jopil’s scowling eyes.
 
-“You can still stand after taking a seventh-stage Flame Divine Palm… What a high-maintenance junior.”
+“You can still stand after taking a Flame Divine Palm at seventy percent power… What a high-maintenance junior.”
 
 *Wham!*
 
