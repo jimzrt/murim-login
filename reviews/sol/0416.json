@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "“Gate transformations were rare even during the Great Cataclysm. For one to occur, an extremely powerful monster had to take center stage and sink its mana into the area.”",
+      "defect": "“Take center stage” loses the mechanical explanation that the monster must serve as the phenomenon’s core, while “sink its mana” does not clearly preserve the image of mana taking root.",
+      "id": "F01",
+      "rationale": "주축이 되다 means to become the central axis or core, and 마력을 뿌리내리다 describes establishing or rooting mana in the location.",
+      "replacement": "“Gate transformations were rare even during the Great Cataclysm. For one to occur, an extremely powerful monster had to serve as its core and anchor its mana in the area.”",
+      "severity": "major",
+      "source": "“게이트화는 대격변 때도 드문 현상이었지. 그러기 위해서는 매우 강력한 몬스터가 주축이 되어 마력을 뿌리내려야 하니 말일세.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Humanity would undoubtedly be the final victor, but countless cities would be destroyed, and tens—or perhaps hundreds—of millions of people would die.",
+      "defect": "The draft incorrectly applies “millions” to both numerical terms, inflating the projected deaths from hundreds of thousands or millions to tens or hundreds of millions.",
+      "id": "F02",
+      "rationale": "수십 in this escalating construction elides 만 before the correction to 수백만, yielding hundreds of thousands followed by perhaps millions, not tens or hundreds of millions.",
+      "replacement": "Humanity would undoubtedly emerge victorious in the end, but countless cities would be destroyed, and hundreds of thousands—no, perhaps millions—of people would die.",
+      "severity": "critical",
+      "source": "분명 최후의 승자는 인간이 되겠지만, 수많은 도시가 파괴되고 수십, 아니 어쩌면 수백만 이상의 사람들이 죽을 것이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Do you suspect me and my friend as well?”",
+      "defect": "The possessive “my friend” invents a friendly relationship between Lee Jungryong and Wu Heixing and removes Lee’s distancing reference to “that fellow.”",
+      "id": "F03",
+      "rationale": "저 친구 refers deictically to Wu Heixing as “that fellow”; it does not identify him as Lee’s friend.",
+      "replacement": "“Do you suspect me and that fellow too?”",
+      "severity": "major",
+      "source": "「자네도 나와 저 친구를 의심하나?」"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Fucking Jonna fight!”",
+      "defect": "Leaving the Korean-derived intensifier “Jonna” unexplained produces meaningless English and loses the Formation J punchline.",
+      "id": "F04",
+      "rationale": "The line reveals that Formation J amounts to “Just fucking fight,” preserving the crude joke and the significance of the letter J.",
+      "replacement": "“Just fucking fight!”",
+      "severity": "major",
+      "source": "“Fucking Jonna fight!”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“I’m certain that these fucking bastards are more interested in stabbing me in the back than in the Arch Lich.”",
+      "defect": "The draft turns the source’s indirect, darkly comic reference to the back of Taekyung’s head into an explicit statement that they intend to betray him.",
+      "id": "F05",
+      "rationale": "내 뒤통수에 더 관심이 있다 alludes to being struck or betrayed without explicitly saying “stab me in the back,” and 뭐 그런 확신이요 supplies a separate deadpan qualification.",
+      "replacement": "“These fucking bastards are more interested in the back of my head than the Arch Lich. That’s what I’m certain of.”",
+      "severity": "major",
+      "source": "“이 씨벌 새끼들이 아크 리치보다는 내 뒤통수에 더 관심이 있구나. 뭐 그런 확신이요.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "A lightning-fast final strike.",
+      "defect": "The established term 일격 is replaced with the generic lowercase phrase “final strike.”",
+      "id": "F06",
+      "rationale": "The binding glossary establishes 일격 as “One Strike,” while 끝을 알리는 describes the blow as signaling the end.",
+      "replacement": "A lightning-fast One Strike that signaled the end.",
+      "severity": "minor",
+      "source": "끝을 알리는 번개 같은 일격."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Lee Jungryong looked around with sunken eyes before finally speaking.",
+      "defect": "“Sunken eyes” describes a physical, haggard appearance rather than the subdued or grave quality of Lee Jungryong’s gaze.",
+      "id": "F07",
+      "rationale": "가라앉은 modifies the mood of his gaze, not the physical position or condition of his eyes.",
+      "replacement": "Lee Jungryong swept his surroundings with a somber gaze, then spoke.",
+      "severity": "minor",
+      "source": "가라앉은 눈빛으로 주위를 둘러보던 이정룡이 입술을 뗐다."
+    }
+  ],
+  "summary": "One critical quantity error, with additional losses in the Gate mechanism, character relationships, humor, euphemism, terminology, and natural description.",
+  "version": 1
+}

@@ -1,6 +1,6 @@
 # Wu Heixing (우헤이싱)
 
-- **Safe through:** Chapter 415
+- **Safe through:** Chapter 416
 - **Aliases:** None
 - **Role:** Wu Heixing is a Chinese S-rank Hunter known for frequent media exposure and scandal who secretly practices martial arts, including an internal-energy cultivation technique and fist-and-foot martial arts.
 - **Personality:** Arrogant, status-conscious, abusive, and fiercely proud of his power, he responds to humiliation with anger and protects himself even while his allies die.
