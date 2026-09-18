@@ -450,3 +450,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 서안루 총관 | 혁소평 | establishment_manager_to_visiting_martial_artist | Young Hero Hyuk | formal-polite and firm | Warns Hyuk Sopyung that Xi’an Tower will formally complain to the Zhongnan Sect. |
 | 봉수 | 혁소평 | junior_disciple_to_same_generation_senior_disciple | Senior Brother | urgent and deferential | Uses 대사형 while urgently summoning Hyuk Sopyung. |
 | 혁소평 | 봉수 | same_generation_disciple_to_junior_disciple | Junior Brother | familiar and commanding | Recognizes Bong-su as a Junior Brother despite their different Masters. |
+| 혁소평 | 황보엄 | junior_disciple_to_senior_martial_uncle | Senior Martial Uncle | formal-deferential but strained | Hyuk Sopyung repeatedly addresses Hwangbo Eom as 사백 while resisting his criticism. |
+| 황보엄 | 혁소평 | senior_martial_uncle_to_junior_martial_artist | you; nobody like you | cold and contemptuous | Hwangbo Eom uses 네 녀석 and 네까짓 놈 while reprimanding Hyuk Sopyung. |
+| 주화란 | 황보엄 | visitor_to_Zhongnan_senior_martial_uncle | Great Hero Hwangbo | formal-deferential | Ju Hwaran formally introduces herself to Hwangbo Eom as the Taeeul Merciless Sword. |
