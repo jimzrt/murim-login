@@ -1,6 +1,6 @@
 # Tang Sadok (당사독)
 
-- **Safe through:** Chapter 338
+- **Safe through:** Chapter 340
 - **Aliases:** Myriad-Poison Asura
 - **Role:** Current Family Head of the Sichuan Tang Clan and son of Poison King Tang Taesang, responsible for directing the clan’s response to his father’s murder.
 - **Personality:** Grim, cold, blunt, suspicious, and unsentimental, with fierce concern for the Tang Clan’s affairs.

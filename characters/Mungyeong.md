@@ -1,6 +1,6 @@
 # Mungyeong (문경)
 
-- **Safe through:** Chapter 338
+- **Safe through:** Chapter 340
 - **Aliases:** None
 - **Role:** A young medical apprentice from a humble military household who has departed Jin Taekyung's party to return to his Master after receiving medicinal prescriptions and herbs from the Sichuan Tang Clan.
 - **Personality:** Compassionate, resolute, resourceful, and calm under extreme pressure.
