@@ -1,15 +1,15 @@
 # Translation State
 
-- Last completed: 374
-- Next chapter: 375
-- Current block: 370–374 (5/5)
-- Latest translation: `translations/0374.md`
-- Latest summary: `summaries/beats/0374.md`
-- Safe profiles through: chapter 374
+- Last completed: 375
+- Next chapter: 376
+- Current block: 375–379 (1/5)
+- Latest translation: `translations/0375.md`
+- Latest summary: `summaries/beats/0375.md`
+- Safe profiles through: chapter 375
 
 ## Current Block
 
-- Jin Wikyung visits the devastated Sichuan Tang Clan, offers orthodox support and possible relocation to Henan, Shaanxi, or Shanxi, and reveals that a greater war than the Great Faction War is expected. Tang Horyong, serving as Acting Family Head while Tang Sadok remains unconscious, considers the proposal. Jin Taekyung reunites with Wikyung, learns that Wikyung must escort the Third Fiend to Henan, and prepares to leave within half a shichen, but Tang Sadok awakens and the departure is delayed to one shichen.
+- Tang Sadok awakens gravely wounded and confesses that he revealed the Myriad-Poison Ring's location to the Western Heaven Demon Lord in exchange for preserving the Tang Clan. Jin Taekyung rejects self-sacrifice as punishment and forgives him, completing the hidden quest Atonement and Forgiveness and earning the Tang Clan's Benefactor title, EXP, Fame, and a level-up. Tang Sadok transfers the Myriad-Poison Ring to Taekyung as the Tang Clan's sacred treasure, then temporarily entrusts Mimi to Cheongpung while the clan's future remains uncertain. Before Taekyung and Cheongpung leave, the Divine Physician privately asks Jin Wikyung to hear a request.
 
 ## Open Questions
 
@@ -17,7 +17,7 @@
 - Why did Mungyeong tell the companions that Jin Taekyung ordered the rescue of Emei?
 - What is the true nature and purpose of the Lord of Heaven, and what became of the Western Heaven Demon Lord?
 - What was the origin and purpose of the Moving Formation, and why did it lose its power?
-- How will Dark Heaven respond to the failed Three-Gate Bloodbath?
+- What does the Divine Physician want to ask Jin Wikyung before the party leaves, and what path will the Sichuan Tang Clan take next?
 
 ## Exceptional Decision
 
