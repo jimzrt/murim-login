@@ -165,7 +165,7 @@ Anyone could see there was no hope left for him.
 
 *He’s really dying? That Head Elder?*
 
-Everyone dies.
+Everyone died.
 
 Hundreds of lives had vanished on this battlefield alone—perhaps more than a thousand.
 
@@ -264,7 +264,7 @@ The First Elder answered.
 
 He was leaning at an angle against a heap of corpses.
 
-A sword wound split him on a slant from about the shoulder to the waist, and blood poured from it in torrents.
+A sword wound split him diagonally from the shoulder to the waist, and blood poured from it in torrents.
 
 “Surrender. If we treat you now, you can live.”
 
@@ -298,7 +298,7 @@ Just as he had said, he had met a painful death. His face was twisted grotesquel
 
 There was no way to know yet.
 
-Wipeng carved the single word that had become the First Elder's last deep into his mind.
+Wipeng carved the name that had become the First Elder’s dying words deep into his mind.
 
 *Dark Heaven. He definitely said Dark Heaven.*
 
@@ -350,7 +350,7 @@ One of the nearest martial artists spoke cautiously.
 
 “Sect Leader, what do you mean…?”
 
-“This fight is already over. I will not force you to sacrifice yourselves. Leave by this road. Scatter as widely as you can and get out of Shanxi. If you do, you may at least save your lives.”
+“This fight is already over. I will not force you to sacrifice yourselves. Leave at once. Scatter as widely as you can and get out of Shanxi. If you do, you may at least save your lives.”
 
 The martial artist nodded resolutely.
 
@@ -422,11 +422,11 @@ He felt endlessly sorry—and deeply moved—by the loyalty the man had shown.
 
 At the warmth in his voice, the martial artist lifted his head.
 
-He flicked his tongue over the trickle of blood running down his forehead, then gave a crooked grin.
+He licked the trickle of blood running down his forehead and grinned.
 
 “Yes.”
 
-Thuck!
+Crunch!
 
 Jin Chung stared blankly at the martial artist.
 
@@ -542,7 +542,7 @@ He did not like that.
 
 If he set his mind to it, he could tear him out by the roots.
 
-His deepening gaze turned toward Jin Taekyung, ringed by cheers.
+His darkening gaze settled on Jin Taekyung, ringed by cheering men.
 
 “Our youngest! My little brother!”
 

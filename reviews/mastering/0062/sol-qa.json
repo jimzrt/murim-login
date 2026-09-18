@@ -1,0 +1,47 @@
+{
+  "chapter": 62,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.229,
+    "source_characters": 6552,
+    "source_paragraphs": 225,
+    "translation_characters": 14607,
+    "translation_paragraphs": 273
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "귀문",
+        "preferred": "your sect"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "인내",
+        "preferred": "Endurance"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "그분",
+        "preferred": "that person"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}

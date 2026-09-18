@@ -32,7 +32,7 @@ A freak of unknown identity had risen at lightning speed and driven a dagger int
 
 “You…”
 
-“You should've struck a vital acupoint.”
+“You should've struck a lethal acupoint.”
 
 It was an ambush no one could have expected.
 
@@ -67,7 +67,7 @@ My aching muscles, my heavy feet, my empty dantian—all of them swelled with ne
 
 At the same time, I knew what I had to do.
 
-*One Flash.*
+*One Annihilation.*
 
 Once more, a white vortex erupted.
 
@@ -91,7 +91,7 @@ I wanted to close Lee Cheonbaek's eyes so he could go in peace, but there was st
 
 The Head Elder let out a faint laugh at that. He looked horrific.
 
-One Flash had swallowed his remaining arm, and it hadn't stopped there—it had punched a hole the size of a fist through his chest.
+One Annihilation had swallowed his remaining arm, and it hadn't stopped there—it had punched a hole the size of a fist through his chest.
 
 “What a nasty-hearted brat. Have you no manners toward a dying old man?”
 
@@ -238,15 +238,15 @@ I rather liked my new name.
 
 “The Sleeping Dragon of Shanxi…”
 
-Wipeng gave a faint smirk.
+Wipeng gave a quiet snort.
 
 He was the wastrel Third Young Master who had never even been called an earth dragon.
 
 But now, there was no denying it.
 
-He was a sleeping dragon.
+He was a Hidden Dragon.
 
-If he obtained the dragon pearl, he could roam the heavens.
+If he obtained the dragon pearl, he could roam the azure heaven.
 
 “What do you make of it?”
 
@@ -322,7 +322,7 @@ It was the end of the war.
 
 Where there were the dead, there were also those who had lived.
 
-The Sect Leader of Gunggwimun,[^1] Jin Chung, was one of them. He had climbed to the top of the cliff before the battle began.
+The Sect Leader of the Gunggui Sect,[^1] Jin Chung, was one of them. He had climbed to the top of the cliff before the battle began.
 
 “How hollow.”
 
