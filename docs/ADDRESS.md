@@ -630,3 +630,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 최민우 | 샤오 쉔 | superior_to_field_commander | Shao Shen | urgent-commanding | Choi directly orders Shao Shen to withdraw the Public Security Armed Forces Department. |
 | 샤오 쉔 | 최민우 | subordinate_to_superior | Mr. Choi | respectful-formal | Shao Shen addresses Choi as 최 선생님 during the decision to make a final stand. |
 | 데스나이트 | 검은 기사 | subordinate_to_commander | Lord | deferential-honorific | The Death Knights report victory and offer their glory to the black knight. |
+| 데스나이트 | 인간 | enemy combatants | human | contemptuous and commanding | Used in the Death Knight's warnings to Jin. |
+| 데스나이트 | 로드 | subordinate to commanding lord | Lord | fearful and deferential | The Death Knight calls to the Death Knight Lord after Jin overwhelms the army. |
+| 검은 기사 | 군주 | bound servant to eternal lord | my lord | obedient and honorific | The black knight answers 군주시여 with 예. |

@@ -1375,3 +1375,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 공안무력부 | **Public Security Armed Forces Department** | Chinese security organization ordered to assemble during the attack. |
 | 악사르 | **Aksar** | Demon Realm word spoken by the Black Knight. |
 | 가로쉬 | **Garosh** | Demon Realm word spoken by the Black Knight. |
+| 데스나이트 로드 | **Death Knight Lord** | Level-135 commander of the monster army. |
