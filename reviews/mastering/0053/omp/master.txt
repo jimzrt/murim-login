@@ -64,7 +64,7 @@ I flashed her a grin as if nothing was wrong.
 
 “Big talk.”
 
-The mood lightened a little. I made a face on purpose.
+The mood lightened a little. I made a face.
 
 “Big talk? Don’t you remember yesterday? Want me to show you the bundles of cash again?”
 
@@ -136,7 +136,7 @@ Time to go back.
 
 “Stay a few more days. I was going to make boiled pork tomorrow.”
 
-“There goes Lady Kim again. I know how to eat boiled pork too, you know?”
+“There goes Lady Kim again. I like boiled pork too, you know?”
 
 Hayeon grumbled at the reluctance dripping from Mom’s words.
 
@@ -168,7 +168,7 @@ When I set the backpack down, my family suddenly grew frantic.
 
 “Oppa, you’re going to miss your ride.”
 
-“I’m taking a taxi, though?”
+“I’m taking a taxi.”
 
 “The late-night surcharge. You’ll have to pay the late-night surcharge.”
 
@@ -272,7 +272,7 @@ Time passed, but things didn’t improve. On the fourth day, I ended up injured 
 
 “Not in your current condition. Go home.”
 
-Leaving Team Leader Choi’s words behind, I headed for the goshiwon, my head a mess.
+Leaving Team Leader Choi behind, I headed for the goshiwon, my thoughts in turmoil.
 
 *What’s the problem?*
 
@@ -284,7 +284,7 @@ That was when it started. Ever since my first night at my family’s house, I’
 
 The scenes in them grew clearer by the night, and every time a dream ended, I woke up soaked in sweat. Even if I circulated my qi and restored my physical condition, my unstable mind only made me commit more mistakes.
 
-*This is going to be a problem.*
+*I can’t go on like this.*
 
 My body was in reality, but my mind was still trapped in Murim. I was wondering whether I should see a psychiatrist when I reached my goshiwon room.
 
@@ -294,7 +294,7 @@ Click.
 
 The greeting was so natural that I almost wondered whether I’d walked into the wrong room.
 
-I asked, incredulous,
+I stared at him incredulously.
 
 “What are you doing?”
 
@@ -322,7 +322,7 @@ He didn’t look like he was lying. Only after I checked that the capsule was st
 
 Jinho looked taken aback by my reaction.
 
-“Why are you making such a fuss over one junk capsule that doesn’t even work? What happened to tossing it out like a piece of luggage?”
+“Why are you making such a fuss over a junk capsule that doesn’t even work? You were ready to toss it out like trash before.”
 
 “That was then.”
 
@@ -338,7 +338,7 @@ There was no way Jinho could know about Synchronization, or what that unidentifi
 
 I ignored Jinho’s baffled expression and flopped onto the bed.
 
-After that little episode, it felt like all the energy had drained out of me.
+That little episode had drained every last bit of energy out of me.
 
 “Something going on?”
 

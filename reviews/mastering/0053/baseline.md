@@ -100,7 +100,7 @@ Because of the conversation I’d just had with Hayeon.
 
 “Where did you hear that name?”
 
-“From you. You kept calling it in your sleep.”
+“From you. You kept saying that name in your sleep.”
 
 And then her last question.
 
@@ -140,7 +140,7 @@ Time to go back.
 
 “Stay a few more days. I was going to make boiled pork tomorrow.”
 
-“Our Mrs. Kim is starting again. I know how to eat boiled pork too, you know?”
+“There goes Lady Kim again. I know how to eat boiled pork too, you know?”
 
 Hayeon grumbled at the reluctance dripping from Mom’s words.
 
