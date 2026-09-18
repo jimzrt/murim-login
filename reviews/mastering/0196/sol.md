@@ -2,7 +2,7 @@
 
 “W-What happened here?”
 
-A middle-aged merchant—the third generation of his family to run a textile shop in the center of Taiyuan, Shanxi Province—stood with his mouth hanging open.
+A middle-aged merchant whose family had run a textile shop in central Taiyuan for three generations stood with his mouth hanging open.
 
 “T-The silk…”
 
@@ -50,7 +50,7 @@ The middle-aged man finally tore himself free, then inspected his clothes with a
 
 “Damn it. These are new.”
 
-“If you don’t tell me right now, you’ll die and I’ll die with you.”
+“If you don’t tell me right now, I’ll kill you and then myself.”
 
 “All right, all right.”
 
@@ -100,7 +100,7 @@ The middle-aged man continued, his face flushed with excitement.
 
 “For all that, the streets didn’t look any busier than usual…”
 
-“Do you think people would still be loitering in the streets when the sun has been high in the sky for hours? They packed up their things ages ago and ran to the Jin Family of Taiyuan.”
+“The sun’s been high in the sky for hours. Why would they still be loitering in the streets? They packed up their gifts ages ago and rushed to the Jin Family of Taiyuan.”
 
 “Good heavens. It’s hard to believe.”
 
@@ -122,11 +122,11 @@ The middle-aged man lowered his voice to a conspiratorial whisper.
 
 “That’s why those officials who usually drag their feet are scrambling now. A member of the imperial family is coming. They have to show their faces and offer some token of sincerity, don’t they?”
 
-“Of course. And they’d better arrive before everyone else.”
+“Of course. And they’ll want to arrive before everyone else.”
 
-“What kind of place is Taiyuan? It may not rival the Central Plains, but it’s unquestionably the greatest commercial city in Shanxi Province. You can buy almost anything here.”
+“What kind of place is Taiyuan? It may not rival the great cities of the Central Plains, but it’s unquestionably the greatest commercial city in Shanxi Province. You can buy nearly anything here.”
 
-“Local procurement. I see.”
+“Buy everything locally. Of course.”
 
 “And the more people come looking for something, the scarcer it’ll become. Prices will rise, too.”
 
@@ -160,13 +160,13 @@ The middle-aged man savored the merchant’s bewildered expression. At last, he 
 
 “What? Is that true?”
 
-“I told you it was. Two days ago, an Elder of the Zhongnan Sect who didn’t know about it caused a scene, then went back after getting thoroughly beaten. The Fire King has already entrusted the Sleeping Dragon with the sect’s sacred treasure.”
+“I told you it was. Two days ago, an Elder of the Zhongnan Sect who didn’t know about it caused a scene, only to be taught a harsh lesson and sent packing. The Fire King has even entrusted the Sleeping Dragon with the Fire Gate Clan’s sacred treasure.”
 
 “Th-Then…”
 
 “It wouldn’t be an exaggeration to say that half the people heading to the Jin Family of Taiyuan right now are going to make an impression on the Sleeping Dragon of Shanxi, not the Fire King.”
 
-The Fire King was unquestionably one of the greatest Supreme Peak masters in the world, but he was old—very old—and had no real power base to speak of.
+The Fire King was unquestionably one of the greatest Supreme Peak masters under heaven, but he was already very old and had no real power base to speak of.
 
 Jin Taekyung was different.
 
@@ -220,7 +220,7 @@ The two men put their heads together and racked their brains until the merchant 
 
 “Oh! Someone you know well?”
 
-“I know him very well. He’s a boy my wife gave birth to.”
+“Very well. My wife gave birth to him.”
 
 The middle-aged man frowned at the merchant’s answer.
 
@@ -234,7 +234,7 @@ The middle-aged man nodded, plainly disappointed.
 
 “Well, this is as good a time as any to contact him. Who knows? He might be making a name for himself as a proper martial artist.”
 
-The merchant let out a derisive laugh.
+The merchant snorted.
 
 “The son of a textile merchant, a martial artist? As if. He’s probably waiting hand and foot on someone.”
 
@@ -246,7 +246,7 @@ The merchant let out a derisive laugh.
 
 “Achoo!”
 
-With the sound of a sneeze, my back suddenly felt cool.
+The sneeze left a cool patch across my back.
 
 Lying facedown on the bed with my upper body bare, I spoke quietly.
 
@@ -294,13 +294,13 @@ Hyuk Mujin sucked in a sharp breath.
 
 “Let him. What are people outside saying?”
 
-“Officially, we’ve settled on calling it closed-door cultivation. It would be rather bad if rumors spread that the Fire King beat up the Sleeping Dragon of Shanxi.”
+“Officially, we’ve settled on closed-door cultivation. We can’t exactly let rumors spread that the Fire King beat the Sleeping Dragon of Shanxi half to death.”
 
 “What about my eldest brother?”
 
-“Would the Lesser Family Head have any other choice? After hearing the initial report, he got extremely angry for a moment and went to see Great Hero Jeok, but…”
+“What choice did the Lesser Family Head have? When he first heard the report, he flew into a rage and went to confront Great Hero Jeok, but…”
 
-“He went to see him?”
+“But?”
 
 “He saw the burned Flame Divine Palm manual, apologized several times, and left.”
 
@@ -324,7 +324,7 @@ Hyuk Mujin’s foresight was remarkable. Barely a moment after he finished speak
 
 “N-Nothing.”
 
-The small, elderly man narrowed his eyes and looked at us. Then he snorted.
+Jeok Cheongang narrowed his eyes at us, then snorted.
 
 “Fine. Since this old man didn’t hear anything, I’ll let it slide this once.”
 
@@ -336,7 +336,7 @@ I didn’t know what he intended to do, but I had a feeling I would be better of
 
 Hyuk Mujin responded to my desperate gaze—the gaze of a man who wanted to live a long life.
 
-“Yes, sir. I’ll take my leave. Good luck!”
+“Yes, sir. I’ll take my leave. Good luck, Captain!”
 
 “Very well.”
 
@@ -366,11 +366,11 @@ I desperately covered my chest. My voice trembled with shame and fear.
 
 *What a Western mindset!*
 
-I was screwed. There was no way out.
+This was bad. There was no way out.
 
-As I froze in place, Jeok Cheongang shouted:
+As I lay frozen, Jeok Cheongang shouted.
 
-“Ah, I’m going to cleanse your sinews and wash your marrow, so take off your clothes and lie down already!”
+“I’m going to cleanse your sinews and wash your marrow, so take off your clothes and lie down already!”
 
 “…”
 
