@@ -681,3 +681,10 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 결사대 | commander_to_subordinates | you bastards | blunt and commanding | Jin orders the suicide squad to exploit the opening and wipe out the surrounding monsters. |
 | 스켈레톤 워로드 | 진태경 | captive_undead_commander_to_captor | wicked human | hostile and imperious | The Skeleton Warlord orders Jin to kill the strange human making repeated startled noises. |
 | 진태경 | 스켈레톤 워로드 | captor_to_captive_undead_commander | you | casual and irritated | Jin responds to the Skeleton Warlord's demand while fighting. |
+| 이정룡 | 최 팀장 | senior S-rank Hunter to allied team leader | Team Leader Choi | polished and probing | Lee prompts Choi to explain his inference about the Arch Lich's reserve force. |
+| 최 팀장 | 이정룡 | allied team leader to senior Ares authority | Mr. Lee | formal and analytical | Choi explains why the reserve force indicates an opportunity for the coalition. |
+| 필릭스 | 진태경 | British prince and S-rank Hunter to allied Korean S-rank Hunter | Jin | lofty and aristocratic | Felix addresses Jin while discussing royal duty and their teleport. |
+| 파이 첸 | 진태경 | senior allied female S-rank Hunter to younger Hunter | Jin | playful and familiar | Faye responds warmly after Jin calls her big sis. |
+| 진태경 | 파이 첸 | younger allied Hunter to senior female S-rank Hunter | big sis | casual and affectionate | Jin calls Faye 누나 while indulging Felix's attitude. |
+| 매직 존슨 | 진태경 | senior allied S-rank Hunter to younger Hunter | Jin | warm and jovial | Johnson praises Jin's courage after the dangerous teleport. |
+| 진태경 | 매직 존슨 | younger allied Hunter to senior S-rank Hunter | Johnson | casual and teasing | Jin answers Johnson while discussing the teleport's failure probability. |

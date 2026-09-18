@@ -1,9 +1,9 @@
 # Faye Chen (파이 첸)
 
-- **Safe through:** Chapter 393
+- **Safe through:** Chapter 414
 - **Aliases:** None
-- **Role:** Hong Kong-born S-rank Hunter, Great Cataclysm war hero, and frontline commander in Sichuan Province.
-- **Personality:** Experienced, fearless, incisive, and scornful of incompetence.
-- **Voice:** Low, cutting, sarcastic, and openly confrontational when challenging incompetence.
-- **Relationships:** She commands frontline forces in Sichuan Province and is openly hostile toward Wu Heixing.
+- **Role:** S-rank Hunter who joins the Arch Lich operation with the Eastern and Western Front reinforcements.
+- **Personality:** Playful, warm, and amused by Jin Taekyung's teasing.
+- **Voice:** Teasing and affectionate, with a casual big-sister manner toward Jin Taekyung.
+- **Relationships:** Treats Jin Taekyung as a younger brother and travels with Prince Felix and Magic Johnson.
 - **Sources:** Korean source and accepted translation, Chapter 385

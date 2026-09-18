@@ -1407,3 +1407,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 십이혈라검 | **Twelve Blood Net Sword** | Wu Heixing's sword technique derived from an ancient book acquired by his grandfather. |
 | 마오쩌둥 | **Mao Zedong** | Chinese leader named as Wu Heixing's grandfather's longtime political associate. |
 | 문화대혁명 | **Cultural Revolution** | The 1966–1976 Chinese political campaign discussed in the chapter. |
+| 프레드 | **Fred** | Magic Johnson's beloved spouse. |
+| 중고나라 | **Junggonara** | Korean secondhand-goods marketplace referenced in Taekyung's joke. |
