@@ -86,7 +86,7 @@ There had been a time when I was drowning in debt, but I’d gritted my teeth an
 
 Lately, though, my life had been like a roller coaster.
 
-A roller coaster that dropped whenever the System disappeared…
+A roller coaster that would plummet if the System disappeared…
 
 No. I was coming home for the first time in months. I should drop thoughts like that.
 
@@ -168,7 +168,7 @@ Sizzle, sizzle.
 
 Mom was busy with breakfast in the kitchen. A good smell hung in the air.
 
-“Mrs. Kim is really excited now that her son’s home after so long.”
+“Look at Lady Kim, all excited because her son’s home after so long.”
 
 Hayeon scratched her stomach and plopped down beside me.
 

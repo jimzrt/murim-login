@@ -1,7 +1,18 @@
 {
-  "baseline_sha256": "3afcf6f29ccd4ac1b020288120011246b26bd73fd986d77683b9c378f5552d07",
+  "baseline_sha256": "28930f0a148da8d464a27e405978f67e8b82829008070b6a59ea2040a9d16e6b",
   "chapter": 52,
+  "decisions": {
+    "BASE": 20,
+    "REPAIR": 0,
+    "SOL": 105
+  },
+  "fidelity_repairs": 0,
+  "final_sha256": "a14bd337390a474dc7737d31af170001e3a34648e571c457345f67689d4eb813",
+  "hunk_count": 125,
+  "promoted_sha256": "a14bd337390a474dc7737d31af170001e3a34648e571c457345f67689d4eb813",
+  "qa_passed": true,
+  "sol_sha256": "8d05d63a262742a65b092e0e89073be471045b5af84ba469c202574cf10f9886",
   "source_sha256": "d00b761393e6349c3e3edc0175eddcb720bcb9feb19d3624f24302b80db61b7b",
-  "stage": "SNAPSHOTTED",
+  "stage": "PROMOTED",
   "version": 1
 }

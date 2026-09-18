@@ -34,7 +34,7 @@ The young man’s eyes, hollow only a moment ago, now gleamed like a wild beast�
 
 “There’s a truck behind us.”
 
-“A-a truck? A blue one?”
+“A-a truck? The blue one?”
 
 “Yes. Doesn’t it look like it’s been following us since that intersection?”
 
@@ -46,7 +46,7 @@ What fresh bullshit was this?
 
 Mr. Kim’s eyes darted around before he finally gave the answer the young man seemed to want.
 
-“I-I’ll peel off to the side.”
+“I-I’ll turn off up ahead.”
 
 The young man hugged the drink box tight until the blue truck disappeared from view, as if someone might snatch it away.
 
@@ -66,7 +66,7 @@ Vroom.
 
 The moment I handed over the fare and shut the door, the taxi shot off like a bullet.
 
-Anyone watching would’ve thought a monster was chasing it. What if he got in an accident?
+Anyone watching would’ve thought a monster was chasing him. What if he got into an accident?
 
 I clicked my tongue and headed into the apartment complex, still cradling yesterday’s drink box against my chest.
 
@@ -146,7 +146,7 @@ Someone stood beaming at me.
 
 Wrinkled hands. A perm half fallen out. She looked as delighted as a child receiving a surprise gift.
 
-My throat tightened. I scratched my chin, then burst out laughing.
+My throat tightened. I scratched my chin, then broke into a helpless smile.
 
 “I’m home, Mom.”
 
@@ -160,7 +160,7 @@ Home.
 
 Sizzle, sizzle.
 
-Mom was busy with breakfast in the kitchen. A good smell hung in the air.
+Mom was busy making breakfast in the kitchen. A delicious smell drifted through the air.
 
 “Look at Lady Kim, all excited because her son’s finally home.”
 
@@ -188,17 +188,17 @@ Hayeon let out a long sigh.
 
 “……Listen to that attitude.”
 
-It wasn’t like we’d only started bickering yesterday, but I still felt a pang.
+We’d been bickering like this forever, but I still felt a little hurt.
 
 I mean, I’d barely made it home after nearly dying!
 
 “That got to you just now, didn’t it?”
 
-Her radar was scary.
+Her instincts were terrifying.
 
-“Go get ready for school, you little cafeteria parasite.”
+“Go get ready for school, you school-lunch brat.”
 
-“Mm. Today’s the school founding anniversary.”
+“Mm. Today’s the school anniversary.”
 
 My fist trembled.
 
@@ -236,19 +236,19 @@ Everything in the living room stopped as if someone had hit pause. Only the quie
 
 Sizzle, sizzle.
 
-I smiled awkwardly and opened my mouth.
+I smiled awkwardly.
 
 “Can’t we talk about this after breakfast?”
 
 “……Son?”
 
-“Mmph, mmph, mmph.”
+“Mmph, mmph.”
 
 It looked like breakfast would be delayed for quite a while.
 
 * * *
 
-I told my family a suitably edited version of everything that had happened so far.
+I told my family a suitably edited version of everything that had happened.
 
 My reawakening as a C-rank Hunter, and where the money had come from.
 
@@ -278,7 +278,7 @@ She eyed me suspiciously, then started rummaging through it. There was barely an
 
 “Whoa.”
 
-A single card in her hand.
+She held up a single card.
 
 It was the C-rank Hunter license the Association had issued me two days ago.
 
@@ -302,11 +302,11 @@ A silver C-rank Hunter license. Three hundred million won in neatly stacked bund
 
 Every bit of it looked completely out of place in this old, cramped living room.
 
-Mom sat there staring blankly and muttered, almost a groan.
+Mom sat staring blankly before murmuring as if in a daze.
 
-“What on earth is all this……?”
+“What on earth is happening…?”
 
-Hayeon let out a hollow laugh like an old woman who had seen everything life had to offer.
+Hayeon chuckled like an old woman who had seen everything life had to offer.
 
 “I know. Live long enough and you see everything.”
 
@@ -322,7 +322,7 @@ Hayeon let out a hollow laugh like an old woman who had seen everything life had
 
 Mom’s half-lidded eyes flew open. I hurried to my feet, but the kitchen was already a disaster zone.
 
-Mom followed me in, stomping her feet.
+Mom rushed in after me, stamping her feet.
 
 “Oh no! What do we do?”
 
@@ -368,7 +368,7 @@ For someone like me, who’d only ever gone to gukbap[^1] places, it was a massi
 
 My family seemed even more embarrassed than I was, so I simply walked out.
 
-The three of us were reflected in the restaurant glass. We’d clearly dressed up for our first meal out in a long time, but every piece we owned was cheap market-brand stuff that already looked well-worn.
+The restaurant windows reflected the three of us. They had clearly put care into dressing up for our first meal out in a long time, but everything they owned was cheap market-brand clothing, visibly worn with age.
 
 *Had they been that short on money?*
 
@@ -428,7 +428,7 @@ I gave a short laugh.
 
 “Okay.”
 
-“You’ve got yourself a devoted son, ma’am. Ha ha.”
+“You’ve raised a devoted son, ma’am. Ha ha.”
 
 Only then did Mom smile at the driver’s banter.
 
@@ -452,7 +452,7 @@ At first, Mom looked at the price tags more than the clothes. Before long, thoug
 
 “This too!”
 
-“That’s pretty. Excuse me, miss—do you have this in one size larger?”
+“That’s pretty. Excuse me, miss—do you have this one size larger?”
 
 Two hours later, I began to feel a change in my body.
 
