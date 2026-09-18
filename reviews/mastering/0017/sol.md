@@ -2,7 +2,7 @@
 
 Circulating qi.
 
-It was a method of regulating one’s energy by evening one’s breathing: drawing qi from outside the body, circulating it within, and accumulating it.
+It was a method of regulating one’s energy by steadying one’s breathing: drawing qi from outside the body, circulating it within, and accumulating it.
 
 Right now, I was circulating qi using the Jin Family’s Cultivation Technique.
 
@@ -10,27 +10,27 @@ Right now, I was circulating qi using the Jin Family’s Cultivation Technique.
 
 I had never realized there were so many acupoints in my body.
 
-I had once heard that the human body contained more than three hundred and sixty acupoints, but based on what I could feel while circulating qi through the cultivation technique, there were even more than that.
+I had once heard that the human body contained more than three hundred and sixty acupoints, but based on what I could feel while using the cultivation technique, there seemed to be even more than that.
 
 *Is it because I’m a virtual game character?*
 
 *Whatever.*
 
-The ten years of internal energy I drew up from my dantian circulated through my body. If internal energy was a car, then the meridians were a highway. All I had to do was sit behind the wheel and press the accelerator.
+The ten years of internal energy I drew up from my dantian circulated through my body. If internal energy was a car, then my acupoints were the highway. All I had to do was sit behind the wheel and press the accelerator.
 
-The internal energy raced along the straight and curving meridians throughout my body before returning to my dantian.
+The internal energy raced through the straight and curving pathways connecting the acupoints throughout my body before returning to my dantian.
 
 *And this is where the real problem starts.*
 
 I took a long, deep breath. Then I felt it.
 
-A second internal energy occupied my dantian like an enormous boulder that would not budge, no matter how hard I willed it to.
+Another mass of internal energy occupied my dantian like an enormous boulder, refusing to budge no matter how hard I willed it to.
 
 *What the hell are you?*
 
-It had been a mystery ever since I first circulated qi. An unidentified energy that had taken root like it owned the place.
+It had been a mystery ever since I first circulated my qi—an unidentified energy that had settled in like it owned the place.
 
-I didn’t know where it had come from, how it had been formed, or why I couldn’t use it, but one thing was certain. This unidentified energy contained more power than the ten years of internal energy I possessed.
+I didn’t know where it had come from, how it had formed, or why I couldn’t use it, but one thing was certain. This unidentified energy contained even more power than the ten years of internal energy I possessed.
 
 *Until now, I hadn’t even dared touch it.*
 
@@ -42,7 +42,7 @@ But things were different now.
 
 If I wanted to escape on my own, I had to fulfill the Logout Quest’s condition: reaching the First Rate realm.
 
-I also knew that I needed internal energy on the level of Lee Seogeun’s to become First Rate.
+I also knew that I needed about as much internal energy as Lee Seogeun had to become First Rate.
 
 *I’ll make it mine.*
 
@@ -52,13 +52,13 @@ The moment I sent it toward the unidentified energy, half anxious and half expec
 
 *Not even close.*
 
-Internal energy was, strictly speaking, qi itself—something without a physical form. And yet the instant the two energies touched, I felt powerful rejection and resistance.
+Internal energy was, strictly speaking, qi itself—something without a physical form. And yet the instant the two energies touched, I felt a powerful rejection and repulsion.
 
-No. It was even pulling me in. At this rate, it was going to eat me alive.
+No. It was even pulling my energy in. At this rate, it was going to swallow mine instead.
 
 *Hey, hey, hey! Wait a second!*
 
-I hurriedly withdrew my internal energy and shook off the unidentified energy, which clung to me until the very end. At the same time, a System notification rang out.
+I hurriedly withdrew my internal energy and shook off the unidentified energy, which clung to it until the very end. At the same time, a System notification rang out.
 
 Ding.
 
@@ -70,20 +70,22 @@ Ding.
 
 “What the hell was that?”
 
-I calmed my pounding heart and opened my Status Window.
+I calmed myself after the scare and opened my Status Window.
 
+> **System**
+>
 > **Status Window**
 >
 > **Lv. 17 Jin Taekyung**
 >
-> **Class:** Second Rate martial artist  
+> **Occupation:** Second Rate Martial Artist  
 > **Fame:** 70  
 > **Titles:** 4 (Title effects active)
 >
 > - **Scion of a Prestigious Family** — All stats +5, Fame +50
 > - **Family’s Shame** — All stats –5, Fame –50
 > - **Novice Trainee** — Training speed +10%
-> - **Gambler** — Combat-related stats +10% in one-on-one matches
+> - **Gambler** — Combat-related stats +10% in one-on-one contests
 >
 > **Strength:** 65  **Stamina:** 65  
 > **Agility:** 75  **Intelligence:** 10  
@@ -101,9 +103,9 @@ But looking at the Status Window still left a bitter taste in my mouth.
 
 This damn System kept saying that my internal energy had risen, but the amount displayed in the Status Window remained exactly the same.
 
-*Do I need to take a spirit pill, an elixir, something like that?*
+*Do I need to take a spirit pill, an elixir, or something?*
 
-I thought of Jin Wikyung. If I screwed up my courage and said, *Big brother, just give me one spirit pill,* I didn’t think he would refuse me outright.
+I thought of Jin Wikyung. If I screwed up my courage and said, *Hyung, give me one spirit pill,* I didn’t think he would refuse me outright.
 
 I’d ask him the next time I saw him. I would also ask about the unidentified energy inside my dantian.
 
@@ -123,15 +125,15 @@ That worked out perfectly. There was something I wanted to ask him about.
 
 * * *
 
-“It is beyond doubt. A few bones were broken, and there was some minor internal damage, but that level of injury could never—”
+“There’s no doubt about it. A few bones were broken, and there were some minor internal injuries, but that alone could never…”
 
-“Are you sure? You swear that on the name of the Medicine King Hall Master?”
+“Are you sure? Will you stake your name as the Medicine King Hall Master on it?”
 
 “I said it’s true! I examined him myself!”
 
-“Then why are you talking down to me? I treated you with respect because you’re another Hall Leader, and now you think I’m a joke!”
+“Then that settles it. Why are you talking down to me? I treat you with respect because you’re a fellow Hall Master, and now you think I’m a joke!”
 
-“You were the one who started talking down to me, White Tiger Hall Leader!”
+“You were the one who started talking down to me, White Tiger Hall Master!”
 
 I stared blankly at the ceiling of the meeting room. The shouts and curses flying from every direction made my ears ring.
 
@@ -139,9 +141,9 @@ I stared blankly at the ceiling of the meeting room. The shouts and curses flyin
 
 This wasn’t what I had imagined a family council would be like. I had pictured a quiet, orderly atmosphere where everyone exchanged opinions and searched for common ground…
 
-“You think every Hall Leader is your equal? You’re nothing but some quack doctor!”
+“You think all Hall Masters are equal? You’re nothing but a mere physician!”
 
-“Listen to this young bastard. I ought to shove a large needle straight into his Huiyin Acupoint!”
+“Listen to this young bastard. I ought to shove a large needle straight into your Huiyin Acupoint!”
 
 Two men in their forties or fifties, both with receding, M-shaped hairlines, were grabbing each other by the collars and shaking one another. Just watching them made my head hurt.
 
@@ -149,27 +151,27 @@ The problem was that scenes like this were unfolding all over the room.
 
 Maybe that was why most of the people there didn’t seem to notice me opening the door and taking my seat.
 
-—You came?
+—You’re here?
 
-The voice sounded as if it had entered through my head rather than my ears. It was Sound Transmission.
+The voice seemed to enter through my head rather than my ears. It was Sound Transmission.
 
-I turned my head and met Jin Wikyung’s gaze from the seat of honor. He gave me a tired smile.
+I turned and met Jin Wikyung’s gaze from the seat of honor. He gave me a tired smile.
 
 —It’s a madhouse, isn’t it?
 
-*You said it. Why did you call me to this madhouse, you old man?*
+*No kidding. Why did you call me into this madhouse, man?*
 
 When I shot him a reproachful look, Jin Wikyung sent another message through Sound Transmission, his expression turning sheepish.
 
 —I couldn’t help it. The Council of Elders demanded your attendance. In any case… you are involved in this matter.
 
-*The Elder Council? I’m involved in this matter?*
+*The Council of Elders? I’m involved in this matter?*
 
 *What matter am I involved in…? Oh. The Mount Heng Sword Sect?*
 
 I quickly pieced things together amid the shouting and cursing.
 
-If there was one recent incident connected to me, it was the Mount Heng Sword Sect. And because of that incident, this thing called the Elder Council had summoned me.
+If there was one recent incident connected to me, it was the Mount Heng Sword Sect. And because of that incident, this Council of Elders or whatever it was had summoned me.
 
 That had to be it.
 
@@ -177,7 +179,7 @@ That had to be it.
 
 There were four of them. Every one had a face covered in age spots and hair that had gone completely white.
 
-They watched the men with the M-shaped hairlines grab each other by the collars with cold eyes. Anyone could see it was a nursing home—or rather, the Elder Council.
+They watched the men with the M-shaped hairlines grab each other by the collars with cold eyes. Anyone could see it was a nursing home—or rather, the Council of Elders.
 
 —And… the Head Elder is here.
 
@@ -185,33 +187,33 @@ I turned toward Jin Wikyung without thinking, then flinched.
 
 *What the hell? Where did that old man come from?*
 
-I had only just noticed that there were two seats of honor today. An old man was sitting to Jin Wikyung’s right, staring at me. His gaze made my face prickle.
+When had he gotten there? I had only just noticed that there were two seats of honor today. An old man was sitting to Jin Wikyung’s right, staring at me. His gaze made my face prickle.
 
 *Is that old man the Head Elder?*
 
-White hair, a white beard, and white eyebrows. He looked like an immortal who had stepped out of an old painting. His back was straight, his shoulders broad, and his skin taut enough to make his age seem meaningless.
+White hair, a white beard, and white eyebrows. He looked like an immortal who had stepped out of an old painting. His back was straight, his shoulders broad, and his skin so taut that he hardly seemed old at all.
 
 *But why is he staring at me so intently?*
 
-I gathered strength in my eyes and tried to glare back at the Head Elder…
+I narrowed my eyes and started to glare back at the Head Elder…
 
 Then I quietly looked away.
 
-Not because I thought I would lose if we locked eyes. It was respect for my elders. Respect for my elders. Really.
+Not because I thought I would lose if we fought. It was respect for my elders. Respect for my elders. Really.
 
 *I’ll just keep my head down.*
 
 Jin Wikyung’s Sound Transmission continued in the meantime.
 
-—You may not know this because you lost your memory, but the Head Elder is your great-uncle and the most senior elder in the family. Be especially careful with your words and actions.
+—You may not know this because you lost your memory, but the Head Elder is your great-uncle and the highest-ranking elder in the family. Be especially careful with your words and actions.
 
 I hadn’t even seen my father’s face, and now I had a great-uncle.
 
-*Maybe this place has relatives by marriage, distant cousins, and every kind of obscure uncle, too.*
+*For all I knew, this place was full of in-laws eight times removed, distant cousins, and every kind of obscure uncle.*
 
 I gave Jin Wikyung a small nod.
 
-—And… you must not be flustered by what happens from this point onward. Calmly tell them only the truth. Do you understand?
+—And… you must not be flustered by anything that happens from this point onward. Calmly tell them only the truth. Do you understand?
 
 I didn’t know exactly what was going on, but one thing was certain: Jin Wikyung was on my side.
 
@@ -231,7 +233,7 @@ I felt everyone’s eyes on me as I walked forward. I had expected this much. Th
 
 But…
 
-“I ask you this. Did you poison Lee Seogeun of the Mount Heng Sword Sect?”
+“I ask you this. Were you the one who poisoned Lee Seogeun of the Mount Heng Sword Sect to death?”
 
 That was something I hadn’t expected.
 
@@ -239,13 +241,13 @@ That was something I hadn’t expected.
 
 “No.”
 
-I barely managed to force the word out. My thoughts were a mess from the sudden question.
+I barely managed to force the word out. My thoughts were a mess after the sudden question.
 
 *Lee Seogeun was dead? Poisoned, at that?*
 
 “Tell us the truth. If it turns out to be a lie…”
 
-“I have nothing to do with Lee Seogeun’s poisoning.”
+“I had nothing to do with Lee Seogeun’s poisoning.”
 
 My answer was as sharp as a blade. Jin Wikyung let out a sigh of relief.
 
@@ -265,13 +267,13 @@ That was why I could answer without hesitation.
 
 “No.”
 
-The problem was that, at some point, the atmosphere in the meeting hall began to grow strange.
+The problem was that, at some point, the atmosphere in the meeting hall began to take a strange turn.
 
 “Do you have any evidence to prove it?”
 
 “Evidence?”
 
-White Tiger Hall Leader, was it? The man whose name I didn’t even know stared at me with obvious displeasure.
+White Tiger Hall Master, was it? The man whose name I didn’t even know stared at me with obvious displeasure.
 
 “That is correct. Evidence. I mean evidence that would prove the Third Young Master’s innocence.”
 
@@ -287,23 +289,23 @@ White Tiger Hall Leader, was it? The man whose name I didn’t even know stared 
 
 “You’re free to suspect me, but shouldn’t you be the ones looking for evidence? Am I wrong?”
 
-I’d been letting it slide, and these bastards thought they could wrap me up like a cloth?[^1]
+I’d been letting it slide, and now these bastards thought I was some kind of wrapping cloth?[^1]
 
-Fuming, I glared at the White Tiger Hall Leader as he sat down, then noticed something strange.
+Fuming, I glared at the White Tiger Hall Master as he sat down, then noticed something strange.
 
 *Well, well. Look at this.*
 
-The White Tiger Hall Leader kept stealing glances at the old men of the Elder Council.
+The White Tiger Hall Master kept stealing glances at the old men of the Council of Elders.
 
-The strange thing was that everyone who had been pressing and interrogating me was doing something similar.
+Curiously, everyone who had been pressing and interrogating me was doing something similar.
 
 Nearly half the people in attendance were acting this way. It was getting difficult to pretend I hadn’t noticed.
 
 *So this is a factional struggle.*
 
-The Elder Council and Jin Wikyung.
+The Council of Elders and Jin Wikyung.
 
-Even now, a power struggle was taking place between the senior members of the family and the Lesser Family Head who was young enough to be their grandson.
+Even now, a power struggle was taking place between the elders of the family and a Lesser Family Head young enough to be their grandson.
 
 *What a family.*
 
@@ -311,26 +313,26 @@ Only a few people remained to question me. The problem was who those people were
 
 Faces covered in age spots. Canny, experienced eyes.
 
-The old men of the Elder Council.
+The old men of the Council of Elders.
 
 The oldest and fattest of them opened his mouth.
 
-“Enough of this empty questioning. There is only one thing this old man wishes to ask. Where did this matter begin?”
+“Enough of these pointless questions and answers. There is only one thing this old man wishes to ask. Where did this matter begin?”
 
-The senior members allied with the Elder Council answered as if they had been waiting for the question.
+The senior members allied with the Council of Elders answered as if they had been waiting for the question.
 
 “The Third Young Master.”
 
-“Who was it that dragged our family’s reputation through the mud with disorderly words and conduct?”
+“Who was it that dragged our family’s reputation through the mud with his dissolute words and conduct?”
 
 “The Third Young Master.”
 
 The same answer came from several places around the room.
 
-“Then who was it that provoked the Mount Heng Sword Sect’s prized treasure and brought us to this crisis?”
+“Then who was it that laid a hand on the treasured jewel the Mount Heng Sword Sect held in its palm and brought us to this crisis?”
 
 “…”
 
 *Just kill me already, you bastards.*
 
-[^1]: In Korean, the line puns on *boja* (“let’s see / wait and see”) and *bojagi*, a wrapping cloth.
+[^1]: The Korean line plays on *boja* (“let’s see”) and *bojagi*, a traditional wrapping cloth.
