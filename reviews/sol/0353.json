@@ -1,0 +1,136 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Seeing the wet-behind-the-ears pups waiting for him atop the walls surrounding the Sichuan Tang Clan like an impregnable fortress, a little over a hundred yards ahead, put him in an excellent mood.",
+      "defect": "백여 장 is roughly three hundred yards, not a little over one hundred yards, so the draft substantially changes the distance.",
+      "id": "F01",
+      "rationale": "A jang is approximately three meters; about one hundred jang is therefore approximately three hundred meters, or somewhat over three hundred yards.",
+      "replacement": "Seeing the wet-behind-the-ears pups waiting for him atop the walls surrounding the Sichuan Tang Clan like an impregnable fortress, roughly three hundred yards ahead, put him in an excellent mood.",
+      "severity": "critical",
+      "source": "백여 장 앞, 철옹성처럼 사천당문을 둘러싼 성벽 위에서 자신을 기다리는 하룻강아지들을 보니 기분이 썩 유쾌해진다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "He had been born ugly, a difficult birth from the start.",
+      "defect": "The draft conflates his ugly appearance with the difficult childbirth and produces an unclear causal statement.",
+      "id": "F02",
+      "rationale": "난산 explicitly denotes a difficult childbirth, while 추한 생김새를 타고났다 separately states that he was born ugly.",
+      "replacement": "His had been a difficult birth, and he had been born with ugly features.",
+      "severity": "major",
+      "source": "태어나길 난산(難産)이라, 추한 생김새를 타고났다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "When they finally looked around, the people who had despised them for their ugliness and pelted the three brothers with stones were all drowning in pools of blood.",
+      "defect": "“Were drowning” depicts an ongoing action by living victims, whereas the source says they were submerged in pools of blood after the brothers' killing spree.",
+      "id": "F03",
+      "rationale": "잠겨 있었다 describes the victims' resulting state, not the act of drowning.",
+      "replacement": "When they finally looked around, the people who had despised them for their ugliness and pelted the three brothers with stones all lay submerged in pools of blood.",
+      "severity": "critical",
+      "source": "문득 주위를 둘러보았을 때는 추하다 멸시하며 세 형제에게 돌팔매질하던 이들이 모두 피 웅덩이에 잠겨 있었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Cheongpung lowered the food he had been holding and spoke.",
+      "defect": "The draft changes Cheongpung's action from setting the food down to merely lowering it.",
+      "id": "F04",
+      "rationale": "내려놓다 means to put or set something down.",
+      "replacement": "Cheongpung set down the food he had been holding and spoke.",
+      "severity": "critical",
+      "source": "청풍이 손에 쥐고 있던 먹거리를 내려놓으며 입을 열었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Considering the forces Dark Heaven had deployed against Shaolin Temple, escaping might only lead us straight into a dead end.",
+      "defect": "“Dead end” means an impassable route, while 사지 means a place of almost certain death; the draft weakens the lethal consequence of attempting an escape.",
+      "id": "F05",
+      "rationale": "사지 literally denotes deadly ground or a place from which one is unlikely to return alive.",
+      "replacement": "Considering the forces Dark Heaven had deployed against Shaolin Temple, escaping might only lead us straight into a deathtrap.",
+      "severity": "major",
+      "source": "소림사를 쳤던 암천의 전력을 떠올려보면 오히려 사지(死地)에 발을 디디는 결과를 불러올 수도 있다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "The Second Fiend had left to deal with Qingcheng, while the Third Fiend had departed for Emei.",
+      "defect": "The draft renders only the Second Fiend as handling an objective and reduces the Third Fiend's parallel assignment to mere travel.",
+      "id": "F06",
+      "rationale": "맡아 applies to both brothers and indicates that each was assigned responsibility for one sect.",
+      "replacement": "The Second Fiend had left to take charge of Qingcheng, while the Third Fiend had gone to take charge of Emei.",
+      "severity": "major",
+      "source": "이괴(二怪)는 청성, 삼괴(三怪)는 아미를 맡아 떠났으니까."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“We were so young back then. We killed this one and that one, then killed some more…”",
+      "defect": "“This one and that one” erases the gendered, contemptuous register of 이놈, 저년 and sanitizes the speaker's vicious recollection.",
+      "id": "F07",
+      "rationale": "놈 and 년 are derogatory references to men and women respectively, and 할 것 없이 means without distinction.",
+      "replacement": "“We were so young back then. Bastard or bitch, we killed them all, then killed some more…”",
+      "severity": "major",
+      "source": "“그때는 우리도 참 젊었지. 이놈, 저년 할 것 없이 죽이고 또 죽였는데…….”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "At that very moment, a small figure shot forward at a speed more dazzling than anyone else’s.",
+      "defect": "The draft omits that the Tang Clan martial artists were shaken by the armor's resistance immediately before the First Fiend charged.",
+      "id": "F08",
+      "rationale": "당문의 무인들이 동요하는 explicitly supplies the defenders' shaken reaction and the timing of the charge.",
+      "replacement": "As the Tang Clan martial artists faltered, a small figure streaked forward faster than anyone else.",
+      "severity": "major",
+      "source": "당문의 무인들이 동요하는 그 순간, 다른 누구보다 눈부신 속도로 쏘아지는 자그마한 신형이 있었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Activate the Myriad-Poison Formation! Activate the Myriad-Poison Formation!”",
+      "defect": "The first clipped cry merely names the formation; turning it into a complete repeated command changes the panicked cadence.",
+      "id": "F09",
+      "rationale": "The source first blurts out 만독진 as a standalone exclamation, then gives the command to activate it.",
+      "replacement": "“The Myriad-Poison Formation! Activate the Myriad-Poison Formation!”",
+      "severity": "minor",
+      "source": "“만독진(萬毒進). 만독진을 발동시켜라!”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“As I said before, his energy has not stabilized yet. If he receives an external shock in this condition…”",
+      "defect": "Generic “energy” fails to identify the unstable Murim qi that makes an external shock dangerous.",
+      "id": "F10",
+      "rationale": "In this Murim medical context, 기운 refers to qi rather than generic energy or Hunter-system mana.",
+      "replacement": "“As I said before, his qi has not stabilized yet. If he receives an external shock in this condition…”",
+      "severity": "major",
+      "source": "“지난번에 말했듯이 아직 기운이 안정되지 않았소. 만약 이 상태에서 외부의 충격을 받는다면…….”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The old man curled up the corners of his mouth.",
+      "defect": "“Curled up the corners” is an unnatural English collocation.",
+      "id": "F11",
+      "rationale": "The replacement naturally conveys 입꼬리를 말아 올렸다 without changing the physical expression.",
+      "replacement": "The old man curled the corners of his mouth upward.",
+      "severity": "minor",
+      "source": "노인은 입꼬리를 말아 올렸다."
+    },
+    {
+      "confidence": 0.92,
+      "current": "Cha-cha-cha-chang!",
+      "defect": "The draft romanizes the Korean sound effect instead of rendering the sound of many weapons being drawn in English.",
+      "id": "F12",
+      "rationale": "The sound accompanies hundreds of weapons being unsheathed and should read as an English metallic sound effect.",
+      "replacement": "Shing-shing-shing!",
+      "severity": "minor",
+      "source": "차차차창!"
+    },
+    {
+      "confidence": 1.0,
+      "current": "**[Uninvited Guest]**",
+      "defect": "The Quest title retains square brackets inside a System panel, contrary to the required System-window formatting.",
+      "id": "F13",
+      "rationale": "The blockquote and System heading already identify the interface, and the binding Markdown rules prohibit enclosing System UI terms in square brackets.",
+      "replacement": "**Uninvited Guest**",
+      "severity": "minor",
+      "source": "[초대받지 않은 손님]"
+    }
+  ],
+  "summary": "Several factual and register errors require correction, including a substantially shortened distance, altered physical actions, lost assignment roles, softened contempt, and Murim-energy terminology.",
+  "version": 1
+}
