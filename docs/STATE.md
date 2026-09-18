@@ -1,31 +1,32 @@
 # Translation State
 
-- Last completed: 367
-- Next chapter: 368
-- Current block: 365–369 (3/5)
-- Latest translation: `translations/0367.md`
-- Latest summary: `summaries/beats/0367.md`
-- Safe profiles through: chapter 367
+- Last completed: 368
+- Next chapter: 369
+- Current block: 365–369 (4/5)
+- Latest translation: `translations/0368.md`
+- Latest summary: `summaries/beats/0368.md`
+- Safe profiles through: chapter 368
 
 ## Current Block
 
-- Jeok Cheongang awakens amid the collapse of the Sichuan Tang Clan’s underground prison, carries unconscious Jin Taekyung and the Divine Physician through the collapsing cavern, and escapes after using the Flame-Extinguishing Divine Fist to break through the blocked entrance; the Heavenly Power Demon’s corpse remains inside. Outside, Dark Heaven’s deputy captain gathers more than a hundred black-clad men to search for the Western Heaven Demon Lord, but Jeok emerges with Taekyung and the Divine Physician. The physician identifies himself as Dong Feng and urges Jeok not to sacrifice his life, while Jeok prepares to fight and entrusts Taekyung to him. A boy appears above them in the sunlight, and Jeok recognizes him as the Slaughter Saint.
+- The youthful figure bearing the name Mungyeong is revealed as the Slaughter Saint and Dong Feng’s Master, a former supreme assassin who abandoned killing to live as a physician for more than forty years. After Dark Heaven awakens him, he kills First Fiend, at least one other Qilian Fiend, the deputy captain, and more than one hundred black-clad attackers.
+- Tang Sadok remains alive but critically wounded after watching the Sichuan Tang Clan’s destruction. He reunites with Mimi and sends the snake away to safety, but Cheongpung arrives, confirms that the dead are Dark Heaven’s attackers, and uses True Qi Guidance to stabilize Tang Sadok before telling him to rest.
 
 ## Open Questions
 
-- Who is the boy Jeok Cheongang identifies as the Slaughter Saint, and what does he want?
+- Which of the Second and Third Fiends was stationed at Qingcheng, and what happened to the other brother at Emei?
 - What is the true nature and purpose of the Lord of Heaven, and what became of the Western Heaven Demon Lord?
-- What is the outcome of the Dark Heaven operations at Qingcheng and Emei?
-- Can Jin Taekyung recover, and can Jeok protect him and the Divine Physician from Dark Heaven and the Slaughter Saint?
+- Can Jin Taekyung recover, and can Jeok Cheongang protect him and Dong Feng from Dark Heaven and the Slaughter Saint?
 - Can the remaining Tang Clan prisoners and defenders survive the collapsed prison and wider assault?
+- What is the full nature of the Slaughter Saint’s connection to the identity or name Mungyeong?
 
 ## Exceptional Decision
 
 - Use Red Slaughter Demon and Red Slaughter Asura Net for 적살마 and 적살수라망.
-- Use Red Slaughter Eighteen Axes and Red Slaughter Eighteen Swords for 적살십팔부 and 적살십팔검.
 - Use First Captain for 일 단주 and deputy captain for 부단주.
 - Use mechanism array for 기관진법.
 - Maintain Cheongpung’s dreamy, childlike speech while rendering his copied techniques precisely.
+- Use Ghost Illusory Slaughter Step for 유령환살보.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
