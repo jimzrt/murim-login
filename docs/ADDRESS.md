@@ -542,3 +542,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 청풍고검 | younger_martial_artist_to_senior_sect_leader | Perfected One | formal-deferential | Jin greets the Qingcheng Sect Leader as 진인. |
 | 멸절신니 | 진태경 | senior_sect_leader_to_younger_martial_artist | Benefactor Jin | familiar-polite | Extinction Divine Nun addresses Jin as 진 시주. |
 | 청풍고검 | 멸절신니 | sect_leader_to_senior_sect_leader | Venerable Nun | formal-deferential | Cheongpung the Ancient Sword addresses her as 신니 while praising Jin and Cheongpung. |
+| 적천강 | 문가 | hostile_interlocutors | Mun | blunt and threatening | Jeok Cheongang addresses the Slaughter Saint as Mun while defending Jin Taekyung. |
+| 청풍고검 | 진 시주 | sect_leader_to_younger_martial_companion | Benefactor Jin | formal and courteous | Cheongpung the Ancient Sword addresses Jin Taekyung while asking why he reacted to the discussion of the formation. |

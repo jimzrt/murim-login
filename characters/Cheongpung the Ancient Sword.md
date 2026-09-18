@@ -1,9 +1,9 @@
 # Cheongpung the Ancient Sword (청풍고검)
 
-- **Safe through:** Chapter 371
+- **Safe through:** Chapter 372
 - **Aliases:** None
-- **Role:** Sect Leader of the Qingcheng Sect and a Supreme Peak martial artist who mobilizes the sect to help Jin Taekyung find the Divine Physician at Mae Jonghak's request.
+- **Role:** Sect Leader of the Qingcheng Sect and a Supreme Peak martial artist investigating Dark Heaven's strange formation alongside Extinction Divine Nun.
 - **Personality:** Straightforward, genial, and willing to help with matters he considers worthwhile.
 - **Voice:** Warm, plainspoken, and good-humored.
-- **Relationships:** Mae Jonghak specifically asked him to assist Jin Taekyung, and he commits the Qingcheng Sect and its wider lay-disciple network to the search for the Divine Physician.
+- **Relationships:** He is investigating Dark Heaven's strange formation alongside Extinction Divine Nun.
 - **Sources:** Korean source and accepted translation, Chapter 338
