@@ -1,20 +1,20 @@
 # Translation State
 
-- Last completed: 363
-- Next chapter: 364
-- Current block: 360–364 (4/5)
-- Latest translation: `translations/0363.md`
-- Latest summary: `summaries/beats/0363.md`
-- Safe profiles through: chapter 363
+- Last completed: 364
+- Next chapter: 365
+- Current block: 360–364 (5/5)
+- Latest translation: `translations/0364.md`
+- Latest summary: `summaries/beats/0364.md`
+- Safe profiles through: chapter 364
 
 ## Current Block
 
-- Jin Taekyung shields the treatment room from the Western Heaven Demon Lord's attack but suffers severe injuries. The Divine Physician survives while protecting Jeok Cheongang, though his dantian and martial arts are destroyed and his wrist is broken. Taekyung attempts to bargain with the Myriad-Poison Ring, but the Demon Lord reveals that it is an indestructible sacred treasure that cannot even be appraised by the System.
-- The Western Heaven Demon Lord attacks Taekyung to reclaim the ring. Taekyung breaks the Demon Lord's ankle and gains a sudden martial insight that allows him to sense and evade the Demon Lord's qi-controlled sword, but he is still badly wounded. Just as the Demon Lord is about to kill him, Jeok Cheongang awakens and orders the Demon Lord not to touch Taekyung.
+- Jeok Cheongang awakens from a long dream of his life as Jangcheon and confronts the Western Heaven Demon Lord, who seizes Jin Taekyung by the throat and demands that Jeok kill himself. Jeok appears to agree to preserve his Disciple and the Fire Gate Clan's lineage, but the Demon Lord secretly intends to kill everyone. Taekyung then awakens enough to tear the Demon Lord's wrist free, allowing Jeok to attack with the Flame Divine Palm.
+- The Western Heaven Demon Lord counters with Sword Force while Jeok's still-recovering body falters. Taekyung receives three Level Ups and partial restoration of his injuries, then gains the enlightenment needed to cross the wall into the Supreme Peak realm. He uses Seizing an Object Through Empty Space to draw White Flame, whose spearhead releases a roaring fire dragon.
 
 ## Open Questions
 
-- Can Jin Taekyung survive his injuries and the continuing confrontation with the Western Heaven Demon Lord?
+- What will be the outcome of the unresolved confrontation between Jin Taekyung, Jeok Cheongang, and the Western Heaven Demon Lord?
 - What is the full nature and purpose of the Myriad-Poison Ring?
 - Can the Divine Physician survive after losing his dantian and martial arts?
 - What is the actual outcome of the attacks on the Tang Clan, Qingcheng, and Emei?
@@ -24,8 +24,9 @@
 
 - Render 신물 as sacred treasure.
 - Render 이기어검 as Qi-Controlled Sword or the art of controlling a sword with qi.
-- Preserve Jin Taekyung's vulgar, self-mocking voice and crude battle wordplay.
-- Use established renderings for Western Heaven Demon Lord, Divine Physician, Myriad-Poison Ring, Sword Force, Spear Energy, Body-Protecting Qi, and underground prison.
+- Render 화신귀무 as Dance of the Fire God and Demon, 겁화 as hellfire, and 초절정 as Supreme Peak.
+- Preserve Jin Taekyung's vulgar, self-mocking voice and Jeok Cheongang's rough, profane protective voice.
+- Use established renderings for White Flame, Seizing an Object Through Empty Space, Sword Force, Scorching Yang Qi, and underground prison.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
