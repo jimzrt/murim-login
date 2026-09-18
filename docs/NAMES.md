@@ -1276,3 +1276,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 흑혈검법 | **Black Blood Sword Technique** | Sword technique restricted to Dark Heaven martial artists. |
 | 권강 | **Fist Force** | Qi force projected through the Western Heaven Demon Lord's fist. |
 | 후발선제 | **Striking Second, Hitting First** | Principle describing the Western Heaven Demon Lord's counterattack. |
+| 맞고 뒈져라 신공 | **Get Hit and Fucking Die Technique** | Taekyung's joking name for his initial spear strike. |
+| 흡정대법 | **Essence-Siphoning Great Technique** | Technique the Western Heaven Demon Lord suspects Taekyung used on the prisoners. |
+| 괴력난신 | **supernatural powers** | Term for extraordinary and unnatural powers. |
+| 염라대왕 | **Yama** | Expanded source form of the established underworld ruler term 염라. |
+| 청계천 | **Cheonggyecheon** | Stream invoked in Taekyung's joke about Dark Heaven. |

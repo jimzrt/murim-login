@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "I kicked off the leather shoes whose soles had been completely torn away and glared at the bastard in the distance.",
+      "defect": "The draft changes taking off and throwing away the shoes into kicking them off, altering the narrated physical action.",
+      "id": "F01",
+      "rationale": "벗어 던지며 explicitly describes removing the shoes and throwing them aside, while 밑창이 사라져 버린 says the soles were gone rather than merely torn.",
+      "replacement": "I pulled off the leather shoes whose soles had completely disappeared, tossed them aside, and glared at the bastard in the distance.",
+      "severity": "critical",
+      "source": "나는 밑창이 사라져 버린 가죽 신발을 벗어 던지며, 저 멀리 보이는 놈을 노려보았다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“You bastard. Not bad.”",
+      "defect": "The translation sanitizes the strong profanity and changes a taunting question into a flat statement.",
+      "id": "F02",
+      "rationale": "시벌놈 is strongly profane, and 좀 한다? is an impressed but confrontational question.",
+      "replacement": "“Fucking bastard. You’re pretty good, huh?”",
+      "severity": "major",
+      "source": "“시벌놈. 좀 한다?”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“I’m beginning to understand why the Blood Lord called you arrogant. And…” \n\nThe Western Heaven Demon Lord’s eyes swept over my entire body.\n\n“Why he wanted to kill you so badly.”\n\n“You’re dangerous.”",
+      "defect": "The draft moves the second half of the first statement until after the Demon Lord scans Taekyung, changing the sequence and turning the scan into an interruption absent from the source.",
+      "id": "F03",
+      "rationale": "The Korean completes both clauses before the narration describing his gaze, then delivers 자네는 위험해 as the conclusion of that appraisal.",
+      "replacement": "“I’m beginning to understand why the Blood Lord called you arrogant. And… why he wanted to kill you so badly.”\n\nThe Western Heaven Demon Lord’s eyes swept over my entire body.\n\n“You’re dangerous.”",
+      "severity": "major",
+      "source": "“혈주가 왜 자네를 두고 건방지다고 했는지, 점점 이해가 가기 시작하는군. 그리고…… 왜 그리 죽이고 싶어 했는지도.”\n\n서천마군의 두 눈동자가 내 전신을 훑었다.\n\n“자네는 위험해.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The Western Heaven Demon Lord clenched and unclenched his bloodied palm in a quiet voice.",
+      "defect": "The modifier is attached illogically, making it sound as though the physical action itself has a voice.",
+      "id": "F04",
+      "rationale": "나직한 목소리 describes how he speaks while clenching and opening his hand.",
+      "replacement": "Speaking in a low voice, the Western Heaven Demon Lord clenched and unclenched his bloodied palm.",
+      "severity": "minor",
+      "source": "서천마군이 나직한 목소리와 함께 피투성이가 된 손바닥을 쥐었다가 폈다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“You are young, so your blood runs hot. If you are hoping for luck like last time, put that thought away. I know that strike was your full strength.”",
+      "defect": "“Last time” incorrectly points to an earlier occasion, while 처음 refers to the luck Taekyung enjoyed at the beginning of this fight.",
+      "id": "F05",
+      "rationale": "처음 means the beginning or initial exchange here, not a separate previous encounter.",
+      "replacement": "“You are young, so your blood runs hot. If you are hoping for the same luck you had at the start, forget it. I know that strike was your full strength.”",
+      "severity": "major",
+      "source": "“젊어서 그런지 혈기가 지나쳐. 혹시 처음 같은 행운을 기대한다면, 고이 접어 두게. 그 일격이 자네의 전력이었다는 것쯤은 알고 있으니 말일세.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "The strike that could have brought down a cliff crashed into the Western Heaven Demon Lord’s side.",
+      "defect": "The draft changes an accomplished fact into a hypothetical capability.",
+      "id": "F06",
+      "rationale": "무너트린 is attributive past and identifies this as the strike that brought down a cliff, not merely one capable of doing so.",
+      "replacement": "The strike that had brought down a cliff slammed into the Western Heaven Demon Lord’s side.",
+      "severity": "major",
+      "source": "절벽을 무너트린 일격이, 서천마군의 옆구리에 틀어박혔다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Yeah. A few perfectly good lives were wasted because of you. They were going to die anyway, though.”",
+      "defect": "The second sentence changes Taekyung’s judgment that the prisoners deserved or needed to die into a prediction that their deaths were already inevitable, while also dropping the contempt in 놈들.",
+      "id": "F07",
+      "rationale": "죽어야 할 놈들이었지만 is deontic and contemptuous: they were bastards who ought to die, not simply people who happened to be destined for death.",
+      "replacement": "“Yeah. A few perfectly good lives were wasted because of you. They were bastards who deserved to die anyway, though.”",
+      "severity": "major",
+      "source": "“그래. 너 때문에 생목숨 몇 개 날아갔다. 어차피 죽어야 할 놈들이었지만.”"
+    },
+    {
+      "confidence": 0.95,
+      "current": "“…Huh.”",
+      "defect": "The draft turns an exhaled sigh into an expression of confusion.",
+      "id": "F08",
+      "rationale": "후 represents Taekyung breathing or sighing out in exasperation after recognizing the feigned injury.",
+      "replacement": "“…Haa.”",
+      "severity": "minor",
+      "source": "“……후.”"
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it alters two physical/action details, misplaces a line around a character beat, weakens some profanity and modality, and contains several localized wording errors.",
+  "version": 1
+}
