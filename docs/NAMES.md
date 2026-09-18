@@ -1377,3 +1377,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 가로쉬 | **Garosh** | Demon Realm word spoken by the Black Knight. |
 | 데스나이트 로드 | **Death Knight Lord** | Level-135 commander of the monster army. |
 | 나이트메어 | **Nightmare** | A-rank monster warhorse ridden by the Death Knight Lord. |
+| 중화 육성 훈련 | **Zhonghua Development Training** | Hunter development program proposed for Lei Fei. |
