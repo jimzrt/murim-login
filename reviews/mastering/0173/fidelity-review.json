@@ -1,56 +1,5 @@
 {
-  "findings": [
-    {
-      "confidence": 0.99,
-      "current": "roasted alive like a whole pig",
-      "defect": "The translation invents a pig; the source says he thought he would be roasted whole while still alive.",
-      "id": "F01",
-      "rationale": "산 채로 통구이가 되나 means being roasted whole alive and does not specify a pig.",
-      "replacement": "roasted whole alive",
-      "severity": "minor",
-      "source": "line 191"
-    },
-    {
-      "confidence": 0.97,
-      "current": "He had a point. I relaxed slightly at Jeok Cheongang’s helpful advice.",
-      "defect": "“Helpful advice” loses the deliberately modern, comic register of 꿀팁.",
-      "id": "F02",
-      "rationale": "꿀팁 is colloquial slang for a useful “pro tip,” creating a joke by treating advice about avoiding defecation as practical expertise.",
-      "replacement": "He had a point. I relaxed slightly at Jeok Cheongang’s pro tip.",
-      "severity": "minor",
-      "source": "line 147"
-    },
-    {
-      "confidence": 0.94,
-      "current": "The Fire King looked at me as though I were the craziest bastard he had ever seen and opened his mouth.",
-      "defect": "The superlative “craziest bastard he had ever seen” intensifies the source reaction.",
-      "id": "F03",
-      "rationale": "별 미친놈 다 보겠다는 표정 expresses incredulous disbelief at encountering this particular lunatic, not a claim that he is the craziest ever encountered.",
-      "replacement": "The Fire King looked at me as if wondering what kind of lunatic I was and opened his mouth.",
-      "severity": "minor",
-      "source": "line 239"
-    },
-    {
-      "confidence": 0.99,
-      "current": "I could tell the moment you opened your eyes.",
-      "defect": "The translation changes the evidence Jeok Cheongang cites: he says even the way the narrator opens his eyes is different, not merely that he recognized the change at that moment.",
-      "id": "F04",
-      "rationale": "눈깔 뜨는 것부터가 다른데 refers to the manner of opening his eyes as visibly different, reinforcing Jeok Cheongang’s close observation.",
-      "replacement": "Even the way you open your eyes is different.",
-      "severity": "minor",
-      "source": "line 257"
-    },
-    {
-      "confidence": 0.92,
-      "current": "“Just a couple of months ago…”",
-      "defect": "The line omits the regretful euphemistic force of 그만 after stating when Jin Baekyang died.",
-      "id": "F05",
-      "rationale": "그만 conveys an unfortunate, regrettable outcome here; the accepted baseline preserved this pragmatic cue.",
-      "replacement": "“Just a couple of months ago, unfortunately…”",
-      "severity": "minor",
-      "source": "line 369"
-    }
-  ],
-  "summary": "The chapter is broadly faithful, with five minor defects involving an invented image, weakened joke register, intensified reaction, lost physical cue, and omitted pragmatic nuance.",
+  "findings": [],
+  "summary": "The assembled English is faithful to the Korean source with no fidelity defects detected.",
   "version": 1
 }

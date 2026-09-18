@@ -1,1 +1,365 @@
-I’ll check the mastering workflow so the adjudication is written in the form this chapter controller expects.{"chapter":173,"decisions":[{"hunk_id":"H001","decision":"SOL","reason":"Restores 눈빛 as the astonishment in Cheongpung’s eyes and tightens 희미하게 웃어 보였다 to a faint smile."},{"hunk_id":"H002","decision":"SOL","reason":"한 대씩 is one blow each, not a full beating; “got a good whack in on every last” keeps that limit."},{"hunk_id":"H003","decision":"SOL","reason":"Echoes the whack wording and the clipped 다 때리긴 누가 denial instead of restating “beat up.”"},{"hunk_id":"H004","decision":"SOL","reason":"Keeps the sudden rebranding as a hidebound old man while dropping the 몸을 trembled calque."},{"hunk_id":"H005","decision":"SOL","reason":"하나뿐인 지기 is “one and only kindred spirit,” which BASE under-renders as “one.”"},{"hunk_id":"H006","decision":"BASE","reason":"눈물을 머금고 is tears in the eyes; SOL’s “holding back” adds unstated restraint."},{"hunk_id":"H007","decision":"SOL","reason":"Restores the 모르긴 몰라도 hedge that BASE omitted."},{"hunk_id":"H008","decision":"SOL","reason":"“Came flooding in” matches 밀려 들어온, and “telling” matches 의미심장한 better than generic “meaningful.”"},{"hunk_id":"H009","decision":"SOL","reason":"Restores the 산 채로 통구이 whole-roast image that BASE flattened to “roasted alive.”"},{"hunk_id":"H010","decision":"SOL","reason":"Keeps 아니기는 as “Like hell you’re not” and the full 속이느니 차라리 comparison to fooling a ghost."},{"hunk_id":"H011","decision":"SOL","reason":"“Kill-or-be-killed” is the natural rendering of 죽고 죽이는 without BASE’s locked-in padding."},{"hunk_id":"H012","decision":"SOL","reason":"Preserves the 않았다면 말이다 hinge as “until he opened his mouth again a moment later.”"},{"hunk_id":"H013","decision":"SOL","reason":"P170’s content moved into the H012 sentence; keeping the standalone line would duplicate the beat."},{"hunk_id":"H014","decision":"SOL","reason":"중진들 are the family’s senior members, not glossary Elders (장로)."},{"hunk_id":"H015","decision":"REPAIR","replacement":"“Just a couple of months ago…”","reason":"BASE adds “unfortunately”; SOL drops the trailing 그만. An ellipsis keeps the cutoff."},{"hunk_id":"H016","decision":"SOL","reason":"언뜻 is a brief flash of anger, not merely a trace."},{"hunk_id":"H017","decision":"REPAIR","replacement":"*Enough. The moment I get out of here, I’m getting the hell out. Maybe I should just use Logout altogether.*","reason":"BASE doubles “out of here”; SOL weakens 빨리 튀자 to “I’m gone.”"}]}
+{
+  "chapter": 173,
+  "decisions": [
+    {
+      "hunk_id": "H001",
+      "decision": "SOL",
+      "reason": "SOL naturalizes the modifier without changing the Master’s eccentric personality."
+    },
+    {
+      "hunk_id": "H002",
+      "decision": "SOL",
+      "reason": "SOL preserves both the frequency of the fights and the sense that each young prodigy was hit."
+    },
+    {
+      "hunk_id": "H003",
+      "decision": "SOL",
+      "reason": "SOL keeps the source’s literal sense of hitting rather than intensifying it to beating up."
+    },
+    {
+      "hunk_id": "H004",
+      "decision": "SOL",
+      "reason": "SOL preserves the sequence and avoids adding the less direct claim that he was unable to defend himself."
+    },
+    {
+      "hunk_id": "H005",
+      "decision": "SOL",
+      "reason": "SOL fixes the awkward subject while retaining the good-once-known meaning."
+    },
+    {
+      "hunk_id": "H006",
+      "decision": "SOL",
+      "reason": "SOL keeps the same-battlefield sense in natural action prose."
+    },
+    {
+      "hunk_id": "H007",
+      "decision": "SOL",
+      "reason": "SOL is a natural recast with the same comparison between behavior, speech, soul, and blood."
+    },
+    {
+      "hunk_id": "H008",
+      "decision": "BASE",
+      "reason": "The BASE preserves the explicit action and addressee, Cheongpung, which SOL drops."
+    },
+    {
+      "hunk_id": "H009",
+      "decision": "SOL",
+      "reason": "SOL uses the required English ellipsis convention without changing the reaction."
+    },
+    {
+      "hunk_id": "H010",
+      "decision": "SOL",
+      "reason": "SOL keeps the meaning while using a smoother participial construction."
+    },
+    {
+      "hunk_id": "H011",
+      "decision": "SOL",
+      "reason": "SOL applies the required ellipsis typography without changing the reaction."
+    },
+    {
+      "hunk_id": "H012",
+      "decision": "SOL",
+      "reason": "SOL keeps the trembling reaction while removing unnecessary wording."
+    },
+    {
+      "hunk_id": "H013",
+      "decision": "SOL",
+      "reason": "SOL is the natural spoken form of asking what the term was called."
+    },
+    {
+      "hunk_id": "H014",
+      "decision": "SOL",
+      "reason": "SOL preserves both source judgments: the words sound bad and their feel or nuance is unpleasant."
+    },
+    {
+      "hunk_id": "H015",
+      "decision": "SOL",
+      "reason": "SOL uses a clear pronoun while preserving the uncertainty about the words’ meaning."
+    },
+    {
+      "hunk_id": "H016",
+      "decision": "BASE",
+      "reason": "BASE preserves the Yangtze rear-wave image and its generational metaphor; SOL’s “from behind” is awkward and weakens it."
+    },
+    {
+      "hunk_id": "H017",
+      "decision": "BASE",
+      "reason": "SOL drops the explicit action of opening his mouth after feeling his head ache."
+    },
+    {
+      "hunk_id": "H018",
+      "decision": "BASE",
+      "reason": "SOL drops the source’s physical action of turning his head."
+    },
+    {
+      "hunk_id": "H019",
+      "decision": "SOL",
+      "reason": "SOL keeps the squinting detail in a cleaner participial construction."
+    },
+    {
+      "hunk_id": "H020",
+      "decision": "SOL",
+      "reason": "SOL removes the redundant sentence because the trembling action is retained in the following integrated hunk."
+    },
+    {
+      "hunk_id": "H021",
+      "decision": "SOL",
+      "reason": "SOL integrates the fragment naturally while preserving the trembling and Internal Injury performance."
+    },
+    {
+      "hunk_id": "H022",
+      "decision": "BASE",
+      "reason": "BASE preserves the glossary’s established realm rendering, Third Rate; SOL incorrectly lowercases it."
+    },
+    {
+      "hunk_id": "H023",
+      "decision": "SOL",
+      "reason": "SOL naturalizes the crude body reference without changing the physical action or joke."
+    },
+    {
+      "hunk_id": "H024",
+      "decision": "SOL",
+      "reason": "SOL’s “phrase” is idiomatic English with the same meaning as the source’s word-like expression."
+    },
+    {
+      "hunk_id": "H025",
+      "decision": "BASE",
+      "reason": "SOL drops the source’s repeated “last” escalation; BASE preserves the comic emphasis."
+    },
+    {
+      "hunk_id": "H026",
+      "decision": "SOL",
+      "reason": "SOL applies the required ellipsis typography without changing the hesitant agreement."
+    },
+    {
+      "hunk_id": "H027",
+      "decision": "SOL",
+      "reason": "SOL preserves both the tears and the act of opening his eyes in natural word order."
+    },
+    {
+      "hunk_id": "H028",
+      "decision": "SOL",
+      "reason": "SOL keeps the blazing-fire image while making the glaring subject explicit."
+    },
+    {
+      "hunk_id": "H029",
+      "decision": "SOL",
+      "reason": "SOL keeps the same judgment in a tighter, idiomatic form."
+    },
+    {
+      "hunk_id": "H030",
+      "decision": "SOL",
+      "reason": "SOL preserves the familiar hyung address and renders the shocked question naturally."
+    },
+    {
+      "hunk_id": "H031",
+      "decision": "SOL",
+      "reason": "SOL preserves the Fire King identification and Supreme Peak ranking in a natural sentence."
+    },
+    {
+      "hunk_id": "H032",
+      "decision": "SOL",
+      "reason": "SOL’s “telling message” preserves the meaningful, suggestive quality of the System notice."
+    },
+    {
+      "hunk_id": "H033",
+      "decision": "SOL",
+      "reason": "SOL preserves both the immunity question and the fact that his internal energy was absorbed."
+    },
+    {
+      "hunk_id": "H034",
+      "decision": "SOL",
+      "reason": "SOL retains the brief but intense deliberation and eventual conclusion."
+    },
+    {
+      "hunk_id": "H035",
+      "decision": "SOL",
+      "reason": "SOL’s “reached” is natural English for entering the acceptance stage."
+    },
+    {
+      "hunk_id": "H036",
+      "decision": "SOL",
+      "reason": "SOL preserves the causal order: the Demonic Cultists set the fire, then he wiped them out."
+    },
+    {
+      "hunk_id": "H037",
+      "decision": "SOL",
+      "reason": "SOL uses natural English possessive order without changing whose conversation he heard."
+    },
+    {
+      "hunk_id": "H038",
+      "decision": "SOL",
+      "reason": "SOL retains the explicit non-declaration while removing redundant literal phrasing."
+    },
+    {
+      "hunk_id": "H039",
+      "decision": "SOL",
+      "reason": "SOL’s “trudged” naturally conveys the slow, reluctant movement toward slaughter."
+    },
+    {
+      "hunk_id": "H040",
+      "decision": "BASE",
+      "reason": "SOL drops the explicit action that the Fire King opened his mouth before speaking."
+    },
+    {
+      "hunk_id": "H041",
+      "decision": "SOL",
+      "reason": "SOL’s exclamation mark better preserves the startled outburst."
+    },
+    {
+      "hunk_id": "H042",
+      "decision": "BASE",
+      "reason": "BASE preserves the crisp impact sound; SOL changes the sound-focused “impact” into a physical “blow.”"
+    },
+    {
+      "hunk_id": "H043",
+      "decision": "SOL",
+      "reason": "SOL keeps the observation and the closed-mouth behavior in a tighter construction."
+    },
+    {
+      "hunk_id": "H044",
+      "decision": "SOL",
+      "reason": "SOL more directly preserves that even the way he opened his eyes was different."
+    },
+    {
+      "hunk_id": "H045",
+      "decision": "SOL",
+      "reason": "SOL’s “stuck his head in” is a natural comic rendering of the sudden head movement."
+    },
+    {
+      "hunk_id": "H046",
+      "decision": "SOL",
+      "reason": "SOL’s “went dry” is idiomatic and preserves the nervous physical reaction."
+    },
+    {
+      "hunk_id": "H047",
+      "decision": "SOL",
+      "reason": "SOL preserves the source’s spoken “Ah!” while making the exclamation explicit."
+    },
+    {
+      "hunk_id": "H048",
+      "decision": "SOL",
+      "reason": "SOL retains the identification question and confirmation; the preceding hunk carries the separate “Ah!”"
+    },
+    {
+      "hunk_id": "H049",
+      "decision": "SOL",
+      "reason": "SOL keeps the travel context and renders his marked courtesy naturally."
+    },
+    {
+      "hunk_id": "H050",
+      "decision": "SOL",
+      "reason": "SOL more naturally expresses that memories are what remain to a person, especially an old man."
+    },
+    {
+      "hunk_id": "H051",
+      "decision": "SOL",
+      "reason": "SOL explicitly preserves the narrator’s complaint that this particular memory was of the Head Elder."
+    },
+    {
+      "hunk_id": "H052",
+      "decision": "SOL",
+      "reason": "SOL preserves the current impression that Jeok Cheongang remembers him fondly."
+    },
+    {
+      "hunk_id": "H053",
+      "decision": "SOL",
+      "reason": "SOL naturally renders the unspecified wrongdoing without adding a specific act."
+    },
+    {
+      "hunk_id": "H054",
+      "decision": "SOL",
+      "reason": "SOL preserves both his formidable martial arts and his broad respect in smoother prose."
+    },
+    {
+      "hunk_id": "H055",
+      "decision": "SOL",
+      "reason": "SOL naturalizes the bloodline inference while retaining attainment as the evidence."
+    },
+    {
+      "hunk_id": "H056",
+      "decision": "SOL",
+      "reason": "SOL renders 약관 naturally after the explicit statement that he is twenty."
+    },
+    {
+      "hunk_id": "H057",
+      "decision": "SOL",
+      "reason": "SOL applies the required ellipsis typography without changing the reply."
+    },
+    {
+      "hunk_id": "H058",
+      "decision": "SOL",
+      "reason": "SOL turns the fragment into natural prose while preserving the instruction, place, and timing."
+    },
+    {
+      "hunk_id": "H059",
+      "decision": "SOL",
+      "reason": "SOL preserves the enthusiastic instruction and the near splitting of his head by Sword Energy."
+    },
+    {
+      "hunk_id": "H060",
+      "decision": "BASE",
+      "reason": "SOL changes 석년의 meaning from his past or his day to his youth; BASE preserves the temporal sense."
+    },
+    {
+      "hunk_id": "H061",
+      "decision": "SOL",
+      "reason": "SOL correctly makes explicit that his martial arts, not merely he generally, must have improved."
+    },
+    {
+      "hunk_id": "H062",
+      "decision": "SOL",
+      "reason": "SOL’s “one corner” is natural and preserves the cemetery location."
+    },
+    {
+      "hunk_id": "H063",
+      "decision": "BASE",
+      "reason": "BASE preserves the established rank rendering Elder; SOL replaces it with the unsupported “senior members.”"
+    },
+    {
+      "hunk_id": "H064",
+      "decision": "SOL",
+      "reason": "SOL correctly renders 박대하다 as treating someone coldly rather than physically turning him away."
+    },
+    {
+      "hunk_id": "H065",
+      "decision": "BASE",
+      "reason": "SOL drops the explicit action of opening his mouth after taking a deep breath."
+    },
+    {
+      "hunk_id": "H066",
+      "decision": "SOL",
+      "reason": "SOL applies the required ellipsis typography without changing the confused reaction."
+    },
+    {
+      "hunk_id": "H067",
+      "decision": "SOL",
+      "reason": "SOL combines the attribution with the following muttered dialogue naturally and preserves the timing."
+    },
+    {
+      "hunk_id": "H068",
+      "decision": "SOL",
+      "reason": "SOL deletes the separate line because its dialogue is preserved in the preceding integrated sentence."
+    },
+    {
+      "hunk_id": "H069",
+      "decision": "SOL",
+      "reason": "SOL naturally renders 팔팔한 나이에 as “still going strong” while preserving the narrator’s correction."
+    },
+    {
+      "hunk_id": "H070",
+      "decision": "SOL",
+      "reason": "SOL’s “as if” is an equivalent natural comparison."
+    },
+    {
+      "hunk_id": "H071",
+      "decision": "SOL",
+      "reason": "SOL preserves the narrator’s decision to flee and keeps the conversational profanity."
+    },
+    {
+      "hunk_id": "H072",
+      "decision": "SOL",
+      "reason": "SOL keeps the immediate transition into the realization in natural English."
+    }
+  ]
+}
