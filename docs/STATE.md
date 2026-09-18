@@ -1,22 +1,23 @@
 # Translation State
 
-- Last completed: 400
-- Next chapter: 401
-- Current block: 400–404 (1/5)
-- Latest translation: `translations/0400.md`
-- Latest summary: `summaries/beats/0400.md`
-- Safe profiles through: chapter 400
+- Last completed: 401
+- Next chapter: 402
+- Current block: 400–404 (2/5)
+- Latest translation: `translations/0401.md`
+- Latest summary: `summaries/beats/0401.md`
+- Safe profiles through: chapter 401
 
 ## Current Block
 
-- During his battle with Jin Taekyung, the black knight's attacks awaken memories revealing that he is Lei Fei. Lei was raised by Wei Fenghu, initially refused Hunter training for his safety, then chose to become a Hunter, trained alongside Wu Heixing, formed a family with a flower-shop owner, and led the Public Security Armed Forces Department during the Gaoping District Monster Wave. After Jin calls him Lei Fei, his human memories fully resurface, but his lord's irresistible word-spell commands him to remain the lord's most loyal servant and supreme commander of the legion, causing his mana to erupt.
+- Jin Taekyung recognizes the Death Knight Lord as Lei Fei, Wei Fenghu's nephew and China's secretly raised S-rank Hunter. Lei Fei's trembling body and human-looking eyes make Jin briefly wonder whether his undead transformation is incomplete, but Lei Fei invokes his lord, absorbs the death energy of fallen monsters, restores his armor and bones, and identifies himself as the supreme commander of the legion of the dead.
+- Jin accepts that Lei Fei has become a monster and continues the battle. The Death Knight Lord imitates Jin's martial arts, including the Flame Divine Palm, but Jin's greater experience and power gradually destroy his armor. Jin uses Seizing an Object Through Empty Space to pull White Flame through Lei Fei's chest and tells him to rest.
 
 ## Open Questions
 
 - Who is Lei Fei's lord, what is the lord's origin, and how does the lord relate to the Arch Lich's objective?
 - Can Lei Fei resist the word-spell and retain or recover his human identity?
 - What happened to Lei Fei's wife and daughter during the Gaoping District Monster Wave?
-- What will happen in Jin Taekyung's continuing battle with Lei Fei?
+- What is Lei Fei's condition after Jin pierces his chest with White Flame?
 - What happened to the Second Fiend assigned to the Qingcheng attack?
 
 ## Exceptional Decision

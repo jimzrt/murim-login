@@ -1,0 +1,105 @@
+{
+  "chapter": 401,
+  "files": {
+    "characters/Divine Physician.md": "a65c75bcf500ab9b11e139ae9a06d227e55589ecdfbe5475e2c535ffcb640012",
+    "characters/Lei Fei.md": "956a80d6a32d76efb6a08cd63ef0ec6ee499251424e106cd0fd01a0c0609d4d0",
+    "characters/Wei Fenghu.md": "ebd736367f1d2664cd14d1e735ced05239a631da61b9b53b19caad2517b01ce4",
+    "docs/ADDRESS.md": "486e259149e9e064de2dc060343871404409ffe5ce427d77bb9bb7dd90417624",
+    "docs/CONTEXT.json": "6633b9b24b273c59d08c38504e2f2223b75b8096b24331fb887432f453cb25d3",
+    "docs/NAMES.md": "1c37814ef5658d9022f66b3b32127bb21705dc26d6967091945cae0f256c3753",
+    "docs/STATE.md": "9df0879ed174a183c5de99d1355a2923f6f066a99d6f349e9e20cfb542bf8343",
+    "summaries/beats/0401.md": "f15060a39006249ca8bcbf36339ecd517a9e63a9b745d02d3bf724da26e5b2d7"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "레이페이",
+        "kinship": "former ally and fellow Hunter",
+        "normal_address": "Lei Fei",
+        "notes": "Jin addresses Lei Fei by name before telling him to rest.",
+        "speaker": "진태경",
+        "speech_level": "blunt and solemn"
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "Lei Fei is a level-140 undead Death Knight Lord and supreme commander of the legion of the dead.",
+        "Lei Fei serves an unidentified lord and has been corrupted by the Arch Lich.",
+        "Lei Fei's human-like reactions briefly make Jin suspect that his undead transformation may be incomplete, but Lei Fei responds to his lord's command and is restored by the death energy of fallen monsters.",
+        "The Death Knight Lord can imitate Jin's martial arts, including the Flame Divine Palm and a grappling technique, though his execution remains imperfect.",
+        "Jin's Fire Dragon Armor loses durability during the battle, while the Death Knight Lord's armor is destroyed.",
+        "Jin has pierced Lei Fei's chest with White Flame and told him to rest; Lei Fei's final condition is unresolved."
+      ],
+      "plot": [
+        "Jin Taekyung recognizes the Death Knight Lord as Lei Fei, Wei Fenghu's nephew and China's secretly raised S-rank Hunter. Lei Fei's trembling body and human-looking eyes make Jin briefly wonder whether his undead transformation is incomplete, but Lei Fei invokes his lord, absorbs the death energy of fallen monsters, restores his armor and bones, and identifies himself as the supreme commander of the legion of the dead.",
+        "Jin accepts that Lei Fei has become a monster and continues the battle. The Death Knight Lord imitates Jin's martial arts, including the Flame Divine Palm, but Jin's greater experience and power gradually destroy his armor. Jin uses Seizing an Object Through Empty Space to pull White Flame through Lei Fei's chest and tells him to rest."
+      ],
+      "translation_decisions": []
+    },
+    "chapter": 401,
+    "context": {
+      "active_continuity": [
+        "The black knight is confirmed to be Lei Fei, the missing Chinese S-rank Hunter.",
+        "Lei Fei was raised by Wei Fenghu, whom he regards as both uncle and father, and his human memories include an unnamed wife and daughter.",
+        "Lei Fei is now a level-140 undead Death Knight Lord and supreme commander of the legion of the dead.",
+        "Lei Fei serves an unidentified lord and was corrupted by the Arch Lich.",
+        "Lei Fei can imitate Jin's martial arts, including the Flame Divine Palm, but his copied techniques remain imperfect.",
+        "Jin's Fire Dragon Armor has lost durability during the battle.",
+        "Jin has pierced Lei Fei's chest with White Flame using Seizing an Object Through Empty Space.",
+        "Lei Fei's condition after being pierced remains unresolved."
+      ],
+      "continuity_sources": [
+        401,
+        400
+      ],
+      "open_questions": [
+        "Who is Lei Fei's lord, what is the lord's origin, and how does the lord relate to the Arch Lich's objective?",
+        "Can Lei Fei resist the word-spell and retain or recover his human identity?",
+        "What happened to Lei Fei's wife and daughter during the Gaoping District Monster Wave?",
+        "What is Lei Fei's condition after Jin pierces his chest with White Flame?",
+        "What happened to the Second Fiend assigned to the Qingcheng attack?"
+      ],
+      "safe_through": 401,
+      "temporary_decisions": [
+        "Render 나이트메어 as Nightmare.",
+        "Use black knight for 검은 기사 and keep it distinct from Death Knight and Death Knight Lord.",
+        "Render 언령 as word-spell.",
+        "Render 중화 육성 훈련 as Zhonghua Development Training.",
+        "Preserve Jin's blunt, profane combat voice."
+      ],
+      "version": 1
+    },
+    "names": [
+      {
+        "english": "Death Knight Lord",
+        "korean": "데스나이트 로드",
+        "notes": "Level-140 undead commander leading the legion of the dead."
+      },
+      {
+        "english": "Blazing Flame Divine Spear",
+        "korean": "열화신창",
+        "notes": "Jin's spear technique; its first form appears in this chapter."
+      },
+      {
+        "english": "Arch Lich",
+        "korean": "아크 리치",
+        "notes": "The being identified as having corrupted Lei Fei."
+      }
+    ],
+    "profile_creations": [],
+    "profile_updates": [
+      {
+        "current": "- **Role:** Lei Fei is a concealed Chinese S-rank Hunter and former head of the Public Security Armed Forces Department in Sichuan Province who now exists as an undead black knight and the supreme commander of his lord's legion.",
+        "path": "characters/Lei Fei.md",
+        "replacement": "- **Role:** Lei Fei is a concealed Chinese S-rank Hunter and former head of the Public Security Armed Forces Department in Sichuan Province who now exists as a level-140 undead Death Knight Lord and supreme commander of the legion of the dead."
+      },
+      {
+        "current": "- **Relationships:** Wei Fenghu is his maternal uncle who raised him as a son; Lei Fei married an unnamed flower-shop owner and had a daughter, trained alongside Wu Heixing, and now serves his lord as the legion's supreme commander.",
+        "path": "characters/Lei Fei.md",
+        "replacement": "- **Relationships:** Wei Fenghu is his maternal uncle who raised him as a son; Lei Fei married an unnamed flower-shop owner and had a daughter, trained alongside Wu Heixing, and now serves an unidentified lord after the Arch Lich corrupted him."
+      }
+    ],
+    "version": 1
+  },
+  "version": 1
+}
