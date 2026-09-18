@@ -627,3 +627,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 매직 존슨 | 최 팀장 | foreign archmage addressing the Korean Team Leader | Choi | casual and familiar | Magic Johnson calls him Choi while reacting theatrically to his decision to remain behind. |
 | 진태경 | 필릭스 | Korean S-rank Hunter addressing a British prince | His Highness | mock-formal and sarcastic | Felix demands formal address, and Jin complies by calling him His Highness while continuing to mock him. |
 | 데스나이트 | 검은 기사 | subordinate commander and legion leader | Lord | formal and deferential | The Death Knights address the Black Knight as Lord while requesting orders. |
+| 최민우 | 샤오 쉔 | superior_to_field_commander | Shao Shen | urgent-commanding | Choi directly orders Shao Shen to withdraw the Public Security Armed Forces Department. |
+| 샤오 쉔 | 최민우 | subordinate_to_superior | Mr. Choi | respectful-formal | Shao Shen addresses Choi as 최 선생님 during the decision to make a final stand. |
+| 데스나이트 | 검은 기사 | subordinate_to_commander | Lord | deferential-honorific | The Death Knights report victory and offer their glory to the black knight. |

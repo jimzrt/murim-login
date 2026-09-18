@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Unlike his heart, which was pounding as if it had been struck by two clubs, his mind was ice-cold.",
+      "defect": "The draft literalizes the idiom as two clubs striking his heart, producing an inaccurate and unnatural physical image. The source simply describes his heart pounding violently.",
+      "id": "F01",
+      "rationale": "두방망이질 치다 is an idiom for pounding or hammering rapidly, not for being struck by two literal clubs.",
+      "replacement": "Unlike his violently pounding heart, his mind was ice-cold.",
+      "severity": "minor",
+      "source": "가파르게 두방망이질 치는 심장과 달리, 그의 머릿속은 차갑게 식어 있었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The monster army, numbering in the tens of thousands, had covered the city like a swarm of ants. Among them were more than a hundred A-rank monsters.",
+      "defect": "The draft increases the total monster force from approximately ten thousand to multiple tens of thousands.",
+      "id": "F02",
+      "rationale": "일만을 헤아리는 denotes a force numbering around ten thousand, not tens of thousands; this materially changes the stated scale of the battle.",
+      "replacement": "The monster army, numbering around ten thousand, had already covered the city like a swarm of ants. Among them were more than a hundred A-rank monsters.",
+      "severity": "critical",
+      "source": "일만을 헤아리는 몬스터 군단은 이미 개미 떼처럼 도시를 뒤덮었고 그중에는 백여 마리의 A급 몬스터가 포함되어 있다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "And the damned People’s Liberation Army had abandoned their weapons and fled before most of the monsters had even reached them.",
+      "defect": "The draft makes the timing depend on most of the monsters reaching the soldiers and leaves the number of fleeing soldiers unstated. The source says that more than half the army fled before the monsters even approached.",
+      "id": "F03",
+      "rationale": "태반 이상 refers to more than half of the People’s Liberation Army personnel, while 몬스터가 다가오기도 전에 means before the monsters came near at all.",
+      "replacement": "And more than half of the damned People’s Liberation Army had thrown down their weapons and fled before the monsters even approached.",
+      "severity": "major",
+      "source": "빌어먹을 인민해방군은 몬스터가 다가오기도 전에 태반 이상이 무기를 버리고 도망쳤다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "More than a dozen soldiers caught in the flying debris died without even having time to scream.",
+      "defect": "The casualty count is inflated: 십여 명 means roughly ten or around a dozen, not more than a dozen.",
+      "id": "F04",
+      "rationale": "The source gives an approximate count just above or around ten; “more than a dozen” establishes a higher lower bound.",
+      "replacement": "Around a dozen soldiers caught in the flying debris died without even having time to scream.",
+      "severity": "minor",
+      "source": "튕겨 나간 파편에 휩쓸린 십여 명의 군인들은 비명도 지르지 못하고 절명했다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "If Shao Shen had made the right decision, a considerable number of them might be able to break through the encirclement and survive.",
+      "defect": "The draft turns an ongoing future condition about Shao Shen’s subsequent judgment into a completed past decision.",
+      "id": "F05",
+      "rationale": "내린다면 is a prospective conditional. Choi Minwoo is considering whether Shao Shen will continue to make sound decisions while leading the retreat.",
+      "replacement": "If Shao Shen made the right calls, a considerable number of them might be able to break through the encirclement and survive.",
+      "severity": "major",
+      "source": "샤오 쉔이 바른 판단을 내린다면 저 중 상당수가 포위망을 뚫고 살아남을 수도 있을 것이다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Even more so when the military leadership, including General Liao, had not shown so much as the tip of their noses.",
+      "defect": "The draft omits Liao’s senior military rank and mechanically calques the Korean idiom.",
+      "id": "F06",
+      "rationale": "상장 is the rank Senior General, a meaningful hierarchy marker. 코빼기도 비추지 않다 naturally means not showing one’s face at all.",
+      "replacement": "All the more so when the military leadership, including Senior General Liao, had not even shown their faces.",
+      "severity": "major",
+      "source": "랴오 상장을 포함한 군 수뇌부가 코빼기도 비추지 않았을 경우에는 더더욱 그렇다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "「This is why we do not retreat. Shao Shen, Regimental Commander of the 1st Regiment of the Sichuan Province Public Security Armed Forces Department, and the 325 personnel under my command have come to protect the people!」",
+      "defect": "The draft makes Shao Shen additional to the 325 personnel, yielding a total of 326. The source presents 325 as the full group led by Shao Shen.",
+      "id": "F07",
+      "rationale": "샤오 쉔 이하 325명 means 325 people in total under Shao Shen’s leadership, not Shao Shen plus another 325.",
+      "replacement": "「This is why we do not retreat. The 325 members of the Sichuan Province Public Security Armed Forces Department’s 1st Regiment, led by Regimental Commander Shao Shen, have come to protect the people!」",
+      "severity": "major",
+      "source": "「이것이 우리가 후퇴하지 않는 이유입니다. 쓰촨성 공안무력부 1연대장 샤오 쉔 이하 325명, 인민을 지키기 위해 왔습니다!」"
+    },
+    {
+      "confidence": 0.9,
+      "current": "And for some reason, at a place that felt familiar from the previous day, he had found something small.",
+      "defect": "The draft makes the place feel familiar because it was seen the previous day, blurring the source’s unexplained sense of familiarity.",
+      "id": "F08",
+      "rationale": "어째서인지 modifies the unexplained familiarity; preserving that cue matters because the black knight does not understand why the location feels familiar.",
+      "replacement": "And at the previous day’s location—a place that felt strangely familiar—he had found something small.",
+      "severity": "minor",
+      "source": "그리고 어째서인지 익숙한 전날의 장소에서, 자그마한 무언가를 발견했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "*Hm? His chest hurt?*",
+      "defect": "The black knight’s direct internal thought abruptly refers to himself in the third person.",
+      "id": "F09",
+      "rationale": "This is the black knight’s own thought, so natural English requires first-person reference while preserving his surprise at the unfamiliar sensation.",
+      "replacement": "*Hm? My chest hurts?*",
+      "severity": "minor",
+      "source": "‘음? 가슴이 아프다?’"
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it alters several quantities and tactical details, omits a military rank and a characterization cue, and contains a few localized register and viewpoint problems.",
+  "version": 1
+}
