@@ -2,11 +2,11 @@
 
 *New Year’s Day.*
 
-Jin Wikyung’s reaction upon seeing the sunlight on the first day of the new year was short and simple.
+Jin Wikyung’s reaction upon seeing the first sunlight of the new year was short and simple.
 
 “Fantastic.”
 
-Wolhwa, who had been tilting her teacup with graceful composure, let out a quiet laugh. She had arrived at the Jin Family of Taiyuan the previous night.
+Wolhwa, who had been sipping her tea with graceful composure, let out a quiet laugh. She had arrived at the Jin Family of Taiyuan the previous night.
 
 With the family currently barring all outsiders from entering, admitting her was a show of respect for their alliance.
 
@@ -92,15 +92,15 @@ But she couldn’t press him any further. If the Jin Family of Taiyuan had truly
 
 Knowing exactly whom Wolhwa meant, Jin Wikyung shook his head.
 
-“He’s been dissatisfied since birth.”
+“He’s been dissatisfied with the world since the day he was born.”
 
-A prickly voice asked,
+A prickly voice cut in.
 
 “Are you talking about me?”
 
 “Who else would I be talking about?”
 
-Wipeng, who had been leaning diagonally against the wall of the office, opened his mouth.
+Wipeng, who had been leaning against the office wall, finally spoke.
 
 “I wholeheartedly agree with my lord. It truly is a fantastic day.”
 
@@ -112,7 +112,7 @@ His subordinate, usually as strict and fussy as an old schoolmaster, was humorin
 
 “Exactly. That’s how important this occasion will be.”
 
-“Can you hear the murmuring from far away? I hear that not only the influential martial artists of Shanxi Murim, but even commoners who heard the news have come.”
+“Can you hear that commotion in the distance? Not only the leading martial artists of Shanxi Murim, but even commoners who heard the news have come.”
 
 “Oh, is that true?”
 
@@ -138,15 +138,15 @@ As Jin Wikyung’s spirits soared, Wipeng smiled.
 
 “You’re really going all out today. What is it? Tell me already!”
 
-The next moment, the smile at the corners of Wipeng’s mouth vanished without a trace.
+The next moment, the smile vanished from Wipeng’s face without a trace.
 
-“At this gathering, where countless martial artists and commoners, distinguished guests from the Nine Sects and One Gang, and even a descendant of the imperial family are coming, both Young Masters are absent.”
+“At this gathering, attended by countless martial artists and commoners, distinguished guests from the Nine Sects and One Gang, and even a member of the imperial family, both Young Masters are absent.”
 
 “…Ah.”
 
 “I can at least understand the Second Young Master. Enlightenment doesn’t come whenever one wants it to, so secluded training is understandable. I’m a martial artist too. But!”
 
-Wipeng continued with a fierce glare.
+Wipeng continued with a murderous glare.
 
 “The Third Young Master absolutely cannot be let off the hook. Leaving at a time like this as though none of it concerned him was bad enough, but now all word from him has stopped completely.”
 
@@ -158,9 +158,9 @@ Jin Wikyung quietly averted his gaze. Wolhwa, his only lifeline, merely shrugged
 
 Jin Wikyung opened his mouth to object, then stopped. The way Wipeng phrased it sounded strange, but it wasn’t wrong.
 
-Wipeng ground his teeth and continued.
+Wipeng ground his teeth.
 
-“Going off to make a weapon when we’re facing such a momentous occasion… I’m an idiot for trusting the Third Young Master even for a moment.”
+“Running off to have a weapon made with such a momentous occasion looming… I’m the idiot for trusting the Third Young Master even for a moment.”
 
 “Now, now.”
 
@@ -184,7 +184,7 @@ Wipeng’s lips moved as though he still had more to say, but he released a deep
 
 Jin Wikyung grinned and left the office.
 
-Fifty martial artists radiating sharp auras stood in formation before the pavilion. Every one of them was at least a First Rate master, and they stared at their lord with unwavering composure.
+Fifty martial artists radiating sharp auras stood in formation before the pavilion. Every one of them was at least a First Rate master, and they watched their lord with unwavering focus.
 
 An eight-cheok-tall giant, Jin Wikyung was the Lesser Family Head of the Jin Family of Taiyuan. In place of the absent Family Head, he had led the family for the past two years and finally set it upon a firm foundation.
 
@@ -228,7 +228,7 @@ It marked the beginning of the grand banquet that would continue for the next th
 
 The area in front of the Jin Family of Taiyuan’s gates was packed with people. There were martial artists wearing swords and blades, merchants hoping to seize an opportunity, and commoners who belonged to neither group.
 
-Even though it was broad daylight, firecrackers celebrating the first day of the new year went off now and then.
+Even in broad daylight, firecrackers celebrating the first day of the new year occasionally burst overhead.
 
 *Boom! Boom-boom!*
 
@@ -238,9 +238,9 @@ While hundreds upon hundreds of people laughed and chatted in the festive atmosp
 
 “Damn it.”
 
-“What kind of situation is this?”
+“How did it come to this?”
 
-“I ought to just—”
+“Those little bastards…”
 
 The five middle-aged men—the heads of the five sects collectively known as the Five Gates of Shanxi—couldn’t smooth out their crumpled expressions.
 
@@ -254,19 +254,19 @@ He had come to clean up the mess caused by his son, Woo Jintae.
 
 But the carefully prepared letters and gifts he sent had been turned away without ever crossing the Jin Family of Taiyuan’s threshold. His pride had taken a beating, but in the end, he had resorted to coming in person.
 
-*I am Woo of the Seongun Escort Bureau.*
+“I am Woo, the man who heads the Seongun Escort Bureau.”
 
 The Seongun Escort Bureau had endured for three generations, and everyone in Shanxi Province knew its name. After all, it had flaunted the enormous fortune it had amassed through any means necessary.
 
 Yet the gate guard’s response had been indifferent.
 
-*You can’t meet him right now.*
+“He is unavailable at present.”
 
-“Come now, man. What do you mean? I’m telling you, I’m the chief of the Seongun Escort Bureau!”
+“Come now, man. What are you talking about? I told you, I’m the chief of the Seongun Escort Bureau!”
 
-*Whether you’re a bureau chief or a sect leader, I don’t know or care. I follow orders.*
+“Bureau chief, sect leader—it makes no difference to me. I follow my orders.”
 
-*…!*
+“…!”
 
 Had he ever suffered such humiliation in his life?
 
@@ -308,7 +308,7 @@ They were only tolerating him because they still needed the Seongun Escort Burea
 
 They remembered clearly what their sons had told them.
 
-*The Sleeping Dragon of Shanxi said he would make the Seongun Escort Bureau an example.*
+*The Sleeping Dragon of Shanxi said he intended to make an example of the Seongun Escort Bureau.*
 
 *Chief Woo and that man are both formidable… Unless they’re the Nine Sects and One Gang, do they really think they can swallow the whole bureau in one bite?*
 
@@ -332,7 +332,7 @@ Woo Hwangtae released a heated sigh and was about to toss the pill into his mout
 
 “Wow, this place is crawling with people. Absolutely crawling.”
 
-Along with the booming voice, something shoved against his arm. The pill dropped, and someone immediately stepped on it.
+A booming voice rang out as something bumped his arm. The pill fell to the ground and was promptly crushed beneath someone’s foot.
 
 “…!”
 
@@ -348,7 +348,7 @@ The huge man stopped in his tracks.
 
 “Yes, you bastard! If you bump into someone, you should apologize immediately!”
 
-“Ah. There were so many people, I didn’t notice. Sorry ’bout that.”
+“Ah. There are so many people that I didn’t notice. Sorry ’bout that.”
 
 The man promptly bowed and turned away, but that only made Woo Hwangtae’s temper flare hotter.
 
@@ -368,13 +368,13 @@ The giant flinched.
 
 “If you hate it, what are you going to do about it?”
 
-The giant snorted a plume of breath before opening his mouth.
+The giant snorted a plume of breath.
 
 “Can I hit him?”
 
-“You bastard, I’ll kill—!”
+“You goddamn bastard…!”
 
-Just as Woo Hwangtae was about to strike, a clear voice came from behind him.
+Just as Woo Hwangtae was about to strike, a clear voice came from behind the giant.
 
 “No.”
 
