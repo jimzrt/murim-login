@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Don’t hold your breath.”",
+      "defect": "The reply is reversed. Lee says he will expect or count on Jin’s funeral contribution, not that Jin should abandon his expectation.",
+      "id": "F01",
+      "rationale": "기대하지 is Lee’s acceptance of Jin’s promise and sustains the veiled threat between them.",
+      "replacement": "“I’ll be counting on it.”",
+      "severity": "critical",
+      "source": "“기대하지.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "*Two jokes like that and I was liable to kill someone.*",
+      "defect": "The draft makes Jin the potential killer, but the source describes Team Leader Choi looking ready to kill someone over another such joke.",
+      "id": "F02",
+      "rationale": "기세다 describes Choi’s visibly murderous demeanor in response to Jin’s teasing.",
+      "replacement": "*One more joke like that and he looked ready to kill me.*",
+      "severity": "critical",
+      "source": "농담 두 번 하면 사람 죽일 기세다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Of course, we have already made the necessary preparations and established contact with the people on the other side.",
+      "defect": "The draft invents unspecified preparations and omits that the necessary information was provided to the receiving side.",
+      "id": "F03",
+      "rationale": "필요한 정보와 연락 refers specifically to supplying information and establishing contact before the Hunters arrive.",
+      "replacement": "Of course, we’ve already provided them with the necessary information and contacted them in advance.",
+      "severity": "major",
+      "source": "물론 저쪽에도 미리 필요한 정보와 연락은 취해 두었소."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Don’t make those faces. I was just a little excited yesterday and was joking around.”",
+      "defect": "The modifiers are reassigned: Magic Johnson says he became overly excited while minimizing what he did as only a tiny prank. The draft instead minimizes his excitement and drops the self-serving minimization of the prank.",
+      "id": "F04",
+      "rationale": "너무 흥분해서 intensifies his excitement, while 아주 약간 comically downplays his coercive behavior.",
+      "replacement": "“Don’t look at me like that. I got a little too excited yesterday and played just the tiniest prank.”",
+      "severity": "major",
+      "source": "「너무 그런 표정 짓지 마. 어제는 내가 너무 흥분해서 아주 약간 장난친 거니까.」"
+    },
+    {
+      "confidence": 0.97,
+      "current": "*‘Hey, Choi. This is a drinking game. Come on, let’s do one like men. What do you say?’*",
+      "defect": "“Like men” is an invented gendered challenge. The source asks Choi to be cool about doing it once.",
+      "id": "F05",
+      "rationale": "쿨하게 means to take it casually or be cool about it; it does not invoke masculinity.",
+      "replacement": "*‘Hey, Choi. It’s just a drinking game. Come on, be cool and do it once. What do you say?’*",
+      "severity": "major",
+      "source": "‘헤이, 최. 이건 술 게임이잖아. 쿨하게 한 번 하자고. 안 그래?’"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“That’s right. Unlike some people, even if we died now, it wouldn’t exactly be a good death.”",
+      "defect": "The literal phrase “good death” obscures the insult: 호상 is a death regarded as fortunate because the deceased lived to an advanced age, and Jin is implying that Lee is already old enough for one.",
+      "id": "F06",
+      "rationale": "The replacement preserves Jin’s contrast between his and Choi’s youth and Lee’s advanced age, which is the point of the retort.",
+      "replacement": "“That’s right. Unlike certain people, we’re too young for our deaths to count as a blessing.”",
+      "severity": "major",
+      "source": "“그래야죠. 우린 누구와 다르게 지금 죽어도 호상(好喪)은 아니니까.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Ah, so that’s how you took it.”",
+      "defect": "The draft shifts responsibility onto Jin’s interpretation. Magic Johnson is acknowledging that his own wording came out suggestively.",
+      "id": "F07",
+      "rationale": "그게 그렇게 되네 reacts to the unintended double meaning of what he just said rather than blaming the listener.",
+      "replacement": "“Ah, that came out wrong.”",
+      "severity": "minor",
+      "source": "「아, 그게 그렇게 되네.」"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Fap!",
+      "defect": "“Fap” is English slang for masturbation and creates an unintended sexual sound effect instead of conveying sudden rapid movement.",
+      "id": "F08",
+      "rationale": "파팟 marks Jin’s abrupt, swift departure.",
+      "replacement": "Whoosh!",
+      "severity": "minor",
+      "source": "파팟!"
+    },
+    {
+      "confidence": 0.97,
+      "current": "A quick look told me that the skin beneath his eyes was hollow.",
+      "defect": "“Skin beneath his eyes was hollow” is an unnatural and anatomically incoherent rendering of his exhausted appearance.",
+      "id": "F09",
+      "rationale": "눈 밑이 퀭하다 describes visibly sunken or darkened eyes from fatigue.",
+      "replacement": "A quick glance revealed dark circles under his eyes.",
+      "severity": "minor",
+      "source": "슬쩍 보니 눈 밑이 퀭하다."
+    }
+  ],
+  "summary": "Two subject/response reversals and several meaningful losses in operational detail, characterization, humor, and natural English.",
+  "version": 1
+}

@@ -600,3 +600,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 매직 존슨 | 파이 첸 | S-rank Hunter to fellow S-rank Hunter | Miss Chen | friendly and playful | Johnson uses the formalized Miss Chen while inviting her to drink. |
 | 파이 첸 | 최 팀장 | older S-rank Hunter to a younger Team Leader | handsome young man | teasing and informal | Faye selects Team Leader Choi as her replacement drinking companion. |
 | 진태경 | 최 팀장 | Hunter to allied Team Leader | Team Leader Choi | informal and concerned | Jin uses Sound Transmission to tell Choi to contact him if anything happens. |
+| 파이 첸 | 진태경 | senior S-rank Hunter to younger fellow Hunter | young man | casual and reassuring | Faye counsels Jin to relax and not take responsibility for every death. |
+| 매직 존슨 | 최 팀장 | fellow S-rank Hunter to Korean Team Leader | Choi | casual and teasing | Magic addresses Choi while offering an awkward farewell before boarding the jet. |
+| 진태경 | 최 팀장 | younger teammate to Team Leader | Team Leader | polite and teasing | Jin repeatedly addresses Choi as Team Leader while joking about their drinking-game bargain and departure. |
