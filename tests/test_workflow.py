@@ -433,6 +433,88 @@ class WorkflowTest(unittest.TestCase):
         address = files[self.root / "docs" / "ADDRESS.md"]
         self.assertIn("| 진태경 | 문경 | allies | Mungyeong | casual | Familiar vocative. |", address)
 
+    def test_durable_files_merges_creation_into_existing_profile(self):
+        (self.root / "docs" / "workflow.json").write_text(
+            json.dumps({**workflow.DEFAULT_CONFIG, "version": 1}), encoding="utf-8"
+        )
+        (self.root / "docs" / "CONTEXT.json").write_text(json.dumps({
+            "version": 1,
+            "safe_through": 0,
+            "continuity_sources": [],
+            "active_continuity": [],
+            "open_questions": [],
+            "temporary_decisions": [],
+        }), encoding="utf-8")
+        (self.root / "docs" / "NAMES.md").write_text(
+            "# Names\n\n| Korean | English | Notes |\n|---|---|---|\n", encoding="utf-8"
+        )
+        (self.root / "docs" / "ADDRESS.md").write_text(
+            "# Established Address Pairs\n\n"
+            "| Speaker | Addressee | Kinship | Normal address | Speech level | Notes |\n"
+            "| ------- | --------- | ------- | -------------- | ------------ | ----- |\n",
+            encoding="utf-8",
+        )
+        source_path = self.root / "source.txt"
+        source_path.write_text("샤오 쉔이 명령을 따랐다.", encoding="utf-8")
+        profile = self.root / "characters" / "Shao Shen.md"
+        profile.parent.mkdir(exist_ok=True)
+        profile.write_text(
+            "# Shao Shen (샤오 쉔)\n\n"
+            "- **Safe through:** Chapter 0\n"
+            "- **Aliases:** None\n"
+            "- **Role:** Airport defender\n"
+            "- **Personality:** Brave\n"
+            "- **Voice:** Rallying\n"
+            "- **Relationships:** Yao Wei\n",
+            encoding="utf-8",
+        )
+        with patch.object(context, "ROOT", self.root), patch.object(
+            context, "chapter_text", return_value=source_path.read_text(encoding="utf-8")
+        ), patch.object(
+            context, "exact_glossary_entries", return_value=[]
+        ), patch.object(
+            context, "profile_entries", return_value=[]
+        ), patch.object(
+            context, "bounded_profiles", side_effect=lambda items: items
+        ):
+            update = {
+                "chapter": 1,
+                "beat": {
+                    "plot": ["Shao Shen followed."],
+                    "continuity": ["He follows Jin."],
+                    "translation_decisions": ["Shao Shen."],
+                },
+                "context": {
+                    "version": 1,
+                    "safe_through": 1,
+                    "continuity_sources": [1],
+                    "active_continuity": ["Shao Shen follows Jin."],
+                    "open_questions": ["What next?"],
+                    "temporary_decisions": ["Use Shao Shen."],
+                },
+                "names": [],
+                "address_pairs": [],
+                "profile_updates": [],
+                "profile_creations": [{
+                    "filename": "Shao Shen.md",
+                    "korean": "샤오 쉔",
+                    "english": "Shao Shen",
+                    "aliases": [],
+                    "role": "Western-front commander",
+                    "personality": "Shy off the battlefield",
+                    "voice": "Calls Jin Teacher Jin",
+                    "relationships": "Follows Jin Taekyung",
+                }],
+            }
+            files = workflow.durable_files(1, update)
+        body = files[profile]
+        self.assertIn("- **Role:** Western-front commander", body)
+        self.assertIn("- **Personality:** Shy off the battlefield", body)
+        self.assertIn("- **Voice:** Calls Jin Teacher Jin", body)
+        self.assertIn("- **Relationships:** Follows Jin Taekyung", body)
+        self.assertIn("- **Safe through:** Chapter 1", body)
+        self.assertIn("- **Aliases:** None", body)
+
     def test_revised_block_runs_update_then_summarize_then_checkpoint(self):
         (self.root / "docs" / "STATE.md").write_text(
             "# Translation State\n\n- Last completed: 8\n- Next chapter: 9\n", encoding="utf-8"
