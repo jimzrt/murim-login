@@ -2,7 +2,7 @@
 
 The Jin Family of Taiyuan.
 
-As its name suggests, its headquarters were in Taiyuan. But like a conglomerate in the real world, the Jin Family of Taiyuan’s influence was not limited to a single city.
+As its name suggested, its headquarters were in Taiyuan. But like a conglomerate in the real world, the Jin Family’s influence extended far beyond a single city.
 
 The family had been established two hundred years ago and had long since expanded its sphere of influence by setting up branches in county towns throughout Shanxi Province.
 
@@ -24,9 +24,9 @@ The thought of running into the enemy with these guys was horrifying. I’d be s
 
 *Should I apply for a transfer?*
 
-Suppressing a sigh, I raised my fist. It was one of the hand signals I had taught them earlier. It meant stop.
+Suppressing a sigh, I raised my fist. It was one of the hand signals I had taught them earlier.
 
-Snort.
+Stop.
 
 The eleven horses trotting at a steady pace came to a halt with a chorus of snorts. Hyuk Mujin, riding to my right, spoke irritably.
 
@@ -50,7 +50,7 @@ Hyuk Mujin’s much higher Level allowed him to hold up fairly well, but fatigue
 
 Ignoring Hyuk Mujin’s scowl, I addressed the squad.
 
-“Fifteen minutes of rest.”
+“Fifteen-minute break.”
 
 They had been given fifteen minutes to rest, but the reconnaissance squad members didn’t look particularly happy. That was because I immediately pulled out a large leather backpack.
 
@@ -82,7 +82,7 @@ The three shield bearers formed the front line. Six swordsmen, from Number One H
 
 It was a formation focused on threats from the front.
 
-“Spread out. Scatter and assemble. Disperse.”
+“Open formation. Break and regroup. Scatter.”
 
 Their faces were still full of complaints, but by now they followed the commands with reasonable skill. They were much better than F-rank Hunters fresh out of a Hunter training center.
 
@@ -144,7 +144,7 @@ Then Han Yeop cut in, his voice wavering.
 
 Hyuk Mujin glared at him.
 
-“What reason could there be? The Third Young Master spent his youth drinking with women instead of training. He caused every kind of trouble despite being like that. And that’s not all. He was also the one who caused this war—”
+“What reason could he have? The Third Young Master spent his youth drinking with women instead of training. And despite that, he went around causing every kind of trouble imaginable. That’s not all. He’s also the one who started this war—”
 
 “Enough.”
 
@@ -152,7 +152,7 @@ Hyuk Mujin flinched when I cut him off. He seemed to realize that he had misspok
 
 But some people were like that. When they needed to back down, they took another step forward instead.
 
-“Wasn’t the Third Young Master the one who caused this war?”
+“Wasn’t the Third Young Master the one who started this war?”
 
 Hyuk Mujin was too proud to stop himself.
 
@@ -160,7 +160,7 @@ Once the words were out, a chilly silence descended.
 
 Gulp.
 
-Someone’s throat bobbed loudly. Nine pairs of eyes turned toward Hyuk Mujin and me.
+Someone swallowed loudly. Nine pairs of eyes shifted between Hyuk Mujin and me.
 
 “D-do you have something to say?”
 
@@ -174,7 +174,7 @@ Smack!
 
 “One.”
 
-His jaw twisted to the side. It was an ordinary slap, without even a trace of internal energy. His face was still dazed by the sudden turn of events when I struck him a second time.
+His jaw snapped to the side. It was a simple slap without even a trace of internal energy. While he was still stunned by the sudden attack, I struck him again.
 
 “What the—!”
 
@@ -220,7 +220,7 @@ I could see it all. Compared to Lee Seogeun, Hyuk Mujin was nowhere close.
 
 His head snapped back. Thick droplets of blood sprayed through the air in slow motion. His pupils had lost focus, and his legs hung limp.
 
-Yet somehow, he didn’t fall. He couldn’t—not unless I let go of his fist.
+Yet somehow, he didn’t fall.
 
 Of course, that was only because I still had hold of his fist.
 
@@ -286,7 +286,7 @@ Nod, nod.
 
 Look at those heads bobbing furiously. Look at those eyes burning with enthusiasm.
 
-*Seeing is believing, my ass. One beating beats a hundred explanations.*
+*So it was true. One thwack beat a hundred words.*
 
 Beating them once really was better than explaining something a hundred times.
 
@@ -300,7 +300,7 @@ Sunlight flashed off a sword blade. That was all the martial artist saw.
 
 Thud.
 
-His knees buckled, and his face slammed into the frozen ground.
+His knees buckled, and his face struck the frozen ground.
 
 Blood poured from the gaping wound running from his shoulder to his chest. It was beyond recovery. The martial artist knew he was going to die.
 
@@ -322,7 +322,7 @@ Their gleaming eyes turned toward the survivors, a group of six or seven women a
 
 At the plea from the oldest-looking woman, the middle-aged man—Jopil, One Question, One Kill—smiled gently.
 
-“I’m sorry, but what can I do? I’m no Great Hero.”
+“I’m sorry, but what can I say? I’m no Great Hero.”
 
 “But you’re still human. How can you kill children who can’t even tell right from wrong?”
 
@@ -352,11 +352,11 @@ Swordlight flashed, and screams rang out.
 
 A short while later, the blood-soaked wandering martial artists tossed the corpses into the mountain thickets.
 
-“Only the wild animals will feast tonight.”
+“Looks like the wild beasts are the only ones getting a feast.”
 
-The man with the tiny birdlike eyes muttered. He was Jopil’s right-hand man, a first-rate wandering martial artist known by the nickname Black Mountain Blade.
+The narrow-eyed man muttered. He was Jopil’s right-hand man, a first-rate wandering martial artist known as Black Mountain Blade.
 
-“We should feast, too. If we finish this job properly, what’s a mere thousand pieces of gold?”
+“We’ll feast too. If we finish this job properly, a fortune will be ours.”
 
 Jopil laughed in delight. The payment for this job would be enormous, but more than that, he was enjoying the situation itself.
 
@@ -364,7 +364,7 @@ Jopil laughed in delight. The payment for this job would be enormous, but more t
 
 His filthy leather shoe came down on the fallen martial artist’s corpse.
 
-The martial artist had belonged to the Sakju Branch, one of the ten or so branches of the Jin Family of Taiyuan.
+The dead man had belonged to the Sakju Branch, one of the Jin Family of Taiyuan’s dozen or so branches.
 
 “Was that the last one?”
 

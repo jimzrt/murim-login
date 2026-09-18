@@ -226,7 +226,7 @@ Smack!
 
 That was his limit. Hyuk Mujin could no longer endure and passed out. Something fell with a soft thud onto his body, sprawled out in a bizarre position.
 
-*An eye?*
+*Snow?*
 
 I raised my head toward the sky. The winter sky was raining down small white scraps of garbage.
 
@@ -332,7 +332,7 @@ Jopil smiled broadly, and the woman’s expression hardened.
 
 “You have no intention of sparing us.”
 
-“Rest easy. I don’t have a taste for tormenting people.”
+“Rest easy. I don’t make a hobby of rape and murder.”
 
 “The children…”
 
