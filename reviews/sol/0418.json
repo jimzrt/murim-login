@@ -1,0 +1,136 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "The tip of my sword deflected the spearhead, then stabbed straight toward Lee Jungryong's throat.",
+      "defect": "The weapons, attacker, and target are reversed. Lee Jungryong's sword deflects Jin Taekyung's spearhead and then thrusts at Jin's throat.",
+      "id": "F01",
+      "rationale": "The subject is 검 끝, the sword tip, while 창날 is the spearhead it deflects; the first-person viewpoint makes 목젖 Jin Taekyung's throat.",
+      "replacement": "With a thunderous boom, Lee Jungryong's sword swept my spearhead aside and thrust straight toward my throat.",
+      "severity": "critical",
+      "source": "굉음과 함께 창날을 흘려 낸 검 끝이 곧장 목젖을 향해 찔러 들어왔다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "The high-rise buildings that had barely been holding together collapsed as if they had burst apart, while glass and concrete broke into countless tiny fragments that pierced through everything in every direction.",
+      "defect": "The draft changes the barely standing high-rise from one building to multiple buildings.",
+      "id": "F02",
+      "rationale": "The source presents 고층 빌딩 as the single structure that collapses in the immediate aftermath of the explosion.",
+      "replacement": "The high-rise building that had barely been holding together collapsed as if it had burst apart, while glass and concrete broke into countless tiny fragments that pierced through everything in every direction.",
+      "severity": "critical",
+      "source": "간신히 버티고 있던 고층 빌딩이 터져 나가듯 무너지고, 유리와 콘크리트가 셀 수도 없을 만큼 작은 조각으로 분해되어 사방을 꿰뚫었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“I've heard about him. Apparently, he was one of the men who brought a sledgehammer down on Young Master's tomb decades ago.”[^1]",
+      "defect": "공자 here is Confucius, not the title “Young Master,” so the draft obscures the identity of the historical figure whose tomb was attacked.",
+      "id": "F03",
+      "rationale": "The following reference to the young Red Guard establishes the Cultural Revolution attack on Confucius's tomb.",
+      "replacement": "“I've heard of him. Apparently, he was one of the men who took a sledgehammer to Confucius's tomb decades ago.”[^1]",
+      "severity": "critical",
+      "source": "들어 보긴 했지. 수십 년 전쯤 공자 묘에 오함마 내리찍던 놈 중 하나였다고."
+    },
+    {
+      "confidence": 1.0,
+      "current": "[^1]: “Young Master” is a traditional title for Confucius, whose tomb was attacked during the Cultural Revolution.",
+      "defect": "The footnote invents a false explanation for the mistranslation of 공자 as “Young Master.”",
+      "id": "F04",
+      "rationale": "In this context 공자 directly names Confucius; it is not an honorific being applied to him.",
+      "replacement": "[^1]: The reference is to the Red Guards' attack on Confucius's tomb during the Cultural Revolution.",
+      "severity": "major",
+      "source": "공자 묘"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Wu Heixing is a man with loose ears and a loose tongue. He's useless for conspiring with, but even someone like him has plenty of ways to be useful.”",
+      "defect": "“Loose ears” is an opaque literal rendering of 귀가 얇다 and fails to convey that Wu Heixing is easily influenced. The second sentence is also unnecessarily repetitive.",
+      "id": "F05",
+      "rationale": "귀가 얇다 means being easily persuaded or influenced, while 입이 가볍다 means being unable to keep secrets; both traits explain why Lee treats Wu as a disposable tool rather than a reliable conspirator.",
+      "replacement": "“Wu Heixing is easily swayed and loose-lipped. He's a terrible choice for plotting anything together, but even a man like that has his uses.”",
+      "severity": "major",
+      "source": "우헤이싱은 귀가 얇고 입이 가벼운 놈이지. 함께 무언가를 도모하기에는 형편없지만, 그런 놈이라 해도 이용할 구석은 충분하다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Why didn't they think about the things they had done themselves? Why did they try to find the cause and effect behind everything in someone else?",
+      "defect": "The second question is an unnatural calque and obscures the accusation that the enemies look to others for the causes of their own predicament.",
+      "id": "F06",
+      "rationale": "남에게서 찾다 means seeking the explanation or blame in other people, not literally locating abstract “cause and effect” inside someone.",
+      "replacement": "Why didn't they stop to think about what they themselves had done? Why did they look to others for the causes of everything that happened?",
+      "severity": "minor",
+      "source": "지금껏 스스로가 했던 행동들을 생각하지 않는지. 모든 일에 존재하는 인과를 남에게서 찾으려 하는지."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Without hesitation, I grabbed Wu Heixing by the throat and twisted.",
+      "defect": "The draft makes Jin twist Wu Heixing's throat rather than his neck, producing an anatomically awkward description of the killing action.",
+      "id": "F07",
+      "rationale": "목줄기 denotes the neck area, and the following crushed flesh and splintered bones describe Jin breaking Wu's neck.",
+      "replacement": "Without hesitation, I grabbed Wu Heixing by the neck and twisted.",
+      "severity": "minor",
+      "source": "나는 망설임 없이 우헤이싱의 목줄기를 잡아 비틀었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Of course, your epitaph will be right beside his.",
+      "defect": "The draft substitutes an inscription for the physical gravestone that Jin says will stand beside Wu Heixing's.",
+      "id": "F08",
+      "rationale": "묘비 is a gravestone or tombstone, whereas the preceding 묘비명 is the epitaph written on it.",
+      "replacement": "Of course, your gravestone will be right beside his.",
+      "severity": "minor",
+      "source": "물론 그 옆에는 당신 묘비가 있을 거고."
+    },
+    {
+      "confidence": 0.99,
+      "current": "I wasn't given time to question the two words that had suddenly appeared.",
+      "defect": "형님 is one Korean word comprising two syllables or written characters, not two words.",
+      "id": "F09",
+      "rationale": "그 두 글자 refers to the two-syllable expression 형님; carrying the source's literal count into English creates a false word count.",
+      "replacement": "I wasn't given time to question that unexpected word.",
+      "severity": "minor",
+      "source": "난데없이 튀어나온 그 두 글자에 대해 의문을 표할 시간은 내게 주어지지 않았다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "And yet the former Sect Leader of the Fire Gate Clan who had created it earned the title of the world's greatest spear, leaving behind a brief final testament about his martial arts.",
+      "defect": "Calling the Sect Leader “the world's greatest spear” mistakes a personal martial epithet for the weapon itself.",
+      "id": "F10",
+      "rationale": "천하제일창 describes the creator's unrivaled mastery of the spear, not a literal spear.",
+      "replacement": "And yet the former Sect Leader of the Fire Gate Clan who created it earned the epithet of the greatest spearman under heaven, leaving behind a brief final testament about his martial arts.",
+      "severity": "minor",
+      "source": "그러나 화룡신창을 창안한 열화문의 옛 장문인은 천하제일창이라는 수식어를 얻었고, 생애 마지막 순간 자신의 무공에 대한 짤막한 유언을 남겼다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The so-called Hunters could fight efficiently, but when it came to efficient qi manipulation, they were no different from blind men.",
+      "defect": "“Blind men” is a literal and unnatural rendering of 까막눈 that suggests physical blindness rather than complete ignorance.",
+      "id": "F11",
+      "rationale": "까막눈 figuratively characterizes someone as wholly ignorant or unversed in a subject.",
+      "replacement": "The so-called Hunters could fight efficiently, but when it came to efficient qi manipulation, they were practically illiterate.",
+      "severity": "minor",
+      "source": "소위 말해 헌터라는 이들은 효율적인 전투를 할 뿐, 효율적인 기의 운용에 있어서 까막눈이나 다름없었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Blood spurted out, and the energy entering through the Force disrupted the flow of my internal energy.",
+      "defect": "The generic “energy” loses the source's Murim distinction for 기운 in an exchange involving Force and internal energy.",
+      "id": "F12",
+      "rationale": "This is Lee Jungryong's martial qi entering through his Force, not modern Hunter mana or unspecified energy.",
+      "replacement": "Blood spurted out, and the qi carried through his Force disrupted the flow of my internal energy.",
+      "severity": "minor",
+      "source": "핏물이 솟구치고, 강기를 통해 유입된 기운에 공력이 흐트러진다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The claws he had revealed were strong and sharp enough, but they were not enough to cut off my air.",
+      "defect": "“Cut off my air” is an unnatural literal rendering of 숨통을 끊다 and weakens Jin's conclusion that Lee lacks the power to kill him.",
+      "id": "F13",
+      "rationale": "숨통을 끊다 is an idiom for killing someone; the replacement preserves the lethal consequence without the awkward anatomical calque.",
+      "replacement": "The claws he had revealed were certainly strong and sharp, but they weren't enough to finish me off.",
+      "severity": "minor",
+      "source": "이정룡이 드러낸 발톱은 충분히 강하고 날카로우나, 내 숨통을 끊어 놓기에는 역부족이었다."
+    }
+  ],
+  "summary": "The draft contains two scene-fact reversals, a mistranslated historical reference with a false footnote, and several localized terminology and natural-English issues.",
+  "version": 1
+}
