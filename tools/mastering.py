@@ -1556,26 +1556,58 @@ def rewind_primary_mastering(number: int) -> None:
     atomic_json(wf, data)
 
 
-def command_reset_for_remaster(number: int) -> None:
-    """Restore the accepted baseline and clear overlay outputs for a fresh master."""
+def _clear_overlay_files(work: Path, keep: set[Path]) -> None:
+    if not work.exists():
+        return
+    for path in work.rglob("*"):
+        if path.is_file() and path.resolve() not in keep:
+            path.unlink()
+    for path in sorted((d for d in work.rglob("*") if d.is_dir()), reverse=True):
+        try:
+            path.rmdir()
+        except OSError:
+            pass
+
+
+def command_reset_for_remaster(number: int, *, keep_translation: bool = False) -> None:
+    """Clear overlay outputs for a fresh master.
+
+    Default restores `translations/NNNN.md` from the stored baseline. With
+    `keep_translation`, the live translation is the new baseline so audit
+    patches are not thrown away.
+    """
     try:
         from tools.progress import step
     except ModuleNotFoundError:
         from progress import step
     p = chapter_paths(number)
+    if not p["translation"].exists():
+        raise ValueError(f"chapter {number}: missing accepted translation")
+    if keep_translation:
+        live = normalize_chapter(read_text(p["translation"]))
+        validate_chapter(live, number, "baseline")
+        _clear_overlay_files(p["work"], set())
+        p["work"].mkdir(parents=True, exist_ok=True)
+        atomic_text(p["baseline"], live)
+        atomic_json(
+            p["state"],
+            {
+                "version": 1,
+                "chapter": number,
+                "stage": "SNAPSHOTTED",
+                "source_sha256": sha256_text(current_source(number)),
+                "baseline_sha256": sha256_text(live),
+            },
+        )
+        rewind_primary_mastering(number)
+        step("reset", f"chapter {number} live translation kept")
+        return
     if not p["state"].exists() or not p["baseline"].exists():
         raise ValueError(f"chapter {number}: missing mastering snapshots")
     state = json.loads(read_text(p["state"]))
     atomic_text(p["translation"], read_text(p["baseline"]))
     keep = {p["baseline"].resolve(), p["state"].resolve()}
-    for path in p["work"].rglob("*"):
-        if path.is_file() and path.resolve() not in keep:
-            path.unlink()
-    for path in sorted((d for d in p["work"].rglob("*") if d.is_dir()), reverse=True):
-        try:
-            path.rmdir()
-        except OSError:
-            pass
+    _clear_overlay_files(p["work"], keep)
     atomic_json(
         p["state"],
         {
@@ -1731,6 +1763,11 @@ def build_parser() -> argparse.ArgumentParser:
         action="store_true",
         help="only rewind .work transactions to COMMITTED; do not touch overlay files",
     )
+    p.add_argument(
+        "--keep-translation",
+        action="store_true",
+        help="snapshot the live translation as the new baseline instead of restoring baseline.md",
+    )
     return parser
 
 
@@ -1768,10 +1805,12 @@ def main() -> int:
                 elif args.command == "reset":
                     if args.confirm != "REMASTER":
                         raise ValueError("reset requires --confirm REMASTER")
+                    if args.transactions_only and args.keep_translation:
+                        raise ValueError("reset cannot combine --transactions-only and --keep-translation")
                     if args.transactions_only:
                         rewind_primary_mastering(number)
                     else:
-                        command_reset_for_remaster(number)
+                        command_reset_for_remaster(number, keep_translation=args.keep_translation)
         return 0
     except (ValueError, FileNotFoundError, RuntimeError, json.JSONDecodeError) as exc:
         print(f"error: {exc}", file=sys.stderr)
