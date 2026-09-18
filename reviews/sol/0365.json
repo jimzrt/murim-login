@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“I am the Lord of Heaven’s loyal servant. So long as he is with me, even death itself shall pass me by!”",
+      "defect": "The gendered pronoun identifies the still-unidentified Lord of Heaven as male, while 그분 is gender-neutral and the binding glossary specifies “that person.”",
+      "id": "F01",
+      "rationale": "The source conveys reverence without revealing gender, so the translation must preserve that uncertainty.",
+      "replacement": "“I am the Lord of Heaven’s loyal servant. So long as that person is with me, even death itself shall pass me by!”",
+      "severity": "major",
+      "source": "“나는 천주의 충직한 종, 그분께서 함께하시는 한, 죽음마저 피해 가리라!”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "At the severed arm, an ink-colored current writhed like a tentacle, slowly filling the wound that was pouring blood like a waterfall.",
+      "defect": "“At the severed arm” incorrectly locates the current on an arm that is no longer attached and obscures that it emerges from the stump and gradually seals the bleeding wound.",
+      "id": "F02",
+      "rationale": "팔의 단면 is the exposed cross-section or stump of the torn-off arm, and 메우고 있었다 describes the supernatural current closing the wound.",
+      "replacement": "An ink-colored current writhed like a tentacle from the stump of his torn-off arm, slowly sealing the wound that had been gushing blood like a waterfall.",
+      "severity": "major",
+      "source": "뽑혀 나간 팔의 단면에서 묵색 기류가 촉수처럼 일렁이고, 폭포수 같은 피를 쏟아내는 상흔을 조금씩 메우고 있었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "The darkness approached without making a sound and swallowed the two of them.\n\nNo—it would have swallowed them, if not for the spearhead that shot out, splitting an instant apart and cutting through the flow of time that had been split apart again.",
+      "defect": "The final clause garbles the temporal image by making the spearhead split an instant and then referring to time as having been split “again.” The source describes an already infinitesimally divided flow of time through which the spearhead thrusts.",
+      "id": "F03",
+      "rationale": "찰나를 쪼개고 쪼갠 modifies the compressed flow of time, while 가르고 뻗어 나온 describes the spearhead cutting through that flow.",
+      "replacement": "The darkness approached without a sound and swallowed them both.\n\nNo—it would have, if not for the spearhead that thrust out, cleaving through a flow of time divided into ever-finer instants.",
+      "severity": "major",
+      "source": "소리조차 없이 다가온 어둠이 두 사람을 집어삼킨다.\n\n아니, 집어삼켰을 것이다.\n\n찰나를 쪼개고 쪼갠 시간의 흐름을 가르고 뻗어 나온 창날이 아니었다면."
+    },
+    {
+      "confidence": 0.94,
+      "current": "“Not Dark Heaven, but Dark Heaven’s dog, I’d say. Hey, try saying, ‘I’m the Lord of Heaven’s dog.’”",
+      "defect": "The draft replaces the source’s Shincheonji and Lee Man-hee parody with an invented exchange about being the Lord of Heaven’s dog, losing both the actual challenge and the cultural joke.",
+      "id": "F04",
+      "rationale": "암천지 parodies 신천지, and 이만의 similarly distorts the founder’s name; Taekyung is testing the supposed zealot by daring him to curse the leader.",
+      "replacement": "“Sounds less like Dark Heaven and more like Darkcheonji.[^1] Hey, try saying, ‘Lee Man-ui is a son of a bitch.’”\n\n[^1]: “Darkcheonji” and “Lee Man-ui” parody Shincheonji and its founder, Lee Man-hee; challenging a presumed follower to insult its leader is the joke.",
+      "severity": "major",
+      "source": "“암천이 아니라 암천지 같은데요. 야, 이만의 개새끼 해 봐.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Two voices, one old and one young, followed the Western Heaven Demon Lord's dramatic declaration.",
+      "defect": "“Dramatic” loses the source’s characterization that his shout possesses an almost heroic or valiant grandeur despite his villainy.",
+      "id": "F05",
+      "rationale": "장렬함 denotes heroic, valiant grandeur rather than mere theatricality, making the register contrast with the mocking replies that follow.",
+      "replacement": "The Western Heaven Demon Lord’s shout carried an almost heroic grandeur. Two voices—one old, one young—immediately followed.",
+      "severity": "major",
+      "source": "장렬함마저 느껴지는 서천마군의 외침 뒤에, 늙고 젊은 두 개의 목소리가 따라붙었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "*This is fucking incredible.*",
+      "defect": "The translation adds explicit profanity absent from the colloquial but non-obscene source.",
+      "id": "F06",
+      "rationale": "끝내주네 is an emphatic expression of admiration, but it does not itself contain profanity.",
+      "replacement": "*This is incredible.*",
+      "severity": "minor",
+      "source": "‘끝내주네.’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "A terrible scream echoed like a chorus.",
+      "defect": "A chorus is not an echo and suggests multiple coordinated voices, changing the source’s acoustic image.",
+      "id": "F07",
+      "rationale": "메아리처럼 울려 퍼졌다 describes a single scream resounding or echoing through the space.",
+      "replacement": "A horrific scream reverberated.",
+      "severity": "minor",
+      "source": "끔찍한 비명이 메아리처럼 울려 퍼졌다."
+    }
+  ],
+  "summary": "Several actionable fidelity issues remain, including added gender certainty, an altered healing mechanism, obscured action timing, and a replaced cultural joke.",
+  "version": 1
+}
