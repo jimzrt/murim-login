@@ -1,9 +1,9 @@
 # Arch Lich (아크 리치)
 
-- **Safe through:** Chapter 392
+- **Safe through:** Chapter 411
 - **Aliases:** None
-- **Role:** Lord of the undead who commands the battlefield's undead legions while serving a separate true king.
-- **Personality:** Patient, calculating, and conscious that its current power is weaker than its former strength.
-- **Voice:** Formal, commanding, and feudal, addressing subordinates as a monarch would.
-- **Relationships:** The black knight serves as its subordinate and messenger; the Arch Lich itself serves an unidentified true king.
+- **Role:** The Arch Lich is an undead ruler who commands the monster army, controls numerous Familiars, and created the Death Knight Lord from Lei Fei.
+- **Personality:** Cunning, bold, ruthless, and consumed by memories of the ancient Adversary.
+- **Voice:** Low, chilling, imperious, and capable of magically amplified laughter.
+- **Relationships:** The Arch Lich commands its undead honor guard, once served a king, and regards the Adversary as its ancient foe.
 - **Sources:** Korean source and accepted translation, Chapter 392
