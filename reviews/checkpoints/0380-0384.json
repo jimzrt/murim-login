@@ -1,0 +1,176 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Jin also encounters international S-rank Hunters, including the Archmage and the combat-focused War Mage Magic Johnson, before trading insults with a young Chinese Hunter over the Lord Fuck nickname and Jin's supposed A-rank status.",
+      "defect": "The coordination makes the Archmage and Magic Johnson sound like two different Hunters, but Magic Johnson is himself one of the three Archmages and is specifically a War Mage.",
+      "id": "C01",
+      "rationale": "This removes an extra implied character and matches both Chapter 384 and the durable state.",
+      "replacement": "Jin also encounters international S-rank Hunters, including Magic Johnson, one of the world's three Archmages and its most combat-focused War Mage, before trading insults with a young Chinese Hunter over the Lord Fuck nickname and Jin's supposed A-rank status.",
+      "severity": "major",
+      "source": "Checkpoint summary, Plot, third paragraph"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Wei, Lei's maternal uncle and adoptive father, asks Jin to bring him back if he is found; Jin agrees but gives no guarantee of survival.",
+      "defect": "Calling Wei Lei's adoptive father asserts a formal relationship not established in the reading copy; Chapter 383 says only that Wei raised his nephew as if he were his own son.",
+      "id": "C02",
+      "rationale": "The replacement preserves the revealed familial bond without adding a legal adoption.",
+      "replacement": "Wei, Lei's maternal uncle who raised him as his own son, asks Jin to bring him back if he is found; Jin agrees but gives no guarantee of survival.",
+      "severity": "minor",
+      "source": "Checkpoint summary, Plot, second paragraph"
+    },
+    {
+      "confidence": 1.0,
+      "current": "「T-The monsters have stopped moving!」",
+      "defect": "Direct speech uses corner brackets rather than the required curly double quotation marks.",
+      "id": "C03",
+      "rationale": "All direct speech in the English reading copy must use curly double quotation marks.",
+      "replacement": "“T-The monsters have stopped moving!”",
+      "severity": "minor",
+      "source": "Chapter 381, battlefield dialogue after the undead first stop"
+    },
+    {
+      "confidence": 1.0,
+      "current": "「What in the world is going on?」",
+      "defect": "Direct speech uses corner brackets rather than the required curly double quotation marks.",
+      "id": "C04",
+      "rationale": "This restores the required dialogue formatting and matches the surrounding chapters.",
+      "replacement": "“What in the world is going on?”",
+      "severity": "minor",
+      "source": "Chapter 381, battlefield dialogue after the undead first stop"
+    },
+    {
+      "confidence": 1.0,
+      "current": "「Don’t let your guard down! Some of them are still moving!」",
+      "defect": "Direct speech uses corner brackets rather than the required curly double quotation marks.",
+      "id": "C05",
+      "rationale": "This restores the required dialogue formatting and matches the surrounding chapters.",
+      "replacement": "“Don’t let your guard down! Some of them are still moving!”",
+      "severity": "minor",
+      "source": "Chapter 381, battlefield dialogue after the undead first stop"
+    },
+    {
+      "confidence": 1.0,
+      "current": "「M-Mr. Jin?」",
+      "defect": "Direct speech uses corner brackets rather than the required curly double quotation marks.",
+      "id": "C06",
+      "rationale": "This restores the required dialogue formatting and matches Shao Shen's dialogue in Chapters 380 and 382.",
+      "replacement": "“M-Mr. Jin?”",
+      "severity": "minor",
+      "source": "Chapter 381, Jin's exchange with Shao Shen"
+    },
+    {
+      "confidence": 1.0,
+      "current": "「H-How do you know my name?」",
+      "defect": "Direct speech uses corner brackets rather than the required curly double quotation marks.",
+      "id": "C07",
+      "rationale": "This restores the required dialogue formatting and matches Shao Shen's dialogue in Chapters 380 and 382.",
+      "replacement": "“H-How do you know my name?”",
+      "severity": "minor",
+      "source": "Chapter 381, Jin's exchange with Shao Shen"
+    },
+    {
+      "confidence": 1.0,
+      "current": "「But what is going on here…?」",
+      "defect": "Direct speech uses corner brackets rather than the required curly double quotation marks.",
+      "id": "C08",
+      "rationale": "This restores the required dialogue formatting and matches Shao Shen's dialogue in Chapters 380 and 382.",
+      "replacement": "“But what is going on here…?”",
+      "severity": "minor",
+      "source": "Chapter 381, Jin's exchange with Shao Shen"
+    },
+    {
+      "confidence": 1.0,
+      "current": "「N-No, sir!」",
+      "defect": "Direct speech uses corner brackets rather than the required curly double quotation marks.",
+      "id": "C09",
+      "rationale": "This restores the required dialogue formatting and matches Shao Shen's dialogue in Chapters 380 and 382.",
+      "replacement": "“N-No, sir!”",
+      "severity": "minor",
+      "source": "Chapter 381, Jin's exchange with Shao Shen"
+    },
+    {
+      "confidence": 1.0,
+      "current": "「Attack formation! Everyone in the Public Security Armed Forces Department, from this moment on, attack everything except the undead monsters!」",
+      "defect": "Direct speech uses corner brackets rather than the required curly double quotation marks.",
+      "id": "C10",
+      "rationale": "This restores the required dialogue formatting without altering the established organization name.",
+      "replacement": "“Attack formation! Everyone in the Public Security Armed Forces Department, from this moment on, attack everything except the undead monsters!”",
+      "severity": "minor",
+      "source": "Chapter 381, Shao Shen's attack order"
+    },
+    {
+      "confidence": 1.0,
+      "current": "「Yes, sir!」",
+      "defect": "Direct speech uses corner brackets rather than the required curly double quotation marks.",
+      "id": "C11",
+      "rationale": "This restores the required dialogue formatting and matches the surrounding reading copies.",
+      "replacement": "“Yes, sir!”",
+      "severity": "minor",
+      "source": "Chapter 381, response to Shao Shen's attack order"
+    },
+    {
+      "confidence": 1.0,
+      "current": "「Kill them!」",
+      "defect": "Direct speech uses corner brackets rather than the required curly double quotation marks.",
+      "id": "C12",
+      "rationale": "This restores the required dialogue formatting and matches the surrounding reading copies.",
+      "replacement": "“Kill them!”",
+      "severity": "minor",
+      "source": "Chapter 381, Chinese Hunters' counterattack"
+    },
+    {
+      "confidence": 1.0,
+      "current": "「Avenge our fallen comrades!」",
+      "defect": "Direct speech uses corner brackets rather than the required curly double quotation marks.",
+      "id": "C13",
+      "rationale": "This restores the required dialogue formatting and matches the surrounding reading copies.",
+      "replacement": "“Avenge our fallen comrades!”",
+      "severity": "minor",
+      "source": "Chapter 381, Chinese Hunters' counterattack"
+    },
+    {
+      "confidence": 1.0,
+      "current": "「Ice Ball!」",
+      "defect": "A spoken spell name uses corner brackets rather than the required curly double quotation marks.",
+      "id": "C14",
+      "rationale": "The spell is direct speech, not a System notice, and should follow normal dialogue formatting.",
+      "replacement": "“Ice Ball!”",
+      "severity": "minor",
+      "source": "Chapter 381, ranged Hunters attacking the Griffon"
+    },
+    {
+      "confidence": 1.0,
+      "current": "「Lightning Bolt!」",
+      "defect": "A spoken spell name uses corner brackets rather than the required curly double quotation marks.",
+      "id": "C15",
+      "rationale": "The spell is direct speech, not a System notice, and should follow normal dialogue formatting.",
+      "replacement": "“Lightning Bolt!”",
+      "severity": "minor",
+      "source": "Chapter 381, ranged Hunters attacking the Griffon"
+    },
+    {
+      "confidence": 1.0,
+      "current": "「W-What the hell!」",
+      "defect": "Direct speech uses corner brackets rather than the required curly double quotation marks.",
+      "id": "C16",
+      "rationale": "This restores the required dialogue formatting and matches the surrounding reading copies.",
+      "replacement": "“W-What the hell!”",
+      "severity": "minor",
+      "source": "Chapter 381, Chinese Hunters reacting to the undead attack"
+    },
+    {
+      "confidence": 1.0,
+      "current": "「Why are those monsters suddenly…?」",
+      "defect": "Direct speech uses corner brackets rather than the required curly double quotation marks.",
+      "id": "C17",
+      "rationale": "This restores the required dialogue formatting and matches the surrounding reading copies.",
+      "replacement": "“Why are those monsters suddenly…?”",
+      "severity": "minor",
+      "source": "Chapter 381, Chinese Hunters reacting to the undead attack"
+    }
+  ],
+  "summary": "The reading copies and active continuity are coherent, with no dropped hooks or accidental spoilers. Two summary statements introduce factual drift, and Chapter 381 has a chapter-wide dialogue-formatting inconsistency in which Chinese speech uses corner brackets instead of the required curly double quotation marks.",
+  "version": 1
+}

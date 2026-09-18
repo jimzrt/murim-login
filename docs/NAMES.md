@@ -1354,3 +1354,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 웨이펑후 | **Wei Fenghu** | Minister of National Defense under China's Central Military Commission. |
 | 레이페이 | **Lei Fei** | Concealed Chinese S-rank Hunter and head of the Public Security Armed Forces Department in Sichuan Province. |
 | 가오핑구 | **Gaoping District** | District of Nanchong City where the Sichuan Monster Wave began. |
+| 매직 존슨 | **Magic Johnson** | One of the world's three Archmages and its most combat-oriented War Mage. |

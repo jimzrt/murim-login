@@ -570,3 +570,13 @@ Overrides generic relationship prose in character profiles for this pair.
 | 샤오 쉔 | 최 팀장 | Junior Hunter to honored foreign team leader | Team Leader Choi | Formal and deferential | Shao Shen addresses Jin and Team Leader Choi collectively as the two gentlemen. |
 | 진태경 | 웨이펑후 | Foreign Hunter to senior military official | General, Commander, or Supreme Leader | Polite but flustered | Jin jokingly cycles through grand titles while trying to interrupt Wei's emotional request. |
 | 진태경 | 최 팀장 | Team member to team leader | Team Leader | Polite internal speech | Jin addresses Choi as 팀장님 through Sound Transmission. |
+| 최 팀장 | 진태경 | professional_ally_to_ally | Mr. Jin Taekyung | formal-polite | Team Leader Choi repeatedly warns Jin not to make verbal mistakes before the Chairman. |
+| 진태경 | 최 팀장 | ally_to_senior_professional_ally | Team Leader Choi | polite-teasing | Jin praises Choi as the best leader before asking him to raise Jin's Guild settlement percentage. |
+| 샤오 양 | 진태경 | national_leader_to_foreign_ally | Mr. Jin | formal-polite | Shao Yang addresses Jin directly while asking him to prioritize human lives. |
+| 샤오 양 | 웨이펑후 | national_leader_to_subordinate_and_old_friend | Minister of National Defense Wei Fenghu | formal-authoritative | Shao Yang asks Wei whether he wants the Central Military Commission's full authority. |
+| 웨이펑후 | 샤오 양 | senior_military_official_to_national_leader_and_old_friend | Chairman Comrade | formal-deferential | Wei addresses Shao Yang as Chairman Comrade during the authority discussion. |
+| 진태경 | 샤오 양 | foreign_ally_to_national_leader | Chairman | polite-awkward | Jin greets Shao Yang with an overly casual 'Welcome' after successfully avoiding the Jongseok wordplay. |
+| 매직 존슨 | 진태경 | international_s_rank_ally_to_new_acquaintance | Lord Fuck | casual-teasing | Magic Johnson says his youngest daughter knows Jin by the nickname Lord Fuck. |
+| 진태경 | 매직 존슨 | new_acquaintance_to_international_s_rank_ally | Magic Johnson | polite-excited | Jin recognizes the Archmage by name and addresses him directly. |
+| 중국인 사내 | 진태경 | international_s_rank_hunter_to_foreign_a_rank_hunter | Peninsula bangzi | insulting-contemptuous | The unidentified young Chinese Hunter mocks Jin's Lord Fuck nickname and A-rank status. |
+| 진태경 | 중국인 사내 | foreign_a_rank_hunter_to_hostile_s_rank_hunter | Mainland chink bastard | insulting-retaliatory | Jin immediately responds to the Chinese Hunter's insult with a matching ethnic slur. |

@@ -1,0 +1,106 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "I had just returned from the Three-Gate Bloodbath, which had mercilessly dyed Sichuan Province in blood, and now I was climbing Mount Qingcheng in Sichuan Province.",
+      "defect": "The draft changes coming to Mount Qingcheng into physically climbing the mountain, an action not present in the source and inconsistent with his arrival by business jet.",
+      "id": "F01",
+      "rationale": "오다 means to come or arrive, not to climb.",
+      "replacement": "I had just returned from the Three-Gate Bloodbath, which had mercilessly dyed Sichuan Province in blood, only to come to Mount Qingcheng in Sichuan Province.",
+      "severity": "critical",
+      "source": "사천성을 무자비하게 피로 물들였던 삼문혈사(三門血史)를 겪고 돌아오자마자 쓰촨성의 청성산에 오다니."
+    },
+    {
+      "confidence": 0.97,
+      "current": "That wasn’t wrong, but now that I had reached the Supreme Peak realm, I could see through most things with my eyesight without even using internal energy.",
+      "defect": "“See through most things” suggests an ability to see through physical objects, whereas the source says his enhanced eyesight can generally make things out without relying on internal energy.",
+      "id": "F02",
+      "rationale": "안력으로 꿰뚫어 보다 describes the acuity of his vision in the darkness here, not literal X-ray vision.",
+      "replacement": "That wasn’t wrong, but now that I had reached the Supreme Peak realm, I could generally see clearly with my eyesight alone, without relying on internal energy.",
+      "severity": "major",
+      "source": "그것도 틀린 말은 아니지만, 초절정의 경지에 오른 지금은 굳이 공력 없이도 어지간하면 안력(眼力)으로 꿰뚫어 볼 수 있다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "I got to save people and make money. It was a win-win.",
+      "defect": "“Win-win” implies benefits for two different parties, while 일석이조 specifically means obtaining two benefits through one action.",
+      "id": "F03",
+      "rationale": "The replacement preserves both stated benefits and the source idiom's mechanical relationship.",
+      "replacement": "I got to save people and make money—two birds with one stone.",
+      "severity": "minor",
+      "source": "사람도 구하고, 돈도 버니 일석이조다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "Unlike Team Leader Choi, who had been a pure-blooded aristocrat from birth, I was a commoner down to my bones.",
+      "defect": "“Pure-blooded” introduces racial or pedigree connotations absent from the source, while 성골 귀족 emphasizes Choi's birth into the highest social elite. “Commoner” also makes Taekyung sound feudal rather than like an ordinary modern citizen.",
+      "id": "F04",
+      "rationale": "성골 귀족 metaphorically marks the highest inherited social status, contrasted with Taekyung's deeply ordinary 소시민 identity.",
+      "replacement": "Unlike Team Leader Choi, who had been born into the aristocratic elite, I was an ordinary citizen to my core.",
+      "severity": "major",
+      "source": "태생부터 성골 귀족이었던 최 팀장과 달리 나는 뼛속까지 소시민이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "But at least for the old man standing before all of us now, including me—Shao Yang, the Chairman of China—I sensed a kind of presence entirely different from that.",
+      "defect": "The explicit 기(氣) is reduced to the vague word “presence,” losing the supernatural energy Taekyung senses from Shao Yang.",
+      "id": "F05",
+      "rationale": "The source explicitly marks 기 with the character 氣 and contrasts it with the previously mentioned mask and hypocrisy.",
+      "replacement": "But at least from the old man speaking before all of us now, including me—Shao Yang, the Chairman of China—I sensed a kind of qi utterly unlike either of those things.",
+      "severity": "major",
+      "source": "하지만 적어도 지금 나를 포함한 모두의 앞에서 말을 이어 가는 노인, 샤오 양 중국 주석에게는 그런 것과는 전혀 다른 종류의 기(氣)가 느껴졌다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Do you want full authority over the Central Military Commission?”",
+      "defect": "The draft makes Wei Fenghu's proposed authority superior to and controlling the Central Military Commission. The source asks whether he wants the full powers belonging to the commission.",
+      "id": "F06",
+      "rationale": "중앙군사위원회의 전권 denotes the commission's plenary authority, not authority over the commission itself.",
+      "replacement": "“Do you want the Central Military Commission’s full authority?”",
+      "severity": "major",
+      "source": "「중앙군사위원회의 전권을 원하나?」"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“That is all.”",
+      "defect": "The draft changes a conventional leave-taking into a declaration that the speaker has nothing more to say.",
+      "id": "F07",
+      "rationale": "그럼 이만 is a polite expression used when departing.",
+      "replacement": "“Then I’ll take my leave.”",
+      "severity": "minor",
+      "source": "「그럼 이만.」"
+    },
+    {
+      "confidence": 0.99,
+      "current": "*No, nooooooooo!*",
+      "defect": "The draft turns a wordless internal scream into explicit negation, adding content absent from the source.",
+      "id": "F08",
+      "rationale": "으아 is a cry of anguish or embarrassment, not the word “no.”",
+      "replacement": "*Aagh, aaaaaagh!*",
+      "severity": "minor",
+      "source": "‘으아, 으아아아아!’"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Ahem. People. People are watching.”",
+      "defect": "The draft makes Choi's deliberately clipped warning explicit by adding “are watching.”",
+      "id": "F09",
+      "rationale": "The source leaves the warning unfinished and relies on Taekyung to infer why Choi is drawing his attention to the people around them.",
+      "replacement": "“Ahem. People. People.”",
+      "severity": "minor",
+      "source": "“크흐흠. 사람들, 사람들.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“What did you say, you mainland chink bastard?”",
+      "defect": "The draft turns Taekyung's dismissive rejection into a request to repeat the insult, changing the confrontational beat and his automatic response.",
+      "id": "F10",
+      "rationale": "뭐래 dismissively rejects what the other man is saying; it does not indicate that Taekyung failed to hear him.",
+      "replacement": "“What the hell are you talking about, you mainland chink bastard?”",
+      "severity": "major",
+      "source": "“뭐래, 대륙 짱깨 새끼가.”"
+    }
+  ],
+  "summary": "The draft alters one physical action and several meaningful details involving visual ability, social hierarchy, qi, political authority, and dismissive register. It also contains localized additions or wording shifts that weaken specific jokes and pragmatic cues.",
+  "version": 1
+}
