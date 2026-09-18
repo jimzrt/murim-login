@@ -24,7 +24,7 @@ The moment they saw what was happening in front of them, their eyes nearly poppe
 
 “…So that was it.”
 
-It must have been rough. After a fast, heavy burst of vomiting, Hyuk looked half-dead as he spoke.
+It must have been rough. After a brief but violent bout of vomiting, Hyuk looked half-dead as he spoke.
 
 “I think this is as far as I go.”
 
@@ -66,7 +66,7 @@ A twenty-first-century office worker would have spat in your face and walked awa
 
 “You don’t trust me?”
 
-“Yes.”
+“No.”
 
 Hyuk’s answer was as sharp as a blade, and quiet laughter spread through the reconnaissance squad. They’d been frozen stiff by the first large-scale battle of their lives, but now they seemed to loosen up a little.
 
@@ -92,7 +92,7 @@ Clear in the distance, I could see a white-haired old man. At his feet lay a fal
 
 A ball of fire surged up from my gut.
 
-“That’s my brother…”
+“That’s my hyung…”
 
 I pulled a spear from where it had been driven into someone’s corpse like a gravestone. Then, in the next instant—
 
@@ -108,7 +108,7 @@ That was when the Head Elder’s sword moved.
 
 Shuk.
 
-A streak of light. The spear split in half and bounced away to either side.
+A streak of light. The spear split in half and flew off to either side.
 
 Same result as before. But this time, we’d closed the distance considerably, so I saw it clearly.
 
@@ -178,7 +178,7 @@ Before he could finish, three or four black-clad men charged at us with a shout.
 
 Get a load of those lines. They’d work perfectly as a toast at a Jin Family of Taiyuan year-end party.
 
-I cut down every last black-clad man charging us, then looked at Hyuk.
+I cut down every last one of the black-clad men, then looked at Hyuk.
 
 “Uh, what were you about to say?”
 
@@ -204,7 +204,7 @@ But only for a moment. Step by step, the closer we drew to the Head Elder, the m
 
 “Ah.”
 
-“And I cursed while throwing it.”
+“And I cursed at him while I threw it.”
 
 “Ah—ahhh.”
 
@@ -220,7 +220,7 @@ I’d already come too far. There was only one path left.
 
 “Stop.”
 
-Everyone halted as if they’d been waiting for it. Hyuk’s face said he was hoping for a dramatic peace treaty, but I gripped my spear and stepped forward.
+Everyone halted as though they’d been waiting for the order. Hyuk looked like he was hoping for a miraculous peace treaty, but I tightened my grip on my spear and stepped forward.
 
 “W-Where are you going?”
 
@@ -232,7 +232,7 @@ Everyone halted as if they’d been waiting for it. Hyuk’s face said he was ho
 
 “Y-Yes.”
 
-“That’s my brother.”
+“That’s my hyung.”
 
 Hyuk stared at me as though the sky had fallen, then let out a deep sigh.
 
@@ -242,9 +242,9 @@ Hyuk stared at me as though the sky had fallen, then let out a deep sigh.
 
 “Even a meat shield like me should bump our odds up by a hair, shouldn’t it?”
 
-This guy actually came up with some admirable thoughts.
+This guy actually had it in him to say something admirable.
 
-I snorted a laugh and turned away.
+I let out a quiet laugh and turned away.
 
 “You trying to get yourself killed? I’m just going to feel him out and come back. Wait here.”
 
@@ -309,7 +309,7 @@ The spear shaft shuddered with a thunderous crash. The Head Elder had blocked th
 
 “Not bad. Better than I expected.”
 
-Without even time to answer, I wrung out every last ounce of strength. The spear, loaded with tremendous force that even a decent master would have struggled to endure, crushed down on his sword.
+Without even time to answer, I wrung out every last ounce of strength. The spear, bearing enough force to overwhelm most masters, pressed down against his sword.
 
 Grrrkk.
 
@@ -331,13 +331,13 @@ A blue haze bloomed along the blade.
 
 Sword Energy.
 
-Before I could even react, the spearhead that had been slowly getting pushed back was sliced off like tofu.
+Before I could react, the spearhead that had been slowly forced upward was sliced off like tofu.
 
 Shing.
 
 Now it wasn’t a spear but a staff. A long staff.
 
-Sword Energy flashed again toward me as I backed away.
+Sword Energy flashed again as I retreated.
 
 Shing.
 
@@ -427,9 +427,9 @@ He was the man who’d started a war because he thought I’d poisoned his son. 
 
 *As if rescuing the wrong man wasn’t bad enough, I nearly got stabbed for it.*
 
-But Lee Cheonbaek no longer seemed to have the strength left for that.
+But Lee Cheonbaek no longer seemed to have any strength left.
 
-His whole body was covered in blood, and he couldn’t so much as twitch a hand. It looked like he’d suffered a serious Internal Injury or been subjected to a Pressure-Point Strike.
+His whole body was covered in blood, and he couldn’t so much as twitch a hand. It looked as though he’d either suffered severe internal injuries or had his pressure points struck.
 
 *Still, at least it isn’t Jin Wikyung.*
 
@@ -449,7 +449,7 @@ I let out a deep sigh, then continued.
 
 The Head Elder burst into a hearty laugh.
 
-“Ha ha ha! Have you ever seen such an insolent brat!”
+“Ha ha ha! What an insolent brat!”
 
 “If I behave politely, will you let us go?”
 
@@ -457,11 +457,11 @@ The Head Elder burst into a hearty laugh.
 
 Tsssss.
 
-Sword Energy surged up.
+Sword Energy surged from his blade.
 
 No more words were needed.
 
-I pulled a spear stuck among the corpses. Then, with everyone’s eyes on me, I spoke.
+I pulled a spear from among the corpses. Then, with everyone’s eyes on me, I spoke.
 
 “Encircling formation. Spread out.”
 

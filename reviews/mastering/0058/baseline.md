@@ -16,7 +16,7 @@ At worst, I might have to pull Jin Wikyung out and run.
 
 I was thinking that when the reconnaissance squad arrived behind me, breathing hard.
 
-“Squad Leader, maybe we can—huff!”
+“Captain, maybe we can—huff!”
 
 The moment they saw what was happening in front of them, their eyes all popped wide. Hyuk Mujin, who came crawling up behind them, gaped as well.
 
@@ -140,7 +140,7 @@ I glanced aside and saw ten-odd pairs of shaking eyes.
 
 Hyuk Mujin’s were practically seismic.
 
-“S-Squad Leader.”
+“C-Captain.”
 
 “Y-Yeah?”
 
@@ -371,7 +371,7 @@ The Sword Energy that arrived a beat later split the ground.
 
 Hyuk Mujin and the reconnaissance squad surrounded us as we slipped out of the Head Elder’s range by a hair.
 
-“Protect the Squad Leader!”
+“Protect the Captain!”
 
 “Are you all right?”
 
