@@ -1,15 +1,16 @@
 # Translation State
 
-- Last completed: 378
-- Next chapter: 379
-- Current block: 375–379 (4/5)
-- Latest translation: `translations/0378.md`
-- Latest summary: `summaries/beats/0378.md`
-- Safe profiles through: chapter 378
+- Last completed: 379
+- Next chapter: 380
+- Current block: 375–379 (5/5)
+- Latest translation: `translations/0379.md`
+- Latest summary: `summaries/beats/0379.md`
+- Safe profiles through: chapter 379
 
 ## Current Block
 
-- After logging out of the Murim, Jin Taekyung awakens aboard a private jet flying toward Chengdu International Airport at twenty-five thousand feet, only to find the airport under attack and more than ten Wyverns pursuing the aircraft. With Team Leader Choi protecting the cabin using a Barrier, Jin cuts open the plane door, throws a spear charged with flame Force, kills the lead Wyvern known as Black Star and two more, and sends the remaining Wyverns fleeing.
+- An enormous monster army unexpectedly reaches Chengdu International Airport, overwhelming the Chinese People’s Liberation Army and the Public Security Armed Forces Department Hunters. Wyverns, Griffons, and Gargoyles destroy grounded fighter jets, while conventional weapons prove mostly ineffective against the invading monsters except at their eyes. Shao Shen rallies the defenders and leads a desperate charge.
+- A Green Wyvern’s Poison Breath kills the command staff, and black magic then raises the battlefield’s dead as chained undead. Shao Shen is forced to kill his reanimated friend and colleague Yao Wei, who has become a Dullahan. As the defenders near collapse and the undead army grows, a gigantic burning aircraft approaches the battlefield and sweeps across it.
 
 ## Open Questions
 
@@ -25,7 +26,7 @@
 - Use Mimi for 미미 and Mimi-chan for 미미쨩; render 삼괴 as Third Fiend in singular references and Three Fiends in collective references.
 - Render 진인 as Perfected One, 도우 as Fellow Daoist, 신니 as Venerable Nun, 환영진 as illusion formation, and 이동진 as Moving Formation.
 - Render 독룡각 as Poison Dragon Pavilion, 가주 대행 as Acting Family Head, and 화룡갑 as Fire Dragon Armor.
-- Render 강기(劍罡) as Force or Aura Blade by context, and retain Barrier, Breath, Air Breath, and bangzi consistently.
+- Render 듀라한 as Dullahan, 공안 무력부 as Public Security Armed Forces Department, 중화 as Zhonghua, and 포이즌 브레스 as Poison Breath.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
