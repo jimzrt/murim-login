@@ -453,3 +453,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 혁소평 | 황보엄 | junior_disciple_to_senior_martial_uncle | Senior Martial Uncle | formal-deferential but strained | Hyuk Sopyung repeatedly addresses Hwangbo Eom as 사백 while resisting his criticism. |
 | 황보엄 | 혁소평 | senior_martial_uncle_to_junior_martial_artist | you; nobody like you | cold and contemptuous | Hwangbo Eom uses 네 녀석 and 네까짓 놈 while reprimanding Hyuk Sopyung. |
 | 주화란 | 황보엄 | visitor_to_Zhongnan_senior_martial_uncle | Great Hero Hwangbo | formal-deferential | Ju Hwaran formally introduces herself to Hwangbo Eom as the Taeeul Merciless Sword. |
+| 황보엄 | 주화란 | Zhongnan senior to Yongbong Young Bureau Head | you | cold, commanding, and manipulative | Uses 자네 while ordering Hwaran to open the casket and demanding compensation. |

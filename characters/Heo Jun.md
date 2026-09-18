@@ -1,8 +1,8 @@
 # Heo Jun (허준)
 
-- **Safe through:** Chapter 317
+- **Safe through:** Chapter 319
 - **Aliases:** Uncle Heo, Chief Escort
-- **Role:** Chief Escort of the Yongbong Escort Bureau and Ju Hwaran's uncle, Heo Jun leads the survivors after the bureau reached Xi'an with thirty-three dead and is responsible for completing the Thousand-Year Snow Ginseng delivery.
+- **Role:** Chief Escort of the Yongbong Escort Bureau and Ju Hwaran's uncle, Heo Jun is at Tengwang Pavilion facing the bureau's two-hundred-thousand-silver-nyang compensation claim after the shipment failed.
 - **Personality:** Responsible, protective, concerned, and dutiful.
 - **Voice:** Formal, paternal, calm, and quietly reassuring.
 - **Relationships:** He is Ju Hwaran's uncle and supports her while she leads the Yongbong Escort Bureau in her father's absence.

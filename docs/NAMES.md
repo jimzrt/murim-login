@@ -1089,3 +1089,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 태을신공 | **Taeeul Divine Technique** | Zhongnan cultivation technique; Hwangbo Eom had mastered eight-tenths of it at Hyuk Sopyung's age. |
 | 종화지회 | **Huashan–Zhongnan gathering** | Source spelling variant of 화종지회 for the ten-year gathering between the two sects. |
 | 스피드 개건 | **Speed Beggar** | Jin Taekyung's joking label for Gung Gibang. |
+| 성수장가 | **Seongsu Jang Family** | Prestigious medical family in Shandong. |
+| 환의 | **Pill Physician** | Title of the current Family Head of the Seongsu Jang Family. |

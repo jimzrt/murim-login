@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "When Ju Hwaran realized that, blood seeped from her bitten lips, and Chief Escort Heo Jun’s face darkened.",
+      "defect": "The draft adds that Ju Hwaran bit her lips. The source only states that blood flowed from her lips; her explicit lip-biting occurs later.",
+      "id": "F01",
+      "rationale": "Removing “bitten” preserves the source’s action sequence and avoids introducing an action before it is explicitly narrated.",
+      "replacement": "When Ju Hwaran realized that, blood ran from her lips, and Chief Escort Heo Jun’s face darkened.",
+      "severity": "critical",
+      "source": "그 사실을 깨달은 주화란의 입술에서 피가 흘렀고, 총표두 허준의 얼굴은 시커멓게 물들었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "*I saw it myself. I even carried it.*",
+      "defect": "“Carried it” narrows the statement to physical transport, while 갖고 있기까지 했는데 emphasizes that she personally retained possession of the authenticated item. That custody detail is meaningful to the mystery of when it was exchanged.",
+      "id": "F02",
+      "rationale": "The replacement preserves both her direct verification and her continued personal custody of the casket.",
+      "replacement": "*I saw it myself. I even had it in my possession.*",
+      "severity": "major",
+      "source": "‘직접 보고, 갖고 있기까지 했는데.’"
+    },
+    {
+      "confidence": 0.94,
+      "current": "What was wrong with these people?\n\nThe Zhongnan Disciple had been looking at us as if we were a collection of lunatics, but his face stiffened after he noticed someone.",
+      "defect": "The draft presents the rhetorical reaction as Jin Taekyung’s judgment of the others, then separately paraphrases the Disciple’s gaze. In the source, the rhetorical line expresses what the Zhongnan Disciple’s look says about Jin’s group.",
+      "id": "F03",
+      "rationale": "This restores the reaction to the Zhongnan Disciple rather than making Jin suddenly judge his own companions.",
+      "replacement": "What the hell was with these guys?\n\nThe Zhongnan Sect disciple had been looking at us as if to say exactly that, but his face stiffened when he spotted someone.",
+      "severity": "critical",
+      "source": "뭐 이런 놈들이 다 있지?\n\n그런 눈빛으로 우리를 바라보던 종남파 제자의 얼굴이 딱딱하게 굳은 것은 한 사람을 발견한 뒤였다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“客, I’m sorry, but we’re completely full right now…”",
+      "defect": "The Korean address 손님 has been replaced by an untranslated Chinese character, violating the English-only reading-copy requirement.",
+      "id": "F04",
+      "rationale": "“Sir” naturally conveys the proprietor’s polite address to a customer.",
+      "replacement": "“Sir, I’m sorry, but we’re completely full right now…”",
+      "severity": "minor",
+      "source": "“손님, 죄송하지만 지금은 자리가 꽉 차서…….”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The young owner who had inherited the teahouse through generations was still inexperienced.",
+      "defect": "A single owner cannot personally inherit something “through generations”; the phrasing is an unnatural English calque of a family inheritance.",
+      "id": "F05",
+      "rationale": "The replacement naturally conveys that the teahouse had been passed down to the young owner through his family.",
+      "replacement": "The young owner who had inherited the teahouse from his family was still inexperienced.",
+      "severity": "minor",
+      "source": "대를 이어 다루를 물려받은 젊은 주인의 솜씨는 아직 서툴렀다."
+    }
+  ],
+  "summary": "The draft is largely faithful, but it adds an unspoken physical action, weakens a custody detail central to the substitution mystery, reverses the subject of a reaction, leaves one character untranslated, and contains one awkward inheritance construction.",
+  "version": 1
+}

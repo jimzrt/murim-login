@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Gung Gibang learns that the Yongbong Escort Bureau’s decline began with the generosity and later qi deviation of its former Bureau Head, Ju Hogun.",
+      "defect": "Ju Hogun is identified as the former Bureau Head, contradicting Chapter 316, which calls him the current Bureau Head, and Chapter 317, which says Ju Hwaran leads in her incapacitated father’s place.",
+      "id": "C01",
+      "rationale": "Ju Hogun remains the titular Bureau Head despite his qi deviation; Ju Hwaran is acting in his place rather than succeeding him.",
+      "replacement": "Gung Gibang learns that the Yongbong Escort Bureau’s decline began with the generosity and later qi deviation of its current Bureau Head, Ju Hogun.",
+      "severity": "major",
+      "source": "checkpoint summary, Plot"
+    },
+    {
+      "confidence": 0.97,
+      "current": "The reason the Escort King had managed to catch two rabbits at once and build the Yongbong Escort Bureau into one of the five biggest in the industry was his fame.",
+      "defect": "This contradicts the same chapter’s earlier statement that the Yongbong Escort Bureau had ranked among the top three in the world.",
+      "id": "C02",
+      "rationale": "The bureau’s historical standing should remain numerically consistent within the chapter.",
+      "replacement": "The reason the Escort King had managed to catch two rabbits at once and build the Yongbong Escort Bureau into one of the three biggest in the industry was his fame.",
+      "severity": "major",
+      "source": "Chapter 316, explanation of the Yongbong Escort Bureau’s decline"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Jin Taekyung's party has entered Tengwang Pavilion with Baek Museong, Cheongpung, Hyuk Mujin, and unconscious Jeok Cheongang.",
+      "defect": "Gung Gibang is omitted from the active party despite accompanying the group to Tengwang Pavilion in Chapter 318 and being included in the checkpoint’s Continuity section.",
+      "id": "C03",
+      "rationale": "The active state must preserve every present party member so subsequent chapters do not accidentally drop Gung Gibang from the scene.",
+      "replacement": "Jin Taekyung's party has entered Tengwang Pavilion with Baek Museong, Cheongpung, Gung Gibang, Hyuk Mujin, and unconscious Jeok Cheongang.",
+      "severity": "major",
+      "source": "checkpoint summary, Durable state, active_continuity"
+    },
+    {
+      "confidence": 0.92,
+      "current": "At Tengwang Pavilion, Hwangbo Eom reprimands Hyuk Sopyung and declares that he is trying to restore Zhongnan’s standing.",
+      "defect": "The summary drops the chapter’s internal Zhongnan conflict: Hyuk Sopyung defends the Sect Leader, the Taeeul Sword Unit implicitly sides with him, and Hwangbo Eom curbs his pressure after noticing their reaction.",
+      "id": "C04",
+      "rationale": "This preserves the newly established tension between Hwangbo Eom, the Sect Leader’s disciple, and the Taeeul Sword Unit rather than reducing the exchange to a routine reprimand.",
+      "replacement": "At Tengwang Pavilion, Hwangbo Eom reprimands Hyuk Sopyung and disparages the Sect Leader, but Hyuk Sopyung defends his Master, and the Taeeul Sword Unit’s reaction makes Hwangbo Eom back down before he declares that he is trying to restore Zhongnan’s standing.",
+      "severity": "minor",
+      "source": "checkpoint summary, Plot"
+    },
+    {
+      "confidence": 1.0,
+      "current": "\"It's astringent.\"",
+      "defect": "The apostrophe is straight while the rest of the reading copies consistently use curly apostrophes.",
+      "id": "C05",
+      "rationale": "This corrects an isolated typography drift.",
+      "replacement": "\"It’s astringent.\"",
+      "severity": "minor",
+      "source": "Chapter 318, opening line"
+    },
+    {
+      "confidence": 1.0,
+      "current": "\"...I apologize.\"",
+      "defect": "The line uses three periods instead of the required ellipsis character.",
+      "id": "C06",
+      "rationale": "The packet’s binding Markdown rules require the single-character ellipsis.",
+      "replacement": "\"…I apologize.\"",
+      "severity": "minor",
+      "source": "Chapter 318, Hyuk Sopyung’s reply during Hwangbo Eom’s reprimand"
+    },
+    {
+      "confidence": 0.96,
+      "current": "The knot in the straw rope wound tightly around the entire casket bore a few small words.\n\n\n\nShandong Seongsu Jang Family.\n\n\n\nAfter checking the writing, Hwangbo Eom nodded.",
+      "defect": "The displayed inscription is separated by excessive blank lines and presented as an ordinary paragraph rather than a clean non-System quotation.",
+      "id": "C07",
+      "rationale": "A normal blockquote clearly identifies the physical inscription while removing the accidental spacing difference and avoiding System-panel styling.",
+      "replacement": "The knot in the straw rope wound tightly around the entire casket bore a few small words.\n\n> Shandong Seongsu Jang Family.\n\nAfter checking the writing, Hwangbo Eom nodded.",
+      "severity": "minor",
+      "source": "Chapter 319, inscription on the sealed casket"
+    }
+  ],
+  "summary": "The reading copies remain tonally consistent and preserve the packet’s main hooks, but there are two factual contradictions, one omitted party member in active continuity, one under-recorded Zhongnan conflict, and three minor formatting inconsistencies.",
+  "version": 1
+}
