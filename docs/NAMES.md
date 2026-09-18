@@ -1140,3 +1140,9 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 추혼객 | **Soul-Chasing Guest** | Song Ilseom’s former epithet; he was known by it ten years earlier. |
 | 함양 | **Xianyang** | City Song Ilseom plans to visit for Ju Hogun’s elixir. |
 | 수룡채 | **Water Dragon Stronghold** | Major river stronghold belonging to the Yangtze River Channel League. |
+| 선화아 | **Ship-Fire Boy** | Mu Song's sobriquet; literally a child who lights fires aboard a ship. |
+| 무송 | **Mu Song** | Lord of Water Dragon Stronghold and disciple of the Seafaring King. |
+| 채주 | **Stronghold Lord** | Title used for the lord of a water stronghold. |
+| 장강 | **Yangtze** | The river controlled by the Yangtze River Channel League. |
+| 성도 | **Chengdu** | Sichuan destination of Taekyung's party. |
+| 광안 | **Guang'an** | Sichuan location where the party boards Mu Song's ship. |
