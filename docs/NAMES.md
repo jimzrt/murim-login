@@ -1383,3 +1383,10 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 영웅의 힘 | **Hero's Power** | Power granted by Hero's Soul and removed when the sword rejects its bearer. |
 | 왕오춘 | **Wang Ochun** | Lieutenant General appointed commander of the northern front. |
 | 쑤이닝시 | **Suining City** | City in Sichuan Province and the operation's final destination. |
+| 헌터 대학 | **Hunter University** | Online forum site read by Seong Jinho. |
+| 도람프 | **Doramp** | Parodic name for the U.S. president in a forum headline. |
+| 마이구미 신지로 | **Maigumi Shinjiro** | Japanese prime minister mentioned in a forum headline. |
+| 푸린 | **Furin** | Russian president mentioned in a forum headline. |
+| 매생이 닷컴 | **Maesaeng-i.com** | Website credited with translating overseas reactions. |
+| 리자드 맨 | **lizard man** | Monster species fought on the western front. |
+| 윈드 커터 | **Wind Cutter** | Wind-based spell used during the western-front battle. |
