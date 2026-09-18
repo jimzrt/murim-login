@@ -1128,3 +1128,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 홍석정 | **Hong Seokjeong** | Escort who died during the current Yongbong Escort Bureau mission. |
 | 노두삼 | **Noh Dusam** | Escort who died during the current Yongbong Escort Bureau mission. |
 | 석삼 | **Seok Sam** | Caravan porter who died during the current Yongbong Escort Bureau mission. |
+| 몽혼제 | **mind-clouding drug** | Narcotic that clouds the mind and induces sleep. |
+| 낭중지추 | **needle in a bag** | Idiom meaning exceptional talent eventually reveals itself. |

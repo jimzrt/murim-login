@@ -469,3 +469,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 황천 | 혁소평 | junior_disciple_to_senior_disciple | Senior Brother | deferential and alarmed | Appeals to Hyuk Sopyung after he orders the unit to withdraw. |
 | 혁소평 | 황천 | senior_disciple_to_junior_disciple | Junior Brother | gentle but commanding | Orders Hwangcheon to withdraw and then silences his objection. |
 | 혁소평 | 주화란 | senior_Zhongnan_disciple_to_young_bureau_head | Young Lady Ju | formal-apologetic | Hyuk apologizes on Zhongnan's behalf; Ju Hwaran rejects the address and orders him to call her Young Bureau Head. |
+| 주화란 | 송일섬 | bureau_head_to_escort_captain | Captain Song | formal and prosecutorial | Uses his office title, then his personal name, while exposing and confronting him. |

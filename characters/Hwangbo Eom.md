@@ -1,6 +1,6 @@
 # Hwangbo Eom (황보엄)
 
-- **Safe through:** Chapter 326
+- **Safe through:** Chapter 327
 - **Aliases:** Taeeul Merciless Sword
 - **Role:** Supreme Peak master of the Zhongnan Sect and its Second Martial Uncle, Hwangbo Eom is the Taeeul Merciless Sword who was defeated by Jin Taekyung, left severely injured, and forced to sign the Yongbong Escort Bureau settlement.
 - **Personality:** Ruthless, severe, proud, and deeply invested in restoring Zhongnan's standing.
