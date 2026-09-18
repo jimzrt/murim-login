@@ -1,0 +1,136 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "Scrape, scrape. The Lycanthrope’s claws scratched against the ground as it slid across the spear toward me.",
+      "defect": "The draft makes the monster slide across the physical spear rather than showing it being dragged over to the narrator’s side of the spear, obscuring the setup for the claim that it has now crossed the line.",
+      "id": "F01",
+      "rationale": "창 안쪽으로 넘어왔다 means the impaled monster crosses over to the inner, narrator-facing side of the spear after the shaft is pulled.",
+      "replacement": "Scrape, scrape. The Lycanthrope’s claws raked the ground as I dragged it over to my side of the spear.",
+      "severity": "major",
+      "source": "치지직. 라이칸스로프의 발톱이 지면을 긁으며 창 안쪽으로 넘어왔다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "That was far enough. I pulled out the spear that had been lodged at the speed of a streak of light, then swung it horizontally toward the front.",
+      "defect": "The draft attaches the lightlike speed to the spear becoming lodged, whereas the source applies it to Jin pulling the embedded spear free.",
+      "id": "F02",
+      "rationale": "빛살 같은 속도로 modifies 뽑아낸, making the extraction—not the earlier impact—the high-speed action.",
+      "replacement": "That was far enough. I yanked the embedded spear free at lightning speed, then swept it horizontally in front of me.",
+      "severity": "critical",
+      "source": "여기까지다. 빛살 같은 속도로 박혀 있던 창을 뽑아낸 나는, 전면을 향해 횡으로 휘둘렀다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Beneath the helmet pulled low over his head, atop full plate mail as black as pitch, red eyes shone clearly.",
+      "defect": "The sentence is syntactically tangled and turns the undead knight’s red eye-light into physical red eyes.",
+      "id": "F03",
+      "rationale": "붉은 안광 denotes the red light or gleam coming from beneath the helmet, while the armor itself is pitch-black.",
+      "replacement": "His full plate armor was pitch-black, and a vivid red glow shone beneath his low-set helmet.",
+      "severity": "minor",
+      "source": "칠흑빛을 띤 풀 플레이트 메일에 깊이 눌러쓴 투구 아래로는 붉은 안광이 또렷하다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "His body was much smaller than that of a large monster such as an ogre, but the magical power flowing from him was immense and formidable.",
+      "defect": "마력 in this modern Hunter setting is established as mana, not generic magical power.",
+      "id": "F04",
+      "rationale": "The terminology rules require mana for modern Hunter-system 마력 and reserve Murim energy terminology for the distinct power system.",
+      "replacement": "He was far smaller than a large monster like an ogre, but the mana emanating from him was immense and powerful.",
+      "severity": "major",
+      "source": "오우거와 같은 대형 몬스터보다는 훨씬 작은 체구였지만, 놈에게서 흘러나오는 마력은 크고 강대했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "I was not shaken by the immense magical power pouring from every part of his body like a waterfall. That alone told me.",
+      "defect": "The draft again replaces the established modern-system term mana with generic magical power.",
+      "id": "F05",
+      "rationale": "마력 is mana here, and 전신 refers to his entire body rather than separately to every part of it.",
+      "replacement": "I remained unshaken by the immense mana pouring from his entire body like a waterfall. That alone told me.",
+      "severity": "major",
+      "source": "놈의 전신에서 폭포처럼 흘러넘치는 강대한 마력에도 흔들리지 않는 스스로의 모습에 알 수 있었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The moment the surging magical power collided with the flames, an immense pressure swept over them, and the skeletal horse beneath the black knight shattered into pieces.",
+      "defect": "The energy is mana, and “swept over them” introduces an unclear plural target absent from the causal description.",
+      "id": "F06",
+      "rationale": "The source directly links the pressure produced by the collision to the destruction of the skeletal horse.",
+      "replacement": "The moment the surging mana collided with the flames, the resulting pressure shattered the black knight’s skeletal horse into pieces.",
+      "severity": "major",
+      "source": "넘실거리는 마력이 화염과 부딪친 순간 덮쳐 오는 엄청난 압력에, 검은 기사가 타고 있던 해골마가 산산이 부서졌다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Black magical power shot toward Jin Taekyung in the form of dozens of bolts of lightning.",
+      "defect": "The established modern-system energy term is mistranslated.",
+      "id": "F07",
+      "rationale": "마력 must be rendered as mana here, while 벼락이 되어 explicitly describes the mana becoming the lightning bolts.",
+      "replacement": "Black mana became dozens of lightning bolts and shot toward Jin Taekyung.",
+      "severity": "major",
+      "source": "검은 마력이 수십 개의 벼락이 되어 진태경을 향해 쏘아졌다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "His hands wrapped in blue flames and the sword blade filled with immense magical power trembled between the two beings.",
+      "defect": "The sentence uses generic magical power instead of mana.",
+      "id": "F08",
+      "rationale": "마력 is modern-system mana; both Jin’s hands and the opposing blade are described as trembling in the deadlock.",
+      "replacement": "His blue-flame-wreathed hands and the blade laden with immense mana trembled between the two beings.",
+      "severity": "major",
+      "source": "푸른 화염에 휩싸인 두 손과 막대한 마력이 서린 검신이 두 존재의 사이에서 파르르 떨렸다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The black knight’s red eyes flashed, and the sword in his hand began to emit stronger magical power than ever.",
+      "defect": "The draft turns the knight’s eye-light into physical eyes, uses magical power instead of mana, and adds an onset with “began” that is absent from the source.",
+      "id": "F09",
+      "rationale": "안광 is the red glow visible through the helmet, while 마력 is mana and 뿜어냈다 describes an immediate release.",
+      "replacement": "The black knight’s red eye-light flashed, and the sword in his grasp unleashed more mana than ever before.",
+      "severity": "major",
+      "source": "검은 기사의 붉은 안광이 번쩍 빛남과 동시에 손아귀에 들린 검이 그 어느 때보다 강한 마력을 뿜어냈다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "When the sword cut me, my vision had nearly gone dark.",
+      "defect": "The draft changes a moment of dizziness or visual disorientation into near-blackout.",
+      "id": "F10",
+      "rationale": "눈앞이 아찔했다 indicates that his vision reeled or swam from the shock, not that it almost went dark.",
+      "replacement": "When the sword cut me, my vision had swum too.",
+      "severity": "minor",
+      "source": "검에 베였을 때는 나 역시도 눈앞이 아찔했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“This is…the share of those people you killed today.”",
+      "defect": "“The share of those people” is an unnatural literal rendering of the retaliatory idiom and weakens the spoken force of the line.",
+      "id": "F11",
+      "rationale": "그 사람들 몫이다 means that this blow is being delivered on behalf of or as payback for those victims.",
+      "replacement": "“This is…for the people you killed today.”",
+      "severity": "minor",
+      "source": "“이건…… 오늘 네가 죽였던 그 사람들 몫이다.”"
+    },
+    {
+      "confidence": 0.9,
+      "current": "Under the eighth-stage Flame-Extinguishing Divine Fist, the helmet that had endured everything was smashed apart, revealing his face.",
+      "defect": "“Eighth-stage” suggests a distinct cultivation stage rather than the technique’s eighth degree of power or attainment.",
+      "id": "F12",
+      "rationale": "팔성 describes the degree at which Jin executes the technique, not a separately named stage of the technique.",
+      "replacement": "A Flame-Extinguishing Divine Fist at the eighth level smashed apart the helmet that had withstood everything, revealing his face.",
+      "severity": "minor",
+      "source": "팔성의 멸염신권에 어떤 상황에서도 견고하던 투구가 박살 나며 놈의 얼굴이 드러났다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "I blinked through eyelids clotted with blood. For just an instant, time seemed to stop around the face that entered my view.",
+      "defect": "“Time seemed to stop around the face” is unnatural and misstates the relation expressed by Jin’s gaze landing on the face.",
+      "id": "F13",
+      "rationale": "내 시선에 닿은 describes Jin’s gaze meeting or landing on the face; the apparent stopping of time is his reaction to recognizing it.",
+      "replacement": "I blinked through eyelids clotted with blood. For just an instant, time seemed to stop when my gaze landed on someone’s face.",
+      "severity": "minor",
+      "source": "나는 핏물로 엉겨 붙어 있던 눈꺼풀을 깜빡였다. 아주 잠깐, 내 시선에 닿은 누군가의 얼굴에 시간이 멈춘 듯했다."
+    }
+  ],
+  "summary": "One critical action-modifier error changes when the spear moves at extreme speed. The draft also obscures the spear-line gag, repeatedly renders modern Hunter-system mana as generic magical power, and contains several localized terminology and phrasing defects.",
+  "version": 1
+}
