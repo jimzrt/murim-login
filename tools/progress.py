@@ -23,6 +23,7 @@ except ImportError:  # pragma: no cover - rich is expected, but keep a soft path
 
 STAGE_NOTES = {
     "prepare": "Assemble the bounded draft packet from source, rules, glossary, and profiles",
+    "compress": "Shrink oversized CONTEXT.json and character profiles when over threshold",
     "draft": "Translate the Korean chapter into English Markdown",
     "review": "Structured fidelity review with exact replacement spans",
     "revise": "Apply review replacements and re-run deterministic QA",

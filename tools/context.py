@@ -120,10 +120,10 @@ def durable_context_problems(value: dict, number: int, source_limit: int, *, pri
     return problems
 
 
-def load_active_context(number: int) -> dict:
+def load_active_context(number: int, *, enforce_max_bytes: bool = True) -> dict:
     path = ROOT / "docs" / "CONTEXT.json"
     config = workflow_config()
-    if path.stat().st_size > config["context_max_bytes"]:
+    if enforce_max_bytes and path.stat().st_size > config["context_max_bytes"]:
         raise ValueError(f"{path} exceeds context_max_bytes")
     value = read_json(path)
     problems = durable_context_problems(

@@ -10,7 +10,7 @@ retry:
   modelFallback: true
   fallbackRevertPolicy: cooldown-expiry
   usageAwareFallback: true
-  usageReservePct: 5
+  usageReservePct: 0
   usageReservePolicy: auto
   fallbackChains:
     # Sol (master / checkpoint): Codex → Cursor → paid OpenRouter.

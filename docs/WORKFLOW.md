@@ -84,12 +84,10 @@ facts before generating `docs/STATE.md`, `docs/CONTEXT.json`, `docs/NAMES.md`,
 `reviews/packets/update-NNNN.md` and `reviews/updates/NNNN.json`; their hashes
 gate summary, checkpoint, acceptance, and commit.
 
-When durable context or a profile crosses its configured threshold,
-`run_next.py` stops before preparing the next chapter and issues
-`python tools/workflow.py compress N`. This runs a dedicated compression model
-that removes resolved recaps and rewrites one oversized profile per run; rerun
-`run_next.py` until the threshold check is clear. Thresholds live in
-`docs/workflow.json` under `context_thresholds` and
+When durable context or a profile is over its configured threshold, status at
+`READY` reports `python tools/workflow.py compress N`. `run_next.py` runs that
+before `prepare`. If thresholds are not exceeded, compression is skipped.
+Thresholds live in `docs/workflow.json` under `context_thresholds` and
 `profile_compress_trigger_bytes`.
 
 Deterministic reports live in `reviews/qa/`; provider-reported phase usage,
