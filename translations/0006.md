@@ -2,17 +2,17 @@
 
 From the hill above, the Jin Family of Taiyuan looked like a village unto itself.
 
-Dozens of buildings, large and small, spread across the broad grounds, while high stone walls wrapped around the family estate without leaving a single gap.
+Dozens of buildings, large and small, spread across the vast grounds, while high stone walls enclosed the entire estate without leaving a single gap.
 
-And that wasn’t all. The cliff rising behind the Jin Family of Taiyuan was a spectacle in itself.
+And that wasn’t all. The cliff looming behind the Jin Family of Taiyuan was a spectacle in its own right.
 
 Nature that had weathered the ages, and one family crouched beneath it.
 
-The sight alone was deeply imposing.
+The sight alone was imposing.
 
 “Wow.”
 
-Even the coachman was impressed. Wait, hold on.
+Even the coachman was impressed. Wait a minute.
 
 “Didn’t you say you’d been here often?”
 
@@ -20,11 +20,11 @@ Even the coachman was impressed. Wait, hold on.
 
 “…How long have you been working?”
 
-“Not even half a month.”
+“Not even a month.”
 
 This guy had more layers than an onion.
 
-He looked and carried himself like a twenty-year veteran, but he was a new hire.
+He looked and carried himself like a twenty-year veteran, yet he was a new hire.
 
 *Then again, if he really had that much experience, there was no way he wouldn’t recognize this face.*
 
@@ -56,17 +56,17 @@ As the carriage slowed, I opened my Skill Window.
 >
 > **Description:** Scans targets within a designated range. As the realm rises, the scan range and maximum target level increase.
 
-When I finished reading the description, something suddenly occurred to me.
+When I finished reading the description, something occurred to me.
 
 *That’s exactly what it is. A power-level scanner.*
 
-In a famous manga, a mechanical device quantified an opponent’s battle power. I wondered what Qi Sense would be like.
+In a famous manga, they used a mechanical device to measure an opponent’s power level. I wondered how Qi Sense would work.
 
-Curious, I called to mind the command.
+Curious, I called the command to mind.
 
 *Activate Qi Sense.*
 
-Was that right? The moment I hesitated, a blue circle appeared beneath my feet and a notification chimed.
+Was that right? The instant I hesitated, a blue circle appeared beneath my feet and a notification chimed.
 
 Ding.
 
@@ -78,7 +78,7 @@ Ten jang—that was thirty meters.
 
 Whoosh.
 
-Blue concentric rings swept outward and caught someone within their radius. A System window popped up over the coachman’s round head.
+Blue concentric rings swept outward, catching someone within their radius. A System window popped up over the coachman’s round head.
 
 > **System**
 >
@@ -98,7 +98,7 @@ I nodded and opened the Quest Window. The moment I checked the new Main Quest, m
 
 “…Huh?”
 
-The world seemed to light up before my eyes. If Qi Sense was a single ray of light reflected in a sewer, this was the sun. My heart pounded, and my head grew hot.
+The world seemed to brighten before my eyes. If Qi Sense was a single ray of light reflected in a sewer, this was the sun. My heart pounded, and my head grew hot.
 
 > **System**
 >
@@ -124,15 +124,15 @@ The world seemed to light up before my eyes. If Qi Sense was a single ray of lig
 >
 > **Reward:** Logout
 
-The one word I had been desperate to see.
+The word I had been desperate to see.
 
 *Logout!*
 
-I was overjoyed, but dazed too. I had been determined to survive by any means necessary, yet a sliver of anxiety had always lingered in the back of my mind. *Can I get out? What if I’m trapped here forever?* Dark suspicions like those had never quite left me.
+I was overjoyed, but dazed too. I had been determined to survive by any means necessary, yet a sliver of anxiety had always lingered in the back of my mind. *Can I get out? What if I’m trapped here forever?* Those dark suspicions had never quite left me.
 
 *I can get out.*
 
-But now things were different. I was certain I could log out. It felt as if my mind had awakened anew.
+But now things were different. I finally knew I could log out. It felt as though my mind had awakened anew.
 
 *Yeah, fuck it. It’s only a game.*
 
@@ -170,9 +170,9 @@ The moment I saw the martial artists guarding the Jin Family of Taiyuan’s main
 
 *So this is what a prestigious family is like.*
 
-They were definitely different. If the Heavenly Axe and the bandits I’d encountered earlier were a rabble, these men were trained regulars.
+They were clearly different. If the Heavenly Axe and the bandits I’d encountered earlier were a rabble, these men were trained regulars.
 
-One of the NPCs approached the coachman. He was a young martial artist with thick caterpillar eyebrows.
+One of the NPCs approached the coachman. He was a young martial artist with a boyish face and thick caterpillar eyebrows.
 
 “I am Hyuk Mujin, Captain of the Gatekeepers of the great Jin Family of Taiyuan. State your identity and purpose.”
 
@@ -188,13 +188,13 @@ While I was thinking that, the coachman answered.
 
 “Yes.”
 
-Through the window, I saw the NPC’s face—or rather, Hyuk Mujin’s—twist into a frown. His formerly polite tone turned curt at once.
+Through the window, I saw the NPC’s face—or rather, Hyuk Mujin’s—twist into a frown. His previously courteous tone turned curt at once.
 
 “What business could a pleasure house possibly have with our family?”
 
 “Ah, well…”
 
-No matter where you went, there were always people like that—the kind who worked for a conglomerate and thought that made them a chaebol, when the real chaebol was someone else entirely.
+No matter where you went, there were always people like that—the kind who worked for a conglomerate and thought that made them a chaebol, when the actual chaebol was someone else entirely.
 
 I quietly opened the window and coughed.
 
@@ -206,19 +206,19 @@ A very deliberate cough. The famous *Don’t you know who I am?* cough, reserved
 
 Sure enough, Hyuk Mujin recognized me at a glance. I gave him a mild smile and spoke.
 
-It was a magic phrase widely used by high-ranking politicians, military officers, and businessmen.
+It was a magic phrase used far and wide by high-ranking politicians, military officers, and businessmen.
 
 “Hmm. Right. Good work.”
 
-I was about to close the window when…
+I was about to close the window when—
 
 Clack. Rattle.
 
 “Huh?”
 
-It wouldn’t close. A hand had shot forward and caught the window.
+It wouldn’t close. A hand had shot forward and caught it.
 
-The owner of that hand was, of course, Hyuk Mujin. Through the half-closed window, I saw his face, stiff as a board.
+The hand belonged, of course, to Hyuk Mujin. Through the half-closed window, I saw his stiff expression.
 
 “Get down.”
 
@@ -232,7 +232,7 @@ What the hell? Why was this guy reacting like that?
 
 I put on a generous smile.
 
-“You might not know this, but I live in this house.”
+“You might not know this, but I live here.”
 
 “So do I.”
 
@@ -244,7 +244,7 @@ I put on a generous smile.
 
 Exactly right. Hyuk Mujin continued.
 
-“I know perfectly well who you are, Young Master. Now get down from the carriage. We’ll follow procedure.”
+“I know perfectly well who you are, Young Master. Now get down from the carriage. We’ll proceed according to protocol.”
 
 What else could I do? He said it was protocol. But warning lights were flashing in my head as I climbed down from the carriage.
 
@@ -260,7 +260,7 @@ The other NPCs in the Jin Family of Taiyuan were giving me strangely chilly look
 
 What was this, a criminal interrogation?
 
-I was in a foul mood, but decided to wait and see what happened.
+I was in a foul mood, but I decided to wait and see what happened.
 
 “…Jin Taekyung.”
 
@@ -280,13 +280,13 @@ Honestly?
 
 *Would you understand if I said I reached the Second Rate realm by distributing stats?*
 
-When I only stared at him instead of answering, he shook his head.
+When I merely stared at him instead of answering, he shook his head.
 
 “Well, if you insist, we’ll move on. Let’s see… You’ve been away for several days. Where did you go?”
 
 “Honghwaru.”
 
-Wow, several days at the famously expensive Honghwaru? Must have been nice. You must have spent a fortune. Or did you skim the family funds again?
+“Several days at the famously expensive Honghwaru? Must have been nice. You must have spent a fortune. Or did you skim the family funds again?”
 
 “Again?”
 
@@ -300,7 +300,7 @@ For a moment, I had forgotten what kind of person the character Jin Taekyung was
 
 *The Shame of the Family.*
 
-There was no way the Jin Family of Taiyuan’s NPCs would like someone saddled with a title like that. As if to prove it, their contempt was aimed entirely at me now.
+There was no way the Jin Family of Taiyuan’s NPCs would like someone saddled with a title like that. As if to prove it, every ounce of their contempt was now directed at me.
 
 In this game where nothing ever went my way.
 
@@ -308,7 +308,7 @@ In this game where nothing ever went my way.
 
 Something surged up from deep in my chest. My head throbbed, and my eyes grew hot. Then a low voice reached me.
 
-“Third Young Master, I may only be a low-ranking squad leader, but let me say one thing.”
+“Third Young Master, I may only be a low-ranking Captain, but let me say one thing.”
 
 His expression said it all.
 
@@ -316,7 +316,7 @@ His expression said it all.
 
 “Stop tarnishing the family’s reputation. At least try to live like a human being. Understood?”
 
-He tossed out that one remark and turned away. I stared blankly at the back of his head, then let out a hollow laugh.
+He tossed out the remark and turned away. I stared blankly at the back of his head, then let out a hollow laugh.
 
 “Live like a human being?”
 
@@ -348,15 +348,15 @@ The air hung heavy. A pile of documents towered over the desk. And, as always, a
 
 Scratch. Scratch.
 
-The Chief of the Gatekeeping Pavilion swallowed. From the moment he entered the office, his mouth had been bone-dry.
+The Master of the Gatekeeper Pavilion swallowed. His mouth had been bone-dry from the moment he entered the office.
 
 “Tell me.”
 
 The calm voice from beyond the pile of documents was an oasis.
 
-The Chief of the Gatekeeping Pavilion finally managed to speak.
+The Master of the Gatekeeper Pavilion finally managed to speak.
 
-There is a promising fellow among my subordinates. He's quite loyal to our family, and he has considerable martial talent, but…
+“There is a promising young man among my subordinates. He’s quite loyal to our family and possesses considerable martial talent, but…”
 
 “I’m listening.”
 
@@ -374,17 +374,17 @@ Silence fell.
 
 “It was all my fault. Please punish me severely!”
 
-The Chief of the Gatekeeping Pavilion bowed deeply, his vision going dark. A long while passed before the voice came again.
+The Master of the Gatekeeper Pavilion bowed deeply, his vision going dark. A long while passed before the voice came again.
 
 “That’s enough. You may leave.”
 
-The Chief of the Gatekeeping Pavilion raised his head, feeling as if he had narrowly escaped death.
+The Master of the Gatekeeper Pavilion raised his head, feeling as though he had narrowly escaped death.
 
 “Ah, one more thing.”
 
 “Your command, Lesser Family Head.”
 
-“Could I see that fellow? I’d like to speak with him for a moment.”
+“Could I see that young man? I’d like to speak with him for a moment.”
 
 “Lesser Family Head, forgive me for saying so, but his treatment isn’t finished yet.”
 
@@ -394,7 +394,7 @@ The Chief of the Gatekeeping Pavilion raised his head, feeling as if he had narr
 
 “…Is that so? Then never mind.”
 
-The silence continued even after the Chief of the Gatekeeping Pavilion withdrew, until the precarious tower of documents came crashing down.
+The silence continued even after the Master of the Gatekeeper Pavilion withdrew, until the precarious tower of documents came crashing down.
 
 “Wipeng.”
 
