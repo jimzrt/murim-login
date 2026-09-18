@@ -26,7 +26,7 @@ I sat there in a daze for a long while, as though bewitched, before finally real
 
 This world—the Murim—was exactly as I remembered it. Nothing had changed except me.
 
-A small voice slipped from my lips before I realized it.
+The words slipped softly from my lips.
 
 “The Conception and Governor Vessels…”
 
@@ -50,7 +50,7 @@ The Fire King, Jeok Cheongang, answered as if he’d been waiting for me.
 
 “You’re really old.”
 
-For a moment, he was struck speechless. I added one more thing.
+For a moment, he was struck speechless. I quickly added:
 
 “And strong. Stronger than anyone I’ve ever seen.”
 
@@ -66,7 +66,7 @@ Jeok Cheongang cleared his throat in embarrassment and changed the subject.
 
 “Fantastic.”
 
-There was no need to read a System message or circulate my internal energy to examine my body. I could feel it the moment I opened my eyes.
+There was no need to check the System messages or circulate my internal energy to examine my body. I’d felt it the moment I opened my eyes.
 
 The corners of his mouth twitched at my immediate answer.
 
@@ -74,7 +74,7 @@ The corners of his mouth twitched at my immediate answer.
 
 “……”
 
-“I’m telling the truth!”
+“I-I’m telling the truth!”
 
 “I didn’t say anything.”
 
@@ -88,9 +88,9 @@ Violent and impossibly eccentric, yet surprisingly easy to understand—that was
 
 “I have ptosis, so people often misunderstand my expression.”
 
-I put on an utterly shameless face and denied everything. Jeok Cheongang began to snort.
+I shamelessly denied everything, and Jeok Cheongang began to fume.
 
-“Why is everyone here like this? That so-called Lesser Family Head keeps neglecting major family business to come by and see you, and those physicians are all quacks who do nothing but gossip about whether you’re going to live or die.”
+“Why is everyone here like this? That so-called Lesser Family Head keeps neglecting major family business to come and see you, and those physicians are all quacks who do nothing but fuss over whether you’ll live or die.”
 
 “Wait. Die? Did someone get seriously hurt?”
 
@@ -116,7 +116,7 @@ I didn’t even hear the rest. I blinked at him in a daze.
 
 Jeok Cheongang froze, then shouted:
 
-“That’s beside the point! Even after you take a shit, you still have to wipe your ass. I removed all the turbid qi that had been piling up inside your body, layer upon layer. Obviously, you’d need time to adjust to your new body!”
+“That’s beside the point! Even after taking a shit, you still have to wipe your ass. I removed all the turbid qi that had accumulated inside your body, layer upon layer. Obviously, you needed time to adjust to your new body!”
 
 “……”
 
@@ -124,13 +124,13 @@ He was so worked up that the analogy was a little strange, but I understood what
 
 *Some kind of optimization process, maybe?*
 
-Come to think of it, it would be strange for someone on the verge of death to leap to his feet just because his Conception and Governor Vessels had been opened. Even after leveling up, mental fatigue could still build up and knock a person unconscious.
+Come to think of it, it would be strange for someone on the verge of death to leap to his feet just because his Conception and Governor Vessels had been opened. Even after leveling up, enough mental fatigue could still knock a person unconscious.
 
 Even so, an entire week?
 
 “Then the gathering must be over.”
 
-“The gathering—or half a gathering—ended three days ago.”
+“The gathering—or half a gathering, or whatever it was—ended three days ago.”
 
 Still visibly sulking, Jeok Cheongang continued:
 
@@ -158,7 +158,7 @@ Sure enough, he was right. Not long afterward, approaching footsteps announced t
 
 “My youngest!”
 
-Jin Wikyung’s voice trembled with emotion when he saw that I had awakened after seven days and nights. Behind him came Ak Bulgun’s blunt voice.
+Jin Wikyung’s eyes welled up when he saw me awake after seven days and nights. From behind him came Ak Bulgun’s blunt voice.
 
 “It seems Great Hero Jeok is here as well. I have something important to discuss with you. Would that be all right?”
 
@@ -188,7 +188,7 @@ When I faltered, Jeok Cheongang supplied the name.
 
 “It is a grand event where martial artists from across the world gather in one place to vie for supremacy and reinforce their bonds. It is held once every two or three years, and this year’s Star-Array Grand Banquet will take place in Henan.”
 
-At Ak Bulgun’s additional explanation, Jeok Cheongang gave a derisive laugh.
+At Ak Bulgun’s explanation, Jeok Cheongang gave a derisive laugh.
 
 “Reinforce the bonds of the Murim, my ass. It’s a place where powerful people cheer each other on, flatter one another, and build connections.”
 
@@ -204,7 +204,7 @@ I could more or less picture what it had been like.
 
 A time of chaos was also a time of opportunity. The greedy and powerful never let an opportunity pass them by.
 
-It might even have been partly related to why Jeok Cheongang had gone into seclusion on Mount Jiuhua again.
+It might even have had something to do with why Jeok Cheongang had withdrawn to Mount Jiuhua again.
 
 *Still, it sounds like an enormous event.*
 
@@ -220,7 +220,7 @@ Jeok Cheongang narrowed his eyes at my curious stare.
 
 Was Jeok Cheongang really the sort of person to comply simply because someone asked him to?
 
-The question vanished as soon as I heard the title of the person who had asked.
+The question vanished the moment I heard the man’s title.
 
 “The Martial God.”
 
@@ -240,7 +240,7 @@ As though recalling those days, Jeok Cheongang tapped the armrest of his chair w
 
 “He has not shown himself for many years. There are even disturbing rumors circulating…”
 
-“You’re worried the Martial God might be dead? Ha. There are far too many idiots with nothing but shit in their heads.”
+“You think the Martial God might be dead? Ha! There are far too many idiots with nothing but shit in their heads.”
 
 Jeok Cheongang let out a hollow laugh, then turned back to me.
 
@@ -252,7 +252,7 @@ Jeok Cheongang let out a hollow laugh, then turned back to me.
 
 “I’m not sure.”
 
-I scratched the back of my head, unable to answer easily.
+I scratched the back of my head, unable to answer right away.
 
 The Star-Array Grand Banquet. A gathering where martial artists from across the world assembled to reinforce their bonds and vie for supremacy.
 
@@ -312,7 +312,7 @@ Jeok Cheongang had stared at me with trembling eyes for a long while before leav
 
 Remembering his final words, I sat down on the bed.
 
-My field of vision was as bright as midday, and I could hear the footsteps and breathing of people outside the pavilion as clearly as if they were right beside me.
+My surroundings were as bright as midday, and I could hear the occasional footsteps and breathing outside the pavilion as clearly as if they were right beside me.
 
 *You’re already strong enough.*
 
