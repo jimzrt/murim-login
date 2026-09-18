@@ -1,30 +1,30 @@
 # Translation State
 
-- Last completed: 413
-- Next chapter: 414
-- Current block: 410–414 (4/5)
-- Latest translation: `translations/0413.md`
-- Latest summary: `summaries/beats/0413.md`
-- Safe profiles through: chapter 413
+- Last completed: 414
+- Next chapter: 415
+- Current block: 410–414 (5/5)
+- Latest translation: `translations/0414.md`
+- Latest summary: `summaries/beats/0414.md`
+- Safe profiles through: chapter 414
 
 ## Current Block
 
-- Wu Heixing and the roughly three hundred elite Hunters of the Red Guard Gang fight through the monster army, but a Lich and two Death Knights inflict severe losses. Lee Jungryong kills the airborne Lich with a single spear throw, after which Wu defeats one of the Death Knights. Lee and Go Jun deliberately wait until the Red Guard Gang is in greater danger before sending Go Jun and Ares Guild forces into battle. Lee reveals that he wants the Red Guard Gang destroyed so Ares can become its replacement source of influence and opportunity. Go Jun questions whether Wu's involvement is connected to Jin Taekyung, but Lee gives no explanation; shortly afterward, Lee hears Jin approaching from the west and awaits his arrival.
+- Jin Taekyung confronts Wu Heixing over protecting himself while his allies died, and Lee Jungryong intervenes to prevent their argument from becoming a fight.
+- Lee Jungryong reveals that the Arch Lich has kept an estimated fifty thousand monsters in reserve only twenty kilometers from their position. Team Leader Choi infers that the smaller-than-expected front-line forces created enough strength for a counterattack and identifies S-rank Hunters as one-person armies capable of overturning the battle.
+- Prince Felix, Faye Chen, and Magic Johnson arrive through a dangerous teleport, followed by ten thousand reinforcements from the Western and Eastern Fronts. Team Leader Choi declares that the allied forces will win, and Jin Taekyung believes him.
 
 ## Open Questions
 
-- Why did Lee Jungryong include Wu Heixing in the operation, and how is that choice connected to Jin Taekyung?
-- What does Lee Jungryong intend to do when Jin Taekyung arrives?
-- Will the Red Guard Gang be destroyed, allowing Ares Guild to assume its political position?
-- Can the remaining Red Guard Gang and Ares forces survive the surrounding monster army and Death Knights?
+- Can the combined forces break through the Arch Lich's fifty-thousand-monster reserve and reach it?
+- What further defenses await the coalition beyond the Arch Lich's reserve army?
 
 ## Exceptional Decision
 
-- Render 일기당천 as One Against a Thousand.
-- Render 위압 as Intimidation.
-- Render 홍위방 as Red Guard Gang.
-- Render 십이혈라검 as Twelve Blood Net Sword.
+- Render 아크 리치 as Arch Lich.
 - Render 결사대 as suicide squad.
+- Render 일인군단 as one-person army.
+- Render 영웅의 혼 as Hero's Soul.
+- Render 장유유서 as Respect your elders.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

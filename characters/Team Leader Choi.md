@@ -1,9 +1,9 @@
 # Team Leader Choi
 
-- **Safe through:** Chapter 409
+- **Safe through:** Chapter 414
 - **Aliases:** Choi Minwoo (최민우)
-- **Role:** Team Leader Choi is an allied Hunter and team leader who fought on the Western Front.
-- **Personality:** Not established.
-- **Voice:** Not established.
-- **Relationships:** Team Leader Choi is a descendant of Cheon Taemin, a deeply trusted ally of Jin Taekyung, and an ally of Shao Shen.
+- **Role:** Allied team leader and Hunter who analyzes battlefield conditions during the Arch Lich operation.
+- **Personality:** Calm, analytical, and steady under extreme battlefield pressure.
+- **Voice:** Measured and logical, using clear tactical explanations.
+- **Relationships:** Works alongside Jin Taekyung and Lee Jungryong in the coalition against the Arch Lich.
 - **Sources:** Korean source and accepted translation, Chapters 42–54

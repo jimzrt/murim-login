@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "I swept back my hair, which was sticky with sweat.",
+      "defect": "The draft changes the substance coating Taekyung’s hair from blood to sweat, altering a physical scene fact.",
+      "id": "F01",
+      "rationale": "피 means blood, not sweat.",
+      "replacement": "I swept back my hair, which was sticky with blood.",
+      "severity": "critical",
+      "source": "나는 피로 찐득거리는 머리칼을 쓸어올렸다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“On my great-grandmother’s lap, she would often tell me when I was a child that royalty must fulfill the duties befitting their station. Of course, commoners like you would not know anything about that.”",
+      "defect": "The opening is a dangling construction that grammatically places the great-grandmother on her own lap rather than placing the young Felix on it.",
+      "id": "F02",
+      "rationale": "The source explicitly makes the great-grandmother seat young Felix on her lap before speaking to him.",
+      "replacement": "“When I was a child, my great-grandmother would sit me on her lap and often tell me that royalty must fulfill the duties befitting their station. Of course, commoners like you would not understand.”",
+      "severity": "major",
+      "source": "「증조모께서는 어린 나를 무릎에 앉혀 두고 종종 말씀하셨지. 왕족은 신분에 걸맞은 의무를 다해야 한다고. 평민인 자네들은 모르겠지만 말이야.」"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“You didn’t think we came empty-handed, did you?”",
+      "defect": "The draft changes coming recklessly or without a plan into coming without reinforcements or equipment.",
+      "id": "F03",
+      "rationale": "무턱대고 means blindly, recklessly, or without forethought; it does not mean empty-handed.",
+      "replacement": "“Did you think we came all this way without a plan?”",
+      "severity": "major",
+      "source": "「우리가 무턱대고 온 줄 알았어?」"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Jangyu—elders come first.”\n\nAt my calm, unruffled answer, Lee Jungryong gave a hearty laugh whose meaning I could not decipher. Wu Heixing glared at me as if he wanted to kill me all over again.\n\n“Jangyu? Spare me that bullshit. What about me? I’m seven years older than you.”",
+      "defect": "The draft truncates 장유유서 to the unexplained term “Jangyu,” which reads like a personal name and weakens Wu Heixing’s retort about being older.",
+      "id": "F04",
+      "rationale": "장유유서 expresses the proper ordering of elder and younger people; the exchange depends on Wu invoking his own seven-year seniority.",
+      "replacement": "“Respect your elders, right?”\n\nAt my calm, unruffled answer, Lee Jungryong gave a hearty laugh whose meaning I could not decipher. Wu Heixing glared at me as if he wanted to kill me all over again.\n\n“Respect your elders? Spare me that bullshit. What about me? I’m seven years older than you.”",
+      "severity": "major",
+      "source": "“장유유서(長幼有序) 아닙니까.”\n\n내 태연자약한 대답에 이정룡은 뜻 모를 너털웃음을 지었고, 우헤이싱은 다시 한번 나를 죽일 듯이 노려보았다.\n\n「장유유서? 어울리지도 않는 개소리는 집어치워라. 그럼 너보다 일곱 살이나 많은 나는?」"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“You little—fuck!”",
+      "defect": "The draft removes the deliberately bizarre and explicit turtle-dick insult, losing the source’s specific profanity and humor.",
+      "id": "F05",
+      "rationale": "자라 좆 explicitly invokes a soft-shelled turtle’s penis; replacing it with a generic broken curse omits the joke and register.",
+      "replacement": "“You turtle-dick-looking bastard…!”",
+      "severity": "major",
+      "source": "「이런 자라 좆 같은……!」"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“We’ve reached the very front of the Arch Lich’s position. According to the coordinates, there are only twenty kilometers left.”",
+      "defect": "“The very front of the Arch Lich’s position” is unnatural and treats the Arch Lich as a military position rather than saying the group is close to it.",
+      "id": "F06",
+      "rationale": "코앞까지 means immediately before or very close to the target, used figuratively here despite the stated distance.",
+      "replacement": "“We’ve made it right to the Arch Lich’s doorstep. According to the coordinates, only twenty kilometers remain.”",
+      "severity": "minor",
+      "source": "“지금 우리는 아크 리치의 코앞까지 도달했네. 좌표상으로는 불과 20km밖에 남지 않았지.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“But you did it in the end, Johnson.”",
+      "defect": "The draft adds “in the end” while omitting 도, the comparison that Johnson also attempted the teleport.",
+      "id": "F07",
+      "rationale": "도 means “too” or “also,” which directly prompts Johnson’s reply that his odds were different.",
+      "replacement": "“But you did it too, Johnson.”",
+      "severity": "minor",
+      "source": "“하지만 결국 존슨도 하셨잖아요.”"
+    },
+    {
+      "confidence": 0.95,
+      "current": "Courage had no size.",
+      "defect": "The sentence is an unnatural English calque that blunts the narrator’s concise rejection of Johnson’s percentage comparison.",
+      "id": "F08",
+      "rationale": "This preserves the source’s metaphor while using an idiomatic English formulation.",
+      "replacement": "Courage didn’t come in sizes.",
+      "severity": "minor",
+      "source": "용기에는 크기가 없다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“I love you, Johnson! Fucking nice, gay!”",
+      "defect": "The inserted comma turns “gay” into an awkward form of direct address rather than preserving the speaker’s intentionally broken-English description of Johnson.",
+      "id": "F09",
+      "rationale": "The source deliberately presents malformed English as part of the shouted joke; its syntax should not be changed into a vocative insult.",
+      "replacement": "“I love you, Johnson! Fucking nice gay!”",
+      "severity": "minor",
+      "source": "「I love you, Johnson! fucking nice gay!」"
+    },
+    {
+      "confidence": 0.94,
+      "current": "Far away, they appeared as a single line filling the distant horizon.",
+      "defect": "The draft omits the visual detail that the distant army first appears as dots.",
+      "id": "F10",
+      "rationale": "점 identifies the distant troops as dots, while the draft renders them as a continuous line.",
+      "replacement": "Far away, they appeared as a thin line of dots stretching across the distant horizon.",
+      "severity": "minor",
+      "source": "그들은 저 멀리 까마득한 지평선을 메우며 한 줄기의 점으로 모습을 드러냈다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "There are some faces that never become welcome, no matter how many times you see them. Lee Jungryong and Wu Heixing were exactly that kind of face to me.",
+      "defect": "The second sentence ungrammatically classifies two people as one “kind of face,” and “become welcome” is not natural English.",
+      "id": "F11",
+      "rationale": "The replacement preserves the repeated-face framing and the narrator’s categorization while correcting the number mismatch and awkward collocation.",
+      "replacement": "Some faces are never a welcome sight, no matter how many times you see them. For me, Lee Jungryong and Wu Heixing fell squarely into that category.",
+      "severity": "minor",
+      "source": "몇 번을 봐도 반갑지 않은 얼굴들이 있다. 내게는 이정룡과 우헤이싱이 딱 그런 부류에 속했다."
+    }
+  ],
+  "summary": "One critical factual substitution changes blood to sweat; additional findings address altered meaning, ambiguity, omitted humor, and unnatural terminology.",
+  "version": 1
+}
