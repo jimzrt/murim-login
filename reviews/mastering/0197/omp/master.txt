@@ -12,7 +12,7 @@ After hearing Jeok Cheongang’s explanation, I asked, “Is it really that diff
 
 Jeok Cheongang nodded.
 
-“You’re artificially changing the body you were born with. Did you really think that would be easy and convenient? If it were, there wouldn’t be anyone in this world who wasn’t a master.”
+“You’re artificially changing the body you were born with. Did you think it would be quick and easy? If it were, everyone under heaven would be a master.”
 
 Fair enough.
 
@@ -30,7 +30,7 @@ That thought vanished the instant Jeok Cheongang continued.
 
 “…Yikes.”
 
-The difficulty level was brutal right from the start.
+The difficulty was brutal right from the start.
 
 Two jiazi amounted to a full one hundred and twenty years. How many people under heaven could possibly possess that much internal energy?
 
@@ -46,7 +46,7 @@ He raised two wrinkled fingers.
 
 “It would be difficult for anyone outside the Nine Sects and One Gang or the Five Great Families.”
 
-“Not merely difficult. Extremely difficult. Was it Baek Museong? That Huashan-something fellow seems to have undergone it.”
+“Not merely difficult. Extremely difficult. Was his name Baek Museong? That Huashan fellow seems to have undergone it.”
 
 This was an investment in the most literal sense. Sects selected promising young talents with bright futures and performed the procedure on them.
 
@@ -96,7 +96,7 @@ The longer Jeok Cheongang talked, the more my stomach seemed to shrivel. I swall
 
 “What the hell do you think our sect is?”
 
-Jeok Cheongang glared at me with round, bulging eyes before shaking his head.
+Jeok Cheongang glared at me with bulging eyes, then shook his head.
 
 “Cleansing the sinews and washing the marrow cannot be prepared overnight. Today, this old man will merely straighten your bones and muscles with internal energy. Whether you stuff yourself with elixirs afterward is your concern.”
 
@@ -108,7 +108,7 @@ Come to think of it, Jeok Cheongang had arrived empty-handed. If he had intended
 
 “Ask me that one more time, and I’ll strip off your skin as well.”
 
-I stripped off every piece of clothing I was wearing at the speed of light.
+I tore off every piece of clothing at the speed of light.
 
 Jeok Cheongang’s gaze roamed over my completely naked body, and a strange look entered his eyes.
 
@@ -118,15 +118,15 @@ Jeok Cheongang’s gaze roamed over my completely naked body, and a strange look
 
 “Ah, never mind. It’s nothing.”
 
-*What was that? Why did the atmosphere suddenly become so ominous?*
+*What was that? Why did the atmosphere suddenly get so serious?*
 
 As I wondered what was wrong with the old man, I realized something and grinned.
 
-“Come on, now. We’re all friends here. Why are you acting like that?”
+“Come on. We’re both men here. Why are you acting like that?”
 
 “…?”
 
-“Honestly, this size is absolutely not normal. I was shocked myself when I first saw it. Do you know the Amazon? There’s something called a black anaconda there. It’s just—whoosh. Really enormous. Whew.”
+“Honestly, this size is anything but normal. I was shocked when I first saw it too. Do you know the Amazon? There’s something there called a black anaconda. It’s like—bam. Just… whew.”
 
 “…!”
 
@@ -190,13 +190,13 @@ Even a sickly weakling could undergo both, turn into a thug, and run rampant thr
 
 So what was wrong with me?
 
-“Did he do too cursory a job?”
+“Did he just rush through it?”
 
 Just then, the door opened, and Hyuk Mujin cautiously poked his head inside.
 
 “May I come in—gasp.”
 
-As I pulled on the clothes scattered across the floor, I said:
+I pulled on the clothes scattered across the floor.
 
 “Just so we’re clear, if you get any strange ideas, I’ll crack your skull. And by skull, I mean your head.”
 
@@ -212,7 +212,7 @@ Hyuk Mujin flinched and hurriedly waved his hands.
 
 “N-No. That’s not what I meant. Great Hero Jeok looked so strange when I ran into him earlier that I came to see if something had happened.”
 
-“His expression was strange?”
+“He looked strange?”
 
 “His face was completely rigid. He looked like he’d been startled by something, or maybe like he was angry.”
 
@@ -276,9 +276,9 @@ The phrase *perfect balance* did not belong anywhere near the human body.
 
 Even if one spent ten thousand gold instead of a thousand, minute flaws would remain. But Jin Taekyung was different.
 
-Jeok Cheongang had kneaded and touched his unconscious body from head to toe.
+Jeok Cheongang had kneaded and examined his unconscious body from head to toe.
 
-He had felt the tough, elastic skin and the strength filling both the surface and the depths of his body. He had circulated his internal energy through Taekyung’s body and confirmed the broad, sturdy Sinews and Meridians within.
+He had felt the tough, elastic skin and the power filling his body inside and out. He had sent his internal energy flowing through Taekyung and confirmed that his sinews and meridians were broad and sturdy.
 
 And then he had been stunned.
 
@@ -286,7 +286,7 @@ And then he had been stunned.
 
 It was perfect. He almost wondered if this was what the legendary Bone Transformation he had only heard about would look like.
 
-Jeok Cheongang had met several Supreme Peak masters in his life, including the peerless master Mae Jonghak, the Sword Saint.
+Jeok Cheongang had met several Supreme Peak masters in his life, including the peerless Mae Jonghak, the Sword Saint.
 
 But he could say this without hesitation: Of all the bones and muscles he had ever seen, Jin Taekyung’s were the finest under heaven.
 
@@ -294,7 +294,7 @@ But he could say this without hesitation: Of all the bones and muscles he had ev
 
 Jeok Cheongang had been staring blankly for some time when a thought flashed through his mind, making his entire body tremble.
 
-The Murim held sayings passed down like legends from the distant past.
+Certain legends had been passed down through the Murim since time immemorial.
 
 The Heavenly Martial Physique, said to be born through a caprice of Heaven once every several hundred—or perhaps even a thousand—years, was one of them.
 
@@ -314,19 +314,19 @@ At last, the desire coiled deep within Jeok Cheongang’s heart raised its head.
 
 “What if… I taught that boy?”
 
-The mutter escaped him before he realized it, and Jeok Cheongang was startled.
+The words slipped out before he realized it, startling him.
 
 *A Disciple?*
 
-His only Disciple had betrayed their sect and was no longer of this world.
+His only Disciple had betrayed their sect and was already dead.
 
-The wound from that betrayal had not even healed, and he was already thinking of taking another Disciple.
+The wound from that betrayal had yet to heal, and he was considering taking another Disciple?
 
 Worse, he was over a hundred years old, and the infirmities of old age had already begun to cloud his mind.
 
 *Even if I don’t do it, Mae Jonghak could find a worthy talent and carry on our sect’s legacy.*
 
-He had told no one, but Jeok Cheongang had planned to seek out the Sword Saint Mae Jonghak as soon as he left the Jin Family of Taiyuan.
+He had told no one, but Jeok Cheongang intended to seek out the Sword Saint Mae Jonghak as soon as he left the Jin Family of Taiyuan.
 
 Mae Jonghak possessed martial arts counted among the strongest under heaven and had no selfish ambitions. Jeok Cheongang planned to entrust the Fire Gate Clan’s succession to him.
 
@@ -340,7 +340,7 @@ The polite voice belonged to Jin Wikyung, a giant of a man.
 
 Jeok Cheongang, who had been thinking of Jin Taekyung at that very moment, flinched.
 
-“Uh, yes?”
+“Uh, what?”
 
 It was already the third day since Jeok Cheongang had begun staying at the Jin Family of Taiyuan. Seeing him act so unlike himself, Jin Wikyung asked cautiously, “Is there perhaps something making you uncomfortable…?”
 
