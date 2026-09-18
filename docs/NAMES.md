@@ -1097,3 +1097,13 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 종남제일인 | **Zhongnan's greatest master** | Taekyung's description of Hwangbo Eom. |
 | 서안 분타주 | **Xi'an Branch Leader** | Unnamed Beggars' Sect official heading the Xi'an branch. |
 | 초코파이 | **Choco Pie** | Snack brand used in Taekyung's pun on 정. |
+| 흑걸개 | **Heukgeol Beggar** | Three-knot disciple and head of the Beggars' Sect's Xi'an branch; title-form of Heukgeol. |
+| 왕코 | **Big Nose** | Gung Gibang's nickname for his childhood friend Heukgeol. |
+| 삼결제자 | **three-knot disciple** | Beggars' Sect rank held by Heukgeol. |
+| 팔결제자 | **eight-knot disciple** | Beggars' Sect rank and mark held uniquely by the Successor Beggar. |
+| 법개 | **Law Beggar** | Beggars' Sect authority who enforces the sect rules. |
+| 용두방주 | **Dragon-Head Gang Leader** | Leader of the Beggars' Sect and Gung Gibang's Master. |
+| 개방도 | **Beggars' Sect disciple** | Member of the Beggars' Sect. |
+| 하오문도 | **Lower District Sect member** | Member of the Lower District Sect. |
+| 금오상단 | **Geumo Merchant Guild** | Merchant guild named in the evidence concerning the Yongbong Escort Bureau; source spelling distinct from 금와상단. |
+| 황철심 | **Hwang Cheolsim** | Zhongnan lay disciple who secretly intervened in the Yongbong Escort Bureau's failed transaction. |

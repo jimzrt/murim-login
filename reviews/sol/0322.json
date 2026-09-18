@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "“I’m Heukgeol Beggar, in charge of the Xi’an branch of the Beggars’ Sect.”",
+      "defect": "The hybrid name “Heukgeol Beggar” romanizes 흑걸개 and risks conflating this Xi’an branch leader with the separately established character Heukgeol. Here 흑걸개 functions as a beggar sobriquet and can be translated directly.",
+      "id": "F01",
+      "rationale": "The source introduces the speaker by the sobriquet 흑걸개 and his responsibility for the Xi’an branch; it does not identify him as the established character Heukgeol.",
+      "replacement": "“I’m the Black Beggar, head of the Beggars’ Sect’s Xi’an branch.”",
+      "severity": "major",
+      "source": "“개방 서안 분타를 책임지고 있는 흑걸개요.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Her extravagant outfit and alluring smile were as captivating as ever.",
+      "defect": "“As ever” adds a comparison absent from the source and prematurely assigns the subsequent observation about what has not changed to Wolhwa’s appearance.",
+      "id": "F02",
+      "rationale": "The Korean is a simple descriptive fragment without any claim that her clothes or smile remained unchanged.",
+      "replacement": "A dazzling outfit and an alluring smile.",
+      "severity": "minor",
+      "source": "화려한 복장과 매혹적인 미소."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Where do you think you’re going, when you’re only a three-knot disciple? I’m eight-knot—the one and only eight-knot disciple in the Beggars’ Sect! If the Successor Beggar calls, people will come running even from the neighboring provinces.”",
+      "defect": "“Where do you think you’re going” invents physical movement. The elliptical 어딜 rejects the three-knot disciple’s presumption that mobilizing the beggars is his prerogative. The translation also pluralizes the singular neighboring province.",
+      "id": "F03",
+      "rationale": "Gung Gibang is asserting rank and command authority over the branch leader, not stopping him from going somewhere.",
+      "replacement": "“That’s not your call, three-knot. I’m an eight-knot—the one and only eight-knot disciple in the Beggars’ Sect! If the Successor Beggar calls, they’ll come running even from the neighboring province.”",
+      "severity": "major",
+      "source": "“삼결 주제에 어딜. 나 팔결이야. 개방에 하나뿐인 팔결! 후개가 부른다고 하면 옆 성에서까지 달려온다.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“This old man overlooked your behavior because you were a young prodigy of the Beggars’ Sect, but now that I’ve watched and watched…”",
+      "defect": "The draft mistranslates both idioms: 사정을 봐주다 means to go easy on someone or cut them some slack, not to overlook unspecified behavior, while 보자 보자 하니 means that the recipient has gone too far, not that the speaker has literally watched repeatedly.",
+      "id": "F04",
+      "rationale": "Hwangbo Eom claims that he previously showed leniency because of Gung Gibang’s status and now declares that his patience has run out.",
+      "replacement": "“This old man went easy on you because you were a young prodigy of the Beggars’ Sect, but you’ve gone too far…”",
+      "severity": "major",
+      "source": "“개방의 후기지수라 하여 노부가 사정을 봐주었건만, 보자 보자 하니…….”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "He had taken each step carefully over the past two years, and all that remained was to put the final period on it.",
+      "defect": "“Put the final period on it” is an unnatural literal rendering of 종지부를 찍다.",
+      "id": "F05",
+      "rationale": "종지부 expresses bringing a matter to its definitive end; “bring it to a close” preserves that meaning in natural English.",
+      "replacement": "He had taken each step carefully over the past two years, and all that remained was to bring it to a close.",
+      "severity": "minor",
+      "source": "지난 이 년 동안 차근차근 단계를 밟았고 남은 것은 종지부뿐이었다."
+    }
+  ],
+  "summary": "Several localized fidelity and terminology issues remain, including a character-title collision, an altered hierarchy challenge, and two literal calques.",
+  "version": 1
+}
