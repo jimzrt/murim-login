@@ -644,3 +644,8 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 중년인 | celebrated Hunter to older fellow Hunter | sir | casual and teasing | Jin addresses the older Hunter as 아저씨 while joking with him and giving him instructions. |
 | 진태경 | 청년 | celebrated Hunter to younger fellow Hunter | young man | casual, teasing, and profane | Jin addresses the young Hunter after overhearing his criticism and deliberately switches to casual speech. |
 | 청년 | 진태경 | frightened junior Hunter to celebrated senior Hunter | you | fearful and deferential | The young Hunter uses 당신 while asking whether Jin is really the person he recognizes from the media. |
+| 진태경 | 최 팀장 | senior allied Hunter to recovering subordinate | Team Leader Choi | polite and directive | Jin tells Team Leader Choi to focus on recovery rather than join the operation. |
+| 진태경 | 샤오 쉔 | senior allied Hunter to recovering allied regimental commander | Shen | direct, familiar, and encouraging | Jin addresses Shao Shen familiarly while explaining why he is giving him Hero's Soul. |
+| 샤오 쉔 | 진태경 | subordinate ally to senior Hunter and benefactor | hyung | deferential and affectionate | Shao Shen calls Jin hyung while protesting that he is fit to fight and receiving Hero's Soul. |
+| 샤오 쉔 | 최 팀장 | junior allied commander to respected senior Hunter | Mr. Choi | formal and insistent | Shao Shen asks Team Leader Choi to accept Hero's Soul in his place. |
+| 최 팀장 | 샤오 쉔 | senior allied Hunter to fellow recovering commander | Regimental Commander Shen | formal and sincere | Team Leader Choi congratulates Shao Shen before Shao Shen offers him the sword. |
