@@ -1,9 +1,9 @@
 # Ju Hwaran (주화란)
 
-- **Safe through:** Chapter 328
+- **Safe through:** Chapter 329
 - **Aliases:** Hwaran
-- **Role:** Level 88 Young Bureau Head and leader of the Yongbong Escort Bureau, Ju Hwaran exposed Chief Escort Heo Jun's two-year collusion with Zhongnan and killed him after he confessed to sabotaging the bureau.
+- **Role:** Level 88 Young Bureau Head and leader of the Yongbong Escort Bureau, responsible for its personnel and contracts after Heo Jun’s betrayal.
 - **Personality:** Intelligent, capable, responsible, filial, composed under pressure, and burdened by intense guilt over the escort journey's deaths.
 - **Voice:** Clear, polite, restrained, and determined.
-- **Relationships:** Escort King Ju Gongsan was her paternal grandfather and the founder of the Yongbong Escort Bureau; Ju Hogun is her beloved father and its former leader; Heo Jun was her beloved uncle and Chief Escort until she exposed his betrayal; Chief Escort Seok grew up alongside her like a blood brother and died during the current escort journey.
+- **Relationships:** Escort King Ju Gongsan was her paternal grandfather and rescued the Guangdong Chen Family’s surviving child, who became Song Ilseom’s grandmother; Ju Hogun is her father, and Heo Jun was her uncle.
 - **Sources:** Korean source and accepted translation, Chapter 309

@@ -470,3 +470,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 혁소평 | 황천 | senior_disciple_to_junior_disciple | Junior Brother | gentle but commanding | Orders Hwangcheon to withdraw and then silences his objection. |
 | 혁소평 | 주화란 | senior_Zhongnan_disciple_to_young_bureau_head | Young Lady Ju | formal-apologetic | Hyuk apologizes on Zhongnan's behalf; Ju Hwaran rejects the address and orders him to call her Young Bureau Head. |
 | 주화란 | 송일섬 | bureau_head_to_escort_captain | Captain Song | formal and prosecutorial | Uses his office title, then his personal name, while exposing and confronting him. |
+| 송일섬 | 궁기방 | senior_martial_artist_to_Beggars_Sect_successor | Successor Beggar | blunt and irritated | Uses 후개 while objecting to Gung Gibang’s spitting and insults. |
+| 궁기방 | 송일섬 | Beggars_Sect_successor_to_young_escort_captain | Young Hero Song | casual and admiring | Uses 송 소협 while praising the famous Soul-Chasing Guest and comparing their looks. |
