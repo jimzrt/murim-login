@@ -10,7 +10,7 @@ Under countless watchful eyes, two men walked toward each other. When they final
 
 Huashan.
 
-And Baek Museong.
+Baek Museong.
 
 Those two names alone carried tremendous weight.
 
@@ -24,17 +24,17 @@ Though ordinary civilians were mixed in among them, a considerable number of tho
 
 The name of Huashan and the epithet Huashan’s Lone Crane carried immense prestige.
 
-“My heavens, why did Huashan’s Lone Crane come here?”
+“My heavens, why is Huashan’s Lone Crane here?”
 
 “Was the Jin Family of Taiyuan really this influential?”
 
-“W-Wait. If Huashan’s Lone Crane came here, then…”
+“W-Wait. If Huashan’s Lone Crane is here, then…”
 
 The people who had been talking over one another began scanning the area. Before long, they spotted the man and woman beside Baek Museong, and another round of exclamations broke out.
 
 “That young man must be the Defeated Flower Fist. He’s enormous, just like I heard.”
 
-“The Flower Sword Phoenix is here too! She’s even beautiful!”
+“The Flower Sword Phoenix is here too! And she’s beautiful!”
 
 “Whoa! It’s the Three Plum Blossom Elites!”
 
@@ -42,7 +42,7 @@ Chulwoo and Eunhyang looked bewildered by the unexpectedly fervent reception.
 
 Both had accompanied their Master, the Heavenly Sword True Person, into the martial world a few times, but neither had ever received cheers like these.
 
-“What the hell? Am I really this famous? They even know my epithet?”
+“What the hell? Am I really this famous? They even know my epithet.”
 
 “Senior Brother Chul, did you hear that? Someone just called me beautiful.”
 
@@ -70,7 +70,7 @@ Perhaps it was because of the man’s distinctive way of putting people at ease.
 
 “I agree.”
 
-They had already drawn attention unintentionally.
+They had already drawn more attention than intended.
 
 If even a single word about the Sword Saint slipped out with so many people watching, there would undoubtedly be an uproar.
 
@@ -96,7 +96,7 @@ At Baek Museong’s call, Chulwoo slowly turned his head.
 
 “No. Nothing.”
 
-Eunhyang, who was standing beside Chulwoo, abruptly cut in.
+Eunhyang, standing beside him, abruptly cut in.
 
 “That’s not true. Senior Brother Chul was staring at someone just now.”
 
@@ -104,7 +104,7 @@ Eunhyang, who was standing beside Chulwoo, abruptly cut in.
 
 Chulwoo immediately shook his head. His massive frame subtly blocked Eunhyang from view.
 
-“As if. Other than going out a couple of times with our Master, I’ve been cooped up at headquarters the whole time.”
+“Of course not. Other than going out a couple of times with our Master, I’ve spent my whole life cooped up at headquarters.”
 
 “That is… true.”
 
@@ -126,7 +126,7 @@ Baek Museong felt vaguely uneasy.
 
 Perhaps it was because his Second Junior Brother, who usually rambled on without making a lick of sense, had answered so smoothly.
 
-“Second, are you thinking about something else—”
+“Second, you aren’t planning something else, are you—”
 
 He could not finish.
 
@@ -134,7 +134,7 @@ Jin Wikyung had stopped and was looking back at them in puzzlement.
 
 “Young Hero Baek, is something the matter?”
 
-“Oh, no. My junior disciple said he had an urgent matter.”
+“Oh, no. My junior disciple has an urgent matter to attend to.”
 
 “What sort of matter?”
 
@@ -154,9 +154,9 @@ Baek Museong considered it for a moment, then nodded. The important conversation
 
 “Big Bro—no, Senior Brother. Can I go too?”
 
-“Yes. Do you dislike it?”
+“Of course. Or would you rather not?”
 
-“Yes. I just want to stay beside Senior Brother.”
+“I’d rather not. I’m staying with you.”
 
 Eunhyang nodded vigorously, and Jin Wikyung smiled.
 
@@ -180,21 +180,21 @@ As Chulwoo watched the group recede into the distance, a martial artist from the
 
 “We’re surrounded by mountains. I can just take a dump by the side of the road. Don’t you agree?”
 
-The people surrounding them burst into loud laughter.
+The people around them burst into laughter.
 
-There was a common prejudice that members of the Nine Sects and One Gang would be arrogant and rude. But Chulwoo’s refreshing banter made everyone feel as if a weight had been lifted from their chests.
+There was a common prejudice that anyone from the Nine Sects and One Gang would be arrogant and rude, but Chulwoo’s blunt, easygoing humor instantly won them over.
 
 “Of course. That’s right.”
 
-“Though this is the frontier, the mountain scenery around here is beautiful. Go take care of your business while enjoying the view!”
+“We may be out in the provinces, but the mountains around here are beautiful. Go enjoy the scenery while you take care of your business!”
 
 “Hey, Defeated Flower Fist! Since fate brought us together, would you like me to recommend a scenic spot?”
 
-Chulwoo threw back his head and roared with laughter.
+Chulwoo roared with laughter.
 
-“Ha-ha-ha! A scenic spot? Sounds good. But I don’t want to go to the place where you took a dump. Let’s see…”
+“Ha-ha-ha! A scenic spot? Sounds good. But I don’t want to use the same place you did. Instead, let’s see…”
 
-Chulwoo casually swept his gaze over the crowd, then raised a finger and pointed at one man.
+He swept his gaze over the crowd, then raised a finger and singled out one man.
 
 “How about that Brother over there guides me?”
 
@@ -208,11 +208,11 @@ The middle-aged man was Woo Hwangtae, and his face turned the color of shit.
 
 * * *
 
-“Slow down a little. Let’s take it easy from here.”
+“Slow down. Let’s take it easy from here.”
 
 “Why?”
 
-“Can’t you see the horse is foaming at the mouth? And if we arrive panting and out of breath, everyone will look at us and think, *Ah, that bastard was late.*”
+“Can’t you see the horse foaming at the mouth? Besides, if we come tearing in like that, everyone will take one look at us and think, *Ah, that bastard’s late.*”
 
 “That makes a strange amount of sense.”
 
@@ -222,15 +222,13 @@ We gradually eased up on the reins. As we descended the hill, the Jin Family of 
 
 “Seriously. From what I heard, they weren’t supposed to invite anywhere near that many.”
 
-Even a rough count put the crowd camped out before the main gate of the Jin Family of Taiyuan well over several hundred.
+Even at a rough estimate, well over several hundred people were gathered in front of the Jin Family of Taiyuan’s main gate.
 
-Though we were still quite far away, we could even hear faint cheers.
+Though we were still some distance away, we could hear faint cheers.
 
 *Did an idol show up or something?*
 
 I drew on my internal energy and focused on my ears. My hearing, now several times sharper than usual, picked up every cheer from the crowd.
-
-Hyuk Mujin, who had been quietly watching me, asked,
 
 Hyuk Mujin quietly watched me for a moment before asking, “What’s going on? Did they say an important guest arrived?”
 
@@ -274,7 +272,7 @@ While I merely nodded without much interest, Hyuk Mujin was so shocked that he n
 
 I casually pointed behind me. Cheongpung was staring wide-eyed and clapping.
 
-“Wow, those are cool epithets. But where did they say they were from?”
+“Wow, those are cool epithets. Where did you say they were from?”
 
 “…”
 
@@ -296,11 +294,11 @@ After a long silence, Hyuk Mujin finally spoke.
 
 Style was temporary, but class was forever.
 
-*It wasn’t even “I like Dad, but I like Mom more.” What the hell was this?*
+*This wasn’t “I like Dad, but I like Mom even more.” What the hell?*
 
 Was Huashan filed away in his head as Dad and plum blossoms as Mom?
 
-As Hyuk Mujin thought it over, his expression suddenly fell.
+While I contemplated the structure of Cheongpung’s brain, Hyuk Mujin finally regained his composure and summed it up.
 
 “Anyway, they’re insanely famous.”
 
@@ -326,7 +324,7 @@ I turned toward Cheongpung.
 
 “May I ask your grandfather’s full name?”
 
-“His surname is Mae, and his given name uses the characters Jong and Hak. Mae Jonghak.”
+“His surname is Mae, and his given name is Jonghak. Mae Jonghak.”
 
 “And his epithet?”
 
@@ -336,23 +334,23 @@ I turned toward Cheongpung.
 
 “Yes.”
 
-Hyuk Mujin nodded with a blank expression, then came to his senses. His eagerness to make us understand how extraordinary Huashan’s Lone Crane and the Three Plum Blossom Elites were was almost palpable.
+Hyuk Mujin nodded blankly, then snapped out of it. He seemed determined to make us understand just how extraordinary Huashan’s Lone Crane and the Three Plum Blossom Elites were.
 
-“Great Hero Mae Jonghak, the Sword Saint, doesn’t count. Honestly, that would be like an adult joining a children’s fight.”
+“Great Hero Mae Jonghak, the Sword Saint, doesn’t count. Honestly, that would be like an adult barging into a children’s fight.”
 
-“So what’s your conclusion?”
+“So what’s your point?”
 
 “Huashan’s Lone Crane is already a master who has surpassed the level of a young prodigy. At this rate, becoming the next Sect Leader won’t be a problem. The other two members of the Three Plum Blossom Elites are objects of admiration among young martial artists too.”
 
-They really were impressive. From the way he talked about young prodigies, they still seemed to be quite young, yet the public considered them at least world-class.
+They really were impressive. From the way he talked about young prodigies, they still seemed fairly young, yet the public already considered them world-class.
 
 “Then why am I not particularly impressed?”
 
 “That… I’m not sure.”
 
-Hyuk Mujin thought about it carefully, then his expression suddenly went flat.
+Hyuk Mujin thought for a moment, then his expression suddenly fell.
 
-“Now that I think about it, I’m not exactly bursting with excitement either.”
+“Come to think of it, I’m not exactly thrilled either.”
 
 “Really?”
 
@@ -370,9 +368,9 @@ Cheongpung abruptly cut in.
 
 The second part was complete bullshit, but the first part was right.
 
-If the Sword Saint, Mae Jonghak, was something above the clouds that I could not even properly picture in my mind, the Fire King, Jeok Cheongang, was a monster that had revealed itself in the flesh.
+If the Sword Saint, Mae Jonghak, was some unfathomable existence above the clouds, the Fire King, Jeok Cheongang, was a monster who had revealed himself in the flesh.
 
-After experiencing a monster larger than a hundred-story building, it was only natural that a monster the size of a four-story commercial building would make less of an impression.
+After encountering a monster larger than a hundred-story building, it was only natural that a monster the size of a four-story commercial building would make less of an impression.
 
 “And…”
 
@@ -410,11 +408,11 @@ I was wrestling with the urge to split open the crown of Cheongpung’s head whe
 
 “H-Hey, Young Hero Chul!”
 
-“Hah, listen to this old coot calling me Young Hero Chul. Didn’t you call me a cow’s head earlier?”
+“Hah, listen to this old coot calling me Young Hero Chul. Weren’t you calling me an ox-head earlier?”
 
 “N-No, Great Hero Chul! I committed a grave discourtesy, *-so*!”[^1]
 
-“Committed-*so*? *-so*? Cow? You just called me a cow again, didn’t you?”[^1]
+“What was that? *-So*? *So*? Cow? Did you just call me a cow again?”
 
 “Eeeeeek! Isn’t that taking it too far? Do you even know how old I am?”
 
