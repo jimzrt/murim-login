@@ -236,7 +236,7 @@ I swung the spear shaft. If the illusion had been real, it would have made a sol
 
 *Let’s see how far you can dodge.*
 
-I launched into the form. Faced with the torrent of attacks, Hyuk Mujin didn’t even dare to approach. He retreated step after step.
+I launched into the second form. Faced with the torrent of attacks, Hyuk Mujin didn’t even dare to approach. He retreated step after step.
 
 Combat had a flow. I had caught that flow, and Hyuk Mujin had been swept along by it. Looking at Hyuk Mujin rolling across the ground with an exhausted expression, I thought,
 

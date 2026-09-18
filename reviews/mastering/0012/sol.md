@@ -6,7 +6,7 @@ Was it about ten years ago? Back when I was in high school, several dozen ordina
 
 A Gate was the kind of place where even Hunters could end up dead the moment they let their guard down, yet they were sending ordinary people inside? It really was the Miracle Continent.
 
-On the day of the expedition ceremony when this insane stunt took place, their identities were revealed during an interview with the overseas press.
+On the day of this insane expedition, their identities were revealed in an interview with the foreign press.
 
 The Chinese Martial Arts Alliance.
 
@@ -40,7 +40,7 @@ Ssshh. Hooouu.
 
 As I breathed, I sensed the energy outside my body and drew it in.
 
-Compared to the ten years of internal energy rotating through my acupoints, it was nothing but a speck of dust—small and weak. But I was in no position to complain about even that.
+Compared to the ten years of internal energy circulating through my acupoints, it was no more than a speck of dust—small and weak. But I was in no position to turn down even that much.
 
 *One circuit. Two…*
 
@@ -100,15 +100,15 @@ The Clear-Heart Pill. It looked different from the one I knew, but its effects w
 
 I couldn’t shake the uneasy feeling. I could chalk Logout up to some technical wizardry by engineers whose work I couldn’t begin to understand. But the martial arts formulas and this ring—the Clear-Heart Pill—made me uncomfortable in a way I couldn’t quite explain.
 
-*Was I supposed to call it the feeling of something being forcibly injected into me?*
+*Maybe it’s because they feel like they’re being forcibly injected into me.*
 
 They might help me survive, but that didn’t make it a pleasant experience. This game was a piece of shit in more ways than one.
 
 “What the hell is Seong Jinho doing? Some goshiwon manager[^1] he is.”
 
-If he’d gotten up, he should have woken me so we could at least have a bowl of hangover soup. And yet, the fact that nothing had changed even now meant…
+If he was awake, he should have woken me up so we could at least go out for a bowl of hangover soup. But the fact that nothing had changed even now meant…
 
-*No. That’s not it.*
+*No. Don’t think like that.*
 
 At the very least, I was still alive in the real world. That was why I could still exist in this game as a player.
 
@@ -180,7 +180,7 @@ After a brief hesitation, I decided to test the new function.
 
 The System notification had barely appeared when a transparent figure sprang into existence. He wore the navy martial uniform of the Jin Family of Taiyuan and had Hyuk Mujin’s distinctive caterpillar eyebrows. Standing there with his eyes closed, the figure looked exactly like him.
 
-“Holy shit, it’s real.”
+“Holy shit. It’s really him.”
 
 I cautiously approached and touched Hyuk Mujin’s body. Perhaps because he was an illusion, my hand passed straight through him.
 
@@ -220,7 +220,7 @@ But Hyuk Mujin slipped away like a loach. The next movement immediately became p
 
 I continued unleashing the Spear Technique. The wind screamed as it was torn apart, but Hyuk Mujin dodged every attack.
 
-For an instant, it seemed a sneer crossed his opaque face.
+For an instant, I could almost see a sneer cross his translucent face.
 
 *How can you fight so stupidly? A martial artist ought to use martial arts.*
 
@@ -230,15 +230,15 @@ Those were the words he had thrown at me while toying with me last time. He was 
 
 *If you’re so confident, stop dodging and come at me.*
 
-Hyuk Mujin picked up on my thought and rushed at me in a smooth glide. But this was a fight between a spear and a fist. If I let him land that attack, it would mean I had spent the last seven years digging holes for nothing.
+As if he had picked up on my thoughts, Hyuk Mujin glided toward me. But this was a fight between a spear and a fist. If I let him land that attack, I might as well have wasted the past seven years.
 
-“Where do you think you’re going!”
+“Not a chance!”
 
 Whoom—
 
 I swung the spear shaft. If he had been real rather than an illusion, it would have landed with a solid *thwack*. Even if he dodged it, he would fail to close the distance.
 
-*Let’s see how far you can dodge.*
+*Let’s see how long you can keep dodging.*
 
 I launched into the second form. Faced with the torrent of attacks, Hyuk Mujin didn’t dare approach and retreated step by step.
 
@@ -270,9 +270,9 @@ I had held the advantage the entire time, and then it had ended anticlimacticall
 
 *Was half strength too weak?*
 
-I fell into thought while recovering the internal energy I had depleted by circulating qi.
+I sank into thought as I circulated qi to recover the internal energy I had used.
 
-Hyuk Mujin was Level 20 and a martial artist who had trained in martial arts for at least several years. There was no way he could be this weak.
+Hyuk Mujin was Level 20 and had trained in martial arts for at least several years. There was no way he could be this weak.
 
 *All right. Again.*
 
@@ -286,7 +286,7 @@ But I wasn’t finished yet. Hyuk Mujin needed to be stronger.
 
 *Your physical abilities are better than mine.*
 
-After I fed in a few more conditions, Hyuk Mujin’s illusion smiled pleasantly. He had become much faster and gained stamina that would never run out.
+After I added a few more conditions, Hyuk Mujin’s illusion smiled in satisfaction. He had become much faster and gained stamina that would never run out.
 
 “Yeah. Now you’re worth fighting.”
 
@@ -320,13 +320,13 @@ Had the System made a mistake, or…
 
 *Did I just get stronger?*
 
-I brushed the thought away as soon as it came to me. That couldn’t be it. I wasn’t some peerless genius. I had only learned a couple of martial arts.
+I dismissed the thought as soon as it occurred to me. That couldn’t be it. It wasn’t like I was some once-in-a-generation genius. I had only learned a couple of martial arts.
 
 *This isn’t going to be much use at this rate.*
 
 The whole point was to simulate what would happen if I fought someone strong. What good was it if I kept winning?
 
-If I at least knew which martial arts Hyuk Mujin had learned, I could draw out their power. But wait.
+If I at least knew what martial arts Hyuk Mujin had learned, I could reproduce their full power. But wait.
 
 “There’s an easier way.”
 
