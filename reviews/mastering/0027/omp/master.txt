@@ -4,7 +4,7 @@
 
 The reconnaissance squad collapsed with a collective hiss, like the air going out of them.
 
-They looked exhausted, but I wasn’t particularly worried about those guys. As I’d observed, they had solid basic stamina, and during the battle they had done nothing but stand around and watch.
+They looked exhausted, but I wasn’t particularly worried about those guys. From what I’d seen, they had solid basic stamina. Besides, they’d spent the entire battle standing around and watching.
 
 The other two were the problem…
 
@@ -24,7 +24,7 @@ Earlier, I had offered to carry both him and his sister. He had flatly refused.
 
 *Doesn’t look like it.*
 
-“I’m saying this for everyone’s sake. Don’t answer so quickly.”
+“I’m saying this for everyone’s sake. Don’t answer without thinking.”
 
 “Understood.”
 
@@ -42,11 +42,11 @@ His voice sounded ready to give out at any moment. His condition was worse than 
 
 “I don’t know.”
 
-His answer was honest—and serious.
+An honest—and grim—answer.
 
 “What about the fasting pills?”
 
-I had given him several of the fasting pills I had left. But Gong Yacheong shook his head.
+I had given him several of the ones I had left, but Gong Yacheong shook his head.
 
 “They weren’t much help. Some quack must have made them. All they did was ruin my appetite. Hahaha.”
 
@@ -58,13 +58,13 @@ I had given him several of the fasting pills I had left. But Gong Yacheong shook
 
 “What a shame… Cough!”
 
-A sudden cough.
+A sudden coughing fit seized him.
 
-Drops of blood fell onto the white snow.
+Drops of blood splattered across the white snow.
 
 *Damn it.*
 
-Worried that someone might see, I hurriedly stepped in front of Gong Yacheong.
+Afraid someone might see, I hurriedly stepped in front of Gong Yacheong.
 
 “What’s going on? You weren’t this bad before.”
 
@@ -72,25 +72,25 @@ His condition had deteriorated rapidly in half a day. Gong Yacheong no longer lo
 
 “It was inevitable.”
 
-The calm look in his eyes made it even more ominous. I brushed aside the hand trying to stop me and pulled up the front of his robe.
+The calm look in his eyes only made it more ominous. I brushed aside the hand trying to stop me and pulled open the front of his robe.
 
 “Ah.”
 
-His body was covered in all kinds of wounds. But what shocked me were the blue veins spreading outward from his lower abdomen.
+His body was covered in wounds, but what shocked me were the blue veins spreading from his lower abdomen.
 
 “What is this…? Don’t tell me…”
 
-Gong Yacheong weakly fastened his robe again. He seemed worried that someone else—especially Socheon and Soyul—might see.
+Gong Yacheong weakly closed his robe again. He seemed worried that someone else—especially Socheon or Soyul—might see.
 
-“Those wolf-like bastards coated their weapons with poison.”
+“Those wolves coated their weapons with poison.”
 
-Now I understood why Gong Yacheong hadn’t recovered even after taking the fasting pills. They could only stave off hunger and restore stamina. They had no detoxifying effect whatsoever.
+Now I understood why Gong Yacheong hadn’t recovered after taking the fasting pills. They could stave off hunger and restore his strength, but they had no detoxifying effect.
 
 “You should’ve told me sooner!”
 
 “Those bastards must have been short on money. They used cheap poison. It was so weak that I didn’t notice until last night. By then, it was too late.”
 
-Gong Yacheong’s stamina had already been at rock bottom when he was poisoned. Then he had continued forcing himself through this weather…
+Gong Yacheong’s stamina had already been depleted when he was poisoned. Then he had continued to force himself through this weather…
 
 “Is there anything we can do?”
 
@@ -98,7 +98,7 @@ Gong Yacheong’s stamina had already been at rock bottom when he was poisoned. 
 
 “Tell me.”
 
-“But time won’t allow it. I can’t waste such precious time on one person.”
+“But we don’t have the time. We can’t waste such precious time on one man.”
 
 He was right.
 
@@ -112,7 +112,7 @@ But still…
 
 “Hahaha.”
 
-“Please don’t laugh. I was planning to stop and rest around here anyway…”
+“Don’t laugh. I was planning to stop and rest around here anyway…”
 
 I didn’t even know what I was saying anymore. As Gong Yacheong watched me ramble, a faint smile touched his lips.
 
@@ -120,11 +120,11 @@ I didn’t even know what I was saying anymore. As Gong Yacheong watched me ramb
 
 “…”
 
-“You know it too, don’t you? If we waste time here, we’ll be held back.”
+“You know it too, don’t you? If we delay here, they’ll catch us.”
 
 I fell silent.
 
-He was right. I had been considering this possibility since I saw his precarious complexion and the blood he coughed up. Perhaps I had been thinking about it since last night.
+He was right. From the moment I’d seen his precarious complexion and the blood he coughed up—perhaps even since last night—I had known this might happen.
 
 *So this is how it ends?*
 
@@ -138,7 +138,7 @@ Even with the System’s help, I was still human. I had spent two days at the he
 
 The thirty or so fasting pills I’d started with were almost gone. Could I escape their clutches while carrying Gong Yacheong with only two pills left?
 
-And if we still ended up running into them, would I be able to fight them while exhausted? Would I be able to face Jopil, One Question, One Kill, a Peak master?
+And even if I did, what if they eventually caught us anyway? Could I fight them while exhausted? Could I face Jopil, One Question, One Kill—a Peak master?
 
 The answer had been clear for a long time.
 
@@ -176,7 +176,7 @@ It was the most shameless Quest I had ever received.
 
 But I nodded. If accepting it could ease the nagging discomfort in the corner of my heart, I would gladly do it.
 
-“Let’s do that.”
+“All right.”
 
 Gong Yacheong smiled in satisfaction.
 
@@ -184,7 +184,7 @@ Gong Yacheong smiled in satisfaction.
 
 “You’re saying we’re leaving Great Hero Gong behind?”
 
-Han Yeop muttered with a shocked expression. Hyuk Mujin said nothing, as though he was lost in thought, while the other reconnaissance squad members were busy watching one another’s faces.
+Han Yeop stared at me in shock. Hyuk Mujin said nothing, his thoughts unreadable, while the other reconnaissance squad members busied themselves watching one another.
 
 “Yes.”
 
@@ -220,9 +220,9 @@ Han Yeop cut in, his face flushed.
 
 “Then I’ll disobey.”
 
-Everyone stared at Han Yeop in surprise.
+Everyone turned to stare at Han Yeop.
 
-I hadn’t expected the boy who had declared himself my ardent follower from the very first time we met to use the word *disobey*, either.
+Even I hadn’t expected the boy who had declared himself my devoted follower the moment we met to openly defy me.
 
 “That won’t change anything.”
 
@@ -232,13 +232,13 @@ I hadn’t expected the boy who had declared himself my ardent follower from the
 
 A wave of exhaustion suddenly washed over me. I rubbed my gritty eyes.
 
-“Will you carry him?”
+“If we can’t leave him, are you going to carry him?”
 
 “Yes. I’ll carry him.”
 
-“And you’ll get tired soon.”
+“And you’ll be exhausted in no time.”
 
-If Han Yeop got tired, someone else would step forward to help him. Then they would grow tired one by one, our pace would slow, and the enemy would catch up.
+Once Han Yeop tired, someone else would step in to help. One by one, they would wear themselves out. Our pace would slow, and the enemy would catch us.
 
 “We’re up against battle-hardened wandering martial artists led by a Peak master. Do you think we’ll survive?”
 
@@ -256,7 +256,7 @@ After a long silence, Hyuk Mujin bowed his head.
 
 We began moving again.
 
-Just before we left, Gong Yacheong gently stroked Socheon and Soyul’s heads with a peaceful expression.
+Just before we left, Gong Yacheong calmly stroked Socheon’s and Soyul’s heads.
 
 “I’ll see you soon.”
 
@@ -276,7 +276,7 @@ A sikyeong? Half a shichen?
 
 I didn’t know. In the dead of night, with darkness swallowing everything around us, I couldn’t even feel the passage of time.
 
-With every step I took, one thought refused to leave my mind.
+With every step, the same thought ran through my mind.
 
 *He must have left by now.*
 
@@ -286,7 +286,7 @@ Most importantly…
 
 I had a family waiting for me. I had a real world out there that I still had to face.
 
-*Then why does this feel so damn awful?*
+*Then why does this feel so fucking awful?*
 
 My feet felt heavy.
 
@@ -322,7 +322,7 @@ I turned around.
 
 “Where are you going?”
 
-I strode back the way we had come. I couldn’t see Socheon’s face or the faces of the reconnaissance squad members.
+I strode back the way we had come. I didn’t even look at Socheon or the other reconnaissance squad members.
 
 That was why I didn’t notice the fleeting smile on Hyuk Mujin’s face as he asked where I was going.
 
@@ -346,7 +346,7 @@ I didn’t know what to say. With a sigh, I grabbed Han Yeop’s hand and pulled
 
 *Shit…*
 
-*I don’t know anymore, either.*
+*I don’t know anymore.*
 
 * * *
 
@@ -362,7 +362,7 @@ The air trembled faintly as the two shadows conversed through Sound Transmission
 
 “Do you even need to ask?”
 
-“I wouldn’t expect otherwise.”
+“I suppose not.”
 
 “The Blood Wolf Sword. For someone with that epithet, he’s surprisingly fond of his family.”
 
@@ -380,11 +380,11 @@ The air trembled faintly as the two shadows conversed through Sound Transmission
 
 “That’s right. I sent him. Once the Lesser Family Head sees the head of his beloved youngest brother, he’ll change his mind.”
 
-“Whew. A heart as cold as poison, without blood or tears. Impressive.”
+“Whew. A heart as venomous as yours truly has neither blood nor tears. Impressive.”
 
 “Is that something you should be saying?”
 
-“I only took one hopeless life.”
+“I merely took one doomed life.”
 
 “And thanks to that, a bloody storm will sweep through Shanxi Province?”
 
@@ -420,7 +420,7 @@ But the listener could feel the cold, razor-sharp blade beneath it.
 
 “Let me apologize once more.”
 
-“Let’s end things here for today. If a problem arises, I’ll come see you again soon.”
+“Let’s end here for today. If any problems arise, I’ll visit you again in a few days.”
 
 The conversation ended there.
 
@@ -428,13 +428,13 @@ The other person vanished without a sound or trace.
 
 *They’re like ghosts.*
 
-Sometimes, he wondered what their true identities were. How strong were they? Who were their members?
+Sometimes he wondered what they truly were. How powerful were they? Who were their members?
 
-But he soon shook his head.
+But he quickly shook his head.
 
 *Such curiosity would only shorten my life.*
 
-He had endured years of hardship to reap the fruit. He couldn’t let mere curiosity ruin his plans.
+He had endured long years of hardship to reap the fruit. He couldn’t allow idle curiosity to ruin everything.
 
 *It truly has been a long time.*
 
@@ -442,6 +442,6 @@ The shadow reached toward the moon. Faint moonlight slipped between his fingers,
 
 *Soon… everything will return to its rightful place.*
 
-The Head Elder smiled with delight.
+The Head Elder smiled with satisfaction.
 
 [^1]: A shichen is a traditional Chinese unit of time equal to roughly two hours. A sikyeong is the time it takes to eat a meal, roughly thirty minutes.

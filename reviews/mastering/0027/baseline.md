@@ -234,7 +234,7 @@ I hadn’t expected the boy who had declared himself my ardent follower from the
 
 Fatigue suddenly swept over me. I rubbed at the corners of my stiff eyes.
 
-“I’ll carry him.”
+“Will you carry him?”
 
 “Yes. I’ll carry him.”
 
@@ -252,7 +252,7 @@ Only one person continued to meet my eyes.
 
 Hyuk Mujin had been silent for a long time. He finally bowed his head.
 
-“I’ll follow your orders, Squad Leader.”
+“I’ll follow your orders, Captain.”
 
 * * *
 
@@ -264,7 +264,7 @@ Just before we left, Gong Yacheong gently stroked Socheon and Soyul’s heads wi
 
 Socheon nodded bravely. Soyul, still half-asleep, whimpered and nestled into my arms.
 
-Every time I heard her shallow, wheezing breaths, a pang of unease tightened in my chest.
+Every time I heard her soft breathing, a pang of unease tightened in my chest.
 
 *Has he left by now?*
 
