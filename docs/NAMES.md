@@ -1193,3 +1193,13 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 기환노사 | **Master of Strange Illusions** | Ancient formation master who installed the hidden formation. |
 | 동봉 | **Dong Feng** | Personal name of the Divine Physician and Mungyeong's Master. |
 | 동 노인 | **Old Man Dong** | Address form requested by Dong Feng. |
+| 오행 | **Five Elements** | Five elemental energies whose balance governs the body. |
+| 음양 | **Yin and Yang** | Paired energies whose harmony has been disrupted in Jeok Cheongang. |
+| 음한지기 | **Yin-Cold Qi** | Cold-aligned energy required in the treatment elixir. |
+| 영약 찾아 삼만리 | **Thirty Thousand Li in Search of an Elixir** | Nonrefusable Chain Quest for the required elixir. |
+| 심마니 | **Mountain Herb Gatherer** | Achievement earned after obtaining the Thousand-Year Snow Ginseng. |
+| 한빙지 | **Cold-Ice Land** | Exceptionally cold valley within the Mystic Gate Formation. |
+| 초상비 | **Flying Over Grass** | Movement feat performed by Dong Feng without touching the ground. |
+| 답설무흔 | **Treading Snow Without a Trace** | Comparable movement feat that leaves no footprints on snow. |
+| 등평도수 | **Rising on Duckweed, Crossing Water** | Comparable movement feat for walking across water. |
+| 한빙지 약초 노예 | **Herb Slave of Cold-Ice Land** | Nonrefusable Chain Quest requiring the collection of medicinal herbs. |

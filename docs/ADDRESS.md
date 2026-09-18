@@ -499,3 +499,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 청풍 | 동봉 | newly_met_young_martial_artist_to_older_friend | Old Man Dong | casual and cheerful | Accepts Dong Feng's invitation to regard him as an older friend. |
 | 문경 | 동봉 | disciple_to_master | Master | deferential and apologetic | Reveals Dong Feng's identity and apologizes for bringing the party without permission. |
 | 동봉 | 진태경 | physician_to_visiting_young_martial_artist | Young Master Jin | formal-polite and gentle | Uses 진 공자 while welcoming and speaking with Taekyung. |
+| 동봉 | 문경 | master_to_disciple | Gyeong | familiar-commanding | Dong Feng tells Mungyeong to remain at the clinic and care for the patients. |

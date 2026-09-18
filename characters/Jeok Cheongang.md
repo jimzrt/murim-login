@@ -1,6 +1,6 @@
 # Jeok Cheongang (적천강)
 
-- **Safe through:** Chapter 341
+- **Safe through:** Chapter 342
 - **Aliases:** Fire King; eighteenth Sect Leader of the Fire Gate Clan
 - **Role:** A legendary wandering martial master and Jin Taekyung's Master and intended heir, Jeok Cheongang remains unconscious and critically ill while Dong Feng begins treating his blocked qi acupoints.
 - **Personality:** Secretive, cryptic, sharp-eyed, gruff, dryly teasing, and casually threatening or violent when dissatisfied. His meeting with Taekyung rekindled his will to live, making him determined to extend his life despite his illness.
