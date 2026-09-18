@@ -1,0 +1,206 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“You have nothing to do with our family... What?”",
+      "defect": "The subject is reversed. Tang Sadok is saying that Cheongpung has no connection to the Tang Clan, not that the Western Heaven Demon Lord has no connection to it.",
+      "id": "F01",
+      "rationale": "The omitted subject refers to 저 아이 in Tang Sadok’s preceding line. The current version changes who lacks a relationship with the Tang Clan.",
+      "replacement": "“He has nothing to do with our family… What?”",
+      "severity": "critical",
+      "source": "“본가와는 아무런 연관도 없는…… 뭐?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I mean the Fire King and the young man named Jin Taekyung, who are also being treated at the Tang Clan.”",
+      "defect": "The relative clause incorrectly says that both the Fire King and Jin Taekyung are receiving treatment. The source modifies the Fire King alone. “I mean” also incorrectly recasts the previous reference to Cheongpung rather than adding two more people.",
+      "id": "F02",
+      "rationale": "역시 adds the Fire King and Jin Taekyung to Cheongpung, while 치료 중인 directly describes 화왕. Jin Taekyung is not identified here as a patient.",
+      "replacement": "“The same goes for the Fire King being treated at the Tang Clan and the young man named Jin Taekyung.”",
+      "severity": "critical",
+      "source": "“지금 당문에서 치료 중인 화왕과 진태경이라는 청년 역시 말일세.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "It did not take long for the victor to be decided.",
+      "defect": "The draft overstates the result as a decided victory, although the fight continues. The source says only that the difference in superiority quickly became clear.",
+      "id": "F03",
+      "rationale": "우열이 갈리다 establishes which side has the upper hand; it does not mean that the final victor has already been decided.",
+      "replacement": "It did not take long for it to become clear who held the advantage.",
+      "severity": "major",
+      "source": "그리고 우열이 갈리는 데까지는 그리 오랜 시간이 필요하지 않았다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“You mean the Sword Saint’s descendant? What a thoughtful assignment...”",
+      "defect": "후인 denotes a martial successor, not a biological descendant. The second sentence also loses First Fiend’s delighted gratitude for being given the target and replaces it with an observation that the assignment is thoughtful.",
+      "id": "F04",
+      "rationale": "The line identifies Cheongpung through the Sword Saint’s martial lineage, while 이렇게 감사할 데가 expresses First Fiend’s gratitude and bloodthirsty pleasure.",
+      "replacement": "“You mean the Sword Saint’s successor? I couldn’t be more grateful….”",
+      "severity": "major",
+      "source": "“검성의 후인이라는 그놈입니까요? 이렇게 감사할 데가…….”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "*To reach this level at that age... The Sword Saint raised a monster.*",
+      "defect": "The established martial-power term 경지 is rendered generically as “level” rather than the binding term “realm.”",
+      "id": "F05",
+      "rationale": "경지 refers specifically to Cheongpung’s attained martial realm, and the replacement also restores the required ellipsis character.",
+      "replacement": "*To have reached this realm at that age… The Sword Saint raised a monster.*",
+      "severity": "minor",
+      "source": "‘저 나이에 이 정도 경지라, 검성이 괴물을 키웠군.’"
+    },
+    {
+      "confidence": 1.0,
+      "current": "His serpentine evil sword collided with Cheongpung’s sword, engraved with plum-blossom patterns.",
+      "defect": "“Evil sword” mistranslates 사검(蛇劍), whose supplied characters explicitly mean a snake-shaped sword.",
+      "id": "F06",
+      "rationale": "蛇劍 describes the weapon’s serpentine form; it does not characterize the sword as evil.",
+      "replacement": "The Western Heaven Demon Lord’s sinuous, snake-shaped sword collided with Cheongpung’s sword, which was engraved with plum-blossom patterns.",
+      "severity": "minor",
+      "source": "뱀처럼 구불구불한 형태의 사검(蛇劍)과 매화 문양이 새겨진 청풍의 검이 부딪쳤다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "He had already claimed nearly a hundred lives, including those of Tang Jinhu, the Tang Clan’s Head Elder.",
+      "defect": "The exact organization name 사천당문 is reduced to “Tang Clan” despite the binding rendering “Sichuan Tang Clan.”",
+      "id": "F07",
+      "rationale": "The source uses the full name 사천당문 here, and “including Tang Jinhu” is also more natural than “including those of Tang Jinhu.”",
+      "replacement": "He had already claimed nearly a hundred lives, including Tang Jinhu, the Sichuan Tang Clan’s Head Elder.",
+      "severity": "minor",
+      "source": "이미 사천당문의 대장로인 당진후를 포함해서 일백에 가까운 목숨을 거둔 후였지만,"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Heh-heh. How dare you block the path of your betters?”",
+      "defect": "The draft changes First Fiend’s singular, self-aggrandizing reference to himself into a plural claim about Cheongpung’s social superiors.",
+      "id": "F08",
+      "rationale": "누구의 앞을 막아서느냐 rhetorically asks whether Cheongpung knows whose way he is obstructing, preserving First Fiend’s arrogant focus on himself.",
+      "replacement": "“Heh-heh. Do you have any idea whose path you’re blocking?”",
+      "severity": "minor",
+      "source": "“클클, 감히 누구의 앞을 막아서느냐!”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "[^1]: In Korean, the final word in “Tang Clan’s Ten Wonders” and “Tang Clan’s Three Skills” is pronounced the same, allowing the Western Heaven Demon Lord to mock both their reduced number and their title.",
+      "defect": "The footnote attributes the wordplay to the Western Heaven Demon Lord, but the pun occurs in narration rather than in his speech.",
+      "id": "F09",
+      "rationale": "The linguistic explanation is useful, but the source does not depict the Western Heaven Demon Lord personally making this joke.",
+      "replacement": "[^1]: In Korean, the final words in “Tang Clan’s Ten Wonders” and “Tang Clan’s Three Skills” are homophones, preserving the wordplay as their number dwindles.",
+      "severity": "minor",
+      "source": "당사독과 당문십기, 아니 이제는 당문삼기라고 불러야 할 세 사람까지."
+    },
+    {
+      "confidence": 1.0,
+      "current": "*...He dodged it? Eighty percent of the Ghost Prison Finger?*",
+      "defect": "The draft uses three periods instead of the required ellipsis character.",
+      "id": "F10",
+      "rationale": "The binding Markdown rules require the single ellipsis character.",
+      "replacement": "*…He dodged it? Eighty percent of the Ghost Prison Finger?*",
+      "severity": "minor",
+      "source": "‘……피했다고? 팔 성의 귀옥지(鬼獄指)를?’"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“...?”",
+      "defect": "The draft uses three periods instead of the required ellipsis character.",
+      "id": "F11",
+      "rationale": "The binding Markdown rules require the single ellipsis character.",
+      "replacement": "“…?”",
+      "severity": "minor",
+      "source": "“……?”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“There’s no place for a greenhorn like you to interfere... Cough!”",
+      "defect": "The draft uses three periods instead of the required ellipsis character.",
+      "id": "F12",
+      "rationale": "The binding Markdown rules require the single ellipsis character.",
+      "replacement": "“There’s no place for a greenhorn like you to interfere… Cough!”",
+      "severity": "minor",
+      "source": "“너 같은 핏덩이가 끼어들 자리가…… 쿨럭!”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“You’re the disciple Sword Saint Mae Jonghak took in during his later years. Your name is... Cheongpung, was it?”",
+      "defect": "The draft uses three periods instead of the required ellipsis character.",
+      "id": "F13",
+      "rationale": "The binding Markdown rules require the single ellipsis character; “Disciple” also matches the established title rendering.",
+      "replacement": "“You’re the Disciple Sword Saint Mae Jonghak took in during his later years. Your name is… Cheongpung, was it?”",
+      "severity": "minor",
+      "source": "“자네가 검성 매종학이 늘그막에 거뒀다는 제자로군. 아마 이름이…… 청풍이던가?”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Wow! You know Dark Fragrance Drift! But how do you know my name...?”",
+      "defect": "The draft uses three periods instead of the required ellipsis character.",
+      "id": "F14",
+      "rationale": "The binding Markdown rules require the single ellipsis character.",
+      "replacement": "“Wow! You know Dark Fragrance Drift! But how do you know my name…?”",
+      "severity": "minor",
+      "source": "“와! 암향표 아시는구나! 그런데 제 이름은 어떻게…….”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“...What are you talking about?”",
+      "defect": "The draft uses three periods instead of the required ellipsis character.",
+      "id": "F15",
+      "rationale": "The binding Markdown rules require the single ellipsis character.",
+      "replacement": "“…What are you talking about?”",
+      "severity": "minor",
+      "source": "“……지금 무슨 말을 하는 것이냐.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Unfortunately, he is far away. But he would be very happy to see you. Ah, of course...”",
+      "defect": "The draft uses three periods instead of the required ellipsis character.",
+      "id": "F16",
+      "rationale": "The binding Markdown rules require the single ellipsis character.",
+      "replacement": "“Unfortunately, he is far away. But he would be very happy to see you. Ah, of course….”",
+      "severity": "minor",
+      "source": "“안타깝게도 멀리 떨어진 곳에 있지. 하지만 자네를 보면 퍽 반가워할 거야. 아, 물론…….”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“...!”",
+      "defect": "The draft uses three periods instead of the required ellipsis character.",
+      "id": "F17",
+      "rationale": "The binding Markdown rules require the single ellipsis character.",
+      "replacement": "“…!”",
+      "severity": "minor",
+      "source": "“……!”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "Tang Sadok and the three remaining members of the Tang Clan’s Ten Wonders—or rather, the three men who should now be called the Tang Clan’s Three Skills[^1]—shot toward a single target like arrows, as if they had planned it together.",
+      "defect": "The correction itself is faithful, but the draft adds “remaining members” and “men,” neither of which appears in this sentence and the latter needlessly specifies gender.",
+      "id": "F18",
+      "rationale": "The source identifies Tang Sadok, the Ten Wonders, and then corrects the surviving group’s title to the Three Skills without adding “remaining members” or explicitly calling them men.",
+      "replacement": "Tang Sadok and the Tang Clan’s Ten Wonders—or rather, the three who should now be called the Tang Clan’s Three Skills[^1]—shot toward a single target like arrows, as if they had planned it together.",
+      "severity": "minor",
+      "source": "당사독과 당문십기, 아니 이제는 당문삼기라고 불러야 할 세 사람까지."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“I expected it, but... you’re strong. Really strong.”",
+      "defect": "The draft uses three periods instead of the required ellipsis character.",
+      "id": "F19",
+      "rationale": "The binding Markdown rules require the single ellipsis character, and 정말로 is a separate emphatic “truly,” not a repetition of “strong.”",
+      "replacement": "“I expected it, but… you’re strong. Truly.”",
+      "severity": "minor",
+      "source": "“예상은 했지만…… 강하시네요. 정말로.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Of course. The Sword Saint’s youngest Disciple, whom he cherishes like his own child... Heh-heh. This should be fun. I’ll leave him barely breathing.”",
+      "defect": "The draft uses three periods instead of the required ellipsis character.",
+      "id": "F20",
+      "rationale": "The binding Markdown rules require the single ellipsis character.",
+      "replacement": "“Of course. The Sword Saint’s youngest Disciple, whom he cherishes like his own child… Heh-heh. This should be fun. I’ll leave him barely breathing.”",
+      "severity": "minor",
+      "source": "“물론입니다. 검성이 친자식처럼 아끼는 막내 제자라…… 클클. 재미있겠군요. 숨통만 붙여 놓겠습니다.”"
+    }
+  ],
+  "summary": "Two critical subject/scope errors, several meaningful lineage and combat-result distortions, terminology issues, a misattributed footnote, and repeated noncompliant ASCII ellipses.",
+  "version": 1
+}

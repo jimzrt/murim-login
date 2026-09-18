@@ -517,3 +517,8 @@ Overrides generic relationship prose in character profiles for this pair.
 | 당사독 | 서천마군 | hostile_opponents | you bastard | hostile and threatening | Tang Sadok uses 네놈 after recognizing the disguised infiltrator. |
 | 일괴 | 당진후 | enemy_to_enemy; former_acquaintances | youngster | mocking and taunting | First Fiend recognizes Tang Jinhu and repeatedly addresses him as a youngster while threatening the Tang Clan. |
 | 당진후 | 일괴 | enemy_to_enemy | you; Fiend | hostile and defiant | Tang Jinhu calls First Fiend a Fiend and vows to kill him. |
+| 서천마군 | 청풍 | commander_to_young_opponent | you | gentle and taunting | Uses 자네 while identifying Cheongpung and discussing the Blood Lord. |
+| 당사독 | 청풍 | family_head_to_younger_ally | greenhorn | blunt and protective | Tells Cheongpung not to interfere while calling him a 핏덩이. |
+| 서천마군 | 일괴 | commander_to_subordinate | First Fiend | commanding and cold | Orders First Fiend to handle Cheongpung and warns him that Cheongpung is dangerous. |
+| 일괴 | 서천마군 | subordinate_to_commander | Demon Lord | deferential and fearful | Answers the Western Heaven Demon Lord's orders as 마군 and submits after being threatened. |
+| 일괴 | 청풍 | enemy_to_assigned_target | greenhorn; brat | mocking and bloodthirsty | Calls Cheongpung the Sword Saint's successor and boasts that he will leave him barely breathing. |

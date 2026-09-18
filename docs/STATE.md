@@ -1,33 +1,33 @@
 # Translation State
 
-- Last completed: 354
-- Next chapter: 355
-- Current block: 350–354 (5/5)
-- Latest translation: `translations/0354.md`
-- Latest summary: `summaries/beats/0354.md`
-- Safe profiles through: chapter 354
+- Last completed: 355
+- Next chapter: 356
+- Current block: 355–359 (1/5)
+- Latest translation: `translations/0355.md`
+- Latest summary: `summaries/beats/0355.md`
+- Safe profiles through: chapter 355
 
 ## Current Block
 
-- Dark Heaven's three-hundred-man assault overwhelms the Sichuan Tang Clan's outer defenses. Their black-clad fighters carry sinister poison-neutralizing artifacts and piercing leather armor, rendering the Tang Clan's poisons and hidden weapons largely ineffective while more than a hundred clansmen die and half the Outer Hall falls.
-- Tang Jinhu, the retired Supreme Peak Head Elder, joins the battle and uses the Soul-Severing Thread to kill numerous attackers, but the Council of Elders and the Tang Clan's Peak masters cannot reverse the slaughter. First Fiend then appears, recognizes Tang Jinhu, and reveals that his two younger brothers are attacking Emei and Qingcheng.
-- The Western Heaven Demon Lord defeats Tang Sadok and most of the Tang Clan's Ten Wonders, leaving only three of them alive while Tang Sadok is gravely wounded. Before the Demon Lord can weaken him further, Cheongpung rushes into the scene, prompting the Demon Lord to wonder what kind of lunatic has arrived.
+- Cheongpung arrives during the Western Heaven Demon Lord's confrontation with Tang Sadok, dodges the Demon Lord's eighth-stage Ghost Prison Finger, deflects his follow-up attack, and is recognized as Sword Saint Mae Jonghak's Disciple. He learns that the Blood Lord seeks to kill him, Jeok Cheongang, and Jin Taekyung personally, and unmistakable hostility appears in his normally clear eyes.
+- The Western Heaven Demon Lord defeats the counterattack by Tang Sadok and the three surviving members of the Tang Clan's Ten Wonders, killing one of them and capturing Tang Sadok. He orders First Fiend to handle Cheongpung, permitting his death if he cannot be subdued; First Fiend engages Cheongpung while the Demon Lord advances into the Inner Hall.
+- The Western Heaven Demon Lord walks through the blood-soaked Inner Hall with Tang Sadok restrained and tells him that the Tang Clan is collapsing before demanding the location of the Myriad-Poison Ring. First Fiend's assault has killed nearly a hundred Tang Clan members, including Tang Jinhu, and only two of the former Ten Wonders remain alive.
 
 ## Open Questions
 
 - Can the Sichuan Tang Clan survive the assault?
-- Can Cheongpung change the outcome of Tang Sadok's confrontation with the Western Heaven Demon Lord?
+- Can Cheongpung survive First Fiend and change the battle's outcome?
+- Where is the Myriad-Poison Ring, and can it be secured before the Tang Clan falls?
 - What are the limits and nature of the Western Heaven Demon Lord's demonic martial art?
-- How large is Dark Heaven's force beyond the three hundred attackers identified here?
-- Will Jeok Cheongang recover before the siege exposes him to external shock?
+- Will Jeok Cheongang recover before the siege exposes him to capture or further harm?
 
 ## Exceptional Decision
 
 - Render 일괴, 이괴, and 삼괴 as First Fiend, Second Fiend, and Third Fiend.
-- Render 악귀 as Fiend when used as the First Fiend's descriptive epithet.
+- Render 악귀 as Fiend when used for the First Fiend's descriptive epithet.
+- Render 마군 as Demon Lord when used for the Western Heaven Demon Lord's shortened title.
 - Render 만독진 as Myriad-Poison Formation.
 - Render 초대받지 않은 손님 as Uninvited Guest.
-- Render 마군 as Demon Lord when used for the Western Heaven Demon Lord's shortened title.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
