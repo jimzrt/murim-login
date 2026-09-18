@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "When the Hunters of the Public Security Armed Forces Department, myself included, defeated the monsters at the front, the military forces following behind would ‘clean up’ the area and the monster corpses.",
+      "defect": "The parenthetical incorrectly identifies Jin Taekyung as a member of the Public Security Armed Forces Department rather than an allied Hunter fighting alongside it.",
+      "id": "C01",
+      "rationale": "Jin is a Korean ally operating with the department, not one of its Hunters; the current wording creates an affiliation contradiction.",
+      "replacement": "When the Hunters of the Public Security Armed Forces Department and I defeated the monsters at the front, the military forces following behind would ‘clean up’ the area and the monster corpses.",
+      "severity": "major",
+      "source": "Chapter 390, explanation of the western front's division of labor"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Ah, you mean that little regimental commander.”\n\nZhang Wei's expression hardened at the senior officer's mocking tone toward Xiao Shen.\n\n“Regimental Commander Xiao Shen holds the same rank as you, Colonel Wang. And he's about to be promoted to major general.”",
+      "defect": "Shao Shen's established name is rendered twice as Xiao Shen, creating a terminology and character-identity inconsistency.",
+      "id": "C02",
+      "rationale": "The binding terminology and every surrounding chapter identify the regimental commander as Shao Shen.",
+      "replacement": "“Ah, you mean that little regimental commander.”\n\nZhang Wei's expression hardened at the senior officer's mocking tone toward Shao Shen.\n\n“Regimental Commander Shao Shen holds the same rank as you, Colonel Wang. And he's about to be promoted to major general.”",
+      "severity": "major",
+      "source": "Chapter 391, Zhang Wei's exchange with Colonel Wang"
+    },
+    {
+      "confidence": 1.0,
+      "current": "「Zhang Wei! Langlang!」",
+      "defect": "Chinese-language speech is enclosed in corner brackets throughout this chapter, unlike dialogue in the surrounding chapters and contrary to the required curly-double-quote format.",
+      "id": "C03",
+      "rationale": "Language differences do not change the required English dialogue typography; every corner-bracketed line in Chapter 392 should use curly double quotes consistently.",
+      "replacement": "“Zhang Wei! Langlang!”",
+      "severity": "minor",
+      "source": "Chapter 392, Chinese-language dialogue throughout, beginning with the massacre aftermath"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Hmm. I still have a few Top-Grade Potions left.”",
+      "defect": "The item name drifts from the packet's established rendering and capitalization, high-grade potion.",
+      "id": "C04",
+      "rationale": "Chapter 392 and the binding translation decisions establish high-grade potion; no new item category is introduced here.",
+      "replacement": "“Hmm. I still have a few high-grade potions left.”",
+      "severity": "minor",
+      "source": "Chapter 394, Team Leader Choi discussing General Liao"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Who is the Arch Lich's true king, who is the black knight, and why did the undead legions withdraw now?",
+      "defect": "The active state omits the linked unresolved hooks involving the black knight's inability to kill the child and the child's skull decorating the Arch Lich's throne.",
+      "id": "C05",
+      "rationale": "Chapters 391 and 392 deliberately juxtapose the spared child with the child-sized skull on the throne; preserving both mysteries prevents this apparent identity or memory hook from being dropped at the checkpoint.",
+      "replacement": "Who is the Arch Lich's true king, who is the black knight, and why did the undead legions withdraw now? Why could the black knight not kill the child, and whose child's skull decorates the Arch Lich's throne?",
+      "severity": "major",
+      "source": "Durable state, first open question"
+    }
+  ],
+  "summary": "The packet is generally coherent in voice and continuity, but it contains two character/affiliation errors, a chapter-wide dialogue-formatting inconsistency, one item-term drift, and an unresolved child-related hook omitted from the active state.",
+  "version": 1
+}
