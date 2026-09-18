@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "I had been walking with that question in mind for who knew how long when the wide passage finally ended. A new space appeared before us.",
+      "defect": "The draft omits the explicit scale of the passage: it was wide enough for ten grown men to walk abreast.",
+      "id": "F01",
+      "rationale": "The omitted quantity establishes the cavern's extraordinary dimensions and must be preserved.",
+      "replacement": "I had been walking with that question in mind for who knew how long when the passage—wide enough for ten grown men to walk abreast—finally ended, revealing a new space.",
+      "severity": "major",
+      "source": "장정 열 명이 나란히 걸어도 될 만한 넓은 길이 끝나고 마침내 새로운 공간이 모습을 드러냈다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“That is correct. Those are the strange formations I mentioned.”",
+      "defect": "The draft changes the single formation into multiple formations.",
+      "id": "F02",
+      "rationale": "저것이 and 진법 are singular; the patterns collectively constitute one formation.",
+      "replacement": "“That is correct. That is the strange formation I mentioned.”",
+      "severity": "minor",
+      "source": "맞네. 저것이 빈도가 말했던 기이한 진법일세."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“That is correct. According to the Three Fiends, that strange formation is called a Moving Formation.",
+      "defect": "The draft changes the singular Third Fiend into the collective Three Fiends, falsely attributing the information to all three.",
+      "id": "F03",
+      "rationale": "Here 삼괴 identifies the captured Third Fiend, as established by the chapter context and active terminology decision.",
+      "replacement": "“That is correct. According to the Third Fiend, that strange formation is called a Moving Formation.",
+      "severity": "critical",
+      "source": "삼괴의 말에 의하면 저 기이한 진법은 이동진이라고 불린다더군."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“We caught the Third Fiend here ourselves.”",
+      "defect": "The draft changes the Slaughter Saint's singular claim that he personally captured the Third Fiend into an unsupported collective action.",
+      "id": "F04",
+      "rationale": "직접 잡았지 is the Slaughter Saint's personal claim and identifies him as the person who made the capture.",
+      "replacement": "“The Third Fiend. I caught him here myself.”",
+      "severity": "critical",
+      "source": "삼괴. 놈을 이곳에서 직접 잡았지."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Later, just as he confessed, he tried to activate the formation. But nothing happened.”",
+      "defect": "The draft makes the activation attempt occur after or during the confession, altering the chronology. The source says the attempt was revealed in his later confession.",
+      "id": "F05",
+      "rationale": "후에 modifies when the Third Fiend confessed, not when he attempted to activate the formation.",
+      "replacement": "“According to what he later confessed, he tried to activate the formation, but nothing happened.”",
+      "severity": "major",
+      "source": "후에 놈이 실토한 대로 진법을 가동하려 했지만, 아무런 일도 일어나지 않았다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "[^1]: In Korean, *sal* means “slaughter” while *ssal* means “rice,” creating a one-syllable wordplay in “Slaughter Saint” and “Rice Saint.”",
+      "defect": "The footnote explains only the literal rice reading and omits the sexual double meaning that connects the wordplay to the immediately preceding wet-dream joke.",
+      "id": "F06",
+      "rationale": "In this context, 쌀성 is not merely a rice pun; it also plays on sexual slang, which is the reason the narrator recalls the wet-dream incident.",
+      "replacement": "[^1]: In Korean, *sal* means “slaughter,” while *ssal* can mean “rice” and also evokes *ssada*, slang for ejaculating—tying the wordplay to the wet-dream incident.",
+      "severity": "major",
+      "source": "살성을 쌀성으로 만들어 버릴 뻔했는데, 이 정도면 양반이지."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Nothing. I was just thinking that fellow Slaughter Saint is remarkably incapable of being honest.”",
+      "defect": "“That fellow Slaughter Saint” is unnatural English and misplaces “fellow,” obscuring Jeok Cheongang's blunt reference to the Slaughter Saint.",
+      "id": "F07",
+      "rationale": "저놈 is a blunt reference to the Slaughter Saint, not part of a compound title or an indication that he is a fellow Slaughter Saint.",
+      "replacement": "“Nothing. I was just thinking that the Slaughter Saint is remarkably incapable of being honest.”",
+      "severity": "minor",
+      "source": "그냥. 살성 저놈도 어지간히 솔직하지 못한 놈이구나, 하는 생각이 들어서."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Maybe it was because this was such a common subject in the fusion-fantasy novels I had read before. It only made things more confusing.",
+      "defect": "“Common subject” is an unnatural rendering of 소재 in this context, where it means a recurring fictional trope or device.",
+      "id": "F08",
+      "rationale": "The narrator is comparing the formation to a familiar genre trope, not describing a general subject of discussion.",
+      "replacement": "Maybe it was because this was a trope I’d seen so often in the fusion-fantasy novels I had read before. Somehow, that only made it more confusing.",
+      "severity": "minor",
+      "source": "예전에 봤던 퓨전 판타지 소설에서 자주 나오던 소재라 그런가. 괜히 더 헷갈리는 기분이다."
+    }
+  ],
+  "summary": "The draft contains two critical identity and subject changes, along with an omitted spatial quantity, altered chronology, lost sexual wordplay, and several localized fidelity or naturalness issues.",
+  "version": 1
+}

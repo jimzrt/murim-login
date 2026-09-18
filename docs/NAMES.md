@@ -1316,3 +1316,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 참이슬 | **Chamisul** | Korean soju brand used in Jin Taekyung's joke about renaming the snake. |
 | 진성애 | **Teacher Jin Seong-ae** | Taekyung's parody name for the sex educator Gu Seong-ae. |
 | 구성애 | **Teacher Gu Seong-ae** | Korean sex educator referenced in Taekyung's joke. |
+| 환영진 | **illusion formation** | Formation that conceals the cavern entrance. |
+| 이동진 | **Moving Formation** | Dark Heaven's inactive long-distance transportation formation. |
+| 야명주 | **night-shining pearls** | Pearls embedded in the cavern ceiling that provide light. |
+| 괴공절학 | **monstrous martial arts and supreme techniques** | Bizarre arts associated with the Demonic Cult. |
