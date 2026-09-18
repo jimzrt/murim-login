@@ -1,6 +1,6 @@
 # Heavenly Power Demon (천력마)
 
-- **Safe through:** Chapter 356
+- **Safe through:** Chapter 358
 - **Aliases:** None
 - **Role:** Former Elder of the Great Heavenly Demon Divine Cult who led the subjugation of Qinghai and opened the first front of its holy war, now an elderly prisoner in the Sichuan Tang Clan's underground prison with severed limb sinews and a ruined dantian.
 - **Personality:** Quiet and self-possessed despite his severe imprisonment, he is reflective about the moral ambiguity of the Great Faction War and disillusioned with the Divine Cult's corruption.
