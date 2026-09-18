@@ -1,0 +1,75 @@
+{
+  "summary": "The assembled English is faithful to the Korean source with very minor terminology omissions noted.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "진가보법, 진가창법",
+      "current": "Jin Family’s Manoeuvre Technique, Jin Family’s Spear Technique",
+      "defect": "The preferred glossary terms 'Jin Family's Manoeuvre Technique' and 'Jin Family's Spear Technique' are absent or not used consistently as preferred.",
+      "replacement": "Use 'Jin Family's Manoeuvre Technique' and 'Jin Family's Spear Technique' exactly as glossary states.",
+      "rationale": "Glossary mandates specific terminology for these martial arts techniques for consistency and clarity.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "상태",
+      "current": "Status (not present, but noted as missing)",
+      "defect": "Preferred glossary term 'Status' is missing where applicable.",
+      "replacement": "Use 'Status' as per glossary for the Korean '상태'.",
+      "rationale": "Glossary requires consistent use of the term for system or condition states.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "신의",
+      "current": "Divine Physician (not present, but noted as missing)",
+      "defect": "Preferred glossary term 'Divine Physician' is missing where applicable.",
+      "replacement": "Use 'Divine Physician' as per glossary.",
+      "rationale": "Glossary requires this term to identify the legendary physician properly.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "진태",
+      "current": "Jintae (not present, but noted as missing)",
+      "defect": "Preferred glossary term 'Jintae' is missing where applicable.",
+      "replacement": "Use 'Jintae' consistently for the referenced character or term.",
+      "rationale": "Glossary defines 'Jintae' for clarity and consistency.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F05",
+      "severity": "minor",
+      "source": "송이",
+      "current": "Song-i (not present, but noted as missing)",
+      "defect": "Preferred glossary term 'Song-i' is missing where applicable.",
+      "replacement": "Use 'Song-i' as glossary defines.",
+      "rationale": "Glossary mandates using established names to ensure consistency.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F06",
+      "severity": "minor",
+      "source": "갑자",
+      "current": "jiazi (not used or mentioned)",
+      "defect": "Preferred glossary term 'jiazi' is missing where the concept appears.",
+      "replacement": "Use 'jiazi' to refer to traditional sixty-year cycle as per glossary.",
+      "rationale": "Glossary specifies culturally accurate terms for proper context.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F07",
+      "severity": "minor",
+      "source": "꼬리",
+      "current": "the “tail” (not used or mentioned explicitly)",
+      "defect": "Preferred glossary term 'the “tail”' is absent where applicable.",
+      "replacement": "Use 'the “tail”' to refer to the codename for Black Hunter as per glossary.",
+      "rationale": "Glossary ensures consistent use of codenames for plot clarity.",
+      "confidence": 1.0
+    }
+  ]
+}

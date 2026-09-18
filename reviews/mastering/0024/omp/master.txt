@@ -24,7 +24,7 @@ His little sister whimpered in his arms. The boy, Socheon, blew warm breath over
 
 Socheon swallowed the rest of the sentence.
 
-His mother had appeared in his dream the night before, exactly as she had three days earlier. She had spent a long time stroking and gazing at Soyul, who had fallen asleep from exhaustion, before speaking.
+His mother had appeared in his dream the night before, exactly as she had three days earlier. She had spent a long time stroking the exhausted Soyul’s hair and gazing down at her before speaking.
 
 *Survive. You must survive.*
 
@@ -32,7 +32,7 @@ Her voice still rang in his ears, and the sight of her back as she led the other
 
 *What happened to Mother? Could she have…? No. That can’t be.*
 
-It was then, as he struggled to suppress his ominous feelings, that he heard something.
+He was struggling to suppress the ominous thought when—
 
 Rustle.
 
@@ -46,7 +46,7 @@ After the night his home had burned and he had witnessed countless deaths, the o
 
 “It’s me.”
 
-The dagger slowly lowered when a face suddenly appeared from the darkness.
+The dagger slowly lowered as a face emerged from the darkness.
 
 “Uncle Gong?”
 
@@ -56,7 +56,7 @@ Uncle Gong was a weary-looking middle-aged man. An old friend of Socheon’s fat
 
 “I was worried. You were gone for more than half a shichen.[^1]”
 
-“I should have been more careful. We have a tail.”
+“I had to be careful. We’ve picked up a tail.”
 
 “Already?”
 
@@ -72,11 +72,11 @@ Socheon rose without hesitation. Uncle Gong hoisted the bewildered Soyul onto hi
 
 Socheon had his doubts.
 
-The Sakju Branch had already fallen. The building had burned, and everyone was dead. He did not know who the attackers were, but their purpose was clear.
+The Sakju Branch had already fallen. The buildings had burned, and everyone was dead. He did not know who the attackers were, but their purpose was clear.
 
 *Extermination.*
 
-He blew the word away with his breath and started walking again.
+He breathed the word into the cold air and started walking again.
 
 How long had they been walking?
 
@@ -98,13 +98,13 @@ Uncle Gong’s face went rigid.
 
 “At least ten of them. They’ll catch up soon.”
 
-The situation was bleak. Yet strangely, Socheon’s heart settled into a calm stillness.
+The situation was hopeless. Yet strangely, Socheon’s heart settled into a deep calm.
 
 “This is my fault. I should have hurried before the snow began… I curse the heavens.”
 
 “You did everything you could, Uncle.”
 
-Socheon drew the dagger from inside his clothes. It had been handed down to him by his father a year ago—the only trace his father had left behind.
+Socheon drew the dagger from inside his clothes. His father had given it to him a year ago. It was the only thing he had left of him.
 
 “I’ve learned a little martial arts myself. I’ll fight and die like a martial artist.”
 
@@ -112,7 +112,7 @@ Socheon drew the dagger from inside his clothes. It had been handed down to him 
 
 That was all Uncle Gong could say. They drew on what little strength they had left and set off again.
 
-But their stamina, pushed to its limit by days and nights of nonstop flight, dragged at their feet. Their steps grew slower, and their breathing became labored.
+But days and nights of constant flight had pushed their bodies to the limit. Their steps grew slower. Their breathing became ragged.
 
 “There they are!”
 
@@ -120,7 +120,7 @@ But their stamina, pushed to its limit by days and nights of nonstop flight, dra
 
 Now Socheon could hear them, too. The pursuers’ voices and the glow of their torches were drawing closer.
 
-At that moment, Uncle Gong handed the soundly sleeping Soyul to Socheon.
+Uncle Gong handed the sleeping Soyul to Socheon.
 
 “I’ll follow behind you.”
 
@@ -128,13 +128,13 @@ At that moment, Uncle Gong handed the soundly sleeping Soyul to Socheon.
 
 “Don’t worry. I, Gong Yacheong, am not so easily dealt with.”
 
-“But how can you…”
+“But how can I—”
 
 “Go!”
 
-Socheon left Gong Yacheong behind and started up the mountain again. His stamina was at its limit, but he did not stop.
+Leaving Gong Yacheong behind, Socheon started up the mountain again. His body had reached its limit, but he did not stop.
 
-When he reached a hill on the snow-covered mountain, the clash of weapons and someone’s scream rang out.
+By the time he reached a hill on the snow-covered mountain, the clash of weapons and someone’s scream rang out behind him.
 
 *Uncle Gong.*
 
@@ -170,7 +170,7 @@ I sensed something strange just as we were about to begin training.
 
 A sound carried faintly through the howling wind. When I drew up my internal energy, it became clearer.
 
-*A human voice?*
+*Voices?*
 
 There had to be more than ten people. They were so close, I couldn’t believe I had only just noticed them.
 
@@ -188,7 +188,7 @@ The squad members had been standing ready with their weapons, but now they stare
 
 “Captain. There’s a kid over there.”
 
-Damn it. There really was one.
+Damn it. There really was.
 
 A little boy carrying an even smaller child on his back was staring blankly at us.
 
@@ -210,7 +210,7 @@ The problem was the direction he was running in.
 
 Suspicious gazes turned toward me. I had already backed well away from them.
 
-“I’m going to ride a horse. We should be leaving soon.”
+“To get on my horse. We should be leaving soon.”
 
 “In this weather? The horses won’t even be able to move.”
 
@@ -220,7 +220,7 @@ Suspicious gazes turned toward me. I had already backed well away from them.
 
 “That’s how missions work. Snow or rain, we still have a job to do. Shut up and pack your things.”
 
-“But still…”
+“But…”
 
 “Pack your things! Wake Hyuk Mujin!”
 
@@ -283,7 +283,7 @@ I heaved a deep sigh and shouted.
 
 Clack-clack-clack.
 
-Clack-clack-clack. Caught off guard, the squad members nevertheless moved as they had been taught. By the time they had formed up, the enemy had realized who we were and started shouting.
+Despite being caught off guard, the squad members moved as they had been taught. By the time they finished forming up, the enemy had realized who we were.
 
 “They’re brats from the Jin Family of Taiyuan!”
 
@@ -291,7 +291,7 @@ Clack-clack-clack. Caught off guard, the squad members nevertheless moved as the
 
 *Brats. Outnumbered.*
 
-Those two facts hit me right in the chest.
+They had picked out the facts with painful precision.
 
 I hadn’t even finished teaching these guys. Their martial arts were weak, they had no real combat experience, and they were complete rookies…
 
@@ -349,7 +349,7 @@ That wasn’t what I was doing, you lunatics.
 
 Leaving the reconnaissance squad members’ screams behind, I charged straight at the enemy.
 
-Internal energy surged from my dantian and spread through my limbs and bones.
+Internal energy surged from my dantian and raced through every part of my body.
 
 “You crazy bastard.”
 
@@ -386,7 +386,7 @@ I felt like I was standing in a flower garden.
 
 Twenty flowers, each brimming with the sweet honey of EXP.
 
-I charged into them with a blissful expression and sucked out the honey.
+Beaming with happiness, I charged into the garden and sucked them dry.
 
 Stab. Stab. Stab.
 
@@ -395,8 +395,6 @@ Ding. Ding. Ding.
 > **System**
 >
 > - You gained EXP.
-> - You gained 50 Merit!
-> - You gained EXP…
 > - You gained 50 Merit…
 > - You gained EXP…
 > - You gained 50 Merit…
@@ -421,7 +419,7 @@ It was time for the Jin Family’s Spear Technique to show its true worth.
 
 *First form.*
 
-I began swinging the spear in step with my footwork. Every swing and thrust brought forth someone’s scream and a burst of blood.
+I swung my spear in time with my footwork. Every sweep and thrust brought a scream and a burst of blood.
 
 “Ghk.”
 
@@ -431,7 +429,7 @@ Second form. Third form. Fourth form.
 
 At some point, I surrendered myself to the flow.
 
-The ripples became waves, and the enemies were swept away by them. Every nerve in my body stood on end.
+Ripples became waves, and the enemy was swept away. Every nerve in my body sharpened until it almost hurt.
 
 More. More. More…
 
@@ -441,7 +439,7 @@ Stab. Stab.
 
 Throat. Chest. Abdomen.
 
-I stabbed and cut them down one after another. The System alerts confirmed the fatalities for me.
+I pierced and cut through them in turn. The System alerts confirmed each death for me.
 
 How much time had passed?
 
@@ -472,8 +470,8 @@ Ding.
 > - You defeated **Level 32 Black Mountain Blade**!
 > - You completed the **Survivors of the Sakju Branch** Quest!
 > - A Chain Quest has been created!
-> - You gain a large amount of EXP!
-> - You gain a large amount of Merit!
+> - You gained a large amount of EXP!
+> - You gained a large amount of Merit!
 > - You have leveled up!
 > - You have leveled up!
 > - You have leveled…

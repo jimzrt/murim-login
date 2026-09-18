@@ -172,7 +172,7 @@ The squad members, who had been preparing for training with their weapons in han
 
 “Pack up, quickly. One of you, go inside and get Hyuk Mujin—”
 
-“Squad Leader. There’s a kid over there.”
+“Captain. There’s a kid over there.”
 
 Damn it. There really was one.
 
