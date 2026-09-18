@@ -1,0 +1,126 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "It had already been two weeks since Lei Fei had gone missing.",
+      "defect": "The draft changes the stated duration from fifteen days to fourteen days.",
+      "id": "F01",
+      "rationale": "보름 specifically means fifteen days, not two weeks.",
+      "replacement": "It had already been fifteen days since Lei Fei had gone missing.",
+      "severity": "critical",
+      "source": "레이페이가 실종된 지 어느덧 보름."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“He told me to say that he loved you.”",
+      "defect": "The draft adds Wei Fenghu as the explicit object of Lei Fei’s love, although the source leaves both the recipient and object unstated.",
+      "id": "F02",
+      "rationale": "전해 달라 asks Jin to pass the message along without specifying that Lei Fei meant Wei Fenghu alone.",
+      "replacement": "“He asked me to pass along his love.”",
+      "severity": "critical",
+      "source": "“사랑한다고 전해 달라더군요.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "They had held on to their weapons even while enduring the pain of having their limbs torn off.",
+      "defect": "The draft changes the injury mechanism from limbs being cut or severed to limbs being torn off.",
+      "id": "F03",
+      "rationale": "잘려 나가다 denotes being cut or severed, not torn away.",
+      "replacement": "They had held on to their weapons even while enduring the pain of having their limbs severed.",
+      "severity": "critical",
+      "source": "사지가 잘려 나가는 고통 속에서도 손에 쥔 무기를 놓지 않을 만큼."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The increase in my stats was so tiny that I could barely feel it.",
+      "defect": "The draft weakens an explicit negation into a barely perceptible sensation.",
+      "id": "F04",
+      "rationale": "느껴지지도 않았다 states that he could not even feel the increase, which is reinforced by the following lake analogy.",
+      "replacement": "The increase in my stats was so tiny that I could not feel it at all.",
+      "severity": "critical",
+      "source": "올랐다는 능력치도 정말 쥐꼬리만큼이라 느껴지지도 않았다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "If not, I would cut them down root and branch.",
+      "defect": "The draft turns Jin’s euphemistic weed-cutting image and trailing snipping punchline into a direct declaration that he will kill them.",
+      "id": "F05",
+      "rationale": "삭초제근 sustains a weed-eradication metaphor, while 쓱싹 is a light cutting sound that supplies the joke’s deliberately indirect finish.",
+      "replacement": "If not, I’d cut the weeds out by the roots and—snip…",
+      "severity": "major",
+      "source": "아니면 삭초제근(削草除根)한다는 마음가짐으로 쓱싹……."
+    },
+    {
+      "confidence": 0.99,
+      "current": "What the hell? I was only thinking about trying it.",
+      "defect": "The draft adds profanity and makes “it” sound like the sword test, rather than Jin protesting that his malicious idea was only a passing thought.",
+      "id": "F06",
+      "rationale": "그냥 해 본 생각 refers to the preceding thought about eliminating people rejected by the sword; 어이없네 is an incredulous complaint rather than strong profanity.",
+      "replacement": "Come on. It was just a passing thought.",
+      "severity": "major",
+      "source": "어이없네. 그냥 해 본 생각이었는데."
+    },
+    {
+      "confidence": 0.94,
+      "current": "“Mr. Jin. The Minister of State would like to see you.”",
+      "defect": "The draft omits the explicitly political and hierarchical address “Comrade.”",
+      "id": "F07",
+      "rationale": "동지 is part of the official’s title and preserves the speaker’s formal Chinese political register.",
+      "replacement": "“Mr. Jin. Comrade Minister of State would like to see you.”",
+      "severity": "major",
+      "source": "「진 선생님. 국무부장 동지께서 찾으십니다.」"
+    },
+    {
+      "confidence": 0.96,
+      "current": "A gigantic sinkhole, gaping open like the entrance to hell, and dozens of craters carved into the ground were filled with dark red and green blood.",
+      "defect": "The draft adds darkness to the blood’s color.",
+      "id": "F08",
+      "rationale": "적녹색 specifies red and green; it does not describe the red as dark.",
+      "replacement": "A gigantic sinkhole, gaping open like the entrance to hell, and dozens of craters carved into the ground were filled with red and green blood.",
+      "severity": "minor",
+      "source": "지옥의 입구처럼 뻥 뚫린 거대한 싱크홀(Sinkhole)과 지면에 아로새겨진 수십 개의 크레이터에는 적녹색의 핏물이 가득 채워져 있었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“The battle is over. There are no surviving monsters.”",
+      "defect": "The draft removes Jin’s marked pause before revealing that no monsters survived.",
+      "id": "F09",
+      "rationale": "The ellipsis after 살아남은 몬스터는 creates a deliberate hesitation and dramatic reveal that should be retained.",
+      "replacement": "“The battle is over. There are… no monsters left alive.”",
+      "severity": "minor",
+      "source": "“전투는 끝났습니다. 살아남은 몬스터는…… 없습니다.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "It was a famous sword whose chilling sharpness could be felt simply by looking at it.",
+      "defect": "“Famous” incorrectly implies that the sword is renowned rather than exceptionally fine.",
+      "id": "F10",
+      "rationale": "명검 denotes an excellent or exceptional sword; the source does not state that it is famous.",
+      "replacement": "It was an exceptional sword whose chilling edge could be felt simply by looking at it.",
+      "severity": "minor",
+      "source": "보는 것만으로도 서늘한 예기(銳氣)가 느껴지는 명검이다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Not bad.",
+      "defect": "The draft omits Jin’s comparison with his prior expectations.",
+      "id": "F11",
+      "rationale": "생각보다 explicitly means that the sword is better than he had expected.",
+      "replacement": "Better than I expected.",
+      "severity": "minor",
+      "source": "생각보다 좋다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "He was usually a screw loose, but he was still a named monster and commander of the army of the dead.",
+      "defect": "“Was a screw loose” is not grammatical English for describing someone as scatterbrained or eccentric.",
+      "id": "F12",
+      "rationale": "The natural English idiom corresponding to 나사 빠진 놈 is “had a screw loose.”",
+      "replacement": "He usually had a screw loose, but he was still a named monster and commander of the army of the dead.",
+      "severity": "minor",
+      "source": "평소에는 나사 빠진 놈이지만 명색이 네임드 몬스터이자 망자 군단의 사령관이다."
+    }
+  ],
+  "summary": "The draft contains four factual or semantic shifts, two meaningful register losses, and several localized wording issues.",
+  "version": 1
+}
