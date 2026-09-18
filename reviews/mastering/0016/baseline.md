@@ -22,7 +22,7 @@ His voice was so serious that Wipeng grew slightly concerned.
 
 *Did something major happen?*
 
-Perhaps they had discovered some serious embezzlement in the documents. Or maybe the Elder Council, which had been constantly watching for an opportunity, had caused some kind of incident.
+Perhaps they had discovered some serious embezzlement in the documents. Or maybe the Council of Elders, which had been constantly watching for an opportunity, had caused some kind of incident.
 
 *This is bad. We haven’t even finished dealing with the Mount Heng Sword Sect yet.*
 
@@ -82,7 +82,7 @@ Of course, he also had enough courage to reprimand a lord whose sanity was in se
 
 “Then you know how ridiculous this is—”
 
-“Did you think I spent three hours focusing on only one thing?”
+“Did you think I spent three shichen focusing on only one thing?”
 
 “What?”
 
@@ -112,7 +112,7 @@ Flap.
 
 Wipeng hurriedly turned toward the window. A hawk that had just landed was preening its feathers. A small container hung from its ankle.
 
-“It’s a messenger hawk.”
+“It’s a messenger eagle.”
 
 These hawks were trained intensively from the time they were fledglings before being put to use as messengers.
 
