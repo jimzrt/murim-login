@@ -563,3 +563,10 @@ Overrides generic relationship prose in character profiles for this pair.
 | 샤오 쉔 | 진태경 | rescued_ally_to_hero | Mr. Jin | formal-honorific | Shao Shen thanks Jin for saving him, his comrades, and the people of Zhonghua. |
 | 웨이펑후 | 진태경 | senior_military_official_to_ally | Mr. Jin | formal-polite | Wei Fenghu addresses Jin while inviting him to walk to the operations headquarters. |
 | 진태경 | 골골 | captor_to_subordinate_undead | Bones | mocking-casual | Jin uses the mocking nickname while treating the Skeleton Warlord like a pet. |
+| 조종사 | 웨이펑후 | Military subordinate to superior | Comrade Minister of National Defense | Formal military honorific | The pilot salutes Wei Fenghu and reports that the aircraft and escorts are ready. |
+| 웨이펑후 | 샤오 쉔 | Senior military superior to subordinate | Senior Colonel Shao Shen | Formal and measured | Wei addresses Shao Shen by his senior-colonel rank when they part. |
+| 샤오 쉔 | 웨이펑후 | Military subordinate to superior | Comrade Minister of National Defense | Highly formal and deferential | Shao Shen reports to Wei and promises to complete his mission before rejoining him. |
+| 샤오 쉔 | 진태경 | Junior Hunter to admired senior Hunter | Mr. Jin | Extremely deferential | Shao Shen refers to Jin as 진 선생님 and treats his praise as an honor from an idol. |
+| 샤오 쉔 | 최 팀장 | Junior Hunter to honored foreign team leader | Team Leader Choi | Formal and deferential | Shao Shen addresses Jin and Team Leader Choi collectively as the two gentlemen. |
+| 진태경 | 웨이펑후 | Foreign Hunter to senior military official | General, Commander, or Supreme Leader | Polite but flustered | Jin jokingly cycles through grand titles while trying to interrupt Wei's emotional request. |
+| 진태경 | 최 팀장 | Team member to team leader | Team Leader | Polite internal speech | Jin addresses Choi as 팀장님 through Sound Transmission. |
