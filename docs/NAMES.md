@@ -1300,3 +1300,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 일자혜검 | **One-Character Wisdom Sword** | Cheongpung’s sword technique that dismantles the Red Slaughter Asura Net. |
 | 적살십팔부 | **Red Slaughter Eighteen Axes** | First Fiend’s twin-axe martial art. |
 | 적살십팔검 | **Red Slaughter Eighteen Swords** | Cheongpung’s emerging sword adaptation of the Red Slaughter Eighteen Axes. |
+| 유령환살보 | **Ghost Illusory Slaughter Step** | Movement technique used by the Slaughter Saint. |
