@@ -1,16 +1,16 @@
 # Translation State
 
-- Last completed: 347
-- Next chapter: 348
-- Current block: 345–349 (3/5)
-- Latest translation: `translations/0347.md`
-- Latest summary: `summaries/beats/0347.md`
-- Safe profiles through: chapter 347
+- Last completed: 348
+- Next chapter: 349
+- Current block: 345–349 (4/5)
+- Latest translation: `translations/0348.md`
+- Latest summary: `summaries/beats/0348.md`
+- Safe profiles through: chapter 348
 
 ## Current Block
 
-- Jin Taekyung delivers the Myriad-Poison Ring to the Divine Physician, who begins the fifteen-day treatment of unconscious, critically ill Jeok Cheongang in the prepared underground prison treatment room. As Taekyung entrusts Jeok to the physician and Mungyeong, he finally acknowledges Jeok as his Master and vows to prevent anyone from entering during the treatment.
-- A middle-aged man tortures and kills a Tang Clan Green Shadow Squad operative, reveals that he lost one arm while overcoming Poison King Tang Taesang's resistance, and declares his intention to hunt Emei, Qingcheng, and the Sichuan Tang Clan. He activates a concealed Mystic Gate Formation and summons hundreds of black-robed hunters, who identify him as the Western Heaven Demon Lord.
+- The Western Heaven Demon Lord gathers hundreds of black-robed hunters and receives the submission of the Qilian Three Fiends. He reveals that the Poison King and the Heaven-Shaking Venerable Nun are dead, their lives costing him one arm, and declares that the time has come to begin his plans.
+- On the fourth day of Jeok Cheongang's treatment, Jin Taekyung mentally spars with Cheongpung before luring him away with rumors of an imperial chef. Taekyung then feeds the prisoners in the underground prison and learns that the quietest prisoner, the Heavenly Power Demon, is the man who urinated on the Kunlun Sect's signboard.
 
 ## Open Questions
 
