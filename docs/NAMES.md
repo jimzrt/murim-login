@@ -1399,3 +1399,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 소원권 | **wish coupon** | The Skeleton Warlord's refunded wish item. |
 | 쓰촨 분지 | **Sichuan Basin** | Geographic region containing Suining City. |
 | 서부 전선 | **Western Front** | The allied front advancing on Suining City. |
+| 버디언 | **Burdian** | Name used by Jin Taekyung for the rescued young B-rank Hunter. |

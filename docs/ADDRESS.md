@@ -668,3 +668,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 최민우 | younger allied Hunter to allied team leader | Team Leader Choi | polite, familiar, and teasing | Jin jokes with Choi while acknowledging and dismissing his concern. |
 | 스켈레톤 워로드 | 진태경 | captive undead commander to captor | human | theatrical, aggrieved, and insulting | The Skeleton Warlord repeatedly calls Jin human or uses insulting second-person forms while protesting the operation. |
 | 진태경 | 스켈레톤 워로드 | captor to captive undead commander | undead bastard | insulting and casual | Jin mocks and physically disciplines the Skeleton Warlord during their banter. |
+| 진태경 | 최 팀장님 | younger Hunter to allied Team Leader | Team Leader Choi | urgent and commanding | Jin calls Team Leader Choi to move beyond the fog's range. |
+| 진태경 | 샤오 쉔 | battlefield ally | Shao Shen | urgent and commanding | Jin calls Shao Shen alongside Team Leader Choi while ordering the withdrawal from the fog. |
