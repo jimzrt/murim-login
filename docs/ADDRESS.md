@@ -670,3 +670,7 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 스켈레톤 워로드 | captor to captive undead commander | undead bastard | insulting and casual | Jin mocks and physically disciplines the Skeleton Warlord during their banter. |
 | 진태경 | 최 팀장님 | younger Hunter to allied Team Leader | Team Leader Choi | urgent and commanding | Jin calls Team Leader Choi to move beyond the fog's range. |
 | 진태경 | 샤오 쉔 | battlefield ally | Shao Shen | urgent and commanding | Jin calls Shao Shen alongside Team Leader Choi while ordering the withdrawal from the fog. |
+| 진태경 | 최 팀장 | younger allied Hunter to senior Team Leader | Team Leader Choi | formal-polite | Jin addresses Choi after the Magic Trap and receives his report. |
+| 최 팀장 | 진태경 | senior allied Team Leader to younger Hunter | Mr. Jin Taekyung | formal and urgent | Choi warns Jin about the overwhelming monster assault and urges retreat. |
+| 호위대 | 아크 리치 | undead honor guard to undead lord | My lord | formal-deferential | The guards address the Arch Lich while reacting to its laughter and commands. |
+| 아크 리치 | 호위대 | undead lord to subordinate honor guard | my faithful servants | imperious-commanding | The Arch Lich orders the guards to enter the battlefield and destroy the humans. |

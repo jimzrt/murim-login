@@ -1400,3 +1400,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 쓰촨 분지 | **Sichuan Basin** | Geographic region containing Suining City. |
 | 서부 전선 | **Western Front** | The allied front advancing on Suining City. |
 | 버디언 | **Burdian** | Name used by Jin Taekyung for the rescued young B-rank Hunter. |
+| 매직 트랩 | **Magic Trap** | Indiscriminate battlefield trap deployed by the Arch Lich. |
+| 대적자 | **the Adversary** | Ancient human enemy remembered by the Arch Lich. |
+| 죽음의 강 | **River of Death** | Realm in which the Arch Lich spent an immense span of time. |
