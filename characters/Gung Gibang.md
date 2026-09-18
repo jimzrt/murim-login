@@ -1,6 +1,6 @@
 # Gung Gibang (궁기방)
 
-- **Safe through:** Chapter 341
+- **Safe through:** Chapter 343
 - **Aliases:** Successor Beggar, Beggar Prince, pure-blooded beggar, ultimate beggar
 - **Role:** Beggars' Sect Successor Beggar and unique eight-knot disciple, currently accompanying Jin Taekyung in Sichuan while investigating Tang Taesang's murder.
 - **Personality:** Vulgar, aggressive, and quick-tempered.

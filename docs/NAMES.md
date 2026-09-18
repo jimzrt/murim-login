@@ -1203,3 +1203,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 답설무흔 | **Treading Snow Without a Trace** | Comparable movement feat that leaves no footprints on snow. |
 | 등평도수 | **Rising on Duckweed, Crossing Water** | Comparable movement feat for walking across water. |
 | 한빙지 약초 노예 | **Herb Slave of Cold-Ice Land** | Nonrefusable Chain Quest requiring the collection of medicinal herbs. |
+| 한빙초 | **Cold-Ice Herb** | Medicinal herb gathered in Cold-Ice Land. |
+| 지옥에서 살아 돌아온 심마니 | **Mountain Herb Gatherer Who Returned Alive from Hell** | Achievement awarded for completing the Cold-Ice Land herb collection. |
+| 활신대법 | **Life-Restoring Great Technique** | Technique for regulating qi and untangling disrupted qi and blood. |
+| 무형지독 | **Formless Ultimate Poison** | Unidentified poison discovered inside Jeok Cheongang's body. |
+| 만독지환 | **Myriad-Poison Ring** | Quest title concerning a legendary treasure said to detoxify any poison. |
