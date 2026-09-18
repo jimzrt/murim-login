@@ -503,3 +503,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 당사독 | 동봉 | Tang Family Head to visiting physician | you | blunt and testing | Uses 그대 while demanding Dong Feng's identity and purpose. |
 | 당사독 | 문경 | Family Head to visiting medical apprentice | you | blunt and probing | Asks whether Mungyeong is the Divine Physician's Disciple. |
 | 동봉 | 당사독 | physician to Family Head | you | formal-polite and measured | Uses 그대 while explaining that Tang Sadok must know Tang Mimi is unusual. |
+| 당사독 | 궁 노인 | Family Head to prison caretaker | Old Man Gung | familiar-supervisory | Tang Sadok asks about the prisoners and addresses the caretaker by surname and elder form. |
+| 궁 노인 | 당사독 | prison caretaker to Family Head | Family Head | deferential | Uses 가주님 while greeting Tang Sadok and reporting on the prisoners. |

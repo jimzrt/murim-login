@@ -1214,3 +1214,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 대사천당문 | **great Sichuan Tang Clan** | Exalted form of the Sichuan Tang Clan. |
 | 당미미 | **Tang Mimi** | Name Tang Sadok gave to his Thousand-Year Poison Horned Snake. |
 | 미미쨩 | **Mimi-chan** | Affectionate form used for Tang Mimi. |
+| 궁 노인 | **Old Man Gung** | Hunched caretaker of the Sichuan Tang Clan's underground prison. |
+| 천력마 | **Heavenly Power Demon** | Formerly imprisoned Tang Clan criminal; distinct from 천력부, Heavenly Axe. |
+| 회오리치기 | **Whirlwind** | Technique Mimi-chan performs at Cheongpung's command. |
