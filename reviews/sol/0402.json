@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "“I want to fight alongside you. But will they allow it?”",
+      "defect": "The draft resolves the unstated companion as Jin and makes the comrades’ permission apply to the act of fighting. In context, Lei Fei is wondering whether his former comrades will accept or permit him personally to fight with them after what he has done.",
+      "id": "F01",
+      "rationale": "The subject of 허락해 줄까 is 그들이, and the omitted object is naturally Lei Fei himself. Jin’s answer about “the people I know” confirms that Lei Fei is seeking the fallen Hunters’ acceptance.",
+      "replacement": "“I’d like to fight together. But will they allow me?”",
+      "severity": "major",
+      "source": "「함께 싸우고 싶군. 하지만 그들이 허락해 줄까?」"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Above their battered, filthy armor, the Five-Starred Red Flag—their symbol and pride—shone in the glow of the setting sun.",
+      "defect": "“Above their armor” relocates the Five-Starred Red Flag as though a separate flag were positioned overhead. The source places the symbol on the damaged armor.",
+      "id": "F02",
+      "rationale": "갑옷 위 means on the armor here, describing the national emblem displayed on their uniforms or armor and illuminated by the sunset.",
+      "replacement": "On their battered, filthy armor, the Five-Starred Red Flag—their symbol and pride—shone in the glow of the setting sun.",
+      "severity": "major",
+      "source": "부서지고 더럽혀진 갑옷 위, 그들의 상징이자 자부심인 오성홍기가 노을빛을 받아 빛난다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "> **System**\n>\n> - Information about the target has changed.\n> - The changed information is displayed through **Qi Sense**.\n\n> **Lv. 120 Lei Fei**",
+      "defect": "The level display is separated into a second blockquote even though no prose intervenes, splitting one consecutive System-message window.",
+      "id": "F03",
+      "rationale": "All consecutive System notices and fields must remain inside the same blockquote window.",
+      "replacement": "> **System**\n>\n> - Information about the target has changed.\n> - The changed information is displayed through **Qi Sense**.\n>\n> **Lv. 120 Lei Fei**",
+      "severity": "minor",
+      "source": "- 해당 대상에 관한 정보가 변경되었습니다.\n\n- 변경된 정보를 [기감]으로 표시합니다.\n\n\n\n[Lv.120 레이페이]"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Thrust!\n\nLei Fei pulled White Flame from his own chest and handed it to me, then raised his sword.",
+      "defect": "“Thrust” denotes driving a weapon inward, while the accompanying action is Lei Fei pulling the embedded spear out of his chest.",
+      "id": "F04",
+      "rationale": "푸푹 is a wet impact or extraction sound here; the following verb 뽑아 explicitly describes removal rather than a thrust.",
+      "replacement": "Schlk!\n\nLei Fei pulled White Flame from his own chest and handed it to me, then raised his sword.",
+      "severity": "minor",
+      "source": "푸푹!\n\n스스로 자신의 가슴에 박혀 있던 백염(白炎)을 뽑아 내게 건넨 그가 검을 치켜세웠다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Crumbly, dry sound.\n\nHis fingers broke apart into dust.",
+      "defect": "“Crumbly, dry sound” is an unnatural, verbless English fragment and does not smoothly connect the sound to his fingers disintegrating.",
+      "id": "F05",
+      "rationale": "The source directly links the dry crumbling sound to the fingers turning to powder, which can be expressed naturally in one sentence.",
+      "replacement": "With a dry, crumbling sound, his fingers broke apart into dust.",
+      "severity": "minor",
+      "source": "퍼석, 메마른 소리와 함께 손가락이 가루가 되어 부서진다."
+    }
+  ],
+  "summary": "Two meaningful fidelity issues alter Lei Fei’s appeal to his former comrades and the placement of their flag emblem. The draft also splits one consecutive System panel and contains two localized sound-effect/prose problems.",
+  "version": 1
+}

@@ -1,0 +1,102 @@
+{
+  "chapter": 402,
+  "files": {
+    "characters/Divine Physician.md": "3980a63dfb7f4339af53ce24a5e793c4e2c22dd0154435139220c95f0ca5535b",
+    "characters/Jin Taekyung.md": "24a09f9980e82c2c040c0eb51a35047027364e89a2533faf279b3aca529a07c9",
+    "characters/Jintae.md": "2ab9fdc5ac65ded492ae30563d08782589a0a2bfeffc1e31e6106629a95c3ade",
+    "characters/Lei Fei.md": "e498b2e0cd4ef2ddd958a76d0407075f9ca628d8106cd482eba8daa67496182c",
+    "docs/ADDRESS.md": "12cfb4c08ca1583146125841018dec5aacd756fbf22d01abba18bbe2b7ecaec0",
+    "docs/CONTEXT.json": "bc5e3a2cabb916daf7ce6c9c84853b1a69177276c1d83174065447d59d7628f3",
+    "docs/STATE.md": "89d43179685adff7c3460dbe913da6a0961282c4b699d74f751978358b6a5e3a",
+    "summaries/beats/0402.md": "6fd0c57ca906975ce23f92ed8f94c352ec774aac090901fa4dcf4af9a6b3f207"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "진태경",
+        "kinship": "former ally and fellow Hunter",
+        "normal_address": "you",
+        "notes": "Lei Fei uses 자네 and 하게 while asking Jin to help him fulfill his final mission.",
+        "speaker": "레이페이",
+        "speech_level": "familiar and respectful"
+      },
+      {
+        "addressee": "진태경",
+        "kinship": "undead commander addressing an allied human",
+        "normal_address": "treacherous human",
+        "notes": "The Skeleton Warlord calls Jin a treacherous human and later describes him as foolish but remarkable.",
+        "speaker": "스켈레톤 워로드",
+        "speech_level": "insulting and blunt"
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "Jin's word 'rest' helps break the control binding Lei Fei and restores Lei Fei's human memories and identity.",
+        "Lei Fei is now identified as a level-120 undead; his body is collapsing, and the remaining mana within him temporarily sustains it.",
+        "Lei Fei chooses to fight one final battle rather than seek immediate release, reaffirming the oath he made when he became a Hunter.",
+        "Lei Fei's call raises hundreds of fallen Public Security Armed Forces Department Hunters as undead for the final battle.",
+        "Lei Fei dies after the battle, disintegrating into dust after entrusting Jin with his final message and ordering him to go west and end the war."
+      ],
+      "plot": [
+        "Jin's command to rest breaks the Arch Lich's control over the black knight, restoring Lei Fei's memories and identity. Lei Fei is revealed as a level-120 undead whose body is collapsing, but he asks Jin to help him fulfill his final mission as a Hunter.",
+        "Lei Fei summons the fallen Public Security Armed Forces Department Hunters as undead and leads them alongside Jin against the remaining monster army. Jin and Lei Fei destroy the monsters, including the ogres, Trolls, Wyverns, and Gargoyles.",
+        "After the battle, the undead Hunters collapse and Lei Fei's body begins to disintegrate. He asks Jin to tell his family that he loves them and is sorry he could not return, then turns to dust after telling Jin to go west and end the war; dozens of aircraft arrive afterward."
+      ],
+      "translation_decisions": [
+        "Keep Lei Fei's restored voice formal, wistful, and gently familiar with Jin.",
+        "Keep the distinction between the black knight, the Death Knight Lord, and the restored human identity of Lei Fei.",
+        "Preserve Jin's blunt, profane combat voice while rendering his exchange with Lei Fei as restrained and emotional."
+      ]
+    },
+    "chapter": 402,
+    "context": {
+      "active_continuity": [
+        "The black knight was Lei Fei, whose human identity and memories were restored when Jin told him to rest.",
+        "Lei Fei was raised by Wei Fenghu, whom he regarded as both uncle and father, and his human memories include his wife and daughter.",
+        "Lei Fei was a level-120 undead Death Knight Lord when his identity returned, but his body was already collapsing.",
+        "Lei Fei's undead service and slaughter of humans were caused by the Arch Lich's control rather than his own will.",
+        "Lei Fei reaffirmed his Hunter oath and fought one final battle beside Jin.",
+        "Lei Fei raised the fallen Public Security Armed Forces Department Hunters as undead for the final battle.",
+        "Jin and Lei Fei's forces destroyed the remaining monster army, after which the undead Hunters collapsed.",
+        "Lei Fei died and scattered into dust after asking Jin to send his love and apology to his family.",
+        "Lei Fei's final instruction to Jin was to go west and end the war.",
+        "Dozens of aircraft arrived over the battlefield after Lei Fei's death."
+      ],
+      "continuity_sources": [
+        402,
+        401
+      ],
+      "open_questions": [
+        "Who is Lei Fei's unidentified lord, what is the lord's origin, and how does the lord relate to the Arch Lich's objective?",
+        "What happened to Lei Fei's wife and daughter during the Gaoping District Monster Wave?",
+        "What happened to the Second Fiend assigned to the Qingcheng attack?",
+        "What awaits Jin to the west, and how can the ongoing war be ended?"
+      ],
+      "safe_through": 402,
+      "temporary_decisions": [
+        "Render 나이트메어 as Nightmare.",
+        "Use black knight for 검은 기사 and keep it distinct from Death Knight and Death Knight Lord.",
+        "Render 언령 as word-spell.",
+        "Render 중화 육성 훈련 as Zhonghua Development Training.",
+        "Preserve Jin's blunt, profane combat voice."
+      ],
+      "version": 1
+    },
+    "names": [],
+    "profile_creations": [],
+    "profile_updates": [
+      {
+        "current": "- **Role:** Lei Fei is a concealed Chinese S-rank Hunter and former head of the Public Security Armed Forces Department in Sichuan Province who now exists as a level-140 undead Death Knight Lord and supreme commander of the legion of the dead.",
+        "path": "characters/Lei Fei.md",
+        "replacement": "- **Role:** Lei Fei is a concealed Chinese S-rank Hunter and former head of the Public Security Armed Forces Department in Sichuan Province who recovered his human identity after becoming a level-120 undead Death Knight Lord and died fulfilling his final mission."
+      },
+      {
+        "current": "- **Relationships:** Wei Fenghu is his maternal uncle who raised him as a son; Lei Fei married an unnamed flower-shop owner and had a daughter, trained alongside Wu Heixing, and now serves an unidentified lord after the Arch Lich corrupted him.",
+        "path": "characters/Lei Fei.md",
+        "replacement": "- **Relationships:** Wei Fenghu is his maternal uncle who raised him as a son; Lei Fei married an unnamed flower-shop owner and had a daughter, trained alongside Wu Heixing, and was corrupted by the Arch Lich before Jin Taekyung restored his identity."
+      }
+    ],
+    "version": 1
+  },
+  "version": 1
+}

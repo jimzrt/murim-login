@@ -1,24 +1,24 @@
 # Translation State
 
-- Last completed: 401
-- Next chapter: 402
-- Current block: 400–404 (2/5)
-- Latest translation: `translations/0401.md`
-- Latest summary: `summaries/beats/0401.md`
-- Safe profiles through: chapter 401
+- Last completed: 402
+- Next chapter: 403
+- Current block: 400–404 (3/5)
+- Latest translation: `translations/0402.md`
+- Latest summary: `summaries/beats/0402.md`
+- Safe profiles through: chapter 402
 
 ## Current Block
 
-- Jin Taekyung recognizes the Death Knight Lord as Lei Fei, Wei Fenghu's nephew and China's secretly raised S-rank Hunter. Lei Fei's trembling body and human-looking eyes make Jin briefly wonder whether his undead transformation is incomplete, but Lei Fei invokes his lord, absorbs the death energy of fallen monsters, restores his armor and bones, and identifies himself as the supreme commander of the legion of the dead.
-- Jin accepts that Lei Fei has become a monster and continues the battle. The Death Knight Lord imitates Jin's martial arts, including the Flame Divine Palm, but Jin's greater experience and power gradually destroy his armor. Jin uses Seizing an Object Through Empty Space to pull White Flame through Lei Fei's chest and tells him to rest.
+- Jin's command to rest breaks the Arch Lich's control over the black knight, restoring Lei Fei's memories and identity. Lei Fei is revealed as a level-120 undead whose body is collapsing, but he asks Jin to help him fulfill his final mission as a Hunter.
+- Lei Fei summons the fallen Public Security Armed Forces Department Hunters as undead and leads them alongside Jin against the remaining monster army. Jin and Lei Fei destroy the monsters, including the ogres, Trolls, Wyverns, and Gargoyles.
+- After the battle, the undead Hunters collapse and Lei Fei's body begins to disintegrate. He asks Jin to tell his family that he loves them and is sorry he could not return, then turns to dust after telling Jin to go west and end the war; dozens of aircraft arrive afterward.
 
 ## Open Questions
 
-- Who is Lei Fei's lord, what is the lord's origin, and how does the lord relate to the Arch Lich's objective?
-- Can Lei Fei resist the word-spell and retain or recover his human identity?
+- Who is Lei Fei's unidentified lord, what is the lord's origin, and how does the lord relate to the Arch Lich's objective?
 - What happened to Lei Fei's wife and daughter during the Gaoping District Monster Wave?
-- What is Lei Fei's condition after Jin pierces his chest with White Flame?
 - What happened to the Second Fiend assigned to the Qingcheng attack?
+- What awaits Jin to the west, and how can the ongoing war be ended?
 
 ## Exceptional Decision
 

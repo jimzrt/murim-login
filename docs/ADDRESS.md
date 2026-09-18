@@ -637,3 +637,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 데스나이트 로드 | hostile opponents | you; you son of a bitch | casual and profane | Taekyung taunts the Death Knight Lord while counterattacking and damaging his armor. |
 | 레이페이 | 웨이펑후 | nephew_to_maternal_uncle_and_adoptive_father | Uncle; later Father | childlike-familiar | Lei Fei calls Wei Fenghu his uncle and later acknowledges him as his father. |
 | 진태경 | 레이페이 | former ally and fellow Hunter | Lei Fei | blunt and solemn | Jin addresses Lei Fei by name before telling him to rest. |
+| 레이페이 | 진태경 | former ally and fellow Hunter | you | familiar and respectful | Lei Fei uses 자네 and 하게 while asking Jin to help him fulfill his final mission. |
+| 스켈레톤 워로드 | 진태경 | undead commander addressing an allied human | treacherous human | insulting and blunt | The Skeleton Warlord calls Jin a treacherous human and later describes him as foolish but remarkable. |
