@@ -607,3 +607,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 샤오 쉔 | 진태경 | subordinate_to_older_brother_figure | Hyung | polite | Shao Shen addresses Jin as 형님 while reporting battlefield and headquarters matters. |
 | 진태경 | 랴오 상장 | allied_Hunter_to_foreign_general | General | formal-to-hostile-casual | Jin initially addresses Liao respectfully as 장군님 before becoming openly hostile. |
 | 랴오 상장 | 진태경 | foreign_general_to_allied_Hunter | Mr. Jin | formal | Liao repeatedly addresses Jin as 진 선생 while attempting to maintain rank-based formality. |
+| 장 웨이 | 왕 상교 | Subordinate company commander addressing a superior colonel | Colonel Wang | Formal and deferential | Zhang Wei directly questions Colonel Wang about the operation. |
+| 소대장 | 장 웨이 | Subordinate platoon commander addressing his company commander | Company Commander | Blunt but respectful | A platoon commander addresses Zhang Wei by his command title while affirming the unit's loyalty. |
