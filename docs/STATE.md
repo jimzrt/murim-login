@@ -1,22 +1,21 @@
 # Translation State
 
-- Last completed: 414
-- Next chapter: 415
-- Current block: 410–414 (5/5)
-- Latest translation: `translations/0414.md`
-- Latest summary: `summaries/beats/0414.md`
-- Safe profiles through: chapter 414
+- Last completed: 415
+- Next chapter: 416
+- Current block: 415–419 (1/5)
+- Latest translation: `translations/0415.md`
+- Latest summary: `summaries/beats/0415.md`
+- Safe profiles through: chapter 415
 
 ## Current Block
 
-- Jin Taekyung confronts Wu Heixing over protecting himself while his allies died, and Lee Jungryong intervenes to prevent their argument from becoming a fight.
-- Lee Jungryong reveals that the Arch Lich has kept an estimated fifty thousand monsters in reserve only twenty kilometers from their position. Team Leader Choi infers that the smaller-than-expected front-line forces created enough strength for a counterattack and identifies S-rank Hunters as one-person armies capable of overturning the battle.
-- Prince Felix, Faye Chen, and Magic Johnson arrive through a dangerous teleport, followed by ten thousand reinforcements from the Western and Eastern Fronts. Team Leader Choi declares that the allied forces will win, and Jin Taekyung believes him.
+- The coalition's frontal battle against the Arch Lich's monster army begins. Magic Johnson and Faye Chen devastate thousands of monsters, but the army continues its charge. Ares Guild and the suicide squad form up and advance, while Jin Taekyung, Lee Jungryong, and Wu Heixing choose to break through together as a three-S-rank strike force toward the Arch Lich. Jin fights through Death Knights and other monsters, receives Hero's Soul from Team Leader Choi, and sees a city shrouded in darkness beyond the battlefield.
 
 ## Open Questions
 
-- Can the combined forces break through the Arch Lich's fifty-thousand-monster reserve and reach it?
-- What further defenses await the coalition beyond the Arch Lich's reserve army?
+- Can Jin Taekyung, Lee Jungryong, and Wu Heixing break through the monster army and reach the Arch Lich?
+- What awaits the coalition in the city shrouded in darkness?
+- Why has the Skeleton Warlord become unsettled and stopped wanting to absorb mana?
 
 ## Exceptional Decision
 
@@ -24,7 +23,7 @@
 - Render 결사대 as suicide squad.
 - Render 일인군단 as one-person army.
 - Render 영웅의 혼 as Hero's Soul.
-- Render 장유유서 as Respect your elders.
+- Render 포메이션 J as Formation J, with its joke explained as “Just fucking fight.”
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

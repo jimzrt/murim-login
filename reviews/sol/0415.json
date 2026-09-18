@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "Magic Johnson shook both hands, his eyes sunk deep with focus.",
+      "defect": "“Shook both hands” changes his deliberate spellcasting gesture into trembling, while “with focus” replaces the source’s grave, subdued gaze.",
+      "id": "F01",
+      "rationale": "떨쳤다 describes a forceful outward gesture here, not involuntary shaking, and 깊게 가라앉은 눈빛 conveys solemn gravity rather than mere concentration.",
+      "replacement": "Magic Johnson flung both hands out, his gaze grave.",
+      "severity": "critical",
+      "source": "매직 존슨은 깊게 가라앉은 눈빛으로 두 손을 떨쳤다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "The flames left behind by Fire Cannon went out, and water drenched everything around us.",
+      "defect": "The draft introduces a first-person collective viewpoint absent from this third-person passage.",
+      "id": "F02",
+      "rationale": "사방 refers impersonally to the surroundings; it does not establish an observing “us.”",
+      "replacement": "The flames left behind by Fire Cannon went out, and the surrounding area was flooded with water.",
+      "severity": "minor",
+      "source": "파이어 캐논이 남긴 불길이 꺼지고 사방이 물로 흥건했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The lightning struck both the sky and the ground without discrimination.",
+      "defect": "The draft makes the sky itself a target, whereas the source says the lightning struck monsters both in the air and on the ground.",
+      "id": "F03",
+      "rationale": "공중과 지상을 가리지 않았다 distinguishes airborne and ground-based targets, as immediately demonstrated by the falling Gargoyles and Griffins.",
+      "replacement": "The lightning struck targets in the air and on the ground indiscriminately.",
+      "severity": "major",
+      "source": "낙뢰는 공중과 지상을 가리지 않았다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“It’s the battle formation our big brother decided on.”",
+      "defect": "“Our big brother” sounds like literal shared kinship and flattens Shao Shen’s respectful junior-to-senior address.",
+      "id": "F04",
+      "rationale": "형님 is a respectful male junior-to-senior address and must remain “Hyung” when the relationship term itself is the topic.",
+      "replacement": "“Hyung is the one who came up with this battle formation.”",
+      "severity": "major",
+      "source": "「형님께서 정해 주신 전투 대형입니다.」"
+    },
+    {
+      "confidence": 0.92,
+      "current": "Muted battle cries and killing intent erupted all around us.",
+      "defect": "“Muted” understates 먹먹한, which describes cries so overwhelming that they leave the ears numb, and “all around us” adds an absent viewpoint.",
+      "id": "F05",
+      "rationale": "In this clash, 먹먹한 conveys the overwhelming, ear-numbing force of the cries rather than quiet or suppressed sound.",
+      "replacement": "Deafening battle cries and killing intent erupted.",
+      "severity": "minor",
+      "source": "먹먹한 함성과 살기가 터져 나온다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "The four-meter-tall figure reflected in its pale, lifeless pupils.",
+      "defect": "The draft makes the reflected figure four meters tall. The source says the monster is nearly four meters tall and Jin’s reflection appears in its eyes.",
+      "id": "F06",
+      "rationale": "The two source clauses have different subjects: 4m에 달하는 체구 describes the monster’s build, while 내 모습 is what its pupils reflect.",
+      "replacement": "It stood nearly four meters tall. My reflection appeared in its pale pupils, long since drained of light.",
+      "severity": "critical",
+      "source": "4m에 달하는 체구. 이미 빛이 사라진 희끄무레한 동공에 내 모습이 비쳤다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“I don’t know who you used to be, but you worked hard.”",
+      "defect": "“You worked hard” sounds like praise for effort and loses Jin’s somber acknowledgment of the dead Hunter’s suffering.",
+      "id": "F07",
+      "rationale": "In this farewell to an undead former human, 고생했다 recognizes hardship and suffering rather than job performance.",
+      "replacement": "“I don’t know who you were, but you’ve been through a lot.”",
+      "severity": "major",
+      "source": "“네가 누구였는지는 몰라도, 고생했다.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“There are too many monsters. It’s impossible to make a path for the entire suicide squad to escape.”",
+      "defect": "“Escape” suggests retreating from the battle, changing the objective. Lee is saying they cannot open a route for the whole squad to get through the monster army toward the Arch Lich.",
+      "id": "F08",
+      "rationale": "The following proposal to continue with only three elite Hunters establishes that 빠져나갈 길 means a route through the surrounding monsters, not a retreat.",
+      "replacement": "“There are too many monsters. It’s impossible to make a path for the entire suicide squad to get through.”",
+      "severity": "critical",
+      "source": "“몬스터의 숫자가 너무 많네. 결사대 전원이 빠져나갈 길을 만드는 건 무리야.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Fortunately, I’m not too late.”\n\nHis appearance was completely at odds with his words.",
+      "defect": "The draft changes Lee Jungryong’s observation that Wu arrived in time into a first-person statement, then omits Wu’s breathless boast and Jin’s specific callback that Wu nearly died to those same monsters an hour earlier.",
+      "id": "F09",
+      "rationale": "The speakers and subjects are explicit from the alternating quotation styles and context. The omitted boast and internal response provide the scene’s characterization and punchline.",
+      "replacement": "“Good. You made it in time.”\n\nWu Heixing let out a ragged breath. “Mere monsters could never stop me.”\n\n*Didn’t that bastard nearly die to those very same monsters about an hour ago?*",
+      "severity": "critical",
+      "source": "“다행히 늦지 않게 왔군.”\n\n「후욱. 몬스터 따위가 절 막을 수는 없지요.」\n\n저놈, 한 시간 전쯤에 바로 그 몬스터 따위한테 죽을 뻔하지 않았었나?"
+    }
+  ],
+  "summary": "The draft contains several altered actions and subjects, including Magic Johnson’s casting gesture, the Troll’s height, the suicide squad’s objective, and Lee Jungryong’s exchange with Wu Heixing. It also loses a hierarchy marker and several emotional or atmospheric nuances.",
+  "version": 1
+}

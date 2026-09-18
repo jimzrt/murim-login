@@ -1,6 +1,6 @@
 # Felix (필릭스)
 
-- **Safe through:** Chapter 414
+- **Safe through:** Chapter 415
 - **Aliases:** Prince Felix
 - **Role:** British prince and S-rank Hunter who joins the reinforcement force against the Arch Lich.
 - **Personality:** Haughty, self-important, and conscious of royal duty.
