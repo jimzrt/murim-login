@@ -1,25 +1,23 @@
 # Translation State
 
-- Last completed: 322
-- Next chapter: 323
-- Current block: 320–324 (3/5)
-- Latest translation: `translations/0322.md`
-- Latest summary: `summaries/beats/0322.md`
-- Safe profiles through: chapter 322
+- Last completed: 323
+- Next chapter: 324
+- Current block: 320–324 (4/5)
+- Latest translation: `translations/0323.md`
+- Latest summary: `summaries/beats/0323.md`
+- Safe profiles through: chapter 323
 
 ## Current Block
 
-- Wolhwa reveals that she accepted Taekyung's commission, while Heukgeol, head of the Beggars' Sect's Xi'an branch, and Gung Gibang mobilize their sect's support. The Beggars' Sect and Lower District Sect bring extensive records to Tengwang Pavilion.
-- The gathered evidence shows that the Zhongnan Sect covertly manipulated the Yongbong Escort Bureau's failures for two years, including the failed Geumo Merchant Guild transaction and the disappearance of the Thousand-Year Snow Ginseng. Ju Hwaran realizes that her suspicions were correct and joins the investigation.
-- As information about the conspiracy is presented, Hwangbo Eom loses his composure and murderous intent overwhelms his former restraint. He uses Seizing an Object Through Empty Space to draw his sword into his hand.
+- Hwangbo Eom attacks Jin Taekyung with Sword Force inside Tengwang Pavilion, but Taekyung dodges through his physically transcendent abilities and protects Ju Hwaran. Hwangbo orders the Taeeul Sword Unit to seal the exits; Hyuk Sopyung initially resists, but obeys after Hwangbo produces the Sect Leader's Command Token. Hwangbo reveals that he knows Jeok Cheongang's illness is serious and threatens to settle his bad blood with the Fire Gate Clan. Taekyung orders everyone to block the entrance and challenges Hwangbo, beginning a fierce duel in which he counters the Heavenly River Thirty-Six Swords and Taeeul Light-Dividing Sword with the Fire Dragon Divine Spear; the clash remains unresolved as Heavenly Strike unleashes a pillar of hellfire.
 
 ## Open Questions
 
 - Who replaced the contracted Thousand-Year Snow Ginseng, and when did the substitution occur?
 - Which Zhongnan figures participated in manipulating the Yongbong Escort Bureau's failures and arranging the shipment trap?
-- How will Hwangbo Eom respond now that he has drawn his sword?
+- How will the duel between Taekyung and Hwangbo Eom end, and what immediate fallout will it cause?
 - What further details will the Beggars' Sect and Lower District Sect records reveal about the two-year conspiracy?
-- Can the Yongbong Escort Bureau complete the current escort mission after the conspiracy has been exposed?
+- Can the Yongbong Escort Bureau complete the current escort mission after the conspiracy and Hwangbo Eom's attack have been exposed?
 
 ## Exceptional Decision
 

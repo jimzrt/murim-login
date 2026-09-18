@@ -463,3 +463,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 황보엄 | 월화 | Zhongnan_senior_to_Lower_District_Sect_leader | you | cold and commanding | Hwangbo orders Wolhwa to withdraw from the dispute. |
 | 궁기방 | 황보엄 | Beggars_Sect_successor_to_Zhongnan_senior | Great Hero Hwangbo | formally deferential but defiant | Gung invokes Hwangbo's title while asserting the Beggars' Sect's pride and rules. |
 | 흑걸개 | 황보엄 | Beggars_Sect_branch_leader_to_Zhongnan_senior | Great Hero Hwangbo | deferential and evasive | Heukgeol uses the respectful title while refusing to withdraw the branch's support. |
+| 황보엄 | 적천강 | rival_martial_masters | Fire King Jeok Cheongang | cold and taunting | Reveals that he knows Jeok's illness and threatens to settle his bad blood with the Fire Gate Clan. |
