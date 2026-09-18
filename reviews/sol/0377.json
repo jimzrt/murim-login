@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Don’t remind me. They dared to steal government uniforms from somewhere and disrupt the order of the Great Nation.”",
+      "defect": "The draft omits that the martial artists wore the stolen government uniforms, removing the disguise action central to the City Lord’s complaint.",
+      "id": "F01",
+      "rationale": "훔쳐 입고 explicitly means that they stole the uniforms and wore them.",
+      "replacement": "“Don’t remind me. They dared to steal government uniforms from who knows where, put them on, and disrupt the order of the Great Nation.”",
+      "severity": "critical",
+      "source": "어디서 구했는지 감히 관군의 복식까지 훔쳐 입고 대국의 질서를 어지럽히다니."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I told you before we departed. In front of anyone other than the Fire King and Cheongpung, you are to address me as Mungyeong.”",
+      "defect": "The draft narrows Mungyeong’s instruction to using his name, when he is telling Taekyung to treat him according to his Mungyeong persona, including the appropriate speech hierarchy.",
+      "id": "F02",
+      "rationale": "문경으로 대하라고 means to treat or interact with him as Mungyeong, which explains Taekyung’s immediate objection to Mungyeong speaking informally.",
+      "replacement": "“I told you before we departed. In front of anyone other than the Fire King and Cheongpung, you are to treat me as Mungyeong.”",
+      "severity": "major",
+      "source": "“출발할 때 말했을 텐데. 화왕과 청풍을 제외한 다른 사람 앞에서는 문경으로 대하라고.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "His favorite concubine threw back her head and laughed.",
+      "defect": "The draft adds the unsupported physical action of throwing back her head.",
+      "id": "F03",
+      "rationale": "The source specifies audible laughter but says nothing about her head or posture.",
+      "replacement": "His favorite concubine laughed aloud.",
+      "severity": "minor",
+      "source": "애첩은 소리 내어 깔깔 웃었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "*What kind of nonsense was that?*",
+      "defect": "The generic paraphrase removes the deliberately crude fart comparison and its humor.",
+      "id": "F04",
+      "rationale": "말인가 방귀인가 explicitly contrasts speech with a fart as an insulting comic reaction.",
+      "replacement": "*Were those words or a fart?*",
+      "severity": "minor",
+      "source": "이게 말인가 방귀인가."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Nothing. I thought I heard some crazy woman laughing just now.”",
+      "defect": "The draft sanitizes the strongly derogatory 미친년, weakening Taekyung’s blunt register and the transition’s dark humor.",
+      "id": "F05",
+      "rationale": "미친년 is explicitly profane and is stronger than “crazy woman.”",
+      "replacement": "“Nothing. I thought I heard some crazy bitch laughing just now.”",
+      "severity": "major",
+      "source": "“아니, 방금 무슨 미친년 웃는 소리를 들은 것 같아서.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "His voice was desperate. But the concubine caught the City Lord’s hand as it reached to stroke her body.",
+      "defect": "“Stroke” softens the explicitly sexual, intrusive action conveyed by 더듬어 오는.",
+      "id": "F06",
+      "rationale": "더듬다 in this sexual context means to grope or fondle, not merely to stroke.",
+      "replacement": "His voice was desperate. But the concubine caught the City Lord’s hand as it reached over to grope her body.",
+      "severity": "major",
+      "source": "간절한 목소리. 하지만 애첩은 자신의 몸을 더듬어 오는 사천성주의 손길을 붙잡았다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“You’re speaking informally too, asshole.”\n\n“…”\n\n“Ah. Sorry.”",
+      "defect": "The missing exclamation mark flattens Mungyeong’s shocked reaction and weakens the comic beat before Taekyung’s apology.",
+      "id": "F07",
+      "rationale": "The source’s ……! signals stunned offense rather than a neutral silence.",
+      "replacement": "“You’re speaking informally too, asshole.”\n\n“…!”\n\n“Ah. Sorry.”",
+      "severity": "minor",
+      "source": "“너도 지금 반말하고 있잖아, 새꺄.”\n\n“……!”\n\n“아, 죄송.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“What business is it of yours?”\n\n“…”\n\nThis was surprisingly fun.",
+      "defect": "The draft again removes Mungyeong’s emphatic, affronted reaction, dulling the repeated joke.",
+      "id": "F08",
+      "rationale": "The exclamation in ……! is the reaction that makes Taekyung find the exchange amusing.",
+      "replacement": "“What business is it of yours?”\n\n“…!”\n\nThis was surprisingly fun.",
+      "severity": "minor",
+      "source": "“네가 알아서 뭐 하게.”\n\n“……!”\n\n이거 은근히 재밌네."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I’m going to take a nap. Don’t wake me.”\n\n“…”",
+      "defect": "The draft changes Mungyeong’s puzzled reaction into an unmarked silence.",
+      "id": "F09",
+      "rationale": "The source question mark explicitly shows confusion and supports the transition to Taekyung’s private meaning of awakening from a long sleep.",
+      "replacement": "“I’m going to take a nap. Don’t wake me.”\n\n“…?”",
+      "severity": "minor",
+      "source": "“한숨 자러 간다. 깨우지마라.”\n\n“……?”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Though the government and Murim were mutually noninterfering domains that treated each other as though they were none of their business, well over a thousand people had died throughout Sichuan over the past seven days and nights.",
+      "defect": "The clause is grammatically strained: abstract “domains” are made to treat each other as though “they” were none of their business.",
+      "id": "F10",
+      "rationale": "This naturally preserves both 상호 불가침의 영역 and the 소 닭 보듯 image’s meaning of mutual indifference.",
+      "replacement": "Though the government and Murim occupied mutually noninterfering spheres and generally ignored each other, well over a thousand people had died throughout Sichuan over the past seven days and nights.",
+      "severity": "minor",
+      "source": "비록 관과 무림이 서로를 소 닭 보듯 하는 상호 불가침의 영역이라고는 하지만, 지난 칠 주야 동안 천 명이 훌쩍 넘는 사람들이 사천 땅 곳곳에서 죽어 나갔다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Splash! Gasp! Captain, save me! Gasp!",
+      "defect": "The draft completes the plea, losing the joke that the speaker is cut off by being dunked again mid-sentence.",
+      "id": "F11",
+      "rationale": "The comma after 살려 and the immediate 푸하 indicate an interrupted cry rather than a completed exclamation.",
+      "replacement": "Splash! Gasp! Captain, save—gasp!",
+      "severity": "minor",
+      "source": "첨벙, 푸하! 조장님, 살려, 푸하!"
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it omits one material disguise action, narrows Mungyeong’s identity-management instruction, softens profanity and sexual conduct, adds an unsupported physical action, and loses several comedic pragmatic cues.",
+  "version": 1
+}

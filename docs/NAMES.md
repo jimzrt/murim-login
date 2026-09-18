@@ -1325,3 +1325,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 독룡각 | **Poison Dragon Pavilion** | A pavilion of the Sichuan Tang Clan. |
 | 당호룡 | **Tang Horyong** | Master of Poison Dragon Pavilion and Acting Family Head of the Sichuan Tang Clan. |
 | 홍무 | **Hongwu** | Reign name of the founding emperor of the Ming dynasty. |
+| 화룡갑 | **Fire Dragon Armor** | Jin Taekyung's renamed bound armor, formerly the Black Dragon Armor. |

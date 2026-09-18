@@ -1,6 +1,6 @@
 # Mungyeong (문경)
 
-- **Safe through:** Chapter 376
+- **Safe through:** Chapter 377
 - **Aliases:** None
 - **Role:** Mungyeong is the legendary physician known as the Divine Physician and former Slaughter Saint, and he has sworn never to kill again.
 - **Personality:** Compassionate, resolute, resourceful, and calm under extreme pressure.
