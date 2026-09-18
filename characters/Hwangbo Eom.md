@@ -1,6 +1,6 @@
 # Hwangbo Eom (황보엄)
 
-- **Safe through:** Chapter 357
+- **Safe through:** Chapter 363
 - **Aliases:** Taeeul Merciless Sword
 - **Role:** Supreme Peak master of the Zhongnan Sect and its Second Martial Uncle, known as the Taeeul Merciless Sword.
 - **Personality:** Ruthless, severe, proud, and deeply invested in restoring Zhongnan's standing.
