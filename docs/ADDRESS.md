@@ -693,3 +693,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 스켈레톤 워로드 | 인간 | undead commander to human ally | human | familiar and alarmed | The Skeleton Warlord repeatedly warns Jin during the battle. |
 | 진태경 | 스켈레톤 워로드 | human commander to captive undead commander | food parasite | mocking and familiar | Jin mocks the Skeleton Warlord for wanting mana and calls him a food parasite. |
 | 최 팀장 | 진태경 | senior allied commander to younger S-rank Hunter | Mr. Jin | urgent and concerned | Team Leader Choi calls to Jin while giving him Hero's Soul and warning him to be careful. |
+| 진태경 | 사령관 | captor to captive undead commander | you | casual, mocking, and dismissive | Taekyung addresses the Skeleton Warlord informally while rejecting its pleas to turn back. |
