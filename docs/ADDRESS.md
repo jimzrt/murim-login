@@ -515,3 +515,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 당사독 | 녹영대원 | Family Head to subordinate | you | formal-commanding | Tang Sadok uses 자네 while questioning the injured Green Shadow Squad martial artist. |
 | 서천마군 | 당사독 | hostile_opponents | you | calm and taunting | The Western Heaven Demon Lord uses 자네 while answering Tang Sadok's question. |
 | 당사독 | 서천마군 | hostile_opponents | you bastard | hostile and threatening | Tang Sadok uses 네놈 after recognizing the disguised infiltrator. |
+| 일괴 | 당진후 | enemy_to_enemy; former_acquaintances | youngster | mocking and taunting | First Fiend recognizes Tang Jinhu and repeatedly addresses him as a youngster while threatening the Tang Clan. |
+| 당진후 | 일괴 | enemy_to_enemy | you; Fiend | hostile and defiant | Tang Jinhu calls First Fiend a Fiend and vows to kill him. |

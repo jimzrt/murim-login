@@ -1,6 +1,6 @@
 # Western Heaven Demon Lord (서천마군)
 
-- **Safe through:** Chapter 353
+- **Safe through:** Chapter 354
 - **Aliases:** None
 - **Role:** Middle-aged Western Heaven Demon Lord who infiltrated the Sichuan Tang Clan disguised as a Green Shadow Squad martial artist, uses an unexplained demonic martial art to alter his body and restore his lost left arm, and commands hundreds of black-robed hunters.
 - **Personality:** Cold, detached, patient, and utterly ruthless toward those he interrogates or hunts.
