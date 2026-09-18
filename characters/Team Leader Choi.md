@@ -1,6 +1,6 @@
 # Team Leader Choi
 
-- **Safe through:** Chapter 318
+- **Safe through:** Chapter 386
 - **Aliases:** Choi Minwoo (최민우)
 - **Role:** Former Ares Guild team leader and reawakened Hunter publicly classified as C-rank; Guild Master and team leader of the expanding Peace Guild. He manages rookie training and raid assignments. After Jin Taekyung guided his internal energy, he completed the Jin Family's Cultivation Technique, became a martial artist, controlled his scattered mana, nearly doubled his mana reserves, and reached Four Stars after further practice while developing a hidden internal-energy reserve equivalent to one jiazi.
 - **Personality:** Calm, observant, practical, and decisive under pressure.

@@ -1,0 +1,136 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "At Lee’s gaze, Wu Heixing hurriedly waved both hands.",
+      "defect": "The draft adds that Wu waves both hands, while the source does not specify two.",
+      "id": "F01",
+      "rationale": "This preserves the hurried gesture without adding an unsupported quantity.",
+      "replacement": "Under Lee’s gaze, Wu Heixing hurriedly waved his hands in denial.",
+      "severity": "minor",
+      "source": "이정룡의 시선에 우헤이싱이 다급하게 손을 내저었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Wu Heixing lowered his head with an expression of deep gratitude.",
+      "defect": "황송하다 conveys feeling deeply honored or humbled, not gratitude.",
+      "id": "F02",
+      "rationale": "Wu is overawed by Lee’s acknowledgment rather than expressing simple thankfulness.",
+      "replacement": "Wu Heixing lowered his head, looking deeply humbled by the honor.",
+      "severity": "minor",
+      "source": "우헤이싱이 황송하다는 듯한 얼굴로 고개를 숙였다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "He was also the true head of the Ares Guild.",
+      "defect": "“True head” suggests legitimacy or official status, while 실질적인 수장 means the de facto or practical leader.",
+      "id": "F03",
+      "rationale": "The source distinguishes Lee’s practical control from the Guild Master’s formal position.",
+      "replacement": "He was also the de facto head of the Ares Guild.",
+      "severity": "minor",
+      "source": "21세기의 예수, 전 세계의 구원자라 불리는 천태민의 의형제이자 바로 그 아레스 길드의 실질적인 수장이니까."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Wu Heixing, who feared no one, was no exception.",
+      "defect": "안하무인 describes someone arrogantly contemptuous of others, not someone who is fearless.",
+      "id": "F04",
+      "rationale": "The source emphasizes Wu’s habitual arrogance and disregard for others, making his deference to Lee more significant.",
+      "replacement": "Even the overbearing Wu Heixing was no exception.",
+      "severity": "major",
+      "source": "안하무인인 우헤이싱도, 고귀한 혈통을 지닌 왕족도 예외는 아니었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "The awkward Korean produced by the translation magic and his ambiguous speech made for a strange combination.",
+      "defect": "The draft changes a translation device into magic, altering the scene’s mechanism.",
+      "id": "F05",
+      "rationale": "통역기 is a translator or translation device; the source does not describe it as magic.",
+      "replacement": "The Korean that came through the translation device was awkward, and his tone was hard to place.",
+      "severity": "critical",
+      "source": "통역기를 거친 어색한 한국어와 애매한 말투."
+    },
+    {
+      "confidence": 1.0,
+      "current": "But with those words, Felix Alexander Louis, third in line to the British throne, had made the difference between himself and the others perfectly clear.\n\nHe had allowed them to omit the title *His Highness Prince*.",
+      "defect": "The draft reverses the comparison: Felix distinguishes Lee Jungryong from everyone else, not himself from everyone else. It also changes the person granted permission from Lee alone to an unspecified plural “them.”",
+      "id": "F06",
+      "rationale": "Felix’s exceptional concession establishes Lee’s superior standing relative to the other attendees.",
+      "replacement": "But with those words, Felix Alexander Louis, third in line to the British throne, had made the difference between Lee Jungryong and everyone else perfectly clear.\n\nHe had gone so far as to let Lee omit the title *His Highness*.",
+      "severity": "critical",
+      "source": "하지만 이것으로 영국 왕위 계승 서열 3위, 필릭스 알렉산더 루이는 다른 이들과 이정룡의 차이를 분명히 했다. 무려 ‘왕자 전하’라는 호칭을 생략하게 해 준 것이다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "*They’ve grown stronger. In a way that makes before impossible to compare.*",
+      "defect": "The second sentence is an unnatural calque that obscures the straightforward comparison.",
+      "id": "F07",
+      "rationale": "The replacement naturally conveys that their present strength is incomparable to what Lee previously witnessed.",
+      "replacement": "*They’ve grown stronger. So much stronger than before that there’s no comparison.*",
+      "severity": "minor",
+      "source": "‘강해졌다. 전과는 비교할 수 없을 정도로.’"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Lee could sense it through his skin and sixth sense: the immense qi gathered throughout Jin Taekyung’s body, and the depths of his lowered eyes.",
+      "defect": "“Lowered eyes” invents a downward gaze. The source describes Jin’s eyes as deeply settled or profoundly still.",
+      "id": "F08",
+      "rationale": "The source presents Jin’s composed gaze as evidence of his transformed state, not as a physical act of looking down.",
+      "replacement": "Lee could sense it through his skin and sixth sense: the immense qi contained throughout Jin Taekyung’s body, and the profound stillness in his eyes.",
+      "severity": "major",
+      "source": "피부와 육감을 통해 느껴졌다. 진태경의 전신에 갈무리된 강대한 기운이. 깊게 가라앉은 놈의 눈동자가."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Lee Jungryong unconsciously clenched his fists.",
+      "defect": "The draft changes the source’s singular fist to plural and omits the forcefulness of the action.",
+      "id": "F09",
+      "rationale": "The replacement preserves both the singular physical action and 힘껏, which shows the intensity of Lee’s agitation.",
+      "replacement": "Without realizing it, Lee Jungryong clenched one fist tight.",
+      "severity": "minor",
+      "source": "이정룡은 자신도 모르게 주먹을 힘껏 움켜쥐었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "—Ah. Pingping?\n\n—Yes. Pingping.",
+      "defect": "The culturally specific mocking nickname is merely romanized without explanation.",
+      "id": "F10",
+      "rationale": "A concise footnote preserves the source nickname while making its historical reference intelligible to English readers.",
+      "replacement": "—Ah. Pingping?[^1]\n\n—Yes. Pingping.\n\n[^1]: “Pingping” is a mocking nickname derived from Xi Jinping’s given name.",
+      "severity": "minor",
+      "source": "- 아, 핑핑이?\n\n- 예. 핑핑이."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Good lord.",
+      "defect": "The draft replaces Jin’s immediate reaction to being startled by the impact with a generic exclamation.",
+      "id": "F11",
+      "rationale": "깜짝이야 specifically indicates that the sudden bang made Jin jump or startled him.",
+      "replacement": "*That startled me.*",
+      "severity": "minor",
+      "source": "깜짝이야."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Just as everyone rose from their seats after Wei Fenghu said that the exact numbers and formations would be provided in writing, it happened.",
+      "defect": "In this military context, 편제 means force or unit organization, not battlefield formations.",
+      "id": "F12",
+      "rationale": "Wei is promising written details about the allocated forces and their organizational structure.",
+      "replacement": "Just as everyone rose from their seats after Wei Fenghu said that the exact troop numbers and force organization would be provided in writing, it happened.",
+      "severity": "minor",
+      "source": "정확한 숫자와 편제를 서면으로 알려 준다는 웨이펑후의 말과 함께, 사람들이 자리에서 일어난 바로 그때였다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "“Come see me for a moment.”",
+      "defect": "The literal phrasing suggests that Jin must physically go somewhere, while the Korean is a pragmatic request for a brief private conversation.",
+      "id": "F13",
+      "rationale": "The replacement naturally conveys the speaker’s request to speak privately without inventing physical movement.",
+      "replacement": "“I need a word with you.”",
+      "severity": "minor",
+      "source": "- 잠깐 나 좀 보지."
+    }
+  ],
+  "summary": "Two critical factual distortions alter the translation mechanism and the hierarchy Felix establishes; several localized issues change characterization, physical actions, or military terminology.",
+  "version": 1
+}

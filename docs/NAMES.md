@@ -1359,3 +1359,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 우헤이싱 | **Wu Heixing** | Chinese S-rank Hunter who provokes Jin and nearly draws his sword. |
 | 필릭스 알렉산더 루이 | **Felix Alexander Louis** | British prince, third in line to the throne. |
 | 윌리엄 | **William** | Prince Felix's formal attendant or secretary. |
+| 랴오 상장 | **General Liao** | Chinese general and Crown Prince Party faction member. |
+| 태자당 | **Crown Prince Party** | The faction associated with General Liao. |
+| 상하이방 | **Shanghai Gang** | The rival faction associated with Shao Yang and Wei Fenghu. |
+| 핑핑이 | **Pingping** | Mocking nickname derived from Xi Jinping's given name. |

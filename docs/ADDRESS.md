@@ -588,3 +588,10 @@ Overrides generic relationship prose in character profiles for this pair.
 | 매직 존슨 | 진태경 | senior international S-rank Hunter to younger Hunter and acquaintance | Jin | casual and joking | Magic Johnson first uses Jin's online nickname and then switches to Jin at Taekyung's request. |
 | 진태경 | 매직 존슨 | younger Hunter to senior international S-rank Hunter | Johnson | casual and teasing | Jin directly addresses Magic Johnson while rejecting the proposed hand-kiss. |
 | 윌리엄 | 필릭스 알렉산더 루이 | formal attendant to British prince | His Highness Prince Felix | formal-deferential | William repeatedly recites Felix's full titles and speaks on his behalf. |
+| 이정룡 | 매직 존슨 | senior S-rank Hunter to fellow international S-rank Hunter | Magic Johnson | casual and teasing | Lee jokes with Magic Johnson about romantic interest. |
+| 파이 첸 | 이정룡 | fellow Great Cataclysm hero to senior S-rank Hunter | Mr. Lee | playful and polite | Faye responds to Lee's flirtatious remark. |
+| 우헤이싱 | 이정룡 | younger S-rank Hunter to senior Ares Guild authority | Mr. Lee | formal and deferential | Wu addresses Lee respectfully despite his usual hostility toward Koreans. |
+| 웨이펑후 | 이정룡 | senior military official to senior foreign S-rank Hunter | Mr. Lee | formal and concerned | Wei asks Lee whether something is wrong. |
+| 필릭스 | 이정룡 | British prince to senior S-rank Hunter | Jungryong Lee | formal through a translation device | Felix permits Lee to omit His Highness and gives his own preferred form of address. |
+| 랴오 상장 | 웨이펑후 | rival faction general to Minister of National Defense | Minister of National Defense Comrade | formal but confrontational | Liao interrupts Wei's operational proposal. |
+| 웨이펑후 | 랴오 상장 | Minister of National Defense to senior general | General Liao | formal and restrained | Wei responds to Liao's challenge during the war council. |

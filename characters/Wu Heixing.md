@@ -1,6 +1,6 @@
 # Wu Heixing (우헤이싱)
 
-- **Safe through:** Chapter 385
+- **Safe through:** Chapter 386
 - **Aliases:** None
 - **Role:** Wu Heixing is a Chinese S-rank Hunter known for frequent media exposure and a reputation for scandal.
 - **Personality:** Arrogant, status-conscious, abusive, and quick to anger when humiliated.
