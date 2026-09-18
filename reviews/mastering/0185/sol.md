@@ -88,7 +88,7 @@ If anything, he was more curious about his relationship with these new faces.
 
 “But who are all of you?”
 
-“We are all Disciples of Huashan, just like Martial Uncle Cheongpung.”
+“We are Disciples of Huashan, the same sect as you.”
 
 “Oh. But I’m just Grandpa’s grandson.”
 
@@ -106,7 +106,7 @@ Cheongpung murmured uncertainly.
 
 “I don’t really know. I think Grandpa mentioned them once, but…”
 
-“He even came to visit you with several others ten years ago.”
+“He came to visit you with several others ten years ago.”
 
 Cheongpung thought hard, then suddenly exclaimed,
 
@@ -242,9 +242,9 @@ Seeing his Junior Brother huff indignantly, Baek Museong let out a quiet laugh.
 
 “The rules apply only to Disciples of our sect. Would a Disciple of Qingcheng Sect be punished for violating Shaolin’s rules?”
 
-“Does that make any sense?”
+“That makes no sense.”
 
-“Of course it does. But Martial Uncle Cheongpung is… our Martial Uncle. He’s Grandmaster’s Disciple.”
+“Of course it doesn’t. But Martial Uncle Cheongpung is… our Martial Uncle. He’s Grandmaster’s Disciple.”
 
 “If only that were truly the case.”
 
@@ -260,7 +260,7 @@ But Cheongpung was different.
 
 Baek Museong remembered what had happened ten years ago with perfect clarity.
 
-After the Sword Saint had lived in seclusion for many years, his Master, the Heavenly Sword True Person, had led several people in searching Huashan himself. At last, they discovered a residence where a ten-year-old boy was swinging a sword.
+After the Sword Saint had remained in seclusion for many years, his Master, the Heavenly Sword True Person, had led several others in searching Huashan. At last, they found his dwelling—and a ten-year-old boy swinging a sword outside it.
 
 “It was unbelievable.”
 
@@ -316,7 +316,7 @@ Baek Museong hesitated before letting out a deep sigh.
 
 “First, we need to bring the Sleeping Dragon of Shanxi over to our side.”
 
-All three of them remembered Cheongpung’s final words at the same time.
+All three of them recalled Cheongpung’s final words.
 
 *I’m staying with my Benefactor!*
 
@@ -344,7 +344,7 @@ He was cramming the refreshments from the table into his mouth until his cheeks 
 
 “I didn’t really do anything.”
 
-“Young Hero Cheong defied the Sect Leader’s order. He said he would stay with the Third Young Master.”
+“Young Hero Cheongpung defied the Sect Leader’s order because he wants to stay with the Third Young Master.”
 
 “So?”
 
@@ -402,7 +402,7 @@ Unable to contain his anger, Wipeng shot to his feet.
 
 “Aaaaaah!”
 
-With his eyes rolling back, Wipeng let out a shriek and placed his hand on the sword hilt.
+His eyes rolling back, Wipeng let out a shriek and grabbed his sword hilt.
 
 But my next words froze him in place.
 
