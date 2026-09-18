@@ -509,18 +509,25 @@ def build_update_packet(number: int, reading_copy: str) -> str:
 
 Return exactly one JSON object and no Markdown fence. Record only facts established
 by this chapter. Do not use tools, edit prose, infer future events, or copy archived
-profile continuity.
+profile continuity. Profile updates are maintenance, not chapter recaps: replace
+existing fields to remove resolved events, stale travel/combat narration, and
+duplicated facts. Preserve only stable identity, role, personality, voice,
+relationships, and currently active unresolved/status facts. If a previous
+detail no longer helps translate a future chapter, delete it. Never add a fact
+merely because it appeared in the reading copy.
 
 `context` must contain exactly the durable context schema shown below, with version
 1 and safe_through {number}. Keep at most
 {workflow_config()["continuity_source_limit"]} continuity_sources. Keep
-`active_continuity` to at most 20 concise items, `open_questions` to at most 8
-items, and `temporary_decisions` to at most 8 items. Keep the serialized context
-under {workflow_config()["context_max_bytes"]} UTF-8 bytes. Use only chapter
-numbers through {number}. `profile_updates` may replace one exact, uniquely occurring
-complete line in a listed profile, and only an Aliases, Role, Personality, Voice, or
-Relationships line. Use `profile_creations` only for a newly introduced named
-character without a listed profile. Filenames must be plain `.md` basenames.
+`active_continuity` to at most {workflow_config().get("context_thresholds", {}).get("active_continuity", 12)} concise items,
+`open_questions` to at most {workflow_config().get("context_thresholds", {}).get("open_questions", 5)} items, and
+`temporary_decisions` to at most {workflow_config().get("context_thresholds", {}).get("temporary_decisions", 5)} items.
+Keep the serialized context under {workflow_config()["context_max_bytes"]} UTF-8 bytes.
+Use only chapter numbers through {number}. Profile updates may replace only one
+complete line in Aliases, Role, Personality, Voice, or Relationships. Do not
+return Safe through updates; the controller sets that field automatically.
+Each profile field should be one concise sentence; never append semicolon-separated
+chapter history.
 `names` contains only newly required Korean-to-English rows; Korean keys must occur
 in the source. `address_pairs` contains only newly required speaker→addressee rows;
 each Korean key must occur in the source or already appear in the address ledger,

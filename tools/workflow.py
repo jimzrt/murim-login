@@ -66,6 +66,8 @@ def resolve_role_models(value: dict) -> dict:
     value["models"] = resolved
     for role, name in resolved.items():
         value[f"{role}_model"] = name
+    compress = models.get("compress") or value.get("compress_model") or resolved["summary"]
+    value["compress_model"] = compress.strip() if isinstance(compress, str) else resolved["summary"]
     checkpoint = models.get("checkpoint") or value.get("checkpoint_model")
     if isinstance(checkpoint, str) and checkpoint.strip():
         value["checkpoint_model"] = checkpoint.strip()
@@ -743,7 +745,7 @@ def command_revise(number: int) -> None:
 
 
 
-PROFILE_UPDATE_FIELDS = ("Aliases", "Role", "Personality", "Voice", "Relationships")
+PROFILE_UPDATE_FIELDS = ("Safe through", "Aliases", "Role", "Personality", "Voice", "Relationships")
 
 
 def render_beat(number: int, beat: dict) -> str:

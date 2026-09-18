@@ -75,13 +75,21 @@ runs the fidelity gate. Compare a frozen chapter without promoting with
 `python tools/workflow.py update N` replaces the former manual durable-state
 step. One bounded no-tools call receives only the current source and final copy,
 current `CONTEXT.json`, names ledger, address-pair ledger, exact glossary matches,
-and compact matching profiles. The controller validates exact profile-line
-replacements, new names, new address pairs, new profiles, context bounds, and
-chapter-local facts before generating `docs/STATE.md`, `docs/CONTEXT.json`,
-`docs/NAMES.md`, `docs/ADDRESS.md`, affected profiles, and the chapter beat.
-Do not invent `docs/RISKS.md` rows from that call. The packet and normalized
-result are `reviews/packets/update-NNNN.md` and `reviews/updates/NNNN.json`;
-their hashes gate summary, checkpoint, acceptance, and commit.
+and compact matching profiles. The controller validates profile replacements,
+new names, new address pairs, new profiles, context bounds, and chapter-local
+facts before generating `docs/STATE.md`, `docs/CONTEXT.json`, `docs/NAMES.md`,
+`docs/ADDRESS.md`, affected profiles, and the chapter beat. Do not invent
+`docs/RISKS.md` rows from that call. The packet and normalized result are
+`reviews/packets/update-NNNN.md` and `reviews/updates/NNNN.json`; their hashes
+gate summary, checkpoint, acceptance, and commit.
+
+When durable context or a profile crosses its configured threshold,
+`run_next.py` stops before preparing the next chapter and issues
+`python tools/workflow.py compress N`. This runs a dedicated compression model
+that removes resolved recaps and rewrites one oversized profile per run; rerun
+`run_next.py` until the threshold check is clear. Thresholds live in
+`docs/workflow.json` under `context_thresholds` and
+`profile_compress_trigger_bytes`.
 
 Deterministic reports live in `reviews/qa/`; provider-reported phase usage,
 packet bytes and token estimates, output bytes, and elapsed time live in
