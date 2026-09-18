@@ -10,7 +10,7 @@ The hour-long negotiation was finally drawing to a close.
 
 These were the terms they had settled on after dozens of rounds of back-and-forth.
 
-Jin Wikyung and Wolhwa carefully checked everything one last time for loopholes, then drew up and exchanged the document.
+Jin Wikyung and Wolhwa carefully reviewed them one last time for loopholes, then drew up and exchanged the documents.
 
 “We’re officially in the same boat now. I look forward to working with you, Lesser Family Head.”
 
@@ -44,7 +44,7 @@ Hopefully, Wolhwa would bring us something like that.
 
 “Then I’ll be taking my leave.”
 
-“Please understand that I can’t go far while people are watching.”
+“Please understand that we cannot escort you far while others are watching.”
 
 “Of course.”
 
@@ -66,6 +66,8 @@ Wolhwa’s eyes curved into crescents as she looked at me.
 
 “Because we spent such a hot night together?”
 
+Her blunt pitch, straight at my chest, left me stunned.
+
 No, seriously. I’d told this woman to bring us information, so why was the first thing she spread X-rated information?
 
 And in front of everyone, too.
@@ -82,7 +84,7 @@ After a long silence, I answered.
 
 “I’ll see her out.”
 
-I grabbed Wolhwa by the wrist and dashed out. Behind me, Jin Wikyung’s mournful voice echoed through the hall.
+I grabbed Wolhwa by the wrist and dashed from the room. Behind me, Jin Wikyung’s mournful cry echoed through the hall.
 
 “My little brother!”
 
@@ -102,7 +104,7 @@ Wolhwa was a rare beauty. With her slender figure and splendid clothing, she cou
 
 “They say she came to collect the Third Young Master’s unpaid tab. She probably wants her money before the fighting turns into all-out war.”
 
-“…Huh. The Third Young Master really gets up to all kinds of things, doesn’t he?”
+“…Huh. The Third Young Master really gets up to everything, doesn’t he?”
 
 Their whispers wormed their way into my ears. Wolhwa, who had been walking ahead and humming to herself, suddenly glanced back.
 
@@ -184,7 +186,7 @@ Wolhwa continued in a light, cheerful voice.
 
 Wolhwa let out a quiet laugh.
 
-“This is an investment. It’s the result of placing both sides on a scale and analyzing them coldly.”
+“This is an investment. I placed both sides on the scales and analyzed them objectively.”
 
 “So as long as you profit, nothing else matters? Even if I really did poison Lee Seogeun?”
 
@@ -216,7 +218,7 @@ Wolhwa sighed.
 
 “I’m ashamed to say we haven’t uncovered anything yet. But our sect is doing everything it can. Ah, we’re almost there.”
 
-There were still plenty of things I wanted to ask, but I had no choice but to fall silent when I noticed the approaching gate guards.
+I still had plenty of questions, but I had no choice but to fall silent when I noticed the nearby gate guards.
 
 *Our alliance with the Lower District Sect is still a secret.*
 
@@ -230,21 +232,21 @@ I channeled internal energy into my eyes and ears. My enhanced senses soon picke
 
 “A master of that caliber volunteering to serve as a coachman? I suppose a peerless beauty really is something else.”
 
-The martial artists speaking to each other sounded fairly experienced, and their voices were deadly serious. A younger martial artist cautiously murmured:
+The martial artists looked fairly experienced, and they spoke with deadly seriousness. A younger martial artist hesitantly muttered:
 
 “But if he’s that skilled, doesn’t his posture have too many openings? And he’s so thin…”
 
 The senior martial artists clicked their tongues.
 
-“Kid, this fellow and I have ten years of experience at the gate-watch office. We can tell from a person’s eyes alone. What the hell would a little shit like you know, butting into your elders’ conversation?”
+“Listen, brat. My friend and I have each spent ten years at the Gate Guard Pavilion. One look in a man’s eyes is all we need. What the hell would a little shit like you know, butting into your elders’ conversation?”
 
 “Tsk. Openings? Those look like openings to you? Can’t you see the composure and natural ease that only true masters possess?”
 
 “Then what about his temples? Masters with profound internal energy have bulging temples.”
 
-“That’s just Returning to Simplicity…”
+“That’s because of Returning to Simplicity…”
 
-Unfortunately, the conversation ended there. The gate guards noticed us standing blankly in front of the main gate and scattered.
+Unfortunately, the conversation ended there. The gate guards noticed us standing in front of the main gate and quickly scattered.
 
 Thanks to them, I learned the identity of the Peak master who wielded a whip like a ghost—the romantic martial artist who had volunteered to become a coachman after falling for Wolhwa’s beauty.
 
@@ -296,7 +298,7 @@ I was just about to pry him off when someone muttered:
 
 A ripple passed through the gate guards.
 
-“Yama Whip? You mean that Peak master who traveled the realm beating down remnants of the Demonic Path?”
+“Yama Whip? You mean the Peak master who roamed the realm hunting down remnants of the Demonic Path?”
 
 “I’ve heard that name too. A master who stood between the orthodox and unorthodox paths, with no known sect or past… Come to think of it, didn’t his trail disappear somewhere near Shanxi?”
 
@@ -312,7 +314,7 @@ Hot, admiring gazes poured in from every direction. Perhaps realizing that somet
 
 I gave him the brightest smile in the world.
 
-“To meet you again like this—Yama. Whip. Great Hero!”
+“To think we’d meet again like this. Great. Hero. Yama. Whip!”
 
 My words were oil thrown onto a fire.
 
@@ -324,13 +326,13 @@ Ding.
 
 > **System**
 >
-> - Rumors about the **Poisoner** are dying down!
+> - Rumors that you are the **Poisoner** are dying down!
 >
 > - Rumors about the **Sleeping Dragon of Shanxi** are gaining credibility!
 >
 > - **Fame** increases by 20!
 >
-> - Passionate supporters have appeared!
+> - You have gained ardent supporters!
 
 As the beautiful System notifications rang out, a famous saying came to mind.
 
@@ -338,17 +340,17 @@ As the beautiful System notifications rang out, a famous saying came to mind.
 
 * * *
 
-The young man stared at the ceiling with his eyes wide open. The light had gone out of his once-bright black eyes, and his face was twisted with fear and pain.
+The young man lay staring at the ceiling, his eyes wide open. His once-bright black eyes had lost their light, and his face was twisted with fear and pain.
 
 “Seogeun. My son.”
 
-A large, rough hand caressed the young man’s face. The intense poisonous energy that had seeped in through the skin was stopped by internal energy that surged up instinctively.
+A large, rough hand caressed the young man’s face. Virulent poison seeped through his skin, only to be stopped by the internal energy that surged up instinctively.
 
 “How did this happen to you?”
 
 The middle-aged man’s voice was thick with grief.
 
-He had grown up a complete orphan and spent decades in Murim.
+He had grown up an orphan and spent decades in Murim.
 
 He had met countless people and watched just as many leave. From his days as a green twenty-year-old wandering martial artist to the moment he became the master of a sect, he had accumulated more memories than he could count.
 
@@ -360,7 +362,7 @@ His son had barely reached twenty. Bloody tears flowed from the eyes of the fath
 
 “My son.”
 
-The poisonous energy that had entered through his hand was spreading throughout his body. Within only a few breaths, his head began to spin and his limbs went numb.
+The poison that had entered through his hand was spreading throughout his body. Within a few breaths, his head began to spin and his limbs went numb.
 
 Such a deadly poison.
 
@@ -372,9 +374,9 @@ The next moment, immense internal energy rose like wildfire and drove back the p
 
 “I will repay them a hundredfold. A thousandfold.”
 
-The Sect Leader of the Mount Heng Sword Sect, Blood Wolf Sword Lee Cheonbaek, left his son’s corpse behind and walked away.
+Blood Wolf Sword Lee Cheonbaek, Sect Leader of the Mount Heng Sword Sect, turned away from his son’s corpse.
 
-When he opened the pavilion door, he saw the black night sky and the torches flickering beneath it.
+When he opened the pavilion doors, he saw the black night sky and the torches flickering beneath it.
 
 Around two hundred fully armed men stood outside. The man at their head bowed.
 

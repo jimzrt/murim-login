@@ -240,7 +240,7 @@ The senior martial artists clicked their tongues.
 
 “Then what about his temples? Masters with profound internal energy have bulging temples.”
 
-“That’s just Returning to the Origin…”
+“That’s just Returning to Simplicity…”
 
 Unfortunately, the conversation ended there. The gate guards noticed us standing blankly in front of the main gate and scattered.
 
