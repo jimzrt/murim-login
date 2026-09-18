@@ -4,15 +4,15 @@ Jang Sam was a bandit.
 
 Born and raised near Mount Wutai, he had never ventured beyond the surrounding area in his life. Since around the age of twenty, he had made a living extorting tolls from travelers who looked like easy marks.
 
-Perhaps thanks to his diligent round-the-clock operation, the name Jang Sam the Heavenly Axe had eventually become fairly well known.
+Perhaps thanks to his diligent round-the-clock operation, the name Heavenly Axe Jang Sam had eventually become fairly well known.
 
-Today was no different. He had risen before dawn and set out to work with his five loyal underlings, the Five-Colored Ghosts… but for some reason, his feet simply refused to stop.
+Today was no different. He had risen before dawn and set out to work with his five loyal underlings, the Five-Colored Ghosts… but for some reason, he couldn’t stop walking.
 
 How long had he been walking since leaving his home turf of Mount Wutai far behind? When his feet finally came to a halt, he saw a carriage approaching in the distance.
 
-*How did I get all the way out here?*
+*How did I get all the way here?*
 
-Had a ghost led him astray? Jang Sam was bewildered, but the moment he saw the luxurious four-horse carriage, his professional instincts came roaring back to life.
+Had he been bewitched by a ghost? Jang Sam was bewildered, but the moment he saw the luxurious four-horse carriage, his professional instincts came roaring back to life.
 
 *I have to take that.*
 
@@ -30,7 +30,7 @@ Jang Sam smiled contentedly and adjusted his grip on his axe. Now, put some powe
 
 *What was that voice? Is he an opera singer?*
 
-But it would take more than that to make me blink. I’d spent seven years as a Hunter and been through every kind of battle imaginable—even aerial combat.
+But it would take more than that to make me blink. I’d spent seven years as a Hunter and been through battles on land, at sea, and even in the air.
 
 …Still, he was kind of scary.
 
@@ -46,11 +46,11 @@ When I stared at him, he scratched his head.
 
 “Why?”
 
-“Why? Unless they belong to a sizable mountain stronghold, attacking a martial family is practically suicide. Robbing people in the Jin Family of Taiyuan’s own backyard… I wonder what kind of reckless fools they are.”
+“Why? Unless they belong to a sizable mountain stronghold, attacking a Murim family is practically suicide. Robbing people in the Jin Family of Taiyuan’s own backyard… I wonder what kind of reckless fools they are.”
 
 *Who else? Tutorial NPCs.*
 
-Judging by the way he called this the Jin Family’s backyard, we must have been fairly close.
+Judging by the way he kept calling it the Jin Family’s backyard, we must have been fairly close.
 
 *Should I stall for time?*
 
@@ -60,7 +60,7 @@ The way my body felt after distributing my stats was beyond anything I’d exper
 
 Six against one. Six against two, if I counted the coachman.
 
-*Can we do it?*
+*Could I do it?*
 
 There was a reason people said no one could stand against overwhelming numbers. The moment they tied up my hands and feet, I was done for.
 
@@ -70,15 +70,15 @@ There was a reason people said no one could stand against overwhelming numbers. 
 
 *Another hour…?*
 
-I’d suspected as much, but apparently the coachman and I had very different definitions of *nearly there*.
+I’d suspected it, but apparently, the coachman and I had very different definitions of *nearby*.
 
-*Nearly there, my ass.*
+*What do you mean, nearly there?*
 
-Maybe it was because this world was modeled after a continent. The scale was different. The scale.
+Maybe it was because this was a continent-sized setting. The scale was different. The scale.
 
 Either way, I had to assume no reinforcements were coming. At least I wasn’t alone.
 
-The coachman’s unflappable attitude practically screamed that he was a master. Especially when he said:
+The coachman’s unflappable attitude practically screamed that he was a master. Just like now.
 
 “Shall I handle this?”
 
@@ -92,21 +92,23 @@ Of course. I was the heir of a prestigious martial family and a VIP customer of 
 
 My anxiety vanished, replaced by a pleased smile. The coachman must have taken it as permission, because the moment he turned away, a second shout rang out.
 
-“You bastards! Can’t you hear the Heavenly Axe?”
+“You bastards! Can’t you hear what the Heavenly Axe is saying?”
 
 I peered through the carriage window and saw a hairy man shouting with an enormous double-bladed axe in his hands. His upper body was massive, and his arms and legs were as thick as pillars.
 
-But the coachman merely muttered as though the sight were laughable.
+But the coachman muttered as if the sight were laughable.
 
 “Where do these little pups get off?”
 
-*Damn, that aura.*
+*Damn, what presence.*
 
-Then the coachman launched into a stern denunciation.
+Then the coachman laid into them.
 
 “How dare bandits who suck the lifeblood of innocent civilians block our path! I will have you dragged before the authorities and punished to the fullest extent of the law!”
 
-It was a speech worthy of Judge Bao, but the hairy man—the Heavenly Axe—and his underlings didn’t seem particularly moved.
+It was a speech worthy of Judge Bao,[^1] but the hairy man—the Heavenly Axe—and his underlings didn’t seem particularly moved.
+
+[^1]: Judge Bao is the popular name of Bao Zheng, a Song-dynasty official celebrated in Chinese stories for his incorruptible judgments.
 
 “Yeah, we blocked the road. What are you going to do about it?”
 
@@ -118,13 +120,13 @@ As if he had read my thoughts, the Heavenly Axe spoke up.
 
 “Hey, is there some member of the imperial family riding inside? Listening to you has my knees shaking. Why don’t you let us see that precious face?”
 
-“You will regret not retreating once you learn this man’s identity!”
+“You will regret not retreating now once you learn this man’s identity!”
 
 “Okay, okay. We get it. Now come out already.”
 
 “You fools…!”
 
-The coachman clicked his tongue and turned toward me. My heart began to race. Was I finally about to witness a true Murim master in action?
+The coachman clicked his tongue and turned toward me. My heart began to race. Was I finally about to see a true Murim master in action?
 
 “Young Master, I believe you’ll have to come out.”
 
@@ -132,7 +134,7 @@ The coachman clicked his tongue and turned toward me. My heart began to race. Wa
 
 *Me? Why me?*
 
-“They won’t shed tears until they see the coffin. To think they would dare block your path! They’ll pay dearly for failing to recognize a master.”
+“They’re the kind who won’t cry until they see the coffin. To think they would dare block your path! They’ll pay dearly for failing to recognize a master.”
 
 With a determined look, he opened the carriage door for me.
 
@@ -146,7 +148,7 @@ My thoughts tangled together. Who was the Heaven Shaking Sword? Who was this gen
 
 “You bastards! Do you know who this man is?”
 
-This was bad. The coachman was careening out of control like an eight-ton truck with a broken steering wheel.
+This was bad. The coachman was barreling ahead like an eight-ton truck with a broken steering wheel.
 
 *No. Stop. Please stop!*
 
@@ -172,7 +174,7 @@ At that moment, a cold wind blew.
 
 *Yes, you idiot.*
 
-The coachman’s pupils began to tremble. It was an earthquake measuring 8.0 on the Richter scale.
+The coachman’s pupils began to tremble. It was an 8.0-magnitude earthquake.
 
 “Th-then where is Young Master Jin Mukyung?”
 
@@ -180,7 +182,7 @@ The coachman’s pupils began to tremble. It was an earthquake measuring 8.0 on 
 
 *He’s probably sleeping at this hour.*
 
-The coachman stared at me like a man who had lost his country, then collapsed like an inflatable tube man with the air let out of it.
+The coachman stared at me with the expression of a man who had lost his country, then collapsed like a deflated inflatable toy.
 
 He had fainted.
 
@@ -188,17 +190,17 @@ He had fainted.
 
 I released his wrist.
 
-It was as thin as a chicken bone. Something had felt off from the moment I grabbed it. After putting on that whole show, he turned out to be an ordinary civilian.
+His wrist was as thin as a chicken bone. Something had felt off from the moment I grabbed it. He had put on quite a show, only to turn out to be an ordinary civilian.
 
-“Ha! Ha-ha-ha-ha!”
+“Ha! Ha-ha-ha!”
 
-The bandits doubled over with laughter. My back was already drenched in cold sweat, though I hadn’t even noticed when it started.
+The bandits roared with laughter. My back was already damp with cold sweat, and I hadn’t even noticed when it started.
 
 *If I’m really unlucky here…*
 
-I couldn’t bring myself to say the word *death*. I swallowed it instead.
+I couldn’t bring myself to say the word *death*. I swallowed hard.
 
-I swept a tense gaze over the bandits.
+I swept my tense gaze over the bandits.
 
 *Fuck. I’d rather fight six goblins than deal with this. How am I supposed to beat guys that huge…?*
 
@@ -218,13 +220,13 @@ In other words, the bandits were built exactly like…
 
 *Goblins?*
 
-I stood there dazed for a moment, until an axe came flying at me and snapped me back to reality. They had the numbers, and they were launching a preemptive attack too?
+I stood there dazed for a moment until an axe came flying at me and snapped me back to reality. They had the numbers, and they were launching a preemptive attack too?
 
 “Hey, hey! Time out!”
 
-The axe slammed into the ground ten meters in front of me. No—it flopped over. The bandit who had thrown it scratched the back of his head sheepishly.
+The axe struck the ground a good ten meters short of me. No—it didn’t even stick. It toppled over. The bandit who had thrown it scratched the back of his head sheepishly.
 
-“Should I have thrown it a little higher?”
+“Should I have aimed a little higher?”
 
 *…Maybe.*
 
@@ -242,7 +244,7 @@ At least goblins were good with poison darts. Judging by that axe throw, I had a
 
 I licked my parched lips, then raised both hands high.
 
-A few of them looked confused by my gesture of surrender, while the Heavenly Axe smiled proudly, like a father watching his son return from military service.
+A few of them looked confused by my gesture of surrender, while the Heavenly Axe smiled proudly, like a father welcoming his son home from military service.
 
 “Good lad.”
 
@@ -250,17 +252,17 @@ A few of them looked confused by my gesture of surrender, while the Heavenly Axe
 
 One step, two. I slowly closed the thirty-meter distance between us.
 
-My stride steady, my posture balanced. One breath per step. White vapor streamed from my mouth through the dawn air.
+With a steady stride and balanced posture. One breath per step. My breath streamed out into the dawn air.
 
 I could feel it just from putting one foot in front of the other.
 
 *It’s different!*
 
-I realized it once again.
+I realized it once more.
 
 The version of me inside this game was stronger than the real me.
 
-My heart pounded. At the same time, a warning stirred in the back of my mind.
+My heart pounded. At the same time, caution stirred in the back of my mind.
 
 I had to stay focused until the very last moment.
 
@@ -280,13 +282,13 @@ I might send most of my salary to my family and live miserably in a tiny goshiwo
 
 Even an F-rank Hunter risked his life fighting inside Gates. No—an F-rank Hunter had to risk his life precisely because he was only F-rank.
 
-For seven years, I had fought every single day. I was a competitor—and a martial artist called a Hunter.
+For seven years, I had fought every single day. I was a gambler with my life on the line—and a martial artist called a Hunter.
 
 So I knew.
 
 Life and death were separated by a hair’s breadth. Letting your guard down meant death.
 
-Half the distance was gone. My steps gradually quickened.
+The distance had been cut in half. My steps gradually quickened.
 
 The Heavenly Axe beckoned me over.
 
@@ -304,7 +306,7 @@ Ten meters.
 
 The moment I took my next step, heat began to churn in my stomach.
 
-It was a sensation I had never experienced before, yet somehow it felt strangely familiar. What was it?
+It was a sensation I had never experienced before, yet somehow, it felt strangely familiar. What was it?
 
 *Could it be… internal energy?*
 
@@ -312,29 +314,29 @@ The heat flowing from my dantian raced toward my lower body.
 
 It had only one purpose: faster, lighter, stronger!
 
-Whoosh. I drew a long breath. Every muscle in my body pulled taut like a bowstring.
+Whoosh. I drew a long breath. My whole body tensed, every muscle drawn tight like a bowstring.
 
 Then came the final step.
 
 Boom!
 
-I shot straight forward. The ground sank beneath my foot, and the sound followed after me. In that frozen moment, the Heavenly Axe’s mouth slowly fell open.
+I shot straight forward. The ground cratered beneath my foot, and the sound followed after me. In that frozen moment, the Heavenly Axe’s mouth slowly fell open.
 
-“No… way…”
+“No way…”
 
 The Heavenly Axe and his underlings stared at me in disbelief.
 
 I could see everything about them now. Feel it.
 
-Their stiff, greasy hair. Their lips cracked like rice paddies in a drought. Their teeth, which looked foul enough to stink from here…
+Their stiff, greasy hair. Their cracked lips, like a rice paddy in a drought. Their teeth—so foul-looking I could almost smell them…
 
 All of it.
 
-The corners of my mouth lifted before I knew it.
+I found myself grinning.
 
 *Open Inventory. Equip Sharp Spear.*
 
-A cold spear shaft appeared in the hand I thrust into empty air.
+A cold spear shaft appeared in the hand I had thrust into empty air.
 
 I drove it forward with all my strength. The Heavenly Axe hastily raised his axe to block, but the sharp spearhead shattered the axe blade and punched straight through his chest.
 
@@ -342,7 +344,7 @@ At the same time—
 
 > **System**
 >
-> Critical One Strike! Status effect Bleeding activated!
+> Critical hit! Status effect Bleeding activated!
 
 “Ghk!”
 
@@ -380,7 +382,7 @@ I gripped the spear shaft and turned around.
 
 “So…”
 
-The five pairs of eyes fixed on me wavered.
+The five pairs of eyes fixed on me wavered uncertainly.
 
 “Anyone else want to try?”
 
@@ -402,7 +404,7 @@ The five bandits exchanged glances, dropped their weapons, and threw themselves 
 >
 > You have fully recovered from all fatigue and injuries.
 >
-> You have subdued the bandits. Fame increased by 10.
+> You have defeated the bandits. Fame increased by 10.
 >
 > Tutorial—Stage 3 complete. Rewards will be distributed.
 >

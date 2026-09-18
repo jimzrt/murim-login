@@ -2,11 +2,11 @@
   "chapter": 4,
   "errors": [],
   "metrics": {
-    "length_ratio": 2.269,
+    "length_ratio": 2.283,
     "source_characters": 6283,
     "source_paragraphs": 200,
-    "translation_characters": 14259,
-    "translation_paragraphs": 194
+    "translation_characters": 14347,
+    "translation_paragraphs": 195
   },
   "passed": true,
   "version": 1,
@@ -15,7 +15,6 @@
       "code": "numbers",
       "details": {
         "values": [
-          "1",
           "2",
           "6",
           "8"
@@ -50,14 +49,6 @@
     {
       "code": "terminology",
       "details": {
-        "korean": "경지",
-        "preferred": "realm / realm stage"
-      },
-      "message": "matched preferred term is absent"
-    },
-    {
-      "code": "terminology",
-      "details": {
         "korean": "기세",
         "preferred": "aura / momentum"
       },
@@ -74,6 +65,14 @@
     {
       "code": "terminology",
       "details": {
+        "korean": "일격",
+        "preferred": "One Strike"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
         "korean": "귀가",
         "preferred": "your family"
       },
@@ -84,6 +83,86 @@
       "details": {
         "korean": "대협",
         "preferred": "Great Hero or Sir depending tone"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "신의",
+        "preferred": "Divine Physician"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "산서성",
+        "preferred": "Shanxi Province"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "갑자",
+        "preferred": "jiazi"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "시진",
+        "preferred": "shichen"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "세가",
+        "preferred": "great family"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "아귀",
+        "preferred": "A-Gwi"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "꼬리",
+        "preferred": "the “tail”"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "준이",
+        "preferred": "Jun"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "오대",
+        "preferred": "Five Squads"
       },
       "message": "matched preferred term is absent"
     }

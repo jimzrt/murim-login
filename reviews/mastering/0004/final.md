@@ -4,15 +4,15 @@ Jang Sam was a bandit.
 
 Born and raised near Mount Wutai, he had never ventured beyond the surrounding area in his life. Since around the age of twenty, he had made a living extorting tolls from travelers who looked like easy marks.
 
-Perhaps thanks to his diligent round-the-clock operation, the name Jang Sam the Heavenly Axe had eventually become fairly well known.
+Perhaps thanks to his diligent round-the-clock operation, the name Heavenly Axe Jang Sam had eventually become fairly well known.
 
-Today was no different. He had risen before dawn and set out to work with his five loyal underlings, the Five-Colored Ghosts… but for some reason, his feet simply refused to stop.
+Today was no different. He had risen before dawn and set out to work with his five loyal underlings, the Five-Colored Ghosts… but for some reason, he couldn’t stop walking.
 
 How long had he been walking since leaving his home turf of Mount Wutai far behind? When his feet finally came to a halt, he saw a carriage approaching in the distance.
 
 *How did I get all the way here?*
 
-Had a ghost possessed him? Jang Sam was bewildered, but the moment he saw the luxurious four-horse carriage, his professional instincts came roaring back to life.
+Had he been bewitched by a ghost? Jang Sam was bewildered, but the moment he saw the luxurious four-horse carriage, his professional instincts came roaring back to life.
 
 *I have to take that.*
 
@@ -46,7 +46,7 @@ When I stared at him, he scratched his head.
 
 “Why?”
 
-“Why? Unless they belong to a sizable mountain stronghold, attacking a martial family is practically suicide. Robbing people in the Jin Family of Taiyuan’s own backyard… I wonder what kind of reckless fools they are.”
+“Why? Unless they belong to a sizable mountain stronghold, attacking a Murim family is practically suicide. Robbing people in the Jin Family of Taiyuan’s own backyard… I wonder what kind of reckless fools they are.”
 
 *Who else? Tutorial NPCs.*
 
@@ -78,7 +78,7 @@ Maybe it was because this was a continent-sized setting. The scale was different
 
 Either way, I had to assume no reinforcements were coming. At least I wasn’t alone.
 
-The coachman's unflappable attitude practically screamed that he was a master. Just like now.
+The coachman’s unflappable attitude practically screamed that he was a master. Just like now.
 
 “Shall I handle this?”
 
@@ -106,7 +106,9 @@ Then the coachman laid into them.
 
 “How dare bandits who suck the lifeblood of innocent civilians block our path! I will have you dragged before the authorities and punished to the fullest extent of the law!”
 
-It was a speech worthy of Judge Bao, but the hairy man—the Heavenly Axe—and his underlings didn’t seem particularly moved.
+It was a speech worthy of Judge Bao,[^1] but the hairy man—the Heavenly Axe—and his underlings didn’t seem particularly moved.
+
+[^1]: Judge Bao is the popular name of Bao Zheng, a Song-dynasty official celebrated in Chinese stories for his incorruptible judgments.
 
 “Yeah, we blocked the road. What are you going to do about it?”
 
@@ -132,7 +134,7 @@ The coachman clicked his tongue and turned toward me. My heart began to race. Wa
 
 *Me? Why me?*
 
-“They won’t shed tears until they see the coffin. To think they would dare block your path! They’ll pay dearly for failing to recognize a master.”
+“They’re the kind who won’t cry until they see the coffin. To think they would dare block your path! They’ll pay dearly for failing to recognize a master.”
 
 With a determined look, he opened the carriage door for me.
 
@@ -146,7 +148,7 @@ My thoughts tangled together. Who was the Heaven Shaking Sword? Who was this gen
 
 “You bastards! Do you know who this man is?”
 
-This was bad. The coachman was careening out of control like an eight-ton truck with a broken steering wheel.
+This was bad. The coachman was barreling ahead like an eight-ton truck with a broken steering wheel.
 
 *No. Stop. Please stop!*
 
@@ -172,7 +174,7 @@ At that moment, a cold wind blew.
 
 *Yes, you idiot.*
 
-The coachman’s pupils began to tremble. It was an earthquake measuring 8.0 on the Richter scale.
+The coachman’s pupils began to tremble. It was an 8.0-magnitude earthquake.
 
 “Th-then where is Young Master Jin Mukyung?”
 
@@ -180,7 +182,7 @@ The coachman’s pupils began to tremble. It was an earthquake measuring 8.0 on 
 
 *He’s probably sleeping at this hour.*
 
-The coachman stared at me with the expression of a man who had lost his country, then collapsed like an inflatable toy with the air let out of it.
+The coachman stared at me with the expression of a man who had lost his country, then collapsed like a deflated inflatable toy.
 
 He had fainted.
 
@@ -190,9 +192,9 @@ I released his wrist.
 
 His wrist was as thin as a chicken bone. Something had felt off from the moment I grabbed it. He had put on quite a show, only to turn out to be an ordinary civilian.
 
-“Ha-ha! Ha-ha-ha!”
+“Ha! Ha-ha-ha!”
 
-The bandits shrieked with laughter. My back was already damp with cold sweat, and I hadn’t even noticed when it started.
+The bandits roared with laughter. My back was already damp with cold sweat, and I hadn’t even noticed when it started.
 
 *If I’m really unlucky here…*
 
@@ -218,11 +220,11 @@ In other words, the bandits were built exactly like…
 
 *Goblins?*
 
-I stood there dazed for a moment, until an axe came flying at me and snapped me back to reality. They had the numbers, and they were launching a preemptive attack too?
+I stood there dazed for a moment until an axe came flying at me and snapped me back to reality. They had the numbers, and they were launching a preemptive attack too?
 
 “Hey, hey! Time out!”
 
-The axe slammed into the ground ten meters in front of me. No—it flopped over. The bandit who had thrown it scratched the back of his head sheepishly.
+The axe struck the ground a good ten meters short of me. No—it didn’t even stick. It toppled over. The bandit who had thrown it scratched the back of his head sheepishly.
 
 “Should I have thrown it a little higher?”
 
@@ -260,7 +262,7 @@ I realized it once more.
 
 The version of me inside this game was stronger than the real me.
 
-My heart pounded. At the same time, a warning stirred in the back of my mind.
+My heart pounded. At the same time, caution stirred in the back of my mind.
 
 I had to stay focused until the very last moment.
 
@@ -280,7 +282,7 @@ I might send most of my salary to my family and live miserably in a tiny goshiwo
 
 Even an F-rank Hunter risked his life fighting inside Gates. No—an F-rank Hunter had to risk his life precisely because he was only F-rank.
 
-For seven years, I had fought every single day. I was a competitor—and a martial artist called a Hunter.
+For seven years, I had fought every single day. I was a gambler with my life on the line—and a martial artist called a Hunter.
 
 So I knew.
 
@@ -312,11 +314,13 @@ The heat flowing from my dantian raced toward my lower body.
 
 It had only one purpose: faster, lighter, stronger!
 
-Whoosh. I drew a long breath. Every muscle in my body pulled taut like a bowstring.
+Whoosh. I drew a long breath. My whole body tensed, every muscle drawn tight like a bowstring.
+
+Then came the final step.
 
 Boom!
 
-I shot straight forward. The ground sank beneath my foot, and the sound followed after me. In that frozen moment, the Heavenly Axe’s mouth slowly fell open.
+I shot straight forward. The ground cratered beneath my foot, and the sound followed after me. In that frozen moment, the Heavenly Axe’s mouth slowly fell open.
 
 “No way…”
 
@@ -324,7 +328,7 @@ The Heavenly Axe and his underlings stared at me in disbelief.
 
 I could see everything about them now. Feel it.
 
-Their stiff, greasy hair. Their cracked lips, like a rice paddy in a drought. Their teeth that reeked just from looking at them…
+Their stiff, greasy hair. Their cracked lips, like a rice paddy in a drought. Their teeth—so foul-looking I could almost smell them…
 
 All of it.
 
@@ -400,7 +404,7 @@ The five bandits exchanged glances, dropped their weapons, and threw themselves 
 >
 > You have fully recovered from all fatigue and injuries.
 >
-> You have subdued the bandits. Fame increased by 10.
+> You have defeated the bandits. Fame increased by 10.
 >
 > Tutorial—Stage 3 complete. Rewards will be distributed.
 >
