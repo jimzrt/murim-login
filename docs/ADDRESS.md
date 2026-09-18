@@ -640,3 +640,7 @@ Overrides generic relationship prose in character profiles for this pair.
 | 레이페이 | 진태경 | former ally and fellow Hunter | you | familiar and respectful | Lei Fei uses 자네 and 하게 while asking Jin to help him fulfill his final mission. |
 | 스켈레톤 워로드 | 진태경 | undead commander addressing an allied human | treacherous human | insulting and blunt | The Skeleton Warlord calls Jin a treacherous human and later describes him as foolish but remarkable. |
 | 진태경 | 스켈레톤 워로드 | controller_to_named_undead_commander | you | blunt and teasing | Jin questions the Skeleton Warlord about its gloomy mood and past identity. |
+| 중년인 | 진태경 | veteran civilian Hunter to celebrated allied Hunter | Mr. Jin | formal-polite and awed | The casualty clerk addresses Jin as 진 선생님 after Jin asks him to list Lei Fei among the dead. |
+| 진태경 | 중년인 | celebrated Hunter to older fellow Hunter | sir | casual and teasing | Jin addresses the older Hunter as 아저씨 while joking with him and giving him instructions. |
+| 진태경 | 청년 | celebrated Hunter to younger fellow Hunter | young man | casual, teasing, and profane | Jin addresses the young Hunter after overhearing his criticism and deliberately switches to casual speech. |
+| 청년 | 진태경 | frightened junior Hunter to celebrated senior Hunter | you | fearful and deferential | The young Hunter uses 당신 while asking whether Jin is really the person he recognizes from the media. |

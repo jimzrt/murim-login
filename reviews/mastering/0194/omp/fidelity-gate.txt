@@ -1,0 +1,25 @@
+{
+  "summary": "The assembled English is faithful to the Korean source with very minor terminology absences and romanization style noted.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Throughout the chapter",
+      "current": "terms like 'acupoint / vital point', 'Status', 'Huashan', 'Great Hero or Sir', 'Divine Physician', 'jiazi', 'God of Drinking', 'supreme mastery', and 'Blazing Flame' are absent or untranslated",
+      "defect": "Several established glossary terms are not used in the current English translation, lowering terminology consistency",
+      "replacement": "Use glossary terms: 'acupoint / vital point' for 혈도, 'Status' for 상태, 'Huashan' for 화산, 'Great Hero or Sir' for 대협, 'Divine Physician' for 신의, 'jiazi' for 갑자, 'God of Drinking' for 주신, 'supreme mastery' for 초절, and 'Blazing Flame' for 열화 as appropriate",
+      "rationale": "Terminology rules require use of established glossary terms when present in the source chapter to maintain consistency and accuracy",
+      "confidence": 1.0
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Throughout the chapter",
+      "current": "The name 적천강 is rendered as 'Jeok Cheongang'",
+      "defect": "The term 'Cheongang' is a romanization not found in the established glossary which uses 'Jeok Cheongang'",
+      "replacement": "Use 'Jeok Cheongang' as in the glossary",
+      "rationale": "Glossary mandates consistent usage of terms; deviation to 'Cheongang' is a non-standard romanization without supporting note",
+      "confidence": 1.0
+    }
+  ]
+}

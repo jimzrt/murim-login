@@ -48,7 +48,7 @@ Why would a man accept as his new Disciple someone he had known for only a day�
 
 As I was thinking about it, Jin Wikyung approached and respectfully cupped his hands toward Jeok Cheongang.
 
-“I, Jin Wikyung, a junior of Murim, pay my respects to the Fire King Jeok Cheongang, whose fame resounds throughout the world.”
+“This humble junior, Jin Wikyung, pays his respects to the Fire King Jeok Cheongang, whose fame resounds throughout the world.”
 
 “Are you from the Jin Family?”
 
@@ -140,7 +140,7 @@ No—in the presence of the Fire King, it blazed even more fiercely.
 
 “…”
 
-I didn’t know who that was, but that bastard had nearly put out the spark just now.
+I didn’t know who that was, but that bastard had nearly put out the spark.
 
 At my signal, Hyuk Mujin, who had been standing by, quietly slipped away to hunt down the mood killer.
 
@@ -212,7 +212,7 @@ It was obvious that he hated noisy places and found people’s attention bothers
 
 I watched Jeok Cheongang carefully.
 
-In front of him, the owner of a merchant association with considerable influence in Shanxi Province was bowing and scraping.
+In front of him, the owner of one of Shanxi Province’s most influential merchant associations was bowing and scraping.
 
 “Great Hero Jeok! I’ve long heard of your reputation, which shakes the entire world. When I was young, I admired you so much…”
 
@@ -268,11 +268,11 @@ That was the end of the conversation. The merchant set down the wooden box and l
 
 Beneath the box lay a stack of bank drafts that had not been there moments ago.
 
-I took advantage of the merchant’s retreat to whisper to Jeok Cheongang.
+Once the merchant had withdrawn, I leaned closer and whispered to Jeok Cheongang.
 
 “You know the Thunderbolt Saber King?”
 
-As his title suggested, the Thunderbolt Saber King was one of the Ten Kings, a Supreme Peak master just like Jeok Cheongang.
+As his title suggested, he was one of the Ten Kings, a Supreme Peak master just like Jeok Cheongang.
 
 Jeok Cheongang took a sip of wine before answering.
 
@@ -354,7 +354,7 @@ As I watched the treasures, elixirs, and bank drafts pile up like a mountain, I 
 
 *Was this why he stayed?*
 
-It was clearly a grand plan to make one big haul in his old age.
+It was clearly part of his grand plan to make one last big haul in his old age.
 
 Eventually, after dealing with dozens of suckers, Jeok Cheongang spoke.
 
@@ -362,7 +362,7 @@ Eventually, after dealing with dozens of suckers, Jeok Cheongang spoke.
 
 Jin Wikyung answered with an exhausted expression.
 
-“Yes. It seems that everyone who was likely to come has already arrived.”
+“No. It seems everyone who was likely to come has already arrived.”
 
 “A shame. I could have squeezed more out of them.”
 
@@ -376,7 +376,7 @@ Jeok Cheongang gazed at the spoils he had earned by drinking instead of sweating
 
 “Why are you looking at me like that?”
 
-I subtly averted my gaze from Jeok Cheongang’s round eyes.
+Faced with Jeok Cheongang’s glare, I subtly averted my eyes.
 
 “It’s nothing. I was just admiring you.”
 
@@ -420,7 +420,7 @@ At that moment, Jeok Cheongang rose from his seat and spoke with a drunken expre
 
 I watched Jeok Cheongang stagger away, then turned my gaze back to the wine crock.
 
-The moon was reflected in the crock, which he had not even emptied a quarter of.
+The moon was reflected in the wine. He had not even emptied a quarter of the crock.
 
 [^1]: This puns on *jwa-wang-u-wang*, a Korean expression for being flustered or running around in confusion; *jwa* and *u* mean “left” and “right,” while *wang* means “king.”
 
