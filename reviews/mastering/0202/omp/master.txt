@@ -70,7 +70,7 @@ The effect was terrifying.
 
 The ground shook as though an earthquake had struck, and a flock of birds perched on the bare branches took flight.
 
-In the slowed-down world, Jeok Cheongang’s hand blurred for an instant and struck away dozens of stones floating in the air.
+In the slowed world, Jeok Cheongang’s hand blurred for an instant as he struck dozens of airborne stones.
 
 Straight toward me.
 
@@ -176,7 +176,7 @@ I ripped off my half-charred shirt and tossed it aside.
 
 “What? Why are you looking at me like that?”
 
-Grind.
+Grit.
 
 My hand tightened around the spear. I let out a hot breath.
 
@@ -228,7 +228,7 @@ I couldn’t tell exactly what emotion lay in his gaze, but one thing was certai
 
 I waved a hand as though I hadn’t noticed.
 
-“No. Forget you heard that. If I succeeded, wouldn’t it damage your reputation?”
+“No. Forget you heard that. If I succeeded, it would damage your reputation.”
 
 That sealed it.
 
@@ -274,7 +274,7 @@ A massive boulder went flying, and a tree as thick as a man was torn up by the r
 
 Jeok Cheongang stood tall at the center of the clearing, which looked as though a storm had just swept through it.
 
-He had been driven back exactly five steps.
+Exactly five steps behind where he had been.
 
 “You—you…”
 
@@ -292,7 +292,7 @@ It was the first time I’d used One Annihilation since reaching the Peak realm.
 
 I’d expected its destructive power to have increased now that my internal energy had grown by leaps and bounds, but I hadn’t imagined anything like this.
 
-Jeok Cheongang shouted at my uncertain answer.
+Jeok Cheongang shrieked at my uncertain answer.
 
 “You think that makes any sense?”
 
@@ -332,7 +332,7 @@ Jeok Cheongang’s eyelids trembled. At last, he answered in a hoarse voice.
 
 A laugh escaped me before I could stop it.
 
-Even though the fight had been subject to countless restrictions, I was filled with joy at having made Jeok Cheongang—a master counted among the greatest under heaven—retreat.
+The fight might have come with countless restrictions, but I had still forced Jeok Cheongang—one of the greatest masters under heaven—to retreat.
 
 Ding.
 
@@ -348,7 +348,7 @@ The fading sound of the System notification was the last thing I heard before fa
 
 *That boy. He certainly sleeps well.*
 
-Jeok Cheongang stared silently at the dead-asleep Jin Taekyung for a long while.
+Jeok Cheongang silently watched the sleeping Jin Taekyung for a long while.
 
 His strong, open features made him look like an innocent boy, yet also like a young man who had already weathered the world once over.
 
