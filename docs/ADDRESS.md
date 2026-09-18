@@ -544,3 +544,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 청풍고검 | 멸절신니 | sect_leader_to_senior_sect_leader | Venerable Nun | formal-deferential | Cheongpung the Ancient Sword addresses her as 신니 while praising Jin and Cheongpung. |
 | 적천강 | 문가 | hostile_interlocutors | Mun | blunt and threatening | Jeok Cheongang addresses the Slaughter Saint as Mun while defending Jin Taekyung. |
 | 청풍고검 | 진 시주 | sect_leader_to_younger_martial_companion | Benefactor Jin | formal and courteous | Cheongpung the Ancient Sword addresses Jin Taekyung while asking why he reacted to the discussion of the formation. |
+| 진위경 | 당호룡 | orthodox ally to Tang Clan Acting Family Head | Sir Tang | formal and respectful | Jin Wikyung addresses Tang Horyong as 당 대협 while offering aid and discussing the Tang Clan's relocation. |
+| 당호룡 | 진위경 | Tang Clan Acting Family Head to orthodox ally | Great Hero Jin | formal and respectful | Tang Horyong addresses Jin Wikyung as 진 대협 while thanking him for the offer of protection. |
+| 진위경 | 막내 | older brother to younger brother | my youngest | intimate and informal | Jin Wikyung uses 막내야 affectionately for Jin Taekyung. |

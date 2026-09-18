@@ -1,15 +1,15 @@
 # Translation State
 
-- Last completed: 373
-- Next chapter: 374
-- Current block: 370–374 (4/5)
-- Latest translation: `translations/0373.md`
-- Latest summary: `summaries/beats/0373.md`
-- Safe profiles through: chapter 373
+- Last completed: 374
+- Next chapter: 375
+- Current block: 370–374 (5/5)
+- Latest translation: `translations/0374.md`
+- Latest summary: `summaries/beats/0374.md`
+- Safe profiles through: chapter 374
 
 ## Current Block
 
-- The group returns to the Sichuan Tang Clan, where the Slaughter Saint declares that he will abandon his former identity, resume life as the medical apprentice Mungyeong, and never kill again; Jin agrees to keep his identity secret but teasingly adopts the name Mungyeong as his form of address. Back at the pavilion, Jin reviews a flood of System messages confirming his Supreme Peak advancement, Level 120, improved martial arts, and a second unnamed bound Item, but an investigation team from Henan arrives looking for him before he can inspect it.
+- Jin Wikyung visits the devastated Sichuan Tang Clan, offers orthodox support and possible relocation to Henan, Shaanxi, or Shanxi, and reveals that a greater war than the Great Faction War is expected. Tang Horyong, serving as Acting Family Head while Tang Sadok remains unconscious, considers the proposal. Jin Taekyung reunites with Wikyung, learns that Wikyung must escort the Third Fiend to Henan, and prepares to leave within half a shichen, but Tang Sadok awakens and the departure is delayed to one shichen.
 
 ## Open Questions
 
@@ -22,10 +22,10 @@
 ## Exceptional Decision
 
 - Render 열화신룡 as Blazing Flame Divine Dragon, distinct from Huashan Divine Dragon.
-- Use Mimi for 미미 and Mimi-chan for 미미쨩.
-- Use Third Fiend for singular 삼괴 references and Three Fiends for collective references.
+- Use Mimi for 미미 and Mimi-chan for 미미쨩; render 삼괴 as Third Fiend in singular references and Three Fiends in collective references.
 - Render 진인 as Perfected One, 도우 as Fellow Daoist, and 신니 as Venerable Nun in forms of address.
 - Render 환영진 as illusion formation and 이동진 as Moving Formation.
+- Render 독룡각 as Poison Dragon Pavilion and 가주 대행 as Acting Family Head.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

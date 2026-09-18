@@ -1322,3 +1322,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 괴공절학 | **monstrous martial arts and supreme techniques** | Bizarre arts associated with the Demonic Cult. |
 | 노군백 | **No Gunbaek** | Level 170 martial artist defeated by Jin. |
 | 귀염미 | **Gwiyeommi** | Literary pen name used for romance novels. |
+| 독룡각 | **Poison Dragon Pavilion** | A pavilion of the Sichuan Tang Clan. |
+| 당호룡 | **Tang Horyong** | Master of Poison Dragon Pavilion and Acting Family Head of the Sichuan Tang Clan. |
