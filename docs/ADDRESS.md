@@ -649,3 +649,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 샤오 쉔 | 진태경 | subordinate ally to senior Hunter and benefactor | hyung | deferential and affectionate | Shao Shen calls Jin hyung while protesting that he is fit to fight and receiving Hero's Soul. |
 | 샤오 쉔 | 최 팀장 | junior allied commander to respected senior Hunter | Mr. Choi | formal and insistent | Shao Shen asks Team Leader Choi to accept Hero's Soul in his place. |
 | 최 팀장 | 샤오 쉔 | senior allied Hunter to fellow recovering commander | Regimental Commander Shen | formal and sincere | Team Leader Choi congratulates Shao Shen before Shao Shen offers him the sword. |
+| 진태경 | 최 팀장 | younger_ally_to_senior_ally | Team Leader Choi | polite and collegial | Jin asks Team Leader Choi for his assessment of the abnormal battlefield situation. |
+| 최 팀장 | 진태경 | senior_ally_to_younger_hunter | Mr. Jin | formal-polite | Team Leader Choi addresses Jin as 진태경 씨 while discussing their shared suspicion. |
+| 아크 리치 | 대적자 | enemy_to_unknown_adversary | adversary | cold and formal | The Arch Lich calls for an adversary after gathering its mana. |

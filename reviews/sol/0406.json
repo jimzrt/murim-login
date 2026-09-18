@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "President Doramp makes an outrageous statement in public",
+      "defect": "“Outrageous” implies offensiveness or impropriety, while 파격 means startling or unconventional, and 공식 석상 specifically denotes an official public event.",
+      "id": "F01",
+      "rationale": "The replacement preserves both the unusual nature of the remark and the official setting without adding a negative judgment.",
+      "replacement": "President Doramp makes a startling statement at an official event",
+      "severity": "minor",
+      "source": "美 대통령 도람프 공식 석상서 파격 발언"
+    },
+    {
+      "confidence": 0.94,
+      "current": "“Who the hell is Jumo, the Lady of the House, whom Koreans keep killing whenever they get the chance?”",
+      "defect": "The inserted appositive identifies Jumo inside a quotation whose joke depends on the foreign speaker not knowing what or who Jumo is; the relative-clause construction also obscures the punchline.",
+      "id": "F02",
+      "rationale": "This uses the binding rendering of 주모 while preserving the speaker’s confusion and the deliberate absurdity of the mistranslation.",
+      "replacement": "“Who the hell is this ‘Lady of the House’ Koreans keep killing every chance they get?”",
+      "severity": "major",
+      "source": "“도대체 코리안들이 틈만 나면 죽여 대는 주모(Jumo)가 누구야?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "left him with twelve weeks of injuries",
+      "defect": "전치 12주 describes injuries requiring twelve weeks of medical treatment or recovery, not injuries that somehow last for twelve weeks.",
+      "id": "F03",
+      "rationale": "The replacement accurately conveys the Korean medico-legal duration formula in natural English.",
+      "replacement": "injured him badly enough to require twelve weeks of treatment",
+      "severity": "minor",
+      "source": "인터뷰 도중 분노한 담당 편집자의 난입에 전치 12주 부상."
+    },
+    {
+      "confidence": 0.99,
+      "current": "*He does have a point. We’ve been hearing a lot of good news lately.*",
+      "defect": "“He does have a point” invents an unidentified male antecedent and turns the man’s reflective concession into agreement with another person.",
+      "id": "F04",
+      "rationale": "하긴 marks a self-directed concession equivalent to “then again” or “to be fair,” without referring to another speaker.",
+      "replacement": "*Then again, we have been hearing a lot of good news lately.*",
+      "severity": "minor",
+      "source": "‘하긴, 요즘 들어서 희소식이 많이 들려오긴 하지.’"
+    },
+    {
+      "confidence": 0.98,
+      "current": "It was truly a force as unstoppable as a bamboo forest split by a blade.",
+      "defect": "The rendering turns the idiom into an inaccurate and unnatural image of an entire bamboo forest being split.",
+      "id": "F05",
+      "rationale": "파죽지세 describes an advance that becomes irresistibly easy once bamboo begins to split; the replacement preserves the image without distorting it.",
+      "replacement": "Their momentum was unstoppable, like splitting bamboo.",
+      "severity": "minor",
+      "source": "그야말로 파죽지세(破竹之勢)."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Before he had even finished posting, replies began appearing one after another.",
+      "defect": "The draft reverses the sequence by making replies appear before he finishes posting. The source says they begin appearing immediately after he posts the comment.",
+      "id": "F06",
+      "rationale": "달기가 무섭게 means “as soon as he posted it,” while 우후죽순 emphasizes replies proliferating rapidly.",
+      "replacement": "The moment he posted the comment, replies began springing up one after another.",
+      "severity": "critical",
+      "source": "댓글을 달기가 무섭게 대댓글이 우후죽순으로 달리기 시작한다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Shit! My ramen!”",
+      "defect": "The draft adds profanity absent from the source and unnecessarily intensifies Seong Jinho’s reaction.",
+      "id": "F07",
+      "rationale": "안 돼 is a direct cry of alarm meaning “No!” or “Oh no!” rather than a curse.",
+      "replacement": "“No! My ramen!”",
+      "severity": "minor",
+      "source": "“안 돼! 내 라면!”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "I don’t know about the other S-rank Hunters, but Wei Fenghu was fully aware of it.",
+      "defect": "The draft omits Wei Fenghu’s title as Minister of National Defense, losing the hierarchy and the reason his awareness is strategically reassuring.",
+      "id": "F08",
+      "rationale": "국방부장 explicitly identifies Wei Fenghu’s senior government office, and 정확히 인지하다 means he accurately understood the situation.",
+      "replacement": "I don’t know about the other S-rank Hunters, but Minister of National Defense Wei Fenghu understood the situation perfectly.",
+      "severity": "major",
+      "source": "다른 S급 헌터들은 몰라도 웨이펑후 국방부장은 정확히 인지하고 있더군요."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The Arch Lich, having gathered its mana, made its eyes shine.",
+      "defect": "“Made its eyes shine” is an unnatural causative rendering of 안광을 빛냈다 and weakens the ominous closing image.",
+      "id": "F09",
+      "rationale": "The source describes the Arch Lich completing its control of the mana as its gaze or eyes gleam; it does not describe a separate act of deliberately illuminating them.",
+      "replacement": "Having gathered its mana, the Arch Lich’s eyes gleamed.",
+      "severity": "minor",
+      "source": "마력을 갈무리한 아크 리치는 안광을 빛냈다."
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it contains one reversed action, two meaningful losses of context or hierarchy, an added profanity, and several localized translation or English issues.",
+  "version": 1
+}
