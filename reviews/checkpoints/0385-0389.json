@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "United Nations peacekeeping forces and international S-rank Hunters are engaged on the Sichuan front; Faye Chen prevented an east-west breach from spreading.",
+      "defect": "The durable state omits the current northern- and western-front positions established at the end of Chapter 389, including Jin Taekyung's active breakthrough and Shao Shen's role. These are immediate continuity hooks for the next chapter.",
+      "id": "C01",
+      "rationale": "Recording all three active fronts prevents the next chapter from losing the battle's current geography, personnel, and direction of movement.",
+      "replacement": "United Nations peacekeeping forces and international S-rank Hunters are engaged on the Sichuan front; Faye Chen has contained the east-west breach, Lee Jungryong holds the northern front, and Jin Taekyung, Choi Minwoo, Shao Shen, and roughly one thousand Public Security Armed Forces Department Hunters are advancing into the monster formation on the western front.",
+      "severity": "major",
+      "source": "Durable state, active_continuity"
+    },
+    {
+      "confidence": 1.0,
+      "current": "> └ ??ㅋㅋㅋㅋ\n>\n> └ ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ\n>\n> └ There’s still an innocent idiot who treats Lord Fuck like an A-rank Hunter lolㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ As a current A-rank Hunter, all I can do is laugh. That Jin Taekyung guy is just a monster lol.",
+      "defect": "The Korean laughter characters remain in the final reading copy, violating the English-only requirement and creating a localized formatting inconsistency.",
+      "id": "C02",
+      "rationale": "English internet laughter preserves the escalating mockery and forum voice without leaving Korean text in the reading copy.",
+      "replacement": "> └ ??? LMAO\n>\n> └ LMAOOOOOOOO\n>\n> └ There’s still an innocent idiot who treats Lord Fuck like an A-rank Hunter, lmao. As a current A-rank Hunter, all I can do is laugh. That Jin Taekyung guy is just a monster, lol.",
+      "severity": "minor",
+      "source": "Chapter 389, Hunter Issues comments about Jin Taekyung's rank"
+    },
+    {
+      "confidence": 0.95,
+      "current": "The hero who had made her way through the Great Cataclysm with every inch of her body looked up at the sky.",
+      "defect": "The phrase “made her way through ... with every inch of her body” is an awkward English collocation that reads like a literal calque and interrupts the otherwise natural reflective passage.",
+      "id": "C03",
+      "rationale": "The replacement preserves Faye's total physical and emotional experience of the catastrophe while reading naturally in contemporary English.",
+      "replacement": "The hero who had fought through the Great Cataclysm with every fiber of her being looked up at the sky.",
+      "severity": "minor",
+      "source": "Chapter 388, Faye Chen's predeployment reflection"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The battlefield where a fierce battle would soon erupt was crowded.",
+      "defect": "The immediate repetition of “battlefield” and “battle” is clumsy and weakens the transition into the action scene.",
+      "id": "C04",
+      "rationale": "This removes the tautology while preserving the impending combat and the crowded conditions.",
+      "replacement": "The battlefield was crowded as a fierce clash drew near.",
+      "severity": "minor",
+      "source": "Chapter 389, transition to the western-front battlefield"
+    }
+  ],
+  "summary": "The reading copies and checkpoint materials are broadly consistent in voice, terminology, and chronology. One active battlefield hook is missing from the durable state, and three localized prose or English-only formatting issues remain.",
+  "version": 1
+}

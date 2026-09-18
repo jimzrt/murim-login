@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "They say S-rank Hunters and ordinary Hunters alone have more than 100,000 people participating.",
+      "defect": "The draft both groups the S-rank Hunters into the figure and changes exactly 100,000 ordinary Hunters to more than 100,000 total participants.",
+      "id": "F01",
+      "rationale": "The particle 만 applies to 일반 헌터: the ordinary Hunters alone number 100,000, in addition to the S-rank Hunters.",
+      "replacement": "They say S-rank Hunters are fighting alongside 100,000 ordinary Hunters.",
+      "severity": "critical",
+      "source": "S급 헌터들에 일반 헌터만 10만 명 참전했다는데 뭐가 그리 걱정임."
+    },
+    {
+      "confidence": 0.97,
+      "current": "I was discharged last year, so why does my canteen still taste like Normandy water?",
+      "defect": "The causal “so” is absent from the source, and the water—not the canteen itself—has the alleged Normandy taste.",
+      "id": "F02",
+      "rationale": "The line jokes that the military canteen and its water seemed impossibly ancient; 전역했는데 is contrastive here.",
+      "replacement": "I got out last year, but why did the water in my canteen still taste like it came from Normandy?",
+      "severity": "minor",
+      "source": "작년에 전역했는데 왜 수통에서 아직도 노르망디 물맛이 나냐."
+    },
+    {
+      "confidence": 0.99,
+      "current": "No. That’s just because it’s all in English and no one understands what it says. I’m running it through Gargle Translator right now.",
+      "defect": "The draft changes the commenter’s first-person lack of understanding into a claim that no one understands the announcement.",
+      "id": "F03",
+      "rationale": "The omitted subject of 몰라서 is the speaker, as confirmed by their immediately saying they are running the text through a translator.",
+      "replacement": "No. That’s just because it’s all in English and I don’t understand what it says. I’m running it through Gargle Translator right now.",
+      "severity": "major",
+      "source": "아니. 그냥 죄다 영어라 뭔 소린지 몰라서 그런 건데. 지금 가글 번역기 돌리고 있음."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Practically speaking, most of the monsters we’re fighting right now are undead resurrected by the Arch Lich.",
+      "defect": "The added “we’re” incorrectly casts the forum commenter and readers as combatants.",
+      "id": "F04",
+      "rationale": "현재 싸우는 modifies the monsters themselves and does not specify that the commenter is fighting them.",
+      "replacement": "Practically speaking, most of the monsters fighting right now are undead resurrected by the Arch Lich.",
+      "severity": "major",
+      "source": "사실상 현재 싸우는 몬스터들 대부분은 아크 리치가 부활시킨 언데드라고 해야 맞다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Shut your mouth and pull down the shutters. Today is the Lady of the House’s memorial day…….",
+      "defect": "The literal rendering preserves the words but loses the Korean internet joke connecting intense national pride with calling a tavern proprietress for celebratory drinks.",
+      "id": "F05",
+      "rationale": "The line is a punchline to the sudden burst of national pride and is not intelligible from the literal title alone.",
+      "replacement": "Shut your mouth and pull down the shutters. Today is the Lady of the House’s memorial day….[^1]\n\n[^1]: Korean netizens traditionally call for a tavern proprietress and drinks when celebrating a surge of national pride; the speaker jokes that the tavern is closed because she is dead.",
+      "severity": "minor",
+      "source": "입 다물고 셔터 내려라. 오늘 주모 제삿날이다……."
+    },
+    {
+      "confidence": 0.96,
+      "current": "The battlefield where a fierce battle was about to break out was chaotic.",
+      "defect": "“Chaotic” implies that disorder or combat is already underway, while the source says the battlefield is crowded before the imminent battle.",
+      "id": "F06",
+      "rationale": "혼잡했다 describes congestion from the gathered forces, and 곧 벌어질 explicitly places the battle in the immediate future.",
+      "replacement": "The battlefield where a fierce battle would soon erupt was crowded.",
+      "severity": "major",
+      "source": "곧 치열한 전투가 벌어질 전장은 혼잡했다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "The always immaculate Team Leader Choi was nowhere to be seen.",
+      "defect": "The draft says Team Leader Choi himself is absent even though he is standing beside Jin; the source says his formerly immaculate appearance is gone.",
+      "id": "F07",
+      "rationale": "모습 refers to his appearance in context, as the next sentence describes him standing there covered in blood and dust.",
+      "replacement": "There was no trace left of Team Leader Choi’s usually immaculate appearance.",
+      "severity": "critical",
+      "source": "항상 말끔하던 최 팀장의 모습은 더 이상 찾아볼 수 없다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "There were more than a thousand of them.",
+      "defect": "The draft changes an approximate quantity into a strict lower bound.",
+      "id": "F08",
+      "rationale": "천여 명 means approximately one thousand people, not necessarily more than one thousand.",
+      "replacement": "There were roughly a thousand of them.",
+      "severity": "critical",
+      "source": "자그마치 천여 명에 달하는 숫자."
+    }
+  ],
+  "summary": "The draft contains two consequential quantity errors, several altered subjects or scene conditions, and one culturally specific punchline that needs clarification.",
+  "version": 1
+}

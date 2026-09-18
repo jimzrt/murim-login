@@ -1,17 +1,16 @@
 # Translation State
 
-- Last completed: 388
-- Next chapter: 389
-- Current block: 385–389 (4/5)
-- Latest translation: `translations/0388.md`
-- Latest summary: `summaries/beats/0388.md`
-- Safe profiles through: chapter 388
+- Last completed: 389
+- Next chapter: 390
+- Current block: 385–389 (5/5)
+- Latest translation: `translations/0389.md`
+- Latest summary: `summaries/beats/0389.md`
+- Safe profiles through: chapter 389
 
 ## Current Block
 
-- Jin Taekyung leaves Wu Heixing beaten but healed by a high-grade potion, while Wu remains enraged and jealous over his defeat and Lei Fei's absence. Lee Jungryong approaches Wu and proposes an important private discussion whose subject is not revealed.
-- After completing Circulate Your Qi and slightly advancing the realm of Fire Gate Divine Technique, Jin meets Team Leader Choi at the hotel. Jin, Choi, Faye Chen, Magic Johnson, Wu Heixing, and Lee Jungryong depart Mount Qingcheng by assigned jets, while Prince Felix has already left for a battle in his assigned region. Faye advises Jin not to take responsibility for every death, and the departing personnel salute the heroes. During the flight, Jin receives the nonrefusable Sudden Quest The Desperate War Situation, ordering him to reach the front quickly and defeat the enemies.
-- Shao Yang, Chairman of China, confirms the group's departure and the worsening front-line situation with Wei Fenghu before convening an emergency meeting of the United Nations Security Council with fourteen other national leaders.
+- Chairman Shao Yang declares martial law in China and addresses the United Nations Security Council about the unprecedented Monster Wave in Sichuan Province. The crisis has exceeded 100,000 monsters, caused at least 300,000 casualties in its first week, and drawn peacekeeping forces and international S-rank Hunters into the fighting. Faye Chen prevents an east-west front breach from spreading, while Lee Jungryong holds the northern front and Jin Taekyung's status remains a major focus of Korean public attention.
+- On the fourth day of fighting at the western front, Jin Taekyung, Team Leader Choi, Shao Shen, and roughly one thousand Public Security Armed Forces Department Hunters launch an assault. Jin orders the troops to follow him, uses Flamefire Path to surge into the enemy formation, and cuts through the monsters with White Flame and Extreme Yang Force.
 
 ## Open Questions
 

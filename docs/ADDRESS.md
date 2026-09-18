@@ -603,3 +603,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 파이 첸 | 진태경 | senior S-rank Hunter to younger fellow Hunter | young man | casual and reassuring | Faye counsels Jin to relax and not take responsibility for every death. |
 | 매직 존슨 | 최 팀장 | fellow S-rank Hunter to Korean Team Leader | Choi | casual and teasing | Magic addresses Choi while offering an awkward farewell before boarding the jet. |
 | 진태경 | 최 팀장 | younger teammate to Team Leader | Team Leader | polite and teasing | Jin repeatedly addresses Choi as Team Leader while joking about their drinking-game bargain and departure. |
+| 샤오 쉔 | 진태경 | young military commander to senior allied Hunter and commander | Teacher Jin, then hyung | formal-deferential, then familiar and deferential | Shao Shen follows Jin's orders and accepts Jin's request to use hyung instead of Teacher Jin. |
