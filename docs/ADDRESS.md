@@ -495,3 +495,7 @@ Overrides generic relationship prose in character profiles for this pair.
 | 애향이 | 사천성주 | favorite_concubine_to_city_lord | My lord | seductive-deferential | Aehyang repeatedly addresses the City Lord as 대인 while persuading him to receive Taekyung. |
 | 청성파의 두 장로 | 묘령사태 | allied_sect_elders_to_injured_nun | Venerable Myoryeong | formal and urgent | They call out to Myoryeong after hearing that the Heaven-Shaking Venerable Nun has died. |
 | 묘령사태 | 진태경 | injured_allied_nun_to_young_hero | Young Hero Jin | formal-deferential | Uses 진 소협 after recognizing that Taekyung already understands the likely connection between the attacks. |
+| 진태경 | 동봉 | visitor_to_divine_physician | Old Man Dong | formal-polite and deferential | Adopts Dong Feng's requested address after learning his personal name. |
+| 청풍 | 동봉 | newly_met_young_martial_artist_to_older_friend | Old Man Dong | casual and cheerful | Accepts Dong Feng's invitation to regard him as an older friend. |
+| 문경 | 동봉 | disciple_to_master | Master | deferential and apologetic | Reveals Dong Feng's identity and apologizes for bringing the party without permission. |
+| 동봉 | 진태경 | physician_to_visiting_young_martial_artist | Young Master Jin | formal-polite and gentle | Uses 진 공자 while welcoming and speaking with Taekyung. |
