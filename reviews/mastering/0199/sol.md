@@ -88,7 +88,7 @@ But things were different now. We had put on a fair amount of meat, and the wolv
 
 They would watch one another until the time was right, then pounce.
 
-The Fire King was already over a hundred years old. His death would be the starting signal for those bastards to sink their teeth into us.
+The Fire King was already over a hundred years old. His death would be the signal for those bastards to bare their teeth.
 
 *And the Zhongnan Sect will obviously be first in line.*
 
@@ -122,11 +122,11 @@ Ignoring my bewildered gaze, Jeok Cheongang continued as calmly as ever.
 
 The voice I had barely managed to force out was swallowed by Jeok Cheongang’s shout, charged with internal energy.
 
-“I proclaim this to the Murim beneath Heaven!”
+“I proclaim this to all beneath Heaven!”
 
 A terrifying wave of energy shook the ground and pressed down upon the Jin Family of Taiyuan’s estate. Every other sound vanished, and hundreds of pairs of eyes turned toward us.
 
-It had happened before I even had a chance to stop it.
+It all happened before I could stop him.
 
 Veins bulged on Jeok Cheongang’s liver-spotted neck.
 
@@ -222,7 +222,7 @@ Jeok Cheongang, who had been silently drinking straight from a liquor bottle, an
 
 “I see.”
 
-“That’s not the point! You’re more than smart enough to know better, so why are you doing this? I have to make a living, too!”
+“That isn’t an answer! You’re more than smart enough to know better, so why did you do it? I have to make a living too!”
 
 *Glug. Glug. Buuurp.*
 
@@ -246,7 +246,7 @@ The round liquor bottle was already rippling with tangible internal energy.
 
 “Gasp!”
 
-“Even a full prostration wouldn’t be enough, and you dare raise your voice? You wet-behind-the-ears little bastard, I ought to…”
+“You ought to be prostrating yourself before me, yet you dare raise your voice? You wet-behind-the-ears bastard, I ought to—”
 
 “W-Wait! Calm down! Please calm down!”
 
@@ -322,7 +322,7 @@ I had blurted it out in a panic, but now that I actually had to speak, my heart 
 
 I must have hit the nail on the head.
 
-Jeok Cheongang glared at me with a terrifying expression before finally forcing the words out.
+Jeok Cheongang glared at me murderously before forcing out an answer.
 
 “I started believing today. I don’t know what damned bastard is up there in the heavens, but I saw something with my own eyes, so now I have no choice.”
 
@@ -414,13 +414,13 @@ I gave a dry laugh.
 
 “Great Hero Jeok?”
 
-Jeok Cheongang remained silent for a long while despite my calling him, then tossed out a single sentence.
+Jeok Cheongang remained silent for a long time. Then he tossed out a single sentence.
 
-“Would that be a problem?”
+“Why not?”
 
-“What would?”
+“Why not what?”
 
-“I asked if there was something wrong with this old man being your master.”
+“Why can’t this old man be your master?”
 
 “…Pardon?”
 
