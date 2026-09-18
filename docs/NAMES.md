@@ -1393,3 +1393,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 다니엘 이노우에 | **Daniel Inoue** | Japanese American A-rank Hunter and leader of the intelligence team. |
 | 샘 | **Sam** | Inoue's longtime operational partner. |
 | 필릭스 왕자 | **Prince Felix** | British prince and allied leader present at the strategic meeting. |
+| 필릭스 | **Felix** | British prince and S-rank Hunter. |
+| 루이 암스트롱 | **Louis Armstrong** | Historical musician used in Jin Taekyung's misattributed quotation joke. |
+| 닐 암스트롱 | **Neil Armstrong** | Astronaut whose quotation Jin misattributes before Lee corrects him. |

@@ -658,3 +658,9 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 우헤이싱 | adversarial S-rank Hunters | you idiot | insulting-casual | Mocks Wu's cowardice and orders him to stop complaining. |
 | 최 팀장 | 우헤이싱 | allied team leader to hostile allied S-rank Hunter | Wu Heixing | calm and formal despite conflict | Addresses Wu while attempting to end his confrontation with Jin. |
 | 우헤이싱 | 최 팀장 | hostile S-rank Hunter to allied team leader | you | hostile and confrontational | Challenges Choi after interpreting his intervention as an order. |
+| 이정룡 | 우헤이싱 | senior S-rank Hunter to younger allied S-rank Hunter | Mr. Wu | polished and formally coaxing | Lee publicly draws Wu into agreement with the suicide-squad plan. |
+| 진태경 | 매직 존슨 | allied S-rank Hunters | Johnson | polite and conversational | Jin asks Johnson whether he should remain behind to protect the rear. |
+| 매직 존슨 | 진태경 | allied S-rank Hunters | Jin | friendly and casual | Johnson agrees with Jin's reasoning and asks whether he alone will stay behind. |
+| 파이 첸 | 이정룡 | senior allied S-rank Hunter to senior Ares Guild authority | Mr. Lee | formal and lightly familiar | Faye questions Lee's decision to leave him behind instead of Wu. |
+| 이정룡 | 파이 첸 | senior Ares Guild authority to allied S-rank Hunter | Faye Chen | formal and reassuring | Lee insists that Faye remaining behind will reduce casualties. |
+| 스켈레톤 워로드 | 진태경 | captive undead commander to captor | treacherous human | grandiose, accusatory, and plaintive | The Skeleton Warlord invokes Jin's promise while bargaining for freedom. |

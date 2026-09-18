@@ -1,0 +1,146 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "The moment the words left Jin Taekyung’s mouth, Wu Heixing almost forgot his rising anger and shouted.",
+      "defect": "The draft makes Wu Heixing only almost forget his anger and leaves it unclear whether he actually shouted. The source says he forgot his anger and nearly shouted.",
+      "id": "F01",
+      "rationale": "The source explicitly marks forgetting the anger as completed and the shout as the action that almost occurred.",
+      "replacement": "The moment the words left Jin Taekyung’s mouth, Wu Heixing forgot his rising anger and nearly shouted.",
+      "severity": "critical",
+      "source": "진태경의 입에서 그 단어가 흘러나온 순간, 우헤이싱은 치밀어오르는 분노도 잊은 채 소리칠 뻔했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Even if a hundred thousand or a million people disappeared, it would still be no more than a drop in the ocean.",
+      "defect": "The draft replaces the source’s image of a handful with a drop in the ocean.",
+      "id": "F02",
+      "rationale": "The source uses 한 줌, literally and figuratively “a handful,” to express how dismissively Wu views the deaths.",
+      "replacement": "Even if a hundred thousand or a million people disappeared, they would amount to no more than a handful.",
+      "severity": "minor",
+      "source": "십만, 백만이 사라진다 한들 한 줌에 불과하다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "In fact, if that damn bangzi became the vanguard of the suicide squad and burned gloriously, Wu Heixing would be more than happy to celebrate with both hands raised.",
+      "defect": "“Burned gloriously” is a literal calque that can incorrectly suggest immolation. Here 산화하다 is a euphemism for dying a heroic death.",
+      "id": "F03",
+      "rationale": "Nothing in the source says Jin would physically burn; the phrase describes glorious death in battle.",
+      "replacement": "In fact, if that damn bangzi became the vanguard of the suicide squad and died a glorious death, Wu Heixing would be more than happy to celebrate with both hands raised.",
+      "severity": "minor",
+      "source": "오히려 저 빌어먹을 빵즈 놈이 결사대의 선봉이 되어 장렬하게 산화한다면 쌍수를 들고 기뻐해 줄 용의도 있다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“We gather our very best and take out the head.”",
+      "defect": "The cooperative proposal marked by 칩시다 is rendered as a stiff declarative sentence.",
+      "id": "F04",
+      "rationale": "The source proposes a joint course of action rather than describing what they presently do.",
+      "replacement": "“Let’s gather our very best and take out the head.”",
+      "severity": "minor",
+      "source": "“최정예를 모아 머리를 칩시다.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Think before you run your mouth. Stop watching those ‘warning: rear ahead’ GIFs on the internet and think about the rear in an actual war.”",
+      "defect": "“Warning: rear ahead” is not natural or intelligible English and loses the sexualized internet euphemism that enables Jin’s joke about the military rear.",
+      "id": "F05",
+      "rationale": "후방 주의 is an online warning attached to risqué images; Jin deliberately contrasts that meaning of “rear” with the rear of an army.",
+      "replacement": "“Think before you run your mouth. Stop looking at those ‘watch your rear’ GIFs on the internet and think about the rear in an actual war.”",
+      "severity": "major",
+      "source": "“마, 생각하고 씨부려. 맨날 인터넷에서 후방 주의 움짤. 뭐 그딴 거나 보지 말고 진짜 전쟁에서의 후방을 생각하라고.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“The Arch Lich must have left a large number of high-level monsters behind for the final battle. There are far more of them than the number of A-rank Hunters on our side. To maintain even a remotely balanced battlefield, we need at least two more S-rank Hunters.”",
+      "defect": "“Even a remotely balanced battlefield” weakens 팽팽한 전황, which means an evenly matched or closely contested battle situation.",
+      "id": "F06",
+      "rationale": "Wei is specifying the force required to keep the two sides evenly matched, not merely to make the battlefield remotely balanced.",
+      "replacement": "“The Arch Lich must have left a large number of high-level monsters behind for the final battle. There are far more of them than the number of A-rank Hunters on our side. To maintain an evenly matched battlefield, we need at least two more S-rank Hunters.”",
+      "severity": "major",
+      "source": "“아크 리치는 마지막 전투를 위해 상위 몬스터들을 대거 남겨 두었을 거요. 아군이 보유한 A급 헌터의 숫자보다 훨씬 많지. 최소한 팽팽한 전황을 유지하기 위해서는 S급 헌터 둘이 더 필요하오.”"
+    },
+    {
+      "confidence": 0.95,
+      "current": "“It’s fine. I don’t care. I’d actually prefer it this way. It would be awkward if the United Kingdom’s fourth in line to the throne were to suffer some misfortune during the operation I proposed.”",
+      "defect": "The draft inserts a standalone preference before giving its cause, weakening the source’s direct causal structure and deadpan delivery.",
+      "id": "F07",
+      "rationale": "오히려 좋지 is explicitly caused by Jin’s reluctance to have a royal heir harmed during his operation, while 걸쩍지근하다 conveys an uneasy or unpleasant lingering feeling rather than generic awkwardness.",
+      "replacement": "“It’s fine. I don’t care. I’d actually prefer it this way, since it would leave a bad taste in my mouth if the United Kingdom’s fourth in line to the throne got hurt during the operation I proposed.”",
+      "severity": "major",
+      "source": "“괜찮아. 난 신경 안 써. 내가 제시한 작전에 영국 계승 서열 4위가 무슨 일이라도 당하면 걸쩍지근하니까 오히려 좋지.”"
+    },
+    {
+      "confidence": 0.0,
+      "current": "“It’s fine. I don’t care. I’d actually prefer it this way. It would be awkward if the United Kingdom’s fourth in line to the throne were to suffer some misfortune during the operation I proposed.”",
+      "defect": "The replacement is already covered by F07; this overlapping finding must not be applied separately.",
+      "id": "F08",
+      "rationale": "This span is intentionally consolidated with F07 to avoid overlapping edits.",
+      "replacement": "“It’s fine. I don’t care. I’d actually prefer it this way, since it would leave a bad taste in my mouth if the United Kingdom’s fourth in line to the throne got hurt during the operation I proposed.”",
+      "severity": "major",
+      "source": "“괜찮아. 난 신경 안 써. 내가 제시한 작전에 영국 계승 서열 4위가 무슨 일이라도 당하면 걸쩍지근하니까 오히려 좋지.”"
+    },
+    {
+      "confidence": 0.0,
+      "current": "“It’s fine. I don’t care. I’d actually prefer it this way. It would be awkward if the United Kingdom’s fourth in line to the throne were to suffer some misfortune during the operation I proposed.”",
+      "defect": "This duplicate overlaps F07 and should be disregarded.",
+      "id": "F09",
+      "rationale": "No separate edit is required beyond F07.",
+      "replacement": "“It’s fine. I don’t care. I’d actually prefer it this way, since it would leave a bad taste in my mouth if the United Kingdom’s fourth in line to the throne got hurt during the operation I proposed.”",
+      "severity": "major",
+      "source": "“괜찮아. 난 신경 안 써. 내가 제시한 작전에 영국 계승 서열 4위가 무슨 일이라도 당하면 걸쩍지근하니까 오히려 좋지.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I hope you understand that this is not my own choice. However, since I have been bound to the royal family since birth, I cannot disobey His Majesty’s command—”",
+      "defect": "“His Majesty” removes the explicit father-son relationship and the elevated filial register of 아바마마.",
+      "id": "F10",
+      "rationale": "Felix specifically refers to the king as his father, not merely by the sovereign’s formal title.",
+      "replacement": "“I hope you understand that this is not my own choice. However, since I have been bound to the royal family since birth, I cannot disobey my royal father’s command—”",
+      "severity": "major",
+      "source": "「내 자의가 아니라는 걸 알아줬으면 좋겠군. 다만 태어날 때부터 왕실에 매인 몸인지라 아바마마의 명을 거스를 수는…….」"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Answer properly. If you answer like that, how the hell am I supposed to know whether you mean agreement or Donguibogam? Are you Heo Jun?”",
+      "defect": "The explanatory footnote is defined at the end of the chapter but has no reference marker in the prose.",
+      "id": "F11",
+      "rationale": "Adding the missing marker connects the culturally specific wordplay to the existing footnote and resolves the Markdown warning.",
+      "replacement": "“Answer properly. If you answer like that, how the hell am I supposed to know whether you mean agreement or Donguibogam[^1]? Are you Heo Jun?”",
+      "severity": "minor",
+      "source": "“대답 똑바로 해라. 그따위로 대답하면 동의보감인지 뭔지 어떻게 알아 처먹어. 허준이야?”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Your academic credentials are pretty extensive. Still, they can’t beat my toilet-paper education.”",
+      "defect": "“Toilet-paper education” invents a concept absent from the source and obscures the euphemistic masturbation joke built on the contrast between 가방끈 and 휴지끈.",
+      "id": "F12",
+      "rationale": "The first expression refers idiomatically to education, while the second substitutes tissues to make a deliberately indirect sexual joke.",
+      "replacement": "“That’s an impressive amount of schooling. Still, it’s nothing compared to the length of my tissue roll.”",
+      "severity": "major",
+      "source": "“가방끈이 상당히 기시네요. 그래 봤자 제 휴지끈보다는 못하겠지만.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "—Believe me. I promise there won’t be any danger.",
+      "defect": "“Believe me” changes Lee’s instruction. 받아들이게 tells Wu to accept the situation or outcome, not to believe Lee.",
+      "id": "F13",
+      "rationale": "Lee first asks whether Wu thinks he was betrayed, then orders him to accept what has happened before promising his safety.",
+      "replacement": "—Accept it. I promise there won’t be any danger.",
+      "severity": "major",
+      "source": "- 받아들이게. 아무런 위험도 없을 거라 약속하지."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Then a black, glossy skull rolled out and stopped at my feet.",
+      "defect": "“Rolled out” reverses the movement. Jin is inside the tent, and the skull rolls back in under its edge toward his feet.",
+      "id": "F14",
+      "rationale": "굴러와 indicates motion toward the narrator, following the movement of the tent’s bottom edge.",
+      "replacement": "Then a black, glossy skull rolled in and stopped at my feet.",
+      "severity": "critical",
+      "source": "스슥, 슥. 난데없이 텐트 밑단이 들썩이더니, 검은 광택이 흐르는 두개골 하나가 데굴데굴 굴러와 내 발 앞에서 멈췄다."
+    }
+  ],
+  "summary": "The draft contains two altered physical actions, several meaningful losses of hierarchy, mechanism, and humor, and one unreferenced footnote.",
+  "version": 1
+}
