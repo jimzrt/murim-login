@@ -1,0 +1,106 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "—K-Kiiieee…!",
+      "defect": "Two distinct vocalizations are collapsed into one, omitting the separate frightened stammer that follows the monster's cry.",
+      "id": "F01",
+      "rationale": "The source presents the squeal and the subsequent stammer as separate utterances immediately before distinguishing monsters capable of screaming.",
+      "replacement": "—Squeeeeee!\n\n“Uh, uh, uhhh…”",
+      "severity": "major",
+      "source": "- 취이이익!\n\n「어, 어어, 어어어…….」"
+    },
+    {
+      "confidence": 0.97,
+      "current": "The Hunters of the Public Security Armed Forces Department thought of only three words: *reinforcements have arrived.*",
+      "defect": "The source says they thought of the single Korean word meaning “reinforcements”; the draft changes it into a three-word proposition and adds that the reinforcements have already arrived.",
+      "id": "F02",
+      "rationale": "English cannot preserve the source's three-character count naturally, but it should preserve the thought itself without adding “have arrived.”",
+      "replacement": "The Hunters of the Public Security Armed Forces Department had one word flash through their minds: *reinforcements.*",
+      "severity": "minor",
+      "source": "공안 무력부의 헌터들은 지원군이라는 세 글자를 떠올렸고"
+    },
+    {
+      "confidence": 0.99,
+      "current": "*Those island bastards are using a method from World War II. Did they not consider that their own allies might die?*",
+      "defect": "The draft makes the “island bastards” the people currently using the tactic. Shao Shen instead believes the present attacker has adopted a tactic those islanders used during World War II.",
+      "id": "F03",
+      "rationale": "The current subject contradicts Shao Shen's immediate assumption that the attacker is a Hunter sent by China's Central Military Commission.",
+      "replacement": "*To think he’d resort to a tactic those island bastards used back in World War II. Did he not consider that his own allies might die?*",
+      "severity": "critical",
+      "source": "섬나라 놈들이 세계 2차 대전 때나 쓰던 방법을 가져오다니. 아군이 죽을 것까지는 생각 못 했단 말인가."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Shao Shen forgot there were even humans in front of him and thrust his dagger at a monster that slammed its body into him.\n\nThwack!",
+      "defect": "The draft makes the monster's collision a completed action and only has Shao Shen thrust at it. The source has the monster barreling toward him and Shao Shen successfully driving the dagger into it; the blunt “Thwack” also obscures the stabbing impact.",
+      "id": "F04",
+      "rationale": "The next line identifies the monster as dead and collapsing, so the dagger's penetration and the action order are mechanically important.",
+      "replacement": "Shao Shen forgot the humans right in front of him and drove his dagger into a monster barreling toward him.\n\nSchunk!",
+      "severity": "critical",
+      "source": "샤오 쉔은 코앞에 인간이 있는 것도 잊은 채 몸을 부딪혀 오는 몬스터를 향해 단검을 내질렀다.\n\n푸푹!"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Shao Shen buried his dagger in the back of an ogre fleeing with lightning speed, then drew a deep breath.",
+      "defect": "The modifier is attached to the wrong subject: Shao Shen's skill is lightning-fast, not the fleeing ogre. The draft also reduces 뒤통수, the back of the head, to the back of the body.",
+      "id": "F05",
+      "rationale": "The source explicitly attributes the speed to Shao Shen's technique and specifies the location of the strike.",
+      "replacement": "With lightning-fast skill, Shao Shen drove his dagger into the back of a fleeing ogre’s head, then drew a deep breath.",
+      "severity": "critical",
+      "source": "번개 같은 솜씨로 도망치는 오우거의 뒤통수에 단검을 박아 넣은 샤오 쉔은 크게 심호흡했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Whew.”",
+      "defect": "“Whew” expresses relief or exhaustion, while 읏차 is an exertion cry akin to “heave-ho.” This weakens the subsequent joke about it being an oddly casual alternative to a death scream.",
+      "id": "F06",
+      "rationale": "Shao Shen expects an anguished final cry but hears the sound of someone casually exerting himself while stopping the airplane.",
+      "replacement": "“Heave-ho.”",
+      "severity": "major",
+      "source": "“읏차.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“……Lord Fuck? What the hell?”",
+      "defect": "Taekyung does not repeat or question the full nickname. He mutters “Fuck” and asks what Shao Shen wants, inadvertently confirming his identity through his characteristic profanity.",
+      "id": "F07",
+      "rationale": "The following punchline, *It really is him!*, depends on Shao Shen recognizing Taekyung from the curse rather than Taekyung explicitly repeating the nickname.",
+      "replacement": "“…Fuck. What?”",
+      "severity": "major",
+      "source": "“……시벌. 뭐여.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Korea, the neighboring country that had shared a border with them for so long.",
+      "defect": "The draft adds a longstanding shared land border, which the source does not state. It only identifies Korea as China's longtime neighboring country.",
+      "id": "F08",
+      "rationale": "This removes an unsupported geographical claim while preserving the source's description of the countries as longstanding neighbors.",
+      "replacement": "Korea, their longtime neighbor.",
+      "severity": "major",
+      "source": "오랜 시간 동안 이웃한 옆 나라, 바로 한국이다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "*Lord Fuck, whose name echoes across the five oceans and six continents.*",
+      "defect": "The draft softens the deliberately grandiose image from making the world tremble to merely having a name that echoes.",
+      "id": "F09",
+      "rationale": "The exaggerated physical verb is part of Taekyung's mock-heroic joke about the global reach of his vulgar nickname.",
+      "replacement": "*Lord Fuck, making the five oceans and six continents tremble.*",
+      "severity": "minor",
+      "source": "오대양 육대주를 떨어 울리는 시벌좌라니."
+    },
+    {
+      "confidence": 0.94,
+      "current": "—The way he controls the undead is a level below this body’s. Wahaha! My legion! This commander has missed you!",
+      "defect": "“My legion” adds ownership before the Skeleton Warlord has discovered that it can seize control of these undead, blunting the realization that drives the final scene.",
+      "id": "F10",
+      "rationale": "The source addresses the legion without claiming it as his; only afterward do Taekyung and the Skeleton Warlord realize that the weaker control may let him command it.",
+      "replacement": "—His control over the undead is a notch below mine. Wahaha! Legion! This commander has missed you!",
+      "severity": "major",
+      "source": "- 놈의 언데드 통제는 이 몸에 비해 한 수 아래라는 것. 으하하! 군단이여! 본 사령관은 너희가 그립구나!"
+    }
+  ],
+  "summary": "Several action, subject, pragmatic, and humor details require correction, including two reversed or misattached actions.",
+  "version": 1
+}

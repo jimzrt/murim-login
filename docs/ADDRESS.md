@@ -555,3 +555,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 최 팀장 | professional_acquaintances | Team Leader Choi | casual and teasing | Taekyung questions Choi's trust and reacts informally during the crisis. |
 | 진태경 | 기장 | strangers | Captain | casual and commanding | Taekyung directly asks the captain for permission to open the aircraft door before cutting it open. |
 | 샤오 쉔 | 야오위 | Friends, colleagues, and sparring partners | Mr. Yao Wei | Polite | Shao Shen addresses Yao Wei respectfully in their remembered conversations. |
+| 샤오 쉔 | 진태경 | junior_Hunter_to_revered_foreign_Hunter | Mr. Jin | formal-polite | Shao Shen addresses Jin as 진 선생님 after recognizing the famous Korean Hunter. |
+| 진태경 | 최 팀장 | mission_companion_to_team_leader | Team Leader Choi | polite-directive | Jin instructs Choi to protect civilians, evacuate the unconscious passengers, and continue fighting without overextending himself. |
