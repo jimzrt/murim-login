@@ -636,3 +636,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 검은 기사 | hostile opponents | you | casual and profane | Taekyung tells the black knight to get lost during their close-quarters clash. |
 | 진태경 | 데스나이트 로드 | hostile opponents | you; you son of a bitch | casual and profane | Taekyung taunts the Death Knight Lord while counterattacking and damaging his armor. |
 | 레이페이 | 웨이펑후 | nephew_to_maternal_uncle_and_adoptive_father | Uncle; later Father | childlike-familiar | Lei Fei calls Wei Fenghu his uncle and later acknowledges him as his father. |
+| 진태경 | 레이페이 | former ally and fellow Hunter | Lei Fei | blunt and solemn | Jin addresses Lei Fei by name before telling him to rest. |
