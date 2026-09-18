@@ -1,6 +1,6 @@
 # Kim Cheol Soo (김철수)
 
-- **Safe through:** Chapter 279
+- **Safe through:** Chapter 389
 - **Aliases:** None
 - **Role:** C-rank Hunter in Myeongdong Guild's Security Team; a junior employee who has been with the Guild for roughly one month.
 - **Personality:** Rigid, conscientious, strongly patriotic, and intensely loyal to Guild regulations and company duty.
