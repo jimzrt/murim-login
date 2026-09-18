@@ -1,8 +1,8 @@
 # Mungyeong (문경)
 
-- **Safe through:** Chapter 343
+- **Safe through:** Chapter 344
 - **Aliases:** None
-- **Role:** Young medical apprentice and Disciple of Dong Feng who guided Jin Taekyung's party to his Master's hidden clinic in Sichuan.
+- **Role:** Young medical apprentice and Disciple of Dong Feng who accompanies his Master and Jin Taekyung's party to the Sichuan Tang Clan in search of the Myriad-Poison Ring.
 - **Personality:** Compassionate, resolute, resourceful, and calm under extreme pressure.
 - **Voice:** Initially timid and deferential, he becomes clear, composed, and eloquent when arguing for mercy and justice.
 - **Relationships:** Dong Feng is his Master and the Divine Physician, while Mu Song saved him after his parents were killed on the Yangtze and Hwang Tae-gu remains the man who killed them despite Mungyeong asking that he live and be punished under League law.

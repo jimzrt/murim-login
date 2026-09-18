@@ -1,9 +1,9 @@
 # Tang Sadok (당사독)
 
-- **Safe through:** Chapter 340
+- **Safe through:** Chapter 344
 - **Aliases:** Myriad-Poison Asura
-- **Role:** Current Family Head of the Sichuan Tang Clan and son of Poison King Tang Taesang, responsible for directing the clan’s response to his father’s murder.
+- **Role:** Current Family Head of the Sichuan Tang Clan and son of Poison King Tang Taesang, who has returned to the clan to investigate his father's murder and the Mount Emei massacre.
 - **Personality:** Grim, cold, blunt, suspicious, and unsentimental, with fierce concern for the Tang Clan’s affairs.
 - **Voice:** Hissing, curt, authoritative, and threatening.
-- **Relationships:** Tang Taesang was his father and predecessor as Family Head; he knows Jeok Cheongang as Senior Jeok and refuses Jin Taekyung’s request for direct aid while the Tang Clan pursues his father’s killers.
+- **Relationships:** Tang Taesang was his father and predecessor as Family Head, his unnamed nephew serves as Master of the Gatekeeper Pavilion, and the Thousand-Year Poison Horned Snake was his father's final gift and is his cherished companion.
 - **Sources:** Korean source and accepted translation, Chapter 336

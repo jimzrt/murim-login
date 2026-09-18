@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "- Remaining quantity: **100 / 100**.",
+      "defect": "The field says all one hundred roots remain while the following notice says gathering is complete.",
+      "id": "C01",
+      "rationale": "A completed total of 100/100 is progress, not a remaining quantity; the current wording makes the System panel internally contradictory.",
+      "replacement": "- Progress: **100 / 100**.",
+      "severity": "major",
+      "source": "Chapter 343, Cold-Ice Herb System panel"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Whether it was a blessing or a misfortune, if the Scorching Yang Qi had not happened to wrap around the poison while it was running wild and played the role of using poison to control poison, he would have melted into a handful of blood long ago.",
+      "defect": "The conditional construction is grammatically miscoordinated: “had not happened to wrap” does not agree with “played,” and “played the role of using poison to control poison” is stiff.",
+      "id": "C02",
+      "rationale": "The replacement preserves the mechanism and consequence while making the explanation grammatical and natural.",
+      "replacement": "Whether it was a blessing or a misfortune, if the rampaging Scorching Yang Qi had not happened to envelop the poison and keep it in check—using poison to control poison—he would have melted into a handful of blood long ago.",
+      "severity": "minor",
+      "source": "Chapter 343, Formless Ultimate Poison explanation"
+    },
+    {
+      "confidence": 1.0,
+      "current": "- Quest, **Myriad-Poison Ring**, has been generated!",
+      "defect": "The notice calls this a Quest, but the continuation in Chapter 344 and the checkpoint summary consistently identify it as a Chain Quest.",
+      "id": "C03",
+      "rationale": "Using the same System classification across the chapter break prevents a contradiction in the quest mechanics.",
+      "replacement": "- Chain Quest, **Myriad-Poison Ring**, has been generated!",
+      "severity": "major",
+      "source": "Chapter 343, closing System panel"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Once this matter is over… hand the position of Master of the Gatekeeper Pavilion to someone else and move to the Inner Hall.",
+      "defect": "“Gatekeeper Pavilion” drifts from the established “Gate Guard Pavilion” used elsewhere in the chapter and checkpoint state.",
+      "id": "C04",
+      "rationale": "The position should use the established name of the pavilion it governs.",
+      "replacement": "Once this matter is over… hand the position of Master of the Gate Guard Pavilion to someone else and move to the Inner Hall.",
+      "severity": "minor",
+      "source": "Chapter 344, Tang Sadok speaking to his nephew"
+    }
+  ],
+  "summary": "The packet preserves the established voices, plot hooks, and active continuity without accidental spoilers. Four actionable issues remain: one internally contradictory System counter, one Quest classification mismatch across the chapter break, one awkward sentence in the poison explanation, and one terminology inconsistency for the Gate Guard Pavilion.",
+  "version": 1
+}

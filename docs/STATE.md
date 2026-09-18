@@ -1,32 +1,32 @@
 # Translation State
 
-- Last completed: 343
-- Next chapter: 344
-- Current block: 340–344 (4/5)
-- Latest translation: `translations/0343.md`
-- Latest summary: `summaries/beats/0343.md`
-- Safe profiles through: chapter 343
+- Last completed: 344
+- Next chapter: 345
+- Current block: 340–344 (5/5)
+- Latest translation: `translations/0344.md`
+- Latest summary: `summaries/beats/0344.md`
+- Safe profiles through: chapter 344
 
 ## Current Block
 
-- After five days of labor in Cold-Ice Land, Jin Taekyung, Hyuk Mujin, Gung Gibang, and Cheongpung complete the collection of the required medicinal herbs. The Herb Slave of Cold-Ice Land Chain Quest and the Mountain Herb Gatherer Who Returned Alive from Hell Achievement are completed, granting Taekyung ten bonus points.
-- The Divine Physician initially plans to prepare the Life-Restoring Great Technique over seven days, but after three days he discovers that Jeok Cheongang's body contains Formless Ultimate Poison. The poison is being contained by his Scorching Yang Qi, so performing the technique without an antidote could leave the poison unchecked. Mungyeong proposes seeking the Sichuan Tang Clan's legendary antidote treasure, generating the Myriad-Poison Ring Quest.
+- The System generates the mandatory Peak-grade Chain Quest Myriad-Poison Ring, requiring Jin Taekyung to obtain the legendary Sichuan Tang Clan treasure or Jeok Cheongang will die. Taekyung concludes that the ring must exist because the System created the Quest.
+- Taekyung leaves Hyuk Mujin and Gung Gibang at Dong Feng's hidden clinic to guard Venerable Myoryeong, while he, Cheongpung, Dong Feng, and Mungyeong travel to the Sichuan Tang Clan to seek the ring.
+- Tang Sadok returns to the Sichuan Tang Clan after receiving Qingcheng's report that a single attacker killed the Heaven-Shaking Venerable Nun and three Emei Elders. He orders the Green Shadow Squad to investigate and tightens security around the Gate Guard Pavilion.
+- Tang Sadok allows Taekyung's group to enter after learning that Dong Feng may be the Divine Physician. Taekyung immediately asks Tang Sadok to lend him the Myriad-Poison Ring.
 
 ## Open Questions
 
-- Does the Sichuan Tang Clan possess the legendary treasure capable of detoxifying Formless Ultimate Poison?
-- Can Taekyung's party obtain a viable antidote and save Jeok Cheongang before his treatment deadline?
-- Will Venerable Myoryeong complete treatment and recover from the Black Hand Seal?
-- Who is the one-armed middle-aged killer, what is his purpose, and is he connected to Tang Taesang's murder?
-- Which other Yongbong Escort Bureau members collaborated with Heo Jun, and how will the Zhongnan Sect's leaders and wider organizers respond?
+- Does the Sichuan Tang Clan possess the Myriad-Poison Ring, and will Tang Sadok lend it to Taekyung?
+- Can Taekyung obtain a viable antidote and save Jeok Cheongang before his treatment deadline?
+- Who is the one-armed middle-aged killer, and is he responsible for both the Mount Emei massacre and Tang Taesang's murder?
+- Will Venerable Myoryeong fully recover from the Black Hand Seal?
 
 ## Exceptional Decision
 
 - Render 활신대법 as Life-Restoring Great Technique.
 - Render 무형지독 as Formless Ultimate Poison.
 - Render 만독지환 as Myriad-Poison Ring.
-- Render 한빙초 as Cold-Ice Herb and 지옥에서 살아 돌아온 심마니 as Mountain Herb Gatherer Who Returned Alive from Hell.
-- Render 이독제독 as using poison to control poison.
+- Render 녹영대 as Green Shadow Squad.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
