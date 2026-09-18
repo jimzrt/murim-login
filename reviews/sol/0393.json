@@ -1,0 +1,106 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The kids who chased after you to save your ass—did you at least find their bodies?",
+      "defect": "The draft makes Wu Heixing the person who may have found the bodies. The source says the bodies of those who followed him could not even be recovered and asks whether he knows that.",
+      "id": "F01",
+      "rationale": "This restores both the omitted fact that the bodies remain unrecovered and the accusatory question directed at Wu Heixing.",
+      "replacement": "The kids who chased after you to save your ass—do you even know that their bodies were never found?",
+      "severity": "critical",
+      "source": "너 구하겠다고 쫓아갔던 아이들, 시신도 못 찾은 건 아니?"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Scared, exhausted, and still expected to earn military glory in the middle of it all. I suppose that’s why you’re getting more and more desperate.”",
+      "defect": "“Expected to earn” makes military glory an external demand. Faye Chen is accusing Wu Heixing himself of still wanting to win glory despite his fear and exhaustion.",
+      "id": "F02",
+      "rationale": "The source lists Wu Heixing’s fear, exhaustion, and personal drive for glory as the causes of his growing desperation.",
+      "replacement": "“You’re scared and exhausted, but you still want to earn military glory. That’s why you’re getting more desperate by the day, isn’t it?”",
+      "severity": "major",
+      "source": "무섭고, 지치고, 그 와중에 전공은 세워야겠고. 그러다 보니 갈수록 조급해지지?"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“People like you dying without anyone knowing is even more common.",
+      "defect": "The present tense turns Faye Chen’s statement into a claim about the current world. The Korean uses the past tense, setting up her observation that the world has improved since the Great Cataclysm.",
+      "id": "F03",
+      "rationale": "The past-tense comparison is necessary for the following lines about how much nicer the world has become and what would have happened during the Great Cataclysm.",
+      "replacement": "“People like you dying without anyone knowing used to be even more common.",
+      "severity": "major",
+      "source": "너 같은 녀석이 쥐도 새도 모르게 죽는 일은 더 흔했고."
+    },
+    {
+      "confidence": 0.95,
+      "current": "The Crown Prince Party was the largest faction within the Chinese Communist Party. Wu Heixing was descended from one of the faction’s most prominent families, and he felt a betrayal that cut straight to the bone.",
+      "defect": "The draft changes Wu Heixing from the blood descendant of a specific leading figure in the faction into a descendant of a prominent family, weakening and altering the stated political lineage.",
+      "id": "F04",
+      "rationale": "거두 denotes a leading heavyweight or prominent leader, while 핏줄 explicitly identifies Wu Heixing as that person’s blood descendant.",
+      "replacement": "The Crown Prince Party was the largest faction within the Chinese Communist Party. As the blood descendant of one of the faction’s most prominent leaders, Wu Heixing felt betrayed to the bone.",
+      "severity": "major",
+      "source": "중국 공산당 최대 계파인 태자당. 바로 그 태자당에서도 손꼽히는 거두의 핏줄인 우헤이싱은 뼈에 사무치는 배신감을 느꼈다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Everything worked out. My body has nearly recovered with the potion, and they have a guilty conscience, so we’ll let it pass quietly.”",
+      "defect": "Jin incorrectly says that his own body recovered and that his side will let the incident pass. He is referring to General Liao’s recovery and arguing that Liao’s side will stay quiet because they also have reason to feel guilty.",
+      "id": "F05",
+      "rationale": "The surrounding discussion concerns the consequences of Jin breaking General Liao’s limbs; Jin was not the injured party, and 저쪽 identifies the other side as the party expected to let the matter pass.",
+      "replacement": "“Everything worked out. His injuries are almost healed thanks to a potion, and they have reasons of their own to feel guilty, so they’ll let it slide.”",
+      "severity": "critical",
+      "source": "잘 해결됐잖아요. 몸도 포션으로 거의 나았고, 저쪽도 찔리는 구석이 있으니 조용히 넘어가는 걸로."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Magic Johnson, the American Hunter, has come to see you.”",
+      "defect": "The binding glossary establishes 미국 as “United States,” but the draft substitutes “American.”",
+      "id": "F06",
+      "rationale": "This follows the packet’s required established terminology without changing the sentence’s meaning or tone.",
+      "replacement": "“Magic Johnson, a Hunter from the United States, has come to see you.”",
+      "severity": "minor",
+      "source": "「미국의 매직 존슨 헌터가 찾아왔습니다.」"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“An S-rank Hunter? So what? Your mind is nothing but a seven-year-old child’s.",
+      "defect": "“Your mind is nothing but a seven-year-old child’s” is an unnatural possessive construction in English.",
+      "id": "F07",
+      "rationale": "The replacement naturally preserves Faye Chen’s claim that Wu Heixing has the mentality of a seven-year-old.",
+      "replacement": "“An S-rank Hunter? So what? Mentally, you’re nothing more than a seven-year-old child.",
+      "severity": "minor",
+      "source": "「S급 헌터? 그럼 뭐 해, 정신은 일곱 살짜리 어린애에 불과한데."
+    },
+    {
+      "confidence": 0.99,
+      "current": "He had been born with power and wealth in both hands, but his opponent was a war hero who had fought his way through the Great Cataclysm with his entire body.\n\nThe media had discriminated against Faye Chen because she was from Hong Kong, but in terms of experience, she was someone Wu Heixing could never approach.",
+      "defect": "“With his entire body” uses the wrong pronoun for Faye Chen and calques 온몸으로, while “someone Wu Heixing could never approach” is unnatural English for an insurmountable gap in experience.",
+      "id": "F08",
+      "rationale": "The replacement restores Faye Chen’s gender and expresses her firsthand wartime experience and Wu Heixing’s inability to rival it in natural English.",
+      "replacement": "He had been born with power and wealth in both hands, but his opponent was a war hero who had fought her way through the Great Cataclysm firsthand.\n\nThe media had discriminated against Faye Chen because she was from Hong Kong, but when it came to experience, Wu Heixing could not hold a candle to her.",
+      "severity": "minor",
+      "source": "권력과 부를 양손에 쥐고 태어난 그였지만, 상대는 대격변을 온몸으로 헤쳐 나온 전쟁 영웅이었다.\n\n홍콩계라는 이유로 언론으로부터 차별 대우를 받기는 했으나, 경험이라는 측면에서는 우헤이싱이 범접할 수 없는 존재인 것이다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "A short while later, Wu Heixing fell completely asleep without knowing that, in the deep night when he could not see even an inch ahead, countless monster armies were withdrawing from the front lines under the cover of darkness.",
+      "defect": "“Fell completely asleep” is unnatural, and “when he could not see even an inch ahead” incorrectly attaches the source’s description of the pitch-dark night to Wu Heixing personally.",
+      "id": "F09",
+      "rationale": "The Korean describes the darkness of the night and Wu Heixing’s complete unawareness while asleep, not a failed attempt by him to see ahead.",
+      "replacement": "A short while later, Wu Heixing fell fast asleep, unaware that countless monster armies were withdrawing from the front lines under cover of the pitch-dark night.",
+      "severity": "minor",
+      "source": "잠시 후, 완전히 곯아떨어진 우헤이싱은 알지 못했다.\n\n한 치 앞도 보이지 않는 깊은 밤. 야음(夜陰)을 틈타 수많은 몬스터 군단이 전선에서 물러나고 있음을."
+    },
+    {
+      "confidence": 0.99,
+      "current": "At last, the presence that had been wandering outside the tent began cautiously entering.",
+      "defect": "A “presence” cannot naturally wander and begin entering in this context; the Korean refers indirectly to the person whose presence had been detectable outside the tent.",
+      "id": "F10",
+      "rationale": "This renders the indirect Korean phrasing as natural English while preserving that the visitor had been lingering outside before entering.",
+      "replacement": "Only then did the person who had been pacing outside the tent cautiously step inside.",
+      "severity": "minor",
+      "source": "그제야 아까부터 막사 밖을 배회하던 인기척이 조심스럽게 안으로 들어왔다."
+    }
+  ],
+  "summary": "Two critical fidelity errors alter who failed to recover the bodies and who is letting the attack on General Liao pass. Additional findings concern characterization, temporal meaning, political lineage, binding terminology, and unnatural English.",
+  "version": 1
+}

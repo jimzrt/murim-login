@@ -1,31 +1,31 @@
 # Translation State
 
-- Last completed: 392
-- Next chapter: 393
-- Current block: 390–394 (3/5)
-- Latest translation: `translations/0392.md`
-- Latest summary: `summaries/beats/0392.md`
-- Safe profiles through: chapter 392
+- Last completed: 393
+- Next chapter: 394
+- Current block: 390–394 (4/5)
+- Latest translation: `translations/0393.md`
+- Latest summary: `summaries/beats/0393.md`
+- Safe profiles through: chapter 393
 
 ## Current Block
 
-- Jin arrives at a massacred city after the target of the Unexpected Assault disappears, causing the Quest to be canceled and reducing his Strength by 10. Shao Shen tries to pursue revenge against the attackers and General Liao, but Jin incapacitates and puts him to sleep before his subordinates agree to wait for a better time. When General Liao reveals that the failed operation was not supposed to fail, Jin breaks his arms and crushes his kneecaps. Elsewhere, the weakened Arch Lich orders the black knight to withdraw the undead legions and lure the human army inward, reaffirming that the Arch Lich serves a separate true king.
+- At a command meeting for Sichuan Province's eastern and western fronts, Faye Chen condemned Wu Heixing for abandoning his assigned area to seek military glory, which allowed flying monsters to destroy the command headquarters and caused severe casualties. Their confrontation escalated into threats before Faye warned Wu that she would not forgive another failure.
+- Wu Heixing returned to his quarters and destroyed the furnishings in a rage. After reflecting on his privileged life, his inability to cope with the war, and his fear of Jin Taekyung, he recalled his conversation with Lee Jungryong and began considering how to make Jin disappear. Unbeknownst to him, monster armies withdrew from every Sichuan front under cover of night.
+- Shao Shen regained consciousness after Jin Taekyung used the Sleep Acupoint on him and continued threatening General Liao, while Jin and Team Leader Choi discussed the possible political consequences of Jin breaking Liao's limbs. A staff officer then announced that Magic Johnson, a Hunter from the United States, had arrived to see Jin.
 
 ## Open Questions
 
-- Who is the Arch Lich's true king, who is the black knight, and why did the black knight previously spare the hidden family and withdraw?
+- Who is the Arch Lich's true king, who is the black knight, and why did the undead legions withdraw now?
 - What happened to Lei Fei and the Hunters who disappeared with him?
 - What happened to the Second Fiend assigned to the Qingcheng attack?
-- Who is the unidentified person directing Aehyang, and what are they planning?
-- What important discussion does Lee Jungryong intend to have with Wu Heixing?
+- What is Wu Heixing planning after recalling his conversation with Lee Jungryong?
+- Why has Magic Johnson come to see Jin, and what does Shao Shen know about the consequences of Jin's confrontation with General Liao?
 
 ## Exceptional Decision
 
-- Render 열화신룡 as Blazing Flame Divine Dragon, distinct from Huashan Divine Dragon; use Mimi and Mimi-chan for 미미 and 미미쨩, and Third Fiend and Three Fiends for 삼괴.
-- Render 진인 as Perfected One, 도우 as Fellow Daoist, 신니 as Venerable Nun, 환영진 as illusion formation, and 이동진 as Moving Formation; use Archmage and War Mage for 대마법사 and 워 메이지.
-- Render 독룡각 as Poison Dragon Pavilion, 가주 대행 as Acting Family Head, 화룡갑 as Fire Dragon Armor, and 공안무력부 as Public Security Armed Forces Department.
-- Render 사기 as death energy, 의념 as conveyed thoughts, 데스나이트 as Death Knight, 골골 as Bones, 아크 리치 as Arch Lich, 최상급 포션 as Top-Grade Potion, and 상급 포션 as high-grade potion.
-- Render 전하 as His Highness, 돌발 퀘스트 as Sudden Quest, 다급해진 전황 as The Desperate War Situation, and 꽌시 as guanxi with an explanatory footnote; preserve Jin's vulgar historical and cultural jokes.
+- Render 파이 첸 as Faye Chen and 매직 존슨 as Magic Johnson.
+- Render 형님 as hyung when Shao Shen addresses Jin Taekyung, and retain Mr. Jin for 진태경 씨 in Team Leader Choi's formal address.
+- Preserve the hostile, profane tone of Faye Chen's confrontation with Wu Heixing.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

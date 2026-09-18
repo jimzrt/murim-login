@@ -1,9 +1,9 @@
 # Faye Chen (파이 첸)
 
-- **Safe through:** Chapter 385
+- **Safe through:** Chapter 393
 - **Aliases:** None
-- **Role:** Faye Chen is an S-rank Hunter, a Great Cataclysm hero, and a former romance-film lead with a low media profile.
-- **Personality:** Composed, playful, perceptive, and amused by social conflict.
-- **Voice:** Calm, teasing, conversational, and lightly self-deprecating about her age and fame.
-- **Relationships:** She is an older Senior to Jin Taekyung, whose mother has been her longtime fan.
+- **Role:** Hong Kong-born S-rank Hunter, Great Cataclysm war hero, and frontline commander in Sichuan Province.
+- **Personality:** Experienced, fearless, incisive, and scornful of incompetence.
+- **Voice:** Low, cutting, sarcastic, and openly confrontational when challenging incompetence.
+- **Relationships:** She commands frontline forces in Sichuan Province and is openly hostile toward Wu Heixing.
 - **Sources:** Korean source and accepted translation, Chapter 385
