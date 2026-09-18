@@ -457,3 +457,9 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 황보엄 | junior_martial_artist_to_Zhongnan_senior | Great Hero Hwangbo | casual-polite and teasing | Taekyung uses 황보 대협 after deliberately pretending not to recognize Hwangbo. |
 | 백무성 | 황보엄 | junior_martial_artist_to_Zhongnan_senior | Great Hero Hwangbo | formal-deferential | Baek introduces himself with 황보 대협. |
 | 황보엄 | 진태경 | Zhongnan_senior_to_younger_martial_artist | insolent brat | blunt, amused, and probing | Hwangbo describes Taekyung as a 건방진 아해 and later treats him as a youngster. |
+| 궁기방 | 흑걸개 | childhood_friends | Big Nose | familiar and teasing | Gung Gibang uses 왕코 for Heukgeol, whom he has known since their youth as beggars. |
+| 흑걸개 | 궁기방 | childhood_friends | Gibang; Successor Beggar | rough and familiar | Heukgeol alternates between 기방이 and the title 후개 while scolding his old friend. |
+| 월화 | 황보엄 | Lower_District_Sect_leader_to_Zhongnan_senior | Great Hero Hwangbo | formal-polite and firm | Wolhwa respectfully addresses Hwangbo while refusing to withdraw from the commission. |
+| 황보엄 | 월화 | Zhongnan_senior_to_Lower_District_Sect_leader | you | cold and commanding | Hwangbo orders Wolhwa to withdraw from the dispute. |
+| 궁기방 | 황보엄 | Beggars_Sect_successor_to_Zhongnan_senior | Great Hero Hwangbo | formally deferential but defiant | Gung invokes Hwangbo's title while asserting the Beggars' Sect's pride and rules. |
+| 흑걸개 | 황보엄 | Beggars_Sect_branch_leader_to_Zhongnan_senior | Great Hero Hwangbo | deferential and evasive | Heukgeol uses the respectful title while refusing to withdraw the branch's support. |
