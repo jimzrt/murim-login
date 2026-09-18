@@ -26,7 +26,7 @@ While I floundered, Lee Seowol answered.
 
 “I’ve been well. Thanks to you, Young Master Jin.”
 
-With a light smile, she added,
+She smiled and added,
 
 “And I’ll continue to be.”
 
@@ -50,7 +50,7 @@ I stared at Chulwoo in disbelief. He had thrown an arm around my shoulders, his 
 
 “Weren’t we sworn enemies?”
 
-“M-My friend, your jokes have improved tremendously! Hwa-ha, hahahaha!”
+M-My friend, your jokes have improved tremendously! Hwa-ha, hahahaha!”
 
 “Does that sound like a joke to you?”
 
@@ -64,9 +64,9 @@ The fabric of space-time cringed. Having flawlessly delivered the worst performa
 
 “Ah… yes. It’s an honor to meet you too.”
 
-“If I may introduce myself, I am this man’s friend of ten years—”
+“As for me, I’ve been this man’s closest friend for ten years—”
 
-To help the flustered Lee Seowol, I added,
+For Lee Seowol’s sake, I added,
 
 “We met for the first time today.”
 
@@ -92,11 +92,11 @@ I sighed, and Lee Seowol stepped closer.
 
 “Pardon?”
 
-“Do you think I’m pretty, too, Young Master Jin?”
+“Do you think I’m pretty too, Young Master Jin?”
 
 “Wait. Hold on.”
 
-Her voice was alluring, and her eyes sparkled.
+Her voice was soft and alluring, her eyes sparkling.
 
 *What’s gotten into her? Why is she acting like this?*
 
@@ -120,7 +120,7 @@ Neutral was a generous way to put it. They had backed out because they feared re
 
 *They must feel safe now that we’ve accepted the Mount Heng Sword Sect.*
 
-In front of those very people, Jin Wikyung had embraced the Mount Heng Sword Sect, the Jin Family’s greatest enemy, and seated Lee Seowol in a place of honor.
+In front of those very people, Jin Wikyung had embraced the Jin Family’s greatest enemy and seated Lee Seowol in a place of honor.
 
 It meant he had no intention of holding them accountable for what had happened.
 
@@ -138,7 +138,7 @@ Naturally, the atmosphere among the honored guests warmed at once. Swift oaths o
 
 “It is a humble offering, but please accept it…”
 
-It didn’t take long for luxury goods, gold, and silver treasures to pile up like a mountain. I doubted Jin Wikyung would ever have to worry about the family budget again after today.
+Luxury goods, gold, and silver treasures soon piled up like a mountain. After today, I doubted Jin Wikyung would have to lose sleep over the family budget for quite some time.
 
 Once things had settled down, Jin Wikyung approached me.
 
@@ -210,7 +210,7 @@ Jin Wikyung’s eyes widened.
 
 “I have heard much about you. But what brings a Disciple of the Iron Blood Sect here without prior notice?”
 
-Even I had heard of the Iron Blood Sect of Henan a couple of times. It was a well-known sect.
+Even I had heard of the Iron Blood Sect of Henan once or twice. It was a well-known sect.
 
 *Judging by his sect alone, he must rank among the top three honored guests here.*
 
@@ -234,11 +234,11 @@ At least he knew his manners. Baek Museong, who had been watching the exchange, 
 
 “I too have heard the name Choo Dohwan, the Iron Fist. They say that, as befits a Disciple of the Iron Blood Sect, he excels in fist-and-foot martial arts and is a man of upright character.”
 
-“You could choose Young Hero Baek as your opponent.”
+“He may choose you as his opponent, Young Hero Baek.”
 
 Baek Museong smiled faintly.
 
-“My junior brothers and I would be happy to accept.”
+“My junior siblings and I would be happy to accept.”
 
 “Are you certain?”
 
@@ -252,13 +252,13 @@ His answer carried both the composure of a powerful man and impeccable courtesy.
 
 But Jin Wikyung didn’t stop there.
 
-“Furthermore, anyone who wishes to participate in the duels may step forward! The final victor will receive one hundred silver nyang and a fine weapon worthy of the prize!”
+“Furthermore, anyone here who wishes to participate in the duels may step forward! The final victor will receive one hundred silver nyang and a fine weapon worthy of the achievement!”
 
 “Waaaaah!”
 
-Cheers erupted at his generous gesture, rowing while the tide was coming in. After all, there was nothing more entertaining in the world than watching a fight.
+Cheers erupted at his timely show of generosity. After all, there was nothing more entertaining than watching a fight.
 
-The eyes of the young martial artists, still brimming with youthful vigor, lit up at the thought of testing themselves.
+The eyes of the young martial artists, still brimming with hot blood, lit up at the thought of testing themselves.
 
 “Then, Young Hero Choo!”
 
@@ -290,7 +290,8 @@ I looked at the Level window floating over Choo Dohwan’s head and thought,
 
 > **System**
 >
-> - **Level 65 Choo Dohwan**
+> **Level:** 65  
+> Choo Dohwan
 
 And my prediction soon became reality.
 
@@ -310,7 +311,7 @@ Chulwoo, meanwhile, rampaged like a monster. His martial arts were on a higher l
 
 And honestly, he seemed to have gone pretty easy on him.
 
-“You know how to throw a punch, but it won’t work on me anyway. Give up here.”
+“You know how to throw a punch, but you can’t beat me. You should surrender now.”
 
 Choo Dohwan gritted his teeth.
 
@@ -324,7 +325,7 @@ Well, now it really was over.
 
 Once Choo Dohwan lost consciousness, the waiting martial artists of the Jin Family of Taiyuan brought over a stretcher and carried him away.
 
-“Whaaaat?”
+“Good heavens…”
 
 “As expected of the Defeated Flower Fist!”
 
@@ -336,11 +337,11 @@ Lee Seowol, who had somehow claimed the seat beside me, whispered,
 
 “Do you think anyone else will challenge him?”
 
-I snorted quietly.
+I let out a short laugh.
 
 “After seeing what happened to the Iron Fist? Do you really think anyone will come forward? I’ll bet my wrist that nobody does.”
 
-Just then, a man wearing a heroic headband suddenly stepped forward and shouted,
+Just then, a man wearing a heroic headband sprang forward and shouted,
 
 “I am Hwang Jinsu of Hwang Family Manor! I challenge the Defeated Flower Fist!”
 
@@ -356,7 +357,7 @@ A Level 25 had stepped forward. Of course that was the result.
 
 “What about now?”
 
-“Didn’t you just see what happened? He got it even worse than the Iron Fist. Bones can be set, but teeth are finished. Completely finished.”
+“Didn’t you see what just happened? He got it even worse than the Iron Fist. Bones can heal, but once your teeth are gone, they’re gone. Finished.”
 
 “And your wrist…”
 
@@ -388,7 +389,7 @@ Lee Seowol helpfully replied,
 
 “You bet that on the fifth match.”
 
-“Oh, then what about my right ankle?”
+“Th-Then what about my right ankle?”
 
 “You already bet that on the sixth.”
 
@@ -396,9 +397,9 @@ Lee Seowol helpfully replied,
 
 “The eighth match…”
 
-*Damn it. So this was what a corpse with its eyes open looked like.*
+*Shit. So this is what it feels like to be a corpse with its eyes open.*
 
-As I sat there in a daze, Lee Seowol let out a small laugh.
+As I sat there in despair, Lee Seowol burst into a quiet laugh.
 
 “It’s all right. I won’t collect.”
 
@@ -408,7 +409,7 @@ As I sat there in a daze, Lee Seowol let out a small laugh.
 
 “What favor?”
 
-Just as Lee Seowol was about to open her mouth—
+Just as Lee Seowol was about to answer—
 
 “Shan! Xi! Sleeping! Dragon!”
 
@@ -423,7 +424,7 @@ At the same time, a System alert rang out.
 > **System**
 >
 > - **Level 95 Chulwoo** has chosen you as his duel opponent!
-> - **Quest:** **There Is a Man Who Loved You So Much** has been created.
+> - The Quest **There Is a Man Who Loves You So Much** has been created.
 > - Would you like to accept the **Quest**?
 > - Refusing will incur a massive penalty!
 
