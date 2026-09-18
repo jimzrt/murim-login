@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The monks, their heads shaved close and their eyes filled with spiritual energy, were nuns of Emei Sect.",
+      "defect": "The sentence first identifies the Emei women as monks and then immediately as nuns, creating an unnecessary lexical contradiction.",
+      "id": "C01",
+      "rationale": "The replacement retains the physical description and religious context without momentarily misidentifying the Emei nuns.",
+      "replacement": "The monastics, their heads shaved close and their eyes filled with spiritual energy, were nuns of Emei Sect.",
+      "severity": "minor",
+      "source": "Chapter 370, Emei funeral scene"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I pay my respects to Great Hero Jin Taekyung, the Blazing Flame Divine Dragon!”",
+      "defect": "The crowd's acclamation changes from the plural “We pay our respects” at the end of Chapter 370 to the singular “I pay my respects” when the same moment is repeated.",
+      "id": "C02",
+      "rationale": "The plural wording preserves exact continuity with the preceding chapter and matches the collective cry described immediately afterward.",
+      "replacement": "“We pay our respects to Great Hero Jin Taekyung, the Blazing Flame Divine Dragon!”",
+      "severity": "minor",
+      "source": "Chapter 371, opening line overlapping Chapter 370"
+    },
+    {
+      "confidence": 0.98,
+      "current": "My Disciple is an exception as well, of course.",
+      "defect": "Mungyeong is established throughout the packet as the Divine Physician Dong Feng's Disciple, while Dong Feng is his Master. Referring here to “My Disciple” introduces an otherwise unidentified disciple and contradicts the active relationship.",
+      "id": "C03",
+      "rationale": "This correctly identifies Dong Feng as Mungyeong's Master and explains why the Divine Physician would already know the Slaughter Saint's identity.",
+      "replacement": "My Master is an exception as well, of course.",
+      "severity": "major",
+      "source": "Chapter 373, Mungyeong discussing who knows his identity"
+    },
+    {
+      "confidence": 0.98,
+      "current": "To be precise, when I first left Henan, my purpose was to find the culprit who murdered the late Poison King Tang Sadok and the Heaven-Shaking Venerable Nun. However, the situation changed drastically on the way here.",
+      "defect": "The sentence calls Tang Sadok both late and murdered even though the same chapter establishes that he is alive but unconscious and ends with his awakening.",
+      "id": "C04",
+      "rationale": "The revised wording preserves Jin Wikyung's original mission based on the initial report while avoiding a direct contradiction with Tang Sadok's survival and awakening.",
+      "replacement": "To be precise, when I first left Henan, my purpose was to find whoever was believed to have murdered Tang Sadok and the Heaven-Shaking Venerable Nun. However, the situation changed drastically on the way here.",
+      "severity": "major",
+      "source": "Chapter 374, Jin Wikyung explaining his original mission"
+    }
+  ],
+  "summary": "The packet is broadly consistent in voice, terminology, formatting, and continuity, but it contains two substantial identity/status contradictions and two minor scene-overlap or wording inconsistencies.",
+  "version": 1
+}
