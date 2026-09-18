@@ -1,0 +1,146 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "The suffocating aura flowing from their sunken eyes and rigid bodies, standing straight as iron towers, was swallowing up the cavern.",
+      "defect": "The draft makes the aura flow from the men’s eyes and bodies, while the source describes the men as having deep-set eyes and standing like iron towers, with the aura emanating from them as people.",
+      "id": "F01",
+      "rationale": "The modifiers 깊게 가라앉은 눈 and 철탑처럼 선 describe the black-robed men; 그들에게서 identifies the men themselves as the source of the aura.",
+      "replacement": "The suffocating aura emanating from the men—their eyes deep-set, their bodies upright as iron towers—was swallowing the cavern.",
+      "severity": "major",
+      "source": "깊게 가라앉은 눈과 철탑처럼 선 그들에게서 흘러나온 숨 막히는 기세가 동공을 잠식하고 있었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I paid for it with two lives.”",
+      "defect": "The causal exchange is reversed. The draft says two lives were the payment for his arm, whereas the source says his arm was the price he paid to take two lives.",
+      "id": "F02",
+      "rationale": "The empty sleeve is what he 치렀다 as 두 사람의 목숨값: he lost the arm in exchange for killing the two people.",
+      "replacement": "“It was the price I paid to take two lives.”",
+      "severity": "critical",
+      "source": "“두 사람의 목숨값으로 치렀다.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“The two old men from the Tang Clan and Emei are no longer of this world.”",
+      "defect": "Calling both victims men changes the established identity of the Heaven-Shaking Venerable Nun.",
+      "id": "F03",
+      "rationale": "두 늙은이 is contemptuous but not necessarily male; one of the two is 경천신니, a nun.",
+      "replacement": "“The two old fossils from the Tang Clan and Emei are no longer of this world.”",
+      "severity": "critical",
+      "source": "“당문과 아미의 두 늙은이는 이미 이 세상 사람이 아니다.”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "In the darkness, Cheongpung redirected the force with Chaotic Flower Hand and retreated without making contact.",
+      "defect": "The draft changes the outcome from Cheongpung retreating without taking a hit to him making no contact at all, which conflicts with his use of Chaotic Flower Hand to redirect the incoming force.",
+      "id": "F04",
+      "rationale": "타격 없이 describes his escaping the attack unscathed, not an absence of all physical contact during the redirection.",
+      "replacement": "In the darkness, Cheongpung redirected the force with Chaotic Flower Hand and retreated without taking a hit.",
+      "severity": "major",
+      "source": "어둠 속, 난화수로 힘을 흘린 채 타격 없이 물러난 청풍이 허리춤에 손을 가져감과 동시에 섬광이 뿜어져 나온다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Along with a spine-chilling hiss, Sword Energy surged horizontally upward.",
+      "defect": "The draft adds an upward direction to an attack described as bursting out horizontally.",
+      "id": "F05",
+      "rationale": "횡으로 specifies horizontal movement; “upward” changes the attack’s physical trajectory.",
+      "replacement": "Along with a spine-chilling hiss, Sword Energy burst out horizontally.",
+      "severity": "critical",
+      "source": "쏴악. 소름 돋는 소리와 함께 횡으로 솟구치는 나오는 검기가 눈앞에 선했다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Before long, after the techniques we exchanged had surpassed five hundred forms, Cheongpung suddenly spoke.",
+      "defect": "The draft renders 합 as forms, changing the count from exchanges in the imagined bout to distinct named technique forms.",
+      "id": "F06",
+      "rationale": "오백 합 counts the back-and-forth exchanges of the contest, not five hundred 초식 or forms.",
+      "replacement": "Before long, once our imagined bout had passed five hundred exchanges, Cheongpung suddenly spoke.",
+      "severity": "minor",
+      "source": "백, 이백, 얼마 지나지 않아 주고받은 수가 오백 합을 넘겼을 때, 청풍이 문득 입을 열었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "There were more than a dozen prisoners trapped in the underground prison, waiting for the day they would die.",
+      "defect": "The prisoner count is inflated from roughly ten to more than twelve.",
+      "id": "F07",
+      "rationale": "십여 명 means approximately ten or a little over ten, not more than a dozen.",
+      "replacement": "There were ten or so prisoners trapped in the underground prison, waiting for the day they would die.",
+      "severity": "minor",
+      "source": "지하 뇌옥에 갇혀 죽을 날만 기다리고 있는 십여 명의 죄수들."
+    },
+    {
+      "confidence": 0.99,
+      "current": "They weren’t the kind of men who left the bathroom unflushed or brought their girlfriends over at all hours. Every one of them was a fiend who had earned a notorious name throughout the martial world.",
+      "defect": "The draft unnecessarily makes all the prisoners male and changes gender-neutral lovers into girlfriends, despite the subsequent introduction of a female prisoner.",
+      "id": "F08",
+      "rationale": "애인 is gender-neutral, and the source does not assert that every prisoner is a man.",
+      "replacement": "They weren’t the kind who left the toilet unflushed or constantly brought their lovers over. Every one of them was a fiend who had earned a notorious name throughout the martial world.",
+      "severity": "minor",
+      "source": "화장실 물 안 내리고 수시로 애인 데려오는 놈들이 아닌, 하나같이 강호에 흉명을 떨친 마두들이다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "With Old Man Gung away, someone had to look after the prisoners’ lives and meals.",
+      "defect": "“Look after the prisoners’ lives” implies protecting their welfare, while the source says someone must check whether they are alive or dead and attend to their meals.",
+      "id": "F09",
+      "rationale": "생사를 챙기다 here concerns monitoring their survival, not benevolently safeguarding their lives; that distinction supports the prison’s callous characterization.",
+      "replacement": "With Old Man Gung away, someone had to check whether the prisoners were still alive and feed them.",
+      "severity": "major",
+      "source": "궁 노인이 자리를 비운 지금, 누군가는 죄수들의 생사와 끼니를 챙겨 줘야 했고 그게 바로 나다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "All I had to do was open the door, scoop up a full ladleful, and pour it into the battered bowls set before them.",
+      "defect": "The draft omits that Taekyung enters each cell after opening it, materially changing his physical proximity to the dangerous prisoners.",
+      "id": "F10",
+      "rationale": "들어가 explicitly states that he goes inside before serving the food.",
+      "replacement": "All I had to do was open the door, step inside, scoop up a full ladleful, and pour it into the battered bowls set before them.",
+      "severity": "critical",
+      "source": "나는 문을 열고 들어가 길쭉한 국자로 한가득 퍼서 그들의 앞에 놓인 낡은 사발에 담아 주기만 하면 되었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Whenever I did that, the prisoners, who had been lying limp and helpless after years of imprisonment and torture, would make their eyes flash and strike up a conversation.",
+      "defect": "The draft converts an unspecified long imprisonment into a specific duration of years.",
+      "id": "F11",
+      "rationale": "오랜 means prolonged or lengthy but does not establish that every prisoner has been confined for years.",
+      "replacement": "Whenever I did that, the prisoners, who had been lying limp and helpless after prolonged imprisonment and torture, would make their eyes flash and strike up a conversation.",
+      "severity": "minor",
+      "source": "그럴 때마다 오랜 투옥 생활과 고문으로 무기력하게 늘어져 있던 죄수들은 눈동자를 번뜩이며 말을 걸고는 했다."
+    },
+    {
+      "confidence": 0.93,
+      "current": "“Krrr, Asuka. Old Woman Uehara.”",
+      "defect": "The draft mistakes the first celebrity-name reference for a growl and leaves the paired adult-film-performer wordplay unexplained.",
+      "id": "F12",
+      "rationale": "The line answers 아이야 by invoking Kirara Asuka and replacing the Ai in Ai Uehara’s name with an old-person term; the reference also motivates the following comparison between the mainland and the island nation.",
+      "replacement": "“Kirara Asuka. Grandma Uehara.”[^1]\n\n[^1]: A riff on Japanese adult-film performers Kirara Asuka and Ai Uehara; *ai* sounds like the Korean word for “child,” prompting Taekyung to replace it with “grandma.”",
+      "severity": "major",
+      "source": "“크롸롸 아스카. 우에하라 노인.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "In the most secluded and damp corner stood a strange man with disheveled hair.",
+      "defect": "The draft invents a standing posture for a prisoner whose limbs are bound with exceptionally heavy restraints.",
+      "id": "F13",
+      "rationale": "있었다 establishes only his presence and does not specify that he is standing.",
+      "replacement": "In the most secluded and damp corner was a strange man with disheveled hair.",
+      "severity": "major",
+      "source": "가장 구석지고 음습한 곳에 위치한 그곳에는 머리를 산발한 괴인(怪人)이 있었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The old man’s eyelid twitched.\n\nThe old man was the Heavenly Power Demon.",
+      "defect": "The final sentence is an added explicit identity confirmation after the source deliberately interrupts the old man before he can finish naming himself.",
+      "id": "F14",
+      "rationale": "The source identifies him narratively through the appositive 천력마 but does not add a separate declarative reveal after the punchline; integrating the identification into the source’s single closing sentence preserves both the fact and the comedic timing.",
+      "replacement": "The old man—the Heavenly Power Demon—had an eyelid that twitched.",
+      "severity": "critical",
+      "source": "노인, 천력마의 눈꺼풀이 파르르 떨렸다."
+    }
+  ],
+  "summary": "Several scene facts and mechanisms are altered, including the price paid for two deaths, the Emei elder’s gender, the direction and outcome of Cheongpung’s techniques, Taekyung entering the cells, and an added identity confirmation at the chapter’s end. There are also localized quantity, characterization, humor, and terminology issues.",
+  "version": 1
+}

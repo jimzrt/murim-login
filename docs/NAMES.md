@@ -1219,3 +1219,11 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 회오리치기 | **Whirlwind** | Technique Mimi-chan performs at Cheongpung's command. |
 | 한빙석 | **Cold-Ice Stone** | Special stone provided by Tang Sadok for Jeok Cheongang's treatment. |
 | 서천마군 | **Western Heaven Demon Lord** | Title of the middle-aged antagonist who commands the summoned black-robed hunters. |
+| 기련산 | **Qilian Mountains** | Mountain range in Qinghai from which the Qilian Three Fiends emerged. |
+| 삼괴 | **Three Fiends** | Collective form used by the Western Heaven Demon Lord for the Qilian Three Fiends. |
+| 기련삼괴 | **Qilian Three Fiends** | Three identical brothers from the Qilian Mountains. |
+| 삼노 | **Three Old Men** | Mocking designation used by the Western Heaven Demon Lord for the aged Qilian Three Fiends. |
+| 난화수 | **Chaotic Flower Hand** | Cheongpung's technique for redirecting an opponent's force. |
+| 천하일단 | **One Cut Under Heaven** | Powerful supreme form of the Thirty-Six Plum Blossom Swords. |
+| 매화삼릉검 | **Plum Blossom Three-Ridge Sword** | Sword technique used by Cheongpung. |
+| 채양보음 | **harvesting yang to replenish yin** | Technique mentioned as having been used to drain vitality from the Tang Clan's direct line. |

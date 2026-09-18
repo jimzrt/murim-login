@@ -505,3 +505,7 @@ Overrides generic relationship prose in character profiles for this pair.
 | 동봉 | 당사독 | physician to Family Head | you | formal-polite and measured | Uses 그대 while explaining that Tang Sadok must know Tang Mimi is unusual. |
 | 당사독 | 궁 노인 | Family Head to prison caretaker | Old Man Gung | familiar-supervisory | Tang Sadok asks about the prisoners and addresses the caretaker by surname and elder form. |
 | 궁 노인 | 당사독 | prison caretaker to Family Head | Family Head | deferential | Uses 가주님 while greeting Tang Sadok and reporting on the prisoners. |
+| 서천마군 | 기련삼괴 | commander_to_subordinates | Three Fiends; Three Old Men | mocking and superior | Calls them 삼괴 and then mockingly says they may now be called 삼노. |
+| 기련삼괴 | 서천마군 | subordinates_to_commander | my lord | fearful and deferential | The brothers greet the Western Heaven Demon Lord as 마군. |
+| 진태경 | 천력마 | prisoner_feeder_to_prisoner | you | casual and mocking | Taekyung questions the Heavenly Power Demon and mocks him as the Kunlun Sect's public-pissing criminal. |
+| 천력마 | 진태경 | prisoner_to_prisoner_feeder | you | gruff and self-possessed | The Heavenly Power Demon speaks of himself as 노부 while questioning Taekyung. |
