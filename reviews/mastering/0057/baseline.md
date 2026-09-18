@@ -22,7 +22,7 @@ Crack.
 
 I tightened my grip on the spear without realizing it. I drew internal energy up from my dantian and sent it flowing through both legs.
 
-“S-Squad Leader!”
+“C-Captain!”
 
 I kept running, leaving the reconnaissance squad’s voices fading behind me. The countless tracks the main force had left, and the growing noise of the battlefield, were my landmarks.
 
@@ -318,13 +318,13 @@ Fwish—boom!
 
 It was a signal.
 
-The martial artists of the small and mid-sized sects known as the Five Gates of Shanxi—the Three Paths Sect, a union of three sects; the Tao-centered Byeokdo Sect; and Gunggwimun, which had been pouring arrows from the cliffs without pause—turned in an instant.
+The martial artists of the small and mid-sized sects known as the Five Gates of Shanxi—the Samdo Sect, a union of three sects; the Tao-centered Byeokdo Sect; and the Gunggui Sect, which had been pouring arrows from the cliffs without pause—turned in an instant.
 
 “Kill everyone in your path!”
 
 “No exceptions! Sweep them all away!”
 
-They were no longer the clumsy third-rate martial artists they had seemed to be. Killing intent flowed from their eyes, and their sword paths were sharp.
+They were no longer the clumsy Third Rate martial artists they had seemed to be. Killing intent flowed from their eyes, and their sword paths were sharp.
 
 *This wasn’t something they prepared overnight.*
 
@@ -376,7 +376,7 @@ The Head Elder did not panic. He swept his sword up from below. Beyond the spear
 
 “Aaaaaah!”
 
-“Squad Leader! Please slow down a little!”
+“Captain! Please slow down a little!”
 
 Together with a dozen or so riffraff who had appeared from who knew where.
 

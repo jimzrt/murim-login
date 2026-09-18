@@ -10,9 +10,9 @@ Then the sounds began to reach us.
 
 Screams. Steel clashing against steel…
 
-Good. The battle wasn’t over yet.
+Thank God. The battle wasn’t over yet.
 
-Relief hit me, and my heart hammered at the same time. The fighting was still going on, but I still hadn’t confirmed whether Jin Wikyung was alive or dead.
+Relief washed over me, but my heart pounded even harder. The fighting was still going on, but I had yet to confirm whether Jin Wikyung was alive or dead.
 
 What if he died because we were a minute—or even a second—too late?
 
@@ -50,7 +50,7 @@ White hair, unmistakable even from this distance.
 
 *The Head Elder!*
 
-He stood in front of someone, sword in hand.
+He stood before someone with a sword in his hand.
 
 The Head Elder’s back blocked most of my view, but the man kneeling in front of him was huge and held a sword of his own.
 
@@ -80,7 +80,7 @@ Strength, Stamina, Agility.
 
 I pushed the stats I’d built up traveling between Murim and reality to their limits.
 
-With internal energy in my arm, I could send the spear farther and harder.
+The internal energy coursing through my arm would send the spear farther and faster.
 
 “Hup.”
 
@@ -134,7 +134,7 @@ Cursing?
 
 That was common enough on a battlefield. But it was a different matter when the target was the Head Elder and the young man who had appeared out of nowhere to hurl such abuse at him was Jin Taekyung.
 
-“Isn’t that… isn’t that the Third Young Master?”
+“Isn’t that… the Third Young Master?”
 
 “What? That’s Jin Taekyung? But why?”
 
@@ -296,7 +296,7 @@ Shhk. Thud.
 
 Jin Wikyung and the First Elder locked eyes across the space between them.
 
-“You recruited the White Tiger Hall Leader too?”
+“You didn’t recruit the White Tiger Hall Leader?”
 
 “He was loud. That was all. The others were no different.”
 
@@ -330,7 +330,7 @@ The martial artists of the small and mid-sized sects collectively known as the F
 
 “No exceptions! Wipe them all out!”
 
-They were no longer the clumsy Third Rate martial artists they had seemed to be. Killing intent flowed from their eyes, and their sword paths were sharp.
+They were no longer the clumsy Third Rate martial artists they had pretended to be. Killing intent poured from their eyes, and their sword paths were razor-sharp.
 
 *This wasn’t something they prepared overnight.*
 
@@ -368,11 +368,11 @@ Lee Cheonbaek despaired.
 
 The Mount Heng Sword Sect had suffered heavy losses, but several hundred martial artists still remained. With its entire leadership destroyed, if the Sect Leader were now taken prisoner…
 
-*Kill me instead!*
+*Just kill me!*
 
-The anguished cry never left his mouth. The Head Elder pressed the Mute Acupoint, taking his voice. Then his hand brushed the Paralysis Acupoint, and Lee Cheonbaek’s body went rigid.
+The anguished cry never left his mouth. The Head Elder pressed his Mute Acupoint, robbing him of speech, then brushed the Paralysis Acupoint and turned his body rigid.
 
-He had become a living corpse with his eyes still open.
+Lee Cheonbaek had become a living corpse with his eyes wide open.
 
 “You bastard! Get your hands off him!”
 
@@ -384,7 +384,7 @@ The Head Elder did not panic. He swept his sword upward from below. Beyond the s
 
 “Aaaaaah!”
 
-“Captain! Please slow down a little!”
+“Captain! Please slow down!”
 
 And with him came a dozen or so riffraff who had appeared from who knew where.
 
