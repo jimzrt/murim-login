@@ -1,0 +1,108 @@
+{
+  "chapter": 54,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.221,
+    "source_characters": 5487,
+    "source_paragraphs": 202,
+    "translation_characters": 12184,
+    "translation_paragraphs": 205
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "semantic_probe",
+      "details": {},
+      "message": "생도 should use the established term 'cadet'"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "절정",
+        "preferred": "Peak"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "생도",
+        "preferred": "cadet"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "등급",
+        "preferred": "Grade"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "로그인",
+        "preferred": "Login"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "지능",
+        "preferred": "Intelligence"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "중상",
+        "preferred": "Severe Injury"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "강시",
+        "preferred": "jiangshi"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "아귀",
+        "preferred": "A-Gwi"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "꼬리",
+        "preferred": "the “tail”"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "도련님",
+        "preferred": "Young Master"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}

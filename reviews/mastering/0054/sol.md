@@ -8,13 +8,13 @@ Scenes and voices stuttered across a faded screen, cutting in and out. Even so, 
 
 “Destroy the Jin Family of Taiyuan!”
 
-The people packed into the narrow gorge charged forward with a roar. Behind them, a flag marked *Mount Heng* whipped in the air.
+The men packed into the narrow gorge charged forward with a roar. Behind them, a flag marked *Mount Heng* whipped in the air.
 
 Beyond the points of their blue-edged weapons stood another banner.
 
 Jin (振).
 
-And hundreds of martial artists sealing off the gorge.
+And beneath it, hundreds of martial artists blocking the gorge.
 
 “They’re bastards with neither martial honor nor chivalry. The Mount Heng Sword Sect disappears today!”
 
@@ -22,7 +22,7 @@ And hundreds of martial artists sealing off the gorge.
 
 Static crackled.
 
-The view zoomed in through the noise, locking onto two people who stood out beneath the flag of the Jin Family of Taiyuan.
+The view zoomed in through the noise, focusing on two men who stood out beneath the banner of the Jin Family of Taiyuan.
 
 An old man with a long white beard spoke.
 
@@ -70,7 +70,7 @@ If they arrived in time and exposed the betrayal, the worst could still be avoid
 
 *The Head Elder…*
 
-An old man who had given me the creeps from the first impression. Who would have thought that so-called elder of the Jin Family of Taiyuan would be plotting something like this?
+The old man had given me the creeps from the moment I met him. Who would have thought an elder of the Jin Family of Taiyuan would be plotting something like this?
 
 If the Head Elder emerged as the final victor, it would all be over.
 
@@ -86,7 +86,7 @@ Familiar faces appeared and vanished in my mind, over and over.
 
 One month in Murim.
 
-To them, I had been a Benefactor, a trusted superior, and a comrade they could trust to watch their backs. And to someone…
+To them, I had been a Benefactor, a trusted superior, and a comrade they could trust to watch their backs. And to one of them…
 
 “I’m proud of you.”
 
@@ -100,9 +100,9 @@ But what had they been to me? NPCs loaded with advanced AI? Or people?
 
 *What were they?*
 
-Another dimension only I could come and go from, and the people left behind there. What was I supposed to do about that?
+Another dimension only I could travel to and from, and the people I had left behind there. What was I supposed to do about them?
 
-My eyes drifted to the capsule on their own.
+My eyes drifted toward the capsule.
 
 *What if I went back…?*
 
@@ -130,17 +130,17 @@ A large café surrounded by downtown skyscrapers.
 
 “Here are the materials you requested.”
 
-Butler Kim held out a thick binder. Even at a glance, it looked like a massive file of more than a hundred pages.
+Butler Kim held out a thick binder. Even at a glance, it contained well over a hundred pages.
 
 “That’s a lot.”
 
-“I investigated just as thoroughly.”
+“I was thorough.”
 
 Choi Minwoo nodded and began flipping rapidly through the pages. What he was reading was one man’s life.
 
 Jin Taekyung’s twenty-seven years were contained in those hundred-odd pages.
 
-Birthplace, background, how he had grown up—even account inquiry records provided by the bank. Nothing was missing.
+His birthplace, family background, upbringing, even his bank transaction records. Nothing was missing.
 
 Anything unusual or suspicious had been marked in bold, allowing Choi Minwoo to finish the entire file in under thirty minutes.
 
@@ -162,7 +162,7 @@ He had spent the past two weeks using every means available to investigate every
 
 “Butler Kim.”
 
-“Yes. Please go ahead.”
+“Yes, Young Master.”
 
 “Do you know the odds of reawakening?”
 
@@ -182,7 +182,7 @@ Choi Minwoo didn’t wait for an answer.
 
 “Alone, it would be impossible. He would have to be at least B-rank…”
 
-“And yet there’s someone who can.”
+“And yet I found someone who could.”
 
 “Could it be…?”
 
@@ -210,7 +210,7 @@ Choi Minwoo’s eyes gleamed.
 
 “I’ll make him one of my people. Even if it takes Three Visits to the Thatched Cottage.[^1]”
 
-And in the next moment—
+At that moment—
 
 Jingle.
 
@@ -244,7 +244,7 @@ That meant they valued my skills that highly. It was also proof that I had found
 
 *And he has the money to back it up.*
 
-I stared across the table at Team Leader Choi. As always, his expression gave nothing away, and his eyes were deep.
+I stared across the table at Team Leader Choi. As always, his expression gave nothing away, and his gaze was unreadable.
 
 Team Leader Choi suddenly spoke.
 
@@ -302,7 +302,7 @@ I could spend the rest of my life enjoying all of it. Goodbye to my miserable ol
 
 Crack.
 
-And goodbye to the fountain pen, too.
+And goodbye to the fountain pen.
 
 I relaxed my grip. Ink spilled from the shattered pen and soaked into the contract.
 
@@ -346,11 +346,11 @@ Team Leader Choi had no way of knowing that, and he furrowed his brow.
 
 “I don’t much like jokes like that.”
 
-“Neither do I. Not jokes like this.”
+“Neither do I.”
 
 He had no idea what my words meant.
 
-“I’ll be sure to see you.”
+“I’ll see you tomorrow.”
 
 It was a vow to myself.
 
@@ -358,9 +358,9 @@ A vow that I would return alive.
 
 And…
 
-“Tomorrow, you’ll have to raise the contract terms even further.”
+“Tomorrow, you’ll have to raise the offer.”
 
-I left the café, leaving Team Leader Choi behind with his eyes wide.
+I left the café, leaving Team Leader Choi staring after me with wide eyes.
 
 * * *
 
@@ -390,11 +390,11 @@ I had brought along two young siblings who were nothing but baggage, and instead
 
 That was when the three letters *NPC*, lodged in my mind, began to fade.
 
-That was when I saw the two-character word for family in Jin Wikyung’s back as he told me to survive and turned away.[^3]
+That was when I watched Jin Wikyung turn away after telling me to survive and thought of the two-character word *family*.[^3]
 
 “Fuck. My life really is a variety show.”
 
-With a hollow, complaining laugh, I climbed into the capsule. The moment I put on the VR headset, a single line of text appeared in front of me.
+With a hollow, bitter laugh, I climbed into the capsule. The moment I put on the VR headset, a single line of text appeared before me.
 
 Ding.
 

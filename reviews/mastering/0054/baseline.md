@@ -86,7 +86,7 @@ Familiar faces appeared and vanished in my mind again and again.
 
 One month in Murim.
 
-To them, I had been a Benefactor, a trusted superior, and a comrade they could turn their backs to. And to someone…
+To them, I had been a Benefactor, a trusted superior, and a comrade they could trust to watch their backs. And to someone…
 
 “I’m proud of you.”
 
@@ -94,7 +94,7 @@ To them, I had been a Benefactor, a trusted superior, and a comrade they could t
 
 “Survive, youngest.”
 
-I had been a blood brother, too.
+I was also his brother by blood.
 
 But what had they been to me? NPCs loaded with advanced AI? Or people?
 
@@ -118,7 +118,7 @@ I was muttering it like a sigh when my phone rang.
 
 Bzzz.
 
-Luxury Freak.
+Designer-Brand Junkie.
 
 It was Team Leader Choi.
 
@@ -206,7 +206,7 @@ Choi Minwoo shook his head.
 
 Choi Minwoo’s eyes gleamed.
 
-“I’ll make him one of my people. Even if I have to pay him three personal visits.[^1]”
+“I’ll make him one of my people. Even if it takes Three Visits to the Thatched Cottage.[^1]”
 
 And in the next moment—
 
