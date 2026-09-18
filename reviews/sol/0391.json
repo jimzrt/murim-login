@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Zhang Wei, commander of the Sichuan Province Public Security Armed Forces Department's 2nd Company, had felt uneasy about this operation from the very beginning.",
+      "defect": "The draft omits that Zhang Wei and his company had remained in the rear, losing tactical context that directly informs his suspicion about the new order.",
+      "id": "F01",
+      "rationale": "후위에 남아 있던 explicitly locates Zhang Wei in the rear before the operation begins.",
+      "replacement": "Zhang Wei, commander of the Sichuan Province Public Security Armed Forces Department's 2nd Company, had remained in the rear, and he had felt uneasy about this operation from the very beginning.",
+      "severity": "major",
+      "source": "후위에 남아 있던 쓰촨성 공안 무력부 2중대장, 장 웨이는 처음부터 이 작전이 꺼림칙했다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "*Go ahead of the army and occupy the city? That's different from the orders Colonel Xiao gave me.*",
+      "defect": "The draft says Zhang Wei was ordered to go ahead of the army, but the source says he was to go ahead together with the army.",
+      "id": "F02",
+      "rationale": "군대와 함께 means “together with the army,” not “ahead of the army.” This changes the composition of the advancing force and contradicts the ensuing joint deployment.",
+      "replacement": "*Go ahead with the army and occupy the city? That's different from the orders Colonel Xiao gave me.*",
+      "severity": "critical",
+      "source": "‘군대와 함께 먼저 가서 도시를 점령하라니? 샤오 연대장이 내린 명령과는 다른데.’"
+    },
+    {
+      "confidence": 0.95,
+      "current": "“He may be young, but he's just as capable. He has earned so much respect that he treats us like brothers.”",
+      "defect": "The draft turns Xiao Shen's fraternal relationship with his men into a consequence of earning respect, whereas the source presents his high standing and brotherly closeness as parallel qualities.",
+      "id": "F03",
+      "rationale": "신망도 두텁고 states that he is deeply respected and trusted, while 저희와도 형제처럼 지내실 만큼 separately characterizes how closely he associates with his men.",
+      "replacement": "“He may be young, but he's exceptionally capable. He's highly respected, and he's close enough to us to treat us like brothers.”",
+      "severity": "major",
+      "source": "「……나이는 어리지만 그만큼 뛰어난 분입니다. 저희와도 형제처럼 지내실 만큼 신망도 두텁고요.」"
+    },
+    {
+      "confidence": 0.91,
+      "current": "After killing more than a dozen monsters at the very front, Zhang Wei felt a little less tense.",
+      "defect": "“More than a dozen” imposes a higher lower bound than the source's approximate count of ten or so.",
+      "id": "F04",
+      "rationale": "십여 마리 indicates roughly ten or a little more, naturally rendered as “a dozen or so,” rather than necessarily more than twelve.",
+      "replacement": "After killing a dozen or so monsters at the very front, Zhang Wei felt a little less tense.",
+      "severity": "minor",
+      "source": "가장 선두에서 십여 마리의 몬스터들을 처치한 장 웨이는 약간 이나마 마음이 풀어졌다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Tanks!”",
+      "defect": "The shouted call is for a tank-class Hunter, not for the military vehicles.",
+      "id": "F05",
+      "rationale": "탱커 is the established Hunter role “tank.” Rendering it as the plural vehicle “Tanks” changes the subject of the emergency call.",
+      "replacement": "“Tank!”",
+      "severity": "major",
+      "source": "「탱커!」"
+    },
+    {
+      "confidence": 0.98,
+      "current": "A building collapsed at an angle. Inside the exposed space, humans were crouched together with their mouths clamped tightly shut.",
+      "defect": "The draft changes the humans' deliberate physical act of covering their mouths to suppress noise into merely keeping their mouths shut.",
+      "id": "F06",
+      "rationale": "입을 막은 채 describes covering or muffling their mouths, an active concealment behavior that matters while they hide from the Death Knights.",
+      "replacement": "A building collapsed at an angle. In the exposed space inside, several humans crouched together, desperately covering their mouths.",
+      "severity": "major",
+      "source": "비스듬히 허물어지는 건물. 드러난 내부 공간에는 한껏 입을 막은 채 웅크려 있는 인간들이 있었다."
+    },
+    {
+      "confidence": 0.9,
+      "current": "“D-Daddy?”",
+      "defect": "The draft presents the child's speech as a stutter rather than an infant's imperfect pronunciation.",
+      "id": "F07",
+      "rationale": "압빠빠 is baby talk approximating 아빠, so an infantile pronunciation preserves the register more accurately than a repeated initial consonant.",
+      "replacement": "“Dadda?”",
+      "severity": "minor",
+      "source": "「압빠빠?」"
+    }
+  ],
+  "summary": "The draft contains one critical alteration to the unit's orders, along with several meaningful omissions or mistranslations involving tactical context, characterization, Hunter terminology, and physical actions.",
+  "version": 1
+}
