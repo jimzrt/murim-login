@@ -108,7 +108,7 @@ I kept repeating the words to myself. But the sight before me was too horrific t
 
 **BLOOD**
 
-The character had been carved into their foreheads. Torchlight reflected off the dried blood.
+The word had been carved into their foreheads. Torchlight gleamed on the dried blood.
 
 More than ten children had gone cold like that.
 
@@ -172,7 +172,7 @@ I kept my mouth shut. Jin Wikyung’s face twisted as he spoke.
 
 “Head Elder. I told you to watch your words.”
 
-Jin Wikyung growled. Had we been alone, he would have been ready to start something right then and there.
+Jin Wikyung growled. Had no one else been there, he looked ready to come to blows with the old man.
 
 But the Head Elder remained calm.
 
@@ -190,11 +190,11 @@ He had suddenly switched to informal speech, yet it came so naturally that neith
 
 “It was an excellent decision. If you had tried to save the branches, you would have had to run for seven days and nights without rest, then fight the enemy while utterly exhausted. Isn’t that right?”
 
-Jin Wikyung stared at the Head Elder with a pale face. Fresh blood flowed between his tightly clenched fingers.
+Jin Wikyung stared at the Head Elder, his face deathly pale. Fresh blood trickled between his tightly clenched fingers.
 
 “I—I…”
 
-“Everything comes with a sacrifice. Look at the bigger picture. You are the Lesser Family Head responsible for the hundreds of family members of the Jin Family of Taiyuan.”
+“Everything demands sacrifice. Look at the bigger picture. You are the Lesser Family Head responsible for the hundreds of people in the Jin Family of Taiyuan.”
 
 Jin Wikyung’s body trembled. The anger and sorrow drained from his face, leaving behind a strange emptiness.
 
@@ -208,11 +208,11 @@ The Head Elder offered a fist-and-palm salute. I bit down hard on my lip.
 
 The Head Elder was clearly dangerous. His position in the family, his utterly unreadable motives, even the psychopathic way he could look at the corpses of children without twitching an eyebrow…
 
-But…
+But—
 
 *He’s right.*
 
-From my perspective, Jin Wikyung was a good Lesser Family Head. He was deeply humane and sharp-minded.
+From what I had seen, Jin Wikyung was a good Lesser Family Head. He was deeply humane and sharp-minded.
 
 But the moment he saw the corpses, he had been shaken more than anyone. Without the Head Elder’s cold rebuke, it would have taken him a long time to regain his composure.
 
@@ -226,7 +226,7 @@ I was looking at the Head Elder with a mixture of suspicion and relief when he s
 
 “So the Third Young Master is here as well.”
 
-My heart dropped at the sight of those shrewd gray eyes. It was the first time the Head Elder had spoken to me.
+My heart dropped when those shrewd gray eyes turned toward me. It was the first time the Head Elder had spoken to me.
 
 “Greetings, Head Elder.”
 
@@ -290,7 +290,7 @@ A sword.
 
 A black martial uniform with a crude white tiger embroidered on it.
 
-And a smooth wooden plaque that smelled strongly of fresh wood.
+And a smooth wooden plaque that smelled strongly of fresh-cut wood.
 
 That was everything.
 
@@ -298,7 +298,7 @@ That was everything.
 
 Fortunately, I knew the place. A pavilion I had passed several times had been assigned as the reconnaissance squad’s quarters.
 
-After leaving White Tiger Hall, I first ducked into an empty alley.
+After leaving White Tiger Hall, I ducked into an empty alley.
 
 *Open Inventory.*
 
@@ -312,7 +312,7 @@ But things were different from here on out.
 
 We would eat together and sleep together. I couldn’t exactly perform the magic trick of making a two-meter iron spear pop out of thin air whenever I needed it.
 
-Once I hung the wooden plaque engraved with *Squad Leader* at my waist, I felt like I’d become Ordinary Martial Artist #1 of the Jin Family of Taiyuan.
+Once I hung the wooden plaque engraved with *Captain* at my waist, I felt like I had become Ordinary Jin Family Martial Artist #1.
 
 *Not just an ordinary martial artist. I’m a reconnaissance squad captain.*
 
@@ -330,15 +330,15 @@ Before I knew what was happening, the position was mine.
 
 *I never imagined this was how I’d get dragged into the war.*
 
-I could have just told them to do whatever the hell they wanted, but I held back. The first reason was the Head Elder’s eyes, which flashed every time Yama Whip was mentioned.
+I could have flat-out refused, but I held back. The first reason was the way the Head Elder’s eyes flashed whenever Yama Whip came up.
 
-The second reason was…
+The second was…
 
 The children.
 
 *It’s a game. It’s all graphics, nothing more than an illusion.*
 
-No matter how many times I repeated that to myself, the corpses and the character carved into their foreheads kept flickering before my eyes.
+No matter how many times I repeated that to myself, the corpses and the word carved into their foreheads kept flickering before my eyes.
 
 Part of my decision had been emotional.
 
@@ -356,7 +356,7 @@ Maybe it was a side effect of playing the game for too long.
 
 Before I knew it, I had reached the reconnaissance squad’s quarters. My mouth fell open.
 
-Cracked wood and a musty smell.
+Cracked timbers. A musty stench.
 
 Good lord, there was even a beehive under the eaves. I had never seen one that big before.
 

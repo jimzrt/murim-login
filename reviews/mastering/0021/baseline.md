@@ -6,7 +6,7 @@ Ding.
 >
 > - Practiced the **Jin Family’s Cultivation Technique**.
 >
-> - As a result of repeated practice, **Sinews** and **Bones** each increase by 1.
+> - As a result of repeated practice, **Sinews and Meridians** and **Muscles and Bones** each increase by 1.
 
 “Whew.”
 
@@ -22,9 +22,9 @@ How many times had I tried? Twenty? Thirty? The result was what mattered. Once a
 
 I was gradually getting used to handling internal energy. If I had been a C-rank Hunter instead of an F-rank—or at least a D-rank—I would have adapted much faster. But reality was cold and unforgiving.
 
-*My Sinews and Bones improving steadily must be helping, too.*
+*The steady improvement in my Muscles and Bones and Sinews and Meridians must be helping, too.*
 
-Internal energy flowed through the body’s meridians. The more I practiced a cultivation technique, and the more my Sinews and Bones improved, the wider and sturdier those pathways became. Compared to when I had started, I could circulate more internal energy at a much faster speed.
+Internal energy flowed through the body’s meridians. The more I practiced my cultivation technique and improved those two attributes, the wider and sturdier the pathways became. Compared to when I had started, I could circulate more internal energy at a much faster speed.
 
 *It’s all thanks to the Skill Points.*
 
@@ -40,7 +40,7 @@ The ten Skill Points awarded with every level-up were doing their job well. Noth
 >
 > **Martial Arts:** Jin Family’s Spear Technique (Fifth Stage) / Jin Family’s Manoeuvre Technique (Fifth Stage)
 >
-> **Sinews and Bones:** 105
+> **Muscles and Bones:** 105
 >
 > **Remaining Points:** 0
 
