@@ -30,7 +30,7 @@ In the dust cloud that rose with the thunderous impact, a figure staggered back.
 
 *What the hell kind of internal energy…*
 
-He had trained in exceptional martial arts and taken elixirs since he was a child, but this was a bad matchup. The First Elder was a vile old monster who had lived more than sixty years with his black heart hidden.
+He had trained in exceptional martial arts and taken elixirs since he was a child, but this was a bad matchup. The First Elder was a vile old monster who had lived for more than one jiazi while concealing his black heart.
 
 Together with the Head Elder, he was a living witness who had fought his way through the Great Faction War.
 
@@ -52,7 +52,7 @@ Or perhaps an old man’s pride had made him overrate himself.
 
 *How cruel. Truly cruel.*
 
-Sixty years. He had accumulated profound internal energy, but even that could not stop his body from aging.
+One jiazi. He had accumulated profound internal energy, but even that could not stop his body from aging.
 
 *If only I were ten years younger.*
 
@@ -94,7 +94,7 @@ The Discipline Hall Master’s voice sounded ready to break. He neither fell nor
 
 “Heh heh. And?”
 
-“As the Discipline Hall Master of the Jin Family of Taiyuan, I command you. The guilty shall abolish their own martial arts and enter the Cave of Repentance…”
+“As the Discipline Hall Master of the great Jin Family of Taiyuan, I command you. The guilty shall abolish their own martial arts and enter the Repentance Cave…”
 
 Shhk.
 
@@ -120,7 +120,7 @@ Shame, and anger.
 
 “Show them the spirit of the Jin Family of Taiyuan!”
 
-The ones who felt ashamed of themselves were the first to charge. They were senior members of the so-called Elders’ faction.
+The ones who felt ashamed of themselves were the first to charge. They were senior members of the so-called Council of Elders faction.
 
 They could not forgive themselves for aiding the traitors. Nor could they forgive the Elders who had betrayed them and the family.
 
