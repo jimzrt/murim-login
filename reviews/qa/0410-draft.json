@@ -1,0 +1,88 @@
+{
+  "chapter": 410,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.195,
+    "source_characters": 5883,
+    "source_paragraphs": 195,
+    "translation_characters": 12916,
+    "translation_paragraphs": 188
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "unused_footnotes",
+      "details": {
+        "unused_definitions": [
+          "1"
+        ]
+      },
+      "message": "translation contains unused footnote definitions"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "상태",
+        "preferred": "Status"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "도사",
+        "preferred": "Daoist"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "신의",
+        "preferred": "Divine Physician"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "군림",
+        "preferred": "The Reign"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "검신",
+        "preferred": "Sword God"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "경호팀장",
+        "preferred": "Head of Security"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "중국",
+        "preferred": "China"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
