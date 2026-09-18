@@ -549,3 +549,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진위경 | 막내 | older brother to younger brother | my youngest | intimate and informal | Jin Wikyung uses 막내야 affectionately for Jin Taekyung. |
 | 당사독 | 진위경 | Tang Clan Family Head to Lesser Family Head | Lesser Family Head | formal and remorseful | Asks whether Wikyung is the Lesser Family Head of the Jin Family of Taiyuan and addresses him while accepting judgment. |
 | 진위경 | 당사독 | Lesser Family Head to Tang Clan Family Head | Family Head | cold, formal, and restrained | Addresses Tang Sadok as 가주 while asking what punishment he seeks and presenting the possibility of self-sacrifice. |
+| 무송 | 적천강 | junior_martial_artist_to_legendary_martial_master | Great Hero Jeok | formal-deferential | Mu Song respectfully refers to Jeok Cheongang as 적 대협 while worrying that Jeok dislikes him. |
