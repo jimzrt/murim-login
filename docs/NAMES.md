@@ -1291,3 +1291,12 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 지풍 | **Finger Qi** | Invisible qi attack fired by the Western Heaven Demon Lord. |
 | 법화 | **Lotus Sutra** | Buddhist scripture used in the comparison for the Demon Lord's fiend-like face. |
 | 이기어검 | **Qi-Controlled Sword** | Technique used by the Western Heaven Demon Lord to control and attack with a sword through qi. |
+| 벽력문 | **Pyeokryeomun** | Martial sect destroyed long ago; source of Heaven-Shaking Thunder. |
+| 기관진법 | **mechanism array** | Tang Clan formation used to delay the assault. |
+| 일 단주 | **First Captain** | Office assigned to First Fiend under the Western Heaven Demon Lord. |
+| 부단주 | **deputy captain** | Subordinate command title mentioned in the assault report. |
+| 적살마 | **Red Slaughter Demon** | Historical martial artist whose surviving manual created the Qilian Three Fiends’ techniques. |
+| 적살수라망 | **Red Slaughter Asura Net** | Signature Force-net technique used by First Fiend. |
+| 일자혜검 | **One-Character Wisdom Sword** | Cheongpung’s sword technique that dismantles the Red Slaughter Asura Net. |
+| 적살십팔부 | **Red Slaughter Eighteen Axes** | First Fiend’s twin-axe martial art. |
+| 적살십팔검 | **Red Slaughter Eighteen Swords** | Cheongpung’s emerging sword adaptation of the Red Slaughter Eighteen Axes. |
