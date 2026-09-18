@@ -1281,3 +1281,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 괴력난신 | **supernatural powers** | Term for extraordinary and unnatural powers. |
 | 염라대왕 | **Yama** | Expanded source form of the established underworld ruler term 염라. |
 | 청계천 | **Cheonggyecheon** | Stream invoked in Taekyung's joke about Dark Heaven. |
+| 흑룡갑 | **Black Dragon Armor** | Defensive armor worn beneath the Western Heaven Demon Lord's yellow robe. |
