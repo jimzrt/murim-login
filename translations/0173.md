@@ -2,7 +2,7 @@
 
 “Then…?”
 
-At the astonishment in Cheongpung’s eyes, the Fire King Jeok Cheongang smiled faintly.
+At Cheongpung’s astonished expression, the Fire King Jeok Cheongang gave him a faint smile.
 
 “Have you heard of me?”
 
@@ -16,21 +16,21 @@ At the astonishment in Cheongpung’s eyes, the Fire King Jeok Cheongang smiled 
 
 The truth was, Jeok Cheongang had never been particularly sociable. No, “not sociable” did not begin to cover it. He was downright awful.
 
-He had suffered all kinds of hardships as a child, leaving him with a deep-rooted distrust of people. After that, he had grown up under a Master with an eccentric personality.
+He had suffered all manner of hardships as a child, leaving him with a deep-rooted distrust of people. After that, he had grown up under an eccentric Master.
 
 So perhaps it was only natural.
 
-“I heard you picked fights almost every day during the Great Faction War. Apparently, you got a good whack in on every last young prodigy of the Nine Sects and One Gang…”
+“I heard you got into fights nearly every day during the Great Faction War. Apparently, you hit practically every young prodigy from the Nine Sects and One Gang at least once…”
 
-“Ahem. Whacked every one of them? Who says that! And I was young back then. When you’re young and full of energy…”
+“Ahem. Who says I hit all of them? And I was young back then. When you’re young and full of energy…”
 
 “I heard you were sixty at the time.”
 
 “Cough, cough!”
 
-Jeok Cheongang, unable to defend himself, merely cleared his throat. Cheongpung added one more thing.
+Unable to defend himself, Jeok Cheongang merely cleared his throat. Then Cheongpung added one more thing.
 
-“But he said that you were a good person once you got to know you, so if I ever met you, I should treat you the way I treat him.”
+“But he said you were a good person once someone got to know you, so if I ever met you, I should treat you the way I treat him.”
 
 The corner of Jeok Cheongang’s mouth twitched.
 
@@ -38,7 +38,7 @@ The corner of Jeok Cheongang’s mouth twitched.
 
 Jeok Cheongang had fought in the Great Faction War for a little over a year.
 
-It was rare for two Supreme Peak masters to participate in the same battlefield, and he had met Mae Jonghak only about ten times. Even so, they had unquestionably been close enough to call each other kindred spirits.
+It was rare for two Supreme Peak masters to fight on the same battlefield, and he had met Mae Jonghak only about ten times. Even so, they had unquestionably been close enough to call each other kindred spirits.
 
 *He did a fine job raising his grandson.*
 
@@ -54,7 +54,7 @@ Well, it did not matter.
 
 Whether they shared blood or not, the boy was clearly his successor.
 
-Judging from his behavior and the way he spoke, it would not be an exaggeration to say that they shared a soul rather than blood.
+Judging by his behavior and the way he spoke, it would not be an exaggeration to say that they shared a soul rather than blood.
 
 With a pleased smile, Jeok Cheongang spoke to Cheongpung.
 
@@ -66,9 +66,9 @@ Cheongpung tilted his head.
 
 “Why?”
 
-“...What do you mean, why?”
+“…What do you mean, why?”
 
-Jeok Cheongang was caught off guard and began to stammer.
+Caught off guard, Jeok Cheongang began to stammer.
 
 “Didn’t Mae Jonghak tell you to treat me the way you treat him?”
 
@@ -78,11 +78,11 @@ Jeok Cheongang was caught off guard and began to stammer.
 
 “My grandfather doesn’t care about things like that. He said only hidebound old men obsess over empty formalities.”
 
-“...!”
+“…!”
 
-Jeok Cheongang, suddenly turned into a hidebound old man, trembled.
+Jeok Cheongang trembled, having suddenly become a hidebound old man.
 
-“What do you call this again? I learned it recently.”
+“What was this called again? I learned it recently.”
 
 Cheongpung thought hard for a moment, then slapped his forehead.
 
@@ -92,13 +92,13 @@ Cheongpung thought hard for a moment, then slapped his forehead.
 
 “A boomer. They say ‘boomer-brain’ means something similar.”
 
-A boomer? Boomer-brain? Neither sounded particularly pleasant.
+A boomer? Boomer-brain? Neither the sound nor the feel of the words was particularly pleasant.
 
-Jeok Cheongang did not know exactly what the words meant, but he understood the context well enough.
+Jeok Cheongang did not know exactly what they meant, but he understood the context well enough.
 
 *Have I been hiding in the mountains for too long?*
 
-The new waves of the Yangtze were stronger than he had imagined. Even so, he could not beat up the only grandson of his one and only kindred spirit…
+The new waves of the Yangtze were stronger than he had imagined. Even so, he could not beat up the only grandson of his one kindred spirit…
 
 Jeok Cheongang felt his head begin to ache and opened his mouth.
 
@@ -112,7 +112,7 @@ Jeok Cheongang felt his head begin to ache and opened his mouth.
 
 Jeok Cheongang followed the direction Cheongpung was pointing and turned his head.
 
-His eyes met those of a young man who was squinting at him.
+His eyes met those of a young man squinting at him.
 
 “Hey, come here.”
 
@@ -122,9 +122,7 @@ His eyes met those of a young man who was squinting at him.
 
 *No, he didn’t. Absolutely not. I closed my eyes right away. How could he have seen me?*
 
-I trembled with my eyes shut.
-
-As if I were struggling with all my might to treat an Internal Injury.
+I trembled with my eyes shut, as if I were struggling with all my might to treat an internal injury.
 
 Just in case, I even added a groan.
 
@@ -136,7 +134,7 @@ Stay calm.
 
 He was just making a wild guess. If I fell for it immediately, I would be Third Rate.
 
-At times like this, a Peak master had to clench his butt and keep acting his heart out.
+At times like this, a Peak master had to clench his ass and keep acting his heart out.
 
 “Uuugh!”
 
@@ -150,33 +148,33 @@ He had a point. I relaxed slightly at Jeok Cheongang’s helpful advice.
 
 *The last time.*
 
-I could not fall for a word like that.
+I could not fall for a phrase like that.
 
 I had to hold out until the very last last.
 
 “This old man will go, then. You’re dead today.”
 
-“...I’ll come.”
+“…I’ll come.”
 
-I opened my eyes with tears in them.
+With tears in my eyes, I opened them.
 
-Two eyes blazing with flames were glaring at me.
+Jeok Cheongang was glaring at me, his eyes blazing like fire.
 
-He truly looked like someone worthy of the title Fire King.
+He truly looked worthy of the title Fire King.
 
 *Fuck. The Fire King.*
 
-*Why is hyung here…*
+*What are you doing here, hyung…?*
 
 No matter how many times I thought it over, the situation was utterly unbelievable.
 
-But reality did not change. That short, squat old man was a Supreme Peak master counted among the twenty strongest under heaven—the Fire King.
+But reality did not change. That short, squat old man was the Fire King, a Supreme Peak master counted among the twenty strongest under heaven.
 
 *I had a feeling from the start.*
 
-I couldn’t say for sure, but I was probably the first person here to realize his true identity.
+I might have been the first person here to realize his true identity.
 
-The moment Jeok Cheongang’s internal energy came flooding into me, the System had delivered a rather telling message.
+The moment Jeok Cheongang’s internal energy surged into me, the System had delivered a telling message.
 
 Ding.
 
@@ -186,7 +184,7 @@ Ding.
 > - It is assimilating the internal energy that has entered your body.
 > - Your internal energy has risen slightly.
 
-It had happened in the blink of an eye. At first, I thought I was about to be roasted alive like a whole pig. But soon my stomach grew warm, as if I had just eaten a bowl of gukbap,[^1] and my internal energy even increased.
+It had happened in the blink of an eye. At first, I thought I was about to be roasted alive. But soon my stomach grew warm, as if I had just eaten a bowl of gukbap,[^1] and my internal energy even increased.
 
 *What the hell is this?*
 
@@ -194,9 +192,9 @@ At first, I was bewildered, but I figured something good was something good. The
 
 *Wait. My Scorching Yang Qi came from eating the Blazing Flame Divine Pill.*
 
-How did it make sense that having the same Scorching Yang Qi meant I would not be harmed? It had even absorbed the energy.
+Just because it was the same kind of Scorching Yang Qi, why would that make me immune to harm? I had even absorbed his internal energy.
 
-I thought intensely for a short while before reaching a conclusion.
+After a brief but intense deliberation, I eventually reached a conclusion.
 
 It was because they were of the same kind, both born from the same root.
 
@@ -208,15 +206,15 @@ That was what I thought at the time.
 
 They say the first of the five psychological stages cancer patients go through is denial. I was no different.
 
-The only difference was that I entered the final stage—acceptance—in less than five minutes.
+The only difference was that I reached the final stage—acceptance—in less than five minutes.
 
-*He was close friends with the Sword Saint, lived on Mount Jiuhua during the Great Faction War, and when Demonic Cultists set fire to the mountain, he wiped them all out…*
+*He was close friends with the Sword Saint, lived on Mount Jiuhua during the Great Faction War, and wiped out all the Demonic Cultists after they set fire to the mountain…*
 
 *Fuck. He really is the Fire King.*
 
-The more I listened to the conversation between Jeok Cheongang and Cheongpung, the more certain his identity became.
+The more I listened to Jeok Cheongang and Cheongpung’s conversation, the more certain his identity became.
 
-He had not explicitly declared, in his own words, that he was the Fire King. But anyone who did not realize it at this point was an idiot.
+He had not explicitly declared that he was the Fire King, but anyone who had not figured it out by this point would have to be an idiot.
 
 Once I finally reached the acceptance stage, a chill ran down my spine.
 
@@ -230,7 +228,7 @@ I had already gulped down the Blazing Flame Divine Pill, and it was safely store
 
 Whether Jopil was that old man’s disciple or not, I had a problem either way.
 
-With my thoughts in chaos, I slowly began walking like an ox being led to the slaughterhouse. Jeok Cheongang raised a finger.
+My thoughts in chaos, I trudged forward like an ox being led to slaughter. Jeok Cheongang raised a finger.
 
 “I’ll count to three. One.”
 
@@ -242,7 +240,7 @@ I charged forward with every ounce of strength I possessed. The Fire King looked
 
 “Yes!”
 
-“You startled me. I’m not deaf, so speak softly!”
+“You startled me! I’m not deaf, so speak softly!”
 
 Smack!
 
@@ -250,13 +248,13 @@ A crisp impact left the back of my head throbbing. It was the first time I had e
 
 Of course, I had no intention of protesting. My opponent was an irritable Supreme Peak master.
 
-Jeok Cheongang narrowed his eyes as he watched me keep my mouth shut.
+Jeok Cheongang narrowed his eyes as I kept my mouth shut.
 
 “Well, look at you. You’re much quieter than before.”
 
 “No, I’m not.”
 
-“Like hell you’re not. You’d have better luck fooling a ghost than fooling this old man. I could tell the moment you opened your eyes.”
+“Don’t lie to this old man. You’d have better luck deceiving a ghost. Even the way you opened your eyes was different.”
 
 Cheongpung approached with a worried expression.
 
@@ -270,13 +268,13 @@ I answered in a half-dead voice.
 
 “More or less?”
 
-Without so much as a turn signal, Jeok Cheongang leaned his head toward me and looked me up and down.
+Without so much as a turn signal, Jeok Cheongang stuck his head in and looked me up and down.
 
 “Hmm. Now that I think about it, why are you so fine? You should have been unable to move and forced to circulate your energy for at least half an hour.”
 
 *Why am I fine? Because I absorbed the Blazing Flame Divine Pill.*
 
-But I could not say that. Under his suspicious gaze, my mouth grew dry.
+But I could not say that. Under his suspicious gaze, my mouth went dry.
 
 “You’re a strange one, the more I look at you. Which sect are you from?”
 
@@ -284,9 +282,9 @@ But I could not say that. Under his suspicious gaze, my mouth grew dry.
 
 “The Jin Family of Taiyuan… I’m sure I’ve heard of it somewhere.”
 
-Jeok Cheongang furrowed his brow for a moment before suddenly exclaiming.
+Jeok Cheongang furrowed his brow for a moment, then exclaimed, “Ah!”
 
-“Oh, was it the Blade of Flowers? That’s right. That fellow Jin Baekyang was from the Jin Family of Taiyuan.”
+“Was it the Blade of Flowers? That’s right. That fellow Jin Baekyang was from the Jin Family of Taiyuan.”
 
 Blade of Flowers Jin Baekyang.
 
@@ -298,23 +296,23 @@ Under Jeok Cheongang’s demanding gaze, I licked my lips.
 
 “That’s right.”
 
-“I ran into him a few times while traveling. He was a decent fellow. He had a somewhat gloomy side, but everyone was like that back then. He was also very courteous.”
+“I ran into him a few times in my travels. He was a decent fellow. He had a somewhat gloomy side, but everyone was like that back then. He was also unfailingly courteous.”
 
-All that remained of a person was their memories. Especially for an old man like Jeok Cheongang, who did not have many years left.
+All that remained to a person were their memories, especially for an old man like Jeok Cheongang, who did not have many years left to live.
 
-*But why did it have to be the Head Elder?*
+*But why did that memory have to be of the Head Elder?*
 
-And apparently, he had remembered him fondly.
+Apparently, he remembered him quite fondly.
 
-Then again, no one would have expected the Head Elder to commit such a thing until recently.
+Then again, until recently, no one would have expected the Head Elder to do what he had done.
 
-During the Great Faction War, he had possessed martial arts strong enough to make him a leading candidate for Family Head, as well as a great deal of respect from others.
+During the Great Faction War, his martial arts had been formidable enough to make him a leading candidate for Family Head, and he had been widely respected.
 
-“You seem to be of the Jin Family of Taiyuan’s bloodline, judging from your achievements. What is your relationship with the Blade of Flowers?”
+“Judging by your attainment, you carry the Jin Family of Taiyuan’s blood. What is your relationship with the Blade of Flowers?”
 
 “He’s my great-uncle.”
 
-In reality, ours had been a kill-or-be-killed relationship. But I wasn’t technically lying.
+In reality, we had been locked in a relationship of killing or being killed. But I was not technically lying.
 
 At the mention of shared blood, Jeok Cheongang’s eyes softened.
 
@@ -324,21 +322,23 @@ At the mention of shared blood, Jeok Cheongang’s eyes softened.
 
 “How old are you?”
 
-“I’m twenty this year. I’ve reached the age of majority.”
+“Twenty this year. I’ve just come of age.”
 
 “You seem to have learned Scorching Yang Qi. Did the Blade of Flowers teach you?”
 
-“...Yes.”
+“…Yes.”
 
-He had taught me. At Eight Spring Gorge, about two months ago.
+He had given me some instruction about two months ago at Eight Spring Gorge.
 
-He had been so enthusiastic that I had nearly had my crown split open by Sword Energy.
+He had been so enthusiastic about it that Sword Energy had nearly split my head open.
 
 “Your achievements are remarkable for your age. You’re far more advanced than the Blade of Flowers was in his day.”
 
 Jeok Cheongang was even offering me compliments now.
 
-The atmosphere had become warm and friendly overall. That is, until he opened his mouth again a moment later.
+The atmosphere had become warm and friendly overall.
+
+Then he opened his mouth again.
 
 “So, is he doing well?”
 
@@ -346,17 +346,17 @@ The atmosphere had become warm and friendly overall. That is, until he opened hi
 
 *Well, he’s doing fine in his grave, I suppose.*
 
-“He must have improved quite a bit by now. Should I stop by and see him while I’m here?”
+“His martial arts must have improved considerably by now. Should I stop by and see him while I’m here?”
 
 “About that…”
 
 *You can visit, but you won’t be seeing his face.*
 
-The Head Elder’s grave was in a corner of the Jin Family of Taiyuan’s cemetery—in other words, the family cemetery.
+The Head Elder’s grave was in one corner of the Jin Family of Taiyuan’s cemetery—in other words, the family cemetery.
 
-The family’s senior members had vehemently opposed it, but Jin Wikyung had pushed it through. He had felt guilty about the mistake made by his grandfather, the former Family Head.
+The family elders had vehemently opposed it, but Jin Wikyung had pushed it through. He had felt guilty about the mistake made by his grandfather, the former Family Head.
 
-“I suppose I should have a drink with him. It’s been a long time since I’ve seen him. Surely he won’t turn me away.”
+“I suppose I should have a drink with him. It’s been a long time since we last met. Surely he won’t treat me coldly.”
 
 I imagined Jeok Cheongang pouring liquor beside the Head Elder’s grave.
 
@@ -370,17 +370,15 @@ I took a deep breath and opened my mouth.
 
 “He passed away.”
 
-“...What?”
+“…What?”
 
-“Just a couple of months ago…”
+“Just a couple of months ago, unfortunately.”
 
-Jeok Cheongang was silent for a moment before muttering,
-
-“Already? He was still in the prime of life.”
+Jeok Cheongang was silent for a moment before muttering, “Already? He was still going strong.”
 
 “…”
 
-*The prime of life? He was over eighty.*
+*Going strong? He was over eighty.*
 
 Of course, he had possessed powerful internal energy. If he had stayed out of trouble, he might have lived another twenty years.
 
@@ -390,7 +388,7 @@ Of course, he had possessed powerful internal energy. If he had stayed out of tr
 
 “He fell in battle?”
 
-A flash of anger appeared in Jeok Cheongang’s eyes.
+A trace of anger appeared in Jeok Cheongang’s eyes.
 
 “Was it the Demonic Cult bastards?”
 
@@ -402,7 +400,7 @@ A flash of anger appeared in Jeok Cheongang’s eyes.
 
 “Did you avenge him? From the Jin Family of Taiyuan’s perspective, he was the kind of bastard they could grind up and eat, bones and all, and still not be satisfied.”
 
-Listening to him made me feel as though my bones were turning to jelly.
+Listening to him made me feel as if my bones were turning to jelly.
 
 I lowered my head silently with a sorrowful expression. Sensing the subdued atmosphere, Jeok Cheongang stopped speaking.
 
@@ -410,9 +408,9 @@ I lowered my head silently with a sorrowful expression. Sensing the subdued atmo
 
 If he had been awake, he would have been shooting me sidelong glances and practically shouting, *This is the culprit. He killed him.*
 
-*Enough. The moment I get out of here, I’m getting the hell out. Maybe I should just use Logout altogether.*
+*All right. As soon as I get out of here, I’m getting the hell away. Maybe I should just use Logout altogether.*
 
-And then, the next moment, I realized something.
+Then, in the next moment, I realized something.
 
 “Huh? Blade of Flowers Jin Baekyang—isn’t he the person you killed, Benefactor? Right?”
 
