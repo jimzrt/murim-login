@@ -1155,3 +1155,10 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 본단 | **League headquarters** | The League headquarters to which Hwang Tae-gu will be transported. |
 | 기해혈 | **qi-sea acupoint** | Acupoint at the dantian whose destruction releases stored internal energy. |
 | 화타 | **Hua Tuo** | Historical physician invoked in Taekyung's comparison for Mungyeong's future medical skill. |
+| 당가타 | **Tang Family Hill** | The Tang Clan's former main base, burned during the Great Faction War. |
+| 당가 | **Tang Family** | Short form for the Sichuan Tang Clan when distinguished from 사천당문. |
+| 오성 | **Oseong** | One half of the paired Joseon-era names used in Taekyung's joke. |
+| 한음 | **Haneum** | One half of the paired Joseon-era names used in Taekyung's joke. |
+| 외당 | **Outer Hall** | The Tang Clan's outer hall area. |
+| 내당 | **Inner Hall** | The Tang Clan's inner hall area. |
+| 가주전 | **Family Head's Hall** | Hall where the Tang Family Head receives visitors. |

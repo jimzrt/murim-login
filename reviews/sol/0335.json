@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "*Total fuck-you-my-way, no-brakes energy.*",
+      "defect": "The invented compound “fuck-you-my-way” is unnatural and obscures the blunt slang characterization that the Tang Clan does whatever it wants and never backs down.",
+      "id": "F01",
+      "rationale": "The source uses two terse, profane slang fragments to characterize the clan as fiercely independent and unwilling to retreat; the replacement preserves that force in natural contemporary English.",
+      "replacement": "*They did whatever the fuck they wanted. No backing down.*",
+      "severity": "minor",
+      "source": "개썅마이웨이, 노빠꾸."
+    },
+    {
+      "confidence": 0.99,
+      "current": "I stretched out a foot to grab Cheongpung by the scruff of his neck, but the Sichuan Tang Clan’s answer came faster.",
+      "defect": "The draft makes Taekyung attempt to grab Cheongpung with his foot. The source describes him moving or lunging forward in order to seize Cheongpung by the neck.",
+      "id": "F02",
+      "rationale": "발을 뻗었지만 marks Taekyung launching into motion here; 낚아채기 위해 identifies the intended hand action. Rendering the foot as the grabbing instrument changes the physical action into an implausible one.",
+      "replacement": "I lunged forward to grab Cheongpung by the scruff of his neck, but the Sichuan Tang Clan’s answer came faster.",
+      "severity": "critical",
+      "source": "나는 녀석의 목덜미를 낚아채기 위해 발을 뻗었지만, 사천당문의 답장은 그보다 빨랐다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "A massive spear, as tall as an adult man, shot fiercely from the top of the stone wall. Its shaft struck the ground exactly in front of Cheongpung’s foot and trembled violently.",
+      "defect": "The draft says the spear merely struck the ground, omitting that it embedded itself there.",
+      "id": "F03",
+      "rationale": "박힌 explicitly establishes that the spear is lodged in the ground, while the trembling shaft follows from that impact. This mechanical detail is part of the warning shot’s force.",
+      "replacement": "A massive spear as tall as a grown man hurtled down from atop the stone wall. It buried itself directly in front of Cheongpung’s foot, its shaft quivering.",
+      "severity": "major",
+      "source": "석벽 위에서 맹렬하게 쏘아진 것은 성인 남성의 키만 한 거대한 창이었다. 정확히 청풍의 발 앞에 박힌 창대가 부르르 몸을 떨었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“The Sleeping Dragon of Shanxi, Jin Taekyung—the one who is the Disciple of Great Hero Jeok Cheongang?”",
+      "defect": "The established epithet “Fire King” is omitted from Jeok Cheongang’s identification.",
+      "id": "F04",
+      "rationale": "화왕 is an explicit, established title in the source. It contributes to the middle-aged man’s recognition of Taekyung and must be retained.",
+      "replacement": "“Jin Taekyung, the Sleeping Dragon of Shanxi—the Disciple of Great Hero Jeok Cheongang, the Fire King?”",
+      "severity": "major",
+      "source": "화왕 적천강 대협의 제자라는 그 산서잠룡 진태경?"
+    },
+    {
+      "confidence": 0.99,
+      "current": "*Is this the Room of Spirit and Time?*",
+      "defect": "The draft literally renders the Korean name of the Dragon Ball location instead of using its established English name, weakening the recognizable joke.",
+      "id": "F05",
+      "rationale": "정신과 시간의 방 is the Korean localized name for the setting known in English as the Hyperbolic Time Chamber; using the established English name preserves the cultural reference and humor.",
+      "replacement": "*Is this the Hyperbolic Time Chamber?*",
+      "severity": "minor",
+      "source": "여기가 바로 정신과 시간의 방인가."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“It’s not a hidden weapon. It’s an object.”\n\n“Pardon?”\n\n“It’s mine. You know. That thing.”",
+      "defect": "“It’s an object” is not an idiomatic euphemism in English and blunts the sexual misunderstanding underlying the exchange.",
+      "id": "F06",
+      "rationale": "물건 and 그거 remain deliberately euphemistic rather than anatomically explicit. “My thing” conveys the same embarrassed implication naturally without intensifying it.",
+      "replacement": "“That’s not a hidden weapon. It’s my thing.”\n\n“Pardon?”\n\n“It’s mine. You know… that.”",
+      "severity": "minor",
+      "source": "“암기가 아니라 물건이에요.”\n\n“예?”\n\n“제 거라고요. 그 왜, 있잖아요. 그거.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "The middle-aged man reluctantly examined the actual object after I gave him permission, and his eyes widened.",
+      "defect": "The draft assigns the reluctance to the middle-aged man, but the source says Taekyung reluctantly grants permission for the inspection.",
+      "id": "F07",
+      "rationale": "마지못한 modifies 내 허락, making Taekyung’s permission reluctant. Preserving that subject is important to his embarrassment in the scene.",
+      "replacement": "After I reluctantly gave him permission to inspect the real thing, the middle-aged man’s eyes widened.",
+      "severity": "major",
+      "source": "마지못한 내 허락에 실물을 확인한 중년인이 눈을 크게 떴다."
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it contains one malformed physical action, omits an established epithet, weakens two jokes through unnatural wording, and assigns reluctance to the wrong character.",
+  "version": 1
+}

@@ -483,3 +483,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 황태구 | 무송 | defeated_bandit_to_captor | you bastard | hostile-defiant | Hwang Tae-gu threatens Mu Song and the Water Dragon Stronghold bandits before losing consciousness. |
 | 무송 | 관리 | river-bandit leader to military official | General | casual-familiar | Uses 장군 while requesting permission to put passengers ashore. |
 | 관리 | 무송 | military official to Stronghold Lord | Stronghold Lord | formal-polite | Uses 채주 while wishing Mu Song martial fortune. |
+| 청풍 | 문경 | martial_companion_to_medical_apprentice | Medical Apprentice | cheerful-polite | Cheongpung addresses Mungyeong as 의생님 while asking him to greet the Tang Clan. |
