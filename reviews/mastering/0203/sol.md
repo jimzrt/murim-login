@@ -112,7 +112,7 @@ The red Force around his hand sliced the enormous boulder apart like cheesecake.
 
 How was that any different from calling shit *feces*?
 
-At any rate, I was beginning to tremble.
+Either way, I was starting to get nervous.
 
 Actually, the Paralysis Acupoint had been suspicious enough from the beginning. So was the satchel Jeok Cheongang had been rummaging through this whole time.
 
@@ -210,11 +210,11 @@ A man with a warm heart and warm internal energy.
 
 That was the Fire King, Jeok Cheongang.
 
-When he met my heated gaze, he flinched and took a step back.
+He flinched and stepped back when he saw the look in my eyes.
 
 “W-What’s with that stare?”
 
-“Nothing. You just seem like a really good person, Old Master.”
+“Nothing. I was just thinking what a good person you are, Old Master.”
 
 “…!”
 
@@ -256,7 +256,7 @@ I circulated my qi whenever I had the chance, but the traces left by twenty year
 
 “This old man will use the elixirs and my internal energy to burn every last bit of turbid qi from your body. For you, it should be far more effective than cleansing the sinews and washing the marrow.”
 
-“That’s welcome news.”
+“That’s the best news I’ve heard all day.”
 
 “I doubt you’ll find it quite so welcome.”
 
@@ -304,7 +304,7 @@ Only then did I understand what Jeok Cheongang had meant.
 
 With my acupoints sealed, I couldn’t scream or thrash around. All I could do was stare wide-eyed.
 
-Just as I hurriedly tried to draw up my internal energy, Jeok Cheongang rolled up his worn sleeves.
+Just as I hurriedly tried to draw up my internal energy, Jeok Cheongang rolled up his tattered sleeves.
 
 “All right, then. Shall we begin in earnest?”
 
@@ -336,7 +336,7 @@ Jin Taekyung tried to raise his own internal energy and suppress it, but that wa
 
 A tamed fighting bull sometimes forgot how to charge.
 
-The newly infused energy of thirty years had to break through everything in its path without restriction.
+The newly infused energy had to surge forward without restraint, smashing through everything that blocked its path.
 
 The attempt was dangerous enough that a single mistake could cause qi deviation. Even Jeok Cheongang, a Supreme Peak master, swallowed dryly as his fingers continued to move.
 
@@ -344,7 +344,7 @@ The attempt was dangerous enough that a single mistake could cause qi deviation.
 
 Tap. Tap-tap!
 
-Following his guidance, hundreds of acupoints opened and closed over and over. Before long, black sweat poured from Jin Taekyung’s entire body, accompanied by a musty odor.
+Under his guidance, hundreds of acupoints opened and closed in turn. After some time, black sweat began pouring from Jin Taekyung’s body, accompanied by a rancid odor.
 
 The stench was vile enough to make even someone with an iron stomach gag, but the corners of Jeok Cheongang’s mouth twitched with delight.
 
@@ -354,7 +354,7 @@ This was proof that a tremendous amount of turbid qi was being expelled.
 
 As if to confirm his conclusion, the sweat gradually lightened and the stench slowly faded.
 
-Before long, the sweat became clear, and a pleasant body scent wafted through the air. Astonishment filled Jeok Cheongang’s eyes.
+Before long, the sweat ran clear, and a pleasant scent rose from Jin Taekyung’s body. Surprise flashed across Jeok Cheongang’s face.
 
 *Already?*
 
@@ -370,7 +370,7 @@ Jin Taekyung was different.
 
 *As expected of the Heavenly Martial Physique… It truly lives up to its name.*
 
-At this rate, he could remove all the turbid qi and still gain the full thirty years of internal energy.
+At this rate, he would purge all the turbid qi from his body and still retain the full thirty years of internal energy.
 
 Yet instead of satisfaction, greed and indecision filled Jeok Cheongang’s eyes.
 
@@ -378,11 +378,11 @@ Yet instead of satisfaction, greed and indecision filled Jeok Cheongang’s eyes
 
 The Conception Vessel and the Governor Vessel—the mountain known collectively as the Conception and Governor Vessels.
 
-It was a realm most martial artists of the Murim could not reach even after devoting their entire lives to training.
+It was a barrier most martial artists could not overcome even after devoting their entire lives to training.
 
 Breaking through it required both enormous internal energy and enlightenment, but it might be possible now.
 
-*The Heavenly Martial Physique. And my help.*
+*With the Heavenly Martial Physique and my help.*
 
 Even so, attempting to open the Conception and Governor Vessels at once was dangerous.
 
@@ -390,9 +390,9 @@ Leaving everything else aside, Jeok Cheongang’s greatest concern was whether J
 
 *What should I do?*
 
-After agonizing over it again and again, Jeok Cheongang finally spoke.
+After agonizing over the decision, Jeok Cheongang finally spoke.
 
-“I think you can open the Conception and Governor Vessels.”
+“I believe we can open your Conception and Governor Vessels.”
 
 “…!”
 
