@@ -1,6 +1,6 @@
 # Heaven-Shaking Venerable Nun (경천신니)
 
-- **Safe through:** Chapter 348
+- **Safe through:** Chapter 350
 - **Aliases:** Blood Rakshasa
 - **Role:** Former Emei Sect Leader and the sect's sole Supreme Peak master, killed on Mount Emei by a one-armed middle-aged man.
 - **Personality:** Forthright and fearless against enemies.

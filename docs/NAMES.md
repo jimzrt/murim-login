@@ -1232,3 +1232,12 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 본교 | **Divine Cult** | Self-referential form meaning the speaker's own Divine Cult. |
 | 음양쌍귀 | **Yin-Yang Twin Ghosts** | Source spelling for the pair otherwise associated with the Yin Ghost and Yang Ghost. |
 | 양귀 | **Yang Ghost** | Shortened counterpart to the established Yin Ghost. |
+| 국방부 | **Ministry of National Defense** | Government ministry referenced in Taekyung's comparison about the steady passage of time. |
+| 검남춘 | **Jiannan Chun** | Sichuan liquor offered to the Heavenly Power Demon. |
+| 신천지 | **Shincheonji** | Modern Korean religious organization referenced in Taekyung's comparison. |
+| 병 신천지 | **Sick Shincheonji** | Taekyung's joking name for a hypothetical Shincheonji splinter faction. |
+| 삼결 제자 | **Three-knot Disciple** | Source-spaced form of the Beggars' Sect rank. |
+| 이결 제자 | **Two-knot Disciple** | Beggars' Sect rank held by Jang Il. |
+| 일결 제자 | **One-knot Disciple** | Beggars' Sect rank held by Jang Il's junior companions. |
+| 부 분타주 | **Vice Branch Leader** | Office Jang Il attained in the Chengdu branch. |
+| 장일 | **Jang Il** | Twenty-five-year-old two-knot Beggars' Sect Disciple killed near Emei. |

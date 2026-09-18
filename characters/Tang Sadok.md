@@ -1,6 +1,6 @@
 # Tang Sadok (당사독)
 
-- **Safe through:** Chapter 348
+- **Safe through:** Chapter 350
 - **Aliases:** Myriad-Poison Asura
 - **Role:** Current Family Head of the Sichuan Tang Clan and son of Poison King Tang Taesang, who entrusted the clan's sacred Myriad-Poison Ring to Jin Taekyung for Jeok Cheongang's treatment.
 - **Personality:** Grim, cold, blunt, suspicious, and unsentimental, with fierce concern for the Tang Clan’s affairs.
