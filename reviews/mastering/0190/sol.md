@@ -2,9 +2,9 @@
 
 *Crash!*
 
-Baek Museong's body shot upward as though it had been bounced into the air.
+Baek Museong shot to his feet as if launched from his chair.
 
-The chair he had been sitting in moments ago clattered loudly across the ground, but he paid it no attention. Neither did anyone else present.
+The chair he had occupied moments ago toppled over with a clatter, but he paid it no attention. Neither did anyone else present.
 
 “What in the…”
 
@@ -12,7 +12,7 @@ The chair he had been sitting in moments ago clattered loudly across the ground,
 
 “W-What just happened?”
 
-They had thought it was over. Jin Taekyung had displayed far greater skill than expected, but in the end, he had lost his weapon to Chulwoo's Fist Qi.
+Everyone had thought it was over. Jin Taekyung had displayed far greater skill than expected, but in the end, Chulwoo’s Fist Qi had destroyed his weapon.
 
 A spearman without a spear against a Peak fist fighter. The outcome was obvious.
 
@@ -32,7 +32,7 @@ All he had seen was a pale blur.
 
 Something impossible had happened.
 
-After remaining silent for a moment, Baek Museong opened his mouth. His voice came out tinged with embarrassment.
+After a moment of silence, Baek Museong opened his mouth. His voice was tinged with shame.
 
 “I don’t know.”
 
@@ -68,7 +68,7 @@ Under everyone’s expectant gaze, Cheongpung opened his mouth.
 
 Everyone promptly deflated. Fast? That was not the simple, obvious answer they had wanted.
 
-Baek Museong spoke in an anxious voice.
+Baek Museong spoke urgently.
 
 “That isn’t what I meant.”
 
@@ -84,13 +84,13 @@ Cheongpung smiled brightly.
 
 Baek Museong was left speechless.
 
-Jin Taekyung had learned no supreme martial art and possessed no peerless internal energy. To Baek Museong, he had been nothing more than a young prodigy from a frontier martial family with exceptional martial talent.
+Jin Taekyung had learned no supreme martial art, nor did he possess peerless internal energy. To Baek Museong, he had been nothing more than a talented young prodigy from a martial family on the frontier.
 
 *How can such a thing be possible?*
 
-The human body had limits. Murim martial artists were special because martial arts and internal energy allowed them to surpass those limits.
+The human body had limits. Martial artists were extraordinary because martial arts and internal energy allowed them to surpass those limits.
 
-Yet Cheongpung was saying that Jin Taekyung had surpassed those limits without any particularly extraordinary martial arts.
+Yet Cheongpung was saying that Jin Taekyung had done so without any exceptional martial art.
 
 Baek Museong blurted out a vehement denial.
 
@@ -112,7 +112,7 @@ Even Huashan Disciples whose talent had already been recognized needed a full ye
 
 Yet Jin Taekyung had done it in only two days.
 
-*My second junior brother was bound to lose.*
+*Second never stood a chance.*
 
 Baek Museong’s eyelids trembled faintly.
 
@@ -126,7 +126,7 @@ He was exactly what the name implied. Though he remained hidden in the shadows o
 
 *I was far too arrogant.*
 
-Baek Museong clenched his fists. His nails dug into his skin, but the shame hurt more than the pain.
+Baek Museong clenched his fists. His nails dug into his palms, but his shame hurt far more.
 
 Had he become drunk on the name of Huashan?
 
@@ -162,13 +162,13 @@ Jin Wikyung had never expected him to really win.
 
 * * *
 
-The Grand Training Ground was as quiet as though everyone had been drenched in cold water. The commoners and martial artists alike wore expressions as if they had seen a ghost.
+The Grand Training Ground was as silent as if it had been doused in cold water. Commoners and martial artists alike stared as though they had seen a ghost.
 
-Though I couldn't see his face, Chulwoo was probably wearing a similar expression. The guy who had been frozen like a statue asked in a trembling voice,
+Though I couldn’t see his face, Chulwoo was probably wearing the same expression. Frozen like a statue, he asked in a trembling voice,
 
 “H-How?”
 
-“By being good.”
+“Skill.”
 
 “C-Could that have been Shifting Form and Position?”
 
@@ -176,7 +176,7 @@ Though I couldn't see his face, Chulwoo was probably wearing a similar expressio
 
 “You dodged Crouching Tiger Fist that easily…”
 
-“You were much slower than your Martial Uncle. You'd better train hard when you get back.”
+“You were much slower than your Martial Uncle. You’d better train hard when you get home.”
 
 It was true. Compared to Cheongpung’s Crouching Tiger Fist, Chulwoo’s was far slower, and his movements were much broader.
 
@@ -188,7 +188,7 @@ I could see the entire pattern. There was no reason I couldn’t evade it—espe
 
 “How dare I? Lecture you? You still haven’t figured out what’s going on?”
 
-I snorted quietly and poked the back of Chulwoo's neck with the steel flute.
+I snorted and poked the back of Chulwoo’s neck with the steel flute.
 
 Its sharp edge dug into his skin, and his massive body shuddered. Oh, this was fun.
 
@@ -244,7 +244,7 @@ Chulwoo spoke with absolute confidence.
 
 “Once I get my hands on someone, it’s over.”
 
-Sure, I'd let my guard down, but weren't this bastard's manners absolute shit?
+Sure, I had let my guard down, but this bastard’s manners were absolute shit.
 
 Ah, a man blinded by love.
 
@@ -268,7 +268,7 @@ I let out a heavy sigh.
 
 “You goddamn soooooon of a—!”
 
-A scream erupted from the crowd.
+Screams erupted from the crowd.
 
 Veins bulged across Chulwoo’s entire body as he tried to slam me into the ground with tremendous force.
 
@@ -288,7 +288,7 @@ Between the temporary boost from the **Gambler** Title and the points I had just
 
 Not even Chulwoo, with his enormous frame and innate divine strength, could overpower me.
 
-“At this level, your Strength stat must be well over 200.”
+“Your Strength stat must be well over 200.”
 
 “W-What is this?”
 
@@ -334,7 +334,7 @@ After a brief silence, thunderous cheers engulfed the Grand Training Ground.
 
 * * *
 
-At the main gate of the Jin Family of Taiyuan, some six hundred meters from the Grand Training Ground, a low-ranking martial artist who had been listening with perked ears to the resounding cheers made a fuss.
+At the main gate of the Jin Family of Taiyuan, some six hundred meters from the Grand Training Ground, a low-ranking martial artist perked up at the resounding cheers and made a fuss.
 
 “Did you hear that?”
 
@@ -352,7 +352,7 @@ Someone leaning crookedly against the gate answered.
 
 “The Third Young Master defeated the Defeated Flower Fist! Captain, aren’t you surprised?”
 
-“No. It doesn't surprise me anymore.”
+“No. Nothing surprises me anymore.”
 
 Hyuk Mujin yawned widely and continued.
 
@@ -386,7 +386,7 @@ The low-ranking martial artist cut in with a dubious look.
 
 Hyuk Mujin had just calmed down and was about to continue when a voice interrupted him.
 
-“This is excessively noisy for a gathering.”
+“This gathering is excessively noisy.”
 
 “What would the likes of them know? It seems they were in such high spirits that they let every Tom, Dick, and Harry inside.”
 
@@ -398,13 +398,13 @@ Hyuk Mujin clicked his tongue and asked the low-ranking martial artist,
 
 “Weren’t all the distinguished guests on the list already here?”
 
-“Well, everyone who said they would visit today has arrived, at least.”
+“Well, everyone scheduled to visit today has arrived.”
 
 “Then who’s this? Someone who heard the rumors and came over?”
 
-“Wouldn't that be likely?”
+“Most likely.”
 
-“First, double-check the list and stay here.”
+“Double-check the list and wait here.”
 
 “Yes, sir.”
 
@@ -412,7 +412,7 @@ Grumbling inwardly, Hyuk Mujin straightened from where he had been leaning again
 
 Then he shouted toward the four silhouettes drawing closer.
 
-“Halt! I am Hyuk Mujin, Captain of the Gatekeepers of the Jin Family of Taiyuan. State your identity and purpose!”
+“Halt! I am Hyuk Mujin, Captain of the Gatekeepers of the Jin Family of Taiyuan. State your identities and purpose!”
 
 An elderly voice answered.
 
