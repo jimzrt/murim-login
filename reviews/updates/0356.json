@@ -1,0 +1,111 @@
+{
+  "chapter": 356,
+  "files": {
+    "characters/Cheongpung.md": "b856d13249f2e42ae59d108edaf9618574eae9969aecc2d2a5a89a5dfa9bd521",
+    "characters/Divine Physician.md": "8a5cfcb247ea600f7bfc33de77ea66052eb37b80fa70d8cad612be1555dfdde3",
+    "characters/Heavenly Power Demon.md": "771bf2270a29895990afa9ba9096107bc2c807f53841fbc41b76a6727044567c",
+    "characters/Jeok Cheongang.md": "857db2b21b74149924e44a9a74ccc92c689529351b3486702a66e282d0b462fa",
+    "characters/Western Heaven Demon Lord.md": "60839b58f33bd03cbcefad840a43a928548ec3c7092ff5411c92bae657a99e41",
+    "docs/CONTEXT.json": "140bf56321fea75ebea331c2ef5a050249c7ef333dcb0a61000f0813b3b972a7",
+    "docs/NAMES.md": "8771cdf798374467d05cdd495bf6e7e246d28d99fc09858106952e9d53f2bb4c",
+    "docs/STATE.md": "8c0caa1bebe369e8fb08ae735827ec11f8cb325baf0e443286f55e04da2184b1",
+    "summaries/beats/0356.md": "0ad3ffddb4cd25a169a81f4c70d90973fb03f7978b63a61b6745d364a1ec924b"
+  },
+  "update": {
+    "address_pairs": [],
+    "beat": {
+      "continuity": [
+        "The Dark Heaven assault has breached the Tang Clan's Outer Hall, and a fierce battle continues in the Inner Hall.",
+        "Taekyung is alone defending the underground prison and is using its labyrinthine structure and concealed corpses to preserve the advantage of surprise.",
+        "The Heavenly Power Demon remains alive and restrained, while the other prisoners have been moved elsewhere.",
+        "The Western Heaven Demon Lord was one of the Divine Cult's four Protectors, served closest to the Cult Leader, and led him astray before calling himself the Western Heaven Demon Lord."
+      ],
+      "plot": [
+        "Jin Taekyung defends the Sichuan Tang Clan's underground prison alone, ambushing and killing two waves of Dark Heaven infiltrators before concealing their corpses. He then questions the restrained Heavenly Power Demon, who reveals that the Western Heaven Demon Lord was once one of the Divine Cult's four Protectors and closest aides to its Cult Leader, but led the Cult Leader astray before adopting that title. A distant explosion shakes the prison as the battle above continues."
+      ],
+      "translation_decisions": [
+        "Render 호교사자 as Protector of the Divine Cult, with the plural as Protectors of the Divine Cult.",
+        "Render 교주 as Cult Leader.",
+        "Render 심맥 as heart meridian and 사혈 as lethal acupoint.",
+        "Render 뇌옥 as underground prison and 마두 as fiend."
+      ]
+    },
+    "chapter": 356,
+    "context": {
+      "active_continuity": [
+        "The Dark Heaven assault has breached the Tang Clan's Outer Hall, and fighting continues in the Inner Hall.",
+        "Jin Taekyung is alone defending the underground prison and has killed two waves of infiltrating Dark Heaven martial artists.",
+        "Taekyung is concealing the corpses in the deepest part of the prison to preserve his ambush advantage.",
+        "The active Quest blocks Logout, and Taekyung cannot safely leave while Jeok Cheongang and the Divine Physician remain exposed inside the Tang Clan.",
+        "The Heavenly Power Demon remains alive and restrained after revealing information about the Western Heaven Demon Lord.",
+        "The Western Heaven Demon Lord was one of the Divine Cult's four Protectors and closest aides to its Cult Leader, whom he led astray before adopting his current title.",
+        "Taekyung does not know Cheongpung's condition but believes Cheongpung must have survived the ongoing battle."
+      ],
+      "continuity_sources": [
+        356
+      ],
+      "open_questions": [
+        "Can Taekyung continue defending the underground prison and protect Jeok Cheongang and the Divine Physician?",
+        "Is the Divine Cult's Cult Leader still alive, and what ultimately happened to him?",
+        "How did the Western Heaven Demon Lord's betrayal connect to Dark Heaven's current assault?",
+        "Can the Sichuan Tang Clan survive the battle after the Outer Hall's breach?"
+      ],
+      "safe_through": 356,
+      "temporary_decisions": [
+        "Render 호교사자 as Protector of the Divine Cult.",
+        "Render 교주 as Cult Leader.",
+        "Render 뇌옥 as underground prison.",
+        "Render 심맥 as heart meridian and 사혈 as lethal acupoint.",
+        "Render 마두 as fiend."
+      ],
+      "version": 1
+    },
+    "names": [
+      {
+        "english": "Protector of the Divine Cult",
+        "korean": "호교사자",
+        "notes": "One of four senior protectors serving the Divine Cult's Cult Leader."
+      },
+      {
+        "english": "Cult Leader",
+        "korean": "교주",
+        "notes": "Leader of the Divine Cult."
+      },
+      {
+        "english": "underground prison",
+        "korean": "뇌옥",
+        "notes": "The Tang Clan's subterranean prison."
+      },
+      {
+        "english": "heart meridian",
+        "korean": "심맥",
+        "notes": "Meridian severed by an infiltrator to commit suicide."
+      },
+      {
+        "english": "lethal acupoint",
+        "korean": "사혈",
+        "notes": "An acupoint whose strike can kill."
+      },
+      {
+        "english": "fiend",
+        "korean": "마두",
+        "notes": "Demonic martial masters from the Great Faction War era."
+      }
+    ],
+    "profile_creations": [],
+    "profile_updates": [
+      {
+        "current": "- **Relationships:** He was once an Elder and commander under the Great Heavenly Demon Divine Cult's Cult Leader, has spent more than forty years imprisoned by the Sichuan Tang Clan, is known for urinating on the Kunlun Sect's signboard, and now refuses to discuss what he knows about Dark Heaven.",
+        "path": "characters/Heavenly Power Demon.md",
+        "replacement": "- **Relationships:** He was once an Elder and commander under the Great Heavenly Demon Divine Cult's Cult Leader, has spent more than forty years imprisoned by the Sichuan Tang Clan, and identifies the Western Heaven Demon Lord as one of the Divine Cult's four Protectors who served closest to and led astray the Cult Leader."
+      },
+      {
+        "current": "- **Role:** Middle-aged Western Heaven Demon Lord who infiltrated the Sichuan Tang Clan disguised as a Green Shadow Squad martial artist, commands hundreds of black-robed hunters, has captured Tang Sadok, and has ordered First Fiend to take Cheongpung alive if possible.",
+        "path": "characters/Western Heaven Demon Lord.md",
+        "replacement": "- **Role:** Middle-aged Western Heaven Demon Lord, formerly one of the Divine Cult's four Protectors and closest aides to its Cult Leader, who infiltrated the Sichuan Tang Clan as a Green Shadow Squad martial artist, captured Tang Sadok, commands the Dark Heaven assault, and has ordered First Fiend to take Cheongpung alive if possible."
+      }
+    ],
+    "version": 1
+  },
+  "version": 1
+}

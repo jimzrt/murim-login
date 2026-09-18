@@ -1267,3 +1267,9 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 당문삼기 | **Tang Clan's Three Skills** | Western Heaven Demon Lord's mocking replacement for Tang Clan's Ten Wonders. |
 | 귀옥지 | **Ghost Prison Finger** | Eighth-stage finger technique used by the Western Heaven Demon Lord. |
 | 유성추월검 | **Meteor Chasing the Moon Sword** | Named sword technique used by Cheongpung. |
+| 호교사자 | **Protector of the Divine Cult** | One of four senior protectors serving the Divine Cult's Cult Leader. |
+| 교주 | **Cult Leader** | Leader of the Divine Cult. |
+| 뇌옥 | **underground prison** | The Tang Clan's subterranean prison. |
+| 심맥 | **heart meridian** | Meridian severed by an infiltrator to commit suicide. |
+| 사혈 | **lethal acupoint** | An acupoint whose strike can kill. |
+| 마두 | **fiend** | Demonic martial masters from the Great Faction War era. |

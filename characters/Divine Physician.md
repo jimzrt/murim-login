@@ -1,6 +1,6 @@
 # Divine Physician (신의)
 
-- **Safe through:** Chapter 355
+- **Safe through:** Chapter 356
 - **Aliases:** Medicine Immortal
 - **Role:** Legendary physician also known as Dong Feng and Mungyeong's Master, who runs a hidden clinic in Sichuan and has successfully completed Jeok Cheongang's treatment at the Sichuan Tang Clan.
 - **Personality:** Publicly reputed to be selfless and devoted to treating patients in the lowest places.
