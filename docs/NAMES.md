@@ -1320,3 +1320,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 이동진 | **Moving Formation** | Dark Heaven's inactive long-distance transportation formation. |
 | 야명주 | **night-shining pearls** | Pearls embedded in the cavern ceiling that provide light. |
 | 괴공절학 | **monstrous martial arts and supreme techniques** | Bizarre arts associated with the Demonic Cult. |
+| 노군백 | **No Gunbaek** | Level 170 martial artist defeated by Jin. |
+| 귀염미 | **Gwiyeommi** | Literary pen name used for romance novels. |
