@@ -1,0 +1,126 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "It erased the afterimages created by the Taeeul Light-Dividing Sword, which had split into dozens of wavering images, before finally merging into a single blade.",
+      "defect": "The dangling construction makes the hellfire merge into a blade. In the source, the sword has already recombined into one blade, and the hellfire reaches it after erasing its afterimages.",
+      "id": "F01",
+      "rationale": "The subject of 하나로 합쳐진 is the sword blade, while the hellfire’s action is 닿았다, reaching that blade.",
+      "replacement": "It erased the wavering afterimages created by the Taeeul Light-Dividing Sword when it split into dozens, then reached the blade as it finally recombined into one.",
+      "severity": "critical",
+      "source": "수십 개로 분열되어 어른거리던 태을분광검이 만들어 낸 잔상을 지우고, 마침내 하나로 합쳐진 검신에 닿았다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Blue flames wrapped in wind tore through the tea house’s ceiling and shot upward like a waterspout.",
+      "defect": "The wrapping relationship is reversed: the flames wrap around the wind, not the wind around the flames.",
+      "id": "F02",
+      "rationale": "바람을 휘감은 modifies 푸른 화염 and identifies the wind as what the flames encircle.",
+      "replacement": "Blue flames coiled around the wind, tore through the tea house’s ceiling, and surged upward like a waterspout.",
+      "severity": "critical",
+      "source": "바람을 휘감은 푸른 화염이 다루의 천장을 뚫고 용오름 치듯 솟구쳤다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "The old man’s eyelids trembled.\n\nHwangbo Eom’s eyes widened.",
+      "defect": "The draft adds an unsupported second reaction, widening his eyes, and separates Hwangbo Eom’s identification from the source action.",
+      "id": "F03",
+      "rationale": "The source contains only trembling eyelids and identifies the old man as Hwangbo Eom within that sentence.",
+      "replacement": "At the sight, the eyelids of the old man, Hwangbo Eom, trembled.",
+      "severity": "critical",
+      "source": "그 광경에 노인, 황보엄의 눈꺼풀이 파르르 떨렸다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Hwangbo Eom possessed a jiazi of internal energy and had reached the Supreme Peak realm.",
+      "defect": "The quantity is halved: 이 갑자 means two jiazi, not one.",
+      "id": "F04",
+      "rationale": "이 is the Sino-Korean numeral two here, making the stated accumulation 120 years rather than one sixty-year cycle.",
+      "replacement": "Hwangbo Eom possessed two jiazi of internal energy and had reached the Supreme Peak realm.",
+      "severity": "critical",
+      "source": "이 갑자의 공력과 초절정의 경지에 이른 그다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Blood trickled from Hwangbo Eom’s mouth as he let out a dry cough.",
+      "defect": "The draft changes coughing up a substantial mouthful of blood into blood merely trickling from his mouth.",
+      "id": "F05",
+      "rationale": "토해 냈다 is active expulsion, and 한 줌 conveys a distinct quantity rather than a trickle.",
+      "replacement": "A dry cough escaped Hwangbo Eom, followed by a mouthful of blood.",
+      "severity": "critical",
+      "source": "황보엄은 메마른 기침과 함께 한 줌의 핏물을 토해 냈다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "A jiazi of internal energy poured into the Sword Force?\n\nA martial art of the Supreme Peak realm?",
+      "defect": "The draft again reduces two jiazi of internal energy to one.",
+      "id": "F06",
+      "rationale": "이 갑자 explicitly denotes two sixty-year cycles.",
+      "replacement": "Two jiazi of internal energy poured into the Sword Force?\n\nA martial art of the Supreme Peak realm?",
+      "severity": "critical",
+      "source": "이 갑자의 공력을 쏟아부은 검강? 초절정의 무공?"
+    },
+    {
+      "confidence": 1.0,
+      "current": "He had not even seen the young man draw his weapon.",
+      "defect": "The draft changes an unseen attack or move into drawing a weapon, even though Taekyung’s spear was already in use.",
+      "id": "F07",
+      "rationale": "출수 means launching or making an attack, not unsheathing or drawing a weapon.",
+      "replacement": "He had not even seen the young man make his move.",
+      "severity": "critical",
+      "source": "출수(出手)하는 것조차 보지 못했다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“No—!”\n\n“No.”",
+      "defect": "The second “No” loses Taekyung’s interruption and completion of Hwangbo Eom’s unfinished 안 돼, reversing the deadpan response.",
+      "id": "F08",
+      "rationale": "Hwangbo Eom begins 안 돼, meaning that Taekyung cannot do it, and Taekyung cuts in with 돼, asserting that he can.",
+      "replacement": "“You can’t—!”\n\n“I can.”",
+      "severity": "major",
+      "source": "“안-!”\n\n“돼.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "The stage of the war between the orthodox and demonic factions had fallen half a century ago, and the heroes had scattered in every direction.",
+      "defect": "The draft both misstates the theatrical image—the curtain falls, not the stage—and narrows 사 to a demonic faction rather than the broader unorthodox faction.",
+      "id": "F09",
+      "rationale": "막을 내렸다 refers to the curtain falling, while 정사 contrasts the orthodox and unorthodox sides of the Murim.",
+      "replacement": "The curtain had fallen on the war between the orthodox and unorthodox factions half a century ago, and the heroes had scattered in every direction.",
+      "severity": "major",
+      "source": "정사대전이라는 무대는 반세기 전에 막을 내렸고, 영웅들은 뿔뿔이 흩어졌다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“The Taeeul Formless Sword. Watch closely. This is the sword art that will cut off your breath.”",
+      "defect": "“Cut off your breath” is an unnatural literal rendering of a threat to kill someone.",
+      "id": "F10",
+      "rationale": "숨통을 끊다 is an idiomatic threat meaning to kill, and “take your life” preserves its force naturally.",
+      "replacement": "“The Taeeul Formless Sword. Watch closely. This is the sword art that will take your life.”",
+      "severity": "minor",
+      "source": "“태을무형검(太乙無形劍). 똑똑히 보아라. 네놈의 숨통을 끊을 검공이니.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "It was martial arts—a supreme sword art wielded by a martial artist who had attained greater enlightenment than I had and was forcing his internal energy into a rampage.",
+      "defect": "The established rendering of 초절 as “supreme mastery” is lost, weakening the explicit description of the sword art’s attained level.",
+      "id": "F11",
+      "rationale": "초절 is the glossary-bound concept “supreme mastery,” not merely a generic adjective meaning impressive or supreme.",
+      "replacement": "It was martial arts—a sword art of supreme mastery wielded by a martial artist who had attained greater enlightenment than I had and was forcing his internal energy into a rampage.",
+      "severity": "minor",
+      "source": "무공, 나보다 더 높은 깨달음을 이룩한 무인이 공력을 폭주시키면서까지 펼쳐 내는 초절(超絶)의 검공이었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The Fire Dragon Claw seized the Sword Force.",
+      "defect": "Capitalization turns the descriptive fire dragon’s claw into the separately named Fire Dragon Claw technique used earlier, conflating two distinct expressions.",
+      "id": "F12",
+      "rationale": "The named technique is 화룡조, whereas this sentence uses the possessive phrase 화룡의 발톱 as imagery within Heavenly Strike.",
+      "replacement": "The fire dragon’s claw seized the Sword Force.",
+      "severity": "major",
+      "source": "화룡의 발톱이 검강을 움켜잡았다."
+    }
+  ],
+  "summary": "The draft contains several altered physical actions, two major quantity errors, an added reaction, and localized losses in humor, terminology, and faction identity.",
+  "version": 1
+}

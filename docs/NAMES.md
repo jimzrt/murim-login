@@ -1111,3 +1111,12 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 태을분광검 | **Taeeul Light-Dividing Sword** | One of the Zhongnan Sect's celebrated ultimate sword techniques. |
 | 화룡일미 | **Fire Dragon's Single Tail** | A form of the Fire Dragon Divine Spear. |
 | 천격 | **Heavenly Strike** | A Fire Dragon Divine Spear form used by Taekyung against Hwangbo Eom. |
+| 겁화 | **hellfire** | Destructive fire energy used by Taekyung. |
+| 강기 | **Force** | Generic manifestation of concentrated martial energy; distinct from Sword Force. |
+| 수강 | **Palm Force** | Force generated through a palm technique. |
+| 신력 | **divine strength** | Superhuman strength attributed to Taekyung. |
+| 반고 | **Pangu** | Primordial giant from Chinese creation mythology. |
+| 화룡조 | **Fire Dragon Claw** | Taekyung's claw technique. |
+| 벽운천강수 | **Blue Cloud Heavenly Force Palm** | Zhongnan Sect palm technique used by Hwangbo Eom. |
+| 태을무형검 | **Taeeul Formless Sword** | Hwangbo Eom's supreme sword art of invisible attacks. |
+| 십구 대 계승자 | **nineteenth successor** | Taekyung's Fire Gate Clan succession title. |

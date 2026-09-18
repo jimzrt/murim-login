@@ -1,8 +1,8 @@
 # Hwangbo Eom (황보엄)
 
-- **Safe through:** Chapter 323
+- **Safe through:** Chapter 324
 - **Aliases:** Taeeul Merciless Sword
-- **Role:** Supreme Peak master of the Zhongnan Sect, its Second Martial Uncle, and the Taeeul Merciless Sword; after revealing his knowledge of Jeok Cheongang's illness, he attacked Jin Taekyung and began fighting him inside Tengwang Pavilion.
+- **Role:** Supreme Peak master of the Zhongnan Sect, its Second Martial Uncle, and the Taeeul Merciless Sword, the sect's foremost swordsman.
 - **Personality:** Ruthless, severe, proud, and deeply invested in restoring Zhongnan's standing.
 - **Voice:** Calmly courteous when offering tea, then cold, commanding, and cutting when reprimanding others.
 - **Relationships:** Song Il is his only Senior Brother, the current Sect Leader is his martial brother, and Hyuk Sopyung is his junior.
