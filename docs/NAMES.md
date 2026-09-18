@@ -1107,3 +1107,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 하오문도 | **Lower District Sect member** | Member of the Lower District Sect. |
 | 금오상단 | **Geumo Merchant Guild** | Merchant guild named in the evidence concerning the Yongbong Escort Bureau; source spelling distinct from 금와상단. |
 | 황철심 | **Hwang Cheolsim** | Zhongnan lay disciple who secretly intervened in the Yongbong Escort Bureau's failed transaction. |
+| 장문령부 | **Sect Leader's Command Token** | Copper token carrying the Zhongnan Sect Leader's authority. |
+| 태을분광검 | **Taeeul Light-Dividing Sword** | One of the Zhongnan Sect's celebrated ultimate sword techniques. |
+| 화룡일미 | **Fire Dragon's Single Tail** | A form of the Fire Dragon Divine Spear. |
+| 천격 | **Heavenly Strike** | A Fire Dragon Divine Spear form used by Taekyung against Hwangbo Eom. |
