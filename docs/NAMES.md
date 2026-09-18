@@ -1273,3 +1273,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 심맥 | **heart meridian** | Meridian severed by an infiltrator to commit suicide. |
 | 사혈 | **lethal acupoint** | An acupoint whose strike can kill. |
 | 마두 | **fiend** | Demonic martial masters from the Great Faction War era. |
+| 흑혈검법 | **Black Blood Sword Technique** | Sword technique restricted to Dark Heaven martial artists. |
+| 권강 | **Fist Force** | Qi force projected through the Western Heaven Demon Lord's fist. |
+| 후발선제 | **Striking Second, Hitting First** | Principle describing the Western Heaven Demon Lord's counterattack. |

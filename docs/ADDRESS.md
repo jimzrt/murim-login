@@ -522,3 +522,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 서천마군 | 일괴 | commander_to_subordinate | First Fiend | commanding and cold | Orders First Fiend to handle Cheongpung and warns him that Cheongpung is dangerous. |
 | 일괴 | 서천마군 | subordinate_to_commander | Demon Lord | deferential and fearful | Answers the Western Heaven Demon Lord's orders as 마군 and submits after being threatened. |
 | 일괴 | 청풍 | enemy_to_assigned_target | greenhorn; brat | mocking and bloodthirsty | Calls Cheongpung the Sword Saint's successor and boasts that he will leave him barely breathing. |
+| 서천마군 | 진태경 | hostile_opponents | you | calm and taunting | Uses 자네 while questioning Taekyung and offering to take him alive. |
+| 진태경 | 서천마군 | hostile_opponents | Western Heaven Demon Lord | casual and defiant | Identifies the Demon Lord by title and answers his surrender demand with sarcasm. |
