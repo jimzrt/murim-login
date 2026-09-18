@@ -20,7 +20,7 @@ He shook a fist at me, but a smile tugged at the corners of his mouth. I rubbed 
 
 “Ugh, I’m tired.”
 
-“Did you meet a woman yesterday? Why are you nodding off like a sick chicken even in the middle of a raid?”
+“Did you meet a woman last night or something? Why are you nodding off like a sick chicken in the middle of a raid?”
 
 “When would I have time to meet a woman? You know my situation.”
 
@@ -124,7 +124,7 @@ He gave the next order at exactly the right moment.
 
 “Attack formation!”
 
-The tanks dropped their tower shields and burst forward at the same time. I was faster.
+The tanks dropped their tower shields and charged.
 
 I was faster.
 
@@ -144,7 +144,7 @@ The team members chatting among themselves fell silent the moment he appeared.
 
 “Hey, Jin Taekyung!”
 
-That made me jump.
+That scared the hell out of me.
 
 I’d been staring into space, lost in thought, and jerked in surprise.
 
@@ -198,7 +198,7 @@ Twenty Magic Gems of various sizes lay neatly arranged on the ground.
 
 Magic Gems. They looked like red pebbles, but they were known as the flower of the Gate. These concentrations of mana found inside monsters were a form of higher-dimensional energy—and the most valuable of all monster byproducts.
 
-“At this rate, each one’s got to be worth over a million won.”
+“At this size, each one has to be worth more than a million won.”
 
 That came from the Team Leader, an E-rank Hunter who had survived ten years in this business. Everyone’s eyes went glassy at the intoxicating sight.
 
@@ -212,7 +212,7 @@ An F-rank Gate yielded one or two on average. Even with incredible luck, you wou
 
 I was busy doing the math.
 
-*Twenty million from the Magic Gems alone, another five million for the byproducts and Equipment. Add all the various allowances and…*
+*At least twenty million from the Magic Gems alone. Another five million from the byproducts and Equipment. Add the various allowances on top of that, and…*
 
 *Fuck. How much is all this?*
 
@@ -284,7 +284,7 @@ What?
 
 I forgot the pain and stared up at him. His clothes and skin melted away, exposing bone.
 
-Everyone but me had become skeletons, sprawled across the ground.
+Everyone but me had become a skeleton sprawled across the ground.
 
 *Ah. That’s right.*
 
@@ -320,7 +320,7 @@ As I sobbed like a child, he forced himself to smile.
 
 *How is that your fault? Look at this kid. Now you’re even trying to play Team Leader.*
 
-The massive body drifted through the cave. Stalactites rained down, and the last member of the team let out a death cry. In the darkness, its red eyes turned toward us.
+The massive body floated through the cavern. Stalactites rained down, and the last member of the team screamed his final breath.
 
 In the darkness, the monster’s red eyes turned toward us.
 
@@ -348,7 +348,7 @@ Someone rose from beside the window, where sunlight streamed into the room.
 
 “Were you dreaming about my lord? He’ll be pleased when I tell him.”
 
-Coldness dripped from his face.
+His face was as cold as ever.
 
 Wipeng, Jin Wikyung’s right-hand man.
 
@@ -366,7 +366,7 @@ My entire body was drenched in sweat. Through the gaps between the bandages wrap
 
 “How long was I out?”
 
-“You were unconscious for five days. Your condition was so critical that the Medicine King Hall Master concluded you wouldn’t last the day.”
+“You were unconscious for five days. Your condition was so critical that the Medicine King Hall Master concluded you wouldn’t survive another day.”
 
 “Really?”
 
@@ -400,7 +400,7 @@ Far too young to die.
 
 “Are you thinking about the dead?”
 
-“The body—did they recover the body?”
+“His body. Did you recover it?”
 
 “We recovered and buried him properly. He was an orphan with no family in the world, so there were no relatives to notify.”
 
@@ -412,9 +412,9 @@ Wipeng didn’t wait for my answer. He took a step toward me and continued.
 
 “Third Young Master, do not turn your subordinate’s death into a dog’s death.”
 
-“What does that…”
+“What do you mean…?”
 
-“Martial artists are not beings meant to be protected. They are people who fight their enemies and prove themselves. He died facing an enemy too strong to do anything about, but that was not mere death—it was death in battle.”
+“Martial artists are not meant to be protected. They fight their enemies and prove themselves. He may have died facing an enemy too powerful for him to overcome, but his was not a meaningless death. He fell in battle.”
 
 The notion that dying on a battlefield somehow made it an honorable death was the biggest load of bullshit I had ever heard.
 
@@ -440,7 +440,7 @@ Wipeng continued in a gentler voice than I had ever heard from him.
 
 *The path I must walk…*
 
-Just hearing those words made something in my chest lurch. I turned them over for a while, then let out a sudden laugh.
+The words alone made something stir deep in my chest. I thought them over for a while, then sagged back with a laugh.
 
 “Damn. I’ll break a leg before I get there.”
 
@@ -454,7 +454,7 @@ Just hearing those words made something in my chest lurch. I turned them over fo
 
 “The greatest under heaven.”
 
-A joke?
+Was he joking?
 
 No. Wipeng was more serious and resolute than I had ever seen him.
 
@@ -504,7 +504,7 @@ It was all thanks to Wipeng.
 
 “Don’t mention it.”
 
-Wipeng tipped his head and spoke.
+Wipeng inclined his head and continued.
 
 “Now, there is still the even better news.”
 

@@ -344,11 +344,11 @@ I was soaked in sweat. Through the gaps in the bandages wound tight around my wh
 
 “How long was I out?”
 
-“You were unconscious for five days. Your condition was so critical that the Medicine King Hall Leader concluded you wouldn’t last the day.”
+“You were unconscious for five days. Your condition was so critical that the Medicine King Hall Master concluded you wouldn’t last the day.”
 
 “Really?”
 
-“Yes. When my lord heard that, he went berserk. If I hadn’t stopped him, he would have beaten the Medicine King Hall Leader to death.”
+“Yes. When my lord heard that, he went berserk. If I hadn’t stopped him, he would have beaten the Medicine King Hall Master to death.”
 
 “Ah.”
 
@@ -424,7 +424,7 @@ Just hearing those words made something in my chest lurch. I turned them over fo
 
 “What’s at the end of the road Great Hero Wipeng is walking?”
 
-“Number One Under Heaven.”
+“The greatest under heaven.”
 
 A joke?
 
@@ -458,7 +458,7 @@ Beyond the chill of the wind, I heard Number Seven’s name.
 
 “What was it?”
 
-“Number One of All Time.”
+“The greatest of all time.”
 
 “…”
 
