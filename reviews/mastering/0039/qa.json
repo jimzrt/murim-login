@@ -1,0 +1,31 @@
+{
+  "chapter": 39,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.137,
+    "source_characters": 5258,
+    "source_paragraphs": 179,
+    "translation_characters": 11237,
+    "translation_paragraphs": 188
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "기세",
+        "preferred": "aura / momentum"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
