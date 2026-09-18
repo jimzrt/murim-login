@@ -262,7 +262,7 @@ Was Team Leader Choi’s face darkening a little just my imagination, or was it 
 
 *Money really is the best.*
 
-The world was ruled by capital, and Gates were no different. People with money fought easy with magic equipment; people without it had to carry torches.
+The world was ruled by capital, and Gates were no different. People with money had it easy fighting with magic equipment; people without it had to carry torches.
 
 “Take your positions.”
 
@@ -376,7 +376,7 @@ But if this were Murim… if he were a man of Murim…
 
 His movements were fast and powerful, but that was all. He hadn’t learned martial arts, and he didn’t use mana efficiently either.
 
-At best, he was first-rate. In Murim, that was exactly where he would stand.
+At best, he was First Rate. In Murim, that was exactly where he would stand.
 
 *But this is reality.*
 

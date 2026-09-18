@@ -26,13 +26,13 @@ We followed Team Leader Choi inside. The two-story building housing the Manageme
 
 *Holy shit. That smell.*
 
-The moment we opened the door, the stench of sweat hit me. Rusty cabinets and an overflowing trash can jumped out at me too.
+The moment the door opened, the stench of sweat assaulted my nose. Rusty lockers and an overflowing trash can completed the picture.
 
 “This place is awful. Don’t they ever air it out?”
 
 “That’s Gate officials for you. There’s a reason everyone calls this a cushy posting.”
 
-I left the grumbling behind and started changing into my raid gear. Leather armor and lightweight combat boots. Last, I drew a spear from its long case and gripped it.
+Leaving the grumbling behind, I changed into my raid gear: leather armor and combat boots made from lightweight material. Finally, I opened a long case and took out my spear.
 
 *It’s been a while.*
 
@@ -40,9 +40,9 @@ The way it fit snugly in my hand felt both familiar and strange.
 
 It was definitely different from the weapon I’d used for the past month… No. Never mind. I shouldn’t think about that anymore.
 
-*I have to forget all of it now.*
+*I need to forget all of it.*
 
-I was tightening the perfectly fine laces on my combat boots for no reason when Im Kkeokjeong came over.
+I was needlessly tightening the perfectly secure laces on my boots when Im Kkeokjeong came over.
 
 Clad in full-body armor and carrying an enormous tower shield, he looked every bit the main tank.
 
@@ -52,7 +52,7 @@ Clad in full-body armor and carrying an enormous tower shield, he looked every b
 
 Im Kkeokjeong looked me up and down, then clicked his tongue.
 
-“Look at this guy. How old is that equipment, even?”
+“Would you look at this guy. How old is that gear?”
 
 “Who knows? I bought it when I first started, so at least seven years?”
 
@@ -66,7 +66,7 @@ Being a Hunter cost about as much as it paid, and most of those expenses went to
 
 *Equipment that isn’t imbued with mana or magic breaks down in no time.*
 
-So the most common method was to craft equipment from Magic Gems taken from Gate monsters.
+That was why most gear was crafted using Magic Gems obtained from Gate monsters.
 
 The higher the Grade of the Magic Gem, the more the price shot through the roof.
 
@@ -82,7 +82,7 @@ Reasons I didn’t particularly want to discuss. Im Kkeokjeong spoke in a concer
 
 His words left me with a strange feeling. They reminded me of someone who, until recently, had constantly been telling me to be careful.
 
-But the sentimentality didn’t last.
+But there was no time to dwell on it.
 
 “Is everyone ready?”
 
@@ -108,7 +108,7 @@ Team Leader Choi’s face stiffened. I’d only ever seen gear like that in luxu
 
 “Red Drake leather is popular for its distinctive sheen, but it only looks impressive. It isn’t particularly useful.”
 
-Team Leader Choi moved, his face still stiff. A faint red glow flashed across him.
+Team Leader Choi shifted his stiff posture, and a faint red light shimmered across the armor.
 
 “But it is exceptionally beautiful.”
 
@@ -132,7 +132,7 @@ I sighed inwardly and prayed that today’s raid would end without incident.
 
 “This isn’t the same number of people you registered.”
 
-The civil servant looked uncomfortable. Fair enough. We were supposed to enter soon, and the party still wasn’t all there.
+The official looked displeased. Understandably so. We were about to enter, yet the entire party still hadn’t arrived.
 
 *How much longer are we supposed to wait?*
 
@@ -154,7 +154,7 @@ At Team Leader Choi’s curt apology, the official picked up his pen and drew se
 
 “Yes.”
 
-*Not a major problem, my ass. There aren’t any people!*
+*Not a major problem, my ass. We’re missing half the damn party!*
 
 I poked Im Kkeokjeong in the ribs.
 
@@ -206,15 +206,15 @@ I wanted to become sworn brothers with him. To pledge brotherhood beneath the Ga
 
 “All right, then. Let’s go in… What is it?”
 
-Team Leader Choi looked at me, startled.
+Team Leader Choi flinched when he saw me staring.
 
-“No. I just thought you looked cool.”
+“Nothing. I just thought you looked cool.”
 
 “Excuse me?”
 
 “Your equipment. I said it looks cool.”
 
-At that moment, the corner of Team Leader Choi’s mouth twitched.
+The corner of Team Leader Choi’s mouth twitched.
 
 “It’s nothing special. It was merely crafted using five types of magic and B-grade Magic Gems…”
 
@@ -234,17 +234,17 @@ Then the scenery changed.
 
 Just as Team Leader Choi said, the raid site was a cave. The moisture-laden walls were damp, and a faint darkness shrouded our surroundings.
 
-“Mr. Taekyung. Take out a flashlight.”
+“Taekyung, take out a flashlight.”
 
-“Yes.”
+“Yes, sir.”
 
-I quickly set down my backpack. It was a porter’s bag Team Leader Choi had handed me just before we entered the Gate. It looked ordinary on the outside, but it was an expensive item enchanted with both space expansion and weight-reduction magic.
+I quickly lowered my backpack. It was a porter’s bag Team Leader Choi had handed me just before we entered the Gate. It looked ordinary, but it was an expensive piece of equipment enchanted with both spatial expansion and weight reduction.
 
 “Here’s the flashlight.”
 
 I handed it over as requested, though in my experience, flashlights weren’t the best option. They were convenient, but if the light suddenly went out, your eyes wouldn’t be adjusted to the darkness.
 
-It was much better to wait a little and let your eyes get used to the darkness…
+It was much better to wait a moment and let your eyes adjust—
 
 Click.
 
@@ -270,7 +270,7 @@ Capital ruled the world, and Gates were no exception. People with money fought i
 
 “Take your positions.”
 
-At Team Leader Choi’s command, everyone moved at once. Im Kkeokjeong and another E-rank Hunter took the lead as tanks, with Team Leader Choi behind them. I, the porter, and the two ranged dealers stood at the very back.
+Everyone responded immediately to Team Leader Choi’s command. Im Kkeokjeong and the other E-rank tank took the lead, with Team Leader Choi behind them. I stood at the very back with the two ranged dealers.
 
 “Move.”
 
@@ -296,7 +296,7 @@ With only five combatants, this would be a difficult fight.
 
 *But having a C-rank Hunter changes everything.*
 
-On top of that, the other four were veteran E-rank Hunters with at least ten-odd years of experience each.
+Besides, the other four were veteran E-rank Hunters with at least a decade of experience each.
 
 I hung well back and watched the battle.
 
@@ -322,7 +322,7 @@ The tanks moved forward in thick full-body armor, tower shields raised. Im Kkeok
 
 “Kiiiieet!”
 
-But monsters were monsters for a reason. Trusting in their numbers, the Hobgoblins charged like a swarm of bees.
+But monsters were called monsters for a reason. Trusting in their superior numbers, the Hobgoblins swarmed forward like bees.
 
 But—
 
@@ -332,7 +332,7 @@ Bam!
 
 They smashed into the big, beautiful tower shields and flew back as bloody pulp. Seizing the momentum, Im Kkeokjeong swung his mace like a flyswatter, shattering limbs and crushing skulls with every blow.
 
-“You punk! You punk!”
+“Got you! And you!”
 
 …What was this, whack-a-mole?
 
@@ -340,13 +340,13 @@ They smashed into the big, beautiful tower shields and flew back as bloody pulp.
 
 All four of them stayed within their roles without overextending themselves, steadily whittling down the enemy numbers.
 
-Knowing when to fall back and when to push in was combat intelligence born of plenty of experience.
+Knowing when to fall back and when to advance was the kind of combat sense that came only from extensive experience.
 
 “Everyone, hold your positions.”
 
-And then one man.
+Then the last man moved.
 
-The man who had been directing the flow of battle until now moved.
+The one who had been directing the flow of battle until now.
 
 “I’ll take care of the rest.”
 
@@ -396,7 +396,7 @@ I bit my lip without realizing it.
 
 A mid-rank Hunter and a bottom-rank Hunter.
 
-While the mid-rank Hunter wore expensive equipment and slaughtered monsters, the lowest-rank Hunter could only stare blankly.
+While the mid-rank Hunter wore expensive equipment and slaughtered monsters, the bottom-rank Hunter could only stand and watch.
 
 As a porter.
 
@@ -404,11 +404,11 @@ As a porter.
 
 The last Hobgoblin fell. Team Leader Choi pulled his sword from its chest, and our eyes met.
 
-“Mr. Taekyung. Please handle the byproducts.”
+“Taekyung, please take care of the byproducts.”
 
 “…”
 
-“Mr. Taekyung?”
+“Taekyung?”
 
 I wanted to tell him that I was stronger than him.
 
