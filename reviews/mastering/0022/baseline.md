@@ -4,7 +4,7 @@ The smell of mold stabbed at my nose as soon as I entered the room. The place re
 
 *Ten people.*
 
-I sharpened my senses and looked over each of them.
+I activated Qi Sense and looked over each of them.
 
 Every time my gaze passed over an unfamiliar face, a Level display popped up.
 
@@ -92,7 +92,7 @@ Four hands dropped weakly. I looked at the only member of the reconnaissance squ
 
 He snorted.
 
-“Five. It was during last year’s bandit suppression campaign. One of them was a bandit chieftain. He was quite a strong bastard—”
+“Five. It was during last year’s bandit suppression campaign. One of them was a Deputy Stronghold Lord. He was quite a strong bastard—”
 
 I cut him off before he could continue.
 
@@ -276,7 +276,7 @@ But the silence broke after a mere two hours.
 
 “What is that…?”
 
-A black dot in the sky was gradually drawing closer. Spreading its enormous wings, the messenger hawk landed by the window of the office. It belonged to the Lower District Sect.
+A black dot in the sky was gradually drawing closer. Spreading its enormous wings, the messenger eagle landed by the window of the office. It belonged to the Lower District Sect.
 
 Jin Wikyung hurriedly stood and opened the tube fastened to the hawk’s leg. The moment he unfolded the letter, tiny writing caught his eye.
 

@@ -48,7 +48,7 @@ I spoke first.
 
 Clap, clap, clap.
 
-Someone’s lonely applause died out within a few seconds, and Han Yeop lowered his hand with an embarrassed expression.
+The lonely applause died after only a few seconds. Han Yeop lowered his hands, looking embarrassed.
 
 The atmosphere was even stiffer than I’d expected.
 
@@ -60,11 +60,11 @@ Of course, too much tension could become poisonous. Easing it at the right time 
 
 *That much, I’m used to.*
 
-Newbie Hunters froze the moment they entered a Gate for the first time. Real combat was different from practice. Everything they had learned and trained for at the Hunter training center flew off into outer space, and they were overwhelmed by the primal scent of death.
+Rookie Hunters froze the moment they entered a Gate for the first time. Real combat was nothing like practice. Everything they had learned at the Hunter training center went flying out the window, and the primal scent of death overwhelmed them.
 
 That was why Guild veterans helped the rookies keep their heads together. I’d been one of those veterans.
 
-*Though I was assigned exclusively to F-ranks.*
+*Even if I only handled F-ranks.*
 
 The power levels were similar, too. From what I’d seen, a second-rate martial artist in Murim fell somewhere between an E-rank and an F-rank Hunter.
 
@@ -84,7 +84,7 @@ But the most important question remained.
 
 “Keep it raised if you’ve killed someone.”
 
-Four hands dropped weakly. I looked at the only member of the reconnaissance squad who still had his hand raised.
+Four hands slowly dropped. I looked at the only member of the reconnaissance squad whose hand remained raised.
 
 > **Lv. 22 Hyuk Mujin**
 
@@ -94,15 +94,15 @@ He snorted.
 
 “Five. It was during last year’s bandit suppression campaign. One of them was a Deputy Stronghold Lord. He was a pretty strong bastard—”
 
-I cut him off before he could continue.
+I cut him off.
 
 “Good. You’re the deputy squad leader from now on.”
 
-Hyuk Mujin’s mouth, which had been preparing to ramble on, snapped shut.
+Hyuk Mujin’s mouth snapped shut.
 
 “Deputy squad leader?”
 
-“Yeah. Speak up now if you don’t like it.”
+“Yeah. If you don’t want the job, say so now.”
 
 In a group full of rookies, experience mattered more than anything.
 
@@ -116,7 +116,7 @@ Hyuk Mujin considered it with a conflicted expression before answering.
 
 “…Hmph. If it’s an order, I suppose I have no choice.”
 
-He sure had a difficult way of saying he wanted to be deputy squad leader.
+He sure had a roundabout way of saying he wanted the job.
 
 “Then Hyuk Mujin is the deputy squad leader. From now on, you’re Number One.”
 
@@ -156,7 +156,7 @@ What mattered was that Hyuk Mujin had fallen in line.
 
 Keeping my expression neutral, I continued.
 
-“What I’m about to say may sound strange and unfamiliar. But bear with it. It’s better than getting stabbed to death, isn’t it? Don’t you agree?”
+“What I tell you from now on may sound strange. It may not make sense to you. Bear with it anyway. That’s better than getting stabbed to death, isn’t it?”
 
 The other squad members weren’t as open about their displeasure as Hyuk Mujin, but they still watched me anxiously.
 
@@ -200,15 +200,15 @@ Hyuk Mujin looked as if he couldn’t understand what the problem was.
 
 The sight of everyone else nodding along left me speechless.
 
-*You’re too well-fed. Way too well-fed.*
+*Talk about pampered.*
 
-Try slamming your head into a pool of blood and see if you still talk like that.
+Let’s see if they could still say that after being shoved face-first into a pool of blood.
 
-Sword? Spear? There was no such distinction. You bashed people with whatever rock you happened to grab, threw dirt, climbed on top of them, and bit them with your teeth.
+Sword? Spear? None of that mattered. You smashed someone with whatever rock you could grab, threw dirt in their face, climbed on top of them, and bit them with your teeth.
 
 When your life was on the line, anything within reach became both a weapon and a lifeline.
 
-These people, who had only ever fought bandits at best, still didn’t understand that.
+These people had only ever fought bandits at worst. They still didn’t understand that.
 
 *Do I need to start training them tomorrow?*
 
@@ -266,7 +266,7 @@ Jin Wikyung gave a weary chuckle.
 
 “…”
 
-“Anyway, I can stop worrying about the youngest now. I’ll be able to focus more on the main family.”
+“Anyway, I can stop worrying about the youngest now. I’ll be able to focus more on family affairs.”
 
 “You should rest for a while. You look exhausted.”
 
@@ -292,7 +292,7 @@ Beyond Jeongyang lay Honju. Beyond Honju lay Taiyuan. Special detachment or not,
 
 And that wasn’t all.
 
-There were still family members from the branches who had not returned to the main family. What if the enemy was tracking them?
+There were still members of the branch families who had yet to return to the main estate. What if the enemy was pursuing them?
 
 *Every moment counts.*
 
@@ -310,11 +310,11 @@ Jin Wikyung clenched his teeth.
 
 “My lord.”
 
-Wipeng’s expression had hardened. Jin Wikyung stared blankly at him, as though a thought had seized him, before speaking.
+Wipeng’s expression had gone rigid. Jin Wikyung stared blankly at him, as though seized by a sudden thought.
 
 “Taekyung. Where did you say Taekyung went?”
 
-His voice came out strained.
+The words came out strained.
 
 “…Jeongyang.”
 
