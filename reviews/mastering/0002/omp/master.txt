@@ -6,7 +6,7 @@ I’d been sensitive to the cold since I was a kid, so I kept my windows closed 
 
 *Obviously.*
 
-Seong Jinho, that miserable excuse for a human being.
+Seong Jinho, my mortal enemy.
 
 Grumbling, I pulled the blanket up to my neck. The woman lying beside me let out a soft whine.
 
@@ -18,9 +18,9 @@ I woke in an instant and shot upright like a private hearing reveille. Then I sl
 
 “Tài lěng le.”
 
-Good heavens. I was stunned twice over. First, because I couldn’t make sense of the situation. Second, because the woman lying beside me was unbelievably beautiful.
+Good lord. I was stunned twice over. First, because I couldn’t make sense of the situation. Second, because the woman lying beside me was unbelievably beautiful.
 
-She kept muttering words I couldn’t understand as she burrowed deeper beneath the blanket. Even in my dazed state, she was beautiful enough to set my heart pounding.
+She kept muttering words I couldn’t understand as she burrowed deeper beneath the blanket. Even in my dazed state, she was beautiful enough to make my heart skip a beat.
 
 If that cold wind hadn’t blown in right then, I might have stared at her for quite a while.
 
@@ -42,7 +42,7 @@ I clearly remembered climbing into the capsule to escape Jinho’s thunderous sn
 
 I pinched my forearm hard. It hurt. This wasn’t a dream.
 
-The situation was becoming more and more baffling. After staring blankly around the room, I grabbed the woman by the shoulder and shook her.
+The situation grew more baffling by the second. After staring blankly around the room, I grabbed the woman by the shoulder and shook her.
 
 “Excuse me?”
 
@@ -70,7 +70,7 @@ For a moment, we stared at each other in silence. Then I realized it. This woman
 
 *This is useless. We can’t communicate at all.*
 
-I scratched vigorously at the back of my head in frustration. The next moment, I sprang up like a released spring.
+I scratched vigorously at the back of my head in frustration. The next moment, I sprang up like a coiled spring.
 
 Ding.
 
@@ -98,7 +98,7 @@ Ding.
 >
 > No response for an extended period. Randomly selecting a character.
 >
-> Searching Murim… Starting play as character Jin Taekyung!
+> Searching Murim… Beginning play as character Jin Taekyung!
 >
 > Logged in to Murim.
 >
@@ -128,7 +128,7 @@ She was speaking perfect Korean. I looked back and forth between the square wind
 
 Wolhwa. That was the woman’s name.
 
-She had smooth, pale skin and a face the size of my fist. Her delicate features were perfectly arranged, and her eyes were so large and clear that she could have put a celebrity to shame.
+She had smooth, pale skin and a tiny face—no bigger than my fist. Her delicate features were perfectly arranged, and her eyes were so large and clear that she could have put a celebrity to shame.
 
 I marveled at her all over again.
 
@@ -152,13 +152,13 @@ It was a far cry from the last game I’d played, but this was a game. I was pla
 
 *But when did I log in?*
 
-I didn’t remember plugging anything in. Just as I tried to recall what had happened the night before, Wolhwa suddenly held out a bowl of water in both hands.
+I didn’t remember plugging anything in. Just as I was trying to recall what had happened the night before, Wolhwa suddenly held out a bowl of water in both hands.
 
 “Drink. You don’t seem fully awake yet.”
 
 *The AI is incredible, too.*
 
-I stole glances at Wolhwa’s face as I drank the water, then nearly jumped out of my skin.
+I stole glances at Wolhwa’s face as I drank the water, then started in surprise.
 
 *What the hell?*
 
@@ -166,7 +166,7 @@ The cold water slid down my throat, cooling me all the way to my stomach. The se
 
 The lifelike graphics and the NPC’s artificial intelligence were one thing, but even a sip of cold water felt too real for this to be a game.
 
-Wow. I’d heard that technology had advanced by leaps and bounds, but I’d never imagined it had come this far. Now I understood why people became gaming addicts.
+Wow. I’d heard that technology had advanced by leaps and bounds, but I never imagined it had come this far. Now I understood why people became gaming addicts.
 
 *So this is why everyone goes on about virtual reality.*
 
@@ -210,15 +210,15 @@ Ding.
 >
 > Tutorial Quest created.
 
-*The way this game progresses is pretty innovative.*
+*The way this game unfolds is pretty innovative.*
 
 Usually, games started with something like, “At last, you’re awake,” before immediately handing out a tutorial quest.
 
 *Is this what they call freedom?*
 
-“Uh… Check quest?”
+*Uh… Check quest?*
 
-Even as I said it, I wasn’t sure whether that was the right command. But with the familiar sound effect, a quest window appeared at once.
+Even as I thought it, I wasn’t sure whether that was the right command. But with the familiar sound effect, a quest window appeared at once.
 
 > **System**
 >
@@ -274,7 +274,7 @@ I was growing more interested in this game by the minute. It was the first game 
 
 “…If you insist.”
 
-*Got her.*
+*She took the bait.*
 
 I smiled inwardly, pleased. Now all that remained was to pry out some real information.
 
@@ -282,7 +282,7 @@ I smiled inwardly, pleased. Now all that remained was to pry out some real infor
 
 It was an even stranger question than the one before, but Wolhwa answered without hesitation. She almost seemed to be enjoying the situation, too.
 
-“The youngest son of the Jin Family of Taiyuan, who came of age at twenty this year. Surely I don’t need to tell you his name as well?”
+“The youngest son of the Jin Family of Taiyuan, who turned twenty this year. Surely I don’t need to tell you his name as well?”
 
 I answered confidently.
 
@@ -296,13 +296,13 @@ At my confident reply, Wolhwa choked in the middle of exhaling smoke.
 
 After barely managing to stop coughing, Wolhwa answered.
 
-“They have a good reputation among the public. From time to time, they wipe out bands of mounted bandits, and when droughts come, they distribute relief grain before even the magistrate’s office does.”
+“They have a good reputation among the people. From time to time, they wipe out bands of mounted bandits, and when droughts come, they distribute relief grain before even the magistrate’s office does.”
 
 *That’s it?*
 
 As if she had noticed my disappointment, Wolhwa continued.
 
-“More than anything, they’re a prestigious family representing Shanxi. You could call them a deeply rooted old tree.”
+“More than anything, they’re a prestigious family representing Shanxi Province. You could call them an old tree with deep roots.”
 
 “Oh!”
 
@@ -334,7 +334,7 @@ Being born into a prestigious family counted as an achievement. It pissed me off
 
 Come to think of it, the quest window’s information-gathering mission was still marked *Incomplete*. That meant there was more information to collect.
 
-“Externally, there’s the conflict with the Mount Heng Sword Sect, which is constantly eyeing the position of Shanxi’s hegemon. Internally…”
+“Externally, there’s the conflict with the Mount Heng Sword Sect, which is constantly eyeing the position of Alliance Leader in Shanxi Province. Internally…”
 
 Wolhwa leisurely tapped the ash from her pipe.
 
@@ -342,7 +342,7 @@ Wolhwa leisurely tapped the ash from her pipe.
 
 “Ah. There’s always one of those wherever you go.”
 
-I nodded unconsciously, then an uneasy feeling came over me.
+I nodded unconsciously, then was seized by a strange feeling.
 
 “Excuse me.”
 
@@ -366,9 +366,9 @@ Ding.
 >
 > Gather Information complete.
 
-I couldn’t decide whether to laugh or cry. Then I saw Wolhwa snickering and let out a hollow laugh myself.
+I couldn’t decide whether to laugh or cry. Then I saw Wolhwa quietly chuckling and let out a hollow laugh myself.
 
-*Well, better to look on the bright side. So what if I’m the shame of the family? It’s only a game, anyway.*
+*Fine. No point getting worked up. So what if I’m the shame of the family? It’s only a game, anyway.*
 
 I opened the quest window and confirmed that *Gather Information* had changed to *Complete*.
 
@@ -382,9 +382,9 @@ This damn quest was so vague that I had no idea what exactly it wanted. In the e
 
 Through our conversation, I learned a few more miscellaneous facts.
 
-We were in Honghwaru, located in the heart of Taiyuan. Wolhwa was a fairly high-ranking courtesan, and I had spent the night with her… Ahem.
+We were in Honghwaru, located in the heart of Taiyuan. Wolhwa was a fairly high-ranking courtesan, and she and I had spent the night… Ahem.
 
-Despite all the things we discussed, no System notification appeared. Eventually, I ran out of questions to ask.
+Despite everything we discussed, no System notification appeared. Eventually, I ran out of questions to ask.
 
 At the very end, I was reduced to asking this:
 
@@ -408,7 +408,7 @@ A game this advanced had to require serious hardware, yet I hadn’t experienced
 
 Still, the game hadn’t been bad for the little while I’d played it.
 
-I gave Wolhwa a final glance and shouted:
+I said goodbye to Wolhwa with one last glance and shouted:
 
 “Log out!”
 
@@ -426,7 +426,7 @@ I gave Wolhwa a final glance and shouted:
 
 *What’s going on?*
 
-An error? Or had the ancient capsule finally started lagging?
+An error? Or had the piece-of-junk capsule finally started lagging?
 
 “…Log out?”
 
@@ -434,7 +434,7 @@ An error? Or had the ancient capsule finally started lagging?
 >
 > Logout is impossible.
 
-There was no doubt about it. Error or lag, the damn old capsule had finally caused trouble. I tried ten more times after that, but every attempt failed.
+There was no doubt about it. Error or lag, the damn junk capsule had finally caused trouble. I tried ten more times after that, but every attempt failed.
 
 By this point, my anger had gradually turned into worry and regret.
 

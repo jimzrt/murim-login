@@ -1,142 +1,124 @@
-# Mastering Diff — 44 changed hunks
+# Mastering Diff — 27 changed hunks
 
 ## H001 (replace)
 
-### BASE
+Baseline paragraphs: P5
+SOL paragraphs: P5
+Korean lines: 11
 
-I’d been sensitive to the cold since I was a kid, so I kept my windows closed all year round. So who had opened the window?
+BASE:
 
-### SOL
+Seong Jinho, that miserable excuse for a human being.
 
-I’d been sensitive to the cold since I was a kid, so I kept my windows closed all year round. Who had opened the window, then?
+SOL:
+
+Seong Jinho, my mortal enemy.
 
 ## H002 (replace)
 
-### BASE
+Baseline paragraphs: P6
+SOL paragraphs: P6
+Korean lines: 13
+
+BASE:
 
 Grumbling, I pulled the blanket up to my neck. The woman lying beside me let out a small whine.
 
-### SOL
+SOL:
 
 Grumbling, I pulled the blanket up to my neck. The woman lying beside me let out a soft whine.
 
 ## H003 (replace)
 
-### BASE
+Baseline paragraphs: P8
+SOL paragraphs: P8
+Korean lines: 17
+
+BASE:
 
 *A woman? Which woman?*
 
-### SOL
+SOL:
 
 *A woman? What woman?*
 
 ## H004 (replace)
 
-### BASE
+Baseline paragraphs: P9
+SOL paragraphs: P9
+Korean lines: 19
 
-I woke up in an instant and shot upright, like a private startled awake by reveille. Then I slowly turned my head.
+BASE:
 
-### SOL
+I woke in an instant and shot upright like a soldier hearing the wake-up signal. Then I slowly turned my head.
+
+SOL:
 
 I woke in an instant and shot upright like a private hearing reveille. Then I slowly turned my head.
 
 ## H005 (replace)
 
-### BASE
+Baseline paragraphs: P11
+SOL paragraphs: P11
+Korean lines: 23
 
-Good heavens. I was startled twice. First, because I couldn’t make sense of the situation. Second, because the woman lying beside me was unbelievably beautiful.
-
-### SOL
+BASE:
 
 Good heavens. I was stunned twice over. First, because I couldn’t make sense of the situation. Second, because the woman lying beside me was unbelievably beautiful.
 
+SOL:
+
+Good lord. I was stunned twice over. First, because I couldn’t make sense of the situation. Second, because the woman lying beside me was unbelievably beautiful.
+
 ## H006 (replace)
 
-### BASE
+Baseline paragraphs: P12
+SOL paragraphs: P12
+Korean lines: 25
+
+BASE:
 
 She kept muttering words I couldn’t understand and burrowed deeper beneath the blanket. Even in my dazed state, she was beautiful enough to make my heart skip.
 
-### SOL
+SOL:
 
-She kept muttering words I couldn’t understand as she burrowed deeper beneath the blanket. Even in my dazed state, she was beautiful enough to set my heart pounding.
+She kept muttering words I couldn’t understand as she burrowed deeper beneath the blanket. Even in my dazed state, she was beautiful enough to make my heart skip a beat.
 
 ## H007 (replace)
 
-### BASE
+Baseline paragraphs: P23
+SOL paragraphs: P23
+Korean lines: 47
 
-I looked around. Red candlelight glowed softly around the room. A strangely stimulating fragrance filled the air, and a beautiful woman lay beside me, covering herself with a blanket.
-
-### SOL
-
-I looked around. Red candlelight glowed softly through the room. A strangely provocative fragrance filled the air, and a beautiful woman lay beside me, covering her naked body with a blanket.
-
-## H008 (replace)
-
-### BASE
-
-A place I’d never visited but had heard about plenty of times.
-
-### SOL
-
-A place I’d never visited but had heard plenty about.
-
-## H009 (replace)
-
-### BASE
-
-The mystery deepened. I stared blankly around the room, then grabbed the woman by the shoulder and shook her.
-
-### SOL
+BASE:
 
 The situation was becoming more and more baffling. After staring blankly around the room, I grabbed the woman by the shoulder and shook her.
 
-## H010 (replace)
+SOL:
 
-### BASE
+The situation grew more baffling by the second. After staring blankly around the room, I grabbed the woman by the shoulder and shook her.
 
-The woman looked at me through half-lidded eyes. Her irises shimmered a dark blue, and my heart began pounding again.
+## H008 (replace)
 
-### SOL
+Baseline paragraphs: P37
+SOL paragraphs: P37
+Korean lines: 75
 
-The woman peered at me through half-lidded eyes. Her irises shimmered dark blue, and my heart began pounding again.
-
-## H011 (replace)
-
-### BASE
-
-I scratched vigorously at the back of my head in frustration. The next moment, I sprang up like a compressed spring.
-
-### SOL
+BASE:
 
 I scratched vigorously at the back of my head in frustration. The next moment, I sprang up like a released spring.
 
-## H012 (replace)
+SOL:
 
-### BASE
+I scratched vigorously at the back of my head in frustration. The next moment, I sprang up like a coiled spring.
 
-I had no idea where it had come from—or, more importantly, why I could see something like this. I broke out in goose bumps.
+## H009 (replace)
 
-### SOL
+Baseline paragraphs: P47
+SOL paragraphs: P47
+Korean lines: 101
 
-I had no idea where it had come from—or, more importantly, why I could see something like this. Goose bumps prickled across my skin.
-
-## H013 (replace)
-
-### BASE
-
-> **System**
->
-> No response for an extended period. Randomly selecting a character.
->
-> Searching Murim… Starting play as character Jin Taekyung!
->
-> Logged in to Murim.
->
-> First-login rewards granted.
->
-> You can change the language of the player currently in use. Apply the Universal Language Pack?
-
-### SOL
+BASE:
 
 > **System**
 >
@@ -150,373 +132,270 @@ I had no idea where it had come from—or, more importantly, why I could see som
 >
 > The player’s current language can be changed. Apply the Universal Language Pack?
 
-## H014 (replace)
+SOL:
 
-### BASE
+> **System**
+>
+> No response for an extended period. Randomly selecting a character.
+>
+> Searching Murim… Beginning play as character Jin Taekyung!
+>
+> Logged in to Murim.
+>
+> First-login rewards will be granted.
+>
+> The player’s current language can be changed. Apply the Universal Language Pack?
 
-I admired her once again.
+## H010 (replace)
 
-### SOL
+Baseline paragraphs: P71
+SOL paragraphs: P71
+Korean lines: 163
 
-I marveled at her all over again.
-
-## H015 (replace)
-
-### BASE
-
-I’d already worked out the general situation. Once I put a few things together, the truth was simple.
-
-### SOL
-
-By then, I’d already worked out the general situation. Once I put a few things together, the truth was simple.
-
-## H016 (replace)
-
-### BASE
-
-There was a System window. I could speak aloud or think my commands. Scratching my head acted as a kind of shortcut. I could even click the options I wanted in midair.
-
-### SOL
-
-There was a System window. I could issue commands aloud or in my head. Scratching my head acted as a kind of shortcut. I could even click the options I wanted in midair.
-
-## H017 (replace)
-
-### BASE
-
-It was a far cry from the last game I’d played, but this was a game. I was inside a game right now.
-
-### SOL
-
-It was a far cry from the last game I’d played, but this was a game. I was playing a game right now.
-
-## H018 (replace)
-
-### BASE
-
-I didn’t remember plugging anything in. Just as I was trying to recall what had happened the night before, Wolhwa suddenly held out a bowl of water in both hands.
-
-### SOL
-
-I didn’t remember plugging anything in. Just as I tried to recall what had happened the night before, Wolhwa suddenly held out a bowl of water in both hands.
-
-## H019 (replace)
-
-### BASE
-
-I glanced at Wolhwa’s face as I drank the water, then nearly jumped out of my skin.
-
-### SOL
+BASE:
 
 I stole glances at Wolhwa’s face as I drank the water, then nearly jumped out of my skin.
 
-## H020 (replace)
+SOL:
 
-### BASE
+I stole glances at Wolhwa’s face as I drank the water, then started in surprise.
 
-Cold water slid down my throat, then spread through my stomach in a wave of coolness. The sensation was so vivid that goose bumps rose on my forearms.
+## H011 (replace)
 
-### SOL
+Baseline paragraphs: P82
+SOL paragraphs: P82
+Korean lines: 185
 
-The cold water slid down my throat, cooling me all the way to my stomach. The sensation was so vivid that goose bumps rose on my forearms.
-
-## H021 (replace)
-
-### BASE
-
-Wow. I’d heard that technology had advanced by leaps and bounds, but I never imagined it had come this far. Now I understood why people became gaming addicts.
-
-### SOL
-
-Wow. I’d heard that technology had advanced by leaps and bounds, but I’d never imagined it had come this far. Now I understood why people became gaming addicts.
-
-## H022 (replace)
-
-### BASE
-
-*So this is why they call it virtual reality.*
-
-### SOL
-
-*So this is why everyone goes on about virtual reality.*
-
-## H023 (replace)
-
-### BASE
-
-I turned my head. Wolhwa was already watching me intently, a long-stemmed tobacco pipe between her lips.
-
-### SOL
-
-I turned my head. Wolhwa was watching me intently, a long-stemmed tobacco pipe already between her lips.
-
-## H024 (replace)
-
-### BASE
+BASE:
 
 “Just because. I wanted to see you?”
 
-### SOL
+SOL:
 
 “Just because. I wanted to look at you?”
 
-## H025 (replace)
+## H012 (replace)
 
-### BASE
+Baseline paragraphs: P96
+SOL paragraphs: P96
+Korean lines: 213
 
-“Young Master Jin, did you know you’ve been acting strange today?”
-
-### SOL
-
-“Young Master Jin, do you know you’ve been acting strange today?”
-
-## H026 (replace)
-
-### BASE
+BASE:
 
 *The game’s progression is pretty innovative.*
 
-### SOL
+SOL:
 
-*The way this game progresses is pretty innovative.*
+*The way this game unfolds is pretty innovative.*
 
-## H027 (replace)
+## H013 (replace)
 
-### BASE
+Baseline paragraphs: P99
+SOL paragraphs: P99
+Korean lines: 219
 
-> **System**
->
-> Quest
->
-> Tutorial—Stage 1
->
-> You are now taking your first step into Murim.
->
-> Gather basic information and understand the situation.
->
-> **Grade:** Tutorial (Chain Quest)
->
-> **Restriction:** First-time players
->
-> **Missions:** Gather information (Incomplete)
->
-> Understand the situation (Incomplete)
->
-> **Rewards:** Sturdy martial uniform set
->
-> Character Status Window unlocked
->
-> Inventory function unlocked
->
-> Skill Window function unlocked
->
-> Chain Quest
+BASE:
 
-### SOL
+“Uh… Check quest?”
 
-> **System**
->
-> Quest
->
-> Tutorial—Stage 1
->
-> You are now taking your first step into Murim.
->
-> Gather basic information and understand the situation.
->
-> **Grade:** Tutorial (Chain Quest)
->
-> **Restriction:** First-time players
->
-> **Missions:** Gather Information (Incomplete)
->
-> Understand the Situation (Incomplete)
->
-> **Rewards:** Sturdy Martial Uniform Set
->
-> Character Status Window unlocked
->
-> Inventory function unlocked
->
-> Skill Window function unlocked
->
-> Chain Quest
+SOL:
 
-## H028 (replace)
+*Uh… Check quest?*
 
-### BASE
+## H014 (replace)
 
-Even I thought it was a very blunt question. I could see Wolhwa smiling through the smoke from her pipe.
+Baseline paragraphs: P100
+SOL paragraphs: P100
+Korean lines: 221
 
-### SOL
+BASE:
 
-Even I thought it was a blunt question. I could see Wolhwa smiling through the tobacco smoke.
+Even as I said it, I wasn’t sure whether that was the right command. But with the familiar sound effect, a quest window appeared at once.
 
-## H029 (replace)
+SOL:
 
-### BASE
+Even as I thought it, I wasn’t sure whether that was the right command. But with the familiar sound effect, a quest window appeared at once.
 
-At my confident reply, Wolhwa choked on the smoke she was exhaling.
+## H015 (replace)
 
-### SOL
+Baseline paragraphs: P115
+SOL paragraphs: P115
+Korean lines: 261
 
-At my confident reply, Wolhwa choked in the middle of exhaling smoke.
+**Terminology alert:** `가지` → `Go`
 
-## H030 (replace)
+BASE:
 
-### BASE
+*Got her.*
 
-“They have a good reputation among the public. From time to time, they wipe out bands of mounted bandits, and when droughts come, they release relief grain before even the local government does.”
+SOL:
 
-### SOL
+*She took the bait.*
+
+## H016 (replace)
+
+Baseline paragraphs: P119
+SOL paragraphs: P119
+Korean lines: 273
+
+BASE:
+
+“The youngest son of the Jin Family of Taiyuan, who came of age at twenty this year. Surely I don’t need to tell you his name as well?”
+
+SOL:
+
+“The youngest son of the Jin Family of Taiyuan, who turned twenty this year. Surely I don’t need to tell you his name as well?”
+
+## H017 (replace)
+
+Baseline paragraphs: P126
+SOL paragraphs: P126
+Korean lines: 287
+
+BASE:
 
 “They have a good reputation among the public. From time to time, they wipe out bands of mounted bandits, and when droughts come, they distribute relief grain before even the magistrate’s office does.”
 
-## H031 (replace)
+SOL:
 
-### BASE
+“They have a good reputation among the people. From time to time, they wipe out bands of mounted bandits, and when droughts come, they distribute relief grain before even the magistrate’s office does.”
 
-“More than anything, they’re a prestigious family representing Shanxi. You could say they’re one of the region’s old, deeply rooted powers.”
+## H018 (replace)
 
-### SOL
+Baseline paragraphs: P129
+SOL paragraphs: P129
+Korean lines: 293
+
+BASE:
 
 “More than anything, they’re a prestigious family representing Shanxi. You could call them a deeply rooted old tree.”
 
-## H032 (replace)
+SOL:
 
-### BASE
+“More than anything, they’re a prestigious family representing Shanxi Province. You could call them an old tree with deep roots.”
 
-“Externally, there’s the conflict with the Mount Heng Sword Sect, which is constantly eyeing the position of Shanxi’s leader. Internally…”
+## H019 (replace)
 
-### SOL
+Baseline paragraphs: P143
+SOL paragraphs: P143
+Korean lines: 321
+
+BASE:
 
 “Externally, there’s the conflict with the Mount Heng Sword Sect, which is constantly eyeing the position of Shanxi’s hegemon. Internally…”
 
-## H033 (replace)
+SOL:
 
-### BASE
+“Externally, there’s the conflict with the Mount Heng Sword Sect, which is constantly eyeing the position of Alliance Leader in Shanxi Province. Internally…”
 
-I nodded unconsciously, then was seized by a strange feeling.
+## H020 (replace)
 
-### SOL
+Baseline paragraphs: P157
+SOL paragraphs: P157
+Korean lines: 353
 
-I nodded unconsciously, then an uneasy feeling came over me.
-
-## H034 (replace)
-
-### BASE
-
-“This is just a joke, but how many sons does the Jin Family of Taiyuan have?”
-
-### SOL
-
-“I’m only asking as a joke, but how many sons does the Jin Family of Taiyuan have?”
-
-## H035 (replace)
-
-### BASE
-
-Whether I should laugh or cry, I had no idea. When I saw Wolhwa snickering, I let out a hollow laugh too.
-
-### SOL
+BASE:
 
 I couldn’t decide whether to laugh or cry. Then I saw Wolhwa snickering and let out a hollow laugh myself.
 
-## H036 (replace)
+SOL:
 
-### BASE
+I couldn’t decide whether to laugh or cry. Then I saw Wolhwa quietly chuckling and let out a hollow laugh myself.
 
-We were in Honghwaru, located in the center of Taiyuan. Wolhwa was a high-ranking courtesan, and I had spent the night with her… Ahem.
+## H021 (replace)
 
-### SOL
+Baseline paragraphs: P158
+SOL paragraphs: P158
+Korean lines: 355
+
+BASE:
+
+*Well, better to look on the bright side. So what if I’m the shame of the family? It’s only a game, anyway.*
+
+SOL:
+
+*Fine. No point getting worked up. So what if I’m the shame of the family? It’s only a game, anyway.*
+
+## H022 (replace)
+
+Baseline paragraphs: P165
+SOL paragraphs: P165
+Korean lines: 369
+
+BASE:
 
 We were in Honghwaru, located in the heart of Taiyuan. Wolhwa was a fairly high-ranking courtesan, and I had spent the night with her… Ahem.
 
-## H037 (replace)
+SOL:
 
-### BASE
+We were in Honghwaru, located in the heart of Taiyuan. Wolhwa was a fairly high-ranking courtesan, and she and I had spent the night… Ahem.
+
+## H023 (replace)
+
+Baseline paragraphs: P166
+SOL paragraphs: P166
+Korean lines: 371
+
+BASE:
 
 Despite all the various things we discussed, no System notification appeared. Eventually, I ran out of questions to ask.
 
-### SOL
+SOL:
 
-Despite all the things we discussed, no System notification appeared. Eventually, I ran out of questions to ask.
+Despite everything we discussed, no System notification appeared. Eventually, I ran out of questions to ask.
 
-## H038 (replace)
+## H024 (replace)
 
-### BASE
+Baseline paragraphs: P174
+SOL paragraphs: P174
+Korean lines: 389
 
-“Young Master Jin, I’m sorry to put it this way, but you seem a little crazy right now. How about getting some rest?”
-
-### SOL
-
-“Young Master Jin, I’m sorry to say this, but you seem a little crazy right now. How about getting some rest?”
-
-## H039 (replace)
-
-### BASE
-
-*Well, I feel like I’m going crazy, too.*
-
-### SOL
-
-*Yeah. I feel like I’m going crazy, too.*
-
-## H040 (replace)
-
-### BASE
+BASE:
 
 The graphics and artificial intelligence were all great, but being stuck at the tutorial had completely drained the fun out of it. If there was one thing I’d learned, it was that the capsule I’d found yesterday was a much better piece of equipment than it looked.
 
-### SOL
+SOL:
 
 The graphics and artificial intelligence were all great, but getting stuck on the tutorial had completely drained the fun out of it. If there was one thing I’d learned, it was that the capsule I’d found yesterday was a much better piece of equipment than it looked.
 
-## H041 (replace)
+## H025 (replace)
 
-### BASE
+Baseline paragraphs: P178
+SOL paragraphs: P178
+Korean lines: 399
 
-Still, the game had been fun for a little while.
-
-### SOL
-
-Still, the game hadn’t been bad for the little while I’d played it.
-
-## H042 (replace)
-
-### BASE
+BASE:
 
 I gave Wolhwa a final nod and shouted:
 
-### SOL
+SOL:
 
-I gave Wolhwa a final glance and shouted:
+I said goodbye to Wolhwa with one last glance and shouted:
 
-## H043 (replace)
+## H026 (replace)
 
-### BASE
+Baseline paragraphs: P185
+SOL paragraphs: P185
+Korean lines: 413
 
-*I shouldn’t have picked it up just because it was free. I should have thrown it away the moment Jinho called it garbage. Or at least, the moment I read that insane instruction manual…*
+BASE:
 
-### SOL
+An error? Or had the ancient capsule finally started lagging?
 
-*I shouldn’t have picked it up just because it was free. I should have thrown it away the moment Jinho called it garbage. Or at least the moment I read that insane instruction manual…*
+SOL:
 
-## H044 (replace)
+An error? Or had the piece-of-junk capsule finally started lagging?
 
-**Terminology alert:** `시스템` → `System`
+## H027 (replace)
 
-### BASE
+Baseline paragraphs: P188
+SOL paragraphs: P188
+Korean lines: 419
 
-> **System**
->
-> The player cannot log out at will.
->
-> If the player dies during gameplay, resurrection is impossible.
+BASE:
 
-### SOL
+There was no doubt about it. Error or lag, the damn old capsule had finally caused trouble. I tried ten more times after that, but every attempt failed.
 
-> **Warning**
->
-> - The player cannot log out at will.
-> - If the player dies during gameplay, resurrection is impossible.
+SOL:
+
+There was no doubt about it. Error or lag, the damn junk capsule had finally caused trouble. I tried ten more times after that, but every attempt failed.

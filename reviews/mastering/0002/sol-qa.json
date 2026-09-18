@@ -2,13 +2,46 @@
   "chapter": 2,
   "errors": [],
   "metrics": {
-    "length_ratio": 2.248,
+    "length_ratio": 2.252,
     "source_characters": 6746,
     "source_paragraphs": 226,
-    "translation_characters": 15168,
+    "translation_characters": 15195,
     "translation_paragraphs": 203
   },
   "passed": true,
   "version": 1,
-  "warnings": []
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "갑자",
+        "preferred": "jiazi"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "피어",
+        "preferred": "Fear"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "중국",
+        "preferred": "China"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
 }
