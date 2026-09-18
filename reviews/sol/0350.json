@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Sichuan City Lord Won Gyun looked exactly like a corrupt official, but it seemed he wasn’t completely incompetent.",
+      "defect": "The draft replaces the source name Heo Gyun with Won Gyun, changing the explicitly stated identity instead of preserving the source’s apparent deliberate or erroneous name switch.",
+      "id": "F01",
+      "rationale": "The source explicitly says 허균 here, despite naming 원균 earlier. Fidelity requires preserving that distinction rather than silently correcting it.",
+      "replacement": "Sichuan City Lord Heo Gyun looked exactly like a corrupt official, but it seemed he wasn’t completely incompetent.",
+      "severity": "critical",
+      "source": "사천성주 허균. 겉모습만 보면 영락없는 탐관오리인데, 아주 무능하진 않은 모양이다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "An old man bound to a wooden frame greeted me with a sly grin.",
+      "defect": "The draft adds that the restraint frame is wooden and weakens the specific meaning of 형틀, a torture rack.",
+      "id": "F02",
+      "rationale": "The source identifies the object by function but gives no material.",
+      "replacement": "An old man bound to a torture rack greeted me with a sly grin.",
+      "severity": "minor",
+      "source": "형틀에 묶여 있는 노인이 히죽거리는 웃음으로 나를 반겼다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "You must have had a hard time waiting. By the way, why is it so cold in here? Your sleeping arrangements must be terribly uncomfortable. Should I ask the Tang Clan to lay down a fur blanket for you?",
+      "defect": "The draft changes 가죽, animal hide or leather, into fur.",
+      "id": "F03",
+      "rationale": "The source specifies hide or leather, not fur.",
+      "replacement": "You must have had a hard time waiting. By the way, why is it so cold in here? Your sleeping arrangements must be terribly uncomfortable. Should I ask the Tang Clan to lay down an animal-hide blanket for you?",
+      "severity": "minor",
+      "source": "기다리느라 힘드셨죠? 그나저나 여긴 왜 이렇게 춥나 몰라. 잠자리 많이 불편하실 텐데 당문에 부탁해서 가죽 이불이라도 깔아 드릴까요?"
+    },
+    {
+      "confidence": 0.98,
+      "current": "His indescribable gaze and rigid face kept flickering before my eyes. They had clearly been shaken by the two words *Dark Heaven*.\n\nThe problem was that he hadn’t even opened his mouth about Dark Heaven, so I had no idea why.",
+      "defect": "The draft makes the gaze and face themselves the things that were shaken, then adds that Taekyung does not know why. The source instead identifies those expressions as evidence of the Heavenly Power Demon’s agitation and says only that he refuses to discuss Dark Heaven.",
+      "id": "F04",
+      "rationale": "This preserves the evidence-to-inference relationship without adding uncertainty about the cause.",
+      "replacement": "That indescribable look in his eyes and his rigid face kept flickering before me. That was unmistakably the agitation the two words *Dark Heaven* had stirred in him.\n\nThe problem was, he refused to say a single word about Dark Heaven.",
+      "severity": "major",
+      "source": "형용할 수 없는 눈빛, 딱딱하게 굳은 그의 얼굴이 눈앞을 어른거린다. 그건 분명히 암천이라는 두 글자가 불러일으킨 동요였다.\n\n무슨 사정인지 암천에 관해서는 입도 벙긋 안 해서 문제지만."
+    },
+    {
+      "confidence": 1.0,
+      "current": "The influence of Prince Shangshan was tremendous.",
+      "defect": "The draft omits Prince Shangshan’s explicitly stated personal name, Zhu Bao.",
+      "id": "F05",
+      "rationale": "주표 is present in the source and has the established rendering Zhu Bao.",
+      "replacement": "The influence of Prince Shangshan, Zhu Bao, was tremendous.",
+      "severity": "major",
+      "source": "상산왕 주표의 후광은 대단했다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Time in the underground prison dragged, but it still moved steadily, like a soldier’s clock.",
+      "defect": "The draft replaces the specific Ministry of National Defense reference with an invented “soldier’s clock,” blunting the contemporary military-service joke.",
+      "id": "F06",
+      "rationale": "국방부 is the Ministry of National Defense, and the incongruous modern reference is part of Taekyung’s humor.",
+      "replacement": "Time in the underground prison dragged, but it still moved as steadily as the clock at the Ministry of National Defense.",
+      "severity": "minor",
+      "source": "지하 뇌옥에서의 시간은 느릿느릿했지만, 한편으로는 국방부 시계만큼이나 꾸준히 흘러갔다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "He was a killing fiend who had joined the Demonic Cult during the Great Faction War and killed more than a hundred orthodox martial artists.",
+      "defect": "The draft drops the established faction terminology from 정파 and leaves “orthodox” as a generic adjective.",
+      "id": "F07",
+      "rationale": "정파 denotes the orthodox faction as a Murim alignment, not merely martial artists who happen to be orthodox.",
+      "replacement": "He was a killing fiend who had joined the Demonic Cult during the Great Faction War and killed more than a hundred martial artists of the orthodox faction.",
+      "severity": "minor",
+      "source": "정마대전 당시 마교에 합류해 백 명이 넘는 정파 무림인을 죽였다는 살귀다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "After putting my Grade 7 school-record brain through its paces, I arrived at only one plausible conclusion.",
+      "defect": "“Grade 7 school-record brain” is an unnatural calque and does not clearly convey that Taekyung is mocking the poor school grades his brain earned.",
+      "id": "F08",
+      "rationale": "The replacement retains the exact seventh-tier reference and the self-deprecating link to his school grades.",
+      "replacement": "After putting the brain that had earned me seventh-tier school grades through its paces, I arrived at only one plausible conclusion.",
+      "severity": "minor",
+      "source": "내신 7등급의 두뇌를 풀가동해서 나온 결론 중 가장 가능성 있는 추측은 하나뿐이었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“A whole lot!”",
+      "defect": "The draft normalizes the deliberately muffled pronunciation caused by Cheongpung speaking with food in his mouth, losing the comic speech cue that prompts Taekyung’s response.",
+      "id": "F09",
+      "rationale": "The misspelled 지짜 마아요 represents 진짜 많아요 spoken unclearly through a mouthful.",
+      "replacement": "“Sho mush!”",
+      "severity": "minor",
+      "source": "“지짜 마아요!”"
+    },
+    {
+      "confidence": 0.92,
+      "current": "“They only gave me half a dumpling, too. Just thinking about it still makes my teeth grind. Damn them.”",
+      "defect": "“Damn them” invents a plural target for the curse; 니미럴 거 is a standalone vulgar exclamation.",
+      "id": "F10",
+      "rationale": "The replacement preserves the profanity without assigning it to an unstated object.",
+      "replacement": "“They only gave me half a dumpling, too. Just thinking about it still makes my teeth grind. Goddamn it.”",
+      "severity": "minor",
+      "source": "“심지어 만두도 반 개밖에 안 줬지. 그때만 생각하면 아주 이가 갈린다니까. 니미럴 거.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Yes, sir.”",
+      "defect": "The generic acknowledgment loses the formal subordinate’s explicit declaration that he will obey the order.",
+      "id": "F11",
+      "rationale": "존명 is a deferential acknowledgment of an order and establishes the disguised soldiers’ hierarchy.",
+      "replacement": "“As you command.”",
+      "severity": "major",
+      "source": "“존명.”"
+    }
+  ],
+  "summary": "One critical identity substitution, several altered physical or inferential details, and localized losses of terminology, humor, hierarchy, and speech cues.",
+  "version": 1
+}
