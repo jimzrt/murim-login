@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "With taut rigging and sterns slicing through the current, the fast ships surged forward like the wind.",
+      "defect": "The stern is the rear of a ship and would not be the part slicing through the current as the ships surge forward.",
+      "id": "C01",
+      "rationale": "Using “bows” corrects the physical description without changing the action or rhythm.",
+      "replacement": "With taut rigging and bows slicing through the current, the fast ships surged forward like the wind.",
+      "severity": "minor",
+      "source": "Chapter 330, opening of the Water Dragon Stronghold scene"
+    },
+    {
+      "confidence": 0.96,
+      "current": "His bulging temples revealed that he was a Peak master who had reached a considerable realm stage.",
+      "defect": "“Reached a considerable realm stage” is awkward cultivation-MTL phrasing and does not read naturally in contemporary English.",
+      "id": "C02",
+      "rationale": "The replacement preserves his demonstrated level of attainment while removing the unnatural collocation.",
+      "replacement": "His bulging temples revealed that he was a highly accomplished Peak master.",
+      "severity": "minor",
+      "source": "Chapter 331, Mu Song's introduction"
+    },
+    {
+      "confidence": 1.0,
+      "current": "The current is rough, but the wind is favorable, so we should reach Xi’an soon.",
+      "defect": "The party is traveling by ship from Guang’an to Chengdu, not Xi’an. This contradicts Chapters 331 and 334 as well as the checkpoint summary and active continuity.",
+      "id": "C03",
+      "rationale": "Chengdu is the established destination and the city where the party disembarks three days later.",
+      "replacement": "The current is rough, but the wind is favorable, so we should reach Chengdu soon.",
+      "severity": "major",
+      "source": "Chapter 333, Mu Song preparing to resume the journey"
+    },
+    {
+      "confidence": 1.0,
+      "current": "The thing is, I happen to be on my way to Xi’an too. If you would give me a ride just this once, I’ll repay this kindness even beyond the grave, remember it to my very bones, and even if this body dies and dies, dies a thousand times over and turns to white bones, I will never forget—",
+      "defect": "Mungyeong names Xi’an as his destination even though he boards the ship bound for Chengdu and later continues toward the Sichuan Tang Clan. This repeats the preceding destination error and breaks journey continuity.",
+      "id": "C04",
+      "rationale": "Changing the destination to Chengdu makes his request consistent with the route and his arrival there in Chapter 334.",
+      "replacement": "The thing is, I happen to be on my way to Chengdu too. If you would give me a ride just this once, I’ll repay this kindness even beyond the grave, remember it to my very bones, and even if this body dies and dies, dies a thousand times over and turns to white bones, I will never forget—",
+      "severity": "major",
+      "source": "Chapter 333, Mungyeong requesting passage"
+    },
+    {
+      "confidence": 0.93,
+      "current": "I let out a long sigh at the Jeong Mong-ju villain.",
+      "defect": "“Jeong Mong-ju villain” is an unnatural and unclear English label; the intended joke is that Mungyeong is imitating Jeong Mong-ju's famous vow.",
+      "id": "C05",
+      "rationale": "“Would-be Jeong Mong-ju” communicates the allusion and Taekyung's exasperated humor naturally while retaining the footnote's purpose.",
+      "replacement": "I let out a long sigh at this would-be Jeong Mong-ju.",
+      "severity": "minor",
+      "source": "Chapter 333, Taekyung reacting to Mungyeong's repayment vow"
+    },
+    {
+      "confidence": 0.97,
+      "current": "They knew the lower reaches of the Yangtze, which ran throughout Sichuan, as well as the palms of their hands.",
+      "defect": "Sichuan lies along the upper Yangtze rather than its lower reaches, and “ran throughout Sichuan” overstates the river's geographic extent.",
+      "id": "C06",
+      "rationale": "The replacement removes the geographical error while preserving the point that the Water Dragon Stronghold sailors intimately know Sichuan's waterways.",
+      "replacement": "They knew the stretches of the Yangtze that ran through Sichuan as well as the palms of their hands.",
+      "severity": "minor",
+      "source": "Chapter 334, opening description of the voyage"
+    },
+    {
+      "confidence": 0.99,
+      "current": "He was usually innocent and carefree, but he was deep down.",
+      "defect": "“He was deep down” is incomplete and does not naturally express that Mungyeong has hidden depth beneath his carefree manner.",
+      "id": "C07",
+      "rationale": "The replacement completes the intended characterization in natural English without adding new information.",
+      "replacement": "He was usually innocent and carefree, but there was real depth to him.",
+      "severity": "minor",
+      "source": "Chapter 334, Taekyung reflecting on Mungyeong before parting"
+    }
+  ],
+  "summary": "The packet is broadly coherent, with continuity and active state aligned. Two major destination errors in Chapter 333 contradict the established journey to Chengdu; several minor prose issues introduce awkward cultivation phrasing, an unclear joke, incorrect ship anatomy, or imprecise geography.",
+  "version": 1
+}
