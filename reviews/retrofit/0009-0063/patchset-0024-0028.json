@@ -1,0 +1,138 @@
+{
+  "dispositions": [
+    {
+      "finding_id": "R0024-01",
+      "reason": "The established translation of 조장 in Taekyung’s squad is “Captain.”",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0025-01",
+      "reason": "The established term for 전서구 is “messenger pigeon.”",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0025-02",
+      "reason": "은원 includes both debts of gratitude and grudges, not two synonymous forms of hostility.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0025-03",
+      "reason": "Black Mountain Blade remains the implied subject who would have suffered a worse fate.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0027-01",
+      "reason": "Taekyung asks Han Yeop whether he will carry Gong Yacheong; Han Yeop then agrees.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0027-02",
+      "reason": "The source describes Soyul’s softly audible breathing without indicating respiratory distress.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0027-03",
+      "reason": "Hyuk Mujin’s established address for Taekyung is “Captain.”",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0028-01",
+      "reason": "기 싸움 denotes a battle of wills or intimidation here, not a literal clash of internal energy.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0028-02",
+      "reason": "The source describes Jopil ripping Black Mountain Blade’s eyes open.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0028-03",
+      "reason": "The established translation of 잠룡 is “Hidden Dragon.”",
+      "status": "applied"
+    }
+  ],
+  "patches": [
+    {
+      "chapter": 24,
+      "finding_ids": [
+        "R0024-01"
+      ],
+      "new": "“Captain. There’s a kid over there.”",
+      "old": "“Squad Leader. There’s a kid over there.”"
+    },
+    {
+      "chapter": 25,
+      "finding_ids": [
+        "R0025-01"
+      ],
+      "new": "By the time the messenger pigeon bearing word of war arrived, the Sakju Branch had already been surrounded so tightly that not even a drop of water could get through.",
+      "old": "By the time the carrier pigeon bearing word of war arrived, the Sakju Branch had already been surrounded so tightly that not even a drop of water could get through."
+    },
+    {
+      "chapter": 25,
+      "finding_ids": [
+        "R0025-02"
+      ],
+      "new": "What do you think is the reason he has survived until now, despite being tangled up in all kinds of gratitude and grudges?",
+      "old": "What do you think is the reason he has survived until now, despite being tangled up in all kinds of grudges and vendettas?"
+    },
+    {
+      "chapter": 25,
+      "finding_ids": [
+        "R0025-03"
+      ],
+      "new": "The wandering martial artists thought it was fortunate that Black Mountain Blade was dead. If he had still been alive, he would have suffered something even more horrifying.",
+      "old": "The wandering martial artists thought it was fortunate that Black Mountain Blade was dead. If he had still been alive, they would have suffered something even more horrifying."
+    },
+    {
+      "chapter": 27,
+      "finding_ids": [
+        "R0027-01"
+      ],
+      "new": "“Will you carry him?”\n\n“Yes. I’ll carry him.”",
+      "old": "“I’ll carry him.”\n\n“Yes. I’ll carry him.”"
+    },
+    {
+      "chapter": 27,
+      "finding_ids": [
+        "R0027-02"
+      ],
+      "new": "Every time I heard her soft breathing, a pang of unease tightened in my chest.",
+      "old": "Every time I heard her shallow, wheezing breaths, a pang of unease tightened in my chest."
+    },
+    {
+      "chapter": 27,
+      "finding_ids": [
+        "R0027-03"
+      ],
+      "new": "“I’ll follow your orders, Captain.”",
+      "old": "“I’ll follow your orders, Squad Leader.”"
+    },
+    {
+      "chapter": 28,
+      "finding_ids": [
+        "R0028-01"
+      ],
+      "new": "I couldn’t afford to lose the battle of wills, so I glared hard and lowered my voice.",
+      "old": "I couldn’t afford to lose a clash of qi, so I glared hard and dropped my voice."
+    },
+    {
+      "chapter": 28,
+      "finding_ids": [
+        "R0028-02"
+      ],
+      "new": "I ripped his eyes open before I left. Punishment for failing to recognize a master.",
+      "old": "I tore his eyes before I left. Punishment for failing to recognize a master."
+    },
+    {
+      "chapter": 28,
+      "finding_ids": [
+        "R0028-03"
+      ],
+      "new": "“Not a wastrel. These days they call me the Hidden Dragon.”",
+      "old": "“Not a wastrel. These days they call me the Sleeping Dragon.”"
+    }
+  ],
+  "summary": "Applied 10 bounded fidelity and terminology corrections across chapters 24–28.",
+  "version": 1
+}

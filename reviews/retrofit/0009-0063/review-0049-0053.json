@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "chapter": 49,
+      "confidence": 1.0,
+      "current": "〈 Luxury Nutjob\n\nLuxury Nutjob",
+      "defect": "The established display name is replaced with an unapproved alternative.",
+      "id": "R0049-01",
+      "rationale": "명품충 is explicitly established for this text-message display name as “Designer-Brand Junkie.”",
+      "replacement": "〈 Designer-Brand Junkie\n\nDesigner-Brand Junkie",
+      "severity": "minor",
+      "source": "〈 명품충\n\n\n\n명품충"
+    },
+    {
+      "chapter": 49,
+      "confidence": 1.0,
+      "current": "“Because they trust me.”\n\n“What?”\n\n“They trust my instincts, and they trust my eye for people. That’s why I want to hold on to Jin Taekyung.”",
+      "defect": "The translation changes the subject from Choi trusting himself to unspecified others trusting him, inventing external Guild approval for his decision.",
+      "id": "R0049-02",
+      "rationale": "저를 믿으니까요 and the following repeated 믿습니다 are first-person statements about Choi’s confidence in his own instincts and judgment.",
+      "replacement": "“Because I trust myself.”\n\n“What?”\n\n“I trust my instincts and my eye for people. That’s why I want to sign you, Mr. Jin Taekyung.”",
+      "severity": "critical",
+      "source": "“저를 믿으니까요.”\n\n“네?”\n\n“제 촉을 믿고, 사람 보는 눈을 믿습니다. 그래서 진태경 씨를 꼭 잡고 싶어요.”"
+    },
+    {
+      "chapter": 50,
+      "confidence": 0.99,
+      "current": "“Hey, HR. Process two resignations today. Kim Sangshik and Kim Sangho.”",
+      "defect": "The English makes the dismissals sound like voluntary resignations even though the Guild Master has just fired Kim Sangshik and orders both father and son removed.",
+      "id": "R0050-01",
+      "rationale": "In context, 퇴사 처리 is an administrative order to terminate their employment, not a report that they chose to resign.",
+      "replacement": "“Hey, HR. Process two terminations today. Kim Sangshik and Kim Sangho.”",
+      "severity": "critical",
+      "source": "“어, 인사팀장. 오늘 두 명 퇴사 처리 해. 김상식이랑 김상호.”"
+    },
+    {
+      "chapter": 50,
+      "confidence": 0.98,
+      "current": "For the next few days, Sopung Guild was in an uproar over the rare event of a father and son resigning at the same time.",
+      "defect": "The narration again characterizes the father and son as resigning voluntarily, obscuring the consequence of the Guild Master’s order.",
+      "id": "R0050-02",
+      "rationale": "The preceding scene establishes that the Guild Master dismisses both men; the neutral 퇴사 cannot override that explicit context.",
+      "replacement": "For the next few days, Sopung Guild was in an uproar over the rare event of a father and son being forced out at the same time.",
+      "severity": "major",
+      "source": "그 후, 며칠간 소풍 길드는 부자(父子) 동시 퇴사라는 보기 드문 사건으로 시끄러웠다."
+    },
+    {
+      "chapter": 51,
+      "confidence": 1.0,
+      "current": "“One Flash.”",
+      "defect": "The named spear technique is rendered with a different name from the established terminology.",
+      "id": "R0051-01",
+      "rationale": "일섬 is established in this block as “One Annihilation,” specifically the technique used to kill the Boss Zone monster in one blow.",
+      "replacement": "“One Annihilation.”",
+      "severity": "major",
+      "source": "“일섬(一晱).”"
+    },
+    {
+      "chapter": 51,
+      "confidence": 0.99,
+      "current": "Dialect burst out of me before I knew it.",
+      "defect": "방언 here means speaking in tongues, not a regional dialect; the mistranslation makes the punch line semantically incoherent.",
+      "id": "R0051-02",
+      "rationale": "Taekyung is blurting out an ecstatic, quasi-religious stream of facts about Shin Saimdang after recognizing the high-denomination bills.",
+      "replacement": "I started speaking in tongues before I knew it.",
+      "severity": "major",
+      "source": "나도 모르게 방언이 터져 나온다."
+    },
+    {
+      "chapter": 52,
+      "confidence": 1.0,
+      "current": "A roller coaster that dropped whenever the System disappeared…",
+      "defect": "The conditional fear that the System might disappear is recast as a recurring event, falsely implying that it has disappeared before.",
+      "id": "R0052-01",
+      "rationale": "The conditional 사라지면 describes a feared future possibility, not something that repeatedly happens.",
+      "replacement": "A roller coaster that would plummet if the System disappeared…",
+      "severity": "critical",
+      "source": "시스템이 사라지면 추락하는 롤러코스터……."
+    },
+    {
+      "chapter": 52,
+      "confidence": 0.99,
+      "current": "“Mrs. Kim is really excited now that her son’s home after so long.”",
+      "defect": "The established joking sobriquet 여사 is flattened into the ordinary marital title “Mrs.”",
+      "id": "R0052-02",
+      "rationale": "여사 is established as “Lady” when Taekyung jokingly refers to Kim Jeonghee.",
+      "replacement": "“Look at Lady Kim, all excited because her son’s home after so long.”",
+      "severity": "minor",
+      "source": "“오랜만에 아들 왔다고 아주 신나셨네, 우리 김 여사.”"
+    },
+    {
+      "chapter": 53,
+      "confidence": 0.99,
+      "current": "“Our Mrs. Kim is starting again. I know how to eat boiled pork too, you know?”",
+      "defect": "The established joking sobriquet is again replaced with the ordinary title “Mrs.”",
+      "id": "R0053-01",
+      "rationale": "김 여사님 continues the established playful “Lady Kim” address.",
+      "replacement": "“There goes Lady Kim again. I know how to eat boiled pork too, you know?”",
+      "severity": "minor",
+      "source": "“우리 김 여사님 또 시작이네. 나도 수육 먹을 줄 알거든?”"
+    },
+    {
+      "chapter": 53,
+      "confidence": 0.99,
+      "current": "“From you. You kept calling it in your sleep.”",
+      "defect": "The English incorrectly treats a person’s name as something Taekyung was “calling,” producing an unclear referent and unnatural meaning.",
+      "id": "R0053-02",
+      "rationale": "그 이름을 부르다 here means that Taekyung repeatedly called out or said Jin Wikyung’s name while asleep.",
+      "replacement": "“From you. You kept saying that name in your sleep.”",
+      "severity": "minor",
+      "source": "‘오빠한테. 아까 자면서 계속 그 이름을 부르더라고.’"
+    }
+  ],
+  "summary": "The block is broadly faithful, but contains one altered speaker-subject, a repeated false implication that two fired employees resigned voluntarily, one mistrendered named technique, one mistranslated idiom, a conditional event recast as recurring, and several established-term or localized wording defects.",
+  "version": 1
+}

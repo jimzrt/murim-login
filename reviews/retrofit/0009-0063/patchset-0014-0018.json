@@ -1,0 +1,151 @@
+{
+  "dispositions": [
+    {
+      "finding_id": "R0014-01",
+      "reason": "The source names the Grand Training Ground, and the glossary establishes that exact term.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0016-01",
+      "reason": "The source specifies three shichen, not three hours.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0016-02",
+      "reason": "The source term 전서응 uses the established translation “messenger eagle.”",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0016-03",
+      "reason": "The glossary establishes 장로원 as “Council of Elders.”",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0017-01",
+      "reason": "The source names the distinct System attributes 근맥 and 근골, established as “Sinews and Meridians” and “Muscles and Bones.”",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0017-02",
+      "reason": "The source Status Window explicitly displays a Fame value of 70.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0017-03",
+      "reason": "The glossary establishes 약왕당주 as “Medicine King Hall Master.”",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0017-04",
+      "reason": "The source explicitly names the Huiyin Acupoint rather than using a generic anatomical description.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0017-05",
+      "reason": "The glossary establishes 장로원 as “Council of Elders.”",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0018-01",
+      "reason": "The glossary establishes 약왕당주 as “Medicine King Hall Master.”",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0018-02",
+      "reason": "The glossary establishes 장로원 as “Council of Elders.”",
+      "status": "applied"
+    }
+  ],
+  "patches": [
+    {
+      "chapter": 14,
+      "finding_ids": [
+        "R0014-01"
+      ],
+      "new": "I faced Lee Seogeun on the Jin Family of Taiyuan’s Grand Training Ground.",
+      "old": "I faced Lee Seogeun on the Jin Family of Taiyuan’s main training ground."
+    },
+    {
+      "chapter": 16,
+      "finding_ids": [
+        "R0016-01"
+      ],
+      "new": "“Did you think I spent three shichen focusing on only one thing?”",
+      "old": "“Did you think I spent three hours focusing on only one thing?”"
+    },
+    {
+      "chapter": 16,
+      "finding_ids": [
+        "R0016-02"
+      ],
+      "new": "“It’s a messenger eagle.”",
+      "old": "“It’s a messenger hawk.”"
+    },
+    {
+      "chapter": 16,
+      "finding_ids": [
+        "R0016-03"
+      ],
+      "new": "Or maybe the Council of Elders, which had been constantly watching for an opportunity, had caused some kind of incident.",
+      "old": "Or maybe the Elder Council, which had been constantly watching for an opportunity, had caused some kind of incident."
+    },
+    {
+      "chapter": 17,
+      "finding_ids": [
+        "R0017-01"
+      ],
+      "new": "- As a result of repeated training, **Sinews and Meridians** and **Muscles and Bones** have each increased by 1.",
+      "old": "- As a result of repeated training, **Sinews** and **Bones** have each increased by 1."
+    },
+    {
+      "chapter": 17,
+      "finding_ids": [
+        "R0017-02"
+      ],
+      "new": "**Fame:** 70",
+      "old": "**Fame:** 73"
+    },
+    {
+      "chapter": 17,
+      "finding_ids": [
+        "R0017-03"
+      ],
+      "new": "“Are you sure? You swear that on the name of the Medicine King Hall Master?”",
+      "old": "“Are you sure? You swear that on the name of the Medicine King Hall Leader?”"
+    },
+    {
+      "chapter": 17,
+      "finding_ids": [
+        "R0017-04"
+      ],
+      "new": "“Listen to this young bastard. I ought to shove a large needle straight into his Huiyin Acupoint!”",
+      "old": "“Listen to this young bastard. I ought to shove a large needle straight into his perineal acupoint!”"
+    },
+    {
+      "chapter": 17,
+      "finding_ids": [
+        "R0017-05"
+      ],
+      "new": "The Council of Elders demanded your attendance.",
+      "old": "The Elder Council demanded your attendance."
+    },
+    {
+      "chapter": 18,
+      "finding_ids": [
+        "R0018-01"
+      ],
+      "new": "“The man himself said he didn’t do it! And as the Medicine King Hall Master said earlier, Lee Seogeun was perfectly fine—”",
+      "old": "“The man himself said he didn’t do it! And as the Medicine King Hall Leader said earlier, Lee Seogeun was perfectly fine—”"
+    },
+    {
+      "chapter": 18,
+      "finding_ids": [
+        "R0018-02"
+      ],
+      "new": "The family’s highest-ranking elder and the head of the Council of Elders.",
+      "old": "The family’s highest-ranking elder and the head of the Elder Council."
+    }
+  ],
+  "summary": "Applied 11 fidelity and terminology corrections across chapters 14–18, including the mistranslated duration, System attributes and Fame value, and established glossary terms.",
+  "version": 1
+}

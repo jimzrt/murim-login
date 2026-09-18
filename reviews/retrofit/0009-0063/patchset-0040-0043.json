@@ -1,0 +1,86 @@
+{
+  "dispositions": [
+    {
+      "finding_id": "R0040-01",
+      "reason": "The replacement restores the idiomatic implication that Jinho routinely enters Taekyung’s room.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0040-02",
+      "reason": "The replacement removes the unsupported accusation that Taekyung inserted the manual and restores the unspecified discarder.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0042-01",
+      "reason": "The replacement corrects the ungrammatical adverb usage while preserving the source’s colloquial contrast.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0042-02",
+      "reason": "The replacement uses the established capitalized Murim realm term First Rate.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0043-01",
+      "reason": "The replacement removes the unsupported comparison with the entire party while retaining the monster’s higher tier.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0043-02",
+      "reason": "The replacement removes the defective tautology and preserves the explanation that Rare Monsters appear infrequently.",
+      "status": "applied"
+    }
+  ],
+  "patches": [
+    {
+      "chapter": 40,
+      "finding_ids": [
+        "R0040-01"
+      ],
+      "new": "“Is this anything new?”",
+      "old": "“What, has it only been a day or two?”"
+    },
+    {
+      "chapter": 40,
+      "finding_ids": [
+        "R0040-02"
+      ],
+      "new": "“Someone left this inside when they threw out a piece of junk more than twenty years old?”",
+      "old": "“You stuck this in a piece of junk more than twenty years old before throwing it away?”"
+    },
+    {
+      "chapter": 42,
+      "finding_ids": [
+        "R0042-01"
+      ],
+      "new": "People with money had it easy fighting with magic equipment; people without it had to carry torches.",
+      "old": "People with money fought easy with magic equipment; people without it had to carry torches."
+    },
+    {
+      "chapter": 42,
+      "finding_ids": [
+        "R0042-02"
+      ],
+      "new": "At best, he was First Rate. In Murim, that was exactly where he would stand.",
+      "old": "At best, he was first-rate. In Murim, that was exactly where he would stand."
+    },
+    {
+      "chapter": 43,
+      "finding_ids": [
+        "R0043-01"
+      ],
+      "new": "That old Hobgoblin, capable of magic like this, was a monster at least one or two tiers higher.",
+      "old": "That old Hobgoblin, using magic like this, was a monster at least one or two stages above us."
+    },
+    {
+      "chapter": 43,
+      "finding_ids": [
+        "R0043-02"
+      ],
+      "new": "Rare Monsters appeared only infrequently within a given Gate.",
+      "old": "Rare Monsters were rare monsters that appeared in a given Gate only at a low rate."
+    }
+  ],
+  "summary": "Applied six bounded fidelity, terminology, and prose corrections across Chapters 40, 42, and 43.",
+  "version": 1
+}

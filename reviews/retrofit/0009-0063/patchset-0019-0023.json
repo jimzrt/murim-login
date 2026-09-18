@@ -1,0 +1,151 @@
+{
+  "dispositions": [
+    {
+      "finding_id": "R0019-01",
+      "reason": "The source explicitly states that Lee Seogeun was poisoned to death.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0019-02",
+      "reason": "The source uses a gesture-based euphemism for Taekyung’s girl, not a literal finger.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0020-01",
+      "reason": "반박귀진 is the established Murim term Returning to Simplicity.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0021-01",
+      "reason": "The source names the two distinct attributes Sinews and Meridians and Muscles and Bones.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0021-02",
+      "reason": "The source credits improvements in both distinct attributes for strengthening internal-energy circulation.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0021-03",
+      "reason": "The displayed source attribute is Muscles and Bones.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0022-01",
+      "reason": "The source explicitly describes activating the established Qi Sense technique.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0022-02",
+      "reason": "The source rank is Deputy Stronghold Lord, subordinate to the Stronghold Lord.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0022-03",
+      "reason": "The source identifies the courier as a messenger eagle.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0023-01",
+      "reason": "The winter sky and falling white flakes establish 눈 as snow.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0023-02",
+      "reason": "The source explicitly refers to rape and murder rather than generic torment.",
+      "status": "applied"
+    }
+  ],
+  "patches": [
+    {
+      "chapter": 19,
+      "finding_ids": [
+        "R0019-01"
+      ],
+      "new": "“The situation is not good, either. According to our outside sources, rumors that Lee Seogeun was poisoned to death have begun spreading, and the main family’s reputation is falling.”",
+      "old": "“The situation is not good, either. According to our outside sources, rumors that Lee Seogeun was poisoned have begun spreading, and the main family’s reputation is falling.”"
+    },
+    {
+      "chapter": 19,
+      "finding_ids": [
+        "R0019-02"
+      ],
+      "new": "A courtesan at Honghwaru—and my, Jin Taekyung’s, girl. You know.",
+      "old": "A courtesan at Honghwaru—and my precious little finger. That thing."
+    },
+    {
+      "chapter": 20,
+      "finding_ids": [
+        "R0020-01"
+      ],
+      "new": "“That’s just Returning to Simplicity…”",
+      "old": "“That’s just Returning to the Origin…”"
+    },
+    {
+      "chapter": 21,
+      "finding_ids": [
+        "R0021-01"
+      ],
+      "new": "- As a result of repeated practice, **Sinews and Meridians** and **Muscles and Bones** each increase by 1.",
+      "old": "- As a result of repeated practice, **Sinews** and **Bones** each increase by 1."
+    },
+    {
+      "chapter": 21,
+      "finding_ids": [
+        "R0021-02"
+      ],
+      "new": "*The steady improvement in my Muscles and Bones and Sinews and Meridians must be helping, too.*\n\nInternal energy flowed through the body’s meridians. The more I practiced my cultivation technique and improved those two attributes, the wider and sturdier the pathways became. Compared to when I had started, I could circulate more internal energy at a much faster speed.",
+      "old": "*My Sinews and Bones improving steadily must be helping, too.*\n\nInternal energy flowed through the body’s meridians. The more I practiced a cultivation technique, and the more my Sinews and Bones improved, the wider and sturdier those pathways became. Compared to when I had started, I could circulate more internal energy at a much faster speed."
+    },
+    {
+      "chapter": 21,
+      "finding_ids": [
+        "R0021-03"
+      ],
+      "new": "**Muscles and Bones:** 105",
+      "old": "**Sinews and Bones:** 105"
+    },
+    {
+      "chapter": 22,
+      "finding_ids": [
+        "R0022-01"
+      ],
+      "new": "I activated Qi Sense and looked over each of them.",
+      "old": "I sharpened my senses and looked over each of them."
+    },
+    {
+      "chapter": 22,
+      "finding_ids": [
+        "R0022-02"
+      ],
+      "new": "“Five. It was during last year’s bandit suppression campaign. One of them was a Deputy Stronghold Lord. He was quite a strong bastard—”",
+      "old": "“Five. It was during last year’s bandit suppression campaign. One of them was a bandit chieftain. He was quite a strong bastard—”"
+    },
+    {
+      "chapter": 22,
+      "finding_ids": [
+        "R0022-03"
+      ],
+      "new": "Spreading its enormous wings, the messenger eagle landed by the window of the office. It belonged to the Lower District Sect.",
+      "old": "Spreading its enormous wings, the messenger hawk landed by the window of the office. It belonged to the Lower District Sect."
+    },
+    {
+      "chapter": 23,
+      "finding_ids": [
+        "R0023-01"
+      ],
+      "new": "*Snow?*\n\nI raised my head toward the sky. The winter sky was raining down small white scraps of garbage.",
+      "old": "*An eye?*\n\nI raised my head toward the sky. The winter sky was raining down small white scraps of garbage."
+    },
+    {
+      "chapter": 23,
+      "finding_ids": [
+        "R0023-02"
+      ],
+      "new": "“Rest easy. I don’t make a hobby of rape and murder.”",
+      "old": "“Rest easy. I don’t have a taste for tormenting people.”"
+    }
+  ],
+  "summary": "Applied 11 bounded fidelity and terminology corrections across Chapters 19–23.",
+  "version": 1
+}

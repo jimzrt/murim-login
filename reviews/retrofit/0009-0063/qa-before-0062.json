@@ -1,0 +1,95 @@
+{
+  "chapter": 62,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.241,
+    "source_characters": 6552,
+    "source_paragraphs": 225,
+    "translation_characters": 14682,
+    "translation_paragraphs": 273
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "귀문",
+        "preferred": "your sect"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "일섬",
+        "preferred": "One Annihilation"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "궁귀문",
+        "preferred": "Gunggui Sect"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "창천",
+        "preferred": "azure heaven"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "인내",
+        "preferred": "Endurance"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "잠룡",
+        "preferred": "Hidden Dragon"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "그분",
+        "preferred": "that person"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "사혈",
+        "preferred": "lethal acupoint"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "risk_forbidden",
+      "details": {
+        "forbidden": "smirk",
+        "korean": "피식"
+      },
+      "message": "matched risk term used a forbidden English rendering"
+    }
+  ]
+}

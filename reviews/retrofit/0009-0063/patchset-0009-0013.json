@@ -1,0 +1,157 @@
+{
+  "dispositions": [
+    {
+      "finding_id": "R0009-01",
+      "reason": "Restored the source’s explicit 시조/시조새 founder–Archaeopteryx wordplay.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0009-02",
+      "reason": "Replaced the duplicated language-system explanation with the omitted group-laughter beat.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0009-03",
+      "reason": "Replaced every occurrence of the non-glossary body name in the scene with the established “Council of Elders.”",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0010-01",
+      "reason": "Changed the named item to the established translation for 벽곡단.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0011-01",
+      "reason": "Corrected the System message so fatigue is relieved rather than restored.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0012-01",
+      "reason": "Restored the omitted identification of the technique as the second form.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0013-01",
+      "reason": "Preserved the woman’s sect affiliation and the source’s euphemistic allegation.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0013-02",
+      "reason": "Restored the broader allegation of attempted sexual assault rather than narrowing it to rape.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0013-03",
+      "reason": "Corrected the witness summary so the room belongs to a woman affiliated with the sect, not the sect’s literal daughter.",
+      "status": "applied"
+    }
+  ],
+  "patches": [
+    {
+      "chapter": 9,
+      "finding_ids": [
+        "R0009-01"
+      ],
+      "new": "The hereditary martial art created by some fellow called the founder—or was it Archaeopteryx?—was unbelievably complicated.",
+      "old": "The hereditary martial art created by some fellow called the founder—or was it the family’s founding granddad?—was unbelievably complicated."
+    },
+    {
+      "chapter": 9,
+      "finding_ids": [
+        "R0009-02"
+      ],
+      "new": "Laughter was contagious. The warriors who had come with Wipeng began laughing along with me.",
+      "old": "I thought the game’s language system had glitched. Fortunately, it meant exactly what I thought it meant."
+    },
+    {
+      "chapter": 9,
+      "finding_ids": [
+        "R0009-03"
+      ],
+      "new": "“The fact that the Council of Elders is waiting to pounce on you is more important.”",
+      "old": "“The fact that the Elder Council is waiting to pounce on you is more important.”"
+    },
+    {
+      "chapter": 9,
+      "finding_ids": [
+        "R0009-03"
+      ],
+      "new": "At the words *Council of Elders*, Jin Wikyung’s expression darkened.",
+      "old": "At the words *Elder Council*, Jin Wikyung’s expression darkened."
+    },
+    {
+      "chapter": 9,
+      "finding_ids": [
+        "R0009-03"
+      ],
+      "new": "“I’m frustrated. That’s all. I’m frustrated. The Third Young Master causes trouble, you clean it up, and you accept the Council of Elders’ demands to keep them from making things worse. They’re slowly taking away your authority. Do you know what kind of rumor is going around these days?”",
+      "old": "“I’m frustrated. That’s all. I’m frustrated. The Third Young Master causes trouble, you clean it up, and you accept the Elder Council’s demands to keep them from making things worse. They’re slowly taking away your authority. Do you know what kind of rumor is going around these days?”"
+    },
+    {
+      "chapter": 9,
+      "finding_ids": [
+        "R0009-03"
+      ],
+      "new": "“Some people say the Third Young Master is part of the Elder faction. That he gets pocket money from the Council of Elders and deliberately causes trouble.”",
+      "old": "“Some people say the Third Young Master is part of the Elder faction. That he gets pocket money from the Elder Council and deliberately causes trouble.”"
+    },
+    {
+      "chapter": 9,
+      "finding_ids": [
+        "R0009-03"
+      ],
+      "new": "“I’d actually prefer that to be true. If the Council of Elders slipped him even a few silver coins, he wouldn’t have to embezzle the family’s funds.”",
+      "old": "“I’d actually prefer that to be true. If the Elder Council slipped him even a few silver coins, he wouldn’t have to embezzle the family’s funds.”"
+    },
+    {
+      "chapter": 10,
+      "finding_ids": [
+        "R0010-01"
+      ],
+      "new": "**Excellent Fasting Pill**",
+      "old": "**Excellent Grain-Repelling Pill**"
+    },
+    {
+      "chapter": 11,
+      "finding_ids": [
+        "R0011-01"
+      ],
+      "new": "- Your fatigue has been relieved.",
+      "old": "- Your fatigue has been restored."
+    },
+    {
+      "chapter": 12,
+      "finding_ids": [
+        "R0012-01"
+      ],
+      "new": "I launched into the second form.",
+      "old": "I launched into the form."
+    },
+    {
+      "chapter": 13,
+      "finding_ids": [
+        "R0013-01"
+      ],
+      "new": "“Is it true that you tried to violate a woman of the Mount Heng Sword Sect?”",
+      "old": "“Is it true that you tried to rape the daughter of the Mount Heng Sword Sect?”"
+    },
+    {
+      "chapter": 13,
+      "finding_ids": [
+        "R0013-02"
+      ],
+      "new": "*Attempted sexual assault?*",
+      "old": "*Attempted rape?*"
+    },
+    {
+      "chapter": 13,
+      "finding_ids": [
+        "R0013-03"
+      ],
+      "new": "They all said roughly the same thing: Jin Taekyung had gotten thoroughly drunk, gone to the wrong room, and found that the room belonged to a woman of the Mount Heng Sword Sect.",
+      "old": "They all said roughly the same thing: Jin Taekyung had gotten thoroughly drunk, gone to the wrong room, and found that the room belonged to the daughter of the Mount Heng Sword Sect."
+    }
+  ],
+  "summary": "Corrects nine fidelity and terminology defects across Chapters 9–13, including omitted laughter, reversed fatigue recovery, form numbering, sect affiliation, and allegation wording.",
+  "version": 1
+}

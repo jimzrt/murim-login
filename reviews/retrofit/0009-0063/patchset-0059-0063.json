@@ -1,0 +1,342 @@
+{
+  "dispositions": [
+    {
+      "finding_id": "R0059-01",
+      "reason": "Restored the established traditional duration “jiazi” and the source’s concealment phrasing.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0059-02",
+      "reason": "Restored the explicit one-jiazi duration used by the source.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0059-03",
+      "reason": "Restored the exalted family designation and the established name Repentance Cave.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0059-04",
+      "reason": "Restored the institutional Council of Elders affiliation.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0060-01",
+      "reason": "Restored Hyuk Mujin’s established address for Taekyung as Captain.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0060-02",
+      "reason": "Replaced the incorrect technique name with the established One Annihilation.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0060-03",
+      "reason": "Restored the source’s one-jiazi measure of internal energy.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0060-04",
+      "reason": "Corrected the maneuver’s romanization in both the dialogue and its explanatory footnote.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0061-01",
+      "reason": "Restored the traditional one-jiazi measure of internal energy.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0061-02",
+      "reason": "Restored Palm Force as the established term for 수강.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0061-03",
+      "reason": "Corrected every occurrence of the named technique in the chapter to One Annihilation.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0061-04",
+      "reason": "Restored Council of Elders as the established name of the governing body.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0062-01",
+      "reason": "Restored the explicitly lethal meaning of 사혈.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0062-02",
+      "reason": "Corrected both occurrences of the named technique in the chapter to One Annihilation.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0062-03",
+      "reason": "Restored the standalone Hidden Dragon metaphor and the source’s azure-heaven image.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0062-04",
+      "reason": "Replaced the unsupported facial attitude with the source’s brief amused exhalation.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0062-05",
+      "reason": "Restored Gunggui Sect as the established English name.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0063-01",
+      "reason": "Restored silver nyang as the established currency rendering.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0063-02",
+      "reason": "Restored silver nyang in the second currency reference.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0063-03",
+      "reason": "Restored Heavenly Martial Physique as the named constitution.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0063-04",
+      "reason": "Restored the source’s affiliation with the Gate Guard Pavilion rather than a generic occupation.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0063-05",
+      "reason": "Rendered 운기조식 as the established verbal action instead of inventing a proper-name technique label.",
+      "status": "applied"
+    }
+  ],
+  "patches": [
+    {
+      "chapter": 59,
+      "finding_ids": [
+        "R0059-01"
+      ],
+      "new": "The First Elder was a vile old monster who had lived for more than one jiazi while concealing his black heart.",
+      "old": "The First Elder was a vile old monster who had lived more than sixty years with his black heart hidden."
+    },
+    {
+      "chapter": 59,
+      "finding_ids": [
+        "R0059-02"
+      ],
+      "new": "One jiazi. He had accumulated profound internal energy, but even that could not stop his body from aging.",
+      "old": "Sixty years. He had accumulated profound internal energy, but even that could not stop his body from aging."
+    },
+    {
+      "chapter": 59,
+      "finding_ids": [
+        "R0059-03"
+      ],
+      "new": "“As the Discipline Hall Master of the great Jin Family of Taiyuan, I command you. The guilty shall abolish their own martial arts and enter the Repentance Cave…”",
+      "old": "“As the Discipline Hall Master of the Jin Family of Taiyuan, I command you. The guilty shall abolish their own martial arts and enter the Cave of Repentance…”"
+    },
+    {
+      "chapter": 59,
+      "finding_ids": [
+        "R0059-04"
+      ],
+      "new": "They were senior members of the so-called Council of Elders faction.",
+      "old": "They were senior members of the so-called Elders’ faction."
+    },
+    {
+      "chapter": 60,
+      "finding_ids": [
+        "R0060-01"
+      ],
+      "new": "“Caaaptain!”",
+      "old": "“Squad Leeeader!”"
+    },
+    {
+      "chapter": 60,
+      "finding_ids": [
+        "R0060-02"
+      ],
+      "new": "A Skill that dumped several times my strength into a single blow—One Annihilation.",
+      "old": "A Skill that dumped several times my strength into a single blow—One Flash."
+    },
+    {
+      "chapter": 60,
+      "finding_ids": [
+        "R0060-03"
+      ],
+      "new": "Sword Energy surged up, loaded with one jiazi of internal energy.",
+      "old": "Sword Energy surged up, loaded with sixty years of internal energy."
+    },
+    {
+      "chapter": 60,
+      "finding_ids": [
+        "R0060-04"
+      ],
+      "new": "“Narye tagon? What a donkey of a man.”[^1]",
+      "old": "“Naryeotagon? What a donkey of a man.”[^1]"
+    },
+    {
+      "chapter": 60,
+      "finding_ids": [
+        "R0060-04"
+      ],
+      "new": "[^1]: *Narye tagon* is a martial-arts term for dropping and rolling on the ground to evade an attack; the Head Elder’s remark also compares Taekyung to a donkey.",
+      "old": "[^1]: *Naryeotagon* is a martial-arts term for dropping and rolling on the ground to evade an attack; the Head Elder’s remark also compares Taekyung to a donkey."
+    },
+    {
+      "chapter": 61,
+      "finding_ids": [
+        "R0061-01"
+      ],
+      "new": "The one jiazi of internal energy coiled in the Head Elder’s dantian spread through every limb and bone.",
+      "old": "The sixty years of internal energy coiled in the Head Elder’s dantian spread through every limb and bone."
+    },
+    {
+      "chapter": 61,
+      "finding_ids": [
+        "R0061-02"
+      ],
+      "new": "This, too, was an incomplete Palm Force, but it was enough to stop Jin Taekyung’s spear.",
+      "old": "This, too, was an incomplete Hand Force, but it was enough to stop Jin Taekyung’s spear."
+    },
+    {
+      "chapter": 61,
+      "finding_ids": [
+        "R0061-03"
+      ],
+      "new": "I answered.\n\n“One Annihilation.”\n\nEven speaking the words brought on a vicious hunger.",
+      "old": "I answered.\n\n“One Flash.”\n\nEven speaking the words brought on a vicious hunger."
+    },
+    {
+      "chapter": 61,
+      "finding_ids": [
+        "R0061-03"
+      ],
+      "new": "I had grown enough to take One Annihilation’s side effects. And as much as I had grown, One Annihilation’s power had grown with me.",
+      "old": "I had grown enough to take One Flash’s side effects. And as much as I had grown, One Flash’s power had grown with me."
+    },
+    {
+      "chapter": 61,
+      "finding_ids": [
+        "R0061-03"
+      ],
+      "new": "“One Annihilation. One Annihilation…”",
+      "old": "“One Flash. One Flash…”"
+    },
+    {
+      "chapter": 61,
+      "finding_ids": [
+        "R0061-03"
+      ],
+      "new": "The arm ground to nothing by the vortex One Annihilation had unleashed did not come back.",
+      "old": "The arm ground to nothing by the vortex One Flash had unleashed did not come back."
+    },
+    {
+      "chapter": 61,
+      "finding_ids": [
+        "R0061-04"
+      ],
+      "new": "“Then going straight into the Council of Elders—was that why?”",
+      "old": "“Then going straight into the Elder Council—was that why?”"
+    },
+    {
+      "chapter": 61,
+      "finding_ids": [
+        "R0061-03"
+      ],
+      "new": "It was a final struggle, and a show of respect for the life I had lived so fiercely until now.\n\n“One Annihilation.”\n\nShiiiiiiing!",
+      "old": "It was a final struggle, and a show of respect for the life I had lived so fiercely until now.\n\n“One Flash.”\n\nShiiiiiiing!"
+    },
+    {
+      "chapter": 62,
+      "finding_ids": [
+        "R0062-01"
+      ],
+      "new": "“You should've struck a lethal acupoint.”",
+      "old": "“You should've struck a vital acupoint.”"
+    },
+    {
+      "chapter": 62,
+      "finding_ids": [
+        "R0062-02"
+      ],
+      "new": "*One Annihilation.*",
+      "old": "*One Flash.*"
+    },
+    {
+      "chapter": 62,
+      "finding_ids": [
+        "R0062-02"
+      ],
+      "new": "One Annihilation had swallowed his remaining arm, and it hadn't stopped there—it had punched a hole the size of a fist through his chest.",
+      "old": "One Flash had swallowed his remaining arm, and it hadn't stopped there—it had punched a hole the size of a fist through his chest."
+    },
+    {
+      "chapter": 62,
+      "finding_ids": [
+        "R0062-03"
+      ],
+      "new": "He was a Hidden Dragon.\n\nIf he obtained the dragon pearl, he could roam the azure heaven.",
+      "old": "He was a sleeping dragon.\n\nIf he obtained the dragon pearl, he could roam the heavens."
+    },
+    {
+      "chapter": 62,
+      "finding_ids": [
+        "R0062-04"
+      ],
+      "new": "“The Sleeping Dragon of Shanxi…”\n\nWipeng gave a quiet snort.",
+      "old": "“The Sleeping Dragon of Shanxi…”\n\nWipeng gave a faint smirk."
+    },
+    {
+      "chapter": 62,
+      "finding_ids": [
+        "R0062-05"
+      ],
+      "new": "The Sect Leader of the Gunggui Sect,[^1] Jin Chung, was one of them.",
+      "old": "The Sect Leader of Gunggwimun,[^1] Jin Chung, was one of them."
+    },
+    {
+      "chapter": 63,
+      "finding_ids": [
+        "R0063-01"
+      ],
+      "new": "A gleaming silver nyang had come flying from somewhere.",
+      "old": "A gleaming silver tael had come flying from somewhere."
+    },
+    {
+      "chapter": 63,
+      "finding_ids": [
+        "R0063-02"
+      ],
+      "new": "A second silver nyang landed perfectly in the storyteller’s bowl.",
+      "old": "A second silver tael landed perfectly in the storyteller’s bowl."
+    },
+    {
+      "chapter": 63,
+      "finding_ids": [
+        "R0063-03"
+      ],
+      "new": "*The most handsome man of all time. Possessor of the heaven-bestowed Heavenly Martial Physique. A chivalrous hero who cannot stand injustice.*",
+      "old": "*The most handsome man of all time. A heaven-bestowed martial physique. A chivalrous hero who cannot stand injustice.*"
+    },
+    {
+      "chapter": 63,
+      "finding_ids": [
+        "R0063-04"
+      ],
+      "new": "I heard it from a martial artist of the Jin Family of Taiyuan’s Gate Guard Pavilion.",
+      "old": "I heard it from a gate guard of the Jin Family of Taiyuan."
+    },
+    {
+      "chapter": 63,
+      "finding_ids": [
+        "R0063-05"
+      ],
+      "new": "- You have successfully circulated your qi.",
+      "old": "- You have successfully completed **Qi Circulation**."
+    }
+  ],
+  "summary": "Applied 22 terminology, hierarchy, register, imagery, and institutional-name corrections across Chapters 59–63, including all affected occurrences of One Annihilation and Narye tagon.",
+  "version": 1
+}

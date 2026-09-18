@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "chapter": 24,
+      "confidence": 1.0,
+      "current": "“Squad Leader. There’s a kid over there.”",
+      "defect": "The established form of address 조장 is rendered as “Squad Leader” instead of the fixed term “Captain.”",
+      "id": "R0024-01",
+      "rationale": "The glossary fixes 조장 as “Captain” when Hyuk Mujin and the squad address Taekyung.",
+      "replacement": "“Captain. There’s a kid over there.”",
+      "severity": "minor",
+      "source": "조장님. 저기 웬 꼬마가 있는데요?"
+    },
+    {
+      "chapter": 25,
+      "confidence": 1.0,
+      "current": "By the time the carrier pigeon bearing word of war arrived, the Sakju Branch had already been surrounded so tightly that not even a drop of water could get through.",
+      "defect": "The established term 전서구 is rendered as “carrier pigeon” rather than the fixed “messenger pigeon.”",
+      "id": "R0025-01",
+      "rationale": "The glossary specifically identifies this report-bearing 전서구 as a messenger pigeon.",
+      "replacement": "By the time the messenger pigeon bearing word of war arrived, the Sakju Branch had already been surrounded so tightly that not even a drop of water could get through.",
+      "severity": "minor",
+      "source": "전쟁을 알리는 전서구가 도착했을 때는 이미 삭주 지부가 물 샐 틈 없이 포위된 상태였다."
+    },
+    {
+      "chapter": 25,
+      "confidence": 0.99,
+      "current": "What do you think is the reason he has survived until now, despite being tangled up in all kinds of grudges and vendettas?",
+      "defect": "The translation reduces 은원 to two synonymous forms of hostility, omitting the debts of gratitude included in the source concept.",
+      "id": "R0025-02",
+      "rationale": "은원 encompasses both gratitude and grudges—the full range of moral debts and enmities surrounding Jopil—not merely hostile vendettas.",
+      "replacement": "What do you think is the reason he has survived until now, despite being tangled up in all kinds of gratitude and grudges?",
+      "severity": "major",
+      "source": "놈이 온갖 은원에 얽혀 있으면서도 지금까지 살아남을 수 있었던 이유가 무엇이겠소?"
+    },
+    {
+      "chapter": 25,
+      "confidence": 1.0,
+      "current": "The wandering martial artists thought it was fortunate that Black Mountain Blade was dead. If he had still been alive, they would have suffered something even more horrifying.",
+      "defect": "The second sentence changes the prospective victim from Black Mountain Blade to the wandering martial artists.",
+      "id": "R0025-03",
+      "rationale": "The omitted Korean subject remains Black Mountain Blade: the others believe his death spared him from Jopil inflicting an even worse punishment on him.",
+      "replacement": "The wandering martial artists thought it was fortunate that Black Mountain Blade was dead. If he had still been alive, he would have suffered something even more horrifying.",
+      "severity": "critical",
+      "source": "낭인들은 흑산도가 죽어서 다행이라고 생각했다. 살아 있었다면 한층 더 끔찍한 일을 겪었을 테니까."
+    },
+    {
+      "chapter": 27,
+      "confidence": 1.0,
+      "current": "“I’ll carry him.”\n\n“Yes. I’ll carry him.”",
+      "defect": "Taekyung’s challenge is turned into a declaration that he himself will carry Gong Yacheong, duplicating Han Yeop’s answer and changing the speaker’s intended action.",
+      "id": "R0027-01",
+      "rationale": "Taekyung asks whether Han Yeop will carry Gong Yacheong; Han Yeop then accepts.",
+      "replacement": "“Will you carry him?”\n\n“Yes. I’ll carry him.”",
+      "severity": "critical",
+      "source": "“두고 갈 수 없으면. 네가 업고 갈래?”\n\n“예. 제가 업겠습니다.”"
+    },
+    {
+      "chapter": 27,
+      "confidence": 0.97,
+      "current": "Every time I heard her shallow, wheezing breaths, a pang of unease tightened in my chest.",
+      "defect": "“Shallow, wheezing breaths” falsely suggests that Soyul is having respiratory difficulty; the source simply describes the small sleeping child’s soft breathing.",
+      "id": "R0027-02",
+      "rationale": "쌕쌕거리는 here is the audible breathing of the half-asleep child, while Taekyung’s discomfort comes from his guilt over abandoning Gong Yacheong.",
+      "replacement": "Every time I heard her soft breathing, a pang of unease tightened in my chest.",
+      "severity": "minor",
+      "source": "쌕쌕거리는 숨소리를 들을 때마다 가슴 한구석이 불편해진다."
+    },
+    {
+      "chapter": 27,
+      "confidence": 1.0,
+      "current": "“I’ll follow your orders, Squad Leader.”",
+      "defect": "Hyuk Mujin’s established address 조장 is rendered as “Squad Leader” instead of “Captain.”",
+      "id": "R0027-03",
+      "rationale": "The glossary fixes Hyuk Mujin’s address for Taekyung as “Captain.”",
+      "replacement": "“I’ll follow your orders, Captain.”",
+      "severity": "minor",
+      "source": "“명령에 따르겠습니다, 조장님.”"
+    },
+    {
+      "chapter": 28,
+      "confidence": 1.0,
+      "current": "I couldn’t afford to lose a clash of qi, so I glared hard and dropped my voice.",
+      "defect": "The idiomatic 기 싸움 is mistranslated as a literal supernatural clash of qi, obscuring the joke that Taekyung is trying to win an intimidation contest with a wolf.",
+      "id": "R0028-01",
+      "rationale": "In this context 기 싸움 means a contest of nerve or intimidation, not an exchange of internal energy.",
+      "replacement": "I couldn’t afford to lose the battle of wills, so I glared hard and lowered my voice.",
+      "severity": "major",
+      "source": "기 싸움에서 밀리면 안 된다는 생각에 눈에 힘을 빡 주고 목소리를 깔았다."
+    },
+    {
+      "chapter": 28,
+      "confidence": 0.99,
+      "current": "I tore his eyes before I left. Punishment for failing to recognize a master.",
+      "defect": "“Tore his eyes” is malformed and loses the specific action of ripping the dead man’s eyes open.",
+      "id": "R0028-02",
+      "rationale": "This refers back to Jopil forcibly opening Black Mountain Blade’s frozen eyes until the flesh tore.",
+      "replacement": "I ripped his eyes open before I left. Punishment for failing to recognize a master.",
+      "severity": "minor",
+      "source": "고수를 못 알아본 죄로 녀석의 눈을 찢어 주고 왔지."
+    },
+    {
+      "chapter": 28,
+      "confidence": 1.0,
+      "current": "“Not a wastrel. These days they call me the Sleeping Dragon.”",
+      "defect": "The established epithet 잠룡 is mistranslated as “Sleeping Dragon.”",
+      "id": "R0028-03",
+      "rationale": "The glossary fixes 잠룡, Jin Taekyung’s epithet and metaphor, as “Hidden Dragon.”",
+      "replacement": "“Not a wastrel. These days they call me the Hidden Dragon.”",
+      "severity": "minor",
+      "source": "요즘은 잠룡 소리 듣고 있지."
+    }
+  ],
+  "summary": "The block is generally faithful, but contains two altered-subject/action defects, one lost social-obligation concept, a mistranslated intimidation joke, and several localized terminology or physical-detail errors.",
+  "version": 1
+}

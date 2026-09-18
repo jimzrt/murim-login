@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "chapter": 30,
+      "confidence": 0.99,
+      "current": "“You can still stand after taking a seventh-stage Flame Divine Palm… What a high-maintenance junior.”",
+      "defect": "칠 성 means seventy percent power, not the seventh stage of the technique. The current version invents a progression stage and obscures how much force Jopil used.",
+      "id": "R0030-01",
+      "rationale": "The source quantifies the technique's output as seven-tenths of full power.",
+      "replacement": "“You can still stand after taking a Flame Divine Palm at seventy percent power… What a high-maintenance junior.”",
+      "severity": "major",
+      "source": "“칠 성의 화염신장(火焰神掌)을 맞고도 일어선단 말이지…… 손이 많이 가는 후배구먼.”"
+    },
+    {
+      "chapter": 31,
+      "confidence": 1.0,
+      "current": "“You were unconscious for five days. Your condition was so critical that the Medicine King Hall Leader concluded you wouldn’t last the day.”\n\n“Really?”\n\n“Yes. When my lord heard that, he went berserk. If I hadn’t stopped him, he would have beaten the Medicine King Hall Leader to death.”",
+      "defect": "The established title 약왕당주 is Medicine King Hall Master, not Medicine King Hall Leader.",
+      "id": "R0031-01",
+      "rationale": "The glossary fixes this office as Medicine King Hall Master.",
+      "replacement": "“You were unconscious for five days. Your condition was so critical that the Medicine King Hall Master concluded you wouldn’t last the day.”\n\n“Really?”\n\n“Yes. When my lord heard that, he went berserk. If I hadn’t stopped him, he would have beaten the Medicine King Hall Master to death.”",
+      "severity": "minor",
+      "source": "“닷새 동안 혼절해 계셨습니다. 상태가 워낙 위중해서 하루를 못 넘길 거라는 게 약왕당주의 결론이었고요.”\n\n“그래요?”\n\n“예. 그 얘기를 들은 주군께서 길길이 날뛰셨죠. 제가 안 말렸으면 약왕당주를 때려죽였을 겁니다.”"
+    },
+    {
+      "chapter": 31,
+      "confidence": 1.0,
+      "current": "“Number One Under Heaven.”",
+      "defect": "The established rendering of 천하제일인 is not used.",
+      "id": "R0031-02",
+      "rationale": "The glossary distinguishes 천하제일인 as greatest under heaven from the stronger 고금제일인 superlative.",
+      "replacement": "“The greatest under heaven.”",
+      "severity": "minor",
+      "source": "“천하제일인(天下第一人).”"
+    },
+    {
+      "chapter": 31,
+      "confidence": 1.0,
+      "current": "“Number One of All Time.”",
+      "defect": "The established rendering of 고금제일인 is not used.",
+      "id": "R0031-03",
+      "rationale": "The glossary fixes this distinct superlative as greatest of all time.",
+      "replacement": "“The greatest of all time.”",
+      "severity": "minor",
+      "source": "“고금제일인(古今第一人).”"
+    },
+    {
+      "chapter": 32,
+      "confidence": 0.97,
+      "current": "“The Mount Heng Twin D-Devils?”\n\n“The Mount Heng Twin Devils.",
+      "defect": "Taekyung's profane mishearing of 쌍귀 as 썅귀 is reduced to an unexplained stutter, losing the joke and his coarse register.",
+      "id": "R0032-01",
+      "rationale": "썅 is a profanity-like distortion, while Wipeng immediately corrects it to the actual epithet 쌍귀, Twin Devils.",
+      "replacement": "“The Mount Heng Fucking Devils?”\n\n“The Mount Heng Twin Devils.”",
+      "severity": "major",
+      "source": "“항산썅귀요?”\n\n“항산쌍귀 말입니다."
+    },
+    {
+      "chapter": 32,
+      "confidence": 0.99,
+      "current": "“How many Peak masters do you think there are in a single city? Across all of Shanxi, where our family is located, there are fewer than twenty.”",
+      "defect": "성 refers to a province in this administrative comparison, not a city. The current version materially understates the geographic scale of Peak-master scarcity.",
+      "id": "R0032-02",
+      "rationale": "The following clause explicitly uses all of Shanxi as the relevant province-wide frame.",
+      "replacement": "“How many Peak masters do you think there are in a single province? Across all of Shanxi, where our family is located, there are fewer than twenty.”",
+      "severity": "major",
+      "source": "“한 성(城)에 절정 고수가 몇이나 있다고 생각하십니까? 본가가 위치한 산서를 통틀어도 채 스물이 되지 않습니다.”"
+    },
+    {
+      "chapter": 33,
+      "confidence": 0.98,
+      "current": "That was how the debts and grudges of Murim worked. The chain of debts and grudges would not break until one of the two sides fell.",
+      "defect": "The established Murim concept 은원 is rendered as debts and grudges rather than gratitude and grudges, muting its explicit positive-and-negative duality.",
+      "id": "R0033-01",
+      "rationale": "恩怨 encompasses both favors or gratitude owed and hostile grudges; the glossary fixes the phrase as gratitude and grudges.",
+      "replacement": "That was how gratitude and grudges worked in Murim. The cycle of gratitude and grudges would not end until one of the two sides fell.",
+      "severity": "minor",
+      "source": "무림의 은원(恩怨)이란 그런 것이다. 둘 중 하나가 쓰러지기 전까지 은원의 고리는 끊어지지 않는다."
+    },
+    {
+      "chapter": 33,
+      "confidence": 1.0,
+      "current": "“The Medicine King Hall Leader was absolutely furious.”",
+      "defect": "The established title 약왕당주 is Medicine King Hall Master, not Medicine King Hall Leader.",
+      "id": "R0033-02",
+      "rationale": "The glossary fixes this office as Medicine King Hall Master.",
+      "replacement": "“The Medicine King Hall Master was absolutely furious.”",
+      "severity": "minor",
+      "source": "“약왕당주께서 노발대발하셨죠.”"
+    },
+    {
+      "chapter": 33,
+      "confidence": 1.0,
+      "current": "**One Flash**",
+      "defect": "The newly acquired named Skill is given the wrong established English name.",
+      "id": "R0033-03",
+      "rationale": "The glossary explicitly establishes 일섬 as One Annihilation for the spear technique used to kill the Boss Zone monster.",
+      "replacement": "**One Annihilation**",
+      "severity": "major",
+      "source": "[일섬]"
+    },
+    {
+      "chapter": 33,
+      "confidence": 1.0,
+      "current": "“Hundred-year snow ginseng?”",
+      "defect": "The established elixir name is not used.",
+      "id": "R0033-04",
+      "rationale": "The glossary fixes 백년설삼 as Hundred-Year-Old Snow Ginseng.",
+      "replacement": "“Hundred-Year-Old Snow Ginseng?”",
+      "severity": "minor",
+      "source": "“백년설삼?”"
+    }
+  ],
+  "summary": "Strong overall, but the block contains one power-scale mistranslation, a lost profanity joke, a geographic scale error, and several established terminology mismatches.",
+  "version": 1
+}

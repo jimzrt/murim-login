@@ -1,0 +1,149 @@
+{
+  "findings": [
+    {
+      "chapter": 54,
+      "confidence": 0.99,
+      "current": "To them, I had been a Benefactor, a trusted superior, and a comrade they could turn their backs to.",
+      "defect": "The English reverses the trust idiom: 등을 맡길 수 있는 means entrusting one’s exposed back to a comrade, not turning one’s back on or away from them.",
+      "id": "R0054-01",
+      "rationale": "The source specifically characterizes Taekyung as someone they trusted to protect them in combat.",
+      "replacement": "To them, I had been a Benefactor, a trusted superior, and a comrade they could trust to watch their backs.",
+      "severity": "major",
+      "source": "나는 그들에게 있어 은인이었고, 신뢰하는 상관이자 등을 맡길 수 있는 전우였다."
+    },
+    {
+      "chapter": 54,
+      "confidence": 0.96,
+      "current": "I had been a blood brother, too.",
+      "defect": "“Blood brother” commonly denotes sworn brotherhood and leaves the actual biological kinship unclear.",
+      "id": "R0054-02",
+      "rationale": "The preceding memories are of Taekyung’s biological brother, and 피를 나눈 형제 explicitly invokes shared blood.",
+      "replacement": "I was also his brother by blood.",
+      "severity": "major",
+      "source": "피를 나눈 형제이기도 했다."
+    },
+    {
+      "chapter": 54,
+      "confidence": 1.0,
+      "current": "Luxury Freak.",
+      "defect": "The displayed contact name does not use the established translation.",
+      "id": "R0054-03",
+      "rationale": "명품충 is fixed in the supplied glossary as Designer-Brand Junkie.",
+      "replacement": "Designer-Brand Junkie.",
+      "severity": "minor",
+      "source": "[명품충]"
+    },
+    {
+      "chapter": 54,
+      "confidence": 0.99,
+      "current": "“I’ll make him one of my people. Even if I have to pay him three personal visits.[^1]”",
+      "defect": "The established name of the historical allusion is paraphrased rather than preserved.",
+      "id": "R0054-04",
+      "rationale": "삼고초려 is fixed in the supplied glossary as Three Visits to the Thatched Cottage, and the following Zhuge Liang joke depends on that allusion.",
+      "replacement": "“I’ll make him one of my people. Even if it takes Three Visits to the Thatched Cottage.[^1]”",
+      "severity": "minor",
+      "source": "“내 사람으로 만들 겁니다. 삼고초려를 해서라도.”"
+    },
+    {
+      "chapter": 55,
+      "confidence": 1.0,
+      "current": "Squad Leader",
+      "defect": "Taekyung’s established squad title and Hyuk Mujin’s form of address are rendered inconsistently.",
+      "id": "R0055-01",
+      "rationale": "The supplied glossary fixes 조장, specifically Hyuk Mujin’s address for Taekyung, as Captain.",
+      "replacement": "Captain",
+      "severity": "minor",
+      "source": "조장"
+    },
+    {
+      "chapter": 56,
+      "confidence": 0.98,
+      "current": "For many years he had carried two swords. One at his chest, the other at his waist.\n\nThere was no need for more words.",
+      "defect": "The first sword is metaphorically harbored in the Head Elder’s heart, but the English places a second physical sword at his chest.",
+      "id": "R0056-01",
+      "rationale": "가슴에 품었다 contrasts the concealed purpose he has carried within himself with the actual sword at his waist.",
+      "replacement": "For many years, he had carried two swords: one in his heart, and one at his waist.\n\nThere was no need for more words.",
+      "severity": "major",
+      "source": "오랜 세월 두 자루의 검을 품었다. 하나는 가슴에, 하나는 허리춤에. 이제 더는 말이 필요 없었다."
+    },
+    {
+      "chapter": 56,
+      "confidence": 1.0,
+      "current": "sixty years of internal energy",
+      "defect": "The established Murim unit is converted into an explanatory quantity instead of using its fixed term.",
+      "id": "R0056-02",
+      "rationale": "갑자 is fixed in the supplied glossary as jiazi.",
+      "replacement": "one jiazi of internal energy",
+      "severity": "minor",
+      "source": "일 갑자에 달하는 공력"
+    },
+    {
+      "chapter": 56,
+      "confidence": 0.99,
+      "current": "His aim was to lay the foundation for a prestigious house that would one day be recognized even in the Central Plains.",
+      "defect": "The established Murim category 세가 is replaced with a generic description.",
+      "id": "R0056-03",
+      "rationale": "세가 is fixed in the supplied glossary as great family.",
+      "replacement": "His aim was to lay the foundation for a great family that would one day be recognized even in the Central Plains.",
+      "severity": "minor",
+      "source": "장차 중원에서도 인정받는 세가(世家)의 초석을 다지고자 했다."
+    },
+    {
+      "chapter": 56,
+      "confidence": 0.94,
+      "current": "Whether in one form or half a form, the old man in front of him was a master a league above Lee Cheonbaek.",
+      "defect": "“Whether in one form or half a form” is incoherent English and loses the source’s measurement of the old man’s superiority by a full or half move.",
+      "id": "R0056-04",
+      "rationale": "The source says that regardless of whether the margin was one full form or half a form, the Head Elder was the superior master.",
+      "replacement": "Whether by a full form or half a form, the old man before him stood above Lee Cheonbaek.",
+      "severity": "major",
+      "source": "일 초식이건, 반 초식이건 눈앞의 노인은 이천백보다 윗줄의 고수였다."
+    },
+    {
+      "chapter": 57,
+      "confidence": 1.0,
+      "current": "Squad Leader",
+      "defect": "Taekyung’s established squad title and form of address are rendered inconsistently.",
+      "id": "R0057-01",
+      "rationale": "The supplied glossary fixes 조장 as Captain.",
+      "replacement": "Captain",
+      "severity": "minor",
+      "source": "조장"
+    },
+    {
+      "chapter": 57,
+      "confidence": 1.0,
+      "current": "The martial artists of the small and mid-sized sects known as the Five Gates of Shanxi—the Three Paths Sect, a union of three sects; the Tao-centered Byeokdo Sect; and Gunggwimun, which had been pouring arrows from the cliffs without pause—turned in an instant.",
+      "defect": "Two named sects are rendered under non-established names, obscuring their identities within the Five Gates of Shanxi.",
+      "id": "R0057-02",
+      "rationale": "삼도문 and 궁귀문 are fixed in the supplied glossary as Samdo Sect and Gunggui Sect.",
+      "replacement": "The martial artists of the small and mid-sized sects known as the Five Gates of Shanxi—the Samdo Sect, a union of three sects; the Tao-centered Byeokdo Sect; and the Gunggui Sect, which had been pouring arrows from the cliffs without pause—turned in an instant.",
+      "severity": "major",
+      "source": "세 개의 문파 연합체인 삼도문, 도를 중심으로 수련하는 벽도문, 절벽에서 쉴 새 없이 화살을 쏘아 대던 궁귀문까지."
+    },
+    {
+      "chapter": 57,
+      "confidence": 0.99,
+      "current": "They were no longer the clumsy third-rate martial artists they had seemed to be.",
+      "defect": "The formal martial realm designation is rendered as an ordinary lowercase description.",
+      "id": "R0057-03",
+      "rationale": "삼류 is fixed in the supplied glossary as the realm label Third Rate.",
+      "replacement": "They were no longer the clumsy Third Rate martial artists they had seemed to be.",
+      "severity": "minor",
+      "source": "그들은 더 이상 어설픈 삼류 무인들이 아니었다."
+    },
+    {
+      "chapter": 58,
+      "confidence": 1.0,
+      "current": "Squad Leader",
+      "defect": "Taekyung’s established squad title and form of address are rendered inconsistently.",
+      "id": "R0058-01",
+      "rationale": "The supplied glossary fixes 조장 as Captain.",
+      "replacement": "Captain",
+      "severity": "minor",
+      "source": "조장"
+    }
+  ],
+  "summary": "The block is broadly faithful, but several established names and ranks are inconsistent with the glossary, and a few passages materially blur kinship, trust, metaphor, or combat comparison.",
+  "version": 1
+}

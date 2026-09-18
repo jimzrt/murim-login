@@ -1,0 +1,138 @@
+{
+  "dispositions": [
+    {
+      "finding_id": "R0030-01",
+      "reason": "The source describes the Flame Divine Palm as being delivered at seventy percent power, not as a seventh-stage technique.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0031-01",
+      "reason": "Both instances of the office title were corrected to the established Medicine King Hall Master.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0031-02",
+      "reason": "The replacement restores the established rendering of 천하제일인 and preserves its distinction from 고금제일인.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0031-03",
+      "reason": "The replacement restores the established rendering of 고금제일인 as the greater historical superlative.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0032-01",
+      "reason": "The replacement restores Taekyung’s profanity-based mishearing and Wipeng’s immediate correction.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0032-02",
+      "reason": "The comparison concerns province-wide scarcity, as confirmed by the following reference to all of Shanxi.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0033-01",
+      "reason": "The replacement restores the positive-and-negative duality of 은원 as gratitude and grudges.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0033-02",
+      "reason": "The office title was corrected to the established Medicine King Hall Master.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0033-03",
+      "reason": "The named Skill was corrected to its established English name, One Annihilation.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0033-04",
+      "reason": "The elixir name was corrected to the established Hundred-Year-Old Snow Ginseng.",
+      "status": "applied"
+    }
+  ],
+  "patches": [
+    {
+      "chapter": 30,
+      "finding_ids": [
+        "R0030-01"
+      ],
+      "new": "“You can still stand after taking a Flame Divine Palm at seventy percent power… What a high-maintenance junior.”",
+      "old": "“You can still stand after taking a seventh-stage Flame Divine Palm… What a high-maintenance junior.”"
+    },
+    {
+      "chapter": 31,
+      "finding_ids": [
+        "R0031-01"
+      ],
+      "new": "“You were unconscious for five days. Your condition was so critical that the Medicine King Hall Master concluded you wouldn’t last the day.”\n\n“Really?”\n\n“Yes. When my lord heard that, he went berserk. If I hadn’t stopped him, he would have beaten the Medicine King Hall Master to death.”",
+      "old": "“You were unconscious for five days. Your condition was so critical that the Medicine King Hall Leader concluded you wouldn’t last the day.”\n\n“Really?”\n\n“Yes. When my lord heard that, he went berserk. If I hadn’t stopped him, he would have beaten the Medicine King Hall Leader to death.”"
+    },
+    {
+      "chapter": 31,
+      "finding_ids": [
+        "R0031-02"
+      ],
+      "new": "“The greatest under heaven.”",
+      "old": "“Number One Under Heaven.”"
+    },
+    {
+      "chapter": 31,
+      "finding_ids": [
+        "R0031-03"
+      ],
+      "new": "“The greatest of all time.”",
+      "old": "“Number One of All Time.”"
+    },
+    {
+      "chapter": 32,
+      "finding_ids": [
+        "R0032-01"
+      ],
+      "new": "“The Mount Heng Fucking Devils?”\n\n“The Mount Heng Twin Devils.",
+      "old": "“The Mount Heng Twin D-Devils?”\n\n“The Mount Heng Twin Devils."
+    },
+    {
+      "chapter": 32,
+      "finding_ids": [
+        "R0032-02"
+      ],
+      "new": "“How many Peak masters do you think there are in a single province? Across all of Shanxi, where our family is located, there are fewer than twenty.”",
+      "old": "“How many Peak masters do you think there are in a single city? Across all of Shanxi, where our family is located, there are fewer than twenty.”"
+    },
+    {
+      "chapter": 33,
+      "finding_ids": [
+        "R0033-01"
+      ],
+      "new": "That was how gratitude and grudges worked in Murim. The cycle of gratitude and grudges would not end until one of the two sides fell.",
+      "old": "That was how the debts and grudges of Murim worked. The chain of debts and grudges would not break until one of the two sides fell."
+    },
+    {
+      "chapter": 33,
+      "finding_ids": [
+        "R0033-02"
+      ],
+      "new": "“The Medicine King Hall Master was absolutely furious.”",
+      "old": "“The Medicine King Hall Leader was absolutely furious.”"
+    },
+    {
+      "chapter": 33,
+      "finding_ids": [
+        "R0033-03"
+      ],
+      "new": "**One Annihilation**",
+      "old": "**One Flash**"
+    },
+    {
+      "chapter": 33,
+      "finding_ids": [
+        "R0033-04"
+      ],
+      "new": "“Hundred-Year-Old Snow Ginseng?”",
+      "old": "“Hundred-year snow ginseng?”"
+    }
+  ],
+  "summary": "Applied 10 bounded corrections across Chapters 30–33, restoring technique power, established titles and terminology, geographic scale, profanity-based wordplay, and named concepts.",
+  "version": 1
+}

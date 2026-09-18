@@ -1,0 +1,241 @@
+{
+  "dispositions": [
+    {
+      "finding_id": "R0054-01",
+      "reason": "The source describes a comrade trusted to protect one’s back, not someone one merely turns away from.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0054-02",
+      "reason": "The source and surrounding memories identify an actual biological brother rather than a sworn blood brother.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0054-03",
+      "reason": "The contact name is restored to the established glossary rendering, Designer-Brand Junkie.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0054-04",
+      "reason": "The established name of the Three Visits to the Thatched Cottage allusion is required for the following Zhuge Liang joke.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0055-01",
+      "reason": "Every reported form of address using Taekyung’s squad title in the chapter is standardized to the established term Captain.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0056-01",
+      "reason": "The source contrasts a concealed purpose carried in the Head Elder’s heart with the physical sword at his waist.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0056-02",
+      "reason": "Both instances of the Murim unit 갑자 are restored to the established term jiazi.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0056-03",
+      "reason": "The formal Murim category 세가 is restored to its established rendering, great family.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0056-04",
+      "reason": "The replacement preserves the source’s comparison of the Head Elder’s superiority by a full or half form.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0057-01",
+      "reason": "Both reported forms of address using Taekyung’s squad title are standardized to Captain.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0057-02",
+      "reason": "Samdo Sect and Gunggui Sect are the established names for the two identified members of the Five Gates of Shanxi.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0057-03",
+      "reason": "Third Rate is a formal martial realm designation and therefore requires the established capitalization.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0058-01",
+      "reason": "All reported uses of Taekyung’s squad title in direct address or reference are standardized to Captain.",
+      "status": "applied"
+    }
+  ],
+  "patches": [
+    {
+      "chapter": 54,
+      "finding_ids": [
+        "R0054-01"
+      ],
+      "new": "To them, I had been a Benefactor, a trusted superior, and a comrade they could trust to watch their backs.",
+      "old": "To them, I had been a Benefactor, a trusted superior, and a comrade they could turn their backs to."
+    },
+    {
+      "chapter": 54,
+      "finding_ids": [
+        "R0054-02"
+      ],
+      "new": "I was also his brother by blood.",
+      "old": "I had been a blood brother, too."
+    },
+    {
+      "chapter": 54,
+      "finding_ids": [
+        "R0054-03"
+      ],
+      "new": "Designer-Brand Junkie.",
+      "old": "Luxury Freak."
+    },
+    {
+      "chapter": 54,
+      "finding_ids": [
+        "R0054-04"
+      ],
+      "new": "“I’ll make him one of my people. Even if it takes Three Visits to the Thatched Cottage.[^1]”",
+      "old": "“I’ll make him one of my people. Even if I have to pay him three personal visits.[^1]”"
+    },
+    {
+      "chapter": 55,
+      "finding_ids": [
+        "R0055-01"
+      ],
+      "new": "“Captain!”\n\nJin Taekyung grinned and whispered,",
+      "old": "“Squad Leader!”\n\nJin Taekyung grinned and whispered,"
+    },
+    {
+      "chapter": 55,
+      "finding_ids": [
+        "R0055-01"
+      ],
+      "new": "“Candy in your ear.”\n\n“Captain!”\n\n“Was it sweet as a dream?”",
+      "old": "“Candy in your ear.”\n\n“Squad Leader!”\n\n“Was it sweet as a dream?”"
+    },
+    {
+      "chapter": 55,
+      "finding_ids": [
+        "R0055-01"
+      ],
+      "new": "“Captain’s awake!”",
+      "old": "“Squad Leader’s awake!”"
+    },
+    {
+      "chapter": 55,
+      "finding_ids": [
+        "R0055-01"
+      ],
+      "new": "“Uh, Captain. I’m sorry to say this, but… I think we have to consider the worst case.”",
+      "old": "“Uh, Squad Leader. I’m sorry to say this, but… I think we have to consider the worst case.”"
+    },
+    {
+      "chapter": 55,
+      "finding_ids": [
+        "R0055-01"
+      ],
+      "new": "“Captain…”\n\n“So, Mujin.”",
+      "old": "“Squad Leader…”\n\n“So, Mujin.”"
+    },
+    {
+      "chapter": 56,
+      "finding_ids": [
+        "R0056-01"
+      ],
+      "new": "For many years, he had carried two swords: one in his heart, and one at his waist.\n\nThere was no need for more words.",
+      "old": "For many years he had carried two swords. One at his chest, the other at his waist.\n\nThere was no need for more words."
+    },
+    {
+      "chapter": 56,
+      "finding_ids": [
+        "R0056-03"
+      ],
+      "new": "His aim was to lay the foundation for a great family that would one day be recognized even in the Central Plains.",
+      "old": "His aim was to lay the foundation for a prestigious house that would one day be recognized even in the Central Plains."
+    },
+    {
+      "chapter": 56,
+      "finding_ids": [
+        "R0056-02"
+      ],
+      "new": "He charged like a beast. The blade, holding one jiazi of internal energy, shone milky white.",
+      "old": "He charged like a beast. The blade, holding sixty years of internal energy, shone milky white."
+    },
+    {
+      "chapter": 56,
+      "finding_ids": [
+        "R0056-04"
+      ],
+      "new": "Whether by a full form or half a form, the old man before him stood above Lee Cheonbaek.",
+      "old": "Whether in one form or half a form, the old man in front of him was a master a league above Lee Cheonbaek."
+    },
+    {
+      "chapter": 56,
+      "finding_ids": [
+        "R0056-02"
+      ],
+      "new": "The blade, having drawn in one jiazi of internal energy, raised a shimmering haze of light.",
+      "old": "The blade, having drawn in sixty years of internal energy, raised a shimmering haze of light."
+    },
+    {
+      "chapter": 57,
+      "finding_ids": [
+        "R0057-01"
+      ],
+      "new": "“C-Captain!”\n\nI kept running, leaving the reconnaissance squad’s voices fading behind me.",
+      "old": "“S-Squad Leader!”\n\nI kept running, leaving the reconnaissance squad’s voices fading behind me."
+    },
+    {
+      "chapter": 57,
+      "finding_ids": [
+        "R0057-02"
+      ],
+      "new": "The martial artists of the small and mid-sized sects known as the Five Gates of Shanxi—the Samdo Sect, a union of three sects; the Tao-centered Byeokdo Sect; and the Gunggui Sect, which had been pouring arrows from the cliffs without pause—turned in an instant.",
+      "old": "The martial artists of the small and mid-sized sects known as the Five Gates of Shanxi—the Three Paths Sect, a union of three sects; the Tao-centered Byeokdo Sect; and Gunggwimun, which had been pouring arrows from the cliffs without pause—turned in an instant."
+    },
+    {
+      "chapter": 57,
+      "finding_ids": [
+        "R0057-03"
+      ],
+      "new": "They were no longer the clumsy Third Rate martial artists they had seemed to be.",
+      "old": "They were no longer the clumsy third-rate martial artists they had seemed to be."
+    },
+    {
+      "chapter": 57,
+      "finding_ids": [
+        "R0057-01"
+      ],
+      "new": "“Captain! Please slow down a little!”",
+      "old": "“Squad Leader! Please slow down a little!”"
+    },
+    {
+      "chapter": 58,
+      "finding_ids": [
+        "R0058-01"
+      ],
+      "new": "“Captain, maybe we can—huff!”",
+      "old": "“Squad Leader, maybe we can—huff!”"
+    },
+    {
+      "chapter": 58,
+      "finding_ids": [
+        "R0058-01"
+      ],
+      "new": "“C-Captain.”\n\n“Y-Yeah?”",
+      "old": "“S-Squad Leader.”\n\n“Y-Yeah?”"
+    },
+    {
+      "chapter": 58,
+      "finding_ids": [
+        "R0058-01"
+      ],
+      "new": "“Protect the Captain!”",
+      "old": "“Protect the Squad Leader!”"
+    }
+  ],
+  "summary": "Corrects trust and kinship meanings, restores established names and Murim terminology, clarifies the Head Elder’s metaphor and Lee Cheonbaek’s assessment, and standardizes Taekyung’s title as Captain.",
+  "version": 1
+}

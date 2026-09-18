@@ -1,0 +1,190 @@
+{
+  "dispositions": [
+    {
+      "finding_id": "R0034-01",
+      "reason": "The source names 근골 and 근맥 as two distinct attributes, supporting the established renderings Muscles and Bones and Sinews and Meridians.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0034-02",
+      "reason": "The speaker is Gwak Jun, and 삼도문 is consistently established as the Samdo Sect.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0035-01",
+      "reason": "열화신단 is the named item Blazing Flame Divine Pill.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0036-01",
+      "reason": "The source explicitly calculates nine members excluding Taekyung, subtracts the two seriously injured men, and expects seven before revealing the discrepancy.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0036-02",
+      "reason": "대연무장 is the established proper location name Grand Training Ground.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0036-03",
+      "reason": "Hyuk Mujin’s established address 조장님 is Captain.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0037-01",
+      "reason": "삼도문 is the established Samdo Sect, including in Gwak Jun’s introduction.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0037-02",
+      "reason": "The source retains the Murim unit 반 갑자, directly supporting half a jiazi rather than its modern-year equivalent.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0037-03",
+      "reason": "잠룡 is Taekyung’s established epithet Hidden Dragon.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0038-01",
+      "reason": "Hyuk Mujin addresses Taekyung as 조장, whose established rendering is Captain.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0038-02",
+      "reason": "아홉 명 explicitly identifies nine subordinates, not eight.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0038-03",
+      "reason": "일섬 is the established spear technique One Annihilation.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0038-04",
+      "reason": "The dialogue names the same established technique, One Annihilation.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0038-05",
+      "reason": "삼도문 and 궁귀문 are the established Samdo Sect and Gunggui Sect; the obsolete romanization footnote marker is removed with the corrected sentence.",
+      "status": "applied"
+    }
+  ],
+  "patches": [
+    {
+      "chapter": 34,
+      "finding_ids": [
+        "R0034-01"
+      ],
+      "new": "— Your Muscles and Bones and your Sinews and Meridians improve greatly!",
+      "old": "— Your Sinews and Bones and your Meridians improve greatly!"
+    },
+    {
+      "chapter": 34,
+      "finding_ids": [
+        "R0034-02"
+      ],
+      "new": "“Gwak of the Samdo Sect presents his respects.”[^1]",
+      "old": "“Guo of the Three Paths Sect presents his respects.”[^1]"
+    },
+    {
+      "chapter": 35,
+      "finding_ids": [
+        "R0035-01"
+      ],
+      "new": "**Blazing Flame Divine Pill**",
+      "old": "**Fire Divine Elixir**"
+    },
+    {
+      "chapter": 36,
+      "finding_ids": [
+        "R0036-01"
+      ],
+      "new": "I started counting again from the end, one person at a time. There had originally been nine of them, excluding me. Hyuk Mujin and Han Yeop were both seriously injured, so neither should have been here. That meant there should have been seven, but…\n\n“…What are you doing here?”",
+      "old": "I started counting again from the end, one person at a time. Not counting me, there were eight. Han Yeop had serious injuries, so he obviously couldn’t have come—but Hyuk Mujin had snuck out to join us.\n\n“…What are you doing here?”"
+    },
+    {
+      "chapter": 36,
+      "finding_ids": [
+        "R0036-02"
+      ],
+      "new": "More than five hundred martial artists stood in formation across the Grand Training Ground.",
+      "old": "More than five hundred martial artists stood in formation across the main training ground."
+    },
+    {
+      "chapter": 36,
+      "finding_ids": [
+        "R0036-03"
+      ],
+      "new": "“Captain!”",
+      "old": "“Squad Leader!”"
+    },
+    {
+      "chapter": 37,
+      "finding_ids": [
+        "R0037-01"
+      ],
+      "new": "“I’m Gwak Jun of the Samdo Sect. We met once before… We even shook hands.”",
+      "old": "“I’m Gwak Jun of the Three Paths Sect. We met once before… We even shook hands.”"
+    },
+    {
+      "chapter": 37,
+      "finding_ids": [
+        "R0037-02"
+      ],
+      "new": "“The manual’s a Supreme Peak martial art, and if you absorb the elixir right, it’s half a jiazi.”",
+      "old": "“The manual’s a Supreme Peak martial art, and if you absorb the elixir right, it’s thirty years.”"
+    },
+    {
+      "chapter": 37,
+      "finding_ids": [
+        "R0037-03"
+      ],
+      "new": "“Of course. You’re the Hidden Dragon.”",
+      "old": "“Of course. You’re the Sleeping Dragon.”"
+    },
+    {
+      "chapter": 38,
+      "finding_ids": [
+        "R0038-01"
+      ],
+      "new": "“Captain, please move your foot. It hurts.”",
+      "old": "“Squad Leader, please move your foot. It hurts.”"
+    },
+    {
+      "chapter": 38,
+      "finding_ids": [
+        "R0038-02"
+      ],
+      "new": "The nine said to be Jin Taekyung’s subordinates advanced slowly with their backs together, whether their leader was doing anything up ahead or not.",
+      "old": "The eight said to be Jin Taekyung’s subordinates advanced slowly with their backs together, whether their leader was doing anything up ahead or not."
+    },
+    {
+      "chapter": 38,
+      "finding_ids": [
+        "R0038-03"
+      ],
+      "new": "Of the ten or so subordinates caught in One Annihilation, he was the only one who even left a sound.",
+      "old": "Of the ten or so subordinates caught in One Flash, he was the only one who even left a sound."
+    },
+    {
+      "chapter": 38,
+      "finding_ids": [
+        "R0038-04"
+      ],
+      "new": "“One Annihilation. This thing is awesome.”",
+      "old": "“One Flash. This thing is awesome.”"
+    },
+    {
+      "chapter": 38,
+      "finding_ids": [
+        "R0038-05"
+      ],
+      "new": "“If you add the Samdo Sect and the Gunggui Sect together, well over a hundred.”",
+      "old": "“If you add the Three Paths Sect and Gunggwimun together, well over a hundred.”[^2]"
+    }
+  ],
+  "summary": "Applied 14 bounded fidelity and terminology corrections across Chapters 34–38, restoring established attribute, item, sect, location, address, epithet, unit, technique, squad-count, and reveal details.",
+  "version": 1
+}

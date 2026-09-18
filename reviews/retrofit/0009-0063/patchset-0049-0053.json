@@ -1,0 +1,138 @@
+{
+  "dispositions": [
+    {
+      "finding_id": "R0049-01",
+      "reason": "The supplied source and terminology note establish the text-message display name as “Designer-Brand Junkie.”",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0049-02",
+      "reason": "The repeated first-person possessives and verbs state that Choi trusts his own instincts and judgment, not that unspecified Guild members trust him.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0050-01",
+      "reason": "The Guild Master explicitly fires Kim Sangshik and orders HR to remove both father and son, so “terminations” preserves the established action.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0050-02",
+      "reason": "The surrounding scene establishes that the father and son were forced out rather than voluntarily resigning.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0051-01",
+      "reason": "The named technique 일섬 is established in the supplied terminology as “One Annihilation.”",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0051-02",
+      "reason": "방언 describes ecstatic speaking in tongues in this joke, whereas “dialect” does not fit the ensuing stream of exclamations.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0052-01",
+      "reason": "The Korean uses a future conditional, expressing what would happen if the System disappeared rather than implying repeated disappearances.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0052-02",
+      "reason": "The playful sobriquet 김 여사 is established as “Lady Kim,” not the ordinary marital title “Mrs. Kim.”",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0053-01",
+      "reason": "The address 김 여사님 continues the established playful “Lady Kim” sobriquet.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0053-02",
+      "reason": "The source says Taekyung repeatedly spoke or called out Jin Wikyung’s name, so the replacement restores the missing referent.",
+      "status": "applied"
+    }
+  ],
+  "patches": [
+    {
+      "chapter": 49,
+      "finding_ids": [
+        "R0049-01"
+      ],
+      "new": "〈 Designer-Brand Junkie\n\nDesigner-Brand Junkie",
+      "old": "〈 Luxury Nutjob\n\nLuxury Nutjob"
+    },
+    {
+      "chapter": 49,
+      "finding_ids": [
+        "R0049-02"
+      ],
+      "new": "“Because I trust myself.”\n\n“What?”\n\n“I trust my instincts and my eye for people. That’s why I want to sign you, Mr. Jin Taekyung.”",
+      "old": "“Because they trust me.”\n\n“What?”\n\n“They trust my instincts, and they trust my eye for people. That’s why I want to hold on to Jin Taekyung.”"
+    },
+    {
+      "chapter": 50,
+      "finding_ids": [
+        "R0050-01"
+      ],
+      "new": "“Hey, HR. Process two terminations today. Kim Sangshik and Kim Sangho.”",
+      "old": "“Hey, HR. Process two resignations today. Kim Sangshik and Kim Sangho.”"
+    },
+    {
+      "chapter": 50,
+      "finding_ids": [
+        "R0050-02"
+      ],
+      "new": "For the next few days, Sopung Guild was in an uproar over the rare event of a father and son being forced out at the same time.",
+      "old": "For the next few days, Sopung Guild was in an uproar over the rare event of a father and son resigning at the same time."
+    },
+    {
+      "chapter": 51,
+      "finding_ids": [
+        "R0051-01"
+      ],
+      "new": "“One Annihilation.”",
+      "old": "“One Flash.”"
+    },
+    {
+      "chapter": 51,
+      "finding_ids": [
+        "R0051-02"
+      ],
+      "new": "I started speaking in tongues before I knew it.",
+      "old": "Dialect burst out of me before I knew it."
+    },
+    {
+      "chapter": 52,
+      "finding_ids": [
+        "R0052-01"
+      ],
+      "new": "A roller coaster that would plummet if the System disappeared…",
+      "old": "A roller coaster that dropped whenever the System disappeared…"
+    },
+    {
+      "chapter": 52,
+      "finding_ids": [
+        "R0052-02"
+      ],
+      "new": "“Look at Lady Kim, all excited because her son’s home after so long.”",
+      "old": "“Mrs. Kim is really excited now that her son’s home after so long.”"
+    },
+    {
+      "chapter": 53,
+      "finding_ids": [
+        "R0053-01"
+      ],
+      "new": "“There goes Lady Kim again. I know how to eat boiled pork too, you know?”",
+      "old": "“Our Mrs. Kim is starting again. I know how to eat boiled pork too, you know?”"
+    },
+    {
+      "chapter": 53,
+      "finding_ids": [
+        "R0053-02"
+      ],
+      "new": "“From you. You kept saying that name in your sleep.”",
+      "old": "“From you. You kept calling it in your sleep.”"
+    }
+  ],
+  "summary": "Corrects established names and terminology, restores Choi Minwoo’s self-trust, clarifies the forced dismissals, preserves the conditional threat of the System disappearing, and fixes localized mistranslations and forms of address.",
+  "version": 1
+}

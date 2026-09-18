@@ -1,0 +1,159 @@
+{
+  "dispositions": [
+    {
+      "finding_id": "R0045-01",
+      "reason": "The source says the armless monster remains dangerous with its body alone, so “bare-handed” is physically contradictory.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0045-02",
+      "reason": "The source explicitly describes the monster stepping backward, and the replacement restores that direction.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0045-03",
+      "reason": "The replacement uses the established rendering of 낭중지추 and preserves the sense that concealed ability eventually reveals itself.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0045-04",
+      "reason": "잠룡 is the established “Hidden Dragon” title, not “Sleeping Dragon.”",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0046-01",
+      "reason": "벽곡단 is replaced with the established term “fasting pills,” making the romanization footnote obsolete; both the term and unused note are removed.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0046-02",
+      "reason": "귀신이네 reacts to Choi’s uncanny timing rather than literally identifying him as a ghost.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0047-01",
+      "reason": "The replacement restores the established System attribute term “Muscles and Bones” for 근골.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0048-01",
+      "reason": "The replacement restores Team Leader Choi’s established contact display name.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0048-02",
+      "reason": "Jinho has just been handed the phone and is the person holding it in the source.",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0048-03",
+      "reason": "Hyuk Mujin addresses Taekyung with the established title “Captain.”",
+      "status": "applied"
+    },
+    {
+      "finding_id": "R0048-04",
+      "reason": "The dream dialogue again refers to Taekyung by the established title “Captain.”",
+      "status": "applied"
+    }
+  ],
+  "patches": [
+    {
+      "chapter": 45,
+      "finding_ids": [
+        "R0045-01"
+      ],
+      "new": "Even without arms, its body alone was still more than dangerous enough.",
+      "old": "Even without arms, it was more than dangerous enough bare-handed."
+    },
+    {
+      "chapter": 45,
+      "finding_ids": [
+        "R0045-02"
+      ],
+      "new": "With every step it retreated, a new wound opened and more blood spilled.",
+      "old": "Every step it gave, a new wound opened and more blood spilled."
+    },
+    {
+      "chapter": 45,
+      "finding_ids": [
+        "R0045-03"
+      ],
+      "new": "A needle in a bag eventually pokes through.",
+      "old": "An awl in a bag pokes through."
+    },
+    {
+      "chapter": 45,
+      "finding_ids": [
+        "R0045-04"
+      ],
+      "new": "Well, I’m not some prestigious family’s son here. And I’m sure as hell no Hidden Dragon.",
+      "old": "Well, I’m not some prestigious family’s son here. And I’m sure as hell no Sleeping Dragon."
+    },
+    {
+      "chapter": 46,
+      "finding_ids": [
+        "R0046-01"
+      ],
+      "new": "Food in Murim was spicy, salty, and bland. And even then, more days than not, I couldn’t eat properly. For thirty days, my stomach had been abused with beef jerky, fasting pills, and rice balls.",
+      "old": "Food in Murim was spicy, salty, and bland. And even then, more days than not, I couldn’t eat properly. For thirty days, my stomach had been abused with beef jerky, bigu pills,[^1] and rice balls."
+    },
+    {
+      "chapter": 46,
+      "finding_ids": [
+        "R0046-01"
+      ],
+      "new": "",
+      "old": "[^1]: Bigu pills are traditional fasting pills said to sustain the body without ordinary food.\n\n"
+    },
+    {
+      "chapter": 46,
+      "finding_ids": [
+        "R0046-02"
+      ],
+      "new": "“—You bastard, are you psychic or what? I was just about to call you.”",
+      "old": "“—You bastard, you’re a ghost. I was just about to call you.”"
+    },
+    {
+      "chapter": 47,
+      "finding_ids": [
+        "R0047-01"
+      ],
+      "new": "My martial arts, my stats, and even my steel-like Muscles and Bones had come with it.",
+      "old": "My martial arts, my stats, and even my steel-like Sinews and Bones had come with it."
+    },
+    {
+      "chapter": 48,
+      "finding_ids": [
+        "R0048-01"
+      ],
+      "new": "“Designer-Brand Junkie? Who’s that?”",
+      "old": "“Luxury Nutjob? Who’s that?”"
+    },
+    {
+      "chapter": 48,
+      "finding_ids": [
+        "R0048-02"
+      ],
+      "new": "Jinho hyung stared blankly, looking from me to the phone in his hand.",
+      "old": "Jinho hyung stared blankly, looking from me to the phone in my hand."
+    },
+    {
+      "chapter": 48,
+      "finding_ids": [
+        "R0048-03"
+      ],
+      "new": "“Captain, Captain!”",
+      "old": "“Squad leader, squad leader!”"
+    },
+    {
+      "chapter": 48,
+      "finding_ids": [
+        "R0048-04"
+      ],
+      "new": "“Why is Captain suddenly like this now of all times…”",
+      "old": "“Why is the squad leader suddenly like this now of all times…”"
+    }
+  ],
+  "summary": "Corrects body-action wording, retreat direction, established terminology and titles, an idiomatic timing remark, phone ownership, and forms of address across Chapters 45–48; removes the obsolete fasting-pill footnote.",
+  "version": 1
+}

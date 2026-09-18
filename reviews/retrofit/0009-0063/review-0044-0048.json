@@ -1,0 +1,127 @@
+{
+  "findings": [
+    {
+      "chapter": 45,
+      "confidence": 0.99,
+      "current": "Even without arms, it was more than dangerous enough bare-handed.",
+      "defect": "Calling an armless creature “bare-handed” is contradictory. The source says its body alone remains dangerous.",
+      "id": "R0045-01",
+      "rationale": "맨몸으로 means relying on its bare body, not fighting with bare hands.",
+      "replacement": "Even without arms, its body alone was still more than dangerous enough.",
+      "severity": "major",
+      "source": "양팔을 잃었지만 놈은 맨몸으로도 충분히 위협적인 존재니까."
+    },
+    {
+      "chapter": 45,
+      "confidence": 0.99,
+      "current": "Every step it gave, a new wound opened and more blood spilled.",
+      "defect": "“Every step it gave” is unidiomatic and obscures that the monster is retreating step by step.",
+      "id": "R0045-02",
+      "rationale": "물러날 때마다 explicitly means each time it stepped back.",
+      "replacement": "With every step it retreated, a new wound opened and more blood spilled.",
+      "severity": "minor",
+      "source": "한 걸음씩 물러날 때마다, 새로운 상처가 생기고 더 많은 피가 쏟아졌다."
+    },
+    {
+      "chapter": 45,
+      "confidence": 0.99,
+      "current": "An awl in a bag pokes through.",
+      "defect": "The established rendering of the idiom is not used.",
+      "id": "R0045-03",
+      "rationale": "The block glossary establishes 낭중지추 as “needle in a bag,” describing exceptional talent that inevitably reveals itself.",
+      "replacement": "A needle in a bag eventually pokes through.",
+      "severity": "minor",
+      "source": "낭중지추."
+    },
+    {
+      "chapter": 45,
+      "confidence": 0.99,
+      "current": "Well, I’m not some prestigious family’s son here. And I’m sure as hell no Sleeping Dragon.",
+      "defect": "The established rendering of 잠룡 is replaced with a different epithet.",
+      "id": "R0045-04",
+      "rationale": "The block glossary establishes 잠룡 as “Hidden Dragon.”",
+      "replacement": "Well, I’m not some prestigious family’s son here. And I’m sure as hell no Hidden Dragon.",
+      "severity": "minor",
+      "source": "하긴, 나는 여기서 명문가 자제도 아니고, 잠룡 같은 건 더더욱 아니니까."
+    },
+    {
+      "chapter": 46,
+      "confidence": 1.0,
+      "current": "Food in Murim was spicy, salty, and bland. And even then, more days than not, I couldn’t eat properly. For thirty days, my stomach had been abused with beef jerky, bigu pills,[^1] and rice balls.",
+      "defect": "The established English term for 벽곡단 is replaced by a romanization requiring an unnecessary footnote.",
+      "id": "R0046-01",
+      "rationale": "The block glossary establishes 벽곡단 as “fasting pills.”",
+      "replacement": "Food in Murim was spicy, salty, and bland. And even then, more days than not, I couldn’t eat properly. For thirty days, my stomach had been abused with beef jerky, fasting pills, and rice balls.",
+      "severity": "minor",
+      "source": "무림의 음식은 맵고 짜고 싱겁다. 그마저도 제대로 못 먹는 날이 더 많았다. 30일간 내 위장은 육포와 벽곡단, 주먹밥으로 혹사당했다."
+    },
+    {
+      "chapter": 46,
+      "confidence": 0.97,
+      "current": "“—You bastard, you’re a ghost. I was just about to call you.”",
+      "defect": "The literal “you’re a ghost” is unnatural in English and loses the caller’s remark about Choi’s uncannily perfect timing.",
+      "id": "R0046-02",
+      "rationale": "Here 귀신이네 is an idiomatic reaction to Choi calling at exactly the right moment, not a claim that he is literally a ghost.",
+      "replacement": "“—You bastard, are you psychic or what? I was just about to call you.”",
+      "severity": "minor",
+      "source": "이 자식, 귀신이네. 안 그래도 연락하려고 했는데."
+    },
+    {
+      "chapter": 47,
+      "confidence": 0.99,
+      "current": "My martial arts, my stats, and even my steel-like Sinews and Bones had come with it.",
+      "defect": "The established System attribute terminology is not used.",
+      "id": "R0047-01",
+      "rationale": "The block glossary establishes 근골 as “Muscles and Bones.”",
+      "replacement": "My martial arts, my stats, and even my steel-like Muscles and Bones had come with it.",
+      "severity": "minor",
+      "source": "무공과 능력치. 그리고 강철 같은 근골까지 포함이다."
+    },
+    {
+      "chapter": 48,
+      "confidence": 1.0,
+      "current": "“Luxury Nutjob? Who’s that?”",
+      "defect": "Team Leader Choi’s established contact display name is replaced with a different rendering.",
+      "id": "R0048-01",
+      "rationale": "The block glossary explicitly establishes 명품충 as the display name “Designer-Brand Junkie.”",
+      "replacement": "“Designer-Brand Junkie? Who’s that?”",
+      "severity": "minor",
+      "source": "“명품충? 누구야 이건?”"
+    },
+    {
+      "chapter": 48,
+      "confidence": 0.99,
+      "current": "Jinho hyung stared blankly, looking from me to the phone in my hand.",
+      "defect": "The phone is assigned to Taekyung’s hand, but the source says Jinho is holding it.",
+      "id": "R0048-02",
+      "rationale": "손에 쥔 핸드폰 refers to the phone Jinho has just been given and is currently holding.",
+      "replacement": "Jinho hyung stared blankly, looking from me to the phone in his hand.",
+      "severity": "minor",
+      "source": "진호 형이 멍한 얼굴로 나와 손에 쥔 핸드폰을 번갈아 봤다."
+    },
+    {
+      "chapter": 48,
+      "confidence": 1.0,
+      "current": "“Squad leader, squad leader!”",
+      "defect": "The established form of address is replaced with a different rank.",
+      "id": "R0048-03",
+      "rationale": "The block glossary establishes 조장, Hyuk Mujin’s address for Taekyung, as “Captain.”",
+      "replacement": "“Captain, Captain!”",
+      "severity": "major",
+      "source": "조장, 조장!"
+    },
+    {
+      "chapter": 48,
+      "confidence": 1.0,
+      "current": "“Why is the squad leader suddenly like this now of all times…”",
+      "defect": "The repeated established form of address is again replaced with a different rank.",
+      "id": "R0048-04",
+      "rationale": "The block glossary establishes 조장 as “Captain,” and the dream voice is referring to Taekyung by that title.",
+      "replacement": "“Why is Captain suddenly like this now of all times…”",
+      "severity": "major",
+      "source": "조장은 왜 갑자기 이럴 때……."
+    }
+  ],
+  "summary": "The block is broadly faithful, but contains one contradictory combat description, several established-term mismatches, and a handful of localized idiomatic or physical-detail errors.",
+  "version": 1
+}

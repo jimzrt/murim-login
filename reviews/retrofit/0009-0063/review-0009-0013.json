@@ -1,0 +1,105 @@
+{
+  "findings": [
+    {
+      "chapter": 9,
+      "confidence": 0.98,
+      "current": "The hereditary martial art created by some fellow called the founder—or was it the family’s founding granddad?—was unbelievably complicated.",
+      "defect": "The replacement joke about a “founding granddad” loses the source’s explicit wordplay between 시조, “founder,” and 시조새, “Archaeopteryx.”",
+      "id": "R0009-01",
+      "rationale": "The source deliberately turns “founder” into the similar-sounding “Archaeopteryx,” a comic beat characterizing Taekyung’s irreverent narration.",
+      "replacement": "The hereditary martial art created by some fellow called the founder—or was it Archaeopteryx?—was unbelievably complicated.",
+      "severity": "major",
+      "source": "시조인가 시조새인가 하는 양반이 만들었다는 가전 무공은 더럽게 복잡했다."
+    },
+    {
+      "chapter": 9,
+      "confidence": 1.0,
+      "current": "I thought the game’s language system had glitched. Fortunately, it meant exactly what I thought it meant.",
+      "defect": "This repeats the preceding thought about the language system and omits the source beat in which the warriors accompanying Wipeng join Taekyung’s laughter.",
+      "id": "R0009-02",
+      "rationale": "The omitted group laughter establishes the falsely convivial atmosphere immediately before Wipeng resumes reading the arrest order.",
+      "replacement": "Laughter was contagious. The warriors who had come with Wipeng began laughing along with me.",
+      "severity": "major",
+      "source": "원래 웃음은 전염되기 마련이다. 위팽과 같이 온 무사들도 나를 따라 웃기 시작했다."
+    },
+    {
+      "chapter": 9,
+      "confidence": 1.0,
+      "current": "Elder Council",
+      "defect": "The established name of the family body is rendered with a non-glossary variant throughout the scene.",
+      "id": "R0009-03",
+      "rationale": "The supplied glossary fixes 장로원 as “Council of Elders,” and consistent naming matters because it is a specific political body within the Jin Family.",
+      "replacement": "Council of Elders",
+      "severity": "major",
+      "source": "장로원"
+    },
+    {
+      "chapter": 10,
+      "confidence": 1.0,
+      "current": "**Excellent Grain-Repelling Pill**",
+      "defect": "The item name does not use the established translation for 벽곡단.",
+      "id": "R0010-01",
+      "rationale": "The supplied glossary fixes 벽곡단 as “fasting pills”; this is a recurring named consumable whose terminology continues into the following chapter.",
+      "replacement": "**Excellent Fasting Pill**",
+      "severity": "major",
+      "source": "[뛰어난 벽곡단]"
+    },
+    {
+      "chapter": 11,
+      "confidence": 1.0,
+      "current": "- Your fatigue has been restored.",
+      "defect": "The English reverses the System effect by saying that fatigue itself is restored rather than relieved.",
+      "id": "R0011-01",
+      "rationale": "The pill removes Taekyung’s fatigue; the current line literally indicates that his fatigue returns, contradicting both the source and his immediately improved condition.",
+      "replacement": "- Your fatigue has been relieved.",
+      "severity": "critical",
+      "source": "- 피로가 회복됩니다."
+    },
+    {
+      "chapter": 12,
+      "confidence": 0.99,
+      "current": "I launched into the form.",
+      "defect": "The translation omits that Taekyung begins the second form.",
+      "id": "R0012-01",
+      "rationale": "Here 이 is the Sino-Korean numeral “two,” following the earlier identification of 일 초식 as the first form; the number tracks his progression through the spear technique.",
+      "replacement": "I launched into the second form.",
+      "severity": "minor",
+      "source": "이 초식이 시작됐다."
+    },
+    {
+      "chapter": 13,
+      "confidence": 0.96,
+      "current": "“Is it true that you tried to rape the daughter of the Mount Heng Sword Sect?”",
+      "defect": "The translation turns a woman affiliated with the sect into the sect’s literal “daughter” and makes the source’s euphemistic allegation more explicit.",
+      "id": "R0013-01",
+      "rationale": "항산검문의 여식 identifies the alleged victim as a woman of the Mount Heng Sword Sect, while 범하려 한 uses the euphemistic “tried to violate”; the replacement preserves both the relationship and degree of explicitness.",
+      "replacement": "“Is it true that you tried to violate a woman of the Mount Heng Sword Sect?”",
+      "severity": "critical",
+      "source": "“항산검문의 여식을 범하려 한 것이 사실입니까?”"
+    },
+    {
+      "chapter": 13,
+      "confidence": 0.99,
+      "current": "*Attempted rape?*",
+      "defect": "The translation narrows the allegation from attempted sexual assault to attempted rape.",
+      "id": "R0013-02",
+      "rationale": "성폭행 denotes sexual assault and does not by itself specify the narrower offense of rape.",
+      "replacement": "*Attempted sexual assault?*",
+      "severity": "major",
+      "source": "‘성폭행 미수?’"
+    },
+    {
+      "chapter": 13,
+      "confidence": 0.96,
+      "current": "They all said roughly the same thing: Jin Taekyung had gotten thoroughly drunk, gone to the wrong room, and found that the room belonged to the daughter of the Mount Heng Sword Sect.",
+      "defect": "The witness-summary passage again changes a woman of the sect into the sect’s literal daughter.",
+      "id": "R0013-03",
+      "rationale": "The source identifies the room’s occupant by her affiliation with the Mount Heng Sword Sect, not by assigning a literal parent-child relationship to the sect.",
+      "replacement": "They all said roughly the same thing: Jin Taekyung had gotten thoroughly drunk, gone to the wrong room, and found that the room belonged to a woman of the Mount Heng Sword Sect.",
+      "severity": "critical",
+      "source": "진태경이 거나하게 취해서 방을 잘못 찾았고, 그 방의 주인이 항산검문의 여식이었다는 것."
+    }
+  ],
+  "summary": "The block is generally faithful, but contains two omitted comic beats, several established-term mismatches, one reversed System effect, one omitted form number, and two places where the sexual-assault allegation is narrowed or its subject relationship is altered.",
+  "version": 1
+}
