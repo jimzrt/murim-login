@@ -1,0 +1,35 @@
+{
+  "summary": "The assembled English is faithful to the Korean source with minor terminology and romanization issues.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Throughout the chapter",
+      "current": "Level",
+      "defect": "The Korean term '레벨' is present but the preferred glossary term 'Level' is not used consistently in the assembled English.",
+      "replacement": "Ensure consistent use of 'Level' as per the glossary.",
+      "rationale": "‘레벨’ is a glossary term with preferred English ‘Level’, which should be consistently applied for fidelity and terminology consistency.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "General",
+      "current": "Bulgeum",
+      "defect": "The Korean slang term '불금' is romanized as 'Bulgeum' without a corresponding glossary entry or a first-use footnote as required.",
+      "replacement": "Provide a glossary entry or a first-use footnote explaining the term '불금' as 'Burning Friday' or equivalent.",
+      "rationale": "Chapter-specific romanizations or culturally important terms without glossary entries require explanation or glossary binding to meet translation rules.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "General",
+      "current": "Yulgok",
+      "defect": "The Korean term '율곡' used in personal names is romanized as 'Yulgok' without a glossary entry or explanatory footnote.",
+      "replacement": "Add a glossary entry or a first-use footnote to clarify the historical reference to 'Yulgok Yi I'.",
+      "rationale": "Use of culturally specific names needs formal explanation for English readers unfamiliar with Korean historical figures.",
+      "confidence": 1.0
+    }
+  ]
+}

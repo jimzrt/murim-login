@@ -58,7 +58,7 @@ Team Leader Choi thought it over before answering.
 
 The longer we talked, the more my gut burned and the back of my head throbbed, as if I were suffering an Internal Injury. I’d rather fight the monsters.
 
-As I took a long stride forward, Team Leader Choi tossed out a single line.
+As I strode forward, Team Leader Choi tossed out one last remark.
 
 “Retreat is another option.”
 
@@ -66,7 +66,7 @@ The man standing behind me with his arms folded so blood wouldn’t splatter on 
 
 The kind that made me want to hit him.
 
-And then…
+And yet…
 
 “Why bother when there’s a better way?”
 
@@ -126,9 +126,9 @@ Dozens of monsters, including the boss, had been slaughtered in an instant. All 
 
 It was a question he had carried since the day he first met Jin Taekyung.
 
-That day, they had gone to an E-rank Gate without much thought. There, Taekyung had overwhelmingly overpowered a Rare Monster that normally took a couple of C-rank Hunters to bring down.
+That day, they had entered an E-rank Gate without expecting much. There, Taekyung had completely overwhelmed a Rare Monster that normally would have taken two or three C-rank Hunters to bring down.
 
-And on top of that, the strength he had shown over the past few days was…
+And then there was the strength he had displayed over the past few days…
 
 *Calling him a C-rank Hunter is a joke.*
 
@@ -142,15 +142,13 @@ But then a thought occurred to him.
 
 *Could he be stronger than me…?*
 
-No. No.
-
-That was impossible.
+No. Impossible.
 
 Choi Minwoo forced the thought aside. Then Jin Taekyung caught his eye.
 
 He was clutching the boss monster’s corpse—its upper body completely gone—and wailing in grief.
 
-“No! My hide! This was expensive!”
+“No! The hide! This stuff is expensive!”
 
 ……There was no way a man like that could be.
 
@@ -242,7 +240,7 @@ Team Leader Choi furrowed his brow.
 
 “……”
 
-Team Leader Choi asked with a shocked look,
+Team Leader Choi stared at me in shock.
 
 “If you don’t take weekends off, when do you rest?”
 
@@ -304,7 +302,7 @@ I caught the words before they burst out of my throat. That was my secret—some
 
 Team Leader Choi paused before continuing.
 
-“Your family, perhaps.”
+“Your family.”
 
 Family.
 
@@ -324,7 +322,7 @@ So I’d had no choice but to keep my foot on the gas. It felt as though I’d r
 
 No.
 
-I couldn’t let myself get taken in by a little emotional appeal. Not after all the hell I’d gone through on my own.
+I couldn’t let myself be taken in by a little sentimentality. Not after all the hell I’d gone through on my own.
 
 *Team Leader Choi is an exploitative employer. An exploitative employer.*
 
@@ -348,7 +346,7 @@ At the exploitative employer’s command, Butler Kim held out the small box in h
 
 “Please take this, Hunter.”
 
-To me.
+He was offering it to me.
 
 “Huh? Me?”
 
@@ -370,7 +368,7 @@ I took the box, still dazed. It was heavy.
 
 “You said you preferred cash, Mr. Jin Taekyung. Especially crisp new bills.”
 
-I’d mentioned it in passing yesterday—or the day before. I hadn’t expected it to come back like this.
+I’d mentioned it in passing yesterday—or maybe the day before. I hadn’t expected anything to come of it.
 
 My opinion of the exploitative employer rose a little.
 
@@ -442,7 +440,7 @@ It contained a complete record of the past four days’ earnings.
 
 Right down to the final amount being paid to me.
 
-*The settlement says thirty million won?*
+*The settlement sheet says thirty million won.*
 
 What? Had I imagined it?
 

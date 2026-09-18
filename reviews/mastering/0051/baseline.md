@@ -106,7 +106,7 @@ My body was still shivering with exhilaration when—
 
 The Lizardman Great Chieftain charged with a roar. I thrust my spear toward the gigantic mace that cast a shadow over me.
 
-“One Flash.”
+“One Annihilation.”
 
 At the spearhead, a path through the wind opened.
 
@@ -424,7 +424,7 @@ A kindly smiling woman in a hanbok, right there on the bill.
 
 “Shin Saimdang! Wise mother and virtuous wife! Her son is Yulgok Yi I! Her husband is Yi Wonsu!”
 
-Dialect burst out of me before I knew it.
+I started speaking in tongues before I knew it.
 
 This was insane. Completely insane.
 

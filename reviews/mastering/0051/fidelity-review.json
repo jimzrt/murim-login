@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "Bulgeum",
+      "defect": "The Korean slang term '불금' is romanized as 'Bulgeum' without a corresponding glossary entry or a first-use footnote as required.",
+      "id": "F02",
+      "rationale": "Chapter-specific romanizations or culturally important terms without glossary entries require explanation or glossary binding to meet translation rules.",
+      "replacement": "Provide a glossary entry or a first-use footnote explaining the term '불금' as 'Burning Friday' or equivalent.",
+      "severity": "minor",
+      "source": "General"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Yulgok",
+      "defect": "The Korean term '율곡' used in personal names is romanized as 'Yulgok' without a glossary entry or explanatory footnote.",
+      "id": "F03",
+      "rationale": "Use of culturally specific names needs formal explanation for English readers unfamiliar with Korean historical figures.",
+      "replacement": "Add a glossary entry or a first-use footnote to clarify the historical reference to 'Yulgok Yi I'.",
+      "severity": "minor",
+      "source": "General"
+    }
+  ],
+  "summary": "The assembled English is faithful to the Korean source with minor terminology and romanization issues.",
+  "version": 1
+}
