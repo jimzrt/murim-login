@@ -121,6 +121,10 @@ def apply_review_replacements(text: str, review: dict) -> str:
                     matched_replacement = candidate_replacement
                     break
         if len(starts) != 1:
+            punctuation_only = old.replace("...", "…") == replacement
+            if punctuation_only and starts:
+                spans.extend((start, start + len(old), replacement, finding["id"]) for start in starts)
+                continue
             thought_formatting = (
                 old.startswith("“") and old.endswith("”")
                 and replacement == f"*{old[1:-1]}*"
