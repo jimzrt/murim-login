@@ -1,6 +1,13 @@
+import sys
 import unittest
+from unittest.mock import patch
 
 from tools import run_catchup
+
+
+def _patch_in_flight(chapter: int | None):
+    module = sys.modules[run_catchup.foreign_overlap_paths.__module__]
+    return patch.object(module, "incomplete_chapter", return_value=chapter)
 
 
 class RunCatchupTest(unittest.TestCase):
@@ -26,15 +33,39 @@ class RunCatchupTest(unittest.TestCase):
         self.assertFalse(run_catchup.catchup_owns_path("reviews/metrics/0180.json"))
 
     def test_classify_audit_paths_ignores_other_catchup_dirt(self):
-        allowed, unexpected = run_catchup.classify_audit_paths([
-            "translations/0012.md",
-            "reviews/retrofit/0009-0063/state.json",
-            "reviews/mastering/0002/sol.md",
-            "translations/0162.md",
-            "docs/STATE.md",
-        ])
+        with _patch_in_flight(None):
+            allowed, unexpected = run_catchup.classify_audit_paths([
+                "translations/0012.md",
+                "reviews/retrofit/0009-0063/state.json",
+                "reviews/mastering/0002/sol.md",
+                "translations/0162.md",
+                "docs/STATE.md",
+            ])
         self.assertEqual(allowed, ["translations/0012.md", "reviews/retrofit/0009-0063/state.json"])
         self.assertEqual(unexpected, ["docs/STATE.md"])
+
+    def test_classify_audit_paths_ignores_in_flight_translation(self):
+        with _patch_in_flight(370):
+            allowed, unexpected = run_catchup.classify_audit_paths([
+                "translations/0012.md",
+                "reviews/metrics/0370.json",
+                "docs/STATE.md",
+                "translations/0180.md",
+            ])
+        self.assertEqual(allowed, ["translations/0012.md"])
+        self.assertEqual(unexpected, ["translations/0180.md"])
+
+    def test_remaster_commit_ignores_in_flight_translation_metrics(self):
+        dirty = [
+            "translations/0015.md",
+            "reviews/mastering/0015/final.md",
+            "reviews/metrics/0015.json",
+            "reviews/metrics/0370.json",
+            "translations/0180.md",
+        ]
+        with _patch_in_flight(370):
+            unexpected = run_catchup.unexpected_catchup_paths(dirty, 15)
+        self.assertEqual(unexpected, ["translations/0180.md"])
 
     def test_should_run_phases(self):
         self.assertTrue(run_catchup.should_run("reset", "reset"))

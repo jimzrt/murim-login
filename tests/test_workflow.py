@@ -124,6 +124,68 @@ class WorkflowTest(unittest.TestCase):
         self.assertEqual(state["stage"], "COMMITTED")
         self.assertTrue(state["reconciled_legacy_acceptance"])
 
+    def test_unregistered_next_chapter_reopens_copied_commit(self):
+        (self.root / "docs" / "STATE.md").write_text(
+            "# Translation State\n\n- Last completed: 1\n- Next chapter: 2\n",
+            encoding="utf-8",
+        )
+        work = self.root / ".work" / "0002"
+        work.mkdir(parents=True)
+        (work / "workflow.json").write_text(
+            json.dumps({
+                "chapter": 2,
+                "stage": "COMMITTED",
+                "source_sha256": "source-hash",
+                "artifacts": {"commit": "copied"},
+            }),
+            encoding="utf-8",
+        )
+        (self.root / "translations").mkdir(exist_ok=True)
+        (self.root / "translations" / "0002.md").write_text("# Chapter 2\n\nCopied.\n", encoding="utf-8")
+        state, _ = workflow.load(2)
+        self.assertEqual(state["stage"], "READY")
+        self.assertEqual(state["artifacts"], {})
+        recorded = json.loads((self.root / ".work" / "0002" / "workflow.json").read_text(encoding="utf-8"))
+        self.assertEqual(recorded["stage"], "READY")
+
+    def test_unregistered_next_reopens_even_if_source_hash_differs(self):
+        (self.root / "docs" / "STATE.md").write_text(
+            "# Translation State\n\n- Last completed: 1\n- Next chapter: 2\n",
+            encoding="utf-8",
+        )
+        work = self.root / ".work" / "0002"
+        work.mkdir(parents=True)
+        (work / "workflow.json").write_text(
+            json.dumps({
+                "chapter": 2,
+                "stage": "COMMITTED",
+                "source_sha256": "old-hash",
+                "artifacts": {},
+            }),
+            encoding="utf-8",
+        )
+        state, _ = workflow.load(2)
+        self.assertEqual(state["stage"], "READY")
+        self.assertEqual(state["source_sha256"], "source-hash")
+
+    def test_registered_committed_chapter_is_not_reopened(self):
+        (self.root / "docs" / "STATE.md").write_text(
+            "# Translation State\n\n- Last completed: 2\n- Next chapter: 3\n",
+            encoding="utf-8",
+        )
+        work = self.root / ".work" / "0002"
+        work.mkdir(parents=True)
+        original = {
+            "chapter": 2,
+            "stage": "COMMITTED",
+            "source_sha256": "source-hash",
+            "artifacts": {"commit": "kept"},
+        }
+        (work / "workflow.json").write_text(json.dumps(original), encoding="utf-8")
+        state, _ = workflow.load(2)
+        self.assertEqual(state["stage"], "COMMITTED")
+        self.assertEqual(state["artifacts"]["commit"], "kept")
+
     def test_reading_copy_rejects_hangul(self):
         path = self.root / "bad.md"
         path.write_text("# Chapter 2\n\n안녕\n", encoding="utf-8")

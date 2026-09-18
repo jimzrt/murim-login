@@ -181,12 +181,46 @@ def source_hash(number: int) -> str:
     return hashlib.sha256(source.encode("utf-8")).hexdigest()
 
 
+def translation_cursor() -> tuple[int | None, int | None]:
+    text = (ROOT / "docs" / "STATE.md").read_text(encoding="utf-8")
+    completed = re.search(r"^- Last completed:\s*(\d+)\s*$", text, re.MULTILINE)
+    nxt = re.search(r"^- Next chapter:\s*(\d+)\s*$", text, re.MULTILINE)
+    return (
+        int(completed.group(1)) if completed else None,
+        int(nxt.group(1)) if nxt else None,
+    )
+
+
+def unregistered_next_transaction(state: dict) -> bool:
+    number = state.get("chapter")
+    stage = state.get("stage")
+    if not isinstance(number, int):
+        return False
+    if stage not in {"COMMITTED", "MASTERED", "MASTERED_COMMITTED"}:
+        return False
+    last, nxt = translation_cursor()
+    return nxt == number and (last is None or last < number)
+
+
+def ready_transaction(number: int, source_sha256: str) -> dict:
+    return {
+        "version": 1,
+        "chapter": number,
+        "stage": "READY",
+        "source_sha256": source_sha256,
+        "artifacts": {},
+    }
+
+
 def load(number: int) -> tuple[dict, dict[str, Path]]:
     p = paths(number)
     current_source_hash = source_hash(number)
     if p["state"].exists():
         state = json.loads(p["state"].read_text(encoding="utf-8"))
-        if state.get("source_sha256") != current_source_hash:
+        if unregistered_next_transaction(state):
+            state = ready_transaction(number, current_source_hash)
+            atomic_json(p["state"], state)
+        elif state.get("source_sha256") != current_source_hash:
             raise SystemExit("source changed after this transaction began; stop for manual reconciliation")
     else:
         completed_match = re.search(
@@ -206,14 +240,9 @@ def load(number: int) -> tuple[dict, dict[str, Path]]:
         )
         if not already_accepted and next_match and number != int(next_match.group(1)):
             raise SystemExit(f"requested chapter {number} does not match docs/STATE.md next chapter {next_match.group(1)}")
-        state = {
-            "version": 1,
-            "chapter": number,
-            "stage": "COMMITTED" if already_accepted else "READY",
-            "source_sha256": current_source_hash,
-            "artifacts": {},
-        }
+        state = ready_transaction(number, current_source_hash)
         if already_accepted:
+            state["stage"] = "COMMITTED"
             state["artifacts"]["translation_sha256"] = digest(p["translation"])
             state["reconciled_legacy_acceptance"] = True
             state["artifacts"]["commit"] = "pre-controller checkpoint"
