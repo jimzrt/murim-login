@@ -1,16 +1,5 @@
 {
-  "findings": [
-    {
-      "confidence": 0.98,
-      "current": "There was not the slightest hesitation in his hand.",
-      "defect": "The pronoun can refer to Jeok Cheongang, the immediately preceding subject, rather than Jangcheon, whose hand killed the captive.",
-      "id": "F01",
-      "rationale": "The Korean describes Jangcheon’s unhesitating hand immediately after Jeok Cheongang watches the blood erupt. Naming Jangcheon preserves the action’s subject without ambiguity, as the baseline did.",
-      "replacement": "There was not the slightest hesitation in Jangcheon’s hand.",
-      "severity": "minor",
-      "source": "lines 343–345 / P163–P164"
-    }
-  ],
-  "summary": "Faithful overall, with one minor subject-clarity regression.",
+  "findings": [],
+  "summary": "The assembled English is faithful to the Korean source. No fidelity defects were found.",
   "version": 1
 }

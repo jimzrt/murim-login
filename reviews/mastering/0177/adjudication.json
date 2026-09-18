@@ -2,132 +2,664 @@
   "chapter": 177,
   "decisions": [
     {
-      "decision": "BASE",
+      "decision": "SOL",
       "hunk_id": "H001",
-      "reason": "Straight vs curly apostrophe only; the lines are otherwise identical, so BASE stands."
+      "reason": "SOL preserves the meaning and uses the project's typographic convention."
     },
     {
       "decision": "SOL",
       "hunk_id": "H002",
-      "reason": "Drops the tautological 'to conceal it'; a veil laid over the truth already carries 위장을 위해."
+      "reason": "SOL keeps the trust, familial bond, and blood-scent imagery while improving the cadence."
     },
     {
-      "decision": "BASE",
+      "decision": "SOL",
       "hunk_id": "H003",
-      "reason": "The Korean pause sits after 기루, not before it; SOL makes him hesitate to name the place."
+      "reason": "SOL preserves the reddish, drunken appearance and the implied second cause."
     },
     {
-      "decision": "BASE",
+      "decision": "SOL",
       "hunk_id": "H004",
-      "reason": "넉살 좋은 is glib, thick-faced affability; brazen restates 아무렇지 않게 and loses that manner."
+      "reason": "SOL keeps the speaker's embarrassment and apology in natural dialogue."
     },
     {
       "decision": "SOL",
       "hunk_id": "H005",
-      "reason": "천인공노 is heaven and man, not heaven and earth; 'would enrage' matches the attributive idiom."
+      "reason": "SOL keeps the implied subject clear and preserves the concealing-veil image."
     },
     {
       "decision": "SOL",
       "hunk_id": "H006",
-      "reason": "Preserves 듣고 있던 as a prior ongoing relative clause instead of a sequential 'listened and asked.'"
+      "reason": "SOL retains the blood, death, killer, and Great Faction War imagery in sharper prose."
     },
     {
       "decision": "SOL",
       "hunk_id": "H007",
-      "reason": "노쇠한 names an aged voice, not a weary old man added as subject."
+      "reason": "SOL preserves the euphemistic sexual meaning while keeping the dialogue natural."
     },
     {
-      "decision": "REPAIR",
+      "decision": "SOL",
       "hunk_id": "H008",
-      "reason": "BASE invents 'weight'; SOL's 'buried' is the wrong 묻다. 켜켜이 묻어 있다 is years layered on the hands.",
-      "replacement": "Jeok Cheongang looked down at his hands. The hands covered in age spots and wrinkles bore the years in layer upon layer."
+      "reason": "SOL keeps the long absence and complete change in a natural sentence."
     },
     {
       "decision": "SOL",
       "hunk_id": "H009",
-      "reason": "말했다 and 기가 찬다 are a dumbfounded spoken line, not a silent stare of disbelief."
-    },
-    {
-      "decision": "REPAIR",
-      "hunk_id": "H010",
-      "reason": "Glossary requires Third Rate; SOL's lowercase third-rate breaks it, while 'bloated with fat' is the better rendering of 피둥피둥.",
-      "replacement": "“It’s been a long time since I came down here, and all kinds of people are running wild. Wandering martial artists swaggering around because they know a few Third Rate martial arts, merchants bloated with fat, and women whose only property they can sell is their own bodies. What a madhouse.”"
+      "reason": "SOL preserves the contrast between the former boy and the unconcerned killer."
     },
     {
       "decision": "SOL",
+      "hunk_id": "H010",
+      "reason": "SOL keeps the waiting and makes the implied addressee explicit without changing the sense."
+    },
+    {
+      "decision": "BASE",
       "hunk_id": "H011",
-      "reason": "Restores the dismissive force of 고작 that BASE leaves out."
+      "reason": "Terminology veto: the glossary-established attribute must remain “Sinews and Meridians,” not SOL’s lower-case synonym."
     },
     {
       "decision": "SOL",
       "hunk_id": "H012",
-      "reason": "악덕 상인 and 고혈을 빨아먹다 are wicked merchants who sucked lifeblood, not corrupt ones who preyed."
+      "reason": "SOL keeps the warm but restrained response; “very” is not required by the source."
     },
     {
-      "decision": "BASE",
+      "decision": "SOL",
       "hunk_id": "H013",
-      "reason": "비슷한 처지 is a similar plight; 'no better off' recasts the parallel as a welfare comparison."
+      "reason": "SOL preserves the lack of anger and betrayal and the choking emotional reaction."
     },
     {
-      "decision": "BASE",
+      "decision": "SOL",
       "hunk_id": "H014",
-      "reason": "방관 is leaving him unsupervised, not merely paying him no mind."
+      "reason": "SOL keeps Jin Taekyung’s disbelief while naturally setting up his question."
     },
     {
-      "decision": "BASE",
+      "decision": "SOL",
       "hunk_id": "H015",
-      "reason": "휘몰아쳤다 is a storming sweep, not a surge."
+      "reason": "SOL retains the accusation that Jeok knew Jopil was lying."
     },
     {
       "decision": "SOL",
       "hunk_id": "H016",
-      "reason": "Restores the hanging contrast of 였건만 that BASE drops before he grit his teeth."
+      "reason": "SOL preserves the weary continuation of the old man’s speech."
     },
     {
       "decision": "SOL",
       "hunk_id": "H017",
-      "reason": "Restores 촤아아악; BASE keeps only 서걱."
+      "reason": "SOL conveys the same earliest-memory timeframe in idiomatic English."
     },
     {
       "decision": "SOL",
       "hunk_id": "H018",
-      "reason": "The source names only 손속, not Jangcheon, and the tighter sentence matches the cinematic beat."
+      "reason": "SOL preserves the aged hands and layered-years image in more readable prose."
     },
     {
       "decision": "SOL",
       "hunk_id": "H019",
-      "reason": "Keeps 면벽 수련 as face-the-wall meditation, consistent with the earlier line, instead of merely facing a wall."
+      "reason": "SOL keeps the childhood affection for harsh training and the Master's unique importance."
     },
     {
       "decision": "SOL",
       "hunk_id": "H020",
-      "reason": "피가 배어 나오도록 does not specify the palm."
+      "reason": "SOL preserves the brief relationship, renewed isolation, and slowly numbed loneliness."
     },
     {
-      "decision": "BASE",
+      "decision": "SOL",
       "hunk_id": "H021",
-      "reason": "안심했습니다 is past; present 'I'm relieved' shifts the answer off the reported feeling."
+      "reason": "SOL retains the child, marketplace, dumpling, and desperate struggle."
     },
     {
-      "decision": "REPAIR",
+      "decision": "SOL",
       "hunk_id": "H022",
-      "reason": "BASE adds a separate 'would be fatal'; SOL's 'it' has no shatterable subject. Keep 아무리 적은 양이라지만 with the vial breaking.",
-      "replacement": "However small the amount, if the vial shattered inside his mouth, not even a celestial immortal could save him."
+      "reason": "SOL keeps the past transition in Jangcheon’s status with natural tense."
     },
     {
       "decision": "SOL",
       "hunk_id": "H023",
-      "reason": "The unquoted 죽이십시오 belongs with the following sentence, not as its own paragraph."
+      "reason": "SOL preserves the son-and-grandson relationship and affection beyond blood."
     },
     {
       "decision": "SOL",
       "hunk_id": "H024",
-      "reason": "Matches the source's single-line echo plus 'those were his Disciple's final words.'"
+      "reason": "SOL keeps the severity and the determination to stop him by some means."
     },
     {
       "decision": "SOL",
       "hunk_id": "H025",
-      "reason": "Restores 겨울밤; BASE keeps only the night before New Year's Day."
+      "reason": "SOL preserves the intended sequencing and the desire to witness the atrocities personally."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H026",
+      "reason": "Subject/causal-detail veto: SOL makes the Sword King personally possess “all the evidence he needed,” while the source says the visit indicated that all evidence was in place."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H027",
+      "reason": "SOL keeps the secrecy and follows the source’s meaning in smoother English."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H028",
+      "reason": "SOL preserves the Peak-realm threshold and the ease of evading Jangcheon."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H029",
+      "reason": "SOL keeps the despair fading with each successive pursuit."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H030",
+      "reason": "SOL preserves the double life, pleasure-house visits, drinking, and return to diligent training."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H031",
+      "reason": "SOL keeps the judgment that nothing appeared wrong."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H032",
+      "reason": "SOL preserves the sudden doubt and the possibility that the Nangong Family had misjudged him."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H033",
+      "reason": "SOL keeps Jin Taekyung’s incredulous reaction."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H034",
+      "reason": "Dialogue-meaning veto: “I was” is an awkward incomplete admission; the source directly says “I did.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H035",
+      "reason": "SOL preserves the question about personally confirming the truth."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H036",
+      "reason": "SOL retains the bottle drinking and avoids unnecessary motion detail."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H037",
+      "reason": "SOL preserves the blurred ceiling and the vivid return of the memory."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H038",
+      "reason": "Sound/action veto: “Shnk” suggests slicing or unsheathing, while the Korean is the repeated impact of stabbing; BASE preserves that impact."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H039",
+      "reason": "SOL keeps the oppressive darkness, groans, and spurting blood."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H040",
+      "reason": "Action-detail veto: SOL drops the repeated prodding and changes the observed back of the masked man into a simpler dagger-in description."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H041",
+      "reason": "SOL preserves the frozen hand, turning motion, and meeting gazes."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H042",
+      "reason": "SOL keeps the crescent-shaped eyes while reading naturally in English."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H043",
+      "reason": "SOL preserves the dismissive rhetorical reply in more spontaneous dialogue."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H044",
+      "reason": "Added-action veto: “again” adds an explicit second stabbing that is not stated in this line."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H045",
+      "reason": "Sound/action veto: “Shnk” suggests slicing, while BASE preserves the repeated stabbing impact."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H046",
+      "reason": "SOL keeps the dismissive refusal and sounds natural in the exchange."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H047",
+      "reason": "Denotation veto: SOL changes physically fat merchants into merchants fat from profits and upgrades ordinary pejorative “people” to “vermin.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H048",
+      "reason": "SOL preserves the unnervingly white smile in concise, idiomatic prose."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H049",
+      "reason": "Agency veto: SOL changes Jangcheon killing one such person into someone like him merely dying."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H050",
+      "reason": "SOL keeps the dreamlike shock and hope vanishing like a bubble."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H051",
+      "reason": "SOL preserves the distressed question without changing its force."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H052",
+      "reason": "SOL keeps the excited vocal manner in a natural narrative modifier."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H053",
+      "reason": "SOL preserves the correction from Murim to the entire world and the weak-versus-strong claim."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H054",
+      "reason": "SOL retains the accusation that the killings had no justification beyond strength."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H055",
+      "reason": "SOL preserves the sharper rhetorical challenge about knowing their innocence."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H056",
+      "reason": "SOL keeps the question about what crimes the victims committed."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H057",
+      "reason": "SOL makes the implied subject explicit without changing Jeok Cheongang’s wish."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H058",
+      "reason": "SOL preserves the corrupt merchants, murderous ruffians, and ox-like commoners with vivid natural phrasing."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H059",
+      "reason": "SOL keeps the claim that the man was unlucky in exactly the same way."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H060",
+      "reason": "SOL preserves Jeok Cheongang’s disorientation and the world receding from him."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H061",
+      "reason": "SOL keeps the familial affection and irreversible crossing image."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H062",
+      "reason": "SOL preserves the far-bank metaphor and life as a blood-soaked killer."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H063",
+      "reason": "SOL keeps the visual overlap between the scrawny child and blood-drenched young man."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H064",
+      "reason": "SOL preserves the anguished question in idiomatic English."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H065",
+      "reason": "SOL keeps the challenge about the weak dying to the strong and the forgotten past self."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H066",
+      "reason": "SOL preserves the gentle interruption and reads naturally as action."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H067",
+      "reason": "Terminology/characterization veto: SOL drops the established address “Master” and weakens the explicit first-time contrast."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H068",
+      "reason": "SOL preserves the remembered day, hunger, dirt-covered dumpling, and repeated forced eating."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H069",
+      "reason": "SOL keeps the twisted-mouth image without changing the action."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H070",
+      "reason": "SOL’s separated names sharpen the ominous rhythm without changing the names or meaning."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H071",
+      "reason": "SOL preserves the three youths, the fifteen total, and the deaths of the rest."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H072",
+      "reason": "SOL keeps the names emerging from the Disciple’s speech in vivid natural prose."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H073",
+      "reason": "SOL preserves the deaths and tremendous suffering while maintaining the grim tone."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H074",
+      "reason": "SOL preserves the vow and uses italics to distinguish the recited realization within the speech."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H075",
+      "reason": "SOL keeps the chilling recitation and Jeok Cheongang’s moment of understanding."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H076",
+      "reason": "SOL preserves the white teeth and giggling in the darkness."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H077",
+      "reason": "SOL keeps the progression from pleading to cries for death and the persistent emptiness."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H078",
+      "reason": "SOL preserves the certainty of the Slaughter Saint diagnosis through natural English inference."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H079",
+      "reason": "SOL keeps murder as the sole remedy and the lifelong prediction of killing."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H080",
+      "reason": "SOL preserves the training-related neglect and its causal opportunity for Jangcheon."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H081",
+      "reason": "Repetition/image veto: SOL removes the repeated desire to cover his ears and replaces the memory branded in his mind with “words.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H082",
+      "reason": "SOL preserves the rage, betrayal, and familial way Jeok raised the Disciple."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H083",
+      "reason": "SOL keeps the remaining affection as the deepest source of torment."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H084",
+      "reason": "SOL preserves the four-month discovery, changed behavior, and realization that he was exposed."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H085",
+      "reason": "SOL keeps the trust-based deduction and identification of the Nangong Family."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H086",
+      "reason": "SOL preserves the overwhelming qi wave sweeping violently through the alley."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H087",
+      "reason": "SOL keeps Jangcheon’s widened eyes at his Master’s unprecedented fury."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H088",
+      "reason": "SOL preserves the furious challenge about understanding what he did."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H089",
+      "reason": "SOL keeps Jangcheon’s minimizing description and fear of being cast aside."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H090",
+      "reason": "SOL preserves the repeated incredulous challenge with natural word choice."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H091",
+      "reason": "SOL keeps the father claim and the appeal for understanding."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H092",
+      "reason": "SOL correctly presents the isolated internal word as italicized thought."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H093",
+      "reason": "SOL preserves the desperate importance of the word “Father.”"
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H094",
+      "reason": "Tense/action veto: SOL changes the present challenge “why don’t you strike me now?” into why he has not struck him yet."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H095",
+      "reason": "SOL keeps the inability to answer, the truth of Jangcheon’s words, and deliberate denial."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H096",
+      "reason": "SOL preserves that he wanted to believe in his Disciple regardless of the cost."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H097",
+      "reason": "SOL keeps the long silence before Jeok Cheongang finally speaks."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H098",
+      "reason": "Terminology veto: the glossary-established “Sinews and Meridians” rendering must retain its capitalization."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H099",
+      "reason": "Terminology veto: the repeated glossary term must remain “Sinews and Meridians.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H100",
+      "reason": "SOL preserves the dantian impairment and lifelong repentance for the crimes."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H101",
+      "reason": "SOL keeps face-the-wall meditation until death in natural spoken English."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H102",
+      "reason": "SOL preserves the sect-rule challenge and immediate-execution implication."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H103",
+      "reason": "SOL keeps the final mercy and the command to release the victim and step away."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H104",
+      "reason": "SOL preserves the absent-minded blink and forgotten detail."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H105",
+      "reason": "SOL keeps the blood-soaked victim and his labored breathing."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H106",
+      "reason": "SOL preserves the sudden recollection of the victim in more natural dialogue."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H107",
+      "reason": "SOL keeps the fountain image and violent blood eruption."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H108",
+      "reason": "SOL preserves Jeok Cheongang’s trembling, fixed attention on the blood."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H109",
+      "reason": "SOL keeps the hesitationless cut, convulsions, and death."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H110",
+      "reason": "Tense/physical-state veto: the source says it is already too late and the man would remain crippled; SOL shifts this into past tense and “a cripple.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H111",
+      "reason": "SOL preserves the claim that the child was always exactly as understood."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H112",
+      "reason": "SOL keeps the fear of lifelong wall-facing punishment."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H113",
+      "reason": "SOL preserves the faint fear visible on the Disciple’s face."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H114",
+      "reason": "SOL keeps the one-move possibility while sharpening the dramatic rhythm."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H115",
+      "reason": "Terminology veto: the glossary-established “Sinews and Meridians” must retain its capitalization."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H116",
+      "reason": "SOL preserves the pointlessness of the answer and Jeok Cheongang’s need to hear it."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H117",
+      "reason": "SOL keeps the immediate disappearance of fear from Jangcheon’s face."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H118",
+      "reason": "Tense/meaning veto: the source’s past “I was relieved” describes his relief at the discovery; SOL changes it to present relief."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H119",
+      "reason": "SOL preserves the rhetorical explanation for performing the act before his Master."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H120",
+      "reason": "SOL keeps Jangcheon’s relaxed, composed expression and the reflection in Jeok Cheongang’s eyes."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H121",
+      "reason": "Quantity/contrast veto: SOL loses the source’s escalation from dozens to hundreds by recasting it as an either-or comparison."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H122",
+      "reason": "SOL preserves the request for clarification in natural dialogue."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H123",
+      "reason": "Denotation veto: the source says fathers blame their children for faults; SOL’s “condemn” changes that relationship and intensity."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H124",
+      "reason": "SOL preserves the child-versus-Disciple relationship, attempted rescue, and single survival path."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H125",
+      "reason": "SOL keeps Jeok Cheongang frozen and Jangcheon’s sincere deep bow."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H126",
+      "reason": "Physical-action veto: “clenched” implies biting or gripping with the teeth, while the source only says the vial was held between his lips."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H127",
+      "reason": "Denotation veto: “celestial immortal” preserves the specific legendary category in 대라신선; “greatest immortal” generalizes it."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H128",
+      "reason": "SOL preserves the furious roar without changing its intensity."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H129",
+      "reason": "Timing/detail veto: SOL drops “the bow I just gave you,” which makes the farewell specifically immediate and referential."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H130",
+      "reason": "SOL preserves the blurry ceiling, elapsed time, and tear-like moisture on his cheek."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H131",
+      "reason": "Physical-cause veto: the source says rain is leaking through, while SOL changes the stated cause to a leaking roof."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H132",
+      "reason": "SOL preserves both the winter-night setting and the timing one day before New Year’s Day."
     }
   ],
   "version": 1
