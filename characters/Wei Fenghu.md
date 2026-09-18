@@ -1,6 +1,6 @@
 # Wei Fenghu (웨이펑후)
 
-- **Safe through:** Chapter 388
+- **Safe through:** Chapter 395
 - **Aliases:** None
 - **Role:** Wei Fenghu is the Minister of National Defense under China's Central Military Commission and a four-star general.
 - **Personality:** Courteous, reserved, and authoritative.
