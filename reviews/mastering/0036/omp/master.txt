@@ -44,7 +44,7 @@ And so an entire day slipped helplessly away. Today was the long-awaited departu
 
 “Fuck…”
 
-As I muttered the curse under my breath, Jin Wikyung was climbing onto the platform.
+As I muttered the curse under my breath, Jin Wikyung climbed onto the platform.
 
 Hundreds of pairs of eyes followed him. The martial artists of the Jin Family of Taiyuan and those from the small and mid-sized sects that had recently joined us stood in formation across the Grand Training Ground, more than five hundred strong.
 
@@ -66,7 +66,7 @@ Silence descended in an instant. But Jin Wikyung wasn’t foolish enough to crus
 
 His usual good-natured smile was nowhere to be seen. The Jin Wikyung standing before us was both a Peak martial artist and the head of the Jin Family of Taiyuan.
 
-“They are nothing but jackals with numbers on their side. That man’s rabble—wandering martial artists blinded by gold, and a pack of mounted bandits who have plundered the common people!”
+“They are nothing but jackals with numbers on their side. Rabble from the streets, wandering martial artists blinded by gold, and packs of mounted bandits who prey on innocent people!”
 
 The air crackled beneath his fiery shout. For that moment, even I felt my blood begin to boil.
 
@@ -80,7 +80,7 @@ That was why the small and mid-sized sects of Shanxi Province, which had only wa
 
 “This war will be over within three days.”
 
-Fifteen hundred martial artists would clash at the same hour on the same day.
+Fifteen hundred martial artists would clash at the same time on the same day.
 
 It would be a hellish battle of killing and being killed.
 
@@ -158,7 +158,7 @@ Then he added, “They wouldn’t take me, though.”
 
 “I told the physician, and he got angry and asked if I was out of my mind and trying to get myself killed. So I snuck out.”
 
-I spoke seriously.
+I looked him dead in the eye.
 
 “Are you out of your mind and trying to get yourself killed?”
 
@@ -260,7 +260,7 @@ I followed Jin Wikyung to a secluded corner. He spoke first.
 
 “Good.”
 
-I’d gotten full use out of the level-up. My body had recovered at a terrifying speed, and distributing my points had made it even stronger.
+The level-up had done its job. My body had recovered at a frightening speed, and allocating my points had made it even stronger.
 
 The problem lay elsewhere.
 
@@ -284,7 +284,7 @@ His eyes widened at my blunt request.
 
 I was proud of myself. To think I could deliver a line like that—a lie like that—with a straight face.
 
-“I-is that truly what you think?”
+“I-is that truly what you want?”
 
 “Yes.”
 
@@ -308,7 +308,7 @@ Jin Wikyung wiped the damp corners of his eyes with his sleeve and continued.
 
 “But no.”
 
-“Then a reconnaissance mission for me, please?”
+“Then please give me a reconnaissance mission—what?”
 
 “I appreciate the thought. Continue guarding the rear.”
 
@@ -364,10 +364,10 @@ After a long pause, he forced out a single word.
 
 I was speechless. For a long time, all I could do was stare at his face.
 
-Survive. Become roots.
+Survive. Become a root.
 
 His voice and gaze carried a gravity that struck me more deeply than ever before.
 
 “That is your mission.”
 
-The palm resting on my shoulder slid slowly down. I stared after Jin Wikyung’s departing back, unable to look away.
+The hand resting on my shoulder slowly slipped away. I watched Jin Wikyung’s retreating back for a long time, unable to tear my eyes away.

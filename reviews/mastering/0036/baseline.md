@@ -44,7 +44,7 @@ And so the day slipped away, and there was nothing I could do about it. Today wa
 
 As I muttered the curse under my breath, Jin Wikyung was climbing onto the platform.
 
-Hundreds of pairs of eyes followed him. Martial artists of the Jin Family of Taiyuan, and martial artists from the small and mid-sized sects that had newly joined us. More than five hundred martial artists stood in formation across the main training ground.
+Hundreds of pairs of eyes followed him. Martial artists of the Jin Family of Taiyuan, and martial artists from the small and mid-sized sects that had newly joined us. More than five hundred martial artists stood in formation across the Grand Training Ground.
 
 Boom. Boom. Boom.
 
@@ -102,7 +102,7 @@ The five hundred troops were divided into vanguard, center, and rear guard. Most
 
 Some of the faces were fairly familiar.
 
-“Squad Leader!”
+“Captain!”
 
 They were members of the reconnaissance squad. Half pleased and half puzzled, I asked,
 
@@ -128,7 +128,7 @@ I smiled at the eight reconnaissance-squad members. Then a thought suddenly stru
 
 Eight? Had I counted wrong?
 
-I started counting again from the end, one person at a time. Not counting me, there were eight. Han Yeop had serious injuries, so he obviously couldn’t have come—but Hyuk Mujin had snuck out to join us.
+I started counting again from the end, one person at a time. There had originally been nine of them, excluding me. Hyuk Mujin and Han Yeop were both seriously injured, so neither should have been here. That meant there should have been seven, but…
 
 “…What are you doing here?”
 
