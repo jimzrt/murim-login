@@ -78,9 +78,9 @@ Bzzzt.
 
 A text arrived on my phone.
 
-〈 Luxury Nutjob
+〈 Designer-Brand Junkie
 
-Luxury Nutjob
+Designer-Brand Junkie
 
 Do you have some time?
 
@@ -166,11 +166,11 @@ Even I had never seen a contract this generous.
 
 “Then why are you offering this to me…?”
 
-“Because they trust me.”
+“Because I trust myself.”
 
 “What?”
 
-“They trust my instincts, and they trust my eye for people. That’s why I want to hold on to Jin Taekyung.”
+“I trust my instincts and my eye for people. That’s why I want to sign you, Mr. Jin Taekyung.”
 
 Team Leader Choi set down his empty cup.
 

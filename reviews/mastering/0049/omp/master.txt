@@ -2,7 +2,7 @@
 
 Early morning.
 
-I eased my eyes open.
+I slowly opened my eyes.
 
 Ding.
 
@@ -10,7 +10,7 @@ Ding.
 >
 > Exiting Sleep Mode.
 
-The System notification came with a sigh of relief.
+The System notification drew a sigh of relief from me.
 
 “Phew.”
 
@@ -18,7 +18,7 @@ Thank goodness. It hadn’t all been a dream.
 
 It had only been one day, but yesterday had changed my life. If I’d woken up as Jin Taekyung, F-rank Hunter, reality would have felt like a nightmare.
 
-I rustled my way up—and that was when it hit.
+I was sitting up when—
 
 > **System**
 >
@@ -38,7 +38,7 @@ Following the formula of the Jin Family’s Cultivation Technique, I guided my i
 
 > **System**
 >
-> Hangover disappears.
+> **Hangover** has disappeared.
 
 But I didn’t stop. I knew that ending the circulation abruptly midway would make it less effective.
 
@@ -70,9 +70,9 @@ Despite being the goshiwon manager, Jinho was always questioning what this place
 
 …You had to give him credit for his imagination.
 
-*He should be sleeping by now, right?*
+*He should be asleep right now.*
 
-He treated getting up in the morning as a disgrace, so there was no need to check. I was wondering whether to go grab breakfast when—
+He considered waking up in the morning a disgrace, so there was no need to check. I was wondering whether to go grab breakfast when—
 
 Bzzzt.
 
@@ -94,7 +94,7 @@ I couldn’t tell whether our meeting place was a café or a high-end restaurant
 
 “May I take your order?”
 
-*Shit. Even the waiter here looks like a celebrity.*
+*Shit. Even the waiters here look like celebrities.*
 
 He had a model’s proportions and the face of a handsome Greek god.
 
@@ -118,7 +118,7 @@ The coffee that arrived a little later was decent enough.
 
 Even after hearing the name again, I still had no idea what it meant. I just accepted it and moved on.
 
-I muttered my honest take.
+I gave my honest opinion.
 
 “It looks expensive. Do they use good beans?”
 
@@ -134,7 +134,7 @@ The congratulations came out of nowhere, but I immediately understood what he me
 
 He was talking about yesterday’s rank reassessment.
 
-“You’re fast. It’s personal information—the Association wouldn’t have opened all of it.”
+“You work fast. It’s personal information, so the Association wouldn’t have disclosed all the details.”
 
 “C-rank reawakened Hunters are rare. Besides, I saw what happened yesterday with my own eyes. How could I not know?”
 
@@ -148,7 +148,7 @@ As I nodded, Team Leader Choi held something out to me. A single envelope lay ne
 
 *Don’t tell me—money?*
 
-I checked the contents. Instead of a check, tiny printed letters packed the page.
+I checked the contents. Instead of a check, I found pages packed with tiny print.
 
 “It’s a contract.”
 
@@ -162,7 +162,7 @@ After seven years in this business, I’d seen plenty and heard even more.
 
 Yet even I had never seen a contract this generous.
 
-“They’re good terms even among B-rank contracts.”
+“They’re good terms even for a B-rank Hunter.”
 
 “Then why offer them to me…?”
 
@@ -176,9 +176,9 @@ Team Leader Choi set down his empty cup.
 
 “Will you sign?”
 
-Honestly, I was wavering. A lot.
+Honestly, I was tempted. Very tempted.
 
-It wasn’t only the terms. Someone had recognized me and wanted me this badly. I wanted to nod right then.
+Even apart from the terms, someone had recognized my worth and wanted me this badly. It made me want to nod on the spot.
 
 That was why I hesitated longer today than I had yesterday. By the time I finally made my decision, the coffee had gone cold.
 
@@ -188,13 +188,13 @@ My reason was the same as yesterday.
 
 Under the contract, I would have to work as a Hunter affiliated with the Guild for at least one year.
 
-I was grateful for the offer, but… I couldn’t rush this.
+I appreciated the offer, but… I couldn’t afford to rush into this.
 
 “Have you already signed with someone else? Or are you planning to?”
 
 “No. I just need more time.”
 
-“Time.”
+“Time…”
 
 Team Leader Choi sighed.
 
@@ -210,11 +210,11 @@ Team Leader Choi pulled another envelope from his jacket. Still dazed, I took it
 
 “A provisional contract?”
 
-“You have a rough idea of what that is, right?”
+“You have a rough idea what that is, right?”
 
 Of course I did. I knew it well.
 
-If the Manpower Office was day labor, a provisional contract with a Guild was temp work. You’d be attached to the Guild for a short stretch, basically a mercenary.
+If the Hunter Manpower Office was day labor, a provisional contract with a Guild was temp work. You joined the Guild for a short period and worked as a kind of mercenary.
 
 “You won’t turn this one down too, will you?”
 
@@ -226,7 +226,7 @@ It wasn’t quite as generous as the formal contract, but the terms were still e
 
 I took the pen he offered, still somewhat dazed.
 
-After thinking it over, I wrote seven days. A week should be enough time to see whether the System would last.
+After thinking it over, I wrote down seven days. A week should be long enough to see whether the System remained.
 
 Once I’d signed, Team Leader Choi held out his hand.
 
@@ -246,13 +246,13 @@ My chest swelled with emotion.
 
 Team Leader Choi tapped his watch.
 
-“Starting now.”
+“You start now.”
 
 * * *
 
 Vroom.
 
-Team Leader Choi’s car was a large military vehicle. He looked like the type to collect expensive supercars, so this was unexpected. I only understood why after we arrived at the Gate.
+Team Leader Choi drove a large military vehicle. He looked like the type to collect expensive supercars, so the choice surprised me. I didn’t understand it until we arrived at the Gate.
 
 “Pick something.”
 
@@ -260,9 +260,9 @@ Team Leader Choi’s car was a large military vehicle. He looked like the type t
 
 “Equipment.”
 
-Team Leader Choi pressed a small button, and a trunk large enough for five grown men to lie down in appeared.
+Team Leader Choi pressed a small button, revealing a trunk large enough for five grown men to lie down inside.
 
-“I had it modified for work. Leaving all this at home felt kind of off.”
+“I had it modified for work. It seemed wasteful to leave all this at home.”
 
 I stared into the trunk with my mouth hanging open.
 
@@ -278,7 +278,7 @@ Ah. So he bought equipment because it looked nice.
 
 *How rich do you have to be to think like that?*
 
-C-rank Hunters made good money, but Team Leader Choi’s spending was already beyond that. He must have been rich enough that money was never a concern.
+C-rank Hunters made good money, but Team Leader Choi’s spending was already far beyond that. He must have been rich enough that money had never been a concern.
 
 Gulp.
 
@@ -288,11 +288,11 @@ Gulp.
 
 Ah. So he even cared whether equipment was fashionable.
 
-I gave up thinking about it around there and picked my equipment.
+At that point, I gave up trying to understand and started choosing my gear.
 
 The System made the process easy.
 
-*Item check.*
+*Check Item.*
 
 Ding.
 
@@ -324,7 +324,7 @@ Green scales rose from the leather, forming a dense layer over my entire body. T
 
 “You picked a good one. You’ve got a good eye.”
 
-*It’s the System that’s good.*
+*The System’s the one with a good eye.*
 
 I smiled awkwardly and rummaged through the weapons. Come to think of it, I’d only ever seen Team Leader Choi use a sword, but there were more than five types of weapons in the trunk alone.
 
@@ -360,7 +360,7 @@ The spear completed my equipment selection. Team Leader Choi let out a short lau
 
 “You’ll find out soon enough.”
 
-I had no idea what he meant, but I followed him to the front of the Gate. Instead of an Administration staffer, some man was standing there.
+I had no idea what he meant, but I followed him to the Gate. Instead of an Administration employee, an unfamiliar man was waiting there.
 
 “You’ve arrived.”
 
@@ -368,7 +368,7 @@ He bowed at a perfect ninety-degree angle. Even more surprising was how naturall
 
 “How’s the Gate?”
 
-“Yes. I received your call yesterday and restricted access.”
+“I received your call yesterday and restricted access.”
 
 “Thank you for your hard work.”
 
@@ -406,7 +406,7 @@ There was me, Team Leader Choi, and the unfamiliar middle-aged man. That was eve
 
 “Oh, I see. He’s going in too, right?”
 
-The middle-aged man cut in, his voice heavy.
+The middle-aged man cut in, his voice deep.
 
 “I’m not.”
 
@@ -424,7 +424,7 @@ Team Leader Choi’s answer left me dumbfounded.
 
 “We’re not bringing so much as a dog.”
 
-Look at how decisive he was. Who was he, Pocheongcheon?[^2]
+Listen to how firm he was. Who did he think he was, Pocheongcheon?[^2]
 
 “So the two of us are clearing the Gate alone?”
 
@@ -432,7 +432,7 @@ Look at how decisive he was. Who was he, Pocheongcheon?[^2]
 
 “This is my first D-rank Gate.”
 
-“I’ve been to plenty.”
+“I’ve been through plenty.”
 
 No, fuck…
 
@@ -458,11 +458,11 @@ The odds were slim, but he could be even higher.
 
 *A B-rank Hunter.*
 
-If that was true, the situation changed. Just the two of us also meant a bigger cut for me.
+If that was true, it changed everything. And with only two of us, my share of the payout would be that much larger.
 
 “If you want to go back, I won’t stop you. I can go in alone. It wouldn’t be the first or second time.”
 
-He walked in and out of D-rank Gates alone on the regular?
+He regularly went into D-rank Gates alone?
 
 “Then take care. Starting tomorrow, we’ll look for E-rank Gates.”
 
