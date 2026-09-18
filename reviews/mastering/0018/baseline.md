@@ -6,7 +6,7 @@ The atmosphere grew worse by the second.
 
 “Fair? Since when is using poison considered fair? Is this the Sichuan Tang Clan or something?”
 
-“The man himself said he didn’t do it! And as the Medicine King Hall Leader said earlier, Lee Seogeun was perfectly fine—”
+“The man himself said he didn’t do it! And as the Medicine King Hall Master said earlier, Lee Seogeun was perfectly fine—”
 
 “Of course the Third Young Master would say he didn’t. And how can you believe that quack?”
 
@@ -80,7 +80,7 @@ The Head Elder.
 
 The Head Elder.
 
-A person to watch out for. The family’s highest-ranking elder and the head of the Elder Council.
+A person to watch out for. The family’s highest-ranking elder and the head of the Council of Elders.
 
 I remembered the Sound Transmission Jin Wikyung had sent me earlier.
 

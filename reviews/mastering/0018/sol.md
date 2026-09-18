@@ -38,7 +38,7 @@ Frost coated every clipped syllable. The atmosphere was so chilling that even I 
 
 “Why, obviously the Third Young Master, the chief culprit behind this—ah.”
 
-That bastard was bald, and he couldn’t read the room either. The White Tiger Hall Leader let his words trail off, but it was already too late.
+That bastard had no hair and no sense of danger, either. The White Tiger Hall Master trailed off, but it was already too late.
 
 “So you intend to offer the Third Young Master’s head to the Mount Heng Sword Sect over something that hasn’t even been confirmed? Is that something a hall master of this family should say?”
 
@@ -46,7 +46,7 @@ That bastard was bald, and he couldn’t read the room either. The White Tiger H
 
 Overwhelmed by Jin Wikyung’s aura, the White Tiger Hall Master avoided his gaze. Jin Wikyung stared silently at him.
 
-He wasn’t normally like this, which made him even scarier now that he was angry.
+He was usually so mild that seeing him angry made him even more frightening.
 
 The White Tiger Hall Master’s deathly pale face made me feel as though ten years of indigestion had finally cleared. Jin Wikyung rose from his seat and looked coldly over the gathering.
 
@@ -98,7 +98,7 @@ They each had their own expressions and personalities. The servant I met at the 
 
 But the Head Elder…
 
-*I can’t read his expression.*
+*I can’t read him.*
 
 He merely watched everything with that strange smile of his.
 
@@ -110,15 +110,15 @@ The Head Elder’s vigorous applause rang through the hall.
 
 “I had always thought of you as a mere youngster, but before I knew it, the Lesser Family Head had grown into such a commanding martial artist. Excellent. That is how the Lesser Family Head of our family should conduct himself.”
 
-“I can only apologize for showing you such an unseemly side.”
+“I can only apologize for showing you such an unseemly sight.”
 
 “Excessive humility can be mistaken for arrogance. You have nothing to apologize for.”
 
 Despite the Head Elder’s praise, Jin Wikyung’s expression remained stiff.
 
-“May this old man add a word? What do you think, Lesser Family Head?”
+“May this old man add a few words? What do you think, Lesser Family Head?”
 
-“I will take it to heart.”
+“I will take them to heart.”
 
 As the Head Elder slowly rose, dozens of pairs of eyes fixed on him.
 
@@ -140,7 +140,7 @@ I whipped my head around. The Head Elder still wore his usual strange smile.
 
 But I hadn’t.
 
-“Even beasts join forces and fight when an enemy enters their den. And yet men who are supposedly senior members of this family offer up the head of a direct-line member as a solution to stop a war. Heh. So men like this sit in our family council.”
+“Even beasts join forces to fight when an enemy enters their den. Yet men who call themselves senior members of this family propose offering up the head of a direct descendant to prevent a war. Heh. To think men like you sit on our family council.”
 
 “N-no, Head Elder. You misunderstand. It was merely…”
 
@@ -176,7 +176,7 @@ Considering that he’d just suggested offering up my head, I was a little disap
 
 *Should I suggest killing just him?*
 
-“Those men not only framed a direct-line member of the family, but even argued we should hand him over to the enemy. Don’t you think that is too lenient a response?”
+“Those men not only slandered a direct descendant of the family but argued that we should hand him over to the enemy. Don’t you think you’re being too lenient?”
 
 “They have served our family faithfully for many years. I will consider their words a thoughtless remark made in the heat of the moment.”
 
@@ -266,7 +266,7 @@ Just what I’d expect from an old, prestigious great family. Two hundred years 
 
 Three hundred. And that was the minimum, which put them more than a hundred men ahead.
 
-But it was fine. Fights came down to numbers anyway—
+But that was fine. Fights weren’t decided by numbers alone—
 
 “And they have more than fifty First Rate martial artists.”
 
@@ -282,7 +282,7 @@ Still, with masters like Jin Wikyung and Wipeng, we had a chance. They were high
 
 What the hell had these bastards been doing for two hundred years? From what I’d heard, the Mount Heng Sword Sect hadn’t even existed for thirty, yet their forces didn’t merely outmatch ours.
 
-We were being steamrolled. Steamrolled.
+They crushed us. Completely.
 
 *Did the Black Death sweep through here last year or something?*
 
@@ -298,7 +298,7 @@ I could scour every mountain I came across and rack up EXP and Fame—
 
 “M-Mount Heng! A messenger pigeon has arrived from the Mount Heng Sword Sect!”
 
-A martial artist had rushed into the hall and shouted.
+A martial artist burst into the hall with the shout.
 
 Someone took the tightly rolled sheet of paper and unfurled it. Red characters, as though written in blood, came into view.
 
@@ -316,7 +316,7 @@ Jin Wikyung spoke with a grim expression.
 
 “…”
 
-With my mind half gone, I heard a System notification ring in my ears.
+As I stood there half out of my mind, a System notification rang in my ears.
 
 Ding.
 

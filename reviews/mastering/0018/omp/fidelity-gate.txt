@@ -1,0 +1,55 @@
+{
+  "summary": "The assembled English is faithful to the Korean source with minor terminology absences.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "chapter 18",
+      "current": "Great Hero or Sir depending tone",
+      "defect": "The term '대협' is omitted from the English text; it should appear with the tone-dependent translation 'Great Hero' or 'Sir' as per glossary.",
+      "replacement": "Include the term 'Great Hero' or 'Sir' appropriately where '대협' appears in Korean.",
+      "rationale": "The glossary specifies '대협' must be rendered as 'Great Hero' or 'Sir' depending on tone. Its absence is a minor fidelity defect.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "chapter 18",
+      "current": "Black Sand",
+      "defect": "The term '흑사' is absent from the English text; 'Black Sand' should be used per glossary.",
+      "replacement": "Use 'Black Sand' for '흑사' where it appears in the Korean source.",
+      "rationale": "The glossary entry for '흑사' is 'Black Sand' and it should be included explicitly to maintain terminology fidelity.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "chapter 18",
+      "current": "Old Master",
+      "defect": "The term '노야' is not used; 'Old Master' should appear as the proper address per glossary.",
+      "replacement": "Replace or insert 'Old Master' accordingly where '노야' occurs.",
+      "rationale": "The glossary requires '노야' to be rendered as 'Old Master', maintaining consistent address and reference fidelity.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "chapter 18",
+      "current": "the “tail”",
+      "defect": "The code name '꼬리' is missing or untranslated; should be 'the “tail”' as glossary states.",
+      "replacement": "Include 'the “tail”' for all references of '꼬리'.",
+      "rationale": "The glossary directive mandates using 'the “tail”' for this codename; omission is a minor fidelity lapse.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F05",
+      "severity": "minor",
+      "source": "chapter 18",
+      "current": "Sichuan Tang Clan",
+      "defect": "The assembled English uses 'Sichuan Tang Clan' correctly but in one instance 'Sichuan Tang Clan or something?' is simplified to 'the Sichuan Tang Clan?'; the baseline phrase 'Is this the Sichuan Tang Clan or something?' matches Korean better.",
+      "replacement": "Use 'Is this the Sichuan Tang Clan or something?' to match the Korean source speech pattern and nuance.",
+      "rationale": "The baseline rendering matches the source nuance and phrase structure better, preserving tone and modality.",
+      "confidence": 0.9
+    }
+  ]
+}

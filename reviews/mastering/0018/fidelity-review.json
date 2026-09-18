@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.9,
+      "current": "Sichuan Tang Clan",
+      "defect": "The assembled English uses 'Sichuan Tang Clan' correctly but in one instance 'Sichuan Tang Clan or something?' is simplified to 'the Sichuan Tang Clan?'; the baseline phrase 'Is this the Sichuan Tang Clan or something?' matches Korean better.",
+      "id": "F05",
+      "rationale": "The baseline rendering matches the source nuance and phrase structure better, preserving tone and modality.",
+      "replacement": "Use 'Is this the Sichuan Tang Clan or something?' to match the Korean source speech pattern and nuance.",
+      "severity": "minor",
+      "source": "chapter 18"
+    }
+  ],
+  "summary": "The assembled English is faithful to the Korean source with minor terminology absences.",
+  "version": 1
+}
