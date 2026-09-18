@@ -1285,3 +1285,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 사대마군 | **Four Great Demon Lords** | Collective title for the four senior Demon Lords. |
 | 흡정마공 | **Essence-Siphoning Great Technique** | Source variant for the established essence-siphoning martial art. |
 | 격체전공 | **Transmitting Internal Energy Across the Body** | Technique for transferring internal energy between bodies. |
+| 근력 | **Strength** | System attribute increased by Jin Taekyung. |
+| 스탯 포인트 | **Stat Points** | Points retained from Jin Taekyung's Level Ups. |
+| 이어타정 | **carp-leaping maneuver** | Acrobatic movement Jin Taekyung uses to rise after bending backward. |
+| 지풍 | **Finger Qi** | Invisible qi attack fired by the Western Heaven Demon Lord. |
+| 법화 | **Lotus Sutra** | Buddhist scripture used in the comparison for the Demon Lord's fiend-like face. |
