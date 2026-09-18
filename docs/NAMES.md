@@ -1324,3 +1324,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 귀염미 | **Gwiyeommi** | Literary pen name used for romance novels. |
 | 독룡각 | **Poison Dragon Pavilion** | A pavilion of the Sichuan Tang Clan. |
 | 당호룡 | **Tang Horyong** | Master of Poison Dragon Pavilion and Acting Family Head of the Sichuan Tang Clan. |
+| 홍무 | **Hongwu** | Reign name of the founding emperor of the Ming dynasty. |

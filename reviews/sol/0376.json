@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "A Great Hero of the orthodox faction, renowned for his fairness and integrity, had a habit of raping women. A master of an unorthodox faction had wiped out an entire village for fun.",
+      "defect": "The translation omits the killing in 간살, changing the Great Hero's established crime from rape and murder to rape alone.",
+      "id": "F01",
+      "rationale": "간살 means to rape and kill; both actions are part of the contrast demonstrating that Mungyeong's victims deserved death.",
+      "replacement": "A Great Hero of the orthodox faction, renowned for his fairness and integrity, had a habit of raping and murdering women. A master of an unorthodox faction had wiped out an entire village for fun.",
+      "severity": "critical",
+      "source": "공명정대함으로 이름 높은 정파의 대협은 여인을 간살하는 취미가 있었고, 어느 사파의 고수는 재미 삼아 촌락 하나를 몰살시켰다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“The Hour of the Dog.[^2] You said we would depart from the western harbor of Chengdu.”",
+      "defect": "The draft inserts “you” as the speaker who supplied the departure information, making Mungyeong responsible for a statement the source leaves unattributed.",
+      "id": "F02",
+      "rationale": "The omitted Korean subject does not support addressing Mungyeong as the person who set or announced the departure; the later exchange identifies Taekyung as the one who mentioned the Hour of the Dog.",
+      "replacement": "“The Hour of the Dog.[^2] They said the ship would depart from Chengdu’s western harbor.”",
+      "severity": "critical",
+      "source": "“술시(戌時). 성도의 서쪽 항구에서 출발한다고 했습니다.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Not only martial artists, but also fearless ordinary citizens had come to see us off. The crowd stretched endlessly, one person after another, until it was impossible to count them.",
+      "defect": "The first-person “us” prematurely shifts the opening's external third-person viewpoint to Taekyung's narration.",
+      "id": "F03",
+      "rationale": "The source describes the departing pair and the crowd externally; first-person narration does not begin until the later harbor scene.",
+      "replacement": "Not only martial artists, but also fearless ordinary citizens had come to see them off. The crowd stretched endlessly, one person after another, until it was impossible to count them.",
+      "severity": "minor",
+      "source": "비단 무림인뿐만 아니라 겁 없는 양민들까지 더해지니, 배웅에 나선 인파는 꼬리에 꼬리를 물고 늘어져 셀 수가 없었다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "And on a hill that no one was looking toward, a boy sitting on a tree stump watched the whole scene before suddenly opening his mouth.",
+      "defect": "“No one was looking toward” changes an unvisited, secluded hill into a hill merely outside the crowd's line of sight, and “opening his mouth” is an unnatural literalism for speaking.",
+      "id": "F04",
+      "rationale": "아무도 찾지 않는 describes a place no one visits or seeks out, while 입을 열었다 naturally means that he spoke.",
+      "replacement": "On a deserted hill, a boy sat on a tree stump watching the entire scene. Then he suddenly spoke.",
+      "severity": "minor",
+      "source": "그리고 아무도 찾지 않는 언덕 위, 나무 그루터기에 앉아 모든 광경을 지켜보고 있던 소년이 문득 입을 열었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“If I had not fought the Demonic Cult, the entire world would have pointed fingers at me. Just as it had until then.”",
+      "defect": "“Until then” incorrectly moves the temporal endpoint into the past rather than extending it through the present.",
+      "id": "F05",
+      "rationale": "지금껏 means “until now” or “all this time,” not “until then.”",
+      "replacement": "“If I had not fought the Demonic Cult, the entire world would have pointed fingers at me. Just as it always had.”",
+      "severity": "minor",
+      "source": "“내가 마교와 싸우지 않았다면, 온 천하가 나를 손가락질했을 것이다. 지금껏 그래 왔던 것처럼.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Is it time already?”",
+      "defect": "The draft changes a request for the current time into a question about whether the departure time has arrived.",
+      "id": "F06",
+      "rationale": "지금 시간이 asks what the present time is; Mu Song's answer then explains that the stated Hour of the Dog has already passed.",
+      "replacement": "“What time is it now?”",
+      "severity": "minor",
+      "source": "“혹시 지금 시간이?”"
+    },
+    {
+      "confidence": 0.95,
+      "current": "The man changing forms of address as quickly as beans roasted by lightning was Ship-Fire Boy Mu Song. I offered him a solution.",
+      "defect": "The literal rendering “beans roasted by lightning” is opaque and unnatural in English.",
+      "id": "F07",
+      "rationale": "번개에 콩 볶듯 is an idiom for doing something extremely quickly; the replacement preserves the speed-based joke without an incomprehensible calque.",
+      "replacement": "The man cycling through forms of address at lightning speed was Ship-Fire Boy Mu Song. I offered him a solution.",
+      "severity": "minor",
+      "source": "나는 번개에 콩 볶듯 호칭을 바꿔 대는 선화아(船火兒) 무송에게 해결책을 제시해 주었다."
+    }
+  ],
+  "summary": "Two scene facts are altered, and several localized viewpoint, temporal, and wording issues remain.",
+  "version": 1
+}

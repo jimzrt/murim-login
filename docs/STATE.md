@@ -1,23 +1,23 @@
 # Translation State
 
-- Last completed: 375
-- Next chapter: 376
-- Current block: 375–379 (1/5)
-- Latest translation: `translations/0375.md`
-- Latest summary: `summaries/beats/0375.md`
-- Safe profiles through: chapter 375
+- Last completed: 376
+- Next chapter: 377
+- Current block: 375–379 (2/5)
+- Latest translation: `translations/0376.md`
+- Latest summary: `summaries/beats/0376.md`
+- Safe profiles through: chapter 376
 
 ## Current Block
 
-- Tang Sadok awakens gravely wounded and confesses that he revealed the Myriad-Poison Ring's location to the Western Heaven Demon Lord in exchange for preserving the Tang Clan. Jin Taekyung rejects self-sacrifice as punishment and forgives him, completing the hidden quest Atonement and Forgiveness and earning the Tang Clan's Benefactor title, EXP, Fame, and a level-up. Tang Sadok transfers the Myriad-Poison Ring to Taekyung as the Tang Clan's sacred treasure, then temporarily entrusts Mimi to Cheongpung while the clan's future remains uncertain. Before Taekyung and Cheongpung leave, the Divine Physician privately asks Jin Wikyung to hear a request.
+- Mungyeong and his Disciple Dong Feng revisit their first meeting and reveal that Mungyeong is the Divine Physician and former Slaughter Saint, while Dong Feng became his physician Disciple after losing his family to an epidemic. Dong Feng urges Mungyeong to use his medical skills to prevent the great war he foresees, but Mungyeong insists that he has left Murim and will only treat the wounded. At Chengdu's western harbor, Jin Taekyung's party prepares to depart aboard Mu Song's ship, and an unidentified boy arrives asking to come aboard.
 
 ## Open Questions
 
 - What happened to the Second Fiend assigned to the Qingcheng attack?
-- Why did Mungyeong tell the companions that Jin Taekyung ordered the rescue of Emei?
 - What is the true nature and purpose of the Lord of Heaven, and what became of the Western Heaven Demon Lord?
 - What was the origin and purpose of the Moving Formation, and why did it lose its power?
-- What does the Divine Physician want to ask Jin Wikyung before the party leaves, and what path will the Sichuan Tang Clan take next?
+- Who is the unidentified boy who arrives at Chengdu's western harbor?
+- Will Mungyeong remain outside the coming war, or will the crisis force him to intervene?
 
 ## Exceptional Decision
 
