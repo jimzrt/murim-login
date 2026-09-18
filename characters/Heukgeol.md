@@ -1,6 +1,6 @@
 # Heukgeol (흑걸)
 
-- **Safe through:** Chapter 323
+- **Safe through:** Chapter 325
 - **Aliases:** Lone Beast of Dongcheon Gang
 - **Role:** Three-knot Beggars' Sect disciple and head of the Xi'an branch, responsible for gathering branch information and disciples under the Successor Beggar's order.
 - **Personality:** Ruthless, boastful, and intimidating toward weaker dark-path fighters; recognizes the danger of a vastly stronger opponent.

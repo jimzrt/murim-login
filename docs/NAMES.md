@@ -1120,3 +1120,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 벽운천강수 | **Blue Cloud Heavenly Force Palm** | Zhongnan Sect palm technique used by Hwangbo Eom. |
 | 태을무형검 | **Taeeul Formless Sword** | Hwangbo Eom's supreme sword art of invisible attacks. |
 | 십구 대 계승자 | **nineteenth successor** | Taekyung's Fire Gate Clan succession title. |
+| 황천 | **Hwangcheon** | Second-generation Zhongnan disciple and Commander of the Taeeul Sword Unit. |
+| 광룡 | **Mad Dragon** | Taekyung's joking alternative to Fire Dragon after he beats Hwangbo Eom. |

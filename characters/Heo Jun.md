@@ -1,6 +1,6 @@
 # Heo Jun (허준)
 
-- **Safe through:** Chapter 319
+- **Safe through:** Chapter 325
 - **Aliases:** Uncle Heo, Chief Escort
 - **Role:** Chief Escort of the Yongbong Escort Bureau and Ju Hwaran's uncle, Heo Jun is at Tengwang Pavilion facing the bureau's two-hundred-thousand-silver-nyang compensation claim after the shipment failed.
 - **Personality:** Responsible, protective, concerned, and dutiful.
