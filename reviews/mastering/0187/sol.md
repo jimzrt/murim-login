@@ -4,7 +4,7 @@ Hundreds of martial artists stood there, radiating an aura as sharp as frost. Al
 
 *Step. Step.*
 
-The commoners who had come to watch, the nameless martial artists dressed in worn uniforms, and finally the powerful figures who moved Shanxi Province—
+Commoners who had come to watch, nameless martial artists in worn uniforms, and the powerful figures who moved Shanxi Province—
 
 Everyone held their breath and watched that one man.
 
@@ -14,7 +14,7 @@ Jin Wikyung.
 
 Clad in a martial uniform embroidered with a silver wyvern, Jin Wikyung strode forward without hesitation. His commanding presence and effortless authority overwhelmed everyone present.
 
-The silence Jin Wikyung had created was broken by his voice.
+The silence he had created was broken by his voice.
 
 “Our family first put down roots in Taiyuan three hundred years ago.”
 
@@ -38,7 +38,7 @@ The family that had begun so humbly grew into a towering tree whose reach extend
 
 “Yet even our family could not escape the rise and fall of fortune.”
 
-Everything had slowly changed with the passage of time. After enduring one event after another, both great and small, the towering tree began to wither.
+Everything slowly changed with the passage of time. As the family weathered calamities large and small, the towering tree began to wither.
 
 Mistaken decisions by its leaders, invasions by foreign enemies, betrayals by allies, natural disasters beyond human power to prevent…
 
@@ -46,7 +46,7 @@ Before long, its many branches had broken and its lush leaves had fallen.
 
 “But!”
 
-A thunderous shout burst forth. His voice boiled like lava.
+The word burst forth like thunder. His next words boiled like lava.
 
 “We survived.”
 
@@ -68,7 +68,7 @@ Hundreds of weapons struck the ground. Invisible heat rose from the martial arti
 
 It was a vow to the family’s countless members, to everyone gathered here, and to the enemies who had yet to bare their fangs.
 
-“Three hundred years ago and three hundred years from now, we will remain here unchanged!”
+“Just as we stood here three hundred years ago, we will still stand here three hundred years from now!”
 
 *Boom! Boom!*
 
@@ -78,13 +78,13 @@ His blazing eyes swept across the crowd. Taking in faces filled with excitement 
 
 “Are you ready to lay a new foundation alongside our family?”
 
-A tremendous roar erupted from the crowd, centered on the martial artists of the Jin Family of Taiyuan.
+A tremendous roar erupted, led by the martial artists of the Jin Family of Taiyuan.
 
 “Loyalty!”
 
 *Boom, boom-boom-boom-boom-boom!*
 
-Just then, a clear voice rang out from somewhere.
+Just then, a clear voice rang out.
 
 “May we also join the Jin Family of Taiyuan on the path it has chosen?”
 
@@ -98,7 +98,7 @@ Instead of a flowing court dress, she wore a comfortable martial uniform. With f
 
 “I am Lee Seowol of the Mount Heng Sword Sect. I have arrived in response to the Lesser Family Head’s summons.”
 
-The middle-aged man who had been standing beside her like an iron tower revealed his identity in a rough voice.
+The middle-aged man standing beside her like an iron tower stepped forward and identified himself in a gruff voice.
 
 “I am First Elder Cheol Mubaek. I pay my respects to the Lesser Family Head of the Jin Family of Taiyuan.”
 
@@ -116,7 +116,7 @@ Yet amid everyone else’s astonishment, Jin Wikyung remained perfectly calm.
 
 Of course he did. He was the one who had sent me to deliver their invitation for New Year’s Day.
 
-“This is the first time I’ve met you in person, Young Lady. Did you receive the formal invitation I sent last time?”
+“This is our first time meeting in person, Young Lady. Did you receive the formal invitation I sent?”
 
 “Yes. And in addition…”
 
@@ -146,7 +146,7 @@ Jin Wikyung answered without a moment’s hesitation.
 
 *Thump.*
 
-Instead of answering, Lee Seowol dropped to one knee. Cheol Mubaek and the martial artists under his command did the same.
+Instead of answering, Lee Seowol dropped to one knee. Cheol Mubaek and the martial artists under her command followed suit.
 
 “I, Lee Seowol, second Sect Leader of the Mount Heng Sword Sect, swear before Heaven and Earth.”
 
@@ -162,7 +162,7 @@ They were few in number, but their shout was thunderous. Jin Wikyung took Lee Se
 
 His manner of speech had shifted naturally as well.
 
-“I grant you permission.”
+“I accept your oath.”
 
 On the first day of the new year, the Jin Family of Taiyuan accepted the Mount Heng Sword Sect as its vassal.
 
@@ -174,7 +174,7 @@ On the first day of the new year, the Jin Family of Taiyuan accepted the Mount H
 
 Cheers upon cheers.
 
-The crowd of more than a thousand people enthusiastically chanted the name of the Jin Family of Taiyuan.
+The crowd of nearly a thousand people chanted the name of the Jin Family of Taiyuan with wild enthusiasm.
 
 *It really was that impressive.*
 
@@ -196,7 +196,7 @@ The guy who had seemed simpleminded and proud to a fault now wore an expression 
 
 It was childish, but I couldn’t help puffing out my chest a little. I was a member of the Jin Family of Taiyuan, after all, and I’d contributed quite a bit to making this day possible.
 
-“Ahem, ahem. Looks like you were moved.”
+“Ahem, ahem. Pretty moving, wasn’t it?”
 
 “It was incredible. My heart pounded the entire time.”
 
@@ -234,11 +234,11 @@ I came up with the simplest term possible.
 
 “You little bastard…!”
 
-Chulwoo was about to raise his fist when he stopped short. Baek Museong, his Senior Brother, was sitting right beside him.
+Chulwoo raised his fist, then stopped short. Baek Museong, his Senior Brother, was seated right beside him.
 
 *The Huashan’s Lone Crane buff was damn useful.*
 
-I grinned and asked,
+I grinned.
 
 “So who exactly is beautiful?”
 
@@ -338,7 +338,7 @@ Chulwoo answered firmly, his expression turning dreamy.
 
 “Dead? Yes, you’re right. Before I met her, I was little more than a corpse.”
 
-“Can you really not die? Please die.”
+“Can’t you become a real one? Please die.”
 
 “I can’t. Without her permission, I can neither die nor live.”
 
