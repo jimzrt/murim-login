@@ -1,9 +1,9 @@
 # Divine Physician (신의)
 
-- **Safe through:** Chapter 340
+- **Safe through:** Chapter 341
 - **Aliases:** Medicine Immortal
-- **Role:** Legendary physician who appeared at the edge of the continent more than forty years ago, treated thousands of patients and subdued an epidemic, refuses payment, practices behind a white veil, and remains unidentified despite the imperial palace’s efforts; a porcelain clue indicates that the Divine Physician is currently in Sichuan.
+- **Role:** Legendary physician also known as Dong Feng and Mungyeong's Master, who lives in a hidden clinic in Sichuan and has begun treating Venerable Myoryeong and Jeok Cheongang.
 - **Personality:** Publicly reputed to be selfless and devoted to treating patients in the lowest places.
 - **Voice:** Not established.
-- **Relationships:** Left the Luoyang Strange Physician a porcelain-shard clue pointing to Sichuan and apparently intends to exchange medical knowledge with him.
+- **Relationships:** Mungyeong is his Disciple, and he left the Luoyang Strange Physician a porcelain-shard token directing him to Sichuan before receiving Taekyung's party at his hidden clinic.
 - **Sources:** Korean source and accepted translation, Chapter 307

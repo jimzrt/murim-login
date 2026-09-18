@@ -1189,3 +1189,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 경천신니 | **Heaven-Shaking Venerable Nun** | Former Emei Sect Leader and sole Supreme Peak master; killed on Mount Emei. |
 | 혈나찰 | **Blood Rakshasa** | Demonic Cult epithet for the Heaven-Shaking Venerable Nun during the Great Faction War. |
 | 흑수인 | **Black Hand Seal** | Evil technique causing Myoryeong's progressive, potentially fatal injury. |
+| 기문진 | **Mystic Gate Formation** | Formation concealing Dong Feng's clinic in Sichuan. |
+| 기환노사 | **Master of Strange Illusions** | Ancient formation master who installed the hidden formation. |
+| 동봉 | **Dong Feng** | Personal name of the Divine Physician and Mungyeong's Master. |
+| 동 노인 | **Old Man Dong** | Address form requested by Dong Feng. |
