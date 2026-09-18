@@ -1,6 +1,6 @@
 # Heavenly Power Demon (천력마)
 
-- **Safe through:** Chapter 361
+- **Safe through:** Chapter 362
 - **Aliases:** None
 - **Role:** Former Elder of the Great Heavenly Demon Divine Cult who led the subjugation of Qinghai and opened the first front of its holy war, an elderly former prisoner who transferred three jiazi of internal energy to Jin Taekyung after his restraints were broken and asked him to kill the Western Heaven Demon Lord.
 - **Personality:** Quiet and self-possessed despite his severe imprisonment, he is reflective about the moral ambiguity of the Great Faction War and disillusioned with the Divine Cult's corruption.

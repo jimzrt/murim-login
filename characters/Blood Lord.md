@@ -1,6 +1,6 @@
 # Blood Lord (혈주)
 
-- **Safe through:** Chapter 358
+- **Safe through:** Chapter 362
 - **Aliases:** None
 - **Role:** Young-seeming high-ranking Dark Heaven figure who seeks Jin Taekyung, Cheongpung, and Jeok Cheongang after escaping the confrontation at Mount Song.
 - **Personality:** Calm, confident, theatrically frivolous, casually cruel, and ruthlessly destructive; treats allies as disposable tools and enjoys provoking stronger opponents.

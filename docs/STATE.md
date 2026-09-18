@@ -1,20 +1,20 @@
 # Translation State
 
-- Last completed: 361
-- Next chapter: 362
-- Current block: 360–364 (2/5)
-- Latest translation: `translations/0361.md`
-- Latest summary: `summaries/beats/0361.md`
-- Safe profiles through: chapter 361
+- Last completed: 362
+- Next chapter: 363
+- Current block: 360–364 (3/5)
+- Latest translation: `translations/0362.md`
+- Latest summary: `summaries/beats/0362.md`
+- Safe profiles through: chapter 362
 
 ## Current Block
 
-- The Western Heaven Demon Lord reaches the Tang Clan's treatment room, identifies the Divine Physician, and declares himself one of the Lord of Heaven's four servants. He overpowers the physician, takes the Myriad-Poison Ring, and crushes the physician's lower dantian before attempting to remove the unconscious Jeok Cheongang.
-- Jin Taekyung arrives and attacks with White Flame. The Heavenly Power Demon has transferred three jiazi of internal energy to Taekyung in exchange for a request to kill the Western Heaven Demon Lord, allowing Taekyung to resume the confrontation. The Divine Physician confirms that Jeok Cheongang is safe, and Taekyung declares that the Western Heaven Demon Lord is going to die.
+- Jin Taekyung resumes his battle with the Western Heaven Demon Lord after recovering from his previous injuries and receiving three jiazi of internal energy from the Heavenly Power Demon. He uses retained Stat Points to increase his Strength and Agility, allowing him to withstand and physically pressure the Western Heaven Demon Lord, though the Demon Lord remains vastly superior in martial skill.
+- Jin notices the Myriad-Poison Ring on the Western Heaven Demon Lord's hand and steals it through the Inventory before storing it again. Enraged, the Western Heaven Demon Lord launches his Sword Force toward the treatment room instead of Jin, and Jin rushes to intercept the attack; the result is unresolved.
 
 ## Open Questions
 
-- What will be the outcome of Jin Taekyung's renewed confrontation with the Western Heaven Demon Lord?
+- What will be the outcome of Jin Taekyung's attempt to block the Western Heaven Demon Lord's attack on the treatment room?
 - Can the Divine Physician survive his injuries and continue protecting Jeok Cheongang?
 - Who is the Lord of Heaven, and what is the intended purpose of the Myriad-Poison Ring?
 - What is the actual outcome of the attacks on the Tang Clan, Qingcheng, and Emei?
@@ -22,9 +22,10 @@
 
 ## Exceptional Decision
 
-- Use established renderings for Western Heaven Demon Lord, Heavenly Power Demon, Divine Physician, Myriad-Poison Ring, White Flame, Body-Protecting Qi, and underground prison.
-- Render 격체전공 as Transmitting Internal Energy Across the Body.
-- Treat the Western Heaven Demon Lord's claim that the three sects were destroyed as unconfirmed until directly established.
+- Use established renderings for supernatural powers, Western Heaven Demon Lord, Heavenly Power Demon, Divine Physician, Myriad-Poison Ring, White Flame, Sword Force, Spear Energy, and underground prison.
+- Render 법화 as Lotus Sutra with a footnote.
+- Render 이어타정 as carp-leaping maneuver and 지풍 as Finger Qi.
+- Preserve Jin Taekyung's vulgar, self-mocking voice and crude battle wordplay.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
