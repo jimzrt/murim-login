@@ -1,0 +1,15 @@
+{
+  "summary": "Faithful translation with minor terminology and romanization issues.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "multiple lines as detailed in warnings",
+      "current": "References to 'Im Kkeokjeong', 'Jongmin', 'Kururuk' without established English ledger entries; absence of 'Jintae' and 'A-Gwi' terms despite glossary preference",
+      "defect": "Uses romanizations and omits preferred established names from glossary",
+      "replacement": "Replace 'Im Kkeokjeong' with an established English form if any or add a footnote; similarly for 'Jongmin' and 'Kururuk'. Use 'Jintae' for '진태' and 'A-Gwi' for '아귀' as per glossary preferences or footnote if first use.",
+      "rationale": "Binding translation rules require glossary term usage and ledger names consistency; romanizations of novel character/term names need either ledger form or footnotes per rules.",
+      "confidence": 1.0
+    }
+  ]
+}

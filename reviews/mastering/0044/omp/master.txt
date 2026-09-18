@@ -124,7 +124,7 @@ A gust of wind swept through from somewhere and cleared the dust. I slowly looke
 
 “…”
 
-I looked back down. Between thighs as thick as pillars and hard as stone, my dainty little hand was clamped around something.
+I looked back down. Between thighs as thick as pillars and hard as stone, my dainty little hand was gripping something.
 
 I groaned under my breath.
 
@@ -166,7 +166,7 @@ The team poured on arrows and throwing weapons, but…
 
 “Kuwaaaaargh!”
 
-It wasn’t enough to pull the Great Warrior’s attention. Its eyes had already rolled back.
+It wasn’t enough to pull the Great Warrior’s attention away from me. It was already seeing red.
 
 I rolled, then rolled again, and cursed my luck.
 
@@ -196,11 +196,11 @@ Im Kkeokjeong charged the Great Warrior chasing me. Blue mana sheathed the tower
 
 “Hah!”
 
-With a short shout, Im Kkeokjeong brushed past me. And then—
+With a short shout, Im Kkeokjeong rushed past me. And then—
 
 Crunch. Thud.
 
-Something broke, and he shot backward at a vicious speed.
+Something broke, and he shot backward at terrifying speed.
 
 He flew a good ten meters, slammed into the wall, and vomited a gush of blood.
 
@@ -284,7 +284,7 @@ Its bulging eyes rolled toward the teammates sprawled unconscious on the ground.
 
 That was exactly it.
 
-My heart dropped as I watched its back heading for Im Kkeokjeong.
+My heart dropped as I watched it head for Im Kkeokjeong.
 
 “Hey! Hey, you!”
 
@@ -378,7 +378,7 @@ Maybe thirty centimeters?
 
 —…Grrk.
 
-The Hobgoblin Great Warrior’s eyes met mine in the air between us. I’d been through this somewhere before.
+The Hobgoblin Great Warrior’s gaze met mine. I’d been through this somewhere before.
 
 *That’s right. The duel with Lee Seogeun. It was exactly like this.*
 
@@ -394,7 +394,7 @@ Ding.
 
 “Huh?”
 
-I froze. For that instant, I couldn’t see or hear a thing.
+I froze. For that instant, I couldn’t see or hear anything else.
 
 *This can’t be. This is actually insane.*
 
@@ -404,7 +404,7 @@ Ding.
 >
 > Synchronization complete.
 >
-> All systems are inherited.
+> All System functions have been transferred.
 
 And yet, it actually happened.
 
@@ -428,7 +428,7 @@ I grinned at the monster.
 
 Gurgle.
 
-A wrinkled hand clutched at a throat. But the old goblin had neither the strength to stop the blood pouring out like a waterfall nor the time to spit out the spell still sitting on the tip of its tongue.
+A wrinkled hand clutched at a throat. But the old goblin had neither the strength to stop the blood pouring out like a waterfall nor the time to utter the spell still sitting on the tip of its tongue.
 
 “What a nuisance.”
 
