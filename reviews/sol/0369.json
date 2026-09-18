@@ -1,0 +1,126 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "He had been called out for this mission along with more than thirty second- and third-generation disciples.",
+      "defect": "The draft changes an approximate quantity of around thirty into a definite quantity greater than thirty.",
+      "id": "F01",
+      "rationale": "삼십여 명 means approximately thirty people, not necessarily more than thirty.",
+      "replacement": "He had been called out for this mission along with around thirty second- and third-generation disciples.",
+      "severity": "major",
+      "source": "그는 사천에 위치한 공도문(珙刀門)이라는 문파의 일대 제자로, 이, 삼대 제자들 삼십여 명과 함께 이번 임무에 차출되었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "You know what I mean. That Three Fiends fellow or whatever. We’re searching every damn place for someone who ran away ages ago.",
+      "defect": "The draft replaces the claim that they are searching the wrong place with a claim that they are searching everywhere, and it adds stronger profanity.",
+      "id": "F02",
+      "rationale": "엄한 곳 means an irrelevant or wrong place, while 삼괴 here identifies the third of the Qilian Three Fiends rather than the collective Three Fiends.",
+      "replacement": "You know what I mean. That Third Fiend or whatever. The bastard ran off ages ago, and we’re searching for him in all the wrong places.",
+      "severity": "major",
+      "source": "그렇잖습니까. 삼괴인지 뭔지. 진작 도망치고 없는 놈을 엄한 곳에서 찾고 있으니, 원."
+    },
+    {
+      "confidence": 1.0,
+      "current": "If not for *them*, the three illustrious sects with their long histories would have vanished from the Murim five days ago.",
+      "defect": "The draft omits the clause identifying “them” as the people who saved the Sichuan Tang Clan from annihilation, leaving the final member of the preceding three-part list undefined.",
+      "id": "F03",
+      "rationale": "The source explicitly explains what the third group accomplished, completing the parallel references to the rescues of Qingcheng, Emei, and the Sichuan Tang Clan.",
+      "replacement": "If not for *them*, who had saved the Sichuan Tang Clan from annihilation, the three illustrious sects with their long histories would have vanished from the Murim five days ago.",
+      "severity": "major",
+      "source": "사천당문을 멸문의 위기에서 구한 ‘그들’이 없었다면, 유구한 역사를 지닌 세 개의 명문대파는 닷새 전 무림에서 사라졌을 것이다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "I’ll search the nearby grass myself, so follow me without another word.",
+      "defect": "“Follow me” incorrectly instructs Hwangso to accompany his Senior Brother even though they have just been assigned separate search areas.",
+      "id": "F04",
+      "rationale": "In context, 따라라 means to comply with the order, not physically follow the speaker.",
+      "replacement": "I’ll search the nearby grass myself, so do as you’re told without another word.",
+      "severity": "major",
+      "source": "나 역시 근처 풀숲을 뒤져 볼 테니 군말 없이 따라라."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Emei’s nuns charged forward, risking their lives, while countless Beggars’ Sect disciples surged in without end from behind.",
+      "defect": "The draft turns the single Emei nun introduced immediately beforehand into multiple nuns, changing the number of combatants and the battle composition.",
+      "id": "F05",
+      "rationale": "여승 is singular here and refers back to the middle-aged nun whose arrival was just described.",
+      "replacement": "An Emei nun charged them from the front without regard for her life, while countless Beggars’ Sect disciples surged in without end from behind.",
+      "severity": "critical",
+      "source": "앞에는 죽음을 불사하고 달려드는 아미파의 여승, 뒤에는 수많은 개방도가 끊임없이 밀려드는 상황."
+    },
+    {
+      "confidence": 1.0,
+      "current": "And if someone summoned every last ounce of strength and cut those men down, there was no need to worry about what came next. An iron staff flying out of nowhere would smash his balls, and another would crack open the back of his skull.",
+      "defect": "The draft assigns the first blow to an iron staff and leaves the second weapon unspecified, reversing and obscuring the source’s explicit sequence: a club strikes the testicles, then an iron staff strikes the skull.",
+      "id": "F06",
+      "rationale": "몽둥이 is the weapon that strikes the testicles, while 철장 is the weapon that strikes the back of the head.",
+      "replacement": "And if he dredged up every last ounce of strength and cut them down too? There was no need to worry about what came next. A club flying in from somewhere would smash his balls while an iron staff cracked the back of his skull.",
+      "severity": "critical",
+      "source": "그 뒤는 걱정할 필요가 없다. 어디선가 날아든 몽둥이가 불알을 터트리고 철장이 뒤통수를 깨고 있을 테니까."
+    },
+    {
+      "confidence": 0.97,
+      "current": "A young man who could not seem to decide whether he was a right arm or a little toe.",
+      "defect": "The draft makes the young man indecisive, while the joke is that the Third Fiend cannot tell which absurd epithet is supposed to be his name.",
+      "id": "F07",
+      "rationale": "헷갈리는 describes the observer’s confusion over the introduction, not a decision being made by Hyuk Mujin.",
+      "replacement": "A young man whose name seemed to be either Right Arm or Little Toe—it was hard to tell.",
+      "severity": "minor",
+      "source": "이름이 오른팔인지 새끼발가락인지 헷갈리는 젊은 놈."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Thirty years ago, at the age of one hundred, she had left the mortal world. She had been the Heaven-Shaking Venerable Nun’s only Senior Aunt, and everyone believed she had already died.",
+      "defect": "“Left the mortal world” conventionally means died in English, collapsing the source’s distinction between withdrawing from worldly affairs and subsequently being believed dead.",
+      "id": "F08",
+      "rationale": "속세를 떠난 means she withdrew from secular life; the separate clause 이미 죽었다고 알려진 then states that she was believed to be dead.",
+      "replacement": "Thirty years ago, at the age of one hundred, she had withdrawn from worldly affairs. She was the Heaven-Shaking Venerable Nun’s only Senior Aunt, and everyone believed she had since died.",
+      "severity": "major",
+      "source": "지금으로부터 삼십 년 전, 백 세의 나이로 속세를 떠난 그녀는 경천신니의 하나뿐인 사고(師姑)였고, 이미 죽었다고 알려진 인물이었으니까."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Don’t grieve too much. Though I’m retreating like this for now, this youngest brother will surely avenge my brothers.”",
+      "defect": "The draft reduces 원통함, a sense of bitter injustice and grievance, to ordinary grief and awkwardly changes the direct address to “my brothers.”",
+      "id": "F09",
+      "rationale": "원통해하다 centers on resentment at an unjust fate, while 형님들 is a respectful direct address to his dead elder brothers.",
+      "replacement": "“Do not feel too aggrieved. Though I must retreat for now, this youngest brother will surely avenge you, my elder brothers.”",
+      "severity": "major",
+      "source": "너무 원통해하지 마시오. 비록 지금은 이렇게 물러나지만, 이 막내가 반드시 형님들의 원한을 갚을 테니."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Just wait. The second this is over, I’m going straight to Tengwang Pavilion and playing until I can’t stand.",
+      "defect": "“Playing until I can’t stand” is unnatural and introduces a physical limit absent from the euphemistic promise to indulge himself wildly at the pleasure house.",
+      "id": "F10",
+      "rationale": "질펀하게 놀아 재끼다 means to cut loose and indulge oneself, with the pleasure-house context supplying the sexual implication without making it more explicit.",
+      "replacement": "Just wait. The second this is over, I’m going straight to Tengwang Pavilion and having myself one hell of a time.",
+      "severity": "minor",
+      "source": "두고 봐라. 끝나는 즉시 등왕루로 직행해서 질펀하게 놀아 재껴 주마."
+    },
+    {
+      "confidence": 0.97,
+      "current": "At the same time, a chilling presence ran down his spine.",
+      "defect": "The draft adds an external “presence” where the source describes the Third Fiend’s physical sensation of a chill.",
+      "id": "F11",
+      "rationale": "오싹한 기운 here is the sensation of a chill, not a newly detected person or aura.",
+      "replacement": "At the same time, a chill ran down his spine.",
+      "severity": "minor",
+      "source": "동시에 오싹한 기운이 등골을 타고 흘러내렸다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "Thud. Thud.",
+      "defect": "The sound effect is rendered as impacts rather than the cracking and popping of bones and joints during the bodily transformation.",
+      "id": "F12",
+      "rationale": "두둑, 우두둑 evokes successive joint or bone cracks as the hunched body straightens and the limbs lengthen.",
+      "replacement": "Crack. Crackle.",
+      "severity": "minor",
+      "source": "두둑, 우두둑."
+    }
+  ],
+  "summary": "The draft contains two critical scene-fidelity errors, several meaningful omissions and altered actions, and localized register and wording problems.",
+  "version": 1
+}

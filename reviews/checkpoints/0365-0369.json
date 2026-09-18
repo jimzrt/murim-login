@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "The Lord of Heaven escaped after possessing and destroying the Western Heaven Demon Lord’s body. The Demon Lord’s true fate is unknown.",
+      "defect": "The wording incorrectly attributes the destruction of the borrowed body to the Lord of Heaven, contradicting the plot summary and Chapter 365, where Jin Taekyung destroys it with One Annihilation.",
+      "id": "C01",
+      "rationale": "The replacement restores the established causal sequence while preserving the unresolved question about the Western Heaven Demon Lord.",
+      "replacement": "The Lord of Heaven escaped after possessing the Western Heaven Demon Lord’s body, which Jin Taekyung destroyed with One Annihilation. The Demon Lord’s true fate is unknown.",
+      "severity": "major",
+      "source": "Checkpoint Continuity, Lord of Heaven bullet"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Along with the countless vengeful spirits of prisoners who had died in the prison—and the three people who were still alive and well.",
+      "defect": "“Alive and well” contradicts the immediate physical state of all three survivors: Taekyung is unconscious, Dong Feng has a destroyed dantian, and Jeok Cheongang is badly injured and exhausted.",
+      "id": "C02",
+      "rationale": "This retains the contrast between the dead prisoners and the living occupants without implying that the survivors are unharmed.",
+      "replacement": "Along with the countless vengeful spirits of prisoners who had died in the prison—and the three people who were still alive inside it.",
+      "severity": "minor",
+      "source": "Chapter 367, opening description of the collapsing prison"
+    },
+    {
+      "confidence": 0.96,
+      "current": "The boy—or rather, the “he” bearing the name Mungyeong—looked down at the ground below his feet.",
+      "defect": "The quoted pronoun and phrase “bearing the name” produce conspicuously awkward, translation-like English and obscure the intended distinction between Mungyeong’s youthful appearance and identity.",
+      "id": "C03",
+      "rationale": "The replacement preserves the deliberate distancing around Mungyeong’s identity while reading naturally in English.",
+      "replacement": "The boy—or rather, the figure who bore the name Mungyeong—looked down at the ground below his feet.",
+      "severity": "minor",
+      "source": "Chapter 368, opening paragraph"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The Returned to Youth he had undergone several years ago had changed his flesh, but it could not erase the scent of blood ingrained in his hands.",
+      "defect": "“The Returned to Youth” is grammatically malformed as the name of a process or transformation.",
+      "id": "C04",
+      "rationale": "Using the nominal form “Return to Youth” corrects the construction without changing the meaning or imagery.",
+      "replacement": "The Return to Youth he had undergone several years ago had changed his flesh, but it could not erase the scent of blood ingrained in his hands.",
+      "severity": "minor",
+      "source": "Chapter 368, Mungyeong reflecting on his rejuvenated body"
+    },
+    {
+      "confidence": 1.0,
+      "current": "A faint smile passed across the boy’s impassive face—the face of the Slaughter Saint.\n\n“Mungyeong.”\n\nA faint smile passed across the boy’s impassive face—the face of the Slaughter Saint.\n\n“Your enemy.”",
+      "defect": "The narration is duplicated verbatim, interrupting the final reveal and making the closing exchange read like an editing artifact.",
+      "id": "C05",
+      "rationale": "Removing the duplicate restores the intended concise, threatening answer and preserves the chapter’s closing hook.",
+      "replacement": "A faint smile passed across the boy’s impassive face—the face of the Slaughter Saint.\n\n“Mungyeong. Your enemy.”",
+      "severity": "major",
+      "source": "Chapter 369, final exchange"
+    }
+  ],
+  "summary": "The packet is largely consistent in voice, terminology, hooks, and spoiler scope. Actionable issues are one causal misstatement in the continuity summary, an injury-state contradiction, two awkward English constructions, and a duplicated closing sentence in Chapter 369.",
+  "version": 1
+}
