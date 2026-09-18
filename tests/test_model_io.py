@@ -57,7 +57,7 @@ class ModelIoTest(unittest.TestCase):
         )
 
 
-    def test_overlapping_review_replacements_are_rejected(self):
+    def test_overlapping_review_replacements_keep_the_stronger_span(self):
         review = self.review()
         review["findings"].append({
             "id": "F02",
@@ -69,8 +69,36 @@ class ModelIoTest(unittest.TestCase):
             "rationale": "Cannot apply atomically.",
             "confidence": 0.8,
         })
-        with self.assertRaisesRegex(ValueError, "overlap"):
-            apply_review_replacements("Current.", review)
+        revised = apply_review_replacements("Current.", review)
+        self.assertEqual(revised, "Corrected.\n")
+
+    def test_duplicate_review_spans_are_applied_once(self):
+        quote = "I would prefer it this way."
+        review = {"findings": [
+            {
+                "id": "F07",
+                "severity": "major",
+                "current": quote,
+                "replacement": "I'd actually prefer it this way.",
+                "confidence": 0.95,
+            },
+            {
+                "id": "F08",
+                "severity": "major",
+                "current": quote,
+                "replacement": "I'd actually prefer it this way.",
+                "confidence": 0.0,
+            },
+            {
+                "id": "F09",
+                "severity": "major",
+                "current": quote,
+                "replacement": "I'd actually prefer it this way.",
+                "confidence": 0.0,
+            },
+        ]}
+        revised = apply_review_replacements(f"# Chapter 1\n\n{quote}\n", review)
+        self.assertEqual(revised, "# Chapter 1\n\nI'd actually prefer it this way.\n")
 
     def test_durable_update_rejects_multiline_profile_patch(self):
         value = {
