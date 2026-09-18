@@ -1,6 +1,6 @@
 # Jin Taekyung (진태경)
 
-- **Safe through:** Chapter 318
+- **Safe through:** Chapter 319
 - **Aliases:** Sleeping Dragon of Shanxi; Tollgate Hero; Hong Gil-dong (temporary false identity); youngest son of the Jin Family of Taiyuan
 - **Role:** Modern-world Hunter and Murim martial artist who crosses between realities through the Ark - 2020 capsule. Public disciple and heir of Jeok Cheongang, carrying the Fire Heaven Sword and Sharp Spear. Possesses the Heavenly Martial Physique, Qi Sense, Sword Energy, Spear Energy, Martial Arts Manual Creation, and the Gambler Title. Current Murim status: Level 50, Peak-grade Sleeping Dragon of Shanxi Title (All Stats +10, Fame +100), fifteen years of internal energy, 100 Remaining Points, Fourth? [sic]—Eighth Stage Jin Family Cultivation Technique, and four active Titles. One Flash is his adjustable Peak, Second-Stage finishing technique; overuse can leave him helpless, though his strengthened body now tolerates it better. He defeated Jin Baekyang, Jopil, and the Head Elder's betrayal forces, completed the Traitor Chain Quest, and exposed the Five Gates conspiracy. He is currently at Tengwang Pavilion with Jeok Cheongang unconscious, accompanying Baek Museong and carrying the consequences of the Zhongnan escort crisis.
 - **Personality:** Hungry, self-aware, dryly observant, pragmatic under pressure, and willing to risk himself for people he has accepted as real. Treats impossible situations like games until their human cost becomes undeniable.
