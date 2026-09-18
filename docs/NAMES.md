@@ -1396,3 +1396,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 필릭스 | **Felix** | British prince and S-rank Hunter. |
 | 루이 암스트롱 | **Louis Armstrong** | Historical musician used in Jin Taekyung's misattributed quotation joke. |
 | 닐 암스트롱 | **Neil Armstrong** | Astronaut whose quotation Jin misattributes before Lee corrects him. |
+| 소원권 | **wish coupon** | The Skeleton Warlord's refunded wish item. |
+| 쓰촨 분지 | **Sichuan Basin** | Geographic region containing Suining City. |
+| 서부 전선 | **Western Front** | The allied front advancing on Suining City. |
