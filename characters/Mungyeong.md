@@ -1,8 +1,8 @@
 # Mungyeong (문경)
 
-- **Safe through:** Chapter 337
+- **Safe through:** Chapter 338
 - **Aliases:** None
-- **Role:** A young medical apprentice from a humble military household accompanying Jin Taekyung's party toward the Divine Physician and seeking a medicinal prescription from the Sichuan Tang Clan.
+- **Role:** A young medical apprentice from a humble military household who has departed Jin Taekyung's party to return to his Master after receiving medicinal prescriptions and herbs from the Sichuan Tang Clan.
 - **Personality:** Compassionate, resolute, resourceful, and calm under extreme pressure.
 - **Voice:** Initially timid and deferential, he becomes clear, composed, and eloquent when arguing for mercy and justice.
 - **Relationships:** Mu Song saved him after his parents were killed on the Yangtze; Hwang Tae-gu killed his parents, but Mungyeong asked that Hwang live and be punished under League law.
