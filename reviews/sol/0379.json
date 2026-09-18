@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The weapons they fired were barely effective against low-level monsters.",
+      "defect": "The draft says the weapons have only limited effectiveness against low-level monsters, while the source says low-level monsters are the only ones they affect at all.",
+      "id": "F01",
+      "rationale": "The restrictive cue 만 preserves the mechanical distinction between weapons working on low-level monsters and having no effect on stronger ones.",
+      "replacement": "The weapons they fired were effective only against low-level monsters at best.",
+      "severity": "major",
+      "source": "그들이 발사한 화기는 고작해야 하급 몬스터들에게만 통하는 수준이었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Leading the way were Wyverns, known as the terrors of the sky, followed by dozens of Griffons and Gargoyles.\n\nThe A-rank monsters folded their wings at an angle and descended, swooping down upon the fighter jets that had not yet managed to take off.",
+      "defect": "The draft changes the single leading Wyvern into multiple Wyverns and omits that the descending monsters' wings span several meters.",
+      "id": "F02",
+      "rationale": "The singular 와이번 is the specific creature leading the formation, while 수 미터 explicitly describes the size of the attackers' wings.",
+      "replacement": "A Wyvern, known as the terror of the skies, led the way, followed by dozens of Griffons and Gargoyles.\n\nThe A-rank monsters angled their several-meter-long wings and dove upon the fighter jets that had not yet managed to take off.",
+      "severity": "critical",
+      "source": "창공의 공포라 불리는 와이번을 선두로 수십 마리의 그리폰(Griffon), 가고일(Gargoyle)이 뒤따른다.\n\n수 미터의 날개를 비스듬히 꺾으며 하강한 A급 몬스터들이 아직 미처 이륙하지 못한 전투기들을 덮쳤다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Arrows saturated with all kinds of magic and mana pierced the Griffon.",
+      "defect": "The draft collapses two distinct attacks—various spells and mana-laden arrows—into arrows containing different kinds of magic.",
+      "id": "F03",
+      "rationale": "The coordination joins 가지각색의 마법 with 마나를 한껏 머금은 화살, so both spells and arrows strike the Griffon.",
+      "replacement": "All manner of spells and arrows brimming with mana pierced the Griffon.",
+      "severity": "major",
+      "source": "가지각색의 마법과 마나를 한껏 머금은 화살이 그리폰을 꿰뚫었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "It could not compare to the power of mana, which was the natural opposite of the monsters’ own mana, but the concentrated firepower forced even the flying monsters to hesitate.",
+      "defect": "By rendering both 마나 and the monsters' 마력 as “mana,” the draft nonsensically states that mana is the natural opposite of itself and obscures the stated counter relationship.",
+      "id": "F04",
+      "rationale": "The source explicitly distinguishes Hunter mana from the monsters' magical power and explains that the former counters the latter.",
+      "replacement": "Though modern weapons could not compare to mana—the natural counter to the monsters’ magical power—concentrating their firepower all at once forced even the flying monsters to hesitate.",
+      "severity": "major",
+      "source": "비록 몬스터들의 마력과 상극이라 할 수 있는 마나(Mana)의 힘에 비할 바는 아니지만, 일거에 화력을 집중시키니 비행 몬스터들도 주춤할 수밖에 없었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Poison Breath fired by a Green Wyvern covered a radius of more than a hundred meters, and the divisional commander and the staff command were melted beneath the powerful acidic venom.",
+      "defect": "“The staff command” is not natural English, and “melted beneath” blurs the explicit sequence in which the command staff are drenched in acid and then melt.",
+      "id": "F05",
+      "rationale": "참모 지휘부 means the command staff, while 뒤집어쓴 채 explicitly depicts them covered in the acidic poison as they melt.",
+      "replacement": "The Poison Breath fired by a Green Wyvern blanketed an area over a hundred meters in radius, and the divisional commander and his command staff were drenched in the powerful acidic poison and melted away.",
+      "severity": "minor",
+      "source": "그린 와이번이 쏘아 보낸 포이즌 브레스(Poison Breath)가 반경 백여 미터를 뒤덮었고, 사단장을 포함한 참모 지휘부는 강력한 산성 독을 뒤집어쓴 채 녹아내렸다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "An army of white bones gained new life and slowly rose from pools of death.",
+      "defect": "“An army of white bones” is an unnatural literal rendering of 백골 and suggests disembodied bones rather than reanimated skeletons.",
+      "id": "F06",
+      "rationale": "In this undead context, 백골의 군단 naturally denotes an army of skeletons.",
+      "replacement": "An army of skeletons gained new life and slowly rose from pools of death.",
+      "severity": "minor",
+      "source": "새로운 생명을 얻고 죽음의 웅덩이에서 서서히 몸을 일으키는 백골(白骨)의 군단."
+    },
+    {
+      "confidence": 0.99,
+      "current": "But that would never happen again. Not in the past, and not in the future.",
+      "defect": "“Again” implies that Yao Wei had previously succeeded in getting Shao Shen to pay, contradicting the following statement that it had never happened in the past.",
+      "id": "F07",
+      "rationale": "The source states symmetrically that such a victory occurred neither in the past nor would occur in the future.",
+      "replacement": "But that had never happened before, and it never would.",
+      "severity": "minor",
+      "source": "하지만 그런 일은 과거에도, 앞으로도 없을 것이다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "The Hunters who had entered the battle prepared to die now faced something more frightening for the first time: human feeling.",
+      "defect": "“Human feeling” is overly broad and unnatural, obscuring that the Hunters are shaken by personal affection and attachment to comrades resurrected as enemies.",
+      "id": "F08",
+      "rationale": "인정 here means humane affection or personal bonds, specifically the comradeship that makes fighting the undead emotionally difficult.",
+      "replacement": "The Hunters who had entered battle prepared to die now faced a new kind of fear for the first time: their attachment to one another.",
+      "severity": "major",
+      "source": "죽을 각오로 전투에 임하던 헌터들은 처음으로 인정(人情)이라는 두려움에 직면했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I’m crashing!”\n\nCrashing? Into what?",
+      "defect": "The draft turns a deliberate declaration that the speaker will ram something into an accidental or uncontrolled crash, altering the intent behind the culminating action.",
+      "id": "F09",
+      "rationale": "박는다 announces an intentional ramming action, while the omitted object is preserved by Shao Shen's immediate question asking what will be rammed.",
+      "replacement": "“I’m going to ram it!”\n\nRam what?",
+      "severity": "critical",
+      "source": "“박는다!”\n\n박아? 뭘?"
+    }
+  ],
+  "summary": "The draft contains one critical alteration to the climactic action, along with several meaningful errors in monster quantity, combat mechanics, and characterization.",
+  "version": 1
+}

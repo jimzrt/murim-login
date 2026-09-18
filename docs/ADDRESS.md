@@ -554,3 +554,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 최 팀장 | 진태경 | professional_acquaintances | Mr. Jin Taekyung | formal and trusting | Team Leader Choi repeatedly addresses Jin while relying on him to resolve the airborne monster attack. |
 | 진태경 | 최 팀장 | professional_acquaintances | Team Leader Choi | casual and teasing | Taekyung questions Choi's trust and reacts informally during the crisis. |
 | 진태경 | 기장 | strangers | Captain | casual and commanding | Taekyung directly asks the captain for permission to open the aircraft door before cutting it open. |
+| 샤오 쉔 | 야오위 | Friends, colleagues, and sparring partners | Mr. Yao Wei | Polite | Shao Shen addresses Yao Wei respectfully in their remembered conversations. |

@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Taekyung’s party leaves Chengdu aboard Water Dragon Stronghold ships, while an unidentified boy asks for passage.",
+      "defect": "The summary treats the boy as unidentified even though Chapter 377 reveals that the boy aboard the ship is Mungyeong in disguise.",
+      "id": "C01",
+      "rationale": "The packet summary should include the identity revealed within the same reviewed range rather than preserve a resolved hook.",
+      "replacement": "Taekyung’s party leaves Chengdu aboard Water Dragon Stronghold ships after allowing a boy—Mungyeong in disguise—to board.",
+      "severity": "major",
+      "source": "Checkpoint summary, Plot"
+    },
+    {
+      "confidence": 0.99,
+      "current": "- Taekyung’s party departed Chengdu aboard three Water Dragon Stronghold ships. The unidentified boy seeking passage remains unexplained.",
+      "defect": "The continuity note incorrectly marks the boy’s identity as unresolved after Chapter 377 identifies him as Mungyeong.",
+      "id": "C02",
+      "rationale": "Active continuity must not carry a mystery that the reading copy has already resolved.",
+      "replacement": "- Taekyung’s party departed Chengdu aboard three Water Dragon Stronghold ships, with Mungyeong traveling aboard in the guise of a boy.",
+      "severity": "major",
+      "source": "Checkpoint summary, Continuity"
+    },
+    {
+      "confidence": 0.97,
+      "current": "A gigantic burning aircraft sweeps across the battlefield, leaving its identity and impact unresolved.",
+      "defect": "The aircraft’s identity is not unresolved: the preceding chapter establishes Taekyung aboard the private jet, and his distinctive shouted attack identifies that jet as the aircraft crossing the battlefield. Only the outcome remains unresolved.",
+      "id": "C03",
+      "rationale": "This preserves the actual cliffhanger without manufacturing an additional identity mystery.",
+      "replacement": "Taekyung’s gigantic burning private jet sweeps across the battlefield, leaving the consequences of its attack unresolved.",
+      "severity": "major",
+      "source": "Checkpoint summary, Plot"
+    },
+    {
+      "confidence": 0.97,
+      "current": "- The gigantic burning aircraft has entered the airport battlefield; its identity and the consequences of its attack are unresolved.",
+      "defect": "The continuity note incorrectly lists the aircraft’s identity as unresolved.",
+      "id": "C04",
+      "rationale": "The aircraft is connected to Taekyung by the immediately preceding private-jet scene and his shouted attack from the sky.",
+      "replacement": "- The gigantic burning aircraft is Taekyung’s private jet; it has swept across the airport battlefield, but the consequences of its attack remain unresolved.",
+      "severity": "major",
+      "source": "Checkpoint summary, Continuity"
+    },
+    {
+      "confidence": 0.97,
+      "current": "\"A gigantic burning aircraft has entered the airport battlefield and swept across it; its identity and the consequences remain unresolved.\"",
+      "defect": "The durable state preserves the aircraft as unidentified despite the packet revealing it to be Taekyung’s private jet.",
+      "id": "C05",
+      "rationale": "Durable continuity should retain only the unresolved consequence, not a resolved identity question.",
+      "replacement": "\"Taekyung’s gigantic burning private jet has swept across the airport battlefield; the consequences of its attack remain unresolved.\"",
+      "severity": "major",
+      "source": "Durable state, active_continuity"
+    },
+    {
+      "confidence": 0.96,
+      "current": "\"Jin Taekyung remains aboard a private jet approaching Chengdu International Airport as the battle unfolds.\"",
+      "defect": "This state is stale at the end of Chapter 379: the jet is no longer merely approaching the airport but is sweeping across the battlefield.",
+      "id": "C06",
+      "rationale": "The active state should reflect the final observed position and action of the aircraft.",
+      "replacement": "\"Jin Taekyung remains aboard the private jet as it sweeps across the Chengdu International Airport battlefield.\"",
+      "severity": "major",
+      "source": "Durable state, active_continuity"
+    },
+    {
+      "confidence": 0.95,
+      "current": "\"Will Mungyeong remain outside the coming war, or will the crisis force him to intervene?\"",
+      "defect": "The open-question list omits the packet’s immediate closing hook: the result of Taekyung’s aircraft attack.",
+      "id": "C07",
+      "rationale": "The unresolved outcome of the final-page attack is an active cliffhanger and should be carried into durable state.",
+      "replacement": "\"Will Mungyeong remain outside the coming war, or will the crisis force him to intervene?\",\n    \"What are the consequences of Taekyung sweeping the private jet across the airport battlefield?\"",
+      "severity": "major",
+      "source": "Durable state, open_questions"
+    },
+    {
+      "confidence": 0.99,
+      "current": "After walking for some time with the smell of herbal decoctions vibrating through the air around us, we entered the treatment room guided by a physician whose nose and mouth were covered by a white cloth.",
+      "defect": "A smell cannot naturally be described as “vibrating through the air,” making the sentence sound like a literal lexical mismatch.",
+      "id": "C08",
+      "rationale": "The replacement uses a natural sensory collocation without changing the setting or action.",
+      "replacement": "After walking for some time through air thick with the smell of herbal decoctions, we entered the treatment room, guided by a physician whose nose and mouth were covered by a white cloth.",
+      "severity": "minor",
+      "source": "Chapter 375, entrance to Tang Sadok’s treatment room"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Unmistakable anger clung thickly to Jin Wikyung’s deeply settled eyes.",
+      "defect": "“Deeply settled eyes” and anger that “clung thickly” form an awkward, nonidiomatic description.",
+      "id": "C09",
+      "rationale": "The replacement is natural contemporary English and preserves both his appearance and obvious anger.",
+      "replacement": "Unmistakable anger burned in Jin Wikyung’s deep-set eyes.",
+      "severity": "minor",
+      "source": "Chapter 375, Jin Wikyung confronting Tang Sadok"
+    },
+    {
+      "confidence": 0.94,
+      "current": "From low-level monsters such as goblins and Orcs to higher-tier monsters like Trolls, ogres, and Lycanthropes…",
+      "defect": "Monster species are capitalized inconsistently within a single parallel list.",
+      "id": "C10",
+      "rationale": "Capitalizing all listed monster types matches the treatment of Wyverns, Griffons, Gargoyles, and other monster categories in these chapters.",
+      "replacement": "From low-level monsters such as Goblins and Orcs to higher-tier monsters like Trolls, Ogres, and Lycanthropes…",
+      "severity": "minor",
+      "source": "Chapter 379, opening description of the monster army"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Kwagwagwagwang!",
+      "defect": "The Korean-style romanized sound effect remains untranslated in an otherwise English-only reading copy.",
+      "id": "C11",
+      "rationale": "The replacement matches the chapter’s established English rendering of repeated explosive impacts.",
+      "replacement": "Boom-boom-boom!",
+      "severity": "minor",
+      "source": "Chapter 379, first collision between the defenders and monster army"
+    }
+  ],
+  "summary": "The reading copies are broadly consistent in voice and terminology, but the checkpoint materials incorrectly preserve two resolved identity mysteries: the boarding boy is Mungyeong, and the burning aircraft is Taekyung’s private jet. The durable state also lags the final scene and omits its immediate cliffhanger. Minor English-copy issues include two awkward collocations, inconsistent monster-name capitalization, and an untranslated Korean-style sound effect.",
+  "version": 1
+}

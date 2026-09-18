@@ -1333,3 +1333,12 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 배리어 | **Barrier** | Team Leader Choi's protective spell. |
 | 헌터 마켓 | **Hunter Market** | Market where Jin bought the spear at a discount. |
 | 검은 별 | **Black Star** | Epithet of the leader Wyvern killed by Jin. |
+| 샤오 쉔 | **Shao Shen** | Twenty-year-old Hunter of the Public Security Armed Forces Department and the chapter’s viewpoint character. |
+| 야오위 | **Yao Wei** | A-rank Hunter, Shao Shen’s friend and colleague, reanimated as a Dullahan. |
+| 류인친 | **Liu Yinqin** | Hunter whose cry identifies himself to a fellow member of the unit. |
+| 중화 | **Zhonghua** | Patriotic term used in Shao Shen’s rallying speech. |
+| 그리폰 | **Griffon** | Flying monster species attacking the airport. |
+| 가고일 | **Gargoyle** | Flying monster species accompanying the Wyverns. |
+| 라이칸슬로프 | **Lycanthrope** | Source spelling for the higher-tier monster species. |
+| 듀라한 | **Dullahan** | Headless undead monster form taken by Yao Wei. |
+| 포이즌 브레스 | **Poison Breath** | Acidic attack fired by the Green Wyvern. |
