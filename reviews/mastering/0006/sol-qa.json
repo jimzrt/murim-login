@@ -2,23 +2,15 @@
   "chapter": 6,
   "errors": [],
   "metrics": {
-    "length_ratio": 2.119,
+    "length_ratio": 2.164,
     "source_characters": 5597,
     "source_paragraphs": 197,
-    "translation_characters": 11858,
-    "translation_paragraphs": 185
+    "translation_characters": 12111,
+    "translation_paragraphs": 184
   },
   "passed": true,
   "version": 1,
   "warnings": [
-    {
-      "code": "terminology",
-      "details": {
-        "korean": "경지",
-        "preferred": "realm / realm stage"
-      },
-      "message": "matched preferred term is absent"
-    },
     {
       "code": "terminology",
       "details": {
@@ -30,16 +22,40 @@
     {
       "code": "terminology",
       "details": {
-        "korean": "본가",
-        "preferred": "our family / this family"
+        "korean": "대사",
+        "preferred": "Master for a senior Buddhist monk"
       },
       "message": "matched preferred term is absent"
     },
     {
       "code": "terminology",
       "details": {
-        "korean": "대사",
-        "preferred": "Master for a senior Buddhist monk"
+        "korean": "신의",
+        "preferred": "Divine Physician"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "수문각",
+        "preferred": "Gate Guard Pavilion"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "인내",
+        "preferred": "Endurance"
       },
       "message": "matched preferred term is absent"
     }
