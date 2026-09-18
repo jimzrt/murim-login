@@ -2,9 +2,9 @@
 
 Creeeak.
 
-The man entered the inn around early afternoon.
+The man entered the inn in the early afternoon.
 
-The old wooden door creaked, but no one inside turned to look. Not even the owner and the waiter, who should have been rushing to greet a customer.
+The old wooden door creaked, but no one inside turned to look. Not even the owner and waiter, who should have rushed to greet a new customer.
 
 “So? So what happened?”
 
@@ -12,9 +12,9 @@ The old wooden door creaked, but no one inside turned to look. Not even the owne
 
 At the crowd’s eager urging, the old man tapped his empty bowl.
 
-Only after the owner filled it to overflowing with bamboo-leaf wine did the old man—the storyteller—go on.
+Only after the owner filled it to overflowing with bamboo-leaf wine did the old man—the storyteller—continue.
 
-“A fierce battle broke out. Blood Wolf Sword Lee Cheonbaek brought no fewer than thirty thousand men. Compared to that, the Jin Family of Taiyuan had only three hundred elites.”
+“A fierce battle broke out. Blood Wolf Sword Lee Cheonbaek brought no fewer than thirty thousand men. Against them, the Jin Family of Taiyuan had only three hundred elites.”
 
 “Thirty thousand!”
 
@@ -24,19 +24,19 @@ Only after the owner filled it to overflowing with bamboo-leaf wine did the old 
 
 The storyteller stopped mid-sip and spat the wine back out.
 
-“Fuck this. This booze tastes like shit. I’m leaving. Hear the rest from the guy who brought up the Nine Sects and One Gang.”
+“Fuck this. This booze tastes like shit. I’m leaving. You can hear the rest from the guy who brought up the Nine Sects and One Gang.”
 
 “Now, hold on. Why are you doing this?”
 
-“Who just said that?”
+“Who said that?”
 
-The mood turned ugly, and a young man was shoved back, half-stumbling.
+The mood turned ugly, and a young man was shoved forward, half-stumbling.
 
-Only then did the storyteller set his half-raised ass back down. His stomach had turned, and his nerve had thickened to match.
+Only then did the storyteller lower his half-raised ass back onto his seat. He was offended now, and that had made him bolder.
 
 Tap, tap.
 
-Everyone frowned as the storyteller tapped his empty bowl. Now they had to give him money, not more wine. They were in the middle of an unspoken standoff when—
+Everyone frowned as the storyteller tapped his empty bowl. This time, he wanted money instead of wine. They were in the middle of an unspoken standoff when—
 
 Ting.
 
@@ -44,7 +44,7 @@ Ting.
 
 The storyteller’s narrowed eyes flew open. A gleaming silver nyang had come flying from somewhere.
 
-“Well. Whoever that is, they’re a big spender.”
+“Well. Whoever that was sure has deep pockets.”
 
 “Who was it?”
 
@@ -54,7 +54,7 @@ That was when someone spoke from behind the crowd.
 
 “I’d like to hear more.”
 
-The voice was quiet but resonant. It belonged to the man who had entered the inn earlier. His face was hidden under a bamboo hat pulled low, and the cloak wrapped around him was caked with dust.
+The voice was quiet but resonant. It belonged to the man who had entered the inn earlier. His face was hidden beneath a bamboo hat pulled low, and the cloak wrapped around him was caked with dust.
 
 *A martial artist.*
 
@@ -64,13 +64,13 @@ The storyteller looked from the silver to the man and swallowed.
 
 “Thank you, Great Hero. Is there something in particular you’d like to hear…?”
 
-In his experience, ruffians and martial artists were only a hair apart. He was an old man who had lived his share of years, but he had no desire to get stabbed to death in a place like this.
+In his experience, ruffians and martial artists were only a hair apart. He had lived his share of years, but he had no desire to get stabbed to death in a place like this.
 
-Fortunately, the man in the bamboo hat was the latter.
+Fortunately, the man in the bamboo hat belonged to the latter group.
 
 “Keep it simple. Just the facts.”
 
-Judging by the voice, he was clearly a young bastard—but a young bastard who had learned martial arts. The storyteller couldn’t treat him carelessly. He rubbed his palms together.
+Judging by his voice, he was clearly a young bastard—but a young bastard who had learned martial arts. The storyteller couldn’t treat him carelessly. He rubbed his palms together.
 
 “I’ll tell you everything I know, sir. The whole lot.”
 
@@ -102,7 +102,7 @@ Judging by the voice, he was clearly a young bastard—but a young bastard who h
 
 “They’re the same person.”
 
-The man, who had been silent until then, snapped his fingers. A second silver nyang landed perfectly in the storyteller’s bowl.
+After a long silence, the man snapped his fingers. A second silver nyang landed perfectly in the storyteller’s bowl.
 
 “I believe I asked you to keep it simple and stick to the facts.”
 
@@ -122,13 +122,13 @@ At the storyteller’s resolute answer, the man sighed.
 
 “A horse’s mess, more like. They’re mounted bandits, aren’t they?”
 
-The inn went dead quiet. Everyone expected the big-spending martial artist to drive a third silver tael into the storyteller’s forehead.
+The inn went dead quiet. Everyone expected the big-spending martial artist to drive a third silver nyang into the storyteller’s forehead.
 
 Instead, the man rose from his seat without a word.
 
-“I heard you.”
+“Thank you for the story.”
 
-Even after the man left, the storyteller’s tale went on. They drank without pause, and the snacks never ran out.
+Even after the man left, the storyteller’s tale went on. The patrons drank without pause, and the snacks never ran out.
 
 They all talked about the struggle for supremacy among martial artists. Victory and defeat. The young hero who had risen like a morning star.
 
@@ -144,23 +144,23 @@ They all talked about the struggle for supremacy among martial artists. Victory 
 
 “Dunno. At this hour, he’s probably asleep.”
 
-Even as the drinking went on inside the inn, the man rode in silence. His mouth was shut tight, but his ears were wide open.
+Even as the drinking continued inside the inn, the man rode on in silence. His mouth was shut tight, but his ears remained wide open.
 
 “Did you hear?”
 
 “The Sleeping Dragon again? My ears are bleeding. Give it a rest.”
 
-“Yeah, but this is grade-one intel. I heard it from a martial artist of the Jin Family of Taiyuan’s Gate Guard Pavilion.”
+“Yeah, but this is top-grade information. I heard it from a martial artist at the Jin Family of Taiyuan’s Gate Guard Pavilion.”
 
 “What’s the fuss?”
 
 “You know the Heavenly Axe?”
 
-“The Heavenly Axe of the Eighteen Strongholds of Green Forest? That mountain bandit who’s a Peak master anyway?”
+“The Heavenly Axe of the Eighteen Strongholds of Green Forest? That mountain bandit who’s supposedly a Peak master?”
 
 “That’s the one. Word is the Sleeping Dragon of Shanxi took him out too!”
 
-“Isn’t that just a rumor? Why would someone like the Heavenly Axe come all the way to Shanxi to play bandit?”
+“Isn’t that just a rumor? Why would someone like the Heavenly Axe come all the way to Shanxi Province to play bandit?”
 
 “How would I know? The wilder part is that Yama Whip was there too.”
 
@@ -168,17 +168,17 @@ Even as the drinking went on inside the inn, the man rode in silence. His mouth 
 
 “They say he’s disguised as a coachman at Honghwaru. If you ever have reason to go there, watch yourself.”
 
-Of all the talk that never stopped, two words came up most often.
+Of all the words in the ceaseless chatter, two came up most often.
 
 The Sleeping Dragon of Shanxi.
 
 And Jin Taekyung.
 
-The closer the man came to his destination, the more the rumors swelled like a snowball, growing larger and larger.
+The closer the man came to his destination, the more the rumors snowballed.
 
 *The most handsome man of all time. Possessor of the heaven-bestowed Heavenly Martial Physique. A chivalrous hero who cannot stand injustice.*
 
-The man in the bamboo hat spurred his horse. Even the Shan in Sleeping Dragon of Shanxi was enough to make his stomach churn and his head ache, as if he had taken an internal injury.
+The man in the bamboo hat spurred his horse onward. Hearing so much as the *Shan* in Sleeping Dragon of Shanxi made his stomach churn and his head ache as if he had suffered an internal injury.
 
 He finally reached his destination the next morning.
 
@@ -188,7 +188,7 @@ The place he had returned to after several years was unchanged.
 
 If there was any difference worth mentioning—
 
-“Stop right there! I am the hegemon of Shanxi, Captain of the Gatekeepers of the Great Jin Family of Taiyuan, and the right-hand man of the Sleeping Dragon of Shanxi—Hyuk Mujin! State your identity and purpose, and—”
+“Stop right there! I am Hyuk Mujin, Captain of the Gatekeepers of the great Jin Family of Taiyuan, hegemon of Shanxi, and right-hand man of the Sleeping Dragon of Shanxi! State your identity and purpose, and—”
 
 —it was that a guy who looked like hell was serving as Captain of the Gatekeepers.
 
@@ -200,9 +200,9 @@ The man in the bamboo hat, Jin Mukyung, sighed.
 
 Whoooosh.
 
-The water flowed. Calm, and unimpeded.
+A current flowed, calm and unimpeded.
 
-The internal energy that had left my dantian raced through hundreds of acupoints, then finally returned to where it belonged.
+The internal energy that had left my dantian raced through hundreds of acupoints, then finally returned to its rightful place.
 
 Ding!
 
@@ -218,25 +218,25 @@ I opened my eyes as I listened to the System notification.
 
 It was clearly good news, but I couldn’t help feeling a little disappointed.
 
-The notification I had been waiting for was a different one.
+I had been waiting for a different notification.
 
-*Could’ve at least bumped my internal energy.*
+*Could’ve at least bumped up my internal energy.*
 
-Today marked two months since I had been able to use the System. Circulating my qi had become a habit, but my internal energy was still going nowhere.
+Today marked two months since I had gained access to the System. Circulating my qi had become a habit, but my internal energy was still going nowhere.
 
 *At this rate, it’ll take another ten years.*
 
-The greatest strength of the Jin Family’s Cultivation Technique I had learned was its stability. Unlike ordinary internal cultivation techniques, I could even run it while moving.
+The greatest strength of the Jin Family’s Cultivation Technique was its stability. Unlike ordinary internal cultivation techniques, I could even keep it running while I moved.
 
 The problem was…
 
-*The accumulation speed is fucking terrible.*
+*It accumulates internal energy slow as fuck.*
 
-For a martial artist, a lack of internal energy was a fatal weakness.
+For a martial artist, lacking internal energy was a fatal weakness.
 
 I could handle First Rate and Second Rate opponents easily enough, but if I ran into a Peak master as an enemy, even two lives wouldn’t be enough.
 
-I had felt that clearly after tasting the Head Elder’s martial might firsthand.
+Experiencing the Head Elder’s martial might firsthand had driven that home.
 
 *That old man was something else.*
 
@@ -246,13 +246,13 @@ No. Not five days.
 
 Even fifty years from now, I would never forget that sight.
 
-The Sword Energy and Sword Force that had swept the battlefield. And that absurd number—Level 95.
+The Sword Energy and Sword Force sweeping across the battlefield. And that absurd number—Level 95.
 
 *How long could I have lasted against him one-on-one?*
 
-Even if I had wrung out every last ounce of strength, I doubted I could have held on for a minute.
+Even if I had wrung out every last ounce of strength, I doubted I could have held on for a full minute.
 
-But unexpected variables had overturned the result, and I had been able to drive my spear through his chest.
+But unexpected variables had overturned the result, and I had managed to drive my spear through his chest.
 
 And the System had not forgotten my reward.
 
@@ -292,9 +292,9 @@ I had checked that Status Window dozens of times over the past few days, and I s
 
 *Fighting the Head Elder was worth it.*
 
-It had been a gamble with my life on the line, so the reward was stacked.
+It had been a gamble with my life on the line, and the reward was just as lavish.
 
-I had jumped thirteen levels in one stroke, my Fame had entered the triple digits, and my Titles had changed.
+I had jumped thirteen levels in one stroke, my Fame had risen by three digits, and my Titles had changed.
 
 “Check Titles.”
 
@@ -310,7 +310,7 @@ Ding!
 > **Effect:** All Stats +10, Fame +100  
 > **Description:** Your fame has now spread throughout Shanxi. But the world is vast and masters are many. Never become complacent!
 
-I wasn’t a nationwide name yet, but in Shanxi—my local district—I apparently had some real clout…
+I wasn’t a nationwide name yet, but apparently I had some real clout here in my home district of Shanxi…
 
 *So that’s why it’s called the Sleeping Dragon of Shanxi?*
 
@@ -320,9 +320,7 @@ Either way, it was good for me. I had a solid new Title, and Family Shame, the t
 
 *I’ve gotten stronger again.*
 
-I suddenly remembered what I had told Team Leader Choi before coming back to Murim.
-
-“Next time you see me, you’ll have to revise the contract.”
+I suddenly remembered my conversation with Team Leader Choi before returning to Murim. I had told him that the next time he saw me, he would have to revise my contract.
 
 He had probably taken it as a bluff. I had made it a fact.
 
@@ -346,7 +344,7 @@ I stopped everything I was doing and tried to pin down that sense of déjà vu.
 
 That was when—
 
-“Is it here?”
+“Is this the room?”
 
 “Yessir. No mistake.”
 
@@ -360,15 +358,15 @@ The door tore off its hinges with a thunderous crash.
 
 I take basic common sense seriously.
 
-Tissues go in the trash. Cigarettes belong in the smoking area. Porn comes from Japan.
+Tissues go in the trash. Cigarettes belong in designated smoking areas. Porn comes from Japan.
 
 And when you enter someone else’s room, you knock.
 
-I especially believe that anyone who barges into a room a man uses alone, without knocking, deserves life in prison.
+I especially believe that anyone who barges into a room occupied by a man alone without knocking deserves life in prison.
 
-By that standard, the bastard in front of me got the death penalty.
+By that standard, the bastard in front of me deserved the death penalty.
 
-He had smashed the door, so that was life. He had spoken down to me on first meeting, so that was an extra charge.
+Smashing the door got him life. Talking to me like we were equals on our first meeting earned him an additional sentence.
 
 I answered him politely.
 
@@ -376,7 +374,7 @@ I answered him politely.
 
 The bastard’s eyes went round. His face was black with grime, as if he had spent twenty years in the Aoji Coal Mine.[^1]
 
-Young, in shabby clothes. The story practically wrote itself.
+Young, dressed in rags. The story practically wrote itself.
 
 *Wandering Martial Artist #1.*
 
@@ -406,7 +404,7 @@ I looked at the Level window once.
 
 Then at his face.
 
-I did that three or four times, then walked up to him with my heart pounding.
+I repeated that three or four times before approaching him with my heart pounding.
 
 “Uh. Just a second.”
 
@@ -414,11 +412,13 @@ I did that three or four times, then walked up to him with my heart pounding.
 
 Rub, rub.
 
-My clean sleeve turned black. Then a handsome face emerged. I thought I had seen it somewhere before, and then I realized it was the face I met every morning when I washed up.
+My clean sleeve turned black. Then a handsome face emerged. I thought I had seen it somewhere before, and then I realized it was the face I saw every morning when I washed up.
 
-*Carbon copies.*
+*We’re the spitting image of each other.*
 
-I gave an awkward laugh. Wandering Martial Artist #1 was glaring at me, his eyes like ice.
+Heh.
+
+I gave him an awkward smile. Wandering Martial Artist #1 glared at me with eyes like ice.
 
 “Long time no see, hyung.”
 
