@@ -1265,3 +1265,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 장로원 | **Council of Elders** | Tang Clan body headed by Tang Jinhu. |
 | 당휘 | **Tang Hwi** | Tang Clan martial artist named during the assault. |
 | 당문삼기 | **Tang Clan's Three Skills** | Western Heaven Demon Lord's mocking replacement for Tang Clan's Ten Wonders. |
+| 귀옥지 | **Ghost Prison Finger** | Eighth-stage finger technique used by the Western Heaven Demon Lord. |
+| 유성추월검 | **Meteor Chasing the Moon Sword** | Named sword technique used by Cheongpung. |
