@@ -2,11 +2,11 @@
   "chapter": 167,
   "errors": [],
   "metrics": {
-    "length_ratio": 2.234,
+    "length_ratio": 2.139,
     "source_characters": 6195,
     "source_paragraphs": 209,
-    "translation_characters": 13840,
-    "translation_paragraphs": 205
+    "translation_characters": 13253,
+    "translation_paragraphs": 204
   },
   "passed": true,
   "version": 1,
@@ -24,6 +24,14 @@
       "details": {
         "korean": "기세",
         "preferred": "aura / momentum"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "노부",
+        "preferred": "this old man"
       },
       "message": "matched preferred term is absent"
     },
@@ -58,14 +66,6 @@
         "preferred": "New Year's Day"
       },
       "message": "matched preferred term is absent"
-    },
-    {
-      "code": "novel_name",
-      "details": {
-        "korean": "사쿠라",
-        "romanization": "sakura"
-      },
-      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
     }
   ]
 }

@@ -1,1 +1,522 @@
-I'll adjudicate chapter 167 against the Korean source, glossary, and SOL hunks, starting with the project workflow and binding terminology.Shell and file tools failed, so I’m checking binding names and prior renderings directly from the repo files.{"chapter": 167, "decisions": [{"hunk_id": "H001", "decision": "SOL", "reason": "입을 열었다 is the start-speaking beat; SOL drops the mouth calque without losing 침착하게."}, {"hunk_id": "H002", "decision": "BASE", "reason": "노부 may be I here; SOL’s this old man’s sight is a stiff self-reference calque of 눈앞에서 꺼져."}, {"hunk_id": "H003", "decision": "SOL", "reason": "Same 몸을 돌리다 / 입을 열었다 beat; spoke up is natural English where opened my mouth is body-part translationese."}, {"hunk_id": "H004", "decision": "REPAIR", "replacement": "Ten-Thousand-Year Cold Iron: a mysterious mineral imbued with a supernatural power—the hardest and sharpest material in the world, able to withstand even Sword Energy.", "reason": "광물 is mineral, not ore; BASE’s that made it adds unstated causality, SOL’s thing is too vague."}, {"hunk_id": "H005", "decision": "SOL", "reason": "다시 생각해 보니까 / 그건 좀 아니다 is the second-thought ‘a bit much’ beat; BASE’s even that was going too far overweights it."}, {"hunk_id": "H006", "decision": "SOL", "reason": "넉살 좋게 is cheeky nerve, not easygoing; shameless matches the thick-skinned return smile."}, {"hunk_id": "H007", "decision": "SOL", "reason": "최하급 헌터 is a Hunter classification; project rules reserve rank, not level, for that."}, {"hunk_id": "H008", "decision": "SOL", "reason": "Project punctuation requires the ellipsis character, not three periods."}, {"hunk_id": "H009", "decision": "SOL", "reason": "Same ellipsis-character correction as the matching ……? beats."}, {"hunk_id": "H010", "decision": "SOL", "reason": "Same ellipsis-character correction as the matching ……? beats."}, {"hunk_id": "H011", "decision": "SOL", "reason": "BASE drops 순간; brazen is within range for this 당당한 spit-it-out answer."}, {"hunk_id": "H012", "decision": "SOL", "reason": "저게 말이야, 방구야 is the speech-or-fart joke; BASE flattens it to generic nonsense."}, {"hunk_id": "H013", "decision": "BASE", "reason": "모르겠다 is I don’t know; SOL’s really judge adds evaluation the source does not state."}, {"hunk_id": "H014", "decision": "SOL", "reason": "사쿠라 is the gambling-reveal shout set up by the cardsharp line; A fake! loses that wording."}, {"hunk_id": "H015", "decision": "SOL", "reason": "System rule keeps bold on labels only; wrapping the accept prompt and Y/N in outer bold is extra."}, {"hunk_id": "H016", "decision": "REPAIR", "replacement": "[^1]: He Shou Wu is a traditional medicinal herb made from the tuberous root of *Polygonum multiflorum*.\n[^2]: Sakura (“cherry blossom”) is one of the flower cards in hwatu, the card game widely played in Korea; the word is also slang for a fake.", "reason": "The 사쿠라 shout is fake-slang as well as a hwatu card; SOL’s note omits the meaning that makes the reveal land."}]}
+{
+  "chapter": 167,
+  "decisions": [
+    {
+      "hunk_id": "H001",
+      "decision": "SOL",
+      "reason": "SOL keeps the sense while making the narration more concise and natural."
+    },
+    {
+      "hunk_id": "H002",
+      "decision": "SOL",
+      "reason": "SOL naturally conveys that he calmly tried speaking again."
+    },
+    {
+      "hunk_id": "H003",
+      "decision": "SOL",
+      "reason": "SOL keeps the request to hear him out in natural dialogue."
+    },
+    {
+      "hunk_id": "H004",
+      "decision": "SOL",
+      "reason": "SOL preserves the impatient challenge while making the exchange more conversational."
+    },
+    {
+      "hunk_id": "H005",
+      "decision": "SOL",
+      "reason": "SOL keeps the admission and spoken hesitation."
+    },
+    {
+      "hunk_id": "H006",
+      "decision": "SOL",
+      "reason": "SOL preserves the abrupt request and the elder’s anger in natural English."
+    },
+    {
+      "hunk_id": "H007",
+      "decision": "BASE",
+      "reason": "SOL drops the source action that Jang Taebo shouted; this is a physical-action and timing veto."
+    },
+    {
+      "hunk_id": "H008",
+      "decision": "SOL",
+      "reason": "SOL keeps the continuing-shouts trigger while making the timing more vivid."
+    },
+    {
+      "hunk_id": "H009",
+      "decision": "SOL",
+      "reason": "SOL preserves both the fire starter and the quiet volume of the mutter."
+    },
+    {
+      "hunk_id": "H010",
+      "decision": "SOL",
+      "reason": "SOL keeps the concession and conversational voice."
+    },
+    {
+      "hunk_id": "H011",
+      "decision": "SOL",
+      "reason": "SOL uses the binding New Year's Day rendering and preserves the deadline."
+    },
+    {
+      "hunk_id": "H012",
+      "decision": "SOL",
+      "reason": "SOL keeps the villagers reacting to the commotion; the article change is immaterial."
+    },
+    {
+      "hunk_id": "H013",
+      "decision": "BASE",
+      "reason": "SOL changes 저쪽 into an unsupported claim that Jang Taebo would lose more than they would; BASE preserves the source’s side-based ambiguity."
+    },
+    {
+      "hunk_id": "H014",
+      "decision": "BASE",
+      "reason": "SOL drops the established name Jang Taebo at a point where the source repeats it; this triggers the terminology veto."
+    },
+    {
+      "hunk_id": "H015",
+      "decision": "BASE",
+      "reason": "SOL drops the source’s generalization that young people are all like that."
+    },
+    {
+      "hunk_id": "H016",
+      "decision": "SOL",
+      "reason": "SOL preserves the doors closing in response to his firm reply without the awkward causal phrasing."
+    },
+    {
+      "hunk_id": "H017",
+      "decision": "BASE",
+      "reason": "SOL replaces the distinctive bulging-eyes image with a generic fierce stare."
+    },
+    {
+      "hunk_id": "H018",
+      "decision": "BASE",
+      "reason": "SOL drops the source’s falling-icicles image and its cold, cutting effect."
+    },
+    {
+      "hunk_id": "H019",
+      "decision": "SOL",
+      "reason": "The duplicated setup is cleanly absorbed into H020 without losing the turn toward speaking."
+    },
+    {
+      "hunk_id": "H020",
+      "decision": "SOL",
+      "reason": "SOL naturally combines the movement and sudden thought while preserving both beats."
+    },
+    {
+      "hunk_id": "H021",
+      "decision": "SOL",
+      "reason": "SOL keeps the emphasis and hierarchy in natural spoken English."
+    },
+    {
+      "hunk_id": "H022",
+      "decision": "SOL",
+      "reason": "Looking back is a natural equivalent of turning around in this context."
+    },
+    {
+      "hunk_id": "H023",
+      "decision": "SOL",
+      "reason": "SOL preserves the smith’s competence and the location in brisk dialogue."
+    },
+    {
+      "hunk_id": "H024",
+      "decision": "SOL",
+      "reason": "SOL keeps the mineral’s supernatural nature and its hardness, sharpness, and resistance to Sword Energy."
+    },
+    {
+      "hunk_id": "H025",
+      "decision": "SOL",
+      "reason": "SOL better preserves the source’s broad claim about skilled blacksmiths without overstating it as only the very best."
+    },
+    {
+      "hunk_id": "H026",
+      "decision": "SOL",
+      "reason": "SOL keeps the same hopeful speculation in a more idiomatic internal thought."
+    },
+    {
+      "hunk_id": "H027",
+      "decision": "SOL",
+      "reason": "SOL preserves the unexpectedness of his reaction."
+    },
+    {
+      "hunk_id": "H028",
+      "decision": "SOL",
+      "reason": "SOL keeps the recommendation and passable level of workmanship in natural dialogue."
+    },
+    {
+      "hunk_id": "H029",
+      "decision": "SOL",
+      "reason": "SOL naturally conveys that his indifferent voice made the realization obvious."
+    },
+    {
+      "hunk_id": "H030",
+      "decision": "SOL",
+      "reason": "SOL preserves the contrast between the legendary metal and ordinary copper."
+    },
+    {
+      "hunk_id": "H031",
+      "decision": "SOL",
+      "reason": "SOL keeps the dismissal and the men following; the following dialogue supplies the speech beat."
+    },
+    {
+      "hunk_id": "H032",
+      "decision": "SOL",
+      "reason": "SOL’s pestering keeps the repeated persistence and gives the line a fittingly colloquial voice."
+    },
+    {
+      "hunk_id": "H033",
+      "decision": "SOL",
+      "reason": "SOL keeps the aside and question in natural conversational English."
+    },
+    {
+      "hunk_id": "H034",
+      "decision": "SOL",
+      "reason": "SOL preserves the cautious look and the subsequent offering of the bundle."
+    },
+    {
+      "hunk_id": "H035",
+      "decision": "SOL",
+      "reason": "In unison is a natural equivalent of shouting at the same time."
+    },
+    {
+      "hunk_id": "H036",
+      "decision": "SOL",
+      "reason": "Local naturally conveys 토박이 without unnecessary literal phrasing."
+    },
+    {
+      "hunk_id": "H037",
+      "decision": "SOL",
+      "reason": "SOL preserves the innkeeper’s wariness and immediate broad grin."
+    },
+    {
+      "hunk_id": "H038",
+      "decision": "SOL",
+      "reason": "SOL keeps the frequency and rarity of his leaving home."
+    },
+    {
+      "hunk_id": "H039",
+      "decision": "SOL",
+      "reason": "SOL keeps the self-directed aside while tightening the spoken exchange."
+    },
+    {
+      "hunk_id": "H040",
+      "decision": "SOL",
+      "reason": "SOL preserves the small recurring losses and the inference that he made a fortune."
+    },
+    {
+      "hunk_id": "H041",
+      "decision": "SOL",
+      "reason": "SOL keeps the narrator’s agreement and the joke about obsessive spending."
+    },
+    {
+      "hunk_id": "H042",
+      "decision": "BASE",
+      "reason": "SOL exaggerates 남부럽지 않게 벌었다 into earning more money than he knew what to do with; BASE keeps the source’s degree."
+    },
+    {
+      "hunk_id": "H043",
+      "decision": "SOL",
+      "reason": "SOL preserves the rhetorical question about money failing as a lure in a punchier voice."
+    },
+    {
+      "hunk_id": "H044",
+      "decision": "SOL",
+      "reason": "SOL keeps the narrator’s prior suspicion and the man’s difficulty."
+    },
+    {
+      "hunk_id": "H045",
+      "decision": "SOL",
+      "reason": "SOL preserves the transactional logic and Jang Taebo’s contentment."
+    },
+    {
+      "hunk_id": "H046",
+      "decision": "SOL",
+      "reason": "SOL keeps the question and example while using more natural word order."
+    },
+    {
+      "hunk_id": "H047",
+      "decision": "SOL",
+      "reason": "The plural wording remains a natural equivalent of asking whether he makes things."
+    },
+    {
+      "hunk_id": "H048",
+      "decision": "SOL",
+      "reason": "SOL preserves the generic examples in idiomatic plural English."
+    },
+    {
+      "hunk_id": "H049",
+      "decision": "SOL",
+      "reason": "SOL keeps the habit-forming repetition and lifelong work with fire and iron."
+    },
+    {
+      "hunk_id": "H050",
+      "decision": "SOL",
+      "reason": "SOL compresses the same restlessness into a natural sentence."
+    },
+    {
+      "hunk_id": "H051",
+      "decision": "SOL",
+      "reason": "Gave me a strange look naturally conveys the innkeeper’s strange expression in context."
+    },
+    {
+      "hunk_id": "H052",
+      "decision": "SOL",
+      "reason": "SOL preserves the winter firewood delivery and the lack of any known making."
+    },
+    {
+      "hunk_id": "H053",
+      "decision": "SOL",
+      "reason": "SOL keeps that they were eating breakfast while listening."
+    },
+    {
+      "hunk_id": "H054",
+      "decision": "SOL",
+      "reason": "Impenetrable is a natural metaphorical rendering of 철벽 and preserves the comic assessment."
+    },
+    {
+      "hunk_id": "H055",
+      "decision": "REPAIR",
+      "replacement": "One of the inn’s flaws was that the food was absolutely terrible.",
+      "reason": "Both versions add an unsupported qualifier—major or many—where the source only says it is one of the inn’s flaws."
+    },
+    {
+      "hunk_id": "H056",
+      "decision": "SOL",
+      "reason": "SOL keeps the owner’s hands as the evidence of poor hygiene and reads naturally."
+    },
+    {
+      "hunk_id": "H057",
+      "decision": "SOL",
+      "reason": "SOL preserves the exclusive diet and the character’s enthusiastic delivery."
+    },
+    {
+      "hunk_id": "H058",
+      "decision": "SOL",
+      "reason": "SOL correctly avoids stamping the ordinary narrative reference with hyung."
+    },
+    {
+      "hunk_id": "H059",
+      "decision": "SOL",
+      "reason": "On second thought is the natural equivalent of reconsidering the comparison."
+    },
+    {
+      "hunk_id": "H060",
+      "decision": "BASE",
+      "reason": "SOL’s clean the last plate can mean wash it; BASE preserves Cheongpung eating everything from the plate."
+    },
+    {
+      "hunk_id": "H061",
+      "decision": "BASE",
+      "reason": "SOL drops the source’s specific morning context from 아침잠이 별로 없다."
+    },
+    {
+      "hunk_id": "H062",
+      "decision": "SOL",
+      "reason": "SOL preserves the innkeeper standing outside and waving until they vanished."
+    },
+    {
+      "hunk_id": "H063",
+      "decision": "SOL",
+      "reason": "Sleep well is a natural morning greeting conveying a comfortable night."
+    },
+    {
+      "hunk_id": "H064",
+      "decision": "SOL",
+      "reason": "Saw is a natural equivalent of spotted and preserves the repeated clarification."
+    },
+    {
+      "hunk_id": "H065",
+      "decision": "SOL",
+      "reason": "SOL keeps the direct profanity and the narrator’s dismissal of the insult."
+    },
+    {
+      "hunk_id": "H066",
+      "decision": "SOL",
+      "reason": "SOL preserves the innkeeper’s report and the thirty-year-old He Shou Wu."
+    },
+    {
+      "hunk_id": "H067",
+      "decision": "SOL",
+      "reason": "SOL keeps the comparison to martial arts novels and the star-plucking image."
+    },
+    {
+      "hunk_id": "H068",
+      "decision": "SOL",
+      "reason": "SOL preserves the difficulty of finding the herb locally even with money."
+    },
+    {
+      "hunk_id": "H069",
+      "decision": "SOL",
+      "reason": "SOL correctly uses Jinho without adding hyung to ordinary narration."
+    },
+    {
+      "hunk_id": "H070",
+      "decision": "SOL",
+      "reason": "SOL naturally conveys that the legs lacked enough strength to stand properly."
+    },
+    {
+      "hunk_id": "H071",
+      "decision": "SOL",
+      "reason": "SOL preserves the joke and correctly avoids adding hyung in narration."
+    },
+    {
+      "hunk_id": "H072",
+      "decision": "SOL",
+      "reason": "The interjection change is a natural voice adjustment with no semantic loss."
+    },
+    {
+      "hunk_id": "H073",
+      "decision": "BASE",
+      "reason": "SOL drops the source’s startled interjection and leaves an unnatural “Oh, me?”; BASE preserves the pragmatic reaction."
+    },
+    {
+      "hunk_id": "H074",
+      "decision": "SOL",
+      "reason": "A tug on the line is a natural fishing metaphor that preserves the bait imagery."
+    },
+    {
+      "hunk_id": "H075",
+      "decision": "SOL",
+      "reason": "SOL keeps the internal-energy quantity and the narrator’s lack of reluctance to give it away."
+    },
+    {
+      "hunk_id": "H076",
+      "decision": "SOL",
+      "reason": "SOL preserves the raw, roots-and-all instruction in natural dialogue."
+    },
+    {
+      "hunk_id": "H077",
+      "decision": "SOL",
+      "reason": "SOL keeps the same absurd imagined result with more natural English word order."
+    },
+    {
+      "hunk_id": "H078",
+      "decision": "BASE",
+      "reason": "SOL changes submitting the commission into merely bringing it up; BASE preserves the intended action."
+    },
+    {
+      "hunk_id": "H079",
+      "decision": "BASE",
+      "reason": "SOL drops the source’s explicit sound-of-being-cut-off image; BASE preserves the comic auditory metaphor."
+    },
+    {
+      "hunk_id": "H080",
+      "decision": "SOL",
+      "reason": "SOL applies the required ellipsis convention without changing the reaction."
+    },
+    {
+      "hunk_id": "H081",
+      "decision": "SOL",
+      "reason": "SOL applies the required ellipsis convention without changing the reaction."
+    },
+    {
+      "hunk_id": "H082",
+      "decision": "SOL",
+      "reason": "SOL applies the required ellipsis convention without changing the reaction."
+    },
+    {
+      "hunk_id": "H083",
+      "decision": "SOL",
+      "reason": "SOL correctly closes the narrative sentence before the following dialogue."
+    },
+    {
+      "hunk_id": "H084",
+      "decision": "SOL",
+      "reason": "SOL makes the repeated reply’s pragmatic emphasis explicit while preserving the meaning."
+    },
+    {
+      "hunk_id": "H085",
+      "decision": "SOL",
+      "reason": "Bullshit preserves the source’s crude, incredulous comic reaction."
+    },
+    {
+      "hunk_id": "H086",
+      "decision": "SOL",
+      "reason": "Good for you is a natural spoken equivalent of being beneficial to the body."
+    },
+    {
+      "hunk_id": "H087",
+      "decision": "SOL",
+      "reason": "SOL uses the binding glossary rendering Hundred-Year-Old Snow Ginseng."
+    },
+    {
+      "hunk_id": "H088",
+      "decision": "REPAIR",
+      "replacement": "When I found myself agreeing, Jang Taebo rummaged through his robes and tossed something at me.",
+      "reason": "BASE adds awkwardness and SOL drops the source’s involuntary, off-guard agreement; both miss 얼떨결에 수긍하자."
+    },
+    {
+      "hunk_id": "H089",
+      "decision": "SOL",
+      "reason": "Scornful preserves the contemptuous expression in natural English."
+    },
+    {
+      "hunk_id": "H090",
+      "decision": "SOL",
+      "reason": "SOL keeps the occasional gambling and the cardsharp comparison while sharpening the joke."
+    },
+    {
+      "hunk_id": "H091",
+      "decision": "SOL",
+      "reason": "SOL preserves the unexplained tension and reads naturally."
+    },
+    {
+      "hunk_id": "H092",
+      "decision": "SOL",
+      "reason": "SOL preserves the fake-then-correction joke and the moment of realization."
+    },
+    {
+      "hunk_id": "H093",
+      "decision": "SOL",
+      "reason": "SOL makes the comparison grammatically precise without changing the physical description."
+    },
+    {
+      "hunk_id": "H094",
+      "decision": "SOL",
+      "reason": "Struck my nose naturally conveys the strong fragrant smell."
+    },
+    {
+      "hunk_id": "H095",
+      "decision": "SOL",
+      "reason": "SOL preserves both the evidential hedge and the fifty-year quantity."
+    },
+    {
+      "hunk_id": "H096",
+      "decision": "SOL",
+      "reason": "SOL preserves the victor’s smile while improving sentence rhythm."
+    },
+    {
+      "hunk_id": "H097",
+      "decision": "SOL",
+      "reason": "SOL keeps the regular delivery, debt, and the bureau head’s discretion."
+    },
+    {
+      "hunk_id": "H098",
+      "decision": "BASE",
+      "reason": "SOL turns the narrator’s observed appearance of health into an unsupported objective claim; BASE preserves 정정하더라 as looked healthier."
+    },
+    {
+      "hunk_id": "H099",
+      "decision": "SOL",
+      "reason": "Enough with these tricks naturally conveys the command to stop the transparent scheme."
+    },
+    {
+      "hunk_id": "H100",
+      "decision": "SOL",
+      "reason": "SOL keeps the question about the condition for accepting the commission."
+    },
+    {
+      "hunk_id": "H101",
+      "decision": "SOL",
+      "reason": "Dug his pinky into his ear accurately preserves the small physical action."
+    },
+    {
+      "hunk_id": "H102",
+      "decision": "SOL",
+      "reason": "SOL preserves the conditional request and his tentative willingness to consider it."
+    },
+    {
+      "hunk_id": "H103",
+      "decision": "SOL",
+      "reason": "SOL preserves the two-part explanation in clean, natural dialogue."
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"summary":"The assembled chapter is faithful to the Korean source, with no genuine fidelity defects found.","findings":[]}
+{
+  "summary": "Chapter 167 assembled English is faithful to the Korean source with minor terminology adherence issues.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Glossary adherence",
+      "current": "Master Artisan",
+      "defect": "The Korean term '명장' requires English 'Master Artisan' per glossary, which is present. However, some established glossary terms such as 'Murim', 'aura/momentum', 'this old man' (노부), 'your family' (귀가), 'Sooni', 'Song-i', and 'New Year's Day' (원단) are absent in text segments where their use would be appropriate, substituting for more generic or omitted terms.",
+      "replacement": "Review and insert established glossary terms where contextually appropriate to maintain consistent terminology and fidelity.",
+      "rationale": "The glossary specifies binding preferred terms to preserve terminology consistency, which is critical for series continuity and reader understanding. The assembled text sometimes uses paraphrases or omissions where glossary terms should be applied.",
+      "confidence": 1.0
+    }
+  ]
+}
