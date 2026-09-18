@@ -1,17 +1,17 @@
 # Translation State
 
-- Last completed: 336
-- Next chapter: 337
-- Current block: 335–339 (2/5)
-- Latest translation: `translations/0336.md`
-- Latest summary: `summaries/beats/0336.md`
-- Safe profiles through: chapter 336
+- Last completed: 337
+- Next chapter: 338
+- Current block: 335–339 (3/5)
+- Latest translation: `translations/0337.md`
+- Latest summary: `summaries/beats/0337.md`
+- Safe profiles through: chapter 337
 
 ## Current Block
 
-- Jin Taekyung presents Mae Jonghak’s letter to Tang Sadok, who learns that Jin Baekyang has died and reads the Sword Saint’s account of Jeok Cheongang’s condition and the search for the Divine Physician.
-- Tang Sadok refuses to let Taekyung meet Poison King Tang Taesang or provide direct assistance, offering only guides to the Qingcheng Sect and Emei Sect. Cheongpung appeals to human compassion, while Taekyung warns that refusing help will establish an unpleasant debt of gratitude and grudges between him and the Sichuan Tang Clan.
-- Tang Sadok reveals that the Sichuan Tang Clan’s emergency mobilization is a response to Tang Taesang’s murder. An unidentified middle-aged man is shown after killing Tang Taesang; poison remains in one arm, which he amputates before leaving the cave.
+- Tang Sadok’s account confirms that his father, Poison King Tang Taesang, was tortured and brutally mutilated before being killed by an unidentified assailant. Tang Sadok and the Sichuan Tang Clan are pursuing the culprit independently and will not assist Jin Taekyung’s party in finding the Divine Physician.
+- Gung Gibang learns little from the Chengdu branch of the Beggars’ Sect, but tells its branch leader the truth and orders surveillance of suspicious people. Cheongpung sends a messenger eagle to his grandfather. The companions consider surviving demonic practitioners and the master of Moonshadow Assassination Valley as possible suspects, but Taekyung concludes that he would currently lose against someone strong enough to kill the Poison King.
+- Taekyung remains focused on finding the Divine Physician and saving Jeok Cheongang. The Divine Physician’s Token contains a clue that the finest Chinese gallnuts come from Sichuan, but gives no address.
 
 ## Open Questions
 
@@ -25,9 +25,8 @@
 
 - Render 선화아 as Ship-Fire Boy and retain Mu Song for 무송.
 - Render 사천당문 as Sichuan Tang Clan and 당가 as Tang Family when the source distinguishes the forms.
-- Render 공자님 as Young Master when Mungyeong addresses Taekyung.
-- Render 화타 as Hua Tuo.
-- Render 노야 as Old Master in Taekyung’s private address for Jeok Cheongang.
+- Render 공자님 as Young Master, 화타 as Hua Tuo, and 노야 as Old Master in their established contexts.
+- Render 미산 as Meishan, 월영살곡 as Moonshadow Assassination Valley, 곡주 as Valley Master, and 신의의 증표 as Divine Physician’s Token.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

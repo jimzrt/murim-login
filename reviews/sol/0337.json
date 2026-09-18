@@ -1,0 +1,106 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“We’ll hear back within seven days and nights at the latest.”",
+      "defect": "The translation reverses the direction of the communication. Gung Gibang says their message will reach Cheongpung’s grandfather within seven days, not that the party will receive a reply by then.",
+      "id": "F01",
+      "rationale": "소식이 갈 거다 means that the news or message will go to its recipient; it does not promise a response.",
+      "replacement": "“The message will reach him within seven days at the latest.”",
+      "severity": "critical",
+      "source": "“아무리 늦어도 칠 주야 안에는 소식이 갈 거다.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The man known as the Sword Saint, the Bow Saint, and finally, the Slaughter Saint.",
+      "defect": "This makes one man the bearer of all three titles. The source enumerates the Sword Saint, the Bow Saint, and lastly the separate man called the Slaughter Saint.",
+      "id": "F02",
+      "rationale": "검성과 궁성 are separate members of the Three Saints, while 그 refers specifically to the final figure, the Slaughter Saint.",
+      "replacement": "The Sword Saint. The Bow Saint. And finally, the man known as the Slaughter Saint.",
+      "severity": "critical",
+      "source": "검성(劍星)과 궁성(弓星), 마지막으로 살성(殺星)이라 불리는 그의 존재를."
+    },
+    {
+      "confidence": 0.98,
+      "current": "When I saw him earlier, he was so absorbed in his medical books that he didn’t even notice someone had entered.",
+      "defect": "약방문 is a medicinal prescription or formula, not a collection of medical books. The change obscures what Mungyeong is specifically studying and seeking from the Tang Clan.",
+      "id": "F03",
+      "rationale": "The source names a prescription directly, consistent with Mungyeong’s established purpose in visiting the Tang Clan.",
+      "replacement": "When I saw him earlier, he was so absorbed in a medicinal prescription that he didn’t even notice someone had entered.",
+      "severity": "major",
+      "source": "아까 보니 약방문에 푹 빠져서 누가 들어온 줄도 모르더라."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“They say that even if your mouth is crooked, your words should be straight, so don’t misunderstand. I only insulted you, Gung.”",
+      "defect": "The line calques the proverb awkwardly, changes 무시하다 from looking down on someone to insulting them, and drops the pointedly polite address Young Hero Gung that carries the joke’s register contrast.",
+      "id": "F04",
+      "rationale": "Mujin claims he is merely stating the truth and disrespecting Gung personally rather than the Beggars’ Sect; his formal address sharpens that deliberate distinction.",
+      "replacement": "“They say you should call a spade a spade, so don’t misunderstand. I only look down on you, Young Hero Gung.”",
+      "severity": "major",
+      "source": "“입은 삐뚤어져도 말은 바로 하랬다고, 오해 마십시오. 저는 궁 소협만 무시한 겁니다.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Wow! Benefactor! Young Hero Hyuk insulted Young Hero Gung!”",
+      "defect": "Cheongpung repeats that Hyuk looked down on Gung, not merely that he insulted him. The current wording weakens the direct comic echo of Hyuk’s preceding line.",
+      "id": "F05",
+      "rationale": "무시했대요 explicitly reports Hyuk’s claim of disregarding or looking down on Gung.",
+      "replacement": "“Wow! Benefactor! Young Hero Hyuk said he looks down on Young Hero Gung!”",
+      "severity": "minor",
+      "source": "“와! 은인! 혁 소협이 궁 소협 무시했대요!”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "I let out a lion’s roar and chased the Bermuda Quadrilateral away before dropping back into my chair.",
+      "defect": "The draft changes the Bermuda Triangle into a quadrilateral, breaking both the fixed reference and the joke about driving away the three companions.",
+      "id": "F06",
+      "rationale": "버뮤다 삼각지대 is the Bermuda Triangle, and the triangular image corresponds to Gung Gibang, Cheongpung, and Hyuk Mujin.",
+      "replacement": "I let out a lion’s roar and chased the Bermuda Triangle away before dropping back into my chair.",
+      "severity": "major",
+      "source": "사자후를 내질러 버뮤다 삼각지대를 쫓아 버린 나는 의자에 털썩 주저앉았다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "“An assassin?”",
+      "defect": "The draft omits Taekyung’s repeated clarification, making Gung Gibang’s following retort about other kinds of assassins less motivated.",
+      "id": "F07",
+      "rationale": "The source deliberately repeats the idea with 살수 and 암살자, setting up the sarcastic response that follows.",
+      "replacement": "“A killer? An assassin?”",
+      "severity": "minor",
+      "source": "“살수? 암살자?”"
+    },
+    {
+      "confidence": 0.93,
+      "current": "The only people who went there were Tang Sadok’s family members, who paid secret visits from time to time.",
+      "defect": "The translation turns a singular member of Tang Sadok’s household into multiple blood relatives. 식솔 here denotes someone from his household and does not establish familial kinship.",
+      "id": "F08",
+      "rationale": "당사독이 보낸 식솔 is a household member or dependent sent by Tang Sadok, singular in this construction.",
+      "replacement": "Only a member of Tang Sadok’s household would secretly stop by from time to time.",
+      "severity": "minor",
+      "source": "들었던 바에 의하면 독왕의 거처는 아무도 찾지 않는 심산유곡에 마련되어 있었고, 당사독이 보낸 식솔이 비밀리에 한 번씩 들릴 뿐이었으니까."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Inside the broad, chilly hall, a draft forced its way through the gaps around the windows, making the oil lamp beside one of them flicker.",
+      "defect": "The established rendering for an unnamed 전각 is pavilion, not hall.",
+      "id": "F09",
+      "rationale": "The binding terminology requires “pavilion” for 전각 unless a specific building has already been established as a hall.",
+      "replacement": "Inside the broad, chilly pavilion, a draft forced its way through the gaps around the windows, making the oil lamp beside one of them flicker.",
+      "severity": "minor",
+      "source": "넓고 차가운 전각 안. 창틈 사이를 비집고 들어온 외풍(外風)에 창가에 놓인 호롱불이 흔들린다."
+    },
+    {
+      "confidence": 0.91,
+      "current": "Slowly, an old man’s face seemed to emerge over the wavering flame.",
+      "defect": "The source describes the remembered face being superimposed over the lamp, whereas “emerge” suggests that the face physically arises from the flame.",
+      "id": "F10",
+      "rationale": "겹쳐졌다 expresses one image overlapping another, framing the face as a memory layered over the lamp.",
+      "replacement": "An old man’s face slowly appeared superimposed over the wavering flame.",
+      "severity": "minor",
+      "source": "그 위로 어느 노인의 얼굴이 천천히 겹쳐졌다."
+    }
+  ],
+  "summary": "The draft contains two critical semantic errors involving the direction of the messenger eagle and the identity of the Slaughter Saint, plus several localized terminology, hierarchy, and humor issues.",
+  "version": 1
+}
