@@ -1,6 +1,6 @@
 # Tang Taesang (당사문)
 
-- **Safe through:** Chapter 336
+- **Safe through:** Chapter 337
 - **Aliases:** Poison King
 - **Role:** Former Family Head of the Sichuan Tang Clan and Supreme Peak master once renowned as the world’s greatest authority on poison and hidden weapons; he was murdered before the current events.
 - **Personality:** Not established.

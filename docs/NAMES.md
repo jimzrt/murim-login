@@ -1165,3 +1165,9 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 당사독 | **Tang Sadok** | Current Family Head of the Sichuan Tang Clan; also called the Myriad-Poison Asura. |
 | 만독수라 | **Myriad-Poison Asura** | Epithet of Tang Sadok. |
 | 당사문 | **Tang Taesang** | Former Family Head of the Sichuan Tang Clan and Poison King; Tang Sadok’s father. |
+| 미산 | **Meishan** | Sichuan location chosen as Tang Taesang’s retirement place. |
+| 월영살곡 | **Moonshadow Assassination Valley** | Assassin organization whose master is said to have killed three Supreme Peak masters. |
+| 곡주 | **Valley Master** | Title of the leader of Moonshadow Assassination Valley. |
+| 살수 | **assassin** | Professional killer considered as a possible suspect. |
+| 사면령 | **amnesty decree** | Decree that ended the Slaughter Saint’s status as an enemy of all Murim. |
+| 신의의 증표 | **Divine Physician’s Token** | Jade shard containing the clue about Sichuan’s Chinese gallnuts. |

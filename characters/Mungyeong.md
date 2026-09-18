@@ -1,6 +1,6 @@
 # Mungyeong (문경)
 
-- **Safe through:** Chapter 335
+- **Safe through:** Chapter 337
 - **Aliases:** None
 - **Role:** A young medical apprentice from a humble military household accompanying Jin Taekyung's party toward the Divine Physician and seeking a medicinal prescription from the Sichuan Tang Clan.
 - **Personality:** Compassionate, resolute, resourceful, and calm under extreme pressure.
