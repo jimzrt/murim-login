@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“They’re vile bastards I couldn’t get enough of even if I chewed them to pieces! Don’t hold back!”",
+      "defect": "“Couldn’t get enough of” suggests appetite or enjoyment, whereas the Korean idiom means that even savaging them would not satisfy the speaker’s hatred.",
+      "id": "F01",
+      "rationale": "The replacement preserves the idiom’s intense hostility without implying that the speaker enjoys or desires more of them.",
+      "replacement": "“They’re such vile bastards that even chewing them to pieces wouldn’t satisfy me! Don’t hold back!”",
+      "severity": "major",
+      "source": "“씹어먹어도 시원치 않을 악적들이다! 손속에 사정을 두지 마라!”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Yet the unknown Tang Clan martial artist had attempted to take both their lives in exchange for his own.",
+      "defect": "The draft turns 양패구상, a mutually damaging exchange, into an explicit attempt to kill both men.",
+      "id": "F02",
+      "rationale": "The source guarantees the Tang martial artist’s death but describes his counterattack as an attempt to inflict mutual injury, not explicitly to take both lives.",
+      "replacement": "Yet the unknown Tang Clan martial artist had sacrificed his own life in an attempt to leave them both grievously wounded.",
+      "severity": "major",
+      "source": "그러나 이름 모를 당문의 무인은 자신의 죽음을 담보로 양패구상(兩敗俱傷)을 시도했다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“You’re wrong. Yama is what awaits you.”",
+      "defect": "The draft changes 임하다 from someone descending or coming upon the attackers to Yama passively awaiting them, losing the deliberate echo of the attacker’s claim that the Lord of Heaven had descended upon him.",
+      "id": "F03",
+      "rationale": "The source directly reverses the preceding declaration, 천주께서 내게 임하셨노라, by substituting Yama as the one who has come upon them.",
+      "replacement": "“Wrong. The one descending upon you bastards is Yama.”",
+      "severity": "major",
+      "source": "“틀렸다. 네놈들에게 임하는 것은 염라니라.”"
+    },
+    {
+      "confidence": 0.93,
+      "current": "Tang Jinhu felled more than a dozen black-clad men with a single move and let out a dragon’s roar.",
+      "defect": "“More than a dozen” overstates 십여 명, meaning roughly ten or more, and “dragon’s roar” omits the azure-dragon image in 창룡후.",
+      "id": "F04",
+      "rationale": "The replacement preserves both the approximate quantity and the specific image used for Tang Jinhu’s roar.",
+      "replacement": "Tang Jinhu felled over ten black-clad men with a single move and let out an azure dragon’s roar.",
+      "severity": "minor",
+      "source": "단 일수에 십여 명의 흑의인들을 쓰러트린 당진후가 창룡후를 토해 냈다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“The Head Elder is here! The Council of Elders has moved!”",
+      "defect": "“Has moved” is an unnatural literal rendering that does not clearly convey that the Council of Elders has mobilized and entered the fight.",
+      "id": "F05",
+      "rationale": "움직였다 describes the council taking action as an organized force, not merely changing physical position.",
+      "replacement": "“The Head Elder is here! The Council of Elders has mobilized!”",
+      "severity": "minor",
+      "source": "“대장로께서 오셨다! 장로원이 움직였다!”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“No! You bastards! How dare you—how dare you lay hands on my family!”",
+      "defect": "“My family” weakens 피붙이들, which specifically expresses blood relatives and intensifies Tang Jinhu’s anguish over his own kin.",
+      "id": "F06",
+      "rationale": "“Flesh and blood” preserves the explicit kinship and emotional force of 피붙이들.",
+      "replacement": "“No! You bastards! How dare you—how dare you lay hands on my own flesh and blood!”",
+      "severity": "major",
+      "source": "“안 된다, 이놈들! 네놈들이 감히, 감히 노부의 피붙이들을!”"
+    },
+    {
+      "confidence": 0.91,
+      "current": "“You, your Family Head, and those idiots called the Tang Clan’s Ten Wonders will all die. Whether they bear the Tang name or they’re dog bastards, I’ll kill them all and burn them.”",
+      "defect": "“Dog bastards” treats 개새끼 as a generic insult, obscuring the boast that the attackers will exterminate everything associated with the Tang family, even its dogs.",
+      "id": "F07",
+      "rationale": "The source uses the contrast between Tang clansmen and dogs to stress indiscriminate extermination rather than merely insulting a second group of people.",
+      "replacement": "“You, your Family Head, and those idiots called the Tang Clan’s Ten Wonders will all die. Whether they bear the Tang surname or are nothing more than dogs, I’ll kill and burn every last one of them.”",
+      "severity": "major",
+      "source": "“네놈도, 가주도, 당문십기인가 뭔가 하는 그 머저리 놈들도 모두 죽는다. 당씨 성을 쓰는 놈이건, 개새끼건 할 것 없이 죽이고 불태울 것이야.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Don’t be too upset. The Lord of Heaven, who is equal to all people, has given the same punishment to the Buddhist nuns and those Daoist bastards. Heh-heh-heh.”",
+      "defect": "“Who is equal to all people” incorrectly places the Lord of Heaven on the same hierarchical level as ordinary people. The Korean says that he treats all people equally.",
+      "id": "F08",
+      "rationale": "만민에게 평등하신 characterizes the deity as impartial in dispensing punishment, not as the equal of his followers.",
+      "replacement": "“Don’t be too upset. The Lord of Heaven treats all people equally—he has handed down the same punishment to the Buddhist nuns and those Daoist bastards. Heh-heh-heh.”",
+      "severity": "major",
+      "source": "“너무 섭섭해하지는 말거라. 만민에게 평등하신 천주께서는 여승과 도사놈들에게도 같은 벌을 내리셨으니 말이다. 클클클.”"
+    },
+    {
+      "confidence": 0.95,
+      "current": "“How touching. Could there be greater praise for this old man?”",
+      "defect": "“How touching” changes sarcastic gratitude into an expression of emotional sentiment.",
+      "id": "F09",
+      "rationale": "고마울 데가 literally frames Tang Jinhu’s insult as something for which the First Fiend is mockingly grateful.",
+      "replacement": "“How kind of you. Could there be greater praise for this old man?”",
+      "severity": "minor",
+      "source": "“이렇게 고마울 데가. 노부에게 그보다 더한 칭찬이 있을까.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“You said they were the Tang Clan’s Ten Wonders? They’re more useful than I expected.”",
+      "defect": "“Useful” implies utility to the speaker rather than acknowledging that the Ten Wonders are more capable opponents than expected.",
+      "id": "F10",
+      "rationale": "쓸 만하다 evaluates their ability or competence in this combat context.",
+      "replacement": "“Were they called the Tang Clan’s Ten Wonders? They’re more capable than I expected.”",
+      "severity": "minor",
+      "source": "“당문십기라고 했나? 생각보다는 쓸 만하군.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Of course, we’ll have to call them something different now. Let me see… Yes, the Tang Clan’s Three Wonders seems appropriate.”",
+      "defect": "The draft changes only the number and misses the explicit title change to 唐門三技, “Tang Clan’s Three Skills,” which mocks both the seven deaths and the survivors’ ability.",
+      "id": "F11",
+      "rationale": "The source supplies the new title in characters, making the homophonic substitution part of the taunt rather than merely shortening Ten Wonders to Three Wonders.",
+      "replacement": "“Of course, we’ll have to call them something different now. Let me see… Yes, the Tang Clan’s Three Skills[^1] seems appropriate.”\n\n[^1]: In Korean, the word rendered as “Wonders” and the word meaning “Skills” are pronounced alike; he changes both the number and the written title to belittle them.",
+      "severity": "major",
+      "source": "“물론 이제는 좀 다르게 불러야겠지만 말일세. 어디 보자…… 그래, 당문삼기(唐門三技)가 적절하겠구먼.”"
+    }
+  ],
+  "summary": "The draft contains several substantive fidelity issues involving intent, kinship, theological hierarchy, total-extermination rhetoric, and a wordplay-based title change, plus localized terminology and phrasing defects.",
+  "version": 1
+}

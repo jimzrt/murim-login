@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Sichuan City Lord Heo Gyun looked exactly like a corrupt official, but it seemed he wasn’t completely incompetent.",
+      "defect": "The official identified earlier in the same passage as Won Gyun is called Heo Gyun here, creating an internal name contradiction.",
+      "id": "C01",
+      "rationale": "The chapter explicitly introduces Won Gyun as the City Lord of Sichuan Province shortly before this sentence, so the later name should remain consistent.",
+      "replacement": "Sichuan City Lord Won Gyun looked exactly like a corrupt official, but it seemed he wasn’t completely incompetent.",
+      "severity": "major",
+      "source": "Chapter 350, discussion of the government search"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The black-clad men were more skilled than the Sichuan Tang Clan martial artists, and the armor and bizarre poison-warding pearls they carried rendered the Tang Clan’s famed poisons and hidden weapons useless.",
+      "defect": "The narration calls the black beads poison-warding pearls immediately after establishing that they are artifacts fundamentally different from poison-warding pearls.",
+      "id": "C02",
+      "rationale": "Tang Jinhu has just distinguished the ominous black beads from ordinary clear poison-warding pearls; preserving that distinction avoids contradicting the revealed mechanism.",
+      "replacement": "The black-clad men were more skilled than the Sichuan Tang Clan martial artists, and the armor and bizarre black artifacts they carried rendered the Tang Clan’s famed poisons and hidden weapons useless.",
+      "severity": "major",
+      "source": "Chapter 354, Tang Jinhu battle sequence"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Taekyung remains with Jeok while Cheongpung aids the Tang Clan and returns.",
+      "defect": "The state presents Cheongpung’s return as part of the active situation even though Chapter 354 establishes only that he has reached the battle.",
+      "id": "C03",
+      "rationale": "Removing the unfulfilled return preserves the current endpoint and avoids prematurely resolving Taekyung’s request that Cheongpung come back.",
+      "replacement": "Taekyung remains underground with Jeok while Cheongpung aids the Tang Clan.",
+      "severity": "minor",
+      "source": "Durable state, active_continuity"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Tang Jinhu, the retired Supreme Peak Head Elder, is fighting First Fiend after entering the battlefield with the Council of Elders.",
+      "defect": "The title omits the definite article used consistently elsewhere for the First Fiend.",
+      "id": "C04",
+      "rationale": "The article restores natural English and matches the established rendering throughout the reading copies and summary.",
+      "replacement": "Tang Jinhu, the retired Supreme Peak Head Elder, is fighting the First Fiend after entering the battlefield with the Council of Elders.",
+      "severity": "minor",
+      "source": "Durable state, active_continuity"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Yet even in the face of deadly poison capable of killing a person with a single breath, the middle-aged man— the Western Heaven Demon Lord—smiled calmly.",
+      "defect": "A stray space follows the opening em dash, violating the packet’s em-dash formatting rule.",
+      "id": "C05",
+      "rationale": "Em dashes must be unspaced, and the corrected punctuation matches the formatting used elsewhere.",
+      "replacement": "Yet even in the face of deadly poison capable of killing a person with a single breath, the middle-aged man—the Western Heaven Demon Lord—smiled calmly.",
+      "severity": "minor",
+      "source": "Chapter 352, Western Heaven Demon Lord reveal"
+    }
+  ],
+  "summary": "The packet is broadly consistent in voice, continuity, and established terminology. Two substantive contradictions remain: the Sichuan City Lord’s name changes within Chapter 350, and Chapter 354 relabels the enemy’s distinct black artifacts as ordinary poison-warding pearls. The durable state also contains one premature outcome and one minor title-grammar inconsistency, while Chapter 352 has a small em-dash spacing error.",
+  "version": 1
+}

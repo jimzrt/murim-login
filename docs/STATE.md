@@ -1,22 +1,24 @@
 # Translation State
 
-- Last completed: 353
-- Next chapter: 354
-- Current block: 350–354 (4/5)
-- Latest translation: `translations/0353.md`
-- Latest summary: `summaries/beats/0353.md`
-- Safe profiles through: chapter 353
+- Last completed: 354
+- Next chapter: 355
+- Current block: 350–354 (5/5)
+- Latest translation: `translations/0354.md`
+- Latest summary: `summaries/beats/0354.md`
+- Safe profiles through: chapter 354
 
 ## Current Block
 
-- The First Fiend leads three hundred black-clad Dark Heaven attackers in an assault on the Sichuan Tang Clan after raising Dark Heaven's flag and invoking the Lord of Heaven's command. The Second and Third Fiends have departed to take charge of operations at Qingcheng and Emei, while the First Fiend reaches the Tang Clan's gate and begins the battle.
-- Underground, Jin Taekyung and Cheongpung hear the Tang War Drum and receive the automatically accepted Uninvited Guest Quest, whose only revealed failure condition is death. The Divine Physician warns that Jeok Cheongang's qi remains unstable and that external shock could be fatal, so Taekyung chooses to remain with Jeok while sending Cheongpung to aid the besieged Tang Clan and return.
+- Dark Heaven's three-hundred-man assault overwhelms the Sichuan Tang Clan's outer defenses. Their black-clad fighters carry sinister poison-neutralizing artifacts and piercing leather armor, rendering the Tang Clan's poisons and hidden weapons largely ineffective while more than a hundred clansmen die and half the Outer Hall falls.
+- Tang Jinhu, the retired Supreme Peak Head Elder, joins the battle and uses the Soul-Severing Thread to kill numerous attackers, but the Council of Elders and the Tang Clan's Peak masters cannot reverse the slaughter. First Fiend then appears, recognizes Tang Jinhu, and reveals that his two younger brothers are attacking Emei and Qingcheng.
+- The Western Heaven Demon Lord defeats Tang Sadok and most of the Tang Clan's Ten Wonders, leaving only three of them alive while Tang Sadok is gravely wounded. Before the Demon Lord can weaken him further, Cheongpung rushes into the scene, prompting the Demon Lord to wonder what kind of lunatic has arrived.
 
 ## Open Questions
 
+- Can the Sichuan Tang Clan survive the assault?
+- Can Cheongpung change the outcome of Tang Sadok's confrontation with the Western Heaven Demon Lord?
 - What are the limits and nature of the Western Heaven Demon Lord's demonic martial art?
 - How large is Dark Heaven's force beyond the three hundred attackers identified here?
-- Can the Sichuan Tang Clan survive the assault?
 - Will Jeok Cheongang recover before the siege exposes him to external shock?
 
 ## Exceptional Decision
@@ -25,7 +27,7 @@
 - Render 악귀 as Fiend when used as the First Fiend's descriptive epithet.
 - Render 만독진 as Myriad-Poison Formation.
 - Render 초대받지 않은 손님 as Uninvited Guest.
-- Render 마군 as Demon Lord when used as the Western Heaven Demon Lord's shortened title.
+- Render 마군 as Demon Lord when used for the Western Heaven Demon Lord's shortened title.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

@@ -1255,3 +1255,13 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 마군 | **Demon Lord** | Shortened title used for the Western Heaven Demon Lord. |
 | 만독진 | **Myriad-Poison Formation** | Tang Clan defensive formation. |
 | 초대받지 않은 손님 | **Uninvited Guest** | System Quest title. |
+| 청해성 | **Qinghai** | Source form specifying Qinghai as a province. |
+| 당진후 | **Tang Jinhu** | Tang Clan direct descendant, retired Supreme Peak master, and Head Elder. |
+| 천독객 | **Heaven-Poison Wanderer** | Tang Jinhu's epithet. |
+| 우모침 | **ox-hair needle** | Extremely fine Tang Clan hidden weapon. |
+| 피독주 | **poison-warding pearl** | Poison-neutralizing artifact carried by the black-clad attackers. |
+| 단혼사 | **Soul-Severing Thread** | Tang Jinhu's silver-thread hidden weapon. |
+| 창룡후 | **azure dragon's roar** | Battle cry released by Tang Jinhu. |
+| 장로원 | **Council of Elders** | Tang Clan body headed by Tang Jinhu. |
+| 당휘 | **Tang Hwi** | Tang Clan martial artist named during the assault. |
+| 당문삼기 | **Tang Clan's Three Skills** | Western Heaven Demon Lord's mocking replacement for Tang Clan's Ten Wonders. |
