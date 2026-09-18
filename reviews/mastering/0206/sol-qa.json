@@ -1,0 +1,39 @@
+{
+  "chapter": 206,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.21,
+    "source_characters": 6465,
+    "source_paragraphs": 218,
+    "translation_characters": 14288,
+    "translation_paragraphs": 223
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "깨달음",
+        "preferred": "enlightenment / insight"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "상태",
+        "preferred": "Status"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "대리",
+        "preferred": "Assistant Manager"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}

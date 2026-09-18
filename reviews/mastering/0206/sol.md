@@ -45,7 +45,7 @@ A short while later, I stared at the pot filled to the brim with noodles and bro
 
 “Lift the top layer of noodles a little. There’s a soft-boiled egg underneath.”
 
-“Gasp.”
+“Oh.”
 
 Just as he’d said, when I carefully lifted the noodles, a perfectly intact soft-boiled egg appeared beneath them.
 
@@ -79,7 +79,7 @@ I gazed reverently up at Jinho and raised my chopsticks.
 
 Today, I wouldn’t have minded dying with my nose buried in ramen broth.
 
-I buried my head over the huge pot and moved my chopsticks without pause. Because the distance between my mouth and the chopsticks was so short, the noodles kept disappearing into me.
+I bent over the huge pot and worked my chopsticks without pause. With so little distance between the noodles and my mouth, they flowed into me without end.
 
 Slurp! Slurp! Slurrrrrp!
 
@@ -133,7 +133,7 @@ Jinho scraped the bottom of the pot with a spoon as he answered.
 
 A realization flashed through my mind like lightning.
 
-I stared blankly around the room, my mouth hanging open. The space and furniture were far larger and finer than anything in a goshiwon.
+My mouth fell open as I stared around the room. It was incomparably larger than the goshiwon, and filled with furniture.
 
 And one particular person had blended seamlessly into both the space and the situation.
 
@@ -199,7 +199,7 @@ I rubbed my throbbing forehead.
 
 “Well, my exam is coming up soon, so he said he’d handle all the details…”
 
-I raised a hand to stop him before he could continue.
+I raised a hand to stop him.
 
 I didn’t need to hear the rest. It was a clichéd trick, but it kept working for a reason.
 
@@ -217,7 +217,7 @@ If he’d gone so far as to sneak in here inside the capsule, he clearly didn’
 
 A special A-grade black cow.[^2]
 
-There wasn’t a bigger black cow—a bigger sucker—anywhere.
+There wasn’t a bigger sucker alive.
 
 At the look in my eyes, Jinho hung his head.
 
@@ -269,7 +269,7 @@ I looked around the house, deep in thought. It looked different from the home in
 
 A house that still held traces of my father, whose voice had faded in my memory.
 
-At last, I made up my mind and opened my mouth.
+At last, I made up my mind.
 
 “This house won’t work, hyung. I know you’ll be disappointed, but try to understand.”
 
@@ -329,9 +329,9 @@ Yeah. This was enough.
 
 It was mid-September. The worst of the heat had passed, but the morning commute hadn’t changed.
 
-The taxi driver honked at the occasional inconsiderate driver cutting into traffic on the congested road, then turned up the radio.
+The taxi driver leaned on his horn whenever some shameless driver tried to cut into the stalled traffic, then turned up the radio.
 
-> An F-rank Gate has appeared in Uldae-ri, Jangheung-myeon, Yangju City, and an immediate evacuation order has been issued. With nearby Hunters and military units cooperating to suppress it quickly, the confirmed number of casualties currently stands at six…
+> An F-rank Gate has appeared in Uldae-ri, Jangheung-myeon, Yangju City, prompting an immediate evacuation order. Nearby Hunters and military units are working together to suppress it, and six casualties have been confirmed so far…
 
 “Goddamn it. As if the traffic wasn’t bad enough, now those monster bastards are raising hell too.”
 
@@ -347,7 +347,7 @@ Officially, at least in the modern world, I was a C-rank Hunter with Hope Guild.
 
 The taxi driver grinned at my answer.
 
-“I knew it. You can tell a Hunter at a glance.”
+“I knew it. You can always spot a Hunter.”
 
 “I suppose so.”
 
@@ -355,7 +355,7 @@ It was like the difference between a herbivore and a carnivore.
 
 There were exceptions, but everyone gave off a certain air. Someone my size carrying a large case had to be one of two things:
 
-A musician who liked working out, or a Hunter.
+A musician who loved working out, or a Hunter.
 
 *You can tell at a glance.*
 
@@ -371,7 +371,7 @@ But this middle-aged man’s mouth never stopped moving.
 
 “……What?”
 
-“I mean, how are ordinary people like me supposed to live without worrying? A Gate could open in my apartment parking lot the moment I wake up in the morning. What’s the point of working my butt off taking fares when safe-zone land costs a fortune?”
+“I mean, how are ordinary people like me supposed to live without worrying? I could wake up tomorrow morning and find a Gate in my apartment parking lot. I can work my ass off taking fares all day, but it’s not like I can afford property in a safe zone.”
 
 I stared at him incredulously.
 
@@ -385,7 +385,7 @@ I was a Hunter, not a prophet.
 
 How was I supposed to predict something even Nostradamus couldn’t?
 
-No one could predict when a Gate would form. The only reason they could suppress them quickly was because they had spent astronomical sums installing mana measuring devices all over the place.
+No one could predict when or where a Gate would form. The only reason early suppression was possible was because astronomical sums had been spent installing mana detectors everywhere.
 
 Just like the breaking news now coming over the radio.
 
@@ -429,7 +429,7 @@ It began to fall in an arc, and I realized what it was.
 
 It had been crushed into a ball, but I could still see it clearly.
 
-The crumpled hood. The twisted scrap metal.
+The crumpled hood. The twisted metal.
 
 The shower of glass spilling from it as it hurtled toward us.
 
