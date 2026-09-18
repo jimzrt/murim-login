@@ -298,7 +298,7 @@ Im Kkeokjeong dropped the tower shield, his face blank with disbelief. An E-rank
 
 Whatever it was, one thing was certain.
 
-That old Hobgoblin, using magic like this, was a monster at least one or two stages above us.
+That old Hobgoblin, capable of magic like this, was a monster at least one or two tiers higher.
 
 And…
 
@@ -358,7 +358,7 @@ The fact that something that size was a Hobgoblin was shocking enough. Next to w
 
 *Fuck, why is that thing showing up here?*
 
-Rare Monsters were rare monsters that appeared in a given Gate only at a low rate. And that Great Warrior was C-rank—something the rest of us would never have run into in our lives.
+Rare Monsters appeared only infrequently within a given Gate. And that Great Warrior was C-rank—something the rest of us would never have run into in our lives.
 
 …Of course, not anymore.
 

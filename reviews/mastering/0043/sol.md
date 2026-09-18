@@ -18,9 +18,9 @@ Especially when I’d dragged up an illusion I’d already decided to forget.
 
 I finished the job with my face burning red.
 
-A little over ten minutes, so about twenty seconds per corpse? Even Im Kkeokjeong sidled over, drawn by the speed, and his mouth fell open.
+It had taken a little over ten minutes, so about twenty seconds per corpse. Even Im Kkeokjeong sidled over, drawn by my speed, and stared with his mouth hanging open.
 
-“Damn, have you been doing nothing but this?”
+“Damn, is this all you ever do?”
 
 “Plenty of people can do this much.”
 
@@ -30,7 +30,7 @@ Hmm. That made me a little proud.
 
 I’d played modest a second ago, but Im Kkeokjeong was right. There weren’t many Hunters who could butcher this cleanly at this speed.
 
-“I’m just fast with my hands.”
+“I’ve always been quick with my hands.”
 
 I’d worked factory jobs back in school. I’d even glued eyes onto dolls. In a way, I’d started doing this kind of work before I ever became a Hunter.
 
@@ -50,21 +50,21 @@ Team Leader Choi, who’d been listening quietly, cut in.
 
 “I’d use the breaks after each fight to process the corpses.”
 
-“Do you receive additional pay?”
+“Were you paid extra?”
 
 “Of course. It’s still work.”
 
-“How long have you been doing it?”
+“How long did you do that?”
 
 “The whole time. From the beginning until now.”
 
-Im Kkeokjeong was floored.
+Im Kkeokjeong clicked his tongue in amazement.
 
 “You relentless bastard. I couldn’t do it.”
 
 “You get used to it. It helps build stamina, too.”
 
-“Your life’s on the line, and you’re building stamina? Hahaha. Team Leader Choi, didn’t I tell you? There’s nobody who works as relentlessly as this kid.”
+“Your life’s on the line, and you’re worried about building stamina? Hahaha! Team Leader Choi, didn’t I tell you? Nobody works harder than this kid.”
 
 *You told him that?*
 
@@ -94,7 +94,7 @@ I watched every second of the battle unfolding before me.
 
 Of course, I couldn’t help thinking about Murim.
 
-I’d seen real martial arts with my own eyes—and even learned them. Not the dance-like moves I practiced in the city park at dawn.
+I’d seen real martial arts with my own eyes—and even learned them. Not the dance-like moves people practiced in city parks at dawn.
 
 *…Wait.*
 
@@ -122,7 +122,7 @@ That was the least courtesy I owed my teammates—and the principle that would k
 
 “Yes. Coming!”
 
-I ran over like the wind and started taking the corpses apart.
+I raced over and began taking the corpses apart.
 
 Team Leader Choi and Im Kkeokjeong hovered nearby throughout the entire break, as if they weren’t tired at all.
 
@@ -182,9 +182,9 @@ I sent a distress signal to Team Leader Choi, who was sitting nearby, but he ans
 
 I stood and shouldered the bag, now noticeably heavier than before. Hobgoblins were generous monsters. Poison-resistant hides, a few usable weapons—and they had even dropped two E-grade Magic Gems.
 
-*The hides are in good condition, and there are two Magic Gems. This could be worth a decent amount.*
+*The hides are in good condition, and there are two Magic Gems. This should be worth a decent amount.*
 
-Team Leader Choi had contributed the most, so he’d probably take about half. But with so few people, it was still a profitable deal for the other team members.
+Team Leader Choi had contributed the most, so he would probably take about half. But with so few people, the other team members would still come out well ahead.
 
 Not me, of course. According to the contract, the 300,000-won base pay was all I would get.
 
@@ -194,13 +194,13 @@ Team Leader Choi was a fairly generous employer. He was a C-rank Hunter far beyo
 
 *And he’s skilled enough to trust.*
 
-Thanks to him, we’d made it this far at a steady, rapid pace.
+Thanks to him, we’d made it this far quickly and without trouble.
 
 Only the final section of the Gate remained.
 
 The Boss Zone.
 
-If we opened the stone gate in front of us, the Gate’s boss monster and the mana field that would send us outside should be waiting beyond it.
+Beyond the stone doors in front of us, the Gate’s boss monster and the magic field that would send us outside should be waiting.
 
 “Man, all that work made me hungry.”
 
@@ -222,11 +222,11 @@ Until I found a job with a new Guild, I couldn’t ask for anything more than Te
 
 “Yes.”
 
-At Team Leader Choi’s answer, Im Kkeokjeong slammed his tower shield into the stone gate.
+At Team Leader Choi’s answer, Im Kkeokjeong slammed his tower shield into the stone doors.
 
 Boom!
 
-The gate blew apart, and stone dust and dirt poured down. I followed the others into the Boss Zone.
+The doors exploded inward, showering the ground with dust and powdered stone. I followed the others into the Boss Zone.
 
 And there…
 
@@ -278,13 +278,13 @@ It hadn’t cast an attack spell.
 
 Boom. Boom. Boom!
 
-“It’s behind us! The passage is being blocked!”
+“Behind us! The passage is closing!”
 
 “Run! Hurry!”
 
 *Damn it. Too late.*
 
-As if the clock had been turned back, the shattered stone gate stood intact again.
+As if time had been reversed, the shattered stone doors stood intact once more.
 
 And it didn’t stop there.
 
@@ -292,7 +292,7 @@ The rubble on the floor rose into two, then three layers of walls, and vines fro
 
 “Everyone, out of the way!”
 
-It was Im Kkeokjeong. His muscles had swollen like they were about to burst—probably a Strength Enhancement Skill. Tower shield in hand, he charged the stone gate.
+It was Im Kkeokjeong. His muscles had swollen until they looked ready to burst, probably from a Strength Enhancement Skill. Tower shield in hand, he charged straight at the stone doors.
 
 “Haaah!”
 
@@ -320,7 +320,7 @@ Team Leader Choi was already rushing toward the creature, as if he’d known fro
 
 “The wind takes hold. Haste.”
 
-His body slid forward. More than a hundred meters vanished in an instant. With five paces left, the sword came free from Team Leader Choi’s waist.
+His body shot forward. The distance of more than a hundred meters vanished in an instant. With only five paces remaining, Team Leader Choi drew the sword at his waist.
 
 Whoosh!
 
@@ -334,13 +334,13 @@ The change happened in an instant.
 
 Whoosh—
 
-The hundred-odd corpses scattered across the altar shriveled, then dispersed like sand. The black energy, fully pulled out of them, gathered into one mass and smashed into Team Leader Choi’s side.
+The hundred-odd corpses sprawled across the altar shriveled, then crumbled like sand. The black energy drained from them gathered into a single mass and slammed into Team Leader Choi’s side.
 
 Thud!
 
 “Ghk.”
 
-Team Leader Choi bounced back fast. With a twisted face, he said,
+Team Leader Choi was sent flying backward. His face twisted in pain.
 
 “We have to stop it. Right now.”
 
@@ -348,7 +348,7 @@ Team Leader Choi bounced back fast. With a twisted face, he said,
 
 It was already too late.
 
-Only a few seconds ago, it had been nothing more than energy given form. Now it was rapidly taking shape.
+Only a few seconds earlier, it had been nothing more than a visible mass of energy. Now it was rapidly taking shape.
 
 A hulking body nearly three meters tall. Muscles swollen to the point of bursting. A monster wielding an enormous greatsword.
 
@@ -368,7 +368,7 @@ The fact that something so huge was a Hobgoblin was shocking enough, but it was 
 
 Rare Monsters were creatures that appeared only infrequently within a given Gate. And since that Great Warrior was C-rank, it was something neither I nor the other team members should ever have encountered in our lives.
 
-…Of course, not anymore.
+…Not anymore, apparently.
 
 “You want us to fight that thing?”
 
@@ -382,7 +382,7 @@ Team Leader Choi pointed at the old Hobgoblin.
 
 The curse slipped out before I could stop it. Im Kkeokjeong asked, his face rigid,
 
-“What are our chances? Give it to me straight.”
+“What are our chances? Give it to us straight.”
 
 “If we take out the Priest first, we have a chance. But to do that…”
 
@@ -398,7 +398,7 @@ The cave floor shook.
 
 “We need to hold that thing back for a little while.”
 
-*Who?*
+*Who does?*
 
 “Us?”
 
@@ -406,9 +406,9 @@ The cave floor shook.
 
 “Kuwooooh!”
 
-The Great Warrior’s roar sent a stalactite dropping from the cave ceiling.
+The Great Warrior’s roar sent a stalactite crashing down from the cave ceiling.
 
-Team Leader Choi turned with a resolute look I’d never seen on him before.
+Team Leader Choi turned away, his expression more resolute than I had ever seen it.
 
 “The wind takes hold. Haste.”
 
