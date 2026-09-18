@@ -10,13 +10,13 @@ I mean that literally. I’m watching myself—or, more precisely, Jin Taekyung 
 
 “Huff, huff.”
 
-Jin Taekyung gasped for breath. His clothes were torn, and his face and body were bruised and swollen all over.
+Jin Taekyung gasped for breath. His clothes were torn, and his face and body were covered in bruises and swelling.
 
 Meanwhile…
 
 *That bastard’s perfectly fine.*
 
-Hyuk Mujin was full of energy. He even had enough breathing room to sneer at his opponent.
+Hyuk Mujin was still fresh. He even had enough breathing room to sneer at his opponent.
 
 “You’re better than I expected, but…you can’t fight that crudely. A martial artist ought to use martial arts.”
 
@@ -32,7 +32,7 @@ Jin Taekyung charged at him with a furious scream, but it was pointless. I knew 
 
 *By then, I was already exhausted.*
 
-My arms and legs were heavy, my breathing ragged. My movements had grown wider, leaving plenty of openings.
+My arms and legs were heavy, and my breathing was ragged. My movements had grown wider, leaving plenty of openings.
 
 Sure enough, Hyuk Mujin easily dodged the punch, then kicked Taekyung’s leg out from under him.
 
@@ -48,7 +48,7 @@ In a word, he was a true martial artist of Murim.
 
 I’d gotten cocky after taking down the Heavenly Axe. I’d vaguely assumed I was already strong enough to hold my own. Add my seven years of combat experience as a Hunter and the power of the System, and I’d thought logging out was only a matter of time.
 
-*That was exactly the kind of thought that gets you killed.*
+*That was exactly the kind of thinking that gets you killed.*
 
 The Heavenly Axe and those bandits had been nothing more than tutorial monsters.
 
@@ -58,13 +58,13 @@ I’d been celebrating after killing a Level 1 rabbit in a beginner hunting grou
 
 This wasn’t just a game. My life was on the line.
 
-I had to do whatever it took to survive. Level up, learn martial arts—whatever it was, I was ready to learn it and struggle with everything I had.
+I had to do whatever it took to survive. Level up, learn martial arts—whatever it took, I was ready to learn and struggle with everything I had.
 
 I was ready to become a martial artist of Murim instead of an F-rank Hunter.
 
 Thud. Thud. Thud.
 
-Let go! I won't let go!
+“Fuck. You’re tough as hell. Let go! I won’t let go!”
 
 “Graaagh!”
 
@@ -164,7 +164,7 @@ Martial arts did exist in the real world too. Boxing, krav maga, jiu-jitsu, and 
 
 But martial arts here were on an entirely different level.
 
-Every movement was both practical and precise. They reminded me of interlocking gears driven by internal energy.
+Every movement was both practical and precise, like interlocking gears driven by internal energy.
 
 *I have to learn martial arts.*
 
@@ -178,7 +178,7 @@ I had to learn martial arts. I wouldn’t survive without them.
 
 That was when I let out a long, vicious curse from the bottom of my lungs.
 
-I heard someone outside the door.
+That was when I heard someone outside the door.
 
 “This is the room.”
 
@@ -202,7 +202,7 @@ A middle-aged man was glaring at me with icy eyes.
 
 “…”
 
-The middle-aged man looked at me with a threatening glare.
+The middle-aged man fixed me with a menacing glare.
 
 “You reckless little bastard!”
 
@@ -232,7 +232,7 @@ Level aside, the man looked dangerous in every way.
 
 He stood nearly two meters tall, his entire body sheathed in muscles like a bulletproof vest. His cold gaze was enough to freeze a person solid.
 
-I found myself wondering who this middle-aged man was. He looked like murder was both his hobby and his specialty.
+He looked like murder was both his hobby and his specialty, and I found myself wondering who he was.
 
 *But his face looks strangely familiar.*
 
@@ -300,7 +300,7 @@ My twenty-seven years of life flashed before my eyes. With a little exaggeration
 
 *Mom, Dad, Hayeon…*
 
-It was just as I thought of my family and slowly closed my eyes.
+I thought of my family and slowly closed my eyes.
 
 “Whenever you get a chance, all you do is chase women!”
 
@@ -308,7 +308,7 @@ Pat, pat.
 
 “You’re always in and out of gambling dens!”
 
-Fiddle, fiddle.
+Fondle, fondle.
 
 “This is why the family looks down on you!”
 
@@ -338,15 +338,15 @@ His hands moved quickly, but they moved like those of a physician examining a pa
 
 He lifted my eyelids, checked my pulse, and carefully examined the bruised areas. Every time his hands passed over me, the pain faded and my body felt refreshed, as if I were getting a massage.
 
-You little bastard! Keep acting like this and—huh? Huh!—you'll get what's coming to you. Do you understand?
+“You little bastard! Keep acting like this and—huh? Huh!—you’ll get what’s coming to you. Do you understand?”
 
 “…”
 
-At last, he stopped moving his hands and whispered in a small voice,
+At last, he stopped moving his hands and whispered,
 
 “Thank goodness it’s not as bad as I expected. Why did you have to fight him? You never even train in martial arts.”
 
-I answered with complete sincerity. One question, loaded with all kinds of meaning.
+I answered with complete sincerity. It was one question loaded with all kinds of meaning.
 
 “Who are you?”
 
@@ -364,11 +364,11 @@ Silence fell.
 
 *He was my brother, not my father?*
 
-I was shocked that this old man was my brother.
+I was stunned that this old guy was my brother.
 
 “Oh dear, our youngest must have hurt his head. Physician! Physician!”
 
-As I watched his retreating figure, I suddenly felt that a piece of the puzzle had fallen into place.
+The middle-aged man ran out shouting for the physician. As I watched him go, a piece of the puzzle suddenly fell into place.
 
 *Now I understand why Jin Taekyung grew up such a mess.*
 
