@@ -1227,3 +1227,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 천하일단 | **One Cut Under Heaven** | Powerful supreme form of the Thirty-Six Plum Blossom Swords. |
 | 매화삼릉검 | **Plum Blossom Three-Ridge Sword** | Sword technique used by Cheongpung. |
 | 채양보음 | **harvesting yang to replenish yin** | Technique mentioned as having been used to drain vitality from the Tang Clan's direct line. |
+| 대천마신교 | **Great Heavenly Demon Divine Cult** | Formal historical name used by the Heavenly Power Demon for the Demonic Cult. |
+| 신교 | **Divine Cult** | Short form used by the Divine Cult's members for the Heavenly Demon Divine Cult. |
+| 본교 | **Divine Cult** | Self-referential form meaning the speaker's own Divine Cult. |
+| 음양쌍귀 | **Yin-Yang Twin Ghosts** | Source spelling for the pair otherwise associated with the Yin Ghost and Yang Ghost. |
+| 양귀 | **Yang Ghost** | Shortened counterpart to the established Yin Ghost. |

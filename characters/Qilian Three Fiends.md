@@ -1,6 +1,6 @@
 # Qilian Three Fiends (기련삼괴)
 
-- **Safe through:** Chapter 348
+- **Safe through:** Chapter 349
 - **Aliases:** Three Fiends
 - **Role:** Three brothers from the barren land of Qinghai who hid near the Qilian Mountains before returning under the name Qilian Three Fiends.
 - **Personality:** Bloodthirsty and notorious throughout Qinghai, but fearful and submissive before the Western Heaven Demon Lord.

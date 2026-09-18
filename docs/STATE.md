@@ -1,16 +1,15 @@
 # Translation State
 
-- Last completed: 348
-- Next chapter: 349
-- Current block: 345–349 (4/5)
-- Latest translation: `translations/0348.md`
-- Latest summary: `summaries/beats/0348.md`
-- Safe profiles through: chapter 348
+- Last completed: 349
+- Next chapter: 350
+- Current block: 345–349 (5/5)
+- Latest translation: `translations/0349.md`
+- Latest summary: `summaries/beats/0349.md`
+- Safe profiles through: chapter 349
 
 ## Current Block
 
-- The Western Heaven Demon Lord gathers hundreds of black-robed hunters and receives the submission of the Qilian Three Fiends. He reveals that the Poison King and the Heaven-Shaking Venerable Nun are dead, their lives costing him one arm, and declares that the time has come to begin his plans.
-- On the fourth day of Jeok Cheongang's treatment, Jin Taekyung mentally spars with Cheongpung before luring him away with rumors of an imperial chef. Taekyung then feeds the prisoners in the underground prison and learns that the quietest prisoner, the Heavenly Power Demon, is the man who urinated on the Kunlun Sect's signboard.
+- Jin Taekyung learns that the Heavenly Power Demon was once an Elder of the Great Heavenly Demon Divine Cult who led the subjugation of Qinghai and opened the first front of its holy war. The old prisoner explains that the Great Faction War was morally complex, that the Divine Cult survived in a diminished state in the Tianshan Mountains, and that its former Cult Leader eventually became corrupt. Taekyung reveals that the Yin-Yang Twin Ghosts later served Dark Heaven rather than the Demonic Cult's attack on Shaolin, but Cheongpung arrives before he can finish explaining.
 
 ## Open Questions
 
@@ -25,8 +24,8 @@
 - Render 한빙석 as Cold-Ice Stone.
 - Render 서천마군 as Western Heaven Demon Lord.
 - Render 만독지환 as Myriad-Poison Ring.
-- Render 천년독각사 as Thousand-Year Poison Horned Snake.
-- Render 궁 노인 as Old Man Gung.
+- Render 대천마신교 as Great Heavenly Demon Divine Cult and 천마신교, 신교, and 본교 as Heavenly Demon Divine Cult or Divine Cult according to context.
+- Render 음양쌍귀 as Yin-Yang Twin Ghosts and 양귀 as Yang Ghost.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

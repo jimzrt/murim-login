@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Right now, my eyes are closed.\n\nI focus my mind in the quiet darkness. As a voice pierces my ears, someone’s figure takes shape in the darkness.",
+      "defect": "The narration abruptly shifts into present tense for two sentences before returning to the packet’s established past-tense narration.",
+      "id": "C01",
+      "rationale": "Keeping the passage in past tense removes an isolated viewpoint-tense drift without changing the action or imagery.",
+      "replacement": "At that moment, my eyes were closed.\n\nI focused my mind in the quiet darkness. As a voice pierced my ears, someone’s figure took shape in the darkness.",
+      "severity": "minor",
+      "source": "Chapter 348, opening of Taekyung’s martial-arts discussion with Cheongpung"
+    },
+    {
+      "confidence": 0.99,
+      "current": "In any case, it is a historic place steeped in history.",
+      "defect": "The sentence redundantly repeats the same idea in “historic” and “steeped in history,” producing awkward English.",
+      "id": "C02",
+      "rationale": "The replacement preserves Tang Sadok’s claim while removing the conspicuous tautology.",
+      "replacement": "In any case, it is a place of considerable historical significance.",
+      "severity": "minor",
+      "source": "Chapter 346, Tang Sadok describing the underground prison"
+    },
+    {
+      "confidence": 0.98,
+      "current": "In the space of two shichen, the prison cell visible behind him had been transformed into a fairly convincing treatment room.",
+      "defect": "The culturally specific time unit “shichen” is left unexplained even though it has a direct, natural English equivalent here.",
+      "id": "C03",
+      "rationale": "One shichen is approximately two hours, so the replacement preserves the duration while keeping the reading copy immediately accessible and avoiding an unnecessary footnote.",
+      "replacement": "In the space of four hours, the prison cell visible behind him had been transformed into a fairly convincing treatment room.",
+      "severity": "minor",
+      "source": "Chapter 347, preparation of the treatment room"
+    }
+  ],
+  "summary": "The packet is coherent and preserves its major hooks, terminology, and active continuity without apparent spoilers. Three minor issues are actionable: an isolated tense shift, a redundant phrase, and an unexplained time unit that disrupts the English reading copy.",
+  "version": 1
+}
