@@ -36,6 +36,7 @@ class RunNextTest(unittest.TestCase):
         self.assertFalse(run_next.allowed_change("translations/0005.md", 8))
         self.assertFalse(run_next.allowed_change("characters/spoilers/future.md", 9))
         self.assertFalse(run_next.allowed_change("tools/workflow.py", 9))
+        self.assertTrue(run_next.allowed_change("docs/CONTEXT.json", 9))
 
     def test_runner_executes_through_accept_without_mastering(self):
         statuses = [
@@ -52,6 +53,23 @@ class RunNextTest(unittest.TestCase):
         self.assertEqual(command.call_args_list, [
             call(14, "python tools/workflow.py prepare 14"),
             call(14, "python tools/workflow.py draft 14"),
+        ])
+
+    def test_runner_runs_compress_before_prepare_when_status_reports_it(self):
+        statuses = [
+            {"stage": "READY", "next_action": "python tools/workflow.py compress 14"},
+            {"stage": "READY", "next_action": "python tools/workflow.py prepare 14"},
+            {"stage": "ACCEPTED", "next_action": "commit accepted files"},
+        ]
+        lock = SimpleNamespace(update=lambda **_values: None)
+        with (
+            patch.object(run_next, "workflow_status", side_effect=statuses),
+            patch.object(run_next, "run_workflow_command") as command,
+        ):
+            run_next.run_to_accepted(14, lock)
+        self.assertEqual(command.call_args_list, [
+            call(14, "python tools/workflow.py compress 14"),
+            call(14, "python tools/workflow.py prepare 14"),
         ])
 
     def test_manual_checkpoint_action_stops_without_guessing(self):

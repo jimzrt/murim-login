@@ -42,7 +42,7 @@ except ModuleNotFoundError:
     )
 
 WORKFLOW_ACTION_RE = re.compile(r"^python tools/workflow\.py ([a-z]+) (\d+)$")
-RETRYABLE_COMMANDS = frozenset({"draft", "review", "update", "summarize", "checkpoint"})
+RETRYABLE_COMMANDS = frozenset({"compress", "draft", "review", "update", "summarize", "checkpoint"})
 
 
 def model_step_retries() -> int:

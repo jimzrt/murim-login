@@ -28,6 +28,9 @@ def oversized_profiles(limit: int | None = None) -> list[tuple[Path, str]]:
     return profiles if limit is None else profiles[:limit]
 
 def context_compression_due() -> bool:
+    path = ROOT / "docs" / "CONTEXT.json"
+    if not path.is_file():
+        return False
     cfg = workflow_config()
     raw = (ROOT / "docs" / "CONTEXT.json").read_text(encoding="utf-8")
     value = json.loads(raw)
@@ -43,7 +46,7 @@ def compression_due() -> bool:
 
 def build_packet(number: int, profiles: list[tuple[Path, str]]) -> str:
     cfg = workflow_config()
-    context = load_active_context(number)
+    context = load_active_context(number, enforce_max_bytes=False)
     body = "\n\n".join(f"### {path.relative_to(ROOT)}\n\n{text}" for path, text in profiles) or "(None.)"
     return f"""# Context Compression Task
 
@@ -96,6 +99,8 @@ def validate(value: dict, safe_through: int, paths: set[str]) -> tuple[dict, dic
     if set(replacements) != paths:
         raise ValueError("compression must replace every oversized profile")
     return context, replacements
+
+
 def compress_one(number: int, profile: tuple[Path, str]) -> tuple[dict, dict[str, str]]:
     packet = ROOT / ".work" / f"context-compress-{profile[0].stem}.md"
     atomic_text(packet, build_packet(number, [profile]))
@@ -105,6 +110,31 @@ def compress_one(number: int, profile: tuple[Path, str]) -> tuple[dict, dict[str
     return validate(parse_json_object(raw), number - 1, {str(profile[0].relative_to(ROOT))})
 
 
+def run_compression(number: int, *, workers: int = 1) -> list[str]:
+    if not compression_due():
+        return []
+    written: list[str] = []
+    profiles = oversized_profiles()
+    replacements: dict[str, str] = {}
+    if profiles:
+        with ThreadPoolExecutor(max_workers=max(1, min(workers, len(profiles)))) as pool:
+            for _context, result in pool.map(lambda item: compress_one(number, item), profiles):
+                replacements.update(result)
+        for relative, text in replacements.items():
+            atomic_text(ROOT / relative, text)
+            written.append(relative)
+    if context_compression_due():
+        packet = ROOT / ".work" / "context-compress-context.md"
+        atomic_text(packet, build_packet(number, []))
+        raw, _metrics, _call = run_omp(
+            packet, project_config()["compress_model"], 960, label="compress-context", hold=True,
+        )
+        context, _ = validate(parse_json_object(raw), number - 1, set())
+        atomic_json(ROOT / "docs" / "CONTEXT.json", context)
+        written.append("docs/CONTEXT.json")
+    return written
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("chapter", type=int, help="next chapter number")
@@ -112,27 +142,12 @@ def main() -> int:
     args = parser.parse_args()
     if args.workers < 1:
         parser.error("--workers must be positive")
-    profiles = oversized_profiles()
-    if not profiles and not context_compression_due():
+    if not compression_due():
         print("context compression not due")
         return 0
     with hold_run_lock(ROOT, holder="context-compress", chapter=args.chapter, stage="compress"):
-        replacements: dict[str, str] = {}
-        if profiles:
-            with ThreadPoolExecutor(max_workers=min(args.workers, len(profiles))) as pool:
-                for _context, result in pool.map(lambda item: compress_one(args.chapter, item), profiles):
-                    replacements.update(result)
-        for relative, text in replacements.items():
-            atomic_text(ROOT / relative, text)
-        if context_compression_due():
-            packet = ROOT / ".work" / "context-compress-context.md"
-            atomic_text(packet, build_packet(args.chapter, []))
-            raw, _metrics, _call = run_omp(
-                packet, project_config()["compress_model"], 960, label="compress-context", hold=True,
-            )
-            context, _ = validate(parse_json_object(raw), args.chapter - 1, set())
-            atomic_json(ROOT / "docs" / "CONTEXT.json", context)
-    print(f"compressed {len(replacements)} profile(s)")
+        written = run_compression(args.chapter, workers=args.workers)
+    print(f"compressed {len(written)} file(s)")
     return 0
 
 

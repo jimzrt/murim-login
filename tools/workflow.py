@@ -165,6 +165,7 @@ def paths(number: int) -> dict[str, Path]:
         "checkpoint_json": ROOT / "reviews" / "checkpoints" / f"{block_name}.json",
         "checkpoint_meta": ROOT / "reviews" / "checkpoints" / f"{block_name}.meta.json",
         "checkpoint_disposition": ROOT / "reviews" / "checkpoints" / f"{block_name}.dispositions.json",
+        "compress_files": work / "compress-files.json",
     }
 
 
@@ -512,6 +513,13 @@ def accept_allowed_paths(number: int, p: dict[str, Path] | None = None) -> set[s
             files = None
         if isinstance(files, dict):
             allowed.update(str(path) for path in files)
+    if p["compress_files"].exists():
+        try:
+            compressed = json.loads(p["compress_files"].read_text(encoding="utf-8")).get("files")
+        except (OSError, json.JSONDecodeError):
+            compressed = None
+        if isinstance(compressed, list):
+            allowed.update(str(path) for path in compressed if isinstance(path, str))
     return allowed
 
 
@@ -565,8 +573,15 @@ def next_action(state: dict, p: dict[str, Path]) -> str:
     number = state["chapter"]
     if state["stage"] == "REVISED":
         return durable_next_action(number, state, p)
+    if state["stage"] == "READY":
+        try:
+            from tools.compress_context import compression_due
+        except ModuleNotFoundError:
+            from compress_context import compression_due
+        if compression_due():
+            return f"python tools/workflow.py compress {number}"
+        return f"python tools/workflow.py prepare {number}"
     return {
-        "READY": f"python tools/workflow.py prepare {number}",
         "CONTEXT_READY": f"python tools/workflow.py draft {number}",
         "DRAFTED": f"python tools/workflow.py review {number}",
         "REVIEWED": f"python tools/workflow.py revise {number}",
@@ -623,6 +638,30 @@ def command_prepare(number: int) -> None:
     )
     record_metric(p, "draft_packet", packet_token_estimate=packet_tokens, input_bytes=len(packet.encode("utf-8")))
     save(state, p, "CONTEXT_READY", context_sha256=digest(p["context"]))
+
+
+def command_compress(number: int) -> None:
+    state, p = load(number)
+    require(state, "READY")
+    try:
+        from tools.compress_context import compression_due, run_compression
+        from tools.progress import step
+    except ModuleNotFoundError:
+        from compress_context import compression_due, run_compression
+        from progress import step
+    if not compression_due():
+        step("compress", facts=["not due"])
+        return
+    try:
+        written = run_compression(number)
+    except (ValueError, FileNotFoundError) as error:
+        raise SystemExit(str(error)) from None
+    if compression_due():
+        raise SystemExit("context compression completed but thresholds are still exceeded")
+    p["work"].mkdir(parents=True, exist_ok=True)
+    atomic_json(p["compress_files"], {"files": written})
+    save(state, p, "READY", compress_files_sha256=digest(p["compress_files"]))
+    step("compress", facts=[f"{len(written)} files"])
 
 
 def command_drafted(number: int) -> dict:
@@ -1494,7 +1533,7 @@ def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     sub = parser.add_subparsers(dest="command", required=True)
     for name in (
-        "status", "prepare", "draft", "drafted", "review", "revise", "update",
+        "status", "prepare", "compress", "draft", "drafted", "review", "revise", "update",
         "summarize", "checkpoint", "checkpointed", "accept", "master",
     ):
         item = sub.add_parser(name)
@@ -1533,6 +1572,8 @@ def main() -> int:
     with lock:
         if args.command == "prepare":
             command_prepare(args.chapter)
+        elif args.command == "compress":
+            command_compress(args.chapter)
         elif args.command == "drafted":
             command_drafted(args.chapter)
         elif args.command == "draft":

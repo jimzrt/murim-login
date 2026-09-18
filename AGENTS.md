@@ -74,8 +74,9 @@ not exist until `accept`.
 - The draft model drafts; deterministic QA must pass; the review model returns
   validated structured findings with exact finished replacements. Revision
   applies those replacements atomically, blocks on missing, repeated, or
-  overlapping spans, and runs final QA. The mastering editor is the only
-  later full-copy fluency edit and applies `POLISH.md`. Adjudication is Luna
+  overlapping spans, and runs final QA. At `READY`, if context or a profile is
+  over threshold, `compress` runs before `prepare`; it is skipped when under
+  threshold. The mastering editor is the only later full-copy fluency edit and applies `POLISH.md`. Adjudication is Luna
   `:high` with a SOL-default meaning veto (`MASTERING_ADJUDICATOR.md`). The
   fidelity gate is a different model (`MASTERING_FIDELITY.md`).
 - Reviews are durable JSON with generated Markdown reading reports. Checkpoint
