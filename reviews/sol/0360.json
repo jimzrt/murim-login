@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Before I could barely regain my balance, the sound of splitting air pierced my ears.",
+      "defect": "“Before I could barely” is logically and grammatically contradictory; the source means he was attacked before he could even manage to recover his balance.",
+      "id": "F01",
+      "rationale": "간신히 and -기도 전에 indicate that even the difficult act of recovering his balance could not be completed before the next attack.",
+      "replacement": "Before I could even regain my balance, the sound of splitting air pierced my ears.",
+      "severity": "minor",
+      "source": "간신히 자세를 바로잡기도 전에 파공성이 귓가를 파고들었다."
+    },
+    {
+      "confidence": 0.93,
+      "current": "“Do not worry. I will call some skilled practitioners to treat you later.”",
+      "defect": "“Practitioners” is vague and unnatural here, obscuring that the people being summoned are skilled in treatment.",
+      "id": "F02",
+      "rationale": "The explicit purpose of the 솜씨 좋은 술사들 is to treat Taekyung, so “healers” conveys the intended function naturally without inventing a more specific profession.",
+      "replacement": "“Do not worry. I will call some skilled healers to treat you later.”",
+      "severity": "minor",
+      "source": "“걱정 말게. 나중에 솜씨 좋은 술사(術士)들을 불러 치료해 줄 테니.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "I stubbornly held on to the shaft, trying to keep it from being dragged away by his hand, whose flesh had been stripped away and covered in blood.",
+      "defect": "The draft assigns the flayed, bloody hand to the Western Heaven Demon Lord and makes that hand drag the shaft away. In the source, the injured hand is Taekyung's own grip, and the shaft is slipping out of it.",
+      "id": "F03",
+      "rationale": "온통 살가죽이 벗겨지고 피범벅이 된 손아귀 describes the narrator's hand gripping the shaft; 빠져나가려는 describes the shaft slipping from that grip.",
+      "replacement": "I stubbornly clung to the shaft as it tried to slip from my flayed, blood-soaked grip.",
+      "severity": "critical",
+      "source": "나는 온통 살가죽이 벗겨지고 피범벅이 된 손아귀에서 빠져나가려는 창대를 억지로 붙잡았다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The floor of the underground prison, which had once been ice-cold and reeking, felt strangely more comfortable than ever.",
+      "defect": "“Had once been” incorrectly implies that the floor is no longer cold or foul-smelling; the source describes its present qualities.",
+      "id": "F04",
+      "rationale": "차갑고 악취를 풍기던 modifies the floor as Taekyung currently experiences it, rather than describing a condition that ended in the past.",
+      "replacement": "The ice-cold, foul-smelling floor of the underground prison felt strangely more comfortable than ever.",
+      "severity": "minor",
+      "source": "얼음처럼 차갑고 악취를 풍기던 지하 뇌옥의 바닥이 이상하게도 그 어느 때보다 편안하게 느껴졌다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Jin Wikyung, who would go weak at the knees for his younger brother, and Jin Mukyung, who wanted to kill his younger brother at the mere sight of him.",
+      "defect": "“Go weak at the knees” carries an inappropriate romantic or physical connotation, while “at the mere sight of him” is an unsupported addition. Both changes weaken the source's parallel joke about one brother doting on Taekyung and the other wanting to kill him.",
+      "id": "F05",
+      "rationale": "껌뻑 죽는 is an idiom for being utterly devoted or doting, while 껌뻑 죽이고 싶어 하는 twists that phrasing into a desire to kill; the source gives no condition involving the sight of him.",
+      "replacement": "Jin Wikyung, who absolutely doted on his younger brother, and Jin Mukyung, who would have loved to kill his.",
+      "severity": "major",
+      "source": "동생이라면 껌뻑 죽는 진위경부터 동생이라면 껌뻑 죽이고 싶어 하는 진무경."
+    },
+    {
+      "confidence": 1.0,
+      "current": "He was behind me, and I was standing before him.",
+      "defect": "The draft adds that Taekyung is standing, contradicting his current position on the prison floor. The source states only their protective spatial relationship.",
+      "id": "F06",
+      "rationale": "있다 means that Taekyung is positioned before Jeok Cheongang; it does not say that he is standing, which he only begins attempting afterward.",
+      "replacement": "He was behind me, and I was in front of him.",
+      "severity": "critical",
+      "source": "그가 내 뒤에 있고, 그의 앞에 내가 있다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "That smile held the joy of avenging the death of his closest friend—and the relief of protecting one bloodied little brat whose identity as a disciple or an enemy he could no longer distinguish.",
+      "defect": "“Bloodied” treats 핏덩이 as a description of the brat's physical condition, and “could no longer distinguish” adds a temporal change absent from the source. The phrase is a belittling reference to the young brat Jeok cannot decide whether to regard as his disciple or his enemy.",
+      "id": "F07",
+      "rationale": "핏덩이 is figurative here, referring dismissively to a young, insignificant person rather than saying that Taekyung is covered in blood; 제자인지 원수인지 모를 expresses uncertainty without “no longer.”",
+      "replacement": "That smile held the joy of avenging his closest friend—and the relief of protecting one little brat he couldn't tell was his disciple or his enemy.",
+      "severity": "major",
+      "source": "그 웃음에는 가장 절친했던 벗의 원수를 갚았다는 기쁨. 그리고 제자인지 원수인지 모를 핏덩이 하나를 지켰다는 안도가 서려 있었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "This entire space, stretching hundreds of feet in every direction, was trembling.",
+      "defect": "The draft reduces 수백 장 to hundreds of feet and adds “in every direction.” A jang is roughly ten feet, so the stated extent is several thousand feet.",
+      "id": "F08",
+      "rationale": "수백 장 denotes hundreds of jang, an order of magnitude larger than hundreds of feet; the source does not specify that the measurement applies in every direction.",
+      "replacement": "This entire space, stretching for several thousand feet, was trembling.",
+      "severity": "critical",
+      "source": "지하 뇌옥. 수백 장에 이르는 이 공간 전체가 몸을 떨고 있었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "This was neither the first time I had seen something like this nor something I had failed to expect, but a deep despair pressed down on my entire body.",
+      "defect": "“Nor something I had failed to expect” is a stiff double-negative construction that obscures the straightforward statement that the sight was not unexpected.",
+      "id": "F09",
+      "rationale": "예상하지 못했던 것도 아니었다 directly means it was not something he had failed to anticipate; the replacement preserves that meaning in natural English.",
+      "replacement": "It was neither the first time I had seen something like this nor an unexpected sight, but a profound despair weighed down my entire body.",
+      "severity": "minor",
+      "source": "처음 보는 것도, 예상하지 못했던 것도 아니었지만 짙은 절망감이 전신을 짓눌렀다."
+    }
+  ],
+  "summary": "The draft contains three scene-fact errors involving bodily position, action ownership, and scale, plus several localized fidelity and English issues.",
+  "version": 1
+}
