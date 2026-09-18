@@ -604,3 +604,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 매직 존슨 | 최 팀장 | fellow S-rank Hunter to Korean Team Leader | Choi | casual and teasing | Magic addresses Choi while offering an awkward farewell before boarding the jet. |
 | 진태경 | 최 팀장 | younger teammate to Team Leader | Team Leader | polite and teasing | Jin repeatedly addresses Choi as Team Leader while joking about their drinking-game bargain and departure. |
 | 샤오 쉔 | 진태경 | young military commander to senior allied Hunter and commander | Teacher Jin, then hyung | formal-deferential, then familiar and deferential | Shao Shen follows Jin's orders and accepts Jin's request to use hyung instead of Teacher Jin. |
+| 샤오 쉔 | 진태경 | subordinate_to_older_brother_figure | Hyung | polite | Shao Shen addresses Jin as 형님 while reporting battlefield and headquarters matters. |
+| 진태경 | 랴오 상장 | allied_Hunter_to_foreign_general | General | formal-to-hostile-casual | Jin initially addresses Liao respectfully as 장군님 before becoming openly hostile. |
+| 랴오 상장 | 진태경 | foreign_general_to_allied_Hunter | Mr. Jin | formal | Liao repeatedly addresses Jin as 진 선생 while attempting to maintain rank-based formality. |

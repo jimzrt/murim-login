@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "Contacting them meant that he had sent several Hunters under his command ahead of us.",
+      "defect": "The translation adds a spatial direction absent from the source. The Hunters were dispatched in advance to make contact, not necessarily sent ahead of the traveling group.",
+      "id": "F01",
+      "rationale": "미리 describes when the Hunters were sent, while “ahead of us” asserts where they went and conflicts with the headquarters forces following behind.",
+      "replacement": "Contacting them meant that he had dispatched several Hunters under his command in advance.",
+      "severity": "major",
+      "source": "연락을 취했다는 건, 휘하에 있는 헌터 몇 명을 미리 보내 놨다는 뜻이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Shouldn’t we take care of the large monsters ourselves? It might be difficult for headquarters to relocate otherwise…”",
+      "defect": "The omitted object of 옮기기 is the large monster corpses, but the draft makes headquarters itself relocate, altering the cleanup mechanism.",
+      "id": "F02",
+      "rationale": "The surrounding explanation establishes that headquarters cuts up and transports monster corpses; Shao Shen is proposing that their group handle the largest ones because those bodies would be difficult for headquarters to move.",
+      "replacement": "“Shouldn’t we take care of at least the large monsters ourselves? They’d probably be difficult for headquarters to move…”",
+      "severity": "major",
+      "source": "「대형 몬스터 정도는 우리 쪽에서 처리해 놔야 하지 않을까요? 아무래도 본부가 옮기기에는 힘들 것 같아서…….」"
+    },
+    {
+      "confidence": 0.91,
+      "current": "“I was about to. Rise, my skeletons—huh?”",
+      "defect": "The draft normalizes the deliberately modern, playful 자라나라 incantation and removes its interrupted repetition, weakening the joke that leads into the Warlord’s use of “bug” and the narration about his modernization.",
+      "id": "F03",
+      "rationale": "자라나라 means “grow,” not the conventional necromantic “rise,” and 해골해 trails into a repeated 해골 before the failed power interrupts him.",
+      "replacement": "“I was already going to. Grow, skeletons, gro—huh?”",
+      "severity": "major",
+      "source": "- 안 그래도 그러려고 했다. 자라나라 해골해…… 어?"
+    },
+    {
+      "confidence": 0.99,
+      "current": "*Should I give him the kind of treatment that cracks his skull?*",
+      "defect": "Spoken dialogue has been changed into an internal thought, and the 대접 wordplay is lost. Liao’s immediate response shows that Jin says the line aloud.",
+      "id": "F04",
+      "rationale": "대접 echoes Liao’s complaint about how he is being treated while also meaning a large bowl; 으로 makes that bowl the instrument used to crack his head.",
+      "replacement": "“How about I show you some respect by smashing a bowl over your head?”",
+      "severity": "major",
+      "source": "“아주 그냥, 대접으로 대가리를 깨 버릴까.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Ding.\n\n> **System**\n>\n> A Sudden Quest, **The Desperate War Situation**, has been generated.\n>\n> You cannot refuse this Quest. Arrive as quickly as possible and defeat the enemies!",
+      "defect": "The draft invents the Quest title, refusal condition, objective, and full panel text. The source reveals only that a System notification announcing a Sudden Quest appeared.",
+      "id": "F05",
+      "rationale": "None of the panel’s specific contents occur in this chapter’s source. Adding them prematurely changes the amount of information revealed at the cliffhanger and introduces spoiler-bearing details.",
+      "replacement": "Ding.\n\nA System notification announced a Sudden Quest.",
+      "severity": "critical",
+      "source": "띠링.\n\n돌발 퀘스트를 알리는 시스템 알림이 있었다."
+    }
+  ],
+  "summary": "Several actionable fidelity issues remain, including two altered cleanup mechanics, a lost incantation joke, dialogue incorrectly rendered as thought, and a spoiler-bearing System panel added without source support.",
+  "version": 1
+}

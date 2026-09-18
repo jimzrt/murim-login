@@ -1364,3 +1364,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 상하이방 | **Shanghai Gang** | The rival faction associated with Shao Yang and Wei Fenghu. |
 | 핑핑이 | **Pingping** | Mocking nickname derived from Xi Jinping's given name. |
 | 정 드래곤 | **Jung Dragon** | Forum nickname for Lee Jungryong. |
+| 청두군구 | **Chengdu Military Region** | Chinese military region containing the 13th Group Army. |
+| 제 13집단군 | **13th Group Army** | Army commanded by General Liao and comprising seven divisions and brigades. |

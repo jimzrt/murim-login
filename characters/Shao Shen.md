@@ -1,9 +1,9 @@
 # Shao Shen (샤오 쉔)
 
-- **Safe through:** Chapter 389
+- **Safe through:** Chapter 390
 - **Aliases:** None
-- **Role:** Twenty-one-year-old Chinese military commander attached to the Public Security Armed Forces Department and leading roughly one thousand Hunters on the western front.
-- **Personality:** Frighteningly calm in battle but shy and prone to stammering in ordinary conversation; reveres Jin Taekyung.
-- **Voice:** Formal and deferential, with frequent stammering outside battle.
-- **Relationships:** Follows Jin Taekyung's orders and asks to call him Teacher Jin before accepting Jin's request to use hyung.
+- **Role:** A Chinese Hunter coordinating headquarters communication during Jin Taekyung's western-front operation.
+- **Personality:** Enthusiastic, deferential, and embarrassed by irresponsible officers under his side's command.
+- **Voice:** Polite and admiring, addressing Jin as Hyung.
+- **Relationships:** Reports to Jin Taekyung and helps coordinate the Hunters and headquarters.
 - **Sources:** Korean source and accepted translation, Chapter 379
