@@ -1,28 +1,29 @@
 # Translation State
 
-- Last completed: 412
-- Next chapter: 413
-- Current block: 410–414 (3/5)
-- Latest translation: `translations/0412.md`
-- Latest summary: `summaries/beats/0412.md`
-- Safe profiles through: chapter 412
+- Last completed: 413
+- Next chapter: 414
+- Current block: 410–414 (4/5)
+- Latest translation: `translations/0413.md`
+- Latest summary: `summaries/beats/0413.md`
+- Safe profiles through: chapter 413
 
 ## Current Block
 
-- Jin Taekyung uses One Annihilation to erase ten Darkened Death Knights and Liches, countless elite monsters, and the Arch Lich's observing Familiars. The attack grants him four Level Ups, massive EXP and Fame, the Title One Against a Thousand, and the new Intimidation stat. Its effects terrify the surviving monsters and greatly raise the suicide squad's morale, allowing more than two hundred fighters to charge through the breach. The Arch Lich's Familiar Link is severed and its ten empowered guards are destroyed, leaving it injured and wondering whether Jin may be the ancient Adversary who defeated it long ago.
+- Wu Heixing and the roughly three hundred elite Hunters of the Red Guard Gang fight through the monster army, but a Lich and two Death Knights inflict severe losses. Lee Jungryong kills the airborne Lich with a single spear throw, after which Wu defeats one of the Death Knights. Lee and Go Jun deliberately wait until the Red Guard Gang is in greater danger before sending Go Jun and Ares Guild forces into battle. Lee reveals that he wants the Red Guard Gang destroyed so Ares can become its replacement source of influence and opportunity. Go Jun questions whether Wu's involvement is connected to Jin Taekyung, but Lee gives no explanation; shortly afterward, Lee hears Jin approaching from the west and awaits his arrival.
 
 ## Open Questions
 
-- Is Jin the ancient human Adversary remembered by the Arch Lich?
-- What was the Arch Lich's former identity, and what became of the king it once served?
-- Can Jin and the suicide squad reach Lee Jungryong and Wu Heixing after exploiting the breakthrough?
+- Why did Lee Jungryong include Wu Heixing in the operation, and how is that choice connected to Jin Taekyung?
+- What does Lee Jungryong intend to do when Jin Taekyung arrives?
+- Will the Red Guard Gang be destroyed, allowing Ares Guild to assume its political position?
+- Can the remaining Red Guard Gang and Ares forces survive the surrounding monster army and Death Knights?
 
 ## Exceptional Decision
 
 - Render 일기당천 as One Against a Thousand.
 - Render 위압 as Intimidation.
-- Render 어둠에 물든 as Darkened.
-- Render 마계어 as Demon Realm language.
+- Render 홍위방 as Red Guard Gang.
+- Render 십이혈라검 as Twelve Blood Net Sword.
 - Render 결사대 as suicide squad.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained

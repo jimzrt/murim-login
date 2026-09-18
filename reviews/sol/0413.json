@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "More than three hundred elite Hunters, personally recruited and trained as a private army by Wu Heixing’s family, charged into every opening without hesitation.",
+      "defect": "The draft changes the family’s founding of the Red Guard Gang into recruitment and renders 삼백여 명 as definitively more than three hundred rather than approximately three hundred.",
+      "id": "F01",
+      "rationale": "창설 means to found or establish, while 삼백여 명 denotes roughly three hundred people.",
+      "replacement": "The roughly three hundred elite Hunters of the Red Guard Gang, which Wu Heixing’s family had personally founded and raised as a private army, charged into every opening without hesitation.",
+      "severity": "major",
+      "source": "우헤이싱의 가문에서 직접 창설하고 사병으로 육성시킨 삼백여 명의 정예 헌터들은 망설임 없이 빈틈을 비집고 달려들었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "*I’ll make it so no one can ever look down on me again. Lei Fei. You fucking bangzi bastard. No one!*",
+      "defect": "Adding “You” makes the bangzi insult read as though it addresses Lei Fei, whereas the source presents Lei Fei and the damned bangzi as separate targets in Wu Heixing’s list of resentments.",
+      "id": "F02",
+      "rationale": "The source separates 레이페이 and 빌어먹을 빵즈 놈 into distinct sentence fragments and does not identify Lei Fei as the target of the anti-Korean slur.",
+      "replacement": "*I’ll make sure no one can ever look down on me again. Lei Fei. That fucking bangzi bastard. No one!*",
+      "severity": "critical",
+      "source": "‘누구도 나를 무시 못 하게 만들어 주마. 레이페이. 빌어먹을 빵즈 놈. 그 누구도!’"
+    },
+    {
+      "confidence": 1.0,
+      "current": "A spear flew in at blinding speed, skewering several Hunters like meat on a skewer before burying itself deep in the ground.",
+      "defect": "The specific quantity 서너 명, three or four Hunters, is reduced to the less precise “several.”",
+      "id": "F03",
+      "rationale": "서너 명 explicitly specifies three or four people.",
+      "replacement": "A spear flew in at blinding speed, skewering three or four Hunters like meat on a skewer before burying itself deep in the ground.",
+      "severity": "minor",
+      "source": "눈부신 속도로 날아온 한 자루의 창이 서너 명의 헌터들을 꼬치처럼 꿰며 지면 깊숙이 틀어박혔다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“The black magic’s influence has disappeared, but our troop losses are already considerable, while the monsters still vastly outnumber us.”",
+      "defect": "The added first-person possessives falsely make the losses and numerical disadvantage belong to Go Jun and Ares Guild, who have not yet entered the battle. He is assessing Wu Heixing and the Red Guard Gang.",
+      "id": "F04",
+      "rationale": "The Korean has no first-person possessive, and the surrounding exchange concerns the forces currently fighting under Wu Heixing.",
+      "replacement": "“The black magic’s influence has disappeared, but the Hunters have already suffered considerable losses, while the monsters are far too numerous.”",
+      "severity": "critical",
+      "source": "“흑마법의 영향이 사라졌다지만 이미 병력 피해가 상당한 반면에, 몬스터의 숫자가 너무 많습니다.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Then we’ll have to struggle with everything we have.”",
+      "defect": "The draft changes the implied subject to Lee Jungryong and Go Jun, making them commit to fighting immediately despite their plan to keep watching until Wu Heixing’s side becomes more desperate.",
+      "id": "F05",
+      "rationale": "The line refers to Wu Heixing and his forces having to fight desperately; Lee and Go Jun discuss intervening only afterward.",
+      "replacement": "“Then they’ll have to struggle with all they’ve got.”",
+      "severity": "critical",
+      "source": "“그렇다면 있는 힘껏 발버둥 쳐야 할 테고.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Only then did his Master give a satisfied smile. His tone changed along with it.",
+      "defect": "The explicit Master–Disciple framing is partially omitted: the source says the Master smiles after hearing his Disciple’s answer, reinforcing that the exchange was a test within their hierarchy.",
+      "id": "F06",
+      "rationale": "제자의 대답을 들은 explicitly attributes the reaction to hearing the Disciple’s answer, and the established term for 제자 is “Disciple.”",
+      "replacement": "Only then, after hearing his Disciple’s answer, did the Master smile in satisfaction. His manner of speaking changed as well.",
+      "severity": "major",
+      "source": "제자의 대답을 들은 스승은 그제야 만족스러운 미소를 띠었다. 덩달아 말투도 바뀌었다."
+    }
+  ],
+  "summary": "The draft contains two altered subjects that make Lee Jungryong and Ares Guild participants in losses and fighting they are still deliberately observing, along with an ambiguous identity shift, an organizational-origin error, an omitted hierarchy cue, and a lost quantity.",
+  "version": 1
+}

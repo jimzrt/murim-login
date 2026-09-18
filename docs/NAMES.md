@@ -1403,3 +1403,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 매직 트랩 | **Magic Trap** | Indiscriminate battlefield trap deployed by the Arch Lich. |
 | 대적자 | **the Adversary** | Ancient human enemy remembered by the Arch Lich. |
 | 죽음의 강 | **River of Death** | Realm in which the Arch Lich spent an immense span of time. |
+| 홍위방 | **Red Guard Gang** | Private army of elite Hunters founded and raised by Wu Heixing's family. |
+| 십이혈라검 | **Twelve Blood Net Sword** | Wu Heixing's sword technique derived from an ancient book acquired by his grandfather. |
+| 마오쩌둥 | **Mao Zedong** | Chinese leader named as Wu Heixing's grandfather's longtime political associate. |
+| 문화대혁명 | **Cultural Revolution** | The 1966–1976 Chinese political campaign discussed in the chapter. |
