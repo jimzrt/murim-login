@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Heo Jun, the sworn younger brother of Junzi Sword Ju Hogun and the Chief Escort who had spent thirty years with the Yongbong Escort Bureau, died just like that.",
+      "defect": "The draft adds an unsupported younger-brother hierarchy. 의형제 establishes sworn brotherhood but does not identify Heo Jun as the younger party.",
+      "id": "F01",
+      "rationale": "Removing “younger” preserves the exact kinship information given by the source without inventing seniority.",
+      "replacement": "Heo Jun, the sworn brother of Junzi Sword Ju Hogun and the Chief Escort who had spent thirty years with the Yongbong Escort Bureau, died just like that.",
+      "severity": "critical",
+      "source": "군자검 주호군의 의형제이자 삼십 년간 용봉표국에 몸담았던 총표두 허준은 그렇게 죽었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "At the hands of the niece who had once treated him like blood.",
+      "defect": "“Treated him like blood” is an unnatural and unclear rendering of 따르던, which describes her once looking up to and following him as though he were family.",
+      "id": "F02",
+      "rationale": "The replacement preserves the former affection and direction of the relationship while reading naturally in English.",
+      "replacement": "At the hands of the niece who had once looked up to him as family.",
+      "severity": "minor",
+      "source": "한때 자신을 혈육처럼 따르던 질녀(姪女)의 손에 의해."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Even handling the aftermath of such a long escort mission would take an entire day, and then there had been one dynamic incident after another. She probably needed ten bodies just to keep up with everything.",
+      "defect": "The draft turns the idiom that the day would fly by into a concrete claim that the work would take exactly one entire day, altering the temporal meaning.",
+      "id": "F03",
+      "rationale": "하루가 금방 가다 means that a day passes quickly while occupied, not that the work has a one-day duration.",
+      "replacement": "The day would fly by just dealing with the aftermath of the long escort mission, and with one crazy incident after another on top of that, even ten bodies wouldn’t be enough.",
+      "severity": "major",
+      "source": "길었던 표행의 뒤처리만으로도 하루가 금방 갈 텐데, 다이나믹한 사건들까지 잇따랐으니 몸이 열 개라도 부족할 것이 분명했다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "*Am I an idiot?*\n\nI needed to go to Sichuan. Why was I going to the Yongbong Escort Bureau?",
+      "defect": "The self-directed outburst loses the force of 병신인가 and omits 진짜, noticeably sanitizing Taekyung’s frustrated, profane narration.",
+      "id": "F04",
+      "rationale": "The stronger wording preserves both the insult and the exasperated emphasis of 진짜 without changing the target or meaning.",
+      "replacement": "*Am I a fucking idiot? Seriously?*\n\nI needed to go to Sichuan. Why was I going to the Yongbong Escort Bureau?",
+      "severity": "major",
+      "source": "병신인가, 진짜. 사천에 가야지 용봉표국을 왜 가."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“I have nothing to do.”\n\n“Then make something to do.”",
+      "defect": "Song Ilseom is saying he has no business or reason to go, not that he is unoccupied. The draft changes the basis of his refusal and weakens the ensuing joke.",
+      "id": "F05",
+      "rationale": "In response to whether he is coming, 일 없다 means that he has no business there; Taekyung immediately tells him to invent a reason.",
+      "replacement": "“I have no reason to.”\n\n“Then come up with one.”",
+      "severity": "major",
+      "source": "“일 없다.”\n\n“그럼 만들어.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Mmph. This is good. Mmph-mmph-mmph.”",
+      "defect": "The draft omits Cheongpung’s mouth-full address 으닌, meaning “Benefactor,” losing an established relationship cue and part of the comic delivery.",
+      "id": "F06",
+      "rationale": "Even though it is slurred by the food in his mouth, 은인 is explicitly spoken and preserves Cheongpung’s deferential way of addressing Taekyung.",
+      "replacement": "“Mmph. Benefactor. This is delicious. Mmph-mmph-mmph.”",
+      "severity": "major",
+      "source": "“쩝쩝. 으닌. 이거 마시써요. 쩝쩝쩝.”"
+    },
+    {
+      "confidence": 0.95,
+      "current": "I wasn’t sure why, but when Wolhwa gave the other two a long look, they seemed to change their tune.",
+      "defect": "“Gave the other two a long look” softens 째려보자, which specifically says Wolhwa glared at them and implies that her intimidating look caused them to decline.",
+      "id": "F07",
+      "rationale": "The replacement restores the hostility and quiet coercion conveyed by 째려보다 while retaining the narrator’s uncertainty.",
+      "replacement": "I wasn’t sure why, but they seemed to change their tune after Wolhwa fixed the two of them with a long, hard glare.",
+      "severity": "minor",
+      "source": "왜 그런지는 모르겠지만, 월화가 두 사람을 지그시 째려보자 말을 바꾼 것 같기도 하다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“So stop whining about the side dishes and eat.”",
+      "defect": "The neutral verb “eat” sanitizes the deliberately vulgar command 처먹어 and weakens Taekyung’s abrupt comic register shift.",
+      "id": "F08",
+      "rationale": "처먹다 is a coarse, contemptuous form of “eat”; the profanity is directed jokingly but remains explicit in the source.",
+      "replacement": "“So stop whining about the side dishes and fucking eat.”",
+      "severity": "major",
+      "source": "“그러니까 반찬 투정하지 말고 처먹어.”"
+    }
+  ],
+  "summary": "The draft is broadly faithful but adds an unsupported kinship hierarchy, alters two causal or temporal details, omits a meaningful form of address, and softens several characterization cues.",
+  "version": 1
+}
