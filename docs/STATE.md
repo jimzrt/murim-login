@@ -1,24 +1,24 @@
 # Translation State
 
-- Last completed: 364
-- Next chapter: 365
-- Current block: 360–364 (5/5)
-- Latest translation: `translations/0364.md`
-- Latest summary: `summaries/beats/0364.md`
-- Safe profiles through: chapter 364
+- Last completed: 365
+- Next chapter: 366
+- Current block: 365–369 (1/5)
+- Latest translation: `translations/0365.md`
+- Latest summary: `summaries/beats/0365.md`
+- Safe profiles through: chapter 365
 
 ## Current Block
 
-- Jeok Cheongang awakens from a long dream of his life as Jangcheon and confronts the Western Heaven Demon Lord, who seizes Jin Taekyung by the throat and demands that Jeok kill himself. Jeok appears to agree to preserve his Disciple and the Fire Gate Clan's lineage, but the Demon Lord secretly intends to kill everyone. Taekyung then awakens enough to tear the Demon Lord's wrist free, allowing Jeok to attack with the Flame Divine Palm.
-- The Western Heaven Demon Lord counters with Sword Force while Jeok's still-recovering body falters. Taekyung receives three Level Ups and partial restoration of his injuries, then gains the enlightenment needed to cross the wall into the Supreme Peak realm. He uses Seizing an Object Through Empty Space to draw White Flame, whose spearhead releases a roaring fire dragon.
+- Jin Taekyung breaks through to the Supreme Peak realm, advances the Fire Gate Divine Technique and Fire Dragon Divine Spear to the eighth stage, and manifests Force for the first time. He and Jeok Cheongang combine their attacks to severely injure the Western Heaven Demon Lord.
+- The Lord of Heaven temporarily possesses the Western Heaven Demon Lord's body, but Taekyung uses One Annihilation to destroy the borrowed body. The possessing entity escapes after promising to return. Taekyung collapses from exhaustion, Jeok catches him, and the underground prison begins to collapse.
 
 ## Open Questions
 
-- What will be the outcome of the unresolved confrontation between Jin Taekyung, Jeok Cheongang, and the Western Heaven Demon Lord?
+- What is the true nature and purpose of the Lord of Heaven, and did the Western Heaven Demon Lord survive the possession?
 - What is the full nature and purpose of the Myriad-Poison Ring?
 - Can the Divine Physician survive after losing his dantian and martial arts?
 - What is the actual outcome of the attacks on the Tang Clan, Qingcheng, and Emei?
-- Can Cheongpung survive or escape his confrontation with First Fiend?
+- Can Cheongpung and the others survive or escape the collapsing underground prison?
 
 ## Exceptional Decision
 
