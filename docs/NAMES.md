@@ -1241,3 +1241,11 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 일결 제자 | **One-knot Disciple** | Beggars' Sect rank held by Jang Il's junior companions. |
 | 부 분타주 | **Vice Branch Leader** | Office Jang Il attained in the Chengdu branch. |
 | 장일 | **Jang Il** | Twenty-five-year-old two-knot Beggars' Sect Disciple killed near Emei. |
+| 금당 | **Golden Hall** | Location near Chengdu where the Green Shadow Squad discovered the disguised attackers. |
+| 경월년 | **Gyeongwol Year** | Historical year designation in the Tang Clan's past. |
+| 당전고 | **Tang War Drum** | War drum sounded to mobilize the Tang Clan. |
+| 당문고 | **Tang Clan drum** | Source spelling variant for the Tang Clan's war drum. |
+| 당문십기 | **Tang Clan's Ten Wonders** | Ten Tang Clan members renowned for their martial strength. |
+| 일원 | **One Origin** | Named Tang Clan organizational unit in Tang Sadok's mobilization order. |
+| 삼당 | **Three Divisions** | Named Tang Clan organizational group in Tang Sadok's mobilization order. |
+| 오대 | **Five Squads** | Named Tang Clan organizational group in Tang Sadok's mobilization order. |

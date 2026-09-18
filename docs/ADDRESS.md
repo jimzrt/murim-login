@@ -511,3 +511,7 @@ Overrides generic relationship prose in character profiles for this pair.
 | 천력마 | 진태경 | prisoner_to_prisoner_feeder | you | gruff and self-possessed | The Heavenly Power Demon speaks of himself as 노부 while questioning Taekyung. |
 | 수문각주 | 당사독 | nephew_to_uncle | Uncle | urgent-deferential | Uses 숙부님 when urgently entering and reporting to Tang Sadok. |
 | 호위 | 당사독 | guard_to_Family_Head | Family Head | formal-deferential | Uses 가주님 while reporting Jin Taekyung's request. |
+| 당사독 | 수문각주 | uncle_to_nephew | you; pathetic fool | blunt-rebuking | Tang Sadok uses 네 녀석 and 한심한 놈 while correcting his nephew's underestimation of the enemy. |
+| 당사독 | 녹영대원 | Family Head to subordinate | you | formal-commanding | Tang Sadok uses 자네 while questioning the injured Green Shadow Squad martial artist. |
+| 서천마군 | 당사독 | hostile_opponents | you | calm and taunting | The Western Heaven Demon Lord uses 자네 while answering Tang Sadok's question. |
+| 당사독 | 서천마군 | hostile_opponents | you bastard | hostile and threatening | Tang Sadok uses 네놈 after recognizing the disguised infiltrator. |

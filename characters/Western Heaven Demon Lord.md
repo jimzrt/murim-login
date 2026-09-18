@@ -1,8 +1,8 @@
 # Western Heaven Demon Lord (서천마군)
 
-- **Safe through:** Chapter 348
+- **Safe through:** Chapter 352
 - **Aliases:** None
-- **Role:** Middle-aged martial artist who tortured and killed Tang Clan personnel, lost one arm while overcoming Poison King Tang Taesang's resistance, and commands hundreds of black-robed hunters.
+- **Role:** Middle-aged Western Heaven Demon Lord who infiltrated the Sichuan Tang Clan disguised as a Green Shadow Squad martial artist, uses an unexplained demonic martial art to alter his body and restore his lost left arm, and commands hundreds of black-robed hunters.
 - **Personality:** Cold, detached, patient, and utterly ruthless toward those he interrogates or hunts.
 - **Voice:** Controlled and dispassionate, with concise statements delivered in a quiet, threatening tone.
 - **Relationships:** Tang Taesang and the Heaven-Shaking Venerable Nun were his latest victims, he lost one arm taking their lives, and the Qilian Three Fiends now submit to him alongside his hundreds of black-robed hunters.

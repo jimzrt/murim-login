@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.87,
+      "current": "“Ilwon, Samdang, and Odae—prepare to meet the enemy!”",
+      "defect": "The three organizational designations are left as unexplained romanizations despite having transparent numerical meanings, making the command needlessly opaque in English.",
+      "id": "F01",
+      "rationale": "The source presents named clan formations built around one, three, and five; translating the designations preserves those quantities and makes the command intelligible without inventing ledger terms.",
+      "replacement": "“One Origin, Three Divisions, and Five Squads—prepare to meet the enemy!”",
+      "severity": "minor",
+      "source": "“일원(一元), 삼당(三黨), 오대(五隊)는 적들을 맞이할 준비를 하라!”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The green martial uniform, torn to shreds and soaked in blood, bore unmistakable traces of battle.",
+      "defect": "The draft adds that the uniform is green, but the source specifies only a martial uniform; the squad's name does not establish its clothing color.",
+      "id": "F02",
+      "rationale": "Removing the unsupported color restores the source's visual information exactly.",
+      "replacement": "The martial uniform, torn to shreds and soaked in blood, bore unmistakable traces of battle.",
+      "severity": "minor",
+      "source": "온통 찢기고 피에 젖은 무복은 틀림없는 전투의 흔적이었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“To avoid suspicion, they were moving in several groups. But according to our assessment, there must have been at least three hundred.”",
+      "defect": "The report's uncertainty is removed twice: the speaker says they were divided into groups perhaps to avoid suspicion and that there seemed to be at least three hundred, not that either conclusion was certain.",
+      "id": "F03",
+      "rationale": "The constructions 위해서인지 and 듯했습니다 explicitly qualify both the inferred motive and the estimated number.",
+      "replacement": "“Perhaps to avoid suspicion, they were moving in several groups. But from what we were able to determine, there seemed to be at least three hundred of them.”",
+      "severity": "major",
+      "source": "“의심을 피하기 위해서인지 여러 무리로 나누어 움직이고 있었으나, 저희가 파악한 바로는 족히 삼백은 되는 듯했습니다.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Tang Sadok looked at his only nephew with pure pity.",
+      "defect": "한심 conveys that Tang Sadok finds his nephew utterly pathetic or contemptible, not that he feels pity for him.",
+      "id": "F04",
+      "rationale": "The emotion characterizes Tang Sadok's scorn for his nephew's foolish reasoning; rendering it as pity softens and changes that reaction.",
+      "replacement": "Tang Sadok looked at his only nephew with utter contempt.",
+      "severity": "major",
+      "source": "하나뿐인 조카를 바라보는 그의 눈빛에 담긴 감정은 한심, 그 자체였다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Y-yes, Family Head!”",
+      "defect": "The response loses 존명, a formal acknowledgment that the command will be obeyed, and reduces it to a generic affirmation and address.",
+      "id": "F05",
+      "rationale": "존명 is a deferential acceptance of an order, so the replacement preserves both the guards' hierarchy and their alarm.",
+      "replacement": "“A-as you command!”",
+      "severity": "major",
+      "source": "“조, 존명!”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "One was a young man who appeared to be in his thirties, another was a middle-aged man with half-gray hair, and there were also old men around Tang Sadok’s age.",
+      "defect": "The draft changes the source's singular old man into multiple old men, altering the stated composition of the ten arrivals.",
+      "id": "F06",
+      "rationale": "The source enumerates a young man, a middle-aged man, and a singular 노인 as examples of their varied ages.",
+      "replacement": "Among them were a young man who looked to be in his thirties, a graying middle-aged man, and an old man around Tang Sadok’s age.",
+      "severity": "critical",
+      "source": "삼십 줄이나 되었을 법한 젊은이, 반백의 중년인도 있었고 당사독과 비슷한 연배의 노인 또한 있었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "But to Tang Sadok, understanding struck like lightning.",
+      "defect": "“Understanding” is an awkward rendering of 깨달음 here and misses the established sense of a sudden insight.",
+      "id": "F07",
+      "rationale": "깨달음 denotes the sudden realization that resolves his unease, and “insight” matches both the glossary and the source image.",
+      "replacement": "But insight struck Tang Sadok like a flash of lightning.",
+      "severity": "minor",
+      "source": "그러나 당사독에게 깨달음은 섬광과 같았다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "Before fifteen minutes had passed, hundreds of Tang Family members, united by poison and resentment, would gather.",
+      "defect": "“United by poison” treats 독기 as literal poison, whereas here it describes their venomous resolve or ferocity, with a contextual wordplay appropriate to the Tang Family.",
+      "id": "F08",
+      "rationale": "독기 describes a fierce, spite-driven determination in this construction; “venomous resolve” preserves that meaning while retaining the poison association.",
+      "replacement": "Before fifteen minutes had passed, hundreds of Tang Family members, bound together by venomous resolve and resentment, would gather.",
+      "severity": "minor",
+      "source": "일각이 채 지나기도 전에 독기와 원한으로 똘똘 뭉친 수백의 당가(唐家)가 집결할 것이다."
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it contains one quantity change, several unsupported or altered details, lost uncertainty and command register, and localized terminology issues.",
+  "version": 1
+}
