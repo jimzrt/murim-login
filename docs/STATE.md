@@ -1,24 +1,25 @@
 # Translation State
 
-- Last completed: 338
-- Next chapter: 339
-- Current block: 335–339 (4/5)
-- Latest translation: `translations/0338.md`
-- Latest summary: `summaries/beats/0338.md`
-- Safe profiles through: chapter 338
+- Last completed: 339
+- Next chapter: 340
+- Current block: 335–339 (5/5)
+- Latest translation: `translations/0339.md`
+- Latest summary: `summaries/beats/0339.md`
+- Safe profiles through: chapter 339
 
 ## Current Block
 
-- Jin Taekyung's party leaves the Sichuan Tang Clan after Tang Sadok sends word that the clan will provide full assistance once its revenge is complete. Mungyeong departs to return to his Master, carrying copies of medicinal prescriptions and medicinal herbs obtained from the Tang Clan.
-- With two Tang Clan guides leading them, Taekyung and Cheongpung reach Mount Qingcheng. The Qingcheng Sect's Sect Leader, Cheongpung the Ancient Sword, agrees to help at Mae Jonghak's request and mobilizes hundreds of disciples, including the Qingcheng Seventy-Two Swordsmen and two Elders, while also contacting the sect's lay disciples to search Sichuan for the Divine Physician. Taekyung then sends Gung Gibang and Hyuk Mujin toward the Emei Sect while he and Cheongpung head toward the authorities, relying on his connection with Prince Shangshan.
+- Jin Taekyung and Cheongpung use the one-use Prince Shangshan's Token to secure the cooperation of Won Gyun, the corrupt City Lord of Sichuan Province. Won Gyun mobilizes several thousand government troops, local constables, official notices, and a thousand-silver-nyang reward to search for the Divine Physician.
+- The government and Murim join forces in an unprecedented search throughout Sichuan. Government troops cover cities and marketplaces, while Qingcheng Sect's two Elders and hundreds of disciples search secluded areas; after three days, the Divine Physician remains unfound.
+- Hyuk Mujin and Gung Gibang return exhausted and grim with the sole Emei Sect reinforcement, the severely injured middle-aged nun Venerable Myoryeong. She coughs blood from an internal injury, and Taekyung demands to know what happened.
 
 ## Open Questions
 
+- What caused Venerable Myoryeong's severe injury, and can the Emei Sect provide useful assistance?
+- Can the Divine Physician be found and treat Jeok Cheongang before his remaining time expires?
 - Who was the middle-aged man who killed Tang Taesang, and what unfinished objective was he pursuing?
 - Can the Sichuan Tang Clan identify and destroy the culprits behind Tang Taesang's murder?
-- Can the Divine Physician treat Jeok Cheongang before his remaining time expires, and will the Emei Sect provide useful assistance?
 - Which other Yongbong Escort Bureau members collaborated with Heo Jun, and how will the Zhongnan Sect's leaders and wider organizers respond?
-- Who sought the Guangdong Chen Family's Peak martial arts, and what happened to the family's other members?
 
 ## Exceptional Decision
 

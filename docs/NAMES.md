@@ -1179,3 +1179,10 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 청풍고검 | **Cheongpung the Ancient Sword** | Alias of the Qingcheng Sect's Sect Leader; distinct from Cheongpung. |
 | 청성 칠십이검자 | **Qingcheng Seventy-Two Swordsmen** | Qingcheng Sect group of First Rate masters. |
 | 사천성 | **Sichuan Province** | Province form used in the title of its chief official. |
+| 사천성주 | **City Lord of Sichuan Province** | Title held by Won Gyun. |
+| 호위장 | **Captain of the Guards** | The Sichuan City Lord's guard captain. |
+| 원균 | **Won Gyun** | Personal name of the City Lord of Sichuan Province. |
+| 진가상단 | **Jin Family Trading Company** | Commercial organization belonging to the Jin Family of Taiyuan. |
+| 애향이 | **Aehyang** | Personal name of the Sichuan City Lord's favorite concubine. |
+| 묘령 | **Myoryeong** | Dharma name of the middle-aged Emei nun. |
+| 묘령사태 | **Venerable Myoryeong** | Honorific form for the injured Emei nun. |
