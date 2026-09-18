@@ -493,7 +493,7 @@ def parse_chapter_list(raw: bytes) -> list[int] | None:
             chapter = int(item)
         except (TypeError, ValueError):
             return None
-        if chapter <= 0:
+        if chapter < 0:
             return None
         chapters.append(chapter)
     if len(chapters) > 500:

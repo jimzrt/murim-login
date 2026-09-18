@@ -33,7 +33,7 @@ const apiUrl = import.meta.env.PUBLIC_VIEW_COUNT_URL ?? "https://murim-login.com
       ...new Set(
         nodes
           .map((node) => Number(node.dataset.chapter))
-          .filter((chapter) => Number.isInteger(chapter) && chapter > 0),
+          .filter((chapter) => Number.isInteger(chapter) && chapter >= 0),
       ),
     ];
     if (!chapters.length) {

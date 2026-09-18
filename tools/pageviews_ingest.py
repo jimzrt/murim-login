@@ -167,7 +167,7 @@ def connect() -> sqlite3.Connection:
 
 
 def query_counts(chapters: list[int]) -> list[dict[str, int]]:
-    unique = sorted({int(ch) for ch in chapters if int(ch) > 0})
+    unique = sorted({int(ch) for ch in chapters if int(ch) >= 0})
     if not unique:
         return []
     path = db_path()

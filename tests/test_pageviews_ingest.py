@@ -24,6 +24,7 @@ def _event(uri: str, ua: str = "Mozilla/5.0", status: int = 200) -> dict:
 
 class PageviewsIngestTest(unittest.TestCase):
     def test_chapter_and_home_paths(self):
+        self.assertEqual(classify(normalize_path("/chapter/0/")), 0)
         self.assertEqual(classify(normalize_path("/chapter/160/")), 160)
         self.assertEqual(classify(normalize_path("/murim-login/chapter/7")), 7)
         self.assertIsNone(classify(normalize_path("/")))
@@ -56,6 +57,7 @@ class PageviewsIngestTest(unittest.TestCase):
                   duration_ms INTEGER
                 );
                 INSERT INTO pageviews (ts, chapter, path, status, ip_hash) VALUES
+                  ('2026-01-01T00:00:00Z', 0, '/chapter/0/', 200, 'reader-c'),
                   ('2026-01-01T00:00:00Z', 160, '/chapter/160/', 200, 'reader-a'),
                   ('2026-01-01T00:01:00Z', 160, '/chapter/160/', 200, 'reader-a'),
                   ('2026-01-01T00:02:00Z', 160, '/chapter/160/', 200, 'reader-b'),
@@ -64,8 +66,9 @@ class PageviewsIngestTest(unittest.TestCase):
             )
             conn.close()
             with patch("tools.pageviews_ingest.db_path", return_value=db):
-                rows = query_counts([160, 161, 162])
+                rows = query_counts([0, 160, 161, 162])
             self.assertEqual(rows, [
+                {"chapter": 0, "count": 1},
                 {"chapter": 160, "count": 2},
                 {"chapter": 161, "count": 1},
                 {"chapter": 162, "count": 0},
