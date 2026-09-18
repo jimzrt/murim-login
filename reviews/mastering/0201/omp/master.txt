@@ -20,8 +20,6 @@ The Fire King kept the Murim side in line, while Prince Shangshan, a member of t
 
 Merchants were more sensitive to profit than anyone. Once they smelled money, it was only natural for them to come running.
 
-After quickly organizing his thoughts, Jin Wikyung asked Wipeng:
-
 After quickly organizing his thoughts, Jin Wikyung asked Wipeng, “What about the budget? How much do you think we’ll have left?”
 
 “We’re short.”
@@ -36,7 +34,7 @@ The corners of Wipeng’s mouth rose at Jin Wikyung’s startled expression.
 
 “Two warehouses were already full two days ago. Everything that has come in since then is being stored in empty pavilions.”
 
-Jin Wikyung released a sigh of relief and gave a quiet laugh.
+Jin Wikyung breathed a sigh of relief and laughed.
 
 “What a windfall.”
 
@@ -46,7 +44,7 @@ Jin Wikyung released a sigh of relief and gave a quiet laugh.
 
 “Indeed.”
 
-The wider a person’s connections, the more likely they were to get pricked by thorns.
+The more connections someone had, the more thorns there were to prick them.
 
 The Jin Family of Taiyuan was clearly a goose laying golden eggs, but there were also powerful sects and great families—including the Zhongnan Sect—with which it had an uneasy relationship because of the Fire King.
 
@@ -100,15 +98,15 @@ He readily accepted Seok Family Manor’s proposal to enter the Shanxi merchant 
 
 Naturally, the details would need to be reviewed, but Seok Family Manor’s offer was extraordinarily generous.
 
-“You’ve made a better offer than I expected. Generous enough to make me wonder whether this is really all right.”
+“You’ve made a better offer than I expected. Generous enough to make me wonder whether you can truly afford it.”
 
 Chief Ha rubbed his hands together and laughed.
 
 “I’m a merchant to the bone. I never conduct business at a loss.”
 
-There were different levels among merchants.
+There were different levels of merchant.
 
-A Third Rate merchant exchanged goods. A Second Rate merchant purchased goods that could leave him a profit. A First Rate merchant bought the future.
+A third-rate merchant bartered goods. A second-rate merchant purchased goods he could sell for a profit. A first-rate merchant bought the future.
 
 Seok Family Manor was one of the greatest merchant houses in the world. They were aiming not for an immediate profit, but for returns dozens of times greater in the years to come.
 
@@ -122,7 +120,7 @@ Life was not so easy that one could say whatever one wished and reveal every hon
 
 “Thank you, Lesser Family Head.”
 
-Chief Ha was about to rise from his seat when he stopped.
+Chief Ha was about to rise when he hesitated.
 
 “Um…”
 
@@ -136,11 +134,9 @@ Chief Ha continued wiping away his sweat.
 
 “It has proved extraordinarily difficult. I tried visiting him myself, and I even sent a subordinate to discreetly request a meeting, but…”
 
-“Oh, dear. Great Hero Jeok probably didn’t take that well.”
+“Oh, dear. Great Hero Jeok couldn’t have taken that well.”
 
 “Indeed. My man came back nearly crippled. That is why I have shamelessly come to ask you for this favor, Lesser Family Head.”
-
-Suppressing his laughter, Jin Wikyung answered:
 
 Suppressing his laughter, Jin Wikyung replied, “I’m not sure. It might be possible after the gathering ends, but the next few days will be difficult.”
 
@@ -166,21 +162,21 @@ Splash!
 
 “Gah!”
 
-The first thing I saw after opening my eyes to the cold-water ambush was Jeok Cheongang, glaring at me with his eyes wide open.
+The cold water jolted me awake, and the first thing I saw was Jeok Cheongang glaring down at me.
 
 “W-What are you doing?”
 
-“You slept like the dead until this hour. Are you out of your mind?”
+“You’re sleeping like the dead at this hour. Are you out of your mind?”
 
 “I only slept for two shichen.[^1] How is that sleeping like the dead?”
 
 Jeok Cheongang launched into a lecture as I stared at him in disbelief.
 
-“In four hours, you bastard, this old man could swing a weapon a thousand more times. And where did you learn the disrespect of not even paying your morning respects to your Master?”
+“Four hours is enough time to swing a weapon over a thousand times, you bastard! And where did you learn to be so disrespectful that you don’t even pay your morning respects to your Master?”
 
 “…Master?”
 
-Jeok Cheongang flinched and stammered for a moment.
+Jeok Cheongang flinched and stammered.
 
 “W-We need to look that way to other people, don’t we?”
 
@@ -326,13 +322,13 @@ Whirl—whoosh! Boom!
 
 Second strike, third, fourth…
 
-He stabbed, slashed, and swept upward.
+He brought the spear down, slashed, and swept upward.
 
-Every time Jeok Cheongang evaded the shower of spearheads pouring down like torrential rain, his astonishment grew like a snowball.
+Every time Jeok Cheongang evaded the storm of spear strikes raining toward him, his astonishment grew.
 
 *He’s seasoned. As if he were born on a battlefield.*
 
-He was only twenty-one. Yet the trajectories and movements traced by his spearhead were no worse than those of any famous master in the martial world.
+He was only twenty-one. Yet the trajectories traced by his spear and every movement he made were on par with those of renowned veterans in the martial world.
 
 No. If anything, they were better.
 
@@ -348,7 +344,7 @@ They were unquestionably great powers that held sway over the world, but only a 
 
 That was why the Demonic Cult, which had grown through conquest and the principle of Might Makes Right, had managed to swallow half the Central Plains.
 
-How many disciples of prestigious great sects had died at the beginning of the war?
+How many Disciples of prestigious sects had died in the early days of the war?
 
 *But this kid is different.*
 
@@ -376,7 +372,7 @@ Jeok Cheongang knew nothing of the seven years Jin Taekyung had spent steeped in
 
 Jeok Cheongang himself had spent his entire life obsessed with martial arts.
 
-Yet even for someone who had achieved a great realm, what Jin Taekyung was displaying now was incomprehensible.
+Yet even to a man who had attained such heights, what Jin Taekyung was displaying now was nothing short of a miracle.
 
 *The greatest martial talent in history, was it?*
 
