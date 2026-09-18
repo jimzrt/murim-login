@@ -557,3 +557,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 샤오 쉔 | 야오위 | Friends, colleagues, and sparring partners | Mr. Yao Wei | Polite | Shao Shen addresses Yao Wei respectfully in their remembered conversations. |
 | 샤오 쉔 | 진태경 | junior_Hunter_to_revered_foreign_Hunter | Mr. Jin | formal-polite | Shao Shen addresses Jin as 진 선생님 after recognizing the famous Korean Hunter. |
 | 진태경 | 최 팀장 | mission_companion_to_team_leader | Team Leader Choi | polite-directive | Jin instructs Choi to protect civilians, evacuate the unconscious passengers, and continue fighting without overextending himself. |
+| 진태경 | 샤오 쉔 | battlefield ally and subordinate commander | Shao Shen | direct and honorific-polite | Jin calls Shao Shen by name and orders him to switch the defenders to an offensive. |
+| 샤오 쉔 | 진태경 | subordinate commander to respected ally | Mr. Jin | deferential | Shao Shen addresses Jin as 진 선생님 after recognizing him during the battle. |

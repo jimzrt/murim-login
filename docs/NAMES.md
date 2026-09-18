@@ -1342,3 +1342,11 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 라이칸슬로프 | **Lycanthrope** | Source spelling for the higher-tier monster species. |
 | 듀라한 | **Dullahan** | Headless undead monster form taken by Yao Wei. |
 | 포이즌 브레스 | **Poison Breath** | Acidic attack fired by the Green Wyvern. |
+| 아크 리치 | **Arch Lich** | Master of the three incomplete Lich necromancers. |
+| J사 | **J Company** | German weapons workshop that specially made Team Leader Choi’s longsword. |
+| 바렌시아 | **Valencia** | First word in one of the necromantic chants. |
+| 마드릿 | **Madrid** | Second word in one of the necromantic chants. |
+| 바이엘른 | **Bayern** | First word in one of the necromantic chants. |
+| 뮌헨 | **Munich** | Second word in one of the necromantic chants. |
+| 스토흐 | **Stoke** | First word in one of the necromantic chants. |
+| 시리 | **City** | Second word in one of the necromantic chants. |

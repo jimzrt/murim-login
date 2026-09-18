@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "The Hunters had barely recovered from their confusion at the sudden change among their enemies when the uncontrolled monsters began rampaging again, and the battle resumed.",
+      "defect": "The draft assigns the momentary confusion to the Hunters, but the source says the uncontrolled monsters are briefly bewildered by the change in their own kind. This reverses the subject and invents the Hunters’ recovery.",
+      "id": "F01",
+      "rationale": "동족 refers to the monsters’ own kind, and 통제가 되지 않는 몬스터들이 is the subject that transitions from bewilderment to renewed rampaging.",
+      "replacement": "The uncontrolled monsters were only briefly bewildered by the sudden change in their own kind before they began rampaging again, and the battle resumed.",
+      "severity": "critical",
+      "source": "갑작스러운 동족의 변화에 어리둥절하던 것도 잠시, 통제가 되지 않는 몬스터들이 재차 날뛰기 시작하자 다시금 전투가 시작되었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "An undead ogre’s iron club smashed into a Troll’s skull.",
+      "defect": "The draft renders the blow as an impact but omits its explicit result: the club crushes the Troll’s skull.",
+      "id": "F02",
+      "rationale": "머리통을 부수는 states that the head is broken or crushed, not merely struck.",
+      "replacement": "An undead ogre’s iron club crushed a Troll’s skull.",
+      "severity": "major",
+      "source": "언데드 오우거의 쇠몽둥이가 어느 트롤의 머리통을 부수는 것을 시작으로"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Along with their unified shout, the momentum of the five hundred Hunters who had been driven into a corner changed.",
+      "defect": "The draft turns an approximate quantity into an exact one.",
+      "id": "F03",
+      "rationale": "오백여 명 means approximately five hundred people.",
+      "replacement": "Along with their unified shout, the momentum of the roughly five hundred Hunters who had been driven into a corner changed.",
+      "severity": "minor",
+      "source": "궁지에 몰려 있던 오백여 명의 헌터들의 기세가 바뀌었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "—Grow, grow, skeletons, skeletons!",
+      "defect": "The draft doubles both parts of the incantation and pluralizes the repeated nickname, changing the established 해골해골 joke.",
+      "id": "F04",
+      "rationale": "The source has one command, 자라나라, followed by the single reduplicated expression 해골해골.",
+      "replacement": "—Grow, Skeleton Skeleton!",
+      "severity": "minor",
+      "source": "- 자라나라, 해골해골!"
+    },
+    {
+      "confidence": 0.9,
+      "current": "Twitch. Twitch-twitch.",
+      "defect": "The draft turns an audible series of dry cracking or snapping sounds from the reanimating bodies into a visual muscular action.",
+      "id": "F05",
+      "rationale": "투둑 and 투두두둑 are sound effects; “twitch” describes movement rather than the sounds produced as the corpses rise.",
+      "replacement": "Crack. Crack-crack-crack.",
+      "severity": "minor",
+      "source": "투둑, 투두두둑."
+    },
+    {
+      "confidence": 0.99,
+      "current": "—Ogres, and more Dullahans.",
+      "defect": "The draft loses the card-game bidding phrasing that makes the escalation comic.",
+      "id": "F06",
+      "rationale": "받고, 더 uses the idiom of seeing a wager and raising it, presenting the deployment of stronger monsters as competitive bidding.",
+      "replacement": "—I’ll see your ogres and raise you Dullahans.",
+      "severity": "major",
+      "source": "- 오우거 받고, 듀라한 더."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Damn, there are a lot of these bastards.”",
+      "defect": "The draft substantially softens both the strong profanity in 시벌 놈들 and the coarse intensifier 더럽게.",
+      "id": "F07",
+      "rationale": "시벌 is a minced spelling of a strong expletive, while 더럽게 많네 is a coarse complaint that there are an obscene number of them; Taekyung’s abrupt profanity should remain forceful.",
+      "replacement": "“Fucking bastards. There’s a shitload of them.”",
+      "severity": "major",
+      "source": "“시벌 놈들. 더럽게 많네.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Hello. Entertainment Relay? Are you idiots?”",
+      "defect": "The literal title “Entertainment Relay” obscures the punchline: Taekyung hears the garbled incantations as a Korean greeting followed by the recognizable title of a television entertainment-news program.",
+      "id": "F08",
+      "rationale": "연예가중계 is the program title conventionally represented in English as *Entertainment Weekly*. A concise footnote preserves the phonetic joke linking the preceding chants to Taekyung’s response.",
+      "replacement": "“Hello. *Entertainment Weekly*? Are you idiots?”[^1]\n\n[^1]: The garbled incantations sound like the Korean phrase *annyeonghaseyo, Yeonye-ga Junggye* (“Hello, *Entertainment Weekly*”), using the title of a long-running Korean entertainment-news program.",
+      "severity": "major",
+      "source": "“안녕하세요. 연예가중계? 병신들인가.”"
+    }
+  ],
+  "summary": "One critical subject reversal changes who reacts before the battle resumes. Additional issues weaken a physical outcome, an approximate quantity, two recurring jokes, a sound effect, and Taekyung’s profanity.",
+  "version": 1
+}
