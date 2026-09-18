@@ -1352,3 +1352,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 시리 | **City** | Second word in one of the necromantic chants. |
 | 오르페우스 폰 막시무스 발렌시아 바이엘른 | **Orpheus von Maximus Valencia Bayern** | One of the three incomplete Liches serving the Arch Lich. |
 | 웨이펑후 | **Wei Fenghu** | Minister of National Defense under China's Central Military Commission. |
+| 레이페이 | **Lei Fei** | Concealed Chinese S-rank Hunter and head of the Public Security Armed Forces Department in Sichuan Province. |
+| 가오핑구 | **Gaoping District** | District of Nanchong City where the Sichuan Monster Wave began. |

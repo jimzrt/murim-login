@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "He is my only nephew. My younger sister had been sickly since childhood. She died in childbirth, unable to survive the ordeal, and I raised that tiny baby, who had not even been weaned, as if he were my own son.",
+      "defect": "The draft adds that Wei Fenghu’s sister was younger, but 누이 identifies a male speaker’s sister without specifying her age.",
+      "id": "F01",
+      "rationale": "Removing “younger” preserves the source’s stated kinship without inventing an age relationship.",
+      "replacement": "He is my only nephew. My sister had been sickly since childhood. She died in childbirth, unable to survive the ordeal, and I raised that tiny baby, who had not even been weaned, as if he were my own son.",
+      "severity": "critical",
+      "source": "하나뿐인 외조카요. 어릴 적부터 병약했던 내 누이는 산고를 이기지 못하고 세상을 떠났고, 젖도 못 뗀 핏덩이를 내가 지금까지 친자식처럼 키웠지."
+    },
+    {
+      "confidence": 0.97,
+      "current": "We had been attacked by Wyverns at Chengdu International Airport as a sort of side effect of their attack on the airport, but if this was happening throughout Sichuan Province, that changed things completely.",
+      "defect": "“As a sort of side effect” makes the attack sound like an unintended consequence. The source says the Wyverns attacked Jin’s group almost as an additional, while-they-were-at-it target.",
+      "id": "F02",
+      "rationale": "겸사겸사 describes an opportunistic additional action, not a causal side effect.",
+      "replacement": "The Wyverns had only attacked us in passing while they were raiding Chengdu International Airport, but if this was happening throughout Sichuan Province, that changed things completely.",
+      "severity": "major",
+      "source": "우리야 청두 국제공항을 습격하러 온 와이번에게 겸사겸사 느낌으로 습격을 당한 거지만, 이게 쓰촨성 전역에서 벌어지는 일이라면 이야기가 달라진다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“May your honored person remain safe! Chaaaarge! Salute!”\n\n“Your honored person? What are you—”",
+      "defect": "The draft turns 충성, a shouted declaration of loyalty, into two unrelated commands and does not clearly preserve the comically imperial register of 옥체 that prompts Jin’s response.",
+      "id": "F03",
+      "rationale": "충성 means “loyalty,” while 옥체 is an exalted expression for a sovereign’s person or body; both are essential to Shao Shen’s excessive deference and Jin’s bafflement.",
+      "replacement": "“May your august self remain safe! Loooyalty!”\n\n“‘August self’? What are you—”",
+      "severity": "major",
+      "source": "「옥체 무사하시길 기원하겠습니다! 추웅! 성!」\n\n“옥체라니. 그게 무슨…….”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "*Why bother answering if you were going to answer anyway?*",
+      "defect": "The English asks why Choi bothered to answer, whereas Jin is dismissing Choi’s earlier resistance because he ultimately answered anyway.",
+      "id": "F04",
+      "rationale": "The source’s punchline targets the pointless reluctance preceding the answer, not the act of answering itself.",
+      "replacement": "*You were going to answer me in the end anyway.*",
+      "severity": "minor",
+      "source": "결국은 대답해 줄 거면서 뭘."
+    },
+    {
+      "confidence": 0.95,
+      "current": "“As you know, the number of Gates in our country is more than ten times that of other countries. Because of that, we were one of the nations that suffered the greatest damage during the Great Cataclysm, and we managed our Gates accordingly.”",
+      "defect": "“Accordingly” weakens the explicit point that China managed its Gates with exceptional thoroughness despite being unable to prevent the disaster.",
+      "id": "F05",
+      "rationale": "그만큼 철저하게 explicitly emphasizes management proportional in rigor to China’s exceptional exposure and losses.",
+      "replacement": "“As you know, our country has more than ten times as many Gates as other countries. Because of that, we were one of the nations hit hardest during the Great Cataclysm, and we have managed them with corresponding rigor ever since.”",
+      "severity": "major",
+      "source": "「알다시피 본국에 존재하는 게이트의 숫자는 타국과 비교하면 열 배 이상 많소. 때문에 대격변 당시 가장 큰 피해를 입었던 국가 중 하나였고, 그만큼 철저하게 관리하고 있었지.」"
+    },
+    {
+      "confidence": 0.92,
+      "current": "*Fuck. This is a crisis of unprecedented proportions.*",
+      "defect": "The draft makes the softened, comic minced oath 시벌 fully explicit and pairs it with overly formal narration.",
+      "id": "F06",
+      "rationale": "“Crap” retains the deliberately softened profanity, while “all-time crisis” naturally conveys 역대급 and preserves the deadpan comic voice.",
+      "replacement": "*Crap. This is an all-time crisis.*",
+      "severity": "minor",
+      "source": "시벌, 이건 역대급 위기다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“He was one of the S-rank Hunters possessed by our country. Of course, the two of you would not have known about him.”",
+      "defect": "“Hunters possessed by our country” is an unnatural ownership calque in English.",
+      "id": "F07",
+      "rationale": "The replacement naturally expresses national possession of an S-rank asset without changing Wei Fenghu’s formal wording or the concealed-Hunter implication.",
+      "replacement": "“He was one of our country’s S-rank Hunters. Of course, the two of you would not have known about him.”",
+      "severity": "minor",
+      "source": "「본국이 보유한 S급 헌터 중 한 명이었소. 물론 두 선생께서는 모르시겠지만.」"
+    }
+  ],
+  "summary": "Seven actionable findings: one unsupported kinship detail, two altered meanings, one lost causal emphasis, one intensified profanity choice, and two terminology or prose issues.",
+  "version": 1
+}
