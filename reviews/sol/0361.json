@@ -1,0 +1,106 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“So he couldn’t block it completely even with Body-Protecting Qi.”",
+      "defect": "The omitted subject is the Western Heaven Demon Lord himself, but the draft changes it to a third-person subject.",
+      "id": "F01",
+      "rationale": "He is reflecting on his own failure to block Taekyung’s attack, as confirmed by the immediately following description of Taekyung piercing his defense and wounding him.",
+      "replacement": "“To think I couldn’t completely block it even with Body-Protecting Qi.”",
+      "severity": "critical",
+      "source": "“호신강기로도 온전히 막아 내지 못했다니.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Jin Taekyung had pierced through his Body-Protecting Qi with nothing more than flesh and fabric and wounded him.",
+      "defect": "The draft adds “flesh”; 피륙 means cloth or fabric. This changes the stated mechanism of the extraordinary attack.",
+      "id": "F02",
+      "rationale": "The source specifically emphasizes that mere fabric penetrated the defensive qi.",
+      "replacement": "Jin Taekyung had pierced his Body-Protecting Qi with a mere scrap of cloth and wounded him.",
+      "severity": "major",
+      "source": "진태경은 한낱 피륙으로 호신강기를 뚫고 자신에게 상처를 입혔다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "With an ordinary face and build, he would have looked like any middle-aged man one might encounter anywhere if not for his Jang Sam, which was torn and stained entirely with blood.",
+      "defect": "장삼 is an ordinary long robe in this context, not the personal name Jang Sam. The capitalization and unexplained romanization misidentify the garment.",
+      "id": "F03",
+      "rationale": "The sentence contrasts his commonplace appearance with his blood-soaked clothing.",
+      "replacement": "With his ordinary face and build, he would have looked like any unremarkable middle-aged man if not for his long robe, torn to shreds and soaked in blood.",
+      "severity": "minor",
+      "source": "온통 찢어지고 피로 물든 장삼이 아니었다면 그는 어디서나 볼 수 있는 흔한 중년인이었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The art of Seizing an Object Through Empty Space—a technique visible only to someone who possessed terrifying internal energy.",
+      "defect": "The draft makes the technique perceptible only to a powerful observer, whereas the source says only a person with formidable internal energy can perform or display it.",
+      "id": "F04",
+      "rationale": "보일 수 있는 describes the practitioner’s ability to demonstrate the feat, not an observer’s ability to see it.",
+      "replacement": "The art of Seizing an Object Through Empty Space—a feat only someone with terrifying internal energy could perform.",
+      "severity": "major",
+      "source": "가공할 공력의 소유자만이 보일 수 있는 허공섭물(虛空攝物)의 기예."
+    },
+    {
+      "confidence": 0.94,
+      "current": "The Divine Physician flew as though he had been thrown against something. When his neck was caught in the Western Heaven Demon Lord’s hand, his face turned deathly pale.",
+      "defect": "The draft says he was thrown against an object, introducing a collision absent from the source. He is propelled through the air as though struck or repelled, then caught by the throat.",
+      "id": "F05",
+      "rationale": "퉁겨지듯 describes the manner in which he is sent flying, not his being thrown into another object.",
+      "replacement": "Flung through the air as though something had struck him, the Divine Physician turned deathly pale as the Western Heaven Demon Lord caught him by the throat.",
+      "severity": "major",
+      "source": "무언가에 퉁겨지듯 날아가, 서천마군의 손아귀에 목이 잡힌 신의의 안색이 창백하게 질렸다."
+    },
+    {
+      "confidence": 0.93,
+      "current": "“That does not seem like something a physician who just used an assassin’s technique should say. Come to think of it, does that make you a fiend as well?”",
+      "defect": "“An assassin’s technique” treats 살수 as a professional style rather than the lethal move the physician has just unleashed.",
+      "id": "F06",
+      "rationale": "In context, the accusation concerns the physician’s readiness to use lethal force, creating the Western Heaven Demon Lord’s hypocritical joke.",
+      "replacement": "“That hardly seems like something a physician who unleashed a killing move without hesitation should say. Wait, wouldn’t that make you a fiend too?”",
+      "severity": "minor",
+      "source": "“거리낌 없이 살수(殺手)를 펼친 의원이 할 말은 아닌 듯싶은데. 가만있자, 그럼 자네 역시 악귀가 아닌가?”"
+    },
+    {
+      "confidence": 0.9,
+      "current": "Whoosh. Crack.",
+      "defect": "“Crack” suggests something breaking, but 턱 marks the palm strike being abruptly caught or blocked; the hand is broken only in the following beat.",
+      "id": "F07",
+      "rationale": "The source separates the blocked strike from the subsequent 우두둑 of the physician’s hand being broken.",
+      "replacement": "Whoosh. Thunk.",
+      "severity": "minor",
+      "source": "쉬익, 턱."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“The Family Head was right. You had it.”",
+      "defect": "The draft omits 당, losing the explicit identification of the Tang Family Head.",
+      "id": "F08",
+      "rationale": "The source names which Family Head supplied the information.",
+      "replacement": "“The Tang Family Head was right. You had it.”",
+      "severity": "minor",
+      "source": "“당 가주가 한 말이 맞았군. 그대가 갖고 있었어.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "I simply continued toward the one person who was waiting somewhere beyond it.",
+      "defect": "“Was waiting” adds an intentional action absent from the source.",
+      "id": "F09",
+      "rationale": "The Korean says only that the person would be beyond the darkness, not that the person was consciously waiting.",
+      "replacement": "I simply continued toward the one person somewhere beyond it.",
+      "severity": "minor",
+      "source": "그저 저 너머에 있을 한 사람을 향해 계속해서 나아갈 뿐이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“It wasn’t free. I was given a favor to fulfill.”",
+      "defect": "“Given a favor” reverses the ordinary semantic roles and is unnatural English; Taekyung received a request.",
+      "id": "F10",
+      "rationale": "부탁을 받다 means to be asked a favor or receive a request, clarified immediately afterward as the request to kill the Western Heaven Demon Lord.",
+      "replacement": "“It wasn’t free. I was asked to do one thing.”",
+      "severity": "minor",
+      "source": "“공짜는 아니야. 한 가지 부탁을 받았지.”"
+    }
+  ],
+  "summary": "One critical subject reversal and several localized fidelity, mechanism, and wording issues.",
+  "version": 1
+}

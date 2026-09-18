@@ -1,30 +1,30 @@
 # Translation State
 
-- Last completed: 360
-- Next chapter: 361
-- Current block: 360–364 (1/5)
-- Latest translation: `translations/0360.md`
-- Latest summary: `summaries/beats/0360.md`
-- Safe profiles through: chapter 360
+- Last completed: 361
+- Next chapter: 362
+- Current block: 360–364 (2/5)
+- Latest translation: `translations/0361.md`
+- Latest summary: `summaries/beats/0361.md`
+- Safe profiles through: chapter 361
 
 ## Current Block
 
-- The Western Heaven Demon Lord decisively overwhelms Jin Taekyung in the underground prison, shattering his limbs and inflicting a fatal Internal Injury while Taekyung's internal energy is exhausted. Taekyung remains conscious long enough to headbutt him, but cannot stop him from leaving.
-- As Taekyung believes the battle and the wider assault are lost, he recalls Jeok Cheongang's sacrifice and resolves not to collapse or flee. The Western Heaven Demon Lord leaves him alive temporarily, promising to take him if he survives and stating that Jeok Cheongang, the Divine Physician, and the defenders outside will not change the outcome.
-- The damaged underground prison continues to shake and collapse. As Taekyung's senses fade and he expects death, the Heavenly Power Demon appears before him with a torn chain and a gaunt, unusually tall body.
+- The Western Heaven Demon Lord reaches the Tang Clan's treatment room, identifies the Divine Physician, and declares himself one of the Lord of Heaven's four servants. He overpowers the physician, takes the Myriad-Poison Ring, and crushes the physician's lower dantian before attempting to remove the unconscious Jeok Cheongang.
+- Jin Taekyung arrives and attacks with White Flame. The Heavenly Power Demon has transferred three jiazi of internal energy to Taekyung in exchange for a request to kill the Western Heaven Demon Lord, allowing Taekyung to resume the confrontation. The Divine Physician confirms that Jeok Cheongang is safe, and Taekyung declares that the Western Heaven Demon Lord is going to die.
 
 ## Open Questions
 
-- Can Taekyung survive his injuries and the collapsing underground prison?
-- What will the Heavenly Power Demon do after appearing before Taekyung?
-- What is the actual outcome of the assault on the Tang Clan, Qingcheng, and Emei?
+- What will be the outcome of Jin Taekyung's renewed confrontation with the Western Heaven Demon Lord?
+- Can the Divine Physician survive his injuries and continue protecting Jeok Cheongang?
+- Who is the Lord of Heaven, and what is the intended purpose of the Myriad-Poison Ring?
+- What is the actual outcome of the attacks on the Tang Clan, Qingcheng, and Emei?
 - Can Cheongpung survive or escape his confrontation with First Fiend?
-- Can Jeok Cheongang and the Divine Physician avoid capture?
 
 ## Exceptional Decision
 
-- Use established renderings for Western Heaven Demon Lord, Heavenly Power Demon, White Flame, Spear Energy, Body-Protecting Qi, and underground prison.
-- Treat the Western Heaven Demon Lord's predictions about the wider assault as unconfirmed until directly established.
+- Use established renderings for Western Heaven Demon Lord, Heavenly Power Demon, Divine Physician, Myriad-Poison Ring, White Flame, Body-Protecting Qi, and underground prison.
+- Render 격체전공 as Transmitting Internal Energy Across the Body.
+- Treat the Western Heaven Demon Lord's claim that the three sects were destroyed as unconfirmed until directly established.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

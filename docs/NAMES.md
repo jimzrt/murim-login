@@ -1282,3 +1282,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 염라대왕 | **Yama** | Expanded source form of the established underworld ruler term 염라. |
 | 청계천 | **Cheonggyecheon** | Stream invoked in Taekyung's joke about Dark Heaven. |
 | 흑룡갑 | **Black Dragon Armor** | Defensive armor worn beneath the Western Heaven Demon Lord's yellow robe. |
+| 사대마군 | **Four Great Demon Lords** | Collective title for the four senior Demon Lords. |
+| 흡정마공 | **Essence-Siphoning Great Technique** | Source variant for the established essence-siphoning martial art. |
+| 격체전공 | **Transmitting Internal Energy Across the Body** | Technique for transferring internal energy between bodies. |
