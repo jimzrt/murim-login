@@ -1301,3 +1301,12 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 적살십팔부 | **Red Slaughter Eighteen Axes** | First Fiend’s twin-axe martial art. |
 | 적살십팔검 | **Red Slaughter Eighteen Swords** | Cheongpung’s emerging sword adaptation of the Red Slaughter Eighteen Axes. |
 | 유령환살보 | **Ghost Illusory Slaughter Step** | Movement technique used by the Slaughter Saint. |
+| 황소 | **Hwangso** | First-generation disciple of the Gongdao Sect and a reluctant search-party member. |
+| 공도문 | **Gongdao Sect** | Sichuan martial sect whose disciples join the search. |
+| 삼문혈사 | **Three-Gate Bloodbath** | Name given to Dark Heaven’s coordinated assault on the Tang Clan, Qingcheng, and Emei. |
+| 항마복룡진 | **Demon-Subduing Dragon-Taming Formation** | Combined formation used by Emei’s Seven Fairies against the Third Fiend. |
+| 칠선자 | **Seven Fairies** | Emei’s seven foremost martial artists who deploy the formation. |
+| 멸절신니 | **Extinction Divine Nun** | Presumed-dead Supreme Peak master and Heaven-Shaking Venerable Nun’s only Senior Aunt. |
+| 서장 | **Tibet** | Region considered by the Third Fiend as a possible escape route. |
+| 인피 면구 | **human-skin mask** | Spaced source variant of 인피면구. |
+| 역용술 | **disguise technique** | Technique used by the Third Fiend to conceal his identity. |

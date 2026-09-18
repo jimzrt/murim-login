@@ -1,6 +1,6 @@
 # Divine Physician (신의)
 
-- **Safe through:** Chapter 368
+- **Safe through:** Chapter 369
 - **Aliases:** Medicine Immortal
 - **Role:** Legendary physician also known as Dong Feng and Mungyeong's Master, whose dantian and martial arts were destroyed and wrist broken while shielding Jeok Cheongang, and who is now awake and escaping with Jin Taekyung.
 - **Personality:** Publicly reputed to be selfless and devoted to treating patients in the lowest places.
