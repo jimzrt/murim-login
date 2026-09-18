@@ -38,7 +38,7 @@ Some two hundred troops had been killed or captured, and they had lost three Pea
 
 “Yes. I was told that Jopil, One Question, One Kill, had pursued Jin Taekyung all the way to Honju and captured him. But…”
 
-“He must have said the Jin Family of Taiyuan’s pursuit party was on his heels and asked you to help him.”
+“And that the Jin Family of Taiyuan’s pursuit party was on his heels, so he needed your help.”
 
 Lee Seogwang lowered his head, and Lee Cheonbaek let out a hollow laugh.
 
@@ -74,7 +74,7 @@ A Peak master could change the course of a battle. Somehow, they had to fill the
 
 “Our expenses are already too high. By now, word of what happened in Honju will have spread, and they’ll try to raise their prices.”
 
-“They aren’t trustworthy men, either. Especially the mounted bandits. Aren’t they human butchers? If we hire people like that, our sect’s reputation will suffer afterward…”
+“They aren’t trustworthy, either. The mounted bandits in particular are human butchers. If we hire men like that, our sect’s reputation afterward…”
 
 Lee Cheonbaek did not even blink.
 
@@ -112,7 +112,7 @@ Taking a few heads as examples might lower morale even further, but it would kee
 
 That was the nature of gratitude and grudges in Murim. The cycle would not end until one side fell.
 
-*I’ll take everything from you. Just as you did.*
+*I’ll take everything from you. Just as you did from me.*
 
 * * *
 
@@ -130,7 +130,7 @@ Oh, and the internal injuries too.
 
 There was only one way to produce a similar result in the real world: the healing magic used by the tiny handful of Hunters known as healers.
 
-*Is complete healing too much to ask?*
+*Was complete healing too much to ask?*
 
 I was a little disappointed, but it was probably for the best. If a single level-up had healed every injury on my body, avoiding suspicion would have been difficult.
 
@@ -262,11 +262,11 @@ Sleeping Dragon of Shanxi. Hero of the family. That sort of thing.
 
 I never thought I’d hear anyone call me that. I was a two-bit F-rank Hunter whose motto was safety first. The word had never had anything to do with me.
 
-I lay still and fidgeted with my hands. Palms that had once been a young master’s—white and soft—were now packed tight with calluses.
+Still lying down, I flexed my fingers. The palms of the pampered young master, once white and soft, were now covered in calluses.
 
 *I took down Jopil with these hands.*
 
-All told, the people I’d taken down numbered more than a few dozen. Bandits, wandering martial artists, even people rated as First Rate—and I had survived. I’d even taken down a Peak master I thought I could never beat: Jopil, One Question, One Kill.
+All told, I had defeated dozens of people. Bandits, wandering martial artists, even those considered First Rate—and I had survived. I had even brought down a Peak master I’d thought I could never beat: Jopil, One Question, One Kill.
 
 Something Wipeng had said suddenly came back to me.
 
@@ -292,7 +292,7 @@ I had accomplished many things that F-rank Hunter Jin Taekyung never could. At t
 
 Even if everything here was nothing but virtual, even if the people I saw were NPCs, that fact didn’t change.
 
-Thinking that, I suddenly laughed.
+The thought made me laugh.
 
 *This is why games are scary.*
 
@@ -334,13 +334,13 @@ Logout.
 
 The moment I saw those four glittering characters, my breath caught.
 
-Only two conditions left before I could log out. Time could take care of Fame. The more rumors about me spread, the more it would keep climbing.
+Only two conditions remained before I could log out. Time would take care of Fame. The farther the rumors about me spread, the higher it would climb.
 
 The problem lay elsewhere.
 
 “First Rate.”
 
-What did I even need to become First Rate?
+What did I need to become First Rate?
 
 If it wasn’t Level, stats, or Fame, then…
 
@@ -352,7 +352,7 @@ Just then, a polite voice came from outside the door.
 
 “Ah.”
 
-Right. When you don’t know something, the best thing to do is ask.
+Right. When you didn’t know something, asking was the best solution.
 
 And in that respect, Peak master Jin Wikyung was the best private tutor I could ask for.
 

@@ -108,7 +108,7 @@ If he took a few heads as examples, morale might drop, but he could keep the arm
 
 “Three days. In three days, we march on Taiyuan!”
 
-That was how the debts and grudges of Murim worked. The chain of debts and grudges would not break until one of the two sides fell.
+That was how gratitude and grudges worked in Murim. The cycle of gratitude and grudges would not end until one of the two sides fell.
 
 *I’ll take everything from you. Just as you did.*
 
@@ -138,7 +138,7 @@ Even now, the physician kept stealing glances at me like I was a monster.
 
 “Heavens. How bizarre. It’s far too much to pin on the effects of hundred-year snow ginseng…”
 
-“Hundred-year snow ginseng?”
+“Hundred-Year-Old Snow Ginseng?”
 
 I remembered seeing something like it in martial arts novels. Ginseng that had grown for a hundred years, or whatever.
 
@@ -152,7 +152,7 @@ Ah. The moment he said it, I understood.
 
 The stolen medicinals must have included hundred-year snow ginseng, and the culprit was obviously…
 
-“The Medicine King Hall Leader was absolutely furious.”
+“The Medicine King Hall Master was absolutely furious.”
 
 The physician gave me an awkward smile.
 
@@ -228,7 +228,7 @@ That wasn’t all. I’d absorbed some of the hundred-year snow ginseng’s left
 >
 > **Skill Window**
 >
-> **One Flash**
+> **One Annihilation**
 >
 > **Grade:** Peak
 >
