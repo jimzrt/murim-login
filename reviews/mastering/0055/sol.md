@@ -60,7 +60,7 @@ Mujin was just about to let go when—
 
 “Whew… haaah.”
 
-Warm breath slipped into his ear. He knew who it was without turning around. Tears of relief stung Hyuk’s eyes.
+Warm breath tickled his ear. He knew who it was without turning around. Tears of relief sprang to Mujin’s eyes.
 
 “Captain!”
 
@@ -78,7 +78,7 @@ Clang! Clang!
 
 Blood sprayed and screams rang out on every side. A blood-soaked martial artist crawled on all fours between the corpses.
 
-His still-youthful face was stained with pain and terror.
+His still-youthful face was twisted with pain and terror.
 
 “Hnnh… hhhk…”
 
@@ -98,13 +98,13 @@ His eyes flew wide for an instant, then the light faded from them. A wandering m
 
 “What’s a brat doing here?”
 
-But even a wandering martial artist who had survived countless brushes with death could not dodge the blade that came flying at him a moment later.
+But even a wanderer who had survived countless brushes with death could not dodge the blade that came flying at him the next moment.
 
 Slice—
 
-A silver line flashed, and the wandering martial artist’s head shot into the air.
+A silver line flashed, and the wanderer’s head flew into the air.
 
-A wandering martial artist killed a martial artist. Another martial artist killed the wandering martial artist.
+A wanderer killed a martial artist, only for another martial artist to kill him.
 
 Nameless men killed and died on every side, over and over.
 
@@ -122,7 +122,7 @@ His body had been strong, and his heart had burned hot. Back then, the embarrass
 
 But the Great Faction War had changed the Head Elder. He had grown weary of the endless fighting and afraid of death.
 
-*What good is a chivalrous warrior? Die, and you’re nothing but a ghost.*
+*What good is being a chivalrous hero? Once you die, you’re nothing but a ghost.*
 
 That realization had been a form of enlightenment. In the end, he had survived and become a hero. After long years of patient endurance, he had finally reached this point.
 
@@ -220,11 +220,11 @@ Exactly the reaction I’d expected.
 
 Still, it was a greeting I’d genuinely wanted to give them at least once.
 
-…Not that they didn’t treat me like a lunatic afterward.
+…Even if it made them treat me like a lunatic.
 
-“Anyway, that’s enough greeting. How long was I out?”
+“Anyway, that’s enough greetings. How long was I out?”
 
-Mujin sank to the ground with a thud and answered.
+Mujin dropped to the ground with a thud and answered.
 
 “Definitely more than an hour, but probably a little under two.”
 
@@ -302,7 +302,7 @@ I gave Mujin’s choked-up face a good-natured smile.
 
 “…”
 
-“Run even one more step in the time we’ve got. Don’t you know marathon spirit?”
+“Run one more step while we still have time. Don’t you know the marathon spirit?”
 
 “I don’t.”
 
@@ -350,9 +350,9 @@ Even as the reports continued, Blood Wolf Sword Lee Cheonbaek, Sect Leader of th
 
 *I was too hasty.*
 
-The war had started in a rush, and the preparations had been just as thin. Provisions were burning down fast, morale was dropping, and deserters were popping up one after another.
+The war had begun in a rush, and their preparations had been just as inadequate. Provisions were rapidly running out, morale was falling, and more men were deserting by the hour.
 
-*They read us completely.*
+*They saw through everything.*
 
 Rage over his son’s death and impatience with the situation had clouded his judgment. He had ignored his subordinates’ advice and chosen the fastest route.
 
@@ -376,7 +376,7 @@ Just as he clicked his tongue inwardly, several dozen wandering martial artists 
 
 “This is a dog’s death! Brothers of the Blood Rain Group, fall back!”
 
-Those became the middle-aged wandering martial artist’s last words.
+Those became his last words.
 
 Whoosh—
 
@@ -384,13 +384,13 @@ A light breeze.
 
 That was all the wanderer felt.
 
-He did not know that Blood Wolf Sword Lee Cheonbaek had already brushed past him. He did not know that the wandering martial artists under him had frozen in terror.
+He did not realize that Blood Wolf Sword Lee Cheonbaek had already swept past him, nor did he see his men freeze in terror.
 
 He only thought, all of a sudden, that his neck felt hot.
 
 “Uh…”
 
-His cleanly severed head dropped with a dull thunk. The headless body staggered a few more steps, then went down like a rotten old tree.
+His cleanly severed head dropped to the ground. The headless body staggered several more steps before collapsing like a rotten old tree.
 
 “Blood Rain Group, was it?”
 
@@ -398,13 +398,13 @@ Lee Cheonbaek pointed his sword at the frozen wanderers. Not a single drop of bl
 
 “Go back.”
 
-A Peak master’s killing intent shot into them like a blade. The wandering martial artists charged toward the front even faster than they had come.
+A Peak master’s killing intent struck them like a blade. The wandering martial artists charged back toward the front even faster than they had fled.
 
-They had decided that fighting at the front beat throwing themselves at the Peak master in front of them.
+They had decided that fighting on the front line was preferable to challenging the Peak master before them.
 
-“Rat bastards.”
+“Rats.”
 
-Lee Cheonbaek went after them. His burning gaze was aimed somewhere ahead, where the Jin Family of Taiyuan’s command had to be.
+Lee Cheonbaek followed them. His blazing gaze was fixed somewhere ahead, where the Jin Family of Taiyuan’s commanders had to be.
 
 “The Sect Leader is taking the lead!”
 

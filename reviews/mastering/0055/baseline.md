@@ -62,7 +62,7 @@ Hyuk was just about to let go when—
 
 Warm breath slipped into his ear. He knew who it was without turning around. Tears of relief stung Hyuk’s eyes.
 
-“Squad Leader!”
+“Captain!”
 
 Jin Taekyung grinned and whispered,
 
@@ -190,7 +190,7 @@ The years of waiting had been too long. He resented the destiny that had only no
 
 “Candy in your ear.”
 
-“Squad Leader!”
+“Captain!”
 
 “Was it sweet as a dream?”
 
@@ -198,7 +198,7 @@ The years of waiting had been too long. He resented the destiny that had only no
 
 The sight of Hyuk Mujin’s ugly face sent a rush of relief through me. The other reconnaissance squad members crowding in at the news that I was awake were no different.
 
-“Squad Leader’s awake!”
+“Captain’s awake!”
 
 “What happened? Are you all right?”
 
@@ -258,7 +258,7 @@ There was a more urgent problem.
 
 “Two hours…”
 
-“Uh, Squad Leader. I’m sorry to say this, but… I think we have to consider the worst case.”
+“Uh, Captain. I’m sorry to say this, but… I think we have to consider the worst case.”
 
 Hyuk Mujin and every member of the reconnaissance squad clamped their mouths shut. Nobody had to ask what the worst case meant.
 
@@ -288,7 +288,7 @@ I met each squad member’s eyes and spoke firmly.
 
 “Don’t think about the worst case. I’ll change that outcome, no matter what it takes.”
 
-“Squad Leader…”
+“Captain…”
 
 “So, Mujin.”
 
