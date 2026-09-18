@@ -2,10 +2,10 @@
   "chapter": 172,
   "errors": [],
   "metrics": {
-    "length_ratio": 2.304,
+    "length_ratio": 2.247,
     "source_characters": 5492,
     "source_paragraphs": 170,
-    "translation_characters": 12655,
+    "translation_characters": 12343,
     "translation_paragraphs": 185
   },
   "passed": true,
@@ -32,6 +32,14 @@
       "details": {
         "korean": "귀가",
         "preferred": "your family"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "신의",
+        "preferred": "Divine Physician"
       },
       "message": "matched preferred term is absent"
     },
@@ -72,6 +80,70 @@
       "details": {
         "korean": "세가",
         "preferred": "great family"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "피어",
+        "preferred": "Fear"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "아귀",
+        "preferred": "A-Gwi"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "고불",
+        "preferred": "Gobul"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "마도",
+        "preferred": "Demonic Path"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "초절",
+        "preferred": "supreme mastery"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "꼬리",
+        "preferred": "the “tail”"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "준이",
+        "preferred": "Jun"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "열화",
+        "preferred": "Blazing Flame"
       },
       "message": "matched preferred term is absent"
     }

@@ -2,23 +2,23 @@
 
 Jeok Cheongang wore a smug grin.
 
-*Heh heh. Have a taste of something hot, you little punk.*
+*Heh heh. Have a taste of the heat, you little punk.*
 
-His fingertips carried Scorching Yang Qi that had reached the pinnacle.
+His fingertip carried Scorching Yang Qi refined to its pinnacle.
 
-Though he was using only three-tenths of his internal energy, it was still far beyond what a fledgling who looked barely twenty could withstand.
+Though he was using only three-tenths of his internal energy, it was still far more than a fledgling who looked barely twenty could withstand.
 
 *This ought to snap him back to his senses.*
 
-Jeok Cheongang had no particular hobby of tormenting children, but this one needed to be taught a lesson.
+Jeok Cheongang had no particular taste for tormenting youngsters, but this one needed to be taught a lesson.
 
-All this time, the boy had been spouting incomprehensible nonsense about some “shisudaem” or whatever. It was hard to listen to.
+The boy had been spouting incomprehensible nonsense about some “shisudaem” or whatever for a while now, and Jeok Cheongang was sick of listening to it.
 
-*I’ve controlled my strength, so if things go well, he might even avoid an Internal Injury.*
+*I’ve controlled my strength, so if things go well, he might even avoid an internal injury.*
 
 If things went well.
 
-Jeok Cheongang added that condition silently as he reached out.
+Jeok Cheongang silently added that caveat as he reached out.
 
 *Tap.*
 
@@ -26,7 +26,7 @@ The instant his bony, wrinkled finger touched the young man’s broad chest, Ext
 
 “Hk!”
 
-“How is it? Feels like there’s a fire burning inside you, doesn’t it?”
+“How is it? Feels like you’re burning up inside, doesn’t it?”
 
 Jeok Cheongang could not help laughing when he saw the boy’s face turn bright red. The saying that a beating was the best medicine truly was an eternal truth.
 
@@ -34,41 +34,41 @@ Jeok Cheongang could not help laughing when he saw the boy’s face turn bright 
 
 *Whooosh! Shhk!*
 
-Jeok Cheongang could not finish his sentence. Two swords had flashed in like lightning and slashed through his waist and arm.
+Jeok Cheongang could not finish his sentence. Two swords flashed in like lightning, slicing through his waist and arm.
 
 “Did it work? It worked! Young Hero Cheong, you did it!”
 
-Unlike Hyuk Mujin, who was celebrating with a dazed expression, Cheongpung merely scratched the back of his head.
+Unlike Hyuk Mujin, who was celebrating with a bewildered expression, Cheongpung merely scratched the back of his head.
 
-Instead of spraying blood, Jeok Cheongang’s form dissolved like mist before his eyes.
+Before his eyes, Jeok Cheongang’s figure scattered like mist instead of spraying blood.
 
-“Uh… Returning to Simplicity and Shifting Form and Position… We seem to have picked the wrong fight.”
+“Uh… Returning to Simplicity and Shifting Form and Position… I think we picked the wrong fight.”
 
-Jeok Cheongang was already sitting on a fence some distance away, laughing loudly.
+Jeok Cheongang was already perched on a fence some distance away, laughing heartily.
 
-“Your eyes are pretty useful.”
+“You’ve got a decent pair of eyes.”
 
-“I’ve seen a lot of things since I was little.”
+“I grew up seeing things like that.”
 
-“You grew up watching?”
+“You grew up seeing them?”
 
 Jeok Cheongang was genuinely surprised when he realized what those words implied.
 
-Returning to Simplicity and Shifting Form and Position were both domains permitted only to Supreme Peak masters. That meant Cheongpung had grown up around a master who stood at the same realm stage as Jeok Cheongang.
+Returning to Simplicity and Shifting Form and Position were both realms accessible only to Supreme Peak masters. That meant Cheongpung had grown up around a master who stood at the same level as Jeok Cheongang.
 
 “Who is your Master?”
 
 “My grandfather.”
 
-“What a dense brat. How would this old man know who your grandfather is?”
+“What an obtuse brat. How would this old man know who your grandfather is?”
 
-“My grandfather used to say that any man who hides behind someone else’s name after being born a man deserves to have his balls cut off.”
+“My grandfather always said that any man who hides behind another man’s name ought to have his balls cut off.”
 
-“Ha ha ha! What a splendid saying!”
+“Ha ha ha! Splendid words!”
 
-After bursting into laughter, Jeok Cheongang fixed Cheongpung with a long look.
+After bursting into laughter, Jeok Cheongang studied Cheongpung for a long moment.
 
-“Can you bear the punishment for daring to point a sword at this old man?”
+“Can you bear the consequences of daring to point your sword at this old man?”
 
 Cheongpung smacked his lips, looking troubled.
 
@@ -78,17 +78,17 @@ Cheongpung smacked his lips, looking troubled.
 
 “Hmm. I don’t think so.”
 
-Jeok Cheongang let out a quiet laugh. He did not know which sect or master the boy belonged to, but he was certainly an interesting one.
+Jeok Cheongang let out a quiet laugh. He did not know whose disciple the boy was, but he was certainly an interesting one.
 
-“Then why did you step forward?”
+“Then why did you interfere?”
 
-Cheongpung pointed at Jin Taekyung, who stood frozen like a statue.
+Cheongpung pointed at Jin Taekyung, who stood frozen like a stone statue.
 
-His whole body had flushed red, and hot steam rose from it in wisps.
+Hot steam rose in wisps from his entire body, which had been heated to a reddish hue.
 
-“I owe that gentleman a bit. How could I just stand by while you bully my Benefactor, Grandpa?”
+“I owe him a little. How could I stand by while you bullied my Benefactor, Grandpa?”
 
-“You must owe him quite a lot. Enough to risk your life, at least.”
+“You must owe him quite a lot if you’re willing to risk your life.”
 
 Cheongpung’s eyes widened.
 
@@ -102,11 +102,11 @@ Of course, Jeok Cheongang had no intention of killing anyone here. But he delibe
 
 “This is the Murim. Should this old man take circumstances like that into account?”
 
-Cheongpung thought about it carefully before answering.
+Cheongpung thought it over before answering.
 
 “I suppose not.”
 
-Hyuk Mujin, who had been listening to their conversation with growing anxiety, suddenly exploded.
+Hyuk Mujin, who had been listening to their conversation with mounting anxiety, exploded.
 
 “You can’t just accept that, you idiot!”
 
@@ -118,105 +118,105 @@ Hyuk Mujin, who had been listening to their conversation with growing anxiety, s
 
 Cheongpung calmly added,
 
-“We won’t know whether we die or live until we try.”
+“We won’t know whether we live or die until we fight.”
 
 “…Damn it. Fine, let’s do it. If we just sit here, Captain will beat us to death later anyway, so whatever.”
 
-Jeok Cheongang rested his chin on his hand and gazed at the two young men.
+Jeok Cheongang rested his chin on one hand and gazed at the two young men.
 
-They really were interesting.
+They truly were interesting.
 
-One was willing to stake his life because he owed someone a debt. The other grumbled while stepping into a battle whose outcome was obvious.
+One was willing to stake his life because he owed someone a debt. The other grumbled even as he stepped into a fight whose outcome was obvious.
 
-There was something in them that some people called reckless bravado and others called chivalry.
+They possessed something that some called reckless bravado and others called chivalry.
 
 *People like this always die young.*
 
-That had been true forty years ago, and it would probably be true now as well.
+That had been true forty years ago, and it would probably be true now.
 
-That was why Jeok Cheongang had developed a faint fondness for the youngsters. At the very least, they possessed the courage to risk their lives for someone else.
+That was why Jeok Cheongang had grown somewhat fond of the youngsters. At the very least, they possessed the courage to risk their lives for someone else.
 
 Just as they were doing now.
 
 “Then shall I teach you a thing or two?”
 
-Jeok Cheongang slowly rose to his feet.
+Jeok Cheongang slowly rose.
 
-At the same time, an aura as vast as a mountain erupted from his short frame and pressed down on everything around him.
+At the same moment, an aura as vast as a mountain erupted from his short frame and pressed down on everything around him.
 
-Cheongpung and Hyuk Mujin gripped their sword hilts, while Jang Taebo collapsed onto the ground with a deathly white face.
+Cheongpung and Hyuk Mujin gripped their sword hilts, while Jang Taebo sank to the ground, his face deathly pale.
 
-“You stay out of this.”
+“You sit this one out.”
 
 Jeok Cheongang flicked a finger.
 
-Jang Taebo’s body floated over the fence as though an invisible hand had seized and lifted him.
+Jang Taebo’s body floated over the fence as though an invisible hand had seized him and lifted him away.
 
-Cheongpung muttered at the sight,
+Cheongpung muttered at the sight.
 
-“Seizing an object through empty space…”
+“Seizing an Object Through Empty Space…”
 
-With a single gesture, the old man had lifted Jang Taebo, whose body was larger than that of most full-grown men.
+With a single gesture, the old man had lifted Jang Taebo, who was larger than most full-grown men.
 
-It was proof that the old man before them possessed internal energy no weaker than his grandfather’s.
+It was proof that the old man possessed internal energy no weaker than Cheongpung’s grandfather.
 
-Hyuk Mujin also muttered with a vacant expression,
+Hyuk Mujin stared blankly and muttered,
 
-“Damn. That’s something you only ever see in novels.”
+“Shit. I’ve only ever seen that in novels.”
 
-They were on a completely different level.
+They were on entirely different levels.
 
-At this moment, everything surrounding Jeok Cheongang was both his weapon and his shield. The corner of his wrinkled mouth curled up slightly.
+At this moment, everything surrounding Jeok Cheongang was both his weapon and his shield. The corner of his wrinkled mouth rose slightly.
 
 “Come.”
 
 That was the signal.
 
-Cheongpung and Hyuk Mujin charged with every ounce of strength they possessed.
+Cheongpung and Hyuk Mujin charged with all their strength.
 
-The two knew each other’s martial arts intimately after countless duels. Their swords meshed perfectly as they unleashed a coordinated attack.
+The two knew each other’s martial arts intimately after countless duels. Their swords meshed perfectly as they launched a coordinated attack.
 
 *Whooosh!*
 
 *Shhk-shhk!*
 
-Just as the two blades were about to pierce Jeok Cheongang’s flank and neck, he stretched out both hands.
+Just as the two blades were about to pierce Jeok Cheongang’s flank and neck, he extended both hands.
 
-His hands were suddenly engulfed in white flames as he caught the blades.
+His hands, now engulfed in white flame, closed around the blades.
 
-“Do you think that will be enough?”
+“Do you think this will be enough?”
 
 *Grrrk.*
 
-Hyuk Mujin’s eyes opened wide.
+Hyuk Mujin’s eyes widened.
 
-His beloved sword, forged from Baekryeon Jeonggang—the hardest steel imaginable—was bending. Then it turned into molten metal and began dripping away.
+His beloved sword, forged from the exceptionally hard Baekryeon Jeonggang, was bending. A moment later, it turned into molten metal and began dripping away.
 
-“What is this?”
+“What the hell?”
 
-He had put everything he had into that strike, yet he had not even managed to leave a scratch.
+He had poured everything into that strike, yet he had failed to leave so much as a scratch.
 
 As he stared blankly at the blade, already half melted, Jeok Cheongang’s voice reached his ears.
 
-“Your courage was admirable. Get some rest.”
+“Your courage was admirable. Now get some rest.”
 
-The next moment, Hyuk Mujin’s vision turned white. A palm slammed into his chest, and he dropped helplessly to his knees.
+The next moment, Hyuk Mujin’s vision turned white. A palm struck him in the chest, and he crumpled helplessly to his knees.
 
 “Young Hero Hyuk!”
 
-“Don’t worry. He should have suffered no more than a minor Internal Injury. That aside…”
+“Don’t worry. He should have suffered only a minor internal injury. More importantly…”
 
-Jeok Cheongang glanced at the blade held in his other hand.
+Jeok Cheongang glanced at the blade caught in his other hand.
 
-It had neither bent nor melted. Instead, it was wrapped in a faint purple Sword Energy.
+It had neither bent nor melted. Instead, it was wrapped in faint purple Sword Energy.
 
 Jeok Cheongang dredged up a memory from long ago.
 
 “Zaha Divine Technique. Are you a disciple of Huashan?”
 
-Cheongpung answered by throwing a punch.
+Cheongpung answered with a punch.
 
-The Crouching Tiger Fist, a powerful fist technique said to subdue tigers, slammed into Jeok Cheongang’s chest.
+The Crouching Tiger Fist, a fierce and powerful fist technique said to subdue tigers, slammed into Jeok Cheongang’s chest.
 
 *Thud!*
 
@@ -224,31 +224,31 @@ Jeok Cheongang’s white eyebrows curved like a crescent moon.
 
 “Well, look at you.”
 
-That attack would have been enough to shatter a person’s chest, yet that was the entirety of his reaction.
+The blow should have been more than enough to shatter a man’s chest, yet that was the extent of his reaction.
 
 Cheongpung felt as though he were facing his grandfather, the Sword Saint Mae Jonghak.
 
 *He’s strong. Overwhelmingly strong.*
 
-But Cheongpung could not give up like this.
+But he could not give up.
 
-He exhaled slowly and stamped his foot into the ground. The Zaha Divine Technique’s energy rippling through his body flared even more fiercely.
+Cheongpung exhaled slowly and stamped his foot. The energy of the Zaha Divine Technique rippling through his body flared even more fiercely.
 
-“Go on, then. Let yourself run wild.”
+“Good. Show me everything you’ve got.”
 
-Jeok Cheongang grinned and relaxed his grip on the blade.
+Jeok Cheongang grinned and loosened his grip on the blade.
 
-Freed from its restraint, the sword unleashed the ultimate techniques of the Plum Blossom Sword Technique.
+Freed from its restraint, the sword unleashed the ultimate moves of the Plum Blossom Sword Technique.
 
 *Shiiiiing!*
 
-The tip of the sword moved fluidly, drawing plum blossoms in the air.
+The sword tip moved fluidly, drawing plum blossoms through the air.
 
 One became two. Two became five. Five became nine…
 
 At last, twenty-four fully formed plum blossoms transformed into streaks of light and poured down toward Jeok Cheongang.
 
-At this moment, even Jeok Cheongang could not help feeling genuinely impressed.
+Even Jeok Cheongang could not help but marvel.
 
 *Huashan has produced an incredible talent.*
 
@@ -258,59 +258,59 @@ A figure who was practically synonymous with Huashan.
 
 No—a figure revered by every swordsman under heaven.
 
-“Mae Jonghak—what is your relationship with that friend of mine?”
+“Mae Jonghak. What is your relationship with that friend of mine?”
 
 The twenty-four plum blossoms wavered dangerously at the word *friend*.
 
-The next moment, the Sword Energy narrowly missed Jeok Cheongang and reduced the surrounding area to ruins.
+The next moment, the Sword Energy narrowly missed Jeok Cheongang and devastated the surrounding area.
 
 *Kaboom!*
 
-Cheongpung swallowed a mouthful of thickly rising dust and coughed.
+Cheongpung swallowed a mouthful of the billowing dust and coughed.
 
-“Cough, cough. Do you know my grandfather, cough?”
+“Cough, cough. You know my grandfather? Cough!”
 
-Jeok Cheongang laughed with evident pleasure.
+Jeok Cheongang laughed with evident delight.
 
 “I’ve met him. A very long time ago.”
 
-It had been more than forty years ago.
+It had been more than forty years earlier.
 
-The Demonic Cult’s hundred thousand followers had devoured half the world. As the tide of war turned against the orthodox faction, the orthodox Murim began searching even for eccentric masters who had withdrawn into remote mountain valleys.
+The Demonic Cult’s hundred thousand followers had devoured half the world. As the tide of war turned against the orthodox faction, the orthodox Murim sought out even the reclusive eccentrics hidden deep within remote mountains and valleys.
 
 That was when the Sword Saint Mae Jonghak visited Mount Jiuhua.
 
-“Help me.”
+“Help us.”
 
-Those were his first words.
+Those were his opening words.
 
-It was the first time in his life that a master comparable to himself had come calling, and Jeok Cheongang was surprised. But his answer was already decided.
+Jeok Cheongang was surprised to receive a visit from a master who could rival him, but his answer had already been decided.
 
 “No.”
 
-“Even though the world is in danger?”
+“Even with the world in danger?”
 
 “Let’s speak plainly. It’s your orthodox Murim that’s in danger, not the world.”
 
-Even if the Murim changed hands, the world itself would remain the same. There were villains in the orthodox faction and good people in the Demonic Cult.
+Even if the ruler of the Murim changed, the world itself would remain the same. There were villains among the orthodox factions and good people within the Demonic Cult.
 
 And Jeok Cheongang intended to remain on Mount Jiuhua forever.
 
-Mae Jonghak was lost in thought for a long while before suddenly slapping his forehead.
+Mae Jonghak sank into thought for a long while before suddenly smacking his forehead.
 
 “Oh, now that I think about it, you’re right.”
 
-“…You didn’t come here to persuade me?”
+“…Didn’t you come here to persuade me?”
 
 “That’s that, and this is this, isn’t it?”
 
-“What kind of nonsense is that? If you’re going to keep talking rubbish, go home.”
+“What kind of… If you’re going to keep spouting nonsense, go home.”
 
-“Then let’s do this. We’ll follow the law of the Murim.”
+“Then let’s settle this according to the laws of the Murim.”
 
-“Might makes right?”
+“Might Makes Right?”
 
-“If I lose, I’ll leave without complaint. Not only that, I’ll keep your existence hidden from the Murim forever. However…”
+“If I lose, I’ll leave without complaint. Not only that, I’ll never speak of your existence to anyone. However…”
 
 “If you win, I have to help the orthodox Murim.”
 
@@ -320,29 +320,29 @@ Mae Jonghak was lost in thought for a long while before suddenly slapping his fo
 
 They fought for seven days and seven nights.
 
-It was a battle between Huashan, which had taken root as a great tree of the Murim over hundreds of years, and the Fire Gate Clan, whose martial arts had been passed down according to the principles of one-man succession and transmission only to the worthy.
+It was a battle between Huashan, which had stood as a great tree of the Murim for centuries, and the Fire Gate Clan, whose martial arts had been passed down to one successor per generation and never transmitted to outsiders.
 
 It was a bloody struggle between two Martial Gods.
 
-And the result was a draw, with neither victor nor loser.
+And it ended in a draw, with neither victor nor loser.
 
-“What a pity. With martial arts like yours, why are you holed up in a mountain village like this?”
+“What a pity. With martial arts like yours, why are you holed up in a mountain backwater like this?”
 
 “Mind your own business. It’s my affair. What does it have to do with you?”
 
 “Oh. Now that I think about it, you’re right.”
 
-“…Listening to you is exhausting. What are you going to do now?”
+“…Just listening to you is exhausting. What are you going to do now?”
 
 “Honestly, I’d love to keep going, but… they crossed Gansu and Sichuan fifteen days ago. It’s a shame, but let’s leave it here this time.”
 
-It had been fortunate for Jeok Cheongang.
+That had been fortunate for Jeok Cheongang.
 
 If their battle had continued for even a few more days, he would have been the one to lose.
 
-Mae Jonghak was at least ten years younger than him, yet he was already an astonishingly powerful master.
+Mae Jonghak was ten years younger than him, yet he was already an astonishingly powerful master.
 
-Without his own formidable internal energy, Jeok Cheongang would never have been able to endure.
+Without his own formidable internal energy, Jeok Cheongang would never have lasted so long.
 
 “They may reach Anhui soon. Take care of yourself.”
 
@@ -350,9 +350,9 @@ Without his own formidable internal energy, Jeok Cheongang would never have been
 
 “Oh. That’s true.”
 
-“…Please stop talking and go.”
+“…Please stop talking and leave.”
 
-The Sword Saint Mae Jonghak left just like that, and the Demonic Cult’s army surged forward like a wave and crossed into Anhui.
+The Sword Saint Mae Jonghak left just like that, and the Demonic Cult’s army surged forward like a wave and swept into Anhui.
 
 Fifteen days later, the Demonic Cultists passing through Mount Jiuhua made a grave mistake.
 
@@ -366,4 +366,4 @@ And people began calling him by another name.
 
 “Then my grandfather…?”
 
-Fire King Jeok Cheongang merely smiled faintly instead of answering.
+The Fire King, Jeok Cheongang, merely smiled faintly instead of answering.
