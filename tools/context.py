@@ -534,10 +534,11 @@ Exact glossary matches; Korean keys must occur in the source. Do not repeat
 glossary matches. The controller drops rows already in the names ledger.
 `address_pairs` contains only newly required speaker→addressee rows that are
 absent from Matched address pairs. Speaker and addressee must be Hangul source
-spellings (Arabic digits allowed in titles such as 1팀장; do not romanize). At
-least one endpoint must occur in the source. The controller drops pairs already
-in the address ledger. Do not invent risk-register rows. Beat plot paragraphs
-are plain strings; continuity and translation decisions are concise list items.
+spellings such as 진태경 or 혁무진, never English names. Arabic digits are
+allowed in titles such as 1팀장. At least one endpoint must occur in the source.
+The controller drops pairs already in the address ledger. Do not invent
+risk-register rows. Beat plot paragraphs are plain strings; continuity and
+translation decisions are concise list items.
 Return this exact shape:
 
 {{
@@ -560,8 +561,8 @@ Return this exact shape:
   ],
   "address_pairs": [
     {{
-      "speaker": "speaker Korean",
-      "addressee": "addressee Korean",
+      "speaker": "진태경",
+      "addressee": "문경",
       "kinship": "kinship or role relation",
       "normal_address": "established English address",
       "speech_level": "speech level",
