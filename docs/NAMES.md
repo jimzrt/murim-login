@@ -1171,3 +1171,11 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 살수 | **assassin** | Professional killer considered as a possible suspect. |
 | 사면령 | **amnesty decree** | Decree that ended the Slaughter Saint’s status as an enemy of all Murim. |
 | 신의의 증표 | **Divine Physician’s Token** | Jade shard containing the clue about Sichuan’s Chinese gallnuts. |
+| 삼국지 | **Romance of the Three Kingdoms** | Classic historical novel referenced in Taekyung's comparison. |
+| 촉나라 | **Shu** | Kingdom referenced in the Romance of the Three Kingdoms comparison. |
+| 청성산 | **Mount Qingcheng** | Mountain containing the Qingcheng Sect. |
+| 아미산 | **Mount Emei** | Mountain associated with the Emei Sect. |
+| 상청궁 | **Shangqing Palace** | Qingcheng Sect hall where major sect matters are decided. |
+| 청풍고검 | **Cheongpung the Ancient Sword** | Alias of the Qingcheng Sect's Sect Leader; distinct from Cheongpung. |
+| 청성 칠십이검자 | **Qingcheng Seventy-Two Swordsmen** | Qingcheng Sect group of First Rate masters. |
+| 사천성 | **Sichuan Province** | Province form used in the title of its chief official. |
