@@ -547,3 +547,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진위경 | 당호룡 | orthodox ally to Tang Clan Acting Family Head | Sir Tang | formal and respectful | Jin Wikyung addresses Tang Horyong as 당 대협 while offering aid and discussing the Tang Clan's relocation. |
 | 당호룡 | 진위경 | Tang Clan Acting Family Head to orthodox ally | Great Hero Jin | formal and respectful | Tang Horyong addresses Jin Wikyung as 진 대협 while thanking him for the offer of protection. |
 | 진위경 | 막내 | older brother to younger brother | my youngest | intimate and informal | Jin Wikyung uses 막내야 affectionately for Jin Taekyung. |
+| 당사독 | 진위경 | Tang Clan Family Head to Lesser Family Head | Lesser Family Head | formal and remorseful | Asks whether Wikyung is the Lesser Family Head of the Jin Family of Taiyuan and addresses him while accepting judgment. |
+| 진위경 | 당사독 | Lesser Family Head to Tang Clan Family Head | Family Head | cold, formal, and restrained | Addresses Tang Sadok as 가주 while asking what punishment he seeks and presenting the possibility of self-sacrifice. |
