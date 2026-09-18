@@ -7,6 +7,7 @@ import json
 import re
 
 SEVERITIES = {"critical", "major", "minor"}
+SEVERITY_RANK = {"critical": 3, "major": 2, "minor": 1}
 DISPOSITIONS = {"applied", "rejected", "unresolved"}
 ADDRESS_ENDPOINT = re.compile(
     r"(?=.*[가-힣])[가-힣0-9](?:[가-힣0-9]| [가-힣0-9])+"
@@ -99,11 +100,44 @@ def validate_review(value: dict) -> dict:
     return {"version": 1, "summary": summary.strip(), "findings": normalized}
 
 
+def _finding_rank(finding: dict) -> tuple[int, float]:
+    severity = SEVERITY_RANK.get(str(finding.get("severity", "")), 0)
+    confidence = finding.get("confidence", 0.0)
+    if not isinstance(confidence, (int, float)) or isinstance(confidence, bool):
+        confidence = 0.0
+    return (severity, float(confidence))
+
+
+def _collapse_overlapping_spans(
+    spans: list[tuple[int, int, str, str, tuple[int, float]]],
+) -> list[tuple[int, int, str, str]]:
+    best_for_range: dict[tuple[int, int], tuple[int, int, str, str, tuple[int, float]]] = {}
+    for span in spans:
+        key = (span[0], span[1])
+        current = best_for_range.get(key)
+        if current is None or span[4] > current[4] or (
+            span[4] == current[4] and span[3] < current[3]
+        ):
+            best_for_range[key] = span
+    ordered = sorted(
+        best_for_range.values(),
+        key=lambda item: (-item[4][0], -item[4][1], -(item[1] - item[0]), item[0], item[3]),
+    )
+    kept: list[tuple[int, int, str, str, tuple[int, float]]] = []
+    for span in ordered:
+        if any(span[0] < other[1] and other[0] < span[1] for other in kept):
+            continue
+        kept.append(span)
+    kept.sort(key=lambda item: item[0])
+    return [(start, end, replacement, identifier) for start, end, replacement, identifier, _ in kept]
+
+
 def apply_review_replacements(text: str, review: dict) -> str:
-    spans: list[tuple[int, int, str, str]] = []
+    spans: list[tuple[int, int, str, str, tuple[int, float]]] = []
     for finding in review["findings"]:
         old = finding["current"]
         replacement = re.sub(r"\s*\([^()\n]*[가-힣][^()\n]*\)", "", finding["replacement"])
+        rank = _finding_rank(finding)
         starts = [match.start() for match in re.finditer(re.escape(old), text)]
         matched_old = old
         matched_replacement = replacement
@@ -127,14 +161,14 @@ def apply_review_replacements(text: str, review: dict) -> str:
         if len(starts) != 1:
             punctuation_only = old.replace("...", "…") == replacement
             if punctuation_only and starts:
-                spans.extend((start, start + len(old), replacement, finding["id"]) for start in starts)
+                spans.extend((start, start + len(old), replacement, finding["id"], rank) for start in starts)
                 continue
             thought_formatting = (
                 old.startswith("“") and old.endswith("”")
                 and replacement == f"*{old[1:-1]}*"
             )
             if thought_formatting and starts:
-                spans.extend((start, start + len(old), replacement, finding["id"]) for start in starts)
+                spans.extend((start, start + len(old), replacement, finding["id"], rank) for start in starts)
                 continue
             paragraph_starts = [
                 start for start in starts
@@ -146,13 +180,10 @@ def apply_review_replacements(text: str, review: dict) -> str:
             start = paragraph_starts[0]
         else:
             start = starts[0]
-        spans.append((start, start + len(matched_old), matched_replacement, finding["id"]))
-    spans.sort()
-    for previous, current in zip(spans, spans[1:]):
-        if current[0] < previous[1]:
-            raise ValueError(f"findings {previous[3]} and {current[3]} overlap")
+        spans.append((start, start + len(matched_old), matched_replacement, finding["id"], rank))
+    collapsed = _collapse_overlapping_spans(spans)
     revised = text
-    for start, end, replacement, _ in reversed(spans):
+    for start, end, replacement, _ in reversed(collapsed):
         revised = revised[:start] + replacement + revised[end:]
     return revised.rstrip() + "\n"
 

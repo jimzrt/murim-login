@@ -448,7 +448,8 @@ Return exactly one JSON object and no Markdown fence:
 }}
 
 Use an empty findings array when nothing is actionable. Replacement spans must
-not overlap.
+not overlap. Do not emit a second finding for the same draft words; omit
+duplicates instead of noting that they overlap.
 
 ## Korean source
 
