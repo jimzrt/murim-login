@@ -2,10 +2,10 @@
   "chapter": 8,
   "errors": [],
   "metrics": {
-    "length_ratio": 2.3,
+    "length_ratio": 2.294,
     "source_characters": 5384,
     "source_paragraphs": 166,
-    "translation_characters": 12383,
+    "translation_characters": 12352,
     "translation_paragraphs": 162
   },
   "passed": true,
@@ -64,6 +64,30 @@
       "details": {
         "korean": "상태",
         "preferred": "Status"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "중독",
+        "preferred": "Poisoned"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "준이",
+        "preferred": "Jun"
       },
       "message": "matched preferred term is absent"
     }

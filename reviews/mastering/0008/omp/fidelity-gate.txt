@@ -1,0 +1,15 @@
+{
+  "summary": "The assembled English translation is faithful to the Korean source overall, with minor terminology absences from the glossary and no significant fidelity defects.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "paragraphs mentioning 천무학관, 운기조식, 기루, 진가심법, 진가보법, 진가창법",
+      "current": "Sentences describing 'Heaven's Gate Temple', 'circulate my qi', 'pleasure-house regular', and the Jin Family martial arts techniques do not use preferred glossary terms consistently.",
+      "defect": "Preferred glossary terms for 천무학관 as 'Heaven's Gate Temple,' 운기조식 as 'circulate one's qi,' 기루 as 'pleasure house,' 진가심법 as 'Jin Family's Cultivation Technique,' 진가보법 as 'Jin Family's Manoeuvre Technique,' and 진가창법 as 'Jin Family's Spear Technique' are either omitted or inconsistently rendered.",
+      "replacement": "Ensure these terms use the exact preferred glossary terms as listed.",
+      "rationale": "The glossary entries are binding and specify exact English terms for consistency and clarity in this series.",
+      "confidence": 1.0
+    }
+  ]
+}

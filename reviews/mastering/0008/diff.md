@@ -1,905 +1,645 @@
-# Mastering Diff — 90 changed hunks
+# Mastering Diff — 46 changed hunks
 
 ## H001 (replace)
 
-### BASE
+Baseline paragraphs: P11
+SOL paragraphs: P11
+Korean lines: 23
 
-“There are no abnormalities.”
-
-### SOL
-
-“There’s nothing wrong with him.”
-
-## H002 (replace)
-
-### BASE
-
-That was the physician’s conclusion. I nodded inwardly at his confident tone. He was telling the truth.
-
-### SOL
-
-That was the physician’s conclusion. Hearing the certainty in his voice, I nodded to myself. He was right.
-
-## H003 (replace)
-
-### BASE
-
-“Then why can’t he remember?”
-
-### SOL
-
-“Then why can’t he remember anything?”
-
-## H004 (replace)
-
-### BASE
-
-The dignified atmosphere. The commanding voice. I knew his name now.
-
-### SOL
-
-A dignified air and a commanding voice. I knew his name now.
-
-## H005 (replace)
-
-**Terminology alert:** `진위경` → `Jin Wikyung`
-
-### BASE
-
-Jin Taekyung’s eldest brother and the Lesser Family Head of the Jin Family of Taiyuan, Jin Wikyung. Right. He really wasn’t my father.
-
-### SOL
-
-Jin Taekyung’s eldest brother and the Lesser Family Head of the Jin Family of Taiyuan. Right. He really wasn’t my father.
-
-## H006 (replace)
-
-### BASE
+BASE:
 
 *That guy was practically tearing up earlier.*
 
-### SOL
+SOL:
 
-*This guy was practically in tears earlier.*
+*The man was even tearing up earlier.*
 
-## H007 (replace)
+## H002 (replace)
 
-### BASE
+Baseline paragraphs: P22
+SOL paragraphs: P22
+Korean lines: 45
 
-Now he had put on a mask of stern solemnity and seriousness, acting as if nothing had happened.
-
-### SOL
-
-Now he was pretending nothing had happened, his stern, solemn, serious mask firmly back in place.
-
-## H008 (replace)
-
-### BASE
-
-The innocent physician fumbled for an answer.
-
-### SOL
-
-The poor physician fumbled for an answer.
-
-## H009 (replace)
-
-### BASE
-
-“Well, that is certainly my assessment, but there can occasionally be exceptions…”
-
-### SOL
-
-“Well, that is certainly my diagnosis, but there can occasionally be exceptions…”
-
-## H010 (replace)
-
-### BASE
-
-The physician left with a wounded expression, and Jin Wikyung immediately moved close to me as if he had been waiting for the chance. His voice overflowed with affection and concern.
-
-### SOL
-
-The physician left looking wounded. As if he had been waiting for the chance, Jin Wikyung immediately moved closer. His voice overflowed with affection and concern.
-
-## H011 (replace)
-
-### BASE
-
-I quietly nodded. I had already finished calculating how I was going to act.
-
-### SOL
-
-I quietly nodded. I had already worked out how I was going to play this.
-
-## H012 (replace)
-
-### BASE
-
-*Let’s keep going like this.*
-
-### SOL
-
-*Let’s keep this going.*
-
-## H013 (replace)
-
-### BASE
-
-An amnesiac patient—the kind I had only ever seen in dramas. There was no better situation for me. I didn’t need to make an effort to fit into the game’s circumstances, and I didn’t even need to gather information.
-
-### SOL
+BASE:
 
 Amnesia—the kind I had only ever seen in dramas. Nothing could have been more convenient in my current situation. I didn’t have to struggle to fit into the game’s setting or even gather information.
 
-## H014 (replace)
+SOL:
 
-### BASE
+Amnesia—the kind I had only ever seen in dramas. Nothing could have been more convenient in my current situation. I didn’t have to make any effort to fit into the game world or dig up information.
 
-All I had to do was lie still, blink at everyone with an expression that said *I don’t know anything*, and let the situation unfold on its own. Just like now.
+## H003 (replace)
 
-### SOL
+Baseline paragraphs: P23
+SOL paragraphs: P23
+Korean lines: 47
+
+BASE:
 
 All I had to do was lie still, blink at everyone with an expression that said *I don’t know anything*, and let the situation take care of itself. Just like now.
 
-## H015 (replace)
+SOL:
 
-### BASE
+All I had to do was lie still, blink at everyone with an expression that said *I don’t know anything*, and let events unfold on their own. Just like now.
 
-“Do you remember what you said a moment ago?”
+## H004 (replace)
 
-### SOL
+Baseline paragraphs: P24
+SOL paragraphs: P24
+Korean lines: 49
+
+BASE:
 
 “Do you remember what you just said?”
 
-## H016 (replace)
+SOL:
 
-### BASE
+“Do you remember what we just went over?”
 
-Thinking that I had lost my memory, Jin Wikyung told me a few basic facts. That was how I learned his identity.
+## H005 (replace)
 
-### SOL
+Baseline paragraphs: P25
+SOL paragraphs: P25
+Korean lines: 51
 
-Believing that I had lost my memory, Jin Wikyung had told me a few basic facts. That was how I had learned who he was.
+BASE:
 
-## H017 (replace)
+“What did I say?”
 
-### BASE
+SOL:
 
-“Age?”
+“Which part?”
 
-### SOL
+## H006 (replace)
 
-“How old am I?”
+Baseline paragraphs: P31
+SOL paragraphs: P31
+Korean lines: 63
 
-## H018 (replace)
-
-### BASE
-
-Good grief. He was in his thirties with that face? And apparently, he was still an unmarried bachelor.
-
-### SOL
+BASE:
 
 Good grief. He was in his thirties with that face? Apparently, he was still a bachelor too.
 
-## H019 (replace)
+SOL:
 
-### BASE
+Good grief. He was in his thirties with that face? He wasn’t even married yet.
 
-“Jin Mukyung, the Heaven Shaking Sword. Twenty-five years old. Currently a cadet at Heaven’s Gate Temple.”
+## H007 (replace)
 
-### SOL
+Baseline paragraphs: P34
+SOL paragraphs: P34
+Korean lines: 69
 
-“Jin Mukyung, the Heaven Shaking Sword. Twenty-five. Currently a cadet at Heaven’s Gate Temple.”
+BASE:
 
-## H020 (replace)
+“Correct. And your second brother?”
 
-### BASE
+SOL:
 
-I had no idea where Heaven’s Gate Temple was located. I was simply parroting back everything I had heard.
+“That’s right. And your second brother?”
 
-### SOL
+## H008 (replace)
 
-I had no idea where Heaven’s Gate Temple was. I was simply parroting back what I had heard.
+Baseline paragraphs: P37
+SOL paragraphs: P37
+Korean lines: 75
 
-## H021 (replace)
-
-### BASE
-
-Jin Wikyung mechanically repeated “Correct, correct” to each of my answers, then tilted his head.
-
-### SOL
+BASE:
 
 Jin Wikyung had been mechanically saying, “Correct, correct,” after each answer, but now he tilted his head.
 
-## H022 (replace)
+SOL:
 
-### BASE
+Jin Wikyung had been mechanically saying, “That’s right, that’s right,” after each answer, but now he tilted his head.
 
-The moment our eyes met, I grabbed my forehead.
+## H009 (replace)
 
-### SOL
+Baseline paragraphs: P42
+SOL paragraphs: P42
+Korean lines: 85
 
-The moment our eyes met, I clutched my forehead.
+BASE:
 
-## H023 (replace)
+“Oh, my youngest!”
 
-### BASE
+SOL:
 
-“It’s only a simple contusion. The swelling and bruises should be completely gone within three days at most.”
+“Oh no, my youngest!”
 
-### SOL
+## H010 (replace)
 
-“It’s only bruising. The swelling and discoloration should be completely gone within three days at most.”
+Baseline paragraphs: P46
+SOL paragraphs: P46
+Korean lines: 97
 
-## H024 (replace)
+BASE:
 
-### BASE
+Leaving the physician’s final words behind, I walked out of Medicine King Hall. A servant with a plain, friendly face was waiting for me at the entrance.
 
-“I’ll guide you to your quarters, Young Master.”
+SOL:
 
-### SOL
+Leaving the physician’s final words behind, I walked out of Medicine King Hall. A servant with an unassuming, approachable face was waiting for me at the entrance.
 
-“I’ll show you to your quarters, Young Master.”
+## H011 (replace)
 
-## H025 (replace)
+Baseline paragraphs: P48
+SOL paragraphs: P48
+Korean lines: 101
 
-### BASE
-
-The servant walked ahead without hesitation. He already seemed to know that I had lost my memory, because whenever we passed a building or a person, he quietly explained what they were.
-
-### SOL
+BASE:
 
 The servant set off without hesitation. He already seemed to know that I had lost my memory, because whenever we passed a building or a person, he would explain who or what they were in a quiet voice.
 
-## H026 (replace)
+SOL:
 
-### BASE
+The servant set off without hesitation. He already seemed to know that I had lost my memory, because whenever we passed a building or a person, he would quietly explain who or what they were.
 
-I could roughly guess why Jin Wikyung had sent him.
+## H012 (replace)
 
-### SOL
+Baseline paragraphs: P54
+SOL paragraphs: P54
+Korean lines: 113
 
-I could more or less guess why Jin Wikyung had sent him.
-
-## H027 (replace)
-
-### BASE
-
-He was busy with his duties, so this was probably his way of looking after me.
-
-### SOL
-
-He was too busy with work to look after me himself, so this was his way of doing it.
-
-## H028 (replace)
-
-### BASE
-
-Weren’t buildings like this usually called pavilions in China? It had a rather impressive old-fashioned charm.
-
-### SOL
+BASE:
 
 Wasn’t this kind of building called a pavilion in China? It had a distinctly old-fashioned charm.
 
-## H029 (replace)
+SOL:
 
-### BASE
+Wasn’t this the kind of building they called a pavilion in China? It had a distinctly old-fashioned charm.
+
+## H013 (replace)
+
+Baseline paragraphs: P56
+SOL paragraphs: P56
+Korean lines: 117
+
+BASE:
 
 It was unbelievably spacious, too. The moment the servant opened the door, my jaw dropped.
 
-### SOL
+SOL:
 
 It was unbelievably spacious too. The moment the servant opened the door, my jaw dropped.
 
-## H030 (replace)
+## H014 (replace)
 
-### BASE
+Baseline paragraphs: P61
+SOL paragraphs: P61
+Korean lines: 127
 
-“The second floor contains your bedroom. Bells have been installed throughout the building, so please ring one if you need anything.”
-
-### SOL
-
-“Your bedroom is on the second floor. Bells have been installed throughout the building, so please ring one if you need anything.”
-
-## H031 (replace)
-
-### BASE
-
-After the servant left, I came to my senses and began exploring the pavilion. The first floor alone looked to be more than three hundred square meters.
-
-### SOL
-
-Once the servant left, I collected myself and began exploring the pavilion. The first floor alone looked to be well over three hundred square meters.
-
-## H032 (replace)
-
-### BASE
-
-To someone who had lived in a goshiwon room measuring barely seven square meters,[^1] this was no different from an Olympic stadium.
-
-### SOL
-
-To someone who had lived in a goshiwon room barely seven square meters in size,[^1] it might as well have been an Olympic stadium.
-
-## H033 (replace)
-
-### BASE
+BASE:
 
 There were six rooms on the first floor alone. A sudden wave of curiosity rose in me.
 
-### SOL
+SOL:
 
-There were six rooms on the first floor alone. Curiosity suddenly got the better of me.
+There were six rooms on the first floor alone. Curiosity suddenly surged through me.
 
-## H034 (replace)
+## H015 (replace)
 
-### BASE
+Baseline paragraphs: P66
+SOL paragraphs: P66
+Korean lines: 137
 
-Treasures? Martial arts manuals? Amazing items?
+BASE:
 
-### SOL
+The exclamation slipped out the moment the door opened. There were no fluorescent lights, yet the room was bright—thanks to the silk clothes packed onto the shelves along the walls. There was an astonishing amount of them, even at a glance.
 
-Treasure? Martial arts manuals? Maybe some incredible items?
+SOL:
 
-## H035 (replace)
+The exclamation slipped out the moment the door opened. There were no fluorescent lights, yet the room was bright—thanks to the silk clothes packed onto the shelves lining the walls. There had to be an incredible number of them.
 
-### BASE
+## H016 (replace)
 
-I didn’t care what it was. I opened the nearest door.
+Baseline paragraphs: P68
+SOL paragraphs: P68
+Korean lines: 141
 
-### SOL
+BASE:
 
-I didn’t care what it was. I flung open the nearest door.
+*This bastard has a lot of clothes.*
 
-## H036 (replace)
+SOL:
 
-### BASE
+*This bastard owns a lot of clothes.*
 
-A gasp escaped me the moment I opened it. The room was bright despite having no fluorescent lights. Silk clothes filled the shelves lining the walls. There were an astonishing number of them, even at a glance.
+## H017 (replace)
 
-### SOL
+Baseline paragraphs: P69
+SOL paragraphs: P69
+Korean lines: 143
 
-The exclamation slipped out the moment the door opened. The room was bright despite having no fluorescent lights, thanks to all the silk clothes filling the shelves along the walls. There was an astonishing amount of them.
-
-## H037 (replace)
-
-### BASE
-
-Of course, it wasn’t what I was looking for.
-
-### SOL
-
-Of course, they weren’t what I was looking for.
-
-## H038 (replace)
-
-### BASE
-
-A club rat—no, a pleasure-house regular. I clicked my tongue and closed the door. Then I went straight to the second room and threw that door open, too.
-
-### SOL
+BASE:
 
 A club rat—no, a pleasure-house regular through and through. I clicked my tongue, closed the door, and went straight to the second room. Then I threw that door open too.
 
-## H039 (replace)
+SOL:
 
-### BASE
+A club regular—no, a pleasure-house regular through and through. I clicked my tongue, closed the door, and went straight to the second room. Then I threw that door open too.
+
+## H018 (replace)
+
+Baseline paragraphs: P71
+SOL paragraphs: P71
+Korean lines: 147
+
+BASE:
 
 I had underestimated Jin Taekyung. At this point, wasn’t he practically the fashion icon of his era?
 
-### SOL
+SOL:
 
-I had underestimated Jin Taekyung. At this point, he had to be the fashion icon of his era.
+I had underestimated Jin Taekyung. At this point, he might as well have been the fashionista of his age.
 
-## H040 (replace)
+## H019 (replace)
 
-### BASE
+Baseline paragraphs: P74
+SOL paragraphs: P74
+Korean lines: 153
 
-I forced myself to ignore the unease slowly crawling up my spine and moved to the third room.
-
-### SOL
-
-Trying to ignore the unease creeping over me, I moved on to the third room.
-
-## H041 (replace)
-
-### BASE
-
-The door flew open.
-
-### SOL
-
-I yanked the door open.
-
-## H042 (replace)
-
-### BASE
+BASE:
 
 “…What kind of shopping-addicted bastard is this?”
 
-### SOL
+SOL:
 
-“…You goddamn shopaholic.”
+“…You fucking shopaholic.”
 
-## H043 (replace)
+## H020 (replace)
 
-### BASE
+Baseline paragraphs: P75
+SOL paragraphs: P75
+Korean lines: 155
+
+BASE:
 
 Seriously, what kind of person was he? Seeing three rooms packed completely full of clothes made my throat close up, as if I had swallowed a sweet potato.
 
-### SOL
+SOL:
 
-Seriously, what was wrong with this guy? Seeing three whole rooms packed with clothes made my throat clog up as though I had swallowed a sweet potato.
+Seriously, what the hell was wrong with this guy? Seeing three whole rooms crammed with clothes left me feeling like I had a sweet potato lodged in my throat.
 
-## H044 (replace)
+## H021 (replace)
 
-### BASE
+Baseline paragraphs: P77
+SOL paragraphs: P77
+Korean lines: 159
 
-*Could this possibly mean…*
-
-### SOL
-
-*Could it be…*
-
-## H045 (replace)
-
-### BASE
-
-My unease gradually took shape and pressed down on my body. With heavy steps, I stood before the next room. Unlike the others, it clearly hadn’t been used in a long time. I grabbed the rusty handle and slowly pushed.
-
-### SOL
+BASE:
 
 My unease was taking shape, growing heavier by the second. I trudged to the final room. Unlike the others, it clearly hadn’t been used in a long time. I took hold of the rusty handle and slowly pushed.
 
-## H046 (replace)
+SOL:
 
-### BASE
+My unease was becoming real, growing heavier by the second. I trudged to the final room. Unlike the others, it clearly hadn’t been used in a long time. I took hold of the rusty handle and slowly pushed.
 
-The final room revealed itself with an irritating groan.
+## H022 (replace)
 
-### SOL
+Baseline paragraphs: P89
+SOL paragraphs: P89
+Korean lines: 191
 
-With an irritating groan, the final room revealed what lay inside.
+BASE:
 
-## H047 (replace)
+Jackpot!
 
-### BASE
+SOL:
 
-Sunlight filtered through a small window. Dust rose with every step. And beyond it stood several bookshelves.
+Yes!
 
-### SOL
+## H023 (replace)
 
-Sunlight filtered through a small window. Dust rose with every step. Beyond it stood several bookshelves.
+Baseline paragraphs: P101
+SOL paragraphs: P101
+Korean lines: 219
 
-## H048 (replace)
+BASE:
 
-### BASE
+The number in parentheses bothered me immensely. I had learned exactly three martial arts so far: the Jin Family’s Cultivation Technique, the Jin Family’s Spear Technique, and the Jin Family’s Manoeuvre Technique.
 
-A smile spread across my face before I even realized it.
+SOL:
 
-### SOL
+The number in parentheses really bothered me. I had learned exactly three martial arts so far: the Jin Family’s Cultivation Technique, the Jin Family’s Spear Technique, and the Jin Family’s Manoeuvre Technique.
 
-A smile spread across my face before I knew it.
+## H024 (replace)
 
-## H049 (replace)
+Baseline paragraphs: P107
+SOL paragraphs: P107
+Korean lines: 235
 
-### BASE
-
-There were five bookshelves in total. I approached the nearest one and pulled out a book. When I shook off the thick layer of dust, the writing on its cover appeared.
-
-### SOL
-
-There were five bookshelves in total. I approached the nearest one and pulled out a book. When I brushed off the thick layer of dust, the writing on the cover appeared.
-
-## H050 (replace)
-
-### BASE
-
-I read through the System window with a pounding heart.
-
-### SOL
-
-My heart pounded as I read through the System window.
-
-## H051 (replace)
-
-### BASE
-
-Three-Turn Footwork. The most basic third-rate footwork technique. This was the kind of martial arts manual I had only ever seen in novels.
-
-### SOL
-
-Three-Turn Footwork. The most basic third-rate footwork technique. This was it—the kind of martial arts manual I had only ever seen in novels.
-
-## H052 (replace)
-
-### BASE
-
-The suspicion I had formed after completing the Quest to circulate my qi, just before coming to the Jin Family of Taiyuan, had now become certainty.
-
-### SOL
-
-The suspicion I had formed after completing the Quest to circulate my qi, just before arriving at the Jin Family of Taiyuan, had become a certainty.
-
-## H053 (replace)
-
-**Terminology alert:** `무공` → `martial arts`
-
-### BASE
-
-I had been worried that I might have to learn martial arts one step at a time, like the protagonists and NPCs in novels. Fortunately, that fear had been unfounded.
-
-### SOL
-
-I had been worried that I might have to learn everything step by step, like the protagonists and NPCs in novels. Fortunately, that fear had proved unfounded.
-
-## H054 (replace)
-
-### BASE
-
-If the System applied to ordinary martial arts the same way it had to circulating qi, rapid growth would be a piece of cake.
-
-### SOL
-
-If the System applied to ordinary martial arts the same way it had when I circulated my qi, rapid growth would be a piece of cake.
-
-## H055 (replace)
-
-### BASE
-
-If that suspicion was true, now was not the time to learn a third-rate martial art like Three-Turn Footwork. I needed to find a higher-grade martial art—one that could keep me alive until Logout and help me raise my Level and Fame quickly.
-
-### SOL
-
-If that suspicion was correct, now was not the time to learn a third-rate martial art like Three-Turn Footwork. I needed to find a higher-grade martial art—one that could keep me alive until Logout and help me raise my Level and Fame quickly.
-
-## H056 (replace)
-
-### BASE
-
-The good news was that this room contained several hundred martial arts manuals, give or take.
-
-### SOL
-
-Fortunately, this room contained several hundred martial arts manuals, give or take.
-
-## H057 (replace)
-
-### BASE
+BASE:
 
 That meant I could learn seven more martial arts. If I filled those slots with nothing but the best techniques, Logout would only be a matter of time.
 
-### SOL
+SOL:
 
-I could learn seven more martial arts. If I filled every remaining slot with the best techniques I could find, Logout would only be a matter of time.
+That meant I could learn seven more martial arts. If I filled those slots with nothing but worthwhile techniques, Logout would only be a matter of time.
 
-## H058 (replace)
+## H025 (replace)
 
-### BASE
+Baseline paragraphs: P113
+SOL paragraphs: P113
+Korean lines: 249
 
-With a satisfied smile, I pulled out the next book.
-
-### SOL
-
-I pulled out the next book with a satisfied smile.
-
-## H059 (replace)
-
-### BASE
-
-Work had been another fierce battle today. I hadn’t been able to leave the office from morning until nearly midnight. It had already been two months of this grueling pace.
-
-### SOL
+BASE:
 
 Today’s battle against work had been fierce. Jin Wikyung had not left the office once between morning and the present hour, which was approaching midnight. This grueling pace had already continued for two months.
 
-## H060 (replace)
+SOL:
 
-### BASE
+Today’s battle against work had been fierce. Jin Wikyung had not left the office once since morning, and now it was nearly midnight. This grueling pace had already continued for two months.
 
-That was Wipeng’s signal that the day’s work was over.
+## H026 (replace)
 
-### SOL
+Baseline paragraphs: P114
+SOL paragraphs: P114
+Korean lines: 253
 
-Wipeng’s words signaled the end of the day’s work.
+BASE:
 
-## H061 (replace)
+“You’ve worked hard.”
 
-### BASE
+SOL:
 
-Jin Wikyung rose, his body stiff, and left the office. The owner of this place was his father, who had vanished one day—not Jin Wikyung himself.
+“Thank you for your hard work.”
 
-### SOL
+## H027 (replace)
+
+Baseline paragraphs: P116
+SOL paragraphs: P116
+Korean lines: 257
+
+BASE:
 
 Jin Wikyung rose, stretching his stiff body, and left the office. After all, the owner of that room was not Jin Wikyung, but his father, who had vanished without warning one day.
 
-## H062 (replace)
+SOL:
 
-### BASE
+Jin Wikyung hauled his stiff body upright and left the office. After all, the owner of that room was not Jin Wikyung, but his father, who had suddenly vanished one day.
+
+## H028 (replace)
+
+Baseline paragraphs: P117
+SOL paragraphs: P117
+Korean lines: 259
+
+BASE:
 
 His residence was a pavilion in the inner compound at the center of the Jin Family estate, and it took about a quarter hour to walk there.
 
-### SOL
+SOL:
 
-Jin Wikyung lived in a pavilion in the inner compound at the center of the Jin Family estate. It was about a quarter hour’s walk away.
+His residence was a pavilion in the inner compound at the center of the Jin Family estate, about a quarter hour away on foot.
 
-## H063 (replace)
+## H029 (replace)
 
-### BASE
+Baseline paragraphs: P119
+SOL paragraphs: P119
+Korean lines: 267
+
+BASE:
 
 Wipeng, who had followed him like a shadow, draped a thick fur cloak over his shoulders. Jin Wikyung smiled tiredly.
 
-### SOL
+SOL:
 
-Wipeng followed like a shadow and draped a thick fur cloak over his shoulders. Jin Wikyung gave him a weary smile.
+Wipeng, who followed him like a shadow, draped a thick fur cloak over his shoulders. Jin Wikyung smiled tiredly.
 
-## H064 (replace)
+## H030 (replace)
 
-### BASE
+Baseline paragraphs: P121
+SOL paragraphs: P121
+Korean lines: 275
 
-“Thank you. If I didn’t have you, I might have collapsed long ago.”
-
-### SOL
-
-“Thank you. Without you, I might have collapsed long ago.”
-
-## H065 (replace)
-
-### BASE
-
-“What else could I do? Someone has to play the lady of the house.”
-
-### SOL
+BASE:
 
 “What else can I do? Someone has to play the lady of the house.”
 
-## H066 (replace)
+SOL:
 
-### BASE
+“What choice do I have? Someone has to play the lady of the house.”
+
+## H031 (replace)
+
+Baseline paragraphs: P122
+SOL paragraphs: P122
+Korean lines: 277
+
+BASE:
 
 “Forget it. The old men are already hounding me enough as it is.”
 
-### SOL
+SOL:
 
-“Enough. The old men already hound me about it.”
+“Don’t start. The old men are already hounding me about it.”
 
-## H067 (replace)
+## H032 (replace)
 
-### BASE
+Baseline paragraphs: P123
+SOL paragraphs: P123
+Korean lines: 279
 
-Jin Wikyung rubbed his stiff eyes. He was in his mid-thirties, but still unmarried. He had kept putting it off under the excuse of being young, and more than a decade had passed in those delays.
+BASE:
 
-### SOL
+Jin Wikyung rubbed his dry eyes. Though he was in his mid-thirties, he remained unmarried. He had kept putting marriage off on the grounds that he was still young, and those delays had added up to more than a decade.
 
-Jin Wikyung rubbed his dry, aching eyes. Though he was in his mid-thirties, he remained unmarried. He had kept putting marriage off on the grounds that he was still young, and those delays had added up to more than a decade.
+SOL:
 
-## H068 (replace)
+Jin Wikyung rubbed his gritty eyes. Though he was in his mid-thirties, he remained unmarried. He had kept putting marriage off on the grounds that he was still young, and those delays had added up to more than a decade.
 
-### BASE
+## H033 (replace)
 
-If someone asked whether he had never experienced love, the answer would be no.
+Baseline paragraphs: P125
+SOL paragraphs: P125
+Korean lines: 283
 
-### SOL
+BASE:
 
 Had he ever been in love? Yes.
 
-## H069 (replace)
+SOL:
 
-### BASE
+It wasn’t as though he had never been in love.
 
-But Jin Wikyung was not an immature child. One day, he would become the Family Head and take responsibility for everyone in the household. If a political marriage could strengthen the family, it would be a small price to pay as far as he was concerned.
+## H034 (replace)
 
-### SOL
+Baseline paragraphs: P126
+SOL paragraphs: P126
+Korean lines: 285
+
+BASE:
 
 But Jin Wikyung was no immature child. One day, he would become the Family Head and bear responsibility for everyone in the household. If a political marriage could strengthen the family, he considered it a small price to pay.
 
-## H070 (replace)
+SOL:
 
-### BASE
+But Jin Wikyung was no immature child. One day, he would become the Family Head and bear responsibility for everyone in the household. If a political marriage could strengthen the family, he considered it a small sacrifice to make.
+
+## H035 (replace)
+
+Baseline paragraphs: P127
+SOL paragraphs: P127
+Korean lines: 287
+
+BASE:
 
 “The stars are bright. We almost wouldn’t need torches.”
 
-### SOL
+SOL:
 
-“The stars are bright tonight. We could almost do without torches.”
+“The stars are bright tonight. We almost didn’t need torches.”
 
-## H071 (replace)
+## H036 (replace)
 
-### BASE
+Baseline paragraphs: P128
+SOL paragraphs: P128
+Korean lines: 289
+
+BASE:
 
 Sensing the mood, Wipeng changed the subject. Jin Wikyung shook his head. His residence had come into view.
 
-### SOL
+SOL:
 
 Sensing his mood, Wipeng changed the subject. Jin Wikyung shook his head. His residence had already come into view.
 
-## H072 (replace)
+## H037 (replace)
 
-### BASE
+Baseline paragraphs: P135
+SOL paragraphs: P135
+Korean lines: 303
 
-Following Jin Wikyung’s gaze, Wipeng tilted his head. A faint light was leaking from a nearby pavilion.
-
-### SOL
-
-Wipeng followed Jin Wikyung’s gaze and tilted his head. Faint light was leaking from a nearby pavilion.
-
-## H073 (replace)
-
-### BASE
-
-As he spoke, Jin Wikyung strode forward. Wipeng had no choice but to follow.
-
-### SOL
-
-Jin Wikyung strode toward it as he spoke. Wipeng had no choice but to follow.
-
-## H074 (replace)
-
-### BASE
+BASE:
 
 “My lord, why don’t we come back another time? The memory loss is just an excuse. He’s obviously drinking.”
 
-### SOL
+SOL:
 
-“My lord, why don’t we come back another time? His memory loss is obviously an excuse. He’s probably drinking.”
+“My lord, why don’t we come back another time? He’s only using the memory loss as an excuse. He’s obviously in there drinking.”
 
-## H075 (replace)
+## H038 (replace)
 
-### BASE
+Baseline paragraphs: P137
+SOL paragraphs: P137
+Korean lines: 307
 
-The two men entered the pavilion. The light was coming from the old room on the far left. The constant creaking made it clear that someone was moving around inside.
-
-### SOL
+BASE:
 
 The two men entered the pavilion. The light came from the old room on the far left. Constant creaking sounded from within, as if someone were moving around without pause.
 
-## H076 (replace)
+SOL:
 
-### BASE
+The two men entered the pavilion. The light came from the old room on the far left. Constant creaking sounded from within, as if someone were moving around nonstop.
 
-“I underestimated the Third Young Master. It sounds like he even brought a woman with him. Listen to that. I’ll bet my salary for this month.”
+## H039 (replace)
 
-### SOL
+Baseline paragraphs: P143
+SOL paragraphs: P143
+Korean lines: 319
 
-“I underestimated the Third Young Master. It sounds like he even brought a woman in. Listen to that. I’ll bet this month’s salary on it.”
-
-## H077 (replace)
-
-### BASE
-
-Wipeng’s lips moved. He was using Sound Transmission, sending his voice through internal energy.
-
-### SOL
-
-Wipeng’s lips moved. He was using Sound Transmission, carrying his voice with internal energy.
-
-## H078 (replace)
-
-### BASE
-
-Jin Wikyung sent the short, heavy response through Sound Transmission, then moved right up to the door. Through the narrow gap, he could see what was happening inside.
-
-### SOL
+BASE:
 
 Jin Wikyung sent the short, heavy reply through Sound Transmission, then moved right up to the door. Through the open crack, he could see what was happening inside.
 
-## H079 (replace)
+SOL:
 
-### BASE
+Jin Wikyung sent the short, gruff reply through Sound Transmission, then moved right up to the door. Through the open crack, he could see what was happening inside.
 
-Wipeng cut in again with a wounded expression.
+## H040 (replace)
 
-### SOL
+Baseline paragraphs: P144
+SOL paragraphs: P144
+Korean lines: 321
 
-Wipeng squeezed in beside him with a wounded expression.
+BASE:
 
-## H080 (replace)
+Then Wipeng cut in with a wounded expression.
 
-### BASE
+SOL:
 
-“I never took you for this sort of person, my lord, but your tastes are rather unusual…”
+Wipeng, looking wounded, squeezed in beside him.
 
-### SOL
+## H041 (replace)
 
-“I never took you for this sort of man, my lord. Your tastes are rather unusual—”
+Baseline paragraphs: P150
+SOL paragraphs: P150
+Korean lines: 333
 
-## H081 (replace)
-
-### BASE
-
-*Was I seeing things because I’ve been feeling weak lately?*
-
-### SOL
-
-*Am I seeing things because I’ve been feeling weak lately?*
-
-## H082 (replace)
-
-### BASE
+BASE:
 
 He rubbed his eyes with his sleeve, but all five senses continued to take in the scene before him exactly as it was.
 
-### SOL
+SOL:
 
-He rubbed his eyes with his sleeve, but his senses continued to report the scene before him exactly as it was.
+He rubbed his eyes with his sleeve, but all five senses kept insisting that the scene before him was real.
 
-## H083 (replace)
+## H042 (replace)
 
-### BASE
+Baseline paragraphs: P152
+SOL paragraphs: P152
+Korean lines: 337
 
-“Now, take two steps diagonally…”
+BASE:
 
-### SOL
+A sturdy young man muttered continuously as he moved without pause. Countless footprints covered the dusty floor, and more were appearing even now.
 
-“Now, two steps diagonally…”
+SOL:
 
-## H084 (replace)
+A sturdy young man muttered to himself as he moved without rest. Countless footprints covered the dusty floor, and more were appearing even now.
 
-### BASE
+## H043 (replace)
 
-It was a young man with a sturdy build. He muttered continuously while moving his body without pause. Countless footprints covered the dusty floor, and more were being added even now.
+Baseline paragraphs: P153
+SOL paragraphs: P153
+Korean lines: 339
 
-### SOL
+BASE:
 
-A sturdy young man muttered continuously as he moved without pause. Countless footprints covered the dusty floor, and more were appearing by the second.
+Swish. Stumble.
 
-## H085 (replace)
+SOL:
 
-### BASE
+Swish. Slip.
+
+## H044 (replace)
+
+Baseline paragraphs: P154
+SOL paragraphs: P154
+Korean lines: 341
+
+BASE:
 
 “Fuck, they made this martial art like shit—aaagh!”
 
-### SOL
+SOL:
 
-“Fuck, who designed this shitty martial art—aaagh!”
+“Fuck, this martial art is designed like shiiiiit!”
 
-## H086 (replace)
+## H045 (replace)
 
-### BASE
+Baseline paragraphs: P155
+SOL paragraphs: P155
+Korean lines: 343
+
+BASE:
 
 It was the Third Young Master. That foul personality and that foul mouth. There was no doubt that he was Jin Taekyung.
 
-### SOL
+SOL:
 
-It was the Third Young Master. That god-awful temper and filthy mouth could only belong to the Third Young Master, Jin Taekyung.
+It was the Third Young Master. That god-awful temper and that foul mouth. There was no doubt that he was Jin Taekyung.
 
-## H087 (replace)
+## H046 (replace)
 
-### BASE
+Baseline paragraphs: P160
+SOL paragraphs: P160
+Korean lines: 353
 
-He hadn’t trained in martial arts since the age of twelve, yet he was practicing past midnight, drenched in dust and sweat!
-
-### SOL
-
-He had not trained in martial arts since he was twelve, yet here he was, practicing past midnight until he was drenched in dust and sweat.
-
-## H088 (replace)
-
-### BASE
-
-Wipeng, who had been staring blankly, suddenly snapped back to reality.
-
-### SOL
-
-Wipeng, who had been staring blankly, snapped back to his senses.
-
-## H089 (replace)
-
-### BASE
-
-“Yes, yes?”
-
-### SOL
-
-“Y-Yes?”
-
-## H090 (replace)
-
-### BASE
+BASE:
 
 Jin Wikyung gazed into the room with dazed eyes. Jin Taekyung had fallen over and was hurling vicious curses at the ceiling, but he soon got back up and resumed practicing his footwork.
 
-### SOL
+SOL:
 
-Jin Wikyung gazed into the room with dazed eyes. Jin Taekyung had fallen and was hurling vicious curses at the ceiling, but he soon got back up and resumed practicing his footwork.
+Jin Wikyung gazed into the room with dazed eyes. Jin Taekyung had fallen over and was swearing viciously at the ceiling, but he soon got back up and resumed practicing his footwork.

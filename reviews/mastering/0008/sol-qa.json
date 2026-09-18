@@ -2,10 +2,10 @@
   "chapter": 8,
   "errors": [],
   "metrics": {
-    "length_ratio": 2.291,
+    "length_ratio": 2.293,
     "source_characters": 5384,
     "source_paragraphs": 166,
-    "translation_characters": 12334,
+    "translation_characters": 12345,
     "translation_paragraphs": 162
   },
   "passed": true,
@@ -16,14 +16,6 @@
       "details": {
         "korean": "천무학관",
         "preferred": "Heaven's Gate Temple"
-      },
-      "message": "matched preferred term is absent"
-    },
-    {
-      "code": "terminology",
-      "details": {
-        "korean": "보법",
-        "preferred": "manoeuvre technique / footwork technique"
       },
       "message": "matched preferred term is absent"
     },
@@ -78,8 +70,24 @@
     {
       "code": "terminology",
       "details": {
-        "korean": "동기화",
-        "preferred": "Synchronization / Sync"
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "중독",
+        "preferred": "Poisoned"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "준이",
+        "preferred": "Jun"
       },
       "message": "matched preferred term is absent"
     }
