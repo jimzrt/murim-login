@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "A being born from darkness had no reason to understand what darkness was.",
+      "defect": "The draft changes an assertion that such a being does not understand darkness into a claim that it merely has no reason to understand it.",
+      "id": "F01",
+      "rationale": "The source describes the inherent ignorance of a being born in darkness, not its lack of motivation or reason to understand darkness.",
+      "replacement": "A being born from darkness does not know what darkness means.",
+      "severity": "major",
+      "source": "어둠에서 태어난 존재는 어둠이라는 의미를 모른다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "He had made the ten Death Knights under his command the commanders of five legions, then come here as the vanguard of one of them.",
+      "defect": "The draft turns the black knight himself into the vanguard rather than preserving his role as the vanguard commander.",
+      "id": "F02",
+      "rationale": "선봉장 is the commander or leader of a vanguard, so the source assigns him a command role rather than identifying him with the vanguard unit itself.",
+      "replacement": "He had appointed the ten Death Knights under his command to lead five legions, then personally taken command of one legion’s vanguard and come here.",
+      "severity": "major",
+      "source": "휘하에 놓인 열 기의 데스나이트를 다섯 군단의 사령관으로 삼고, 스스로 한 군단의 선봉장이 되어 이곳에 왔다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "At the next command, more than two hundred Dullahans formed ranks.",
+      "defect": "The draft makes the quantity strictly greater than two hundred, while 이백여 indicates an approximate count.",
+      "id": "F03",
+      "rationale": "The source gives an estimated quantity of around two hundred rather than a firm lower bound above two hundred.",
+      "replacement": "At the next command, roughly two hundred Dullahans formed ranks.",
+      "severity": "minor",
+      "source": "이어지는 지시에 이백여 기의 듀라한(Dullahan)이 정렬했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "—Charge.\n\n—Prepare.",
+      "defect": "The two fragments jointly order the troops to prepare for a charge, but the draft first commands them to charge immediately and only afterward says to prepare.",
+      "id": "F04",
+      "rationale": "돌격 준비 means preparation for a charge. This occurs before the spearheads are lowered and before the legion actually begins advancing, so converting it into an immediate charge changes the action sequence.",
+      "replacement": "—Prepare.\n\n—for the charge.",
+      "severity": "critical",
+      "source": "- 돌격.\n\n- 준비."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The undead legion covering the vast granary advanced slowly behind its commander.",
+      "defect": "“Granary” denotes a storage building and does not fit an army spread over sprouting farmland; 곡창 here means a broad grain-producing region or breadbasket.",
+      "id": "F05",
+      "rationale": "The surrounding description places the army across expansive cultivated land, not on or inside a grain-storage structure.",
+      "replacement": "The undead legion blanketing the vast breadbasket advanced slowly behind its commander.",
+      "severity": "minor",
+      "source": "드넓은 곡창(穀倉)을 뒤덮은 언데드 군단이 자신들의 사령관을 따라 천천히 진격한다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "—It’s not possible right now.",
+      "defect": "The draft makes teleportation categorically impossible, although the subsequent discussion establishes that it remains possible but carries an extreme risk.",
+      "id": "F06",
+      "rationale": "곤란해 expresses that the attempt is difficult or problematic in the present circumstances; Johnson immediately explains that interference could kill them rather than saying teleportation cannot be performed.",
+      "replacement": "—It’d be too risky right now.",
+      "severity": "major",
+      "source": "「지금은 곤란해.」"
+    },
+    {
+      "confidence": 0.99,
+      "current": "—Yes. But if you die a dog’s death during the teleportation process, even more people will become casualties.",
+      "defect": "“Die a dog’s death” is an opaque literal calque of 개죽음을 당하다, whose meaning here is to die pointlessly or for nothing.",
+      "id": "F07",
+      "rationale": "Johnson is warning that Jin’s needless death would worsen the broader casualty count; the Korean idiom does not refer literally to the manner of a dog’s death.",
+      "replacement": "—Yes. But if you get yourself killed for nothing during the teleportation, there’ll be even more casualties.",
+      "severity": "major",
+      "source": "「그래. 하지만 텔레포트를 하는 과정에서 네가 개죽음을 당한다면, 더 많은 사상자가 나오겠지.」"
+    },
+    {
+      "confidence": 0.95,
+      "current": "I snorted quietly as I watched Magic Johnson mutter one curse after another.",
+      "defect": "“Snorted” can suggest disdain or irritation and omits the source’s explicit brief laugh.",
+      "id": "F08",
+      "rationale": "피식 웃었다 explicitly describes a short, subdued laugh prompted by Jin already understanding Johnson’s reaction.",
+      "replacement": "I let out a quiet laugh as I watched Magic Johnson mutter one curse after another.",
+      "severity": "minor",
+      "source": "쉴 새 없이 욕설을 중얼거리는 매직 존슨을 보며 나는 피식 웃었다."
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it alters one preparatory command into an immediate action, weakens two causal or hierarchical details, and contains several localized quantity, idiom, and wording errors.",
+  "version": 1
+}

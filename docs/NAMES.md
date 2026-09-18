@@ -1370,3 +1370,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 왕 | **Wang** | Colonel and senior officer who leads the diverted operation. |
 | 랑랑 | **Langlang** | Named casualty mourned at the massacre site. |
 | 롸우양 | **Rao Yang** | Person reported to have clearly heard Jin's confrontation with General Liao. |
+| 검은 기사 | **Black Knight** | Unnamed undead commander and leader title. |
+| 데스나이트 | **Death Knight** | Undead commander type serving under the Black Knight. |
+| 공안무력부 | **Public Security Armed Forces Department** | Chinese security organization ordered to assemble during the attack. |
+| 악사르 | **Aksar** | Demon Realm word spoken by the Black Knight. |
+| 가로쉬 | **Garosh** | Demon Realm word spoken by the Black Knight. |
