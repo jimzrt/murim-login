@@ -237,6 +237,14 @@ IN_FLIGHT_STAGES = {
     "CHECKPOINT_REVIEWED", "CHECKPOINT_APPLIED", "ACCEPTED",
 }
 MASTERING_IN_FLIGHT_STAGES = {"MASTERED"}
+ACTIVE_OVERLAY_STAGES = {
+    "SNAPSHOTTED",
+    "MASTERED",
+    "ADJUDICATED",
+    "ASSEMBLED",
+    "VERIFIED",
+    "QA_FAILED",
+}
 
 
 def _unique_incomplete(found: list[int], label: str) -> int | None:
@@ -278,6 +286,34 @@ def incomplete_mastering_chapter() -> int | None:
             if isinstance(number, int) and state.get("stage") in MASTERING_IN_FLIGHT_STAGES:
                 found.append(number)
     return _unique_incomplete(found, "mastering")
+
+
+def active_mastering_chapters() -> list[int]:
+    found: set[int] = set()
+    work = ROOT / ".work"
+    if work.is_dir():
+        for path in work.glob("[0-9][0-9][0-9][0-9]/workflow.json"):
+            try:
+                state = json.loads(path.read_text(encoding="utf-8"))
+            except (OSError, json.JSONDecodeError):
+                continue
+            number = state.get("chapter")
+            if isinstance(number, int) and state.get("stage") in MASTERING_IN_FLIGHT_STAGES:
+                found.add(number)
+    overlay_root = ROOT / "reviews" / "mastering"
+    if overlay_root.is_dir():
+        for path in overlay_root.glob("[0-9][0-9][0-9][0-9]/state.json"):
+            try:
+                state = json.loads(path.read_text(encoding="utf-8"))
+            except (OSError, json.JSONDecodeError):
+                continue
+            try:
+                number = int(path.parent.name)
+            except ValueError:
+                continue
+            if state.get("stage") in ACTIVE_OVERLAY_STAGES:
+                found.add(number)
+    return sorted(found)
 
 
 def record_failed_model_output(path: Path, raw: str, error: Exception) -> None:

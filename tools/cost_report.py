@@ -300,6 +300,14 @@ def load_mastering_adjudication(root: Path) -> tuple[dict, dict[str, dict]]:
     return totals, per_chapter
 
 
+def refine_metric_rows(value: object) -> list[dict]:
+    if isinstance(value, list):
+        return [item for item in value if isinstance(item, dict)]
+    if isinstance(value, dict) and value:
+        return [value]
+    return []
+
+
 def format_adjudication(counts: dict) -> str:
     extra = f", other {counts['other']}" if counts.get("other") else ""
     return (
@@ -386,7 +394,7 @@ def build_report(*, live_usage: bool = False) -> dict:
         value = json.loads(path.read_text(encoding="utf-8"))
         usage = blank_usage()
         exact_calls = 0
-        for metric in [*value.get("review_metrics", []), value.get("refine_metrics", {})]:
+        for metric in [*value.get("review_metrics", []), *refine_metric_rows(value.get("refine_metrics"))]:
             if metric and metric.get("exact") is True:
                 add_usage(usage, metric)
                 exact_calls += 1

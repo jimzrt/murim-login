@@ -19,9 +19,9 @@ from run_lock import hold_commit_lock, hold_run_lock
 try:
     from tools.workflow import (
         accept_allowed_paths,
+        active_mastering_chapters,
         command_committed,
         incomplete_chapter,
-        incomplete_mastering_chapter,
         is_harness_artifact,
         master_owns_path,
         paths,
@@ -29,9 +29,9 @@ try:
 except ModuleNotFoundError:
     from workflow import (
         accept_allowed_paths,
+        active_mastering_chapters,
         command_committed,
         incomplete_chapter,
-        incomplete_mastering_chapter,
         is_harness_artifact,
         master_owns_path,
         paths,
@@ -75,10 +75,15 @@ def allowed_change(path: str, chapter: int) -> bool:
 
 
 def foreign_master_paths(dirty: list[str]) -> set[str]:
-    mastering = incomplete_mastering_chapter()
-    if mastering is None:
-        return {path for path in dirty if path.startswith("reviews/mastering/")}
-    return {path for path in dirty if master_owns_path(path, mastering)}
+    active = active_mastering_chapters()
+    foreign: set[str] = set()
+    for path in dirty:
+        if path.startswith("reviews/mastering/"):
+            foreign.add(path)
+            continue
+        if any(master_owns_path(path, number) for number in active):
+            foreign.add(path)
+    return foreign
 
 
 def require_repository(chapter: int, *, resume: bool) -> None:

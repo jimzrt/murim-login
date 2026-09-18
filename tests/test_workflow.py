@@ -477,6 +477,24 @@ class WorkflowTest(unittest.TestCase):
             )
         self.assertEqual(workflow.incomplete_chapter(), 14)
 
+    def test_active_mastering_chapters_include_overlays_and_mastered_primary(self):
+        work = self.root / ".work"
+        folder = work / "0010"
+        folder.mkdir(parents=True)
+        (folder / "workflow.json").write_text(
+            '{"chapter":10,"stage":"MASTERED","artifacts":{}}\n',
+            encoding="utf-8",
+        )
+        overlay = self.root / "reviews" / "mastering"
+        for number, stage in ((2, "SNAPSHOTTED"), (160, "PROMOTED"), (166, "SNAPSHOTTED")):
+            path = overlay / f"{number:04d}"
+            path.mkdir(parents=True)
+            (path / "state.json").write_text(
+                json.dumps({"chapter": number, "stage": stage, "qa_passed": stage == "PROMOTED"}),
+                encoding="utf-8",
+            )
+        self.assertEqual(workflow.active_mastering_chapters(), [2, 10, 166])
+        self.assertEqual(workflow.incomplete_mastering_chapter(), 10)
 
     def test_every_revised_chapter_asks_for_generated_update(self):
         state, paths = workflow.load(1)

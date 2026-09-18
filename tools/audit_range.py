@@ -332,6 +332,66 @@ sanitize register.
 """
 
 
+def subset_review(review_data: dict, chapters: list[int]) -> dict:
+    allowed = set(chapters)
+    findings = [item for item in review_data["findings"] if item["chapter"] in allowed]
+    return {
+        "summary": f"{len(findings)} findings in chapters {chapters[0]}-{chapters[-1]}",
+        "findings": findings,
+    }
+
+
+def packet_fits(start: int, end: int, review_data: dict, limit: int) -> tuple[bool, int, str]:
+    packet = build_refine_packet(start, end, review_data)
+    tokens = estimated_tokens(packet)
+    return tokens <= limit, tokens, packet
+
+
+def split_chapter_group(chapters: list[int], review_data: dict, limit: int) -> list[list[int]]:
+    if not chapters:
+        return []
+    subset = subset_review(review_data, chapters)
+    fits, tokens, _packet = packet_fits(chapters[0], chapters[-1], subset, limit)
+    if fits:
+        return [chapters]
+    if len(chapters) == 1:
+        raise SystemExit(
+            f"refinement packet estimate {tokens} exceeds {limit} for chapter {chapters[0]}"
+        )
+    mid = max(1, len(chapters) // 2)
+    return split_chapter_group(chapters[:mid], review_data, limit) + split_chapter_group(
+        chapters[mid:], review_data, limit
+    )
+
+
+def refine_groups(state: dict, review_data: dict, limit: int) -> list[list[int]]:
+    groups: list[list[int]] = []
+    for block in state["blocks"]:
+        chapters = [
+            number for number in block["chapters"]
+            if any(item["chapter"] == number for item in review_data["findings"])
+        ]
+        groups.extend(split_chapter_group(chapters, review_data, limit))
+    covered = {number for group in groups for number in group}
+    leftovers = sorted(
+        {item["chapter"] for item in review_data["findings"] if item["chapter"] not in covered}
+    )
+    groups.extend(split_chapter_group(leftovers, review_data, limit))
+    return groups
+
+
+def run_refine_group(directory: Path, group: list[int], review_data: dict) -> tuple[dict, dict, int]:
+    subset = subset_review(review_data, group)
+    packet = build_refine_packet(group[0], group[-1], subset)
+    tokens = estimated_tokens(packet)
+    name = f"{group[0]:04d}-{group[-1]:04d}"
+    packet_path = directory / f"refine-packet-{name}.md"
+    atomic_text(packet_path, packet)
+    raw, metrics, _call = run_omp(packet_path, project_config()["review_model"], 960)
+    patchset = validate_patchset(parse_json_object(raw), subset)
+    return patchset, metrics, tokens
+
+
 def apply_patchset(patchset: dict, originals: dict[int, str]) -> dict[int, str]:
     revised = dict(originals)
     for patch in patchset["patches"]:
@@ -345,7 +405,7 @@ def apply_patchset(patchset: dict, originals: dict[int, str]) -> dict[int, str]:
     return revised
 
 
-def refine(start: int, end: int) -> dict:
+def refine(start: int, end: int, jobs: int | None = None) -> dict:
     state = load_state(start, end)
     if state["stage"] != "REVIEWED":
         raise SystemExit(f"audit stage is {state['stage']}; expected REVIEWED")
@@ -358,16 +418,43 @@ def refine(start: int, end: int) -> dict:
         atomic_json(directory / "patchset.json", {"version": 1, "summary": "No findings", "patches": [], "dispositions": []})
         atomic_json(state_path(start, end), state)
         return state
-    packet = build_refine_packet(start, end, review_data)
     limit = int(project_config()["retrofit_refine_token_limit"])
-    tokens = estimated_tokens(packet)
-    if tokens > limit:
-        raise SystemExit(f"refinement packet estimate {tokens} exceeds {limit}")
-    packet_path = directory / "refine-packet.md"
-    atomic_text(packet_path, packet)
-    raw, metrics, _call = run_omp(packet_path, project_config()["review_model"], 960)
+    groups = refine_groups(state, review_data, limit)
+    workers = max(1, jobs if jobs is not None else int(project_config()["retrofit_parallel_jobs"]))
+    results: dict[int, tuple[dict, dict, int]] = {}
+    with ThreadPoolExecutor(max_workers=max(1, min(workers, len(groups)))) as executor:
+        futures = {
+            executor.submit(run_refine_group, directory, group, review_data): index
+            for index, group in enumerate(groups)
+        }
+        for future in as_completed(futures):
+            index = futures[future]
+            try:
+                results[index] = future.result()
+            except (ValueError, SystemExit) as error:
+                raise SystemExit(
+                    f"refine block {groups[index][0]}-{groups[index][-1]} failed: {error}"
+                ) from None
+    patches: list[dict] = []
+    dispositions: list[dict] = []
+    metrics_records: list[dict] = []
+    total_tokens = 0
+    for index, group in enumerate(groups):
+        patchset, metrics, tokens = results[index]
+        name = f"{group[0]:04d}-{group[-1]:04d}"
+        atomic_json(directory / f"patchset-{name}.json", patchset)
+        patches.extend(patchset["patches"])
+        dispositions.extend(patchset["dispositions"])
+        total_tokens += tokens
+        metrics_records.append({"block": name, **metrics, "packet_token_estimate": tokens})
+    patchset = {
+        "version": 1,
+        "summary": f"{len(patches)} patches across {len(groups)} refine blocks",
+        "patches": patches,
+        "dispositions": dispositions,
+    }
     try:
-        patchset = validate_patchset(parse_json_object(raw), review_data)
+        patchset = validate_patchset(patchset, review_data)
     except ValueError as error:
         raise SystemExit(str(error)) from None
     confidence = {item["id"]: item["confidence"] for item in review_data["findings"]}
@@ -408,8 +495,8 @@ def refine(start: int, end: int) -> dict:
     atomic_json(directory / "patchset.json", patchset)
     state["stage"] = "REFINED"
     state["changed_chapters"] = changed
-    state["refine_metrics"] = metrics
-    state["refine_packet_token_estimate"] = tokens
+    state["refine_metrics"] = metrics_records
+    state["refine_packet_token_estimate"] = total_tokens
     atomic_json(state_path(start, end), state)
     return state
 
@@ -453,7 +540,7 @@ def run_all(start: int, end: int, block_size: int, jobs: int, dry_run: bool) -> 
         if state["stage"] == "PREPARED":
             state = review(start, end, jobs)
         elif state["stage"] == "REVIEWED":
-            state = refine(start, end)
+            state = refine(start, end, jobs)
         elif state["stage"] == "REFINED":
             state = verify(start, end)
         else:
@@ -470,7 +557,7 @@ def main() -> int:
         item.add_argument("end", type=int)
         if name in {"prepare", "run"}:
             item.add_argument("--block-size", type=int, default=project_config()["retrofit_block_size"])
-        if name in {"review", "run"}:
+        if name in {"review", "refine", "run"}:
             item.add_argument("--jobs", type=int, default=project_config()["retrofit_parallel_jobs"])
         if name == "run":
             item.add_argument("--dry-run", action="store_true")
@@ -489,7 +576,7 @@ def main() -> int:
             review(args.start, args.end, args.jobs)
             status(args.start, args.end)
         elif args.command == "refine":
-            refine(args.start, args.end)
+            refine(args.start, args.end, args.jobs)
             status(args.start, args.end)
         elif args.command == "verify":
             verify(args.start, args.end)
