@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "“Huashan… Isn’t that one of those places called the Nine Sects and One Gang, or something?”",
+      "defect": "The City Lord incorrectly calls Huashan one of the Ten Great Sects, prompting the guard to correct him. The draft instead gives him the correct Nine Sects and One Gang classification, making the correction that follows redundant and altering his knowledge.",
+      "id": "F01",
+      "rationale": "십대 문파 means “Ten Great Sects,” while the following line explicitly corrects that mistaken term to 구파일방, the Nine Sects and One Gang.",
+      "replacement": "“Huashan… Isn’t that one of those Ten Great Sects or whatever they’re called?”",
+      "severity": "critical",
+      "source": "“화산파라면…… 십대 문파인가, 뭔가 하는 곳이 아닌가?”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "*It’s obviously a request for some filthy favor. This is why you shouldn’t accept things from lowborn people too easily.*",
+      "defect": "The draft omits 들어 보나 마나, the dismissive cue that he has already judged the visitors without hearing them out.",
+      "id": "F02",
+      "rationale": "들어 보나 마나 explicitly conveys that listening would make no difference, reinforcing the City Lord’s prejudgment and contempt.",
+      "replacement": "*No need to hear him out. He’s obviously here to ask for some filthy favor. This is why you shouldn’t accept things from lowborn people too easily.*",
+      "severity": "minor",
+      "source": "‘들어 보나 마나 청탁이겠지. 이래서 천한 것들이 주는 건 쉽게 받는 것이 아닌데.’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I am only granting you this special audience because you asked.”",
+      "defect": "The draft makes it sound as though the City Lord is granting the concubine an audience. He is telling her that he is agreeing to meet the visitors as a special favor because she asked.",
+      "id": "F03",
+      "rationale": "만나 주는 것이다 refers to his condescending agreement to meet Jin Taekyung and Cheongpung, not to an audience granted to the concubine.",
+      "replacement": "“I’m only agreeing to meet them as a special favor because you asked.”",
+      "severity": "major",
+      "source": "“내 너의 부탁이니 특별히 만나 주는 것이다.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "*Effect: tremendous!*",
+      "defect": "The literal phrasing is unnatural and loses the recognizable game-style punchline.",
+      "id": "F04",
+      "rationale": "효과는 굉장했다 is the conventional Korean rendering of the game message “It was super effective,” which fits the preceding mock command.",
+      "replacement": "*It was super effective!*",
+      "severity": "minor",
+      "source": "효과는 굉장했다!"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Good grief. Had he eaten a train whistle as a rare item?",
+      "defect": "레어로 means cooked rare, not “as a rare item,” and 화통 is the locomotive’s smokestack rather than its whistle. The draft consequently loses the modified idiom’s cooking joke.",
+      "id": "F05",
+      "rationale": "The line comically modifies the expression about eating a locomotive smokestack—having an extraordinarily loud voice—by specifying that it was cooked rare.",
+      "replacement": "Good grief. Did he cook a locomotive smokestack rare and eat it?",
+      "severity": "minor",
+      "source": "깜짝이야. 기차 화통을 레어로 익혀 먹었나."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Spring flowers were blooming one by one outside, but in here the smell of night flowers was overpowering.",
+      "defect": "밤꽃 means chestnut blossoms, not “night flowers.” The mistranslation removes the source’s euphemistic sexual joke about their distinctive smell.",
+      "id": "F06",
+      "rationale": "밤꽃 is the ordinary Korean term for chestnut blossoms, whose smell supplies the deliberately euphemistic implication in this bedroom scene.",
+      "replacement": "Spring flowers were blooming one by one outside, but in here the smell of chestnut blossoms was overpowering.",
+      "severity": "major",
+      "source": "밖에는 하나둘씩 봄꽃이 피는데 여긴 밤꽃 냄새가 진동한다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "His hobbies were accepting bribes from all over the place and indulging in wine, women, and gambling.",
+      "defect": "The draft collapses the comic hobby-versus-specialty parallel, removes the vulgar force of 처먹기, and drops the framing that this was his established reputation.",
+      "id": "F07",
+      "rationale": "취미는… 특기는… is an intentional parallel characterization joke, 처먹기 is contemptuously vulgar, and 정평이 나 있더라 marks these traits as his public reputation.",
+      "replacement": "His hobby was gobbling up bribes wherever he could get them, and his specialty was wine, women, and gambling—or so everyone said.",
+      "severity": "major",
+      "source": "취미는 이곳저곳에서 뇌물 받아 처먹기, 특기는 주색잡기라고 정평이 나 있더라."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“The City Lord of Sichuan, Won Gyun, commands this! Let the officials of Sichuan carry out my orders without fail!”\n\nHearing his name had made me trust him considerably less, but a City Lord was still a City Lord.",
+      "defect": "The English retains Taekyung’s unexplained loss of confidence but gives readers no way to understand the historical name joke.",
+      "id": "F08",
+      "rationale": "Taekyung’s reaction depends entirely on the culturally specific association with the historical Won Gyun, making a concise explanatory footnote materially useful.",
+      "replacement": "“The City Lord of Sichuan, Won Gyun,[^1] commands this! Let the officials of Sichuan carry out my orders without fail!”\n\nHearing his name had made me trust him considerably less, but a City Lord was still a City Lord.\n\n[^1]: Won Gyun shares his name with a Korean admiral infamous for disastrous incompetence.",
+      "severity": "minor",
+      "source": "“사천성주 원균이 명하노니, 사천의 관리들은 빈틈없이 명한 바를 행하라!”\n\n이름을 듣고 상당히 신뢰도가 떨어지긴 했는데, 역시 성주는 성주였다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Internal Injury.",
+      "defect": "This is narration diagnosing her condition, not a System condition panel, so the capitalized label reads unnaturally as a fragment.",
+      "id": "F09",
+      "rationale": "The copular sentence identifies the cause of the blood in ordinary narration; adding the article and using sentence case preserves the terse diagnosis naturally.",
+      "replacement": "An internal injury.",
+      "severity": "minor",
+      "source": "내상(內傷)이다."
+    }
+  ],
+  "summary": "One critical factual alteration in the sect classification, plus several meaningful losses or mistranslations involving pragmatic cues, humor, euphemism, and characterization.",
+  "version": 1
+}

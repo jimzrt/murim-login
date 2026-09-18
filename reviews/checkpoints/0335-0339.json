@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Mungyeong returns to his Master with medicinal prescriptions and herbs;",
+      "defect": "The summary presents Mungyeong’s return as completed, although Chapter 338 only shows him parting ways with the group to begin that return. It also unnecessarily capitalizes the generic title “master.”",
+      "id": "C01",
+      "rationale": "This matches the last observed action without asserting an off-page arrival and follows the reading copy’s capitalization.",
+      "replacement": "Mungyeong parts ways with the group to return to his master, carrying medicinal prescriptions and herbs;",
+      "severity": "minor",
+      "source": "Checkpoint summary, Plot"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Mungyeong has returned to his Master after obtaining medicinal prescriptions and herbs from the Sichuan Tang Clan.",
+      "defect": "The durable state records Mungyeong’s arrival at his master as established fact, but the reading copy only establishes that he left Taekyung’s group intending to return. The generic title is also inconsistently capitalized.",
+      "id": "C02",
+      "rationale": "Durable continuity should not convert an intended destination into a completed off-page event, since later chapters may depend on his travel status or location.",
+      "replacement": "Mungyeong has parted ways with Taekyung's group to return to his master after obtaining medicinal prescriptions and herbs from the Sichuan Tang Clan.",
+      "severity": "major",
+      "source": "Checkpoint durable state, active_continuity"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Hyuk Mujin still had not relaxed his eyes as he spoke.",
+      "defect": "“Relaxed his eyes” is an unnatural English collocation and obscures the intended continuation of his narrowed, hostile look.",
+      "id": "C03",
+      "rationale": "The replacement is natural contemporary English and preserves his visibly antagonistic expression.",
+      "replacement": "Hyuk Mujin was still glaring as he spoke.",
+      "severity": "minor",
+      "source": "Chapter 337, discussion of Tang Taesang’s killer"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The City Lord of Sichuan rushed from the bed in his naked body, threw himself flat on the floor, and cried out,",
+      "defect": "“Rushed from the bed in his naked body” is a conspicuous literal-sounding construction that disrupts the brisk comic action.",
+      "id": "C04",
+      "rationale": "This conveys the same physical action more naturally and keeps the comic timing sharp.",
+      "replacement": "The City Lord of Sichuan sprang naked from the bed, threw himself flat on the floor, and cried out,",
+      "severity": "minor",
+      "source": "Chapter 339, City Lord’s reaction to Prince Shangshan’s Token"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The hundreds of Disciples who had descended the mountain alongside the two Elders of the Qingcheng Sect were exactly the right people for the task.",
+      "defect": "The generic noun “Disciples” is incorrectly capitalized and differs from its normal lowercase treatment elsewhere in the packet.",
+      "id": "C05",
+      "rationale": "Only the established formal title “Elders” warrants capitalization here; lowercasing “disciples” restores consistent prose formatting.",
+      "replacement": "The hundreds of disciples who had descended the mountain alongside the two Elders of the Qingcheng Sect were exactly the right people for the task.",
+      "severity": "minor",
+      "source": "Chapter 339, deployment of the Qingcheng search party"
+    }
+  ],
+  "summary": "The packet is broadly consistent and preserves the active hooks, but it twice overstates Mungyeong’s return as completed, and three minor prose or capitalization issues remain in Chapters 337 and 339.",
+  "version": 1
+}
