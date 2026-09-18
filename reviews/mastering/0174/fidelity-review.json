@@ -1,16 +1,5 @@
 {
-  "findings": [
-    {
-      "confidence": 1.0,
-      "current": "“Right, Grandpa Jeok?”\n\n“…”\n\nAt last, Jeok Cheongang’s voice emerged, hoarse and raspy.",
-      "defect": "Jeok Cheongang’s explicit confirmation, “그래” (“Yes”), is omitted and replaced with only an ellipsis.",
-      "id": "F01",
-      "rationale": "The source has “…그래,” explicitly confirming Cheongpung’s statement that Jin Taekyung is alive and merely unconscious from an Internal Injury.",
-      "replacement": "“Right, Grandpa Jeok?”\n\n“…Yes.”\n\nAt last, Jeok Cheongang’s voice emerged, hoarse and raspy.",
-      "severity": "minor",
-      "source": "lines 267–271"
-    }
-  ],
-  "summary": "The chapter is faithful overall, with one omitted confirmation in dialogue.",
+  "findings": [],
+  "summary": "The assembled English is faithful to the Korean source with no fidelity defects detected.",
   "version": 1
 }

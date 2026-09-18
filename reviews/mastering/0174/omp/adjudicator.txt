@@ -1,1 +1,666 @@
-I'll adjudicate the ten hunks against the Korean, glossary, and both English versions, then return the required JSON. Checking project mastering conventions and any established renderings that could bind these choices.{"chapter": 174, "decisions": [{"hunk_id": "H001", "decision": "SOL", "reason": "어? is a startled recognition; Huh? matches that beat, while Wait? adds a pause-and-rethink the Korean does not use."}, {"hunk_id": "H002", "decision": "SOL", "reason": "지금이라도 is even now / at the very least now, especially after 이미 늦었다; before it was too late reverses that timing."}, {"hunk_id": "H003", "decision": "SOL", "reason": "그건 또 어디서 is an exasperated spoken follow-up; And where… carries the additive 또 more naturally than a tagged-on too."}, {"hunk_id": "H004", "decision": "SOL", "reason": "후우우웅’s 웅 is a resonant whoom of gathering energy, not a wind whoosh, and it should not duplicate 화아아악."}, {"hunk_id": "H005", "decision": "SOL", "reason": "Same 살날이 얼마 남지 않은 meaning, without BASE’s stacked no longer… who did not negation."}, {"hunk_id": "H006", "decision": "BASE", "reason": "천륜(天倫) is the sacred/heaven-ordained kinship ethic; dropping sacred flattens Jeok Cheongang’s accusation."}, {"hunk_id": "H007", "decision": "SOL", "reason": "화아아악 is a fire-rush blast; Fwoooosh matches 화 and keeps it distinct from 후우우웅."}, {"hunk_id": "H008", "decision": "BASE", "reason": "파공음 is air splitting, not a roar; roar also collides with the 포효 in P82 and the later 굉음."}, {"hunk_id": "H009", "decision": "REPAIR", "replacement": "Jang Taebo burst out in frustration and was just about to check on the young man, Jin Taekyung, when a clear voice stopped him.", "reason": "BASE’s young man—Jin Taekyung’s—condition is broken English; SOL’s cut him off turns 가로막은 from blocking his approach into speech interruption."}, {"hunk_id": "H010", "decision": "SOL", "reason": "이런 빌어먹을 늙은이를 봤나 is the rhetorical have you ever seen such a damned old man; BASE invents what’s wrong with and old bastard."}]}
+{
+  "chapter": 174,
+  "decisions": [
+    {
+      "hunk_id": "H001",
+      "decision": "SOL",
+      "reason": "SOL keeps the surprised interjection and conversational voice."
+    },
+    {
+      "hunk_id": "H002",
+      "decision": "SOL",
+      "reason": "SOL preserves the meaning in natural internal narration."
+    },
+    {
+      "hunk_id": "H003",
+      "decision": "SOL",
+      "reason": "SOL keeps the muzzle image and informal profanity."
+    },
+    {
+      "hunk_id": "H004",
+      "decision": "SOL",
+      "reason": "SOL preserves the human-versus-beast characterization naturally."
+    },
+    {
+      "hunk_id": "H005",
+      "decision": "SOL",
+      "reason": "SOL keeps the unleashed pit bull image and frantic tone."
+    },
+    {
+      "hunk_id": "H006",
+      "decision": "SOL",
+      "reason": "SOL preserves the violent anecdote and its comic sound effects."
+    },
+    {
+      "hunk_id": "H007",
+      "decision": "SOL",
+      "reason": "SOL keeps the pleading interruption and insult."
+    },
+    {
+      "hunk_id": "H008",
+      "decision": "SOL",
+      "reason": "SOL better preserves the narrator's immediate desire to silence Cheongpung."
+    },
+    {
+      "hunk_id": "H009",
+      "decision": "SOL",
+      "reason": "SOL keeps the direct insult and natural spoken phrasing."
+    },
+    {
+      "hunk_id": "H010",
+      "decision": "SOL",
+      "reason": "SOL preserves the spoken pause by folding it into the following line."
+    },
+    {
+      "hunk_id": "H011",
+      "decision": "SOL",
+      "reason": "SOL keeps the questioning beat naturally; the omitted 또 is pragmatic rather than a lost fact."
+    },
+    {
+      "hunk_id": "H012",
+      "decision": "SOL",
+      "reason": "SOL is a natural recast of saying he was close to Benefactor."
+    },
+    {
+      "hunk_id": "H013",
+      "decision": "BASE",
+      "reason": "SOL drops the source's explicit frequency marker 자주; BASE preserves that he disappeared often."
+    },
+    {
+      "hunk_id": "H014",
+      "decision": "REPAIR",
+      "replacement": "While staying with the Jin Family of Taiyuan, he must have wandered all over the place, eating plenty and listening to what people had to say.",
+      "reason": "Both versions omit the source's emphasis that he ate and heard a lot; this repair restores that quantity naturally."
+    },
+    {
+      "hunk_id": "H015",
+      "decision": "SOL",
+      "reason": "SOL keeps the causal blame and conversational voice."
+    },
+    {
+      "hunk_id": "H016",
+      "decision": "SOL",
+      "reason": "SOL preserves the emphatic reassurance naturally."
+    },
+    {
+      "hunk_id": "H017",
+      "decision": "SOL",
+      "reason": "SOL keeps the generalization about rumors in natural English."
+    },
+    {
+      "hunk_id": "H018",
+      "decision": "SOL",
+      "reason": "SOL preserves the dismissal with natural spoken emphasis."
+    },
+    {
+      "hunk_id": "H019",
+      "decision": "SOL",
+      "reason": "SOL naturally renders the hands visibly blazing red."
+    },
+    {
+      "hunk_id": "H020",
+      "decision": "SOL",
+      "reason": "SOL keeps the elongated rushing sound effect."
+    },
+    {
+      "hunk_id": "H021",
+      "decision": "SOL",
+      "reason": "SOL preserves the overwhelming flow of internal energy."
+    },
+    {
+      "hunk_id": "H022",
+      "decision": "SOL",
+      "reason": "SOL keeps the shattered cold, desert heat, and lung-searing effect."
+    },
+    {
+      "hunk_id": "H023",
+      "decision": "SOL",
+      "reason": "SOL preserves the realization and technique name in a tighter line."
+    },
+    {
+      "hunk_id": "H024",
+      "decision": "SOL",
+      "reason": "SOL retains the deliberate repetition while improving the fragment's flow."
+    },
+    {
+      "hunk_id": "H025",
+      "decision": "SOL",
+      "reason": "SOL naturally preserves that Jeok Cheongang was near the end of his life."
+    },
+    {
+      "hunk_id": "H026",
+      "decision": "SOL",
+      "reason": "SOL keeps the accusation and rhetorical challenge in natural dialogue."
+    },
+    {
+      "hunk_id": "H027",
+      "decision": "SOL",
+      "reason": "SOL preserves the interrupted plea without changing its substance."
+    },
+    {
+      "hunk_id": "H028",
+      "decision": "SOL",
+      "reason": "SOL keeps the immediate self-reproach in natural tense."
+    },
+    {
+      "hunk_id": "H029",
+      "decision": "SOL",
+      "reason": "SOL preserves the narrator's frantic babbling and attempted explanation."
+    },
+    {
+      "hunk_id": "H030",
+      "decision": "BASE",
+      "reason": "SOL intensifies 시바 from “Shit” to “Fuck” and drops the source's point that he must be allowed to explain before judgment."
+    },
+    {
+      "hunk_id": "H031",
+      "decision": "SOL",
+      "reason": "SOL preserves the momentary lapse in awareness naturally."
+    },
+    {
+      "hunk_id": "H032",
+      "decision": "SOL",
+      "reason": "SOL keeps the simple offense, the thousand deaths, and the contrast with “profound” and “complicated.”"
+    },
+    {
+      "hunk_id": "H033",
+      "decision": "SOL",
+      "reason": "SOL keeps the elongated flame sound effect."
+    },
+    {
+      "hunk_id": "H034",
+      "decision": "SOL",
+      "reason": "SOL preserves the blunt, fiery characterization in idiomatic English."
+    },
+    {
+      "hunk_id": "H035",
+      "decision": "SOL",
+      "reason": "SOL keeps the wide-eyed reaction naturally."
+    },
+    {
+      "hunk_id": "H036",
+      "decision": "SOL",
+      "reason": "SOL preserves the slowed-time image and the palm's movement."
+    },
+    {
+      "hunk_id": "H037",
+      "decision": "SOL",
+      "reason": "SOL keeps the food comparison and hot-chili image."
+    },
+    {
+      "hunk_id": "H038",
+      "decision": "BASE",
+      "reason": "SOL changes the source's survival uncertainty into the stronger assertion that the attack could easily kill him."
+    },
+    {
+      "hunk_id": "H039",
+      "decision": "SOL",
+      "reason": "SOL naturally emphasizes that not even a finger could move."
+    },
+    {
+      "hunk_id": "H040",
+      "decision": "SOL",
+      "reason": "SOL preserves the cause of the slow-motion perception and the unchanged relative speeds."
+    },
+    {
+      "hunk_id": "H041",
+      "decision": "BASE",
+      "reason": "The source says he tried to raise a hand; SOL changes the physical action to raising both hands."
+    },
+    {
+      "hunk_id": "H042",
+      "decision": "SOL",
+      "reason": "SOL preserves the despair framing and burning palm image."
+    },
+    {
+      "hunk_id": "H043",
+      "decision": "SOL",
+      "reason": "SOL keeps the immediate timing beat naturally."
+    },
+    {
+      "hunk_id": "H044",
+      "decision": "SOL",
+      "reason": "SOL preserves the rushing projectile sound and impact timing."
+    },
+    {
+      "hunk_id": "H045",
+      "decision": "SOL",
+      "reason": "SOL keeps the direct physical impact with appropriately forceful action prose."
+    },
+    {
+      "hunk_id": "H046",
+      "decision": "SOL",
+      "reason": "SOL preserves the vivid violet Sword Energy."
+    },
+    {
+      "hunk_id": "H047",
+      "decision": "SOL",
+      "reason": "SOL keeps the desperation attached to Cheongpung's cry."
+    },
+    {
+      "hunk_id": "H048",
+      "decision": "SOL",
+      "reason": "SOL removes the redundant sentence while retaining the desperation in the preceding line."
+    },
+    {
+      "hunk_id": "H049",
+      "decision": "SOL",
+      "reason": "SOL preserves that the palm was only slowed briefly."
+    },
+    {
+      "hunk_id": "H050",
+      "decision": "BASE",
+      "reason": "SOL changes the source's singular decisive instant into a generalized plural; BASE preserves the immediate life-or-death timing."
+    },
+    {
+      "hunk_id": "H051",
+      "decision": "SOL",
+      "reason": "SOL naturally renders the internal energy awakening."
+    },
+    {
+      "hunk_id": "H052",
+      "decision": "SOL",
+      "reason": "SOL preserves the wildfire image and movement through the acupoints."
+    },
+    {
+      "hunk_id": "H053",
+      "decision": "SOL",
+      "reason": "The plural “my hands” naturally conveys the source's two hands."
+    },
+    {
+      "hunk_id": "H054",
+      "decision": "SOL",
+      "reason": "SOL preserves the forward thrust and contact with the Flame Divine Palm."
+    },
+    {
+      "hunk_id": "H055",
+      "decision": "SOL",
+      "reason": "SOL keeps the absurdity of resorting to bare hands."
+    },
+    {
+      "hunk_id": "H056",
+      "decision": "SOL",
+      "reason": "SOL preserves the self-mocking description of the desperate plan."
+    },
+    {
+      "hunk_id": "H057",
+      "decision": "SOL",
+      "reason": "SOL keeps the soul-deep roar in tighter prose."
+    },
+    {
+      "hunk_id": "H058",
+      "decision": "SOL",
+      "reason": "SOL preserves the exact contact beat and its transition into the impact."
+    },
+    {
+      "hunk_id": "H059",
+      "decision": "SOL",
+      "reason": "SOL keeps the deafening air-splitting blast."
+    },
+    {
+      "hunk_id": "H060",
+      "decision": "SOL",
+      "reason": "SOL preserves the thunderous impact splitting the sky."
+    },
+    {
+      "hunk_id": "H061",
+      "decision": "SOL",
+      "reason": "SOL keeps the pause before the destruction begins."
+    },
+    {
+      "hunk_id": "H062",
+      "decision": "SOL",
+      "reason": "SOL makes the antecedent clear while preserving the total destruction."
+    },
+    {
+      "hunk_id": "H063",
+      "decision": "SOL",
+      "reason": "SOL preserves the care and effort invested in the wall."
+    },
+    {
+      "hunk_id": "H064",
+      "decision": "SOL",
+      "reason": "SOL keeps the ash settling onto the old man's hair."
+    },
+    {
+      "hunk_id": "H065",
+      "decision": "SOL",
+      "reason": "SOL naturally conveys uncontrolled trembling."
+    },
+    {
+      "hunk_id": "H066",
+      "decision": "BASE",
+      "reason": "SOL replaces the source's long-lifetime mountain-and-river image with an unsupported exact duration."
+    },
+    {
+      "hunk_id": "H067",
+      "decision": "SOL",
+      "reason": "SOL preserves why his lack of martial training let him meet many people."
+    },
+    {
+      "hunk_id": "H068",
+      "decision": "SOL",
+      "reason": "SOL keeps the desperate offer of his head in natural pleading English."
+    },
+    {
+      "hunk_id": "H069",
+      "decision": "SOL",
+      "reason": "SOL preserves the identity check without adding unnecessary emphasis."
+    },
+    {
+      "hunk_id": "H070",
+      "decision": "SOL",
+      "reason": "SOL naturally combines the list and the fact that these people sought him out."
+    },
+    {
+      "hunk_id": "H071",
+      "decision": "SOL",
+      "reason": "SOL is an idiomatic rendering of people from every kind of background."
+    },
+    {
+      "hunk_id": "H072",
+      "decision": "BASE",
+      "reason": "SOL changes the source's cooling process into being plunged into cold, adding a specific quenching action."
+    },
+    {
+      "hunk_id": "H073",
+      "decision": "SOL",
+      "reason": "SOL preserves the long ordeal and the final acquisition of a soul."
+    },
+    {
+      "hunk_id": "H074",
+      "decision": "SOL",
+      "reason": "SOL keeps the duty of choosing a worthy master."
+    },
+    {
+      "hunk_id": "H075",
+      "decision": "SOL",
+      "reason": "SOL naturally renders the killing-blade and life-giving-blade contrast."
+    },
+    {
+      "hunk_id": "H076",
+      "decision": "SOL",
+      "reason": "SOL preserves the care with which he accepts commissions."
+    },
+    {
+      "hunk_id": "H077",
+      "decision": "SOL",
+      "reason": "SOL keeps the parallel characterization and independent path."
+    },
+    {
+      "hunk_id": "H078",
+      "decision": "SOL",
+      "reason": "SOL preserves the variety of people and their return to the Murim."
+    },
+    {
+      "hunk_id": "H079",
+      "decision": "SOL",
+      "reason": "SOL keeps the contrast between those who died and those who survived."
+    },
+    {
+      "hunk_id": "H080",
+      "decision": "SOL",
+      "reason": "SOL states the shared trait naturally."
+    },
+    {
+      "hunk_id": "H081",
+      "decision": "SOL",
+      "reason": "SOL preserves their strength and regional-overlord potential."
+    },
+    {
+      "hunk_id": "H082",
+      "decision": "SOL",
+      "reason": "SOL keeps their ability to protect coveted treasures and use them freely."
+    },
+    {
+      "hunk_id": "H083",
+      "decision": "BASE",
+      "reason": "SOL's “or” changes the source's comparison with both major groupings into an either-or relationship."
+    },
+    {
+      "hunk_id": "H084",
+      "decision": "SOL",
+      "reason": "SOL preserves the repeated realization that this man is different."
+    },
+    {
+      "hunk_id": "H085",
+      "decision": "SOL",
+      "reason": "SOL keeps the diminutive frame and beyond-human aura."
+    },
+    {
+      "hunk_id": "H086",
+      "decision": "SOL",
+      "reason": "SOL naturally covers whether he holds something or not."
+    },
+    {
+      "hunk_id": "H087",
+      "decision": "SOL",
+      "reason": "SOL preserves the recognition of the vaguely imagined Supreme Peak realm."
+    },
+    {
+      "hunk_id": "H088",
+      "decision": "SOL",
+      "reason": "SOL folds the exhalation into the next sentence without losing the action."
+    },
+    {
+      "hunk_id": "H089",
+      "decision": "SOL",
+      "reason": "SOL preserves the strength leaving his body and the object slipping from inside his robe."
+    },
+    {
+      "hunk_id": "H090",
+      "decision": "SOL",
+      "reason": "SOL keeps the mineral's unusual hardness, lightness, and faint glow."
+    },
+    {
+      "hunk_id": "H091",
+      "decision": "SOL",
+      "reason": "SOL preserves the treasure's future role as his life's final masterpiece."
+    },
+    {
+      "hunk_id": "H092",
+      "decision": "SOL",
+      "reason": "SOL naturally renders pulling the Ten-Thousand-Year Cold Iron close to his chest."
+    },
+    {
+      "hunk_id": "H093",
+      "decision": "SOL",
+      "reason": "SOL preserves his return to awareness and forgotten realization."
+    },
+    {
+      "hunk_id": "H094",
+      "decision": "SOL",
+      "reason": "SOL keeps the hurried movement in natural action prose."
+    },
+    {
+      "hunk_id": "H095",
+      "decision": "SOL",
+      "reason": "SOL preserves the burned clothing, nudity, prone position, and immobility."
+    },
+    {
+      "hunk_id": "H096",
+      "decision": "SOL",
+      "reason": "SOL correctly keeps the source's singular hand and rigid expression."
+    },
+    {
+      "hunk_id": "H097",
+      "decision": "SOL",
+      "reason": "SOL preserves the interrupted attempt to examine Jin Taekyung."
+    },
+    {
+      "hunk_id": "H098",
+      "decision": "SOL",
+      "reason": "SOL naturally renders the spoken diagnosis as an ordinary internal injury."
+    },
+    {
+      "hunk_id": "H099",
+      "decision": "SOL",
+      "reason": "SOL keeps the continuation as a complete prose sentence before the dialogue."
+    },
+    {
+      "hunk_id": "H100",
+      "decision": "SOL",
+      "reason": "SOL correctly preserves 그래 as an affirmative response."
+    },
+    {
+      "hunk_id": "H101",
+      "decision": "SOL",
+      "reason": "SOL preserves the delayed response and hoarse voice naturally."
+    },
+    {
+      "hunk_id": "H102",
+      "decision": "SOL",
+      "reason": "SOL keeps both his surprise and complicated inner emotions."
+    },
+    {
+      "hunk_id": "H103",
+      "decision": "SOL",
+      "reason": "SOL preserves the relieved sighs and brief added sentence."
+    },
+    {
+      "hunk_id": "H104",
+      "decision": "SOL",
+      "reason": "SOL keeps the threatening qualification in natural dialogue."
+    },
+    {
+      "hunk_id": "H105",
+      "decision": "SOL",
+      "reason": "SOL preserves the shocked reaction marked by the source's ellipsis and exclamation."
+    },
+    {
+      "hunk_id": "H106",
+      "decision": "SOL",
+      "reason": "SOL preserves the second shocked reaction."
+    },
+    {
+      "hunk_id": "H107",
+      "decision": "SOL",
+      "reason": "SOL keeps the promise to decide after hearing the full story."
+    },
+    {
+      "hunk_id": "H108",
+      "decision": "SOL",
+      "reason": "SOL preserves Jeok Cheongang's strange scrutiny of the fallen Jin Taekyung."
+    },
+    {
+      "hunk_id": "H109",
+      "decision": "SOL",
+      "reason": "SOL naturally renders that he has many things to ask."
+    },
+    {
+      "hunk_id": "H110",
+      "decision": "SOL",
+      "reason": "SOL preserves the dangerous implication that prompts Jang Taebo to intervene."
+    },
+    {
+      "hunk_id": "H111",
+      "decision": "SOL",
+      "reason": "SOL keeps the long-forged firmness of Jang Taebo's resolve."
+    },
+    {
+      "hunk_id": "H112",
+      "decision": "SOL",
+      "reason": "SOL preserves the accusation of intending torture."
+    },
+    {
+      "hunk_id": "H113",
+      "decision": "SOL",
+      "reason": "SOL naturally renders that torture is not his preference but remains possible."
+    },
+    {
+      "hunk_id": "H114",
+      "decision": "SOL",
+      "reason": "SOL keeps the warning about Jin Taekyung's identity and Shanxi's Murim."
+    },
+    {
+      "hunk_id": "H115",
+      "decision": "SOL",
+      "reason": "SOL preserves the brief dismissive laugh."
+    },
+    {
+      "hunk_id": "H116",
+      "decision": "SOL",
+      "reason": "SOL keeps the historical challenge and Jeok Cheongang's defiance."
+    },
+    {
+      "hunk_id": "H117",
+      "decision": "SOL",
+      "reason": "SOL preserves the shocked ellipsis and exclamation."
+    },
+    {
+      "hunk_id": "H118",
+      "decision": "BASE",
+      "reason": "SOL drops the source's image of placing his own weight on the scales of war."
+    },
+    {
+      "hunk_id": "H119",
+      "decision": "SOL",
+      "reason": "SOL preserves the request and Jeok Cheongang's threatening reluctance."
+    },
+    {
+      "hunk_id": "H120",
+      "decision": "SOL",
+      "reason": "SOL keeps his power to make his words real."
+    },
+    {
+      "hunk_id": "H121",
+      "decision": "SOL",
+      "reason": "SOL preserves the grin and departure without adding an unsupported crookedness."
+    },
+    {
+      "hunk_id": "H122",
+      "decision": "BASE",
+      "reason": "SOL changes the action from asking Jeok Cheongang where he is going to calling after him, adding a staging detail."
+    },
+    {
+      "hunk_id": "H123",
+      "decision": "BASE",
+      "reason": "SOL changes the source's past lodging reference into present “must be staying,” altering the tense and proposition."
+    },
+    {
+      "hunk_id": "H124",
+      "decision": "SOL",
+      "reason": "SOL preserves Cheongpung's calm complaint about Jeok Cheongang's strange personality."
+    },
+    {
+      "hunk_id": "H125",
+      "decision": "SOL",
+      "reason": "SOL keeps the hypothetical muzzle reaction and timing."
+    },
+    {
+      "hunk_id": "H126",
+      "decision": "SOL",
+      "reason": "SOL preserves the deep bow; “at the waist” is implicit in English."
+    },
+    {
+      "hunk_id": "H127",
+      "decision": "SOL",
+      "reason": "SOL makes the two separate underarm carries explicit while preserving the brisk escape."
+    },
+    {
+      "hunk_id": "H128",
+      "decision": "SOL",
+      "reason": "SOL preserves Jang Taebo's stunned lingering reaction."
+    },
+    {
+      "hunk_id": "H129",
+      "decision": "SOL",
+      "reason": "SOL naturally preserves the fact he recalled something briefly forgotten."
+    },
+    {
+      "hunk_id": "H130",
+      "decision": "SOL",
+      "reason": "SOL keeps the vocative insult and exasperated profanity."
+    },
+    {
+      "hunk_id": "H131",
+      "decision": "SOL",
+      "reason": "SOL preserves the complaint that even outrageous behavior has limits."
+    },
+    {
+      "hunk_id": "H132",
+      "decision": "SOL",
+      "reason": "SOL keeps the ash drifting in every direction and Jang Taebo's sigh."
+    }
+  ]
+}

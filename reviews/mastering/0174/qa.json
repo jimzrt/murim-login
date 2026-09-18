@@ -2,11 +2,11 @@
   "chapter": 174,
   "errors": [],
   "metrics": {
-    "length_ratio": 2.299,
+    "length_ratio": 2.245,
     "source_characters": 5488,
     "source_paragraphs": 170,
-    "translation_characters": 12617,
-    "translation_paragraphs": 200
+    "translation_characters": 12323,
+    "translation_paragraphs": 197
   },
   "passed": true,
   "version": 1,
@@ -38,6 +38,14 @@
     {
       "code": "terminology",
       "details": {
+        "korean": "신의",
+        "preferred": "Divine Physician"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
         "korean": "진태",
         "preferred": "Jintae"
       },
@@ -48,6 +56,30 @@
       "details": {
         "korean": "세가",
         "preferred": "great family"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "마도",
+        "preferred": "Demonic Path"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "초절",
+        "preferred": "supreme mastery"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "오대",
+        "preferred": "Five Squads"
       },
       "message": "matched preferred term is absent"
     }
