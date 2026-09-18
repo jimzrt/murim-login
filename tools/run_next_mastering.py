@@ -19,6 +19,7 @@ from run_next import changed_paths, commit_paths, git
 try:
     from tools.workflow import (
         accept_allowed_paths,
+        active_mastering_chapters,
         command_committed,
         incomplete_chapter,
         incomplete_mastering_chapter,
@@ -32,6 +33,7 @@ try:
 except ModuleNotFoundError:
     from workflow import (
         accept_allowed_paths,
+        active_mastering_chapters,
         command_committed,
         incomplete_chapter,
         incomplete_mastering_chapter,
@@ -126,13 +128,27 @@ def foreign_translate_paths(dirty: list[str], chapter: int) -> set[str]:
     return {path for path in dirty if path in allowed and not master_owns_path(path, chapter)}
 
 
+def foreign_overlap_paths(dirty: list[str], chapter: int) -> set[str]:
+    foreign = foreign_translate_paths(dirty, chapter)
+    active = [number for number in active_mastering_chapters() if number != chapter]
+    for path in dirty:
+        if master_owns_path(path, chapter):
+            continue
+        if path.startswith("reviews/mastering/"):
+            foreign.add(path)
+            continue
+        if any(master_owns_path(path, number) for number in active):
+            foreign.add(path)
+    return foreign
+
+
 def require_repository(chapter: int, *, resume: bool) -> None:
     try:
         git("rev-parse", "--verify", "HEAD")
         dirty = changed_paths()
     except subprocess.CalledProcessError as error:
         raise SystemExit(error.stderr.strip() or "project must be an initialized Git repository") from None
-    foreign = foreign_translate_paths(dirty, chapter)
+    foreign = foreign_overlap_paths(dirty, chapter)
     allowed_accept = accept_allowed_paths(chapter) if resume else set()
     harness = [path for path in dirty if path not in foreign and is_harness_artifact(path)]
     unexpected = [
@@ -172,7 +188,7 @@ def commit_mastered(chapter: int) -> None:
         raise SystemExit(f"workflow stopped at {transaction.get('stage')}; expected MASTERED")
     dirty = changed_paths()
     allowed = master_allowed_paths(chapter, dirty) | accept_allowed_paths(chapter)
-    foreign = foreign_translate_paths(dirty, chapter)
+    foreign = foreign_overlap_paths(dirty, chapter)
     unexpected = [
         path for path in dirty
         if path not in allowed and path not in foreign and is_harness_artifact(path)

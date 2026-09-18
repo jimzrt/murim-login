@@ -25,6 +25,17 @@ class RunCatchupTest(unittest.TestCase):
         self.assertFalse(run_catchup.catchup_owns_path("docs/STATE.md"))
         self.assertFalse(run_catchup.catchup_owns_path("reviews/metrics/0180.json"))
 
+    def test_classify_audit_paths_ignores_other_catchup_dirt(self):
+        allowed, unexpected = run_catchup.classify_audit_paths([
+            "translations/0012.md",
+            "reviews/retrofit/0009-0063/state.json",
+            "reviews/mastering/0002/sol.md",
+            "translations/0162.md",
+            "docs/STATE.md",
+        ])
+        self.assertEqual(allowed, ["translations/0012.md", "reviews/retrofit/0009-0063/state.json"])
+        self.assertEqual(unexpected, ["docs/STATE.md"])
+
     def test_should_run_phases(self):
         self.assertTrue(run_catchup.should_run("reset", "reset"))
         self.assertTrue(run_catchup.should_run("audit", "reset"))

@@ -87,6 +87,21 @@ class RunNextMasteringTest(unittest.TestCase):
             with self.assertRaisesRegex(SystemExit, "write window"):
                 run_next_mastering.next_mastering_chapter()
 
+    def test_require_repository_ignores_sibling_active_overlays(self):
+        self.write_overlay(2, "SNAPSHOTTED")
+        self.write_overlay(166, "SNAPSHOTTED")
+        dirty = [
+            "translations/0002.md",
+            "reviews/mastering/0002/state.json",
+            "translations/0166.md",
+            "reviews/mastering/0166/baseline.md",
+        ]
+        with (
+            patch.object(run_next_mastering, "git"),
+            patch.object(run_next_mastering, "changed_paths", return_value=dirty),
+        ):
+            run_next_mastering.require_repository(180, resume=False)
+
 
 if __name__ == "__main__":
     unittest.main()

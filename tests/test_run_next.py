@@ -1,11 +1,13 @@
 import tempfile
 from contextlib import nullcontext
+import json
 import unittest
 from pathlib import Path
 from types import SimpleNamespace
 from unittest.mock import call, patch
 
 from tools import run_next
+from tools import workflow as workflow_mod
 
 
 class RunNextTest(unittest.TestCase):
@@ -126,6 +128,49 @@ class RunNextTest(unittest.TestCase):
             with self.assertRaisesRegex(SystemExit, "workflow revise failed"):
                 run_next.run_workflow_command(14, "python tools/workflow.py revise 14")
         self.assertEqual(runner.call_count, 1)
+
+    def test_foreign_master_paths_ignore_every_active_overlay(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            work = root / ".work" / "0010"
+            work.mkdir(parents=True)
+            (work / "workflow.json").write_text(
+                '{"chapter":10,"stage":"MASTERED","artifacts":{}}\n',
+                encoding="utf-8",
+            )
+            overlay = root / "reviews" / "mastering"
+            for number, stage in ((2, "SNAPSHOTTED"), (160, "PROMOTED"), (166, "SNAPSHOTTED")):
+                path = overlay / f"{number:04d}"
+                path.mkdir(parents=True)
+                (path / "state.json").write_text(
+                    json.dumps({"chapter": number, "stage": stage, "qa_passed": stage == "PROMOTED"}),
+                    encoding="utf-8",
+                )
+            dirty = [
+                "translations/0002.md",
+                "reviews/mastering/0002/state.json",
+                "translations/0160.md",
+                "reviews/mastering/0160/state.json",
+                "translations/0166.md",
+                "reviews/metrics/0010.json",
+                "translations/0370.md",
+                "docs/STATE.md",
+            ]
+            with patch.object(workflow_mod, "ROOT", root):
+                foreign = run_next.foreign_master_paths(dirty)
+        self.assertEqual(
+            foreign,
+            {
+                "translations/0002.md",
+                "reviews/mastering/0002/state.json",
+                "reviews/mastering/0160/state.json",
+                "translations/0166.md",
+                "reviews/metrics/0010.json",
+            },
+        )
+        self.assertNotIn("translations/0160.md", foreign)
+        self.assertNotIn("translations/0370.md", foreign)
+        self.assertNotIn("docs/STATE.md", foreign)
 
 
 if __name__ == "__main__":

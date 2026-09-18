@@ -29,7 +29,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "tools"))
 
 from run_lock import hold_audit_locks, hold_commit_lock, hold_master_lock
-from run_next import changed_paths, commit_paths, git
+from run_next import changed_paths, git
 from run_next_mastering import next_mastering_chapter
 
 try:
@@ -58,6 +58,7 @@ except ModuleNotFoundError:
 KEEP_LIVE = list(range(2, 9))
 AUDIT_START = 9
 AUDIT_END = 63
+AUDIT_CHAPTERS = list(range(AUDIT_START, AUDIT_END + 1))
 FULL_RESET = list(range(9, 64)) + list(range(162, 180))
 LANE_A = list(range(2, 64))
 LANE_B = list(range(162, 180))
@@ -170,9 +171,38 @@ def reset_chapters(*, dry_run: bool) -> None:
         command_reset_for_remaster(number, keep_translation=False)
 
 
+def classify_audit_paths(dirty: list[str]) -> tuple[list[str], list[str]]:
+    """Commit only 9-63 audit files; ignore other catch-up dirt; reject foreign harness files."""
+    allowed: list[str] = []
+    unexpected: list[str] = []
+    for path in dirty:
+        if not is_harness_artifact(path):
+            continue
+        if catchup_owns_path(path, AUDIT_CHAPTERS):
+            allowed.append(path)
+        elif catchup_owns_path(path):
+            continue
+        else:
+            unexpected.append(path)
+    return allowed, unexpected
+
+
+def audit_verified() -> bool:
+    path = ROOT / "reviews" / "retrofit" / f"{AUDIT_START:04d}-{AUDIT_END:04d}" / "state.json"
+    if not path.exists():
+        return False
+    try:
+        return json.loads(path.read_text(encoding="utf-8")).get("stage") == "VERIFIED"
+    except (OSError, json.JSONDecodeError):
+        return False
+
+
 def audit_range(jobs: int, *, dry_run: bool) -> None:
     if dry_run:
         print(f"would audit chapters {AUDIT_START}-{AUDIT_END} with {jobs} jobs", flush=True)
+        return
+    if audit_verified():
+        print(f"Audit {AUDIT_START}-{AUDIT_END} already VERIFIED", flush=True)
         return
     args = ["audit_range.py", "run", str(AUDIT_START), str(AUDIT_END), "--jobs", str(jobs)]
     with hold_audit_locks(ROOT, holder="run_catchup", chapter=AUDIT_START, stage="audit"):
@@ -180,12 +210,7 @@ def audit_range(jobs: int, *, dry_run: bool) -> None:
 
 
 def commit_audit(*, dry_run: bool) -> None:
-    dirty = changed_paths()
-    allowed = [path for path in dirty if catchup_owns_path(path, list(range(AUDIT_START, AUDIT_END + 1)))]
-    unexpected = [
-        path for path in dirty
-        if is_harness_artifact(path) and path not in allowed
-    ]
+    allowed, unexpected = classify_audit_paths(changed_paths())
     if unexpected:
         raise SystemExit("refusing to commit unexpected audit paths: " + ", ".join(unexpected))
     if dry_run:
@@ -195,7 +220,8 @@ def commit_audit(*, dry_run: bool) -> None:
         print("Audit produced no file changes", flush=True)
         return
     with hold_commit_lock(ROOT, holder="run_catchup", chapter=AUDIT_START, stage="audit-commit"):
-        commit_paths(allowed, f"Audit chapters {AUDIT_START}-{AUDIT_END}")
+        git("add", "--", *allowed)
+        git("commit", "-m", f"Audit chapters {AUDIT_START}-{AUDIT_END}", "--", *allowed, capture=False)
     print(f"Committed audit chapters {AUDIT_START}-{AUDIT_END}", flush=True)
 
 
