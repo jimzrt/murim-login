@@ -128,7 +128,7 @@ The food was stored in two jars. When I looked inside, I found rice balls that g
 >
 > **Item Window**
 >
-> **Excellent Grain-Repelling Pill**
+> **Excellent Fasting Pill**
 >
 > **Type:** Pill
 >

@@ -4,7 +4,7 @@ After walking for more than ten minutes, we arrived at a cliff that sealed off t
 
 “Hmm. So you’ve come.”
 
-He had the build of a brown bear and spoke in a solemn tone.
+He had the build of a brown bear and spoke with solemn authority.
 
 Jin Wikyung.
 
@@ -28,7 +28,7 @@ But this was all a staged performance. On the way to the training hall, Wipeng h
 
 In other words, this forced confinement was all for show.
 
-*The Young Master needed a place to train anyway, didn’t he? Just endure it for three days.*
+*You needed somewhere to train anyway, didn’t you? Just endure it for three days.*
 
 Remembering Wipeng’s final words, I bowed my head and pretended to repent.
 
@@ -40,13 +40,13 @@ Jin Wikyung delivered his final line with sorrow in his eyes.
 
 “Confine the criminal to the training hall. The date of his release will be announced later.”
 
-The moment he finished speaking, two warriors guarding the entrance to the training hall approached and grabbed me by both arms.
+The moment he finished speaking, two warriors guarding the entrance approached and seized me by the arms.
 
 The play was over. Time to exit the stage.
 
-I stood at the entrance to the training hall.
+I stopped at the entrance to the training hall.
 
-*I’ve had everything you need brought there. Little brother, don’t overdo it.*
+> “I’ve had everything you need brought inside. Don’t push yourself too hard, youngest.”
 
 With Jin Wikyung’s Sound Transmission in my ear, I took my first step inside.
 
@@ -96,9 +96,9 @@ As I stared around in a daze, someone cleared his throat behind me. I turned to 
 
 Grrrnnng.
 
-I watched the iron gate slowly close with another grinding sound, then suddenly remembered the Sound Transmission I had heard at the entrance to the training hall.
+I watched the iron gate slowly grind shut, then remembered the Sound Transmission I had heard at the entrance.
 
-*I’ve had everything you need brought there. Little brother, don’t overdo it.*
+> “I’ve had everything you need brought inside. Don’t push yourself too hard, youngest.”
 
 Ah, the heart of an NPC who cared for his little brother.
 
@@ -106,29 +106,29 @@ This unworthy user wept his eyes out.
 
 * * *
 
-It was something that happened all the time in the real world, too. High-ranking officials who had committed corruption showing up at the prosecutors’ office in wheelchairs, or checking themselves into private hospital rooms to avoid investigation.
+It happened all the time in the real world. High-ranking officials accused of corruption were wheeled in and out of the prosecutors’ office, or checked themselves into private hospital suites to avoid investigation.
 
 My circumstances were a little different, but the arrangement was much the same. Deeply moved, I surveyed my private suite in the training hall.
 
 “So this is the life of a gold spoon.”[^1]
 
-It wasn’t only the graphics and artificial intelligence that were realistic. The game also carried the social message that, no matter how high you flew or how low you crawled, gold spoons had it best.
+It wasn’t just the graphics and artificial intelligence that were realistic. The game even carried the social message that no matter what anyone did, being born with a gold spoon trumped everything.
 
 Seriously, what would I have done without this character? His father was the Family Head, his eldest brother was the Lesser Family Head, and his second brother was a martial arts prodigy. No wonder he could spend every day loafing around pleasure houses without a care in the world.
 
 *Jin Taekyung, you bastard…*
 
-Now that I thought about it, wasn’t he actually some great sage who had grasped the ways of the world at a young age?
+As it turned out, he was a great sage who had grasped the ways of the world at a tender age.
 
-Shuddering at the realistic God-Spoon System, I walked around the training hall, which covered well over three thousand square feet. Before long, I found the “necessities” the warrior had mentioned.
+Awed by this brutally realistic God-Spoon System, I explored the training hall’s more than thirty-five hundred square feet. Before long, I found the “necessities” the warrior had mentioned.
 
 *Food first.*
 
-The food was stored in two jars. When I looked inside, I found rice balls that gave off a strong medicinal scent.
+The food was divided between two jars. When I looked inside, I found fist-sized balls that gave off a strong medicinal scent.
 
 > **System**
 >
-> **Item Window**
+> Item Window
 >
 > **Excellent Fasting Pill**
 >
@@ -142,7 +142,7 @@ The food was stored in two jars. When I looked inside, I found rice balls that g
 
 “Oh, so these are the famous fasting pills?”
 
-I had seen them plenty of times in martial arts novels. They were light, compact, easy to carry, and apparently provided nutritional supplementation, too.
+I had seen them plenty of times in martial arts novels. They were light, compact, easy to carry, and apparently provided all the nutrition you needed.
 
 The other jar was packed with fasting pills too.
 
@@ -162,7 +162,7 @@ Then came the third and final necessity.
 
 “Hmm.”
 
-A weapons rack held several weapons in a neat row. Naturally, the first thing I picked up was a sturdy-looking wooden spear.
+Several weapons hung in a neat row on a rack. Naturally, the first thing I reached for was a sturdy-looking wooden spear.
 
 *Item appraisal.*
 
@@ -170,7 +170,7 @@ Ding.
 
 > **System**
 >
-> **Item Window**
+> Item Window
 >
 > **Training Wooden Spear**
 >
@@ -186,11 +186,11 @@ Ding.
 
 A wooden training spear made for beginners. It was exactly what I needed right now.
 
-If I had just one more thing, everything would be perfect.
+All I needed was one more thing.
 
 “Open inventory.”
 
-Grinning, I took a martial arts manual titled *Jin Family’s Spear Technique* out of my inventory.
+Grinning, I pulled out the martial arts manual titled *Jin Family’s Spear Technique*.
 
 Ding.
 
@@ -278,9 +278,9 @@ Ten years of internal energy that I could draw out through a cultivation techniq
 
 It was embarrassing that I had forgotten about it even for a moment.
 
-“I should’ve tried using that…”
+“It’s not like I’ve ever had the chance to use something like that…”
 
-They say you only know what something is like once you’ve experienced it. Was it any wonder an F-rank Hunter was F-rank? With barely any mana to speak of, I made do with my bare body. Even among Hunters, I was treated like a half-baked amateur.
+You only knew to reach for something if you had used it before. There was a reason an F-rank Hunter was F-rank. I had barely any mana to speak of and had always relied on my bare body, so even other Hunters treated me like a half-baked amateur.
 
 *At least that solves one problem.*
 
@@ -296,7 +296,7 @@ The ten years of internal energy coiled in my dantian spread throughout my body.
 
 *This is…*
 
-Strength overflowed through my entire body. My vastly improved physical abilities and senses once again filled me with exhilaration after a lifetime as an F-rank Hunter.
+Strength overflowed through my entire body. For someone who had lived as an F-rank Hunter, the enormous boost to my physical abilities and senses was intoxicating.
 
 *I can change this much?*
 
@@ -338,9 +338,9 @@ Jin Wikyung quietly looked away.
 
 The matter had eventually been settled with compensation paid from Jin Wikyung’s personal fortune, but the Medicine King Hall Master’s fury at the time had been extraordinary.
 
-“He swallowed that much elixir. Whatever else may be true, he probably won’t suffer from minor ailments until the day he dies.”
+“After swallowing an elixir like that, if nothing else, he won’t suffer so much as a minor ailment for the rest of his life.”
 
-“It still isn’t enough. Can’t you tell just by looking at him? Every time I see the youngest, I feel sorry for him. He looks like a skeleton with a few scraps of flesh stuck to it. He’s so feeble and weak every morning.”
+“It still wasn’t enough. Can’t you tell just by looking at him? Every time I see the youngest, my heart aches. He’s nothing but skin stretched over bones. Every morning, he looks so feeble and has no strength at all.”
 
 “No strength?”
 
