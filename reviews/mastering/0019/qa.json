@@ -1,0 +1,80 @@
+{
+  "chapter": 19,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.247,
+    "source_characters": 5866,
+    "source_paragraphs": 185,
+    "translation_characters": 13181,
+    "translation_paragraphs": 188
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "unused_footnotes",
+      "details": {
+        "unused_definitions": [
+          "2"
+        ]
+      },
+      "message": "translation contains unused footnote definitions"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "상태",
+        "preferred": "Status"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "신의",
+        "preferred": "Divine Physician"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "소월",
+        "preferred": "Seowol"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "갑자",
+        "preferred": "jiazi"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "피어",
+        "preferred": "Fear"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "계도",
+        "preferred": "precept blades"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}

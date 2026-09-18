@@ -106,7 +106,7 @@ The problem was that the forest itself wasn’t exactly in good shape, either.
 
 As if he had read my thoughts, Wipeng brought up the subject.
 
-“The situation is not good, either. According to our outside sources, rumors that Lee Seogeun was poisoned have begun spreading, and the main family’s reputation is falling.”
+“The situation is not good, either. According to our outside sources, rumors that Lee Seogeun was poisoned to death have begun spreading, and the main family’s reputation is falling.”
 
 “In only half a day?”
 
@@ -198,7 +198,7 @@ A face I could never forget. And a face that had no business being here.
 
 “Wolhwa?”
 
-The first NPC I had met in this game. A courtesan at Honghwaru—and my precious little finger. That thing.
+The first NPC I had met in this game. A courtesan at Honghwaru—and my, Jin Taekyung’s, girl. You know.
 
 *Why is noona coming out of there…?*
 

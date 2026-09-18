@@ -20,11 +20,11 @@
 
 Jin Wikyung spoke as I stared fixedly at the Quest Window.
 
-“You look very tired.”
+“You must be exhausted.”
 
-Tired? I was amazed that my current state of mind could be summed up in such a simple word.
+Exhausted? I was amazed that my current state of mind could be summed up in such a simple word.
 
-Instead of answering, I looked at the steaming teacup.
+Instead of answering, I stared at the steaming teacup.
 
 *The water’s already been spilled.*
 
@@ -64,7 +64,7 @@ I cautiously asked, “What kind of person is the Head Elder?”
 
 Jin Wikyung nodded gravely.
 
-“Even the other Elders are little more than the Head Elder’s hands and feet. He rarely reveals himself, yet he has used the Elder Council to win over influential members and bring them under his command. He has been doing so for decades.”
+“Even the other Elders are little more than the Head Elder’s hands and feet. He rarely shows himself, yet he has used the Council of Elders as his limbs to win over influential members and draw them under his command. He has been doing so for decades.”
 
 “Then his supporting us at the family council…”
 
@@ -76,15 +76,15 @@ Wipeng cut in abruptly, his voice cold.
 
 “They are disloyal rebels. When the Head Elder proposed killing them, I honestly hoped you would accept.”
 
-I had felt the same way. But that had merely been the Head Elder’s clever way of speaking—a suggestion that perhaps we should back down at this point.
+I had felt the same way. But that had merely been the Head Elder’s clever way of suggesting that we should back down.
 
-If Jin Wikyung had pretended to be insane and accepted that proposal, the result would have been obvious.
+If Jin Wikyung had thrown caution to the wind and accepted his proposal, the result would have been obvious.
 
 “A bloodbath would have followed.”
 
 “I know. That’s why I held back.”
 
-The Jin Family of Taiyuan’s leadership would have split in two and continued fighting until they killed one another. If we lost, we would die. Even if we won, we would suffer tremendous damage.
+The Jin Family of Taiyuan’s leadership would have split in two and fought until they killed one another. If we lost, we would die. Even if we won, we would suffer tremendous losses.
 
 *Maybe that was exactly what the Head Elder wanted.*
 
@@ -94,9 +94,9 @@ The thought sent a chill down my spine. It fit the image I had formed of him per
 
 A hyena of a politician, stepping back and waiting for his moment.
 
-Jin Wikyung tilted his teacup.
+Jin Wikyung took a sip of tea.
 
-“But that is only a guess. We do not know what the Head Elder truly intends. He is still one of the family’s elders, and a powerful ally. Be wary of him, but do not make an enemy of him. For now, we need to overcome the situation rather than distrust everyone around us.”
+“But that is only speculation. We do not know what the Head Elder truly intends. He is still a senior of our family and a powerful ally. Be wary of him, but do not make an enemy of him. Right now, we must focus on overcoming this crisis rather than distrusting the people around us.”
 
 He was telling me to see the forest, not the trees.
 
@@ -114,13 +114,13 @@ Concern clouded Jin Wikyung’s face.
 
 “That is fast. Far too fast. Someone is definitely behind this.”
 
-There was no internet here, and yet rumors had already spread across this vast land. It was certainly strange.
+There was no internet here, yet the rumor had already spread across this vast land. Something was clearly wrong.
 
 *An invisible enemy.*
 
 Who could it be? A third faction? A scheme staged by the Mount Heng Sword Sect itself?
 
-I hoped it was the latter if possible. Nothing was more dangerous than an enemy who remained unseen.
+I hoped it was the latter. Nothing was more dangerous than an enemy who remained unseen.
 
 “The public still seems unsure what to believe, but the other sects…”
 
@@ -134,7 +134,7 @@ As soon as Jin Wikyung learned of Lee Seogeun’s poisoning, he had sent request
 
 *Do I really need to run?*
 
-I was looking out the window, thinking that, when—
+I was staring out the window, thinking that, when—
 
 Flap, flap.
 
@@ -150,7 +150,7 @@ As the carriage approached the grand signboard emblazoned with majestic calligra
 
 “Stop! State your identity and purpose!”
 
-The gate guard called out loudly and blocked the carriage. Given the circumstances, there was tension in his voice.
+The gate guard called out loudly as he moved to block the carriage. Given the circumstances, tension filled his voice.
 
 And there was something else.
 
@@ -162,7 +162,7 @@ The coachman holding the reins gave off the unmistakable air of a trained martia
 
 The coachman and the carriage alike. Where had he seen them before?
 
-The question vanished the moment he saw the coachman’s sharp eyes. That aura, that gaze. This was certainly no ordinary visitor.
+The question vanished the moment he met the coachman’s sharp gaze. That aura, those eyes. These were certainly no ordinary guests.
 
 The gate guard swallowed and spoke again.
 
@@ -178,7 +178,7 @@ Her face appeared along with her voice.
 
 The gate guard’s eyes went glassy. He wasn’t the only one. Everyone who saw the woman reacted the same way.
 
-A vacant voice escaped the gate guard’s mouth.
+A dazed murmur escaped his lips.
 
 “Ah, a secret… Then what brings you here?”
 
@@ -198,7 +198,7 @@ A face I could never forget. And one that had no business being here.
 
 The first NPC I had met in this game. A courtesan at Honghwaru and my—Jin Taekyung’s—pinky.[^1] That thing.
 
-*Why is noona coming out of there…?*
+*Noona, what are you doing here…?*
 
 “So you do remember me. Our Young Master Jin.”
 
@@ -248,7 +248,7 @@ In desperation, I wrapped my arms around Wolhwa’s waist and hoisted her up—
 
 What the hell? Why couldn’t I lift her?
 
-Wolhwa looked slender, but was she so big-boned that she weighed a lot?
+Wolhwa looked slender, but was she so big-boned that she weighed a ton?
 
 *That’s bullshit.*
 
@@ -258,9 +258,9 @@ How high was my Strength stat? With pure physical strength alone, I could grind 
 
 Ignoring Jin Wikyung’s second call, I furtively let go and heightened my Qi Sense.
 
-“Ahahahahaha! This is driving me insane!”
+“Ahahahahaha! I can’t take this!”
 
-As Wolhwa laughed herself to death, a Level Window appeared above her head. At the same time, I heard Jin Wikyung call my name for the third time.
+As Wolhwa howled with laughter, a Level Window appeared above her head. At the same time, Jin Wikyung called my name for the third time.
 
 > **System**
 >
@@ -280,19 +280,19 @@ Eun Sowol.
 
 No, for now, let’s just call her Wolhwa.
 
-She was different from how she had acted until now. Every movement carried the grace and elegance of a noblewoman.
+She was completely different from how she had acted until now. Every movement carried the grace and elegance of a noblewoman.
 
 “I am Jin Wikyung of the Jin Family of Taiyuan.”
 
 “I’m Wipeng.”
 
-I kept my mouth shut like mute Samryong,[^1] and Wolhwa flashed me a grin.
+I kept my mouth shut like mute Samryong,[^2] and Wolhwa gave me a broad grin.
 
 It was an ominous grin.
 
 *Don’t. Don’t smile.*
 
-*Don’t talk to me. Please don’t.*
+*Don’t talk to me. Please.*
 
 “It seems there is still one person I haven’t been introduced to.”
 
@@ -306,7 +306,7 @@ Feeling as though I were coughing up blood, I forced myself to speak.
 
 “Ahem.”
 
-With a cough, Jin Wikyung glanced at me.
+Jin Wikyung coughed and glanced at me.
 
 “I didn’t realize you were acquainted with my younger brother.”
 
@@ -314,11 +314,11 @@ With a cough, Jin Wikyung glanced at me.
 
 “Ah. A regular…”
 
-I avoided everyone’s gaze. Wolhwa let out a burst of laughter, then brought up the real subject.
+I avoided everyone’s eyes. Wolhwa stifled a laugh, then got down to business.
 
 “Shall we talk business now?”
 
-I had felt it several times before, but she really was a refreshingly direct woman. Jin Wikyung and Wipeng also turned their attention away from me and joined the conversation.
+I had noticed it several times before, but she really was a straightforward woman. Jin Wikyung and Wipeng finally took their eyes off me and focused on the conversation.
 
 “First, allow me to offer my sincere thanks for the Lower District Sect’s assistance.”
 
@@ -326,15 +326,15 @@ I had felt it several times before, but she really was a refreshingly direct wom
 
 “But may I ask why you wish to help our family?”
 
-Wolhwa smiled sweetly at Jin Wikyung’s question.
+Wolhwa smiled at Jin Wikyung’s question.
 
-“The reason… I will tell you if necessary. First, we are doing this for our sect’s benefit.”
+“The reason… If you must know, I’ll tell you. First, we are doing this for our sect’s benefit.”
 
-“Benefit. What specific compensation do you want?”
+“Benefit. What compensation do you seek?”
 
 “Half of the shops and assets owned by the Mount Heng Sword Sect.”
 
-“Good.”
+“Agreed.”
 
 “My lord!”
 
@@ -358,7 +358,7 @@ Even Wolhwa looked slightly surprised.
 
 As I watched Wolhwa smile, a thought suddenly occurred to me.
 
-*That information. Did I—or rather, did Jin Taekyung—let it slip?*
+*That information. Did I—or rather, did Jin Taekyung—leak it?*
 
 I had been wondering where I had heard the name Lower District Sect before. It was one of those information-gathering sects that appeared all the time in martial-arts novels. In other words, Wolhwa, its Branch Leader, was a veteran information broker.
 
