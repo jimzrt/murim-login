@@ -4,90 +4,787 @@
     {
       "decision": "SOL",
       "hunk_id": "H001",
-      "reason": "어스름한 새벽 is dim dawn light; SOL’s collocation is natural, while 'dim break of dawn' is awkward."
+      "reason": "SOL keeps the sense and uses a natural narrative tense."
     },
     {
       "decision": "SOL",
       "hunk_id": "H002",
-      "reason": "구 할 이상 is inclusive (≥90%); 'ninety percent or more' matches 이상 better than 'more than'."
+      "reason": "SOL keeps the positional sense and reads naturally."
     },
     {
       "decision": "SOL",
       "hunk_id": "H003",
-      "reason": "Echo of 구 할 이상; keeps the inclusive reading consistent with the prior line."
+      "reason": "SOL keeps the meaning while using natural spoken phrasing."
     },
     {
       "decision": "SOL",
       "hunk_id": "H004",
-      "reason": "Same 구 할 이상 in dialogue; inclusive wording stays aligned with the earlier exchange."
+      "reason": "SOL preserves the repeated percentage question in concise dialogue."
     },
     {
       "decision": "SOL",
       "hunk_id": "H005",
-      "reason": "아무것도 못 들었소 is a negative-polarity 'anything,' not 'something.'"
+      "reason": "SOL keeps the unfinished, apprehensive timing."
     },
     {
       "decision": "SOL",
       "hunk_id": "H006",
-      "reason": "Turns the 천풍단의 궤멸 noun-phrase into a complete English sentence without dropping annihilation, savagery, or the northern Gaoyuan fame."
+      "reason": "SOL keeps the deliberate-information leak and conversational voice."
     },
     {
-      "decision": "REPAIR",
+      "decision": "SOL",
       "hunk_id": "H007",
-      "reason": "BASE adds 'immediately,' arrival, and 'in disbelief'; SOL’s 'activated' is gamey for 발휘해. Keep used/raced and 신음처럼 중얼거렸다.",
-      "replacement": "Their eyes snapped open at the sudden shout. The two Branch Leaders used their movement techniques and raced over like the wind. They muttered as if groaning."
+      "reason": "SOL preserves the inference that deliberate leakage would mean a trap."
     },
     {
-      "decision": "REPAIR",
+      "decision": "SOL",
       "hunk_id": "H008",
-      "reason": "텁텁한 is dry/thick, not hoarse; SOL’s verb is better than 'leaked,' so keep dry and swap the verb.",
-      "replacement": "He soon forced his eyes open, and a dry voice slipped out from between his lips."
+      "reason": "SOL keeps the sense of taking every precaution in natural English."
     },
     {
       "decision": "SOL",
       "hunk_id": "H009",
-      "reason": "억센 힘 on the collar grab is a fierce grip; 'fierce' beats 'powerful,' and 'grip' is the same action."
+      "reason": "SOL preserves that everyone behind them swallowed hard without needless repetition."
     },
     {
-      "decision": "REPAIR",
+      "decision": "SOL",
       "hunk_id": "H010",
-      "reason": "려던 그때 is 'just as,' and 스르륵 is the slow slip of strength; BASE’s 'but' misses the timing, SOL drops 스르륵.",
-      "replacement": "Just as the horrified Branch Leader hurriedly tried to pull away, the strength slowly drained from the Heavenly Wind Band Leader’s grip."
+      "reason": "SOL keeps the individual reactions and vivid anxiety image."
     },
     {
       "decision": "SOL",
       "hunk_id": "H011",
-      "reason": "대동을 넘어서 우리 쪽으로 왔다면 is crossing Datong toward them; 눈에 띌 is being noticed quickly."
+      "reason": "SOL keeps the slang and adds only the source’s emphatic tone."
     },
     {
       "decision": "SOL",
       "hunk_id": "H012",
-      "reason": "Source is ……거기 자네; the leading ellipsis is the pause before he calls out."
+      "reason": "SOL naturally expresses being put in charge without changing the meaning."
     },
     {
       "decision": "SOL",
       "hunk_id": "H013",
-      "reason": "입니다만 hedges the explanation; 'well' carries that softening that BASE drops."
+      "reason": "SOL clearly identifies both newly established Datong Branches."
     },
     {
       "decision": "SOL",
       "hunk_id": "H014",
-      "reason": "지게를 내밀었다 is the physical hold-out, not a generic offer."
+      "reason": "SOL preserves the widow joke and spoken voice."
     },
     {
       "decision": "SOL",
       "hunk_id": "H015",
-      "reason": "그럭저럭 가실 만할 is passable, not comfortable; 'without too much trouble' matches, and 타시지요 supports 'ride down.'"
+      "reason": "SOL conveys the emphatic reassurance in natural dialogue."
     },
     {
       "decision": "SOL",
       "hunk_id": "H016",
-      "reason": "Korean is one sentence; the quieter beat belongs with the village coming into view, not a separate paragraph."
+      "reason": "SOL keeps the ten-percent contingency in idiomatic spoken English."
     },
     {
       "decision": "SOL",
       "hunk_id": "H017",
-      "reason": "Merges 부쩍 말수가 줄어든 and 장가촌이 보이기 시작했다 into one beat, matching the source sentence."
+      "reason": "SOL preserves the ill-omened-talk joke and the instruction to watch the path."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H018",
+      "reason": "BASE preserves the group-wide silence descending; SOL narrows it to the Branch Leader falling silent."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H019",
+      "reason": "SOL keeps the steady advance and the fog concealing both people and sound."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H020",
+      "reason": "SOL preserves the suspenseful transition into the command to stop."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H021",
+      "reason": "Terminology veto: BASE retains the binding name Jin Family of Taiyuan; SOL drops Taiyuan."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H022",
+      "reason": "SOL keeps the immediate question about the sound in natural dialogue."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H023",
+      "reason": "SOL adds ‘you,’ changing the incomplete reaction; BASE preserves the source’s simple ‘What…? Ah!’"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H024",
+      "reason": "SOL keeps the sound reaching the listener from beyond the fog."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H025",
+      "reason": "SOL preserves the fragmentary realization."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H026",
+      "reason": "SOL keeps the abrupt auditory image and repetition."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H027",
+      "reason": "SOL preserves the raised fists and the soot-blackened blades emerging."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H028",
+      "reason": "SOL keeps the limited visibility, mounted bandits, bows, and charging spears."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H029",
+      "reason": "Physical-action veto: SOL’s ‘tore through’ overstates the wind sweeping across and brushing away the fog."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H030",
+      "reason": "SOL keeps the sudden reveal and heightened reaction naturally."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H031",
+      "reason": "SOL preserves the red earth, scorched ground, and stench of death in vivid English."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H032",
+      "reason": "SOL keeps the involuntary groan without changing the reaction."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H033",
+      "reason": "BASE preserves the realization in ‘So the information was true’; SOL states the fact too flatly."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H034",
+      "reason": "SOL keeps the bewildered gazes and the lifeless bodies and horses."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H035",
+      "reason": "SOL preserves the scattered limbs and blank, terror-frozen eyes."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H036",
+      "reason": "Quantity and image veto: SOL invents ‘two characters’ and drops the flag’s hastily scrawled quality."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H037",
+      "reason": "Denotation veto: ‘suspicion’ is not the source’s ninety-percent guess or estimate."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H038",
+      "reason": "SOL keeps the monitoring period, rotten-tooth image, and worsening expressions in fluent prose."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H039",
+      "reason": "SOL keeps the emphatic revelation that one person did everything."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H040",
+      "reason": "SOL preserves the corpses functioning as their own testimony."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H041",
+      "reason": "SOL keeps the fact that one person killed the entire group."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H042",
+      "reason": "SOL preserves the speaker’s awe and fear at the master’s power."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H043",
+      "reason": "SOL naturally recasts having the highest martial arts as being the strongest martial artist."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H044",
+      "reason": "SOL preserves the single-move deaths, burned organs, and Scorching Yang Qi."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H045",
+      "reason": "SOL keeps the question about what martial art or technique was used."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H046",
+      "reason": "SOL keeps the absence of a distinctive martial art and the overwhelming-force image."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H047",
+      "reason": "SOL preserves the slaughter’s effortless ant-crushing comparison."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H048",
+      "reason": "SOL keeps both the attempted escape and terror visible in the bodies and faces."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H049",
+      "reason": "SOL preserves that nobody escaped the unidentified master’s fearsome martial arts."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H050",
+      "reason": "SOL keeps the shocked question about whether the feat was possible."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H051",
+      "reason": "SOL preserves the proof provided by their own eyes."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H052",
+      "reason": "SOL keeps the evidence-and-witness image while naturally resolving the response."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H053",
+      "reason": "SOL preserves their speechless inability to continue."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H054",
+      "reason": "SOL keeps the urgent discovery of a survivor."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H055",
+      "reason": "Omission veto: BASE retains the leaders’ groaning mutter upon arrival; SOL drops that emotional beat."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H056",
+      "reason": "SOL keeps the survivor’s short remaining time in natural dialogue."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H057",
+      "reason": "SOL preserves that the sole survivor is barely more than a corpse."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H058",
+      "reason": "SOL keeps the torn-off arm and nauseating charred-flesh smell."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H059",
+      "reason": "SOL keeps the Branch Leader’s focused examination and leads cleanly into dialogue."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H060",
+      "reason": "SOL preserves the immediate identification."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H061",
+      "reason": "SOL keeps the incredulous request for confirmation."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H062",
+      "reason": "SOL preserves the terse certainty."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H063",
+      "reason": "SOL keeps the leader’s rise to prominence and widely known face."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H064",
+      "reason": "SOL preserves the recent appointment and memorization of major figures’ features."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H065",
+      "reason": "SOL keeps the humorous comparison with his own children."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H066",
+      "reason": "SOL preserves the top-five-to-top-three ranking and regretful reaction."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H067",
+      "reason": "SOL naturally expresses outstanding martial arts while preserving the comparison."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H068",
+      "reason": "SOL keeps his dullness, innate combat talent, and status as a Gaoyuan pillar and Peak master."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H069",
+      "reason": "SOL preserves the contrast between former power and present death."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H070",
+      "reason": "SOL keeps the two attacks and identifies the arm tear and punch."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H071",
+      "reason": "SOL preserves the stunned fragment about defeating a Peak master in two exchanges."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H072",
+      "reason": "SOL keeps the source’s progression from disbelief to numb absurdity."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H073",
+      "reason": "SOL naturally preserves everyone becoming speechless before the interruption."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H074",
+      "reason": "SOL keeps the wet throat rattle and the survivor’s twitching body."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H075",
+      "reason": "SOL preserves the laborious eye-opening and rough voice."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H076",
+      "reason": "SOL keeps the identification question in natural speech."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H077",
+      "reason": "Physical-detail veto: SOL adds an unsupported meridian target; BASE retains the source’s wrist-directed internal energy."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H078",
+      "reason": "Denotation veto: ‘can be saved’ changes the source’s assurance that he can live or survive."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H079",
+      "reason": "SOL preserves the impossible rescue, urgency, and mountain of questions."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H080",
+      "reason": "SOL keeps the timing, bird-struck jerk, and remaining hand seizing the collar."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H081",
+      "reason": "SOL preserves the dying man’s impossible strength and death-stinking mouth."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H082",
+      "reason": "Physical-image veto: ‘crawled out’ changes the source’s demon rising from the pit of fire."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H083",
+      "reason": "SOL preserves the stammering, horrified interruption."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H084",
+      "reason": "Timing veto: SOL says the strength drained suddenly, reversing the source’s gradual release."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H085",
+      "reason": "SOL keeps the body collapsing and the eyes fixed on the blue sky."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H086",
+      "reason": "SOL preserves the breathless repetition and question."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H087",
+      "reason": "SOL keeps the nod and sigh in concise prose."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H088",
+      "reason": "SOL naturally conveys that the survivor had lost his senses."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H089",
+      "reason": "SOL preserves the miracle of surviving nearly two days in that condition."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H090",
+      "reason": "SOL naturally recasts gaining information as learning something."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H091",
+      "reason": "SOL keeps the dismissive question about what else they know."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H092",
+      "reason": "Terminology veto: BASE explicitly preserves the binding Supreme Peak realm; SOL drops the protected 경지 sense."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H093",
+      "reason": "SOL keeps the brief hesitation before the added qualification."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H094",
+      "reason": "SOL correctly preserves the contrast between a merciless master and a great fiend."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H095",
+      "reason": "SOL keeps the single course of action for preparing for the worst."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H096",
+      "reason": "SOL naturally renders sending a dispatch as sending word."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H097",
+      "reason": "SOL keeps the reciprocal commitment in natural dialogue."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H098",
+      "reason": "SOL preserves the dark looks and shared thought."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H099",
+      "reason": "SOL keeps the uncertainty about the old man’s identity and the trailing thought."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H100",
+      "reason": "SOL preserves the rhetorical question about the old man’s current location."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H101",
+      "reason": "SOL keeps the immediate impression and leisurely movement."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H102",
+      "reason": "Omission veto: SOL drops that the old man asked the question while looking at the prostrating woodcutter."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H103",
+      "reason": "SOL keeps the respectful address and Mountain Spirit title naturally."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H104",
+      "reason": "SOL keeps the brief pause and transition into speech."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H105",
+      "reason": "SOL preserves the old man’s incredulous joke with natural punctuation."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H106",
+      "reason": "SOL makes the mistaken Mountain Spirit reference explicit without changing the exchange."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H107",
+      "reason": "SOL uses the established Jang-pal name while preserving the woodcutter’s action."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H108",
+      "reason": "SOL keeps the observation about an immortal’s aura and speech in polished English."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H109",
+      "reason": "SOL preserves the gaping robes and cold wind in a vivid spoken image."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H110",
+      "reason": "Characterization veto: ‘cantankerous’ changes the source’s eccentric manner of speaking into irritability."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H111",
+      "reason": "SOL keeps the comparison limited to the old man’s extraordinary age."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H112",
+      "reason": "Denotation veto: ‘illiterate’ is narrower than the source’s completely uneducated or ignorant self-description."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H113",
+      "reason": "SOL preserves the awkward smile and dismissive hand wave."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H114",
+      "reason": "SOL keeps the dismissal in natural spoken English."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H115",
+      "reason": "SOL preserves the polite bow and continued walking."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H116",
+      "reason": "SOL keeps the delayed call for attention."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H117",
+      "reason": "SOL naturally renders the old man’s sharply furrowed expression as a scowl."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H118",
+      "reason": "SOL keeps the road’s destination and naturally supplies the speaker’s connection to the village."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H119",
+      "reason": "SOL preserves the question about what lies farther along the road."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H120",
+      "reason": "SOL keeps the village’s smallness and Jang-pal’s residence there."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H121",
+      "reason": "SOL clearly explains the clan-village implication of the name."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H122",
+      "reason": "SOL keeps the many clan villages and the old man’s recent Hong Family Village reference."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H123",
+      "reason": "SOL correctly renders 왜 as the natural ‘Why?’ in response to recognition."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H124",
+      "reason": "SOL preserves Jang-pal’s assurance and hesitation without awkward repetition."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H125",
+      "reason": "SOL uses the established Jang-pal name and keeps the head tilt."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H126",
+      "reason": "Hedge veto: BASE preserves the speaker’s tentative ‘should be at least’; SOL makes the distance too categorical."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H127",
+      "reason": "SOL keeps the old man’s offended rhetorical challenge in natural speech."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H128",
+      "reason": "SOL preserves the two-day distance estimate and Jang-pal’s sturdy legs."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H129",
+      "reason": "SOL uses the established name and keeps the pitying inward reaction."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H130",
+      "reason": "SOL preserves both the senility judgment and Jang-pal’s pity."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H131",
+      "reason": "SOL keeps the thin body and unkempt hair while smoothing the fragment."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H132",
+      "reason": "SOL preserves why the old man’s presence on this woodcutter’s mountain seems strange."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H133",
+      "reason": "SOL keeps the dawning possibility in natural internal thought."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H134",
+      "reason": "SOL preserves the unfilial-sons story and the one-less-mouth rationale."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H135",
+      "reason": "SOL keeps Jang-pal’s guileless sympathy and respectful offering."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H136",
+      "reason": "SOL preserves the brief questioning response."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H137",
+      "reason": "SOL uses the established name and keeps the embarrassed gesture."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H138",
+      "reason": "Specificity veto: SOL broadens the old man’s hunger into generally having it worse; BASE preserves the hunger comparison."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H139",
+      "reason": "SOL keeps the modest offering in natural dialogue."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H140",
+      "reason": "SOL preserves the old man’s deadpan joke about the rice ball."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H141",
+      "reason": "SOL keeps the glance between Jang-pal and the rice ball; the following dialogue supplies the speech transition."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H142",
+      "reason": "SOL preserves the old man’s hungry, lightly comic acceptance."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H143",
+      "reason": "SOL keeps the instant eating and the offer of the carrying frame."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H144",
+      "reason": "SOL preserves the firewood ride as reasonably bearable."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H145",
+      "reason": "SOL keeps the old man’s surprised question in natural speech."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H146",
+      "reason": "SOL preserves the rough path and the fact that the old man is heading down."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H147",
+      "reason": "SOL keeps the hesitant agreement."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H148",
+      "reason": "SOL accurately conveys Jang-pal’s guileless smile."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H149",
+      "reason": "SOL preserves the present emotional association with his late father."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H150",
+      "reason": "SOL keeps the old man’s complicated expression, tongue-click, and climb onto the frame."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H151",
+      "reason": "SOL preserves the humorous fact that the old man is light enough to lift one-handed."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H152",
+      "reason": "SOL makes the implied poking sticks explicit without changing the complaint."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H153",
+      "reason": "SOL keeps Jang-pal’s offer to reduce the pace."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H154",
+      "reason": "SOL preserves the flying-speed joke and the reference to the late father."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H155",
+      "reason": "SOL keeps the teasing compliment and the father comparison."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H156",
+      "reason": "SOL preserves Jang-pal’s sudden loss of talkativeness."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H157",
+      "reason": "SOL keeps the village coming into view in natural word order."
     }
   ],
   "version": 1

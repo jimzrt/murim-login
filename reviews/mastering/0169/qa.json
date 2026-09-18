@@ -2,11 +2,11 @@
   "chapter": 169,
   "errors": [],
   "metrics": {
-    "length_ratio": 2.319,
+    "length_ratio": 2.243,
     "source_characters": 6133,
     "source_paragraphs": 197,
-    "translation_characters": 14223,
-    "translation_paragraphs": 203
+    "translation_characters": 13759,
+    "translation_paragraphs": 205
   },
   "passed": true,
   "version": 1,
@@ -48,6 +48,30 @@
       "details": {
         "korean": "검신",
         "preferred": "Sword God"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "아귀",
+        "preferred": "A-Gwi"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "초절",
+        "preferred": "supreme mastery"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "사백",
+        "preferred": "Senior Martial Uncle"
       },
       "message": "matched preferred term is absent"
     }
