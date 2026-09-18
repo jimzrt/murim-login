@@ -1162,3 +1162,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 외당 | **Outer Hall** | The Tang Clan's outer hall area. |
 | 내당 | **Inner Hall** | The Tang Clan's inner hall area. |
 | 가주전 | **Family Head's Hall** | Hall where the Tang Family Head receives visitors. |
+| 당사독 | **Tang Sadok** | Current Family Head of the Sichuan Tang Clan; also called the Myriad-Poison Asura. |
+| 만독수라 | **Myriad-Poison Asura** | Epithet of Tang Sadok. |
+| 당사문 | **Tang Taesang** | Former Family Head of the Sichuan Tang Clan and Poison King; Tang Sadok’s father. |

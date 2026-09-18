@@ -1,6 +1,6 @@
 # Cheongpung (청풍)
 
-- **Safe through:** Chapter 335
+- **Safe through:** Chapter 336
 - **Aliases:** Huashan Divine Dragon
 - **Role:** Young Peak master and Huashan outsider, grandson and Disciple of Sword Saint Mae Jonghak, currently traveling with Jin Taekyung's party to seek the Divine Physician.
 - **Personality:** Affable, dreamy, hazy, and childlike in manner, with innocent curiosity, delight in novel public attention, a deep love of martial arts, and a martial artist's competitive pride; he becomes unsettled when someone copies his martial arts

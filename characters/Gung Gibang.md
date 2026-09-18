@@ -1,6 +1,6 @@
 # Gung Gibang (궁기방)
 
-- **Safe through:** Chapter 335
+- **Safe through:** Chapter 336
 - **Aliases:** Successor Beggar, Beggar Prince, pure-blooded beggar, ultimate beggar
 - **Role:** Beggars' Sect Successor Beggar and unique eight-knot disciple, with authority to order the Xi'an branch and mobilize Beggars' Sect support for Taekyung's investigation.
 - **Personality:** Vulgar, aggressive, and quick-tempered.

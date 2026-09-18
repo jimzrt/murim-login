@@ -484,3 +484,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 무송 | 관리 | river-bandit leader to military official | General | casual-familiar | Uses 장군 while requesting permission to put passengers ashore. |
 | 관리 | 무송 | military official to Stronghold Lord | Stronghold Lord | formal-polite | Uses 채주 while wishing Mu Song martial fortune. |
 | 청풍 | 문경 | martial_companion_to_medical_apprentice | Medical Apprentice | cheerful-polite | Cheongpung addresses Mungyeong as 의생님 while asking him to greet the Tang Clan. |
+| 진태경 | 당사독 | visitor_to_Sichuan_Tang_Family_Head | Great Hero Tang Sadok | formal-deferential | Taekyung formally introduces himself and addresses Tang Sadok as 대협. |
+| 당사독 | 진태경 | Family_Head_to_visiting_younger_martial_artist | you; fearless brat | blunt and threatening | Tang Sadok uses 너 and later calls Taekyung 겁 없는 놈 while rejecting his challenge. |
+| 청풍 | 당사독 | young_martial_artist_to_Sichuan_Tang_Family_Head | Family Head | formal-deferential | Cheongpung addresses Tang Sadok as 가주님 while appealing for help. |
