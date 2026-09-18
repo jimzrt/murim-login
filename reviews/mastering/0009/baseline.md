@@ -60,7 +60,7 @@ The description of the Jin Family’s Spear Technique wasn’t much different. E
 
 *“Few variations and monotonous,” my ass.*
 
-The hereditary martial art created by some fellow called the founder—or was it the family’s founding granddad?—was unbelievably complicated. Just thinking about last night made my teeth grind.
+The hereditary martial art created by some fellow called the founder—or was it Archaeopteryx?—was unbelievably complicated. Just thinking about last night made my teeth grind.
 
 > **System**
 >
@@ -218,9 +218,9 @@ Wipeng caught every last one of the fluttering documents and sighed.
 
 “The Third Young Master says he’s going to take up martial arts in earnest. What could possibly be more important than that?”
 
-“The fact that the Elder Council is waiting to pounce on you is more important.”
+“The fact that the Council of Elders is waiting to pounce on you is more important.”
 
-At the words *Elder Council*, Jin Wikyung’s expression darkened.
+At the words *Council of Elders*, Jin Wikyung’s expression darkened.
 
 “Damn old men.”
 
@@ -254,17 +254,17 @@ Wipeng shook his head.
 
 “Do you have some complaint against our youngest? Why are you speaking like that?”
 
-“I’m frustrated. That’s all. I’m frustrated. The Third Young Master causes trouble, you clean it up, and you accept the Elder Council’s demands to keep them from making things worse. They’re slowly taking away your authority. Do you know what kind of rumor is going around these days?”
+“I’m frustrated. That’s all. I’m frustrated. The Third Young Master causes trouble, you clean it up, and you accept the Council of Elders’ demands to keep them from making things worse. They’re slowly taking away your authority. Do you know what kind of rumor is going around these days?”
 
 “What rumor?”
 
-“Some people say the Third Young Master is part of the Elder faction. That he gets pocket money from the Elder Council and deliberately causes trouble.”
+“Some people say the Third Young Master is part of the Elder faction. That he gets pocket money from the Council of Elders and deliberately causes trouble.”
 
 Jin Wikyung’s eyelids began to tremble.
 
 “That’s an outrage!”
 
-“I’d actually prefer that to be true. If the Elder Council slipped him even a few silver coins, he wouldn’t have to embezzle the family’s funds.”
+“I’d actually prefer that to be true. If the Council of Elders slipped him even a few silver coins, he wouldn’t have to embezzle the family’s funds.”
 
 “You…”
 
@@ -350,7 +350,7 @@ Ha ha.
 
 “Ho ho ho.”
 
-I thought the game’s language system had glitched. Fortunately, it meant exactly what I thought it meant.
+Laughter was contagious. The warriors who had come with Wipeng began laughing along with me.
 
 In that warm atmosphere, Wipeng read the final line.
 

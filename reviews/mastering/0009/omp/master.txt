@@ -88,7 +88,7 @@ There was a major difference between my real-world physique and this character�
 
 By the time I completed the sequence one hundred times, my hands and feet were trembling.
 
-*Still, I gained something.*
+*Still, I learned one thing.*
 
 After years of working as a Hunter, I was thoroughly familiar with combat—especially group battles. In a fight where life and death were on the line, the most important thing was luck first and your feet second.
 
@@ -174,7 +174,7 @@ I answered sternly.
 
 *Fuck, I can’t bring myself to drop the honorifics.*
 
-I couldn’t exactly talk down to a man who clearly looked over forty and call him “you bastard” or “you punk.”
+I couldn’t exactly start talking down to a man who clearly looked over forty.
 
 *Damn game. The graphics are so good I can’t even speak informally.*
 
@@ -256,13 +256,13 @@ Wipeng shook his head.
 
 “What rumor?”
 
-“Some people say the Third Young Master is part of the Elder faction. That he gets pocket money from the Council of Elders and deliberately causes trouble.”
+“Some people say the Third Young Master belongs to the Elder faction. That the Council of Elders gives him spending money to cause trouble on purpose.”
 
 Jin Wikyung’s eyelids twitched.
 
 “That’s an outrage!”
 
-“I’d actually prefer that to be true. If the Council of Elders slipped him even a few silver coins, he wouldn’t have to embezzle the family’s funds.”
+“I’d rather it were true. If the Council of Elders slipped him some silver, he wouldn’t need to embezzle the family’s funds.”
 
 “You…”
 
@@ -414,11 +414,11 @@ I shook my head.
 
 *There’s no way he’d do that.*
 
-Not unless he wanted the two of us locked up together in the training hall.
+Not unless he wanted the two of us locked up in there alone together.
 
 > “I’ll get you out within seven days and nights at the latest. How does that sound?”
 
-There was fierce determination in Wipeng’s eyes. If I refused this too, he looked ready to beat me and drag me there if he had to.
+Fierce determination burned in Wipeng’s eyes. If I refused again, he looked ready to beat me senseless and drag me there.
 
 *Fuck, are all the NPCs here thugs or what?*
 
@@ -428,7 +428,7 @@ I raised my Qi Sense and checked Wipeng’s Level.
 
 > **System**
 >
-> - **Lv. ???**
+> **Lv. ???**
 
 “…”
 
