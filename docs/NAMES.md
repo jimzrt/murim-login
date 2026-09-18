@@ -1368,3 +1368,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 제 13집단군 | **13th Group Army** | Army commanded by General Liao and comprising seven divisions and brigades. |
 | 장 웨이 | **Zhang Wei** | Commander of the Sichuan Province Public Security Armed Forces Department's 2nd Company. |
 | 왕 | **Wang** | Colonel and senior officer who leads the diverted operation. |
+| 랑랑 | **Langlang** | Named casualty mourned at the massacre site. |
