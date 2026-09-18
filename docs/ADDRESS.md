@@ -551,3 +551,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진위경 | 당사독 | Lesser Family Head to Tang Clan Family Head | Family Head | cold, formal, and restrained | Addresses Tang Sadok as 가주 while asking what punishment he seeks and presenting the possibility of self-sacrifice. |
 | 무송 | 적천강 | junior_martial_artist_to_legendary_martial_master | Great Hero Jeok | formal-deferential | Mu Song respectfully refers to Jeok Cheongang as 적 대협 while worrying that Jeok dislikes him. |
 | 사천성주 | 호위장 | provincial_city_lord_to_guard_captain | Captain of the Guards | imperious and dismissive | The City Lord directly orders the Captain of the Guards to handle the troops stationed near Chengdu. |
+| 최 팀장 | 진태경 | professional_acquaintances | Mr. Jin Taekyung | formal and trusting | Team Leader Choi repeatedly addresses Jin while relying on him to resolve the airborne monster attack. |
+| 진태경 | 최 팀장 | professional_acquaintances | Team Leader Choi | casual and teasing | Taekyung questions Choi's trust and reacts informally during the crisis. |
+| 진태경 | 기장 | strangers | Captain | casual and commanding | Taekyung directly asks the captain for permission to open the aircraft door before cutting it open. |

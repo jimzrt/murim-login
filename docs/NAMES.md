@@ -1326,3 +1326,10 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 당호룡 | **Tang Horyong** | Master of Poison Dragon Pavilion and Acting Family Head of the Sichuan Tang Clan. |
 | 홍무 | **Hongwu** | Reign name of the founding emperor of the Ming dynasty. |
 | 화룡갑 | **Fire Dragon Armor** | Jin Taekyung's renamed bound armor, formerly the Black Dragon Armor. |
+| 청두 국제공항 | **Chengdu International Airport** | Destination airport attacked by monsters. |
+| S급 헌터 | **S-rank Hunter** | Modern-world rank invoked when comparing Jin's power. |
+| 브레스 | **Breath** | Dragonkin power used by the Wyverns. |
+| 오라 블레이드 | **Aura Blade** | Modern-world term for the Force that cuts the aircraft door. |
+| 배리어 | **Barrier** | Team Leader Choi's protective spell. |
+| 헌터 마켓 | **Hunter Market** | Market where Jin bought the spear at a discount. |
+| 검은 별 | **Black Star** | Epithet of the leader Wyvern killed by Jin. |

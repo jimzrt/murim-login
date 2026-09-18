@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "“Can you open the door for a moment?”\n\n“What?”\n\n“I’m asking if you can open the plane door.”",
+      "defect": "The subject is reversed. Taekyung asks whether he may open the door, not whether the captain can open it.",
+      "id": "F01",
+      "rationale": "This request establishes that Taekyung already intends to open the door himself, directly setting up his immediate decision to cut it open.",
+      "replacement": "“Can I open the door for a moment?”\n\n“What?”\n\n“I’m asking if it’s okay for me to open the plane door.”",
+      "severity": "critical",
+      "source": "“잠깐만 문 열어도 돼요?”\n\n“예?”\n\n“비행기 문 좀 열어도 되냐고요.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "A week ago, by modern-world time, the highest-tier undead monster that had appeared alongside an unprecedented monster wave had clearly reached this place with its claws.",
+      "defect": "The draft says the Lich itself reached this location, whereas 마수를 뻗치다 means that it extended its sinister reach or influence here and does not establish its physical presence.",
+      "id": "F02",
+      "rationale": "The source attributes the attack to the Lich’s expanding reach without revealing that the Lich is physically present.",
+      "replacement": "A week ago, by modern-world time, the highest-tier undead monster had appeared alongside an unprecedented monster wave. It had undoubtedly extended its sinister reach all the way here.",
+      "severity": "major",
+      "source": "현대 시간으로 일주일 전, 유례없는 몬스터 웨이브와 함께 나타난 최상위 언데드 몬스터가 어느새 여기까지 마수를 뻗친 것이 틀림없었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Don’t! You Korean bastards! Are you trying to kill us all?!”\n\n“…What did you just call us?”",
+      "defect": "The specific Chinese anti-Korean slur is replaced with a generic insult, and Taekyung’s pointed repetition of that exact slur is omitted.",
+      "id": "F03",
+      "rationale": "The captain’s culturally specific slur and Taekyung’s immediate repetition of it drive the ensuing exchange; a brief footnote preserves that force for English readers.",
+      "replacement": "“Don’t! You *bangzi* bastards! Are you trying to kill us all?!”\n\n“…What, *bangzi*?”[^1]\n\n[^1]: *Bangzi* is a derogatory Chinese term for Koreans.",
+      "severity": "major",
+      "source": "“하지 말라고! 이 빵즈(棒子) 놈들아! 우릴 다 죽일 셈이냐!”\n\n“……뭐, 빵즈?”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "—Well done! You are slightly less wicked now, human!",
+      "defect": "Adding “now” implies that slapping Taekyung has just made Team Leader Choi less wicked. The source simply distinguishes Choi as the human who is comparatively less wicked.",
+      "id": "F04",
+      "rationale": "조금 덜 간악한 describes Choi relative to the “wicked human” Taekyung rather than a change in Choi’s moral state.",
+      "replacement": "—Well done, you slightly less wicked human!",
+      "severity": "minor",
+      "source": "- 잘했다! 조금 덜 간악한 인간이여!"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“N-Now that you mention it, I’ve heard about that Hunter. Chairman Xiao Yang himself made a special request for him, so he must be incredibly skilled.”",
+      "defect": "The political form of address 동지, “Comrade,” is omitted, flattening the speaker’s distinctly Chinese official register.",
+      "id": "F05",
+      "rationale": "주석 동지 explicitly combines the title “Chairman” with the political address “Comrade,” and 도 marks the chairman’s involvement as emphatic.",
+      "replacement": "“N-Now that you mention it, I’ve heard about that Hunter. They say he’s so capable that even Comrade Chairman Xiao Yang made a special request for him.”",
+      "severity": "minor",
+      "source": "“그, 그러고 보니 저 헌터님에 관해서 들은 적이 있어. 샤오 양 주석 동지께서도 특별히 요청할 만큼 대단한 실력자라던데.”"
+    }
+  ],
+  "summary": "One critical subject reversal changes Taekyung’s request for permission into a request that the captain open the door. The draft also implies the Lich physically arrived, genericizes a specifically repeated anti-Korean slur, and loses two smaller characterization and register details.",
+  "version": 1
+}
