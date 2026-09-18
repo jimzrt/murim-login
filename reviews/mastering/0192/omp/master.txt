@@ -1,6 +1,6 @@
 # Chapter 192
 
-“Ah, fuck. This is fucking bullshit, seriously.”
+“Ah, fuck. This is fucking bullshit.”
 
 …What?
 
@@ -24,7 +24,7 @@ No. He couldn’t accept it.
 
 Any hope that he had misheard was crushed the next moment by Jin Taekyung’s reply.
 
-“It’s fucking bullshit. I said it’s fucking bullshit! You fucking assholes! There’s a limit to how much you can throw your weight around.”
+“It’s fucking bullshit. I said it’s fucking bullshit. You fucking assholes. There’s a limit to how much you can throw your weight around.”
 
 “…”
 
@@ -36,7 +36,7 @@ After cursing up a storm, Jin Taekyung turned to Jin Wikyung.
 
 Those words from Jin Wikyung were the finishing touch.
 
-The disbelief in Song Il’s eyes slowly gave way to light. A blazing light.
+The disbelief in Song Il’s eyes slowly gave way to a blazing light.
 
 It was an immense fury he hadn’t felt in a very long time.
 
@@ -70,7 +70,7 @@ Just as Song Il was about to unleash his Sword Energy, his eyes bloodshot—
 
 “If you kill that guy, you die too.”
 
-At the voice that came from somewhere, Song Il’s body abruptly froze.
+At the voice from somewhere nearby, Song Il’s body abruptly froze.
 
 Not because of what the words meant. Because he couldn’t determine where they had come from.
 
@@ -80,7 +80,7 @@ That was impossible.
 
 But the voice that followed made it clear that this was real.
 
-“A man your age, picking on a child like this. Tsk, tsk.”
+“A man your age, picking on a child. What a disgrace. Tsk, tsk.”
 
 Front, back, above, below, left, right.
 
@@ -88,7 +88,7 @@ Song Il couldn’t distinguish where the voice was coming from. Its owner was no
 
 *Th-this is…*
 
-At last, Song Il realized the identity of the voice, and his body trembled.
+When Song Il finally realized what he was hearing, his body began to tremble.
 
 *Six-Harmonies Voice Transmission!*
 
@@ -102,7 +102,7 @@ Why? Why was such a person interfering with him?
 
 Song Il shouted as if having a fit.
 
-“Who are you! I am Elder Song Il of the Great Zhongnan Sect, the Roaring Fury Swordsman! Show yourself at once!”
+“Who are you? I am Elder Song Il of the Great Zhongnan Sect, the Roaring Fury Swordsman! Show yourself at once!”
 
 “‘This old man’? ‘Elder’? Hahahahahaha!”
 
@@ -110,7 +110,7 @@ Thunderous laughter rang out from every direction, backed by internal energy so 
 
 The commoners who had never learned martial arts fell flat on their faces, crying out to the Jade Emperor, while the martial artists trembled in awe.
 
-“Can you not hear me!”
+“Can you not hear me?”
 
 “Ha, hahaha! Ah, I’m laughing so hard my stomach’s going to split.”
 
@@ -118,7 +118,7 @@ The commoners who had never learned martial arts fell flat on their faces, cryin
 
 Having lost his composure to anger and fear, Song Il caught sight of Jin Taekyung.
 
-Unlike the people staring around in shock, Jin Taekyung alone was gazing into the empty air. There was even an enigmatic smile on his lips.
+Unlike everyone else, who was staring around in shock, Jin Taekyung alone gazed into the empty air with an enigmatic smile on his lips.
 
 Almost as though he were mocking Song Il.
 
@@ -138,7 +138,7 @@ The laughter that had shaken heaven and earth abruptly stopped.
 
 A triumphant smile spread across Song Il’s lips.
 
-He didn’t know where the voice’s owner was, but the troublemaker’s weakness was Jin Taekyung. The fluster in the other man’s voice was proof.
+He didn’t know who the meddler was or where he was hiding, but his weakness was Jin Taekyung. The alarm in the other man’s voice proved it.
 
 “One!”
 
@@ -160,7 +160,7 @@ As though trying to shake off his fear, he shouted even louder.
 
 “Phew. Fine, I understand. I’ll come out now, so wait right there! But if you touch even a single hair on him, I’ll make you pay!”
 
-Song Il’s strength left him all at once.
+The tension drained from Song Il’s body.
 
 His gamble had worked. The unidentified Supreme Peak master wanted Jin Taekyung alive. And he was farther away than Song Il had expected.
 
@@ -174,7 +174,7 @@ Song Il doubted his own eyes and ears.
 
 Barely three jang away, Jin Taekyung calmly spoke again.
 
-“I said three. You fucking old bastard. Are you deaf?”
+“I said three, you fucking old bastard. Are you deaf?”
 
 “You bastard. Are you desperate to die?”
 
@@ -192,7 +192,9 @@ Jin Taekyung smiled brightly and spread both arms.
 
 “He’s coming.”
 
-He was coming. Those two words sent a chill down Song Il’s spine.
+*He’s coming.*
+
+Those words sent a chill down Song Il’s spine.
 
 Song Il unconsciously took a step back.
 
@@ -226,7 +228,7 @@ The only price he paid for evading the Roaring Fury Swordsman’s strike was tor
 
 “This is impossible—!”
 
-Song Il, still in shock, was given no chance to attack again.
+Song Il was given no chance to recover from his shock.
 
 Something firm and hot clamped around his wrist just as he tried to unleash the second form.
 
@@ -242,13 +244,13 @@ And that he had touched someone he never should have touched.
 
 “Y-you… How could you…”
 
-“The Zhongnan brat has grown a lot. You can’t even recognize an adult anymore.”
+“The Zhongnan brat has certainly grown. You can’t even recognize your elders anymore.”
 
 The old monster who had inflicted an unforgettable humiliation upon him long ago had stepped out of his memories and now stood before him.
 
 Song Il let out a shrill scream.
 
-“Fire King—!”
+“Fire King!”
 
 A terrifying smile appeared on Jeok Cheongang’s wrinkled lips.
 
@@ -280,7 +282,7 @@ I never thought that voice could sound so welcome. I sank to the ground on the s
 
 “Yes, thank you. I won’t forget this kindness.”
 
-At my soulless reply, Jeok Cheongang glared at me.
+Jeok Cheongang glared at my soulless reply.
 
 “You lost your fear in half a day. Do you want to die?”
 
@@ -318,7 +320,7 @@ Judging by the way Jeok Cheongang kept calling him a brat, they must have known 
 
 The Fire King blinked as though he were looking at some fascinating creature, then let out a hollow laugh.
 
-“You’ve grown a lot.”
+“You’ve certainly grown.”
 
 *Smack.*
 
@@ -342,11 +344,11 @@ Jeok Cheongang slapped the Roaring Fury Swordsman across the face with his wrink
 
 *Smack, smack, smack!*
 
-The ordinary slaps carried not a trace of internal energy, yet the half-gray-haired Roaring Fury Swordsman shrank like a beaten child.
+The ordinary slaps carried not a trace of internal energy, yet the graying Roaring Fury Swordsman shrank like a beaten child.
 
 The ease and arrogance of a powerful man had vanished from his eyes, replaced by humiliation, fury, and fear.
 
-Jeok Cheongang spat out the words with the expression of a man looking at a bug.
+Jeok Cheongang looked at him as if he were a bug.
 
 “You fucking moron. Did all those years go straight up your ass?”
 
@@ -356,7 +358,7 @@ I was starting to like the old man more and more.
 
 Jin Wikyung and Hyuk Mujin were already gazing at Jeok Cheongang with love in their eyes.
 
-“You call yourself an Elder of the Nine Sects and One Gang, yet you threaten commoners and use your power to arbitrarily order a sect to seal its gates? If your Master saw this, he would be wailing in the afterlife.”
+“You call yourself an Elder of the Nine Sects and One Gang, yet you threaten commoners and throw your weight around, ordering a family to seal its gates as you please? If your Master saw this, he would be wailing in the afterlife.”
 
 “…”
 
