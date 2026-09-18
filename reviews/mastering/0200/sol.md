@@ -24,9 +24,7 @@ Jeok Cheongang frowned at my reaction.
 
 “I’ve never heard of it in my life.”
 
-“…”
-
-*Heaven truly is heartless. How could it give such a thing to someone like this?*
+“…Heaven truly is heartless. Why give such a thing to someone like this?”
 
 He looked like he genuinely wanted to hit me.
 
@@ -38,7 +36,7 @@ Jeok Cheongang trembled as he clutched his liquor bottle, then let out a sigh.
 
 I had seen it plenty of times before. Did I have it right?
 
-I rummaged through my old memories and pulled out a few keywords related to the Nine Yin Severed Meridians.
+I rummaged through my old memories and pulled out a few keywords.
 
 “An unusual constitution. Sickly. Smart. Dies young.”
 
@@ -72,7 +70,7 @@ I stared tensely at Jeok Cheongang’s mouth.
 
 “Why would you die?”
 
-“I think I’ve been having headaches and feeling nauseous lately. My bones and joints ache even now.”
+“I think I’ve been having headaches and feeling nauseous lately. Even my joints are aching right now.”
 
 Doctor Choi Tae—no, Jeok Cheongang—gave me a short and concise diagnosis.
 
@@ -122,7 +120,7 @@ Every tiny, delicate gear inside my body meshed perfectly with the rest.
 
 *Since it isn’t innate, it isn’t exactly the Heavenly Martial Physique… But at this point, could I call it an acquired Heavenly Martial Physique?*
 
-Jeok Cheongang had seen my body with his own eyes, so it wasn’t strange that he had mistaken it for one.
+Jeok Cheongang had examined my body himself, so it was understandable that he had mistaken it for one.
 
 And from my perspective, it was better to let him keep making that mistake.
 
@@ -132,7 +130,7 @@ Without the Heavenly Martial Physique as an explanation, it wouldn’t have been
 
 *Either way, this worked out nicely.*
 
-The fact that even a Supreme Peak master like Jeok Cheongang could mistake my constitution for the Heavenly Martial Physique proved beyond doubt that my bones and muscles were exceptional.
+If my constitution was exceptional enough to fool even a Supreme Peak master like Jeok Cheongang, there could be no doubt that it was extraordinary.
 
 And since I had none of the side effects associated with the Nine Yin Severed Meridians, this was an absolute win.
 
@@ -142,13 +140,13 @@ When I thought about everything I had suffered until now, tears welled in my eye
 
 I was lost in emotion when I sensed someone staring at me and turned my head.
 
-Jeok Cheongang flinched when our eyes met, then abruptly looked up at the sky.
+Jeok Cheongang flinched as our eyes met, then stared blankly up at the sky.
 
 “T-The moon is bright.”
 
-I followed his gaze and mumbled:
+I followed his gaze.
 
-“There are thick clouds covering it.”
+“It’s completely overcast.”
 
 “…”
 
@@ -172,9 +170,9 @@ But there was no chance Jeok Cheongang would do that. His pride wouldn’t allow
 
 I scratched my head.
 
-“Well, I haven’t really thought about it in detail, so I’m not sure.”
+“Well, I haven’t really thought about it, so I’m not sure.”
 
-“Then think about it in detail.”
+“Then think about it.”
 
 “Oh, I’ll tell you later if anything comes to mind. You’ll be staying for a few more days before you leave anyway.”
 
@@ -240,11 +238,11 @@ Struck right at the heart of the matter, Jeok Cheongang shrieked, “There isn�
 
 “I possess the Heavenly Martial Physique.”
 
-“Gasp.”
+“Urk.”
 
 “It took me about three months to go from Third Rate to Peak. I wonder how long it’ll take me to reach Supreme Peak.”
 
-“Y-You bastard. Do you think it’s that easy? Do you think Supreme Peak is some mutt’s name?”
+“Y-You bastard. Do you think it’s that easy? Do you think Supreme Peak is the name of some neighborhood mutt?”
 
 “It was easy for me.”
 
@@ -276,9 +274,9 @@ I sighed and glanced sideways at him.
 
 Jeok Cheongang stared at me with trembling eyes. I could easily imagine what was playing out in his head.
 
-*What would happen if the Heavenly Martial Physique met the Fire Gate Clan’s supreme martial arts?*
+What would happen if the Heavenly Martial Physique met the Fire Gate Clan’s peerless martial arts?
 
-I had already displayed unbelievable achievements in only three months. It was possible that an unprecedented monster, unlike anything seen in history, would be born.
+I had already displayed unbelievable progress in only three months. It was possible that a monster without precedent in all of history would be born.
 
 *I’m almost there.*
 
@@ -310,13 +308,13 @@ I widened my eyes in feigned surprise.
 
 “Of course. A debt must be repaid, mustn’t it?”
 
-Perhaps he had belatedly decided that he needed to maintain his dignity. His voice was more stern than it had been until now.
+Perhaps he had belatedly decided he needed to preserve his dignity, because his voice was far more imposing than before.
 
 *It’s already too late for that, old man.*
 
 Barely holding back a laugh, I replied, “What you’ve already done is more than enough.”
 
-“It is this old man’s principle to repay a debt tenfold, even twentyfold.”
+“It is this old man’s principle to repay every debt tenfold, even twentyfold.”
 
 “I see.”
 
@@ -336,13 +334,13 @@ Jeok Cheongang deliberately hardened his expression.
 
 “Now listen here, you little bastard! Why are you already assuming you’ll fail?”
 
-“I’m sorry. I just don’t know how many years it might take.”
+“I’m sorry. I just thought it might take years.”
 
-“Did you already forget what sort of person I said I was?”
+“Have you already forgotten what sort of man I said I was?”
 
 “The kind who sees things through once you start?”
 
-“Once a martial artist draws his sword, he should see it through—even if he has to cut down a mountain.”
+“Once a martial artist draws his sword, he should cut down a mountain if he has to.”
 
 “Wow, that’s impressive. As expected of you, Great Hero Jeok!”
 
@@ -368,7 +366,7 @@ Jeok Cheongang coughed uncomfortably before continuing.
 
 “That’s true.”
 
-*The way I address him? What should I call him?*
+The way I addressed him, huh? What should I call him?
 
 After a moment’s thought, one word slipped from my mouth.
 
@@ -380,11 +378,11 @@ After a moment’s thought, one word slipped from my mouth.
 
 “H-Huh?”
 
-Jeok Cheongang came to his senses as though he had just woken up and stared at me with a complicated, subtle gaze.
+Jeok Cheongang came to his senses as though he had just woken up and stared at me with an inscrutable expression.
 
 “Yes. That would be good.”
 
-“Yes. Then when it’s just the two of us…”
+“Understood. Then when it’s just the two of us…”
 
 “Old Master. Call me that.”
 
@@ -394,7 +392,7 @@ I bowed deeply to him.
 
 The Supreme Peak master whose fame resounded throughout the world, Fire King Jeok Cheongang.
 
-It was the moment my subtle relationship with him began.
+It was the moment my peculiar relationship with him began.
 
 * * *
 
@@ -410,7 +408,7 @@ Ten years since anyone had called him Master.
 
 Jin Taekyung’s build, face, and personality were all different, yet the sight of him reminded Jeok Cheongang of his dead Disciple.
 
-As Jeok Cheongang quietly sank into thought, a faint smile suddenly appeared at the corner of his wrinkled mouth.
+As Jeok Cheongang stood lost in thought, a faint smile appeared on his wrinkled lips.
 
 *Not bad.*
 
