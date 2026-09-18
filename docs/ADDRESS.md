@@ -688,3 +688,8 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 파이 첸 | younger allied Hunter to senior female S-rank Hunter | big sis | casual and affectionate | Jin calls Faye 누나 while indulging Felix's attitude. |
 | 매직 존슨 | 진태경 | senior allied S-rank Hunter to younger Hunter | Jin | warm and jovial | Johnson praises Jin's courage after the dangerous teleport. |
 | 진태경 | 매직 존슨 | younger allied Hunter to senior S-rank Hunter | Johnson | casual and teasing | Jin answers Johnson while discussing the teleport's failure probability. |
+| 우헤이싱 | 샤오 쉔 | senior allied Chinese Hunter to a younger suicide-squad member | rookie | insulting and demanding | Wu grabs Shao Shen and demands an explanation of Formation J. |
+| 샤오 쉔 | 우헤이싱 | younger allied Hunter to senior Chinese S-rank Hunter | Hyung | respectful-deferential | Shao Shen explains that Hyung created the formation. |
+| 스켈레톤 워로드 | 인간 | undead commander to human ally | human | familiar and alarmed | The Skeleton Warlord repeatedly warns Jin during the battle. |
+| 진태경 | 스켈레톤 워로드 | human commander to captive undead commander | food parasite | mocking and familiar | Jin mocks the Skeleton Warlord for wanting mana and calls him a food parasite. |
+| 최 팀장 | 진태경 | senior allied commander to younger S-rank Hunter | Mr. Jin | urgent and concerned | Team Leader Choi calls to Jin while giving him Hero's Soul and warning him to be careful. |
