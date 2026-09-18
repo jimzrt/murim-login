@@ -1,0 +1,2327 @@
+{
+  "baseline_blocks": 249,
+  "baseline_sha256": "5bfa23d7315df324198018d3a474a2cd77543833692d4cdc7f036a7968d7113f",
+  "global_terminology_alerts": [],
+  "hunk_count": 128,
+  "hunks": [
+    {
+      "baseline": "*The head himself has entered the fray.*",
+      "baseline_paragraphs": "P3",
+      "baseline_range": [
+        2,
+        3
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "7",
+      "sol": "*The leader himself has entered the fray.*",
+      "sol_paragraphs": "P3",
+      "sol_range": [
+        2,
+        3
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The fierce wave of qi blasting across the gorge, and the killing intent rolling with it, made that obvious even without seeing him.",
+      "baseline_paragraphs": "P4",
+      "baseline_range": [
+        3,
+        4
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "9",
+      "sol": "The fierce wave of qi sweeping across the gorge and the killing intent rolling with it made that clear even without seeing him.",
+      "sol_paragraphs": "P4",
+      "sol_range": [
+        3,
+        4
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Lee Cheonbaek appeared with a thunderous roar. His half-gray hair whipped around like a mane, and his eyes burned red.",
+      "baseline_paragraphs": "P7",
+      "baseline_range": [
+        6,
+        7
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "15",
+      "sol": "Lee Cheonbaek appeared with a thunderous roar. His graying hair whipped around like a mane, and his eyes burned red.",
+      "sol_paragraphs": "P7",
+      "sol_range": [
+        6,
+        7
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Mount Heng Sword Sect’s core forces arrived on his heels. First Rate martial artists, and three Peak masters!",
+      "baseline_paragraphs": "P8",
+      "baseline_range": [
+        7,
+        8
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "17",
+      "sol": "The Mount Heng Sword Sect’s core forces arrived on his heels—First Rate martial artists and three Peak masters!",
+      "sol_paragraphs": "P8",
+      "sol_range": [
+        7,
+        8
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The cheers rekindled the fighting spirit that had begun to fade. Lee Cheonbaek surged forward along the path that had opened in an instant.",
+      "baseline_paragraphs": "P12",
+      "baseline_range": [
+        11,
+        12
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "25",
+      "sol": "The cheers rekindled their fading will to fight. Lee Cheonbaek surged down the path that had opened before him.",
+      "sol_paragraphs": "P12",
+      "sol_range": [
+        11,
+        12
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jin Wikyung was not the kind of man to stand by and watch.",
+      "baseline_paragraphs": "P14",
+      "baseline_range": [
+        13,
+        14
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "29",
+      "sol": "Jin Wikyung was not about to stand by and watch.",
+      "sol_paragraphs": "P14",
+      "sol_range": [
+        13,
+        14
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But the losses on both sides—the Jin Family of Taiyuan and the Mount Heng Sword Sect—were still nothing to speak of.",
+      "baseline_paragraphs": "P19",
+      "baseline_range": [
+        18,
+        19
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "39",
+      "sol": "But neither the Jin Family of Taiyuan nor the Mount Heng Sword Sect had suffered significant losses yet.",
+      "sol_paragraphs": "P19",
+      "sol_range": [
+        18,
+        19
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "절정",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Peak"
+        }
+      ]
+    },
+    {
+      "baseline": "The two great powers claimed to be the rulers of Shanxi, but compared to *them*, they were insignificant.",
+      "baseline_paragraphs": "P21",
+      "baseline_range": [
+        20,
+        21
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "43",
+      "sol": "The two great powers claimed to rule Shanxi, but compared to *them*, they were insignificant.",
+      "sol_paragraphs": "P21",
+      "sol_range": [
+        20,
+        21
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even in its former heyday, the Jin Family of Taiyuan had been treated as nothing more than a martial family from the frontier. How could it possibly stand against them?",
+      "baseline_paragraphs": "P22",
+      "baseline_range": [
+        21,
+        22
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "45",
+      "sol": "Even at the height of its power, the Jin Family of Taiyuan had been treated as nothing more than a martial family from the frontier. How could it possibly stand against them?",
+      "sol_paragraphs": "P22",
+      "sol_range": [
+        21,
+        22
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "초식",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "form"
+        }
+      ]
+    },
+    {
+      "baseline": "For many years, he had carried two swords: one in his heart, and one at his waist.",
+      "baseline_paragraphs": "P26",
+      "baseline_range": [
+        25,
+        26
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "53",
+      "sol": "For many years, he had carried two swords—one in his heart and one at his waist.",
+      "sol_paragraphs": "P26",
+      "sol_range": [
+        25,
+        26
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "There was no need for more words.",
+      "baseline_paragraphs": "P27",
+      "baseline_range": [
+        26,
+        27
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "55",
+      "sol": "There was no need for further words.",
+      "sol_paragraphs": "P27",
+      "sol_range": [
+        26,
+        27
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Who was Blood Wolf Sword Lee Cheonbaek? The man who had founded the Mount Heng Sword Sect with nothing but a single sword, and who now meant to become the ruler of an entire city. Enemy or not, there was no denying he was a Peak martial artist of the highest caliber.",
+      "baseline_paragraphs": "P30",
+      "baseline_range": [
+        29,
+        30
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "61",
+      "sol": "Blood Wolf Sword Lee Cheonbaek had founded the Mount Heng Sword Sect with nothing but a sword and now sought to become the ruler of an entire city. Enemy or not, there was no denying that he was an exceptional Peak martial artist.",
+      "sol_paragraphs": "P30",
+      "sol_range": [
+        29,
+        30
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "This was a battle with the family’s fate at stake. Competitive spirit had no place here.",
+      "baseline_paragraphs": "P33",
+      "baseline_range": [
+        32,
+        33
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "67",
+      "sol": "This battle would decide the fate of his family. He had to set aside his fighting spirit.",
+      "sol_paragraphs": "P33",
+      "sol_range": [
+        32,
+        33
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Wipeng had already drawn his sharp, narrow blade and taken his place at Jin Wikyung’s side.",
+      "baseline_paragraphs": "P36",
+      "baseline_range": [
+        35,
+        36
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "73",
+      "sol": "Wipeng had already drawn his sharp, narrow sword and taken his place at Jin Wikyung’s side.",
+      "sol_paragraphs": "P36",
+      "sol_range": [
+        35,
+        36
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "There was not a trace of hesitation in the answer. Jin Wikyung smiled faintly and drew his own sword—the family’s treasured blade, passed down through generations of the Jin Family of Taiyuan.",
+      "baseline_paragraphs": "P39",
+      "baseline_range": [
+        38,
+        39
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "81",
+      "sol": "There was not a trace of hesitation in his answer. Jin Wikyung smiled faintly and drew his own sword—the treasured blade passed down through generations of the Jin Family of Taiyuan.",
+      "sol_paragraphs": "P39",
+      "sol_range": [
+        38,
+        39
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Remembering the letter that had been stuffed carelessly into the scabbard, Jin Wikyung felt his blood boil all over again.",
+      "baseline_paragraphs": "P43",
+      "baseline_range": [
+        42,
+        43
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "91",
+      "sol": "Remembering the letter stuffed carelessly into the scabbard made Jin Wikyung’s blood boil all over again.",
+      "sol_paragraphs": "P43",
+      "sol_range": [
+        42,
+        43
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He didn’t even know where that so-called Family Head was, or what he was doing. And his second brother, thousands of li away, had probably only just received the letter.",
+      "baseline_paragraphs": "P45",
+      "baseline_range": [
+        44,
+        45
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "95",
+      "sol": "He had no idea where that so-called Family Head was or what he was doing, and his second brother, thousands of li away, had probably only just received the letter.",
+      "sol_paragraphs": "P45",
+      "sol_range": [
+        44,
+        45
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Their deaths and their survival were his to carry, and his alone.",
+      "baseline_paragraphs": "P49",
+      "baseline_range": [
+        48,
+        49
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "103",
+      "sol": "Whether they lived or died was a burden he alone had to bear.",
+      "sol_paragraphs": "P49",
+      "sol_range": [
+        48,
+        49
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jin Wikyung’s eyes flared wide. Sword raised, an Azure Dragon’s Roar burst from his mouth.",
+      "baseline_paragraphs": "P51",
+      "baseline_range": [
+        50,
+        51
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "107",
+      "sol": "Jin Wikyung’s eyes flared wide. He raised his sword and unleashed an azure dragon’s roar.",
+      "sol_paragraphs": "P51",
+      "sol_range": [
+        50,
+        51
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Jin Family’s masters kicked off the ground and leaped into the air. Taking that as the signal, a single fire arrow rose high behind them.",
+      "baseline_paragraphs": "P54",
+      "baseline_range": [
+        53,
+        54
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "113",
+      "sol": "The Jin Family’s masters kicked off the ground and soared into the air. At the signal, a single fire arrow rose high behind them.",
+      "sol_paragraphs": "P54",
+      "sol_range": [
+        53,
+        54
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That was when dozens of figures stood up along the cliffs.",
+      "baseline_paragraphs": "P55",
+      "baseline_range": [
+        54,
+        55
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "117",
+      "sol": "Dozens of figures stood along the clifftops.",
+      "sol_paragraphs": "P55",
+      "sol_range": [
+        54,
+        55
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Beneath arrows pouring down like a sudden rain, the fight between the masters who would decide the course of the battle began.",
+      "baseline_paragraphs": "P57",
+      "baseline_range": [
+        56,
+        57
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "123",
+      "sol": "Beneath a sudden rain of arrows, the clash between the masters who would decide the course of the battle began.",
+      "sol_paragraphs": "P57",
+      "sol_range": [
+        56,
+        57
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "With innate talent for martial arts and beastlike instincts, he had cut down his enemies and realized his ambitions one after another.",
+      "baseline_paragraphs": "P60",
+      "baseline_range": [
+        59,
+        60
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "133",
+      "sol": "Blessed with an innate talent for martial arts and the instincts of a beast, he had cut down his enemies and fulfilled his ambitions one after another.",
+      "sol_paragraphs": "P60",
+      "sol_range": [
+        59,
+        60
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He had founded the Mount Heng Sword Sect and grown its strength by absorbing the surrounding factions one by one. His aim was to lay the foundation for a great family that would one day be recognized even in the Central Plains.",
+      "baseline_paragraphs": "P61",
+      "baseline_range": [
+        60,
+        61
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "135",
+      "sol": "He had founded the Mount Heng Sword Sect, then strengthened it by absorbing the surrounding factions one by one. His aim was to lay the foundation for a great family that would one day be recognized even in the Central Plains.",
+      "sol_paragraphs": "P61",
+      "sol_range": [
+        60,
+        61
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It had not been a fair duel. Deadly poison had taken him, and he had died with blood pouring from all seven orifices.",
+      "baseline_paragraphs": "P64",
+      "baseline_range": [
+        63,
+        64
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "141",
+      "sol": "He had not died in a fair duel. Deadly poison had killed him, blood pouring from all seven orifices.",
+      "sol_paragraphs": "P64",
+      "sol_range": [
+        63,
+        64
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He would kill and burn everything connected to the Jin Family of Taiyuan.",
+      "baseline_paragraphs": "P66",
+      "baseline_range": [
+        65,
+        66
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "145",
+      "sol": "He would kill everyone connected to the Jin Family of Taiyuan and burn everything they possessed.",
+      "sol_paragraphs": "P66",
+      "sol_range": [
+        65,
+        66
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And then Jin Wikyung appeared before his eyes.",
+      "baseline_paragraphs": "P67",
+      "baseline_range": [
+        66,
+        67
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "147",
+      "sol": "And now Jin Wikyung stood before him.",
+      "sol_paragraphs": "P67",
+      "sol_range": [
+        66,
+        67
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Lee Cheonbaek’s eyes blazed.",
+      "baseline_paragraphs": "P68",
+      "baseline_range": [
+        67,
+        68
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "149",
+      "sol": "Flames blazed in Lee Cheonbaek’s eyes.",
+      "sol_paragraphs": "P68",
+      "sol_range": [
+        67,
+        68
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He charged like a beast. The blade, holding one jiazi of internal energy, shone milky white.",
+      "baseline_paragraphs": "P70",
+      "baseline_range": [
+        69,
+        70
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "153",
+      "sol": "He charged like a beast. His sword, imbued with one jiazi of internal energy, shone milky white.",
+      "sol_paragraphs": "P70",
+      "sol_range": [
+        69,
+        70
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "With this much power, it could cut through any armor, any divine weapon.",
+      "baseline_paragraphs": "P71",
+      "baseline_range": [
+        70,
+        71
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "155",
+      "sol": "With this much power, it could cut through any armor or divine weapon.",
+      "sol_paragraphs": "P71",
+      "sol_range": [
+        70,
+        71
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Just as Lee Cheonbaek, sure of it, was about to swing—",
+      "baseline_paragraphs": "P73",
+      "baseline_range": [
+        72,
+        73
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "159",
+      "sol": "Certain of his victory, Lee Cheonbaek was about to swing when—",
+      "sol_paragraphs": "P73",
+      "sol_range": [
+        72,
+        73
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A low voice, from behind him.",
+      "baseline_paragraphs": "P75",
+      "baseline_range": [
+        74,
+        75
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "163",
+      "sol": "A quiet voice came from behind him.",
+      "sol_paragraphs": "P75",
+      "sol_range": [
+        74,
+        75
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "To give up his back so cheaply. His reaction was lightning-fast. He drove the sword backward in a reverse grip.",
+      "baseline_paragraphs": "P78",
+      "baseline_range": [
+        77,
+        78
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "169",
+      "sol": "He had given up his back far too easily. His response was lightning-fast. Gripping his sword in reverse, he stabbed behind him.",
+      "sol_paragraphs": "P78",
+      "sol_range": [
+        77,
+        78
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The blade stabbed empty air, and that bought him time. Only then could he see his opponent’s face.",
+      "baseline_paragraphs": "P80",
+      "baseline_range": [
+        79,
+        80
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "173",
+      "sol": "The blade pierced empty air, but the attack bought him time. Only then did he get a look at his opponent.",
+      "sol_paragraphs": "P80",
+      "sol_range": [
+        79,
+        80
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A beard hanging down to his chest. A relaxed smile at the corners of his mouth.",
+      "baseline_paragraphs": "P81",
+      "baseline_range": [
+        80,
+        81
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "175",
+      "sol": "A beard hung down to the man’s chest, and a relaxed smile played at the corners of his mouth.",
+      "sol_paragraphs": "P81",
+      "sol_range": [
+        80,
+        81
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A white-haired old man.",
+      "baseline_paragraphs": "P82",
+      "baseline_range": [
+        81,
+        82
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "177",
+      "sol": "He was a white-haired old man.",
+      "sol_paragraphs": "P82",
+      "sol_range": [
+        81,
+        82
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Lee Cheonbaek knew him at once.",
+      "baseline_paragraphs": "P83",
+      "baseline_range": [
+        82,
+        83
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "179",
+      "sol": "Lee Cheonbaek recognized him at once.",
+      "sol_paragraphs": "P83",
+      "sol_range": [
+        82,
+        83
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I haven’t heard that name in a long time. Then you must be Lee Cheonbaek.”",
+      "baseline_paragraphs": "P86",
+      "baseline_range": [
+        85,
+        86
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "185",
+      "sol": "“I haven’t heard that name in a long time. And you must be Lee Cheonbaek.”",
+      "sol_paragraphs": "P86",
+      "sol_range": [
+        85,
+        86
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He didn’t dare look for Jin Wikyung, or check how the battle was going. Take his eyes off the old man, and he felt his head would come off on the spot.",
+      "baseline_paragraphs": "P89",
+      "baseline_range": [
+        88,
+        89
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "191",
+      "sol": "He did not dare look for Jin Wikyung or check how the battle was unfolding. If he took his eyes off the old man, he felt as though his head would come off at once.",
+      "sol_paragraphs": "P89",
+      "sol_range": [
+        88,
+        89
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was true that seeing Jin Wikyung had agitated him past reason. It was true that he had been impatient.",
+      "baseline_paragraphs": "P91",
+      "baseline_range": [
+        90,
+        91
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "195",
+      "sol": "It was true that the sight of Jin Wikyung had driven him into a frenzy. It was also true that impatience had gotten the better of him.",
+      "sol_paragraphs": "P91",
+      "sol_range": [
+        90,
+        91
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The answer was already clear.",
+      "baseline_paragraphs": "P94",
+      "baseline_range": [
+        93,
+        94
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "201",
+      "sol": "There could only be one answer.",
+      "sol_paragraphs": "P94",
+      "sol_range": [
+        93,
+        94
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Reputation? I’m nothing more than an old man in the back room.”",
+      "baseline_paragraphs": "P99",
+      "baseline_range": [
+        98,
+        99
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "211",
+      "sol": "“Reputation? I’m nothing more than an old man put out to pasture.”",
+      "sol_paragraphs": "P99",
+      "sol_range": [
+        98,
+        99
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Then why leave the back room?”",
+      "baseline_paragraphs": "P100",
+      "baseline_range": [
+        99,
+        100
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "213",
+      "sol": "“Then why didn’t you stay there?”",
+      "sol_paragraphs": "P100",
+      "sol_range": [
+        99,
+        100
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You’re still a young fellow, so there’s a lot you don’t know. The older you get, the more you have to get moving now and then.”",
+      "baseline_paragraphs": "P101",
+      "baseline_range": [
+        100,
+        101
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "215",
+      "sol": "“You’re still young, so there’s a lot you don’t understand. The older you get, the more important it is to move around once in a while.”",
+      "sol_paragraphs": "P101",
+      "sol_range": [
+        100,
+        101
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He knew there was a faction centered on the Head Elder that opposed the Family Head. He had even privately hoped the family would split from within.",
+      "baseline_paragraphs": "P105",
+      "baseline_range": [
+        104,
+        105
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "223",
+      "sol": "He knew there was a faction centered around the Head Elder that opposed the Family Head. He had even privately hoped the family would split from within.",
+      "sol_paragraphs": "P105",
+      "sol_range": [
+        104,
+        105
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But things had gone the opposite of what he had expected.",
+      "baseline_paragraphs": "P106",
+      "baseline_range": [
+        105,
+        106
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "225",
+      "sol": "Instead, the exact opposite had happened.",
+      "sol_paragraphs": "P106",
+      "sol_range": [
+        105,
+        106
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*So when an outside enemy invades, they unite as one?*",
+      "baseline_paragraphs": "P107",
+      "baseline_range": [
+        106,
+        107
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "227",
+      "sol": "*So an outside enemy makes them unite?*",
+      "sol_paragraphs": "P107",
+      "sol_range": [
+        106,
+        107
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Lee Cheonbaek stared at the Head Elder with heavy eyes, then opened his mouth.",
+      "baseline_paragraphs": "P108",
+      "baseline_range": [
+        107,
+        108
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "229",
+      "sol": "Lee Cheonbaek studied the Head Elder with a grave expression.",
+      "sol_paragraphs": "P108",
+      "sol_range": [
+        107,
+        108
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“When I was called Blade of Flowers, I was thirty.”",
+      "baseline_paragraphs": "P112",
+      "baseline_range": [
+        111,
+        112
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "237",
+      "sol": "“I was thirty when they called me Blade of Flowers.”",
+      "sol_paragraphs": "P112",
+      "sol_range": [
+        111,
+        112
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At thirty, the Head Elder had already been a Peak martial artist.",
+      "baseline_paragraphs": "P113",
+      "baseline_range": [
+        112,
+        113
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "239",
+      "sol": "The Head Elder had already been a Peak martial artist at thirty.",
+      "sol_paragraphs": "P113",
+      "sol_range": [
+        112,
+        113
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Now he was a man of seventy. How had his martial arts changed since then?",
+      "baseline_paragraphs": "P114",
+      "baseline_range": [
+        113,
+        114
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "241",
+      "sol": "Now he was seventy. How much had his martial arts changed since then?",
+      "sol_paragraphs": "P114",
+      "sol_range": [
+        113,
+        114
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "After a moment’s thought, Lee Cheonbaek let out a wry laugh.",
+      "baseline_paragraphs": "P115",
+      "baseline_range": [
+        114,
+        115
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "243",
+      "sol": "After a moment’s thought, Lee Cheonbaek gave a wry laugh.",
+      "sol_paragraphs": "P115",
+      "sol_range": [
+        114,
+        115
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*I’m getting old, too.*",
+      "baseline_paragraphs": "P116",
+      "baseline_range": [
+        115,
+        116
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "245",
+      "sol": "*I’ve grown old too.*",
+      "sol_paragraphs": "P116",
+      "sol_range": [
+        115,
+        116
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "In his youth, Lee Cheonbaek had been unstoppable. Without an exceptional martial art or a respectable master, he had carved his way through everything on his own.",
+      "baseline_paragraphs": "P118",
+      "baseline_range": [
+        117,
+        118
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "249",
+      "sol": "In his youth, Lee Cheonbaek had been fearless. Without an exceptional martial art or a respectable master, he had carved his own path through every obstacle.",
+      "sol_paragraphs": "P118",
+      "sol_range": [
+        117,
+        118
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even against an opponent a level above him, he never backed down. He charged like a wolf and tore out their throats.",
+      "baseline_paragraphs": "P119",
+      "baseline_range": [
+        118,
+        119
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "251",
+      "sol": "Even against someone stronger, he had never backed down. He charged like a wolf and tore out their throat.",
+      "sol_paragraphs": "P119",
+      "sol_range": [
+        118,
+        119
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Blood relatives, subordinates, wealth.",
+      "baseline_paragraphs": "P122",
+      "baseline_range": [
+        121,
+        122
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "257",
+      "sol": "Family, subordinates, wealth.",
+      "sol_paragraphs": "P122",
+      "sol_range": [
+        121,
+        122
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Time spent training shrank; time spent on affairs grew. When it was time to act, he started thinking instead.",
+      "baseline_paragraphs": "P124",
+      "baseline_range": [
+        123,
+        124
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "261",
+      "sol": "He spent less time training and more time handling affairs. When the moment came to act, he stopped to think instead.",
+      "sol_paragraphs": "P124",
+      "sol_range": [
+        123,
+        124
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Just as he was now.",
+      "baseline_paragraphs": "P125",
+      "baseline_range": [
+        124,
+        125
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "263",
+      "sol": "Just as he was doing now.",
+      "sol_paragraphs": "P125",
+      "sol_range": [
+        124,
+        125
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I’m laughing because I find myself pathetic.”",
+      "baseline_paragraphs": "P128",
+      "baseline_range": [
+        127,
+        128
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "269",
+      "sol": "“I’m laughing at how pathetic I’ve become.”",
+      "sol_paragraphs": "P128",
+      "sol_range": [
+        127,
+        128
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“For a very brief moment.”",
+      "baseline_paragraphs": "P132",
+      "baseline_range": [
+        131,
+        132
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "277",
+      "sol": "“For a brief moment.”",
+      "sol_paragraphs": "P132",
+      "sol_range": [
+        131,
+        132
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Someone of your level won’t manage it.”",
+      "baseline_paragraphs": "P135",
+      "baseline_range": [
+        134,
+        135
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "283",
+      "sol": "“Someone of your level can’t manage that.”",
+      "sol_paragraphs": "P135",
+      "sol_range": [
+        134,
+        135
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You have to measure them to know which is longer, don’t you?”",
+      "baseline_paragraphs": "P136",
+      "baseline_range": [
+        135,
+        136
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "285",
+      "sol": "“You won’t know which of us is better until we cross swords.”",
+      "sol_paragraphs": "P136",
+      "sol_range": [
+        135,
+        136
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That’s what the short ones always say. They never realize that even after you measure, the result doesn’t change.”",
+      "baseline_paragraphs": "P137",
+      "baseline_range": [
+        136,
+        137
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "287",
+      "sol": "“That’s what the shorter man always says. He doesn’t realize the answer stays the same even after they measure.”",
+      "sol_paragraphs": "P137",
+      "sol_range": [
+        136,
+        137
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Your tongue is sharp.”",
+      "baseline_paragraphs": "P138",
+      "baseline_range": [
+        137,
+        138
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "289",
+      "sol": "“You have a sharp tongue.”",
+      "sol_paragraphs": "P138",
+      "sol_range": [
+        137,
+        138
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Is it only my tongue?”",
+      "baseline_paragraphs": "P139",
+      "baseline_range": [
+        138,
+        139
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "291",
+      "sol": "“My tongue isn’t the only thing that’s sharp.”",
+      "sol_paragraphs": "P139",
+      "sol_range": [
+        138,
+        139
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It looked like an ordinary blue-steel sword, but the moment it entered his hand, it began to give off a vicious killing edge.",
+      "baseline_paragraphs": "P141",
+      "baseline_range": [
+        140,
+        141
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "295",
+      "sol": "It looked like an ordinary blue-steel sword, but the moment he held it ready, it began radiating a viciously sharp aura.",
+      "sol_paragraphs": "P141",
+      "sol_range": [
+        140,
+        141
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Come at me first.”",
+      "baseline_paragraphs": "P142",
+      "baseline_range": [
+        141,
+        142
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "297",
+      "sol": "“Come at me.”",
+      "sol_paragraphs": "P142",
+      "sol_range": [
+        141,
+        142
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The blade, having drawn in one jiazi of internal energy, raised a shimmering haze of light.",
+      "baseline_paragraphs": "P144",
+      "baseline_range": [
+        143,
+        144
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "301",
+      "sol": "His blade drew in one jiazi of internal energy, raising a shimmering haze of light.",
+      "sol_paragraphs": "P144",
+      "sol_range": [
+        143,
+        144
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The moment the Sword Energy rose three inches—about ten centimeters—Lee Cheonbaek’s body shot forward.",
+      "baseline_paragraphs": "P147",
+      "baseline_range": [
+        146,
+        147
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "307",
+      "sol": "The instant the Sword Energy rose three inches—about ten centimeters—Lee Cheonbaek shot forward.",
+      "sol_paragraphs": "P147",
+      "sol_range": [
+        146,
+        147
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A unique martial art, perfected through countless real battles, unfolded from his fingertips.",
+      "baseline_paragraphs": "P148",
+      "baseline_range": [
+        147,
+        148
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "309",
+      "sol": "The unique martial art he had perfected through countless battles unfolded from his fingertips.",
+      "sol_paragraphs": "P148",
+      "sol_range": [
+        147,
+        148
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Sword Energy hacked wildly in every direction. Screams burst from between the mounds of earth that erupted in an instant.",
+      "baseline_paragraphs": "P151",
+      "baseline_range": [
+        150,
+        151
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "315",
+      "sol": "Sword Energy slashed in every direction. Screams erupted amid the mounds of dirt blasted into the air.",
+      "sol_paragraphs": "P151",
+      "sol_range": [
+        150,
+        151
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "They were the cries of martial artists caught in the gap.",
+      "baseline_paragraphs": "P153",
+      "baseline_range": [
+        152,
+        153
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "319",
+      "sol": "They came from martial artists caught in the clash.",
+      "sol_paragraphs": "P153",
+      "sol_range": [
+        152,
+        153
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Every voice was a young man’s.",
+      "baseline_paragraphs": "P154",
+      "baseline_range": [
+        153,
+        154
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "321",
+      "sol": "Every voice belonged to a young man.",
+      "sol_paragraphs": "P154",
+      "sol_range": [
+        153,
+        154
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A red warning light went on in Lee Cheonbaek’s mind.",
+      "baseline_paragraphs": "P155",
+      "baseline_range": [
+        154,
+        155
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "323",
+      "sol": "Alarm bells rang in Lee Cheonbaek’s mind.",
+      "sol_paragraphs": "P155",
+      "sol_range": [
+        154,
+        155
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He spun and swung at the same time.",
+      "baseline_paragraphs": "P157",
+      "baseline_range": [
+        156,
+        157
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "327",
+      "sol": "He spun and swung in the same motion.",
+      "sol_paragraphs": "P157",
+      "sol_range": [
+        156,
+        157
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He saw the white beard fluttering in the wind.",
+      "baseline_paragraphs": "P158",
+      "baseline_range": [
+        157,
+        158
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "329",
+      "sol": "He saw a white beard fluttering in the wind.",
+      "sol_paragraphs": "P158",
+      "sol_range": [
+        157,
+        158
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Lee Cheonbaek fell back in a daze amid the thunderous crash. He was not even given time to feel the pain in his wrist.",
+      "baseline_paragraphs": "P162",
+      "baseline_range": [
+        161,
+        162
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "337",
+      "sol": "The thunderous impact sent Lee Cheonbaek reeling backward. He was not even given time to feel the pain in his wrist.",
+      "sol_paragraphs": "P162",
+      "sol_range": [
+        161,
+        162
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Every time the two swords met, thunder and lightning rolled.",
+      "baseline_paragraphs": "P164",
+      "baseline_range": [
+        163,
+        164
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "341",
+      "sol": "Every time their swords met, thunder crashed.",
+      "sol_paragraphs": "P164",
+      "sol_range": [
+        163,
+        164
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Sword Energy poured out in a continuous stream, smashing the ground and tearing the wind.",
+      "baseline_paragraphs": "P165",
+      "baseline_range": [
+        164,
+        165
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "343",
+      "sol": "Sword Energy streamed from their blades, smashing the ground and tearing through the air.",
+      "sol_paragraphs": "P165",
+      "sol_range": [
+        164,
+        165
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The martial artists of both sides forgot they were fighting. They could only stare, slack-faced, at this staggering life-and-death duel.",
+      "baseline_paragraphs": "P168",
+      "baseline_range": [
+        167,
+        168
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "349",
+      "sol": "The martial artists on both sides forgot their own battles. They could only stare, dumbstruck, at the incredible life-and-death duel.",
+      "sol_paragraphs": "P168",
+      "sol_range": [
+        167,
+        168
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "In that moment, every one of them was thinking the same thing.",
+      "baseline_paragraphs": "P169",
+      "baseline_range": [
+        168,
+        169
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "351",
+      "sol": "At that moment, every one of them was thinking the same thing.",
+      "sol_paragraphs": "P169",
+      "sol_range": [
+        168,
+        169
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The ceaseless thunder. A feast of Sword Energy so dazzling it left them spellbound just to watch.",
+      "baseline_paragraphs": "P171",
+      "baseline_range": [
+        170,
+        171
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "355",
+      "sol": "The ceaseless thunder. A display of Sword Energy so dazzling that merely watching it left them spellbound.",
+      "sol_paragraphs": "P171",
+      "sol_range": [
+        170,
+        171
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The movements of the two men at its center were faster and stronger than anyone they had ever seen.",
+      "baseline_paragraphs": "P172",
+      "baseline_range": [
+        171,
+        172
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "357",
+      "sol": "The two men at its center moved faster and struck harder than anyone they had ever seen.",
+      "sol_paragraphs": "P172",
+      "sol_range": [
+        171,
+        172
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Someone muttered, almost a groan.",
+      "baseline_paragraphs": "P173",
+      "baseline_range": [
+        172,
+        173
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "359",
+      "sol": "Someone murmured as if groaning.",
+      "sol_paragraphs": "P173",
+      "sol_range": [
+        172,
+        173
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "To their eyes, it was a fight where either outcome would have made sense.",
+      "baseline_paragraphs": "P175",
+      "baseline_range": [
+        174,
+        175
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "363",
+      "sol": "To their eyes, either man could have won.",
+      "sol_paragraphs": "P175",
+      "sol_range": [
+        174,
+        175
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But the superiority in strength was obvious.",
+      "baseline_paragraphs": "P176",
+      "baseline_range": [
+        175,
+        176
+      ],
+      "hunk_id": "H086",
+      "korean_lines": "365",
+      "sol": "But the difference in strength was clear.",
+      "sol_paragraphs": "P176",
+      "sol_range": [
+        175,
+        176
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "After some three hundred exchanges, the Head Elder’s sword changed.",
+      "baseline_paragraphs": "P177",
+      "baseline_range": [
+        176,
+        177
+      ],
+      "hunk_id": "H087",
+      "korean_lines": "367",
+      "sol": "After some three hundred exchanges, the Head Elder’s swordplay changed.",
+      "sol_paragraphs": "P177",
+      "sol_range": [
+        176,
+        177
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The strength drained from the hand on his sword.",
+      "baseline_paragraphs": "P182",
+      "baseline_range": [
+        181,
+        182
+      ],
+      "hunk_id": "H088",
+      "korean_lines": "377",
+      "sol": "The strength drained from his sword hand.",
+      "sol_paragraphs": "P182",
+      "sol_range": [
+        181,
+        182
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Of all things.*",
+      "baseline_paragraphs": "P183",
+      "baseline_range": [
+        182,
+        183
+      ],
+      "hunk_id": "H089",
+      "korean_lines": "379",
+      "sol": "*Of all places.*",
+      "sol_paragraphs": "P183",
+      "sol_range": [
+        182,
+        183
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He shifted the sword to his other hand at once, but he was a right-handed swordsman by nature.",
+      "baseline_paragraphs": "P184",
+      "baseline_range": [
+        183,
+        184
+      ],
+      "hunk_id": "H090",
+      "korean_lines": "381",
+      "sol": "He immediately shifted the sword to his other hand, but he was right-handed by nature.",
+      "sol_paragraphs": "P184",
+      "sol_range": [
+        183,
+        184
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even at full power he would have been hard-pressed. Now that the arm he used to wield a sword was injured, the outcome was all but decided.",
+      "baseline_paragraphs": "P185",
+      "baseline_range": [
+        184,
+        185
+      ],
+      "hunk_id": "H091",
+      "korean_lines": "383",
+      "sol": "Even fighting at full strength might not have been enough. Now that his sword arm was injured, the outcome was all but decided.",
+      "sol_paragraphs": "P185",
+      "sol_range": [
+        184,
+        185
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He had taken worse injuries than this, plenty of times.",
+      "baseline_paragraphs": "P192",
+      "baseline_range": [
+        191,
+        192
+      ],
+      "hunk_id": "H092",
+      "korean_lines": "397",
+      "sol": "He had suffered worse injuries than these countless times.",
+      "sol_paragraphs": "P192",
+      "sol_range": [
+        191,
+        192
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Using the strength in his arm, his waist, his legs, Lee Cheonbaek swung his sword.",
+      "baseline_paragraphs": "P193",
+      "baseline_range": [
+        192,
+        193
+      ],
+      "hunk_id": "H093",
+      "korean_lines": "399",
+      "sol": "Drawing on the strength in his arm, waist, and legs, Lee Cheonbaek swung his sword.",
+      "sol_paragraphs": "P193",
+      "sol_range": [
+        192,
+        193
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "This time, it was the knee.",
+      "baseline_paragraphs": "P196",
+      "baseline_range": [
+        195,
+        196
+      ],
+      "hunk_id": "H094",
+      "korean_lines": "405",
+      "sol": "This time, the Head Elder cut his knee.",
+      "sol_paragraphs": "P196",
+      "sol_range": [
+        195,
+        196
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The tendons had been cut, and the knee buckled slowly, with no regard for Lee Cheonbaek’s will.",
+      "baseline_paragraphs": "P197",
+      "baseline_range": [
+        196,
+        197
+      ],
+      "hunk_id": "H095",
+      "korean_lines": "407",
+      "sol": "The severed tendons gave way, and Lee Cheonbaek’s knee buckled against his will.",
+      "sol_paragraphs": "P197",
+      "sol_range": [
+        196,
+        197
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Lightning stabbed and sliced through his whole body. The fierce Sword Energy did more than cut flesh and bone—it churned his insides.",
+      "baseline_paragraphs": "P201",
+      "baseline_range": [
+        200,
+        201
+      ],
+      "hunk_id": "H096",
+      "korean_lines": "415",
+      "sol": "Lightning stabbed and sliced through his entire body. The fierce Sword Energy did more than cut flesh and bone—it churned his insides.",
+      "sol_paragraphs": "P201",
+      "sol_range": [
+        200,
+        201
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Lee Cheonbaek vomited blood mixed with pieces of organ and looked up at the Head Elder through clouded eyes.",
+      "baseline_paragraphs": "P203",
+      "baseline_range": [
+        202,
+        203
+      ],
+      "hunk_id": "H097",
+      "korean_lines": "419",
+      "sol": "Lee Cheonbaek vomited blood mixed with pieces of his organs and looked up at the Head Elder through clouded eyes.",
+      "sol_paragraphs": "P203",
+      "sol_range": [
+        202,
+        203
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No joy at having put his opponent down. No delight that the war was ending.",
+      "baseline_paragraphs": "P205",
+      "baseline_range": [
+        204,
+        205
+      ],
+      "hunk_id": "H098",
+      "korean_lines": "423",
+      "sol": "There was no thrill at having defeated his opponent, nor any joy at the war’s end.",
+      "sol_paragraphs": "P205",
+      "sol_range": [
+        204,
+        205
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "To him, all of this was simply the natural result.",
+      "baseline_paragraphs": "P206",
+      "baseline_range": [
+        205,
+        206
+      ],
+      "hunk_id": "H099",
+      "korean_lines": "425",
+      "sol": "To him, this was nothing more than the natural outcome.",
+      "sol_paragraphs": "P206",
+      "sol_range": [
+        205,
+        206
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“If you’re not Number One Under Heaven, you’re nothing more than a martial brute from the frontier. Neither you nor I have that kind of capacity.”",
+      "baseline_paragraphs": "P208",
+      "baseline_range": [
+        207,
+        208
+      ],
+      "hunk_id": "H100",
+      "korean_lines": "429",
+      "sol": "“If you’re not Number One Under Heaven, you’re nothing more than a martial brute from the frontier. Neither you nor I are made for such heights.”",
+      "sol_paragraphs": "P208",
+      "sol_range": [
+        207,
+        208
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Tell me what you want. I’ll give you my neck. I’ll make my men surrender, and I’ll seal the sect for ten years—or a hundred. So…”",
+      "baseline_paragraphs": "P209",
+      "baseline_range": [
+        208,
+        209
+      ],
+      "hunk_id": "H101",
+      "korean_lines": "431",
+      "sol": "“Tell me what you want. I’ll give you my head. I’ll order my men to surrender and seal the sect for ten years—or a hundred. So…”",
+      "sol_paragraphs": "P209",
+      "sol_range": [
+        208,
+        209
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Impossible. What I want is annihilation. Complete annihilation, without a single blade of grass left standing.”",
+      "baseline_paragraphs": "P210",
+      "baseline_range": [
+        209,
+        210
+      ],
+      "hunk_id": "H102",
+      "korean_lines": "433",
+      "sol": "“No. What I want is annihilation. Complete annihilation, without a single blade of grass left standing.”",
+      "sol_paragraphs": "P210",
+      "sol_range": [
+        209,
+        210
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Don’t ask me that. If you had won, it would have been this family facing annihilation.”",
+      "baseline_paragraphs": "P212",
+      "baseline_range": [
+        211,
+        212
+      ],
+      "hunk_id": "H103",
+      "korean_lines": "437",
+      "sol": "“Don’t ask me that. If you had won, it would have been our family facing annihilation.”",
+      "sol_paragraphs": "P212",
+      "sol_range": [
+        211,
+        212
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But in his condition, all a man with wounds like his could do was wring out a voice.",
+      "baseline_paragraphs": "P215",
+      "baseline_range": [
+        214,
+        215
+      ],
+      "hunk_id": "H104",
+      "korean_lines": "439",
+      "sol": "But grievously wounded as he was, all he could do was force out his voice.",
+      "sol_paragraphs": "P215",
+      "sol_range": [
+        214,
+        215
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Jin Family of Taiyuan. You started this, didn’t you? You killed that boy—my son!”",
+      "baseline_paragraphs": "P216",
+      "baseline_range": [
+        215,
+        216
+      ],
+      "hunk_id": "H105",
+      "korean_lines": "439",
+      "sol": "“The Jin Family of Taiyuan started this! You killed that boy—my son!”",
+      "sol_paragraphs": "P216",
+      "sol_range": [
+        215,
+        216
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Ah, Lee Seogeun. That’s right. That child was where it began.”",
+      "baseline_paragraphs": "P217",
+      "baseline_range": [
+        216,
+        217
+      ],
+      "hunk_id": "H106",
+      "korean_lines": "439",
+      "sol": "“Ah, Lee Seogeun. Yes. That child was where it all began.”",
+      "sol_paragraphs": "P217",
+      "sol_range": [
+        216,
+        217
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Head Elder wore a sardonic smile.",
+      "baseline_paragraphs": "P218",
+      "baseline_range": [
+        217,
+        218
+      ],
+      "hunk_id": "H107",
+      "korean_lines": "439",
+      "sol": "A sardonic smile touched the Head Elder’s lips.",
+      "sol_paragraphs": "P218",
+      "sol_range": [
+        217,
+        218
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even the master of the Mount Heng Sword Sect, one of the two powers splitting Shanxi between them, had failed to notice *their* intervention.",
+      "baseline_paragraphs": "P219",
+      "baseline_range": [
+        218,
+        219
+      ],
+      "hunk_id": "H108",
+      "korean_lines": "439",
+      "sol": "Even the master of the Mount Heng Sword Sect, one of the two powers that divided Shanxi between them, had failed to notice *their* intervention.",
+      "sol_paragraphs": "P219",
+      "sol_range": [
+        218,
+        219
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Not even with death at his doorstep.",
+      "baseline_paragraphs": "P220",
+      "baseline_range": [
+        219,
+        220
+      ],
+      "hunk_id": "H109",
+      "korean_lines": "439",
+      "sol": "Even now, with death staring him in the face.",
+      "sol_paragraphs": "P220",
+      "sol_range": [
+        219,
+        220
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "—When you meet King Yama, ask him. Ask who killed Lee Seogeun.",
+      "baseline_paragraphs": "P221",
+      "baseline_range": [
+        220,
+        221
+      ],
+      "hunk_id": "H110",
+      "korean_lines": "439",
+      "sol": "—When you meet Yama, ask him who killed Lee Seogeun.",
+      "sol_paragraphs": "P221",
+      "sol_range": [
+        220,
+        221
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Sound Transmission burrowing into his ear made Lee Cheonbaek’s eyes flare wide.",
+      "baseline_paragraphs": "P222",
+      "baseline_range": [
+        221,
+        222
+      ],
+      "hunk_id": "H111",
+      "korean_lines": "439",
+      "sol": "The Sound Transmission burrowed into Lee Cheonbaek’s ear, and his eyes flared wide.",
+      "sol_paragraphs": "P222",
+      "sol_range": [
+        221,
+        222
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It had been a thoroughly impulsive act.",
+      "baseline_paragraphs": "P224",
+      "baseline_range": [
+        223,
+        224
+      ],
+      "hunk_id": "H112",
+      "korean_lines": "439",
+      "sol": "It was a thoroughly impulsive act.",
+      "sol_paragraphs": "P224",
+      "sol_range": [
+        223,
+        224
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Perhaps pity for Lee Cheonbaek, who was about to die knowing nothing.",
+      "baseline_paragraphs": "P225",
+      "baseline_range": [
+        224,
+        225
+      ],
+      "hunk_id": "H113",
+      "korean_lines": "439",
+      "sol": "Perhaps it came from pity for Lee Cheonbaek, who was about to die without ever knowing the truth.",
+      "sol_paragraphs": "P225",
+      "sol_range": [
+        224,
+        225
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Or perhaps nothing more than an old man’s whim.",
+      "baseline_paragraphs": "P226",
+      "baseline_range": [
+        225,
+        226
+      ],
+      "hunk_id": "H114",
+      "korean_lines": "439",
+      "sol": "Or perhaps it was nothing more than an old man’s whim.",
+      "sol_paragraphs": "P226",
+      "sol_range": [
+        225,
+        226
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "—Fare for the road to the afterlife. Think it over on the long journey.",
+      "baseline_paragraphs": "P227",
+      "baseline_range": [
+        226,
+        227
+      ],
+      "hunk_id": "H115",
+      "korean_lines": "439",
+      "sol": "—Consider it fare for the road to the afterlife. Think it over on your long journey.",
+      "sol_paragraphs": "P227",
+      "sol_range": [
+        226,
+        227
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The sunset beyond the winter ridge shattered into fragments along the blade.",
+      "baseline_paragraphs": "P229",
+      "baseline_range": [
+        228,
+        229
+      ],
+      "hunk_id": "H116",
+      "korean_lines": "439",
+      "sol": "The light of the setting sun beyond the winter ridge splintered across the blade.",
+      "sol_paragraphs": "P229",
+      "sol_range": [
+        228,
+        229
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Those who resisted would die. Those who surrendered would be taken.",
+      "baseline_paragraphs": "P232",
+      "baseline_range": [
+        231,
+        232
+      ],
+      "hunk_id": "H117",
+      "korean_lines": "439",
+      "sol": "Those who resisted would die. Those who surrendered would be taken prisoner.",
+      "sol_paragraphs": "P232",
+      "sol_range": [
+        231,
+        232
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "One war would end like that…",
+      "baseline_paragraphs": "P233",
+      "baseline_range": [
+        232,
+        233
+      ],
+      "hunk_id": "H118",
+      "korean_lines": "439",
+      "sol": "One war would end…",
+      "sol_paragraphs": "P233",
+      "sol_range": [
+        232,
+        233
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And a new war would begin, at the very moment everyone was drunk on victory.",
+      "baseline_paragraphs": "P234",
+      "baseline_range": [
+        233,
+        234
+      ],
+      "hunk_id": "H119",
+      "korean_lines": "439",
+      "sol": "And a new war would begin the moment everyone was drunk on victory.",
+      "sol_paragraphs": "P234",
+      "sol_range": [
+        233,
+        234
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A sharp sound tore the air.",
+      "baseline_paragraphs": "P238",
+      "baseline_range": [
+        237,
+        238
+      ],
+      "hunk_id": "H120",
+      "korean_lines": "439",
+      "sol": "A sharp sound tore through the air.",
+      "sol_paragraphs": "P238",
+      "sol_range": [
+        237,
+        238
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Sensing the end, Lee Cheonbaek closed his eyes.",
+      "baseline_paragraphs": "P239",
+      "baseline_range": [
+        238,
+        239
+      ],
+      "hunk_id": "H121",
+      "korean_lines": "439",
+      "sol": "Sensing his end, Lee Cheonbaek closed his eyes.",
+      "sol_paragraphs": "P239",
+      "sol_range": [
+        238,
+        239
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The blade, wrapped in blue Sword Energy, traced a beautiful line.",
+      "baseline_paragraphs": "P240",
+      "baseline_range": [
+        239,
+        240
+      ],
+      "hunk_id": "H122",
+      "korean_lines": "439",
+      "sol": "The blade, wrapped in blue Sword Energy, traced a beautiful arc.",
+      "sol_paragraphs": "P240",
+      "sol_range": [
+        239,
+        240
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But the tearing sound that had come first, and the direction of the sword, were both beyond Lee Cheonbaek’s expectations.",
+      "baseline_paragraphs": "P242",
+      "baseline_range": [
+        241,
+        242
+      ],
+      "hunk_id": "H123",
+      "korean_lines": "439",
+      "sol": "But both the sound that had come first and the direction of the sword were not what Lee Cheonbaek had expected.",
+      "sol_paragraphs": "P242",
+      "sol_range": [
+        241,
+        242
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Head Elder split a spear that came flying at his back out of nowhere, cutting it apart with Sword Energy.",
+      "baseline_paragraphs": "P243",
+      "baseline_range": [
+        242,
+        243
+      ],
+      "hunk_id": "H124",
+      "korean_lines": "439",
+      "sol": "A spear had come flying at the Head Elder’s back out of nowhere, and he split it apart with Sword Energy.",
+      "sol_paragraphs": "P243",
+      "sol_range": [
+        242,
+        243
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "An enraged roar burst from his mouth.",
+      "baseline_paragraphs": "P244",
+      "baseline_range": [
+        243,
+        244
+      ],
+      "hunk_id": "H125",
+      "korean_lines": "439",
+      "sol": "The old man roared in fury.",
+      "sol_paragraphs": "P244",
+      "sol_range": [
+        243,
+        244
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Who the hell are you!”",
+      "baseline_paragraphs": "P245",
+      "baseline_range": [
+        244,
+        245
+      ],
+      "hunk_id": "H126",
+      "korean_lines": "439",
+      "sol": "“Who the hell are you?”",
+      "sol_paragraphs": "P245",
+      "sol_range": [
+        244,
+        245
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The answer came the next instant.",
+      "baseline_paragraphs": "P246",
+      "baseline_range": [
+        245,
+        246
+      ],
+      "hunk_id": "H127",
+      "korean_lines": "439",
+      "sol": "The answer came an instant later.",
+      "sol_paragraphs": "P246",
+      "sol_range": [
+        245,
+        246
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Head Elder saw the face of a young man standing tall on a low hill, and groaned.",
+      "baseline_paragraphs": "P248",
+      "baseline_range": [
+        247,
+        248
+      ],
+      "hunk_id": "H128",
+      "korean_lines": "439",
+      "sol": "The Head Elder spotted a young man standing tall atop a low hill and groaned.",
+      "sol_paragraphs": "P248",
+      "sol_range": [
+        247,
+        248
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 249,
+  "sol_sha256": "f432072c953c23da0773f6419367167357f6a4c9b713a9aa1601d8da7dcef017",
+  "version": 1
+}

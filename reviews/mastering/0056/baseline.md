@@ -48,7 +48,7 @@ The Head Elder swallowed a bitter smile and drew his sword.
 
 Shing.
 
-For many years he had carried two swords. One at his chest, the other at his waist.
+For many years, he had carried two swords: one in his heart, and one at his waist.
 
 There was no need for more words.
 
@@ -118,7 +118,7 @@ Blood Wolf Sword Lee Cheonbaek was a born martial artist.
 
 With innate talent for martial arts and beastlike instincts, he had cut down his enemies and realized his ambitions one after another.
 
-He had founded the Mount Heng Sword Sect and grown its strength by absorbing the surrounding factions one by one. His aim was to lay the foundation for a prestigious house that would one day be recognized even in the Central Plains.
+He had founded the Mount Heng Sword Sect and grown its strength by absorbing the surrounding factions one by one. His aim was to lay the foundation for a great family that would one day be recognized even in the Central Plains.
 
 *Sect Leader! The Young Master…*
 
@@ -136,7 +136,7 @@ Lee Cheonbaek’s eyes blazed.
 
 “You bastard—!”
 
-He charged like a beast. The blade, holding sixty years of internal energy, shone milky white.
+He charged like a beast. The blade, holding one jiazi of internal energy, shone milky white.
 
 With this much power, it could cut through any armor, any divine weapon.
 
@@ -188,7 +188,7 @@ The answer was already clear.
 
 *A master!*
 
-Whether in one form or half a form, the old man in front of him was a master a league above Lee Cheonbaek.
+Whether by a full form or half a form, the old man before him stood above Lee Cheonbaek.
 
 Lee Cheonbaek tightened his grip on his beloved sword.
 
@@ -284,7 +284,7 @@ It looked like an ordinary blue-steel sword, but the moment it entered his hand,
 
 Lee Cheonbaek did not refuse.
 
-The blade, having drawn in sixty years of internal energy, raised a shimmering haze of light.
+The blade, having drawn in one jiazi of internal energy, raised a shimmering haze of light.
 
 The realm of Sword Energy Frost Blade—a realm countless martial artists dreamed of reaching.
 
