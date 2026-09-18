@@ -591,6 +591,8 @@ Return this exact shape:
 }}
 
 Use empty arrays when no name, address-pair, or profile change is required.
+`profile_creations` is only for characters with no existing `characters/` file.
+If the person already appears under Listed compact profiles, use `profile_updates`.
 
 ## Prior durable context
 

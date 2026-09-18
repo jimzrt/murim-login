@@ -813,6 +813,32 @@ def command_revise(number: int) -> None:
 PROFILE_UPDATE_FIELDS = ("Safe through", "Aliases", "Role", "Personality", "Voice", "Relationships")
 
 
+def merge_existing_profile_creation(body: str, item: dict) -> str:
+    replacements = {
+        "Role": item["role"],
+        "Personality": item["personality"],
+        "Voice": item["voice"],
+        "Relationships": item["relationships"],
+    }
+    if item.get("aliases"):
+        replacements["Aliases"] = ", ".join(item["aliases"])
+    lines = []
+    for line in body.splitlines():
+        replaced = False
+        for field, value in replacements.items():
+            prefix = f"- **{field}:**"
+            if line.startswith(prefix):
+                lines.append(f"{prefix} {value}")
+                replaced = True
+                break
+        if not replaced:
+            lines.append(line)
+    text = "\n".join(lines)
+    if body.endswith("\n"):
+        text += "\n"
+    return text
+
+
 def render_beat(number: int, beat: dict) -> str:
     bullets = lambda items: "\n".join(f"- {item}" for item in items) or "- None."
     return (
@@ -950,12 +976,6 @@ def durable_files(number: int, update: dict) -> dict[Path, str]:
             raise ValueError(f"profile update current line is not unique: {relative}")
         profile_texts[path] = profile_texts[path].replace(current, replacement)
 
-    safe_line = re.compile(r"^- \*\*Safe through:\*\*.*$", re.MULTILINE)
-    for path, body in profile_texts.items():
-        if len(safe_line.findall(body)) != 1:
-            raise ValueError(f"profile requires one Safe through line: {path.relative_to(ROOT)}")
-        profile_texts[path] = safe_line.sub(f"- **Safe through:** Chapter {number}", body)
-
     creations: dict[Path, str] = {}
     for item in update["profile_creations"]:
         filename = item["filename"]
@@ -964,8 +984,12 @@ def durable_files(number: int, update: dict) -> dict[Path, str]:
         if item["korean"] not in source:
             raise ValueError(f"new profile name is absent from source: {item['korean']}")
         path = ROOT / "characters" / filename
-        if path.exists() or path in creations:
+        if path in creations:
             raise ValueError(f"profile already exists: {path.relative_to(ROOT)}")
+        if path.exists():
+            body = profile_texts.get(path, path.read_text(encoding="utf-8"))
+            profile_texts[path] = merge_existing_profile_creation(body, item)
+            continue
         aliases = ", ".join(item["aliases"]) or "None"
         creations[path] = f"""# {item["english"]} ({item["korean"]})
 
@@ -977,6 +1001,12 @@ def durable_files(number: int, update: dict) -> dict[Path, str]:
 - **Relationships:** {item["relationships"]}
 - **Sources:** Korean source and accepted translation, Chapter {number}
 """
+
+    safe_line = re.compile(r"^- \*\*Safe through:\*\*.*$", re.MULTILINE)
+    for path, body in profile_texts.items():
+        if len(safe_line.findall(body)) != 1:
+            raise ValueError(f"profile requires one Safe through line: {path.relative_to(ROOT)}")
+        profile_texts[path] = safe_line.sub(f"- **Safe through:** Chapter {number}", body)
 
     beat_text = render_beat(number, update["beat"])
     if len(beat_text.encode("utf-8")) > config["beat_max_bytes"]:
