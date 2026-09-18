@@ -148,7 +148,7 @@ But—
 
 “Take your hand off.”
 
-I didn’t even blink. It wasn’t only the System that had synchronized. My martial arts, my stats, and even my steel-like Sinews and Bones had come with it.
+I didn’t even blink. It wasn’t only the System that had synchronized. My martial arts, my stats, and even my steel-like Muscles and Bones had come with it.
 
 “I’ll count to three. Take your hand off.”
 

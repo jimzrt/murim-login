@@ -22,17 +22,17 @@ I entered the lobby on stiff legs. The place was the size of a playing field and
 
 **Measurement Waiting Room**
 
-On the clerk’s instructions, I filled out the paperwork and went inside. Dozens of people were waiting to be measured.
+At the clerk’s instructions, I filled out the paperwork and went inside. Dozens of people were waiting to be measured.
 
 Thud.
 
-The door shut, and everyone’s eyes shot into me like arrows.
+The door shut behind me, and every eye in the room stabbed into me like an arrow.
 
 *I can’t breathe. This is suffocating.*
 
-Even the air was different here. A taut tension pressed down on the entire waiting room.
+Even the air felt different here. Tension hung over the entire waiting room.
 
-*One measurement decides your whole Hunter life.*
+*One measurement could decide your entire career as a Hunter.*
 
 I was no exception. I’d once been so nervous that I farted in front of an examiner. That pretty much said it all.
 
@@ -50,9 +50,9 @@ A potbellied, middle-aged man with a bulbous nose. A face I couldn’t forget no
 
 *…Team Leader Kim?*
 
-Kim Sangshik. A founding member and team leader of Sopung Guild, where I’d spent years. He could be summed up in one word.
+Kim Sangshik. A founding member and team leader of Sopung Guild, where I’d spent several years.
 
-Former boss.
+In short, my former boss.
 
 “Wow, I never expected to run into you here. Good to see you.”
 
@@ -66,7 +66,7 @@ Team Leader Kim thrust out his hand with a hearty laugh. I hesitated for a momen
 
 I’d said it thinking of Murim, but Team Leader Kim would take it another way. After all, he was the one who’d handed me my dismissal only a few days ago.
 
-“It’s because it’s summer. My days have felt long lately too.”
+“It’s the summer. My days have felt long lately too.”
 
 “Really?”
 
@@ -80,9 +80,9 @@ In more ways than one.
 
 “I had some business. What about you, Team Leader?”
 
-“Came to scout. Heard there was a decent one this time.”
+“Scouting. I heard there was a promising kid here today.”
 
-They’d fired me for staff cuts in a restructuring. And he was here to scout.
+They’d supposedly fired me because restructuring required staff cuts, yet here he was scouting.
 
 “I see.”
 
@@ -94,7 +94,7 @@ That was all I had to say. It was the same tired story everyone knew, and it was
 
 Team Leader Kim smiled.
 
-“Nice try, but isn’t that a waste of money? A reassessment isn’t cheap. Must be a burden for an F-rank Hunter.”
+“Nothing wrong with trying, but isn’t that a waste of money? Reassessments aren’t cheap. That must be a heavy expense for an F-rank Hunter.”
 
 “I thought I’d give it a try anyway. Just in case.”
 
@@ -152,7 +152,7 @@ I didn’t even blink. It wasn’t only the System that had synchronized. My mar
 
 “I’ll count to three. Take your hand off.”
 
-“You little bastard. I’ve been putting up with you, but—”
+“You little bastard. I’ve let you get away with enough—”
 
 I didn’t hesitate.
 
@@ -180,7 +180,7 @@ So did the Level Window I picked up through Qi Sense.
 >
 > **Lv. 24 Kim Sangshik**
 
-“Meeting you was disgusting. Let’s never see each other again.”
+“Seeing you again was fucking unpleasant. Let’s never do it again.”
 
 I rose without a shred of regret. My waiting number was thirty.
 
@@ -222,7 +222,7 @@ Everyone was E-rank or F-rank. One guy wasn’t even Awakened.
 
 “This is a scam! A scam! That measuring device is made in China, isn’t it? Huh? You bastards!”
 
-“Handle him.”
+“Remove him.”
 
 At the examiner’s command, the security Hunters waiting nearby dragged the fraudster away. Even if that guy miraculously Awakened someday, he’d probably end up on the Association’s blacklist.
 
@@ -242,7 +242,7 @@ From his tone, he might as well have been telling me not to waste my money and t
 
 The usual attitude toward an F-rank Hunter.
 
-*Do they think I’m a beggar?*
+*Who does he think he is, treating me like a beggar?*
 
 I was used to it. That didn’t make it any less insulting. When I glared at him, the examiner gave a short laugh.
 
@@ -264,7 +264,7 @@ And the next moment—
 
 Bzzzzzt.
 
-A wave of mana rolled out of the measuring device and swept through my whole body.
+A wave of magical energy rolled out of the measuring device and swept through my entire body.
 
 My fifteen years of internal energy responded with a shudder.
 
@@ -340,7 +340,7 @@ Kim Sangshik stared down at his throbbing wrist.
 
 It had lasted only an instant, but the strength he’d felt had been tremendous. Taekyung might have reawakened as an E-rank—or perhaps even a D-rank.
 
-“No. Reawakening isn’t child’s play.”
+“No. Reawakening isn’t that easy.”
 
 Maybe he’d simply gotten weaker because he hadn’t exercised lately. Kim Sangshik was muttering to himself, his thoughts in turmoil, when—
 
@@ -348,13 +348,15 @@ Maybe he’d simply gotten weaker because he hadn’t exercised lately. Kim Sang
 
 “Did someone promising show up?”
 
-“They say a big fish surfaced. C-rank.”
+“They say they landed a big fish. C-rank.”
 
 “C-rank? That’s not bad, but is it really enough to call him a big fish?”
 
 “His mana control is supposedly A-rank.”
 
 “What? A-rank? Get your hooks into him, now!”
+
+Nearby, another scout was already on the phone.
 
 “Yes, this is Choi Minsu from Sangdong Guild. The reason I’m calling is…”
 
@@ -398,11 +400,11 @@ Rough breathing came through the phone, as though the Guild Master were excited.
 
 After ending the call, Kim Sangshik clenched his fist.
 
-*We’ve got this!*
+*We’ve got him!*
 
 He was an old hand at this business. Holding on to a newly Awakened rookie would be easy.
 
-This was a world where money could put even ghosts to work.
+Money could make even ghosts work.
 
 *Double whatever everyone else offers. I’ll offer him twice as much, no matter what.*
 
@@ -430,7 +432,7 @@ At the familiar voice, Kim Sangshik slowly raised his head.
 
 Their eyes met.
 
-At the same time, Kim Sangshik’s buttonhole-sized eyes went wide.
+At the same moment, Kim Sangshik’s buttonhole-sized eyes flew wide.
 
 “Y-you…”
 
