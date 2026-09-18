@@ -481,3 +481,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 무송 | 진태경 | senior_martial_artist_to_junior_martial_artist | Junior | familiar-teasing | Mu Song calls Taekyung 후배 and jokes about his supposed taste for men. |
 | 무송 | 황태구 | captor_to_defeated_bandit | you | hostile-commanding | Mu Song orders Hwang Tae-gu to accept the League's punishment after destroying his martial arts. |
 | 황태구 | 무송 | defeated_bandit_to_captor | you bastard | hostile-defiant | Hwang Tae-gu threatens Mu Song and the Water Dragon Stronghold bandits before losing consciousness. |
+| 무송 | 관리 | river-bandit leader to military official | General | casual-familiar | Uses 장군 while requesting permission to put passengers ashore. |
+| 관리 | 무송 | military official to Stronghold Lord | Stronghold Lord | formal-polite | Uses 채주 while wishing Mu Song martial fortune. |

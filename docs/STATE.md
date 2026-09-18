@@ -1,32 +1,32 @@
 # Translation State
 
-- Last completed: 333
-- Next chapter: 334
-- Current block: 330–334 (4/5)
-- Latest translation: `translations/0333.md`
-- Latest summary: `summaries/beats/0333.md`
-- Safe profiles through: chapter 333
+- Last completed: 334
+- Next chapter: 335
+- Current block: 330–334 (5/5)
+- Latest translation: `translations/0334.md`
+- Latest summary: `summaries/beats/0334.md`
+- Safe profiles through: chapter 334
 
 ## Current Block
 
-- Mungyeong, a young Level 6 medical apprentice whose parents were killed by Hwang Tae-gu and whose life Mu Song once saved, asks Mu Song to spare Hwang and punish him under League law rather than kill him. Mu Song destroys Hwang's dantian and immobilizes him for transport to League headquarters; Mungyeong's earlier tactics saved all twenty passengers, and after learning that Mu Song is sailing toward Xi'an, he boards the ship.
-- Mungyeong reveals that he saved the passengers by turning the boat into an uncontrollable drifting obstacle, using deck boards as shields and breaking the mast and sails to buy time against the river-bandits.
+- Jin Taekyung's party reaches Chengdu after three days aboard Mu Song's fast ship. Jeok Cheongang remains unconscious and is steadily weakening; Taekyung can only slow his decline with True Qi Guidance, leaving the Divine Physician as their sole hope.
+- Mu Song uses his negotiated understanding with Chengdu's authorities to land the party, then promises to send subordinates for their return journey. Taekyung gives Mungyeong travel money and learns that the medical apprentice is also headed to the Sichuan Tang Clan, allowing him to accompany the party.
 
 ## Open Questions
 
-- Where is the Divine Physician in Sichuan, and can Jeok Cheongang be treated within the remaining window?
+- Can the Divine Physician treat Jeok Cheongang before his remaining window closes?
 - What punishment will Yangtze River Channel League headquarters impose on Hwang Tae-gu, and can his connections still affect his fate?
 - Which other Yongbong Escort Bureau members collaborated with Heo Jun, and how will Song Ilseom's Guangdong Chen lineage affect the bureau and the wider Murim?
-- How will the Zhongnan Sect's Sect Leader and Elders respond to the exposed scheme, and what consequences will Hwangbo Eom's defeat, Heo Jun's betrayal, and Zhongnan's coercion cause within the Murim?
+- How will the Zhongnan Sect's Sect Leader and Elders respond to the exposed scheme and its consequences?
 - Who sought the Guangdong Chen Family's Peak martial arts, and what happened to the other members of the family?
 
 ## Exceptional Decision
 
-- Use Captain Song for 송 표두.
-- Use Great Hero Jin for 진 대협 when Ju Hwaran addresses Taekyung.
-- Use Lady for 여사 in Taekyung's joking sobriquet for Kim Jeonghee.
-- Render 선화아 as Ship-Fire Boy, 무송 as Mu Song, 채주 as Stronghold Lord, 의생 as medical apprentice, and 기해혈 as qi-sea acupoint.
-- Render 선장님 as Captain in the ship context, distinct from the established martial term 선장 rendered as Zen staffs.
+- Render 선화아 as Ship-Fire Boy and retain Mu Song for 무송.
+- Render 사천당가 as Sichuan Tang Clan, distinct from 사천당문 when the source distinguishes the family designation.
+- Render 공자님 as Young Master when Mungyeong addresses Taekyung.
+- Render 화타 as Hua Tuo.
+- Render 노야 as Old Master in Taekyung's private address for Jeok Cheongang.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

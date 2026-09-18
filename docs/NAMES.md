@@ -1154,3 +1154,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 맹규 | **League regulations** | Rules of the Yangtze River Channel League. |
 | 본단 | **League headquarters** | The League headquarters to which Hwang Tae-gu will be transported. |
 | 기해혈 | **qi-sea acupoint** | Acupoint at the dantian whose destruction releases stored internal energy. |
+| 화타 | **Hua Tuo** | Historical physician invoked in Taekyung's comparison for Mungyeong's future medical skill. |
