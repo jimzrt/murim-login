@@ -1,16 +1,16 @@
 # Translation State
 
-- Last completed: 407
-- Next chapter: 408
-- Current block: 405–409 (3/5)
-- Latest translation: `translations/0407.md`
-- Latest summary: `summaries/beats/0407.md`
-- Safe profiles through: chapter 407
+- Last completed: 408
+- Next chapter: 409
+- Current block: 405–409 (4/5)
+- Latest translation: `translations/0408.md`
+- Latest summary: `summaries/beats/0408.md`
+- Safe profiles through: chapter 408
 
 ## Current Block
 
-- Daniel Inoue leads a twenty-person intelligence operation into Suining City, but he is the only operative to return. After escaping eight hours later, he reports seeing a monster army of roughly thirty thousand, with the true number possibly twice that or more; most of the monsters are expected to be mid- or low-level.
-- The five-front advance stops two hundred kilometers from Suining City, where Magic Johnson summons Jin Taekyung and Team Leader Choi to a coalition meeting. The leaders learn that the Arch Lich has preserved a massive force for the final battle, and Jin proposes gathering the strongest fighters into a suicide squad to kill the Arch Lich, whose destruction would collapse the undead army.
+- The coalition accepts Jin Taekyung's proposal to form a suicide squad led by S-rank Hunters and strike directly at the Arch Lich, whose destruction should collapse the mostly undead monster army. Magic Johnson, Prince Felix, and Faye Chen are designated to remain behind, while Jin, Lee Jungryong, and the unwilling Wu Heixing join the assault force; Lee privately assures Wu that he will not face meaningful danger.
+- After the meeting, the Skeleton Warlord invokes Jin's promise to grant any request in exchange for protecting two humans and asks for freedom. Jin technically grants it by throwing the Warlord's skull into the crowded Hunter camp, but the battered undead commander soon returns and begs to retract the wish. Jin refuses a refund and calls it back into his arms.
 
 ## Open Questions
 
