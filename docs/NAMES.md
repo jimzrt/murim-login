@@ -1186,3 +1186,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 애향이 | **Aehyang** | Personal name of the Sichuan City Lord's favorite concubine. |
 | 묘령 | **Myoryeong** | Dharma name of the middle-aged Emei nun. |
 | 묘령사태 | **Venerable Myoryeong** | Honorific form for the injured Emei nun. |
+| 경천신니 | **Heaven-Shaking Venerable Nun** | Former Emei Sect Leader and sole Supreme Peak master; killed on Mount Emei. |
+| 혈나찰 | **Blood Rakshasa** | Demonic Cult epithet for the Heaven-Shaking Venerable Nun during the Great Faction War. |
+| 흑수인 | **Black Hand Seal** | Evil technique causing Myoryeong's progressive, potentially fatal injury. |

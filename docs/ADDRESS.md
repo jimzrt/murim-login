@@ -493,3 +493,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 사천성주 | visitor_to_city_lord | City Lord | sarcastic-polite | Taekyung jokingly praises him as our City Lord after making him fund the reward. |
 | 사천성주 | 애향이 | lord_to_favorite_concubine | Aehyang | affectionate-familiar | The City Lord uses her personal name while discussing the visitors. |
 | 애향이 | 사천성주 | favorite_concubine_to_city_lord | My lord | seductive-deferential | Aehyang repeatedly addresses the City Lord as 대인 while persuading him to receive Taekyung. |
+| 청성파의 두 장로 | 묘령사태 | allied_sect_elders_to_injured_nun | Venerable Myoryeong | formal and urgent | They call out to Myoryeong after hearing that the Heaven-Shaking Venerable Nun has died. |
+| 묘령사태 | 진태경 | injured_allied_nun_to_young_hero | Young Hero Jin | formal-deferential | Uses 진 소협 after recognizing that Taekyung already understands the likely connection between the attacks. |
