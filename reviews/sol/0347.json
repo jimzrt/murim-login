@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Heh heh. He was once a well-known demonic villain, too.",
+      "defect": "The translation omits that the prisoner was specifically notorious among the Demonic Cult’s fiends, erasing his organizational affiliation.",
+      "id": "F01",
+      "rationale": "마교 explicitly means the Demonic Cult, while 마두 중에서도 알아주던 놈 identifies him as someone renowned even among its notorious villains.",
+      "replacement": "“Heh heh. He was once notorious even among the Demonic Cult’s fiends.",
+      "severity": "major",
+      "source": "클클. 한때는 마교의 마두 중에서도 알아주던 놈입지요."
+    },
+    {
+      "confidence": 1.0,
+      "current": "I did not believe in gods, but I did believe that an omnipotent being existed somewhere above the heavens.",
+      "defect": "The description omits 전지, meaning that the being is omniscient as well as omnipotent.",
+      "id": "F02",
+      "rationale": "전지전능 means both all-knowing and all-powerful; retaining both attributes preserves the full statement.",
+      "replacement": "I did not believe in gods, but I did believe that an omniscient and omnipotent being existed somewhere above the heavens.",
+      "severity": "minor",
+      "source": "나는 신을 믿지 않지만, 하늘 위의 전지전능한 존재가 있다는 것은 믿는다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "No one who had lied in front of the middle-aged man had survived.",
+      "defect": "The draft changes the fact that no one had ever lied to him into a claim that liars had existed but were killed.",
+      "id": "F03",
+      "rationale": "거짓을 고했던 이는 아무도 없었다 negates the existence of anyone who had told him a lie; it says nothing about such people failing to survive.",
+      "replacement": "Until now, no one had ever lied to the middle-aged man.",
+      "severity": "critical",
+      "source": "지금껏 중년인의 앞에서 거짓을 고했던 이는 아무도 없었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "*But their lives have only been extended by a few days. The outcome will not change.*",
+      "defect": "The plural subject broadens the threat to multiple people, whereas the thought refers specifically to Tang Sadok’s life.",
+      "id": "F04",
+      "rationale": "The immediately preceding thought names Tang Sadok as the man he should have killed, making the singular 명줄 Tang Sadok’s lifespan.",
+      "replacement": "*But his life has only been extended by a few days. The outcome will not change.*",
+      "severity": "critical",
+      "source": "허나 명줄이 며칠 더 늘어난 것뿐. 결과는 달라지지 않을 것이다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "With a single step, he erased the distance between him and his destination, and the scenery blurred past.",
+      "defect": "The draft adds a destination and states that the entire distance to it is crossed in one step, even though the source describes distance vanishing with his steps as he travels.",
+      "id": "F05",
+      "rationale": "한걸음에 describes the extraordinary distance covered step by step; no destination is mentioned, and the following sentence says he eventually stops at the cliff.",
+      "replacement": "With every step, distance vanished beneath him and the scenery blurred past.",
+      "severity": "critical",
+      "source": "한걸음에 거리가 지워지고 풍경이 스쳐나간다."
+    }
+  ],
+  "summary": "Five actionable fidelity issues: one omitted affiliation, one omitted divine attribute, and three altered facts or actions in the second scene.",
+  "version": 1
+}

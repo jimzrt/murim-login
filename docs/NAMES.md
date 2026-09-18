@@ -1217,3 +1217,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 궁 노인 | **Old Man Gung** | Hunched caretaker of the Sichuan Tang Clan's underground prison. |
 | 천력마 | **Heavenly Power Demon** | Formerly imprisoned Tang Clan criminal; distinct from 천력부, Heavenly Axe. |
 | 회오리치기 | **Whirlwind** | Technique Mimi-chan performs at Cheongpung's command. |
+| 한빙석 | **Cold-Ice Stone** | Special stone provided by Tang Sadok for Jeok Cheongang's treatment. |
+| 서천마군 | **Western Heaven Demon Lord** | Title of the middle-aged antagonist who commands the summoned black-robed hunters. |

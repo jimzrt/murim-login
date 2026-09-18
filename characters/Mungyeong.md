@@ -1,6 +1,6 @@
 # Mungyeong (문경)
 
-- **Safe through:** Chapter 346
+- **Safe through:** Chapter 347
 - **Aliases:** None
 - **Role:** Young medical apprentice and Disciple of Dong Feng who is assisting his Master and Jin Taekyung's party at the Sichuan Tang Clan with Jeok Cheongang's treatment.
 - **Personality:** Compassionate, resolute, resourceful, and calm under extreme pressure.
