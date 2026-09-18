@@ -10,7 +10,7 @@ A day passed, then two, then three… and after about a week, that tiny spark ha
 
 **[Happy Thoughts] Man in His Twenties Prevents Major Disaster. “I Only Did What Anyone Should Have Done.”**
 
-**[Current Hot Topic] Two Gates Open in a Single Day… An Unprecedented Crisis, and a Fierce Clash Between the Ruling and Opposition Parties Over National Defense and Security**
+**[Current Hot Topic] Two Gates Open in a Single Day… Unprecedented Crisis Sparks Fierce Clash Between Ruling and Opposition Parties Over National Defense and Security**
 
 **[Parliament’s Words of the Day] Freedom Patriot Party Chairman’s Outrageous Remark Draws Attention: “Jin Taekyung Has Thick Arms, So He’s Clearly Conservative. Conservatives Saved the Country.”**
 
@@ -18,7 +18,7 @@ Daily newspapers, weekly papers, current-affairs magazines, lifestyle magazines,
 
 The newspapers and magazines piled high on the table all had one thing in common: my face and name were plastered across them.
 
-Even looking at them was enough to make me feel overwhelmed by the sheer volume.
+The sheer number was overwhelming.
 
 *Why are there so many?*
 
@@ -38,7 +38,7 @@ The saying that you could meet the entire country just by visiting a few major o
 
 “Why is everyone so interested in other people’s business?”
 
-At my mutter, Hyung Jinho shrugged while eating bibimbap from a large metal bowl.
+Jinho shrugged as he ate bibimbap from a large metal bowl.
 
 “It’s a good thing. You’re famous for doing something good.”
 
@@ -72,7 +72,7 @@ Several massive online communities, each claiming more than a million registered
 
 └ They would’ve done the same thing even if their own families had been there. They’re just fucking crazy.
 
-└ What company is it? Post the article link.
+└ What company was it? Post the article link.
 
 └ Hailey News. Reporter B.H.Y. The original’s been deleted, but it’s already too late, LOL.
 
@@ -112,7 +112,7 @@ The news kept calling me a hero who had prevented a major disaster, but every no
 
 “I’ve already eaten three bowls.”
 
-“You normally eat at least five.”
+“You normally eat five.”
 
 “…That’s true.”
 
@@ -124,11 +124,11 @@ It had been a while since I’d heard Jinho sound so serious. He set down his sp
 
 “…”
 
-“You’re not a god. How can you save everyone? Even gods can’t do that.”
+“You’re not a god. How could you possibly save everyone? Even God can’t do that.”
 
 He was right.
 
-I wasn’t denying the existence or power of a god, but that didn’t mean I could reconcile myself to it, either.
+I didn’t deny the existence or power of God, but that didn’t mean I could accept it all, either.
 
 The only things I knew for certain were that hundreds of millions of people had died during the Great Cataclysm, that my father had died in an accident, and that my family had lived a poor, desperate life.
 
@@ -136,7 +136,7 @@ The only things I knew for certain were that hundreds of millions of people had 
 
 “To let my family live without envying anyone else. To protect the people I care about.”
 
-“Sum it up in one word.”
+“Sum it up in one phrase.”
 
 A quiet laugh escaped me.
 
@@ -204,8 +204,6 @@ As I stared at him in disbelief, the phone on the table buzzed, and a text messa
 
 > **Team Leader Choi**
 >
-> **Team Leader Choi**
->
 > I’ve arrived. Come down to the underground parking garage right away.
 
 * * *
@@ -236,13 +234,13 @@ When had they even made an official website?
 
 They had posted a massive recruitment notice for new Guild members not long ago, too. It seemed they intended to make the most of this opportunity.
 
-But despite Team Leader Choi’s efforts to stop them, the reporters clung to us stubbornly. Apparently, not getting a single interview over the past few days had eaten away at them.
+But despite Team Leader Choi’s attempts to stop them, the reporters clung to us stubbornly. Apparently, going several days without landing a single interview had left them desperate.
 
 “You’re the Team Leader of the Peace Guild, right? We weren’t asking you, so move!”
 
 “Yeah, get out of the way! Your website is garbage, too. How long are we supposed to wait after submitting an inquiry before we get an interview?”
 
-“It’s just one word. Why are you acting so precious?”
+“We only want a few words. Why are you playing so hard to get?”
 
 “Are you looking down on us because we’re a tiny second-rate media outlet?”
 
@@ -254,15 +252,15 @@ He looked slender, but an incredible amount of strength was packed into that bod
 
 “Whoa!”
 
-“Hey, he’s using force now?”
+“Hey, now he’s using force!”
 
 “A Hunter! The Hunter is beating people up!”
 
-*Go on, make a whole fucking scene…*
+*Oh, fuck off…*
 
 I swallowed the words that had risen to my throat.
 
-Just by looking at them, I could tell the reporters in front of us were low quality.
+As their behavior made obvious, these were not reputable reporters.
 
 Team Leader Choi had arranged dozens of interviews over the past week as the Guild’s spokesperson. If he was filtering these people out, it didn’t take a taste test to tell whether they were soybean paste or shit.
 
@@ -298,7 +296,7 @@ Everyone’s eyes dropped to the floor.
 
 The wristwatch that had fallen from Team Leader Choi’s wrist rolled across the parking-garage floor.
 
-More than ten watch hands. Jewels set densely across its surface. And a face cracked like a spiderweb.
+It had more than ten hands, a face densely set with jewels, and a crystal cracked like a spiderweb.
 
 “…”
 
@@ -308,7 +306,7 @@ Gulp.
 
 The sound of the cameraman swallowing echoed through the parking garage.
 
-Then Team Leader Choi’s quiet voice pierced everyone’s ears.
+Then Team Leader Choi’s quiet voice reached every ear.
 
 “The Universe-302, the final masterpiece personally crafted in his later years by Peter Philip, Switzerland’s greatest watchmaker. How tragic that this beautiful pinnacle of automatic mechanical watchmaking, which survived even the Great Cataclysm, should be destroyed so senselessly.”
 
@@ -340,7 +338,7 @@ Team Leader Choi glanced at the rearview mirror and spoke.
 
 “It would’ve been even stranger if a wristwatch came loose that easily.”
 
-“I only scared them a little. I wore it in case something like this happened. It was a good choice.”
+“I only wanted to frighten them a little. I wore it in case something like this happened. It proved to be a good choice.”
 
 Wasn’t this guy basically Zhuge Liang?
 
@@ -348,7 +346,7 @@ As I admired Team Leader Choi’s clever trick, something suddenly darted in fro
 
 “Team Leader Choi!”
 
-Screeeeeech!
+Screech!
 
 Team Leader Choi hit the brakes half a beat before I shouted. Staring through the windshield at the person in front of us, he muttered,
 
@@ -356,7 +354,7 @@ Team Leader Choi hit the brakes half a beat before I shouted. Staring through th
 
 I agreed.
 
-An ordinary person could not wear such a relaxed smile in a situation like this.
+An ordinary person wouldn’t be smiling so calmly after something like that.
 
 *And…*
 
