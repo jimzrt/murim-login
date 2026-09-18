@@ -1,46 +1,5 @@
 {
-  "findings": [
-    {
-      "confidence": 0.97,
-      "current": "His wrinkled skin was ice-cold",
-      "defect": "“Ice-cold” weakens the physical detail that his skin was frozen solid.",
-      "id": "F01",
-      "rationale": "The source says his skin was 꽁꽁 얼어 있었다, describing it as thoroughly frozen rather than merely cold.",
-      "replacement": "His wrinkled skin was frozen stiff",
-      "severity": "minor",
-      "source": "line 27"
-    },
-    {
-      "confidence": 0.96,
-      "current": "a place for gatherings and reconciliations like today’s",
-      "defect": "“Gatherings” replaces the source’s specific function of harmony or unity.",
-      "id": "F02",
-      "rationale": "화합 means harmony or unity, not simply a gathering; the inn serves as neutral ground where opposing groups unite or reconcile.",
-      "replacement": "a place for unity or reconciliation, as it had today",
-      "severity": "minor",
-      "source": "line 57"
-    },
-    {
-      "confidence": 0.99,
-      "current": "As he fearlessly reached for his sword sheath",
-      "defect": "“Fearlessly” changes an unhesitating action into a claim about courage or lack of fear.",
-      "id": "F03",
-      "rationale": "거침없이 describes acting readily or without hesitation, not specifically acting without fear.",
-      "replacement": "As he reached for his sword sheath without hesitation",
-      "severity": "minor",
-      "source": "line 89"
-    },
-    {
-      "confidence": 0.95,
-      "current": "You can’t just leave someone like this alive…",
-      "defect": "The translation makes the old man’s lethal intent explicit before the source does.",
-      "id": "F04",
-      "rationale": "가만히 놔두면 안 되는데 means that someone like him cannot be left alone or allowed to remain unchecked; “alive” prematurely resolves the implication into an explicit decision to kill.",
-      "replacement": "You can’t just leave someone like this be…",
-      "severity": "minor",
-      "source": "line 367"
-    }
-  ],
-  "summary": "Faithful overall, with four minor fidelity defects involving physical detail, purpose, characterization, and explicitness.",
+  "findings": [],
+  "summary": "The assembled English is faithful to the Korean source with no genuine fidelity defects found.",
   "version": 1
 }
