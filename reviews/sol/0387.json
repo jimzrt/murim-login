@@ -1,0 +1,126 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Yeah. Just the two of us.”",
+      "defect": "The translation changes “among ourselves” into exactly two people, even though the following sentence establishes that two other people are already part of the group.",
+      "id": "F01",
+      "rationale": "우리끼리 restricts the gathering to the speaker's group; it does not specify a party of two.",
+      "replacement": "“Yeah. Just us.”",
+      "severity": "critical",
+      "source": "「응. 우리끼리.」"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“I’m not a lady, but of course there is. Do you like wine, Prince?”",
+      "defect": "The draft renders 귀부인 as the generic “lady,” making Faye deny being a woman rather than denying the elevated description of her as a noblewoman.",
+      "id": "F02",
+      "rationale": "귀부인 specifically denotes a noble or high-society lady and answers Felix's grandiose 동양의 귀부인이여.",
+      "replacement": "“I’m no noblewoman, but of course I have some. Do you like wine, Prince?”",
+      "severity": "minor",
+      "source": "「귀부인은 아닌데, 당연히 있지. 술 좋아해, 왕자?」"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I told you to call me His Highness Prince Felix, not Prince.",
+      "defect": "Felix explicitly demands “His Highness Felix” instead of “Prince,” but the draft retains Prince inside the demanded form of address.",
+      "id": "F03",
+      "rationale": "필릭스 전하 is “His Highness Felix”; the contrast 왕자가 아니라 requires Prince to be absent from the preferred address.",
+      "replacement": "“I told you to call me His Highness Felix, not Prince.",
+      "severity": "major",
+      "source": "「왕자가 아니라 필릭스 전하라고 부르라니까."
+    },
+    {
+      "confidence": 0.99,
+      "current": "And I enjoy wine in moderation. Especially forty-five-year-old Romanée-Conti.”\n\n“I don’t have any forty-five-year-old wine.”",
+      "defect": "The draft turns the 1945 vintage into a wine aged for forty-five years, changing the wine Felix requests.",
+      "id": "F04",
+      "rationale": "For a named wine, 45년 산 identifies the 1945 vintage rather than an age of forty-five years.",
+      "replacement": "And I enjoy wine in moderation. Especially the 1945 Romanée-Conti.”\n\n“I don’t have the 1945 vintage.”",
+      "severity": "critical",
+      "source": "그리고 술은 적당히 즐기는 편이다. 특히 로마네콩티 45년 산을.」\n\n「45년 산은 없는데.」"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Prince Felix answered with an displeased expression.",
+      "defect": "The indefinite article is grammatically incorrect.",
+      "id": "F05",
+      "rationale": "“Displeased” begins with a consonant sound and takes “a.”",
+      "replacement": "Prince Felix answered with a displeased expression.",
+      "severity": "minor",
+      "source": "필릭스 왕자가 못마땅한 얼굴로 대답했다."
+    },
+    {
+      "confidence": 0.9,
+      "current": "“I might be deployed to the front tomorrow, so I’d feel more at ease if I at least used Memorize.”",
+      "defect": "“Used Memorize” makes Memorize sound like a one-off spell cast, whereas 해 둬야 describes completing magical preparation in advance.",
+      "id": "F06",
+      "rationale": "The advance-completion construction 해 두다 and the prospect of deployment establish pre-battle spell preparation as the action.",
+      "replacement": "“I might be deployed to the front tomorrow, so I’d feel more at ease if I at least prepared my spells with Memorize.”",
+      "severity": "major",
+      "source": "「당장 내일 전선에 투입될지도 모르는데, 메모라이즈(Memorize) 정도는 해 둬야 마음이 편할 것 같아서.」"
+    },
+    {
+      "confidence": 0.98,
+      "current": "I gazed blankly at Wu Heixing’s back as he headed toward a sparsely populated forest and answered.",
+      "defect": "“Sparsely populated forest” awkwardly describes the forest in terms of residents rather than conveying that few people frequent it.",
+      "id": "F07",
+      "rationale": "인적 드문 means deserted, secluded, or seldom frequented by people.",
+      "replacement": "I gazed blankly at Wu Heixing’s back as he headed into the secluded forest and answered.",
+      "severity": "minor",
+      "source": "나는 인적 드문 숲속으로 향하는 우헤이싱의 뒷모습을 물끄러미 바라보며 대답했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "I looked at him with pity. His already flushed face reddened further as he stammered.",
+      "defect": "The draft changes Jin's contemptuous appraisal into sympathy and adds that Wu's face reddens further.",
+      "id": "F08",
+      "rationale": "한심한 눈빛 expresses contempt or disdain, while the source only states that Wu's face was already flushed.",
+      "replacement": "I gave him a contemptuous look, and the red-faced Wu Heixing began to stammer.",
+      "severity": "minor",
+      "source": "한심한 눈빛으로 바라보자, 얼굴이 벌겋게 달아올라 있던 우헤이싱이 더듬더듬 입을 열었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“If you’re thinking of becoming friends with me, fold that idea up neatly and put it away. If you stand next to shit, the smell gets on me too.”",
+      "defect": "The draft omits Jin's terse challenge asking what Wu intended if it was not another trick.",
+      "id": "F09",
+      "rationale": "아니면? is a separate confrontational prompt that preserves the dialogue's pressure and rhythm.",
+      "replacement": "“Then what? If you’re thinking of becoming friends with me, fold that idea up neatly and put it away. If you stand next to shit, the smell gets on me too.”",
+      "severity": "minor",
+      "source": "“아니면? 혹시 나랑 친해질 생각이면 곱게 접어서 넣어 둬라. 똥 옆에 있으면 나한테까지 냄새 배니까.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "The Sword Force that surged from the straight sword already drawn from its sheath—an Aura Blade, no, Sword Force—flew toward my throat.",
+      "defect": "The sentence identifies the attack as Sword Force before Jin's self-correction, making the subsequent “Aura Blade, no, Sword Force” sequence internally contradictory.",
+      "id": "F10",
+      "rationale": "The source first identifies the manifestation as an Aura Blade and then corrects that assessment to Sword Force.",
+      "replacement": "The Aura Blade surging from the straight sword already drawn from its sheath—no, the Sword Force—flew toward my throat.",
+      "severity": "major",
+      "source": "어느새 검집에서 뽑혀 나온 직검(直劍)에서 솟구친 오러 블레이드, 아니 검강이 내 목을 노리고 날아든다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“You’re sturdier than I thought. You’re not hurt that badly.”",
+      "defect": "The draft adds a comparison with Jin's prior expectations that is absent from the source.",
+      "id": "F11",
+      "rationale": "그래도 means “still,” while 몸은 튼튼해서 directly gives Wu's sturdy body as the reason he escaped serious injury.",
+      "replacement": "“Still, you’ve got a sturdy body, so you’re not hurt that badly.”",
+      "severity": "minor",
+      "source": "“그래도 몸은 튼튼해서 별로 안 다쳤네.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Jin Taekyung, please come quickly.",
+      "defect": "The draft silently corrects the frantic, mistyped message, removing the joke and the evidence that Team Leader Choi is typing under acute distress.",
+      "id": "F12",
+      "rationale": "The broken letters in 지ㄴ and 빠ㄹ리 are intentional pragmatic cues immediately supporting Jin's alarmed final reaction.",
+      "replacement": "Mr. Ji nTaekyung, pl ease come quickly.",
+      "severity": "major",
+      "source": "지ㄴ태경시제발빠ㄹ리 와주세요"
+    }
+  ],
+  "summary": "The draft contains two changed quantities, several hierarchy and mechanism errors, and a lost typographical joke in the final message.",
+  "version": 1
+}

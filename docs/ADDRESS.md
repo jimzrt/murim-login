@@ -595,3 +595,8 @@ Overrides generic relationship prose in character profiles for this pair.
 | 필릭스 | 이정룡 | British prince to senior S-rank Hunter | Jungryong Lee | formal through a translation device | Felix permits Lee to omit His Highness and gives his own preferred form of address. |
 | 랴오 상장 | 웨이펑후 | rival faction general to Minister of National Defense | Minister of National Defense Comrade | formal but confrontational | Liao interrupts Wei's operational proposal. |
 | 웨이펑후 | 랴오 상장 | Minister of National Defense to senior general | General Liao | formal and restrained | Wei responds to Liao's challenge during the war council. |
+| 파이 첸 | 필릭스 왕자 | older S-rank Hunter to British prince | Prince | playful and informal | Faye addresses Felix as Prince while he insists on His Highness Felix. |
+| 파이 첸 | 존슨 | S-rank Hunter to fellow S-rank Hunter | Johnson | familiar and playful | Faye directly asks Johnson whether he will join the drinking gathering. |
+| 매직 존슨 | 파이 첸 | S-rank Hunter to fellow S-rank Hunter | Miss Chen | friendly and playful | Johnson uses the formalized Miss Chen while inviting her to drink. |
+| 파이 첸 | 최 팀장 | older S-rank Hunter to a younger Team Leader | handsome young man | teasing and informal | Faye selects Team Leader Choi as her replacement drinking companion. |
+| 진태경 | 최 팀장 | Hunter to allied Team Leader | Team Leader Choi | informal and concerned | Jin uses Sound Transmission to tell Choi to contact him if anything happens. |

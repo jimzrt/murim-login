@@ -1,0 +1,64 @@
+{
+  "chapter": 387,
+  "draft_sha256": "dd6e35f765fc5a26877412c111d222df03dd6286eada1d5f746b36028a2ee427",
+  "finding_count": 12,
+  "major_or_critical_count": 6,
+  "packet_sha256": "96a1fed9eb3fd082181517912ffee67e01a72629e3a6c6d15084c3ca00b3425a",
+  "qa_sha256": "ad35d8fc5cf2abb84c4f4649eaf1a17e2ba47d120dc237ada0e31686e56a2f5c",
+  "report_sha256": "6080dca5779459fca38ac4d333a3b27b56aa972445a29de1b53d66cf1214187e",
+  "usage": {
+    "billing_type": "api",
+    "cache_read_tokens": 0,
+    "cache_write_tokens": 17578,
+    "cost_reported": 0.103271,
+    "cost_usd": 0.103271,
+    "elapsed_seconds": 236.219,
+    "event_log": "/home/james/Documents/murim_login_new/.work/0387/omp/review.jsonl",
+    "exact": true,
+    "fallback_used": true,
+    "fallbacks": [
+      {
+        "event": "retry_fallback_applied",
+        "from": "openai-codex/gpt-5.6-sol:medium",
+        "role": "openai-codex/gpt-5.6-sol",
+        "to": "openrouter/openai/gpt-5.6-sol"
+      },
+      {
+        "event": "retry_fallback_succeeded",
+        "model": "openrouter/openai/gpt-5.6-sol:medium",
+        "role": "openai-codex/gpt-5.6-sol"
+      }
+    ],
+    "input_bytes": 46774,
+    "input_tokens": 3,
+    "model": "openai/gpt-5.6-sol",
+    "models": {
+      "openrouter/openai/gpt-5.6-sol": {
+        "billing_type": "api",
+        "cache_read_tokens": 0,
+        "cache_write_tokens": 17578,
+        "cost_usd": 0.103271,
+        "input_tokens": 3,
+        "model": "openai/gpt-5.6-sol",
+        "output_tokens": 5932,
+        "provider": "openrouter",
+        "reasoning_tokens": 3833,
+        "requests": 1,
+        "total_tokens": 23513
+      }
+    },
+    "output_bytes": 8392,
+    "output_tokens": 5932,
+    "packet_token_estimate": 11694,
+    "provider": "openrouter",
+    "reasoning_tokens": 3833,
+    "requested_model": "openai-codex/gpt-5.6-sol:medium",
+    "requests": 1,
+    "stop_reasons": [
+      "stop"
+    ],
+    "total_tokens": 23513,
+    "usage_source": "omp_provider_reported"
+  },
+  "version": 2
+}
