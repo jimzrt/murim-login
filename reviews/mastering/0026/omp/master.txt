@@ -24,7 +24,7 @@ While I was regretting that missed opportunity, Gong Yacheong continued.
 
 “…I see.”
 
-“Even a three-year-old knows who you are. You must be the main family’s biggest celebrity.”
+“Even a three-year-old knows who you are. You must be the most famous person in your family.”
 
 At this point, it would probably be faster to find someone who hadn’t heard of me.
 
@@ -40,15 +40,15 @@ Did Gong Yacheong really not know?
 
 Whatever bullshit the Mount Heng Sword Sect had pulled, I was at the center of this entire mess.
 
-It was an undeniable fact that countless people had died along the way.
+Countless people had died because of it. That much was undeniable.
 
 It wouldn’t have been strange for Gong Yacheong and Socheon to hold a grudge against me. That was why I had hidden my name.
 
 *If he really doesn’t know, that’s a relief.*
 
-We were being chased by a ruthless Peak master. I had no interest in stirring up extra trouble.
+We were being pursued by a ruthless Peak master. I had no desire to stir up trouble within the group as well.
 
-“How long until we reach the main family?”
+“How long will it take us to reach your family?”
 
 Gong Yacheong’s question snapped me back to reality.
 
@@ -62,7 +62,7 @@ Gong Yacheong sighed and glared resentfully at the sky, which was still dumping 
 
 “The worst?”
 
-The blizzard had us stuck, but it had our enemies stuck too. There was even a chance they had given up the chase.
+The blizzard had slowed us down, but it had to be slowing our enemies as well. There was even a chance they had abandoned the chase.
 
 But Gong Yacheong shook his head.
 
@@ -84,7 +84,7 @@ I answered with a sigh.
 
 “This time won’t be any different, then.”
 
-“Probably.”
+“Probably not.”
 
 Gong Yacheong stared into the darkness ahead as though something might leap out and swallow us whole.
 
@@ -104,7 +104,7 @@ Gong Yacheong disappeared into one of them, carrying the siblings, who had alrea
 
 *He really is an adult.*
 
-If he had wanted to live, he could have run away long ago. Gong Yacheong was a trained master, a seasoned man of the martial world.
+If all he had wanted was to survive, he could have fled long ago. Gong Yacheong was a skilled martial artist and a seasoned man of Murim.
 
 But he hadn’t.
 
@@ -148,7 +148,7 @@ The EXP and Fame I had gained from dealing with the enemies, plus the Quest rewa
 
 I could finally see the summit of this treacherous mountain.
 
-I opened my Status Window and distributed all my remaining points. Vitality flowed back into my exhausted body.
+I opened my Status Window and distributed all my remaining points. Energy flowed back into my exhausted body.
 
 *I’m almost there.*
 
@@ -164,7 +164,7 @@ Back when I first started clearing the tutorial Quests, distributing my stats ha
 
 I was an absurd existence in Murim. I could learn martial arts and raise my stats faster than anyone else. The System had helped me grow stronger in all kinds of ways.
 
-That was why I could literally wipe the floor with ordinary First Rate martial artists despite being a dime-a-dozen Second Rate.
+That was how a dime-a-dozen Second Rate martial artist like me could literally wipe the floor with most First Rate martial artists.
 
 And yet I wasn’t First Rate!
 
@@ -178,7 +178,7 @@ What was it? What final piece did I need to complete the puzzle?
 
 The answer came quickly.
 
-*If I don’t know, I have to find out.*
+*If I don’t know, I’ll find out.*
 
 Just as I always had. If I kept walking, I would eventually find the exit.
 
@@ -192,7 +192,7 @@ Jopil muttered as his black, viper-like eyes swept across the surroundings.
 
 They had lost the fugitives. But traces remained, faint signs that would serve as new guideposts.
 
-“About twenty people. They left this place roughly two shichen ago.”[^1]
+“About twenty people. They left roughly two shichen ago.”[^1]
 
 Jopil nodded at his subordinate’s report. The man’s martial arts were only Third Rate, but his tracking skills had reached the Peak. Jopil had countless hunting dogs like him under his command.
 
@@ -204,7 +204,7 @@ Half a day at most.
 
 *They should have run with everything they had. Without looking back. They should have cast off every burden, abandoned anyone who fell behind, and run for their lives.*
 
-If they had done that, the distance would not have narrowed. But they had let their guard down. They must have thought the blizzard had them trapped.
+If they had, the gap would never have narrowed. But they had let their guard down. They must have assumed the blizzard would stop their pursuers as well.
 
 That misjudgment had brought them to this point.
 
@@ -214,7 +214,7 @@ The previous night had been long. Even among his subordinates, men well accustom
 
 In the mountains during a blizzard, falling behind was no different from death.
 
-The only difference from dying on a battlefield was that it took a little longer.
+The only difference from dying on the battlefield was that it took a little longer.
 
 That was why Jopil had given the order.
 
@@ -222,9 +222,9 @@ That was why Jopil had given the order.
 
 They said a tiger left its hide when it died, while a person left their name.
 
-But Jopil thought differently. What kind of name could a Third Rate nobody who’d spent his whole life drifting through back alleys leave behind?
+Jopil disagreed. What name could be left behind by Third Rate nobodies who had spent their whole lives drifting through back alleys?
 
-They should at least leave a hide.
+They might as well leave their hides.
 
 Leaving twenty stripped corpses behind, the group had pressed onward. When the long night finally ended, they discovered the fugitives’ trail shortly before dawn.
 
@@ -244,9 +244,9 @@ A sudden chill ran through me. I raised my arm and found it covered in goose bum
 
 If this had been a scene in a novel, the protagonist would have muttered that something felt wrong, then continued on his way.
 
-But I was different. I had a solid hunch, and I acted on it.
+But I was different. I acted on firm suspicions.
 
-“Hey. Get over here, quick.”
+“Hey. Get over here, now.”
 
 I couldn’t see him, but I could sense him. The footsteps of someone trudging along behind me faltered.
 
@@ -260,11 +260,11 @@ The moment I reached three, Hyuk Mujin hurried over and stuck to my side.
 
 “What?”
 
-“You were the one. Tell me the truth and I’ll let it slide.”
+“You know what I mean. Tell me the truth and I’ll let it slide.”
 
 “What are you talking about? It wasn’t me!”
 
-I silently stared at his face, swollen like a steamed bun.
+I silently studied his face, swollen like a steamed bun.
 
 “You were cursing me behind my back just now, weren’t you?”
 
@@ -276,7 +276,7 @@ I silently stared at his face, swollen like a steamed bun.
 
 So it really had been this bastard. When I raised my hand, Hyuk Mujin squeezed his eyes shut.
 
-After getting beaten about three times, he had lost all his fighting spirit. On top of that, he had learned a valuable life lesson:
+After being beaten unconscious three times, he had lost all will to resist. He had also learned a valuable lesson in life:
 
 Dodging only meant getting hit more.
 
@@ -288,17 +288,17 @@ Hyuk Mujin’s head shot up.
 
 I gave him a warm smile.
 
-“Of course. But don’t even think about deceiving me from now on. I’ll be watching you with mind-reading.”
+“Of course. But don’t even think about deceiving me again. I’ll be watching you with my mind-reading technique.”
 
 Hyuk Mujin stared at me with eyes full of demonic rage, then darted back to his place. If only we’d had more time, I could have smashed his head in with a mace.
 
-Swallowing my regret, I kept walking.
+Swallowing my disappointment, I kept walking.
 
-“What’s mind-reading?”
+“What’s a mind-reading technique?”
 
 The chirping voice tickled my ear. It belonged to Soyul, Socheon’s little sister. Had they said she was five?
 
-She was small enough to fit right inside my backpack.
+She was small enough to fit inside my backpack.
 
 “Is it martial arts?”
 
@@ -318,17 +318,17 @@ I glanced back and saw Soyul staring at me in shock, her eyes enormous. She was 
 
 *Hayeon used to be like that too.*
 
-These days she was a creepy little sister, but when she was little she had been a baby angel. She had even gotten offers to be a child model…
+These days she was a creepy little sister, but when she was young, she had been a perfect little angel. She had even received offers to become a child model…
 
-Having her around felt exactly like piggybacking Hayeon at that age.
+Carrying Soyul on my back felt just like carrying Hayeon at that age.
 
 “Want me to teach you?”
 
-“…Soyul doesn’t like martial arts. I want to become a proper young lady.”
+“…Soyul doesn’t like martial arts. I’m going to become a proper young lady.”
 
 “That’s good too.”
 
-“Mm. Mister, do you like martial arts?”
+“Mm. Uncle, do you like martial arts?”
 
 “Me?”
 
@@ -340,15 +340,15 @@ Having her around felt exactly like piggybacking Hayeon at that age.
 
 Soyul chattered excitedly for a long while before sticking out her lower lip.
 
-“Soyul wants to see Dad. But I guess Dad doesn’t want to see us. Oppa says he went out to play with Mom, leaving me and Oppa behind.”
+“Soyul misses Dad. But I guess Dad doesn’t miss me. My brother says he went on a trip with Mom and left me and my brother behind.”
 
-My heart dropped with a thud.
+My heart dropped.
 
 An old memory filled my vision. In a funeral hall draped in black and white, little Hayeon had searched for our father, and I had been forced to tell her an obvious lie.
 
 Just as Socheon had done for Soyul.
 
-It was the only thing I could say.
+There had been nothing else he could say.
 
 “…I see.”
 
@@ -358,15 +358,15 @@ I looked at Socheon, who was following in the middle of the formation. He was br
 
 *He must be exhausted.*
 
-His willpower was far beyond his years. The saying that pain made people mature was fucking bullshit, but it was true.
+He had far more willpower than anyone his age should have needed. The saying that suffering made people mature was fucking bullshit, but it was also true.
 
-Socheon had never fallen behind even once, and the other reconnaissance squad members marveled at him for it.
+Socheon hadn’t fallen behind even once, and even the other reconnaissance squad members marveled at his determination.
 
-*But the real problem is somewhere else.*
+*But the real problem is someone else.*
 
 Gong Yacheong.
 
-His face was deathly pale; he still hadn’t shaken off his injuries. If not for the remarkable effects of the fasting pills I had given him, and the qi he had circulated last night, he might have collapsed long ago.
+He still hadn’t recovered from his injuries, and his face was deathly pale. If not for the remarkable effects of the fasting pills I had given him and the qi circulation he had performed the previous night, he might have collapsed long ago.
 
 *At this rate, they’ll catch us.*
 
@@ -390,7 +390,7 @@ But…
 
 *Fuck. It’s such a simple problem… So why am I like this?*
 
-An inexplicable aversion surged up. It was strong enough to startle me—strong enough to throw me off.
+An inexplicable revulsion surged through me. It was so intense that it startled me, leaving me shaken.
 
 *Why?*
 
