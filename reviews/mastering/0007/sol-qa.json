@@ -2,10 +2,10 @@
   "chapter": 7,
   "errors": [],
   "metrics": {
-    "length_ratio": 2.152,
+    "length_ratio": 2.16,
     "source_characters": 5442,
     "source_paragraphs": 181,
-    "translation_characters": 11709,
+    "translation_characters": 11756,
     "translation_paragraphs": 173
   },
   "passed": true,
@@ -16,6 +16,38 @@
       "details": {
         "korean": "로그아웃",
         "preferred": "Logout"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "화시",
+        "preferred": "fire arrow"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "갑자",
+        "preferred": "jiazi"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "맷집",
+        "preferred": "Toughness"
       },
       "message": "matched preferred term is absent"
     }
