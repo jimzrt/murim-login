@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "As a lifelong bachelor in his late twenties, I couldn’t help feeling uncomfortable about interlocking fingers with a huge Black man.",
+      "defect": "“Lifelong bachelor” only establishes that Jin has never married, while 모태솔로 means he has never been in a romantic relationship.",
+      "id": "F01",
+      "rationale": "The source explicitly invokes Jin’s complete lack of romantic experience as the reason interlocking fingers feels uncomfortable.",
+      "replacement": "As a guy in his late twenties who had been single his entire life, I couldn’t help feeling uncomfortable about interlocking fingers with a huge Black man.",
+      "severity": "minor",
+      "source": "이십 대 후반의 모태솔로인 나로서는 거구의 흑인과 깍지 손을 낀다는 게 불편할 수밖에 없었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Don’t come any closer, or—”",
+      "defect": "The added “or” turns Jin’s interrupted plea into the beginning of a threat or stated consequence.",
+      "id": "F02",
+      "rationale": "In the source, Jin simply trails off and vomits before he can finish; no conditional construction is present.",
+      "replacement": "“Don’t come any closer…”",
+      "severity": "minor",
+      "source": "“다가오지…… 우웨에에에에엑!”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "and the dizzying dots that began to appear as the aircraft descended.",
+      "defect": "까마득한 describes the dots as extremely distant, not as dizzying.",
+      "id": "F03",
+      "rationale": "The source conveys the altitude and remoteness of the objects coming into view during the descent.",
+      "replacement": "and the tiny, distant specks that began to appear as the aircraft descended.",
+      "severity": "minor",
+      "source": "하강과 동시에 보이기 시작하는 까마득한 점들도."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“It was teleportation magic. It moved the launched missile onto the aircraft.”",
+      "defect": "“Onto the aircraft” places the missile on or against the craft, whereas 기체 위로 means it was moved above the aircraft.",
+      "id": "F04",
+      "rationale": "The source gives a specific mechanical explanation: the Arch Lich redirected the fired missile into the air above the fighter so that it would strike or explode there.",
+      "replacement": "“It was teleportation magic. The missile was teleported above the aircraft.”",
+      "severity": "critical",
+      "source": "「텔레포트 마법이군요. 발사된 미사일을 기체 위로 이동시켰어요.」"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Then it looks like we can’t expect fire support. If someone fires a big one in the wrong place, it’ll cause a catastrophe.”",
+      "defect": "The draft makes fire support categorically unavailable and narrows the danger to firing at the wrong location. The source says support has become difficult because any major shot that goes wrong could cause a catastrophe.",
+      "id": "F05",
+      "rationale": "기대하기 어렵게 됐네 expresses difficulty rather than impossibility, while 잘못 쐈다가는 refers broadly to a shot going wrong, not specifically being fired in the wrong place.",
+      "replacement": "“Then it looks like fire support will be difficult. If one of the big shots goes wrong, it could cause a catastrophe.”",
+      "severity": "major",
+      "source": "「그럼 화력 지원은 기대하기 어렵게 됐네. 큰 거 한 방 잘못 쐈다가는 대참사가 벌어질 테니까.」"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“More importantly, the wine you’re drinking—is it perhaps a forty-five-year-old Romanée-Conti?”",
+      "defect": "The draft changes the named 1945 vintage into a wine aged for forty-five years.",
+      "id": "F06",
+      "rationale": "45년 산 here identifies the celebrated 1945 vintage; it is not a statement of the wine’s age.",
+      "replacement": "“More importantly, that wine you’re drinking—is it perhaps a 1945 Romanée-Conti?”",
+      "severity": "critical",
+      "source": "「그보다 지금 그대가 마시고 있는 술, 혹시 로마네콩티 45년 산인지?」"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Faye Chen’s eyes shot upward at Prince Felix’s words.",
+      "defect": "The draft renders the idiom as upward eye movement and loses Faye Chen’s angry glare.",
+      "id": "F07",
+      "rationale": "눈을 치켜뜨다 in this context describes opening or raising one’s eyes sharply in anger, not looking upward.",
+      "replacement": "Faye Chen glared at Prince Felix.",
+      "severity": "major",
+      "source": "필릭스 왕자의 말에 파이 첸이 눈을 치켜떴다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The Ares Guild members who had retreated intact despite suffering enormous casualties were proof of that.",
+      "defect": "The grammar assigns the enormous casualties to the Ares Guild, contradicting the point that its members withdrew intact.",
+      "id": "F08",
+      "rationale": "The source contrasts the wider battle’s enormous casualties with the Ares Guild members emerging intact, which Jin treats as evidence that the defeat was engineered.",
+      "replacement": "The Ares Guild members, who had withdrawn intact even amid the enormous casualties, were proof of that.",
+      "severity": "critical",
+      "source": "엄청난 사상자를 내는 와중에도 온전히 퇴각한 아레스 길드원들이 바로 그 증거다."
+    }
+  ],
+  "summary": "Several localized mistranslations alter physical actions, tactical meaning, a specific vintage, and the subject of battlefield casualties.",
+  "version": 1
+}

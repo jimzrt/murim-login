@@ -622,3 +622,7 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 최 팀장 | younger allied Hunter to allied team leader | Team Leader | casual, respectful, and teasing | Jin repeatedly calls Choi Team Leader while joking about the rumor campaign and Choi's tactics. |
 | 매직 존슨 | 최 팀장 | allied commander to allied team leader and admirer | Choi | warm, familiar, and flirtatious | Magic greets Choi with personal enthusiasm and asks whether Choi has thought about him. |
 | 매직 존슨 | 진태경 | allied frontline commander to famous allied Hunter | Jin | friendly, familiar, and encouraging | Magic calls Jin a charming young man and praises his western-front military achievements. |
+| 매직 존슨 | 진태경 | foreign archmage and fellow S-rank Hunter | Jin | casual and teasing | Magic Johnson repeatedly addresses Jin informally while joking and giving teleportation instructions. |
+| 최 팀장 | 매직 존슨 | Korean Team Leader addressing a foreign archmage | Mr. Johnson | formal and polite | Choi uses Mr. Johnson when raising concerns about magical interference and teleportation. |
+| 매직 존슨 | 최 팀장 | foreign archmage addressing the Korean Team Leader | Choi | casual and familiar | Magic Johnson calls him Choi while reacting theatrically to his decision to remain behind. |
+| 진태경 | 필릭스 | Korean S-rank Hunter addressing a British prince | His Highness | mock-formal and sarcastic | Felix demands formal address, and Jin complies by calling him His Highness while continuing to mock him. |
