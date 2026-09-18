@@ -4,9 +4,9 @@ As the unconscious Chulwoo was carried away, Jin Wikyung stepped forward.
 
 “Does anyone else wish to challenge him?”
 
-I had literally wiped the floor with Chulwoo, who had been so overwhelmingly strong. There was no chance anyone else would step up.
+I had quite literally wiped the floor with Chulwoo, who had seemed so overwhelmingly strong. No one else was going to step up.
 
-When no one came forward, Jin Wikyung shouted with an expression of pure delight,
+When no one came forward, Jin Wikyung shouted with an expression of pure delight.
 
 “Then the final winner of this duel tournament is the Sleeping Dragon of Shanxi, Jin Taekyung!”
 
@@ -36,7 +36,7 @@ With that unexpected alert, the Grand Training Ground erupted into absolute madn
 
 Who was that? Now there was a man who knew how to party.
 
-In any case, the atmosphere in the Grand Training Ground grew hotter than anything a rock festival could offer.
+In any case, the atmosphere grew hot enough to put a rock festival to shame.
 
 A child hurled his candied fruit into the air, while a white-haired old man let out a wild cry and snapped his cane over his knee.
 
@@ -48,17 +48,17 @@ The martial artists were even worse.
 
 Shanxi Murim had long been treated as a backwater. I had merely defeated one Serial Confession Man, but to them, it was as good as winning a battle of pride against Shaanxi Murim.
 
-“Lady of the House! Bring me a bottle of strong liquor!”
+“Bring me a bottle of strong liquor!”
 
 “That dumpling I ate twenty years ago finally went down! Order whatever you want! Everything’s on me today!”
 
-Don’t call the Lady of the House. And don’t order everything.
+Don’t call for more liquor. And don’t order everything.
 
 It was all coming out of the Jin Family of Taiyuan’s pockets anyway, but the people drunk on Shanxi pride had completely lost their minds.
 
 *They’re going wild.*
 
-Since a large portion of them were martial artists, carrying weapons was standard. I was worried that someone might get drunk on the excitement and cause trouble.
+Since a good portion of them were martial artists, nearly everyone was armed. I began to worry that someone might get carried away and cause trouble.
 
 Sure enough, some lunatic suddenly shouted,
 
@@ -66,7 +66,7 @@ Sure enough, some lunatic suddenly shouted,
 
 *Clang-clang-clang!*
 
-Hundreds of weapons were drawn in a flash of reflected light.
+Hundreds of weapons flashed into the air.
 
 “Wave them in order, starting from the front!”
 
@@ -74,7 +74,7 @@ Hundreds of weapons were drawn in a flash of reflected light.
 
 *Clang-clang-clang! Clang-clang-clang!*
 
-Wait, were they doing the wave here?
+Wait, were they doing the wave?
 
 As I watched this cutting-edge new cheering culture unfold, I muttered in disbelief,
 
@@ -82,9 +82,9 @@ As I watched this cutting-edge new cheering culture unfold, I muttered in disbel
 
 “Shitshow.”
 
-I had started the sentence, but I hadn’t said the second half.
+I had started the sentence, but I hadn’t finished it.
 
-An elderly voice pierced my ears with perfect clarity. I looked around, but all I could see were excited people.
+An elderly voice pierced my ears with perfect clarity. I looked around, but all I could see were people celebrating.
 
 *Who was that?*
 
@@ -92,7 +92,7 @@ Even amid the cacophony, the voice had sounded as though its owner were standing
 
 Just as several of us turned to search for the speaker—
 
-“Ha!”
+“Hah!”
 
 *Gooooong.*
 
@@ -132,7 +132,7 @@ Countless thoughts flashed through my mind. I made my decision in that brief ins
 
 “No. You must have mistaken me for someone else.”
 
-Whatever was going on, I might as well deny everything and see what happened.
+Whatever was going on, I might as well deny everything first.
 
 One glance told me enough. I didn’t know who he was or where he had come from, but he certainly didn’t seem to have any warm feelings toward me.
 
@@ -166,7 +166,7 @@ Just as I finally remembered the extras’ collective epithet, the unidentified 
 
 Hyuk Mujin and Gong Ilhyuk, the middle-aged man with a splint on his arm, pointed at me simultaneously.
 
-“Captain! Please save me!”
+“Squad Leader! Please save me!”
 
 “That’s him! He’s Jin Taekyung!”
 
@@ -214,7 +214,7 @@ Gong Ilhyuk was a well-connected hack who threw his weight around, but the name 
 
 The Nine Sects and One Gang and the Five Great Families were the towering powers that moved the present-day Murim.
 
-Emboldened by the momentum, Gong Ilhyuk continued smugly,
+Emboldened by their reaction, Gong Ilhyuk continued smugly,
 
 “And this gentleman is Great Hero Song Il, an Elder of our sect.”
 
@@ -228,13 +228,13 @@ I had expected him to be a master, but it seemed his status was even more impres
 
 The old man—the Roaring Fury Swordsman—silently looked down at the two of them as they hurriedly paid their respects.
 
-His voice carried the composure and arrogance of a powerful man.
+When he spoke, his voice carried the composure and arrogance of the powerful.
 
 “Baek Museong? Are you Huashan’s Lone Crane?”
 
 “Yes. It is an epithet far too generous for me.”
 
-“So it seems. You’re inferior to your Master in his youth.”
+“So it would seem. You’re not as good as your Master was at your age.”
 
 What an insufferable old bastard.
 
@@ -254,7 +254,7 @@ His gaze had shifted to Cheongpung, who stood there looking blank.
 
 “So it’s you. The Sword Saint’s heir.”
 
-Cheongpung asked with a puzzled expression,
+Cheongpung tilted his head.
 
 “You know my grandfather?”
 
@@ -262,7 +262,7 @@ Cheongpung asked with a puzzled expression,
 
 Judging by the old man’s expression, theirs probably hadn’t been a pleasant relationship.
 
-As the situation grew more serious, Jin Wikyung asked with a stiff face,
+As the situation grew increasingly ominous, Jin Wikyung asked with a stiff expression,
 
 “May I ask what brings you here?”
 
@@ -312,7 +312,7 @@ At the Roaring Fury Swordsman’s grating laughter, Jin Wikyung and Baek Museong
 
 “…”
 
-“This old man is the Senior Brother of our sect’s Sect Leader, the Wind-and-Cloud Sword Lord. I am of the same seniority as the Heavenly Sword True Person of Huashan, so there should be no problem.”
+“This old man is the Senior Brother of our Sect Leader, the Wind-and-Cloud Sword Lord, and I am of the same generation as Huashan’s Heavenly Sword True Person. So there should be no problem.”
 
 Bringing up seniority had been a mistake.
 
@@ -326,7 +326,7 @@ When no one answered, the Roaring Fury Swordsman turned to Cheongpung.
 
 This was why words were so frightening.
 
-There was no explanation of how it had happened. Only the result remained.
+The entire sequence of events had vanished, leaving only the result.
 
 Baek Museong hurriedly interjected.
 
@@ -340,9 +340,9 @@ Cheongpung shrank in on himself and muttered,
 
 “That’s not what I mean. I did hit him, but I didn’t know he would be hurt that badly.”
 
-Gong Ilhyuk seized the opening and lunged in.
+Gong Ilhyuk seized the opening.
 
-“It was an obvious attempt to kill!”
+“It was clearly a killing blow!”
 
 “Did you hear that?”
 
@@ -350,7 +350,7 @@ Gong Ilhyuk seized the opening and lunged in.
 
 As Cheongpung fumbled for words, the Roaring Fury Swordsman continued in a cutting voice.
 
-“I will formally lodge a complaint with Huashan over this matter, so don’t you dare think you can wriggle out of it.”
+“I will lodge a formal complaint with Huashan over this matter, so don’t even think of denying what you did.”
 
 “Elder, the government and Murim do not interfere in each other’s affairs. Furthermore, the officials present at the time were favorably disposed toward them. I fear they may give false testimony.”
 
@@ -358,7 +358,7 @@ As Cheongpung fumbled for words, the Roaring Fury Swordsman continued in a cutti
 
 It was all rigged from the start.
 
-Baek Museong bit down hard on his lip at the unfair treatment, and the next target of their arrows was obvious.
+Baek Museong bit down hard on his lip at the injustice. There was only one place left for the Roaring Fury Swordsman to aim.
 
 “The Jin Family of Taiyuan will seal its gates until our sect sends someone.”
 
@@ -366,7 +366,7 @@ Baek Museong bit down hard on his lip at the unfair treatment, and the next targ
 
 “What did you just say?”
 
-Jin Wikyung said what I wanted to say for me. No—everyone nearby who had heard the Roaring Fury Swordsman must have been thinking the same thing.
+Jin Wikyung said exactly what I wanted to. No—everyone nearby who had heard the Roaring Fury Swordsman must have been thinking the same thing.
 
 *Seal our gates?*
 
@@ -382,7 +382,7 @@ Even with the condition that it would last only until the Zhongnan Sect sent som
 
 “That is unjust!”
 
-At Jin Wikyung’s shout, the Roaring Fury Swordsman raised his eyes.
+At Jin Wikyung’s shout, the Roaring Fury Swordsman’s eyes widened.
 
 “What did you say?”
 
@@ -392,7 +392,7 @@ At Jin Wikyung’s shout, the Roaring Fury Swordsman raised his eyes.
 
 “Our family will not accept this!”
 
-“If you refuse to accept it?”
+“And if you refuse?”
 
 *Ssssss.*
 
@@ -410,7 +410,7 @@ A surge of irritation suddenly welled up inside me.
 
 I already knew how the world worked. I had experienced it more times than I cared to remember.
 
-People ignored you because you had no money, looked down on you because you lacked powerful backing, and scorned you because your talent was insignificant.
+People ignored you because you had no money, looked down on you because you had no powerful backing, and scorned you because your talent was worthless.
 
 *It’s the same here.*
 
@@ -426,7 +426,7 @@ Just like the Roaring Fury Swordsman standing before me.
 
 Blood trickled from the fist I had clenched without realizing it.
 
-I stared down at the drops landing one by one on the ground and exhaled a hot breath.
+I glared at the drops spattering the ground and exhaled a hot breath.
 
 “Ah, fuck. This is fucking bullshit.”
 
@@ -434,23 +434,23 @@ No one had dared to speak, so everyone heard the profanity that burst from my mo
 
 It felt as though something invisible had shattered with a sharp crack.
 
-The Roaring Fury Swordsman asked with an expression of disbelief,
+The Roaring Fury Swordsman stared at me in disbelief.
 
 “…What did you just say?”
 
-Swearing had been a mistake. Since I was the reason this had happened, I should have swallowed it no matter what.
+Swearing had been a mistake. This had all happened because of me, so I should have swallowed my anger no matter what.
 
-That was the best way to resolve the situation smoothly.
+That was the best way to resolve the situation as smoothly as possible.
 
 But…
 
-“It’s fucking bullshit. I said it’s fucking bullshit. You fucking assholes. There’s a limit to how much you can throw your weight around.”
+“It’s fucking bullshit. I said it’s fucking bullshit, you fucking assholes. There’s a limit to how much you can throw your weight around.”
 
 I couldn’t take it anymore.
 
-They could call me thoughtless or a young fool who knew nothing about the world. I didn’t care.
+They could call me thoughtless or a naïve young fool who knew nothing about the world. I didn’t care.
 
-I had no desire to replay all the things I had been sick of experiencing in reality here in Murim.
+I had no desire to replay in Murim all the shit I was already sick of enduring in reality.
 
 I apologized to Jin Wikyung.
 
@@ -458,13 +458,13 @@ I apologized to Jin Wikyung.
 
 Jin Wikyung, who looked half dazed, went through an astonishing range of expressions.
 
-His face twisted, then relaxed. After showing several different expressions in a short span of time, he finally let out a quiet laugh.
+His face twisted, then relaxed. After several emotions flickered across it in quick succession, he finally let out a quiet laugh.
 
 “Honestly, I thought it was fucking bullshit too.”
 
 Those words pulled the trigger.
 
-Flames hotter than lava poured from the Roaring Fury Swordsman’s eyes.
+Flames hotter than lava blazed in the Roaring Fury Swordsman’s eyes.
 
 “You bastards… must be desperate to die.”
 
@@ -476,6 +476,6 @@ It burned more fiercely than any Sword Energy I had ever seen.
 
 The instant it pointed at me—
 
-“If you kill that guy, you die too.”
+“If you kill him, you die too.”
 
-At the clear, ringing voice that came from somewhere, the Roaring Fury Swordsman’s body abruptly froze.
+At the clear, ringing voice that came from somewhere, the Roaring Fury Swordsman froze.
