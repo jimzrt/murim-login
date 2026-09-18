@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "Wipeng knew the martial arts he was using: the Jin Family’s Manoeuvre Technique and Spear Technique.",
+      "defect": "The established glossary terms 'Jin Family's Manoeuvre Technique' and 'Jin Family's Spear Technique' are absent in favor of a generic phrase 'Jin Family’s Manoeuvre Technique and Spear Technique', lacking the fixed compound forms.",
+      "id": "F01",
+      "rationale": "Using the established fixed terms preserves clarity and consistency in the martial arts references for readers.",
+      "replacement": "Wipeng knew the martial arts he was using: the Jin Family's Manoeuvre Technique and the Jin Family's Spear Technique.",
+      "severity": "minor",
+      "source": "Lines 9, 15, 41-42"
+    },
+    {
+      "confidence": 0.9,
+      "current": "Wipeng had served the Jin Family of Taiyuan for more than ten years. In his eyes, Jin Taekyung was far beyond a bad seed with yellow sprouts—his were practically gold.",
+      "defect": "The phrase 'bad seed with yellow sprouts' should use the established glossary phrase 'a bad seed with yellow sprouts' consistent with the baseline, and the Korean idiomatic nuance for the insult '싹수가 노란' is approximated but could be clearer by phrasing 'past a bad seed with yellow sprouts'.",
+      "id": "F02",
+      "rationale": "The baseline uses this phrasing which better matches the Korean insult imagery regarding '싹수', emphasizing the degree of 'bad seed'.",
+      "replacement": "Wipeng had served the Jin Family of Taiyuan for more than ten years. In his eyes, Jin Taekyung was past a bad seed with yellow sprouts—he was practically gold.",
+      "severity": "minor",
+      "source": "Line 15"
+    },
+    {
+      "confidence": 0.85,
+      "current": "Wipeng’s thoughts went no further. A commotion had broken out around them.",
+      "defect": "The baseline and source connect the thoughts to a specific interruption at the moment when Wipeng nearly completed the thought starting with 'Could the Third Young Master possibly…?'. The current phrasing is fine but the connecting phrasing could be slightly clearer that the thought was cut off by the commotion.",
+      "id": "F03",
+      "rationale": "Slightly clearer connection to the thought being interrupted, reflecting the Korean source precisely.",
+      "replacement": "Wipeng’s thoughts could go no further, as a commotion broke out around them.",
+      "severity": "minor",
+      "source": "Line 25"
+    },
+    {
+      "confidence": 1.0,
+      "current": "I drove my knuckles into his screaming face. His nose broke, and teeth scattered through the air. With his leg buried up to the calf, he couldn’t even pull himself free.",
+      "defect": "The exact phrase 'One more. More. More.' preceding the series of punches is in the baseline but missing here, losing a sense of mounting strikes.",
+      "id": "F04",
+      "rationale": "Preserves the progression and emphasis of the punches as in the Korean and baseline.",
+      "replacement": "One more. More. More. I drove my knuckles into his screaming face. His nose broke, and teeth scattered through the air. With his leg buried up to the calf, he couldn’t even pull himself free.",
+      "severity": "minor",
+      "source": "Lines 127-131"
+    }
+  ],
+  "summary": "Faithful and accurate translation of Chapter 15 with terminology mostly consistent with the baseline; some established glossary terms were absent but the meaning is preserved.",
+  "version": 1
+}

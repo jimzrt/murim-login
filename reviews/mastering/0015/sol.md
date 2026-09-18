@@ -1,10 +1,10 @@
 # Chapter 15
 
-Wipeng thought,
+Wipeng stared in disbelief.
 
 *What am I looking at?*
 
-Something unbelievable was happening before his eyes. The Third Young Master—of all people, that very Third Young Master—was holding his own against Lee Seogeun.
+Something impossible was happening before his eyes. The Third Young Master—of all people, that Third Young Master—was holding his own against Lee Seogeun.
 
 *Am I hallucinating?*
 
@@ -28,7 +28,7 @@ At the time, Wipeng had wondered if the man had gone insane. But when he heard t
 
 Wipeng had served the Jin Family of Taiyuan for more than ten years. In his eyes, Jin Taekyung was far beyond a bad seed with yellow sprouts—his were practically gold.[^1]
 
-But what could he do? Taekyung was his lord’s beloved youngest brother and a direct-line member of the Jin Family. Wipeng had been planning to rescue him before Lee Seogeun turned him into a half-cripple.
+But what could he do? Taekyung was his lord’s beloved youngest brother and a direct descendant of the Jin Family. Wipeng had intended to save him before Lee Seogeun turned him into a half-cripple.
 
 And yet…
 
@@ -38,11 +38,11 @@ Now Taekyung was beating Lee Seogeun without mercy.
 
 Wipeng knew the martial arts he was using: the Jin Family’s Manoeuvre Technique and Spear Technique.
 
-He was fairly skilled at linking the two techniques together, and there was even a seasoned air to his movements—the hard-won experience of a wandering martial artist who had spent around ten years roughing it in back alleys.
+He was fairly skilled at linking the two techniques, and his movements even carried the seasoned air of a wandering martial artist who had spent ten years fighting in back alleys.
 
 *What in the world…?*
 
-No one could master martial arts in a day or two.
+Martial arts could not be mastered through a day or two of effort.
 
 That was the natural order Wipeng believed in, and he knew exactly one person who defied it.
 
@@ -74,7 +74,7 @@ Whoosh—smack!
 
 The wind blew, and more than ten teeth flew through the air.
 
-A Mount Heng Sword Sect warrior, blood pouring from the corner of his mouth, stared blankly up at the enormous shadow looming over him.
+Blood pouring from his mouth, a Mount Heng Sword Sect warrior stared blankly up at the enormous shadow looming over him.
 
 “What trash?”
 
@@ -90,7 +90,7 @@ Leaving the frozen Mount Heng Sword Sect warriors behind, Jin Wikyung returned t
 
 Wipeng sighed.
 
-“There could be a problem…”
+“This could cause problems…”
 
 “Wipeng.”
 
@@ -150,7 +150,7 @@ But I was different.
 
 I was stronger, and I had more experience.
 
-*I’m going to win. Without a doubt.*
+*I’m going to win. I know it.*
 
 It wasn’t a resolution. It was certainty.
 
@@ -160,19 +160,17 @@ The moment Lee Seogeun saw me throw away my weapon, fire blazed in his eyes.
 
 “You looked down on me? You dare—how dare you!”
 
-Anger stiffened the body and simplified its movements. I tripped Lee Seogeun’s leg as he charged like a bull and sent him tumbling.
-
-Then I climbed onto his chest as he tried to get up.
+Anger stiffened the body and made its movements predictable. As Lee Seogeun charged like a bull, I hooked his leg and sent him sprawling. Then I climbed onto his chest as he tried to rise.
 
 “What is this…?”
 
-Looking down at his bewildered eyes, I asked,
+I looked down into his bewildered eyes.
 
 “Ever heard of full mount?”
 
 Without waiting for an answer, I drove my fist down.
 
-Lee Seogeun desperately shook his head from side to side, but it did him no good.
+Lee Seogeun desperately whipped his head from side to side, but it did him no good.
 
 Bam-bam-bam-bam!
 
@@ -184,7 +182,7 @@ My whole reason for accepting the duel had been to avoid a war with the Mount He
 
 It would be a problem if Lee Seogeun suffered a severe injury. I had to stop before I went too far.
 
-Concerned, I shook Lee Seogeun by the shoulder.
+A little worried, I shook him by the shoulder.
 
 “Hey, are you oka—”
 
@@ -192,25 +190,25 @@ Smack!
 
 The world flashed before my eyes.
 
-A little dizziness. Drops of bright-red blood dripped from my stinging chin.
+A wave of dizziness hit me. Bright-red drops of blood fell from my stinging chin.
 
 Lee Seogeun’s fist had grazed me.
 
-*Ah. I let my guard down.*
+*Damn. I let my guard down.*
 
-If I hadn’t instinctively jerked my head back, I would have been in serious trouble. That blow had been imbued with internal energy.
+If I hadn’t jerked my head back at the last second, I would have been in serious trouble. That blow had been loaded with internal energy.
 
 “You dodged that?”
 
-Lee Seogeun quickly broke free of the mount and scrambled away, his face filled with extreme bewilderment.
+Seizing the opportunity, Lee Seogeun quickly broke free of the mount and scrambled away, his face twisted with shock.
 
-Of course. He probably hadn’t imagined that a guy like me—no, a guy like Jin Taekyung—would humiliate him like this.
+Well, of course it was. He probably had never imagined that someone like me—no, someone like Jin Taekyung—could humiliate him this badly.
 
-Especially after his decisive strike had been rendered useless.
+And now even his best shot had failed.
 
 “This can’t be… This can’t be happening.”
 
-I answered Lee Seogeun, who muttered as if he were bewitched.
+I kindly answered Lee Seogeun as he muttered in a daze.
 
 “Life’s full of surprises.”
 
@@ -232,9 +230,7 @@ In the end, I had accepted it.
 
 Reality was cruel.
 
-I spoke to Lee Seogeun.
-
-“Give up now. You’re weaker than me.”
+“Give up. You’re weaker than me.”
 
 Lee Seogeun’s eyes rolled with rage.
 
@@ -244,7 +240,7 @@ The air around us crackled.
 
 Gathering every last bit of strength he had, Lee Seogeun shot forward like an arrow.
 
-“I told you clearly. You made your choice.”
+“I warned you. This was your choice.”
 
 “Stop spouting bullshit!”
 
@@ -252,7 +248,7 @@ Whoosh.
 
 His fist split the air and grazed my face by a hair. That alone sliced open my skin and drew blood.
 
-It was faster and stronger than any attack I had seen from him so far.
+It was faster and stronger than any attack he had unleashed so far.
 
 *But the same goes for me.*
 
@@ -260,17 +256,17 @@ I channeled internal energy into my right foot and brought it down on top of Lee
 
 Crack!
 
-With the sound of breaking bone, his foot slammed into the training-ground floor and sank into it.
+Bone broke, and his foot smashed into the training-ground floor.
 
 “Graaah!”
 
-I drove my knuckles into his screaming face. His nose broke, and teeth scattered through the air. With his leg buried up to the calf, he couldn’t even pull himself free.
+I drove a straight punch into his screaming face. His nose broke, and teeth scattered through the air. With his leg buried up to the calf, he couldn’t even pull himself free.
 
 One more.
 
-More.
+Again.
 
-More.
+Again.
 
 Whack. Whack. Whack.
 
@@ -308,7 +304,7 @@ And me.
 
 Thud.
 
-Lee Seogeun flew more than ten meters before landing. Whether he had passed out or not, he did not move.
+Lee Seogeun flew more than ten meters before crashing to the ground. Apparently unconscious, he lay perfectly still.
 
 I released the breath I had been holding and stood tall beneath the dozens of gazes that shifted from Lee Seogeun to me.
 
@@ -352,7 +348,7 @@ Every tooth in his mouth was gone, and the cloth stuffed between his lips was so
 
 Good Lord. What kind of bastard had…?
 
-Jin Wikyung patted me on the shoulder with a solemn expression.
+Just then, Jin Wikyung solemnly patted me on the shoulder.
 
 “Well done. You surpassed my expectations.”
 
@@ -368,27 +364,27 @@ I had no idea why, but in that brief span of time, he had somehow turned someone
 
 “Pardon? About what?”
 
-“About ending your confinement. It is true that your usual conduct has been disgraceful, but after the remarkable performance you showed today, this is a great blessing for our family.”
+“Ending your confinement. It is true that your usual conduct has been disgraceful, but the remarkable performance you showed today is a great blessing for our family.”
 
-Jin Wikyung looked around as he continued.
+Jin Wikyung looked around.
 
 “What do the rest of you think?”
 
-The senior members looked displeased, but none seemed particularly inclined to object. Compared to the looks they had given me in the meeting hall earlier, I almost felt that they were favorable.
+The senior members looked displeased, but none seemed particularly inclined to object. Compared to the looks they had given me in the meeting hall earlier, they were practically favorable.
 
 *Is it because they’re Murim people?*
 
-In the novels, Murim was a place where justice mattered, but strength came first. Maybe defeating Lee Seogeun had influenced them.
+In the novels, justice mattered in Murim, but strength came first. Maybe defeating Lee Seogeun had won them over.
 
 “You should answer him. Hahaha.”
 
 …Or maybe it was because of Jin Wikyung.
 
-His mouth was smiling, but his eyes were not. With the blood on his cheek, he looked like something out of a horror movie.
+His mouth was smiling, but his eyes weren’t. Combined with the blood on his cheek, it was like something out of a horror movie.
 
 “I wholeheartedly agree.”
 
-Once Wipeng’s manipulation of public opinion was added to the mix, one by one, the others voiced their agreement.
+Once Wipeng joined in to steer public opinion, the others began voicing their agreement one by one.
 
 Jin Wikyung watched the blatantly rigged vote unfold under threat of force and smiled in satisfaction.
 
@@ -434,7 +430,7 @@ The carriage stopped.
 
 Lee Seogeun shouted harshly,
 
-“What are you doing? Don’t dawdle. Get moving again!”
+“What are you doing? Stop dawdling and get moving!”
 
 At that moment, his brow prickled.
 
@@ -446,11 +442,11 @@ At that moment, his brow prickled.
 
 Lee Seogeun shouted, but no sound escaped his throat.
 
-His chest felt tight, and his throat hurt as if it were on fire. The carriage began moving again.
+His chest tightened, and his throat burned. The carriage began moving again.
 
 - Let’s do this. Mount Beimang first. We can go to the Mount Heng Sword Sect afterward.[^2]
 
-*What does that mean—*
+*What does that—*
 
 It took no longer than a few blinks.
 
@@ -462,7 +458,7 @@ Someone in a mask was staring at him.
 
 *Who are you?*
 
-Instead of a voice, dark, discolored blood poured from his mouth.
+Instead of his voice, dark, discolored blood poured from his mouth.
 
 His vision blurred. The sounds around him faded into the distance.
 
@@ -472,7 +468,7 @@ That was his final thought.
 
 The next moment, he plunged headfirst into darkness.
 
-“Farewell, Young Hero.”
+“Farewell, Young Hero Lee.”
 
 The masked man smiled as he pulled the large blue-black needle from the dead man’s brow.
 
