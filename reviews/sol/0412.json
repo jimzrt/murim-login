@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "After all, once you reached Level 100, you gained a considerable amount of EXP. With all the other monsters thrown in, that would have been enough to level up several times.\n\nI had not expected to collapse from exhaustion in some embarrassing heap.",
+      "defect": "The draft makes the EXP threshold depend on Taekyung reaching Level 100, but the source says monsters at Level 100 or above yield substantial EXP. It also adds several level gains where the source says only that there would be enough EXP to level up, which explains why Taekyung expected the resulting recovery to prevent his collapse.",
+      "id": "F01",
+      "rationale": "The omitted subject of 100레벨 이상 is the monsters just discussed, while 레벨 업에는 충분 means sufficient for a level-up rather than several. The final clause presents avoiding an exhausted collapse as Taekyung’s prior reasoning.",
+      "replacement": "After all, monsters at Level 100 or above gave a considerable amount of EXP. With all the other small fry thrown in, there would be enough to level up, so I’d figured there was no way I’d collapse from exhaustion and make a spectacle of myself.",
+      "severity": "critical",
+      "source": "어차피 100레벨 이상부터는 상당한 경험치가 들어오고 다른 잡몹까지 더해진다면 레벨 업에는 충분할 테니, 볼썽사납게 탈진해서 쓰러질 일 따위는 없을 거라고 생각했지, 뭐."
+    },
+    {
+      "confidence": 0.97,
+      "current": "An open mouth. Hands trembling in small, frantic shivers.",
+      "defect": "The wording is awkward and adds a frantic emotional quality absent from the source, which only describes fine trembling.",
+      "id": "F02",
+      "rationale": "잘게 떨리는 describes small or slight trembling; it does not characterize the movement as frantic.",
+      "replacement": "An open mouth. Hands trembling slightly.",
+      "severity": "minor",
+      "source": "벌어진 입. 잘게 떨리는 손."
+    },
+    {
+      "confidence": 0.98,
+      "current": "That was the exact moment when the human who had been fearlessly approaching its retainers stopped walking.",
+      "defect": "The deliberate sound of the human’s approaching footsteps is omitted, weakening the suspense immediately before he stops.",
+      "id": "F03",
+      "rationale": "저벅, 저벅 is an independent auditory beat marking his steady approach and should remain before the action sentence.",
+      "replacement": "Step. Step.\n\nThat was the exact moment when the human who had been fearlessly approaching its retainers stopped walking.",
+      "severity": "minor",
+      "source": "저벅, 저벅.\n\n겁 없이 자신의 권속들에게 다가오던 인간이 걸음을 멈췄다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“One, two, three, four…”",
+      "defect": "The silent, confused reaction to Taekyung counting is omitted, removing the first beat of the joke.",
+      "id": "F04",
+      "rationale": "The reaction marker is explicitly present after the count and establishes the retainers’ confusion before the Arch Lich’s narration explains it.",
+      "replacement": "“One, two, three, four…”\n\n—…?",
+      "severity": "minor",
+      "source": "“하나, 둘, 셋, 넷…….”\n\n- ……?"
+    },
+    {
+      "confidence": 0.96,
+      "current": "That damn bastard.",
+      "defect": "The draft softens Jin Taekyung’s strong, deliberately coarse profanity.",
+      "id": "F05",
+      "rationale": "시벌 is a euphemistically altered but still forceful form of 씨발; “damn” understates its vulgar register.",
+      "replacement": "That fucking bastard.",
+      "severity": "minor",
+      "source": "저 시벌 놈이."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The two hundred members of the suicide squad surged forward as one, letting out a roar loud enough to make my ears ring.",
+      "defect": "The draft turns an approximate quantity of roughly two hundred into an exact count.",
+      "id": "F06",
+      "rationale": "이백여 명 denotes approximately two hundred people, not exactly two hundred.",
+      "replacement": "The roughly two hundred members of the suicide squad surged forward as one, letting out a roar loud enough to make my ears ring.",
+      "severity": "minor",
+      "source": "한 몸이 되어 쏘아진 이백여 명의 결사대가 귀가 먹먹해지는 함성을 내질렀다."
+    }
+  ],
+  "summary": "One critical mechanical mistranslation changes which level threshold yields EXP and adds unsupported multiple level gains. Several localized omissions and wording choices also alter quantity, register, and comic timing.",
+  "version": 1
+}

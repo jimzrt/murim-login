@@ -674,3 +674,10 @@ Overrides generic relationship prose in character profiles for this pair.
 | 최 팀장 | 진태경 | senior allied Team Leader to younger Hunter | Mr. Jin Taekyung | formal and urgent | Choi warns Jin about the overwhelming monster assault and urges retreat. |
 | 호위대 | 아크 리치 | undead honor guard to undead lord | My lord | formal-deferential | The guards address the Arch Lich while reacting to its laughter and commands. |
 | 아크 리치 | 호위대 | undead lord to subordinate honor guard | my faithful servants | imperious-commanding | The Arch Lich orders the guards to enter the battlefield and destroy the humans. |
+| 아크 리치 | 진태경 | hostile_controller_to_intruder | human | contemptuous and predatory | The Arch Lich repeatedly addresses Jin as a human while observing and judging him. |
+| 최 팀장 | 진태경 | subordinate_ally_to_commander | Mr. Jin Taekyung | formal-polite | Team Leader Choi addresses Jin respectfully while asking about One Annihilation. |
+| 진태경 | 최 팀장 | commander_to_ally | Team Leader Choi | polite and familiar | Jin answers Choi directly about the technique's power. |
+| 샤오 쉔 | 진태경 | younger_acquaintance_to_respected_older_figure | Hyung | familiar and deferential | Shao Shen addresses Jin with shocked familiarity after witnessing the attack. |
+| 진태경 | 결사대 | commander_to_subordinates | you bastards | blunt and commanding | Jin orders the suicide squad to exploit the opening and wipe out the surrounding monsters. |
+| 스켈레톤 워로드 | 진태경 | captive_undead_commander_to_captor | wicked human | hostile and imperious | The Skeleton Warlord orders Jin to kill the strange human making repeated startled noises. |
+| 진태경 | 스켈레톤 워로드 | captor_to_captive_undead_commander | you | casual and irritated | Jin responds to the Skeleton Warlord's demand while fighting. |

@@ -1,31 +1,29 @@
 # Translation State
 
-- Last completed: 411
-- Next chapter: 412
-- Current block: 410–414 (2/5)
-- Latest translation: `translations/0411.md`
-- Latest summary: `summaries/beats/0411.md`
-- Safe profiles through: chapter 411
+- Last completed: 412
+- Next chapter: 413
+- Current block: 410–414 (3/5)
+- Latest translation: `translations/0412.md`
+- Latest summary: `summaries/beats/0412.md`
+- Safe profiles through: chapter 412
 
 ## Current Block
 
-- The Arch Lich's Magic Trap devastates the battlefield, but Johnson's Barrier protects Jin Taekyung and the more than two hundred members of the suicide squad. Jin leads them through the opening instead of stopping to fight, while the main force follows behind.
-- Watching through countless Familiars, the Arch Lich recalls the ancient Adversary who once drove a sword into its body. Believing the Adversary may have died, it sends its twenty elite undead guards into the battle and redirects half of them toward Jin after recognizing him as the human who defeated the Death Knight Lord.
-- Jin and the suicide squad reach the elite rear forces, where ten undead around Level 120 block their path. While Team Leader Choi urges retreat, Jin treats the powerful Liches and Death Knights as lunchboxes and prepares to use One Annihilation.
+- Jin Taekyung uses One Annihilation to erase ten Darkened Death Knights and Liches, countless elite monsters, and the Arch Lich's observing Familiars. The attack grants him four Level Ups, massive EXP and Fame, the Title One Against a Thousand, and the new Intimidation stat. Its effects terrify the surviving monsters and greatly raise the suicide squad's morale, allowing more than two hundred fighters to charge through the breach. The Arch Lich's Familiar Link is severed and its ten empowered guards are destroyed, leaving it injured and wondering whether Jin may be the ancient Adversary who defeated it long ago.
 
 ## Open Questions
 
-- Did the historical Adversary actually die, as the Arch Lich suspects?
-- What was the Arch Lich's former identity and what became of the king it served?
-- Can Jin and the suicide squad defeat the ten elite undead blocking their advance?
+- Is Jin the ancient human Adversary remembered by the Arch Lich?
+- What was the Arch Lich's former identity, and what became of the king it once served?
+- Can Jin and the suicide squad reach Lee Jungryong and Wu Heixing after exploiting the breakthrough?
 
 ## Exceptional Decision
 
+- Render 일기당천 as One Against a Thousand.
+- Render 위압 as Intimidation.
 - Render 어둠에 물든 as Darkened.
-- Render 강기 as Force.
+- Render 마계어 as Demon Realm language.
 - Render 결사대 as suicide squad.
-- Render 매직 트랩 as Magic Trap.
-- Render 대적자 as the Adversary.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
