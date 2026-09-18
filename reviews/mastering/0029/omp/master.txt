@@ -20,7 +20,7 @@ The impact hurled me backward with a thunderous crash. I flew toward the reconna
 
 “Squad Leader! Are you all right?”
 
-…Would I be all right?
+…Did I look all right?
 
 *Holy shit.*
 
@@ -36,17 +36,17 @@ Jopil was smiling.
 
 “I’m disappointed. Is that all you’ve got?”
 
-The only reason I had been able to block it was because it was merely “that much.” If I hadn’t leveled up after mowing down those twenty men, I might already have been dead.
+I had only managed to block because that was all he’d put into the attack. If I hadn’t leveled up after mowing down those twenty men, I might already be dead.
 
-*Fuck. Wrong opponent.*
+*Fuck. I picked the wrong opponent.*
 
 My realm was Second Rate. Even so, I had easily beaten two First Rate masters so far—with the martial arts and stats I’d gained through the System, and with the combat experience I’d accumulated.
 
-But I could tell from that one attack.
+But that single attack told me everything.
 
 *This guy is different.*
 
-I felt outmatched in every way. Jopil was on a completely different level from Lee Seogeun or Black Mountain Blade.
+I was outmatched in every way. Jopil was on a completely different level from Lee Seogeun or Black Mountain Blade.
 
 So different that the word *death* came to mind.
 
@@ -54,7 +54,7 @@ So different that the word *death* came to mind.
 
 Afraid? Me?
 
-I looked at my hand. The spear had stopped vibrating, but the hand gripping it was shaking like an aspen leaf. My heartbeat was so loud it felt as though everyone could hear it.
+I looked down at my hand. The spear had stopped vibrating, but the hand gripping it was trembling like an aspen leaf. My heart was pounding so loudly that everyone could probably hear it.
 
 “How do you expect to survive the storms of the martial world with such a timid heart?”
 
@@ -80,13 +80,13 @@ But I couldn’t stop them all.
 
 “Guh.”
 
-One of the reconnaissance squad clutched his throat. Blood fountained between his fingers, and I saw a throwing knife buried there.
+One of the reconnaissance squad members clutched his throat. Blood spurted between his fingers, and I saw a throwing knife buried there.
 
-“Grrk. Squ… Squad Leader. Grrk.”
+“Grrk. Squad… Leader. Grrk.”
 
-He dropped to his knees, gurgling on blood. His still-boyish face was twisted with the terror of dying.
+He sank to his knees, choking on blood. His still-boyish face was twisted with terror.
 
-“P-please, save me…”
+“P-please… save…”
 
 *Whoosh! Thunk!*
 
@@ -134,7 +134,7 @@ Jopil smiled as he continued.
 
 He was right. Something was boiling up from the pit of my stomach. My head and chest burned so hot that I had to say something.
 
-*What was that kid’s name again?*
+*What was this kid’s name again?*
 
 He was Number Seven in the reconnaissance squad. I’d forced him to carry a shield even though he hadn’t wanted to, and I’d trained him whenever I got the chance. He was young enough that a few words of praise always made him grin from ear to ear.
 
@@ -218,17 +218,17 @@ Just as Jopil reached that conclusion, Jin Taekyung muttered with a stiff expres
 
 Jopil stumbled over his own feet.
 
-The instant he thought *ah, shit*, Jin Taekyung’s spear slid in like a snake. He hopped back and opened the distance, but the internal energy on that spear was no joke.
+The instant he realized his mistake, Jin Taekyung’s spear darted in like a snake. Jopil sprang back to open the distance, but the internal energy behind the thrust was considerable.
 
 *Riiip!*
 
 It was the first attack Jopil had allowed through. His robe split open in a long gash, baring his chest.
 
-“Ah, so close. I could’ve finished it.”
+“Damn, so close. I could’ve finished him.”
 
 “…”
 
-*So close? Finished it? Against me—Jopil, One Question, One Kill?*
+*So close? Finished me? Me—Jopil, One Question, One Kill?*
 
 As Jin Taekyung smacked his lips in disappointment, Jopil felt rage surge through him.
 
@@ -248,7 +248,7 @@ The instant I sliced open Jopil’s robe, a System notification rang.
 >
 > Strength and Agility increase for the duration!
 
-*Damn it. Even more?*
+*Damn it. He gets even stronger?*
 
 “Graaaaah!”
 
@@ -276,7 +276,7 @@ The problem was, I couldn’t find it.
 
 He had completely lost his mind and was laying waste to everything around him. Dodging was all I could manage. Blocking was out of the question.
 
-Step into range and I would be shredded. That much was obvious.
+The instant I entered his range, he would tear me to pieces.
 
 “Squad Leader!”
 
@@ -286,13 +286,13 @@ I hurriedly waved off the reconnaissance squad members charging toward me.
 
 “Hey, don’t come over here! Don’t come! Fall back!”
 
-Had they lost their minds? Coming *here*?
+Were they insane? Why would they come anywhere near this?
 
 We had already lost one man for nothing. I didn’t want the entire reconnaissance squad wiped out.
 
 Besides…
 
-*If those guys come over here, the Gambler Title’s effect disappears!*
+*If they join in, the Gambler Title’s effect will disappear!*
 
 **Gambler** only worked in a one-on-one fight.
 
@@ -324,7 +324,7 @@ Their timing was excellent, and their attacks worked together as if they had pra
 
 There was only one problem.
 
-They had the wrong opponent.
+They had chosen the wrong opponent.
 
 “How dare you, you rats!”
 
@@ -348,7 +348,7 @@ That was the result of Jopil’s rigid knife-hand.
 
 Before they could finish, Jopil slammed both hands into their chests.
 
-They smashed into trees, spraying fountains of blood.
+They sprayed blood as they crashed into the trees.
 
 “I’ll kill you.”
 
@@ -370,11 +370,11 @@ The internal energy I drew up with all my strength raced through my body. I kick
 
 Jopil grinned broadly.
 
-“Right. I’ll kill you first.”
+“Good. I’ll kill you first.”
 
 But I had one thing to count on.
 
-*He’s empty-handed right now.*
+*He’s empty-handed.*
 
 That was the mistake he’d made while Berserk. And I was certain I could end this before he pulled the sword from behind him and swung it.
 
@@ -422,7 +422,7 @@ As I staggered backward, Jopil rushed me.
 
 *Whoosh-whoosh-whoosh!*
 
-Crimson sword-light poured down. Every flash was so fast and strong I could barely see it.
+Crimson sword-light poured down. Every strike was so fast and powerful that I could barely see it.
 
 I gritted my teeth and swung my spear, but Jopil surpassed me in both momentum and martial arts.
 
