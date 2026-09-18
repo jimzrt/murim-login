@@ -2,11 +2,11 @@
   "chapter": 5,
   "errors": [],
   "metrics": {
-    "length_ratio": 2.298,
+    "length_ratio": 2.311,
     "source_characters": 7025,
     "source_paragraphs": 264,
-    "translation_characters": 16143,
-    "translation_paragraphs": 222
+    "translation_characters": 16237,
+    "translation_paragraphs": 225
   },
   "passed": true,
   "version": 1,
@@ -19,22 +19,6 @@
         ]
       },
       "message": "Arabic numerals from the source are absent"
-    },
-    {
-      "code": "terminology",
-      "details": {
-        "korean": "경지",
-        "preferred": "realm / realm stage"
-      },
-      "message": "matched preferred term is absent"
-    },
-    {
-      "code": "terminology",
-      "details": {
-        "korean": "보법",
-        "preferred": "manoeuvre technique / footwork technique"
-      },
-      "message": "matched preferred term is absent"
     },
     {
       "code": "terminology",
@@ -65,6 +49,46 @@
       "details": {
         "korean": "진가창법",
         "preferred": "Jin Family's Spear Technique"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "빙빙",
+        "preferred": "Bingbing"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "전하",
+        "preferred": "His Highness"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "기해",
+        "preferred": "qi sea"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "도도",
+        "preferred": "Dodo"
       },
       "message": "matched preferred term is absent"
     }

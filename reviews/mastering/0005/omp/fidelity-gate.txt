@@ -1,0 +1,45 @@
+{
+  "summary": "Faithful to source with minor terminology deviations noted.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "lines 201, 358-389",
+      "current": "Virtual-reality games had something called a time ratio.",
+      "defect": "English does not use the preferred term 'circulate one's qi' for 운기조식 in system and quest panels.",
+      "replacement": "Use 'circulate one's qi' consistently for 운기조식 in system messages.",
+      "rationale": "Glossary mandates 'circulate one's qi' for 운기조식, especially in system UI panels to maintain terminology consistency.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "lines 230-331",
+      "current": "Jin Family’s Cultivation Technique, Jin Family’s Spear Technique, Jin Family’s Manoeuvre Technique",
+      "defect": "Missing exact usage of preferred terms 'Jin Family's Cultivation Technique', 'Jin Family's Spear Technique', 'Jin Family's Manoeuvre Technique' in some contexts.",
+      "replacement": "Ensure all appearances match glossary exactly as these names have binding usage.",
+      "rationale": "Glossary requires exact terms for martial arts techniques to avoid ambiguity.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "general",
+      "current": "In some places, Jin Mukyung appears as 'Young Master Jin Mukyung', Jin Taekyung as 'Jin Taekyung', and Yama as 'Yama' or 'King of the Underworld'.",
+      "defect": "Consistency of key names like Jin Mukyung, Jin Taekyung, and the underworld ruler term is not consistent.",
+      "replacement": "Use 'Jin Mukyung' for 진무경 and 'Yama' for 염라 or 염라대왕 consistently as per glossary.",
+      "rationale": "Glossary prefers unambiguous, stable renderings for these key characters and terms.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "general",
+      "current": "Multiple fancy prose expansions exist, e.g., 'muscles and bones' vs 'bones', 'sinews and meridians' vs 'sinews'.",
+      "defect": "System attribute terminology should match glossary clearly (근골 as Muscles and Bones, 근맥 as Sinews and Meridians).",
+      "replacement": "Use 'Muscles and Bones' for 근골, 'Sinews and Meridians' for 근맥 consistently in system UI.",
+      "rationale": "These system terms have specific glossary-approved English renderings to avoid ambiguity.",
+      "confidence": 1.0
+    }
+  ]
+}

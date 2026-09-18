@@ -1,6 +1,6 @@
 # Chapter 5
 
-“One, be good. Two, stay alive. Come on, one.”
+“On one, be good. On two, stay alive. Ready? One.”
 
 “Be good!”
 
@@ -20,7 +20,9 @@ That was the coachman’s first thought when he came to. His body felt as heavy 
 
 “Louder!”
 
-*…This has to be hell.* Every time the grim reaper’s merciless voice rang out, the screams of the dead followed.
+*…This has to be hell.*
+
+Every time the grim reaper’s merciless voice rang out, the screams of the dead followed.
 
 “Be gooood!”
 
@@ -56,7 +58,7 @@ He was alive.
 
 “I survived! I’m alive!”
 
-The man pushed the coachman away from his exuberant embrace and replied awkwardly.
+The man pushed the coachman away from his exuberant embrace and answered awkwardly.
 
 “Congratulations.”
 
@@ -64,11 +66,13 @@ The man pushed the coachman away from his exuberant embrace and replied awkwardl
 
 “Ah, well. We met briefly earlier.”
 
-*Earlier? Who did I meet earlier?* The coachman knew everyone at Honghwaru by sight, and the day’s first guest had been the wastrel of the Jin Family of Taiyuan.
+*Earlier? Who did I meet earlier?*
 
-*Where had he seen this kindly traveler before?*
+The coachman knew everyone at Honghwaru by sight, and the day’s first guest had been the wastrel of the Jin Family of Taiyuan.
 
-The coachman stared hard at his face, then suddenly sucked in a breath.
+*Where had he seen this traveler he was so grateful to before?*
+
+The coachman stared intently at his face, then suddenly sucked in a breath.
 
 “That bandit from earlier!”
 
@@ -106,7 +110,7 @@ But then—
 
 The bandit, who looked like a ferocious demon, calmed down in an instant and started walking ahead. The coachman found himself following and was struck by a strange sense of déjà vu.
 
-*It almost feels like he’s escorting me.*
+*This feels like I’m being escorted.*
 
 Compared to before the coachman had passed out, the bandit’s manner wasn’t merely subdued—it was downright polite. Mustering every ounce of courage he had, the coachman spoke.
 
@@ -114,7 +118,9 @@ Compared to before the coachman had passed out, the bandit’s manner wasn’t m
 
 “To the boss.”
 
-The coachman’s face went white. He remembered what he had said to the Heavenly Axe. Gouge out his eyes, grind his limbs to paste in a mortar…
+The coachman’s face went white. He remembered what he had said to the Heavenly Axe.
+
+*Gouge out his eyes, grind his limbs to powder in a mortar…*
 
 *I need to run. Right now.*
 
@@ -128,7 +134,7 @@ He had feared as much, but they had actually killed someone in broad daylight—
 
 The coachman knew he was going to die.
 
-Then someone emerged from the bushes.
+Until someone emerged from the bushes.
 
 “Oh, you’re awake?”
 
@@ -150,7 +156,7 @@ The coachman watched the scene in a daze and thought:
 
 “So that’s what happened.”
 
-The coachman’s eyes lit up like flashlights as he listened.
+The coachman’s eyes lit up like flashlights as he listened to the story.
 
 *Ow, my eyes. He’s blinding me. I can barely look at him.*
 
@@ -158,13 +164,13 @@ The coachman’s eyes lit up like flashlights as he listened.
 
 *What now?*
 
-“Are you sure you aren’t Young Master Jin Mukyung?”
+“Are you really Young Master Jin Mukyung?”
 
 “…Please, just stop.”
 
 *How many times do I have to tell him? I’m Jin Taekyung.*
 
-This NPC was driving me insane in every possible way. I couldn’t decide whether he represented a triumph of artificial intelligence or its utter failure.
+He was an NPC who drove me insane in every possible way. I couldn’t decide whether to call it a triumph of artificial intelligence or a failure.
 
 *If I knew how to drive a carriage, I would’ve ditched him ages ago.*
 
@@ -178,23 +184,23 @@ What knot, you ask? The knots in the ropes binding the five bandits hand and foo
 
 “Boss. Could you loosen them just a little?”
 
-“Nope. Can’t do that. No exchanges, either. You’re staying right here.”
+“Nope. Can’t do that. Won’t do it. Stay put.”
 
-“Please, Boss. Give your little brothers a chance to serve you—”
+“Please, Boss. Give your little brothers the chance to serve you—”
 
-“Call me Boss one more time, and I’ll give you a chance to serve the King of the Underworld.”
+“Call me Boss one more time, and I’ll give you the chance to serve Yama.”
 
-Leaving them in silence, I climbed into the carriage.
+Leaving their silence behind, I climbed into the carriage.
 
-I had already confiscated their weapons and stored them in my Inventory, and the level-up effect had left me in perfect condition.
+I had already confiscated the bandits’ weapons and placed them in my Inventory, and the level-up effect had restored me to perfect condition.
 
 “We’re leaving.”
 
-The coachman took the reins, and the four-horse carriage began to move.
+The coachman took up the reins, and the four-horse carriage began to move.
 
 The mountain road was as well maintained as the hiking trails behind town. Cool wind and mountain air flowed in through the carriage window.
 
-*It’s incredible no matter how I look at it.*
+*It’s incredible, no matter how I look at it.*
 
 I shook my head.
 
@@ -204,7 +210,7 @@ Besides, in my current situation, even thinking about that was a luxury.
 
 *Damn it. What the hell is the time ratio in this game?*
 
-Virtual-reality games had something called a time ratio. If the ratio between reality and virtual reality was one to three, three hours in virtual reality meant only one hour had passed in the real world.
+Virtual-reality games had something called a time ratio. If the ratio between reality and virtual reality was one to three, three hours in virtual reality would mean only one hour had passed in the real world.
 
 That was why I had forced myself to hold out at Honghwaru for three days.
 
@@ -214,17 +220,17 @@ I had been clinging to the hope that someone would get me out by then.
 
 A deep sigh escaped me. At the same time, a sliver of unease began to creep in.
 
-*What if the time ratio is ridiculously skewed?*
+*What if the time ratio is wildly different?*
 
 *No way.*
 
-That couldn’t be it. Jinho had once told me that a capsule’s time ratio depended on its performance and price. A piece of junk like this couldn’t possibly manage anything extreme.
+It couldn’t be. Jinho had once told me that a capsule’s time ratio was proportional to its performance and price. A piece of junk like this couldn’t possibly manage an extreme ratio.
 
 Though it was performing better than I’d expected.
 
 *No. It’s performing unbelievably well.*
 
-I hadn’t touched a game in years, but I wasn’t completely clueless. *Murim* was clearly a demanding, high-spec game, yet this ancient capsule was running it without a hitch.
+I hadn’t played a game in years, but I wasn’t so clueless that I couldn’t recognize that much. *Murim* was clearly a high-spec game, yet this old capsule was running it without any trouble.
 
 That alone was astonishing. So—
 
@@ -242,9 +248,9 @@ Please. I muttered the word like a spell and opened my Skill Window.
 >
 > Martial Arts: Jin Family’s Spear Technique / Jin Family’s Manoeuvre Technique (Unavailable)
 >
-> Bones: 70
+> Muscles and Bones: 70
 >
-> Sinews: 50
+> Sinews and Meridians: 50
 >
 > Remaining Points: 10
 >
@@ -260,11 +266,11 @@ It was astonishing even the second time I saw it. I couldn’t use my martial ar
 
 With a sigh, I moved on. First were the remaining points.
 
-It seemed I received ten points each time I gained a Level. The Status Window probably worked the same way.
+Apparently, I received ten points every time I gained a Level. The Status Window probably worked the same way.
 
-*Does that mean I get twenty points per level between the Skill Window and Status Window?*
+*If I combine the Skill Window and Status Window, does that mean I get twenty points every time I level up?*
 
-That felt like an oddly arbitrary number. I decided to put off distributing my points and touched the final line.
+That felt like a strangely awkward amount. I put off distributing my points and touched the final sentence.
 
 > **System**
 >
@@ -314,7 +320,7 @@ Ding.
 >
 > **Realm:** Second Stage
 >
-> **Effect:** Allows you to circulate and accumulate internal energy by circulating your qi.
+> **Effect:** Allows you to circulate and accumulate internal energy through qi circulation.
 >
 > **Description:** Exceptionally stable, but slow to accumulate internal energy.
 
@@ -336,7 +342,7 @@ That was when—
 >
 > Tutorial—Stage 4
 >
-> You can now control your internal energy by circulating your qi.
+> You can now control internal energy through qi circulation.
 >
 > However, uncontrolled internal energy is a double-edged sword.
 >
@@ -346,7 +352,7 @@ That was when—
 >
 > **Restriction:** First-time player
 >
-> **Objective:** Circulate Your Qi (Incomplete)
+> **Objective:** Circulate Qi (Incomplete)
 >
 > **Reward:** Item Chest
 >
@@ -354,7 +360,7 @@ That was when—
 >
 > Unlock Main Quest
 >
-> **Failure:** Status Effect: Qi Deviation or Death
+> **Failure:** Status Effect Qi Deviation or Death
 >
 > Would you like to accept the Quest?
 >
@@ -364,7 +370,7 @@ I answered without hesitation.
 
 *Nope. Not doing it.*
 
-A reward? I didn’t need one. There had to be a limit to this bullshit. Were these lunatics really trying to bargain with me, putting game items on one side and my life on the other?
+A reward? I didn’t need some lousy reward. There had to be a limit to this bullshit. Were these lunatics really trying to bargain with me by putting game items on one side and my life on the other?
 
 > **System**
 >
@@ -388,7 +394,7 @@ Ignoring the coachman’s stare, I enunciated each syllable.
 >
 > Accept / Accept
 
-“I said decline! Why do both options say Accept?”
+“I said decline! Why are both options Accept?”
 
 > **System**
 >
@@ -406,9 +412,9 @@ The string of curses I had been holding back finally burst out.
 >
 > The effect of Jin Family’s Cultivation Technique greatly increases stability.
 
-I had never missed my family more than I did then. My beloved mother. My adorable little sister…or rather, my pain-in-the-ass little sister, Hayeon.
+I had never missed my family as much as I did then. My beloved mother. My adorable little sister…or rather, my pain-in-the-ass little sister, Hayeon.
 
-*When I get out, your big brother will buy you enough fried chicken to make your stomach burst.*
+*When I get out, your oppa will buy you enough fried chicken to make your stomach burst.*
 
 *If I ever get out.*
 
@@ -416,7 +422,7 @@ I had never missed my family more than I did then. My beloved mother. My adorabl
 >
 > The Qi Circulation Helper will run for the first session only.
 
-This was like stabbing someone and then putting medicine on the wound…
+This was like stabbing someone and then applying ointment to the wound…
 
 > **System**
 >
@@ -434,37 +440,37 @@ I fixed my trembling gaze on the message window.
 
 *That was a coincidence, right? Yeah. It had to be.*
 
-Before the uneasy feeling had even faded, my vision flipped upside down.
+Before my unease had even faded, my vision flipped upside down.
 
 When I came to, I was in an unfamiliar gray space.
 
 “Over here.”
 
-I whipped my head around and saw an old man beckoning to me.
+I whipped my head around in surprise and saw an old man beckoning me.
 
 *If an old man who looked like that called me over in a dream, I’d turn around and run for my life. But this was a game.*
 
 *So he’s the helper.*
 
-Even if I hadn’t figured that out, I probably would have followed him without much suspicion.
+Even if I hadn’t reasoned it out, I would have followed him without much suspicion.
 
-It was strange even to me, but that was how I felt. An inexplicable sense of familiarity—and trust.
+It was strange, even to me, but that was how I felt. An inexplicable sense of familiarity. And trust.
 
-“Take whatever position feels most comfortable.”
+“Take whatever position you find most comfortable.”
 
 *Huh? Aren’t you supposed to sit cross-legged when circulating qi?*
 
-As if he had read my thoughts, the old man replied.
+As if he had read my thoughts, the old man answered.
 
-“Weaklings are the ones who fuss over details. Masters don’t need to.”
+“Weaklings are the ones who fuss over things like that. Masters don’t need to.”
 
-I could smell it in his calm voice. There was definitely a scent.
+I could smell it in his calm voice. I could smell it.
 
-*The scent of a master. The real deal had finally appeared!*
+*This was the scent of a master. The real deal had finally appeared!*
 
-“Good grief. What a character.”
+“Good grief. What a handful.”
 
-His wrinkled hand reached toward me, then vanished in a blur.
+His wrinkled hand seemed to reach toward me, then vanished in a blur.
 
 *Huh?*
 
@@ -476,17 +482,17 @@ Something flashed past, and the next moment, I was frozen stiff.
 
 I couldn’t move a muscle.
 
-“It’s only a simple acupoint-sealing technique, so don’t be alarmed. From this moment on, focus.”
+“It’s only a simple Pressure-Point Strike, so don’t be alarmed. Focus from this point on.”
 
-As he spoke, the old man placed a hand against my back. Then he began rattling off words in a low voice.
+As he spoke, the old man placed a hand on my back. Then he rapidly rattled off words in a low voice.
 
-“Circulating qi is the most important training for a martial artist. It not only allows you to accumulate internal energy, but also refines essence, qi, and spirit, enabling you to advance to a higher realm. Therefore…”
+“Circulating qi is the most important form of training for a martial artist. It not only allows you to accumulate internal energy, but also refines essence, qi, and spirit, enabling you to advance to a higher realm. Therefore…”
 
-I listened closely, but after that, I couldn’t understand a single thing he said. All I gathered was that circulating qi was extremely important.
+I listened closely, but I couldn’t understand a word of what came after that. All I gathered was that circulating qi was extremely important.
 
-“Keep your mind clear as a stream, maintain your focus, and draw out the flow. Now I will recite the formula of the Jin Family’s Cultivation Technique.”
+“Clear your mind like a stream, maintain your focus, and draw out the flow. Now I will recite the formula of the Jin Family’s Cultivation Technique.”
 
-Without giving me a chance to stop him, he rattled off the formula as fast as beans popping in a pan…and yet I understood every word. It felt like hearing a foreign language being translated automatically inside my head.
+Without giving me time to stop him, he rattled off the formula at breakneck speed, like beans popping in a pan—but I could understand it all. It felt as though a foreign language were being translated automatically inside my head.
 
 *What is this?*
 
@@ -494,17 +500,17 @@ The formula was exactly 318 characters long. The moment I felt it become perfect
 
 “Descend.”
 
-A single word from the old man.
+One word from the old man.
 
-*Where?*
+*Where to?*
 
 Before the question could fade, I felt myself being drawn somewhere deep.
 
 No—it only felt as though I was being drawn in.
 
-My eyes were definitely closed, yet I could see. I could feel.
+My eyes were definitely closed, but I could see. I could feel.
 
-A breeze blowing gently before scattering. Sunlight. The coachman’s breathing and the horses snorting…
+The breeze that blew past and scattered. The sunlight. The coachman’s breathing and the horses’ snorts…
 
 I pushed all of it away.
 
@@ -516,7 +522,7 @@ There was only one place to focus on: my body.
 
 I didn’t notice the old man disappear. I didn’t even hear the System’s voice.
 
-My consciousness, awakened in my head, slid downward. I didn’t know the points shining like stars were acupoints. Everything simply felt familiar, as though I had done this all my life.
+My consciousness stirred awake in my head and slid downward. I didn’t know the points shining like stars were acupoints. Everything simply felt familiar, as though it had always been this way.
 
 At last, I reached my dantian.
 
@@ -526,25 +532,25 @@ Ten years of internal energy.
 
 *But what’s that?*
 
-In one corner of my dantian was something else, large and solid as a boulder.
+In one corner of my dantian was something else, as large and hard as a boulder.
 
 I understood instinctively.
 
-*More internal energy.*
+*Another store of internal energy.*
 
-It was energy that I—Jin Taekyung—had not yet absorbed and made my own. It was almost as vast as the internal energy I already possessed.
+It was energy that I—Jin Taekyung—had not yet assimilated and made my own. There was nearly as much of it as the internal energy I already possessed.
 
 *What if I absorb it?*
 
-There was no question that it would make me stronger.
+There was no question that I would become stronger.
 
-But right now, it would be a reckless challenge. A pointless gamble.
+But for me, right now, it would be a reckless challenge. A pointless risk.
 
 *I can’t push my luck and die out here.*
 
-I steadied my mind and stirred my internal energy. Following the path the System’s voice had shown me, I slowly guided it onward.
+I steadied my mind and stirred my internal energy. Following the path the System’s voice had shown me, I slowly guided it along.
 
-Somewhere along the way, I thought I faintly heard someone speak.
+At some point, I thought I faintly heard someone’s voice.
 
 “Good judgment.”
 
@@ -556,7 +562,7 @@ Somewhere along the way, I thought I faintly heard someone speak.
 >
 > Tutorial—Stage 4 complete. Rewards will be distributed!
 >
-> You have gained insight into the Skill Qi Sense. You can now manipulate qi more freely and sense the energy of others.
+> You have gained insight into the Skill Qi Sense. You can now command qi more freely and sense the energy of others.
 >
 > A small amount of turbid qi has been expelled.
 >
@@ -570,8 +576,8 @@ Somewhere along the way, I thought I faintly heard someone speak.
 >
 > Main Quest created.
 
-As the System’s final message sounded, the coachman spoke.
+As the System’s final announcement sounded, the coachman spoke.
 
 “We’ve arrived. This is the Jin Family of Taiyuan.”
 
-*Yeah. Finally.*
+*Yeah. At last.*

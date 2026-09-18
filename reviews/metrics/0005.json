@@ -1,7 +1,7 @@
 {
   "chapter": 5,
   "stages": {
-    "adjudicator": {
+    "adjudicator_model": {
       "billing_type": "subscription",
       "cache_read_tokens": 5632,
       "cache_write_tokens": 0,
@@ -42,48 +42,7 @@
       "total_tokens": 37969,
       "usage_source": "omp_provider_reported"
     },
-    "fidelity_gate": {
-      "billing_type": "api",
-      "cache_read_tokens": 0,
-      "cache_write_tokens": 0,
-      "cost_reported": 0.0109908,
-      "cost_usd": 0.0109908,
-      "elapsed_seconds": 7.813,
-      "event_log": "/home/james/Documents/murim_login_new/reviews/mastering/0005/omp/fidelity-gate.jsonl",
-      "exact": true,
-      "fallback_used": false,
-      "finding_count": 4,
-      "input_tokens": 24841,
-      "major_or_critical_count": 0,
-      "model": "openai/gpt-4.1-mini",
-      "models": {
-        "openrouter/openai/gpt-4.1-mini": {
-          "billing_type": "api",
-          "cache_read_tokens": 0,
-          "cache_write_tokens": 0,
-          "cost_usd": 0.0109908,
-          "input_tokens": 24841,
-          "model": "openai/gpt-4.1-mini",
-          "output_tokens": 659,
-          "provider": "openrouter",
-          "requests": 1,
-          "total_tokens": 25500
-        }
-      },
-      "output_bytes": 2544,
-      "output_tokens": 659,
-      "packet_bytes": 71526,
-      "packet_token_estimate": 17882,
-      "provider": "openrouter",
-      "requested_model": "openrouter/openai/gpt-4.1-mini",
-      "requests": 1,
-      "stop_reasons": [
-        "stop"
-      ],
-      "total_tokens": 25500,
-      "usage_source": "omp_provider_reported"
-    },
-    "master": {
+    "master_model": {
       "billing_type": "subscription",
       "cache_read_tokens": 5760,
       "cache_write_tokens": 0,
@@ -125,5 +84,5 @@
       "usage_source": "omp_provider_reported"
     }
   },
-  "version": 1
+  "version": 2
 }

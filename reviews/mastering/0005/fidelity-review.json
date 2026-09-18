@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "Virtual-reality games had something called a time ratio.",
+      "defect": "English does not use the preferred term 'circulate one's qi' for 운기조식 in system and quest panels.",
+      "id": "F01",
+      "rationale": "Glossary mandates 'circulate one's qi' for 운기조식, especially in system UI panels to maintain terminology consistency.",
+      "replacement": "Use 'circulate one's qi' consistently for 운기조식 in system messages.",
+      "severity": "minor",
+      "source": "lines 201, 358-389"
+    }
+  ],
+  "summary": "Faithful to source with minor terminology deviations noted.",
+  "version": 1
+}
