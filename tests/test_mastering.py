@@ -3,6 +3,7 @@ from __future__ import annotations
 import importlib.util
 import json
 import tempfile
+import unittest
 from pathlib import Path
 from unittest.mock import patch
 
@@ -655,3 +656,84 @@ def test_adjudicator_run_omp_passes_deepseek_overlay():
     assert any(str(item).endswith("review-overlay.yml") for item in configs)
     assert any(str(item).endswith("adjudicator-overlay.yml") for item in configs)
     assert captured["command"][captured["command"].index("--model") + 1] == "cursor/cursor-grok-4.6:low"
+
+
+def _reset_fixture(root: Path, number: int) -> None:
+    work = root / "reviews" / "mastering" / f"{number:04d}"
+    work.mkdir(parents=True)
+    trans = root / "translations"
+    trans.mkdir(exist_ok=True)
+    (trans / f"{number:04d}.md").write_text(f"# Chapter {number}\n\nLive copy.\n", encoding="utf-8")
+    (work / "baseline.md").write_text(f"# Chapter {number}\n\nOld baseline.\n", encoding="utf-8")
+    (work / "sol.md").write_text("sol leftover\n", encoding="utf-8")
+    (work / "state.json").write_text(
+        json.dumps({
+            "version": 1,
+            "chapter": number,
+            "stage": "PROMOTED",
+            "qa_passed": True,
+            "source_sha256": "abc",
+            "baseline_sha256": mastering.sha256_text(f"# Chapter {number}\n\nOld baseline.\n"),
+        }),
+        encoding="utf-8",
+    )
+    wf = root / ".work" / f"{number:04d}"
+    wf.mkdir(parents=True)
+    (wf / "workflow.json").write_text(
+        json.dumps({
+            "chapter": number,
+            "stage": "MASTERED_COMMITTED",
+            "artifacts": {"master_commit": "deadbeef"},
+        }),
+        encoding="utf-8",
+    )
+
+
+class MasteringResetTest(unittest.TestCase):
+    def test_reset_restores_baseline_and_rewinds_transaction(self):
+        with tempfile.TemporaryDirectory() as folder:
+            root = Path(folder)
+            _reset_fixture(root, 9)
+            with (
+                patch.object(mastering, "ROOT", root),
+                patch.object(mastering, "WORK_ROOT", root / "reviews" / "mastering"),
+                patch.object(mastering, "current_source", return_value="원문"),
+            ):
+                mastering.command_reset_for_remaster(9)
+            translation = (root / "translations" / "0009.md").read_text(encoding="utf-8")
+            assert translation == "# Chapter 9\n\nOld baseline.\n"
+            assert not (root / "reviews" / "mastering" / "0009" / "sol.md").exists()
+            state = json.loads((root / "reviews" / "mastering" / "0009" / "state.json").read_text(encoding="utf-8"))
+            assert state["stage"] == "SNAPSHOTTED"
+            primary = json.loads((root / ".work" / "0009" / "workflow.json").read_text(encoding="utf-8"))
+            assert primary["stage"] == "COMMITTED"
+            assert "master_commit" not in primary["artifacts"]
+
+    def test_reset_keep_translation_snapshots_live_copy(self):
+        with tempfile.TemporaryDirectory() as folder:
+            root = Path(folder)
+            _reset_fixture(root, 4)
+            live = "# Chapter 4\n\nAudited live copy.\n"
+            (root / "translations" / "0004.md").write_text(live, encoding="utf-8")
+            with (
+                patch.object(mastering, "ROOT", root),
+                patch.object(mastering, "WORK_ROOT", root / "reviews" / "mastering"),
+                patch.object(mastering, "current_source", return_value="원문"),
+            ):
+                mastering.command_reset_for_remaster(4, keep_translation=True)
+            assert (root / "translations" / "0004.md").read_text(encoding="utf-8") == live
+            baseline = (root / "reviews" / "mastering" / "0004" / "baseline.md").read_text(encoding="utf-8")
+            assert baseline == live
+            assert not (root / "reviews" / "mastering" / "0004" / "sol.md").exists()
+            state = json.loads((root / "reviews" / "mastering" / "0004" / "state.json").read_text(encoding="utf-8"))
+            assert state["stage"] == "SNAPSHOTTED"
+            assert state["baseline_sha256"] == mastering.sha256_text(live)
+            assert state["source_sha256"] == mastering.sha256_text("원문")
+
+
+def test_reset_restores_baseline_and_rewinds_transaction():
+    MasteringResetTest().test_reset_restores_baseline_and_rewinds_transaction()
+
+
+def test_reset_keep_translation_snapshots_live_copy():
+    MasteringResetTest().test_reset_keep_translation_snapshots_live_copy()

@@ -195,6 +195,11 @@ when each old span occurs exactly once and meets the configured confidence
 threshold, and runs final QA. Chapters without
 findings are not sent to refinement and are not changed.
 
+A bounded quality catch-up (`python tools/run_catchup.py`) resets and remasters
+selected early chapters, runs `audit_range` on 9–63, then leaves the normal
+FIFOs at translation 370+ and mastering 180+. Do not start `run_next` or
+`run_next_mastering` until it releases locks.
+
 Artifacts and metrics are stored under `reviews/retrofit/START-END/`; recoverable
 pre-edit copies are stored under ignored `.work/retrofit/`. Inspect the Git diff
 and commit one range checkpoint after `VERIFIED`. This workflow never changes
