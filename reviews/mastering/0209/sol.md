@@ -10,7 +10,7 @@ His reaction was understandable.
 
 Before his vacation—just one week ago—the Guild House had looked like a run-down neighborhood corner store on the verge of collapse.
 
-But now, right before his eyes, stood a sign made of gleaming marble and luxurious lettering.
+Now, gleaming marble and an elegant sign stood before him.
 
 **<Peace Guild>**
 
@@ -54,11 +54,11 @@ The interior of the Guild House had changed just as dramatically as the exterior
 
 There was Team Leader Choi, the true power behind the Peace Guild; Butler Kim, its nominal Guild Master; and Song Song, the guild’s sole female member.
 
-The three of them were seated around a round table. As they greeted him in turn, Im Kkeokjeong let out a good-natured laugh.
+The three sat around a circular table and greeted him in turn. Kkeokjeong gave them a warm smile.
 
 “Maybe it’s because it’s been a while, but it’s good to see you all. Did everyone get plenty of rest over the vacation?”
 
-The moment he finished speaking, the expressions of all three changed strangely.
+The moment he finished speaking, all three of their expressions changed.
 
 After a brief silence, Song Song spoke.
 
@@ -72,13 +72,13 @@ Kkeokjeong tilted his head.
 
 Come to think of it, his wife had complained about something similar a few times during their vacation.
 
-“Nothing much, just a fly or two. She said they kept coming in no matter how many she caught, so I left them alone, and then they quieted down. They hardly flew around, either.”
+“Nothing much. Just a fly or two. She said they kept coming back no matter how many she killed, so we left them alone, and they eventually quieted down. They hardly flew around, either.”
 
 “Oh, really?”
 
 “Yeah. I’ve never seen such well-behaved flies.”
 
-Song Song shuddered uneasily.
+Song Song shuddered.
 
 “There were so many of them that I felt too creeped out to shower. It was like the bugs were watching me.”
 
@@ -86,21 +86,21 @@ Song Song shuddered uneasily.
 
 “…”
 
-Im Kkeokjeong threw his head back and laughed. He failed to notice the other three exchanging meaningful looks and words he could not hear.
+Kkeokjeong threw his head back and laughed, failing to notice the other three exchanging meaningful glances and soundless words behind his back.
 
 *Hunter Im doesn’t seem to know.*
 
-*Looks like he didn’t notice.*
+*He must not have noticed.*
 
 *Wow. How can this guy be so oblivious?*
 
 Unlike the other three, who had spent their entire vacation under surveillance by Familiars sent by the Sangdong Guild, Kkeokjeong had enjoyed a truly blissful break without knowing a thing.
 
-It wasn’t that he hadn’t been watched. He had been watched; he simply didn’t know it.
+It wasn’t that no one had been watching him. They had. He simply hadn’t noticed.
 
 Ignorance truly was bliss.
 
-“Those fucking perverts. If I catch them later, I’m going to rip their balls off.”
+“Fucking perverts. If I catch them, I’m going to rip their balls off.”
 
 Song Song’s muttering would have sent chills down the spines of the Sangdong Guild’s mages if they had heard it.
 
@@ -108,11 +108,11 @@ Kkeokjeong abruptly stopped laughing.
 
 “Huh? What did you just say? Perverts?”
 
-“No. I just said the bugs were disgusting.”
+“Nothing. I just said the bugs were disgusting.”
 
 “Is it still bad? I know someone who works in that line of business. Want me to ask them about it?”
 
-Song Song gave a quiet laugh at his genuine concern, then pressed her lips together and pointed at the two people sitting beside her.
+Song Song let out a quiet laugh at his genuine concern, then pointed at the two men sitting with their mouths firmly shut.
 
 “They’re all gone now. Those two took care of it. Especially Butler Kim.”
 
@@ -128,13 +128,13 @@ Butler Kim answered with an awkward smile.
 
 In a way, monsters were merely enormous pests, so that wasn’t entirely wrong.
 
-Im Kkeokjeong, who had effectively turned one of Bucheon’s leading Hunter Guilds into Cesco,[^1] continued in all seriousness.
+Kkeokjeong, who had just reduced the Sangdong Guild—one of the premier Hunter Guilds in Guild-packed Bucheon—to a pest-control company, continued in complete seriousness.
 
 “Your junior must be pretty good at his job.”
 
 “Oh, he is.”
 
-He was so good at beating them down that he was one of the war heroes of the Great Cataclysm.
+He had beaten down so many monsters that he was one of the war heroes of the Great Cataclysm.
 
 Of course, to Butler Kim, Sangdong Guild Master Im Chunsoo was merely one of the trainees he had once worked like a dog.
 
@@ -142,13 +142,13 @@ Of course, to Butler Kim, Sangdong Guild Master Im Chunsoo was merely one of the
 
 Team Leader Choi had been grimacing for some time as he struggled to hold back his laughter. He quickly changed the subject.
 
-There happened to be one person who made for a much more suitable topic.
+Fortunately, there was someone who made a perfect topic.
 
 “Why isn’t Jin Taekyung here?”
 
 While they had been chatting and laughing, their scheduled start time had long since passed.
 
-Only now realizing Jin Taekyung’s absence, Im Kkeokjeong nervously stroked his beard.
+Only then noticing Taekyung’s absence, Kkeokjeong stroked his beard with a worried look.
 
 “What’s going on? Taekyung’s never done this before. When it comes to diligence, he’s the best person I know.”
 
@@ -166,15 +166,15 @@ Team Leader Choi was still considering the possibilities as he picked up his pho
 
 “Taurus—I mean, Jin Taekyung.”
 
-“…”
+“…?”
 
 “He’s right there.”
 
-Her pale, slender finger pointed over Team Leader Choi’s shoulder.
+Her slender white finger pointed over Team Leader Choi’s shoulder.
 
-The next moment, the guild members naturally turned in the direction she indicated, and their mouths fell open.
+The others naturally turned to follow it, and their mouths dropped open.
 
-A familiar face filled the eighty-inch television screen mounted on the wall of the Guild House.
+A familiar face filled the eighty-inch television mounted on the Guild House wall.
 
 “…Huh.”
 
@@ -190,15 +190,15 @@ By then, however, the guild members’ attention had already been seized by the 
 
 **Live: Tollgate Hero**
 
-“Tollgate Hero? What’s that supposed to mean? Why can’t we hear anything?”
+“Tollgate Hero? What the hell is that? And why can’t we hear anything?”
 
 “It’s muted! The TV’s on mute! Turn the sound on, quick!”
 
-Only after someone hurriedly fiddled with the television did the blocked sound begin to spill out.
+Only after someone hurriedly fiddled with the television did the missing sound burst forth.
 
 “Fwoosh-fwoosh-fwoosh-fwoosh! Rat-a-tat-a-tat!”
 
-Along with some incomprehensible noise, Jin Taekyung’s voice continued.
+Taekyung’s voice followed the incomprehensible noise.
 
 “…And that’s how it happened.”
 
@@ -214,7 +214,7 @@ Along with some incomprehensible noise, Jin Taekyung’s voice continued.
 
 After one last shot of the reporter’s beaming face, the screen switched to a cosmetics commercial.
 
-Im Kkeokjeong shouted, “What the hell was that? I couldn’t hear anything!”
+“What the hell was that?” Kkeokjeong shouted. “We didn’t hear anything!”
 
 “Hold on. I’ll search for it right now. Tollgate Hero, Tollgate Hero… Holy crap.”
 
@@ -222,7 +222,7 @@ Im Kkeokjeong shouted, “What the hell was that? I couldn’t hear anything!”
 
 Song Song had frozen, her eyes wide. Without a word, she held out her phone.
 
-The main page of the web portal was displayed on the screen. The three syllables of Jin Taekyung’s name were plastered across it.
+On the web portal’s main page, the three syllables of Jin Taekyung’s name were displayed in plain sight.
 
 “Jin Taekyung is number one on the real-time search rankings.”
 
@@ -238,19 +238,19 @@ Then—
 
 “No way.”
 
-It was the same sound they had heard during Jin Taekyung’s interview only a few dozen seconds earlier.
+It was the same sound they had heard during Taekyung’s interview only seconds ago.
 
 Everyone whipped around to look at the television, only to sigh when they saw the cosmetics commercial was still playing.
 
-But only for a moment.
+Then they paused.
 
-“Wait. Then why can we still hear it?”
+“Wait. Why can we still hear it?”
 
-Team Leader Choi and Butler Kim were the first to realize where the noise was coming from. They shouted together.
+Team Leader Choi and Butler Kim were the first to realize where the noise was coming from.
 
 “Outside!”
 
-“It’s outside! It isn’t the television!”
+“It’s coming from outside! Not the television!”
 
 Crash!
 
@@ -266,7 +266,7 @@ The words had barely left their mouths when everyone sprang to their feet.
 
 “No. You cut my interview short earlier.”
 
-“Hunter, about earlier…”
+“Hunter Jin, about earlier…”
 
 The speaker spell relayed the conversation with perfect clarity.
 
@@ -280,7 +280,7 @@ With the other guild members watching, Team Leader Choi steadied his breathing a
 
 “What was that? How did you do it?”
 
-Team Leader Choi opened his mouth without hesitation.
+Team Leader Choi answered without hesitation.
 
 It was an instinct etched deep into his bones.
 
@@ -292,7 +292,7 @@ Kkeokjeong muttered a string of vicious curses under his breath.
 
 *I went to sleep and woke up a star.*
 
-I had never imagined I would experience that saying for real in my lifetime.
+I had never imagined I would experience that saying firsthand.
 
 Especially not in real time like this.
 
@@ -306,17 +306,17 @@ Hayeon’s voice over the phone was filled with shock and disbelief.
 
 “Oppa, your name is on Naver’s real-time search rankings…”
 
-I could easily guess what she was about to say.
+I knew exactly what she was about to say.
 
-I had already received dozens of calls with similar questions over the past few hours.
+I had already received dozens of calls saying more or less the same thing over the past few hours.
 
-I cut Hayeon off before she could continue.
+I cut her off before she could continue.
 
 “Number one on the real-time search rankings. Yeah, that’s me. It really is.”
 
 “…Seriously? The Seoul Outer Ring Expressway Tollgate Hero? That’s you?”
 
-“Don’t call me that. I’m dying of embarrassment.”
+“Don’t call me that. I’m embarrassed enough to die.”
 
 “Wow. I guess it really is you. The second I tapped your name, your profile picture popped up under ‘Person in the News.’ Even after seeing it, I still thought there was no way.”
 
@@ -326,15 +326,15 @@ Only a few hours had passed, but searching my name online already brought up doz
 
 “What on earth happened? I read the articles, and it sounded insane. You’re not hurt, are you?”
 
-“I didn’t even get a scratch, and it’d take too long to tell you the whole story. What about Mom? Has she heard the news about me?”
+“I didn’t get so much as a scratch, and it’d take too long to explain everything from the beginning. What about Mom? Has she heard the news?”
 
 “Not yet. But if she finds out you fought monsters like that, she’ll faint.”
 
 Hayeon wasn’t exaggerating.
 
-What kind of creature was an ogre?
+Ogres were no joke.
 
-Even someone who knew nothing about monsters could search a few times and learn that they were every bit as powerful as their grotesque appearance suggested.
+Even someone who knew nothing about monsters could run a few searches and learn that they were every bit as powerful as they looked hideous.
 
 I could already picture how Mom would react when she heard her son had fought such monsters.
 
@@ -354,11 +354,11 @@ I could already picture how Mom would react when she heard her son had fought su
 
 “…Holy crap.”
 
-Just as I was about to answer Hayeon, a television-station producer weighed down with Equipment urgently waved at me.
+Just as I was about to respond, a television producer draped in Equipment urgently waved me over.
 
 “This is live, so I have to go. See you at home later.”
 
-“Uh-huh? O-Okay…”
+“Huh? O-Okay…”
 
 I hung up and headed toward a news studio I had only ever seen on television.
 
