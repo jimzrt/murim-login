@@ -1,31 +1,30 @@
 # Translation State
 
-- Last completed: 359
-- Next chapter: 360
-- Current block: 355–359 (5/5)
-- Latest translation: `translations/0359.md`
-- Latest summary: `summaries/beats/0359.md`
-- Safe profiles through: chapter 359
+- Last completed: 360
+- Next chapter: 361
+- Current block: 360–364 (1/5)
+- Latest translation: `translations/0360.md`
+- Latest summary: `summaries/beats/0360.md`
+- Safe profiles through: chapter 360
 
 ## Current Block
 
-- Jin Taekyung's full-powered Flame Divine Palm, Flame-Extinguishing Divine Fist, and One Annihilation fail to defeat the Western Heaven Demon Lord, whose Body-Protecting Qi and Black Dragon Armor withstand the attacks; One Annihilation wounds his shoulder, but the Demon Lord overwhelms Taekyung with superior martial arts and Sword Force. Taekyung survives more than three hundred moves while suffering severe internal injuries, a fractured left arm, and probable chest fractures, then remains standing with almost no internal energy and refuses to yield, insisting that his stubborn will to protect the Fire King and Cheongpung is itself supernatural power. The fight remains unresolved as he raises a faint Spear Energy and challenges the silent Demon Lord to attack.
+- The Western Heaven Demon Lord decisively overwhelms Jin Taekyung in the underground prison, shattering his limbs and inflicting a fatal Internal Injury while Taekyung's internal energy is exhausted. Taekyung remains conscious long enough to headbutt him, but cannot stop him from leaving.
+- As Taekyung believes the battle and the wider assault are lost, he recalls Jeok Cheongang's sacrifice and resolves not to collapse or flee. The Western Heaven Demon Lord leaves him alive temporarily, promising to take him if he survives and stating that Jeok Cheongang, the Divine Physician, and the defenders outside will not change the outcome.
+- The damaged underground prison continues to shake and collapse. As Taekyung's senses fade and he expects death, the Heavenly Power Demon appears before him with a torn chain and a gaunt, unusually tall body.
 
 ## Open Questions
 
-- What will be the outcome of Taekyung's fight with the Western Heaven Demon Lord?
-- Can Taekyung protect the Fire King and Cheongpung from Dark Heaven?
-- Can Cheongpung survive his fight with First Fiend?
-- Can the Tang Clan's remaining forces protect Tang Sadok and the Divine Physician?
-- What will the Blood Lord do when the Western Heaven Demon Lord brings the survivors or reports the battle?
+- Can Taekyung survive his injuries and the collapsing underground prison?
+- What will the Heavenly Power Demon do after appearing before Taekyung?
+- What is the actual outcome of the assault on the Tang Clan, Qingcheng, and Emei?
+- Can Cheongpung survive or escape his confrontation with First Fiend?
+- Can Jeok Cheongang and the Divine Physician avoid capture?
 
 ## Exceptional Decision
 
-- Render 호교사자 as Protector of the Divine Cult, 교주 as Cult Leader, and 뇌옥 as underground prison.
-- Render 권강 as Fist Force and 검강 as Sword Force.
-- Render 흑혈검법 as Black Blood Sword Technique and 후발선제 as Striking Second, Hitting First.
-- Render 흡정대법 as Essence-Siphoning Great Technique and 괴력난신 as supernatural powers.
-- Render 맞고 뒈져라 신공 as Get Hit and Fucking Die Technique and 물리 초절정 고수 as physically strong Supreme Peak master.
+- Use established renderings for Western Heaven Demon Lord, Heavenly Power Demon, White Flame, Spear Energy, Body-Protecting Qi, and underground prison.
+- Treat the Western Heaven Demon Lord's predictions about the wider assault as unconfirmed until directly established.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

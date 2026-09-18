@@ -1,6 +1,6 @@
 # Hyuk Mujin (혁무진)
 
-- **Safe through:** Chapter 344
+- **Safe through:** Chapter 360
 - **Aliases:** Swift Wind Sword
 - **Role:** A Level 50 First Rate martial artist who serves as Captain of the Jin Family's Gatekeepers and Vice Squad Leader of the Jin Dragon Squad, and remains at Dong Feng's hidden clinic with Gung Gibang to guard Venerable Myoryeong.
 - **Personality:** Young, disciplined, persistent, and talented. Values loyalty and respectable conduct, but is proud, glory-seeking, suspicious of Taekyung, and bluntly critical of the family's disgraced third son. He is an avid wuxia reader who sometimes mistakes fictional conventions for reality.

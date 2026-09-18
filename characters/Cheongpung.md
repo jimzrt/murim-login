@@ -1,6 +1,6 @@
 # Cheongpung (청풍)
 
-- **Safe through:** Chapter 359
+- **Safe through:** Chapter 360
 - **Aliases:** Huashan Divine Dragon
 - **Role:** Twenty-three-year-old Huashan outsider, grandson and Disciple of Sword Saint Mae Jonghak, now a Supreme Peak master fighting First Fiend at the besieged Sichuan Tang Clan.
 - **Personality:** Affable, dreamy, hazy, and childlike in manner, with innocent curiosity, delight in novel public attention, a deep love of martial arts, and a martial artist's competitive pride; he becomes unsettled when someone copies his martial arts
