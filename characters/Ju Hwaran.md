@@ -1,6 +1,6 @@
 # Ju Hwaran (주화란)
 
-- **Safe through:** Chapter 319
+- **Safe through:** Chapter 320
 - **Aliases:** Hwaran
 - **Role:** Level 88, twenty-one-year-old Young Bureau Head and leader of the Yongbong Escort Bureau, Ju Hwaran has delivered a casket containing Hundred-Year-Old Snow Ginseng rather than the contracted Thousand-Year Snow Ginseng, leaving the bureau liable for two hundred thousand silver nyang.
 - **Personality:** Intelligent, capable, responsible, filial, composed under pressure, and burdened by intense guilt over the escort journey's deaths.

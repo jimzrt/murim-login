@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "“It’s nice to see someone acknowledge things cleanly.”",
+      "defect": "The English can sound as though Jin is praising Hwangbo Eom for admitting something, rather than explaining that openly admitting his own pretense makes a better impression.",
+      "id": "F01",
+      "rationale": "The source refers to the appearance created by candidly acknowledging something, with Jin implicitly defending his own response.",
+      "replacement": "“It’s a better look to admit it cleanly.”",
+      "severity": "minor",
+      "source": "깔끔하게 인정하는 모습이 보기 좋잖아요."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“T-The Successor Beggar of the Beggars’ Sect, Gung Gibang…”",
+      "defect": "The draft adds Gung Gibang’s title to his self-introduction even though he only stammers his sect affiliation and name.",
+      "id": "F02",
+      "rationale": "Hwangbo Eom calls him the Successor Beggar immediately beforehand, but Gung Gibang does not repeat that title in the source.",
+      "replacement": "“B-Beggars’ Sect’s Gung Gibang…”",
+      "severity": "minor",
+      "source": "“개, 개방의 궁기방이…….”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“*The Insolent Bastard* is so damn good.”",
+      "defect": "The draft invents a work titled The Insolent Bastard and loses the specific Bangjajeon title reference and its pun on 방자한.",
+      "id": "F03",
+      "rationale": "The joke abruptly treats 방자전 as a title after the swordsman calls Jin 방자한; retaining the title and briefly explaining the wordplay preserves the cultural reference and punch line.",
+      "replacement": "“*Bangjajeon*[^1] is fucking great.”\n\n[^1]: *Bangjajeon* (*The Servant*) is a Korean film title that echoes the word just used for “insolent.”",
+      "severity": "minor",
+      "source": "“방자전 개꿀잼.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Unlike Baek Museong, Gung Gibang, and Hyuk Mujin, Cheongpung had enough nerve for twelve people. Without the slightest hesitation, he sat down beside me and pouted.",
+      "defect": "The localization preserves the idea of extreme courage but removes the absurd anatomical image that all twelve of Cheongpung’s internal organs are livers, weakening both the joke and the setup for Hwangbo Eom’s subsequent remark about having a big liver.",
+      "id": "F04",
+      "rationale": "The source deliberately literalizes the Korean liver-as-courage idiom, and the following exchange continues the same liver joke.",
+      "replacement": "Unlike Baek Museong, Gung Gibang, and Hyuk Mujin, Cheongpung—whose twelve internal organs were apparently all livers—sat down beside me without hesitation and pouted.",
+      "severity": "minor",
+      "source": "이 세 사람과 달리 십이지장이 전부 간덩이로 이루어져 있는 청풍은 거리낌 없이 내 옆자리에 앉아 입을 삐쭉거렸다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "To be honest, judging by your expression, you don’t look like someone who’s been doing well.",
+      "defect": "The draft omits Jin’s formal address, 주 소저, flattening the courteous register he maintains with Ju Hwaran.",
+      "id": "F05",
+      "rationale": "The explicit address Young Lady Ju is a meaningful marker of their relationship and contrasts with Jin’s otherwise teasing delivery.",
+      "replacement": "To be honest, Young Lady Ju, judging by your expression, you don’t look like someone who’s been doing well.",
+      "severity": "major",
+      "source": "사실 지금 주 소저 표정만 봐도 잘 지낸 사람 같지는 않거든요."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Jeok Cheongang had a mischievous personality and had played all sorts of tricks on me over the years.",
+      "defect": "The phrase “over the years” adds a long duration not stated by 지금껏 and unsupported by the source.",
+      "id": "F06",
+      "rationale": "지금껏 means up to now or previously; it does not establish that the relationship has lasted for years.",
+      "replacement": "Jeok Cheongang had a mischievous personality and had played all sorts of tricks on me before.",
+      "severity": "minor",
+      "source": "짓궂은 성격의 소유자인 적천강은 지금껏 내게 여러 가지 장난을 쳤는데,"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The Extreme Yang energy based on the seven-star Fire Gate Divine Technique seeped into both my hands.",
+      "defect": "칠 성 indicates that Jin is using the technique to seven-tenths, not that the Fire Gate Divine Technique is a “seven-star” technique. The draft invents a classification and omits the amount of power being used.",
+      "id": "F07",
+      "rationale": "The source specifies Jin’s degree of output, which is mechanically relevant to the ensuing display of heat.",
+      "replacement": "I circulated the Fire Gate Divine Technique to seven-tenths, and Extreme Yang energy seeped into both my hands.",
+      "severity": "major",
+      "source": "칠 성의 열화신공을 기반으로 한 극양의 기운이 두 손에 스며들었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“I just happened to be passing by and wondered what kind of bullshit the Zhongnan Sect was pulling, so I came to take a look.”",
+      "defect": "“Bullshit” primarily suggests nonsense, while 개수작 here accuses the Zhongnan Sect of attempting a dirty or underhanded scheme. The draft weakens the plot-relevant accusation.",
+      "id": "F08",
+      "rationale": "Jin is directly challenging the sect over suspected underhanded conduct, which explains why Hwangbo Eom’s expression immediately turns cold.",
+      "replacement": "“I just happened to be passing by and came to see what kind of dirty trick the Zhongnan Sect was trying to pull.”",
+      "severity": "major",
+      "source": "“그냥, 우연히 길을 지나던 중에 종남파가 무슨 개수작을 부리나 싶어서 와 봤습니다.”"
+    }
+  ],
+  "summary": "Several localized additions and register losses are present, along with a major mechanical mistranslation of the Fire Gate Divine Technique’s power and a weakened accusation against the Zhongnan Sect.",
+  "version": 1
+}
