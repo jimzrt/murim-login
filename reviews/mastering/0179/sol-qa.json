@@ -2,11 +2,11 @@
   "chapter": 179,
   "errors": [],
   "metrics": {
-    "length_ratio": 2.302,
+    "length_ratio": 2.152,
     "source_characters": 5968,
     "source_paragraphs": 204,
-    "translation_characters": 13739,
-    "translation_paragraphs": 208
+    "translation_characters": 12842,
+    "translation_paragraphs": 207
   },
   "passed": true,
   "version": 1,
@@ -14,8 +14,24 @@
     {
       "code": "terminology",
       "details": {
+        "korean": "명성",
+        "preferred": "Fame"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
         "korean": "대협",
         "preferred": "Great Hero or Sir depending tone"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "황천",
+        "preferred": "Hwangcheon"
       },
       "message": "matched preferred term is absent"
     },

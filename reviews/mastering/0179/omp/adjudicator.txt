@@ -1,1 +1,695 @@
-I’ll adjudicate each hunk against the Korean and project terminology, checking continuity for the glossary-sensitive items before writing the JSON.{"chapter": 179, "decisions": [{"hunk_id": "H001", "decision": "SOL", "reason": "Preserves the 집이 아니라 / 황천길 contrast; BASE drops the 'not home' punchline."}, {"hunk_id": "H002", "decision": "SOL", "reason": "'Family's youngest' matches 그 집안 막내; BASE adds unsupported 'undisputed' and 'son'."}, {"hunk_id": "H003", "decision": "SOL", "reason": "Clipped 'One travel bundle, and that was it' matches 행낭 하나가 전부 without the extra 'I had'."}, {"hunk_id": "H004", "decision": "SOL", "reason": "'This early in the day' captures 낮부터 against the early-hour scene; 'since morning' narrows 낮 to 아침."}, {"hunk_id": "H005", "decision": "BASE", "reason": "장정 is a strapping able-bodied man, not merely a 'grown man'; SOL weakens the size contrast."}, {"hunk_id": "H006", "decision": "SOL", "reason": "Keeps the truncated understatement 그건 좀; BASE completes the thought."}, {"hunk_id": "H007", "decision": "BASE", "reason": "Mouth-full speech garbles all three words; SOL un-garbles 'Here' without source support."}, {"hunk_id": "H008", "decision": "REPAIR", "replacement": "“I’ll ead!”", "reason": "즈 므그스느드 is 저 먹겠습니다; BASE adds thanks, SOL adds Mm/lots/too."}, {"hunk_id": "H009", "decision": "SOL", "reason": "Keeps the 불공평한 현실 lament on the Peak-master beat; BASE merges in the next sentence's Murim-future worry."}, {"hunk_id": "H010", "decision": "SOL", "reason": "Restores 무림의 앞날을 걱정하던 as the lead-in to Jang Taebo speaking."}, {"hunk_id": "H011", "decision": "BASE", "reason": "'Entire province' and 'whole province' are indistinguishable for 일성."}, {"hunk_id": "H012", "decision": "SOL", "reason": "세탁소 is a neighborhood laundry; 'laundromat' over-specifies a self-service shop."}, {"hunk_id": "H013", "decision": "BASE", "reason": "'Chuckled' is the natural rendering of 피식 웃다; SOL's 'let out a short laugh' is more mechanical."}, {"hunk_id": "H014", "decision": "SOL", "reason": "Preserves the 빛태보 nickname pun; BASE flattens it to 'shining example, this Jang Taebo'."}, {"hunk_id": "H015", "decision": "REPAIR", "replacement": "It wasn’t as if the innkeeper was a modern man who had brought in an electric heater…", "reason": "BASE's subjunctive is stiff; SOL's 'from the modern world' and 'set up' drift from 현대인 and 가져다 뒀을."}, {"hunk_id": "H016", "decision": "SOL", "reason": "'His head' agrees with 'a fellow'; BASE mixes second-person 'your' into that noun phrase."}, {"hunk_id": "H017", "decision": "SOL", "reason": "Glossary proper name Treasured Jade; BASE lowercases the named item."}, {"hunk_id": "H018", "decision": "SOL", "reason": "Repeats Treasured Jade twice and keeps 말이다; BASE reduces the second 보옥 to 'the jade'."}, {"hunk_id": "H019", "decision": "SOL", "reason": "Narrator unpacks 보옥이라면 보물, 보석 from the named term; BASE starts from 'the jade' only."}, {"hunk_id": "H020", "decision": "SOL", "reason": "Keeps the glossary name in the narrator's bewilderment; BASE drops it to 'the jade'."}, {"hunk_id": "H021", "decision": "REPAIR", "replacement": "The reason Jeok Cheongang had returned to the world was probably not only to find his Disciple. He also wanted to recover the treasures of the Fire Gate Clan that had leaked out because of him.", "reason": "유출된 is leaked, not scattered; 그로 인해 is causal, not 'in the aftermath'."}, {"hunk_id": "H022", "decision": "SOL", "reason": "Glossary proper name Treasured Jade; BASE keeps generic 'jade'."}, {"hunk_id": "H023", "decision": "SOL", "reason": "Captures 다름 이도 아니고 and 귀찮음을 감수하고서라도; BASE omits 'of all people'."}, {"hunk_id": "H024", "decision": "SOL", "reason": "Glossary proper name Treasured Jade in the curiosity beat; BASE uses generic 'jade'."}, {"hunk_id": "H025", "decision": "SOL", "reason": "Uses the required ellipsis character; BASE has three ASCII dots."}, {"hunk_id": "H026", "decision": "BASE", "reason": "눈인사 is an eye-greeting glance, not a nod; SOL changes the physical action."}]}
+{
+  "chapter": 179,
+  "decisions": [
+    {
+      "hunk_id": "H001",
+      "decision": "SOL",
+      "reason": "SOL keeps the understood object and preserves the natural conversational voice."
+    },
+    {
+      "hunk_id": "H002",
+      "decision": "BASE",
+      "reason": "SOL changes the source's hollow breath into a sharp inhalation, altering the physical image."
+    },
+    {
+      "hunk_id": "H003",
+      "decision": "SOL",
+      "reason": "SOL keeps the emphasis on the Fire King's identity in a natural spoken form."
+    },
+    {
+      "hunk_id": "H004",
+      "decision": "SOL",
+      "reason": "SOL preserves the family-business pretext and the spoken tone."
+    },
+    {
+      "hunk_id": "H005",
+      "decision": "SOL",
+      "reason": "SOL preserves the underworld-road punchline with more natural timing."
+    },
+    {
+      "hunk_id": "H006",
+      "decision": "SOL",
+      "reason": "SOL keeps the ashen complexion and action while improving the sentence flow."
+    },
+    {
+      "hunk_id": "H007",
+      "decision": "SOL",
+      "reason": "SOL keeps the meaning of lacking a powerful backer in a concise idiom."
+    },
+    {
+      "hunk_id": "H008",
+      "decision": "SOL",
+      "reason": "“Dragging my feet” is a natural equivalent for deliberately delaying departure."
+    },
+    {
+      "hunk_id": "H009",
+      "decision": "SOL",
+      "reason": "SOL preserves the duty and urgency while using natural English narration."
+    },
+    {
+      "hunk_id": "H010",
+      "decision": "SOL",
+      "reason": "SOL preserves that the travel bundle was his entire amount of luggage."
+    },
+    {
+      "hunk_id": "H011",
+      "decision": "SOL",
+      "reason": "SOL keeps the red New Year's decoration and early-morning bustle."
+    },
+    {
+      "hunk_id": "H012",
+      "decision": "SOL",
+      "reason": "SOL keeps the two men standing out from the crowd."
+    },
+    {
+      "hunk_id": "H013",
+      "decision": "SOL",
+      "reason": "SOL keeps the old man's mild scolding without adding an unnecessary rhetorical phrase."
+    },
+    {
+      "hunk_id": "H014",
+      "decision": "SOL",
+      "reason": "SOL preserves the shichen comparison and conversational exaggeration."
+    },
+    {
+      "hunk_id": "H015",
+      "decision": "SOL",
+      "reason": "SOL keeps the incredulous emphasis on one whole shichen."
+    },
+    {
+      "hunk_id": "H016",
+      "decision": "SOL",
+      "reason": "SOL preserves the evidence that they were already drinking heavily unusually early."
+    },
+    {
+      "hunk_id": "H017",
+      "decision": "BASE",
+      "reason": "SOL deletes the explicit Hyuk Mujin attribution, dropping a source fact and the established name."
+    },
+    {
+      "hunk_id": "H018",
+      "decision": "BASE",
+      "reason": "With H017 retained, BASE avoids SOL's duplicated attribution and keeps the dialogue segmentation faithful."
+    },
+    {
+      "hunk_id": "H019",
+      "decision": "SOL",
+      "reason": "“No idea” is a natural, faithful conversational equivalent."
+    },
+    {
+      "hunk_id": "H020",
+      "decision": "SOL",
+      "reason": "SOL preserves both contrasting physiques and the source's exaggerated image."
+    },
+    {
+      "hunk_id": "H021",
+      "decision": "SOL",
+      "reason": "SOL keeps the two masters' growing closeness without unnecessary temporal padding."
+    },
+    {
+      "hunk_id": "H022",
+      "decision": "SOL",
+      "reason": "SOL keeps the chaotic atmosphere and the suggestion of slipping away."
+    },
+    {
+      "hunk_id": "H023",
+      "decision": "SOL",
+      "reason": "The pronoun clearly refers to his skull, and SOL is more concise without changing the threat."
+    },
+    {
+      "hunk_id": "H024",
+      "decision": "SOL",
+      "reason": "“Make a run for it” preserves the joking proposal to flee."
+    },
+    {
+      "hunk_id": "H025",
+      "decision": "SOL",
+      "reason": "SOL keeps the gloomy sigh in natural English."
+    },
+    {
+      "hunk_id": "H026",
+      "decision": "SOL",
+      "reason": "SOL preserves the narrator's wholehearted agreement and the dread of meeting Jeok Cheongang."
+    },
+    {
+      "hunk_id": "H027",
+      "decision": "SOL",
+      "reason": "“Eat up” keeps the warm, casual imperative."
+    },
+    {
+      "hunk_id": "H028",
+      "decision": "SOL",
+      "reason": "SOL preserves the comic exception cleanly."
+    },
+    {
+      "hunk_id": "H029",
+      "decision": "SOL",
+      "reason": "SOL keeps the reluctant slaughterhouse image and strengthens the trudging movement."
+    },
+    {
+      "hunk_id": "H030",
+      "decision": "SOL",
+      "reason": "SOL preserves Cheongpung's ongoing rapid eating and cheerful offering of plates."
+    },
+    {
+      "hunk_id": "H031",
+      "decision": "SOL",
+      "reason": "SOL keeps the contrast between Cheongpung's Peak status and the narrator's despair."
+    },
+    {
+      "hunk_id": "H032",
+      "decision": "SOL",
+      "reason": "“Spoke up” is a natural equivalent for initiating the conversation."
+    },
+    {
+      "hunk_id": "H033",
+      "decision": "SOL",
+      "reason": "The Korean plural does not require exactly two addressees, so “all” preserves the ambiguity."
+    },
+    {
+      "hunk_id": "H034",
+      "decision": "SOL",
+      "reason": "SOL keeps the plan to return to the family and handle business."
+    },
+    {
+      "hunk_id": "H035",
+      "decision": "SOL",
+      "reason": "“Throughout Shanxi Province” naturally preserves the province-wide scope."
+    },
+    {
+      "hunk_id": "H036",
+      "decision": "BASE",
+      "reason": "SOL drops the source's separate emphasis on both public interest and expectations."
+    },
+    {
+      "hunk_id": "H037",
+      "decision": "SOL",
+      "reason": "SOL keeps Jang Taebo's homebody status and small-village setting naturally."
+    },
+    {
+      "hunk_id": "H038",
+      "decision": "SOL",
+      "reason": "SOL preserves the ordinary people's lack of Murim ties and their interest in the spectacle."
+    },
+    {
+      "hunk_id": "H039",
+      "decision": "SOL",
+      "reason": "SOL keeps the speaker's doubtful question about the crowd size."
+    },
+    {
+      "hunk_id": "H040",
+      "decision": "SOL",
+      "reason": "SOL preserves the warning about hangers-on and the province-wide hegemonic event."
+    },
+    {
+      "hunk_id": "H041",
+      "decision": "SOL",
+      "reason": "The following quotation itself supplies the added remark, so SOL keeps the sense without redundancy."
+    },
+    {
+      "hunk_id": "H042",
+      "decision": "SOL",
+      "reason": "SOL uses the source's deliberate fragment and lets the next line carry the recollection."
+    },
+    {
+      "hunk_id": "H043",
+      "decision": "SOL",
+      "reason": "SOL preserves that hearing the commission revived a question left unasked."
+    },
+    {
+      "hunk_id": "H044",
+      "decision": "SOL",
+      "reason": "“There must be something” is a natural equivalent for asking about possible needs."
+    },
+    {
+      "hunk_id": "H045",
+      "decision": "BASE",
+      "reason": "SOL removes the source's hedge and turns “I don't think” into the stronger “there was no way.”"
+    },
+    {
+      "hunk_id": "H046",
+      "decision": "SOL",
+      "reason": "SOL keeps the idea that his work warrants a proper price."
+    },
+    {
+      "hunk_id": "H047",
+      "decision": "SOL",
+      "reason": "“Compensate me” naturally conveys the proposed recompense."
+    },
+    {
+      "hunk_id": "H048",
+      "decision": "BASE",
+      "reason": "SOL adds a probabilistic hedge; the source directly says he cannot provide as much."
+    },
+    {
+      "hunk_id": "H049",
+      "decision": "BASE",
+      "reason": "BASE preserves the binding Fame rendering and the specific special-discount comparison."
+    },
+    {
+      "hunk_id": "H050",
+      "decision": "SOL",
+      "reason": "SOL keeps the idiomatic image of dismantling the family's foundations."
+    },
+    {
+      "hunk_id": "H051",
+      "decision": "SOL",
+      "reason": "The italic emphasis does not change the established “silver nyang” rendering and improves the clarification's timing."
+    },
+    {
+      "hunk_id": "H052",
+      "decision": "BASE",
+      "reason": "The source refers to the artisan's personal worth, not specifically to the price of his services."
+    },
+    {
+      "hunk_id": "H053",
+      "decision": "SOL",
+      "reason": "SOL keeps the shocked million-nyang calculation in natural dialogue."
+    },
+    {
+      "hunk_id": "H054",
+      "decision": "SOL",
+      "reason": "SOL preserves the dismissal of the cost beside the value of the divine weapon."
+    },
+    {
+      "hunk_id": "H055",
+      "decision": "SOL",
+      "reason": "“Of course it mattered” keeps the narrator's emphatic rebuttal."
+    },
+    {
+      "hunk_id": "H056",
+      "decision": "SOL",
+      "reason": "SOL naturally supplies the implied modern currency while preserving the scale comparison."
+    },
+    {
+      "hunk_id": "H057",
+      "decision": "SOL",
+      "reason": "“Let out a quiet laugh” preserves the restrained reaction."
+    },
+    {
+      "hunk_id": "H058",
+      "decision": "SOL",
+      "reason": "SOL keeps the narrator's cheeky attempt to negotiate a quick deal."
+    },
+    {
+      "hunk_id": "H059",
+      "decision": "SOL",
+      "reason": "SOL preserves both the impracticality of the money and the opportunity's sufficiency."
+    },
+    {
+      "hunk_id": "H060",
+      "decision": "SOL",
+      "reason": "SOL keeps the narrator's admiring question about true artisan spirit."
+    },
+    {
+      "hunk_id": "H061",
+      "decision": "BASE",
+      "reason": "SOL drops Jang Taebo's established name and replaces the source's name-based pun with an unsupported Tae Bo joke."
+    },
+    {
+      "hunk_id": "H062",
+      "decision": "SOL",
+      "reason": "SOL preserves the narrator's emotion and Hyuk Mujin's admiring interruption."
+    },
+    {
+      "hunk_id": "H063",
+      "decision": "BASE",
+      "reason": "BASE preserves 일단's “for now” and the sequence of taking the money before handing it over."
+    },
+    {
+      "hunk_id": "H064",
+      "decision": "SOL",
+      "reason": "SOL is identical in meaning and keeps the joke's timing."
+    },
+    {
+      "hunk_id": "H065",
+      "decision": "SOL",
+      "reason": "SOL keeps the promised world-shaking creation and the qualifications needed to wield it."
+    },
+    {
+      "hunk_id": "H066",
+      "decision": "SOL",
+      "reason": "SOL preserves the reluctant decision to trust him in natural dialogue."
+    },
+    {
+      "hunk_id": "H067",
+      "decision": "SOL",
+      "reason": "“Paused” naturally conveys his brief hesitation."
+    },
+    {
+      "hunk_id": "H068",
+      "decision": "SOL",
+      "reason": "The omitted conjunction does not affect the request and makes the dialogue smoother."
+    },
+    {
+      "hunk_id": "H069",
+      "decision": "BASE",
+      "reason": "SOL changes rebuilding his house into building a different house."
+    },
+    {
+      "hunk_id": "H070",
+      "decision": "SOL",
+      "reason": "The pronoun has an unambiguous Jang Taebo antecedent and avoids unnecessary repetition."
+    },
+    {
+      "hunk_id": "H071",
+      "decision": "SOL",
+      "reason": "SOL restores the source's explicit reaction to Jang Taebo's sorrowful voice."
+    },
+    {
+      "hunk_id": "H072",
+      "decision": "SOL",
+      "reason": "SOL preserves Jeok Cheongang's wine-drinking and upward glance while avoiding repeated gaze description."
+    },
+    {
+      "hunk_id": "H073",
+      "decision": "SOL",
+      "reason": "“What are you staring at?” keeps the confrontational tone."
+    },
+    {
+      "hunk_id": "H074",
+      "decision": "SOL",
+      "reason": "“Solemn” naturally conveys the serious emotional mood from the previous night."
+    },
+    {
+      "hunk_id": "H075",
+      "decision": "SOL",
+      "reason": "“Isn't so petty” preserves the old man's dismissive reassurance."
+    },
+    {
+      "hunk_id": "H076",
+      "decision": "BASE",
+      "reason": "BASE preserves the source's emphatic “really” in the narrator's cautious question."
+    },
+    {
+      "hunk_id": "H077",
+      "decision": "SOL",
+      "reason": "“Go ahead” is a natural equivalent for granting permission to speak."
+    },
+    {
+      "hunk_id": "H078",
+      "decision": "BASE",
+      "reason": "“Space beneath the table” preserves the source's physical area; SOL shifts the heated subject to the air."
+    },
+    {
+      "hunk_id": "H079",
+      "decision": "BASE",
+      "reason": "BASE preserves the subjunctive impossibility and the source action of bringing and setting down the heater."
+    },
+    {
+      "hunk_id": "H080",
+      "decision": "SOL",
+      "reason": "SOL preserves the tears and their timing relative to the answer."
+    },
+    {
+      "hunk_id": "H081",
+      "decision": "BASE",
+      "reason": "SOL drops the explicit comparison with his usual appearance, which is important to the joke."
+    },
+    {
+      "hunk_id": "H082",
+      "decision": "SOL",
+      "reason": "“What?” naturally conveys the startled request for clarification."
+    },
+    {
+      "hunk_id": "H083",
+      "decision": "SOL",
+      "reason": "SOL keeps the narrator's quick arithmetic realization."
+    },
+    {
+      "hunk_id": "H084",
+      "decision": "SOL",
+      "reason": "“Revised my answer” naturally conveys the hasty change."
+    },
+    {
+      "hunk_id": "H085",
+      "decision": "SOL",
+      "reason": "SOL preserves the three-second timing and the resulting satisfaction."
+    },
+    {
+      "hunk_id": "H086",
+      "decision": "BASE",
+      "reason": "SOL adds a frequency claim, while BASE keeps the source's single plausible thought."
+    },
+    {
+      "hunk_id": "H087",
+      "decision": "SOL",
+      "reason": "“Clamped his mouth shut” preserves the deliberate silence in a vivid idiom."
+    },
+    {
+      "hunk_id": "H088",
+      "decision": "BASE",
+      "reason": "SOL drops the source's immediacy and the specific place he wants to leave."
+    },
+    {
+      "hunk_id": "H089",
+      "decision": "SOL",
+      "reason": "SOL keeps the final task that must be settled before they can leave."
+    },
+    {
+      "hunk_id": "H090",
+      "decision": "SOL",
+      "reason": "“Respectful tone” is a natural equivalent for the deliberately polite speech."
+    },
+    {
+      "hunk_id": "H091",
+      "decision": "BASE",
+      "reason": "“Several” preserves the source's quantity more accurately than “a few.”"
+    },
+    {
+      "hunk_id": "H092",
+      "decision": "SOL",
+      "reason": "SOL keeps the flushed face, wine cup, and quiet laugh in natural syntax."
+    },
+    {
+      "hunk_id": "H093",
+      "decision": "SOL",
+      "reason": "SOL preserves the suspicious question about whether he intended to return the items."
+    },
+    {
+      "hunk_id": "H094",
+      "decision": "BASE",
+      "reason": "BASE preserves the explicit assertion that he did intend to return them."
+    },
+    {
+      "hunk_id": "H095",
+      "decision": "BASE",
+      "reason": "BASE keeps Jeok Cheongang's acknowledgment before his direct threat."
+    },
+    {
+      "hunk_id": "H096",
+      "decision": "BASE",
+      "reason": "SOL drops the source's ghost-like image and changes a general ability to seeing only through the narrator."
+    },
+    {
+      "hunk_id": "H097",
+      "decision": "BASE",
+      "reason": "BASE preserves that the items had already been taken out beforehand."
+    },
+    {
+      "hunk_id": "H098",
+      "decision": "SOL",
+      "reason": "SOL preserves both named items and the Ten-Thousand-Year Cold Iron material."
+    },
+    {
+      "hunk_id": "H099",
+      "decision": "SOL",
+      "reason": "SOL uses the established Great Hero title naturally in direct address."
+    },
+    {
+      "hunk_id": "H100",
+      "decision": "SOL",
+      "reason": "“Gobbled it up” preserves the crude, dismissive eating verb and the comic tone."
+    },
+    {
+      "hunk_id": "H101",
+      "decision": "SOL",
+      "reason": "The finger's owner is clear, and SOL keeps the dry, deliberate gesture."
+    },
+    {
+      "hunk_id": "H102",
+      "decision": "SOL",
+      "reason": "SOL uses the binding Treasured Jade rendering."
+    },
+    {
+      "hunk_id": "H103",
+      "decision": "BASE",
+      "reason": "BASE preserves the source's deliberate terse repetition rather than adding a second question."
+    },
+    {
+      "hunk_id": "H104",
+      "decision": "SOL",
+      "reason": "SOL naturally preserves the narrator's uncertainty about whether it is treasure or a gemstone."
+    },
+    {
+      "hunk_id": "H105",
+      "decision": "SOL",
+      "reason": "SOL keeps the contrast between ordinary jewelry and an obviously important object."
+    },
+    {
+      "hunk_id": "H106",
+      "decision": "SOL",
+      "reason": "The omitted noun remains clear from context, and SOL keeps the bewildered reaction."
+    },
+    {
+      "hunk_id": "H107",
+      "decision": "SOL",
+      "reason": "SOL preserves the question about whether he collected the items himself."
+    },
+    {
+      "hunk_id": "H108",
+      "decision": "SOL",
+      "reason": "SOL keeps the passive handoff immediately after waking."
+    },
+    {
+      "hunk_id": "H109",
+      "decision": "SOL",
+      "reason": "“People involved” naturally conveys the possible suspects in context."
+    },
+    {
+      "hunk_id": "H110",
+      "decision": "SOL",
+      "reason": "SOL preserves both named recipients and the accusation that they would not pocket anything."
+    },
+    {
+      "hunk_id": "H111",
+      "decision": "SOL",
+      "reason": "SOL keeps the reconnaissance squad's trust and the narrator's uncertainty."
+    },
+    {
+      "hunk_id": "H112",
+      "decision": "SOL",
+      "reason": "“Studied me” preserves the deliberate scrutiny in a natural phrase."
+    },
+    {
+      "hunk_id": "H113",
+      "decision": "SOL",
+      "reason": "The added transition is natural and does not change the two possible explanations."
+    },
+    {
+      "hunk_id": "H114",
+      "decision": "SOL",
+      "reason": "SOL preserves both nuisance and trouble while improving the spoken rhythm."
+    },
+    {
+      "hunk_id": "H115",
+      "decision": "SOL",
+      "reason": "SOL keeps both motives for Jeok Cheongang's return and the Fire Gate Clan treasures."
+    },
+    {
+      "hunk_id": "H116",
+      "decision": "SOL",
+      "reason": "SOL restores the binding Treasured Jade name."
+    },
+    {
+      "hunk_id": "H117",
+      "decision": "BASE",
+      "reason": "SOL weakens the source's insistence that the Fire King must search for the treasure at all costs."
+    },
+    {
+      "hunk_id": "H118",
+      "decision": "BASE",
+      "reason": "SOL drops Jeok Cheongang as the speaker of the following line, creating an attribution loss."
+    },
+    {
+      "hunk_id": "H119",
+      "decision": "SOL",
+      "reason": "The following exchange makes the plural referent clear, and SOL preserves the intended item-keeping instruction."
+    },
+    {
+      "hunk_id": "H120",
+      "decision": "SOL",
+      "reason": "SOL preserves the abrupt halt in the narrator's thoughts."
+    },
+    {
+      "hunk_id": "H121",
+      "decision": "SOL",
+      "reason": "SOL naturalizes the narrator's realization before the clarifying question."
+    },
+    {
+      "hunk_id": "H122",
+      "decision": "SOL",
+      "reason": "“All three” answers the immediately preceding “both” while preserving the sect-reclamation threat."
+    },
+    {
+      "hunk_id": "H123",
+      "decision": "SOL",
+      "reason": "SOL uses the required ellipsis character without changing the reaction."
+    },
+    {
+      "hunk_id": "H124",
+      "decision": "SOL",
+      "reason": "“Still young” keeps the teasing contrast with his already-small nerve."
+    },
+    {
+      "hunk_id": "H125",
+      "decision": "SOL",
+      "reason": "SOL preserves the dismissive bean-versus-cannonball comparison with sharper comic timing."
+    },
+    {
+      "hunk_id": "H126",
+      "decision": "SOL",
+      "reason": "SOL keeps the narrator's absolute refusal to remain entangled with the old man."
+    },
+    {
+      "hunk_id": "H127",
+      "decision": "BASE",
+      "reason": "SOL deletes the source action of opening his mouth after taking the deep breath."
+    },
+    {
+      "hunk_id": "H128",
+      "decision": "BASE",
+      "reason": "BASE preserves the source's physical space beneath the table rather than changing it to the air."
+    },
+    {
+      "hunk_id": "H129",
+      "decision": "BASE",
+      "reason": "BASE preserves the specific items being returned instead of broadening them to “everything.”"
+    },
+    {
+      "hunk_id": "H130",
+      "decision": "SOL",
+      "reason": "SOL relocates the source's emotional lead-in into H131 without dropping the cue."
+    },
+    {
+      "hunk_id": "H131",
+      "decision": "SOL",
+      "reason": "SOL combines the emotional setup and question naturally while preserving the indignation."
+    },
+    {
+      "hunk_id": "H132",
+      "decision": "BASE",
+      "reason": "SOL adds “junk,” changing the old man's description of the objects into an unsupported insult."
+    },
+    {
+      "hunk_id": "H133",
+      "decision": "SOL",
+      "reason": "“Takes them from me” naturally covers the source's possibility of having them seized."
+    },
+    {
+      "hunk_id": "H134",
+      "decision": "SOL",
+      "reason": "SOL preserves the threat of being killed by Jeok Cheongang's hand."
+    },
+    {
+      "hunk_id": "H135",
+      "decision": "SOL",
+      "reason": "SOL keeps the Fire King's departure while preserving the narrator's dazed state."
+    },
+    {
+      "hunk_id": "H136",
+      "decision": "SOL",
+      "reason": "“Cramming” preserves Cheongpung's frantic eating and comic characterization."
+    },
+    {
+      "hunk_id": "H137",
+      "decision": "SOL",
+      "reason": "SOL keeps both the comparison with his grandfather and the command to slow down."
+    },
+    {
+      "hunk_id": "H138",
+      "decision": "BASE",
+      "reason": "BASE preserves the source's meaningful, loaded remark; “ominous” narrows it into an unsupported threat."
+    }
+  ]
+}

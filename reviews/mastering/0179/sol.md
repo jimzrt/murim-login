@@ -2,23 +2,23 @@
 
 It really was New Year’s Day.
 
-It had only been two days since Wipeng had given me strict instructions before I left the Jin Family of Taiyuan, yet I had completely forgotten about them.
+It had only been two days since Wipeng had given me strict instructions before I left the Jin Family of Taiyuan, yet I had completely forgotten.
 
-Hyuk Mujin swallowed a hollow breath and spoke.
+Hyuk Mujin sucked in a sharp breath.
 
 “W-What do we do?”
 
 “What do you mean, what do we do? Even if we’d remembered, we wouldn’t have made it back in time.”
 
-And it wasn’t just anyone. It was the Fire King.
+This was the Fire King we were talking about.
 
-Considering the atmosphere yesterday, if I’d told him I had family business to attend to and needed to leave, he would have sent me off with a hearty laugh.
+Considering the mood yesterday, if I’d told him I had family business and needed to leave, he would have sent me off with a hearty laugh.
 
-Of course, he wouldn’t have sent me home. He’d have sent me down the road to the underworld.
+Straight down the road to the underworld, of course.
 
 “Great Hero Wipeng is going to kill me.”
 
-I patted Hyuk Mujin’s shoulder as his complexion turned ashen.
+I patted the ashen-faced Hyuk Mujin on the shoulder.
 
 “Don’t worry. He can’t kill me.”
 
@@ -26,39 +26,37 @@ I patted Hyuk Mujin’s shoulder as his complexion turned ashen.
 
 “…”
 
-This was the sorrow of having no one powerful backing you.
+Such was the sorrow of having no powerful backer.
 
-Still, I had no intention of deliberately delaying our departure.
+Still, I had no intention of deliberately dragging my feet.
 
-It was the day the Jin Family of Taiyuan would rise as the ruler of Shanxi Province. How could the family’s youngest show up late?
+Today was the day the Jin Family of Taiyuan would rise as the undisputed ruler of Shanxi Province. The youngest son of the family couldn’t afford to be late.
 
 “Pack your things. We’re leaving right now.”
 
-Not that I had much to pack. One travel bundle, and that was it.
+Not that I had much to pack. One travel bundle was everything I owned.
 
-We finished preparing in an instant and went down to the first floor. The inn had been decorated entirely in red to celebrate New Year’s Day, and despite the early hour, it was bustling with people.
+We were ready in no time and headed downstairs. The inn had been decked out in red for New Year’s Day, and despite the early hour, it was bustling with people.
 
-Among them, two men stood out in particular.
+Two men stood out among the crowd.
 
 “Oh, you’re up?”
 
-“Tsk, tsk. What’s the world coming to when young fellows sleep this much?”
+“Tsk, tsk. Young fellows shouldn’t sleep so much.”
 
-“That’s what I’m saying. When I was young, there were countless days when I couldn’t sleep for even one shichen.”
+“Exactly. When I was young, there were plenty of days when I couldn’t even get one shichen of sleep.”
 
-“Only one shichen? Back in my day…”
+“One whole shichen? Why, back in my day…”
 
 The two old men raised their hands in greeting, then went right back to passing wine cups between themselves.
 
-Their flushed faces and the wine jar beside them were proof that they had already been drinking heavily this early in the day.
+Their flushed faces and the wine jar beside them showed they had already been drinking heavily this early in the day.
 
-Hyuk Mujin, following behind me, whispered in a small voice,
+Hyuk Mujin followed me downstairs and whispered, “What kind of combination is that?”
 
-“What kind of combination is that?”
+“No idea.”
 
-“I don’t know either.”
-
-One was a huge old man whose body was larger than that of most grown men. The other had such a small, frail frame that a breath might have blown him away.
+One was a giant of an old man, larger than most strapping young men. The other was so small and frail that a stiff breeze might have carried him away.
 
 The Fire King was one thing.
 
@@ -66,183 +64,185 @@ The Fire King was one thing.
 
 Had he come because of the commission?
 
-In any case, the two old men—each a master in his own field—looked as though they had become quite close at some point.
+In any case, the two old men—each a master in his own field—seemed to have grown quite close.
 
-“The atmosphere’s kind of chaotic. Can’t we just slip out?”
+“It’s pretty chaotic in here. Can’t we just slip out?”
 
 “Slip out, my ass. Don’t you remember getting knocked unconscious with a duck bone yesterday?”
 
 “That was a duck bone? Damn, no wonder my skull was ringing.”
 
-“If we pretend nothing happened and leave, he’ll crack your skull open.”
+“If we pretend nothing happened and leave, he’ll crack it open.”
 
-“That’s a bit…”
+“I’d rather avoid that.”
 
-“What do you say? Want to run?”
+“So? Want to make a run for it?”
 
-Hyuk Mujin let out a gloomy sigh.
+Hyuk Mujin sighed gloomily.
 
 “Phew. What a rotten way to start the new year.”
 
-I agreed wholeheartedly. There wasn’t a single person in the world who wanted to meet Fire King Jeok Cheongang first thing on New Year’s Day.
+I couldn’t have agreed more. No one in the world would want to run into Fire King Jeok Cheongang first thing on New Year’s Day.
 
 “Grandpas, do you have any dumplings?”
 
-“There’s plenty of meat, too. Eat.”
+“There’s plenty of meat, too. Eat up.”
 
 “Yaaay!”
 
-…Except for that guy.
+…Except that guy.
 
-Hyuk Mujin and I walked forward with heavy hearts, like oxen being dragged to the slaughterhouse.
+Hyuk Mujin and I trudged forward with heavy hearts, like oxen being led to the slaughterhouse.
 
-Cheongpung, who had been shoveling food into his mouth at the speed of light, beamed as he held out several plates.
+Cheongpung, who was shoveling food into his mouth at the speed of light, beamed and held out several plates.
 
-“Here! It’s delishush! Try shome!”
+“Hewe! It’s delishush! Try shome!”
 
 “…You eat plenty.”
 
-“Mm—I’ll eat lotsh too!”
+“Thanksh, I will!”
 
-The fact that a guy like him was a Peak master—I couldn’t help but lament how unfair reality was.
+Someone like him was a Peak master. The sheer unfairness of reality filled me with despair for the future of the Murim.
 
-As I fretted over the future of the Murim, Jang Taebo spoke to me.
+Jang Taebo spoke up.
 
-“So, what are you two planning to do now?”
+“So, what are you all planning to do now?”
 
-“We’re thinking of returning to our family first. We have some business to take care of.”
+“We’re going back to our family first. We have some business to take care of.”
 
 “Ah, I see. You said there was going to be a gathering at the Jin Family of Taiyuan?”
 
-At present, every move the Jin Family of Taiyuan made within Shanxi Province was a hot topic.
+At present, every move the Jin Family of Taiyuan made was a hot topic throughout Shanxi Province.
 
-The Jin Family of Taiyuan, once treated as an old tiger past its prime, had reclaimed the throne of Shanxi Murim after many years. It was only natural that the interest and expectations surrounding them were extraordinary.
+After many long years, the Jin Family of Taiyuan—once dismissed as an old tiger past its prime—had reclaimed the throne of the Shanxi Murim. No wonder expectations were running so high.
 
-Even Jang Taebo, who spent his days living as a homebody in a small village like Jang Family Village, had heard about it.
+Even Jang Taebo, a homebody living in a tiny place like Jang Family Village, had heard about it.
 
-“Whenever people gather these days, that’s all they talk about. Even ordinary people with no connection to the Murim are flocking there just to see the spectacle. That tells you everything.”
+“That’s all anyone talks about whenever people gather these days. Even ordinary people with nothing to do with the Murim are flocking there for the spectacle. That tells you everything.”
 
-“Surely that many people won’t come.”
+“Will that many people really come?”
 
-“A grand feast always attracts all sorts of riffraff. Shanxi Province may be a frontier region, but this is the seat where one becomes the hegemon of a whole province. I may not be a martial artist, but I have enough worldly experience to know. Just wait and see. Ah, and…”
+“A grand feast always draws all sorts of hangers-on. Shanxi Province may be a frontier region, but this is about becoming the hegemon of an entire province. I may not be a martial artist, but I’ve seen and heard enough in my time. Just wait and see. Ah, and…”
 
-Jang Taebo lowered his voice and added,
+Jang Taebo lowered his voice.
 
 “Don’t worry about the commission.”
 
-The commission. Hearing that word reminded me of something.
+The commission.
 
-It was something I hadn’t had the time to ask about back then.
+His words suddenly reminded me of something I hadn’t had the chance to ask before.
 
 “By the way, is there anything else you need?”
 
 “What do you mean?”
 
-“Anything at all.”
+“Well, there must be something.”
 
-Even the neighborhood laundry charged a fee for repairs. Jang Taebo was a master artisan renowned throughout the world. He might not have been as skilled as he was in his prime, but I didn’t believe his abilities had vanished over the past ten years.
+Even the neighborhood laundromat charged for repairs. Jang Taebo was a master artisan renowned throughout the world. He might not be as skilled as he had been in his prime, but there was no way ten years had made all that ability vanish.
 
-There had to be a proper price for his work…
+His work had to command an appropriate price…
 
 Realizing what I meant, Jang Taebo stroked his white beard.
 
-“You mean you want to pay me? Something like that?”
+“You mean you want to compensate me?”
 
-“To be honest, I can’t give you as much as you might be expecting.”
+“To be honest, I probably can’t give you as much as you’re expecting.”
 
 “Then just give me ten thousand nyang.”
 
-Ten thousand nyang was a hundred silver nyang. It was certainly an enormous sum, but considering his fame, it felt like nothing more than a special discount.
+Ten thousand nyang was a hundred silver nyang. It was certainly an enormous sum, but considering his reputation, it felt like a bargain.
 
 I nodded readily. It wasn’t my money, anyway.
 
 “I’ll prepare it and send it to your home.”
 
-“Ten thousand silver nyang? You’d have to pull up every last pillar of the Jin Family of Taiyuan.”
+“Ten thousand silver nyang? You’d have to tear out every last pillar holding up the Jin Family of Taiyuan.”
 
-“…Ten thousand silver nyang?”
+“…Ten thousand *silver* nyang?”
 
-“Of course. Did my worth look that cheap to you?”
+“Of course. Did you think my services were that cheap?”
 
-“Then that’s a whopping million nyang.”
+“That’s a whopping million nyang.”
 
-“Not a whopping million nyang. A mere million nyang. You can obtain the greatest divine weapon under heaven with that much. Is a little money really so important?”
+“Not a whopping million. A mere million. You’ll be getting the greatest divine weapon under heaven. What does a little money matter?”
 
 “…”
 
-Of course it was.
+Of course it mattered.
 
-How much would a million nyang be worth in the real world? Hundreds of billions? Or would it be in the trillions?
+How much would a million nyang be worth in the real world? Hundreds of billions of won? Trillions?
 
-Jang Taebo let out a short laugh when he saw my expression.
+Jang Taebo let out a quiet laugh at my expression.
 
 “I don’t need it.”
 
-“I’m sorry, but could we make a quick deal for ten thousand nyang—pardon?”
+“I’m sorry, but would you consider a quick deal for ten thousand nyang—pardon?”
 
-“I said I don’t need it. What would I do with the money? I wouldn’t be able to spend it all before I died. The fact that I was given an opportunity like this while I’m still alive is enough.”
+“I said I don’t need it. What would I do with that much money? I couldn’t spend it all before I died. Having an opportunity like this come my way while I’m still alive is payment enough.”
 
-Was this what a true artisan’s spirit looked like?
+Was this the spirit of a true artisan?
 
-Truly a shining Taebo. Every blacksmith under heaven should follow his example and Taebo accordingly.
+Glorious Taebo. Every blacksmith under heaven should follow his example—and take up Tae Bo.
 
-Just as I was trembling with emotion, Hyuk Mujin cut in with an admiring expression.
+As I trembled with emotion, Hyuk Mujin cut in with an admiring look.
 
-“Then why don’t you take the ten thousand nyang for now and give it to me?”
+“Then could you take the ten thousand nyang and give it to me?”
 
-That bastard could probably write an autobiography. He could call it *A Hundred Ways to Get Yourself Beaten to Death*.
+That bastard could write an autobiography. He could call it *A Hundred Ways to Get Yourself Beaten to Death*.
 
 I smacked him on the back of the head, then bowed politely to Jang Taebo.
 
 “Then I’ll leave it in your hands.”
 
-“I’m the one who should be asking a favor. I can’t promise how long it will take, but I’ll definitely produce something that will make the world tremble. So until then, make sure you acquire the strength and qualifications worthy of it.”
+“I’m the one who should be asking a favor. I can’t promise how long it will take, but I’ll create something that will make the world tremble. Until then, make sure you acquire the strength and qualifications worthy of wielding it.”
 
 “I’ll do my best.”
 
-“Good. Then that settles it. I have no choice but to trust you.”
+“Good. Then that settles it. I’ll have to place my trust in you.”
 
-Jang Taebo nodded, then suddenly stopped.
+Jang Taebo nodded, then paused.
 
-“Ah. And could I ask one more favor?”
+“Ah. Could I ask one more favor?”
 
 “…?”
 
-“Build my house again. It all burned down, and I don’t even have anywhere to sleep.”
+“Build me another house. The old one burned to the ground, and now I don’t even have anywhere to sleep.”
 
-The house Jang Taebo had purchased after retiring—a precious space where he had enjoyed a peaceful old age—had vanished overnight.
+The home he had bought after retiring—the precious place where he had spent his golden years in peace—had vanished overnight.
 
-At his sorrowful voice, my eyes instinctively shifted to the side. Jeok Cheongang, who had been quietly tipping back his wine cup while we talked, raised his eyes.
+At the sorrow in Jang Taebo’s voice, my gaze drifted to the side of its own accord.
 
-“What are you looking at?”
+Jeok Cheongang, who had been quietly sipping his wine while we talked, looked up.
 
-The emotional, serious Jeok Cheongang from last night was nowhere to be seen. I subtly averted my gaze.
+“What are you staring at?”
+
+There was no trace of the emotional, solemn Jeok Cheongang from last night. I subtly averted my gaze.
 
 “…Nothing.”
 
-“If you have something to say, say it. This old man isn’t that petty.”
+“If you have something to say, say it. This old man isn’t so petty.”
 
-“Are you really sure?”
+“Are you sure?”
 
-“Go on.”
+“Go ahead.”
 
-The moment he finished speaking, the space beneath the table began to heat up.
+The moment he finished speaking, the air beneath the table began to heat up.
 
-It wasn’t as if the innkeeper was from the modern world and had set up an electric heater…
+It wasn’t as though the innkeeper was a modern man who had installed an electric heater…
 
 *Fuck. Flame Divine Palm.*
 
-I answered with tears in my eyes.
+Tears welled in my eyes as I answered.
 
-“I was just thinking that you looked a good ten years younger than usual today.”
+“I was just thinking that you looked a good ten years younger today.”
 
 Jeok Cheongang frowned.
 
-“What did you say? Ten years?”
+“What? Ten years?”
 
-Damn it. If you took ten years off a hundred, he was still ninety.
+Damn it. Subtracting ten from a hundred still left ninety.
 
-I hurriedly changed my answer.
+I hurriedly revised my answer.
 
 “Twenty years…”
 
@@ -250,101 +250,101 @@ I hurriedly changed my answer.
 
 “Thirty years…”
 
-In barely three seconds, Jeok Cheongang had grown thirty years younger. He nodded in satisfaction.
+In the space of barely three seconds, Jeok Cheongang had grown thirty years younger. He nodded in satisfaction.
 
-“I thought you were a fellow with nothing but shit in his head, but you do have some fairly plausible thoughts after all.”
+“I thought your head was filled with nothing but shit, but it seems even you have a sensible thought now and then.”
 
 “…”
 
-Hyuk Mujin looked as though he had something to say, but he firmly kept his mouth shut.
+Hyuk Mujin looked like he had something to say, but he clamped his mouth shut.
 
 Apparently, he had no desire to make *A Hundred Ways to Get Yourself Beaten to Death* his final work.
 
-Instead, he kept poking me in the side, looking desperate to leave this place immediately.
+Instead, he kept poking me in the side, plainly desperate to leave.
 
 *Of course, I feel the same way.*
 
-But first, there was one thing I needed to finish.
+But before we could go, there was one last thing I needed to settle.
 
-I opened my mouth in the most polite tone I could manage.
+I spoke in the most respectful tone I could manage.
 
-“I have several items in my possession.”
+“I have a few items in my possession.”
 
-Jeok Cheongang, who had been tilting his wine cup with his flushed face, gave a quiet laugh.
+Jeok Cheongang, his face flushed as he tipped back his wine cup, let out a quiet laugh.
 
-“Did you ever intend to return them?”
+“Were you ever planning to return them?”
 
-“Of course I did.”
+“Of course.”
 
-“That’s right. If you don’t return them, you’ll see something ugly.”
+“You should. If you don’t, things will get ugly.”
 
 “…”
 
-The old man could see straight through people’s hearts like a ghost.
+The old man could see right through me.
 
-I forced a smile and placed the items I had already taken out on the table.
+I forced a smile and placed the items I had prepared on the table.
 
-The Flame Divine Palm martial arts manual I had obtained from Jopil. And the Unnamed Sword made of Ten-Thousand-Year Cold Iron.
+The Flame Divine Palm martial arts manual I had obtained from Jopil, and the Unnamed Sword made from Ten-Thousand-Year Cold Iron.
 
-“Although you already know this, Sir Jeok, the Blazing Flame Divine Pill…”
+“As you already know, Great Hero Jeok, the Blazing Flame Divine Pill…”
 
-“You swallowed the damn thing.”
+“You gobbled it up.”
 
 “Yes. That’s right.”
 
 “But…”
 
-His wrinkled finger tapped against the table. Jeok Cheongang’s dry voice continued.
+A wrinkled finger tapped against the table. Jeok Cheongang continued in a dry voice.
 
 “Where is the Treasured Jade?”
 
 “Pardon?”
 
-“The Treasured Jade, I said. The Treasured Jade.”
+“The Treasured Jade. Where is it?”
 
-The Treasured Jade? As in a treasure, a gemstone—something like that?
+Treasured jade? As in some sort of treasure or gemstone?
 
-Jeok Cheongang didn’t seem like the type to fixate on ordinary jewels, so it was clearly something extremely important.
+Jeok Cheongang didn’t seem like the type to obsess over ordinary jewelry, so it had to be extremely important.
 
-But since I had never even known the Treasured Jade existed, I could only stare at him in bewilderment.
+But since I hadn’t even known it existed, I could only stare at him in bewilderment.
 
 “These are the only things I received.”
 
-“Received? You mean you didn’t collect them yourself?”
+“Received? You didn’t collect them yourself?”
 
-“No. There were circumstances. I was handed them right after I woke up.”
+“No. There were circumstances. They were handed to me right after I woke up.”
 
-“Is there anyone among them you suspect?”
+“Do you suspect any of the people involved?”
 
-The people who had handed Jopil’s belongings over to me were Gong Yacheong and Socheon. Neither of them was the sort to quietly pocket something behind everyone else’s back.
+Gong Yacheong and Socheon had handed Jopil’s belongings over to me. Neither of them was the sort to quietly pocket something behind everyone else’s back.
 
-The members of the reconnaissance squad who had been there were the same. I didn’t know what had happened, but my trust in them remained unchanged.
+The same went for the members of the reconnaissance squad who had been there. I didn’t know what had happened, but that didn’t change my trust in them.
 
 “They wouldn’t have. No, absolutely not.”
 
-Jeok Cheongang stared at me for a moment before speaking.
+Jeok Cheongang studied me for a moment before speaking.
 
-“It must be one of two things. Someone deceived you, or that child lost it.”
+“Then it must be one of two things. Someone deceived you, or that child lost it.”
 
 “…”
 
-“This has become troublesome. What a nuisance.”
+“What a nuisance. This has become troublesome.”
 
-The reason Jeok Cheongang had returned to the world was probably not only to find his Disciple. He also wanted to recover the treasures of the Fire Gate Clan that had leaked out in the aftermath.
+Jeok Cheongang had likely returned to the world not only to find his Disciple, but also to recover the Fire Gate Clan’s treasures that had been scattered because of him.
 
-The Treasured Jade he spoke of seemed to be one of them.
+The Treasured Jade seemed to be one of them.
 
-It was a treasure that even the Fire King—of all people—had to find at all costs, nuisance or not.
+A treasure so important that even the Fire King was willing to go through the trouble of searching for it.
 
 *Damn it. I never even got to see it.*
 
-Just as a creeping sense of danger began to outweigh my curiosity about what the Treasured Jade actually was, Jeok Cheongang spoke.
+A creeping sense of danger began to overwhelm my curiosity about what the Treasured Jade actually was.
 
-“It can’t be helped. For now, keep it in your possession.”
+“It can’t be helped. Keep them for now.”
 
-That single offhand remark brought my thoughts to a halt.
+That casual remark brought my thoughts to a complete halt.
 
-In other words…
+Wait. Did he mean…
 
 “You want me to keep these?”
 
@@ -352,7 +352,7 @@ In other words…
 
 “Both of them?”
 
-“There are three. Did you forget the one in your stomach? Anything originating from our sect will be reclaimed. One way or another.”
+“All three. Have you forgotten the one in your stomach? Anything that originated from our sect must be reclaimed, one way or another.”
 
 “…!”
 
@@ -360,13 +360,13 @@ In other words…
 
 “Phew.”
 
-“Tsk, tsk. You’re young, but your nerve is already the size of a bean.”
+“Tsk, tsk. You’re still young, but your nerve is already the size of a bean.”
 
-Whether my nerve was the size of a bean or a cannonball, it didn’t matter.
+Bean or cannonball, I didn’t care.
 
-I wanted nothing to do with being entangled with that terrifying old man ever again.
+I wanted nothing more to do with that terrifying old man. Ever.
 
-I took a deep breath and opened my mouth.
+I took a deep breath.
 
 “I’m sorry, but I’ll have to decline—”
 
@@ -376,21 +376,19 @@ I took a deep breath and opened my mouth.
 
 “This time, I’m serious.”
 
-Once again, the space beneath the table grew scorching hot. There was no need to guess which technique it was.
+Once again, the air beneath the table grew scorching hot. There was no need to guess which technique it was.
 
 *What the fuck?*
 
-I was trying to return the items to their rightful owner. And I couldn’t even do that?
+I was trying to return everything to its rightful owner, and I wasn’t even allowed to do that?
 
-Overcome by indignation and a sense of injustice, I asked,
+Overcome with resentment and indignation, I demanded, “Why are you doing this to me?”
 
-“Why are you doing this to me?”
+“Do you expect an old man like me to carry around all that cumbersome junk? I don’t have the strength.”
 
-“Do you expect an old man like me to carry those cumbersome things around? I don’t have the strength for that.”
+“What if someone takes them from me?”
 
-“What if someone steals them from me?”
-
-“Then you’ll die by this old man’s hand.”
+“Then this old man will kill you.”
 
 “What if I learn the martial art?”
 
@@ -398,15 +396,15 @@ Overcome by indignation and a sense of injustice, I asked,
 
 What kind of bullshit situation was this?
 
-While I stood there dumbfounded, the Fire King rose from his seat.
+Leaving me standing there in a daze, the Fire King rose from his seat.
 
-Cheongpung, who was still stuffing food into his mouth, looked up.
+Cheongpung, who was still cramming food into his mouth, looked up.
 
 “Gwandpa, awe you leaving?”
 
-“…You’re worse than your grandfather. Eat slowly.”
+“…You’re even worse than your grandfather. Slow down.”
 
-After exchanging a silent nod of farewell with Jang Taebo, Jeok Cheongang turned away and tossed out one meaningful remark.
+After exchanging a farewell glance with Jang Taebo, Jeok Cheongang turned away and tossed out an ominous remark.
 
 “Let’s meet again soon.”
 
