@@ -1,24 +1,23 @@
 # Translation State
 
-- Last completed: 329
-- Next chapter: 330
-- Current block: 325–329 (5/5)
-- Latest translation: `translations/0329.md`
-- Latest summary: `summaries/beats/0329.md`
-- Safe profiles through: chapter 329
+- Last completed: 330
+- Next chapter: 331
+- Current block: 330–334 (1/5)
+- Latest translation: `translations/0330.md`
+- Latest summary: `summaries/beats/0330.md`
+- Safe profiles through: chapter 330
 
 ## Current Block
 
-- Song Ilseom reveals that his grandmother was the surviving child of the Guangdong Chen Family rescued by Ju Gongsan. She fled with infant Song Pyosan, later told Song Ilseom the family history through the jade hairpin, and died when he was ten. After her death, Song Ilseom survived as a sword boy and developed his martial ability on battlefields, eventually becoming the Soul-Chasing Guest, who won 102 life-and-death duels.
-- After sharing his harsh past, Song Ilseom explains that the Guangdong Chen Family’s martial arts were lost when the family was destroyed. Ju Hwaran, Gung Gibang, and the others react to his identity while Taekyung and Cheongpung tease him about his reputation and strength.
-- Taekyung’s party leaves the Yongbong Escort Bureau after a meal and a drunken farewell. Ju Hwaran gives Taekyung a Hundred-Year-Old Snow Ginseng and admits that she fears she may not lead well; Taekyung tells her that she need not succeed perfectly or force herself to stay strong. After departing, he reveals that he possesses the Thousand-Year Snow Ginseng, shocking Hyuk Mujin and Cheongpung.
+- At midnight, Ju Hwaran and Song Ilseom confirm that Heo Jun could not have ruined the Yongbong Escort Bureau's contracts, siphoned its funds, and falsified its ledgers alone. Hwaran suspects at least two other escort captains and intends to root out the entire conspiracy. Song Ilseom agrees to remain for one more month to help her, then plans to travel to Xianyang for an elixir that can treat Ju Hogun's qi deviation. The elixir took him more than two years to find and cost the fortune he earned as the Soul-Chasing Guest. Song Ilseom and Ju Hwaran also recall his ten-year promise to protect her and the bureau in repayment for Ju Hogun's family's lifesaving kindness.
+- In Sichuan, five fast ships carrying nearly three hundred members of the Water Dragon Stronghold pursue a passenger ship. The shipmaster tries to collect a toll from the passengers, while a young martial artist and a giant discuss taking one of the approaching ships.
 
 ## Open Questions
 
 - Who sought the Guangdong Chen Family’s Peak martial arts, and what happened to the other members of the family?
 - How will Song Ilseom’s Guangdong Chen lineage affect the Yongbong Escort Bureau and the wider Murim?
-- How will the Zhongnan Sect’s Sect Leader and Elders respond to the exposed scheme and settlement?
-- What consequences will Hwangbo Eom’s defeat, Heo Jun’s betrayal, and Zhongnan’s coercion cause within the Murim?
+- Which other Yongbong Escort Bureau members collaborated with Heo Jun, and how far does the internal conspiracy extend?
+- How will the Zhongnan Sect’s Sect Leader and Elders respond to the exposed scheme, and what consequences will Hwangbo Eom’s defeat, Heo Jun’s betrayal, and Zhongnan’s coercion cause within the Murim?
 - Where is the Divine Physician in Sichuan, and can Jeok Cheongang be treated within the remaining window?
 
 ## Exceptional Decision
