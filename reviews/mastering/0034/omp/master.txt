@@ -12,7 +12,7 @@ Once, while Jinho and I were watching TV, we had a conversation like this.
 
 “Son of a bitch.”
 
-On the screen, a handsome man with a lanky build was smiling brightly. Dozens of cameras and a huge crowd reacted to his every move. Flashes and screams kept going off without a pause.
+On the screen, a tall, handsome man flashed a bright smile. Dozens of cameras and a massive crowd reacted to his every move. Flashes popped and screams erupted without pause.
 
 “He’s got everything. An A-rank Hunter is basically a walking mid-sized company, isn’t he? And he gets a model’s proportions and a celebrity’s face on top of that? That’s just cheating. How old did you say he was?”
 
@@ -22,17 +22,17 @@ On the screen, a handsome man with a lanky build was smiling brightly. Dozens of
 
 No matter the profession, some people made good money and others didn’t. And no profession had a wider gap between the two than Hunters.
 
-“Don’t worry, man. If you wait a little longer, your day will come.”
+“Don’t worry, man. Keep at it and your day will come.”
 
 “How long do I have to wait?”
 
-“Try waiting another hundred years. It’ll be possible in your next life.”
+“Try waiting another hundred years. Maybe you’ll have a shot in your next life.”
 
 I wished I could show Jinho, who had cackled as he mocked me back then, what I looked like now.
 
 *I wonder what kind of face he’d make if he saw this.*
 
-With every step I took, dozens of people swarmed after me. NPCs from the Jin Family of Taiyuan, men and women of all ages, were looking at me with shining eyes.
+Every step I took brought dozens of people surging after me. NPCs of all ages from the Jin Family of Taiyuan watched me with shining eyes.
 
 *Is this how famous people feel all the time?*
 
@@ -292,7 +292,7 @@ This time, Jin Wikyung was right. I slumped against the back of my chair, stunne
 
 *What a dumbass.*
 
-If I couldn’t even believe in myself, I was Second Rate. No. I *had been* Second Rate.
+Someone who couldn’t even believe in himself was Second Rate.
 
 No. I *had been* Second Rate.
 
@@ -318,7 +318,7 @@ I felt power surge from deep within me, and Jin Wikyung burst out laughing.
 
 “What happened?”
 
-Wipeng showed up late and asked, looking bewildered.
+Wipeng arrived a moment later and stared at us in bewilderment.
 
 * * *
 
@@ -334,7 +334,7 @@ Sure enough, people’s gazes gathered on me. I changed course toward an even mo
 
 *Anyone watching would think I was desperate for attention.*
 
-But everything happens for a reason.
+But everything happened for a reason.
 
 *Ding.*
 
@@ -354,11 +354,11 @@ As I walked, people gathered around me like clouds. Among them were plenty of NP
 
 I made eye contact with one of them. The young man looked to be in his early twenties. He flinched in surprise, then hurried over and gave me a fist-and-palm salute.
 
-“Gwak of the Samdo Sect presents his respects.”[^1]
+“This Gwak of the Samdo Sect presents his respects.”
 
 “Ah, yes.”
 
-By now, the fist-and-palm salute came out on reflex and looked fairly convincing. But where was the Samdo Sect?
+By now, I could return a fairly convincing fist-and-palm salute on reflex. But where was the Samdo Sect?
 
 *Oh. Could it be…?*
 
@@ -406,7 +406,7 @@ I turned around. It was the fellow from the Samdo Sect. He looked ready to follo
 
 “I’m sorry. I have somewhere to be.”
 
-It sounded like a lie, but it was the truth. My destination had been decided from the start.
+It sounded like a lie, but it was the truth. I had known my destination from the start.
 
 I pointed to a building as disappointment crossed his face. A faded signboard hung above it, and the heavy smell of medicinal decoctions wafted from within.
 
@@ -417,5 +417,3 @@ Beneath the signboard hung a small wooden plaque.
 **Authorized Personnel Only.**
 
 The people surrounding me let out pitying sighs.
-
-[^1]: The given characters are 三道問, with 問 (“question”), not the usual 門 (“gate”/“sect”).

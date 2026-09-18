@@ -306,7 +306,7 @@ Ding.
 >
 > — The realm of all martial arts increases by one stage!
 >
-> — Your Sinews and Bones and your Meridians improve greatly!
+> — Your Muscles and Bones and your Sinews and Meridians improve greatly!
 >
 > — The size of your dantian expands!
 >
@@ -356,7 +356,7 @@ As I walked, the crowd gathered like clouds. Plenty of NPCs in unfamiliar clothi
 
 My eyes met one of them. The young man looked a little over twenty. He flinched in surprise, then quickly approached and made a fist-and-palm salute.
 
-“Guo of the Three Paths Sect presents his respects.”[^1]
+“Gwak of the Samdo Sect presents his respects.”[^1]
 
 “Ah, yes.”
 
