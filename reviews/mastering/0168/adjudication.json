@@ -4,119 +4,312 @@
     {
       "decision": "SOL",
       "hunk_id": "H001",
-      "reason": "Captures 오죽하면 as causal ‘so bad that’; BASE omits that force."
+      "reason": "SOL keeps the spirit-herb category and preserves the System panel's meaning in natural English."
     },
     {
       "decision": "SOL",
       "hunk_id": "H002",
-      "reason": "Keeps the 말이야/방구야 sentence-or-fart joke; BASE genericizes it to ‘bullshit’."
+      "reason": "SOL keeps the source's disbelief and correctly preserves the established Grade label."
     },
     {
       "decision": "SOL",
       "hunk_id": "H003",
-      "reason": "천년설삼 is thousand-year snow ginseng; BASE’s Hundred-Year is a quantity error."
+      "reason": "SOL preserves the fifty-year age and gives the remark a natural spoken cadence."
     },
     {
-      "decision": "REPAIR",
+      "decision": "SOL",
       "hunk_id": "H004",
-      "reason": "BASE calques 것 같은; SOL adds ‘stubborn’ and changes 설득 to ‘win over’.",
-      "replacement": "I almost let myself be persuaded, but I quickly came to my senses. Somehow, I had to convince this old man who wouldn’t let even a needle through."
+      "reason": "SOL keeps the rhetorical challenge and the source's common-sense objection."
     },
     {
       "decision": "BASE",
       "hunk_id": "H005",
-      "reason": "SOL’s ‘Then, since I’m thirsty’ is stiffer; BASE keeps the deadpan two-beat request."
+      "reason": "BASE is wrong on the quantity: the source says Thousand-Year Snow Ginseng, not Hundred-Year Snow Ginseng."
     },
     {
       "decision": "SOL",
       "hunk_id": "H006",
-      "reason": "Unbolds the accept prompt and Y/N; bold is for labels, not whole System lines."
+      "reason": "SOL preserves the needle-impervious metaphor in a natural English idiom."
     },
     {
       "decision": "SOL",
       "hunk_id": "H007",
-      "reason": "Rhetorical 하겠냐 is a scornful refusal; BASE’s ‘Was I going to?’ is weaker and more literal."
+      "reason": "SOL keeps the offer's unrestricted scope and conversational voice."
     },
     {
       "decision": "SOL",
       "hunk_id": "H008",
-      "reason": "Absolute phrase is tighter English; dropping 느끼며 does not lose the boiling sensation."
+      "reason": "SOL naturally conveys the Jin Family's formidable standing without changing the source's meaning."
     },
     {
-      "decision": "SOL",
+      "decision": "BASE",
       "hunk_id": "H009",
-      "reason": "Matches 못 하는 말이 없다; BASE is ungrammatical and understates the complaint."
+      "reason": "BASE preserves the source's explicit action of Jang Taebo opening his mouth before speaking; SOL drops that timing beat."
     },
     {
       "decision": "SOL",
       "hunk_id": "H010",
-      "reason": "솥뚜껑 is a pot lid, not a cast-iron pot."
-    },
-    {
-      "decision": "BASE",
-      "hunk_id": "H011",
-      "reason": "Comma-versus-marker placement is merely typographic; no fidelity or prose gain."
-    },
-    {
-      "decision": "BASE",
-      "hunk_id": "H012",
-      "reason": "할 만한 일 is work he still cares to do; SOL’s ‘worth doing’ plus ‘already’ widens the claim."
-    },
-    {
-      "decision": "REPAIR",
-      "hunk_id": "H013",
-      "reason": "BASE’s ‘finally’ is not 오랜만에; SOL’s ‘after a long time’ is calqued.",
-      "replacement": "It had been a long time since I’d met a formidable opponent."
-    },
-    {
-      "decision": "BASE",
-      "hunk_id": "H014",
-      "reason": "씨부려 보게 is an invitation to speak; ‘do your worst’ turns it into action."
+      "reason": "SOL preserves the requested dragon pearl; the indefinite article already conveys one item."
     },
     {
       "decision": "SOL",
-      "hunk_id": "H015",
-      "reason": "Easily granting a modest request is not ‘be happy to’; ‘even’ and ‘without a second thought’ match 정도 and 쉽게."
+      "hunk_id": "H011",
+      "reason": "SOL faithfully renders the rhetorical refusal as a punchy “As if.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H012",
+      "reason": "SOL fixes the grammatical agreement while preserving the insult's tone."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H013",
+      "reason": "SOL correctly renders the pot-lid-sized fist and preserves Cheongpung's sudden gesture."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H014",
+      "reason": "SOL keeps Cheongpung's forceful intensity and Jang Taebo's startled retreat."
     },
     {
       "decision": "BASE",
+      "hunk_id": "H015",
+      "reason": "BASE preserves the repeated side-to-side head shaking in 절레절레; SOL drops that physical emphasis."
+    },
+    {
+      "decision": "SOL",
       "hunk_id": "H016",
-      "reason": "자네 정도면 is standing/level; ‘someone like you’ blurs that and sounds more dismissive."
+      "reason": "SOL keeps the source's respect-and-awe meaning in more natural English."
     },
     {
       "decision": "SOL",
       "hunk_id": "H017",
-      "reason": "한 솜씨 하는 is real skill; BASE’s ‘some skill of his own’ undersells it."
+      "reason": "SOL preserves the surprise and the transition into Jang Taebo's speech."
     },
     {
       "decision": "SOL",
       "hunk_id": "H018",
-      "reason": "The line is muttered speech (꿍얼거린), not interior thought, so it takes quotes."
+      "reason": "SOL uses the correct footnote punctuation while preserving the title and attribution."
     },
     {
-      "decision": "SOL",
+      "decision": "BASE",
       "hunk_id": "H019",
-      "reason": "들으라는 듯이 is intentional audibility, not merely speaking loudly enough."
+      "reason": "BASE preserves the source's explicit characterization of the voice as firm; SOL shifts that cue into a generalized manner of continuation."
     },
     {
       "decision": "SOL",
       "hunk_id": "H020",
-      "reason": "귀신같이 때려 맞추다 is uncanny accuracy; BASE’s ‘somehow’ weakens it."
+      "reason": "SOL keeps the ironworking background and the top-three claim while improving the spoken register."
     },
     {
       "decision": "BASE",
       "hunk_id": "H021",
-      "reason": "SOL drops the article and makes the System line ungrammatical."
+      "reason": "BASE preserves his explicit exhaustion with making swords; SOL replaces that attitude with a different lifetime-sufficiency image."
     },
     {
       "decision": "SOL",
       "hunk_id": "H022",
-      "reason": "Glosses jiazi as sixty years in the existing footnote, which English readers need."
+      "reason": "SOL naturally conveys that he prefers making a sword because a spear is more laborious."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H023",
+      "reason": "SOL clearly preserves both the hand-grab and the earnest look."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H024",
+      "reason": "SOL keeps the idea of a long-neglected pastime in natural spoken English."
     },
     {
       "decision": "BASE",
-      "hunk_id": "H023",
-      "reason": "The footnote must explain the full title 천검진인; SOL only defines True Person."
+      "hunk_id": "H025",
+      "reason": "BASE preserves the source's precise timing—Jang had just said he would not; SOL broadens it to the whole conversation."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H026",
+      "reason": "SOL naturally preserves the rough action of shaking the hand away."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H027",
+      "reason": "BASE preserves the explicit physical action of choking the dragon's neck; SOL drops that body-part detail."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H028",
+      "reason": "SOL preserves the impatient invitation while improving the dialogue's timing."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H029",
+      "reason": "SOL keeps the threat and turns the source's fragment into natural English syntax."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H030",
+      "reason": "SOL preserves that the threat was merely spoken and not intended, with no change in meaning."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H031",
+      "reason": "SOL keeps the simultaneity of his thought and Jang Taebo's question in natural prose."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H032",
+      "reason": "BASE preserves the source's one-by-one distribution to the leaders; SOL's “among” weakens that quantity and allocation."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H033",
+      "reason": "SOL naturally preserves the point that weapon devotion is independent of martial-arts level."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H034",
+      "reason": "SOL correctly preserves the hypothetical consequence with “would be.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H035",
+      "reason": "SOL keeps both entering the room and packing while reading naturally."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H036",
+      "reason": "BASE preserves the source's helplessly lowered head; SOL interprets it as defeat."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H037",
+      "reason": "BASE directly preserves the admission “I lost”; SOL weakens the explicit defeat into “I give up.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H038",
+      "reason": "SOL preserves the repeated history of defeating stronger enemies in idiomatic English."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H039",
+      "reason": "SOL preserves the bleak mood and the half-chewed, abandoned He Shou Wu without changing the image."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H040",
+      "reason": "BASE preserves the source's merely gruff expression; SOL adds the stronger and unsupported action of scowling at him."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H041",
+      "reason": "SOL keeps the condescending “someone like you” implication and the several-year wait."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H042",
+      "reason": "SOL preserves the causal link between the craftsman's skill and his backed-up orders."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H043",
+      "reason": "SOL naturally conveys the prospect of an unexpectedly long project leaving him breathless."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H044",
+      "reason": "SOL keeps the recommendation and the promise that the craftsman will complete the spear sooner."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H045",
+      "reason": "SOL preserves all three writing materials in a more natural list order."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H046",
+      "reason": "SOL makes the implied reference to carrying writing supplies explicit without adding content."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H047",
+      "reason": "SOL correctly treats the dumplings as plural and formats the internal reaction as a thought."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H048",
+      "reason": "SOL renders the source's image of stuffing dumplings into his mouth until his cheeks bulge."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H049",
+      "reason": "SOL correctly presents Jang Taebo's muttered line as spoken dialogue rather than narration."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H050",
+      "reason": "SOL preserves the muttering and retrieval of the writing materials while clarifying the movement."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H051",
+      "reason": "SOL naturally preserves the request for a planned shape or weight."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H052",
+      "reason": "SOL keeps the seven years of spear use and the resulting familiarity in natural English."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H053",
+      "reason": "BASE preserves the source's repeated “each time” structure; SOL reduces the iterative exchange to a general summary."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H054",
+      "reason": "SOL preserves the quick inspection, rapid corrections, uncanny measurements, and incremental adjustments."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H055",
+      "reason": "SOL keeps both the ten-nyang quantity and the heirloom's lack of shame in idiomatic English."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H056",
+      "reason": "SOL's “barked” naturally conveys the source's sharp shouted reprimand."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H057",
+      "reason": "BASE preserves the source's explicit question about how much material will be put into the weapon; SOL broadens it to general use."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H058",
+      "reason": "BASE preserves the source's explicit contrast that showing it directly will be faster; SOL drops “directly.”"
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H059",
+      "reason": "SOL clearly preserves the feigned rummaging, Inventory retrieval, and casual presentation."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H060",
+      "reason": "BASE preserves the intensely hoarse voice and the adult-head comparison; SOL weakens the vocal description."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H061",
+      "reason": "SOL preserves the cold bluish appearance and the emotional reunion image in natural English."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H062",
+      "reason": "SOL keeps the renewed passion and vitality while using a cleaner English construction."
     }
   ],
   "version": 1
