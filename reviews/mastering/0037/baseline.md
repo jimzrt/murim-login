@@ -10,7 +10,7 @@ I blinked at the oddly familiar man’s words.
 
 Judging by his clothes, he wasn’t from the Jin Family of Taiyuan. Aside from the reconnaissance squad, most of the people in the rear guard were martial artists from the newly allied small and mid-sized sects, so that made sense.
 
-“I’m Gwak Jun of the Three Paths Sect. We met once before… We even shook hands.”
+“I’m Gwak Jun of the Samdo Sect. We met once before… We even shook hands.”
 
 Gwak Jun of the Three Paths Sect? It was on the tip of my tongue.
 
@@ -260,7 +260,7 @@ I pointed in turn at the old book and the small case sitting on the rock.
 
 I explained it weakly to the guy whose eyes were halfway out of his head.
 
-“The manual’s a Supreme Peak martial art, and if you absorb the elixir right, it’s thirty years.”
+“The manual’s a Supreme Peak martial art, and if you absorb the elixir right, it’s half a jiazi.”
 
 “What?”
 
@@ -278,7 +278,7 @@ Judging by that unimpressed face and the snout sticking out a good few feet, he 
 
 “I don’t need this kind of thing anymore.”
 
-“Of course. You’re the Sleeping Dragon.”
+“Of course. You’re the Hidden Dragon.”
 
 Normally I would have smacked him in the back of the head. Right now I didn’t feel much of anything.
 

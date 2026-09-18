@@ -4,7 +4,7 @@ The march went smoothly. The heavy snow that had fallen during our last reconnai
 
 “At this rate, we’ll reach Jeongyang by tomorrow at the latest.”
 
-I blinked at the oddly familiar man’s words.
+I blinked at the oddly familiar man.
 
 “Who are you?”
 
@@ -34,7 +34,7 @@ Gwak Jun gave me a friendly smile and continued.
 
 There were two possibilities in cases like this. Either he’d fought in so many battles that he’d developed nerves of steel, or he simply had no fear.
 
-I raised my **Qi Sense**.
+I activated **Qi Sense**.
 
 Ding.
 
@@ -84,7 +84,7 @@ Since then, however, the Head Elder had thrown his full support behind Jin Wikyu
 
 The Head Elder was currently leading the vanguard alongside Jin Wikyung. If he truly was as skilled as the rumors claimed, tomorrow’s battle would be that much easier.
 
-“Just thinking of Great Hero Blade of Flowers sweeping the battlefield tomorrow already has my heart racing.”
+“Just thinking about the Blade of Flowers sweeping across the battlefield tomorrow is already making my heart race.”
 
 Gwak Jun shuddered like a man finally taking a piss after holding it for three days.
 
@@ -172,7 +172,7 @@ His finger stopped on a place labeled Eight Spring Gorge. The Head Elder, who ha
 
 “The enemy will fight with their lives on the line. This alone will not be enough.”
 
-“I’ve hidden some hundred horn bows on the cliffs above the gorge.”
+“I’ve hidden a hundred horn bows atop the cliffs overlooking the gorge.”
 
 “Hoh.”
 
@@ -186,7 +186,7 @@ Jin Wikyung looked straight at me as he spoke.
 
 *The Lower District Sect. Wolhwa.*
 
-She had been helping us constantly from places we couldn’t see. Of course, Jin Wikyung was impressive too, for putting together a plan this big.
+She had been helping us constantly from behind the scenes. Of course, Jin Wikyung was impressive too for planning this far ahead.
 
 *That’s fucking cool.*
 
@@ -272,7 +272,7 @@ Judging by his unimpressed face and the way his lips were sticking out a mile, h
 
 *Well, if someone suddenly came at me with a Supreme Peak martial art and a thirty-year Fireball elixir, I’d assume it was a joke too.*
 
-“You really won’t eat it? It’s good stuff.”
+“You really don’t want it? It’s good stuff.”
 
 “Oh, I’m fine. Learn plenty of that Supreme Peak martial art, and make sure you chew your elixir thoroughly.”
 
@@ -290,7 +290,7 @@ I began tracing back through my memories.
 
 *I first opened my eyes at Honghwaru.*
 
-That was where I met Wolhwa for the first time and realized I was trapped in this game. Even now, thinking about that moment gave me goose bumps.
+That was where I met Wolhwa and realized I was trapped in this game. Even now, thinking back on that moment gave me goose bumps.
 
 *I really thought I was going to lose my mind.*
 
@@ -320,7 +320,7 @@ As Hyuk Mujin threw a fit, everyone turned to look at us. Even the reconnaissanc
 
 “But should we really be acting like this?”
 
-At someone’s words, silence fell for a moment.
+At someone’s words, silence fell.
 
 “True. Waiting here is our mission, but…”
 
@@ -380,6 +380,6 @@ Gwak Jun smiled in satisfaction, then turned to me.
 
 “Well, shall we set out too?”
 
-*What the fuck is this bastard talking about right now?*
+*What the fuck is this bastard talking about?*
 
 [^1]: A conscript sergeant in the last stretch of mandatory service, coasting toward discharge.
