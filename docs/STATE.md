@@ -1,15 +1,15 @@
 # Translation State
 
-- Last completed: 372
-- Next chapter: 373
-- Current block: 370–374 (3/5)
-- Latest translation: `translations/0372.md`
-- Latest summary: `summaries/beats/0372.md`
-- Safe profiles through: chapter 372
+- Last completed: 373
+- Next chapter: 374
+- Current block: 370–374 (4/5)
+- Latest translation: `translations/0373.md`
+- Latest summary: `summaries/beats/0373.md`
+- Safe profiles through: chapter 373
 
 ## Current Block
 
-- Jin Taekyung and the others enter a hidden cavern near Chengdu through an illusion formation and discover a vast underground chamber containing supplies, weapons, and a strange formation covering the floor. The Slaughter Saint explains that Dark Heaven called it a Moving Formation capable of transporting hundreds of people across hundreds of li, but it has lost all power and is now inactive. He further concludes that Dark Heaven is undoubtedly the successor to the Demonic Cult, while Jin suspects the formation may be connected to something he recognizes.
+- The group returns to the Sichuan Tang Clan, where the Slaughter Saint declares that he will abandon his former identity, resume life as the medical apprentice Mungyeong, and never kill again; Jin agrees to keep his identity secret but teasingly adopts the name Mungyeong as his form of address. Back at the pavilion, Jin reviews a flood of System messages confirming his Supreme Peak advancement, Level 120, improved martial arts, and a second unnamed bound Item, but an investigation team from Henan arrives looking for him before he can inspect it.
 
 ## Open Questions
 

@@ -1,6 +1,6 @@
 # Extinction Divine Nun (멸절신니)
 
-- **Safe through:** Chapter 372
+- **Safe through:** Chapter 373
 - **Aliases:** None
 - **Role:** Living Emei Sect Leader and Supreme Peak master who joins Cheongpung the Ancient Sword in investigating a strange formation linked to Dark Heaven.
 - **Personality:** Not established beyond the fear and shock her sudden reappearance caused among the Emei disciples and the Third Fiend.
