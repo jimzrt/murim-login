@@ -24,7 +24,7 @@ Forms changed depending on the situation. Martial arts didn’t have to consist 
 
 Whoooosh!
 
-By the time I heard the wind, it was already too late. Hyuk Mujin, his abdomen pierced through, let out a rueful sigh.
+By the time the wind howled, it was already too late. Hyuk Mujin, his abdomen pierced through, let out a rueful sigh.
 
 “You’re improving quickly.”
 
@@ -99,7 +99,7 @@ The F-rank Hunter Jin Taekyung, who hadn’t known the first thing about martial
 
 *It starts today.*
 
-Everything was ready. Once I left the training hall today, I would gather the things I had in mind and leave the Jin Family of Taiyuan.
+Everything was ready. Once I left the training hall, I would gather the things I needed and slip away from the Jin Family of Taiyuan.
 
 *I might even be able to get Jin Wikyung’s help.*
 
@@ -133,9 +133,9 @@ Wipeng, an angel who resembled a desert fox, answered in a strangely qualified t
 
 “…What?”
 
-“You will be leaving. But there’s somewhere we need to stop by first.”
+“You will be leaving. But there’s somewhere we need to stop first.”
 
-“Somewhere we need to stop by?”
+“Somewhere we need to stop?”
 
 A chill ran down my spine. My survival instincts kicked in.
 
@@ -163,7 +163,7 @@ This was ominous. Very ominous. I had to find some way out of this.
 
 “Are you thinking of running away?”
 
-He looked like a desert fox, but his instincts put a meerkat to shame. Before I could say anything, Wipeng’s hand pressed down hard on my shoulder.
+He looked like a desert fox, but nothing got past him. Before I could say anything, Wipeng’s hand pressed down hard on my shoulder.
 
 “Third Young Master. From now on, answer my questions truthfully. Understood?”
 
@@ -173,7 +173,7 @@ His voice was dry, and his eyes were cold. The aura coming from him left me unab
 
 The three-syllable name flashed through my mind.
 
-There was no doubt about it. This bastard was responsible. He had dumped a load of shit without me even knowing.
+There was no doubt about it. This bastard was responsible. He had taken a shit I knew nothing about.
 
 And then…
 
@@ -201,11 +201,11 @@ Without turning around, Wipeng replied,
 
 “Has your memory returned?”
 
-“No, that’s not what I mean. I’m telling you, it really wasn’t me. Do I look like the kind of guy who’d do that? The kind of guy who’d go around committing trash like that?”
+“No, that’s not what I mean. I’m telling you, it really wasn’t me. Do I look like the kind of guy who’d do something that disgusting?”
 
 “Yes.”
 
-No, fuck.
+*Oh, fuck off.*
 
 He answered without even taking a breath.
 
@@ -283,7 +283,7 @@ But this guy…
 
 This was on an entirely different level from anything I had experienced.
 
-If I had to compare it to something, it was like the difference between a low-level monster and a mid-level monster. His killing intent was far more refined, more furtive, and more chilling.
+If I had to compare it to something, it was like the difference between a low-level monster and a mid-level monster. His killing intent was far more refined, more subtle, and more chilling.
 
 “I believe I caught a glimpse of you in the marketplace last time. I don’t know whether you remember me.”
 
@@ -343,15 +343,15 @@ Then I noticed something strange.
 
 “What is this?”
 
-“You don’t know even after seeing it yourself?”
+“You don’t know even after reading it yourself?”
 
 This bastard was dropping the formal speech now, too.
 
-“I’m saying that because I read it. There isn’t a single proper testimony here.”
+“I’m asking because I read it. There isn’t a single conclusive statement here.”
 
 I read every one of the dozens of statements, but not one of them contained decisive testimony.
 
-They all said roughly the same thing: Jin Taekyung had gotten thoroughly drunk, gone to the wrong room, and found that the room belonged to a woman of the Mount Heng Sword Sect. Then someone had heard screaming.
+They all said roughly the same thing: Jin Taekyung had gotten thoroughly drunk, gone to the wrong room, and found that it belonged to a woman of the Mount Heng Sword Sect. Then there had been a scream.
 
 “For a bastard who tore my sister’s clothes and tried to rape her, you have some nerve acting so shameless. You really are exactly as the rumors say.”
 

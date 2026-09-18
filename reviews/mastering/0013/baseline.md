@@ -177,7 +177,7 @@ There was no doubt about it. This bastard was responsible. He had dumped a load 
 
 And then…
 
-“Is it true that you tried to rape the daughter of the Mount Heng Sword Sect?”
+“Is it true that you tried to violate a woman of the Mount Heng Sword Sect?”
 
 That shit was far bigger than I could have imagined.
 
@@ -185,7 +185,7 @@ That shit was far bigger than I could have imagined.
 
 On the way to the main assembly hall behind Wipeng, my mind was completely blank.
 
-*Attempted rape?*
+*Attempted sexual assault?*
 
 Even if it had ended at an attempt, it was a sex crime so vile that beating the culprit to death wouldn’t have been enough.
 
@@ -351,7 +351,7 @@ This bastard was dropping the formal speech now, too.
 
 I read every one of the dozens of statements, but there wasn’t a decisive testimony anywhere.
 
-They all said roughly the same thing: Jin Taekyung had gotten thoroughly drunk, gone to the wrong room, and found that the room belonged to the daughter of the Mount Heng Sword Sect. Then someone had heard screaming.
+They all said roughly the same thing: Jin Taekyung had gotten thoroughly drunk, gone to the wrong room, and found that the room belonged to a woman of the Mount Heng Sword Sect. Then someone had heard screaming.
 
 “The bastard who tore my sister’s clothes and tried to rape her is shameless beyond belief. You really are exactly as the rumors say.”
 
