@@ -2,27 +2,27 @@
 
 Knock, knock, knock.
 
-The information I had asked Jin Wikyung for arrived faster than expected.
+The information I had asked Jin Wikyung for arrived sooner than expected.
 
-What surprised me was the identity of the errand runner.
+What surprised me was the identity of the messenger.
 
-“Eh? What brings you here?”
+“Huh? What brings you here?”
 
-“My lord said there was a letter he needed sent, so I came.”
+“My lord said he had a letter that needed delivering, so I came.”
 
-“Personally?”
+“You came personally?”
 
-The person who had come to deliver Jin Wikyung’s letter was none other than Wipeng.
+The man who had come to deliver Jin Wikyung’s letter was none other than Wipeng.
 
-After silently staring at me for a while, he tossed out a single remark.
+He stared silently at me for a while before tossing out a single remark.
 
-“So it was true. You crossed the wall.”
+“So it was true. You really crossed the wall.”
 
-From a low hill, one could not know what lay atop a high peak. But someone standing on that peak could see everything beneath their feet.
+From a low hill, one could not see what lay atop a high peak. But someone standing on that peak could see everything below.
 
 The same was true of Wipeng now.
 
-As an outstanding Peak master, he noticed the change in me at a glance. He looked at me with an expression mingling awe and disbelief.
+An accomplished Peak master himself, he recognized the change in me at a glance. He regarded me with a mixture of awe and disbelief.
 
 “How is such a thing possible?”
 
@@ -38,49 +38,49 @@ Along with the brothers of the Jin Family of Taiyuan, he was one of the very few
 
 A Third Rate thug had become a Peak master in only two or three months.
 
-Even for someone with an open mind, that was an incomprehensible realm. Perhaps that was also why people believed the rumors.
+Even the most open-minded person would find that impossible to comprehend. Perhaps that was precisely why people believed the rumors.
 
-*Because the rumors are more believable.*
+*Because those actually sound more plausible.*
 
-When I hesitated, unable to answer, Wipeng waved his hand. He was probably also conscious of Hyuk Mujin’s ears nearby.
+When I hesitated, unable to answer, Wipeng waved a hand. He was probably mindful of Hyuk Mujin listening beside us as well.
 
-“It would be best to postpone that discussion until later.”
+“We should save that discussion for another time.”
 
-Still looking troubled, Wipeng pulled a letter from inside his robes. It contained the information I had asked Jin Wikyung for earlier.
+Still looking troubled, Wipeng pulled a letter from inside his robes. It contained the information I had asked Jin Wikyung to find.
 
-As soon as I accepted the letter and unfolded it, Wipeng began explaining.
+As I accepted and unfolded it, Wipeng began to explain.
 
-“His name is Jang Taebo. Until about ten years ago, he belonged to the Ironcraft Guild.”
+“His name is Jang Taebo. Until a little over ten years ago, he belonged to the Ironcraft Guild.”
 
 “The Ironcraft Guild?”
 
-“It is a guild located in Hubei. Most of its members are not martial artists, but skilled craftsmen.”
+“It is a guild based in Hubei. Most of its members are skilled craftsmen rather than martial artists.”
 
 In other words, it was a blacksmiths’ guild.
 
-I asked about the most important thing.
+I asked the most important question.
 
 “How skilled is he?”
 
 “He was the Guild Leader of the Ironcraft Guild.”
 
-“Ooh.”
+“Oh.”
 
-That brief answer was enough.
+That brief answer told me everything I needed to know.
 
 If he had risen to become Guild Leader in the Ironcraft Guild, which was packed with skilled craftsmen, then he was practically a Master Artisan already.
 
-I carefully read through the letter containing information about Jang Taebo.
+I carefully read through the information about Jang Taebo.
 
-“And he doesn’t live far, either?”
+“He lives fairly close by, too?”
 
-“A village near Jeongyang. Do you remember? The place where we received Prince Shangshan’s invitation…”
+“In a village near Jeongyang. Do you remember? The place where we received Prince Shangshan’s invitation…”
 
-“Oh, that place.”
+“Oh, there.”
 
-Was it about fifteen days ago? That was where I had marched alongside the Jin Family of Taiyuan’s elites like a victorious general.
+Had it been about fifteen days ago? That was where I had marched with the Jin Family of Taiyuan’s elites like a victorious general.
 
-Hyuk Mujin, who had been quietly listening beside us, spoke up.
+Hyuk Mujin, who had been listening quietly beside us, spoke up.
 
 “If we don’t slacken the reins, we should arrive around sunset.”
 
@@ -88,45 +88,45 @@ Hyuk Mujin, who had been quietly listening beside us, spoke up.
 
 “Yes.”
 
-“But what are you doing?”
+“So what are you still doing here?”
 
-“What do you mean?”
+“…What?”
 
-“Go get ready to leave. Set aside two horses with good stamina, and pack some food for the road.”
+“Go get ready to leave. Set aside two strong horses and pack some food for the road.”
 
 “Wait, what… Am I a servant?”
 
-“There’s no high or low in honest work. Are you looking down on servants now? Should I round up every servant in the Jin Family of Taiyuan and give them an earful?”
+“There’s no high or low in honest work. Are you looking down on servants now? Should I call every servant in the Jin Family of Taiyuan and give you a lecture?”
 
-“Oh, fine, I get it, so please stop already!”
+“Oh, fine! I get it, so stop already!”
 
-Unable to withstand my nagging, Hyuk Mujin grumbled as he left the room. Wipeng clicked his tongue.
+Unable to endure my nagging any longer, Hyuk Mujin grumbled his way out of the room. Wipeng clicked his tongue.
 
-“Your subordinate’s attitude is extremely insolent.”
+“Your subordinate’s attitude is terribly insolent.”
 
 “…”
 
-Well, from where I was standing, you weren’t exactly harmless yourself.
+Well, from where I was standing, he wasn’t exactly one to talk.
 
 The way you constantly hounded people to work whenever you had the chance was enough to make even a mother-in-law slap someone across the face with a bundle of kimchi.
 
-*Look at the hypocrisy.*
+*Look at this hypocrite.*
 
-Of course, Wipeng had no idea what I was thinking. He continued,
+Oblivious to my thoughts, Wipeng continued.
 
-“In any case, you must return by noon tomorrow at the latest. You haven’t forgotten that New Year’s Day is in two days, have you?”
+“In any case, you must return by noon tomorrow at the latest. You have not forgotten that New Year’s Day is in two days, have you?”
 
-“Ah, yes.”
+“Ah, right.”
 
-The entire Jin Family of Taiyuan was already in an uproar because of it. The sight of servants and maids rushing around in a frenzy had already become familiar enough that I was nearly used to it.
+The entire Jin Family of Taiyuan was already in an uproar over it. I had nearly grown used to the sight of servants and maids rushing around in a frenzy.
 
-That was only natural. This was a grand banquet that would last at least three days, not something that would end in a single day.
+That was only natural. This was a grand banquet that would last at least three days, not some event that would end in a single day.
 
-*It really is a major event.*
+*It is a pretty big deal.*
 
-It was an occasion to reaffirm that the Jin Family of Taiyuan was the ruler of Shanxi Province.
+It was an occasion to reaffirm the Jin Family of Taiyuan’s position as the ruler of Shanxi Province.
 
-With so many people arriving, everyone in the family was working day and night to ensure that nothing went wrong.
+With so many guests arriving, everyone in the family was working day and night to ensure that nothing went wrong.
 
 Everyone except me, of course.
 
@@ -134,87 +134,87 @@ Everyone except me, of course.
 
 Wipeng’s eyes narrowed.
 
-“It is an important matter, so I trust you will conduct yourself appropriately.”
+“This is an important occasion, so I trust you will conduct yourself appropriately.”
 
 “Your eyes say you don’t trust me at all.”
 
 “That is a misunderstanding. A misunderstanding.”
 
-“I’m only going to make one request and come right back, so don’t worry.”
+“I’m just going to ask him for one favor and come straight back, so don’t worry.”
 
-“Looking at the Third Young Master’s record so far, I cannot help but worry.”
+“Given the Third Young Master’s track record, I cannot help but worry.”
 
 “…”
 
-Since trouble and accidents never seemed to stop wherever I went, he wasn’t entirely wrong.
+Trouble did seem to follow me wherever I went, so he wasn’t entirely wrong.
 
-But I was a full-fledged Peak master now. I was far too grown-up to be treated like a child left at the water’s edge.
+But I was a full-fledged Peak master now. I was far too grown-up to be treated like a little kid playing by the water.
 
 “Even if I look like this—”
 
-“I trust you were not about to say, ‘Now that I’m a Peak master too, stop treating me like a child left at the water’s edge.’”
+“I trust you were not about to say, ‘I’m a Peak master now, so stop treating me like a child by the water.’”
 
 Was he a ghost or something? I hurriedly swallowed the rest of my words.
 
 “Of course not.”
 
-“The Murim is a place where no one knows what lies one inch ahead. Be respectful toward Jang Taebo—Guild Leader Jang—as well. The Ironcraft Guild has close ties with the Nine Sects and One Gang, and its current Guild Leader is Jang Taebo’s Disciple. It would be unwise to get on his bad side.”
+“In Murim, no one knows what awaits them even a single step ahead. And be respectful toward Jang Taebo—Guild Leader Jang. The Ironcraft Guild has close ties with the Nine Sects and One Gang, and its current Guild Leader is Jang Taebo’s Disciple. It would be unwise to offend him.”
 
 “My hobby is filial piety, and my specialty is respecting the elderly.”
 
-“I can still vividly recall the Third Young Master hurling every kind of profanity at the Head Elder.”
+“I can still vividly recall the Third Young Master hurling every imaginable obscenity at the Head Elder.”
 
-“Hey, that was a different matter!”
+“Hey, that was different!”
 
-“Well, that is all I meant. Why are you getting so angry? Now that you’re a Peak master, do you think I’m easy to deal with?”
+“Of course. I was merely pointing it out. Why are you getting so angry? Do you think I’m a pushover now that you’re a Peak master?”
 
 Look at those eyes. He looked ready to challenge me to a duel.
 
-Of course, if we actually fought, I would be the one getting beaten. I subtly changed the subject.
+Of course, if we actually fought, I would still be the one getting beaten. I casually changed the subject.
 
 “But aren’t you busy? You must have a lot of work piled up.”
 
 Wipeng frowned.
 
-“I need to return as quickly as possible. The movements near Datong are unusual.”
+“I do need to return as soon as possible. There has been suspicious activity near Datong.”
 
 “Datong… the northern Gaoyuan?”
 
-“I hear those mounted bandits are prowling around again.”
+“I hear the mounted bandits are prowling around again.”
 
 “How long has it even been since the Red Wind Band was crushed?”
 
-“Exactly.”
+“Precisely.”
 
 Rubbing his dry eyes, Wipeng rose from his seat.
 
-“Then I will be off. I suppose we will see each other again at noon tomorrow.”
+“Then I will be going. I suppose we will see each other again at noon tomorrow.”
 
-Wipeng put unusual emphasis on *noon tomorrow* to the very end. He was about to leave the room when he suddenly stopped.
+Wipeng placed pointed emphasis on *noon tomorrow* right to the end. He was about to leave when he suddenly stopped.
 
-“And there is something I have been meaning to ask you…”
+“And there is something I have been meaning to ask…”
 
 “Yes?”
 
-With an incredulous expression, Wipeng pointed at the badly smashed door.
+Looking utterly bewildered, Wipeng pointed at the badly mangled door.
 
 “What happened to this? It can’t have been more than a few days since it was completed.”
 
 “Who do you think did it?”
 
-The one person you, I, and everyone else would suspect, of course.
+The same person you, I, and everyone else would suspect, of course.
 
-Wipeng seemed to realize who the culprit was. He let out a long sigh and slipped out of the room. Judging by his murderous back, he was clearly going to lay into Jin Wikyung.
+Wipeng appeared to realize who the culprit was. He let out a long sigh and left the room. Judging by the murderous set of his shoulders, he was clearly going to lay into Jin Wikyung.
 
-“Well, I suppose I should head out, too.”
+“Well, I should get going too.”
 
-I was on my way to have a custom weapon made just for me. My steps felt light enough to fly.
+I was on my way to have my own custom weapon made. My steps felt light enough to fly.
 
 * * *
 
 “Are you ready?”
 
-In front of the stables, Hyuk Mujin was inspecting the saddles. He answered curtly,
+In front of the stables, Hyuk Mujin was inspecting the saddles. He answered curtly.
 
 “Not yet.”
 
@@ -222,17 +222,17 @@ In front of the stables, Hyuk Mujin was inspecting the saddles. He answered curt
 
 “Yes.”
 
-Why was it taking so long?
+What was taking him so long?
 
-When I approached, I saw that the horses’ flanks were loaded with bundles. I sniffed one. They were all food. It was still warm, as though it had been cooked only recently.
+When I approached, I saw the horse’s flanks were covered in bundles. One sniff told me they were all filled with food. They were still warm, as though they had only recently been cooked.
 
 “What’s all this?”
 
 “What do you think? Food.”
 
-“You think I’m asking because I don’t know that? Huh? I’m asking why you packed so much. Jerky and water would have been enough.”
+“You think I’m asking because I don’t know that? Huh? Why did you pack so much? Some jerky and water would’ve been enough.”
 
-Hyuk Mujin answered with a wounded expression.
+Hyuk Mujin gave me a wounded look.
 
 “I didn’t pack it.”
 
@@ -240,29 +240,29 @@ Hyuk Mujin answered with a wounded expression.
 
 “Who do you think?”
 
-Hyuk Mujin pointed behind me. A young man came dashing over, loaded down with one heavy bundle after another.
+Hyuk Mujin pointed behind me. A young man came racing toward us, weighed down by bundle after bundle.
 
-The moment Cheongpung spotted me, he beamed.
+The moment Cheongpung spotted me, his face lit up.
 
 “Oh! Hello, Benefactor!”
 
-“Ah… yes.”
+“Ah… hello.”
 
-Hello, sure, but why are you here?
+Sure, hello. But why are you here?
 
-I stared at Hyuk Mujin with a demanding look, and he began explaining.
+I turned a demanding look on Hyuk Mujin, and he began to explain.
 
-“I ran into him on the way to the stables. He said he wanted to come along. What could I do?”
+“I ran into him on the way to the stables. He said he wanted to come along. What was I supposed to do?”
 
-Cheongpung shouted enthusiastically,
+Cheongpung shouted enthusiastically.
 
-“Benefactor! Please take me with you! I want to travel, too!”
+“Benefactor! Take me with you! I want to go on a trip too!”
 
 “This isn’t a trip.”
 
-“Oh, really? I heard we were going today and coming back tomorrow…”
+“Oh, really? I heard we were leaving today and coming back tomorrow…”
 
-If you went somewhere today and came back tomorrow, did that make it a trip?
+Did going somewhere today and returning tomorrow automatically make it a trip?
 
 When I explained that I was going to meet a blacksmith in Jeongyang, Cheongpung’s eyes lit up.
 
@@ -272,7 +272,7 @@ Hyuk Mujin and I spoke at the same time.
 
 “You’ve never seen a blacksmith before, have you?”
 
-“Sounds like this is your first time seeing a blacksmith.”
+“This must be your first time seeing a blacksmith.”
 
 “Yes, that’s right! How did you know?”
 
@@ -282,13 +282,13 @@ Hyuk Mujin and I spoke at the same time.
 
 It was more surprising that he didn’t know.
 
-Anyone who had spent even a single day dealing with Cheongpung would understand how I felt.
+Anyone who had spent even a single day with Cheongpung would understand exactly how I felt.
 
 “Anyway, please take me with you.”
 
-“Well, I don’t really mind if you come along, but…”
+“Well, I don’t mind if you come along, but…”
 
-“Woohoo!”
+“Wow!”
 
 “Let people finish speaking, you idiot.”
 
@@ -296,7 +296,7 @@ Ugh, this was exhausting. *Was this what extrovert energy felt like?*
 
 Already feeling tired, I leaped onto my saddle. I also made sure to remove the securely tied food bundles ahead of time.
 
-When one of the bundles dropped to the ground with a thud, Cheongpung screamed.
+One dropped to the ground with a thud, and Cheongpung screamed.
 
 “Ah! That’s five-spice pork!”
 
@@ -308,72 +308,70 @@ When one of the bundles dropped to the ground with a thud, Cheongpung screamed.
 
 It wasn’t even mine.
 
-After stubbornly gathering all the food again, Cheongpung grinned.
+Cheongpung insisted on gathering every last bundle, then grinned.
 
 “Now let’s go!”
 
-*I really want to leave. Just without you.*
+*I really do want to go. Just without you.*
 
-I clicked my tongue inwardly, took hold of the reins, and set off.
+Clicking my tongue inwardly, I took hold of the reins and set off.
 
-Then I had to listen to the sound of someone chewing behind me until the sun went down.
+Then I had to listen to him chewing behind me until the sun went down.
 
 * * *
 
 Winter days were short.
 
-As the sun disappeared beyond the horizon of the plateau, a dry voice came from the giant.
+As the sun vanished beyond the plateau’s horizon, a dry voice slipped between the huge man’s lips.
 
 “It is time.”
 
 No sooner had he finished speaking than hundreds of silhouettes stirred in the darkness.
 
-Draped in the hides of all kinds of beasts, they mounted their horses armed with curved sabers, sandalwood bows, and charging spears.
+Draped in the hides of all manner of beasts, they mounted their horses, armed with curved sabers, sandalwood bows, and lances.
 
-In the blink of an eye, a cavalry force of some four hundred riders had appeared. They stared at the giant.
-
-That same parched voice rang out again.
+Within moments, a cavalry force of more than four hundred riders had formed before the huge man. His parched voice rang out once more.
 
 “Our task is simple.”
 
-The giant’s eyes gleamed dangerously. The veins standing out on his forearms and the breath escaping his lips made him look like a wild beast.
+His eyes gleamed dangerously. The veins bulging along his forearms and the breath steaming from his lips made him look like a wild beast.
 
 “To kill and trample.”
 
-Low laughter drifted from here and there.
+Low laughter rose here and there.
 
-Their leader had given them permission to run wild as they pleased. The four hundred or so mounted bandits belonging to the Heavenly Wind Band trembled with excitement.
+Their leader had given them permission to run wild. The more than four hundred mounted bandits of the Heavenly Wind Band trembled with excitement.
 
-The sight made the giant smile in satisfaction.
+The sight brought a satisfied smile to the huge man’s face.
 
 *At last, I can do this properly.*
 
-The plan proposed by his sworn elder brother, Black Sand, was brilliant.
+The plan devised by his sworn elder brother, Black Sand, was brilliant.
 
-Of course, what he liked best was that all he had to do was kill and plunder the enemies in front of him without thinking.
+Of course, what he liked most was that he only had to slaughter and plunder the enemies before him without thinking.
 
 His role was the most important—and the simplest.
 
 *My blood is boiling.*
 
-This was on an entirely different level from the ragtag mobs like the Red Wind Band that had been scraped together from here and there.
+These men were nothing like the ragtag forces of the Red Wind Band and the other dregs they had scraped together from far and wide.
 
-They had shared the same rice pot and fought battles together for over ten years. They were seasoned elites who had fought a hundred battles.
+They had eaten from the same pot and fought side by side for over a decade. They were seasoned elites, veterans of a hundred battles.
 
 *Heh heh. Just wait. Jin Family of Taiyuan or not, I’ll trample every last one of you.*
 
-A thunderous roar erupted from the mouth of the giant, the Heavenly Wind Band Leader.
+A thunderous roar erupted from the Heavenly Wind Band Leader’s mouth.
 
-“Go! Kill and plunder everything! Slaughter and burn everything in sight!”
+“Go! Kill and plunder them all! Slaughter and burn everything in sight!”
 
 “Waaaaah!”
 
 “Let’s go!”
 
-The four hundred or so mounted bandits, brimming with excitement, had just turned their horses south when—
+The more than four hundred mounted bandits, wild with excitement, had just turned their horses south when—
 
-“You goddamn sons of bitches. Burn what, exactly?”
+“You goddamn sons of bitches. What the hell do you think you’re burning?”
 
-A clear, ringing voice accompanied the appearance of a diminutive silhouette.
+A diminutive figure emerged with a sharp, ringing voice.
 
-The hand of an unidentified old man shone an icy white.
+The unidentified old man’s hand shone a blinding white.
