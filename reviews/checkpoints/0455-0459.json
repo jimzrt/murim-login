@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Inform Donghu Stronghold, too. The fast boats from Water Dragon Stronghold should be waiting at the Zaoyang ferry, so you can entrust the letter to our household retainers.",
+      "defect": "Donghu Stronghold has already been annihilated, so Taekyung cannot warn it about the impending operation. His destination and the threatened location under discussion are Dongting Lake.",
+      "id": "C01",
+      "rationale": "The chapter repeatedly establishes Donghu Stronghold as one of the three destroyed strongholds. Retaining it here creates a direct continuity contradiction and obscures the warning that leads into the Dongting Lake disaster.",
+      "replacement": "Send word to Dongting Lake, too. The fast boats from Water Dragon Stronghold should be waiting at the Zaoyang ferry, so you can entrust the letter to our household retainers.",
+      "severity": "major",
+      "source": "Chapter 456, preparations before departure"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Zhuge Gyun coordinates the Zhuge Clan’s intelligence with the Beggars’ Sect and Lower District Sect, while Taekyung warns Wudang and Donghu Stronghold.",
+      "defect": "The summary repeats the impossible claim that Taekyung warns the already-destroyed Donghu Stronghold.",
+      "id": "C02",
+      "rationale": "The summary should preserve the intended warning destination without propagating Chapter 456’s continuity error into later state.",
+      "replacement": "Zhuge Gyun coordinates the Zhuge Clan’s intelligence with the Beggars’ Sect and Lower District Sect, while Taekyung warns Wudang and Dongting Lake.",
+      "severity": "major",
+      "source": "Checkpoint summary, Plot, second paragraph"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“You have fifteen minutes from now. Both of you search as far as you can within that time. If you don’t find any survivors, come back.”",
+      "defect": "The visible Quest limit is 9 minutes 43 seconds, and the next paragraph explicitly says that searching beyond that limit would be meaningless. Giving the searchers fifteen minutes contradicts both facts.",
+      "id": "C03",
+      "rationale": "Nine minutes fits the displayed countdown and the subsequent rescue at 1 minute 12 seconds. The later line “Fifteen minutes. I’ll remember, Benefactor.” must likewise read “Nine minutes. I’ll remember, Benefactor.”",
+      "replacement": "“You have nine minutes from now. Both of you search as far as you can within that time. If you don’t find any survivors, come back.”",
+      "severity": "major",
+      "source": "Chapter 457, search across Dongting Lake"
+    }
+  ],
+  "summary": "One major continuity error is repeated in Chapter 456 and the checkpoint summary: Taekyung orders a warning sent to Donghu Stronghold after its annihilation, where context requires Dongting Lake. Chapter 457 also gives the searchers fifteen minutes despite a displayed limit of under ten minutes and immediately states that searching past that limit is pointless.",
+  "version": 1
+}

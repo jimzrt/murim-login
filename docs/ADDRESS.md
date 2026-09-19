@@ -781,3 +781,7 @@ Overrides generic relationship prose in character profiles for this pair.
 | 삼괴 | 진태경 | captured_enemy_to_interrogator | you bastard | defiant and profane | The Three Fiends curses Taekyung, challenges him to remove the seal, and demands death rather than continued torture. |
 | 제갈균 | 진태경 | Zhuge Clan Lesser Family Head to allied investigator | you | formal-polite | Zhuge Gyun speaks formally while discussing the investigation and promising to mobilize the Zhuge Clan's intelligence. |
 | 진태경 | 미미 | rescuer to companion snake | Mimi or Mimi-chan | informal, pleading | Taekyung calls to Mimi while asking the snake to carry him and the survivors. |
+| 홍란 | 은인 | rescued_survivor_to_rescuer | Benefactor | humble-formal | Honglan addresses Taekyung as Benefactor after he rescued her. |
+| 궁기방 | 군관 | martial_artist_to_military_officer | Officer | insulting-casual | Gung Gibang uses 군관 나리 while mocking the officer's ignorance of Dark Heaven. |
+| 군관 | 대협 | military_officer_to_martial_hero | Great Hero | formal-deferential | The officer addresses Taekyung as 대협 while asking whether he knows the culprit. |
+| 홍란 | 귀관 | martial_artist_to_military_officer | your honor | formal-polite | Honglan uses 귀관 while respectfully referring to the military officer. |
