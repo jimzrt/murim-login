@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "He had seen it clearly: Officer Gwak, who was in charge of Dongting Lake, had been fawning over these people and addressing them with honorifics.",
+      "defect": "“Fawning” adds deliberate sycophancy. The source says Officer Gwak was visibly flustered and struggling while speaking deferentially, demonstrating the passengers’ status without assigning him an ingratiating motive.",
+      "id": "F01",
+      "rationale": "쩔쩔매며 describes being flustered or at a loss, not flattering someone for favor.",
+      "replacement": "He had seen it clearly: Officer Gwak, who was in charge of Dongting Lake, had been visibly flustered as he addressed these people with honorifics.",
+      "severity": "major",
+      "source": "똑똑히 봤다. 동정호를 책임지고 있는 곽 군관이 쩔쩔매며 존댓말을 사용하는 모습을."
+    },
+    {
+      "confidence": 1.0,
+      "current": "That was when Cheongpung’s voice rang out again.",
+      "defect": "The draft invents another utterance from Cheongpung immediately before Jin Taekyung emerges from the water. No voice or speech occurs here in the source.",
+      "id": "F02",
+      "rationale": "The source only marks the moment when the subsequent splash and landing occur.",
+      "replacement": "That was when it happened.",
+      "severity": "critical",
+      "source": "그렇게 늙은 사공이 아무도 모르게 신령을 향한 기도를 올리고 있던 그때였다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "A beautiful silver hairpin held his strangely well-matched, disheveled hair in place.",
+      "defect": "The modifier is attached to the hair, making the disheveled hair “well-matched.” In the source, the silver hairpin is what suits him strangely well.",
+      "id": "F03",
+      "rationale": "묘하게 잘 어울리는 describes the hairpin’s unexpectedly fitting appearance.",
+      "replacement": "A beautiful silver hairpin that suited him strangely well held his disheveled hair in place.",
+      "severity": "minor",
+      "source": "그리고 묘하게 잘 어울리는, 헝클어진 머리를 고정한 아름다운 은비녀."
+    },
+    {
+      "confidence": 0.94,
+      "current": "“You’re back.”",
+      "defect": "The casual contraction removes Hyuk Mujin’s deferential register toward his superior.",
+      "id": "F04",
+      "rationale": "오셨습니까 uses honorific and formal-deferential speech; the replacement preserves respectful distance without adding an address absent from the source.",
+      "replacement": "“Welcome back.”",
+      "severity": "major",
+      "source": "“오셨습니까.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Did you find anything this time, too?”",
+      "defect": "The question reverses the implied result. The boatman is cautiously asking whether this search also yielded nothing, as confirmed by the immediately following explanation of Taekyung’s dark expression.",
+      "id": "F05",
+      "rationale": "이번에도 elliptically refers to another unsuccessful search, not another discovery.",
+      "replacement": "“Nothing this time either?”",
+      "severity": "critical",
+      "source": "“혹시 이번에도?”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“If we continue at the pace we’ve kept so far, about fifteen minutes should be enough. But…”",
+      "defect": "The draft halves the stated travel time. 한 식경 is approximately the time required to eat a meal, conventionally about thirty minutes, not fifteen.",
+      "id": "F06",
+      "rationale": "The source specifies one sikgyeong; fifteen minutes corresponds more closely to one gak.",
+      "replacement": "“If we continue at the pace we’ve kept so far, about half an hour should be enough. But…”",
+      "severity": "critical",
+      "source": "“지금까지 왔던 방식으로 간다면 한 식경 정도면 충분합니다. 한데…….”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "At Hyuk Mujin’s weighty voice, the boatman slowly turned the ferryboat around.",
+      "defect": "“Turned the ferryboat around” states that he reversed direction. The source only says he began changing or setting its course toward the final destination.",
+      "id": "F07",
+      "rationale": "배의 방향을 틀다 means to change the boat’s direction and does not specify a 180-degree reversal.",
+      "replacement": "At Hyuk Mujin’s weighty voice, the boatman slowly began adjusting the ferryboat’s course.",
+      "severity": "critical",
+      "source": "혁무진의 묵직한 음성에 사공은 천천히 배의 방향을 틀기 시작했다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Deep enough that no one would want to enter it.",
+      "defect": "The draft generalizes Mungyeong’s personal reluctance into a claim about everyone, losing the characterization that even this exceptionally capable master does not want to enter the water.",
+      "id": "F08",
+      "rationale": "The omitted subject is Mungyeong, whose internal viewpoint continues directly into his resigned thought that he has no choice.",
+      "replacement": "Deep enough that even he had no desire to enter it.",
+      "severity": "major",
+      "source": "도저히 들어가고 싶지 않을 만큼."
+    },
+    {
+      "confidence": 0.98,
+      "current": "*All right, you old fool.*",
+      "defect": "“Old fool” invents a judgment about the disciple’s intelligence and converts the mildly chiding, familiar 이 녀석아 into a harsher insult.",
+      "id": "F09",
+      "rationale": "이 녀석아 is a familiar rebuke or affectionate scolding; the disciple’s age comes from the preceding narration and is not part of this address.",
+      "replacement": "*All right, you rascal.*",
+      "severity": "major",
+      "source": "‘알았다. 이 녀석아.’"
+    }
+  ],
+  "summary": "Several actionable fidelity issues alter actions, quantity, hierarchy, viewpoint, or characterization.",
+  "version": 1
+}

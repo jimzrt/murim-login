@@ -1,21 +1,22 @@
 # Translation State
 
-- Last completed: 461
-- Next chapter: 462
-- Current block: 460–464 (2/5)
-- Latest translation: `translations/0461.md`
-- Latest summary: `summaries/beats/0461.md`
-- Safe profiles through: chapter 461
+- Last completed: 462
+- Next chapter: 463
+- Current block: 460–464 (3/5)
+- Latest translation: `translations/0462.md`
+- Latest summary: `summaries/beats/0462.md`
+- Safe profiles through: chapter 462
 
 ## Current Block
 
-- Taekyung, Cheongpung, Gung Gibang, Hyuk Mujin, and an old boatman reach the first of five locations identified as a possible Dongting Fisherman refuge by using palm force and the Eighteen Dragon-Subduing Palms to propel the ferryboat through violent currents and destroy blocking reefs. They begin searching the cliffs, river, and surrounding area, while Taekyung decides to investigate underwater despite lacking water arts. The Water Rescue Worker Title activates, granting him webbing, gills, improved underwater movement and vision, and air from water; his Fire Gate Clan martial arts suffer a twenty-percent underwater power reduction.
+- Taekyung, Cheongpung, Hyuk Mujin, and Gung Gibang search the fourth of five suspected Dongting Fisherman refuges with an old boatman but find nothing; worsening weather and rapids force a decision about the final, deepest site, which Taekyung insists they reach that day. He intends to capture the Dongting Fisherman alive so the prisoner can lead them to Dark Heaven's larger organization.
+- At Donghu Stronghold, Zhuge Clan and Wudang forces have spent two days searching the cliffs and settlement for Dark Heaven traces without finding human signs or remnants of a Moving Formation. Mungyeong independently confirms the search is negative, realizes only the deep river remains unexplored, and dives in to search it.
 
 ## Open Questions
 
 - What are the origin and purpose of the symbols shared by the Arch Lich's magic circle and Dark Heaven's formations?
 - Who destroyed Donghu Stronghold and the related Yangtze River Channel League strongholds, why was no Moving Formation trace left, and was the destruction a diversion?
-- What is the Dongting Fisherman's exact role in Dark Heaven and the Hubei atrocities, is he the Hidden Shadow Ghost, and which of the five suspected sites contains his refuge?
+- What is the Dongting Fisherman's exact role in Dark Heaven, is he the Hidden Shadow Ghost, and does the final suspected site contain his refuge?
 - Is the killer demon attacking Wudang connected to Dark Heaven?
 - What evidence is contained in Lee Jungryong's holographic recorder, and what are the terms of the Peace Guild–Wizard Guild agreement?
 
