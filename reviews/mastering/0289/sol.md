@@ -2,11 +2,11 @@
 
 “Pardon?”
 
-Team Leader Choi looked more violently shaken than I had ever seen him before.
+Team Leader Choi looked more shaken than I had ever seen him.
 
-Even Butler Kim, who at least looked calm, wasn’t much different.
+Even Butler Kim, who at least appeared calm, wasn’t much better.
 
-Lingering anger and bewilderment. And questions about what I had said.
+The lingering anger and bewilderment. Their uncertainty over what I had said.
 
 *I didn’t know they could make faces like that.*
 
@@ -30,9 +30,9 @@ Team Leader Choi’s voice was quiet and steady. He had reined in his initial em
 
 “Unfortunately, the Young Master is right.”
 
-Team Leader Choi and Butler Kim fell silent after that.
+Team Leader Choi and Butler Kim fell silent.
 
-One was the maternal grandson of Cheon Taemin, Guild Master of Ares Guild. The other was a core member who had served Cheon Taemin for many years.
+One was the maternal grandson of Cheon Taemin, Guild Master of Ares Guild. The other was a key retainer who had served Cheon Taemin for many years.
 
 Given their positions, they must have seen and experienced a great deal firsthand. Their blood might have been boiling, but their cool heads had already calculated the answer.
 
@@ -46,7 +46,7 @@ I looked into his eyes, which already said the matter was settled.
 
 “Of course.”
 
-“What did you say back then?”
+“What did you say?”
 
 After a moment’s hesitation, Team Leader Choi parted his lips.
 
@@ -56,7 +56,7 @@ After a moment’s hesitation, Team Leader Choi parted his lips.
 
 “You always bring back the best possible result.”
 
-“You said you trusted me more than you trusted yourself, Team Leader. Did you only say that because it sounded nice?”
+“You said you trusted me more than you trusted yourself. Did you only say that because it sounded nice?”
 
 “Absolutely not.”
 
@@ -70,7 +70,7 @@ Light seeped into Team Leader Choi’s eyes as he sensed the sincerity behind my
 
 Hope.
 
-Hope was like a spark. It could flare up or die out in an instant. You had to fan it before it went out.
+Hope was like an ember. It could flare up or die out in an instant. You had to fan it before it went cold.
 
 “Since we’re on the subject, let me ask you something. If I leave the Guild now, will you give up too? I suppose shutting down the Guild, retiring, and farming with Butler Kim wouldn’t be so bad. Lee Jungryong might even supply the fertilizer.”
 
@@ -86,9 +86,9 @@ Ignoring Butler Kim’s attempt to stop me, I continued.
 
 He remained silent. No answer came.
 
-But the spark in his eyes was still alive.
+But the ember in his eyes was still alive.
 
-Before long, a hoarse voice slipped between his lips.
+Before long, a hoarse voice slipped from between his lips.
 
 “Ares Guild is an empire. An empire so powerful that even the ten largest Guilds in Korea couldn’t stand against it if they joined forces.”
 
@@ -118,13 +118,13 @@ I was happy to give him the answer he wanted.
 
 “……!”
 
-“The process of your calculations was accurate. Except for one thing.”
+“Your calculations were accurate, except for one thing.”
 
 I slowly raised a finger and pointed at my chest.
 
 “Me.”
 
-At that moment, Team Leader Choi’s eyes shook. I could feel the spark in them beginning to fade.
+At that moment, Team Leader Choi’s eyes trembled. I could feel the ember inside them beginning to fade.
 
 Disappointment, not hope, filled the void it left behind.
 
@@ -138,7 +138,7 @@ He had weighed Peace Guild against Ares Guild with a cool head, and I must have 
 
 “Everything you’ve shown us until now has been astonishing. No, almost miraculous.”
 
-I already knew what words would follow his fading voice.
+I already knew what would follow his fading voice.
 
 “But I’m still not enough?”
 
@@ -152,11 +152,11 @@ The way he emphasized *officially* implied that they had even more strength hidd
 
 I had heard the rumors before, but hearing it directly from Team Leader Choi made the true scale of Ares Guild’s power sink in.
 
-No matter how strong I was, in the end, I was still only one pair of hands. Team Leader Choi’s judgment was cold and clear.
+No matter how strong I was, I was still only one man. Team Leader Choi’s judgment was cold and clear.
 
 But…
 
-“If that’s how you’re calculating it, you’ll have to run the numbers again.”
+“If that’s how you calculated it, you’ll have to run the numbers again.”
 
 “Pardon?”
 
@@ -170,7 +170,7 @@ I had hunted a Named Monster alone, crushed nearly thirty Black Hunters, and con
 
 Leaving everyone frozen like statues, I fixed my gaze on Team Leader Choi.
 
-“I feel like I’ve told you this repeatedly. I’m a man with more secrets than you think.”
+“I’m pretty sure I’ve told you this repeatedly. I’m a man with far more secrets than you think.”
 
 Murim was Murim, and the modern world was the modern world.
 
@@ -184,7 +184,7 @@ Perhaps this was the fate that came with the power I had been given. If so, it w
 
 To protect the things precious to me from my enemies, I had to become stronger.
 
-“So, what are you going to do now?”
+“So, what are you going to do?”
 
 Team Leader Choi still stared at me in disbelief.
 
@@ -198,11 +198,11 @@ Team Leader Choi still stared at me in disbelief.
 
 “Far more dangerous than anything you’ve faced until now.”
 
-“Nothing to compare it to, my ass. You just don’t know it. This side is already hell…”
+“Far more dangerous, my ass. You just don’t know it. This side is already hell…”
 
-He seemed to have taken my words as a joke.
+He seemed to take my words as a joke.
 
-I watched Team Leader Choi as he finally let out a quiet laugh.
+I quietly watched Team Leader Choi finally let out a short laugh.
 
 “Team Leader.”
 
@@ -230,7 +230,7 @@ That was why he had tried to send us away despite wanting us to stay. He was afr
 
 Team Leader Choi offered a fleeting smile before turning toward the others.
 
-Butler Kim, his devoted retainer and someone practically no different from family, spoke first.
+Butler Kim—his devoted retainer and someone practically family—spoke first.
 
 “I trust you already know my answer.”
 
@@ -256,13 +256,13 @@ When I stared at her in disbelief, she shrugged.
 
 “Do you want me to leave?”
 
-“Now, now. Absolutely not.”
+“Hey, absolutely not.”
 
 “Do you know why I transferred from Ares Guild to Peace Guild? Why I followed Team Leader Choi even with everyone trying to keep him down?”
 
 “How would I know?”
 
-“Because Team Leader Choi promised me double my salary.”
+“Because he promised to double my salary.”
 
 “……”
 
@@ -270,7 +270,7 @@ When I stared at her in disbelief, she shrugged.
 
 She spoke as though it were nothing, but this was only her roundabout way of saying she wanted to stay with us too. Everyone knew the frugal Song Song had already amassed a small fortune.
 
-“And, well, you seem to have a plan too, so I’ll trust you for now. It’s hard to find a superior as capable and handsome as Team Leader Choi.”
+“Besides, you seem to have a plan, so I’ll trust you for now. It isn’t easy to find a superior as capable and handsome as Team Leader Choi.”
 
 And just like that, Song Song’s decision to stay was settled. Everyone’s gaze, including mine, shifted toward the last person.
 
@@ -284,7 +284,7 @@ He didn’t answer when I called him. Only after a long silence did he finally s
 
 “Even though I’m only a D-rank Hunter?”
 
-“People associated with D are the real protagonists, after all. Why not legally change your name while you’re at it? Im D. Kkeokjeong. How does that sound?”
+“People with D in their names are always the real protagonists. Why not legally change yours while you’re at it? Im D. Kkeokjeong. What do you think?”
 
 Im Kkeokjeong burst out laughing, then looked Team Leader Choi straight in the eye.
 
@@ -300,7 +300,7 @@ Im Kkeokjeong burst out laughing, then looked Team Leader Choi straight in the e
 
 “Your family?”
 
-He was a woman’s husband and the father of two children.
+He was a husband and the father of two children.
 
 But Im Kkeokjeong calmly shook his head.
 
@@ -310,17 +310,17 @@ But Im Kkeokjeong calmly shook his head.
 
 “I love this work. I spent twenty years going in and out of Gates not merely to earn a living, but because I felt a sense of duty as a Hunter. But…”
 
-Im Kkeokjeong bit down hard on his lip. His gaze remained fixed on his own two arms, wrapped in bandages.
+Im Kkeokjeong bit down hard on his lip. His gaze remained fixed on his bandaged arms.
 
 “Can I recover?”
 
-“You can. Absolutely.”
+“You can. You will.”
 
 A faint smile spread across Im Kkeokjeong’s lips.
 
 “Then I’m coming too. I can’t abandon a Hunter’s duty over something like this.”
 
-Something churned deep in my chest at the sight.
+Something stirred deep in my chest at the sight.
 
 People dismissed him as a low-rank Hunter in name only, but Im Kkeokjeong was one of the few true Hunters left in this age.
 
@@ -328,7 +328,7 @@ People dismissed him as a low-rank Hunter in name only, but Im Kkeokjeong was on
 
 All right. Strike while the iron was hot.
 
-Having made up my mind, I opened my Skill window for the first time in a long while.
+Having made up my mind, I opened my Skill Window for the first time in ages.
 
 There, among the densely packed entries in the holographic window, I found what I wanted.
 

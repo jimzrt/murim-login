@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "*I didn’t know they could make faces like that.*",
+      "defect": "Lost specificity of 'faces' vs. baseline's 'expressions'; baseline 'expressions' matches Korean '표정' better.",
+      "id": "F01",
+      "rationale": "'표정' literally refers to facial expressions; 'expressions' is the established choice preserving the tone and meaning precisely.",
+      "replacement": "*I didn’t know they could make expressions like that.*",
+      "severity": "minor",
+      "source": "Paragraph 6"
+    },
+    {
+      "confidence": 0.9,
+      "current": "For once, they seemed human—just like me.",
+      "defect": "Slighter wording shift losing the baseline's nuance 'they looked like ordinary people just like me.'",
+      "id": "F02",
+      "rationale": "Baseline better conveys the shift from usual composed to relatable human vulnerability.",
+      "replacement": "For once, they looked like ordinary people just like me.",
+      "severity": "minor",
+      "source": "Paragraph 7-8"
+    }
+  ],
+  "summary": "Faithful English translation with minor terminology and consistency notes.",
+  "version": 1
+}

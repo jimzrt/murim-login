@@ -1,0 +1,45 @@
+{
+  "summary": "Faithful English translation with minor terminology and consistency notes.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Paragraph 6",
+      "current": "*I didn’t know they could make faces like that.*",
+      "defect": "Lost specificity of 'faces' vs. baseline's 'expressions'; baseline 'expressions' matches Korean '표정' better.",
+      "replacement": "*I didn’t know they could make expressions like that.*",
+      "rationale": "'표정' literally refers to facial expressions; 'expressions' is the established choice preserving the tone and meaning precisely.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Paragraph 7-8",
+      "current": "For once, they seemed human—just like me.",
+      "defect": "Slighter wording shift losing the baseline's nuance 'they looked like ordinary people just like me.'",
+      "replacement": "For once, they looked like ordinary people just like me.",
+      "rationale": "Baseline better conveys the shift from usual composed to relatable human vulnerability.",
+      "confidence": 0.9
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Paragraph 47",
+      "current": "\"Good grief. We’ll have to work hard if we want to catch up with them.\"",
+      "defect": "Tone shift from baseline's 'Well, looks like we’ll have to work hard to catch up with those guys.'",
+      "replacement": "Well, looks like we’ll have to work hard to catch up with those guys.",
+      "rationale": "Baseline tone more casual, matching Korean nuance and character voice better.",
+      "confidence": 0.8
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Terminology and names",
+      "current": "Myeongdong Guild spelled as 'Myeongdong' in the baseline but no footnote or glossary in assembled English.",
+      "defect": "Missing footnote or established English form for '명동' (Myeongdong), recommended for clarity and consistency.",
+      "replacement": "Add footnote explaining 'Myeongdong' as a district name or establish glossary entry.",
+      "rationale": "Ensures place names are clear for English readers and respects translation rules on first use.",
+      "confidence": 1.0
+    }
+  ]
+}
