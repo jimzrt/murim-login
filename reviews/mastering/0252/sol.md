@@ -50,7 +50,7 @@ The enormous old man, the Thunderbolt Saber King, pretended not to hear and star
 
 “Oh, come now. Why are you so angry?”
 
-Jeok Cheongang responded slyly, widening his eyes in feigned surprise.
+Jeok Cheongang widened his eyes in feigned surprise.
 
 “Is it because that eldest grandson of yours—the one you praised until your mouth went dry, calling him the greatest prodigy in Hebei or whatever—spent fifteen minutes getting beaten by my disciple?”
 
@@ -58,7 +58,7 @@ Jeok Cheongang responded slyly, widening his eyes in feigned surprise.
 
 “Good grief. Haven’t you heard that victory and defeat are simply part of war? Why get so worked up over it?”
 
-Only then did the Thunderbolt Saber King, who had been snorting furiously, slowly turn his gaze toward Jeok Cheongang.
+Only then did the Thunderbolt Saber King, who had been snorting furiously, slowly turn toward Jeok Cheongang.
 
 “Th-That’s right. Sometimes you win, and sometimes you lose.”
 
@@ -76,7 +76,7 @@ Jeok Cheongang smiled kindly and nodded.
 
 “Y-You damned old bastard!”
 
-“Hm? What was that? I can’t hear you very well. You’re the Grand Family Head of the Hebei Peng Family who was eliminated in the quarterfinals, after all. Hahahaha!”
+“Hm? What was that? I can’t hear you very well over the voice of the Hebei Peng Family’s Grand Family Head, who was eliminated in the quarterfinals. Hahahaha!”
 
 The Thunderbolt Saber King’s eyes rolled back as he started to surge to his feet.
 
@@ -86,7 +86,7 @@ The Dharma King, Hong Dao, sighed as he looked at the two men.
 
 “Amitabha. The two of you should act your age. Have you forgotten where you are?”
 
-This was the dueling arena of the Star-Array Grand Banquet, with thousands upon thousands of spectators watching.
+This was the dueling arena of the Star-Array Grand Banquet, surrounded by thousands upon thousands of spectators.
 
 Only then did the Thunderbolt Saber King notice all the curious gazes directed toward the seats of honor. He lowered himself back into his seat.
 
@@ -118,7 +118,7 @@ Had he said he had a year left at most? Hong Dao could no longer read the heaven
 
 No matter how high Jin Taekyung’s victories lifted his spirits, thoughts of Hong Dao soon weighed them down again.
 
-Just as they were now.
+Just as they had now.
 
 Sensing the change in Jeok Cheongang’s mood, Hong Dao suddenly spoke.
 
@@ -132,13 +132,13 @@ The Sect Leaders in the seats of honor nodded.
 
 “The Sleeping Dragon of Shanxi goes without saying…”
 
-At the mention of Jin Taekyung, the muscles in Jin Wikyung’s face twitched from his seat at the lower end of the table.
+At the mention of Jin Taekyung, the muscles in Jin Wikyung’s face twitched from his seat at the far end.
 
 He remained silent only because he still lacked the age and standing in the martial world to speak freely among those present. Given the chance, he would have leaped to his feet and danced for joy long ago.
 
 The Sect Leaders looked at him with undisguised envy as they continued.
 
-“But the most unexpected upsets were the Life-Sustaining Sword—or rather, the Always-Victorious Sword—and the Invincible Divine Sword.”
+“But the greatest surprises have been the Life-Sustaining Sword—or rather, the Always-Victorious Sword—and the Invincible Divine Sword.”
 
 “Ah, yes. Those two surprised me the most as well.”
 
@@ -146,21 +146,21 @@ What kind of place was the Star-Array Grand Banquet?
 
 It was a gathering attended by countless young, renowned martial artists from every corner of the world.
 
-Yet the Always-Victorious Sword and the Invincible Divine Sword were not disciples of any famous major sect, nor had either of them ever made a name for themselves.
+Yet neither the Always-Victorious Sword nor the Invincible Divine Sword belonged to a famous major sect, and neither had ever made a name for himself.
 
 That they still remained in the bracket was even more surprising than Jin Taekyung’s advancement. After all, Taekyung was both the Fire King’s disciple and a member of the Jin Family of Taiyuan.
 
 “The Invincible Divine Sword is particularly impressive. He seems capable of holding his own against even an Elder of our sect.”
 
-At the words of one of the Sect Leaders from a mid-sized sect, Jeok Cheongang, who had been quietly listening, suddenly spoke.
+At the comment from the leader of a mid-sized sect, Jeok Cheongang suddenly cut in.
 
 “Keep your mouth shut. At least then you might pass for average.”
 
 “……Excuse me?”
 
-“I don’t know what sect you belong to or who you are, but that child is already far beyond the level of a young prodigy. Are you truly unable to guess, or are you pretending not to know even though you do?”
+“I don’t know who you are or what sect you belong to, but that child is already far beyond the level of a young prodigy. Can you truly not tell, or are you pretending not to know?”
 
-Hong Dao and the Thunderbolt Saber King also chuckled in agreement.
+Hong Dao and the Thunderbolt Saber King chuckled in agreement.
 
 “Benefactor Jeok’s words are harsh, but he is right.”
 
@@ -198,7 +198,7 @@ No one properly heard what followed. Not a single person present was unaware tha
 
 *The Invincible Divine Sword is the Sword Saint’s disciple?*
 
-As the people around him were swept up in shock, the Heavenly Sword True Person merely smiled in silence.
+As everyone around him reeled in shock, the Heavenly Sword True Person merely smiled.
 
 He looked like a Daoist who had attained enlightenment.
 
@@ -236,13 +236,13 @@ Hong Dao quietly rolled his prayer beads.
 
 —That’s right. Him.
 
-The Star-Array Grand Banquet was a gathering of the martial world where anyone could participate regardless of background or affiliation. As a result, participants did not have to undergo a particularly detailed verification process before applying.
+The Star-Array Grand Banquet was a celebration of Murim where anyone could participate regardless of background or affiliation. As such, applicants did not appear to undergo any particularly detailed verification process.
 
 But that was only how things looked from the outside.
 
 —I mobilized the Hidden Shadow Pavilion to investigate the identities of every participant who advanced to the main event.
 
-A year ago, when Hong Dao first sensed the existence of Dark Heaven, the first person he sought out was the Thousand-Faced Fox, Song Ho.
+A year ago, when Hong Dao first discovered the existence of Dark Heaven, the first person he sought out was the Thousand-Faced Fox, Song Ho.
 
 After hearing the circumstances, Song Ho summoned his former subordinates without hesitation. Thus, the Hidden Shadow Pavilion, which had been reduced to little more than a name, was reborn.
 
@@ -254,17 +254,17 @@ After hearing the circumstances, Song Ho summoned his former subordinates withou
 
 —It was only a suspicion—until we lost contact with Shadow Killer three days ago.
 
-—Shadow Killer? You mean someone got to him?
+—Shadow Killer? You mean he was taken down?
 
 Shadow Killer was extraordinary enough that even Jeok Cheongang knew of him.
 
 He was the Hidden Shadow Pavilion’s finest intelligence agent, as well as an assassin who had reached the Supreme Peak.
 
-It was not difficult to imagine Shadow Killer as a cold corpse by now.
+If all contact with him had been lost, it was not difficult to imagine him as a cold corpse by now.
 
 —What do you think? Can you identify Jongni Chu’s martial arts?
 
-Hong Dao’s Sound Transmission caused Jeok Cheongang’s gaze to deepen.
+At Hong Dao’s question, Jeok Cheongang’s gaze deepened.
 
 —I don’t know either. In fact, that is the greatest mystery.
 
@@ -282,13 +282,13 @@ But the martial arts Jongni Chu displayed were utterly unfamiliar to him.
 
 Jeok Cheongang’s face hardened.
 
-Decades ago, saying that something defied common principles meant only one thing.
+Decades ago, something that defied common principles had meant only one thing.
 
 *The Demonic Path!*
 
-At the same time, the same word crossed both men’s minds.
+The same words crossed both men’s minds at once.
 
-Hong Dao and Jeok Cheongang had lived through an age of war. They understood its meaning better than anyone.
+Hong Dao and Jeok Cheongang had lived through an age of war. They understood what those words meant better than anyone.
 
 —Then are you saying he is a descendant of the Demonic Cult?
 
@@ -330,4 +330,4 @@ And my opponent there would probably be Cheongpung.
 
 *Let’s see what you can do.*
 
-At the same moment my eyes began to shine, the flag signaling the start of the duel rose.
+My eyes sharpened just as the flag signaling the start of the duel rose.
