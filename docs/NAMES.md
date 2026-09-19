@@ -1546,3 +1546,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 초인 | **superhuman** | A being who has surpassed ordinary human limits. |
 | 장강수로채 | **Yangtze River Channel League** | River-bandit organization whose dead Taekyung recalls during the duel. |
 | 호북성 | **Hubei Province** | Province where the chapter’s Dark Heaven incidents occurred. |
+| 일위도강 | **Single Reed Crossing the River** | A legendary river-crossing technique associated with Bodhidharma. |
+| 장제자 | **Senior Disciple** | The Seafaring King's designated successor. |
+| 찍먹형 | **dip-and-taste punishment** | Mu Song's joking threat against sailors who slack off. |
+| 변이된 수신룡 | **Mutated Water God Dragon** | Creature identified by the System at the chapter's end. |
