@@ -1,6 +1,6 @@
 # Go Jun (고준)
 
-- **Safe through:** Chapter 431
+- **Safe through:** Chapter 432
 - **Aliases:** Team Leader Seok
 - **Role:** Leader of Lee Jungryong's security team, an Ares Guild combatant, and Lee's disciple and right-hand man who remains alive after Jin Taekyung grievously mutilated him.
 - **Personality:** Highly disciplined, fiercely loyal to Lee Jungryong, confident in his abilities, and capable of suppressing his anger and killing intent under provocation.

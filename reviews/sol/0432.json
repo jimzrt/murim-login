@@ -1,0 +1,126 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Two S-rank Hunters—men who were practically the faces of their country—had died in a major incident. One of them had even been a comrade who had once fought alongside Magic Johnson on the same battlefield.",
+      "defect": "The singular “their country” implies that both Hunters represented the same country, although they were prominent figures of their respective nations.",
+      "id": "F01",
+      "rationale": "한 나라의 얼굴이나 다름없는 characterizes each Hunter as effectively the face of a nation, not both as faces of one shared country.",
+      "replacement": "It was a major incident in which two S-rank Hunters—each practically the face of his own country—had died. One of them had even been a comrade who had once fought alongside Magic Johnson on the same battlefield.",
+      "severity": "major",
+      "source": "한 나라의 얼굴이나 다름없는 S급 헌터가 둘이나 죽은 대사건, 심지어 그중 한 사람은 한때 매직 존슨과 같은 전장에서 싸웠던 전우이기도 했다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“It seems I went to a lot of trouble for nothing.”",
+      "defect": "The draft frames Johnson’s regret as wasted effort rather than regret over having followed Jin and learned an uncomfortable truth.",
+      "id": "F02",
+      "rationale": "괜한 짓을 하다 means doing something unnecessary or ill-advised; here it specifically refers to Johnson’s decision to follow Jin.",
+      "replacement": "“Looks like I shouldn’t have followed you.”",
+      "severity": "major",
+      "source": "「괜한 짓을 한 모양이야.」"
+    },
+    {
+      "confidence": 0.99,
+      "current": "For Magic Johnson, this place was one of those times.",
+      "defect": "The sentence mismatches “place” with “times” and obscures that the truth confronting Johnson is what feels uncomfortable.",
+      "id": "F03",
+      "rationale": "이 자리 refers to Johnson’s present situation and confrontation with the truth, not literally to a place categorized as a time.",
+      "replacement": "For Magic Johnson, this must have been one of those uncomfortable truths.",
+      "severity": "minor",
+      "source": "바로 지금 이 자리가 매직 존슨에게는 그럴 것이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Everything that happened in the world was connected by invisible chains. If I didn’t want to fall one after another like dominoes, I had to prepare.",
+      "defect": "The draft incorrectly makes Jin himself the series of things that might fall like dominoes. The source refers to preventing interconnected events or circumstances from collapsing in succession.",
+      "id": "F04",
+      "rationale": "The omitted subject of 쓰러지다 follows the preceding reference to all events in the world; the singular narrator cannot logically fall “one after another.”",
+      "replacement": "Everything that happened in the world was connected by invisible links. To keep everything from toppling one after another like dominoes, I had to prepare.",
+      "severity": "major",
+      "source": "세상에서 벌어지는 모든 일은 보이지 않는 고리로 연결되어 있다. 도미노처럼 줄줄이 쓰러지지 않으려면 준비해야 한다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "It was a single word that meant he accepted.",
+      "defect": "Johnson’s preceding response is a full remark, not a single word.",
+      "id": "F05",
+      "rationale": "한마디 denotes an utterance or remark here rather than literally one word.",
+      "replacement": "That single remark signaled his acceptance.",
+      "severity": "minor",
+      "source": "승낙을 뜻하는 한마디."
+    },
+    {
+      "confidence": 0.99,
+      "current": "That caught my attention.",
+      "defect": "The generic phrasing drops the comic, embodied cue that Jin’s ears immediately perk up at the prospect of erasing Go Jun’s memory.",
+      "id": "F06",
+      "rationale": "귀가 번쩍 뜨이다 is a vivid idiom indicating sudden, eager interest, which matters to the comedic beat.",
+      "replacement": "My ears perked right up.",
+      "severity": "minor",
+      "source": "귀가 번쩍 뜨이는 말이다."
+    },
+    {
+      "confidence": 0.93,
+      "current": "“It would obviously be difficult, but it isn’t impossible. Still, the stronger the target’s mental fortitude and the more memories you have to alter, the harder it becomes.”",
+      "defect": "The draft reduces 기억의 정도 to the number of memories, changing the stated mechanism from the extent or degree of the required alteration to a simple count.",
+      "id": "F07",
+      "rationale": "정도 denotes degree or extent; it does not specifically state that difficulty depends on the numerical quantity of memories.",
+      "replacement": "“It would obviously be difficult, but it isn’t impossible. Still, the stronger the target’s mental fortitude and the more extensive the memories you have to alter, the harder it becomes.”",
+      "severity": "major",
+      "source": "「당연히 어렵겠지만 불가능하지는 않아. 다만 대상이 강한 정신력을 지니고 있고, 조작해야 하는 기억의 정도에 따라 더 어려워지겠지.」"
+    },
+    {
+      "confidence": 1.0,
+      "current": "After gathering my energy, I slowly swept my gaze across their corpse-pale faces before suddenly thrusting out a hand.",
+      "defect": "The draft reverses Jin’s action: he reins his qi back in after releasing his killing intent, rather than gathering or building up more energy.",
+      "id": "F08",
+      "rationale": "갈무리하다 means to collect and contain or rein in what has been released; the surrounding action confirms that Jin is withdrawing his projected force.",
+      "replacement": "After reining in my qi, I slowly swept my gaze across their corpse-pale faces before suddenly thrusting out a hand.",
+      "severity": "critical",
+      "source": "기운을 갈무리한 나는 시체처럼 창백해진 세 놈의 얼굴을 천천히 쓸어보다 불쑥 손을 뻗었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Your brain may be terrible, but how can you be so sinister and cunning?”\n\n“……You son of a bitch.”\n\nHe wasn’t wrong, but it pissed me off.",
+      "defect": "“Your brain may be terrible” is an unnatural euphemism for calling Jin stupid, while the narration weakens the emphatic profanity in 개빡치네 and blunts the punchline.",
+      "id": "F09",
+      "rationale": "머리는 나쁘다 directly insults Jin’s intelligence, and 개빡치네 is strongly profane rather than the milder “it pissed me off.”",
+      "replacement": "“You’re an idiot, so how are you this devious and cunning?!”\n\n“……You son of a bitch.”\n\nHe wasn’t wrong, but it pissed me the fuck off.",
+      "severity": "major",
+      "source": "- 머리는 나쁜데, 어찌 이리도 음습하고 교활할 수가!\n\n“……아니, 이 새끼가.”\n\n맞는 말이긴 한데 개빡치네."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Magic Gems were the essential driving force of the most advanced civilization in the world.",
+      "defect": "The draft invents a worldwide superlative and treats “civilization” as one uniquely most advanced society rather than referring to contemporary cutting-edge civilization and technology.",
+      "id": "F10",
+      "rationale": "최첨단 means cutting-edge or state-of-the-art; it does not mean “the most advanced civilization in the world.”",
+      "replacement": "Magic Gems were now an essential power source for cutting-edge civilization.",
+      "severity": "minor",
+      "source": "현재의 마정석은 최첨단 문명의 필수 원동력."
+    },
+    {
+      "confidence": 0.98,
+      "current": "[^1]: *Jeongwan yewu* refers to the preferential treatment and influence former high-ranking government officials may receive when they become lawyers, especially through their old connections.",
+      "defect": "The footnote defines the practice too broadly as applying to former high-ranking government officials in general, obscuring its specific association with former judges and prosecutors receiving preferential treatment in legal proceedings.",
+      "id": "F11",
+      "rationale": "The joke specifically invokes a former chief prosecutor benefiting from the Korean legal convention known as 전관예우.",
+      "replacement": "[^1]: *Jeongwan yewu* is the unofficial preferential treatment often afforded to lawyers who formerly served as judges or prosecutors, particularly through their old professional connections.",
+      "severity": "minor",
+      "source": "「전콴예후? 그게 뭔데.」"
+    },
+    {
+      "confidence": 0.97,
+      "current": "If the truth—that he was Cheon Taemin’s blood relative—were made public as well, the media would descend into chaos.",
+      "defect": "“Descend into chaos” unnaturally suggests institutional breakdown rather than the burst of excited media attention described by the source.",
+      "id": "F12",
+      "rationale": "한바탕 난리를 피우다 means making a tremendous fuss or going into a frenzy, while 핏줄 emphasizes blood lineage.",
+      "replacement": "If the truth—that he was Cheon Taemin’s own flesh and blood—were made public as well, the media would undoubtedly go into a frenzy.",
+      "severity": "minor",
+      "source": "바로 그 천태민의 핏줄이라는 것까지 공개된다면 언론은 한바탕 난리를 피울 것이 분명하다."
+    }
+  ],
+  "summary": "The draft contains one reversed physical action, several altered causal or pragmatic details, and localized register and terminology issues.",
+  "version": 1
+}
