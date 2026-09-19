@@ -40,7 +40,7 @@ The Skeleton Warlord, now forced to offer up his subordinates as EXP, muttered s
 
 > - Ah, my soldiers. Forgive your disloyal commander. To fall prey to the schemes of a wicked human and be erased before you could demonstrate your true strength…
 
-I was about to swing my spear at the next one when I suddenly stopped.
+I was about to swing my spear at the next one when I stopped.
 
 “What did you just say?”
 
@@ -74,7 +74,7 @@ I beamed and stroked the Warlord’s skull.
 
 “Use it.”
 
-The Warlord asked again, sounding genuinely baffled.
+The Warlord asked, sounding genuinely baffled.
 
 > - Commander’s Rally? Why?
 
@@ -122,9 +122,9 @@ For a Skeleton, he displayed a surprisingly wide range of emotions. After a mome
 
 > - In exchange for cooperating with you, wicked human, you will guarantee my current position.
 
-“The master of the Black Forest and commander of the undead army?”
+“As master of the Black Forest and commander of the undead army?”
 
-> - Correct! In addition, cease this indiscriminate and barbaric slaughter!
+> - Correct! In addition, you will cease this indiscriminate and barbaric slaughter!
 
 “…”
 
@@ -136,7 +136,7 @@ A monster, of all things, had just told me to stop my indiscriminate and barbari
 
 > - How insulting. I am a Skeleton Warlord possessed of cool judgment and intelligence. Though I may have become one of the fallen undead, the spirit of chivalry remains engraved deep within my soul.
 
-“…If you had upheld chivalry, you wouldn’t have fallen like this in the first place.”
+“…If you’d upheld chivalry, you probably wouldn’t have fallen in the first place.”
 
 > - …The truth is, my memories of life were erased when I became undead.
 
@@ -158,7 +158,7 @@ I considered it carefully, then finally spoke.
 
 I continued as the green light in his eyes quivered with confusion.
 
-“I’m okay with the first proposal. You can be the master of the Black Forest and the commander of the army, or whatever. But…”
+“The first demand is fine. You can be the master of the Black Forest, commander of the army, whatever you want. But…”
 
 > - But?
 
@@ -170,11 +170,11 @@ I continued as the green light in his eyes quivered with confusion.
 
 > - I would rather be erased than become a human puppet!
 
-“Your wish has been received, valued customer.”
+“Your request has been received, valued customer.”
 
 Crack.
 
-The Skeleton Warlord, a crack running across the crown of his skull, answered in a solemn voice.
+A crack spread across the crown of the Skeleton Warlord’s skull. He answered in a solemn voice.
 
 > - On second thought, it is not such a bad contract.
 
@@ -192,11 +192,11 @@ The Skeleton Warlord, a crack running across the crown of his skull, answered in
 
 “…”
 
-Look at him, giving them away without holding back since he wasn’t the one being destroyed.
+Look at him handing them over without a second thought now that he wasn’t the one being erased.
 
 At this point, he wasn’t a puppet. He was a snail bride.[^1]
 
-When I stared at him with an utterly dumbfounded expression, the world’s first pro-human Named Monster, the Skeleton Warlord, hurriedly began chanting.
+When I stared at him in utter disbelief, the world’s first pro-human Named Monster hurriedly began chanting.
 
 > - Grow stronger, Skeletons, Skeletons!
 
@@ -250,11 +250,11 @@ If the winds of liberation ever swept through the Black Forest, the Skeleton ind
 
 Feeling strangely conflicted, I began collecting the loot.
 
-Skeletons were one of the most dirt-poor monster species around. Their so-called by-products were either rusty weapons that could cause tetanus or half-rotted bones.
+Skeletons were among the most penniless monsters around. Their so-called by-products consisted of rusty weapons that could give you tetanus and half-rotted bones.
 
 You could at least get beef and bone broth from a Minotaur carcass. Apparently, no matter how long you simmered Skeleton bones, all you got was the taste of a grave.
 
-“Oh, a Magic Gem and some Equipment.”
+“Oh, a Magic Gem and some armor.”
 
 At least Skeleton Knights, which appeared about as often as beans in a drought, sometimes left behind one or two Magic Gems and decent pieces of Equipment like these.
 
@@ -264,7 +264,7 @@ Of course, even that only happened once in a blue moon.
 
 Sending the Guild members away had been the right call. I got to monopolize both the EXP and the Magic Gems—the best of both worlds.
 
-As I happily pocketed a Magic Gem the size of an adult’s fist, the Warlord asked me a question.
+As I happily pocketed a Magic Gem the size of a grown man’s fist, the Warlord asked,
 
 > - Wicked human. What are you doing?
 
@@ -274,7 +274,7 @@ As I happily pocketed a Magic Gem the size of an adult’s fist, the Warlord ask
 
 “Absorb it? Don’t be ridiculous. Of course I’m going to sell it.”
 
-> - Foolish. Magic Gems are the source of power. Is it not only natural to eat them and grow stronger?
+> - Foolish. Magic Gems are the source of power. Is it not only natural to consume them and grow stronger?
 
 “That’s something monsters like you do. Humans are different.”
 
@@ -310,7 +310,7 @@ I let out a short laugh and continued.
 
 > - Why?
 
-“Stop asking questions, you question-mark murderer. That’s the established academic consensus. I’ve never heard or seen anything like that.”
+“Stop asking questions, you question-mark murderer. That’s the accepted academic consensus. No one’s ever heard of anything like that.”
 
 > - I have never heard of a human like you, either.
 
@@ -318,7 +318,7 @@ I was about to smack the Warlord’s skull when I stopped.
 
 *Wait. He has a point.*
 
-*There’s no need to be bound by common sense all the time.*
+*There’s no reason to be bound by common sense.*
 
 Wasn’t I living proof that common sense didn’t apply to everything?
 
@@ -336,7 +336,7 @@ Their private league had remained unchanged both before and after the appearance
 
 *Should I give it a try?*
 
-Just as I was about to open my Inventory and take out another Magic Gem, the Warlord spoke.
+Just as I opened my Inventory to take the Magic Gem back out, the Warlord spoke.
 
 > - Heh heh. You look as though you have just been struck. Wicked and foolish human.
 
@@ -348,7 +348,7 @@ Just as I was about to open my Inventory and take out another Magic Gem, the War
 
 Having escaped Erasure by observing the universal three-second rule, the Skeleton Warlord muttered,
 
-> - There is no greater humiliation. Consider yourself fortunate that I have not grown stronger, human.
+> - What humiliation. Count yourself fortunate that I did not grow any stronger, human.
 
 “You started as a Skeleton Knight and became master of the Black Forest through a coup. I’d say you’ve risen pretty far.”
 
@@ -356,43 +356,43 @@ Having escaped Erasure by observing the universal three-second rule, the Skeleto
 
 “Commander of the undead army. Yeah, yeah. I’m getting calluses on my ears from hearing it.”
 
-I only learned later that he had taken over the Black Forest.
+I had only learned later that he had taken over the Black Forest.
 
 He had defeated the black wizard, who had practically been its true master. He must have absorbed an incredible number of Magic Gems.
 
-“So this is a complete human—or rather, Skeleton—victory. Going from an ordinary Skeleton Knight to the master of the Black Forest, and even evolving into a Warlord… You must have absorbed an enormous number of Magic Gems from the black wizard, right?”
+“So this was a complete human—or rather, Skeleton—victory. You went from an ordinary Skeleton Knight to master of the Black Forest and even evolved into a Warlord. The Magic Gem you absorbed from the black wizard must have been incredible, right?”
 
-> - What are you talking about? He did not possess any Magic Gems.
+> - What are you talking about? He possessed no Magic Gem.
 
 “Huh?”
 
 > - Besides, the black wizard was the one who summoned me directly. Until recently, his commands were absolute. A summoned creature cannot defy its summoner.
 
-“Then how…”
+“Then how…?”
 
 > - You mean, how was I able to defeat him?
 
 The green light in the Skeleton Warlord’s eyes narrowed.
 
-> - I do not know the reason myself. Not long ago, I suddenly felt that I had escaped his control. Perhaps you could say that I climbed one step higher when my magical power surpassed that of my summoner.
+> - I do not know the reason myself. Not long ago, I suddenly realized that I had escaped his control. Perhaps one could say that my magical power had surpassed my summoner’s, allowing me to ascend to the next stage.
 
 “Suddenly?”
 
 > - Yes. My magical power increased tremendously, all at once.
 
-What was he talking about?
+What the hell was he talking about?
 
 But just as the Warlord said, even he couldn’t properly explain what had happened to him.
 
 After thinking for a long time, he managed to add only one thing.
 
-> - Borrowing a human expression, it felt as if I had been possessed by a ghost.
+> - To borrow a human expression, it felt as though I had been bewitched by a ghost.
 
-“…Is that something a Skeleton can say?”
+“…Is that something a Skeleton should say?”
 
 *Maybe that bastard isn’t actually a Skeleton.*
 
-It was at that moment, as I stared at the Warlord with an incredulous expression, that—
+Just as I stared at the Warlord in disbelief—
 
 > - Hmm?
 
@@ -400,9 +400,9 @@ The Warlord’s skull rolled around atop his neck, then stopped facing one direc
 
 The green light in his eyes shone as he gazed south and clacked his jaw.
 
-> - An intruder.
+> - Intruders.
 
-“An intruder?”
+“Intruders?”
 
 > - I am master of the Black Forest. I know everything that happens within it. More wicked humans have just set foot in my territory.
 
