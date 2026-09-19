@@ -4,11 +4,11 @@ What awaited us when we arrived at full speed was a scene so horrific I could ba
 
 Corpses. Pools of blood. Ownerless arms and legs…
 
-If the Shaolin Temple I had seen with my own eyes a year ago had been a beautiful painting of a utopian paradise, then what lay before me now was a painting of hell.
+A year ago, Shaolin Temple had looked like a beautiful painting of paradise. Now, a vision of hell stretched before me.
 
 *These fucking lunatics.*
 
-They had clearly been killing civilians and Murim warriors alike, indiscriminately.
+They had clearly slaughtered everyone in their path, civilian and martial artist alike.
 
 Beyond the masked men battling Shaolin’s monks, I spotted a red-bearded old man.
 
@@ -18,7 +18,7 @@ Without taking my eyes off him, I asked, “Know him?”
 
 “No.”
 
-“What about the monk pinned beneath him?”
+“What about the monk under his foot?”
 
 “Hongcheon. Hong Dao’s youngest Junior Brother. He’s grown a lot since I last saw him.”
 
@@ -28,7 +28,7 @@ So much that he looked well over seventy.
 
 As I found myself at a loss for words, the old man’s blazing gaze swept over us.
 
-“Are you the only ones?”
+“Is it just you two?”
 
 Jeok Cheongang answered indifferently.
 
@@ -36,7 +36,7 @@ Jeok Cheongang answered indifferently.
 
 “Heh heh. Looks like you’ve finally found a place to die, old man.”
 
-“Even if your head is empty, you should still speak properly. It isn’t a place to die. It’s a place to kill—and that includes every one of you.”
+“Even if that head of yours is empty, you should get your words straight. This isn’t a place for me to die. It’s a place for me to kill—all of you included.”
 
 The old man’s eyebrow twitched.
 
@@ -50,7 +50,7 @@ The old man’s eyebrow twitched.
 
 “Flame Tiger! I am the tiger of Nanman!”
 
-“The Yin-Yang Twin Ghosts? Good. There should be one more, so there’s no need to take you alive. I can kill you.”
+“One of the Yin-Yang Twin Freaks? Good. There should be another one of you, so I won’t need to take you alive. I can just kill you.”
 
 Jeok Cheongang clicked his tongue.
 
@@ -68,7 +68,7 @@ I had expected as much, but the old man was also a Supreme Peak master. What was
 
 For an instant, I wondered how Flame Tiger could have received word so quickly.
 
-*Even if he used a messenger pigeon, we should have been faster.*
+*Even if they used a messenger pigeon, we should’ve beaten it here.*
 
 But I had to set the question aside. Flame Tiger was gripping Hongcheon’s head as though he meant to crush it.
 
@@ -114,7 +114,7 @@ Flame Tiger’s face flushed red as he shook Hongcheon by the head.
 
 “W-What?”
 
-“It’s regrettable that I can’t save him, but Hong Dao did not ask me to look after his Junior Brother. He entrusted Shaolin to me.”
+“It pains me that I cannot save him, but Hong Dao did not entrust his Junior Brother to me. He entrusted Shaolin.”
 
 Tss-tss-tss-tss!
 
@@ -142,7 +142,7 @@ Flames soared amid horrific screams.
 
 Dozens staggered away with their bodies ablaze. Dozens more were already dead.
 
-The masked men froze at the sight, and the monks’ precept blades and Zen staffs flew toward them.
+The remaining masked men faltered at the sight, and the monks’ precept blades and Zen staffs descended on them from all sides.
 
 “It’s not over yet!”
 
@@ -184,7 +184,7 @@ Of course, Flame Tiger was not going to stand around chuckling while I joined th
 
 Fwoosh—thud!
 
-My knee rang with a sharp vibration as it blocked a foot as thick as a log.
+My knee tingled from blocking a leg as thick as a log.
 
 But that was all.
 
@@ -192,7 +192,7 @@ Supreme Peak and Peak were separated by a gulf no amount of luck could bridge.
 
 But I had more than mere luck.
 
-I had heaven’s luck.
+I had a blessing from heaven.
 
 *The System.*
 
@@ -226,7 +226,7 @@ Clang!
 
 The punch stopped with a deafening crash.
 
-Flame Tiger’s eyes grew as wide as lanterns.
+Flame Tiger’s eyes widened like lanterns.
 
 “Ten-Thousand-Year Cold Iron?”
 
@@ -238,11 +238,11 @@ Instead, his blue-white fist was already flying toward Flame Tiger.
 
 Kwoong!
 
-The ground shook with the thunderous impact.
+The ground shook with the impact.
 
-The two fists had met perfectly, but one man’s fist had its bones crushed and was charred black.
+Their fists had met head-on, but only one came away with its bones crushed and its flesh charred black.
 
-Flame Tiger muttered with a dazed expression.
+Flame Tiger stared in disbelief.
 
 “H-How?”
 
@@ -266,11 +266,11 @@ As Flame Tiger coughed up blood and tried to flee, I launched myself after him.
 
 Crack!
 
-My foot came down hard, crushing his instep and driving deep into the ground.
+My foot slammed down, crushing his instep and driving it deep into the ground.
 
 A pained groan escaped through Flame Tiger’s clenched teeth along with a spray of blood.
 
-The next moment, two streaks of light pierced into his abdomen as his upper body staggered.
+The next instant, two streaks of light slammed into his abdomen as his upper body reeled.
 
 Whoosh!
 
@@ -288,15 +288,15 @@ A fountain of blood erupted from Flame Tiger’s gaping mouth.
 
 Both men were Supreme Peak masters, but the difference between them was vast.
 
-Jeok Cheongang looked down at Flame Tiger, who was panting from his severe Internal Injury.
+Jeok Cheongang looked coldly down at Flame Tiger, who was panting from his severe internal injuries.
 
 “Your luck ends here.”
 
-“Cough. W-Wait a moment.”
+“Cough. W-Wait.”
 
 “I have neither the time nor the reason.”
 
-“I’ll tell you everything! R-Right, Dark Heaven! Everything about Dark Heaven…”
+“I’ll tell you everything! R-Right, Dark Heaven! Everything I know about Dark Heaven…”
 
 “Didn’t this old man tell you to stop playing the fox?”
 
@@ -306,11 +306,11 @@ There was not a trace of hesitation in Jeok Cheongang’s strike.
 
 Flame Tiger’s head vanished. His body swayed for a moment before collapsing into a pool of blood.
 
-I casually wiped the blood splattered across my face and said:
+I wiped the blood from my face with one hand.
 
 “Wouldn’t it have been better to keep him alive?”
 
-“You don’t reveal important secrets to a bear as stupid as that.”
+“No one entrusts important secrets to a bear that stupid.”
 
 “Even so…”
 
@@ -326,7 +326,7 @@ In his hand was a short staff glowing with green light.
 
 “Yin Ghost Han Su. He’s next.”
 
-The next moment, as though he had understood those words, Han Su’s figure shot away at blinding speed.
+As though he had heard Jeok Cheongang, Han Su shot away at blinding speed.
 
 * * *
 
@@ -342,7 +342,7 @@ He had recognized the man at first glance.
 
 The Fire King, Jeok Cheongang.
 
-He had never expected that a monster reputed to be among the very first of the Ten Kings would arrive so quickly.
+He had never imagined that a monster considered one of the strongest of the Ten Kings would arrive so quickly.
 
 *But who is that young man?*
 
@@ -352,7 +352,7 @@ The brat’s identity did not matter.
 
 What mattered was that Flame Tiger, whose martial prowess equaled his own, had died at their hands.
 
-*What an idiot. He attacked the Fire King instead of the Thunderbolt Saber King.*
+*Stupid bastard. Of all people, he picked a fight with the Fire King instead of the Thunderbolt Saber King.*
 
 Han Su had first met Flame Tiger during the Great Faction War and spent decades at his side, but they were not sworn brothers bound by a Peach Garden Oath.[^2] He had no intention of dying on the same day and at the same hour as Flame Tiger.
 
@@ -362,13 +362,13 @@ His mission was complete.
 
 The Green Jade Buddha Staff in his hand was proof. If he could reach the designated location and rendezvous with *him*…
 
-He would survive for certain.
+He would survive.
 
 Because *he* was a master beyond even the Fire King’s ability to defeat.
 
 *Flame Tiger. If that happens, I’ll avenge you.*
 
-Just as Han Su tightened his grip around the Green Jade Buddha Staff, his face hardened.
+As Han Su tightened his grip on the Green Jade Buddha Staff, his face abruptly hardened.
 
 *This is…!*
 
@@ -378,7 +378,7 @@ This one was not behind him.
 
 It was ahead.
 
-At first, he thought it might be reinforcements from the orthodox faction, but the aura he sensed this time belonged to only one person. Its momentum was not particularly strong, either.
+At first, he thought reinforcements from the orthodox faction had arrived, but he could sense only a single person. The aura was not particularly powerful, either.
 
 *Damn it. This complicates things.*
 
@@ -410,7 +410,7 @@ Han Su was no predator.
 
 He was merely a fox borrowing a tiger’s might.
 
-The real predator was the man standing quietly beside Han Su.
+The true predator was the man standing silently beside him.
 
 I could sense nothing from him, which was strange in itself.
 
