@@ -1,6 +1,6 @@
 # Honglan (홍란)
 
-- **Safe through:** Chapter 479
+- **Safe through:** Chapter 481
 - **Aliases:** None
 - **Role:** Honglan is a Lower District Sect courtesan who uses a stage name while serving as Ju Wongong's singing courtesan.
 - **Personality:** Discreet about her real identity and professionally alluring.

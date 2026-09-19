@@ -1568,3 +1568,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 송 군관 | **Officer Song** | Commander of the military ship who is enthralled by Honglan. |
 | 곽봉출 | **Gwak Bongchul** | Elderly boatman from Wuhan and Dongting Lake. |
 | 백추 | **Baekchu** | Boat maker or boat type associated with vessels sold around Wuhan. |
+| 송 | **Song** | Middle-aged physician at the Hubei provincial clinic. |
+| 향아 | **Hyang** | Young female medical apprentice at the clinic. |
