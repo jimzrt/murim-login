@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Even if some utterly massive and incomprehensible freak event—a true one-in-ten-thousand chance—caused everyone here to sink into the Yangtze, we would then have to face all of Murim.",
+      "defect": "The draft makes Taekyung's group the party that would face all of Murim, but the omitted subject is Donghu Stronghold or the Yangtze River Channel League, which would face Murim's retaliation after killing everyone present.",
+      "id": "F01",
+      "rationale": "The following sentence states that the Yangtze River Channel League would be annihilated if the Nine Sects and One Gang and Five Great Families joined forces, confirming that the League is the subject facing Murim.",
+      "replacement": "Even if some utterly incomprehensible disaster—a true one-in-ten-thousand chance—caused everyone here to sink into the Yangtze, the Yangtze River Channel League would then have to face all of Murim.",
+      "severity": "critical",
+      "source": "만약 아주 엄청난, 정말 만에 하나라고 부를 만큼 이해할 수 없는 이변이 일어나 이 자리의 모두가 장강에 가라앉는다고 해도, 그때는 천하 무림 전체를 상대해야 한다."
+    }
+  ],
+  "summary": "One critical subject reversal changes who would face retaliation from Murim.",
+  "version": 1
+}
