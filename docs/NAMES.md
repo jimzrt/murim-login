@@ -1455,3 +1455,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 골골 | **Golgoli** | Jin's nickname for the Skeleton King. |
 | 웨이자 장 | **Zhang Weijia** | CCTV correspondent reporting from the Sichuan rescue site. |
 | 우쉐이밍 | **Wu Xueming** | Premier and Crown Prince Party leader facing the purge. |
+| 중경 | **Chongqing** | Region crossed by the Yangtze route. |
+| 강소 | **Jiangsu** | Province at the eastern end of the Yangtze route. |
+| 리자몽 | **Charizard** | Joking alternative sobriquet Taekyung imagines for Jeok Cheongang. |

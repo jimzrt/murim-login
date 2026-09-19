@@ -736,3 +736,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 파이 첸 | 진태경 | allied_grand_mage_to_younger_ally | young man | playful and familiar | Faye Chen praises Jin in a teasing but sincere tone. |
 | 샤오 쉔 | 진태경 | younger_brother_like_ally_to_older_brother_figure | hyung | deferential and affectionate | Xiao Shen addresses Jin as an older-brother figure during their farewell. |
 | 진태경 | 파이 첸 | younger_ally_to_allied_grand_mage | Faye Chen | casual and familiar | Jin directly addresses Faye Chen while responding to her praise. |
+| 적천강 | 문경 | overwhelming elder to old acquaintance | you / little punk | mocking and threatening | Mocks Mungyeong's expression and threatens to poke out his eyes. |
+| 적천강 | 무송 | legendary martial master to stronghold lord | you | gruff, coercive, and dismissive | Uses 자네 while ordering Mu Song to take the group only as far as Sichuan and leave the fast ship. |
+| 청풍 | 무송 | young martial companion to stronghold lord | you | cheerful and familiar | Offers Mu Song his last dumpling and then induces him to buy more in Guang'an. |

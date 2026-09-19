@@ -1,27 +1,29 @@
 # Translation State
 
-- Last completed: 435
-- Next chapter: 436
-- Current block: 435–439 (1/5)
-- Latest translation: `translations/0435.md`
-- Latest summary: `summaries/beats/0435.md`
-- Safe profiles through: chapter 435
+- Last completed: 436
+- Next chapter: 437
+- Current block: 435–439 (2/5)
+- Latest translation: `translations/0436.md`
+- Latest summary: `summaries/beats/0436.md`
+- Safe profiles through: chapter 436
 
 ## Current Block
 
-- Mungyeong and Jeok Cheongang speak privately aboard the ship. Mungyeong's Slaughter Saint persona briefly replaces his cheerful medical-apprentice act, but he admits only that he is traveling with Jin's group and cannot explain why he continues to accompany them. Jeok praises Jin's progress and Cheongpung's greater raw talent, then thanks Mungyeong for saving Jin.
-- Mungyeong discovers that Jin has already opened his Middle Dantian while examining him in his sleep. Jin wakes, mistakes the examination for an assault, and calls for Jeok, whose intervention destroys the cabin and burns one of Mu Song's special fast ships. Jeok and Jin trade blame afterward while Mungyeong returns to treating the people who fell into the water.
+- Jin Wikyung explains that the group will follow the Yangtze to Hubei before traveling overland to Henan, but Jeok Cheongang objects to spending so long on the water. Jin Taekyung persuades Jeok to accept the route by appealing to his need for martial instruction and the time required to investigate mysterious symbols found in both worlds. Jeok orders Mu Song's party to travel only as far as Sichuan, though Mu Song offers to escort them with his subordinates. Cheongpung manipulates Mu Song into promising to buy dumplings in Guang'an, and Mungyeong later threatens to examine Taekyung with an acupuncture needle, leaving Taekyung humiliated and apparently having wet himself.
 
 ## Open Questions
 
 - Why does Mungyeong continue accompanying Jin Taekyung's group despite being unable to explain the impulse?
-- How did Jin Taekyung open his Middle Dantian without Mungyeong or the others noticing?
+- How did Jin Taekyung open his Middle Dantian?
+- What confidential matter is Jin Wikyung withholding?
+- Are Taekyung's suspicions about the mysterious patterns and symbols found in both worlds correct?
 
 ## Exceptional Decision
 
-- Render 노야 as “Old Master” for Jin Taekyung's address to Jeok Cheongang.
-- Keep Mungyeong's medical-apprentice voice cheerful and deferential, while his Slaughter Saint voice remains dry, terse, and threatening.
-- Preserve the established renderings Middle Dantian, Heavenly Martial Physique, Turtle Breath Technique, Mingmen acupoint, and Flame Divine Palm.
+- Render 노야 as “Old Master” and 스승님 as “Master” for Taekyung's address to Jeok Cheongang.
+- Keep Mungyeong's medical-apprentice voice polite and concerned, while his Slaughter Saint voice remains terse and threatening.
+- Preserve the established renderings Middle Dantian, Slaughter Saint, Three Saints, Water Dragon Stronghold, and Guang'an.
+- Retain the chapter's strong profanity and Taekyung's vulgar slang in confrontational dialogue.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

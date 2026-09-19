@@ -1,0 +1,126 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "“A meeting? What kind of lunatics came up with this schedule? It’ll take at least seven days just to reach Hubei!”",
+      "defect": "The translation drops 주야, which explicitly describes seven complete days and nights.",
+      "id": "F01",
+      "rationale": "아무리 빨라도 칠 주야 specifies the minimum travel time as seven day-and-night cycles.",
+      "replacement": "“A meeting? What kind of lunatics came up with this schedule? Even at the fastest pace, it’ll take seven days and nights just to reach Hubei!”",
+      "severity": "minor",
+      "source": "“회의? 어떤 정신 나간 놈들이 이따위 일정을 짰어? 호북까지 가는 데에만 아무리 빨라도 칠 주야는 걸리겠다!”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "In short, he was telling them to screw themselves.",
+      "defect": "배 째라 is a defiant refusal meaning “do your worst,” not an instruction for the planners to screw themselves; the current version redirects the hostility and alters the pragmatic force.",
+      "id": "F02",
+      "rationale": "The idiom expresses Jeok Cheongang’s willingness to ignore any consequences rather than a direct insult aimed at a particular group.",
+      "replacement": "In short, he was telling them to do their worst.",
+      "severity": "major",
+      "source": "한 줄 요약하자면, 배 째라는 소리다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“You haven’t even dried the blood on your head yet.",
+      "defect": "The Korean idiom is rendered as an unnatural literal image instead of its established English equivalent, and 놈’s insulting address is weakened.",
+      "id": "F03",
+      "rationale": "대가리에 피도 안 마르다 describes someone as extremely young and inexperienced, equivalent to “wet behind the ears.”",
+      "replacement": "“You little punk, you’re still wet behind the ears.",
+      "severity": "minor",
+      "source": "“대가리에 피도 안 마른 놈이."
+    },
+    {
+      "confidence": 0.99,
+      "current": "To do that, I had plenty of things to deal with in both Murim and the modern world.",
+      "defect": "The draft omits that Taekyung must go back and forth between the two worlds, a mechanical detail supporting why overland travel would leave him less time.",
+      "id": "F04",
+      "rationale": "오가며 explicitly means traveling back and forth, not merely having business in both places.",
+      "replacement": "To do that, I had a lot to take care of while going back and forth between Murim and the modern world.",
+      "severity": "major",
+      "source": "그러기 위해서는 무림과 현대를 오가며 처리해야 할 일들이 많았다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I’ve gained some insight recently, but even after racking my brain and thinking about it until I nearly died, there are parts I simply can’t understand. If we travel overland, there won’t be enough time for you to teach me.”\n\n“Instruction…”\n\n“I’m saying there’s something I can never figure out on my own, no matter how much I think about it.”",
+      "defect": "The draft moves Taekyung’s emphatic plea ahead of Jeok Cheongang’s reaction, mistranslates 죽었다 깨어나도 as merely thinking until he nearly died, and then replaces the source’s escalation with a repetitive paraphrase.",
+      "id": "F05",
+      "rationale": "The source first introduces the need for instruction, pauses for Jeok Cheongang’s interested response, and only then intensifies the claim with the idiom 죽었다 깨어나도, “even if I died and came back to life.”",
+      "replacement": "“I’ve gained some insight recently. If we travel overland, there won’t be enough time for you to teach me.”\n\n“Instruction…”\n\n“There are parts I could never understand on my own, no matter how hard I rack my brain over them—even if I died and came back to life.”",
+      "severity": "major",
+      "source": "“근래에 얻은 깨달음이 있는데, 육로로 이동하게 되면 가르침을 받을 시간이 충분하지 않습니다.”\n\n“가르침이라…….”\n\n“저로서는 도저히, 머리를 쥐어 싸매고 고민을 해 봐도, 죽었다 깨어나도 알 수 없는 부분이 있어서 그렇습니다.”"
+    },
+    {
+      "confidence": 0.93,
+      "current": "“You’re really talking drunken nonsense now.”",
+      "defect": "The current line sanitizes the deliberately vulgar portmanteau 취랄 and sounds as though Taekyung is actually drunk.",
+      "id": "F06",
+      "rationale": "취랄 blends 취하다 with the profanity 지랄, mockingly turning Taekyung’s claim of drunkenness into a vulgar accusation that he is talking nonsense.",
+      "replacement": "“What a load of drunken bullshit.”",
+      "severity": "major",
+      "source": "“아주 취랄을 하는구나.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“He’s a total pushover.”",
+      "defect": "The translation removes the strong profanity from Taekyung’s deliberately reckless insult about the Slaughter Saint.",
+      "id": "F07",
+      "rationale": "좆밥 is strongly vulgar, and that vulgarity is central to the joke and Mungyeong’s ensuing killing intent.",
+      "replacement": "“He’s a total fucking pushover.”",
+      "severity": "major",
+      "source": "“좆밥이죠.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "He considered it for a moment, then clicked his tongue.",
+      "defect": "The physical action is changed: 입맛을 다시다 means smacking one’s lips, whereas clicking one’s tongue is a different gesture with a different emotional implication.",
+      "id": "F08",
+      "rationale": "The source explicitly describes Jeok Cheongang smacking his lips after deliberating; the later sentence 끌끌 혀를 찬 is the actual tongue-clicking action.",
+      "replacement": "He considered it for a moment, then smacked his lips.",
+      "severity": "critical",
+      "source": "잠시 고민하던 그가 입맛을 다셨다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Just as Mu Song, the owner of the ship, was about to answer, Jeok Cheongang stepped between them.",
+      "defect": "The subject is reversed: Jin Wikyung is about to answer Mu Song, not Mu Song about to answer someone else.",
+      "id": "F09",
+      "rationale": "진위경이 is the explicit subject of 대답하려던, while 무송의 말에 identifies the statement he was answering.",
+      "replacement": "Just as Jin Wikyung was about to answer Mu Song, the owner of the ship, Jeok Cheongang stepped between them.",
+      "severity": "critical",
+      "source": "배 주인, 무송의 말에 진위경이 대답하려던 그때. 적천강이 두 사람의 사이를 가로막았다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Mu Song’s eyes grew misty.\n\nIt had been a long time since he had felt the warmth of human kindness.",
+      "defect": "Splitting and reversing the clauses weakens the explicit causal relationship: feeling human warmth after a long absence is what makes Mu Song’s eyes redden.",
+      "id": "F10",
+      "rationale": "The modifier 사람의 온기를 느낀 directly explains Mu Song’s emotional reaction in the main clause.",
+      "replacement": "Feeling the warmth of human kindness for the first time in ages, Mu Song’s eyes grew misty.",
+      "severity": "major",
+      "source": "실로 오랜만에 사람의 온기를 느낀 무송의 눈시울이 붉어졌다."
+    },
+    {
+      "confidence": 0.9,
+      "current": "“Mmph.”",
+      "defect": "The draft reduces Cheongpung’s muffled but meaningful offer to an uninterpretable noise.",
+      "id": "F11",
+      "rationale": "With his mouth full, Cheongpung is garbling an invitation to eat the dumpling, as Mu Song’s immediate clarification 먹으라고? confirms.",
+      "replacement": "“’Ave it.”",
+      "severity": "minor",
+      "source": "“으에오.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Pushover—no, Mungyeong was looking at me with concern.",
+      "defect": "The callback again sanitizes 좆밥, weakening the repetition that connects Taekyung’s earlier insult directly to Mungyeong’s retaliation.",
+      "id": "F12",
+      "rationale": "The narration deliberately repeats the same vulgar term Taekyung just used for the Slaughter Saint.",
+      "replacement": "Fucking pushover—no, Mungyeong was looking at me with concern.",
+      "severity": "minor",
+      "source": "좆밥. 아니 문경이 걱정스러운 얼굴로 나를 바라보고 있었다."
+    }
+  ],
+  "summary": "Two scene actions are mistranslated, including the speaker in the ship dispute; several pragmatic, causal, and register details are also lost or softened.",
+  "version": 1
+}
