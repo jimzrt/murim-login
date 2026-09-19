@@ -1,6 +1,6 @@
 # Dongting Fisherman (동정어옹)
 
-- **Safe through:** Chapter 445
+- **Safe through:** Chapter 446
 - **Aliases:** None
 - **Role:** The Dongting Fisherman is a public critic of the Yangtze River Channel League who disappeared after condemning it.
 - **Personality:** Not established.
