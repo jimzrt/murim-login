@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "Half of its upper body was gone, and its face had swollen beyond recognition. Mu Song’s eyes widened when he saw it.",
+      "defect": "“Beyond recognition” contradicts the source and the immediately following identification; the face is swollen but still recognizable.",
+      "id": "F01",
+      "rationale": "The source says only that the face was swollen, and Mu Song subsequently confirms that it is not damaged beyond recognition.",
+      "replacement": "Half of its upper body was gone, and its face was bloated. Mu Song’s eyes widened when he saw it.",
+      "severity": "critical",
+      "source": "상반신의 절반이 사라져 있고 얼굴이 부풀어 오른 시신을 확인한 무송이 눈을 부릅떴다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "At Jin Taekyung’s question, the young man having strode over to him, Mu Song nodded with a dazed expression.",
+      "defect": "The modifier is grammatically malformed and obscures that Jin Taekyung is the person who strode over.",
+      "id": "F02",
+      "rationale": "The source clearly assigns the approach to Jin Taekyung and the nod to Mu Song.",
+      "replacement": "Jin Taekyung strode over to him, and Mu Song nodded dazedly at the question.",
+      "severity": "minor",
+      "source": "성큼 다가온 진태경의 물음에, 무송이 망연한 표정으로 고개를 끄덕였다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The Scorching Yang Qi carried by the Flame Divine Palm evaporated the moisture in the air and pushed the fast ship forward.",
+      "defect": "The draft adds “in the air,” changing the propulsion mechanism: the qi evaporates the surrounding water to drive the ship forward.",
+      "id": "F03",
+      "rationale": "수분 refers to the water being evaporated in this river setting; restricting it to airborne moisture is unsupported and mechanically incoherent with pushing the ship.",
+      "replacement": "The Scorching Yang Qi carried by the Flame Divine Palm evaporated the river water and propelled the fast ship forward.",
+      "severity": "major",
+      "source": "화염신장(火焰神掌)에 실린 열양지기가 수분을 증발시키고 쾌조선을 앞으로 밀어 낸다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“The Family Head ordered us to bring you at once.”",
+      "defect": "The wording makes the respectful summons sound coercive and changes the single messenger’s deferential escort language into an order to seize or convey the group.",
+      "id": "F04",
+      "rationale": "모셔오라 is honorific and directs the messenger to respectfully escort the addressees to the Family Head.",
+      "replacement": "“The Family Head ordered me to escort you to him at once.”",
+      "severity": "major",
+      "source": "“가주께서 급히 모셔오라 하셨습니다.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Even a three-year-old knows that Murim and the authorities maintain a relationship of mutual noninterference.",
+      "defect": "삼척동자 is an idiom meaning even a mere child, not specifically a three-year-old.",
+      "id": "F05",
+      "rationale": "The replacement preserves the idiom’s intended sense without introducing a false exact age.",
+      "replacement": "Even a child knows that Murim and the authorities maintain a relationship of mutual noninterference.",
+      "severity": "minor",
+      "source": "무림과 관이 상호 불가침의 관계라는 것은 삼척동자도 아는 사실."
+    },
+    {
+      "confidence": 1.0,
+      "current": "If the Moving Formation they call a warp gate was hidden somewhere around here, that would solve everything.",
+      "defect": "The draft reverses Taekyung’s self-correction and incorrectly says that the Moving Formation is called a warp gate, losing both the established term and the modern-versus-Murim register joke.",
+      "id": "F06",
+      "rationale": "Taekyung first uses the modern term “warp,” then corrects himself to the established Murim term “Moving Formation.”",
+      "replacement": "If a warp—no, if the formation they call a Moving Formation were hidden somewhere around here, that would explain everything.",
+      "severity": "major",
+      "source": "워프, 아니 이동진이라고 불리는 그 진법이 이곳 어딘가에 숨겨져 있다면 그걸로 모든 것이 해결되니까요."
+    }
+  ],
+  "summary": "One critical factual contradiction plus several mechanism, register, and terminology issues.",
+  "version": 1
+}

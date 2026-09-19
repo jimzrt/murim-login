@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "According to what Zhuge Feng had said, the Sea Serpent Society Head and a thousand of his men had been buried beneath the waters of Red Cliffs a fortnight ago.",
+      "defect": "The stated interval contradicts Zhuge Feng's account that he received news of the massacre one month ago and his later statement that a full month has passed.",
+      "id": "C01",
+      "rationale": "Using one month maintains the explicit chronology established in Chapters 445 and 446.",
+      "replacement": "According to what Zhuge Feng had said, the Sea Serpent Society Head and a thousand of his men had been buried beneath the waters of Red Cliffs a month ago.",
+      "severity": "major",
+      "source": "Chapter 446, narration after the Quest window"
+    },
+    {
+      "confidence": 0.98,
+      "current": "If Donghu Stronghold really was responsible for the two incidents that had occurred over the past fifteen days, just as the circumstances revealed so far suggested… then a clash of martial force might take place, in accordance with the laws of Murim.",
+      "defect": "The fifteen-day interval contradicts the established month-long chronology of the Sea Serpent Society massacre.",
+      "id": "C02",
+      "rationale": "The Sea Serpent Society was destroyed approximately one month earlier, while the Dongting Fisherman disappeared only three days earlier.",
+      "replacement": "If Donghu Stronghold really was responsible for the two incidents that had occurred over the past month, just as the circumstances revealed so far suggested… then a clash of martial force might take place, in accordance with the laws of Murim.",
+      "severity": "major",
+      "source": "Chapter 448, arrival at Donghu Stronghold"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“...Pull it aboard at once. We need to identify it.”",
+      "defect": "The dialogue uses three periods instead of the required ellipsis character.",
+      "id": "C03",
+      "rationale": "This restores the packet's required English punctuation style.",
+      "replacement": "“…Pull it aboard at once. We need to identify it.”",
+      "severity": "minor",
+      "source": "Chapter 449, identification of the recovered corpse"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“...Damn it.”",
+      "defect": "The dialogue uses three periods instead of the required ellipsis character.",
+      "id": "C04",
+      "rationale": "This restores the packet's required English punctuation style.",
+      "replacement": "“…Damn it.”",
+      "severity": "minor",
+      "source": "Chapter 449, Taekyung reacting to Wang Pil's identity"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“...!”",
+      "defect": "The reaction uses three periods instead of the required ellipsis character.",
+      "id": "C05",
+      "rationale": "This restores the packet's required English punctuation style.",
+      "replacement": "“…!”",
+      "severity": "minor",
+      "source": "Chapter 449, Mu Song seeing the devastated stronghold"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“...How could this happen?”",
+      "defect": "The dialogue uses three periods instead of the required ellipsis character.",
+      "id": "C06",
+      "rationale": "This restores the packet's required English punctuation style.",
+      "replacement": "“…How could this happen?”",
+      "severity": "minor",
+      "source": "Chapter 449, Cheongpung surveying the dead"
+    },
+    {
+      "confidence": 1.0,
+      "current": "—...!",
+      "defect": "The Sound Transmission uses three periods instead of the required ellipsis character.",
+      "id": "C07",
+      "rationale": "This restores the packet's required English punctuation style.",
+      "replacement": "—…!",
+      "severity": "minor",
+      "source": "Chapter 449, Jeok Cheongang's Sound Transmission after Dark Heaven is proposed"
+    }
+  ],
+  "summary": "The packet preserves the established voices, terminology, hooks, and uncertainty around Dark Heaven, but contains two contradictory timeline references and five ellipsis-formatting errors in Chapter 449.",
+  "version": 1
+}
