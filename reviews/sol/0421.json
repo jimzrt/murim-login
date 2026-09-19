@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "Do you people share a *Hundred Questions and Answers for Dealing with Jintaekyung* or something?",
+      "defect": "Jin Taekyung’s established name is incorrectly run together.",
+      "id": "F01",
+      "rationale": "The binding glossary establishes 진태경 as Jin Taekyung.",
+      "replacement": "Do you people share a *Hundred Questions and Answers for Dealing with Jin Taekyung* or something?",
+      "severity": "minor",
+      "source": "진태경 대응 백문백답 같은 거 공유하냐?"
+    },
+    {
+      "confidence": 0.96,
+      "current": "They say the unexpected can catch you off guard.",
+      "defect": "The generic statement about surprise loses the idiom’s point that something dismissed as impossible can turn out to be true.",
+      "id": "F02",
+      "rationale": "The line directly follows Taekyung insisting that it could not be Asmodeus and marks that supposedly impossible possibility coming true.",
+      "replacement": "Never say never, I guess.",
+      "severity": "minor",
+      "source": "설마가 사람 잡는다더니."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Yeah, I get it. He’s extremely high-ranking. Now answer me.",
+      "defect": "The translation replaces Taekyung’s profane 존귀/존나 귀여운 wordplay with a literal explanation of rank, losing both the joke and his register.",
+      "id": "F03",
+      "rationale": "Taekyung deliberately twists 존귀하신, “exalted,” into 존나 귀여운, “fucking adorable.”",
+      "replacement": "Yeah, yeah, I get it—he’s fucking adorable. Now answer me.",
+      "severity": "major",
+      "source": "그래, 존나 귀여운 거 충분히 알겠으니까 대답해 봐."
+    },
+    {
+      "confidence": 0.98,
+      "current": "What, is the Demon King a child in a new country?",
+      "defect": "The literal rendering is unintelligible in English and loses the joke about an exceptionally well-behaved child following a prescribed bedtime routine.",
+      "id": "F04",
+      "rationale": "새 나라의 어린이 invokes the Korean image of a model child who follows wholesome routines, which the following television, toothbrushing, and bedtime list elaborates.",
+      "replacement": "What is the Demon King, some good little schoolboy?",
+      "severity": "major",
+      "source": "마왕이 새 나라의 어린이냐."
+    },
+    {
+      "confidence": 0.98,
+      "current": "No, I asked how much it pays. Don’t tell me you people expect free labor, too?",
+      "defect": "The draft makes the euphemistic labor joke explicit as unpaid work, losing the sarcastic phrase 열정 페이, literally compensation in passion.",
+      "id": "F05",
+      "rationale": "The source jokes about exploitative employers disguising poor or nonexistent compensation as work done for passion rather than stating “free labor” outright.",
+      "replacement": "No, I asked how much it pays. Don’t tell me you people pay in passion, too?",
+      "severity": "major",
+      "source": "아니, 연봉 얼마 주냐고. 설마 너네도 열정 페이야?"
+    },
+    {
+      "confidence": 1.0,
+      "current": "If my mom hadn’t stopped me, I nearly became the first martyr in that church’s history.",
+      "defect": "The subject is reversed: Taekyung was about to attack the deacon, so the deacon—not Taekyung—would have become the church’s first martyr.",
+      "id": "F06",
+      "rationale": "엄마 안 말렸으면 implies Taekyung’s mother stopped him from acting against the previously mentioned deacon; the martyr is the deacon who would have died.",
+      "replacement": "If my mom hadn’t stopped me, he would’ve become the first martyr in that church’s history.",
+      "severity": "critical",
+      "source": "그때 엄마 안 말렸으면 그 교회 최초의 순교자 될 뻔했잖아."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The four words that emerged in a voice deeper and more sinister than anything else were not an answer to my question.\n\nThey were a curse that called for death.",
+      "defect": "The draft changes 네 글자 into four words, although the incantation 다크 핸드 consists of four Korean syllabic characters and only two English words.",
+      "id": "F07",
+      "rationale": "네 글자 counts the four Korean syllabic units in 다크 핸드; calling “Dark Hand” four words creates an obvious quantity error.",
+      "replacement": "The four-syllable incantation, uttered in a voice deeper and more sinister than ever, was not an answer to my question.\n\nIt was a curse that called forth death.",
+      "severity": "major",
+      "source": "더없이 깊고 음산한 목소리로 이루어진 네 글자는, 질문에 대한 대답이 아닌 죽음을 부르는 저주였다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "> **System**\n>\n> - You have been afflicted with the **Status** abnormality **[Curse]**!\n> - Due to **[Curse]**, all abilities related to the body have been temporarily reduced!\n> - **[Strength]** has temporarily decreased by 20!\n> - **[Stamina]** has temporarily decreased by 20!\n> - **[Agility]**…",
+      "defect": "The System terms are incorrectly retained inside square brackets, and “Status abnormality” is an unnatural decomposition of 상태이상 rather than the established game term “status effect.”",
+      "id": "F08",
+      "rationale": "The binding Markdown rules prohibit square brackets around System notices and UI terms; 신체에 관련된 모든 능력치 naturally means all physical attributes.",
+      "replacement": "> **System**\n>\n> - You have been afflicted with the status effect **Curse**!\n> - Due to **Curse**, all physical attributes have been temporarily reduced!\n> - **Strength** has temporarily decreased by 20!\n> - **Stamina** has temporarily decreased by 20!\n> - **Agility**…",
+      "severity": "minor",
+      "source": "- 상태이상, [저주]에 걸렸습니다!\n\n- [저주]로 인하여 신체에 관련된 모든 능력치가 일시적으로 하락합니다!\n\n- [근력]이 일시적으로 20 하락했습니다!\n\n- [체력]이 일시적으로 20 하락했습니다!\n\n- [민첩]이……."
+    },
+    {
+      "confidence": 1.0,
+      "current": "A thorny vine several meters in diameter was cut apart in a single blow.",
+      "defect": "The draft changes the vine’s circumference into its diameter, substantially altering its stated dimensions.",
+      "id": "F09",
+      "rationale": "둘레 denotes circumference or distance around an object, not diameter.",
+      "replacement": "A thorny vine measuring several meters around was cut apart in a single blow.",
+      "severity": "major",
+      "source": "수 미터의 둘레를 지닌 가시넝쿨이 단 일격에 잘렸다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "My gaze swept across the enormous net formed by hundreds, thousands of Bone Spears, then slowly began to move.",
+      "defect": "The action is reversed: his already moving eyes slow down rather than beginning to move.",
+      "id": "F10",
+      "rationale": "훑던 identifies an ongoing scan, while 천천히 느려진다 states that the movement decelerates as his new perception emerges.",
+      "replacement": "My eyes, sweeping over the enormous net formed by hundreds—thousands—of Bone Spears, gradually slowed.",
+      "severity": "critical",
+      "source": "수백, 수천 개의 본 스피어로 이루어진 거대한 그물을 훑던 눈동자가 천천히 느려진다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Heavenly Strike.”",
+      "defect": "Quotation marks turn the technique name into spoken dialogue, adding an action absent from the source.",
+      "id": "F11",
+      "rationale": "The Korean line has no dialogue marks; in this first-person passage it functions as an internal technique identification rather than something Taekyung says aloud.",
+      "replacement": "*Heavenly Strike.*",
+      "severity": "critical",
+      "source": "천격(天格)."
+    }
+  ],
+  "summary": "The draft contains several action and quantity changes, a reversed subject in the church anecdote, omitted wordplay and register, and noncompliant System formatting.",
+  "version": 1
+}

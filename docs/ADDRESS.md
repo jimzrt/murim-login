@@ -696,3 +696,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 사령관 | captor to captive undead commander | you | casual, mocking, and dismissive | Taekyung addresses the Skeleton Warlord informally while rejecting its pleas to turn back. |
 | 아크 리치 | 인간 | undead lord to living adversary | human | formal, archaic, and taunting | The Arch Lich addresses Jin while claiming authority over all undead and baiting him toward corruption. |
 | 진태경 | 아크 리치 | living Hunter to undead lord and enemy | you fucking bastard | insulting-casual and defiant | Jin answers the Arch Lich's provocation and orders it down before attacking. |
+| 아크 리치 | 인간 | enemy to human opponent | human | archaic and contemptuous | The Arch Lich repeatedly addresses Jin as an insignificant human. |
