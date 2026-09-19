@@ -8,13 +8,13 @@ After examining *Yeti’s Necklace* for a long moment, Team Leader Choi’s eyel
 
 He rarely showed his emotions this openly.
 
-Im Kkeokjeong, who had been squatting quietly, asked with intense curiosity,
+Im Kkeokjeong, who had been squatting nearby, looked up with intense curiosity.
 
 “Team Leader Choi, what’s wrong? Is there a problem?”
 
 “There is. A very serious problem.”
 
-Team Leader Choi bit down hard on his lip and continued.
+Team Leader Choi bit his lip and continued.
 
 “The supply of this beautiful product is far too limited. That is the greatest problem of all—one that deserves condemnation from people around the world.”
 
@@ -86,7 +86,7 @@ But Won Myunghoon’s attention lay elsewhere.
 
 “So, what did you think after seeing it in person?”
 
-“It’s much better in person. If you ever decide to sell it, please contact me.”
+Team Leader Choi answered, “It’s even better than I expected. If you ever decide to sell it, please contact me.”
 
 “I’m afraid that won’t happen. I treasure it a great deal.”
 
@@ -128,13 +128,13 @@ A brief silence passed. Won Myunghoon gazed at me, and a faint smile appeared on
 
 “You mean eight years ago?”
 
-“…Well, yes. Anyway, what I’m trying to say is, don’t worry about it too much. What’s so precious about a necklace like that? Right?”
+“…Well, yes. Anyway, what I’m trying to say is that you shouldn’t worry about it. How precious could one little necklace be? Right?”
 
 Won Myunghoon patted my shoulder with his broad palm. Unlike mine, his palm was soft, and his fingernails were long.
 
 A thought suddenly occurred to me.
 
-*Maybe this person standing in front of me isn’t the person I knew.*
+*Maybe the man standing in front of me isn’t the person I thought I knew.*
 
 “Actually, the necklace is a gift.”
 
@@ -150,7 +150,7 @@ Every time Won Myunghoon leaned closer, the strong scent of his cologne washed o
 
 “Taekyung?”
 
-I put the necklace around my neck as I answered.
+I fastened the necklace around my neck as I answered.
 
 “Yes. I won’t let anyone else touch it.”
 
@@ -207,7 +207,7 @@ In the early days of the Great Cataclysm, Trolls had earned a fearsome reputatio
 
 *The head and the heart. And magic on top of that.*
 
-Unless it was an undead monster, death after the cessation of breathing was only natural.
+Unless it was an undead monster, anything died once its life was extinguished.
 
 Trolls possessed enough terrifying regenerative power to restore even their heads and hearts, but that didn’t make them truly immortal.
 
@@ -219,17 +219,15 @@ Freeze them with ice or sear them with flames before they could regenerate, and 
 
 Sshh-shh-shhk! Thwack!
 
-—Graaaar!
-
 The Troll toppled backward after losing an arm and a leg.
 
 A moment later, the keen axe blade of a halberd cleaved through the thick fat and muscle of its neck.
 
 Thud! Sshhk!
 
-The Troll’s body flailed, now empty above the shoulders. Soon, new flesh began to writhe and swell across the cut surface.
+The headless Troll thrashed on the ground. Soon, new flesh began to writhe and swell across the severed stump.
 
-In a little over a minute, it would have a new neck.
+In about a minute, it would have a new neck.
 
 Of course, the Star Guild members had no intention of waiting that long.
 
@@ -249,19 +247,19 @@ With three Hunters assigned to each Troll, the battle ended quickly.
 
 Amid the stench of burning flesh and fat, Won Myunghoon watched from a dozen or so meters away and muttered under his breath.
 
-His voice was so quiet that nobody could make it out over the noise of battle, but to me, it sounded as clear as if he were speaking right beside me.
+His voice was too quiet for anyone to hear over the din of battle, but to me, it sounded as clear as if he were standing right beside me.
 
 “Idiots had to stink up the place. I told them to freeze them whenever possible.”
 
 “Hah.”
 
-I barely managed to suppress the hollow laugh trying to escape.
+I barely managed to suppress the incredulous laugh trying to escape.
 
 Someone once said that life was a tragedy up close and a comedy from a distance.
 
 But a battle against monsters was a tragedy no matter where you watched it from.
 
-When you could lose your life in an instant, the smell of burning Troll flesh was nothing.
+When one mistake could cost you your life, the smell of burning Troll flesh was nothing.
 
 *It’s a hundred times better than lying behind a folding screen, smelling your own funeral incense.*
 
@@ -273,7 +271,7 @@ He was frowning and cursing under his breath when he suddenly sensed my gaze and
 
 His voice was warm, and his forehead had smoothed out as if nothing had happened.
 
-Everything about him was natural.
+Everything about him seemed perfectly natural.
 
 That only made it feel even more unnatural.
 
@@ -293,15 +291,15 @@ I kept my face blank and answered casually.
 
 Won Myunghoon let out a quiet laugh.
 
-“It’s because this is your first A-Rank Gate. The amount of mana distributed inside a Gate is on an entirely different level.”
+“It’s because this is your first A-Rank Gate. The amount of mana inside is on a completely different level.”
 
 “Oh, I see.”
 
 “Beginners are all like that. I’m used to it by now.”
 
-I let out an exclamation as if I were hearing this for the first time, even though I already knew everything.
+I made a sound of wonder as though I were hearing this for the first time, even though I already knew.
 
-“So I’ll get used to it next time too, right?”
+“So I’ll be more used to it next time, right?”
 
 “Next time?”
 
@@ -327,11 +325,11 @@ As Won Myunghoon mimed waving a conductor’s baton, I abruptly asked, “Then d
 
 “I saw an article about it online. What was the headline again? Ah, I remember.”
 
-Won Myunghoon suddenly lost his words. Watching him, I continued clearly,
+Won Myunghoon was momentarily at a loss for words. Looking straight at him, I carefully recited it.
 
 “Something like *Rising Star Hunter Won Myunghoon Sweeps Up Luxury Goods.*”
 
-“Was there an article like that?”
+“…There was an article like that?”
 
 “It was on a Hunter community site for a little while. It got deleted after five minutes.”
 
@@ -343,11 +341,11 @@ A deep dimple formed in Won Myunghoon’s handsome face. But this wasn’t the b
 
 “That can’t be right.”
 
-“Isn’t it?”
+“Of course not.”
 
-“Of course not. I do like shopping, but I’m not that bad. At most, I might go once a month.”
+“I mean, I do like shopping, but not that much. I go once a month at most.”
 
-“I heard pictures were uploaded too.”
+“I heard there were pictures too.”
 
 “…”
 
@@ -359,9 +357,9 @@ Won Myunghoon licked his dry lips. The dimple had vanished without a trace.
 
 “Taekyung. You don’t actually believe that, do you?”
 
-“Come on, it must be a rumor sheet. You’re busy coordinating the Guild schedule, hyung. Maestro.”
+“Come on, it must be a rumor-sheet story. You’re far too busy coordinating the Guild’s schedule, hyung. Maestro.”
 
-“…Yes, Maestro.”
+“…Right. Maestro.”
 
 I vigorously mimed waving a conductor’s baton while Won Myunghoon stared at me with dry eyes.
 
@@ -379,49 +377,49 @@ But unlike when he had set out at a leisurely pace, he was sprinting toward us l
 
 At Won Myunghoon’s question, Team Leader 1 stammered.
 
-“Th-that, th-that…”
+“Th-they, th-that…”
 
 I didn’t need to hear the rest.
 
-Seven people had left, but only one had returned. The drops of blood splashed across his face and armor turned my guess into certainty.
+Seven people had left, but only one had returned. The drops of blood spattered across his face and armor turned my suspicions into certainty.
 
 “You bastard. Spit it out!”
 
 Team Leader 1 flinched at the thunderous roar.
 
-“We found the Wyvern. We found it.”
+“We found a Wyvern.”
 
-“The Wyvern? How many?”
+“A Wyvern? How many?”
 
 “O-one.”
 
 “What? One?”
 
-An A-Rank Hunter and six B-Rank Hunters made a formation more than capable of dealing with a single Wyvern.
+An A-Rank Hunter and six B-Rank Hunters were more than capable of dealing with a single Wyvern.
 
-And yet six people had died, while one had fled back alone.
+Yet six of them had died, while only one had escaped.
 
-“Is that supposed to be an explanation? Are you messing with me?”
+“You call that an explanation? Are you fucking with me?”
 
-“They’re all dead. We approached while using concealment magic, but… it noticed us.”
+“They’re all dead. We approached under concealment magic, but… it noticed us.”
 
 “What kind of bullshit is that? How could a Wyvern see through concealment magic?”
 
 Click. Clack-clack.
 
-His teeth chattering from fear, Team Leader 1 finally forced out a single word.
+His teeth chattered in terror. At last, Team Leader 1 forced out the words.
 
 “A-A Named Monster.”
 
-“…”
+“…!”
 
-“It’s definitely a Named Monster. This place… it’s a Mutated Gate.”
+“It’s definitely a Named Monster. This place… is a Mutated Gate.”
 
 An A-Rank Mutated Gate.
 
 And a Named Monster.
 
-There was no one among us who didn’t understand what those two words meant.
+There wasn’t a single person among us who didn’t understand what those two terms meant.
 
 Amid the suffocating silence, someone muttered in a voice barely loud enough to hear.
 
