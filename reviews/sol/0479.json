@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "**Memory Fragment** has been released!",
+      "defect": "“Released” can mean newly unlocked or made available, but the Memory Fragment experience has just ended and 해제 indicates that its active state has been lifted.",
+      "id": "F01",
+      "rationale": "The surrounding action returns Taekyung from the memory to reality; the notification announces that the Memory Fragment state is over, not that new content has been unlocked.",
+      "replacement": "**Memory Fragment** has ended!",
+      "severity": "major",
+      "source": "[기억의 파편]이 해제되었습니다!"
+    },
+    {
+      "confidence": 0.96,
+      "current": "*You worked hard.*",
+      "defect": "The literal wording sounds like praise for completing a task rather than a respectful acknowledgment of the suffering the Water God Dragon endured.",
+      "id": "F02",
+      "rationale": "고생했습니다 here compassionately recognizes the dragon’s long hardship as Taekyung closes its eyes.",
+      "replacement": "*You’ve been through a lot.*",
+      "severity": "minor",
+      "source": "‘고생했습니다.’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "*She isn’t the daughter of some great household. At worst, she’s only a singing courtesan.*",
+      "defect": "“At worst” reverses the scalar force of 기껏해야 and makes Officer Song sound as though being a courtesan is merely the least favorable possibility rather than the lowly status he confidently assigns her.",
+      "id": "F03",
+      "rationale": "기껏해야 일개 dismissively reduces Honglan to no more than a common singing courtesan, reflecting Officer Song’s class prejudice.",
+      "replacement": "*She isn’t the daughter of some great household. She’s just a mere singing courtesan.*",
+      "severity": "minor",
+      "source": "‘대갓집 규수도 아니고, 기껏해야 일개 가기(歌妓)인데 뭘.’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Her smile bloomed like chrysanthemums in full flower.",
+      "defect": "수국 means hydrangea, not chrysanthemum.",
+      "id": "F04",
+      "rationale": "The draft substitutes a different flower and therefore changes the source image.",
+      "replacement": "Her smile was like a hydrangea in full bloom.",
+      "severity": "minor",
+      "source": "수국(水菊)이 만개한 듯한 웃음."
+    }
+  ],
+  "summary": "One System-state mistranslation and three localized wording defects.",
+  "version": 1
+}

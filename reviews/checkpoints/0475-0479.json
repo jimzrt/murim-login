@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "\"Why did Honglan corrupt the Water God Dragon and what is the full extent of her role in the Hubei incidents?\"",
+      "defect": "The state drops the unresolved revelation that the Water God Dragon had dreamed of Taekyung and the others, recognized Taekyung from a long-ago dream, and connected those dreams to the natural order and hidden heavenly patterns.",
+      "id": "C01",
+      "rationale": "This is an explicit, unresolved plot hook spanning Chapters 478–479. Omitting it from the durable state risks losing the continuity thread in later chapters.",
+      "replacement": "\"Why did Honglan corrupt the Water God Dragon and what is the full extent of her role in the Hubei incidents?\",\n    \"What did the Water God Dragon's dreams reveal about Taekyung and the others, and what did it mean by the natural order and the heavenly patterns it could not reveal?\"",
+      "severity": "major",
+      "source": "Durable state, open_questions (final entry)"
+    },
+    {
+      "confidence": 0.99,
+      "current": "I had driven my spearhead precisely into the area beneath its neck—where a human’s Adam’s apple would have been—and tightened my grip around the shaft as I shoved it deeper.",
+      "defect": "The attack location contradicts the immediately preceding description and the checkpoint summary, which place the missing scale and killing blow at the back of the dragon’s neck.",
+      "id": "C02",
+      "rationale": "The front of the throat and the back of the neck are physically distinct locations. The current wording makes the decisive attack impossible to track consistently.",
+      "replacement": "I had driven my spearhead precisely into the gap at the back of its neck and tightened my grip around the shaft as I shoved it deeper.",
+      "severity": "major",
+      "source": "Chapter 478, Taekyung describing the killing blow"
+    },
+    {
+      "confidence": 0.98,
+      "current": "The Water God Dragon’s five hundred years were contained within it in their entirety. But perhaps because of the effects of its mutation, some parts had broken away.",
+      "defect": "The memories cannot be present \"in their entirety\" while parts of them have broken away.",
+      "id": "C03",
+      "rationale": "This preserves the intended five-hundred-year scope while remaining consistent with the blurred and missing memories described immediately afterward.",
+      "replacement": "The fragment spanned the Water God Dragon’s five hundred years, but perhaps because of its mutation, parts of those memories had broken away.",
+      "severity": "minor",
+      "source": "Chapter 478, opening of the Memory Fragment"
+    },
+    {
+      "confidence": 0.97,
+      "current": "So at least in its final moment, it had the right to meet its own death.\n\nNot die as a sacrifice for someone else’s Level Up, but experience a natural death.",
+      "defect": "Calling the death \"natural\" contradicts the fatal spear wound and the battle that directly caused it. The intended contrast is between dying as itself and dying as an exploited quest target.",
+      "id": "C04",
+      "rationale": "The replacement preserves Taekyung’s distinction without mischaracterizing a violent death as natural.",
+      "replacement": "So at least in its final moment, it had the right to die as itself—not as a sacrifice for someone else’s Level Up.",
+      "severity": "minor",
+      "source": "Chapter 479, Taekyung reflecting after the Water God Dragon’s death"
+    }
+  ],
+  "summary": "One major unresolved hook is missing from the durable state, and the reading copies contain one major anatomical contradiction plus two smaller internal contradictions.",
+  "version": 1
+}

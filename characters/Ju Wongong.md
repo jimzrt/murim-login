@@ -1,6 +1,6 @@
 # Ju Wongong (주원공)
 
-- **Safe through:** Chapter 459
+- **Safe through:** Chapter 479
 - **Aliases:** Qingxia Hall young master
 - **Role:** Ju Wongong is an exiled Qingxia Hall young master and a distant imperial relative of the Zhu ruling house who was punished for embezzling wealth while abusing his imperial authority.
 - **Personality:** Entitled, status-conscious, theatrical, and amused by violence until his own protection is overcome.
