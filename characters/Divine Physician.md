@@ -1,8 +1,8 @@
 # Divine Physician (신의)
 
-- **Safe through:** Chapter 435
+- **Safe through:** Chapter 437
 - **Aliases:** Medicine Immortal
-- **Role:** The Divine Physician is Mungyeong, the legendary physician and former Slaughter Saint who has sworn never to kill again.
+- **Role:** The Divine Physician is Mungyeong, the legendary physician and former Slaughter Saint who passed the Divine Physician title to his Disciple.
 - **Personality:** Publicly reputed to be selfless and devoted to treating patients in the lowest places.
 - **Voice:** Not established.
 - **Relationships:** Mungyeong is the Divine Physician's true identity, and Dong Feng is his Disciple.

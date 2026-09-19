@@ -1458,3 +1458,9 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 중경 | **Chongqing** | Region crossed by the Yangtze route. |
 | 강소 | **Jiangsu** | Province at the eastern end of the Yangtze route. |
 | 리자몽 | **Charizard** | Joking alternative sobriquet Taekyung imagines for Jeok Cheongang. |
+| 여암 | **Lü Yan** | Lü Dongbin's personal name; Taekyung mistakes the Korean reading for a word meaning cancer. |
+| 동빈 | **Dongbin** | Lü Yan's courtesy name. |
+| 순양자 | **Chunyangzi** | Lü Yan's Taoist name. |
+| 여동빈 | **Lü Dongbin** | The Sword Immortal identified by Mungyeong. |
+| 장삼봉 | **Jang Samfeng** | Famous Wudang figure cited as a martial-arts novel staple. |
+| 달마대사 | **Bodhidharma** | Famous Shaolin figure cited alongside Lü Dongbin and Jang Samfeng. |
