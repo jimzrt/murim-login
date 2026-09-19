@@ -1578,3 +1578,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 묘족 | **Miao people** | Ethnic group the Escort Bureau expects to encounter near Yunnan. |
 | 대장군 | **Great General** | Military title used for the official who claimed credit after the Demonic Cult withdrew. |
 | 정관대전 | **Great Government War** | Jeok Cheongang's joking name for a conflict with the government during the Great Faction War. |
+| 기억의 파편 | **Memory Fragment** | System memory item through which Taekyung viewed the Gate's history. |
+| 텔레포트 | **Teleport** | Taekyung's label for the Blood Lord's unexplained disappearance. |
+| 마법 | **Magic** | Taekyung's explanation for Dark Heaven's anomalous abilities. |
+| 시산혈해 | **sea of corpses and blood** | Description of the preceding months of bloodshed. |
