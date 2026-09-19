@@ -18,7 +18,7 @@ Jeok Cheongang roared at the top of his lungs.
 
 His face turned bright red, as though it might burst at any moment.
 
-Before he could shout even louder, I quickly slung my pack over my shoulder.
+Before he could start shouting again, I quickly slung my pack over my shoulder.
 
 “If there’s nothing else to pack, let’s get out of here.”
 
@@ -34,7 +34,7 @@ I had actually managed to beat the Fire King at something. Somehow, it felt like
 
 After glaring at my foolish grin, he turned toward the seventeen ancestral urns and bowed deeply.
 
-“Your unworthy Disciple, Jeok Cheongang, will take his leave. Until then, please remain in good health.”
+“Your unworthy Disciple, Jeok Cheongang, will take his leave. Until we meet again, please remain in good health.”
 
 “Shouldn’t you wish them Buddhahood?”
 
@@ -94,13 +94,13 @@ With auspicious energy filling the entire mountain, it was only natural for spir
 
 “Just you wait. Today, I’m finding one if it kills me.”
 
-At the foot of Mount Jiuhua, a middle-aged herbalist with the surname Hong pulled the strings of his straw sandals tight.
+At the foot of Mount Jiuhua, a middle-aged herbalist by the name of Hong tightened the cords of his straw sandals.
 
 He had traveled all the way from Sichuan in hopes of striking it rich, only to spend more than fifteen days coming up empty-handed.
 
 “Damn it. What happened to all the spiritual herbs? It’s like every last one has vanished…”
 
-The herbalists who had come with him had already given up and gone home. They had searched everywhere from the foot of Mount Jiuhua to halfway up the mountain without finding a single ginseng root.
+The herbalists who had accompanied him had already given up and gone home. They had combed the mountain from its base to its midpoint without finding so much as a single ginseng root.
 
 There might have been a chance farther up, but something more terrifying than any wild beast lived there.
 
@@ -108,7 +108,7 @@ There might have been a chance farther up, but something more terrifying than an
 
 Even martial artists who killed people as casually as they ate meals trembled at the mere mention of his name.
 
-Hong had once heard that the Fire King had single-handedly torn apart and killed a thousand vicious fiends of the terrifying Demonic Cult.
+Hong had once heard that the Fire King had single-handedly torn apart a thousand vicious fiends of the terrifying Demonic Cult.
 
 When he had asked how such a thing was possible, he had been told that the Fire King was a three-headed, six-armed monster.
 
@@ -142,13 +142,13 @@ Clank. Rattle. Boom! Rattle-rattle. Boom!
 
 The source of the heavy noises was the iron balls chained to the freak’s limbs.
 
-The smaller ones were as large as a child’s head, while the larger ones were big enough to fit inside a basket.
+The smaller ones were the size of a child’s head, while the larger ones were big enough to fill a basket.
 
-With dozens of such vicious objects dangling from his body, the herbalist had no choice but to be shocked.
+With dozens of such vicious objects dangling from his body, the herbalist could hardly help staring.
 
 *What am I looking at?*
 
-The herbalist stared blankly at the sight, then suddenly jolted.
+He was still gaping blankly when he suddenly jolted.
 
 Two pairs of eyes had drawn close enough to stare directly into his face.
 
@@ -180,7 +180,7 @@ Despite his terror, the herbalist instantly snapped to attention.
 
 Go home? If he returned empty-handed now, he would have wasted nearly two months of his life.
 
-With the heavy load on his shoulders, that was absolutely unacceptable.
+With eight mouths depending on him, he couldn’t allow that to happen.
 
 *This old man is no ordinary person.*
 
@@ -218,13 +218,13 @@ It was only natural to trust the white-haired old man more than the ragged freak
 
 “Mountain Spirit, my ass. And there’s nothing this old man can do for you. I already pulled them all up, so what do you expect me to do?”
 
-“P-pulled them up? Who pulled up all the spiritual herbs on Mount Jiuhua?”
+“P-pulled them all up? Are you saying someone took every spiritual herb on Mount Jiuhua?”
 
 “Now you’re finally making sense.”
 
 “W-who would do such a thing…?”
 
-The old man clasped his hands behind his back and gazed toward the distant mountain.
+The old man clasped his hands behind his back and gazed toward the distant mountains.
 
 “My, what fine weather.”
 
@@ -256,7 +256,7 @@ A dreadful pressure poured from the old man’s clenched fist. At last, the herb
 
 “Now that you understand, give up and go home. And be careful not to spread unnecessary rumors.”
 
-The freak also offered his advice with a serious expression.
+The freak also offered him some solemn advice.
 
 “Whatever you do, don’t go any farther up. They say a monster named Fire King Jeok Cheongang lives there. If he catches you, he’ll chew you up, tear you apart, savor you, and enjoy you while you’re still alive—then kill you.”
 
@@ -280,7 +280,7 @@ His shoulders sagged as he stepped aside to let them pass.
 
 “Oh, wait. Sir, if this is good enough, would you like it?”
 
-The freak rummaged through his pack and suddenly held out a ginseng root about three finger joints long.
+The freak rummaged through his pack, then held out a ginseng root about three finger joints long.
 
 Startled by the unexpected kindness, the herbalist asked in a trembling voice,
 
@@ -298,7 +298,7 @@ Startled by the unexpected kindness, the herbalist asked in a trembling voice,
 
 The old man, who had been silently watching, clicked his tongue.
 
-“You little fool. You give him something worth only a few coins, then act like you’ve made some grand gesture. If a man is going to be generous, he should give generously.”
+“You little fool. You give him something worth only a few coins, then act as though you’ve made some grand gesture. If a man is going to be generous, he should do it properly.”
 
 “Come on, that’s all I have left. What else am I supposed to do?”
 
@@ -316,11 +316,11 @@ As the herbalist looked back and forth between them, feeling as though he had be
 
 “Anyone want to buy some ginseng?”
 
-It was still early dawn. As the cold wind blew, the trees shuddered.
+It was still early morning. A cold wind blew past, making the trees shudder.
 
 Then several dozen men appeared on the mountain path below, marching in orderly rows.
 
-Blue martial uniforms and sword sheaths hung from their waists. At a glance, it was obvious that every one of them was a highly trained martial artist.
+They wore blue martial uniforms and carried swords at their waists. It was obvious at a glance that every last one of them was a highly trained martial artist.
 
 “Guh!”
 
