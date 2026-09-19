@@ -1428,3 +1428,9 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 게이트 오픈 | **Gate Open** | Invocation used to open the incomplete Gate |
 | 블링크 | **Blink** | Arch Lich movement spell |
 | 과다출혈 | **Excessive Bleeding** | System status effect |
+| 탈진 | **Exhaustion** | System status effect caused by exhausting all internal energy while severely injured. |
+| 의지 | **Will** | System attribute that replaces Endurance after its dramatic increase. |
+| 불굴 | **Indomitable** | Temporary special effect manifested by Jin's strong will. |
+| 블러드 익스플로젼 | **Blood Explosion** | Arch Lich spell that detonates Jin's blood and causes catastrophic injury. |
+| 본 익스플로젼 | **Bone Explosion** | Arch Lich spell that destroys the Skeleton Warlord. |
+| 소멸 | **Erasure** | Jin's term for the Skeleton Warlord's destruction by the Arch Lich's mana. |
