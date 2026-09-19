@@ -799,3 +799,7 @@ Overrides generic relationship prose in character profiles for this pair.
 | 청풍 | 제갈풍 | young_martial_artist_to_family_head | Great Hero Zhuge Feng | cheerful and polite | Cheongpung addresses Zhuge Feng as 제갈풍 대협, but deliberately mispronounces the name once as 제갈퐁 for comic effect. |
 | 제갈풍 | 청풍 | family_head_to_younger_martial_artist | you | familiar and polite | Zhuge Feng uses 자네 while instructing Cheongpung and responding to his advice. |
 | 진호 | 태경 | Older male friend addressing a younger male friend in a close hyung relationship | Taekyung | Informal and familiar | Jin-ho addresses Taekyung as 태경아 in recalled advice; Taekyung refers to him as Jin-ho hyung. |
+| 적천강 | 수신룡 | legendary_martial_master_to_dying_spirit_beast | you | wary and trembling | Jeok asks what the Water God Dragon is after witnessing its mental communication. |
+| 문경 | 수신룡 | physician_to_dying_spirit_beast | you | guarded and curious | Mungyeong asks whether the Water God Dragon knows him. |
+| 송 군관 | 홍란 | military_commander_to_singing_courtesan | Young Lady | flattering and flirtatious | Officer Song approaches Honglan and attempts to court her. |
+| 홍란 | 송 군관 | singing_courtesan_to_military_commander | Officer Song | sweet, deferential, and manipulative | Honglan uses the respectful title while enthralling him and issuing her first command. |

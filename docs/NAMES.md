@@ -1562,3 +1562,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 아구아맨 | **Aguaman** | Cheongpung's mistaken superhero nickname for Jin Taekyung. |
 | 장수 돌침대 | **Jangsu stone bed** | Korean stone-bed brand used in Taekyung's raid-team joke. |
 | 걸리버 여행기 | **Gulliver's Travels** | Book title cited in Taekyung's childhood recollection. |
+| 원정 | **Origin Essence** | The Water God Dragon's purified energy core, which humans call an inner core. |
+| 대라신선 | **Great Firmament Immortal** | Legendary immortal invoked by Mungyeong as unable to stop the dragon's death. |
+| 꽃뱀 | **flower snake** | Slang for a woman who seduces men and exploits them; retain the explanatory footnote. |
+| 송 군관 | **Officer Song** | Commander of the military ship who is enthralled by Honglan. |
