@@ -12,7 +12,7 @@ Song Song snorted at my question.
 
 “Why?”
 
-“Because it picks up the snow piled on the hill.”
+“Because it picks up the snow on the hill.”
 
 “Yeah, just like my feelings for you.”
 
@@ -52,7 +52,7 @@ Team Leader Choi groaned.
 
 “So it wasn’t a mistake on the Association’s part.”
 
-As I became famous and my past actions came to light, that part was concluded to have been a measurement error.
+Once I became famous and my history came to light, everyone concluded that result had been a measurement error.
 
 As a result, the Bucheon Association, which had conducted the retest, had taken a mountain of abuse. From their perspective, it must have felt deeply unfair.
 
@@ -122,7 +122,7 @@ Ding.
 
 “…”
 
-That was a title that made me not want to do it for some reason.
+For some reason, that title made me not want to do this anymore.
 
 * * *
 
@@ -206,7 +206,7 @@ When I reached out and scratched it for him, Team Leader Choi’s voice relaxed 
 
 “They used to call me the Filial Son’s Hand.”[^1]
 
-“And the area around my underwear is a little tight, so…”
+“And the area around my underwear is a little tight…”
 
 “Are you crazy? Handle that part yourself. Did I put you in handcuffs?”
 
@@ -216,7 +216,7 @@ When I reached out and scratched it for him, Team Leader Choi’s voice relaxed 
 
 “It isn’t your fault, Taekyung. If I’d known this would happen, I would have worn a thong.”
 
-*Does this guy actually know his way around underwear…?*
+*Does this guy actually know his underwear…?*
 
 Team Leader Choi was so nervous that he was blurting out whatever came to mind. I warned him in a low, level voice.
 
@@ -228,7 +228,7 @@ Team Leader Choi was so nervous that he was blurting out whatever came to mind. 
 
 “May I ask what exactly we’re about to do?”
 
-“I’m going to move your mana through True Qi Guidance. After that, I’ll perform a Small Circulation according to the formula of the Jin Family’s Cultivation Technique, then finish by circulating your qi and regulating your breathing.”
+“I’m going to move your mana through True Qi Guidance. After that, I’ll guide you through a Small Circulation according to the formula of the Jin Family’s Cultivation Technique, then finish by circulating your qi and regulating your breathing.”
 
 “…”
 
@@ -250,7 +250,7 @@ His answer rang with resolve. I felt Team Leader Choi’s body, which had been r
 
 He was a novice taking his first step into the unfamiliar world of martial arts.
 
-It didn’t matter how much social experience Team Leader Choi had accumulated, how many languages he spoke, or what kind of knowledge he possessed.
+It didn’t matter how much experience Team Leader Choi had accumulated in society, how many languages he spoke, or what knowledge he possessed.
 
 “Then we’ll begin.”
 
@@ -270,7 +270,7 @@ Ding.
 
 * * *
 
-I had removed the waste accumulated inside Mom and Hayeon’s bodies once before.
+I had once removed the waste accumulated inside Mom and Hayeon’s bodies.
 
 But in terms of difficulty, this was as different as heaven and earth.
 
@@ -280,7 +280,7 @@ The energy Team Leader Choi possessed was incomparably more abundant than an ord
 
 *And cleaner than I expected.*
 
-No, let me correct that. It wasn’t merely cleaner than expected. At this level, it was exceptionally clean.
+No, let me correct that. It wasn’t merely cleaner than expected. It was exceptionally clean.
 
 His muscles and bones were sturdy, his sinews and meridians strong, and his acupoints as clear as a highway at dawn. There was hardly any waste inside him.
 
@@ -324,7 +324,7 @@ Before long, the energy I was guiding had reached half a jiazi, and what little 
 
 *Now for the last step.*
 
-I had gathered the scattered energy. It was time to store it in the dantian. Once that was done, a complete circulation would be achieved, and he could be said to have taken his first step as a martial artist.
+I had gathered the scattered energy. It was time to store it in his dantian. Once that was done, he would have completed one full circulation and taken his first step as a martial artist.
 
 But then…
 
@@ -332,7 +332,7 @@ But then…
 
 When I reached Team Leader Choi’s dantian, I stopped dead.
 
-A massive mass of qi occupied half of his dantian.
+A massive clump of qi occupied half of it.
 
 Then came the System notification.
 
@@ -340,7 +340,7 @@ Ding.
 
 > **System**
 >
-> A Sudden Quest, **I’ll Take Only Half the Internal Energy I Digest.**, has been generated.
+> A Sudden Quest, **I’ll Take Only Half the Internal Energy You Digest!**, has been generated.
 >
 > Will you accept it?
 >
