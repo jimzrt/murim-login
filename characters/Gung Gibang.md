@@ -1,6 +1,6 @@
 # Gung Gibang (궁기방)
 
-- **Safe through:** Chapter 463
+- **Safe through:** Chapter 466
 - **Aliases:** Successor Beggar, Beggar Prince, pure-blooded beggar, ultimate beggar
 - **Role:** Gung Gibang is the Beggars' Sect Successor Beggar and a unique eight-knot disciple.
 - **Personality:** Vulgar, aggressive, and quick-tempered.
