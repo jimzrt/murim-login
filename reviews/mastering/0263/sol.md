@@ -22,7 +22,7 @@ Jongni Chu disappearing in the middle of the duel. Hong Dao gasping at death’s
 
 What, exactly, had everything I’d seen and heard until now meant?
 
-Where had it all begun, and how had it unfolded?
+Where and how had it all gone wrong?
 
 I stood frozen like a statue, desperately trying to grasp the thread connecting everything. But before I could put my thoughts in order, a dry voice escaped Jeok Cheongang’s lips.
 
@@ -42,7 +42,7 @@ The young man smiled faintly at Jeok Cheongang and nodded.
 
 “Why do people lie? Because every now and then, some idiot falls for it.”
 
-Blood dripped from Jeok Cheongang’s fist as he clenched it hard enough to crush something.
+Blood dripped from Jeok Cheongang’s fist as he clenched it tight enough to crush bone.
 
 “He wasn’t fooled. He allowed himself to be fooled. That was the kind of man Hong Dao was.”
 
@@ -52,7 +52,7 @@ Blood dripped from Jeok Cheongang’s fist as he clenched it hard enough to crus
 
 “Don’t give me too much grief. I hadn’t planned anything this shoddy, either. But things went wrong where I least expected them to. Of course, part of that was because of…”
 
-The young man’s gaze suddenly shifted toward me.
+The young man’s gaze shifted toward me.
 
 “The Sleeping Dragon of Shanxi, Jin Taekyung. You played your part.”
 
@@ -118,7 +118,7 @@ Whatever the case, Han Su’s face brightened at the answer from the young man c
 
 The Blood Lord clicked his tongue.
 
-“Have you spent your whole life being deceived? You completed your mission perfectly, so a Reward is only natural. But I wonder what kind of difficult request our Senior Yin Ghost is taking so long to bring up.”
+“Have you spent your whole life being deceived? You completed your mission perfectly, so a reward is only natural. But what kind of difficult request has our Senior Yin Ghost hesitating like this?”
 
 “It is not that difficult a request.”
 
@@ -168,7 +168,7 @@ At the Sound Transmission that suddenly reached my ear, I gave the slightest sha
 
 A fierce battle was already raging above us. We couldn’t expect help from Shaolin.
 
-If I withdrew, Jeok Cheongang would have no choice but to face the concentrated assault of two Supreme Peak masters.
+If I pulled out, Jeok Cheongang would have no choice but to face the combined assault of two Supreme Peak masters.
 
 *Our best option is to hold out here until the very end.*
 
@@ -196,13 +196,13 @@ I spat a wad of phlegm onto the ground where he could see it.
 
 “How dare you, you green little brat!”
 
-It was unfortunate.
+It was a damn shame.
 
 If I hadn’t been in the middle of a battle, and if time stopped completely when I used Logout instead of merely slowing down, I could have used all the time in the world to escape this crisis.
 
-But those thoughts were nothing more than personal wishful thinking.
+But that was nothing more than wishful thinking.
 
-Now was the time to face reality, not indulge in delusions.
+Now was the time to face reality, not indulge in fantasies.
 
 “I’ll freeze you alive.”
 
@@ -216,13 +216,13 @@ The ground froze beneath every step he took, and frost settled over the branches
 
 Jeok Cheongang stepped in front of me.
 
-“You dare not lay a hand on my Disciple.”
+“A bastard like you will not lay a hand on my Disciple.”
 
 Whoosh!
 
 If Han Su’s Yin-Cold Qi was an iceberg, Jeok Cheongang’s Scorching Yang Qi was the sun.
 
-If Flame Tiger’s martial arts had truly been equal to Han Su’s, then Jeok Cheongang’s overwhelming victory had been inevitable.
+Assuming Flame Tiger and Han Su were equals in martial prowess, Jeok Cheongang’s overwhelming victory had been inevitable.
 
 But Han Su looked perfectly at ease.
 
@@ -232,7 +232,7 @@ He knew there was a tiger behind him.
 
 “Of course. It’s about time we got started.”
 
-The Blood Lord tucked the Green Jade Buddha Staff into his robes as carefully as if it were a priceless treasure.
+The Blood Lord tucked the Green Jade Buddha Staff into his robes as carefully as a priceless treasure.
 
 Then he moved.
 
@@ -252,9 +252,9 @@ White hair. Dignified features. A faint smile still lingering around the mouth.
 
 Jeok Cheongang’s eyes widened along with mine.
 
-Han Su, the infamous great demonic fiend and Supreme Peak master known as the Yin Ghost, had been beheaded in a single strike.
+Han Su—the infamous demonic fiend and Supreme Peak master known as the Yin Ghost—had been beheaded in a single strike.
 
-By the hand of the ally he had trusted without question.
+By the ally he had trusted without question.
 
 Unlike us, the Blood Lord—the one responsible for everything—remained perfectly calm.
 
@@ -266,7 +266,7 @@ Splash!
 
 The corpse toppled like a dead tree, spraying a fountain of blood across the ground.
 
-“If you’re a sword, act like a sword. Go wherever the person holding you swings you. How dare you…”
+“If you’re a sword, act like one. Cut wherever your wielder points you. How dare you…!”
 
 Thud! Thud! Crack!
 
@@ -274,7 +274,7 @@ His kicks, loaded with internal energy, tore through flesh and shattered bone.
 
 After repeatedly stamping and grinding Han Su’s lifeless corpse beneath his feet, the Blood Lord swept his fallen hair back.
 
-“There are always people who don’t know their place. They don’t know how strong they are or how far they should stick their necks out. Sleeping Dragon of Shanxi, don’t you agree?”
+“There are always people who don’t know their place. They don’t know their own level or when they should stay out of things. Sleeping Dragon of Shanxi, don’t you agree?”
 
 *…Me?*
 
@@ -290,13 +290,13 @@ Then a smile spread across his lips.
 
 “You’re bold for a young one.”
 
-“You’re still a young brat yourself, and you already seem a little unhinged.”
+“You’re still young yourself, and you already seem a little unhinged.”
 
 “Thank you for thinking I’m young. I’m older than I look.”
 
-“Not that old.”
+“How old could you possibly be?”
 
-“Don’t push it. I’ve lived at least twice as long as you have.”
+“Don’t be so sure. I’ve lived at least twice as long as you have.”
 
 I looked him up and down in disbelief.
 
@@ -324,7 +324,7 @@ That only made him feel more dangerous.
 
 Even now, bent over with laughter and his shoulders shaking, he showed not the slightest opening.
 
-Jeok Cheongang, who had been glaring at him as his shoulders shook, suddenly spoke.
+Jeok Cheongang glared at him before abruptly speaking.
 
 “You will regret this.”
 
@@ -342,13 +342,13 @@ The Blood Lord stopped laughing and frowned.
 
 The Blood Lord stroked his chin.
 
-“You are worth rating highly, Fire King. If the Great Faction War had continued for one more year, you probably would have become one of the Four Saints instead of merely one of the Three Saints.”
+“You’re worth rating highly, Fire King. If the Great Faction War had continued for one more year, you probably would have become one of the Four Saints instead of the Three Saints.”
 
 “Then it seems my edge has not gone dull yet.”
 
-“You are good enough to be called a fine sword.”
+“You’re more than worthy of being called a fine sword.”
 
-“What would happen if that fine sword were driven into your heart?”
+“What would happen if that fine sword pierced your heart?”
 
 “Who knows… I’m sturdier than I look. I doubt that would draw even a single drop of blood.”
 
@@ -368,7 +368,7 @@ Without taking his eyes off the Blood Lord, Jeok Cheongang asked me:
 
 “What do you think of that?”
 
-“I think his mouth needs a circumcision. It’s been spewing nothing but dickhead bullshit for a while now.”
+“I think his mouth needs circumcising. It’s been spewing dick nonstop.”
 
 The smile disappeared from the Blood Lord’s face.
 
