@@ -727,3 +727,7 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 고준 | dominant adversary confronting Lee Jungryong's Disciple | you | contemptuous and informal | Jin uses 너 and 놈 while overpowering Go Jun and ordering him to end the conflict with Lee Jungryong. |
 | 진태경 | 매직 존슨 | friend and ally | Johnson | familiar and direct | Jin calls Johnson by name while asking him to become an ally. |
 | 매직 존슨 | 진태경 | friend and ally | Jin | familiar but serious | Johnson addresses Jin familiarly while confronting him about the truth. |
+| 젊은 기자 | 진태경 | reporter addressing a renowned Hunter and suspected identity | Mr. Jin / sir | formal and deferential | The reporter first addresses Jin casually as 아저씨, then repeatedly uses 선생님 while pleading and asking questions. |
+| 진태경 | 젊은 기자 | rescuer addressing an intrusive reporter | mister / kid | irritated and insulting-casual | Jin tells the reporter to move, calls him slow on the uptake, and refers to him as 학생. |
+| 힐러 | 진태경 | healer addressing the rescuer who stabilized the survivor | sir | deferential and grateful | The healer thanks Jin as 선생님 after witnessing his rescue and treatment. |
+| 카메라 감독 | 진태경 | cameraman addressing a suspected famous Hunter | Mr. Jin | startled and honorific | The cameraman calls out 진 선생님 after recognizing Jin's abilities and manner. |

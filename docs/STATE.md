@@ -1,15 +1,15 @@
 # Translation State
 
-- Last completed: 432
-- Next chapter: 433
-- Current block: 430–434 (3/5)
-- Latest translation: `translations/0432.md`
-- Latest summary: `summaries/beats/0432.md`
-- Safe profiles through: chapter 432
+- Last completed: 433
+- Next chapter: 434
+- Current block: 430–434 (4/5)
+- Latest translation: `translations/0433.md`
+- Latest summary: `summaries/beats/0433.md`
+- Safe profiles through: chapter 433
 
 ## Current Block
 
-- Magic Johnson learns that Jin knew the truth from the beginning and that Lee Jungryong and Go Jun were his enemies, then chooses to trust Jin as a friend and agrees to help protect Jin's people and support his growth. They clean the bloodied scene, reject the risky and illegal option of altering Go Jun's memories, and leave Go Jun to be carried away by three immobilized A-rank Ares Hunters after Jin threatens them and urges them to reconsider their allegiance. Jin plans to weaken Ares Guild's influence while strengthening Peace Guild, evades Magic Johnson's questions about the magic circle by changing the subject to a club outing with the Skeleton King, and senses that it is nearly time to return to Murim.
+- Twenty days after the Small Cataclysm, international Hunters and rescue workers continue rebuilding Sichuan Province while Chairman Shao Yang's faction publicly purges Wu Xueming and the Crown Prince Party. Jin Taekyung secretly joins the rescue effort, saves the last survivor in one area, and is accidentally exposed during a live CCTV broadcast after denying his identity, turning the broadcast disaster into a sensational scoop with ratings exceeding thirty percent. An aircraft formation arrives to take him back to Korea.
 
 ## Open Questions
 
