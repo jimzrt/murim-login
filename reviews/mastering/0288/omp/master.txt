@@ -1,6 +1,6 @@
 # Chapter 288
 
-In the back seat of the spacious limousine, Lee Jungryong held Go Jun’s arm and sent his mana flowing into it.
+In the spacious back seat of the limousine, Lee Jungryong gripped Go Jun’s arm and channeled mana into him.
 
 Go Jun’s limp body twitched, then strength returned to it.
 
@@ -100,7 +100,7 @@ Lee Jungryong shook his head.
 
 “That boy Minwoo never learned a mana cultivation method. Neither did Kim Hwajong, who has remained by his side since childhood.”
 
-“Isn’t it something no one knows about? If the Guild Master…”
+“But no one can know that for certain. If the Guild Master…”
 
 “Who?”
 
@@ -128,7 +128,7 @@ Both of Go Jun’s knees struck the floor. He bowed his head deeply.
 
 “Get up.”
 
-Even after carefully lifting his knees from the floor and sitting back down, Go Jun could not look Lee Jungryong straight in the eye.
+Even after carefully rising from his knees and returning to his seat, Go Jun could not look Lee Jungryong in the eye.
 
 He had spent years at Lee Jungryong’s side and had seen and learned many things.
 
@@ -142,7 +142,7 @@ Lee Jungryong broke the suffocating silence.
 
 Go Jun lowered his head even further.
 
-“Yes, Vice Guild Master. Please speak.”
+“Yes, Vice Guild Master. What are your orders?”
 
 “You’re going to be very busy from now on. If you run your mouth as carelessly as you did today, you’ll put me in a very difficult position.”
 
@@ -160,7 +160,7 @@ Go Jun cautiously raised his head.
 
 “And…… keep a close watch on the executives’ movements. Include the status of our overseas branches.”
 
-“I’ll carry it out without a single omission.”
+“I’ll see it done without fail.”
 
 Lee Jungryong’s position within Ares Guild was already secure.
 
@@ -176,7 +176,7 @@ Paid enormous salaries and taught mana cultivation methods, its members offered 
 
 Lee Jungryong turned toward the window. Beyond the spotless glass, the Han River stretched wide into the distance.
 
-Only thirty-some years ago, its waters had been filled with the corpses of humans and monsters. Now they were clear and clean, as though nothing had ever happened.
+Barely thirty years ago, its waters had been choked with human and monster corpses. Now the river ran clear and clean, as though none of it had ever happened.
 
 *Older brother. The world has changed so much.*
 
@@ -204,7 +204,7 @@ Dozens of waiting Hunters bowed to him. The lapels of their suits bore the emble
 
 “Welcome, Vice Guild Master Lee Jungryong!”
 
-Their shout was perfectly synchronized, as though measured with a ruler.
+Their perfectly synchronized shout might have been measured with a ruler.
 
 A faint smile on his lips, the man in power stepped onto the red carpet.
 
@@ -212,7 +212,7 @@ A faint smile on his lips, the man in power stepped onto the red carpet.
 
 This was a world where even white-haired old men wore wireless earbuds and watched iTube.
 
-Whenever snow fell and icy roads formed, nursing homes shut down, while Old Man Kim and Granny Park chatted through a voice-chat app and played online Go-Stop.[^1]
+Whenever snow covered the roads in ice, nursing homes practically shut down while Old Man Kim and Granny Park chatted over voice-chat apps and played online Go-Stop.[^1]
 
 If magic was a mysterious realm of unknowable origins, the internet was the culmination of twenty-first-century civilization.
 
@@ -224,13 +224,13 @@ Tap. Tap-tap.
 
 *Cheon Taemin.*
 
-His name completed itself after I typed only the initial consonants. It even ranked higher in searches than heaven.
+His name completed itself after I entered only the initial consonants. He even ranked higher in searches than heaven.
 
 People were more interested in the man who had stopped them from nearly going to heaven than in heaven itself.
 
 *I was no different.*
 
-Muttering inwardly, I tapped the search result that read “Cheon Taemin—Profile.”
+I tapped the search result labeled “Cheon Taemin—Profile.”
 
 The face I had seen hundreds—no, thousands—of times since elementary school filled my phone screen.
 
@@ -252,7 +252,7 @@ Im Kkeokjeong, Song Song, and I stared openmouthed, looking back and forth betwe
 
 Only when Team Leader Choi finally cleared his throat uncomfortably did we come to our senses.
 
-No, not yet. Come to my senses, my ass.
+No, we hadn’t. Come to my senses, my ass.
 
 *What the hell is going on?*
 
@@ -370,7 +370,7 @@ With Ares Guild tightening the screws from every direction, Team Leader Choi had
 
 That was when Im Kkeokjeong and I appeared on his radar.
 
-Fortunately, there had been no significant pressure this time.
+Fortunately, there had been no real interference that time.
 
 *Two low-ranked Hunters probably didn’t seem worth bothering with.*
 
@@ -412,7 +412,7 @@ I stared at him for a moment, then spoke.
 
 “…….”
 
-“They’re dinosaurs. We’re ants. We’re weak, so let’s back off before we get hurt worse. That’s what you’re saying, right?”
+“They’re dinosaurs. We’re ants. We’re weak, so we should back down before anyone gets hurt worse. That’s what you’re saying, right?”
 
 “Mr. Jin Taekyung.”
 
@@ -424,6 +424,6 @@ Team Leader Choi stared at me with wide eyes. I spoke slowly, enunciating every 
 
 No.
 
-“I’ll make you strong. I will.”
+“I’ll make us strong. I will.”
 
 [^1]: Go-Stop is a Korean card game played with *hwatu*, traditional flower cards.
