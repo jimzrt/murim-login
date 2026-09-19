@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "It fires the attack as Taekyung, Jeok, Mungyeong, and Cheongpung rush to respond.",
+      "defect": "The summary incorrectly places Taekyung among the three figures rushing forward from the ground. Taekyung remains on the dragon’s head and shouts the warning from above; only Jeok Cheongang, Mungyeong, and Cheongpung rush forward.",
+      "id": "C01",
+      "rationale": "This preserves the combatants’ established positions at the chapter-ending hook.",
+      "replacement": "It fires the attack as Jeok Cheongang, Mungyeong, and Cheongpung rush to respond from the ground while Taekyung shouts a warning from above.",
+      "severity": "major",
+      "source": "Checkpoint summary, Plot, final battle paragraph"
+    },
+    {
+      "confidence": 1.0,
+      "current": "An unidentified figure remains on the dragon's head and can tear out its whiskers barehanded.",
+      "defect": "The figure is no longer unidentified. Chapters 473 and 474 explicitly identify him as Jin Taekyung, and retaining this wording creates false uncertainty in active continuity.",
+      "id": "C02",
+      "rationale": "Active state must reflect information revealed through chapter 474 rather than preserving an uncertainty that existed only from Mungyeong’s temporary viewpoint.",
+      "replacement": "Jin Taekyung remains on the dragon's head after tearing out its whiskers and ripping away many of its scales with his bare hands.",
+      "severity": "major",
+      "source": "Durable state, active_continuity, final entry"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Who is the unidentified figure hanging from the dragon's head, and why can that figure tear out its whiskers barehanded?",
+      "defect": "The identity is already resolved as Jin Taekyung, while the chapter’s actual final unresolved hook—how the corrupted dragon can use Breath—is absent from the open questions.",
+      "id": "C03",
+      "rationale": "This removes a false open question and preserves the explicit unresolved hook ending chapter 474.",
+      "replacement": "How can the corrupted Water God Dragon use Breath, a power exclusive to Dragonkin?",
+      "severity": "major",
+      "source": "Durable state, open_questions, final entry"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Just as the streak of light was about to pierce through my chest, I found myself gripping it with a hand wreathed in blue-white flames.",
+      "defect": "The attack is repeatedly established as flying toward Taekyung’s face, but its target changes to his chest without any deflection or change in trajectory.",
+      "id": "C04",
+      "rationale": "Maintains the immediately established trajectory and removes an internal action contradiction.",
+      "replacement": "Just as the streak of light was about to pierce through my face, I found myself gripping it with a hand wreathed in blue-white flames.",
+      "severity": "minor",
+      "source": "Chapter 473, whisker-spear attack"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Everyone on the ground saw the monster’s blood-red pupils, which had been scattering red energy, slowly turn pitch-black.",
+      "defect": "The dragon has only one eye and one pupil left after Taekyung melts the other eye in chapter 473.",
+      "id": "C05",
+      "rationale": "Preserves the dragon’s established injury and agrees with the opening of chapter 474, which explicitly refers to its one remaining eye.",
+      "replacement": "Everyone on the ground saw the monster’s blood-red pupil, which had been scattering red energy, slowly turn pitch-black.",
+      "severity": "minor",
+      "source": "Chapter 474, Breath formation"
+    },
+    {
+      "confidence": 1.0,
+      "current": "The dragon has begun using Breath: its pupils turn black, it forms a massive sphere of water in its mouth, and it fires the sphere toward the ground.",
+      "defect": "The active state repeats the plural-pupil continuity error even though the dragon has only one eye remaining.",
+      "id": "C06",
+      "rationale": "Keeps durable state consistent with the dragon’s established loss of one eye.",
+      "replacement": "The dragon has begun using Breath: its remaining pupil turns black, it forms a massive sphere of water in its mouth, and it fires the sphere toward the ground.",
+      "severity": "minor",
+      "source": "Durable state, active_continuity, Breath entry"
+    },
+    {
+      "confidence": 0.96,
+      "current": "My familiar face was reflected in its long, vertical, blood-red pupils.",
+      "defect": "“My familiar face” is unnatural self-description and briefly suggests a previously known or recognized face rather than simply Taekyung’s reflection.",
+      "id": "C07",
+      "rationale": "Removes an awkward collocation without changing the image, viewpoint, or action.",
+      "replacement": "My face was reflected in its long, vertical, blood-red pupils.",
+      "severity": "minor",
+      "source": "Chapter 470, dragon’s first close approach"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“... Huh?”\n\nThe moment I heard the System notification, I nearly lost my own reason.",
+      "defect": "The dialogue uses three ASCII periods instead of the required ellipsis character.",
+      "id": "C08",
+      "rationale": "Conforms to the packet’s binding Markdown and punctuation rules.",
+      "replacement": "“…Huh?”\n\nThe moment I heard the System notification, I nearly lost my own reason.",
+      "severity": "minor",
+      "source": "Chapter 473, first Berserk notification reaction"
+    },
+    {
+      "confidence": 1.0,
+      "current": "*Ppeok!*\n\n“... Hng!”",
+      "defect": "The dialogue uses three ASCII periods instead of the required ellipsis character.",
+      "id": "C09",
+      "rationale": "Conforms to the packet’s binding Markdown and punctuation rules.",
+      "replacement": "*Ppeok!*\n\n“…Hng!”",
+      "severity": "minor",
+      "source": "Chapter 473, impact against the rock"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“...!”\n\nIt was unbelievably fast.",
+      "defect": "The reaction uses three ASCII periods instead of the required ellipsis character.",
+      "id": "C10",
+      "rationale": "Conforms to the packet’s binding Markdown and punctuation rules.",
+      "replacement": "“…!”\n\nIt was unbelievably fast.",
+      "severity": "minor",
+      "source": "Chapter 473, incoming whisker spear"
+    },
+    {
+      "confidence": 1.0,
+      "current": "*Kwadeudeudeudeuk—Ppok!*\n\n“... Huh?”\n\n—Krrk?",
+      "defect": "The dialogue uses three ASCII periods instead of the required ellipsis character.",
+      "id": "C11",
+      "rationale": "Conforms to the packet’s binding Markdown and punctuation rules.",
+      "replacement": "*Kwadeudeudeudeuk—Ppok!*\n\n“…Huh?”\n\n—Krrk?",
+      "severity": "minor",
+      "source": "Chapter 473, whiskers torn out by the roots"
+    }
+  ],
+  "summary": "The reading copies remain broadly coherent, but the checkpoint summary and durable state contain material continuity errors about Taekyung’s location and identity. Chapters 473–474 also contain two action-detail contradictions and four formatting violations.",
+  "version": 1
+}

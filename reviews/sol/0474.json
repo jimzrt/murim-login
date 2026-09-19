@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Hey, do you know why you can’t walk?”\n\n—Krrk…?\n\n“Because you don’t have two feet.”",
+      "defect": "The answer preserves only the literal walking joke and loses the pun: 두발 can mean both “two feet” and “hair,” making this line part of Taekyung’s sustained baldness taunt.",
+      "id": "F01",
+      "rationale": "The expanded English punchline preserves both meanings available simultaneously in 두발 and maintains the transition into the following hair-related abuse.",
+      "replacement": "“Hey, know why you can’t walk?”\n\n—Krrk…?\n\n“Because you don’t have two feet. Hell, you don’t even have two hairs.”",
+      "severity": "major",
+      "source": "“마, 네가 왜 못 걸어 다니는 줄 알아?”\n\n- 크륵……?\n\n“두발이 없어서.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "And yet that blood-soaked bastard had crushed them and torn them away.",
+      "defect": "핏덩이 here disparages Taekyung as a mere youngster or young whelp; it does not mean that he is soaked in blood. The draft replaces Jeok Cheongang’s age-based contempt with an incidental visual description.",
+      "id": "F02",
+      "rationale": "핏덩이 literally evokes a newborn lump of flesh and is used contemptuously for someone very young or immature.",
+      "replacement": "And yet that young whelp had simply smashed them apart and ripped them off.",
+      "severity": "major",
+      "source": "그런데 저 핏덩이는 아예 부수고, 뜯어 버렸다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Come on, we should go too. Mimi. Lightning! Make a whirlwind!”",
+      "defect": "“Lightning!” turns Cheongpung’s first attempted command into a bare noun. Both phrases are enthusiastic commands telling Mimi to imitate the dragon’s attacks.",
+      "id": "F03",
+      "rationale": "벼락치기 and 회오리 일으키기 function here as parallel attack commands, which drives the joke when Mimi cannot perform either one.",
+      "replacement": "“Come on, let’s go too. Mimi! Strike with lightning! Whip up a whirlwind!”",
+      "severity": "minor",
+      "source": "“자, 우리도 가요. 미미. 벼락치기! 회오리 일으키기!”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "The rain and wind that had been pouring down without pause stopped.\n\nEven the lightning ceased.",
+      "defect": "The personified final beat 숨을 죽였다, stating that the storm itself held its breath, is omitted.",
+      "id": "F04",
+      "rationale": "숨을 죽였다 extends the chapter’s repeated personification of the surroundings and marks the ominous stillness before the Breath attack.",
+      "replacement": "By then, the wind and rain that had been pouring down without pause had stopped.\n\nSo had the lightning.\n\nEverything held its breath.",
+      "severity": "minor",
+      "source": "어느덧 쉴새 없이 쏟아져 내리던 비바람도, 벼락도 멈췄다. 숨을 죽였다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "At the same time, its enormous maw began to open.\n\nA sphere of water was swept toward it, as though being sucked into a darkness as black as a cavern.",
+      "defect": "The draft describes the already-formed sphere as being swept toward an unclear referent. The source depicts the sphere of water churning or swirling as though it were being drawn into the cavern-dark maw.",
+      "id": "F05",
+      "rationale": "휘몰아치는 specifies turbulent swirling, and the cavern-dark opening is the destination into which the water appears to be drawn.",
+      "replacement": "At the same time, its enormous maw slowly opened, revealing cavernous darkness, while a sphere of water churned as though being sucked into its depths.",
+      "severity": "major",
+      "source": "그와 동시에 천천히 벌어지는 거대한 아가리와, 동굴처럼 컴컴한 어둠으로 빨려가듯 휘몰아치는 물의 구(球) 역시도."
+    },
+    {
+      "confidence": 0.99,
+      "current": "With monsters possessing such diverse traits, arguments are inevitable whenever the topic comes up—both among actual experts and among internet fucking experts.",
+      "defect": "“Internet fucking experts” can still denote genuine experts who happen to be described profanely. 좆문가 is a vulgar portmanteau mocking ignorant online know-it-alls who merely pose as experts, explicitly contrasting them with 실제 전문가들.",
+      "id": "F06",
+      "rationale": "The replacement preserves the contrast between legitimate specialists and vulgar pseudo-experts while retaining the source’s profanity.",
+      "replacement": "With monsters possessing such diverse traits, arguments are inevitable whenever the topic comes up—both among actual experts and among every fucking know-it-all on the internet.",
+      "severity": "major",
+      "source": "이처럼 몬스터들의 특성이 다양하니 실제 전문가들 사이에서도, 인터넷 좆문가들 사이에서도 만났다 하면 갑론을박이 오가기 마련이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Beings blessed with both Intelligence and physical bodies.",
+      "defect": "All embodied creatures have physical bodies; the draft loses the claim that dragonkin possess exceptionally gifted physiques.",
+      "id": "F07",
+      "rationale": "축복받은 modifies both 지능 and 육체, identifying superior intellect and superior physical constitution as innate dragonkin advantages.",
+      "replacement": "Beings blessed with both Intelligence and extraordinary physiques.",
+      "severity": "major",
+      "source": "축복받은 지능과 육체를 타고난 존재들."
+    },
+    {
+      "confidence": 0.99,
+      "current": "But why?\n\nWhy on earth was this bastard using Breath?\n\n*Kwaaaaaaaaaah!*\n\n…Why the hell was it using Breath?",
+      "defect": "The draft invents a complete pre-attack question and then repeats that same question afterward. The source has three fragmented expressions of disbelief before the blast and delivers the full profane question only after it.",
+      "id": "F08",
+      "rationale": "This restores the source’s staccato escalation and preserves the delayed full question as the chapter-ending punchline.",
+      "replacement": "But seriously.\n\nHow?\n\nWhy?\n\n*Kwaaaaaaaaaah!*\n\n…Why the hell was this bastard using Breath?",
+      "severity": "minor",
+      "source": "그런데 도대체. 어째서. 왜.\n\n콰아아아아아!\n\n……이 새끼가 브레스를 쓰는 걸까?"
+    }
+  ],
+  "summary": "Several actionable fidelity defects: a central hair/feet pun is lost, a youth-related insult is mistranslated, the Breath formation mechanism is blurred, and the monster taxonomy reverses the intended contrast between real and bogus experts.",
+  "version": 1
+}
