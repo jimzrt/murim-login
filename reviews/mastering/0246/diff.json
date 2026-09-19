@@ -1,0 +1,2488 @@
+{
+  "baseline_blocks": 240,
+  "baseline_sha256": "7c2b889805e26ae3a6153da54395e6ff4294ac8993442494d0fce392b8878d2a",
+  "global_terminology_alerts": [],
+  "hunk_count": 136,
+  "hunks": [
+    {
+      "baseline": "> **System**\n>\n> **Quest**\n>\n> **Star-Array Grand Banquet**\n>\n> What more needs to be said?\n>\n> Go forward without hesitation. Become the winner of this banquet watched by all under heaven, leave your mark on the Murim, and enjoy the glory!\n>\n> **Grade:** Supreme Peak\n>\n> **Restriction:** Jin Taekyung\n>\n> **Mission:** Win the Star-Array Grand Banquet (Incomplete)\n>\n> **Reward:** ???\n>\n> **Failure:** Fire King's Wrath",
+      "baseline_paragraphs": "P2",
+      "baseline_range": [
+        1,
+        2
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "5",
+      "sol": "> **System**\n>\n> **Quest**\n>\n> **Star-Array Grand Banquet**\n>\n> What more needs to be said?\n>\n> Go forth without hesitation. Become the champion of this banquet watched by all under heaven, leave your mark on the Murim, and bask in glory!\n>\n> **Grade:** Supreme Peak\n>\n> **Restriction:** Jin Taekyung\n>\n> **Mission:** Win the Star-Array Grand Banquet (Incomplete)\n>\n> **Reward:** ???\n>\n> **Failure:** Fire King’s Wrath",
+      "sol_paragraphs": "P2",
+      "sol_range": [
+        1,
+        2
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I paused at the penalty I would receive for failing.",
+      "baseline_paragraphs": "P4",
+      "baseline_range": [
+        3,
+        4
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "11",
+      "sol": "I paused at the penalty for failure.",
+      "sol_paragraphs": "P4",
+      "sol_range": [
+        3,
+        4
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*I mean, it’s possible I might not win the Star-Array Grand Banquet. Is he really going to get angry over that, too?*",
+      "baseline_paragraphs": "P5",
+      "baseline_range": [
+        4,
+        5
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "13",
+      "sol": "*I mean, I might not win the Star-Array Grand Banquet. Is that really something to get angry about?*",
+      "sol_paragraphs": "P5",
+      "sol_range": [
+        4,
+        5
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "Imagining Jeok Cheongang throwing a tantrum, I began to feel wronged.",
+      "baseline_paragraphs": "P6",
+      "baseline_range": [
+        5,
+        6
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "17",
+      "sol": "Imagining Jeok Cheongang flying into a rage left me feeling a little wronged.",
+      "sol_paragraphs": "P6",
+      "sol_range": [
+        5,
+        6
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*And after teaching me for barely a year.*",
+      "baseline_paragraphs": "P7",
+      "baseline_range": [
+        6,
+        7
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "19",
+      "sol": "*Especially after teaching me for barely a year.*",
+      "sol_paragraphs": "P7",
+      "sol_range": [
+        6,
+        7
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Of course, my case was extremely unusual.",
+      "baseline_paragraphs": "P8",
+      "baseline_range": [
+        7,
+        8
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "21",
+      "sol": "Granted, I was an extremely unusual case.",
+      "sol_paragraphs": "P8",
+      "sol_range": [
+        7,
+        8
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even so, the fact that the Quest window went out of its way to spell it out suggested just how much Jeok Cheongang expected of me.",
+      "baseline_paragraphs": "P9",
+      "baseline_range": [
+        8,
+        9
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "23",
+      "sol": "Even so, the fact that the Quest window went out of its way to spell it out showed just how much Jeok Cheongang expected of me.",
+      "sol_paragraphs": "P9",
+      "sol_range": [
+        8,
+        9
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I closed the Quest window at the supervisor’s call and started walking.",
+      "baseline_paragraphs": "P12",
+      "baseline_range": [
+        11,
+        12
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "33",
+      "sol": "At the supervisor’s call, I closed the Quest window and stepped forward.",
+      "sol_paragraphs": "P12",
+      "sol_range": [
+        11,
+        12
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "With every step I took, I felt the people’s gazes on me. Along with them, murmuring voices pierced my ears.",
+      "baseline_paragraphs": "P13",
+      "baseline_range": [
+        12,
+        13
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "35",
+      "sol": "With every step, I felt people’s gazes following me, their murmurs drifting into my ears.",
+      "sol_paragraphs": "P13",
+      "sol_range": [
+        12,
+        13
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Is that the young man? The one who was taken in as the Fire King’s Disciple?”",
+      "baseline_paragraphs": "P16",
+      "baseline_range": [
+        15,
+        16
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "41",
+      "sol": "“Is that him? The young man the Fire King took as his Disciple?”",
+      "sol_paragraphs": "P16",
+      "sol_range": [
+        15,
+        16
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That’s him. Definitely.”",
+      "baseline_paragraphs": "P17",
+      "baseline_range": [
+        16,
+        17
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "43",
+      "sol": "“That’s him. I’m sure of it.”",
+      "sol_paragraphs": "P17",
+      "sol_range": [
+        16,
+        17
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I could also hear the same gruff voice from Norway that I had heard earlier.",
+      "baseline_paragraphs": "P18",
+      "baseline_range": [
+        17,
+        18
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "45",
+      "sol": "I also heard Norway’s familiar gruff voice.",
+      "sol_paragraphs": "P18",
+      "sol_range": [
+        17,
+        18
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Hmph. So you had something to rely on after all. You may look the part, but you’re still a weakling.”",
+      "baseline_paragraphs": "P19",
+      "baseline_range": [
+        18,
+        19
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "47",
+      "sol": "“Hmph. So you did have something to rely on. You may look the part, but you’re still a weakling.”",
+      "sol_paragraphs": "P19",
+      "sol_range": [
+        18,
+        19
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I ignored the whispers coming from every direction and stopped in front of the cliff.",
+      "baseline_paragraphs": "P20",
+      "baseline_range": [
+        19,
+        20
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "49",
+      "sol": "Ignoring the whispers from every direction, I stopped in front of the cliff.",
+      "sol_paragraphs": "P20",
+      "sol_range": [
+        19,
+        20
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The supervisor, who had been looking at me with an astonished expression, spoke in a suddenly more polite tone.",
+      "baseline_paragraphs": "P21",
+      "baseline_range": [
+        20,
+        21
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "51",
+      "sol": "The supervisor, who had been staring at me in surprise, addressed me in a suddenly more respectful tone.",
+      "sol_paragraphs": "P21",
+      "sol_range": [
+        20,
+        21
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“If the depth is at least three Korean inches, you pass. Anything shallower is a failure.”",
+      "baseline_paragraphs": "P22",
+      "baseline_range": [
+        21,
+        22
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "53",
+      "sol": "“If the mark is at least three Korean inches deep, you pass. Anything less is a failure.”",
+      "sol_paragraphs": "P22",
+      "sol_range": [
+        21,
+        22
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "An ordinary First Rate master who had steadily trained in fist techniques could pass without much trouble at that level.",
+      "baseline_paragraphs": "P25",
+      "baseline_range": [
+        24,
+        25
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "59",
+      "sol": "Any ordinary First Rate master who had consistently trained in fist techniques should be able to pass without much trouble.",
+      "sol_paragraphs": "P25",
+      "sol_range": [
+        24,
+        25
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But now that I was actually about to do it, tension began to build.",
+      "baseline_paragraphs": "P26",
+      "baseline_range": [
+        25,
+        26
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "61",
+      "sol": "But now that it was my turn, I found myself growing tense.",
+      "sol_paragraphs": "P26",
+      "sol_range": [
+        25,
+        26
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I honestly had no clue. Exactly how much strength did I need to apply to leave a mark three Korean inches deep?",
+      "baseline_paragraphs": "P28",
+      "baseline_range": [
+        27,
+        28
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "65",
+      "sol": "I honestly didn’t know. How hard did I need to hit the cliff to leave a mark three Korean inches deep?",
+      "sol_paragraphs": "P28",
+      "sol_range": [
+        27,
+        28
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "근력",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Strength"
+        }
+      ]
+    },
+    {
+      "baseline": "After staring at the cliff for a while, I decided to use the Help function.",
+      "baseline_paragraphs": "P29",
+      "baseline_range": [
+        28,
+        29
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "67",
+      "sol": "After staring at it for a moment, I decided to use the Help function.",
+      "sol_paragraphs": "P29",
+      "sol_range": [
+        28,
+        29
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“As long as the depth is at least three Korean inches, I pass, right?”",
+      "baseline_paragraphs": "P32",
+      "baseline_range": [
+        31,
+        32
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "73",
+      "sol": "“As long as I make the mark at least three Korean inches deep, I pass, right?”",
+      "sol_paragraphs": "P32",
+      "sol_range": [
+        31,
+        32
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That is correct. However, once your fist lands, the test is over.”",
+      "baseline_paragraphs": "P33",
+      "baseline_range": [
+        32,
+        33
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "75",
+      "sol": "“That is correct. However, once your fist leaves the cliff, your attempt is over.”",
+      "sol_paragraphs": "P33",
+      "sol_range": [
+        32,
+        33
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I nodded and immediately placed my fist against the cliff. Then I gave it a gentle push.",
+      "baseline_paragraphs": "P36",
+      "baseline_range": [
+        35,
+        36
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "81",
+      "sol": "I nodded, placed my fist against the cliff, and gave it a gentle push.",
+      "sol_paragraphs": "P36",
+      "sol_range": [
+        35,
+        36
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The surface of the cliff split as softly as tofu. Crumbled pieces of rock and dirt poured down.",
+      "baseline_paragraphs": "P38",
+      "baseline_range": [
+        37,
+        38
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "85",
+      "sol": "The cliff face split as softly as tofu. Fragments of rock and clumps of dirt came pouring down.",
+      "sol_paragraphs": "P38",
+      "sol_range": [
+        37,
+        38
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "With my arm embedded all the way to the elbow, I looked at the supervisor.",
+      "baseline_paragraphs": "P39",
+      "baseline_range": [
+        38,
+        39
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "87",
+      "sol": "With my arm buried up to the elbow, I looked at the supervisor.",
+      "sol_paragraphs": "P39",
+      "sol_range": [
+        38,
+        39
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He stared at my face, then at the arm stuck in the cliff, his mouth hanging open. Finally, he stammered out a question.",
+      "baseline_paragraphs": "P43",
+      "baseline_range": [
+        42,
+        43
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "95",
+      "sol": "His mouth hanging open, he looked back and forth between my face and the arm embedded in the cliff. Then he stammered out a question.",
+      "sol_paragraphs": "P43",
+      "sol_range": [
+        42,
+        43
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Anyway, I passed, right? My fist didn’t even land, and it went in plenty deep.”",
+      "baseline_paragraphs": "P49",
+      "baseline_range": [
+        48,
+        49
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "107",
+      "sol": "“Anyway, I passed, right? My fist never left the cliff, and the hole is more than deep enough.”",
+      "sol_paragraphs": "P49",
+      "sol_range": [
+        48,
+        49
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The supervisor’s pupils wavered.",
+      "baseline_paragraphs": "P51",
+      "baseline_range": [
+        50,
+        51
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "111",
+      "sol": "The supervisor’s eyes wavered.",
+      "sol_paragraphs": "P51",
+      "sol_range": [
+        50,
+        51
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Then it’s settled. From now on, we can do it this way.”",
+      "baseline_paragraphs": "P53",
+      "baseline_range": [
+        52,
+        53
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "115",
+      "sol": "“Then it’s settled. This is how you handle it from now on.”",
+      "sol_paragraphs": "P53",
+      "sol_range": [
+        52,
+        53
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Y-Young Hero Jin, I’m sorry, but could you do it a little more normally? It’s somewhat difficult for me to make a judgment…”",
+      "baseline_paragraphs": "P54",
+      "baseline_range": [
+        53,
+        54
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "117",
+      "sol": "“Y-Young Hero Jin, I’m sorry, but could you do it a little more normally? I’m finding it rather difficult to judge…”",
+      "sol_paragraphs": "P54",
+      "sol_range": [
+        53,
+        54
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I was wondering whether I should just throw out a moderately powerful punch when—",
+      "baseline_paragraphs": "P57",
+      "baseline_range": [
+        56,
+        57
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "123",
+      "sol": "I was wondering whether I should just throw a moderately powerful punch when—",
+      "sol_paragraphs": "P57",
+      "sol_range": [
+        56,
+        57
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The sudden burst of laughter made everyone, myself included, turn their heads.",
+      "baseline_paragraphs": "P59",
+      "baseline_range": [
+        58,
+        59
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "127",
+      "sol": "The sudden burst of laughter made everyone, myself included, turn toward it.",
+      "sol_paragraphs": "P59",
+      "sol_range": [
+        58,
+        59
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Norway, the massive man who stood out from the crowd, was looking at me with a mocking grin spread across his face.",
+      "baseline_paragraphs": "P60",
+      "baseline_range": [
+        59,
+        60
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "129",
+      "sol": "Norway, the massive man who stood out from the crowd, was looking at me with open mockery.",
+      "sol_paragraphs": "P60",
+      "sol_range": [
+        59,
+        60
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I scratched my chin and answered.",
+      "baseline_paragraphs": "P62",
+      "baseline_range": [
+        61,
+        62
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "133",
+      "sol": "I scratched my chin.",
+      "sol_paragraphs": "P62",
+      "sol_range": [
+        61,
+        62
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I heard the Fire King’s Disciple has only just passed the age of twenty.”",
+      "baseline_paragraphs": "P67",
+      "baseline_range": [
+        66,
+        67
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "143",
+      "sol": "“I heard the Fire King’s Disciple had only just passed the age of twenty.”",
+      "sol_paragraphs": "P67",
+      "sol_range": [
+        66,
+        67
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“How dare this fresh-faced brat…”",
+      "baseline_paragraphs": "P71",
+      "baseline_range": [
+        70,
+        71
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "151",
+      "sol": "“How dare a fresh-faced brat like you…”",
+      "sol_paragraphs": "P71",
+      "sol_range": [
+        70,
+        71
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The supervisor tried to stop him as he glared and took a step forward.",
+      "baseline_paragraphs": "P73",
+      "baseline_range": [
+        72,
+        73
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "155",
+      "sol": "He glared and stepped forward, but the supervisor moved to stop him.",
+      "sol_paragraphs": "P73",
+      "sol_range": [
+        72,
+        73
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“To hell with self-restraint. The only person who can talk to me like that is my Master.”",
+      "baseline_paragraphs": "P75",
+      "baseline_range": [
+        74,
+        75
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "159",
+      "sol": "“To hell with self-restraint. The only person who can speak to me like that is my Master.”",
+      "sol_paragraphs": "P75",
+      "sol_range": [
+        74,
+        75
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "",
+      "baseline_paragraphs": "after P75",
+      "baseline_range": [
+        75,
+        75
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "159",
+      "sol": "I leisurely folded my arms.",
+      "sol_paragraphs": "P76",
+      "sol_range": [
+        75,
+        76
+      ],
+      "tag": "insert",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I leisurely folded my arms and asked, “So, it seems that’s what you’ve been wanting to say all this time. Let’s hear who your Master is.”",
+      "baseline_paragraphs": "P76",
+      "baseline_range": [
+        75,
+        76
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "161",
+      "sol": "“So this is what you’ve been dying to tell us. Fine, let’s hear it. Who’s your Master?”",
+      "sol_paragraphs": "P77",
+      "sol_range": [
+        76,
+        77
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What the fuck are you talking about! My Master’s name is Pa Ryun! Seafaring King Pa Ryun!”",
+      "baseline_paragraphs": "P81",
+      "baseline_range": [
+        80,
+        81
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "171",
+      "sol": "“What the fuck are you talking about? My Master’s name is Pa Ryun! The Seafaring King, Pa Ryun!”",
+      "sol_paragraphs": "P82",
+      "sol_range": [
+        81,
+        82
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Unlike my disappointment, the name that came from Norway’s mouth had a tremendous impact.",
+      "baseline_paragraphs": "P83",
+      "baseline_range": [
+        82,
+        83
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "175",
+      "sol": "Unlike me, who was disappointed, everyone else reacted strongly to the name that had just come out of Norway’s mouth.",
+      "sol_paragraphs": "P84",
+      "sol_range": [
+        83,
+        84
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A stir spread among the applicants and supervisors in our group. Even the people being tested more than ten jang away began to murmur.",
+      "baseline_paragraphs": "P84",
+      "baseline_range": [
+        83,
+        84
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "177",
+      "sol": "A stir swept through the applicants and the supervisor in our group. Even the people conducting examinations more than ten jang away began to murmur.",
+      "sol_paragraphs": "P85",
+      "sol_range": [
+        84,
+        85
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Seafaring King Pa Ryun!”",
+      "baseline_paragraphs": "P85",
+      "baseline_range": [
+        84,
+        85
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "179",
+      "sol": "“Th-The Seafaring King, Pa Ryun!”",
+      "sol_paragraphs": "P86",
+      "sol_range": [
+        85,
+        86
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Then that young man must be the Iron-Water Divine Dragon. That explains why he dared to pick a fight with the Fire King’s Disciple.”",
+      "baseline_paragraphs": "P87",
+      "baseline_range": [
+        86,
+        87
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "183",
+      "sol": "“Then that young man must be the Iron-Water Divine Dragon. No wonder he dared to pick a fight with the Fire King’s Disciple.”",
+      "sol_paragraphs": "P88",
+      "sol_range": [
+        87,
+        88
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What in the world is going on over there? There are two disciples of the Ten Kings…”",
+      "baseline_paragraphs": "P88",
+      "baseline_range": [
+        87,
+        88
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "185",
+      "sol": "“What is going on over there? Two disciples of the Ten Kings in the same group…”",
+      "sol_paragraphs": "P89",
+      "sol_range": [
+        88,
+        89
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Norway—or rather, the Iron-Water Divine Dragon—snorted at the reaction.",
+      "baseline_paragraphs": "P89",
+      "baseline_range": [
+        88,
+        89
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "187",
+      "sol": "Norway—or rather, the Iron-Water Divine Dragon—snorted at their reactions.",
+      "sol_paragraphs": "P90",
+      "sol_range": [
+        89,
+        90
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He was probably proud to have such an impressive Master, but pride in his own abilities also showed in every one of his actions.",
+      "baseline_paragraphs": "P90",
+      "baseline_range": [
+        89,
+        90
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "189",
+      "sol": "He was no doubt proud of his renowned Master, but confidence in his own abilities showed in his every action as well.",
+      "sol_paragraphs": "P91",
+      "sol_range": [
+        90,
+        91
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Well, he really is strong enough to justify that much confidence.*",
+      "baseline_paragraphs": "P91",
+      "baseline_range": [
+        90,
+        91
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "191",
+      "sol": "*Well, he’s certainly strong enough to justify it.*",
+      "sol_paragraphs": "P92",
+      "sol_range": [
+        91,
+        92
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Perhaps that was only natural for a Disciple of one of the Ten Kings.",
+      "baseline_paragraphs": "P92",
+      "baseline_range": [
+        91,
+        92
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "193",
+      "sol": "Perhaps that was only natural for the Disciple of one of the Ten Kings.",
+      "sol_paragraphs": "P93",
+      "sol_range": [
+        92,
+        93
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And unlike me, he seemed to have received guidance from the Seafaring King, Pa Ryun, since childhood.",
+      "baseline_paragraphs": "P93",
+      "baseline_range": [
+        92,
+        93
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "195",
+      "sol": "Unlike me, he also seemed to have trained under the Seafaring King, Pa Ryun, since childhood.",
+      "sol_paragraphs": "P94",
+      "sol_range": [
+        93,
+        94
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I didn’t know how formidable the Yangtze River Channel League was, but there was no doubt that he had received lavish support in martial arts, elixirs, and everything else.",
+      "baseline_paragraphs": "P94",
+      "baseline_range": [
+        93,
+        94
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "197",
+      "sol": "I didn’t know exactly how powerful the Yangtze River Channel League was, but he had clearly received unstinting support—martial arts, elixirs, and everything else he could need.",
+      "sol_paragraphs": "P95",
+      "sol_range": [
+        94,
+        95
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "When I watched him with my arms folded, the Iron-Water Divine Dragon let out a quiet laugh.",
+      "baseline_paragraphs": "P95",
+      "baseline_range": [
+        94,
+        95
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "199",
+      "sol": "As I watched with my arms folded, the Iron-Water Divine Dragon gave a short laugh.",
+      "sol_paragraphs": "P96",
+      "sol_range": [
+        95,
+        96
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“So you’re the Fire King’s Disciple? Don’t get cocky just because you come from a provincial martial family and received a mere year of instruction.”",
+      "baseline_paragraphs": "P96",
+      "baseline_range": [
+        95,
+        96
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "201",
+      "sol": "“So you’re the Fire King’s Disciple? Don’t get cocky just because you come from some provincial martial family and received a mere year of instruction.”",
+      "sol_paragraphs": "P97",
+      "sol_range": [
+        96,
+        97
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He wasn’t exactly wrong. Shanxi Province was a remote region far from the Central Plains, and the Jin Family of Taiyuan was indeed a provincial martial family.",
+      "baseline_paragraphs": "P97",
+      "baseline_range": [
+        96,
+        97
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "203",
+      "sol": "He wasn’t exactly wrong. Shanxi Province lay on the outskirts, far from the Central Plains, and the Jin Family of Taiyuan was indeed a provincial martial family.",
+      "sol_paragraphs": "P98",
+      "sol_range": [
+        97,
+        98
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You’re a pirate. Your Master is a pirate chief.”",
+      "baseline_paragraphs": "P99",
+      "baseline_range": [
+        98,
+        99
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "207",
+      "sol": "“You’re a pirate. And your Master is a pirate chief.”",
+      "sol_paragraphs": "P100",
+      "sol_range": [
+        99,
+        100
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Pirate? Are you insulting the Yangtze River Channel League? We are heroes who roam the rivers and the open sea!”",
+      "baseline_paragraphs": "P100",
+      "baseline_range": [
+        99,
+        100
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "209",
+      "sol": "“A pirate? How dare you insult the Yangtze River Channel League! We are heroes who roam the rivers and the open sea!”",
+      "sol_paragraphs": "P101",
+      "sol_range": [
+        100,
+        101
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Sure. But boil that down to two syllables and you get ‘pirate,’ don’t you?”",
+      "baseline_paragraphs": "P101",
+      "baseline_range": [
+        100,
+        101
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "211",
+      "sol": "“Sure. But boil that down to one word and you get ‘pirate,’ don’t you?”",
+      "sol_paragraphs": "P102",
+      "sol_range": [
+        101,
+        102
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You insolent wretch! What kind of vile nonsense is that? The heroes of our League are worlds apart from scum like that!”",
+      "baseline_paragraphs": "P102",
+      "baseline_range": [
+        101,
+        102
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "213",
+      "sol": "“You insolent wretch! What kind of vile nonsense is that? The heroes of our League are worlds apart from such scum!”",
+      "sol_paragraphs": "P103",
+      "sol_range": [
+        102,
+        103
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A dangerous sound came from the Iron-Water Divine Dragon’s enormous fist.",
+      "baseline_paragraphs": "P107",
+      "baseline_range": [
+        106,
+        107
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "223",
+      "sol": "A vicious sound came from the Iron-Water Divine Dragon’s enormous fist.",
+      "sol_paragraphs": "P108",
+      "sol_range": [
+        107,
+        108
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He glared at me with killing intent in his eyes and took a step forward. The supervisor hurriedly moved between us.",
+      "baseline_paragraphs": "P108",
+      "baseline_range": [
+        107,
+        108
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "225",
+      "sol": "He glared at me with killing intent in his eyes and stepped forward. The supervisor hurriedly moved between us.",
+      "sol_paragraphs": "P109",
+      "sol_range": [
+        108,
+        109
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The scale of the Star-Array Grand Banquet was so enormous that every supervisor overseeing the examinations was a formidable martial artist, ranging from the upper reaches of First Rate to Peak.",
+      "baseline_paragraphs": "P112",
+      "baseline_range": [
+        111,
+        112
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "233",
+      "sol": "Given the scale of the Star-Array Grand Banquet, every supervisor overseeing the examinations was a formidable martial artist, ranging from the upper reaches of First Rate to Peak.",
+      "sol_paragraphs": "P113",
+      "sol_range": [
+        112,
+        113
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The supervisor assigned to our group was at the upper reaches of First Rate, but the moment the Iron-Water Divine Dragon gripped his shoulder, the supervisor’s face turned deathly pale.",
+      "baseline_paragraphs": "P113",
+      "baseline_range": [
+        112,
+        113
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "235",
+      "sol": "The supervisor assigned to our group was at the upper reaches of First Rate, but the moment the Iron-Water Divine Dragon seized his shoulder, his face turned deathly pale.",
+      "sol_paragraphs": "P114",
+      "sol_range": [
+        113,
+        114
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“W-What is this…”",
+      "baseline_paragraphs": "P114",
+      "baseline_range": [
+        113,
+        114
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "237",
+      "sol": "“W-What are you…”",
+      "sol_paragraphs": "P115",
+      "sol_range": [
+        114,
+        115
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“There’s no need to stop me. My Master gave me a strict order to win the Star-Array Grand Banquet, after all.”",
+      "baseline_paragraphs": "P115",
+      "baseline_range": [
+        114,
+        115
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "239",
+      "sol": "“You don’t need to stop me. My Master gave me strict orders to win the Star-Array Grand Banquet, after all.”",
+      "sol_paragraphs": "P116",
+      "sol_range": [
+        115,
+        116
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I’m not going to fight. I’m only going to show that brat one of my moves.”",
+      "baseline_paragraphs": "P117",
+      "baseline_range": [
+        116,
+        117
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "243",
+      "sol": "“I’m not going to fight. I’m only going to show that brat one move.”",
+      "sol_paragraphs": "P118",
+      "sol_range": [
+        117,
+        118
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Iron-Water Divine Dragon released the supervisor and strode toward the cliff. Without hesitation, he pushed his fist into the cliff.",
+      "baseline_paragraphs": "P118",
+      "baseline_range": [
+        117,
+        118
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "245",
+      "sol": "The Iron-Water Divine Dragon released the supervisor and strode toward the cliff. Without the slightest hesitation, he pushed his fist into it.",
+      "sol_paragraphs": "P119",
+      "sol_range": [
+        118,
+        119
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He shattered the solid rock and drove his arm in up to the forearm. Then he clicked his tongue as he looked at me.",
+      "baseline_paragraphs": "P120",
+      "baseline_range": [
+        119,
+        120
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "249",
+      "sol": "Shattering the solid rock, he drove his arm in up to the forearm. Then he looked at me and clicked his tongue.",
+      "sol_paragraphs": "P121",
+      "sol_range": [
+        120,
+        121
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“This is all you managed.”",
+      "baseline_paragraphs": "P121",
+      "baseline_range": [
+        120,
+        121
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "251",
+      "sol": "“This is all you accomplished.”",
+      "sol_paragraphs": "P122",
+      "sol_range": [
+        121,
+        122
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I had known it from the moment I first saw him, but the Iron-Water Divine Dragon had trained in exceptionally advanced external martial arts.",
+      "baseline_paragraphs": "P122",
+      "baseline_range": [
+        121,
+        122
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "253",
+      "sol": "I had known it from the moment I first saw him, but the Iron-Water Divine Dragon was a master of exceptionally advanced external martial arts.",
+      "sol_paragraphs": "P123",
+      "sol_range": [
+        122,
+        123
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His size and strength could not be explained simply by saying he had been born with them.",
+      "baseline_paragraphs": "P123",
+      "baseline_range": [
+        122,
+        123
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "255",
+      "sol": "His size and strength couldn’t be explained by natural gifts alone.",
+      "sol_paragraphs": "P124",
+      "sol_range": [
+        123,
+        124
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was clearly the result of martial arts—an extremely advanced external qigong technique that had tempered his body.",
+      "baseline_paragraphs": "P124",
+      "baseline_range": [
+        123,
+        124
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "257",
+      "sol": "Martial arts had built that body—an external qigong technique of the highest order had tempered it.",
+      "sol_paragraphs": "P125",
+      "sol_range": [
+        124,
+        125
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Exclamations poured forth at the strength worthy of being called divine.",
+      "baseline_paragraphs": "P127",
+      "baseline_range": [
+        126,
+        127
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "263",
+      "sol": "Exclamations rang out at a feat of strength worthy of being called divine.",
+      "sol_paragraphs": "P128",
+      "sol_range": [
+        127,
+        128
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even an ordinary Peak master could not have done something like that without using internal energy. Yet the Iron-Water Divine Dragon had accomplished it as easily as breathing.",
+      "baseline_paragraphs": "P128",
+      "baseline_range": [
+        127,
+        128
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "265",
+      "sol": "Even an ordinary Peak master would have found it impossible without using internal energy. Yet the Iron-Water Divine Dragon had done it as easily as breathing.",
+      "sol_paragraphs": "P129",
+      "sol_range": [
+        128,
+        129
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And he had done so while creating a hole much deeper than mine, as if to make a point.",
+      "baseline_paragraphs": "P129",
+      "baseline_range": [
+        128,
+        129
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "267",
+      "sol": "And, as if to make a point, he had created a hole far deeper than mine.",
+      "sol_paragraphs": "P130",
+      "sol_range": [
+        129,
+        130
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The Fire King’s Disciple is impressive, too, but is he still outmatched?”",
+      "baseline_paragraphs": "P130",
+      "baseline_range": [
+        129,
+        130
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "269",
+      "sol": "“The Fire King’s Disciple is impressive too, but is he still outmatched?”",
+      "sol_paragraphs": "P131",
+      "sol_range": [
+        130,
+        131
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That’s understandable. He’s much younger, and it’s only been a year since the Fire King took him in as a Disciple.”",
+      "baseline_paragraphs": "P131",
+      "baseline_range": [
+        130,
+        131
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "271",
+      "sol": "“That’s understandable. He’s much younger, and it’s only been a year since the Fire King took him as his Disciple.”",
+      "sol_paragraphs": "P132",
+      "sol_range": [
+        131,
+        132
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The Sleeping Dragon of Shanxi must have been aiming for the victory himself, but… this will be difficult for him.”",
+      "baseline_paragraphs": "P132",
+      "baseline_range": [
+        131,
+        132
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "273",
+      "sol": "“The Sleeping Dragon of Shanxi must have been aiming to win as well, but… it looks like that’ll be difficult this time.”",
+      "sol_paragraphs": "P133",
+      "sol_range": [
+        132,
+        133
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Whatever the people around me whispered, there was no denying that the Iron-Water Divine Dragon was impressive.",
+      "baseline_paragraphs": "P133",
+      "baseline_range": [
+        132,
+        133
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "275",
+      "sol": "Whatever the people around me were whispering, the Iron-Water Divine Dragon was undeniably impressive.",
+      "sol_paragraphs": "P134",
+      "sol_range": [
+        133,
+        134
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Regardless of who his Master was, he was unquestionably a master who could boast wherever he went in the Murim.",
+      "baseline_paragraphs": "P134",
+      "baseline_range": [
+        133,
+        134
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "277",
+      "sol": "Regardless of who his Master was, no one could dispute that he was skilled enough to hold his head high anywhere in the Murim.",
+      "sol_paragraphs": "P135",
+      "sol_range": [
+        134,
+        135
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "퀘스트",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Quest"
+        }
+      ]
+    },
+    {
+      "baseline": "“Pathetic. There’s no need to force yourself to pretend you’re calm.”",
+      "baseline_paragraphs": "P137",
+      "baseline_range": [
+        136,
+        137
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "283",
+      "sol": "“Pathetic. There’s no need to force yourself to act calm.”",
+      "sol_paragraphs": "P138",
+      "sol_range": [
+        137,
+        138
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I’m being sincere.”",
+      "baseline_paragraphs": "P138",
+      "baseline_range": [
+        137,
+        138
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "285",
+      "sol": "“I mean it.”",
+      "sol_paragraphs": "P139",
+      "sol_range": [
+        138,
+        139
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The supervisor was still stunned by the successive anomalies.",
+      "baseline_paragraphs": "P140",
+      "baseline_range": [
+        139,
+        140
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "289",
+      "sol": "After one unbelievable spectacle after another, the supervisor was still dazed.",
+      "sol_paragraphs": "P141",
+      "sol_range": [
+        140,
+        141
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“It doesn’t matter. I had no intention of stopping at this level anyway.”",
+      "baseline_paragraphs": "P143",
+      "baseline_range": [
+        142,
+        143
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "295",
+      "sol": "“It doesn’t matter. I had no intention of stopping here anyway.”",
+      "sol_paragraphs": "P144",
+      "sol_range": [
+        143,
+        144
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Iron-Water Divine Dragon pulled his arm out with absurd ease and looked around.",
+      "baseline_paragraphs": "P145",
+      "baseline_range": [
+        144,
+        145
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "299",
+      "sol": "The Iron-Water Divine Dragon pulled his arm free with absurd ease and looked around.",
+      "sol_paragraphs": "P146",
+      "sol_range": [
+        145,
+        146
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He read the envy, jealousy, and despair in the gazes fixed on him—gazes reserved for the strong—and bared his teeth at me.",
+      "baseline_paragraphs": "P146",
+      "baseline_range": [
+        145,
+        146
+      ],
+      "hunk_id": "H086",
+      "korean_lines": "301",
+      "sol": "Reading the envy, jealousy, and despair in the gazes fixed upon him—the looks people reserved for the strong—he bared his teeth at me.",
+      "sol_paragraphs": "P147",
+      "sol_range": [
+        146,
+        147
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He did not answer.",
+      "baseline_paragraphs": "P149",
+      "baseline_range": [
+        148,
+        149
+      ],
+      "hunk_id": "H087",
+      "korean_lines": "307",
+      "sol": "He didn’t answer.",
+      "sol_paragraphs": "P150",
+      "sol_range": [
+        149,
+        150
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Instead, internal energy as vast as the open sea rose in waves from the Iron-Water Divine Dragon’s entire body.",
+      "baseline_paragraphs": "P150",
+      "baseline_range": [
+        149,
+        150
+      ],
+      "hunk_id": "H088",
+      "korean_lines": "309",
+      "sol": "Instead, internal energy as vast as the open sea surged in waves from his entire body.",
+      "sol_paragraphs": "P151",
+      "sol_range": [
+        150,
+        151
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        },
+        {
+          "korean": "철수신룡",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Iron-Water Divine Dragon"
+        }
+      ]
+    },
+    {
+      "baseline": "His waist, thicker than a bear’s, and his pillar-like arms bent far backward. Blue internal energy, like a flowing river, already surged around his fist.",
+      "baseline_paragraphs": "P151",
+      "baseline_range": [
+        150,
+        151
+      ],
+      "hunk_id": "H089",
+      "korean_lines": "311",
+      "sol": "His waist was thicker than a bear’s, and his pillar-like arm drew all the way back. Blue internal energy like a flowing river already churned around his fist.",
+      "sol_paragraphs": "P152",
+      "sol_range": [
+        151,
+        152
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A single punch capable of splitting a large sailing ship struck the cliff.",
+      "baseline_paragraphs": "P157",
+      "baseline_range": [
+        156,
+        157
+      ],
+      "hunk_id": "H090",
+      "korean_lines": "323",
+      "sol": "A single punch capable of splitting a sailing ship slammed into the cliff.",
+      "sol_paragraphs": "P158",
+      "sol_range": [
+        157,
+        158
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A deafening boom rang out, followed by a storm. People covered their faces with both arms and groaned as dirt and fragments of rock rained down.",
+      "baseline_paragraphs": "P158",
+      "baseline_range": [
+        157,
+        158
+      ],
+      "hunk_id": "H091",
+      "korean_lines": "325",
+      "sol": "A deafening boom rang out, followed by a violent gust. People groaned and raised both arms to shield their faces as dirt and shards of rock rained down.",
+      "sol_paragraphs": "P159",
+      "sol_range": [
+        158,
+        159
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "In the midst of the chaos, I stood perfectly still and watched the scene without missing a thing.",
+      "baseline_paragraphs": "P161",
+      "baseline_range": [
+        160,
+        161
+      ],
+      "hunk_id": "H092",
+      "korean_lines": "331",
+      "sol": "Amid the chaos, I stood perfectly still and watched without missing a thing.",
+      "sol_paragraphs": "P162",
+      "sol_range": [
+        161,
+        162
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That was why, a short while later, I fully understood the cries of astonishment that erupted after the cloud of dust settled.",
+      "baseline_paragraphs": "P162",
+      "baseline_range": [
+        161,
+        162
+      ],
+      "hunk_id": "H093",
+      "korean_lines": "333",
+      "sol": "That was why, when the dust cloud finally settled, I could fully understand the cries of astonishment that erupted around me.",
+      "sol_paragraphs": "P163",
+      "sol_range": [
+        162,
+        163
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The cliff, a natural formation that had stood in place for countless years, stretched more than a hundred jang in both height and width.",
+      "baseline_paragraphs": "P164",
+      "baseline_range": [
+        163,
+        164
+      ],
+      "hunk_id": "H094",
+      "korean_lines": "337",
+      "sol": "The cliff stretched over a hundred jang in both height and width, a natural formation that had stood there for countless years.",
+      "sol_paragraphs": "P165",
+      "sol_range": [
+        164,
+        165
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Now, a massive hole had appeared where there had been nothing before.",
+      "baseline_paragraphs": "P165",
+      "baseline_range": [
+        164,
+        165
+      ],
+      "hunk_id": "H095",
+      "korean_lines": "339",
+      "sol": "Now, a massive hole had appeared where none had existed before.",
+      "sol_paragraphs": "P166",
+      "sol_range": [
+        165,
+        166
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No. It was more accurate to call it a small cave.",
+      "baseline_paragraphs": "P166",
+      "baseline_range": [
+        165,
+        166
+      ],
+      "hunk_id": "H096",
+      "korean_lines": "341",
+      "sol": "No. It would be more accurate to call it a small cave.",
+      "sol_paragraphs": "P167",
+      "sol_range": [
+        166,
+        167
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was more than ten jang wide and tall, and its depth reached five jang.",
+      "baseline_paragraphs": "P167",
+      "baseline_range": [
+        166,
+        167
+      ],
+      "hunk_id": "H097",
+      "korean_lines": "343",
+      "sol": "It was over ten jang across in every direction and five jang deep.",
+      "sol_paragraphs": "P168",
+      "sol_range": [
+        167,
+        168
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I-I can’t believe this.”",
+      "baseline_paragraphs": "P168",
+      "baseline_range": [
+        167,
+        168
+      ],
+      "hunk_id": "H098",
+      "korean_lines": "345",
+      "sol": "“I-I can’t believe it.”",
+      "sol_paragraphs": "P169",
+      "sol_range": [
+        168,
+        169
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“This is the Seafaring King’s unique martial art…”",
+      "baseline_paragraphs": "P169",
+      "baseline_range": [
+        168,
+        169
+      ],
+      "hunk_id": "H099",
+      "korean_lines": "347",
+      "sol": "“This is the Seafaring King’s unique martial art…!”",
+      "sol_paragraphs": "P170",
+      "sol_range": [
+        169,
+        170
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "An unmistakable tremor passed through the crowd.",
+      "baseline_paragraphs": "P170",
+      "baseline_range": [
+        169,
+        170
+      ],
+      "hunk_id": "H100",
+      "korean_lines": "349",
+      "sol": "An unmistakable thrill ran through the crowd.",
+      "sol_paragraphs": "P171",
+      "sol_range": [
+        170,
+        171
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Everyone gathered here revered martial arts more than anything in the world and yearned to become stronger.",
+      "baseline_paragraphs": "P171",
+      "baseline_range": [
+        170,
+        171
+      ],
+      "hunk_id": "H101",
+      "korean_lines": "351",
+      "sol": "Everyone gathered here revered martial arts above all else and yearned to grow stronger.",
+      "sol_paragraphs": "P172",
+      "sol_range": [
+        171,
+        172
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Their awe-filled gazes focused on the martial artist who had displayed martial arts they could never hope to approach.",
+      "baseline_paragraphs": "P172",
+      "baseline_range": [
+        171,
+        172
+      ],
+      "hunk_id": "H102",
+      "korean_lines": "353",
+      "sol": "Their awestruck gazes converged on the martial artist who had just displayed a level of martial arts they couldn’t hope to approach.",
+      "sol_paragraphs": "P173",
+      "sol_range": [
+        172,
+        173
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Haah. Haaah.”",
+      "baseline_paragraphs": "P173",
+      "baseline_range": [
+        172,
+        173
+      ],
+      "hunk_id": "H103",
+      "korean_lines": "355",
+      "sol": "“Huff. Huff.”",
+      "sol_paragraphs": "P174",
+      "sol_range": [
+        173,
+        174
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His broad back heaved. Muscles swollen to the point of tearing rippled beneath his skin.",
+      "baseline_paragraphs": "P174",
+      "baseline_range": [
+        173,
+        174
+      ],
+      "hunk_id": "H104",
+      "korean_lines": "357",
+      "sol": "His broad back heaved. Muscles swollen almost to bursting rippled beneath his skin.",
+      "sol_paragraphs": "P175",
+      "sol_range": [
+        174,
+        175
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "After taking some time to catch his breath, the Iron-Water Divine Dragon turned around with a composed expression.",
+      "baseline_paragraphs": "P175",
+      "baseline_range": [
+        174,
+        175
+      ],
+      "hunk_id": "H105",
+      "korean_lines": "359",
+      "sol": "After catching his breath for a while, the Iron-Water Divine Dragon turned around with a composed expression.",
+      "sol_paragraphs": "P176",
+      "sol_range": [
+        175,
+        176
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A single short word slipped between his thick lips.",
+      "baseline_paragraphs": "P176",
+      "baseline_range": [
+        175,
+        176
+      ],
+      "hunk_id": "H106",
+      "korean_lines": "361",
+      "sol": "A single short question slipped between his thick lips.",
+      "sol_paragraphs": "P177",
+      "sol_range": [
+        176,
+        177
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What’s the result?”",
+      "baseline_paragraphs": "P177",
+      "baseline_range": [
+        176,
+        177
+      ],
+      "hunk_id": "H107",
+      "korean_lines": "363",
+      "sol": "“The result?”",
+      "sol_paragraphs": "P178",
+      "sol_range": [
+        177,
+        178
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Only then did the supervisor come to his senses and barely manage to force out his voice.",
+      "baseline_paragraphs": "P178",
+      "baseline_range": [
+        177,
+        178
+      ],
+      "hunk_id": "H108",
+      "korean_lines": "365",
+      "sol": "Only then did the supervisor come to his senses and barely manage to speak.",
+      "sol_paragraphs": "P179",
+      "sol_range": [
+        178,
+        179
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Iron-Water Divine Dragon raised the corners of his mouth and swept his gaze across the crowd.",
+      "baseline_paragraphs": "P181",
+      "baseline_range": [
+        180,
+        181
+      ],
+      "hunk_id": "H109",
+      "korean_lines": "371",
+      "sol": "The Iron-Water Divine Dragon’s lips curled upward as his gaze swept over the crowd.",
+      "sol_paragraphs": "P182",
+      "sol_range": [
+        181,
+        182
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The heat in his eyes had not yet faded. They stopped on my face.",
+      "baseline_paragraphs": "P182",
+      "baseline_range": [
+        181,
+        182
+      ],
+      "hunk_id": "H110",
+      "korean_lines": "373",
+      "sol": "The heat in his eyes had yet to fade. Finally, they stopped on my face.",
+      "sol_paragraphs": "P183",
+      "sol_range": [
+        182,
+        183
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“How was it?”",
+      "baseline_paragraphs": "P185",
+      "baseline_range": [
+        184,
+        185
+      ],
+      "hunk_id": "H111",
+      "korean_lines": "379",
+      "sol": "“What did you think?”",
+      "sol_paragraphs": "P186",
+      "sol_range": [
+        185,
+        186
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Um. Congratulations on passing.”",
+      "baseline_paragraphs": "P188",
+      "baseline_range": [
+        187,
+        188
+      ],
+      "hunk_id": "H112",
+      "korean_lines": "385",
+      "sol": "“Hmm. Congratulations on passing.”",
+      "sol_paragraphs": "P189",
+      "sol_range": [
+        188,
+        189
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What else? Do you want me to pat you on the ass?”",
+      "baseline_paragraphs": "P190",
+      "baseline_range": [
+        189,
+        190
+      ],
+      "hunk_id": "H113",
+      "korean_lines": "389",
+      "sol": "“What else? You want me to pat you on the ass?”",
+      "sol_paragraphs": "P191",
+      "sol_range": [
+        190,
+        191
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the sight of the Iron-Water Divine Dragon grinding his teeth, my head instinctively shook from side to side.",
+      "baseline_paragraphs": "P192",
+      "baseline_range": [
+        191,
+        192
+      ],
+      "hunk_id": "H114",
+      "korean_lines": "393",
+      "sol": "Watching the Iron-Water Divine Dragon grind his teeth, I shook my head.",
+      "sol_paragraphs": "P193",
+      "sol_range": [
+        192,
+        193
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*I already told him it was impressive. What more does he want?*",
+      "baseline_paragraphs": "P193",
+      "baseline_range": [
+        192,
+        193
+      ],
+      "hunk_id": "H115",
+      "korean_lines": "395",
+      "sol": "*I told him it was impressive. What more does he want from me?*",
+      "sol_paragraphs": "P194",
+      "sol_range": [
+        193,
+        194
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Maybe it was because he was a pirate, but he was as simpleminded and ignorant as they came. The fact that he had already expended enough strength to leave himself breathless during the preliminary round was just as ridiculous.",
+      "baseline_paragraphs": "P195",
+      "baseline_range": [
+        194,
+        195
+      ],
+      "hunk_id": "H116",
+      "korean_lines": "399",
+      "sol": "Maybe it was because he was a pirate, but he was as simpleminded as they came. The fact that he had poured out enough strength to leave himself breathless during the preliminaries was just as ridiculous.",
+      "sol_paragraphs": "P196",
+      "sol_range": [
+        195,
+        196
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Let’s move things along. I think we’ve already wasted quite a bit of time.”",
+      "baseline_paragraphs": "P197",
+      "baseline_range": [
+        196,
+        197
+      ],
+      "hunk_id": "H117",
+      "korean_lines": "403",
+      "sol": "“Let’s keep things moving. We’ve already wasted quite a bit of time.”",
+      "sol_paragraphs": "P198",
+      "sol_range": [
+        197,
+        198
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I was turning around as the supervisor called the next name when the Iron-Water Divine Dragon spoke.",
+      "baseline_paragraphs": "P199",
+      "baseline_range": [
+        198,
+        199
+      ],
+      "hunk_id": "H118",
+      "korean_lines": "407",
+      "sol": "I was turning away as the supervisor called the next name when the Iron-Water Divine Dragon spoke again.",
+      "sol_paragraphs": "P200",
+      "sol_range": [
+        199,
+        200
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I stopped without meaning to. The Iron-Water Divine Dragon continued in a voice filled with mockery.",
+      "baseline_paragraphs": "P202",
+      "baseline_range": [
+        201,
+        202
+      ],
+      "hunk_id": "H119",
+      "korean_lines": "413",
+      "sol": "I stopped without meaning to. The Iron-Water Divine Dragon continued in a mocking voice.",
+      "sol_paragraphs": "P203",
+      "sol_range": [
+        202,
+        203
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Single-heir succession. No teaching to outsiders. It sounds grand, but in the end, didn’t you run away like a fucking dog with its tail between its legs to avoid me?”",
+      "baseline_paragraphs": "P203",
+      "baseline_range": [
+        202,
+        203
+      ],
+      "hunk_id": "H120",
+      "korean_lines": "415",
+      "sol": "“Single-heir succession. No teaching to outsiders. It sounds grand, but in the end, aren’t you running away from me like a fucking dog with its tail between its legs?”",
+      "sol_paragraphs": "P204",
+      "sol_range": [
+        203,
+        204
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "> **System**\n>\n> - People are whispering at the sight of you looking terrified!\n> - People are beginning to doubt the reputation of the **Fire Gate Clan**.\n> - People are beginning to doubt the reputation of **Jeok Cheongang**.\n> - **Fame** decreased by 18!\n> - **Fame** decreased by 20!\n> - **Fame** decreased…",
+      "baseline_paragraphs": "P212",
+      "baseline_range": [
+        211,
+        212
+      ],
+      "hunk_id": "H121",
+      "korean_lines": "433",
+      "sol": "> **System**\n>\n> - People are whispering after seeing how terrified you look!\n> - People are beginning to doubt the reputation of the **Fire Gate Clan**.\n> - People are beginning to doubt the reputation of **Jeok Cheongang**.\n> - **Fame** decreased by 18!\n> - **Fame** decreased by 20!\n> - **Fame** decreased…",
+      "sol_paragraphs": "P213",
+      "sol_range": [
+        212,
+        213
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At that moment, I came to my senses as if waking from a long sleep.",
+      "baseline_paragraphs": "P214",
+      "baseline_range": [
+        213,
+        214
+      ],
+      "hunk_id": "H122",
+      "korean_lines": "437",
+      "sol": "At that moment, I came to my senses as though waking from a long sleep.",
+      "sol_paragraphs": "P215",
+      "sol_range": [
+        214,
+        215
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I had forgotten for a moment.",
+      "baseline_paragraphs": "P216",
+      "baseline_range": [
+        215,
+        216
+      ],
+      "hunk_id": "H123",
+      "korean_lines": "441",
+      "sol": "For a moment, I had forgotten.",
+      "sol_paragraphs": "P217",
+      "sol_range": [
+        216,
+        217
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No—I had known, but had failed to realize what it meant.",
+      "baseline_paragraphs": "P217",
+      "baseline_range": [
+        216,
+        217
+      ],
+      "hunk_id": "H124",
+      "korean_lines": "443",
+      "sol": "No—I had known, but I hadn’t truly understood what it meant.",
+      "sol_paragraphs": "P218",
+      "sol_range": [
+        217,
+        218
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even though the curtain had risen on the Star-Array Grand Banquet, this magnificent and dazzling stage where the martial artists of the world had gathered in one place…",
+      "baseline_paragraphs": "P218",
+      "baseline_range": [
+        217,
+        218
+      ],
+      "hunk_id": "H125",
+      "korean_lines": "447",
+      "sol": "Even after the curtain had risen on the Star-Array Grand Banquet, this magnificent, dazzling stage where martial artists from all under heaven had gathered in one place…",
+      "sol_paragraphs": "P219",
+      "sol_range": [
+        218,
+        219
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A world where everything was proven through strength alone. Winners and losers. A world divided into two kinds of people.",
+      "baseline_paragraphs": "P220",
+      "baseline_range": [
+        219,
+        220
+      ],
+      "hunk_id": "H126",
+      "korean_lines": "451",
+      "sol": "A world where everything was proven through strength alone.",
+      "sol_paragraphs": "P221",
+      "sol_range": [
+        220,
+        221
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "",
+      "baseline_paragraphs": "after P220",
+      "baseline_range": [
+        220,
+        220
+      ],
+      "hunk_id": "H127",
+      "korean_lines": "451",
+      "sol": "Winners and losers.",
+      "sol_paragraphs": "P222",
+      "sol_range": [
+        221,
+        222
+      ],
+      "tag": "insert",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "",
+      "baseline_paragraphs": "after P220",
+      "baseline_range": [
+        220,
+        220
+      ],
+      "hunk_id": "H128",
+      "korean_lines": "451",
+      "sol": "A world divided into those two kinds of people.",
+      "sol_paragraphs": "P223",
+      "sol_range": [
+        222,
+        223
+      ],
+      "tag": "insert",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Seeing me heave a tremendous sigh, the Iron-Water Divine Dragon taunted me.",
+      "baseline_paragraphs": "P223",
+      "baseline_range": [
+        222,
+        223
+      ],
+      "hunk_id": "H129",
+      "korean_lines": "457",
+      "sol": "The Iron-Water Divine Dragon sneered when he saw me heave a sigh deep enough to sink the ground.",
+      "sol_paragraphs": "P226",
+      "sol_range": [
+        225,
+        226
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That thing may be able to split a ship, but a cliff is beyond it.”",
+      "baseline_paragraphs": "P229",
+      "baseline_range": [
+        228,
+        229
+      ],
+      "hunk_id": "H130",
+      "korean_lines": "471",
+      "sol": "“It might be able to split a ship, but a cliff is beyond it.”",
+      "sol_paragraphs": "P232",
+      "sol_range": [
+        231,
+        232
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "",
+      "baseline_paragraphs": "after P230",
+      "baseline_range": [
+        230,
+        230
+      ],
+      "hunk_id": "H131",
+      "korean_lines": "473",
+      "sol": "One step.",
+      "sol_paragraphs": "P234",
+      "sol_range": [
+        233,
+        234
+      ],
+      "tag": "insert",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "With a single step, I erased a distance of five jang.",
+      "baseline_paragraphs": "P231",
+      "baseline_range": [
+        230,
+        231
+      ],
+      "hunk_id": "H132",
+      "korean_lines": "475",
+      "sol": "The distance of five jang vanished.",
+      "sol_paragraphs": "P235",
+      "sol_range": [
+        234,
+        235
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "By the time my raised foot touched the ground, I had already passed the Iron-Water Divine Dragon.",
+      "baseline_paragraphs": "P232",
+      "baseline_range": [
+        231,
+        232
+      ],
+      "hunk_id": "H133",
+      "korean_lines": "477",
+      "sol": "By the time my foot touched the ground again, I had already passed the Iron-Water Divine Dragon.",
+      "sol_paragraphs": "P236",
+      "sol_range": [
+        235,
+        236
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A belated cry of astonishment came from behind me.",
+      "baseline_paragraphs": "P233",
+      "baseline_range": [
+        232,
+        233
+      ],
+      "hunk_id": "H134",
+      "korean_lines": "479",
+      "sol": "A belated cry of shock came from behind me.",
+      "sol_paragraphs": "P237",
+      "sol_range": [
+        236,
+        237
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Instead of answering, I looked up at the cliff spread out before me.",
+      "baseline_paragraphs": "P235",
+      "baseline_range": [
+        234,
+        235
+      ],
+      "hunk_id": "H135",
+      "korean_lines": "483",
+      "sol": "Instead of answering, I looked up at the cliff before me.",
+      "sol_paragraphs": "P239",
+      "sol_range": [
+        238,
+        239
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The fire dragon sleeping in my dantian awakened and spread through every limb and bone in my body. Hundreds of acupoints grew scorching hot.",
+      "baseline_paragraphs": "P236",
+      "baseline_range": [
+        235,
+        236
+      ],
+      "hunk_id": "H136",
+      "korean_lines": "485",
+      "sol": "The fire dragon sleeping in my dantian awoke and surged through every limb and bone. Hundreds of acupoints grew scorching hot.",
+      "sol_paragraphs": "P240",
+      "sol_range": [
+        239,
+        240
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 244,
+  "sol_sha256": "f8c136247ca6b7ca473cf52f154c8cbed8a99c0c0dd05d61a63c693f6fb627eb",
+  "version": 1
+}

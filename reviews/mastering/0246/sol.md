@@ -32,7 +32,7 @@ Imagining Jeok Cheongang flying into a rage left me feeling a little wronged.
 
 Granted, I was an extremely unusual case.
 
-Even so, the fact that the Quest window went out of its way to spell it out suggested just how much Jeok Cheongang expected of me.
+Even so, the fact that the Quest window went out of its way to spell it out showed just how much Jeok Cheongang expected of me.
 
 “Jin Taekyung of the Jin Family of Taiyuan. Where are you?”
 
@@ -40,7 +40,7 @@ Even so, the fact that the Quest window went out of its way to spell it out sugg
 
 At the supervisor’s call, I closed the Quest window and stepped forward.
 
-With every step I took, I felt the people’s gazes on me. Along with them, murmuring voices pierced my ears.
+With every step, I felt people’s gazes following me, their murmurs drifting into my ears.
 
 “Jin Taekyung of the Jin Family of Taiyuan…”
 
@@ -70,7 +70,7 @@ But now that it was my turn, I found myself growing tense.
 
 *Damn. I have no idea how much force to use.*
 
-I honestly had no clue. Exactly how much strength did I need to apply to leave a mark three Korean inches deep?
+I honestly didn’t know. How hard did I need to hit the cliff to leave a mark three Korean inches deep?
 
 After staring at it for a moment, I decided to use the Help function.
 
@@ -80,7 +80,7 @@ After staring at it for a moment, I decided to use the Help function.
 
 “As long as I make the mark at least three Korean inches deep, I pass, right?”
 
-“That is correct. However, once your fist lands, the test is over.”
+“That is correct. However, once your fist leaves the cliff, your attempt is over.”
 
 “Oh, I see.”
 
@@ -112,11 +112,11 @@ His mouth hanging open, he looked back and forth between my face and the arm emb
 
 “……”
 
-“Anyway, I passed, right? My fist didn’t even land, and it went in plenty deep.”
+“Anyway, I passed, right? My fist never left the cliff, and the hole is more than deep enough.”
 
 “W-Well…”
 
-The supervisor’s pupils wavered.
+The supervisor’s eyes wavered.
 
 “I-I’m not entirely sure. Nothing like this has ever happened before.”
 
@@ -138,7 +138,7 @@ Norway, the massive man who stood out from the crowd, was looking at me with ope
 
 “You’re desperate to stand out, aren’t you?”
 
-I scratched my chin and answered.
+I scratched my chin.
 
 “Not particularly. But why are you so desperate to pick a fight with me?”
 
@@ -184,7 +184,7 @@ I cried out in shock.
 
 Unlike me, who was disappointed, everyone else reacted strongly to the name that had just come out of Norway’s mouth.
 
-A stir spread among the applicants and supervisors in our group. Even the people being tested more than ten jang away began to murmur.
+A stir swept through the applicants and the supervisor in our group. Even the people conducting examinations more than ten jang away began to murmur.
 
 “Th-The Seafaring King, Pa Ryun!”
 
@@ -196,7 +196,7 @@ A stir spread among the applicants and supervisors in our group. Even the people
 
 Norway—or rather, the Iron-Water Divine Dragon—snorted at their reactions.
 
-He was probably proud to have such an impressive Master, but pride in his own abilities also showed in every one of his actions.
+He was no doubt proud of his renowned Master, but confidence in his own abilities showed in his every action as well.
 
 *Well, he’s certainly strong enough to justify it.*
 
@@ -218,7 +218,7 @@ He wasn’t exactly wrong. Shanxi Province lay on the outskirts, far from the Ce
 
 “A pirate? How dare you insult the Yangtze River Channel League! We are heroes who roam the rivers and the open sea!”
 
-“Sure. But boil that down to two syllables and you get ‘pirate,’ don’t you?”
+“Sure. But boil that down to one word and you get ‘pirate,’ don’t you?”
 
 “You insolent wretch! What kind of vile nonsense is that? The heroes of our League are worlds apart from such scum!”
 
@@ -244,7 +244,7 @@ Given the scale of the Star-Array Grand Banquet, every supervisor overseeing the
 
 The supervisor assigned to our group was at the upper reaches of First Rate, but the moment the Iron-Water Divine Dragon seized his shoulder, his face turned deathly pale.
 
-“W-What is this…”
+“W-What are you…”
 
 “You don’t need to stop me. My Master gave me strict orders to win the Star-Array Grand Banquet, after all.”
 
@@ -318,7 +318,7 @@ He didn’t answer.
 
 Instead, internal energy as vast as the open sea surged in waves from his entire body.
 
-His waist, thicker than a bear’s, and his pillar-like arms bent far backward. Blue internal energy, like a flowing river, already surged around his fist.
+His waist was thicker than a bear’s, and his pillar-like arm drew all the way back. Blue internal energy like a flowing river already churned around his fist.
 
 Gooooong.
 
@@ -332,7 +332,7 @@ The Ship-Breaking Fist.
 
 A single punch capable of splitting a sailing ship slammed into the cliff.
 
-A deafening boom rang out, followed by a storm. People covered their faces with both arms and groaned as dirt and fragments of rock rained down.
+A deafening boom rang out, followed by a violent gust. People groaned and raised both arms to shield their faces as dirt and shards of rock rained down.
 
 “Gasp!”
 
@@ -356,7 +356,7 @@ It was over ten jang across in every direction and five jang deep.
 
 “This is the Seafaring King’s unique martial art…!”
 
-An unmistakable tremor passed through the crowd.
+An unmistakable thrill ran through the crowd.
 
 Everyone gathered here revered martial arts above all else and yearned to grow stronger.
 
@@ -364,7 +364,7 @@ Their awestruck gazes converged on the martial artist who had just displayed a l
 
 “Huff. Huff.”
 
-His broad back heaved. Muscles swollen to the point of tearing rippled beneath his skin.
+His broad back heaved. Muscles swollen almost to bursting rippled beneath his skin.
 
 After catching his breath for a while, the Iron-Water Divine Dragon turned around with a composed expression.
 
@@ -400,7 +400,7 @@ I gave a small nod.
 
 Grind.
 
-At the sight of the Iron-Water Divine Dragon grinding his teeth, my head instinctively shook from side to side.
+Watching the Iron-Water Divine Dragon grind his teeth, I shook my head.
 
 *I told him it was impressive. What more does he want from me?*
 
@@ -459,7 +459,7 @@ For a moment, I had forgotten.
 
 No—I had known, but I hadn’t truly understood what it meant.
 
-Even though the curtain had risen on the Star-Array Grand Banquet, this magnificent and dazzling stage where the martial artists of the world had gathered in one place…
+Even after the curtain had risen on the Star-Array Grand Banquet, this magnificent, dazzling stage where martial artists from all under heaven had gathered in one place…
 
 *This is the Central Plains. This is the world.*
 
