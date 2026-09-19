@@ -749,7 +749,11 @@ function initChapter(signal: AbortSignal) {
     { signal },
   );
 
+  const HIDE_AFTER_Y = 72;
+  const SHOW_UP_THRESHOLD = 32;
   let lastY = window.scrollY;
+  let chromeHidden = false;
+  let scrollUp = 0;
   let ticking = false;
   window.addEventListener(
     "scroll",
@@ -762,9 +766,21 @@ function initChapter(signal: AbortSignal) {
         const y = window.scrollY;
         paint();
         persistSoon();
-        const hide = y > lastY && y > 72;
-        header?.classList.toggle("is-hidden", hide);
-        dock?.classList.toggle("is-hidden", hide);
+        const dy = y - lastY;
+        if (y <= HIDE_AFTER_Y) {
+          chromeHidden = false;
+          scrollUp = 0;
+        } else if (dy > 0) {
+          scrollUp = 0;
+          chromeHidden = true;
+        } else if (dy < 0) {
+          scrollUp += -dy;
+          if (scrollUp >= SHOW_UP_THRESHOLD) {
+            chromeHidden = false;
+          }
+        }
+        header?.classList.toggle("is-hidden", chromeHidden);
+        dock?.classList.toggle("is-hidden", chromeHidden);
         lastY = y;
         ticking = false;
       });
