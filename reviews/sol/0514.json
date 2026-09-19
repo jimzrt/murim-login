@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "There were nearly twenty Shaolin monks.",
+      "defect": "The draft changes the group’s stated number from twenty to fewer than twenty, contradicting the later reference to twenty approaching figures.",
+      "id": "F01",
+      "rationale": "스무 명에 달하는 identifies a group numbering twenty, which is confirmed by the later 스무 개의 신형.",
+      "replacement": "There were twenty Shaolin monks.",
+      "severity": "critical",
+      "source": "스무 명에 달하는 소림사의 승려들."
+    },
+    {
+      "confidence": 0.99,
+      "current": "I had to kill him before he killed me.",
+      "defect": "The draft makes Sama Pyo claim that he personally killed Blood Cudgel, although the Korean leaves the killer unstated here and Sama Pyo immediately identifies his subordinate as the culprit.",
+      "id": "F02",
+      "rationale": "죽여야 했습니다 has no explicit first-person subject. A passive construction preserves that omission and remains consistent with the subsequent disclosure that the giant dealt the killing blow.",
+      "replacement": "He had to be killed before he killed me.",
+      "severity": "critical",
+      "source": "상대가 저를 죽이기 전에 죽여야 했습니다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Thank you for granting permission, Martial Uncle.”",
+      "defect": "The draft removes the speaker’s conspicuous hesitation over an address that the next sentence explicitly says is still unfamiliar to him.",
+      "id": "F03",
+      "rationale": "The pause within 사……숙 is a meaningful emotional and hierarchical cue, reflecting the monk’s discomfort with the newly adopted relationship.",
+      "replacement": "“Thank you for granting permission, Martial… Uncle.”",
+      "severity": "major",
+      "source": "“허락해 주셔서 감사합니다. 사……숙.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "At someone’s curt voice, the giant blinked his calf-sized eyes.",
+      "defect": "The draft treats the calf comparison as a measurement, giving the giant impossibly enormous eyes rather than comparing their expression or appearance to a calf’s.",
+      "id": "F04",
+      "rationale": "송아지 같은 means “like a calf,” not “the size of a calf.” The image characterizes the giant’s incongruously innocent appearance.",
+      "replacement": "At someone’s curt voice, the giant blinked his large, calf-like eyes.",
+      "severity": "minor",
+      "source": "딱딱한 누군가의 목소리에, 거한이 송아지 같은 눈을 깜빡였다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Jung Ho stared at the young martial artist with sunken eyes before speaking abruptly.",
+      "defect": "The draft turns a subdued or grave gaze into the physical condition of having recessed eyes.",
+      "id": "F05",
+      "rationale": "가라앉은 modifies 눈빛, the quality of his gaze, rather than describing the anatomical position of his eyes.",
+      "replacement": "Jung Ho regarded the young martial artist with a grave gaze, then spoke abruptly.",
+      "severity": "minor",
+      "source": "가라앉은 눈빛으로 젊은 무인을 응시하던 정호가 불쑥 입을 열었다."
+    }
+  ],
+  "summary": "Two scene facts are altered: the group contains twenty monks, not fewer than twenty, and Sama Pyo does not claim that he personally killed Blood Cudgel. The draft also drops a meaningful hesitation and mistranslates two descriptions of eyes.",
+  "version": 1
+}

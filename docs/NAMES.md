@@ -1676,3 +1676,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 흑룡마문 | **Black Dragon Demon Gate** | Unorthodox faction from Gansu. |
 | 혈곤 | **Blood Cudgel** | Sobriquet of Do Sangho. |
 | 도상호 | **Do Sangho** | Blood Cudgel's personal name. |
+| 정호 | **Jung Ho** | Middle-aged Shaolin martial monk leading the traveling group. |
+| 사마표 | **Sama Pyo** | Young Sect Leader of the Black Dragon Demon Gate. |
+| 흑룡도 | **Black Dragon Saber** | Sama Pyo's sobriquet. |
+| 대초자곤 | **two-section staff** | Weapon carried by Sama Pyo's giant subordinate. |

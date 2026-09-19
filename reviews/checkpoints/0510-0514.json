@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "A stranger capable of walking across the water has approached Taekyung; the stranger’s identity and motives are unresolved.",
+      "defect": "The stranger is identified as Jeok Cheongang at the start of Chapter 512, so this resolved reveal is incorrectly preserved as an open hook.",
+      "id": "C01",
+      "rationale": "Leaving the identity unresolved contradicts both Chapter 512 and the checkpoint plot summary and could cause later continuity work to conceal or re-resolve an already revealed fact.",
+      "replacement": "Jeok Cheongang approached Taekyung by walking across the water, brought him food, and persuaded him to abandon the shark-assisted shortcut.",
+      "severity": "major",
+      "source": "Checkpoint Continuity, second bullet"
+    },
+    {
+      "confidence": 1.0,
+      "current": "A stranger capable of walking across the Yangtze's surface has approached Taekyung.",
+      "defect": "The active state records Jeok Cheongang as an unidentified stranger even though Chapter 512 explicitly reveals him.",
+      "id": "C02",
+      "rationale": "Active continuity is used downstream; retaining the pre-reveal description risks false ambiguity and contradictory future summaries.",
+      "replacement": "Jeok Cheongang approached Taekyung by walking across the Yangtze and persuaded him to continue toward Henan under his own power.",
+      "severity": "major",
+      "source": "Durable state, active_continuity final entry"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Who is the stranger walking across the Yangtze, who is the conical-hatted figure traveling with Shaolin, and whose sword does Sama Pyo possess?",
+      "defect": "The first question was answered in Chapter 512: the stranger is Jeok Cheongang.",
+      "id": "C03",
+      "rationale": "Only the conical-hatted figure and the sword’s rightful owner remain unresolved through Chapter 514.",
+      "replacement": "Who is the conical-hatted figure traveling with Shaolin, and whose sword does Sama Pyo possess?",
+      "severity": "major",
+      "source": "Durable state, open_questions final entry"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Sama Pyo is the unnamed Young Sect Leader of the Black Dragon Demon Gate, an unorthodox faction from Gansu. He owns or claims ownership of the disputed Black Dragon Saber.",
+      "defect": "This conflates Sama Pyo’s sobriquet, Black Dragon Saber, with the separate unnamed sword whose ownership is disputed.",
+      "id": "C04",
+      "rationale": "Chapter 514 uses Black Dragon Saber as Sama Pyo’s established sobriquet, while the conical-hatted figure challenges his ownership of the sword acquired in Chapter 513.",
+      "replacement": "Sama Pyo is the previously unnamed Young Sect Leader of the Black Dragon Demon Gate, an unorthodox faction from Gansu. He bears the sobriquet Black Dragon Saber and claims ownership of the disputed sword.",
+      "severity": "major",
+      "source": "Checkpoint Continuity, fourth bullet"
+    },
+    {
+      "confidence": 1.0,
+      "current": "the three characters embroidered in black thread across the young martial artist’s dark blue silk uniform",
+      "defect": "The inscription is called three characters here but a four-character name in the next paragraph.",
+      "id": "C05",
+      "rationale": "Black Dragon Demon Gate is treated as a four-character name elsewhere in the same passage, making the current count an immediate internal contradiction.",
+      "replacement": "the four characters embroidered in black thread across the young martial artist’s dark blue silk uniform",
+      "severity": "minor",
+      "source": "Chapter 513, merchant’s recognition of the Black Dragon Demon Gate insignia"
+    },
+    {
+      "confidence": 1.0,
+      "current": "No—the destination was Henan.\n\n\n\n* * *\n\n\n\nThe entire Murim world seethed like water in a cauldron.",
+      "defect": "This scene break has multiple surplus blank lines on both sides, unlike the packet’s other scene breaks.",
+      "id": "C06",
+      "rationale": "Normalizing the spacing removes an isolated Markdown formatting difference without changing the required scene-break marker or prose.",
+      "replacement": "No—the destination was Henan.\n\n* * *\n\nThe entire Murim world seethed like water in a cauldron.",
+      "severity": "minor",
+      "source": "Chapter 512, scene break after Taekyung resolves to reach Henan"
+    }
+  ],
+  "summary": "The reading copies are broadly consistent in voice and terminology, but the checkpoint repeatedly leaves Jeok Cheongang’s revealed approach unresolved, the continuity summary conflates Sama Pyo’s sobriquet with the disputed sword, Chapter 513 contradicts itself on the Black Dragon Demon Gate inscription count, and Chapter 512 has a scene-break formatting anomaly.",
+  "version": 1
+}
