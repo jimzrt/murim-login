@@ -1,17 +1,15 @@
 # Translation State
 
-- Last completed: 438
-- Next chapter: 439
-- Current block: 435–439 (4/5)
-- Latest translation: `translations/0438.md`
-- Latest summary: `summaries/beats/0438.md`
-- Safe profiles through: chapter 438
+- Last completed: 439
+- Next chapter: 440
+- Current block: 435–439 (5/5)
+- Latest translation: `translations/0439.md`
+- Latest summary: `summaries/beats/0439.md`
+- Safe profiles through: chapter 439
 
 ## Current Block
 
-- Jeok Cheongang interrupts Mungyeong's pressure on Taekyung, learns that Mungyeong was investigating Taekyung's newly opened Middle Dantian, and dismisses the possibility that Taekyung learned demonic martial arts. He begins Taekyung's training and orders him to stay away from Mungyeong.
-- That night, Jeok meets Mungyeong aboard the fast ship, drinks the Seafaring King's prized Jiannan Chun, and argues that Taekyung's rapid advancement cannot be judged by ordinary experience. Jeok says Taekyung broke through the Supreme Peak wall and opened his Middle Dantian in only two years, calls Taekyung and the Sword Saint's Disciple divine dragons, and tells Mungyeong to accept what he cannot explain.
-- With the journey to Hubei beginning, Taekyung logs out to the modern world aboard a private jet bound for Korea. The Skeleton King observes his sleep and is struck after calling him strange.
+- Jin Taekyung gives the Skeleton King a translation-magic ring from Magic Johnson, but the undead monster's attempt to pass as an American through his Atlanta origin story and Korean-accented English only creates more trouble. The Skeleton King reveals that he has a social-media account with 5,134 followers and sends Magic Johnson an embarrassing message, prompting Taekyung to insist that he keep his identity hidden. Team Leader Choi explains that Korea is preparing an enormous welcome for Taekyung, including a car parade and the President's appearance, while Taekyung objects to political involvement despite the tax benefits offered in connection with the fifty-trillion bounty on the Arch Lich. At Incheon Airport, Taekyung nevertheless shakes hands with the President before a wall of cameras, while the Skeleton King privately condemns the supposedly vile humans who arranged everything.
 
 ## Open Questions
 
@@ -19,13 +17,13 @@
 - How did Jin Taekyung actually open his Middle Dantian?
 - What confidential matter is Jin Wikyung withholding?
 - Are Taekyung's suspicions about the mysterious patterns and symbols found in both worlds correct?
+- How will Taekyung's public status and the Arch Lich bounty affect his future dealings with Korea's political establishment?
 
 ## Exceptional Decision
 
-- Render 노부 as “this old man” or “I,” and 노야 as “Old Master.”
-- Preserve Middle Dantian, Supreme Peak, Jiannan Chun, Sound Transmission, and divine dragons as established terminology.
-- Keep Mungyeong's medical-apprentice voice restrained and his Slaughter Saint voice dry and blunt.
-- Retain Taekyung's profanity and modern comic references in his narration and dialogue.
+- Render 스톤 킹 as “Stone-King” and use “Mr. King” when others address him.
+- Preserve the Skeleton King's grandiose “this king” voice and Taekyung's profane modern humor.
+- Keep Arch Lich, S-rank Hunter, Magic Gem, Inventory, Blue House, Peace Guild, and Demon Realm as established terms.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

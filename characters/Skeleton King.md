@@ -1,9 +1,9 @@
 # Skeleton King (스켈레톤 킹)
 
-- **Safe through:** Chapter 429
-- **Aliases:** Stone-King
-- **Role:** The Skeleton King is a Named Monster whose bones have been transformed into a nearly perfect human body through Magic Johnson's magic.
-- **Personality:** Arrogant, vain, combative, socially curious, and eager to pursue human romance and status.
-- **Voice:** Grandiose and insulting, mixing formal declarations with Korean Internet slang and basic English.
-- **Relationships:** The Skeleton King treats Jin Taekyung as an ally and insulting rival while regarding Magic Johnson as the benefactor who gave him a human appearance and phone.
+- **Safe through:** Chapter 439
+- **Aliases:** Stone-King, Mr. King
+- **Role:** An intelligent undead monster and former Skeleton Warlord traveling as Jin Taekyung's ally while concealing his identity from the public.
+- **Personality:** Vain, grandiose, socially clueless, easily offended, and proud of his appearance and status.
+- **Voice:** Pompous and ceremonious, using “this king” and formal diction even when making absurd claims.
+- **Relationships:** Jin Taekyung is his ally and handler, Magic Johnson is his benefactor, and Team Leader Choi manages the practical consequences of his presence.
 - **Sources:** Korean source and accepted translation, Chapter 425
