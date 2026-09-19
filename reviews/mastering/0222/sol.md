@@ -24,7 +24,7 @@ Blood gushed out as the Scorching Yang Qi burned through its retina. Its vertica
 
 It was a howl from the depths of its soul.
 
-An inhuman shriek I had never heard before burst from its mouth, which was stretched wide enough to split.
+A shriek unlike anything I had ever heard erupted from its gaping maw.
 
 *That nearly blew out my eardrums.*
 
@@ -38,21 +38,21 @@ It thrashed wildly, swinging its one intact wing and tail in every direction. Th
 
 —Grrrrr.
 
-The head of the house-sized monster.
+A monster’s head the size of a house.
 
 Black blood poured from the eye, which had been half crushed.
 
-It was a horrifying sight—enough to make even a fairly gutsy person step backward. But as I watched, I felt refreshed, as if someone had opened a hole in my chest.
+It was a horrifying sight, enough to make even the stoutest person recoil. But watching it filled me with a profound sense of relief.
 
-“You’re one dumb son of a bitch. You still haven’t learned your lesson after what happened three years ago?”
+“You really don’t learn, do you? You still haven’t gotten the message after what happened three years ago?”
 
-Even if it had lost both eyes, it still had other senses.
+It might have lost both eyes, but it still had its other senses.
 
 Its head trembled with pain as it turned directly toward me.
 
 —Hu. man.
 
-“Why, Wyvern?”
+“What, Wyvern?”
 
 —How. did. you. even?
 
@@ -176,7 +176,7 @@ The creature—or rather, Carus—laughed triumphantly. Its mangled eye was alre
 
 I thought for a moment, then nodded.
 
-“Yeah. I did let my guard down.”
+“Yeah. I did.”
 
 —……Why. are. you. so. calm?
 
@@ -200,7 +200,7 @@ The instant I finished speaking, I stepped forward.
 
 The thorny vines, each as thick as my thigh, tightened around my entire body, but they couldn’t stop me.
 
-“While I’m at it, I’ll splurge on a bonus. Fifty Strength. Fifty Stamina.”
+“While I’m at it, I’ll splurge on a little bonus. Fifty Strength. Fifty Stamina.”
 
 Ding.
 
@@ -212,7 +212,7 @@ Ding.
 
 Crack. Crrrunch.
 
-I tore and shattered the vines with overwhelming power and Strength.
+I tore through the vines and shattered them with overwhelming force.
 
 Carus’s magic had been greatly amplified by the dragonkin trait, but the magic itself wasn’t particularly advanced.
 
@@ -276,7 +276,7 @@ At long last, I could offer some comfort to the spirits of those who had died be
 
 *Yes. Finally.*
 
-Just as I murmured those words silently in my heart, mana rippled around the creature writhing in pain.
+Just as I murmured the words to myself, mana surged around the creature writhing in pain.
 
 —Kraaaah! Slow! Dark Binding! Magic Arrow!
 
@@ -302,7 +302,7 @@ Boom!
 
 But I had already leaped half a beat ahead of it.
 
-The rocks scattered across the wasteland like reefs rising from the sea shattered into powder.
+The rocks scattered across the wasteland like reefs in the sea shattered into powder.
 
 *Open Inventory. Equip.*
 
@@ -310,13 +310,13 @@ As I descended, I swung my spear.
 
 Shraaaak.
 
-The severed tail rolled through the dust with black blood spilling from it.
+Black blood sprayed as the severed tail tumbled through the dust.
 
 —Kraaaaah!
 
 Shrrk. Shrrk. Shrrk.
 
-It was like perfectly meshing gears.
+It all flowed together like perfectly meshing gears.
 
 I blocked, dodged, and cut through every attack the creature unleashed in its desperate struggle.
 
@@ -324,11 +324,11 @@ Then I realized that no more attacks were coming and stopped.
 
 —Krrk. Grrrk.
 
-Two severed wings. A severed tail. Two eyes that could no longer function.
+Two severed wings. A hacked-off tail. Two ruined eyes.
 
 The creature lay submerged in a vast pool of blood, ragged breaths rasping from its maw as though each one might be its last.
 
-I watched it for a while before opening my mouth.
+I watched it for a moment before speaking.
 
 “Do you want to live?”
 
@@ -338,13 +338,13 @@ I watched it for a while before opening my mouth.
 
 —Will. you…save. me?
 
-“No. It just feels like a waste to send you off like this.”
+“No. It would be a shame to send you off this soon.”
 
 —……!
 
 “Hold out ten more times. I’ll kill you after that.”
 
-The creature’s body trembled. Its gaping eye, pouring dark-red blood like a waterfall, turned toward me.
+Its body trembled. The hollow socket pouring dark-red blood like a waterfall turned toward me.
 
 —You. are. cruel. hu. man.
 
@@ -380,7 +380,7 @@ With those barely audible words, I drove the spear forward.
 
 Shnk.
 
-The Scorching Yang Qi flowing from the spearhead as it gently pierced through the center of its brow rampaged like a wild beast, devouring and burning everything in its path.
+The Scorching Yang Qi flowing from the spearhead gently piercing its brow rampaged like a wild beast, burning through everything in its path.
 
 A skull harder than steel. Flesh. Brain matter. Everything else.
 
@@ -412,7 +412,7 @@ System notifications washed over me like waves. I released the scorching-hot spe
 
 What more was there to say?
 
-The shouts of other people brought me back to myself as I stood there in a daze.
+I stood there in a daze until familiar shouts brought me back to myself.
 
 “Mr. Jin Taekyung!”
 
