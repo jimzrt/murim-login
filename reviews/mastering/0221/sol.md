@@ -20,7 +20,7 @@ Ding.
 >
 > You have acquired 100 additional Bonus Points!
 
-The System notifications echoed in my ears like a ringing bell. But my gaze remained fixed solely on the spear.
+The System notifications echoed in my ears. But my gaze remained fixed on the spear.
 
 Ssssss.
 
@@ -28,7 +28,7 @@ Blue flames flickered over the spearhead. A thrilling shiver raced up my spine.
 
 *I did it.*
 
-Today, I had taken one step toward a higher realm and conquered one of the peaks of the perilous mountain known as martial arts.
+Today, I had taken another step toward a higher realm and conquered one of the peaks in the perilous mountain known as martial arts.
 
 At the same time, I knew one thing for certain.
 
@@ -50,9 +50,9 @@ Tremendous pressure poured from a maw large enough to swallow a car whole and bo
 
 *Air Breath.*
 
-One branch of a unique ability granted only to dragonkin.
+One branch of the innate power granted only to dragonkin.
 
-Since a Named Monster was using it, even a capable Hunter would have had their eardrums burst and been forced to their knees.
+Coming from a Named Monster, it would have burst the eardrums of any ordinary Hunter and forced them to their knees.
 
 But not me.
 
@@ -94,7 +94,7 @@ Boom!
 
 With a single stomp, I shot forward like an arrow.
 
-The confused creature twisted its head and unleashed another Air Breath, but it couldn’t keep up with my speed.
+Startled, the creature twisted its head and unleashed another Air Breath, but it couldn’t keep up with my speed.
 
 Whoosh! Rat-a-tat-tat!
 
@@ -102,21 +102,21 @@ Clad in nothing but light leather armor and carrying a single spear, I streaked 
 
 —Grrrrrk?
 
-The startled creature spread its folded wings wide. But by then, I had already leaped with all my strength.
+The startled creature spread its folded wings wide, but by then, I had already leaped.
 
 Boom!
 
-With a powerful tremor, I soared into the air. Through my hair streaming in the wind, I saw the creature’s knee beneath its flashing black scales.
+The ground shook as I soared into the air. Through my hair whipping in the wind, I saw its knee beneath the gleaming black scales.
 
 The exact spot known as the cruciate ligament.
 
-“You’re exempt from military service, you bastard!”
+“Congratulations! You’re exempt from military service, you bastard!”
 
 With that shout, I drove my spear in with all my strength.
 
-Thrust! Shrrrk!
+Thud! Shrrrk!
 
-The Wyvern’s hide and scales, said to withstand ordinary magic and weapons alike, split open in an instant.
+The Wyvern’s hide and scales, said to repel ordinary magic and weapons alike, split open in an instant.
 
 A sharp, satisfying jolt traveled through my fingertips, like harpooning a fish.
 
@@ -142,7 +142,7 @@ I had countless weapons stored in my Inventory, both in Murim and in the real wo
 
 They had cost me a fortune, but if it meant killing this creature, I wouldn’t mind spending ten times as much.
 
-Thrust!
+Thud!
 
 I suddenly remembered training in the Wall Lizard Technique back in Murim. The cliff I had scaled then was even higher, and there had hardly been anything to use as a foothold.
 
@@ -152,7 +152,7 @@ Compared to that, this was nothing.
 
 I drove dagger after dagger into the creature’s enormous body and climbed higher and higher.
 
-Thrust, thrust! Thrust-thrust-thrust!
+Thud, thud! Thud-thud-thud!
 
 Against Spear Energy, neither hide harder than plate armor nor scales capable of deflecting low-level magic were of any use.
 
@@ -184,7 +184,7 @@ And I was the meteor itself.
 
 With that quiet murmur, I became one with the spear and plunged downward. My target was its wing, which served as both foreleg and arm.
 
-Blinded by pain for a moment, the creature had no way to stop the meteor.
+Blinded by pain, the creature had no way to stop the meteor.
 
 Fwoosh! Shraaaaaak!
 
@@ -230,7 +230,7 @@ Covered in blood and dirt, the creature glared at me as it panted heavily.
 
 —Krrrk.
 
-Dozens of blades were embedded throughout its body, and blood poured from its open wounds like waterfalls.
+Dozens of blades protruded from its body, and blood poured from its gaping wounds like waterfalls.
 
 Of the wings that symbolized the Wyvern, only one remained.
 
@@ -240,11 +240,11 @@ It was still enormous and imposing, but there was no longer any trace of the dig
 
 Its eye, brimming with resentment and killing intent, glared at me.
 
-The emotions conveyed by that gaze were unlike anything I had ever known from a monster.
+The emotions in that gaze were unlike anything I had ever seen from a monster.
 
 “Watch how you look at me, or I’ll pluck that eye out first.”
 
-I tossed out the words and began walking toward it.
+I tossed out the warning and took a step toward it.
 
 That was when it happened.
 
@@ -258,7 +258,7 @@ My feet froze. The corner of my eye twitched involuntarily.
 
 *What did I just hear?*
 
-But I hadn’t misheard it. The creature’s maw shifted, and a clearer pronunciation emerged.
+But I hadn’t misheard it. The creature’s maw moved, and the next words emerged more clearly.
 
 —Do. you. want. to. kill. me?
 
@@ -298,7 +298,7 @@ Not until one human took his eye.
 
 *How dare he? How dare a human lower than a bug do this to me!*
 
-Carus was furious. At the same time, he made a vow.
+Carus was furious, and he made a vow.
 
 He would kill the human who had taken his eye. Even if he never found him, he would kill other humans again and again.
 
@@ -318,7 +318,7 @@ Once he understood the source of his strength, Carus began hunting Magic Gems.
 
 He devoured other monsters, and instead of feasting on human flesh, he studied the magic equipment they carried.
 
-*So this is how those human bastards use Magic Gems.*
+*So this is how those humans use Magic Gems.*
 
 The more Magic Gems he absorbed, the higher his Intelligence rose and the stronger he became.
 
@@ -346,15 +346,15 @@ Using one of the humans he had deliberately allowed to escape as a guide, he fin
 
 *I’ll kill him! I’ll chew him up, bones and all!*
 
-But that bastard was strong. Even Carus, who had absorbed hundreds of Magic Gems, was pushed back helplessly.
+But the bastard was strong. Even Carus, who had absorbed hundreds of Magic Gems, was completely overwhelmed.
 
 Yet he still had one card left to play.
 
-—Heal.
+—Heal!
 
 Sssssss.
 
-His wounds closed, and the bleeding stopped. He couldn’t completely restore his torn wing, but this was enough.
+His wounds closed, and the bleeding stopped. He couldn’t fully restore his severed wing, but this was enough.
 
 —I’ll. kill. you. hu.man.
 
@@ -370,7 +370,7 @@ Five Slow spells stacked atop one another and enveloped Jin Taekyung’s body.
 
 —Kehahahaha!
 
-Carus burst into laughter as he watched Jin Taekyung move as slowly as possible.
+Carus threw back his head and laughed as Jin Taekyung slowed to a crawl.
 
 That was when Jin Taekyung spoke.
 
