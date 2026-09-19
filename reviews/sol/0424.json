@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "—I waited until the very end. I endured the humiliation of being toyed with by a human and bore it patiently. And finally… victory belongs to me.",
+      "defect": "“Being toyed with” invents a specific action. The Arch Lich says it endured the humiliation it suffered at a human’s hands, not that Jin played with it.",
+      "id": "F01",
+      "rationale": "인간에게 당하는 수모 means humiliation suffered at a human’s hands; it does not specify being toyed with.",
+      "replacement": "—I waited until the very end. I held back and endured even the humiliation of suffering at a human’s hands. And finally… victory belongs to me.",
+      "severity": "major",
+      "source": "마지막까지 기다렸지. 인간에게 당하는 수모를 겪으면서도 참고 인내했다. 그리고 마침내…… 이 몸의 승리다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "I would… survive.",
+      "defect": "The translation omits 반드시, weakening Jin’s absolute determination at the moment that directly precedes the increase in Endurance.",
+      "id": "F02",
+      "rationale": "반드시 expresses certainty and resolve—“definitely” or “no matter what”—rather than a neutral prediction.",
+      "replacement": "I would… survive, no matter what.",
+      "severity": "major",
+      "source": "나는…… 반드시 살아남을 것이다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "In a world that had slowed to a crawl, I extended the spear in my hand toward the Arch Lich standing motionless before me.",
+      "defect": "“Motionless” is unsupported and changes the Arch Lich’s physical action; 우뚝 서 있는 describes it standing tall or upright.",
+      "id": "F03",
+      "rationale": "우뚝 denotes an imposing upright stance, not an absence of movement.",
+      "replacement": "In a world that had slowed to a crawl, I extended the spear in my hand toward the Arch Lich standing tall before me.",
+      "severity": "minor",
+      "source": "한없이 느린 세상 속에서 우뚝 서 있는 놈을 향해 손에 들린 창을 뻗었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "What kind of thing was that supposed to mean?",
+      "defect": "The translation turns a dismissive, deadpan response to obvious advice into genuine confusion about its meaning.",
+      "id": "F04",
+      "rationale": "그걸 말이라고 is a sarcastic dismissal equivalent to saying that the statement is too obvious to be worth making.",
+      "replacement": "Like that needed saying.",
+      "severity": "minor",
+      "source": "그걸 말이라고."
+    },
+    {
+      "confidence": 0.98,
+      "current": "—Do it, human! Quickly!",
+      "defect": "The leading ellipsis indicating that Jin hears only the clipped end of the Skeleton Warlord’s command has been omitted.",
+      "id": "F05",
+      "rationale": "The obscured beginning is mechanically important because Jin’s burst eardrums prevent him from understanding what he is being told to do.",
+      "replacement": "—…do it, human! Hurry!",
+      "severity": "minor",
+      "source": "- ……해라, 인간! 어서!"
+    },
+    {
+      "confidence": 0.99,
+      "current": "—Farewell, new Adversary—or perhaps merely a foolish human who might once have been the Adversary.",
+      "defect": "“Once have been” implies that Jin may formerly have been the Adversary but is no longer one. The source questions whether he was the Adversary at all.",
+      "id": "F06",
+      "rationale": "대적자였을지도 모르는 expresses uncertain identity, while “once” adds an unsupported temporal loss of that identity.",
+      "replacement": "—Farewell, new Adversary—or perhaps merely a foolish human who might have been the Adversary.",
+      "severity": "critical",
+      "source": "- 잘 가거라. 새로운 대적자여, 혹은 대적자였을지도 모르는 한낱 어리석은 인간이여."
+    },
+    {
+      "confidence": 1.0,
+      "current": "The spearhead of White Flame shattered bone and pierced straight through the center of my chest. I froze with my eyes wide open.",
+      "defect": "The added possessive “my” falsely states that White Flame pierced Jin’s chest. The following reveal establishes that it pierced the Skeleton Warlord, stopping a handspan short of Jin.",
+      "id": "F07",
+      "rationale": "The Korean deliberately omits the possessor of 가슴 to preserve the reveal; identifying it as Jin’s chest contradicts the scene’s physical mechanics.",
+      "replacement": "White Flame’s spearhead shattered bone as it punched through a chest, and I froze with my eyes wide open.",
+      "severity": "critical",
+      "source": "백염의 창날이 뼈를 부수며 가슴 한가운데를 관통했고, 나는 눈을 부릅뜬 채 굳어 버렸다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "—…I do not know that, either. Damn it. Now I do not know anything anymore. Perhaps this sword possessed me.",
+      "defect": "The consistently formal contractions-free wording misses the Skeleton Warlord’s shift into a more vulnerable, colloquial register, while “possessed” overstates 홀린, which means bewitched or entranced.",
+      "id": "F08",
+      "rationale": "모르겠어 marks a clear register drop from the Warlord’s usual formal speech, and 홀린 describes enchantment or fascination rather than literal possession.",
+      "replacement": "—…I don’t know that either. Damn it. I don’t know anything anymore. Maybe this sword bewitched me.",
+      "severity": "major",
+      "source": "- ……그것도 모르겠다. 빌어먹을. 이제는 아무것도 모르겠어. 어쩌면 이 검에 홀린 것일지도 모르지."
+    }
+  ],
+  "summary": "Two critical errors alter the Adversary’s possible identity and falsely state that White Flame pierced Jin’s chest; several additional lines lose action, resolve, clipped speech, or the Skeleton Warlord’s register shift.",
+  "version": 1
+}

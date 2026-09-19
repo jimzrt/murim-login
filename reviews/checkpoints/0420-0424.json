@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "—Human, hurry!",
+      "defect": "This begins a chapter-wide shift to script-style em-dash dialogue, contrary to the established curly-quotation format used in Chapter 420 and required for direct speech.",
+      "id": "C01",
+      "rationale": "The Skeleton Warlord’s speech from inside the inventory is formatted with quotation marks elsewhere, so its location does not justify a different dialogue convention. All corresponding spoken lines in this chapter should follow the established format.",
+      "replacement": "“Human, hurry!”",
+      "severity": "major",
+      "source": "Chapter 421, dialogue beginning after Magic Johnson’s warning"
+    },
+    {
+      "confidence": 0.99,
+      "current": "—You did it, human! Finish it quickly!",
+      "defect": "Chapter 423 resumes the script-style em-dash dialogue drift instead of using curly quotation marks for direct speech.",
+      "id": "C02",
+      "rationale": "This is ordinary direct speech and should match the packet’s established prose-dialogue formatting. The same correction applies throughout the chapter.",
+      "replacement": "“You did it, human! Finish it quickly!”",
+      "severity": "major",
+      "source": "Chapter 423, opening exchange with the Skeleton Warlord"
+    },
+    {
+      "confidence": 0.99,
+      "current": "—You, human. How does it feel to pay the price for your rash arrogance?",
+      "defect": "Chapter 424 continues the script-style em-dash dialogue drift rather than the required curly-quotation format.",
+      "id": "C03",
+      "rationale": "The Arch Lich’s spoken dialogue uses quotation marks in Chapters 420 and 422. Its punctuation should not alternate between chapters without an in-world distinction. The same correction applies throughout Chapter 424.",
+      "replacement": "“You, human. How does it feel to pay the price for your rash arrogance?”",
+      "severity": "major",
+      "source": "Chapter 424, Arch Lich dialogue after Jin collapses"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Magic Johnson had proven that saying true with his own body.",
+      "defect": "The sentence is an unnatural Korean-syntax calque and does not read as polished contemporary English.",
+      "id": "C04",
+      "rationale": "The replacement preserves the point that his own accomplishments demonstrated the saying while using an idiomatic English construction.",
+      "replacement": "Magic Johnson himself was living proof of that saying.",
+      "severity": "minor",
+      "source": "Chapter 421, opening description of Magic Johnson"
+    },
+    {
+      "confidence": 0.97,
+      "current": "It surged like lava in a volcanic region.",
+      "defect": "The comparison is tautological and sounds like a literal dictionary gloss rather than Jin’s brisk narration.",
+      "id": "C05",
+      "rationale": "The replacement preserves the volcanic image and intensity while removing the awkwardly generic phrase “in a volcanic region.”",
+      "replacement": "It surged like lava from an active volcano.",
+      "severity": "minor",
+      "source": "Chapter 420, Jin’s anger before attacking the Arch Lich"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The Arch Lich had been watching me like a monkey at the zoo, but its eye-lights opened wide.",
+      "defect": "The current comparison grammatically makes the Arch Lich the monkey rather than the observer treating Jin as an exhibit.",
+      "id": "C06",
+      "rationale": "This restores the intended observer-subject relationship and smooths the description without changing the comic humiliation or reaction.",
+      "replacement": "The Arch Lich had been watching me as though I were a monkey at the zoo, but now its eye-lights widened.",
+      "severity": "minor",
+      "source": "Chapter 424, Jin’s Indomitable recovery"
+    },
+    {
+      "confidence": 0.98,
+      "current": "In the hand of a named monster that was not even human.",
+      "defect": "The established monster classification loses its capitalization here.",
+      "id": "C07",
+      "rationale": "Earlier chapters consistently use “Named Monster” as a formal category, including for the Skeleton Warlord.",
+      "replacement": "In the hand of a Named Monster that was not even human.",
+      "severity": "minor",
+      "source": "Chapter 424, recognition of Hero’s Soul"
+    },
+    {
+      "confidence": 0.99,
+      "current": "White Flame remains lodged in the Arch Lich’s chest until it is removed and returned to Jin; the Arch Lich then launches it back at him.",
+      "defect": "The wording redundantly describes White Flame as both returned to Jin and subsequently launched back at him, momentarily implying two separate transfers.",
+      "id": "C08",
+      "rationale": "This states the actual sequence unambiguously: the Arch Lich removes the spear and uses the return throw as an attack.",
+      "replacement": "White Flame remains lodged in the Arch Lich’s chest until the Arch Lich removes it and hurls it back at Jin.",
+      "severity": "minor",
+      "source": "Checkpoint continuity, White Flame bullet"
+    }
+  ],
+  "summary": "The packet preserves the major hooks, terminology, and active continuity without accidental spoilers or substantive contradiction. Actionable issues are a recurring direct-speech formatting drift in Chapters 421, 423, and 424, one category-capitalization drift, several awkward English constructions, and an unclear continuity-summary description of White Flame’s return.",
+  "version": 1
+}
