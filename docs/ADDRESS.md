@@ -725,3 +725,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 스켈레톤 킹 | 진태경 | Cooperating companions and antagonistic allies | vile human | grandiose and insulting | The Skeleton King consistently addresses Jin with his self-important insult. |
 | 고준 | 진태경 | Ares Guild combatant confronting the killer of his Master | you | hostile and informal | Go Jun uses 너 while demanding Jin confess to Lee Jungryong's death and threatening retaliation. |
 | 진태경 | 고준 | dominant adversary confronting Lee Jungryong's Disciple | you | contemptuous and informal | Jin uses 너 and 놈 while overpowering Go Jun and ordering him to end the conflict with Lee Jungryong. |
+| 진태경 | 매직 존슨 | friend and ally | Johnson | familiar and direct | Jin calls Johnson by name while asking him to become an ally. |
+| 매직 존슨 | 진태경 | friend and ally | Jin | familiar but serious | Johnson addresses Jin familiarly while confronting him about the truth. |

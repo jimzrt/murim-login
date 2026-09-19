@@ -1,29 +1,29 @@
 # Translation State
 
-- Last completed: 431
-- Next chapter: 432
-- Current block: 430–434 (2/5)
-- Latest translation: `translations/0431.md`
-- Latest summary: `summaries/beats/0431.md`
-- Safe profiles through: chapter 431
+- Last completed: 432
+- Next chapter: 433
+- Current block: 430–434 (3/5)
+- Latest translation: `translations/0432.md`
+- Latest summary: `summaries/beats/0432.md`
+- Safe profiles through: chapter 432
 
 ## Current Block
 
-- Jin confronts Go Jun in the ruins and admits that he killed Lee Jungryong and Wu Heixing. After overpowering Go Jun, exposing three hidden Hunters, and severely mutilating him, Jin leaves him alive and demands that the conflict end with Lee Jungryong. Go Jun gives a faint nod, and Jin heals him with potions before Magic Johnson reveals himself and says they have much to discuss.
+- Magic Johnson learns that Jin knew the truth from the beginning and that Lee Jungryong and Go Jun were his enemies, then chooses to trust Jin as a friend and agrees to help protect Jin's people and support his growth. They clean the bloodied scene, reject the risky and illegal option of altering Go Jun's memories, and leave Go Jun to be carried away by three immobilized A-rank Ares Hunters after Jin threatens them and urges them to reconsider their allegiance. Jin plans to weaken Ares Guild's influence while strengthening Peace Guild, evades Magic Johnson's questions about the magic circle by changing the subject to a club outing with the Skeleton King, and senses that it is nearly time to return to Murim.
 
 ## Open Questions
 
 - What do the shared patterns and symbols represent, and why did the Arch Lich possess a circle matching the Moving Formation?
 - What connection links the two worlds, the battle phenomena, and the junk capsule?
-- What will Magic Johnson do after learning the truth about the confrontation and Jin's killings?
-- What final punishment will be imposed on Wu Heixing's father and the Crown Prince Party leadership?
-- How will the Skeleton King's human identity and Stone-King name be formalized in the human world?
+- How will Magic Johnson respond to what he now knows about Jin and the magic circle?
+- How will Ares Guild's leadership vacuum affect its Hunters and influence?
+- When and under what circumstances will Jin return to Murim?
 
 ## Exceptional Decision
 
-- Render 샤오 쉔 as “Xiao Shen” and preserve “hyung” for his address to Jin.
-- Render 매직 존슨 as “Magic Johnson,” 스켈레톤 킹 as “Skeleton King,” and 스톤-킹 as “Stone-King.”
+- Render 매직 존슨 as “Magic Johnson,” 스켈레톤 킹 as “Skeleton King,” 스톤-킹 as “Stone-King,” and 골골 as “Golgoli.”
 - Render the suspected function of the circle as “life-force absorption” while preserving the uncertainty of the inference.
+- Use “mental-manipulation magic” or “memory-manipulation magic” for 정신 조작 마법 and preserve its status as a serious felony.
 - Preserve Jin's dry, profane voice and the Skeleton King's grandiose, Internet-influenced insults.
 - Render 아공간 포켓 as “extradimensional pocket.”
 
