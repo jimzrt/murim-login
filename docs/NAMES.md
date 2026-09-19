@@ -1617,3 +1617,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 장자방 | **Zhang Liang** | Historical strategist invoked by Jin Wikyung as a comparison for Wipeng. |
 | 한신 | **Han Xin** | Historical military commander invoked in the same exchange. |
 | 소하 | **Xiao He** | Historical civil official invoked in the same exchange. |
+| 마봉진 | **Demon-Sealing Formation** | Zhuge Feng's formation for sealing the Gate's mana. |
+| 철기당 | **Ironcraft Hall** | The Jin Family of Taiyuan hall led by Jang Taebo. |
+| 철기당주 | **Master of Ironcraft Hall** | Jang Taebo's title within the Jin Family. |
+| 신룡 | **Divine Dragon** | Title used when discussing the Water God Dragon's intentions. |
+| 신(新) 무림맹 | **New Murim Alliance** | The new Murim Alliance identified in connection with Henan. |

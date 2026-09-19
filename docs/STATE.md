@@ -1,19 +1,20 @@
 # Translation State
 
-- Last completed: 499
-- Next chapter: 500
-- Current block: 495–499 (5/5)
-- Latest translation: `translations/0499.md`
-- Latest summary: `summaries/beats/0499.md`
-- Safe profiles through: chapter 499
+- Last completed: 500
+- Next chapter: 501
+- Current block: 500–504 (1/5)
+- Latest translation: `translations/0500.md`
+- Latest summary: `summaries/beats/0500.md`
+- Safe profiles through: chapter 500
 
 ## Current Block
 
-- At Jin Wikyung's camp beside Dongting Lake, Wipeng reports that Lee Seowol's Mount Heng Sword Sect has been rebuilt and is growing rapidly under her leadership, with Cheol Mubaek out of seclusion and helping its affairs. Jin Mukyung has remained secluded in the training hall for more than a year after losing to Cheongpung, eating only fasting pills while pursuing a breakthrough. Jin Wikyung reveals that he established Ironcraft Hall to bring Jang Taebo back into service, but Jang refuses until Taekyung produces one of several legendary materials; Taekyung immediately provides an imugi's claw, completing the Sudden Quest and causing the Jin Family of Taiyuan to recruit Jang as Master of Ironcraft Hall.
+- Jang Taebo is overwhelmed by the Water God Dragon's remains and accepts his appointment as Master of Ironcraft Hall. He judges the bones, hide, and scales workable, promises results, and agrees to summon renowned artisans with messenger pigeons while fifty Jin Dragon Squad martial artists transport the remains under his and Wipeng's direction.
+- Zhuge Feng completes the Demon-Sealing Formation, which completely blocks the mana leaking from the Gate by drawing in the qi of the natural world. He expects it to remain active indefinitely according to his theory, but Taekyung warns that Dark Heaven deliberately caused the incident and that similar events will continue. Jin Wikyung agrees, and Zhuge Feng identifies Henan and the New Murim Alliance as the next matter requiring attention.
 
 ## Open Questions
 
-- Will Zhuge Feng's formation permanently seal the Gate gap, and what lies beyond it if the Gate is reopened?
+- Will the Demon-Sealing Formation remain effective permanently, and can equivalent formations be installed repeatedly if more Gates appear?
 - What is the Lord of Heaven's identity, and how is he connected to the dangerous force Taekyung associates with his original world?
 - Where is the Southern Heaven Demon Empress ultimately headed, and what does she intend to do in Yunnan?
 - What is the Dongting Fisherman's exact role within Dark Heaven, and how was he connected to the earlier destruction inside the secret refuge?
@@ -25,7 +26,7 @@
 - Render 기억의 파편 as Memory Fragment, 게이트 공략 as Gate Conquest, 텔레포트 as Teleport, 마법 as Magic, 혈어 as Blood Fish, and 변이된 송사리 as Mutated Minnow; render 강력한 마비산 as Potent Paralysis Powder, 강력한 미혼산 as Potent Soul-Bewitching Powder, 전신 마비 as Full-Body Paralysis, 독성 흡수 as Poison Absorption, and 해독 as Detoxification.
 - Render 시산혈해 as sea of corpses and blood and retain Old Master for 노야 with the established rough, profane Taekyung-Jeok banter; render 해시 as hour of the Pig, 한 식경 as half an hour, 타구봉 as Dog-Beating Staff, 창룡 as Azure Dragon, and 무량수불 as Infinite Life Buddha; preserve geun as the traditional weight unit with a footnote.
 - Render 선천지기 as innate qi, 진원진기 as true-origin qi, and 천기 as heavenly patterns.
-- Render 심마 as Heart Demon, 비급 as martial arts manual, 송문고검 as Pine-Pattern Ancient Sword, 반로환동 as Returned to Youth, 강강수월래 as Ganggangsullae, 생사부 as Book of Life and Death, 기막 as qi curtain, 무극태을검 as Martial Extremity Grand Unity Sword, 이룡 as Two Dragons, 원정 as Origin Essence, 내단 as inner core, 영험한 기운 as sacred energy, 대호 as great tiger, 취팔선권 as Drunken Eight Immortals Fist, 귀면 as Ghost Face, 요단강 as Jordan River, and 진룡 as Jin Dragon.
+- Render 심마 as Heart Demon, 비급 as martial arts manual, 송문고검 as Pine-Pattern Ancient Sword, 반로환동 as Returned to Youth, 강강수월래 as Ganggangsullae, 생사부 as Book of Life and Death, 기막 as qi curtain, 무극태을검 as Martial Extremity Grand Unity Sword, 이룡 as Two Dragons, 원정 as Origin Essence, 내단 as inner core, 영험한 기운 as sacred energy, 대호 as great tiger, 취팔선권 as Drunken Eight Immortals Fist, 귀면 as Ghost Face, 요단강 as Jordan River, 진룡 as Jin Dragon, 마봉진 as Demon-Sealing Formation, 철기당 as Ironcraft Hall, 철기당주 as Master of Ironcraft Hall, 신룡 as Divine Dragon, and 신(新) 무림맹 as New Murim Alliance.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
