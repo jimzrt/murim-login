@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The Zhuge Clan might have shaken with joy on the day Zhuge Feng was born, but on the day I was born, all of humanity had been thrown into turmoil.",
+      "defect": "“Thrown into turmoil” gives humanity’s reaction a negative, chaotic valence. The source parallels the Zhuge Clan’s joyful excitement with all humanity being stirred by the Demon King’s defeat and the end of the Great Cataclysm.",
+      "id": "F01",
+      "rationale": "들썩였다 describes widespread excitement or commotion here, not humanity being plunged into turmoil.",
+      "replacement": "The Zhuge Clan might have been abuzz with joy on the day Zhuge Feng was born, but on the day I was born, all of humanity was abuzz.",
+      "severity": "critical",
+      "source": "제갈풍이 탄생하던 날, 제갈세가가 기쁨에 들썩였겠지만 내가 태어나던 날에는 전 인류가 들썩였다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Don’t say things like that. Live a long, healthy life instead. Eat plenty of things that are good for your health, too.”",
+      "defect": "The draft omits the specific instruction to simmer something thoroughly, weakening the material-related joke.",
+      "id": "F02",
+      "rationale": "푹 고아 드시고요 specifically tells him to consume something after it has been simmered for a long time.",
+      "replacement": "“Don’t say things like that. Live a long, healthy life instead. And have something nourishing slow-simmered for yourself, too.”",
+      "severity": "minor",
+      "source": "“그런 말 마시고 몸 건강히 장수하십시오. 건강에 좋은 것도 푹 고아 드시고요.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Of course I did. Even my ancestor Zhuge Wuhou couldn’t have accomplished something like this.",
+      "defect": "“Of course I did” loses Zhuge Feng’s boast that he succeeded specifically because he is himself.",
+      "id": "F03",
+      "rationale": "나니까 explicitly makes Zhuge Feng’s own exceptional identity the reason for his success.",
+      "replacement": "“I pulled it off because I’m me. Even my ancestor Zhuge Wuhou couldn’t have accomplished something like this.",
+      "severity": "minor",
+      "source": "“나니까 해낸 거요. 선조이신 제갈무후(諸葛武侯)께서도 못 하셨을 일이지."
+    },
+    {
+      "confidence": 0.96,
+      "current": "The current Family Head had smeared shit all over his ancestor’s reputation, brushed off his relatives, and continued speaking proudly.",
+      "defect": "“Brushed off” suggests dismissing the relatives rather than physically shaking them off as they try to restrain or interrupt him.",
+      "id": "F04",
+      "rationale": "뿌리치고 denotes physically pulling or shaking free of someone.",
+      "replacement": "The current Family Head, having smeared shit all over his ancestor’s reputation, shook off his relatives and continued speaking proudly.",
+      "severity": "minor",
+      "source": "선조의 명성에 똥을 퍼 바른 현 가주는 친인척들을 뿌리치고 의기양양하게 말을 이었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "I clicked my tongue bitterly.",
+      "defect": "The draft substitutes a tongue click for the source’s lip-smacking gesture.",
+      "id": "F05",
+      "rationale": "입맛을 다시다 is a movement of the lips or mouth, not clicking one’s tongue.",
+      "replacement": "I gave a bitter smack of my lips.",
+      "severity": "minor",
+      "source": "나는 씁쓸하게 입맛을 다셨다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“How do you find it, Master Jang? It’s a truly spectacular sight, isn’t it?”\n\n“Master… Jang?”\n\n“Heh heh. Of course. You are the Master of Ironcraft Hall of our family now, so you’re Master Jang. Come, let us hear your expert opinion.”",
+      "defect": "“Master Jang” obscures 당주, the official title that makes Jang Taebo realize he has become Ironcraft Hall’s leader. It can also be mistaken for his separate status as a Master Artisan.",
+      "id": "F06",
+      "rationale": "장 당주 is “Hall Master Jang,” and the exchange hinges on Jin Wikyung addressing him by his newly assigned office.",
+      "replacement": "“How do you find it, Hall Master Jang? It’s a truly spectacular sight, isn’t it?”\n\n“Hall Master… Jang?”\n\n“Heh heh. Of course. You are now the Hall Master of our family’s Ironcraft Hall, so that makes you Hall Master Jang. Come, let us hear your expert opinion.”",
+      "severity": "major",
+      "source": "“어떻소, 장 당주. 실로 엄청난 광경이지 않소!”\n\n“장…… 당주?”\n\n“허허, 당연한 것 아니겠소. 본가의 철기당주가 되셨으니 장 당주지. 자, 이제 고견을 들려주시구려.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I’ve heard that only the finest Master Artisan of the age can become the Guild Leader of the Ironcraft Guild. I’ll be counting on you, Master Jang, so tell me if you need anything.”",
+      "defect": "The official address 장 당주 is again flattened to “Master Jang,” obscuring Jang Taebo’s new office.",
+      "id": "F07",
+      "rationale": "당주 denotes the head of a hall, not a generic master or craftsman.",
+      "replacement": "“I’ve heard that only the finest Master Artisan of the age can become the Guild Leader of the Ironcraft Guild. I’ll be counting on you, Hall Master Jang, so tell me if you need anything.”",
+      "severity": "major",
+      "source": "“철기방의 방주는 당대에서 제일가는 명장만이 될 수 있다고 들었소. 내 장 당주만 믿을 테니 필요한 것이 있다면 무엇이든 말씀하시구려.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Master Jang, how many years have you been doing this work?”",
+      "defect": "The draft once more removes Jang Taebo’s official Hall Master title.",
+      "id": "F08",
+      "rationale": "장 당주 is the formal office-based address “Hall Master Jang.”",
+      "replacement": "“Hall Master Jang, how many years have you been doing this work?”",
+      "severity": "major",
+      "source": "“장 당주, 그대는 이 일을 몇 년이나 해 왔소?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Of course. Every one of them is a Master Artisan renowned in their respective field.”",
+      "defect": "The draft promotes every craftsman to the specific established rank of Master Artisan, which the source does not do.",
+      "id": "F09",
+      "rationale": "장인들 means artisans or craftsmen; 명장 is the distinct term used for a Master Artisan.",
+      "replacement": "“Of course. Every one of them is a renowned artisan in their respective field.”",
+      "severity": "major",
+      "source": "“이를 말이겠습니까. 하나하나가 각 분야에서 내로라하는 장인들입니다.”"
+    }
+  ],
+  "summary": "One reversed historical reaction, repeated flattening of an official title, one rank inflation, and several localized fidelity defects.",
+  "version": 1
+}
