@@ -8,7 +8,7 @@ They were filled with awe and curiosity.
 
 Everyone knew now. The young martial artist who had been dismissed as a lucky country bumpkin just days ago was actually the great martial artist known as the Sword Saint.
 
-“Is that really him? Great Hero Mae Jonghak, the Sword Saint.”
+“Is that really him? Great Hero Mae Jonghak, the Sword Saint?”
 
 “Good heavens, he looks so young. I thought Returned to Youth was nothing more than an absurd fairy tale.”
 
@@ -18,7 +18,7 @@ Their hushed conversations slipped straight into my ears.
 
 “But who’s that next to him?”
 
-“That’s the Sleeping Dragon of Shanxi, Jin Taekyung. I heard from someone yesterday that he grabbed Great Hero Mae Jonghak by the neck and talked to him like he was some punk, and—well, you know?”
+“That’s the Sleeping Dragon of Shanxi, Jin Taekyung. I heard yesterday that he grabbed Great Hero Mae Jonghak by the neck and called him every name under the sun, and—well, you know?”
 
 “Good heavens. At that point, shouldn’t he be called the Mad Dragon instead of the Sleeping Dragon of Shanxi?”
 
@@ -94,7 +94,7 @@ Remembering the mouse-faced old physician who had briefly visited yesterday inst
 
 “The Luoyang Strange Physician or whatever. He took one quick look, said there was nothing he could do right now, and walked straight out. How is that not quackery?”
 
-What kind of old man had such a fierce temper? When I grabbed his arm in sheer disbelief, he screamed so loudly my ears nearly fell off.
+What kind of old man had such a vicious temper? When I grabbed his arm in disbelief, he shrieked loudly enough to burst my eardrums.
 
 Then he shouted that he would never examine Jeok Cheongang again, leaving me no choice but to let him go.
 
@@ -142,7 +142,7 @@ Mae Jonghak gazed at the flower garden with an odd expression.
 
 I thought for a while before answering.
 
-So much had happened so urgently yesterday that I hadn’t noticed it at the time, but there were certainly several things that raised questions.
+Too much had happened too quickly yesterday for me to notice at the time, but there were definitely several things that didn’t add up.
 
 “There were a few things that seemed strange…”
 
@@ -154,7 +154,7 @@ So much had happened so urgently yesterday that I hadn’t noticed it at the tim
 
 “If Dark Heaven intended to deal a serious blow to the Murim, they should have prepared something much bigger.”
 
-The leaders of the orthodox faction’s Murim had all gathered in one place.
+The leaders of the orthodox Murim had all gathered in one place.
 
 If Dark Heaven’s goal was to destroy the orthodox faction and seize control of the world, they could at least have tried planting explosives.
 
@@ -162,7 +162,7 @@ Whether it succeeded or not, it was a golden opportunity to wipe out the enemy�
 
 “Yet the only ones sacrificed were Dharma King Hong Dao and Shaolin Temple. Those bastards chose specific targets from the beginning and acted accordingly.”
 
-“Coming out into the open like this means they must have made at least some preparations for a fight… Yet it feels like they openly revealed themselves only to pick up iron coins instead of silver nyang.”
+“Revealing themselves like this means they must have made at least some preparations for war… But it feels like they exposed themselves in broad daylight just to take a few iron coins instead of the silver nyang.”
 
 Mae Jonghak, who had been listening in silence, suddenly spoke.
 
@@ -174,7 +174,7 @@ Mae Jonghak, who had been listening in silence, suddenly spoke.
 
 “Surely not.”
 
-“Don’t underestimate demonic practitioners. They are people ruled solely by blood and power. The Demonic Cult during the Great Faction War was no different. They’re impossible to read.”
+“Don’t underestimate demonic practitioners. They are ruled by nothing but blood and power. The Demonic Cult was no different during the Great Faction War. They’re impossible to predict.”
 
 Mae Jonghak shook his head and continued.
 
@@ -200,7 +200,7 @@ But there was still one thing bothering me.
 
 Mae Jonghak answered without the slightest hesitation, then scratched his chin.
 
-“The Temporary Strength Pill you acquired, the Exploding Blood Demonic Art used by those who attacked Shaolin, and the Blood Lord himself. They all clearly carry the scent of the Demonic Cult, but… something is different. It has become darker and stranger.”
+“The Temporary Strength Pill you acquired, the Exploding Blood Demonic Art used by the attackers at Shaolin, and the Blood Lord himself. They all clearly carry the scent of the Demonic Cult, but… something is different. It’s darker and stranger.”
 
 Mae Jonghak was a living witness to the Great Faction War. He must have fought countless enemies and experienced their martial arts firsthand.
 
@@ -240,7 +240,7 @@ I was clicking my tongue at the thought when Mae Jonghak asked,
 
 As far as I knew, the Green Jade Buddha Staff was nothing more than a slightly unusual staff.
 
-I thought it only seemed more impressive because it carried the authority of Shaolin’s Abbot and the history of a thousand-year-old Shaolin Temple.
+I figured it only seemed impressive because it embodied the authority of Shaolin’s Abbot and a thousand years of Shaolin history.
 
 It wasn’t the Elder Wand or anything. What were they going to do with a fluorescent green staff?
 
@@ -262,11 +262,11 @@ I thought for a moment before answering.
 
 “Cheongpung.”
 
-“Oh. I see.”
+“Oh. Right.”
 
 “…”
 
-“Pung broke through the wall to the Peak realm when he was eighteen. I’d have thought you had done about the same by that age.”
+“Pung broke through the wall to the Peak realm when he was eighteen. I’d have thought you were about the same at that age.”
 
 “I was doing well in a different sense back then. My epithet was the Night King.”
 
@@ -356,7 +356,7 @@ Some “yes, sir.”
 
 Hyuk Mujin’s face lit up, and he moved aside with a broad grin.
 
-I gazed at Jeok Cheongang’s face, which looked as though he were sleeping soundly, then lay down on the bed beside him.
+I gazed at Jeok Cheongang’s face as he slept soundly, then lay down on the bed beside him.
 
 *How long had it been?*
 
@@ -364,7 +364,7 @@ I had spent the past year running without a moment’s rest. Now, I desperately 
 
 *Logout.*
 
-Ding.
+*Ding.*
 
 With the familiar notification sound, my vision went black.
 
