@@ -833,3 +833,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진위경 | 장태보 | Lesser_Family_Head_to_elder_smith | Old Master Jang | respectful and formal | Wikyung thanks Jang for coming. |
 | 장태보 | 진위경 | elder_smith_to_Lesser_Family_Head | Lesser Family Head | respectful and deferential | Jang speaks with formal respect to Wikyung. |
 | 진위경 | 문경 | Jin Family Lesser Family Head to medical apprentice | you | formal-polite | Asks whether Jin Taekyung will arrive soon. |
+| 현공진인 | 현천진인 | younger Wudang brother to Sect Leader Senior Brother | Sect Leader Senior Brother | formal and respectful | Hyeongong uses 장문 사형 when answering Hyeoncheon. |
+| 이대 제자 | 현천진인 | Wudang second-generation disciple to Sect Leader | Sect Leader | urgent and deferential | The unnamed second-generation disciple urgently calls out 장문인 before reporting the Killing Ghost's remains. |

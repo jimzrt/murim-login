@@ -1,0 +1,135 @@
+{
+  "chapter": 505,
+  "stages": {
+    "draft_model": {
+      "billing_type": "subscription",
+      "cache_read_tokens": 4608,
+      "cache_write_tokens": 0,
+      "cost_reported": 0.01376196,
+      "cost_usd": 0.01376196,
+      "elapsed_seconds": 170.577,
+      "event_log": "/Users/james/dev/murim-login-new/.work/0505/omp/draft.jsonl",
+      "exact": true,
+      "fallback_used": false,
+      "input_bytes": 81440,
+      "input_tokens": 22755,
+      "model": "gpt-5.6-luna",
+      "models": {
+        "openai-codex/gpt-5.6-luna": {
+          "billing_type": "subscription",
+          "cache_read_tokens": 4608,
+          "cache_write_tokens": 0,
+          "cost_usd": 0.01376196,
+          "input_tokens": 22755,
+          "model": "gpt-5.6-luna",
+          "output_tokens": 7599,
+          "provider": "openai-codex",
+          "reasoning_tokens": 4588,
+          "requests": 1,
+          "total_tokens": 34962
+        }
+      },
+      "output_bytes": 13746,
+      "output_tokens": 7599,
+      "packet_token_estimate": 20360,
+      "provider": "openai-codex",
+      "reasoning_tokens": 4588,
+      "requested_model": "openai-codex/gpt-5.6-luna:high",
+      "requests": 1,
+      "stop_reasons": [
+        "stop"
+      ],
+      "total_tokens": 34962,
+      "usage_source": "omp_provider_reported"
+    },
+    "draft_packet": {
+      "input_bytes": 81440,
+      "packet_token_estimate": 20360
+    },
+    "review_model": {
+      "billing_type": "subscription",
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "cost_reported": 0.20366,
+      "cost_usd": 0.20366,
+      "elapsed_seconds": 107.845,
+      "event_log": "/Users/james/dev/murim-login-new/.work/0505/omp/review.jsonl",
+      "exact": true,
+      "fallback_used": false,
+      "finding_count": 6,
+      "input_bytes": 63381,
+      "input_tokens": 22295,
+      "major_or_critical_count": 1,
+      "model": "gpt-5.6-sol",
+      "models": {
+        "openai-codex/gpt-5.6-sol": {
+          "billing_type": "subscription",
+          "cache_read_tokens": 0,
+          "cache_write_tokens": 0,
+          "cost_usd": 0.20366,
+          "input_tokens": 22295,
+          "model": "gpt-5.6-sol",
+          "output_tokens": 5724,
+          "provider": "openai-codex",
+          "reasoning_tokens": 4522,
+          "requests": 1,
+          "total_tokens": 28019
+        }
+      },
+      "output_bytes": 4747,
+      "output_tokens": 5724,
+      "packet_token_estimate": 15846,
+      "provider": "openai-codex",
+      "reasoning_tokens": 4522,
+      "requested_model": "openai-codex/gpt-5.6-sol:medium",
+      "requests": 1,
+      "stop_reasons": [
+        "stop"
+      ],
+      "total_tokens": 28019,
+      "usage_source": "omp_provider_reported"
+    },
+    "update_model": {
+      "billing_type": "subscription",
+      "cache_read_tokens": 4608,
+      "cache_write_tokens": 0,
+      "cost_reported": 0.01125456,
+      "cost_usd": 0.01125456,
+      "elapsed_seconds": 131.959,
+      "event_log": "/Users/james/dev/murim-login-new/.work/0505/omp/update.jsonl",
+      "exact": true,
+      "fallback_used": false,
+      "input_bytes": 57953,
+      "input_tokens": 17574,
+      "model": "gpt-5.6-luna",
+      "models": {
+        "openai-codex/gpt-5.6-luna": {
+          "billing_type": "subscription",
+          "cache_read_tokens": 4608,
+          "cache_write_tokens": 0,
+          "cost_usd": 0.01125456,
+          "input_tokens": 17574,
+          "model": "gpt-5.6-luna",
+          "output_tokens": 6373,
+          "provider": "openai-codex",
+          "reasoning_tokens": 4019,
+          "requests": 1,
+          "total_tokens": 28555
+        }
+      },
+      "output_bytes": 9893,
+      "output_tokens": 6373,
+      "packet_token_estimate": 14489,
+      "provider": "openai-codex",
+      "reasoning_tokens": 4019,
+      "requested_model": "openai-codex/gpt-5.6-luna:high",
+      "requests": 1,
+      "stop_reasons": [
+        "stop"
+      ],
+      "total_tokens": 28555,
+      "usage_source": "omp_provider_reported"
+    }
+  },
+  "version": 2
+}
