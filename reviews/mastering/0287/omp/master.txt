@@ -14,7 +14,7 @@ The moment I heard Lee Jungryong’s first words, I felt as though someone had s
 
 *So this was what Team Leader Choi had been hiding.*
 
-Their relationship was clearly more than that of an ordinary superior and subordinate at work.
+Their relationship was clearly more than that of an ordinary superior and subordinate.
 
 *As far as I know, Team Leader Choi was with Ares Guild for only three or four years.*
 
@@ -36,7 +36,7 @@ It was simply what Team Leader Choi had called him as a child. Lee Jungryong cou
 
 *Still, they’ve clearly had a close relationship since Team Leader Choi was young.*
 
-That alone made Team Leader Choi’s relationship with Lee Jungryong anything but ordinary.
+That alone made their connection anything but ordinary.
 
 While everyone else stood stunned, only two people remained composed: Butler Kim and Team Leader Choi, who answered calmly.
 
@@ -190,7 +190,7 @@ To Park Jihoon and Park Tae Seop.
 
 I let out a hollow laugh. The rest of his words were so absurd that they weren’t even worth answering.
 
-“Your mouth may be crooked, but at least speak straight. It wasn’t an invitation. It was a demand. A demand for an apology.”
+“Let’s get one thing straight. It wasn’t an invitation. It was a demand. A demand for an apology.”
 
 “No. If coming here had not been my own decision, could you—or the Peace Guild, for that matter—have made me move even a single step?”
 
@@ -250,9 +250,9 @@ With a roar, he charged. His fist slammed into my lower jaw at blinding speed.
 
 Crack!
 
-Blood sprayed with a chilling sound.
+Blood sprayed with a sickening sound.
 
-I frowned and slowly turned my tilted head. The taste of sticky, salty blood spread through my mouth.
+I frowned and slowly turned my head back into place. The sticky, salty taste of blood filled my mouth.
 
 “Damn it. I bit my tongue.”
 
@@ -276,7 +276,7 @@ Whoosh!
 
 “Hup!”
 
-Go Jun sucked in a short breath and reached out to knock my arm aside. He was so fast that an ordinary A-rank Hunter couldn’t even compare.
+My arm shot out. Go Jun sucked in a short breath and reached to knock it aside, moving at a speed no ordinary A-rank Hunter could hope to match.
 
 His hand curved like a hook as it snapped toward my wrist.
 
@@ -398,7 +398,7 @@ My mouth fell open despite myself.
 
 *What the hell is wrong with that old man?*
 
-Lee Jungryong had asked Team Leader Choi whether his late mother had cheated while she was alive—her own son, no less.
+He had asked a man to his face whether his late mother had cheated while she was alive.
 
 “Crazy. Why would he—ah, never mind. You don’t have to answer.”
 
@@ -406,7 +406,7 @@ Lee Jungryong had asked Team Leader Choi whether his late mother had cheated whi
 
 *To hell with whether he was shaken.*
 
-I frantically waved my hand.
+I frantically waved my hands.
 
 “Team Leader, really, it’s fine. You don’t have to tell me.”
 
@@ -450,10 +450,10 @@ It was because his maternal grandfather was Cheon Taemin.
 
 Among all the words used to describe Cheon Taemin, the title “Guild Master of Ares Guild” was only one small piece.
 
-The name of the largest piece was an immortal achievement no one else could ever attain.
+The largest piece was an immortal feat no one else had ever achieved.
 
 *The man who killed the Demon King. The Slayer.*
 
-That Cheon Taemin’s maternal grandson was standing before me.
+And Cheon Taemin’s own grandson was standing right in front of me.
 
 [^1]: *Ship-pal*, meaning “eighteen” in Korean, sounds similar to *ssibal*, a strong profanity.
