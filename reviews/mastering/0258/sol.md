@@ -34,7 +34,7 @@ I blinked, unable to understand what had happened.
 
 *How?*
 
-Even with my seventh-tier grades, I knew the law of universal gravitation. Jongni Chu’s body had already reached its highest point and was falling, while I was still rising with the momentum of my leap.
+My school grades might have been seventh-tier, but even I knew the law of gravity. Jongni Chu had already reached the apex of his leap and was falling, while I was still rising on my momentum.
 
 He had definitely been close enough for me to grab his ankle with my bare hand.
 
@@ -42,7 +42,7 @@ But in my certainty, I had overlooked one crucial fact.
 
 Martial artists—Supreme Peak masters in particular—were beings who shattered common sense.
 
-“What the hell…”
+“What the hell…?”
 
 The curse slipped through my parted lips. The sight unfolding before me was that shocking.
 
@@ -62,13 +62,13 @@ Cursing inwardly as I fell, I saw the confused crowd below.
 
 Among them stood a tiny old man, his eyes gleaming coldly.
 
-“You bastard! How dare you run!”
+“You bastard! How dare you!”
 
 The Fire King, Jeok Cheongang.
 
 His roar shook the heavens as a streak of red light shot from his wrinkled hand. A sword imbued with Extreme Yang internal energy crossed dozens of zhang in an instant and struck its target.
 
-Rumble-rumble-boom!
+Rumble—boom!
 
 The air trembled, and a flash of light burst in midair, stabbing at my retinas. When I opened my eyes again, I saw Jongni Chu plummeting.
 
@@ -94,17 +94,17 @@ Tap.
 
 The instant I landed on the devastated dueling platform after experiencing the law of gravity firsthand, Jeok Cheongang’s furious voice rang out.
 
-“What are you doing? Chase that bastard immediately!”
+“What are you doing? Chase him at once!”
 
 Everything had happened without warning. Only Jeok Cheongang’s shout jolted the leaders in the seats of honor into action.
 
 “Capture Jongni Chu, the Always-Victorious Sword!”
 
-“Seize the Demonic Cult spy plotting some vile scheme! Whoever captures him, dead or alive, will receive a great reward!”
+“Seize the Demonic Cult spy and whatever scheme he’s plotting! A great reward to whoever captures him, dead or alive!”
 
 The Nine Sects and One Gang. The Five Great Families. Even influential sects that wielded considerable power in their respective provinces.
 
-Everyone gathered here was a key figure who moved the Murim.
+Everyone gathered here was a key figure capable of moving the Murim.
 
 Naturally, their attendants were renowned Peak masters in their own right.
 
@@ -212,11 +212,11 @@ The corners of Jeok Cheongang’s mouth were raised, but his eyes had gone cold 
 
 “That’s enough grumbling. Get going.”
 
-“Damn it. Even the heavens are heartless. Why did Hong Dao, that damn monk, have to disappear at a time like this?”
+“Damn it. The heavens are heartless. Why did Hong Dao, that damn monk, have to disappear at a time like this?”
 
-After leaving behind a single lament, the Thunderbolt Saber King turned away and vanished from sight.
+With that bitter lament, the Thunderbolt Saber King turned and vanished from sight.
 
-Now only Jeok Cheongang and I remained.
+Only Jeok Cheongang and I remained.
 
 We continued at high speed, leaping over rooftops and racing past the hundreds of buildings stretching endlessly before us as we exchanged words.
 
@@ -228,11 +228,11 @@ We continued at high speed, leaping over rooftops and racing past the hundreds o
 
 “Just how strong is he?”
 
-After a brief silence, Jeok Cheongang’s lips parted.
+After a brief silence, Jeok Cheongang answered.
 
 “I don’t know.”
 
-“What do you mean by that…?”
+“What do you mean…?”
 
 “Even I could not determine what martial arts he had learned or what realm he had reached.”
 
@@ -240,7 +240,7 @@ After a brief silence, Jeok Cheongang’s lips parted.
 
 First the famously proud Thunderbolt Saber King, and now Jeok Cheongang—who ranked among the strongest of the Ten Kings in terms of sheer martial power—had given such an answer.
 
-I was licking my parched lips when—
+I licked my parched lips.
 
 Kwoooong!
 
@@ -250,7 +250,7 @@ I opened my senses wide and gathered the information.
 
 *West. About five hundred zhang away.*
 
-That was the direction of the Beggars’ Sect.
+That was the direction the Beggars’ Sect had taken.
 
 If I pushed my movement technique to its limit, I could reach it in moments.
 
@@ -264,17 +264,17 @@ Jeok Cheongang and I shot forward like cannonballs.
 
 The scenery whipping past us began to change. The endless rows of pavilions dwindled one by one, and tall city walls came into view.
 
-The harder we ran against the fierce pressure of the wind, the heavier my chest felt.
+The farther we ran against the violent pressure of the wind, the heavier my chest felt.
 
 *What is this feeling?*
 
-Could it be the pressure of facing Jongni Chu again?
+Was it the pressure of facing Jongni Chu again?
 
-I glanced sideways. Jeok Cheongang’s expression had hardened. The emotion etched across his face was unmistakable foreboding.
+I glanced sideways. Jeok Cheongang’s expression had hardened. What I saw on his face was unmistakable foreboding.
 
 A moment later, we discovered the source of that inexplicable feeling.
 
-“Chase that bastard!”
+“Chase him!”
 
 “Master! Please come to your senses, Master!”
 
@@ -286,7 +286,7 @@ A wrinkled hand trembled at irregular intervals. Below where both legs had been 
 
 “…Damn monk?”
 
-Jeok Cheongang’s steps stopped dead when he saw his friend.
+Jeok Cheongang stopped dead when he saw his friend.
 
 * * *
 
@@ -310,7 +310,7 @@ Their last conversation echoed endlessly in his ears.
 
 He remembered clearly how Hong Dao had left with a laugh half a shichen ago.
 
-But why…
+But why…?
 
 *Why are you lying here like this?*
 
@@ -354,15 +354,15 @@ The painful, crushing verdict filled Jeok Cheongang’s mind.
 
 Was Hong Dao listening? Could he even hear him?
 
-Everyone shared the same question, but Jeok Cheongang paid it no mind and continued speaking.
+Everyone wondered the same thing, but Jeok Cheongang paid them no mind and continued.
 
-“At first, I wondered what kind of damn monk you were. But they say even dislike can become affection, and when the time came to part with you, I found myself reluctant.”
+“At first, I wondered what kind of damn monk you were. But even bad blood can become a bond. When the time came for us to part, I found myself reluctant to see you go.”
 
 Although he had never once said it aloud, Hong Dao was the only friend Jeok Cheongang had ever opened his heart to.
 
 To his Master, he had needed to be a reliable Disciple. To the first Disciple he later accepted, he had needed to be a dependable Master.
 
-But with Hong Dao, it was different.
+But Hong Dao was different.
 
 When he was with Hong Dao, he did not have to be anyone’s anything. He could simply be Jeok Cheongang, an ordinary human being.
 
@@ -370,9 +370,9 @@ When he was with Hong Dao, he did not have to be anyone’s anything. He could s
 
 Jeok Cheongang sent internal energy into Hong Dao’s Mingmen acupoint and spoke in a low voice.
 
-“You’re my best friend.”
+“You are my dearest friend.”
 
-The breath that had been so weak it seemed ready to stop at any moment eased. The eyelids that looked as though they would remain closed forever finally opened a sliver.
+The breath that had seemed ready to fail at any moment eased. Eyelids that looked as though they would remain closed forever slowly opened.
 
 A final rally.
 
@@ -382,17 +382,17 @@ Jeok Cheongang gazed into Hong Dao’s gray eyes as the final flame of life flic
 
 Hong Dao’s blood-soaked lips moved faintly. Jeok Cheongang put his ear to Hong Dao’s mouth and listened to his final words, his expression changing by the moment.
 
-Anger. Shock. The realization of something.
+Anger. Shock. A sudden realization.
 
 And the final emotion to appear was sorrow.
 
-Slowly. Then with a soft thud.
+Rustle. Thud.
 
 The coughing voice fell silent. The heaving chest and trembling eyelids settled peacefully.
 
-Hong Dao closed his eyes as though he had fallen asleep, a satisfied smile still resting at the corners of his mouth.
+Hong Dao closed his eyes as though drifting off to sleep, a satisfied smile resting on his lips.
 
-Jeok Cheongang stared at him for a long moment before opening his mouth.
+Jeok Cheongang stared at him for a long moment, then spoke.
 
 “We’re going to Shaolin.”
 
