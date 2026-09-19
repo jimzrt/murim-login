@@ -4,7 +4,7 @@ In the early hours of that morning, a short post appeared on a popular forum fre
 
 > Guys, I had a weird dream. Can someone interpret it for me?
 
-I can’t reveal the specifics, but I’m a member of the Security Team of a major Guild with some clout. Anyway, that part isn’t important.
+I can’t reveal the specifics, but I’m on the Security Team of a major Guild with some serious clout. Anyway, that part isn’t important.
 
 I was working as usual when I nodded off for a moment. Then Lord Fuck appeared in my dream.
 
@@ -54,9 +54,9 @@ Well, no one except me.
 
 It was obviously illegal, but expecting people who raised Black Hunters to care about the law would have been even more ridiculous.
 
-Judging by the comment about the AdultPhone disappearing, it seemed they had thoroughly checked everyone’s phones as well.
+Judging by the comment about the missing AdultPhone, they must have gone through everyone’s phones as well.
 
-*That was decisive evidence.*
+*That recording was decisive evidence.*
 
 My personal cameraman had bolted outside the moment Park Tae Seop and Park Jihoon appeared, only to fall straight into Ares Guild’s hands.
 
@@ -94,7 +94,7 @@ One question led to another.
 
 I was mulling all this over when a nurse shouted from the hallway.
 
-“Mr. Lee! Patient Im Hyeokjun is conscious!”
+“Dr. Lee! Patient Im Hyeokjun is conscious!”
 
 I sprang to my feet.
 
@@ -152,7 +152,7 @@ Butler Kim shook his head slightly.
 
 “I heard you spent quite a lot of money, too…”
 
-A famous healer had been brought in to treat Im Kkeokjeong, and high-grade potions that casually cost hundreds of millions of won per bottle had been poured into him without restraint.
+A renowned healer had been brought in to treat Im Kkeokjeong, and high-grade potions that cost well over a hundred million won per bottle had been used without restraint.
 
 It might have been the same in the past, but this was a world where even a human life had a price. Who would go this far for a D-rank Hunter with nothing to his name but years of experience?
 
@@ -170,7 +170,7 @@ His voice burned as though it carried Scorching Yang Qi. Before Im Kkeokjeong co
 
 “Team Leader Choi!”
 
-Im Kkeokjeong was the sort of man who could make a hardened criminal look like a model prisoner simply by standing beside one, and now tears brimmed in his eyes.
+Standing next to Im Kkeokjeong was enough to make the worst thug look like a model prisoner, yet tears now brimmed in his eyes.
 
 When he reached out to embrace him, Team Leader Choi flinched and stepped back.
 
@@ -214,7 +214,7 @@ Im Kkeokjeong snickered.
 
 “Turns out there are some that won’t. Ten chops didn’t even make a dent.”
 
-It’s a miracle you weren’t booked as a suspect.
+“It’s a miracle you weren’t charged.”
 
 “You idiot. If I’d given up back then, do you think I could have gotten a beauty like that?”
 
@@ -238,7 +238,7 @@ So he had told his family about me.
 
 Warmth spread from somewhere deep in my chest. The children’s eyes sparkled even more brightly as they looked at me.
 
-Children were cute and beautiful by nature, but these sisters could have been child actors. So this was the victory of maternal genes.
+All children were cute, but these sisters could have been child actors. This was the triumph of maternal genes.
 
 “Wow! You’re Uncle Taekyung?”
 
@@ -276,7 +276,7 @@ Im Kkeokjeong’s wife wanted her husband to rest, but his resolve was firm.
 
 “I almost left my beloved wife and kids behind. I need to hear it now. Everything that happened, without leaving out a single detail.”
 
-The good-natured man who had always been softhearted and full of laughter had gained firm resolve and steel in his spine.
+There was a new firmness in the good-natured man who had always been softhearted and full of laughter.
 
 By the time he had heard the entire story, Im Kkeokjeong’s face was rigid.
 
@@ -292,17 +292,17 @@ By the time he had heard the entire story, Im Kkeokjeong’s face was rigid.
 
 A groanlike sigh escaped him.
 
-We had followed the tail called Black Hunter and found Myeongdong Guild. When we stepped on Myeongdong Guild’s torso, the head that emerged was Ares Guild.
+We had caught the tail of the Black Hunters and found the body called Myeongdong Guild. When we pressed down on that body, the head that emerged was Ares Guild.
 
 The problem was that this was no ordinary head.
 
 “We followed a snake’s tail and found a dragon’s head.”
 
-As he said that, he cast a sidelong glance at Team Leader Choi and Butler Kim. Both of them wore their usual calm expressions.
+As I spoke, I glanced sidelong at Team Leader Choi and Butler Kim. Both wore the same calm expressions as always.
 
 But I had seen it clearly.
 
-Before Im Kkeokjeong regained consciousness, when they first heard the name Ares Guild, a storm had raged in the eyes of both men.
+Before Im Kkeokjeong regained consciousness, when I first mentioned Ares Guild, turbulent waves had surged through both men’s eyes.
 
 *There’s definitely something going on…*
 
@@ -310,19 +310,19 @@ I didn’t know exactly what. Song Song and I had sensed something strange and q
 
 *But now it’s time for them to talk.*
 
-Perhaps he sensed Song Song’s and my gazes. Team Leader Choi was just about to open his mouth when—
+Perhaps he sensed our gazes. Team Leader Choi was just about to speak when—
 
 Thud. Thud.
 
-All kinds of sounds mingled together in the hospital hallway. But their footsteps were different. They were unusually heavy, with a deep, resonant echo.
+Countless noises mingled in the hospital hallway, but those footsteps were different. Unusually heavy, with a deep resonance.
 
-And there was qi.
+And they carried qi.
 
 “They’re coming.”
 
-At my words, everyone rose from their seats one after another.
+At my words, everyone rose from their seats.
 
-Sure enough, the footsteps stopped in front of our hospital room.
+Sure enough, the footsteps stopped outside our hospital room.
 
 Knock, knock.
 
@@ -340,8 +340,8 @@ He was nearing seventy, yet his youthful appearance made him look like a man in 
 
 His gaze swept over us before stopping dead on one person. The corner of his mouth lifted slightly.
 
-“You’ve grown a lot.”
+“You’ve grown.”
 
-Team Leader Choi’s gaze sank deeply as he looked at Lee Jungryong.
+Team Leader Choi’s gaze sank as he looked at Lee Jungryong.
 
 [^1]: *AdultPhone* is a Korean pun on “iPhone”: *ai* can mean “child,” so the post jokingly replaces “child phone” with “adult phone.”
