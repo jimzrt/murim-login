@@ -1504,3 +1504,9 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 월미도 디스코 팡팡 | **Wolmido Disco Pang Pang** | Korean amusement-park ride used as a motion comparison. |
 | 왕필 | **Wang Pil** | The Little Tide Demon, Deputy Stronghold Lord of Donghu Stronghold, and Hwang Chung's right-hand man. |
 | 소조귀 | **Little Tide Demon** | Wang Pil's sobriquet. |
+| 황철 | **Hwang Cheol** | Stronghold Lord of Dangyang Stronghold and the Mad Water Saber Demon. |
+| 도립군 | **Do Ripgun** | Stronghold Lord of Honghu Stronghold and the Wave Fox. |
+| 광수도귀 | **Mad Water Saber Demon** | Epithet of Hwang Cheol. |
+| 파랑호 | **Wave Fox** | Epithet of Do Ripgun. |
+| 동정호 | **Dongting Lake** | Lake under which Dangyang and Honghu Strongholds operated. |
+| 사천혈사 | **Sichuan Blood Tragedy** | Earlier incident in which Taekyung witnessed the strange formation. |
