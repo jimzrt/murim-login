@@ -8,7 +8,7 @@ Once the details of the joint raid had been finalized, Won Myunghoon rose from h
 
 “It would’ve been nice to have a drink together.”
 
-At Jin Taekyung and Im Kkeokjeong’s regretful tones, Won Myunghoon gave them a genial smile.
+At Taekyung and Im Kkeokjeong’s disappointed tones, Won Myunghoon gave them a genial smile.
 
 “I still have work to do. I am the Guild Master, after all. I can’t cause a mess and then be the only one off having fun.”
 
@@ -34,13 +34,13 @@ After a few rings, someone answered.
 
 “Don’t you trust me? I handpicked only the ones who know how to follow orders.”
 
-“That’s why you’re Team Leader 1. I’ll be back right away, so choose the list of people participating tomorrow and have it ready.”
+“That’s my Team 1 Leader. I’m heading back now, so draw up the list of everyone participating tomorrow and have it ready.”
 
 “Yes, sir. What about the Peace Guild?”
 
 “This place?”
 
-Won Myunghoon gave a short laugh and continued.
+Won Myunghoon let out a quiet laugh.
 
 “I came by just in case, but it’s a complete mess. A hodgepodge. They’re a bunch of nobodies without even a proper hierarchy. How impressive could a Guild with only five members possibly be?”
 
@@ -54,15 +54,15 @@ Won Myunghoon gave a short laugh and continued.
 
 The amusement vanished from Won Myunghoon’s voice, leaving it ice-cold.
 
-The sudden change in atmosphere seemed to make the person on the other end flinch. He hurriedly added,
+The sudden change seemed to make the man on the other end flinch. He hurriedly added,
 
 “CEO, that’s not what I meant.”
 
-“Team Leader 1—no, Jonghun.”
+“Team 1 Leader—no, Jonghun.”
 
 “…Yes.”
 
-“Let’s stay sharp. Why do you think I’m personally running Gates at my age? Am I wrong?”
+“Let’s stay sharp. Why do you think I’m personally running Gates at my age? Understand?”
 
 “I’m sorry.”
 
@@ -88,7 +88,7 @@ The thought of facing those disgusting monsters again after so long put him in a
 
 The next morning, Jinho sat across from me at the table, unable to tear his eyes away from his phone.
 
-“You haven’t even eaten. What are you looking at so intently?”
+“You’re not even eating. What are you looking at so intently?”
 
 “Articles about you.”
 
@@ -100,15 +100,15 @@ Anyone watching him would’ve thought the articles were about Jinho, not me.
 
 These days, checking the online reaction and reporting it to me had become part of his daily routine. He was practically my manager.
 
-“People like you. There are tons of articles about Won Myunghoon, too.”
+“People love you. There are tons of articles about Won Myunghoon, too.”
 
 “Of course there are.”
 
-“You two look good together. So heartwarming… I wish Lord Fuck would swear at me, and so on.”
+“You two look great together. So heartwarming… I wish Lord Fuck would swear at me, and so on.”
 
 “……”
 
-“There’s even a guy asking to be tied up and beaten.”
+“There’s even a guy asking you to tie him up and beat him.”
 
 The world really was a big place, and it was full of lunatics.
 
@@ -120,23 +120,23 @@ There was even a post summarizing my exploits sitting prominently on the best-po
 
 > Hi. I’m an unemployed guy in my thirties.
 >
-> I was thinking hard about what useless thing to do today when I became curious about Lord Fuck. Most people who know anything about him probably already know all this, but I figured there might be some people who don’t, so I wrote it up.
+> I was thinking hard about what useless thing to do today when I got curious about Lord Fuck. Most people who know anything about him probably already know all this, but I figured there might be some who don’t, so I wrote it up.
 >
-> I couldn’t be bothered to move my fingers much, so here’s the short version.
+> I can’t even be bothered to move my fingers much, so here’s the short version.
 >
-> 1. Awakened as F-Rank at twenty. Spent seven years getting run even harder than a brand-new private, then reawakened.
+> 1. Awakened as F-rank at twenty. Spent seven years getting worked harder than a fresh army private, then reawakened.
 >
-> 2. But the Hunter Association played its trap card, so he was measured as C-Rank at the time. The accepted scholarly consensus is that the Hunter Association is full of idiots.
+> 2. But the Hunter Association activated its trap card, so he was measured as C-rank at the time. The accepted scholarly consensus is that the Hunter Association is run by morons.
 >
-> 3. The bewildered Lord Fuck was snared by an unknown Guild called the Peace Guild.
+> 3. While Lord Fuck was still trying to figure out what had happened, some no-name Guild called the Peace Guild snatched him up.
 >
-> 4. A B-Rank Gate erupted while he was going to work in a tracksuit, dragging along slippers. He chewed through the ogres by himself and saved hundreds of people.
+> 4. A B-rank Gate erupted while he was shuffling to work in a tracksuit and slippers. He devoured the ogres single-handedly and saved hundreds of people.
 >
-> 5. His life turned around. On the day he received his A-Rank Hunter ID, he made *that remark* in front of fifty thousand people. Acquired the title “Lord Fuck.”
+> 5. Life completely turned around. On the day he received his A-rank Hunter ID, he made *that remark* in front of fifty thousand people. Acquired the title “Lord Fuck.”
 >
-> That’s about it. I didn’t write anything about his family because I might get sued.
+> That’s about it. I left out anything about his family because I don’t want to get sued.
 >
-> A few media outlets have already been taken down. An unemployed thirtysomething like me would be nothing by comparison. If a complaint lands, I’ll get a Mom’s Touch across the back, so cut me some slack.[^1]
+> A few media outlets have already been wiped out. An unemployed thirtysomething like me wouldn’t stand a chance. If a complaint comes flying my way, I’ll get a Mom’s Touch across the back, so cut me some slack.[^1]
 >
 > I ate doenjang jjigae for breakfast, scratched my balls, and scribbled this together.
 
@@ -198,7 +198,7 @@ Apparently, appearing on the news once or twice and doing a few magazine intervi
 
 *The public opinion of Myunghoon hyung isn’t too bad, either.*
 
-Was it nostalgia?
+Maybe it was nostalgia.
 
 Although an unpleasant incident had gradually pushed him out of the public eye, plenty of people still remembered Won Myunghoon.
 
@@ -206,7 +206,7 @@ Jinho, sitting across from me, was one of them.
 
 “Don’t forget to get Won Myunghoon’s autograph, okay?”
 
-“Got it. I’m going to get a callus in my ear.”
+“I got it. You’ve said it so many times my ears are about to fall off.”
 
 I gave Jinho, who was as giddy as a teenage girl, a halfhearted answer and rose from my seat.
 
@@ -228,7 +228,7 @@ My heart pounding with excitement, I left the house.
 
 * * *
 
-If mid- and low-level Gates were grains of sand, an A-Rank Gate was a massive boulder.
+If low- and mid-rank Gates were grains of sand, an A-rank Gate was a general’s boulder.
 
 Even in Korea, a country famous for having so many Gates despite its small territory, A-rank Gates were rare. Competition for the right to raid them was fierce.
 
@@ -296,19 +296,19 @@ Contrary to my expectations, Im Kkeokjeong was leaning back against the car seat
 
 *Fine, my ass. You’re nervous as hell.*
 
-Perhaps he knew it himself, because he quickly pulled out the black plastic bag he had brought in advance and buried his face in it.
+He must have known it too, because he quickly pulled out the black plastic bag he’d brought with him and buried his face in it.
 
-After finishing a bout of retching, Im Kkeokjeong muttered with a deathly pale face,
+After a bout of retching, Im Kkeokjeong raised his deathly pale face and muttered,
 
 “I’m fine. Really.”
 
-Kkeokjeong hyung might have been fine, but I wasn’t. The very act of letting a D-Rank Hunter enter an A-Rank Gate was a dangerously reckless decision.
+Kkeokjeong might have been fine, but I wasn’t. Letting a D-rank Hunter enter an A-rank Gate was dangerous to begin with.
 
 “Uh, I’m only saying this just in case…”
 
-As soon as I cautiously began speaking, Im Kkeokjeong shook his head.
+The moment I cautiously began, Im Kkeokjeong shook his head.
 
-“No. The Guild Master and Team Leader gave me permission, too. I can’t keep imposing on everyone forever. I need to gain some experience.”
+“No. The Guild Master and Team Leader both gave me permission. I can’t keep burdening everyone forever. I need to gain some experience too.”
 
 “Hmm.”
 
@@ -318,7 +318,7 @@ As soon as I cautiously began speaking, Im Kkeokjeong shook his head.
 
 I hurriedly cut him off before he could say anything more ominous.
 
-He must have been worrying a lot lately because his rank was so much lower than those of the other Guild members, but he had taken it far too far.
+He must have been doing a lot of thinking lately because his rank was so much lower than those of the other Guild members, but he’d taken it much too far.
 
 “We’re going in safely and coming out safely. The Star Guild is sending two A-rank Hunters too. And Myunghoon hyung used to be a ranker.”
 
@@ -330,7 +330,7 @@ Team Leader Choi nodded as well.
 
 He was a cautious man. If he had decided to let Im Kkeokjeong participate, it was because he was confident it would be safe.
 
-“Yeah. It will.”
+“Yeah. That’s right.”
 
 A faint smile appeared on Im Kkeokjeong’s lips.
 
@@ -342,7 +342,7 @@ Its residents and guards were soldiers carrying firearms and Hunters decked out 
 
 “Wow.”
 
-Unlike me, who let out an exclamation, Team Leader Choi frowned.
+Unlike me, Team Leader Choi frowned.
 
 “This place…”
 
@@ -362,7 +362,7 @@ The driver’s eyes widened as though he had no idea what Team Leader Choi meant
 
 Team Leader Choi and the driver’s voices buzzed in my ears.
 
-Suddenly, my stomach began to churn, and a sharp pain throbbed through my head.
+Suddenly, my stomach churned and my head began to throb.
 
 Amid the confusion, a roar I’d heard three years ago tore through my mind.
 
