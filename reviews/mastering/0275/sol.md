@@ -2,9 +2,9 @@
 
 *You’re naive.*
 
-That one sentence I’d heard the day before wouldn’t leave my mind.
+Those words from the day before wouldn’t leave my mind.
 
-I sat in the caregiver’s chair beside the bed, staring blankly at the humidifier spraying mist. Then a thought suddenly occurred to me, and I said it aloud.
+I sat in the caregiver’s chair beside the bed, staring blankly at the humidifier spraying mist. Then a thought occurred to me, and I said it aloud.
 
 “No. It wasn’t naivety.”
 
@@ -42,7 +42,7 @@ He probably wouldn’t have much trouble with daily life, but there was no guara
 
 *Which bastard was behind this?*
 
-Various thoughts swam through my cold mind.
+Questions circled through my cold, clear mind.
 
 Who had sent the Black Hunters, and why? What were they after?
 
@@ -94,21 +94,21 @@ I got straight to the point.
 
 Instead of a coffee cup, Team Leader Choi held out his smartphone. The screen displayed the country’s largest online portal.
 
-His long finger tapped an internet article, and a stream of articles divided into different categories appeared.
+His long finger tapped the news section, bringing up a stream of articles divided by category.
 
-Among them, I skimmed the article at the very top.
+I skimmed the headlines at the very top.
 
-> [The Judiciary Bows Before the Fame the Public Has Created. Where Is the Fairness?]
+> [The Judiciary Bows to Fame Manufactured by the Public. Where Is the Fairness?]
 >
-> [United Party Supreme Council Member Assemblywoman Yoon Seoyoon: “A Death Brought About by One Individual’s Rash Actions. Won Myunghoon Should Have Faced the Judgment of the Law.” Strong Condemnation…]
+> [United Party Supreme Council Member and Assemblywoman Yoon Seoyoon Strongly Condemns Incident: “A Death Caused by One Individual’s Rash Actions. Won Myunghoon Should Have Faced the Judgment of the Law.”]
 >
 > [Self-Defense or Murder?]
 
 The articles dominated the politics and society sections. They didn’t mention my name, but it was obvious who they were talking about.
 
-“When was this posted?”
+“When were these posted?”
 
-“An hour ago. And it already has over a hundred thousand views and more than five thousand comments.”
+“An hour ago. They already have over a hundred thousand views and more than five thousand comments.”
 
 “An hour ago? That would’ve been around four in the morning.”
 
@@ -122,7 +122,7 @@ Team Leader Choi took a sip of coffee that had gone as cold as the smile on my l
 
 “More interesting than this?”
 
-“Scroll down a little. It’ll be more than you expected, Taekyung.”
+“Scroll down a little. It’ll exceed even your expectations.”
 
 He was right. My finger stopped moving before I realized it.
 
@@ -130,7 +130,7 @@ I stared silently at the bold headline.
 
 > [Exclusive Preview of Interview with Former Colleague K: “Famous Hunter J Is a Vile Human Being.”]
 
-When I tapped the article, a preview video of an interview lasting just over three minutes appeared. After a fifteen-second advertisement for a luxury cosmetics brand, the screen filled with the image of a potbellied man in a carefully tailored suit.
+When I tapped the article, a three-minute preview of the interview began playing. After a fifteen-second advertisement for a luxury cosmetics brand, a potbellied man in a sharp suit filled the screen.
 
 His face had been lightly pixelated, but I recognized him at a glance.
 
@@ -160,9 +160,9 @@ What word could describe the relationship between that man and me? I thought abo
 
 “Oh.”
 
-No matter how I thought about it, those words fit perfectly.
+No matter how I looked at it, those words fit perfectly.
 
-Our relationship had been that terrible. Considering everything we had been through together, it was almost strange that we had never crossed blades.
+Our relationship had been that terrible. Considering everything that had happened between us, it was almost strange that no one had ever pulled a knife.
 
 I stared at the face that had somehow grown even fatter since the last time I’d seen him.
 
@@ -180,7 +180,7 @@ Kim Sangshik was short on ability and overflowing with greed. Despite his name, 
 
 He was the very definition of a petty little man, so there was no doubt he’d been grinding his teeth at the thought of me ever since.
 
-That was probably why he had even filmed an interview like this.
+That was probably why he’d agreed to an interview like this.
 
 *Let’s hear what kind of bullshit he’s spouting.*
 
@@ -198,11 +198,11 @@ Kim Sangshik nodded with an uncharacteristically serious expression.
 
 “Oh dear. Was there a reason?”
 
-“‘There wasn’t just one reason.’”
+“There wasn’t just one.”
 
 Kim Sangshik then launched into an indignant tirade about why he had fired me.
 
-Every single excuse was a gem of bullshit, but his final exchange with the reporter was the crowning touch.
+Every word was pure, undiluted bullshit, but his final exchange with the reporter was the crowning touch.
 
 “I was falsely accused of employment corruption and driven out of the Guild where I had worked for more than twenty years. But I did not fire J for personal gain.”
 
@@ -210,11 +210,11 @@ Every single excuse was a gem of bullshit, but his final exchange with the repor
 
 “Yes.”
 
-There had been a reason they had released only a three-minute preview. Kim Sangshik ended it with the solemn expression of a martyr for the nation.
+Now I understood why they had released this three-minute preview. Kim Sangshik brought it to a dramatic close with the grim expression of a martyr sacrificing himself for his country.
 
-“‘During the mutated Gate accident two years ago, J threw his teammates to the monsters as prey and fled. He is the kind of man who won’t hesitate to do any ugly and dirty thing to survive…’”
+“During the mutated Gate accident two years ago, J threw his teammates to the monsters as bait and fled. He’s the kind of man who won’t hesitate to commit any vile, disgusting act to survive…”
 
-I couldn’t properly hear what came after that.
+I barely heard what came after that.
 
 Even after the video ended with a caption promising that the full interview would be released soon, I continued staring silently at the screen.
 
@@ -244,9 +244,9 @@ There were more than ten thousand comments now, and I didn’t need to read them
 
 *What vine? And what the hell is supposed to blow up?*
 
-I didn’t know what kind of asshole had written it, but it was a relief he wasn’t standing in front of me.
+I didn’t know what kind of asshole had written it, but he was lucky he wasn’t standing in front of me.
 
-If he had been, I would have made sure that at the very least, he heard the next rumor from the overpass to the Yellow Springs.
+If he had been, I would’ve made sure he heard the next piece of gossip from across the overpass to the Yellow Springs.
 
 “Well, I don’t think there’s any need to read more.”
 
@@ -256,11 +256,11 @@ Team Leader Choi took back his smartphone, loosely folded his arms, and spoke.
 
 “This is organized. It’s clear now that they planned to send the Black Hunters from the very beginning.”
 
-“And they’re the ones creating the hostile public opinion, too.”
+“And they’re the ones stirring up public outrage, too.”
 
 “That’s how people are. Once someone starts muddying the waters in earnest, it’s hard to keep your bearings.”
 
-“And I doubt there will be even a single line in the news about Uncle Kkeokjeong being attacked in the middle of all this.”
+“And I doubt there’ll be so much as a single line in the news about Uncle Kkeokjeong being attacked.”
 
 “You understand the situation well.”
 
@@ -270,7 +270,7 @@ Team Leader Choi shook his head slightly.
 
 “Don’t tell me they’re in on it, too.”
 
-“There seems to be outside pressure. The CCTV footage is in the other side’s hands, too.”
+“There appears to be outside pressure. The CCTV footage is already in the other side’s hands.”
 
 “Didn’t you say there were witnesses?”
 
@@ -280,7 +280,7 @@ Team Leader Choi shook his head slightly.
 
 My fist clenched without me realizing it, and my knuckles cracked.
 
-“They’re really coming at us with a plan.”
+“They’ve planned this down to the last detail.”
 
 “They seem intent on isolating you completely. The interview with Mr. Kim Sangshik is part of that.”
 
@@ -294,19 +294,19 @@ For example… testimony from people who knew me well.
 
 “Looks like I’ll get to see my old coworkers again. Though I guess they’ll be hard to recognize once their faces are pixelated.”
 
-I asked Team Leader Choi, who was looking at me with an unreadable expression,
+Team Leader Choi was looking at me strangely.
 
 “Why are you looking at me like that?”
 
-“As I recall, Jin Taekyung had a good reputation within the Sopung Guild.”
+“As I recall, you had a good reputation within the Sopung Guild.”
 
 “I got along with everyone. It was such a dinky little Guild.”
 
-“Then why did you think that?”
+“Then why would you expect them to turn on you?”
 
-“Because there’s one thing that works on everyone. This. And this.”
+“Because there’s one thing that works on just about everyone. This. You know.”
 
-I brought my thumb and index finger together and wiggled them.
+I brought my thumb and index finger together and rubbed them.
 
 In the end, it all came down to cash. Money was everything.
 
@@ -314,19 +314,19 @@ And for Hunters who risked their lives to make money, the temptation would be ev
 
 “Maybe it’s because I’ve been stabbed in the back so many times in a row, but… these are people I spent seven years laughing and joking around with, and I still can’t trust them.”
 
-If this had happened a few days ago, I might have naively believed in my old coworkers.
+A few days ago, I might have naively believed in my old coworkers.
 
 But not anymore. The world where dreams, friendship, and common sense meant anything had already vanished from my mind.
 
-“Looking at how the article made it into the politics and society section, it seems like they greased some lawmaker’s palm, too. You think they couldn’t buy off a few low-rank Hunters who are struggling to make ends meet?”
+“Judging by those articles in the politics and society sections, it looks like they’ve greased some lawmaker’s palm, too. You think they couldn’t buy off a few low-rank Hunters struggling to make ends meet?”
 
 “…”
 
-“It’s obvious. I’ll become the worst bastard alive, get carved up all over the internet, and be torn apart. The image I’ve built up until now will come crashing down, and our Guild will come crashing down with it.”
+“It’s obvious. I’ll become the most despicable bastard alive and get torn to pieces online. The reputation I’ve built will come crashing down, and our Guild will come crashing down with it.”
 
 Team Leader Choi, who had been wearing that strange expression the entire time, let out a quiet laugh.
 
-“You’ve improved a little. You can think like a jaded adult now.”
+“You’ve improved a little. You’re finally capable of thinking like a jaded adult.”
 
 “Are you taking back what you said yesterday about me being naive?”
 
@@ -340,4 +340,4 @@ As he spoke, he tapped his smartphone screen. The phone rang, and someone answer
 
 “I found it. The tail.”
 
-Butler Kim’s low, smooth voice flowed through the speaker.
+Butler Kim’s low, smooth voice flowed from the speaker.
