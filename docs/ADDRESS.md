@@ -711,3 +711,7 @@ Overrides generic relationship prose in character profiles for this pair.
 | 스켈레톤 킹 | 진태경 | ally and companion | you | casual and warm | The Skeleton King catches Jin after he collapses and quietly acknowledges his effort. |
 | 샤오 양 | 진태경 | foreign head of state to allied Hunter | Mr. Jin | formal-polite and sincere | Shao Yang refers to Jin as 진 선생 while expressing gratitude for preventing a global catastrophe. |
 | 최민우 | 샤오 양 | allied team leader to foreign head of state | Chairman | formal-polite and tactfully assertive | Choi addresses Shao Yang as 주석님 while pressing him about the Crown Prince Party's campaign against Jin. |
+| 진태경 | 최 팀장 | patient_to_medical_and_political_handler | Team Leader Choi | casual-polite and familiar | Jin uses the title playfully while discussing his recovery and family visit. |
+| 최 팀장 | 진태경 | handler_to_patient_and_client | Mr. Jin | polite and deferential | Choi maintains a respectful professional register while relaying medical and political information. |
+| 샤오 양 | 진태경 | senior_political_leader_to_hero_and_guest | Mr. Jin | formal and directive | Shao addresses Jin as 진 선생 while briefing him before the press conference. |
+| 진태경 | 엄마 | son_to_mother | Mom | casual and startled | Jin cries out to his mother as she charges at him during the hospital visit. |

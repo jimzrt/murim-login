@@ -1,29 +1,29 @@
 # Translation State
 
-- Last completed: 427
-- Next chapter: 428
-- Current block: 425–429 (3/5)
-- Latest translation: `translations/0427.md`
-- Latest summary: `summaries/beats/0427.md`
-- Safe profiles through: chapter 427
+- Last completed: 428
+- Next chapter: 429
+- Current block: 425–429 (4/5)
+- Latest translation: `translations/0428.md`
+- Latest summary: `summaries/beats/0428.md`
+- Safe profiles through: chapter 428
 
 ## Current Block
 
-- The Arch Lich's erasure ends the thirty-four-day Winter War, causing the undead legions to collapse and celebrations to erupt worldwide. Jin Taekyung becomes an international hero, but conspiracy theories question his involvement in the deaths of Wu Heixing and Lee Jungryong. Four days later, Chairman Shao Yang confirms that Jin prevented a catastrophe across Asia, rejects the allegations, and reveals that the Crown Prince Party faces prosecution for corruption. After Shao Yang leaves, Jin finally regains consciousness and curses the suffocating hospital room.
+- Jin Taekyung ends his staged unconsciousness after four days, explaining that his improved internal-energy control after opening his Middle Dantian let him manipulate the Magic Gem-powered medical devices. He and Team Leader Choi discuss Chairman Shao's preparations against the Crown Prince Party, the likely lifelong punishment awaiting Wu Heixing's father, and the public certainty that Lee Jungryong and Wu Heixing are dead.
+- Jin's mother and Hayeon visit him in the hospital and violently punish him for leaving for China without explanation, with Team Leader Choi caught in the middle; Jin equips the Fire Dragon Armor before being slapped. His recovery is publicly announced after a week, followed by another week of examinations and administrative work.
+- At a worldwide press conference, Jin admits his hostility toward Wu Heixing but claims the Arch Lich killed Wu and that Wu's potion saved him. He publicly mourns Lee Jungryong and the other war dead, ending the criticism against him; the broadcast reaches roughly three billion live viewers. Immediately afterward, Jin goes to find an unidentified person.
 
 ## Open Questions
 
-- What is Jin Taekyung's condition after regaining consciousness?
-- What happened to Lee Jungryong, who remains presumed missing or dead?
-- How will the Crown Prince Party's impending prosecution unfold?
+- Who is the unidentified person Jin went to find after the press conference, and why?
+- What final punishment will be imposed on Wu Heixing's father and the Crown Prince Party leadership?
 
 ## Exceptional Decision
 
-- Render 겨울 전쟁 as “Winter War.”
-- Render 태자당 as “Crown Prince Party.”
-- Render 진 선생 as “Mr. Jin” and 주석님 as “Chairman.”
-- Render 아크 리치가 소멸했습니다 as “The Arch Lich has been erased.”
-- Preserve Jin Taekyung's profane, dry voice and Chairman Shao Yang's formal, sincere political register.
+- Render 최 팀장 as “Team Leader Choi” and 종석 할아버지 as “Grandpa Jongseok.”
+- Render 샤오 주석 as “Chairman Shao” and 샤오 양 주석 as “Chairman Shao Yang.”
+- Retain “jajinmori” for 자진모리장단 with a brief explanatory footnote.
+- Preserve Jin's profane, dry, and deliberately misleading public voice.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

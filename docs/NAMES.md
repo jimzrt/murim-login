@@ -1446,3 +1446,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 인민 일보 | **People's Daily** | Chinese newspaper. |
 | 중국 청년 소식지 | **China Youth News** | Chinese youth publication. |
 | 유엔 안전 보장 이사회 | **United Nations Security Council** | International body whose leaders and spokesperson address the victory. |
+| 종석 | **Jongseok** | The elder whom Jin jokingly calls Grandpa Jongseok. |
