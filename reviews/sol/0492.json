@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "“Young Hero Jin is not wrong. I respect you, Sir Zhuge, but this isn’t right.”",
+      "defect": "Taekyung’s first-person rhetorical question is changed into a third-person statement about “Young Hero Jin,” altering the speaker-subject relationship.",
+      "id": "F01",
+      "rationale": "제가 means “I,” and 틀린 말 했습니까 asks whether what Taekyung said was wrong; he does not refer to himself by title in the third person.",
+      "replacement": "“Am I wrong? I may respect you, Sir Zhuge, but this isn’t right.”",
+      "severity": "critical",
+      "source": "제가 틀린 말 했습니까. 제가 아무리 제갈 대협을 존중한다지만 이건 아니죠."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“……Repeat after me. Amitabha Buddha.”\n\n“Ah, my apologies. Amitabha Buddha.”",
+      "defect": "The translation conflates 무량수불 with 아미타불, erasing Hyeongong’s correction and the joke created by Taekyung cycling through the wrong religious invocations.",
+      "id": "F02",
+      "rationale": "Taekyung has just said 아미타불, “Amitabha.” Hyeongong deliberately corrects him to the distinct Daoist-style invocation 무량수불, literally “Infinite Life Buddha.”",
+      "replacement": "“……Repeat after me. Infinite Life Buddha.”\n\n“Ah, my apologies. Infinite Life Buddha.”",
+      "severity": "major",
+      "source": "“……따라 해 보게. 무량수불.”\n\n“아, 죄송합니다. 무량수불.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Of course, I felt sorry for what had happened to the Dongting Fisherman, but there had been nothing else I could do.",
+      "defect": "The passive “what had happened” removes Taekyung’s explicit acknowledgment that he personally wrecked the Dongting Fisherman.",
+      "id": "F03",
+      "rationale": "동정어옹을 작살 낸 건 directly identifies Taekyung’s violent action against the Dongting Fisherman; it is not a vague misfortune that merely happened to him.",
+      "replacement": "Of course, I felt bad about wrecking the Dongting Fisherman, but there had been nothing else I could do.",
+      "severity": "major",
+      "source": "물론 동정어옹을 작살 낸 건 미안하게 생각하지만, 나로서는 어쩔 수 없는 일이었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "I had even gone to visit him in the hospital because I felt bad. He had been unconscious, though, so we hadn’t been able to talk.",
+      "defect": "The draft invents a hospital as the location of the visit. The source only says Taekyung paid the injured man a visit.",
+      "id": "F04",
+      "rationale": "병문안 denotes visiting someone who is ill or injured but does not establish a modern hospital, which would be an unsupported setting detail in Murim.",
+      "replacement": "I had even gone to check on him because I felt bad. He had been unconscious, though, so we hadn’t been able to talk.",
+      "severity": "major",
+      "source": "안 그래도 미안해서 병문안도 다녀왔다. 혼절해 있던 상태라 대화를 나누진 못했지만."
+    },
+    {
+      "confidence": 0.97,
+      "current": "And everyone gathered here was made up of physical types who preferred settling negotiations with their bodies rather than with words.",
+      "defect": "The sentence is grammatically malformed and fails to use the established rendering “physical school” for 육체파.",
+      "id": "F05",
+      "rationale": "The source jokingly categorizes them as 육체파, the established “physical school,” while contrasting verbal bargaining with bodily force.",
+      "replacement": "And the people gathered here belonged to the physical school, preferring to negotiate with their bodies rather than with words.",
+      "severity": "minor",
+      "source": "하지만 이곳은 현대가 아닌 무림이고, 이 자리에 있는 이들은 말로 하는 흥정보다는 몸으로 나누는 대화를 선호하는 육체파들이었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "As I stared at Perfected Being Hyeongong, whose appearance I had trusted for a brief moment, I realized something once again.",
+      "defect": "The draft says Taekyung trusted Hyeongong’s physical appearance, producing an unintended and unnatural meaning.",
+      "id": "F06",
+      "rationale": "잠시나마 믿었던 modifies Hyeongong himself: Taekyung briefly believed in his apparent moral superiority, not in the reliability of his appearance.",
+      "replacement": "As I stared at Perfected Being Hyeongong, whom I had trusted for one brief moment, I realized something once again.",
+      "severity": "minor",
+      "source": "잠시나마 믿었던 현공진인의 모습을 보며, 나는 다시 한번 깨달았다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“The house always gets a cut.”",
+      "defect": "개평 is a consolation share given to a gambling loser or bystander, not the house’s commission. The current line reverses the joke’s role structure.",
+      "id": "F07",
+      "rationale": "Taekyung frames the reduced allotment to the defeated Zhuge Feng as 개평—a consolation cut—while 국룰 means a universally accepted or unwritten rule.",
+      "replacement": "“Even the loser gets a cut. That’s the universal rule.”",
+      "severity": "major",
+      "source": "“개평은 국룰.”"
+    },
+    {
+      "confidence": 0.95,
+      "current": "*Game over. Yoshi, grand season.*",
+      "defect": "The second sentence transliterates a Korean internet catchphrase into meaningless English rather than conveying its triumphant jackpot punchline.",
+      "id": "F08",
+      "rationale": "요시 그란도 시즌 is used as an exuberant victory or big-win meme; “Yoshi, grand season” communicates neither that function nor intelligible English.",
+      "replacement": "*Game over. Jackpot.*",
+      "severity": "minor",
+      "source": "게임 끝. 요시 그란도 시즌."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Those who fight win.",
+      "defect": "The draft generalizes 쟁취하다 into winning, losing the immediate point that the fighter seizes or claims the spoils.",
+      "id": "F09",
+      "rationale": "The line justifies Taekyung’s entitlement in the distribution dispute; 쟁취하다 means to seize or obtain through struggle, not merely to win a contest.",
+      "replacement": "Those who fight claim the spoils.",
+      "severity": "minor",
+      "source": "싸우는 자가 쟁취하는 법."
+    }
+  ],
+  "summary": "One critical speaker-subject error, several meaningful fidelity defects, and localized terminology and prose issues.",
+  "version": 1
+}
