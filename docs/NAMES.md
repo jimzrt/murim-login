@@ -1483,3 +1483,10 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 동정채 | **Donghu Stronghold** | Stronghold where Mu Song's Uncle Hwang is based. |
 | 황 | **Hwang** | Name used in Mu Song's address Uncle Hwang. |
 | 홍천 | **Hongcheon** | Given name of the newly appointed Hubei Provincial Administration Commissioner. |
+| 신기제갈 | **Divine Mechanism Zhuge** | Collective epithet for the Zhuge Clan's intellectual and strategic role. |
+| 파선지왕 | **Fan-Wisdom King** | Epithet of Zhuge Gonghu. |
+| 제갈공명 | **Zhuge Kongming** | The Zhuge Clan's famous ancestor. |
+| 복룡산 | **Mount Fulong** | Alternate name for Mount Longzhong. |
+| 융중산 | **Mount Longzhong** | Mountain associated with Zhuge Kongming's seclusion. |
+| 와룡객 | **Crouching Dragon Guest** | Epithet of Zhuge Feng. |
+| 제갈풍 | **Zhuge Feng** | Current Family Head of the Zhuge Clan. |

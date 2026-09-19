@@ -4,7 +4,7 @@ The Star-Array Grand Banquet.
 
 With the most renowned masters in the world gathering in one place to pit their martial arts against one another, the name could not have been more fitting: a banquet of stars.
 
-An old man with deep wrinkles around his eyes packed tobacco into a long-stemmed tobacco pipe as he spoke.
+An old man with deep wrinkles around his eyes packed tobacco into a long-stemmed pipe as he spoke.
 
 “It could also be called a festival of victory.”
 
@@ -12,7 +12,7 @@ They were in a large inn in southern Henan Province.
 
 From among the people crowding around the old man, someone asked, “Why is that?”
 
-“Why else? If the Central Plains Murim had lost, would there have been a Star-Array Grand Banquet? The Demonic Cult would have ruled the world by now, and they would be holding the Demonic Grand Banquet instead.”
+“Why else? If the Central Plains Murim had lost, would there be a Star-Array Grand Banquet? The Demonic Cult would have conquered the world long ago, and they would be holding the Demonic Grand Banquet instead.”
 
 “Ah, that is true.”
 
@@ -22,7 +22,7 @@ The old man fumbled inside his robes, then waved his pipe.
 
 “Does anyone have a light?”
 
-The middle-aged man beside him quickly pulled out a flint and lit it for him.
+The middle-aged man beside him quickly pulled out a flint and lit it.
 
 Crack, crackle! Ssssss.
 
@@ -38,7 +38,7 @@ The people watching him with shining eyes began raising their hands all at once.
 
 “Hey, didn’t you hear me say I was going first?”
 
-“I didn’t hear shit, you unorthodox-faction bastard!”
+“No, I didn’t, you unorthodox bastard!”
 
 Wham! Crash!
 
@@ -52,7 +52,7 @@ The guests who had kept their distance from the start shook their heads.
 
 “That’s the problem. There’s never a quiet moment. With the Star-Array Grand Banquet right around the corner, every kind of bastard is flocking to Henan.”
 
-“Our trading run is over anyway. We might as well watch the show and enjoy the benefits.”
+“Our trading run is over anyway. We might as well sit back and enjoy the show.”
 
 The two merchants continued chatting quietly.
 
@@ -96,9 +96,9 @@ The young man sighed.
 
 The merchants’ eyes flashed.
 
-Was Yeoahong normally that expensive?
+Yeoahong was expensive stuff.
 
-Two silver nyang was enough to buy two seom of rice and drink strong liquor like water for several months. Mixing water into it was nothing short of outrageous.
+Two silver nyang was enough to buy two seom of rice or drink strong liquor like water for several months. Watering it down was nothing short of outrageous.
 
 “I’m going to—”
 
@@ -154,7 +154,7 @@ People had always said there was only a fine line between a rogue and a martial 
 
 With their merchant guards nowhere nearby, they would unquestionably be the ones to suffer if a dispute broke out.
 
-The merchants swallowed the reprimand that had been about to leave their mouths.
+The merchants swallowed the reprimands that had been about to leave their mouths.
 
 “Listen, Young Brother.”
 
@@ -214,7 +214,7 @@ When the young man showed interest, the merchants lowered their voices as much a
 
 What they had encountered before meeting this young brat was far more troubling.
 
-“Well, there were a bunch of bandits lying in the alley the merchant group was passing through, all with broken legs and groaning. As it turned out, they were from Black Mountain Stronghold, which is notorious in the area.”
+“Well, there were a bunch of bandits lying along the road our merchant group was traveling, all with broken legs and groaning. As it turned out, they were from Black Mountain Stronghold, which is notorious in the area.”
 
 “Their leader, the Red-Killing Axe Heuk Jongpil, had been turned into a headless corpse.”
 
@@ -246,7 +246,7 @@ The young man fell silent for a moment, as though considering something. Then he
 
 “That hidden master must be much younger than you think.”
 
-“Good heavens. Do you have some idea who he might be?”
+“Good heavens. Do you have some idea who it might be?”
 
 “More or less. Probably dressed in rags, with hair all over the place.”
 
@@ -256,7 +256,7 @@ The young man fell silent for a moment, as though considering something. Then he
 
 “……”
 
-“Well, I suppose I can get to know him little by little from now on. Thanks for the drink.”
+“Well, I suppose I can get to know it little by little from now on. Thanks for the drink.”
 
 It happened in an instant.
 
@@ -282,7 +282,7 @@ There were scars across his face, enough to make one suspect that he moonlighted
 
 No, with a face like that, it was practically certain.
 
-“The gentleman who just left didn’t pay his bill. From what I just heard, it seems you two are friends.”
+“The gentleman who just left didn’t pay his bill. From what I heard, it seems you two are friends.”
 
 “Huh?”
 
@@ -290,13 +290,13 @@ No, with a face like that, it was practically certain.
 
 “……!”
 
-The merchants’ mouths fell open as though they had been struck squarely in the back of the head.
+The merchants’ mouths fell open. They had been thoroughly conned.
 
 *What the fucking hell?*
 
 *He drank five bottles of Yeoahong?*
 
-But what could they do? If you could tell ten things from one, then the waiter’s face made it clear that this establishment was managed by a dark-path faction.
+But what could they do? One look at the waiter’s face told them all they needed to know: this establishment was definitely managed by a dark-path faction.
 
 The merchants were rummaging through their coin purses with miserable expressions when—
 
@@ -306,7 +306,7 @@ Clink.
 
 A silk pouch flew from somewhere and landed on the table.
 
-The people inside the inn had fallen silent. Through the crowd, which had split cleanly down the middle, an old man came limping forward.
+The inn had fallen silent. Through the crowd, which had split cleanly down the middle, an old man came limping forward.
 
 Tap, tap.
 
@@ -314,7 +314,7 @@ The sound of his wooden prosthetic leg striking the floor pierced everyone’s e
 
 “Twenty silver nyang. Use it to pay the bill and get me a quiet room.”
 
-The waiter looked back and forth between the silk pouch and the old man, then bowed politely. He already knew who the man was.
+The waiter looked from the silk pouch to the old man, then bowed politely. He already knew who the man was.
 
 “Yes, Great Hero Song.”
 
@@ -360,7 +360,7 @@ Jeok Cheongang had run off with my entire coin purse.
 
 *Damn old man.*
 
-At the very first inn we entered, Jeok Cheongang had been showered with salt by the waiter. After agonizing over whether to set the waiter or the inn on fire, he had come up with a peaceful and spectacular solution.
+At the very first inn we entered, Jeok Cheongang had been showered with salt by the waiter. After agonizing over whether to set the waiter or the inn on fire, he had come up with a peaceful and brilliant solution.
 
 The Abbot of Shaolin card.
 
@@ -376,7 +376,7 @@ The Abbot of Shaolin card.
 
 *What?*
 
-*A year ago, you ran your mouth about going to the Star-Array Grand Banquet, and this old man suffered for it despite having no reason to. The preliminary competition will be held in Kaifeng anyway, so don’t let me see your face until then.*
+*A year ago, you ran your mouth about going to the Star-Array Grand Banquet and put this old man through a year of trouble I never asked for. The preliminary competition will be held in Kaifeng anyway, so don’t let me see your face until then.*
 
 *No way! How is that fair?*
 
@@ -426,7 +426,7 @@ The chubby-cheeked children shook their heads.
 
 “Oh, I see. All right.”
 
-“And my mom said not to bring in beggar bastards like youuu.”
+“And my mom said not to bring home beggar bastards like you.”
 
 “……”
 
