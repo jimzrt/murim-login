@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Xixia, Henan Province, where a tributary met the Yangtze, was packed with people as usual.",
+      "defect": "The draft makes Xixia the confluence where the tributary meets the Yangtze. The source only places Xixia alongside a tributary of the Yangtze.",
+      "id": "F01",
+      "rationale": "맞닿은 describes Xixia as adjoining the tributary; it does not state that the tributary joins the Yangtze there.",
+      "replacement": "Xixia in Henan Province, situated along a tributary of the Yangtze, was packed with people again today.",
+      "severity": "major",
+      "source": "장강의 지류와 맞닿은 하남성 서협(西峽)은 오늘도 수많은 이들로 인산인해였다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“I heard they arrived in Henan late the other day… Could they be here to join the alliance?”",
+      "defect": "The concrete arrival time, late the previous day, is weakened to the vague \"the other day.\"",
+      "id": "F02",
+      "rationale": "전날 means the previous day, not an unspecified recent day.",
+      "replacement": "“I heard they arrived in Henan late yesterday… Could they be here to join the alliance?”",
+      "severity": "major",
+      "source": "전날 늦게 하남에 당도했다는 소문은 들었는데…… 설마하니 입맹(入盟)을 위해서인가."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“You don’t seem to have much connection to Murim. Are you originally from Gansu? Or perhaps…”",
+      "defect": "The sentence's second possibility is omitted: the merchant may have picked up scraps of Murim knowledge from Third Rate swordsmen who patronized his stall.",
+      "id": "F03",
+      "rationale": "The omitted clause explains how an otherwise ordinary merchant might recognize the sect insignia and carries the young martial artist's contempt for the merchant's clientele.",
+      "replacement": "“You don’t seem to have much connection to Murim. Are you originally from Gansu? Or perhaps… you picked up a few scraps of knowledge from the Third Rate swordsmen who came here as customers.”",
+      "severity": "major",
+      "source": "“무림과는 별 연관이 없어 보이는데. 본래 감숙 사람이신가? 아니면…… 손님으로 받은 삼류 칼잡이들이 늘어놓은 풍월을 주워들었거나.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "while the merchant’s longtime neighbors deliberately looked away from the scene.",
+      "defect": "The draft omits that the neighboring merchants had shared both hardship and good fortune with him, weakening the pointed contrast in their abandonment.",
+      "id": "F04",
+      "rationale": "동고동락하던 denotes companions who had gone through joys and hardships together, not merely longtime neighbors.",
+      "replacement": "while the neighboring merchants who had shared his ups and downs all this time deliberately looked away.",
+      "severity": "minor",
+      "source": "그간 동고동락하던 이웃 장사치들은 애써 그 광경을 외면했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "His tone had changed, and so had his insulting words.",
+      "defect": "The sentence is both unnatural and semantically unclear. The source marks a deliberate register shift: the young martial artist has dropped his previously polite speech while openly insulting Blood Cudgel.",
+      "id": "F05",
+      "rationale": "뒤바뀐 말투 refers to the change in speech level, a meaningful display of contempt and hierarchy.",
+      "replacement": "At some point, he had dropped his polite speech and begun hurling insults.",
+      "severity": "major",
+      "source": "어느새 뒤바뀐 말투와 모욕적인 언사."
+    },
+    {
+      "confidence": 0.91,
+      "current": "A massive man eight feet tall had crushed Blood Cudgel’s head with a great cudgel and answered in a halting voice.",
+      "defect": "The draft reduces the specifically named 대초자곤, a jointed or two-section staff weapon, to a generic cudgel and also flattens the swinging action.",
+      "id": "F06",
+      "rationale": "대초자곤 identifies a particular articulated staff weapon, while 휘둘러 explicitly describes swinging it.",
+      "replacement": "An eight-foot-tall man who had crushed Blood Cudgel’s head with a swing of his massive two-section staff answered in a halting voice.",
+      "severity": "major",
+      "source": "거대한 대초자곤(大梢子棍)을 휘둘러 혈곤의 머리통을 박살 낸 팔 척의 사내가 어눌한 목소리로 대답했다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "“How dare… insult Young Sect Leader. This subordinate… could not endure it.”",
+      "defect": "The draft turns the subordinate's continuing declaration that he will not tolerate such an insult into a retrospective claim that he could not endure it.",
+      "id": "F07",
+      "rationale": "참지 않을 것 expresses resolve or refusal—\"will not tolerate\"—rather than past inability.",
+      "replacement": "“Dare… insult Young Sect Leader. This subordinate… will not tolerate it.”",
+      "severity": "major",
+      "source": "“감히, 소문주, 모욕. 속하, 참지 않을 것.”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "“I knew this would cause trouble.”",
+      "defect": "The draft introduces a causal claim that the killing caused the trouble. The source only says the young martial artist expected trouble to arise.",
+      "id": "F08",
+      "rationale": "말썽이 생길 줄 알았다 expresses anticipation that trouble would occur; it does not explicitly identify the preceding event as its cause.",
+      "replacement": "“See? I knew there’d be trouble.”",
+      "severity": "minor",
+      "source": "“그래, 말썽이 생길 줄 알았다니까.”"
+    }
+  ],
+  "summary": "The draft contains one omitted clause, several altered concrete details, and losses in speech-level characterization and weapon specificity.",
+  "version": 1
+}
