@@ -1,20 +1,20 @@
 # Chapter 278
 
-The beautiful two-story house had been transformed into a haunted ruin.
+The beautiful two-story house had been reduced to a haunted ruin.
 
-If the dozens of layers of defensive barriers hadn’t absorbed part of the Flame-Extinguishing Divine Fist’s impact, the entire place would have been reduced to ash.
+If the dozens of defensive barriers hadn’t absorbed some of the Flame-Extinguishing Divine Fist’s impact, the entire place would have been reduced to ash.
 
 Just then, I sensed someone approaching from behind, and a quiet voice sounded in my ear.
 
 “Mr. Jin Taekyung.”
 
-I had been sitting on a half-charred sofa. Turning my head, I answered,
+I turned from where I sat on a half-charred sofa.
 
-“Yes.”
+“Yes?”
 
 Team Leader Choi, Butler Kim, and Song Song stood behind me.
 
-Their expressions were complicated as they looked at me. Considering they had seen the bodies strewn miserably across the garden, it was only natural.
+The looks they gave me were complicated. Considering all the mangled bodies they had passed in the garden, that was only natural.
 
 Being drenched from head to toe in blood probably didn’t help my appearance, either.
 
@@ -38,15 +38,15 @@ Team Leader Choi asked with concern, “Are you hurt anywhere?”
 
 “I gathered them in one place.”
 
-“Without taking any other measures?”
+“Without taking any precautions?”
 
-“Of course I did. For the next few hours, they’ll be no different from corpses that can still breathe, so don’t worry.”
+“Of course I took precautions. For the next few hours, they’ll be little more than breathing corpses, so don’t worry.”
 
-The personal measure I had taken was a Pressure-Point Strike.
+Those precautions consisted of Pressure-Point Strikes.
 
-After striking their Mute Acupoints, Paralysis Acupoints, and Sleep Acupoints, I had stacked the Black Hunters neatly inside the only room left standing.
+After striking their Mute Acupoints, Paralysis Acupoints, and Sleep Acupoints, I had stacked the Black Hunters inside the only room left standing.
 
-I had used force to subdue them, but I wasn’t some blood-crazed murderer who intended to kill even those who surrendered.
+I had subdued them by force, but I wasn’t some blood-crazed murderer who would kill people after they surrendered.
 
 More importantly, they might prove useful later.
 
@@ -88,21 +88,21 @@ But Im Yeongjun had been far more tight-lipped than I had expected. Ordinary thr
 
 They were right. Someone had to do it. My hands were already stained with blood, so there was no reason to balk at torture now.
 
-I shook my head to clear away my troubled thoughts, then opened my mouth.
+I shook off my troubled thoughts and spoke.
 
 “There’s no physical evidence. Apparently, they deleted all the relevant information the moment I broke in and the alarm magic went off.”
 
 “All of it?”
 
-“Yes. There weren’t even any computers in the house. Only two people, including Im Yeongjun, had cell phones. Even those were burner phones with no identifiable source.”
+“Yes. There weren’t even any computers in the house. Only two people, including Im Yeongjun, had cell phones, and even those were burner phones that couldn’t be traced.”
 
-I showed them the remains of the cell phone I had collected beforehand.
+I showed them the remains of the cell phone I had collected earlier.
 
 Even someone as hopeless with technology as me could tell that recovering anything from it would be impossible. Every component had been crushed, and they had burned the SD card.
 
 Team Leader Choi clicked his tongue when he saw the wreckage.
 
-“Thorough. At this point, there’s no way any documents would have been left behind.”
+“Thorough. I doubt they left any documents behind, either.”
 
 “They didn’t.”
 
@@ -118,11 +118,11 @@ Everything involving the Black Hunters—from laundering their identities to pay
 
 “That…”
 
-I suddenly stopped speaking.
+I stopped.
 
-The one sentence he had screamed like a howl after experiencing Tendon-Splitting and Bone-Twisting three times still echoed in my ears.
+The words he had screamed after three rounds of Tendon-Splitting and Bone-Twisting still echoed in my ears.
 
-“M-Myeongdong Guild! I said Myeongdong Guild!”
+“M-Myeongdong Guild! It was Myeongdong Guild!”
 
 A major Guild that might not rank among the country’s top ten, but easily placed within the top twenty.
 
@@ -130,7 +130,7 @@ And…
 
 *Jihoon.*
 
-It was also the Guild where an old friend I had met again recently belonged.
+It was also the Guild my old friend belonged to.
 
 After some thought, I spoke again.
 
@@ -146,9 +146,9 @@ Team Leader Choi studied me for a moment, then nodded.
 
 “I will.”
 
-“Let’s get started right away.”
+“Let’s begin.”
 
-At Team Leader Choi’s words, Butler Kim swung the staff he had been using like a cane.
+At Team Leader Choi’s signal, Butler Kim swung the staff he had been using as a cane.
 
 The tightly shut door opened. The ten Black Hunters whose acupoints I had struck floated into the air and filed out of the house one after another.
 
@@ -192,7 +192,7 @@ The darkness had yet to lift when Park Jihoon dressed and left his house at dawn
 
 A uniformed chauffeur was waiting for him at the entrance with a limousine.
 
-“You’re here, sir.”
+“Good morning, sir.”
 
 “What’s going on? Why am I being picked up out of the blue at this hour?”
 
@@ -212,7 +212,7 @@ One of the guards stationed along the stone wall ran over and bowed to Park Jiho
 
 Park Jihoon passed through iron gates reminiscent of a European nobleman’s estate and crossed a garden larger than an athletic field before finally meeting the man who had summoned him.
 
-“Have you eaten breakfast?”
+“Have you eaten?”
 
 The man was in his fifties, with hair that had gone half gray. His age belied his imposing physique, and well-developed chest muscles showed beneath his white robe.
 
@@ -258,15 +258,15 @@ It was a sign that his patience had run out.
 
 Park Jihoon quietly set down his spoon.
 
-“I caught a whiff.”
+“He caught a whiff.”
 
-“Then you should have stopped at covering your nose.”
+“Then you should have stopped at covering his nose.”
 
 “That was Myeongdong Guild’s job. Mine is to wring the necks of anyone who catches the stink before they can go blabbing about it.”
 
 “Without my permission?”
 
-“Do I need permission, too?”
+“Did I need your permission?”
 
 Bang!
 
@@ -282,7 +282,7 @@ The guards who came rushing in were met by a furious roar.
 
 They froze for a moment, then bowed and withdrew.
 
-Park Jihoon calmly pulled out a handkerchief and wiped the soup splashed across his face.
+Unperturbed, Park Jihoon pulled out a handkerchief and wiped the soup from his face.
 
 “What a shame. It was delicious.”
 
@@ -296,7 +296,7 @@ Park Jihoon calmly pulled out a handkerchief and wiped the soup splashed across 
 
 Park Jihoon’s smooth, unlined brow furrowed.
 
-The handkerchief in his hand dropped onto the shattered remains of the table.
+The handkerchief slipped from his fingers and landed among the shattered remains of the table.
 
 “What else was I supposed to do?”
 
@@ -304,7 +304,7 @@ The handkerchief in his hand dropped onto the shattered remains of the table.
 
 “Don’t you know how troublesome it gets when people who catch the stink start talking? One spark, and the whole house burns down. If it were only your house at risk, I wouldn’t have said a word. But the fire would spread to our side, so I stepped in.”
 
-“Even so, you—!”
+“You still—!”
 
 “And I’d appreciate it if you got one thing straight. You’re a war hero who fought and bled during the Great Cataclysm? I’ll give you that. But claiming that Myeongdong Guild belongs to you is a bit…”
 
@@ -316,7 +316,7 @@ Park Tae Seop trembled as he watched him.
 
 “Sit down.”
 
-“If you have anything else to say, call me. If you keep this up, I’m going to lose my respect for a great senior like you.”
+“If you have anything else to say, call me. Keep this up, and I might lose my respect for you as a great senior.”
 
 “I said sit down.”
 
@@ -344,6 +344,6 @@ He instinctively realized that something had gone seriously wrong.
 
 At that moment, the phone inside Park Jihoon’s coat pocket began to vibrate.
 
-As though possessed, he pulled it out and stared at the name filling the screen, his eyes darkening.
+As if in a trance, he pulled it out and stared darkly at the name filling the screen.
 
 **Jin Taekyung**
