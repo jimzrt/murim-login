@@ -14,7 +14,7 @@ This was a first. Team Leader Choi was always calm, but he had sounded frantic.
 
 *Could it be…?*
 
-No. Don’t jump to conclusions already.
+No. Don’t jump to conclusions.
 
 This wasn’t the time to think. It was time to move.
 
@@ -30,7 +30,7 @@ Kim Jinsoo, who had been chatting animatedly in the middle of the group, sprang 
 
 The timing could have been worse. There were two hours until the next raid, and thankfully, the next Gate was nearby. It wouldn’t take long to get there.
 
-“Mr. Kim Jinsoo.”
+“Jinsoo.”
 
 “Yes.”
 
@@ -60,7 +60,7 @@ Click.
 
 “Be quiet. Don’t play with the phone while you’re eating.”
 
-“Seriously? Is what Mom’s holding a brick instead of a phone?”
+“Seriously? Is that a brick Mom’s holding, then?”
 
 “You little brat!”
 
@@ -124,7 +124,7 @@ She bit her lip.
 
 “He seemed to have a lot on his mind lately.”
 
-“On his mind?”
+“About what?”
 
 “You know how things are. The Guild keeps growing, and talented young rookies keep joining…”
 
@@ -170,7 +170,7 @@ Song Song gave a small nod.
 
 Unable to continue, Song Song hesitated and came to a stop.
 
-A sign reading *Special Treatment Ward* swayed above her head.
+A sign reading *Special Treatment Ward* hung above her head.
 
 This wasn’t a ward where doctors treated patients. It was staffed by practitioners known as healers.
 
@@ -202,7 +202,7 @@ The hairy arm he always wrapped around me in a crushing hug had been cleanly sev
 
 The silence stretched on.
 
-Even after leaving the hospital room and climbing to the rooftop, I couldn’t figure out what I should say first.
+Even after we left the hospital room and went up to the rooftop, I couldn’t decide what to say first.
 
 I listened quietly as Team Leader Choi and Butler Kim explained what had happened. At last, I opened my mouth.
 
@@ -210,7 +210,7 @@ I listened quietly as Team Leader Choi and Butler Kim explained what had happene
 
 Everyone there knew exactly who I meant.
 
-Team Leader Choi’s lips moved. Then he silently shook his head.
+Team Leader Choi’s lips parted, but he silently shook his head.
 
 *No way.*
 
@@ -218,7 +218,7 @@ Team Leader Choi’s lips moved. Then he silently shook his head.
 
 “No. All three fled the scene.”
 
-“What about the CCTV footage? They were drinking at a store. Their faces should have been recorded.”
+“What about the security footage? They were drinking at a bar, so their faces should have been recorded.”
 
 “The investigators have already examined it. They have the results.”
 
@@ -228,7 +228,7 @@ Hunters and Awakened people were few enough in number to make them easy to track
 
 “Then that’s fine. We’ll find those bastards right away and—”
 
-“They say their identities are unknown.”
+“They couldn’t identify them.”
 
 “What?”
 
@@ -236,7 +236,7 @@ Had I heard him wrong?
 
 When I stared at him in confusion, Team Leader Choi continued with a sigh.
 
-“Their identities are unknown. Apparently, they aren’t any Awakened or Hunters registered as existing in this country.”
+“They couldn’t identify them. Apparently, they aren’t among the Awakened or Hunters registered in this country.”
 
 “…Could they be ethnic Koreans from China? Or Chinese or Japanese?”
 
@@ -294,7 +294,7 @@ Butler Kim gently cut me off.
 
 “They’re Black Hunters.”
 
-“Yes. In other words, unregistered Awakened people.”
+“Yes. Unregistered Awakened people.”
 
 “They’re different.”
 
@@ -304,7 +304,7 @@ Butler Kim stroked his neatly trimmed beard and continued.
 
 The question came out of nowhere. I felt like we were going around in circles.
 
-If the person asking hadn’t been Butler Kim, I might have said something.
+If anyone but Butler Kim had asked, I might have snapped at them.
 
 Suppressing the anger boiling inside me, I answered.
 
@@ -320,7 +320,7 @@ Butler Kim nodded.
 
 For a moment, my mind went blank.
 
-It was a very simple concept when you thought about it, but I had never considered it before.
+It was a simple enough concept once he explained it, but I had never even considered the possibility.
 
 And for good reason.
 
@@ -332,7 +332,7 @@ Unregistered Awakened people were felons. Where would they get weapons, and who 
 
 “Criminal organizations… That’s half right and half wrong.”
 
-“Then what is it?”
+“Then who?”
 
 The answer burst tersely from Team Leader Choi’s mouth.
 
@@ -346,9 +346,9 @@ I couldn’t answer.
 
 I hadn’t become a Hunter to protect the world, either.
 
-The Great Cataclysm was already a thing of the past. When people thought of Hunters, they no longer imagined noble duty or a spirit of self-sacrifice.
+The Great Cataclysm was already a thing of the past. When people thought of Hunters now, they no longer imagined noble duty or self-sacrifice.
 
-They envied the money and fame Hunters possessed, and the people who grew up watching that became Hunters themselves.
+They envied the Hunters’ money and fame, and the children who grew up watching them became Hunters themselves.
 
 Guilds were nothing more than collections of those Hunters.
 
@@ -364,11 +364,11 @@ Only then did I finally begin to recover from the shock.
 
 Team Leader Choi said nothing more, but I understood what he meant.
 
-They were all pieces of shit in the same cesspool.
+They were all pieces of shit floating in the same cesspool.
 
 To them, Black Hunters were like daggers concealed up their sleeves. No one knew they existed.
 
-No, they might know and simply pretend not to.
+Or maybe people knew and simply pretended they didn’t.
 
 While I was still reeling, another unanswered question came to mind.
 
@@ -392,4 +392,4 @@ Before I could answer, he continued.
 
 “This place is crawling with monsters. It’s the kind of place where one bothersome person—or even an entire Guild—can simply be erased. Get rid of that half-baked common sense.”
 
-That cold sentence pierced my chest.
+The cold words pierced my chest.
