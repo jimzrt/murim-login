@@ -1624,3 +1624,10 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 신(新) 무림맹 | **New Murim Alliance** | The new Murim Alliance identified in connection with Henan. |
 | 승선포정사사 | **Provincial Administration Commissioner** | Official title of the provincial administrator overseeing Hubei. |
 | 육조참정 | **Assistant Provincial Administrator** | Former Shanxi administrative post held by Hongcheon. |
+| 면벽수련 | **secluded meditation** | Jeok Cheongang's isolated cultivation in the cave. |
+| 호법 | **stand guard** | Mungyeong offers to protect Jeok during cultivation. |
+| 후천지기 | **acquired qi** | Energy gained through elixirs, contrasted with innate qi. |
+| 한나절 | **half a day** | Elapsed duration in Jeok's first time-loss episode. |
+| 일다경 | **the time it takes to drink a cup of tea** | Duration in the progression of Jeok's lost time. |
+| 촌각 | **moments** | Short intervals disappearing from Jeok's day. |
+| 진맥 | **take one's pulse** | Mungyeong's prior medical examination of Jeok. |
