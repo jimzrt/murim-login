@@ -94,7 +94,7 @@ In other words, Jeok Cheongang had won by the narrowest of margins.
 
 Even fights between Third Rate martial artists could be decided by the smallest detail. What, then, of a battle between Supreme Peak masters? The outcome would be decided by a difference as thin as a single strand of silk.
 
-“It happened more than twenty years ago, so he must be even stronger now. He was formidable even then, but I can no longer guarantee victory with any confidence.”
+“It happened more than twenty years ago, so he must have grown even stronger. I could not guarantee victory then, and I certainly cannot now.”
 
 I stared at Jeok Cheongang’s solemn expression.
 
@@ -126,7 +126,7 @@ People obsessed with something paid no attention to the world around them. They 
 
 Alcohol, gambling, drugs… martial arts were no different.
 
-It had been none other than the Azure Sky Sword King who released Jopil so that he could spar with Jeok Cheongang.
+It had been none other than the Azure Sky Sword King who had released Jopil in exchange for a duel with Jeok Cheongang.
 
 “Now that I think about it, the timing is awfully convenient.”
 
@@ -180,7 +180,7 @@ The maid was pointing at my iron balls.
 
 Apparently, I had done quite a number on someone else’s courtyard.
 
-Several sturdy servants had gathered by then, filling in the marks I had left with dirt while wearing gloomy expressions.
+Several sturdy servants had already gathered behind us, glumly filling in the marks I had left with dirt.
 
 “I’m sorry. I’ll just carry them, then.”
 
@@ -326,7 +326,7 @@ Something Jeok Cheongang had always said in Fire Gate Cavern suddenly came to mi
 
 *“How?”*
 
-*“I shoved aside bastards from the unorthodox factions, sent dark-path figures packing, and killed every bastard who set fires like a Demonic Cultist. In that spirit, add a hundred geun to the iron balls.”*
+*“I took down unorthodox bastards, sent dark-path bastards packing, and killed every fire-setting bastard who acted like a Demonic Cultist. In that spirit, add another hundred geun to the iron balls.”*
 
 It was a history written in blood and violence.
 
@@ -342,7 +342,7 @@ I offered him my most sincere advice.
 
 “How dare you—!”
 
-The young guard shouted angrily and placed his hand on his sword hilt.
+The enraged young guard placed his hand on his sword hilt.
 
 That was when a deep, resonant voice infused with internal energy reached everyone’s ears.
 

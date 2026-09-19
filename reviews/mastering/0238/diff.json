@@ -1,0 +1,1653 @@
+{
+  "baseline_blocks": 180,
+  "baseline_sha256": "e54dea00ed34e19dc96dd349af6b77f18a221055efb088833640d20c1900da91",
+  "global_terminology_alerts": [
+    {
+      "korean": "사파",
+      "preferred": "unorthodox faction"
+    },
+    {
+      "korean": "흑도",
+      "preferred": "dark-path figures"
+    }
+  ],
+  "hunk_count": 88,
+  "hunks": [
+    {
+      "baseline": "They supposedly had more than a hundred blood relatives, and when their subordinate martial artists were included, their numbers reached into the thousands.",
+      "baseline_paragraphs": "P4",
+      "baseline_range": [
+        3,
+        4
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "9",
+      "sol": "Their blood relatives alone numbered over a hundred, and once the martial artists under their command were included, their numbers reached into the thousands.",
+      "sol_paragraphs": "P4",
+      "sol_range": [
+        3,
+        4
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Perhaps that was why their estate was incomparable to the Jin Family of Taiyuan, even in sheer size.",
+      "baseline_paragraphs": "P5",
+      "baseline_range": [
+        4,
+        5
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "11",
+      "sol": "Perhaps that was why the sheer scale of their estate put the Jin Family of Taiyuan to shame.",
+      "sol_paragraphs": "P5",
+      "sol_range": [
+        4,
+        5
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The guest room we had been shown was spacious and lavish, as though meant to prove the wealth and authority of the family.",
+      "baseline_paragraphs": "P8",
+      "baseline_range": [
+        7,
+        8
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "17",
+      "sol": "As if to demonstrate the family’s wealth and authority, the guest room we had been shown was both spacious and lavish.",
+      "sol_paragraphs": "P8",
+      "sol_range": [
+        7,
+        8
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I knew that Jeok Cheongang and the Nangong Family were not on particularly pleasant terms.",
+      "baseline_paragraphs": "P15",
+      "baseline_range": [
+        14,
+        15
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "31",
+      "sol": "I knew that Jeok Cheongang and the Nangong Family were not on particularly friendly terms.",
+      "sol_paragraphs": "P15",
+      "sol_range": [
+        14,
+        15
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Because that bastard Jopil left a pile of shit behind when he went.*",
+      "baseline_paragraphs": "P16",
+      "baseline_range": [
+        15,
+        16
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "33",
+      "sol": "*All because that bastard Jopil left a pile of shit behind.*",
+      "sol_paragraphs": "P16",
+      "sol_range": [
+        15,
+        16
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Nangong Family was indisputably a great power of the Murim and the hegemon of Anhui.",
+      "baseline_paragraphs": "P18",
+      "baseline_range": [
+        17,
+        18
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "37",
+      "sol": "",
+      "sol_paragraphs": "after P17",
+      "sol_range": [
+        17,
+        17
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "무림",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Murim"
+        },
+        {
+          "korean": "남궁세가",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Nangong Family"
+        },
+        {
+          "korean": "안휘",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Anhui"
+        },
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "There was no way they could avoid having ties with Jeok Cheongang, who had taken a murderer who had brutally killed dozens of commoners in Anhui as his Disciple.",
+      "baseline_paragraphs": "P19",
+      "baseline_range": [
+        18,
+        19
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "39",
+      "sol": "The Nangong Family was indisputably a great power of the Murim and the hegemon of Anhui. They could hardly have avoided becoming entangled with Jeok Cheongang after he took as his Disciple a murderer who had brutally slain dozens of commoners within the province.",
+      "sol_paragraphs": "P18",
+      "sol_range": [
+        17,
+        18
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Then again, that’s probably why he came along without resisting.*",
+      "baseline_paragraphs": "P20",
+      "baseline_range": [
+        19,
+        20
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "41",
+      "sol": "*Then again, that’s probably why he came along without complaint.*",
+      "sol_paragraphs": "P19",
+      "sol_range": [
+        18,
+        19
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I remembered something I had heard at an inn in Shanxi Province and asked,",
+      "baseline_paragraphs": "P21",
+      "baseline_range": [
+        20,
+        21
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "43",
+      "sol": "",
+      "sol_paragraphs": "after P19",
+      "sol_range": [
+        19,
+        19
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "산서",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Shanxi"
+        },
+        {
+          "korean": "산서성",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Shanxi Province"
+        }
+      ]
+    },
+    {
+      "baseline": "“He was the Azure Sky Sword King, right? The person who came looking for you back then.”",
+      "baseline_paragraphs": "P22",
+      "baseline_range": [
+        21,
+        22
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "45",
+      "sol": "Remembering something I had heard at an inn in Shanxi Province, I asked, “He was the Azure Sky Sword King, right? The person who came looking for you back then.”",
+      "sol_paragraphs": "P20",
+      "sol_range": [
+        19,
+        20
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That’s right. He was the one who first informed me of that fact, and he was also the one who later granted my request. I owe him a great debt.”",
+      "baseline_paragraphs": "P23",
+      "baseline_range": [
+        22,
+        23
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "47",
+      "sol": "“That’s right. He was the one who first informed me of what had happened, and he was also the one who later granted my request. I owe him a great debt.”",
+      "sol_paragraphs": "P21",
+      "sol_range": [
+        20,
+        21
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I have only met him twice, but…… the Sword King I know is truly a man who is crazy about swords.”",
+      "baseline_paragraphs": "P27",
+      "baseline_range": [
+        26,
+        27
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "55",
+      "sol": "“I have only met him twice, but… the Sword King I know is truly a man obsessed with swords.”",
+      "sol_paragraphs": "P25",
+      "sol_range": [
+        24,
+        25
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“It’s a term for someone who’s crazy about swords. It’s a compliment, so let it go.”",
+      "baseline_paragraphs": "P30",
+      "baseline_range": [
+        29,
+        30
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "61",
+      "sol": "“It means someone who’s crazy about swords. It’s a compliment, so let it go.”",
+      "sol_paragraphs": "P28",
+      "sol_range": [
+        27,
+        28
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He was pretty sharp.",
+      "baseline_paragraphs": "P32",
+      "baseline_range": [
+        31,
+        32
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "65",
+      "sol": "Pretty sharp.",
+      "sol_paragraphs": "P30",
+      "sol_range": [
+        29,
+        30
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jeok Cheongang glared at me suspiciously, then continued.",
+      "baseline_paragraphs": "P33",
+      "baseline_range": [
+        32,
+        33
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "67",
+      "sol": "Jeok Cheongang gave me a suspicious glare, then continued.",
+      "sol_paragraphs": "P31",
+      "sol_range": [
+        30,
+        31
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“In any case, there is no doubt that he is an unpredictable man. He wanted to spar with this old man in exchange for sparing Jangcheon, that child.”",
+      "baseline_paragraphs": "P34",
+      "baseline_range": [
+        33,
+        34
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "69",
+      "sol": "“In any case, there is no doubt that he is an unpredictable man. He wanted a duel with this old man in exchange for sparing Jangcheon.”",
+      "sol_paragraphs": "P32",
+      "sol_range": [
+        31,
+        32
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“A spar?”",
+      "baseline_paragraphs": "P35",
+      "baseline_range": [
+        34,
+        35
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "71",
+      "sol": "“A duel?”",
+      "sol_paragraphs": "P33",
+      "sol_range": [
+        32,
+        33
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I get the picture.”",
+      "baseline_paragraphs": "P37",
+      "baseline_range": [
+        36,
+        37
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "75",
+      "sol": "“Yeah, I’m getting a pretty clear picture.”",
+      "sol_paragraphs": "P35",
+      "sol_range": [
+        34,
+        35
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A horrific series of murders had taken place in Anhui, yet the Grand Family Head of the Nangong Family, the hegemon of the province, had let the culprit go.",
+      "baseline_paragraphs": "P38",
+      "baseline_range": [
+        37,
+        38
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "77",
+      "sol": "A horrific series of murders had taken place in Anhui, yet the Grand Family Head of the Nangong Family—the hegemon of the province—had let the culprit go.",
+      "sol_paragraphs": "P36",
+      "sol_range": [
+        35,
+        36
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Setting aside the victims’ grievances, it could not have been a welcome outcome for the Nangong Family, either.",
+      "baseline_paragraphs": "P39",
+      "baseline_range": [
+        38,
+        39
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "79",
+      "sol": "Setting aside the injustice suffered by the victims, it could not have been a welcome outcome for the Nangong Family either.",
+      "sol_paragraphs": "P37",
+      "sol_range": [
+        36,
+        37
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "They said that Supreme Peak masters repeatedly trained without end to gain even the smallest enlightenment.",
+      "baseline_paragraphs": "P42",
+      "baseline_range": [
+        41,
+        42
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "85",
+      "sol": "They said Supreme Peak masters trained endlessly for even the slightest scrap of enlightenment.",
+      "sol_paragraphs": "P40",
+      "sol_range": [
+        39,
+        40
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I had never met the Azure Sky Sword King, but I suspected he was that kind of person.",
+      "baseline_paragraphs": "P43",
+      "baseline_range": [
+        42,
+        43
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "87",
+      "sol": "I had yet to meet the Azure Sky Sword King, but I suspected he was that kind of person.",
+      "sol_paragraphs": "P41",
+      "sol_range": [
+        40,
+        41
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That aside……",
+      "baseline_paragraphs": "P44",
+      "baseline_range": [
+        43,
+        44
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "89",
+      "sol": "That aside…",
+      "sol_paragraphs": "P42",
+      "sol_range": [
+        41,
+        42
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Who won the spar?”",
+      "baseline_paragraphs": "P45",
+      "baseline_range": [
+        44,
+        45
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "91",
+      "sol": "“Who won the duel?”",
+      "sol_paragraphs": "P43",
+      "sol_range": [
+        42,
+        43
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The day after sparring with this old man, the Azure Sky Sword King entered seclusion.”",
+      "baseline_paragraphs": "P46",
+      "baseline_range": [
+        45,
+        46
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "93",
+      "sol": "“The day after his duel with this old man, the Azure Sky Sword King entered seclusion.”",
+      "sol_paragraphs": "P44",
+      "sol_range": [
+        43,
+        44
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“It was a difference of half a form.”",
+      "baseline_paragraphs": "P48",
+      "baseline_range": [
+        47,
+        48
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "97",
+      "sol": "“The difference was half a form.”",
+      "sol_paragraphs": "P46",
+      "sol_range": [
+        45,
+        46
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even fights between Third Rate martial artists could be decided by the smallest detail. What would a battle between Supreme Peak masters be like? The outcome would be determined by a difference as thin as a single strand of silk.",
+      "baseline_paragraphs": "P50",
+      "baseline_range": [
+        49,
+        50
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "101",
+      "sol": "Even fights between Third Rate martial artists could be decided by the smallest detail. What, then, of a battle between Supreme Peak masters? The outcome would be decided by a difference as thin as a single strand of silk.",
+      "sol_paragraphs": "P48",
+      "sol_range": [
+        47,
+        48
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“It happened more than twenty years ago, so he must be even stronger now. He was formidable even then, but I can no longer guarantee victory with any confidence.”",
+      "baseline_paragraphs": "P51",
+      "baseline_range": [
+        50,
+        51
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "103",
+      "sol": "“It happened more than twenty years ago, so he must have grown even stronger. I could not guarantee victory then, and I certainly cannot now.”",
+      "sol_paragraphs": "P49",
+      "sol_range": [
+        48,
+        49
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "초식",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "form"
+        }
+      ]
+    },
+    {
+      "baseline": "I stared silently at Jeok Cheongang’s solemn expression.",
+      "baseline_paragraphs": "P52",
+      "baseline_range": [
+        51,
+        52
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "105",
+      "sol": "I stared at Jeok Cheongang’s solemn expression.",
+      "sol_paragraphs": "P50",
+      "sol_range": [
+        49,
+        50
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even he, a man who possessed earth-shaking martial arts, was only human.",
+      "baseline_paragraphs": "P53",
+      "baseline_range": [
+        52,
+        53
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "107",
+      "sol": "Even a man with such earth-shaking martial arts was only human.",
+      "sol_paragraphs": "P51",
+      "sol_range": [
+        50,
+        51
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I had realized that several times during the year we spent together in Fire Gate Cavern, and we had grown closer because of it.",
+      "baseline_paragraphs": "P54",
+      "baseline_range": [
+        53,
+        54
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "109",
+      "sol": "I had realized that several times during the year we spent together in Fire Gate Cavern, and it had brought us closer.",
+      "sol_paragraphs": "P52",
+      "sol_range": [
+        51,
+        52
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A curse brought by time that even a Supreme Peak master could not overcome.",
+      "baseline_paragraphs": "P56",
+      "baseline_range": [
+        55,
+        56
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "113",
+      "sol": "A curse wrought by time that even a Supreme Peak master could not overcome.",
+      "sol_paragraphs": "P54",
+      "sol_range": [
+        53,
+        54
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Fortunately, a stroke of heavenly luck had eased his symptoms. But it had only slowed the wheel already in motion, not stopped it completely.",
+      "baseline_paragraphs": "P57",
+      "baseline_range": [
+        56,
+        57
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "115",
+      "sol": "Fortunately, a stroke of heavenly luck had eased his symptoms. But it had only slowed the wheel already in motion. It could not stop it completely.",
+      "sol_paragraphs": "P55",
+      "sol_range": [
+        54,
+        55
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Guessing at Jeok Cheongang’s feelings, I put on my brightest expression and spoke.",
+      "baseline_paragraphs": "P58",
+      "baseline_range": [
+        57,
+        58
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "117",
+      "sol": "Guessing how Jeok Cheongang felt, I put on my brightest expression.",
+      "sol_paragraphs": "P56",
+      "sol_range": [
+        55,
+        56
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Didn’t this old man tell you? He is crazy about swords.”",
+      "baseline_paragraphs": "P62",
+      "baseline_range": [
+        61,
+        62
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "125",
+      "sol": "“Didn’t this old man tell you? He is obsessed with swords.”",
+      "sol_paragraphs": "P60",
+      "sol_range": [
+        59,
+        60
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A thought suddenly flashed through my mind.",
+      "baseline_paragraphs": "P64",
+      "baseline_range": [
+        63,
+        64
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "129",
+      "sol": "A thought flashed through my mind.",
+      "sol_paragraphs": "P62",
+      "sol_range": [
+        61,
+        62
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "People who were crazy about something did not look around them. They immersed themselves in it—literally, *madly*—solely to satisfy their own desires.",
+      "baseline_paragraphs": "P65",
+      "baseline_range": [
+        64,
+        65
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "131",
+      "sol": "People obsessed with something paid no attention to the world around them. They immersed themselves in it—literally, *madly*—solely to satisfy their desires.",
+      "sol_paragraphs": "P63",
+      "sol_range": [
+        62,
+        63
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Alcohol, gambling, drugs…… martial arts were no different.",
+      "baseline_paragraphs": "P66",
+      "baseline_range": [
+        65,
+        66
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "133",
+      "sol": "Alcohol, gambling, drugs… martial arts were no different.",
+      "sol_paragraphs": "P64",
+      "sol_range": [
+        63,
+        64
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It had been none other than the Azure Sky Sword King who released Jopil so that he could spar with Jeok Cheongang.",
+      "baseline_paragraphs": "P67",
+      "baseline_range": [
+        66,
+        67
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "135",
+      "sol": "It had been none other than the Azure Sky Sword King who had released Jopil in exchange for a duel with Jeok Cheongang.",
+      "sol_paragraphs": "P65",
+      "sol_range": [
+        64,
+        65
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Now that I think about it, the timing is perfect.”",
+      "baseline_paragraphs": "P68",
+      "baseline_range": [
+        67,
+        68
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "137",
+      "sol": "“Now that I think about it, the timing is awfully convenient.”",
+      "sol_paragraphs": "P66",
+      "sol_range": [
+        65,
+        66
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The Azure Sky Sword King is the sort of man who could change the day of his birth hundreds of times. I suspect the only day that matters to him is the day his breath stops. He will have no choice but to put down his sword then.”",
+      "baseline_paragraphs": "P71",
+      "baseline_range": [
+        70,
+        71
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "143",
+      "sol": "“The Azure Sky Sword King is the sort of man who could change his birthday hundreds of times. I suspect the only day that truly matters to him is the day he draws his last breath. That is when he will have no choice but to put down his sword.”",
+      "sol_paragraphs": "P69",
+      "sol_range": [
+        68,
+        69
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At this point, the bastard really was completely insane about swords.",
+      "baseline_paragraphs": "P74",
+      "baseline_range": [
+        73,
+        74
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "149",
+      "sol": "The bastard wasn’t just a sword nut. He was completely insane.",
+      "sol_paragraphs": "P72",
+      "sol_range": [
+        71,
+        72
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I was rubbing my gooseflesh-covered arms when a delicate woman’s voice came from outside the door.",
+      "baseline_paragraphs": "P75",
+      "baseline_range": [
+        74,
+        75
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "151",
+      "sol": "I was rubbing the goose bumps from my arms when a delicate woman’s voice came from outside the door.",
+      "sol_paragraphs": "P73",
+      "sol_range": [
+        72,
+        73
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I glanced back and saw a line drawn through every part of the estate I had passed.",
+      "baseline_paragraphs": "P80",
+      "baseline_range": [
+        79,
+        80
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "165",
+      "sol": "I glanced back and saw that the entire route I had taken was marked by a line.",
+      "sol_paragraphs": "P78",
+      "sol_range": [
+        77,
+        78
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even if they did get lost, there would have been no need to worry. I imagined Hansel strangling the witch with a Ten-Thousand-Year Cold Iron chain while Gretel smashed the back of her head with an iron ball, then shook my head.",
+      "baseline_paragraphs": "P83",
+      "baseline_range": [
+        82,
+        83
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "171",
+      "sol": "Even if they had, there would have been no need to worry. I imagined Hansel strangling the witch with a Ten-Thousand-Year Cold Iron chain while Gretel smashed her in the back of the head with an iron ball, then shook my head.",
+      "sol_paragraphs": "P81",
+      "sol_range": [
+        80,
+        81
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the maid’s stare, which seemed to regard me as though I were insane, I waved my hand.",
+      "baseline_paragraphs": "P86",
+      "baseline_range": [
+        85,
+        86
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "177",
+      "sol": "The maid was looking at me as though I were insane. I waved my hand.",
+      "sol_paragraphs": "P84",
+      "sol_range": [
+        83,
+        84
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“No, that’s not what I meant……”",
+      "baseline_paragraphs": "P88",
+      "baseline_range": [
+        87,
+        88
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "181",
+      "sol": "“No, that’s not what I meant…”",
+      "sol_paragraphs": "P86",
+      "sol_range": [
+        85,
+        86
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I-I beg your pardon, but the things you’re carrying are rather……”",
+      "baseline_paragraphs": "P90",
+      "baseline_range": [
+        89,
+        90
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "185",
+      "sol": "“I-I beg your pardon, but those things you have with you are rather…”",
+      "sol_paragraphs": "P88",
+      "sol_range": [
+        87,
+        88
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The maid’s finger was pointing at my iron balls.",
+      "baseline_paragraphs": "P92",
+      "baseline_range": [
+        91,
+        92
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "189",
+      "sol": "The maid was pointing at my iron balls.",
+      "sol_paragraphs": "P90",
+      "sol_range": [
+        89,
+        90
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Several sturdy servants had gathered by then, filling in the marks I had left with dirt while wearing gloomy expressions.",
+      "baseline_paragraphs": "P94",
+      "baseline_range": [
+        93,
+        94
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "193",
+      "sol": "Several sturdy servants had already gathered behind us, glumly filling in the marks I had left with dirt.",
+      "sol_paragraphs": "P92",
+      "sol_range": [
+        91,
+        92
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I’m sorry. I’ll just carry them in, then.”",
+      "baseline_paragraphs": "P95",
+      "baseline_range": [
+        94,
+        95
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "195",
+      "sol": "“I’m sorry. I’ll just carry them, then.”",
+      "sol_paragraphs": "P93",
+      "sol_range": [
+        92,
+        93
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I gathered the chains and lifted the iron balls.",
+      "baseline_paragraphs": "P97",
+      "baseline_range": [
+        96,
+        97
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "199",
+      "sol": "I gathered the chains together and lifted the iron balls.",
+      "sol_paragraphs": "P95",
+      "sol_range": [
+        94,
+        95
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I had weighed them regularly during the first few months, but after that, I gave up. If they got heavier, then I supposed they got heavier.",
+      "baseline_paragraphs": "P98",
+      "baseline_range": [
+        97,
+        98
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "201",
+      "sol": "I had weighed them faithfully during the first few months, but after that, I gave up. Whenever they got heavier, I simply assumed more weight had been added and left it at that.",
+      "sol_paragraphs": "P96",
+      "sol_range": [
+        95,
+        96
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "To other people, I probably looked like a fruit seller carrying dozens of watermelons.",
+      "baseline_paragraphs": "P101",
+      "baseline_range": [
+        100,
+        101
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "207",
+      "sol": "To everyone else, I probably looked like a fruit seller hauling several dozen watermelons.",
+      "sol_paragraphs": "P99",
+      "sol_range": [
+        98,
+        99
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Every time I moved, murmuring voices pierced my ears.",
+      "baseline_paragraphs": "P102",
+      "baseline_range": [
+        101,
+        102
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "209",
+      "sol": "Every step brought more murmurs to my ears.",
+      "sol_paragraphs": "P100",
+      "sol_range": [
+        99,
+        100
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Who is that guy? Did you hear anything?”",
+      "baseline_paragraphs": "P103",
+      "baseline_range": [
+        102,
+        103
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "211",
+      "sol": "“Who is that guy? Have you heard anything?”",
+      "sol_paragraphs": "P101",
+      "sol_range": [
+        100,
+        101
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“No idea. With iron balls chained to him, he looks like a prisoner.”",
+      "baseline_paragraphs": "P104",
+      "baseline_range": [
+        103,
+        104
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "213",
+      "sol": "“No idea. With those iron balls chained to him, he looks like a prisoner.”",
+      "sol_paragraphs": "P102",
+      "sol_range": [
+        101,
+        102
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“To begin with, no one could carry that many iron balls of that size. They must be weapons with only an iron shell.”",
+      "baseline_paragraphs": "P107",
+      "baseline_range": [
+        106,
+        107
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "219",
+      "sol": "“No one could possibly carry that many iron balls of that size. They must be weapons plated with iron.”",
+      "sol_paragraphs": "P105",
+      "sol_range": [
+        104,
+        105
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What on earth does that man do? From his appearance, he’s a beggar among beggars. At that level, he’d be an Elder in the Beggars’ Sect.”",
+      "baseline_paragraphs": "P108",
+      "baseline_range": [
+        107,
+        108
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "221",
+      "sol": "“What on earth is he? Judging by his appearance, he’s a beggar among beggars. At that level, he’d be an Elder even in the Beggars’ Sect.”",
+      "sol_paragraphs": "P106",
+      "sol_range": [
+        105,
+        106
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“He doesn’t have any knots, so maybe not……”",
+      "baseline_paragraphs": "P109",
+      "baseline_range": [
+        108,
+        109
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "223",
+      "sol": "“He doesn’t have any knots, so I don’t think that’s it…”",
+      "sol_paragraphs": "P107",
+      "sol_range": [
+        106,
+        107
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Listening to the Nangong martial artists quietly argue among themselves, I thought,",
+      "baseline_paragraphs": "P110",
+      "baseline_range": [
+        109,
+        110
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "225",
+      "sol": "As I listened to the Nangong martial artists quietly debate among themselves, one thought crossed my mind.",
+      "sol_paragraphs": "P108",
+      "sol_range": [
+        107,
+        108
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That year in Fire Gate Cavern had been a literal scorching hell.",
+      "baseline_paragraphs": "P113",
+      "baseline_range": [
+        112,
+        113
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "231",
+      "sol": "That year in Fire Gate Cavern had been a literal hell of scorching heat.",
+      "sol_paragraphs": "P111",
+      "sol_range": [
+        110,
+        111
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I had made puddles out of my sweat, and every breath had felt as though my lungs were burning away.",
+      "baseline_paragraphs": "P115",
+      "baseline_range": [
+        114,
+        115
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "235",
+      "sol": "My sweat had formed puddles, and every breath had felt as though my lungs were burning away.",
+      "sol_paragraphs": "P113",
+      "sol_range": [
+        112,
+        113
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "After going so long without washing, it had become such a habit that I could no longer tell whether I smelled or whether insects were crawling over my body.",
+      "baseline_paragraphs": "P117",
+      "baseline_range": [
+        116,
+        117
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "239",
+      "sol": "After going so long without washing, the habit had become so ingrained that I could no longer tell whether I smelled or whether insects were crawling over my body.",
+      "sol_paragraphs": "P115",
+      "sol_range": [
+        114,
+        115
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jeok Cheongang had been speaking so seriously about the Azure Sky Sword King. I couldn’t exactly have told him I was going to scrub off some dirt first.",
+      "baseline_paragraphs": "P120",
+      "baseline_range": [
+        119,
+        120
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "245",
+      "sol": "Jeok Cheongang had been speaking so seriously about the Azure Sky Sword King. I couldn’t exactly have told him I was going to scrub off some grime first.",
+      "sol_paragraphs": "P118",
+      "sol_range": [
+        117,
+        118
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You bastards try it yourselves…… It’s not like you’re going to scrub my back.”",
+      "baseline_paragraphs": "P121",
+      "baseline_range": [
+        120,
+        121
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "247",
+      "sol": "“You bastards try it yourselves… It’s not like you’re going to scrub my back.”",
+      "sol_paragraphs": "P119",
+      "sol_range": [
+        118,
+        119
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Nangong Family’s guards, each with the two characters **azure heaven** embroidered across his chest, blocked my way.",
+      "baseline_paragraphs": "P124",
+      "baseline_range": [
+        123,
+        124
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "253",
+      "sol": "The Nangong Family’s guards, each with the two characters for Azure Heaven embroidered across his chest, blocked my path.",
+      "sol_paragraphs": "P122",
+      "sol_range": [
+        121,
+        122
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Is this why people call them one of the Five Great Families?*",
+      "baseline_paragraphs": "P129",
+      "baseline_range": [
+        128,
+        129
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "263",
+      "sol": "*Is this why they’re counted among the Five Great Families?*",
+      "sol_paragraphs": "P127",
+      "sol_range": [
+        126,
+        127
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Perhaps he noticed my reaction, because one of the guards who looked the youngest let out a quiet laugh and spoke.",
+      "baseline_paragraphs": "P131",
+      "baseline_range": [
+        130,
+        131
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "267",
+      "sol": "Perhaps he noticed my reaction, because the youngest-looking guard let out a quiet laugh.",
+      "sol_paragraphs": "P129",
+      "sol_range": [
+        128,
+        129
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I suppressed my surprise and answered.",
+      "baseline_paragraphs": "P133",
+      "baseline_range": [
+        132,
+        133
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "271",
+      "sol": "",
+      "sol_paragraphs": "after P130",
+      "sol_range": [
+        130,
+        130
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Disarm myself? I don’t have any weapons on me.”",
+      "baseline_paragraphs": "P134",
+      "baseline_range": [
+        133,
+        134
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "273",
+      "sol": "I suppressed my surprise and answered, “Disarm myself? I don’t have any weapons on me.”",
+      "sol_paragraphs": "P131",
+      "sol_range": [
+        130,
+        131
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The problem was……",
+      "baseline_paragraphs": "P140",
+      "baseline_range": [
+        139,
+        140
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "285",
+      "sol": "The problem was…",
+      "sol_paragraphs": "P137",
+      "sol_range": [
+        136,
+        137
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It wasn’t a lie. I had become so accustomed to them that I could no longer find any reason to remove the iron balls.",
+      "baseline_paragraphs": "P144",
+      "baseline_range": [
+        143,
+        144
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "293",
+      "sol": "It wasn’t a lie. I had grown so accustomed to them that I saw no particular reason to remove the iron balls.",
+      "sol_paragraphs": "P141",
+      "sol_range": [
+        140,
+        141
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Well, then, I can’t help it either.”",
+      "baseline_paragraphs": "P147",
+      "baseline_range": [
+        146,
+        147
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "299",
+      "sol": "“Well, then I can’t help it either.”",
+      "sol_paragraphs": "P144",
+      "sol_range": [
+        143,
+        144
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Your Master would be……”",
+      "baseline_paragraphs": "P154",
+      "baseline_range": [
+        153,
+        154
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "313",
+      "sol": "“Your Master would be…”",
+      "sol_paragraphs": "P151",
+      "sol_range": [
+        150,
+        151
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No matter how vast the continent was, the Fire King Jeok Cheongang was one of the few Supreme Peak masters in the entire world, and everything he did attracted attention.",
+      "baseline_paragraphs": "P157",
+      "baseline_range": [
+        156,
+        157
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "319",
+      "sol": "No matter how vast the continent was, the Fire King Jeok Cheongang was one of only a handful of Supreme Peak masters under heaven, and his every move attracted attention.",
+      "sol_paragraphs": "P154",
+      "sol_range": [
+        153,
+        154
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The young guard furrowed his brow deeply as he looked back and forth between me and the iron balls. Then he abruptly spoke.",
+      "baseline_paragraphs": "P159",
+      "baseline_range": [
+        158,
+        159
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "323",
+      "sol": "The young guard furrowed his brow as he looked back and forth between me and the iron balls. Then he abruptly said, “We’ll have to cut them off.”",
+      "sol_paragraphs": "P156",
+      "sol_range": [
+        155,
+        156
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“We’ll have to cut them off.”",
+      "baseline_paragraphs": "P160",
+      "baseline_range": [
+        159,
+        160
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "325",
+      "sol": "",
+      "sol_paragraphs": "after P156",
+      "sol_range": [
+        156,
+        156
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even when I gave him an incredulous look, the young guard remained completely confident.",
+      "baseline_paragraphs": "P163",
+      "baseline_range": [
+        162,
+        163
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "331",
+      "sol": "Even when I gave him an incredulous look, the young guard remained perfectly confident.",
+      "sol_paragraphs": "P159",
+      "sol_range": [
+        158,
+        159
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The Nangong Family has its own laws. Great Hero Jeok will understand.”",
+      "baseline_paragraphs": "P164",
+      "baseline_range": [
+        163,
+        164
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "333",
+      "sol": "“The Nangong Family has its own rules. Great Hero Jeok will understand.”",
+      "sol_paragraphs": "P160",
+      "sol_range": [
+        159,
+        160
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“……Uh, I’m not sure he’ll understand that.”",
+      "baseline_paragraphs": "P165",
+      "baseline_range": [
+        164,
+        165
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "335",
+      "sol": "“……Uh, I don’t think he will.”",
+      "sol_paragraphs": "P161",
+      "sol_range": [
+        160,
+        161
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A phrase Jeok Cheongang had repeated like a habit in Fire Gate Cavern suddenly came to mind.",
+      "baseline_paragraphs": "P166",
+      "baseline_range": [
+        165,
+        166
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "337",
+      "sol": "Something Jeok Cheongang had always said in Fire Gate Cavern suddenly came to mind.",
+      "sol_paragraphs": "P162",
+      "sol_range": [
+        161,
+        162
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“This old man entered the Fire Gate Clan at the age of nine. If we assume that one hundred people began learning martial arts at that age…… I’m the only one among them who became as strong as I am now. So how did this old man come this far?”*",
+      "baseline_paragraphs": "P167",
+      "baseline_range": [
+        166,
+        167
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "341",
+      "sol": "*“This old man entered the Fire Gate Clan at the age of nine. Say a hundred people began learning martial arts at that age… This old man is the only one who grew as strong as I am now. So how do you think I came this far?”*",
+      "sol_paragraphs": "P163",
+      "sol_range": [
+        162,
+        163
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“I shoved aside bastards from the unorthodox factions, sent dark-path figures packing, and killed every bastard who set fires like a Demonic Cultist. In that spirit, add a hundred geun to the iron balls.”*",
+      "baseline_paragraphs": "P169",
+      "baseline_range": [
+        168,
+        169
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "345",
+      "sol": "*“I took down unorthodox bastards, sent dark-path bastards packing, and killed every fire-setting bastard who acted like a Demonic Cultist. In that spirit, add another hundred geun to the iron balls.”*",
+      "sol_paragraphs": "P165",
+      "sol_range": [
+        164,
+        165
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "사파",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "unorthodox faction"
+        },
+        {
+          "korean": "흑도",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "dark-path figures"
+        }
+      ]
+    },
+    {
+      "baseline": "A history of blood and violence.",
+      "baseline_paragraphs": "P170",
+      "baseline_range": [
+        169,
+        170
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "349",
+      "sol": "It was a history written in blood and violence.",
+      "sol_paragraphs": "P166",
+      "sol_range": [
+        165,
+        166
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I gave him my most sincere advice.",
+      "baseline_paragraphs": "P172",
+      "baseline_range": [
+        171,
+        172
+      ],
+      "hunk_id": "H086",
+      "korean_lines": "353",
+      "sol": "I offered him my most sincere advice.",
+      "sol_paragraphs": "P168",
+      "sol_range": [
+        167,
+        168
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The young guard shouted angrily and placed his hand on his sword hilt.",
+      "baseline_paragraphs": "P177",
+      "baseline_range": [
+        176,
+        177
+      ],
+      "hunk_id": "H087",
+      "korean_lines": "363",
+      "sol": "The enraged young guard placed his hand on his sword hilt.",
+      "sol_paragraphs": "P173",
+      "sol_range": [
+        172,
+        173
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Namgung Ryong, Family Head of the Nangong Family.",
+      "baseline_paragraphs": "P180",
+      "baseline_range": [
+        179,
+        180
+      ],
+      "hunk_id": "H088",
+      "korean_lines": "369",
+      "sol": "It was Namgung Ryong, Family Head of the Nangong Family.",
+      "sol_paragraphs": "P176",
+      "sol_range": [
+        175,
+        176
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 176,
+  "sol_sha256": "ec3a84a82ec753794a309b36367b6d0e0ff726b6891cce3c3dc7e76cd8b77158",
+  "version": 1
+}
