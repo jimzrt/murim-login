@@ -6,7 +6,7 @@ The first thing he saw upon waking was the small back of someone standing motion
 
 “When did you get here?”
 
-“About fifteen minutes ago, I suppose.”
+“About fifteen minutes ago.”
 
 “So, did you go see your proud Disciple?”
 
@@ -32,7 +32,7 @@ Hong Dao stretched. Cracks echoed from all over his body.
 
 “Don’t be so hard on me. We’re growing old together.”
 
-Jeok Cheongang turned around and shouted.
+Jeok Cheongang spun around and shouted.
 
 “Who says I’m old? You should have kept up with your martial-arts training. Look at me. Don’t I look spry enough to last another ten years?”
 
@@ -40,7 +40,7 @@ Hong Dao studied Jeok Cheongang, then rolled his prayer beads between his finger
 
 “Benefactor Jeok. May you be reborn in the Pure Land.”
 
-“Look at this damn bald monk!”
+“Listen to this damn bald monk!”
 
 Hong Dao let out a quiet laugh at his old friend’s reaction.
 
@@ -60,7 +60,7 @@ Jeok Cheongang’s face hardened. He could tell from Hong Dao’s expression and
 
 “The flow changed?”
 
-“The heavens are vast, yet ever-changing. Just as your star was beginning to lose its light, a Morning Star rose in the northern lands.”
+“The heavens are vast and ever-changing. Just as your star was beginning to lose its light, a Morning Star rose in the northern lands.”
 
 “…Jin Taekyung. So it was that boy.”
 
@@ -78,7 +78,7 @@ And then…
 
 The infirmities of old age were both the curse of passing years and an illness of the heart.
 
-When Jeok Cheongang was about to let go of the word *life*, a hand named Jin Taekyung reached out and caught it.
+Just as Jeok Cheongang was about to let go of life, a hand named Jin Taekyung reached out and caught it.
 
 And so Jeok Cheongang changed.
 
@@ -88,7 +88,7 @@ The more he watched that talkative, reckless boy, the more the ember lingering i
 
 To do that, he had to free himself from the infirmities of old age that gnawed at his mind with every passing moment.
 
-Over the past year, he had immersed himself more deeply in martial arts. He learned while teaching, and gained insight through contemplation.
+Over the past year, he had immersed himself even more deeply in martial arts. He learned by teaching and found enlightenment through reflection.
 
 Jin Taekyung was not the only one who had grown in the Fire Gate Cavern. Jeok Cheongang had taken another step forward as well.
 
@@ -100,29 +100,29 @@ Jeok Cheongang’s low voice echoed through the main hall.
 
 Hong Dao burst into hearty laughter.
 
-“That’s excessive greed. How long exactly do you intend to live?”
+“Such greed. Just how long do you intend to live?”
 
-“I don’t know. I’ll somehow keep dragging myself along and live.”
+“I don’t know. I’ll keep dragging myself along somehow.”
 
 “You’d have to undergo Bone Transformation about three times.”
 
-“Damn it. Then I’ll just have to settle for ten years. So you hang on until then, too. You still need to show that you’re going strong.”
+“Damn it. Then I’ll have to settle for ten years. So you hang on until then, too. You still need to show everyone you’re going strong.”
 
 Hong Dao silently rolled his prayer beads.
 
-“We are already waves that have flowed past. The Spear King, who was once so robust, and the Wave King, who was more spirited than anyone, have already left this world. The others have grown old enough, too. Someone whose whereabouts are unknown may already be dead.”
+“We are waves that have already passed. The Spear King, once so vigorous, and the Wave King, more spirited than anyone, have already left this world. Those of us who remain have grown old enough. Some whose whereabouts are unknown may already be dead.”
 
 The Ten Kings was the name given to the ten Supreme Peak masters who had swept across the Murim during the Great Faction War.
 
 Some had been worn away by time. Others had died at the hands of their enemies.
 
-Though they were called the Ten Kings, there were only eight in reality, and they were now old enough to prepare for death.
+Though they were called the Ten Kings, there had actually been only eight, and now they were old enough to prepare for death.
 
 Jeok Cheongang let out a low groan, then suddenly shouted.
 
 “Enough of that defeatist talk! What’s with all this gloom?”
 
-But Hong Dao opened his mouth with a peaceful expression.
+But Hong Dao’s expression remained serene.
 
 “Unnamed. I entrusted him with the Green Jade Buddha Staff last night.”
 
@@ -138,9 +138,9 @@ The Green Jade Buddha Staff was a sacred treasure handed down through Shaolin fo
 
 To Jeok Cheongang, Hong Dao looked like a man preparing to lay everything down and leave.
 
-“You bald monk. Are you, by any chance…”
+“You bald monk. Are you…?”
 
-Jeok Cheongang let the end of his sentence trail off, but what he meant to say was easy enough to guess.
+He trailed off, but the rest of the question was easy enough to guess.
 
 A faint smile touched Hong Dao’s lips.
 
@@ -160,7 +160,7 @@ Hong Dao picked up his wooden fish and began striking it. The clear notes echoed
 
 The three days of preliminary assessments had done their job admirably.
 
-Of the more than fifty thousand applicants, only 1 percent—barely five hundred people—had earned the right to advance to the main event.
+Of the nearly fifty thousand applicants, only one percent—a mere five hundred people—had earned the right to advance to the main event.
 
 The organizers gathered them all in one place.
 
@@ -172,17 +172,17 @@ Naturally, I was among them.
 
 “What does age matter? Martial talent is what counts. Still, he’s incredible. He’s come this far after becoming the Fire King’s Disciple only a year ago…”
 
-“For fuck’s sake. Is he supposed to have a Heavenly Martial Physique or something?”
+“For fuck’s sake. Does he have the Heavenly Martial Physique or something?”
 
 I turned toward the voice. A man who looked to be in his early thirties flinched, then quietly avoided my gaze.
 
-He must have thought I was going to say something to him, but he had read me completely wrong.
+He must have thought I was going to confront him, but he had me completely wrong.
 
 *The guy’s got good instincts.*
 
 The System’s possibilities were endless. My Muscles and Bones, which had already been so exceptional that Jeok Cheongang called them the Heavenly Martial Physique, had developed even further during my training on Mount Jiuhua.
 
-Eventually, even Jeok Cheongang had shaken his head again and again.
+Eventually, even Jeok Cheongang could only shake his head.
 
 “Monster. Just how much higher do you intend to climb?”
 
@@ -198,7 +198,7 @@ Acting cocky had only made me suffer more, but in the end, every bit of it had h
 
 After all, hard work—no, the System—never betrayed me.
 
-The System paid out points and EXP with perfect precision, and my basic stats were absurdly high, so any martial art I used was several times more effective.
+The System paid out points and EXP with perfect precision, and my basic stats were absurdly high, so every martial art I used was several times more effective.
 
 *That was how I managed to beat three of the Ten Dragons and Phoenixes, each among the best in their respective fields.*
 
@@ -210,7 +210,7 @@ I couldn’t decide whether that made him simple or smart, but he was definitely
 
 On the other hand…
 
-“Alas, the martial world’s sense of decency has fallen to the ground. How could such a frivolous and violent man gain power? Oh, heavens!”
+“Alas, all decency has vanished from the martial world. How could such a frivolous and violent man possess such power? Oh, heavens!”
 
 “You bastard who’d mix rice with dog shit and eat it.”
 
@@ -218,23 +218,23 @@ On the other hand…
 
 Those three were simply beyond saving.
 
-I had been listening to their endless muttering from behind me when I spun around.
+After listening to them mutter endlessly behind me, I spun around.
 
 “Hey, you three idiots.”
 
-Their muttering stopped dead at my call.
+Their muttering stopped dead.
 
 A moment later, the three idiots snapped their heads up and expressed their anger one after another, each in his own way.
 
-“Alas, an idiot? How vulgar.”
+“Alas, idiots? How vulgar.”
 
 The Daoist in spotless white robes was Baek Woo, the Kunlun Cloud Dragon. I had sent him plummeting during the third assessment by stepping on his face.
 
-I learned later that he had severe cleanliness issues and spent two shichen showering as soon as the assessment ended.
+I later learned that he was a severe clean freak and had spent two entire shichen bathing as soon as the assessment ended.
 
 “I’ll stuff shit into your mouth, you bastard.”
 
-Unlike Baek Woo, whose mere presence suggested cleanliness, this man reeked of piss and was a beggar to the bone.
+Unlike Baek Woo, this guy looked as though he reeked of piss. He was a beggar to the bone.
 
 Born and raised in the Beggars’ Sect, he had eventually risen to the position of Successor Beggar—the man who would one day lead the sect.
 
@@ -248,17 +248,17 @@ During the fourth assessment, Gung Gibang had grabbed me by the back of the neck
 
 The last was Zhuge Gyun, the Divine Marvel Dragon of the Zhuge Clan.
 
-He wore the neat clothes of a scholar and a tidy hero’s headband. Judging by his clothes alone, he looked like the most sane of the three.
+He wore the neat robes of a scholar and a tidy hero’s headband. Judging by his clothes alone, he looked like the sanest of the three.
 
-That was only natural, considering he was wedged between a cleanliness-obsessed Daoist who couldn’t stand a single speck of dust on his clothes and a beggar who looked as though he would happily eat filth even if it splashed into his mouth.
+That was only natural when he stood between a clean-freak Daoist who couldn’t tolerate a single speck of dust on his clothes and a beggar who looked as though he would happily eat filth even if it splashed into his mouth.
 
-But as I had guessed, he was no ordinary eccentric.
+But as anyone could have guessed, he was no ordinary eccentric either.
 
-He had expressed considerable regret over losing in the mechanisms-and-formations assessment, the fifth one.
+He had expressed considerable displeasure over losing the fifth assessment, mechanisms and formations.
 
 *Just look at this lineup…*
 
-A group more stacked than Manchester United’s squad under Sir Alex Ferguson.
+A roster more stacked than Manchester United under Sir Alex Ferguson.
 
 Seeing the three of them lined up together made my breath catch and my vision go dark. I took a moment to compose myself before speaking.
 
@@ -266,13 +266,13 @@ Seeing the three of them lined up together made my breath catch and my vision go
 
 “Alas, did you just say ‘shut your mouths’? Fellow Daoist Jin Taekyung, how can every word out of your mouth be so vulgar?”
 
-“A bastard who wouldn’t feel satisfied even after being rolled up in a mat, hung from a post, and beaten with a dog cudgel for forty-five days.”
+“You bastard who wouldn’t learn his lesson even if you were rolled up in a mat, hung up, and beaten with a dog cudgel for forty-five days.”
 
 “‘Shut your mouths. Stop chattering…’ Those are not expressions commonly used in our family. I am personally quite curious, so could you write down some of the words you often use and give me a copy?”
 
 “……”
 
-I wanted to beat the crap out of all three of them.
+God, I wanted to beat the crap out of all three of them.
 
 Lamenting the fact that reality wouldn’t allow it, I addressed the three idiots.
 
@@ -292,7 +292,7 @@ Then it happened.
 
 Click. Click.
 
-The sound of something hard striking the floor pierced everyone’s ears.
+The sound of something hard striking the floor reached everyone’s ears.
 
 An old man soon appeared on the dais, one leg fitted with a wooden prosthetic.
 
