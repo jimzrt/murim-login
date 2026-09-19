@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "So is the eastern one the Dongting Forever Alone, and the northern one the North Korean Kim?",
+      "defect": "The draft misreads 동정 as Dongting. Here 동정 means “virgin” and combines with 모쏠, someone who has never dated, to form an insulting east-themed nickname.",
+      "id": "F01",
+      "rationale": "The joke invents mocking titles beginning with the relevant cardinal-direction syllables. Referring to Dongting Lake removes the sexual insult and changes the joke’s meaning.",
+      "replacement": "So is the eastern one the East Virgin Forever-Alone, and the northern one North Korea’s Kim?",
+      "severity": "major",
+      "source": "그래서 동쪽은 동정모쏠이고 북쪽은 북괴김씨냐?"
+    },
+    {
+      "confidence": 0.98,
+      "current": "The Western Heaven Demon Lord was already a monster I had barely managed to capture after narrowly surviving death several times. And there were at least three more like him?",
+      "defect": "“Capture” states that the Western Heaven Demon Lord was taken alive or detained. In context, 잡은 means that Taekyung barely managed to defeat or take him down.",
+      "id": "F02",
+      "rationale": "The current wording changes the outcome of the earlier confrontation and therefore a scene fact; “take down” preserves the contextual sense without adding certainty about his ultimate fate.",
+      "replacement": "The Western Heaven Demon Lord was already a monster I had barely managed to take down after several brushes with death. And there were at least three more like him?",
+      "severity": "critical",
+      "source": "서천마군도 죽을 고비를 몇 번이나 넘긴 끝에 겨우 잡은 괴물인데, 그런 연놈들이 최소 셋이나 더 있다니."
+    },
+    {
+      "confidence": 0.93,
+      "current": "Then again, a five-hundred-year-old imugi would certainly qualify as a divine being.",
+      "defect": "“Divine being” overstates 신령스러운 존재 by making the imugi a deity rather than a mystical or spiritually potent creature.",
+      "id": "F03",
+      "rationale": "신령스럽다 denotes supernatural or numinous qualities here, not literal divinity.",
+      "replacement": "Then again, a five-hundred-year-old imugi would certainly qualify as a mystical being.",
+      "severity": "minor",
+      "source": "하긴, 오백 년 묵은 이무기라면 확실히 신령스러운 존재긴 하지."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“You’re talking about a fucking bastard who wouldn’t be worth the satisfaction of burning alive. How dare you spout that demonic drivel in front of whom?”",
+      "defect": "“In front of whom?” is ungrammatical and fails to convey Jeok Cheongang’s imperious rhetorical question about whom she is speaking before.",
+      "id": "F04",
+      "rationale": "뉘 앞에서 challenges her for speaking that way in Jeok Cheongang’s presence, while 요설을 놀리다 is an accusation of recklessly wagging a deceptive or wicked tongue.",
+      "replacement": "“You’re talking about a fucking bastard who wouldn’t be worth the satisfaction of burning alive. How dare you wag that wicked tongue before this old man?”",
+      "severity": "minor",
+      "source": "산 채로 태워 죽여도 시원찮을 개호로 새끼겠지. 감히 뉘 앞에서 함부로 요설(妖舌)을 놀리느냐."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Then should this old man add a woman, rather than a man, to the kill list? What do you think?”",
+      "defect": "The neutral “woman” and “man” sanitize the deliberately insulting contrast between 년 and 놈, weakening Jeok Cheongang’s voice and the setup for Taekyung calling him a feminist.",
+      "id": "F05",
+      "rationale": "The source uses paired gendered insults, not neutral nouns. Their equal hostility is the basis of the ensuing feminist joke.",
+      "replacement": "“Then how about this old man adds a bitch instead of a bastard to his kill list? What do you think?”",
+      "severity": "major",
+      "source": "하면 지금껏 노부가 써 내려간 살생부에 놈이 아니라 년을 포함시킬까 하는데, 어찌 생각하느냐?"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Feminist? What is that?”",
+      "defect": "Jeok Cheongang already mangles the unfamiliar word as 패미비수타 here. Correctly pronouncing “feminist” loses the joke and conflicts with his later repetition of “femibista.”",
+      "id": "F06",
+      "rationale": "The deliberate mispronunciation must begin on this line and remain consistent when he proudly reuses it.",
+      "replacement": "“Femibista? What’s that?”",
+      "severity": "minor",
+      "source": "“패미비수타? 그게 뭐냐?”"
+    },
+    {
+      "confidence": 0.95,
+      "current": "*Oh, shit. Should I stop him before the Flame-Extinguishing Divine Fist turns into the Feminist Fist?*",
+      "defect": "The draft adds profanity absent from the brief deadpan interjection 어, unnecessarily intensifying the line before the wordplay.",
+      "id": "F07",
+      "rationale": "어 is a short hesitation or realization here. The source’s humor comes from Taekyung’s deadpan concern and the fist-name pun, not an added expletive.",
+      "replacement": "*Uh. Should I stop him now before the Flame-Extinguishing Divine Fist turns into the Feminist Fist?*",
+      "severity": "minor",
+      "source": "어. 멸염신권이 페미권이 되기 전에 지금이라도 말려야 되나."
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it mistranslates one cardinal-direction joke, changes the Western Heaven Demon Lord’s defeat into a capture, weakens gendered profanity central to the feminist joke, and contains several localized register or wording defects.",
+  "version": 1
+}
