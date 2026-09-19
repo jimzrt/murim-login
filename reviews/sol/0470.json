@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Cheongpung was no exception. He had the Dongting Fisherman and the old boatman tucked beneath either arm, both of them unconscious again after leaving their warning.",
+      "defect": "The draft makes both men issue a warning and then lose consciousness again. The warning and subsequent loss of consciousness describe the Dongting Fisherman; the source does not attribute those actions to the old boatman.",
+      "id": "F01",
+      "rationale": "The modifier 경고를 남기고 재차 혼절한 identifies the Dongting Fisherman as the person who gave the warning and then passed out again.",
+      "replacement": "Cheongpung was no exception. He had the Dongting Fisherman, who had passed out again after giving his warning, tucked under one arm and the old boatman under the other.",
+      "severity": "critical",
+      "source": "경고를 남기고 재차 혼절한 동정어옹과 늙은 사공을 각각 양 옆구리에 낀 청풍 역시 예외는 아니었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "It shot toward the bizarre boulder, which must have spent countless ages as part of the cliff, repeatedly accumulating layers and weathering away.\n\n*Split apart.*\n\n*Schk!*\n\nForce was a concentrated manifestation of energy capable of cutting steel like soft tofu. The bizarre boulder caught in the arc traced by my spearhead broke into pieces and began to fall.",
+      "defect": "The draft changes multiple falling boulders into a single boulder, reducing the scope of Taekyung’s defensive strike.",
+      "id": "F02",
+      "rationale": "The plural 기암괴석들이 explicitly states that multiple boulders were caught in the spear’s arc, shattered, and fell.",
+      "replacement": "It shot toward the bizarre boulders, which must have spent countless ages as part of the cliff, undergoing layer after layer of deposition and weathering.\n\n*Split apart.*\n\n*Schk!*\n\nForce was a concentrated manifestation of energy capable of cutting steel like soft tofu. The bizarre boulders caught in the arc traced by my spearhead broke into pieces and began to fall.",
+      "severity": "critical",
+      "source": "까마득한 세월 동안 절벽의 일부로 퇴적과 풍화를 반복했을 기암괴석을 향해 쏘아졌다.\n\n‘갈라져라.’\n\n서걱!\n\n강기는 강철도 순두부처럼 베어 버리는 기운의 집약체. 창날이 그리는 궤적에 걸려든 기암괴석들이 조각남과 동시에 추락했다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "A wall of water more than ten *jang* high surged into the air, and a dark body far larger and denser than the bizarre boulders blocked out the blackened sky.",
+      "defect": "“Denser” changes the visual adjective 짙고 into a claim about physical density.",
+      "id": "F03",
+      "rationale": "Here 짙고 describes the body’s intense darkness, not its material density.",
+      "replacement": "A wall of water more than ten *jang* high surged into the air, and a body far darker and larger than the bizarre boulders blocked out the blackened sky.",
+      "severity": "minor",
+      "source": "십여 장에 달하는 물의 장벽이 솟구침과 동시에, 기암괴석과는 비교도 안 될 만큼 짙고 거대한 동체가 검게 물든 하늘을 가렸다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Hey, you sibu-leol eel bastard!”",
+      "defect": "The draft substitutes the transliterated profanity “sibu-leol,” which corresponds to 씨부럴 and is not present here. This intensifies and alters the familiar speaker’s voice.",
+      "id": "F04",
+      "rationale": "빌어먹을 is naturally conveyed as “goddamn,” while 새끼 supplies the insulting “bastard.”",
+      "replacement": "“Hey, you goddamn eel bastard!”",
+      "severity": "major",
+      "source": "“야, 이 빌어먹을 뱀장어 새끼야!”"
+    }
+  ],
+  "summary": "Two scene-fact errors alter who issued the warning and how many boulders Taekyung destroyed; two localized wording errors change the creature’s appearance and substitute profanity absent from the source.",
+  "version": 1
+}

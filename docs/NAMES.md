@@ -1554,3 +1554,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 수신룡 | **Water God Dragon** | Legendary name for the true master of Dongting Lake; distinct from the modern Sea Serpent. |
 | 시 서펜트 | **Sea Serpent** | Modern top-tier marine monster resembling, but distinct from, the emerged Water God Dragon. |
 | 몬스터 대백과 | **Monster Encyclopedia** | Modern reference work documenting high-level monsters. |
+| 타락한 영물 | **Corrupted Spirit Beast** | System Quest title targeting the Mutated Water God Dragon. |
