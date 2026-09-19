@@ -4,7 +4,7 @@
 
 I hadn’t expected that.
 
-The voice from behind me sent a chill through my mind, as though someone had dumped ice water over my head.
+The voice behind me turned my thoughts cold, as though I’d been plunged into ice.
 
 *When did he get there?*
 
@@ -30,7 +30,7 @@ The middle-aged man before me was a Supreme Peak master beyond anything I could 
 
 “Young man, you’ve got good instincts. Better than I expected.”
 
-The middle-aged man looked me over with interest, then suddenly tilted his head.
+The middle-aged man looked me over with interest, then tilted his head.
 
 “Or is it because you recognize my face?”
 
@@ -40,7 +40,7 @@ His appearance had shaken me badly.
 
 I tried my best to look calm, but I couldn’t hide the crack in my voice or the tremor in my eyes.
 
-“Well, it’s not as if my face has only been plastered around once or twice.”
+“Well, it’s not as though my face has only been in the news once or twice.”
 
 The middle-aged man nodded as if it were nothing and strode forward.
 
@@ -62,13 +62,13 @@ A powerful man who wielded absolute authority over Ares Guild in place of its Gu
 
 Ares Guild was said to rank among the top five Guilds in the world. Its influence over Hunters was immense, to say nothing of politics and the economy.
 
-People even said that Korea had two Blue Houses.
+There was a reason people said Korea had two Blue Houses.
 
 Why had someone so powerful appeared here of all places, at this exact moment?
 
 *Fuck. It’s obvious.*
 
-Suddenly, the conversation I’d had with Park Tae Seop flashed through my mind.
+The conversation I’d had with Park Tae Seop flashed through my mind.
 
 *Who is he? That bastard earlier only called him “that person.”*
 
@@ -110,7 +110,7 @@ And I hated snakes.
 
 “I’m sorry, but I don’t have a hand free right now.”
 
-“Is that really a problem? Just put down whatever you’re holding and it’ll be easily resolved.”
+“Why should that be a problem? Simply put down what you’re holding.”
 
 “I can’t drop a problem that needs to be dealt with right now just for a handshake.”
 
@@ -120,7 +120,7 @@ Swish.
 
 With a faint sound, thin lines of blood appeared across Park Tae Seop’s and Park Jihoon’s throats.
 
-The two men had closed their eyes and pressed their lips tightly together the moment Lee Jungryong appeared. Even so, I could sense something like resolve from them.
+The two men had closed their eyes and pressed their lips tightly together the moment Lee Jungryong appeared. I could sense something like resolve from them.
 
 “I hear you’re quite close with these two gentlemen. Why don’t you at least say hello?”
 
@@ -140,7 +140,7 @@ Park Tae Seop, Guild Master of Myeongdong Guild, bit his lip before answering.
 
 “I don’t know what sort of misunderstanding there has been, but surely it can be settled through conversation. And who is that young man beside you?”
 
-“He’s a member of my Guild. He’s been with us ever since he completed his training center course.”
+“He’s a member of my Guild. He’s been with us ever since he completed his training.”
 
 Park Jihoon spoke in a trembling voice.
 
@@ -164,7 +164,7 @@ The old lizard, already prepared to cut off its tail, smiled gently at me.
 
 I let out a hollow laugh.
 
-“By ‘exchanging greetings,’ do you mean secretly sending Black Hunters to cut off the arm of some innocent person?”
+“By ‘exchanging greetings,’ do you mean secretly sending Black Hunters to cut off an innocent man’s arms?”
 
 “Black Hunters? Enough. Your delusions are getting out of hand. In any case, regarding Guild Master Park…”
 
@@ -246,7 +246,7 @@ A tiger blocking my path. A predator with teeth and claws capable of killing a w
 
 “Yes. For example…”
 
-I continued slowly as I looked at Lee Jungryong.
+I held Lee Jungryong’s gaze as I continued.
 
 “What if that tiger was the bastard who badly hurt the wolf’s friend? Something like that.”
 
@@ -268,7 +268,7 @@ Lee Jungryong shrugged.
 
 “You’d understand if you watched a documentary about wolves. Their loyalty is no joke.”
 
-“But it would be reckless.”
+“But he’d be reckless.”
 
 “Why?”
 
@@ -292,7 +292,7 @@ Watching his face stiffen felt like finally dislodging the formula that had been
 
 “You’re irritating. More than I expected.”
 
-After a brief silence, he spoke again.
+The words came after a brief silence.
 
 Lee Jungryong slowly withdrew the hand he had kept extended until now.
 
@@ -306,7 +306,7 @@ I answered without hesitation.
 
 “Yes. I want one person’s life.”
 
-Park Jihoon’s neck twitched.
+Park Jihoon flinched.
 
 A tremor traveled through the dagger pressed against his throat. He hadn’t made a sound since Lee Jungryong appeared, but now he was trembling with fear of death.
 
@@ -318,7 +318,7 @@ A tremor traveled through the dagger pressed against his throat. He hadn’t mad
 
 “I’m short on basic decency, so I can’t rest until I’ve paid back at least as much as I received.”
 
-“Your demand is excessive. The compensation should already be more than enough.”
+“Your demand is excessive. You’ve already been offered more than enough compensation.”
 
 “Who settles for getting back the principal? I want the interest too—compound interest.”
 
@@ -328,11 +328,11 @@ A tremor traveled through the dagger pressed against his throat. He hadn’t mad
 
 “……!”
 
-“Tiger hide or not, do you really think a wolf’s teeth won’t sink into it?”
+“Tiger hide or not, do you really think a wolf’s teeth can’t sink into it?”
 
-Lee Jungryong’s gaze sank heavily as he looked at me.
+Lee Jungryong’s gaze grew heavy.
 
-In the strangely tranquil silence, his mouth slowly opened.
+In the strange, utter silence, his lips slowly parted.
 
 “You truly don’t know how frightening a tiger can be.”
 
@@ -344,7 +344,7 @@ Only five steps separated us. I made my decision in an instant.
 
 *White Flame. Unequip.*
 
-As White Flame was stored in my Inventory, I thrust out my freed right hand.
+As White Flame vanished into my Inventory, I thrust out my newly freed right hand.
 
 Disperse, compress, release.
 
@@ -364,7 +364,7 @@ I danced three steps backward and coughed up a mouthful of blood surging from de
 
 “Cough!”
 
-Through the pale dust falling from the ceiling, I saw Lee Jungryong standing firmly in place.
+Through the pale dust drifting from the ceiling, I saw Lee Jungryong standing rooted to the spot.
 
 “You…”
 
@@ -394,7 +394,7 @@ Lee Jungryong stared wide-eyed at me as I swallowed the blood in my mouth, gripp
 
 *That method?*
 
-He was probably referring to an internal energy cultivation technique in those terms.
+He was probably referring to an internal cultivation technique.
 
 I was about to answer, but instead I bared my bloodstained teeth in a grin.
 
@@ -404,15 +404,17 @@ At the same time, I plunged the dagger into Park Jihoon’s chest.
 
 Shnk. Shnk-shnk-shnk!
 
-A scream burst from his mouth along with a spray of blood.
+A scream tore from his blood-spattered mouth.
 
 “Aaaaargh! Master!”
 
-I’d wondered how this bastard knew about it. Now I saw—they were master and Disciple.
+I’d wondered how this bastard had learned that technique. Now I understood.
+
+They were master and Disciple.
 
 “Stop!”
 
-Even as he shouted, Lee Jungryong couldn’t easily take a step forward.
+Even as he shouted, Lee Jungryong couldn’t bring himself to step forward.
 
 Every time he tried, I pressed the dagger tight against Park Jihoon’s throat.
 
@@ -426,7 +428,7 @@ Without hesitation, I drove the dagger down again and again. I hacked indiscrimi
 
 Slash!
 
-I cut down along his calf and severed the tendons in his ankle. Then I straightened my back, which I had briefly bent, and slashed diagonally upward through his shoulder.
+I dragged the blade down his calf and severed the tendons in his ankle. Then, as I straightened from my crouch, I slashed diagonally upward and sheared off one arm at the shoulder.
 
 Slash! SPLASH!
 
@@ -436,7 +438,7 @@ A horrific scream.
 
 Uncle Kkeokjeong must have screamed like that too. He must have passed out from the unbearable pain and woken again, over and over, screaming each time.
 
-And that wasn’t all. The wife who saw her husband return without both arms had her heart butchered as well.
+And it hadn’t ended there. The heart of the wife who saw her husband return without his arms had been butchered too.
 
 “Save your screams. There’s still one left.”
 
@@ -470,7 +472,7 @@ I hurled him aside.
 
 Thud.
 
-Lee Jungryong picked up the sprawled man in his arms. His eyes burned fiercely.
+Lee Jungryong caught the crumpled man and lifted him into his arms, his eyes blazing.
 
 “You bastard!”
 
