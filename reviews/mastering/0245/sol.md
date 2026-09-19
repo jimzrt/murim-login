@@ -6,7 +6,7 @@ The deafening roar of tens of thousands of martial artists made my ears ring.
 
 They had gathered here to attend the Star-Array Grand Banquet, each carrying dreams of rising to prominence, and their cheers seemed endless.
 
-The noise, which seemed as though it would never end, gradually died down the moment Dharma King Hong Dao raised his hand.
+The clamor died away the moment Dharma King Hong Dao raised his hand.
 
 In that hand was the Green Jade Buddha Staff, the symbol of a thousand years of Shaolin. Shaolin Temple was the Mount Tai and Northern Dipper of the Murim, and its immense authority silenced the crowd.
 
@@ -54,7 +54,7 @@ Dark Heaven. A powerful enemy that had yet to reveal its true nature.
 
 I looked at the old man standing to Hong Dao’s right.
 
-His small frame was noticeably different from Hong Dao’s, yet he gave off an overwhelming presence. Jeok Cheongang somehow spotted me and flashed a crooked grin.
+Despite his conspicuously small frame, he radiated an overwhelming presence. Jeok Cheongang somehow spotted me and grinned.
 
 He looked visibly older than he had a year ago. My chest churned before I knew it.
 
@@ -64,13 +64,13 @@ He looked visibly older than he had a year ago. My chest churned before I knew i
 
 *Especially if you run into some bastard with the surname Peng. Beat the shit out of him. Break him and tear him apart!*
 
-A cold wind swept through my queasy chest.
+A chill swept through the chest that had been churning moments ago.
 
 One dose of the Fire King’s motion-sickness medicine, delivered through Sound Transmission, cured me completely. I quietly looked away.
 
 Until I arrived, I had been fairly confident. But seeing the sheer number of martial artists with my own eyes made it difficult to guarantee victory.
 
-*I’d better not answer. If I give him a definite answer and then lose, he’ll ride my ass even more.*
+*Better not answer. If I promise to win and then lose, he’ll ride my ass even harder.*
 
 In any case, the opening address was over, so the preliminaries would begin soon.
 
@@ -86,29 +86,29 @@ I had wondered why he had come all the way here from some remote backwater. Appa
 
 *With his skills, he should make it pretty far.*
 
-I considered saying hello, but decided against it. It seemed like it would only become a hassle.
+I considered saying hello, but decided against it. He would only become a nuisance again.
 
-Instead, I sent a greeting to the guy standing blankly and looking around, one he could not hear.
+Instead, I silently greeted him as he stood there blankly looking around.
 
 *Yeah. Good luck to you too.*
 
-And prayed that, if possible, he wouldn’t run into me.
+And I prayed he wouldn’t run into me.
 
 * * *
 
 “I like duels. There are winners and losers, but no draws. What could be more clear-cut than that?”
 
-The middle-aged man muttered in a relaxed voice.
+The middle-aged man spoke in a leisurely voice.
 
-A pair of glasses imported from the Western Regions rested on his nose. They had the marvelous ability to make objects appear several times larger, which naturally made them extremely expensive.
+A pair of glasses imported from the Western Regions rested on his nose. They possessed the wondrous ability to make objects appear several times larger, and their price was just as extraordinary.
 
-“That’s why people bet money on them. The result is certain.”
+“That’s why everyone bets on them. The outcome is certain.”
 
 Gambling was an inseparable part of the Star-Array Grand Banquet.
 
 From the preliminaries, which filtered out the unqualified among tens of thousands of applicants, to the finals, hundreds of duels would be held.
 
-For that reason, the Star-Array Grand Banquet was not only a feast for the martial artists of the world. It was also the greatest season of the year for gamblers across the continent.
+For that reason, the Star-Array Grand Banquet was both a feast for the martial artists of the world and the biggest event in the gambling world.
 
 “So, who would you like to bet on, and how much?”
 
@@ -118,15 +118,15 @@ The bald man sitting across from the middle-aged man asked the question. At a gl
 
 “We have a lot of customers waiting.”
 
-“I see. Well, let’s see…”
+“Fine. Let’s see…”
 
 After a moment’s pause, the middle-aged man pulled a money pouch from his robes and tossed it onto the table.
 
-Unable to withstand the weight, the pouch opened, and gleaming silver yuanbao spilled across the tabletop with a clatter.
+The heavy pouch fell open, spilling gleaming silver yuanbao across the tabletop with a clatter.
 
 “A thousand silver nyang on the Iron-Water Divine Dragon of the Yangtze River Channel League.”
 
-“……”
+“……!”
 
 It was an enormous sum.
 
@@ -258,7 +258,7 @@ More than a hundred applicants followed their assigned supervisor. Naturally, I 
 
 Not only were they numerous, but they came in every possible variety.
 
-There were skinny people and fat people, fresh-faced youths with downy hair and wandering martial artists who looked as though they had been through every hardship imaginable. There were women who immediately drew the eye and handsome men with flawlessly smooth features.
+There were skinny people and fat people, fresh-faced youths with peach fuzz and wandering martial artists who looked as though they had been through every hardship imaginable. Some women immediately drew the eye, while some men were strikingly handsome.
 
 A hundred people, a hundred different appearances. The saying fit perfectly.
 
@@ -294,13 +294,13 @@ Norway answered.
 
 “Oh, I’m sorry.”
 
-“You little shit, are you picking a fight with me right now?”
+“You little shit. Are you picking a fight with me?”
 
 A hearty stream of curses and the gazes of everyone around us came flying my way.
 
 Just as I was about to answer, the supervisor shouted sternly.
 
-“Anyone who causes trouble will be forcibly disqualified!”
+“Anyone who causes trouble will be disqualified!”
 
 Norway opened and closed his mouth like a salmon as he glared at me.
 
@@ -320,7 +320,7 @@ He looked to be in his twenties, yet he was already a formidable opponent. My pu
 
 *The world really is wide.*
 
-If the preliminaries were already this intense, genuine monsters might come crawling out during the main event. Remembering Jeok Cheongang’s warning, I steeled my resolve.
+If the preliminaries were already like this, genuine monsters might appear in the main event. Remembering Jeok Cheongang’s warning, I steeled my resolve.
 
 * * *
 
@@ -336,7 +336,7 @@ Whack! Crack!
 
 “Graaagh!”
 
-A foolish martial artist with his wrist twisted rolled across the ground. The supervisor sighed and broke a bamboo marker.
+A foolish martial artist rolled across the ground, clutching his bent wrist. The supervisor sighed and snapped a bamboo marker.
 
 “Jangyu of the Butterfly Sect, eliminated. Next!”
 
@@ -344,9 +344,9 @@ The next martial artist stepped forward and punched the cliff.
 
 Boom!
 
-This martial artist was around the First Rate level. At least he knew how to put internal energy behind his strike.
+This one was around the First Rate level. At least he knew how to channel internal energy into his strike.
 
-A clear mark appeared on the cliff, which was a hard-packed mixture of roughly equal parts rock and soil.
+A distinct mark appeared on the cliff, which was formed from a densely packed mixture of rock and soil.
 
 The supervisor measured its depth and width, then nodded.
 
@@ -362,7 +362,7 @@ Then he called a name.
 
 “Jin Taekyung of the Jin Family of Taiyuan.”
 
-As the gazes of the people around me turned toward me, a System notification rang out.
+As every gaze turned toward me, a System notification rang out.
 
 Ding.
 
