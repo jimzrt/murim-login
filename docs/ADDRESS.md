@@ -751,3 +751,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 최 팀장 | 진태경 씨 | team_leader_to_managed_hunter | Mr. Jin Taekyung | polite and professional | Choi assures Taekyung that he will continue supporting him. |
 | 진태경 | 스켈레톤 킹 | ally_to_ally | Hey | casual and teasing | Taekyung teases the Skeleton King while ordering him to join Peace Guild. |
 | 스켈레톤 킹 | 진태경 | ally_to_ally | you, vile human | grandiose and mock-offended | The Skeleton King protests Taekyung's coercive guild arrangement. |
+| 팀원 | 석고준 | subordinate security-team member to security-team leader | Team Leader | fearful formal-polite | The team member repeatedly addresses Go Jun as 팀장님 while reporting the strange object. |
+| 조사단장 | 박 선생 | investigation-team head to Ares security-team employee | Mr. Park | polite and familiar | The investigation-team head uses 박 선생 during their covert phone call. |
