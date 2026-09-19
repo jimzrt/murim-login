@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Mungyeong answered that it had not. Young Hero Gung joined me in questioning him, but for some reason, he fell asleep on the spot. He must have been tired.\n\nBut why does he have a bruise on his forehead?",
+      "defect": "The draft makes an unspecified man fall asleep and have the bruise. The omitted first-person subject is Hyuk Mujin: Gung joins his questioning, then Mujin loses consciousness and later notices the bruise on his own forehead.",
+      "id": "F01",
+      "rationale": "The diary's continuing first-person viewpoint and the shift from 궁 소협도 합세해서 to the omitted subject establish Mujin as the person who falls asleep and discovers the bruise.",
+      "replacement": "Mungyeong answered that it had not. Young Hero Gung joined me in questioning him, but for some reason, I fell asleep on the spot. I must have been tired.\n\nBut why do I have a bruise on my forehead?",
+      "severity": "critical",
+      "source": "문경은 아니라고 대답했다. 궁 소협도 합세해서 함께 물어보고 있었는데, 어째서인지 그대로 잠들어 버렸다. 피곤했던 모양이다.\n\n그런데 왜 이마에 피멍이 들어 있지?"
+    },
+    {
+      "confidence": 0.98,
+      "current": "I was stunned once by the imugi’s enormous size, and twice by the Captain’s butchering skills.",
+      "defect": "The draft sanitizes 지렸다 into “was stunned,” losing the deliberate pants-soiling joke that recurs throughout the diary.",
+      "id": "F02",
+      "rationale": "지리다 is intentionally crude here, and 한 번… 두 번 escalates the chapter’s repeated joke about Mujin and Gung soiling themselves.",
+      "replacement": "I shit myself once at the imugi’s enormous size, then a second time at the Captain’s butchering skills.",
+      "severity": "major",
+      "source": "이무기의 거대함에 한 번 지리고, 조장님의 도축 솜씨에 두 번 지렸다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“What else? Rocks?”\n\n“Honestly. What can’t we block?”",
+      "defect": "The second line loses its subject and no longer answers the suggestion of using rocks. Mujin is arguing that rocks could also block the gap, which prompts Gung Gibang’s explanation that this would not solve the underlying problem.",
+      "id": "F03",
+      "rationale": "못 막을 건 또 뭡니까 refers directly back to 바위로 막다, not to an abstract collective ability to block things.",
+      "replacement": "“What else? Rocks?”\n\n“Oh, come on. Why couldn’t we block it with rocks?”",
+      "severity": "major",
+      "source": "“그럼 바위로 막겠냐?”\n\n“참나. 못 막을 건 또 뭡니까.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "In exchange, his personality has grown sharper, and his footsteps have become as silent as a ghost’s.\n\nHe made so little noise that he caught me insulting him along with Young Hero Gung and beat us within an inch of our lives.",
+      "defect": "The draft reduces 기척—the detectable presence of a martial artist—to ordinary noise and awkwardly makes his footsteps themselves silent. The later dialogue explicitly treats sensing the Captain’s presence as a Supreme Peak feat.",
+      "id": "F04",
+      "rationale": "걸음걸이가 유령처럼 변했다 describes ghostlike movement, while 기척을 내지 않는다 means that he betrays virtually no detectable presence, not merely that he walks quietly.",
+      "replacement": "Instead, his temper has grown sharper, and he moves like a ghost.\n\nHe gives off so little sign of his presence that he caught Young Hero Gung and me bad-mouthing him and beat us within an inch of our lives.",
+      "severity": "major",
+      "source": "그 대신 성격이 좀 날카로워지셨고, 걸음걸이가 유령처럼 변했다.\n\n어찌나 기척을 내지 않는지, 궁 소협과 조장님 욕을 하다가 걸려서 뒈지게 얻어맞았다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Young Hero Cheongpung? Don’t even bring him up. After watching him a few times, he managed to imitate the Drunken Eight Immortals Fist. If my master found out, he’d try to kill him for leaking a sect secret.”",
+      "defect": "The draft reverses the object of the threatened killing. Gung Gibang’s master would kill Gung for leaking the sect’s secret art, not kill Cheongpung. “Watching him” also introduces an unsupported male object instead of Cheongpung seeing the technique.",
+      "id": "F05",
+      "rationale": "유출했다고 identifies Gung Gibang as the person his master would blame for exposing the technique; his following warning that he will die confirms this.",
+      "replacement": "“Young Hero Cheongpung? Don’t even get me started. After seeing the Drunken Eight Immortals Fist only a few times, he started imitating it pretty closely. If my master found out, he’d try to kill me for leaking our sect’s secret art.”",
+      "severity": "critical",
+      "source": "“청 소협? 그 인간 이야기는 꺼내지도 마. 몇 번 보더니 취팔선권(醉八仙拳)을 엇비슷하게 따라 하더군. 스승님이 아셨다면 문파 비전을 유출했다고 죽이려 드실 거야.”"
+    },
+    {
+      "confidence": 0.95,
+      "current": "“Yes. I wonder if it has something to do with the injuries he suffered during training…”",
+      "defect": "The English pronoun most naturally points to Mungyeong, although Mujin is referring to the Captain’s training injuries as the reason Mungyeong keeps accompanying him.",
+      "id": "F06",
+      "rationale": "The diary has already described the Captain returning from solitary training covered in wounds; that detail explains Mujin’s mistaken theory about why Mungyeong is treating or accompanying him.",
+      "replacement": "“Yes. I wonder if it has something to do with the injuries the Captain suffered while training…”",
+      "severity": "major",
+      "source": "“예. 아무래도 수련 중에 입은 부상 때문이 아닐까 싶은데…….”"
+    }
+  ],
+  "summary": "Six actionable findings: two reversed subjects, one altered exchange, one lost recurring joke, and two materially ambiguous or weakened details.",
+  "version": 1
+}
