@@ -18,13 +18,13 @@ Swoooosh!
 
 Following the Warlord’s directions, I shot through the forest at dazzling speed.
 
-Perhaps it was thanks to the half-jiazi of internal energy I had gained while performing True Qi Guidance on Team Leader Choi, but even as I used my movement technique with all my strength, my internal energy continued surging up like an inexhaustible spring.
+Maybe it was thanks to the half-jiazi of internal energy I had gained while performing True Qi Guidance on Team Leader Choi, but even with my movement technique at full strength, internal energy kept surging from my qi sea like water from an inexhaustible spring.
 
 *More is always better.*
 
 After I had run for a while, the sounds of people moving and talking gradually drew closer.
 
-My unbelievably enhanced eyesight picked out familiar faces beyond the brush, hundreds of meters away.
+My unbelievably enhanced eyesight picked out familiar faces through the brush hundreds of meters away.
 
 *Team Leader Choi and Butler Kim. Uncle Kkeokjeong and Song Song too?*
 
@@ -50,7 +50,7 @@ I was about to step out of the brush when someone shouted.
 
 “The skull emblem! Y-yes, this is the armor the Named Monster was wearing!”
 
-“We found a dagger too! This isn’t equipment used by Skeletons!”
+“We found a dagger too! It isn’t Skeleton Equipment!”
 
 “It’s the dagger Senior Jin Taekyung used!”
 
@@ -66,7 +66,7 @@ At the succession of shouts, Im Kkeokjeong burst into tears.
 
 No way. Was this what I thought it was?
 
-As I stood there with my mouth hanging open, the Warlord rolled its green, glowing eyes toward me.
+As I stood there with my mouth hanging open, the green light in the Warlord’s eyes swiveled toward me.
 
 > - It appears those humans believe you are dead.
 
@@ -76,7 +76,7 @@ As I stood there with my mouth hanging open, the Warlord rolled its green, glowi
 
 But the situation was already spiraling out of control.
 
-Song Song and Butler Kim suddenly began shedding tears, and even the Guild members lowered their heads with red-rimmed eyes.
+Song Song and Butler Kim suddenly began shedding tears, and even the Guild members bowed their heads, their eyes red.
 
 The path grew heavy with grief and mourning.
 
@@ -100,15 +100,15 @@ But first, there was someone I needed to deal with.
 
 > - Inside where?
 
-Ignoring the Warlord’s puzzled question, I immediately muttered the command in my mind.
+Ignoring the Warlord’s puzzled question, I gave the command in my head.
 
 *Open Inventory. Store.*
 
 Pop.
 
-At the same time as the command, the Warlord’s skull vanished from my hand.
+The Warlord’s skull vanished from my hand.
 
-The Inventory was a space that living creatures could not enter. However, since the Skeleton Warlord was an undead monster that had lost its vitality long ago, it seemed to work.
+Living creatures couldn’t enter the Inventory. But the Skeleton Warlord was an undead monster who had lost his life force long ago, so apparently he qualified.
 
 “Oh, it worked.”
 
@@ -120,7 +120,7 @@ Was it because the Inventory and I were connected?
 
 I had never tried putting anything alive inside before, so this was a first.
 
-As I marveled at the situation, the Warlord’s shrill voice rang through my head.
+While I marveled at the discovery, the Warlord’s furious voice rang through my head.
 
 > - What have you done to me? Release me this instant!
 
@@ -130,19 +130,19 @@ As I marveled at the situation, the Warlord’s shrill voice rang through my hea
 
 “I think I’ll live a long and healthy life, remain safe and sound, and never grow old or die.”
 
-- It’s so suffocating! I’m going insane in here!
+> - It is suffocating! I feel as if I will go mad!
 
-“Why would you suffocate? You don’t breathe in the first place.”
+“Why would you suffocate? You don’t breathe.”
 
 > - You insolent wretch!
 
-“Ah, you’re loud. Should I just make you disappear?”
+“God, you’re loud. Should I just erase you?”
 
 The Warlord’s voice brightened at once.
 
 > - This is a far more comfortable space than I expected.
 
-“Good. Rest comfortably. And even if you do come out, don’t say a word in front of the people.”
+“Good. Get some rest. And if I let you out, don’t say a word in front of anyone.”
 
 > - Understood. But…
 
@@ -176,7 +176,7 @@ I had only caught fragments of their conversation, but it was enough to understa
 
 Lee Jungryong had sent Go Jun to eliminate the threat I posed, while the Association President wanted a connection to someone as powerful as Lee Jungryong.
 
-Well, this was…
+This was just…
 
 “Beautiful. Absolutely beautiful.”
 
@@ -200,7 +200,7 @@ Shock, disbelief, bewilderment.
 
 With every step, gazes filled with different emotions flew toward me and struck me in the face.
 
-As I passed, I patted the shoulders of Team Leader Choi and the Guild members, who had frozen at my appearance.
+I passed Team Leader Choi and the Guild members, patting their frozen shoulders as I went.
 
 Greetings could wait. I needed to clean up that lump of shit before it stank any worse.
 
@@ -210,7 +210,7 @@ My final step brought me to a stop in front of two men.
 
 “You were… alive?”
 
-“J-Jin Taekyung, Hunter?”
+“J-Jin Taekyung?”
 
 I gazed at the two pairs of trembling eyes belonging to Go Jun and the Seoul Branch President, then looked at Go Jun.
 
@@ -228,7 +228,7 @@ Go Jun continued in a steadier voice.
 
 “Oh, I went nearby to take a piss. But by the time I got back, you’d practically finished the funeral procession and even held the forty-ninth-day memorial rite.”[^1]
 
-“Urinate?”
+“Taking a piss?”
 
 “I drank a lot of water before entering the Gate.”
 
@@ -242,7 +242,7 @@ Go Jun continued in a steadier voice.
 
 I smiled faintly.
 
-“Are you sick? The way nothing but dogshit keeps pouring out of your mouth makes me think you might have rabies.”
+“What’s wrong with you? You keep yapping like a dog. Is it rabies?”
 
 “……!”
 
@@ -310,9 +310,9 @@ The Association President was briefly lost for words. Then he asked incredulousl
 
 I let out a short laugh as the Association President’s face turned bright red, as though he might explode at any moment.
 
-I knew perfectly well that the Seoul Branch President was one of the most important posts of all. Even so, I made no effort to hide my contempt because he was a human being who deserved to be despised.
+I knew perfectly well that the Seoul Branch President was one of the most powerful posts in the country. Even so, I made no effort to hide my contempt. He deserved every bit of it.
 
-*A man who’s supposed to be responsible for Hunters’ safety and rights pulled something like this.*
+*A man responsible for protecting Hunters’ safety and rights pulled this kind of shit.*
 
 If anyone other than me had been left inside this Gate, they would have died.
 
@@ -320,13 +320,13 @@ The Association President had known that, yet he had delayed the rescue for an e
 
 “Jin Taekyung, what the hell kind of man are you?”
 
-I stared coldly at the Association President as he shouted and pointed a finger at me.
+The Association President pointed at me and shouted at the top of his lungs. I stared back with cold eyes.
 
 “What kind of man am I? The kind who killed two Named Monsters alone while waiting an entire hour for a rescue team.”
 
 “Th-that…”
 
-The Association President flinched at my aura and took a step backward.
+The Association President flinched beneath the force of my aura and stumbled backward.
 
 But the distance between us didn’t widen. I matched him step for step.
 
@@ -346,7 +346,7 @@ Another step.
 
 “I-I have no idea what you’re talking about.”
 
-“Would you like me to make it clear? In front of everyone?”
+“Would you like me to explain? In front of everyone?”
 
 Step. Tap.
 
@@ -366,7 +366,7 @@ I grinned at Go Jun as he stepped between us.
 
 Go Jun gave a dry laugh and whispered in my ear.
 
-“You’re the ones who should be afraid. Everyone behind me is either an Ares Guild Hunter or an Association Hunter. If you want to get out of here alive, you’d better watch your mouth.”
+“You’re the ones who should be afraid. Everyone behind me belongs either to the Ares Guild or the Association. If you want to leave here alive, you’d better watch your mouth.”
 
 “Oh, so if things go bad, you’ll bury everyone here and walk away? That’s a bit too big for you. Can you handle it?”
 
@@ -388,9 +388,9 @@ Huff.
 
 Hot, foul breath spilled from his mouth.
 
-Go Jun glared at me with sunken eyes, then took several steps back and muttered,
+Go Jun glared at me with darkened eyes, then stepped back and muttered,
 
-“If it hadn’t been for my Master’s special order… you would have died here.”
+“If not for my Master’s special orders… you would have died here.”
 
 “Your Master? Oh, Jungryong?”
 
