@@ -705,3 +705,7 @@ Overrides generic relationship prose in character profiles for this pair.
 | 스켈레톤 워로드 | 인간 | ally and friend | human | gruff, informal, and increasingly vulnerable | The Skeleton Warlord addresses Jin as 인간 while asking whether Jin's earlier praise was sincere. |
 | 아크 리치 | 인간 | enemy and torture victim | Human | archaic and contemptuous | The Arch Lich repeatedly addresses Jin as 인간 while torturing him. |
 | 스켈레톤 킹 | 인간 | friend and ally | Human | quiet and familiar | The revived Skeleton King calls to Jin as 인간 before Jin resumes the attack. |
+| 아크 리치 | 진태경 | enemy_to_victorious_adversary | you | archaic and contemptuous | The Arch Lich threatens Jin with future vengeance before its destruction. |
+| 진태경 | 아크 리치 | victor_to_defeated_enemy | bastard | blunt and insulting-casual | Jin mocks the dying Arch Lich and orders it to insult Asmodeus. |
+| 진태경 | 스켈레톤 킹 | ally and companion | you | insulting-casual | Jin tells the Skeleton King that it is also a king and corrects it when it repeats the insult. |
+| 스켈레톤 킹 | 진태경 | ally and companion | you | casual and warm | The Skeleton King catches Jin after he collapses and quietly acknowledges his effort. |
