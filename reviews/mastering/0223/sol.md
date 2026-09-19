@@ -14,7 +14,7 @@ Though it had only been a few months, no one had observed Jin Taekyung more clos
 
 Yet at that moment, Choi Minwoo realized that every judgment he had made about Jin Taekyung had been wrong.
 
-*What… exactly is this man?*
+*What…is this man?*
 
 Everything he had seen until now had been no more than the tip of the iceberg.
 
@@ -24,7 +24,7 @@ Now, he had hunted a Named Monster alone.
 
 And utterly overwhelmed it.
 
-Puhk!
+Shnk!
 
 The spearhead infused with Aura pierced the monster between the eyes.
 
@@ -36,9 +36,9 @@ It was also the moment a new legend was born.
 
 “……Ah.”
 
-Choi Minwoo had been dazed for a moment, but Butler Kim’s call finally brought him back to his senses.
+Choi Minwoo had been standing there in a daze, but Butler Kim’s voice finally brought him back to his senses.
 
-When he looked around, everyone had a similar expression.
+When he looked around, everyone wore the same expression.
 
 Shock. And more shock.
 
@@ -48,9 +48,9 @@ Trembling with an indescribable thrill, they rushed toward Jin Taekyung as if by
 
 “Taekyung!”
 
-Jin Taekyung smiled at them. It was a relieved smile, as if he had finally cast off even the slightest trace of regret.
+Jin Taekyung smiled at them. It was a relieved smile, as if he had finally cast off the last trace of regret.
 
-Choi Minwoo let out a hollow laugh.
+Choi Minwoo let out a disbelieving laugh.
 
 “You can smile at a time like this?”
 
@@ -64,7 +64,7 @@ Choi Minwoo let out a hollow laugh.
 
 Choi Minwoo stared at Jin Taekyung as he scratched the back of his head, then abruptly held out his hand.
 
-A sentence he had momentarily forgotten had come back to him.
+He had just remembered something.
 
 Something he had wanted to say if—just if—Taekyung won.
 
@@ -82,7 +82,7 @@ An indescribable emotion flickered through his clear, deep-black eyes. Then he f
 
 * * *
 
-For a while, I couldn’t come to my senses amid the barrage of questions and congratulations flying at me from every direction.
+For a while, I couldn’t get my bearings amid the barrage of questions and congratulations coming from every direction.
 
 “So that was already thirty years ago. The Great Cataclysm was still in full swing at the time…”
 
@@ -90,7 +90,7 @@ For a while, I couldn’t come to my senses amid the barrage of questions and co
 
 Butler Kim, who rarely showed much emotion, excitedly rattled off one incident after another from the Great Cataclysm.
 
-“My goodness. This isn’t a dream, is it? No, it isn’t, right?”
+“My goodness. This isn’t a dream, is it? No, it can’t be. Right?”
 
 “Uh, no.”
 
@@ -98,11 +98,11 @@ Song Song stared at me as if she still couldn’t tell whether she was dreaming 
 
 “Sniff. Taekyung! You bastard! Sniff, sob!”
 
-“……Why are you crying again, Uncle?”
+“……Why are you crying again, old man?”
 
 “Because I’m proud of you, you punk. I’m proud. Sniff!”
 
-Im Kkeokjeong burst into tears as if his own child had made it back alive.
+Im Kkeokjeong burst into tears as if his own child had come home alive.
 
 With all that going on, I didn’t have a chance to check the backlog of System messages.
 
@@ -118,31 +118,31 @@ I cautiously asked the most important question.
 
 “……Oh. Well, you see…”
 
-Even Team Leader Choi, who was never at a loss in any situation, looked flustered.
+Even Team Leader Choi, who always seemed to have an answer for everything, was visibly flustered.
 
 Cleaning up after a raid was routine, and the work was generally the same every time.
 
-Check and treat the casualties, then sort through and collect the byproducts. If there was anything else, it was usually just inspecting the Equipment.
+Check for casualties and treat them, then sort and collect the byproducts. At most, there was also equipment to inspect.
 
 But this time was different.
 
 *This bastard’s torso alone is over fifty meters long.*
 
-And that was only counting its length. Its enormous girth, wings, tail, and everything else were separate problems.
+And that was only its length. Its enormous girth, wings, tail, and everything else were separate problems.
 
-Just thinking about how to deal with it was giving me a headache.
+Just thinking about how to deal with it gave me a headache.
 
 *But we can’t just leave it here.*
 
 Processing the byproducts meant separating the hide, bones, and flesh.
 
-The Carus I had brought down was a Named Monster, so its rarity and the difficulty of processing it were beyond imagination.
+Carus was a Named Monster, so both the rarity of its remains and the difficulty of processing them were beyond imagination.
 
 *Fuck, what are we supposed to do with the scales?*
 
 They weren’t fish scales we could scrape off with a kitchen knife.
 
-Aside from me, someone would have to be at least as capable as Butler Kim or Team Leader Choi to handle the job. Of course, there was one possible solution.
+The work was difficult enough that only Butler Kim, Team Leader Choi, or I could manage it. Of course, that didn’t mean there was no solution.
 
 There was one method left.
 
@@ -158,13 +158,13 @@ It was worth a try.
 
 I could already picture everyone’s reaction if I put Carus’s corpse into my Inventory.
 
-Even if I came clean to the guild members, suspicions would arise unless I intended to keep the byproducts forever.
+Even if I came clean to the guild members, people would start asking questions unless I planned to keep the byproducts hidden forever.
 
 *Reporters are camped out at the Gate entrance, so how did he secretly carry all of it outside? Things like that.*
 
 If that happened, it might not be long before the entire country learned my secret.
 
-The front pages of the daily newspapers and every news headline would be decorated with my name.
+The front pages of the newspapers and every news headline would be plastered with my name.
 
 > **Breaking News:** A-Rank Hunter Jin Taekyung Revealed to Be a System User
 
@@ -196,7 +196,7 @@ Team Leader Choi announced the verdict with the solemnity of a judge.
 
 Gates weren’t immutable spaces, unchanging as evergreen trees.
 
-After a certain amount of time, their destroyed environments and monsters were restored. This phenomenon was called Regen, and the time it took for a Gate to undergo Regen varied according to its Grade.
+After a certain amount of time, destroyed environments and slain monsters were restored. This phenomenon was called Regen, and the time required varied according to the Gate’s Grade.
 
 “As far as I know, A-Rank Gates usually undergo Regen once a week. Today is only the first day, so we have plenty of time.”
 
@@ -206,11 +206,11 @@ There was, however, one small problem with the plan.
 
 “The exit Gate hasn’t opened.”
 
-That was exactly what had happened.
+It was true.
 
 Now that we had beaten the Named Monster to death, the exit should have opened. Yet even after several dozen minutes, it still showed no sign of appearing.
 
-Im Kkeokjeong also looked around anxiously.
+Im Kkeokjeong looked around anxiously.
 
 “Yeah, why hasn’t it opened? Is the Gate broken?”
 
@@ -254,7 +254,7 @@ From the boss monster’s perspective, running away had been a fairly wise decis
 
 There was no way the thing had fled for its life only to hang around nearby grooming its claws.
 
-It would have hidden as far away and as secretly as possible. And with only five people, searching this vast wasteland was impossible.
+It would have hidden as far away and as thoroughly as possible, and there was no way the five of us could search this vast wasteland.
 
 “Then…”
 
@@ -266,7 +266,7 @@ Without giving it much thought, I shot my hand into the air.
 
 “I’ll go.”
 
-Team Leader Choi asked with concern in his eyes.
+Team Leader Choi looked at me with concern.
 
 “You, Mr. Jin?”
 
@@ -306,7 +306,7 @@ That sounded about right.
 
 I still couldn’t forget the sight of the Sangdong Guild Master doing PT exercises while loudly repeating orders.
 
-*It was something I could hardly believe even after seeing it.*
+*I could hardly believe it even while I was watching.*
 
 Knowing Butler Kim’s spectacular track record, I could only nod. We needed him if we wanted to bring in outside personnel.
 
@@ -336,7 +336,7 @@ A terrible suspicion crossed my mind.
 
 Thank goodness. He wasn’t a centaur.
 
-I let out a sigh of relief and willingly offered my back to Butler Kim.
+I let out a sigh of relief and willingly turned my back to Butler Kim.
 
 * * *
 
@@ -372,7 +372,7 @@ That was when it happened.
 
 “……Huh.”
 
-I suddenly stopped, letting out a hollow laugh.
+I suddenly stopped with an incredulous laugh.
 
 Puzzled by my abrupt halt, Butler Kim asked,
 
