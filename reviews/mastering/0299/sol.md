@@ -78,7 +78,7 @@ That was when a flat voice came from behind him.
 
 “Let them.”
 
-The Association President turned his head.
+The Association President turned around.
 
 Go Jun, Lee Jungryong’s right-hand man and Head of Security, stood with his arms folded and his face expressionless.
 
@@ -104,7 +104,7 @@ The gazes of the Association President, Go Jun, and countless others clung to hi
 
 “Let’s go. We’re going to save Mr. Jin Taekyung.”
 
-At Choi Minwoo’s quiet words, a roar thundered across the grounds, loud enough to make their ears ring.
+At Choi Minwoo’s quiet words, a roar loud enough to deafen them thundered across the grounds.
 
 Butler Kim, Im Kkeokjeong, Song Song, and around fifty Peace Guild members followed Choi Minwoo, cutting through the hundreds of Hunters like a current as they advanced toward the Gate.
 
@@ -140,7 +140,7 @@ It was completely engulfed in flames.
 
 *Mr. Jin Taekyung.*
 
-The foreboding he had felt while passing through the Gate seemed to be slowly taking shape.
+The dread he had felt while passing through the Gate was slowly taking shape.
 
 Im Kkeokjeong spoke from behind him, his voice trembling.
 
@@ -176,7 +176,7 @@ Those who had known Jin Taekyung the longest could only blink at the unbelievabl
 
 Butler Kim’s words broke the suffocating silence like a doctor delivering his final verdict.
 
-“According to the results of the detection magic… we found no movement or living creatures within a three-hundred-meter radius.”
+“According to my detection magic… there is no movement or sign of life within a three-hundred-meter radius.”
 
 Choi Minwoo’s eyelids trembled.
 
@@ -188,7 +188,7 @@ His face devastated, Butler Kim extended a hand. Something rose into the air fro
 
 “That’s…”
 
-“Judging by the considerable magic I can sense from it, it appears to be a trace left by the Named Monster.”
+“Judging by the considerable magic within it, this appears to be a remnant of the Named Monster.”
 
 A palm-sized metal fragment rested in Butler Kim’s hand.
 
@@ -202,7 +202,7 @@ Then someone searching the area cried out.
 
 “There’s a dagger here too! It isn’t the kind of equipment Skeletons use!”
 
-“It belongs to Senior Jin Taekyung. It’s the one he used all the time.”
+“It belongs to Senior Jin Taekyung. It’s the one he always carried.”
 
 As shock settled over the group, Butler Kim spoke in a subdued voice.
 
@@ -212,7 +212,7 @@ As shock settled over the group, Butler Kim spoke in a subdued voice.
 
 The air around the trail seemed to crackle.
 
-Now everything was certain. Jin Taekyung was dead. He had thrown away his own life, taking his enemies with him as companions on the road to the afterlife and leaving his comrades behind.
+Now there could be no doubt. Jin Taekyung was dead. He had sacrificed his own life to drag his enemies into the afterlife with him, leaving his comrades behind.
 
 Im Kkeokjeong’s wail finally shattered the seemingly endless silence.
 
@@ -226,7 +226,7 @@ No one mocked him as his massive frame shook with sobs.
 
 Their grief might differ in depth, but everyone there felt the same.
 
-Grief over Jin Taekyung’s death. Guilt that they had been unable to fight alongside him. And the helplessness they felt toward themselves.
+Sorrow over Jin Taekyung’s death. Guilt that they had not fought beside him. Helpless fury at themselves.
 
 The Peace Guild members’ eyes grew red and bloodshot. Tears streamed down Butler Kim’s and Song Song’s cheeks.
 
@@ -266,7 +266,7 @@ Hundreds of people had just entered the trail. At the head of the Association an
 
 At Go Jun’s words, the Association President’s heavily furrowed face broke into a broad smile.
 
-“Oh, that’s welcome news. I thought we might have another casualty on our hands.”
+“Oh, that’s welcome news. I was afraid we might suffer even more casualties.”
 
 “Your judgment allowed us to minimize our losses, Association President.”
 
@@ -286,7 +286,7 @@ A dry smile touched the corner of Go Jun’s mouth.
 
 “Ha ha.”
 
-The conversation between Go Jun and the Association President was a sharp needle—a needle capable of popping Choi Minwoo’s ballooning emotions.
+The conversation between Go Jun and the Association President was a sharp needle poised to puncture Choi Minwoo’s swelling emotions.
 
 “Shut your mouth.”
 
@@ -300,7 +300,7 @@ The Association President belatedly realized what he had heard, and his face twi
 
 “I told you to shut it.”
 
-“Young man, you don’t know the meaning of manners. Don’t you agree, Team Leader Choi Minwoo of the Peace Guild?”
+“Young men these days have no manners. Don’t you agree, Team Leader Choi Minwoo of the Peace Guild?”
 
 The words were barbed.
 
@@ -332,7 +332,7 @@ But…
 
 At least Choi Minwoo himself should not have done that.
 
-Another needle flew at him as he struggled to speak.
+As he struggled to speak, another needle struck.
 
 “You killed Jin Taekyung. All of you did—you pathetic weaklings who forgot your duty.”
 
