@@ -1,16 +1,18 @@
 # Translation State
 
-- Last completed: 485
-- Next chapter: 486
-- Current block: 485–489 (1/5)
-- Latest translation: `translations/0485.md`
-- Latest summary: `summaries/beats/0485.md`
-- Safe profiles through: chapter 485
+- Last completed: 486
+- Next chapter: 487
+- Current block: 485–489 (2/5)
+- Latest translation: `translations/0486.md`
+- Latest summary: `summaries/beats/0486.md`
+- Safe profiles through: chapter 486
 
 ## Current Block
 
-- Jin Taekyung touches the fissure at the Water God Dragon site and the System identifies it as a mostly nonfunctional Gate: entry is impossible and the Gate Conquest Quest cannot be generated. The Gate leaks faint demonic qi, confirming Taekyung's fears.
-- Taekyung connects Dark Heaven's regeneration, teleportation, and Moving Formation to magic and wonders whether the Lord of Heaven is linked to the dangerous force from his original world. He tells Jeok Cheongang that he is from another world and that a fully opened Gate could release monsters; Jeok claims to understand, misinterprets Taekyung's confession as a death wish, and beats him. Jeok later approaches Mungyeong, who refuses to talk.
+- Jeok Cheongang pressures Mungyeong into a private conversation and asks him to look after Jin Taekyung. Jeok admits that he has grown anxious because he is aging, weakening, and may not survive the many battles ahead.
+- Jeok reveals that his innate qi was damaged after he drew upon it to compensate for insufficient internal energy. The Thousand-Year Snow Ginseng and the Divine Physician's treatment only stopped the deterioration temporarily, and the loss of innate qi continues.
+- Jeok recalls Hong Dao's warning that the heavenly patterns were becoming distorted and a calamity greater than the Great Faction War was approaching. He believes Dark Heaven's influence will soon cover the entire world and privately fears that Taekyung's account of his origin may be true.
+- Before leaving, Jeok tells Mungyeong to teach Taekyung the mindset he needs and any useful secret martial arts. Mungyeong never gives a direct answer, but Jeok treats his silence as assent and departs.
 
 ## Open Questions
 
@@ -22,11 +24,11 @@
 
 ## Exceptional Decision
 
-- Render 기억의 파편 as Memory Fragment.
-- Render 게이트 공략 as Gate Conquest.
-- Render 텔레포트 as Teleport and 마법 as Magic.
-- Render 시산혈해 as sea of corpses and blood.
-- Retain Old Master for 노야 and the established rough, profane Taekyung-Jeok banter.
+- Render 기억의 파편 as Memory Fragment, 게이트 공략 as Gate Conquest, 텔레포트 as Teleport, and 마법 as Magic.
+- Render 시산혈해 as sea of corpses and blood and retain Old Master for 노야 with the established rough, profane Taekyung-Jeok banter.
+- Render 선천지기 as innate qi and 진원진기 as true-origin qi.
+- Render 심마 as Heart Demon and 천기 as heavenly patterns.
+- Render 독문 무공 as secret martial arts and 비급 as martial arts manual.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
