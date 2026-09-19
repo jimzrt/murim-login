@@ -823,3 +823,8 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 중년 도사 | celebrated visiting martial artist to Wudang gatekeeper | Daoist | polite | Taekyung addresses the middle-aged guard respectfully while attempting to pass. |
 | 문경 | 중년 도사 | hidden legendary assassin to Wudang gatekeeper | Daoist | deferential and controlled | Mungyeong politely accepts the guard's proposed private interval. |
 | 현공진인 | 진태경 | senior Wudang master to younger martial artist | young friend | gentle and polite | Hyeongong uses 진 도우 and 젊은 도우 while greeting and worrying about Taekyung. |
+| 진태경 | 현공진인 | younger martial artist to senior Daoist master | Perfected Being | respectful and polite | Uses 진인 while responding to Hyeongong's religious instruction. |
+| 진위경 | 현공진인 | Lesser Family Head to senior Wudang master | Perfected Being Hyeongong | formal-respectful | Addresses Hyeongong as 진인 while praising the Water God Dragon. |
+| 제갈풍 | 진위경 | Zhuge Clan Family Head to Jin Family Lesser Family Head | Lesser Family Head | formal and conciliatory | Uses 소가주 while trying to secure Jin Wikyung's support during the settlement. |
+| 진위경 | 제갈풍 | Jin Family Lesser Family Head to Zhuge Clan Family Head | Sir Zhuge | formal with deliberate comic deference | Uses 제갈 대협 while theatrically scolding Taekyung to force Zhuge Feng to concede. |
+| 진태경 | 제갈풍 | younger martial artist to senior clan head | Sir Zhuge | blunt and challenging | Uses 제갈 대협 while disputing Zhuge Feng's attempted ten-percent claim. |

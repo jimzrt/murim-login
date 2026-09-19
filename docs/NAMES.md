@@ -1597,3 +1597,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 고기 방패 | **Meat Shield** | System reward for sending Hyuk Mujin ahead as protection. |
 | 독 장아찌 | **Poisoned Pickle** | Taekyung's joking proposed sobriquet after enduring Mungyeong's poisons. |
 | 독의 | **Poison Physician** | Taekyung's mocking description of Mungyeong after learning how aggressively he uses poison. |
+| 타구봉 | **Dog-Beating Staff** | Signature weapon associated with the Beggars' Sect. |
+| 창룡 | **Azure Dragon** | Divine dragon form invoked in Hyeongong's blessing. |
+| 무량수불 | **Infinite Life Buddha** | Buddhist invocation used by Taekyung. |
