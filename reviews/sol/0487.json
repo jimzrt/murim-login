@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "Cheongpung and Hyuk Mujin had followed Zhuge Feng, so this was the first time I had seen them in almost two full days.",
+      "defect": "The source says exactly two days, not almost two days.",
+      "id": "F01",
+      "rationale": "꼭 이틀 means precisely or exactly two days; “almost” changes the stated duration.",
+      "replacement": "Cheongpung and Hyuk Mujin had followed Zhuge Feng, so this was the first time I had seen them in exactly two days.",
+      "severity": "minor",
+      "source": "그 과정에서 청풍과 혁무진은 제갈풍을 따라갔으니 꼭 이틀 만에 보는 얼굴이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "I thought you might say I was shooting up, then hit me and make me get shot up.",
+      "defect": "The second half of the Korean means suddenly suffering an injury, while “get shot up” suggests gunfire or being propelled upward.",
+      "id": "F02",
+      "rationale": "The joke splits 급부상, “rapid rise,” into 급 부상, “sudden injury.” The replacement preserves the rise/injury contrast without introducing shooting.",
+      "replacement": "I thought you might say I was on the rise, then hit me and leave me laid up.",
+      "severity": "minor",
+      "source": "급부상했다면서 때린 다음 급 부상당했다. 뭐 그러실 것 같아서요."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Hyuk Mujin might be treated like a nobody here, but he was a martial artist who had earned the impressive sobriquet Swift Wind Sword after helping the Jin Family of Taiyuan pacify the northern plateau.",
+      "defect": "The established place name Gaoyuan is translated generically as “the northern plateau.”",
+      "id": "F03",
+      "rationale": "고원 is the established location Gaoyuan in the binding glossary.",
+      "replacement": "Hyuk Mujin might be treated like a nobody here, but he was a martial artist who had earned the impressive sobriquet Swift Wind Sword after helping the Jin Family of Taiyuan pacify northern Gaoyuan.",
+      "severity": "minor",
+      "source": "태원진가의 북부 고원 평정을 통해 쾌풍검(快風劍)이라는 그럴듯한 별호까지 얻은 무인이다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "How could Hyuk Mujin possibly resist a grappling technique performed by a Supreme Peak master of the Huashan Sect who had inherited the Sword Saint’s legacy?",
+      "defect": "The draft omits Cheongpung’s status as Huashan’s Morning Star.",
+      "id": "F04",
+      "rationale": "화산파의 신성 explicitly identifies him as Huashan’s Morning Star; this is meaningful reputation and hierarchy, not redundant ornament.",
+      "replacement": "How could Hyuk Mujin possibly resist the grappling technique of Huashan’s Morning Star, a Supreme Peak master who had inherited the Sword Saint’s legacy?",
+      "severity": "major",
+      "source": "화산파의 신성이요, 검성의 진전을 이은 초절정 고수가 펼치는 금나수(擒拿手)를 버틸 리가 있나."
+    },
+    {
+      "confidence": 1.0,
+      "current": "And on its tail—",
+      "defect": "The draft omits Taekyung’s profane, bewildered reaction.",
+      "id": "F05",
+      "rationale": "시벌. 저게 뭐야 is an explicit profanity followed by a direct reaction; both are part of Taekyung’s voice and the reveal’s comic timing.",
+      "replacement": "And on its tail… Fuck. What the hell was that?",
+      "severity": "minor",
+      "source": "그리고 꼬리에는, 시벌. 저게 뭐야."
+    },
+    {
+      "confidence": 0.98,
+      "current": "And according to what I had confirmed personally just one or two shichen earlier, the Gate was still leaking a faint amount of mana despite having lost most of its functions.",
+      "defect": "The draft weakens a complete loss of function into the loss of only most functions.",
+      "id": "F06",
+      "rationale": "제 기능을 상실했다 means the Gate had ceased performing its function. “Most of its functions” adds a degree of continued operation absent from the source and alters the Gate’s mechanics.",
+      "replacement": "And according to what I had confirmed personally just one or two shichen earlier, the Gate was still leaking a faint amount of mana despite having ceased to function.",
+      "severity": "major",
+      "source": "그리고 불과 한 두시진 전 직접 확인한 바에 따르면, 게이트는 제 기능을 상실했음에도 미약한 마력을 흘리고 있었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "As soon as the Blood Fish were discovered, Great Hero Zhuge Feng ordered the waterways around the entrance to be completely sealed off.",
+      "defect": "The draft changes one waterway by the entrance into multiple waterways surrounding it.",
+      "id": "F07",
+      "rationale": "입구 부분의 수로 is singular and locates the waterway at the entrance; that physical containment detail matters to the discussion of escaped Blood Fish.",
+      "replacement": "As soon as the Blood Fish were discovered, Great Hero Zhuge Feng ordered the waterway by the entrance to be completely sealed off.",
+      "severity": "minor",
+      "source": "혈어의 존재를 확인하자마자 입구 부분의 수로를 완전히 폐쇄하도록 지시를 내리신 분이 제갈 대협이십니다."
+    }
+  ],
+  "summary": "Two major fidelity defects affect Hyuk Mujin’s description of Cheongpung and the Gate’s operating state. Additional localized issues alter an exact duration, a place name, a wordplay-based injury, profanity, and the containment mechanism.",
+  "version": 1
+}

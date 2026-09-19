@@ -1582,3 +1582,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 텔레포트 | **Teleport** | Taekyung's label for the Blood Lord's unexplained disappearance. |
 | 마법 | **Magic** | Taekyung's explanation for Dark Heaven's anomalous abilities. |
 | 시산혈해 | **sea of corpses and blood** | Description of the preceding months of bloodshed. |
+| 혈어 | **Blood Fish** | Local name for the aggressive mutated fish in the Gate's waterways. |
+| 변이된 송사리 | **Mutated Minnow** | System identification for the Level 5 fish species created by weak mana exposure. |
