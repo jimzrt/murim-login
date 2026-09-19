@@ -10,7 +10,7 @@ A delighted shout burst from my lips before I knew it.
 
 As Cheongpung answered hesitantly, the Blood Lord recognized him.
 
-“Oh-ho. I was wondering what kind of rat it was, but aren’t you Huashan’s Invincible Divine Sword?”
+“Oh-ho. I was wondering what kind of rat was hiding over there. If it isn’t Huashan’s Invincible Divine Sword.”
 
 I had hoped otherwise, but it was just as I feared. That was all the Blood Lord knew about Cheongpung’s identity.
 
@@ -38,7 +38,7 @@ Although Cheongpung and I had yet to advance beyond the upper reaches of Peak, n
 
 I had overwhelming stats and extensive combat experience. Cheongpung had innate martial talent and a genius for combining dozens of martial arts as the situation demanded.
 
-And on top of that, we had the Fire King Jeok Cheongang—the greatest of the Ten Kings.
+And on top of that, we had Jeok Cheongang—the Fire King, reputed to be the greatest of the Ten Kings.
 
 I thought we had more than a fair chance.
 
@@ -60,7 +60,7 @@ The Blood Lord spoke with casual confidence and beckoned to us with one finger.
 
 That was the only thing he had said so far that was actually right.
 
-He was correct. A martial artist had to prove himself through martial arts.
+A martial artist had to prove himself through martial arts.
 
 Victory would prove our strength. Defeat would prove our weakness.
 
@@ -68,7 +68,7 @@ Victory would prove our strength. Defeat would prove our weakness.
 
 Whoosh!
 
-Along with his dry, ashy voice, Jeok Cheongang’s figure shot forward. At the same time, a familiar alert pierced my ears.
+Jeok Cheongang shot forward with those words, his voice dry as ash. At the same moment, a familiar alert pierced my ears.
 
 Ding.
 
@@ -114,7 +114,7 @@ Whoom! Boom!
 
 The massive trees lining both sides of the path exploded.
 
-Flames surged into the air amid a thunderous roar, while dirt, roots, and splinters of wood poured down like a sudden rainstorm.
+Flames surged amid a thunderous roar, and dirt, roots, and splintered wood rained down.
 
 Two streaks of light pierced through the debris.
 
@@ -128,7 +128,7 @@ Boom!
 
 Compressed air exploded outward, unleashing a violent gale. The viciously thrusting spearhead and the plum blossoms blooming from the sword’s tip were both swept away by the wind pressure.
 
-Jin Taekyung and Cheongpung’s eyes widened as their bodies were pushed back against their will.
+Jin Taekyung and Cheongpung’s eyes widened as their bodies were forced backward.
 
 “……Fuck. He’s insanely strong.”
 
@@ -144,7 +144,7 @@ The Blood Lord rolled his neck and drew his saber back into his hand. He had fen
 
 Jeok Cheongang’s eyelids trembled.
 
-Who would have thought that a single form of the Flame Divine Palm at Great Completion could be defeated so easily? The Blood Lord had not dodged or deflected it.
+A single form of the Flame Divine Palm at Great Completion had been defeated with absurd ease. The Blood Lord had neither dodged nor deflected it.
 
 He had cut it apart.
 
@@ -180,7 +180,7 @@ His lips twisted into a sneer, and he snickered.
 
 Jeok Cheongang calmly shook his head.
 
-He knew that Jin Taekyung and Cheongpung were watching his mouth. He could not destroy their morale with careless words.
+He knew Jin Taekyung and Cheongpung were watching him, waiting to hear his answer. He could not crush their morale with careless words.
 
 “You talk too much. We have only just begun.”
 
@@ -224,9 +224,9 @@ Mine included, of course.
 
 Boom!
 
-The spearhead of White Flame rang sharply. The shaft I gripped with all my strength vibrated violently in my palm.
+White Flame’s spearhead rang sharply. The shaft clenched in my hands vibrated violently against my palms.
 
-Even though I had poured an enormous amount of internal energy into it, the force was unbelievable.
+Even though I had poured an enormous amount of internal energy into the strike, his strength was unbelievable.
 
 It was hard to believe such power belonged to a human being.
 
@@ -248,7 +248,7 @@ Whirrrrrl!
 
 The spearhead spun fiercely toward the Blood Lord’s chest.
 
-Perhaps because I had poured in all the Points I had received as the reward for winning the Star-Array Grand Banquet, my movement and strength had risen another level.
+After pouring every Point I had received for winning the Star-Array Grand Banquet into my stats, both my speed and strength had risen another level.
 
 But—
 
@@ -282,7 +282,7 @@ Thud! Boom!
 
 The Blood Lord snapped his sleeve, and a powerful burst of force slammed into my abdomen.
 
-After being driven back ten steps in a row, I saw the Blood Lord’s wide-eyed face—and the fountain of blood erupting from his chest.
+I was driven back ten steps. Through my wavering vision, I saw the Blood Lord’s wide-eyed face and a fountain of blood erupting from his chest.
 
 *I did it.*
 
@@ -300,7 +300,7 @@ I swallowed the blood surging up my throat and shouted.
 
 My voice rang across the devastated mountain path. It pierced the air, rode the wind, and reached one man’s ears.
 
-A heated voice slipped between his lips.
+His reply came burning hot.
 
 “Well done.”
 
@@ -310,7 +310,7 @@ Fwoooosh!
 
 A colossal blaze erupted from his small body. It burned the air and crushed the wind.
 
-If the Blood Lord’s qi was something so ominous that merely looking at it made one uneasy, then Jeok Cheongang’s was heat itself—as though it could burn the world.
+If the Blood Lord’s qi was so ominous that the mere sight of it inspired dread, then Jeok Cheongang’s was heat itself—enough to set the entire world ablaze.
 
 “Son of a bitch…”
 
@@ -324,7 +324,7 @@ He had used it only once before and become a legend by killing a thousand member
 
 At that moment, Jeok Cheongang vanished.
 
-He approached the Blood Lord on light footsteps, as though dancing, while his hands and feet blurred like mist.
+He appeared before the Blood Lord on steps as light as a dancer’s, his hands and feet blurring like mist.
 
 Red and blue fire qi filled heaven and earth. It was a beautiful flash of light—and terrifyingly destructive.
 
@@ -332,7 +332,7 @@ Red and blue fire qi filled heaven and earth. It was a beautiful flash of light�
 
 Whoosh!
 
-At the Blood Lord’s rough shout, black-red saber force mingled with the fire qi. A thunderous roar rang out, as though cliffs were collapsing and the sky itself were being torn apart.
+The Blood Lord’s furious roar rang out as black-red saber force clashed with the fire qi. A thunderous explosion followed, as though a cliff had collapsed and the sky itself had split apart.
 
 *This is…*
 
@@ -344,19 +344,19 @@ And I knew who had won.
 
 Boom!
 
-A wave of heat swallowed the black-red saber force. Something flashing shot into the sky and plunged deep into the churned-up earth.
+A wave of heat swallowed the black-red saber force. Something flashed into the sky before plunging deep into the churned earth.
 
 A saber.
 
 Its owner was receiving the final blow.
 
-“This old man told you, didn’t he? Even if you were a demon god instead of a human, I would kill you.”
+“This old man told you, did he not? Even if you were a demon god rather than a human, I would kill you.”
 
 With those quiet words, Jeok Cheongang drove a palm into the Blood Lord’s chest.
 
 Sizzle.
 
-His flesh burned, and his breastbone collapsed. After vomiting a mouthful of blood, the Blood Lord fell to his knees with a hazy look in his eyes.
+Flesh burned. The bones of his chest caved in. The Blood Lord vomited blood and sank to his knees, his eyes unfocused.
 
 And… that was all.
 
@@ -376,7 +376,7 @@ That was why Jeok Cheongang, despite all the long years he had lived, had only e
 
 “Well? Wasn’t it just as this old man told you?”
 
-“What are you talking about?”
+“What was?”
 
 “The Dance of the Fire God and Demon. Wasn’t it incredible?”
 
