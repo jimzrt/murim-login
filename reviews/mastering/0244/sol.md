@@ -1,6 +1,6 @@
 # Chapter 244
 
-I had loved the sea ever since I was a child. I loved its distinctive salty scent that pierced my nose, and I loved standing still and watching the waves crash against the shore.
+I had loved the sea ever since I was a child. I loved its distinctive salty scent in my nose, and I loved standing still and watching the waves crash against the shore.
 
 And now, there was a sea inside me.
 
@@ -26,11 +26,11 @@ Ding.
 >
 > - **Level Up!**
 
-*Finally, the sixth stage?*
+*Finally, the sixth stage.*
 
-I neither saw nor heard any of the other System notifications. The only thing that mattered to me was that the realm of the Scorching Sun Divine Arts had reached the sixth stage.
+I neither saw nor heard any of the other System notifications. The only thing that mattered was that the Scorching Sun Divine Arts had reached the sixth stage.
 
-*This is where the real thing begins, right?*
+*He said this was where the real challenge began.*
 
 The Fire Gate Cavern had been created by the first Sect Leader of the Fire Gate Clan for his successors.
 
@@ -80,7 +80,7 @@ Jeok Cheongang looked at me as though I were hopeless, then let out a deep sigh.
 
 *“Wait. The eighth stage? Haven’t you already achieved Great Completion?”*
 
-*“Do you think a divine art is called a divine art for no reason? Although your progress is fast, even the martial arts that can be learned in the Fire Gate Cavern have their limits. In the case of the Scorching Sun Divine Arts, that limit is precisely the fifth stage.”*
+*“Do you think a divine art is called a divine art for no reason? Your progress may be fast, but even the martial arts that can be learned in the Fire Gate Cavern have their limits. For the Scorching Sun Divine Arts, that limit is the fifth stage.”*
 
 *“…Then what comes after that?”*
 
@@ -104,9 +104,9 @@ Exactly six months later, I found myself staring at a half-dazed Jeok Cheongang.
 
 *“Yeah. Heavenly Martial Physique.”*
 
-*“This is impossible! Why did it have to be someone like you!”*
+*“This is impossible! Why did it have to be someone like you?”*
 
-Remembering Jeok Cheongang howling in despair, I let out a quiet laugh.
+Remembering Jeok Cheongang’s anguished howl, I let out a quiet laugh.
 
 Putting the old memory aside, I rose and stood before a large full-length mirror.
 
@@ -116,9 +116,9 @@ Reflected in it was a perfectly proportioned body with compact, powerful muscles
 
 Now that the thick beard was gone, my face felt oddly bare. But there had been no overcoming Jin Wikyung’s forceful insistence.
 
-*“The Star-Array Grand Banquet is a gathering watched by every martial artist under heaven. The Sleeping Dragon of Shanxi is appearing in the Central Plains, and you plan to go out looking like this? It’s a crime!”*
+*“The Star-Array Grand Banquet is an event watched by every martial artist under heaven. The Sleeping Dragon of Shanxi is finally appearing in the Central Plains, and you plan to go looking like this? It’s a crime!”*
 
-I had thought he was being a little dramatic, but after getting it cut, I liked this better.
+Calling it a crime had seemed a little dramatic, but now that I’d shaved, I liked this better.
 
 Whatever else anyone might say about this body, its face was ridiculously handsome.
 
@@ -130,9 +130,9 @@ Clink.
 
 “Oh, right. These.”
 
-The shackles, iron chains, and iron ball I had continued to drag around even after arriving at the estate of the Jin Family of Taiyuan.
+The shackles, chains, and iron balls I had continued dragging around even after arriving at the estate of the Jin Family of Taiyuan.
 
-I gazed silently at the objects that had practically become parts of my body, then opened my mouth.
+I gazed at the things that had practically become part of my body, then spoke.
 
 “Inventory open. Summon.”
 
@@ -148,7 +148,7 @@ Perhaps because it had been forged from an enormous quantity of Ten-Thousand-Yea
 
 Vrrrrm. Vrrrrm.
 
-As though it had recognized its own name, a faint vibration traveled from within the shaft.
+As though it recognized its own name, a faint vibration traveled through the shaft.
 
 White Flame was a weapon forged solely for me by Jang Taebo, the former Guild Leader of the Ironcraft Guild and a man hailed as the greatest smith under heaven.
 
@@ -162,19 +162,19 @@ However…
 
 As Hyuk Mujin’s voice outside the door reminded me, it was time to go.
 
-Sunlight flooded the world outside the window, and the people of the Jin Family of Taiyuan—including Jin Wikyung—were moving about busily.
+Bright sunlight streamed through the window, and the members of the Jin Family of Taiyuan—including Jin Wikyung—were bustling about outside.
 
 “All right.”
 
-As I answered, I choked up on the spear and slashed.
+As I answered, I gripped the spear near the blade and swept it around me.
 
-With four streaks of light, everything that had bound me for the past year fell away. The shackles, chains, and iron ball rolled noisily across the floor.
+Four streaks of light flashed, and everything that had bound me for the past year fell away. Shackles, chains, and iron balls crashed to the floor and rolled across it.
 
 Clatter! Boom!
 
 Bang!
 
-Startled by the tremendous noise, Hyuk Mujin opened the door and rushed in.
+Startled by the tremendous noise, Hyuk Mujin flung open the door and rushed inside.
 
 “What was that?”
 
@@ -214,7 +214,7 @@ The Fire King, Jeok Cheongang, muttered with an annoyed expression.
 
 “…Does this old man really have to attend something like this?”
 
-The Dharma King, Hong Dao, was sitting with an endlessly benevolent expression.
+The Dharma King, Hong Dao, sat beside him with a boundlessly benevolent expression.
 
 “This old monk is bored enough to attain Buddhahood, so keep your mouth shut and sit still.”
 
@@ -222,7 +222,7 @@ The Dharma King, Hong Dao, was sitting with an endlessly benevolent expression.
 
 “I am already bored. What do you think will happen if an old man with little time left starts whining beside me like a seven-year-old child?”
 
-“I would get annoyed.”
+“You’ll get annoyed.”
 
 “Exactly. If I become both bored and annoyed, I may smash my wooden fish and return to my quarters.”
 
@@ -244,11 +244,11 @@ Their thoughts differed, as did their clothing and the auras they exuded.
 
 Some were middle-aged men without a single white hair, while others were old men with heads of pure white.
 
-The dozen or so people gathered there, each so different from the others, were not ordinary mortals.
+But though the dozen or so people gathered there varied greatly in appearance, none were ordinary mortals.
 
 They belonged to the fifteen pillars supporting the Murim of the present day: the Nine Sects and One Gang and the Five Great Families.
 
-The Fire King, Jeok Cheongang, was already familiar with some of them.
+Some of them were faces the Fire King knew well.
 
 “Oh, if it isn’t Family Head Nangong.”
 
@@ -280,7 +280,7 @@ The man with the sycophant’s beard asked sourly, “Are you speaking to me?”
 
 “Wind-and-Cloud Sword Lord.”
 
-“What does that matter? Young man, why are you so rigid?”
+“What does it matter? You’re far too rigid for such a young man.”
 
 Gong Iljung, a “young man” who had long since passed sixty, had to steady his breathing.
 
@@ -292,11 +292,11 @@ But he had to endure it. The Fire King, Jeok Cheongang, was quite literally a ma
 
 “…Yes.”
 
-“Keep him under control so he doesn’t come to my attention. Shoving him into the Repentance Cave for about twenty years might not be a bad idea.”
+“Keep him under control so he doesn’t catch my eye again. Shoving him into the Repentance Cave for about twenty years might not be a bad idea.”
 
 Gong Iljung barely managed to swallow the curse rising to his lips.
 
-What Jeok Cheongang meant was that he could easily live another twenty years, so Gong Iljung had better not act up.
+What Jeok Cheongang meant was that he could easily live another twenty years, so Gong Iljung had better not try anything.
 
 Even those who normally regarded Jeok Cheongang with displeasure inwardly clicked their tongues.
 
@@ -312,15 +312,15 @@ They might have belonged to different sects, but the Murim had a strict order of
 
 Jeok Cheongang was a figure from two generations earlier, which naturally placed his seniority far above theirs.
 
-That was one reason the leaders gathered there could do nothing but tremble before him, no matter how much they dominated the world.
+That was one reason even the mighty leaders gathered here had no choice but to tread carefully around him.
 
 Martial arts, seniority, or verbal skill—there was not a single area in which they could beat him.
 
 “Ahem. Ahem.”
 
-“Erhm.”
+“Hmm.”
 
-Several people were clearing their throats to avoid Jeok Cheongang’s questions when a booming voice rang out.
+Several people were clearing their throats to avoid attracting Jeok Cheongang’s attention when a booming voice rang out.
 
 “Hahahaha! With the tiger away, the fox has been playing king. Jeok Cheongang, have you been well?”
 
@@ -330,7 +330,7 @@ Jeok Cheongang turned toward the thunderous voice, his brow already deeply furro
 
 “Listen to the way this little old man talks.”
 
-An enormous old man threw back his head and laughed. Although his mouth split open in a broad grin, his sharp eyes swept over Jeok Cheongang.
+The enormous old man threw back his head and laughed. Despite his broad grin, his sharp eyes were carefully sweeping over Jeok Cheongang.
 
 “I welcomed a great-great-grandson not long ago. There’s no chance I’ll die before I see that boy get married.”
 
@@ -340,7 +340,7 @@ An enormous old man threw back his head and laughed. Although his mouth split op
 
 Jeok Cheongang replied with an indifferent expression.
 
-“The greatest beauty in that neighborhood can’t be trusted. Isn’t Hebei the place where anyone with fists this big and a thick waist gets called Yang Guifei?”
+“You can’t trust claims about the greatest beauty in that neighborhood. Isn’t Hebei the kind of place where a woman with big fists and a thick waist gets called Yang Guifei?”
 
 “What!”
 
@@ -350,7 +350,7 @@ Jeok Cheongang replied with an indifferent expression.
 
 “What do you mean? To celebrate seeing your great-great-grandson, why don’t you change your title while you’re at it? Forget Thunderbolt Saber King. How about Virility Saber King?”
 
-“GRAAAAGH! You old man!”
+“GRAAAAGH! You old bastard!”
 
 “Sit down while I’m asking nicely. Don’t you remember breaking your bones when you challenged me during the Great Faction War?”
 
@@ -368,7 +368,7 @@ His final words proved effective. The two men hesitated, then withdrew their aur
 
 “I’ll be waiting, Virility Saber King.”
 
-Having delivered the final blow to the Thunderbolt Saber King’s title, Jeok Cheongang leisurely walked away.
+Having landed one final blow on the Thunderbolt Saber King, Jeok Cheongang leisurely walked away.
 
 The Dharma King, the Thunderbolt Saber King, and the overlords of the various regions followed behind him.
 
