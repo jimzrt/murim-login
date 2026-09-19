@@ -1,0 +1,114 @@
+{
+  "chapter": 425,
+  "files": {
+    "characters/Divine Physician.md": "e60bbf7b290f22aaa7a0fa4b9538aeb10f7567cdc7283588116fda03cc523cf6",
+    "characters/Human Butcher.md": "ff7600488f765a62de7b0146ae23ce9423489e38df75f570880cc67691ee8c59",
+    "characters/Lee Jungryong.md": "6dd7ac0bda1efb4c41556a236227433cf5850a7861d3a418398f3f71541bb3d2",
+    "characters/Skeleton King.md": "4c9f51a26c77b8957f4814ac1f3263ba8a18426db21aef0439f227c21f6a21b8",
+    "docs/ADDRESS.md": "6215f7362654a41f862e4fe8d577a2990d3b2f8e87a0fa9a63e58673884f3060",
+    "docs/CONTEXT.json": "f9e7b49ef2a12d2220938dea520da3c5fe91b4cb71d9ede2a3c41edba14b49f0",
+    "docs/NAMES.md": "b213a7c4406336c5137abdeac2190f57d40bfbb0898c49492d7607f0ede27c9d",
+    "docs/STATE.md": "8414cf70646684e21242190a0ea39c30e534d31ea84a4f258893e4450534007f",
+    "summaries/beats/0425.md": "34af9d0c2cfd4dc0e1f2f79b5f0c51b44c1f3b7d23718e7c95feacb15d982ac2"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "인간",
+        "kinship": "enemy and torture victim",
+        "normal_address": "Human",
+        "notes": "The Arch Lich repeatedly addresses Jin as 인간 while torturing him.",
+        "speaker": "아크 리치",
+        "speech_level": "archaic and contemptuous"
+      },
+      {
+        "addressee": "인간",
+        "kinship": "friend and ally",
+        "normal_address": "Human",
+        "notes": "The revived Skeleton King calls to Jin as 인간 before Jin resumes the attack.",
+        "speaker": "스켈레톤 킹",
+        "speech_level": "quiet and familiar"
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "The Skeleton Warlord was not erased; Hero’s Soul reconstructed it as a larger, stronger Lv.160 Skeleton King with a crown-like silver mark.",
+        "The Skeleton King regards Jin as a friend and ally, and Jin accepts it as his friend.",
+        "Hero’s Soul’s radiance is consuming the Arch Lich’s mana and body after piercing its chest, but the Arch Lich’s final fate is unresolved.",
+        "Hero’s Soul removed all of Jin’s status effects, healed all injuries, and restored all attributes.",
+        "Jin recovered White Flame and launched One Annihilation against both the Arch Lich and the enormous Gate.",
+        "The Gate was nearing completion and was strengthening the Arch Lich before One Annihilation struck it.",
+        "The Quest One Who Returned from Death remains active, keeping Login unavailable until the Quest ends."
+      ],
+      "plot": [
+        "The Arch Lich tortures Jin with controlled healing until Hero’s Soul pierces its chest and reconstructs the destroyed Skeleton Warlord as a Lv.160 Skeleton King. Hero’s Soul then fully heals Jin and restores his attributes, allowing him to recover White Flame and launch One Annihilation at the Arch Lich and the enormous Gate together; the chapter ends with the blue fire dragon engulfing both."
+      ],
+      "translation_decisions": [
+        "Render 스켈레톤 킹 as Skeleton King and 골골이 as Bones.",
+        "Render 영웅의 혼 as Hero’s Soul and 치유의 빛 as the light of healing.",
+        "Preserve the Arch Lich’s archaic, contemptuous register and Jin’s profanity."
+      ]
+    },
+    "chapter": 425,
+    "context": {
+      "active_continuity": [
+        "Jin’s Middle Dantian is open, allowing him to perceive the center and grain of magic and sever spells.",
+        "Hero’s Soul fully healed Jin, removed all status effects, and restored all attributes.",
+        "The Skeleton Warlord revived through Hero’s Soul as a Lv.160 Skeleton King.",
+        "The Skeleton King is Jin’s friend and ally after sacrificing itself to save him.",
+        "The Arch Lich is impaled by Hero’s Soul, whose golden radiance is consuming its mana and body.",
+        "The Gate was nearing completion and was strengthening the Arch Lich.",
+        "Jin recovered White Flame and launched One Annihilation at the Arch Lich and the Gate.",
+        "The result of One Annihilation and the fate of the Arch Lich and Gate are unresolved.",
+        "The Quest One Who Returned from Death remains active, keeping Login unavailable until the Quest ends."
+      ],
+      "continuity_sources": [
+        425,
+        424
+      ],
+      "open_questions": [
+        "Did One Annihilation destroy the Arch Lich?",
+        "Did One Annihilation stop or destroy the enormous Gate?",
+        "What condition are the Skeleton King and Hero’s Soul in after the attack?",
+        "What is Asmodeus’s current status and location?"
+      ],
+      "safe_through": 425,
+      "temporary_decisions": [
+        "Render 스켈레톤 킹 as Skeleton King and 골골이 as Bones.",
+        "Render 영웅의 혼 as Hero’s Soul and 치유의 빛 as the light of healing.",
+        "Preserve the Arch Lich’s archaic, contemptuous register and Jin’s profanity."
+      ],
+      "version": 1
+    },
+    "names": [
+      {
+        "english": "Skeleton King",
+        "korean": "스켈레톤 킹",
+        "notes": "New form and System title of the revived Skeleton Warlord; shown as Lv.160."
+      },
+      {
+        "english": "Bones",
+        "korean": "골골이",
+        "notes": "Jin’s familiar nickname for the Skeleton Warlord and its new Skeleton King form."
+      }
+    ],
+    "profile_creations": [
+      {
+        "aliases": [
+          "Skeleton Warlord",
+          "Bones"
+        ],
+        "english": "Skeleton King",
+        "filename": "Skeleton King.md",
+        "korean": "스켈레톤 킹",
+        "personality": "Loyal, self-sacrificing, and wryly humorous.",
+        "relationships": "Friend and ally of Jin Taekyung; enemy of the Arch Lich.",
+        "role": "The former Skeleton Warlord, revived and transformed into a Lv.160 Skeleton King through Hero’s Soul, who fights beside Jin Taekyung.",
+        "voice": "Quiet, understated, and familiar."
+      }
+    ],
+    "profile_updates": [],
+    "version": 1
+  },
+  "version": 1
+}

@@ -1434,3 +1434,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 블러드 익스플로젼 | **Blood Explosion** | Arch Lich spell that detonates Jin's blood and causes catastrophic injury. |
 | 본 익스플로젼 | **Bone Explosion** | Arch Lich spell that destroys the Skeleton Warlord. |
 | 소멸 | **Erasure** | Jin's term for the Skeleton Warlord's destruction by the Arch Lich's mana. |
+| 스켈레톤 킹 | **Skeleton King** | New form and System title of the revived Skeleton Warlord; shown as Lv.160. |
+| 골골이 | **Bones** | Jin’s familiar nickname for the Skeleton Warlord and its new Skeleton King form. |

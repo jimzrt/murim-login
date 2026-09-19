@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Monsters and humans were sworn enemies, as ordained by the gods.",
+      "defect": "The draft changes the singular 신 into plural gods, altering a stated world fact.",
+      "id": "F01",
+      "rationale": "The source explicitly uses the singular subject 신이.",
+      "replacement": "Monsters and humans were sworn enemies, as ordained by God.",
+      "severity": "critical",
+      "source": "몬스터와 인간은 신이 정한 숙적의 관계다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“I’m saying I’ll laugh, so why the fuck do you care? Are you my senior or something?”",
+      "defect": "The generic “senior” loses 맞선임’s specifically military sense of the service member directly senior to the speaker, weakening the joke and Jin’s register.",
+      "id": "F02",
+      "rationale": "맞선임 is a military-hierarchy term, not a generic senior person.",
+      "replacement": "“Why the fuck do you care if I laugh? What are you, my immediate senior in the army?”",
+      "severity": "major",
+      "source": "“내가 웃겠다는데 왜 지랄이야. 네가 내 맞선임이냐?”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "The Arch Lich’s eye-lights trembled.\n\nI was no different.",
+      "defect": "The second sentence grammatically suggests that Jin’s nonexistent eye-lights also trembled; the source means he was similarly shaken by the unexpected event.",
+      "id": "F03",
+      "rationale": "그것은 나 역시 크게 다르지 않았다 compares their startled reactions, not their physical eye-lights.",
+      "replacement": "The Arch Lich’s eye-lights trembled.\n\nI was just as shaken.",
+      "severity": "minor",
+      "source": "아크 리치의 안광이 파르르 떨렸다. 그것은 나 역시 크게 다르지 않았다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Why had it chosen to become my shield even though it knew it would be erased?",
+      "defect": "The draft turns the Skeleton Warlord’s resolve to face possible Erasure into certain foreknowledge that it would be erased, and it does not use the established term Erasure.",
+      "id": "F04",
+      "rationale": "소멸을 각오하다 means being resolved or prepared to face Erasure, not knowing with certainty that it will happen.",
+      "replacement": "Why had it chosen to become my shield even though it had been prepared to face Erasure?",
+      "severity": "major",
+      "source": "어째서 소멸을 각오하면서까지 스스로 방패를 자처했느냐고."
+    },
+    {
+      "confidence": 0.9,
+      "current": "“You’ve gotten big, our Golgoli.”",
+      "defect": "The unestablished romanization “Golgoli” leaves the affectionate bone-based nickname opaque, while “our” is unnatural English address.",
+      "id": "F05",
+      "rationale": "골골이 is an affectionate nickname for the skeleton; “Bones” conveys that function naturally without introducing an unexplained proper name.",
+      "replacement": "“Look how much you’ve grown, Bones.”",
+      "severity": "minor",
+      "source": "“많이 컸네. 우리 골골이.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "- All injuries and attributes have been restored!",
+      "defect": "Injuries cannot naturally be “restored”; they are healed, while attributes are restored.",
+      "id": "F06",
+      "rationale": "The replacement preserves both recoveries while giving each object its natural English verb.",
+      "replacement": "- All injuries have been healed, and all attributes restored!",
+      "severity": "minor",
+      "source": "- 모든 부상과 능력치가 회복됩니다!"
+    },
+    {
+      "confidence": 0.98,
+      "current": "The fire dragon spread its wings and soared from my dantian, transforming into a ball of flame as it surged through my four limbs and hundred bones.",
+      "defect": "“Four limbs and hundred bones” is a stiff literal calque of the idiom 사지 백해 rather than natural contemporary English.",
+      "id": "F07",
+      "rationale": "사지 백해 denotes the whole body, especially every limb and bone, rather than a literal anatomical count.",
+      "replacement": "The fire dragon spread its wings and soared from my dantian, transforming into a ball of flame as it surged through every limb and bone in my body.",
+      "severity": "minor",
+      "source": "단전에서 날개를 펴고 날아오른 화룡이 불덩이가 되어 사지 백해로 솟구친다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The Arch Lich flung its hands about in a frenzy, but the magic it fired collided with the heat surrounding me like a barrier and vanished before it could even reach me.",
+      "defect": "The draft omits the Arch Lich flailing its feet as well as its hands, changing the described full-body action.",
+      "id": "F08",
+      "rationale": "손발 explicitly includes both upper and lower limbs; the Arch Lich is thrashing with its whole body.",
+      "replacement": "The Arch Lich flailed its arms and legs in a frenzy, but the magic it fired collided with the heat surrounding me like a barrier and vanished before it could even reach me.",
+      "severity": "critical",
+      "source": "아크 리치가 발광하듯 손발을 흩뿌렸지만, 놈이 쏘아 보낸 마법은 내게 닿기도 전에 방어막처럼 주위를 둘러싼 열기와 부딪쳐 사라졌다."
+    }
+  ],
+  "summary": "Several fidelity and register issues remain, including a changed theological quantity, lost military humor, altered willingness around Erasure, an omitted physical action, and localized terminology and prose problems.",
+  "version": 1
+}

@@ -703,3 +703,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 아크 리치 | 인간 | enemy addressing Jin | human | formal and contemptuous | The Arch Lich uses human as a dismissive address while threatening Jin. |
 | 아크 리치 | 인간 | enemy combatant and possible Adversary | human | archaic, contemptuous, and triumphant | The Arch Lich repeatedly addresses Jin as 인간이여 while belittling him. |
 | 스켈레톤 워로드 | 인간 | ally and friend | human | gruff, informal, and increasingly vulnerable | The Skeleton Warlord addresses Jin as 인간 while asking whether Jin's earlier praise was sincere. |
+| 아크 리치 | 인간 | enemy and torture victim | Human | archaic and contemptuous | The Arch Lich repeatedly addresses Jin as 인간 while torturing him. |
+| 스켈레톤 킹 | 인간 | friend and ally | Human | quiet and familiar | The revived Skeleton King calls to Jin as 인간 before Jin resumes the attack. |
