@@ -68,11 +68,11 @@ To be honest, I hadn’t expected it to take this long either.
 
 Hayeon stared at me in disbelief, and I casually began piling lie upon lie.
 
-“What are you talking about? I woke up once or twice in the middle.”
+“What are you talking about? I woke up once or twice.”
 
 “You didn’t. Every time Mom and I checked, you were sleeping…”
 
-“I woke up around dawn each day. How could you have seen me?”
+“I woke up around dawn each time. How could you have seen me?”
 
 “Huh?”
 
@@ -110,7 +110,7 @@ I deliberately hardened my expression as I called her by her full name, and Haye
 
 “That’s incredible.”
 
-Hayeon nodded solemnly. Mom, who had been listening quietly, looked utterly crushed as she spoke.
+Hayeon nodded solemnly. Mom, who had been listening quietly, looked utterly crushed.
 
 “Son, that’s not something to brag about…”
 
@@ -122,7 +122,7 @@ The problem was that I was hammering another huge nail into my mother’s heart.
 
 *There goes another point on my unfilial-son score.*
 
-I quietly avoided Mom’s gaze. It wasn’t as though my poor academic performance was anything new. Thankfully, the whole narcolepsy business disappeared from the conversation.
+I quietly avoided Mom’s gaze. It wasn’t as though my poor academic performance was anything new. Thankfully, that put an end to the whole narcolepsy business.
 
 Before Hayeon could say anything else, I changed the subject.
 
@@ -160,7 +160,7 @@ Mom and Hayeon’s ears perked up at the doorbell.
 
 What was here?
 
-I asked with a bewildered expression.
+I stared at them in confusion.
 
 “Is someone coming?”
 
@@ -210,7 +210,7 @@ It had been a while since I’d seen him, but I felt more uneasy than glad. If t
 
 “Yes.”
 
-That was fine. I was curious what the new Guild members were like, and I could go for a little while before coming home and getting some proper rest.
+That sounded fine. I was curious about the new Guild members, and I could stop by for a while before coming home to get some proper rest.
 
 “When does the workshop end?”
 
@@ -264,13 +264,13 @@ The rookie B-rank Hunters who had just graduated from the training center felt t
 
 “I feel like one hit would kill me.”
 
-Just as the roughly twenty new Guild members were watching the Stone Golem loitering in the distance and swallowing dryly, someone spoke.
+The roughly twenty new Guild members watched the Stone Golem lumber around in the distance, swallowing nervously.
 
 “There’s no need to be afraid. The Stone Golem approaching us possesses tremendous destructive power and durability, but it does have one weakness: it’s slow.”
 
-At the young Team Leader’s words—he looked as though he had just stepped out of a fashion magazine—the female Hunters nodded with dreamy expressions.
+The young Team Leader looked as though he had just stepped out of a fashion magazine. The female Hunters nodded with dreamy expressions.
 
-“They say it’s slow.”
+“He says it’s slow.”
 
 “If Team Leader Choi Minwoo says it’s slow, then it’s slow. He’s right.”
 
@@ -284,9 +284,9 @@ Boom, boom, boom, boom!
 
 “…It’s really fast, though.”
 
-“Fuck, I should’ve gone with damage dealer instead of tank.”
+“Damn it, I should’ve picked damage dealer instead of tank.”
 
-“Excuse me. Do you think damage dealers are people who sit around and eat for free?”
+“Excuse me. Do you think damage dealers just sit around doing nothing?”
 
 “Then take my shield and tank it for me.”
 
@@ -296,9 +296,9 @@ The dark clouds hanging over the new Guild members’ faces scattered when a cle
 
 “The wind dwells within you. Haste!”
 
-“Power that can shatter stone. Strength!”
+“Strength that shatters stone. Strength!”
 
-“Breathe life into your weary bodies. Healing!”
+“Life to your weary bodies. Healing!”
 
 Fwoooosh.
 
@@ -310,7 +310,7 @@ Feeling their bodies grow vastly stronger than before, they turned around in ast
 
 *What is this? The difference is incredible.*
 
-*She’s a B-rank healer like me, but her effect is this strong?*
+*She’s a B-rank healer like me, but her spells are this effective?*
 
 *Wow. So she really is from the Ares Guild.*
 
@@ -352,7 +352,7 @@ The intense heat incinerated the dry branches and leaves. The blackened trunk cr
 
 “Whoa…”
 
-“What is this?”
+“What was that?”
 
 A rich baritone worthy of a coffee commercial drifted down from above the new Guild members’ gaping faces.
 
@@ -374,9 +374,9 @@ The only difference was that this time, it appeared behind them instead of in fr
 
 “Guild Master! Guild Master?”
 
-Kim the Butler blocked off the new Guild members’ rear with a curtain of fire and smiled faintly.
+Butler Kim blocked off the new Guild members’ retreat with a curtain of fire and smiled faintly.
 
-“You cannot grow by receiving nothing but help inside a Gate. Fight as though your lives depend on it.”
+“You cannot grow if you rely on others for help inside a Gate. Fight with everything you have.”
 
 “…”
 
@@ -384,9 +384,9 @@ Kim the Butler blocked off the new Guild members’ rear with a curtain of fire 
 
 Swoosh.
 
-Kim the Butler flicked his fingers, and Team Leader Choi and Song Song’s bodies rose into the air.
+Butler Kim crooked a finger, and Team Leader Choi and Song Song rose into the air.
 
-The abandoned new Guild members were just about to fall into a panic when a shout rang out.
+The abandoned new Guild members were just about to panic when a shout rang out.
 
 “Tanks, forward!”
 
@@ -400,7 +400,7 @@ The first man to step forward was a middle-aged D-rank Hunter whose only claim t
 
 “What are you doing? Get your heads in the game!”
 
-But they had no choice. Their bodies, already sensing the threat to their lives, moved toward the front line of their own accord.
+But they had no choice. Their bodies, already sensing a threat to their lives, moved toward the front line of their own accord.
 
 “Formation!”
 
@@ -442,11 +442,11 @@ The raid had lasted a full five hours. Despite their numbers, it had been a long
 
 “Let’s take a group picture later. I’m going to frame it and hang it in my living room.”
 
-“Who takes down a Stone Golem for their first raid?”
+“Who gets to take down a Stone Golem on their first raid?”
 
 “Good work, everyone.”
 
-Just as everyone was looking back on their achievement with moved expressions—
+Just as everyone was gazing proudly at what they had accomplished—
 
 —Grrrroooooar!
 
@@ -464,13 +464,13 @@ Someone shrieked.
 
 “Eeeek!”
 
-The appearance of Iron Golems, among the highest-ranking of all golems, was more than enough to send everyone into a panic.
+The appearance of Iron Golems, among the most powerful of all golems, was more than enough to send everyone into a panic.
 
 “W-Why are they here?”
 
 “Aren’t they supposed to be scattered all over the place?”
 
-They had never heard of golems living in tribes.
+They had never heard of golems forming packs.
 
 But the sight of them drawing closer by the second, and the ground trembling as though an earthquake had struck, told them this was all too real.
 
@@ -478,9 +478,9 @@ In the end, they had only one lifeline left.
 
 “Please help us! We’ll all die at this rate!”
 
-The cry rose toward the sky. Team Leader Choi, who had been floating in the air and watching the situation from beginning to end, smiled.
+The cry rose toward the sky. Team Leader Choi, who had been floating in the air and watching from the beginning, smiled.
 
-“There’s nothing for us to help you with.”
+“You don’t need our help.”
 
 “…What did you say?”
 

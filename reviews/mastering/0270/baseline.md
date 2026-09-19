@@ -3,22 +3,20 @@
 Ding.
 
 > **System**
->
+> 
 > - **Logout** complete.
 
 My eyes flew open with the familiar System notification.
 
-Instead of the familiar ceiling, I found two pairs of eyes staring down at me.
-
-The moment our gazes met—
+The moment my gaze met the two pairs of eyes staring down at me instead of the familiar ceiling—
 
 “Eek!”
 
-“Oh my God!”
+“Oh, my God!”
 
-They both let out piercing shrieks and fell backward onto their butts.
+The two of them let out shrieks that could split eardrums and fell backward onto their butts.
 
-I yawned as though I had just woken up and looked at Mom and Hayeon.
+I yawned as if I had just woken up and looked at my mother and Hayeon.
 
 “What are you so surprised about?”
 
@@ -36,25 +34,27 @@ Smack! Smack!
 
 Hayeon’s eyes blazed, while Mom charged in and mercilessly pounded my back.
 
-Somehow, the palm of a woman in her fifties hurt worse than the fist of an average martial artist.
+Somehow, the palm of a woman in her fifties hurt more than the fist of an average martial artist.
 
 *Was this some kind of Inner-Family Heavy Hand?*
 
 The Mother’s Palm Strike, remembered by both body and soul.
 
-It was only after I had taken many more blows that the barrage of slaps finally stopped.
+It was only after I had taken a great many more blows that the palm-storm finally stopped.
 
-Of course, getting hit a few times didn’t solve all my problems.
+Of course, being hit a few times didn’t solve all my problems.
 
 “Son.”
 
-I swallowed hard at the weight in Mom’s voice. As expected, the mood was ominous.
+I swallowed hard at the weight in Mom’s voice. As expected, the atmosphere was anything but good.
 
 “Yes, yes, Mother.”
 
 “Do you know you’ve been sleeping for two whole days?”
 
-Hayeon added, “Forty-two hours, to be exact.”
+Hayeon added,
+
+“Forty-two hours, to be exact.”
 
 “That’s right. You wouldn’t wake up, so we almost called an ambulance.”
 
@@ -62,11 +62,11 @@ Forty-two hours.
 
 I’d slept quite a while. I had spent more than a year in Murim, after all, so it made sense that this much time had passed.
 
-To be honest, I hadn’t expected it to take this long either.
+To be honest, I hadn’t expected it to take this long, either.
 
 “Do you have narcolepsy or something? How can you sleep that long? You didn’t even react when we shook you.”
 
-Hayeon stared at me in disbelief, and I casually began piling lie upon lie.
+Hayeon asked with a thoroughly exasperated expression, and I casually piled lie upon lie.
 
 “What are you talking about? I woke up once or twice in the middle.”
 
@@ -94,7 +94,7 @@ I deliberately hardened my expression as I called her by her full name, and Haye
 
 “I-I don’t.”
 
-“I slept straight through all seven periods without even eating, then slept again during evening self-study.”
+“I slept straight through seven periods without even eating, then slept again during evening self-study.”
 
 “…”
 
@@ -102,11 +102,11 @@ I deliberately hardened my expression as I called her by her full name, and Haye
 
 “There’s more?”
 
-“Of course. After sleeping at school, what do you think I did at home?”
+“After sleeping at school, what do you think I did at home?”
 
 “Could it be…”
 
-“That’s right. I came home from school and went back to sleep. That’s the kind of person I am.”
+“That’s right. I went home after school and slept again. That’s the kind of person I am.”
 
 “That’s incredible.”
 
@@ -116,11 +116,11 @@ Hayeon nodded solemnly. Mom, who had been listening quietly, looked utterly crus
 
 Sorry, Mom.
 
-But something similar might happen again, so it seemed better to hammer the point home now.
+But something similar might happen again in the future, so it seemed better to establish that precedent now.
 
-The problem was that I was hammering another huge nail into my mother’s heart.
+The problem was that I was driving another nail into my mother’s heart.
 
-*There goes another point on my unfilial-son score.*
+*I’m building up my unfilial-son score again.*
 
 I quietly avoided Mom’s gaze. It wasn’t as though my poor academic performance was anything new. Thankfully, the whole narcolepsy business disappeared from the conversation.
 
@@ -134,11 +134,11 @@ Hayeon answered with a look of utter contempt.
 
 “Oh, really?”
 
-“Yeah. I picked the most expensive one. It was worth every penny. I reclined in it for a minute and nearly went straight to heaven.”
+“Yeah. I picked the most expensive one. It was worth every penny. I lay down for a minute and nearly went straight to heaven.”
 
 “You’re taking the express train to hell when you die. Where did you get the money?”
 
-“What do you mean, where? It was all your money. Here. I put your card to good use.”
+“What do you mean, where? It was all your money. Here. I used the card properly.”
 
 “…Right. Good job.”
 
@@ -146,9 +146,9 @@ When had she taken my card?
 
 But I had my own crimes to answer for, so I couldn’t say anything.
 
-How much did the most expensive one cost, anyway? Maybe I should have kept more of the money from selling the raid monster last time.
+How much did the most expensive one cost, anyway? I should have kept more of the money from selling the raid monster last time.
 
-I was mulling it over as I took back the card when—
+I was thinking about this and that as I took back the card when—
 
 Ding-dong.
 
@@ -168,7 +168,7 @@ I asked with a bewildered expression.
 
 Hayeon answered excitedly and dashed out of the room.
 
-But a moment later, the voice that accompanied the sound of the front door opening did not belong to the delivery driver Hayeon had been waiting for.
+But a moment later, the voice that came with the sound of the front door opening did not belong to the delivery driver Hayeon had been waiting for.
 
 “Excuse me. Is Jin Taekyung here?”
 
@@ -178,27 +178,27 @@ But a moment later, the voice that accompanied the sound of the front door openi
 
 A soft yet low voice continued.
 
-“I’m a Team Leader. The Peace Guild’s Team Leader.”
+“I’m a Team Leader. The Team Leader of the Peace Guild.”
 
 There was only one Peace Guild Team Leader I knew.
 
-When I stepped into the living room, I saw a man in a black coat over Hayeon’s shoulder.
+When I went into the living room, I saw a man in a black coat over Hayeon’s shoulder.
 
 “Team Leader.”
 
-Team Leader Choi dipped his head in greeting.
+Team Leader Choi gave a small nod in greeting.
 
 “Have you been resting well?”
 
 “…More or less.”
 
-In truth, spending over a year struggling in Murim had left me mentally exhausted.
+In truth, the mental exhaustion from struggling in Murim for over a year was no joke.
 
-It had been a while since I’d seen him, but I felt more uneasy than glad. If this man had come all the way to my house, his business was obvious.
+Even though it had been a while since I’d seen him, unease outweighed happiness. That was because if this man had come all the way to my house, his business was obvious.
 
 “I’m glad to hear you’ve had a good rest.”
 
-“I didn’t say I’d had a good rest. No, wait—what brings you here? I thought I didn’t have any media appearances scheduled for a while.”
+“I didn’t say I’d had a good rest—no, but what brings you here? I thought I didn’t have any media schedules for a while.”
 
 “That’s only natural. You aren’t a celebrity, after all.”
 
@@ -218,7 +218,9 @@ That was fine. I was curious what the new Guild members were like, and I could g
 
 “What kind of workshop lasts a whole week? Are we going to Pyeongchang or Gapyeong?[^1]”
 
-“Think bigger.”
+[^1]: Pyeongchang and Gapyeong are popular domestic getaway destinations in South Korea, often used for group retreats.
+
+“Think on a larger scale.”
 
 “Then maybe… an overseas resort in Southeast Asia?”
 
@@ -226,7 +228,7 @@ That was fine. I was curious what the new Guild members were like, and I could g
 
 “Phuket? It’s Phuket, isn’t it!”
 
-Team Leader Choi beamed at me.
+Team Leader Choi smiled brightly.
 
 “We’ve secured an A-rank Gate.”
 
@@ -236,23 +238,19 @@ Team Leader Choi beamed at me.
 
 “…”
 
-A workshop with monsters.
-
-Wonderful.
+A workshop with monsters. Now that was something.
 
 * * *
 
-Rumble. Boom!
+Grroooan. Boom!
 
-The ground shook every time the five-meter-tall giant took a step.
+The earth shook every time the five-meter-tall creature took a step.
 
 Its entire body, from head to toe, was made of solid rock. Moss clung to it here and there, and the whole thing looked damp with moisture.
 
-A red light flashed from the uppermost rock, where vines hung down like hair.
+A red light flashed from the rock at the very top, where vines hung down like hair.
 
-The monster’s eye.
-
-Someone groaned under their breath as that lifeless eye swept over them.
+The monster’s eyes. Someone muttered like a groan at the gaze of the magical creature, which held not even a speck of vitality.
 
 “Golem…”
 
@@ -266,7 +264,7 @@ The rookie B-rank Hunters who had just graduated from the training center felt t
 
 Just as the roughly twenty new Guild members were watching the Stone Golem loitering in the distance and swallowing dryly, someone spoke.
 
-“There’s no need to be afraid. The Stone Golem approaching us possesses tremendous destructive power and durability, but it does have one weakness: it’s slow.”
+“There’s no need to be afraid. The Stone Golem coming this way has tremendous destructive power and durability, but it does have one weakness: it’s slow.”
 
 At the young Team Leader’s words—he looked as though he had just stepped out of a fashion magazine—the female Hunters nodded with dreamy expressions.
 
@@ -276,9 +274,7 @@ At the young Team Leader’s words—he looked as though he had just stepped out
 
 At that moment, the Stone Golem’s head slowly turned toward them.
 
-A brief silence followed.
-
-Then its rocky legs accelerated, devouring three meters with every stride.
+A brief silence passed. Then its rocky legs accelerated. With every stride, it ate up three meters in an instant.
 
 Boom, boom, boom, boom!
 
@@ -288,13 +284,13 @@ Boom, boom, boom, boom!
 
 “Excuse me. Do you think damage dealers are people who sit around and eat for free?”
 
-“Then take my shield and tank it for me.”
+“Then hold the shield and tank for me.”
 
 “I’d rather not.”
 
-The dark clouds hanging over the new Guild members’ faces scattered when a clear voice rang out.
+The dark clouds that had settled over the new Guild members’ faces scattered at the clear voice that rang out next.
 
-“The wind dwells within you. Haste!”
+“Let the wind take root. Haste!”
 
 “Power that can shatter stone. Strength!”
 
@@ -302,11 +298,11 @@ The dark clouds hanging over the new Guild members’ faces scattered when a cle
 
 Fwoooosh.
 
-The incantations rang out one after another.
+The shouts rang out one after another.
 
-A refreshing breeze swept over them, and halos of light descended onto the new Guild members’ heads.
+Along with a refreshing breeze, halos of light descended over the new Guild members’ heads.
 
-Feeling their bodies grow vastly stronger than before, they turned around in astonishment.
+Those who felt their bodies improve beyond comparison turned around with astonished expressions.
 
 *What is this? The difference is incredible.*
 
@@ -314,33 +310,31 @@ Feeling their bodies grow vastly stronger than before, they turned around in ast
 
 *Wow. So she really is from the Ares Guild.*
 
-Under their collective stare, Song Song’s flawless brow furrowed.
+At the gazes directed toward her, Song Song furrowed her flawless brow.
 
 “What are you all doing? Do you want to keep standing there glassy-eyed until you have your workshop in heaven?”
 
-They had been left dazed once by her buff magic—powerful enough to make them mistake her for an A-rank healer—and a second time by her beauty.
-
-Only then did the new Guild members snap out of it.
+Dazed once by the effect of the buff magic—powerful enough to make them mistake her for an A-rank healer—and a second time by her beauty, the new Guild members finally snapped out of it.
 
 Boom, boom, boom, boom!
 
 —Grrrroooar!
 
-The Stone Golem had already closed to within twenty meters. It swung its arm.
+The Stone Golem, which had already advanced to within twenty meters, swung its arm.
 
 Whoooosh!
 
-With an air-splitting roar, a massive tree that had stood rooted deep in the ground moments before shot toward them like a cannonball.
+With a tremendous crack of displaced air, a massive tree that had been deeply embedded in the ground only moments before shot toward them like a cannonball.
 
 “S-Shields!”
 
 Clack-clack-clack!
 
-At the panicked cry, several tower shields filled with mana rose to block the front.
+Several tower shields filled with mana rose to block the front amid screams that sounded like cries of terror.
 
-But could those shields really stop a massive tree fired at them like a bullet?
+But could they really stop a tree trunk fired at them like a bullet with nothing but this?
 
-Everyone gritted their teeth, bracing for the impact.
+Just as everyone gritted their teeth, expecting a violent impact—
 
 “Fire Wall.”
 
@@ -348,17 +342,17 @@ Fwoooosh!
 
 A massive wall of flame surged upward.
 
-The intense heat incinerated the dry branches and leaves. The blackened trunk crumbled the instant it struck the tower shields.
+The intense heat incinerated the dry branches and leaves. The trunk, blackened all over, crumbled the instant it struck the tower shields.
 
 “Whoa…”
 
 “What is this?”
 
-A rich baritone worthy of a coffee commercial drifted down from above the new Guild members’ gaping faces.
+A deep, mellow voice fit for a coffee commercial rang out above the wide-open mouths of the new Guild members.
 
-“I blocked that one for you. There won’t be a second time.”
+“I blocked it once, but there won’t be a second time.”
 
-It was strange. His words and actions were impeccably polite, yet the old gentleman’s eyes held the same viciousness as the training Instructor who had tormented them until recently.
+It was strange. His words and actions were impeccably polite, but the old gentleman’s eyes held the viciousness of the training instructor who had tormented them at the training center until recently.
 
 No, it was even worse.
 
@@ -372,7 +366,7 @@ The only difference was that this time, it appeared behind them instead of in fr
 
 “What the hell is this?”
 
-“Guild Master! Guild Master?”
+“Guild Master! Guild Master!”
 
 Kim the Butler blocked off the new Guild members’ rear with a curtain of fire and smiled faintly.
 
@@ -380,7 +374,7 @@ Kim the Butler blocked off the new Guild members’ rear with a curtain of fire 
 
 “…”
 
-“Mages, locate the core with detection magic. Tanks, protect the healers and draw its aggro. Damage dealers… I trust I don’t need to explain any further.”
+“Mages, find the core with detection magic. Tanks, protect the healers and draw its aggro. Damage dealers… I trust I don’t need to explain any further.”
 
 Swoosh.
 
@@ -394,9 +388,9 @@ Boom!
 
 With a thunderous cry, a massive man in full armor slammed a tower shield into the ground.
 
-Several of the new Guild members frowned at the sight.
+Several of the new Guild members frowned when they saw him.
 
-The first man to step forward was a middle-aged D-rank Hunter whose only claim to distinction was twenty years of experience.
+They realized that the first giant to step forward was a middle-aged D-rank Hunter whose only real thing to boast about was twenty years of experience.
 
 “What are you doing? Get your heads in the game!”
 
@@ -412,13 +406,13 @@ With a deafening chorus repeating the command, the tower shields formed a solid 
 
 The mages and healers drew up their mana, while the damage dealers prepared the strongest strikes they could unleash.
 
-Crouched behind the shields, Im Kkeokjeong shouted with a grim expression.
+Im Kkeokjeong, crouched behind the shields, shouted with a grim expression.
 
 “Hold!”
 
 —Grrrroooar!
 
-The Stone Golem charged straight into the wall of shields.
+The Stone Golem charged toward the wall of shields.
 
 Kra-boom!
 
@@ -436,7 +430,7 @@ The tank with a broken arm and the mages and healers who had exhausted all their
 
 “Did we really take down this Stone Golem?”
 
-The raid had lasted a full five hours. Despite their numbers, it had been a long, grueling fight, but the rookie Hunters who had only just graduated from the training center felt their chests swell with pride.
+The raid had lasted a full five hours. Despite having more than twenty people, the process had been grueling and taken a long time, but the hearts of the rookie Hunters who had only just graduated from the training center swelled with pride.
 
 “I took down an A-rank monster…”
 
@@ -452,13 +446,13 @@ Just as everyone was looking back on their achievement with moved expressions—
 
 —Roooooar!
 
-The new Guild members’ faces went rigid as they spotted more golems approaching in the distance with thunderous roars.
+The new Guild members’ faces went stiff when they spotted golems approaching in the distance with roaring cries.
 
 *What is that?*
 
-There were more than ten at a glance, and they looked larger and tougher than the Stone Golem. Light flashed from their massive bodies with every violent movement.
+There were more than ten of them at a glance, and they looked larger and harder than the Stone Golem. Light flashed every time their massive bodies moved with violent force.
 
-Someone shrieked.
+Someone shouted like a scream.
 
 “Iron! Those are Iron Golems!”
 
@@ -472,7 +466,7 @@ The appearance of Iron Golems, among the highest-ranking of all golems, was more
 
 They had never heard of golems living in tribes.
 
-But the sight of them drawing closer by the second, and the ground trembling as though an earthquake had struck, told them this was all too real.
+But the sight of them drawing closer by the second and the ground trembling like an earthquake told them all this was real.
 
 In the end, they had only one lifeline left.
 
@@ -484,22 +478,18 @@ The cry rose toward the sky. Team Leader Choi, who had been floating in the air 
 
 “…What did you say?”
 
-*Has that bastard gone insane?*
+*Has that guy gone insane?*
 
 Just as everyone began to doubt their own ears—
 
 Whoooosh! Slash!
 
-A red flash tore through the air.
-
-The charging Iron Golem split cleanly in half, from the crown of its head to its crotch.
+Along with a red flash, the Iron Golem charging toward them split cleanly in half, from the crown of its head to its crotch.
 
 Crash!
 
-A man emerged between the masses of steel collapsing to either side.
+A man emerged between the steel masses collapsing to either side.
 
 “Mob farming is fucking sweet.”
 
 The young man, Jin Taekyung, grinned.
-
-[^1]: Pyeongchang and Gapyeong are popular domestic getaway destinations in South Korea, often used for group retreats.
