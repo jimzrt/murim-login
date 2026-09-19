@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "“P-please, save me…”",
+      "defect": "The source marks the plea with single quotation marks rather than ordinary spoken-dialogue quotation marks, preserving it as an inward or transmitted voice. The draft turns it into conventional audible speech.",
+      "id": "F01",
+      "rationale": "Italicized direct thought or transmission preserves the source’s presentation and the ambiguity surrounding how the nearly drowned Honglan reaches Taekyung.",
+      "replacement": "*P-please, save me…*",
+      "severity": "major",
+      "source": "‘사, 살려 주…….’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "I opened my half-closed eyes.",
+      "defect": "The draft says his eyes were already half-closed. The source says he had closed them and then opened them halfway.",
+      "id": "F02",
+      "rationale": "This preserves the explicit transition from closed eyes to a half-open state.",
+      "replacement": "I opened my eyes halfway.",
+      "severity": "minor",
+      "source": "나는 감았던 눈을 반개(半開)했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Behind a military officer clutching a fallen comrade’s corpse and weeping came the wails of a woman with an infant strapped to her back.",
+      "defect": "관병 means a government soldier or government troops, not specifically an officer. The draft promotes the mourner to an unsupported rank.",
+      "id": "F03",
+      "rationale": "The replacement preserves the mourner’s stated institutional affiliation without inventing command rank.",
+      "replacement": "Behind a government soldier clutching a fallen comrade’s corpse and weeping came the wails of a woman with an infant strapped to her back.",
+      "severity": "major",
+      "source": "동료의 시신을 붙잡고 눈물을 흘리는 관병의 뒤에는 갓난아이를 등에 업은 아낙네의 통곡이 뒤따른다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“What a shitty feeling, huh?”\n\nI was not talking to myself.\n\nCheongpung, who had not left my side for more than fifteen minutes, answered,\n\n“Yes. It feels like fucking shit.”\n\nUnder normal circumstances, I would have snorted with laughter despite myself. But now, I felt nothing but empty.\n\nI fidgeted with a pebble and asked,\n\n“I only said it felt like crap. I didn’t know Young Hero Cheongpung knew how to swear.”",
+      "defect": "Taekyung deliberately uses the euphemistic 뭐 같다, leaving the vulgar word unstated; Cheongpung unexpectedly supplies the explicit 좆 같아요. The draft makes Taekyung swear first, undermining both the register shift and his ensuing observation that he only said “something.”",
+      "id": "F04",
+      "rationale": "The replacement restores the source’s euphemism-to-profanity escalation and the joke built on Cheongpung saying the obscenity Taekyung conspicuously withheld.",
+      "replacement": "“This feels like… something, doesn’t it?”\n\nI was not talking to myself.\n\nCheongpung, who had not left my side for more than fifteen minutes, answered,\n\n“Yes. Like fucking shit.”\n\nUnder normal circumstances, I would have snorted with laughter despite myself. But now, I felt nothing but empty.\n\nI fidgeted with a pebble and asked,\n\n“I only said ‘something.’ I didn’t know Young Hero Cheongpung knew how to swear.”",
+      "severity": "major",
+      "source": "“기분 참, 뭐 같네. 안 그래?”\n\n혼잣말이 아니다.\n\n일각이 넘도록 곁을 떠나지 않고 있던 청풍이 대답했다.\n\n“네, 좆 같아요.”\n\n평소 같았으면 참지 못하고 실소를 흘렸을 텐데, 지금은 그저 공허하다.\n\n나는 조약돌을 만지작거리며 물었다.\n\n“그냥 뭐 같다고만 했는데. 청 소협이 그런 욕도 할 줄 알았어?”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "As if it were the ashes of someone’s soul.",
+      "defect": "The source describes remains imbued with someone’s spirit; it does not describe a soul itself as having ashes.",
+      "id": "F05",
+      "rationale": "This preserves the image of the drifting powder as physical remains carrying the presence of the dead.",
+      "replacement": "As if they were mortal remains imbued with someone’s spirit.",
+      "severity": "minor",
+      "source": "마치 누군가의 넋이 서린 유골이라도 되는 것처럼."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I’m not a saint. At the very least, I can’t rest until I give back what I received. This time will be no different.”",
+      "defect": "The draft misattaches 최소한 and weakens 직성이 풀리다. Taekyung says he is not satisfied unless he retaliates by at least the same measure, not merely that he cannot rest until he returns an unspecified thing he received.",
+      "id": "F06",
+      "rationale": "The replacement preserves both the minimum scale of retaliation and Taekyung’s stated need for personal satisfaction through vengeance.",
+      "replacement": "“I’m no saint. I won’t be satisfied until I pay them back at least in equal measure. This time is no different.”",
+      "severity": "major",
+      "source": "“나는 성인군자가 아니라서, 최소한 받은 만큼 돌려줘야 직성이 풀리더라고. 이번에도 마찬가지고.”"
+    }
+  ],
+  "summary": "Six actionable findings: one dialogue-mode shift, one altered eye movement, one rank error, one broken euphemism-based joke, one distorted image, and one weakened statement of retaliatory intent.",
+  "version": 1
+}
