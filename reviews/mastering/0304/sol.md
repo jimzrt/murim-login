@@ -46,7 +46,7 @@ Their eyes gleamed with killing intent as they swept across their surroundings. 
 
 *Why are there monsters out there?*
 
-The question lasted only a moment before I realized the answer myself.
+The question lasted only a moment before the answer came to me.
 
 There was only one possibility.
 
@@ -54,7 +54,7 @@ There was only one possibility.
 
 During the Great Cataclysm, Gates had been passageways connecting Earth to another world known as the Demon Realm.
 
-But after the Demon King Asmodeus disappeared, the monsters’ power weakened, and Gates became doors that only humans could freely pass through.
+But after the Demon King Asmodeus was destroyed, the monsters’ power weakened, and Gates became doors that only humans could pass through freely.
 
 There was one exception.
 
@@ -86,7 +86,7 @@ Whoosh! Thunk!
 
 A spear flew from a dark alley, pierced her chest, and buried itself in the ground.
 
-She vomited up a mouthful of blood, then her body went limp.
+She coughed up a gush of blood and went limp.
 
 The child burst into tears at the sight of her mother dying before her eyes.
 
@@ -94,7 +94,7 @@ The child burst into tears at the sight of her mother dying before her eyes.
 
 But it wasn’t over yet. More than a hundred Orcs poured from the dark alley and advanced on the child.
 
-They had taken up ideal positions to block the fleeing civilians’ escape routes.
+The alley was perfectly positioned to cut off the fleeing civilians’ escape route.
 
 One Orc who appeared to be their leader raised an axe and brought it down toward the crying child.
 
@@ -130,7 +130,7 @@ The man shouted, his eyes blazing.
 
 Sh-sh-sh-shk!
 
-With a tremendous roar, more than a thousand Hunters charged forward.
+With a tremendous roar, nearly a thousand Hunters charged forward.
 
 Despite the enormous losses it had suffered during the Great Cataclysm, China still had a population of well over a billion.
 
@@ -154,7 +154,7 @@ Monsters and humans. Humans and monsters.
 
 Two waves that could never coexist surged toward each other.
 
-Eyes shining with resolve, and killing intent directed at the enemy.
+Eyes shone with grim resolve and the desire to kill.
 
 The force of the scene filled the office, so overwhelming that it was hard to believe we were watching a holographic video.
 
@@ -200,7 +200,7 @@ Rrrrrumble!
 
 The deafening explosions dyed everything red.
 
-The drone was thrown off balance by the aftershock. When it finally steadied itself, the being responsible for creating that spectacular scene was staring directly at it.
+The blast knocked the drone off balance. By the time it finally steadied itself, the being responsible for that horrific scene was staring directly at it.
 
 “A human device, I see.”
 
@@ -234,7 +234,7 @@ A Lich.
 
 A fallen archmage. An apex monster reigning at the top of the pyramid of countless undead.
 
-The Lich that had supposedly vanished after the Great Cataclysm had appeared. It had caused an enormous catastrophe, as though celebrating its return after several decades.
+The Liches that had supposedly vanished after the Great Cataclysm had returned—or at least one of them had, causing an enormous catastrophe as though celebrating its first appearance in decades.
 
 Team Leader Choi unplugged the USB drive and spoke.
 
@@ -262,7 +262,7 @@ Three hundred thousand estimated casualties in a single day. Had humanity suffer
 
 I directed the question not at Team Leader Choi but at Butler Kim, the only one among us who had lived through the Great Cataclysm.
 
-His eyes trembled like ripples on water.
+His eyes were trembling.
 
 “Of course not. The Liches I saw with my own eyes during the Great Cataclysm were all immensely powerful, but… that one is on an entirely different level. Its fire magic gave me goose bumps just watching it.”
 
@@ -356,7 +356,7 @@ I gaped at Team Leader Choi before finally managing to speak.
 
 “……”
 
-Why did they all look like that? It was possible that I didn’t know.
+Why were they looking at me like that? I couldn’t know everyone.
 
 Team Leader Choi’s eyelids twitched for a long moment before he finally spoke.
 
