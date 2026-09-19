@@ -10,7 +10,7 @@ Their cross-legged postures had been awkward at first, but they were gradually g
 
 Team Leader Choi, Butler Kim, Song Song, and finally Im Kkeokjeong.
 
-Before sunset, all four had succeeded in completing a complete circulation. Before long, they were able to perform the Small Circulation on their own.
+Before sunset, all four had completed a full circulation. Not long afterward, they became capable of performing the Small Circulation on their own.
 
 *Not bad for a first step. No, this is better than I expected.*
 
@@ -24,7 +24,7 @@ Im Kkeokjeong.
 
 I’d forgotten. Im Kkeokjeong was the only Second Awakener among everyone I knew. Had it come from grueling effort? Or a stroke of heavenly luck?
 
-Whatever the reason, Im Kkeokjeong had already once broken past the limits given to him.
+Whatever the reason, he had already broken through the limits imposed upon him once before.
 
 *Maybe there was a reason he underwent a Second Awakening.*
 
@@ -36,11 +36,11 @@ He was still a D-rank Hunter. He had plenty of steps left to climb.
 
 Repeatedly circulating his qi would naturally improve his Muscles and Bones and Sinews and Meridians.
 
-If Im Kkeokjeong could overcome the psychological issues, such as his trauma, he would be able to return to the Guild before long.
+As long as Im Kkeokjeong could overcome the mental scars left by his trauma, he would be able to return to the Guild before long.
 
-And then…
+And by then…
 
-*The Guild will have changed quite a bit by then, too.*
+*The Guild will have changed quite a bit, too.*
 
 The changes had already begun. Lee Jungryong had drawn the knife hidden up his sleeve and turned it against us. Now he owed us compensation for it.
 
@@ -80,11 +80,11 @@ During that time, Lee Jungryong and the Peace Guild secretly concluded their neg
 
 I’m a C-rank Hunter who used to work on the Security Team of a certain Guild.
 
-I was originally with a major Guild, but my senior coworker was such a pain in the ass (he’s a traitor to the country) that the stress got too bad. I quit a few days ago and was browsing job sites when I saw that the Peace Guild had opened its general recruitment. So I applied on a whim, you know?
+It was a major Guild, but my supervisor was such a pain in the ass (the bastard’s a traitor to the country) that I couldn’t take the stress anymore. I quit a few days ago, and while browsing job sites, I saw that the Peace Guild was holding an open recruitment drive. So I applied on a whim, you know?
 
 Then I didn’t hear anything back, so I figured I’d been rejected.
 
-I already knew their selection process was brutal, so I wasn’t expecting anything in the first place.
+I already knew their selection process was brutal, so I wasn’t expecting much in the first place.
 
 But they contacted me after two weeks and told me to report to work tomorrow!
 
@@ -108,13 +108,13 @@ Anyone else starting with me tomorrow, raise your hand!
 
 └ Proof that the Peace Guild thinks Hunters are weaklings.
 
-└ On the other hand, their basic allowance and incentives are incomparably higher than anywhere else.
+└ Their base pay and incentives are ridiculously high compared to everywhere else, though.
 
 └ Please think of me as a weakling.
 
 └ Come to think of it, the Peace Guild must be loaded. People are even transferring over from major Guilds.
 
-└ Exactly. I heard they have exclusive rights to more than twenty Gates alone.
+└ Right? I heard they hold exclusive rights to more than twenty Gates.
 
 └ **(OP)** I’m the person who wrote this. I just called HR, and they said I was hired because Jin Taekyung told them to hire me.
 
@@ -132,25 +132,25 @@ Anyone else starting with me tomorrow, raise your hand!
 
 Under normal circumstances, the post would have been dismissed as the ramblings of an attention seeker.
 
-However, the post proudly took first place in the weekly rankings, accompanied by countless recommendations and comments from people making a pilgrimage to the site.
+Instead, it proudly took first place in the weekly rankings, drawing countless upvotes and comments from people making a pilgrimage to the thread.
 
 All because of another post uploaded the following evening.
 
-**Guys, that web-novel villain from yesterday was for real;**
+**Guys, that web-novel troll from yesterday was for real;**
 
-I’m one of the people who got accepted by the Peace Guild this time. Today, I was touring the Guild house with the other new hires when I saw Lord Fuck, you know?
+I’m one of the people who got hired by the Peace Guild this time. Today, I was touring the Guild house with the other new hires when I saw Lord Fuck.
 
-I was just watching him from a distance, terrified by the majesty of him dragging around slippers with the soles torn off, when he suddenly made a U-turn, grabbed one of us, and asked if he was from the \*\* Guild Security Team.
+I was standing there watching, awed by the majesty of him shuffling around in slippers with the soles peeling off, when he suddenly made a U-turn, grabbed one of us, and asked if he used to work on the \*\* Guild Security Team.
 
 The dopey-looking guy said yes, and Lord Fuck started laughing like a maniac, yelled, “Irasshaimase!” and all that shit, then left.
 
-I knew Lord Fuck had a weird personality, but he seems to be an even bigger lunatic than I imagined.
+I knew Lord Fuck had a weird personality, but he’s an even bigger lunatic than I imagined.
 
 *(Photo attached.)*
 
 I’m posting all the proof before I go so nobody says I’m lying.
 
-**(Best comment)** I’m the person who got the best comment last time. In apology, I’m going to perform a full-body prostration and leave.
+**(Best comment)** I’m the person who got the best comment on the last post. Please accept this full-body prostration as my apology.
 
 └ Looking at the proof photo, I think this might actually be real…?
 
@@ -158,7 +158,7 @@ I’m posting all the proof before I go so nobody says I’m lying.
 
 └ It actually happened…
 
-└ **(OP)** The web-novel villain was assigned to the Security Team instead of a raid team.
+└ **(OP)** The web-novel troll was assigned to the Security Team, not a raid team.
 
 └ Oh, then I can see why they’d take him. At that level, it’s not even nepotism. He basically just changed jobs.
 
@@ -186,11 +186,11 @@ But where did the OP go? Tell us more.
 
 └ The Peace Guild must be great at team building. Maybe it’s because they’re still a new Guild?
 
-└ **(OP)** I’m not sure about that, but… the atmosphere feels kind of bad. I asked a Senior who joined earlier than me, and he told me to sleep as much as I could on the way there.
+└ **(OP)** I’m not sure about that, but… the atmosphere feels kind of off. I asked a senior who joined before me, and he said I should sleep as much as I could on the way there.
 
 └ Why?
 
-└ Maybe the company dinner is going to last a long time. Who likes drinking with people they aren’t even close to?
+└ Maybe the company dinner’s going to last all night. Who likes drinking with people they barely know?
 
 └ **(OP)** Maybe? Oh, I think we’re here.
 
@@ -198,7 +198,7 @@ But where did the OP go? Tell us more.
 
 └ Have fun!
 
-└ **(OP)** It looks like a good restaurant. I’m looking forward to seeing what we’re having for dinner, haha. I’ll be back soon.
+└ **(OP)** This place looks like a famous restaurant. Can’t wait to see what’s for dinner, haha. I’ll be back soon.
 
 That was the OP’s final comment.
 
@@ -212,9 +212,9 @@ Murmurs rose from all around at my declaration.
 
 “Huh?”
 
-“Sorry, but did I hear you correctly?”
+“Sorry, but did you hear what he just said?”
 
-“I think you said we’re having dinner at a Gate. I must have misheard.”
+“I thought he said we’d be eating dinner inside a Gate. I must have misheard.”
 
 “Ah, right.”
 
@@ -244,7 +244,7 @@ Was this how a teacher felt?
 
 A satisfied smile spread across my face at the results of repeated training.
 
-I turned toward the greenhorns who still had no idea what was happening and asked,
+I turned to the greenhorns, who still had no idea what was happening.
 
 “You all brought everything with you, right?”
 
@@ -282,7 +282,7 @@ The people I’d worked to the bone for the past few weeks gritted their teeth a
 
 Hmm. Just as I thought.
 
-This was also the effect of learning. They clearly remembered what had happened to the few brave souls who had openly contradicted my opinions.
+This, too, was the result of training. They clearly remembered what had happened to the few brave souls who had openly challenged my decisions.
 
 The logic of *we can’t be the only ones who suffer* had probably played a part as well.
 
@@ -290,7 +290,7 @@ The logic of *we can’t be the only ones who suffer* had probably played a part
 
 If the new hires were Pomeranians, the others were already Tosa mastiffs.
 
-With the atmosphere blazing with the determination to die together, the new hires hesitated before shouting,
+Faced with an atmosphere blazing with determination to die together, the new hires recoiled and protested.
 
 “B-But nobody told us about this! The notice said we’d only be doing a simple workshop for the first week after joining the Guild…”
 
@@ -304,9 +304,9 @@ With the atmosphere blazing with the determination to die together, the new hire
 
 “Does everyone else think so, too?”
 
-I turned my head slightly. The Senior Tosa mastiffs who had tasted hell for several weeks bared their teeth and shouted.
+I turned my head slightly. The veteran Tosa mastiffs who had spent the past few weeks tasting hell bared their teeth and shouted.
 
-“Why wouldn’t it make sense? It does! Absolutely!”
+“Why is it ridiculous? It works! Of course it works!”
 
 “Obviously this is a workshop!”
 
@@ -338,7 +338,7 @@ Ding.
 
 “Form raaanks!”
 
-Even after repeating the command back in unison, they all looked dazed.
+Even after repeating the command in unison, they all looked dazed.
 
 I smiled at their bitter expressions.
 
