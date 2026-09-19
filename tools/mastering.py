@@ -915,10 +915,19 @@ def validate_adjudication(value: dict, number: int, diff: dict) -> dict:
         if not isinstance(item, dict):
             raise ValueError("each adjudicator decision must be an object")
         hid = item.get("hunk_id")
-        decision = str(item.get("decision", "")).upper()
+        raw_decision = str(item.get("decision", "")).upper()
         reason = item.get("reason")
         if not isinstance(hid, str) or not hid:
             raise ValueError("decision missing hunk_id")
+        # Models occasionally omit the decision key while starting the reason
+        # with the selected label. Recover that unambiguous, schema-equivalent
+        # form instead of discarding an otherwise complete adjudication.
+        decision = raw_decision
+        if not decision and isinstance(reason, str):
+            for label in ("SOL", "BASE", "REPAIR"):
+                if reason.lstrip().upper().startswith(label + " "):
+                    decision = label
+                    break
         if decision not in {"SOL", "BASE", "REPAIR"}:
             raise ValueError(f"{hid}: decision must be SOL, BASE, or REPAIR")
         if not isinstance(reason, str) or not reason.strip():
