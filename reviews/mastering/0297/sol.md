@@ -4,7 +4,7 @@ Inhale. Exhale.
 
 Choi Minwoo took a long, deep breath.
 
-As he accepted the qi permeating the air, he awakened the mass of qi sleeping in his lower abdomen.
+As he drew in the qi permeating the air, he awakened the mass of energy sleeping in his lower abdomen.
 
 *Mana.*
 
@@ -34,7 +34,7 @@ Even the dullest blade could be honed sharp.
 
 Considering both the technique’s effectiveness and its rarity…
 
-Its value would quite literally be astronomical.
+Its value was quite literally astronomical.
 
 *The sheer nerve it takes to casually hand over such an incredible secret art. The skill to defeat a Named Monster alone. The courage to stand his ground against Lee Jungryong and the Ares Guild… Is there anyone else like him?*
 
@@ -54,7 +54,7 @@ After spending so long circulating his qi that he lost all track of time, the im
 
 Only a week ago, he had not even known it existed.
 
-For a moment, the conversation he had shared with Jin Taekyung that day flashed through Choi Minwoo's mind.
+The conversation he had shared with Jin Taekyung that day suddenly flashed through his mind.
 
 “Wow, Team Leader.”
 
@@ -86,9 +86,9 @@ Choi Minwoo suddenly thought of his grandfather. Had the last time he saw him be
 
 The face in his memory was blurry, while the photographs online were crystal clear. By any measure, they had been far from a close grandfather and grandson.
 
-*But if such a huge mass of energy had been hidden inside me… Could my grandfather really have done something?*
+*But if such an enormous mass of energy was hidden inside me… Did Grandfather really do something?*
 
-The unexpected trace of his grandfather made Choi Minwoo's heart pound.
+His heart pounded at this unexpected trace of his grandfather.
 
 As if responding to him, the energy coursing through his body shuddered.
 
@@ -102,7 +102,7 @@ The lingering afterglow of circulating his qi escaped with his long exhalation.
 
 Choi Minwoo did not know it, but he had just reached Four Stars in the Jin Family’s Cultivation Technique. It was an astonishingly rapid achievement, almost impossible to believe after only a week.
 
-Yet it had been possible because Choi Minwoo possessed one jiazi of immense internal energy and such exceptional Muscles and Bones that even Jin Taekyung had nodded in approval.
+Yet it was possible because Choi Minwoo possessed an immense jiazi of internal energy and such exceptional Muscles and Bones that even Jin Taekyung had nodded in approval.
 
 *The others aren’t finished yet.*
 
@@ -128,7 +128,7 @@ Breaking-news alerts were updating across the screen at a blinding pace.
 
 - An anomaly at the A-rank Gate, Black Wizard’s Black Forest.
 
-- Jin Taekyung volunteers as bait. Witness testimonies: “He possesses a noble spirit of sacrifice.” “A Benefactor I will never forget.”
+- Jin Taekyung volunteers as bait. Witnesses testify: “He possesses a noble spirit of sacrifice.” “A benefactor I will never forget.”
 
 - Hunter Association formulating a response and preparing to dispatch a rescue team.
 
@@ -196,11 +196,11 @@ The senior reporter speaking with his junior tapped the ash from his cigarette.
 
 “Is it really that bad?”
 
-“Hey, the only reason things have gotten this far is because it's Jin Taekyung. If it were anyone else, we wouldn't even be saying things like ‘probably’ or ‘it's difficult.’ What Hunter do you think could hold out alone for an hour? Rescue preparations, my ass. They'd already be preparing to recover his body.”
+“Look, the only reason we’re still saying things like ‘probably’ or ‘his chances aren’t good’ is because it’s Jin Taekyung. If it were anyone else, nobody would bother. What Hunter could possibly hold out alone for an hour? Rescue preparations, my ass. They’d have declared him dead already and started preparing to recover the body.”
 
 The junior reporter let out a low groan.
 
-“So it's really that bad.”
+“So it really is hopeless.”
 
 “It’s completely fucked. And we’re insane too, hanging around here trying to scribble out an article in the middle of all this.”
 
@@ -254,17 +254,17 @@ The reporter was looking toward the assembled leadership when he suddenly frowne
 
 *You’re going to rub your palms raw, you idiot.*
 
-The Seoul Branch President, who could be considered the person in overall charge of this operation, was busily rubbing his palms in front of a man who looked to be in his thirties.
+The Seoul Branch President, ostensibly the man in charge of the entire operation, was practically scraping his palms together as he groveled before a man who appeared to be in his thirties.
 
-*What was that guy's name again? Plaster statue? Go Jun?*
+*What was that guy’s name again? Plaster Statue? Go Jun?*
 
 He was supposedly the Ares Guild’s security team leader—the right-hand man of Lee Jungryong, the Guild’s de facto Guild Master.
 
 Watching the Seoul Branch President fawn over him as though he would gladly cut out his own liver for the man, the reporter began to understand why the rescue operation was being delayed.
 
-“These bastards sure are having fun.”
+“These fuckers sure know how to have fun.”
 
-That was what the Senior reporter muttered in a voice barely loud enough to hear before grinding out his half-smoked cigarette.
+The senior reporter muttered just loudly enough to be heard, then ground out his half-smoked cigarette.
 
 “The Peace Guild!”
 
@@ -284,7 +284,7 @@ Choi Minwoo stood at the front, his voice low and steady. The Seoul Branch Presi
 
 “Safety has not yet been confirmed. We need more time before we can begin the rescue operation…”
 
-“More time? Here?”
+“More time? How much more?”
 
 “Just a little longer. A little longer will be enough.”
 
@@ -314,7 +314,7 @@ The Seoul Association’s Hunters surrounded the Peace Guild members, open reluc
 
 Those words snapped the last thread of Choi Minwoo’s patience.
 
-He shouted as if spitting out a ball of fire.
+He hurled his response like a fireball.
 
 “My friend is in there!”
 
@@ -326,7 +326,7 @@ Choi Minwoo paid them no attention. He continued shouting, his voice thick with 
 
 “He could die! We have to save him!”
 
-When he thought of Jin Taekyung fighting for his life against a Named Monster leading an army of hundreds of Skeletons, his anger erupted like an active volcano.
+The thought of Jin Taekyung fighting for his life against a Named Monster and its army of hundreds of Skeletons made his anger erupt like a volcano.
 
 “Get the fuck out of the way, you bastards!”
 
@@ -348,15 +348,15 @@ Whack!
 
 —…Yessir.
 
-The Warlord muttered in a resigned voice.
+The Warlord muttered in resignation.
 
-- Come on, grow. Skeletons, skeletons…
+—G-grow. Skeletons, skeletons…
 
 Whoooosh!
 
-Demonic qi burst from the Warlord and spread through the Black Forest.
+Demonic qi erupted from the Warlord and engulfed the Black Forest.
 
-A bright smile appeared on the young man's lips as he watched Skeletons spring up one after another from the clearing.
+A bright smile spread across the young man’s face as he watched Skeletons sprout from the clearing one after another.
 
 “Wow. Another bumper harvest.”
 
