@@ -2,7 +2,7 @@
 
 An endless rain of blades and arrowheads poured in from every direction.
 
-I didn’t need to think about how to move. A picture formed naturally in my mind, and my hands moved at the same time as my thoughts.
+I didn’t need to think about how to move. The answer came to me naturally, and my hands moved as soon as the thought formed.
 
 Fwoosh!
 
@@ -16,7 +16,7 @@ Ten-Thousand-Year Cold Iron was hard and sharp enough to destroy Body-Protecting
 
 Though perhaps not to them.
 
-“Gasp!”
+“Hhk!”
 
 The closest Black Hunter gasped as he stared at his sword, melted by the fiery qi of the Fire Gate Divine Technique.
 
@@ -46,7 +46,7 @@ Once again, I reflected on what a fucking idiot I’d been.
 
 I let out a hollow laugh and dodged the dagger. At the same time, I seized his other arm and pulled with all my strength.
 
-No, I tore it off.
+No—I tore them off.
 
 Crack-crack-crack!
 
@@ -142,7 +142,7 @@ The sneer had vanished from Im Yeongjun’s lips. A tempest now raged in the eye
 
 “What the fuck…?”
 
-Suppressed groans rose from here and there. It was something they had never experienced before.
+Suppressed groans came from all around. They had probably never experienced anything like this.
 
 Hunters hunted monsters.
 
@@ -154,11 +154,11 @@ But they had clearly never imagined that they might be hunted themselves.
 
 Much less that it would be this one-sided.
 
-I spat phlegm onto the headless corpse.
+I spat on the headless corpse.
 
-“You bastards are like dark-path knife fighters.”
+“You’re nothing but dark-path thugs with swords.”
 
-No. In terms of their mindset, dark-path knife fighters were actually better.
+No. When it came to their mindset, even dark-path thugs were better than these bastards.
 
 At least those men accepted that they might someday be stabbed to death in a back alley.
 
@@ -178,11 +178,11 @@ His gaze turned cold.
 
 Step. Step.
 
-Every time I advanced slowly, the Black Hunters surrounding me in a semicircle took a step backward.
+Every time I advanced, the Black Hunters surrounding me in a semicircle retreated.
 
 Even the dullest among them must have realized by now that I wasn’t merely an A-rank Hunter.
 
-They could feel the qualitatively different killing intent and the thick scent of blood clinging to me.
+They could feel the difference in my killing intent and the thick scent of blood clinging to me.
 
 “Jin Taekyung.”
 
@@ -222,9 +222,9 @@ After a brief silence, a dry voice escaped my lips.
 
 “A stepping stone. That sounds good.”
 
-The corners of Im Yeongjun’s mouth began to rise slightly. I continued smoothly.
+The corners of Im Yeongjun’s mouth began to rise. I continued smoothly.
 
-“Since you’re a stepping stone, I can just step lightly on you and pass over. I’ll find out who’s on the other side of the stream when I get there.”
+“Then I can step lightly on you and cross over. I’ll find out who’s waiting on the other side of the stream when I get there.”
 
 “……!”
 
@@ -240,7 +240,7 @@ But today, I would choose the latter.
 
 “Jin Taekyung!”
 
-I heard his shout as I kicked off the ground.
+I kicked off the ground as he shouted.
 
 The Black Hunters charged at me with gritted teeth, and I brought my spear down upon them.
 
@@ -260,7 +260,7 @@ Thrust!
 
 White Flame’s spearhead pierced his chest and burst out through his back.
 
-The mage behind the sturdy shield hurriedly stepped backward.
+The mage behind the sturdy shield hurriedly retreated.
 
 Thwack!
 
@@ -298,7 +298,7 @@ I had just wiped the blood from my face with my sleeve when—
 
 Shhk! Shhhhhk!
 
-I tilted my head slightly.
+I tilted my head.
 
 An iron arrow thick and heavy enough to pass for a small spear flew past me and buried itself in the stone wall behind me.
 
@@ -338,13 +338,13 @@ Bang-bang-bang!
 
 I twisted the spearhead with a deft motion.
 
-The iron arrows, which should have been swept aside like fallen leaves, changed course and pierced the Black Hunter who had been trying to bury a dagger in my crown.
+The iron arrows that should have been swept aside like fallen leaves changed course and pierced the Black Hunter trying to bury a dagger in my skull.
 
 Thwack-thwack-thwack!
 
 “Urgh!”
 
-Struck by arrows out of nowhere in midair, the Black Hunter fell with a heavy thud.
+Struck by arrows in midair, the Black Hunter crashed to the ground.
 
 I pulled the iron arrows from his upper body. His body convulsed, then went still. At the same moment, I hurled the arrows back in the direction they had come from.
 
@@ -352,7 +352,7 @@ Shhhhhk! Thwack!
 
 The iron arrows infused with internal energy did their job perfectly.
 
-They flew back toward their original owners twice as fast and twice as powerfully as when they had first been fired.
+They returned to their original owners at least twice as fast and with twice the force.
 
 The three archers, who had been nocking their next arrows, died almost simultaneously.
 
@@ -368,7 +368,7 @@ Shrrrkk! Slice!
 
 I charged straight into them, cutting, stabbing, and smashing.
 
-A mist of blood formed, and someone’s arms, legs, or head flew in every direction.
+Blood mist filled the air as arms, legs, and heads flew in every direction.
 
 “Gyaaaaaah!”
 
@@ -382,7 +382,7 @@ Boom!
 
 “Retreat into the mansion!”
 
-I let out a short laugh at Im Yeongjun’s shout. He had bought them a brief moment.
+Im Yeongjun’s attack had bought them a brief moment. I let out a short laugh at his shout.
 
 “Did you set up some magic circles as traps?”
 
@@ -390,7 +390,7 @@ I let out a short laugh at Im Yeongjun’s shout. He had bought them a brief mom
 
 Whoosh!
 
-He was their leader for a reason. As expected, he was the best of them.
+He was their leader for a reason. As expected, he was the strongest among them.
 
 No, at this level, he could even be called a Peak master in Murim.
 
@@ -402,7 +402,7 @@ But Im Yeongjun and the other Black Hunters moved far more efficiently than ordi
 
 *Even so, this is as far as they go.*
 
-No matter how high someone flew or how low they crawled, there were walls they could never cross.
+Some walls could never be crossed, no matter how high a person flew or how hard they struggled.
 
 I drove my fist toward the knuckle.
 
@@ -428,7 +428,7 @@ The first move of the Flame-Extinguishing Divine Fist slammed into his shoulder.
 
 His flesh melted, and his bones were pulverized.
 
-It was as though a fire dragon had devoured his entire shoulder.
+A fire dragon devoured his entire shoulder.
 
 Im Yeongjun spat blood and flew backward.
 
@@ -436,17 +436,17 @@ Im Yeongjun spat blood and flew backward.
 
 But he still had subordinates left.
 
-The Black Hunters who had waited until the last moment quickly hoisted Im Yeongjun onto their backs and rushed into the mansion.
+The Black Hunters who had held back until the end quickly scooped up Im Yeongjun and rushed into the mansion.
 
 Thud!
 
-The door had barely closed when layer upon layer of transparent barriers wrapped around the mansion.
+The door had barely closed when layer upon layer of transparent barriers wrapped around the building.
 
 *A defensive spell?*
 
 It had to be an extremely powerful one. It felt even sturdier than the defensive magic Butler Kim had once shown me.
 
-But I didn’t stop walking.
+But I didn’t stop.
 
 One step carried me to the door. I punched the dozens of defensive barriers.
 
@@ -466,7 +466,7 @@ Beyond the melted front door, I saw the enemies frozen in place.
 
 Im Yeongjun stood at their center.
 
-His jaw trembled. A single word, sounding almost like a groan, escaped between his lips soaked in blood.
+His jaw trembled. A single question escaped his blood-soaked lips like a groan.
 
 “What… what the hell are you?”
 
@@ -478,10 +478,10 @@ Team Leader Choi had said it before.
 
 This world was teeming with monsters.
 
-So I had decided that, every once in a while, I would become a monster myself.
+So I had decided that, every once in a while, I would become one myself.
 
 Just like today.
 
 “Have you ever heard of Tendon-Splitting and Bone-Twisting?”
 
-It didn’t take long for Im Yeongjun to open his mouth.
+It didn’t take long to make Im Yeongjun talk.
