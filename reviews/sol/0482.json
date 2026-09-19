@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "On the surface, she was also the person who had helped me rescue him. From the authorities’ perspective, it was the obvious choice.",
+      "defect": "The draft reduces Honglan from the foremost contributor credited with the rescue to merely someone who helped, losing her publicly recognized status and the authorities’ reason for transporting her.",
+      "id": "F01",
+      "rationale": "일등 공신 specifically identifies her as the foremost contributor, not merely a participant.",
+      "replacement": "On the surface, she was also the chief contributor who had rescued Ju Wongong alongside me. From the authorities’ perspective, it was the obvious choice.",
+      "severity": "major",
+      "source": "표면적으로는 나와 함께 주원공을 구출한 일등 공신이니 관부로서는 당연한 선택이었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "So did the more than one hundred government troops and sailors aboard it.",
+      "defect": "The draft changes an approximate quantity of around one hundred into more than one hundred, directly contradicting the later exact total of ninety-six people aboard.",
+      "id": "F02",
+      "rationale": "백여 명 means approximately one hundred, not more than one hundred.",
+      "replacement": "So did the roughly one hundred government troops and sailors aboard it.",
+      "severity": "critical",
+      "source": "배에 타고 있던 백여 명의 관군과 수부들도 함께."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Even setting aside the fact that she was psychologically unlikely to be caught so easily, if she had a Moving Formation hidden nearby, all of us would be left like dogs that had chased a chicken onto a roof.",
+      "defect": "The draft incorrectly attributes the psychological judgment to Honglan and garbles the idiom: the dogs are left staring helplessly at the roof after losing the chicken, not chasing it onto the roof.",
+      "id": "F03",
+      "rationale": "심리적인 측면 refers to the narrator’s intuitive assessment, while 닭 쫓던 개 신세 invokes the established image of a dog helplessly watching a chicken escape onto a roof.",
+      "replacement": "Even setting aside my gut feeling that there was no way she would be caught this easily, if she had a Moving Formation hidden nearby, we would all be left like dogs staring helplessly at the roof after the chicken got away.",
+      "severity": "minor",
+      "source": "이렇게 쉽게 잡힐 리 없다는 심리적인 측면을 제외하고서라도, 근처에 숨겨 둔 이동진이라도 있다면 전부 닭 쫓던 개 신세니까."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The Soul-Seizing Technique.\n\nAs the name suggested, it was a monstrous martial art and supreme technique that bewitched an opponent’s soul and controlled them.",
+      "defect": "The rendering does not use the binding established term for 괴공절학 and awkwardly presents one art as both a martial art and a supreme technique.",
+      "id": "F04",
+      "rationale": "괴공절학 has the established rendering “monstrous martial arts and supreme techniques.”",
+      "replacement": "The Soul-Seizing Technique.\n\nAs the name suggested, it was one of the monstrous martial arts and supreme techniques that bewitched and controlled an opponent’s soul.",
+      "severity": "minor",
+      "source": "섭혼술. 말 그대로 상대의 넋을 홀려 조종하는 괴공절학(怪功絶學)이다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Is that something the man who caught a five-hundred-year-old imugi should be saying?”",
+      "defect": "“Caught” implies that Taekyung captured the imugi rather than overcame or defeated it.",
+      "id": "F05",
+      "rationale": "Here 잡은 refers to Taekyung overcoming the imugi in battle; the creature was not captured.",
+      "replacement": "“Is that something the man who took down a five-hundred-year-old imugi should be saying?”",
+      "severity": "major",
+      "source": "그게 오백 년 묵은 이무기를 잡은 놈이 할 소리냐?"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“No. Perhaps what that bitch wanted was to fight the imugi one-on-one.”",
+      "defect": "The draft makes Honglan the person who wanted to fight the imugi. In context, Jeok Cheongang is proposing that she refrained from using the Soul-Seizing Technique because she wanted Taekyung to fight it. “One-on-one” is also unsupported.",
+      "id": "F06",
+      "rationale": "The line explains why Honglan did not enthrall Taekyung earlier; the implied fighter is Taekyung, not Honglan.",
+      "replacement": "“No. Perhaps what that bitch wanted was for you to fight the imugi.”",
+      "severity": "critical",
+      "source": "아니, 어쩌면 그년이 원하던 것이 이무기와 일전을 벌이는 것이었을 수도 있었겠군."
+    },
+    {
+      "confidence": 0.94,
+      "current": "“His name is Song Ho. He comes from a prominent merchant family in Hubei Province, and thanks to his father’s efforts, he was summoned by the City Lord of Hubei Province. Two days ago, he was dispatched after receiving orders from the City Lord to bring in the culprit.”",
+      "defect": "“Was summoned” presents a one-time request and obscures that Song Ho’s father used his influence to secure him a position in the City Lord’s service.",
+      "id": "F07",
+      "rationale": "아비가 힘써 준 덕분에 and the following explanation that the City Lord kept Song Ho close describe a patronage-based appointment, not merely a summons.",
+      "replacement": "“His name is Song Ho. He is the son of a prominent merchant family in Hubei Province, and his father pulled strings to secure him a post under the City Lord of Hubei Province. Two days ago, the City Lord dispatched him with orders to bring in the culprit.”",
+      "severity": "major",
+      "source": "이름은 송호. 호북성에서 이름난 상인 집안의 자제로, 아비가 힘써 준 덕분에 호북성주의 부름을 받았습니다. 성주로부터 흉수를 데려오라는 명령을 받아 이틀 전 파견되었지요."
+    },
+    {
+      "confidence": 0.95,
+      "current": "“You won’t come to your senses until you’ve been beaten like a dog on the hottest day of summer. Get down.”",
+      "defect": "The literalized wording makes the heat sound relevant to the beating and loses the grim joke behind 복날, when dogs were traditionally slaughtered for food.",
+      "id": "F08",
+      "rationale": "The threat depends on the culturally specific fate of dogs on 복날, not simply on the weather being hot.",
+      "replacement": "“You won’t come to your senses until you’ve been beaten like a dog on slaughter day. Get down.”",
+      "severity": "minor",
+      "source": "복날 개처럼 처맞아야 정신을 차리지. 엎드려."
+    }
+  ],
+  "summary": "Eight actionable findings: two critical factual errors involving quantity and agency, three meaningful losses of status, mechanism, or cultural force, and three localized terminology or prose defects.",
+  "version": 1
+}
