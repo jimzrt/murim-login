@@ -1631,3 +1631,9 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 일다경 | **the time it takes to drink a cup of tea** | Duration in the progression of Jeok's lost time. |
 | 촌각 | **moments** | Short intervals disappearing from Jeok's day. |
 | 진맥 | **take one's pulse** | Mungyeong's prior medical examination of Jeok. |
+| 왜국 | **Wa Kingdom** | Historical name for Japan used in the chapter. |
+| 인자 | **ninja** | Japanese assassin skilled in concealment and concealed weapons. |
+| 절강 | **Zhejiang** | Region from which the boat travels east. |
+| 은영술 | **concealment techniques** | Stealth arts associated with ninjas. |
+| 표창 | **throwing blades** | Concealed weapons used by ninjas. |
+| 철구 | **iron balls** | Training weights attached to Taekyung. |
