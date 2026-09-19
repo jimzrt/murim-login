@@ -6,7 +6,7 @@ Word travels faster than a galloping horse.
 
 Countless eyewitnesses spread the rumors far and wide.
 
-“Did you all hear the news? About the Star-Array Grand Banquet…”
+“Did you hear the news? About the Star-Array Grand Banquet…”
 
 “Martial artists are surrounding Mount Song. I heard there was a bloodbath at Shaolin Temple.”
 
@@ -24,7 +24,7 @@ The elderly recalled the Demonic Cult’s rampage across the land several decade
 
 “That can’t be right. They say the terrifying Yin-Yang Twin Freaks led the attack on Shaolin.”
 
-“The Yin-Yang Twin Freaks? I heard the Heavenly Demon of the Demonic Cult personally made a move.”
+“The Yin-Yang Twin Freaks? I heard the Heavenly Demon himself had emerged.”
 
 “T-The Heavenly Demon?”
 
@@ -34,7 +34,7 @@ With everyone lost in a jumble of truth and lies, it was only natural for their 
 
 The former site of the Murim Alliance.
 
-The place where the great and small pillars of the orthodox faction stood.
+The place where the great and small pillars of the orthodox faction had gathered.
 
 * * *
 
@@ -62,7 +62,7 @@ The place where the great and small pillars of the orthodox faction stood.
 
 A precise blow to the solar plexus folded Hyuk Mujin at the waist and knocked the wind out of him.
 
-When I saw the back of his head sitting wide open, my hand moved on its own. It just moved.
+The back of his head was sitting wide open. My hand practically moved on its own.
 
 *Smack!*
 
@@ -108,11 +108,11 @@ Hong Dao breathing his last. Shaolin Temple drenched in blood. The Yin-Yang Twin
 
 The scenes passed before my eyes like a panorama.
 
-*The problem is, this is only the prologue.*
+*The problem is, that was only the prologue.*
 
-If this were a movie theater, it wouldn’t be strange for the end credits to start rolling by now. But this was nothing more than an ominous prelude.
+If this had been a movie, the end credits would have started rolling by now. But it had been nothing more than an ominous prelude.
 
-The vague sense of crisis that everyone anticipated was so palpable I could feel it on my skin.
+The nameless sense of crisis everyone felt was so palpable I could feel it against my skin.
 
 *Something is changing.*
 
@@ -136,7 +136,7 @@ I nodded slightly.
 
 The Jin Family of Taiyuan might not compare to the Nine Sects and One Gang or the Five Great Families, but it was still the undisputed hegemon of Shanxi Province.
 
-And since Shanxi Province was where Dark Heaven had first revealed itself, it was only natural that the leaders would take a keen interest in it.
+And since Shanxi Province was where Dark Heaven had first revealed itself, it was only natural for the leaders to take a keen interest in us.
 
 “What did they say?”
 
@@ -152,7 +152,7 @@ Hyuk Mujin was now a high-ranking member of the family, so he had some idea of w
 
 “Did they say anything else?”
 
-“I just left. My eldest brother will hear the important news and pass it on anyway…”
+“No. I just left. My eldest brother will hear any important news and pass it on anyway…”
 
 My voice sank without me realizing it.
 
@@ -208,7 +208,7 @@ Hyuk Mujin’s confident expression instantly turned sour.
 
 “Nothing. I just realized I shouldn’t leave again.”
 
-“Don’t tell me you don’t trust the strength of the Jin Dragon Squad, the family’s finest?”
+“Don’t tell me you doubt the Jin Dragon Squad, the finest force in our family?”
 
 “Come on. I said that’s not it. Let it go.”
 
@@ -218,7 +218,7 @@ Hyuk Mujin glared at me through narrowed eyes, then shot to his feet.
 
 “Hey, why are you taking it that way? Are you going through puberty or something?”
 
-“Because you keep saying such hurtful things, Captain! Is this only the first or second time? Huh?!”
+“Because you keep saying such hurtful things, Captain! Is this the first time you’ve done this? Huh?”
 
 “Keep your voice down. You’ll wake Old Master.”
 
@@ -244,7 +244,7 @@ Hyuk Mujin huffed, “Forget it. I can put up with anything else, but I won’t 
 
 “…I’m really leaving.”
 
-“Fine, fine. Sit down. Calm down and have a glass of water.”
+“Fine, fine. Sit down. Calm yourself and have some water.”
 
 “Hmph. No.”
 
@@ -262,7 +262,7 @@ Hyuk Mujin froze, then quietly lowered himself onto the chair.
 
 “Why should I apologize? I never insulted them.”
 
-“You just said you didn’t trust them. Wasn’t that because you look down on them for being weaker in martial arts than you?”
+“You just said you didn’t trust them. Isn’t it because they’re weaker in martial arts than you?”
 
 I sipped my cold tea.
 
@@ -318,29 +318,29 @@ Hyuk Mujin sucked in a breath at the sight of the golden mask gleaming on the ta
 
 “Gasp! W-Where did you get that…?”
 
-“Where do you think? I knew you weren’t usually that kind of guy, but you stuck to me like a bad smell after the preliminaries.”
+“Where do you think? I knew this wasn’t like you. No wonder you clung to me so desperately after the preliminaries.”
 
 “Wait. You’ve got it all wrong. I was genuinely so busy with guard duty that I barely had time to open my eyes—”
 
-“A misunderstanding? Fine. Want me to make sure you never open them again?”
+“You’ve been misunderstood? Fine. Want me to make sure you never open them again?”
 
 *Crack!*
 
 The golden mask crumpled into a little ball in my hand. Hyuk Mujin’s eyes shook as though caught in an earthquake.
 
-“You were handling an escort at a gambling house, you bastard? You were so famous I didn’t even need to ask around. Apparently, some guy won a hundred thousand silver nyang in one go, then lost a hundred thousand silver nyang right afterward. They were treating him like a legend—no, an absolute legend.”
+“You were guarding him at a gambling house, you bastard? You’d become so famous I didn’t even have to ask around. Some lunatic won a hundred thousand silver nyang in one shot, then immediately lost all hundred thousand. People were treating him like a legend—not just a legend, but legend-tier.”
 
 If the story had reached my ears even in the middle of this crisis, that said everything.
 
 I’d even heard a rumor that one of the servants working at the Murim Alliance had hit the jackpot on Toto—no, Dodo—slapped the Chief Steward across the face, and walked out.
 
-“If you cared about your subordinates that much, you should’ve collected dues and placed the bet with their money. Did you really gobble it down by yourself because you were afraid the payout odds would drop?”
+“If you cared so much about your subordinates, you should’ve collected dues from them and placed the bet together. Did you really hog it all for yourself because you were afraid they’d drive down the odds?”
 
 “…”
 
 No answer. Nothing to say.
 
-Even if he had ten mouths, he wouldn’t have anything to say. Hyuk Mujin stood there frozen and pale before finally forcing out a few words.
+Even if he had ten mouths, none of them could have produced an excuse. Hyuk Mujin stood frozen and pale before finally forcing out a few words.
 
 “Life is… all about one big score.”
 
