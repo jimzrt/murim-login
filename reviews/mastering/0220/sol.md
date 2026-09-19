@@ -12,7 +12,7 @@ Judging by everything I had seen of him, his nature probably had something to do
 
 *Consider yourself lucky.*
 
-No matter how much a hyena leaped or crawled, it was still a beast.
+No matter what tricks a hyena pulled, it was still only a beast.
 
 If it knew when to tuck its tail, all I had to do was scare it off.
 
@@ -54,7 +54,7 @@ Not one of them had left.
 
 “Then this should be simple. It’s dangerous, so leave while you still can.”
 
-“Where would we retreat to?”
+“Where would we go?”
 
 “Where else? Back to the exit we came through.”
 
@@ -112,7 +112,7 @@ I was calmer than I had ever been. My heart might have been hammering like mad, 
 
 “Team Leader Choi.”
 
-“…?”
+“…Yes?”
 
 “I’ve told you my motto in life a few times before, haven’t I?”
 
@@ -142,11 +142,11 @@ I knew what he was about to say.
 
 I quietly shook my head. Butler Kim had a far more important task to handle.
 
-“I’m fine. Protect the others.”
+“I’ll be fine. Protect the others.”
 
 “Understood. Even without being asked, I’ll do what must be done to the best of my ability.”
 
-At Butler Kim’s clear-cut answer, Song Song asked with an incredulous expression,
+At Butler Kim’s forthright answer, Song Song stared at us in disbelief.
 
 “You’re going to let him fight a Named Monster alone? Are you all out of your minds? One wrong move and we’ll all die. Every last one of us!”
 
@@ -184,7 +184,7 @@ Song Song answered,
 
 “Hmm. A confession?”
 
-My head went numb for a moment.
+My head went numb.
 
 The back of my skull throbbed as though someone had hit it with a hammer.
 
@@ -292,7 +292,7 @@ With my senses stretched wide, I could feel its rage and power.
 
 It was a monster that had broken free of the bounds of A-Rank.
 
-It possessed the majesty befitting a Named Monster.
+It possessed all the might one would expect of a Named Monster.
 
 “So we finally meet.”
 
@@ -388,7 +388,7 @@ One perfectly ordinary day, I had suddenly asked him,
 
 He had answered,
 
-*It kept eating at me, seeing a kid like you struggle. My youngest sibling is about your age.*
+*I can’t stand watching a kid like you struggle. I have a youngest sibling about your age.*
 
 It wasn’t until the day of his funeral that I learned he had grown up in an orphanage and didn’t have a single relative.
 
@@ -410,7 +410,7 @@ And now, at this very moment, I stood before the creature. I glared into its eno
 
 I had survived countless crises to say these words.
 
-After three years and ninety-two days, I was finally ready to tear off those wings and drive my spear into its heart.
+After three years and ninety-two days, I was finally ready to tear off those wings and drive my spear through its heart.
 
 “This time, I’m not going anywhere.”
 

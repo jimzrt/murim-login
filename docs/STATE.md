@@ -1,31 +1,31 @@
 # Translation State
 
-- Last completed: 423
-- Next chapter: 424
-- Current block: 420–424 (4/5)
-- Latest translation: `translations/0423.md`
-- Latest summary: `summaries/beats/0423.md`
-- Safe profiles through: chapter 423
+- Last completed: 424
+- Next chapter: 425
+- Current block: 420–424 (5/5)
+- Latest translation: `translations/0424.md`
+- Latest summary: `summaries/beats/0424.md`
+- Safe profiles through: chapter 424
 
 ## Current Block
 
-- Jin pierces the Arch Lich's chest with White Flame but is severely wounded by Dark Claw while choosing to attack rather than defend. His Strength, Agility, and Stamina each fall by 200, and his top-grade potion is knocked away before he can drink it. The Arch Lich then discards Lee Jungryong's subspace pocket, begins forming an enormous Gate over the ruined city, and invokes Gate Open. Despite his injuries, Jin uses Flamefire Path and One Annihilation to attack, but the Arch Lich answers with Blink as the clash erupts in blue flame.
+- Jin's One Annihilation fails to kill the Arch Lich, which survives with its left arm destroyed and leaves Jin exhausted and gravely wounded. When Jin's desperate will transforms Endurance into Will and manifests Indomitable, the Arch Lich counters with Blood Explosion, then takes White Flame and launches it at him. The Skeleton Warlord unexpectedly manifests a full body, wields Lei Fei's Hero's Soul, and throws itself in front of Jin, taking the spear through its body. After Jin confirms that his earlier praise was sincere, the Arch Lich uses Bone Explosion and destroys the Skeleton Warlord, leaving Hero's Soul embedded in the ground with the Warlord's hand still gripping its hilt.
 
 ## Open Questions
 
-- What was the result of Jin's One Annihilation after the Arch Lich used Blink?
+- Is the Skeleton Warlord irreversibly erased, and can Jin recover Hero's Soul?
+- Can Jin survive his catastrophic injuries and Exhaustion well enough to continue fighting?
+- Can Jin defeat the Arch Lich and recover White Flame?
 - Can Jin stop or disrupt the enormous incomplete Gate before it becomes a catastrophe?
-- What is the full extent of the Arch Lich's power, including Blink and its ability to observe or identify Jin?
-- Is Jin truly the Adversary, and what are the god's machinations connecting him to the king?
 - What is Asmodeus's current status and location?
 
 ## Exceptional Decision
 
+- Render 탈진 as Exhaustion, 의지 as Will, and 불굴 as Indomitable.
+- Render 블러드 익스플로젼 as Blood Explosion and 본 익스플로젼 as Bone Explosion.
+- Render 영웅의 혼 as Hero's Soul and 소멸 as Erasure.
 - Render 중단전 as Middle Dantian and 단중혈 as Tanzhong acupoint.
-- Render Darkness Hold, Dark Hand, Dark Claw, Dark Vine, Bone Shield, Bone Spear, Gate Open, and Blink as the Arch Lich's named spells.
-- Render 과다출혈 as Excessive Bleeding and preserve Severe Injury as the System status label for 중상.
-- Render 염화일로 as Flamefire Path, 일섬 as One Annihilation, 겁화 as hellfire, and preserve White Flame.
-- Preserve the Arch Lich's archaic, contemptuous register and Jin's profanity while retaining the established wuxia and System terminology.
+- Preserve the Arch Lich's archaic, contemptuous register and Jin's profanity while retaining established wuxia and System terminology.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
