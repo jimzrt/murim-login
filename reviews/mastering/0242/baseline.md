@@ -1,0 +1,405 @@
+# Chapter 242
+
+He was a young man with an approachable expression.
+
+He looked to be in his mid-to-late twenties at most, and there was a strangely friendly smile playing around his lips.
+
+“Whew. Why are you walking so fast?”
+
+“Do I know you?”
+
+“No.”
+
+“Then why?”
+
+“They say even brushing sleeves with someone creates a connection, don’t they?”
+
+“We haven’t even brushed sleeves.”
+
+“But we exchanged words, so that counts. Let’s be friends.”
+
+“……”
+
+It was one of two things. He was either crazy or a crazy social butterfly.
+
+I took my time looking the young man over. Beneath his loose robe, I spotted well-developed muscles, as well as the hilt of a sword poking out from his waist.
+
+At the same time, I sensed the qi lying dormant within his body.
+
+*A Peak master?*
+
+I had no idea how old he actually was, but his attainment was fairly impressive.
+
+No, at this level, it could even be called remarkable. Reaching the Peak realm in your twenties was no easy feat.
+
+But how should I put it? At that moment, the qi I sensed from the young man before me seemed to amount to no more than that.
+
+If I had to put it into words…
+
+*An ordinary Peak master?*
+
+The Peak realm was already an incredible level, so why did he feel ordinary? Because I was surrounded by too many monsters.
+
+After getting hit by the insane three-hit combo of Jin Mukyung, Cheongpung, and the Fire King, side effects like this were bound to develop.
+
+Regardless, I had more or less figured him out. I spoke politely to the young man.
+
+“Don’t worry about me. Go on your way.”
+
+“Good heavens, isn’t that too cold between friends?”
+
+“If we’re friends, can I drop the formal speech?”
+
+“Haha. Of course!”
+
+“Then fuck off, asshole.”
+
+“……”
+
+I left the young man behind and started walking. After standing frozen for a moment, he hurried after me with quick little steps.
+
+“That was the first verbal abuse I’ve ever heard in my life. It stunned me for a moment. Yes, this is what true friendship is!”
+
+“Go while I’m still asking nicely.”
+
+“What’s your name?”
+
+“Michael Johnson.”
+
+“That’s an unusual name.”
+
+“……You believe that?”
+
+“Jang Sam? Or Yu Pil? Are you perhaps a Disciple of one of the Nine Sects and One Gang or the Five Great Families?”
+
+“Why are you curious?”
+
+“Because I’m interested, of course. I heard you killed the Red-Killing Axe with One Strike.”
+
+I stopped dead at the unfamiliar epithet.
+
+“Who?”
+
+“The leader of Black Mountain Stronghold. Was that your doing?”
+
+I recalled the hairy bandit chief I had dealt with on the way here. He had been the first one I took out to establish dominance, since there had been so many bandits.
+
+I had thought he was unusually strong for a bandit. It seemed he had actually been somewhat famous.
+
+“But how did you find out?”
+
+“I heard it from the Geumwa Merchant Group’s merchants at the inn earlier. They said the surviving bandits claimed it was the work of a strange man carrying iron balls and chains.”
+
+The young man beamed as he pointed at the iron balls strapped to my back.
+
+I had covered them with cloth to disguise them as luggage, since I did not want to attract any strange misunderstandings. But it seemed I could not fool the eyes of a Peak master after all.
+
+“And then you happened to walk by. My curiosity got the better of me, so I followed you right away.”
+
+“Hmm.”
+
+“So, what’s your name?”
+
+Should I tell him or not?
+
+After a moment’s thought, I opened my mouth. I was beginning to grow curious about which sect this eccentric young man belonged to as well.
+
+“Jin Taekyung. That’s my name.”
+
+“Are you the Jin Taekyung of the Jin Family of Taiyuan in Shanxi Province?”
+
+“You know me?”
+
+“Of course I do. I’ve heard so much about the Sleeping Dragon of Shanxi becoming the Fire King’s Disciple that my ears are ringing.”
+
+A year was short if you looked at it one way, and long if you looked at it another.
+
+But it was more than enough time for rumors about me and the Fire King to spread throughout the continent.
+
+“What about you?”
+
+“Ah, I am…”
+
+The young man grinned and continued.
+
+“Jongni Chu. I’m Jongni Chu from Yunnan. I have my reasons for not revealing my sect, so I hope you’ll understand.”
+
+“Jongni Chu from Yunnan?”
+
+“My epithet is the Always-Victorious Sword. Have you ever heard of me?”
+
+I knew the name of Yunnan, but this was my first time hearing his name or epithet.
+
+Considering I had spent the past year holed up in Fire Gate Cavern, that was only natural.
+
+“Sorry, but I haven’t.”
+
+“Is that so? Well, it’s understandable that you wouldn’t know.”
+
+What a positive attitude. Normally, someone around his age would be disappointed, but he showed no such signs at all.
+
+The freakishly positive guy continued with a serious expression.
+
+“That’s because I just came up with the epithet. A swordsman who always wins. Isn’t it cool?”
+
+“……”
+
+*Is he crazy?*
+
+As I stood there speechless, Jongni Chu made a motion of twisting his wrist.
+
+“How about it? Shall we have a drink to celebrate becoming friends?”
+
+“Not interested. Besides, there aren’t any seats at the nearby inns.”
+
+“What are you talking about? I’ve been following you and watching the whole time. Every inn had at least one or two seats open.”
+
+“……The waiters said there were no seats.”
+
+“Hm? Then why did they tell me there were empty seats and invite me in?”
+
+“……”
+
+Damn it. Of course.
+
+Even with the Star-Array Grand Banquet right around the corner, was it really possible for every single seat in dozens of inns to be taken?
+
+*I’m washing because I’m filthy. Because I’m filthy.*
+
+I would have to draw water from a stream and wash myself. At this rate, I would end up sleeping on the street despite leaving perfectly good inns unused.
+
+“I know a decent inn, so come with me. I’ll pay for the drinks to celebrate becoming friends.”
+
+“What do you mean, friends? You said your name was Jongni Chu, right? You go on your way too.”
+
+It was not as though I was a penniless beggar. I had no desire to get entangled with some strange man and waste time chatting.
+
+Hadn’t I heard that a stream ran straight ahead along this road?
+
+As I searched my memory and walked on, Jongni Chu asked,
+
+“Hey, where are you going?”
+
+“None of your business. Don’t follow me.”
+
+“Then answer me one last thing! Where can I see you again?”
+
+“The Star-Array Grand Banquet.”
+
+That was my final answer. I used light-body arts and quickly left the area. After covering a distance of more than a hundred zhang in an instant, I heard Jongni Chu shouting behind me.
+
+“See you next time!”
+
+*Not a chance, punk.*
+
+* * *
+
+One man left, and one man remained.
+
+Jongni Chu stared in the direction Jin Taekyung had disappeared and muttered,
+
+“The Sleeping Dragon of Shanxi, Jin Taekyung…”
+
+Before long, dimples appeared in the smooth skin around his mouth, which was entirely free of wrinkles.
+
+He stood there alone for a while, chuckling to himself, then turned toward an inn not far away.
+
+A quarter-hour earlier, the waiter who had driven Jin Taekyung away bent at the waist with a broad smile.
+
+“Welcome!”
+
+“Do you have any seats left?”
+
+“Of course, sir!”
+
+Jongni Chu’s smile grew even wider.
+
+* * *
+
+Splash!
+
+When I sat up, the hot water filling the wooden tub sloshed around.
+
+I had picked up the battered wooden tub after finding it lying in the grass. Then I had filled it with cold stream water and heated it using Scorching Yang Qi.
+
+After dumping out and refilling the water several times to scrub away the accumulated grime, I felt as if I had lost several kilograms.
+
+“I feel like I’ve undergone Bone Transformation.”
+
+I finally felt alive again.
+
+It would have been nice to have shampoo or body wash, but this was more than enough to satisfy me.
+
+The inventories for the Murim and modern worlds were separate, so bringing those things here had been impossible from the start.
+
+*But these clothes are a problem.*
+
+As soon as I put the rags back on—the kind of clothing that made it difficult to tell whether they were clothes or garbage—I frowned.
+
+The discomfort was one thing, but at this rate, washing myself had been completely pointless.
+
+I wandered through the streets, intending to buy at least one cheap set of clothes.
+
+The streets of Henan had been crowded with people from all walks of life and every profession even a year ago, but given the timing, martial artists were especially conspicuous now.
+
+Naturally, snippets of their conversations began to reach my ears.
+
+“Have you heard? The Sword Dragon of the Nangong Family won’t be participating in this year’s Star-Array Grand Banquet.”
+
+“Good heavens. Why did the Sword Dragon suddenly drop out? Is there some problem?”
+
+“Who knows? It’s a shame. He was one of the strongest candidates to win. Things are getting harder and harder to predict.”
+
+“Among the young rising martial artists, the Ten Dragons and Phoenixes probably have the best chance, but…the age limit is thirty-five. It’s impossible to say what will happen.”
+
+“That’s a fair point. The world is vast, and there are many masters. There’s always a chance that a rising powerhouse from outside the Nine Sects and One Gang or the Five Great Families will appear.”
+
+“You mean someone like the Heaven Shaking Sword of the Jin Family of Taiyuan and the Sleeping Dragon of Shanxi?”
+
+“Exactly. Though I don’t know whether either of them will attend this year’s Star-Array Grand Banquet.”
+
+Listening to this was embarrassing for no reason.
+
+I quickened my pace and left the road behind.
+
+As soon as I reached a main street lined with large buildings, a cloth shop displaying silk and dozens of kinds of clothing caught my eye.
+
+“Excuse me.”
+
+“Wow, they say clothes make the man, but they suit you so well. Are you perhaps a fairy? A fairy…what do you want?”
+
+The cloth-shop employee, who had been enthusiastically showering pretty female customers with flattery, frowned at me when I called out.
+
+The change in his expression was so extreme that I barely managed to resist punching him in the face.
+
+“Why do you think I came to a cloth shop?”
+
+“To beg, obviously.”
+
+“……”
+
+No matter how ragged my clothes were, there was no way to hide my massive frame.
+
+No, more of my body was exposed than covered, so my muscles stood out even more.
+
+When I stared at him while subtly tensing my body, the employee flinched.
+
+“W-why are you looking at me like that? Was I wrong?”
+
+“That’s enough of the kind of remark you’ll regret. Let’s look at some clothes.”
+
+“Y-you want clothes?”
+
+“Here, I have money, so don’t treat me like a beggar.”
+
+The employee’s expression changed when I pulled out a silver nyang and waved it around.
+
+Contrary to my expectations, it changed in a very bad direction.
+
+“That’s all?”
+
+“It is. Is there a problem?”
+
+“Good grief. What kind of clothes do you think you can buy with one lousy silver nyang?”
+
+“……One lousy silver nyang?”
+
+Had there been a major currency reform in the past year that caused the price of silver to collapse?
+
+As I stood there momentarily confused, the employee snorted.
+
+“Did you even read the price list before coming in?”
+
+I turned around without thinking and checked the sign.
+
+A wooden board at the front of the shop had these words written across it in huge letters:
+
+> **The owner has gone mad. Star-Array Grand Banquet special discount! Martial-artist’s outfit—two silver nyang!**
+
+“……Two silver nyang? For a martial-artist’s outfit?”
+
+“With that, you can buy underwear at best. Our cloth shop only handles the finest silk. Even our martial-artist’s outfits are made from Shu brocade.”
+
+“……”
+
+*So this was a department-store brand.*
+
+Of all the places I could have entered, I had chosen this one. What an embarrassment.
+
+The other employees and customers inside the shop began whispering as they watched me.
+
+“Oh my, he must be a beggar. How pitiful. Don’t you agree, dear?”
+
+“He certainly looks like one. He seems strong enough to put his muscles to good use, though. Should we take him in and use him as a servant while we’re at it?”
+
+“You’re so merciful, dear. That beggar must be delighted.”
+
+It was irritating enough when they simply called me a beggar, but hearing a couple say something like that made me twice as angry.
+
+I shouted with all the anger I could muster.
+
+“Who are you calling a beggar?”
+
+“Gasp!”
+
+“Eek!”
+
+“H-how dare you!”
+
+People recoiled in fright at my booming shout.
+
+At the same time, several burly employees came rushing over from somewhere and surrounded me. The clubs in their hands waved threateningly.
+
+“You bastard! How dare you make a scene here!”
+
+“Do you even know where you are, you filthy beggar?”
+
+“What? A beggar? Oh, these sons of bitches…”
+
+*Fine. You said it.*
+
+I rolled up the sleeve that was already half torn off.
+
+“All right, let’s be a real pain in the ass today. Who’s the owner here?”
+
+That was when it happened.
+
+“You’re the kind of bastard who won’t come to his senses until he sees a coffin. How dare you make a scene here?”
+
+A serious voice cut into my ears.
+
+I slowly turned around, and a man came into view.
+
+He wore a deeply pulled-down bamboo hat and black silk clothes embroidered with dragons. One hand rested on the hilt of his sword, as though he might draw it at any moment.
+
+The edge of his mouth, visible beneath the bamboo hat, lifted in a quiet laugh.
+
+“You seem to have learned a move or two somewhere, but if you don’t want to see blood, step aside.”
+
+I tilted my head to one side.
+
+“And if I don’t?”
+
+“Nameless martial artist. The price of reckless bravado is death.”
+
+When a line that sounded like it belonged in a martial-arts movie came out, the people nearby erupted in cheers.
+
+Once the cheers had died down, I opened my mouth.
+
+“Hey, can I ask you one thing?”
+
+The martial artist answered casually,
+
+“Speak. They will be your last words.”
+
+I stared into the shadow beneath the martial artist’s bamboo hat and continued.
+
+“You’re Hyuk Mujin, right?”
+
+“……!”
+
+I let out a deep sigh and looked up at the sky. A signboard written in vigorous, soaring calligraphy caught my eye.
+
+Hyuk Family Cloth Shop
+
+“You have three seconds. Put your head on the ground.”

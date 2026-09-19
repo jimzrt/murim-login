@@ -4,7 +4,7 @@ He was a young man with an approachable expression.
 
 He looked to be in his mid-to-late twenties at most, with a strangely friendly smile playing on his lips.
 
-“Whew. Why are you walking so fast?”
+“Whew. Why do you walk so fast?”
 
 “Do I know you?”
 
@@ -28,9 +28,9 @@ At the same time, I sensed the qi lying dormant within him.
 
 *A Peak master?*
 
-I had no idea how old he actually was, but his attainment was fairly impressive.
+I had no idea how old he actually was, but his accomplishment was fairly impressive.
 
-No, at this level, it could even be called remarkable. Reaching the Peak realm in your twenties was no easy feat.
+No, it was remarkable. Reaching the Peak realm in your twenties was no easy feat.
 
 But how should I put it? The qi I sensed from the young man seemed to amount to exactly that and nothing more.
 
@@ -102,7 +102,7 @@ I had covered them with cloth to disguise them as luggage, since I did not want 
 
 Should I tell him or not?
 
-After a moment’s thought, I opened my mouth. I was beginning to grow curious about which sect this eccentric young man belonged to as well.
+After a moment’s thought, I opened my mouth. I was beginning to wonder which sect this eccentric young man belonged to.
 
 “Jin Taekyung. That’s my name.”
 
@@ -110,7 +110,7 @@ After a moment’s thought, I opened my mouth. I was beginning to grow curious a
 
 “You know me?”
 
-“Of course I do. I’ve heard so much about the Sleeping Dragon of Shanxi becoming the Fire King’s Disciple that my ears are ringing.”
+“Of course I do. I’ve heard so much about the Sleeping Dragon of Shanxi becoming the Fire King’s Disciple that my ears hurt.”
 
 A year could be short or long, depending on how you looked at it.
 
@@ -120,7 +120,7 @@ But it was more than enough time for rumors about me and the Fire King to spread
 
 “Ah, as for me…”
 
-The young man grinned and continued.
+The young man grinned.
 
 “Jongni Chu. I’m Jongni Chu from Yunnan. I have my reasons for not revealing my sect, so I hope you’ll understand.”
 
@@ -140,13 +140,13 @@ Would you look at that positivity? Most martial artists his age would have been 
 
 The freakishly positive guy continued with a serious expression.
 
-“That’s because I just came up with the epithet. A swordsman who always wins. Isn’t it cool?”
+“That’s because I just came up with the epithet. A swordsman who always wins. Doesn’t it sound impressive?”
 
 “……”
 
 *Is he crazy?*
 
-As I stood there speechless, Jongni Chu made a motion of twisting his wrist.
+As I stood there speechless, Jongni Chu crooked his wrist in a drinking gesture.
 
 “How about it? Shall we have a drink to celebrate becoming friends?”
 
@@ -166,7 +166,7 @@ Even with the Star-Array Grand Banquet right around the corner, how could every 
 
 *I’m washing because I’m filthy. Because I’m filthy.*
 
-I would have to draw water from a stream and wash myself. At this rate, I would end up sleeping on the street despite leaving perfectly good inns unused.
+I would have to draw water from a stream and wash myself. At this rate, I would end up sleeping on the street with perfectly good inns all around me.
 
 “I know a decent inn, so come with me. I’ll pay for the drinks to celebrate our new friendship.”
 
@@ -228,7 +228,7 @@ After dumping and refilling the water several times to scrub away the accumulate
 
 I finally felt alive again.
 
-It would have been nice to have shampoo or body wash, but this was more than enough to satisfy me.
+It would have been nice to have shampoo or body wash, but this was more than enough.
 
 The inventories for Murim and the modern world were separate, so bringing any over had been impossible from the start.
 
@@ -254,13 +254,13 @@ Naturally, snippets of their conversations reached my ears.
 
 “That’s a fair point. The world is vast, and there are many masters. A powerful newcomer from outside the Nine Sects and One Gang or the Five Great Families could easily appear.”
 
-“You mean someone like the Heaven Shaking Sword of the Jin Family of Taiyuan and the Sleeping Dragon of Shanxi?”
+“You mean someone like the Heaven Shaking Sword of the Jin Family of Taiyuan or the Sleeping Dragon of Shanxi?”
 
 “Exactly. Though I don’t know whether either of them will attend this year’s Star-Array Grand Banquet.”
 
 Hearing them talk about me made my face burn.
 
-I quickened my pace and left the road behind.
+I quickened my pace and hurried away.
 
 As soon as I reached a main street lined with large buildings, a cloth shop displaying silk and dozens of different outfits caught my eye.
 
@@ -282,7 +282,7 @@ No matter how ragged my clothes were, there was no hiding my massive frame.
 
 If anything, the rags left so much skin exposed that my muscles stood out even more.
 
-When I stared at him while subtly tensing my body, the employee flinched.
+When I fixed him with a hard stare, the employee flinched.
 
 “W-why are you looking at me like that? Was I wrong?”
 
@@ -322,7 +322,7 @@ A wooden board at the front of the shop had these words written across it in eno
 
 “……”
 
-*So this was a department-store brand.*
+*So this was the kind of brand you found in a department store.*
 
 Of all the places I could have walked into, I had chosen this one. What an embarrassment.
 
@@ -336,7 +336,7 @@ The other employees and customers inside the shop began whispering as they watch
 
 Being called a beggar was irritating enough, but hearing it from a couple made me twice as angry.
 
-I shouted with all the anger I could muster.
+I shouted with all the fury I could muster.
 
 “Who are you calling a beggar?”
 
@@ -346,7 +346,7 @@ I shouted with all the anger I could muster.
 
 “H-how dare you!”
 
-People recoiled in fright at my booming shout.
+Everyone recoiled in fright at my booming shout.
 
 At the same time, several burly employees came rushing over and surrounded me, brandishing clubs threateningly.
 
@@ -374,7 +374,7 @@ He wore a bamboo hat pulled low over his face and black silk clothes embroidered
 
 The lips visible beneath the bamboo hat curled as he let out a quiet laugh.
 
-“You seem to have learned a move or two somewhere, but if you don’t want to see blood, step aside.”
+“You seem to have learned a move or two somewhere, but if you don’t want to see blood, back down.”
 
 I cocked my head.
 
@@ -388,17 +388,17 @@ Once the cheering died down, I spoke.
 
 “Hey, can I ask you one thing?”
 
-The martial artist answered casually,
+The martial artist answered calmly.
 
 “Speak. They will be your last words.”
 
-I stared into the shadow beneath the martial artist’s bamboo hat and continued.
+I stared into the shadow beneath his bamboo hat.
 
 “You’re Hyuk Mujin, right?”
 
 “……!”
 
-I let out a deep sigh and looked up at the sky. A signboard written in vigorous, soaring calligraphy caught my eye.
+I let out a deep sigh and looked up. A signboard written in vigorous, soaring calligraphy caught my eye.
 
 Hyuk Family Cloth Shop
 
