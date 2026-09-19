@@ -1,29 +1,31 @@
 # Translation State
 
-- Last completed: 419
-- Next chapter: 420
-- Current block: 415–419 (5/5)
-- Latest translation: `translations/0419.md`
-- Latest summary: `summaries/beats/0419.md`
-- Safe profiles through: chapter 419
+- Last completed: 420
+- Next chapter: 421
+- Current block: 420–424 (1/5)
+- Latest translation: `translations/0420.md`
+- Latest summary: `summaries/beats/0420.md`
+- Safe profiles through: chapter 420
 
 ## Current Block
 
-- Jin Taekyung defeats and kills Lee Jungryong after a final clash, learning through Lee's memories that Cheon Taemin was the hero and older brother figure who defined Lee's life. Lee dies without renouncing his choices. Jin receives two level-ups, then prepares to confront the Arch Lich before the city becomes a Gate, but the Skeleton Warlord's trembling voice warns him of the Arch Lich's presence.
+- Jin Taekyung confronts the Arch Lich, which reveals that it has watched him through hundreds of eyes and ears, blocks his Qi Sense, and claims to have corrupted Lei Fei into the Death Knight Lord before identifying Jin as its next coveted material.
+- Provoked by the Arch Lich's taunts, Jin launches White Flame's blue fire spear through the creature's mana clouds, but the attack's result is not shown. Far away, Choi Minwoo recognizes Jin's attack, reaffirms his faith in him, and leads the allied fighters back into battle.
 
 ## Open Questions
 
-- Can the three Hunters stop the city's Gate transformation?
-- What is causing the Skeleton Warlord's fear, dizziness, nausea, and insistence that they turn back?
-- What will the Arch Lich do now that it has appeared before Jin Taekyung?
+- Can Jin and the allied Hunters stop the city's transformation into a Gate?
+- What is the full extent of the Arch Lich's power and ability to observe or identify Jin?
+- Will Jin's attack damage the Arch Lich?
+- Why does the Skeleton Warlord react to the Arch Lich with such extreme fear?
 
 ## Exceptional Decision
 
 - Render 아크 리치 as Arch Lich.
-- Render 어둠에 잠식된 도시 as City Consumed by Darkness.
-- Render 죽음에서 돌아온 자 as One Who Returned from Death.
-- Render 착짱죽짱 as “The only good chink is a dead chink.”
-- Render 형님 as hyung when Lee uses it, without changing the established Cheon Taemin relationship.
+- Render 마계 as Demon Realm.
+- Render 데스나이트 로드 as Death Knight Lord.
+- Preserve Jin's profanity and the Arch Lich's archaic, taunting register.
+- Render 바실리스크 as Basilisk.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

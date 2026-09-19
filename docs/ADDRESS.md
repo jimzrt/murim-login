@@ -694,3 +694,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 스켈레톤 워로드 | human commander to captive undead commander | food parasite | mocking and familiar | Jin mocks the Skeleton Warlord for wanting mana and calls him a food parasite. |
 | 최 팀장 | 진태경 | senior allied commander to younger S-rank Hunter | Mr. Jin | urgent and concerned | Team Leader Choi calls to Jin while giving him Hero's Soul and warning him to be careful. |
 | 진태경 | 사령관 | captor to captive undead commander | you | casual, mocking, and dismissive | Taekyung addresses the Skeleton Warlord informally while rejecting its pleas to turn back. |
+| 아크 리치 | 인간 | undead lord to living adversary | human | formal, archaic, and taunting | The Arch Lich addresses Jin while claiming authority over all undead and baiting him toward corruption. |
+| 진태경 | 아크 리치 | living Hunter to undead lord and enemy | you fucking bastard | insulting-casual and defiant | Jin answers the Arch Lich's provocation and orders it down before attacking. |

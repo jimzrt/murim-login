@@ -1414,3 +1414,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 어둠에 잠식된 도시 | **City Consumed by Darkness** | Name of the ???-Grade Gate and Arch Lich stronghold. |
 | 죽음에서 돌아온 자 | **One Who Returned from Death** | Quest title. |
 | 꺽정 | **Kkeokjeong** | Jin's injured ally, addressed as Uncle Kkeokjeong. |
+| 바실리스크 | **Basilisk** | Mythical monster whose gaze inflicts petrification. |

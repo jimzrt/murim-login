@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Watching them kill each other brought me immense joy for the first time in a very long while. I thank you for helping me understand how insignificant humans are.",
+      "defect": "“Them” directly identifies Wu Heixing and Lee Jungryong as having killed each other, but Jin killed both men. The source describes humans killing one another and then explicitly thanks Jin.",
+      "id": "F01",
+      "rationale": "The broader human reference preserves the reciprocal wording without falsely assigning Wu and Lee each other’s deaths.",
+      "replacement": "Watching you humans kill one another brought me immense joy for the first time in a very long while. I thank you for helping me understand how insignificant humans are.",
+      "severity": "critical",
+      "source": "서로를 죽고 죽이는 모습을 보며 실로 오랜만에 커다란 기쁨을 느낄 수 있었다. 인간이 얼마나 하찮은 생물인지 알 수 있게 도와준 네게 감사를 표하마."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The spear of flame I hurled with all my strength tore through the dark mana clouds and ripped apart the darkness.",
+      "defect": "The draft changes the first impact from bursting the mana clouds apart to merely passing through them.",
+      "id": "F02",
+      "rationale": "터트리고 denotes bursting or blowing the clouds apart, a distinct physical result reinforced by the preceding explosion sound.",
+      "replacement": "The spear of flame I launched with all my strength blew apart the dark clouds of mana and tore through the darkness.",
+      "severity": "critical",
+      "source": "온 힘을 다해 쏘아 보낸 불의 창이, 마력으로 이루어진 먹구름을 터트리고 어둠을 찢었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“True. If you’d seen my bathroom hidden-camera footage, you would’ve vanished from shock already. No one has ever survived seeing my enormous black anaconda.”",
+      "defect": "The draft drops the anaconda’s “eye,” making the euphemism more explicit and weakening the eye-contact setup for the Arch Lich’s Basilisk misunderstanding.",
+      "id": "F03",
+      "rationale": "The source deliberately frames the crude joke around looking the anaconda in the eye, which preserves both its euphemism and the ensuing Basilisk exchange.",
+      "replacement": "“True. If you’d seen me through a hidden camera in my bathroom, you would’ve vanished from shock already. No one has ever survived looking my enormous black anaconda in the eye.”",
+      "severity": "major",
+      "source": "하긴. 화장실 몰카로 봤으면 이미 놀라서 소멸했겠지. 내 거대한 블랙 아나콘다의 눈을 보고 살아남은 놈은 없으니까."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Others might call it unfounded concern and slander, but Choi Minwoo knew how evil a person could become.",
+      "defect": "“Unfounded” denies any basis for Choi’s concern, while 섣부른 means premature or hasty. “Slander” also changes 누명 from a false accusation into defamatory speech.",
+      "id": "F04",
+      "rationale": "The source presents how others would characterize Choi’s suspicions without conceding that those suspicions lack a basis.",
+      "replacement": "Others might call his concern premature and his suspicions a false accusation, but Choi Minwoo knew how evil a person could become.",
+      "severity": "major",
+      "source": "다른 사람들은 섣부른 우려이며 누명이라 하겠지만, 최민우는 사람이 얼마나 악해질 수 있는지 알고 있었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Cheon Taemin, the hero who had saved humanity, had pushed his young grandson, who had lost his parents, out of his sphere of concern.\n\nJin Taekyung had not.",
+      "defect": "“Out of his sphere of concern” is an unnatural abstraction that obscures the source’s characterization of Cheon Taemin as actively turning away from his orphaned grandson.",
+      "id": "F05",
+      "rationale": "관심 밖으로 밀어냈다 means that Cheon Taemin excluded or pushed his grandson from his attention and concern, not that the child occupied an abstract external sphere.",
+      "replacement": "Cheon Taemin, the hero who had saved humanity, had turned away from his young grandson after the boy lost his parents.\n\nJin Taekyung had not.",
+      "severity": "major",
+      "source": "인류를 구한 영웅인 천태민은 부모를 잃은 어린 손자를 관심 밖으로 밀어냈지만, 진태경은 아니었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Kim Butler, who had always been by his side since childhood, was a thoughtful and warm person. But he had never been able to give Choi Minwoo certainty.\n\nThat was why Choi Minwoo had been able to gather his courage and speak.",
+      "defect": "The Korean title-name 김 집사 is reversed into the name-like “Kim Butler.” More importantly, the causal transition now implies that Butler Kim’s failure to provide certainty gave Choi courage, whereas Jin’s unprecedented reassurance enables him to speak honestly.",
+      "id": "F06",
+      "rationale": "The surrounding passage identifies Jin as the first person to invite Choi’s honesty; 그렇기에 carries that contrast into Choi’s decision to speak.",
+      "replacement": "Butler Kim, who had always been by his side since childhood, was thoughtful and warm, but he had never given Choi Minwoo that certainty.\n\nJin Taekyung had, and that gave Choi Minwoo the courage to speak.",
+      "severity": "major",
+      "source": "어린 시절부터 늘 곁에 있던 김 집사는 사려 깊고 따뜻한 사람이었으나, 확신을 주지는 못했다.\n\n그렇기에 최민우는 용기 내어 말할 수 있었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "I had expected it, but still.",
+      "defect": "The draft turns a suspicion confirmed into an expectation followed by an unfinished contrast.",
+      "id": "F07",
+      "rationale": "설마 했지만 conveys reluctant suspicion, while 역시나 confirms that suspicion.",
+      "replacement": "I’d had a feeling, and sure enough.",
+      "severity": "minor",
+      "source": "설마 했지만, 역시나."
+    },
+    {
+      "confidence": 0.95,
+      "current": "He possessed a large, radiant soul.",
+      "defect": "“Large soul” is an unnatural literal collocation in English.",
+      "id": "F08",
+      "rationale": "Here 크고 describes the soul’s greatness rather than its literal physical size.",
+      "replacement": "He possessed a great, radiant soul.",
+      "severity": "minor",
+      "source": "크고 빛나는 영혼을 가진 자였다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "*“Yeah, that’s the one.”*",
+      "defect": "“That’s the one” suggests selecting a person or object and does not sound like Jin approving Choi’s newfound honesty.",
+      "id": "F09",
+      "rationale": "그래, 그거지 is Jin’s approving response after prompting Choi to say what he truly wanted.",
+      "replacement": "*“Yeah. That’s more like it.”*",
+      "severity": "minor",
+      "source": "‘그래, 그거지.’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Only the aging Kim Butler had been someone he could truly confide in.",
+      "defect": "The title-name 김 집사 is again reversed into the name-like “Kim Butler.”",
+      "id": "F10",
+      "rationale": "김 is the surname and 집사 is the title, so English order is “Butler Kim.”",
+      "replacement": "Only the aging Butler Kim had been someone he could truly confide in.",
+      "severity": "minor",
+      "source": "나이든 김 집사만이 속을 터놓을 수 있는 유일한 상대였다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "At the same time, the brief silence and stillness settled over the battlefield shattered, and a tremendous cry burst from Choi Minwoo’s lips.",
+      "defect": "The sentence is grammatically malformed because “settled over the battlefield” lacks the relative construction needed to modify “silence and stillness.”",
+      "id": "F11",
+      "rationale": "The replacement restores the source’s simultaneous transition from the brief lull to Choi’s shout.",
+      "replacement": "As the brief silence and stillness that had settled over the battlefield shattered, a tremendous cry burst from Choi Minwoo’s lips.",
+      "severity": "minor",
+      "source": "짧은 순간 내려앉았던 정적과 고요가 깨짐과 동시에, 최민우의 입술 사이로 거대한 외침이 터져 나왔다."
+    }
+  ],
+  "summary": "Two action-level fidelity errors alter who killed whom and how the mana clouds were struck. Additional findings concern an over-explicit sexual joke, epistemic nuance, characterization, hierarchy, causal clarity, and localized English.",
+  "version": 1
+}

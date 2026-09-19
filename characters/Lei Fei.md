@@ -1,6 +1,6 @@
 # Lei Fei (레이페이)
 
-- **Safe through:** Chapter 417
+- **Safe through:** Chapter 420
 - **Aliases:** None
 - **Role:** Lei Fei is a concealed Chinese S-rank Hunter and former head of the Public Security Armed Forces Department in Sichuan Province who recovered his human identity after becoming a level-120 undead Death Knight Lord and died fulfilling his final mission.
 - **Personality:** Lei Fei's recovered memories show him as dutiful, honorable, family-oriented, and willing to serve as an unseen guardian.

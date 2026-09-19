@@ -1,0 +1,47 @@
+{
+  "chapter": 420,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.111,
+    "source_characters": 5436,
+    "source_paragraphs": 155,
+    "translation_characters": 11477,
+    "translation_paragraphs": 173
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "화산",
+        "preferred": "Huashan"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "신의",
+        "preferred": "Divine Physician"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "아귀",
+        "preferred": "A-Gwi"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
