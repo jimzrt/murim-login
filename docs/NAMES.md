@@ -1522,3 +1522,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 형문검가 | **Hyungmun Sword Family** | Family invoked by one of the Qingxia Hall women. |
 | 응성상회 | **Eungseong Merchant Association** | Merchant association represented in the Qingxia Hall entourage. |
 | 천룡인 | **Celestial Dragon** | Taekyung's mocking label for a privileged imperial noble. |
+| 홍란 | **Honglan** | Stage name of Ju Wongong's Lower District Sect singing courtesan; her real name is concealed. |

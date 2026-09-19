@@ -771,3 +771,9 @@ Overrides generic relationship prose in character profiles for this pair.
 | 궁기방 | 무송 | martial companion to Stronghold Lord | Senior Mu Song | pleading-deferential | Begins pleading for Mu Song to save them from Tianling Falls. |
 | 진위경 | 무송 | Alliance inspector to Stronghold Lord | Stronghold Lord | formal and cautionary | Uses 채주 while warning Mu Song that the group did not come to spill blood. |
 | 무송 | 황충 | junior_martial_artist_to_mentor_like_uncle | Uncle Hwang | familiar-respectful | Mu Song privately addresses Hwang Chung as 황 숙부 and cries out for him after discovering Donghu Stronghold's destruction. |
+| 진태경 | 주원공 | opponent to exiled imperial relative | you | casual and mocking | Uses 네놈 and the 주인공/주원공 wordplay while ordering Ju Wongong down. |
+| 주원공 | 진태경 | Qingxia Hall young master to Great Hero | Great Hero Jin | imperious, then deferential | Initially uses 네놈 and 역적놈아 while asserting imperial authority, then switches to 진 대협 and respectful forms after seeing Prince Shangshan's token. |
+| 주원공 | 청풍 | Qingxia Hall young master to Huashan Divine Dragon | you | formal and guarded | Uses 그대 while tentatively offering Cheongpung an invitation to Dongting Lake. |
+| 주원공 | 홍란 | employer to kept singing courtesan | Honglan | commanding | Orders Honglan to greet Taekyung and presents her as the singing courtesan he keeps at his side. |
+| 홍란 | 진태경 | Lower District Sect courtesan to honored guest | honored guest | humble and formal | Introduces herself with 소녀 and addresses Taekyung as 귀인. |
+| 가솔 | 진태경 | Zhuge Clan retainer to Great Hero | Great Hero Jin | polite and pleading | Uses 진 대협 while urging Taekyung to stop provoking Ju Wongong. |

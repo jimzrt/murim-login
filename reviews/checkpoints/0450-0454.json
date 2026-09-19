@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "Taekyung's party has escaped Tianling Falls, reached Zaoyang, and is traveling by land toward the Zhuge Clan.",
+      "defect": "The active state obscures the consequential party split and can incorrectly place Jin Wikyung, Jeok Cheongang, and Mungyeong with the traveling group.",
+      "id": "C01",
+      "rationale": "Chapter 450 explicitly leaves Jin Wikyung, Jeok Cheongang, and Mungyeong at the massacre site while Taekyung's smaller group departs. Their locations and access to the evidence are active continuity.",
+      "replacement": "Taekyung, Cheongpung, Gung Gibang, and Hyuk Mujin crossed Tianling Falls, reached Zaoyang with a Zhuge Clan retainer, and are traveling by land toward the Zhuge Clan; Jin Wikyung, Jeok Cheongang, and Mungyeong remained at Donghu Stronghold.",
+      "severity": "major",
+      "source": "Durable state, active_continuity"
+    },
+    {
+      "confidence": 1.0,
+      "current": "A first-class wandering martial artist would be considered a First Rate master wherever he went.",
+      "defect": "The sentence changes the established rank rendering from “First Rate” to “first-class” immediately after introducing the victim as a “First Rate wandering martial artist.”",
+      "id": "C02",
+      "rationale": "Using the same established rank term prevents an apparent distinction between two equivalent classifications.",
+      "replacement": "A First Rate wandering martial artist would be considered a First Rate master wherever he went.",
+      "severity": "minor",
+      "source": "Chapter 450, discussion of the killer demon's victim"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Imperial relatives come in all grades. If he’s an eighth-degree relative, doesn’t that mean he isn’t really related by blood, but merely has a few drops of blood somewhere in common? If I spit into the Yangtze right now, the Yangtze and I would probably be about eighth-degree relatives.”",
+      "defect": "The dialogue replaces Chapter 453's clear “third cousin” relationship with the opaque “eighth-degree relative,” creating terminology drift and making an actual blood relationship sound internally contradictory.",
+      "id": "C03",
+      "rationale": "Chapter 453 already establishes Ju Wongong as the Emperor's third cousin. Retaining that natural English relationship preserves both the hierarchy and Taekyung's joke.",
+      "replacement": "“Imperial relatives come in all grades. If he’s only the Emperor’s third cousin, doesn’t that mean they merely have a few drops of blood in common? If I spit into the Yangtze right now, the Yangtze and I would probably be third cousins too.”",
+      "severity": "minor",
+      "source": "Chapter 454, Taekyung discussing Ju Wongong's imperial relationship"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Though I had already guessed as much when he started talking about being an eighth-degree relative.",
+      "defect": "This repeats the inconsistent and unnatural “eighth-degree relative” rendering instead of the established third-cousin relationship.",
+      "id": "C04",
+      "rationale": "The replacement aligns the narration with Ju Wongong's declaration in Chapter 453 and removes an unnecessary alternate kinship system.",
+      "replacement": "Though I had already guessed as much when he announced that he was the Emperor’s third cousin.",
+      "severity": "minor",
+      "source": "Chapter 454, Taekyung realizing Ju Wongong is politically insignificant"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Ju Wongong, on the other hand, was an imperial relative from a branch eight degrees removed.",
+      "defect": "“Eight degrees removed” has a different meaning in English kinship terminology and conflicts with the previously established third-cousin relationship.",
+      "id": "C05",
+      "rationale": "This preserves his distant blood relationship and inferior dynastic standing without implying eight generations of removal.",
+      "replacement": "Ju Wongong, on the other hand, was the Emperor’s third cousin, from a distant collateral branch of the imperial family.",
+      "severity": "minor",
+      "source": "Chapter 454, comparison between Prince Shangshan and Ju Wongong"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“……Just hit me ten times. Beat me until I die.”",
+      "defect": "The reading copies repeatedly use two consecutive ellipsis glyphs instead of the required single ellipsis character.",
+      "id": "C06",
+      "rationale": "The binding Markdown style requires `…`; all doubled `……` pauses throughout Chapters 453–454 should be normalized consistently.",
+      "replacement": "“…Just hit me ten times. Beat me until I die.”",
+      "severity": "minor",
+      "source": "Chapters 453–454, dialogue pauses throughout"
+    }
+  ],
+  "summary": "The reading copies preserve the main hooks and voice, but the active state drops the party split, Chapter 450 drifts from the established First Rate terminology, Chapter 454 renders the same imperial relationship three inconsistent ways, and Chapters 453–454 repeatedly use doubled ellipsis glyphs.",
+  "version": 1
+}
