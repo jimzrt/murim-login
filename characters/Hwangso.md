@@ -1,6 +1,6 @@
 # Hwangso (황소)
 
-- **Safe through:** Chapter 374
+- **Safe through:** Chapter 494
 - **Aliases:** None
 - **Role:** First-generation disciple of the Gongdao Sect in Sichuan, deployed with roughly thirty second- and third-generation disciples to search for the surviving Third Fiend.
 - **Personality:** Privileged, impatient, pleasure-seeking, inattentive, and dismissive of the danger surrounding the mission.
