@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“That’s what you should do. Unless you want to spend the rest of your life exercising restraint in your Inventory.”",
+      "defect": "The possessive assigns the Inventory to the Skeleton King, but Taekyung is threatening to confine him in Taekyung’s own Inventory.",
+      "id": "F01",
+      "rationale": "The threat depends on Taekyung controlling the Inventory and being able to imprison the Skeleton King there.",
+      "replacement": "“That’s what you should do. Unless you want to spend the rest of your life lying low in my Inventory.”",
+      "severity": "critical",
+      "source": "“당연히 그래야지. 인벤토리에서 평생 자중하기 싫으면.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Magic Johnson commissioned a grand mage he knows to make it specially, so its performance is top-class. You could name your price for it.”",
+      "defect": "“You could name your price” means the owner or buyer can choose the price, whereas 부르는 게 값 means it would command whatever price the seller demanded.",
+      "id": "F02",
+      "rationale": "The source emphasizes the ring’s extreme market value, which directly causes the Skeleton King to reassess its dignity.",
+      "replacement": "“Magic Johnson commissioned a grand mage he knows to make it specially, so its performance is top-class. It’s probably worth whatever they ask for it.”",
+      "severity": "major",
+      "source": "“매직 존슨이 친분이 있는 대마도사에게 특별 제작을 부탁한 거라 성능은 최상급. 부르는 게 값일걸.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "[Who Is Jin Taekyung? Chairman Shao Yang bows his head on behalf of the Chinese people. The reverent farewell of S-rank Hunters…]",
+      "defect": "The established name Xiao Yang is incorrectly rendered as Shao Yang.",
+      "id": "F03",
+      "rationale": "샤오 양 is Xiao Yang; changing the romanization risks presenting an established character as a different person.",
+      "replacement": "[Who Is Jin Taekyung? Chairman Xiao Yang bows his head on behalf of the Chinese people. The reverent farewell of S-rank Hunters…]",
+      "severity": "major",
+      "source": "[진태경, 그는 누구인가? 중국 국민들을 대표해 고개 숙인 샤오 양 주석. S급 헌터들의 경외 어린 환송…….]"
+    },
+    {
+      "confidence": 0.96,
+      "current": "The Skeleton King rolled his eyes around in silence before opening his mouth.",
+      "defect": "“Rolled his eyes” conventionally signals contempt or exasperation, while 뒤룩뒤룩 굴리다 here depicts his eyes darting around uneasily after being threatened.",
+      "id": "F04",
+      "rationale": "The eye movement shows that the threat has rattled him and sets up his face-saving claim that the world is simply not ready for him.",
+      "replacement": "The Skeleton King’s eyes darted around as he remained silent, but eventually he spoke.",
+      "severity": "major",
+      "source": "말없이 눈동자를 뒤룩뒤룩 굴리던 스켈레톤 킹이 입을 열었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "That was the Skeleton King’s brief assessment as he watched Team Leader Choi smile contentedly, as though everything had gone according to plan.",
+      "defect": "The draft makes Team Leader Choi merely something the Skeleton King watches, while the source explicitly includes Choi among the targets of his assessment that the humans are devious.",
+      "id": "F05",
+      "rationale": "최 팀장을 포함한 establishes that the punchline applies to Choi as well, not only to Taekyung’s sudden political reversal.",
+      "replacement": "It was a brief assessment that included Team Leader Choi, who was smiling contentedly as though everything had gone according to plan.",
+      "severity": "major",
+      "source": "모든 것이 계획대로 되었다는 듯, 흐뭇하게 웃고 있는 최 팀장을 포함한 짤막한 소감이었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Oh, right. You’re already dead. You looked so real that I got confused for a second.”",
+      "defect": "The draft adds an explicit statement that the Skeleton King is already dead, which is not spoken in the source and unnecessarily explains the following narration.",
+      "id": "F06",
+      "rationale": "The source only says the disguise was convincing enough to confuse Taekyung; the fact that undead cannot feel pain is supplied by the subsequent narration.",
+      "replacement": "“Oh, right. It looked so convincing that I got confused for a second.”",
+      "severity": "minor",
+      "source": "“아, 맞다. 너무 감쪽같아서 순간 헷갈렸네.”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "“Is being handsome not the greatest advantage? I merely used this king’s face as my profile picture, and countless requests to follow me came pouring in from around the world. Heh heh.”",
+      "defect": "“Requests to follow me” omits 맞팔, which specifically means requests for reciprocal following.",
+      "id": "F07",
+      "rationale": "The mutual-follow detail supports the preceding claim that he and Magic Johnson already follow each other and sharpens the social-media joke.",
+      "replacement": "“Is being handsome not the greatest advantage? I merely used this king’s face as my profile picture, and countless follow-for-follow requests came pouring in from around the world. Heh heh.”",
+      "severity": "minor",
+      "source": "“역시 잘생긴 게 최고 아니겠나. 이 몸의 얼굴을 프로필 사진으로 해 놨을 뿐인데 전 세계에서 무수한 맞팔의 요청이 쏟아지더군. 후후.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Ah. Understood.”",
+      "defect": "The draft removes the stammer that shows the Skeleton King has been intimidated, and its formal wording weakens the comic capitulation.",
+      "id": "F08",
+      "rationale": "The broken 아 preserves his momentary fear after Taekyung threatens lifelong confinement in the Inventory.",
+      "replacement": "“A-All right.”",
+      "severity": "minor",
+      "source": "“아, 알겠다.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The second headache was the problem now.",
+      "defect": "The sentence is an unnatural tautological calque and does not read as polished English narration.",
+      "id": "F09",
+      "rationale": "The replacement naturally preserves Taekyung’s transition from the resolved Skeleton King problem to his remaining problem.",
+      "replacement": "Now there was the second headache to deal with…",
+      "severity": "minor",
+      "source": "이제 남은 두 번째 골칫덩이가 문제인데……"
+    }
+  ],
+  "summary": "The draft contains one critical ownership error, several meaningful fidelity and characterization issues, an established-name error, and localized wording problems.",
+  "version": 1
+}

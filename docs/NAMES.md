@@ -1464,3 +1464,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 여동빈 | **Lü Dongbin** | The Sword Immortal identified by Mungyeong. |
 | 장삼봉 | **Jang Samfeng** | Famous Wudang figure cited as a martial-arts novel staple. |
 | 달마대사 | **Bodhidharma** | Famous Shaolin figure cited alongside Lü Dongbin and Jang Samfeng. |
+| 스톤 킹 | **Stone-King** | The Skeleton King's claimed public identity. |
+| 아카부타크치 | **Akabutakchi** | Amazon rainforest tribe used in Taekyung's joke. |
+| 애틀랜타 | **Atlanta** | The U.S. city claimed as the Skeleton King's birthplace. |
+| 조지아주 | **Georgia** | The U.S. state claimed as the Skeleton King's birthplace. |
+| 인천 | **Incheon** | Location of the airport welcome and presidential greeting. |

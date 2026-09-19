@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "\"Team Leader Choi manages Taekyung's media and official arrangements but must consult him before making political commitments.\"",
+      "defect": "The active state ends with the modern-world developments and drops the still-active Murim-side continuity established in chapters 435–438: Mungyeong's concealed identity and continued presence, Taekyung's newly opened Middle Dantian and fabricated explanation, Jeok Cheongang's supervision and warning, and the ongoing journey to Hubei.",
+      "id": "C01",
+      "rationale": "These developments remain operational at the checkpoint boundary and are needed for a reliable handoff into chapter 440.",
+      "replacement": "\"Team Leader Choi manages Taekyung's media and official arrangements but must consult him before making political commitments.\",\n    \"Mungyeong remains with Jin Taekyung's group under the identity of a young medical apprentice, while his identity as the former Divine Physician and Slaughter Saint remains concealed.\",\n    \"Jin Taekyung has inexplicably opened his Middle Dantian; his claim that a white-haired swordsman opened it during a dream is fabricated and remains unverified.\",\n    \"Jeok Cheongang has begun supervising Taekyung's training, rejects the suspicion that Taekyung used demonic martial arts, and has ordered him to avoid Mungyeong.\",\n    \"The group is traveling toward Hubei and expects to remain in transit for more than a week, allowing Taekyung to alternate between Murim and the modern world.\"",
+      "severity": "major",
+      "source": "Durable state, end of active_continuity"
+    },
+    {
+      "confidence": 0.99,
+      "current": "\"continuity_sources\": [\n    439\n  ]",
+      "defect": "The provenance claims that chapter 439 is the sole continuity source even though the open questions already retain hooks from chapters 435–438, and the corrected active state must also retain developments from those chapters.",
+      "id": "C02",
+      "rationale": "The source list should identify every chapter contributing facts or unresolved hooks to the durable state.",
+      "replacement": "\"continuity_sources\": [\n    435,\n    436,\n    437,\n    438,\n    439\n  ]",
+      "severity": "major",
+      "source": "Durable state, continuity_sources"
+    },
+    {
+      "confidence": 0.98,
+      "current": "The old man curled up the corners of his mouth without a care in the world, standing before an aura powerful enough to freeze even an ordinary Peak master stiff as a statue.",
+      "defect": "“Curled up the corners of his mouth” is an unidiomatic English collocation.",
+      "id": "C03",
+      "rationale": "The replacement preserves Jeok Cheongang's composure and the threatening contrast while reading naturally.",
+      "replacement": "The old man’s lips curled in an unconcerned smile as he stood before an aura powerful enough to freeze even an ordinary Peak master stiff as a statue.",
+      "severity": "minor",
+      "source": "Chapter 435, Jeok Cheongang confronting Mungyeong at the bow"
+    },
+    {
+      "confidence": 0.96,
+      "current": "*If you hang it on your nose, it becomes a nose ring; if you hang it on your ear, it becomes an earring.*",
+      "defect": "The untranslated Korean proverbial image is opaque in English and lacks either a natural analogy or the footnote required for a deliberately literal cultural rendering.",
+      "id": "C04",
+      "rationale": "This conveys Taekyung's point—that Mungyeong is forcing every detail to fit his conclusion—in natural, conversational English without requiring an explanatory note.",
+      "replacement": "*You could make anything fit if you twisted it hard enough.*",
+      "severity": "minor",
+      "source": "Chapter 437, Taekyung reflecting on Mungyeong's identification of Lü Dongbin"
+    },
+    {
+      "confidence": 0.98,
+      "current": "He had devoted his soul and heart entirely to martial arts.",
+      "defect": "“Soul and heart” reverses the established English collocation and sounds translated rather than natural.",
+      "id": "C05",
+      "rationale": "The replacement preserves the extent of Mungyeong's dedication without the awkward collocation.",
+      "replacement": "He had devoted himself entirely to martial arts.",
+      "severity": "minor",
+      "source": "Chapter 438, Mungyeong recalling his martial development"
+    },
+    {
+      "confidence": 0.96,
+      "current": "But the small old man before him continued speaking with eyes clearer and more transparent than ever.",
+      "defect": "“Clearer and more transparent” is redundant and unnatural when describing a person's gaze.",
+      "id": "C06",
+      "rationale": "The revision retains the emphasis on Jeok Cheongang's unmistakable sincerity while removing the duplicated image.",
+      "replacement": "But the small old man before him continued speaking with more clarity in his eyes than ever before.",
+      "severity": "minor",
+      "source": "Chapter 438, Mungyeong assessing Jeok Cheongang's sincerity"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Yeah. So let’s just say you’re Korean mixed-race. It’s not like anyone’s going to be curious about your personal details anyway.”",
+      "defect": "“You’re Korean mixed-race” has unnatural English word order.",
+      "id": "C07",
+      "rationale": "The replacement states the proposed cover identity idiomatically while preserving Taekyung's casual voice.",
+      "replacement": "“Yeah. So let’s just say you’re a Korean of mixed heritage. It’s not like anyone’s going to be curious about your personal details anyway.”",
+      "severity": "minor",
+      "source": "Chapter 439, Taekyung revising the Skeleton King's cover identity"
+    }
+  ],
+  "summary": "The reading copies are broadly consistent in voice, terminology, formatting, and spoiler control. The main issue is that the durable active state drops several unresolved Murim-side developments from chapters 435–438 and cites only chapter 439 as its continuity source. A few minor prose edits are also warranted for unidiomatic or opaque English.",
+  "version": 1
+}

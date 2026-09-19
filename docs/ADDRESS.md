@@ -739,3 +739,9 @@ Overrides generic relationship prose in character profiles for this pair.
 | 적천강 | 문경 | overwhelming elder to old acquaintance | you / little punk | mocking and threatening | Mocks Mungyeong's expression and threatens to poke out his eyes. |
 | 적천강 | 무송 | legendary martial master to stronghold lord | you | gruff, coercive, and dismissive | Uses 자네 while ordering Mu Song to take the group only as far as Sichuan and leave the fast ship. |
 | 청풍 | 무송 | young martial companion to stronghold lord | you | cheerful and familiar | Offers Mu Song his last dumpling and then induces him to buy more in Guang'an. |
+| 스켈레톤 킹 | 진태경 | undead_ally_to_handler | vile human | mocking-formal | The Skeleton King repeatedly addresses Taekyung as a vile human. |
+| 스켈레톤 킹 | 매직 존슨 | undead_ally_to_benefactor | good human | grateful-formal | The Skeleton King's direct message to Magic Johnson opens with this address. |
+| 진태경 | 최 팀장 | managed_Hunter_to_team_leader | Team Leader Choi | polite-familiar | Taekyung consults Choi about the public response and reprimands him for making political arrangements without permission. |
+| 최 팀장 | 진태경 | team_leader_to_managed_Hunter | Mr. Jin Taekyung | formal-polite | Choi uses 씨 while explaining the welcome, tax liability, and political arrangements. |
+| 진태경 | 대통령 | Hunter_to_President | Mr. President | formal-polite | Taekyung addresses the President respectfully during their airport greeting. |
+| 대통령 | 진태경 | President_to_Hunter | Mr. Jin Taekyung | formal-polite | The President addresses Taekyung by name at the airport photo line. |
