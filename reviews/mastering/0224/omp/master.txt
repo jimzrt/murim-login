@@ -14,7 +14,7 @@ The terrifying Named Monster could appear behind them at any moment, yet Won Myu
 
 The Guild member assigned to scouting answered immediately.
 
-He was fast on his feet and skilled with a bow. Thanks to the good luck of drawing lots, he had barely escaped death, unlike his other comrades.
+Fast on his feet and skilled with a bow, he had been lucky enough to draw the right lot and narrowly escape the fate of his fellow scouts.
 
 “Report our current location.”
 
@@ -28,7 +28,7 @@ He was fast on his feet and skilled with a bow. Thanks to the good luck of drawi
 
 “……Yes. It is, but…”
 
-The scout trailed off with an uneasy expression.
+The scout trailed off uneasily.
 
 The other Guild members sensed something was wrong and exchanged glances. Then a single sentence turned their unease into reality.
 
@@ -36,7 +36,7 @@ The other Guild members sensed something was wrong and exchanged glances. Then a
 
 “What?”
 
-“You mean a cordon? In this situation?”
+“A cordon? In this situation?”
 
 “Guild Master, that’s—”
 
@@ -46,7 +46,7 @@ Normally, the Guild members would have obeyed without complaint, but this time t
 
 “Even so, this isn’t right! We’re dealing with a Named Monster—urk!”
 
-Won Myunghoon seized the throat of the Guild member who had raised his voice the loudest and growled.
+Won Myunghoon seized the loudest protester by the throat and growled.
 
 “You’re disobeying the Guild Master’s orders inside a Gate? Are you that desperate to die, you son of a bitch…?”
 
@@ -62,7 +62,7 @@ They had watched him for years. They knew he was more than capable of carrying o
 
 Thud.
 
-Won Myunghoon turned away from the Guild member, who collapsed to the ground with a white face, and swept his sharp gaze across the area.
+The Guild member collapsed to the ground, his face white. Won Myunghoon turned away and swept a sharp gaze over the others.
 
 “Fucking idiots.”
 
@@ -118,7 +118,7 @@ Investigators would get involved. The press and broadcast media would treat it a
 
 Even if the survivor couldn’t provide definitive testimony or physical evidence, the contempt and condemnation directed at them would never disappear.
 
-They might even have to leave the country. They would be reduced to people who needed a visa just to visit their parents’ graves.
+They might even have to flee the country, reduced to applying for visas just to visit their parents’ graves.
 
 The thought alone was horrifying.
 
@@ -134,7 +134,7 @@ It was an unspoken taboo, yet Won Myunghoon himself had brought it up.
 
 Wasn’t he the one who had planned everything and recruited them in the first place?
 
-At the Guild members’ hardened gazes, Won Myunghoon let out a quiet laugh.
+As their gazes hardened, Won Myunghoon let out a quiet laugh.
 
 “Eyes down, you fucking bastards. Before I rip them all out.”
 
@@ -152,7 +152,7 @@ The ferryman had already hidden the boat. Without his permission, they could nev
 
 Not while they still drew breath.
 
-“I won’t waste any more time talking. Hide and form a cordon. When I give the signal, be ready to kill anyone.”
+“I’m done talking. Hide and set up the cordon. When I give the signal, be ready to kill whoever comes.”
 
 Won Myunghoon’s voice, thick with killing intent, might as well have been a verdict handed down by the Supreme Court.
 
@@ -172,15 +172,15 @@ As Won Myunghoon spat the words through clenched teeth, one of the Guild members
 
 “We moved him over there for now.”
 
-Won Myunghoon turned his head in the direction the Guild member pointed and let out a hollow laugh.
+Won Myunghoon looked where the Guild member was pointing and let out a hollow laugh.
 
-Only a few meters away, Kim Jonghun was pale and clacking his teeth together. He looked like a man possessed.
+Only a few meters away, Kim Jonghun sat deathly pale, his teeth chattering. He looked like a man possessed.
 
 “Pathetic bastard. I was the idiot for keeping something like that around and calling him an A-Rank Hunter.”
 
-Won Myunghoon clicked his tongue softly and waved a hand.
+Won Myunghoon clicked his tongue and waved a hand.
 
-“Handle it quietly.”
+“Take care of him quietly.”
 
 “What? I—I can’t!”
 
@@ -190,7 +190,7 @@ Won Myunghoon clicked his tongue softly and waved a hand.
 
 “What? What the hell is going through that lunatic head of yours—wait.”
 
-Won Myunghoon had been about to smack the Guild member when he suddenly stopped.
+Won Myunghoon had been about to smack the Guild member when he stopped.
 
 He had only meant for them to keep Jonghun quiet with Silence magic or whatever else was necessary.
 
@@ -202,7 +202,7 @@ He had used Jonghun as his right-hand man for a full ten years. The man had a ce
 
 Even when that incident had occurred eight years ago, Won Myunghoon had believed that Team Leader 1, if no one else, would never betray him.
 
-*If he opened his mouth, he wouldn’t have gotten off unscathed either.*
+*Because if he opened his mouth, he wouldn’t get off unscathed either.*
 
 It wasn’t a matter of trust, but mutual interests.
 
@@ -232,15 +232,15 @@ Won Myunghoon deliberated only briefly, then reached his decision even faster.
 
 “What?”
 
-“When that Named Monster comes, don’t you think we’ll need at least one piece of prey to throw to it?”
+“When that Named Monster comes, don’t you think we’ll need at least one piece of bait to throw it?”
 
 “……!”
 
-“It works out well in more ways than one. Since Jin Taekyung is dead, we need to throw in an A-Rank Hunter from our side to make the story convincing.”
+“It works out well in more ways than one. Since Jin Taekyung is dead, we ought to lose an A-Rank Hunter on our side too. It’ll make the story more convincing.”
 
 Won Myunghoon patted the frozen Guild member on the shoulder as he passed, then concealed himself in the nearby undergrowth.
 
-*Come on. Anyone. Come.*
+*Come on. Anyone.*
 
 He didn’t have to wait long.
 
@@ -248,7 +248,7 @@ When he saw two people emerge through the undergrowth several dozen meters away,
 
 *The old Guild Master and Jin Taekyung. Are the others all dead?*
 
-Jin Taekyung was covered in blood from head to toe, with an old mage carried on his back.
+Jin Taekyung was drenched in blood from head to toe, with an old mage on his back.
 
 No matter how Won Myunghoon looked at them, they resembled nothing so much as wounded survivors of a lost battle.
 
@@ -260,9 +260,9 @@ He had just finished preparing to signal the Guild members when—
 
 “Come out, you fucking bastards.”
 
-Jin Taekyung crooked a finger directly toward the undergrowth where Won Myunghoon was hiding.
+Jin Taekyung crooked a finger directly at the undergrowth where Won Myunghoon was hiding.
 
-The smile at Won Myunghoon’s lips vanished without a trace.
+The smile vanished from Won Myunghoon’s lips.
 
 * * *
 
@@ -280,7 +280,7 @@ Apparently, my reaction made him even angrier. He licked his dry lips and exhale
 
 “I understand perfectly.”
 
-“And someone who understands the situation is grinning?”
+“And you’re still standing there grinning?”
 
 “Choose your words carefully. Hearing you say that makes me want to split your head open.”
 
@@ -314,7 +314,7 @@ Won Myunghoon’s face flushed bright red as he glared at Butler Kim and me.
 
 “You fucking bastards!”
 
-“What a rude bastard. There’s nothing he won’t say to an elder, is there? Right?”
+“What an insolent bastard. There’s nothing he won’t say to an elder. Right?”
 
 Butler Kim answered calmly.
 
@@ -330,11 +330,11 @@ Butler Kim answered calmly.
 
 “Sorry. I didn’t mean anything by it.”
 
-“I’ll get down first. One, two, three.”
+“I’ll get down now. One, two, three.”
 
 Crack.
 
-As Butler Kim hopped down from my back, the sound of a bone slipping out of place came from his knee.
+Butler Kim hopped off my back, and his knee gave an alarming crack.
 
 “Oh dear, are you all right?”
 
@@ -348,9 +348,9 @@ When the glow faded, he tapped his knee a few times and smiled.
 
 Magic really was incredibly convenient.
 
-After letting out that exclamation, I turned my head toward the knife-like gazes stabbing in from every direction.
+After letting out a quiet exclamation, I turned toward the knife-sharp gazes stabbing at me from every direction.
 
-A dozen or so Star Guild members, including Won Myunghoon, were glaring at us as if they wanted to tear us apart and kill us.
+A dozen or so Star Guild members, Won Myunghoon included, glared at us as though they wanted to tear us apart.
 
 “What the fuck are you trying to do?”
 
@@ -378,7 +378,7 @@ At the same time, the last of my hesitation faded, and my mind became clear.
 
 “You bastard!”
 
-“Maybe not. Then let’s go?”
+“Or not. Here I come.”
 
 “……What?”
 
@@ -394,7 +394,7 @@ Whatever expression he had worn until now, the one he was about to make had alre
 
 Crack!
 
-As he hurriedly turned and swung his arm, I caught it and twisted it.
+He spun around in alarm, swinging his arm, but I caught it and twisted.
 
 The bone snapped in an instant. His grip went limp, and the spear slipped from his hand.
 
