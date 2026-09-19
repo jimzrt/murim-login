@@ -1640,3 +1640,23 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 흑풍단 | **Black Wind Corps** | Elite thousand-man Demonic Cult strike force annihilated by Jeok Cheongang at Mount Jiuhua. |
 | 현천진인 | **Perfected Being Hyeoncheon** | Current Sect Leader of Wudang and Hyeongong's Senior Brother. |
 | 서협 | **Xixia** | Place in southwestern Henan where the Yangtze tributary ends. |
+| 새외무림 | **Outer Murim** | Murim beyond the Central Plains. |
+| 새외 | **Outer Lands** | Lands outside the Central Plains and its Murim. |
+| 북해빙궁 | **North Sea Ice Palace** | Isolationist Outer Murim faction. |
+| 소뢰음사 | **Small Thunderclap Temple** | Temple encountered in India by a Fire Gate Sect Leader. |
+| 광풍사 | **Mad Wind Society** | Faction in the great desert. |
+| 포달랍궁 | **Potala Palace** | Palace in Tibet. |
+| 오독문 | **Five Poisons Sect** | Formerly dominant Nanman faction destroyed by the Fire Gate Clan. |
+| 독곡 | **Poison Valley** | Nanman faction later absorbed by the Nanman Beast Palace. |
+| 야수묘왕 | **Beast Miao King** | Leader of the Miao people and master of the Nanman Beast Palace. |
+| 천축 | **India** | Historical regional name in the Fire Gate records. |
+| 갠지스강 | **Ganges River** | River repeatedly mentioned in the Fire Gate records. |
+| 파사국 | **Persia** | Country visited by the Ninth Sect Leader. |
+| 회교도 | **Muslims** | People encountered in Persia. |
+| 영웅건 | **hero headband** | Headwear contrasted with turbans. |
+| 대막 | **great desert** | Desert beyond the scorching sands. |
+| 장성 | **Great Wall** | Wall used in the discussion of the Outer Lands. |
+| 천봉 | **Cheonbong** | Third Sect Leader of the Fire Gate Clan. |
+| 송학 | **Songhak** | Fifth Sect Leader of the Fire Gate Clan. |
+| 구진천 | **Gu Jincheon** | Ninth Sect Leader of the Fire Gate Clan. |
+| 귀염권 | **Ghost Flame Fist** | Sobriquet of Songhak. |

@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "But who am I? Songhak of the Blazing Flame Clan, Fifth Sect Leader of the great Fire Gate Clan, the Ghost Flame Fist.",
+      "defect": "The draft invents a separate “Blazing Flame Clan,” making Songhak appear to belong to two clans and altering his identity.",
+      "id": "F01",
+      "rationale": "The source identifies Songhak only as the Fifth Sect Leader of the Fire Gate Clan and gives Ghost Flame Fist as his epithet.",
+      "replacement": "But who am I? Songhak, the Ghost Flame Fist and Fifth Sect Leader of the great Fire Gate Clan.",
+      "severity": "critical",
+      "source": "허나 본 좌가 누구인가. 대 열화문의 오 대 문주, 귀염권(鬼炎拳) 송학."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Seafaring King, you fresh-faced brat. Have you already gone senile? That idiot couldn’t get the Beast Miao King to show him any respect, and now he’s blaming the Beast Miao King for it. Tsk, tsk.”",
+      "defect": "The draft directly addresses Mu Song as the Seafaring King, but Jeok Cheongang is referring in the third person to Mu Song’s Master. This changes the identity of the addressee.",
+      "id": "F02",
+      "rationale": "Mu Song has just reported what his Master, the Seafaring King, said. Jeok Cheongang disparages that absent Master rather than assigning his title to Mu Song.",
+      "replacement": "“The Seafaring King? Has that young whelp already gone senile? The Beast Miao King only refused to show him respect because he was such a damned fool. Tsk, tsk.”",
+      "severity": "critical",
+      "source": "“해상왕, 이 새파랗게 어린놈이 벌써부터 노망이 났나. 제깟 놈이 병신 같으니 야수묘왕이 예의를 안 차린 걸 가지고. 쯧쯧.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "To the Demonic Cult, the demonic, heterodox arts of the Central Plains were branches grown from the same root, so they naturally tried to bring them into the fold.",
+      "defect": "The draft turns people or factions into martial arts and changes a completed recruitment into an attempt.",
+      "id": "F03",
+      "rationale": "Here 사마외도 denotes the Central Plains’ wicked and heterodox groups, while 합류시켰고 states that the Demonic Cult successfully incorporated them.",
+      "replacement": "To the Demonic Cult, the wicked and unorthodox factions of the Central Plains were branches grown from the same root, so they naturally brought them into the fold.",
+      "severity": "major",
+      "source": "마교 놈들에게 중원의 사마외도는 한 뿌리에서 나온 곁가지라 할 수 있으니 당연히 합류시켰고,"
+    },
+    {
+      "confidence": 0.98,
+      "current": "What the fuck am I supposed to do when you pull this kind of goddamn bullshit?",
+      "defect": "The draft makes Han Xin ask what he should do, instead of angrily accusing his ancestors of playing this filthy trick on him. It also doubles the profanity.",
+      "id": "F04",
+      "rationale": "어떡하나이까 is a deferential but outraged reproach directed at the ancestors whose recommendations sent him into the polluted river, not a request for instructions.",
+      "replacement": "For fuck’s sake, how could you pull this kind of bullshit on me?",
+      "severity": "major",
+      "source": "아니 시팔 이런 개수작을 부리시면 어떡하나이까."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“But I heard the Beast Miao King even came to visit you and introduce himself personally.”",
+      "defect": "The draft changes the Beast Miao King’s socially deferential visit to pay respects into an introductory visit.",
+      "id": "F05",
+      "rationale": "인사하러 찾아오다 here means coming personally to greet or pay respects to Jeok Cheongang, which establishes the hierarchy underlying the exchange.",
+      "replacement": "“But I heard the Beast Miao King even came to pay his respects to you in person.”",
+      "severity": "major",
+      "source": "“그런데 야수묘왕이 직접 인사하러 찾아온 적도 있다면서요?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "There were not many more records about the Outer Murim after the Twelfth Sect Leader’s furious bath in the Ganges River.",
+      "defect": "The draft removes the explicit filth and misattributes the emotion to the bath itself, weakening both the event and the crude comic register.",
+      "id": "F06",
+      "rationale": "똥물 목욕 explicitly means bathing in feces-contaminated water, and 개빡친 describes the Twelfth Sect Leader becoming extremely angry afterward.",
+      "replacement": "There were not many more records about the Outer Murim after his shit-water bath in the Ganges left the Twelfth Sect Leader royally pissed off.",
+      "severity": "major",
+      "source": "갠지스강에서 똥물 목욕 후 개빡친 십이대 문주 이후로는 딱히 새외무림에 관한 기록이 많지 않지만,"
+    },
+    {
+      "confidence": 0.97,
+      "current": "And telling their successors to bathe in the Ganges was no different from the spite of a senior soldier who demanded tougher field training on a military survey.",
+      "defect": "The draft reduces 말년 병장 to a generic senior soldier, losing the joke that someone about to leave the army maliciously demands harsher training for those remaining.",
+      "id": "F07",
+      "rationale": "말년 병장 specifically denotes a sergeant nearing the end of military service; that imminent departure is the mechanism of the joke.",
+      "replacement": "And telling their successors to bathe in the Ganges was no different from a sergeant about to be discharged writing “more field training” on a barracks survey out of pure spite.",
+      "severity": "major",
+      "source": "그 와중에 갠지스강에서 목욕하라는 건 병영 설문 조사에서 유격 훈련 강화하라는 말년 병장의 심술이나 다를 바가 없다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“The Sect Leader. The Sect Leader.”\n\n“The Sect Leader? Ah, you mean the Beast Miao King?”",
+      "defect": "The title 궁주 is specific to the head of a palace and should not be flattened to Sect Leader.",
+      "id": "F08",
+      "rationale": "The Beast Miao King is the lord of the Nanman Beast Palace; preserving Palace Lord maintains the organization’s title and hierarchy.",
+      "replacement": "“The Palace Lord. The Palace Lord.”\n\n“The Palace Lord? Ah, you mean the Beast Miao King?”",
+      "severity": "minor",
+      "source": "“궁주요. 궁주.”\n\n“궁주? 아, 야수묘왕(野獸苗王) 말이냐?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "After a long journey, I arrived at a river whose name was something like the Ganges.",
+      "defect": "The draft reveals the river’s complete name before the diarist has learned it, weakening the running joke and the later discovery.",
+      "id": "F09",
+      "rationale": "갠, 뭐라고 preserves only the beginning of the unfamiliar name; a later Sect Leader explicitly discovers that it is the Ganges.",
+      "replacement": "After a long journey, I arrived at a river called the Gan… something.",
+      "severity": "minor",
+      "source": "긴 여정 끝에 갠, 뭐라고 부르는 강에 도착했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Ah, and if you go to that Ganges-whatever river in India, jump in and wash yourself immediately.",
+      "defect": "Using the complete name again undermines the deliberate progression from an uncertain “Gan-something” to the eventual identification of the Ganges.",
+      "id": "F10",
+      "rationale": "At this point in the records, the name is still remembered only as 갠 무슨 강.",
+      "replacement": "Ah, and if you go to that Gan-whatever river in India, jump in and wash yourself immediately.",
+      "severity": "minor",
+      "source": "아, 그리고 천축의 갠 무슨 강에 간다면 바로 뛰어들어 몸부터 씻어라."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Ah, and I found out the name of that Ganges-whatever river. The Ganges River.",
+      "defect": "The supposed unknown name already contains “Ganges,” making the punchline redundant rather than a discovery.",
+      "id": "F11",
+      "rationale": "The source delivers the full name only here, as the payoff to the earlier Sect Leaders’ inability to remember it.",
+      "replacement": "Ah, and I finally learned the name of that Gan-whatever river. The Ganges River.",
+      "severity": "minor",
+      "source": "아, 그리고 갠 무슨 강의 이름을 알아냈다. 갠지스강."
+    }
+  ],
+  "summary": "Two identity errors and several meaningful action, hierarchy, register, and joke-logic defects require correction.",
+  "version": 1
+}
