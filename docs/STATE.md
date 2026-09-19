@@ -1,30 +1,32 @@
 # Translation State
 
-- Last completed: 421
-- Next chapter: 422
-- Current block: 420–424 (2/5)
-- Latest translation: `translations/0421.md`
-- Latest summary: `summaries/beats/0421.md`
-- Safe profiles through: chapter 421
+- Last completed: 422
+- Next chapter: 423
+- Current block: 420–424 (3/5)
+- Latest translation: `translations/0422.md`
+- Latest summary: `summaries/beats/0422.md`
+- Safe profiles through: chapter 422
 
 ## Current Block
 
-- Jin's assault on the Arch Lich fails when Gravity knocks him from the air, after which the Arch Lich reveals that it serves the great king Asmodeus and attempts to overwhelm Jin with poison, curses, Dark Hands, Dark Vines, and countless Bone Spears. The Curse temporarily reduces Jin's physical attributes, but his sixth sense awakens during the Bone Spear barrage, allowing him to perceive the attacks' essence beneath their magical illusions. Jin uses Heavenly Strike to burn away the true Bone Spears, then hears a pleasant ringing sound amid the drifting ash.
+- Jin Taekyung opens his Middle Dantian during the battle, gaining a major increase in every attribute, improved qi circulation and control, and increased Muscles and Bones and Sinews and Meridians. The resulting level-up removes his Curse, fatigue, and other status ailments while restoring his temporarily reduced attributes.
+- Jin uses his new insight to perceive the center and mana flow of the Arch Lich's magic, cutting apart its Sonic Buster and Gravity spells. His White Flame and Flame-Extinguishing Divine Fist break through the Arch Lich's defenses and destroy its Great Bone Wall, ending the chapter with Jin's punch striking the Arch Lich's jaw.
 
 ## Open Questions
 
-- Can Jin and the allied Hunters stop the city's transformation into a Gate?
-- What is the full extent of the Arch Lich's power and ability to observe or identify Jin?
+- Is Jin truly the Adversary, and what are the god's machinations connecting him to the king?
+- What is the full extent of the Arch Lich's power and its ability to observe or identify Jin?
 - What is Asmodeus's current status and location?
 - Why does the Skeleton Warlord react to the Arch Lich with such extreme fear?
+- Can Jin and the allied Hunters stop the city's transformation into a Gate?
 
 ## Exceptional Decision
 
-- Render 아크 리치 as Arch Lich.
-- Render 마계 as Demon Realm.
-- Render 데스나이트 로드 as Death Knight Lord.
-- Render 마왕 아스모데우스 as Demon King Asmodeus and 전하 as His Highness.
-- Preserve Jin's profanity and the Arch Lich's archaic, taunting register; render its spells as Gravity, Dark Hand, Curse, Dark Vine, and Bone Spear.
+- Render 중단전 as Middle Dantian and 단중혈 as Tanzhong acupoint.
+- Render 소닉 바스터 as Sonic Buster and 그레이트 본 월 as Great Bone Wall.
+- Render 멸염신권 as Flame-Extinguishing Divine Fist and 겁화 as hellfire.
+- Render 대적자 as the Adversary and 왕의 대적자 as the king's Adversary.
+- Preserve the Arch Lich's archaic, taunting register and Jin's profanity while retaining three jiazi, Scorching Yang Qi, Force, White Flame, and Gravity.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

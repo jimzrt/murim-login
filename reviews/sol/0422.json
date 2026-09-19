@@ -1,0 +1,106 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "- As an effect of leveling up, all status effects and fatigue, as well as some injuries, have been recovered!",
+      "defect": "The translation says all status effects are recovered, which can include beneficial effects, while 상태 이상 specifically means abnormal or adverse status conditions. It also unnaturally treats fatigue and status ailments as things being recovered.",
+      "id": "F01",
+      "rationale": "The System notice states that adverse conditions and fatigue are removed and some injuries are healed.",
+      "replacement": "- As an effect of leveling up, all status ailments and fatigue have been cleared, and some injuries have healed!",
+      "severity": "major",
+      "source": "- 레벨 업의 효과로 모든 상태 이상과 피로, 일부 부상이 회복됩니다!"
+    },
+    {
+      "confidence": 0.98,
+      "current": "The System existed, and I had merely done my best with the power and effort I had been given to overcome the crisis.",
+      "defect": "The source says Jin has the System; saying merely that the System existed weakens the explicit contrast between his personal advantage and the Arch Lich's lack of one.",
+      "id": "F02",
+      "rationale": "내게는 시스템이 있고 explicitly expresses Jin's possession of or access to the System.",
+      "replacement": "I had the System, and I had merely done my best with the power and effort I had been given to overcome the crisis.",
+      "severity": "minor",
+      "source": "내게는 시스템이 있고, 나는 내게 주어진 힘과 노력으로 최선을 다하여 위기를 타파했을 뿐이다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "This time, instead of increasing the power of its gravity magic, it expanded its range.",
+      "defect": "The draft only says the Arch Lich did not increase the spell's power. The source says it actively reduced the power in exchange for expanding the range, which is a meaningful mechanical tradeoff.",
+      "id": "F03",
+      "rationale": "힘을 줄이는 대신 directly means reducing the power in exchange for the increased range.",
+      "replacement": "This time, it reduced the power of its gravity magic in exchange for expanding its range.",
+      "severity": "major",
+      "source": "이번에는 중력 마법의 힘을 줄이는 대신 범위를 늘렸다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "As it raced through the air and rapidly approached, Jin Taekyung’s figure made the Arch Lich’s eye-lights sink deeply.",
+      "defect": "The dangling pronoun makes the Arch Lich the apparent subject racing through the air, while the source unambiguously describes Jin Taekyung approaching it.",
+      "id": "F04",
+      "rationale": "진태경 is the one moving rapidly through the air and approaching; the Arch Lich is observing him.",
+      "replacement": "At the sight of Jin Taekyung racing through the air toward it, the Arch Lich’s eye-lights sank.",
+      "severity": "major",
+      "source": "쾌속하게 허공을 누비며 다가오는 진태경의 모습에, 아크 리치의 안광이 깊게 가라앉았다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“How?”\n\nI shrugged at the single word that contained every question it was currently feeling.\n\n“How?”\n\n“Yep. How.”\n\n“Do you think that explains anything?”",
+      "defect": "The repeated translation of 잘 as “How” destroys the deadpan wordplay in Jin's answer, and Jin's entire reply that it obviously explains nothing but he owes the Arch Lich no explanation is omitted.",
+      "id": "F05",
+      "rationale": "잘 answers “how” with “well,” producing the deliberate comic repetition, and the final line is a complete characterization beat that must be retained.",
+      "replacement": "“How in the world?”\n\nI shrugged at the single word that encompassed every question it had.\n\n“Well.”\n\n“‘Well’?”\n\n“Yeah. Well.”\n\n“Do you think that explains anything?”\n\n“Of course not. But why should I have to explain it to you?”",
+      "severity": "major",
+      "source": "- 도대체 어떻게?\n\n놈이 현재 느끼는 모든 의문이 함축된 한마디에, 나는 어깨를 으쓱해 보였다.\n\n“잘.”\n\n- 잘?\n\n“그래, 잘.”\n\n- 그것으로 설명이 된다고 생각하나?\n\n“당연히 아니지. 그런데 내가 그것까지 설명해 줘야 하나?”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“They can’t. There, that’s enough.”",
+      "defect": "됐습니다 is misread as ending the discussion. Jin's joke is that dispelling the magic should be impossible, but it has nevertheless been done.",
+      "id": "F06",
+      "rationale": "The line bluntly juxtaposes impossibility with the accomplished result rather than telling the Arch Lich that enough has been said.",
+      "replacement": "“They can’t. But it’s done.”",
+      "severity": "minor",
+      "source": "“없는데요, 됐습니다.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "# Chapter 422\n\n> **System**",
+      "defect": "The three opening notification chimes are omitted, losing the repeated cue that introduces the uninterrupted System messages.",
+      "id": "F07",
+      "rationale": "The source opens with three distinct notification sounds before the first System panel.",
+      "replacement": "# Chapter 422\n\n*Ding. Ding. Ding.*\n\n> **System**",
+      "severity": "minor",
+      "source": "띠링. 띠링. 띠링."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Even the clear bell that rang at the very end.\n\n> **System**",
+      "defect": "The final distinct notification chime is omitted even though the preceding fragment explicitly anticipates it.",
+      "id": "F08",
+      "rationale": "The standalone 띠링 is an audible beat between the narration and the second System panel.",
+      "replacement": "Even the clear bell that rang at the very end.\n\n*Ding.*\n\n> **System**",
+      "severity": "minor",
+      "source": "마지막에 울려 퍼진 맑은 종소리까지도.\n\n띠링."
+    },
+    {
+      "confidence": 1.0,
+      "current": "It struck the curtain of black bones.\n\n*Crack-crack-crack!*",
+      "defect": "The named technique is omitted entirely.",
+      "id": "F09",
+      "rationale": "멸염신권 is an explicit standalone technique name and has the binding established rendering “Flame-Extinguishing Divine Fist.”",
+      "replacement": "It struck the curtain of black bones.\n\nFlame-Extinguishing Divine Fist.\n\n*Crack-crack-crack!*",
+      "severity": "major",
+      "source": "검은 뼈로 이루어진 장막에 닿았다.\n\n멸염신권(滅炎神拳).\n\n콰드드드득!"
+    },
+    {
+      "confidence": 0.96,
+      "current": "The flames of Force, burning with three jiazi of Scorching Yang Qi as kindling, smashed through dozens of layered defensive spells and advanced toward the Arch Lich’s body.",
+      "defect": "The culturally specific quantity jiazi is left unexplained, so an English reader cannot tell that each unit represents a traditional sixty-year cycle.",
+      "id": "F10",
+      "rationale": "A concise footnote preserves the established term while conveying the magnitude expressed by 삼 갑자.",
+      "replacement": "The flames of Force, fueled by three jiazi[^1] of Scorching Yang Qi, smashed through dozens of layered defensive spells and advanced toward the Arch Lich’s body.\n\n[^1]: A jiazi is a traditional sixty-year cycle.",
+      "severity": "minor",
+      "source": "삼 갑자의 열양지기를 장작 삼아 타오른 강기(罡氣)의 화염이, 수십 개로 중첩된 방어 마법을 깨트리고 아크 리치의 몸뚱어리를 향해 나아가던 그 순간이었다."
+    }
+  ],
+  "summary": "Several actionable fidelity issues remain, including altered System mechanics, a reversed spell tradeoff, omitted dialogue and sound cues, and a missing named technique.",
+  "version": 1
+}
