@@ -1517,3 +1517,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 조양 | **Zaoyang** | Ferry landing in Hubei where the party leaves the Yangtze. |
 | 청협방 | **Qingxia Hall** | Unofficial Hubei social club formed by influential families' children. |
 | 청협방탄무인단 | **Qingxia Bulletproof Martial Artist Corps** | Taekyung's joking imagined name for Qingxia Hall's performers. |
+| 주원공 | **Ju Wongong** | Qingxia Hall leader who claims distant kinship with the Emperor. |
+| 대죽산표국 | **Daejuksan Escort Bureau** | Escort Bureau whose Young Bureau Head is among Ju Wongong's entourage. |
+| 형문검가 | **Hyungmun Sword Family** | Family invoked by one of the Qingxia Hall women. |
+| 응성상회 | **Eungseong Merchant Association** | Merchant association represented in the Qingxia Hall entourage. |
+| 천룡인 | **Celestial Dragon** | Taekyung's mocking label for a privileged imperial noble. |
