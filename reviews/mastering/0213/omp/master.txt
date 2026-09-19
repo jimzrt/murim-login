@@ -67,7 +67,7 @@ Hotheads who claimed to have anger-management issues always followed the same pa
 
 They acted like Lü Bu around anyone weaker than them, but the moment they found themselves in front of some muscular tough guys, they became the politest people in the world.
 
-*And once they lose the momentum, it’s over.*
+*And once they’re cowed, it’s over.*
 
 Slash!
 
@@ -180,7 +180,7 @@ I began talking as I skinned a lycanthrope with my dagger.
 
 But that wasn’t the end of it.
 
-Once mud had been splashed onto his clean image, all kinds of speculative articles and rumor sheets about Won Myunghoon began circulating online.
+Once his spotless image had been stained, all kinds of speculative articles and rumor sheets about Won Myunghoon began circulating online.
 
 In the end, Won Myunghoon—already past his prime and going through a difficult time—decided to step away from the public eye.
 
@@ -208,7 +208,7 @@ Especially not with two A-rank Hunters participating.
 
 The domestic media boiled over like a cauldron on hot coals, then quickly went cold.
 
-“It took several years for him to stand trial over that incident and be cleared of the charges.”
+“It took several years of court battles before he was finally found not guilty.”
 
 After the long legal fight, all that remained was a reputation covered in filth and the public’s indifference.
 
@@ -248,7 +248,7 @@ Team Leader Choi asked,
 
 “Are you transferring?”
 
-No, what the hell was he talking about?
+What the hell was he talking about?
 
 * * *
 
@@ -264,7 +264,7 @@ Won Myunghoon had read the article in the middle of work and rushed over immedia
 
 “I was surprised too. Someone must have seen us meeting and put out a speculative article… I’ve already filed a complaint with the media outlet and arranged for an immediate statement to be released.”
 
-Team Leader Choi, who had been staring at Won Myunghoon, spoke.
+Team Leader Choi, who had been studying Won Myunghoon in silence, spoke.
 
 “I saw the article saying the story was baseless a few minutes ago. You work quickly.”
 
@@ -278,21 +278,19 @@ Team Leader Choi’s long fingers tapped the phone screen.
 
 “That…”
 
-“Team Leader Choi, let me explain it again.”
+“Team Leader Choi, let me explain.”
 
 I stepped in for the hesitant Won Myunghoon.
 
-Considering the situation, I had no choice but to reveal the conversation we’d had at the café, and I was already feeling a little guilty about it.
+Given the situation, I’d had no choice but to tell Team Leader Choi about our conversation in the café, and that had been weighing on my conscience.
 
 “What happened was—”
 
-But before I could continue, Won Myunghoon’s firm voice cut me off.
+But Won Myunghoon’s firm voice cut me off.
 
 “It’s true. I offered to recruit him, and Taekyung turned me down. This all happened because of my own selfishness, so I sincerely apologize.”
 
 “Hmm.”
-
-Who was Won Myunghoon, anyway?
 
 Won Myunghoon wasn’t just an accomplished Hunter. He was a celebrity who had once stood at the very height of popularity.
 
@@ -304,13 +302,13 @@ Hunters were professionals, plain and simple. As long as the regulations allowed
 
 The dozens of recruitment offers I had received before Won Myunghoon’s were no different.
 
-The only difference was that I had arranged a separate meeting with him because I was a fan.
+The only difference was that I had arranged a private meeting with him because I was a fan.
 
 *And the subsequent articles about my transfer had already been proven baseless.*
 
 Thanks to the swift action from both sides, the situation was already dying down.
 
-Team Leader Choi, who had been deep in thought, finally spoke.
+After thinking for a moment, Team Leader Choi finally spoke.
 
 “All right. Let’s put this matter to rest.”
 
@@ -326,7 +324,7 @@ Im Kkeokjeong, who had been watching the situation carefully, cut in with a good
 
 Butler Kim and Song Song nodded in agreement.
 
-The atmosphere inside the Guild House, which had been strangely uncomfortable only ten minutes earlier, had turned warm and friendly.
+The atmosphere inside the Guild House, which had been strangely tense only ten minutes earlier, was now warm and friendly.
 
 *I’m glad this worked out better than expected.*
 
@@ -356,7 +354,7 @@ Team Leader Choi.
 
 On paper, Butler Kim was the Guild Master. But Won Myunghoon had also realized that Team Leader Choi was the real power in the Guild.
 
-“What do you think, Team Leader? This would be a good opportunity to clear up the suspicions raised by the rumor sheets, and it could also be a valuable experience for the Guild members.”
+“What do you think, Team Leader? This would be a good opportunity to put the rumors to rest, and I believe it could be a valuable experience for both Guilds.”
 
 “I’m not sure.”
 
@@ -366,7 +364,7 @@ I could sense something subtly uneasy in his expression.
 
 But his hesitation vanished at Won Myunghoon’s next words.
 
-“It’s an A-rank Gate. Fortunately, our Guild obtained permission to raid it this week. It seems like a shame to let the opportunity go to waste.”
+“It’s an A-rank Gate. Fortunately, our Guild obtained the right to raid it this week, but we could use the help.”
 
 “An A-rank Gate?”
 
