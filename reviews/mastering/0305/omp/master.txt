@@ -8,13 +8,13 @@
 
 “I have no excuse.”
 
-Lee Jungryong shot a glance at Go Jun, who answered with a pale face, and clicked his tongue inwardly.
+Lee Jungryong glanced at Go Jun’s pale face and clicked his tongue inwardly.
 
 *I never expected him to go down so easily.*
 
 Go Jun was the most useful blade Lee Jungryong possessed.
 
-Although his abilities were not known outside their circle, Lee believed that fewer than five people in all of Korea could stand against him.
+Though his true abilities were unknown to the public, Lee believed that fewer than five people in all of Korea could stand against him.
 
 Of course, two of those people were Cheon Taemin and Lee himself.
 
@@ -22,7 +22,7 @@ Of course, two of those people were Cheon Taemin and Lee himself.
 
 Lee could no longer deny it. He had underestimated Jin Taekyung and the Peace Guild.
 
-The gap in strength was laughable, yet he was the one who kept getting humiliated.
+The difference in strength was almost laughable, yet somehow Lee was the one who kept getting burned.
 
 His gaze settled on Go Jun’s bowed head.
 
@@ -64,7 +64,7 @@ Oblivious to that fact, Go Jun raised his flushed face. By then, the faint sound
 
 Go Jun frowned at Lee Jungryong’s mutter.
 
-“He missed the agreed-upon time.”
+“He’s late.”
 
 “Let it go. He’s only in the first year of his term. He wants to enjoy it while he can, before he becomes a lame duck.”
 
@@ -114,17 +114,17 @@ There were two reasons Baek Hanseong could meet with such a man now, even unoffi
 
 First, he was still early in his term and enjoyed the full support of the people. Second, they had a matter in which they could help each other.
 
-“They say people become more relaxed as they grow older. I suppose that doesn’t apply to me.”
+“They say people become more patient as they grow older. Apparently, that doesn’t apply to me.”
 
 “You really are refreshingly direct.”
 
-Baek Hanseong understood the meaning behind Lee Jungryong’s subtle remark and held out a pristine white document envelope.
+Understanding the meaning behind Lee Jungryong’s subtle remark, Baek Hanseong held out a pristine white envelope.
 
 “An unofficial diplomatic letter from Chairman Xiao Yang.”
 
 “Unofficial, as expected.”
 
-“Yes. As you know, that’s how it is.”
+“Yes. As you know, that’s how it has to be.”
 
 The People’s Republic of China. As its formal name suggested, China remained a deeply rooted communist state.
 
@@ -138,17 +138,17 @@ Among the tiny number of people who already knew the truth, however, the inciden
 
 The Chinese Communist Party leadership had announced that a major earthquake had struck and deployed the People’s Liberation Army to seal off the surrounding area.
 
-“A Lich, was it? That Named Monster ended up helping China’s Central Committee, albeit unintentionally. I hear even satellites from the United States can’t see what’s happening inside.”
+“A Lich, was it? That Named Monster ended up helping China’s Central Committee, albeit unintentionally. I hear even American satellites can’t see what’s happening inside.”
 
 “It’s spatial distortion magic. Extremely powerful spatial distortion magic.”
 
 “I see. I’m still completely ignorant when it comes to magic.”
 
-“It may have helped the Central Committee, but it will have a negative effect on the war situation. We have no idea what is actually happening in there.”
+“It may have helped the Central Committee, but it will hamper the war effort. We have no idea what is actually happening in there.”
 
 Unlike his unhurried voice, Lee Jungryong’s eyes raced across the words on the documents.
 
-A short while later, after confirming everything, a quiet mutter escaped between his lips.
+A short while later, once he had finished reading, a quiet mutter slipped from his lips.
 
 “Thirty A-rank Hunters and two hundred B-rank Hunters…”
 
@@ -184,7 +184,7 @@ Three days earlier, Lee Jungryong had held a secret meeting with the Chinese amb
 
 *That was tremendous magic.*
 
-The ability to command more than several thousand monsters. Magic with overwhelming destructive power.
+The power to command thousands of monsters. Magic with overwhelming destructive force.
 
 It was on an entirely different level from the Liches he had encountered during the Great Cataclysm. He had seen only a single spell, but that had been more than enough to grasp the danger this incident posed.
 
@@ -208,15 +208,15 @@ A smile appeared on President Baek Hanseong’s lips.
 
 If the Ares Guild made a major contribution to resolving the crisis, it would yield considerable diplomatic benefits as well. As someone who wanted to achieve something significant during his term, Baek could not have been more pleased.
 
-“I’m the one who should be grateful that I can help my country and Your Excellency. However…”
+“I should be the one thanking you for this chance to serve my country and Your Excellency. However…”
 
 Baek Hanseong’s smile faded at Lee Jungryong’s next words.
 
-“I heard a rumor that similar proposals were made not only to the Ares Guild, but also to several of the other ten largest Guilds in Korea.”
+“I heard a rumor that similar proposals were made to several of Korea’s other ten largest Guilds.”
 
 “…”
 
-“I know it’s an unfounded rumor. But I thought I’d ask you, just in case.”
+“I know it must be an unfounded rumor, but I thought I would ask you just in case.”
 
 After a brief silence, Baek Hanseong answered.
 
@@ -244,7 +244,7 @@ Lee Jungryong paused while gathering the documents.
 
 A sudden thought flashed through Lee Jungryong’s mind.
 
-At the same time, Baek Hanseong opened his lips.
+At the same moment, Baek Hanseong spoke.
 
 “The Peace Guild, to which Hunter Jin Taekyung belongs.”
 
@@ -316,7 +316,7 @@ Team Leader Choi launched into his answer as if he had been waiting for me to as
 
 I hurriedly cut him off before he could start explaining the history of Focke-Wulf’s founder.
 
-“I don’t know if it’s Focke-Wulf or Pokémon Black Friday, but I’m asking how much a plane like this usually costs.”
+“I don’t care whether it’s Focke-Wulf or Pokémon Black Friday. I’m asking how much a plane like this usually costs.”
 
 “An aircraft like the one we’re on now should cost a little over one hundred billion won.”
 
@@ -328,33 +328,33 @@ But it wasn’t impossible.
 
 I recalled the conversation Team Leader Choi and I had shared only a few hours earlier.
 
-*It’s a shame, but please tell Chairman Jongseok[^1] I can’t go.*
+“It’s a shame, but please tell Chairman Jongseok[^1] I can’t go.”
 
 [^1]: Taekyung twists the Korean title *juseok* (“chairman”) into the similar-sounding name Jongseok.
 
-*It isn’t Chairman Jongseok. It’s Chairman Xiao Yang. In any case, that is unfortunate.*
+“It isn’t Chairman Jongseok. It’s Chairman Xiao Yang. In any case, that is unfortunate.”
 
-*I’m sorry too. Promoting my name and raising the Guild’s standing both sound good, but that place is a bit much.*
+“I’m sorry too. Promoting my name and raising the Guild’s standing both sound great, but that place is a bit much.”
 
-*They offered ten billion won.*
+“They offered ten billion won.”
 
-*How much?*
+“How much?”
 
-*Ten billion won. If you go beyond the promised period of one week, they’ll calculate an additional ten billion won per week.*
+“Ten billion won. If we exceed the agreed period of one week, they’ll pay another ten billion won for each additional week.”
 
-*Weekly pay? T-ten billion won a week?*
+“Weekly pay? T-ten billion won a week?”
 
-*It can’t be helped.*
+“It can’t be helped.”
 
-*B-but I’m still not going. With thousands of monsters and a crazy skeleton mage, even I have to draw the line. It’s not like I’m some money-crazed bastard.*
+“B-but I’m still not going. With thousands of monsters and a crazy skeleton mage, even I have to draw the line. It’s not like I’m some money-crazed bastard.”
 
-*They say they’ll pay fifty trillion won to whoever kills the Lich.*
+“They say they’ll pay fifty trillion won to whoever kills the Lich.”
 
-*Ah, now I suddenly feel like eating something spicy. I hear Sichuan cuisine is incredibly hot and savory…*
+“Ah, now I’m suddenly craving something spicy. I hear Sichuan cuisine is incredibly hot and savory…”
 
-*…*
+“…”
 
-*Fuck it. Let’s go.*
+“Fuck it. Let’s go.”
 
 All the preparations were completed at lightning speed. Only Team Leader Choi and I would be leaving for China.
 
@@ -370,7 +370,7 @@ With my face full of noble resolve, I turned to Team Leader Choi.
 
 “Yes?”
 
-“If I make fifty trillion won… Do I split that with the Guild too?”
+“If I make fifty trillion won… Do I have to split that with the Guild too?”
 
 “…”
 

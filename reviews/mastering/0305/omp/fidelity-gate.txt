@@ -1,0 +1,15 @@
+{
+  "summary": "Chapter 305 English translation is faithful to the Korean source with minor terminology consistency issues.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Entire chapter and glossary boundary",
+      "current": "Multiple instances of terms such as 'Master' (line 16 reference here), 'Peace Guild', 'Sichuan Catastrophe', 'Lich', 'People's Republic of China', 'People's Liberation Army', 'boatman', 'Focke-Wulf', and others.",
+      "defect": "Glossary preferred terms like 'Master for a senior Buddhist monk' for '대사', 'Sichuan Province' for '쓰촨성', and 'People's Republic of China' for '중화인민공화국' are sometimes inconsistently applied or presented with natural variants, resulting in terminology warnings. While these are acceptable stylistic choices or clarifications, they are noted since the binding glossary prescribes exact terms.",
+      "replacement": "Consider consistent use of glossary terms with exact preferred entries where applicable without harming natural readability, e.g., using 'Master for a senior Buddhist monk' explicitly if context allows.",
+      "rationale": "Deterministic QA reports unmatched glossary preferred terms though this does not affect fidelity or clarity significantly; conformity improves uniform terminology usage.",
+      "confidence": 1.0
+    }
+  ]
+}
