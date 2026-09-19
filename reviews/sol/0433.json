@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Wow, you’re really slow on the uptake. There are survivors beneath the ground you’re standing on, so I’m telling you to move.”",
+      "defect": "The draft changes the singular survivor into multiple survivors, altering the rescue fact immediately before one old woman is found.",
+      "id": "F01",
+      "rationale": "생존자 is singular in context, and the subsequent rescue reveals that specific survivor.",
+      "replacement": "“Wow, you’re really slow on the uptake. There’s a survivor under where you’re standing, so I’m telling you to move.”",
+      "severity": "critical",
+      "source": "당신들이 밟고 있는 그 아래에 생존자 있으니까 좀 비키라고."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Chairman Shao Yang has expressed his deepest regret over this and released the transcripts of last month’s meeting.",
+      "defect": "Expressing regret is weaker than 사죄, which means making an apology and accepting blame. The draft also pluralizes a transcript that the source treats collectively as singular.",
+      "id": "F02",
+      "rationale": "깊이 사죄하며 explicitly describes a deep apology, an important political and pragmatic distinction in the report.",
+      "replacement": "Chairman Shao Yang has offered a profound apology for this and released the transcript of last month’s meeting.",
+      "severity": "major",
+      "source": "샤오 양 주석은 이에 대해 깊이 사죄하며, 지난달 있었던 회의 녹취록을 공개했습니다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Considering everything from the steeply collapsing stock market to the damage this incident had inflicted on various industries, China would suffer a severe national crisis in the years to come.",
+      "defect": "The draft adds a years-long duration and recasts the idiomatic 몸살을 앓다 as a specific national crisis, neither of which is stated.",
+      "id": "F03",
+      "rationale": "향후 means going forward, while 심한 몸살을 앓다 indicates a difficult period of repercussions without specifying either a formal national crisis or a duration of years.",
+      "replacement": "Considering everything from the plunging stock market to the damage this incident had inflicted on various industries, China would suffer badly in the days ahead.",
+      "severity": "major",
+      "source": "가파르게 추락한 주식부터 시작해 이번 사건이 각종 산업에까지 미친 피해를 생각한다면 중국은 향후 심한 몸살을 앓아야 할 것이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“To hell with sorry… Ugh, my neck.”",
+      "defect": "목 refers to his throat here, as confirmed by his immediately coughing up and spitting out black phlegm, not to his neck.",
+      "id": "F04",
+      "rationale": "The following 커어어억, 퉤 establishes throat irritation caused by the dust.",
+      "replacement": "“To hell with sorry… Ugh, my throat.”",
+      "severity": "minor",
+      "source": "죄송하고 나발이고…… 어우, 목."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“W-Wait. You look like a close-combat Hunter. That’s my specialty…”",
+      "defect": "The English makes it sound as though close combat is the healer’s specialty. The healer is instead contrasting Jin’s apparent combat role with the healer’s own medical expertise.",
+      "id": "F05",
+      "rationale": "이 분야 refers to evaluating and treating the survivor, not to the 근접 계열 Hunter classification.",
+      "replacement": "“W-Wait. You look like a close-combat Hunter, but this is my area of expertise…”",
+      "severity": "major",
+      "source": "자, 잠시만요. 근접 계열 헌터 같으신데. 이 분야는 제가 전문……."
+    },
+    {
+      "confidence": 0.96,
+      "current": "The chunks of concrete that several Hunters had been struggling to move flew around like pebbles, while the rocks and ground split apart like cheesecake whenever the man’s hands blurred.",
+      "defect": "The draft pluralizes both the concrete piece and the man’s hand, and adds that the Hunters were struggling rather than simply working together to move it.",
+      "id": "F06",
+      "rationale": "The source describes one concrete piece and one hand, without explicitly saying the Hunters had been struggling.",
+      "replacement": "A chunk of concrete that had taken several Hunters to move flew like a pebble, while rock and ground split apart like cheesecake whenever the man’s hand blurred.",
+      "severity": "minor",
+      "source": "헌터 몇 명이 달라붙어 옮기던 콘크리트 조각이 돌멩이처럼 날아다녔고, 남자의 손이 흐릿해질 때마다 바위와 지면이 치즈 케이크처럼 갈라졌다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The Hunters were among them, but so were the broadcasting staff. Though they understood what he was saying, they could not hide their bewilderment.",
+      "defect": "The draft reduces 납득하다 to merely understanding the words. The point is that they find themselves accepting or believing his conclusion despite having stronger apparent reasons to trust the other searchers.",
+      "id": "F07",
+      "rationale": "The following internal monologue explicitly contrasts their rational grounds for dismissing his statement with their inexplicable belief in it.",
+      "replacement": "The Hunters were among them, as were the broadcasting staff. They found themselves accepting his claim, yet could not hide their bewilderment.",
+      "severity": "major",
+      "source": "그중에는 헌터들뿐만 아니라 방송국 스태프들 역시 포함되어 있었고, 그들은 납득하면서도 한편으론 어리둥절함을 감출 수 없었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "As they watched the astonishing scene unfold before their eyes, the four words *broadcasting disaster* had been completely erased from their minds.\n\nInstead, another thought rose to the surface.\n\nThe feeling called *Could it be?*",
+      "defect": "“Broadcasting disaster” is not four words in English, creating an internal counting error, while the draft also drops one of the paired reactions 설마 and 혹시.",
+      "id": "F08",
+      "rationale": "The replacement avoids falsely transferring Korean character counts into English while preserving both expressions of dawning suspicion.",
+      "replacement": "As they watched the astonishing scene unfold before their eyes, the phrase *broadcasting disaster* vanished completely from their minds.\n\nTwo other thoughts surfaced in its place.\n\n*No way. Could it be?*",
+      "severity": "minor",
+      "source": "눈앞에서 펼쳐진 놀라운 광경을 지켜본 그들의 뇌리에는 방송 사고라는 네 글자가 깨끗이 지워져 있었다.\n\n대신 또 다른 두 글자가 떠올랐다.\n\n설마, 혹시라고 부르는 어떤 감정이."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“…”\n\n“Uh…”",
+      "defect": "The first audible reaction 아 is omitted entirely.",
+      "id": "F09",
+      "rationale": "Both brief vocal reactions are present in the source and contribute to the awkward silence after Jin exposes himself.",
+      "replacement": "“Ah…”\n\n“Uh…”",
+      "severity": "minor",
+      "source": "……아.\n\n- ……어."
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it changes a survivor from singular to plural, weakens Chairman Shao Yang’s apology, introduces unsupported duration and severity into China’s projected difficulties, and creates ambiguity around the healer’s expertise. Several localized action, register, and wording issues also need correction.",
+  "version": 1
+}

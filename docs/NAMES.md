@@ -1453,3 +1453,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 조지아주 애틀랜타 | **Atlanta, Georgia** | Claimed birthplace in the Skeleton King's proposed human identity. |
 | 카카오페이지 | **KakaoPage** | Web-fiction platform mentioned by Jin. |
 | 골골 | **Golgoli** | Jin's nickname for the Skeleton King. |
+| 웨이자 장 | **Zhang Weijia** | CCTV correspondent reporting from the Sichuan rescue site. |
+| 우쉐이밍 | **Wu Xueming** | Premier and Crown Prince Party leader facing the purge. |
