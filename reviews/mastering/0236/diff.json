@@ -1,0 +1,1947 @@
+{
+  "baseline_blocks": 168,
+  "baseline_sha256": "c9cad85c9c8c423c33e3391a419ddbc775b7cbfeb934763c4f85b50858f77e43",
+  "global_terminology_alerts": [],
+  "hunk_count": 105,
+  "hunks": [
+    {
+      "baseline": "The man gazed at the neatly arranged Four Treasures of the Study.",
+      "baseline_paragraphs": "P2",
+      "baseline_range": [
+        1,
+        2
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "5",
+      "sol": "The man gazed at the Four Treasures of the Study, neatly arranged before him.",
+      "sol_paragraphs": "P2",
+      "sol_range": [
+        1,
+        2
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The brush was made from sable fur, the inkstone was bluish jade, and the ink and paper were tribute goods said to be used by the royal family of Haedong,[^2] ten thousand *li* away.",
+      "baseline_paragraphs": "P3",
+      "baseline_range": [
+        2,
+        3
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "7",
+      "sol": "The brush was made from sable fur, the inkstone from bluish jade, and the ink and paper were tribute goods said to be used by the royal family of Haedong,[^1] ten thousand *li* away.",
+      "sol_paragraphs": "P3",
+      "sol_range": [
+        2,
+        3
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "[^2]: Haedong is a traditional name for Korea.",
+      "baseline_paragraphs": "P4",
+      "baseline_range": [
+        3,
+        4
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "9",
+      "sol": "",
+      "sol_paragraphs": "after P3",
+      "sol_range": [
+        3,
+        3
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "해동",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Haedong"
+        }
+      ]
+    },
+    {
+      "baseline": "Every one of them was a luxury that only the wealthiest of the wealthy could afford.",
+      "baseline_paragraphs": "P5",
+      "baseline_range": [
+        4,
+        5
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "11",
+      "sol": "Every piece was of the finest quality, beyond the means of anyone but the wealthiest.",
+      "sol_paragraphs": "P4",
+      "sol_range": [
+        3,
+        4
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A satisfied smile spread across his face. The man was famous for his frugality, and the only luxury he allowed himself was the Four Treasures of the Study.",
+      "baseline_paragraphs": "P7",
+      "baseline_range": [
+        6,
+        7
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "15",
+      "sol": "A satisfied smile spread across his face. The man was famous for his frugality, and the Four Treasures of the Study were the one luxury he allowed himself.",
+      "sol_paragraphs": "P6",
+      "sol_range": [
+        5,
+        6
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Just as the man was happily grinding his ink, the door opened, and someone approached with brisk, unhesitating steps.",
+      "baseline_paragraphs": "P9",
+      "baseline_range": [
+        8,
+        9
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "19",
+      "sol": "Just as he began happily grinding his ink, the door opened and someone strode toward him without hesitation.",
+      "sol_paragraphs": "P8",
+      "sol_range": [
+        7,
+        8
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The unexpected visitor was a martial artist covered in dust.",
+      "baseline_paragraphs": "P11",
+      "baseline_range": [
+        10,
+        11
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "23",
+      "sol": "The uninvited guest was a martial artist covered in dust.",
+      "sol_paragraphs": "P10",
+      "sol_range": [
+        9,
+        10
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He had narrow, sharply slanted eyes and a well-worn sword hanging from his waist. The man made a show of hardening his expression when he saw him.",
+      "baseline_paragraphs": "P12",
+      "baseline_range": [
+        11,
+        12
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "25",
+      "sol": "He had narrow, sharply slanted eyes and a well-worn sword at his waist. At the sight of him, the man made a show of hardening his expression.",
+      "sol_paragraphs": "P11",
+      "sol_range": [
+        10,
+        11
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Sadly, you don’t have the bearing of a master painter. Would you like to learn some martial arts from me?”",
+      "baseline_paragraphs": "P16",
+      "baseline_range": [
+        15,
+        16
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "33",
+      "sol": "“Unfortunately, you don’t exactly look the part. Would you care to learn some martial arts from me?”",
+      "sol_paragraphs": "P15",
+      "sol_range": [
+        14,
+        15
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "고수",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "master"
+        },
+        {
+          "korean": "대화백",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "master painter"
+        }
+      ]
+    },
+    {
+      "baseline": "“I must respectfully decline. This is the limit of my abilities as a martial artist.”",
+      "baseline_paragraphs": "P17",
+      "baseline_range": [
+        16,
+        17
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "35",
+      "sol": "“I must respectfully decline. This is as far as my abilities as a martial artist will ever take me.”",
+      "sol_paragraphs": "P16",
+      "sol_range": [
+        15,
+        16
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What a shame. You seem to lack the qualities a martial artist ought to possess.”",
+      "baseline_paragraphs": "P18",
+      "baseline_range": [
+        17,
+        18
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "37",
+      "sol": "“What a shame. You lack the qualities a martial artist ought to possess.”",
+      "sol_paragraphs": "P17",
+      "sol_range": [
+        16,
+        17
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“It doesn’t matter. I have a subordinate who handles a sword brilliantly. Why else would his epithet be Ghost Sword?”",
+      "baseline_paragraphs": "P19",
+      "baseline_range": [
+        18,
+        19
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "39",
+      "sol": "“It doesn’t matter. I have a subordinate who’s astonishingly good with a sword. Why else would his epithet be Ghost Sword?”",
+      "sol_paragraphs": "P18",
+      "sol_range": [
+        17,
+        18
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the man’s sly response, the unexpected visitor’s expression slowly relaxed.",
+      "baseline_paragraphs": "P20",
+      "baseline_range": [
+        19,
+        20
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "41",
+      "sol": "At the man’s sly response, the uninvited guest’s expression slowly relaxed.",
+      "sol_paragraphs": "P19",
+      "sol_range": [
+        18,
+        19
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The next moment, the two of them let out quiet laughs as though they had planned it together.",
+      "baseline_paragraphs": "P21",
+      "baseline_range": [
+        20,
+        21
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "43",
+      "sol": "A moment later, as if by prior agreement, they both let out quiet laughs.",
+      "sol_paragraphs": "P20",
+      "sol_range": [
+        19,
+        20
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It had been no less than four months since they had last seen each other, which made their reunion all the more welcome.",
+      "baseline_paragraphs": "P24",
+      "baseline_range": [
+        23,
+        24
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "49",
+      "sol": "They had not seen each other in four whole months, making the reunion all the more welcome.",
+      "sol_paragraphs": "P23",
+      "sol_range": [
+        22,
+        23
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jin Wikyung, the Lesser Family Head of the Jin Family of Taiyuan, wore a broad smile as he slapped Wipeng on the shoulder.",
+      "baseline_paragraphs": "P25",
+      "baseline_range": [
+        24,
+        25
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "51",
+      "sol": "Jin Wikyung, the Lesser Family Head of the Jin Family of Taiyuan, smiled broadly as he clapped Wipeng on the shoulder.",
+      "sol_paragraphs": "P24",
+      "sol_range": [
+        23,
+        24
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Jin Dragon Squad was currently the Jin Family of Taiyuan’s foremost armed force.",
+      "baseline_paragraphs": "P28",
+      "baseline_range": [
+        27,
+        28
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "57",
+      "sol": "The Jin Dragon Squad was currently the Jin Family of Taiyuan’s foremost fighting force.",
+      "sol_paragraphs": "P27",
+      "sol_range": [
+        26,
+        27
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The fact that Wipeng, Jin Wikyung’s trusted subordinate, served as its Commander was enough to reveal the squad’s status.",
+      "baseline_paragraphs": "P30",
+      "baseline_range": [
+        29,
+        30
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "61",
+      "sol": "The fact that Wipeng, Jin Wikyung’s trusted subordinate, served as its Commander spoke volumes about the squad’s standing.",
+      "sol_paragraphs": "P29",
+      "sol_range": [
+        28,
+        29
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You didn’t slip away by yourself without telling anyone, despite being the Commander, did you?”",
+      "baseline_paragraphs": "P31",
+      "baseline_range": [
+        30,
+        31
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "63",
+      "sol": "“You didn’t slip away on your own without telling anyone, did you? You are the Commander.”",
+      "sol_paragraphs": "P30",
+      "sol_range": [
+        29,
+        30
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Of course not. I left that Hyuk fellow in charge. He’ll manage just fine.”",
+      "baseline_paragraphs": "P32",
+      "baseline_range": [
+        31,
+        32
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "65",
+      "sol": "“Of course not. I left that Hyuk fellow in charge. He’ll get them here without any trouble.”",
+      "sol_paragraphs": "P31",
+      "sol_range": [
+        30,
+        31
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He had thought he was becoming somewhat accustomed to Hyuk Mujin, but merely thinking about the man gave him a headache.",
+      "baseline_paragraphs": "P37",
+      "baseline_range": [
+        36,
+        37
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "75",
+      "sol": "He had thought he was getting used to Hyuk Mujin, but merely thinking about the man made his head ache.",
+      "sol_paragraphs": "P36",
+      "sol_range": [
+        35,
+        36
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Still, business was business, and personal feelings were personal. His answer came out like a sigh.",
+      "baseline_paragraphs": "P38",
+      "baseline_range": [
+        37,
+        38
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "77",
+      "sol": "Still, merit was merit, and personal feelings were personal. He answered with a sigh.",
+      "sol_paragraphs": "P37",
+      "sol_range": [
+        36,
+        37
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“He’s serviceable enough. The only problem is that he never stops running his mouth.”",
+      "baseline_paragraphs": "P39",
+      "baseline_range": [
+        38,
+        39
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "79",
+      "sol": "“He’s useful enough. Aside from the fact that he never stops running his mouth.”",
+      "sol_paragraphs": "P38",
+      "sol_range": [
+        37,
+        38
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I had a rough idea, but he sounds more cheerful than I expected.”",
+      "baseline_paragraphs": "P40",
+      "baseline_range": [
+        39,
+        40
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "81",
+      "sol": "“I already had some idea, but he sounds even more cheerful than I expected.”",
+      "sol_paragraphs": "P39",
+      "sol_range": [
+        38,
+        39
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What about the rest?”",
+      "baseline_paragraphs": "P42",
+      "baseline_range": [
+        41,
+        42
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "85",
+      "sol": "“What about everything else?”",
+      "sol_paragraphs": "P41",
+      "sol_range": [
+        40,
+        41
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“…If you teach him things one by one, he does learn quickly.”",
+      "baseline_paragraphs": "P43",
+      "baseline_range": [
+        42,
+        43
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "87",
+      "sol": "“…If you teach him one thing at a time, he learns quickly.”",
+      "sol_paragraphs": "P42",
+      "sol_range": [
+        41,
+        42
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Naturally, Jin Taekyung’s influence had played a role in that decision.",
+      "baseline_paragraphs": "P46",
+      "baseline_range": [
+        45,
+        46
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "97",
+      "sol": "Naturally, Jin Taekyung’s influence had also played a part in that decision.",
+      "sol_paragraphs": "P45",
+      "sol_range": [
+        44,
+        45
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*That fellow is better than he looks. Try raising him.*",
+      "baseline_paragraphs": "P47",
+      "baseline_range": [
+        46,
+        47
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "99",
+      "sol": "*That fellow is better than he looks. Try training him.*",
+      "sol_paragraphs": "P46",
+      "sol_range": [
+        45,
+        46
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jin Wikyung would do anything for his younger brothers.",
+      "baseline_paragraphs": "P48",
+      "baseline_range": [
+        47,
+        48
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "101",
+      "sol": "Jin Wikyung had always had a soft spot for his younger brothers.",
+      "sol_paragraphs": "P47",
+      "sol_range": [
+        46,
+        47
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "On the off chance Taekyung was right, he had placed Hyuk Mujin in the Jin Dragon Squad and assigned Wipeng to train him. The young man’s skills had improved by the day.",
+      "baseline_paragraphs": "P49",
+      "baseline_range": [
+        48,
+        49
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "103",
+      "sol": "Thinking Taekyung might be right, he had placed Hyuk Mujin in the Jin Dragon Squad and assigned Wipeng to train him. Sure enough, the young man’s skills improved by the day.",
+      "sol_paragraphs": "P48",
+      "sol_range": [
+        47,
+        48
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His slick personality allowed him to get along well with the other members, and there was no question about his loyalty.",
+      "baseline_paragraphs": "P50",
+      "baseline_range": [
+        49,
+        50
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "105",
+      "sol": "His cheeky, easygoing nature helped him get along well with the other members, and there was no question about his loyalty.",
+      "sol_paragraphs": "P49",
+      "sol_range": [
+        48,
+        49
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jin Wikyung laughed heartily. In his hand was a bottle of liquor that no one had seen him take out.",
+      "baseline_paragraphs": "P52",
+      "baseline_range": [
+        51,
+        52
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "109",
+      "sol": "Jin Wikyung laughed heartily. At some point, a bottle of liquor had appeared in his hand.",
+      "sol_paragraphs": "P51",
+      "sol_range": [
+        50,
+        51
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "After filling a cup to the brim and handing it over, he spoke.",
+      "baseline_paragraphs": "P53",
+      "baseline_range": [
+        52,
+        53
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "111",
+      "sol": "He filled a cup to the brim, handed it over, and spoke.",
+      "sol_paragraphs": "P52",
+      "sol_range": [
+        51,
+        52
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Stabilizing Northern Gaoyuan.",
+      "baseline_paragraphs": "P56",
+      "baseline_range": [
+        55,
+        56
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "117",
+      "sol": "The stabilization of Northern Gaoyuan.",
+      "sol_paragraphs": "P55",
+      "sol_range": [
+        54,
+        55
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jin Wikyung believed that he needed to subjugate the mounted bandits of Gaoyuan to become the true hegemon of Shanxi Province. After months of secret, meticulous preparation, he had swung his sharpest weapon at them.",
+      "baseline_paragraphs": "P58",
+      "baseline_range": [
+        57,
+        58
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "121",
+      "sol": "Jin Wikyung believed that to become the true hegemon of Shanxi Province, he first needed to subjugate Gaoyuan’s mounted bandits. After months of secret and meticulous preparation, he had unleashed his sharpest weapon against them.",
+      "sol_paragraphs": "P57",
+      "sol_range": [
+        56,
+        57
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“We attacked from seven directions, and they collapsed without being able to do anything.”",
+      "baseline_paragraphs": "P60",
+      "baseline_range": [
+        59,
+        60
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "125",
+      "sol": "“We attacked from seven directions, and they collapsed without putting up any meaningful resistance.”",
+      "sol_paragraphs": "P59",
+      "sol_range": [
+        58,
+        59
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Murim of Shanxi—and especially the sects and merchant groups in the northern region, which had suffered the most damage—welcomed the Jin Family of Taiyuan’s bold decision and actively cooperated.",
+      "baseline_paragraphs": "P61",
+      "baseline_range": [
+        60,
+        61
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "127",
+      "sol": "The Murim of Shanxi—particularly the sects and merchant groups in the northern region, which had suffered the worst damage—welcomed the Jin Family of Taiyuan’s bold decision and actively cooperated.",
+      "sol_paragraphs": "P60",
+      "sol_range": [
+        59,
+        60
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The so-called Seven-Route Army had been formed with Wipeng and the Jin Dragon Squad at its forefront. With the merchants’ full support, they were equipped with quality weapons and warhorses.",
+      "baseline_paragraphs": "P62",
+      "baseline_range": [
+        61,
+        62
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "129",
+      "sol": "The so-called Seven-Route Army was formed with Wipeng and the Jin Dragon Squad at its forefront. With the merchants’ full support, they were equipped with quality weapons and warhorses.",
+      "sol_paragraphs": "P61",
+      "sol_range": [
+        60,
+        61
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "They also had a powerful ally.",
+      "baseline_paragraphs": "P63",
+      "baseline_range": [
+        62,
+        63
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "131",
+      "sol": "Powerful reinforcements also joined the campaign.",
+      "sol_paragraphs": "P62",
+      "sol_range": [
+        61,
+        62
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Lower District Sect had received a considerable share of the northern region’s interests immediately after the war ended, and they had welcomed Jin Wikyung’s decision with open arms.",
+      "baseline_paragraphs": "P65",
+      "baseline_range": [
+        64,
+        65
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "135",
+      "sol": "Having received a considerable share of the northern region’s interests immediately after the war, the Lower District Sect had welcomed Jin Wikyung’s decision with open arms.",
+      "sol_paragraphs": "P64",
+      "sol_range": [
+        63,
+        64
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Like seasoned information merchants, they monitored the mounted bandits’ every move while spreading false information and setting traps.",
+      "baseline_paragraphs": "P66",
+      "baseline_range": [
+        65,
+        66
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "137",
+      "sol": "Like the seasoned information merchants they were, they monitored the mounted bandits’ every move while spreading false information and laying traps.",
+      "sol_paragraphs": "P65",
+      "sol_range": [
+        64,
+        65
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Their thoroughness was enough to make even Jin Wikyung shake his head in admiration.",
+      "baseline_paragraphs": "P67",
+      "baseline_range": [
+        66,
+        67
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "139",
+      "sol": "Their thoroughness was enough to leave even Jin Wikyung shaking his head in admiration.",
+      "sol_paragraphs": "P66",
+      "sol_range": [
+        65,
+        66
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Everything in this world is used differently depending on who owns it. But the truly frightening one is Wolhwa. She isn’t meant to be confined to Shanxi Province.”",
+      "baseline_paragraphs": "P68",
+      "baseline_range": [
+        67,
+        68
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "141",
+      "sol": "“Everything in this world is put to different use depending on who wields it. The truly frightening one is Wolhwa. She isn’t meant to remain confined to Shanxi Province.”",
+      "sol_paragraphs": "P67",
+      "sol_range": [
+        66,
+        67
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Can’t you tell from the results? Her true weapon isn’t her beautiful appearance. It’s her strategy.”",
+      "baseline_paragraphs": "P70",
+      "baseline_range": [
+        69,
+        70
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "145",
+      "sol": "“Can’t you tell from the results? Her true weapon isn’t her beauty. It’s her strategic mind.”",
+      "sol_paragraphs": "P69",
+      "sol_range": [
+        68,
+        69
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That was the number of mounted bandits who had been killed or captured in Northern Gaoyuan that day.",
+      "baseline_paragraphs": "P72",
+      "baseline_range": [
+        71,
+        72
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "149",
+      "sol": "That was the number of mounted bandits killed or captured in Northern Gaoyuan in that single day.",
+      "sol_paragraphs": "P71",
+      "sol_range": [
+        70,
+        71
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Seven battles had broken out in different locations, and after claiming seven victories, the army had advanced without hesitation.",
+      "baseline_paragraphs": "P73",
+      "baseline_range": [
+        72,
+        73
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "151",
+      "sol": "Seven battles broke out in seven different locations. After claiming seven victories, the army advanced without hesitation.",
+      "sol_paragraphs": "P72",
+      "sol_range": [
+        71,
+        72
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“After that, we killed or captured every one we came across.”",
+      "baseline_paragraphs": "P74",
+      "baseline_range": [
+        73,
+        74
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "153",
+      "sol": "“After that, we killed or captured every mounted bandit we came across.”",
+      "sol_paragraphs": "P73",
+      "sol_range": [
+        72,
+        73
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Hundreds of crows flew through the sky, while corpses that seemed to number ten times as many lay scattered across the ground below.",
+      "baseline_paragraphs": "P75",
+      "baseline_range": [
+        74,
+        75
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "155",
+      "sol": "Hundreds of crows wheeled through the sky, while perhaps ten times as many corpses lay scattered across the ground below.",
+      "sol_paragraphs": "P74",
+      "sol_range": [
+        73,
+        74
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "By the time the Seven-Route Army’s horses came to a stop, five major mounted-bandit groups had been annihilated, and more than ten others had surrendered.",
+      "baseline_paragraphs": "P76",
+      "baseline_range": [
+        75,
+        76
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "157",
+      "sol": "By the time the Seven-Route Army’s horses finally came to a halt, five major mounted-bandit groups had been annihilated and more than ten others had surrendered.",
+      "sol_paragraphs": "P75",
+      "sol_range": [
+        74,
+        75
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Effectively, we had already achieved our objective.”",
+      "baseline_paragraphs": "P77",
+      "baseline_range": [
+        76,
+        77
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "159",
+      "sol": "“We had effectively achieved our objective by then.”",
+      "sol_paragraphs": "P76",
+      "sol_range": [
+        75,
+        76
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You got it.”",
+      "baseline_paragraphs": "P80",
+      "baseline_range": [
+        79,
+        80
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "165",
+      "sol": "“Exactly.”",
+      "sol_paragraphs": "P79",
+      "sol_range": [
+        78,
+        79
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "Thanks to their rapid mobile strikes, the Seven-Route Army had suffered few casualties. But the successive battles had left them thoroughly exhausted.",
+      "baseline_paragraphs": "P81",
+      "baseline_range": [
+        80,
+        81
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "167",
+      "sol": "Thanks to their swift, mobile strikes, the Seven-Route Army had suffered few casualties. But the successive battles had left them thoroughly exhausted.",
+      "sol_paragraphs": "P80",
+      "sol_range": [
+        79,
+        80
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“To be honest, even I felt dizzy when I saw them.”",
+      "baseline_paragraphs": "P83",
+      "baseline_range": [
+        82,
+        83
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "171",
+      "sol": "“To be honest, even my heart sank when I saw them.”",
+      "sol_paragraphs": "P82",
+      "sol_range": [
+        81,
+        82
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "There were thousands of them, and every single one was a master of mounted combat.",
+      "baseline_paragraphs": "P84",
+      "baseline_range": [
+        83,
+        84
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "173",
+      "sol": "There were thousands of them, and every one was said to be a master of mounted combat.",
+      "sol_paragraphs": "P83",
+      "sol_range": [
+        82,
+        83
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No matter how seasoned a Peak master Wipeng was, he had no way to turn the tide of battle by himself.",
+      "baseline_paragraphs": "P85",
+      "baseline_range": [
+        84,
+        85
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "175",
+      "sol": "No matter how seasoned a Peak master Wipeng was, he had no way to turn the tide of battle alone.",
+      "sol_paragraphs": "P84",
+      "sol_range": [
+        83,
+        84
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That was when the matter I reported earlier by messenger pigeon took place.”",
+      "baseline_paragraphs": "P86",
+      "baseline_range": [
+        85,
+        86
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "177",
+      "sol": "“That was when the incident I reported earlier by messenger pigeon occurred.”",
+      "sol_paragraphs": "P85",
+      "sol_range": [
+        84,
+        85
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You mean the people who called themselves khans?”",
+      "baseline_paragraphs": "P87",
+      "baseline_range": [
+        86,
+        87
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "179",
+      "sol": "“You mean the ones who called themselves khans?”",
+      "sol_paragraphs": "P86",
+      "sol_range": [
+        85,
+        86
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The great nomadic empire that had once ruled even the Central Plains had long since become a distant memory. But the conquerors’ bloodline had not been severed, and neither had the title of khan.",
+      "baseline_paragraphs": "P88",
+      "baseline_range": [
+        87,
+        88
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "181",
+      "sol": "The great nomadic empire that had once ruled even the Central Plains had long since faded into distant history. But the conquerors’ bloodline had not died out, and neither had the title of khan.",
+      "sol_paragraphs": "P87",
+      "sol_range": [
+        86,
+        87
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Temur and Chinggen, descendants of the Great Khan and members of the Golden Clan.[^1]”",
+      "baseline_paragraphs": "P90",
+      "baseline_range": [
+        89,
+        90
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "185",
+      "sol": "“Temur and Chinggen, descendants of the Great Khan and members of the Golden Clan.[^2]”",
+      "sol_paragraphs": "P89",
+      "sol_range": [
+        88,
+        89
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The young chieftains of the steppe had arrived with two thousand riders each. They were neither aggressive nor arrogant.",
+      "baseline_paragraphs": "P93",
+      "baseline_range": [
+        92,
+        93
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "193",
+      "sol": "The young chieftains of the steppe had each arrived with two thousand riders. They were neither aggressive nor arrogant.",
+      "sol_paragraphs": "P92",
+      "sol_range": [
+        91,
+        92
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The battle that everyone had expected never took place.",
+      "baseline_paragraphs": "P96",
+      "baseline_range": [
+        95,
+        96
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "201",
+      "sol": "The battle everyone had expected never took place.",
+      "sol_paragraphs": "P95",
+      "sol_range": [
+        94,
+        95
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The rumor had already reached Gaoyuan. They knew about the relationship between Great Hero Jeok and the Third Young Master, and they said they didn’t want to become enemies with us.”",
+      "baseline_paragraphs": "P98",
+      "baseline_range": [
+        97,
+        98
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "205",
+      "sol": "“The rumor had already reached Gaoyuan. They knew about the relationship between Great Hero Jeok and the Third Young Master, and said they had no wish to become our enemies.”",
+      "sol_paragraphs": "P97",
+      "sol_range": [
+        96,
+        97
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That’s what I’m curious about. It seems suspicious to say they withdrew after hearing only the Fire King’s reputation.”",
+      "baseline_paragraphs": "P99",
+      "baseline_range": [
+        98,
+        99
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "207",
+      "sol": "“That is precisely what puzzles me. It seems rather suspicious that they would back down merely because of the Fire King’s reputation.”",
+      "sol_paragraphs": "P98",
+      "sol_range": [
+        97,
+        98
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Ah, that? I found it rather unsettling myself, so I beat the information out of the mounted-bandit prisoners we captured.”",
+      "baseline_paragraphs": "P100",
+      "baseline_range": [
+        99,
+        100
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "209",
+      "sol": "“Ah, that? It didn’t sit right with me either, so I beat the truth out of the mounted-bandit prisoners.”",
+      "sol_paragraphs": "P99",
+      "sol_range": [
+        98,
+        99
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“They had been taught a lesson the previous winter. Great Hero Jeok killed two notorious mounted-bandit leaders from Gaoyuan—Black Sand and the Human Butcher—with a single palm strike. The two of them were there as well.”",
+      "baseline_paragraphs": "P102",
+      "baseline_range": [
+        101,
+        102
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "213",
+      "sol": "“They’d already been taught a harsh lesson last winter. Great Hero Jeok killed two notorious mounted-bandit leaders from Gaoyuan—Black Sand and the Human Butcher—with a single palm strike. Temur and Chinggen were both there.”",
+      "sol_paragraphs": "P101",
+      "sol_range": [
+        100,
+        101
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“They were frightened.”",
+      "baseline_paragraphs": "P103",
+      "baseline_range": [
+        102,
+        103
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "215",
+      "sol": "“So they were terrified.”",
+      "sol_paragraphs": "P102",
+      "sol_range": [
+        101,
+        102
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“On the other hand, it helped them, too. After their leaders died, the mounted-bandit remnants fell into chaos, and Temur and Chinggen absorbed them. That’s how they grew this powerful.”",
+      "baseline_paragraphs": "P104",
+      "baseline_range": [
+        103,
+        104
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "217",
+      "sol": "“On the other hand, it benefited them as well. Once the leaders were dead, the mounted-bandit remnants fell into chaos. Temur and Chinggen absorbed them and grew as powerful as they are now.”",
+      "sol_paragraphs": "P103",
+      "sol_range": [
+        102,
+        103
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Black Sand and the Human Butcher had died in the same place, and not long afterward, even the Heavenly Wind Band had been annihilated by Jeok Cheongang. A power vacuum had formed.",
+      "baseline_paragraphs": "P106",
+      "baseline_range": [
+        105,
+        106
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "221",
+      "sol": "Black Sand and the Human Butcher had died in the same place, and not long afterward, the Heavenly Wind Band had also been annihilated by Jeok Cheongang. A power vacuum formed.",
+      "sol_paragraphs": "P105",
+      "sol_range": [
+        104,
+        105
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "After swallowing up the mounted-bandit remnants and gathering the scattered nomads, the two men had rapidly emerged as powers in Gaoyuan in the span of only a year.",
+      "baseline_paragraphs": "P107",
+      "baseline_range": [
+        106,
+        107
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "223",
+      "sol": "After swallowing up the mounted-bandit remnants and gathering the scattered nomads, the two men had risen to become powers in Gaoyuan in the span of only a year.",
+      "sol_paragraphs": "P106",
+      "sol_range": [
+        105,
+        106
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“They said they wanted to be friends from now on. They even loaded us down with furs and gold and silver treasures they’d plundered.”",
+      "baseline_paragraphs": "P108",
+      "baseline_range": [
+        107,
+        108
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "225",
+      "sol": "“They said they wanted to remain on friendly terms from now on. They even loaded us down with furs and plundered gold and silver.”",
+      "sol_paragraphs": "P107",
+      "sol_range": [
+        106,
+        107
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The campaign had strengthened the Jin Family of Taiyuan’s fame and position in the Shanxi Murim, while also winning it the support of the affiliated sects and the common people.",
+      "baseline_paragraphs": "P112",
+      "baseline_range": [
+        111,
+        112
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "233",
+      "sol": "The campaign had further strengthened the Jin Family of Taiyuan’s fame and standing in the Shanxi Murim while also winning the support of its affiliated sects and the common people.",
+      "sol_paragraphs": "P111",
+      "sol_range": [
+        110,
+        111
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You’ve worked hard. You deserve great credit.”",
+      "baseline_paragraphs": "P113",
+      "baseline_range": [
+        112,
+        113
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "235",
+      "sol": "“You’ve worked hard. Much of the credit belongs to you.”",
+      "sol_paragraphs": "P112",
+      "sol_range": [
+        111,
+        112
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I don’t know about that, but I do know that my cup is empty.”",
+      "baseline_paragraphs": "P114",
+      "baseline_range": [
+        113,
+        114
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "237",
+      "sol": "“I don’t know about that, but I do know my cup is empty.”",
+      "sol_paragraphs": "P113",
+      "sol_range": [
+        112,
+        113
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Ha-ha! Let’s drink until we’re completely drunk tonight.”",
+      "baseline_paragraphs": "P115",
+      "baseline_range": [
+        114,
+        115
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "239",
+      "sol": "“Ha-ha! Then let’s drink until we’re both thoroughly drunk tonight.”",
+      "sol_paragraphs": "P114",
+      "sol_range": [
+        113,
+        114
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The two men took turns filling each other’s cups as they talked.",
+      "baseline_paragraphs": "P116",
+      "baseline_range": [
+        115,
+        116
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "241",
+      "sol": "The two men traded cups and stories.",
+      "sol_paragraphs": "P115",
+      "sol_range": [
+        114,
+        115
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "An enormous number of things had happened over the past year, so they had plenty to discuss.",
+      "baseline_paragraphs": "P117",
+      "baseline_range": [
+        116,
+        117
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "243",
+      "sol": "So much had happened over the past year that they had no shortage of things to discuss.",
+      "sol_paragraphs": "P116",
+      "sol_range": [
+        115,
+        116
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“We finished dealing with it completely right after you left. Though I suppose we should call it the Jin Family Escort Bureau now.”",
+      "baseline_paragraphs": "P119",
+      "baseline_range": [
+        118,
+        119
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "247",
+      "sol": "“We finished dealing with it soon after you left. Though I suppose we should call it the Jin Family Escort Bureau now.”",
+      "sol_paragraphs": "P118",
+      "sol_range": [
+        117,
+        118
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Woo Hwangtae, chief of the Seongun Escort Bureau, had fled with his family, taking only a paltry sum of money. It had been discovered that they had bribed several officials and secretly diverted military supplies.",
+      "baseline_paragraphs": "P120",
+      "baseline_range": [
+        119,
+        120
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "249",
+      "sol": "Woo Hwangtae, chief of the Seongun Escort Bureau, had fled with his family, taking only a paltry sum with them. It had been discovered that they had bribed several officials and secretly diverted military supplies.",
+      "sol_paragraphs": "P119",
+      "sol_range": [
+        118,
+        119
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Shaolin and Namgung. There was no reason to reject such a good offer.”",
+      "baseline_paragraphs": "P124",
+      "baseline_range": [
+        123,
+        124
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "257",
+      "sol": "“Shaolin and Namgung. It was too good an offer to refuse.”",
+      "sol_paragraphs": "P123",
+      "sol_range": [
+        122,
+        123
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Shaolin, the Mount Tai and Northern Dipper of the world’s Murim, and the Nangong Family, counted among the foremost of the Five Great Families.",
+      "baseline_paragraphs": "P125",
+      "baseline_range": [
+        124,
+        125
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "259",
+      "sol": "Shaolin, the Mount Tai and Northern Dipper of the Murim, and the Nangong Family, counted among the foremost of the Five Great Families.",
+      "sol_paragraphs": "P124",
+      "sol_range": [
+        123,
+        124
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "They were so large that Jin Wikyung would have been satisfied merely to open trade relations with them. Instead, they had been the ones to propose a deal first—and on extremely generous terms, at that.",
+      "baseline_paragraphs": "P126",
+      "baseline_range": [
+        125,
+        126
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "261",
+      "sol": "Both were such enormous powers that Jin Wikyung would have been satisfied merely to establish trade with them. Instead, they had approached him first—and offered extremely generous terms at that.",
+      "sol_paragraphs": "P125",
+      "sol_range": [
+        124,
+        125
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The presence of Great Hero Jeok has been a tremendous help to our family.”",
+      "baseline_paragraphs": "P127",
+      "baseline_range": [
+        126,
+        127
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "263",
+      "sol": "“Great Hero Jeok’s presence has been a tremendous help to our family.”",
+      "sol_paragraphs": "P126",
+      "sol_range": [
+        125,
+        126
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At Wipeng’s words, Jin Wikyung merely smiled.",
+      "baseline_paragraphs": "P128",
+      "baseline_range": [
+        127,
+        128
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "265",
+      "sol": "Jin Wikyung merely smiled at Wipeng’s remark.",
+      "sol_paragraphs": "P127",
+      "sol_range": [
+        126,
+        127
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Their goodwill contained the price of two people.",
+      "baseline_paragraphs": "P130",
+      "baseline_range": [
+        129,
+        130
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "269",
+      "sol": "Their generosity was an investment in two people.",
+      "sol_paragraphs": "P129",
+      "sol_range": [
+        128,
+        129
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "The other was the value of Jin Taekyung, a Sleeping Dragon.",
+      "baseline_paragraphs": "P132",
+      "baseline_range": [
+        131,
+        132
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "273",
+      "sol": "The other was Jin Taekyung, the Sleeping Dragon.",
+      "sol_paragraphs": "P131",
+      "sol_range": [
+        130,
+        131
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It had been a year filled with countless hardships and events.",
+      "baseline_paragraphs": "P134",
+      "baseline_range": [
+        133,
+        134
+      ],
+      "hunk_id": "H086",
+      "korean_lines": "277",
+      "sol": "It had been an eventful year.",
+      "sol_paragraphs": "P133",
+      "sol_range": [
+        132,
+        133
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Just as Jin Wikyung was raising his cup while thinking about his thoughtless youngest brother, who had not contacted him even once, Wipeng suddenly spoke.",
+      "baseline_paragraphs": "P137",
+      "baseline_range": [
+        136,
+        137
+      ],
+      "hunk_id": "H087",
+      "korean_lines": "283",
+      "sol": "Jin Wikyung raised his cup, thinking of his thoughtless youngest brother, who had not contacted him even once. Just then, Wipeng spoke.",
+      "sol_paragraphs": "P136",
+      "sol_range": [
+        135,
+        136
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“It happens from time to time. There are many occasions when I grind ink for one or two shichen before putting everything away again.”",
+      "baseline_paragraphs": "P141",
+      "baseline_range": [
+        140,
+        141
+      ],
+      "hunk_id": "H088",
+      "korean_lines": "291",
+      "sol": "“It happens from time to time. I often spend one or two shichen grinding ink, only to put everything away again.”",
+      "sol_paragraphs": "P140",
+      "sol_range": [
+        139,
+        140
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Huh. Are you really trying to become a master painter now?”",
+      "baseline_paragraphs": "P142",
+      "baseline_range": [
+        141,
+        142
+      ],
+      "hunk_id": "H089",
+      "korean_lines": "293",
+      "sol": "“Huh. Are you truly trying to become a master painter now?”",
+      "sol_paragraphs": "P141",
+      "sol_range": [
+        140,
+        141
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Put that thought aside for now. But once this painting is complete, I think I’d be happy to be called a master painter.”",
+      "baseline_paragraphs": "P143",
+      "baseline_range": [
+        142,
+        143
+      ],
+      "hunk_id": "H090",
+      "korean_lines": "295",
+      "sol": "“Put that thought aside for the moment. But once this painting is complete, I think I might deserve the title.”",
+      "sol_paragraphs": "P142",
+      "sol_range": [
+        141,
+        142
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "고수",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "master"
+        },
+        {
+          "korean": "대화백",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "master painter"
+        }
+      ]
+    },
+    {
+      "baseline": "“It’s merely that I can’t easily visualize what it will look like. I decided on the title long ago.”",
+      "baseline_paragraphs": "P145",
+      "baseline_range": [
+        144,
+        145
+      ],
+      "hunk_id": "H091",
+      "korean_lines": "301",
+      "sol": "“It’s merely that I can’t quite picture what it will look like. I decided on the title long ago.”",
+      "sol_paragraphs": "P144",
+      "sol_range": [
+        143,
+        144
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Then what is the title of this magnificent work?”",
+      "baseline_paragraphs": "P146",
+      "baseline_range": [
+        145,
+        146
+      ],
+      "hunk_id": "H092",
+      "korean_lines": "305",
+      "sol": "“Then what is this magnificent work called?”",
+      "sol_paragraphs": "P145",
+      "sol_range": [
+        144,
+        145
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "칭호",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Title"
+        }
+      ]
+    },
+    {
+      "baseline": "He was a young man in shabby clothes.",
+      "baseline_paragraphs": "P150",
+      "baseline_range": [
+        149,
+        150
+      ],
+      "hunk_id": "H093",
+      "korean_lines": "313",
+      "sol": "He was a young man dressed in rags.",
+      "sol_paragraphs": "P149",
+      "sol_range": [
+        148,
+        149
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His long, loose hair reached his shoulder blades, and his chin and philtrum were covered in thick stubble.",
+      "baseline_paragraphs": "P151",
+      "baseline_range": [
+        150,
+        151
+      ],
+      "hunk_id": "H094",
+      "korean_lines": "315",
+      "sol": "His long, loose hair reached his shoulder blades, and thick stubble covered his chin and upper lip.",
+      "sol_paragraphs": "P150",
+      "sol_range": [
+        149,
+        150
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The final touch was the iron balls dangling from all four limbs, making him look like a convict at a forced-labor camp.",
+      "baseline_paragraphs": "P152",
+      "baseline_range": [
+        151,
+        152
+      ],
+      "hunk_id": "H095",
+      "korean_lines": "317",
+      "sol": "The crowning touch was the iron balls dangling from all four limbs, making him look like a convict in a forced-labor camp.",
+      "sol_paragraphs": "P151",
+      "sol_range": [
+        150,
+        151
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But there was one thing that set him apart.",
+      "baseline_paragraphs": "P153",
+      "baseline_range": [
+        152,
+        153
+      ],
+      "hunk_id": "H096",
+      "korean_lines": "319",
+      "sol": "Yet one thing about him was different.",
+      "sol_paragraphs": "P152",
+      "sol_range": [
+        151,
+        152
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The young man stared at the blue-white flame with a gaze so deep its bottom could not be seen, then muttered,",
+      "baseline_paragraphs": "P155",
+      "baseline_range": [
+        154,
+        155
+      ],
+      "hunk_id": "H097",
+      "korean_lines": "323",
+      "sol": "The young man stared into the blue-white flame with a gaze of unfathomable depth, then muttered,",
+      "sol_paragraphs": "P154",
+      "sol_range": [
+        153,
+        154
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And then—",
+      "baseline_paragraphs": "P157",
+      "baseline_range": [
+        156,
+        157
+      ],
+      "hunk_id": "H098",
+      "korean_lines": "327",
+      "sol": "The next instant—",
+      "sol_paragraphs": "P156",
+      "sol_range": [
+        155,
+        156
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "With a savage crack of displaced air, a wrinkled palm struck the young man on the back of the head.",
+      "baseline_paragraphs": "P159",
+      "baseline_range": [
+        158,
+        159
+      ],
+      "hunk_id": "H099",
+      "korean_lines": "331",
+      "sol": "With a savage crack of displaced air, a wrinkled palm slammed into the back of the young man’s head.",
+      "sol_paragraphs": "P158",
+      "sol_range": [
+        157,
+        158
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What an insolent brat! How dare you think of grilling meat over our sect’s sacred flame!”",
+      "baseline_paragraphs": "P160",
+      "baseline_range": [
+        159,
+        160
+      ],
+      "hunk_id": "H100",
+      "korean_lines": "333",
+      "sol": "“What an insolent brat! How dare you even think of grilling meat over our sect’s sacred flame!”",
+      "sol_paragraphs": "P159",
+      "sol_range": [
+        158,
+        159
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The old man was furious. The young man grumbled.",
+      "baseline_paragraphs": "P161",
+      "baseline_range": [
+        160,
+        161
+      ],
+      "hunk_id": "H101",
+      "korean_lines": "335",
+      "sol": "The old man was beside himself with rage, but the young man merely grumbled.",
+      "sol_paragraphs": "P160",
+      "sol_range": [
+        159,
+        160
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Ah, why not? It seems like it’d be fine if I just put it in for a second and pulled it right back out.”",
+      "baseline_paragraphs": "P162",
+      "baseline_range": [
+        161,
+        162
+      ],
+      "hunk_id": "H102",
+      "korean_lines": "337",
+      "sol": "“Ah, why not? It should be fine if I just stick it in for a second and pull it right back out.”",
+      "sol_paragraphs": "P161",
+      "sol_range": [
+        160,
+        161
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "On a day in early spring, when the earth had thawed and fresh sprouts were poking their heads aboveground, peaceful Mount Jiuhua began to grow noisy.",
+      "baseline_paragraphs": "P167",
+      "baseline_range": [
+        166,
+        167
+      ],
+      "hunk_id": "H103",
+      "korean_lines": "337",
+      "sol": "On an early spring day, as the earth thawed and fresh shoots poked their heads aboveground, peaceful Mount Jiuhua began to grow noisy.",
+      "sol_paragraphs": "P166",
+      "sol_range": [
+        165,
+        166
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "",
+      "baseline_paragraphs": "after P167",
+      "baseline_range": [
+        167,
+        167
+      ],
+      "hunk_id": "H104",
+      "korean_lines": "337",
+      "sol": "[^1]: Haedong is a traditional name for Korea.",
+      "sol_paragraphs": "P167",
+      "sol_range": [
+        166,
+        167
+      ],
+      "tag": "insert",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "[^1]: The Golden Clan is a traditional name for the ruling lineage descended from the khans.",
+      "baseline_paragraphs": "P168",
+      "baseline_range": [
+        167,
+        168
+      ],
+      "hunk_id": "H105",
+      "korean_lines": "337",
+      "sol": "[^2]: The Golden Clan is a traditional name for the ruling lineage descended from the khans.",
+      "sol_paragraphs": "P168",
+      "sol_range": [
+        167,
+        168
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 168,
+  "sol_sha256": "c47b6078e66d03ce6479b5884e5b52d4a1e073adbae38d4d5768df51955863d1",
+  "version": 1
+}

@@ -58,7 +58,7 @@ The fact that Wipeng, Jin Wikyung’s trusted subordinate, served as its Command
 
 “You didn’t slip away on your own without telling anyone, did you? You are the Commander.”
 
-“Of course not. I left that Hyuk fellow in charge. He’ll manage just fine.”
+“Of course not. I left that Hyuk fellow in charge. He’ll get them here without any trouble.”
 
 “The acting Deputy Commander?”
 
@@ -128,7 +128,7 @@ Having received a considerable share of the northern region’s interests immedi
 
 Like the seasoned information merchants they were, they monitored the mounted bandits’ every move while spreading false information and laying traps.
 
-Their thoroughness left even Jin Wikyung impressed.
+Their thoroughness was enough to leave even Jin Wikyung shaking his head in admiration.
 
 “Everything in this world is put to different use depending on who wields it. The truly frightening one is Wolhwa. She isn’t meant to remain confined to Shanxi Province.”
 
@@ -160,9 +160,9 @@ Thanks to their swift, mobile strikes, the Seven-Route Army had suffered few cas
 
 That was when thousands of nomads appeared amid a massive cloud of dust.
 
-“To be honest, even I felt dizzy when I saw them.”
+“To be honest, even my heart sank when I saw them.”
 
-There were thousands of them, and every single one was a master of mounted combat.
+There were thousands of them, and every one was said to be a master of mounted combat.
 
 No matter how seasoned a Peak master Wipeng was, he had no way to turn the tide of battle alone.
 
@@ -200,13 +200,13 @@ Wipeng grinned as he continued.
 
 “They’d already been taught a harsh lesson last winter. Great Hero Jeok killed two notorious mounted-bandit leaders from Gaoyuan—Black Sand and the Human Butcher—with a single palm strike. Temur and Chinggen were both there.”
 
-“They were frightened.”
+“So they were terrified.”
 
 “On the other hand, it benefited them as well. Once the leaders were dead, the mounted-bandit remnants fell into chaos. Temur and Chinggen absorbed them and grew as powerful as they are now.”
 
 Temur and Chinggen had been lucky.
 
-Black Sand and the Human Butcher had died in the same place, and not long afterward, even the Heavenly Wind Band had been annihilated by Jeok Cheongang. A power vacuum had formed.
+Black Sand and the Human Butcher had died in the same place, and not long afterward, the Heavenly Wind Band had also been annihilated by Jeok Cheongang. A power vacuum formed.
 
 After swallowing up the mounted-bandit remnants and gathering the scattered nomads, the two men had risen to become powers in Gaoyuan in the span of only a year.
 
@@ -232,7 +232,7 @@ So much had happened over the past year that they had no shortage of things to d
 
 “Oh, right. What happened to the Seongun Escort Bureau?”
 
-“We finished dealing with it completely right after you left. Though I suppose we should call it the Jin Family Escort Bureau now.”
+“We finished dealing with it soon after you left. Though I suppose we should call it the Jin Family Escort Bureau now.”
 
 Woo Hwangtae, chief of the Seongun Escort Bureau, had fled with his family, taking only a paltry sum with them. It had been discovered that they had bribed several officials and secretly diverted military supplies.
 
@@ -254,15 +254,15 @@ Jin Wikyung merely smiled at Wipeng’s remark.
 
 He firmly believed that in the Murim, at least, no favor came without a price.
 
-Their goodwill contained the price of two people.
+Their generosity was an investment in two people.
 
 One was the Fire King, Jeok Cheongang.
 
-The other was the value of Jin Taekyung, a Sleeping Dragon.
+The other was Jin Taekyung, the Sleeping Dragon.
 
 *Come to think of it, it’s already been a year since our youngest left.*
 
-It had been a year filled with countless hardships and events.
+It had been an eventful year.
 
 Once the ground thawed, the Star-Array Grand Banquet would be held in Henan. The brothers would meet again there.
 
@@ -280,7 +280,7 @@ Jin Wikyung raised his cup, thinking of his thoughtless youngest brother, who ha
 
 “Huh. Are you truly trying to become a master painter now?”
 
-“Put that thought aside for now. But once this painting is complete, I think I’d be happy to be called a master painter.”
+“Put that thought aside for the moment. But once this painting is complete, I think I might deserve the title.”
 
 “Didn’t you just say you hadn’t decided what to paint?”
 
@@ -294,7 +294,7 @@ Jin Wikyung answered with a smile.
 
 * * *
 
-He was a young man in shabby clothes.
+He was a young man dressed in rags.
 
 His long, loose hair reached his shoulder blades, and thick stubble covered his chin and upper lip.
 
