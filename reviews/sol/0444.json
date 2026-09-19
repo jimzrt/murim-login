@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“You have friends?”",
+      "defect": "The taunt aimed specifically at someone like Taekyung is omitted, weakening Jeok Cheongang’s mockery and their established register.",
+      "id": "F01",
+      "rationale": "너 같은 놈한테 explicitly means “someone like you,” not merely “you.”",
+      "replacement": "“Even someone like you has friends?”",
+      "severity": "major",
+      "source": "너 같은 놈한테 친구도 있어?"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Before he could say anything else, he turned toward Jeok Cheongang and bowed.",
+      "defect": "The draft assigns the interrupted opportunity to Zhuge Gyun rather than the narrator and adds a bow not stated in the source.",
+      "id": "F02",
+      "rationale": "Zhuge Gyun has just cut off Taekyung’s words; the implied subject of 뭐라 할 새도 없이 is Taekyung, while 인사를 건넸다 means that Zhuge Gyun greeted Jeok Cheongang.",
+      "replacement": "Before I could say anything, he turned toward Jeok Cheongang and offered his greetings.",
+      "severity": "critical",
+      "source": "그리고 뭐라 할 새도 없이 적천강을 향해 인사를 건넸다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "He had served as the mind of the Murim Alliance during the Great Faction War and had been instrumental in turning around the grim situation.",
+      "defect": "“Had been instrumental” loses the explicit hierarchy that Zhuge Gonghu was the foremost contributor.",
+      "id": "F03",
+      "rationale": "일등 공신 identifies him as the number-one or foremost contributor, not merely an important participant.",
+      "replacement": "He had served as the mind of the Murim Alliance during the Great Faction War and was the foremost contributor to turning the grim tide of the war.",
+      "severity": "major",
+      "source": "정마대전 당시 무림맹의 머리 역할을 하며 암담했던 전황을 뒤집은 일등 공신."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“It was damn uncomfortable. How dare you make this old man come all the way here? I’ll hear the reason, and if it’s nothing important, I’ll burn the place down with a Flame Divine Palm.”",
+      "defect": "The draft invents the specific consequence of burning the place down, whereas Jeok Cheongang’s threat is deliberately cut off before he states what he will do.",
+      "id": "F04",
+      "rationale": "The source ends on 화염신장으로 without an object or completed action because Taekyung interrupts him.",
+      "replacement": "“It was damn uncomfortable. How dare you make this old man come all the way here? I’ll hear the reason, and if it’s nothing important, then a Flame Divine Palm will…”",
+      "severity": "major",
+      "source": "더럽게 불편했다. 감히 노부를 여기까지 오게 만들다니. 무슨 연유인지 들어 보고 별것 아닌 일이라면 아주 화염신장으로."
+    },
+    {
+      "confidence": 0.99,
+      "current": "While I tried to restrain Jeok Cheongang, who had suddenly accelerated, Jin Wikyung hurriedly continued.",
+      "defect": "Jeok Cheongang’s entire outburst about Taekyung grabbing his sleeve is omitted, including the physical detail of the restraint and the insult; “suddenly accelerated” is also an unnatural literal rendering of his flying off the handle.",
+      "id": "F05",
+      "rationale": "The omitted dialogue explicitly identifies Taekyung’s grip on Jeok Cheongang’s sleeve and preserves the scene’s comic escalation.",
+      "replacement": "“You dare grab this old man’s sleeve! Let go, you all-brawn bastard!”\n\nWhile I tried to restrain Jeok Cheongang, who had flown off the handle, Jin Wikyung hurriedly continued.",
+      "severity": "major",
+      "source": "“이놈이 감히 노부의 옷소매를! 놔라! 이 힘만 무식하게 센 놈아!”\n\n급발진한 적천강을 내가 만류하는 사이, 진위경이 황급히 말을 이었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Really? The people I saw at the ferry about an hour ago looked like their smiles had left forever.”",
+      "defect": "The elapsed time is halved: one 시진 is approximately two hours, not one hour.",
+      "id": "F06",
+      "rationale": "The binding glossary requires 시진 to be rendered as “shichen,” and the source specifies one such unit.",
+      "replacement": "“Really? The people I saw at the ferry about one shichen ago looked like their smiles had left forever.”",
+      "severity": "critical",
+      "source": "그래? 한 시진 전쯤에 나루터에서 본 사람들은 얼굴에 웃음이 영영 떠난 것 같던데."
+    },
+    {
+      "confidence": 0.94,
+      "current": "I wasn’t sure whether to call that coolheaded or hot-blooded.",
+      "defect": "“Coolheaded” implies calm judgment, which contradicts the behavior and blunts the direct comic contrast between “cool” and “fiery.”",
+      "id": "F07",
+      "rationale": "쿨하다 is colloquial “cool,” while 불같다 literally evokes fire and Jeok Cheongang’s explosive temperament.",
+      "replacement": "I wasn’t sure whether to call that cool or fiery.",
+      "severity": "minor",
+      "source": "이걸 쿨하다고 해야 할지, 불같다고 해야 할지 모르겠다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Mount Longzhong, also called Mount Fulong because the greatest strategist of an age once lived there in seclusion.",
+      "defect": "The description omits that the strategist shaped the history of an era and weakens 천하제일 from “greatest under heaven” to merely “greatest of an age.”",
+      "id": "F08",
+      "rationale": "Both 한 시대의 역사를 쓴 and 천하제일의 contribute distinct claims about the strategist’s historical impact and preeminence.",
+      "replacement": "Mount Longzhong, also called Mount Fulong because the greatest strategist under heaven—a man who had shaped the history of an era—once lived there in seclusion.",
+      "severity": "minor",
+      "source": "한 시대의 역사를 쓴 천하제일의 모사가 은거했던 탓에 복룡산(伏龍山)이라고도 불리는 융중산(隆中山)."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Their ancestor, Zhuge Wuhou, had been famous for his frugality. But his descendants had not devoted their naturally sharp minds solely to scholarship and mechanisms and formations.",
+      "defect": "The draft replaces the source’s specific appellation Zhuge Kongming with Zhuge Wuhou, erasing the intentional shift from the honorific used earlier.",
+      "id": "F09",
+      "rationale": "The source uses 제갈공명 here, not 제갈무후; although both refer to the same historical figure, the appellations are not textually interchangeable.",
+      "replacement": "Their ancestor, Zhuge Kongming, had been famous for his frugality. But his descendants had not devoted their naturally sharp minds solely to scholarship and mechanisms and formations.",
+      "severity": "minor",
+      "source": "가문의 선조인 제갈공명은 검소하기로 이름 높았지만, 그의 후손들은 타고난 좋은 머리를 학문과 기관진식에만 쏟지 않았다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“…”\n\n“Is it really that big?”",
+      "defect": "A single hesitant utterance has been split into two separate dialogue paragraphs.",
+      "id": "F10",
+      "rationale": "The ellipsis and question belong to the same spoken line in the source.",
+      "replacement": "“…Is it really that big?”",
+      "severity": "minor",
+      "source": "“……그 정도야?”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Along with the serious voice that had completely shed its usual warmth, the firmly closed doors slowly opened.",
+      "defect": "“Warmth” changes 웃음기, which means humor, amusement, or a trace of laughter rather than emotional warmth.",
+      "id": "F11",
+      "rationale": "The source contrasts his present seriousness with his usually humorous demeanor, not with personal warmth.",
+      "replacement": "At Zhuge Gyun’s serious voice, now completely devoid of humor, the firmly closed doors slowly opened.",
+      "severity": "minor",
+      "source": "웃음기를 쏙 뺀 진지한 목소리와 함께, 굳게 닫혀 있던 문이 스르륵 열렸다."
+    }
+  ],
+  "summary": "The draft contains two factual alterations involving subject and time quantity, one omitted outburst, an added threat consequence, and several losses of hierarchy, characterization, or source-specific wording.",
+  "version": 1
+}

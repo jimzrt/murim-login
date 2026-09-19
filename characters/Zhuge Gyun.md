@@ -1,8 +1,8 @@
 # Zhuge Gyun (제갈균)
 
-- **Safe through:** Chapter 252
+- **Safe through:** Chapter 444
 - **Aliases:** Divine Marvel Dragon
-- **Role:** Scholar-styled Zhuge Clan martial artist and finalist in the Star-Array Grand Banquet; expressed considerable regret after losing the fifth preliminary assessment on mechanisms and formations, uses a folding-fan technique in the main event, and was completely outclassed and defeated by the disguised Cheongpung, the Invincible Divine Sword.
+- **Role:** Zhuge Gyun is the current Lesser Family Head of the Zhuge Clan, son of its Family Head Zhuge Feng, and a scholar-styled martial artist who was a finalist in the Star-Array Grand Banquet.
 - **Personality:** Analytical, pedantic, and unusually preoccupied with theoretical correctness.
 - **Voice:** Polished, formal, and interrogative, treating insults as subjects for precise analysis.
 - **Relationships:** Rival finalist alongside Baek Woo and Gung Gibang; exchanges restrained arguments with Taekyung.

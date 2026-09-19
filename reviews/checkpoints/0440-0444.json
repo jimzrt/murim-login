@@ -1,0 +1,126 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Que veut-elle dire par là?”\n\n“Was meint sie damit?”",
+      "defect": "Both foreign-language lines use feminine pronouns for Jin Taekyung, contradicting his established gender.",
+      "id": "C01",
+      "rationale": "The multilingual reaction can remain, but its pronouns must refer consistently to the male speaker.",
+      "replacement": "“Que veut-il dire par là?”\n\n“Was meint er damit?”",
+      "severity": "minor",
+      "source": "Chapter 440, international reporters reacting to Taekyung’s remark"
+    },
+    {
+      "confidence": 0.98,
+      "current": "ㅅㅂㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋSibu-leol.",
+      "defect": "The comment leaves Korean profanity initials and laughter characters untranslated in an English-only reading copy.",
+      "id": "C02",
+      "rationale": "This preserves the profane, laughing reaction while matching the localized internet-chat style used elsewhere in the passage.",
+      "replacement": "Fuck, lmaoooooooooo. Sibu-leol.",
+      "severity": "minor",
+      "source": "Chapter 440, first iTube chat comment"
+    },
+    {
+      "confidence": 0.99,
+      "current": "ㅋㅋㅋㅋㅋㅋ Is he even a Hunter, or is he some kind of eccentric?",
+      "defect": "The Korean laughter marker remains untranslated.",
+      "id": "C03",
+      "rationale": "The replacement keeps the casual online voice and makes the line fully readable in English.",
+      "replacement": "Lmaooooooo. Is he even a Hunter, or is he some kind of eccentric?",
+      "severity": "minor",
+      "source": "Chapter 440, iTube chat discussion of Taekyung"
+    },
+    {
+      "confidence": 0.99,
+      "current": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ Lord Sibu-leol is pretty good.",
+      "defect": "The Korean laughter marker remains untranslated.",
+      "id": "C04",
+      "rationale": "The localized laughter matches the surrounding chat register without altering the joke.",
+      "replacement": "Lmaooooooooo. Lord Sibu-leol is pretty good.",
+      "severity": "minor",
+      "source": "Chapter 440, iTube chat discussion of the Lord Sibu-leol nickname"
+    },
+    {
+      "confidence": 0.99,
+      "current": "ㅋㅋㅋㅋㅋㅋㅋㅋ Actually, didn’t King Taekyung say something like that in one of his earlier interviews? He asked people to stop calling him Lord Fuck.",
+      "defect": "The Korean laughter marker remains untranslated.",
+      "id": "C05",
+      "rationale": "This removes the stray Korean script while preserving the conversational cadence and callback.",
+      "replacement": "Lmaooooooo. Actually, didn’t King Taekyung say something like that in one of his earlier interviews? He asked people to stop calling him Lord Fuck.",
+      "severity": "minor",
+      "source": "Chapter 440, iTube chat discussion of Taekyung’s earlier interview"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Wow, this is insane. There are so many people that the cameras can’t even fit them all in the frame ㄷㄷ;",
+      "defect": "The line ends with an untranslated Korean trembling or astonishment emoticon.",
+      "id": "C06",
+      "rationale": "The replacement conveys the same awed reaction in natural English internet speech.",
+      "replacement": "Wow, this is insane. There are so many people that the cameras can’t even fit them all in the frame. I’m shaking.",
+      "severity": "minor",
+      "source": "Chapter 440, iTube chat as the car parade begins"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I know. I know Mom and Oppa worked harder.”",
+      "defect": "The untranslated kinship address is inconsistent with the contemporary English dialogue and sounds like third-person reference despite being addressed directly to Taekyung.",
+      "id": "C07",
+      "rationale": "Direct second-person address is natural in English and preserves the sister’s meaning without an unnecessary untranslated term.",
+      "replacement": "“I know. I know you and Mom worked harder.”",
+      "severity": "minor",
+      "source": "Chapter 440, Taekyung’s sister responding inside the limousine"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Really? Got it, hyung! From today on, I’ll call him Lord Sibu-leol!",
+      "defect": "The untranslated Korean form of address drifts from the otherwise localized English chat voice.",
+      "id": "C08",
+      "rationale": "“Bro” preserves the casual online familiarity without leaving an unexplained Korean address term.",
+      "replacement": "Really? Got it, bro! From today on, I’ll call him Lord Sibu-leol!",
+      "severity": "minor",
+      "source": "Chapter 440, iTube chat adopting the Lord Sibu-leol nickname"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Don’t get angry over pointless stuff, hyungs. Let’s just watch King Taekyung.",
+      "defect": "The plural Korean form of address remains untranslated and is awkward in the localized chat context.",
+      "id": "C09",
+      "rationale": "“Guys” naturally addresses the group while retaining the comment’s conciliatory tone.",
+      "replacement": "Don’t get angry over pointless stuff, guys. Let’s just watch King Taekyung.",
+      "severity": "minor",
+      "source": "Chapter 440, iTube chat urging viewers to return to the broadcast"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Their identity was that of beautiful model women from around the world who had gathered to enjoy a yacht party with me…",
+      "defect": "“Their identity was that of beautiful model women” is stiff, unnatural English that blunts the setup of the visual gag.",
+      "id": "C10",
+      "rationale": "The replacement preserves the imagined scene and ensuing reversal while restoring Taekyung’s brisk conversational voice.",
+      "replacement": "They were beautiful female models from around the world who had gathered to enjoy a yacht party with me…",
+      "severity": "minor",
+      "source": "Chapter 441, transition from the security employee’s fantasy to the Yangtze"
+    },
+    {
+      "confidence": 0.99,
+      "current": "They were a family of wise men skilled in broad scholarship, strategy, and mechanisms and formations.",
+      "defect": "The coordination in “broad scholarship, strategy, and mechanisms and formations” is clumsy and makes the clan’s distinct specialties difficult to parse.",
+      "id": "C11",
+      "rationale": "The revision clearly presents the four fields without changing the clan’s characterization or established terminology.",
+      "replacement": "They were a family of wise men skilled in scholarship, strategy, mechanisms, and formations.",
+      "severity": "minor",
+      "source": "Chapter 444, opening description of the Zhuge Clan’s specialties"
+    },
+    {
+      "confidence": 0.99,
+      "current": "the Bodhidharma’s-skull-water story of Murim.[^1]",
+      "defect": "The phrase misattributes the Korean skull-water anecdote to Bodhidharma even though the referenced figure is Wonhyo.",
+      "id": "C12",
+      "rationale": "Correct attribution is necessary because the punchline and accompanying cultural footnote depend on that specific Korean Buddhist anecdote.",
+      "replacement": "Murim’s own version of Wonhyo’s skull-water epiphany.[^1]",
+      "severity": "major",
+      "source": "Chapter 444, Taekyung describing Jeok Cheongang’s martial strength and seniority"
+    }
+  ],
+  "summary": "The plot summary and active continuity align with chapters 440–444, retain the open hooks, and introduce no obvious spoilers. Actionable issues are concentrated in Chapter 440’s untranslated chat markers and forms of address, with isolated prose and terminology problems in Chapters 441 and 444.",
+  "version": 1
+}
