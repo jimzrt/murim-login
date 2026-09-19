@@ -28,7 +28,7 @@ Did Lord Fuck really die?
 
 Don’t say shit like that.
 
-I’m not trying to be pessimistic. Honestly, at this point, his chances of survival are slim. The golden window for a rescue operation is fifteen minutes, and there hasn’t been a word for over an hour. On top of that, they’re dealing with a Named Monster.
+I’m not saying shit. Honestly, his chances of survival are slim at this point. The critical window for a rescue operation is fifteen minutes, and there hasn’t been a word for over an hour. On top of that, they’re dealing with a Named Monster.
 
 Still, that rescue force was no joke. I’ve never seen so many A-rank Hunters gathered in one place.
 
@@ -94,9 +94,9 @@ Then, in the next moment—
 
 Whoooosh!
 
-The swirling magic field of the Gate began vomiting out several objects.
+The swirling magic field began spitting out figures.
 
-Human arms and legs. Clad in gleaming armor and armed with weapons, they marched out in neat ranks.
+Human arms and legs. Gleaming armor and weapons. The figures marched out in orderly ranks.
 
 They were not monsters, but the Hunters who had entered earlier.
 
@@ -120,11 +120,11 @@ Lee Woojoong, man boobs, whatever—quit blocking the screen and move.
 
 Criticism flooded the chat.
 
-The cameras mounted on the drones avoided Lee Woojoong and filmed the Hunters emerging behind him.
+The cameras mounted on the drones moved past Lee Woojoong and filmed the Hunters emerging behind him.
 
-First came the government-affiliated Hunters from the Association, which had led the operation. Then the cameras captured the Ares Guild members walking out with grim expressions.
+First came the Association Hunters, who belonged to the government and had led the operation. Then the cameras captured the Ares Guild members filing out with grim expressions.
 
-They were carrying a stretcher covered with a large sheet. As it swayed with each step, one blood-soaked hand slipped out from beneath the cloth.
+They were carrying a stretcher covered with a large sheet. As it swayed with each step, a blood-soaked hand slid out from beneath the cloth.
 
 Pop-pop-pop! Click, click!
 
@@ -152,7 +152,7 @@ Everyone stopped what they were doing and stared wide-eyed at one person.
 
 The young man looked around in fascination.
 
-There was no one who did not know the name of the man wearing simple leather armor with a spear strapped to his back.
+No one could have failed to recognize the man in simple leather armor with a spear strapped to his back.
 
 …Isn’t that Jin Taekyung?
 
@@ -180,7 +180,7 @@ Reeling from the completely unexpected dumb joke, the reporter pulled himself to
 
 “So you weren’t dead.”
 
-“Seeing as I’m doing this interview here, it looks like I didn’t.”
+“Seeing as I’m standing here giving an interview, I guess not.”
 
 “Then who was the person on the stretcher that came out earlier?”
 
@@ -292,7 +292,7 @@ And on top of that…
 
 “Another one?”
 
-“I already told you that BCC in the United Kingdom made an offer. They want to invite you as a special guest and said they can give you up to twenty minutes for a live interview.”
+“I already told you about the offer from BCC in the United Kingdom. They want to invite you as a special guest and are willing to give you twenty minutes for a live interview.”
 
 “How special. Seriously.”
 
@@ -310,7 +310,7 @@ I lowered my voice until only Team Leader Choi could hear me.
 
 That was right. This was the most important part.
 
-None of what surrounded me was actually true.
+None of the things being said about me were actually true.
 
 Team Leader Choi spoke with a tense expression.
 
@@ -326,7 +326,7 @@ Inventory. Summon.
 
 At the command I uttered in my mind, a glossy black skull appeared on my palm, making a tremendous racket.
 
-“Who are you calling Warlordmon?! I am the master of the Black Forest and the commander of the great Army of the Dead! I’m a Skeleton Warlord!”
+“Who are you calling Warlordmon?! I am the master of the Black Forest and commander of the great Army of the Dead! I’m the Skeleton Warlord!”
 
 “Warlordmon, forward roll!”
 
