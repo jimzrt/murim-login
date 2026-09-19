@@ -116,7 +116,7 @@ I pulled the spear from my back and answered, “Five o’clock. About thirty ja
 
 “Huh?”
 
-“There are quite a few of them. You should start preparing for the raid.”
+“There are quite a few of them. We should get ready for a fight.”
 
 “G-Get ready?”
 
@@ -126,7 +126,7 @@ I pulled the spear from my back and answered, “Five o’clock. About thirty ja
 
 Won Myunghoon couldn’t finish.
 
-We had spotted a group of more than forty Orcs approaching through the dense undergrowth.
+A group of more than forty Orcs emerged from the dense undergrowth.
 
 “Forty-seven. Should I take care of them?”
 
@@ -134,7 +134,7 @@ We had spotted a group of more than forty Orcs approaching through the dense und
 
 “Hyung?”
 
-At my call, Won Myunghoon jolted as if waking from sleep.
+Won Myunghoon jolted at my call as if waking from a dream.
 
 “Uh, huh?”
 
@@ -148,11 +148,11 @@ At my call, Won Myunghoon jolted as if waking from sleep.
 
 “If any of them try to run, please deal with them.”
 
-I finished speaking, swung the spear shaft around a few times, and walked toward them.
+I twirled the spear a few times and walked toward them.
 
 It was an ordinary iron spear of the sort you could find anywhere, without a single magical enchantment.
 
-*If I use enchanted Equipment for no reason, I’ll have trouble adapting in the Murim.*
+*If I start relying on enchanted Equipment, I’ll have trouble adapting in the Murim.*
 
 Magic was astonishingly convenient and useful.
 
@@ -160,7 +160,7 @@ It might help me right away, but in the long run, relying on it would do more ha
 
 I needed to improve my fundamental skills instead of depending on Equipment if I wanted to handle any crisis that came my way.
 
-*If I take down all of them, maybe I’ll level up once.*
+*If I kill all of them, maybe I’ll level up.*
 
 With that happy thought, I kicked off the ground. The wind split around me, whipping through my hair.
 
@@ -192,7 +192,7 @@ Team Leader 1 let out an involuntary gasp, then hurriedly closed his mouth. Won 
 
 Team Leader 1 cautiously studied Won Myunghoon’s expression before continuing.
 
-“No, but he really is good, isn’t he?”
+“But seriously, he’s a damn good fighter, isn’t he?”
 
 “…What do you mean, good?”
 
@@ -220,7 +220,7 @@ And yet Jin Taekyung was overwhelming them.
 
 Won Myunghoon had already investigated him thoroughly.
 
-Jin Taekyung had been a bottom-tier Hunter branded as defective, someone who had started as an F-Rank and was certain to die as an F-Rank.
+Jin Taekyung had been a bottom-tier Hunter branded as defective, someone who had begun as an F-Rank and seemed destined to die as one.
 
 How could a man who had spent his time fighting goblins in tiny F-Rank Gates do this?
 
@@ -234,7 +234,7 @@ Won Myunghoon snapped out of his thoughts and answered dryly.
 
 “Suspicious?”
 
-“Yes. It’s strange. That Jin Taekyung bastard definitely has something going on.”
+“Yes. This is strange. That Jin Taekyung bastard is definitely hiding something.”
 
 “…”
 
@@ -244,13 +244,13 @@ After a brief silence, Won Myunghoon gave Team Leader 1 a quick account of what 
 
 “Keep your voice down. We’re not the only ones here.”
 
-Team Leader 1 glanced behind him. After checking the Peace Guild members watching the battle with peaceful expressions, as if they had come out for a picnic, he whispered in a voice barely louder than an ant.
+Team Leader 1 glanced behind him. After checking on the Peace Guild members, who were watching the battle as calmly as if they were on a picnic, he lowered his voice to a whisper.
 
 “My God. How did that bastard know? Do you have any idea?”
 
 “It must have been detection magic. It had to be detection magic.”
 
-“What if it wasn’t detection magic?”
+“What if it wasn’t?”
 
 “What?”
 
@@ -296,11 +296,11 @@ Won Myunghoon lightly patted Team Leader 1’s cheek and muttered in a voice dri
 
 “…Yes, sir.”
 
-“Send a few agile guys to find the boss monster. If that doesn’t work, drag over a few Wyverns that look strong enough.”
+“Send a few of the faster guys to find the boss monster. If they can’t, have them lure over a few Wyverns that look strong enough.”
 
 “Understood.”
 
-The moment Team Leader 1 answered with a cowed expression, cheers erupted from somewhere.
+The moment Team Leader 1 answered with a cowed expression, a cheer erupted nearby.
 
 A middle-aged man with a bandit’s beard was jumping up and down like a live fish.
 
@@ -374,7 +374,7 @@ Unable to continue, Im Kkeokjeong’s lips trembled, and he turned his head away
 
 “Yeah. That bastard of a Team Leader was the first to run, and I thought we were all going to die. But you stayed at the rear until the very end and protected the wounded.”
 
-“Was Uncle one of them?”
+“Were you one of them?”
 
 Im Kkeokjeong nodded, his face full of emotion.
 
@@ -410,7 +410,7 @@ First was Team Leader Choi, our main source of funding.
 
 “Your discerning eye is remarkable.”
 
-“…?”
+“…Excuse me?”
 
 “That look in your eyes just now must mean you recognized this *Frozen Eye* around my neck.”
 
@@ -436,7 +436,7 @@ Startled by his greedy stare, Im Kkeokjeong nodded.
 
 “Huh? Uh, yeah.”
 
-“That’s an item that rarely even appears on secondhand markets… Where did you get it?”
+“That Item rarely appears even on secondhand markets… Where did you get it?”
 
 “T-this?”
 
@@ -450,7 +450,7 @@ Sensing a threat to his life, the middle-aged man hurriedly took it off and hand
 
 I nodded.
 
-“I lent it to him. I borrowed it from Myunghoon hyung, though.”
+“I lent it to him. Though I borrowed it from Myunghoon hyung.”
 
 “I see. If you don’t mind, may I examine it for a moment?”
 
