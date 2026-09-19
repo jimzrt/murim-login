@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Honglan identifies herself as the Southern Heaven Demon Empress, serves Lord of Heaven, and confirms that Dark Heaven has many eyes and ears, including Blood Lord's reports.",
+      "defect": "The state drops Honglan’s explicit confirmation that eastern and northern directional counterparts also exist, leaving a revealed Dark Heaven hierarchy hook unrecorded.",
+      "id": "C01",
+      "rationale": "When Taekyung proposes joking eastern and northern sobriquets, Honglan says he has them roughly right despite the different sobriquets. This confirms the counterparts without revealing their identities or titles.",
+      "replacement": "Honglan identifies herself as the Southern Heaven Demon Empress, serves Lord of Heaven, and confirms that Dark Heaven has many eyes and ears, including Blood Lord's reports; she also confirms the existence of eastern and northern counterparts, though their identities and exact sobriquets remain unrevealed.",
+      "severity": "major",
+      "source": "Durable state, active_continuity entry concerning Honglan"
+    },
+    {
+      "confidence": 0.98,
+      "current": "What is the Dongting Fisherman's exact role within Dark Heaven, and how was he connected to the earlier destruction inside the secret refuge?",
+      "defect": "The question treats the Dongting Fisherman’s membership or role within Dark Heaven as established, contradicting the active continuity entry that describes the connection as unresolved.",
+      "id": "C02",
+      "rationale": "The revised question preserves the unresolved suspicion without prematurely confirming that he belongs to Dark Heaven.",
+      "replacement": "What is the Dongting Fisherman's exact role, and is he connected to Dark Heaven and the earlier destruction inside the secret refuge?",
+      "severity": "major",
+      "source": "Durable state, open_questions, Dongting Fisherman entry"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Hubei City Lord",
+      "defect": "This shortens and rearranges the established official title used throughout the reading copies.",
+      "id": "C03",
+      "rationale": "The reading copies consistently use “City Lord of Hubei Province”; retaining that form avoids title drift.",
+      "replacement": "City Lord of Hubei Province",
+      "severity": "minor",
+      "source": "Checkpoint summary, Plot, paragraph 1"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Her military vessel is discovered at Red Cliffs: ninety-four people have killed themselves under her Soul-Seizing Technique, while the surviving officer, Song Ho, is remotely controlled.",
+      "defect": "Calling it Honglan’s vessel implies ownership; it was a government military vessel assigned to transport her.",
+      "id": "C04",
+      "rationale": "The replacement preserves the event while accurately describing Honglan’s relationship to the vessel.",
+      "replacement": "The military vessel that carried her is discovered at Red Cliffs: ninety-four people have killed themselves under her Soul-Seizing Technique, while the surviving officer, Song Ho, is remotely controlled.",
+      "severity": "minor",
+      "source": "Checkpoint summary, Plot, paragraph 2"
+    }
+  ],
+  "summary": "One material hook is missing from the durable state, and one open question turns a suspected Dark Heaven connection into fact. Two summary phrases also drift from the established title and the vessel’s actual ownership.",
+  "version": 1
+}

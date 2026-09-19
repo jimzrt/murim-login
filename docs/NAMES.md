@@ -1576,3 +1576,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 군선 | **military vessel** | Vessel carrying the Hubei government troops and sailors. |
 | 호북성부 | **Hubei provincial government** | Provincial government administration in Hubei. |
 | 묘족 | **Miao people** | Ethnic group the Escort Bureau expects to encounter near Yunnan. |
+| 대장군 | **Great General** | Military title used for the official who claimed credit after the Demonic Cult withdrew. |
+| 정관대전 | **Great Government War** | Jeok Cheongang's joking name for a conflict with the government during the Great Faction War. |
