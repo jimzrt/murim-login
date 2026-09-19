@@ -2,7 +2,7 @@
 
 Dharma King Hong Dao.
 
-He was the Abbot of Shaolin, known as the Mount Tai and Northern Dipper of the Murim, and one of the Ten Kings.
+The Abbot of Shaolin, one of the Ten Kings, and the leader of the sect known as the Mount Tai and Northern Dipper of the Murim had breathed his last.
 
 Here in Henan, of all places—at Shaolin’s doorstep, where the Star-Array Grand Banquet was being held.
 
@@ -12,17 +12,17 @@ Here in Henan, of all places—at Shaolin’s doorstep, where the Star-Array Gra
 
 Sorrow and shock weighed upon everyone gathered there, but my gaze remained fixed on one person.
 
-I spoke toward his back, which had gone rigid as a plaster statue.
+I spoke to the man whose back had gone rigid as a statue.
 
 “Old Master—no, Master.”
 
-Jeok Cheongang, who had been looking down at Hong Dao’s corpse, turned his head.
+Jeok Cheongang turned from Hong Dao’s corpse.
 
-“I’m going to Shaolin.”
+“We’re going to Shaolin.”
 
 His voice boiled like molten lava.
 
-The blade-sharp aura pouring from the entire body of the Fire King, Jeok Cheongang, made it difficult to breathe and prickled my skin.
+The blade-sharp aura pouring from the Fire King made it hard to breathe and prickled against my skin.
 
 Only his eyes were cold and still.
 
@@ -72,29 +72,29 @@ It was a temple and martial sect of such stature that it was only natural to cal
 
 Some even claimed that the Murim itself had begun with the arrival of Bodhidharma.
 
-It was the holy ground of Buddhism and the central seat of martial arts. Even if Shaolin’s power waned, its deep-rooted history and the respect of the people remained unshaken.
+It was the holy ground of Buddhism and the birthplace of martial arts. Even if Shaolin’s power had waned, its deep-rooted history and the people’s reverence for it remained unshaken.
 
 And now a storm of blood was going to descend upon Shaolin Temple.
 
-“W-What do you mean? Hong Dao’s final words? And who would dare to—”
+“W-What do you mean? Hong Dao’s final words? Who would dare attack Shaolin—”
 
-“Hah!”
+“Enough!”
 
 Kwoooong!
 
 Jeok Cheongang’s roar jolted everyone back to their senses. The Thunderbolt Saber King stopped rambling and clamped his mouth shut.
 
-“Dark Heaven. They’ve begun to move. If this old man’s guess is correct, we’ll eventually see Jongni Chu—that bastard who deserves to be torn apart—in Shaolin as well.”
+“Dark Heaven. They’ve begun to move. If this old man’s suspicions are correct, we’ll find Jongni Chu—that bastard who deserves to be torn apart—at Shaolin as well.”
 
 “Dark Heaven…!”
 
-Several leaders, including the Thunderbolt Saber King, opened their eyes wide. Judging by their reactions, they had clearly received at least some warning already.
+Several leaders, including the Thunderbolt Saber King, stared wide-eyed. Judging by their reactions, they had clearly received at least some warning about Dark Heaven already.
 
 “Do you understand now why every moment counts?”
 
-Jeok Cheongang turned away from the Thunderbolt Saber King and swept his deeply sunken gaze across the gathering.
+Jeok Cheongang turned from the Thunderbolt Saber King and swept his sunken gaze over the gathering.
 
-“Do exactly as I have said. That is Hong Dao’s final will.”
+“Do exactly as I have said. That was Hong Dao’s final wish.”
 
 There was no time left to waste. Jeok Cheongang and I exchanged a glance, unleashed our movement techniques, and left the area simultaneously.
 
@@ -104,7 +104,7 @@ As I raced through the fierce wind, something cold touched my cheek.
 
 The sky was clear and cloudless. There was no sign of rain.
 
-But the eyes of someone running after losing a friend and postponing his revenge must have been brimming with tears.
+But tears must have gathered in the eyes of the man racing onward after losing his friend, forced to postpone his revenge.
 
 *No. It’s rainwater.*
 
@@ -114,7 +114,7 @@ But the eyes of someone running after losing a friend and postponing his revenge
 
 I clenched my teeth as I thought of Jongni Chu.
 
-*I have a feeling today is going to be a long day.*
+I had a feeling it was going to be a long day.
 
 * * *
 
@@ -166,13 +166,13 @@ They were the answer I had been waiting for.
 
 “……”
 
-“It would not have been strange if his breath had already stopped. He held on only to deliver those words to me.”
+“He was in such a state that it would not have been strange for him to die before we arrived. He endured solely to deliver those words to me.”
 
 Jeok Cheongang’s voice trembled faintly, then settled again.
 
 “What do you think?”
 
-“It’s as you suspected, Old Master.”
+“The same as you, Old Master.”
 
 “It is only a suspicion, not a certainty. Tell me everything. Leave nothing out.”
 
@@ -202,11 +202,11 @@ Jeok Cheongang nodded.
 
 “The Green Jade Buddha Staff?”
 
-A scene suddenly came to mind from the day Jeok Cheongang and Hong Dao had reunited after a long time and chatted with laughter.
+A scene came to mind from the day Jeok Cheongang and Hong Dao had reunited after so long, laughing and trading insults.
 
 *“What choice did they have? They were the ones who forced the Abbot’s seat on someone who said he didn’t want it.”*
 
-*“The Green Jade Buddha Staff. To entrust a sacred treasure of thousand-year-old Shaolin—one with such immense authority—to a damn monk like this… They must all have been completely blind.”*
+*“The Green Jade Buddha Staff. To entrust a sacred treasure of thousand-year Shaolin, a symbol of such immense authority, to a damn monk like this… They must all have been completely blind.”*
 
 The staff Hong Dao had taken from his robes that day had been absurdly short, its smooth surface gleaming with a faint green light.
 
@@ -226,21 +226,21 @@ The exclamation escaped me before I could stop it. A realization flashed through
 
 Hong Dao’s final words, wrung from him with the last of his strength.
 
-The reason Jeok Cheongang had turned toward Shaolin, postponing even the revenge for his dearest friend.
+The reason Jeok Cheongang had turned toward Shaolin, postponing even the revenge of his dearest friend.
 
 “The Green Jade Buddha Staff!”
 
 “Exactly.”
 
-Jeok Cheongang’s low voice continued.
+Jeok Cheongang’s somber voice continued.
 
-“Dark Heaven’s true objective is not Hong Dao’s death. It is the seizure of the Green Jade Buddha Staff.”
+“Dark Heaven’s true objective was not Hong Dao’s death. They want to seize the Green Jade Buddha Staff.”
 
 Now everything was clear.
 
-Jongni Chu—or rather, Dark Heaven—clearly wanted Shaolin’s sacred treasure.
+Jongni Chu—or rather, Dark Heaven—wanted Shaolin’s sacred treasure.
 
-Hong Dao had squeezed out the last of his strength to leave those final words and reveal that fact.
+Hong Dao had squeezed out the last of his strength to reveal that fact.
 
 Now that Dark Heaven knew the Green Jade Buddha Staff was not in Hong Dao’s possession, even a three-year-old could tell where they would go next.
 
@@ -252,7 +252,7 @@ As I recalled Jeok Cheongang’s warning to the Thunderbolt Saber King, my thoug
 
 “Huff, hoo…”
 
-Tap-tap-tap-tap!
+Dadadadak!
 
 Ragged breaths. Feet pounding without pause.
 
@@ -266,7 +266,7 @@ Tall, with his hair neatly arranged, he looked at first glance like a retired sc
 
 “The weather is lovely. Why not slow down and enjoy the scenery?”
 
-The middle-aged man’s throat bobbed heavily.
+The middle-aged man’s throat bobbed.
 
 His voice emerged taut with tension.
 
@@ -286,21 +286,21 @@ The old man’s eyes widened before he let out a quiet laugh.
 
 “You have quite a fiery temper, young friend. Still, you’re much better than the people I met earlier. They were far too busy lying.”
 
-“You met people earlier… Don’t tell me?”
+“The people you met earlier… Don’t tell me…”
 
-“A woodcutter, an herb gatherer. Why are there so many kinds of gatherers around here? Ah, the pair who disguised themselves as husband and wife to pray for a child were at least convincing. I almost fell for them myself.”
+“A woodcutter and an herb gatherer. So many people plying trades around here. Ah, the man and woman pretending to be a married couple who had come to pray for a child were rather convincing. They nearly fooled even me.”
 
 “……!”
 
-“So I killed every last one of them, martial artists and commoners alike. It seemed much easier that way.”
+“So I killed them all—martial artists and commoners alike. It seemed much simpler that way.”
 
 The middle-aged man trembled as if struck by lightning.
 
 There could be no doubt. His companions, who had scattered in every direction to deliver the urgent report, were already dead.
 
-He would probably suffer the same fate soon.
+He would soon share their fate.
 
-*At least I should be grateful that my death will not be meaningless.*
+*At least my death won’t be meaningless.*
 
 Those on the ground had been caught in the net.
 
@@ -312,7 +312,7 @@ Screeeeech!
 
 A strange, piercing cry rang out as something black swooped down upon the messenger eagle.
 
-It was three or four times larger at a glance. The battle between the two birds that collided in midair ended far too quickly to leave any hope.
+Even at a glance, it was three or four times larger. The battle between the two birds ended with despairing speed.
 
 Kreeee!
 
@@ -330,9 +330,9 @@ The old man stroked his beard and raised the corners of his mouth.
 
 “But I find that ‘outraged heaven and man’ remark rather unpleasant. What do you think?”
 
-“You dare do something like this and still—”
+“You dare commit such atrocities and still—”
 
-The middle-aged man opened his bloodshot eyes wide and was about to shout when the old man shook his head.
+Just as the middle-aged man opened his bloodshot eyes wide and began to shout, the old man shook his head.
 
 “No, not you.”
 
@@ -362,7 +362,7 @@ A foot came down upon the middle-aged man’s head, crushing the lump of charcoa
 
 The rough voice belonged to a thickset old man. His beard had grown wild and, strangely enough, was red.
 
-At the appearance of an old friend who had been with him for decades, the old man who looked like a scholar smiled faintly.
+At the appearance of the old friend he had known for decades, the scholar-like Han Su smiled.
 
 “I was just about to wrap things up and leave. How are things up the mountain?”
 
