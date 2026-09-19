@@ -1,6 +1,6 @@
 # Zhuge Gonghu (제갈공후)
 
-- **Safe through:** Chapter 308
+- **Safe through:** Chapter 444
 - **Aliases:** None
 - **Role:** Former Chief Strategist of the Murim Alliance; a Supreme Peak martial artist known for immortal arts and outstanding formation techniques, one of the Ten Kings and a member of the Three Saints; deceased for more than ten years
 - **Personality:** Not established.
