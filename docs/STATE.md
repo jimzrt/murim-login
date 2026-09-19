@@ -1,21 +1,21 @@
 # Translation State
 
-- Last completed: 455
-- Next chapter: 456
-- Current block: 455–459 (1/5)
-- Latest translation: `translations/0455.md`
-- Latest summary: `summaries/beats/0455.md`
-- Safe profiles through: chapter 455
+- Last completed: 456
+- Next chapter: 457
+- Current block: 455–459 (2/5)
+- Latest translation: `translations/0456.md`
+- Latest summary: `summaries/beats/0456.md`
+- Safe profiles through: chapter 456
 
 ## Current Block
 
-- Jin Taekyung interrogates the captured Three Fiends in the Zhuge Clan's underground prison but learns only that the three brothers followed orders under the Demon Lord and supposedly know nothing about Dark Heaven's headquarters or other operations. Taekyung keeps the fiend alive for possible transport to Henan. Beggars' Sect intelligence fails to locate the Hubei attackers, but Lower District Sect records show that the Dongting Fisherman remains in Hubei Province. After Cheongpung and Hyuk Mujin return with those records, Taekyung decides to stop at Dongting Lake before the party departs.
+- Taekyung and Zhuge Gyun conclude that the Dongting Fisherman may still be hiding in Hubei Province and may be one of Dark Heaven's culprits. They suspect the massacres of the Sea Serpent Society and three Yangtze River Channel League strongholds were a diversion before a larger attack targeting a sacred treasure or a major orthodox sect or family. Zhuge Gyun agrees to coordinate the Zhuge Clan's intelligence with the Beggars' Sect and Lower District Sect, while Taekyung orders warnings sent to Wudang and Donghu Stronghold. The Zhuge Clan's own sacred treasures have all been lost, destroyed, or reduced to a broken four-wheeled cart. Taekyung leaves for Dongting Lake with Cheongpung carrying the chained and acupoint-sealed Three Fiends, intending to investigate whether the prisoner bears Dark Heaven codes or markings. After traveling through the night and carrying the exhausted Hyuk Mujin, the party reaches Wuhan, where they hear that a boat has sunk in Dongting Lake.
 
 ## Open Questions
 
 - What are the origin and purpose of the symbols shared by the Arch Lich's magic circle and Dark Heaven's formations?
-- Who destroyed Donghu Stronghold and the related Yangtze River Channel League strongholds, and why was no Moving Formation trace left behind?
-- Is the Dongting Fisherman a member of Dark Heaven, and what role did he play in the Hubei atrocities?
+- Who destroyed Donghu Stronghold and the related Yangtze River Channel League strongholds, why was no Moving Formation trace left, and was the destruction a diversion?
+- Is the Dongting Fisherman a member of Dark Heaven, what role did he play in the Hubei atrocities, and who sank the boat in Dongting Lake?
 - Is the killer demon attacking Wudang connected to Dark Heaven?
 - What evidence is contained in Lee Jungryong's holographic recorder, and what are the terms of the Peace Guild–Wizard Guild agreement?
 

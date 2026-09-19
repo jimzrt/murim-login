@@ -1523,3 +1523,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 응성상회 | **Eungseong Merchant Association** | Merchant association represented in the Qingxia Hall entourage. |
 | 천룡인 | **Celestial Dragon** | Taekyung's mocking label for a privileged imperial noble. |
 | 홍란 | **Honglan** | Stage name of Ju Wongong's Lower District Sect singing courtesan; her real name is concealed. |
+| 무한 | **Wuhan** | Capital of Hubei Province near Dongting Lake. |
+| 사륜차 | **Four-Wheeled Cart** | Zhuge Wuhou's former vehicle and one of the Zhuge Clan's claimed sacred treasures. |
+| 병법이십사편 | **Twenty-Four Chapters on the Art of War** | Zhuge Wuhou's compilation of military insights. |
+| 백우선 | **White Feather Fan** | Zhuge Wuhou's former fan and one of the Zhuge Clan's claimed sacred treasures. |

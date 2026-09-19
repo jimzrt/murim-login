@@ -1,6 +1,6 @@
 # Baek Woo (백우)
 
-- **Safe through:** Chapter 250
+- **Safe through:** Chapter 456
 - **Aliases:** Kunlun Cloud Dragon
 - **Role:** Kunlun Daoist martial artist and finalist in the Star-Array Grand Banquet; Taekyung sent him plummeting during the third preliminary assessment after stepping on his face.
 - **Personality:** Fastidious, easily offended, and self-righteous about propriety.
