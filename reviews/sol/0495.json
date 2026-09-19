@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“It seems the amount of bone and scales from the imugi is less than expected. Perfected Being Hyeongong says you should come take a look yourself.”",
+      "defect": "The draft incorrectly attributes the suggestion to Perfected Being Hyeongong. Hyuk Mujin himself says that Taekyung should inspect the shortage.",
+      "id": "F01",
+      "rationale": "The second sentence has no reference to Hyeongong; 조장님께서 직접 가 보셔야 할 것 같은데요 is Hyuk Mujin’s assessment.",
+      "replacement": "“It seems there are fewer bones and scales from the imugi than expected. I think you should come take a look yourself.”",
+      "severity": "major",
+      "source": "이무기의 뼈와 비늘의 양이 생각보다 적은 모양입니다. 조장님께서 직접 가 보셔야 할 것 같은데요."
+    },
+    {
+      "confidence": 0.99,
+      "current": "If I piled everything I had smuggled away in one place, it would be big enough to steam and eat an entire decent-sized manor.",
+      "defect": "The idiom 찜 쪄 먹다 has been translated literally, producing a nonsensical physical action. Here it means that the pile would easily surpass or dwarf a manor in size.",
+      "id": "F02",
+      "rationale": "The source compares the stolen materials’ enormous volume with the size of a manor; it does not describe steaming or eating the building.",
+      "replacement": "If I piled everything I had smuggled away in one place, it would be large enough to dwarf a decent-sized manor.",
+      "severity": "major",
+      "source": "그렇게 빼돌린 걸 전부 한 자리에 쌓아 놓는다면 어지간한 장원도 찜 쪄 먹을 만한 크기일 거다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "> **Item Window**\n>\n> **Water God Dragon’s Bones**",
+      "defect": "The game interface is not headed with the required System label.",
+      "id": "F03",
+      "rationale": "This is an actual System item panel, so the binding Markdown rules require the blockquote window to begin with **System** while preserving the Item Window title.",
+      "replacement": "> **System**\n>\n> **Item Window**\n>\n> **Water God Dragon’s Bones**",
+      "severity": "minor",
+      "source": "아이템창\n\n[수신룡의 뼈]"
+    },
+    {
+      "confidence": 0.93,
+      "current": "If the bones and scales were the lotto and the flesh was an annuity lottery, this was an American Super Bowl with a jackpot on an entirely different scale.",
+      "defect": "The draft turns the final comparison into the American football championship, which has no jackpot and breaks the sequence of lottery analogies.",
+      "id": "F04",
+      "rationale": "The surrounding 로또, 연금복권, 당첨금 language establishes that 아메리카 슈퍼볼 refers to a giant American jackpot lottery, not the sporting event.",
+      "replacement": "If the bones and scales were Lotto and the flesh an annuity lottery, this was the American Powerball, with a jackpot on an entirely different scale.",
+      "severity": "major",
+      "source": "뼈와 비늘이 로또요, 살점이 연금복권이라면 이건 당첨금의 사이즈가 다른 아메리카 슈퍼볼이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "> **Item Window**\n>\n> **Water God Dragon’s Origin Essence**",
+      "defect": "The second game interface is also missing the required System heading.",
+      "id": "F05",
+      "rationale": "This item appraisal is a separate System window and must independently begin with the prescribed **System** heading.",
+      "replacement": "> **System**\n>\n> **Item Window**\n>\n> **Water God Dragon’s Origin Essence**",
+      "severity": "minor",
+      "source": "아이템창\n\n[수신룡의 원정]"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Though damaged by magic, it is a type of inner core extracted according to the Water God Dragon’s will.",
+      "defect": "마력 is rendered as the process or concept “magic” rather than the modern Hunter-system energy “mana,” obscuring the established mechanism of the core’s damage.",
+      "id": "F06",
+      "rationale": "The binding terminology distinguishes modern mana from Murim qi; the Water God Dragon was damaged by mana leaking from the Gate.",
+      "replacement": "Though damaged by mana, it is a type of inner core extracted according to the Water God Dragon’s will.",
+      "severity": "major",
+      "source": "마력에 의해 손상되었으나 수신룡의 의지에 따라 추출된 내단의 일종이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "It had been contaminated by magic, so it was probably inferior to the amount of qi the Water God Dragon had originally possessed. Even so, it was still immense.",
+      "defect": "The repeated 마력 reference is again rendered as “magic” instead of the established energy term “mana.”",
+      "id": "F07",
+      "rationale": "The source contrasts the contaminating mana with the Water God Dragon’s original qi; preserving that distinction is mechanically important.",
+      "replacement": "It had been contaminated by mana, so it was probably inferior to the amount of qi the Water God Dragon had originally possessed. Even so, it was still immense.",
+      "severity": "major",
+      "source": "마력에 오염되었던 탓에 수신룡이 원래 가지고 있던 기운의 크기보다는 못하겠지만, 그래도 엄청난 것은 매한가지다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "After losing five points of my precious stats to the aftereffects of Seven-Step Soul-Chasing Powder and then shitting myself because of the Severe Stomachache, a thought had crossed my mind.",
+      "defect": "The draft halves the stated stat loss from ten points to five.",
+      "id": "F08",
+      "rationale": "The source explicitly states 10포인트. Taekyung lost five Strength and five Agility, for ten stat points in total.",
+      "replacement": "After losing ten points of my precious stats to the aftereffects of Seven-Step Soul-Chasing Powder and then shitting myself because of the Severe Stomachache, a thought had crossed my mind.",
+      "severity": "critical",
+      "source": "칠보추혼산의 후유증으로 피 같은 능력치가 10포인트가 깎여 나가고, 심각한 복통으로 똥을 지리고 나니 뇌리에 스치는 생각이 있었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Yes. Already old.”",
+      "defect": "The fragment leaves the subject unclear and can be read as another observation about the tiger, weakening Jeok Cheongang’s self-directed realization.",
+      "id": "F09",
+      "rationale": "After first telling the tiger that it too is old, Jeok’s dark mood and the following contrast establish this as an acknowledgment of his own aging.",
+      "replacement": "“Yes. I’ve already grown old.”",
+      "severity": "major",
+      "source": "“그래, 이미 늙어 버렸어.”"
+    }
+  ],
+  "summary": "Eight actionable findings: one incorrect quantity, two altered subjects or references, two mana terminology errors, one mistranslated size idiom, and two System-panel formatting defects.",
+  "version": 1
+}

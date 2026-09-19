@@ -1605,3 +1605,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 칠보추혼산 | **Seven-Step Soul-Chasing Powder** | Named extreme poison used in Mungyeong's training test. |
 | 강력한 칠보추혼산 | **Potent Seven-Step Soul-Chasing Powder** | Strengthened System form of Seven-Step Soul-Chasing Powder. |
 | 심각한 복통 | **Severe Stomachache** | Temporary System status abnormality caused by the poison. |
+| 아나스타샤 | **Anastasia** | Name invoked in Taekyung's exclamation. |
+| 김전일 | **Kindaichi** | Reference to the fictional detective. |
