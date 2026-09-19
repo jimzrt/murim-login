@@ -1,18 +1,18 @@
 # Chapter 215
 
-Wyvern.
+Wyverns.
 
 One of the high-tier monsters classified as dragonkin, along with drakes.
 
-Its body was larger than an airplane’s, its hide was tough, and its intelligence was high enough for it to use magic.
+They possessed bodies larger than airplanes, hides as tough as armor, and enough intelligence to wield magic.
 
-It possessed enough power to be called a small dragon without exaggeration.
+They were powerful enough to be called small dragons without exaggeration.
 
 The creature I had encountered three years ago was something that could not—and should not—have emerged from an E-Rank Gate.
 
 *“Kyaaaaaaar!”*
 
-I opened my eyes at the monster’s roar, echoing in the distance.
+I opened my eyes as the monster’s roar echoed through my mind.
 
 Instead of a dark, humid cave, I saw a clear sky and the familiar faces of my Guild members.
 
@@ -42,7 +42,7 @@ Im Kkeokjeong leaned close and whispered in my ear, “You bastard. How the hell
 
 “No, it was insane. The moment I heard it, electricity shot through my whole body.”
 
-Was it really that effective?
+Was it really that powerful?
 
 My mind had been completely blank, so I’d just blurted out the first thing that came to me.
 
@@ -52,7 +52,7 @@ But judging by Song-i, who had frozen like someone struck by lightning, it did s
 
 Meanwhile, the throbbing in my temples and the nausea in my stomach had both subsided.
 
-Just as I was taking a deep breath, the door of the limousine bus we had been riding in opened, and someone appeared.
+Just as I took a deep breath, the door of our limousine bus opened and a man appeared.
 
 “Everyone’s here. But…”
 
@@ -74,7 +74,7 @@ Team Leader Choi answered firmly, then turned toward me.
 
 “It is. Won Myunghoon’s beside him, so it’s definitely him.”
 
-“Take pictures quickly. Get ready to interview him in a little while.”
+“Start taking pictures. Get ready to interview him afterward.”
 
 Team Leader Choi, Won Myunghoon, and I moved toward a secluded corner.
 
@@ -92,11 +92,11 @@ Once their persistent attention finally drifted away, Team Leader Choi spoke wit
 
 “Here. It’s stated clearly.”
 
-Won Myunghoon hurriedly examined the contract Team Leader Choi handed him. His face twisted violently.
+Won Myunghoon hurriedly examined the contract Team Leader Choi handed him. His face twisted.
 
 “That bastard, the leader of Team One.”
 
-Judging by his reaction, there seemed to have been a mistake somewhere along the way.
+Judging by his reaction, there had been a mistake somewhere along the way.
 
 After muttering several curses—unusual for him—Won Myunghoon spoke with an awkward expression.
 
@@ -110,7 +110,7 @@ Team Leader Choi continued in a dry voice.
 
 “What?”
 
-“This isn’t just any Gate. It’s an A-Rank Gate. Entering without perfect preparation could lead to an accident. And…”
+“This isn’t just any Gate. It’s an A-Rank Gate. Entering without proper preparation could lead to an accident. And…”
 
 Team Leader Choi trailed off for a moment, his gaze flicking toward me.
 
@@ -118,11 +118,11 @@ He had already investigated my past.
 
 He knew I was the sole survivor of the Sangdong Station Mutated Gate incident three years ago. He also knew I was still suffering from the aftereffects.
 
-“Wyverns are still too much for our Guild members. We appreciate the offer, but I think it would be best for both sides if we withdrew here.”
+“Wyverns are still too much for our Guild members. We appreciate the offer, but I think it would be best for both sides if we withdrew.”
 
 “Team Leader!”
 
-Despite Won Myunghoon’s flustered cry, Team Leader Choi’s attitude remained as sharp as a blade.
+Despite Won Myunghoon’s flustered cry, Team Leader Choi’s stance remained firm.
 
 “Wyverns are out of the question. At least for now.”
 
@@ -146,7 +146,7 @@ They had clearly sensed the tension and were coming over to investigate.
 
 Before Team Leader Choi could say anything, I quickly cut him off.
 
-“It’s not that I particularly care about the articles. It’s just that I’m all right now.”
+“Not that I particularly care about the articles. I’m saying this because I’m fine now.”
 
 “Are you sure?”
 
@@ -234,7 +234,7 @@ Won Myunghoon flashed his white teeth in a grin.
 
 “Seriously?”
 
-“It’ll take at least half a day to encounter a wyvern, or a full day if we’re unlucky. Enjoy the scenery while you can.”
+“It’ll take at least half a day to encounter one, or a full day if we’re unlucky. Enjoy the scenery while you can.”
 
 I had known higher-level Gates were larger, but I hadn’t expected anything on this scale. I shook my head in disbelief.
 
@@ -244,7 +244,7 @@ I had known higher-level Gates were larger, but I hadn’t expected anything on 
 
 “I don’t know about that.”
 
-I probably wouldn’t.
+I probably never would.
 
 To me, a Gate had long since stopped being a grueling, tedious workplace. It was a place where I could grow even stronger.
 
@@ -276,15 +276,15 @@ Ding.
 > - You have equipped **Yeti’s Necklace**.
 > - A wind from the snowy plains flows from the necklace.
 
-At the same time as the System notification, a chill cold enough to send shivers down my spine wrapped around my entire body.
+The instant the notification appeared, a chill cold enough to send shivers down my spine enveloped my entire body.
 
 “It works well.”
 
 “It looks good on you. Keep it on from now on. I need to go deploy the scouting team.”
 
-Won Myunghoon smiled with satisfaction and strode away. The moment his back disappeared from view, I took off the necklace.
+Won Myunghoon smiled with satisfaction and strode away. The moment he disappeared from view, I took off the necklace.
 
-*I told him I’m really fine.*
+*I told him I was fine.*
 
 Won Myunghoon might have taken my words for modesty, but I’d only been stating a fact.
 
@@ -332,7 +332,7 @@ Life returned to his exhausted face. Just as Im Kkeokjeong beamed at me—
 
 A piercing shriek rang out from somewhere.
 
-The birds hiding in the dense forest burst into flight, and branches and leaves came crashing down over everyone’s heads like a torrential downpour.
+Birds hidden within the dense forest burst into flight, and branches and leaves rained down over everyone’s heads.
 
 But no one, including me, paid them any attention.
 

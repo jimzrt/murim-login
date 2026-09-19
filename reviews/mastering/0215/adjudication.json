@@ -1,0 +1,536 @@
+{
+  "chapter": 215,
+  "decisions": [
+    {
+      "decision": "BASE",
+      "hunk_id": "H001",
+      "reason": "SOL changes the singular generic wyvern into a plural, while the following description and reference concern one creature."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H002",
+      "reason": "SOL changes the singular subject to plural and adds an unsupported armor comparison; BASE preserves the tough outer hide."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H003",
+      "reason": "SOL again changes the source's singular creature and power into plural forms."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H004",
+      "reason": "SOL changes a roar echoing in the distance into one echoing through Jin's mind."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H005",
+      "reason": "SOL keeps the familiar Guild members and the visual reveal in natural English."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H006",
+      "reason": "SOL keeps the source's action of relaxing a rigid expression in more natural prose."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H007",
+      "reason": "SOL preserves the concern and folds the following healing-spell question into the same natural sentence."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H008",
+      "reason": "SOL correctly deletes this line because the healing-spell question is retained in H007."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H009",
+      "reason": "SOL preserves the weak smile and naturally incorporates the following flirtatious line."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H010",
+      "reason": "SOL correctly deletes this line because its dialogue is retained in H009."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H011",
+      "reason": "SOL correctly deletes this attribution because it is incorporated into H012."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H012",
+      "reason": "SOL retains the attribution and the profanity while improving the dialogue flow."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H013",
+      "reason": "The Korean asks whether the line was effective, not whether it was powerful; BASE preserves that effect-related meaning."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H014",
+      "reason": "SOL keeps the blank-minded narration and the impulsive act of blurting out the first thought."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H015",
+      "reason": "SOL preserves Song-i freezing like someone struck by lightning; rigidly is not required for the meaning."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H016",
+      "reason": "SOL keeps both physical symptoms subsiding in clean, natural narration."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H017",
+      "reason": "SOL unnecessarily specifies that the person was a man; the Korean says only that a person appeared."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H018",
+      "reason": "Here is a natural conversational rendering of everyone having arrived."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H019",
+      "reason": "SOL preserves the unusual tense atmosphere and the turn toward Team Leader Choi; the following question supplies the speech act."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H020",
+      "reason": "SOL keeps the seriousness and need to talk in appropriately spoken dialogue."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H021",
+      "reason": "You too naturally preserves the request that Jin join the conversation."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H022",
+      "reason": "Where's the Peace Guild preserves the question about their absence in natural dialogue."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H023",
+      "reason": "SOL is an equivalent conversational rendering with natural punctuation."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H024",
+      "reason": "SOL preserves the identification and Won Myunghoon's proximity in idiomatic speech."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H025",
+      "reason": "SOL changes 잠시 후에, meaning shortly, into afterward and loses the source's timing cue."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H026",
+      "reason": "SOL preserves the reporters' and Hunters' intense attention and the resulting burning sensation naturally."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H027",
+      "reason": "SOL retains the persistent attention finally drifting away and Team Leader Choi's grim expression."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H028",
+      "reason": "SOL keeps the sudden location-change question in concise spoken English."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H029",
+      "reason": "SOL is a natural conversational repetition of the misunderstanding."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H030",
+      "reason": "SOL preserves the request for the contract; the politeness hedge is not necessary in English."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H031",
+      "reason": "SOL drops the sudden, violent force of 와락 일그러졌다; BASE preserves the face twisting dramatically."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H032",
+      "reason": "SOL removes the narrator's inference hedge and states the mistake as definite."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H033",
+      "reason": "SOL preserves both the unusual cursing and Won Myunghoon's awkward expression."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H034",
+      "reason": "SOL keeps the dry continuation of Team Leader Choi's speech naturally."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H035",
+      "reason": "Proper preparation weakens the source's 완벽한 준비, which means perfect preparation."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H036",
+      "reason": "SOL preserves the trailing-off speech and brief gaze toward Jin."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H037",
+      "reason": "SOL keeps both facts about the past incident and its continuing aftereffects."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H038",
+      "reason": "SOL drops the source's 여기서, the explicit sense of withdrawing at this point or here."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H039",
+      "reason": "SOL reduces the blade-sharp attitude to mere firmness and drops the source's sharp image."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H040",
+      "reason": "Wyverns are out of the question naturally conveys that wyverns cannot be attempted now."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H041",
+      "reason": "SOL preserves Jin's abrupt intervention after silently observing the situation."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H042",
+      "reason": "SOL keeps the online coverage, gathered reporters, and concern about public speculation."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H043",
+      "reason": "SOL preserves the two men standing side by side as Jin looks past them."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H044",
+      "reason": "SOL retains the cameras, careful watching, and reporters edging closer."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H045",
+      "reason": "One hell of a nose for a story keeps the source's vivid, amused exaggeration."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H046",
+      "reason": "Tension is a natural rendering of the unusual atmosphere in this context and preserves the reporters' motive."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H047",
+      "reason": "SOL keeps Jin quickly cutting Team Leader Choi off."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H048",
+      "reason": "SOL shifts the causal meaning from being fine as the reason to proceed to explaining why Jin is saying this."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H049",
+      "reason": "Fine preserves the source's repeated contrast with being all right while retaining the nightmare and memories."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H050",
+      "reason": "SOL keeps pretending nothing happened and continuing through another identical day."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H051",
+      "reason": "SOL preserves Jin's confidence and his status as both a Peak master and A-Rank Hunter."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H052",
+      "reason": "SOL keeps the long stare followed by a deep sigh."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H053",
+      "reason": "Doorway is a natural rendering of the mana entrance and preserves its ominous rippling appearance."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H054",
+      "reason": "SOL retains the recording cameras, incessant flashes, both Guilds, and the joint raid."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H055",
+      "reason": "The singular notification naturally introduces the single System panel that follows and preserves the causal sequence."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H056",
+      "reason": "SOL preserves the System notice and makes the clearing condition explicit without changing the Reward."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H057",
+      "reason": "Heavy full plate armor naturally conveys the thick, solid armor in context."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H058",
+      "reason": "SOL preserves the combined Guild membership, the group size, and the widespread sweating in vivid prose."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H059",
+      "reason": "Hardly surprising naturally conveys that the conditions make the sweating understandable."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H060",
+      "reason": "SOL keeps the endless jungle, towering trees, bizarre plants, and blazing sun."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H061",
+      "reason": "SOL preserves the suffocating sight and the hotter, more humid-than-a-sauna air."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H062",
+      "reason": "Out of a dinosaur documentary is an idiomatic equivalent of the source image."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H063",
+      "reason": "The weather aside preserves the contrast between oppressive conditions and spectacular scenery."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H064",
+      "reason": "SOL keeps the involuntary exclamation and the shoulder tap in natural sequential prose."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H065",
+      "reason": "Pretty relaxed, aren't you? preserves the teasing observation in spoken English."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H066",
+      "reason": "Up front is a natural conversational rendering of being at the head of the formation."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H067",
+      "reason": "SOL preserves the lead, middle, and rear positions with idiomatic formation language."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H068",
+      "reason": "The response remains clearly tied to Jin's preceding question and keeps Won Myunghoon's grin."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H069",
+      "reason": "SOL preserves the contrast between everyone struggling and the carefree man sightseeing, with matching banter."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H070",
+      "reason": "SOL retains the minor monsters, cliff and peak nests, and the distance from the wyverns."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H071",
+      "reason": "The source explicitly repeats Wyvern; SOL replaces the established monster term with an ambiguous pronoun."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H072",
+      "reason": "SOL preserves the unexpected scale of the larger Gate in natural narration."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H073",
+      "reason": "SOL keeps the scenery's impressiveness and the full-week raid-access explanation in conversational dialogue."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H074",
+      "reason": "SOL preserves that the extended access reflects the time required and that repeated A-Rank raids become tiresome."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H075",
+      "reason": "I don't know about that naturally conveys Jin's mild disagreement."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H076",
+      "reason": "SOL changes the source's hedged probably would not into the stronger claim probably never would."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H077",
+      "reason": "Grueling, tedious workplace preserves the Gate's exhausting and monotonous characterization."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H078",
+      "reason": "SOL keeps the odd look and subsequent handoff in natural prose."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H079",
+      "reason": "Hold on to this naturally conveys the instruction to keep the necklace."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H080",
+      "reason": "SOL preserves the necklace description and the continuation into Won Myunghoon's explanation."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H081",
+      "reason": "SOL keeps the cold enchantment, delayed Stamina drain, and need to conserve a key combatant's strength."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H082",
+      "reason": "SOL preserves the distinction between lending and giving and the instruction to return the item."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H083",
+      "reason": "SOL keeps the immediate impression that the necklace is very expensive."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H084",
+      "reason": "SOL preserves Jin's hesitation, Won Myunghoon's urging, and his lack of choice."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H085",
+      "reason": "SOL drops the established System label from the notification."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H086",
+      "reason": "SOL preserves the compliment, instruction to keep wearing it, and scouting-team deployment."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H087",
+      "reason": "SOL replaces the specific image of Won Myunghoon's back disappearing with the broader claim that he disappeared."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H088",
+      "reason": "SOL drops the source's emphasis that Jin had told him he was really fine."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H089",
+      "reason": "SOL preserves the inference that Won Myunghoon mistook a factual statement for modesty."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H090",
+      "reason": "SOL retains the Murim, both vessels, and the acquisition of something superior to Yeti's Necklace."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H091",
+      "reason": "SOL uses the established glossary rendering Unaffected by Cold and Heat."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H092",
+      "reason": "SOL preserves the complete absence of sweat and the one-hour-to-ten-hour comparison."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H093",
+      "reason": "SOL keeps the point that the necklace should go to someone who genuinely needs it."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H094",
+      "reason": "SOL preserves the sprinkler image and makes the sweat's source clear."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H095",
+      "reason": "Then naturally links the command not to talk with Im Kkeokjeong's exhausted response."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H096",
+      "reason": "BASE incorrectly has him attending his own funeral; SOL correctly makes others hold his funeral and preserves Manticore."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H097",
+      "reason": "We can't have that naturally preserves the objection based on his wife and children."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H098",
+      "reason": "SOL keeps the quiet laugh, the act of putting on the necklace, and the cooling sensation."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H099",
+      "reason": "SOL preserves the joke that it is a present only in name and is actually lent for the journey."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H100",
+      "reason": "I can finally breathe again naturally conveys the relief in 이제 좀 살겠네."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H101",
+      "reason": "The em dash preserves the abrupt interruption immediately after his face comes alive."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H102",
+      "reason": "Piercing shriek preserves the sharp, startling quality of the cry."
+    },
+    {
+      "decision": "BASE",
+      "hunk_id": "H103",
+      "reason": "SOL drops the source's torrential-downpour image and weakens the force of the falling branches and leaves."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H104",
+      "reason": "Bloodcurdling cry naturally preserves the goosebump-raising effect; 가지 is ordinary branch here, not the glossary name Go."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H105",
+      "reason": "SOL preserves the extremely high circling shadow in vivid, natural English."
+    },
+    {
+      "decision": "SOL",
+      "hunk_id": "H106",
+      "reason": "After only one hour accurately preserves the source's unexpectedly short elapsed time."
+    }
+  ],
+  "version": 1
+}
