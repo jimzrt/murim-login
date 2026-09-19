@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Though I said I wasn't using internal energy and was controlling my strength, I had already far surpassed the limits of humanity through pure physical strength alone.",
+      "defect": "The draft adds an unspoken claim that Taekyung said this aloud and weakens 적당히 힘 조절을 했다 into a statement that he was merely controlling his strength rather than deliberately holding back.",
+      "id": "F01",
+      "rationale": "The source directly describes Taekyung fighting without internal energy and moderating his strength; it does not refer to anything he previously said.",
+      "replacement": "Even without using internal energy—and though I’d held back—I had already far surpassed human limits through pure physical strength alone.",
+      "severity": "minor",
+      "source": "공력도 사용하지 않고 적당히 힘 조절을 했다지만, 나는 이미 순수한 근력만으로도 인간의 범주를 훌쩍 뛰어넘은 상태다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The first form of the swift and concise Flame Divine Palm.",
+      "defect": "일 초 means one move or technique here, not the first numbered form. The draft invents an ordinal structure for the martial art.",
+      "id": "F02",
+      "rationale": "The source characterizes a single swift and economical move; it does not identify it as Flame Divine Palm’s first form.",
+      "replacement": "A swift, concise move of the Flame Divine Palm.",
+      "severity": "major",
+      "source": "쾌속하고 간결한 화염신장(火焰神掌)의 일 초."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The substantial impact momentarily disrupted the flow of his internal energy, causing the Palm Force gathered in his outstretched hand to grow faint.",
+      "defect": "The draft changes the Dongting Fisherman’s palm from one still in contact with Taekyung’s to an outstretched hand, losing the physical position that enables Taekyung to interlock their fingers immediately afterward.",
+      "id": "F03",
+      "rationale": "맞닿아 있던 explicitly describes the palm as touching another surface; in context, the two palms remain pressed together after their strikes collide.",
+      "replacement": "The heavy impact momentarily disrupted the flow of his internal energy, and the Palm Force gathered in the palm still pressed against mine began to fade.",
+      "severity": "major",
+      "source": "상당한 충격으로 순간 공력의 흐름이 끊기자, 맞닿아 있던 동정어옹의 손바닥에 맺힌 수강(手罡)이 흐릿해졌다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "I sent the internal energy that had been severed for a moment flowing through every limb and acupoint in my body.",
+      "defect": "The internal energy itself was not severed. Its circulation had been interrupted by the blow, and Taekyung resumes circulating it.",
+      "id": "F04",
+      "rationale": "The preceding text explicitly identifies 공력의 흐름, the flow of internal energy, as what was interrupted. Rendering the energy itself as severed misstates the mechanism.",
+      "replacement": "I sent my internal energy, its flow interrupted for only an instant, coursing through every limb and acupoint in my body.",
+      "severity": "major",
+      "source": "나는 순간적으로 끊어졌던 공력을 전신의 사지 백해로 흘려보냈다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“D-d-d-don’t…….”\n\nHe wanted me not to come?\n\nFuck off.",
+      "defect": "The draft supplies the unspoken negation inside the Dongting Fisherman’s dialogue, removing the deliberate incompleteness that Taekyung interprets as 오지 말라고.",
+      "id": "F05",
+      "rationale": "The Dongting Fisherman only manages 오지 before trailing off. The following narration, not the spoken line itself, supplies 말라고 and interprets the fragment as a plea not to approach.",
+      "replacement": "“C-c-c-come…”\n\nDon’t come, you mean?\n\nFuck off.",
+      "severity": "minor",
+      "source": "“오, 오, 오, 오지…….”\n\n오지 말라고? 좆 까."
+    },
+    {
+      "confidence": 0.96,
+      "current": "> **System**\n>\n> **Title effect activated: Water Rescue Worker**\n>\n> **Special Skill embedded in the Title applied.**\n>\n> **Water Rescue Worker’s Webbing generated.**\n>\n> **Water Rescue Worker’s Gills generated.**\n>\n> **Remaining duration: 18 hours, 43 minutes, 32 seconds**",
+      "defect": "Every complete System notice is incorrectly wrapped in bold, contrary to the required panel format, and 물갈퀴 is rendered as the abstract material “Webbing” rather than the generated anatomical feature.",
+      "id": "F06",
+      "rationale": "The formatting rules reserve bold for meaningful labels rather than entire notices. In this transformation context, 물갈퀴 denotes webbed feet that let Taekyung swim, not webbing as an abstract substance.",
+      "replacement": "> **System**\n>\n> Title effect activated: Water Rescue Worker\n>\n> Special Skill embedded in the Title applied.\n>\n> Water Rescue Worker’s Webbed Feet generated.\n>\n> Water Rescue Worker’s Gills generated.\n>\n> **Remaining duration:** 18 hours, 43 minutes, 32 seconds",
+      "severity": "minor",
+      "source": "- [수상 구조대원]의 칭호 효과가 발동되었습니다!\n\n- 칭호에 내장된 특수 스킬이 적용됩니다!\n\n- [수상 구조대원의 물갈퀴]가 생성되었습니다!\n\n- [수상 구조대원의 아가미]가 생성되었습니다!\n\n- [남은 지속 시간 : 18시간 43분 32초]"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Just as the old boatman had said two *shichen* earlier, describing Dongting Lake’s weather as the worst possible was not enough.",
+      "defect": "The draft turns the approximate 두어 시진 into exactly two shichen.",
+      "id": "F07",
+      "rationale": "두어 means approximately two or a couple, so the source intentionally leaves the elapsed time inexact.",
+      "replacement": "Just as the old boatman had said a couple of *shichen* earlier, even calling the current weather on Dongting Lake the worst possible would have been an understatement.",
+      "severity": "minor",
+      "source": "두어 시진 전 늙은 사공이 했던 말대로, 현재 동정호의 기후는 최악이라는 말도 부족할 지경이었다."
+    }
+  ],
+  "summary": "Seven actionable findings: two combat-mechanics errors, three localized fidelity issues, one quantity error, and one System-panel formatting and terminology defect.",
+  "version": 1
+}
