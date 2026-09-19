@@ -1437,3 +1437,12 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 스켈레톤 킹 | **Skeleton King** | New form and System title of the revived Skeleton Warlord; shown as Lv.160. |
 | 골골이 | **Bones** | Jin’s familiar nickname for the Skeleton Warlord and its new Skeleton King form. |
 | 라이프 포스 베슬 | **Life Force Vessel** | Highest-level undead black magic and vessel for storing a soul fragment. |
+| 진린 | **Chen Lin** | Ming Dynasty general cited as Jin Taekyung's alleged ancestor. |
+| 이준범 | **Lee Junbeom** | Captain speaking by telephone while requesting an extension of leave. |
+| 다스 패치 | **Das Patch** | Korean media outlet investigating Jin Taekyung. |
+| 뉴욕 타임즈 | **New York Times** | United States newspaper. |
+| 더 타임즈 | **The Times** | United Kingdom newspaper. |
+| 아사히 신문 | **Asahi Shimbun** | Japanese newspaper. |
+| 인민 일보 | **People's Daily** | Chinese newspaper. |
+| 중국 청년 소식지 | **China Youth News** | Chinese youth publication. |
+| 유엔 안전 보장 이사회 | **United Nations Security Council** | International body whose leaders and spokesperson address the victory. |

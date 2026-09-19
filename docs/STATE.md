@@ -1,29 +1,29 @@
 # Translation State
 
-- Last completed: 426
-- Next chapter: 427
-- Current block: 425–429 (2/5)
-- Latest translation: `translations/0426.md`
-- Latest summary: `summaries/beats/0426.md`
-- Safe profiles through: chapter 426
+- Last completed: 427
+- Next chapter: 428
+- Current block: 425–429 (3/5)
+- Latest translation: `translations/0427.md`
+- Latest summary: `summaries/beats/0427.md`
+- Safe profiles through: chapter 427
 
 ## Current Block
 
-- Jin Taekyung's One Annihilation destroys the Arch Lich's body, the unfinished Gate, and the surrounding ruined city. The Arch Lich's surviving soul fragment attempts to escape through a Life Force Vessel, but the golden soul within Hero's Soul reveals itself as Lei Fei's remnant and erases it. Jin collapses unconscious after exhausting his strength, and the Skeleton King catches him and retrieves Hero's Soul. On the main battlefield, hidden elite monsters launch a slaughter while the S-rank Hunters are away, but the Death Knights, Liches, Wyverns, and tens of thousands of other monsters ultimately turn to ash, ending the war.
+- The Arch Lich's erasure ends the thirty-four-day Winter War, causing the undead legions to collapse and celebrations to erupt worldwide. Jin Taekyung becomes an international hero, but conspiracy theories question his involvement in the deaths of Wu Heixing and Lee Jungryong. Four days later, Chairman Shao Yang confirms that Jin prevented a catastrophe across Asia, rejects the allegations, and reveals that the Crown Prince Party faces prosecution for corruption. After Shao Yang leaves, Jin finally regains consciousness and curses the suffocating hospital room.
 
 ## Open Questions
 
-- What is Hero's Soul's current condition after its golden light pursued and erased the Arch Lich's soul fragment?
-- When will Jin regain consciousness, and what condition will he be in?
-- What caused the mass ashfall that destroyed the monsters on the main battlefield?
-- What is Asmodeus's current status and location?
+- What is Jin Taekyung's condition after regaining consciousness?
+- What happened to Lee Jungryong, who remains presumed missing or dead?
+- How will the Crown Prince Party's impending prosecution unfold?
 
 ## Exceptional Decision
 
-- Render 스켈레톤 킹 as Skeleton King and 골골이 as Bones.
-- Render 영웅의 혼 as Hero's Soul and 치유의 빛 as the light of healing.
-- Render 라이프 포스 베슬 as Life Force Vessel.
-- Preserve the Arch Lich's archaic, contemptuous register and Jin's profanity.
+- Render 겨울 전쟁 as “Winter War.”
+- Render 태자당 as “Crown Prince Party.”
+- Render 진 선생 as “Mr. Jin” and 주석님 as “Chairman.”
+- Render 아크 리치가 소멸했습니다 as “The Arch Lich has been erased.”
+- Preserve Jin Taekyung's profane, dry voice and Chairman Shao Yang's formal, sincere political register.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
