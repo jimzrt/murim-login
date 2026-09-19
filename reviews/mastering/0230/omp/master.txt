@@ -162,7 +162,7 @@ While everyone was still reeling in shock, a young man who had entered behind th
 
 “Who cares whether some dark-path piece of garbage lives or dies?”
 
-The old man answered gruffly and jerked his chin toward the inn, which had become a sea of blood.
+The old man answered gruffly and jerked his chin toward the blood-soaked inn.
 
 More precisely, he pointed at the Dongcheon Sect’s swordsmen, who were gathering the corpses and severed limbs.
 
@@ -170,13 +170,13 @@ They stared at the old man with vacant expressions.
 
 “Look. Can’t you see? That’s the kind of people they are. There’s nothing in their heads, so whenever they meet, all they can do is swing swords at each other.”
 
-“Wow. They really deserve to die.”
+“Wow. Then they deserve it.”
 
 “Right?”
 
 “Yes. Shall we eat now?”
 
-“Order the drinks first. I’ve inhaled so much dust that my throat’s scratchy.”
+“Order the drinks first. I’ve swallowed so much dust that my throat’s scratchy.”
 
 “Got it.”
 
