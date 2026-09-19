@@ -1637,3 +1637,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 은영술 | **concealment techniques** | Stealth arts associated with ninjas. |
 | 표창 | **throwing blades** | Concealed weapons used by ninjas. |
 | 철구 | **iron balls** | Training weights attached to Taekyung. |
+| 흑풍단 | **Black Wind Corps** | Elite thousand-man Demonic Cult strike force annihilated by Jeok Cheongang at Mount Jiuhua. |
