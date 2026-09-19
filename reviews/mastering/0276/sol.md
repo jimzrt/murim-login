@@ -62,7 +62,7 @@ I asked what I was most curious about.
 
 “But how did you find him? I heard the investigation team had collected all the nearby CCTV footage.”
 
-“We went and retrieved it again.”
+“We retrieved it.”
 
 No, I meant, how did you manage that?
 
@@ -94,7 +94,7 @@ But judging by what he said next, even money had its limits.
 
 I had expected as much, but it seemed the people pulling the strings wielded considerable power.
 
-They had greased the palm of a supreme council member from a political party and manipulated public opinion online as easily as breathing. Even the police and prosecutors—corrupt enough to accept bribes—were afraid to make a move.
+They had greased the palm of a senior official in one of the political parties and manipulated public opinion online at will. Even police officers and prosecutors corrupt enough to accept bribes knew enough to keep their heads down.
 
 *It has to be one of the major Guilds.*
 
@@ -138,9 +138,9 @@ Casually ignoring my incredulous stare, Team Leader Choi continued.
 
 “And no one suspects him in a remote mountain village?”
 
-“He’s a rich, good-natured man.”
+“He’s rich, good-natured, and generous.”
 
-“It’s the perfect place to hide and do things. For example, train Black Hunters.”
+“It’s the perfect place to hide something. Training Black Hunters, for example.”
 
 I examined the final image closely.
 
@@ -158,7 +158,7 @@ Ah, wait. Hold on.
 
 “Yes. Each time, he orders a large quantity of food from outside, but… Ah!”
 
-The village feasts were probably a cover for procuring food and supplies.
+The village feasts were probably a cover for bringing in food and supplies.
 
 *There might be a lot more of them than I thought.*
 
@@ -184,9 +184,9 @@ I pulled my hood low and opened the car door.
 
 All three of them stared at me in bewilderment.
 
-Butler Kim, the most experienced among them, spoke first.
+Butler Kim, the oldest and most experienced among them, spoke first.
 
-“Hunter Jin Taekyung. There is nothing more frightening than an enemy whose capabilities you have not assessed.”
+“Hunter Jin Taekyung. Nothing is more dangerous than an enemy whose capabilities you haven’t assessed.”
 
 “Yes. I know.”
 
@@ -226,7 +226,7 @@ His expression was impossible to describe.
 
 “Black Hunters… Those men have been trained to hunt humans, not monsters. Be careful.”
 
-I couldn’t hold back a short laugh.
+I couldn’t hold back a laugh.
 
 “Good. That happens to be my specialty, too.”
 
@@ -256,11 +256,11 @@ But killing intent was another matter.
 
 Killing intent, honed through countless battles and brushes with death, awakened a primal fear.
 
-Even a person with exceptional nerve could wet themselves from it. Dogs, which were even more sensitive to such things, were no exception.
+It was enough to make even the stouthearted piss themselves. Dogs, which were even more sensitive to such things, stood no chance.
 
 Whine. Whimper.
 
-The Tosa mastiffs sensed my killing intent, hid their teeth, tucked their tails beneath their bellies, and flattened themselves against the ground. Their anxious eyes trembled, and they dared not look my way.
+Sensing my killing intent, the Tosa mastiffs bared their teeth no longer. They tucked their tails beneath their bellies and flattened themselves against the ground, their anxious eyes trembling as they refused even to look my way.
 
 “That’s right. Good dogs.”
 
@@ -332,11 +332,11 @@ His mouth twisted.
 
 “That D-rank nobody who barely qualifies as a Hunter? Did they reattach his arm?”
 
-“They did, but… Apparently, he has some lingering aftereffects. So I came to collect a little compensation.”
+“They did, but… apparently, there’ll be some lasting damage. So I came to collect a little compensation.”
 
-“I was going to kill him, but I held back. Be grateful that it ended there. If you don’t want to suffer something worse, lie flat and quiet as a dead mouse.”
+“I meant to kill him, but I held back. Be grateful it ended there. If you don’t want something worse to happen, lie low and keep quiet.”
 
-“I’ve already seen something worse, and lying flat like a dead mouse isn’t my style. I’m not particularly grateful, either, so isn’t that why I came here?”
+“Something worse already happened, and lying low isn’t in my nature. I’m not particularly grateful, either. Isn’t that why I came here?”
 
 Im Yeongjun gave a short laugh.
 
@@ -358,7 +358,7 @@ I could feel them—the presences hiding inside, waiting for orders.
 
 Watching his face stiffen, I continued.
 
-“Three. Hand over the three who took part in the attack two days ago, including you. Disarm the rest and tell me everything you know. Then I’ll spare your lives.”
+“Three. Hand over the three who took part in the attack two days ago, including you. The rest disarm and tell me everything you know. Do that, and I’ll spare your lives.”
 
 “You crazy bastard.”
 
@@ -370,7 +370,7 @@ There wouldn’t be another.
 
 *Open Inventory. Equip White Flame.*
 
-The moment the cool spear shaft filled my grasp, Im Yeongjun shouted, his voice rising almost to a scream.
+The moment the cool spear shaft filled my hand, Im Yeongjun screamed.
 
 “Kill him!”
 
@@ -382,7 +382,7 @@ Crash! Shhhhk!
 
 A rain of countless blades and arrowheads poured in from every direction.
 
-My eyes had already gone cold as I watched them.
+As I watched them come, my eyes turned cold.
 
 “You picked the wrong person to mess with.”
 

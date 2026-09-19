@@ -1,0 +1,55 @@
+{
+  "summary": "Chapter 276 is faithful to the Korean source with only minor terminology absences noted.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "whole chapter",
+      "current": "Tosa dogs",
+      "defect": "Preferred glossary term 'Daoist' (도사) is missing; 'Tosa dogs' should be 'Tosa mastiffs' as per glossary",
+      "replacement": "Use 'Tosa mastiffs' as the glossary mandates",
+      "rationale": "The glossary defines 도사견 as 'Tosa mastiff', which is the preferred term rather than 'Tosa dogs'.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "throughout",
+      "current": "Song Song",
+      "defect": "Preferred glossary short form 'Song-i' for 송이 is absent, though Song Song is used; acceptable if context requires full name",
+      "replacement": "Consider 'Song-i' for informal or intimate mentions, keep 'Song Song' where formal",
+      "rationale": "Glossary lists 송이 as 'Song-i', but given no clear informal context or nickname usage here, the full 'Song Song' is present and not incorrect.",
+      "confidence": 0.8
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "throughout",
+      "current": "Jin Taekyung",
+      "defect": "Preferred short form 'Jintae' for 진태 is absent; only full name 'Jin Taekyung' used",
+      "replacement": "Use 'Jintae' when referring to this character in contexts where short form is idiomatic",
+      "rationale": "Glossary indicates 진태 short form is 'Jintae', but since this chapter focuses mainly on full name, absence is minor.",
+      "confidence": 0.8
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "throughout",
+      "current": "White Flame",
+      "defect": "Preferred term 'Gobul' (고불) for Jin Taekyung's spear is missing",
+      "replacement": "Use 'Gobul' at least once as the spear's proper name",
+      "rationale": "Glossary specifies 고불 as 'Gobul' for the spear; only 'White Flame' appears which might lose source-specific name.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F05",
+      "severity": "minor",
+      "source": "scene descriptions",
+      "current": "rural night sky",
+      "defect": "Preferred glossary term 'Chengdu' absent although context may not fit; No direct mention in this source",
+      "replacement": "N/A",
+      "rationale": "The term '성도' (Chengdu) appears absent from this chapter; note from deterministic QA, accepted as minor terminology warning but no direct defect in this chapter.",
+      "confidence": 1.0
+    }
+  ]
+}

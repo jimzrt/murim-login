@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.8,
+      "current": "Song Song",
+      "defect": "Preferred glossary short form 'Song-i' for 송이 is absent, though Song Song is used; acceptable if context requires full name",
+      "id": "F02",
+      "rationale": "Glossary lists 송이 as 'Song-i', but given no clear informal context or nickname usage here, the full 'Song Song' is present and not incorrect.",
+      "replacement": "Consider 'Song-i' for informal or intimate mentions, keep 'Song Song' where formal",
+      "severity": "minor",
+      "source": "throughout"
+    },
+    {
+      "confidence": 1.0,
+      "current": "rural night sky",
+      "defect": "Preferred glossary term 'Chengdu' absent although context may not fit; No direct mention in this source",
+      "id": "F05",
+      "rationale": "The term '성도' (Chengdu) appears absent from this chapter; note from deterministic QA, accepted as minor terminology warning but no direct defect in this chapter.",
+      "replacement": "N/A",
+      "severity": "minor",
+      "source": "scene descriptions"
+    }
+  ],
+  "summary": "Chapter 276 is faithful to the Korean source with only minor terminology absences noted.",
+  "version": 1
+}
