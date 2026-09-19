@@ -22,13 +22,13 @@ Even among close-combat types, it was extremely rare to find someone like Im Yeo
 
 But Park Jihoon was different. Though it had lasted only an instant, the movements he had shown were comparable to those of a Peak master from Murim.
 
-*It was a little clumsy, but it was almost like a grappling technique wielded by someone who had reached a higher realm.*
+*It was a little clumsy, but it was almost like a grappling technique honed to mastery.*
 
-I had underestimated him and been caught off guard. The fight had ended almost immediately, but the fact that he had exchanged moves with me five times already put his ability far beyond what I had expected.
+I had underestimated him and been caught off guard. The fight had ended almost immediately, but the fact that he had exchanged five moves with me already put his ability far beyond what I had expected.
 
 *Has this level of hand-to-hand combat survived into the modern era? Why hasn’t anyone heard of it?*
 
-“You. Where did you learn that just now?”
+Unable to suppress my curiosity, I asked, “You. Where did you learn that?”
 
 Park Jihoon answered in a strained voice.
 
@@ -42,7 +42,7 @@ Once. Twice. Three times.
 
 Every time I grabbed his hair and slammed his head down, a muffled groan escaped him. Blood spattered across the office floor, which had been spotless only moments ago.
 
-As his body went limp, Park Tae Seop, who had been observing the situation, suddenly spoke.
+As his body went limp, Park Tae Seop, who had been watching from the sidelines, spoke.
 
 “That’s enough.”
 
@@ -60,11 +60,11 @@ Park Tae Seop’s eyebrow twitched.
 
 “You’ve got quite a spicy tongue.”
 
-“My hands are even spicier. My old nickname was the Haengsin-dong Fire-Chicken Stir-Fried Hand.[^1]… Want a taste?”
+“My hands are even spicier. My old nickname was the Haengsin-dong Fire-Chicken Stir-Fried Hand.[^1] Want a taste?”
 
 “I have a reputation to uphold. I have no intention of fighting someone as young and green as you.”
 
-Park Tae Seop uncrossed his arms and continued.
+Park Tae Seop uncrossed his arms.
 
 “But if that fellow is seriously injured, it will put me in a difficult position. He’s an important business partner.”
 
@@ -76,11 +76,11 @@ I must have struck a nerve, because he made a show of frowning.
 
 I didn’t need to ask which bastard had said that.
 
-I grabbed Park Jihoon’s wax-stiffened hair even more roughly and answered.
+I tightened my grip on Park Jihoon’s wax-stiffened hair.
 
 “I’m a slow learner. But once I learn something, I don’t forget it.”
 
-“He learned his lesson properly this time, so let him go now.”
+“You’ve learned your lesson properly this time, so let him go now.”
 
 “I was planning to do that anyway.”
 
@@ -88,7 +88,7 @@ As I lifted Park Jihoon by the hair, Park Tae Seop gave a small nod.
 
 “Good thinking…”
 
-I drove the fistful of hair back down with all my strength.
+I slammed his head back down with all my strength.
 
 BANG!
 
@@ -108,7 +108,7 @@ The impact jolted him awake. He trembled violently and spat out a mouthful of bl
 
 “……”
 
-Park Tae Seop was unable to continue speaking, so I addressed him.
+Park Tae Seop was at a loss for words, so I addressed him.
 
 “I let him go. There. Happy?”
 
@@ -124,13 +124,11 @@ He was serious.
 
 Rather than feeling afraid, I became curious. Who was this person that even Park Tae Seop—a war hero of the Great Cataclysm and one of Korea’s top rankers—was wary of?
 
-I asked with a questioning look.
-
 “Who is it? That bastard only called him ‘that person.’”
 
 “I can’t tell you. Even if I did, you’d only resent me later.”
 
-“Why make such a big deal out of it? Is that person Asmodeus or something?”
+“Why make such a big deal out of it? Is he Asmodeus or something?”
 
 “If you made him your enemy, you’d be better off facing the Demon King. At least then, the whole world would fight alongside you… But what are you doing right now?”
 
@@ -186,19 +184,19 @@ I beckoned to Park Jihoon, who was staggering to his feet.
 
 “Don’t rush me. I was planning to do that without you telling me.”
 
-Park Jihoon ground his teeth with a crunch and wiped at the corner of his mouth.
+Park Jihoon ground his teeth and wiped the corner of his mouth.
 
 But unlike before, when he had been gasping for breath, he was now brimming with strength.
 
-Aside from the blood covering him here and there, his cracked forehead and broken nose had already healed completely. His stamina was as good as new.
+Aside from the blood smeared all over him, his split forehead and broken nose had already healed completely. His stamina was as good as new.
 
-Only then did I notice a small reinforced-glass vial rolling around by his feet.
+Only then did I notice a small reinforced-glass vial rolling near his feet.
 
 “A potion?”
 
 “When there’s an enemy in front of you, never let your attention wander until the very end. Didn’t they teach you that at the training center?”
 
-He must have taken out the hidden potion and gulped it down during the brief moment I was looking at my phone. I shrugged.
+He must have taken out the potion and gulped it down during the brief moment I was looking at the phone. I shrugged.
 
 “That only matters when the two sides are evenly matched. That’s not the case here, is it?”
 
@@ -212,7 +210,7 @@ I fixed Park Jihoon with glowing, reddish eyes.
 
 “You and I are in different classes, you fucking scrub.”
 
-The next moment, the fire dragon formed from a jiazi’s worth of Scorching Yang Qi scattered into hundreds of streams. As they dispersed, they awakened my acupoints and raced forward without restraint.
+The next moment, the fire dragon formed from a jiazi’s worth of Scorching Yang Qi scattered into hundreds of streams. As they dispersed, they awakened my acupoints and raced through them without restraint.
 
 The internal energy met again at a single destination and merged into one.
 
@@ -228,7 +226,7 @@ Early winter was already setting in, but the frigid office transformed into the 
 
 I exhaled a scorching breath.
 
-Beyond the wavering heat haze, I saw a man whose face was filled with shock. His expression had gone rigid, and turbulent waves churned in his eyes.
+Beyond the wavering heat haze, I saw a man staring at me in shock. His face had gone rigid, and turbulent waves churned in his eyes.
 
 “You… You…”
 
@@ -242,13 +240,13 @@ As though someone had doused him in ice water, he shuddered and bit down on his 
 
 “This… This is impossible. How could you…?”
 
-The man muttered with a twisted expression, then abruptly opened his mouth.
+His face twisted as he muttered to himself. Then he abruptly spoke.
 
 “I’m going to need your help, Guild Master.”
 
 There was no question who he was addressing.
 
-Park Tae Seop, Guild Master of Myeongdong Guild, had been watching me with astonishment. He answered in a heavy voice.
+Park Tae Seop, Guild Master of Myeongdong Guild, had been staring at me in astonishment. He answered in a heavy voice.
 
 “Is there any way for me to refuse that proposal?”
 
@@ -260,7 +258,7 @@ Park Tae Seop, Guild Master of Myeongdong Guild, had been watching me with aston
 
 “……I’m sick to death of this.”
 
-Park Tae Seop sighed and pulled a sixty-centimeter-long rod from his waist. When he stroked the Magic Gem attached to its end, a snow-white blade surged upward.
+Park Tae Seop sighed and pulled a sixty-centimeter rod from his waist. When he stroked the Magic Gem attached to its end, a snow-white blade surged outward.
 
 HSSSSSS!
 
@@ -280,13 +278,13 @@ I laughed aloud.
 
 Since I had heard he went to Hankuk University, I had assumed he was at least somewhat intelligent. But it seemed he had completely forgotten what I’d told him last time.
 
-“I’m the one who decides whether this ends, you fucking idiot.”
+“I’m the one who decides when this ends, you fucking idiot.”
 
-Park Jihoon had forced me onto the starting line and pulled the trigger to signal the beginning of the race. But he had failed to anticipate the most important thing.
+Park Jihoon had forced me onto the starting line and pulled the trigger to begin the race. But he had failed to anticipate the most important thing.
 
 This race had no finish line.
 
-And that wherever I stopped was the finish line.
+Wherever I stopped would become the finish line.
 
 *Open Inventory.*
 
@@ -302,7 +300,7 @@ Blue fire streamed along the spearhead, scorching everything around it as it sur
 
 “Haah!”
 
-With a powerful battle cry, a massive greatsword came flying at me. The blue aura gathered at its tip was denser and longer than anything I had ever seen in reality.
+With a powerful battle cry, a massive greatsword came flying at me. The blue aura gathered at its tip was denser and longer than any I had ever seen in the modern world.
 
 *As expected of one of Korea’s top rankers.*
 
@@ -318,7 +316,7 @@ I sprang upward.
 
 My hair narrowly grazed the ceiling as the blade sweeping toward my waist cut through empty air.
 
-WHOOM! CLANG-CLANG-CLANG!
+WHOOM! CRASH!
 
 The tremendous pressure wave swept everything away. The reinforced glass covering one side of the office shattered and plummeted toward the ground.
 
@@ -338,7 +336,7 @@ That was partly the difference in our physical abilities and partly the gap crea
 
 *Hunters really aren’t very efficient.*
 
-In contrast, Murim cultivation techniques explosively increased the efficiency of internal energy. That was why renowned great powers like the Nine Sects and One Gang and the Five Great Families were so strong.
+Murim cultivation techniques, on the other hand, explosively increased the efficiency of internal energy. That was why renowned powers like the Nine Sects and One Gang and the Five Great Families were so strong.
 
 Superior internal cultivation techniques formed the heart of the martial arts they wielded.
 
@@ -364,7 +362,7 @@ SIZZLE!
 
 Disappointment flashed across Park Jihoon’s face.
 
-His aura had only cut through my clothes and passed by.
+His aura had only sliced through my clothes.
 
 I checked my uninjured side and licked my lips.
 
@@ -372,9 +370,9 @@ I checked my uninjured side and licked my lips.
 
 “Interesting? You’re not afraid?”
 
-“Did the guy you call ‘that person’ or whatever teach you?”
+“Did that person or whoever teach you?”
 
-“Shut your mouth. You’re not worthy of even speaking of that person.”
+“Shut your mouth. Someone like you isn’t worthy of even speaking of him.”
 
 “Huh. So I was right. This isn’t some kind of cult, is it?”
 
@@ -400,7 +398,7 @@ His sword, which had let everything flow past.
 
 His movements.
 
-And I put them into practice.
+And I recreated them.
 
 *Flow.*
 
