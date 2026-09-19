@@ -34,9 +34,9 @@ Park Jihoon cut him off, his voice hard.
 
 “……!”
 
-“Isn’t it important that the Guild Master accepted the proposal? One way or another, the result matters more than the process.”
+“What matters is that you accepted the proposal, doesn’t it? One way or another, the result matters more than the process.”
 
-“Yeah. So is that why you turned that important result into this mess?”
+“Right. And this is the result you gave me?”
 
 Park Jihoon frowned. Park Tae Seop’s complaints were nothing new, but this was the first time he had been so openly hostile.
 
@@ -80,7 +80,7 @@ Park Jihoon closed the phone and asked, “Where was it?”
 
 Park Jihoon felt the same.
 
-Seven years ago, as soon as he had been assigned to Myeongdong Guild, his first task had involved Team 11.
+Seven years ago, the first task he had been given after being assigned to Myeongdong Guild had involved Team 11.
 
 Park Tae Seop, the Guild Master of Myeongdong Guild, had strongly objected to hiding and training criminals. But he had been unable to defy the orders of *that person*.
 
@@ -90,7 +90,7 @@ That was how they had gathered roughly thirty Black Hunters.
 
 They were a force powerful enough to rival—or even surpass—Team 1, Myeongdong Guild’s elite.
 
-And now they had lost contact after an intruder appeared.
+And now they had lost contact after reporting an intruder.
 
 Just as unease began creeping through Park Jihoon’s chest—
 
@@ -116,11 +116,11 @@ The man addressing me was dressed in a suit.
 
 His face was angular, and his eyes were sharp. I could sense the solid build beneath his clothes and the energy coiled inside him. The man beside him, apparently his colleague, was much the same.
 
-I put away my phone and answered,
+I put away my phone.
 
-“Yes, excuse me.”
+“You’re excused.”
 
-The suited man hesitated, then opened his mouth. The name tag on his chest clearly displayed both his name and his affiliation: Myeongdong Guild.
+The suited man paused, then continued. The name tag on his chest clearly displayed both his name and his affiliation: Myeongdong Guild.
 
 “We’re from the Security Team. We received a report about you.”
 
@@ -132,7 +132,7 @@ Their eyes were full of suspicion and wariness.
 
 I was wearing track pants and a hoodie, with a cap pulled low over my face and sunglasses on top of that. A guy dressed like this peering into the building was bound to attract a report.
 
-“Sir, would you mind moving somewhere else for a moment?”
+“Sir, would you mind coming with us for a moment?”
 
 “No, I’d rather not. And I told you, I’m not a sir.”
 
@@ -246,7 +246,7 @@ Oblivious to my thoughts, the Security Team Hunters laughed and kept asking ques
 
 The senior Security Team Hunter answered, “He probably won’t come in today, either.”
 
-“Today, too?”
+“Today, either?”
 
 “Yes. He hardly ever comes to work. Maybe once a month? I’ve been here almost a year and have only seen him a few times. This guy’s barely been here a month, so…”
 
@@ -258,7 +258,7 @@ The senior Security Team Hunter answered, “He probably won’t come in today, 
 
 I’d never heard of a Guild Hunter who showed up for work once a month.
 
-The question that had taken root in one corner of my mind grew deeper.
+The suspicion that had taken root in a corner of my mind grew deeper.
 
 Without letting it show, I said, “Could you try contacting Jihoon for me? I understand there’s a separate phone for Guild summons.”
 
@@ -368,7 +368,7 @@ The luxurious twenty-story building belonged to Myeongdong Guild.
 
 The senior Hunter had pulled rank to ditch his junior and come with me. He chattered away as we walked.
 
-“The first through ninth floors house the civilian departments—tax, accounting, corporate affairs, and so on. From the tenth through the nineteenth floors, each floor belongs to a raid team.”
+“The first through ninth floors house the civilian departments—tax, accounting, corporate affairs, and so on. From the tenth through nineteenth floors, each floor belongs to a raid team.”
 
 “What about the twentieth?”
 
@@ -382,7 +382,7 @@ Ding.
 
 The elevator arrived as he finished speaking. I pressed the button for the nineteenth floor and was waiting for the doors to close when—
 
-“Hey, hey! Wait!”
+“Hey! Wait!”
 
 The senior Hunter hurriedly pressed the open button.
 
