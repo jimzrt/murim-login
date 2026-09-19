@@ -2,7 +2,7 @@
 
 *Fwoom!*
 
-I merely blinked at the black light that exploded like a flash.
+All I did was blink at the black light that burst like a camera flash.
 
 That was all…
 
@@ -10,9 +10,9 @@ That was all…
 
 The shock was enough to make me forget the pain. I stared blankly, my mouth hanging open.
 
-He was gone. As though he had been erased with an eraser.
+He was gone. As though someone had erased him.
 
-The blood spattered around us and the Blood Lord’s wrist, still gripping Cheongpung’s neck, were the only proof that he had ever existed.
+The blood spattered around us and the Blood Lord’s severed hand, still gripping Cheongpung’s throat, were the only proof he had ever existed.
 
 *Ding.*
 
@@ -25,7 +25,7 @@ The blood spattered around us and the Blood Lord’s wrist, still gripping Cheon
 
 With the System notifications, my body began to recover at a staggering rate.
 
-My broken bones knitted back together, and my cut and mangled flesh healed. My empty dantian filled to the brim, and vitality surged through my muscles.
+My broken bones knitted together, and my cut and mangled flesh healed. My empty dantian filled to the brim, and strength surged through my muscles.
 
 But one thing remained unchanged: my utter bewilderment.
 
@@ -33,7 +33,7 @@ But one thing remained unchanged: my utter bewilderment.
 
 The Blood Lord. No matter what it took, I should have killed that bastard.
 
-I was muttering dejectedly while staring at the ground when a familiar voice spoke, and a hand suddenly appeared in front of me.
+I was staring at the ground, muttering in frustration, when a familiar voice spoke and a hand appeared before me.
 
 “Are you all right?”
 
@@ -55,15 +55,15 @@ His face clearly said, *What did I just hear?*
 
 Jongni Chu stared blankly at me for a moment, then waved it off.
 
-“No, no. What problem could there be? But didn’t you hear… that thing earlier?”
+“No, no. Of course not. But didn’t you hear… that earlier?”
 
-“That thing? What are you talking about? I did pass out for a moment.”
+“That? What are you talking about? I did pass out for a moment.”
 
-There was a limit to how much punishment I could take. I had been hit, gotten back up, been knocked down again, and gotten back up dozens of times over.
+There was a limit to how much punishment I could endure. I’d lost count of how many times I’d been hit, gotten back up, been knocked down again, and gotten back up all over.
 
-Then, at some point, I took a direct blow to the jaw and briefly lost consciousness.
+Then, at some point, I’d taken a clean blow to the jaw and briefly lost consciousness.
 
-“When I opened my eyes, it was almost over. I saw that bastard’s ankle, so I grabbed it right away.”
+“By the time I opened my eyes, it was almost over. Then I saw that bastard’s ankle, so I grabbed it.”
 
 “…I see.”
 
@@ -105,9 +105,9 @@ That was when—
 
 *Shshshshk!*
 
-Countless presences rapidly approached from below. Their aura was vicious beyond description.
+Countless presences raced toward us from below. Their aura was vicious.
 
-*Don’t tell me there’s another one?*
+*Don’t tell me there’s another one.*
 
 My expression hardened as I tightened my grip around the spear shaft, but Jongni Chu waved a hand.
 
@@ -123,7 +123,7 @@ For some reason, however, several key figures—including the Thunderbolt Saber 
 
 “Stop.”
 
-The footsteps of the hundreds of martial artists, which had seemed as though they would never stop, came to an abrupt halt in front of us.
+The hundreds of martial artists came to an abrupt halt before us.
 
 The man who had given the order limped toward Jongni Chu and me. Sunlight filtering through the leaves glinted off his steel prosthetic leg.
 
@@ -149,11 +149,11 @@ I was about to step forward amid the ominous tension when Jongni Chu suddenly sp
 
 Was this bastard insane?
 
-At a time when explaining the situation and clearing up the misunderstanding should have been the bare minimum, he had started by speaking informally.
+We needed to explain the situation and clear up the misunderstanding, yet the first thing out of his mouth was an overly familiar greeting.
 
-“Hey, hey!”
+“Hey. Hey!”
 
-I hurriedly jabbed him in the side, but it was already too late. A bombshell burst from Jongni Chu’s mouth.
+I hurriedly jabbed him in the side, but it was already too late. A bombshell fell from Jongni Chu’s lips.
 
 “How’s your leg?”
 
@@ -163,21 +163,21 @@ Was he actually out of his mind?
 
 I gaped at Jongni Chu.
 
-This time, he had crossed the line completely. First the casual speech, and now he was mocking a disabled person.
+This time, he had really crossed the line. First the casual speech, and now he was mocking a disabled man.
 
 I hurriedly stepped forward before the Thousand-Faced Fox could yank off his prosthetic leg and charge at Jongni Chu.
 
-“I’m sorry. He’s not usually like this. Let me explain. So, what happened was—”
+“I’m sorry. He’s not usually like this. Let me explain. What happened was—”
 
 “Hm? I can explain it myself.”
 
 “Explain, my ass. What the fuck are you going to explain in this situation? Apologize first, you bastard.”
 
-To hell with him being my lifesaver.
+Lifesaver or not, to hell with that.
 
 Before things could get any worse, I grabbed Jongni Chu by the back of the neck and forced his head down.
 
-When I raised my own head, I saw the Thousand-Faced Fox’s face, stiff and frozen as though he had seen a ghost.
+When I raised my own head, I found the Thousand-Faced Fox staring stiffly at us as though he had seen a ghost.
 
 *He’s really pissed.*
 
@@ -197,19 +197,19 @@ Jongni Chu nodded with a genial chuckle like an old man.
 
 “I owe the fact that I lived long enough to grow this old to you, Great Hero. If you hadn’t saved me back then, I wouldn’t be standing here now.”
 
-The Thousand-Faced Fox laughed as he lightly tapped his prosthetic leg, then continued.
+The Thousand-Faced Fox laughed and tapped his prosthetic leg.
 
-“I discovered Shadow Killer two shichen ago. You were playing a mischievous prank.”
+“I found the Shadow Killer two shichen ago. You played quite the cruel prank.”
 
 “Ah, that fellow. Come to think of it, he should be waking up around now.”
 
-“Someone who should have died was alive. That was when I realized I had been barking up the wrong tree.”
+“A man who should have been dead was still alive. That was when I realized I had guessed wrong.”
 
 “I didn’t want anyone to find out. I wanted to keep it hidden until the Star-Array Grand Banquet ended, at least.”
 
-Jongni Chu added with a bitter expression,
+Jongni Chu’s expression turned bitter.
 
-“I never imagined something like this would happen, though.”
+“I never imagined something like this would happen.”
 
 “I feel the same. Despite all our precautions, a bloodbath occurred at Shaolin of all places…”
 
@@ -225,15 +225,15 @@ Jongni Chu added with a bitter expression,
 
 A heavy silence settled over us.
 
-I had been listening to their conversation in a half-dazed state, but somehow managed to speak.
+I had been listening to their conversation in a daze, but I finally managed to speak.
 
-“Hey, no. Excuse me.”
+“Hey—no. Excuse me.”
 
 Jongni Chu—or rather, *he*—blinked.
 
-“Are you talking to me?”
+“Are you speaking to me?”
 
-“Yes. Um, there’s something I’d like to ask you…”
+“Yes. Um, there’s something I’d like to ask…”
 
 “Ask me anything.”
 
@@ -251,9 +251,9 @@ The answer came without hesitation.
 
 Every hair on my body stood on end.
 
-From our first meeting to this moment, every conversation I’d had with him and everything I’d done flashed rapidly before my eyes.
+From our first meeting until now, every conversation we’d had and everything I’d done flashed before my eyes.
 
-“I think it’s a coincidence, but your name is the same as someone I know.”
+“What a coincidence. You have the same name as someone I know.”
 
 “Is that so?”
 
@@ -261,7 +261,7 @@ I drew a deep breath. My heartbeat thundered in my ears.
 
 *It’s cold.*
 
-A dagger had flown straight into my chest. But don’t worry. There were more people with the same name than you might think.
+A dagger had flown straight into my chest. But there was no need to worry. More people shared the same name than you might think.
 
 Maybe he was Fake Jonghak.
 
@@ -271,7 +271,7 @@ Clinging to that final hope, I opened my mouth.
 
 “The Sword Saint.”
 
-“Ah. Yes.”
+“Ah. Right.”
 
 *Fuck. He’s the real thing.*
 
@@ -287,29 +287,29 @@ As darkness swallowed my vision, an amused voice slipped into my ear.
 
 An enormous cavern of unknown depth in an unknown location.
 
-At its center, where complex patterns and characters no one could decipher had been carved into the stone, black radiance erupted.
+Complex patterns and characters that no one could decipher had been carved into the cavern’s center. From among them, black radiance erupted.
 
-*Whoosh!*
+*Fwoom!*
 
-The deep darkness stretched, dimming even the fiercely burning torches.
+A darkness so deep that even the fiercely burning torches dimmed stretched awake.
 
 When the pitch-black darkness vanished a moment later, unrest spread among the dozens of black-clad figures surrounding the cavern’s center.
 
 “The Blood Lord!”
 
-“What is going on…?”
+“What happened…?”
 
 Their gazes converged on a staggering, bleeding figure.
 
 A young man drenched in blood and breathing heavily.
 
-Sword wounds covered the Blood Lord’s entire body, and blood gushed nonstop from the severed stumps of both arms.
+Sword wounds covered the Blood Lord’s body, and blood gushed ceaselessly from the severed stumps of both arms.
 
 “Call the sorcerers! Bring them here!”
 
 “The Blood Lord is gravely wounded!”
 
-As the desperate shouts echoed through the cavern, the Blood Lord slowly opened his mouth.
+As the urgent shouts echoed through the cavern, the Blood Lord slowly opened his mouth.
 
 The severed arm he had refused to let go of until the very end fell from his mouth and thudded to the floor. Its hand still clutched a short staff.
 
@@ -337,7 +337,7 @@ His body trembled with a wheezing sound, then went still. There was no need to c
 
 “Throw that bastard to the beasts.”
 
-The moment the Blood Lord’s frigid voice left his lips, one of his subordinates hoisted the corpse over his shoulder and disappeared.
+The instant the Blood Lord’s frigid voice left his lips, another subordinate hoisted the corpse over his shoulder and disappeared.
 
 This was hardly the first or second time such a thing had happened. They were merely reminded once more of how terrifying their superior was. Not one of them mourned or showed any agitation over the death of the ignorant newcomer who had stepped forward.
 
@@ -349,7 +349,7 @@ The Blood Lord surrendered himself to the sorcerers who had just arrived.
 
 He wanted to slaughter everything in sight, but barely managed to suppress his murderous impulse.
 
-He needed to conserve his strength for now. He had to recover as quickly as possible so he could tear those bastards apart and kill them.
+He needed to conserve his strength. He had to recover as quickly as possible so he could tear those bastards apart.
 
 *The Sword Saint. The Fire King. Cheongpung. And…*
 
