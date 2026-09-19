@@ -1,0 +1,106 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Mr. Jin! Mr. Jin!”\n\n*You’re the nuisance here, asshole.*",
+      "defect": "The translation removes the wordplay between the Japanese address “Jin-san” and the Korean word jinsang, meaning an obnoxious nuisance.",
+      "id": "F01",
+      "rationale": "The narration directly answers the reporter’s repeated address with a bilingual pun, so translating both expressions generically erases the joke.",
+      "replacement": "“Jin-san! Jin-san!”[^1]\n\n*You’re the real jinsang here, asshole.*\n\n[^1]: The Japanese address “Jin-san” sounds like the Korean word *jinsang*, meaning an obnoxious nuisance.",
+      "severity": "minor",
+      "source": "「진 상! 진 상!」\n\n네가 진상이다, 인마."
+    },
+    {
+      "confidence": 0.98,
+      "current": "I’d been wondering where I had seen him before. He was the reporter who had uploaded an article about me being a lifelong bachelor, calling it an exclusive.\n\nAfter that, whenever I typed my name into a search portal, “Jin Taekyung lifelong bachelor” showed up as a related search term.",
+      "defect": "“Lifelong bachelor” means an unmarried man and does not preserve the mocking claim that Jin has never had a romantic relationship.",
+      "id": "F02",
+      "rationale": "모태 솔로 and its abbreviation 모쏠 specifically describe someone who has been single since birth, not merely someone who has never married.",
+      "replacement": "I’d been wondering where I had seen him before. He was the reporter who had posted an article about me having been single my entire life and called it an exclusive.\n\nAfter that, whenever I typed my name into a search portal, “Jin Taekyung single since birth” showed up as a related search term.",
+      "severity": "minor",
+      "source": "어디서 봤나 했더니 내가 모태 솔로라는 기사를 특종이랍시고 인터넷에 올렸던 그 기자다. 그 이후로 포털 사이트에 내 이름을 치면 관련 검색어로 진태경 모쏠이 뜨더라."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Only after things had reached that point did he leave a brief comment on his official social-media account.",
+      "defect": "The draft omits the closing emphasis that this single comment was the entirety of Johnson’s public activity.",
+      "id": "F03",
+      "rationale": "그가 보인 행보의 전부였다 explicitly underscores how completely Johnson had withdrawn from public view.",
+      "replacement": "Only after things had reached that point did he leave a brief comment on his official social-media account. That was the full extent of his public activity.",
+      "severity": "minor",
+      "source": "그 지경까지 가고 나서야 본인의 SNS 공식 계정에 짤막한 코멘트를 하나 남긴 것이 그가 보인 행보의 전부였다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“I was about to cast a spell.”",
+      "defect": "The generic “cast a spell” loses the hostile action: Johnson was about to launch offensive magic in reaction to what he saw.",
+      "id": "F04",
+      "rationale": "마법을 날리다 means to launch or fire magic, which explains the following warning that the suite might have been smashed apart.",
+      "replacement": "“I was about to fire off a spell.”",
+      "severity": "major",
+      "source": "「마법을 날리려고 했지.」"
+    },
+    {
+      "confidence": 0.99,
+      "current": "With the dispelling of the magic, the space began to peel away layer by layer.\n\nBeyond it stood a single person.",
+      "defect": "“Layer by layer” changes the quantity and suggests an ongoing sequence of multiple layers, while the source describes a single covering peeling away as the magic is dispelled.",
+      "id": "F05",
+      "rationale": "한 꺼풀 is one layer or covering, not an unspecified series of layers.",
+      "replacement": "As the magic was dispelled, a single layer peeled away from the space before me.\n\nBeyond it stood a single person.",
+      "severity": "major",
+      "source": "마법의 해제와 더불어 한 꺼풀 벗겨지는 공간. 그 너머에 한 사람이 우뚝 서 있었다."
+    },
+    {
+      "confidence": 0.93,
+      "current": "“Ah, eh, ee, oh, oo. Hellow. Pleased to meet you. I like rice soup. I love kimchi.”",
+      "defect": "The draft regularizes most of the deliberately mangled pronunciation and entirely omits 충, the insulting internet-slang suffix attached to “rice-soup fanatic.”",
+      "id": "F06",
+      "rationale": "The misspellings represent the Skeleton King’s conspicuously awkward pronunciation, while 국밥충 is a slang label for someone obsessively devoted to gukbap, not the food alone.",
+      "replacement": "“Ah, eh, ee, oh, oo. Hellow. Nishe to meet you. I like rice-soup freaks. I wuv kimchi.”",
+      "severity": "major",
+      "source": "“아, 에, 이, 오, 우. 안넝하세오. 판캅습니다. 쿡밥충 조아요. 기움치 싸랑해요.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“That is correct. I watched it for a week. It was extremely exciting and educational.”",
+      "defect": "The draft invents the judgments “exciting and educational” and removes the abrupt shift into emphatic, vulgar internet slang.",
+      "id": "F07",
+      "rationale": "오지고 지리게 intensifies how obsessively he used the internet in deliberately coarse slang; it does not describe the material as educational.",
+      "replacement": "“Indeed. I spent a whole week browsing the shit out of it.”",
+      "severity": "major",
+      "source": "“그렇다. 일주일 동안 오지고 지리게 봤지.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "*Like hell I’m going to thank Johnson. When did he learn basic English, too?*",
+      "defect": "The draft changes the subject and meaning: Jin is mocking the Skeleton King’s phrase “Thank you, Johnson,” not refusing to thank Johnson himself.",
+      "id": "F08",
+      "rationale": "땡큐 존슨 같은 소리 하네 dismissively echoes what the Skeleton King just said; it does not state Jin’s own intention.",
+      "replacement": "*“Thank you, Johnson,” my ass. When did he learn basic English, too?*",
+      "severity": "major",
+      "source": "땡큐 존슨 같은 소리 하네. 영어 기본 회화는 또 언제 배운 거야."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“I saw it on the Internet. Handsome white men are accepted everywhere in the world.”",
+      "defect": "“Are accepted” makes the statement about social acceptance rather than the romantic appeal or success that motivates his desire to date.",
+      "id": "F09",
+      "rationale": "통하다 here means that the look works or is appealing anywhere, as confirmed by his immediately stated desire to date.",
+      "replacement": "“I saw it on the Internet. Handsome white men do well everywhere in the world.”",
+      "severity": "minor",
+      "source": "“인터넷에서 봤다. 잘생긴 백인 남성은 전 세계 어디에서나 통하더군.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "*“Sichuan.”*\n\nThere was no mistake.\n\nIt was the exact same pattern I had seen in Sichuan—not *Sichuan* in the Chinese pronunciation, but the Korean *Sacheon*.",
+      "defect": "The draft falsely explains the contrast as two pronunciations of the same place and violates the established rendering of 사천 as “Sichuan.” The source distinguishes modern China’s Sichuan from the separate Sichuan Jin visited in Murim.",
+      "id": "F10",
+      "rationale": "쓰촨 and 사천 identify the modern-world province and its Murim counterpart respectively; the distinction is geographic and dimensional, not merely Chinese versus Korean pronunciation.",
+      "replacement": "*Sichuan.*\n\nThere was no mistake.\n\nIt was the exact same pattern I had seen in Sichuan—not the province in China, but Sichuan in Murim.",
+      "severity": "critical",
+      "source": "‘사천.’\n\n틀림없다.\n\n쓰촨이 아니라 사천에서 봤던 바로 그 문양이었다."
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it contains one critical location distinction error, several meaningful register and humor losses, and a few altered mechanical or quantitative details.",
+  "version": 1
+}

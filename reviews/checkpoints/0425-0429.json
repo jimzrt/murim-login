@@ -1,0 +1,216 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "\"Lee Jungryong is publicly presumed dead without a surviving body, while Wu Heixing's corpse was recovered after the battle.\"",
+      "defect": "The durable active state omits the still-active Quest that prevents Jin from using Login, even though the checkpoint continuity section explicitly preserves that constraint.",
+      "id": "C01",
+      "rationale": "This is an unresolved mechanical restriction and must survive in the active state for subsequent chapters.",
+      "replacement": "\"Lee Jungryong is publicly presumed dead without a surviving body, while Wu Heixing's corpse was recovered after the battle.\",\n    \"The Quest **One Who Returned from Death** remains active, keeping Login unavailable until the Quest ends.\"",
+      "severity": "major",
+      "source": "Checkpoint durable state, active_continuity after the final listed item"
+    },
+    {
+      "confidence": 0.96,
+      "current": "After four days of staged unconsciousness and a week of recovery and examinations, Jin publicly accepts responsibility for his hostility toward Wu but claims the Arch Lich killed him and that Wu’s potion saved Jin.",
+      "defect": "The chronology compresses two distinct intervals: Jin privately stops pretending after four days, his recovery is publicly announced one week after the battle, and another week of examinations follows.",
+      "id": "C02",
+      "rationale": "The replacement matches the explicit sequence in Chapter 428 without implying that the four-day pretense and subsequent week account for the entire elapsed period.",
+      "replacement": "After four days of pretending to be unconscious, three more days before his recovery is publicly announced, and another week of examinations, Jin publicly accepts responsibility for his hostility toward Wu but claims the Arch Lich killed him and that Wu’s potion saved Jin.",
+      "severity": "minor",
+      "source": "Checkpoint summary, Plot, second paragraph"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Chairman Xiao Yang’s thirty-minute announcement",
+      "defect": "The established name Shao Yang is rendered once as Xiao Yang.",
+      "id": "C03",
+      "rationale": "Every other occurrence in the packet and the binding terminology use Shao Yang.",
+      "replacement": "Chairman Shao Yang’s thirty-minute announcement",
+      "severity": "minor",
+      "source": "Chapter 427, public victory announcement"
+    },
+    {
+      "confidence": 0.97,
+      "current": "The Arch Lich was now nothing more than a pitiful fragment of a soul, incomparable to the power transmitted by the light.",
+      "defect": "The comparison is awkward and logically mismatched: a soul fragment is described as “incomparable to” power, while power is unnaturally said to be “transmitted” by light.",
+      "id": "C04",
+      "rationale": "This preserves the power disparity while producing natural contemporary English.",
+      "replacement": "The Arch Lich was now nothing more than a pitiful fragment of a soul, no match for the power radiating from the light.",
+      "severity": "minor",
+      "source": "Chapter 426, Arch Lich soul-fragment scene"
+    },
+    {
+      "confidence": 0.99,
+      "current": "—“I should have killed you.”",
+      "defect": "The line combines the packet’s em-dash convention for undead speech with ordinary quotation marks.",
+      "id": "C05",
+      "rationale": "Chapter 425 consistently presents the Arch Lich’s speech with an em dash and no quotation marks.",
+      "replacement": "—I should have killed you.",
+      "severity": "minor",
+      "source": "Chapter 426, Arch Lich’s defeat"
+    },
+    {
+      "confidence": 0.99,
+      "current": "—“Remember me. Remember this body, which will one day trample your souls beneath its bare feet.”",
+      "defect": "The line combines the established em-dash speech convention with redundant quotation marks.",
+      "id": "C06",
+      "rationale": "Removing the quotation marks restores the formatting used for the Arch Lich throughout Chapter 425.",
+      "replacement": "—Remember me. Remember this body, which will one day trample your souls beneath its bare feet.",
+      "severity": "minor",
+      "source": "Chapter 426, Arch Lich’s final threat"
+    },
+    {
+      "confidence": 0.99,
+      "current": "—“Asmodeus is a fucking asshole…”",
+      "defect": "The line combines em-dash dialogue formatting with quotation marks.",
+      "id": "C07",
+      "rationale": "The Skeleton King’s nonhuman speech uses the same unquoted em-dash convention established in Chapter 425.",
+      "replacement": "—Asmodeus is a fucking asshole…",
+      "severity": "minor",
+      "source": "Chapter 426, Skeleton King’s interjection"
+    },
+    {
+      "confidence": 0.99,
+      "current": "—“Ah, I know. I just wanted to try it once. But I cannot say that I feel good after uttering something so blasphemous.”",
+      "defect": "The line combines em-dash dialogue formatting with quotation marks.",
+      "id": "C08",
+      "rationale": "This restores the established formatting without changing the Skeleton King’s grandiose voice.",
+      "replacement": "—Ah, I know. I just wanted to try it once. But I cannot say that I feel good after uttering something so blasphemous.",
+      "severity": "minor",
+      "source": "Chapter 426, Skeleton King’s explanation"
+    },
+    {
+      "confidence": 0.99,
+      "current": "—“Oh. That’s true.”",
+      "defect": "The line combines em-dash dialogue formatting with quotation marks.",
+      "id": "C09",
+      "rationale": "The quotation marks are inconsistent with the surrounding undead dialogue convention.",
+      "replacement": "—Oh. That’s true.",
+      "severity": "minor",
+      "source": "Chapter 426, Skeleton King responding to Jin"
+    },
+    {
+      "confidence": 0.99,
+      "current": "—“Please survive. Until the day we meet again…”",
+      "defect": "The line combines em-dash dialogue formatting with quotation marks.",
+      "id": "C10",
+      "rationale": "Removing the redundant quotation marks restores consistency with Chapter 425.",
+      "replacement": "—Please survive. Until the day we meet again…",
+      "severity": "minor",
+      "source": "Chapter 426, Arch Lich’s last words"
+    },
+    {
+      "confidence": 0.99,
+      "current": "—“…You worked hard.”",
+      "defect": "The line combines em-dash dialogue formatting with quotation marks.",
+      "id": "C11",
+      "rationale": "The replacement preserves the pause and emotional restraint while matching the established speech format.",
+      "replacement": "—…You worked hard.",
+      "severity": "minor",
+      "source": "Chapter 426, Skeleton King catching Jin"
+    },
+    {
+      "confidence": 0.99,
+      "current": "—“Ah, that’s right. The sword.”",
+      "defect": "The line combines em-dash dialogue formatting with quotation marks.",
+      "id": "C12",
+      "rationale": "The quotation marks are redundant under the packet’s established undead-speech convention.",
+      "replacement": "—Ah, that’s right. The sword.",
+      "severity": "minor",
+      "source": "Chapter 426, Skeleton King remembering Hero’s Soul"
+    },
+    {
+      "confidence": 0.99,
+      "current": "—“Huh? Something feels strange.”",
+      "defect": "The line combines em-dash dialogue formatting with quotation marks.",
+      "id": "C13",
+      "rationale": "This matches the Skeleton King’s dialogue presentation in Chapter 425.",
+      "replacement": "—Huh? Something feels strange.",
+      "severity": "minor",
+      "source": "Chapter 426, Skeleton King examining Hero’s Soul"
+    },
+    {
+      "confidence": 0.99,
+      "current": "—“Did I pick up the wrong sword?”",
+      "defect": "The line combines em-dash dialogue formatting with quotation marks.",
+      "id": "C14",
+      "rationale": "The quotation marks are an isolated formatting artifact.",
+      "replacement": "—Did I pick up the wrong sword?",
+      "severity": "minor",
+      "source": "Chapter 426, Skeleton King searching for another sword"
+    },
+    {
+      "confidence": 0.99,
+      "current": "—“Hmm. I guess this is it.”",
+      "defect": "The line combines em-dash dialogue formatting with quotation marks.",
+      "id": "C15",
+      "rationale": "The replacement restores consistency without altering the understated delivery.",
+      "replacement": "—Hmm. I guess this is it.",
+      "severity": "minor",
+      "source": "Chapter 426, Skeleton King concluding its search"
+    },
+    {
+      "confidence": 0.99,
+      "current": "—“You… What are you?”",
+      "defect": "The line combines em-dash dialogue formatting with quotation marks.",
+      "id": "C16",
+      "rationale": "The disembodied exchange follows the same em-dash convention used for supernatural speech elsewhere in the packet.",
+      "replacement": "—You… What are you?",
+      "severity": "minor",
+      "source": "Chapter 426, Arch Lich soul fragment confronting the golden light"
+    },
+    {
+      "confidence": 0.99,
+      "current": "—“Lei Fei.”",
+      "defect": "The line combines em-dash dialogue formatting with quotation marks.",
+      "id": "C17",
+      "rationale": "Removing the quotation marks keeps both sides of the supernatural exchange consistently formatted.",
+      "replacement": "—Lei Fei.",
+      "severity": "minor",
+      "source": "Chapter 426, Lei Fei identifying himself"
+    },
+    {
+      "confidence": 0.98,
+      "current": "「Fire Rain!」",
+      "defect": "Japanese-style corner brackets remain around spoken dialogue instead of the required curly double quotation marks.",
+      "id": "C18",
+      "rationale": "The English reading copy requires curly quotation marks for ordinary spoken lines.",
+      "replacement": "“Fire Rain!”",
+      "severity": "minor",
+      "source": "Chapter 426, mage unit attack"
+    },
+    {
+      "confidence": 0.98,
+      "current": "「…Huh?」",
+      "defect": "Japanese-style corner brackets remain around spoken dialogue.",
+      "id": "C19",
+      "rationale": "Curly double quotation marks are the packet’s required English speech format.",
+      "replacement": "“…Huh?”",
+      "severity": "minor",
+      "source": "Chapter 426, mage reacting to a comrade’s death"
+    },
+    {
+      "confidence": 0.99,
+      "current": "「Aaaaargh!」\n\n「Death Knights! It’s Death Knights!」\n\n「Fuck, what the hell are you talking about? Didn’t we take care of all of them?」\n\n「I-I don’t think so! It looks like they hid their elites separately among the others!」",
+      "defect": "Four consecutive spoken lines retain Japanese-style corner brackets rather than English quotation marks.",
+      "id": "C20",
+      "rationale": "Replacing the brackets removes a conspicuous formatting drift while preserving every line and speaker beat.",
+      "replacement": "“Aaaaargh!”\n\n“Death Knights! It’s Death Knights!”\n\n“Fuck, what the hell are you talking about? Didn’t we take care of all of them?”\n\n“I-I don’t think so! It looks like they hid their elites separately among the others!”",
+      "severity": "minor",
+      "source": "Chapter 426, battlefield panic after the Death Knights attack"
+    },
+    {
+      "confidence": 0.98,
+      "current": "I had just lost my words when the final blow to my patience arrived.",
+      "defect": "“Lost my words” is an unnatural English collocation, and “the final blow to my patience arrived” is stiff.",
+      "id": "C21",
+      "rationale": "The replacement preserves the setup for the Skeleton King’s next insult while restoring Jin’s natural conversational narration.",
+      "replacement": "I was still at a loss for words when the final blow to my patience landed.",
+      "severity": "minor",
+      "source": "Chapter 429, Magic Johnson admitting the face matches his tastes"
+    }
+  ],
+  "summary": "The packet is coherent and preserves the major hooks, character voices, and established terminology. Actionable issues are a dropped active Quest constraint, a compressed chronology, one name inconsistency, several Chapter 426 dialogue-formatting artifacts, and two awkward English constructions.",
+  "version": 1
+}
