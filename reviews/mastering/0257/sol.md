@@ -22,19 +22,19 @@ Song Ho hesitated. His wealth of experience told him that the roar had been caus
 
 And not just any martial arts…
 
-*A Supreme Peak master?*
+*Supreme Peak masters?*
 
 Even if one turned the entire world upside down and scraped it bare, there might not be more than thirty Supreme Peak masters in existence.
 
-The aftermath he had sensed clearly indicated a clash between Supreme Peak masters.
+What he had just sensed clearly indicated a clash between masters of that realm.
 
 This was no ordinary matter. Had the Always-Victorious Sword, Jongni Chu, finally made his move?
 
 *But adequate precautions should already be in place.*
 
-They had already searched every inch around the Murim Alliance. They had thoroughly inspected everyone and everything in preparation for any possible situation, even taking into account the possibility that explosives might have been brought in and planted.
+They had searched every inch around the Murim Alliance. Everyone and everything had been thoroughly inspected in preparation for any contingency, and their search had even accounted for the possibility that explosives might have been smuggled in and planted.
 
-A tiger was still a tiger even after losing its teeth. The Hidden Shadow Pavilion might not have been what it once was, but its intelligence network was still capable of controlling Henan Province.
+A tiger was still a tiger even after losing its teeth. The Hidden Shadow Pavilion might not be what it once was, but its intelligence network was still capable of keeping Henan Province under watch.
 
 *And three of the Ten Kings are there.*
 
@@ -44,7 +44,7 @@ It would be no exaggeration to call that place the Murim world in miniature.
 
 *I must be getting old. Perhaps I’ve worried too much.*
 
-It was all because of those unknown beings who had yet to reveal their true identities.
+It was all because of the unknown forces that had yet to reveal themselves.
 
 Song Ho clearly remembered the conversation he had shared with the Dharma King, Hong Dao, when the man had come to find him a year ago.
 
@@ -146,7 +146,7 @@ A playful smile tugged at Jongni Chu’s lips.
 
 “Four Ounces Deflecting a Thousand Catties. Rather than trying to overpower your opponent, you must read the flow.”
 
-“…”
+“…!”
 
 Kaaaang!
 
@@ -168,7 +168,7 @@ Blue flames gathered around my right foot, which carried one jiazi of internal e
 
 *Flame Wheel Kick.*
 
-The blazing flames slammed into the back of Jongni Chu’s neck.
+The blazing kick slammed into the side of Jongni Chu’s neck.
 
 Bang!
 
@@ -198,7 +198,7 @@ The wind stopped.
 
 This time, my senses were one step ahead of my body. At the last instant, I crossed my arms, and Jongni Chu’s fist slammed into them.
 
-It was a strike carrying an enormous amount of internal energy, unlike anything he had used before.
+The strike carried a tremendous amount of internal energy, unlike anything he had shown until now.
 
 Kra-boom!
 
@@ -210,15 +210,15 @@ Crack.
 
 Even my extraordinary Muscles and Bones, fine enough to be called the Heavenly Martial Physique, were useless this time.
 
-I clenched my teeth and endured the sharp pain running along my spine.
+I clenched my teeth against the searing pain running down my spine.
 
-*How dare this bastard.*
+*This fucking bastard.*
 
 Boom!
 
 I slammed my free left hand into the ground.
 
-I shot upward two or three times faster than I had fallen. Jongni Chu’s brightly smiling face appeared before me.
+I shot upright two or three times faster than I had fallen, and Jongni Chu’s beaming face appeared before me.
 
 I roared.
 
@@ -252,13 +252,13 @@ My opponent was a Supreme Peak master who had reached the realm of Returning to 
 
 I had expected him to be strong, but he was far stronger than I had imagined.
 
-Even allowing for the fact that he had learned demonic martial arts, it was difficult to understand how someone that young could possess such martial power.
+Even if he had learned demonic martial arts, it was hard to believe someone so young could possess this much power.
 
 “What the hell are you, really?”
 
 I wiped the blood from my mouth with my sleeve.
 
-Jongni Chu let out a hollow laugh.
+Jongni Chu gave a disbelieving laugh.
 
 “That’s what I’d like to ask you. I never thought I would encounter a monster like you in my lifetime.”
 
@@ -278,7 +278,7 @@ My insides burned from the Internal Injury.
 
 “Whenever people encounter something beyond the bounds of common reason, their thoughts turn to the word ‘demonic.’ It is difficult to accept things for what they are.”
 
-“Yeah, it really isn’t easy. So what kind of demonic martial art did you learn?”
+“Yeah, no shit. So what demonic martial art did you learn?”
 
 “Any further exchange of questions would be a waste of time.”
 
@@ -304,7 +304,7 @@ I had lost count of how many brushes with death I had survived.
 
 What mattered was that I had survived every one of them.
 
-And it would be the same from now on.
+And it would be no different this time.
 
 Wasn’t that why I had followed the Fire King and endured training that had seemed utterly impossible?
 
@@ -330,7 +330,7 @@ My sleeping time had dwindled while the iron ball grew heavier and heavier. Even
 
 *Status Window, open.*
 
-As soon as I muttered the words inwardly, a holographic window filled my vision.
+At my inward command, a holographic window filled my vision.
 
 A great deal had changed over the past year—the Level displayed in my Status Window, the numbers, and even the number of Titles.
 
@@ -352,7 +352,7 @@ The points I had diligently deposited over the past year had become a hefty lump
 
 “What does that mean?”
 
-Jongni Chu tilted his head, unable to understand my words.
+Jongni Chu tilted his head, unable to understand me.
 
 I grinned at him and raised White Flame.
 
@@ -368,7 +368,7 @@ Everything advanced another step. New power gathered, connected, and seeped into
 
 In a world slowed almost to a standstill, I took a step.
 
-Swish.
+Sssrk.
 
 There was no sound.
 
@@ -400,7 +400,7 @@ Each time I narrowly evaded an attack and retreated, another was already waiting
 
 Krrrzzzt!
 
-A single punch and a single kick created massive craters, laying waste to everything around us.
+A single punch or kick gouged out a massive crater, laying waste to everything around us.
 
 The impossibly solid dueling platform became riddled with pits and cracks spreading like a spiderweb.
 
@@ -442,7 +442,7 @@ Bang!
 
 It all happened in an instant.
 
-I stared blankly at his back as he stepped on empty air and vanished.
+I stared dumbfounded at his back as he stepped through the air and disappeared.
 
 Then I snapped out of it and screamed after him.
 
