@@ -1502,3 +1502,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 화왕질리언 | **Fire King Zilean** | Pun combining Jeok Cheongang's Fire King title with Zilean for the waxing joke. |
 | 대천성신장 | **Great Heavenly Star Divine Palm** | Zhuge Clan palm technique used to block Tianling Falls. |
 | 월미도 디스코 팡팡 | **Wolmido Disco Pang Pang** | Korean amusement-park ride used as a motion comparison. |
+| 왕필 | **Wang Pil** | The Little Tide Demon, Deputy Stronghold Lord of Donghu Stronghold, and Hwang Chung's right-hand man. |
+| 소조귀 | **Little Tide Demon** | Wang Pil's sobriquet. |

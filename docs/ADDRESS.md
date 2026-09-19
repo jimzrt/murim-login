@@ -770,3 +770,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 제갈풍 | 현공진인 | Zhuge Clan Family Head to senior Wudang master | Perfected Being Hyeongong | formal-deferential | Addresses Hyeongong with marked respect and calls his presence a great reinforcement. |
 | 궁기방 | 무송 | martial companion to Stronghold Lord | Senior Mu Song | pleading-deferential | Begins pleading for Mu Song to save them from Tianling Falls. |
 | 진위경 | 무송 | Alliance inspector to Stronghold Lord | Stronghold Lord | formal and cautionary | Uses 채주 while warning Mu Song that the group did not come to spill blood. |
+| 무송 | 황충 | junior_martial_artist_to_mentor_like_uncle | Uncle Hwang | familiar-respectful | Mu Song privately addresses Hwang Chung as 황 숙부 and cries out for him after discovering Donghu Stronghold's destruction. |
