@@ -46,7 +46,7 @@ Unnamed answered, “He is currently staying here despite the Discipline Hall’
 
 Like friend, like friend. This old man was no pushover either.
 
-Hong Dao, however, only laughed heartily as he pulled out some kind of staff from inside his robes and waved it around.
+Hong Dao merely laughed and pulled some kind of staff from inside his robes, waving it around.
 
 “What can they do? They’re the ones who forced the position of Abbot on someone who said he didn’t want it.”
 
@@ -112,7 +112,7 @@ For a moment, I wondered if I had misheard him.
 
 “That is correct.”
 
-*Oh, so the monks here eat meat. Well, I suppose they need to bulk up while training in martial arts, so that makes sense…*
+“Oh, so the monks here eat meat. Well, I suppose they need to bulk up while training in martial arts, so it makes sense…”
 
 “That is not the case. Buddhism forbids taking life. Livestock are no exception.”
 
@@ -124,7 +124,7 @@ Where had this conversation gone wrong?
 
 I stared blankly at Unnamed for a while, unable to say anything more.
 
-Then I looked at the muscles writhing beneath his loose robes and became certain.
+Then I looked at the muscles shifting beneath his loose robes and became certain.
 
 *This bastard eats meat too.*
 
@@ -156,7 +156,7 @@ Unnamed stepped away for a while, leaving Jeok Cheongang, Hong Dao, and me seate
 
 “…”
 
-For someone who had supposedly given it up, he seemed to have drunk enough alcohol to last a lifetime.
+For someone who had supposedly quit drinking, he seemed to have consumed enough alcohol to last several lifetimes.
 
 I couldn’t bring myself to say it aloud and merely tipped my cup back. Jeok Cheongang, on the other hand, gaped at him.
 
@@ -194,9 +194,9 @@ Having suddenly gone world-class, I smiled awkwardly.
 
 “Did I not call you the Master of Morning Star?”
 
-*Yes, but what does that mean?*
+*Yes, but what the hell does that mean?*
 
-Seeing my bewildered expression, Hong Dao smiled faintly.
+Hong Dao smiled at my bewildered expression.
 
 “Benefactor, do you know what a Morning Star is?”
 
@@ -214,7 +214,7 @@ Hong Dao nodded and continued in a calm voice.
 
 “The heavenly patterns…”
 
-The events of the past half day suddenly flashed through my mind.
+The events of the past half day flashed through my mind.
 
 Unnamed had come looking for us on his master’s orders, and the moment he saw me, he had called me the Master of Morning Star.
 
@@ -228,7 +228,7 @@ He hadn’t guided us here using information gathered from other people. He had 
 
 Calling it prophecy wouldn’t even be an exaggeration.
 
-I sensed something unusual from Hong Dao and swallowed hard.
+Sensing something extraordinary in Hong Dao’s words, I swallowed hard.
 
 “So?”
 
@@ -240,35 +240,33 @@ Hong Dao pointed through the open doors of the Buddha hall, toward the distant n
 
 “…”
 
-“People often compare humans to stars. I believe that Morning Star is you.”
+“People often compare men to stars. I believe that Morning Star is you.”
 
-Whenever someone is born or dies after accomplishing something great, people rejoice or lament.
+Whenever someone destined for great deeds was born or died, people rejoiced or mourned.
 
-*A new star has risen. Or a great star has fallen.*
+*A new star has risen. A great star has fallen.*
 
-*But the Morning Star that appeared this time is supposed to be me?*
+*And the Morning Star that appeared this time is supposed to be me?*
 
 Hong Dao clearly meant it as something good.
 
 Still, I wasn’t sure what to make of it.
 
-Just as I scratched the back of my head with a perplexed expression, one of Hong Dao’s words pierced my ears.
-
-“That was four months ago.”
+I was scratching the back of my head in confusion when Hong Dao added, “That was four months ago.”
 
 “…!”
 
-My entire body tingled as though I had been struck by electricity.
+A shock ran through my entire body as if I had been struck by lightning.
 
 My mouth went dry, and my heart pounded. One thought spun endlessly through my mind.
 
 *Four months ago?*
 
-If it was then…
+That was…
 
 That was around the time I had first awakened in the Murim.
 
-Hong Dao smiled warmly at me as I swallowed dryly.
+Hong Dao smiled at me as I swallowed dryly.
 
 “You seem to have something in mind.”
 
@@ -286,7 +284,7 @@ Jeok Cheongang, who had been listening silently, cut in with a disgusted look.
 
 Damn it. My tongue wouldn’t stop tripping over itself.
 
-Hong Dao burst into laughter as I slowly edged my bottom away from Jeok Cheongang to avoid his sharp gaze.
+Hong Dao burst into laughter as I slowly edged away from Jeok Cheongang’s sharp gaze.
 
 “It seems the benefactor is in urgent need of the privy. You may leave.”
 
@@ -294,7 +292,7 @@ Hong Dao burst into laughter as I slowly edged my bottom away from Jeok Cheongan
 
 I looked back and forth between the two of them, then bolted for the door.
 
-Behind me, I heard Hong Dao’s booming laughter and Jeok Cheongang’s shouts.
+Hong Dao’s booming laughter and Jeok Cheongang’s shouts followed me out.
 
 * * *
 
@@ -338,7 +336,7 @@ He effortlessly lifted aside the largest statue, fumbled behind it, and pulled o
 
 “Snake liquor?”
 
-“The Thousand-Year Poison Horned Snake. Have you heard of it?”
+“Made with a Thousand-Year Poison Horned Snake. Have you heard of it?”
 
 “The Thousand-Year Poison Horned Snake!”
 
@@ -362,11 +360,11 @@ Hong Dao gazed off toward the distant mountains.
 
 Jeok Cheongang gave Hong Dao a pointed glare, then muttered, “Still, this thing’s venom must be no joke…”
 
-“Indeed. A single drop of venom squeezed from a Thousand-Year Poison Horned Snake can kill a hundred cows.”
+“Indeed. A single drop squeezed from a Thousand-Year Poison Horned Snake could kill a hundred cows.”
 
 “It’s been in there for thirty years. At this point, that’s not liquor. It’s poison.”
 
-“We only broke the seal for a moment, and already this much poisonous energy has spread through the air. What more is there to say?”
+“We only broke the seal for a moment, and already this much poisonous energy has escaped. What more is there to say?”
 
 “Something this strong would kill even a decent master, wouldn’t it?”
 
@@ -396,7 +394,7 @@ Jeok Cheongang licked up the very last drop while Hong Dao glared at him.
 
 Though both men numbered among the Ten Kings, a slight difference in skill still existed.
 
-Hong Dao had lost out in the grappling technique they used to wrestle the jar away from each other, so he had not managed to drink even half of what it contained.
+Hong Dao had lost their contest of grappling techniques over possession of the jar and had failed to drink even half the liquor.
 
 “An old brute with nothing but strength. No wonder you’ve lived so long.”
 
@@ -406,7 +404,7 @@ Hong Dao had lost out in the grappling technique they used to wrestle the jar aw
 
 Pleasantly drunk, Jeok Cheongang burst into laughter.
 
-“That’s what the heavenly patterns said, isn’t it? What can you do when Heaven has decided your lifespan?”
+“That’s what the heavenly patterns said, isn’t it? What can we do when Heaven itself has decided our lifespans?”
 
 “The heavenly patterns…”
 
@@ -432,7 +430,7 @@ Hong Dao sighed and raised his head.
 
 Though the ceiling of the Buddha hall blocked his view, the old monk’s profound gaze seemed to pierce straight through it.
 
-“The heavenly patterns are becoming distorted. Drawing closer, and moving faster.”
+“The heavenly patterns are falling into disarray. The disturbance is drawing closer, faster and faster.”
 
 “…!”
 
@@ -464,15 +462,15 @@ Jeok Cheongang hastily cut him off.
 
 “No, that’s not what I meant. I remembered something Jin Wikyung, the Lesser Family Head of the Jin Family of Taiyuan, told me.”
 
-“Jin Wikyung? I don’t know who that is, but are you saying he predicted this situation as well?”
+“Jin Wikyung? I don’t know the name, but are you saying he foresaw this situation as well?”
 
-“More accurately, it appeared before them. I saw it with my own eyes.”
+“More accurately, they appeared before his family. I saw the evidence with my own eyes.”
 
 Jeok Cheongang gave Hong Dao a detailed account of what had happened seven days and nights earlier, just before he left the Jin Family of Taiyuan.
 
-He told him about the surviving remnants of the Head Elder’s faction, who were still alive despite the restrictions placed on them, and about everything that had happened up to that point. He also told him about the mysterious pill called the Temporary Strength Pill that he had taken from Pung Yang, the Red Wind Band Leader.
+He told him about the surviving remnants of the Head Elder’s faction, who remained bound by the restrictions placed upon them, and everything they had learned so far. He also described the mysterious Temporary Strength Pill he had taken from Pung Yang, the Red Wind Band Leader.
 
-Jin Wikyung had passed all those facts to Jeok Cheongang, and Jeok Cheongang now passed them to Hong Dao.
+Jin Wikyung had told Jeok Cheongang everything he knew, and now Jeok Cheongang passed it all on to Hong Dao.
 
 “It was astonishing. The restrictions placed on them were so complex that even I couldn’t easily break them, and the effects of that Temporary Strength Pill were bizarrely powerful.”
 
@@ -480,7 +478,7 @@ Jin Wikyung had passed all those facts to Jeok Cheongang, and Jeok Cheongang now
 
 “The hidden force that manipulated the Blade of Flowers from the shadows for decades. They are Dark Heaven.”
 
-“Ngh…”
+“Hah…”
 
 When the story ended, Hong Dao let out a low groan and sank into thought.
 
@@ -494,7 +492,7 @@ A long time passed before he finally spoke.
 
 Jeok Cheongang gazed deeply at his old friend and finished the sentence.
 
-“You must stay beside the Morning Star. So it doesn’t fade easily.”
+“I must stay beside the Morning Star. Make sure its light isn’t easily extinguished.”
 
 Jeok Cheongang knew his task did not end there. He had to protect that light while helping it shine even brighter.
 
@@ -504,13 +502,13 @@ Having realized their respective duties, neither man hesitated any longer.
 
 “I won’t see you off. We’ll save the rest of our reunion for another time.”
 
-Their farewell was long, but their meeting had been short.
+Their separation had been long, and their reunion short.
 
 Jeok Cheongang smiled at Hong Dao one last time, then strode out of the Buddha hall without hesitation.
 
-Remembering the words he had not managed to finish saying.
+As he left, he recalled the words he had never gotten the chance to say.
 
-*It was a short meeting, but I enjoyed it.*
+*It was a short reunion, but I enjoyed it.*
 
 Late that night, the young man and the old man left Shaoshi Peak on Mount Song.
 
