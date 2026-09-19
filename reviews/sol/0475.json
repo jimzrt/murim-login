@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "*Inventory Open. Summon.*",
+      "defect": "The Inventory storage command is omitted, obscuring the first half of the store-and-resummon maneuver.",
+      "id": "F01",
+      "rationale": "The source explicitly has Taekyung store White Flame in his Inventory before opening it and summoning the weapon back into his hand.",
+      "replacement": "*Store in Inventory. Open. Summon.*",
+      "severity": "major",
+      "source": "‘인벤토리 수납. 오픈. 소환.’"
+    },
+    {
+      "confidence": 0.96,
+      "current": "He asked me to call him Aquaman.",
+      "defect": "The translation silently corrects the deliberately malformed or misremembered name 아구아맨 to Aquaman, removing the joke in Cheongpung’s recollection.",
+      "id": "F02",
+      "rationale": "The source says 아구아맨 rather than the standard Korean rendering 아쿠아맨, and the surrounding hesitation foregrounds Cheongpung’s imperfect recollection.",
+      "replacement": "He asked me to call him Aguaman.",
+      "severity": "major",
+      "source": "자기를 아구아맨이라고 불러 달라고 했어요."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The sudden jolt to its body made the sphere of water, which had been nearing completion, falter. But the satisfaction on my face hardened at once.",
+      "defect": "The source says Taekyung’s expression hardened despite accomplishing his immediate objective; it does not describe satisfaction hardening on his face.",
+      "id": "F03",
+      "rationale": "소기의 목적을 달성한 means that he achieved his intended purpose, while 얼굴은 딱딱하게 굳었다 describes his expression turning rigid.",
+      "replacement": "The sudden jolt to its body made the sphere of water, which had been nearing completion, falter. But despite accomplishing what I’d intended, my expression hardened.",
+      "severity": "minor",
+      "source": "갑작스럽게 동체가 흔들리자 빠르게 완성되어 가던 물의 구가 주춤했지만, 소기의 목적을 달성한 내 얼굴은 딱딱하게 굳었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“There’s something I want to ask. Did you happen to learn water arts while I wasn’t looking?”",
+      "defect": "몇 가지 is plural, and 못 본 사이 means during the time they had not seen each other, not while Mungyeong literally was not looking.",
+      "id": "F04",
+      "rationale": "The replacement preserves both the plural setup and the interval between their meetings.",
+      "replacement": "“There are a few things I want to ask. Did you happen to learn water arts since we last saw each other?”",
+      "severity": "minor",
+      "source": "“몇 가지 묻고 싶은 게 있는데. 혹시 못 본 사이에 수공(水功)이라도 익혔나?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“You really are arbitrary. It sounds like you’re saying you never learned water arts after all.”",
+      "defect": "“You really are arbitrary” is an unnatural dictionary gloss and does not convey Mungyeong’s criticism that Jeok Cheongang simply does whatever he pleases.",
+      "id": "F05",
+      "rationale": "제멋대로 describes self-willed behavior, and the replacement preserves Mungyeong’s dry, blunt register.",
+      "replacement": "“You really do whatever you please. It sounds like you never learned water arts after all.”",
+      "severity": "minor",
+      "source": "“정말이지 제멋대로군. 결국 수공을 익히지 않았다는 이야기로 들리는데.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Attack formation, form up!”",
+      "defect": "The command is redundant and unnatural in English.",
+      "id": "F06",
+      "rationale": "The source gives a direct command to assume an attack formation; the replacement conveys it without repeating “formation” and “form.”",
+      "replacement": "“Form an attack formation!”",
+      "severity": "minor",
+      "source": "“공격 대형, 갖춰!”"
+    }
+  ],
+  "summary": "Two meaningful fidelity defects and four localized wording issues.",
+  "version": 1
+}
