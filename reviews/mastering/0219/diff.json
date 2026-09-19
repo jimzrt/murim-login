@@ -1,0 +1,2374 @@
+{
+  "baseline_blocks": 172,
+  "baseline_sha256": "c70e76ee8e9b9ce9d593c0f0955a38a3c998a27631268b0da759d694bf04d130",
+  "global_terminology_alerts": [
+    {
+      "korean": "등급",
+      "preferred": "Grade"
+    }
+  ],
+  "hunk_count": 129,
+  "hunks": [
+    {
+      "baseline": "From the early days of the Great Cataclysm to the present, humanity had classified monsters and established a hierarchy based on its countless experiences with death and destruction.",
+      "baseline_paragraphs": "P2",
+      "baseline_range": [
+        1,
+        2
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "5",
+      "sol": "From the early days of the Great Cataclysm to the present, humanity had drawn on countless experiences of death and destruction to classify monsters and establish a hierarchy among them.",
+      "sol_paragraphs": "P2",
+      "sol_range": [
+        1,
+        2
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Accordingly, the Grade of each Gate was determined by the Grade of the monsters inhabiting it.",
+      "baseline_paragraphs": "P3",
+      "baseline_range": [
+        2,
+        3
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "7",
+      "sol": "A Gate’s rank was determined by the rank of the monsters that inhabited it.",
+      "sol_paragraphs": "P3",
+      "sol_range": [
+        2,
+        3
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "등급",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Grade"
+        }
+      ]
+    },
+    {
+      "baseline": "*There are exceptions to everything.*",
+      "baseline_paragraphs": "P5",
+      "baseline_range": [
+        4,
+        5
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "11",
+      "sol": "*There are exceptions to every rule.*",
+      "sol_paragraphs": "P5",
+      "sol_range": [
+        4,
+        5
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Mutated Gates were one such exception. Having broken free from the boundaries established by humanity, they were, in every sense of the word, mutations.",
+      "baseline_paragraphs": "P6",
+      "baseline_range": [
+        5,
+        6
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "13",
+      "sol": "Mutated Gates were one such exception. They existed outside the boundaries humanity had established. They were, in every sense of the word, mutations.",
+      "sol_paragraphs": "P6",
+      "sol_range": [
+        5,
+        6
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Another variable had intruded into the space known as Gates—spaces that humanity still regarded as an enigma.",
+      "baseline_paragraphs": "P7",
+      "baseline_range": [
+        6,
+        7
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "15",
+      "sol": "Gates were already an enigma to humanity, and now another variable had entered the equation.",
+      "sol_paragraphs": "P7",
+      "sol_range": [
+        6,
+        7
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A D-Rank monster could appear in an F-Rank Gate, and a B-Rank monster could appear in a D-Rank Gate.",
+      "baseline_paragraphs": "P9",
+      "baseline_range": [
+        8,
+        9
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "19",
+      "sol": "A D-Rank monster could appear in an F-Rank Gate. A B-Rank monster could appear in a D-Rank Gate.",
+      "sol_paragraphs": "P9",
+      "sol_range": [
+        8,
+        9
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That alone was a horrifying nightmare, but there was one even greater problem.",
+      "baseline_paragraphs": "P10",
+      "baseline_range": [
+        9,
+        10
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "21",
+      "sol": "That alone was the stuff of nightmares, but an even greater problem remained.",
+      "sol_paragraphs": "P10",
+      "sol_range": [
+        9,
+        10
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As if running into an unexpected higher-level monster wasn’t bad enough, every one of those creatures possessed strength that surpassed that of other monsters of the same Grade.",
+      "baseline_paragraphs": "P12",
+      "baseline_range": [
+        11,
+        12
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "25",
+      "sol": "As if encountering an unexpectedly high-ranking monster wasn’t shitty enough, every creature that appeared this way possessed strength far beyond that of other monsters in the same rank.",
+      "sol_paragraphs": "P12",
+      "sol_range": [
+        11,
+        12
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "등급",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Grade"
+        }
+      ]
+    },
+    {
+      "baseline": "The term Rare Monster was coined for the first time then.",
+      "baseline_paragraphs": "P13",
+      "baseline_range": [
+        12,
+        13
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "27",
+      "sol": "That was when the term Rare Monster was first coined.",
+      "sol_paragraphs": "P13",
+      "sol_range": [
+        12,
+        13
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And not long afterward, someone raised another question.",
+      "baseline_paragraphs": "P14",
+      "baseline_range": [
+        13,
+        14
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "29",
+      "sol": "Before long, someone raised another question.",
+      "sol_paragraphs": "P14",
+      "sol_range": [
+        13,
+        14
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Then what about the Rare Monsters that appear in A-Rank Mutated Gates? Aren’t they too strong to be considered the same Grade?*",
+      "baseline_paragraphs": "P15",
+      "baseline_range": [
+        14,
+        15
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "33",
+      "sol": "*Then what about the Rare Monsters that appear in A-Rank Mutated Gates? Aren’t they too powerful to be placed in the same rank?*",
+      "sol_paragraphs": "P15",
+      "sol_range": [
+        14,
+        15
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "등급",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Grade"
+        }
+      ]
+    },
+    {
+      "baseline": "For Hunters, A-Rank represented the highest realm that could be reached through a single awakening.",
+      "baseline_paragraphs": "P16",
+      "baseline_range": [
+        15,
+        16
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "37",
+      "sol": "For Hunters, A-Rank was the highest level attainable through a single awakening.",
+      "sol_paragraphs": "P16",
+      "sol_range": [
+        15,
+        16
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Among them, those recognized as especially strong were given the honorable Title of ranker.",
+      "baseline_paragraphs": "P17",
+      "baseline_range": [
+        16,
+        17
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "39",
+      "sol": "Those acknowledged as particularly strong even among A-Rank Hunters received the prestigious Title of ranker.",
+      "sol_paragraphs": "P17",
+      "sol_range": [
+        16,
+        17
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The same issue applied to monsters. After countless arguments and debates in the relevant academic circles, a new term was born.",
+      "baseline_paragraphs": "P18",
+      "baseline_range": [
+        17,
+        18
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "41",
+      "sol": "The same issue applied to monsters. After endless debate within the relevant academic circles, a new term was born.",
+      "sol_paragraphs": "P18",
+      "sol_range": [
+        17,
+        18
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "True monstrosities that had broken beyond the boundaries of A-Rank.",
+      "baseline_paragraphs": "P20",
+      "baseline_range": [
+        19,
+        20
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "45",
+      "sol": "True monstrosities that had transcended the limits of A-Rank.",
+      "sol_paragraphs": "P20",
+      "sol_range": [
+        19,
+        20
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Team Leader 1, the only one to return alive, had said that such a Named Monster was here.",
+      "baseline_paragraphs": "P21",
+      "baseline_range": [
+        20,
+        21
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "47",
+      "sol": "Team Leader 1, the only one to return alive, said there was one here.",
+      "sol_paragraphs": "P21",
+      "sol_range": [
+        20,
+        21
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "몬스터",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "monster"
+        }
+      ]
+    },
+    {
+      "baseline": "In the very space where we stood—in the Wyvern’s Nest.",
+      "baseline_paragraphs": "P22",
+      "baseline_range": [
+        21,
+        22
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "49",
+      "sol": "Right where we stood, in the Wyvern’s Nest.",
+      "sol_paragraphs": "P22",
+      "sol_range": [
+        21,
+        22
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Won Myunghoon shouted roughly as he seized Team Leader 1 by the collar.",
+      "baseline_paragraphs": "P24",
+      "baseline_range": [
+        23,
+        24
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "53",
+      "sol": "Won Myunghoon seized Team Leader 1 by the collar with a furious shout.",
+      "sol_paragraphs": "P24",
+      "sol_range": [
+        23,
+        24
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“There’s no such thing as a Named Monster here.”",
+      "baseline_paragraphs": "P25",
+      "baseline_range": [
+        24,
+        25
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "55",
+      "sol": "“A Named Monster? There’s no way something like that could be here.”",
+      "sol_paragraphs": "P25",
+      "sol_range": [
+        24,
+        25
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“It was several times larger than an ordinary Wyvern. It was so huge that I couldn’t believe what I was seeing, even with my own eyes.”",
+      "baseline_paragraphs": "P28",
+      "baseline_range": [
+        27,
+        28
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "61",
+      "sol": "“It was several times larger than an ordinary Wyvern. I could hardly believe it even while I was looking right at it.”",
+      "sol_paragraphs": "P28",
+      "sol_range": [
+        27,
+        28
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But the terror Team Leader 1 had received from the Named Monster was beyond imagination.",
+      "baseline_paragraphs": "P30",
+      "baseline_range": [
+        29,
+        30
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "65",
+      "sol": "But the terror the Named Monster had instilled in Team Leader 1 was beyond anything I could have imagined.",
+      "sol_paragraphs": "P30",
+      "sol_range": [
+        29,
+        30
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Despite being an A-Rank Hunter, he was so frightened that he looked like a seven-year-old child.",
+      "baseline_paragraphs": "P31",
+      "baseline_range": [
+        30,
+        31
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "67",
+      "sol": "The title of A-Rank Hunter seemed wasted on him. He was as terrified as a seven-year-old child.",
+      "sol_paragraphs": "P31",
+      "sol_range": [
+        30,
+        31
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That thing is on an entirely different level from the Wyverns we’ve fought so far. We need to run right now.”",
+      "baseline_paragraphs": "P32",
+      "baseline_range": [
+        31,
+        32
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "69",
+      "sol": "“That thing is on a completely different level from any Wyvern we’ve faced before. We need to run. Right now.”",
+      "sol_paragraphs": "P32",
+      "sol_range": [
+        31,
+        32
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Kim Jonghun, you son of a—”",
+      "baseline_paragraphs": "P33",
+      "baseline_range": [
+        32,
+        33
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "71",
+      "sol": "“Kim Jonghun, you son of a…”",
+      "sol_paragraphs": "P33",
+      "sol_range": [
+        32,
+        33
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Grind.",
+      "baseline_paragraphs": "P34",
+      "baseline_range": [
+        33,
+        34
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "73",
+      "sol": "",
+      "sol_paragraphs": "after P33",
+      "sol_range": [
+        33,
+        33
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Won Myunghoon ground his teeth, but that was all he did.",
+      "baseline_paragraphs": "P35",
+      "baseline_range": [
+        34,
+        35
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "75",
+      "sol": "Won Myunghoon ground his teeth, but that was all he could do.",
+      "sol_paragraphs": "P34",
+      "sol_range": [
+        33,
+        34
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Although he had fallen short of expectations in every respect, he had once risen to the rank of ranker. As an A-Rank Hunter, he couldn’t possibly be unaware of what everyone here already knew.",
+      "baseline_paragraphs": "P36",
+      "baseline_range": [
+        35,
+        36
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "77",
+      "sol": "He might have fallen short of my expectations in every possible way, but he was still an A-Rank Hunter who had once risen to the ranks of the rankers. There was no way he didn’t understand what everyone else here already knew.",
+      "sol_paragraphs": "P35",
+      "sol_range": [
+        34,
+        35
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Won Myunghoon was bullying Team Leader 1 only as a defense mechanism to conceal his own fear.",
+      "baseline_paragraphs": "P37",
+      "baseline_range": [
+        36,
+        37
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "79",
+      "sol": "Won Myunghoon was berating Team Leader 1 merely to hide his own fear.",
+      "sol_paragraphs": "P36",
+      "sol_range": [
+        35,
+        36
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*There must have been signs of a Mutated Gate already.*",
+      "baseline_paragraphs": "P38",
+      "baseline_range": [
+        37,
+        38
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "81",
+      "sol": "*There must have been signs that this was a Mutated Gate.*",
+      "sol_paragraphs": "P37",
+      "sol_range": [
+        36,
+        37
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I knew that well, having experienced it myself three years ago.",
+      "baseline_paragraphs": "P39",
+      "baseline_range": [
+        38,
+        39
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "83",
+      "sol": "I knew them well. I had experienced them myself three years ago.",
+      "sol_paragraphs": "P38",
+      "sol_range": [
+        37,
+        38
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The strangely low number of monsters that appeared. And the unusually generous amount of Magic Gems compared to the number of monsters defeated.",
+      "baseline_paragraphs": "P40",
+      "baseline_range": [
+        39,
+        40
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "85",
+      "sol": "Strangely few monsters. And far more Magic Gems than the number of defeated monsters should have yielded.",
+      "sol_paragraphs": "P39",
+      "sol_range": [
+        38,
+        39
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I hadn’t known about the latter. Handling the byproducts was the Star Guild’s responsibility, and even though this was a joint raid, Won Myunghoon was the commander who made every decision.",
+      "baseline_paragraphs": "P41",
+      "baseline_range": [
+        40,
+        41
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "87",
+      "sol": "I hadn’t known about the latter. The Star Guild was responsible for handling the spoils, and although this was a joint raid, Won Myunghoon was still the commander with final say over everything.",
+      "sol_paragraphs": "P40",
+      "sol_range": [
+        39,
+        40
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*And that commander just took a giant shit.*",
+      "baseline_paragraphs": "P42",
+      "baseline_range": [
+        41,
+        42
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "89",
+      "sol": "*And that commander just shit the bed.*",
+      "sol_paragraphs": "P41",
+      "sol_range": [
+        40,
+        41
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "This wasn’t a minor error in judgment.",
+      "baseline_paragraphs": "P43",
+      "baseline_range": [
+        42,
+        43
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "91",
+      "sol": "This was no minor error in judgment.",
+      "sol_paragraphs": "P42",
+      "sol_range": [
+        41,
+        42
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The thing stalking us somewhere in that wasteland wasn’t an ordinary Wyvern, but a Named Monster.",
+      "baseline_paragraphs": "P44",
+      "baseline_range": [
+        43,
+        44
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "93",
+      "sol": "The creature stalking us somewhere in the wasteland wasn’t an ordinary Wyvern. It was a Named Monster.",
+      "sol_paragraphs": "P43",
+      "sol_range": [
+        42,
+        43
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Goddammit…”",
+      "baseline_paragraphs": "P45",
+      "baseline_range": [
+        44,
+        45
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "95",
+      "sol": "“Fucking hell…”",
+      "sol_paragraphs": "P44",
+      "sol_range": [
+        43,
+        44
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "As Won Myunghoon spat out a harsh curse, Team Leader Choi spoke.",
+      "baseline_paragraphs": "P46",
+      "baseline_range": [
+        45,
+        46
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "97",
+      "sol": "As Won Myunghoon spat out the curse, Team Leader Choi spoke.",
+      "sol_paragraphs": "P45",
+      "sol_range": [
+        44,
+        45
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Let’s calm down. In the current situation, our immediate withdrawal has to come first.”",
+      "baseline_paragraphs": "P47",
+      "baseline_range": [
+        46,
+        47
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "99",
+      "sol": "“Calm down. Our priority right now should be to withdraw immediately.”",
+      "sol_paragraphs": "P46",
+      "sol_range": [
+        45,
+        46
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I’m telling you to settle your mind and face reality.”",
+      "baseline_paragraphs": "P49",
+      "baseline_range": [
+        48,
+        49
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "103",
+      "sol": "“I’m telling you to compose yourself and face reality.”",
+      "sol_paragraphs": "P48",
+      "sol_range": [
+        47,
+        48
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Team Leader Choi’s calm voice continued.",
+      "baseline_paragraphs": "P50",
+      "baseline_range": [
+        49,
+        50
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "105",
+      "sol": "Team Leader Choi continued in the same measured voice.",
+      "sol_paragraphs": "P49",
+      "sol_range": [
+        48,
+        49
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Fortunately, we aren’t too late. If we turn around and retrace our path as quickly as possible, we can reach the jungle within an hour. But if we run into that thing in this wasteland…”",
+      "baseline_paragraphs": "P51",
+      "baseline_range": [
+        50,
+        51
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "107",
+      "sol": "“Fortunately, it isn’t too late. If we turn back and retrace our route as quickly as possible, we can reach the jungle within an hour. But if we encounter that thing out here in the wasteland…”",
+      "sol_paragraphs": "P50",
+      "sol_range": [
+        49,
+        50
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Who doesn’t know that? Stop meddling.”",
+      "baseline_paragraphs": "P52",
+      "baseline_range": [
+        51,
+        52
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "109",
+      "sol": "“You think I don’t know that? Stop meddling.”",
+      "sol_paragraphs": "P51",
+      "sol_range": [
+        50,
+        51
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The cheerful and well-mannered gentleman was gone. At Won Myunghoon’s irritable response, Team Leader Choi’s eyes grew cold.",
+      "baseline_paragraphs": "P53",
+      "baseline_range": [
+        52,
+        53
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "111",
+      "sol": "The cheerful, courteous gentleman was gone. Team Leader Choi’s gaze cooled at Won Myunghoon’s irritable response.",
+      "sol_paragraphs": "P52",
+      "sol_range": [
+        51,
+        52
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Unfortunate? Just because we’re cooperating, you seem to think we’re really equals or something… Fuck, there’s no point in talking. Anyway, stop telling me what to do. I’m already in a shitty mood.”",
+      "baseline_paragraphs": "P55",
+      "baseline_range": [
+        54,
+        55
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "115",
+      "sol": "“Unfortunate? We call this a joint raid a few times and now you think we’re actually equals or something… Fuck, I’m wasting my breath. Anyway, stop trying to tell me what to do. I’m already in a shitty mood.”",
+      "sol_paragraphs": "P54",
+      "sol_range": [
+        53,
+        54
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "They say that you can learn a person’s true nature when they are in a crisis.",
+      "baseline_paragraphs": "P56",
+      "baseline_range": [
+        55,
+        56
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "117",
+      "sol": "They said a crisis revealed a person’s true nature.",
+      "sol_paragraphs": "P55",
+      "sol_range": [
+        54,
+        55
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "In that sense, Won Myunghoon was exactly this kind of person. The only thing that left a bitter taste in my mouth was the fact that I had once considered someone like him an idol.",
+      "baseline_paragraphs": "P57",
+      "baseline_range": [
+        56,
+        57
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "119",
+      "sol": "If that was true, this was all there was to Won Myunghoon. The bitter part was knowing I had once idolized someone like him.",
+      "sol_paragraphs": "P56",
+      "sol_range": [
+        55,
+        56
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Won Myunghoon spoke to the Guild members with an anxious expression.",
+      "baseline_paragraphs": "P58",
+      "baseline_range": [
+        57,
+        58
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "121",
+      "sol": "Won Myunghoon turned to the Guild members, his face tense with anxiety.",
+      "sol_paragraphs": "P57",
+      "sol_range": [
+        56,
+        57
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Take only the Magic Gems. We’re returning to the Gate entrance as quickly as possible.”",
+      "baseline_paragraphs": "P59",
+      "baseline_range": [
+        58,
+        59
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "123",
+      "sol": "“Take only the Magic Gems. We’re heading back to the Gate entrance as fast as possible.”",
+      "sol_paragraphs": "P58",
+      "sol_range": [
+        57,
+        58
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "There were two doors through which one could leave a Gate: the entrance used to enter it and the exit that opened after the boss monster was killed.",
+      "baseline_paragraphs": "P60",
+      "baseline_range": [
+        59,
+        60
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "125",
+      "sol": "There were two ways out of a Gate: the entrance we had used to come in, and the exit that opened once the boss monster was killed.",
+      "sol_paragraphs": "P59",
+      "sol_range": [
+        58,
+        59
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "For now, choosing the former was obviously the right decision.",
+      "baseline_paragraphs": "P61",
+      "baseline_range": [
+        60,
+        61
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "127",
+      "sol": "Under the circumstances, the former was obviously the right choice.",
+      "sol_paragraphs": "P60",
+      "sol_range": [
+        59,
+        60
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The preparations were finished quickly. The only problem was Team Leader 1, who remained deathly pale.",
+      "baseline_paragraphs": "P63",
+      "baseline_range": [
+        62,
+        63
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "131",
+      "sol": "The preparations were completed quickly. The only problem was Team Leader 1, who remained deathly pale.",
+      "sol_paragraphs": "P62",
+      "sol_range": [
+        61,
+        62
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What’s with that guy?”",
+      "baseline_paragraphs": "P64",
+      "baseline_range": [
+        63,
+        64
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "133",
+      "sol": "“What’s wrong with that guy?”",
+      "sol_paragraphs": "P63",
+      "sol_range": [
+        62,
+        63
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At my mutter, Butler Kim answered. He had been keeping quiet a single step behind me the entire time.",
+      "baseline_paragraphs": "P65",
+      "baseline_range": [
+        64,
+        65
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "135",
+      "sol": "Butler Kim, who had stayed one step behind me and kept quiet the entire time, answered my mutter.",
+      "sol_paragraphs": "P64",
+      "sol_range": [
+        63,
+        64
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The opponent is a Named Monster.”",
+      "baseline_paragraphs": "P68",
+      "baseline_range": [
+        67,
+        68
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "141",
+      "sol": "“His opponent was a Named Monster.”",
+      "sol_paragraphs": "P67",
+      "sol_range": [
+        66,
+        67
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“And a Grade is merely a measure of strength. It has nothing to do with how strong someone’s mental fortitude is.”",
+      "baseline_paragraphs": "P70",
+      "baseline_range": [
+        69,
+        70
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "145",
+      "sol": "“Besides, rank is merely a measure of power. It has nothing to do with mental fortitude.”",
+      "sol_paragraphs": "P69",
+      "sol_range": [
+        68,
+        69
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "등급",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Grade"
+        }
+      ]
+    },
+    {
+      "baseline": "Even so, an A-Rank Hunter had been afflicted by Fear.",
+      "baseline_paragraphs": "P71",
+      "baseline_range": [
+        70,
+        71
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "147",
+      "sol": "Even so, an A-Rank Hunter had succumbed to Fear.",
+      "sol_paragraphs": "P70",
+      "sol_range": [
+        69,
+        70
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "There were two possibilities. Either Team Leader 1 normally had a weak mentality, or the Named Monster was truly that powerful.",
+      "baseline_paragraphs": "P72",
+      "baseline_range": [
+        71,
+        72
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "149",
+      "sol": "That left two possibilities. Either Team Leader 1 was weak-willed to begin with, or the Named Monster was simply that powerful.",
+      "sol_paragraphs": "P71",
+      "sol_range": [
+        70,
+        71
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "With that thought in mind, I approached Team Leader 1. I only meant to help him to his feet, but he flinched as if he had been burned.",
+      "baseline_paragraphs": "P74",
+      "baseline_range": [
+        73,
+        74
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "153",
+      "sol": "With that thought, I approached Team Leader 1. I only meant to help him up, but he recoiled as if he’d been burned.",
+      "sol_paragraphs": "P73",
+      "sol_range": [
+        72,
+        73
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“It’s okay. I’m not trying to hurt you. You know me, right?”",
+      "baseline_paragraphs": "P75",
+      "baseline_range": [
+        74,
+        75
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "155",
+      "sol": "“It’s okay. I’m not going to hurt you. You recognize me, right?”",
+      "sol_paragraphs": "P74",
+      "sol_range": [
+        73,
+        74
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You’re still coherent, at least. Now pull yourself together and get up. Otherwise, you can keep sitting there and become prey.”",
+      "baseline_paragraphs": "P77",
+      "baseline_range": [
+        76,
+        77
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "159",
+      "sol": "“You’re still lucid, at least. Now pull yourself together and get up. Unless you’d rather keep sitting there until you become its prey.”",
+      "sol_paragraphs": "P76",
+      "sol_range": [
+        75,
+        76
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Sometimes, stoking fear worked better than inspiring courage.",
+      "baseline_paragraphs": "P79",
+      "baseline_range": [
+        78,
+        79
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "163",
+      "sol": "Sometimes it was better to stoke someone’s fear than inspire courage.",
+      "sol_paragraphs": "P78",
+      "sol_range": [
+        77,
+        78
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the word prey, Team Leader 1 shot to his feet and looked around anxiously.",
+      "baseline_paragraphs": "P80",
+      "baseline_range": [
+        79,
+        80
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "165",
+      "sol": "The word *prey* sent Team Leader 1 shooting to his feet. He glanced around anxiously.",
+      "sol_paragraphs": "P79",
+      "sol_range": [
+        78,
+        79
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“T-the thing…?”",
+      "baseline_paragraphs": "P81",
+      "baseline_range": [
+        80,
+        81
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "167",
+      "sol": "“Th-that thing…?”",
+      "sol_paragraphs": "P80",
+      "sol_range": [
+        79,
+        80
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“It’s not here. More importantly, how did you survive?”",
+      "baseline_paragraphs": "P82",
+      "baseline_range": [
+        81,
+        82
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "169",
+      "sol": "“It isn’t here. More importantly, how did you make it back alive?”",
+      "sol_paragraphs": "P81",
+      "sol_range": [
+        80,
+        81
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was something I had wanted to ask for a while. But from the moment the words Named Monster had come out, nobody had been curious about anything else.",
+      "baseline_paragraphs": "P83",
+      "baseline_range": [
+        82,
+        83
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "171",
+      "sol": "I had wanted to ask him that for a while. No one else had thought to once the words *Named Monster* came out.",
+      "sol_paragraphs": "P82",
+      "sol_range": [
+        81,
+        82
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Team Leader 1 bit his lip.",
+      "baseline_paragraphs": "P84",
+      "baseline_range": [
+        83,
+        84
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "173",
+      "sol": "Team Leader 1 chewed on his lip.",
+      "sol_paragraphs": "P83",
+      "sol_range": [
+        82,
+        83
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "",
+      "baseline_paragraphs": "after P86",
+      "baseline_range": [
+        86,
+        86
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "177",
+      "sol": "He had run.",
+      "sol_paragraphs": "P86",
+      "sol_range": [
+        85,
+        86
+      ],
+      "tag": "insert",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He had run away. He had abandoned his team members.",
+      "baseline_paragraphs": "P87",
+      "baseline_range": [
+        86,
+        87
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "179",
+      "sol": "He had abandoned his team.",
+      "sol_paragraphs": "P87",
+      "sol_range": [
+        86,
+        87
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But I didn’t condemn him. Not because I understood him, but because I didn’t think I had the right to.",
+      "baseline_paragraphs": "P88",
+      "baseline_range": [
+        87,
+        88
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "181",
+      "sol": "But I didn’t condemn him. Not because I understood, but because I didn’t think I had the right.",
+      "sol_paragraphs": "P88",
+      "sol_range": [
+        87,
+        88
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Someone might have the right to curse him out, but not me.*",
+      "baseline_paragraphs": "P89",
+      "baseline_range": [
+        88,
+        89
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "183",
+      "sol": "*Someone else can curse him out, but not me.*",
+      "sol_paragraphs": "P89",
+      "sol_range": [
+        88,
+        89
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Whether he knew what I was thinking or not, Team Leader 1 began rambling incoherently.",
+      "baseline_paragraphs": "P90",
+      "baseline_range": [
+        89,
+        90
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "185",
+      "sol": "Whether he knew what I was thinking or not, Team Leader 1 began to ramble.",
+      "sol_paragraphs": "P90",
+      "sol_range": [
+        89,
+        90
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Y-yes. It was completely black from head to tail.”",
+      "baseline_paragraphs": "P93",
+      "baseline_range": [
+        92,
+        93
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "191",
+      "sol": "“Y-yes. It was black all over, from its head to the tip of its tail.”",
+      "sol_paragraphs": "P93",
+      "sol_range": [
+        92,
+        93
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "",
+      "baseline_paragraphs": "after P93",
+      "baseline_range": [
+        93,
+        93
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "191",
+      "sol": "A memory suddenly surfaced.",
+      "sol_paragraphs": "P94",
+      "sol_range": [
+        93,
+        94
+      ],
+      "tag": "insert",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A memory suddenly surfaced. The screams filling the cave, and those enormous wings.",
+      "baseline_paragraphs": "P94",
+      "baseline_range": [
+        93,
+        94
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "193",
+      "sol": "The screams that had filled the cave. Those enormous wings.",
+      "sol_paragraphs": "P95",
+      "sol_range": [
+        94,
+        95
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Wyvern I had encountered back then had also been black from head to toe.",
+      "baseline_paragraphs": "P95",
+      "baseline_range": [
+        94,
+        95
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "195",
+      "sol": "The Wyvern I had encountered back then had also been entirely black.",
+      "sol_paragraphs": "P96",
+      "sol_range": [
+        95,
+        96
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“No, it was different. It was several times larger and stronger than the Black Wyverns we’ve seen so far. That thing… it’s a real monster.”",
+      "baseline_paragraphs": "P97",
+      "baseline_range": [
+        96,
+        97
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "199",
+      "sol": "“No, it was different. It was several times larger and stronger than any Black Wyvern I’d ever seen. That thing… it’s a real monster.”",
+      "sol_paragraphs": "P98",
+      "sol_range": [
+        97,
+        98
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Then it couldn’t have been the same creature I had encountered three years ago.",
+      "baseline_paragraphs": "P98",
+      "baseline_range": [
+        97,
+        98
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "201",
+      "sol": "Then it couldn’t have been the same creature I’d encountered three years ago.",
+      "sol_paragraphs": "P99",
+      "sol_range": [
+        98,
+        99
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "After the Sangdong Station Mutated Gate incident, I had been subjected to countless investigations. The investigative team dispatched to determine the truth of the incident had concluded that the creature wasn’t significantly different from an ordinary Black Wyvern.",
+      "baseline_paragraphs": "P99",
+      "baseline_range": [
+        98,
+        99
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "203",
+      "sol": "After the Sangdong Station Mutated Gate incident, I had been subjected to countless investigations. The team dispatched to investigate the truth behind the incident had concluded that the creature didn’t fall far outside the normal range for a Black Wyvern.",
+      "sol_paragraphs": "P100",
+      "sol_range": [
+        99,
+        100
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Then where would that thing be now?*",
+      "baseline_paragraphs": "P100",
+      "baseline_range": [
+        99,
+        100
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "205",
+      "sol": "*Then where is it now?*",
+      "sol_paragraphs": "P101",
+      "sol_range": [
+        100,
+        101
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Monsters inside Gates respawn at regular intervals. By the time the investigators arrived, it had already disappeared.",
+      "baseline_paragraphs": "P101",
+      "baseline_range": [
+        100,
+        101
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "207",
+      "sol": "Monsters inside Gates respawned at regular intervals. By the time the investigators arrived, it had already disappeared.",
+      "sol_paragraphs": "P102",
+      "sol_range": [
+        101,
+        102
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Whenever I drank, I sometimes found myself thinking about it.",
+      "baseline_paragraphs": "P102",
+      "baseline_range": [
+        101,
+        102
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "209",
+      "sol": "Whenever I drank, I sometimes found myself wondering.",
+      "sol_paragraphs": "P103",
+      "sol_range": [
+        102,
+        103
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Where is it now? Did it die at the hands of another Hunter? If it’s still alive, will I ever have the chance to get revenge?*",
+      "baseline_paragraphs": "P103",
+      "baseline_range": [
+        102,
+        103
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "211",
+      "sol": "*Where is it now? Did another Hunter kill it? If it’s still alive, will I ever get the chance to take revenge?*",
+      "sol_paragraphs": "P104",
+      "sol_range": [
+        103,
+        104
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Now it’s possible.*",
+      "baseline_paragraphs": "P104",
+      "baseline_range": [
+        103,
+        104
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "213",
+      "sol": "*I could do it now.*",
+      "sol_paragraphs": "P105",
+      "sol_range": [
+        104,
+        105
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As long as we were both alive, the day would come when we met again.",
+      "baseline_paragraphs": "P105",
+      "baseline_range": [
+        104,
+        105
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "215",
+      "sol": "As long as we were both alive, the day would eventually come when we met again.",
+      "sol_paragraphs": "P106",
+      "sol_range": [
+        105,
+        106
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Me to it, and it to me. We had each left the other with an indelible memory.",
+      "baseline_paragraphs": "P106",
+      "baseline_range": [
+        105,
+        106
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "217",
+      "sol": "I had left it with an indelible memory, and it had done the same to me.",
+      "sol_paragraphs": "P107",
+      "sol_range": [
+        106,
+        107
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But apparently, today wasn’t that day.",
+      "baseline_paragraphs": "P107",
+      "baseline_range": [
+        106,
+        107
+      ],
+      "hunk_id": "H086",
+      "korean_lines": "219",
+      "sol": "But apparently, that day wasn’t today.",
+      "sol_paragraphs": "P108",
+      "sol_range": [
+        107,
+        108
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Guild members had finished preparing and were waiting for me. I had just started walking to rejoin the formation when—",
+      "baseline_paragraphs": "P110",
+      "baseline_range": [
+        109,
+        110
+      ],
+      "hunk_id": "H087",
+      "korean_lines": "225",
+      "sol": "The Guild members had finished preparing and were waiting for me. I had just started toward the formation when—",
+      "sol_paragraphs": "P111",
+      "sol_range": [
+        110,
+        111
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The single word that suddenly came from Team Leader 1’s mouth made my body freeze.",
+      "baseline_paragraphs": "P112",
+      "baseline_range": [
+        111,
+        112
+      ],
+      "hunk_id": "H088",
+      "korean_lines": "229",
+      "sol": "The two words that suddenly fell from Team Leader 1’s lips brought me to a dead stop.",
+      "sol_paragraphs": "P113",
+      "sol_range": [
+        112,
+        113
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I slowly turned around. Team Leader 1 was pointing at one of his own eyes with a trembling hand.",
+      "baseline_paragraphs": "P113",
+      "baseline_range": [
+        112,
+        113
+      ],
+      "hunk_id": "H089",
+      "korean_lines": "231",
+      "sol": "I slowly turned around. Team Leader 1 pointed to one of his own eyes with a trembling hand.",
+      "sol_paragraphs": "P114",
+      "sol_range": [
+        113,
+        114
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Right. One of its eyes was damaged. As if something had stabbed it…”",
+      "baseline_paragraphs": "P115",
+      "baseline_range": [
+        114,
+        115
+      ],
+      "hunk_id": "H090",
+      "korean_lines": "235",
+      "sol": "“That’s right. One of its eyes was ruined. Like something had stabbed it…”",
+      "sol_paragraphs": "P116",
+      "sol_range": [
+        115,
+        116
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“…”",
+      "baseline_paragraphs": "P116",
+      "baseline_range": [
+        115,
+        116
+      ],
+      "hunk_id": "H091",
+      "korean_lines": "237",
+      "sol": "“…!”",
+      "sol_paragraphs": "P117",
+      "sol_range": [
+        116,
+        117
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A current ran down my spine. My mind went blank, and my fist clenched on its own.",
+      "baseline_paragraphs": "P117",
+      "baseline_range": [
+        116,
+        117
+      ],
+      "hunk_id": "H092",
+      "korean_lines": "239",
+      "sol": "Electricity raced down my spine. My mind went blank, and my fists clenched of their own accord.",
+      "sol_paragraphs": "P118",
+      "sol_range": [
+        117,
+        118
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Three years ago, I had charged at that thing prepared to die.",
+      "baseline_paragraphs": "P118",
+      "baseline_range": [
+        117,
+        118
+      ],
+      "hunk_id": "H093",
+      "korean_lines": "241",
+      "sol": "Three years ago, I had charged at that creature prepared to die.",
+      "sol_paragraphs": "P119",
+      "sol_range": [
+        118,
+        119
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I had gathered every ounce of strength I possessed and unleashed One Annihilation—no, *Stab with All My Strength*—and the spearhead had pierced straight into its eye.",
+      "baseline_paragraphs": "P119",
+      "baseline_range": [
+        118,
+        119
+      ],
+      "hunk_id": "H094",
+      "korean_lines": "243",
+      "sol": "I had gathered every last ounce of strength and unleashed One Annihilation—no, *Stab with All My Strength*. The spearhead had buried itself squarely in its eye.",
+      "sol_paragraphs": "P120",
+      "sol_range": [
+        119,
+        120
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That had been my final act of defiance, and the only mark I had left on it.",
+      "baseline_paragraphs": "P120",
+      "baseline_range": [
+        119,
+        120
+      ],
+      "hunk_id": "H095",
+      "korean_lines": "245",
+      "sol": "That had been my final act of defiance, and the only mark I’d managed to leave on it.",
+      "sol_paragraphs": "P121",
+      "sol_range": [
+        120,
+        121
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*It’s him.*",
+      "baseline_paragraphs": "P121",
+      "baseline_range": [
+        120,
+        121
+      ],
+      "hunk_id": "H096",
+      "korean_lines": "247",
+      "sol": "*It’s that bastard.*",
+      "sol_paragraphs": "P122",
+      "sol_range": [
+        121,
+        122
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I didn’t wonder how an ordinary Black Wyvern had become a Named Monster.",
+      "baseline_paragraphs": "P122",
+      "baseline_range": [
+        121,
+        122
+      ],
+      "hunk_id": "H097",
+      "korean_lines": "249",
+      "sol": "I didn’t stop to wonder how an ordinary Black Wyvern had become a Named Monster.",
+      "sol_paragraphs": "P123",
+      "sol_range": [
+        122,
+        123
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "My skin, with every last hair standing on end, was the witness, and my pounding heart was both prosecutor and judge.",
+      "baseline_paragraphs": "P123",
+      "baseline_range": [
+        122,
+        123
+      ],
+      "hunk_id": "H098",
+      "korean_lines": "251",
+      "sol": "Every hair standing on end across my skin bore witness, and my pounding heart served as both prosecutor and judge.",
+      "sol_paragraphs": "P124",
+      "sol_range": [
+        123,
+        124
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Everything that made me who I was shouted as one.",
+      "baseline_paragraphs": "P124",
+      "baseline_range": [
+        123,
+        124
+      ],
+      "hunk_id": "H099",
+      "korean_lines": "253",
+      "sol": "Everything that made me who I was cried out with one voice.",
+      "sol_paragraphs": "P125",
+      "sol_range": [
+        124,
+        125
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The unidentified Named Monster Team Leader 1 had described was the very creature that had given me an unforgettable nightmare three years ago.",
+      "baseline_paragraphs": "P125",
+      "baseline_range": [
+        124,
+        125
+      ],
+      "hunk_id": "H100",
+      "korean_lines": "255",
+      "sol": "The unidentified Named Monster Team Leader 1 had described was the very creature that had left me with an indelible nightmare three years ago.",
+      "sol_paragraphs": "P126",
+      "sol_range": [
+        125,
+        126
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "My entire body trembled with an emotion I couldn’t identify.",
+      "baseline_paragraphs": "P129",
+      "baseline_range": [
+        128,
+        129
+      ],
+      "hunk_id": "H101",
+      "korean_lines": "263",
+      "sol": "My whole body trembled with an emotion I couldn’t name.",
+      "sol_paragraphs": "P130",
+      "sol_range": [
+        129,
+        130
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And then, just as my senses—sharper and more taut than ever—began to mingle with the thick scent of blood—",
+      "baseline_paragraphs": "P130",
+      "baseline_range": [
+        129,
+        130
+      ],
+      "hunk_id": "H102",
+      "korean_lines": "265",
+      "sol": "My senses were drawn tighter and sharper than ever when the thick scent of blood drifted into them.",
+      "sol_paragraphs": "P131",
+      "sol_range": [
+        130,
+        131
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "On the horizon of the wasteland beneath the setting sun, wings dyed entirely black were flying toward us.",
+      "baseline_paragraphs": "P133",
+      "baseline_range": [
+        132,
+        133
+      ],
+      "hunk_id": "H103",
+      "korean_lines": "271",
+      "sol": "On the horizon of the wasteland beneath the setting sun, a pair of pitch-black wings was flying toward us.",
+      "sol_paragraphs": "P134",
+      "sol_range": [
+        133,
+        134
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The same curses kept replaying endlessly in Won Myunghoon’s mind.",
+      "baseline_paragraphs": "P136",
+      "baseline_range": [
+        135,
+        136
+      ],
+      "hunk_id": "H104",
+      "korean_lines": "281",
+      "sol": "The curse repeated endlessly in Won Myunghoon’s mind.",
+      "sol_paragraphs": "P137",
+      "sol_range": [
+        136,
+        137
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The plan was as good as ruined. Now they were in a situation where they had to worry about their very lives.",
+      "baseline_paragraphs": "P137",
+      "baseline_range": [
+        136,
+        137
+      ],
+      "hunk_id": "H105",
+      "korean_lines": "283",
+      "sol": "His plan was as good as ruined. Now he even had to worry about getting out alive.",
+      "sol_paragraphs": "P138",
+      "sol_range": [
+        137,
+        138
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The situation was as serious as it had been eight years ago—no, it was even worse.",
+      "baseline_paragraphs": "P139",
+      "baseline_range": [
+        138,
+        139
+      ],
+      "hunk_id": "H106",
+      "korean_lines": "287",
+      "sol": "This was as serious as the situation eight years ago—no, it was even worse.",
+      "sol_paragraphs": "P140",
+      "sol_range": [
+        139,
+        140
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Won Myunghoon had driven the Guild members to finish their preparations as quickly as possible and was just about to order them to set out when—",
+      "baseline_paragraphs": "P140",
+      "baseline_range": [
+        139,
+        140
+      ],
+      "hunk_id": "H107",
+      "korean_lines": "289",
+      "sol": "Won Myunghoon had hurried the Guild members through their preparations and was just about to order them to move out when—",
+      "sol_paragraphs": "P141",
+      "sol_range": [
+        140,
+        141
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The quiet voice that pierced his ears made his heart drop.",
+      "baseline_paragraphs": "P142",
+      "baseline_range": [
+        141,
+        142
+      ],
+      "hunk_id": "H108",
+      "korean_lines": "293",
+      "sol": "The low voice piercing his ears made his heart plummet.",
+      "sol_paragraphs": "P143",
+      "sol_range": [
+        142,
+        143
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was even worse because the voice belonged to Jin Taekyung.",
+      "baseline_paragraphs": "P143",
+      "baseline_range": [
+        142,
+        143
+      ],
+      "hunk_id": "H109",
+      "korean_lines": "295",
+      "sol": "All the more so because it belonged to Jin Taekyung.",
+      "sol_paragraphs": "P144",
+      "sol_range": [
+        143,
+        144
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“W-what does that mean?”",
+      "baseline_paragraphs": "P144",
+      "baseline_range": [
+        143,
+        144
+      ],
+      "hunk_id": "H110",
+      "korean_lines": "297",
+      "sol": "“W-what do you mean?”",
+      "sol_paragraphs": "P145",
+      "sol_range": [
+        144,
+        145
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What are you talking about?”",
+      "baseline_paragraphs": "P146",
+      "baseline_range": [
+        145,
+        146
+      ],
+      "hunk_id": "H111",
+      "korean_lines": "301",
+      "sol": "“I’m asking what the hell you mean!”",
+      "sol_paragraphs": "P147",
+      "sol_range": [
+        146,
+        147
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What else would I mean?”",
+      "baseline_paragraphs": "P147",
+      "baseline_range": [
+        146,
+        147
+      ],
+      "hunk_id": "H112",
+      "korean_lines": "303",
+      "sol": "“What else could I mean?”",
+      "sol_paragraphs": "P148",
+      "sol_range": [
+        147,
+        148
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "There was something unfamiliar about Jin Taekyung’s steady gaze.",
+      "baseline_paragraphs": "P148",
+      "baseline_range": [
+        147,
+        148
+      ],
+      "hunk_id": "H113",
+      "korean_lines": "305",
+      "sol": "There was something unfamiliar about Jin Taekyung’s dark, steady gaze.",
+      "sol_paragraphs": "P149",
+      "sol_range": [
+        148,
+        149
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The person standing before Won Myunghoon was neither his biggest fan nor the foolish twenty-something who had grinned stupidly.",
+      "baseline_paragraphs": "P149",
+      "baseline_range": [
+        148,
+        149
+      ],
+      "hunk_id": "H114",
+      "korean_lines": "307",
+      "sol": "The man before Won Myunghoon now was neither his rabid fan nor the foolish kid in his twenties who had grinned at him like an idiot.",
+      "sol_paragraphs": "P150",
+      "sol_range": [
+        149,
+        150
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As Won Myunghoon flinched, a dry voice slipped between Jin Taekyung’s lips.",
+      "baseline_paragraphs": "P151",
+      "baseline_range": [
+        150,
+        151
+      ],
+      "hunk_id": "H115",
+      "korean_lines": "311",
+      "sol": "Won Myunghoon flinched as Jin Taekyung spoke in a dry voice.",
+      "sol_paragraphs": "P152",
+      "sol_range": [
+        151,
+        152
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As Won Myunghoon fell into confusion, Jin Taekyung curled up the corner of his mouth.",
+      "baseline_paragraphs": "P155",
+      "baseline_range": [
+        154,
+        155
+      ],
+      "hunk_id": "H116",
+      "korean_lines": "319",
+      "sol": "As Won Myunghoon stared at him in confusion, one corner of Jin Taekyung’s mouth curled upward.",
+      "sol_paragraphs": "P156",
+      "sol_range": [
+        155,
+        156
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You little—”",
+      "baseline_paragraphs": "P157",
+      "baseline_range": [
+        156,
+        157
+      ],
+      "hunk_id": "H117",
+      "korean_lines": "323",
+      "sol": "“You—you bastard.”",
+      "sol_paragraphs": "P158",
+      "sol_range": [
+        157,
+        158
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Won Myunghoon stopped dead. It wasn’t because of humiliation, but because of the oppressive weight.",
+      "baseline_paragraphs": "P159",
+      "baseline_range": [
+        158,
+        159
+      ],
+      "hunk_id": "H118",
+      "korean_lines": "327",
+      "sol": "Won Myunghoon froze. Not from humiliation, but from the crushing pressure bearing down on him.",
+      "sol_paragraphs": "P160",
+      "sol_range": [
+        159,
+        160
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A pressure he had never felt before was radiating from Jin Taekyung.",
+      "baseline_paragraphs": "P160",
+      "baseline_range": [
+        159,
+        160
+      ],
+      "hunk_id": "H119",
+      "korean_lines": "329",
+      "sol": "A pressure unlike anything he had felt from Jin Taekyung before was pouring off him.",
+      "sol_paragraphs": "P161",
+      "sol_range": [
+        160,
+        161
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Whatever you did or were planning to do, I’ll let everything up to now slide. But…”",
+      "baseline_paragraphs": "P161",
+      "baseline_range": [
+        160,
+        161
+      ],
+      "hunk_id": "H120",
+      "korean_lines": "331",
+      "sol": "“Whatever you did or planned to do, I’ll let everything up to this point slide. But…”",
+      "sol_paragraphs": "P162",
+      "sol_range": [
+        161,
+        162
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A glint appeared in the eyes that had darkened beneath his wildly tousled hair.",
+      "baseline_paragraphs": "P162",
+      "baseline_range": [
+        161,
+        162
+      ],
+      "hunk_id": "H121",
+      "korean_lines": "333",
+      "sol": "Beneath the tangled hair falling over his face, his darkened eyes gleamed.",
+      "sol_paragraphs": "P163",
+      "sol_range": [
+        162,
+        163
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Don’t bare your teeth at me again.”",
+      "baseline_paragraphs": "P163",
+      "baseline_range": [
+        162,
+        163
+      ],
+      "hunk_id": "H122",
+      "korean_lines": "335",
+      "sol": "“Never bare your teeth at me again.”",
+      "sol_paragraphs": "P164",
+      "sol_range": [
+        163,
+        164
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“…”",
+      "baseline_paragraphs": "P164",
+      "baseline_range": [
+        163,
+        164
+      ],
+      "hunk_id": "H123",
+      "korean_lines": "337",
+      "sol": "“…!”",
+      "sol_paragraphs": "P165",
+      "sol_range": [
+        164,
+        165
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I’m done talking. Get lost.”",
+      "baseline_paragraphs": "P165",
+      "baseline_range": [
+        164,
+        165
+      ],
+      "hunk_id": "H124",
+      "korean_lines": "339",
+      "sol": "“I’m done. Get lost.”",
+      "sol_paragraphs": "P166",
+      "sol_range": [
+        165,
+        166
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He stared at Jin Taekyung with an indescribable look in his eyes before roughly turning away.",
+      "baseline_paragraphs": "P167",
+      "baseline_range": [
+        166,
+        167
+      ],
+      "hunk_id": "H125",
+      "korean_lines": "343",
+      "sol": "He stared at Jin Taekyung with an unreadable look, then spun around.",
+      "sol_paragraphs": "P168",
+      "sol_range": [
+        167,
+        168
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He could feel the gazes of the Peace Guild members stabbing into the back of his head. They had only just realized that something had happened.",
+      "baseline_paragraphs": "P168",
+      "baseline_range": [
+        167,
+        168
+      ],
+      "hunk_id": "H126",
+      "korean_lines": "345",
+      "sol": "He could feel the Peace Guild members’ gazes boring into the back of his head. Only now had they realized something had been going on.",
+      "sol_paragraphs": "P169",
+      "sol_range": [
+        168,
+        169
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Those fucking idiots. How dare they…*",
+      "baseline_paragraphs": "P169",
+      "baseline_range": [
+        168,
+        169
+      ],
+      "hunk_id": "H127",
+      "korean_lines": "347",
+      "sol": "*Fucking idiots. How dare they…*",
+      "sol_paragraphs": "P170",
+      "sol_range": [
+        169,
+        170
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jin Taekyung and those ragtag Guild members would be dead soon anyway.",
+      "baseline_paragraphs": "P171",
+      "baseline_range": [
+        170,
+        171
+      ],
+      "hunk_id": "H128",
+      "korean_lines": "351",
+      "sol": "Jin Taekyung and those ragtag Guild members would all be dead soon anyway.",
+      "sol_paragraphs": "P172",
+      "sol_range": [
+        171,
+        172
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A short while later, as Won Myunghoon and the Star Guild members ran with all their might, a roar echoed from far away.",
+      "baseline_paragraphs": "P172",
+      "baseline_range": [
+        171,
+        172
+      ],
+      "hunk_id": "H129",
+      "korean_lines": "353",
+      "sol": "A short while later, as Won Myunghoon and the Star Guild members ran with all their might, they heard a roar echo from far behind them.",
+      "sol_paragraphs": "P173",
+      "sol_range": [
+        172,
+        173
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 173,
+  "sol_sha256": "f12c7bdb910c13776d6fc63efc3a62d651d7e983a1a675ef7360ac141986bcd1",
+  "version": 1
+}

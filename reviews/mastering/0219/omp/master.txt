@@ -2,7 +2,7 @@
 
 From the early days of the Great Cataclysm to the present, humanity had drawn on countless experiences of death and destruction to classify monsters and establish a hierarchy among them.
 
-Accordingly, the Grade of each Gate was determined by the Grade of the monsters inhabiting it.
+A Gate’s rank was determined by the rank of the monsters that inhabited it.
 
 However…
 
@@ -20,13 +20,13 @@ That alone was the stuff of nightmares, but an even greater problem remained.
 
 *Rare Monsters.*
 
-As if running into an unexpected higher-level monster wasn’t bad enough, every one of those creatures possessed strength that surpassed that of other monsters of the same Grade.
+As if encountering an unexpectedly high-ranking monster wasn’t shitty enough, every creature that appeared this way possessed strength far beyond that of other monsters in the same rank.
 
 That was when the term Rare Monster was first coined.
 
 Before long, someone raised another question.
 
-*Then what about the Rare Monsters that appear in A-Rank Mutated Gates? Aren’t they too strong to be considered the same Grade?*
+*Then what about the Rare Monsters that appear in A-Rank Mutated Gates? Aren’t they too powerful to be placed in the same rank?*
 
 For Hunters, A-Rank was the highest level attainable through a single awakening.
 
@@ -38,7 +38,7 @@ The same issue applied to monsters. After endless debate within the relevant aca
 
 True monstrosities that had transcended the limits of A-Rank.
 
-Team Leader 1, the only one to return alive, had said that such a Named Monster was here.
+Team Leader 1, the only one to return alive, said there was one here.
 
 Right where we stood, in the Wyvern’s Nest.
 
@@ -64,9 +64,7 @@ The title of A-Rank Hunter seemed wasted on him. He was as terrified as a seven-
 
 “Kim Jonghun, you son of a…”
 
-Grind.
-
-Won Myunghoon ground his teeth, but that was all he did.
+Won Myunghoon ground his teeth, but that was all he could do.
 
 He might have fallen short of my expectations in every possible way, but he was still an A-Rank Hunter who had once risen to the ranks of the rankers. There was no way he didn’t understand what everyone else here already knew.
 
@@ -106,7 +104,7 @@ The cheerful, courteous gentleman was gone. Team Leader Choi’s gaze cooled at 
 
 “That’s unfortunate. I didn’t expect you to take it that way.”
 
-“Unfortunate? Just because we’re cooperating, you seem to think we’re really equals or something… Fuck, there’s no point in talking. Anyway, stop telling me what to do. I’m already in a shitty mood.”
+“Unfortunate? We call this a joint raid a few times and now you think we’re actually equals or something… Fuck, I’m wasting my breath. Anyway, stop trying to tell me what to do. I’m already in a shitty mood.”
 
 They said a crisis revealed a person’s true nature.
 
@@ -132,11 +130,11 @@ Butler Kim, who had stayed one step behind me and kept quiet the entire time, an
 
 “An A-Rank Hunter?”
 
-“The opponent is a Named Monster.”
+“His opponent was a Named Monster.”
 
 “Oh.”
 
-“And a Grade is merely a measure of strength. It has nothing to do with how strong someone’s mental fortitude is.”
+“Besides, rank is merely a measure of power. It has nothing to do with mental fortitude.”
 
 Even so, an A-Rank Hunter had succumbed to Fear.
 
@@ -146,7 +144,7 @@ That left two possibilities. Either Team Leader 1 was weak-willed to begin with,
 
 With that thought, I approached Team Leader 1. I only meant to help him up, but he recoiled as if he’d been burned.
 
-“It’s okay. I’m not trying to hurt you. You know me, right?”
+“It’s okay. I’m not going to hurt you. You recognize me, right?”
 
 “J-Jin Taekyung.”
 
@@ -172,13 +170,13 @@ Team Leader 1 chewed on his lip.
 
 He had run.
 
-He had run away. He had abandoned his team members.
+He had abandoned his team.
 
 But I didn’t condemn him. Not because I understood, but because I didn’t think I had the right.
 
 *Someone else can curse him out, but not me.*
 
-Whether he knew what I was thinking or not, Team Leader 1 began rambling incoherently.
+Whether he knew what I was thinking or not, Team Leader 1 began to ramble.
 
 “We were approaching carefully, but it saw us. Then it spread its wings—its black wings—wide…”
 
@@ -194,7 +192,7 @@ The Wyvern I had encountered back then had also been entirely black.
 
 “A Black Wyvern.”
 
-“No, it was different. It was several times larger and stronger than the Black Wyverns we’ve seen so far. That thing… it’s a real monster.”
+“No, it was different. It was several times larger and stronger than any Black Wyvern I’d ever seen. That thing… it’s a real monster.”
 
 Then it couldn’t have been the same creature I’d encountered three years ago.
 
@@ -208,7 +206,7 @@ Whenever I drank, I sometimes found myself wondering.
 
 *Where is it now? Did another Hunter kill it? If it’s still alive, will I ever get the chance to take revenge?*
 
-*Now it’s possible.*
+*I could do it now.*
 
 As long as we were both alive, the day would eventually come when we met again.
 
@@ -224,7 +222,7 @@ The Guild members had finished preparing and were waiting for me. I had just sta
 
 “One eye.”
 
-The single word that suddenly came from Team Leader 1’s mouth made my body freeze.
+The two words that suddenly fell from Team Leader 1’s lips brought me to a dead stop.
 
 I slowly turned around. Team Leader 1 pointed to one of his own eyes with a trembling hand.
 
@@ -234,7 +232,7 @@ I slowly turned around. Team Leader 1 pointed to one of his own eyes with a trem
 
 “…!”
 
-A current ran down my spine. My mind went blank, and my fist clenched on its own.
+Electricity raced down my spine. My mind went blank, and my fists clenched of their own accord.
 
 Three years ago, I had charged at that creature prepared to die.
 
@@ -272,7 +270,7 @@ On the horizon of the wasteland beneath the setting sun, a pair of pitch-black w
 
 *Goddammit. Goddammit. Goddammit!*
 
-The same curses kept replaying endlessly in Won Myunghoon’s mind.
+The curse repeated endlessly in Won Myunghoon’s mind.
 
 His plan was as good as ruined. Now he even had to worry about getting out alive.
 
@@ -302,7 +300,7 @@ The man before Won Myunghoon now was neither his rabid fan nor the foolish kid i
 
 *What is this feeling?*
 
-As Won Myunghoon flinched, a dry voice slipped between Jin Taekyung’s lips.
+Won Myunghoon flinched as Jin Taekyung spoke in a dry voice.
 
 “Take everyone with you. I still have the necklace.”
 
@@ -344,4 +342,4 @@ But it didn’t matter.
 
 Jin Taekyung and those ragtag Guild members would all be dead soon anyway.
 
-A short while later, as Won Myunghoon and the Star Guild members ran with all their might, a roar echoed from far away.
+A short while later, as Won Myunghoon and the Star Guild members ran with all their might, they heard a roar echo from far behind them.
