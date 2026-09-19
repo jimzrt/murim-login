@@ -94,7 +94,7 @@ Team Leader Choi stared intently at the screen. Several minutes passed before he
 
 Team Leader Choi shook his head at my question.
 
-“I’ll tell you once this matter is confirmed. And, Miss Song.”
+“I’ll tell you once I’ve confirmed everything. And Miss Song.”
 
 “Yes?”
 
@@ -154,7 +154,7 @@ Five in the afternoon. If I left now, I should arrive around the time the exam e
 
 “I’m heading out. Hang in there. You too, Song-i.”
 
-I rose from the soft sofa and left the office.
+I hauled myself off the plush sofa and left the office.
 
 I could picture Mom praying fervently near the test center and Hayeon working her way through the questions.
 
@@ -162,9 +162,9 @@ I could picture Mom praying fervently near the test center and Hayeon working he
 
 For the past few months, the various incidents surrounding me had exposed Hayeon to the media and forced her to endure intense attention from everyone around her.
 
-For a student on the verge of taking the college entrance exam, it was devastating.
+For a student with the college entrance exam just around the corner, that could be devastating.
 
-*I feel bad.*
+*I feel terrible.*
 
 I could only hope her results reflected all the effort she had put in.
 
@@ -180,7 +180,7 @@ At Mom’s and my words, Hayeon gave us a faint smile.
 
 “My little sister is taking the college entrance exam. Of course I had to come, you brat.”
 
-“Even after disguising yourself like that?”
+“Even dressed like that?”
 
 “Is it that obvious?”
 
@@ -220,7 +220,7 @@ I knew she was smart, but I had no idea she was this smart.
 
 Was that why she had come out thirty minutes late?
 
-Either way, one thing was certain. This winter was going to be a fairly warm one for our family.
+Either way, one thing was certain. This winter was going to be a warm one for our family.
 
 And…
 
@@ -228,7 +228,7 @@ And…
 
 If I left that lunatic alone, the students and parents around us would cast a net over heaven and earth to hunt us down.
 
-“Stop talking nonsense and let’s go eat.”
+“Stop talking nonsense and come eat.”
 
 “Let go! What would someone with seventh-tier school grades know about how I feel?”
 
@@ -236,7 +236,7 @@ If I left that lunatic alone, the students and parents around us would cast a ne
 
 I grabbed my hysterical sister by the back of the neck and dragged her away. From inside my Inventory, the Skeleton Warlord muttered,
 
-- Blood truly cannot lie.
+- Blood truly does not lie.
 
 You’re getting one hundred Quick Attacks. Guaranteed.
 
@@ -262,19 +262,21 @@ Even so, something still nagged at me.
 
 Taking someone’s family hostage was a simple but effective tactic.
 
-I didn’t think Lee Jungryong, who had a weakness, would resort to such a method, but I had to prepare for the worst.
+I did not think Lee Jungryong, who had vulnerabilities of his own, would resort to such methods, but I still had to prepare for the worst.
 
 *I’ll keep making money anyway. There’s no reason to be stingy.*
 
 High-ranking Hunters earned so much that people called them walking small and midsize businesses.
 
-But even those top Hunters couldn’t compare to my income.
+But even they could not compare to me.
 
 I cleared raids several times faster than other people, and I often fought solo.
 
 For a Hunter, exceptional skill naturally led to wealth.
 
-And if there was one more thing that came with it, it was fame.
+And there was one more thing that brought in money.
+
+Fame.
 
 “Butler Kim, could you handle the interview and advertising offers that have come in for me?”
 
@@ -286,7 +288,7 @@ Even though I accepted only a tiny fraction of the hundreds of offers, an enormo
 
 That was how much interest people had in me, both in Korea and abroad.
 
-A few advertisements, interviews, and appearances on television talk shows. That was more than enough.
+A few advertisements, interviews, and appearances on television talk shows were more than enough.
 
 The number in my bank account became morbidly obese, and the Peace Guild’s stock price soared.
 
@@ -318,7 +320,7 @@ They were only puzzled.
 
 “……It’s the age of gender equality.”
 
-That made them stand out way too much!
+That makes them stand out even more!
 
 A few days after I asked the company to rearrange its personnel, I received a KakaoTalk message from Hayeon.
 
@@ -328,7 +330,7 @@ A few days after I asked the company to rearrange its personnel, I received a Ka
 >
 > This time two women moved in
 >
-> They walk around with their fingers interlaced all the time;;
+> They’re always walking around holding hands;;
 
 “…….”
 
@@ -372,7 +374,7 @@ Three or four level-ups. That was all I got out of it.
 
 - Experience?
 
-“We can use them to give our people some combat practice. Have your subordinates rehearse their acting. Tell them to make it convincing without letting on that they’re going easy on us. Of course, you know what happens if anyone on our side dies, right?”
+“We’ll have them practice fighting your troops. Make your subordinates rehearse their acting and tell them to lose convincingly without making it obvious that they’re going easy. And you know what happens if anyone on our side dies, right?”
 
 - ……You intend to suck the marrow from my bones. Just how cruel can the human race be?
 
@@ -386,7 +388,7 @@ It was exactly one week after Hayeon’s college entrance exam when Team Leader 
 
 “It’s been a while, everyone. But before we catch up, there’s something I need to show you.”
 
-With a tired voice and a stiff smile, he looked at us, pulled a USB drive from inside his jacket, and connected it to the hologram TV.
+He looked at us with a tired voice and a stiff smile, pulled a USB drive from inside his jacket, and connected it to the hologram TV.
 
 “This video came from China.”
 
