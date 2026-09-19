@@ -34,7 +34,7 @@ Now, however, he looked like nothing more or less than a gambler who had lost ev
 
 “It did. Something serious.”
 
-The narrow-eyed man nodded. Unlike the goat-bearded man, who had arrived in Henan late, he knew exactly what had happened to Kwak Cheolyung recently.
+The narrow-eyed man nodded. Unlike the goat-bearded man, who had arrived late in Henan, he knew exactly what had happened to Kwak Cheolyung.
 
 “What was it? Don’t keep me in suspense. Tell me.”
 
@@ -64,7 +64,7 @@ Regretting that he had missed such a massive game, he smacked his lips and asked
 
 The Fire King was one of the Ten Kings and a Supreme Peak master whose reputation resounded throughout the world. There was no reason for such a man’s disciple to gamble with a Dogon.
 
-The goat-bearded man thought for a moment before crying out as if in a groan.
+After thinking for a moment, the goat-bearded man cried out.
 
 “Dodo![^1] He played Dodo at the Star-Array Grand Banquet.”
 
@@ -78,7 +78,7 @@ At last, the goat-bearded man understood what had happened and clicked his tongu
 
 “Do you think he bet without thinking? He must have had his reasons for being confident.”
 
-“What did he bet on, and against whom?”
+“What did he bet on?”
 
 “The Iron-Water Divine Dragon taking first place in the preliminaries.”
 
@@ -98,7 +98,7 @@ While he was still reeling in astonishment, the narrow-eyed man said something e
 
 “…!”
 
-The goat-bearded man asked haltingly, his eyes as wide as plates.
+The goat-bearded man’s eyes grew as wide as plates.
 
 “H-He brought down a cliff?”
 
@@ -122,7 +122,7 @@ The goat-bearded man said nothing. He merely stared at his friend in disbelief.
 
 “What?”
 
-“What do you think it feels like to lose money in a game you were certain you’d win?”
+“What do you think happens when someone loses money on a bet he was certain he’d win?”
 
 “C-Could it be…?”
 
@@ -140,23 +140,23 @@ The narrow-eyed man nodded.
 
 “After the Iron-Water Divine Dragon, Kwak Cheolyung chose Jong Sam of the Hunroe Leg. He bet on him receiving the highest score in the leg-technique assessment.”
 
-“That Supreme Peak master who was said to have no equal in kicks throughout Guangxi?”
+“That Peak master said to have no equal in kicks throughout Guangxi?”
 
-“Yes. Though by now, he probably has quite a few equals. One of his legs was broken.”
+“Yes. Though by now, he probably has plenty of equals. One of his legs is broken.”
 
 “Don’t tell me the Sleeping Dragon of Shanxi did that, too.”
 
-“Are you starting to understand? That’s right. The two of them got into a minor dispute and agreed to exchange one clean blow each before calling it even. But one kick from the Sleeping Dragon of Shanxi supposedly broke Jong Sam’s shin.”
+“Starting to see the pattern? That’s right. The two of them got into a minor dispute and agreed to exchange one clean blow each, then call it even. But a single kick from the Sleeping Dragon of Shanxi broke Jong Sam’s shin.”
 
 “H-How?”
 
-“I don’t know. They say he gave it a casual kick, and the shin snapped with a crunch.”
+“I don’t know. They say he gave it a light kick, and the bone snapped with a crunch.”
 
 “……”
 
 “The Hunroe Leg even struck first, but the Sleeping Dragon of Shanxi just scratched his calf a few times afterward, and that was it. And next was probably…”
 
-The stories that continued to pour from the narrow-eyed man’s mouth about the Sleeping Dragon of Shanxi were nothing short of shocking.
+The stories that continued pouring from the narrow-eyed man’s mouth were nothing short of shocking.
 
 The Kunlun Sect’s Kunlun Cloud Dragon, said to possess the finest lightness technique among all the young prodigies under heaven, leaped five jang from a standing position—only to come crashing down with Jin Taekyung’s foot planted on his face.
 
@@ -176,13 +176,13 @@ The goat-bearded man, who had been listening with a vacant expression, cut him o
 
 “……”
 
-“Anyway, the Sleeping Dragon of Shanxi took first place in the preliminaries, and Kwak Cheolyung, who bet on someone different every time, was left completely penniless. I heard he sank all the money he’d earned into it, then even mortgaged the estate and land where he’d planned to retire to borrow from loan sharks… Tsk, tsk.”
+“Anyway, the Sleeping Dragon of Shanxi took first place in the preliminaries, and Kwak Cheolyung, who bet on someone different every time, was left penniless. I heard he lost everything he’d ever earned, then mortgaged the estate and land where he’d planned to retire so he could borrow from loan sharks… Tsk, tsk.”
 
 The narrow-eyed man gazed at Kwak Cheolyung with sympathy.
 
 Only a few silver nyang sat before the legendary Dogon who had once amassed a tremendous fortune. They were probably all he had left in the world.
 
-“Whether you earn it or lose it, it all happens in one shot. Isn’t that right?”
+“Whether you make a fortune or lose one, it all happens in a single stroke. Isn’t that right?”
 
 Only then did the goat-bearded man come to his senses. He licked his parched lips.
 
@@ -202,7 +202,7 @@ The narrow-eyed man nodded.
 
 “Damn it. Some of us have reached this age without even owning a proper house. Hoo…”
 
-The two men let out a deep sigh.
+The two men let out deep sighs.
 
 Then a chair scraped across the floor as someone rose to his feet.
 
@@ -242,7 +242,7 @@ The moment his bear paw locked around my upper body, Hyuk Mujin seized the back 
 
 “……”
 
-*Jin Wikyung is my brother, so I’ll let it slide. But what the hell is wrong with Hyuk Mujin?*
+*Wikyung is one thing, but what the hell is wrong with Hyuk Mujin?*
 
 Doing my best to hide my bewilderment, I asked, “Are you out of your mind?”
 
@@ -274,7 +274,7 @@ At the same time, something bright and glittering slipped from inside his robes 
 
 “Huh? A gold mask?”
 
-*What is this now?*
+*What the hell is this?*
 
 *Is it a prop for that kind of play?*
 
@@ -282,13 +282,13 @@ With a grave expression, I tucked the mask into my robes.
 
 *Hyuk Mujin, you dangerous bastard. This mask is confiscated for life.*
 
-*Not a chance.*
+*Not on my watch.*
 
 As I steeled my resolve, I noticed someone I had momentarily forgotten.
 
 “Ahem. Ahehem!”
 
-“Do you have a throat problem?”
+“Do you have bronchitis?”
 
 Jeok Cheongang, who had been staring off at a distant mountain and repeatedly clearing his throat, flinched.
 
@@ -324,7 +324,7 @@ Their backgrounds and specialties were all different, but the five of them now h
 
 “That…”
 
-For a moment, Jeok Cheongang was at a loss for words. Then he shook his head again and again.
+For a moment, Jeok Cheongang was at a loss for words. Then he shook his head.
 
 “Bah. Pathetic weaklings.”
 
@@ -338,7 +338,7 @@ For a moment, Jeok Cheongang was at a loss for words. Then he shook his head aga
 
 His words were stern, but the corners of his mouth were twitching.
 
-It was obvious that he was barely holding back laughter.
+He was obviously struggling to hold back a smile.
 
 I would have known that even without the Sound Transmission Jin Wikyung sent me a moment later.
 
