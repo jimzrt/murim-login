@@ -8,7 +8,7 @@ Park Jihoon took a bottle of water from the refrigerator and offered it to the m
 
 “At a time like this? And where did you learn to offer someone else’s things as if they were your own?”
 
-“Then I suppose it’s all right if I drink only half. I have at least that much of a stake in bringing Myeongdong Guild to where it is today.”
+“Then I suppose drinking half would be acceptable. I deserve at least that much credit for making Myeongdong Guild what it is today.”
 
 “……”
 
@@ -76,11 +76,11 @@ For a moment, he had dismissed it as lingering unease over the operation going a
 
 But that wasn’t it.
 
-His intuition, which had even endured the Great Cataclysm, had given him the answer to what troubled him.
+The instincts that had carried him through even the Great Cataclysm had given him the answer.
 
 “He’s a siege cannon. One capable of cracking not just a tower of sand, but an iron one.”
 
-Without waiting for a reply, Park Tae Seop reached out. He picked up the bottle of water Park Jihoon had left behind and drained it in large gulps.
+Without waiting for a reply, Park Tae Seop reached out, picked up the half-empty bottle, and drained it in several gulps.
 
 His throat had become unbearably dry as soon as he finished speaking.
 
@@ -92,7 +92,7 @@ He could admit that the operation had not gone entirely smoothly. There had been
 
 But even taking that into account, Park Tae Seop’s reaction was far too extreme.
 
-It was only natural that Park Jihoon, who absolutely worshiped “that person,” should feel displeased.
+Naturally, it displeased Park Jihoon, who had absolute faith in “that person.”
 
 “I didn’t realize you held Jin Taekyung in such high regard.”
 
@@ -108,7 +108,7 @@ A mocking smile touched Park Jihoon’s lips.
 
 “Won Myunghoon was trash. He was at the very bottom of the rankers, and even then, they only put his name on the list once as an act of charity during all that Korean Wave hype. You know that too, Guild Master.”
 
-“I heard he was stupid and greedy, and that his fame made him look more skilled than he really was.”
+“I heard he was stupid, greedy, and used his fame to make himself look more capable than he really was.”
 
 “And the Named Monster? They called it a Named Monster, but that Black Drake was the weakest one to appear in nearly twenty years. The Magic Gem recovered from its corpse wasn’t much different from one taken from an A-rank monster.”
 
@@ -130,7 +130,7 @@ But the next question made him falter.
 
 His answer came half a beat late. Realizing it, Park Jihoon pressed his lips together.
 
-“That hesitation just now seems to say something about what kind of person Jin Taekyung is.”
+Park Tae Seop watched him and said, “That hesitation tells me everything I need to know about Jin Taekyung.”
 
 Park Jihoon replied coldly, “I was merely reminded of the past.”
 
@@ -196,13 +196,13 @@ As his expression grew increasingly strange, Park Tae Seop pulled the phone away
 
 Park Tae Seop thrust the phone toward him, a vein bulging on his forehead.
 
-“Hello?”
+“What?”
 
 “Hurry!”
 
 Bewildered, Park Jihoon took the phone and pressed it to his ear.
 
-A voice as soft as a cat’s paw slipped into his ear.
+A voice as soft as a cat’s paw slipped into it.
 
 —Hunter Park Jihoon of Myeongdong Guild Team 1?
 
@@ -234,9 +234,9 @@ Park Jihoon’s lips twitched.
 
 Those few words were enough for him to understand what had happened. Myeongdong Guild’s people had walked straight into the Peace Guild’s trap.
 
-There was no need to see what had happened to Manager Kim, the phone’s owner. He was obviously either bound tightly and unconscious or helplessly watching someone else use his phone.
+There was no need to ask what had become of Manager Kim, the phone’s owner. He was either trussed up and unconscious or helplessly watching someone else use his phone.
 
-*Myeongdong Guild, you fucking idiots.*
+*Myeongdong Guild, you useless fucks.*
 
 Team Leader Choi’s voice drifted leisurely through the receiver, as relaxed as a victor’s.
 
@@ -260,9 +260,7 @@ A text message had arrived. The sender was…
 
 **[Team 1 Leader]**
 
-*Got him.*
-
-Relief spread across Park Jihoon’s lips in a smile. Jin Taekyung, who had entered the tiger’s den known as Myeongdong Guild, had finally been forced to his knees.
+Relief spread across Park Jihoon’s face. Jin Taekyung, who had entered the tiger’s den that was Myeongdong Guild, had finally been forced to his knees.
 
 The scales that had tipped against him were balanced again.
 
@@ -274,7 +272,7 @@ The smile vanished from his lips.
 
 Filling the six-inch screen was not a report that the Team 1 Leader had captured Jin Taekyung, but a single photograph.
 
-*What is this?*
+*What the hell is this?*
 
 He recognized the faces.
 
@@ -290,7 +288,7 @@ The nameplate reading *Hunter Park Jihoon, Myeongdong Guild Team 1* made it unmi
 
 And there was one more thing.
 
-*No way…… Did no one stop him? That one Jin Taekyung?*
+*No way… No one could stop him? Just one man?*
 
 A reality he did not want to believe.
 
@@ -306,7 +304,7 @@ Five words were enough to shatter Park Jihoon’s composure.
 >
 > Bring Melona when you come.[^1]
 
-“This—this fucking…!”
+“You—You fucking…!”
 
 Crack.
 
@@ -328,13 +326,13 @@ A few hours earlier, after burning down the safe house used by the Black Hunters
 
 Team Leader Choi and the others would lie in ambush to secure solid evidence, while I had insisted on acting alone.
 
-It was because Team Leader Choi had argued that we absolutely had to capture something that could serve as evidence or a witness.
+He had argued that we absolutely needed to capture something—or someone—that could serve as evidence.
 
 *He was right.*
 
 Every Black Hunter, including Im Yeongjun, had been managed so meticulously that their identities had already been laundered clean. There wasn’t even the slightest link connecting them to Myeongdong Guild.
 
-Team Leader Choi had identified that problem exactly.
+Team Leader Choi had identified that problem immediately.
 
 *He’s always calm and composed.*
 
@@ -382,11 +380,11 @@ His reaction was understandable.
 
 The other Myeongdong Guild Hunters who arrived afterward didn’t dare attack me after seeing the scene before them.
 
-Of course, quite a few of them were armed with fierce devotion to their Guild.
+Quite a few of them were armed with fierce loyalty to the Guild.
 
 Unfortunately, they didn’t have the skills to back it up. Everyone who charged me got beaten to a pulp and carried away.
 
-After I had knocked down around fifty of them, no one else tried to attack me. Park Jihoon’s office became forbidden territory that no one could enter.
+After I put down around fifty of them, no one else tried. Park Jihoon’s office became forbidden territory that no one dared enter.
 
 I sank into his chair.
 
@@ -408,13 +406,13 @@ The armrest snapped beneath my grip.
 
 “Guild Master!”
 
-Murmurs spread beyond the office door like a wildfire.
+A commotion spread like wildfire beyond the office door.
 
 At the same time, I sensed two immense presences approaching without hesitation.
 
 *He’s here.*
 
-And in the next moment, the door blew apart with a thunderous roar.
+The next instant, the door exploded inward with a thunderous roar.
 
 BOOM!
 

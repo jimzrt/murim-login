@@ -1,0 +1,427 @@
+# Chapter 281
+
+The limousine raced down the road without a single jolt.
+
+Park Jihoon took a bottle of water from the refrigerator installed inside and offered it to the middle-aged man sitting across from him.
+
+“Would you like some?”
+
+“In this situation? And where did you learn the habit of offering someone else’s things as if they were yours?”
+
+“Then I suppose it’s all right if I drink only half. I have at least that much of a stake in bringing Myeongdong Guild to where it is today.”
+
+“……”
+
+The middle-aged man, Myeongdong Guild Master Park Tae Seop, glared silently at Park Jihoon as he tipped back the bottle.
+
+“You’re awfully calm.”
+
+After emptying exactly half the bottle, Park Jihoon leaned back against the soft seat and answered,
+
+“Is there some reason I should be worried?”
+
+“This whole mess has happened, and you’re acting as if nothing’s wrong?”
+
+“It’s nothing more than a minor incident.”
+
+“A sand tower can collapse from a single drop of water.”
+
+“Because it’s a sand tower.”
+
+“You’re saying Myeongdong Guild is different?”
+
+“Five hundred Hunters under its banner. Twenty of them are A-rank Hunters. At this point, calling it an iron tower instead of a sand tower wouldn’t be inaccurate. And…”
+
+The corners of Park Jihoon’s mouth curved gently upward.
+
+“Myeongdong Guild should be excluded from the comparison. We have ‘that person,’ after all.”
+
+“……”
+
+“That’s true.”
+
+Park Tae Seop nodded reluctantly, though his expression remained displeased. Seeing him like that, Park Jihoon asked,
+
+“What is it? What has you so anxious that you can’t sit still?”
+
+After a brief silence, Park Tae Seop spoke.
+
+“A feeling.”
+
+“What?”
+
+“When you reach my age, you develop a certain instinct. Something you can’t explain.”
+
+Ha.
+
+Park Jihoon could not suppress a quiet laugh inwardly. He had wondered what the man was going to say, but in the end, it was nothing more than an old man past sixty throwing a fit.
+
+*Just a feeling? What a ridiculous thing to say.*
+
+Those thoughts appeared plainly on his face. And Park Tae Seop had lived too long not to notice.
+
+“You may think it’s nonsense. I understand. It’s an area greenhorns like you can’t comprehend.”
+
+“Ah, I’m sorry if that’s how you feel.”
+
+“That tone, which doesn’t sound sincere in the slightest, is also something only a greenhorn could manage.”
+
+“I simply can’t understand it. What exactly is bothering you so much?”
+
+After a short silence, one person’s name slipped out.
+
+“Jin Taekyung.”
+
+He exhaled the name like a sigh. It was the name that had occupied his thoughts ever since contact with Team 11 had been lost.
+
+For a brief moment, he had thought it was merely a trace of anxiety over things going wrong.
+
+But it wasn’t.
+
+His intuition, which had even endured the Great Cataclysm, had given him the answer to what troubled him.
+
+“He’s a siege cannon. Not just a sand tower—even an iron tower could crack under his fire.”
+
+Without waiting for a reply, Park Tae Seop reached out. He picked up the bottle of water Park Jihoon had left behind and drained it in large gulps.
+
+His throat had grown so dry after speaking that he could hardly stand it.
+
+Meanwhile, Park Jihoon’s brow furrowed deeply as he watched.
+
+*Has the old man lost his mind?*
+
+He admitted that the process of handling things had not gone entirely smoothly. There had been some unexpected snags, especially involving the Black Hunters and Team 11.
+
+But even taking those into account, Park Tae Seop’s reaction was far too extreme.
+
+It was only natural that Park Jihoon, who absolutely worshiped “that person,” should feel displeased.
+
+“I didn’t know you rated Jin Taekyung that highly.”
+
+“Because he’s shown us results.”
+
+“Jin Taekyung only came into prominence recently.”
+
+“And it’s also true that he’s shown us a great deal in that short time.”
+
+“Shown us?”
+
+A mocking smile touched Park Jihoon’s lips as he continued.
+
+“That Won Myunghoon was trash. The bottom of the rankers. Even when the Korean Wave was at its height, the only reason he was put on the list once was as an act of charity. You know that too, Guild Master.”
+
+“I heard he was stupid and greedy, and that his fame made him look more skilled than he really was.”
+
+“And the Named Monster? It was called a Named Monster, but that Black Drake was the weakest of all the Named Monsters to appear in nearly twenty years. The Magic Gem recovered from its corpse wasn’t much different from one taken from an A-rank monster.”
+
+“Then can you kill that weak Named Monster by yourself?”
+
+“It wouldn’t be impossible.”
+
+Park Jihoon answered without hesitation.
+
+He took pride in his own abilities.
+
+He possessed extraordinary talent, which was why he had received the honor of being chosen by “that person.” It was also why, despite not yet being thirty, he could sit across from the Guild Master of Myeongdong Guild and meet his eyes as they spoke.
+
+But the next question stopped him short.
+
+“Then what if you fought Jin Taekyung? Could you still be certain of victory against him?”
+
+“……Of course.”
+
+This answer came half a beat late. As Park Tae Seop watched him realize it and bite down slowly on his lip, he spoke.
+
+“That hesitation just now seems to say something about what kind of person Jin Taekyung is.”
+
+Park Jihoon replied coldly,
+
+“I simply remembered something from the past.”
+
+“Ah. You said you were friends, didn’t you?”
+
+“I don’t want to talk about that. What I’m saying is that this incident isn’t as serious as you think, Guild Master.”
+
+“We don’t even know whether Team 11 is alive or dead, and the public figure currently drawing more attention than anyone else in the country has barged into Myeongdong Guild headquarters. You’re saying that isn’t serious?”
+
+“He’s an idiot. That’s why he lost control of his temper and recklessly broke into Myeongdong Guild headquarters.”
+
+About ten minutes earlier, while Park Jihoon had been speaking with the Team 1 Leader on the phone, he had been startled by the sudden sound of Jin Taekyung’s voice.
+
+At the same time, he had felt relieved.
+
+*This will be easy to resolve.*
+
+Myeongdong Guild had more than five hundred Hunters. Even if half of them had gone out on raids, an enormous number still remained at headquarters.
+
+Of course, that number included Team 1, the Guild’s elite force.
+
+“Jin Taekyung walked straight into a tiger’s den. Once we hold him there and sort things out, it’ll be over.”
+
+There was no need to worry even if reporters who caught the scent of the story got involved.
+
+He had—no, “that person” had—the power to render cameras and microphones useless.
+
+“I’ll wrap everything up cleanly today.”
+
+Park Tae Seop muttered with a face that suddenly looked much older.
+
+“This isn’t normal. Maybe it’s because I’m getting old, but I’m starting to feel worn out.”
+
+“It’s only a passing breeze. It would be a problem if the legs of someone who endured even the Great Cataclysm were trembling.”
+
+Park Tae Seop recognized that the words contained criticism rather than encouragement and closed his mouth.
+
+Just then, a monotonous cell-phone notification rang from somewhere.
+
+“That isn’t my phone.”
+
+“It’s mine.”
+
+“Who is it?”
+
+“Manager Kim, the one in charge of my security. I told him to find out what happened to Team 11. It seems he’s just arrived.”
+
+“That’s good. Tell him to erase every trace related to Team 11 first.”
+
+“Are you giving me orders now?”
+
+Park Tae Seop frowned and answered the phone.
+
+“It’s me. What happened? Hm? Ah, I see.”
+
+His brow furrowed, then smoothed. His pupils repeatedly expanded and contracted.
+
+As his expression grew stranger and stranger, Park Tae Seop pulled the phone away from his ear.
+
+“What happened?”
+
+“Take it.”
+
+Park Tae Seop held out his phone to him. A vein stood out sharply on his forehead.
+
+“Hello?”
+
+“Hurry!”
+
+Park Jihoon accepted the phone with a bewildered expression and pressed it to his ear.
+
+A voice as soft as a cat’s paw slipped into his ear.
+
+— Hunter Park Jihoon of Myeongdong Guild Team 1?
+
+The instant he heard it, Park Jihoon realized.
+
+The caller was not Manager Kim, whom he had crossed paths with several times.
+
+The voice was young and polite, yet carried an air that made him difficult to approach.
+
+“That’s me. Who is this?”
+
+Something felt wrong.
+
+The unfamiliar voice answered Park Jihoon’s question, which carried an instinctive sense of unease.
+
+— My name is Choi Minwoo.
+
+“Who?”
+
+— Ah, I’m with the Peace Guild. I’m a Team Leader.
+
+“……The Peace Guild?”
+
+— Yes.
+
+*Fuck.*
+
+Park Jihoon’s lips twitched.
+
+A few words were enough to figure out what had happened. Myeongdong Guild’s people had fallen neatly into a trap laid by the Peace Guild.
+
+There was no need to see what had happened to Manager Kim, the phone’s owner. He was obviously either bound tightly and unconscious or helplessly watching someone else use his phone.
+
+*Myeongdong Guild, you fucking idiots.*
+
+The voice of Team Leader Choi coming through the receiver was as relaxed as a victor’s.
+
+— I called because I’d like to have a conversation.
+
+“Well, you see…”
+
+Park Jihoon clenched his teeth, his mind racing furiously.
+
+That was when a vibration traveled up from his chest.
+
+It was not Park Tae Seop’s phone in his hand.
+
+— Hunter Park Jihoon?
+
+“Wait. Just a moment.”
+
+With his free hand, Park Jihoon pulled his own phone from the inner pocket of his suit and checked it.
+
+He had received a text message. The sender was…
+
+**[Team 1 Leader]**
+
+*Got him.*
+
+Relief spread across Park Jihoon’s lips in a smile. Jin Taekyung, who had entered the tiger’s den known as Myeongdong Guild, had finally been forced to his knees.
+
+The scales, which had been tipping in the other direction, had finally balanced.
+
+But then—
+
+“……Huh?”
+
+The smile disappeared from Park Jihoon’s lips as he checked the message.
+
+Filling the six-inch screen was not a report from the Team 1 Leader saying that he had captured Jin Taekyung, but an image file.
+
+*What is this?*
+
+The faces were familiar.
+
+A young man was grinning broadly in the photograph, his face spattered with blood. A middle-aged man was held against him, his complexion blue and sickly, like that of a drug addict.
+
+*Jin Taekyung…and the Team 1 Leader?*
+
+That wasn’t all.
+
+A familiar background appeared behind them.
+
+The nameplate reading *Hunter Park Jihoon, Myeongdong Guild Team 1* provided a decisive clue as to where they were.
+
+And there was something else.
+
+*No way…… Did no one stop him? That one Jin Taekyung?*
+
+It was a reality he did not want to believe.
+
+That was when Park Jihoon’s wandering eyes began to shake.
+
+Bzzz.
+
+Another text message arrived with a vibration. Its contents were short, but devastating.
+
+With just five words, it crushed Park Jihoon’s mind.
+
+> **Team 1 Leader**
+>
+> Bring Melona when you come.[^1]
+
+“This—this fucking…!”
+
+Crack.
+
+The phone in Park Jihoon’s hand crumpled like a sheet of paper.
+
+Watching him, Myeongdong Guild Master Park Tae Seop muttered quietly,
+
+“We’re fucked.”
+
+* * *
+
+> **Team Leader Choi**
+>
+> We’ve captured the people dispatched by Myeongdong Guild.
+
+It was a text message from Team Leader Choi.
+
+A few hours earlier, after burning down the secret house used by the Black Hunters, we had split into two groups.
+
+An ambush team to secure definite evidence.
+
+And me, who had insisted on acting alone.
+
+It was because Team Leader Choi had argued that we absolutely had to capture something that could serve as evidence or a witness.
+
+*He was right.*
+
+They had been managed so meticulously that every Black Hunter, including Im Yeongjun, had already undergone identity laundering. There was no connection between them and Myeongdong Guild—not even the slightest link.
+
+Team Leader Choi had identified that problem exactly.
+
+*He’s always calm and composed.*
+
+Looking back, he had never lost sight of the right direction.
+
+Butler Kim’s role as an excellent mage and wise adviser probably helped, but at this point, I had to assume Choi was simply born that way.
+
+*With this, we’ve secured one solid weakness.*
+
+On top of the captured Black Hunters, we now had official employees of Myeongdong Guild as well.
+
+That should make an excellent shield.
+
+*And we could use it as a dagger, too.*
+
+I sent a message saying good work, along with the photograph I had taken earlier.
+
+Maybe it was because it was an AdultPhone,[^2] but even a picture taken with a foot came out great.
+
+[^2]: “AdultPhone” is a Korean pun on iPhone: *ai* can mean “child,” while *eoreun* means “adult.”
+
+“Should I take this opportunity to change my phone, too?”
+
+Someone flinched at my mutter. It was a Security Team Hunter I had hired as my personal cameraman for the day.
+
+Of course, I wasn’t paying him.
+
+“Why?”
+
+“N-No, sir!”
+
+“Make yourself comfortable. Don’t just stand there. Sit on the sofa or something.”
+
+“I’m comfortable like this!”
+
+“You look uncomfortable to me.”
+
+“I’m fiiiine!”
+
+Was it my imagination, or did his shout sound like it contained a sob?
+
+As an ordinary Security Team Hunter, he had just watched me completely destroy Team 1, a group whose elite members he would not have dared to meet eye-to-eye properly. His reaction was understandable.
+
+*The ones who came later were similar.*
+
+The other Myeongdong Guild Hunters who arrived later didn’t dare attack me after seeing the scene before them.
+
+Of course, quite a few of them were armed with fierce devotion to their Guild.
+
+Unfortunately, they lacked the skill to match. Every one of the men who charged at me was beaten to a pulp and carried away.
+
+After I had knocked down around fifty of them, no one else tried to attack me. Park Jihoon’s office became forbidden territory that no one could enter.
+
+I sank into the chair Park Jihoon had been using and thought,
+
+*He must be racing here like a madman by now.*
+
+Just thinking about him made my heart feel cold.
+
+A middle-school classmate I had happened to run into on the street after a full ten years.
+
+*How much of Park Jihoon was the real him?*
+
+*Come quickly. Before I get any angrier.*
+
+Crack.
+
+That was when the armrest of the chair broke beneath the strength of my grip.
+
+“H-He’s here!”
+
+“Guild Master!”
+
+Murmurs spread beyond the office door like a wildfire.
+
+At the same time, I felt two massive presences approaching this way without hesitation.
+
+*He’s here.*
+
+And in the next moment, the door blew apart with a thunderous roar.
+
+BOOM!
+
+[^1]: Melona is a popular Korean melon-flavored ice cream bar.
