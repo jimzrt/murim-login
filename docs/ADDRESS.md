@@ -807,3 +807,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 문경 | 곽봉출 | medical apprentice to elderly patient | Elder | calm, polite, and firmly instructive | Mungyeong uses 노인장 while examining, calming, and directing Gwak. |
 | 향아 | 송 의원 | junior medical apprentice to senior physician | Physician Song | formal-polite and deferential | Hyang asks Song for his opinion and answers him respectfully. |
 | 송 의원 | 향아 | senior physician to junior medical apprentice | Hyang | familiar, admonishing, and paternal | Song questions Hyang about the rumor, orders her to answer, and later comforts her. |
+| 적천강 | 궁기방 | overwhelming_elder_to_younger_martial_artist | you | blunt and threatening | Jeok Cheongang rebukes Gung Gibang for speaking informally and orders him to lie down. |
+| 진태경 | 홍란 | pursuer_to_hostile_opponent | you fucking bitch | profane and threatening | Taekyung demands Honglan's location and threatens her while she speaks through Song Ho. |

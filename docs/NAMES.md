@@ -1570,3 +1570,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 백추 | **Baekchu** | Boat maker or boat type associated with vessels sold around Wuhan. |
 | 송 | **Song** | Middle-aged physician at the Hubei provincial clinic. |
 | 향아 | **Hyang** | Young female medical apprentice at the clinic. |
+| 섭혼술 | **Soul-Seizing Technique** | Powerful art that bewatches and controls a person's soul. |
+| 천년마도 | **Thousand-Year Demonic Path** | Ancient demonic tradition associated with the Demonic Cult. |
+| 남천마후 | **Southern Heaven Demon Empress** | Title Honglan uses when revealing her identity. |
+| 군선 | **military vessel** | Vessel carrying the Hubei government troops and sailors. |
+| 호북성부 | **Hubei provincial government** | Provincial government administration in Hubei. |
