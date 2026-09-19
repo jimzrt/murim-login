@@ -1,6 +1,6 @@
 # Tang Sadok (당사독)
 
-- **Safe through:** Chapter 375
+- **Safe through:** Chapter 459
 - **Aliases:** Myriad-Poison Asura
 - **Role:** Current Family Head of the Sichuan Tang Clan, gravely wounded in the Three-Gate Bloodbath and recovering under medical care.
 - **Personality:** Grim, cold, blunt, suspicious, and unsentimental, with fierce concern for the Tang Clan’s affairs.
