@@ -4,7 +4,7 @@ I stared at the man who had suddenly stepped in front of the car.
 
 *He’s definitely a Hunter, but…*
 
-The reason I found myself thinking that despite sensing his extraordinary energy was his flashy appearance.
+Despite the extraordinary energy I sensed from him, I still had my doubts—and it was all because of his flashy appearance.
 
 From his intricately patterned semi-formal suit to the designer labels covering him from head to toe, everything about him screamed luxury.
 
@@ -20,7 +20,7 @@ They both liked luxury brands, but the man in front of us took it a little too f
 
 The huge sunglasses he was wearing on such a gloomy day certainly didn’t help.
 
-“Can’t you hear me? Is this thing under a noise spell or something?”
+“Can’t you hear me? Is there some kind of soundproofing spell on this thing?”
 
 At the man’s mutter, Team Leader Choi lowered the window.
 
@@ -88,7 +88,7 @@ Making a recruitment offer in front of Team Leader Choi was already incredibly r
 
 *He’s crossing the line.*
 
-That was the look I was giving the man as I wondered how to deal with him when—
+I was wondering how to deal with him when he spoke again.
 
 “That’s strange. Did I misread the interview?”
 
@@ -128,9 +128,9 @@ While preparing for the physical education college entrance exams, he awakened a
 
 “Do you think that’s all? He has an amazing personality, too. He donates often, and there are countless heartwarming stories about him. He even runs a scholarship foundation…”
 
-Team Leader Choi, who had been listening to my endless stream of information, asked with an incredulous expression,
+Team Leader Choi, who had been listening to my endless stream of information, stared at me in disbelief.
 
-“How do you know all that? Why have you memorized his physical stats and even his birthday?”
+“How do you know all that? You’ve memorized his physical stats and even his birthday?”
 
 “I told you. He’s my favorite Hunter.”
 
@@ -168,7 +168,7 @@ I hummed a few lines as a demonstration, and Team Leader Choi showed a flicker o
 
 “Oh, I think I’ve heard *I Don’t Know Hunters* before.”
 
-“Right? It’s still on the popular karaoke charts. Anyway, that’s how famous Myunghoon hyung is. There’s even a saying that any Korean man who doesn’t know Won Myunghoon is either a spy or a monster.”
+“Right? It’s still on the popular karaoke charts. Anyway, that’s how famous Won Myunghoon is. There’s even a saying that any Korean man who doesn’t know him is either a spy or a monster.”
 
 “Is living abroad for a long time really enough to get me called a monster?”
 
@@ -192,7 +192,7 @@ Team Leader Choi shook his head, then suddenly looked puzzled.
 
 Just then, Won Myunghoon, who had briefly stepped away to use the restroom, came walking toward us from a distance, waving.
 
-“Team Leader, Myunghoon hyung is calling me. I’ll get going.”
+“Team Leader, Myunghoon is calling me. I’ll get going.”
 
 “…Go ahead. I have about thirty minutes to spare anyway, so I’ll look at some clothes in the department store nearby.”
 
@@ -240,7 +240,7 @@ Then a breathy gasp escaped his lips.
 
 He was a hardcore Won Myunghoon fanboy, too. I nudged Won Myunghoon in the side with my elbow and whispered,
 
-“As expected of you, Myunghoon hyung. You’re still incredibly popular.”
+“As expected of you, hyung. You’re still incredibly popular.”
 
 “Haha, this is embarrassing. It’s been a while since I gave anyone an autograph.”
 
@@ -266,7 +266,7 @@ Muttering in amazement, the employee hurriedly pulled out a piece of paper and a
 
 What on earth was going on?
 
-*Not Myunghoon hyung… me?*
+*Not Myunghoon… me?*
 
 I turned around in bewilderment and found myself looking at Won Myunghoon’s face.
 
@@ -278,7 +278,7 @@ It was a side of him I had never seen anywhere before. But the next moment, it v
 
 “Pardon? Oh, yes.”
 
-*The café lights must have been too bright. I must have seen wrong.*
+*The café lights must be too bright. I must have seen it wrong.*
 
 With a strange sense of déjà vu, I took the pen.
 
@@ -294,7 +294,7 @@ Oh, for fuck’s sake.
 
 * * *
 
-The initial awkwardness soon faded, and the moment I sat down, I spent more than twenty minutes enthusiastically showing off my fanboy devotion.
+The initial awkwardness soon faded, and the moment we sat down, I spent more than twenty minutes enthusiastically demonstrating my devotion as a fan.
 
 “As you know, hyung, there aren’t that many A-rank Hunters who use spears.”
 
@@ -332,11 +332,11 @@ That went without saying in the Murim, where martial arts had developed to a lev
 
 *But it helped me a lot back then.*
 
-The easiest way to explain it was that the manual had been written at the level of a novice.
+The easiest way to explain it was that the manual had been written from a novice’s perspective.
 
 You couldn’t teach an ant how a tiger moved.
 
-After I finished praising him from every possible angle, Won Myunghoon tilted his lukewarm coffee cup.
+After I finished praising him from every possible angle, Won Myunghoon raised his now-lukewarm coffee to his lips.
 
 “That’s all in the past.”
 
@@ -350,7 +350,7 @@ Was this because of that incident?
 
 It was unfortunate, but I couldn’t deny it completely. Over the past eight years, countless star Hunters had emerged who could match or surpass Won Myunghoon, and the public had cheered for brighter lights.
 
-“It wasn’t until last year that I finally thought about starting again. As it happened, I also took over a Guild from an acquaintance who was about to retire.”
+“It wasn’t until last year that I finally decided to start again. As it happened, I also took over a Guild from an acquaintance who was about to retire.”
 
 “The Star Guild?”
 
@@ -388,19 +388,19 @@ He had beaten the incredibly low odds of awakening, and thanks to that, he had s
 
 Even though he had gone through an unfortunate incident…
 
-*Maybe this is him returning to his original self.*
+*Maybe this is him returning to who he was meant to be.*
 
 Despite my lingering unease, I nodded.
 
-It wasn’t that my thought was wrong. It was simply different. I had no desire to bring it up and make the atmosphere uncomfortable.
+It wasn’t a matter of right or wrong. We simply saw it differently. There was no need to bring it up and make things uncomfortable.
 
 “I see.”
 
-“Then I heard about you. You were incredible. It felt like I was looking at my old self.”
+“Then I heard about you. You were incredible. It felt like I was looking at my younger self.”
 
 “M-Me?”
 
-“Yeah. I searched for and read your interviews. I was happy and grateful to hear that you were such an enthusiastic fan of mine. Thanks to you, I even received offers to appear on television from several places.”
+“Yeah. I searched for your interviews and read them. I was happy—and grateful—to hear that you were such a devoted fan of mine. Thanks to you, I even received offers from several television programs.”
 
 “Oh.”
 
