@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Mungyeong is the Slaughter Saint, a Returned to Youth Supreme Peak master and the greatest assassin in history; before becoming the Slaughter Saint, he was called Killing Ghost, and he saved countless people as the Divine Physician.",
+      "defect": "The durable state omits Mungyeong’s newly revealed membership in the annihilated Salcheonmun and his history of teaching its assassins.",
+      "id": "C01",
+      "rationale": "Salcheonmun is a named organization tied directly to Mungyeong’s past and future instruction of Taekyung, making the revelation necessary for continuity beyond the checkpoint summary.",
+      "replacement": "Mungyeong is the Slaughter Saint, a Returned to Youth Supreme Peak master and the greatest assassin in history; he was formerly called Killing Ghost, belonged to the now-vanished Salcheonmun, and taught several of its assassins; he also saved countless people as the Divine Physician.",
+      "severity": "major",
+      "source": "Chapter 497, Mungyeong’s account of his former disciples and Salcheonmun; durable state active_continuity"
+    },
+    {
+      "confidence": 0.97,
+      "current": "The Mount Heng Sword Sect has completed its reconstruction and is growing under Lee Seowol, while Cheol Mubaek has ended his seclusion and is helping manage the sect's affairs.",
+      "defect": "The durable state records the sect’s institutional progress but drops the active personal hook that Taekyung has not contacted Lee Seowol for more than a year despite her recent attempt to reach Jin Wikyung.",
+      "id": "C02",
+      "rationale": "The lack of contact is explicitly emphasized through Wipeng’s question and Taekyung’s reaction, so omitting it from active continuity risks dropping the unresolved relationship hook.",
+      "replacement": "The Mount Heng Sword Sect has completed its reconstruction and is growing under Lee Seowol, while Cheol Mubaek has ended his seclusion and is helping manage the sect's affairs; Taekyung has not contacted Lee Seowol since leaving for Mount Jiuhua, though she recently came looking for Jin Wikyung because of his long absence.",
+      "severity": "major",
+      "source": "Chapter 499, discussion of Lee Seowol; durable state active_continuity"
+    }
+  ],
+  "summary": "The reading copies and checkpoint summary are internally consistent, but the durable state drops two newly established continuity hooks: Mungyeong’s Salcheonmun history and Taekyung’s prolonged lack of contact with Lee Seowol.",
+  "version": 1
+}

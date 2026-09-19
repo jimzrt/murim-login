@@ -1,8 +1,8 @@
 # Jin Mukyung (진무경)
 
-- **Safe through:** Chapter 443
+- **Safe through:** Chapter 499
 - **Aliases:** Heaven Shaking Sword; Jin Family Second Young Master
-- **Role:** Second son of the Jin Family of Taiyuan; twenty-three-year-old cadet at Heaven’s Gate Temple; a young Peak-level genius swordsman who won the visible exchange with Pung Yang, was then incapacitated by five concealed throwing knives, and survived the battle to recover after Taekyung's intervention; recovered enough from his Internal Injuries to return to the Jin Family of Taiyuan, though he is not yet fully recovered; four days before this chapter, he lost his duel with Cheongpung after roughly three hundred exchanges, secluded himself to train, and sharpened his Sword Energy while resolving to surpass Cheongpung and the other geniuses; he remains secluded in the training hall, subsists on fasting pills, refuses all visitors, and will not return to Heaven’s Gate Temple until he achieves complete mastery; he has learned that Taekyung is leaving with Jeok Cheongang for a year and that Taekyung and Cheongpung plan to attend the Star-Array Grand Banquet in one year.
+- **Role:** Jin Mukyung is the second son of the Jin Family of Taiyuan, a twenty-three-year-old cadet at Heaven’s Gate Temple, and a young Peak-level genius swordsman who has remained secluded in the training hall for more than a year after losing to Cheongpung and refuses to emerge until he achieves a great accomplishment.
 - **Personality:** Reserved, terse, and easily irritated by exaggerated praise; glares coldly when Taekyung identifies him
 - **Voice:** Quiet and resonant; clipped and blunt in direct speech
 - **Relationships:** Taekyung’s older brother and current martial arts instructor; returned to the Jin Family after several years away; three years earlier, he flatly refused seven-year-old Zhu Bao’s request for an autograph

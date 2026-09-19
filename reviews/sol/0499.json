@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Not long ago, even the Sect Leader came looking for you and asked whether something had happened to you.",
+      "defect": "The surname Lee is omitted from “Sect Leader Lee,” removing the cue that prompts Taekyung to identify Lee Seowol in the next line.",
+      "id": "F01",
+      "rationale": "이 문주 means “Sect Leader Lee,” not merely “the Sect Leader.” Preserving the surname maintains the dialogue’s immediate logic.",
+      "replacement": "Not long ago, even Sect Leader Lee came looking for you and asked whether something had happened to you.",
+      "severity": "minor",
+      "source": "얼마 전에는 이 문주까지 찾아와 묻더군요. 주군께 무슨 변고라도 생기신 거 아니냐고."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Great Hero Cheol Mubaek, who was a friend of her late father, has also ended his seclusion and is taking an active role in the affairs of the Mount Heng Sword Sect.",
+      "defect": "Cheol Mubaek’s established sobriquet, Tiger of Mount Heng, is omitted.",
+      "id": "F02",
+      "rationale": "항산호 is an explicit established title in the source and glossary.",
+      "replacement": "Great Hero Cheol Mubaek, the Tiger of Mount Heng and a friend of her late father, has also ended his seclusion and is taking an active role in the affairs of the Mount Heng Sword Sect.",
+      "severity": "minor",
+      "source": "선친의 벗이었던 항산호(恒山虎) 철무백 대협도 은거를 깨고 항산검문의 일에 적극적으로 나서고 있고요."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Judging by how Jin Wikyung kept clearing his throat, he seemed to have more than a few guilty spots.",
+      "defect": "“Guilty spots” is an unnatural literal rendering of an idiom meaning that he had plenty to feel guilty about.",
+      "id": "F03",
+      "rationale": "찔리는 구석이 한둘이 아니다 describes numerous matters weighing on his conscience, not literal or figurative “spots.”",
+      "replacement": "Judging by how Jin Wikyung kept clearing his throat, he clearly had plenty to feel guilty about.",
+      "severity": "minor",
+      "source": "연신 헛기침을 내뱉는 진위경의 모습을 보니 찔리는 구석이 한둘이 아닌 모양이다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The atmosphere felt strangely ominous.",
+      "defect": "“Ominous” adds a sense of impending danger absent from the awkward, suggestive atmosphere of the source.",
+      "id": "F04",
+      "rationale": "묘하다 here means odd or peculiar, as Taekyung begins to suspect Lee Seowol may have personal feelings for him.",
+      "replacement": "Something about the atmosphere felt strange.",
+      "severity": "minor",
+      "source": "이거 어째 분위기가 묘하다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Jang Taebo’s eyes were utterly vacant as he was recruited as the Jin Family of Taiyuan’s dedicated servant—no, slave.",
+      "defect": "Rendering 도비 as the generic “servant” erases the explicit Dobby reference and therefore the correction-based punchline from “Dobby” to “slave.”",
+      "id": "F05",
+      "rationale": "도비 is Dobby, the enslaved house-elf, and 아니 노비 deliberately pivots from that name to the Korean word for a slave.",
+      "replacement": "Jang Taebo’s eyes were utterly vacant as he was recruited as the Jin Family of Taiyuan’s personal Dobby—no, slave.",
+      "severity": "major",
+      "source": "태원진가의 전속 도비, 아니 노비로 영입된 장태보의 눈빛은 공허하기 그지없었다."
+    }
+  ],
+  "summary": "Five actionable findings: two omitted identity/title cues, two localized prose defects, and a lost Dobby punchline.",
+  "version": 1
+}
