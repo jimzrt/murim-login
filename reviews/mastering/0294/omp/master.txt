@@ -32,7 +32,7 @@ Darkness blanketed the forest, and faint moonlight filtered through the gaunt br
 
 The new hires, who had realized what was happening too late, looked around in panic.
 
-“Gasp!”
+“Ah!”
 
 “W-We’re screwed.”
 
@@ -80,7 +80,7 @@ One of the pups rushed over and pleaded with me.
 
 “And I’m pretty sure you wrote on your Guild application that you didn’t have any problems like that.”
 
-“I only wrote that so I’d get accepted in the first place… Please. I can’t even watch horror movies with my girlfriend.”
+“I only wrote that so I’d get accepted… Please. I can’t even watch horror movies with my girlfriend.”
 
 “Oh, you have a girlfriend. I see. Over here!”
 
@@ -132,23 +132,23 @@ Kim Jinsoo answered without hesitation.
 
 “So, would you like to remain a Hunter with the Peace Guild, or would you rather get fired and change careers to become an exorcist?”
 
-The pup replied, his face rigid.
+The pup answered with a rigid expression.
 
-“I-I’ll be a Hunter.”
+“I-I’ll remain a Hunter.”
 
-“Then if you run away during combat, I’ll send you to heaven with my own hands. Okay?”
+“Then if you run away during combat, I’ll personally send you to heaven. Okay?”
 
 “O-Okay.”
 
 “Okay. Front! Okay! Heaven!”
 
-I waved my hand, and Kim Jinsoo grabbed the man by the arm and dragged him away.
+I waved him off, and Kim Jinsoo grabbed him by the arm and dragged him away.
 
 We’d put them through a fairly rigorous selection process, but there was always one guy like that wherever you went.
 
 *What? He’s so scared of ghosts that he can’t even watch a horror movie with his girlfriend?*
 
-Damn it. What a load of bullshit.
+For fuck’s sake. What a load of bullshit.
 
 I wasn’t angry about the girlfriend part. Really.
 
@@ -156,13 +156,13 @@ I wasn’t angry about the girlfriend part. Really.
 
 Whooosh.
 
-The eerie wind circling through the forest made the empty space at my side feel cold. I shuddered once, then stepped toward the trees.
+The eerie wind swirling through the forest chilled my empty side. I shuddered, then strode toward the trees.
 
 The conversation behind me gradually faded into the distance.
 
 “E-Excuse me, mister.”
 
-The frightened voice of one of the pups mixed with the Tosa mastiff’s blunt reply.
+One pup’s frightened voice was followed by a Tosa mastiff’s curt reply.
 
 “What?”
 
@@ -170,7 +170,7 @@ The frightened voice of one of the pups mixed with the Tosa mastiff’s blunt re
 
 “He’s going to round up the prey.”
 
-“A what?”
+“What?”
 
 “That guy’s nickname is the Pied Piper.”
 
@@ -202,7 +202,7 @@ In an instant, the cursed dead known as Undead Monsters covered the forest and h
 
 —Guaaaaaar!
 
-Rat-tat-tat-tat!
+Thud-thud-thud-thud!
 
 The old image of zombies shambling around with limp bodies was hopelessly outdated.
 
@@ -224,7 +224,7 @@ For one thing, ghouls and skeletons weren’t particularly powerful monsters. Fo
 
 Three times their number was standard, and sometimes I’d brought back more than ten times as many monsters. After I’d shown them the threshold of hell a few times, a fierce glint had begun to burn in their eyes.
 
-Of course, whenever things seemed genuinely dangerous, I stepped in from time to time even if I had been watching from the sidelines. Thanks to that, we had suffered injuries, but there had been no deaths.
+Of course, whenever things became genuinely dangerous, I stopped watching from the sidelines and stepped in. Thanks to that, there had been injuries but no deaths.
 
 After we repeated the process several times a day, I became both their common enemy and someone they trusted.
 
@@ -252,7 +252,7 @@ But the area I had explored was only a tiny fraction of it. Keeping my pace unde
 
 “Still, maybe because it’s their first time, he didn’t bring that many.”
 
-“Gasp! Skeletons!”
+“Ah! Skeletons!”
 
 Some loudly announced the monsters’ arrival, while others cursed me or calmly assessed the enemy’s numbers.
 
@@ -264,7 +264,7 @@ Of course, the human Tosa mastiffs who had already experienced my brutal trainin
 
 “Don’t back up. Hold your shield tight. What? You need to piss? Then fight like that!”
 
-“New people, get a grip. That Jin Taekyung bastard isn’t going to help you. He even started a charity foundation in advance because someone might die here!”
+“New people, get a grip. That Jin Taekyung bastard will never help you. I’m telling you, he only started that charity foundation in advance because he knew someone might die in here!”
 
 “…”
 
@@ -330,11 +330,11 @@ A skeleton horde was an army, and its knight was the general who led it. Every i
 
 *Did three hordes form an alliance?*
 
-But my prediction was spectacularly wrong.
+But my guess was completely wrong.
 
 Rattling their bones, the two newly appeared knights approached the Skeleton Knight that had emerged first. They dropped to one knee and drove their Bone Swords into the ground.
 
-It was an unmistakable act of submission.
+An unmistakable act of submission.
 
 Purple light flashed within the empty hollows where the first knight’s eyes should have been.
 
@@ -358,19 +358,19 @@ Shrrrraaaak!
 
 Its armor, rusted and cracked in places, restored itself as though time were flowing backward. Broken chains reconnected, and the faded skull emblem on its chest regained its vivid color.
 
-Finally, a dark green cloak fluttered in the wind.
+Finally, a dark green cloak unfurled in the wind.
 
 Once the transformation was complete, the creature stared silently at its palm.
 
 Instead of bare white bone, it saw a hand encased in a sturdy gauntlet.
 
-And then—
+Then—
 
 —Not. Bad.
 
 “…”
 
-The air surrounding the forest trembled.
+The air throughout the forest trembled.
 
 Everyone, myself included, stared at it in speechless silence.
 
