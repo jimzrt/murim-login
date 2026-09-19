@@ -64,7 +64,7 @@ Park Jihoon burst out laughing on the other end of the line.
 
 I glanced at the time. It was already eight in the evening.
 
-I’d moved out of our family home and into an officetel in Bucheon three days ago, so even if I went home, the only person waiting for me would be Jinho hyung.
+I’d moved out of our family home and into an officetel in Bucheon three days ago, so even if I went home, the only person waiting for me would be Jinho.
 
 I had time. The problem was…
 
@@ -80,7 +80,7 @@ And yet here I was, suspecting a friend who had contacted me after all this time
 
 *Have I developed trust issues or something?*
 
-The aftermath of the Won Myunghoon incident, along with the harassment I’d endured from certain trash reporters, must have left a lasting mark. I was left with a bitter taste in my mouth.
+The Won Myunghoon incident and all the harassment from those trash reporters must have left their mark. The thought left a bitter taste in my mouth.
 
 “You must be pretty busy. I guess that makes sense. Then maybe next time…”
 
@@ -98,7 +98,7 @@ The weather was gradually turning toward winter. In his cashmere coat over a cri
 
 “What’s with the outfit? Why are you so dressed up?”
 
-“I have something important to take care of today. And let’s get one thing straight. It’s not that I’m dressed up—you’re dressed down.”
+“I had something important to take care of today. And let’s get one thing straight. It’s not that I’m dressed up—you’re dressed down.”
 
 “Hey, what’s wrong with what I’m wearing? Jeans and a sweatshirt are perfectly fine.”
 
@@ -112,7 +112,7 @@ This was me making an effort, too. Hayeon had kept squawking at me to stop weari
 
 Park Jihoon grinned and jerked his chin toward the entrance, then started walking.
 
-We passed a uniformed security guard and countless surveillance cameras installed throughout the grounds before finally making it inside.
+We passed a uniformed security guard and countless surveillance cameras before we finally made it inside.
 
 The sight that greeted me left my mouth hanging open.
 
@@ -222,9 +222,9 @@ I also learned a few things about him that I’d never known before.
 
 “That makes you a silver-spoon kid, you deceitful bastard. Guys who talk like you always turn out to be the ones who are genuinely rich.”
 
-I looked at him.
+I stared at him.
 
-It wasn’t that he suddenly looked different now that I knew he was rich. I just found it fascinating.
+It wasn’t that he suddenly looked different now that I knew he was rich. I just found it strange.
 
 The neighborhood where we’d lived back then had been perfectly ordinary. If it hadn’t been, someone like me—whose school grades had been determined by rolling a mechanical pencil to guess the answers—would never have gotten in.
 
@@ -280,7 +280,7 @@ I topped off his empty glass and chuckled.
 
 “What’s rude about it? I don’t care.”
 
-“Then that’s a relief.”
+“Good.”
 
 “And I did go to college. Business Administration at Hankuk University. I awakened out of nowhere, so I still haven’t graduated.”
 
@@ -300,7 +300,7 @@ Park Jihoon laughed lightly at my incredulous stare.
 
 How could I put it? The more I heard about his life, the more it sounded like a wide-open highway.
 
-A wealthy family, a sharp mind, admission to the university everyone dreamed of, and then becoming an A-rank Awakened in one shot.
+A wealthy family, a sharp mind, admission to the university everyone dreamed of, and then awakening as an A-rank in one shot.
 
 Unlike me, who’d been forced to provide for my family, becoming a Hunter had been just one of countless options available to him.
 
@@ -392,19 +392,19 @@ A lone figure was leaving the officetel entrance below, swallowed by the darknes
 
 “I think you’ve misunderstood something, Team Leader.”
 
-The other person’s breathing faltered at the dry voice.
+The other man’s breathing faltered at his dry tone.
 
 Park Jihoon lifted a crystal tumbler to his lips. Instead of the somaek he’d been drinking moments ago, amber whiskey rippled inside.
 
-“From now on, wait until I speak. And stop trying to play boss with me.”
+“From now on, wait until I tell you to speak. And stop trying to play the boss.”
 
 Park Jihoon, Hunter of Team 1 in the Myeongdong Guild.
 
 That was the affiliation printed on his business card.
 
-But the Team Leader of Team 1 in the Myeongdong Guild remained silent on the other end of the phone.
+But the Myeongdong Guild’s Team 1 Leader fell silent on the other end of the phone.
 
-They both knew the truth. That title was nothing more than a hollow position.
+They both knew the truth. Those titles existed in name only.
 
 “You’re not answering.”
 
@@ -412,7 +412,7 @@ They both knew the truth. That title was nothing more than a hollow position.
 
 “So what is it? This important report of yours?”
 
-The Team Leader of Team 1 answered carefully.
+The Team 1 Leader answered cautiously.
 
 “You know Team Leader Jung Hyunwoo, right? The one in charge of Team 8.”
 
@@ -446,7 +446,7 @@ The face of the man who had smiled and tapped him on the shoulder came to mind.
 
 *I had a good time tonight.*
 
-It had been a sincere statement.
+He’d meant every word.
 
 That only made Park Jihoon even less willing to stop.
 
@@ -460,7 +460,7 @@ The crystal tumbler crumpled in his hand like a sheet of paper.
 
 That was all. A single passing remark over dinner with *that person*. The matter had been as good as settled from that moment on.
 
-“What? But this isn’t really the right time for something like that…”
+“What? B-But this isn’t the right time for something like that…”
 
 Park Jihoon’s cold voice cut off the Team Leader’s startled protest.
 
