@@ -1510,3 +1510,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 파랑호 | **Wave Fox** | Epithet of Do Ripgun. |
 | 동정호 | **Dongting Lake** | Lake under which Dangyang and Honghu Strongholds operated. |
 | 사천혈사 | **Sichuan Blood Tragedy** | Earlier incident in which Taekyung witnessed the strange formation. |
+| 칸 영화제 | **Cannes Film Festival** | Film festival referenced in Taekyung's joke about Mungyeong's acting. |
+| 사검 | **Snake Sword** | Crooked-bladed weapon resembling a snake. |
+| 외공 | **external arts** | Martial arts focused on extreme bodily training. |
+| 흑목조간 | **black-wood fishing rod** | The Dongting Fisherman's distinctive weapon; the broken rod is his only known trace. |
