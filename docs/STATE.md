@@ -1,15 +1,15 @@
 # Translation State
 
-- Last completed: 452
-- Next chapter: 453
-- Current block: 450–454 (3/5)
-- Latest translation: `translations/0452.md`
-- Latest summary: `summaries/beats/0452.md`
-- Safe profiles through: chapter 452
+- Last completed: 453
+- Next chapter: 454
+- Current block: 450–454 (4/5)
+- Latest translation: `translations/0453.md`
+- Latest summary: `summaries/beats/0453.md`
+- Safe profiles through: chapter 453
 
 ## Current Block
 
-- Taekyung's party escapes Tianling Falls and reaches Zaoyang, where they must continue by land toward the Zhuge Clan on Mount Longzhong. At the ferry landing they encounter Qingxia Hall, an influential social club formed by the children of powerful Hubei families, whose lavish procession scatters silver nyang among the commoners. While Taekyung condemns the spectacle, Gung Gibang and Hyuk Mujin rush to collect the money, and Cheongpung abandons the group to buy sweets, jeonbyeong, and dumplings, prompting Taekyung's furious outburst.
+- Taekyung stops Hyuk Mujin, Gung Gibang, and Cheongpung from picking up scattered silver and prepares to punish them, but a Qingxia Hall entourage interrupts. Taekyung disarms and defeats their sparrow-eyed martial artist, overwhelms four Peak guards, and orders the entourage to leave their sedan chairs. The group submits one by one until their leader, Ju Wongong, claims distant kinship with the Emperor and demands that Taekyung kneel; Taekyung mocks him as a Celestial Dragon and orders him down.
 
 ## Open Questions
 
@@ -25,7 +25,7 @@
 - Render 살귀 as killer demon and 일급 낭인 as First Rate wandering martial artist.
 - Render 시부럴 as “sibu-leol,” 시벌좌 as “Lord Fuck,” and 시부럴좌 as “Lord Sibu-leol.”
 - Preserve the Skeleton King's grandiose, mock-offended voice and Taekyung's dry, profane humor.
-- Keep Peace Guild, guild house, Inventory, Magic Johnson, established martial-arts terminology, black magic, poison human, World Hunter Association, Wizard Guild, Sea Serpent Society, Red Cliffs, and Dongting Fisherman unchanged; render 현공진인 as “Perfected Being Hyeongong,” 화왕질리언 as “Fire King Zilean,” 청협방 as “Qingxia Hall,” and 조양 as “Zaoyang.”
+- Render 주원공 as Ju Wongong, 대죽산표국 as Daejuksan Escort Bureau, 형문검가 as Hyungmun Sword Family, 응성상회 as Eungseong Merchant Association, 천룡인 as Celestial Dragon, and 사인교 as four-person sedan chair.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Jeonbyeong! Please give me the jeonbyeong quickly! Benefactor is angry!”\n\nThat sibu-leol bastard. Look at him making sure to grab the jeonbyeong even now.\n\nI finished wrapping up the snacks, then spoke gently to Cheongpung as he came rushing toward me like a streak of light.",
+      "defect": "The draft makes Taekyung wrap the snacks, but the source describes Cheongpung rushing over after having his snacks wrapped. It also leaves 전병 unexplained despite having no established ledger rendering.",
+      "id": "F01",
+      "rationale": "The participial phrase 군것질거리를 포장한 뒤 빛살처럼 달려오는 modifies 청풍, not the narrator. Rendering 전병 naturally as pancakes also avoids an unexplained romanization.",
+      "replacement": "“Pancakes! Please give me the pancakes, quick! Benefactor is angry!”\n\nThat sibu-leol bastard. Look at him making sure to get his pancakes even now.\n\nOnce the snacks were wrapped, I spoke gently to Cheongpung as he came rushing toward me like a streak of light.",
+      "severity": "critical",
+      "source": "“전병! 전병 빨리 주세요! 은인 화났어요!”\n\n시벌 놈이. 그 와중에 전병 챙기는 것 봐라.\n\n나는 군것질거리를 포장한 뒤 빛살처럼 달려오는 청풍을 향해 부드럽게 말했다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“I don’t think the people over there have any intention of doing that.”",
+      "defect": "“Doing that” has no clear antecedent and can appear to mean kneeling and begging, even though Taekyung is observing that the young master and his companions do not look inclined to show mercy.",
+      "id": "F02",
+      "rationale": "The line follows the suggestion that the Young Master might show mercy, and Taekyung has just looked at the group watching him like zoo spectators. His next statement that he has no such intention either confirms mercy as the referent.",
+      "replacement": "“I don’t think the people over there have any intention of showing mercy.”",
+      "severity": "major",
+      "source": "“글쎄, 저쪽은 딱히 그럴 생각이 없어 보이는데?”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "And they never got back up.",
+      "defect": "The absolute wording suggests that the four men died or were permanently unable to rise, while the subsequent narration explicitly identifies them as unconscious.",
+      "id": "F03",
+      "rationale": "In context, 다시는 일어나지 못했다 means they did not rise again during the confrontation, not that they would literally never stand again.",
+      "replacement": "And they stayed down.",
+      "severity": "major",
+      "source": "그리고 다시는 일어나지 못했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Captain, I’m laughing so hard my stomach’s about to fall out. I can’t find where it rolled, so I’m still looking for it.”",
+      "defect": "The draft changes both the object and the completed action: Hyuk Mujin says his belly button has already popped off and then extends the idiom by looking for where it rolled, not that his stomach is merely about to fall out.",
+      "id": "F04",
+      "rationale": "배꼽 빠지다 is a laughter idiom involving the belly button, and the following sentence deliberately literalizes that image.",
+      "replacement": "“Captain, my belly button popped off from laughing. I can’t see where it rolled off to, so I’m still looking for it.”",
+      "severity": "major",
+      "source": "“조장님. 저는 지금 배꼽 빠졌습니다. 어디로 굴러갔는지 통 안 보여서 계속 찾고 있어요.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Eungseong or Eungga, I don’t care. If you don’t want to be beaten until you shit yourself, get down too.”",
+      "defect": "Romanizing 응가 as “Eungga” hides the childish “poop” wordplay that sets up the threat about defecating.",
+      "id": "F05",
+      "rationale": "응가 is a childish word for poop, deliberately substituted for part of the merchant association’s name.",
+      "replacement": "“Eungseong, Eung-poop, whatever. If you don’t want to be beaten until you shit yourself, get down too.”",
+      "severity": "minor",
+      "source": "“응성인지 응가인지. 똥 지릴 때까지 맞기 싫으면 너도 내려.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“I, Prince Juwon, am an honored descendant of the dragon’s blood, related to His Great Imperial Majesty by eight degrees! Kneel and apologize for your crimes even now!”",
+      "defect": "The draft turns the personal name 주원공 into the unsupported royal title “Prince Juwon,” obscures the stated kinship, and fails to use the established term “Emperor.” It also adds an apology absent from the command to kneel.",
+      "id": "F06",
+      "rationale": "주원공 is presented as the speaker’s name, not as a princely title. 팔촌 지간 denotes the Korean eighth-degree collateral relationship conventionally corresponding to third cousins, while 황상 폐하 refers to His Majesty the Emperor.",
+      "replacement": "“I, Ju Wongong, am a noble scion of the dragon’s blood and a third cousin of His Majesty the Emperor! If you know your crime, kneel even now!”",
+      "severity": "critical",
+      "source": "“나, 주원공은 위대하신 황상 폐하와 팔촌 지간으로 용의 핏줄을 타고난 존귀한 몸! 네 죄를 안다면 지금이라도 무릎을 꿇어라!”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Okay, Heavenly Dragon. Get down.”",
+      "defect": "천룡인 is the specific “Celestial Dragon” allusion from One Piece, not the established Murim term 천룡, “Heavenly Dragon.” The draft erases the joke and incorrectly associates the young noble with Taekyung’s martial ideal.",
+      "id": "F07",
+      "rationale": "The suffix 인 makes 천룡인 a distinct term, and Taekyung is mocking the man’s boast about noble blood and imperial privilege through the modern cultural reference.",
+      "replacement": "“Okay, Celestial Dragon.[^1] Get down.”\n\n[^1]: The privileged world nobles in *One Piece*, infamous for treating ordinary people as beneath them.",
+      "severity": "major",
+      "source": "“오케이, 천룡인. 내려.”"
+    }
+  ],
+  "summary": "The draft contains one reversed action subject, an invented noble title, an obscured mercy reference, two lost jokes, an overstated combat consequence, and a mistranslated cultural allusion.",
+  "version": 1
+}
