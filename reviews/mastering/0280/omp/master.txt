@@ -6,9 +6,9 @@
 
 The voice on the other end cut off mid-sentence.
 
-I couldn’t see him, but his confusion and agitation at that moment came through clearly enough.
+I couldn’t see him, but his confusion and agitation came through clearly enough.
 
-“What’s the matter? If someone calls you, you should answer.”
+“What’s the matter? When someone calls your name, you answer.”
 
 After a moment, he replied.
 
@@ -22,15 +22,15 @@ But my head was as cold as if I’d been doused with ice water.
 
 Maybe some part of me had already seen this coming.
 
-*I kept thinking, surely not. Surely not.*
+*I kept telling myself it couldn’t be him.*
 
 But the number twenty-eight falling from his lips had been enough to turn a faint suspicion into certainty.
 
-What I wanted to know was whose orders they were acting on—and how deeply he was involved.
+The only questions left were whose orders he’d acted on and how deeply he was involved.
 
 “Did you send those bastards?”
 
-A low, smooth baritone answered.
+A smooth, low voice answered.
 
 — Who knows? If that’s what happened, then I suppose I did.
 
@@ -56,7 +56,7 @@ The Team 1 Leader, still struggling with his neck trapped in my grip, turned blu
 
 “Did you think about how you were going to clean up after taking that dump?”
 
-— It’s unexpected that things turned out this way…but do you really think I’d have done my business without considering the cleanup?
+— I didn’t expect things to turn out this way…but do you really think I’d take a shit without thinking about the cleanup?
 
 “Yeah. That’s exactly what it looks like.”
 
@@ -98,7 +98,7 @@ The thought that they were holding Park Jihoon back made the corners of my mouth
 
 “You people started this. I’ll decide where it ends.”
 
-On the other end of the phone, Park Jihoon’s breathing grew ragged.
+On the other end of the phone, Park Jihoon’s breathing faltered.
 
 — Well, this is something. I knew you were stupid, but you’re even worse than I thought.
 
@@ -110,7 +110,7 @@ Ding.
 
 — Nineteenth floor.
 
-With the mechanical announcement, the tightly closed elevator doors slowly slid open.
+The elevator doors slid open with the mechanical announcement.
 
 A broad hallway with a high ceiling came into view. Dozens of people moved through it.
 
@@ -122,7 +122,7 @@ Several naturally glanced in our direction. A moment later, their mouths dropped
 
 Instead of answering, I hurled the Team 1 Leader at them. A Hunter approaching with an accusing finger outstretched went crashing into the wall along with him.
 
-At the same time, an employee sitting at the desk screamed and pressed the emergency button.
+At the same time, an employee behind the reception desk screamed and slammed the emergency button.
 
 WEEEEEE!
 
@@ -136,7 +136,7 @@ Amid the piercing alarm, Park Jihoon’s final words reached my ears.
 
 Beep. Beep. Beep…
 
-I shoved the Team 1 Leader’s phone, now disconnected, into my inner pocket.
+I shoved the Team 1 Leader’s phone into my inner pocket.
 
 When my hand emerged again, it held two daggers instead.
 
@@ -154,19 +154,19 @@ The elevator was behind me. The only other person there stood frozen like a plas
 
 “This is a dream. It has to be.”
 
-I glanced at him, half out of his mind, and asked,
+I glanced at the half-delirious man.
 
-“What phone do you use?”
+“What kind of phone do you use?”
 
 “Gasp!”
 
 “Your phone. What kind?”
 
-“I-I use an AdultPhone 25.”
+“An A-AdultPhone 25.”
 
-“Ah. The apple you bit into and spat out.”
+“Ah. The one with the bitten apple.”
 
-“Y-Yes, yes. That’s right.”
+“Y-Yes. That’s right.”
 
 “Take it out and start recording.”
 
@@ -186,7 +186,7 @@ Just then, the fallen Team 1 Leader sprang to his feet and roared.
 
 “What are you waiting for, you bastards? Beat the shit out of him!”
 
-“Team Leader, isn’t that Hunter Jin Taekyung? What is going on all of a sudden…?”
+“Team Leader, isn’t that Hunter Jin Taekyung? Why is this suddenly…?”
 
 “I’ll take responsibility.”
 
@@ -194,21 +194,21 @@ In any Guild, Team 1 was both its symbol and its elite force.
 
 For Myeongdong Guild, consistently ranked among Korea’s top ten, that went without saying. Its Team 1 members were consummate professionals—living combat machines.
 
-“This is an order from above. Don’t think of him as a person. Think of him as a monster and fight.”
+“This order came from above. Don’t think of him as a human being. Treat him like a monster.”
 
-The moment their Team Leader gave them a firm order, dozens of gazes sank into cold focus.
+The moment their Team Leader issued that unequivocal command, dozens of pairs of eyes turned cold.
 
 Five tower shields at the front slammed into the marble floor in perfect unison.
 
 Boom!
 
-“Formation—!”
+“Formation!”
 
-In the middle of their peaceful daily lives, the downtown building became a battlefield.
+In the middle of an ordinary, peaceful day, a downtown office building became a battlefield.
 
 * * *
 
-*What am I looking at?*
+*What the hell am I looking at?*
 
 Lee Minsu, a C-rank Hunter assigned to Myeongdong Guild’s Security Team, blinked.
 
@@ -216,11 +216,11 @@ The scene unfolding before him was simply too unreal.
 
 Krrr-crack! Boom!
 
-A tower shield as sturdy as an armored vehicle shattered, and a massive tank flew far away as if it had been struck by a giant’s hammer.
+Tower shields said to be as sturdy as armored vehicles shattered, and massive tanks went flying as if struck by a giant’s hammer.
 
 For the briefest instant, a gap opened—barely wide enough for one person.
 
-A pale figure slipped through it.
+A pale blur slipped through it.
 
 And then—
 
@@ -228,25 +228,25 @@ Shriiiik! Slash! Slash!
 
 “Gaaah!”
 
-“Gasp!”
+“Ghk!”
 
 The shield wall collapsed in a flash of light.
 
 The tanks pitched forward in an undignified heap, the tendons in their calves cleanly severed.
 
-*How did he…?*
+*How the hell…?*
 
 He couldn’t even see the strikes properly.
 
 Blink once, and two people fell. Blink twice, and three or four went down.
 
-Every time the young man in the gray hoodie, Jin Taekyung, took a step, blood spurted and screams overflowed.
+With every step the young man in the gray hoodie took, blood sprayed and screams filled the air.
 
 “S-Stop him!”
 
-“Damage dealer!”
+“Damage dealers!”
 
-The front line where the tanks had been holding had already collapsed the moment the battle began. Five blades swung powerfully toward Jin Taekyung as he advanced one step at a time.
+The front line held by the tanks had collapsed the instant the battle began. Five blades swung powerfully at Jin Taekyung as he advanced one step at a time.
 
 Whoosh-whoosh-whoosh-whoosh-whoosh!
 
@@ -256,7 +256,7 @@ Three attacks targeted his upper body, while two went for his lower body. There 
 
 “We got him!”
 
-At the instant someone cried out in delight, the daggers in Jin Taekyung’s hands blurred like mist.
+The instant someone shouted in triumph, the daggers in Jin Taekyung’s hands blurred like mist.
 
 Clang-clang-clang-clang-clang!
 
@@ -276,29 +276,29 @@ Slash!
 
 A single line swept horizontally through the air.
 
-An attack that could neither be seen nor avoided.
+An attack too fast to see or evade.
 
 Directly in its path stood the five Hunters who had just attacked him.
 
 Fwoosh!
 
-As the Hunters fell, spraying fountains of blood from their chests, a streak of light pierced between them.
+They collapsed with blood spraying from their chests, and a streak of light shot between them.
 
 Whooosh! Thunk!
 
-The arrowhead stopped just short of Jin Taekyung’s chest.
+An arrowhead stopped just short of Jin Taekyung’s chest.
 
 An A-rank Hunter had fired it with perfect accuracy, mana coursing through the shaft.
 
-But what stopped it was neither a shield coated in various magics nor a sharp weapon.
+But what stopped it was neither a shield reinforced with layers of magic nor a sharp weapon.
 
 Crack.
 
 Jin Taekyung snapped the arrow shaft between two fingers and flicked his hand.
 
-With a terrifying whistle, the arrow shot back along its original path, shattered three defensive spells, and buried itself in its owner’s shoulders.
+The broken pieces screamed back along the path they had come, shattered three defensive spells, and buried themselves in their owner’s shoulders.
 
-Thud!
+Thud! Thud!
 
 “Ghk!”
 
@@ -310,7 +310,7 @@ Thud!
 
 He had been holding back?
 
-The Hunters of Team 1 felt as if they had been possessed by ghosts. It was hard enough to believe that he had rendered more than a dozen people unable to fight in the time it took to drink a glass of cold water.
+The members of Team 1 could hardly believe their eyes. It was already absurd that he had incapacitated more than a dozen people in the time it took to drink a glass of cold water.
 
 And he had been holding back while doing it?
 
@@ -324,9 +324,9 @@ They were Myeongdong Guild’s elite, battle-hardened veteran Hunters. Even the 
 
 They had earned their positions through skills far surpassing those of other Hunters at the same rank, and they had taken immense pride in that fact.
 
-At least, they had—until they faced Jin Taekyung here today.
+At least, they had until the day they faced Jin Taekyung.
 
-“Please move aside while I’m still speaking politely, Seniors. I’d really like to smash every one of your faces in, but you don’t seem to be directly involved, so this is all I’m doing.”
+“Please move aside while I’m still asking politely, Seniors. I’d love to smash every last one of your faces in…but you don’t seem to be directly involved, so I’m stopping here.”
 
 Loose track pants and a gray hoodie. He looked as if he had stepped out to visit the café down the street.
 
@@ -354,7 +354,7 @@ That was when—
 
 Whoosh!
 
-A hand wreathed in flame came crashing down on Jin Taekyung amid fierce heat.
+A hand wreathed in flame swept toward Jin Taekyung in a blast of searing heat.
 
 The fire spell could melt solid rock, but the enormous hand of mana vanished without a trace the instant it struck Jin Taekyung’s palm.
 
@@ -366,7 +366,7 @@ The Team 1 Leader’s eyes widened at the sight of his palm engulfed in blue fla
 
 Jin Taekyung stared at him and ran his tongue over his dry lips.
 
-He looked like a predator that had just discovered prey it had forgotten about.
+He looked like a predator that had just rediscovered forgotten prey.
 
 “Ah. You’re the one exception to what I said earlier.”
 
@@ -382,7 +382,7 @@ But the Team 1 Leader was an exceptional battle mage in his own right, accomplis
 
 It was a teleportation spell that allowed him to move anywhere within ten meters, provided he could see the destination.
 
-*If I move behind him and unleash my attack spells all at once, even someone as skilled as him…*
+*If I get behind him and unleash all my attack spells at once, then no matter how strong he is…*
 
 The Team 1 Leader used Blink to move behind Jin Taekyung.
 
@@ -408,11 +408,11 @@ The Team 1 Leader’s body trembled as though he had been struck by lightning.
 
 *His movement was faster than my Blink.*
 
-What kind of monster was he?
+What the hell was this man?
 
 And what kind of monster had Park Jihoon—and Myeongdong Guild—provoked?
 
-With a trembling voice, the Team 1 Leader recited the final spell he had prepared.
+With a trembling voice, the Team 1 Leader cast the final spell he had prepared.
 
 “P-Poison.”
 
@@ -428,7 +428,7 @@ His handsome brow furrowed.
 
 That was his entire reaction to the Poison spell.
 
-Having reached Peak and attained the realm of Unaffected by a Hundred Poisons, Jin Taekyung blew on the frozen Team 1 Leader.
+After reaching Peak, Jin Taekyung had become Unaffected by a Hundred Poisons. He blew the fog toward the frozen Team 1 Leader.
 
 “Hoo.”
 
