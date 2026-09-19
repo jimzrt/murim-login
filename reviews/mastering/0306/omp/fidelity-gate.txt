@@ -1,0 +1,45 @@
+{
+  "summary": "Chapter 306 is faithful to the Korean source with minor terminology and footnote issues.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "throughout",
+      "current": "The term 'Status' is absent for '상태' in some uses, replaced by 'condition' or similar.",
+      "defect": "Terminology 'Status' is preferred and mandated by glossary rules but was not used consistently.",
+      "replacement": "Use 'Status' for all instances of '상태' as per glossary, e.g., 'Great Hero Jeok's Status' instead of 'condition'.",
+      "rationale": "Glossary requires consistent use of preferred terms for clarity and continuity.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "line 132 (from Korean perspective)",
+      "current": "‘Great Hero Jeok’s condition’",
+      "defect": "The term 'Great Hero' (대협) is a glossary-critical term for tone and was not rendered; 'condition' replaces 'Status'.",
+      "replacement": "Restore 'Great Hero Jeok’s Status' for fidelity to terminology and tone.",
+      "rationale": "'Great Hero' is the established tone and terminology for '대협' in the source and glossary.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "line 158-160 (Taekyung's muttered insult to Hyuk Mujin)",
+      "current": "‘Tokyo Hot’ with footnote for the adult studio",
+      "defect": "First use of 'hwabyeong' (화병) is romanized without first-use footnote; glossary mandates footnote on first appearance.",
+      "replacement": "Add a concise footnote to ‘hwabyeong’ explaining literal meaning and pun as per glossary.",
+      "rationale": "'Hwabyeong' is a culturally specific term and pun requiring a footnote to aid international reader understanding.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "general references to 'profit split' in line 221",
+      "current": "‘The profit split is nine to one. No exceptions.’",
+      "defect": "The name 'Jintae' (진태) was not referenced or footnoted here; however, it's a glossary term and might be influential in this context.",
+      "replacement": "Consider whether 'Jintae' as a distinct term is warranted here or if the current usage is acceptable given context (possibly no action).",
+      "rationale": "Glossary flags 'Jintae' literal usage, though this line uses 'Jin Taekyung' in full elsewhere, no direct conflict found here.",
+      "confidence": 0.7
+    }
+  ]
+}

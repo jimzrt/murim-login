@@ -40,7 +40,7 @@ Resigning himself to that, Choi Minwoo accepted the glass the flight attendant p
 
 “…”
 
-“Heh. I didn’t expect it, but they actually had soju. First Dew tastes best on the rocks.”
+“I thought it might be, and sure enough, they had soju. First Dew tastes best on the rocks.”
 
 Jin Taekyung dropped onto one of the cabin sofas and downed glass after glass. Appalled by the way he kept knocking them back, Choi Minwoo asked, “Are you possessed by the ghost of someone who died of thirst?”
 
@@ -66,7 +66,7 @@ One hundred million people lived across an area twice the size of the Korean Pen
 
 Chengdu was the administrative capital of Sichuan Province. If Chengdu fell, it would be as good as losing the entire province.
 
-Jin Taekyung waved a hand after listening to Choi Minwoo.
+Jin Taekyung waved a hand.
 
 “Come on. You can’t rule something out just because it’s unlikely. If we could do that, Monster Waves wouldn’t happen in the first place.”
 
@@ -112,7 +112,7 @@ Choi Minwoo glanced at the flight attendants and lowered his voice.
 
 “Because of the Lich.”
 
-“Even if they’re both Named Monsters, they’re in completely different classes. And the Lich is a high-ranking undead monster, too.”
+“Even if they’re both Named Monsters, they’re in completely different classes. The Lich is a higher undead monster too.”
 
 If the Lich was a big shot, the Skeleton Warlord was a nobody. Becoming a Named Monster did not change the vast difference in their origins.
 
@@ -130,7 +130,7 @@ Choi Minwoo’s expression grew serious.
 
 “No. I mean the way things are going in the world.”
 
-“Oh, the atmosphere. Same here. I want to live peacefully, but all these pieces of shit keep raising hell from every direction… Ah, I wasn’t talking about you, so shut up.”
+“Oh, that. I feel the same way. I just want to live in peace, but every piece of shit in the world keeps raising hell… Ah, I wasn’t talking about you. Now shut up.”
 
 A headache struck Choi Minwoo without warning. He rubbed the space between his brows.
 
@@ -148,7 +148,7 @@ Choi Minwoo handed him a tablet. Across its screen, in large, bold letters, were
 
 “They haven’t made an official announcement, but the matter is already considered settled. Mana density has been rising rapidly inside a considerable number of Gates.”
 
-“That’s the real cause of the recent spate of Gate accidents?”
+“And that’s the real cause of the recent Gate accidents?”
 
 “Yes.”
 
@@ -158,19 +158,19 @@ And above all…
 
 “I’ve got the proof right here.”
 
-At Jin Taekyung’s words, Choi Minwoo nodded.
+Choi Minwoo nodded.
 
 The Skeleton Warlord. According to what Taekyung had told him a few days earlier, the Named Monster had *evolved*.
 
 The change had been so sudden that even the Warlord himself did not know why it had happened.
 
-“The Lich that appeared this time may have experienced the same growth in power.”
+“The Lich may have undergone the same kind of growth.”
 
-“I expected something like that to some extent. But…”
+“I figured as much. But…”
 
 Jin Taekyung swept back his long hair.
 
-“This is going to be fucking brutal.”
+“This is going to be even more fucking brutal than I thought.”
 
 “That’s why we need adequate countermeasures. According to some of the information I obtained regarding this incident…”
 
@@ -192,11 +192,11 @@ Jin Taekyung’s answer only left Choi Minwoo more baffled.
 
 “Sleep? At a time like this?”
 
-“I haven’t been able to sleep at all lately.”
+“I haven’t been sleeping much lately.”
 
 “W-wait a moment.”
 
-“Don’t wake me under any circumstances. This is the answer for now.”
+“Do not wake me up. This is the only answer right now.”
 
 What kind of person was this?
 
@@ -229,7 +229,7 @@ Above me was the wholly unfamiliar ceiling of a Murim Alliance pavilion.
 
 *I’m back.*
 
-A full month had passed since I left. In the Murim, not even two shichen would have passed.
+My first return in a full month. Of course, not even two shichen had passed in Murim.
 
 I turned my head to the right and saw a small old man fast asleep.
 
@@ -285,11 +285,11 @@ Fine. This was all my fault for trusting him.
 
 “Then nothing unusual happened while you were awake?”
 
-“Yes. Until two shichen ago, I kept watch so thoroughly that I wouldn’t have let even a single ant get inside.”
+“No, sir. Until two shichen ago, I kept watch so thoroughly that I wouldn’t have let a single ant through.”
 
 I thought about that for a moment.
 
-“If it was two shichen ago, wasn’t that when I had just fallen asleep?”
+“Wasn’t two shichen ago when I first fell asleep?”
 
 “Well, now that you mention it… But I really wasn’t asleep for long.”
 
@@ -297,7 +297,7 @@ I thought about that for a moment.
 
 “Yes, yes.”
 
-“Our Mujin followed me into my dreams to protect me, huh?”
+“Our Mujin followed me all the way into his dreams to guard me, huh?”
 
 Hyuk Mujin nodded furiously.
 
@@ -307,7 +307,7 @@ Hyuk Mujin nodded furiously.
 
 I chuckled and picked up the flower vase beside the bed.
 
-“Then why did you make such strange moaning sounds while guarding me in my dream?”
+“Then why were you making such suggestive moans while guarding me in your dreams?”
 
 “Gasp.”
 
@@ -323,7 +323,7 @@ I raised the flower vase high, and Hyuk Mujin cautiously backed away.
 
 “I’ve let you off five hundred times already.”
 
-“Then since you’ve let me off five hundred times, just one more time…”
+“Then, since you’ve already done it five hundred times, couldn’t you let me off just once more…?”
 
 “Hold still.”
 
