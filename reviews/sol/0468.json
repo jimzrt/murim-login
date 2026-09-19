@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Keep rowing! Put your backs into it and row!”",
+      "defect": "The standard expression “put your backs into it” removes the deliberately crude reference to their butts and weakens the comic command.",
+      "id": "F01",
+      "rationale": "궁둥짝 explicitly means the buttocks and supplies the line’s coarse humor.",
+      "replacement": "“Keep rowing! Put your asses into it and row!”",
+      "severity": "minor",
+      "source": "“계속 저어! 궁둥짝에 힘 빡 주고 저으란 말이다!”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“It’s a shame. If your discernment and martial talent had been even half as good as your skill with ships, you might have taken your Senior Brother’s place.”",
+      "defect": "“Discernment” mistranslates 독심, which refers to Mu Song’s fierce tenacity or grit, not his judgment.",
+      "id": "F02",
+      "rationale": "The Seafaring King is evaluating Mu Song’s temperament and martial aptitude; 독심 denotes hard, tenacious resolve in this context.",
+      "replacement": "“It’s a shame. If your grit and martial talent had been even half as good as your skill with ships, you might have taken your Senior Brother’s place.”",
+      "severity": "major",
+      "source": "‘아쉽구나. 네놈의 독심과 무재(武才)가 배 다루는 솜씨의 절반만 되었더라면 네 사형을 대신할 수 있었을 터인데.’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "They had borrowed a small merchant vessel instead and set out for the place where Jin Taekyung’s group was said to have gone.\n\nNo, they had tried to set out.",
+      "defect": "The correction changes the action from trying and failing to advance toward the destination into trying and failing to set out at all, contradicting their ongoing voyage across the lake.",
+      "id": "F03",
+      "rationale": "나아가려 했다 corrects 나아갔다: they successfully launched but could not continue advancing toward the destination.",
+      "replacement": "They had borrowed a small merchant vessel instead and headed for the place where Jin Taekyung’s group was said to have gone.\n\nOr rather, they had tried to.",
+      "severity": "critical",
+      "source": "자그마한 상선(商船) 한 척을 빌려 진태경 일행이 향했다는 곳으로 나아갔다.\n\n아니, 나아가려 했다."
+    },
+    {
+      "confidence": 0.88,
+      "current": "It was impossibly tall, and as it approached the merchant vessel with its narrow column blocking the way",
+      "defect": "The draft makes the waterspout’s column narrow, while the source says the towering waterspout blocks the narrow waterway.",
+      "id": "F04",
+      "rationale": "좁은 폭 is the confined passage the waterspout obstructs, not a description of the waterspout’s column.",
+      "replacement": "It towered to a dizzying height, blocking the narrow waterway as it advanced toward the merchant vessel",
+      "severity": "minor",
+      "source": "까마득한 높이의 그것이 좁은 폭을 틀어막은 채 상선을 향해 다가오자"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Even Bodhidharma of Shaolin used a reed leaf to cross a river.",
+      "defect": "The established monastic title 대사 is omitted.",
+      "id": "F05",
+      "rationale": "대사 is an honorific for a senior Buddhist monk and is established here as “Master.”",
+      "replacement": "Even Master Bodhidharma of Shaolin used a reed leaf to cross a river.",
+      "severity": "minor",
+      "source": "소림의 달마대사도 강을 건너기 위해서 갈대잎을 사용했지."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Mungyeong deliberately furrowed his brow.",
+      "defect": "“Deliberately” does not clearly preserve 짐짓, which indicates that Mungyeong is putting on or feigning the expression.",
+      "id": "F06",
+      "rationale": "짐짓 marks the frown as affected rather than merely intentional, a small but explicit characterization cue.",
+      "replacement": "Mungyeong made a show of frowning.",
+      "severity": "minor",
+      "source": "문경은 짐짓 눈살을 찌푸렸다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "If I had prioritized martial arts, I would have brought Hyeongong of Wudang instead.",
+      "defect": "The draft omits Mungyeong’s pointed description of the venerable Hyeongong as a youngster, even though that display of extreme seniority directly causes the onlookers’ shock in the following paragraph.",
+      "id": "F07",
+      "rationale": "그 아이 literally treats Hyeongong as a child; preserving that hierarchy is necessary to support the immediate reaction.",
+      "replacement": "If I had prioritized martial arts, I would have brought that youngster Hyeongong of Wudang instead.",
+      "severity": "major",
+      "source": "무공을 우선시했다면 차라리 무당파의 현공(玄空), 그 아이를 데려왔겠지."
+    },
+    {
+      "confidence": 0.97,
+      "current": "A movement technique both stealthy and peerless.",
+      "defect": "“Peerless” means unrivaled and does not convey 표횰, which describes the technique as elusive and difficult to track.",
+      "id": "F08",
+      "rationale": "표횰 characterizes the movement’s evasive, ungraspable quality rather than ranking it against other techniques.",
+      "replacement": "A movement technique both stealthy and impossibly elusive.",
+      "severity": "minor",
+      "source": "은밀하면서도 더할 나위 없이 표횰한 신법."
+    },
+    {
+      "confidence": 1.0,
+      "current": "> **System**\n>\n> **Lv. ??? Mutated Water God Dragon**",
+      "defect": "The entire System notice is bolded, contrary to the required panel format, which reserves bold for meaningful labels or internal emphasis.",
+      "id": "F09",
+      "rationale": "The source presents a single ordinary System line, not a bold label or emphasized field.",
+      "replacement": "> **System**\n>\n> Lv. ??? Mutated Water God Dragon",
+      "severity": "minor",
+      "source": "[Lv.??? 변이된 수신룡(水神龍)]"
+    }
+  ],
+  "summary": "One critical action error, two major characterization and hierarchy losses, and six localized humor, imagery, terminology, voice, and formatting defects.",
+  "version": 1
+}
