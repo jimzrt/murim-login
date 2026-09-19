@@ -2,7 +2,7 @@
 
 Time flew.
 
-One issue followed another, each bigger than the last, while new truths and suspicions continued surfacing everywhere.
+One controversy followed another, each bigger than the last, while new truths and suspicions surfaced everywhere.
 
 A week passed in the blink of an eye. Then a new article took over the portal sites.
 
@@ -24,7 +24,7 @@ Most people were envious or impressed, but some viewed the news less kindly.
 
 **Top Comment:** Jin Taekyung stirred up all kinds of trouble, refused to give a single interview, then sold the monster behind everyone’s backs. Am I the only one bothered by this?
 
-└ Personally, I really don’t like him. Killing Won Myunghoon on his own authority was excessive force, if you look at it one way. But the prosecutors’ office only questioned him as a witness and then quietly let the matter fade away. It feels like they’re giving him special treatment because he’s famous.
+└ Personally, I really don’t like him. Killing Won Myunghoon however he pleased could be considered excessive force, but the prosecutors’ office just questioned him as a witness and quietly let the matter drop. Feels like he’s getting special treatment because he’s famous.
 
 └ Same. Upvoted.
 
@@ -44,9 +44,9 @@ Not long after the article went up, a bloody battle broke out among the netizens
 
 └ Jin Taekyung… Well, look at this rotten son of a—… As a public figure… what a wicked man, filling only his own pockets… Never forget that the entire nation is watching @~!
 
-└ “Self-interest,” lol. The only interest here is the deposits building up in your parents’ bodies; what’s coming out of my mouth is pure profanity.
+└ “Filling his own pockets,” lol. The only things filling up are the deposits in your parents’ bodies. What’s coming out of my mouth is profanity.
 
-└ What are you talking about, public figure? He was a hyung who was wearing sweatpants and boiling ramen in the corner of his room until a month ago. And that way of talking is disgusting.
+└ What do you mean, public figure? Until a month ago, the guy was wearing sweatpants and cooking ramen in his room. And that way of talking is disgusting.
 
 └ You young whippersnappers… Such sharp tongues you have~!!!
 
@@ -56,7 +56,7 @@ Not long after the article went up, a bloody battle broke out among the netizens
 
 └ Banned from the senior center for three months.
 
-Even as people everywhere had their dentures and hearing aids confiscated and were banned from the senior center, the fighting didn’t stop.
+Even as people everywhere lost their dentures, hearing aids, and senior-center privileges, the fighting didn’t stop.
 
 Despite the fierce backlash, Jin Taekyung’s critics stubbornly continued making their case.
 
@@ -86,7 +86,7 @@ As the two sides traded barbed comments and snarled at each other, another artic
 
 [HunterTV Exclusive] Jin Taekyung Donates Hundreds of Billions to Gate Victims and Establishes Support Foundation
 
-Hunter Jin Taekyung has drawn attention by donating hundreds of billions of won and establishing a support foundation for Gate victims under the name of the Peace Guild.
+Hunter Jin Taekyung has drawn widespread attention by donating hundreds of billions of won and establishing a support foundation for Gate victims under the name of the Peace Guild.
 
 The necessary procedures had been set in motion even before the Christie’s auction began…
 
@@ -110,7 +110,7 @@ But seriously;;; What the hell is with him giving away hundreds of billions? Hon
 
 └ What does P3C mean?
 
-└ Please have a three-centimeter dick.
+└ Please, three-centimeter cock.
 
 └ Oh.
 
@@ -126,7 +126,7 @@ His image as an unassuming hero and a truly big-hearted man was now firmly cemen
 
 “Team Leader Choi.”
 
-I cut off Team Leader Choi’s voice over the phone in a trembling voice.
+My voice trembled as I cut him off over the phone.
 
 “That’s enough. Please don’t say any more.”
 
@@ -134,7 +134,7 @@ I cut off Team Leader Choi’s voice over the phone in a trembling voice.
 
 “No. Absolutely not!”
 
-—Then why are you acting like this?
+—Then what’s the problem?
 
 “It still hurts.”
 
@@ -158,13 +158,13 @@ To be exact, after every fee had been deducted, it came to roughly 530 billion w
 
 The unit wasn’t hundreds or thousands. It was *eok*—hundreds of millions.[^3]
 
-It was literally an *eok*-inducing sum, and I nearly cried out myself.
+It was literally an *eok*-inducing sum, and I nearly let out the sound myself.
 
 [^3]: *Eok* is both the Korean unit for one hundred million and an exclamation of shock.
 
 *How much money was this, exactly?*
 
-It was an astronomical amount—enough to change my life, no, enough to let me and my descendants live in luxury for generations.
+It was an astronomical amount—enough to change my life. No, enough for my descendants to live in luxury for generations.
 
 But I had already decided where the money should go and how it could be used in the most proper and worthwhile way.
 
@@ -176,7 +176,7 @@ But I had already decided where the money should go and how it could be used in 
 
 The families of the teammates whose lives had stopped on that day three years ago would be the foundation’s first recipients.
 
-The money couldn’t fill the empty spaces left by their lost family members, but it could help them pursue their dreams without having to worry about anything.
+The money could never fill the void left by their loved ones, but perhaps it could help them pursue their dreams without lacking anything.
 
 —Next are the veterans of the Great Cataclysm and single-parent families. Is that correct?
 
@@ -186,7 +186,7 @@ After exchanging a few more words, I ended the call.
 
 When I left the room, I found Mom and Hayeon sitting at the kitchen table eating fruit.
 
-The moment I approached, a fork with a piece of apple speared on it suddenly appeared in front of me.
+The moment I approached, a fork with a piece of apple speared on it appeared in front of me.
 
 “Son, have some apple. It’s sweet.”
 
@@ -196,13 +196,13 @@ Crunch.
 
 The sweet flesh broke apart in my mouth. I quietly ate the fruit while listening to the two of them talk.
 
-Friends, studying, someone who lived nearby, dramas…
+Friends, school, someone from the neighborhood, dramas…
 
 Sometimes I laughed quietly. Other times I nodded along.
 
 Then, without warning, I spoke.
 
-“Everyone’s okay, right?”
+“Everyone’s okay with this, right?”
 
 “Hm? What do you mean, son?”
 
@@ -234,7 +234,7 @@ Hayeon grumbled, folded her arms, and leaned back in her chair.
 
 She was my one and only little sister, eight years younger than me. Normally, I would have flicked her forehead for the fun of it, but somehow, today wasn’t the time.
 
-Hayeon looked at me and let out a deep sigh.
+Hayeon stared at me and let out a deep sigh.
 
 “Oppa.”
 
@@ -242,7 +242,7 @@ Hayeon looked at me and let out a deep sigh.
 
 “What does Mom say more than anything else?”
 
-I wondered. What was it?
+What was it?
 
 I didn’t have to think long. I heard it whenever I came home—or at least once every few days over the phone.
 
@@ -250,7 +250,7 @@ I didn’t have to think long. I heard it whenever I came home—or at least onc
 
 “Right. You know it well.”
 
-She poked the apple and held the fork out to me.
+She stabbed another piece of apple and held out the fork.
 
 “Eat. Eat, and be careful.”
 
@@ -260,7 +260,7 @@ She poked the apple and held the fork out to me.
 
 I mechanically chewed the apple she had put in my mouth.
 
-I mechanically chewed the apple in my mouth. It was sweet, and it stung like fire—enough to make the tip of my nose tingle.
+It was sweet, and it burned—enough to make the tip of my nose sting.
 
 *When did she grow up so much?*
 
@@ -298,11 +298,11 @@ She had inherited all of Mom’s best qualities. Even her eyes curved into the s
 
 “Yeah. I wondered what I’d want first if my son became successful and offered me a present, but that was the only thing I could think of.”
 
-I laughed along with Mom.
+I smiled along with Mom.
 
 My heart felt lighter, as though I had finally set down a heavy burden I had carried for a long time.
 
-“Then let’s go look at one together tomorrow. We can look at furniture while we’re at it.”
+“Then let’s go look at them tomorrow. We can shop for furniture while we’re at it.”
 
 “Furniture?”
 
@@ -322,7 +322,7 @@ Realizing the time had finally come, I rose from my seat.
 
 “Son, there’s still plenty of fruit left.”
 
-I smiled broadly at the two disappointed faces and answered,
+I gave the two disappointed women a broad smile.
 
 “It’s okay. I think I’ll take a nap.”
 
@@ -368,7 +368,7 @@ Though a smile tugged at the corner of his mouth, his voice was gruff.
 
 He was right. That was how a martial artist should behave—and how a Disciple should treat his master’s words as golden law.
 
-The old man couldn’t hold back any longer and let out a hearty laugh. When he waved his gaunt hand, a gentle blast of heat swept through the pavilion and flung open the door.
+Unable to contain himself any longer, the old man burst into hearty laughter. He waved one gaunt hand, and a gentle blast of heat swept through the pavilion, flinging open the doors.
 
 Jin Taekyung stood outside, wearing an easy, open smile.
 
