@@ -20,7 +20,7 @@ The words escaped me like a groan.
 
 That was right. As far as anyone knew, only Named Monsters were capable of speech.
 
-And that very Named Monster had just been born before my eyes.
+And now one had just been born before my eyes.
 
 No—not born.
 
@@ -98,7 +98,7 @@ The green ghost fire in its hollow eye sockets remained fixed on me.
 
 “That’s a Named Monster.”
 
-A sharp gasp rose from among the Guild members.
+Sharp gasps rose from among the Guild members.
 
 Most of them had been Hunters for less than two years. A person could spend twenty years in this field without ever encountering a Named Monster, and now they had to fight one. The tension was plain on their faces.
 
@@ -124,7 +124,7 @@ Perhaps sensing my gaze, Kim Jinsoo smiled faintly and added, “If the situatio
 
 I chuckled and shook my head.
 
-“You’re right. This is a fight we can take on.”
+“You’re right. This is a fight we can win.”
 
 “Oh.”
 
@@ -220,9 +220,9 @@ The effect was incredible!
 
 “Wow…”
 
-I activated Qi Sense and saw that every single one of them had gained five Levels.
+I activated Qi Sense and saw that every last one of them had gained five levels.
 
-The aura radiating from the Skeleton army of more than three hundred was on an entirely different level from before.
+The aura radiating from the army of more than three hundred Skeletons was incomparable to before.
 
 I glanced aside and found Kim Jinsoo staring blankly.
 
@@ -328,7 +328,7 @@ The Warlord’s Special Skill had filled their steps with power, and faint light
 
 —GRAAAAH!
 
-When one of the Skeleton Knights, serving as a deputy commander, let out a fierce cry, rusted arrows and attack magic rose from the rear and shot toward the Peace Guild members.
+At a fierce cry from one of the Skeleton Knights serving as deputy commanders, rusted arrows and attack magic rose from the rear and shot toward the Peace Guild members.
 
 Fwish-fwish-fwish! Whoooosh!
 
@@ -392,13 +392,13 @@ Kim Jinsoo hesitated until the very end, then disappeared beyond the Gate.
 
 Now only the hundreds of Skeletons packed tightly into the narrow path and I remained.
 
-- F. O. O. L. I. S. H.
+—Foolish.
 
 Clatter-clatter-clatter!
 
 The bones parted like the Red Sea, and the Skeleton Warlord emerged through the opening.
 
-- H. A. V. E. Y. O. U. R. E. S. I. G. N. E. D. Y. O. U. R. S. E. L. F. T. O. D. I. E, H. U. M. A. N?
+—Are. You. Prepared. To. Die. Human?
 
 But I wasn’t listening.
 
@@ -418,7 +418,7 @@ About 0.2 centimeters?
 
 The purple ghost fire in the Warlord’s eye sockets flickered uneasily.
 
-- W. H. A. T. I. N. T. H. E. W. O. R. L. D. A. R. E. Y. O. U. P. L. O. T. T. I. N. G?
+—What. In. The. World. Are. You. Plotting?
 
 “Nothing much.”
 
@@ -426,11 +426,11 @@ I smiled with satisfaction at the EXP—no, the Skeleton army—filling the narr
 
 “You’re all going to die here. That’s all you need to know.”
 
-- W. H. A. T?
+—What?
 
 Instead of answering, I drew a deep breath.
 
-The muscles throughout my body writhed, and the fire dragon coiled inside my dantian began to move according to the formula of the Fire Gate Divine Technique.
+The muscles throughout my body flexed, and the fire dragon coiled within my dantian stirred in accordance with the formula of the Fire Gate Divine Technique.
 
 Then, in the next instant, I became one with the spear in my hand and shot forward.
 
