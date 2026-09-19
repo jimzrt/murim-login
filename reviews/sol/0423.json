@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "“I haven’t gotten a defeat notification yet. That means it’s still ali—”\n\n—Who cares about a defeat notification or whatever! Treat yourself first!",
+      "defect": "“Defeat notification” weakens the System mechanic: Jin specifically concludes that the Arch Lich is still alive because he has received no notification confirming its death.",
+      "id": "F01",
+      "rationale": "처치 here means killing or eliminating the monster, as confirmed by Jin’s immediate inference that the Arch Lich remains alive.",
+      "replacement": "“I haven’t gotten a kill notification yet. That means it’s still ali—”\n\n—Who cares about a kill notification or whatever! Treat yourself first!",
+      "severity": "major",
+      "source": "“아직 처치 알림이 안 떴어. 놈이 살아 있…….”\n\n- 처치 알림인지 뭔지 간에, 치료부터 하라고!"
+    },
+    {
+      "confidence": 0.9,
+      "current": "In the slowed world, the top-grade potion bounced away and disappeared beyond the pale haze.",
+      "defect": "“Bounced away” implies an additional rebound or impact not stated in the source; the potion is knocked from his hand and sent flying.",
+      "id": "F02",
+      "rationale": "튕겨 나간 describes the potion being knocked or flung away after the vine strikes Jin’s wrist.",
+      "replacement": "In the slowed world, the top-grade potion went flying and disappeared beyond the pale haze.",
+      "severity": "minor",
+      "source": "느려진 세상 속에서 튕겨 나간 최상급 포션이 희뿌연 안개 너머로 사라졌다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "A voice more desperate than any I had heard before burst from the Arch Lich’s mouth.",
+      "defect": "The comparison is broadened to every voice Jin has ever heard, whereas the source says the Arch Lich sounds more urgent than it ever has before.",
+      "id": "F03",
+      "rationale": "그 어느 때보다 compares this moment with the Arch Lich’s previous manner, and 다급한 means urgent or pressed rather than globally unmatched desperation.",
+      "replacement": "The Arch Lich’s voice burst out, more urgent than ever.",
+      "severity": "minor",
+      "source": "아크 리치의 입에서 그 어느 때보다 다급한 음성이 터져 나왔다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "A spell belonging to someone far too familiar.",
+      "defect": "The English makes the unidentified person familiar, while the Korean directly characterizes the magic as visually unmistakable and familiar.",
+      "id": "F04",
+      "rationale": "눈에 익은 modifies the magic Jin recognizes, not his degree of personal familiarity with its caster.",
+      "replacement": "Someone’s all-too-familiar magic.",
+      "severity": "minor",
+      "source": "더 없이 눈에 익은 누군가의 마법."
+    },
+    {
+      "confidence": 0.92,
+      "current": "Blood dripped from my entire body, soaked from head to toe, while my arms and legs trembled like slender branches entirely beyond my control.",
+      "defect": "“Slender branches” invents a physical quality and removes the source’s aspen image.",
+      "id": "F05",
+      "rationale": "사시나무처럼 invokes the familiar image of an aspen trembling; “aspen leaves” conveys that image naturally in English.",
+      "replacement": "Blood dripped from my entire body, which was soaked from head to toe, while my arms and legs trembled like aspen leaves beyond my control.",
+      "severity": "minor",
+      "source": "머리부터 발끝까지, 온통 핏물로 흠뻑 젖은 전신에서 핏방울이 흘러내리고 자의와는 상관없이 팔과 다리가 사시나무처럼 떨렸다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "But if I did that, I would lose the Arch Lich, whose distance I had only just managed to close.",
+      "defect": "The possessive relative clause is unnatural English and incorrectly frames the gap as “the Arch Lich’s distance.”",
+      "id": "F06",
+      "rationale": "간격 is the distance between Jin and the Arch Lich, which Jin has only just succeeded in closing.",
+      "replacement": "But if I did that, I would lose the Arch Lich after only just managing to close the distance.",
+      "severity": "minor",
+      "source": "그랬다가는 겨우 간격을 좁힌 아크 리치를 놓치고 말 것이다."
+    }
+  ],
+  "summary": "One meaningful System-mechanic mistranslation and several localized fidelity or natural-English issues.",
+  "version": 1
+}

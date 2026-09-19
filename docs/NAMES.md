@@ -1419,3 +1419,12 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 단중혈 | **Tanzhong acupoint** | Acupoint identified with the Middle Dantian. |
 | 소닉 바스터 | **Sonic Buster** | The Arch Lich's compressed-wind spell. |
 | 그레이트 본 월 | **Great Bone Wall** | The Arch Lich's highest-level bone barrier. |
+| 본 쉴드 | **Bone Shield** | Arch Lich defensive spell |
+| 본 스피어 | **Bone Spear** | Arch Lich attack spell |
+| 다크니스 홀드 | **Darkness Hold** | Binding spell |
+| 다크 핸드 | **Dark Hand** | Dark-magic spell |
+| 다크 클로우 | **Dark Claw** | Mana-claw attack spell |
+| 다크 바인 | **Dark Vine** | Black thorn-vine spell |
+| 게이트 오픈 | **Gate Open** | Invocation used to open the incomplete Gate |
+| 블링크 | **Blink** | Arch Lich movement spell |
+| 과다출혈 | **Excessive Bleeding** | System status effect |
