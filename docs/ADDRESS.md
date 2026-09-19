@@ -822,3 +822,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 중년 도사 | 문경 | Wudang gatekeeper to young medical apprentice | young man / medical apprentice | polite and curious | Asks about Mungyeong and requests that he examine the Daoist later. |
 | 진태경 | 중년 도사 | celebrated visiting martial artist to Wudang gatekeeper | Daoist | polite | Taekyung addresses the middle-aged guard respectfully while attempting to pass. |
 | 문경 | 중년 도사 | hidden legendary assassin to Wudang gatekeeper | Daoist | deferential and controlled | Mungyeong politely accepts the guard's proposed private interval. |
+| 현공진인 | 진태경 | senior Wudang master to younger martial artist | young friend | gentle and polite | Hyeongong uses 진 도우 and 젊은 도우 while greeting and worrying about Taekyung. |

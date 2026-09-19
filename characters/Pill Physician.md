@@ -1,6 +1,6 @@
 # Pill Physician (환의)
 
-- **Safe through:** Chapter 486
+- **Safe through:** Chapter 491
 - **Aliases:** None
 - **Role:** Current Family Head of the Seongsu Jang Family in Shandong, who personally placed and signed the Thousand-Year Snow Ginseng in the casket entrusted to the Yongbong Escort Bureau.
 - **Personality:** No personality traits are established.

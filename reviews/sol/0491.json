@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "“You didn’t know? No wonder he didn’t tell you through his Disciple.”",
+      "defect": "The translation makes an unspecified Disciple the intermediary who should have delivered the message to Taekyung. Taekyung himself is Jeok Cheongang’s Disciple; Zhuge Feng means he expected Jeok to pass the message to them through Taekyung.",
+      "id": "F01",
+      "rationale": "제자를 통해서 describes Jeok communicating through his Disciple, not communicating to Taekyung through another Disciple.",
+      "replacement": "“You didn’t know? That explains why he didn’t pass the message along through his Disciple.”",
+      "severity": "critical",
+      "source": "“몰랐나? 어쩐지, 제자를 통해서 말씀하시지 않더라니.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Hey, Captain. Are you not asleep—”",
+      "defect": "The present-tense question asks an obviously awake person whether he is asleep. Hyuk Mujin is reacting to Taekyung’s appearance and asking whether he failed to sleep.",
+      "id": "F02",
+      "rationale": "안 주무셨 uses the past/perfect sense here: Hyuk Mujin begins asking whether Taekyung did not sleep.",
+      "replacement": "“Hey, Captain. You haven’t slept—?”",
+      "severity": "minor",
+      "source": "“어, 조장님. 안 주무셨……?”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Some vicious assassin bastard had installed more than a dozen hidden weapons inside the tent",
+      "defect": "“More than a dozen” raises the quantity beyond twelve, while 십여 개 means roughly ten or a dozen or so.",
+      "id": "F03",
+      "rationale": "십여 개 denotes approximately ten, not specifically more than twelve.",
+      "replacement": "Some vicious assassin bastard had installed a dozen or so hidden weapons inside the tent",
+      "severity": "minor",
+      "source": "웬 악독한 살수 새끼가 막사 내부에 십여 개의 암기를 설치했고"
+    },
+    {
+      "confidence": 0.97,
+      "current": "*Medical apprentice, my ass. Is he the Divine Physician or a Poison Physician?*",
+      "defect": "The draft turns the second punchline into an either-or question. The source rejects “Divine Physician” and asserts that Mungyeong is a “Poison Physician.”",
+      "id": "F04",
+      "rationale": "저게 신의냐 is a rhetorical rejection, and 독의지 supplies the corrective assertion.",
+      "replacement": "*Medical apprentice, my ass. That’s no Divine Physician. He’s a Poison Physician.*",
+      "severity": "minor",
+      "source": "‘의생 같은 소리하고 있네. 저게 신의냐, 독의지.’"
+    },
+    {
+      "confidence": 0.94,
+      "current": "“Slaughter Saint—no, Mungyeong gave it to me.",
+      "defect": "The draft completes the title that Cheongpung cuts off after its first syllable, losing the audible self-correction.",
+      "id": "F05",
+      "rationale": "살, 아니 preserves an interrupted start rather than stating the full title 살성.",
+      "replacement": "“Slaugh—no, Mungyeong gave it to me.",
+      "severity": "minor",
+      "source": "“살, 아니 문경이 줬어요.”"
+    }
+  ],
+  "summary": "One subject-object error changes how Jeok Cheongang’s message was expected to be delivered. Four localized issues alter tense, quantity, an interrupted title, or a punchline.",
+  "version": 1
+}

@@ -1592,3 +1592,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 제갈소평 | **Zhuge Sopyeong** | Named son and budding martial artist whose autograph Taekyung signs. |
 | 창우 | **Changwoo** | Named budding talent who receives Taekyung's autograph. |
 | 진수 | **Jinsu** | Named budding talent who receives Taekyung's autograph. |
+| 산공독 | **Energy-Dispersing Poison** | Poison that temporarily prevents the use of internal energy and causes it to dissipate. |
+| 강력한 산공독 | **Potent Energy-Dispersing Poison** | The stronger system-designated form of Energy-Dispersing Poison. |
+| 고기 방패 | **Meat Shield** | System reward for sending Hyuk Mujin ahead as protection. |
+| 독 장아찌 | **Poisoned Pickle** | Taekyung's joking proposed sobriquet after enduring Mungyeong's poisons. |
+| 독의 | **Poison Physician** | Taekyung's mocking description of Mungyeong after learning how aggressively he uses poison. |
