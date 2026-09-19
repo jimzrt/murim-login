@@ -1,17 +1,16 @@
 # Translation State
 
-- Last completed: 470
-- Next chapter: 471
-- Current block: 470–474 (1/5)
-- Latest translation: `translations/0470.md`
-- Latest summary: `summaries/beats/0470.md`
-- Safe profiles through: chapter 470
+- Last completed: 471
+- Next chapter: 472
+- Current block: 470–474 (2/5)
+- Latest translation: `translations/0471.md`
+- Latest summary: `summaries/beats/0471.md`
+- Safe profiles through: chapter 471
 
 ## Current Block
 
-- Jin Taekyung discovers that Cheongpung is unaffected by the Mutated Water God Dragon's Fear while Gung Gibang and Hyuk Mujin are incapacitated; he slaps the two men awake and orders Cheongpung to protect the Dongting Fisherman and the boatman.
-- The System forcibly accepts the Corrupted Spirit Beast Quest, disables Logout, and demands that Taekyung defeat the Mutated Water God Dragon or suffer death or an equivalent penalty. The dragon destroys the ferryboat, attacks with boulders, water, whiskers, and its tail, wounds Taekyung, and sends him flying toward a cliff before Cheongpung catches him.
-- Taekyung cuts dozens of the dragon's whiskers but is struck by its tail; after Cheongpung saves him from the impact, Taekyung recognizes the Quest's Supreme Peak Grade and prepares to continue fighting the corrupted beast.
+- Jeok Cheongang reflects on his long life, the Great Faction War, and the limits of his experience when confronted by the enormous Mutated Water God Dragon. The dragon's Fear briefly freezes Jeok, Mungyeong, and Zhuge Feng, but Jeok breaks free through rage and Scorching Yang Qi while Mungyeong overcomes it through reason and enlightenment. Jeok and Mungyeong charge the dragon using their signature techniques.
+- Taekyung and Cheongpung coordinate their assault, cutting through the dragon's whisker attacks while Cheongpung protects Taekyung's back with the Zaha Divine Technique. Mungyeong cuts one of the dragon's black horns, Jeok strikes its waist with a fire-infused fist, and Taekyung charges the falling maw with White Flame aimed at its eye.
 
 ## Open Questions
 

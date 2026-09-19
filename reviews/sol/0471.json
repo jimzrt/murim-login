@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The boy who had wandered from place to place met a master one day and became the eighteenth successor of the Fire Gate Clan.",
+      "defect": "“Wandered from place to place” omits that the boy survived by begging for food, erasing the destitution central to Jeok Cheongang’s early life.",
+      "id": "F01",
+      "rationale": "유리걸식 specifically describes roaming and begging for food, not merely traveling without a settled home.",
+      "replacement": "The boy who had wandered from place to place, begging for food, met a master one day and became the eighteenth successor of the Fire Gate Clan.",
+      "severity": "major",
+      "source": "유리걸식하던 소년은 어느 날 스승을 만나 열화문(烈火門)의 십팔 대 계승자가 되었고"
+    },
+    {
+      "confidence": 0.94,
+      "current": "If Jeok Cheongang dispelled part of Fear through his rage, Mungyeong overcame its oppression through his cool reason and insight half a step beyond.",
+      "defect": "“Half a step beyond” lacks an object and obscures the explicit comparison placing Mungyeong’s enlightenment half a step above Jeok Cheongang’s.",
+      "id": "F02",
+      "rationale": "반 계단 위의 깨달음 contrasts Mungyeong’s superior martial enlightenment with Jeok Cheongang’s rage-based resistance.",
+      "replacement": "If Jeok Cheongang dispelled part of Fear through his rage, Mungyeong overcame its oppression through cool reason and enlightenment half a step above Jeok Cheongang’s.",
+      "severity": "major",
+      "source": "적천강이 분노로서 피어의 일부를 해소했다면, 문경은 냉철한 이성과 반 계단 위의 깨달음으로 피어의 압제를 이겨 냈다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Rumble, crash!”",
+      "defect": "The sound effect is formatted as spoken dialogue.",
+      "id": "F03",
+      "rationale": "The source is an environmental thunder sound, not a quotation or anyone’s speech.",
+      "replacement": "*Rumble, crash!*",
+      "severity": "minor",
+      "source": "우르르릉, 꽝!"
+    },
+    {
+      "confidence": 0.98,
+      "current": "We had taken a little damage in the initial clash, but aside from the minor Internal Injury I had suffered while fighting the Dongting Fisherman and the cut on my shoulder, I was perfectly fine.",
+      "defect": "The draft changes the implied subject from Taekyung alone to the entire group, attributing damage to others that the source does not mention.",
+      "id": "F04",
+      "rationale": "The listed injuries are Taekyung’s, and the sentence concludes with his own physical condition; no collective subject appears in the Korean.",
+      "replacement": "I had taken a little damage in the initial clash, but aside from the minor Internal Injury I had suffered while fighting the Dongting Fisherman and the cut on my shoulder, I was perfectly fine.",
+      "severity": "major",
+      "source": "처음의 격돌로 약간의 손해를 보긴 했지만, 동정어옹을 상대하며 입은 약간의 내상과 어깨에 입은 자상을 제외하면 멀쩡한 셈이다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "The Mutated Water God Dragon hurriedly raised its head, but the water had already been spilled.",
+      "defect": "The Korean idiom is translated literally, producing unnatural English and momentarily suggesting actual spilled water.",
+      "id": "F05",
+      "rationale": "이미 엎질러진 물이었다 means the situation could no longer be undone—the equivalent of saying it was already too late.",
+      "replacement": "The Mutated Water God Dragon hurriedly raised its head, but it was already too late.",
+      "severity": "minor",
+      "source": "변이된 수신룡이 황급히 고개를 쳐들었지만 이미 엎질러진 물이었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "the others had not yet completely escaped Fear’s influence, no matter how slight the difference between them.",
+      "defect": "The draft characterizes the differences as slight, while the source only says that the degree of influence varied.",
+      "id": "F06",
+      "rationale": "차이는 있을지언정 concedes differences without specifying that those differences are small.",
+      "replacement": "the others had not yet completely escaped Fear’s influence, though the degree varied from person to person.",
+      "severity": "minor",
+      "source": "다른 이들은 차이는 있을지언정 아직 피어의 영향에서 완전히 벗어나지 못했다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "“You fucking bastard—!”\n\nThe instant Jeok Cheongang’s fist struck the Water God Dragon’s waist, his curse burst forth like a magic spell.",
+      "defect": "The generic insult flattens the source’s deliberately elaborate profanity, and the narration incorrectly says the already-spoken curse burst forth only when the fist landed.",
+      "id": "F07",
+      "rationale": "개호로 썅노무 is a strong, colorful compound insult, while the Korean presents the curse as accompanying the launched fist rather than emerging after impact.",
+      "replacement": "“You godforsaken son of a bitch—!”\n\nJeok Cheongang spewed the curse like a magic incantation, and his fist slammed into the Water God Dragon’s waist.",
+      "severity": "major",
+      "source": "“이 개호로 썅노무-!”\n\n마법 주문과 같은 욕설을 토해 낸 적천강의 일권(一拳)이 수신룡의 허리 부분에 격중한 순간."
+    },
+    {
+      "confidence": 0.99,
+      "current": "*Thud!*",
+      "defect": "“Thud” depicts a blunt impact, but the source sound indicates White Flame plunging deeply into the dragon’s eye.",
+      "id": "F08",
+      "rationale": "푸욱 is the sound and sensation of a pointed weapon sinking deeply into flesh, completing the spear thrust described immediately beforehand.",
+      "replacement": "*Shnk!*",
+      "severity": "critical",
+      "source": "푸욱!"
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it omits Jeok Cheongang’s childhood destitution, blurs a hierarchy comparison, changes the subject of battle damage, weakens and mistimes a curse, and renders the final piercing impact as a blunt thud.",
+  "version": 1
+}
