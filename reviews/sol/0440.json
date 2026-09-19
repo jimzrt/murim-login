@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Lord Balls is here too. I saw him say he’d bet his balls on the Chinese news earlier and laughed my ass off, but he really did it lmao.",
+      "defect": "The draft adds that Taekyung actually followed through on the wager. The source only emphasizes how hard the commenter laughed upon hearing him offer to bet his testicles.",
+      "id": "F01",
+      "rationale": "진짜 intensifies the commenter’s reaction; it does not state that the wager was subsequently carried out.",
+      "replacement": "Lord Balls is here too. I saw him say he’d bet his balls on the Chinese news earlier and laughed my ass off, seriously lmao.",
+      "severity": "critical",
+      "source": "불알좌도 있음. 아까 중국 뉴스에서 불알 건다는 거 보고 미친 듯이 웃었는데 진짜ㅋㅋㅋㅋㅋ"
+    },
+    {
+      "confidence": 0.98,
+      "current": "King Taekyung. The bastard accomplished something incredible, blew off every interview, and ended the whole thing with a thirty-minute official press conference…",
+      "defect": "The draft changes the object of the final action: Taekyung ended the press conference itself in thirty minutes, not an unspecified “whole thing” by holding a thirty-minute conference. It also weakens the deliberately crude register of 다 좆 까고.",
+      "id": "F02",
+      "rationale": "공식 기자 회견 30분으로 끝내 버린 means he summarily finished the official press conference in thirty minutes, while 다 좆 까고 is explicitly profane.",
+      "replacement": "King Taekyung. The bastard who accomplished something incredible, told every interview to fuck off, and wrapped up his official press conference in thirty minutes…",
+      "severity": "major",
+      "source": "킹태경. 엄청난 업적을 세우고도 인터뷰 다 좆 까고 공식 기자 회견 30분으로 끝내 버린 놈……."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Yes. For as long as it takes.”",
+      "defect": "The response is made conditional and finite, weakening Team Leader Choi’s commitment.",
+      "id": "F03",
+      "rationale": "언제까지나 means always or forever, not merely until a task is completed.",
+      "replacement": "“Yes. Always.”",
+      "severity": "major",
+      "source": "“네. 언제까지나.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "—You accompanying a vile human, of course.",
+      "defect": "The participants in the contemplated companionship are reversed. The Skeleton King is considering remaining with Taekyung, whom he calls a vile human; he is not considering Taekyung accompanying some other vile human.",
+      "id": "F04",
+      "rationale": "너, 간악한 인간 is direct address to Taekyung, while 함께하는 것 is the Skeleton King’s proposed continued association with him.",
+      "replacement": "—Going with you, you vile human, of course.",
+      "severity": "critical",
+      "source": "- 너, 간악한 인간과 함께하는 것 말이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "*You have to join Peace Guild no matter what. I’ve already had the contract drawn up, so go put your seal on it. No, wait. A fingerprint check won’t work since you don’t have fingerprints. I guess you’ll have to stamp it with your skull.*",
+      "defect": "The draft changes the joke’s mechanism by claiming that the Skeleton King physically has no fingerprints. The source says his fingerprints would not produce a result in a records search.",
+      "id": "F05",
+      "rationale": "지문 조회해 봤자 나오지도 않으니까 refers to a fingerprint lookup returning no record, while 지장 찍어 specifically means affixing a thumbprint or fingerprint.",
+      "replacement": "*You have to join Peace Guild no matter what. I’ve already had the contract drawn up, so go put your thumbprint on it. No, wait. Your fingerprints won’t turn up in a records check, so I guess you’ll have to stamp it with your skull.*",
+      "severity": "major",
+      "source": "‘너 무조건 평화 길드 들어와야 해. 이미 계약서 작성해 놨으니까 가서 지장 찍어. 아니다, 지문 조회해 봤자 나오지도 않으니까 두개골로 찍어야겠다.’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "—Release this body immediately! Turn the carriage around!",
+      "defect": "“Carriage” introduces an archaic vehicle absent from the modern airport parade and makes the command less contextually natural.",
+      "id": "F06",
+      "rationale": "차 is the modern vehicle carrying them; the Skeleton King’s grandiose self-reference does not change the vehicle into a carriage.",
+      "replacement": "—Release this body immediately! Turn the car around!",
+      "severity": "minor",
+      "source": "- 당장 이 몸을 내보내라! 차 돌려!"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Really?”",
+      "defect": "The draft omits the repeated request and turns it into a generic reaction, weakening Taekyung’s deliberate pressure on the driver.",
+      "id": "F07",
+      "rationale": "안 돼요 is repeated explicitly here; preserving the repetition is necessary for the comic escalation that makes the driver capitulate.",
+      "replacement": "“We really can’t?”",
+      "severity": "minor",
+      "source": "“정말 안 돼요?”"
+    }
+  ],
+  "summary": "Several semantic and register issues alter actions, relationship commitments, and the mechanics of a joke.",
+  "version": 1
+}
