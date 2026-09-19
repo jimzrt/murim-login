@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "They didn’t even check anyone’s identity before turning around and taking off.",
+      "defect": "The draft adds a turn that does not occur. The ships continue onward and swiftly disappear rather than reversing direction.",
+      "id": "F01",
+      "rationale": "휙 가 버리다 means to leave or speed away abruptly; it does not indicate turning around.",
+      "replacement": "They didn’t even check anyone’s identity before speeding off.",
+      "severity": "critical",
+      "source": "그런 것치고는 신분도 확인 안 하고 휙 가 버리던디."
+    },
+    {
+      "confidence": 0.99,
+      "current": "That was how things remained until an hour later, when an unidentified, monstrous cry rang out from somewhere.",
+      "defect": "The draft converts 반 시진 into an hour despite the binding glossary requiring the established term “shichen,” and it omits 고작, which emphasizes how little time passed.",
+      "id": "F02",
+      "rationale": "반 시진 is “half a shichen,” while 고작 adds the sense of “only” or “just.”",
+      "replacement": "That was how things remained until, just half a shichen later, an unidentified, monstrous cry rang out from somewhere.",
+      "severity": "minor",
+      "source": "고작 반 시진 뒤, 어디선가 정체 모를 괴성이 들려오기 전까지는 그랬다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Damn it, that’s enough. I’m going over there, drilling a hole in their hull, and climbing aboard, so nobody try to stop me.",
+      "defect": "The draft changes the fisherman’s intended action by making him climb aboard the pleasure boat. In context, the dialectal 올라니까 means he will go punch a hole in the hull and come back.",
+      "id": "F03",
+      "rationale": "The fisherman is threatening a quick act of sabotage followed by his return, not boarding the other vessel.",
+      "replacement": "Fuck this. I’ll hurry over, punch a hole in their hull, and come right back, so nobody try to stop me.",
+      "severity": "critical",
+      "source": "시벌 안 되겄네. 내가 얼른 가서 밑창에 구멍 뚫고 올라니까, 아무도 말리지 마소."
+    },
+    {
+      "confidence": 0.97,
+      "current": "And everyone realized that the insane sight before them was reality.",
+      "defect": "The draft changes the object of realization from the bizarre noise they heard to the sight itself, losing the link between the earlier cries and the spectacle now producing them.",
+      "id": "F04",
+      "rationale": "저 미친 소리 explicitly refers back to the strange cries, which the witnesses now connect to what they are seeing.",
+      "replacement": "And everyone realized that the bizarre noise they had heard was part of the reality unfolding before their eyes.",
+      "severity": "minor",
+      "source": "그리고 모두가 깨달았다. 저 미친 소리가, 자신들이 보고 있는 현실이라는 것을."
+    },
+    {
+      "confidence": 0.97,
+      "current": "There was an obviously foul-tempered-looking kid standing at the stern.",
+      "defect": "The draft sanitizes the strongly vulgar 개같이 and turns the deliberately insulting description into restrained narration.",
+      "id": "F05",
+      "rationale": "성격 개같이 생긴 crudely describes the child as visibly having an awful personality; Taekyung’s profanity and contempt should remain strong.",
+      "replacement": "There was a kid standing at the stern who looked like a nasty little shit.",
+      "severity": "minor",
+      "source": "후미에 딱 봐도 성격 개같이 생긴 어린애 하나 서 있고."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Half a shichen? I’ve almost caught up. Whew, fuck. I’ve been shitting blood.",
+      "defect": "The literal rendering of 피똥 쌌다 can be read as an actual medical condition in English rather than the source idiom for having endured extreme exertion.",
+      "id": "F06",
+      "rationale": "피똥 싸다 is a vulgar hyperbolic idiom for going through severe hardship or exertion, not a statement that he literally passed blood.",
+      "replacement": "Half a shichen? I’ve almost caught up. Whew, fuck me. I busted my ass getting here.",
+      "severity": "major",
+      "source": "반 시진이요? 거의 다 따라잡았네. 후우, 시벌 거. 피똥 쌌다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "I grabbed one of them, gave it a little mental education, summoned its companions, and founded the Shark Water-Ski Team.",
+      "defect": "“Gave it a little mental education” is an unnatural dictionary calque that obscures the euphemistic joke about beating the shark into submission.",
+      "id": "F07",
+      "rationale": "정신 교육하다 is used humorously here to mean disciplining or forcibly teaching it a lesson; the replacement preserves that euphemism in natural English.",
+      "replacement": "I grabbed one of them, taught it a lesson, called over more of its kind, and founded the Shark Water-Ski Team.",
+      "severity": "minor",
+      "source": "나는 한 놈을 붙잡아 정신 교육한 뒤 동족을 불러왔고, 상어 수상스키단을 창단했다."
+    }
+  ],
+  "summary": "Two altered actions require correction, along with one glossary mismatch and several localized fidelity, register, and idiom issues.",
+  "version": 1
+}

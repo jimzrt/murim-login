@@ -1667,3 +1667,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 선미 | **stern** | The rear of the swift ship. |
 | 화기 | **fire qi** | The fire nature imparted to internal energy by the Fire Gate Divine Technique. |
 | 답보 | **stagnation** | Taekyung's current lack of progress in martial arts. |
+| 사어 | **sa-eo** | Sino-Korean term for shark, distinct from the ordinary Korean term 상어. |
+| 상어 | **shark** | Ordinary Korean term for shark used in the protagonist's clarification. |
+| 흰철갑상어 | **white sturgeon** | The shark-like fish left with the fisherman. |
+| 수상스키단 | **Shark Water-Ski Team** | Taekyung's joking name for the trained sharks traveling behind him. |
+| 잡으리 양식 | **Catch-'Em Fish Farm** | Taekyung's joking alternate name for the Shark Water-Ski Team. |
