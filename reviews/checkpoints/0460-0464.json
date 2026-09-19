@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Mungyeong is searching Donghu Stronghold for Dark Heaven traces with Zhuge Clan and Wudang; Mungyeong found no land evidence or Moving Formation remnants and entered the river to search the remaining area.",
+      "defect": "The entry leaves Mungyeong’s river search in progress even though Chapter 463 has moved beyond it: he returned, revealed himself as the Slaughter Saint, and warned Jeok Cheongang of imminent danger.",
+      "id": "C01",
+      "rationale": "The stale present-progressive state contradicts the packet summary and Chapter 463, and it drops the warning that drives Jeok Cheongang’s immediate departure.",
+      "replacement": "Mungyeong found no Dark Heaven evidence or Moving Formation remnants on land at Donghu Stronghold, searched the remaining river area, then revealed himself as the Slaughter Saint and warned Jeok Cheongang that Taekyung—and perhaps everyone else—was in danger.",
+      "severity": "major",
+      "source": "Active state, active_continuity entry for Mungyeong"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Taekyung completed the unavoidable Peak-grade Quest The Tragedy of Dongting Lake, rescued the only two survivors found, and earned the Water Rescue Worker Title.",
+      "defect": "The durable entry records the Title but drops its currently active mechanics, duration, cooldown, and underwater penalty, all of which remain relevant during the unresolved confrontation.",
+      "id": "C02",
+      "rationale": "These limits are explicit in Chapter 461 and materially constrain the ongoing underwater-refuge sequence, so omitting them from active continuity risks later mechanical contradiction.",
+      "replacement": "Taekyung completed the unavoidable Peak-grade Quest The Tragedy of Dongting Lake, rescued the only two survivors found, and earned the Water Rescue Worker Title; its activated skills grant underwater breathing, movement, and vision for twenty-four hours and cannot be reused for one week, while his Fire Gate Clan martial arts are twenty percent weaker underwater.",
+      "severity": "major",
+      "source": "Active state, active_continuity entry for the Water Rescue Worker Title"
+    },
+    {
+      "confidence": 0.97,
+      "current": "What danger did Mungyeong detect, and are the Wudang killer demon and that danger connected to Taekyung, Jeok Cheongang, or Dark Heaven?",
+      "defect": "The question incorrectly leaves the danger’s connection to Taekyung unresolved even though Mungyeong explicitly identifies Jeok Cheongang’s disciple as being in danger. Whether Jeok Cheongang himself is a target is not established.",
+      "id": "C03",
+      "rationale": "This preserves the genuine mysteries without reopening a connection already established in Chapter 463 or implying that Mungyeong specifically identified Jeok Cheongang as a target.",
+      "replacement": "What danger did Mungyeong detect around Taekyung, why might it threaten everyone, and is it connected to the Wudang killer demon or Dark Heaven?",
+      "severity": "minor",
+      "source": "Active state, open_questions entry concerning Mungyeong’s warning"
+    }
+  ],
+  "summary": "The reading copies maintain consistent voice, terminology, and formatting. Three active-state entries need correction or expansion: Mungyeong’s search status is stale, the Water Rescue Worker mechanics are incompletely preserved, and one open question treats Taekyung’s established involvement as unresolved.",
+  "version": 1
+}

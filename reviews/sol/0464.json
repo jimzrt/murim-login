@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "I heightened my senses more sharply than ever and searched for signs of life inside. Only after I was certain that there were none did I start moving again.",
+      "defect": "The draft broadens 기척 into all signs of life, contradicting the fish and aquatic plants inside the passage. Taekyung is checking for a human presence or potential enemy.",
+      "id": "F01",
+      "rationale": "In context, 기척 refers to the presence Taekyung is guarding against, not every living organism in the passage.",
+      "replacement": "I sharpened my senses more than ever and searched the passage for any human presence. Only after I was certain there was none did I begin moving again.",
+      "severity": "major",
+      "source": "어느 때보다 예리한 감각을 끌어올려 내부의 기척을 살핀 나는 확신이 들고 나서야 다시 이동을 시작했다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“*Haa.*”",
+      "defect": "“Haa” normally represents an exhalation, while 후읍 marks the sharp inhalation Taekyung takes upon surfacing.",
+      "id": "F02",
+      "rationale": "The following sentence explicitly describes damp air entering his lungs, confirming that this is an inhalation.",
+      "replacement": "I sucked in a breath.",
+      "severity": "minor",
+      "source": "“후읍.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "*A torch? Well, night-shining pearls aren’t infinite.*",
+      "defect": "“Pearls aren’t infinite” is an unnatural literal rendering and obscures that the Dongting Fisherman has only a limited supply of the expensive pearls.",
+      "id": "F03",
+      "rationale": "The following explanation concerns the pearls’ cost and the need for torches to illuminate the entire cave.",
+      "replacement": "*A torch? Well, it’s not like he has an unlimited supply of night-shining pearls.*",
+      "severity": "minor",
+      "source": "‘횃불? 하긴, 야명주가 무한한 건 아니니까.’"
+    },
+    {
+      "confidence": 0.96,
+      "current": "I was still far from possessing the insight to read the identity and origins of a martial art, but with my Supreme Peak cultivation, it was not difficult to infer what had happened from the traces left behind here and there.",
+      "defect": "“Read the identity” and “Supreme Peak cultivation” are stiff calques; the latter also replaces the source’s explicit statement that he has reached the Supreme Peak realm.",
+      "id": "F04",
+      "rationale": "The source contrasts his limited ability to identify martial arts with the observational ability conferred by his attained realm.",
+      "replacement": "I was still far from having the insight to discern the nature and roots of martial arts, but having reached the Supreme Peak realm, I had little trouble inferring what had happened from the traces left throughout the passage.",
+      "severity": "minor",
+      "source": "무공의 정체와 뿌리를 읽어 낼 만한 안목은 한참 부족하지만, 곳곳에 남긴 흔적을 통해 상황을 유추하는 것은 초절정의 경지에 도달한 내게 있어 그리 어려운 일이 아니다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "If not, I would capture him and drag the larger body behind him into the light.",
+      "defect": "“The larger body behind him” is opaque and unnatural English for the more important figure Taekyung intends to draw out by capturing the Dongting Fisherman.",
+      "id": "F05",
+      "rationale": "더 큰 몸통 figuratively denotes a larger or more important target, not a physically larger body.",
+      "replacement": "If not, I would capture him and use him to draw out the bigger player behind him.",
+      "severity": "minor",
+      "source": "그렇지 않다면 사로잡아 더 큰 몸통을 끌어내야 한다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "A space roughly thirty zhang across, presumably the center of the cave.",
+      "defect": "The source gives a radius of roughly thirty zhang, while “thirty zhang across” makes that the diameter and halves the stated dimensions.",
+      "id": "F06",
+      "rationale": "반경 explicitly means radius.",
+      "replacement": "A space roughly thirty *zhang* in radius, presumably the center of the cave.",
+      "severity": "critical",
+      "source": "동굴의 중심부로 추정되는 반경 삼십여 장의 공간."
+    },
+    {
+      "confidence": 0.99,
+      "current": "I should never have been so presumptuous in my certainty.",
+      "defect": "The draft introduces presumptuousness or arrogance; the source says his certainty was premature.",
+      "id": "F07",
+      "rationale": "섣부른 describes a hasty or premature conclusion, not an inherently arrogant one.",
+      "replacement": "I should never have been so quick to assume.",
+      "severity": "minor",
+      "source": "섣부른 확신은 금물이었음을."
+    }
+  ],
+  "summary": "One critical quantity error, one meaningful presence-detection error, and several localized fidelity or natural-English defects.",
+  "version": 1
+}
