@@ -4,7 +4,7 @@
 
 Those were the first words out of the Luoyang Strange Physician’s mouth when he regained consciousness one shichen later.
 
-His tone and voice were so gentle that I could hardly believe he was the same old man who had been flying into a rage before I returned to the modern world.
+His voice was so gentle that I could hardly believe he was the same old man who had been flying into a rage before I returned to the modern world.
 
 “A-are you all right?”
 
@@ -50,7 +50,7 @@ A chill ran down my spine as I raised my head. The Luoyang Strange Physician met
 
 Forget the old man next door. He was more like the murderer next door.
 
-Still wearing a bandage wound tightly around his head and laughing like a lunatic, the Luoyang Strange Physician began the examination of Jeok Cheongang that he had put off for a while.
+With his head swathed in bandages and a demented smile on his face, the Luoyang Strange Physician began the examination of Jeok Cheongang that had been delayed.
 
 Whatever his personality, he was the greatest physician in Henan and a medical master counted among the ten best in the world.
 
@@ -100,7 +100,7 @@ Mae Jonghak’s eyes and mine flew open at the same time.
 
 The Luoyang Strange Physician continued slowly.
 
-“I could tell from his pulse today that he is different from yesterday. If Great Hero Jeok remains in this state and does not wake up, all his qi acupoints will become blocked, and he will be reduced to an ordinary countryman.”
+“After taking his pulse today, I can tell that his condition has changed since yesterday. If Great Hero Jeok remains like this and fails to awaken, all his qi channels will become blocked, reducing him to an ordinary country elder.”
 
 “Are you saying he won’t regain consciousness until after he loses his martial arts?”
 
@@ -122,11 +122,11 @@ How much time would remain for Jeok Cheongang the old man, rather than Jeok Cheo
 
 “Six months… Is there really no other way?”
 
-“You insolent brat. Do you need to make this old man repeat himself twice before you’ll be satisfied?”
+“You insolent brat. Will you only be satisfied after making this old man repeat himself?”
 
 He didn’t know what the disease was, so he didn’t know how to cure it.
 
-The Luoyang Strange Physician’s answer was so firm that it doused the tiny spark of hope.
+The Luoyang Strange Physician’s answer was firm enough to douse the last spark of hope.
 
 But he was also the one who rekindled it.
 
@@ -134,11 +134,11 @@ But he was also the one who rekindled it.
 
 “The Divine Physician?”
 
-My mind snapped fully awake, as if someone had dumped a bucket of ice water over my head. I opened my eyes wide and asked:
+My mind snapped awake as if someone had dumped a bucket of ice water over my head. My eyes widened.
 
 “Who is the Divine Physician?”
 
-The Luoyang Strange Physician stared at me in surprise.
+The Luoyang Strange Physician stared at me in disbelief.
 
 “…You don’t know the Divine Physician?”
 
@@ -146,7 +146,7 @@ The Luoyang Strange Physician stared at me in surprise.
 
 “His sobriquet is Divine Physician, so of course he is! Even a stray dog in a back alley would know that much. Great Hero Mae, is this fellow really a martial artist?”
 
-Mae Jonghak, who had been standing a step away, stopped the enraged Luoyang Strange Physician.
+Mae Jonghak, who had been standing a short distance away, tried to calm the enraged Luoyang Strange Physician.
 
 “Calm down, Strange Physician.”
 
@@ -196,13 +196,13 @@ It was said that he had appeared at the edge of the continent more than forty ye
 
 “Ooh, the masked physician.”
 
-The Luoyang Strange Physician, who had been about to continue, picked up a large acupuncture needle a handspan long.
+The Luoyang Strange Physician stopped and picked up a large acupuncture needle a handspan long.
 
-“I’ll shut that mouth of yours for you.”
+“I ought to shut that mouth of yours for good.”
 
 “I’m sorry. It just slipped out.”
 
-“Even with Great Hero Mae here, this young brat’s mouth never stops. Isn’t that right?”
+“Even with Great Hero Mae present, this brat’s mouth never stops. Isn’t that right?”
 
 Mae Jonghak’s eyes lit up.
 
@@ -210,7 +210,7 @@ Mae Jonghak’s eyes lit up.
 
 “…”
 
-After that, the Luoyang Strange Physician, now half a sage, gave us a kind but concise explanation of the Divine Physician.
+After attaining a state of half-enlightened resignation, the Luoyang Strange Physician gave us a concise and helpful explanation of the Divine Physician.
 
 He was universally recognized as the greatest physician under heaven and a man of noble character.
 
@@ -246,7 +246,7 @@ I stared incredulously at the Luoyang Strange Physician’s pleased smile.
 
 “…”
 
-Was he joking right now?
+Was he fucking with me?
 
 When my expression darkened, the Luoyang Strange Physician suddenly burst into hearty laughter.
 
