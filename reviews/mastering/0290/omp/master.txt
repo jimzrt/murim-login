@@ -250,7 +250,7 @@ Before Team Leader Choi could finish, Butler Kim’s head snapped toward me with
 
 I answered calmly.
 
-“For starters, I don't know what a Mana Cultivation Method is. Naturally, this is the first I've heard of this being one. By the way, is your neck all right? I think I just heard a bone break...”
+“For starters, I don’t know what a Mana Cultivation Method is. Naturally, this is also the first I’ve heard of that thing being one. By the way, is your neck all right? I could’ve sworn I just heard a bone break…”
 
 “Is that important right now? This little neck of mine can break for all I care.”
 
@@ -342,9 +342,9 @@ I stood the crisp stack of A4 paper upright and slammed a stapler through it. Mu
 
 “I’ve seen them mentioned a few times in novels and movies. I believe they called them martial arts.”
 
-“You are correct, Young Master. In a sense, a Mana Cultivation Method is also a form of martial arts. Look here. It says that you circulate and accumulate qi by circulating your energy, does it not? That follows the same principle as a Mana Cultivation Method…”
+“You are correct, Young Master. In a sense, a Mana Cultivation Method is also a form of martial arts. Look here. It says that qi is circulated and accumulated through energy circulation, does it not? This operates on the same principle as a Mana Cultivation Method…”
 
-*Yeah, it is martial arts.*
+*Yeah, because it is martial arts.*
 
 While I fought back the words itching to escape my mouth, Team Leader Choi asked me a question.
 
@@ -366,7 +366,7 @@ I answered without batting an eye.
 
 Granted, it had been a tiny, weak Guild, but F-rank Hunters were treated like punching bags wherever they went—like dog shit on the street.
 
-Unless they were related by blood to the Guild's leadership, it was extremely rare for an F-rank Hunter to serve as a deputy team leader. That was why my appointment had been a subject of conversation within the Guild for quite some time.
+Unless they were related to the Guild’s leadership, it was extremely rare for an F-rank Hunter to become a deputy team leader. That was why my appointment had remained a hot topic within the Guild for quite some time.
 
 “There was a lot of talk about it. Hunters with higher ranks and more experience than me complained about seniority and grumbled that they should have come first… In the end, I proved myself through sheer ability. And the reason I could do that was the Jin Family’s Cultivation Technique.”
 
@@ -376,7 +376,7 @@ Unless they were related by blood to the Guild's leadership, it was extremely ra
 
 I knew.
 
-I knew it. This alone wouldn't be enough to convince them of my past or the effectiveness of the Jin Family's Cultivation Technique.
+This alone wouldn’t be enough to convince them that the Jin Family’s Cultivation Technique explained my past.
 
 I smiled faintly and looked around. Song Song had finally stopped retching, and even Im Kkeokjeong was watching me with curiosity, waiting for what I would say next.
 

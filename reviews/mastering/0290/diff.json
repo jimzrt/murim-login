@@ -1,0 +1,2355 @@
+{
+  "baseline_blocks": 175,
+  "baseline_sha256": "76db8a3b0ad18791673330483cadd65342d109dc0e1d4f540c3be33511759ba9",
+  "global_terminology_alerts": [
+    {
+      "korean": "진가심법",
+      "preferred": "Jin Family's Cultivation Technique"
+    },
+    {
+      "korean": "진가보법",
+      "preferred": "Jin Family's Manoeuvre Technique"
+    },
+    {
+      "korean": "진가창법",
+      "preferred": "Jin Family's Spear Technique"
+    }
+  ],
+  "hunk_count": 124,
+  "hunks": [
+    {
+      "baseline": "> **System**\n>\n> **Skill Window**\n>\n> **Martial Arts Manual Creation**\n>\n> **Grade:** None\n>\n> **Restriction:** Martial arts at Great Completion\n>\n> **Description:** The caster can create a martial arts manual only for martial arts they have achieved Great Completion in. If their understanding of the martial art is deep, they may produce an even better result.\n>\n> **Special Note:** Materials are required to create a martial arts manual.",
+      "baseline_paragraphs": "P2",
+      "baseline_range": [
+        1,
+        2
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "5",
+      "sol": "> **System**\n>\n> **Skill Window**\n>\n> **Martial Arts Manual Creation**\n>\n> **Grade:** None\n>\n> **Restriction:** Martial arts at Great Completion\n>\n> **Description:** The caster can create manuals only for martial arts they have achieved Great Completion in. A deeper understanding of the martial art may produce better results.\n>\n> **Special Note:** Materials are required to create a martial arts manual.",
+      "sol_paragraphs": "P2",
+      "sol_range": [
+        1,
+        2
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Was it when I achieved Great Completion in the Jin Family's Manoeuvre Technique? Or the Jin Family's Spear Technique?*",
+      "baseline_paragraphs": "P5",
+      "baseline_range": [
+        4,
+        5
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "13",
+      "sol": "*Was it when I achieved Great Completion in the Jin Family’s Manoeuvre Technique? Or the Jin Family’s Spear Technique?*",
+      "sol_paragraphs": "P5",
+      "sol_range": [
+        4,
+        5
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "진가보법",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Family's Manoeuvre Technique"
+        },
+        {
+          "korean": "진가창법",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Family's Spear Technique"
+        }
+      ]
+    },
+    {
+      "baseline": "I had somehow received the Skill, but I had never used it even once because I had no opportunity to do so.",
+      "baseline_paragraphs": "P7",
+      "baseline_range": [
+        6,
+        7
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "17",
+      "sol": "I had somehow acquired the Skill, but I had never used it because there had been no opportunity.",
+      "sol_paragraphs": "P7",
+      "sol_range": [
+        6,
+        7
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*No, that's not quite right. It wasn't that I had no opportunity. I just never intended to use it.*",
+      "baseline_paragraphs": "P8",
+      "baseline_range": [
+        7,
+        8
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "23",
+      "sol": "*No, that wasn’t quite right. It wasn’t that I had no opportunity. I just never intended to use it.*",
+      "sol_paragraphs": "P8",
+      "sol_range": [
+        7,
+        8
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Whenever I faced the members of Peace Guild after returning to the modern world, I occasionally felt the urge. But every time, I reached the same final conclusion.",
+      "baseline_paragraphs": "P9",
+      "baseline_range": [
+        8,
+        9
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "25",
+      "sol": "After returning to the modern world, I had occasionally felt the urge whenever I saw the members of Peace Guild. But every time, I reached the same conclusion.",
+      "sol_paragraphs": "P9",
+      "sol_range": [
+        8,
+        9
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*What kind of trouble would I get into if I leaked martial arts?*",
+      "baseline_paragraphs": "P10",
+      "baseline_range": [
+        9,
+        10
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "27",
+      "sol": "*What kind of trouble would I be asking for if I let martial arts leak out?*",
+      "sol_paragraphs": "P10",
+      "sol_range": [
+        9,
+        10
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Imagine one person fighting with bronze weapons when some idiot showed up with a steel sword and started hacking everyone apart.",
+      "baseline_paragraphs": "P11",
+      "baseline_range": [
+        10,
+        11
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "29",
+      "sol": "Imagine everyone else fighting with bronze weapons when some bastard showed up with a steel sword and started cutting down anyone in his path.",
+      "sol_paragraphs": "P11",
+      "sol_range": [
+        10,
+        11
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Everyone would envy him, and they'd swarm him like a pack of dogs to get their hands on that steel sword.",
+      "baseline_paragraphs": "P12",
+      "baseline_range": [
+        11,
+        12
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "31",
+      "sol": "Everyone would envy him, then swarm like a pack of dogs to get their hands on that steel sword.",
+      "sol_paragraphs": "P12",
+      "sol_range": [
+        11,
+        12
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It wasn't that I didn't trust the members of Peace Guild, but at least at the time, I thought it was the right decision.",
+      "baseline_paragraphs": "P13",
+      "baseline_range": [
+        12,
+        13
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "33",
+      "sol": "It wasn’t that I didn’t trust the members of Peace Guild, but at the time, I believed holding back was the right decision.",
+      "sol_paragraphs": "P13",
+      "sol_range": [
+        12,
+        13
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*But there's no reason to hesitate anymore.*",
+      "baseline_paragraphs": "P14",
+      "baseline_range": [
+        13,
+        14
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "35",
+      "sol": "*But now there’s no reason to hesitate.*",
+      "sol_paragraphs": "P14",
+      "sol_range": [
+        13,
+        14
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "After directly crossing blows with Lee Jungryong and his subordinates, Park Jihoon and Go Jun, I had realized that there were secrets in the modern world I knew nothing about.",
+      "baseline_paragraphs": "P15",
+      "baseline_range": [
+        14,
+        15
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "37",
+      "sol": "Crossing blows with Lee Jungryong and his subordinates, Park Jihoon and Go Jun, had taught me that the modern world held secrets I knew nothing about.",
+      "sol_paragraphs": "P15",
+      "sol_range": [
+        14,
+        15
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Their movements and use of mana were clearly closer to those of Murim people. If the enemy was armed with steel swords, we needed to equip ourselves with something similar.",
+      "baseline_paragraphs": "P16",
+      "baseline_range": [
+        15,
+        16
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "39",
+      "sol": "Their movements and use of mana were distinctly similar to those of Murim martial artists. If the enemy was armed with steel swords, we needed comparable equipment.",
+      "sol_paragraphs": "P16",
+      "sol_range": [
+        15,
+        16
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As I drew in a deep breath, the foul stench was sucked into my nostrils.",
+      "baseline_paragraphs": "P18",
+      "baseline_range": [
+        17,
+        18
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "43",
+      "sol": "I drew a deep breath, sucking a foul stench into my nostrils.",
+      "sol_paragraphs": "P18",
+      "sol_range": [
+        17,
+        18
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The place where I was squatting right now was a bathroom stall.",
+      "baseline_paragraphs": "P19",
+      "baseline_range": [
+        18,
+        19
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "45",
+      "sol": "I was currently squatting inside a bathroom stall.",
+      "sol_paragraphs": "P19",
+      "sol_range": [
+        18,
+        19
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The environment was terrible, but it was the perfect place to avoid being seen while creating a martial arts manual.",
+      "baseline_paragraphs": "P20",
+      "baseline_range": [
+        19,
+        20
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "47",
+      "sol": "The surroundings were awful, but it was the perfect place to create a martial arts manual without anyone seeing me.",
+      "sol_paragraphs": "P20",
+      "sol_range": [
+        19,
+        20
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Then let's get started.*",
+      "baseline_paragraphs": "P21",
+      "baseline_range": [
+        20,
+        21
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "49",
+      "sol": "*All right. Let’s get started.*",
+      "sol_paragraphs": "P21",
+      "sol_range": [
+        20,
+        21
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I spread out the A4 paper and pen I had bought from the convenience store inside the hospital.",
+      "baseline_paragraphs": "P22",
+      "baseline_range": [
+        21,
+        22
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "51",
+      "sol": "I spread out the A4 paper and pen I had bought from the hospital convenience store.",
+      "sol_paragraphs": "P22",
+      "sol_range": [
+        21,
+        22
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "> **System**\n>\n> All materials are ready.\n>\n> The **Martial Arts Manual Creation** Skill is activated. You can create a martial arts manual for martial arts that have achieved Great Completion.\n>\n> **Currently available:** Jin Family's Cultivation Technique, Jin Family's Manoeuvre Technique, Jin Family's Spear Technique.\n>\n> Select the martial art you want.",
+      "baseline_paragraphs": "P26",
+      "baseline_range": [
+        25,
+        26
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "59",
+      "sol": "> **System**\n>\n> All materials are ready.\n>\n> The **Martial Arts Manual Creation** Skill has been activated. You can create manuals for martial arts that have achieved Great Completion.\n>\n> **Currently Available:** Jin Family’s Cultivation Technique, Jin Family’s Manoeuvre Technique, Jin Family’s Spear Technique\n>\n> Select the desired martial art.",
+      "sol_paragraphs": "P26",
+      "sol_range": [
+        25,
+        26
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "진가심법",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Family's Cultivation Technique"
+        },
+        {
+          "korean": "진가보법",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Family's Manoeuvre Technique"
+        },
+        {
+          "korean": "진가창법",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Family's Spear Technique"
+        }
+      ]
+    },
+    {
+      "baseline": "None of the Fire Gate Clan's martial arts I had learned had reached Great Completion.",
+      "baseline_paragraphs": "P27",
+      "baseline_range": [
+        26,
+        27
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "61",
+      "sol": "None of the Fire Gate Clan’s martial arts I had learned had reached Great Completion.",
+      "sol_paragraphs": "P27",
+      "sol_range": [
+        26,
+        27
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Jin Family of Taiyuan's hereditary martial arts, on the other hand, were stable, and their power was just right.",
+      "baseline_paragraphs": "P28",
+      "baseline_range": [
+        27,
+        28
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "63",
+      "sol": "The Jin Family of Taiyuan’s hereditary martial arts, on the other hand, were stable and reasonably powerful.",
+      "sol_paragraphs": "P28",
+      "sol_range": [
+        27,
+        28
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Of those, I chose the most fundamental one.",
+      "baseline_paragraphs": "P29",
+      "baseline_range": [
+        28,
+        29
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "65",
+      "sol": "Of those, I chose the most fundamental.",
+      "sol_paragraphs": "P29",
+      "sol_range": [
+        28,
+        29
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Select Jin Family's Cultivation Technique.*",
+      "baseline_paragraphs": "P30",
+      "baseline_range": [
+        29,
+        30
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "67",
+      "sol": "*Select Jin Family’s Cultivation Technique.*",
+      "sol_paragraphs": "P30",
+      "sol_range": [
+        29,
+        30
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "진가심법",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Family's Cultivation Technique"
+        }
+      ]
+    },
+    {
+      "baseline": "> **System**\n>\n> Create a martial arts manual for **Jin Family's Cultivation Technique**?\n>\n> **Y / N**",
+      "baseline_paragraphs": "P32",
+      "baseline_range": [
+        31,
+        32
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "73",
+      "sol": "> **System**\n>\n> Create a martial arts manual for **Jin Family’s Cultivation Technique**?\n>\n> **Y / N**",
+      "sol_paragraphs": "P32",
+      "sol_range": [
+        31,
+        32
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "진가심법",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Family's Cultivation Technique"
+        }
+      ]
+    },
+    {
+      "baseline": "> **System**\n>\n> Intelligence insufficient! Brainpower insufficient!\n>\n> Teaching is several times more difficult than learning!\n>\n> To create a manual for a **Peak**-Grade martial art, you need at least 100 Intelligence!",
+      "baseline_paragraphs": "P35",
+      "baseline_range": [
+        34,
+        35
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "81",
+      "sol": "> **System**\n>\n> Intelligence insufficient! Brainpower insufficient!\n>\n> Teaching is several times harder than learning!\n>\n> Creating a manual for a **Peak**-Grade martial art requires at least 100 Intelligence!",
+      "sol_paragraphs": "P35",
+      "sol_range": [
+        34,
+        35
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“...You bastards. Seriously.”",
+      "baseline_paragraphs": "P36",
+      "baseline_range": [
+        35,
+        36
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "83",
+      "sol": "“…You bastards. Seriously.”",
+      "sol_paragraphs": "P36",
+      "sol_range": [
+        35,
+        36
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "With tears of blood streaming down my face, I opened my Status Window.",
+      "baseline_paragraphs": "P37",
+      "baseline_range": [
+        36,
+        37
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "85",
+      "sol": "Weeping tears of blood, I opened my Status Window.",
+      "sol_paragraphs": "P37",
+      "sol_range": [
+        36,
+        37
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As I invested my precious points into Intelligence, the hand holding the pen began to race across the A4 paper like lightning.",
+      "baseline_paragraphs": "P38",
+      "baseline_range": [
+        37,
+        38
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "87",
+      "sol": "The moment I poured my precious points into Intelligence, the hand holding the pen began racing across the A4 paper like lightning.",
+      "sol_paragraphs": "P38",
+      "sol_range": [
+        37,
+        38
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I was surprised twice.",
+      "baseline_paragraphs": "P41",
+      "baseline_range": [
+        40,
+        41
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "95",
+      "sol": "I received two shocks.",
+      "sol_paragraphs": "P41",
+      "sol_range": [
+        40,
+        41
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Once by that incredible speed, and a second time by the fact that everything being written was in Chinese.",
+      "baseline_paragraphs": "P42",
+      "baseline_range": [
+        41,
+        42
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "99",
+      "sol": "The first was the incredible speed. The second was that everything being written was in Chinese.",
+      "sol_paragraphs": "P42",
+      "sol_range": [
+        41,
+        42
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“...”",
+      "baseline_paragraphs": "P43",
+      "baseline_range": [
+        42,
+        43
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "101",
+      "sol": "“…”",
+      "sol_paragraphs": "P43",
+      "sol_range": [
+        42,
+        43
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Fuck, I can't work like this.",
+      "baseline_paragraphs": "P44",
+      "baseline_range": [
+        43,
+        44
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "105",
+      "sol": "Fuck this. I can’t work like this.",
+      "sol_paragraphs": "P44",
+      "sol_range": [
+        43,
+        44
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I began searching for the language settings.",
+      "baseline_paragraphs": "P45",
+      "baseline_range": [
+        44,
+        45
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "107",
+      "sol": "I began desperately searching for the language settings.",
+      "sol_paragraphs": "P45",
+      "sol_range": [
+        44,
+        45
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Slide.",
+      "baseline_paragraphs": "P47",
+      "baseline_range": [
+        46,
+        47
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "113",
+      "sol": "The door slid open.",
+      "sol_paragraphs": "P47",
+      "sol_range": [
+        46,
+        47
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I entered the hospital room where the Peace Guild members were staying. The people who had been huddled together talking turned their heads toward me.",
+      "baseline_paragraphs": "P48",
+      "baseline_range": [
+        47,
+        48
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "115",
+      "sol": "I entered the hospital room where the Peace Guild members were staying. Everyone had been gathered together talking, but they turned toward me as I came in.",
+      "sol_paragraphs": "P48",
+      "sol_range": [
+        47,
+        48
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Where did you go that took so long... Wait, did you go to the bathroom?”",
+      "baseline_paragraphs": "P49",
+      "baseline_range": [
+        48,
+        49
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "117",
+      "sol": "“Where did you go that took so long… Wait, were you in the bathroom?”",
+      "sol_paragraphs": "P49",
+      "sol_range": [
+        48,
+        49
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At Song Song's words, spoken while she held her nose, I answered gloomily.",
+      "baseline_paragraphs": "P50",
+      "baseline_range": [
+        49,
+        50
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "119",
+      "sol": "Song Song pinched her nose. I answered gloomily.",
+      "sol_paragraphs": "P50",
+      "sol_range": [
+        49,
+        50
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The smell of shit was overwhelming.”",
+      "baseline_paragraphs": "P52",
+      "baseline_range": [
+        51,
+        52
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "123",
+      "sol": "“You reek of shit.”",
+      "sol_paragraphs": "P52",
+      "sol_range": [
+        51,
+        52
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Yeah. It felt like a giant turd was walking toward me.”",
+      "baseline_paragraphs": "P54",
+      "baseline_range": [
+        53,
+        54
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "127",
+      "sol": "“Yeah. I thought a giant turd had walked into the room.”",
+      "sol_paragraphs": "P54",
+      "sol_range": [
+        53,
+        54
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Thanks for the kind words. I feel invigorated.”",
+      "baseline_paragraphs": "P55",
+      "baseline_range": [
+        54,
+        55
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "129",
+      "sol": "“Thanks for the kind words. I feel stronger already.”",
+      "sol_paragraphs": "P55",
+      "sol_range": [
+        54,
+        55
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "After spending more than an hour inside a stinking bathroom stall, my nose had gone numb.",
+      "baseline_paragraphs": "P56",
+      "baseline_range": [
+        55,
+        56
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "131",
+      "sol": "After spending over an hour inside a stinking bathroom stall, my nose had gone numb.",
+      "sol_paragraphs": "P56",
+      "sol_range": [
+        55,
+        56
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I answered in a completely drained voice and handed her the stack of A4 pages I had stapled together.",
+      "baseline_paragraphs": "P57",
+      "baseline_range": [
+        56,
+        57
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "135",
+      "sol": "I answered in a drained voice and handed her the stack of stapled A4 pages.",
+      "sol_paragraphs": "P57",
+      "sol_range": [
+        56,
+        57
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What is this?”",
+      "baseline_paragraphs": "P59",
+      "baseline_range": [
+        58,
+        59
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "141",
+      "sol": "“What’s this?”",
+      "sol_paragraphs": "P59",
+      "sol_range": [
+        58,
+        59
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“A love letter for you. I wrote it while having diarrhea.”",
+      "baseline_paragraphs": "P60",
+      "baseline_range": [
+        59,
+        60
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "143",
+      "sol": "“A love letter for you. I wrote it while I had diarrhea.”",
+      "sol_paragraphs": "P60",
+      "sol_range": [
+        59,
+        60
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“...”",
+      "baseline_paragraphs": "P64",
+      "baseline_range": [
+        63,
+        64
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "151",
+      "sol": "“…”",
+      "sol_paragraphs": "P64",
+      "sol_range": [
+        63,
+        64
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That wasn't a reaction. She was genuinely sick.",
+      "baseline_paragraphs": "P65",
+      "baseline_range": [
+        64,
+        65
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "153",
+      "sol": "That wasn’t a reaction. She was genuinely retching.",
+      "sol_paragraphs": "P65",
+      "sol_range": [
+        64,
+        65
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I thought things between us were already over, but I couldn't help the dull ache in a corner of my heart.",
+      "baseline_paragraphs": "P66",
+      "baseline_range": [
+        65,
+        66
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "155",
+      "sol": "I had thought there was nothing left between us to salvage, but I still couldn’t help the dull ache in a corner of my heart.",
+      "sol_paragraphs": "P66",
+      "sol_range": [
+        65,
+        66
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I loved you...”",
+      "baseline_paragraphs": "P67",
+      "baseline_range": [
+        66,
+        67
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "157",
+      "sol": "“I loved you…”",
+      "sol_paragraphs": "P67",
+      "sol_range": [
+        66,
+        67
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As her retching grew more violent, Butler Kim flew over to pat her on the back.",
+      "baseline_paragraphs": "P70",
+      "baseline_range": [
+        69,
+        70
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "163",
+      "sol": "As her retching grew more violent, Butler Kim flew to her side and began patting her back.",
+      "sol_paragraphs": "P70",
+      "sol_range": [
+        69,
+        70
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "In the meantime, the A4 pages Song Song had been waving around like the Taegeukgi[^1] passed into someone else's hands.",
+      "baseline_paragraphs": "P71",
+      "baseline_range": [
+        70,
+        71
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "165",
+      "sol": "Meanwhile, the A4 pages Song Song had been waving like the Taegeukgi[^1] passed into someone else’s hands.",
+      "sol_paragraphs": "P71",
+      "sol_range": [
+        70,
+        71
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "After reading the words on the first page, Team Leader Choi let out a quiet laugh as he looked at me.",
+      "baseline_paragraphs": "P72",
+      "baseline_range": [
+        71,
+        72
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "167",
+      "sol": "Team Leader Choi read the words on the first page, then let out a quiet laugh as he looked at me.",
+      "sol_paragraphs": "P72",
+      "sol_range": [
+        71,
+        72
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Jin Family's Cultivation Technique? That's an unusual title for a love letter.”",
+      "baseline_paragraphs": "P73",
+      "baseline_range": [
+        72,
+        73
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "169",
+      "sol": "“Jin Family’s Cultivation Technique? That’s an unusual title for a love letter.”",
+      "sol_paragraphs": "P73",
+      "sol_range": [
+        72,
+        73
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "진가심법",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Family's Cultivation Technique"
+        }
+      ]
+    },
+    {
+      "baseline": "“The contents are even more unusual.”",
+      "baseline_paragraphs": "P74",
+      "baseline_range": [
+        73,
+        74
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "171",
+      "sol": "“What’s written inside is even more unusual.”",
+      "sol_paragraphs": "P74",
+      "sol_range": [
+        73,
+        74
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“...Pardon?”",
+      "baseline_paragraphs": "P75",
+      "baseline_range": [
+        74,
+        75
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "173",
+      "sol": "“…Pardon?”",
+      "sol_paragraphs": "P75",
+      "sol_range": [
+        74,
+        75
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Team Leader Choi was quick on the uptake. He immediately straightened his posture and turned the pages with a solemn expression.",
+      "baseline_paragraphs": "P77",
+      "baseline_range": [
+        76,
+        77
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "177",
+      "sol": "Team Leader Choi was quick on the uptake. He immediately straightened and began turning the pages with a solemn expression.",
+      "sol_paragraphs": "P77",
+      "sol_range": [
+        76,
+        77
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A pair of eyes moved busily over handwriting so mechanical that it was hard to believe I had written it myself.",
+      "baseline_paragraphs": "P78",
+      "baseline_range": [
+        77,
+        78
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "179",
+      "sol": "His eyes raced across handwriting so mechanical that it was hard to believe I had written it myself.",
+      "sol_paragraphs": "P78",
+      "sol_range": [
+        77,
+        78
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "After rapidly reading through more than ten pages, he suddenly lifted his head. His eyes had widened like trays.",
+      "baseline_paragraphs": "P81",
+      "baseline_range": [
+        80,
+        81
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "185",
+      "sol": "After tearing through ten-odd pages in an instant, he jerked his head up. His eyes had widened like saucers.",
+      "sol_paragraphs": "P81",
+      "sol_range": [
+        80,
+        81
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“This is...!”",
+      "baseline_paragraphs": "P82",
+      "baseline_range": [
+        81,
+        82
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "187",
+      "sol": "“This is…!”",
+      "sol_paragraphs": "P82",
+      "sol_range": [
+        81,
+        82
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His reaction surprised even me.",
+      "baseline_paragraphs": "P83",
+      "baseline_range": [
+        82,
+        83
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "189",
+      "sol": "Even I was taken aback by his reaction.",
+      "sol_paragraphs": "P83",
+      "sol_range": [
+        82,
+        83
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was called a martial arts manual, but once I had actually created it, the manual for the Jin Family's Cultivation Technique looked enough like a book of traditional medicine that anyone unfamiliar with it might mistake it for one.",
+      "baseline_paragraphs": "P85",
+      "baseline_range": [
+        84,
+        85
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "193",
+      "sol": "It might have been called a martial arts manual, but now that I had made it, anyone unfamiliar with the Jin Family’s Cultivation Technique could easily have mistaken the manual for a traditional medicine text.",
+      "sol_paragraphs": "P85",
+      "sol_range": [
+        84,
+        85
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "진가심법",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Family's Cultivation Technique"
+        }
+      ]
+    },
+    {
+      "baseline": "It showed the locations and functions of the countless acupoints in the human body, along with the paths used to circulate internal energy.",
+      "baseline_paragraphs": "P86",
+      "baseline_range": [
+        85,
+        86
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "195",
+      "sol": "It detailed the locations and functions of the countless acupoints in the human body, along with the pathways used to circulate internal energy.",
+      "sol_paragraphs": "P86",
+      "sol_range": [
+        85,
+        86
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Song Song would have read a few pages and closed it, but Team Leader Choi's reaction was far beyond what I had expected.",
+      "baseline_paragraphs": "P87",
+      "baseline_range": [
+        86,
+        87
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "197",
+      "sol": "Song Song would have read a few pages and closed it, but Team Leader Choi’s reaction went far beyond anything I had expected.",
+      "sol_paragraphs": "P87",
+      "sol_range": [
+        86,
+        87
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Do you recognize what this is?”",
+      "baseline_paragraphs": "P88",
+      "baseline_range": [
+        87,
+        88
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "199",
+      "sol": "“Do you recognize it?”",
+      "sol_paragraphs": "P88",
+      "sol_range": [
+        87,
+        88
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Then a name I was hearing for the first time slipped between his lips.",
+      "baseline_paragraphs": "P90",
+      "baseline_range": [
+        89,
+        90
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "203",
+      "sol": "Then a term I had never heard before slipped from his lips.",
+      "sol_paragraphs": "P90",
+      "sol_range": [
+        89,
+        90
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "What a bizarre name. Whoever came up with it had a strange naming sense.",
+      "baseline_paragraphs": "P95",
+      "baseline_range": [
+        94,
+        95
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "213",
+      "sol": "What a bizarre name. Whoever had coined it possessed a strange sense of style.",
+      "sol_paragraphs": "P95",
+      "sol_range": [
+        94,
+        95
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At that moment, Butler Kim hurried over after hearing Team Leader Choi's raised voice.",
+      "baseline_paragraphs": "P96",
+      "baseline_range": [
+        95,
+        96
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "215",
+      "sol": "Butler Kim hurried over when he heard Team Leader Choi raise his voice.",
+      "sol_paragraphs": "P96",
+      "sol_range": [
+        95,
+        96
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Yes, here.”",
+      "baseline_paragraphs": "P98",
+      "baseline_range": [
+        97,
+        98
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "219",
+      "sol": "“Yes. Here.”",
+      "sol_paragraphs": "P98",
+      "sol_range": [
+        97,
+        98
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Butler Kim took the manual from Team Leader Choi and frantically turned the pages.",
+      "baseline_paragraphs": "P99",
+      "baseline_range": [
+        98,
+        99
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "221",
+      "sol": "Butler Kim took the manual from Team Leader Choi and frantically flipped through the pages.",
+      "sol_paragraphs": "P99",
+      "sol_range": [
+        98,
+        99
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Before long, he gave a similar reaction.",
+      "baseline_paragraphs": "P100",
+      "baseline_range": [
+        99,
+        100
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "223",
+      "sol": "Before long, he reacted much the same way.",
+      "sol_paragraphs": "P100",
+      "sol_range": [
+        99,
+        100
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“It’s certain. This is definitely a Mana Cultivation Method. But where on earth did you...?”",
+      "baseline_paragraphs": "P103",
+      "baseline_range": [
+        102,
+        103
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "229",
+      "sol": "“There’s no doubt about it. This is definitely a Mana Cultivation Method. But where on earth did this come from?”",
+      "sol_paragraphs": "P103",
+      "sol_range": [
+        102,
+        103
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I got it from the bathroom.",
+      "baseline_paragraphs": "P104",
+      "baseline_range": [
+        103,
+        104
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "231",
+      "sol": "The bathroom.",
+      "sol_paragraphs": "P104",
+      "sol_range": [
+        103,
+        104
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "“Mr. Jin Taekyung...”",
+      "baseline_paragraphs": "P106",
+      "baseline_range": [
+        105,
+        106
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "235",
+      "sol": "“Mr. Jin Taekyung…”",
+      "sol_paragraphs": "P106",
+      "sol_range": [
+        105,
+        106
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Before Team Leader Choi could even finish speaking, Butler Kim's head snapped toward me with a violent sound.",
+      "baseline_paragraphs": "P109",
+      "baseline_range": [
+        108,
+        109
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "241",
+      "sol": "Before Team Leader Choi could finish, Butler Kim’s head snapped toward me with a series of violent cracks.",
+      "sol_paragraphs": "P109",
+      "sol_range": [
+        108,
+        109
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "절정",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Peak"
+        }
+      ]
+    },
+    {
+      "baseline": "“For starters, I don't know what a Mana Cultivation Method is. Naturally, this is the first I've heard of this being one. By the way, is your neck all right? I think I just heard a bone break...”",
+      "baseline_paragraphs": "P112",
+      "baseline_range": [
+        111,
+        112
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "247",
+      "sol": "“For starters, I don’t know what a Mana Cultivation Method is. Naturally, this is also the first I’ve heard of that thing being one. By the way, is your neck all right? I could’ve sworn I just heard a bone break…”",
+      "sol_paragraphs": "P112",
+      "sol_range": [
+        111,
+        112
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“...It sounds pretty important to me.”",
+      "baseline_paragraphs": "P114",
+      "baseline_range": [
+        113,
+        114
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "251",
+      "sol": "“…It sounds pretty important to me.”",
+      "sol_paragraphs": "P114",
+      "sol_range": [
+        113,
+        114
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "What do you mean, it can break? This old man seemed to be getting tougher by the day.",
+      "baseline_paragraphs": "P115",
+      "baseline_range": [
+        114,
+        115
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "253",
+      "sol": "What did he mean, it could break? This old man seemed to be getting tougher by the day.",
+      "sol_paragraphs": "P115",
+      "sol_range": [
+        114,
+        115
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Of course, that only meant this matter was that important.",
+      "baseline_paragraphs": "P116",
+      "baseline_range": [
+        115,
+        116
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "255",
+      "sol": "Of course, that only showed how important this was.",
+      "sol_paragraphs": "P116",
+      "sol_range": [
+        115,
+        116
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It had sounded strange at first because it was a kind of compound word, but after muttering it a few times, it rolled smoothly off my tongue.",
+      "baseline_paragraphs": "P118",
+      "baseline_range": [
+        117,
+        118
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "259",
+      "sol": "The compound term had sounded strange at first, but after repeating it a few times, it began to roll smoothly off my tongue.",
+      "sol_paragraphs": "P118",
+      "sol_range": [
+        117,
+        118
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It wasn't difficult to infer from the meaning of the word that this was the internal cultivation technique used by Hunters.",
+      "baseline_paragraphs": "P119",
+      "baseline_range": [
+        118,
+        119
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "261",
+      "sol": "It wasn’t hard to infer from the name that it referred to an internal cultivation technique used by Hunters.",
+      "sol_paragraphs": "P119",
+      "sol_range": [
+        118,
+        119
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And that this was precisely what Lee Jungryong and his subordinates had learned.",
+      "baseline_paragraphs": "P120",
+      "baseline_range": [
+        119,
+        120
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "263",
+      "sol": "And that Lee Jungryong and his subordinates had learned precisely such a technique.",
+      "sol_paragraphs": "P120",
+      "sol_range": [
+        119,
+        120
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Could you answer my question, please?”",
+      "baseline_paragraphs": "P121",
+      "baseline_range": [
+        120,
+        121
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "265",
+      "sol": "“Could you please answer my question?”",
+      "sol_paragraphs": "P121",
+      "sol_range": [
+        120,
+        121
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Taekyung, this is an extremely important matter.”",
+      "baseline_paragraphs": "P122",
+      "baseline_range": [
+        121,
+        122
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "267",
+      "sol": "“Taekyung, this is extremely important.”",
+      "sol_paragraphs": "P122",
+      "sol_range": [
+        121,
+        122
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Butler Kim and Team Leader Choi looked more serious than ever.",
+      "baseline_paragraphs": "P123",
+      "baseline_range": [
+        122,
+        123
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "269",
+      "sol": "Butler Kim and Team Leader Choi looked more grave than ever.",
+      "sol_paragraphs": "P123",
+      "sol_range": [
+        122,
+        123
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I rolled my eyes as if flustered, then gave them the answer I had prepared in advance.",
+      "baseline_paragraphs": "P124",
+      "baseline_range": [
+        123,
+        124
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "271",
+      "sol": "I glanced around as though flustered, then gave them the answer I had prepared in advance.",
+      "sol_paragraphs": "P124",
+      "sol_range": [
+        123,
+        124
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Well, my father taught it to me when I was young...”",
+      "baseline_paragraphs": "P125",
+      "baseline_range": [
+        124,
+        125
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "273",
+      "sol": "“Well, my father taught it to me when I was young…”",
+      "sol_paragraphs": "P125",
+      "sol_range": [
+        124,
+        125
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Then how did he know a Mana Cultivation Method...?”",
+      "baseline_paragraphs": "P131",
+      "baseline_range": [
+        130,
+        131
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "285",
+      "sol": "“Then how did he know a Mana Cultivation Method…?”",
+      "sol_paragraphs": "P131",
+      "sol_range": [
+        130,
+        131
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“He probably didn't know either. When he taught it to me, he told me it was just a health regimen passed down through our family.”",
+      "baseline_paragraphs": "P132",
+      "baseline_range": [
+        131,
+        132
+      ],
+      "hunk_id": "H086",
+      "korean_lines": "287",
+      "sol": "“He probably didn’t know either. When he taught it to me, he said it was just a health regimen passed down through our family.”",
+      "sol_paragraphs": "P132",
+      "sol_range": [
+        131,
+        132
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“A Mana Cultivation Method passed down through the family...”",
+      "baseline_paragraphs": "P134",
+      "baseline_range": [
+        133,
+        134
+      ],
+      "hunk_id": "H087",
+      "korean_lines": "291",
+      "sol": "“A Mana Cultivation Method passed down through the family…”",
+      "sol_paragraphs": "P134",
+      "sol_range": [
+        133,
+        134
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I pointed at the cover as the two of them stared at me in disbelief.",
+      "baseline_paragraphs": "P135",
+      "baseline_range": [
+        134,
+        135
+      ],
+      "hunk_id": "H088",
+      "korean_lines": "293",
+      "sol": "As the two stared at me in disbelief, I pointed to the cover.",
+      "sol_paragraphs": "P135",
+      "sol_range": [
+        134,
+        135
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Four neat characters were written on it in a font as orderly as that of an office document.",
+      "baseline_paragraphs": "P136",
+      "baseline_range": [
+        135,
+        136
+      ],
+      "hunk_id": "H089",
+      "korean_lines": "295",
+      "sol": "Four neat characters were printed there in lettering as clean as an office document’s font.",
+      "sol_paragraphs": "P136",
+      "sol_range": [
+        135,
+        136
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "**Jin Family's Cultivation Technique**",
+      "baseline_paragraphs": "P137",
+      "baseline_range": [
+        136,
+        137
+      ],
+      "hunk_id": "H090",
+      "korean_lines": "297",
+      "sol": "**Jin Family’s Cultivation Technique**",
+      "sol_paragraphs": "P137",
+      "sol_range": [
+        136,
+        137
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "진가심법",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Family's Cultivation Technique"
+        }
+      ]
+    },
+    {
+      "baseline": "The name was perfect.",
+      "baseline_paragraphs": "P138",
+      "baseline_range": [
+        137,
+        138
+      ],
+      "hunk_id": "H091",
+      "korean_lines": "299",
+      "sol": "Even the name was perfect.",
+      "sol_paragraphs": "P138",
+      "sol_range": [
+        137,
+        138
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If there was a Jin Family of Taiyuan in Shanxi Province, then there was a Jin Family of Goyang in Gyeonggi Province. That was all there was to it.",
+      "baseline_paragraphs": "P139",
+      "baseline_range": [
+        138,
+        139
+      ],
+      "hunk_id": "H092",
+      "korean_lines": "301",
+      "sol": "If Shanxi Province had the Jin Family of Taiyuan, then Gyeonggi Province had the Jin Family of Goyang. Simple as that.",
+      "sol_paragraphs": "P139",
+      "sol_range": [
+        138,
+        139
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If I claimed it was a family heirloom passed down through the generations, they wouldn't have much to say.",
+      "baseline_paragraphs": "P140",
+      "baseline_range": [
+        139,
+        140
+      ],
+      "hunk_id": "H093",
+      "korean_lines": "303",
+      "sol": "If I claimed it was a family heirloom passed down through the generations, they wouldn’t have much to argue with.",
+      "sol_paragraphs": "P140",
+      "sol_range": [
+        139,
+        140
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Just as I had expected, both of them were briefly rendered speechless. I continued.",
+      "baseline_paragraphs": "P141",
+      "baseline_range": [
+        140,
+        141
+      ],
+      "hunk_id": "H094",
+      "korean_lines": "305",
+      "sol": "As expected, they were both briefly rendered speechless. I continued.",
+      "sol_paragraphs": "P141",
+      "sol_range": [
+        140,
+        141
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“It’s a kind of breathing method. My father taught it to me from a young age, saying it would make me healthier if I practiced it. He even made me memorize something called a formula.”",
+      "baseline_paragraphs": "P142",
+      "baseline_range": [
+        141,
+        142
+      ],
+      "hunk_id": "H095",
+      "korean_lines": "307",
+      "sol": "“It’s a kind of breathing method. My father started teaching it to me when I was young, saying that practicing it would make me healthier. He even made me memorize something called a formula word for word.”",
+      "sol_paragraphs": "P142",
+      "sol_range": [
+        141,
+        142
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“It is similar to a Mana Cultivation Method, but...”",
+      "baseline_paragraphs": "P143",
+      "baseline_range": [
+        142,
+        143
+      ],
+      "hunk_id": "H096",
+      "korean_lines": "309",
+      "sol": "“It is similar to a Mana Cultivation Method, but…”",
+      "sol_paragraphs": "P143",
+      "sol_range": [
+        142,
+        143
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“After my father passed away, I was too distracted by everything that happened... I looked for it after we moved, but it was gone.”",
+      "baseline_paragraphs": "P145",
+      "baseline_range": [
+        144,
+        145
+      ],
+      "hunk_id": "H097",
+      "korean_lines": "313",
+      "sol": "“After my father passed away, everything was so chaotic… I looked for it after we moved, but it was gone.”",
+      "sol_paragraphs": "P145",
+      "sol_range": [
+        144,
+        145
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Ah...”",
+      "baseline_paragraphs": "P146",
+      "baseline_range": [
+        145,
+        146
+      ],
+      "hunk_id": "H098",
+      "korean_lines": "315",
+      "sol": "“Ah…”",
+      "sol_paragraphs": "P146",
+      "sol_range": [
+        145,
+        146
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“It is. Fortunately, I memorized every word of it.”",
+      "baseline_paragraphs": "P148",
+      "baseline_range": [
+        147,
+        148
+      ],
+      "hunk_id": "H099",
+      "korean_lines": "321",
+      "sol": "“It is. Fortunately, I memorized every last word.”",
+      "sol_paragraphs": "P148",
+      "sol_range": [
+        147,
+        148
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was true that something I owned had disappeared. I had simply inserted the nonexistent original manual for the Jin Family's Cultivation Technique into the story.",
+      "baseline_paragraphs": "P149",
+      "baseline_range": [
+        148,
+        149
+      ],
+      "hunk_id": "H100",
+      "korean_lines": "325",
+      "sol": "It was true that something I owned had disappeared. I had merely slipped the nonexistent original manual for the Jin Family’s Cultivation Technique into the story.",
+      "sol_paragraphs": "P149",
+      "sol_range": [
+        148,
+        149
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "진가심법",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Family's Cultivation Technique"
+        }
+      ]
+    },
+    {
+      "baseline": "Perfect destruction of evidence. When I said even the original was gone, I could see both of their shoulders droop.",
+      "baseline_paragraphs": "P150",
+      "baseline_range": [
+        149,
+        150
+      ],
+      "hunk_id": "H101",
+      "korean_lines": "327",
+      "sol": "Perfect destruction of evidence. When they heard that even the original was gone, both of their shoulders sagged.",
+      "sol_paragraphs": "P150",
+      "sol_range": [
+        149,
+        150
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*It would be interesting to see their faces if they knew this was the original.*",
+      "baseline_paragraphs": "P151",
+      "baseline_range": [
+        150,
+        151
+      ],
+      "hunk_id": "H102",
+      "korean_lines": "329",
+      "sol": "*I’d love to see their faces if they knew this was the original.*",
+      "sol_paragraphs": "P151",
+      "sol_range": [
+        150,
+        151
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Half-rotted bamboo slips. Ancient books that smelled of rat urine.",
+      "baseline_paragraphs": "P153",
+      "baseline_range": [
+        152,
+        153
+      ],
+      "hunk_id": "H103",
+      "korean_lines": "333",
+      "sol": "Half-rotted bamboo slips. Ancient books reeking of rat piss.",
+      "sol_paragraphs": "P153",
+      "sol_range": [
+        152,
+        153
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Tell them to go play jokgu.[^2] I don't have any of that crap.",
+      "baseline_paragraphs": "P154",
+      "baseline_range": [
+        153,
+        154
+      ],
+      "hunk_id": "H104",
+      "korean_lines": "335",
+      "sol": "They could go play jokgu.[^2] I didn’t have any of that crap.",
+      "sol_paragraphs": "P154",
+      "sol_range": [
+        153,
+        154
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I stood the stiff stack of A4 paper neatly upright and slammed a stapler into it. Murim people would have been aghast, but a twenty-first-century martial arts manual had to look something like this.",
+      "baseline_paragraphs": "P155",
+      "baseline_range": [
+        154,
+        155
+      ],
+      "hunk_id": "H105",
+      "korean_lines": "337",
+      "sol": "I stood the crisp stack of A4 paper upright and slammed a stapler through it. Murim martial artists would have been appalled, but a twenty-first-century martial arts manual deserved to look the part.",
+      "sol_paragraphs": "P155",
+      "sol_range": [
+        154,
+        155
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“By the way, this is incredible. A cultivation technique... I never imagined something like this existed.”",
+      "baseline_paragraphs": "P156",
+      "baseline_range": [
+        155,
+        156
+      ],
+      "hunk_id": "H106",
+      "korean_lines": "339",
+      "sol": "“Still, this is extraordinary. A cultivation technique… I never imagined such a thing truly existed.”",
+      "sol_paragraphs": "P156",
+      "sol_range": [
+        155,
+        156
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I’ve seen things like this mentioned a few times in novels and movies. I think they called them martial arts.”",
+      "baseline_paragraphs": "P157",
+      "baseline_range": [
+        156,
+        157
+      ],
+      "hunk_id": "H107",
+      "korean_lines": "341",
+      "sol": "“I’ve seen them mentioned a few times in novels and movies. I believe they called them martial arts.”",
+      "sol_paragraphs": "P157",
+      "sol_range": [
+        156,
+        157
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You are right, Young Master. In a way, a Mana Cultivation Method is also a form of martial arts. If you look here, it says that channeling circulates and accumulates qi, doesn’t it? This follows the same general principle as a Mana Cultivation Method...”",
+      "baseline_paragraphs": "P158",
+      "baseline_range": [
+        157,
+        158
+      ],
+      "hunk_id": "H108",
+      "korean_lines": "343",
+      "sol": "“You are correct, Young Master. In a sense, a Mana Cultivation Method is also a form of martial arts. Look here. It says that qi is circulated and accumulated through energy circulation, does it not? This operates on the same principle as a Mana Cultivation Method…”",
+      "sol_paragraphs": "P158",
+      "sol_range": [
+        157,
+        158
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Yeah, it is martial arts.*",
+      "baseline_paragraphs": "P159",
+      "baseline_range": [
+        158,
+        159
+      ],
+      "hunk_id": "H109",
+      "korean_lines": "345",
+      "sol": "*Yeah, because it is martial arts.*",
+      "sol_paragraphs": "P159",
+      "sol_range": [
+        158,
+        159
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "While I held back the words itching to escape my mouth, Team Leader Choi asked,",
+      "baseline_paragraphs": "P160",
+      "baseline_range": [
+        159,
+        160
+      ],
+      "hunk_id": "H110",
+      "korean_lines": "347",
+      "sol": "While I fought back the words itching to escape my mouth, Team Leader Choi asked me a question.",
+      "sol_paragraphs": "P160",
+      "sol_range": [
+        159,
+        160
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“So, Mr. Jin Taekyung, you’ve been practicing Mana Cultivation Method—or rather, the Jin Family's Cultivation Technique—since you were young?”",
+      "baseline_paragraphs": "P161",
+      "baseline_range": [
+        160,
+        161
+      ],
+      "hunk_id": "H111",
+      "korean_lines": "349",
+      "sol": "“Then, Mr. Jin Taekyung, have you been practicing a Mana Cultivation Method—or rather, the Jin Family’s Cultivation Technique—since childhood?”",
+      "sol_paragraphs": "P161",
+      "sol_range": [
+        160,
+        161
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "진가심법",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Family's Cultivation Technique"
+        }
+      ]
+    },
+    {
+      "baseline": "“I’m sorry to put it this way, but its effects seem to have been somewhat less impressive than expected...”",
+      "baseline_paragraphs": "P163",
+      "baseline_range": [
+        162,
+        163
+      ],
+      "hunk_id": "H112",
+      "korean_lines": "353",
+      "sol": "“I’m sorry to put it this way, but its effects seem somewhat less impressive than expected…”",
+      "sol_paragraphs": "P163",
+      "sol_range": [
+        162,
+        163
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Translated directly, he was asking, *If you had this, why did you spend seven years as an F-rank Hunter?* It was a sharp question. And one I had expected.",
+      "baseline_paragraphs": "P164",
+      "baseline_range": [
+        163,
+        164
+      ],
+      "hunk_id": "H113",
+      "korean_lines": "355",
+      "sol": "Translated directly, he was asking, *If you had this, why did you spend seven years as an F-rank Hunter?*",
+      "sol_paragraphs": "P164",
+      "sol_range": [
+        163,
+        164
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "",
+      "baseline_paragraphs": "after P164",
+      "baseline_range": [
+        164,
+        164
+      ],
+      "hunk_id": "H114",
+      "korean_lines": "355",
+      "sol": "A sharp question. Also one I had expected.",
+      "sol_paragraphs": "P165",
+      "sol_range": [
+        164,
+        165
+      ],
+      "tag": "insert",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I calmly opened my mouth.",
+      "baseline_paragraphs": "P165",
+      "baseline_range": [
+        164,
+        165
+      ],
+      "hunk_id": "H115",
+      "korean_lines": "357",
+      "sol": "I answered without batting an eye.",
+      "sol_paragraphs": "P166",
+      "sol_range": [
+        165,
+        166
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“As you know, I was quite skilled for an F-rank Hunter. I even received a commendation as the top graduate of my training center.”",
+      "baseline_paragraphs": "P166",
+      "baseline_range": [
+        165,
+        166
+      ],
+      "hunk_id": "H116",
+      "korean_lines": "359",
+      "sol": "“As you know, I was quite skilled for an F-rank Hunter. I even received a commendation for graduating at the top of my training center.”",
+      "sol_paragraphs": "P167",
+      "sol_range": [
+        166,
+        167
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Ah, yes. I’ve heard about that. I also know that you served as a deputy team leader at your former Guild.”",
+      "baseline_paragraphs": "P167",
+      "baseline_range": [
+        166,
+        167
+      ],
+      "hunk_id": "H117",
+      "korean_lines": "361",
+      "sol": "“Ah, yes. I heard about that. I also know you served as a deputy team leader in your former Guild.”",
+      "sol_paragraphs": "P168",
+      "sol_range": [
+        167,
+        168
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It had been a tiny, weak Guild, but F-rank Hunters were treated like punching bags wherever they went and like dog shit on the street.",
+      "baseline_paragraphs": "P168",
+      "baseline_range": [
+        167,
+        168
+      ],
+      "hunk_id": "H118",
+      "korean_lines": "363",
+      "sol": "Granted, it had been a tiny, weak Guild, but F-rank Hunters were treated like punching bags wherever they went—like dog shit on the street.",
+      "sol_paragraphs": "P169",
+      "sol_range": [
+        168,
+        169
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Unless they were related by blood to the Guild's leadership, it was extremely rare for an F-rank Hunter to serve as a deputy team leader. That was why my appointment had been a subject of conversation within the Guild for quite some time.",
+      "baseline_paragraphs": "P169",
+      "baseline_range": [
+        168,
+        169
+      ],
+      "hunk_id": "H119",
+      "korean_lines": "365",
+      "sol": "Unless they were related to the Guild’s leadership, it was extremely rare for an F-rank Hunter to become a deputy team leader. That was why my appointment had remained a hot topic within the Guild for quite some time.",
+      "sol_paragraphs": "P170",
+      "sol_range": [
+        169,
+        170
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“There was a lot of talk about it. People complained about seniority and all that, while Hunters with higher ranks and more experience than me grumbled about the pecking order... In the end, I proved myself through my ability. And the reason I was able to do that was the Jin Family's Cultivation Technique.”",
+      "baseline_paragraphs": "P170",
+      "baseline_range": [
+        169,
+        170
+      ],
+      "hunk_id": "H120",
+      "korean_lines": "367",
+      "sol": "“There was a lot of talk about it. Hunters with higher ranks and more experience than me complained about seniority and grumbled that they should have come first… In the end, I proved myself through sheer ability. And the reason I could do that was the Jin Family’s Cultivation Technique.”",
+      "sol_paragraphs": "P171",
+      "sol_range": [
+        170,
+        171
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "진가심법",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Family's Cultivation Technique"
+        }
+      ]
+    },
+    {
+      "baseline": "“Looking at that, it does seem to have had an effect.”",
+      "baseline_paragraphs": "P172",
+      "baseline_range": [
+        171,
+        172
+      ],
+      "hunk_id": "H121",
+      "korean_lines": "371",
+      "sol": "“Looking at it that way, it does seem to have had some effect.”",
+      "sol_paragraphs": "P173",
+      "sol_range": [
+        172,
+        173
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "",
+      "baseline_paragraphs": "after P172",
+      "baseline_range": [
+        172,
+        172
+      ],
+      "hunk_id": "H122",
+      "korean_lines": "371",
+      "sol": "I knew.",
+      "sol_paragraphs": "P174",
+      "sol_range": [
+        173,
+        174
+      ],
+      "tag": "insert",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I knew it. This alone wouldn't be enough to convince them of my past or the effectiveness of the Jin Family's Cultivation Technique.",
+      "baseline_paragraphs": "P173",
+      "baseline_range": [
+        172,
+        173
+      ],
+      "hunk_id": "H123",
+      "korean_lines": "373",
+      "sol": "This alone wouldn’t be enough to convince them that the Jin Family’s Cultivation Technique explained my past.",
+      "sol_paragraphs": "P175",
+      "sol_range": [
+        174,
+        175
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "진가심법",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Family's Cultivation Technique"
+        }
+      ]
+    },
+    {
+      "baseline": "I smiled faintly as I looked at the others. By then, Song Song had stopped retching, and even Im Kkeokjeong was watching my mouth with eyes full of curiosity.",
+      "baseline_paragraphs": "P174",
+      "baseline_range": [
+        173,
+        174
+      ],
+      "hunk_id": "H124",
+      "korean_lines": "375",
+      "sol": "I smiled faintly and looked around. Song Song had finally stopped retching, and even Im Kkeokjeong was watching me with curiosity, waiting for what I would say next.",
+      "sol_paragraphs": "P176",
+      "sol_range": [
+        175,
+        176
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 177,
+  "sol_sha256": "5e4269d49c6dd17a71753eb989aa3cad9b85eae3fcfdf4336bf3b088aece59e4",
+  "version": 1
+}
