@@ -1,15 +1,16 @@
 # Translation State
 
-- Last completed: 476
-- Next chapter: 477
-- Current block: 475–479 (2/5)
-- Latest translation: `translations/0476.md`
-- Latest summary: `summaries/beats/0476.md`
-- Safe profiles through: chapter 476
+- Last completed: 477
+- Next chapter: 478
+- Current block: 475–479 (3/5)
+- Latest translation: `translations/0477.md`
+- Latest summary: `summaries/beats/0477.md`
+- Safe profiles through: chapter 477
 
 ## Current Block
 
-- Jin Taekyung realizes that the Mutated Water God Dragon must be hunted rather than fought honorably, suppresses its Fear with qi, and rallies Jeok Cheongang, Mungyeong, and Cheongpung into an all-DPS raid. He orders them to spread out, coordinates their movements while the dragon is lured onto land, argues with Jeok and Mungyeong over his slang-heavy commands, and finally gives the signal for all four to strike.
+- Jin Taekyung baits the Mutated Water God Dragon into striking, then pins its tail to the ground with White Flame and five summoned spears from his Inventory. Mungyeong, Cheongpung, and Jeok Cheongang follow with coordinated attacks that tear through the dragon's reinforced scales, flesh, and bones.
+- The four-person raid team surrounds and relentlessly carves apart the critically wounded dragon. As its storm weakens, the dragon gathers one final Water Breath, but Taekyung vanishes immediately before it is completed and says, "You've worked hard."
 
 ## Open Questions
 
@@ -22,10 +23,10 @@
 ## Exceptional Decision
 
 - Render 광폭화 as Berserk and preserve the System Status distinction.
-- Render raid-game terminology consistently and preserve Taekyung's profane, improvisational combat humor and Jin-ho's deliberately absurd USB-related saying.
-- Render 장수 돌침대 as Jangsu stone bed with an explanatory footnote.
-- Continue rendering 수염 as whiskers and distinguish the dragon's anomalous qi from Force and Sword Energy.
-- Retain jang and geun measurements, along with established renderings of live-fish sashimi and bone-in sashimi.
+- Preserve Taekyung's raid-game terminology, profane improvisational combat humor, and exaggerated comparisons.
+- Render 장수 돌침대 as Jangsu stone bed and 효자손 as hyojason, each with an explanatory footnote when used.
+- Continue rendering 수염 as whiskers and distinguish Force, Sword Energy, Hellfire, and Water Breath.
+- Retain established jang and geun measurements, along with established renderings of live-fish sashimi and bone-in sashimi.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

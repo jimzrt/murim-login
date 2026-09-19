@@ -1561,3 +1561,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 우에하라 | **Uehara** | A woman recalled by Taekyung in a comedic expression of gratitude; no further identity is established. |
 | 아구아맨 | **Aguaman** | Cheongpung's mistaken superhero nickname for Jin Taekyung. |
 | 장수 돌침대 | **Jangsu stone bed** | Korean stone-bed brand used in Taekyung's raid-team joke. |
+| 걸리버 여행기 | **Gulliver's Travels** | Book title cited in Taekyung's childhood recollection. |
