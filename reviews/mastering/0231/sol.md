@@ -62,7 +62,7 @@ His sharp gaze swept over the monk from head to toe.
 
 “Of course.”
 
-“You don’t even have a precept seal on your forehead.”
+“You don’t even have Buddhist precept seals on your forehead.”
 
 A drop of sweat ran down the monk’s brow.
 
@@ -90,7 +90,7 @@ The hulking man roared with laughter, then abruptly went stone-faced and glared 
 
 “…I’m afraid I don’t understand.”
 
-“I know all about you, you bastard. I asked where you came from. The Poison Dragon Sect? Or the Black Blood Sect?”
+“I know what you are, asshole. I asked where you came from. The Poison Dragon Sect? Or the Black Blood Sect?”
 
 “T-the Poison Dragon Sect? The Black Blood Sect? This poor monk comes from Shaolin.”
 
@@ -130,7 +130,7 @@ Unlike his subordinates, who were Second or Third Rate at best, he possessed eno
 
 Though he had only barely entered the realm.
 
-“You little bastard… You think our Dongcheon Sect is a joke? Do I look that stupid to you?”
+“You little bastard… You think the Dongcheon Sect is a joke? Do I look that stupid to you?”
 
 “Benefactor, you seem agitated. Please calm yourself. Settle your heart.”
 
@@ -168,13 +168,13 @@ But what they feared never happened.
 
 Clang!
 
-With a sharp metallic ring, something came raining down.
+A sharp metallic ring split the air, followed by a shower of debris.
 
 Astonishingly, the small, pointed objects raining down were the steel spikes that had covered the mace.
 
 “…Huh?”
 
-The hulking man stared at his mace in confusion.
+The hulking man stared at his weapon in confusion.
 
 Then the young monk shouted in a terrified voice,
 
@@ -226,13 +226,13 @@ Crunch!
 
 Bam-bam-bam-bam-bam!
 
-He hit him, broke him, then struck the places he had already hit again.
+He hit him, broke him, then hit the broken parts again.
 
 Every time the gleaming prayer beads shot forward, blood sprayed through the air.
 
-Watching the scene, I muttered like I was groaning in pain.
+As I watched, I managed to groan,
 
-“Oh, shit…”
+“Holy shit…”
 
 That was the strongest reaction I could muster.
 
@@ -246,7 +246,7 @@ Jeok Cheongang had shot to his feet at some point. His mouth hung open.
 
 “Arhat? As in Shaolin’s Hundred and Eight Arhats?”
 
-“Y-yes. That is definitely Shaolin martial arts.”
+“Y-yes. That is undoubtedly a Shaolin martial art.”
 
 “…That is?”
 
@@ -258,25 +258,25 @@ The young monk’s eyes had half rolled back in his head as he delivered the fin
 
 Bam-bam-bam!
 
-The scene was covered in brutal violence and blood. I wiped the blood from my cheek and barely managed to speak.
+The place was awash in brutal violence and blood. Wiping a spatter from my cheek, I barely managed to speak.
 
 “…Old Master.”
 
 “Speak.”
 
-“Is that really Shaolin martial arts?”
+“Is that really a Shaolin martial art?”
 
 “…Technically.”
 
 “Then why can’t I feel even a trace of the Buddha’s compassion or anything like that?”
 
-After a brief pause, Jeok Cheongang gave a short answer.
+After a brief pause, Jeok Cheongang answered,
 
 “At least he didn’t kill him.”
 
 “…”
 
-At this point, killing him seemed like it might actually be kinder.
+At this point, killing him might have been kinder.
 
 But I swallowed the words before they could escape.
 
@@ -312,17 +312,17 @@ When Jeok Cheongang cut in, I immediately changed my answer.
 
 Fortunately, he didn’t seem upset.
 
-Unlike me, who kept glancing uneasily at the prayer beads, he wore a joyful smile around his mouth.
+While I glanced uneasily at his prayer beads, a joyful smile spread across his face.
 
 If not for the drop of blood splattered beneath his chin, I might have thought, *So this is what the smile of a Buddha looks like.*
 
 “But why were you looking for me?”
 
-“This poor monk was ordered to bring the Master of Morning Star.”
+“This poor monk was ordered to bring back the Master of Morning Star.”
 
 *The master of what?*
 
-Before I could ask again, Jeok Cheongang abruptly spoke.
+Before I could ask, Jeok Cheongang spoke up.
 
 “Do you know Hong Dao?”
 
@@ -358,9 +358,9 @@ That alone was surprising, but Jeok Cheongang wasn’t finished.
 
 Unnamed.
 
-That was the Dharma name of the young monk who introduced himself as the Disciple of Dharma King Hong Dao.
+That was the Dharma name given by the young monk who had introduced himself as the Disciple of Dharma King Hong Dao.
 
-Though, technically, it could hardly be called a Dharma name.
+Though, strictly speaking, it could hardly be called a name at all.
 
 It literally meant he had no name.
 
@@ -398,7 +398,7 @@ When he smiled, he looked like a living Buddha. But the moment he slipped those 
 
 *This bastard is the scariest one here.*
 
-From what I had heard during the half day we’d traveled together, he was so naturally introverted that once he snapped, he couldn’t control himself.
+From what I had learned during the half day we’d been traveling together, he was naturally so timid and withdrawn that once he snapped, he lost all control.
 
 Jeok Cheongang tilted his head a few times before giving a vague nod, but I had a different opinion.
 
@@ -410,7 +410,7 @@ The man was a walking time bomb.
 
 That was why I had been trying to stay behind Unnamed whenever possible.
 
-A Peak master with anger-management disorder could strangle me with those Ten-Thousand-Year Cold Iron prayer beads.
+A Peak master with anger-management disorder might decide to strangle me with those Ten-Thousand-Year Cold Iron prayer beads.
 
 *Getting strangled with prayer beads… No. Absolutely not.*
 
@@ -440,7 +440,7 @@ Jeok Cheongang dismounted and began climbing Shaoshi Peak. After a while, he abr
 
 The next moment, an unexpected answer came from a broad, flat rock far above us.
 
-It was a presence only a master of Jeok Cheongang’s caliber could have sensed.
+The presence there was so faint that only a master of Jeok Cheongang’s caliber could have sensed it.
 
 “Hmm. Five shichen. There was a time when I could sleep that long.”
 
@@ -464,7 +464,7 @@ Whoosh.
 
 A black silhouette slowly descended from the broad, flat rock several dozen meters above us.
 
-Very slowly, stepping on empty air as though it were solid ground, Dharma King Hong Dao landed and smiled like a child.
+Very slowly, stepping through empty air as though it were solid ground, Dharma King Hong Dao landed and smiled like a child.
 
 “Only about four shichen.”
 

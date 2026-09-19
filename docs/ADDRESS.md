@@ -731,3 +731,8 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 젊은 기자 | rescuer addressing an intrusive reporter | mister / kid | irritated and insulting-casual | Jin tells the reporter to move, calls him slow on the uptake, and refers to him as 학생. |
 | 힐러 | 진태경 | healer addressing the rescuer who stabilized the survivor | sir | deferential and grateful | The healer thanks Jin as 선생님 after witnessing his rescue and treatment. |
 | 카메라 감독 | 진태경 | cameraman addressing a suspected famous Hunter | Mr. Jin | startled and honorific | The cameraman calls out 진 선생님 after recognizing Jin's abilities and manner. |
+| 최 팀장 | 진태경 | escort_team_leader_to_ally | Mr. Jin | formal but familiar | Team Leader Choi consistently addresses Jin politely while offering practical and personal reassurance. |
+| 샤오 양 주석 | 진태경 | Chinese_chairman_to_foreign_ally | Mr. Jin | formal, warm, and grandfatherly | Shao Yang addresses Jin formally while thanking him and discussing his bounty. |
+| 파이 첸 | 진태경 | allied_grand_mage_to_younger_ally | young man | playful and familiar | Faye Chen praises Jin in a teasing but sincere tone. |
+| 샤오 쉔 | 진태경 | younger_brother_like_ally_to_older_brother_figure | hyung | deferential and affectionate | Xiao Shen addresses Jin as an older-brother figure during their farewell. |
+| 진태경 | 파이 첸 | younger_ally_to_allied_grand_mage | Faye Chen | casual and familiar | Jin directly addresses Faye Chen while responding to her praise. |
