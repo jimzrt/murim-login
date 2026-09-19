@@ -26,7 +26,7 @@ A huge hand closed around his shoulder as his face flushed red.
 
 “There are still too many eyes on us.”
 
-Biting his lip, Park Jihoon took a step back.
+Park Jihoon bit his lip and stepped back.
 
 I watched in amusement as the middle-aged man beside him cleared everyone from the immediate area, then addressed me.
 
@@ -46,7 +46,7 @@ He had survived countless brutal struggles to become the master of a major Guild
 
 Not anymore.
 
-My good memories of Park Tae Seop had expired two days ago.
+My good opinion of Park Tae Seop had expired two days ago.
 
 What you thought tended to show in your attitude. Reading the undisguised hostility in my gaze, Park Tae Seop spoke.
 
@@ -90,7 +90,7 @@ Listening to their footsteps fade into the distance, I curled my lips.
 
 “I’m personally ashamed of it.”
 
-“For someone who considers himself ashamed, you gave a pretty damn despicable order.”
+“For someone so ashamed, you gave some pretty fucking awful orders.”
 
 “……”
 
@@ -108,7 +108,7 @@ If it had slipped out unconsciously, he was definitely hiding something.
 
 I thought back over everything that hadn’t quite added up.
 
-*Something stinks to high heaven. It reeks.*
+*Something stinks to high heaven.*
 
 As I muttered to myself, Park Jihoon abruptly spoke.
 
@@ -152,13 +152,13 @@ Because of that, I’d been forced to drag the rookies from one C-rank or B-rank
 
 “You’re slow. Did you think it was a coincidence?”
 
-The corners of Park Jihoon’s mouth rose. He had not only fully regained his composure, but was even relaxed enough to lean back against the sofa.
+The corners of Park Jihoon’s mouth rose. He had not only regained his composure, but was now relaxed enough to lean back against the sofa.
 
 “I heard you recruited a lot of Guild members recently. What are you going to do now? At this rate, you’ll have to let them all go within a year. You’ll be lucky if they don’t sue when you can’t pay their allowances.”
 
 “……”
 
-I slowly relaxed my folded arms.
+I slowly unfolded my arms.
 
 “You’re good at this. No wonder you’re a major Guild.”
 
@@ -214,7 +214,7 @@ Someone’s friend, lover, family……
 
 Their futures too.
 
-I quietly licked my dry lips.
+I slowly ran my tongue over my dry lips.
 
 “What can you give me?”
 
@@ -262,7 +262,7 @@ I stared at Park Jihoon.
 
 “……What?”
 
-“If you did something wrong, you should apologize. But the most important thing—an apology—is missing.”
+“When you do something wrong, you apologize. But you left out the most important thing—an apology.”
 
 His offer was packed with extravagant terms, but there was no apology.
 
@@ -290,7 +290,7 @@ A moment later, he drew a deep breath, looked me in the eye, and enunciated each
 
 I gave a small nod.
 
-“But next time you do it in person, try putting a little more sincerity into it. Bow your head politely, too.”
+“But when you do it in person, put some sincerity into it. Bow your head politely too.”
 
 “……What the hell are you talking about now?”
 
@@ -390,13 +390,13 @@ Park Jihoon’s tightly sealed lips finally parted.
 
 “You crazy bastard. Do you even know who that person is?”
 
-“No. I don’t particularly want to know, either. But I do want to see that bastard come here, slam his head down, and apologize. Then I’ll be satisfied.”
+“No. I don’t particularly care, either. But I won’t be satisfied until I see that bastard come here, bow his head to the floor, and apologize.”
 
 Swish!
 
 At that same instant, I shot out a hand at blinding speed.
 
-Park Jihoon cried out in alarm.
+Park Jihoon roared.
 
 “You bastard!”
 
@@ -404,7 +404,7 @@ Pap-pap-pap!
 
 Our hands collided and tangled in an instant.
 
-Five exchanges passed in the blink of an eye.
+Five moves were exchanged in the blink of an eye.
 
 Crunch.
 
