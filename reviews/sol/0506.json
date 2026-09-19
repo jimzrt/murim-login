@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "“You seem to have forgotten how to open your eyes properly since it’s been so long since you last saw me. Your two eyeballs have ‘fire’ and ‘hand’ written on them. What should I do about that?”\n\n“They say ‘respect,’ actually.”\n\n“Want me to beat some ‘feet-spect’ into you?”\n\n“No, th—”",
+      "defect": "The exchange loses the compound-word logic: 불 and 손 combine into 불손, meaning disrespectful or insolent, which Taekyung counters by relabeling his eyes 존 and 경, together 존경, meaning respect. The current answer does not reassign the two labels, so it does not logically answer Jeok Cheongang. It also changes Taekyung’s completed, syllable-by-syllable denial into an interrupted sentence.",
+      "id": "F01",
+      "rationale": "The replacement preserves the source’s progression from an accusation of disrespect to Taekyung’s cheeky claim of respect and Jeok Cheongang’s threat, while retaining the deliberately segmented final answer.",
+      "replacement": "“You seem to have forgotten how to use your eyes since it’s been so long since you last saw me. Your two eyeballs have ‘dis’ and ‘respect’ written on them. What should I do about that?”\n\n“They say ‘re’ and ‘spect,’ actually.”\n\n“Want me to beat some ‘feet-spect’ into you?”\n\n“N. O.”",
+      "severity": "major",
+      "source": "“요새 통 못 봤다고 눈 제대로 뜨는 법을 잊은 모양이구나. 네놈의 눈깔 두 개에 각각 불, 손이라고 적혀 있는데 이를 어찌해야 할까.”\n\n“존, 경. 인데요.”\n\n“발, 경. 으로 처맞고 싶으냐?”\n\n“아. 뇨.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Does this look like crying to you? My skull is ringing.”",
+      "defect": "엄살 means exaggerating or making an undue fuss about pain, not crying.",
+      "id": "F02",
+      "rationale": "Taekyung rejects Jeok Cheongang’s accusation that he is overstating the injury.",
+      "replacement": "“Does this look like I’m exaggerating? My skull is ringing.”",
+      "severity": "minor",
+      "source": "“아니, 이게 엄살로 보이세요? 골이 아주 쿵쿵 울리는구먼.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "I let out a quiet laugh at the sight of Jeok Cheongang fidgeting like a dog that needed to go.",
+      "defect": "The draft softens the explicitly comic image 똥 마려운 강아지, a puppy that needs to poop, into the vague euphemism “needed to go.”",
+      "id": "F03",
+      "rationale": "The source uses a deliberately crude, childish comparison that contributes to the scene’s humor.",
+      "replacement": "I let out a quiet laugh at the sight of Jeok Cheongang fidgeting like a puppy that needed to poop.",
+      "severity": "minor",
+      "source": "나는 똥 마려운 강아지처럼 안절부절못하는 적천강의 모습에 피식 실소를 흘렸다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I-I was told you had asked when I would arrive in Henan.”",
+      "defect": "The draft changes the implied traveling subject from the party collectively arriving in Henan to Mu Song alone arriving there.",
+      "id": "F04",
+      "rationale": "Everyone is aboard the same vessel, and the relayed question concerns when their party will reach Henan.",
+      "replacement": "“I-I was told you had asked when we would arrive in Henan.”",
+      "severity": "critical",
+      "source": "“부, 분명 언제쯤 하남에 도착하는지 물어보셨다고 들었습니다만.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "In the modern world, I had tried studying through the internet, but it had been difficult because the locations of cities and specific places differed.",
+      "defect": "지명 means place names, not the locations of cities. The source distinguishes discrepancies in names from discrepancies in the locations of particular places.",
+      "id": "F05",
+      "rationale": "The replacement preserves both kinds of discrepancies Taekyung encountered when comparing the two worlds.",
+      "replacement": "In the modern world, I had tried studying them online, but it was difficult because the place names and the locations of specific sites were different.",
+      "severity": "minor",
+      "source": "현대에서는 인터넷을 통해 공부를 해 보려 해도 지명과 특정 장소의 위치가 달라 어려움이 있었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Whatever his name was, Jeok Cheongang’s eyes clearly said Mu Song should change it if he claimed to be Mu Saeng.",
+      "defect": "The condition assigns the claim “Mu Saeng” to Mu Song, but the joke is that Jeok Cheongang has decreed Mu Song’s name to be Mu Saeng and expects Mu Song to change his actual name accordingly.",
+      "id": "F06",
+      "rationale": "The source emphasizes Jeok Cheongang’s domineering insistence that his mistake becomes reality, not that Mu Song introduced the wrong name himself.",
+      "replacement": "Whatever Mu Song’s actual name was, Jeok Cheongang’s eyes clearly said that if Jeok Cheongang called him Mu Saeng, Mu Song had better change his name to match.",
+      "severity": "major",
+      "source": "이름이 뭐건 간에 본인이 무생이라 했으면 개명이라도 하라는 저 눈빛."
+    },
+    {
+      "confidence": 0.94,
+      "current": "Understanding the meaning behind my question, Mu Song’s gaze sank.",
+      "defect": "“His gaze sank” is an unnatural literal collocation and does not clearly convey his suddenly subdued, serious demeanor.",
+      "id": "F07",
+      "rationale": "눈빛이 깊게 가라앉았다 describes Mu Song’s expression or gaze becoming deeply serious and subdued.",
+      "replacement": "Understanding what I meant, Mu Song’s expression grew somber.",
+      "severity": "minor",
+      "source": "내 질문에 담긴 뜻을 파악한 무송의 눈빛이 깊게 가라앉았다."
+    }
+  ],
+  "summary": "One critical subject error, two major failures in joke or agency logic, and four localized fidelity or prose issues.",
+  "version": 1
+}
