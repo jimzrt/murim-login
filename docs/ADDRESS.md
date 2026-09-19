@@ -794,3 +794,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 궁기방 | 사공 | passenger to ferryboatman | Boatman | direct and formal-polite | Addresses the old boatman as 사공 while challenging his refusal to sail. |
 | 사공 | 진태경 | ferryboatman to honored martial guest | Great Hero | fearful and deferential | Repeatedly addresses Taekyung as 대협 while explaining the storm and the boat’s limits. |
 | 문경 | 제갈풍 | legendary_senior_to_younger_family_head | you; burden | blunt, insulting, and commanding | Mungyeong orders Zhuge Feng onto his back and dismisses his objections. |
+| 사공 | 신령 | terrified boatman to local lake spirit | Divine Spirit | terrified and deferential | The old boatman begs the Dongting Lake spirit to spare him. |
+| 진태경 | 수신룡 | hostile martial artist to monster | you, sibu-leol eel bastard | blunt, insulting, and fearless | Taekyung directly insults the emerged Water God Dragon before attacking it. |

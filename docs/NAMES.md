@@ -1550,3 +1550,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 장제자 | **Senior Disciple** | The Seafaring King's designated successor. |
 | 찍먹형 | **dip-and-taste punishment** | Mu Song's joking threat against sailors who slack off. |
 | 변이된 수신룡 | **Mutated Water God Dragon** | Creature identified by the System at the chapter's end. |
+| 이각수 | **Two-Horned Beast** | Legendary local name for the creature regarded as Dongting Lake's divine spirit. |
+| 수신룡 | **Water God Dragon** | Legendary name for the true master of Dongting Lake; distinct from the modern Sea Serpent. |
+| 시 서펜트 | **Sea Serpent** | Modern top-tier marine monster resembling, but distinct from, the emerged Water God Dragon. |
+| 몬스터 대백과 | **Monster Encyclopedia** | Modern reference work documenting high-level monsters. |
