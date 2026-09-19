@@ -1,16 +1,16 @@
 # Translation State
 
-- Last completed: 473
-- Next chapter: 474
-- Current block: 470–474 (4/5)
-- Latest translation: `translations/0473.md`
-- Latest summary: `summaries/beats/0473.md`
-- Safe profiles through: chapter 473
+- Last completed: 474
+- Next chapter: 475
+- Current block: 470–474 (5/5)
+- Latest translation: `translations/0474.md`
+- Latest summary: `summaries/beats/0474.md`
+- Safe profiles through: chapter 474
 
 ## Current Block
 
-- Taekyung drives White Flame into the Mutated Water God Dragon's eye, melting it without reaching deep enough to kill the creature. The resulting pain triggers the dragon's Berserk Status, increasing all its abilities while clouding its combat judgment, and it begins violently smashing its head and tail against the cliffs and river.
-- Taekyung remains lodged in the dragon's eye, summons a short sword, and repeatedly cuts and stabs it with Scorching Yang Qi. When the dragon attacks him with its whiskers, Taekyung is wounded and forced into a contest of strength against a spear-shaped bundle of whiskers, whose energy exceeds Peak Sword Energy but not Force. He discovers that his superhuman Strength can tear the whiskers out by their roots, retrieves White Flame, emerges from the ruined eye, and begins ripping out more whiskers.
+- Jin Taekyung tears out every one of the Mutated Water God Dragon's whiskers with his bare hands, then uses his spear as an anchor while ripping away its scales and striking its head with the Flame-Extinguishing Divine Fist. Jeok Cheongang and Mungyeong are stunned by his superhuman physical strength, and Jeok identifies the source as Taekyung's Heavenly Martial Physique.
+- The dragon's rage summons violent storms, lightning, flooding, and whirlpools before it stops the weather and begins forming an enormous sphere of water in its mouth. Taekyung warns Jeok, Mungyeong, and Cheongpung, who rush forward as the dragon fires the attack. The narration identifies dragonkin and Breath as the strongest monster category and exclusive power, then ends by questioning why this dragon can use Breath.
 
 ## Open Questions
 
