@@ -789,3 +789,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 사공 | passenger_to_boatman | Boatman | commanding | Taekyung orders the boatman to continue to the final site and asks how long the journey will take. |
 | 혁무진 | 사공 | passenger_to_boatman | Boatman | weighty-commanding | Mujin presses the boatman to depart despite the worsening conditions. |
 | 젊은 도사 | 중년인 | Wudang_searcher_to_Zhuge_searcher | Great Hero | formal-polite | The young Daoist politely asks whether the left-cliff search has been completed. |
+| 제갈풍 | 문경 | old acquaintance to revealed legendary assassin | Slaughter Saint | excited and respectful | Zhuge Feng identifies Mungyeong by his established sobriquet after recognizing his identity. |
