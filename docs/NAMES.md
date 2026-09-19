@@ -1586,3 +1586,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 변이된 송사리 | **Mutated Minnow** | System identification for the Level 5 fish species created by weak mana exposure. |
 | 강강수월래 | **Ganggangsullae** | Traditional Korean circle dance and folk song used in Taekyung's word-chain joke. |
 | 생사부 | **Book of Life and Death** | Yama's register of life and death. |
+| 살귀 | **Killing Ghost** | Mungyeong's earlier sobriquet before he became the Slaughter Saint. |
+| 가짜 무림인 | **Fake Murim Martial Artist** | Title of the sudden Quest accepted by Taekyung. |

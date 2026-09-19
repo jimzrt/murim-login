@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“I suspected as much, but it seems that the Fire King, that old man, really didn’t give you any warning.”",
+      "defect": "언질 means prior notice or a heads-up, not a warning of danger.",
+      "id": "F01",
+      "rationale": "The line concerns Jeok Cheongang failing to tell Taekyung about the planned instruction in advance.",
+      "replacement": "“I suspected as much, but it seems that the Fire King, that old man, really didn’t give you any heads-up.”",
+      "severity": "minor",
+      "source": "설마 했는데 화왕, 그 늙은이가 정말로 아무런 언질도 안 해 준 모양이군."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“You said it yourself before, Old Master. The Slaughter Saint only kills people who deserve to die. You said that made him a fairly decent assassin.”",
+      "defect": "The translation addresses Mungyeong as Old Master and attributes the prior statement to him. Taekyung is reporting something Jeok Cheongang—the Old Master—previously said about Mungyeong.",
+      "id": "F02",
+      "rationale": "The deferential subject marker in 노야께서 makes Old Master the subject of 그러셨습니다, not the person being addressed.",
+      "replacement": "“The Old Master told me before that the Slaughter Saint only kills people who deserve to die. He said you were a pretty decent assassin.”",
+      "severity": "critical",
+      "source": "“전에 노야께서 그러셨습니다. 살성은 죽일 놈들만 죽인다고. 그래서 제법 괜찮은 살수라고.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Mungyeong looked at me with pity and continued.",
+      "defect": "한심하다는 눈빛 conveys contemptuous exasperation—he finds Taekyung pathetic or hopeless—not sympathy or pity for him.",
+      "id": "F03",
+      "rationale": "The surrounding rebuke mocks Taekyung for displaying every thought on his face.",
+      "replacement": "Mungyeong looked at me as though I were utterly hopeless and continued.",
+      "severity": "minor",
+      "source": "문경이 한심하다는 눈빛으로 나를 바라보며 말을 이었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Yeah, fuck. Blazing Flame Divine Dragon or not, I was still *you* to the Slaughter Saint.",
+      "defect": "The rendering flattens 나발이고 into neutral “or not,” losing Taekyung’s profane dismissal of his own grand sobriquet.",
+      "id": "F04",
+      "rationale": "나발이고 dismissively rejects the preceding title rather than merely qualifying it.",
+      "replacement": "Yeah, fuck. To hell with the Blazing Flame Divine Dragon—to the Slaughter Saint, I was still just *you*.",
+      "severity": "minor",
+      "source": "그래, 시벌. 열화신룡이고 나발이고 살성한테는 네깟놈이지."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Would you like me to make your shoulders feel cool as well?”",
+      "defect": "The translation changes “above your shoulders” into the shoulders themselves, obscuring Mungyeong’s threat to remove Taekyung’s head.",
+      "id": "F05",
+      "rationale": "어깨 위 refers to what is above the shoulders; the half-drawn short sword makes the decapitation joke explicit.",
+      "replacement": "“Want me to cool off everything above your shoulders too?”",
+      "severity": "minor",
+      "source": "“어깨 위도 시원하게 해 줄까?”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“You have achieved a considerable realm, but a martial artist and a true Murim martial artist are different. I will turn you, who are still only half-formed, into a true martial artist.”",
+      "defect": "The draft applies “true” prematurely to the comparison and then drops Murim from the promised transformation, blurring the line’s central distinction between a martial artist and a genuine martial artist of the Murim.",
+      "id": "F06",
+      "rationale": "The source contrasts 무인 with 무림인 and reserves 진짜 for the kind of 무림인 Mungyeong promises to make Taekyung.",
+      "replacement": "“You may be a martial artist of considerable skill, but a martial artist and a Murim martial artist are not the same thing. You’re still only half-formed. I’ll turn you into a true Murim martial artist.”",
+      "severity": "major",
+      "source": "“네놈은 상당한 경지를 이룩한 무인이지만, 무인과 무림인은 다르다. 아직도 반쪽짜리에 불과한 널 진짜 무림인으로 만들어 주지.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "> - Sudden Quest, **[Fake Murim Martial Artist]**, has been generated!\n>\n> **Will you accept [Fake Murim Martial Artist]?**",
+      "defect": "The System panel encloses the Quest title in square brackets, contrary to the required System-window formatting.",
+      "id": "F07",
+      "rationale": "The blockquote and System heading already identify the UI, so System terms must not retain outer square brackets.",
+      "replacement": "> - Sudden Quest, **Fake Murim Martial Artist**, has been generated!\n>\n> **Will you accept Fake Murim Martial Artist?**",
+      "severity": "minor",
+      "source": "- 돌발 퀘스트, [가짜 무림인]이 생성되었습니다!\n\n[가짜 무림인]을 수락하시겠습니까?"
+    }
+  ],
+  "summary": "Seven actionable findings: one speaker-identity error, one lost martial-artist distinction, and localized register, characterization, humor, and System-formatting defects.",
+  "version": 1
+}
