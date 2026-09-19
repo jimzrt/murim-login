@@ -1,0 +1,45 @@
+{
+  "summary": "Chapter 250 assembly faithful to source. Minor terminology consistency issues noted but no fidelity defects.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "전체",
+      "current": "Jin Taekyung as Sleeping Dragon of Shanxi",
+      "defect": "Preferred glossary sense is correct but absence of 'Hidden Dragon' (잠룡) epithet loses a canonical source image for Jin Taekyung",
+      "replacement": "Include 'Hidden Dragon' epithet as canonical nickname alongside 'Sleeping Dragon of Shanxi' where appropriate",
+      "rationale": "잠룡 is a stylized metaphor established in the glossary and prior chapters, enriching the character image beyond geographic epithet alone",
+      "confidence": 1.0
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "General",
+      "current": "Demonic Cult vs Heavenly Demon Divine Cult",
+      "defect": "Inconsistent use of name for 마교; baseline and source use 'Heavenly Demon Divine Cult' as formal name and 'Demonic Cult' as short form; assembly uses 'Demonic Cult' mainly, which is fine but glossing could clarify",
+      "replacement": "Ensure 'Heavenly Demon Divine Cult' is used at first formal mention with 'Demonic Cult' as accepted short form thereafter",
+      "rationale": "The source and baseline use formal and short names distinctly to mark tone and framing; clarity supports fidelity",
+      "confidence": 1.0
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Throughout",
+      "current": "Terminology for 'Disciple', 'Status', 'Great Hero', 'Divine Physician', 'Jintae', 'Unnamed', 'dark-path figures', 'God of Drinking', 'Beggars' Sect', 'great family', 'Hidden Dragon', 'Chief of the Hidden Shadow Pavilion', 'Blazing Flame', 'Five Squads'",
+      "defect": "Preferred glossary terms indicated in QA warnings are absent, which could affect consistency across chapters but do not create direct fidelity errors in chapter 250",
+      "replacement": "Consider standardizing use of these terms in future edits if contextually relevant, but no direct correction needed in this chapter",
+      "rationale": "Terminology consistency is important but absence here does not contradict Korean source meaning",
+      "confidence": 1.0
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Mention of 'Galgyun' romanized without ledger entry",
+      "current": "galgyun",
+      "defect": "No ledger English name or footnote for Galgyun, a proper noun mentioned once; risks unclear reference for readers",
+      "replacement": "Add ledger entry for 'Galgyun' with footnote or use accepted romanization with brief explanation",
+      "rationale": "Proper names in the text should have consistent romanizations and explanations for clarity",
+      "confidence": 1.0
+    }
+  ]
+}

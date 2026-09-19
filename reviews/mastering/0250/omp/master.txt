@@ -18,7 +18,7 @@ Thus, after years of joining together and splitting apart, the orthodox factions
 
 The Murim Alliance was born.
 
-Not long after the fierce ten-year Great War ended, the Murim Alliance was dissolved along with the Martial God’s disappearance. But the site where the heroes of old had once gathered remained, carrying on in a new form with new people.
+Not long after the fierce, ten-year Great Faction War ended, the Martial God disappeared and the Murim Alliance was dissolved. But the place where the heroes of old had once gathered remained, its legacy carried on by new people in a new form.
 
 “Good grief, it’s packed.”
 
@@ -34,13 +34,13 @@ At his desperate whisper, his wife firmly shook her head.
 
 “No. Do you have any idea how excited he is? He’s been begging us for three whole days, ever since the main event began.”
 
-“No, no. It’ll be fine. We can take a lap around the market and put some candy in his mouth. That’ll keep him quiet. To hell with the Star-Array Grand Banquet and all that. What’s so impressive about watching Murim people fight anyway… Huh?”
+“No, no. It’ll be fine. We’ll take a lap around the market and stick some candy in his mouth. That’ll quiet him down. To hell with the Star-Array Grand Banquet and all that. What’s so impressive about watching martial artists fight any— Huh?”
 
 The middle-aged man sucked in a startled breath.
 
 His son, who had been asleep on his wife’s back, was now awake and staring at him.
 
-The boy’s large eyes were moist, as if he might burst into tears at any moment.
+The boy’s large eyes were already glistening with tears.
 
 “Dad. Aren’t we going to see the Star-Array Grand Banquet?”
 
@@ -82,7 +82,7 @@ Having narrowly escaped the crisis, the middle-aged man waited until his son was
 
 “Why wouldn’t I?”
 
-His wife looked at him as if he were hopeless.
+His wife gave him a look of utter disbelief.
 
 “We came here to watch his duel today.”
 
@@ -102,7 +102,7 @@ I calmly watched the sword sweep toward me.
 
 Fast as an arrow, agile as a snake.
 
-After a bewildering series of forms, red Sword Energy shot toward me.
+At the end of a dizzying series of transformations, red Sword Energy shot out.
 
 Shhk-shhk-shhk-shhk!
 
@@ -112,13 +112,11 @@ One punch wreathed in blue flame—the first form of the Flame-Extinguishing Div
 
 Boom!
 
-A powerful collision.
+The forces collided.
 
 Sword Energy and Fist Energy crashed together, sending a thunderous boom across the arena. Stone dust from the dueling platform billowed up, blocking my view.
 
-I stepped forward.
-
-Again. One more time.
+I stepped forward and struck again.
 
 Boom! Kraa-boom!
 
@@ -130,7 +128,7 @@ Blood trickled from the corner of his mouth, his face deathly pale. He clutched 
 
 “H-How?”
 
-“Well.”
+“Skill.”
 
 The moment I answered, I kicked off the ground.
 
@@ -144,7 +142,7 @@ The words burst from him like a scream.
 
 My fist stopped directly in front of his nose. The pressure from its tremendous speed and force sent his hair whipping back.
 
-The hero’s headband slipped from his forehead, fluttered out of the arena, and landed with a thud.
+His hero’s headband slipped from his forehead, fluttered out of the arena, and dropped to the ground.
 
 “S-Sleeping Dragon of Shanxi, victory!”
 
@@ -176,7 +174,7 @@ I listened to the familiar notifications as I stepped down from the dueling plat
 
 Tap!
 
-“Good heavens, what are all these specks of dust on your precious body? This poor Daoist will wipe them away for you.”
+“Good heavens, how did your precious person get so dusty? This poor Daoist will wipe it off for you.”
 
 *Damn it. This bastard’s here again.*
 
@@ -188,11 +186,11 @@ I snatched the towel from his hand.
 
 Baek Woo, the Kunlun Cloud Dragon, answered glumly.
 
-“It is the Cloud-Dragon Eight Forms. Even so, it is one of the Kunlun Sect’s secret arts. You could at least remember its name…”
+“It is the Cloud-Dragon Eight Forms. It is one of the Kunlun Sect’s secret arts. You could at least remember its name…”
 
 “Right. Imagine how heartbroken your Master would be if he saw you using that secret art to deliver towels. He’s probably watching from the VIP seats right now.”
 
-“My Master told me to get along with Fellow Daoist.”
+“My Master told me to get along with Fellow Daoist Jin.”
 
 “…”
 
@@ -210,7 +208,7 @@ The same went for the other two idiots.
 
 “Our sect’s Eighteen Dragon-Subduing Palms is one of the five greatest palm arts beneath heaven.”
 
-“Sure. But you’ve only mastered it to the fifth level, right?”
+“Sure. But you’ve only mastered half of it, right?”
 
 “That is correct.”
 
@@ -224,9 +222,7 @@ Gung Gibang approached with a solemn expression, carrying a basin of water for m
 
 The whole thing was absurd, but I thanked him, washed my face, and dried it with the towel Baek Woo had brought.
 
-The Beggars’ Sect’s Successor Beggar had brought me water, and the Kunlun Cloud Dragon, one of the Ten Dragons and Phoenixes, had brought me a towel.
-
-To everyone else, this must have looked like a very strange sight.
+The Beggars’ Sect’s Successor Beggar was bringing me wash water, while the Kunlun Cloud Dragon, one of the Ten Dragons and Phoenixes, delivered my towel. Anyone watching must have wondered what the hell was going on.
 
 Wait.
 
@@ -296,7 +292,7 @@ They both asked at once, then lowered their voices.
 
 Gung Gibang nodded.
 
-“I heard it performed truly astonishing feats during the Great Faction War. Of course, the Thousand-Faced Fox, who was its head, deserves much of the credit for the Hidden Shadow Pavilion’s existence.”
+“I heard it accomplished truly extraordinary feats during the Great Faction War. Of course, the Thousand-Faced Fox, who served as Chief of the Hidden Shadow Pavilion, deserves much of the credit for what it became.”
 
 *So in modern terms, was he something like the director of the FBI?*
 
@@ -304,7 +300,7 @@ If even the Beggars’ Sect’s Successor Beggar spoke of it that way, the Hidde
 
 Judging from the past tense, it had probably followed the Murim Alliance into dissolution.
 
-*The former head of a retired intelligence organization…*
+*The retired head of a defunct intelligence organization…*
 
 As I watched him closely, Song Ho rose from his seat and disappeared somewhere.
 
@@ -324,7 +320,7 @@ The two idiots muttered as they watched him.
 
 “He does keep scraping out victories by a hair. In that sense, the Always-Victorious Sword truly is always victorious.”
 
-The nickname Life-Sustaining Sword had been given to Jongni Chu because he won every match by barely surviving.
+He had earned the nickname Life-Sustaining Sword because every match looked like a desperate struggle to stay alive.
 
 Even I hadn’t expected Jongni Chu to reach four wins, but apparently he was stronger in a real fight than I’d thought.
 
@@ -344,9 +340,9 @@ If our next meeting was on the dueling platform, I might end up feeling a little
 
 Baek Woo and Gung Gibang took the towel and basin respectively, then asked, “Where are you going?”
 
-“Our sect’s Eighteen Dragon-Subduing Palms is one of the most renowned martial arts beneath heaven… Where are you going?”
+“Our sect’s Eighteen Dragon-Subduing Palms is one of the greatest martial arts beneath heaven… Where are you going?”
 
-“To watch Gyun’s duel.”
+“To watch Galgyun’s duel.”
 
 I had heard Zhuge Gyun practiced an unusual fan technique using a folding fan. I figured I might as well watch his duel and broaden my knowledge of martial arts.
 
@@ -376,8 +372,8 @@ Zhuge Gyun was one of the Ten Dragons and Phoenixes, yet he had been reduced to 
 
 No—he even seemed excited.
 
-“Wow! You’re the first person I’ve ever seen use a fan technique! Do you have another one? Another one?”
+“Wow! I’ve never seen anyone use a fan technique before! Do you have another one? Show me another one!”
 
 “…”
 
-At the innocent voice drifting from beneath the deeply lowered bamboo hat, Zhuge Gyun threw away his fan.
+At the innocent voice coming from beneath the low brim of the bamboo hat, Zhuge Gyun threw down his fan.
