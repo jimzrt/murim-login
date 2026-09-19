@@ -745,3 +745,9 @@ Overrides generic relationship prose in character profiles for this pair.
 | 최 팀장 | 진태경 | team_leader_to_managed_Hunter | Mr. Jin Taekyung | formal-polite | Choi uses 씨 while explaining the welcome, tax liability, and political arrangements. |
 | 진태경 | 대통령 | Hunter_to_President | Mr. President | formal-polite | Taekyung addresses the President respectfully during their airport greeting. |
 | 대통령 | 진태경 | President_to_Hunter | Mr. Jin Taekyung | formal-polite | The President addresses Taekyung by name at the airport photo line. |
+| 고참 기자 | 홍 기자 | senior_reporter_to_junior_reporter | Reporter Hong | casual and instructive | The veteran reporter orders Hong to publish Taekyung's profanity clip immediately. |
+| 엄마 | 진태경 | mother_to_son | my son | warm and affectionate | Taekyung's mother praises him during the public welcome. |
+| 진태경 | 최 팀장님 | subordinate_to_team_leader | Team Leader Choi | polite and familiar | Taekyung thanks Choi and asks him to continue working with him. |
+| 최 팀장 | 진태경 씨 | team_leader_to_managed_hunter | Mr. Jin Taekyung | polite and professional | Choi assures Taekyung that he will continue supporting him. |
+| 진태경 | 스켈레톤 킹 | ally_to_ally | Hey | casual and teasing | Taekyung teases the Skeleton King while ordering him to join Peace Guild. |
+| 스켈레톤 킹 | 진태경 | ally_to_ally | you, vile human | grandiose and mock-offended | The Skeleton King protests Taekyung's coercive guild arrangement. |

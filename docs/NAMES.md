@@ -1469,3 +1469,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 애틀랜타 | **Atlanta** | The U.S. city claimed as the Skeleton King's birthplace. |
 | 조지아주 | **Georgia** | The U.S. state claimed as the Skeleton King's birthplace. |
 | 인천 | **Incheon** | Location of the airport welcome and presidential greeting. |
+| 시부럴좌 | **Lord Sibu-leol** | Online nickname derived from Taekyung's public profanity. |
+| 불알좌 | **Lord Balls** | Online nickname derived from Taekyung's public wager. |
+| 진취 | **Jin Chui** | Ming dynasty general identified as Taekyung's ancestor. |
+| 헬조선 | **Hell Joseon** | Cynical nickname for South Korea. |
+| 홍 기자 | **Reporter Hong** | Junior reporter addressed by the veteran reporter. |

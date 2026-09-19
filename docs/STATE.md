@@ -1,15 +1,15 @@
 # Translation State
 
-- Last completed: 439
-- Next chapter: 440
-- Current block: 435–439 (5/5)
-- Latest translation: `translations/0439.md`
-- Latest summary: `summaries/beats/0439.md`
-- Safe profiles through: chapter 439
+- Last completed: 440
+- Next chapter: 441
+- Current block: 440–444 (1/5)
+- Latest translation: `translations/0440.md`
+- Latest summary: `summaries/beats/0440.md`
+- Safe profiles through: chapter 440
 
 ## Current Block
 
-- Jin Taekyung gives the Skeleton King a translation-magic ring from Magic Johnson, but the undead monster's attempt to pass as an American through his Atlanta origin story and Korean-accented English only creates more trouble. The Skeleton King reveals that he has a social-media account with 5,134 followers and sends Magic Johnson an embarrassing message, prompting Taekyung to insist that he keep his identity hidden. Team Leader Choi explains that Korea is preparing an enormous welcome for Taekyung, including a car parade and the President's appearance, while Taekyung objects to political involvement despite the tax benefits offered in connection with the fifty-trillion bounty on the Arch Lich. At Incheon Airport, Taekyung nevertheless shakes hands with the President before a wall of cameras, while the Skeleton King privately condemns the supposedly vile humans who arranged everything.
+- Jin Taekyung receives a massive global welcome at Incheon, where hundreds of thousands cheer during a televised car parade that ultimately ends at Peace Guild's guild house. Surrounded by his family and Team Leader Choi, Taekyung resolves to protect those close to him, while he forces the sulking Skeleton King to join Peace Guild under a prepared contract. After Magic Johnson announces negotiations with Peace Guild, the public celebration continues into Christmas Eve, tormenting Go Jun, who rages at Taekyung's name before being interrupted by a cautious report.
 
 ## Open Questions
 
@@ -17,13 +17,14 @@
 - How did Jin Taekyung actually open his Middle Dantian?
 - What confidential matter is Jin Wikyung withholding?
 - Are Taekyung's suspicions about the mysterious patterns and symbols found in both worlds correct?
-- How will Taekyung's public status and the Arch Lich bounty affect his future dealings with Korea's political establishment?
+- What agreement is Magic Johnson pursuing with Peace Guild, and what report is about to reach Go Jun?
 
 ## Exceptional Decision
 
-- Render 스톤 킹 as “Stone-King” and use “Mr. King” when others address him.
-- Preserve the Skeleton King's grandiose “this king” voice and Taekyung's profane modern humor.
-- Keep Arch Lich, S-rank Hunter, Magic Gem, Inventory, Blue House, Peace Guild, and Demon Realm as established terms.
+- Render 시부럴 as “sibu-leol,” 시벌좌 as “Lord Fuck,” and 시부럴좌 as “Lord Sibu-leol.”
+- Preserve the Skeleton King's grandiose, mock-offended voice and Taekyung's dry, profane humor.
+- Render 최 팀장님 as “Team Leader Choi” and 진태경 씨 as “Mr. Jin Taekyung.”
+- Keep Peace Guild, guild house, Inventory, and Magic Johnson as established terms.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
