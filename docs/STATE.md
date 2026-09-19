@@ -1,15 +1,16 @@
 # Translation State
 
-- Last completed: 440
-- Next chapter: 441
-- Current block: 440–444 (1/5)
-- Latest translation: `translations/0440.md`
-- Latest summary: `summaries/beats/0440.md`
-- Safe profiles through: chapter 440
+- Last completed: 441
+- Next chapter: 442
+- Current block: 440–444 (2/5)
+- Latest translation: `translations/0441.md`
+- Latest summary: `summaries/beats/0441.md`
+- Safe profiles through: chapter 441
 
 ## Current Block
 
-- Jin Taekyung receives a massive global welcome at Incheon, where hundreds of thousands cheer during a televised car parade that ultimately ends at Peace Guild's guild house. Surrounded by his family and Team Leader Choi, Taekyung resolves to protect those close to him, while he forces the sulking Skeleton King to join Peace Guild under a prepared contract. After Magic Johnson announces negotiations with Peace Guild, the public celebration continues into Christmas Eve, tormenting Go Jun, who rages at Taekyung's name before being interrupted by a cautious report.
+- In China, Go Jun violently searches for Lee Jungryong's holographic recorder at the former Arch Lich stronghold, bribing the investigation team and preparing to use whatever evidence it contains against Jin Taekyung. Though he plans to inherit control of Ares Guild, his hatred of Jin is overshadowed by the fear and helplessness left by their confrontation.
+- Meanwhile, Jin Taekyung trains aboard the Water Dragon Stronghold on the Yangtze, dodging Jeok Cheongang's finger flicks while adapting to his Middle Dantian. Cheongpung is forced to participate, but falls asleep while maintaining perfect meditation posture, frustrating Jeok's attempt to use him as an example.
 
 ## Open Questions
 
@@ -17,7 +18,7 @@
 - How did Jin Taekyung actually open his Middle Dantian?
 - What confidential matter is Jin Wikyung withholding?
 - Are Taekyung's suspicions about the mysterious patterns and symbols found in both worlds correct?
-- What agreement is Magic Johnson pursuing with Peace Guild, and what report is about to reach Go Jun?
+- What agreement is Magic Johnson pursuing with Peace Guild, and what evidence is contained in Lee Jungryong's holographic recorder?
 
 ## Exceptional Decision
 
@@ -25,6 +26,7 @@
 - Preserve the Skeleton King's grandiose, mock-offended voice and Taekyung's dry, profane humor.
 - Render 최 팀장님 as “Team Leader Choi” and 진태경 씨 as “Mr. Jin Taekyung.”
 - Keep Peace Guild, guild house, Inventory, and Magic Johnson as established terms.
+- Render 명경지수 as “clear as a mirror and still as water” and 탄지 as “finger flick.”
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

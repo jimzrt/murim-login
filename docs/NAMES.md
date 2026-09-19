@@ -1474,3 +1474,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 진취 | **Jin Chui** | Ming dynasty general identified as Taekyung's ancestor. |
 | 헬조선 | **Hell Joseon** | Cynical nickname for South Korea. |
 | 홍 기자 | **Reporter Hong** | Junior reporter addressed by the veteran reporter. |
+| 박 선생 | **Mr. Park** | Unidentified Ares security-team member addressed by the investigation-team head. |
