@@ -48,7 +48,7 @@ The Black Wyvern’s carcass filled nearly the entire front page. He eyed it and
 
 “……”
 
-What was this? Was he asking me to hit him?
+What was this? Was he asking me to punch him?
 
 The prosecutor let out a quiet laugh at my expression and stood.
 
@@ -72,7 +72,7 @@ When his brief burst of popularity faded and the spotlight moved on, he tried to
 
 But in the process, the most popular star Hunter of the time died. Under suspicion from the Association and uneasy scrutiny from the public, Won Myunghoon quietly faded from memory.
 
-“He covered up everything thoroughly. With money, with power, and sometimes by making people disappear in what looked like Gate accidents.”
+“He was thorough about silencing people. He used money, power, and sometimes Gate accidents to make anyone involved disappear.”
 
 Naturally, there had also been extensive lobbying to minimize the incidents.
 
@@ -86,7 +86,7 @@ Whether the investigation would be conducted properly, or whether they would coo
 
 The prosecutor spoke with conviction.
 
-“At least half of them are going down.”
+“At least half of them will lose their heads.”
 
 The wildfire was already spreading out of control. Putting it out would take more than uprooting a weed or two.
 
@@ -108,9 +108,9 @@ His previously straight back bent in a deep bow.
 
 I’m a simple man. I killed the raid monster because I had a grudge to settle, and I killed Won Myunghoon because he was my enemy.
 
-But the world called me a hero who had prevented a major catastrophe and brought justice.
+But the world called me a hero who had prevented a catastrophe and brought justice.
 
-It was a little burdensome, but…
+The attention was a little uncomfortable, but…
 
 *Well, this isn’t so bad either.*
 
@@ -132,7 +132,7 @@ Instead, some familiar faces were waiting for me.
 
 Two people rushed at me with shrieks, and I hugged them both.
 
-No, let me correct that. I hugged Mom and pushed Hayeon away with my palm.
+No, let me correct that. I hugged Mom and held Hayeon back with one palm.
 
 “Son! Are you all right? You’re not hurt anywhere?”
 
@@ -162,9 +162,9 @@ I had the reflexes to dodge bullets, but somehow I couldn’t evade Mom’s hand
 
 *Had she learned a grappling technique or something?*
 
-As I struggled helplessly, my household-register mate with the other set of chromosomes asked with a shocked expression,
+As I struggled helplessly, my household-register mate with the different chromosomes stared at me in shock.
 
-“……Why did I get pushed away?”
+“……What? Why did you push me away?”
 
 “You really have to ask?”
 
@@ -178,7 +178,7 @@ Flick!
 
 “Can’t either of you behave?”
 
-Hayeon clutched her forehead with a wounded expression while Mom shouted at us.
+Hayeon clutched her forehead with an aggrieved look while Mom yelled at us.
 
 In the middle of the chaos, I noticed someone watching us with a smile.
 
@@ -186,7 +186,7 @@ In the middle of the chaos, I noticed someone watching us with a smile.
 
 “Isn’t this proof that your family is close? I’m actually jealous.”
 
-His legs were long and straight, like a model’s. He looked as though he had just stepped out of a magazine shoot as he gripped my shoulder firmly.
+With his long, model-like legs, he looked as though he had just stepped out of a magazine shoot. He gripped my shoulder firmly.
 
 “You’ve been through a lot, Mr. Jin Taekyung.”
 
@@ -194,7 +194,7 @@ His legs were long and straight, like a model’s. He looked as though he had ju
 
 But where was everyone else?
 
-Team Leader Choi noticed me looking around and spoke.
+Team Leader Choi noticed me looking around.
 
 “They all wanted to come, but I stopped them. There are too many eyes watching us.”
 
@@ -202,7 +202,7 @@ Team Leader Choi noticed me looking around and spoke.
 
 “Reporters are camped out everywhere. I’ll take you home first. We can talk on the way.”
 
-An underground parking lot wasn’t exactly the best place to catch up. Especially not with a prosecutor’s investigator watching us.
+An underground parking lot wasn’t exactly the best place to catch up, especially with a prosecutor’s investigator standing right there.
 
 We climbed into a high-end sedan with heavily tinted windows. The car purred pleasantly as it wound through the forest of skyscrapers.
 
@@ -216,7 +216,7 @@ These days, wherever I turned, I heard my name and Won Myunghoon’s.
 
 Politics, the economy, the Hunter industry—the whole country was in an uproar.
 
-*I’ve heard it so much I’m sick of it.*
+*I’ve heard so much about it that it makes me sick.*
 
 Even the national anthem got tiring after the second verse.
 
@@ -262,7 +262,7 @@ As Mom trailed off, Team Leader Choi explained in a gentle voice.
 
 A brief silence followed Mom’s answer.
 
-There wasn’t even the sound of breathing. In the complete silence, I blinked without a word, then barely managed to speak.
+Not even breathing broke the absolute stillness. I blinked wordlessly, then finally managed to speak.
 
 “How much?”
 
@@ -274,7 +274,7 @@ Team Leader Choi added in the same calm tone,
 
 “T-The starting price?”
 
-“Yes. The processing was completed three days ago, and Christie’s has already…”
+“Yes. The processing was completed three days ago, and Christie’s has already—”
 
 “Wait. Who’s Christie?”
 
@@ -288,7 +288,7 @@ That was exactly what her expression said.
 
 I racked my brain to preserve my authority as her older brother, but the only thing the name Christie brought to mind was a beautiful blonde woman.
 
-“A-American billionaire’s daughter?”
+“A-An American heiress?”
 
 “……”
 
@@ -314,7 +314,7 @@ Team Leader Choi, who was knowledgeable about such matters, continued smoothly.
 
 *Was this really happening?*
 
-I sat there dazed with my mouth hanging open, then smacked Hayeon on the forehead as she poked her head between the driver’s and passenger’s seats.
+I sat there dazed with my mouth hanging open, then smacked Hayeon on the forehead as she poked her head between the driver’s and passenger seats.
 
 Smack!
 
@@ -348,17 +348,17 @@ But Team Leader Choi’s next words left me stunned.
 
 “They all agreed?”
 
-They could each have received anywhere from several billion won at the low end to tens of billions at the high end.
+They were giving up sums that could range from several billion won to tens of billions.
 
 For an ordinary person, it would have been an irresistible temptation—and clearly their right to claim.
 
-As I stared at him in shock, Team Leader Choi smoothly turned the steering wheel and replied,
+As I stared at him in shock, Team Leader Choi smoothly turned the steering wheel.
 
 “Neither I nor the others are shameless enough to take money for standing around and watching. We have at least that much conscience and conviction.”
 
 “You really didn’t have to go that far…”
 
-“It wasn’t something that required any consideration. You’ve shown us enough consideration already, so think about what you want to do with the money.”
+“There was nothing to consider. You’ve already shown us more than enough consideration, so think about what you’re going to do with the money instead.”
 
 Team Leader Choi’s firm words left me speechless.
 
