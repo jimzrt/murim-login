@@ -58,7 +58,7 @@ And one mission took priority over everything else.
 
 Han Su could not guess why Shaolin’s sacred treasure mattered so much, but he had to complete his task.
 
-Because it was none other than the Lord of Heaven’s command.
+It was none other than the Lord of Heaven’s command.
 
 Was that not why *he*, the man who enjoyed the Lord of Heaven’s absolute trust, had come with them?
 
@@ -122,7 +122,7 @@ The instant their Force-wreathed fists collided, a line of crimson blood trickle
 
 The monk’s gray robes turned bright red.
 
-Flame Tiger bared his yellow teeth as Hongcheon was driven back a dozen steps, as if swept away by an invisible wind.
+Flame Tiger bared his yellow teeth as Hongcheon was driven back more than a dozen steps, as though swept away by an invisible wind.
 
 “Brat. When you were still suckling at your mother’s breast, this old man was rampaging through Nanman. You’re thirty years too early to challenge me.”
 
@@ -134,7 +134,7 @@ Hongcheon wiped his mouth with his sleeve. Despite his pallid complexion, the ol
 
 Hongcheon bit his lip as Flame Tiger’s aura blazed even more fiercely.
 
-He knew those words were not mere confidence. They were simply the truth.
+He knew those words were not mere bravado. They were simply the truth.
 
 *What kind of monster is he, to still be going this strong?*
 
@@ -156,7 +156,7 @@ They were the Hundred and Eight Arhats, the face and pride of Shaolin Temple.
 
 The carefully selected elite wielded their precept blades and Zen staffs, steadily driving back the masked men.
 
-“They are the greatest criminals under heaven. Show them no mercy!”
+“They are villains condemned by all under heaven! Show them no mercy!”
 
 “Open the Killing Gate!”
 
@@ -184,7 +184,7 @@ A glimmer of hope crossed Hongcheon’s eyes.
 
 Hongcheon’s expression stiffened. Something about Flame Tiger’s attitude struck him as strange.
 
-*Did he already know this would happen?*
+*Did he know this would happen?*
 
 But why?
 
@@ -260,7 +260,7 @@ As the hellscape unfolded before his eyes, blood dripped from his tightly clench
 
 “This can’t… This can’t be happening.”
 
-Flame Tiger threw back his head and laughed heartily at Hongcheon’s muttering.
+Flame Tiger threw back his head and laughed at Hongcheon’s muttering.
 
 “It’s called the Exploding Blood Demonic Art. It’s a damned tricky art, so it’s difficult to master, but it’s perfect for times like this. I brought a couple of them along… and they’re even more useful than I expected.”
 
@@ -274,7 +274,7 @@ Bababoom!
 
 His Body-Protecting Qi shattered, and a barrage of powerful blows hammered Hongcheon’s limbs.
 
-The pain was so intense that his vision went dark. Blood gushed from his mouth, mixed with pieces of his internal organs.
+Agony darkened his vision. Blood gushed from his mouth, mixed with fragments of his organs.
 
 “Gwaaaargh!”
 
@@ -288,7 +288,7 @@ It had been an undeniable mistake. No matter what happened, Hongcheon should not
 
 His opponent was a monster who had already been considered comparable to the Ten Kings during the Great Faction War.
 
-The best course of action had been to maintain the standoff somehow and buy time.
+His best course had been to maintain the standoff at all costs and buy time.
 
 “You bastard…”
 
@@ -338,7 +338,7 @@ Even a tenth—no, a hundredth—of his strength would crush Hongcheon’s skull
 
 “What do people say at a time like this? Ah, right.”
 
-Flame Tiger tapped his forehead theatrically and continued.
+Flame Tiger theatrically slapped his forehead.
 
 “May you be reborn in paradise.”
 
