@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "And as everything collapsed around them… one being rose to its feet alone.",
+      "defect": "“Rose to its feet” gives the serpentine being feet and changes the physical action from raising its body.",
+      "id": "F01",
+      "rationale": "몸을 일으키다 describes the being raising its body; the source does not mention standing on feet.",
+      "replacement": "And as everything collapsed around them… one being alone reared up.",
+      "severity": "critical",
+      "source": "그리고…… 모든 것이 무너지는 가운데 홀로 몸을 일으키는 한 존재가 있었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Vertical, blood-red pupils split straight down the middle.",
+      "defect": "The draft makes each pupil sound divided into two halves rather than shaped like a long vertical slit.",
+      "id": "F02",
+      "rationale": "세로로 죽 찢어진 describes the pupils’ elongated, slit-like shape, not pupils literally split down their centers.",
+      "replacement": "Blood-red pupils stretched into long vertical slits.",
+      "severity": "critical",
+      "source": "세로로 죽 찢어진 핏빛 동공."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Before he was a martial artist, he was the Family Head of the distinguished Zhuge Clan, and he had used reliable information and knowledge to protect his many clansmen and the power of his family.",
+      "defect": "The draft turns a statement of priority and responsibility into a chronological claim that Zhuge Feng became a martial artist only after becoming Family Head.",
+      "id": "F03",
+      "rationale": "무림인이기 이전에 means that his obligations as Family Head came before his identity as an individual martial artist, not that the roles occurred in that temporal order.",
+      "replacement": "He was a martial artist, but first and foremost, he was the Family Head of the distinguished Zhuge Clan, and he had used reliable information and knowledge to protect his many clansmen and his family’s power.",
+      "severity": "major",
+      "source": "그는 한 사람의 무림인이기 이전에 제갈세가라는 명문대파의 주인이었고, 숱한 식솔과 가문의 힘을 지키기 위해서 확실한 정보와 지식을 활용해 왔다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "In the early days of the Great Cataclysm, a Sea Serpent announced its existence to the entire world by sinking a US carrier battle group. For some reason, it disappeared immediately afterward.",
+      "defect": "“Immediately afterward” makes the Sea Serpent disappear immediately after sinking the carrier group, whereas the source places its disappearance shortly after the Great Cataclysm.",
+      "id": "F04",
+      "rationale": "대격변 직후 explicitly anchors the disappearance to the Great Cataclysm, not to the preceding attack.",
+      "replacement": "In the early days of the Great Cataclysm, a Sea Serpent announced its existence to the entire world by sinking a US carrier battle group. For some reason, it vanished shortly after the Great Cataclysm.",
+      "severity": "critical",
+      "source": "대격변 초창기, 미 항모전단을 격침함으로써 자신의 존재를 전 세계에 알린 시 서펜트는 무슨 이유에서인지 대격변 직후 자취를 감추었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "It had just taken a spear thrust I had launched with all my strength and still had not fallen.",
+      "defect": "The draft changes a launched spear into a spear thrust, altering the attack’s mechanism.",
+      "id": "F05",
+      "rationale": "쏘아 보낸 창 is a spear sent flying at the monster; the later description confirms that Taekyung launched an iron spear from his Inventory.",
+      "replacement": "It had just taken a spear I had hurled with all my strength and still had not fallen.",
+      "severity": "critical",
+      "source": "지금 막 내가 온 힘을 실어 쏘아 보낸 창을 맞고도 쓰러지지 않을 정도니까."
+    },
+    {
+      "confidence": 0.98,
+      "current": "*I underestimated him.*",
+      "defect": "The draft frames Cheongpung’s resistance as an underestimated strength, weakening the joke that Taekyung’s own reasoning overlooked Cheongpung already being abnormal.",
+      "id": "F06",
+      "rationale": "내 생각이 짧았다 is self-directed recognition of shortsighted reasoning, which sets up the deadpan conclusion that Cheongpung had been out of his mind from the beginning.",
+      "replacement": "*I hadn’t thought that through.*",
+      "severity": "major",
+      "source": "내 생각이 짧았다."
+    }
+  ],
+  "summary": "Six actionable findings: three altered physical or temporal facts, one role-framing error, one incorrect attack mechanism, and one weakened punchline.",
+  "version": 1
+}
