@@ -750,7 +750,7 @@ function initChapter(signal: AbortSignal) {
   );
 
   const HIDE_AFTER_Y = 72;
-  const SHOW_UP_THRESHOLD = 32;
+  const SHOW_UP_THRESHOLD = 64;
   let lastY = window.scrollY;
   let chromeHidden = false;
   let scrollUp = 0;
