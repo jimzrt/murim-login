@@ -1,15 +1,17 @@
 # Translation State
 
-- Last completed: 453
-- Next chapter: 454
-- Current block: 450–454 (4/5)
-- Latest translation: `translations/0453.md`
-- Latest summary: `summaries/beats/0453.md`
-- Safe profiles through: chapter 453
+- Last completed: 454
+- Next chapter: 455
+- Current block: 450–454 (5/5)
+- Latest translation: `translations/0454.md`
+- Latest summary: `summaries/beats/0454.md`
+- Safe profiles through: chapter 454
 
 ## Current Block
 
-- Taekyung stops Hyuk Mujin, Gung Gibang, and Cheongpung from picking up scattered silver and prepares to punish them, but a Qingxia Hall entourage interrupts. Taekyung disarms and defeats their sparrow-eyed martial artist, overwhelms four Peak guards, and orders the entourage to leave their sedan chairs. The group submits one by one until their leader, Ju Wongong, claims distant kinship with the Emperor and demands that Taekyung kneel; Taekyung mocks him as a Celestial Dragon and orders him down.
+- Jin Taekyung forces Ju Wongong down from his four-person sedan chair, mocks his threats of imperial punishment, and learns that the distant imperial relative was exiled for embezzling wealth while abusing his authority. Ju immediately backs down after Taekyung reveals Prince Shangshan Zhu Bao's token.
+- Ju Wongong says he is traveling to Dongting Lake for a luxurious boat ride disguised as an inspection of Hubei's welfare. Taekyung rejects the invitation and criticizes him for flaunting wealth during the province's unrest.
+- Ju presents Honglan, a stunning singing courtesan who is secretly a Lower District Sect member with enough martial arts to protect herself, hoping to entice Taekyung into accompanying him. Taekyung identifies her through Sound Transmission, refuses the offer, and Ju asks him for an autograph after hearing that Prince Shangshan received one.
 
 ## Open Questions
 
@@ -25,7 +27,7 @@
 - Render 살귀 as killer demon and 일급 낭인 as First Rate wandering martial artist.
 - Render 시부럴 as “sibu-leol,” 시벌좌 as “Lord Fuck,” and 시부럴좌 as “Lord Sibu-leol.”
 - Preserve the Skeleton King's grandiose, mock-offended voice and Taekyung's dry, profane humor.
-- Render 주원공 as Ju Wongong, 대죽산표국 as Daejuksan Escort Bureau, 형문검가 as Hyungmun Sword Family, 응성상회 as Eungseong Merchant Association, 천룡인 as Celestial Dragon, and 사인교 as four-person sedan chair.
+- Render 주원공 as Ju Wongong, 대죽산표국 as Daejuksan Escort Bureau, 형문검가 as Hyungmun Sword Family, 응성상회 as Eungseong Merchant Association, 천룡인 as Celestial Dragon, 사인교 as four-person sedan chair, 홍란 as Honglan, 가기 as singing courtesan, and 구족 as the nine branches of kin.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
