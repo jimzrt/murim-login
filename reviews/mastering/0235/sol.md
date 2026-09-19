@@ -2,7 +2,7 @@
 
 The training Jeok Cheongang put me through was simple.
 
-Take a horse stance beneath the waterfall. Do push-ups. Go fetch me some bird eggs because I feel like eating them…
+Hold a horse stance beneath the waterfall. Do push-ups. Go find me some bird eggs because I feel like eating them…
 
 That much was fine. The problem was the conditions tacked onto every exercise.
 
@@ -28,9 +28,9 @@ And he wanted me to stay there for six shichen. In a horse stance, no less.
 
 It took me ten full days to complete the Quest.
 
-As a side effect, I briefly lost consciousness. When I opened my eyes again, the iron balls had grown heavier.
+I briefly lost consciousness afterward. When I opened my eyes again, the iron balls had grown heavier.
 
-“An additional hundred geun[^1]. From now on, we’re increasing it to twelve shichen.”
+“Another hundred geun.[^1] From now on, we’re increasing it to twelve shichen.”
 
 “……”
 
@@ -52,7 +52,7 @@ Ding.
 >
 > **Fire King’s Hellfire Training-2** has been completed successfully!
 >
-> Outstanding achievement: **Unmoving** achieved!
+> Outstanding achievement **Unmoving** achieved!
 >
 > **Toughness** changes to **Endurance**!
 >
@@ -76,7 +76,7 @@ I got one shichen of blissful sleep each day. Everything else was part of my tra
 
 It was the most hellish push-up routine in the world. But I gritted my teeth and did it.
 
-On the day I completed every kind of push-up Jeok Cheongang wanted, the year’s first sprouts were pushing up from the ground.
+By the time I had completed every kind of push-up Jeok Cheongang demanded, the year’s first sprouts were emerging from the ground.
 
 “The weather has grown warm. I feel like having a swallow’s nest dish for once, so go fetch one.”
 
@@ -84,7 +84,7 @@ On the day I completed every kind of push-up Jeok Cheongang wanted, the year’s
 
 “What would an ignorant brat like you know? This old man has lived on Mount Jiuhua his entire life. By now, a few impatient swallows should be starting to build their nests.”
 
-“Whew. Where am I supposed to look for them?”
+“Whew. Where should I look?”
 
 “Cliffs.”
 
@@ -96,7 +96,7 @@ At last, I found a newly completed swallow’s nest and brought it to Jeok Cheon
 
 “Here it is. A swallow’s nest.”
 
-His long silence was followed by a single muttered sentence that was more than enough to snap the last thread of my patience.
+He stared at it in silence for a long time. Then he muttered the one sentence guaranteed to snap the last thread of my patience.
 
 “…It really exists.”
 
@@ -104,7 +104,7 @@ His long silence was followed by a single muttered sentence that was more than e
 
 My eyes rolled back, and I lunged at Jeok Cheongang. He beat me within an inch of my life.
 
-When I came to again, the iron balls had grown heavier. That was only natural.
+Naturally, when I came to again, the iron balls had grown heavier.
 
 “If you’re awake, get moving.”
 
@@ -120,13 +120,13 @@ It included every single thing I had done so far, without exception.
 
 “Another five hundred geun if you don’t like it.”
 
-“I’ve actually wanted to spend every day like this for a long time. I’ll be right back.”
+“I’ve actually wanted to live every day like this for a long time. I’ll be right back.”
 
 “Good.”
 
 From then on, I did whatever he told me.
 
-I wondered if it was even possible, but once I tried it, it turned out to be possible.
+I kept wondering whether any of it was even possible, but whenever I tried, it turned out that it was.
 
 A day passes quickly when your body is exhausted. The more intense the training became, the faster time flew.
 
@@ -148,7 +148,7 @@ High on a peak of Mount Jiuhua, now awash in color, Jeok Cheongang groggily open
 
 “I thought you were the Grim Reaper.”
 
-“I think even the Grim Reaper would run away in fear.”
+“I think even the Grim Reaper would run away from you.”
 
 Jeok Cheongang let out a short laugh at my wisecrack.
 
@@ -210,7 +210,7 @@ In the past, I had simply relied on strength, speed, and internal energy. Now I 
 
 Clatter!
 
-How long had I listened to the chains connected to my wrists sway and rattle? I kept driving my fists into an imaginary point without pause until I heard a System notification in my ear.
+The chains attached to my wrists rattled and swayed as I drove my fists toward an imaginary point without pause. After what felt like an eternity, a System notification rang in my ears.
 
 Ding.
 
@@ -272,7 +272,7 @@ Utterly bewildered, I asked, “Why are you doing this to me?”
 
 “What?”
 
-“Are you doing this on purpose to make me train more? You didn’t have to go this far. I was planning to keep training anyway.”
+“Are you pretending you forgot so you can make me train more? You don’t have to go this far. I was planning to keep training anyway.”
 
 “What kind of nonsense are you spouting?”
 
@@ -284,7 +284,7 @@ For an instant, unknowable emotions passed across his wrinkled face. After a lon
 
 Ding. A notification appeared, telling me that another Quest had been created, but I didn’t move an inch.
 
-I stared at Jeok Cheongang for a long moment before suddenly opening my mouth.
+I stared at Jeok Cheongang for a long moment before speaking.
 
 “Old Master. I just want to ask you something.”
 
@@ -296,7 +296,7 @@ The suspicion that had crossed my mind—*Could it be?*—hardened into certaint
 
 It wasn’t an easy subject to bring up, so I had phrased it indirectly. But there was no doubt he understood what I meant.
 
-After a suffocating silence, a sigh-like word escaped Jeok Cheongang’s lips.
+After a suffocating silence, words like a sigh escaped Jeok Cheongang’s lips.
 
 “…Follow me. There is somewhere we need to go together.”
 
@@ -312,7 +312,7 @@ Its progression could only be slowed. Everyone was equal before the curse of tim
 
 Thinking back, there had definitely been warning signs. He had been sleeping more with each passing day, and I had noticed bouts of forgetfulness like the one just now several times before.
 
-Even so, I hadn’t been particularly suspicious because he wasn’t an ordinary old man.
+Even so, I hadn’t suspected anything because he wasn’t an ordinary old man.
 
 *Fire King Jeok Cheongang.*
 
@@ -326,11 +326,11 @@ Jeok Cheongang’s voice echoed through the cave.
 
 It was as hot and humid as a steam sauna inside, and the heat intensified the deeper we went.
 
-I had already been staying on Mount Jiuhua for more than two months, but I had never once visited this place.
+I had been on Mount Jiuhua for more than two months, but I had never once visited this place.
 
-“Our founding ancestor was the greatest under heaven of his era. However, his forthright nature earned him many enemies.”
+“Our founding ancestor was the greatest under heaven of his era. However, his uncompromising nature earned him many enemies.”
 
-His calm voice continued like flowing water.
+His calm voice flowed on.
 
 He told me the history of the Fire Gate Clan from its founding to the present day.
 
@@ -342,7 +342,7 @@ Countless sects had disappeared over the past several hundred years, but the Fir
 
 “Even that became uncertain in this old man’s generation. It is all due to my lack of virtue.”
 
-After about half an hour, we finally stopped walking.
+After about half an hour, we finally stopped.
 
 By then, my entire body was drenched in sweat from the heat radiating beyond a moss-covered stone gate.
 
@@ -350,7 +350,7 @@ By then, my entire body was drenched in sweat from the heat radiating beyond a m
 
 “The Fire Gate Cavern. This is where our sect began, and where its legacy continues.”
 
-Jeok Cheongang gazed at the stone gate with a nostalgic expression before placing his palm against its surface.
+Jeok Cheongang gazed at the stone gate with a look of deep emotion before placing his palm against its surface.
 
 The instant the Scorching Yang Qi flowing from his fingertips touched the gate, an intricately engraved sun emblem began to glow. The firmly sealed stone door slowly slid open.
 
@@ -390,11 +390,11 @@ Ding.
 
 Hummm.
 
-The internal energy in my dantian, awakened from its long slumber, spread through my limbs and body.
+The internal energy in my dantian awakened from its long slumber and surged through every limb and meridian.
 
 Seeing my astonishment, Jeok Cheongang spoke as though he had expected this.
 
-“Your internal energy comes from the Blazing Flame Divine Pill. It is only natural that it would react to the Fire Gate Cavern.”
+“Your internal energy came from the Blazing Flame Divine Pill. It is only natural that it would react to the Fire Gate Cavern.”
 
 *It found its roots. Is that it?*
 
@@ -404,7 +404,7 @@ It was a strange feeling. My internal energy surged like a living creature, and 
 
 We sat facing each other with the flame between us.
 
-Beyond the blue-white fire, Jeok Cheongang’s face looked noticeably older.
+Beyond the blue-white fire, Jeok Cheongang looked noticeably older.
 
 “I will pass on our sect’s martial arts to you.”
 
@@ -418,9 +418,9 @@ Beyond the blue-white fire, Jeok Cheongang’s face looked noticeably older.
 
 Everything Jeok Cheongang said was perfectly reasonable.
 
-If he became confused about the formula of an internal cultivation technique, if he forgot even a single word, I would cross an irreversible river.
+If he mixed up the formula for an internal cultivation technique—if he forgot even a single word—there would be no coming back for me.
 
-The river of qi deviation—or death.
+I would face qi deviation, or death.
 
 “Can you learn martial arts from someone like me?”
 
@@ -428,7 +428,7 @@ I took a deep breath.
 
 Only after turning it over from every angle did I finally reach a single conclusion.
 
-“I will.”
+“I can.”
 
 “I’ll say it again…”
 
@@ -448,7 +448,7 @@ The fact that Jeok Cheongang had brought me here, to the Fire Gate Cavern, meant
 
 *Fire King Jeok Cheongang trusts me. He chose me. He intends to pass everything the Fire Gate Clan has to me.*
 
-My heart swelled at the thought. As though it had sensed my emotions, the blue-white flame surged violently.
+My chest swelled at the thought. As though sensing my emotions, the blue-white flame surged.
 
 Ding.
 
@@ -456,9 +456,9 @@ Ding.
 >
 > Quest **Heir of the Blazing Flame** has been created!
 
-Along with the System notification, Jeok Cheongang reached out his hand. As Seizing an Object Through Empty Space took effect, the lid of a dark metal box that had risen from the flames opened.
+As the System notification sounded, Jeok Cheongang extended his hand. Seizing an Object Through Empty Space took effect, and a dark metal box rose from within the flames. Its lid opened.
 
-I read the title of the old book floating toward me.
+I read the title of the ancient book floating toward me.
 
 “Fire Gate Divine Technique…”
 
@@ -466,17 +466,17 @@ I knew instinctively that this martial art was the foundation of the Fire Gate C
 
 Jeok Cheongang had risen to his feet and now stood directly behind me.
 
-“We’ll begin at once, so sit cross-legged and close your eyes. From now on, circulate your energy according to the formula I teach you.”
+“We’ll begin at once. Sit cross-legged and close your eyes. Circulate your energy according to the formula I teach you.”
 
 I followed his instructions and closed my eyes. In the darkness, the blue-white flame seemed to flicker before me.
 
-At last, Jeok Cheongang’s voice pierced my ears.
+At last, Jeok Cheongang’s voice reached my ears.
 
 “What about your fist-and-foot training?”
 
 “…Huh?”
 
-“Did you finish your training and start slacking off? Wait, fuck, that startled me. This is the Fire Gate Cavern. What the hell is this?”
+“Did you finish your training and start slacking off? Wait—fuck, you startled me! This is the Fire Gate Cavern. What the hell is going on?”
 
 “…!”
 
@@ -484,11 +484,11 @@ At last, Jeok Cheongang’s voice pierced my ears.
 
 * * *
 
-After that day, the two people who had caused such a commotion on Mount Jiuhua for some time vanished without a trace.
+After that day, the two people who had caused such a commotion on Mount Jiuhua vanished without a trace.
 
 While they were gone, the trees sprouted green leaves, the flowers bloomed in full, and the swallows built their nests along the cliffs.
 
-From green, to autumn foliage, and then to white snow.
+From verdant green to crimson autumn leaves, and then to white snow.
 
 Until Mount Jiuhua changed its clothes three times.
 
