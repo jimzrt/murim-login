@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "A few days earlier, after I had sentenced him to the Yangtze-dipping punishment, Hyuk Mujin had immediately logged out. As a result, he had spent an entire shichen sightseeing at the Yangtze Aquarium.",
+      "defect": "The draft reverses the subject of the Logout action. Taekyung logged out after imposing the punishment; Hyuk Mujin remained behind in the Yangtze for a full shichen.",
+      "id": "F01",
+      "rationale": "The explicit subject of 로그아웃한 is 내가, and 덕분에 causally connects Taekyung’s departure to Hyuk Mujin’s prolonged punishment.",
+      "replacement": "A few days earlier, after sentencing him to the Yangtze-dipping punishment, I had immediately logged out, leaving Hyuk Mujin to spend an entire shichen sightseeing at the Yangtze Aquarium.",
+      "severity": "critical",
+      "source": "며칠 전, 내가 장강 찍먹 형벌을 내린 뒤 곧바로 로그아웃한 덕분에 장장 한 시진 동안 장강 아쿠아리움을 구경한 혁무진이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The Blood Lord’s recovery from Jeok Cheongang’s Dance of the Fire God and Demon had made him look less like a human and more like a Troll.",
+      "defect": "The draft changes the comparison from the Blood Lord’s Troll-like manner of recovering to his recovery altering his appearance.",
+      "id": "F02",
+      "rationale": "회복하는 모습 describes what his regeneration looked like; it does not say that recovering made his physical appearance Troll-like.",
+      "replacement": "The way the Blood Lord recovered from Jeok Cheongang’s Dance of the Fire God and Demon was like that of a Troll, not a human.",
+      "severity": "major",
+      "source": "적천강이 펼친 화신귀무에서 회복하는 혈주의 모습은 인간이 아닌 트롤과도 같았고,"
+    },
+    {
+      "confidence": 1.0,
+      "current": "The Lord of Heaven worshiped by the Western Heaven Demon Lord had appeared before us by borrowing the body of a subordinate whose life had already ended.",
+      "defect": "The draft changes the participant from Taekyung alone to an unspecified group by rendering 나와 as “us.”",
+      "id": "F03",
+      "rationale": "나와 마주했다 explicitly means that the Lord of Heaven faced or encountered the first-person narrator.",
+      "replacement": "The Lord of Heaven worshiped by the Western Heaven Demon Lord had appeared before me by borrowing the body of a subordinate who was already dead.",
+      "severity": "critical",
+      "source": "서천마군이 숭배해 마지않던 암천의 천주(天主)는 이미 숨이 끊긴 수하의 몸을 빌려 나와 마주했다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "I knew nothing about how strange or vast the martial arts of the demonic, heterodox arts were—the arts Murim called demonic martial arts.",
+      "defect": "The phrase “martial arts of the demonic, heterodox arts” is grammatically malformed and reverses the terminology relationship: Murim describes them as demonic and heterodox, while people commonly call them demonic martial arts.",
+      "id": "F04",
+      "rationale": "The replacement preserves 사마외도 as the broader Murim classification and 마공 as the common name without the nested, nonsensical construction.",
+      "replacement": "The martial arts of those Murim deemed demonic and heterodox—what people commonly called demonic martial arts. I had no idea how bizarre or far-ranging they could be.",
+      "severity": "minor",
+      "source": "무림에서 말하는 사마외도(邪魔外道)의 무공. 흔히들 마공(魔功)이라 부르는 그것이 얼마나 괴이하며 광활한지 나는 모른다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "That was not the only reason. A short distance away, Mungyeong was watching us while stroking his large acupuncture needle with ominous intent.",
+      "defect": "The draft omits the explicit distance of several jang and makes Mungyeong’s suggestive gesture explicitly ominous, adding an interpretation absent from the source.",
+      "id": "F05",
+      "rationale": "몇 장 gives a concrete distance, while 의미심장하게 characterizes the gesture as pointed or suggestive rather than directly stating hostile intent.",
+      "replacement": "It wasn’t only because I saw Mungyeong several jang away, watching us as he pointedly stroked a large acupuncture needle.",
+      "severity": "minor",
+      "source": "몇 장 떨어진 곳에서 이쪽을 바라보며 의미심장하게 대침을 쓰다듬는 문경의 모습을 봤기 때문만은 아니다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Grab! Whoosh!”",
+      "defect": "The quotation marks incorrectly present the action sound effects as spoken dialogue.",
+      "id": "F06",
+      "rationale": "The Korean is unspoken action onomatopoeia accompanying Taekyung’s sudden grab and throw.",
+      "replacement": "*Grab—whoosh!*",
+      "severity": "minor",
+      "source": "덥석, 후웅!"
+    },
+    {
+      "confidence": 0.94,
+      "current": "“…What the hell, sibu-leol.”",
+      "defect": "The draft applies the established transliteration for 시부럴 to the distinct shortened profanity 시벌, producing unnatural mixed English.",
+      "id": "F07",
+      "rationale": "시벌 is a forceful expletive here, while the binding temporary rendering specifically applies “sibu-leol” to 시부럴.",
+      "replacement": "“…What the fuck?”",
+      "severity": "minor",
+      "source": "“……뭐여, 시벌.”"
+    }
+  ],
+  "summary": "The draft contains one reversed subject, two altered action/participant details, and several localized terminology and prose issues.",
+  "version": 1
+}
