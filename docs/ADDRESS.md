@@ -777,3 +777,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 주원공 | 홍란 | employer to kept singing courtesan | Honglan | commanding | Orders Honglan to greet Taekyung and presents her as the singing courtesan he keeps at his side. |
 | 홍란 | 진태경 | Lower District Sect courtesan to honored guest | honored guest | humble and formal | Introduces herself with 소녀 and addresses Taekyung as 귀인. |
 | 가솔 | 진태경 | Zhuge Clan retainer to Great Hero | Great Hero Jin | polite and pleading | Uses 진 대협 while urging Taekyung to stop provoking Ju Wongong. |
+| 진태경 | 삼괴 | interrogator_to_captured_enemy | Three Fiends | threatening and coercive | Taekyung addresses the captured fiend by his collective sobriquet while demanding information about Dark Heaven, Hubei, and the Dongting Fisherman. |
+| 삼괴 | 진태경 | captured_enemy_to_interrogator | you bastard | defiant and profane | The Three Fiends curses Taekyung, challenges him to remove the seal, and demands death rather than continued torture. |

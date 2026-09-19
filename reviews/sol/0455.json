@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "Yet most of it was useless or concerned events from the distant past, and the information I needed most had not emerged until the very end.",
+      "defect": "“Had not emerged until the very end” implies that the needed information finally emerged at the end. The source says it never emerged, even by the end of the interrogation.",
+      "id": "F01",
+      "rationale": "마지막까지 나오지 않았다 explicitly means the information remained undisclosed through the end, which is central to Taekyung’s decision to continue the interrogation.",
+      "replacement": "Yet most of it was useless or concerned events from the past, and the information I needed most had never come out.",
+      "severity": "critical",
+      "source": "그러나 그중 대부분은 쓸모없거나 지나간 일에 불과했고, 가장 필요한 정보는 마지막까지 나오지 않았다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“If you’re curious, release this old man’s restraints right now. I’ll tell you personally.”",
+      "defect": "금제 is the seal suppressing his martial arts, not his physical restraints, and 알려 주겠다 is a threat to demonstrate the answer himself rather than merely tell it.",
+      "id": "F02",
+      "rationale": "The old man is challenging Taekyung to restore his martial power so he can retaliate personally; both the mechanism and threatening force are lost in the current line.",
+      "replacement": "“If you’re curious, lift the seal on my martial arts right now. I’ll show you myself.”",
+      "severity": "major",
+      "source": "“궁금하면 당장 금제를 풀어라. 노부가 친히 알려 줄 테니.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "He had held out through sheer stubbornness for the first few shichen,[^2] but once the torture reached its final stages, he had become so talkative that he filled five bamboo slips with writing.",
+      "defect": "The current wording makes the prisoner physically write on the bamboo slips. The source says he talked enough for his testimony to fill five slips with densely packed writing.",
+      "id": "F03",
+      "rationale": "말이 많아졌으니까 describes how much he disclosed orally; it does not assign the act of writing to the bound and tortured prisoner. 악으로 also carries the stronger characterization of holding out through spite or sheer vicious resolve.",
+      "replacement": "He had held out through sheer spite for the first few shichen,[^2] but once the torture reached its final stages, he had talked enough to fill five bamboo slips with closely packed writing.",
+      "severity": "major",
+      "source": "처음 몇 시진은 악으로 버티더니, 고문이 막바지에 다다르자 죽간 다섯 개를 글자로 빼곡하게 채울 만큼 말이 많아졌으니까."
+    },
+    {
+      "confidence": 0.98,
+      "current": "With a quiet mutter, I seized the Three Fiends’ wrist and felt for his pulse.",
+      "defect": "The draft adds a diagnostic pulse check that Taekyung does not perform here. He grips the wrist pulse point in preparation for channeling internal energy; the torturer checks the prisoner’s pulse later.",
+      "id": "F04",
+      "rationale": "완맥을 틀어쥐었다 describes firmly grasping the wrist, while 혼절한 also explicitly identifies the prisoner as unconscious. Preserving this action distinguishes it from the later 맥을 짚고 상태를 확인했다.",
+      "replacement": "With a quiet mutter, I seized the unconscious Three Fiends by the wrist.",
+      "severity": "major",
+      "source": "작은 중얼거림과 함께 혼절한 삼괴의 완맥을 틀어쥐었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The old man hunched over like a shrimp and forced out a difficult cough.",
+      "defect": "“Forced out a difficult cough” is an unnatural English collocation.",
+      "id": "F05",
+      "rationale": "힘겹게 describes the effort involved in coughing; the replacement preserves that image and reads naturally.",
+      "replacement": "Hunched over like a shrimp, the old man coughed with difficulty.",
+      "severity": "minor",
+      "source": "새우처럼 허리를 굽힌 노인은 힘겹게 기침을 내뱉었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Is the burst place all right? It must hurt every time you take a piss.”",
+      "defect": "“The burst place” is an unnatural literal calque that obscures the deliberately crude but euphemistic taunt.",
+      "id": "F06",
+      "rationale": "터진 곳 euphemistically refers to the injured area without explicitly naming his testicles; “the busted part” preserves that level of explicitness and Taekyung’s casual mockery.",
+      "replacement": "“How’s the busted part? Must hurt every time you take a piss.”",
+      "severity": "minor",
+      "source": "“터진 곳은 괜찮냐. 오줌 쌀 때마다 아플 것 같은데.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "It was at that exact moment that his killing-filled shout rang through the underground prison.",
+      "defect": "“Killing-filled” is unnatural and fails to use the established rendering of 살기.",
+      "id": "F07",
+      "rationale": "살기 가득한 directly describes the shout as full of killing intent, the binding term for 살기.",
+      "replacement": "It was at that exact moment that his shout, brimming with killing intent, rang through the underground prison.",
+      "severity": "minor",
+      "source": "살기 가득한 외침이 지하 뇌옥에 울려 퍼지던 바로 그 순간이었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“He’s got a long life line. He stopped at the threshold of the afterlife.”",
+      "defect": "“A long life line” sounds like a palmistry reference and does not naturally convey the idiom that the prisoner is exceptionally hard to kill.",
+      "id": "F08",
+      "rationale": "명줄이 길다 is an idiom for tenacious survival, while 저승길 문턱 denotes reaching but not crossing the threshold of death.",
+      "replacement": "“He’s a hard one to kill. He stopped right at death’s door.”",
+      "severity": "minor",
+      "source": "“명줄이 긴 놈이군요. 저승길 문턱에서 멈췄습니다.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“The people Father—no, the Family Head—mentioned have already prepared to leave. Shall we depart right now?”",
+      "defect": "The interruption is grammatically misplaced in English, and the final question changes Zhuge Gyun’s inquiry about Taekyung’s intention into an offer for both of them to depart.",
+      "id": "F09",
+      "rationale": "아버 is cut off mid-word before Gyun corrects himself to the formal title, and 출발하시게요 asks whether Taekyung intends to leave now.",
+      "replacement": "“The people my fath—no, the Family Head mentioned are already prepared to leave. Do you intend to depart immediately?”",
+      "severity": "minor",
+      "source": "“아버, 아니 가주님께서 말씀하셨던 이들이라면 이미 떠날 채비를 마쳤습니다. 지금 당장 출발하시게요?”"
+    }
+  ],
+  "summary": "One critical reversal of whether the needed intelligence was obtained, plus three meaningful action/mechanism errors and several localized terminology or English issues.",
+  "version": 1
+}
