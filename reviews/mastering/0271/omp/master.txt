@@ -2,7 +2,7 @@
 
 Shhk!
 
-The Iron Golem’s impossibly sturdy body was sliced apart like soft tofu.
+The Iron Golem’s impossibly sturdy body sliced apart like soft tofu.
 
 Even steel imbued with mana couldn’t withstand Scorching Yang Qi.
 
@@ -17,7 +17,7 @@ Ding. Ding.
 > - You defeated the **Level 95 Iron Golem**!
 > - You gained a considerable amount of EXP…
 
-“Why is it so weak?”
+“Why are these things so weak?”
 
 Even I was bewildered by what I’d just done.
 
@@ -41,7 +41,7 @@ A scream erupted from among the rookie Guild members.
 
 “Look out!”
 
-That rookie needed some training. If a teammate looked like they were in danger, they should have picked up a rock lying nearby and at least tried to distract the enemy. What were they doing?
+That one needed more training. If a teammate looked like they were in danger, he should at least pick up a rock and throw it to distract the enemy. What was he doing?
 
 *Well, he is a rookie.*
 
@@ -63,7 +63,7 @@ The ground caved in with a metallic clang, and compressed air exploded outward. 
 
 Only seconds ago, its arm had been solid and gleaming. Now it melted and dripped away as if a fire dragon had swallowed it.
 
-—Grill?
+—Griill?
 
 Iron Golems were magical puppets without emotions.
 
@@ -79,7 +79,7 @@ Deep within its enormous body, which contained not a trace of qi, something puls
 
 The Golem’s core.
 
-“This Hunter offers free grilling.”
+“This Hunter grills for free.”
 
 I slammed my open palm into its chest. The cool metal was consumed by the heat of the Flame Divine Palm.
 
@@ -127,11 +127,11 @@ When I looked around, everyone was staring at me in shock.
 
 “Yes. I saw it.”
 
-“Wow, he was playing with an A-rank monster. I couldn’t even see him move.”
+“Wow, he toyed with A-rank monsters. I couldn’t even see him move.”
 
 “I told you I saw it.”
 
-A voice rang out above the murmuring rookie Guild members.
+A voice rang out over the murmuring rookies.
 
 “Is the raid over already? After combat, clean up the remains and keep watch over the surrounding area. Guild Master and Miss Song, please take charge.”
 
@@ -145,9 +145,9 @@ Maybe it was that unique aura of his. You had to be born with something like tha
 
 As I was thinking this, Team Leader Choi approached and spoke with a grave expression.
 
-“Mr. Jin Taekyung. I’ve been thinking about this for a while, but I can’t hold back any longer.”
+“Mr. Jin Taekyung. I’ve been thinking this for a while now, but I can’t hold back any longer.”
 
-“Yes.”
+“Yes?”
 
 “Where did you buy that spear?”
 
@@ -157,7 +157,7 @@ Right. This was the kind of person he was. I’d forgotten for a moment.
 
 Whether he knew what I was thinking or not, Team Leader Choi’s gaze remained fixed on the spear in my hand—White Flame.
 
-“It’s like looking at a work of art. A classical yet beautiful Chinese-style design. Don’t tell me it’s made from Magic Gem?”
+“It’s like looking at a work of art. A classical yet beautiful Chinese design… Don’t tell me it’s made from Magic Gems?”
 
 *No. It’s made from Ten-Thousand-Year Cold Iron.*
 
@@ -173,7 +173,7 @@ Team Leader Choi’s covetous gaze traveled up and down the spear.
 
 Even if I wanted to sell it, I couldn’t. It was a bound Item that only I could use. The Item information said so, too.
 
-Perhaps for that reason, it was the only object in my two separate inventories—the ones divided between Murim and the modern world—that could travel between the two worlds.
+Perhaps that was why it was the only object capable of traveling between the two separate inventories assigned to Murim and the modern world.
 
 “Ah…”
 
@@ -189,15 +189,15 @@ I answered half-jokingly and half-seriously.
 
 “A Supreme Peak master.”
 
-“Isn’t that a term from wuxia novels? Peak master, Supreme Peak master.”
+“Isn’t that a term from wuxia novels? Peak masters and Supreme Peak masters?”
 
-“That’s right. I’m thinking of writing a novel as a hobby after I retire. Something like *Login Murim*.”
+“That’s right. I’m thinking of writing a novel as a hobby after I retire. Something like *Murim Login*.”
 
 “That title isn’t very good. It won’t be a hit.”
 
 “I’m not actually planning to write it.”
 
-Team Leader Choi let out a short laugh before speaking.
+Team Leader Choi let out a short laugh.
 
 “I know I’ve said this before, but sometimes, when I look at you, Mr. Jin Taekyung, a certain thought crosses my mind.”
 
@@ -205,7 +205,7 @@ Team Leader Choi let out a short laugh before speaking.
 
 “Whether you and I are truly the same kind of person.”
 
-His light brown eyes seemed to grow hot and reddish.
+His pale brown eyes seemed to glow faintly red.
 
 “A perennial F-rank Hunter becoming this powerful in only a few months? If I hadn’t seen you with my own eyes, I never would have believed it.”
 
@@ -219,7 +219,7 @@ What’s more, Team Leader Choi had watched my transformation from closer than a
 
 *I might fool everyone else, but not Team Leader Choi.*
 
-To him, I was no different from a second-, third-, or fourth-awakened Hunter.
+In his eyes, I was practically a second-, third-, and fourth-awakened Hunter all rolled into one.
 
 I licked my dry lips.
 
@@ -231,7 +231,7 @@ If it ever got out, I might be dragged off by the NIS—or no, NASA—and spend 
 
 Team Leader Choi shook his head slightly and cut me off.
 
-“I know. I understand that you have secrets you can’t even tell me. In a way, I’m in a similar position, so I have no intention of pressing you.”
+“I know. I understand that you have secrets you can’t share. In a way, I’m in a similar position, so I have no intention of pressing you.”
 
 *A similar position?*
 
@@ -241,9 +241,9 @@ Before the question could fully form in my mind, he continued.
 
 Song Song and Im Kkeokjeong had joined us later, but Butler Kim had been at Team Leader Choi’s side, watching me grow.
 
-News articles were already pouring out under headlines like *The F-Rank Hunter’s Rebellion* and *A Miracle*. If the two of them kept their mouths shut, I could probably bring things to an end here.
+News articles were already pouring out under headlines like *The F-Rank Hunter’s Rebellion* and *A Miracle*. If those two kept their mouths shut, we could leave it at that.
 
-I dipped my head.
+I bowed my head.
 
 “Thank you. I owe you one.”
 
@@ -293,7 +293,7 @@ I quietly avoided Song Song’s incredulous stare.
 
 Wiping out all the Golems inside the Gate hadn’t been enough. I’d even soloed the boss monster.
 
-*That EXP was so sweet.*
+*That EXP was so damn sweet.*
 
 “Ahem.”
 
@@ -305,13 +305,13 @@ Wiping out all the Golems inside the Gate hadn’t been enough. I’d even soloe
 
 “Now, now. Let’s just let it go, Miss Song.”
 
-“And if I just can’t let it go?”
+“And if I refuse?”
 
 “I’ll punish you by confessing my feelings.”
 
 “…”
 
-Song Song pressed her lips shut and slowly backed away with a frightened expression.
+Song Song clamped her mouth shut and slowly backed away, terror written across her face.
 
 *I got what I wanted, so why do I feel like crying?*
 
@@ -325,19 +325,19 @@ I had spent an entire year in Murim, but only a few days had passed in the moder
 
 It would take more time for all the interest and excitement surrounding me to die down.
 
-“Please step back, reporters!”
+“Please step back!”
 
 “Only authorized personnel are allowed beyond this point!”
 
 Only after the guards rushed in and held back the press did I escape the barrage of flashes.
 
-Once the shutter sounds finally stopped, the rookie Guild members, their faces flushed with excitement, shouted loudly.
+Once the shutter sounds finally stopped, the rookie Guild members shouted in unison, their faces flushed with excitement.
 
 “Thank you for your hard work!”
 
 Their eyes sparkled. Their gazes were filled with admiration and respect as they looked at us.
 
-Though, of course, most of that attention was focused on me.
+Of course, most of that attention was focused on me.
 
 Feeling awkward, I turned toward the founding members. That was when I realized someone was missing.
 
@@ -347,27 +347,27 @@ Feeling awkward, I turned toward the founding members. That was when I realized 
 
 Team Leader Choi answered.
 
-“He told me privately on the way here, then slipped away. Apparently something came up.”
+“He spoke to me privately on the way back, then slipped away. Apparently, something came up.”
 
 “What could be so urgent that he left without even changing out of his gear?”
 
-“It must be urgent if he left like that.”
+“It must have been urgent if he left like that.”
 
 *What was going on? Had something happened at home?*
 
 An uneasy feeling settled in the back of my mind.
 
-*Come to think of it, I didn’t get to talk with him much after returning.*
+*Come to think of it, I barely spoke to him after I returned.*
 
 I had spent most of the raid operating alone, so I hadn’t had many chances to talk with the others.
 
 Looking back, Im Kkeokjeong’s expression had seemed a little dark. At the time, I’d assumed he was simply nervous, but…
 
-*Did something really serious happen?*
+*Did something serious happen?*
 
 Even after I changed out of my gear and everyone went their separate ways, I couldn’t stop thinking about it.
 
-I debated for a long time whether to call him, but in the end, I sent a quick message to the number saved in my contacts. It simply said that we should grab a drink together soon.
+I debated calling him for a long time, but in the end, I sent a quick message to the number saved in my contacts. It simply said we should grab a drink sometime soon.
 
 He probably had his own problems to deal with, and sticking my nose in where it didn’t belong might be rude.
 
@@ -377,9 +377,9 @@ I was staring at the stubborn number 1 that refused to disappear when—
 
 Bzzzzt.
 
-My smartphone vibrated. A phone icon appeared on the screen, along with the saved name.
+My smartphone vibrated. A phone icon appeared on the screen along with a saved name.
 
-It was a name I had saved several months ago and completely forgotten about.
+It was a name I had entered several months ago and completely forgotten.
 
 **Garam Middle School Classmate Park Jihoon**
 

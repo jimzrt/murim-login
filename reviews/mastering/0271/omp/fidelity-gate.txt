@@ -1,0 +1,15 @@
+{
+  "summary": "Faithful translation with minor terminology preferences missing from glossary",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "all mentions of '장비', '진태', '송이', '초절', '중국'",
+      "current": "Equipment (missing), Jintae (missing), Song-i (missing), supreme mastery (missing), China (missing)",
+      "defect": "Preferred glossary terms for 장비, 진태, 송이, 초절, 중국 absent in multiple places",
+      "replacement": "Use 'Equipment' instead of 'gear'; 'Jintae' instead of only 'Jin Taekyung' variant; 'Song-i' each time for 송이; 'supreme mastery' instead of 'Supreme Peak' or 'supreme peak'; 'China' instead of 'Chinese' or 'Chinese-style'",
+      "rationale": "Glossary binding terms for key names and terminology were not consistently applied, should be corrected for consistency and adherence to standards",
+      "confidence": 1.0
+    }
+  ]
+}

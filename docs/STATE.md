@@ -1,17 +1,16 @@
 # Translation State
 
-- Last completed: 478
-- Next chapter: 479
-- Current block: 475–479 (4/5)
-- Latest translation: `translations/0478.md`
-- Latest summary: `summaries/beats/0478.md`
-- Safe profiles through: chapter 478
+- Last completed: 479
+- Next chapter: 480
+- Current block: 475–479 (5/5)
+- Latest translation: `translations/0479.md`
+- Latest summary: `summaries/beats/0479.md`
+- Safe profiles through: chapter 479
 
 ## Current Block
 
-- Taekyung defeats the Mutated Water God Dragon by driving his spear through a gap in the scales at the back of its neck, but the dying dragon's restored mind communicates with him through mental intent instead of ordinary Sound Transmission.
-- The Water God Dragon transfers a fragmented record of its five hundred years to Taekyung. The memories reveal its benevolent origin as Dongting Lake's Two-Horned Beast, its failed pursuit of ascension, and its rule over Dongting Lake and the Yangtze.
-- The memories show that a Gate or enormous rift emitting mana and ominous energy mutated fish with demonic qi. The dragon fought the fish, blocked the rift for seven days and nights, absorbed most of the demonic qi, and became an evil beast. At the memory's end, Taekyung recognizes Honglan at the corruption site, leaving her role unresolved.
+- The Memory Fragment ends, and the Water God Dragon regains its reason long enough to thank Taekyung and his companions. Taekyung realizes that Honglan corrupted the benevolent imugi and identifies the silver hairpin in his hair as hers. The dragon gives him its purified Origin Essence before dying peacefully, and Taekyung closes its eyes.
+- Taekyung tells the confused Jeok Cheongang that they should go catch a flower snake, meaning Honglan. On a military ship, Honglan seduces Officer Song, admits that she used the Dongting Lake imugi to kill many people, and reveals that the imugi's death pleases her. She enthralls Officer Song and orders him to change the ship's destination.
 
 ## Open Questions
 
@@ -19,7 +18,7 @@
 - What are the origin and purpose of the symbols shared by the Arch Lich's magic circle and Dark Heaven's formations?
 - Did the Mutated Water Dragon destroy Donghu Stronghold and the related Yangtze River Channel League strongholds, and why was no Moving Formation trace left?
 - Who created or controlled the Gate or rift that corrupted the Water God Dragon, and how is that power related to Dark Heaven?
-- Why was Honglan present at the corruption site, and what role did she play in the Water God Dragon's mutation?
+- Why did Honglan corrupt the Water God Dragon and what is the full extent of her role in the Hubei incidents?
 
 ## Exceptional Decision
 
@@ -27,7 +26,7 @@
 - Render 장수 돌침대 as Jangsu stone bed and 효자손 as hyojason, each with an explanatory footnote when used.
 - Retain established jang and geun measurements, along with established renderings of live-fish sashimi and bone-in sashimi.
 - Continue rendering 수염 as whiskers; distinguish Force, Sword Energy, Hellfire, and Water Breath.
-- Render 의념 as mental intent when the dragon distinguishes it from 전음, which remains Sound Transmission.
+- Render 원정 as Origin Essence, 내단 as inner core, and 꽃뱀 as flower snake with an explanatory footnote.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
