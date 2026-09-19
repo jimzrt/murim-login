@@ -1,23 +1,25 @@
 # Translation State
 
-- Last completed: 500
-- Next chapter: 501
-- Current block: 500–504 (1/5)
-- Latest translation: `translations/0500.md`
-- Latest summary: `summaries/beats/0500.md`
-- Safe profiles through: chapter 500
+- Last completed: 501
+- Next chapter: 502
+- Current block: 500–504 (2/5)
+- Latest translation: `translations/0501.md`
+- Latest summary: `summaries/beats/0501.md`
+- Safe profiles through: chapter 501
 
 ## Current Block
 
-- Jang Taebo is overwhelmed by the Water God Dragon's remains and accepts his appointment as Master of Ironcraft Hall. He judges the bones, hide, and scales workable, promises results, and agrees to summon renowned artisans with messenger pigeons while fifty Jin Dragon Squad martial artists transport the remains under his and Wipeng's direction.
-- Zhuge Feng completes the Demon-Sealing Formation, which completely blocks the mana leaking from the Gate by drawing in the qi of the natural world. He expects it to remain active indefinitely according to his theory, but Taekyung warns that Dark Heaven deliberately caused the incident and that similar events will continue. Jin Wikyung agrees, and Zhuge Feng identifies Henan and the New Murim Alliance as the next matter requiring attention.
+- Jin Wikyung tells Taekyung that the New Murim Alliance will be founded at Mount Song in Henan Province in one month. The schedule was accelerated because Dark Heaven's actions, especially the Sichuan Blood Tragedy, were more rapid and violent than expected.
+- The alliance's appeal is directed primarily at the orthodox Murim of the Central Plains, but Jin Wikyung and Taekyung agree that the unorthodox faction cannot be excluded. The unorthodox forces survived the Great Faction War after repeatedly betraying the orthodox side, cutting off suspected spies, and eventually cooperating with the victors.
+- Jin Wikyung explains that the unorthodox Murim is now fragmented into rival factions, so the recent destruction of Hubei's unusually large dark-path presence created opportunities for other factions while warning them against defiance. He reveals that he proposed the arrangement to the government through Hongcheon, Hubei's new Provincial Administration Commissioner and a hidden loyal retainer of Prince Shangshan.
+- Taekyung decides to prepare to leave Hubei in a month with the people beside him and the people he wants beside him in the future. The chapter ends with him looking up at a towering cliff after muttering that he has given something enough time.
 
 ## Open Questions
 
 - Will the Demon-Sealing Formation remain effective permanently, and can equivalent formations be installed repeatedly if more Gates appear?
 - What is the Lord of Heaven's identity, and how is he connected to the dangerous force Taekyung associates with his original world?
 - Where is the Southern Heaven Demon Empress ultimately headed, and what does she intend to do in Yunnan?
-- What is the Dongting Fisherman's exact role within Dark Heaven, and how was he connected to the earlier destruction inside the secret refuge?
+- Will the fractured unorthodox factions accept the New Murim Alliance's invitation instead of joining Dark Heaven?
 - Has Jeok fully recovered from the Formless Ultimate Poison, and will Taekyung use the Water God Dragon's Origin Essence to aid him?
 
 ## Exceptional Decision

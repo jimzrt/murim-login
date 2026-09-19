@@ -1622,3 +1622,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 철기당주 | **Master of Ironcraft Hall** | Jang Taebo's title within the Jin Family. |
 | 신룡 | **Divine Dragon** | Title used when discussing the Water God Dragon's intentions. |
 | 신(新) 무림맹 | **New Murim Alliance** | The new Murim Alliance identified in connection with Henan. |
+| 승선포정사사 | **Provincial Administration Commissioner** | Official title of the provincial administrator overseeing Hubei. |
+| 육조참정 | **Assistant Provincial Administrator** | Former Shanxi administrative post held by Hongcheon. |
