@@ -1608,3 +1608,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 아나스타샤 | **Anastasia** | Name invoked in Taekyung's exclamation. |
 | 김전일 | **Kindaichi** | Reference to the fictional detective. |
 | 취팔선권 | **Drunken Eight Immortals Fist** | Martial art that Cheongpung begins imitating after seeing it. |
+| 살천문 | **Salcheonmun** | Vanished assassin sect once associated with Mungyeong. |
+| 실명산 | **Blindness Powder** | Poison powder that temporarily blinds Taekyung. |
+| 스승의 날 | **Teacher’s Day** | Holiday invoked in Taekyung’s joke about former students. |
