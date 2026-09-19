@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“You’ve both exceeded my expectations by far—your strength and speed. Even with the principles of Four Ounces Deflecting a Thousand Catties, I couldn’t completely redirect it.”",
+      "defect": "The dragon’s strength and speed are the two things exceeding Mungyeong’s expectations; “you’ve both” incorrectly makes Jeok Cheongang and an unspecified second person the subjects.",
+      "id": "F01",
+      "rationale": "힘과 속도 are a paired subject describing the dragon’s physical capabilities, not two people being addressed.",
+      "replacement": "“Its strength and speed both far exceeded my expectations. Even with the principles of Four Ounces Deflecting a Thousand Catties, I couldn’t completely redirect it.”",
+      "severity": "critical",
+      "source": "“힘과 속도. 모두 예상치를 훌쩍 뛰어넘는군. 사량발천근(四兩撥千斤)의 묘리로도 완전히 흘리지 못했어.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“It’s amazing every time I look at it. That’s why I find myself regretting things. Wondering what might have happened if this old man had had more time. Just a little more time.”",
+      "defect": "The neuter pronoun explicitly identifies the Water God Dragon as Jeok Cheongang’s subject, destroying the deliberate ambiguity that leads into the reveal that he means Taekyung. “Regretting things” also makes his specific lingering wish vague.",
+      "id": "F02",
+      "rationale": "놈 leaves the referent open in context, while the subsequent action reveals that Jeok Cheongang has been describing Taekyung. The English must preserve that misdirection rather than resolve it as an inanimate monster.",
+      "replacement": "“That one never ceases to amaze me. That’s why I can’t help wondering what it would have been like if this old man had had more time. Just a little more time.”",
+      "severity": "critical",
+      "source": "“볼 때마다 놀라운 놈이야. 그래서 미련이 생기고는 하지. 더, 조금 더 노부에게 시간이 있었다면 어땠을까, 하는 미련.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“That thing is the strangest and most terrifying monster this old man has ever seen in his life.”",
+      "defect": "“That thing” again fixes the referent as the dragon, whereas Jeok Cheongang is setting up the reveal of Taekyung as the monster capable of fighting it.",
+      "id": "F03",
+      "rationale": "그놈 remains referentially ambiguous until Taekyung’s intervention is revealed. “That one” preserves the intended setup without prematurely identifying either the dragon or Taekyung.",
+      "replacement": "“That one is the strangest and most terrifying monster this old man has ever seen.”",
+      "severity": "critical",
+      "source": "“그놈은 말이야. 노부가 지금껏 살아오며 본 것 중 가장 기이하고 무서운 괴물이라네.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "He was too clearheaded to wager his life on a martial artist’s pride, and he was the Family Head of a great family with countless family members under his care.",
+      "defect": "가솔 encompasses the household members and retainers led by the Family Head, not merely blood relatives. “Family members” narrows Zhuge Feng’s institutional responsibility.",
+      "id": "F04",
+      "rationale": "The sentence explains his restraint through his responsibility for the extensive household he leads, preserving the hierarchy and burden expressed by 수많은 가솔을 거느린.",
+      "replacement": "He was too clearheaded to wager his life on a martial artist’s pride, and as a Family Head, he was responsible for countless members of his household.",
+      "severity": "major",
+      "source": "그는 무인의 자존심에 목숨을 걸기에는 너무나도 냉철한 사람이고, 수많은 가솔을 거느린 일가의 가주니까."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Martial artists were people who wagered their lives on their martial arts and a single sword while traveling through fields of blades and swords.",
+      "defect": "This English corresponds to the following source sentence rather than the quoted passage and flattens the deliberate 도산검림 image into the repetitive and unnatural “fields of blades and swords.”",
+      "id": "F05",
+      "rationale": "도산검림 literally evokes mountains of blades and forests of swords as a vivid metaphor for the dangers martial artists traverse.",
+      "replacement": "Martial artists were people who staked their lives on their martial arts and a single sword as they roamed mountains of blades and forests of swords.",
+      "severity": "minor",
+      "source": "누군가는 괴물을 향해 달려들고, 누군가는 괴물의 몸부림을 피해 멀찍이 물러난다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The two men launched themselves away at the same time, as though they had made an agreement, and clicked their tongues while staring at the streaks of light writhing like living creatures.",
+      "defect": "The translation changes the singular 빛줄기 and 살아 있는 생물 into multiple streaks and multiple creatures.",
+      "id": "F06",
+      "rationale": "Both the attacking streak and its living-creature comparison are singular in the source.",
+      "replacement": "The two men launched themselves away at the same time, as though they had made an agreement, and clicked their tongues while staring at the streak of light writhing like a living creature.",
+      "severity": "minor",
+      "source": "약속이라도 한 것처럼 동시에 신형을 날린 두 사람은, 살아 있는 생물처럼 꿈틀거리는 빛줄기를 바라보며 혀를 찼다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "As the young man soon disappeared into the distance, becoming a single gust of wind, Zhuge Feng’s eyes sank deeply.",
+      "defect": "“His eyes sank deeply” is not natural English and can imply a physical change to his eyes rather than his gaze turning grave and contemplative.",
+      "id": "F07",
+      "rationale": "눈동자는 깊게 가라앉아 있었다 describes the subdued depth and gravity of Zhuge Feng’s gaze.",
+      "replacement": "As the young man disappeared into the distance like a gust of wind, Zhuge Feng’s gaze grew somber.",
+      "severity": "minor",
+      "source": "이내 한 줄기의 바람이 되어 멀어지는 청년의 뒷모습을 바라보는 제갈풍의 눈동자는 깊게 가라앉아 있었다."
+    }
+  ],
+  "summary": "Three critical subject or referent errors obscure combat mechanics and the reveal that Jeok Cheongang is calling Taekyung the true monster. Four additional findings address household hierarchy, a changed quantity, a flattened martial idiom, and unnatural English.",
+  "version": 1
+}
