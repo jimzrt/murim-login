@@ -1,6 +1,6 @@
 # Bingbing (빙빙)
 
-- **Safe through:** Chapter 304
+- **Safe through:** Chapter 450
 - **Aliases:** None
 - **Role:** Child fleeing the Monster Wave with her mother in the reconnaissance footage.
 - **Personality:** Frightened after witnessing her mother's death.
