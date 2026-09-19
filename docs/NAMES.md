@@ -1611,3 +1611,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 살천문 | **Salcheonmun** | Vanished assassin sect once associated with Mungyeong. |
 | 실명산 | **Blindness Powder** | Poison powder that temporarily blinds Taekyung. |
 | 스승의 날 | **Teacher’s Day** | Holiday invoked in Taekyung’s joke about former students. |
+| 귀면 | **Ghost Face** | Taekyung's joking alternate epithet for Wipeng. |
+| 요단강 | **Jordan River** | Biblical river used in Taekyung's Dongting Lake joke. |
+| 진룡 | **Jin Dragon** | The two characters embroidered on the Jin Dragon Squad's uniforms. |

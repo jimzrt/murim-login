@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "If eating elixirs could turn someone into a Supreme Peak master, or if Returning to Youth could do the same, who would bother training until their hands bled?",
+      "defect": "The draft presents Returning to Youth as a separate means of becoming a Supreme Peak master. The source identifies becoming a Supreme Peak master and returning to youth as two hypothetical results of consuming elixirs.",
+      "id": "F01",
+      "rationale": "The coordinated predicates 초절정 고수 되고 and 반로환동하면 both follow 영약 처먹는다고; the sentence is explaining why elixirs alone cannot produce either outcome.",
+      "replacement": "If stuffing yourself with elixirs could make you a Supreme Peak master and return you to youth, who would bother shedding blood and sweat in training?",
+      "severity": "major",
+      "source": "영약 처먹는다고 초절정 고수 되고, 반로환동하면 누가 피땀 흘려 수련을 하겠나."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Are you Jang Taebo?”",
+      "defect": "The draft replaces the source’s Tae Bo catchphrase and name pun with an ordinary identification question, removing the joke entirely.",
+      "id": "F02",
+      "rationale": "절대 태보해 invokes a recognizable Tae Bo catchphrase while sounding like Jang Taebo’s name, which also explains the deliberately overfamiliar way Taekyung greets him.",
+      "replacement": "“Always do Taebo?”[^1]\n\n[^1]: A Korean internet catchphrase urging people to do Tae Bo; here it puns on Jang Taebo’s name.",
+      "severity": "major",
+      "source": "“절대 태보해?”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“There are more than a few people who need to be disciplined.",
+      "defect": "The present tense says these people still need to be dealt with, contradicting Wipeng’s immediately following statement that they are already dead. “People” and “disciplined” also soften his contemptuous, lethal euphemism.",
+      "id": "F03",
+      "rationale": "Context establishes that these 놈들 were the people Wipeng already killed; 손보다 means to deal with or teach someone a lesson, not formally discipline them.",
+      "replacement": "“There were more than a few bastards who needed dealing with.",
+      "severity": "minor",
+      "source": "“손봐야 할 놈들이 한둘이 아니라서 말입니다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "> - The objective of the Follow-up Quest will be determined according to Mungyeong’s future policy!",
+      "defect": "“Future policy” is an unnatural and misleadingly bureaucratic rendering of Mungyeong’s intended course of action.",
+      "id": "F04",
+      "rationale": "향후 방침 here means the course or plans Mungyeong decides on for Taekyung’s subsequent training.",
+      "replacement": "> - The objective of the Follow-up Quest will be determined by Mungyeong’s future plans!",
+      "severity": "minor",
+      "source": "- 연계 퀘스트의 임무는 [문경]의 향후 방침에 따라 결정됩니다!"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Disciplined footsteps trampled the river reflecting the moon overhead, leaving fresh footprints in the sand.",
+      "defect": "“Trampled the river” adds violent, destructive force absent from the source and is unnatural English for measured footsteps crossing water.",
+      "id": "F05",
+      "rationale": "밟고 simply describes the measured footsteps passing through or over the water before making tracks on the sand.",
+      "replacement": "Disciplined footsteps crossed the moonlit river and left fresh tracks in the sand.",
+      "severity": "minor",
+      "source": "절도 있는 발걸음이 하늘 위의 달을 비추는 강물을 밟고, 모래 위로 새로운 발자국들을 찍어 나간다."
+    }
+  ],
+  "summary": "Five actionable findings: one altered martial mechanism, one omitted cultural joke, one temporal contradiction, and two localized wording defects.",
+  "version": 1
+}
