@@ -699,3 +699,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 아크 리치 | 인간 | enemy to human opponent | human | archaic and contemptuous | The Arch Lich repeatedly addresses Jin as an insignificant human. |
 | 아크 리치 | 진태경 | enemy_to_enemy | human | archaic-taunting | The Arch Lich repeatedly addresses Jin as 인간이여 while challenging and threatening him. |
 | 진태경 | 아크 리치 | enemy_to_enemy | you | insulting-casual | Jin uses 너 and 니가 while taunting the Arch Lich and challenging it to come down. |
+| 스켈레톤 워로드 | 인간 | combat ally addressing Jin | human | urgent and blunt | The Skeleton Warlord repeatedly calls Jin human while warning or scolding him. |
+| 아크 리치 | 인간 | enemy addressing Jin | human | formal and contemptuous | The Arch Lich uses human as a dismissive address while threatening Jin. |
