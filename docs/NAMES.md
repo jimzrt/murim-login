@@ -1478,3 +1478,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 세계 헌터 협회 | **World Hunter Association** | Organization seeking to test and license Jin Taekyung. |
 | 위저드 길드 | **Wizard Guild** | Magic Johnson's guild and Peace Guild's new partner. |
 | 고이즈미 | **Koizumi** | Japanese prime minister quoted in the news. |
+| 당양채 | **Dangyang Stronghold** | Yangtze River Channel League stronghold whose lack of contact concerns Mu Song. |
+| 홍호채 | **Honghu Stronghold** | Yangtze River Channel League stronghold whose lack of contact concerns Mu Song. |
+| 동정채 | **Donghu Stronghold** | Stronghold where Mu Song's Uncle Hwang is based. |
+| 황 | **Hwang** | Name used in Mu Song's address Uncle Hwang. |
+| 홍천 | **Hongcheon** | Given name of the newly appointed Hubei Provincial Administration Commissioner. |

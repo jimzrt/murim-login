@@ -753,3 +753,7 @@ Overrides generic relationship prose in character profiles for this pair.
 | 스켈레톤 킹 | 진태경 | ally_to_ally | you, vile human | grandiose and mock-offended | The Skeleton King protests Taekyung's coercive guild arrangement. |
 | 팀원 | 석고준 | subordinate security-team member to security-team leader | Team Leader | fearful formal-polite | The team member repeatedly addresses Go Jun as 팀장님 while reporting the strange object. |
 | 조사단장 | 박 선생 | investigation-team head to Ares security-team employee | Mr. Park | polite and familiar | The investigation-team head uses 박 선생 during their covert phone call. |
+| 관리 | 적천강 | government official to legendary martial master | you | formal, then alarmed and deferential | The official questions Jeok Cheongang, insults him as an old man, and later learns that he is the Fire King. |
+| 적천강 | 관리 | legendary martial master to government official | you | blunt and mocking | Jeok Cheongang repeatedly echoes the official's formal phrasing while challenging his authority. |
+| 관리 | 진위경 | government official to influential martial artist | you | formal, then deferential | The official asks Jin Wikyung's identity before bowing and apologizing after learning of his connection to Yi Hongcheon. |
+| 진위경 | 관리 | influential martial artist to government official | you | formal, controlled, and quietly authoritative | Jin Wikyung identifies the official's rank, demands that he withdraw his troops, and directs him to apologize. |
