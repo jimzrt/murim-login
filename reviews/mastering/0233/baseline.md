@@ -1,0 +1,391 @@
+# Chapter 233
+
+The middle-aged man gazed down at the transparent blade.
+
+His features were as sharp as a blade, and his lips were pressed tightly together. His hair, beginning to show strands of white here and there, was reflected on the blade’s surface.
+
+It was only after some time that he finally opened his mouth.
+
+“You’ve worked hard waiting.”
+
+His low but powerful voice echoed throughout the spacious room. Yet there was no one to be seen anywhere his eyes reached.
+
+The answer came from above the middle-aged man’s head—from the ceiling.
+
+“It is my duty.”
+
+The owner of the whisper was a person known as the Hidden Thread. The Hidden Thread had existed in the previous generation, and the generation before that. It had existed since the family was first established hundreds of years ago.
+
+They had sworn absolute loyalty to one person alone—the Family Head—and, true to their name, they were hidden threads.
+
+The countless pieces of information that flowed in along those threads could quietly be forgotten, or they could become weapons used to choke someone.
+
+“Then, do you have any new information?”
+
+“Yes. It is Heaven-grade.”
+
+“Heaven-grade.”
+
+The middle-aged man ran his fingers over the blade.
+
+The information the Hidden Thread had delivered up to now was invariably confidential, but it was divided into Heaven, Earth, and Human grades according to its importance.
+
+Heaven-grade was the highest of them all.
+
+Even for a middle-aged man who had led his family for nearly twenty years, it was by no means something he encountered often.
+
+“It’s been a long time. Is this the first since the Huangshan Sect?”
+
+The Huangshan Sect was a prestigious great sect with a long history. Yet it was also a name that had slowly begun to fade from the memories of the people.
+
+Survival of the fittest.
+
+The Murim was a merciless world that did not look back at those who had been weeded out. The middle-aged man had weeded out the Huangshan Sect and feasted on their corpses.
+
+“There should still be quite some time before their closed gates are opened.”
+
+“The Huangshan Sect has already collapsed. Even if their gates are opened, they are beyond recovery.”
+
+“Then?”
+
+“The Mountain Lord has returned.”
+
+At that brief answer, the fingertips that had been caressing the blade came to an abrupt stop.
+
+“…Is that true?”
+
+“Without a doubt.”
+
+The Mountain Lord—the master of the mountain.
+
+Some might tilt their heads and wonder what sort of nonsense that was. They might even scold him, asking how many mountains there were in the world and whether each one had its own master.
+
+However, here in Anhui Province, the Mountain Lord referred to only one person.
+
+“Fire King Jeok Cheongang…”
+
+An unprecedented master who had faced a thousand martial artists alone.
+
+Mount Jiuhua was his territory, as well as the sacred ground of the Fire Gate Clan, which had been passed down for hundreds of years.
+
+On the day the Demonic Cultists set fire to Mount Jiuhua, an old man who had been growing old like any ordinary man became the Fire King.
+
+The people of Anhui Province, who had protected their precious home thanks to him, began calling him the Mountain Lord out of respect.
+
+“When and where did this information come from?”
+
+“The report says he passed through the north gate two shichen[^1] ago.”
+
+“What is his destination?”
+
+“Mount Jiuhua.”
+
+“I see.”
+
+The middle-aged man nodded lightly, then suddenly felt that something was strange.
+
+From the time he had become Family Head until now, the middle-aged man had received countless reports from the Hidden Thread and asked for his opinions, but the Hidden Thread had never once spoken with certainty.
+
+This time was different.
+
+Sensing his lord’s question, the Hidden Thread spoke first.
+
+“He was accompanied by his Disciple. Going to his sect is only natural.”
+
+“His Disciple?”
+
+The middle-aged man frowned. The Fire Gate Clan was a sect built on a single-person succession. If the Fire King had a Disciple, there could only be one person.
+
+Although it had happened nearly twenty years ago, he remembered everything related to the Fire King clearly.
+
+“Did he come back for that vicious bastard?”
+
+“The person you have in mind is not him. According to confirmed information, he died three months ago.”
+
+“And he found a new Disciple?”
+
+“Yes.”
+
+The Hidden Thread’s emotionless voice continued.
+
+“Jin Taekyung. He turned twenty-one this year and is a direct descendant of the Jin Family of Taiyuan.”
+
+“I feel like I’m hearing both that name and that family for the first time.”
+
+“He shares blood with the Blade of Flowers, who distinguished himself during the Great Faction War, and with the Heaven Shaking Sword, who has recently risen to prominence as one of the Ten Dragons and Phoenixes.”
+
+“Ah, that Jin Family.”
+
+“Yes.”
+
+Fortunately, the two names that came from the Hidden Thread were familiar enough to the middle-aged man.
+
+“Hm. So that’s how it is.”
+
+The middle-aged man sank into deep thought, forgetting even that the Hidden Thread was there.
+
+Jin Taekyung of the Jin Family of Taiyuan. The new Disciple of Fire King Jeok Cheongang. No matter how he thought about it, the name was unfamiliar.
+
+But now he would have to become accustomed to it.
+
+*The descendant of a frontier martial family was chosen by the Fire King.*
+
+For the Fire King to accept a young man past the age of twenty as his new Disciple, there had to be some reason.
+
+*It has to be one of two things. Either he has some leverage over the Fire King, or he possesses martial talent so extraordinary that his age and background are irrelevant.*
+
+The more he thought about it, the more the pieces fell into place.
+
+By the time the middle-aged man spoke again, a considerable amount of time had passed.
+
+“Set all the Lesser Threads in motion.”
+
+The Lesser Threads were the countless informants who operated beneath the Hidden Thread.
+
+They gathered information from every corner of the world, which then flowed through the Hidden Thread before reaching the middle-aged man.
+
+“All of them?”
+
+Unlike before, a faint trace of surprise colored the Hidden Thread’s voice.
+
+The middle-aged man’s order meant that most of the family’s intelligence-gathering power would be poured into a single person.
+
+But the surprise lasted only a moment. Realizing his duty, the Hidden Thread hurriedly answered.
+
+“Forgive my insolence.”
+
+“It doesn’t matter. I’ll give you a month. Use every means necessary and find out everything about that Disciple.”
+
+“Understood.”
+
+“You’re going to be busy for a while.”
+
+The Hidden Thread understood the meaning hidden in those words, and its presence vanished as though it had been wiped clean.
+
+His concealment technique had reached the very pinnacle of Peak. He would spend the next fortnight with no time to breathe.
+
+*I can’t sit around doing nothing either.*
+
+The middle-aged man slowly rose from his seat.
+
+Unlike his father, who had been a martial artist to the bone, he had inherited the blood of a leader.
+
+Having led the family since he was the Lesser Family Head and solidified its position as a hegemon, the middle-aged man radiated authority from his entire bearing.
+
+Step. Step. Step.
+
+The middle-aged man crossed the spacious interior in long strides and threw open the door. A dozen or so guards surrounding the pavilion greeted him by dropping to one knee.
+
+“We greet the Family Head!”
+
+The middle-aged man nodded slightly. Every one of them was an outstanding Peak swordsman and a blood relative who shared the same lineage.
+
+A massive group gathered beneath the surname Namgung, a towering tree rooted in the Murim.
+
+“Gather the family. The weather is fine, so we should share a drink together.”
+
+“Understood!”
+
+The middle-aged man, Namgung Ryong, raised his head and gazed at the sky.
+
+A boundless azure heaven, without a single cloud, stretched above him.
+
+* * *
+
+I spoke with the most serious expression in the world.
+
+“I have a wish I’ve held on to for a long time.”
+
+Jeok Cheongang answered in an equally solemn voice.
+
+“This old man has a wish as well.”
+
+“If it wouldn’t be too rude, may I speak first?”
+
+“That would be plenty rude.”
+
+“Then I’ll be rude this once.”
+
+“Want to have an accident in your pants? Should I make you shit and piss yourself for the rest of your life, not just this once?”
+
+“…”
+
+If my mother had seen this, her heart would have broken.
+
+I felt as though tears might fall from the injustice of it all, but I held them back and opened my mouth again.
+
+“Please hear me out just once.”
+
+“Fine. It’s obvious what you’re going to say, but I’ll hear you out once.”
+
+I swallowed dryly and stated my wish.
+
+“Could we stop at an inn just once?”
+
+“That’s your wish?”
+
+“Yes.”
+
+“Then I’ll tell you this old man’s wish.”
+
+Jeok Cheongang glared at me with terrifying eyes.
+
+“Shut your mouth and follow me.”
+
+“…Why?”
+
+“Didn’t you say you wanted to train? We’re going to train, so why do you have so many complaints?”
+
+“When did I say I didn’t want to train? I’m going to be buried in the mountains for half a year, so I’m saying we should eat our fill and wash up just once—just once—before that happens!”
+
+My shout rang through the darkened mountains.
+
+That was right. We were currently standing at the base of Mount Jiuhua in Anhui Province.
+
+“It took seven days and nights to get from Shanxi Province to Henan, and another seven days and nights to get from Henan to Anhui. I haven’t even been able to sleep properly.”
+
+At least he had let me sleep one shichen at a time before we reached Henan. But after we left Hong Dao’s residence, he had shown us absolutely no mercy.
+
+We had run and run, chewing jerky without even stopping for meals.
+
+“I wanted Shaolin Temple’s vegetable bibimbap!”
+
+During the fifteen-day forced march, the only proper meal I had eaten was at the inn in Luoyang.
+
+“And even then, you ate all the legs yourself! You left me one wing and nothing but dry breast meat!”
+
+I had barely gotten to tear off a few pieces of meat when some sword-wielding dark-path figures showed up and ruined everything. Then the Under Armour monk appeared and took me to Shaolin Temple.
+
+“I kept telling you that we should stop at an inn just once. What did you say? That we were almost there. You said we could rest once we got there!”
+
+“And we did get there. Mount Jiuhua.”
+
+Jeok Cheongang scratched inside his ear with a dirty little-finger nail, then blew away the earwax.
+
+“Go on up and rest. Once we get there, you can eat your fill, wash, and sleep.”
+
+“Even if I eat my fill, it’ll be jerky and fasting pills. Forget hot water—I’ll just get my fill of forest bathing. And you won’t let me sleep even half a shichen a day!”
+
+“Ha-ha-ha!”
+
+Jeok Cheongang laughed heartily, then abruptly stopped. At the same time, a chilling energy began to flow from his entire body.
+
+“This is why I can’t stand youngsters with good instincts.”
+
+“……!”
+
+*Ed oppa… No, not that.*
+
+A shiver ran down my spine.
+
+A voice as cold as ice spilled from his lips.
+
+“Yes, your guess is correct. I plan to let you sleep half a shichen a day and work you like a dog.”
+
+“Gasp.”
+
+“I’ll use fasting pills to squeeze every last drop of fat from your body. Then, for the next six months, I’ll make you train every single day at the most extreme level a human being can imagine.”
+
+“Y-you’re a devil.”
+
+“Did you just call this old man a demon? I suppose I’ll have to raise the intensity of your training.”
+
+“N-no. This is a scam.”
+
+“Why don’t you understand that by the time you realize it, it will already be too late?”
+
+“Wait. I’ll just go to the privy for a moment.”
+
+As I slowly backed away, the Fire King spread a wrinkled palm toward me.
+
+“You can come whenever you want, but you can’t leave whenever you want.”
+
+Whoosh!
+
+An irresistible, unprecedented force transformed into ropes and bound my entire body.
+
+For all my near-superhuman physical abilities and nearly a jiazi[^2] of internal energy, neither could do a thing.
+
+I tried to resist somehow, but it was already too late. Following the movement of his hand, my body floated into the air.
+
+“Seizing an Object Through Empty Space?”
+
+“If you know what it is, come here.”
+
+Whoosh!
+
+The next moment, I shot toward Jeok Cheongang faster than an arrow. At the same time, one of his wrinkled fingers brushed against some spot on my neck.
+
+A sharp sting of pain, followed by an ominous sound that pierced my ear.
+
+Beep!
+
+> **System**
+>
+> You have been struck by **Pressure-Point Strike**!
+>
+> Your **Sleep Acupoint** has been struck. You cannot resist sleep!
+>
+> 5 seconds, 4 seconds, 3 seconds, 2 seconds……
+
+Sleep came rushing over me along with the System’s countdown.
+
+As my consciousness blurred, Jeok Cheongang’s voice slowly faded into the distance.
+
+“Today, I’ll make a special exception and let you sleep for two shichen.”
+
+“…”
+
+*Well, fuck. Thanks a lot.*
+
+I couldn’t spit out the words circling the tip of my tongue before I fell asleep.
+
+* * *
+
+Snore. Snore.
+
+“That young bastard has some serious strength.”
+
+Jeok Cheongang clicked his tongue as he looked down at the peacefully sleeping Jin Taekyung.
+
+Seizing an Object Through Empty Space and Pressure-Point Strike were not omnipotent. The amount of force required differed depending on the opponent.
+
+It was a good thing he had known what kind of person this young man was. If he had been caught off guard and his technique had been countered, he would have been utterly humiliated.
+
+“It feels like only yesterday that I first met him in Shanxi, yet he’s already reached this level… What a strange fellow.”
+
+Just as Jeok Cheongang let out a fatigue-laced sigh, his vision suddenly blurred and the strength left his legs.
+
+“Gasp!”
+
+Thud.
+
+He barely managed to regain his senses before grabbing hold of a nearby tree.
+
+His heart pounded, and his mind snapped fully awake, as though someone had thrown a bucket of cold water over him while he slept.
+
+“Th-this…”
+
+Had he used too much strength all at once? If not, was it because his aged body could no longer withstand the arduous journey?
+
+Jeok Cheongang bit his lip. Although his prime as a martial artist had passed, he was still a Supreme Peak master who had reached the pinnacle of martial arts.
+
+*It wasn’t his body that had grown old. It was something else.*
+
+*I need to hurry. I don’t have much time.*
+
+Perhaps that was why his old friend Hong Dao had told him to leave immediately.
+
+After steadying himself, Jeok Cheongang slung Jin Taekyung over his back. Though he was over a hundred years old, the young man’s large frame felt as light as a feather.
+
+“Not yet. Not yet.”
+
+He muttered the words in a voice that had suddenly grown old, then moved on.
+
+Each step covered more than ten jang, and the scenery flashed past.
+
+Before long, thick fog settled over the area and erased his trail.
+
+[^1]: A *shichen* is a traditional time unit of approximately two hours.
+
+[^2]: A *jiazi* is a traditional sixty-year cycle.

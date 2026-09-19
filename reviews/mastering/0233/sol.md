@@ -40,7 +40,7 @@ The Huangshan Sect was a prestigious sect with a long history. Yet now, its name
 
 Survival of the fittest.
 
-The Murim was a merciless world that did not look back at those who had been weeded out. The middle-aged man had weeded out the Huangshan Sect and feasted on their corpses.
+The Murim was a merciless world that never looked back at those who fell behind. The middle-aged man had driven the Huangshan Sect into decline and feasted on its corpse.
 
 “There should still be a long time left before they reopen their gates.”
 
@@ -70,7 +70,7 @@ Mount Jiuhua was his domain and the sacred ground of the Fire Gate Clan, whose l
 
 On the day the Demonic Cultists set fire to Mount Jiuhua, an old man who had been aging like any other became the Fire King.
 
-The people of Anhui Province, who had protected their precious home thanks to him, began calling him the Mountain Lord out of respect.
+The people of Anhui, whose cherished home he had saved, began calling him the Mountain Lord out of respect.
 
 “When and where did the report come from?”
 
@@ -88,9 +88,9 @@ Since becoming Family Head, he had received countless reports from the Hidden Th
 
 This time was different.
 
-Sensing his lord’s question, the Hidden Thread spoke first.
+Sensing his lord’s doubt, the Hidden Thread spoke first.
 
-“He was accompanied by his Disciple. Going to his sect is only natural.”
+“He was accompanied by his Disciple. It is only natural that he would return to his sect.”
 
 “His Disciple?”
 
@@ -98,7 +98,7 @@ The middle-aged man frowned. The Fire Gate Clan passed its teachings from one ma
 
 Though it had happened nearly twenty years ago, he clearly remembered everything concerning the Fire King.
 
-“Did he come back for that vicious bastard?”
+“Did he take back that vicious bastard?”
 
 “It is not the man you are thinking of. According to confirmed reports, he died three months ago.”
 
@@ -126,7 +126,7 @@ He sank into thought, forgetting even the Hidden Thread’s presence.
 
 Jin Taekyung of the Jin Family of Taiyuan. Fire King Jeok Cheongang’s new Disciple. No matter how much he considered it, the name remained unfamiliar.
 
-But now he would have to become accustomed to it.
+But it was one he would have to remember from now on.
 
 *The Fire King chose a descendant of a frontier martial family.*
 
@@ -214,7 +214,7 @@ My mother would have been devastated if she had seen this.
 
 I could have cried at how unfair it was, but I held back my tears and tried again.
 
-“Please hear me out just once.”
+“Please, just hear me out.”
 
 “Fine. I know exactly what you’re after, but I’ll hear you out once.”
 
@@ -254,7 +254,7 @@ During the fifteen-day forced march, the only proper meal I’d had was at the i
 
 “And even then, you ate all the drumsticks! You left me one wing and nothing but dry breast meat!”
 
-I had barely gotten to tear off a few pieces of meat when some sword-wielding dark-path figures showed up and ruined everything. Then the Under Armour monk appeared and took me to Shaolin Temple.
+I had barely managed to tear off a few pieces when a bunch of sword-wielding dark-path figures showed up and ruined everything. Then the Under Armour monk appeared and dragged me off to Shaolin Temple.
 
 “I kept asking you to stop at an inn. What did you say? That we were almost there. That we could rest when we arrived!”
 
@@ -308,7 +308,7 @@ An overwhelming force I had never felt before became ropes that bound my entire 
 
 Neither my near-superhuman physical abilities nor my nearly one jiazi[^2] of internal energy could do a thing.
 
-I tried to resist somehow, but it was already too late. Following the movement of his hand, my body floated into the air.
+I tried to resist, but it was already too late. With a flick of his hand, my body rose into the air.
 
 “Seizing an Object Through Empty Space?”
 
@@ -348,11 +348,11 @@ Snore. Snore.
 
 “That young bastard is absurdly strong.”
 
-Jeok Cheongang clicked his tongue as he looked down at the peacefully sleeping Jin Taekyung.
+Jeok Cheongang clicked his tongue as he looked at the sleeping Jin Taekyung.
 
 Seizing an Object Through Empty Space and Pressure-Point Strike were not omnipotent. The amount of force they required varied depending on the opponent.
 
-It was a good thing he had known what kind of person this young man was. If he had been caught off guard and his technique had been countered, he would have been utterly humiliated.
+It was a good thing he had known what kind of monster the young man was. If he had let down his guard and allowed the technique to be countered, he would have thoroughly humiliated himself.
 
 “It feels like only yesterday that I met him in Shanxi, yet he has already come this far… What a strange fellow.”
 
@@ -360,9 +360,7 @@ Just as Jeok Cheongang let out a weary sigh, his vision suddenly blurred and the
 
 “Gasp!”
 
-Thud.
-
-He barely managed to regain his senses before grabbing hold of a nearby tree.
+His hand shot out and caught a nearby tree just in time.
 
 His heart pounded, and his mind snapped fully awake as though someone had dumped cold water over him in his sleep.
 
@@ -370,9 +368,9 @@ His heart pounded, and his mind snapped fully awake as though someone had dumped
 
 Had he expended too much strength at once? Or had his aged body failed to withstand the arduous journey?
 
-Jeok Cheongang bit his lip. Although his prime as a martial artist had passed, he was still a Supreme Peak master who had reached the pinnacle of martial arts.
+Jeok Cheongang bit his lip. His prime as a martial artist might have passed, but he was still a Supreme Peak master who had reached the summit of martial arts.
 
-*It wasn’t his body that had grown old. It was something else.*
+It was not his flesh that had grown old, but something else.
 
 *I must hurry. I don’t have much time.*
 
