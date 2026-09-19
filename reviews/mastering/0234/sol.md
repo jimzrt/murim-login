@@ -8,7 +8,7 @@ Ding.
 >
 > You awaken from sleep!
 
-I opened my eyes as the System notifications appeared.
+I opened my eyes at the System notifications.
 
 The first things I saw were the waves of branches rippling far below in the night wind and the stars scattered across the pitch-black sky. Cold, hard rock pressed against my back.
 
@@ -18,7 +18,7 @@ I’d expected as much. Even a preschooler could have guessed that Jeok Cheongan
 
 Besides, my body was sturdy enough to sleep anywhere.
 
-*Then why does my body feel so heavy?*
+*Then why do I feel so heavy?*
 
 Had I been pushing myself too hard lately?
 
@@ -42,7 +42,7 @@ What the hell was this?
 
 My brain stopped working for a few seconds. Who was I? Where was I?
 
-And why were these ridiculous things locked onto my limbs?
+And why were these ridiculous things locked around my limbs?
 
 The answer came quickly. It was an easier question than one plus one.
 
@@ -74,9 +74,9 @@ Clank.
 
 “…”
 
-“From now on, these will be your arms and legs. They are training tools passed down through the Fire Gate Clan for generations, so treat them like your own children.”
+“From now on, these will be your hands and feet. They’re training tools passed down through the Fire Gate Clan for generations, so treat them like your own children.”
 
-I was a virgin bachelor who had never even been in a relationship, let alone married, and he was talking about children?
+I was a virgin who had never even dated, let alone married, and he was telling me to treat them like my children?
 
 Dumbfounded, I grabbed one of the chains attached to the iron balls and pulled.
 
@@ -144,7 +144,7 @@ But once the initial shock of seeing the iron balls wore off, my mind gradually 
 
 I had made it this far after narrowly escaping death dozens of times.
 
-The world wasn’t easy. To receive a reward, you had to pay a corresponding price. That was true in the Murim and in the modern world.
+The world didn’t go easy on anyone. If you wanted a reward, you had to pay the price. That was true in both the Murim and the modern world.
 
 Everyone—not just me—lived through an endless series of Quests.
 
@@ -202,7 +202,7 @@ Under the faint moonlight, I peeled away the damp paper to reveal a fasting pill
 
 “…”
 
-“I’ll enjoy the meal!”
+“Thank you for the meal!”
 
 If it was good for virility, I had to eat it. Even if I had no immediate use for it, I still had to eat it.
 
@@ -220,7 +220,7 @@ Jeok Cheongang frowned at my answer and muttered, “Strange. Has it been sittin
 
 “Huh?”
 
-What the hell was he talking about?
+What the hell did that mean?
 
 The moment I blurted out the question—
 
@@ -256,13 +256,13 @@ Thud!
 
 With all my strength gone at once, my body, which had somehow been supporting the iron balls, sagged.
 
-The half-ton weight pressing down on my entire body made my knees buckle.
+The half ton of weight bearing down on me made my knees buckle.
 
 “What the hell is this?”
 
 “Heh-heh. The medicine is finally taking effect.”
 
-I stared at Jeok Cheongang, who was letting out a sinister laugh, with my jaw hanging open.
+My jaw dropped as I stared at Jeok Cheongang and his sinister grin.
 
 “What the hell did you do, you crazy old man?”
 
@@ -278,11 +278,11 @@ An immense flow of qi filled the air. The fierce wind abruptly changed direction
 
 A flash of insight struck me.
 
-*There’s a cliff below this, isn’t there?*
+*Isn’t there a cliff right behind me?*
 
 I hurriedly glanced back. The view below the rock was dizzying.
 
-If I fell from here with these insane iron balls attached to me…
+If I fell from here with these monstrous iron balls attached to me…
 
 “W-wait!”
 
@@ -318,9 +318,9 @@ Ding.
 
 “This is fucking bullsh—!”
 
-Before I could finish speaking, gravity bore down on my entire body.
+Before I could finish, gravity seized my entire body.
 
-As I plummeted like a streak of light, there was only one thing I could say.
+As I plummeted like a streak of light, only one sound escaped me.
 
 “Aaaaaaaaaaaah!”
 
@@ -330,13 +330,13 @@ My terrified scream shook Mount Jiuhua, submerged in darkness.
 
 Splash—
 
-Far below the sheer cliff, Jeok Cheongang let out a quiet laugh at the sound of water echoing up from below.
+Far below the sheer cliff, the sound of water echoed up from the darkness. Jeok Cheongang let out a quiet laugh.
 
 A memory from his youth had suddenly come to mind.
 
 “Master! Save me!”
 
-“I’m counting to three. Let go. Three.”
+“I’ll count to three. Let go. Three.”
 
 “Please! If I fall from here, your Disciple will die!”
 
@@ -348,7 +348,7 @@ A memory from his youth had suddenly come to mind.
 
 His Master had been merciless—harsh enough to seem excessive toward a child who still had baby fuzz on his face.
 
-But without such harsh instruction, neither the Fire Gate Clan of today nor Fire King Jeok Cheongang would exist.
+But without that brutal instruction, neither the Fire Gate Clan of today nor Fire King Jeok Cheongang would exist.
 
 *I’ll put you through exactly what I endured… No, I’ll push you even harder.*
 
@@ -356,7 +356,7 @@ Jin Taekyung didn’t know it, but Jeok Cheongang did.
 
 They did not have much time.
 
-There was no time to teach him everything gradually, one step at a time.
+Teaching him gradually, one step at a time, would take too long.
 
 The heavenly patterns Hong Dao had foreseen told him as much, as did Jeok Cheongang’s current condition.
 
@@ -364,7 +364,7 @@ The heavenly patterns Hong Dao had foreseen told him as much, as did Jeok Cheong
 
 Jeok Cheongang gazed down the mountain for some time, his eyes unfathomably deep. Then he suddenly muttered, “…Perhaps I shouldn’t have put the iron balls on him.”
 
-He had never imagined that the object meant to restrain criminals of the Fire Gate Clan would be used for something like this.
+He had never imagined that restraints meant to shackle criminals of the Fire Gate Clan would be used for something like this.
 
 * * *
 
@@ -390,13 +390,13 @@ Ding.
 >
 > **Muscles and Bones** and **Sinews and Meridians** have increased by 2 each!
 
-Even a drizzle will soak you through eventually, so these stat increases, though small, helped more than you might think.
+A steady drizzle soaks you before you know it. These stat increases might have been small, but they helped more than one would expect.
 
 *If only I didn’t have these fucking iron balls! If only it weren’t for that damn restriction pill!*
 
 Without either one, I would have completed the Quest long ago.
 
-But my most important internal energy was restricted, my physical stats had each dropped by 100, and the tremendous weight had been added on top of that. I had no way to endure it.
+But my most important internal energy had been sealed away, my physical stats had each fallen by 100, and a tremendous weight had been piled on top of that. It was almost unbearable.
 
 To top it all off, the time limit was only one shichen.
 
@@ -440,33 +440,33 @@ The sound startled Jeok Cheongang, who had been nodding off against a rock. He j
 
 *Damn old man. He was always going on about how martial artists shouldn’t waste time sleeping, yet he slept like a baby while I was going through hell?*
 
-Grinding my teeth, I walked toward him.
+Grinding my teeth, I stalked toward him.
 
 “Can’t you tell by looking? I climbed Mount Jiuhua within one shichen. I succeeded!”
 
-“Huh? Why are you climbing Mount Jiuhua?”
+“Huh? Why did you climb Mount Jiuhua?”
 
 “What?”
 
 Jeok Cheongang blinked, then hastily shook his head.
 
-“Ah, no. You did pretty well.”
+“Ah, never mind. You did fairly well.”
 
 “And?”
 
 “It seems you’re ready for the next stage. I’ve already made the preparations, so take care of it yourself.”
 
-I turned my head toward where his finger was pointing.
+I turned toward where he was pointing.
 
 Propped against a massive rock was a vest—a huge, incredibly thick vest made of iron.
 
-My fingertips began to tremble despite myself.
+My fingertips began to tremble.
 
-“…Is this what I think it is?”
+“…Is that what I think it is?”
 
-“What were you thinking?”
+“What do you think it is?”
 
-“That I’m supposed to put this on and repeat exactly what I’ve been doing until now.”
+“You want me to put it on and repeat everything I’ve been doing.”
 
 “You rascal. What a joke.”
 
@@ -480,7 +480,7 @@ Jeok Cheongang chuckled with the amiable smile of a kindly neighborhood grandfat
 
 “What?”
 
-“I’ll give you half a shichen. Hurry up, pick it up, put it on, and get back here.”
+“I’ll give you half a shichen. Hurry up, put it on, and get going.”
 
 “…”
 
