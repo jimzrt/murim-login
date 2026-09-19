@@ -785,3 +785,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 궁기방 | 군관 | martial_artist_to_military_officer | Officer | insulting-casual | Gung Gibang uses 군관 나리 while mocking the officer's ignorance of Dark Heaven. |
 | 군관 | 대협 | military_officer_to_martial_hero | Great Hero | formal-deferential | The officer addresses Taekyung as 대협 while asking whether he knows the culprit. |
 | 홍란 | 귀관 | martial_artist_to_military_officer | your honor | formal-polite | Honglan uses 귀관 while respectfully referring to the military officer. |
+| 홍란 | 진 대협 | rescued survivor to rescuer | Great Hero Jin | humble-formal | Honglan uses this elevated farewell address after previously calling Taekyung Benefactor. |

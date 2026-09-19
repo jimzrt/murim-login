@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The waters of Dongting Lake, which had swallowed dozens of vessels and countless lives overnight, were rough, and the wind blowing in from the distance was violent.",
+      "defect": "The draft adds the unsupported quantity “countless” to the lives lost; 수십 modifies the vessels, while the source gives no number for the lives.",
+      "id": "F01",
+      "rationale": "The replacement preserves the explicit count for the vessels without inventing a separate quantity for the fatalities.",
+      "replacement": "The waters of Dongting Lake, which had swallowed dozens of vessels and claimed lives overnight, were rough, and the wind blowing in from the distance was violent.",
+      "severity": "critical",
+      "source": "지난 밤사이 수십 척의 선박과 생명을 집어삼킨 동정호의 강물은 거칠었고, 저 멀리서부터 불어오는 바람은 난폭했다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Cheongpung nodded, unwilling to be outdone by Honglan.",
+      "defect": "The subject and comparison are reversed: Honglan nods so as not to be outdone by Cheongpung.",
+      "id": "F02",
+      "rationale": "청풍에 질세라 identifies Cheongpung as the person Honglan refuses to be outdone by, and 홍란 is the subject of 끄덕인다.",
+      "replacement": "Not to be outdone by Cheongpung, Honglan nodded as well.",
+      "severity": "critical",
+      "source": "청풍에 질세라 홍란 역시 고개를 끄덕인다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Come to think of it, the places where the dead boatmen disappeared were all fairly similar.",
+      "defect": "The draft suggests that the locations physically resembled one another, rather than that the disappearances occurred around the same area.",
+      "id": "F03",
+      "rationale": "지점이 전부 엇비슷합니다 describes the locations as clustered or approximately coincident, furnishing a geographic clue about the attacks.",
+      "replacement": "Come to think of it, all the dead boatmen disappeared in roughly the same area.",
+      "severity": "major",
+      "source": "그러고 보니 죽은 사공들이 사라진 지점이 전부 엇비슷합니다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "After finishing my preparations, I suddenly spoke.",
+      "defect": "The draft changes Taekyung finishing his thoughts into finishing unspecified physical preparations.",
+      "id": "F04",
+      "rationale": "생각을 끝마친 refers to the conclusion of the preceding internal deliberation, not to preparations.",
+      "replacement": "Having finished thinking it through, I abruptly spoke.",
+      "severity": "minor",
+      "source": "생각을 끝마친 나는 불쑥 입을 열었다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "I feel the same. The Successor Beggar of the Great Beggars’ Sect can’t be scared off by something like this.",
+      "defect": "“Great Beggars’ Sect” reads as a changed formal organization name rather than 대 functioning as a boastful modifier.",
+      "id": "F05",
+      "rationale": "The established organization name is Beggars’ Sect; 대 emphasizes its stature without becoming part of that name.",
+      "replacement": "I feel the same. The Successor Beggar of the mighty Beggars’ Sect can’t be scared off by something like this.",
+      "severity": "minor",
+      "source": "나도 마찬가지다. 대 개방의 후개가 고작 이 정도로 겁을 먹을 수는 없지."
+    },
+    {
+      "confidence": 0.98,
+      "current": "This damn bastard. Why pick a fight when things were going so well? Did your guts fall out?",
+      "defect": "“Did your guts fall out?” is an unnatural literal rendering of an idiom meaning that someone has become recklessly bold or lost his sense.",
+      "id": "F06",
+      "rationale": "간이 배 밖으로 나왔냐 challenges Hyuk Mujin’s audacity; it does not describe his entrails physically falling out.",
+      "replacement": "You damned bastard. Why pick a fight when things were going so well? Have you lost your mind?",
+      "severity": "minor",
+      "source": "이 빌어먹을 놈이 왜 잘 나가다가 시비를 걸지? 간이 배 밖으로 나왔냐?"
+    },
+    {
+      "confidence": 0.97,
+      "current": "I was afraid of losing people close to me. Afraid that the past would repeat itself once again.",
+      "defect": "The draft generalizes 그날의 과거 and loses Taekyung’s reference to the specific traumatic events of “that day.”",
+      "id": "F07",
+      "rationale": "그날 points to a particular remembered event, making his fear personal and specific rather than a generic fear of history repeating.",
+      "replacement": "I was afraid of losing people close to me. Afraid that what happened that day would repeat itself.",
+      "severity": "major",
+      "source": "가까운 사람을 잃는다는 것이. 다시 한번 그날의 과거가 반복될 것 같아서 두렵다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Many things happened before a little girl who lost her family and parents in a single morning could become the person she is now…",
+      "defect": "“Family and parents” blurs 가문 into a redundant synonym for her parents, losing the distinct loss of her clan or household.",
+      "id": "F08",
+      "rationale": "가문 denotes her wider clan or family house, separately from 부모, while 하루아침에 idiomatically conveys a sudden, overnight loss.",
+      "replacement": "A great many things happened before a little girl who lost her clan and her parents overnight could become the woman she is today…",
+      "severity": "major",
+      "source": "하루아침에 가문과 부모를 잃은 여아가 지금의 모습으로 있기까지는…… 참으로 많은 일이 있었지요."
+    },
+    {
+      "confidence": 0.99,
+      "current": "May fortune favor you.",
+      "defect": "The draft omits the martial and battle-specific sense of 무운.",
+      "id": "F09",
+      "rationale": "무운 is specifically fortune in war or combat, fitting Honglan’s formal farewell before the impending confrontation.",
+      "replacement": "I wish you good fortune in battle.",
+      "severity": "minor",
+      "source": "무운을 빌어요."
+    }
+  ],
+  "summary": "Two scene facts are altered, and several localized fidelity and terminology issues remain.",
+  "version": 1
+}
