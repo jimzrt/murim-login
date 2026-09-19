@@ -14,7 +14,7 @@ Damn it. Why now?
 
 I was dying to check the Quest window.
 
-But I was in the middle of True Qi Guidance. Circulating my own qi would be one thing, but if I let go of control here, I could easily suffer an Internal Injury.
+But I was in the middle of True Qi Guidance. Circulating my own qi would be one thing, but if I let go of control here, Team Leader Choi could easily suffer an Internal Injury.
 
 > **System**
 >
@@ -52,7 +52,7 @@ I dredged up an old memory.
 
 From the moment I first opened my eyes in Murim, the internal energy of the Hundred-Year-Old Snow Ginseng had lain dormant inside my dantian.
 
-It was internal energy that the Third Rate wastrel Jin Taekyung—not me—had been unable to fully digest.
+It was energy that the Third Rate wastrel Jin Taekyung—not me—had been unable to fully digest.
 
 That was when I first learned that even if you consumed an elixir, you couldn’t make its power your own unless you had the ability to digest it.
 
@@ -78,7 +78,7 @@ And this time, I was confident.
 
 *Let’s do this.*
 
-A bolt of Scorching Yang Qi shot forward like a spear and plunged into the solid mass of qi. A combined total of more than two jiazi’s worth of qi collided and tore into each other.
+A bolt of Scorching Yang Qi shot forward like a spear and plunged into the solid mass of qi. More than two jiazi’s worth of energy collided, tearing into each other.
 
 Rumble.
 
@@ -116,7 +116,7 @@ Im Kkeokjeong, lying on the bed, asked, “What did you just say, Miss Song?”
 
 “…Yes.”
 
-Song Song had a lot she wanted to say, but she held it in and nodded.
+Song Song had a great deal more to say, but she held it in and nodded.
 
 After all, the black sweat pouring from Team Leader Choi’s entire body was every bit as gross and fascinating.
 
@@ -206,9 +206,9 @@ It signaled the completion of his first complete circulation. It also meant that
 
 At Butler Kim’s call, Team Leader Choi’s eyes slowly opened. Astonishment and joy filled them.
 
-“This is…”
+“This is…!”
 
-Team Leader Choi—Choi Minwoo—clenched his fists tightly.
+Team Leader Choi—Choi Minwoo—clenched his fists.
 
 The massive energy surging from his dantian raced freely through his body.
 
@@ -218,11 +218,11 @@ Not only that, but the amount of mana he possessed had nearly doubled.
 
 *So this is a Mana Cultivation Method.*
 
-As Choi Minwoo calmly examined his condition, he reconsidered.
+Choi Minwoo quietly examined his condition, then corrected himself.
 
-*No. It isn’t the power of a Mana Cultivation Method. It’s the power of the Jin Family’s Cultivation Technique.*
+*No. This isn’t merely the power of a Mana Cultivation Method. It’s the power of the Jin Family’s Cultivation Technique.*
 
-And it had only been possible because of one person’s ability.
+And it had only been possible because of one man’s ability.
 
 “Mr. Jin.”
 
@@ -252,9 +252,9 @@ Whoosh.
 
 Jin Taekyung’s cross-legged body was rising into the air.
 
-Little by little. Slowly, without stopping.
+Little by little. Slowly, steadily.
 
-Above his head, blazing blue flames formed the shape of flower petals.
+Above his head, blazing blue flames formed the petals of a flower.
 
 One flower. Then two.
 
@@ -274,7 +274,7 @@ I screamed at the top of my lungs.
 
 “Aaaargh!”
 
-It hurt. My tailbone hurt from slamming into the floor, but my heart hurt ten times more from losing the perfect opportunity.
+It hurt. My tailbone hurt from slamming into the floor, but losing that perfect opportunity hurt ten times worse.
 
 “It was almost done! I almost had it!”
 
@@ -318,19 +318,19 @@ Ding. Ding. Ding.
 
 “Just leave me alone!”
 
-Everything had been perfect. While melting the energy that had been solidified in Team Leader Choi’s dantian, I had absorbed half of it. My mind had gone blank, and I had momentarily slipped into a trance.
+Everything had been perfect. While melting the energy solidified in Team Leader Choi’s dantian, I had absorbed half of it. My mind had gone completely blank, and for a moment, I had slipped into a Trance.
 
 But…
 
-“Why! Why can’t I be happy!”
+“Why? Why can’t I ever be happy?”
 
-Gaining nearly half a jiazi’s worth of internal energy? Great!
+Gaining half a jiazi’s worth of internal energy? Great!
 
-Acquiring a Title, completing Quests, raising the realm of the Fire Gate Divine Technique by one stage, and even leveling up—all of it was great. It was all good, so why!
+Acquiring a Title, completing Quests, raising the Fire Gate Divine Technique by one stage, even leveling up—it was all great. Every bit of it was good, so why?
 
-“Why didn’t I reach the Supreme Peak realm!”
+“Why didn’t I reach the Supreme Peak realm?”
 
-As I howled toward the ceiling, whispers reached my ears.
+As I howled at the ceiling, whispers reached my ears.
 
 “Has something happened to Mr. Jin?”
 
