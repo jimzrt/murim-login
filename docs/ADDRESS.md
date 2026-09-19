@@ -709,3 +709,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 아크 리치 | victor_to_defeated_enemy | bastard | blunt and insulting-casual | Jin mocks the dying Arch Lich and orders it to insult Asmodeus. |
 | 진태경 | 스켈레톤 킹 | ally and companion | you | insulting-casual | Jin tells the Skeleton King that it is also a king and corrects it when it repeats the insult. |
 | 스켈레톤 킹 | 진태경 | ally and companion | you | casual and warm | The Skeleton King catches Jin after he collapses and quietly acknowledges his effort. |
+| 샤오 양 | 진태경 | foreign head of state to allied Hunter | Mr. Jin | formal-polite and sincere | Shao Yang refers to Jin as 진 선생 while expressing gratitude for preventing a global catastrophe. |
+| 최민우 | 샤오 양 | allied team leader to foreign head of state | Chairman | formal-polite and tactfully assertive | Choi addresses Shao Yang as 주석님 while pressing him about the Crown Prince Party's campaign against Jin. |

@@ -1,0 +1,106 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "People who had hurried through the streets trusting the weather forecast—which had promised clear skies, at least by the usual standards—were bewildered, and the Meteorological Agency was thrown into confusion.",
+      "defect": "The forecast predicted weather clearer than usual; “at least by the usual standards” changes the comparison into a qualification.",
+      "id": "F01",
+      "rationale": "평소보다 맑은 means “clearer than usual,” not merely clear by ordinary standards.",
+      "replacement": "People who had hurried through the streets trusting the weather forecast—which had confidently predicted clearer weather than usual—were bewildered, and the Meteorological Agency was thrown into confusion.",
+      "severity": "minor",
+      "source": "분명 평소보다 맑은 날씨일 거라는 일기예보를 믿고 거리를 바삐 오가던 사람들은 어리둥절했고, 기상청은 당황했다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Behind him sat the leaders of the nations belonging to the United Nations Security Council. The president of the People’s Republic of China lifted his lips toward the countless microphones, his eyes red and his voice thick with emotion.",
+      "defect": "The established political title 주석 has been changed from “Chairman” to “president,” and “lifted his lips” is an unnatural rendering of beginning to speak.",
+      "id": "F02",
+      "rationale": "The glossary binds 주석 as “Chairman,” while 입술을 뗐다 simply indicates that he opened his mouth and began speaking.",
+      "replacement": "Behind him sat the leaders of the nations belonging to the United Nations Security Council. The Chairman of the People’s Republic of China began speaking into the countless microphones, his eyes red and his voice thick with emotion.",
+      "severity": "major",
+      "source": "그의 뒤로 유엔 안전 보장 이사회에 속한 각국의 지도자들이 앉아 있었고, 중화 인민공화국의 주석은 붉어진 눈가와 축축한 목소리로 수많은 마이크를 향해 입술을 뗐다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“‘The Arch Lich has been erased’… Oh, shit, it’s true! Waaaaaaah! I thought I was going to get dragged into the reserves!”",
+      "defect": "The speaker is already a reservist and feared being called up for reserve duty, not being inducted into the reserves.",
+      "id": "F03",
+      "rationale": "예비군 끌려가다 colloquially means being compelled to report for reserve training or mobilization.",
+      "replacement": "“‘The Arch Lich has been erased’… Oh, shit, it’s true! Waaaaaaah! I thought I was going to get called up for reserve duty!”",
+      "severity": "minor",
+      "source": "“아크 리치 소멸…… 어어, 진짜네! 으와아아아악! 시발 예비군 끌려가는 줄 알았는데!”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "They heard neither Chairman Shao Yang’s thirty-minute announcement nor the additional explanation given afterward by the spokesperson for the United Nations Security Council.",
+      "defect": "The established name Xiao Yang is incorrectly romanized as Shao Yang.",
+      "id": "F04",
+      "rationale": "샤오 양 is Xiao Yang, as confirmed by the binding terminology note for his title.",
+      "replacement": "They heard neither Chairman Xiao Yang’s thirty-minute announcement nor the additional explanation given afterward by the spokesperson for the United Nations Security Council.",
+      "severity": "major",
+      "source": "삼십 분에 걸친 샤오 양 주석의 발표도, 이후 마이크를 이어받은 유엔 안전 보장 이사회 대변인의 추가 설명도 그들에게는 들리지 않았다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Unit cohesion. Yes, sir, Battalion Commander. This is Captain Lee Junbeom. Could I extend my leave by just one more day—? No, sir. I’m sorry, sir.”",
+      "defect": "단결 is being used as a terse military salute or unit motto; “Unit cohesion” reads as an abstract organizational concept rather than a spoken salute.",
+      "id": "F05",
+      "rationale": "The line opens with the soldier’s formulaic salute, whose abrupt delivery contributes to the joke.",
+      "replacement": "“Unity! Yes, Battalion Commander. This is Captain Lee Junbeom. Could I extend my leave by just one more day—? No, sir. I’m sorry, sir.”",
+      "severity": "minor",
+      "source": "“단결. 예, 대대장님. 저 대위 이준범입니다. 저 휴가 하루만 더 연장할…… 아닙니다. 죄송합니다.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Information had begun to leak out bit by bit through the supposedly impenetrable internal security, and people began raising questions.",
+      "defect": "“Supposedly” adds skepticism about whether the security was ever genuinely strong, which the source does not express.",
+      "id": "F06",
+      "rationale": "철통같은 directly characterizes the security as ironclad; the point is that information escaped despite it.",
+      "replacement": "Information had begun leaking out bit by bit from behind the ironclad internal security, and people began raising questions.",
+      "severity": "minor",
+      "source": "철통같은 내부 보안에서 조금씩 새어 나간 정보들에 의해 의문을 제기하는 이들이 나타난 것이다."
+    },
+    {
+      "confidence": 0.93,
+      "current": "The people occupying a room that only a very small number of visitors were permitted to enter gazed at Jin Taekyung with worried expressions as he lay there wearing an oxygen mask.",
+      "defect": "The current wording says the people occupied the entire room, whereas they occupied a place within the restricted hospital room.",
+      "id": "F07",
+      "rationale": "병실의 한 자리를 차지한 locates the group within the room rather than describing them as occupying the room itself.",
+      "replacement": "The people gathered in one part of the hospital room, which only a select few were permitted to enter, gazed worriedly at Jin Taekyung as he lay there wearing an oxygen mask.",
+      "severity": "minor",
+      "source": "극소수만이 드나들 수 있는 병실의 한 자리를 차지한 사람들은, 산소호흡기를 착용한 채 누워 있는 진태경을 근심 어린 표정으로 바라보았다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Hm. Then there should be no reason for it… Why on earth hasn’t he regained consciousness?”",
+      "defect": "The draft changes the Chairman’s inference. He says that if both experts agree, their assessment must be reliable—not that there should be no reason for Jin’s condition.",
+      "id": "F08",
+      "rationale": "그렇다면 틀림없을 터인데 affirms the certainty of the two experts’ shared assessment before contrasting it with Jin’s continued unconsciousness.",
+      "replacement": "“Hmm. If both of them said so, there can be no doubt… Then why on earth hasn’t he regained consciousness?”",
+      "severity": "major",
+      "source": "「허어. 그렇다면 틀림없을 터인데…… 도대체 어째서 의식을 회복하지 못하는 건지.」"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Wu Heixing’s father was the head of the Crown Prince Party, which controlled half of the Chinese Communist Party.",
+      "defect": "The source says the Crown Prince Party constitutes or occupies half of the Communist Party, while “controlled half” changes that composition into an assertion of direct political control.",
+      "id": "F09",
+      "rationale": "절반을 차지하고 있는 describes the faction’s share of the larger party, not necessarily its control over that share.",
+      "replacement": "Wu Heixing’s father was the head of the Crown Prince Party, which made up half of the Chinese Communist Party.",
+      "severity": "major",
+      "source": "우헤이싱의 부친은 중국 공산당의 절반을 차지하고 있는 태자당의 우두머리다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "Corruption and embezzlement involving astronomical sums had been uncovered, and to deal with it, the Crown Prince Party would have to be uprooted from its very foundations.",
+      "defect": "The passive wording implies that the entire faction will be eradicated. The source says the faction itself will have to sacrifice its core supports or pay a ruinous price to absorb the scandal.",
+      "id": "F10",
+      "rationale": "기둥뿌리를 뽑아야 한다 is an active metaphor for paying an enormous, potentially ruinous cost, fitting the planned prosecution and purge of the faction’s leading figures.",
+      "replacement": "Corruption and embezzlement involving astronomical sums had been uncovered, and to contain the fallout, the Crown Prince Party would have to sacrifice its very pillars.",
+      "severity": "major",
+      "source": "천문학적인 액수의 비리, 부패가 드러났고 그걸 감당하려면 태자당은 기둥뿌리를 뽑아야 한다."
+    }
+  ],
+  "summary": "Several actionable fidelity and terminology issues, including an altered diagnostic inference, a changed description of the Crown Prince Party’s power, and an incorrect established name and political title.",
+  "version": 1
+}
