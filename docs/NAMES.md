@@ -1600,3 +1600,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 타구봉 | **Dog-Beating Staff** | Signature weapon associated with the Beggars' Sect. |
 | 창룡 | **Azure Dragon** | Divine dragon form invoked in Hyeongong's blessing. |
 | 무량수불 | **Infinite Life Buddha** | Buddhist invocation used by Taekyung. |
+| 이룡 | **Two Dragons** | Collective ranking beneath the Ten Kings in Murim gossip. |
+| 무극태을검 | **Martial Extremity Grand Unity Sword** | Cheongpung's sword technique used to cut through the imugi corpse. |
