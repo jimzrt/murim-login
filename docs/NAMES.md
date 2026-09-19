@@ -1584,3 +1584,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 시산혈해 | **sea of corpses and blood** | Description of the preceding months of bloodshed. |
 | 혈어 | **Blood Fish** | Local name for the aggressive mutated fish in the Gate's waterways. |
 | 변이된 송사리 | **Mutated Minnow** | System identification for the Level 5 fish species created by weak mana exposure. |
+| 강강수월래 | **Ganggangsullae** | Traditional Korean circle dance and folk song used in Taekyung's word-chain joke. |
+| 생사부 | **Book of Life and Death** | Yama's register of life and death. |

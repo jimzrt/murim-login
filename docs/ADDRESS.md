@@ -818,3 +818,7 @@ Overrides generic relationship prose in character profiles for this pair.
 | 궁기방 | 진위경 | martial_companion_to_family_head | Great Hero Jin | familiar and polite | Asks Jin Wikyung not to exclude the Beggars' Sect from the defense. |
 | 궁기방 | 남천마후 | beggars_sect_successor_to_hostile_demon_empress | young lady / you | joking and threatening | Threatens to smash her face with his club. |
 | 남천마후 | 여 표사 | passenger_to_female_escort | you | flirtatious and amused | Compliments the female escort and asks how long remains until Yunnan. |
+| 중년 도사 | 진태경 | Wudang gatekeeper to celebrated visiting martial artist | Young Hero / Great Hero Jin | deferential and welcoming | Recognizes Taekyung as the Blazing Flame Divine Dragon and trusts him enough to grant passage. |
+| 중년 도사 | 문경 | Wudang gatekeeper to young medical apprentice | young man / medical apprentice | polite and curious | Asks about Mungyeong and requests that he examine the Daoist later. |
+| 진태경 | 중년 도사 | celebrated visiting martial artist to Wudang gatekeeper | Daoist | polite | Taekyung addresses the middle-aged guard respectfully while attempting to pass. |
+| 문경 | 중년 도사 | hidden legendary assassin to Wudang gatekeeper | Daoist | deferential and controlled | Mungyeong politely accepts the guard's proposed private interval. |

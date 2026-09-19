@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“About a quarter of an hour. Will that be enough?”",
+      "defect": "A 식경 is roughly the time needed to eat a meal—about half an hour—not a quarter of an hour.",
+      "id": "F01",
+      "rationale": "The translation halves the explicitly stated duration, altering a scene quantity.",
+      "replacement": "“About half an hour. Will that be enough?”",
+      "severity": "critical",
+      "source": "“한 식경(食頃). 그 정도면 되겠소?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Ha ha. Then I’ll return in a quarter of an hour.”",
+      "defect": "The second occurrence of 식경 is again reduced from approximately half an hour to fifteen minutes.",
+      "id": "F02",
+      "rationale": "This repeats the altered time quantity in the Daoist’s departure statement.",
+      "replacement": "“Ha ha. Then I’ll return in half an hour.”",
+      "severity": "critical",
+      "source": "“허허. 그럼 한 식경 뒤에 돌아오겠소.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Even among Supreme Peak masters, Jeok Cheongang and the Slaughter Saint possessed different depths of enlightenment. They were both biological wiretaps capable of listening in on other people’s Sound Transmission.",
+      "defect": "The current wording says Jeok Cheongang and the Slaughter Saint differ from each other in their depth of enlightenment. The source says both stand at a different depth from ordinary Supreme Peak masters, explaining their ability to intercept others’ Sound Transmissions.",
+      "id": "F03",
+      "rationale": "The comparison establishes their exceptional shared attainment and the mechanism behind their eavesdropping ability, not a disparity between the two men.",
+      "replacement": "Even among Supreme Peak masters, Jeok Cheongang and the Slaughter Saint were on a different level of enlightenment, making them biological wiretaps capable of eavesdropping on other people’s Sound Transmissions.",
+      "severity": "major",
+      "source": "같은 초절정 고수여도 깨달음의 깊이가 다른 적천강과 살성은 다른 이의 전음까지 훔쳐 들을 수 있는 생체 도청 장치니까."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Someone might have said that one of us had built murderous intent instead of friendship.\n\nStill, we had built something.",
+      "defect": "The draft turns Taekyung’s direct observation that someone has accumulated murderous intent into a hypothetical statement that someone else might make.",
+      "id": "F04",
+      "rationale": "The source contrasts the friendship Taekyung claims they built with the murderous intent Mungyeong appears to have built; no third party is imagined as saying this.",
+      "replacement": "Though someone seemed to have built up murderous intent instead of friendship.\n\nStill, something had been built.",
+      "severity": "minor",
+      "source": "누군가는 우정이 대신 살심을 쌓은 것 같긴 하지만. 그래도 뭔가를 쌓긴 쌓았지."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Ah, I see. You’ve had a long night. Mungyeong, let’s go.”",
+      "defect": "고생 많으십니다 politely acknowledges the Daoist’s hard work; it does not state that he has had a long night.",
+      "id": "F05",
+      "rationale": "The replacement restores Taekyung’s conspicuously polite acknowledgment while avoiding an unsupported claim about the length or difficulty of the Daoist’s night.",
+      "replacement": "“Ah, I see. Thank you for your hard work. Mungyeong, let’s go!”",
+      "severity": "minor",
+      "source": "“아아, 그러시구나. 고생 많으십니다. 문경아, 가자!”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "—This is merely an old man’s concern, but if there is something happening that you haven’t realized, blink three times. If nothing is wrong, blink twice.",
+      "defect": "노파심 is an idiom for possibly needless or excessive concern, not literally an old man’s concern. The current wording also obscures that the Daoist suspects something may be happening to Taekyung without his awareness.",
+      "id": "F06",
+      "rationale": "This preserves the Daoist’s cautious, apologetic framing and makes the suspected danger’s target explicit.",
+      "replacement": "—Perhaps I’m worrying over nothing, but if something is happening to you without your realizing it, blink three times. If nothing is wrong, blink twice.",
+      "severity": "minor",
+      "source": "- 이건 노파심에 하는 말이오만, 혹 본인이 짐작하지 못하고 있는 어떤 일이 있다면 눈을 세 번, 아무 일도 아니라면 두 번 깜빡이시오."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“...I’ll carefully remove those two syllables. I was running my mouth. I guess I won’t come to my senses until I see a coffin.”",
+      "defect": "The literal reference to two Korean syllabic characters becomes false in English because “die” has only one syllable, making the exchange sound like a translation artifact.",
+      "id": "F07",
+      "rationale": "The replacement preserves Taekyung’s immediate retraction and the coffin setup for Mungyeong’s next repeated question without importing Korean character counting into the English dialogue.",
+      "replacement": "“…I’ll carefully take that part back. I should’ve watched my mouth. I guess I won’t come to my senses until I see a coffin.”",
+      "severity": "minor",
+      "source": "“……그 두 글자는 조심스럽게 빼겠습니다. 제가 입이 방정이었네요. 관짝을 봐야 정신을 차리지.”"
+    }
+  ],
+  "summary": "The draft alters a repeated time quantity, misstates the relative depth of two masters’ enlightenment, and contains several localized fidelity and register defects.",
+  "version": 1
+}
