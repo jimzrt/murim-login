@@ -20,17 +20,17 @@ Wealth and fame.
 
 Those were the two words most people associated with being a Hunter.
 
-Even now, decades after the Great Cataclysm ended, they don’t want to think about the fact that hundreds of Hunters still die in Gates every year.
+Even now, decades after the Great Cataclysm ended, they didn’t want to think about the hundreds of Hunters who still died in Gates every year.
 
-“You have everything the public wants. Good looks, buzz, and a fresh character unlike anything they’ve seen before.”
+“You have everything the public wants. Good looks, buzz, and a fresh personality unlike anything they’ve seen before.”
 
-Won Myunghoon’s face flushed with excitement. His heated voice continued.
+Won Myunghoon’s face flushed with excitement, and his voice grew more heated.
 
 “But how long will that last? The public gets excited quickly and loses interest even faster.”
 
 “Hyung.”
 
-“If you let this opportunity pass, you won’t even become a flash-in-the-pan star, Taekyung. Fortunately, it isn’t too late yet. If you start getting professional management now, appear on television, and work on your image…”
+“If you let this opportunity pass, you won’t even become a flash in the pan. Fortunately, it isn’t too late yet. If you start getting professional management now, appear on television, and work on your image…”
 
 “Wait, wait. Hyung.”
 
@@ -46,13 +46,13 @@ I hadn’t expected the conversation to go in this direction, but I might as wel
 
 “Uh, I’m sorry, but I have no intention of changing Guilds.”
 
-Won Myunghoon opened and closed his mouth as if he was about to say something, then nodded.
+Won Myunghoon opened and closed his mouth as if he wanted to say something, then nodded.
 
 “Right. That’s understandable at your age. Then let’s forget about changing Guilds. How about signing with an entertainment agency instead? It’s pretty common these days.”
 
 “An entertainment agency?”
 
-“Yeah. I happen to own a major stake in one.”
+“Yeah. I’m the majority shareholder in one.”
 
 Holding contracts with two Guilds was illegal, but there was nothing wrong with engaging in other kinds of work.
 
@@ -72,25 +72,25 @@ But I answered without hesitation.
 
 Won Myunghoon frowned.
 
-“Taekyung. You don’t seem to understand what I’m saying.”
+“Taekyung. I don’t think you understand what I’m saying.”
 
 “You’re saying I won’t become a star if I let this opportunity pass, right? That’s fine. I didn’t do any of this because I wanted to be one.”
 
 “I know. I know, but think it over one more time. Just one regular television show and a few major commercials could bring in tens—even hundreds—of billions of won. Can’t you tell just by looking at me?”
 
-Won Myunghoon spread both arms wide. From head to toe, he was dressed in luxury brands whose names and prices I couldn’t even begin to guess.
+Won Myunghoon spread his arms wide. He was decked out from head to toe in luxury brands whose names and prices I couldn’t even begin to guess.
 
-I suddenly remembered an Internet article I had seen in the past.
+I suddenly remembered an online article I’d seen years ago.
 
 > **A-Rank Hunter Won Myunghoon Purchases Building Worth Tens of Billions in Cheongdam-dong**
 
 The man from that article—the man I had admired and envied endlessly—was standing right in front of me.
 
-“I saw your interview. You’ve been pretty busy. Isn’t it time you enjoyed life a little? I heard your dream was to own a building.”
+“I saw your interview. You’ve had a pretty hard life. Isn’t it time you enjoyed yourself a little? I heard your dream was to own a building.”
 
 “That’s true.”
 
-It had changed a little, but it was still one of the goals I wanted to achieve.
+The details had changed a little, but it was still one of the goals I wanted to achieve.
 
 When I nodded readily, Won Myunghoon flashed me a grin.
 
@@ -98,19 +98,19 @@ When I nodded readily, Won Myunghoon flashed me a grin.
 
 “Oh, really?”
 
-“Of course. You just need to get used to smiling brightly and delivering your lines in front of a camera.”
+“Of course. You just need to get used to smiling for the camera and delivering your lines.”
 
 “Then I’d probably prefer Gates. I’m more the physical type, and I don’t like feeling stifled.”
 
 “…What?”
 
-“I also swear a lot in everyday life. It wouldn’t pass broadcast standards. Even if I attracted attention for no reason, my family would just suffer like they are now.”
+“I also swear a lot in everyday life. I’d never pass broadcast standards. Drawing more attention would only make things harder for my family, just like it is now.”
 
 “T-Taekyung.”
 
-I continued speaking as I watched his obvious bewilderment.
+I continued, watching his bewilderment deepen.
 
-“And as for owning a building, I can become a building owner without doing television or commercials. It’ll take some time, but still.”
+“And as for owning a building, I can manage that without appearing on television or filming commercials. It’ll take a little longer, but still.”
 
 “What are you talking about? A-rank Hunters make a lot of money, sure, but do you have any idea how expensive land in Gangnam is?”
 
@@ -118,7 +118,7 @@ I continued speaking as I watched his obvious bewilderment.
 
 “Yeah. Do you even know the current price per pyeong there—?”
 
-I blinked blankly, then let out a quiet laugh.
+I stared at him blankly for a moment, then let out a quiet laugh.
 
 “Why Gangnam? I can just buy a building near my house.”
 
@@ -128,7 +128,7 @@ I blinked blankly, then let out a quiet laugh.
 
 “…A neighborhood commercial building?”
 
-“Yes. It’d be close, so it would be easy to visit, and the rent would come in like clockwork. If Mom says she’s bored after quitting her job, I could set her up with a little snack bar or something.”
+“Yes. It’d be close enough to visit whenever I wanted, and the rent would come in like clockwork. If Mom gets bored after quitting her job, I could set her up with a little snack bar or something.”
 
 “A snack bar?”
 
@@ -178,7 +178,7 @@ I looked at the time and realized that we had gone well past the thirty minutes 
 
 “Already? You must be busy.”
 
-“The Association contacted me and asked me to get my rank reassessed today. I got your number today, so I’ll contact you again soon.”
+“The Association contacted me and asked me to get my rank reassessed today. I have your number now, so I’ll call you again soon.”
 
 “Then I’ll see you next time. It was nice meeting you.”
 
@@ -200,7 +200,7 @@ The black sedan parked by the roadside honked.
 
 Won Myunghoon didn’t answer the part-time worker’s question. He stared silently at the empty coffee cup before abruptly speaking.
 
-“Do you perhaps not know who I am?”
+“Do you not know who I am?”
 
 “Pardon?”
 
@@ -220,11 +220,11 @@ The smile slowly vanished from the part-time worker’s face.
 
 After nervously watching him for a moment, the worker quietly returned to the counter. Some time later, a familiar melody began playing throughout the café, and the corner of Won Myunghoon’s mouth twisted.
 
-It was his own song, released ten years ago.
+It was one of his own songs, released ten years ago.
 
 All of it had become a relic of the past.
 
-“Who does that bastard think he’s mocking…?”
+“Is that bastard making fun of me…?”
 
 His low voice was buried beneath the music. Won Myunghoon rose from his seat.
 
@@ -232,7 +232,7 @@ His thoughts were consumed by a single person.
 
 Jin Taekyung—a dayfly Hunter who, until only a few months ago, had scraped by going from one F-rank Gate to another.
 
-But now he was someone who received the public’s attention and affection.
+And now, he basked in the public’s attention and affection.
 
 “A coin karaoke room, my ass… Some lucky bastard gets one flash of fame and forgets his place.”
 
@@ -244,7 +244,7 @@ His expensive, flashy outfit drew the eyes of people passing on the street, but 
 
 “Congratulations, Mr. Jin Taekyung.”
 
-The Bucheon Hunter Association president, a middle-aged man with hair more than half gray, handed me a card with a genial smile.
+The president of the Bucheon Hunter Association, a middle-aged man with graying hair, handed me a card with a genial smile.
 
 About half the size of my palm, the card gleamed silver from edge to edge.
 
@@ -252,19 +252,19 @@ Platinum.
 
 The card was made of actual platinum, and everyone dreamed of possessing one, even if only in their sleep.
 
-*It means I’ve gained that much wealth and fame.*
+*Because it means you’ve gained that much wealth and fame.*
 
 But perhaps because I’d fully expected this, I felt surprisingly calm as I accepted the card from the Association president amid the barrage of flashes from countless cameras.
 
 *I’m a Peak master. Becoming an A-rank Hunter is no big deal.*
 
-Still, I felt pretty good.
+Still, it felt pretty damn good.
 
-I grinned and waved at the cameras, and the Association president asked in a robotic tone,
+I grinned and waved at the cameras. The Association president turned to me and asked in a robotic voice,
 
 “So, Mr. Jin Taekyung. How do you feel right now?”
 
-*Obviously, I feel fantastic.*
+*Fucking fantastic, obviously.*
 
 I was just about to answer when—
 
@@ -294,7 +294,7 @@ The Association president froze, his face stricken. The broadcasting staff looke
 
 This had to be one of the worst broadcast disasters in history.
 
-Feeling my throat grow painfully dry, I whispered to the Association president,
+My throat went dry. I leaned toward the Association president and whispered,
 
 “They’ll edit that out, right? You have to make sure they do.”
 
@@ -322,7 +322,7 @@ The chat beside the video looked ready to explode from the sheer volume of messa
 
 The Association president snapped at me, his face bright red. Just then, the camera director at the very front mouthed something.
 
-—The reaction is good?
+—They love it.
 
 “Huh?”
 
@@ -330,7 +330,7 @@ The Association president snapped at me, his face bright red. Just then, the cam
 
 *What is that supposed to mean?*
 
-I looked at the chaotic chat window. Dozens—no, hundreds—of messages had scrolled past in only a few seconds, but my extraordinary dynamic vision caught every little detail.
+I looked at the chaotic chat. Dozens—no, hundreds—of messages streamed past in a matter of seconds, but my extraordinary dynamic vision caught every last one.
 
 ㅋㅋㅋㅋㅋ
 
@@ -340,7 +340,7 @@ Not Taekyung the Lord. He’s Lord Fuck nowㅋㅋㅋㅋㅋ
 
 Best acceptance speech everㅋㅋㅋㅋㅋ Usually they start with religion or family, then finish with, “And thank you, Minsik, Changsu, Hyerim,” or somethingㅋㅋㅋㅋㅋ
 
-Lord Fuck doesn’t do any of that. I knew what he was like from the moment he beat down an ogre on his way to work, dragging his slippersㅋㅋ
+Lord Fuck doesn’t bother with any of that. I knew what kind of guy he was when he beat an ogre to death on his way to work in slippersㅋㅋ
 
 ??? : Oh, fuck.
 
@@ -350,7 +350,7 @@ Taekyung, nobody cares, so just do whatever you wantㅋㅋㅋㅋ I’d probably 
 
 └ May your parents live long and healthy lives.
 
-? What the fuck is this guy?
+? What the fuck is wrong with this guy?
 
 It was a complete mess, but one thing was clear.
 
