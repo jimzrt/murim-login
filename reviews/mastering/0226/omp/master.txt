@@ -2,23 +2,23 @@
 
 Click, click!
 
-A barrage of camera flashes blinded me. You’d think I would have gotten used to it by now, but apparently I really was a caterpillar that had to eat pine needles.
+A barrage of camera flashes blinded me. You’d think I would have gotten used to it by now, but apparently I was still a pine caterpillar who belonged among pine needles.
 
 “Mr. Jin Taekyung! Did you clear the Gate?”
 
 “If not, why did you come out so quickly?”
 
-Questions rained down from the reporters. If the Gate security guards hadn’t been there, they looked ready to jam their microphones into my mouth already.
+Questions rained down from the reporters. If the Gate security guards hadn’t been there, they would have shoved their microphones straight into my mouth.
 
 But the initial frenzy soon died down, and confused voices rose to fill the void.
 
-“But… why is Jin Taekyung covered in blood like that?”
+“But… why is Jin Taekyung covered in blood?”
 
 “The numbers don’t add up, either. The people behind him are Star Guild members.”
 
-“They’re even tied up.”
+“And they’re tied up.”
 
-“Where’s Won Myunghoon? I don’t see him, either!”
+“Where’s Won Myunghoon? I don’t see him!”
 
 I could more or less imagine how we looked on camera.
 
@@ -36,7 +36,7 @@ He had tried to stop me, and I had refused. This had happened because of my choi
 
 The confused murmuring didn’t last long. The moment the reporters caught the scent of a scoop, they went wild.
 
-I calmly watched the frenzied press corps before asking the young reporter at the front a question. He wore thick, horn-rimmed glasses.
+I watched the frenzied press corps for a moment, then addressed the young reporter at the very front. He wore thick, horn-rimmed glasses.
 
 “Who do you work for?”
 
@@ -48,7 +48,7 @@ The young man flinched.
 
 “Uh, well, I…”
 
-He had been shouting the loudest from the front, but apparently hadn’t expected anything like this to happen.
+He had been shouting louder than anyone, but apparently he hadn’t expected to be singled out.
 
 After a brief panic, he finally managed to answer.
 
@@ -56,11 +56,11 @@ After a brief panic, he finally managed to answer.
 
 “Oh. Them.”
 
-HunterTV was a channel that focused on Hunter-related issues and information.
+HunterTV was a channel devoted to Hunter-related news and information.
 
 It was a cable channel, but it was also a major broadcaster whose ratings surpassed those of terrestrial networks.
 
-Since it was connected to what I was about to say, both the reporter and I were lucky.
+As luck would have it, that made it a good fit for what I was about to say.
 
 “I’ll take your questions.”
 
@@ -148,7 +148,7 @@ Did Lord Fuck get hurt? He’s covered in blood.
 
 Half the people are missing, too. And the ones there are tied up;;
 
-What the hell is this? Something happened.
+What the hell is this? Something definitely happened.
 
 What’s HunterTV doing? If you started a broadcast, at least ask some questions.
 
@@ -158,13 +158,13 @@ Perhaps mindful of the chaos in the chat, the HunterTV reporter finally spoke.
 
 “It would take too long to explain everything from beginning to end… Is it all right if I summarize?”
 
-“Please do.”
+“Of course.”
 
 Vrrrrr.
 
 The camera zoomed in until Jin Taekyung’s face filled the screen.
 
-His face was smeared with blood and dust, but his eyes shone calmly. Then a composed voice flowed between his parted lips.
+His face was caked with blood and dust, but his eyes were calm and steady. A composed voice emerged from between his parted lips.
 
 “There was a Named Monster.”
 
@@ -180,11 +180,11 @@ The chat froze for a moment, then began racing upward.
 
 ???
 
-Wait, why is there a Named Monster here;;;
+Wait, why the hell was there a Named Monster in there;;;
 
 They must all be dead. No wonder so many people are missing;;
 
-Is Won Myunghoon dead, too? I haven’t seen him since earlier;
+Is Won Myunghoon dead, too? I haven’t seen him this whole time;
 
 Holy shit…
 
@@ -214,7 +214,7 @@ Then that means there’s still a Named Monster inside the Gate;;;
 
 So what? It’s inside the Gate. Isn’t it fine?
 
-Did this bastard just get here from Mars? You idiot, don’t you know what happens when the mana level exceeds a Gate’s capacity? The monsters come pouring out.
+Did this bastard just get back from Mars? You idiot, don’t you know monsters come pouring out if the mana level exceeds a Gate’s capacity?
 
 That catastrophe in Central and South America a few years ago happened because the mana level exceeded the limit and the Gate opened;;
 
@@ -226,21 +226,21 @@ The reporters who had been staring back and forth between Jin Taekyung and the c
 
 “A Named Monster!”
 
-“Hey, get out of here right now! Grab the cameras!”
+“Hey, get out of here! Grab the cameras!”
 
 No scoop was worth more than their lives.
 
-Just as the reporters, sensing the threat of death, began wading into chaos, someone who had been watching the entire situation finally spoke.
+Just as the reporters, sensing the threat of death, began descending into chaos, the man who had been watching it all finally spoke.
 
 “Ah, I already took down the raid monster, so you don’t have to worry too much.”
 
 His clear voice rang in everyone’s ears.
 
-The reporters who had been trying to flee in a panic and the viewers staring at their phone screens while swallowing nervously both wondered if they had heard correctly.
+The reporters who had been about to flee and the viewers swallowing nervously as they stared at their phone screens all wondered if they had heard him correctly.
 
 “Pardon?”
 
-“……What did you say?”
+“……What did he say?”
 
 ????
 
@@ -248,7 +248,7 @@ I think I heard that wrong.
 
 What did Lord Fuck just say?
 
-He says he killed a Named Monster…?
+He says he killed the Named Monster…?
 
 Who did?
 
@@ -256,7 +256,7 @@ Lord Fuck.
 
 What did he kill?
 
-A Named Monster.
+The Named Monster.
 
 Can he even do that?
 
@@ -278,7 +278,7 @@ He killed it? A Named Monster?
 
 Everyone’s jaws dropped at the unbelievable words that had come from Jin Taekyung’s mouth. One reporter finally recovered enough to blurt out a question.
 
-“T-Then did the others die in the process?”
+“T-Then did the others die fighting it?”
 
 “Seven people died. The rest are safe…”
 
@@ -300,7 +300,7 @@ Jin Taekyung hesitated briefly before adding,
 
 Before the aftershock of the Named Monster bomb had even faded, a second bomb went off.
 
-The dozens of reporters at the scene and the 100,000 viewers watching the screen were left half dazed.
+The dozens of reporters at the scene and the 100,000 viewers watching the stream were left half dazed.
 
 *What the hell is he talking about?*
 
@@ -322,7 +322,7 @@ Everything moved swiftly from there. The emergency investigation team dug into t
 
 Countless eyes were on the case. If they missed even a single detail, they might receive a lifetime’s worth of abuse.
 
-“Handle this properly. Miss even one thing and you’re finished—finished!”
+“Handle this properly. Miss one thing and your head rolls, got it?”
 
 “This has already been reported all the way to the Blue House. If we slip up, we’re all going over the cliff together.”
 
@@ -344,7 +344,7 @@ By then, every Star Guild member who had participated in the raid was tied to a 
 
 “I’m telling you, I don’t know anything.”
 
-“Ha, you bastard… You’d spill everything with one mental spell, but you still have to be annoying.”
+“Ha, you bastard… One mental spell would have you spilling everything, but you still have to make this annoying.”
 
 “Did you just swear at me? You think being a prosecutor means you can do whatever you want? And don’t you know mental magic is illegal?”
 
@@ -356,9 +356,9 @@ The prosecutors were racking their brains over the Star Guild members’ stubbor
 
 Kim Jonghun, Team 1 Leader of the Star Guild, was still mentally shaken when he confessed to everything that had happened.
 
-It was a perfect testimony. On top of that, an anonymous informant had sent a USB drive and a note.
+His testimony was comprehensive. On top of that, an anonymous informant sent in a USB drive and a note.
 
-> The Hapsburphon family, a long-established German family of equipment makers, has produced rare and highly practical items. One of their representative products is the PSV-96K camera, which cannot be detected by any detection magic and functions normally even in Gates with unstable mana…
+> The Hapsburphon family, a long-established German family of equipment makers, has produced many rare and highly practical items. The PSV-96K camera is a prime example. It cannot be detected by any detection magic and functions normally even inside Gates with unstable mana…
 
 The prosecutor in charge stared incredulously at the note before asking the investigator,
 
@@ -366,17 +366,17 @@ The prosecutor in charge stared incredulously at the note before asking the inve
 
 “They filmed the entire raid. There’s footage on the USB. Open it and you’ll see. That bastard Won Myunghoon was a real piece of shit.”
 
-“Filming is illegal, isn’t it?”
+“Filming inside a Gate is illegal, isn’t it?”
 
 “It is.”
 
 “It was the Peace Guild, right?”
 
-“Wouldn’t you say so?”
+“Who else would it be?”
 
 “…….”
 
-“Let that much slide. Every Guild with enough clout does it. They didn’t leak it to civilians, and thanks to them, we secured conclusive physical evidence. We both benefit from this…”
+“Let that much slide. Every Guild worth its salt does it. They didn’t leak it to civilians, and thanks to them, we’ve secured conclusive evidence. We both benefit…”
 
 Bang!
 
@@ -384,15 +384,15 @@ An employee burst through the door and thrust out his phone.
 
 “H-Have you seen this?”
 
-The number-one real-time search term was boldly displayed across the screen:
+The number-one real-time search term was displayed prominently across the screen:
 
 “Won Myunghoon Raid Footage Leaked.”
 
-As the ugly side of a former star people remembered fondly was revealed, the internet boiled like a cauldron over hot coals.
+As the ugly side of a star people remembered fondly was exposed, the internet boiled like a cauldron over hot coals.
 
 What a fucking bastard.
 
-My head is ringing. Is this really true? It’s not staged, is it?
+This really hit me out of nowhere. Is it actually real? It isn’t staged?
 
 Good riddance. Taekyung was right to kill him.
 
@@ -406,7 +406,7 @@ Still, it was clearly murder. Did he really have to kill Won Myunghoon…?
 
 └ You’re calling this murder? Have you never heard of self-defense?
 
-Only two days had passed since the incident. Yet the backlash was fiercer than anything people could remember.
+Only two days had passed since the incident, yet the fallout was fiercer than anything people could remember.
 
 Each time another long-buried suspicion about Won Myunghoon came to light, public fury boiled over anew.
 
