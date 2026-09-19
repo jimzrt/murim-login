@@ -10,7 +10,7 @@ Maybe it was because of the one I’d encountered three years ago.
 
 *Is it because I’ve gotten stronger? No. That thing was much bigger and stronger.*
 
-That one had been pitch-black all over. By contrast, the Wyvern circling overhead now had a bright green body.
+That one had been pitch-black from head to toe. By contrast, the Wyvern circling overhead now was bright green.
 
 At the head of the group, Won Myunghoon announced its identity in a powerful voice.
 
@@ -20,7 +20,7 @@ A man in his early thirties drove a tower shield into the ground and shouted,
 
 “Form up!”
 
-At the command of Star Guild’s second A-Rank Hunter and Team Leader 1, the tanks rushed forward and formed a wall of shields.
+He was Star Guild’s second A-Rank Hunter and the leader of Team One. At his command, the tanks rushed forward and formed a wall of shields.
 
 “Taekyung, watch yourself!”
 
@@ -34,7 +34,7 @@ The mages and healers standing by began chanting their spells.
 
 “Let the wind dwell within you. Haste!”
 
-“Power that shatters stone. Strength!”
+“Strength that shatters stone. Strength!”
 
 “Vitality to the weary flesh. Healing!”
 
@@ -74,7 +74,7 @@ The next moment, green slime visible even from a distance poured down like torre
 
 Some people ducked behind the tanks’ shield wall, while others threw themselves toward nearby cover.
 
-I was one of the latter. The moment I took shelter behind a boulder the size of a house, green rain blanketed everything within a radius of about thirty meters.
+I was one of the latter. The moment I took shelter behind a boulder the size of a house, green rain blanketed everything within a thirty-meter radius.
 
 Thut-thut-thut. Ssssss!
 
@@ -88,7 +88,7 @@ A tiger cub was still a tiger.
 
 The Green Wyvern might have been relatively weak for its kind, but it spewed its poison with frightening speed, and the acid was incredibly potent. Any middling or low-rank Hunters would have melted along with their Equipment.
 
-“Team Leader 1. Casualty report.”
+“Team One Leader. Casualty report.”
 
 “None.”
 
@@ -142,7 +142,7 @@ After tossing out those words, Won Myunghoon shifted his spear into a reverse gr
 
 Veins bulged across his dense muscles, and an immense amount of mana surged into his spear like a rising tide.
 
-At the same time, a faint line of light appeared along the spearhead.
+At the same time, a faint light gathered along the spearhead.
 
 Ssssss.
 
@@ -160,7 +160,7 @@ Won Myunghoon kicked off the ground and charged forward. One step, two, and fina
 
 The Green Wyvern, no more than a black speck moments ago, was now only a few meters above us. Its green eyes, each as large as a basketball, flashed, and its rough-scaled jaws opened wide.
 
-Just as its sharp teeth were about to descend upon its small prey—
+Just as its sharp teeth were about to close on its tiny prey—
 
 “Hah!”
 
@@ -186,9 +186,9 @@ Only a few seconds later, its rigidly raised tail dropped limply to the ground.
 
 “Kiiiuuu…”
 
-With its dying cry, the light vanished from its savage eyes.
+With that final cry, the light vanished from its savage eyes.
 
-Then, as if to prove its death, a System notification rang out.
+Then, as if to confirm its death, a System notification rang out.
 
 Ding.
 
@@ -222,9 +222,9 @@ A gravelly voice suddenly cut in.
 
 “Who wouldn’t be?”
 
-It was Team Leader 1, Star Guild’s second-in-command and the main tank of today’s raid team.
+It was the leader of Team One, Star Guild’s second-in-command and the main tank of today’s raid team.
 
-He looked like a weasel. Tapping me lightly on the arm, he continued with a shameless grin.
+He looked like a weasel. He gave my arm a light tap and spoke with an easy grin.
 
 “When I first saw it, I wondered how something like that could even exist. People don’t say you need to wield Aura to be a true A-Rank Hunter for nothing.”
 
@@ -244,11 +244,11 @@ I licked my dry lips, unsure what to say. Fortunately, Won Myunghoon spoke befor
 
 “Understood, Guild Master. Loyalty!”
 
-After giving an exaggerated salute, Team Leader 1 turned away.
+The Team One Leader snapped off an exaggerated salute and turned away.
 
 “That guy’s always been like that. He’s flighty and careless enough to send the wrong contract…”
 
-Won Myunghoon’s voice trailed off as he watched Team Leader 1 walk away.
+Watching the man walk away, Won Myunghoon trailed off.
 
 “But, Taekyung.”
 
@@ -262,7 +262,7 @@ Won Myunghoon’s voice trailed off as he watched Team Leader 1 walk away.
 
 “…”
 
-I swallowed the words that had risen to my throat. I finally understood how the barber who saw the king’s donkey ears must have felt.
+I swallowed the words that had risen to my throat. Now I understood how the barber who saw the king’s donkey ears must have felt.
 
 *That wasn’t what surprised me.*
 
@@ -298,7 +298,7 @@ My head was full of questions, but if I had to sum up my thoughts in a single li
 
 *What the fuck is this?*
 
-It was unfair. There was no particular reason for me to feel wronged, but somehow I felt spectacularly cheated!
+I felt cheated. I had no particular reason to, but somehow I felt spectacularly cheated!
 
 It was like reserving a full-course meal at a seven-star hotel only to be served braised boneless pollock and beef bibim sauce.
 
@@ -336,21 +336,21 @@ Thinking of the black anaconda coiled inside my pants lifted my gloomy mood a li
 
 * * *
 
-While the Hunters dismantled the Green Wyvern and cleaned up the area, Won Myunghoon and Team Leader 1 moved to a secluded spot.
+While the Hunters dismantled the Green Wyvern and cleaned up the area, Won Myunghoon and the Team One Leader moved to a secluded spot.
 
 “That necklace works well.”
 
-Team Leader 1 grinned.
+The Team One Leader grinned.
 
 “It wasn’t easy to get. Even magical scans can’t detect it.”
 
 “Yeah, you did well, but…”
 
-Won Myunghoon suddenly furrowed his brow and continued.
+Won Myunghoon suddenly frowned.
 
 “It’s more effective than I expected. We haven’t even left the jungle yet, and a Wyvern has already appeared.”
 
-“Couldn’t it just be a coincidence? It’s not that rare.”
+“Couldn’t it just be a coincidence? It’s not unheard of.”
 
 “It was a coincidence eight years ago, too.”
 
@@ -362,7 +362,7 @@ Won Myunghoon answered in a low voice and looked around.
 
 Everywhere he looked, there was nothing but grass, trees, and strange insects. He wanted to return to the forest of skyscrapers as soon as possible.
 
-“Let’s get started soon. Something bigger and stronger than a Green Wyvern needs to show up.”
+“Let’s get started. We need something bigger and stronger than a Green Wyvern to show up.”
 
 “So the surviving witnesses can testify?”
 
