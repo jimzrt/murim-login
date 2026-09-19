@@ -54,7 +54,7 @@ Even within the Ares Guild, everyone could only speculate about his abilities. L
 
 *“I’ve never thought about it.”*
 
-*“With your abilities, you could make a name for yourself anywhere right now.”*
+*“With your abilities, you could make a name for yourself anywhere.”*
 
 *“I have no interest in such things. I will always remain by your side, Master.”*
 
@@ -80,7 +80,7 @@ It was only natural for a fanatic to lose his mind when someone insulted the god
 
 *You filthy bastard… I’ll tear you apart.*
 
-The moment his Master’s order to avoid a clash with the Peace Guild was wiped clean from his mind, aura had already gathered around his fist.
+The instant his Master’s order to avoid conflict with the Peace Guild vanished from his mind, aura gathered around his fist.
 
 “If you think this will end the same way it did last time… I’ll make you regret it.”
 
@@ -218,9 +218,9 @@ Slump. Thud!
 
 A suffocating silence descended.
 
-No one dared to speak. No one could even move. Hundreds of trembling pairs of eyes swept over my entire body.
+No one dared to speak. No one could even move. Hundreds of trembling eyes roamed over my body.
 
-I stared absently at the unconscious Go Jun, then gave a brief assessment.
+I looked down at the unconscious Go Jun and offered a brief assessment.
 
 “So why the fuck did you have to start shit? You’re nothing special, asshole.”
 
@@ -244,7 +244,7 @@ Lee Woojoong, the Seoul Branch President, jumped and averted his eyes before ans
 
 “Why are you suddenly speaking so formally? You were talking pretty informally just a minute ago.”
 
-The President’s face turned deathly pale as he stammered.
+The President’s face turned deathly pale.
 
 “M-me? I was?”
 
@@ -282,7 +282,7 @@ More than two hundred Association Hunters had followed their direct superior int
 
 Who the hell said that last one?
 
-I barely managed to suppress my urge to check his face.
+I barely suppressed the urge to find the bastard.
 
 “Well, that works out nicely.”
 
@@ -302,7 +302,7 @@ Still looking as though he could not believe his eyes, he glanced between me and
 
 “I don’t know what happened between you and Team Leader Seok… but you’ve made a serious mistake.”
 
-Judging by his words, he clearly did not know the exact circumstances behind the incident.
+From the way he spoke, he clearly knew nothing about what was really going on.
 
 I grinned.
 
@@ -360,6 +360,8 @@ Dozens more demanded an explanation.
 
 *Ah. I forgot about our Guild.*
 
+I had forgotten the most important people here.
+
 But where was I supposed to begin? And how much was I supposed to tell them?
 
 After a moment’s thought, I opened my mouth.
@@ -368,7 +370,7 @@ After a moment’s thought, I opened my mouth.
 
 “……”
 
-Silence flowed through the area.
+Silence.
 
 Then Song Song spoke in a gentler voice than I had ever heard from her before.
 
