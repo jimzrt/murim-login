@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "“W-what?”\n\n“What do you mean, ‘what’? You damn bastard.”",
+      "defect": "The draft omits Jeok Cheongang’s first flurry of blows, Taekyung’s stunned reaction, the isekai-title parody, Taekyung’s attempt to defend himself, Jeok’s declaration that he has heard Taekyung’s last words, and the hierarchy joke about Taekyung reverting to casual speech. It also changes Taekyung’s aborted attempt to say “Master,” which the later narration explicitly recalls, into an unrelated stammer.",
+      "id": "F01",
+      "rationale": "The source contains an entire comic reversal between Jeok’s apparent acceptance and the subsequent barrage. Restoring it preserves the first attack, the isekai joke, the speech-level reprimand, and the setup for Jeok later remembering that Taekyung began to say something starting with “M.”",
+      "replacement": "“M—yes?”\n\n“What do you mean, ‘yes,’ you damn bastard.”\n\nWhap-whap-whap!\n\nWhat the fuck?\n\nMy brain ground to a halt. I stared blankly, mouth hanging open, clutching the back of my head as his furious voice rang out.\n\n“Do you take this old man for an idiot? What? You’re not from this world? ‘I Was a Mere Civilian in Another World, but Now I’m a Supreme Peak Master in the Murim.’ Is that it?”\n\n“That title’s surprisingly trendy and pretty good—no, that’s not the point. Just hear me out.”\n\n“I already did. Your last words.”\n\n“Whoa, whoa. Hold on!”\n\n“‘Hold on’? After all the times I’ve beaten you, you still haven’t come to your senses, and now you’re talking to me like an equal again, you insolent little…!”",
+      "severity": "critical",
+      "source": "“스, 예?”\n\n“예는 무슨 개 같은 놈의 예.”\n\n빠바박!\n\n뭐여, 시벌.\n\n갑자기 찾아온 뇌정지 타임. 멍하니 입을 벌린 채 뒤통수를 감싸 안은 내게, 분노에 찬 목소리가 날아들었다.\n\n“노부가 머저리로 보이느냐? 뭐? 이 세상 사람이 아니야? 이세계에서 양민이었던 내가 무림에서는 초절정 고수. 뭐 그런 거냐!”\n\n“제목 생각보다 트렌디하고 괜찮은, 아니, 그게 아니라 제 말을 좀 들어 보세요.”\n\n“이미 들었다. 유언.”\n\n“어어, 어. 잠깐만!”\n\n“잠깐만? 그렇게 맞아도 정신을 못 차리고 또 반말을 쓰다니, 이런 개호로……!”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "It might have differed slightly from the teleportation I had experienced through Magic Johnson, but if that wasn’t teleportation, I’d let Hyuk Mujin sear my palm.",
+      "defect": "The joke’s subject and object are reversed. Taekyung threatens to burn Hyuk Mujin’s palm, not let Hyuk Mujin burn his.",
+      "id": "F02",
+      "rationale": "혁무진 손에 장을 지진다 explicitly makes Hyuk Mujin’s hand the hand that would be burned, preserving Taekyung’s joke of wagering someone else’s pain.",
+      "replacement": "It might have differed slightly from the teleportation I had experienced through Magic Johnson, but if that wasn’t teleportation, I’d burn Hyuk Mujin’s palm myself.",
+      "severity": "critical",
+      "source": "비록 내가 매직 존슨을 통해 경험했던 텔레포트와는 미세한 차이가 있다지만 그게 텔레포트가 아니면 혁무진 손에 장을 지진다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "While the Star-Array Grand Banquet was taking place in Henan, Shaolin—the Mount Tai and Northern Dipper of the orthodox faction—was attacked, and the flames of Dark Heaven spread to Sichuan.",
+      "defect": "The established honorific is truncated: 정파 무림 identifies Shaolin as the Mount Tai and Northern Dipper of the orthodox Murim, not merely of an abstract faction.",
+      "id": "F03",
+      "rationale": "This restores 무림 and preserves the binding rendering of 태산북두 while retaining the source’s orthodox-faction qualifier.",
+      "replacement": "While the Star-Array Grand Banquet was taking place in Henan, Shaolin—the Mount Tai and Northern Dipper of the orthodox Murim—was attacked, and the flames of Dark Heaven spread to Sichuan.",
+      "severity": "major",
+      "source": "하남에서 성라대연이 벌어지는 와중에 정파 무림의 태산북두라 불리는 소림이 습격당했고, 암천이라는 불길은 사천으로 번졌다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Jeok Cheongang clicked his tongue after his attack on the back of my head failed.",
+      "defect": "입맛을 다셨다 describes smacking one’s lips, not clicking one’s tongue; the draft changes the physical reaction.",
+      "id": "F04",
+      "rationale": "The replacement preserves the specified gesture and makes its contextual disappointment natural in English.",
+      "replacement": "Jeok Cheongang smacked his lips in disappointment after his attack on the back of my head failed.",
+      "severity": "minor",
+      "source": "뒤통수 어택에 실패한 적천강이 입맛을 다셨다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Separated from the others, I gazed at the blackened waters of Dongting Lake. Then I picked up a stone rolling across the ground and tossed it into the lake.",
+      "defect": "굴러다니는 here means a loose stone lying around; the draft makes the stone actively roll across the ground.",
+      "id": "F05",
+      "rationale": "The replacement removes unintended motion while preserving Taekyung’s action.",
+      "replacement": "Separated from the others, I gazed at the blackened waters of Dongting Lake. Then I picked up a loose stone from the ground and tossed it into the lake.",
+      "severity": "minor",
+      "source": "사람들에게서 홀로 떨어진 채로 검게 물든 동정호의 강물을 바라보던 나는, 바닥에 굴러다니는 돌멩이 하나를 집어 강물을 향해 던졌다."
+    }
+  ],
+  "summary": "One critical passage omission removes the chapter’s central fake-out and first beating; additional findings correct a reversed joke action, an established honorific description, and two physical-action errors.",
+  "version": 1
+}
